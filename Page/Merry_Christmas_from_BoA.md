@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Merry Christmas from BoA](https://ko.wikipedia.org/wiki/Merry_Christmas_from_BoA).
 
 
-《**Merry Christmas from BoA**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 일본에서 발매한 크리스마스 기념 디지털 싱글이다.
+《**Merry Christmas from BoA**》는 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](../Page/보아.md "wikilink")가 일본에서 발매한 크리스마스 기념 디지털 싱글이다.
 
 ## 설명
 

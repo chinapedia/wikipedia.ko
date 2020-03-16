@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Supreme Team Guide To Excellent Adventure](https://ko.wikipedia.org/wiki/Supreme_Team_Guide_To_Excellent_Adventure).
 
 
-《**Supreme Team Guide To Excellent Adventure**》는 [슈프림팀](../Page/슈프림팀.md "wikilink")이 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 13일에](https://ko.wikipedia.org/wiki/7월_13일 "wikilink") 발매한 EP이다. 슈프림팀의 데뷔 음반이며, 이 음반으로 슈프림팀은 [MAMA에서](https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드 "wikilink") 신인상을 수상하였다.
+《**Supreme Team Guide To Excellent Adventure**》는 [슈프림팀](../Page/슈프림팀.md "wikilink")이 [2009년](../Page/2009년.md "wikilink") [7월 13일에](../Page/7월_13일.md "wikilink") 발매한 EP이다. 슈프림팀의 데뷔 음반이며, 이 음반으로 슈프림팀은 [MAMA에서](https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드 "wikilink") 신인상을 수상하였다.
 
 ## 수록곡
 

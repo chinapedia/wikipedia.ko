@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VIBES](https://ko.wikipedia.org/wiki/VIBES).
 
 
-《**VIBES**》는, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink") 발매한 V6의 DVD 싱글이다. 공식적인 음반이지만, 일반 싱글과는 다르게 분류한다.
+《**VIBES**》는, [2008년](../Page/2008년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") 발매한 V6의 DVD 싱글이다. 공식적인 음반이지만, 일반 싱글과는 다르게 분류한다.
 
 ## 설명
 

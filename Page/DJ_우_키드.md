@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJ  ](https://ko.wikipedia.org/wiki/DJ__).
 
 
-**디제이 우 키드**(DJ Whoo Kid)([1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") \~ )은 미국의 힙합[DJ이다](https://ko.wikipedia.org/wiki/디스크자키 "wikilink"). 현재 힙합레이블인 [G-Unit Record의](../Page/G-Unit_Record.md "wikilink") 전속 [DJ이이자](https://ko.wikipedia.org/wiki/디스크자키 "wikilink"), 프로듀서이다.
+**디제이 우 키드**(DJ Whoo Kid)([1979년](../Page/1979년.md "wikilink") \~ )은 미국의 힙합[DJ이다](https://ko.wikipedia.org/wiki/디스크자키 "wikilink"). 현재 힙합레이블인 [G-Unit Record의](../Page/G-Unit_Record.md "wikilink") 전속 [DJ이이자](https://ko.wikipedia.org/wiki/디스크자키 "wikilink"), 프로듀서이다.
 
 ## 작곡참여
 

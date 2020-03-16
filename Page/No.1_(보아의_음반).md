@@ -5,9 +5,9 @@
 
 ## 번안
 
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink"), 이 앨범은 일본의 라이센스되어 발매되었다. 일본 라이센스 앨범에는 기존 15곡 트랙에 〈NO.1〉을 영어버전으로 수록하였다.
-  - 2002년 [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink"), 일본 여섯 번째 싱글 《[VALENTI](../Page/VALENTI_\(노래\).md "wikilink")》의 커플링 곡으로 번안되어 수록되었다. 한국의 작사, 작곡은 모두 보아가 담당하였지만, 일본어 번안은 보아가 참여하지 않았다.
-  - 2002년 [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink"), 일본 일곱 번째 싱글 《[奇蹟/NO.1](https://ko.wikipedia.org/wiki/키세키·NO.1 "wikilink")》의 공동 타이틀로 사용되었다.
+  - [2002년](../Page/2002년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink"), 이 앨범은 일본의 라이센스되어 발매되었다. 일본 라이센스 앨범에는 기존 15곡 트랙에 〈NO.1〉을 영어버전으로 수록하였다.
+  - 2002년 [8월 28일](../Page/8월_28일.md "wikilink"), 일본 여섯 번째 싱글 《[VALENTI](../Page/VALENTI_\(노래\).md "wikilink")》의 커플링 곡으로 번안되어 수록되었다. 한국의 작사, 작곡은 모두 보아가 담당하였지만, 일본어 번안은 보아가 참여하지 않았다.
+  - 2002년 [9월 19일](../Page/9월_19일.md "wikilink"), 일본 일곱 번째 싱글 《[奇蹟/NO.1](https://ko.wikipedia.org/wiki/키세키·NO.1 "wikilink")》의 공동 타이틀로 사용되었다.
 
 ## (2집)방송 출연 목록
 

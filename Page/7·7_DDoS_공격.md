@@ -3,35 +3,35 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Stachledraht_DDos_Attack.svg "wikilink")
 
-**7·7 DDoS 공격** 또는 **777 DDoS 공격**은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 7일을](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 기점으로 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")과 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 주요 정부기관, 포털 사이트, 은행 사이트 등을 [분산 서비스 거부 공격](https://ko.wikipedia.org/wiki/분산_서비스_거부_공격 "wikilink")(DDoS, 디도스)하여 서비스를 일시적으로 마비시킨 사건이다.
+**7·7 DDoS 공격** 또는 **777 DDoS 공격**은 [2009년](../Page/2009년.md "wikilink") [7월 7일을](../Page/7월_7일.md "wikilink") 기점으로 [대한민국](../Page/대한민국.md "wikilink")과 [미국](../Page/미국.md "wikilink")의 주요 정부기관, 포털 사이트, 은행 사이트 등을 [분산 서비스 거부 공격](https://ko.wikipedia.org/wiki/분산_서비스_거부_공격 "wikilink")(DDoS, 디도스)하여 서비스를 일시적으로 마비시킨 사건이다.
 
 ## 공격자
 
-2009년 7월 9일 [국가정보원에서는](https://ko.wikipedia.org/wiki/대한민국_국가정보원 "wikilink") 발생의 진원지가 [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink")의 [110호 연구소로](https://ko.wikipedia.org/wiki/110호_연구소 "wikilink") 추정된다는 발표를 하였고,\[1\]\[2\] 보안 업체에서는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")을 포함한 여러국가의 IP에서 발생이 시작된 것이라고 추정하였다.\[3\]\[4\]
+2009년 7월 9일 [국가정보원에서는](../Page/대한민국_국가정보원.md "wikilink") 발생의 진원지가 [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")의 [110호 연구소로](../Page/110호_연구소.md "wikilink") 추정된다는 발표를 하였고,\[1\]\[2\] 보안 업체에서는 [미국](../Page/미국.md "wikilink")과 [대한민국](../Page/대한민국.md "wikilink")을 포함한 여러국가의 IP에서 발생이 시작된 것이라고 추정하였다.\[3\]\[4\]
 
-10월 말, [국정원에서는](https://ko.wikipedia.org/wiki/대한민국_국가정보원 "wikilink") 진원지가 [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink")의 체신청이라는 공식 조사결과를 발표했다.\[5\] 11월 17일 미국의 보안업체 맥아피는 조선민주주의인민공화국이 만약 디도스 공격을 감행했다면 [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink")과 본토 지휘부 사이의 커뮤니케이션을 마비시키기 위한 전략에 따른 것일 수 있다고 보고했고, CNN 등 언론이 이를 인용하여 보도했다. 다만 실제로 배후가 조선민주주의인민공화국인지에 대해서는 밝히지 않았다.\[6\] 12월 8일 중앙일보는 사설에서, 국정원이 디도스 공격을 조선민주주의인민공화국의 소행으로 단정했지만 구체적 조사 결과를 공개하지 않고 있음을 지적했다.\[7\] 12월 28일 노컷뉴스는 검찰의 수사결과를 소개하면서, 국내 디도스 공격에 관여한 이들이 20명의 중고등학생이라고 밝혔다. 검찰은 이들이 대부분 전과가 없는 학생이라는 점을 이유로 입건을 유예했다.\[8\] 이와 유사한 사건이 2011년 1월 6일에도 발생했는데, 같은 달 28일 경찰은 수사를 통해 '남북한 사이버 전쟁'을 촉발시킨 분산서비스거부(DDos) 공격이 네티즌의 관심을 끌려는 10대의 '1인 자작극'이었음을 밝혔다. 경찰은 문모군(19)을 불구속 입건했다.\[9\]
+10월 말, [국정원에서는](../Page/대한민국_국가정보원.md "wikilink") 진원지가 [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")의 체신청이라는 공식 조사결과를 발표했다.\[5\] 11월 17일 미국의 보안업체 맥아피는 조선민주주의인민공화국이 만약 디도스 공격을 감행했다면 [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink")과 본토 지휘부 사이의 커뮤니케이션을 마비시키기 위한 전략에 따른 것일 수 있다고 보고했고, CNN 등 언론이 이를 인용하여 보도했다. 다만 실제로 배후가 조선민주주의인민공화국인지에 대해서는 밝히지 않았다.\[6\] 12월 8일 중앙일보는 사설에서, 국정원이 디도스 공격을 조선민주주의인민공화국의 소행으로 단정했지만 구체적 조사 결과를 공개하지 않고 있음을 지적했다.\[7\] 12월 28일 노컷뉴스는 검찰의 수사결과를 소개하면서, 국내 디도스 공격에 관여한 이들이 20명의 중고등학생이라고 밝혔다. 검찰은 이들이 대부분 전과가 없는 학생이라는 점을 이유로 입건을 유예했다.\[8\] 이와 유사한 사건이 2011년 1월 6일에도 발생했는데, 같은 달 28일 경찰은 수사를 통해 '남북한 사이버 전쟁'을 촉발시킨 분산서비스거부(DDos) 공격이 네티즌의 관심을 끌려는 10대의 '1인 자작극'이었음을 밝혔다. 경찰은 문모군(19)을 불구속 입건했다.\[9\]
 
 ## 공격
 
-공격은 여러 단계를 거쳐 변화되면서 진행되었다. 가장 처음의 공격은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 사이트들을 대상으로 이루어졌으며, 이에 미국에서는 [7월 4일을](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") 1차 공격으로, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [7월 6일](https://ko.wikipedia.org/wiki/7월_6일 "wikilink")\~[7일을](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 1차 공격으로 명칭하고 있다.
+공격은 여러 단계를 거쳐 변화되면서 진행되었다. 가장 처음의 공격은 [미국](../Page/미국.md "wikilink") 사이트들을 대상으로 이루어졌으며, 이에 미국에서는 [7월 4일을](../Page/7월_4일.md "wikilink") 1차 공격으로, [대한민국](../Page/대한민국.md "wikilink")에서는 [7월 6일](../Page/7월_6일.md "wikilink")\~[7일을](../Page/7월_7일.md "wikilink") 1차 공격으로 명칭하고 있다.
 
 ### 미국 사이트 공격
 
-한국 일부와 미국의 경우 이 공격을 1차 공격으로 명명하여 전체적으로 1차\~4차의 4단계로 구분한다. 이 공격은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 5일](https://ko.wikipedia.org/wiki/7월_5일 "wikilink"), 미국 시간으로 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 4일인](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") [독립 기념일에](https://ko.wikipedia.org/wiki/독립_기념일_\(미국\) "wikilink") 시작되었다. [백악관](https://ko.wikipedia.org/wiki/백악관 "wikilink")을 비롯한 미국의 27개 사이트를 공격했다.
+한국 일부와 미국의 경우 이 공격을 1차 공격으로 명명하여 전체적으로 1차\~4차의 4단계로 구분한다. 이 공격은 [2009년](../Page/2009년.md "wikilink") [7월 5일](../Page/7월_5일.md "wikilink"), 미국 시간으로 [2009년](../Page/2009년.md "wikilink") [7월 4일인](../Page/7월_4일.md "wikilink") [독립 기념일에](https://ko.wikipedia.org/wiki/독립_기념일_\(미국\) "wikilink") 시작되었다. [백악관](../Page/백악관.md "wikilink")을 비롯한 미국의 27개 사이트를 공격했다.
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") [국가정보원과](https://ko.wikipedia.org/wiki/대한민국_국가정보원 "wikilink") [방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink")는 대한민국과 미국에서 DDoS 공격 징후를 파악했지만, 적절한 대응을 하지 않았다는 것이 밝혀졌다.\[10\]
+[2009년](../Page/2009년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") [국가정보원과](../Page/대한민국_국가정보원.md "wikilink") [방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink")는 대한민국과 미국에서 DDoS 공격 징후를 파악했지만, 적절한 대응을 하지 않았다는 것이 밝혀졌다.\[10\]
 
 ### 1차 공격
 
-대한민국을 타겟으로 한 1차 공격은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 오후 6시 경에 시작되고 약 24시간동안 지속되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")과 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 주요 26개 사이트를 공격했는데, [청와대](https://ko.wikipedia.org/wiki/청와대 "wikilink") 및 [백악관](https://ko.wikipedia.org/wiki/백악관 "wikilink"), 그리고 대한민국의 주요 언론사와 주요 정당, [포털](https://ko.wikipedia.org/wiki/포털 "wikilink")의 [홈페이지](../Page/홈페이지.md "wikilink")등이 공격리스트에 포함되어있었다 (현우).
+대한민국을 타겟으로 한 1차 공격은 [2009년](../Page/2009년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") 오후 6시 경에 시작되고 약 24시간동안 지속되었다. [대한민국](../Page/대한민국.md "wikilink")과 [미국](../Page/미국.md "wikilink")의 주요 26개 사이트를 공격했는데, [청와대](../Page/청와대.md "wikilink") 및 [백악관](../Page/백악관.md "wikilink"), 그리고 대한민국의 주요 언론사와 주요 정당, [포털](https://ko.wikipedia.org/wiki/포털 "wikilink")의 [홈페이지](../Page/홈페이지.md "wikilink")등이 공격리스트에 포함되어있었다 (현우).
 
 ### 2차 공격
 
-2차 공격은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 8일](https://ko.wikipedia.org/wiki/7월_8일 "wikilink") 오후 6시에 시작되고 약 24시간동안 지속되었다. 1차 공격 리스트에 있었던 사이트 일부와 주요포털 사이트의 메일서비스를 대상으로 공격을 했다. 공격 대상이 된 사이트는 16개이다.
+2차 공격은 [2009년](../Page/2009년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") 오후 6시에 시작되고 약 24시간동안 지속되었다. 1차 공격 리스트에 있었던 사이트 일부와 주요포털 사이트의 메일서비스를 대상으로 공격을 했다. 공격 대상이 된 사이트는 16개이다.
 
 ### 3차 공격
 
-3차 공격은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink") 오후 6시에 시작되었다. 이로 인해 [국가정보원과](https://ko.wikipedia.org/wiki/대한민국_국가정보원 "wikilink") 일부 금융기관 홈페이지가 장애를 빚었지만\[11\]\[12\] 약 3시간 만에 정상화되었다.
+3차 공격은 [2009년](../Page/2009년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink") 오후 6시에 시작되었다. 이로 인해 [국가정보원과](../Page/대한민국_국가정보원.md "wikilink") 일부 금융기관 홈페이지가 장애를 빚었지만\[11\]\[12\] 약 3시간 만에 정상화되었다.
 
 ## 피해
 
@@ -39,7 +39,7 @@
 
 ## 방어
 
-안철수연구소는 1차공격 직후 바로 전용백신을 공급하였고 이어서 여러 백신 기업이 전용백신을 출시 하였다. 특히 안철수 연구소는 하드디스크의 파괴, 2,3차 공격까지 정확히 파악하여 여러 언론에게 알렸다. 공격을 받은 포털들도 대응이 빨랐다. 예를 들어 [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink")의 메일 서비스 홈페이지 서버(http://mail.naver.com) 가 공격을 받은 경우 즉시 서버를 바꿔(http://mail2.naver.com) 서비스 하는 등이 있었다.
+안철수연구소는 1차공격 직후 바로 전용백신을 공급하였고 이어서 여러 백신 기업이 전용백신을 출시 하였다. 특히 안철수 연구소는 하드디스크의 파괴, 2,3차 공격까지 정확히 파악하여 여러 언론에게 알렸다. 공격을 받은 포털들도 대응이 빨랐다. 예를 들어 [네이버](../Page/네이버.md "wikilink")의 메일 서비스 홈페이지 서버(http://mail.naver.com) 가 공격을 받은 경우 즉시 서버를 바꿔(http://mail2.naver.com) 서비스 하는 등이 있었다.
 
 ## 사후조치
 

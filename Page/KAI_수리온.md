@@ -7,11 +7,11 @@
 
 ## 사업배경과 경과
 
-수리온은 [대한민국 국군의](https://ko.wikipedia.org/wiki/대한민국_국군 "wikilink") 노후화된 UH-1, 500MD를 대체하기 위해 2006년 6월에 개발에 착수하였고, 2010년에 초도비행에 성공하였으며, 2012년 12월부터 100대가 실전 배치되었다.\[1\]
+수리온은 [대한민국 국군의](../Page/대한민국_국군.md "wikilink") 노후화된 UH-1, 500MD를 대체하기 위해 2006년 6월에 개발에 착수하였고, 2010년에 초도비행에 성공하였으며, 2012년 12월부터 100대가 실전 배치되었다.\[1\]
 
 ## 엔진
 
-8톤 수리온 수송헬기는 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 엔진 2개를 사용한다. 6톤 [벨 AH-1W 슈퍼코브라](https://ko.wikipedia.org/wiki/벨_AH-1W_슈퍼코브라 "wikilink") 공격헬기, 8톤 [벨 AH-1Z 바이퍼](../Page/벨_AH-1Z_바이퍼.md "wikilink") 공격헬기, 8톤 [벨 UH-1Y 베놈](../Page/벨_UH-1Y_베놈.md "wikilink") 수송헬기, 10톤 [NH90](../Page/NH90.md "wikilink") 수송헬기, 10톤 [UH-60 블랙 호크](https://ko.wikipedia.org/wiki/UH-60_블랙_호크 "wikilink") 수송헬기, 10톤 [AH-64 아파치](../Page/AH-64_아파치.md "wikilink") 공격헬기도 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 엔진 2개를 사용한다.
+8톤 수리온 수송헬기는 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 엔진 2개를 사용한다. 6톤 [벨 AH-1W 슈퍼코브라](https://ko.wikipedia.org/wiki/벨_AH-1W_슈퍼코브라 "wikilink") 공격헬기, 8톤 [벨 AH-1Z 바이퍼](../Page/벨_AH-1Z_바이퍼.md "wikilink") 공격헬기, 8톤 [벨 UH-1Y 베놈](../Page/벨_UH-1Y_베놈.md "wikilink") 수송헬기, 10톤 [NH90](../Page/NH90.md "wikilink") 수송헬기, 10톤 [UH-60 블랙 호크](../Page/UH-60_블랙_호크.md "wikilink") 수송헬기, 10톤 [AH-64 아파치](../Page/AH-64_아파치.md "wikilink") 공격헬기도 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 엔진 2개를 사용한다.
 
 ## 파생형
 
@@ -68,7 +68,7 @@
   - **연료량**: 1,159 kg (2,556 lb)
   - **유효하중:** 3,572 kg (7,975 lb)
   - **최대이륙중량:** 8,709 kg (19,200 lb)
-  - **엔진:** 2 × 한화테크윈 T700/701K (T700-GE-701C 개량형) [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink"), 1,915 shp 최대
+  - **엔진:** 2 × 한화테크윈 T700/701K (T700-GE-701C 개량형) [터보샤프트](../Page/터보샤프트.md "wikilink"), 1,915 shp 최대
 
 <!-- end list -->
 

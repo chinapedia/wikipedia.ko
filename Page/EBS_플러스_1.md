@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [EBS  1](https://ko.wikipedia.org/wiki/EBS__1).
 
 
-**EBS 플러스 1**(EBS Plus 1)은 [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")에서 방송하여, [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")에서 허가된 수능 전문 채널이다. 주로 고교생을 대상으로 하는 강의 프로그램을 방송한다.
+**EBS 플러스 1**(EBS Plus 1)은 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")에서 방송하여, [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")에서 허가된 수능 전문 채널이다. 주로 고교생을 대상으로 하는 강의 프로그램을 방송한다.
 
 ## 연혁
 
 ### 1990년대
 
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") **EBS 위성 1TV**로 개국.
+  - [1997년](../Page/1997년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") **EBS 위성 1TV**로 개국.
 
 ### 2000년대
 
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 3월 1일 : 위성방송(스카이라이프) 서비스 개시(EBS 플러스 1)
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 4월 1일 : 24시간 수능전문채널 EBS 플러스1 EBSi
+  - [2002년](../Page/2002년.md "wikilink") 3월 1일 : 위성방송(스카이라이프) 서비스 개시(EBS 플러스 1)
+  - [2004년](../Page/2004년.md "wikilink") 4월 1일 : 24시간 수능전문채널 EBS 플러스1 EBSi
 
 ### 2010년대
 
@@ -24,16 +24,16 @@
 ## 편성 내용
 
   - 주로 [수능](https://ko.wikipedia.org/wiki/수능 "wikilink"), [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink") 교육 프로그램을 방송.
-  - 인터넷 수능 사이트 [EBSi](https://ko.wikipedia.org/wiki/EBSi "wikilink")가 [수능](https://ko.wikipedia.org/wiki/수능 "wikilink") 강의을 제공.
+  - 인터넷 수능 사이트 [EBSi](../Page/EBSi.md "wikilink")가 [수능](https://ko.wikipedia.org/wiki/수능 "wikilink") 강의을 제공.
   - 2002년 2월 28일까지는 명칭이 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink") 위성 1TV였다.
   - 2004년 4월부터는 24시간 방송을 하고 있으며 현재 EBS의 전 채널 중 유일하게 24시간방송을 한다.
-  - 일부 케이블 방송에서는 플러스2와 함께 볼 수 없지만, 위성 및 통신 3사([KT](https://ko.wikipedia.org/wiki/KT "wikilink"), [SK브로드밴드](../Page/SK브로드밴드.md "wikilink"), [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink") 등) IPTV는 HD채널로 시청이 가능하다.
+  - 일부 케이블 방송에서는 플러스2와 함께 볼 수 없지만, 위성 및 통신 3사([KT](../Page/KT.md "wikilink"), [SK브로드밴드](../Page/SK브로드밴드.md "wikilink"), [LG유플러스](../Page/LG유플러스.md "wikilink") 등) IPTV는 HD채널로 시청이 가능하다.
 
 ## 같이 보기
 
-  - [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")
-  - [EBS 플러스 2](https://ko.wikipedia.org/wiki/EBS_플러스_2 "wikilink")
-  - [EBSi](https://ko.wikipedia.org/wiki/EBSi "wikilink")
+  - [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")
+  - [EBS 플러스 2](../Page/EBS_플러스_2.md "wikilink")
+  - [EBSi](../Page/EBSi.md "wikilink")
   - [EBS english](https://ko.wikipedia.org/wiki/EBS_english "wikilink")
 
 ## 외부 링크

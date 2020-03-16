@@ -9,7 +9,7 @@
   - 많은 타이업이 매상을 백업했다.
   - 그동안에 나온 베스트 앨범에 모조리 들어갔다.
   - [Animelo Summer Live](https://ko.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2007, 2008에서 연주되었다.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 [모모이 하루코가](../Page/모모이_하루코.md "wikilink") 자신의 앨범인 「more\&more quality RED ～Anime Song Cover～」에서 이 곡을 커버링 했는데 편곡에 t-kimura, 랩은 motsu가 담당해 사실상 보컬만 바뀐 라인이 되었다.
+  - [2008년](../Page/2008년.md "wikilink")에 [모모이 하루코가](../Page/모모이_하루코.md "wikilink") 자신의 앨범인 「more\&more quality RED ～Anime Song Cover～」에서 이 곡을 커버링 했는데 편곡에 t-kimura, 랩은 motsu가 담당해 사실상 보컬만 바뀐 라인이 되었다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOVE \& HONESTY](https://ko.wikipedia.org/wiki/LOVE_\&_HONESTY).
 
 
-《**LOVE & HONESTY**》는 대한민국 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 3번째 정규 앨범이다. 두 번째 정규앨범 《[VALENTI](../Page/VALENTI_\(음반\).md "wikilink")》로 부터는 약 1년만의 발매한 오리지널 앨범이다. 오리콘 차트에서 2주간 1위를 기록하였고, 2004년 오리콘 차트 연간 순위 앨범 분야에서 13위를 기록하였다.
+《**LOVE & HONESTY**》는 대한민국 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 3번째 정규 앨범이다. 두 번째 정규앨범 《[VALENTI](../Page/VALENTI_\(음반\).md "wikilink")》로 부터는 약 1년만의 발매한 오리지널 앨범이다. 오리콘 차트에서 2주간 1위를 기록하였고, 2004년 오리콘 차트 연간 순위 앨범 분야에서 13위를 기록하였다.
 
 2003년 발매한 싱글은 물론, 일본 힙합 그룹 [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink")의 VERBAL의 피쳐링, 보아 본인의 작사한 곡이자 곡이며 앨범 타이틀이기도 한 〈LOVE & HONESTY〉, 전작의 앨범의 발라드 곡〈Moon & Sunrise〉에 이어지는 발라드 넘버 곡 〈OVER ～across the time～〉등 2집에 비해서 좀 더 다양한 음악관을 담고 완성도 높은 음반을 제작하였다. 일본에서 전작 앨범이 대 히트를 친 싱글을 타이틀로 한 것에 비해 이번 앨범은 〈LOVE & HONESTY〉라고 하는 신곡으로 타이틀명을 붙였다. 수록곡 6번 트랙인 〈[Be the one](../Page/Be_the_one.md "wikilink")〉은 2월에 리컷싱글로 발매되기도 하였다. 2003년의 발매한 싱글과 관해서는 발매된 모든 곡이 수록 되었지만, 《[Shine We Are\!/Earthsong](https://ko.wikipedia.org/wiki/Shine_We_Are!/Earthsong "wikilink")》의 같은 타이틀인 〈Earthsong〉만 수록되어 있지 않다. 총 13곡의 전체 트랙에서 싱글 곡이 7곡을 차지하는 셈이다.
 

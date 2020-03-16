@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [News of the World](https://ko.wikipedia.org/wiki/News_of_the_World).
 
 
-《**News of the World**》는 1977년 10월 28일 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [EMI 레코드와](https://ko.wikipedia.org/wiki/EMI_레코드 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [엘렉트라 레코드가](https://ko.wikipedia.org/wiki/엘렉트라_레코드 "wikilink") 발표한 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [퀸의](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 여섯 번째 스튜디오 음반이다. 《News of the World》는 런던의 [사름 웨스트와](https://ko.wikipedia.org/wiki/사름_웨스트 "wikilink") [웨섹스 스튜디오에서](https://ko.wikipedia.org/wiki/웨섹스_스튜디오 "wikilink") 녹음되고 [마이크 스톤이](https://ko.wikipedia.org/wiki/마이크_스톤 "wikilink") 제작한 이 밴드의 두 번째 음반으로, 이 밴드와 스톤이 공동 제작했다.
+《**News of the World**》는 1977년 10월 28일 [영국](../Page/영국.md "wikilink")의 [EMI 레코드와](https://ko.wikipedia.org/wiki/EMI_레코드 "wikilink") [미국](../Page/미국.md "wikilink")의 [엘렉트라 레코드가](https://ko.wikipedia.org/wiki/엘렉트라_레코드 "wikilink") 발표한 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 여섯 번째 스튜디오 음반이다. 《News of the World》는 런던의 [사름 웨스트와](https://ko.wikipedia.org/wiki/사름_웨스트 "wikilink") [웨섹스 스튜디오에서](https://ko.wikipedia.org/wiki/웨섹스_스튜디오 "wikilink") 녹음되고 [마이크 스톤이](https://ko.wikipedia.org/wiki/마이크_스톤 "wikilink") 제작한 이 밴드의 두 번째 음반으로, 이 밴드와 스톤이 공동 제작했다.
 
 ## 수록곡
 
@@ -35,7 +35,7 @@
 
 8\. Sleeping On the side Walk (2:59) - 브라이언 메이
 
-브라이언 메이가 작곡한 곡이다. 블루스적인 느낌이 물씬 묻어나며, 퀸의 곡들 중 특이하게도 1 테이크 만에 녹음을 끝내고 그 녹음본을 최대한 살린 곡이다. 퀸 멤버들은 완벽주의를 추구하기에 이것은 매우 놀라운 일이다. 아마도 블루스 느낌을 최대한 살리기 위해 그런 듯하다. 브라이언 메이는 이 곡을 쓰게 된 계기를 [에릭 클랩튼에게서](https://ko.wikipedia.org/wiki/에릭_클랩튼 "wikilink") 얻었다고 한다.
+브라이언 메이가 작곡한 곡이다. 블루스적인 느낌이 물씬 묻어나며, 퀸의 곡들 중 특이하게도 1 테이크 만에 녹음을 끝내고 그 녹음본을 최대한 살린 곡이다. 퀸 멤버들은 완벽주의를 추구하기에 이것은 매우 놀라운 일이다. 아마도 블루스 느낌을 최대한 살리기 위해 그런 듯하다. 브라이언 메이는 이 곡을 쓰게 된 계기를 [에릭 클랩튼에게서](../Page/에릭_클랩튼.md "wikilink") 얻었다고 한다.
 
 9\. Who Needs You (3:07) - 존 디콘
 

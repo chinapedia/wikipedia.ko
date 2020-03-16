@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  SC](https://ko.wikipedia.org/wiki/__SC).
 
 
-**콜럼버스 크루 SC**(Columbus Crew Soccer Club)는 [메이저 리그 사커에](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") 소속된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 프로축구단으로 [오하이오주](https://ko.wikipedia.org/wiki/오하이오주 "wikilink") [콜럼버스를](https://ko.wikipedia.org/wiki/콜럼버스_\(오하이오주\) "wikilink") 연고지로 하고 있으며 축구 전용구장인 [마프레 스타디움을](https://ko.wikipedia.org/wiki/마프레_스타디움 "wikilink") 홈구장으로 사용하고 있다.
+**콜럼버스 크루 SC**(Columbus Crew Soccer Club)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 소속된 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [오하이오주](../Page/오하이오주.md "wikilink") [콜럼버스를](../Page/콜럼버스_\(오하이오주\).md "wikilink") 연고지로 하고 있으며 축구 전용구장인 [마프레 스타디움을](../Page/마프레_스타디움.md "wikilink") 홈구장으로 사용하고 있다.
 
 ## 역사
 
-[1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 창단된 [메이저 리그 사커](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") 원년 클럽 가운데 하나이며 클럽 명칭에서 "**크루**(Crew)"는 지역 주민들이 공모하여 붙여진 이름이다.
+[1996년](../Page/1996년.md "wikilink")에 창단된 [메이저 리그 사커](../Page/메이저_리그_사커.md "wikilink") 원년 클럽 가운데 하나이며 클럽 명칭에서 "**크루**(Crew)"는 지역 주민들이 공모하여 붙여진 이름이다.
 
 ## 우승 기록
 
@@ -39,7 +39,7 @@
 <tr class="odd">
 <td><p><a href="../Page/오하이오_스타디움.md" title="wikilink">오하이오 스타디움</a></p></td>
 <td><p>1996년~1998년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오하이오주" title="wikilink">오하이오주</a> <a href="https://ko.wikipedia.org/wiki/콜럼버스_(오하이오주)" title="wikilink">콜럼버스</a></p></td>
+<td><p><a href="../Page/오하이오주.md" title="wikilink">오하이오주</a> <a href="../Page/콜럼버스_(오하이오주).md" title="wikilink">콜럼버스</a></p></td>
 <td><p>콜럼버스 크루 SC</p></td>
 <td></td>
 </tr>
@@ -53,14 +53,14 @@
 <tr class="odd">
 <td><p>퍼스트 에너지 스타디움-클럽 카데트 필드</p></td>
 <td><p>2014년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오하이오주" title="wikilink">오하이오주</a> <a href="https://ko.wikipedia.org/wiki/애크런_(오하이오주)" title="wikilink">애크런</a></p></td>
+<td><p><a href="../Page/오하이오주.md" title="wikilink">오하이오주</a> <a href="../Page/애크런_(오하이오주).md" title="wikilink">애크런</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마프레_스타디움" title="wikilink">마프레 스타디움</a></p></td>
+<td><p><a href="../Page/마프레_스타디움.md" title="wikilink">마프레 스타디움</a></p></td>
 <td><p>1999년~현재</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오하이오주" title="wikilink">오하이오주</a> <a href="https://ko.wikipedia.org/wiki/콜럼버스_(오하이오주)" title="wikilink">콜럼버스</a></p></td>
+<td><p><a href="../Page/오하이오주.md" title="wikilink">오하이오주</a> <a href="../Page/콜럼버스_(오하이오주).md" title="wikilink">콜럼버스</a></p></td>
 <td><p>콜럼버스 크루 스타디움 (1999년~2015년)</p></td>
 <td></td>
 </tr>

@@ -6,8 +6,8 @@
 ## 구성원
 
   - [Cocco](../Page/Cocco.md "wikilink") ([보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"))
-  - 키시타 시게루 ([기타](https://ko.wikipedia.org/wiki/기타 "wikilink"))
-  - 사토 마사시 ([베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"))
+  - 키시타 시게루 ([기타](../Page/기타.md "wikilink"))
+  - 사토 마사시 ([베이스 기타](../Page/베이스_기타.md "wikilink"))
   - 호리에 히로히사 ([키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"))
   - 다이 타로 ([드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"))
 

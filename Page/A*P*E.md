@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [A\*P\*E](https://ko.wikipedia.org/wiki/A\*P\*E).
 
 
-**A\*P\*E**는 [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink")에 만들어진 [공상 과학](https://ko.wikipedia.org/wiki/과학_소설 "wikilink"), [공포](../Page/공포_영화.md "wikilink") 영화이다. [3D 효과를](https://ko.wikipedia.org/wiki/3D_영화 "wikilink") 갖춘 한국과 미국의 공동 연출작인, 영화는 [디노 드 로렌티스의](https://ko.wikipedia.org/wiki/디노_드_로렌티스 "wikilink") 1976년 [킹콩의](https://ko.wikipedia.org/wiki/킹콩_\(1976년\) "wikilink") 리메이크 작과 같이 거의 동시간대에 출시되었다. 한국에서는 《킹콩의 대역습》이라는 제목으로 출시되었다.
+**A\*P\*E**는 [1976년](../Page/1976년.md "wikilink")에 만들어진 [공상 과학](https://ko.wikipedia.org/wiki/과학_소설 "wikilink"), [공포](../Page/공포_영화.md "wikilink") 영화이다. [3D 효과를](https://ko.wikipedia.org/wiki/3D_영화 "wikilink") 갖춘 한국과 미국의 공동 연출작인, 영화는 [디노 드 로렌티스의](https://ko.wikipedia.org/wiki/디노_드_로렌티스 "wikilink") 1976년 [킹콩의](https://ko.wikipedia.org/wiki/킹콩_\(1976년\) "wikilink") 리메이크 작과 같이 거의 동시간대에 출시되었다. 한국에서는 《킹콩의 대역습》이라는 제목으로 출시되었다.
 
 ## 줄거리
 
-영화에서, 36 피트의 [고릴라](https://ko.wikipedia.org/wiki/고릴라 "wikilink")가 한 [유조선](../Page/유조선.md "wikilink")으로부터 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 해안으로 탈출한다. 거대한 [백상아리](../Page/백상아리.md "wikilink")와의 싸움 후, 그 유인원은 땅에 상륙하여 메릴린 ([조안나 컨스](https://ko.wikipedia.org/wiki/조안나_컨스 "wikilink"))이라는 이름의 미국인 여배우를 발견해서 납치하기 전에 건물 여러채를 파괴한다. 군대가 결국 모퉁이로 몰아서 그 유인원을 죽이며, 한 감시자가 "그는 우리와 같은 작은 세계에서 살기에 너무 크다\!"라는 대사를 한다.
+영화에서, 36 피트의 [고릴라](../Page/고릴라.md "wikilink")가 한 [유조선](../Page/유조선.md "wikilink")으로부터 [대한민국](../Page/대한민국.md "wikilink")의 해안으로 탈출한다. 거대한 [백상아리](../Page/백상아리.md "wikilink")와의 싸움 후, 그 유인원은 땅에 상륙하여 메릴린 ([조안나 컨스](https://ko.wikipedia.org/wiki/조안나_컨스 "wikilink"))이라는 이름의 미국인 여배우를 발견해서 납치하기 전에 건물 여러채를 파괴한다. 군대가 결국 모퉁이로 몰아서 그 유인원을 죽이며, 한 감시자가 "그는 우리와 같은 작은 세계에서 살기에 너무 크다\!"라는 대사를 한다.
 
 미국인 여배우와 함께 하는 고릴라의 관계 같은, 몇가지 줄거리 요소들은 본래 *킹콩* 이야기를 표절한 것이다. 그 영화를 위하여 전 세계로 미치는 엔터테인먼트의 프린트 광고는 심지어 그들의 영화가 *킹콩*과 혼동하지 말라고 독자들에게 전했다.\[1\]. 이것은 그 영화가 원래 티저 포스터에 광고되었던 것처럼 *The New King Kong*로 불릴 예정 이었기 때문이다. [RKO 픽쳐스가](https://ko.wikipedia.org/wiki/RKO_픽쳐스 "wikilink") 이것을 눈치챘을때, 그들은 그 회사에 대항하여 150만 달러의 소송을 제기했다.\[2\] 소송 때문에 제목은 *A\*P\*E*로 바뀌었고 "*킹콩*과 혼동하지 말라"는 표어가 극장 포스터에 붙여졌다.
 

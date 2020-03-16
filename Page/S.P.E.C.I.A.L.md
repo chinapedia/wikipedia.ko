@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.P.E.C.I.A.L](https://ko.wikipedia.org/wiki/S.P.E.C.I.A.L).
 
 
-《**S.P.E.C.I.A.L**》는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [11월 24일의](https://ko.wikipedia.org/wiki/11월_24일 "wikilink") 발매된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink")의 스페셜 [앨범](../Page/음반.md "wikilink") (2.5집) 이다. 총 13곡의 트랙으로 구성되어 있고, 전체 러닝타임은 50분 10초다.
+《**S.P.E.C.I.A.L**》는 [1999년](../Page/1999년.md "wikilink") [11월 24일의](../Page/11월_24일.md "wikilink") 발매된 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](../Page/핑클.md "wikilink")의 스페셜 [앨범](../Page/음반.md "wikilink") (2.5집) 이다. 총 13곡의 트랙으로 구성되어 있고, 전체 러닝타임은 50분 10초다.
 
 ## 설명
 
@@ -11,7 +11,7 @@
   - 핑클을 전반기, 후반기로 나눈다면 이 음반은 전반기의 마지막 음반이다. 1집부터 함께해 온 여러 작곡가 - Mario Bolden, 전준규, 김혜지 - 와의 작업한 마지막 음반이고 동시에 더 많은 음악가들과 작업하였다.
   - 수록곡 〈너의 기억〉은 [젝스키스](../Page/젝스키스.md "wikilink")의 멤버 [은지원](../Page/은지원.md "wikilink")이 작곡한 곡이다.
   - 멤버 이효리, 이진은 랩으로 참가하였다. (2.5집 5번트랙 기도라는 곡이다.)
-  - 수록곡 〈인디언 인형처럼〉은 [나미](https://ko.wikipedia.org/wiki/나미 "wikilink")의 곡을 리메이크 하였다. 이후 2001년 4월 13일 발매된 핑클의 3.5집이자 리메이크 음반인 《[Memories & Melodies](https://ko.wikipedia.org/wiki/Memories_&_Melodies "wikilink")》의 시작 점이라고 고백하였다.
+  - 수록곡 〈인디언 인형처럼〉은 [나미](../Page/나미.md "wikilink")의 곡을 리메이크 하였다. 이후 2001년 4월 13일 발매된 핑클의 3.5집이자 리메이크 음반인 《[Memories & Melodies](../Page/Memories_&_Melodies.md "wikilink")》의 시작 점이라고 고백하였다.
   - 세 번째 후속곡은 〈가면의 시간〉이지만, 본래에는 〈기도〉로 할 계획이었다.
 
 ### 보도자료
@@ -100,7 +100,7 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/이효리" title="wikilink">이효리</a> - 리더, 서브 <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>, <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a></li>
+<li><a href="../Page/이효리.md" title="wikilink">이효리</a> - 리더, 서브 <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>, <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a></li>
 <li><a href="../Page/성유리.md" title="wikilink">성유리</a> - 서브보컬, 코러스</li>
 <li><a href="../Page/이진_(1980년).md" title="wikilink">이진</a> - 서브보컬, 코러스, 랩</li>
 <li><a href="../Page/옥주현.md" title="wikilink">옥주현</a> - <a href="https://ko.wikipedia.org/wiki/리드보컬" title="wikilink">리드보컬</a>, 코러스</li>
@@ -110,12 +110,12 @@
 
 </dl>
 <ul>
-<li>신현권, 이태윤 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
-<li>이근형, <a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a>, 안정훈 - <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a></li>
+<li>신현권, 이태윤 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
+<li>이근형, <a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a>, 안정훈 - <a href="../Page/기타.md" title="wikilink">기타</a></li>
 <li>강윤기 - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
 <li>최태완, 엄수한, 전준규, 안성일 - <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반 악기</a></li>
 <li>이현민, 김세희, 이화영, 문서영, 문수형, 엄세희, 최성희, 김민선 - 현악</li>
-<li><a href="https://ko.wikipedia.org/wiki/바비_킴" title="wikilink">바비 킴</a>, <a href="../Page/은지원.md" title="wikilink">은지원</a>, Mario Bolden - 랩</li>
+<li><a href="../Page/바비_킴.md" title="wikilink">바비 킴</a>, <a href="../Page/은지원.md" title="wikilink">은지원</a>, Mario Bolden - 랩</li>
 <li>Mario Bolden, 김현아, 신연아, 이현욱 - 코러스</li>
 </ul></td>
 <td><dl>
@@ -138,7 +138,7 @@
 <li>심수형 - 디자인</li>
 <li>윤우택 - <a href="../Page/사진.md" title="wikilink">사진</a></li>
 <li>길종화, 심병철, 이승준 - 매니지먼트</li>
-<li><a href="https://ko.wikipedia.org/wiki/이호연" title="wikilink">이호연</a>(<a href="../Page/DSP_미디어.md" title="wikilink">D.S.P 엔터테인먼트</a>) - <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a></li>
+<li><a href="../Page/이호연.md" title="wikilink">이호연</a>(<a href="../Page/DSP_미디어.md" title="wikilink">D.S.P 엔터테인먼트</a>) - <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a></li>
 </ul></td>
 </tr>
 </tbody>

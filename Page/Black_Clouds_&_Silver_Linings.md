@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Black Clouds \& Silver Linings](https://ko.wikipedia.org/wiki/Black_Clouds_\&_Silver_Linings).
 
 
-《***Black Clouds & Silver Linings***》는 [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림시어터](https://ko.wikipedia.org/wiki/드림시어터 "wikilink")의 10번째 정규 앨범이다. 2009년 6월 23일 [로드러너 레코드에서](../Page/로드러너_레코드.md "wikilink") 발매되었다.\[1\] [존 페트루치와](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") [마이크 포트노이가](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") 공동 프로듀싱을 맡았고 [폴 노스필드가](https://ko.wikipedia.org/wiki/폴_노스필드 "wikilink") 믹싱을 맡았다. 앨범은 단일 CD, 인스트루멘탈 믹싱과 커버곡이 들어간 3CD 스페셜 에디션, 더블 비닐 LP, 디럭스 콜렉터 에디션 박스셋 등의 다섯 가지 버전으로 발매되었다. 6개의 커버곡들은 앨범 발매 6주 전인 5월 19일부터 1주일 간격으로 한 곡씩 공개되었다.
+《***Black Clouds & Silver Linings***》는 [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림시어터](https://ko.wikipedia.org/wiki/드림시어터 "wikilink")의 10번째 정규 앨범이다. 2009년 6월 23일 [로드러너 레코드에서](../Page/로드러너_레코드.md "wikilink") 발매되었다.\[1\] [존 페트루치와](../Page/존_페트루치.md "wikilink") [마이크 포트노이가](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") 공동 프로듀싱을 맡았고 [폴 노스필드가](https://ko.wikipedia.org/wiki/폴_노스필드 "wikilink") 믹싱을 맡았다. 앨범은 단일 CD, 인스트루멘탈 믹싱과 커버곡이 들어간 3CD 스페셜 에디션, 더블 비닐 LP, 디럭스 콜렉터 에디션 박스셋 등의 다섯 가지 버전으로 발매되었다. 6개의 커버곡들은 앨범 발매 6주 전인 5월 19일부터 1주일 간격으로 한 곡씩 공개되었다.
 
 ## 역사
 
-앨범 작업은 2008년 10월부터 시작되었다.\[2\] [마이크 포트노이는](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") 이 앨범을 "'[A Change of Seasons](https://ko.wikipedia.org/wiki/A_Change_of_Seasons_\(곡\) "wikilink")', '[Octavarium](https://ko.wikipedia.org/wiki/Octavarium\(곡\) "wikilink")', '[Learning to Live](https://ko.wikipedia.org/wiki/Learning_to_Live "wikilink")', '[Pull Me Under](https://ko.wikipedia.org/wiki/Pull_Me_Under "wikilink")', '[The Glass Prison](https://ko.wikipedia.org/wiki/The_Glass_Prison "wikilink")'이 하나의 앨범에 들어가 있다고 상상해보라"라는 말로 설명했다.\[3\] [조던 루디스는](https://ko.wikipedia.org/wiki/조던_루디스 "wikilink") 나중에 "우리는 이번 앨범에 [고딕](https://ko.wikipedia.org/wiki/고딕 "wikilink")음악적 요소를 꽤 많이 집어넣었다."고 설명했다.\[4\]
+앨범 작업은 2008년 10월부터 시작되었다.\[2\] [마이크 포트노이는](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") 이 앨범을 "'[A Change of Seasons](https://ko.wikipedia.org/wiki/A_Change_of_Seasons_\(곡\) "wikilink")', '[Octavarium](https://ko.wikipedia.org/wiki/Octavarium\(곡\) "wikilink")', '[Learning to Live](https://ko.wikipedia.org/wiki/Learning_to_Live "wikilink")', '[Pull Me Under](https://ko.wikipedia.org/wiki/Pull_Me_Under "wikilink")', '[The Glass Prison](https://ko.wikipedia.org/wiki/The_Glass_Prison "wikilink")'이 하나의 앨범에 들어가 있다고 상상해보라"라는 말로 설명했다.\[3\] [조던 루디스는](../Page/조던_루디스.md "wikilink") 나중에 "우리는 이번 앨범에 [고딕](https://ko.wikipedia.org/wiki/고딕 "wikilink")음악적 요소를 꽤 많이 집어넣었다."고 설명했다.\[4\]
 
-가사는 [존 페트루치와](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") 마이크 포트노이가 썼다. 한 곡을 제외하고는 모두 각자 삶 속에 있었던 위험하고 힘들었던 상황들에 대한 이야기를 담고 있다. 'A Nightmare to Remember'에는 페트루치가 어릴적 당했던 교통사고에 대한 기억을 그려냈다. 'The Count of Tuscany'에서는 [토스카나](https://ko.wikipedia.org/wiki/토스카나 "wikilink")에서 우연히 만난 한 남자에 대한 이야기를 다루고 있고 'Wither'에는 '작가로서의 장벽'([:en:Writer's Block](https://ko.wikipedia.org/wiki/:en:Writer's_Block "wikilink"))에 대한 공포를 묘사했다. \[5\] 마이크 포트노이는 'The Best of Times'에서 2009년 암으로 돌아가신 아버지에 대한 이야기를 그려냈다. 포트노이는 아버지가 죽기 전 이 곡을 연주했다고 하는데, "나는 우리의 삶을 함께 기념할 곡을 쓰고 싶었다"고 말했다.\[6\] 'The Shattered Fortress'는 포트노이의 [Twelve-step Suite의](https://ko.wikipedia.org/wiki/Twelve-step_Suite "wikilink") 마지막 부분이다. 2002년의 [The Glass Prision에서부터](https://ko.wikipedia.org/wiki/The_Glass_Prision "wikilink") 시작하는 모음곡 속의 갖가지 테마들을 다시 전개하면서 결말을 맺는다.
+가사는 [존 페트루치와](../Page/존_페트루치.md "wikilink") 마이크 포트노이가 썼다. 한 곡을 제외하고는 모두 각자 삶 속에 있었던 위험하고 힘들었던 상황들에 대한 이야기를 담고 있다. 'A Nightmare to Remember'에는 페트루치가 어릴적 당했던 교통사고에 대한 기억을 그려냈다. 'The Count of Tuscany'에서는 [토스카나](https://ko.wikipedia.org/wiki/토스카나 "wikilink")에서 우연히 만난 한 남자에 대한 이야기를 다루고 있고 'Wither'에는 '작가로서의 장벽'([:en:Writer's Block](https://ko.wikipedia.org/wiki/:en:Writer's_Block "wikilink"))에 대한 공포를 묘사했다. \[5\] 마이크 포트노이는 'The Best of Times'에서 2009년 암으로 돌아가신 아버지에 대한 이야기를 그려냈다. 포트노이는 아버지가 죽기 전 이 곡을 연주했다고 하는데, "나는 우리의 삶을 함께 기념할 곡을 쓰고 싶었다"고 말했다.\[6\] 'The Shattered Fortress'는 포트노이의 [Twelve-step Suite의](https://ko.wikipedia.org/wiki/Twelve-step_Suite "wikilink") 마지막 부분이다. 2002년의 [The Glass Prision에서부터](https://ko.wikipedia.org/wiki/The_Glass_Prision "wikilink") 시작하는 모음곡 속의 갖가지 테마들을 다시 전개하면서 결말을 맺는다.
 
-'A Rite of Passage'는 [프리메이슨](https://ko.wikipedia.org/wiki/프리메이슨 "wikilink")에 관한 곡으로서, 첫 번째 싱글커트된 곡이다. 이 곡의 뮤직비디오는 2009년 5월 8일 공개되었다.
+'A Rite of Passage'는 [프리메이슨](../Page/프리메이슨.md "wikilink")에 관한 곡으로서, 첫 번째 싱글커트된 곡이다. 이 곡의 뮤직비디오는 2009년 5월 8일 공개되었다.
 
 "[Wither](https://ko.wikipedia.org/wiki/Wither "wikilink")"는 2009년 9월 15일 싱글로 재발매 되었다. 싱글 앨범에는 원곡과 피아노 반주만 포함된 버전, 존 페트루치의 보컬이 들어간 데모버전, 그리고 마이크 포트노이가 부른 "The Best Of Time"의 데모 버전 등 총 4곡이 수록되었다. 뮤직비디오는 2009년 11월 18일 발표되었다.
 
@@ -120,9 +120,9 @@
 <!-- end list -->
 
   - [제임스 라브리에](../Page/제임스_라브리에.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - [존 페트루치](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 백킹 보컬
-  - [조던 루디스](https://ko.wikipedia.org/wiki/조던_루디스 "wikilink") – [키보드](../Page/신시사이저.md "wikilink"), [컨티늄](https://ko.wikipedia.org/wiki/컨티늄 "wikilink")
-  - [존 명](../Page/존_명.md "wikilink") – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink") – [기타](../Page/기타.md "wikilink"), 백킹 보컬
+  - [조던 루디스](../Page/조던_루디스.md "wikilink") – [키보드](../Page/신시사이저.md "wikilink"), [컨티늄](https://ko.wikipedia.org/wiki/컨티늄 "wikilink")
+  - [존 명](../Page/존_명.md "wikilink") – [베이스 기타](../Page/베이스_기타.md "wikilink")
   - [마이크 포트노이](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), 백킹 보컬
 
 <!-- end list -->
@@ -131,7 +131,7 @@
 
 <!-- end list -->
 
-  - [제리 굿맨](https://ko.wikipedia.org/wiki/제리_굿맨 "wikilink") - [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink") \<\<'The Best of Times', 'Odyssey', 'Larks' Tongues in Aspic Pt II'\>\>
+  - [제리 굿맨](https://ko.wikipedia.org/wiki/제리_굿맨 "wikilink") - [바이올린](../Page/바이올린.md "wikilink") \<\<'The Best of Times', 'Odyssey', 'Larks' Tongues in Aspic Pt II'\>\>
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@
 
 <!-- end list -->
 
-  - [존 페트루치와](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") [마이크 포트노이](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") – 프로듀서
+  - [존 페트루치와](../Page/존_페트루치.md "wikilink") [마이크 포트노이](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") – 프로듀서
   - [폴 노스필드](https://ko.wikipedia.org/wiki/폴_노스필드 "wikilink") – 엔지니어, 믹싱, 보컬 트랙 보조 프로듀서
   - [휴 사임](https://ko.wikipedia.org/wiki/휴_사임 "wikilink") – 아트 디렉션, 디자인, 일러스트레이션
   - 닥터 릭 콴(Dr. Rick Kwan) - 보조 엔지니어

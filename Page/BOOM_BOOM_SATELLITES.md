@@ -6,11 +6,11 @@
 ## 맴버
 
   - 가와시마 미치유키
-      - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") 출생, [이와테현](https://ko.wikipedia.org/wiki/이와테현 "wikilink") 출신.
+      - [1969년](../Page/1969년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") 출생, [이와테현](../Page/이와테현.md "wikilink") 출신.
       - 2006년 여배우 [스도 리사와](../Page/스도_리사.md "wikilink") 결혼했다.
-      - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 9일](https://ko.wikipedia.org/wiki/10월_9일 "wikilink") [뇌종양](https://ko.wikipedia.org/wiki/뇌종양 "wikilink")으로 인해 향년 47세로 사망하였다.
+      - [2016년](../Page/2016년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink") [뇌종양](https://ko.wikipedia.org/wiki/뇌종양 "wikilink")으로 인해 향년 47세로 사망하였다.
   - 나카노 마사유키
-      - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") 출생, [가나카와 현](https://ko.wikipedia.org/wiki/가나카와_현 "wikilink") 출신.
+      - [1971년](../Page/1971년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") 출생, [가나카와 현](https://ko.wikipedia.org/wiki/가나카와_현 "wikilink") 출신.
 
 ## 음반 목록
 

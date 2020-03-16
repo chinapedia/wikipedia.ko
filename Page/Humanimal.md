@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Humanimal](https://ko.wikipedia.org/wiki/Humanimal).
 
 
-***Humanimal***은 [MC몽](../Page/MC몽.md "wikilink")의 다섯 번째 정규 음반으로 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 23일에](https://ko.wikipedia.org/wiki/7월_23일 "wikilink") 발매되었다. 리패키지반은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 6일에](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") 발매되었다. 사실상 MC몽이 병역비리 문제로 연예계를 하차하기 전에 마지막으로 발매했던 음반이었다.
+***Humanimal***은 [MC몽](../Page/MC몽.md "wikilink")의 다섯 번째 정규 음반으로 [2009년](../Page/2009년.md "wikilink") [7월 23일에](../Page/7월_23일.md "wikilink") 발매되었다. 리패키지반은 [2009년](../Page/2009년.md "wikilink") [10월 6일에](../Page/10월_6일.md "wikilink") 발매되었다. 사실상 MC몽이 병역비리 문제로 연예계를 하차하기 전에 마지막으로 발매했던 음반이었다.
 
 ## 수록곡
 
@@ -19,15 +19,15 @@
 
 -----
 
-  - 진실은 천국에서라도 (Feat. [김희선](https://ko.wikipedia.org/wiki/김희선 "wikilink"))
+  - 진실은 천국에서라도 (Feat. [김희선](../Page/김희선.md "wikilink"))
 
 -----
 
-  - 나비효과 (Feat. [SG 워너비](https://ko.wikipedia.org/wiki/SG_워너비 "wikilink"))
+  - 나비효과 (Feat. [SG 워너비](../Page/SG_워너비.md "wikilink"))
 
 -----
 
-  - 사랑보다 아름다운 말 (Feat. [숙희](https://ko.wikipedia.org/wiki/숙희_\(가수\) "wikilink"))
+  - 사랑보다 아름다운 말 (Feat. [숙희](../Page/숙희_\(가수\).md "wikilink"))
 
 -----
 
@@ -43,7 +43,7 @@
 
 -----
 
-  - 죽도록 사랑해 2 (Feat. [조성모](https://ko.wikipedia.org/wiki/조성모 "wikilink"))
+  - 죽도록 사랑해 2 (Feat. [조성모](../Page/조성모.md "wikilink"))
 
 -----
 

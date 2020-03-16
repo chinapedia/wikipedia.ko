@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Eat You Up](https://ko.wikipedia.org/wiki/Eat_You_Up).
 
 
-〈**Eat You Up**〉은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 여자 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 첫 번째 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 발표 앨범《*[BoA](../Page/BoA_\(음반\).md "wikilink")*》의 첫 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 프로듀싱은 Henrik Jonback이 맡았다. 원래 2008년 10월 14일 온라인 전 세계 공개 예정이었으나, 연기되어 2008년 10월 21일 공개되었다.\[1\] 미국 가수 [플로라이더](https://ko.wikipedia.org/wiki/플로라이더 "wikilink")가 피처링을 비롯한 "Eat You Up" 리믹스 버전들도 공개되었다. "Eat You Up"은 10월 2일 보아의 [마이스페이스](../Page/마이스페이스.md "wikilink")를 통해 유출되기도 하였다. 공식적으로 처음 공개한 것은 일본 라디오 프로그램인 Tokyo-FM, JFN 38을 통해 2008년 10월 16일 공개되었다.\[2\]
+〈**Eat You Up**〉은 [대한민국](../Page/대한민국.md "wikilink") 여자 가수 [보아](../Page/보아.md "wikilink")의 첫 번째 [미국](../Page/미국.md "wikilink") 발표 앨범《*[BoA](../Page/BoA_\(음반\).md "wikilink")*》의 첫 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 프로듀싱은 Henrik Jonback이 맡았다. 원래 2008년 10월 14일 온라인 전 세계 공개 예정이었으나, 연기되어 2008년 10월 21일 공개되었다.\[1\] 미국 가수 [플로라이더](https://ko.wikipedia.org/wiki/플로라이더 "wikilink")가 피처링을 비롯한 "Eat You Up" 리믹스 버전들도 공개되었다. "Eat You Up"은 10월 2일 보아의 [마이스페이스](../Page/마이스페이스.md "wikilink")를 통해 유출되기도 하였다. 공식적으로 처음 공개한 것은 일본 라디오 프로그램인 Tokyo-FM, JFN 38을 통해 2008년 10월 16일 공개되었다.\[2\]
 
 ## 제작진
 
@@ -54,16 +54,16 @@ Alternate Version도 온라인에서 공개된 적이 있는데 앵글이 약간
 
 ## 발매 내역
 
-| 지역                 | 날짜                 | 레이블                                                                        | 형식                                                      |
-| ------------------ | ------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 유럽                 | 10월 22일            | [SM Entertainment USA](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") | 디지털 음원                                                  |
-| 일본                 | rowspan="1|10월 16일 | [에이벡스 트랙스](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink")              | [Radio](https://ko.wikipedia.org/wiki/Radio "wikilink") |
-| rowspan="1|10월 22일 | 에이벡스 트랙스           | 디지털 음원                                                                     |                                                         |
-| 대한민국               | 10월 22일            | [SM 엔터테인먼트](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink")            | 디지털 음원                                                  |
-| 오세아니아              | 10월 22일            | SM Entertainment USA                                                       | 디지털 음원                                                  |
-| U.K.               | 10월 22일            | SM Entertainment USA                                                       | 디지털 음원                                                  |
-| U.S.               | 10월 22일            | SM Entertainment USA                                                       | 디지털 음원                                                  |
-|                    |                    |                                                                            |                                                         |
+| 지역                 | 날짜                 | 레이블                                                           | 형식                                                      |
+| ------------------ | ------------------ | ------------------------------------------------------------- | ------------------------------------------------------- |
+| 유럽                 | 10월 22일            | [SM Entertainment USA](../Page/SM_엔터테인먼트.md "wikilink")       | 디지털 음원                                                  |
+| 일본                 | rowspan="1|10월 16일 | [에이벡스 트랙스](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") | [Radio](https://ko.wikipedia.org/wiki/Radio "wikilink") |
+| rowspan="1|10월 22일 | 에이벡스 트랙스           | 디지털 음원                                                        |                                                         |
+| 대한민국               | 10월 22일            | [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink")                  | 디지털 음원                                                  |
+| 오세아니아              | 10월 22일            | SM Entertainment USA                                          | 디지털 음원                                                  |
+| U.K.               | 10월 22일            | SM Entertainment USA                                          | 디지털 음원                                                  |
+| U.S.               | 10월 22일            | SM Entertainment USA                                          | 디지털 음원                                                  |
+|                    |                    |                                                               |                                                         |
 
 ## 차트
 

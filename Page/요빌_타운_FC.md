@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**요빌 타운 FC**(Yeovil Town FC)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [서머싯주](../Page/서머싯주.md "wikilink")에 있는 [요빌](../Page/요빌.md "wikilink")을 연고로 하는 축구 클럽이다. 2013-14 시즌에 [풋볼 리그 챔피언십에서](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 24위로 마친 후 강등, 현재는 [풋볼 리그 1에](https://ko.wikipedia.org/wiki/풋볼_리그_1 "wikilink") 소속되어 있다.
+**요빌 타운 FC**(Yeovil Town FC)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [서머싯주](../Page/서머싯주.md "wikilink")에 있는 [요빌](../Page/요빌.md "wikilink")을 연고로 하는 축구 클럽이다. 2013-14 시즌에 [풋볼 리그 챔피언십에서](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 24위로 마친 후 강등, 현재는 [풋볼 리그 1에](https://ko.wikipedia.org/wiki/풋볼_리그_1 "wikilink") 소속되어 있다.
 
-2003-04 시즌부터 초록색과 흰색의 가로줄무늬 유니폼을 사용하고 있는데, 이것은 스코틀랜드의 [셀틱과](https://ko.wikipedia.org/wiki/셀틱_FC "wikilink") 아일랜드의 [샴록 로버스](https://ko.wikipedia.org/wiki/샴록_로버스 "wikilink") 등의 클럽과 비슷한 유니폼이다.
+2003-04 시즌부터 초록색과 흰색의 가로줄무늬 유니폼을 사용하고 있는데, 이것은 스코틀랜드의 [셀틱과](../Page/셀틱_FC.md "wikilink") 아일랜드의 [샴록 로버스](https://ko.wikipedia.org/wiki/샴록_로버스 "wikilink") 등의 클럽과 비슷한 유니폼이다.
 
-2003년에 [풋볼 컨퍼런스에서](https://ko.wikipedia.org/wiki/풋볼_컨퍼런스 "wikilink") 우승을 하고 풋볼 리그로 승격했는데, 풋볼 리그에 입성하기 전에도 [FA 컵에서](https://ko.wikipedia.org/wiki/FA_컵 "wikilink") 가장 선전한 논 리그 팀으로 널리 알려져 있다. 예를 들어, 1949년에 FA 컵 네 번째 라운드에서 당시 1부 리그의 상위권 클럽이던 [선덜랜드를](../Page/선덜랜드_AFC.md "wikilink") 격파하고, 다음 경기는 메인 로드의 8만 1천의 관중 앞에서 [맨체스터 유나이티드를](https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC "wikilink") 상대했던 것은 아주 유명하다.
+2003년에 [풋볼 컨퍼런스에서](https://ko.wikipedia.org/wiki/풋볼_컨퍼런스 "wikilink") 우승을 하고 풋볼 리그로 승격했는데, 풋볼 리그에 입성하기 전에도 [FA 컵에서](https://ko.wikipedia.org/wiki/FA_컵 "wikilink") 가장 선전한 논 리그 팀으로 널리 알려져 있다. 예를 들어, 1949년에 FA 컵 네 번째 라운드에서 당시 1부 리그의 상위권 클럽이던 [선덜랜드를](../Page/선덜랜드_AFC.md "wikilink") 격파하고, 다음 경기는 메인 로드의 8만 1천의 관중 앞에서 [맨체스터 유나이티드를](../Page/맨체스터_유나이티드_FC.md "wikilink") 상대했던 것은 아주 유명하다.
 
 요빌은 1990년 이후로, 경사가 심한 걸로 소문이 나있던 [더 휴이시를](https://ko.wikipedia.org/wiki/더_휴이시 "wikilink") 떠나 그 이름을 따서 이름지은 휴이시 파크를 홈 구장으로 쓰고 있다. 휴이시 파크는 그라운드 안에 좌석을 추가 배치 하면 20,000 석 이상의 좌석을 확보할 수 있는 게 특이사항이다. 현재 3,500석을 추가하고 주위에 상가를 설치하는 경기장 확장 계획이 세워져있다.
 
-2004년 1월 [리버풀과의](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") FA컵 3라운드에서 지긴 했지만 그것을 기념하기 위해 내놓은 "요빌 트루"는 요빌에서만 판매되었음에도 [UK 싱글 차트](https://ko.wikipedia.org/wiki/UK_싱글_차트 "wikilink") 36위를 기록하기도 했다.
+2004년 1월 [리버풀과의](../Page/리버풀_FC.md "wikilink") FA컵 3라운드에서 지긴 했지만 그것을 기념하기 위해 내놓은 "요빌 트루"는 요빌에서만 판매되었음에도 [UK 싱글 차트](https://ko.wikipedia.org/wiki/UK_싱글_차트 "wikilink") 36위를 기록하기도 했다.
 
 ## 역사
 

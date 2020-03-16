@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Stone Roses \(\)](https://ko.wikipedia.org/wiki/The_Stone_Roses_\(\)).
 
 
-***The Stone Roses***(더 스톤 로지스)는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 밴드 [스톤 로지스의](https://ko.wikipedia.org/wiki/스톤_로지스 "wikilink") 데뷔 [음반](../Page/음반.md "wikilink")이다. 실버스톤 레코드를 통해 1989년에 발매됐다. 이 음반에 대한 비평가들의 평을 통해 밴드는 확고한 명성을 얻었으며, 오늘날에도 가장 중요한 음반 중 하나로 뽑힌다\[1\]. 2006년엔 NME 편집자들이 선정한 역대 최고의 영국 음반으로 뽑혔다\[2\].
+***The Stone Roses***(더 스톤 로지스)는 [영국](../Page/영국.md "wikilink")의 밴드 [스톤 로지스의](../Page/스톤_로지스.md "wikilink") 데뷔 [음반](../Page/음반.md "wikilink")이다. 실버스톤 레코드를 통해 1989년에 발매됐다. 이 음반에 대한 비평가들의 평을 통해 밴드는 확고한 명성을 얻었으며, 오늘날에도 가장 중요한 음반 중 하나로 뽑힌다\[1\]. 2006년엔 NME 편집자들이 선정한 역대 최고의 영국 음반으로 뽑혔다\[2\].
 
 ## 수록곡
 

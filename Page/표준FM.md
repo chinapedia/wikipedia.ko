@@ -5,7 +5,7 @@
 
 기존의 중파방송에 비해 음질의 면과 도심지역 수신률의 문제가 월등히 개선되어 기존의 [중파방송](../Page/중파방송.md "wikilink") 청취의 '대안' 역할을 하나, 이와 달리 도심화가 더딘 산간 지역에서는 오히려 표준FM방송이 기존 [중파방송](../Page/중파방송.md "wikilink")보다 수신률이 더욱 떨어져 중파방송을 완전히 '대체'하지는 못하고 있다. 때문에, 중파만으로 방송했던 방송국은 표준FM 개국 이후에도 [중파방송](../Page/중파방송.md "wikilink")을 없애는 경우와는 달리 존치하는 경우도 적지 않다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [1980년대](https://ko.wikipedia.org/wiki/1980년대 "wikilink")부터 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") [MBC 표준FM를](../Page/MBC_표준FM.md "wikilink") 시작으로, 기존의 [AM방송의](../Page/중파방송.md "wikilink") 표준FM방송이 속속 개국하기 시작하였다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 [1980년대](../Page/1980년대.md "wikilink")부터 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") [MBC 표준FM를](../Page/MBC_표준FM.md "wikilink") 시작으로, 기존의 [AM방송의](../Page/중파방송.md "wikilink") 표준FM방송이 속속 개국하기 시작하였다.
 
 ## 각 국가 별 표준FM
 

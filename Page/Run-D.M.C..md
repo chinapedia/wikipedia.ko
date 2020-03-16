@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Run-D.M.C.](https://ko.wikipedia.org/wiki/Run-D.M.C.).
 
 
-**Run-D.M.C.**는 미국의 힙합 그룹이다. 맴버로는 [Rev. Run](https://ko.wikipedia.org/wiki/조지프_시먼스 "wikilink"), [D.M.C.](https://ko.wikipedia.org/wiki/대릴_맥대니얼스 "wikilink"), [Jam Master Jay이다](https://ko.wikipedia.org/wiki/잼_마스터_제이 "wikilink"). 이그룹은 미국힙합계에서 가장 영향력있는 그룹이었으며, [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [롤링 스톤지에서](../Page/롤링_스톤.md "wikilink") 선정한 '가장 위대한 뮤지션' 에서 48위에 올랐다.
+**Run-D.M.C.**는 미국의 힙합 그룹이다. 맴버로는 [Rev. Run](https://ko.wikipedia.org/wiki/조지프_시먼스 "wikilink"), [D.M.C.](https://ko.wikipedia.org/wiki/대릴_맥대니얼스 "wikilink"), [Jam Master Jay이다](../Page/잼_마스터_제이.md "wikilink"). 이그룹은 미국힙합계에서 가장 영향력있는 그룹이었으며, [2004년](../Page/2004년.md "wikilink") [롤링 스톤지에서](../Page/롤링_스톤.md "wikilink") 선정한 '가장 위대한 뮤지션' 에서 48위에 올랐다.
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [로큰롤 명예의 전당에](https://ko.wikipedia.org/wiki/로큰롤_명예의_전당 "wikilink") 헌액되었다.
+[2009년](../Page/2009년.md "wikilink") [로큰롤 명예의 전당에](../Page/로큰롤_명예의_전당.md "wikilink") 헌액되었다.
 
 ## 외부 링크
 

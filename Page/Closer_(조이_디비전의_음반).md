@@ -5,7 +5,7 @@
 
 ## 커버
 
-전작 Unknown Pleasures의 커버 디자이너인 [피터 새빌가](https://ko.wikipedia.org/wiki/피터_새빌 "wikilink") 참여했으며, 마틴 앳킨스도 참여했다. 커버에 있는 묘지 사진은 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [제노아](https://ko.wikipedia.org/wiki/제노아 "wikilink")에 있는 스타질리에노 공동 묘지에 있는 아피아니 가족 무덤을 버나드 피에르 울프가 찍은 것이다.
+전작 Unknown Pleasures의 커버 디자이너인 [피터 새빌가](https://ko.wikipedia.org/wiki/피터_새빌 "wikilink") 참여했으며, 마틴 앳킨스도 참여했다. 커버에 있는 묘지 사진은 [이탈리아](../Page/이탈리아.md "wikilink") [제노아](https://ko.wikipedia.org/wiki/제노아 "wikilink")에 있는 스타질리에노 공동 묘지에 있는 아피아니 가족 무덤을 버나드 피에르 울프가 찍은 것이다.
 
 ## 재발매
 
@@ -62,8 +62,8 @@ Closer은 2007년, 워너 산하 레이블인 [라이노](https://ko.wikipedia.o
 ## 크레딧
 
   - [이안 커티스](https://ko.wikipedia.org/wiki/이안_커티스 "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), "Heart and Soul"의 기타 연주
-  - [버나드 섬너](../Page/버나드_섬너.md "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [신시사이저](../Page/신시사이저.md "wikilink"), "Atrocity Exhibition"의 베이스 연주
-  - [피터 훅](https://ko.wikipedia.org/wiki/피터_훅 "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), "Atrocity Exhibition"의 기타 연주
+  - [버나드 섬너](../Page/버나드_섬너.md "wikilink") – [기타](../Page/기타.md "wikilink"), [신시사이저](../Page/신시사이저.md "wikilink"), "Atrocity Exhibition"의 베이스 연주
+  - [피터 훅](https://ko.wikipedia.org/wiki/피터_훅 "wikilink") – [베이스](../Page/베이스_기타.md "wikilink"), "Atrocity Exhibition"의 기타 연주
   - [스티븐 모리스](https://ko.wikipedia.org/wiki/스티븐_모리스 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
   - 마틴 하넷 – 프로듀서, 엔지니어
   - 마이클 존슨 – 보조 엔지니어

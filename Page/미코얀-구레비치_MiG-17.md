@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [- MiG-17](https://ko.wikipedia.org/wiki/-_MiG-17).
 
 
-**미코얀구레비치 MiG-17**()은 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")의 [제트 전투기이다](https://ko.wikipedia.org/wiki/전투기#제트_전투기 "wikilink"). [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink") [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")을 비롯한 [동독](https://ko.wikipedia.org/wiki/동독 "wikilink"), [폴란드](https://ko.wikipedia.org/wiki/폴란드 "wikilink"), [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") 등에 최초로 배치되었다. [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink") 식별명은 **프레스코**(Fresco)이며\[1\] [미국 공군에서는](../Page/미국_공군.md "wikilink") **Type 38**이라 하였다.\[2\]
+**미코얀구레비치 MiG-17**()은 [소련](../Page/소련.md "wikilink")의 [제트 전투기이다](https://ko.wikipedia.org/wiki/전투기#제트_전투기 "wikilink"). [1952년](../Page/1952년.md "wikilink") [소련](../Page/소련.md "wikilink")을 비롯한 [동독](../Page/동독.md "wikilink"), [폴란드](../Page/폴란드.md "wikilink"), [중국](../Page/중국.md "wikilink") 등에 최초로 배치되었다. [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink") 식별명은 **프레스코**(Fresco)이며\[1\] [미국 공군에서는](../Page/미국_공군.md "wikilink") **Type 38**이라 하였다.\[2\]
 
 ## 개발
 
-MiG-17의 기본적인 설계 사양은 [MiG-15](https://ko.wikipedia.org/wiki/MiG-15 "wikilink")를 바탕으로 한 것이다. 이에 따라 초기 [미그기](https://ko.wikipedia.org/wiki/미그기 "wikilink") 특유의 후퇴익으로 디자인 되었다. 주익의 내측 후퇴각은 45°, 외측 후퇴각은 42° 이다. MiG-15와 동일한 클리모프 VK-1 형 [제트 엔진을](https://ko.wikipedia.org/wiki/제트_엔진 "wikilink") 탑재하였다. 미그-15와 비교할 때 가장 눈에 띄는 특징은 윙 펜스가 3중이라는 점이다. Mig-15의 윙 펜스는 2중이다. 시제기는 **SI**라 불렸으며 1950년 1월 14일 이반 이바쉬첸코가 처녀 비행에 성공하였다.\[3\]
+MiG-17의 기본적인 설계 사양은 [MiG-15](https://ko.wikipedia.org/wiki/MiG-15 "wikilink")를 바탕으로 한 것이다. 이에 따라 초기 [미그기](https://ko.wikipedia.org/wiki/미그기 "wikilink") 특유의 후퇴익으로 디자인 되었다. 주익의 내측 후퇴각은 45°, 외측 후퇴각은 42° 이다. MiG-15와 동일한 클리모프 VK-1 형 [제트 엔진을](../Page/제트_엔진.md "wikilink") 탑재하였다. 미그-15와 비교할 때 가장 눈에 띄는 특징은 윙 펜스가 3중이라는 점이다. Mig-15의 윙 펜스는 2중이다. 시제기는 **SI**라 불렸으며 1950년 1월 14일 이반 이바쉬첸코가 처녀 비행에 성공하였다.\[3\]
 
 ## 특징
 
@@ -13,7 +13,7 @@ MiG-17은 기본적으로 공중전을 수행하는 [전투기](https://ko.wikip
 
 ## 실전 배치
 
-[베트남 전쟁에서](https://ko.wikipedia.org/wiki/베트남_전쟁 "wikilink") MiG-17의 주요 임무는 [폭격기](https://ko.wikipedia.org/wiki/폭격기 "wikilink")의 격추였으며 전투기 사이의 [격추전](https://ko.wikipedia.org/wiki/격추전 "wikilink")은 주요 임무가 아니었다.\[4\]
+[베트남 전쟁에서](../Page/베트남_전쟁.md "wikilink") MiG-17의 주요 임무는 [폭격기](../Page/폭격기.md "wikilink")의 격추였으며 전투기 사이의 [격추전](https://ko.wikipedia.org/wiki/격추전 "wikilink")은 주요 임무가 아니었다.\[4\]
 
 ## 각주
 

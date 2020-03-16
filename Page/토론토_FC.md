@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**토론토 FC**(Toronto FC)는 [메이저 리그 사커에](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") 소속된 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")의 프로축구단이다. [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink")를 연고지로 하고 있으며 [BMO 필드](../Page/BMO_필드.md "wikilink") [축구전용구장](https://ko.wikipedia.org/wiki/축구전용구장 "wikilink")을 홈구장으로 사용하고 있다.
+**토론토 FC**(Toronto FC)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 소속된 [캐나다](../Page/캐나다.md "wikilink")의 프로축구단이다. [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")를 연고지로 하고 있으며 [BMO 필드](../Page/BMO_필드.md "wikilink") [축구전용구장](https://ko.wikipedia.org/wiki/축구전용구장 "wikilink")을 홈구장으로 사용하고 있다.
 
 ## 역사
 
@@ -35,7 +35,7 @@
 <tr class="odd">
 <td><p><a href="../Page/BMO_필드.md" title="wikilink">BMO 필드</a></p></td>
 <td><p>2007년~현재</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오주</a> <a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오주</a> <a href="../Page/토론토.md" title="wikilink">토론토</a></p></td>
 <td><p>토론토 FC</p></td>
 <td></td>
 </tr>

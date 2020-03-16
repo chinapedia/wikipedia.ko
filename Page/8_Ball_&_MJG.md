@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [8 Ball \& MJG](https://ko.wikipedia.org/wiki/8_Ball_\&_MJG).
 
 
-**8Ball & MJG**는 미국의 힙합듀오이다.미국 [맴피스](https://ko.wikipedia.org/wiki/맴피스 "wikilink")에서 결성됐으며,[1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")부터 두 맴버는 서로 알기 시작했다. 그들은 사우던 힙합을 주 장르로 했으며,[1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 첫듀오앨범 'Comin' Out Hard'을 발매했다.그 후로 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink"),[1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 'On the Outside Looking In','On Top of the World'를 발매했는데 이 앨범은 106위,11위,8위,2위를 기록한다.
+**8Ball & MJG**는 미국의 힙합듀오이다.미국 [맴피스](https://ko.wikipedia.org/wiki/맴피스 "wikilink")에서 결성됐으며,[1984년](../Page/1984년.md "wikilink")부터 두 맴버는 서로 알기 시작했다. 그들은 사우던 힙합을 주 장르로 했으며,[1993년](../Page/1993년.md "wikilink") 첫듀오앨범 'Comin' Out Hard'을 발매했다.그 후로 [1994년](../Page/1994년.md "wikilink"),[1995년](../Page/1995년.md "wikilink") 'On the Outside Looking In','On Top of the World'를 발매했는데 이 앨범은 106위,11위,8위,2위를 기록한다.
 
-그 후 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 새 레이블인 [베드 보이 레코드와](https://ko.wikipedia.org/wiki/베드_보이_레코드 "wikilink") 계약하고,히트앨범인 'Living Legends'를 발매한다.프로듀서는 [디디](https://ko.wikipedia.org/wiki/디디 "wikilink")가 맡았으며,[루다크리스](../Page/루다크리스.md "wikilink"),[T.I](https://ko.wikipedia.org/wiki/T.I "wikilink"),[트위스타](../Page/트위스타.md "wikilink") 등이 참여한다.빌보드 핫랩/알엔비 차트에서 1위를 기록한다.
+그 후 [2004년](../Page/2004년.md "wikilink") 새 레이블인 [베드 보이 레코드와](https://ko.wikipedia.org/wiki/베드_보이_레코드 "wikilink") 계약하고,히트앨범인 'Living Legends'를 발매한다.프로듀서는 [디디](https://ko.wikipedia.org/wiki/디디 "wikilink")가 맡았으며,[루다크리스](../Page/루다크리스.md "wikilink"),[T.I](https://ko.wikipedia.org/wiki/T.I "wikilink"),[트위스타](../Page/트위스타.md "wikilink") 등이 참여한다.빌보드 핫랩/알엔비 차트에서 1위를 기록한다.
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 발매한 'Ridin High'에는 [디디](https://ko.wikipedia.org/wiki/디디 "wikilink"),[Notorious B.I.G](https://ko.wikipedia.org/wiki/Notorious_B.I.G "wikilink"),[고릴라 조](https://ko.wikipedia.org/wiki/고릴라_조 "wikilink") 등이 참여했다.[빌보드 200에서](../Page/빌보드_200.md "wikilink") 8위를 기록한다.
+[2007년](../Page/2007년.md "wikilink")에 발매한 'Ridin High'에는 [디디](https://ko.wikipedia.org/wiki/디디 "wikilink"),[Notorious B.I.G](https://ko.wikipedia.org/wiki/Notorious_B.I.G "wikilink"),[고릴라 조](https://ko.wikipedia.org/wiki/고릴라_조 "wikilink") 등이 참여했다.[빌보드 200에서](../Page/빌보드_200.md "wikilink") 8위를 기록한다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 베스트 앨범인 'We Are the South: Greatest Hits'를 발매한다.
+[2008년](../Page/2008년.md "wikilink") 베스트 앨범인 'We Are the South: Greatest Hits'를 발매한다.
 
 ## 앨범
 

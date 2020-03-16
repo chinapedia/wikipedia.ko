@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  for ](https://ko.wikipedia.org/wiki/__for_).
 
 
-《**노부나가의 야망 for 원더스완**》()은 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [3월 11일에](https://ko.wikipedia.org/wiki/3월_11일 "wikilink") 발매된, [코에이](https://ko.wikipedia.org/wiki/코에이 "wikilink")의 [원더스완](https://ko.wikipedia.org/wiki/원더스완 "wikilink")용 게임 소프트로, 원더스완 본체보다 1주 늦게 발매되었다.
+《**노부나가의 야망 for 원더스완**》()은 [1999년](../Page/1999년.md "wikilink") [3월 11일에](../Page/3월_11일.md "wikilink") 발매된, [코에이](../Page/코에이.md "wikilink")의 [원더스완](../Page/원더스완.md "wikilink")용 게임 소프트로, 원더스완 본체보다 1주 늦게 발매되었다.
 
 ## 개요
 

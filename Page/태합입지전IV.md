@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [IV](https://ko.wikipedia.org/wiki/IV).
 
 
-《**태합입지전IV**》()는 [코에이](https://ko.wikipedia.org/wiki/코에이 "wikilink")에서 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [6월 1일에](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")판이 발매된 [PC 게임으로](../Page/PC_게임.md "wikilink"), [태합입지전 시리즈의](../Page/태합입지전_시리즈.md "wikilink") 네 번째 작품이다. [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")에서도 중문판이 발매되어 있다.
+《**태합입지전IV**》()는 [코에이](../Page/코에이.md "wikilink")에서 [2001년](../Page/2001년.md "wikilink") [6월 1일에](../Page/6월_1일.md "wikilink") [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")판이 발매된 [PC 게임으로](../Page/PC_게임.md "wikilink"), [태합입지전 시리즈의](../Page/태합입지전_시리즈.md "wikilink") 네 번째 작품이다. [중화민국](../Page/중화민국.md "wikilink")에서도 중문판이 발매되어 있다.
 
-2001년 [11월 29일에는](../Page/11월_29일.md "wikilink") [플레이스테이션 2판](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink"), [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 31일에는](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") [플레이스테이션 포터블판도](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 발매되었다.
+2001년 [11월 29일에는](../Page/11월_29일.md "wikilink") [플레이스테이션 2판](../Page/플레이스테이션_2.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [8월 31일에는](../Page/8월_31일.md "wikilink") [플레이스테이션 포터블판도](../Page/플레이스테이션_포터블.md "wikilink") 발매되었다.
 
-Windows판에 대해서는, 2006년 [3월 31일에는](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") [소스넥스트](https://ko.wikipedia.org/wiki/소스넥스트 "wikilink")(SOURCENEXT)에서 《Qualityイチキュッパ》 시리즈의 염가판으로서도 발매되었다. 또 코에이의 사이트에서 다운로드 구매도 행해졌다. 단, 코에이의 유저 등록이 할 수 없으면, 소스넥스트판과 다운로드판에서는 시나리오의 다운로드 구입, 유저 스페셜 콘텐츠 이용 등은 할 수 없다. 또 PS2판, PSP판도 [코에이 정번 시리즈와](https://ko.wikipedia.org/wiki/코에이_정번_시리즈 "wikilink") KOEI The Best로 염가판이 발매되었다.
+Windows판에 대해서는, 2006년 [3월 31일에는](../Page/3월_31일.md "wikilink") [소스넥스트](https://ko.wikipedia.org/wiki/소스넥스트 "wikilink")(SOURCENEXT)에서 《Qualityイチキュッパ》 시리즈의 염가판으로서도 발매되었다. 또 코에이의 사이트에서 다운로드 구매도 행해졌다. 단, 코에이의 유저 등록이 할 수 없으면, 소스넥스트판과 다운로드판에서는 시나리오의 다운로드 구입, 유저 스페셜 콘텐츠 이용 등은 할 수 없다. 또 PS2판, PSP판도 [코에이 정번 시리즈와](https://ko.wikipedia.org/wiki/코에이_정번_시리즈 "wikilink") KOEI The Best로 염가판이 발매되었다.
 
 [Windows Vista에서는](https://ko.wikipedia.org/wiki/Windows_Vista "wikilink") 다운로드 구매판은 인스톨 할 수 없다. 소스넥스트 패키지판에 대해서는 정식 대응은 하지 않지만, 코에이 공식 사이트에서는 일부 불편함이 있는 것의 대부분은 문제없이 동작한다고 하고 있다.
 
 ## 개요
 
-본작에서는 전작 《[III](../Page/태합입지전III.md "wikilink")》에서 다시 시스템을 변경하여 카드제를 도입하고, 자유도도 《III》에 비하여 비약적으로 상승해, [히데요시](https://ko.wikipedia.org/wiki/도요토미_히데요시 "wikilink") 뿐만 아니라 600명(PS2판 및 PSP판에서는 650명)의 무장으로 플레이가 가능하게 되었다([후술](https://ko.wikipedia.org/wiki/#주인공_카드 "wikilink")). 본작에서는 주인공 카드 이외에도 기능, 칭호 그 외 대부분의 것이 카드 입수라고 하는 형태로 표현되고, 나아가 개인전이나 야전·공성전도 카드 배틀로 진행된다. 그 때문에 카드를 낼 때 운이 영향을 주는 부분이 크다. 또 기능이나 능력을 올릴 때의 수업이나 내정 등은 거의 모두가 미니 게임을 하게 되었고, 종류도 대폭 증가했다. 평정은 홀수 달의 초에 행해지게 되었지만, 수업 등을 위해 평정을 쉬도록 신청할 수 없게 되었다.
+본작에서는 전작 《[III](../Page/태합입지전III.md "wikilink")》에서 다시 시스템을 변경하여 카드제를 도입하고, 자유도도 《III》에 비하여 비약적으로 상승해, [히데요시](../Page/도요토미_히데요시.md "wikilink") 뿐만 아니라 600명(PS2판 및 PSP판에서는 650명)의 무장으로 플레이가 가능하게 되었다([후술](https://ko.wikipedia.org/wiki/#주인공_카드 "wikilink")). 본작에서는 주인공 카드 이외에도 기능, 칭호 그 외 대부분의 것이 카드 입수라고 하는 형태로 표현되고, 나아가 개인전이나 야전·공성전도 카드 배틀로 진행된다. 그 때문에 카드를 낼 때 운이 영향을 주는 부분이 크다. 또 기능이나 능력을 올릴 때의 수업이나 내정 등은 거의 모두가 미니 게임을 하게 되었고, 종류도 대폭 증가했다. 평정은 홀수 달의 초에 행해지게 되었지만, 수업 등을 위해 평정을 쉬도록 신청할 수 없게 되었다.
 
-이벤트에 관해서도, 지방 [다이묘](../Page/다이묘.md "wikilink")에 관한 이벤트나 [세키가하라 전투](../Page/세키가하라_전투.md "wikilink")·[오사카 진](../Page/오사카_전투.md "wikilink") 등 [오다 가와](https://ko.wikipedia.org/wiki/오다_씨 "wikilink") 관련된 것 이외의 역사 이벤트도 다수 준비되었다. 그 이외에 전작에서의 변경점은 시대마다 설정된 다수의 시나리오의 존재, 미니 게임의 종류의 대폭 추가, 여관 아가씨와의 결혼이나 같은 코에이 작품인 《[대항해시대 시리즈](https://ko.wikipedia.org/wiki/대항해시대_시리즈 "wikilink")》와 같은 조합(座)에서의 교역 요소나 명소 순회라고 하는 요소의 추가 등이다. 또 튜토리얼 요소가 도입된 것이나, 자주 가는 장소를 숏 컷으로 등록하여 왕래가 편리하게 되었거나, 다른 인물에게 선물을 할 때에 기호를 알고 있다면 그것이 표시되거나 하는 등, 보다 친절한 구조가 되었다. 또 전작에서는 할 수 없었던 무장의 츠지기리도 다시 가능하게 되었지만, 본작 및 《[V](https://ko.wikipedia.org/wiki/태합입지전V "wikilink")》에서는 게임 오버가 되는 상황은 수명이 끊어진 무장뿐으로, 수명이 남아 있을 때는 병이 들게 되었다. 이외에 《[II](../Page/태합입지전II.md "wikilink")》 이전에서 부활한 요소도 이전과 세세한 부분에서 변경된 것도 있다.
+이벤트에 관해서도, 지방 [다이묘](../Page/다이묘.md "wikilink")에 관한 이벤트나 [세키가하라 전투](../Page/세키가하라_전투.md "wikilink")·[오사카 진](../Page/오사카_전투.md "wikilink") 등 [오다 가와](https://ko.wikipedia.org/wiki/오다_씨 "wikilink") 관련된 것 이외의 역사 이벤트도 다수 준비되었다. 그 이외에 전작에서의 변경점은 시대마다 설정된 다수의 시나리오의 존재, 미니 게임의 종류의 대폭 추가, 여관 아가씨와의 결혼이나 같은 코에이 작품인 《[대항해시대 시리즈](https://ko.wikipedia.org/wiki/대항해시대_시리즈 "wikilink")》와 같은 조합(座)에서의 교역 요소나 명소 순회라고 하는 요소의 추가 등이다. 또 튜토리얼 요소가 도입된 것이나, 자주 가는 장소를 숏 컷으로 등록하여 왕래가 편리하게 되었거나, 다른 인물에게 선물을 할 때에 기호를 알고 있다면 그것이 표시되거나 하는 등, 보다 친절한 구조가 되었다. 또 전작에서는 할 수 없었던 무장의 츠지기리도 다시 가능하게 되었지만, 본작 및 《[V](../Page/태합입지전V.md "wikilink")》에서는 게임 오버가 되는 상황은 수명이 끊어진 무장뿐으로, 수명이 남아 있을 때는 병이 들게 되었다. 이외에 《[II](../Page/태합입지전II.md "wikilink")》 이전에서 부활한 요소도 이전과 세세한 부분에서 변경된 것도 있다.
 
 엔딩의 종류도 증가해, 일부 주인공에게는 전용 엔딩이 준비되어 있는 것 외에, 지방의 통일 때에나 특수한 조건 하에서의 툭수한 엔딩도 존재한다. 정규 엔딩도 지금까지의 플레이 내용에 의해 그 후의 주인공의 인생이나 통일 후 일본의 모습이 그려지게 되었다.
 
@@ -27,9 +27,9 @@ Windows판에 대해서는, 2006년 [3월 31일에는](https://ko.wikipedia.org/
 
 어느 특정한 무장의 주인공 카드의 조합을 모으면 '콤보'라 불리는 방법으로 자동적으로 주인공 카드를 얻을 수 있는 경우도 있다. 또 상대가 다이묘인 경우, 원칙적으로 친밀도를 최대로 올려도 카드를 받을 수 없다. 하지만 콤보나 이벤트를 통하여 입수할 수 있는 경우도 있다. 혹은 외교로 항복시키거나 친밀도를 높인 다음 멸망시킬 때 등용하는 것 등으로 다이묘 이외의 신분이 된다면 얻을 수 있게 된다.
 
-또 Windows 전용 [CD-ROM](../Page/CD-ROM.md "wikilink")판의 경우, [후마 고타로](../Page/후마_고타로.md "wikilink")(風魔小太郎), [센노 리큐](../Page/센노_리큐.md "wikilink"), [모모치 산다유](https://ko.wikipedia.org/wiki/모모치_산다유 "wikilink")(百地三太夫) 등 일부 인물은, 게임 내에서는 입수할 수 없고, 잡지 《[LOGIN](https://ko.wikipedia.org/wiki/로그인_\(잡지\) "wikilink")》 2001년 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")호 부록 [CD로](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 입수하거나, 코에이 사이트 〈[GAMECITY](http://www.koei.co.jp/)〉에서 본작의 유저 등록을 한 후, 코에이 팬클럽에 가입해, 다운로드하는 것이 필요하다. Windows 전용 [DVD-ROM](https://ko.wikipedia.org/wiki/DVD-ROM "wikilink")판에서는 치트가 포함되어 있고, PS2판 및 PSP판에서는 게임 내에서 입수할 수 있다.
+또 Windows 전용 [CD-ROM](../Page/CD-ROM.md "wikilink")판의 경우, [후마 고타로](../Page/후마_고타로.md "wikilink")(風魔小太郎), [센노 리큐](../Page/센노_리큐.md "wikilink"), [모모치 산다유](https://ko.wikipedia.org/wiki/모모치_산다유 "wikilink")(百地三太夫) 등 일부 인물은, 게임 내에서는 입수할 수 없고, 잡지 《[LOGIN](https://ko.wikipedia.org/wiki/로그인_\(잡지\) "wikilink")》 2001년 [9월](../Page/9월.md "wikilink")호 부록 [CD로](../Page/콤팩트_디스크.md "wikilink") 입수하거나, 코에이 사이트 〈[GAMECITY](http://www.koei.co.jp/)〉에서 본작의 유저 등록을 한 후, 코에이 팬클럽에 가입해, 다운로드하는 것이 필요하다. Windows 전용 [DVD-ROM](https://ko.wikipedia.org/wiki/DVD-ROM "wikilink")판에서는 치트가 포함되어 있고, PS2판 및 PSP판에서는 게임 내에서 입수할 수 있다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 현재에는 DVD-ROM판이나 당시의 《LOGIN》은 모두 입수가 곤란하고, 또 소스넥스트판 및 다운도르 판매판에서는 유저 등록이 불가능하기 때문에, (적어도 정규 수단으로는) 이들 인물로는 플레이하는 것이 곤란하게 되었다.
+[2008년](../Page/2008년.md "wikilink") 현재에는 DVD-ROM판이나 당시의 《LOGIN》은 모두 입수가 곤란하고, 또 소스넥스트판 및 다운도르 판매판에서는 유저 등록이 불가능하기 때문에, (적어도 정규 수단으로는) 이들 인물로는 플레이하는 것이 곤란하게 되었다.
 
 ## 조합에서의 교역
 
@@ -126,7 +126,7 @@ Windows판에 대해서는, 2006년 [3월 31일에는](https://ko.wikipedia.org/
 
 등장하는 시나리오는 다음과 같다. 소스넥스트판, 다운로드 판매판에서는 시나리오 4와 5는 전술한 일부 주인공과 같은 이유로 구입할 수 없다.
 
-시나리오 1 : [1560년](https://ko.wikipedia.org/wiki/1560년 "wikilink") **오와리의 풍운아**(尾張の風雲児)
+시나리오 1 : [1560년](../Page/1560년.md "wikilink") **오와리의 풍운아**(尾張の風雲児)
 
   -
     처음부터 플레이할 수 있는 시나리오. 시리즈의 기본 시나리오이기도 하다. [오케하자마 전투](../Page/오케하자마_전투.md "wikilink") 직후부터 시작된다.
@@ -149,7 +149,7 @@ Windows판에 대해서는, 2006년 [3월 31일에는](https://ko.wikipedia.org/
 시나리오 5 : [1584년](https://ko.wikipedia.org/wiki/1584년 "wikilink") **원숭이와 늙은 너구리**(猿公と古狸)
 
   -
-    혼노지의 변 직후, 히데요시와 [이에야스의](https://ko.wikipedia.org/wiki/도쿠가와_이에야스 "wikilink") 대립을 주축으로 하여, [센고쿠](../Page/센고쿠_시대.md "wikilink") 시뮬레이션 게임으로서는 드문 시기의 시나리오이다. Win판에는 코에이 오피셜 사이트에서 다운로드 판매되었고, PS2판에는 기본적으로 탑재되었다.
+    혼노지의 변 직후, 히데요시와 [이에야스의](../Page/도쿠가와_이에야스.md "wikilink") 대립을 주축으로 하여, [센고쿠](../Page/센고쿠_시대.md "wikilink") 시뮬레이션 게임으로서는 드문 시기의 시나리오이다. Win판에는 코에이 오피셜 사이트에서 다운로드 판매되었고, PS2판에는 기본적으로 탑재되었다.
 
 시나리오 0 : [1555년](https://ko.wikipedia.org/wiki/1555년 "wikilink") **난세의 불씨**(乱世の余燼)
 

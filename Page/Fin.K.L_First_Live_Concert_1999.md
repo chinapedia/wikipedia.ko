@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fin.K.L First Live Concert 1999](https://ko.wikipedia.org/wiki/Fin.K.L_First_Live_Concert_1999).
 
 
-《**Fin.K.L First Live Concert 1999**》는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [10월 12일의](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") 발매된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink")의 콘서트 라이브 [앨범이다](../Page/음반.md "wikilink"). 총 17곡의 트랙으로 구성되어 있고, 전체 러닝타임은 93분 51초다.
+《**Fin.K.L First Live Concert 1999**》는 [1999년](../Page/1999년.md "wikilink") [10월 12일의](../Page/10월_12일.md "wikilink") 발매된 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](../Page/핑클.md "wikilink")의 콘서트 라이브 [앨범이다](../Page/음반.md "wikilink"). 총 17곡의 트랙으로 구성되어 있고, 전체 러닝타임은 93분 51초다.
 
 ## 설명
 

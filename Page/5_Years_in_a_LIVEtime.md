@@ -5,18 +5,18 @@
 
   - [Awake](https://ko.wikipedia.org/wiki/Awake "wikilink")앨범 메이킹 필름
   - "Waking Up The Tour" 영상
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [로니 스캇 재즈 클럽](https://ko.wikipedia.org/wiki/로니_스캇_재즈_클럽 "wikilink") 공연 미공개 영상
-  - "Touring Into Infinity" 영상, 여기에는 '[Once In A LIVEtime](https://ko.wikipedia.org/wiki/Once_In_A_LIVEtime "wikilink")' 앨범 녹음장소였던 [파리](https://ko.wikipedia.org/wiki/파리_\(도시\) "wikilink") 공연과 [로테르담](https://ko.wikipedia.org/wiki/로테르담 "wikilink")에서 열린 언플러그드 팬클럽 공연 영상이 포함되어있다.
-  - '[Lie](https://ko.wikipedia.org/wiki/Lie "wikilink")', '[The Silent Man](https://ko.wikipedia.org/wiki/The_Silent_Man "wikilink")', '[Hollow Years](https://ko.wikipedia.org/wiki/Hollow_Years "wikilink")' 뮤직비디오
+  - [1995년](../Page/1995년.md "wikilink") [로니 스캇 재즈 클럽](https://ko.wikipedia.org/wiki/로니_스캇_재즈_클럽 "wikilink") 공연 미공개 영상
+  - "Touring Into Infinity" 영상, 여기에는 '[Once In A LIVEtime](https://ko.wikipedia.org/wiki/Once_In_A_LIVEtime "wikilink")' 앨범 녹음장소였던 [파리](https://ko.wikipedia.org/wiki/파리_\(도시\) "wikilink") 공연과 [로테르담](../Page/로테르담.md "wikilink")에서 열린 언플러그드 팬클럽 공연 영상이 포함되어있다.
+  - '[Lie](https://ko.wikipedia.org/wiki/Lie "wikilink")', '[The Silent Man](../Page/The_Silent_Man.md "wikilink")', '[Hollow Years](https://ko.wikipedia.org/wiki/Hollow_Years "wikilink")' 뮤직비디오
 
 ## 곡 목록
 
 1.  Burning My Soul
 2.  Cover My Eyes
-3.  [Lie](https://ko.wikipedia.org/wiki/Lie "wikilink") ([뮤직 비디오](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink"))
+3.  [Lie](https://ko.wikipedia.org/wiki/Lie "wikilink") ([뮤직 비디오](../Page/뮤직_비디오.md "wikilink"))
 4.  6:00
 5.  [Voices](https://ko.wikipedia.org/wiki/A_Mind_Beside_Itself "wikilink")
-6.  [The Silent Man](https://ko.wikipedia.org/wiki/The_Silent_Man "wikilink") (뮤직 비디오)
+6.  [The Silent Man](../Page/The_Silent_Man.md "wikilink") (뮤직 비디오)
 7.  [Damage, Inc.](https://ko.wikipedia.org/wiki/Damage,_Inc. "wikilink") ([네이팜 데스의](../Page/네이팜_데스.md "wikilink") [바니 그린웨이와](https://ko.wikipedia.org/wiki/바니_그린웨이 "wikilink") 함께)
 8.  Easter ([마릴리온](https://ko.wikipedia.org/wiki/마릴리온 "wikilink")의 [스티브 호가스](https://ko.wikipedia.org/wiki/스티브_호가스 "wikilink"), [스티브 로더리와](https://ko.wikipedia.org/wiki/스티브_로더리 "wikilink") 함께)
 9.  Starship Trooper ([스티브 하우와](https://ko.wikipedia.org/wiki/스티브_하우 "wikilink") 함께)

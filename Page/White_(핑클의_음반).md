@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [White \( \)](https://ko.wikipedia.org/wiki/White_\(_\)).
 
 
-《**white**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink")의 두 번째 정규 [앨범이다](../Page/음반.md "wikilink"). [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") 발매되었으며 총 12곡의 트랙으로 구성되어 있고, 전체 러닝타임은 49분 48초다.
+《**white**》는 [대한민국](../Page/대한민국.md "wikilink")의 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](../Page/핑클.md "wikilink")의 두 번째 정규 [앨범이다](../Page/음반.md "wikilink"). [1999년](../Page/1999년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 발매되었으며 총 12곡의 트랙으로 구성되어 있고, 전체 러닝타임은 49분 48초다.
 
 ## 설명
 
@@ -99,7 +99,7 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/이효리" title="wikilink">이효리</a> - 리더, 서브 <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a></li>
+<li><a href="../Page/이효리.md" title="wikilink">이효리</a> - 리더, 서브 <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a></li>
 <li><a href="../Page/성유리.md" title="wikilink">성유리</a> - 서브보컬, 코러스</li>
 <li><a href="../Page/이진_(1980년).md" title="wikilink">이진</a> - 서브보컬, 코러스</li>
 <li><a href="../Page/옥주현.md" title="wikilink">옥주현</a> - <a href="https://ko.wikipedia.org/wiki/리드보컬" title="wikilink">리드보컬</a>, 코러스</li>
@@ -109,12 +109,12 @@
 
 </dl>
 <ul>
-<li>신현권 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
-<li>이근형, <a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a> - <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a></li>
+<li>신현권 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
+<li>이근형, <a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a> - <a href="../Page/기타.md" title="wikilink">기타</a></li>
 <li>강윤기 - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
 <li>전준규, 배정은 - <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">건반 악기</a></li>
-<li>이현민, 김세희, 이지영 - <a href="https://ko.wikipedia.org/wiki/첼로" title="wikilink">첼로</a></li>
-<li>문서영, 문수형, 엄세희, 이화영, 최성희, 한수혜 - <a href="https://ko.wikipedia.org/wiki/바이올린" title="wikilink">바이올린</a></li>
+<li>이현민, 김세희, 이지영 - <a href="../Page/첼로.md" title="wikilink">첼로</a></li>
+<li>문서영, 문수형, 엄세희, 이화영, 최성희, 한수혜 - <a href="../Page/바이올린.md" title="wikilink">바이올린</a></li>
 <li>Terrence Stith - <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a></li>
 <li>Mario Bolden, 신인수, 김현아, 신연아, 문지환, 김석찬, 비전 성가대, 글로리아 성가대, 찬·공 성가대, 박해운 - 코러스</li>
 </ul></td>
@@ -134,7 +134,7 @@
 <li>공정관 - 안무</li>
 <li>윤우택 - <a href="../Page/사진.md" title="wikilink">사진</a></li>
 <li>길종화, 심병철, 유성식 - 매니지먼트</li>
-<li><a href="https://ko.wikipedia.org/wiki/이호연" title="wikilink">이호연</a>(<a href="../Page/DSP_미디어.md" title="wikilink">DSP 엔터테인먼트</a>) - <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a></li>
+<li><a href="../Page/이호연.md" title="wikilink">이호연</a>(<a href="../Page/DSP_미디어.md" title="wikilink">DSP 엔터테인먼트</a>) - <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a></li>
 </ul></td>
 </tr>
 </tbody>

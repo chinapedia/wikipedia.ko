@@ -155,7 +155,7 @@
 | 3  | [송병석](../Page/송병석.md "wikilink")(P)                    | [KTF 매직엔스](https://ko.wikipedia.org/wiki/KTF_매직엔스 "wikilink") | 15  | 10 | 5     | 66.6% |
 | 4  | [이재훈](../Page/이재훈_\(프로게이머\).md "wikilink")(P)          | [G.O](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")        | 18  | 10 | 8     | 55.5% |
 | 5  | [홍진호](../Page/홍진호.md "wikilink")(Z)                    | [KTF 매직엔스](https://ko.wikipedia.org/wiki/KTF_매직엔스 "wikilink") | 16  | 9  | 7     | 56.2% |
-| 6  | [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")(T) | [동양 오리온](https://ko.wikipedia.org/wiki/동양_오리온 "wikilink")     | 9   | 7  | 2     | 77.7% |
+| 6  | [임요환](../Page/임요환.md "wikilink")(T)                    | [동양 오리온](https://ko.wikipedia.org/wiki/동양_오리온 "wikilink")     | 9   | 7  | 2     | 77.7% |
 | 7  | [최연성](../Page/최연성.md "wikilink")(T)                    | [동양 오리온](https://ko.wikipedia.org/wiki/동양_오리온 "wikilink")     | 9   | 7  | 2     | 77.7% |
 | 8  | [이창훈](../Page/이창훈_\(프로게이머\).md "wikilink")(Z)          | [동양 오리온](https://ko.wikipedia.org/wiki/동양_오리온 "wikilink")     | 12  | 7  | 5     | 58.3% |
 | 9  | [강민](../Page/강민_\(프로게이머\).md "wikilink")(P)            | [G.O](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")        | 10  | 6  | 4     | 60%   |
@@ -168,7 +168,7 @@
 | 1  | [최연성](../Page/최연성.md "wikilink")(T)                      | [동양 오리온](https://ko.wikipedia.org/wiki/동양_오리온 "wikilink")     | 8   | 7 | 1 | 87.5% |
 | 2  | [성학승](../Page/성학승.md "wikilink")(Z)                      | [IS](../Page/화승_OZ.md "wikilink")                             | 11  | 6 | 5 | 54.5% |
 | 3  | [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")(P)   | [KTF 매직엔스](https://ko.wikipedia.org/wiki/KTF_매직엔스 "wikilink") | 6   | 5 | 1 | 83.3% |
-| 4  | [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")(T)   | [동양 오리온](https://ko.wikipedia.org/wiki/동양_오리온 "wikilink")     | 7   | 5 | 2 | 71.4% |
+| 4  | [임요환](../Page/임요환.md "wikilink")(T)                      | [동양 오리온](https://ko.wikipedia.org/wiki/동양_오리온 "wikilink")     | 7   | 5 | 2 | 71.4% |
 | 5  | [이재훈](../Page/이재훈_\(프로게이머\).md "wikilink")(P)            | [G.O](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")        | 8   | 5 | 3 | 62.5% |
 | 6  | [베르트랑](https://ko.wikipedia.org/wiki/베르트랑 "wikilink")(T) | [AMD 드림팀](https://ko.wikipedia.org/wiki/AMD_드림팀 "wikilink")   | 10  | 5 | 5 | 50%   |
 | 7  | [주진철](../Page/주진철.md "wikilink")(Z)                      | [KOR](https://ko.wikipedia.org/wiki/하이트_스파키즈 "wikilink")      | 5   | 4 | 1 | 80%   |
@@ -208,7 +208,7 @@
 
 ## 포스트시즌
 
-  - **일정** : 준플레이오프 - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 2일](https://ko.wikipedia.org/wiki/8월_2일 "wikilink"), 플레이오프 - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink"), 결승전 - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink")\[1\]
+  - **일정** : 준플레이오프 - [2003년](../Page/2003년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink"), 플레이오프 - [2003년](../Page/2003년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink"), 결승전 - [2003년](../Page/2003년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink")\[1\]
 
 ## 대회 결과
 
@@ -224,4 +224,4 @@
 
 [분류:스타크래프트 프로리그](https://ko.wikipedia.org/wiki/분류:스타크래프트_프로리그 "wikilink") [분류:2003년 이스포츠](https://ko.wikipedia.org/wiki/분류:2003년_이스포츠 "wikilink")
 
-1.  [8월 23일에](https://ko.wikipedia.org/wiki/8월_23일 "wikilink") 경기예정 이었으나, 폭우로인해 변경되었다.
+1.  [8월 23일에](../Page/8월_23일.md "wikilink") 경기예정 이었으나, 폭우로인해 변경되었다.

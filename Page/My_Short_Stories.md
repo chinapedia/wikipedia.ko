@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [My Short Stories](https://ko.wikipedia.org/wiki/My_Short_Stories).
 
 
-《**MY SHORT STORIES**》(마이 숏 스토리즈)는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 12일에](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") 발매된 [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 첫 B면 컴필레이션 음반이다. 신곡 〈I'll be〉와 그동한 발매한 싱글의 [커플링곡](https://ko.wikipedia.org/wiki/커플링곡 "wikilink")이 수록돼있다. 한정판에는 뮤직비디오와 공연 영상이 담긴 DVD가 들어있다. 2008년 11월 [일본 레코드 협회로부터](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") 25만 장 이상 출하를 뜻하는 플래티넘 인증을 받았다.[1](http://www.riaj.or.jp/data/others/gold/200811.html)
+《**MY SHORT STORIES**》(마이 숏 스토리즈)는 [2008년](../Page/2008년.md "wikilink") [11월 12일에](../Page/11월_12일.md "wikilink") 발매된 [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 첫 B면 컴필레이션 음반이다. 신곡 〈I'll be〉와 그동한 발매한 싱글의 [커플링곡](https://ko.wikipedia.org/wiki/커플링곡 "wikilink")이 수록돼있다. 한정판에는 뮤직비디오와 공연 영상이 담긴 DVD가 들어있다. 2008년 11월 [일본 레코드 협회로부터](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") 25만 장 이상 출하를 뜻하는 플래티넘 인증을 받았다.[1](http://www.riaj.or.jp/data/others/gold/200811.html)
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Box Emotions](https://ko.wikipedia.org/wiki/Box_Emotions).
 
 
-《**Box Emotions** (박스 이모션즈)》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")가 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 발매한 두 번째 정규 음반이다. 발매 첫 주에 오리콘 음반 차트에서 1위를 차지했으며 여성 가수로는 [하지메 지토세](https://ko.wikipedia.org/wiki/하지메_지토세 "wikilink") 이후 6년 만에 데뷔 음반에 이어 2집에서도 1위를 차지했다\[1\].
+《**Box Emotions** (박스 이모션즈)》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")가 [2009년](../Page/2009년.md "wikilink")에 발매한 두 번째 정규 음반이다. 발매 첫 주에 오리콘 음반 차트에서 1위를 차지했으며 여성 가수로는 [하지메 지토세](https://ko.wikipedia.org/wiki/하지메_지토세 "wikilink") 이후 6년 만에 데뷔 음반에 이어 2집에서도 1위를 차지했다\[1\].
 
 ## 수록곡
 

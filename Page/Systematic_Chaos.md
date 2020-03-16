@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Systematic Chaos](https://ko.wikipedia.org/wiki/Systematic_Chaos).
 
 
-**Systematic Chaos**(시스테머틱 케이어스)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 9번째 정규 앨범이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 6월 4일에 발매되었으나 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서는 하루 늦은 6월 5일 발매되었다. Systematic Chaos는 밴드가 [로드러너 레코드에서](../Page/로드러너_레코드.md "wikilink") 발매하는 첫 번째 앨범이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 9월부터 2007년 2월까지 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink") [아바타 스튜디오에서](https://ko.wikipedia.org/wiki/아바타_스튜디오 "wikilink") 녹음되었으며 녹음 전 밴드는 10년 만에 첫 여름 투어 이후 휴식기를 가졌다. 앨범의 가사는 [존 페트루치](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink"), [제임스 라브리에](../Page/제임스_라브리에.md "wikilink"), [마이크 포트노이가](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") 썼으며 소설적, 정치적, 개인적인 이야기, 기타 그와 관련된 이야기들을 담고 있다.\[1\]
+**Systematic Chaos**(시스테머틱 케이어스)는 [미국](../Page/미국.md "wikilink") [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 9번째 정규 앨범이다. [2007년](../Page/2007년.md "wikilink") 6월 4일에 발매되었으나 [영국](../Page/영국.md "wikilink")에서는 하루 늦은 6월 5일 발매되었다. Systematic Chaos는 밴드가 [로드러너 레코드에서](../Page/로드러너_레코드.md "wikilink") 발매하는 첫 번째 앨범이다. [2006년](../Page/2006년.md "wikilink") 9월부터 2007년 2월까지 [뉴욕](../Page/뉴욕.md "wikilink") [아바타 스튜디오에서](https://ko.wikipedia.org/wiki/아바타_스튜디오 "wikilink") 녹음되었으며 녹음 전 밴드는 10년 만에 첫 여름 투어 이후 휴식기를 가졌다. 앨범의 가사는 [존 페트루치](../Page/존_페트루치.md "wikilink"), [제임스 라브리에](../Page/제임스_라브리에.md "wikilink"), [마이크 포트노이가](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") 썼으며 소설적, 정치적, 개인적인 이야기, 기타 그와 관련된 이야기들을 담고 있다.\[1\]
 
-앨범은 8개 나라 차트에서 20위권에 진입했으며 특히 [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")200 차트에서는 9위를 기록하며 드림시어터의 역대 미국 차트순위중 최고기록을 세웠다.\[2\] 앨범에 대한 평론가들의 평가는 대개 긍정적이다. MetalReview.com의 Jon Eardley는 드림 시어터를 "[프로그레시브 락](https://ko.wikipedia.org/wiki/프로그레시브_락 "wikilink")/[메탈계를](../Page/프로그레시브_메탈.md "wikilink") 통틀어 가장 일관성있는 음악을 하는 밴드"로 평가했다.\[3\]
+앨범은 8개 나라 차트에서 20위권에 진입했으며 특히 [빌보드](../Page/빌보드.md "wikilink")200 차트에서는 9위를 기록하며 드림시어터의 역대 미국 차트순위중 최고기록을 세웠다.\[2\] 앨범에 대한 평론가들의 평가는 대개 긍정적이다. MetalReview.com의 Jon Eardley는 드림 시어터를 "[프로그레시브 락](https://ko.wikipedia.org/wiki/프로그레시브_락 "wikilink")/[메탈계를](../Page/프로그레시브_메탈.md "wikilink") 통틀어 가장 일관성있는 음악을 하는 밴드"로 평가했다.\[3\]
 
 드림시어터는 앨범 발매 직후 1년동안 35개국을 돌며 Chaos In Motion 월드 투어를 진행했다. 앨범은 일반 버전과 스페셜 에디션 버전의 두 가지 형태로 발매되었다. 스페셜 에디션에는 5.1 채널 서라운드 믹스와 메이킹 필름 DVD가 포함되어 있다.
 
 ## 배경
 
-2006년 4월 1일, 20주년 기념 투어의 마지막 공연을 녹음한 후 밴드는 10년 만에 처음으로 여름 휴가를 가졌다.\[4\] 9월에 밴드는 [아바타 스튜디오로](https://ko.wikipedia.org/wiki/아바타_스튜디오 "wikilink") 다시 모였고,\[5\] 포트노이는 이때 맴버간의 관계는 "지금까지 중 가장 좋았다"고 말했다.\[6\] 밴드는 [러쉬](https://ko.wikipedia.org/wiki/러쉬 "wikilink"), [퀸스라이크](../Page/퀸스라이크.md "wikilink")등의 앨범에 엔지니어로 함께 일한적 있는 [폴 노스필드를](https://ko.wikipedia.org/wiki/폴_노스필드 "wikilink") 새로 고용했고 그는 밴드에게 많은 영감을 주었다.\[7\] 이전 앨범들처럼 밴드는 작곡과 녹음을 동시에 진행했다.\[8\][마이크 포트노이와](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") [존 페트루치가](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") 앨범을 함께 프로듀싱했다. 포트노이는 노스필드에게 엔지니어와 믹싱 담당을 맡긴것은 밴드에게 '객관적인 외부인의 평가' 가 되어 주었지만, 맴버들은 여전히 각자 하고 싶은 음악을 자유롭게 했다고 말했다.\[9\]
+2006년 4월 1일, 20주년 기념 투어의 마지막 공연을 녹음한 후 밴드는 10년 만에 처음으로 여름 휴가를 가졌다.\[4\] 9월에 밴드는 [아바타 스튜디오로](https://ko.wikipedia.org/wiki/아바타_스튜디오 "wikilink") 다시 모였고,\[5\] 포트노이는 이때 맴버간의 관계는 "지금까지 중 가장 좋았다"고 말했다.\[6\] 밴드는 [러쉬](https://ko.wikipedia.org/wiki/러쉬 "wikilink"), [퀸스라이크](../Page/퀸스라이크.md "wikilink")등의 앨범에 엔지니어로 함께 일한적 있는 [폴 노스필드를](https://ko.wikipedia.org/wiki/폴_노스필드 "wikilink") 새로 고용했고 그는 밴드에게 많은 영감을 주었다.\[7\] 이전 앨범들처럼 밴드는 작곡과 녹음을 동시에 진행했다.\[8\][마이크 포트노이와](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") [존 페트루치가](../Page/존_페트루치.md "wikilink") 앨범을 함께 프로듀싱했다. 포트노이는 노스필드에게 엔지니어와 믹싱 담당을 맡긴것은 밴드에게 '객관적인 외부인의 평가' 가 되어 주었지만, 맴버들은 여전히 각자 하고 싶은 음악을 자유롭게 했다고 말했다.\[9\]
 
 [Metropolis Pt.2 : Scenes from a Memory](https://ko.wikipedia.org/wiki/Metropolis_Pt.2_:_Scenes_from_a_Memory "wikilink") 앨범이 하나의 컨셉을 이루고 있었던 것이나 [Train of Thought앨범이](../Page/Train_of_Thought.md "wikilink") 전적으로 '헤비니스'라는 주제 아래 묶여 있었던 것처럼, 8집까지의 모든 앨범들은 각각이 계획된 하나의 테마를 공유하는 형식이였다.\[10\] 포트노이는 Systematic Chaos 앨범에 대해서도 몇 가지 아이디어를 미리 생각해 두었지만, 다른 맴버들에게는 말하지 않고 그들이 '완전히 개방된 상태'에서 자유롭게 작업하도록 내버려 두었다.\[11\] 하지만 포트노이는 이번 앨범을 날카롭고 공격적이며 모던한 사운드로 만들기를 원했다.\[12\]
 
@@ -23,7 +23,7 @@
 
 ### Forsaken
 
-페트루치는 "Forsaken"이 '짧은 곡 구조'로 만든 이야기라고 말했다\[25\]. 가사에는 밤에 한 남자를 찾아간 [벰파이어](https://ko.wikipedia.org/wiki/벰파이어 "wikilink")가 등장한다. 남자는 벰파이어에게 흡혈을 당하면서도 자신이 '아름다운 광경'을 보고 있다고 착각한다\[26\]. 2008년 1월 26일 공개된 Forsaken의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")는 [곤조](https://ko.wikipedia.org/wiki/곤조 "wikilink")가 제작했고, 감독은 야스푸미 소에지마(Yasufumi Soejima)가 맡았다\[27\]\[28\]. 밴드는 소에지마에게 자유롭게 뮤직비디오 디자인을 할 수 있도록 하였고,\[29\] 그로 인해 현실세계 대신 공상과학적인 배경이 그려지게 되었다\[30\].
+페트루치는 "Forsaken"이 '짧은 곡 구조'로 만든 이야기라고 말했다\[25\]. 가사에는 밤에 한 남자를 찾아간 [벰파이어](https://ko.wikipedia.org/wiki/벰파이어 "wikilink")가 등장한다. 남자는 벰파이어에게 흡혈을 당하면서도 자신이 '아름다운 광경'을 보고 있다고 착각한다\[26\]. 2008년 1월 26일 공개된 Forsaken의 [애니메이션](../Page/애니메이션.md "wikilink") [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")는 [곤조](../Page/곤조.md "wikilink")가 제작했고, 감독은 야스푸미 소에지마(Yasufumi Soejima)가 맡았다\[27\]\[28\]. 밴드는 소에지마에게 자유롭게 뮤직비디오 디자인을 할 수 있도록 하였고,\[29\] 그로 인해 현실세계 대신 공상과학적인 배경이 그려지게 되었다\[30\].
 
 ### Constant Motion
 
@@ -35,7 +35,7 @@
 
 ### Repentance
 
-"Repentance"는 포트노이가 작사하는 [12단계 연작의](https://ko.wikipedia.org/wiki/12단계_연작 "wikilink") 4번째 파트이다\[38\]. 이번 파트에서는 수 명의 사람들이 등장해, 그들의 잘못이나 후회등을 뉘우치고 직접 사과하는 내용이 담겨 있다\[39\]. 7년 반 동안 술을 마시지 않은 포트노이\[40\] 는 [미카엘 오케르펠트](https://ko.wikipedia.org/wiki/미카엘_오케르펠트 "wikilink"), [존 앤더슨](https://ko.wikipedia.org/wiki/존_앤더슨 "wikilink"), [다니엘 길덴로우](https://ko.wikipedia.org/wiki/다니엘_길덴로우 "wikilink"), [스티브 호가스](https://ko.wikipedia.org/wiki/스티브_호가스 "wikilink"), [크리스 제리코](https://ko.wikipedia.org/wiki/크리스_제리코 "wikilink"), [닐 모스](https://ko.wikipedia.org/wiki/닐_모스 "wikilink"), [조 새트리아니](../Page/조_새트리아니.md "wikilink"), [코리 테일러](https://ko.wikipedia.org/wiki/코리_테일러 "wikilink"), [스티브 바이](../Page/스티브_바이.md "wikilink"), [스티븐 윌슨](https://ko.wikipedia.org/wiki/스티븐_윌슨 "wikilink"), [데이비드 엘럽슨](https://ko.wikipedia.org/wiki/데이비드_엘럽슨 "wikilink") 등 친구 혹은 동료 음악가들을 초대해 각자 가지고 있는 슬픔이나 후회, 사과 등을 이야기하도록 하여\[41\] 그것들을 녹음해 곡 속에 집어넣었다. 이 12단계 연작은 밴드의 10번째 정규 앨범 [Black Clouds & Silver Linings에서](../Page/Black_Clouds_&_Silver_Linings.md "wikilink") 끝나게 된다.
+"Repentance"는 포트노이가 작사하는 [12단계 연작의](https://ko.wikipedia.org/wiki/12단계_연작 "wikilink") 4번째 파트이다\[38\]. 이번 파트에서는 수 명의 사람들이 등장해, 그들의 잘못이나 후회등을 뉘우치고 직접 사과하는 내용이 담겨 있다\[39\]. 7년 반 동안 술을 마시지 않은 포트노이\[40\] 는 [미카엘 오케르펠트](https://ko.wikipedia.org/wiki/미카엘_오케르펠트 "wikilink"), [존 앤더슨](https://ko.wikipedia.org/wiki/존_앤더슨 "wikilink"), [다니엘 길덴로우](https://ko.wikipedia.org/wiki/다니엘_길덴로우 "wikilink"), [스티브 호가스](https://ko.wikipedia.org/wiki/스티브_호가스 "wikilink"), [크리스 제리코](../Page/크리스_제리코.md "wikilink"), [닐 모스](https://ko.wikipedia.org/wiki/닐_모스 "wikilink"), [조 새트리아니](../Page/조_새트리아니.md "wikilink"), [코리 테일러](https://ko.wikipedia.org/wiki/코리_테일러 "wikilink"), [스티브 바이](../Page/스티브_바이.md "wikilink"), [스티븐 윌슨](https://ko.wikipedia.org/wiki/스티븐_윌슨 "wikilink"), [데이비드 엘럽슨](https://ko.wikipedia.org/wiki/데이비드_엘럽슨 "wikilink") 등 친구 혹은 동료 음악가들을 초대해 각자 가지고 있는 슬픔이나 후회, 사과 등을 이야기하도록 하여\[41\] 그것들을 녹음해 곡 속에 집어넣었다. 이 12단계 연작은 밴드의 10번째 정규 앨범 [Black Clouds & Silver Linings에서](../Page/Black_Clouds_&_Silver_Linings.md "wikilink") 끝나게 된다.
 
 ### Prophets of War
 
@@ -47,9 +47,9 @@
 
 ## 앨범 발매 및 투어
 
-기본 앨범과 스페셜에디션 앨범 모두 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서는 6월 4일, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서는 6월 5일에 동시발매 되었다. [워너 브라더스와](https://ko.wikipedia.org/wiki/워너_브로스_뮤직_그룹 "wikilink") 함께 7개의 음반을 발매하는 동안, 밴드는 그들이 받는 보상이 부족했던 것에 대해 실망감을 느꼈다. 포트노이는 "우리의 이전 레이블은 기본적으로 하는 모든 일을 우리의 팬들에게만 의존했다. 그들이 하는 일이라곤 녹음작업에 돈을 쓰고 레코드샵에 CD를 갖다놓는게 전부였다."고 말하기도 했다\[51\]. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 2월 8일, 드림 시어터는 새 앨범을 [로드러너 레코드에서](../Page/로드러너_레코드.md "wikilink") 내기로 하는 계약에 합의했다\[52\]. 'Systematic Chaos'의 작곡과 녹음은 보컬 녹음과 비슷한 시기에 이루어졌다\[53\]. 한편 아이러니하게도, 로드러너 레코드는 밴드와 계약을 체결하고 1주일 뒤, 워너 브라더스에 인수되었다. 하지만 라브리에는 로드러너가 앨범 프로모션에 관한 밴드와의 모든 계약을 받아들이기로 했다고 밝혔다\[54\].
+기본 앨범과 스페셜에디션 앨범 모두 [영국](../Page/영국.md "wikilink")에서는 6월 4일, [미국](../Page/미국.md "wikilink")에서는 6월 5일에 동시발매 되었다. [워너 브라더스와](https://ko.wikipedia.org/wiki/워너_브로스_뮤직_그룹 "wikilink") 함께 7개의 음반을 발매하는 동안, 밴드는 그들이 받는 보상이 부족했던 것에 대해 실망감을 느꼈다. 포트노이는 "우리의 이전 레이블은 기본적으로 하는 모든 일을 우리의 팬들에게만 의존했다. 그들이 하는 일이라곤 녹음작업에 돈을 쓰고 레코드샵에 CD를 갖다놓는게 전부였다."고 말하기도 했다\[51\]. [2007년](../Page/2007년.md "wikilink") 2월 8일, 드림 시어터는 새 앨범을 [로드러너 레코드에서](../Page/로드러너_레코드.md "wikilink") 내기로 하는 계약에 합의했다\[52\]. 'Systematic Chaos'의 작곡과 녹음은 보컬 녹음과 비슷한 시기에 이루어졌다\[53\]. 한편 아이러니하게도, 로드러너 레코드는 밴드와 계약을 체결하고 1주일 뒤, 워너 브라더스에 인수되었다. 하지만 라브리에는 로드러너가 앨범 프로모션에 관한 밴드와의 모든 계약을 받아들이기로 했다고 밝혔다\[54\].
 
-포트노이는 'Chaos in Progress: The Making of Systematic Chaos'의 제작과 편집에 한 달 여의 시간을 보냈고, 이 영상은 스페셜 에디션 앨범의 2번 디스크에 포함되었다\[55\]. 스페셜 에디션에는 또한 앨범 수록곡의 5.1채널 서라운드 믹스 버전도 포함되었다. 프로모션 투어는 2007년 6월 3일부터 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 6월 4일까지 이루어졌으며 35개국에서 115회의 공연을 가졌다\[56\]. 몇 군데에서의 공연 영상들은 2008년 9월 30일 밴드의 5번째 DVD 음반인 [Chaos in Motion 2007-2008로](https://ko.wikipedia.org/wiki/Chaos_in_Motion_2007-2008 "wikilink") 발매되었다\[57\] .
+포트노이는 'Chaos in Progress: The Making of Systematic Chaos'의 제작과 편집에 한 달 여의 시간을 보냈고, 이 영상은 스페셜 에디션 앨범의 2번 디스크에 포함되었다\[55\]. 스페셜 에디션에는 또한 앨범 수록곡의 5.1채널 서라운드 믹스 버전도 포함되었다. 프로모션 투어는 2007년 6월 3일부터 [2008년](../Page/2008년.md "wikilink") 6월 4일까지 이루어졌으며 35개국에서 115회의 공연을 가졌다\[56\]. 몇 군데에서의 공연 영상들은 2008년 9월 30일 밴드의 5번째 DVD 음반인 [Chaos in Motion 2007-2008로](../Page/Chaos_in_Motion_2007-2008.md "wikilink") 발매되었다\[57\] .
 
 ## 평가
 
@@ -61,11 +61,11 @@
 
 ## 차트 순위
 
-앨범은 지금까지 단 한차례도 차트에 올라간 적 없었던 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")과 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")에서 25위안에 진입했다\[71\]\[72\]. 미국에서는 [빌보드200](https://ko.wikipedia.org/wiki/빌보드200 "wikilink") 차트에서 19위까지 올라갔고, 이 역시 드림시어터가 앨범을 발매 한 이래 최고 기록이다\[73\]. 전체적으로 'Systematic Chaos'는 총 8개국에서 판매량 20위 이내에 진입했다.
+앨범은 지금까지 단 한차례도 차트에 올라간 적 없었던 [영국](../Page/영국.md "wikilink")과 [오스트레일리아](../Page/오스트레일리아.md "wikilink")에서 25위안에 진입했다\[71\]\[72\]. 미국에서는 [빌보드200](https://ko.wikipedia.org/wiki/빌보드200 "wikilink") 차트에서 19위까지 올라갔고, 이 역시 드림시어터가 앨범을 발매 한 이래 최고 기록이다\[73\]. 전체적으로 'Systematic Chaos'는 총 8개국에서 판매량 20위 이내에 진입했다.
 
 |                            차트 (2007)                            |  최고 순위   |
 | :-------------------------------------------------------------: | :------: |
-|      *[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")*      | 19\[74\] |
+|               *[빌보드](../Page/빌보드.md "wikilink")*                | 19\[74\] |
 | [캐나다 앨범 차트](https://ko.wikipedia.org/wiki/캐나다_앨범_차트 "wikilink") | 15\[75\] |
 |   [ARIA 차트](https://ko.wikipedia.org/wiki/ARIA_차트 "wikilink")   | 23\[76\] |
 |  [영국 앨범 차트](https://ko.wikipedia.org/wiki/영국_앨범_차트 "wikilink")  | 25\[77\] |
@@ -85,10 +85,10 @@
 <!-- end list -->
 
   - [제임스 라브리에](../Page/제임스_라브리에.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - [존 명](../Page/존_명.md "wikilink") – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
-  - [존 페트루치](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 보컬
+  - [존 명](../Page/존_명.md "wikilink") – [베이스 기타](../Page/베이스_기타.md "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink") – [기타](../Page/기타.md "wikilink"), 보컬
   - [마이크 포트노이](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), [퍼커션](https://ko.wikipedia.org/wiki/퍼커션 "wikilink"), 보컬
-  - [조던 루디스](https://ko.wikipedia.org/wiki/조던_루디스 "wikilink") – [키보드](../Page/신시사이저.md "wikilink") and [컨티늄](https://ko.wikipedia.org/wiki/컨티늄 "wikilink")
+  - [조던 루디스](../Page/조던_루디스.md "wikilink") – [키보드](../Page/신시사이저.md "wikilink") and [컨티늄](https://ko.wikipedia.org/wiki/컨티늄 "wikilink")
 
 <!-- end list -->
 

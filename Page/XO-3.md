@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XO-3](https://ko.wikipedia.org/wiki/XO-3).
 
 
-**XO-3**은 [기린자리](https://ko.wikipedia.org/wiki/기린자리 "wikilink") 방향으로 지구로부터 약 850광년 떨어진 곳에 있는 [F형 주계열성이다](../Page/F형_주계열성.md "wikilink"). 이 별은 우리 [태양](https://ko.wikipedia.org/wiki/태양 "wikilink")보다 좀 더 무겁고, 더 밝고 뜨겁다. [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 9.91로 맨눈으로는 볼 수 없으며 작은 [망원경](https://ko.wikipedia.org/wiki/망원경 "wikilink")이 있어야 관측이 가능하다.\[1\]
+**XO-3**은 [기린자리](../Page/기린자리.md "wikilink") 방향으로 지구로부터 약 850광년 떨어진 곳에 있는 [F형 주계열성이다](../Page/F형_주계열성.md "wikilink"). 이 별은 우리 [태양](../Page/태양.md "wikilink")보다 좀 더 무겁고, 더 밝고 뜨겁다. [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 9.91로 맨눈으로는 볼 수 없으며 작은 [망원경](../Page/망원경.md "wikilink")이 있어야 관측이 가능하다.\[1\]
 
 ## 행성계
 

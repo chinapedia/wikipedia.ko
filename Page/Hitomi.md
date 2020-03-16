@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Hitomi](https://ko.wikipedia.org/wiki/Hitomi).
 
 
-**히토미**(hitomi, 본명: **후루야 히토미**(), [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink") \~ )는 일본의 여성 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 1994년 [고무로 데쓰야가](https://ko.wikipedia.org/wiki/고무로_데쓰야 "wikilink") 프로듀스한 싱글 《Let's Play Winter》로 가수로 데뷔했다.
+**히토미**(hitomi, 본명: **후루야 히토미**(), [1976년](../Page/1976년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink") \~ )는 일본의 여성 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 1994년 [고무로 데쓰야가](https://ko.wikipedia.org/wiki/고무로_데쓰야 "wikilink") 프로듀스한 싱글 《Let's Play Winter》로 가수로 데뷔했다.
 
-[2000년 하계 올림픽](https://ko.wikipedia.org/wiki/2000년_하계_올림픽 "wikilink") 여자 [마라톤](https://ko.wikipedia.org/wiki/마라톤 "wikilink")에서 금메달을 딴 [다카하시 나오코가](../Page/다카하시_나오코.md "wikilink") 연습 중이나 경기 전에 그의 노래인 〈LOVE 2000〉을 들었다는 사실이 전해지면서 다시 차트에 진입하기도 했다. 2005년, 데뷔 10주년을 맞아 에이벡스에서 개인 [레이블](../Page/레코드_레이블.md "wikilink") 〈러브 라이프 레코드〉를 설립하며 레이블 첫 음반인 28번째 싱글 《Japanese girl》을 발매했다.
+[2000년 하계 올림픽](https://ko.wikipedia.org/wiki/2000년_하계_올림픽 "wikilink") 여자 [마라톤](../Page/마라톤.md "wikilink")에서 금메달을 딴 [다카하시 나오코가](../Page/다카하시_나오코.md "wikilink") 연습 중이나 경기 전에 그의 노래인 〈LOVE 2000〉을 들었다는 사실이 전해지면서 다시 차트에 진입하기도 했다. 2005년, 데뷔 10주년을 맞아 에이벡스에서 개인 [레이블](../Page/레코드_레이블.md "wikilink") 〈러브 라이프 레코드〉를 설립하며 레이블 첫 음반인 28번째 싱글 《Japanese girl》을 발매했다.
 
 ## 출연
 

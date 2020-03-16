@@ -31,6 +31,6 @@
 
 ## 알려진 문제점
 
-  - 일본어 입력기인 [:ja:ことえり](https://ko.wikipedia.org/wiki/:ja:ことえり "wikilink")([:en:kotoeri](https://ko.wikipedia.org/wiki/:en:kotoeri "wikilink"))등과는 다르게 한글 입력기로 바로 전환하기 위한 바로 가기 키를 설정할 수 없다. 이로 인하여 기본 웹 브라우저인 [사파리 (웹 브라우저)에서](https://ko.wikipedia.org/wiki/사파리_\(웹_브라우저\) "wikilink") 암호를 입력하기 위해 password 타입의 텍스트 입력란에 포커스를 이동하면 영문 입력기로 고정되어 자판변환이 되지 않는 버그 때문에 불편이 많았다. 이를 극복하기 위해서는 바로 가기 키를 설정할 수 있는 별도의 한글 입력기를 설치하여, 영문 입력기로 고정되어있더라도 바로가기 키를 누르는 것으로 극복하거나, [사파리 (웹 브라우저)이외의](https://ko.wikipedia.org/wiki/사파리_\(웹_브라우저\) "wikilink") 웹 브라우저를 사용하는 것으로 극복할 수 있었으나 [사파리 (웹 브라우저)버전](https://ko.wikipedia.org/wiki/사파리_\(웹_브라우저\) "wikilink") 4.x부터는 이 버그가 수정되어 해소되었다.
+  - 일본어 입력기인 [:ja:ことえり](https://ko.wikipedia.org/wiki/:ja:ことえり "wikilink")([:en:kotoeri](https://ko.wikipedia.org/wiki/:en:kotoeri "wikilink"))등과는 다르게 한글 입력기로 바로 전환하기 위한 바로 가기 키를 설정할 수 없다. 이로 인하여 기본 웹 브라우저인 [사파리 (웹 브라우저)에서](../Page/사파리_\(웹_브라우저\).md "wikilink") 암호를 입력하기 위해 password 타입의 텍스트 입력란에 포커스를 이동하면 영문 입력기로 고정되어 자판변환이 되지 않는 버그 때문에 불편이 많았다. 이를 극복하기 위해서는 바로 가기 키를 설정할 수 있는 별도의 한글 입력기를 설치하여, 영문 입력기로 고정되어있더라도 바로가기 키를 누르는 것으로 극복하거나, [사파리 (웹 브라우저)이외의](../Page/사파리_\(웹_브라우저\).md "wikilink") 웹 브라우저를 사용하는 것으로 극복할 수 있었으나 [사파리 (웹 브라우저)버전](../Page/사파리_\(웹_브라우저\).md "wikilink") 4.x부터는 이 버그가 수정되어 해소되었다.
 
 [분류:입력기](https://ko.wikipedia.org/wiki/분류:입력기 "wikilink") [분류:한국어 입력기](https://ko.wikipedia.org/wiki/분류:한국어_입력기 "wikilink")

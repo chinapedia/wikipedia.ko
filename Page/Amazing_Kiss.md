@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Amazing Kiss](https://ko.wikipedia.org/wiki/Amazing_Kiss).
 
 
-《**Amazing Kiss**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 일본에서 발매한 2번째 싱글이다.
+《**Amazing Kiss**》는 [대한민국](../Page/대한민국.md "wikilink")의 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](../Page/보아.md "wikilink")가 일본에서 발매한 2번째 싱글이다.
 
 ## 설명
 

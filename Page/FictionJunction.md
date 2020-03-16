@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [FictionJunction](https://ko.wikipedia.org/wiki/FictionJunction).
 
 
-**픽션정크션**(FictionJunction)은 [카지우라 유키의](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink") 솔로 프로젝트이다.
+**픽션정크션**(FictionJunction)은 [카지우라 유키의](../Page/카지우라_유키.md "wikilink") 솔로 프로젝트이다.
 
-픽션(Fiction, 창작한다)과 정크션(Junction, 교차·접합한다)을 조합한 이 프로젝트명은 [카지우라 유키가](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink") 곡을 만들고(Fiction) 악곡마다 보컬리스트등과 교차·접합(Junction)하여 새로운 퍼포먼스를 세상에 내보내는 프로젝트로서 2003년 YUUKA의 보컬에 의한 "여명의 수레바퀴"로 활동 스타트.
+픽션(Fiction, 창작한다)과 정크션(Junction, 교차·접합한다)을 조합한 이 프로젝트명은 [카지우라 유키가](../Page/카지우라_유키.md "wikilink") 곡을 만들고(Fiction) 악곡마다 보컬리스트등과 교차·접합(Junction)하여 새로운 퍼포먼스를 세상에 내보내는 프로젝트로서 2003년 YUUKA의 보컬에 의한 "여명의 수레바퀴"로 활동 스타트.
 
 ## 멤버
 
 ### 프로듀서
 
-  - **[카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink")** (악곡 및 키보드)
+  - **[카지우라 유키](../Page/카지우라_유키.md "wikilink")** (악곡 및 키보드)
 
 ### 주요보컬
 
@@ -51,16 +51,16 @@
 
 *FBM (Front Band Member)*
 
-  - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink") : **[코레나가 코우이치](https://ko.wikipedia.org/wiki/:ja:是永巧一 "wikilink")**
+  - [기타](../Page/기타.md "wikilink") : **[코레나가 코우이치](https://ko.wikipedia.org/wiki/:ja:是永巧一 "wikilink")**
   - [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink") : **[타카하시 Jr. 토모하루](https://ko.wikipedia.org/wiki/:ja:高橋"Jr."知治 "wikilink")**
   - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink") : **사토 쿄이치**
-  - [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink") : **콘노 히토시**
+  - [바이올린](../Page/바이올린.md "wikilink") : **콘노 히토시**
   - Manipulator : **오히라 요시오**
-  - [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink") : **사쿠라다 야스히로** (Kalafina만 담당)
+  - [피아노](../Page/피아노.md "wikilink") : **사쿠라다 야스히로** (Kalafina만 담당)
 
 ### 기타
 
-  - **[YUUKA](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink")**
+  - **[YUUKA](../Page/픽션정크션_유우카.md "wikilink")**
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
 
 ## 에피소드
 
-  - FictionJunction은 [카지우라 유키의](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink") 솔로프로젝트로써 결성도 없으며 해체도 없다고한다. 관련된 모든사람(가희, 밴드멤버)가 강제적으로 반영구적인 FJ의 일원이라고 하였다.\[1\]
+  - FictionJunction은 [카지우라 유키의](../Page/카지우라_유키.md "wikilink") 솔로프로젝트로써 결성도 없으며 해체도 없다고한다. 관련된 모든사람(가희, 밴드멤버)가 강제적으로 반영구적인 FJ의 일원이라고 하였다.\[1\]
   - 보컬 카오리와 카지우라 유키의 인연은 당시 매니저가 같아서 매니저의 소개로 [츠바사 크로니클의](https://ko.wikipedia.org/wiki/츠바사_크로니클 "wikilink") tsubasa를 부르게된게 계기였다고한다.\[2\]
 
 ## 디스코그래피
@@ -104,7 +104,7 @@
 <!-- end list -->
 
   -
-    TV 애니메이션「[오오카미카쿠시](https://ko.wikipedia.org/wiki/오오카미카쿠시 "wikilink")」오프닝 테마
+    TV 애니메이션「[오오카미카쿠시](../Page/오오카미카쿠시.md "wikilink")」오프닝 테마
 
 <!-- end list -->
 
@@ -362,7 +362,7 @@
 <!-- end list -->
 
   -
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](../Page/마사이_히카루.md "wikilink")
     5월 31일 도쿄 アムラックスホール
 
 <!-- end list -->
@@ -372,7 +372,7 @@
 <!-- end list -->
 
   -
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](../Page/마사이_히카루.md "wikilink")
     12월 12일 도쿄 アムラックスホール
     12월 13일 도쿄 アムラックスホール
 
@@ -383,7 +383,7 @@
 <!-- end list -->
 
   -
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](../Page/마사이_히카루.md "wikilink")
     1월 11일 오사카 フラミンゴ・ジ・アルーシャ
 
 <!-- end list -->
@@ -393,7 +393,7 @@
 <!-- end list -->
 
   -
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [YUUKA](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [YUUKA](../Page/픽션정크션_유우카.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](../Page/마사이_히카루.md "wikilink")
       -
         [코레나가 코우이치](https://ko.wikipedia.org/wiki/:ja:是永巧一 "wikilink"), [타카하시 Jr. 토모하루](https://ko.wikipedia.org/wiki/:ja:高橋"Jr."知治 "wikilink"), 콘노 히토시, 오히라 요시오, 노자키 마스케
     12월 26일 요코하마 요코하마 [BLITZ](https://ko.wikipedia.org/wiki/:ja:横浜BLITZ "wikilink")
@@ -405,7 +405,7 @@
 <!-- end list -->
 
   -
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [YUUKA](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [YUUKA](../Page/픽션정크션_유우카.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](../Page/마사이_히카루.md "wikilink")
     12월 3일 도쿄 [草月ホール](https://ko.wikipedia.org/wiki/:ja:草月ホール "wikilink")
 
 <!-- end list -->
@@ -415,7 +415,7 @@
 <!-- end list -->
 
   -
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [YUUKA](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [YUUKA](../Page/픽션정크션_유우카.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](../Page/마사이_히카루.md "wikilink")
     4월 7일 오사카 大阪朝日生命ホール
 
 <!-- end list -->
@@ -425,7 +425,7 @@
 <!-- end list -->
 
   -
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [YUUKA](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [YUUKA](../Page/픽션정크션_유우카.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](../Page/마사이_히카루.md "wikilink")
       -
         [코레나가 코우이치](https://ko.wikipedia.org/wiki/:ja:是永巧一 "wikilink"), [타카하시 Jr. 토모하루](https://ko.wikipedia.org/wiki/:ja:高橋"Jr."知治 "wikilink"), 콘노 히토시, 오히라 요시오, 사토 쿄이치
     1월 5일 오사카 [なんばHatch](https://ko.wikipedia.org/wiki/:ja:湊町リバープレイス "wikilink")
@@ -438,7 +438,7 @@
 <!-- end list -->
 
   -
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](../Page/마사이_히카루.md "wikilink")
     10월 13일 도쿄 [ニッショーホール](https://ko.wikipedia.org/wiki/:ja:ニッショーホール "wikilink")
     10월 14일 오사카 [松下IMPホール](https://ko.wikipedia.org/wiki/:ja:松下IMPビル "wikilink")
 
@@ -449,7 +449,7 @@
 <!-- end list -->
 
   -
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink"), ASUKA
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [Hikaru](../Page/마사이_히카루.md "wikilink"), ASUKA
       -
         [코레나가 코우이치](https://ko.wikipedia.org/wiki/:ja:是永巧一 "wikilink"), [타카하시 Jr. 토모하루](https://ko.wikipedia.org/wiki/:ja:高橋"Jr."知治 "wikilink"), 콘노 히토시, 오히라 요시오, 사토 쿄이치
     1월 31일 도쿄 [豊洲PIT](https://ko.wikipedia.org/wiki/:ja:チームスマイル "wikilink")
@@ -462,7 +462,7 @@
 
   -
     4월 18일 도쿄 [高野山東京別院](https://ko.wikipedia.org/wiki/:ja:高野山東京別院 "wikilink")
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink")
 
 <!-- end list -->
 
@@ -472,7 +472,7 @@
 
   -
     4월 29일 고베 [神戸ワールド記念ホール](https://ko.wikipedia.org/wiki/:ja:ワールド記念ホール "wikilink")
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [YUUKA](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [카사하라 유리](https://ko.wikipedia.org/wiki/:ja:新南田ゆり "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [YUUKA](../Page/픽션정크션_유우카.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [카사하라 유리](https://ko.wikipedia.org/wiki/:ja:新南田ゆり "wikilink")
 
 <!-- end list -->
 
@@ -482,7 +482,7 @@
 
   -
     5월 6일 요코하마 [パシフィコ横浜](https://ko.wikipedia.org/wiki/:ja:横浜国際平和会議場 "wikilink")
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [YUUKA](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [카사하라 유리](https://ko.wikipedia.org/wiki/:ja:新南田ゆり "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [YUUKA](../Page/픽션정크션_유우카.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [카사하라 유리](https://ko.wikipedia.org/wiki/:ja:新南田ゆり "wikilink")
 
 <!-- end list -->
 
@@ -492,7 +492,7 @@
 
   -
     5월 15일 도쿄 [東京国際フォーラム](https://ko.wikipedia.org/wiki/:ja:東京国際フォーラム "wikilink")
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [YUUKA](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [카사하라 유리](https://ko.wikipedia.org/wiki/:ja:新南田ゆり "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [YUUKA](../Page/픽션정크션_유우카.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [카사하라 유리](https://ko.wikipedia.org/wiki/:ja:新南田ゆり "wikilink")
 
 <!-- end list -->
 
@@ -511,7 +511,7 @@
 
   -
     9월 13일 도쿄 [日本青年館](https://ko.wikipedia.org/wiki/:ja:日本青年館 "wikilink")
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
 
 <!-- end list -->
 
@@ -521,7 +521,7 @@
 
   -
     10월 4일 도쿄 [テアトル新宿](https://ko.wikipedia.org/wiki/:ja:東京テアトル "wikilink")
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink")
 
 <!-- end list -->
 
@@ -531,7 +531,7 @@
 
   -
     5월 9일 도쿄 九段会館　大ホール
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
 
 <!-- end list -->
 
@@ -541,7 +541,7 @@
 
   -
     8월 22일 도쿄 文京シビックホール　大ホール
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
 
 <!-- end list -->
 
@@ -551,7 +551,7 @@
 
   -
     8월 23일 사이타마 [さいたまスーパーアリーナ](https://ko.wikipedia.org/wiki/:ja:さいたまスーパーアリーナ "wikilink")
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [YUUKA](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [YUUKA](../Page/픽션정크션_유우카.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
 
 <!-- end list -->
 
@@ -561,7 +561,7 @@
 
   -
     5월 9일 도쿄 ゆうぽうとホール
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [YUUKA](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [YUUKA](../Page/픽션정크션_유우카.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
 
 <!-- end list -->
 
@@ -571,7 +571,7 @@
 
   -
     10월 16일 도쿄 ASTRO HALL
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [난리 유우카](https://ko.wikipedia.org/wiki/:ja:南里侑香 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [난리 유우카](https://ko.wikipedia.org/wiki/:ja:南里侑香 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink")
 
 <!-- end list -->
 
@@ -581,7 +581,7 @@
 
   -
     4월 7일 도쿄 秋葉原UDX THEATER
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [코레나가 코우이치](https://ko.wikipedia.org/wiki/:ja:是永巧一 "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [코레나가 코우이치](https://ko.wikipedia.org/wiki/:ja:是永巧一 "wikilink")
 
 <!-- end list -->
 
@@ -591,7 +591,7 @@
 
   -
     2월 1일 요코하마 [パシフィコ横浜](https://ko.wikipedia.org/wiki/:ja:横浜国際平和会議場 "wikilink")
-    출연 : [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [REMI](https://ko.wikipedia.org/wiki/:ja:REMI "wikilink")
+    출연 : [카지우라 유키](../Page/카지우라_유키.md "wikilink"), [KAORI](https://ko.wikipedia.org/wiki/오다_가오리 "wikilink"), [WAKANA](../Page/오타키_와카나.md "wikilink"), [KEIKO](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [카이다 유리코](https://ko.wikipedia.org/wiki/:ja:貝田由里子 "wikilink"), [REMI](https://ko.wikipedia.org/wiki/:ja:REMI "wikilink")
 
 ### FBM LIVE
 
@@ -626,7 +626,7 @@
 
 ## 기타활동
 
-  - [Revo](../Page/Revo.md "wikilink") & [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink") Collaboration「[Dream Port](https://ko.wikipedia.org/wiki/:ja:Dream_Port "wikilink")」(2008년 06월 18일)
+  - [Revo](../Page/Revo.md "wikilink") & [카지우라 유키](../Page/카지우라_유키.md "wikilink") Collaboration「[Dream Port](https://ko.wikipedia.org/wiki/:ja:Dream_Port "wikilink")」(2008년 06월 18일)
 
 <!-- end list -->
 
@@ -677,8 +677,8 @@
 
 ## 관련항목
 
-  - [픽션정크션 유우카](https://ko.wikipedia.org/wiki/픽션정크션_유우카 "wikilink")
-  - [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink")
+  - [픽션정크션 유우카](../Page/픽션정크션_유우카.md "wikilink")
+  - [카지우라 유키](../Page/카지우라_유키.md "wikilink")
 
 ## 외부 링크
 

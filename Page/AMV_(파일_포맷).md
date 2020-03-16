@@ -21,7 +21,7 @@
 
   - [All about AMV file format](http://wiki.multimedia.cx/index.php?title=AMV) (멀티미디어 위키)
 
-  - [Bytessence AMV Converter](http://www.bytessence.com/bmpxc.html)<small>([FFmpeg](../Page/FFmpeg.md "wikilink")기반의 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") AMV 컨버터)</small>
+  - [Bytessence AMV Converter](http://www.bytessence.com/bmpxc.html)<small>([FFmpeg](../Page/FFmpeg.md "wikilink")기반의 [오픈 소스](../Page/오픈_소스.md "wikilink") AMV 컨버터)</small>
 
 [분류:파일 포맷](https://ko.wikipedia.org/wiki/분류:파일_포맷 "wikilink")
 

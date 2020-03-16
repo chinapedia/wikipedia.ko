@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [Kalafina](https://ko.wikipedia.org/wiki/Kalafina).
 
 
-**Kalafina**(카라피나, 칼라피나)는 작곡가 [카지우라 유키가](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink") 프로듀싱한 일본의 그룹이다. 극장판 애니메이션 《[공의 경계](https://ko.wikipedia.org/wiki/공의_경계 "wikilink")》 7부작의 주제가를 위해 결성되었으며, [SME Records](https://ko.wikipedia.org/wiki/:ja:エスエムイーレコーズ "wikilink") 소속의 음악유닛이다.
+**Kalafina**(카라피나, 칼라피나)는 작곡가 [카지우라 유키가](../Page/카지우라_유키.md "wikilink") 프로듀싱한 일본의 그룹이다. 극장판 애니메이션 《[공의 경계](../Page/공의_경계.md "wikilink")》 7부작의 주제가를 위해 결성되었으며, [SME Records](https://ko.wikipedia.org/wiki/:ja:エスエムイーレコーズ "wikilink") 소속의 음악유닛이다.
 
 ## 개요
 
-극장판 애니메이션「공의 경계」주제곡 프로젝트로써 [카지우라 유키의](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink") 프로듀스에 의해 탄생한 그룹.
+극장판 애니메이션「공의 경계」주제곡 프로젝트로써 [카지우라 유키의](../Page/카지우라_유키.md "wikilink") 프로듀스에 의해 탄생한 그룹.
 
-첫 번째 싱글인 〈[oblivious](https://ko.wikipedia.org/wiki/:ja:oblivious "wikilink")〉를 발매하면서 멤버를 발표하지 않았으나 2008년 4월부터 5월까지 행해졌던 라이브 이벤트《[Revo](../Page/Revo.md "wikilink")＆[카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink") Presents [Dream Port](https://ko.wikipedia.org/wiki/:ja:Dream_Port "wikilink") 2008》에서 처음으로 [Wakana와](https://ko.wikipedia.org/wiki/오타키_와카나 "wikilink") [Keiko](https://ko.wikipedia.org/wiki/Keiko "wikilink")의 참가가 공표되었다. 이벤트에서 발매되었던 팜플렛의 카지우라상의 인터뷰에 Kalafina는 정원이 없는 유동적인 유닛이라고 발언.
+첫 번째 싱글인 〈[oblivious](https://ko.wikipedia.org/wiki/:ja:oblivious "wikilink")〉를 발매하면서 멤버를 발표하지 않았으나 2008년 4월부터 5월까지 행해졌던 라이브 이벤트《[Revo](../Page/Revo.md "wikilink")＆[카지우라 유키](../Page/카지우라_유키.md "wikilink") Presents [Dream Port](https://ko.wikipedia.org/wiki/:ja:Dream_Port "wikilink") 2008》에서 처음으로 [Wakana와](../Page/오타키_와카나.md "wikilink") [Keiko](https://ko.wikipedia.org/wiki/Keiko "wikilink")의 참가가 공표되었다. 이벤트에서 발매되었던 팜플렛의 카지우라상의 인터뷰에 Kalafina는 정원이 없는 유동적인 유닛이라고 발언.
 
-두 번째 싱글인〈[sprinter/ARIA](https://ko.wikipedia.org/wiki/:ja:sprinter/ARIA "wikilink")〉에서는 [Hikaru와](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink") Maya가 더해져 4명 구성이 되었으나, 세 번째 싱글인〈[fairytale](https://ko.wikipedia.org/wiki/:ja:fairytale "wikilink")〉에서는 Maya가 불참가. 첫 번째 앨범인《[Seventh Heaven](https://ko.wikipedia.org/wiki/:ja:Seventh_Heaven_\(Kalafinaのアルバム\) "wikilink")》를 발매하며 공식홈페이지에서 Maya의 탈퇴사실이 전해졌다.
+두 번째 싱글인〈[sprinter/ARIA](https://ko.wikipedia.org/wiki/:ja:sprinter/ARIA "wikilink")〉에서는 [Hikaru와](../Page/마사이_히카루.md "wikilink") Maya가 더해져 4명 구성이 되었으나, 세 번째 싱글인〈[fairytale](https://ko.wikipedia.org/wiki/:ja:fairytale "wikilink")〉에서는 Maya가 불참가. 첫 번째 앨범인《[Seventh Heaven](https://ko.wikipedia.org/wiki/:ja:Seventh_Heaven_\(Kalafinaのアルバム\) "wikilink")》를 발매하며 공식홈페이지에서 Maya의 탈퇴사실이 전해졌다.
 
-당초는 극장판〈[공의 경계](https://ko.wikipedia.org/wiki/공의_경계 "wikilink")〉의 주제가를 위한 유닛이였으므로 프로젝트가 끝나면 그룹도 해산되지 않을까 생각되고 있었지만 같은 날 네 번째 싱글인 〈[Lacrimosa](https://ko.wikipedia.org/wiki/:ja:Lacrimosa "wikilink")〉가 동시발매되면서 제2의 스타트를 알렸다.
+당초는 극장판〈[공의 경계](../Page/공의_경계.md "wikilink")〉의 주제가를 위한 유닛이였으므로 프로젝트가 끝나면 그룹도 해산되지 않을까 생각되고 있었지만 같은 날 네 번째 싱글인 〈[Lacrimosa](https://ko.wikipedia.org/wiki/:ja:Lacrimosa "wikilink")〉가 동시발매되면서 제2의 스타트를 알렸다.
 
-현재는 멤버 변동 없이 [Wakana](https://ko.wikipedia.org/wiki/오타키_와카나 "wikilink"), [Keiko](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [Hikaru에](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink") 의한 3명의 여성보컬유닛으로 활동 중이다.
+현재는 멤버 변동 없이 [Wakana](../Page/오타키_와카나.md "wikilink"), [Keiko](https://ko.wikipedia.org/wiki/Keiko "wikilink"), [Hikaru에](../Page/마사이_히카루.md "wikilink") 의한 3명의 여성보컬유닛으로 활동 중이다.
 
 Kalafina라는 그룹이름에는 별다른 의미는 없으며 발음하기가 예뻐서 만들었다는 카지우라어의 일종이다.
 
@@ -21,7 +21,7 @@ Kalafina라는 그룹이름에는 별다른 의미는 없으며 발음하기가 
 
 2017년 4월 14일, Kalafina 공식팬클럽 <Harmony>가 개설. 기존 팬클럽이였던 FictionJunction CLUB(일명 FJC) 에서 독립된 형태이다.
 
-2018년 2월 21일, 프로듀서인 [카지우라 유키가](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink") 소속사 [스페이스 크래프트 프로듀스의](https://ko.wikipedia.org/wiki/:ja:スペースクラフト "wikilink") 퇴소 및 독립을 발표하면서 그룹활동 역시 휴지(休止)상태가 되었다고 미디어에서 보도.\[1\]
+2018년 2월 21일, 프로듀서인 [카지우라 유키가](../Page/카지우라_유키.md "wikilink") 소속사 [스페이스 크래프트 프로듀스의](https://ko.wikipedia.org/wiki/:ja:スペースクラフト "wikilink") 퇴소 및 독립을 발표하면서 그룹활동 역시 휴지(休止)상태가 되었다고 미디어에서 보도.\[1\]
 
 2018년 3월 13일, 미디어를 통해 이번달말로 일부멤버가 그룹탈퇴 및 소속사를 퇴소하며 그로 인해 정규라디오였던 <Kalafina 구락부> 역시 이번달말로 종료, 3월 11일에 열린 라이브(～つなげよう、感動。つながろう、東北の笑顔。～)가 3명의 마지막라이브라고 보도.\[2\] Kalafina 팬클럽사이트인 Kalafina Harmony를 통해(팬클럽에 유료로 가입된 회원만 열람가능) 보도되었던것처럼 멤버1명이 탈퇴 및 퇴사를 희망하였고, 남은 멤버2명은 앞으로도 계속 활동한다고 발표.
 
@@ -33,12 +33,12 @@ Kalafina라는 그룹이름에는 별다른 의미는 없으며 발음하기가 
 
 ### 보컬
 
-  - [Wakana](https://ko.wikipedia.org/wiki/오타키_와카나 "wikilink") (1번째싱글\~)
-  - [Hikaru](https://ko.wikipedia.org/wiki/마사이_히카루 "wikilink") (2번째싱글\~)
+  - [Wakana](../Page/오타키_와카나.md "wikilink") (1번째싱글\~)
+  - [Hikaru](../Page/마사이_히카루.md "wikilink") (2번째싱글\~)
 
 ### 전멤버
 
-  - 프로듀서 [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink") (1번째싱글\~21번째싱글)
+  - 프로듀서 [카지우라 유키](../Page/카지우라_유키.md "wikilink") (1번째싱글\~21번째싱글)
   - Maya (2번째싱글)
   - [Keiko](https://ko.wikipedia.org/wiki/Keiko "wikilink") (1번째싱글\~21번째싱글)
 
@@ -53,9 +53,9 @@ Kalafina라는 그룹이름에는 별다른 의미는 없으며 발음하기가 
 <!-- end list -->
 
   -
-    극장판 [공의 경계](https://ko.wikipedia.org/wiki/공의_경계 "wikilink") 제1장「부감풍경」엔딩주제가
-    극장판 [공의 경계](https://ko.wikipedia.org/wiki/공의_경계 "wikilink") 제2장「살인고찰(전)」엔딩주제가
-    극장판 [공의 경계](https://ko.wikipedia.org/wiki/공의_경계 "wikilink") 제3장「통각잔류」엔딩주제가
+    극장판 [공의 경계](../Page/공의_경계.md "wikilink") 제1장「부감풍경」엔딩주제가
+    극장판 [공의 경계](../Page/공의_경계.md "wikilink") 제2장「살인고찰(전)」엔딩주제가
+    극장판 [공의 경계](../Page/공의_경계.md "wikilink") 제3장「통각잔류」엔딩주제가
     오리콘 위클리 8위
     등장횟수 24회, 총판매량 38,695장
 
@@ -66,8 +66,8 @@ Kalafina라는 그룹이름에는 별다른 의미는 없으며 발음하기가 
 <!-- end list -->
 
   -
-    극장판 [공의 경계](https://ko.wikipedia.org/wiki/공의_경계 "wikilink") 제5장「모순나선」엔딩주제가
-    극장판 [공의 경계](https://ko.wikipedia.org/wiki/공의_경계 "wikilink") 제4장「가람의 동」엔딩주제가
+    극장판 [공의 경계](../Page/공의_경계.md "wikilink") 제5장「모순나선」엔딩주제가
+    극장판 [공의 경계](../Page/공의_경계.md "wikilink") 제4장「가람의 동」엔딩주제가
     오리콘 위클리 10위
     등장횟수 8회, 총판매량 23,309장
 
@@ -78,7 +78,7 @@ Kalafina라는 그룹이름에는 별다른 의미는 없으며 발음하기가 
 <!-- end list -->
 
   -
-    극장판 [공의 경계](https://ko.wikipedia.org/wiki/공의_경계 "wikilink") 제6장「망각녹음」엔딩주제가
+    극장판 [공의 경계](../Page/공의_경계.md "wikilink") 제6장「망각녹음」엔딩주제가
     오리콘 위클리 9위
     등장횟수 6회, 총판매량 20,252장
 
@@ -89,7 +89,7 @@ Kalafina라는 그룹이름에는 별다른 의미는 없으며 발음하기가 
 <!-- end list -->
 
   -
-    [MBS](https://ko.wikipedia.org/wiki/:ja:毎日放送 "wikilink"), [TBS계열전10국](https://ko.wikipedia.org/wiki/:ja:Japan_News_Network "wikilink") 애니메이션 [흑집사](https://ko.wikipedia.org/wiki/흑집사 "wikilink") 2기 엔딩주제가
+    [MBS](https://ko.wikipedia.org/wiki/:ja:毎日放送 "wikilink"), [TBS계열전10국](https://ko.wikipedia.org/wiki/:ja:Japan_News_Network "wikilink") 애니메이션 [흑집사](../Page/흑집사.md "wikilink") 2기 엔딩주제가
     오리콘 위클리 14위
     등장횟수 7회, 총판매량 17,676장
 
@@ -121,7 +121,7 @@ Kalafina라는 그룹이름에는 별다른 의미는 없으며 발음하기가 
 <!-- end list -->
 
   -
-    [테레비도쿄계](https://ko.wikipedia.org/wiki/:ja:TXN "wikilink") 애니메이션 [소라노오토(하늘의 소리)오프닝](https://ko.wikipedia.org/wiki/소·라·노·오·토 "wikilink") 주제가
+    [테레비도쿄계](https://ko.wikipedia.org/wiki/:ja:TXN "wikilink") 애니메이션 [소라노오토(하늘의 소리)오프닝](../Page/소·라·노·오·토.md "wikilink") 주제가
     오리콘 위클리 7위
     등장횟수 3회, 총판매량 13,842장
 
@@ -249,7 +249,7 @@ Kalafina라는 그룹이름에는 별다른 의미는 없으며 발음하기가 
 <!-- end list -->
 
   -
-    [공의 경계](https://ko.wikipedia.org/wiki/공의_경계 "wikilink") 제7장「살인고찰(후)」엔딩주제가
+    [공의 경계](../Page/공의_경계.md "wikilink") 제7장「살인고찰(후)」엔딩주제가
     오리콘 위클리 8위
     등장횟수 19회, 총판매량 38,087장
 
@@ -714,4 +714,4 @@ Kalafina라는 그룹이름에는 별다른 의미는 없으며 발음하기가 
 4.  <https://lineblog.me/kalafina/archives/67145201.html>
 5.  오리콘 차트 최고 순위 및 차트 등장 횟수, 총판매량 등의 출처는 <http://anisonsinger.blogspot.jp/2013/09/kalafina.html>
 6.  아날로그판(LP)은 9월 30일에 따로발매
-7.  [애니메이트](https://ko.wikipedia.org/wiki/애니메이트 "wikilink")에서만 판매
+7.  [애니메이트](../Page/애니메이트.md "wikilink")에서만 판매

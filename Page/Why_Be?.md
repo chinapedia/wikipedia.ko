@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Why Be\?](https://ko.wikipedia.org/wiki/Why_Be\?).
 
 
-**Why Be?**는 [YB의](../Page/YB_\(밴드\).md "wikilink") 2006년 발매한 정규 음반이다. 밴드의 이전 명칭이던 윤도현밴드에서 YB로 개명한 후 발매한 첫 정규 음반이다. 또한 보컬이자 리더인 [윤도현](../Page/윤도현.md "wikilink")의 2005년 개인 정규 음반 발매 1년 후 발매된 음반이자 밴드의 이전 음반인 [YB Stream의](https://ko.wikipedia.org/wiki/YB_Stream "wikilink") 발매 3년 후 나온 음반이기도 하다. CD 1에 수록된 7번 곡인 '좋아 가는 거야'는 곡의 도입부에 [노홍철](https://ko.wikipedia.org/wiki/노홍철 "wikilink")의 유행어인 '좋아 가는거야\!'가 삽입되어 있는 것이 특징이다.
+**Why Be?**는 [YB의](../Page/YB_\(밴드\).md "wikilink") 2006년 발매한 정규 음반이다. 밴드의 이전 명칭이던 윤도현밴드에서 YB로 개명한 후 발매한 첫 정규 음반이다. 또한 보컬이자 리더인 [윤도현](../Page/윤도현.md "wikilink")의 2005년 개인 정규 음반 발매 1년 후 발매된 음반이자 밴드의 이전 음반인 [YB Stream의](https://ko.wikipedia.org/wiki/YB_Stream "wikilink") 발매 3년 후 나온 음반이기도 하다. CD 1에 수록된 7번 곡인 '좋아 가는 거야'는 곡의 도입부에 [노홍철](../Page/노홍철.md "wikilink")의 유행어인 '좋아 가는거야\!'가 삽입되어 있는 것이 특징이다.
 
 ## 곡 목록
 

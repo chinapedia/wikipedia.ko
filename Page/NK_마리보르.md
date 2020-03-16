@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NK ](https://ko.wikipedia.org/wiki/NK_).
 
 
-**노고메트니 클럽 마리보르** (Nogometni Klub Maribor)는 [슬로베니아](https://ko.wikipedia.org/wiki/슬로베니아 "wikilink")의 [마리보르](https://ko.wikipedia.org/wiki/마리보르 "wikilink")를 연고로 하는 축구 클럽으로, [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink")에 설립되었다.
+**노고메트니 클럽 마리보르** (Nogometni Klub Maribor)는 [슬로베니아](../Page/슬로베니아.md "wikilink")의 [마리보르](../Page/마리보르.md "wikilink")를 연고로 하는 축구 클럽으로, [1960년](../Page/1960년.md "wikilink")에 설립되었다.
 
 홈 경기장은 [류드스키 브르트](../Page/류드스키_브르트.md "wikilink") (Stadion Ljudski Vrt) 이며, [유고슬라비아 1부 리그](../Page/유고슬라비아_1부_리그.md "wikilink") 시절에는 1967-68 시즌부터 1971-72 시즌까지 5시즌 간 1부 리그에 소속되어 있었다.
 

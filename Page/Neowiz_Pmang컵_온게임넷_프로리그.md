@@ -9,12 +9,12 @@
 
 ## 리그기간
 
-  - [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") *(예선전과 포스트시즌은 제외)*
+  - [10월 11일](../Page/10월_11일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") *(예선전과 포스트시즌은 제외)*
 
 ## 예선
 
   - 풀리그로 팀당 6경기, 전체 21경기를 치러서 1위 \~ 4위는 본선에 직행. (3전 2선승제 - 중복출전가능)
-  - [KTF EVER컵 온게임넷 프로리그와](https://ko.wikipedia.org/wiki/KTF_EVER컵_온게임넷_프로리그 "wikilink") 마찬가지로 승부가 나더라도 3세트까지 치러 승점으로 계산.
+  - [KTF EVER컵 온게임넷 프로리그와](../Page/KTF_EVER컵_온게임넷_프로리그.md "wikilink") 마찬가지로 승부가 나더라도 3세트까지 치러 승점으로 계산.
   - 맵: Guillotine, 신 개마고원, Nostalgia , Huntress
 
 <!-- end list -->
@@ -187,7 +187,7 @@
 
 ## 포스트시즌
 
-  - **일정** : 플레이오프 - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink"), 결승전 - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [2월 29일](https://ko.wikipedia.org/wiki/2월_29일 "wikilink")
+  - **일정** : 플레이오프 - [2004년](../Page/2004년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink"), 결승전 - [2004년](../Page/2004년.md "wikilink") [2월 29일](../Page/2월_29일.md "wikilink")
 
 ## 대회 결과
 

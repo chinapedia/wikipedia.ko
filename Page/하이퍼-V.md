@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [-V](https://ko.wikipedia.org/wiki/-V).
 
 
-마이크로소프트 **하이퍼 V**(Hyper-V, 코드이름 Viridian\[1\])는 [x64](https://ko.wikipedia.org/wiki/x64 "wikilink") 시스템을 위한 [하이퍼바이저](../Page/하이퍼바이저.md "wikilink") 기반의 [가상화](../Page/가상화.md "wikilink") 시스템이다.\[2\] **윈도우 서버 가상화**(Windows Server Virtualization)라는 이름으로도 알려져 있다. 하이퍼 V 베타 버전은 [윈도우 서버 2008](../Page/윈도우_서버_2008.md "wikilink") x64 에디션에도 추가되어 있으며 마지막 버전은(윈도우 업데이트를 통해 자동으로 업데이트됨) [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 26일에](https://ko.wikipedia.org/wiki/6월_26일 "wikilink") 공개되었다.
+마이크로소프트 **하이퍼 V**(Hyper-V, 코드이름 Viridian\[1\])는 [x64](https://ko.wikipedia.org/wiki/x64 "wikilink") 시스템을 위한 [하이퍼바이저](../Page/하이퍼바이저.md "wikilink") 기반의 [가상화](../Page/가상화.md "wikilink") 시스템이다.\[2\] **윈도우 서버 가상화**(Windows Server Virtualization)라는 이름으로도 알려져 있다. 하이퍼 V 베타 버전은 [윈도우 서버 2008](../Page/윈도우_서버_2008.md "wikilink") x64 에디션에도 추가되어 있으며 마지막 버전은(윈도우 업데이트를 통해 자동으로 업데이트됨) [2008년](../Page/2008년.md "wikilink") [6월 26일에](../Page/6월_26일.md "wikilink") 공개되었다.
 
-"마이크로소프트 하이퍼-V 서버 2008"이라 불리는 독립형 하이퍼 V 버전은 하이퍼 V 기능을 완전히 다룰 수 있는 [윈도우 서버 2008](../Page/윈도우_서버_2008.md "wikilink") "코어"의 변종으로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 1일에](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 공개되었다. 다른 윈도우 서버 규칙은 비활성화되어 있으며 제한된 윈도우 서비스가 제공된다.\[3\] 그 뒤 [윈도우 서버 2012에서](../Page/윈도우_서버_2012.md "wikilink") 한 번 더 업데이트되었다.\[4\]
+"마이크로소프트 하이퍼-V 서버 2008"이라 불리는 독립형 하이퍼 V 버전은 하이퍼 V 기능을 완전히 다룰 수 있는 [윈도우 서버 2008](../Page/윈도우_서버_2008.md "wikilink") "코어"의 변종으로 [2008년](../Page/2008년.md "wikilink") [10월 1일에](../Page/10월_1일.md "wikilink") 공개되었다. 다른 윈도우 서버 규칙은 비활성화되어 있으며 제한된 윈도우 서비스가 제공된다.\[3\] 그 뒤 [윈도우 서버 2012에서](../Page/윈도우_서버_2012.md "wikilink") 한 번 더 업데이트되었다.\[4\]
 
 ## 버전
 

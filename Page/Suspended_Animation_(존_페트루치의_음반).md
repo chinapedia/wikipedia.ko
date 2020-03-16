@@ -11,10 +11,10 @@
 
 ## 구성원
 
-  - [존 페트루치](../Page/존_페트루치.md "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink") – [기타](../Page/기타.md "wikilink"), [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")
   - 데이브 디캔소(Dave DiCenso) – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink") (3번 트랙 제외)
   - 토니 베르데로사(Tony Verderosa) – 드럼([전자 드럼](https://ko.wikipedia.org/wiki/전자_드럼 "wikilink")) (3번 트랙)
-  - [데이브 라루](https://ko.wikipedia.org/wiki/데이브_라루 "wikilink") – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink") (3번 트랙 제외)
+  - [데이브 라루](https://ko.wikipedia.org/wiki/데이브_라루 "wikilink") – [베이스 기타](../Page/베이스_기타.md "wikilink") (3번 트랙 제외)
   - 팀 르페브르(Tim LeFebvre) – 베이스 기타 (3번 트랙)
 
 [분류:존 페트루치의 음반](https://ko.wikipedia.org/wiki/분류:존_페트루치의_음반 "wikilink") [분류:2005년 음반](https://ko.wikipedia.org/wiki/분류:2005년_음반 "wikilink") [분류:2005년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:2005년_데뷔_음반 "wikilink")

@@ -11,7 +11,7 @@
 
 마이크로소프트는 오피스 XP에 많은 메이저 업데이트와 기능을 추가했다.
 
-  - **안전 모드**: 이 기능은 [마이크로소프트 아웃룩](https://ko.wikipedia.org/wiki/마이크로소프트_아웃룩 "wikilink") 등의 프로그램이 프로그램이 [레지스트리](https://ko.wikipedia.org/wiki/레지스트리 "wikilink") 문제등으로 실행에 실패했을 때 안전모드가 문제를 분석하고 복원하거나 무시하는 작업을 한다.
+  - **안전 모드**: 이 기능은 [마이크로소프트 아웃룩](../Page/마이크로소프트_아웃룩.md "wikilink") 등의 프로그램이 프로그램이 [레지스트리](https://ko.wikipedia.org/wiki/레지스트리 "wikilink") 문제등으로 실행에 실패했을 때 안전모드가 문제를 분석하고 복원하거나 무시하는 작업을 한다.
   - **제품 인증**: 오피스 XP는 소프트웨어 [불법 복제를](https://ko.wikipedia.org/wiki/불법_복제 "wikilink") 막기 위해서 제품 인증 기능을 추가했다. 이는 [윈도우 XP](../Page/윈도우_XP.md "wikilink") 및 후속 버전에도 같이 적용된다.
   - **[음성 인식](https://ko.wikipedia.org/wiki/음성_인식 "wikilink") 과 필기 인식**
   - **클립보드**
@@ -20,10 +20,10 @@
 
 ## 프로그램
 
-  - [마이크로소프트 워드 2002](https://ko.wikipedia.org/wiki/마이크로소프트_워드 "wikilink")
-  - [마이크로소프트 엑셀 2002](https://ko.wikipedia.org/wiki/마이크로소프트_엑셀 "wikilink")
-  - [마이크로소프트 아웃룩 2002](https://ko.wikipedia.org/wiki/마이크로소프트_아웃룩 "wikilink")
-  - [마이크로소프트 파워포인트 2002](https://ko.wikipedia.org/wiki/마이크로소프트_파워포인트 "wikilink")
+  - [마이크로소프트 워드 2002](../Page/마이크로소프트_워드.md "wikilink")
+  - [마이크로소프트 엑셀 2002](../Page/마이크로소프트_엑셀.md "wikilink")
+  - [마이크로소프트 아웃룩 2002](../Page/마이크로소프트_아웃룩.md "wikilink")
+  - [마이크로소프트 파워포인트 2002](../Page/마이크로소프트_파워포인트.md "wikilink")
   - [마이크로소프트 퍼블리셔 2002](../Page/마이크로소프트_퍼블리셔.md "wikilink")
   - [마이크로소프트 액세스 2002](https://ko.wikipedia.org/wiki/마이크로소프트_액세스 "wikilink")
   - [마이크로소프트 프론트페이지 2002](../Page/마이크로소프트_프론트페이지.md "wikilink")
@@ -34,7 +34,7 @@
 
 ### 리테일 제품군
 
-  - 오피스 XP 스탠다드 에디션 ([워드](https://ko.wikipedia.org/wiki/마이크로소프트_워드 "wikilink"), [엑셀](https://ko.wikipedia.org/wiki/마이크로소프트_엑셀 "wikilink"), [아웃룩](https://ko.wikipedia.org/wiki/아웃룩 "wikilink"), [파워포인트](https://ko.wikipedia.org/wiki/마이크로소프트_파워포인트 "wikilink"))
+  - 오피스 XP 스탠다드 에디션 ([워드](../Page/마이크로소프트_워드.md "wikilink"), [엑셀](../Page/마이크로소프트_엑셀.md "wikilink"), [아웃룩](https://ko.wikipedia.org/wiki/아웃룩 "wikilink"), [파워포인트](../Page/마이크로소프트_파워포인트.md "wikilink"))
   - 학생용 오피스 XP 스탠다드 에디션 (스탠다드 에디션+특별 라이선스 규칙)
   - 오피스 XP 프로페셔널 에디션 (스탠다드 에디션 + [액세스](https://ko.wikipedia.org/wiki/마이크로소프트_액세스 "wikilink"))
   - 오피스 XP 개발자 에디션 (프로페셔널 에디션 + [프론트페이지와](../Page/마이크로소프트_프론트페이지.md "wikilink") 개발 도구)
@@ -42,32 +42,32 @@
 
 ### OEM 에디션
 
-  - 오피스 XP 스몰 비지니스 에디션 ([워드](https://ko.wikipedia.org/wiki/마이크로소프트_워드 "wikilink"), [엑셀](https://ko.wikipedia.org/wiki/마이크로소프트_엑셀 "wikilink"), [퍼블리셔](../Page/마이크로소프트_퍼블리셔.md "wikilink"), [아웃룩](https://ko.wikipedia.org/wiki/아웃룩 "wikilink"))
+  - 오피스 XP 스몰 비지니스 에디션 ([워드](../Page/마이크로소프트_워드.md "wikilink"), [엑셀](../Page/마이크로소프트_엑셀.md "wikilink"), [퍼블리셔](../Page/마이크로소프트_퍼블리셔.md "wikilink"), [아웃룩](https://ko.wikipedia.org/wiki/아웃룩 "wikilink"))
   - [퍼블리셔](../Page/마이크로소프트_퍼블리셔.md "wikilink") 포함 오피스 XP 프로페셔널 에디션 (프로페셔널 에디션 + [퍼블리셔](../Page/마이크로소프트_퍼블리셔.md "wikilink"))
 
 ### 볼륨 라이선스 제품
 
-  - 오피스 XP 스탠다드 에디션 ([워드](https://ko.wikipedia.org/wiki/마이크로소프트_워드 "wikilink"), [엑셀](https://ko.wikipedia.org/wiki/마이크로소프트_엑셀 "wikilink"), [아웃룩](https://ko.wikipedia.org/wiki/아웃룩 "wikilink"), [파워포인트](https://ko.wikipedia.org/wiki/마이크로소프트_파워포인트 "wikilink"))
+  - 오피스 XP 스탠다드 에디션 ([워드](../Page/마이크로소프트_워드.md "wikilink"), [엑셀](../Page/마이크로소프트_엑셀.md "wikilink"), [아웃룩](https://ko.wikipedia.org/wiki/아웃룩 "wikilink"), [파워포인트](../Page/마이크로소프트_파워포인트.md "wikilink"))
   - 오피스 XP 프로페셔널 (스탠다드 에디션 + [액세스](https://ko.wikipedia.org/wiki/마이크로소프트_액세스 "wikilink"))
   - [프론트페이지](../Page/마이크로소프트_프론트페이지.md "wikilink") 포함 오피스 XP 프로페셔널 (프로페셔널 에디션 + [프론트페이지](../Page/마이크로소프트_프론트페이지.md "wikilink"))
 
 ### 표
 
-| 오피스 프로그램                                                             | 스탠다드                                                                | 스몰 비지니스                                                             | 프로페셔널                                                               | 프로페셔널 스페셜                                                           | 개발자                                                                 |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [워드](https://ko.wikipedia.org/wiki/마이크로소프트_워드 "wikilink") 2002       | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
-| [엑셀](https://ko.wikipedia.org/wiki/마이크로소프트_엑셀 "wikilink") 2002       | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
-| [아웃룩](https://ko.wikipedia.org/wiki/마이크로소프트_아웃룩 "wikilink") 2002     | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
-| [파워포인트](https://ko.wikipedia.org/wiki/마이크로소프트_파워포인트 "wikilink") 2002 | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
-| [액세스](https://ko.wikipedia.org/wiki/마이크로소프트_액세스 "wikilink") 2002     | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
-| [퍼블리셔](../Page/마이크로소프트_퍼블리셔.md "wikilink") 2002                      | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    |
-| [프론트페이지](../Page/마이크로소프트_프론트페이지.md "wikilink") 2002                  | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
-| 개발자 도구                                                               | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
-|                                                                      |                                                                     |                                                                     |                                                                     |                                                                     |                                                                     |
+| 오피스 프로그램                                                         | 스탠다드                                                                | 스몰 비지니스                                                             | 프로페셔널                                                               | 프로페셔널 스페셜                                                           | 개발자                                                                 |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [워드](../Page/마이크로소프트_워드.md "wikilink") 2002                      | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
+| [엑셀](../Page/마이크로소프트_엑셀.md "wikilink") 2002                      | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
+| [아웃룩](../Page/마이크로소프트_아웃룩.md "wikilink") 2002                    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
+| [파워포인트](../Page/마이크로소프트_파워포인트.md "wikilink") 2002                | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
+| [액세스](https://ko.wikipedia.org/wiki/마이크로소프트_액세스 "wikilink") 2002 | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
+| [퍼블리셔](../Page/마이크로소프트_퍼블리셔.md "wikilink") 2002                  | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    |
+| [프론트페이지](../Page/마이크로소프트_프론트페이지.md "wikilink") 2002              | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
+| 개발자 도구                                                           | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:X_mark.svg "wikilink")    | [center](https://ko.wikipedia.org/wiki/파일:Yes_check.svg "wikilink") |
+|                                                                  |                                                                     |                                                                     |                                                                     |                                                                     |                                                                     |
 
 ## 같이 보기
 
-  - [마이크로소프트 오피스](https://ko.wikipedia.org/wiki/마이크로소프트_오피스 "wikilink")
+  - [마이크로소프트 오피스](../Page/마이크로소프트_오피스.md "wikilink")
   - [윈도우 XP](../Page/윈도우_XP.md "wikilink")
 
 ## 각주

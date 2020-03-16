@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Revolution \( \)](https://ko.wikipedia.org/wiki/Revolution_\(_\)).
 
 
-《**Revolution**》은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink") 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 두 번째 정규 음반이다.
+《**Revolution**》은 [2009년](../Page/2009년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 두 번째 정규 음반이다.
 
 ## 배경
 
@@ -23,26 +23,26 @@
       - 배우 [윤소이](../Page/윤소이.md "wikilink")\[5\]
       - [밥 샙](https://ko.wikipedia.org/wiki/밥_샙 "wikilink")\[6\]
       - 가수 [마야](../Page/마야_\(가수\).md "wikilink")\[7\]
-      - [양정아](../Page/양정아.md "wikilink"), [송은이](../Page/송은이.md "wikilink"), [신봉선](../Page/신봉선.md "wikilink"), [현영](https://ko.wikipedia.org/wiki/현영 "wikilink"), [박소현](../Page/박소현_\(배우\).md "wikilink"), [최정윤](../Page/최정윤.md "wikilink")\[8\]
+      - [양정아](../Page/양정아.md "wikilink"), [송은이](../Page/송은이.md "wikilink"), [신봉선](../Page/신봉선.md "wikilink"), [현영](../Page/현영.md "wikilink"), [박소현](../Page/박소현_\(배우\).md "wikilink"), [최정윤](../Page/최정윤.md "wikilink")\[8\]
       - [최현정](../Page/최현정_\(방송인\).md "wikilink")\[9\]
       - 가수 [G드래곤](https://ko.wikipedia.org/wiki/G드래곤 "wikilink")\[10\]
-      - 가수 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")\[11\]
-      - 가수 [문희준](https://ko.wikipedia.org/wiki/문희준 "wikilink"), [안재모](../Page/안재모.md "wikilink")\[12\]
+      - 가수 [이효리](../Page/이효리.md "wikilink")\[11\]
+      - 가수 [문희준](../Page/문희준.md "wikilink"), [안재모](../Page/안재모.md "wikilink")\[12\]
       - 배우 [김민정](https://ko.wikipedia.org/wiki/김민정_\(배우\) "wikilink")\[13\]
-      - 드라마 [천하무적 이평강](https://ko.wikipedia.org/wiki/천하무적_이평강 "wikilink")\[14\]
+      - 드라마 [천하무적 이평강](../Page/천하무적_이평강.md "wikilink")\[14\]
       - 아역 [차재돌](https://ko.wikipedia.org/wiki/차재돌 "wikilink")\[15\]
       - 가수 [이승기](../Page/이승기.md "wikilink")\[16\]
       - [재범](https://ko.wikipedia.org/wiki/재범 "wikilink")\[17\]
       - [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 멤버 [우영](../Page/우영.md "wikilink"), [닉쿤](../Page/닉쿤.md "wikilink")\[18\]
-      - [비스트의](https://ko.wikipedia.org/wiki/비스트_\(음악_그룹\) "wikilink") 멤버 [이기광](https://ko.wikipedia.org/wiki/이기광 "wikilink"), [양요섭](../Page/양요섭.md "wikilink")\[19\]
+      - [비스트의](../Page/비스트_\(음악_그룹\).md "wikilink") 멤버 [이기광](https://ko.wikipedia.org/wiki/이기광 "wikilink"), [양요섭](../Page/양요섭.md "wikilink")\[19\]
 
   - 2번째 트랙은 〈**Wanna**〉로 타이틀곡이다. '그대를 사랑해 My Love' 이라는 가사의 반복이 많다.
 
-  - 8번째 트랙 〈[똑같은 맘](https://ko.wikipedia.org/wiki/똑같은_맘 "wikilink")〉은 먼저 디지털 싱글로 발매되었다.
+  - 8번째 트랙 〈[똑같은 맘](../Page/똑같은_맘.md "wikilink")〉은 먼저 디지털 싱글로 발매되었다.
 
-  - 한정판으로 발매되기도 하였는데, 한정판과 일반판은 전혀 사진이 다르며 DVD가 포함되어 있다. DVD의 내용은 [일본](../Page/일본.md "wikilink") [오키나와](https://ko.wikipedia.org/wiki/오키나와현 "wikilink") 화보 촬영 현장이다.
+  - 한정판으로 발매되기도 하였는데, 한정판과 일반판은 전혀 사진이 다르며 DVD가 포함되어 있다. DVD의 내용은 [일본](../Page/일본.md "wikilink") [오키나와](../Page/오키나와현.md "wikilink") 화보 촬영 현장이다.
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 19일](https://ko.wikipedia.org/wiki/1월_19일 "wikilink") 에서 정규 2집《**Revolution**》이 라이센스로 발매되었다. 2집앨범 10곡과 미니 2집 《**Pretty Girl**》5곡 1CD에 수록된 곡은 15트랙이다.
+  - [2010년](../Page/2010년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") 에서 정규 2집《**Revolution**》이 라이센스로 발매되었다. 2집앨범 10곡과 미니 2집 《**Pretty Girl**》5곡 1CD에 수록된 곡은 15트랙이다.
 
 ## 트랙 리스트
 

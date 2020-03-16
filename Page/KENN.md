@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KENN](https://ko.wikipedia.org/wiki/KENN).
 
 
-**KENN**([1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink")\~ )는 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") 및 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") 출신으로 [드림 위버](https://ko.wikipedia.org/wiki/드림_위버 "wikilink") 소속, [the NaB's의](https://ko.wikipedia.org/wiki/the_NaB's "wikilink") 키보드 겸 보컬이다. 본명은 **오오하시 켄이치로**()
+**KENN**([1982년](../Page/1982년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink")\~ )는 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [성우](../Page/성우.md "wikilink") 및 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [도쿄도](../Page/도쿄도.md "wikilink") 출신으로 [드림 위버](https://ko.wikipedia.org/wiki/드림_위버 "wikilink") 소속, [the NaB's의](https://ko.wikipedia.org/wiki/the_NaB's "wikilink") 키보드 겸 보컬이다. 본명은 **오오하시 켄이치로**()
 
 ## TV 애니메이션
 

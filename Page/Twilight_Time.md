@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Twilight Time](https://ko.wikipedia.org/wiki/Twilight_Time).
 
 
-**Twilight Time**은 [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink") [파워메탈](https://ko.wikipedia.org/wiki/파워메탈 "wikilink") 밴드 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 정규 2집 앨범이다. 파란조명 사진이 들어간 다른 종류의 커버가 들어간 앨범도 있다.
+**Twilight Time**은 [핀란드](../Page/핀란드.md "wikilink") [파워메탈](https://ko.wikipedia.org/wiki/파워메탈 "wikilink") 밴드 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 정규 2집 앨범이다. 파란조명 사진이 들어간 다른 종류의 커버가 들어간 앨범도 있다.
 
 ## 역사
 
-베이시스트 [유루키 렌톤이](https://ko.wikipedia.org/wiki/유루키_렌톤 "wikilink") 밴드를 탈퇴 한 후 새로이 [야리 벰이](https://ko.wikipedia.org/wiki/야리_벰 "wikilink") 가입하지만 그도 얼마 후 탈퇴해버린다. 이때 밴드는 "Stratovarius II"의 녹음을 준비중이였는데, 야리가 너무 빨리 탈퇴하는 바람에 부클릿에는 그의 이름과 얼굴이 올라가있지만 실제로 [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink") 파트는 [톨키가](https://ko.wikipedia.org/wiki/티모_톨키 "wikilink") 모두 녹음했다. 밴드는 후에 Shark Record사와 계약을 체결하고, "Stratovarius II"는 새로운 앨범커버와 새로운 이름 "Twilight Time"을 달고 1992년 발매되었다.
+베이시스트 [유루키 렌톤이](https://ko.wikipedia.org/wiki/유루키_렌톤 "wikilink") 밴드를 탈퇴 한 후 새로이 [야리 벰이](https://ko.wikipedia.org/wiki/야리_벰 "wikilink") 가입하지만 그도 얼마 후 탈퇴해버린다. 이때 밴드는 "Stratovarius II"의 녹음을 준비중이였는데, 야리가 너무 빨리 탈퇴하는 바람에 부클릿에는 그의 이름과 얼굴이 올라가있지만 실제로 [베이스](../Page/베이스_기타.md "wikilink") 파트는 [톨키가](../Page/티모_톨키.md "wikilink") 모두 녹음했다. 밴드는 후에 Shark Record사와 계약을 체결하고, "Stratovarius II"는 새로운 앨범커버와 새로운 이름 "Twilight Time"을 달고 1992년 발매되었다.
 
 ## 일본 시장에서의 성과
 
@@ -15,8 +15,8 @@
 
 ## 구성원
 
-  - [티모 톨키](https://ko.wikipedia.org/wiki/티모_톨키 "wikilink") - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
-  - [야리 벰](https://ko.wikipedia.org/wiki/야리_벰 "wikilink") - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [티모 톨키](../Page/티모_톨키.md "wikilink") - [기타](../Page/기타.md "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [베이스](../Page/베이스_기타.md "wikilink")
+  - [야리 벰](https://ko.wikipedia.org/wiki/야리_벰 "wikilink") - [베이스](../Page/베이스_기타.md "wikilink")
   - [안티 이코넨](https://ko.wikipedia.org/wiki/안티_이코넨 "wikilink") - [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
   - [투오모 라실라](https://ko.wikipedia.org/wiki/투오모_라실라 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), [퍼커션](https://ko.wikipedia.org/wiki/퍼커션 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Forte Escape](https://ko.wikipedia.org/wiki/Forte_Escape).
 
 
-**Forte Escape**(본명 **이철희**)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 게임음악 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")이다.
+**Forte Escape**(본명 **이철희**)는 [대한민국](../Page/대한민국.md "wikilink")의 게임음악 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")이다.
 
 ## 경력
 

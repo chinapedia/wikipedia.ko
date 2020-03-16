@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Peace B. REMIXES](https://ko.wikipedia.org/wiki/Peace_B._REMIXES).
 
 
-《**Peace B. REMIXES**》는 대한민국 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 첫 번째 리믹스 앨범이다. 전곡 리믹스 되어 수록 되었고, 자켓과 속지는 연두, 파랑색 계열을 사용해 강렬한 느낌을 주었다. 속지에 가사가 적혀 있지 않다.
+《**Peace B. REMIXES**》는 대한민국 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 첫 번째 리믹스 앨범이다. 전곡 리믹스 되어 수록 되었고, 자켓과 속지는 연두, 파랑색 계열을 사용해 강렬한 느낌을 주었다. 속지에 가사가 적혀 있지 않다.
 
 ## 수록곡
 

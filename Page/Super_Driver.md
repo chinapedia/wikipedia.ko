@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Super Driver](https://ko.wikipedia.org/wiki/Super_Driver).
 
 
-《**Super Driver**》는 [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") 겸 가수 [히라노 아야의](../Page/히라노_아야.md "wikilink") 9번째 싱글이다. [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")에서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink") 출시되었다.
+《**Super Driver**》는 [성우](../Page/성우.md "wikilink") 겸 가수 [히라노 아야의](../Page/히라노_아야.md "wikilink") 9번째 싱글이다. [란티스](../Page/란티스.md "wikilink")에서 [2009년](../Page/2009년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink") 출시되었다.
 
 ## 개요
 
@@ -18,7 +18,7 @@
 ## 타이업
 
   - TV애니메이션 《[스즈미야 하루히의 우울](../Page/스즈미야_하루히의_우울_\(애니메이션\).md "wikilink")》 신(新) 오프닝 테마
-  - 음악 정보 프로그램 《[Run Run LAN\!](https://ko.wikipedia.org/wiki/Run_Run_LAN! "wikilink")》 7월 오프닝 테마
+  - 음악 정보 프로그램 《[Run Run LAN\!](../Page/Run_Run_LAN!.md "wikilink")》 7월 오프닝 테마
 
 ## 각주
 

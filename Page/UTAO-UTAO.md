@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UTAO-UTAO](https://ko.wikipedia.org/wiki/UTAO-UTAO).
 
 
-**UTAO-UTAO**은, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") 발매한 V6의 27번째의 싱글이다.
+**UTAO-UTAO**은, [2005년](../Page/2005년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") 발매한 V6의 27번째의 싱글이다.
 
 ## 설명
 
@@ -22,13 +22,13 @@
 
 1.  UTAO-UTAO
       - 작사:오카치마치 카이토, 작곡:HIKARI, 편곡：시라이시 사토리
-      - [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 멤버 [오카다 준이치](https://ko.wikipedia.org/wiki/오카다_준이치 "wikilink") 출연 드라마 《타이거&드래곤》 주제곡
+      - [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 멤버 [오카다 준이치](../Page/오카다_준이치.md "wikilink") 출연 드라마 《타이거&드래곤》 주제곡
 2.  BREAKTHROUGH / [Coming Century](https://ko.wikipedia.org/wiki/Coming_Century "wikilink")
       - 작사:무츠미 스미오, 작곡:모리모토 코우스케, 편곡：DREAMFIELD
       - [TV-TOKYO](https://ko.wikipedia.org/wiki/TV-TOKYO "wikilink") 애니메이션 《[아이실드 21](../Page/아이실드_21.md "wikilink")》 1대 오프닝 테마곡 (1회\~35회)
 3.  晴れ過ぎた空
       - 작사/작곡/편곡:시미즈 아키오
-      - [후지TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 《VivaVivaV6 도쿄V슈란 2》주제곡
+      - [후지TV](../Page/후지_TV.md "wikilink") 《VivaVivaV6 도쿄V슈란 2》주제곡
 4.  Drivin＇ ***통상반에만 수록***
       - 작사 :MIZUE 작곡:모리모토 코우스케, 편곡：COLDFEET
       - [NTV](../Page/닛폰_TV_방송망.md "wikilink") 멤버 [나가노 히로시](../Page/나가노_히로시.md "wikilink") MC 버라이어티 프로그램 [MOBI](https://ko.wikipedia.org/wiki/MOBI "wikilink") 주제곡

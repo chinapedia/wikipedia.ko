@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WASP-18](https://ko.wikipedia.org/wiki/WASP-18).
 
 
-**WASP-18**은 [봉황자리](https://ko.wikipedia.org/wiki/봉황자리 "wikilink") 방향으로 지구로부터 약 325광년 떨어진 곳에 있는, [겉보기 등급](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 9의 항성이다.\[1\]
+**WASP-18**은 [봉황자리](../Page/봉황자리.md "wikilink") 방향으로 지구로부터 약 325광년 떨어진 곳에 있는, [겉보기 등급](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 9의 항성이다.\[1\]
 
 ## 행성계
 

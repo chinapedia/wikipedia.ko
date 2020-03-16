@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SDN48](https://ko.wikipedia.org/wiki/SDN48).
 
 
-**SDN48**(에스디엔포티에이트)는 [아키모토 야스시](../Page/아키모토_야스시.md "wikilink") 프로듀스에 의해 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 탄생한 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). 평상시는 [AKB48](../Page/AKB48.md "wikilink")가 공연을 실시하고 있는 [아키하바라](https://ko.wikipedia.org/wiki/아키하바라 "wikilink")의 [AKB48 극장에서](../Page/AKB48_극장.md "wikilink") 매주 토요일 22시부터 공연을 실시한다. 그룹명의 유래는 공연이 토요일 밤이기 때문에 **S**atur**D**ay **N**ight의 약칭으로부터 유래되었다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 31일로서](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 전원 졸업해, 그룹으로서의 활동을 사실상 종료했다.
+**SDN48**(에스디엔포티에이트)는 [아키모토 야스시](../Page/아키모토_야스시.md "wikilink") 프로듀스에 의해 [2009년](../Page/2009년.md "wikilink")에 탄생한 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). 평상시는 [AKB48](../Page/AKB48.md "wikilink")가 공연을 실시하고 있는 [아키하바라](../Page/아키하바라.md "wikilink")의 [AKB48 극장에서](../Page/AKB48_극장.md "wikilink") 매주 토요일 22시부터 공연을 실시한다. 그룹명의 유래는 공연이 토요일 밤이기 때문에 **S**atur**D**ay **N**ight의 약칭으로부터 유래되었다. [2012년](../Page/2012년.md "wikilink") [3월 31일로서](../Page/3월_31일.md "wikilink") 전원 졸업해, 그룹으로서의 활동을 사실상 종료했다.
 
 ## 개요
 
@@ -382,7 +382,7 @@
 <td><p>-</p></td>
 <td></td>
 <td><p>에스아이 엔터테인먼트</p></td>
-<td><p>자매 그룹 유일한 <a href="https://ko.wikipedia.org/wiki/한국인" title="wikilink">한국인</a></p></td>
+<td><p>자매 그룹 유일한 <a href="../Page/한국인.md" title="wikilink">한국인</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/토지마_하나" title="wikilink">토지마 하나</a></p></td>
@@ -633,35 +633,35 @@
 <td><p>1</p></td>
 <td><p><a href="../Page/GAGAGA.md" title="wikilink">GAGAGA</a></p></td>
 <td><p>가가가</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/11월_24일" title="wikilink">11월 24일</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/11월_24일.md" title="wikilink">11월 24일</a></p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td></td>
 <td><p>사랑, 주세요</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/4월_6일" title="wikilink">4월 6일</a>[6]</p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/4월_6일.md" title="wikilink">4월 6일</a>[6]</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MIN・MIN・MIN" title="wikilink">MIN・MIN・MIN</a></p></td>
 <td><p>민・민・민</p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/8월_17일" title="wikilink">8월 17일</a></p></td>
+<td><p>2011년 <a href="../Page/8월_17일.md" title="wikilink">8월 17일</a></p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td></td>
 <td><p>설득하면서 아자부쥬반 duet with 미노 몬타</p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/12월_28일" title="wikilink">12월 28일</a></p></td>
+<td><p>2011년 <a href="../Page/12월_28일.md" title="wikilink">12월 28일</a></p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td></td>
 <td><p>억지스러운 콩그레츄레이션</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/3월_7일" title="wikilink">3월 7일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/3월_7일.md" title="wikilink">3월 7일</a></p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
@@ -678,10 +678,10 @@
 
 #### 베스트 앨범
 
-| 순서 | 타이틀                                              | 의미          | 발매일                                                                                                               | 최고순위 |
-| -- | ------------------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------- | ---- |
-| 1  | [NEXT ENCORE](../Page/NEXT_ENCORE.md "wikilink") | NEXT ENCORE | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") | 1    |
-|    |                                                  |             |                                                                                                                   |      |
+| 순서 | 타이틀                                              | 의미          | 발매일                                                                         | 최고순위 |
+| -- | ------------------------------------------------ | ----------- | --------------------------------------------------------------------------- | ---- |
+| 1  | [NEXT ENCORE](../Page/NEXT_ENCORE.md "wikilink") | NEXT ENCORE | [2012년](../Page/2012년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink") | 1    |
+|    |                                                  |             |                                                                             |      |
 
 #### 극장 공연
 
@@ -699,7 +699,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>유혹의 카터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/3월_28일" title="wikilink">3월 28일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/3월_28일.md" title="wikilink">3월 28일</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -714,12 +714,12 @@
 
 #### SDN48+10\!
 
-| 순서 | 타이틀                 | 의미                  | 발매일                                                                                                             |
-| -- | ------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 1  | SDN48+10\! Volume.1 | SDN48+10\! Volume.1 | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 2일](https://ko.wikipedia.org/wiki/6월_2일 "wikilink") |
-| 2  | SDN48+10\! Volume.1 | SDN48+10\! Volume.2 | 2011년 [7월 2일](https://ko.wikipedia.org/wiki/7월_2일 "wikilink")                                                   |
-| 3  | SDN48+10\! Volume.1 | SDN48+10\! Volume.3 | 2011년 [8월 2일](https://ko.wikipedia.org/wiki/8월_2일 "wikilink")                                                   |
-|    |                     |                     |                                                                                                                 |
+| 순서 | 타이틀                 | 의미                  | 발매일                                                                       |
+| -- | ------------------- | ------------------- | ------------------------------------------------------------------------- |
+| 1  | SDN48+10\! Volume.1 | SDN48+10\! Volume.1 | [2011년](../Page/2011년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink") |
+| 2  | SDN48+10\! Volume.1 | SDN48+10\! Volume.2 | 2011년 [7월 2일](../Page/7월_2일.md "wikilink")                                |
+| 3  | SDN48+10\! Volume.1 | SDN48+10\! Volume.3 | 2011년 [8월 2일](../Page/8월_2일.md "wikilink")                                |
+|    |                     |                     |                                                                           |
 
 #### SDN 스타일
 
@@ -737,49 +737,49 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>SDN 스타일 Vol.1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/7월_16일" title="wikilink">7월 16일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/7월_16일.md" title="wikilink">7월 16일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td></td>
 <td><p>SDN 스타일 Vol.2</p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/8월_31일" title="wikilink">8월 31일</a></p></td>
+<td><p>2011년 <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td></td>
 <td><p>SDN 스타일 Vol.3</p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/10월_22일" title="wikilink">10월 22일</a></p></td>
+<td><p>2011년 <a href="../Page/10월_22일.md" title="wikilink">10월 22일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td></td>
 <td><p>SDN 스타일 Vol.4</p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/11월_19일" title="wikilink">11월 19일</a></p></td>
+<td><p>2011년 <a href="../Page/11월_19일.md" title="wikilink">11월 19일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td></td>
 <td><p>SDN 스타일 Vol.5</p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/12월_3일" title="wikilink">12월 3일</a></p></td>
+<td><p>2011년 <a href="../Page/12월_3일.md" title="wikilink">12월 3일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td></td>
 <td><p>SDN 스타일 Vol.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/1월_7일" title="wikilink">1월 7일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/1월_7일.md" title="wikilink">1월 7일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td></td>
 <td><p>SDN 스타일 컴플리트판</p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/2월_21일" title="wikilink">2월 21일</a></p></td>
+<td><p>2012년 <a href="../Page/2월_21일.md" title="wikilink">2월 21일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td></td>
 <td><p>SDN 스타일 특별판</p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/2월_28일" title="wikilink">2월 28일</a></p></td>
+<td><p>2012년 <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -806,7 +806,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>유혹의 카터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/3월_28일" title="wikilink">3월 28일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/3월_28일.md" title="wikilink">3월 28일</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -819,10 +819,10 @@
 
 #### 콘서트
 
-| 순서 | 타이틀               | 의미                | 발매일                                                                                                               |
-| -- | ----------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1  | SDN48 NEXT ENCORE | SDN48 NEXT ENCORE | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 16일](https://ko.wikipedia.org/wiki/6월_16일 "wikilink") |
-|    |                   |                   |                                                                                                                   |
+| 순서 | 타이틀               | 의미                | 발매일                                                                         |
+| -- | ----------------- | ----------------- | --------------------------------------------------------------------------- |
+| 1  | SDN48 NEXT ENCORE | SDN48 NEXT ENCORE | [2012년](../Page/2012년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink") |
+|    |                   |                   |                                                                             |
 
 ## 공연
 

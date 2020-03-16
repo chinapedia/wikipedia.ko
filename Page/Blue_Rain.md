@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Blue Rain](https://ko.wikipedia.org/wiki/Blue_Rain).
 
 
-《**Fine Killing Liberty : BLUE RAIN**》은 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [5월 26일의](https://ko.wikipedia.org/wiki/5월_26일 "wikilink") 발매된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink")의 데뷔 음반이자 첫 번째 [앨범이다](../Page/음반.md "wikilink"). 총 11곡의 트랙으로 구성되어 있고, 전체 러닝타임은 42분 10초다.
+《**Fine Killing Liberty : BLUE RAIN**》은 [1998년](../Page/1998년.md "wikilink") [5월 26일의](../Page/5월_26일.md "wikilink") 발매된 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](../Page/핑클.md "wikilink")의 데뷔 음반이자 첫 번째 [앨범이다](../Page/음반.md "wikilink"). 총 11곡의 트랙으로 구성되어 있고, 전체 러닝타임은 42분 10초다.
 
 ## 설명
 
-  - 음반 발매일은 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [5월 26일이다](https://ko.wikipedia.org/wiki/5월_26일 "wikilink")
+  - 음반 발매일은 [1998년](../Page/1998년.md "wikilink") [5월 26일이다](../Page/5월_26일.md "wikilink")
   - 본래 핑클은 3명으로 기획 되어 있었지만, 이효리의 영입으로 모든 곡의 파트를 수정하고 다시 녹음을 진행하였다.
   - 당시 같은 소속사의 선배 그룹인 ‘[젝스키스](../Page/젝스키스.md "wikilink")’의 [은지원](../Page/은지원.md "wikilink")이 랩으로 참여하였다.
   - 마지막 수록곡인 ‘블루데이’는 이효리, 옥주현만 노래한 곡이다.

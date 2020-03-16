@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Enlightened](https://ko.wikipedia.org/wiki/Enlightened).
 
 
-***Enlightened***는 [다이나믹 듀오가](https://ko.wikipedia.org/wiki/다이나믹_듀오 "wikilink") 2007년에 발매한 정규 3집 앨범이다. [CD로](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 출시되었다.
+***Enlightened***는 [다이나믹 듀오가](../Page/다이나믹_듀오.md "wikilink") 2007년에 발매한 정규 3집 앨범이다. [CD로](../Page/콤팩트_디스크.md "wikilink") 출시되었다.
 
 ## 수록곡
 
@@ -9,10 +9,10 @@
 2.  해적 (Feat. [YDG](https://ko.wikipedia.org/wiki/YDG "wikilink"))
 3.  Dream (Feat. [바다](https://ko.wikipedia.org/wiki/바다_\(가수\) "wikilink"))
 4.  그래서 난 미쳤다 (Feat. 박정은, Dave Lopez for Flipsyde)
-5.  지구본 뮤직 (Feat. [Kero one](https://ko.wikipedia.org/wiki/케로_원 "wikilink"))
+5.  지구본 뮤직 (Feat. [Kero one](../Page/케로_원.md "wikilink"))
 6.  동전 한 닢
 7.  절망하지 맙시다 (Interlude)
-8.  절망하지 맙시다 (Feat. 아롬 for [Bubble Sisters](https://ko.wikipedia.org/wiki/버블시스터즈 "wikilink"))
+8.  절망하지 맙시다 (Feat. 아롬 for [Bubble Sisters](../Page/버블시스터즈.md "wikilink"))
 9.  **출첵 (Feat. [나얼](../Page/나얼.md "wikilink") of [Brown Eyed Soul](https://ko.wikipedia.org/wiki/Brown_Eyed_Soul "wikilink"))**<sup>**TITLE**</sup>
 10. 살인자의 몽타주
 11. 독재자 (Feat. Sixpoint)
@@ -24,7 +24,7 @@
 
 ## 특징
 
-  - 이 음반은 다이나믹 듀오가 갑 엔터테인먼트에서 나와 독자 회사인 [아메바컬쳐](https://ko.wikipedia.org/wiki/아메바컬쳐 "wikilink")를 설립한 후 나온 첫 음반이다.
+  - 이 음반은 다이나믹 듀오가 갑 엔터테인먼트에서 나와 독자 회사인 [아메바컬쳐](../Page/아메바컬쳐.md "wikilink")를 설립한 후 나온 첫 음반이다.
   - 6번 트랙 〈동전 한 닢〉은 가수 이재성의 〈기타하나 동전한닢〉을 샘플링한 곡으로 31명의 래퍼가 참여한 〈[동전 한 닢 Remix](https://ko.wikipedia.org/wiki/동전_한_닢_Remix "wikilink")〉로 리믹스되었다.
 
 ## 리패키지

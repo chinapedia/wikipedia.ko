@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Resistance](https://ko.wikipedia.org/wiki/The_Resistance).
 
 
-《**The Resistance**》는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [뮤즈의](https://ko.wikipedia.org/wiki/뮤즈_\(밴드\) "wikilink") 다섯 번째 정규 음반이다\[1\]. 2009년 9월 14일에 출시됐으며, 뮤즈가 프로듀스하고 마크 스텐트가 믹싱에 참가했다\[2\]. 이 음반의 첫 싱글인 〈Uprising〉은 2009년 9월 7일에 발매됐다.
+《**The Resistance**》는 [영국](../Page/영국.md "wikilink")의 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [뮤즈의](../Page/뮤즈_\(밴드\).md "wikilink") 다섯 번째 정규 음반이다\[1\]. 2009년 9월 14일에 출시됐으며, 뮤즈가 프로듀스하고 마크 스텐트가 믹싱에 참가했다\[2\]. 이 음반의 첫 싱글인 〈Uprising〉은 2009년 9월 7일에 발매됐다.
 
 ## 평가
 
@@ -27,9 +27,9 @@
 
 <!-- end list -->
 
-  - [매튜 벨라미](https://ko.wikipedia.org/wiki/매튜_벨라미 "wikilink"): 노래, [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink"), [신시사이저](../Page/신시사이저.md "wikilink"), 프로덕션\[4\]
+  - [매튜 벨라미](https://ko.wikipedia.org/wiki/매튜_벨라미 "wikilink"): 노래, [기타](../Page/기타.md "wikilink"), [피아노](../Page/피아노.md "wikilink"), [신시사이저](../Page/신시사이저.md "wikilink"), 프로덕션\[4\]
   - 도미닉 하워드: [드럼셋](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), 드럼 머신, [타악기](https://ko.wikipedia.org/wiki/타악기 "wikilink"), 프로덕션\[5\]
-  - 크리스 월스텐홈: [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 코러스, 프로덕션\[6\]
+  - 크리스 월스텐홈: [베이스 기타](../Page/베이스_기타.md "wikilink"), 코러스, 프로덕션\[6\]
 
 <!-- end list -->
 
@@ -61,12 +61,12 @@
 이탈리아</p></td>
 <td><p>2009년 9월 11일</p></td>
 <td><p><a href="../Page/워너_뮤직_그룹.md" title="wikilink">워너</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a></p></td>
 <td><p>2564687434</p></td>
 <td><p>[8]</p></td>
 </tr>
 <tr class="even">
-<td><p>CD+<a href="https://ko.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></p></td>
+<td><p>CD+<a href="../Page/DVD.md" title="wikilink">DVD</a></p></td>
 <td><p>2564686625</p></td>
 <td><p>[9]</p></td>
 <td></td>
@@ -158,7 +158,7 @@
 | ----------------------------------------------------------------------- | --------- |
 | [오스트레일리아 음반 차트](https://ko.wikipedia.org/wiki/ARIA_차트 "wikilink")\[19\] | 1         |
 | 벨기에 음반 차트 ([플랑드르](https://ko.wikipedia.org/wiki/플랑드르 "wikilink"))\[20\] | 1         |
-| 벨기에 음반 차트 ([왈롱](https://ko.wikipedia.org/wiki/왈롱 "wikilink"))\[21\]     | 1         |
+| 벨기에 음반 차트 ([왈롱](../Page/왈롱.md "wikilink"))\[21\]                        | 1         |
 | 아일랜드 음반 차트                                                              | 1         |
 | 이탈리아 음반 차트                                                              | 1 |- Gold |
 | 네덜란드 음반 차트\[22\]                                                        | 1         |

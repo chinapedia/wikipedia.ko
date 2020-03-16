@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 댈러스**(FC Dallas)는 [메이저 리그 사커에](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") 소속된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 프로축구단으로 [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [댈러스](../Page/댈러스.md "wikilink")를 연고지로 하고 있다. 홈구장은 [축구전용구장](https://ko.wikipedia.org/wiki/축구전용구장 "wikilink")인 [도요타 스타디움이며](../Page/도요타_스타디움_\(텍사스주\).md "wikilink") [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [프리스코에](https://ko.wikipedia.org/wiki/프리스코_\(텍사스주\) "wikilink") 위치해 있다.
+**FC 댈러스**(FC Dallas)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 소속된 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [텍사스주](../Page/텍사스주.md "wikilink") [댈러스](../Page/댈러스.md "wikilink")를 연고지로 하고 있다. 홈구장은 [축구전용구장](https://ko.wikipedia.org/wiki/축구전용구장 "wikilink")인 [도요타 스타디움이며](../Page/도요타_스타디움_\(텍사스주\).md "wikilink") [텍사스주](../Page/텍사스주.md "wikilink") [프리스코에](https://ko.wikipedia.org/wiki/프리스코_\(텍사스주\) "wikilink") 위치해 있다.
 
 ## 역사
 
@@ -36,7 +36,7 @@
 <td><p><a href="../Page/코튼볼_(경기장).md" title="wikilink">코튼볼</a></p></td>
 <td><p>1996년~2002년<br />
 2004년~2005년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="../Page/댈러스.md" title="wikilink">댈러스</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/댈러스.md" title="wikilink">댈러스</a></p></td>
 <td><p>댈러스 번<br />
 FC 댈러스</p></td>
 <td></td>
@@ -44,14 +44,14 @@ FC 댈러스</p></td>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/드래곤_스타디움" title="wikilink">드래곤 스타디움</a></p></td>
 <td><p>2003년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/사우스레이크" title="wikilink">사우스레이크</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/사우스레이크" title="wikilink">사우스레이크</a></p></td>
 <td><p>댈러스 번</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/도요타_스타디움_(텍사스주).md" title="wikilink">도요타 스타디움</a></p></td>
 <td><p>2005년~현재</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/프리스코_(텍사스주)" title="wikilink">프리스코</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/프리스코_(텍사스주)" title="wikilink">프리스코</a></p></td>
 <td><p>FC 댈러스</p></td>
 <td><p>프리스코 사커 &amp; 엔터테인먼트 콤플렉스 (2005년)<br />
 피자헛 파크 (2005년~2012년)<br />

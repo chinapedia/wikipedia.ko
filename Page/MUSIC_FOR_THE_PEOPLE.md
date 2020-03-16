@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MUSIC FOR THE PEOPLE](https://ko.wikipedia.org/wiki/MUSIC_FOR_THE_PEOPLE).
 
 
-〈**MUSIC FOR THE PEOPLE**〉은 [V6의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 데뷔 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**MUSIC FOR THE PEOPLE**〉은 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 데뷔 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 해설
 

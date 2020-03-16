@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Memories \& Melodies](https://ko.wikipedia.org/wiki/Memories_\&_Melodies).
 
 
-《**Memories & Melodies**》는 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월 13일의](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") 발매된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink")의 리메이크 [앨범](../Page/음반.md "wikilink") (3.5집) 이다. 총 12곡의 트랙으로 구성되어 있고, 전체 러닝타임은 45분 58초다.
+《**Memories & Melodies**》는 [2001년](../Page/2001년.md "wikilink") [4월 13일의](../Page/4월_13일.md "wikilink") 발매된 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](../Page/핑클.md "wikilink")의 리메이크 [앨범](../Page/음반.md "wikilink") (3.5집) 이다. 총 12곡의 트랙으로 구성되어 있고, 전체 러닝타임은 45분 58초다.
 
 ## 설명
 

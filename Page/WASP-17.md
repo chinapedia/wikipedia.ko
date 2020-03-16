@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WASP-17](https://ko.wikipedia.org/wiki/WASP-17).
 
 
-**WASP-17**은 [전갈자리](https://ko.wikipedia.org/wiki/전갈자리 "wikilink") 방향으로 지구로부터 약 1,000광년 떨어진 곳에 있는 [F형 주계열성이다](../Page/F형_주계열성.md "wikilink"). 이 별은 우리 [태양](https://ko.wikipedia.org/wiki/태양 "wikilink")보다 조금 더 무겁고, 더 밝고, 좀 더 뜨겁다.
+**WASP-17**은 [전갈자리](../Page/전갈자리.md "wikilink") 방향으로 지구로부터 약 1,000광년 떨어진 곳에 있는 [F형 주계열성이다](../Page/F형_주계열성.md "wikilink"). 이 별은 우리 [태양](../Page/태양.md "wikilink")보다 조금 더 무겁고, 더 밝고, 좀 더 뜨겁다.
 
 ## 행성
 

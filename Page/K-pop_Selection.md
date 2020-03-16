@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K-pop Selection](https://ko.wikipedia.org/wiki/K-pop_Selection).
 
 
-《**K-pop Selection**》는 대한민국 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 한국의 음반 컴플레이션 앨범이다.
+《**K-pop Selection**》는 대한민국 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 한국의 음반 컴플레이션 앨범이다.
 
 ## 설명
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
 
 
-《**SBS 토론 공감**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [SBS](../Page/SBS.md "wikilink")에서 제작·방영하는 토론 프로그램이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")부터 첫 방송되어, **SBS대토론 이것이 여론이다**와 **SBS토론 시시비비**였으나 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 13일부터](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") SBS 시사토론으로 바뀌었다가 2013년 2월 14일부터는 SBS 토론 공감으로 이름이 바뀌었다. 다른 토론프로그램과는 달리 이름이 자주 바뀌는 편이다. 진행자는 한때 [김형민이였다가](../Page/김형민_\(방송인\).md "wikilink") 성추행으로 인해 사직하게 되면서\[1\] 토론프로그램 중 최초로 여성 사회자인 [고희경](https://ko.wikipedia.org/wiki/고희경_\(방송인\) "wikilink") 기자가 하고 있었다. 그리고 2013년 9월 26일 종영했다.
+《**SBS 토론 공감**》은 [대한민국](../Page/대한민국.md "wikilink")의 [SBS](../Page/SBS.md "wikilink")에서 제작·방영하는 토론 프로그램이다. [2004년](../Page/2004년.md "wikilink")부터 첫 방송되어, **SBS대토론 이것이 여론이다**와 **SBS토론 시시비비**였으나 [2008년](../Page/2008년.md "wikilink") [11월 13일부터](../Page/11월_13일.md "wikilink") SBS 시사토론으로 바뀌었다가 2013년 2월 14일부터는 SBS 토론 공감으로 이름이 바뀌었다. 다른 토론프로그램과는 달리 이름이 자주 바뀌는 편이다. 진행자는 한때 [김형민이였다가](../Page/김형민_\(방송인\).md "wikilink") 성추행으로 인해 사직하게 되면서\[1\] 토론프로그램 중 최초로 여성 사회자인 [고희경](https://ko.wikipedia.org/wiki/고희경_\(방송인\) "wikilink") 기자가 하고 있었다. 그리고 2013년 9월 26일 종영했다.
 
 ## 지역민방 프로그램
 

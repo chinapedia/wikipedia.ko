@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [My song Your song](https://ko.wikipedia.org/wiki/My_song_Your_song).
 
 
-《**My song Your song**》(마이 송 유어 송)은 [이키모노가카리](../Page/이키모노가카리.md "wikilink")가 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 24일에](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") 발매한 세 번째 정규 음반이다. 이키모노가카리가 처음으로 오리콘 1위를 획득 작품이자, 처음으로 한국에 발매된 이키모노가카리의 음반이기도 하다\[1\].
+《**My song Your song**》(마이 송 유어 송)은 [이키모노가카리](../Page/이키모노가카리.md "wikilink")가 [2008년](../Page/2008년.md "wikilink") [12월 24일에](../Page/12월_24일.md "wikilink") 발매한 세 번째 정규 음반이다. 이키모노가카리가 처음으로 오리콘 1위를 획득 작품이자, 처음으로 한국에 발매된 이키모노가카리의 음반이기도 하다\[1\].
 
 ## 수록곡
 

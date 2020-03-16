@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [All My Best](https://ko.wikipedia.org/wiki/All_My_Best).
 
 
-《**All My Best**》 (올 마이 베스트)는 [쿠라키 마이가](../Page/쿠라키_마이.md "wikilink") 2009년에 발매한 두 번째 베스트 음반이다. 2004년에 발매한 첫 베스트 음반 《Wish You the Best》로부터 5년 만에 발매되는 두 번째 베스트 음반으로 [CD뿐만이](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 아닌 [마이크로SD](https://ko.wikipedia.org/wiki/마이크로SD "wikilink"), [USB 플래시 드라이브](../Page/USB_플래시_드라이브.md "wikilink"), [미니디스크](https://ko.wikipedia.org/wiki/미니디스크 "wikilink"), [콤팩트 카세트](../Page/콤팩트_카세트.md "wikilink"). [LP](https://ko.wikipedia.org/wiki/LP_\(레코드\) "wikilink") 총 6가지 매체로 발매됐다\[1\].
+《**All My Best**》 (올 마이 베스트)는 [쿠라키 마이가](../Page/쿠라키_마이.md "wikilink") 2009년에 발매한 두 번째 베스트 음반이다. 2004년에 발매한 첫 베스트 음반 《Wish You the Best》로부터 5년 만에 발매되는 두 번째 베스트 음반으로 [CD뿐만이](../Page/콤팩트_디스크.md "wikilink") 아닌 [마이크로SD](https://ko.wikipedia.org/wiki/마이크로SD "wikilink"), [USB 플래시 드라이브](../Page/USB_플래시_드라이브.md "wikilink"), [미니디스크](../Page/미니디스크.md "wikilink"), [콤팩트 카세트](../Page/콤팩트_카세트.md "wikilink"). [LP](https://ko.wikipedia.org/wiki/LP_\(레코드\) "wikilink") 총 6가지 매체로 발매됐다\[1\].
 
 ## 수록곡
 
@@ -28,7 +28,7 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
-        3번째 싱글. [요미우리 TV계](../Page/요미우리_TV_방송.md "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[명탐정 코난9](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 [엔딩 테마](https://ko.wikipedia.org/wiki/엔딩_테마 "wikilink").
+        3번째 싱글. [요미우리 TV계](../Page/요미우리_TV_방송.md "wikilink") [애니메이션](../Page/일본의_애니메이션.md "wikilink") 《[명탐정 코난9](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 [엔딩 테마](https://ko.wikipedia.org/wiki/엔딩_테마 "wikilink").
 5.  **[NEVER GONNA GIVE YOU UP](../Page/NEVER_GONNA_GIVE_YOU_UP.md "wikilink")**
       - 작사: 쿠라키 마이, [마이클 어프릭](https://ko.wikipedia.org/wiki/마이클_어프릭 "wikilink"), 작곡 · 편곡: 마이클 어프릭, 미구엘 사 페소아, 페리 게이어
     <!-- end list -->
@@ -43,7 +43,7 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
-        6번째 싱글. [NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink") [아침 연속극 소설](../Page/연속_TV_소설.md "wikilink") 《[오드리](https://ko.wikipedia.org/wiki/오드리_\(일본의_드라마\) "wikilink")》 테마송.
+        6번째 싱글. [NHK](../Page/일본방송협회.md "wikilink") [아침 연속극 소설](../Page/연속_TV_소설.md "wikilink") 《[오드리](https://ko.wikipedia.org/wiki/오드리_\(일본의_드라마\) "wikilink")》 테마송.
 8.  **[Start in my life](https://ko.wikipedia.org/wiki/츠메타이우미/Start_in_my_life "wikilink")**
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
@@ -68,7 +68,7 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
-        9번째 싱글. 요미우리 TV계 애니메이션 《명탐정 코난》 엔딩 테마. [영화](https://ko.wikipedia.org/wiki/일본의_영화 "wikilink") 《[명탐정 코난: 천국으로의 카운트다운](../Page/명탐정_코난:_천국으로의_카운트다운.md "wikilink")》 [주제가](https://ko.wikipedia.org/wiki/주제가 "wikilink").
+        9번째 싱글. 요미우리 TV계 애니메이션 《명탐정 코난》 엔딩 테마. [영화](../Page/일본의_영화.md "wikilink") 《[명탐정 코난: 천국으로의 카운트다운](../Page/명탐정_코난:_천국으로의_카운트다운.md "wikilink")》 [주제가](https://ko.wikipedia.org/wiki/주제가 "wikilink").
 13. **[PERFECT CRIME](https://ko.wikipedia.org/wiki/Can't_forget_your_love/PERFECT_CRIME_-Single_Edit- "wikilink")**
       - 작사: 쿠라키 마이, 작곡: 토쿠나가 아키히토, 편곡: 토쿠나가 아키히토, 이케다 다이스케
     <!-- end list -->
@@ -90,7 +90,7 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
-        3번째 음반 《FAIRY TALE》 수록곡. [남코](https://ko.wikipedia.org/wiki/반다이_남코_엔터테인먼트 "wikilink") 《[테일즈 오브 데스티니 2](../Page/테일즈_오브_데스티니_2.md "wikilink")》 테마송.
+        3번째 음반 《FAIRY TALE》 수록곡. [남코](../Page/반다이_남코_엔터테인먼트.md "wikilink") 《[테일즈 오브 데스티니 2](../Page/테일즈_오브_데스티니_2.md "wikilink")》 테마송.
 
 ### DISC 2
 
@@ -118,7 +118,7 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
-        29번째 싱글. [요미우리 TV계](../Page/요미우리_TV_방송.md "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 오프닝 테마.
+        29번째 싱글. [요미우리 TV계](../Page/요미우리_TV_방송.md "wikilink") [애니메이션](../Page/일본의_애니메이션.md "wikilink") 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 오프닝 테마.
 6.  **[BE WITH Ü](https://ko.wikipedia.org/wiki/Silent_love~open_my_heart~/BE_WITH_U "wikilink")**
       - 작사: 쿠라키 마이, 작곡: 토쿠나가 아키히토, 편곡: Cybersound
     <!-- end list -->
@@ -222,7 +222,7 @@ with Mai Kuraki × Director's Special Talk
 <tr class="odd">
 <td><p>일본</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD+DVD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD+DVD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/노던_뮤직" title="wikilink">노던 뮤직</a></p></td>
 </tr>
 <tr class="even">

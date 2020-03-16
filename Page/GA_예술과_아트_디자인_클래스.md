@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [GA    ](https://ko.wikipedia.org/wiki/GA____).
 
 
-《**GA 예술과 아트 디자인 클래스**》()는 [일본](../Page/일본.md "wikilink")의 만화 작가 [키유즈키 사토코가](https://ko.wikipedia.org/wiki/키유즈키_사토코 "wikilink") [미술](https://ko.wikipedia.org/wiki/미술 "wikilink")을 주제로 하여 2004년부터 연재를 시작한 4컷 만화이다. 본래 2004년 7월부터 헤이와출판의 'COMIC규웃토\!'에서 연재되었다가 2005년 6월부터 호분샤의 망가타임 키라라 Carat으로 옮겨 본격적으로 연재되고 있다. 2009년 7월 AIC에 의해 애니메이션으로 제작되었다. 한국어판은 2010년 1월부터 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")에서 발매중이다.
+《**GA 예술과 아트 디자인 클래스**》()는 [일본](../Page/일본.md "wikilink")의 만화 작가 [키유즈키 사토코가](https://ko.wikipedia.org/wiki/키유즈키_사토코 "wikilink") [미술](../Page/미술.md "wikilink")을 주제로 하여 2004년부터 연재를 시작한 4컷 만화이다. 본래 2004년 7월부터 헤이와출판의 'COMIC규웃토\!'에서 연재되었다가 2005년 6월부터 호분샤의 망가타임 키라라 Carat으로 옮겨 본격적으로 연재되고 있다. 2009년 7월 AIC에 의해 애니메이션으로 제작되었다. 한국어판은 2010년 1월부터 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")에서 발매중이다.
 
 ## 개요
 
   - 어떤 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")의 미술전문 클래스 **예술과 A 클래스**(GA) 에 다니는 개성이 풍부한 1학년 여학생 5명을 중심으로 미술과 관계되는 잡다한 지식이나 수업풍경 등의 [학원](../Page/학원.md "wikilink")생활을 4컷만화 형식으로 그려내는 만화.
-  - 처음엔 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")부터 헤이와출판의 **COMIC규웃토\!**에서 연재되었다가 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")부터 호분샤의 **망가타임 키라라 Carat** ()으로 옮겨 본격적으로 연재되고 있고, 2009년 7월 AIC에 의해 애니메이션으로 제작되었다. 망가타임 키라라Carat 2009년 2월호에서 애니메이션화 발표와 함께 표지에 등장해 이후엔 그때까지 연속으로 표지에 등장했던 연재작품 **[히다마리 스케치](https://ko.wikipedia.org/wiki/히다마리_스케치 "wikilink")**와 함께 교대로 표지에 등장할 만큼의 인기를 자랑한다.
-  - 또한, 토라노아나에서 매월 배포하는 프리 페이퍼 **토라다요**() 에서도 **GA 화구창고**()라는 타이틀로 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 발행한 Vol.59부터 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 발행한 Vol.98까지 휴재없이 연재되었다. 일부분을 특전이라고 해서 배포한 적도 있었지만, 이것은 현재까지도 단행본으로 발매되지 않고 있다.
-  - 작가인 [키유즈키 사토코는](https://ko.wikipedia.org/wiki/키유즈키_사토코 "wikilink") [게임](https://ko.wikipedia.org/wiki/게임 "wikilink") [캐릭터](https://ko.wikipedia.org/wiki/캐릭터 "wikilink") [디자인](https://ko.wikipedia.org/wiki/디자인 "wikilink")과 [라이트 노벨의](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink") [삽화](../Page/삽화.md "wikilink")를 그리는 인기 [일러스트레이터](https://ko.wikipedia.org/wiki/일러스트레이터 "wikilink")로 알려져 있다. 이 작품에서도 일러스트레이터답게 뛰어난 그림 실력을 자랑한다.
+  - 처음엔 [2004년](../Page/2004년.md "wikilink") [7월](../Page/7월.md "wikilink")부터 헤이와출판의 **COMIC규웃토\!**에서 연재되었다가 [2005년](../Page/2005년.md "wikilink") [6월](../Page/6월.md "wikilink")부터 호분샤의 **망가타임 키라라 Carat** ()으로 옮겨 본격적으로 연재되고 있고, 2009년 7월 AIC에 의해 애니메이션으로 제작되었다. 망가타임 키라라Carat 2009년 2월호에서 애니메이션화 발표와 함께 표지에 등장해 이후엔 그때까지 연속으로 표지에 등장했던 연재작품 **[히다마리 스케치](https://ko.wikipedia.org/wiki/히다마리_스케치 "wikilink")**와 함께 교대로 표지에 등장할 만큼의 인기를 자랑한다.
+  - 또한, 토라노아나에서 매월 배포하는 프리 페이퍼 **토라다요**() 에서도 **GA 화구창고**()라는 타이틀로 [2005년](../Page/2005년.md "wikilink") [11월](../Page/11월.md "wikilink") 발행한 Vol.59부터 [2009년](../Page/2009년.md "wikilink") [3월](../Page/3월.md "wikilink") 발행한 Vol.98까지 휴재없이 연재되었다. 일부분을 특전이라고 해서 배포한 적도 있었지만, 이것은 현재까지도 단행본으로 발매되지 않고 있다.
+  - 작가인 [키유즈키 사토코는](https://ko.wikipedia.org/wiki/키유즈키_사토코 "wikilink") [게임](../Page/게임.md "wikilink") [캐릭터](https://ko.wikipedia.org/wiki/캐릭터 "wikilink") [디자인](../Page/디자인.md "wikilink")과 [라이트 노벨의](../Page/라이트_노벨.md "wikilink") [삽화](../Page/삽화.md "wikilink")를 그리는 인기 [일러스트레이터](https://ko.wikipedia.org/wiki/일러스트레이터 "wikilink")로 알려져 있다. 이 작품에서도 일러스트레이터답게 뛰어난 그림 실력을 자랑한다.
 
 ## 등장인물
 
@@ -132,22 +132,22 @@ GA 1학년 5인조. 이 만화의 주요 등장인물들.
 ## 출판 정보
 
   - 단행본
-    1권 : [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink") 발행,
-    2권 : [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") 발행,
-    3권 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink") 발행,
+    1권 : [2006년](../Page/2006년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") 발행,
+    2권 : [2008년](../Page/2008년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") 발행,
+    3권 : [2009년](../Page/2009년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") 발행,
 
 <!-- end list -->
 
   - 애니메이션판 공식 가이드
-    GA 예술과 아트디자인 클래스 TV애니메이션 비주얼 가이드 북(), [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") 발매, ）
+    GA 예술과 아트디자인 클래스 TV애니메이션 비주얼 가이드 북(), [2009년](../Page/2009년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") 발매, ）
 
 
-대한민국에서는 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")에서 발매한다. 이전에 포털사이트 '[다음](https://ko.wikipedia.org/wiki/다음 "wikilink") 만화'에서 서비스했으나 정식으로 출판.
+대한민국에서는 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")에서 발매한다. 이전에 포털사이트 '[다음](../Page/다음.md "wikilink") 만화'에서 서비스했으나 정식으로 출판.
 
   -
-    1권 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 20일](https://ko.wikipedia.org/wiki/1월_20일 "wikilink") 발행,
-    2권 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink") 발행,
-    3권 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 발행,
+    1권 : [2010년](../Page/2010년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") 발행,
+    2권 : [2010년](../Page/2010년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") 발행,
+    3권 : [2010년](../Page/2010년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 발행,
 
 ## 애니메이션
 
@@ -428,43 +428,43 @@ GA 1학년 5인조. 이 만화의 주요 등장인물들.
 <tbody>
 <tr class="odd">
 <td><p>제0회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/6월_11일" title="wikilink">6월 11일</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/6월_11일.md" title="wikilink">6월 11일</a></p></td>
 <td><p>예술은 폭발이다!</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>제1회</p></td>
-<td><p>2009년 <a href="https://ko.wikipedia.org/wiki/6월_25일" title="wikilink">6월 25일</a></p></td>
+<td><p>2009년 <a href="../Page/6월_25일.md" title="wikilink">6월 25일</a></p></td>
 <td><p>(힘내라, 나!?)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>제2회</p></td>
-<td><p>2009년 <a href="https://ko.wikipedia.org/wiki/7월_9일" title="wikilink">7월 9일</a></p></td>
+<td><p>2009년 <a href="../Page/7월_9일.md" title="wikilink">7월 9일</a></p></td>
 <td><p>(<a href="../Page/긴자.md" title="wikilink">긴자</a>는 저~쪽입니다!)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>제3회</p></td>
-<td><p>2009년<a href="https://ko.wikipedia.org/wiki/7월_23일" title="wikilink">7월 23일</a></p></td>
+<td><p>2009년<a href="../Page/7월_23일.md" title="wikilink">7월 23일</a></p></td>
 <td><p>(Gracias Amigo!)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/토쿠나가_아이" title="wikilink">토쿠나가 아이</a>（노다 미키 역）</p></td>
 </tr>
 <tr class="odd">
 <td><p>제4회</p></td>
-<td><p>2009년 <a href="https://ko.wikipedia.org/wiki/8월_6일" title="wikilink">8월 6일</a></p></td>
+<td><p>2009년 <a href="../Page/8월_6일.md" title="wikilink">8월 6일</a></p></td>
 <td><p>(어린애냐, 바보!)</p></td>
 <td><p><a href="../Page/호리에_유이.md" title="wikilink">호리에 유이</a>（노자키 나미코 역）</p></td>
 </tr>
 <tr class="even">
 <td><p>제5회</p></td>
-<td><p>2009년 <a href="https://ko.wikipedia.org/wiki/8월_20일" title="wikilink">8월 20일</a></p></td>
+<td><p>2009년 <a href="../Page/8월_20일.md" title="wikilink">8월 20일</a></p></td>
 <td><p>(안녕하십니까?)</p></td>
 <td><p><a href="../Page/사와시로_미유키.md" title="wikilink">사와시로 미유키</a>（토모카네 역）</p></td>
 </tr>
 <tr class="odd">
 <td><p>제6회</p></td>
-<td><p>2009년 <a href="https://ko.wikipedia.org/wiki/9월_3일" title="wikilink">9월 3일</a></p></td>
+<td><p>2009년 <a href="../Page/9월_3일.md" title="wikilink">9월 3일</a></p></td>
 <td><p>(풍류있게 놀자!)</p></td>
 <td></td>
 </tr>

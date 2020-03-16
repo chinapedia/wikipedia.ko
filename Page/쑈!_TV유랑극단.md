@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [! TV](https://ko.wikipedia.org/wiki/!_TV).
 
 
-《**쑈\! TV 유랑극단**》은 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 오전 10시 50분부터 낮 12시까지 [KNN](../Page/KNN.md "wikilink") 부산경남방송에서 자체 방송되는 시청자 참여 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
+《**쑈\! TV 유랑극단**》은 [일요일](../Page/일요일.md "wikilink") 오전 10시 50분부터 낮 12시까지 [KNN](../Page/KNN.md "wikilink") 부산경남방송에서 자체 방송되는 시청자 참여 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
 
 ## 개요
 
@@ -17,14 +17,14 @@
 
 ## 전속 악단
 
-  - 맹주호 아트팝스 ([2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") \~ 현재)\[1\]
+  - 맹주호 아트팝스 ([2001년](../Page/2001년.md "wikilink") \~ 현재)\[1\]
 
 ## 역대 전속 무용단
 
-  - 메리트 무용단 (현.메리트퍼펙 무용단) (? \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink"))
-  - 아츠 무용단 ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink"))
-  - 이카루스 무용단 ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink"))
-  - 메리트퍼펙 무용단 ([2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") \~ 현재)
+  - 메리트 무용단 (현.메리트퍼펙 무용단) (? \~ [2012년](../Page/2012년.md "wikilink"))
+  - 아츠 무용단 ([2013년](../Page/2013년.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink"))
+  - 이카루스 무용단 ([2016년](../Page/2016년.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink"))
+  - 메리트퍼펙 무용단 ([2016년](../Page/2016년.md "wikilink") \~ 현재)
 
 ## 같이 보기
 

@@ -1,183 +1,183 @@
 > This article is converted from Wikipedia: [EBS 1TV](https://ko.wikipedia.org/wiki/EBS_1TV).
 
 
-**EBS 1TV**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 공영 방송사인 [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")에서 운영하는 종합 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") 방송 채널이다. [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink")부터 [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")까지 [KBS](../Page/한국방송공사.md "wikilink") 산하의 [KBS 3TV로서](https://ko.wikipedia.org/wiki/KBS_3TV "wikilink") 방송하여 왔다가, [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 교육방송으로 운영주체가 별개로 분리되면서 **EBS TV**로 채널명이 변경되었다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink"), [EBS 2TV의](../Page/EBS_2TV.md "wikilink") 개국에 따라 현재의 채널명으로 변경되었으며, [KBS의](../Page/한국방송공사.md "wikilink") 지상파 송출망을 공유하고 있다.
+**EBS 1TV**는 [대한민국](../Page/대한민국.md "wikilink")의 공영 방송사인 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")에서 운영하는 종합 [텔레비전](../Page/텔레비전.md "wikilink") 방송 채널이다. [1981년](../Page/1981년.md "wikilink")부터 [1990년](../Page/1990년.md "wikilink")까지 [KBS](../Page/한국방송공사.md "wikilink") 산하의 [KBS 3TV로서](../Page/KBS_3TV.md "wikilink") 방송하여 왔다가, [1990년](../Page/1990년.md "wikilink") 교육방송으로 운영주체가 별개로 분리되면서 **EBS TV**로 채널명이 변경되었다. [2015년](../Page/2015년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink"), [EBS 2TV의](../Page/EBS_2TV.md "wikilink") 개국에 따라 현재의 채널명으로 변경되었으며, [KBS의](../Page/한국방송공사.md "wikilink") 지상파 송출망을 공유하고 있다.
 
 ## 연혁
 
 ### 1980년대
 
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [2월 2일](https://ko.wikipedia.org/wiki/2월_2일 "wikilink") : 개국 및 컬러 방송 개시
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") : 상업광고 개시
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [6월 2일](https://ko.wikipedia.org/wiki/6월_2일 "wikilink") : 부산 황령산 송신소 제3교육 라디오 방송 개시 (주파수 107.7㎒)
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") : 유아 프로그램 [텔리비전 유치원(현. 딩동댕 유치원)](https://ko.wikipedia.org/wiki/딩동댕_유치원 "wikilink") 방영 시작
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") : 수도권채널 UHF에서 VHF로 바뀌어 UHF 34번에서 VHF 13번으로 변경
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [5월 11일](https://ko.wikipedia.org/wiki/5월_11일 "wikilink") : 평일 방송 시작을 오후 5시 30분에서 오후 4시 30분으로 변경
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [5월 18일](https://ko.wikipedia.org/wiki/5월_18일 "wikilink") : 평일 방송 시작을 오후 4시 30분에서 4시로 변경
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") : 평일 방송 시작을 오후 4시에서 4시 30분으로 환원
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") : TV 고교 가정학습 방송 실시
+  - [1981년](../Page/1981년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") : 개국 및 컬러 방송 개시
+  - [1981년](../Page/1981년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink") : 상업광고 개시
+  - [1981년](../Page/1981년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink") : 부산 황령산 송신소 제3교육 라디오 방송 개시 (주파수 107.7㎒)
+  - [1982년](../Page/1982년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") : 유아 프로그램 [텔리비전 유치원(현. 딩동댕 유치원)](../Page/딩동댕_유치원.md "wikilink") 방영 시작
+  - [1987년](../Page/1987년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : 수도권채널 UHF에서 VHF로 바뀌어 UHF 34번에서 VHF 13번으로 변경
+  - [1987년](../Page/1987년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") : 평일 방송 시작을 오후 5시 30분에서 오후 4시 30분으로 변경
+  - [1987년](../Page/1987년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink") : 평일 방송 시작을 오후 4시 30분에서 4시로 변경
+  - [1987년](../Page/1987년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") : 평일 방송 시작을 오후 4시에서 4시 30분으로 환원
+  - [1989년](../Page/1989년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") : TV 고교 가정학습 방송 실시
 
 ### 1990년대
 
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") : 운영 주체 변경에 따라 교육방송(EBS)으로 분리. EBS TV 개국
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") : 《방송통신대학 TV 강좌》방송개시 (월요일 - 토요일 밤 11시 40분 \~ 12시 10분, 일요일 밤 10시 30분 \~ 12시 까지, 현재 방송대학TV 프로그램)
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") : 《[하나뿐인 지구](../Page/하나뿐인_지구.md "wikilink")》 방송 개시
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [11월 7일](https://ko.wikipedia.org/wiki/11월_7일 "wikilink") : 전국 지역 자체 송출 개시
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") : 《[EBS 교육소식](https://ko.wikipedia.org/wiki/EBS_교육소식 "wikilink")》 방송 개시
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") : 《방송통신대학 TV 강좌》방송종료 (월요일 - 토요일 밤 11시 40분 \~ 12시 10분, 일요일 밤 10시 30분 \~ 12시 까지, 현재 방송대학TV 프로그램)
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : 《TV 방송대학》방송개시 (월요일 - 토요일 밤 11시 40분 \~ 12시 10분, 일요일 밤 10시 30분 \~ 12시 까지, 현재 방송대학TV 프로그램)
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") : 《[EBS 교육소식](https://ko.wikipedia.org/wiki/EBS_교육소식 "wikilink")》을 《[EBS 교육문화소식](https://ko.wikipedia.org/wiki/EBS_교육문화소식 "wikilink")》으로 명칭 변경
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : 월요일 \~ 토요일 밤 12시 10분부터 익일 새벽 1시까지 평일 심야 방송 개시
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 방송 개시 (월요일 - 금요일 밤 10시 10분 \~ 10시 55분, 밤 10시 55분 \~ 11시 40분 까지, 현재 EBS 플러스 1 프로그램)
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 생방송《언어영역 》방송 개시 (토요일 밤 10시 10분 \~ 10시 55분(1부), 밤 10시 55분 \~ 11시 40분(2부) 까지, 현재 EBS 플러스 1 프로그램)
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") : 일요일 밤 12시 부터 익일 새벽 1시까지 주말 심야 방송 개시
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") : 월요일 심야방송 20분 축소
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [1월 12일](https://ko.wikipedia.org/wiki/1월_12일 "wikilink") : 《[장학퀴즈](../Page/장학퀴즈.md "wikilink")》\<[경남 진주고등학교](../Page/진주고등학교.md "wikilink") 편\> 방송 개시
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") : 《[EBS 교육문화소식](https://ko.wikipedia.org/wiki/EBS_교육문화소식 "wikilink")》을 《[EBS 교육문화뉴스](../Page/EBS_교육문화뉴스.md "wikilink")》로 명칭 변경, 오전 9시부터 낮 12시까지 평일 오전 방송 개시, 월요일 심야 방송을 익일 새벽 1시까지 환원
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") : 《중학방송교재》3학년 TV 방송개시 (현재 EBS 플러스 2 프로그램)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") : 《고교필수특강》 (고1,고2- 내신) 방송개시 변경 (월요일 \~ 금요일 밤 10시 30분 \~ 11시 까지, 현재 EBS 플러스 1 프로그램 )
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 방송시간 변경 (월요일 - 금요일 밤 11시 \~ 12시 30분 까지, 현재 EBS 플러스 1 프로그램)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") : 《TV 방송대학》방송시간 변경 (월요일 - 토요일 밤 12시 30분 \~ 1시, 일요일 밤 11시 30분 \~ 1시 까지, 현재 방송대학TV 프로그램)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 생방송《언어영역 》방송시간 변경 (토요일 밤 9시 \~ 10시 30분 까지, 현재 EBS 플러스 1 프로그램)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") : 월요일 \~ 토요일 오전 9시부터 낮 12시까지 토요일 오전 방송 개시
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") : 일요일 심야 방송 중단
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") : [식목일](https://ko.wikipedia.org/wiki/식목일 "wikilink") 특집의 오전 9시부터 낮 12시까지 공휴일 오전 방송 개시
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") : 일요일 심야 방송 밤 12시부터 밤 1시까지 재개
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") : (구) EBS 위성 1TV,(구) EBS 위성 2TV 의 위성교육방송 개국으로 고등학교 대상 교과 프로그램(고1,고2- 내신,고3 - 수능 파이널 실전모의고사)을 EBS 위성 1TV로 이관함, 중학교 대상 교과 프로그램을(구) EBS 위성 2TV로 이관함,(구) EBS 위성 1TV 개국 (재송신 기준 - 월요일 \~ 금요일 밤 10시 30분 부터 익일 12시 30분 까지, 현재 EBS 플러스 1 방송대역), EBS 위성 2TV 개국 (재송신 기준 - 월요일 \~ 토요일 오전 9시 \~ 낮 12시, 현재 EBS 플러스 2 방송대역)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") : 평일 오전 방송 25분 축소, 평일 오후 방송 시작을 오후 4시 30분에서 3시 30분으로 변경, 상업광고 개시
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") : 토요일 오후 방송 시작을 오후 4시 30분에서 3시 30분으로 변경
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 방송 종료 (월요일 - 금요일 밤 11시 \~ 12시 30분 까지, 현재 EBS 플러스 1 프로그램)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 생방송《언어영역 》방송종료 (토요일 밤 9시 \~ 10시 30분 까지, 현재 EBS 플러스 1 프로그램)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") :(구) EBS 위성 1TV 재송신 변경(월요일 \~ 금요일 밤 10시 30분 부터 11시 30분, 밤 11시 30분 \~ 익일 12시 30분 까지, 현재 EBS 플러스 1 방송대역)
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") :(구) EBS 위성 1TV 재송신 종료(월요일 \~ 금요일 밤 10시 30분 부터 11시 30분, 밤 11시 30분 \~ 익일 12시 30분 까지, 현재 EBS 플러스 1 방송대역)
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") : 평일 오전 방송을 낮 12시까지로 25분 환원
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") (구) EBS 위성 1TV 재방송 실시(월요일 \~ 금요일 밤 10시 50분 부터 익일 12시 30분, 익일 12시 30분 부터 01시 까지, 현재 EBS 플러스 1 방송대역)
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") (구) EBS 위성 1TV 재방송 변경(월요일 \~ 금요일 밤 10시 50분 부터 익일 12시 30분, 익일 12시 40분 부터 01시 10분 까지, 현재 EBS 플러스 1 방송대역)
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") : 《TV 방송대학》방송시간 변경 (월요일 - 금요일 밤 12시 40분 \~ 1시 10분, 토요일 밤 12시 30분 \~ 1시 까지, 일요일 밤 11시 30분 \~ 1시 까지, 현재 방송대학TV 프로그램)
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [2월 15일](https://ko.wikipedia.org/wiki/2월_15일 "wikilink") : 낮 12시부터 3시 30분까지 공휴일 낮 방송 개시
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : (구) EBS 위성 2TV 재송신 종료(월요일 \~ 토요일 오전 9시 \~ 낮 12시, 현재 EBS 플러스 2 방송대역)
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") : 공휴일 오전 방송 시작을 오전 9시에서 6시로 변경
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") : 평일 오전 방송 시작을 아침 6시로 변경, 평일 오전 방송 2시간 축소, [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") (구) EBS 위성 1TV 재방송 변경(월요일 \~ 금요일 밤 11시 20분 부터 익일 12시 10분, 익일 12시 20분 부터 01시 10분 까지, 현재 EBS 플러스 1 방송대역)
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink") : 토요일 오전 방송 시작을 오전 9시에서 6시로 변경, 토요일 낮 12시부터 3시 30분까지 토요일 낮 방송 개시
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") : 일요일 방송 시작을 오전 7시에서 6시로 변경
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") : 평일 아침 방송을 아침 10시 40분까지로 40분 환원
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink") : [겨울방학](https://ko.wikipedia.org/wiki/겨울방학 "wikilink") 기간 동안 아침 6시부터 낮 11시 25분까지 환원
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") : 금요일 오전 방송을 낮 12시 15분까지로 1시간 35분 환원
+  - [1990년](../Page/1990년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") : 운영 주체 변경에 따라 교육방송(EBS)으로 분리. EBS TV 개국
+  - [1990년](../Page/1990년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") : 《방송통신대학 TV 강좌》방송개시 (월요일 - 토요일 밤 11시 40분 \~ 12시 10분, 일요일 밤 10시 30분 \~ 12시 까지, 현재 방송대학TV 프로그램)
+  - [1991년](../Page/1991년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") : 《[하나뿐인 지구](../Page/하나뿐인_지구.md "wikilink")》 방송 개시
+  - [1991년](../Page/1991년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") : 전국 지역 자체 송출 개시
+  - [1993년](../Page/1993년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : 《[EBS 교육소식](https://ko.wikipedia.org/wiki/EBS_교육소식 "wikilink")》 방송 개시
+  - [1994년](../Page/1994년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 《방송통신대학 TV 강좌》방송종료 (월요일 - 토요일 밤 11시 40분 \~ 12시 10분, 일요일 밤 10시 30분 \~ 12시 까지, 현재 방송대학TV 프로그램)
+  - [1994년](../Page/1994년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 《TV 방송대학》방송개시 (월요일 - 토요일 밤 11시 40분 \~ 12시 10분, 일요일 밤 10시 30분 \~ 12시 까지, 현재 방송대학TV 프로그램)
+  - [1995년](../Page/1995년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") : 《[EBS 교육소식](https://ko.wikipedia.org/wiki/EBS_교육소식 "wikilink")》을 《[EBS 교육문화소식](https://ko.wikipedia.org/wiki/EBS_교육문화소식 "wikilink")》으로 명칭 변경
+  - [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : 월요일 \~ 토요일 밤 12시 10분부터 익일 새벽 1시까지 평일 심야 방송 개시
+  - [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 방송 개시 (월요일 - 금요일 밤 10시 10분 \~ 10시 55분, 밤 10시 55분 \~ 11시 40분 까지, 현재 EBS 플러스 1 프로그램)
+  - [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 생방송《언어영역 》방송 개시 (토요일 밤 10시 10분 \~ 10시 55분(1부), 밤 10시 55분 \~ 11시 40분(2부) 까지, 현재 EBS 플러스 1 프로그램)
+  - [1996년](../Page/1996년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") : 일요일 밤 12시 부터 익일 새벽 1시까지 주말 심야 방송 개시
+  - [1996년](../Page/1996년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") : 월요일 심야방송 20분 축소
+  - [1997년](../Page/1997년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink") : 《[장학퀴즈](../Page/장학퀴즈.md "wikilink")》\<[경남 진주고등학교](../Page/진주고등학교.md "wikilink") 편\> 방송 개시
+  - [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 《[EBS 교육문화소식](https://ko.wikipedia.org/wiki/EBS_교육문화소식 "wikilink")》을 《[EBS 교육문화뉴스](../Page/EBS_교육문화뉴스.md "wikilink")》로 명칭 변경, 오전 9시부터 낮 12시까지 평일 오전 방송 개시, 월요일 심야 방송을 익일 새벽 1시까지 환원
+  - [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 《중학방송교재》3학년 TV 방송개시 (현재 EBS 플러스 2 프로그램)
+  - [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 《고교필수특강》 (고1,고2- 내신) 방송개시 변경 (월요일 \~ 금요일 밤 10시 30분 \~ 11시 까지, 현재 EBS 플러스 1 프로그램 )
+  - [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 방송시간 변경 (월요일 - 금요일 밤 11시 \~ 12시 30분 까지, 현재 EBS 플러스 1 프로그램)
+  - [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 《TV 방송대학》방송시간 변경 (월요일 - 토요일 밤 12시 30분 \~ 1시, 일요일 밤 11시 30분 \~ 1시 까지, 현재 방송대학TV 프로그램)
+  - [1997년](../Page/1997년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 생방송《언어영역 》방송시간 변경 (토요일 밤 9시 \~ 10시 30분 까지, 현재 EBS 플러스 1 프로그램)
+  - [1997년](../Page/1997년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") : 월요일 \~ 토요일 오전 9시부터 낮 12시까지 토요일 오전 방송 개시
+  - [1997년](../Page/1997년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") : 일요일 심야 방송 중단
+  - [1997년](../Page/1997년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") : [식목일](https://ko.wikipedia.org/wiki/식목일 "wikilink") 특집의 오전 9시부터 낮 12시까지 공휴일 오전 방송 개시
+  - [1997년](../Page/1997년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") : 일요일 심야 방송 밤 12시부터 밤 1시까지 재개
+  - [1997년](../Page/1997년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") : (구) EBS 위성 1TV,(구) EBS 위성 2TV 의 위성교육방송 개국으로 고등학교 대상 교과 프로그램(고1,고2- 내신,고3 - 수능 파이널 실전모의고사)을 EBS 위성 1TV로 이관함, 중학교 대상 교과 프로그램을(구) EBS 위성 2TV로 이관함,(구) EBS 위성 1TV 개국 (재송신 기준 - 월요일 \~ 금요일 밤 10시 30분 부터 익일 12시 30분 까지, 현재 EBS 플러스 1 방송대역), EBS 위성 2TV 개국 (재송신 기준 - 월요일 \~ 토요일 오전 9시 \~ 낮 12시, 현재 EBS 플러스 2 방송대역)
+  - [1997년](../Page/1997년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") : 평일 오전 방송 25분 축소, 평일 오후 방송 시작을 오후 4시 30분에서 3시 30분으로 변경, 상업광고 개시
+  - [1997년](../Page/1997년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") : 토요일 오후 방송 시작을 오후 4시 30분에서 3시 30분으로 변경
+  - [1997년](../Page/1997년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 방송 종료 (월요일 - 금요일 밤 11시 \~ 12시 30분 까지, 현재 EBS 플러스 1 프로그램)
+  - [1997년](../Page/1997년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 생방송《언어영역 》방송종료 (토요일 밤 9시 \~ 10시 30분 까지, 현재 EBS 플러스 1 프로그램)
+  - [1997년](../Page/1997년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") :(구) EBS 위성 1TV 재송신 변경(월요일 \~ 금요일 밤 10시 30분 부터 11시 30분, 밤 11시 30분 \~ 익일 12시 30분 까지, 현재 EBS 플러스 1 방송대역)
+  - [1998년](../Page/1998년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") :(구) EBS 위성 1TV 재송신 종료(월요일 \~ 금요일 밤 10시 30분 부터 11시 30분, 밤 11시 30분 \~ 익일 12시 30분 까지, 현재 EBS 플러스 1 방송대역)
+  - [1998년](../Page/1998년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : 평일 오전 방송을 낮 12시까지로 25분 환원
+  - [1998년](../Page/1998년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") (구) EBS 위성 1TV 재방송 실시(월요일 \~ 금요일 밤 10시 50분 부터 익일 12시 30분, 익일 12시 30분 부터 01시 까지, 현재 EBS 플러스 1 방송대역)
+  - [1998년](../Page/1998년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") (구) EBS 위성 1TV 재방송 변경(월요일 \~ 금요일 밤 10시 50분 부터 익일 12시 30분, 익일 12시 40분 부터 01시 10분 까지, 현재 EBS 플러스 1 방송대역)
+  - [1998년](../Page/1998년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") : 《TV 방송대학》방송시간 변경 (월요일 - 금요일 밤 12시 40분 \~ 1시 10분, 토요일 밤 12시 30분 \~ 1시 까지, 일요일 밤 11시 30분 \~ 1시 까지, 현재 방송대학TV 프로그램)
+  - [1999년](../Page/1999년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") : 낮 12시부터 3시 30분까지 공휴일 낮 방송 개시
+  - [1999년](../Page/1999년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : (구) EBS 위성 2TV 재송신 종료(월요일 \~ 토요일 오전 9시 \~ 낮 12시, 현재 EBS 플러스 2 방송대역)
+  - [1999년](../Page/1999년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : 공휴일 오전 방송 시작을 오전 9시에서 6시로 변경
+  - [1999년](../Page/1999년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : 평일 오전 방송 시작을 아침 6시로 변경, 평일 오전 방송 2시간 축소, [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") (구) EBS 위성 1TV 재방송 변경(월요일 \~ 금요일 밤 11시 20분 부터 익일 12시 10분, 익일 12시 20분 부터 01시 10분 까지, 현재 EBS 플러스 1 방송대역)
+  - [1999년](../Page/1999년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") : 토요일 오전 방송 시작을 오전 9시에서 6시로 변경, 토요일 낮 12시부터 3시 30분까지 토요일 낮 방송 개시
+  - [1999년](../Page/1999년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink") : 일요일 방송 시작을 오전 7시에서 6시로 변경
+  - [1999년](../Page/1999년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") : 평일 아침 방송을 아침 10시 40분까지로 40분 환원
+  - [1999년](../Page/1999년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") : [겨울방학](https://ko.wikipedia.org/wiki/겨울방학 "wikilink") 기간 동안 아침 6시부터 낮 11시 25분까지 환원
+  - [1999년](../Page/1999년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") : 금요일 오전 방송을 낮 12시 15분까지로 1시간 35분 환원
 
 ### 2000년대
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : 월요일 \~ 목요일 오전 방송 25분 축소, 수능특강 (구) EBS 위성 1TV 재방송 변경(월요일 \~ 금요일 밤 11시 25분 부터 익일 12시 15분, 익일 12시 20분 부터 01시 10분 까지, 현재 EBS 플러스 1 방송대역)
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") : 금요일 오전 방송 1시간 15분 축소
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") : [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink") 설립
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") : 《[희망풍경](../Page/희망풍경.md "wikilink")》 방송 개시
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 수능특강 (구) EBS 위성 1TV 재방송 변경(월요일 \~ 금요일 밤 11시 30분 부터 익일 12시 20분, 익일 12시 20분 부터 01시 10분 까지, 현재 EBS 플러스 1 방송대역)
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") : 평일 오전 방송을 낮 12시까지로 1시간 환원
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") : 지상파 디지털 TV 방송 개국
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 7월 : [파워배틀 와치카](../Page/파워배틀_와치카.md "wikilink") (EBS TV, [EBS 플러스 1](https://ko.wikipedia.org/wiki/EBS_플러스_1 "wikilink"))
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") : 《[EBS 교육문화뉴스](../Page/EBS_교육문화뉴스.md "wikilink")》 종영
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") : 《EBS 현장리포트》 방송 개시
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") : 수능특강 EBS 플러스 1TV 재방송 종료(월요일 \~ 금요일 밤 11시 30분 부터 익일 12시 20분, 익일 12시 20분 부터 01시 10분 까지, 현재 EBS 플러스 1 방송대역)
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") : 《EBS 현장리포트》 종영
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") : 낮 12시부터 3시 30분까지 평일 낮 방송 개시
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") : 《[명의](../Page/명의.md "wikilink")》 방송 개시
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink") : [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")의 보도권 복권에 따라 《[EBS 정보마당](https://ko.wikipedia.org/wiki/EBS_정보마당 "wikilink")》 방송 개시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") : 《[EBS 정보마당](https://ko.wikipedia.org/wiki/EBS_정보마당 "wikilink")》이 《[EBS 저녁뉴스](../Page/EBS_저녁뉴스.md "wikilink")》로 개편, 《[다큐 프라임](https://ko.wikipedia.org/wiki/다큐_프라임 "wikilink")》 (현 [EBS 다큐프라임](../Page/EBS_다큐프라임.md "wikilink")) 방송 개시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") : 《[극한 직업](https://ko.wikipedia.org/wiki/극한_직업 "wikilink")》 방송 개시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") : 《[원더풀 사이언스](https://ko.wikipedia.org/wiki/원더풀_사이언스 "wikilink")》 방송 개시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 12월 : [IPTV](../Page/IPTV.md "wikilink")를 통한 EBS TV 실시간 방송 개시
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") : 《[한국기행](../Page/한국기행.md "wikilink")》 방송 개시
+  - [2000년](../Page/2000년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 월요일 \~ 목요일 오전 방송 25분 축소, 수능특강 (구) EBS 위성 1TV 재방송 변경(월요일 \~ 금요일 밤 11시 25분 부터 익일 12시 15분, 익일 12시 20분 부터 01시 10분 까지, 현재 EBS 플러스 1 방송대역)
+  - [2000년](../Page/2000년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 금요일 오전 방송 1시간 15분 축소
+  - [2000년](../Page/2000년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") : [한국교육방송공사](../Page/한국교육방송공사.md "wikilink") 설립
+  - [2000년](../Page/2000년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") : 《[희망풍경](../Page/희망풍경.md "wikilink")》 방송 개시
+  - [2001년](../Page/2001년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 수능특강 (구) EBS 위성 1TV 재방송 변경(월요일 \~ 금요일 밤 11시 30분 부터 익일 12시 20분, 익일 12시 20분 부터 01시 10분 까지, 현재 EBS 플러스 1 방송대역)
+  - [2001년](../Page/2001년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") : 평일 오전 방송을 낮 12시까지로 1시간 환원
+  - [2001년](../Page/2001년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") : 지상파 디지털 TV 방송 개국
+  - [2002년](../Page/2002년.md "wikilink") 7월 : [파워배틀 와치카](../Page/파워배틀_와치카.md "wikilink") (EBS TV, [EBS 플러스 1](../Page/EBS_플러스_1.md "wikilink"))
+  - [2003년](../Page/2003년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") : 《[EBS 교육문화뉴스](../Page/EBS_교육문화뉴스.md "wikilink")》 종영
+  - [2003년](../Page/2003년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") : 《EBS 현장리포트》 방송 개시
+  - [2003년](../Page/2003년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") : 수능특강 EBS 플러스 1TV 재방송 종료(월요일 \~ 금요일 밤 11시 30분 부터 익일 12시 20분, 익일 12시 20분 부터 01시 10분 까지, 현재 EBS 플러스 1 방송대역)
+  - [2004년](../Page/2004년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 《EBS 현장리포트》 종영
+  - [2005년](../Page/2005년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 낮 12시부터 3시 30분까지 평일 낮 방송 개시
+  - [2007년](../Page/2007년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : 《[명의](../Page/명의.md "wikilink")》 방송 개시
+  - [2007년](../Page/2007년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") : [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")의 보도권 복권에 따라 《[EBS 정보마당](https://ko.wikipedia.org/wiki/EBS_정보마당 "wikilink")》 방송 개시
+  - [2008년](../Page/2008년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : 《[EBS 정보마당](https://ko.wikipedia.org/wiki/EBS_정보마당 "wikilink")》이 《[EBS 저녁뉴스](../Page/EBS_저녁뉴스.md "wikilink")》로 개편, 《[다큐 프라임](https://ko.wikipedia.org/wiki/다큐_프라임 "wikilink")》 (현 [EBS 다큐프라임](../Page/EBS_다큐프라임.md "wikilink")) 방송 개시
+  - [2008년](../Page/2008년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 《[극한 직업](../Page/극한_직업.md "wikilink")》 방송 개시
+  - [2008년](../Page/2008년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") : 《[원더풀 사이언스](https://ko.wikipedia.org/wiki/원더풀_사이언스 "wikilink")》 방송 개시
+  - [2008년](../Page/2008년.md "wikilink") 12월 : [IPTV](../Page/IPTV.md "wikilink")를 통한 EBS TV 실시간 방송 개시
+  - [2009년](../Page/2009년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") : 《[한국기행](../Page/한국기행.md "wikilink")》 방송 개시
 
 ### 2010년대
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") : 《바둑교실》 (EBS TV) 마지막 방송
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") : 《[EBS 10시 뉴스](https://ko.wikipedia.org/wiki/EBS_10시_뉴스 "wikilink")》 방송 개시
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") : [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [울진군](https://ko.wikipedia.org/wiki/울진군 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") : 《[나눔 0700](../Page/나눔_0700.md "wikilink")》 방송 개시
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") : [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [강진군](https://ko.wikipedia.org/wiki/강진군 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 3일](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") : [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [단양군](https://ko.wikipedia.org/wiki/단양군 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : 《[EBS 10시 뉴스](https://ko.wikipedia.org/wiki/EBS_10시_뉴스 "wikilink")》를 《[EBS 정오뉴스](../Page/EBS_정오뉴스.md "wikilink")》로 명칭 변경
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink") : [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") : 《[원더풀 사이언스](https://ko.wikipedia.org/wiki/원더풀_사이언스 "wikilink")》 3년 만에 종영
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") : 《[글로벌 프로젝트 나눔](../Page/글로벌_프로젝트_나눔.md "wikilink")》 방송 개시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink") : [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink") : [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") : [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 9일](https://ko.wikipedia.org/wiki/10월_9일 "wikilink") : [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") : [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink"), [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink"), [세종특별자치시](../Page/세종특별자치시.md "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") : [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") : [강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink") : 평일 방송을 오전 2시 20분까지 확대
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") : [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink") : [대구광역시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink"), [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 지상파 아날로그 TV 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") : 방송 시작을 아침 6시에서 새벽 5시로 변경
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") : 월요일 방송 5분 축소
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") : 화요일 방송 5분 축소
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") : 목요일 방송을 20분 축소
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : [수도권](https://ko.wikipedia.org/wiki/수도권 "wikilink") 지상파 아날로그TV 방송 종료
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") : 월요일 방송 15분 축소
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 화요일 방송 10분 축소
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") : 수요일 방송 30분 축소
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : 목요일 방송 25분 축소
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 27일](https://ko.wikipedia.org/wiki/5월_27일 "wikilink") : 월요일 방송 5분 축소
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink") : 《[금요극장](../Page/EBS_금요극장.md "wikilink")》 폐지
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") : 《[장수의 비밀](../Page/장수의_비밀.md "wikilink")》 방송 개시
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") : 화요일 방송을 새벽 2시 40분까지 확대
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") : 목요일 방송 10분 축소
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") : 지상파 디지털 TV 방송 채널 재배치
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") : 화요일 방송 20분 축소
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 수요일 방송 10분 축소
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") : 목요일 방송 5분 축소
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : 금요일 방송을 오전 2시 15분까지 확대
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") : 《[다큐 오늘](../Page/다큐_오늘.md "wikilink")》 방송 개시
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") : 월요일 방송 25분 축소
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") : 화요일 방송을 새벽 3시까지 확대
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink") : 수요일 방송을 새벽 2시 10분까지 확대
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") : 목요일 방송을 새벽 2시까지 확대
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") : 금요일 방송을 새벽 2시 45분까지 확대
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") : [EBS 2TV](../Page/EBS_2TV.md "wikilink")\[1\] 방송 개시에 따라서 본 채널명을 **EBS 1TV**로 변경. ([2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") \~ [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") - 시험방송)
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") : EBS TV 2015년 봄개편
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") : 월요일 방송을 새벽 5시부터 밤 1시 55분 확대
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink") : 금요일 방송 15분 축소
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") : 일요일 방송을 오전 2시까지 확대
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") : EBS TV 2015년 가을개편
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") : 《[글로벌 아빠 찾아 삼만리](../Page/글로벌_아빠_찾아_삼만리.md "wikilink")》 방송 개시
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") : 《[세상에 나쁜 개는 없다](../Page/세상에_나쁜_개는_없다.md "wikilink")》 방송 개시
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") : 금요일 방송을 새벽 1시 45분까지 확대
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 7일](https://ko.wikipedia.org/wiki/11월_7일 "wikilink") : 《[세계견문록 아틀라스](https://ko.wikipedia.org/wiki/세계견문록_아틀라스 "wikilink")》 종영
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") : 《[장학퀴즈](../Page/장학퀴즈.md "wikilink")》 종영
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 29일](https://ko.wikipedia.org/wiki/2월_29일 "wikilink") : EBS TV 2016년 봄개편
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : 금요일 방송 10분 축소
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 16일](https://ko.wikipedia.org/wiki/4월_16일 "wikilink") : 《[장학퀴즈 가다](../Page/장학퀴즈.md "wikilink")-학교에》 방송 개시
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") : EBS 국제다큐영화제 방송을 오전 2시 5분까지 확대
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") : EBS TV 2016년 가을개편
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink") : 토요일 방송을 오전 2시 10분까지 확대
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") : 《[다큐 오늘](../Page/다큐_오늘.md "wikilink")》 3년만에 종영
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") : 《[고전영화극장](../Page/고전영화극장.md "wikilink")》 폐지
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") : EBS TV 2017년 봄개편
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") : 월요일 방송을 새벽 5시부터 새벽 1시 40분까지 축소
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : 화요일 방송을 오전 2시 30분까지 확대
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") : 수요일 방송을 새벽 5시부터 새벽 1시 25분까지 축소
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") : 《[금쪽같은 내 새끼랑](../Page/금쪽같은_내_새끼랑.md "wikilink")》 방송 개시
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") : 목요일 방송을 오전 2시 20분까지 확대
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") : 금요일 방송을 오전 2시 25분까지 확대
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : 토요일 방송을 새벽 3시로 50분 확대
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink") : 일요일 방송을 오전 2시 25분까지 확대
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 10일](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") : 《[하나뿐인 지구](../Page/하나뿐인_지구.md "wikilink")》 종영
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink") : 《[다큐 시선](../Page/다큐_시선.md "wikilink")》, 《[성난 물고기](../Page/성난_물고기.md "wikilink")》 방송 개시
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 29일](https://ko.wikipedia.org/wiki/4월_29일 "wikilink") : 토요일 방송을 오전 3시 5분까지 확대
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") : 《[이것이 야생이다](https://ko.wikipedia.org/wiki/이것이_야생이다 "wikilink")》 방송 개시
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") : 일요일 방송 30분 축소
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") : 우면동, 도곡동 시대를 마감하고 신청사 이전(서울특별시 서초구 우면동 → 서울특별시 강남구 도곡동 → 경기도 고양시 일산동구 장항동 한류월드 신사옥 이전)
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") : 우면동, 도곡동 사옥 시대 정비기간 마감
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") : 경기도 고양시 일산동구 장항1동 신사옥에서 [EBS 정오뉴스](../Page/EBS_정오뉴스.md "wikilink"), [EBS 저녁뉴스](../Page/EBS_저녁뉴스.md "wikilink") 방송을 전파로 송출
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 7일](https://ko.wikipedia.org/wiki/8월_7일 "wikilink"): 우면동, 도곡동 시대를 마감하고 방송사 신청사 이전 준공(서울특별시 서초구 우면동 → 서울특별시 강남구 도곡동 → 경기도 고양시 일산동구 장항동 한류월드 신사옥 이전 준공)
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") : 《[금쪽같은 내 새끼랑](../Page/금쪽같은_내_새끼랑.md "wikilink")》 종영
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") : 《[다큐 오늘](../Page/다큐_오늘.md "wikilink")》 방송 재개
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") : 수요일 방송을 새벽 5시부터 새벽 1시 20분까지 축소
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") : [매직 아이스크림 트럭](https://ko.wikipedia.org/wiki/Magic_Ice_Cream_Truck "wikilink") 방송 채널 및 방송 시간대 변경
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") : [추석](../Page/추석.md "wikilink") 방송을 55분 축소
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") : [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 방송을 새벽 2시 35분까지 25분 확대
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") : [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 방송을 새벽 3시 5분까지 30분 확대
+  - [2010년](../Page/2010년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") : 《바둑교실》 (EBS TV) 마지막 방송
+  - [2010년](../Page/2010년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") : 《[EBS 10시 뉴스](https://ko.wikipedia.org/wiki/EBS_10시_뉴스 "wikilink")》 방송 개시
+  - [2010년](../Page/2010년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") : [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [울진군](../Page/울진군.md "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2010년](../Page/2010년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") : 《[나눔 0700](../Page/나눔_0700.md "wikilink")》 방송 개시
+  - [2010년](../Page/2010년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") : [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [강진군](../Page/강진군.md "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2010년](../Page/2010년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink") : [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [단양군](../Page/단양군.md "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2011년](../Page/2011년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 《[EBS 10시 뉴스](https://ko.wikipedia.org/wiki/EBS_10시_뉴스 "wikilink")》를 《[EBS 정오뉴스](../Page/EBS_정오뉴스.md "wikilink")》로 명칭 변경
+  - [2011년](../Page/2011년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") : [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2011년](../Page/2011년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") : 《[원더풀 사이언스](https://ko.wikipedia.org/wiki/원더풀_사이언스 "wikilink")》 3년 만에 종영
+  - [2012년](../Page/2012년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 《[글로벌 프로젝트 나눔](../Page/글로벌_프로젝트_나눔.md "wikilink")》 방송 개시
+  - [2012년](../Page/2012년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") : [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") : [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") : [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink") : [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") : [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink"), [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink"), [세종특별자치시](../Page/세종특별자치시.md "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") : [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") : [강원도](../Page/강원도.md "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") : 평일 방송을 오전 2시 20분까지 확대
+  - [2012년](../Page/2012년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") : [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") : [대구광역시](../Page/대구광역시.md "wikilink"), [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 지상파 아날로그 TV 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") : 방송 시작을 아침 6시에서 새벽 5시로 변경
+  - [2012년](../Page/2012년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") : 월요일 방송 5분 축소
+  - [2012년](../Page/2012년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") : 화요일 방송 5분 축소
+  - [2012년](../Page/2012년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") : 목요일 방송을 20분 축소
+  - [2012년](../Page/2012년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : [수도권](../Page/수도권.md "wikilink") 지상파 아날로그TV 방송 종료
+  - [2013년](../Page/2013년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : 월요일 방송 15분 축소
+  - [2013년](../Page/2013년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 화요일 방송 10분 축소
+  - [2013년](../Page/2013년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 수요일 방송 30분 축소
+  - [2013년](../Page/2013년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 목요일 방송 25분 축소
+  - [2013년](../Page/2013년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") : 월요일 방송 5분 축소
+  - [2013년](../Page/2013년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") : 《[금요극장](../Page/EBS_금요극장.md "wikilink")》 폐지
+  - [2013년](../Page/2013년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") : 《[장수의 비밀](../Page/장수의_비밀.md "wikilink")》 방송 개시
+  - [2013년](../Page/2013년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") : 화요일 방송을 새벽 2시 40분까지 확대
+  - [2013년](../Page/2013년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") : 목요일 방송 10분 축소
+  - [2013년](../Page/2013년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") : 지상파 디지털 TV 방송 채널 재배치
+  - [2014년](../Page/2014년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : 화요일 방송 20분 축소
+  - [2014년](../Page/2014년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 수요일 방송 10분 축소
+  - [2014년](../Page/2014년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 목요일 방송 5분 축소
+  - [2014년](../Page/2014년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 금요일 방송을 오전 2시 15분까지 확대
+  - [2014년](../Page/2014년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 《[다큐 오늘](../Page/다큐_오늘.md "wikilink")》 방송 개시
+  - [2014년](../Page/2014년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") : 월요일 방송 25분 축소
+  - [2014년](../Page/2014년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") : 화요일 방송을 새벽 3시까지 확대
+  - [2014년](../Page/2014년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") : 수요일 방송을 새벽 2시 10분까지 확대
+  - [2014년](../Page/2014년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") : 목요일 방송을 새벽 2시까지 확대
+  - [2014년](../Page/2014년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") : 금요일 방송을 새벽 2시 45분까지 확대
+  - [2015년](../Page/2015년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") : [EBS 2TV](../Page/EBS_2TV.md "wikilink")\[1\] 방송 개시에 따라서 본 채널명을 **EBS 1TV**로 변경. ([2월 6일](../Page/2월_6일.md "wikilink") \~ [2월 11일](../Page/2월_11일.md "wikilink") - 시험방송)
+  - [2015년](../Page/2015년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : EBS TV 2015년 봄개편
+  - [2015년](../Page/2015년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : 월요일 방송을 새벽 5시부터 밤 1시 55분 확대
+  - [2015년](../Page/2015년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") : 금요일 방송 15분 축소
+  - [2015년](../Page/2015년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") : 일요일 방송을 오전 2시까지 확대
+  - [2015년](../Page/2015년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") : EBS TV 2015년 가을개편
+  - [2015년](../Page/2015년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") : 《[글로벌 아빠 찾아 삼만리](../Page/글로벌_아빠_찾아_삼만리.md "wikilink")》 방송 개시
+  - [2015년](../Page/2015년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") : 《[세상에 나쁜 개는 없다](../Page/세상에_나쁜_개는_없다.md "wikilink")》 방송 개시
+  - [2015년](../Page/2015년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") : 금요일 방송을 새벽 1시 45분까지 확대
+  - [2015년](../Page/2015년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") : 《[세계견문록 아틀라스](https://ko.wikipedia.org/wiki/세계견문록_아틀라스 "wikilink")》 종영
+  - [2016년](../Page/2016년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 《[장학퀴즈](../Page/장학퀴즈.md "wikilink")》 종영
+  - [2016년](../Page/2016년.md "wikilink") [2월 29일](../Page/2월_29일.md "wikilink") : EBS TV 2016년 봄개편
+  - [2016년](../Page/2016년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : 금요일 방송 10분 축소
+  - [2016년](../Page/2016년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") : 《[장학퀴즈 가다](../Page/장학퀴즈.md "wikilink")-학교에》 방송 개시
+  - [2016년](../Page/2016년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") : EBS 국제다큐영화제 방송을 오전 2시 5분까지 확대
+  - [2016년](../Page/2016년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") : EBS TV 2016년 가을개편
+  - [2016년](../Page/2016년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") : 토요일 방송을 오전 2시 10분까지 확대
+  - [2017년](../Page/2017년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") : 《[다큐 오늘](../Page/다큐_오늘.md "wikilink")》 3년만에 종영
+  - [2017년](../Page/2017년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") : 《[고전영화극장](../Page/고전영화극장.md "wikilink")》 폐지
+  - [2017년](../Page/2017년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : EBS TV 2017년 봄개편
+  - [2017년](../Page/2017년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 월요일 방송을 새벽 5시부터 새벽 1시 40분까지 축소
+  - [2017년](../Page/2017년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 화요일 방송을 오전 2시 30분까지 확대
+  - [2017년](../Page/2017년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : 수요일 방송을 새벽 5시부터 새벽 1시 25분까지 축소
+  - [2017년](../Page/2017년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : 《[금쪽같은 내 새끼랑](../Page/금쪽같은_내_새끼랑.md "wikilink")》 방송 개시
+  - [2017년](../Page/2017년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : 목요일 방송을 오전 2시 20분까지 확대
+  - [2017년](../Page/2017년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 금요일 방송을 오전 2시 25분까지 확대
+  - [2017년](../Page/2017년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : 토요일 방송을 새벽 3시로 50분 확대
+  - [2017년](../Page/2017년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") : 일요일 방송을 오전 2시 25분까지 확대
+  - [2017년](../Page/2017년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") : 《[하나뿐인 지구](../Page/하나뿐인_지구.md "wikilink")》 종영
+  - [2017년](../Page/2017년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink") : 《[다큐 시선](../Page/다큐_시선.md "wikilink")》, 《[성난 물고기](../Page/성난_물고기.md "wikilink")》 방송 개시
+  - [2017년](../Page/2017년.md "wikilink") [4월 29일](../Page/4월_29일.md "wikilink") : 토요일 방송을 오전 3시 5분까지 확대
+  - [2017년](../Page/2017년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") : 《[이것이 야생이다](https://ko.wikipedia.org/wiki/이것이_야생이다 "wikilink")》 방송 개시
+  - [2017년](../Page/2017년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") : 일요일 방송 30분 축소
+  - [2017년](../Page/2017년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") : 우면동, 도곡동 시대를 마감하고 신청사 이전(서울특별시 서초구 우면동 → 서울특별시 강남구 도곡동 → 경기도 고양시 일산동구 장항동 한류월드 신사옥 이전)
+  - [2017년](../Page/2017년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") : 우면동, 도곡동 사옥 시대 정비기간 마감
+  - [2017년](../Page/2017년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 경기도 고양시 일산동구 장항1동 신사옥에서 [EBS 정오뉴스](../Page/EBS_정오뉴스.md "wikilink"), [EBS 저녁뉴스](../Page/EBS_저녁뉴스.md "wikilink") 방송을 전파로 송출
+  - [2017년](../Page/2017년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink"): 우면동, 도곡동 시대를 마감하고 방송사 신청사 이전 준공(서울특별시 서초구 우면동 → 서울특별시 강남구 도곡동 → 경기도 고양시 일산동구 장항동 한류월드 신사옥 이전 준공)
+  - [2017년](../Page/2017년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") : 《[금쪽같은 내 새끼랑](../Page/금쪽같은_내_새끼랑.md "wikilink")》 종영
+  - [2017년](../Page/2017년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") : 《[다큐 오늘](../Page/다큐_오늘.md "wikilink")》 방송 재개
+  - [2017년](../Page/2017년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") : 수요일 방송을 새벽 5시부터 새벽 1시 20분까지 축소
+  - [2017년](../Page/2017년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") : [매직 아이스크림 트럭](https://ko.wikipedia.org/wiki/Magic_Ice_Cream_Truck "wikilink") 방송 채널 및 방송 시간대 변경
+  - [2017년](../Page/2017년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") : [추석](../Page/추석.md "wikilink") 방송을 55분 축소
+  - [2017년](../Page/2017년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") : [토요일](../Page/토요일.md "wikilink") 방송을 새벽 2시 35분까지 25분 확대
+  - [2017년](../Page/2017년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") : [일요일](../Page/일요일.md "wikilink") 방송을 새벽 3시 5분까지 30분 확대
 
 ## 방송 송출 시설망
 
@@ -185,7 +185,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 
 ## 프로그램 제작
 
-방송 초기에는 고교생 이하 연령층을 대상으로 한 과목별 방송교육 프로그램을 중점적으로 제작하여 방송해 왔으나 EBS 위성 1TV(현 EBS 플러스 1)의 재전송의 교과프로그램을 편성해 왔으며 이러한 기능들은 이후 [EBS 플러스 1과](https://ko.wikipedia.org/wiki/EBS_플러스_1 "wikilink") [EBS 플러스 2](https://ko.wikipedia.org/wiki/EBS_플러스_2 "wikilink") 등으로 많이 옮겨졌으며, 현재는 유년층과 성인층을 대상으로 한 프로그램이나 문화, 교양 프로그램 등을 중점적으로 제작하여 방송하고 있다.
+방송 초기에는 고교생 이하 연령층을 대상으로 한 과목별 방송교육 프로그램을 중점적으로 제작하여 방송해 왔으나 EBS 위성 1TV(현 EBS 플러스 1)의 재전송의 교과프로그램을 편성해 왔으며 이러한 기능들은 이후 [EBS 플러스 1과](../Page/EBS_플러스_1.md "wikilink") [EBS 플러스 2](../Page/EBS_플러스_2.md "wikilink") 등으로 많이 옮겨졌으며, 현재는 유년층과 성인층을 대상으로 한 프로그램이나 문화, 교양 프로그램 등을 중점적으로 제작하여 방송하고 있다.
 
 ## 방송 프로그램
 
@@ -221,8 +221,8 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 
 #### 유아 · 어린이
 
-  - [방귀대장 뿡뿡이](https://ko.wikipedia.org/wiki/방귀대장_뿡뿡이 "wikilink")
-  - [딩동댕 유치원](https://ko.wikipedia.org/wiki/딩동댕_유치원 "wikilink")
+  - [방귀대장 뿡뿡이](../Page/방귀대장_뿡뿡이.md "wikilink")
+  - [딩동댕 유치원](../Page/딩동댕_유치원.md "wikilink")
       - [딩동댕 친구들 - 장난감의 비밀](https://ko.wikipedia.org/wiki/딩동댕_친구들_-_장난감의_비밀 "wikilink")
       - [뭐든지 뮤직박스](https://ko.wikipedia.org/wiki/뭐든지_뮤직박스 "wikilink")
   - [자이언트 펭TV](https://ko.wikipedia.org/wiki/자이언트_펭TV "wikilink")
@@ -233,24 +233,24 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 #### 교양 · 교육 · 다큐 · 요리
 
   - [EBS 초대석](../Page/EBS_초대석.md "wikilink")
-  - [극한 직업](https://ko.wikipedia.org/wiki/극한_직업 "wikilink")
+  - [극한 직업](../Page/극한_직업.md "wikilink")
   - [고양이를 부탁해](../Page/고양이를_부탁해_\(텔레비전_프로그램\).md "wikilink")
   - [다큐영화 길 위의 인생](../Page/다큐영화_길_위의_인생.md "wikilink")
   - [예술교육다큐-아티스트](https://ko.wikipedia.org/wiki/예술교육다큐-아티스트 "wikilink")
   - [나눔 0700](../Page/나눔_0700.md "wikilink")
   - [다문화 고부열전](https://ko.wikipedia.org/wiki/다문화_고부열전 "wikilink")
   - [세계견문록 아틀라스](https://ko.wikipedia.org/wiki/세계견문록_아틀라스 "wikilink")
-  - [미래교육 플러스](https://ko.wikipedia.org/wiki/미래교육_플러스 "wikilink")
-  - [기획특강 - 지식의 기쁨](https://ko.wikipedia.org/wiki/기획특강_-_지식의_기쁨 "wikilink")
+  - [미래교육 플러스](../Page/미래교육_플러스.md "wikilink")
+  - [기획특강 - 지식의 기쁨](../Page/기획특강_-_지식의_기쁨.md "wikilink")
   - [야옹멍멍 귀여워 2](../Page/야옹멍멍_귀여워.md "wikilink")
-  - [건축탐구 - 집](https://ko.wikipedia.org/wiki/건축탐구_-_집 "wikilink")
+  - [건축탐구 - 집](../Page/건축탐구_-_집.md "wikilink")
   - [지식채널e](../Page/지식채널e.md "wikilink")
   - [최고의 요리비결](https://ko.wikipedia.org/wiki/최고의_요리비결 "wikilink")
   - [명의](../Page/명의.md "wikilink")
   - [세상에 나쁜 개는 없다](../Page/세상에_나쁜_개는_없다.md "wikilink")
   - [싱어즈](https://ko.wikipedia.org/wiki/싱어즈 "wikilink")
   - [다큐 시선](../Page/다큐_시선.md "wikilink")
-  - [세계테마기행](https://ko.wikipedia.org/wiki/세계테마기행 "wikilink")
+  - [세계테마기행](../Page/세계테마기행.md "wikilink")
   - [지식채널e](../Page/지식채널e.md "wikilink")
   - [한국기행](../Page/한국기행.md "wikilink")
   - [EBS 다큐프라임](../Page/EBS_다큐프라임.md "wikilink")
@@ -270,7 +270,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [엄마 까투리](../Page/엄마_까투리.md "wikilink")
   - [올리 앤 문](https://ko.wikipedia.org/wiki/올리_앤_문 "wikilink")
   - [로보카 폴리](../Page/로보카_폴리.md "wikilink")
-  - [뽀롱뽀롱 뽀로로](https://ko.wikipedia.org/wiki/뽀롱뽀롱_뽀로로 "wikilink")
+  - [뽀롱뽀롱 뽀로로](../Page/뽀롱뽀롱_뽀로로.md "wikilink")
   - [출동\! 슈퍼윙스](../Page/출동!_슈퍼윙스.md "wikilink")
   - [페파 피그](https://ko.wikipedia.org/wiki/페파피그 "wikilink")
   - [트리푸톰](https://ko.wikipedia.org/wiki/트리푸톰 "wikilink")
@@ -289,7 +289,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 #### 오락 · 예능
 
   - [최종면접 시즌2](../Page/최종면접.md "wikilink")
-  - [로봇파워](https://ko.wikipedia.org/wiki/로봇파워 "wikilink")
+  - [로봇파워](../Page/로봇파워.md "wikilink")
   - [EBS 로봇X드론 챌린지](https://ko.wikipedia.org/wiki/EBS_로봇X드론_챌린지 "wikilink")
   - [과학실험 사이펀](https://ko.wikipedia.org/wiki/과학실험_사이펀 "wikilink")
   - [과학실험 하와이](https://ko.wikipedia.org/wiki/과학실험_하와이 "wikilink")
@@ -326,13 +326,13 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [미래를 보는 소년](https://ko.wikipedia.org/wiki/미래를_보는_소년 "wikilink")
   - [밴드 오브 브라더스](../Page/밴드_오브_브라더스.md "wikilink")
   - [별들의 합창](https://ko.wikipedia.org/wiki/별들의_합창 "wikilink")
-  - [비밀의 교정](https://ko.wikipedia.org/wiki/비밀의_교정 "wikilink")
+  - [비밀의 교정](../Page/비밀의_교정.md "wikilink")
   - [어린이 모험극 스파크](../Page/어린이_모험극_스파크.md "wikilink")
   - [언제나 푸른마음](../Page/언제나_푸른마음.md "wikilink")
   - [영혼의 전사들](https://ko.wikipedia.org/wiki/영혼의_전사들 "wikilink")
   - [우리들의 이야기 극장](https://ko.wikipedia.org/wiki/우리들의_이야기_극장 "wikilink")
   - [점프](https://ko.wikipedia.org/wiki/점프_\(드라마\) "wikilink")
-  - [지금도 마로니에는](https://ko.wikipedia.org/wiki/지금도_마로니에는 "wikilink")
+  - [지금도 마로니에는](../Page/지금도_마로니에는.md "wikilink")
   - [초등 사회-컴키드 지니](https://ko.wikipedia.org/wiki/초등_사회-컴키드_지니 "wikilink")
   - [춤추는 소녀 와와](../Page/춤추는_소녀_와와.md "wikilink")
   - [테일러는 12살](../Page/테일러는_12살.md "wikilink")
@@ -590,7 +590,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [학교밖 미술여행](https://ko.wikipedia.org/wiki/학교밖_미술여행 "wikilink")
   - [하늘에서 본 한반도](https://ko.wikipedia.org/wiki/하늘에서_본_한반도 "wikilink")
   - [행복한 교육세상](../Page/행복한_교육세상.md "wikilink")
-  - [한반도의 매머드](https://ko.wikipedia.org/wiki/한반도의_매머드 "wikilink")
+  - [한반도의 매머드](../Page/한반도의_매머드.md "wikilink")
   - [화제의 인물](https://ko.wikipedia.org/wiki/화제의_인물 "wikilink")
   - [효도우미 0700](../Page/효도우미_0700.md "wikilink")
   - [Hello 안녕하세요](https://ko.wikipedia.org/wiki/Hello_안녕하세요 "wikilink")
@@ -692,7 +692,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [꼬마 철학자 휴고](https://ko.wikipedia.org/wiki/꼬마_철학자_휴고 "wikilink")
   - [꼬마자동차 붕붕](../Page/꼬마자동차_붕붕.md "wikilink")
   - [꼬마잠수함 올리](https://ko.wikipedia.org/wiki/꼬마잠수함_올리 "wikilink")
-  - [꼬마 펭귄 핑구](https://ko.wikipedia.org/wiki/핑구 "wikilink")
+  - [꼬마 펭귄 핑구](../Page/핑구.md "wikilink")
   - [구두신고 꼬까꼬까](https://ko.wikipedia.org/wiki/구두신고_꼬까꼬까 "wikilink")
   - [궁금해요 핑퐁](https://ko.wikipedia.org/wiki/궁금해요_핑퐁 "wikilink")
   - [꾸러기 상상여행](https://ko.wikipedia.org/wiki/꾸러기_상상여행 "wikilink")
@@ -726,7 +726,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [로저의 단짝친구들](https://ko.wikipedia.org/wiki/로저의_단짝친구들 "wikilink")
   - [로켓파워](https://ko.wikipedia.org/wiki/로켓파워 "wikilink")
   - [리아의 수학놀이](https://ko.wikipedia.org/wiki/리아의_수학놀이 "wikilink")
-  - [레온](https://ko.wikipedia.org/wiki/레온 "wikilink")
+  - [레온](../Page/레온.md "wikilink")
   - [레이의 우주대모험](https://ko.wikipedia.org/wiki/레이의_우주대모험 "wikilink")
   - [리틀 아인슈타인](https://ko.wikipedia.org/wiki/리틀_아인슈타인 "wikilink")
   - [리틀피틀](https://ko.wikipedia.org/wiki/리틀피틀 "wikilink")
@@ -746,7 +746,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [못말리는 어린양 숀](../Page/못말리는_어린양_숀.md "wikilink")
   - [몽실몽실 동물마을](https://ko.wikipedia.org/wiki/몽실몽실_동물마을 "wikilink")
   - [미라벨의 동물극장](https://ko.wikipedia.org/wiki/미라벨의_동물극장 "wikilink")
-  - [미래소년 코난](https://ko.wikipedia.org/wiki/미래소년_코난 "wikilink")
+  - [미래소년 코난](../Page/미래소년_코난.md "wikilink")
   - [미술 탐험대](https://ko.wikipedia.org/wiki/미술_탐험대 "wikilink")
   - [미라큘러스: 레이디버그와 블랙캣](../Page/미라큘러스:_레이디버그와_블랙캣.md "wikilink")
   - [밀라의 뒤죽박죽 동화여행](https://ko.wikipedia.org/wiki/밀라의_뒤죽박죽_동화여행 "wikilink")
@@ -769,10 +769,10 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [선물공룡 디보](https://ko.wikipedia.org/wiki/선물공룡_디보 "wikilink")
   - [수퍼와이](https://ko.wikipedia.org/wiki/수퍼와이 "wikilink")
   - [수학탐험대](https://ko.wikipedia.org/wiki/수학탐험대 "wikilink")
-  - [패트와 매트](https://ko.wikipedia.org/wiki/패트와_매트 "wikilink")
+  - [패트와 매트](../Page/패트와_매트.md "wikilink")
   - [숲 속 대장 룰루](https://ko.wikipedia.org/wiki/숲_속_대장_룰루 "wikilink")
   - [스톰호크](https://ko.wikipedia.org/wiki/스톰호크 "wikilink")
-  - [시간탐험대](https://ko.wikipedia.org/wiki/시간탐험대 "wikilink")
+  - [시간탐험대](../Page/시간탐험대.md "wikilink")
   - [신기한 스쿨버스](https://ko.wikipedia.org/wiki/신기한_스쿨버스 "wikilink")
   - [신나는 과학 애니메이션 why?](https://ko.wikipedia.org/wiki/신나는_과학_애니메이션_why? "wikilink")
   - [신나는 요정학교](https://ko.wikipedia.org/wiki/신나는_요정학교 "wikilink")
@@ -792,7 +792,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [엔진박사 엔지벤지](https://ko.wikipedia.org/wiki/엔진박사_엔지벤지 "wikilink")
   - [와글와글 친구들](https://ko.wikipedia.org/wiki/와글와글_친구들 "wikilink")
   - [어린 왕자](https://ko.wikipedia.org/wiki/어린_왕자_\(애니메이션\) "wikilink")
-  - [요술공주 샐리](https://ko.wikipedia.org/wiki/요술공주_샐리 "wikilink")
+  - [요술공주 샐리](../Page/요술공주_샐리.md "wikilink")
   - [요절복통 사총사](https://ko.wikipedia.org/wiki/요절복통_사총사 "wikilink")
   - [용용나라로 떠나요](../Page/용용나라로_떠나요.md "wikilink")
   - [으라차차 라차차](https://ko.wikipedia.org/wiki/으라차차_라차차 "wikilink")
@@ -829,14 +829,14 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [리틀피플](https://ko.wikipedia.org/wiki/리틀피플 "wikilink")
   - [쿵쿵짝짝 라라](https://ko.wikipedia.org/wiki/쿵쿵짝짝_라라 "wikilink")
   - [쿵후 스컹크](https://ko.wikipedia.org/wiki/쿵후_스컹크 "wikilink")
-  - [크로스 게임](https://ko.wikipedia.org/wiki/크로스_게임 "wikilink")
+  - [크로스 게임](../Page/크로스_게임.md "wikilink")
   - [클로이의 요술옷장](https://ko.wikipedia.org/wiki/클로이의_요술옷장 "wikilink")
   - [톰소여의 모험](https://ko.wikipedia.org/wiki/톰소여의_모험 "wikilink")
   - [트리푸톰](https://ko.wikipedia.org/wiki/트리푸톰 "wikilink")
   - [특수요원 오소](../Page/특수요원_오소.md "wikilink")
   - [팅가팅가 이야기](https://ko.wikipedia.org/wiki/팅가팅가_이야기 "wikilink")
   - [펫&스탠](https://ko.wikipedia.org/wiki/펫&스탠 "wikilink")
-  - [플랜더스의 개](https://ko.wikipedia.org/wiki/플랜더스의_개 "wikilink")
+  - [플랜더스의 개](../Page/플랜더스의_개.md "wikilink")
   - [피들리팜](https://ko.wikipedia.org/wiki/피들리팜 "wikilink")
   - [피터 래빗](https://ko.wikipedia.org/wiki/피터_래빗 "wikilink")
   - [핑키의 이야기 상자](https://ko.wikipedia.org/wiki/핑키의_이야기_상자 "wikilink")
@@ -850,7 +850,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [그림 그려줘 루이](https://ko.wikipedia.org/wiki/그림_그려줘_루이 "wikilink")
   - [꿀꿀\! 페파는 즐거워](https://ko.wikipedia.org/wiki/꿀꿀!_페파는_즐거워 "wikilink")
   - [놀이터 구조대 뽀잉](https://ko.wikipedia.org/wiki/놀이터_구조대_뽀잉 "wikilink")
-  - [따개비 루](https://ko.wikipedia.org/wiki/따개비_루 "wikilink")
+  - [따개비 루](../Page/따개비_루.md "wikilink")
   - [두다다쿵](../Page/두다다쿵.md "wikilink")
   - [두키 탐험대](https://ko.wikipedia.org/wiki/두키_탐험대 "wikilink")
   - [뚝딱뚝딱 밥 아저씨](https://ko.wikipedia.org/wiki/뚝딱뚝딱_밥_아저씨 "wikilink")
@@ -950,7 +950,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 
 ## 참고 사항
 
-  - 매년 [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [제야의 종](../Page/제야의_종.md "wikilink") 타종 행사에 방송하지 않는다.
+  - 매년 [12월 31일](../Page/12월_31일.md "wikilink") [제야의 종](../Page/제야의_종.md "wikilink") 타종 행사에 방송하지 않는다.
 
 ## 방송 문구 변천사
 
@@ -988,5 +988,5 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 
 1.  [다채널방송 EBS 2TV](http://www.ebs.co.kr/ebs2tv/introduce)
 2.  [다큐프라임](https://ko.wikipedia.org/wiki/다큐프라임 "wikilink")으로 통합되었다.
-3.  과거에는 EBS TV로 방송된적 있으나 현재는 [EBS 플러스 1에서](https://ko.wikipedia.org/wiki/EBS_플러스_1 "wikilink") 방송 중이다.
+3.  과거에는 EBS TV로 방송된적 있으나 현재는 [EBS 플러스 1에서](../Page/EBS_플러스_1.md "wikilink") 방송 중이다.
 4.  [지식채널e](../Page/지식채널e.md "wikilink")랑 같은 형식이나 서로 다른 프로그램이다.

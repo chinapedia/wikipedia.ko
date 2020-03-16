@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [ID\; Peace B \(\)](https://ko.wikipedia.org/wiki/ID\;_Peace_B_\(\)).
 
 
-《**ID; Peace B**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 데뷔 [앨범이다](../Page/음반.md "wikilink"). [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") 발매되었고, 다음해인 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [5월 30일](https://ko.wikipedia.org/wiki/5월_30일 "wikilink") 일본 데뷔 곡이기도 하다. 전 12곡을 수록곡 외에 보너스 컨텐츠 형식으로 SMTOWN 공식 사이트로 자동 접속 기능 탑재하는 등 컴퓨터를 통한 재생을 의식해 제작되고 있다. R\&B, 댄스곡을 기본으로 한 이 앨범은, 영화 《[쉬리](https://ko.wikipedia.org/wiki/쉬리_\(영화\) "wikilink")》의 [강제규](https://ko.wikipedia.org/wiki/강제규 "wikilink") 감독이 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 감독을 담당하였다. 그리고 <ID Peace B>는 일본 싱글 [ID; Peace B (노래)에](../Page/ID;_Peace_B_\(노래\).md "wikilink") 일본어 버전으로 실렸으며 1.5집에 영어와 중국어 버전으로 실렸다. <Sara> (보아가 기르는 고양이 이름이다.) 역시 1.5집에 영어와 중국어 버전으로 실렸다. \<비밀일기 (I'm Sorry)\>도 1.5집에 중국어 버전으로 실렸다. 그리고 마지막 트랙 \<먼 훗날 우리 (Someday, Somewhere)\>는 일본 싱글 2집 [Amazing Kiss에](../Page/Amazing_Kiss.md "wikilink") 일본어 버전으로 수록되었다.
+《**ID; Peace B**》는 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](../Page/보아.md "wikilink")의 데뷔 [앨범이다](../Page/음반.md "wikilink"). [2000년](../Page/2000년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") 발매되었고, 다음해인 [2001년](../Page/2001년.md "wikilink") [5월 30일](../Page/5월_30일.md "wikilink") 일본 데뷔 곡이기도 하다. 전 12곡을 수록곡 외에 보너스 컨텐츠 형식으로 SMTOWN 공식 사이트로 자동 접속 기능 탑재하는 등 컴퓨터를 통한 재생을 의식해 제작되고 있다. R\&B, 댄스곡을 기본으로 한 이 앨범은, 영화 《[쉬리](../Page/쉬리_\(영화\).md "wikilink")》의 [강제규](../Page/강제규.md "wikilink") 감독이 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 감독을 담당하였다. 그리고 <ID Peace B>는 일본 싱글 [ID; Peace B (노래)에](../Page/ID;_Peace_B_\(노래\).md "wikilink") 일본어 버전으로 실렸으며 1.5집에 영어와 중국어 버전으로 실렸다. <Sara> (보아가 기르는 고양이 이름이다.) 역시 1.5집에 영어와 중국어 버전으로 실렸다. \<비밀일기 (I'm Sorry)\>도 1.5집에 중국어 버전으로 실렸다. 그리고 마지막 트랙 \<먼 훗날 우리 (Someday, Somewhere)\>는 일본 싱글 2집 [Amazing Kiss에](../Page/Amazing_Kiss.md "wikilink") 일본어 버전으로 수록되었다.
 
 ## 활동내역
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [9월 13일](https://ko.wikipedia.org/wiki/9월_13일 "wikilink") \~ 2001년 12월 31일 : [SBS](../Page/SBS.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink") VJ로 활동
-  - 2000년 [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink") : [mnet](https://ko.wikipedia.org/wiki/mnet "wikilink") 《2000 M.net Music Video Festival》의 신인 여자 가수 수상
-  - 2000년 [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") : [KMTV](https://ko.wikipedia.org/wiki/KMTV "wikilink") 《2000 KMTV 가요 대전》의 〈여성 신인상〉수상
-  - 2000년 [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") : 공식 팬클럽 〈Jumping BoA〉 1기 창립
+  - [2000년](../Page/2000년.md "wikilink") [9월 13일](../Page/9월_13일.md "wikilink") \~ 2001년 12월 31일 : [SBS](../Page/SBS.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink") VJ로 활동
+  - 2000년 [11월 24일](../Page/11월_24일.md "wikilink") : [mnet](https://ko.wikipedia.org/wiki/mnet "wikilink") 《2000 M.net Music Video Festival》의 신인 여자 가수 수상
+  - 2000년 [12월 13일](../Page/12월_13일.md "wikilink") : [KMTV](https://ko.wikipedia.org/wiki/KMTV "wikilink") 《2000 KMTV 가요 대전》의 〈여성 신인상〉수상
+  - 2000년 [12월 10일](../Page/12월_10일.md "wikilink") : 공식 팬클럽 〈Jumping BoA〉 1기 창립
 
-또 다음 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 3월에는 해외 진출을 기념하는 의 1.5집 스페셜 앨범 《[Jumping into the World](https://ko.wikipedia.org/wiki/Jumping_into_the_World "wikilink")》을 발매하기도 하였다.
+또 다음 [2001년](../Page/2001년.md "wikilink") 3월에는 해외 진출을 기념하는 의 1.5집 스페셜 앨범 《[Jumping into the World](../Page/Jumping_into_the_World.md "wikilink")》을 발매하기도 하였다.
 
 ## (1집) 방송 출연 목록
 
@@ -147,9 +147,9 @@
 
 ## 참여
 
-이 목록은 해당 앨범의 [CD부클릿](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 〈staff〉목록에서 발췌하였다.(CD는 [콤팩트 카세트](../Page/콤팩트_카세트.md "wikilink") 포맷과는 수록곡 순서가 다르다)\[1\]
+이 목록은 해당 앨범의 [CD부클릿](../Page/콤팩트_디스크.md "wikilink") 〈staff〉목록에서 발췌하였다.(CD는 [콤팩트 카세트](../Page/콤팩트_카세트.md "wikilink") 포맷과는 수록곡 순서가 다르다)\[1\]
 
-  - [보아](https://ko.wikipedia.org/wiki/보아 "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
+  - [보아](../Page/보아.md "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
 
 <table style="width:10%;">
 <colgroup>
@@ -163,26 +163,26 @@
 
 </dl>
 <ul>
-<li>심상원, 엄새희, 한혜원, 김우현 - <a href="https://ko.wikipedia.org/wiki/바이올린" title="wikilink">바이올린</a>(1)</li>
-<li>정운주 - <a href="https://ko.wikipedia.org/wiki/비올라" title="wikilink">비올라</a>(1)</li>
-<li>김소영 - <a href="https://ko.wikipedia.org/wiki/첼로" title="wikilink">첼로</a>(1)</li>
+<li>심상원, 엄새희, 한혜원, 김우현 - <a href="../Page/바이올린.md" title="wikilink">바이올린</a>(1)</li>
+<li>정운주 - <a href="../Page/비올라.md" title="wikilink">비올라</a>(1)</li>
+<li>김소영 - <a href="../Page/첼로.md" title="wikilink">첼로</a>(1)</li>
 <li><a href="https://ko.wikipedia.org/wiki/유영진" title="wikilink">유영진</a> - 백 보컬(1)</li>
 <li>김현아 - 백 보컬(1), 코러스(8)</li>
 <li>이준희, 정미영 - 백 보컬(1)</li>
-<li><a href="../Page/Groovie_K.md" title="wikilink">Groovie K</a> - <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>(1)</li>
+<li><a href="../Page/Groovie_K.md" title="wikilink">Groovie K</a> - <a href="../Page/기타.md" title="wikilink">기타</a>(1)</li>
 <li><a href="../Page/함춘호.md" title="wikilink">함춘호</a> - 기타(2, 3, 5~7, 9~12)</li>
 <li><a href="https://ko.wikipedia.org/wiki/이현정_(음악가)" title="wikilink">이현정</a>, 신연아, 김효수 - 코러스(2, 3, 5~7, 9~12)</li>
 <li><a href="../Page/엑스틴.md" title="wikilink">엑스틴</a> - <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>(2, 6, 9, 10)</li>
-<li><a href="https://ko.wikipedia.org/wiki/김형석_(음악가)" title="wikilink">김형석</a> - <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">키보드</a>(3, 5~7, 9~12)</li>
+<li><a href="../Page/김형석_(음악가).md" title="wikilink">김형석</a> - <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">키보드</a>(3, 5~7, 9~12)</li>
 <li><a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a> - 기타(4, 8)</li>
-<li>이태윤 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>(4)</li>
+<li>이태윤 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(4)</li>
 <li>광원석 - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>/키보드 프로그래밍(4)</li>
 <li>Black2Black <a href="../Page/샘플링_(음악).md" title="wikilink">샘플링CD</a> - 현악 테마 추출(4)</li>
 <li>박영옥, Nio, Mussy - 코러스(4)</li>
 <li>Big Naz - 랩(4)</li>
 <li>서융근 - 기타 프로그래밍(8)</li>
 <li>문지환 - 코러스(8)</li>
-<li><a href="https://ko.wikipedia.org/wiki/에릭_(가수)" title="wikilink">에릭</a> - 랩(8)</li>
+<li><a href="../Page/에릭_(가수).md" title="wikilink">에릭</a> - 랩(8)</li>
 </ul></td>
 <td><dl>
 <dt>스탭</dt>
@@ -196,7 +196,7 @@
 <ul>
 <li>유한진, 유창용 - 보조(1)</li>
 </ul></li>
-<li><a href="https://ko.wikipedia.org/wiki/김중우" title="wikilink">Jay Kim</a>(Jazzyz 스튜디오) - 녹음(4)</li>
+<li><a href="../Page/김중우.md" title="wikilink">Jay Kim</a>(Jazzyz 스튜디오) - 녹음(4)</li>
 <li>원창준, <a href="../Page/방시혁.md" title="wikilink">방시혁</a>, 정재윤, 곽영준, 홍석 - 컴퓨터 프로그래밍</li>
 <li>원창준, 최장필(AC+E 스튜디오) - 녹음</li>
 <li>한종진, 엄현우(Bay 스튜디오, 서울 스튜디오) - 믹싱</li>
@@ -207,14 +207,14 @@
 <ul>
 <li>한성수, 이정열 - 프로모션 보조</li>
 </ul></li>
-<li>KAZU(Nakazawa Kazuhiko), <a href="https://ko.wikipedia.org/wiki/블랙_비트" title="wikilink">블랙 비트</a>, 보아 - 안무</li>
+<li>KAZU(Nakazawa Kazuhiko), <a href="../Page/블랙_비트.md" title="wikilink">블랙 비트</a>, 보아 - 안무</li>
 <li>김명희, 이선경, 노은미 - 스타일리스트</li>
 <li>현정재 - <a href="../Page/사진.md" title="wikilink">사진</a></li>
 <li>강윤범 - 앨범 디자인</li>
 <li>APA(가루, HUDINI, OACS, Joe) - 로고 디자인</li>
 <li>이선영 - CD PLUS 디자인</li>
 <li>(주)명진아트 - 인쇄</li>
-<li><a href="https://ko.wikipedia.org/wiki/SM_엔터테인먼트" title="wikilink">SM 엔터테인먼트</a> - <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a></li>
+<li><a href="../Page/SM_엔터테인먼트.md" title="wikilink">SM 엔터테인먼트</a> - <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a></li>
 </ul></td>
 </tr>
 </tbody>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**퍼스 글로리 FC**(Perth Glory FC)는 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")의 프로축구단으로 [웨스턴오스트레일리아주](https://ko.wikipedia.org/wiki/웨스턴오스트레일리아주 "wikilink")의 [퍼스를](../Page/퍼스_\(웨스턴오스트레일리아주\).md "wikilink") 연고지로 한다.
+**퍼스 글로리 FC**(Perth Glory FC)는 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로축구단으로 [웨스턴오스트레일리아주](../Page/웨스턴오스트레일리아주.md "wikilink")의 [퍼스를](../Page/퍼스_\(웨스턴오스트레일리아주\).md "wikilink") 연고지로 한다.
 
 ## 우승 기록
 
@@ -41,15 +41,15 @@
 
 ### 유명한 선수
 
-  - [대니 헤이](https://ko.wikipedia.org/wiki/대니_헤이 "wikilink")
+  - [대니 헤이](../Page/대니_헤이.md "wikilink")
 
-  - [셰인 스멜츠](https://ko.wikipedia.org/wiki/셰인_스멜츠 "wikilink")
+  - [셰인 스멜츠](../Page/셰인_스멜츠.md "wikilink")
 
   - [리엄 밀러](../Page/리엄_밀러.md "wikilink")
 
   - [제이드 노스](../Page/제이드_노스.md "wikilink")
 
-  - [사이먼 콜로시모](https://ko.wikipedia.org/wiki/사이먼_콜로시모 "wikilink")
+  - [사이먼 콜로시모](../Page/사이먼_콜로시모.md "wikilink")
 
   - [로비 파울러](../Page/로비_파울러.md "wikilink")
 

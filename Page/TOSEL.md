@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TOSEL](https://ko.wikipedia.org/wiki/TOSEL).
 
 
-**TOSEL**(Test of the Skills in the English Language, 토셀)은 EBS [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")가 주관하고, 국제TOSEL위원회가 관리하는 영어능력 인증시험이다. 미국에서 개발된 [TOFEL과](../Page/TOEFL.md "wikilink") [TOEIC](https://ko.wikipedia.org/wiki/TOEIC "wikilink") 시험을 대체하기 위해 개발되어 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 5일](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") 첫 시험을 시행하였다.
+**TOSEL**(Test of the Skills in the English Language, 토셀)은 EBS [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")가 주관하고, 국제TOSEL위원회가 관리하는 영어능력 인증시험이다. 미국에서 개발된 [TOFEL과](../Page/TOEFL.md "wikilink") [TOEIC](../Page/TOEIC.md "wikilink") 시험을 대체하기 위해 개발되어 [2004년](../Page/2004년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") 첫 시험을 시행하였다.
 
 ## 개요
 
@@ -19,7 +19,7 @@
 | Starter       | 초등학교 3\~4학년        | 100점 |
 |               |                    |      |
 
-  - High Junior는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 중학생용으로 신설되었다.
+  - High Junior는 [2009년](../Page/2009년.md "wikilink") 중학생용으로 신설되었다.
 
 ## 패턴
 
@@ -261,9 +261,9 @@ Junior/High Junior</p></th>
 
 ## 같이 보기
 
-  - [TOEIC](https://ko.wikipedia.org/wiki/TOEIC "wikilink")
+  - [TOEIC](../Page/TOEIC.md "wikilink")
   - [PELT](../Page/PELT.md "wikilink")
-  - [TEPS](https://ko.wikipedia.org/wiki/TEPS "wikilink")
+  - [TEPS](../Page/TEPS.md "wikilink")
   - [FLEX](https://ko.wikipedia.org/wiki/FLEX "wikilink")
   - [MATE](https://ko.wikipedia.org/wiki/MATE "wikilink")
 

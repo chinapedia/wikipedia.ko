@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [This Is It \(\)](https://ko.wikipedia.org/wiki/This_Is_It_\(\)).
 
 
-**This Is It**은 팝의 황제 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 투어이다. 이 투어는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에 [O2 아레나에서](https://ko.wikipedia.org/wiki/O2_아레나 "wikilink") 열릴 계획이었다. 이 투어는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 7월부터 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 3월까지 이어질 예정이었다. 첫 번째 투어 티켓은 전부 매진되었으나, [마이클 잭슨이](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 갑자기 사망하여, 투어가 취소되었다. 그러나 티켓을 산 사람들은 환불하지 않고 유품으로 간직하거나 심지어 경매에 팔았다.
+**This Is It**은 팝의 황제 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 투어이다. 이 투어는 [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")에 [O2 아레나에서](https://ko.wikipedia.org/wiki/O2_아레나 "wikilink") 열릴 계획이었다. 이 투어는 [2009년](../Page/2009년.md "wikilink") 7월부터 [2010년](../Page/2010년.md "wikilink") 3월까지 이어질 예정이었다. 첫 번째 투어 티켓은 전부 매진되었으나, [마이클 잭슨이](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 갑자기 사망하여, 투어가 취소되었다. 그러나 티켓을 산 사람들은 환불하지 않고 유품으로 간직하거나 심지어 경매에 팔았다.
 
-이 투어는 또한 라이브기업인 [AEG live와](https://ko.wikipedia.org/wiki/AEG_live "wikilink") 계약했으며, [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") '[히스토리 투어](https://ko.wikipedia.org/wiki/히스토리_투어 "wikilink")'로부터 공식적으로 12년 만에 개최하는 투어였다. 75만 장의 티켓이 5시간 만에 매진됐으며, 투어를 준비하는 동안 잭슨의 전 앨범의 판매가격을 낮추고, 티켓의 가격도 조금 낮추는 등에 프로젝트도 했다. 또한 회사 측은 세계의 디자이너들을 뽑아 콘서트 제작에 참여시켰고, [콜롬비아 픽처스에게](https://ko.wikipedia.org/wiki/콜롬비아_픽처스 "wikilink") 잭슨의 투어티켓 제작을 맡겼다. 잭슨이 사망한 후에는 소속사와 영화제작도 참여한다.
+이 투어는 또한 라이브기업인 [AEG live와](https://ko.wikipedia.org/wiki/AEG_live "wikilink") 계약했으며, [1997년](../Page/1997년.md "wikilink") '[히스토리 투어](https://ko.wikipedia.org/wiki/히스토리_투어 "wikilink")'로부터 공식적으로 12년 만에 개최하는 투어였다. 75만 장의 티켓이 5시간 만에 매진됐으며, 투어를 준비하는 동안 잭슨의 전 앨범의 판매가격을 낮추고, 티켓의 가격도 조금 낮추는 등에 프로젝트도 했다. 또한 회사 측은 세계의 디자이너들을 뽑아 콘서트 제작에 참여시켰고, [콜롬비아 픽처스에게](https://ko.wikipedia.org/wiki/콜롬비아_픽처스 "wikilink") 잭슨의 투어티켓 제작을 맡겼다. 잭슨이 사망한 후에는 소속사와 영화제작도 참여한다.
 
 그가 사망 뒤, 언론에 그가 생전에 그의 히트곡 '[They Don't Care About Us](https://ko.wikipedia.org/wiki/They_Don't_Care_About_Us "wikilink")'로 투어 리허설하는 모습을 공개했다.
 
@@ -34,7 +34,7 @@
 20. "[You Are Not Alone](https://ko.wikipedia.org/wiki/You_Are_Not_Alone "wikilink")"
 21. "[Earth Song](https://ko.wikipedia.org/wiki/Earth_Song "wikilink")" <small>(begins with a 3D video vignette)</small>
 22. "[Will You Be There](https://ko.wikipedia.org/wiki/Will_You_Be_There "wikilink")"
-23. "[Billie Jean](https://ko.wikipedia.org/wiki/Billie_Jean "wikilink")"
+23. "[Billie Jean](../Page/Billie_Jean.md "wikilink")"
 24. "[We Are the World](https://ko.wikipedia.org/wiki/We_Are_the_World "wikilink")" / "[Heal the World](https://ko.wikipedia.org/wiki/Heal_the_World "wikilink")"
 25. "[Man in the Mirror](https://ko.wikipedia.org/wiki/Man_in_the_Mirror "wikilink")"/"MJ Air" <small>Outro</small>
 

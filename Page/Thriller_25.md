@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Thriller 25](https://ko.wikipedia.org/wiki/Thriller_25).
 
 
-《*'Thriller 25 **》는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 빅히트 앨범인 《[Thriller](https://ko.wikipedia.org/wiki/Thriller "wikilink")》의 발매 25주년 기념음반이다. CD1장과 DVD1장으로 구성되어 있으며 CD에는《**Thriller**》의 오리지널 음원과 미 발표곡《**For All Time**》, 리믹스된《**The Girl Is Mine 2008**》등 보너스트랙이 수록되었으며 DVD에는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 《**Thriller*'》쇼트필름과 Motown 25: Yesterday, Today, Forever 에서의 [Billie Jean](https://ko.wikipedia.org/wiki/Billie_Jean "wikilink") 퍼포먼스를 수록하였다.
+《*'Thriller 25 **》는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 빅히트 앨범인 《[Thriller](https://ko.wikipedia.org/wiki/Thriller "wikilink")》의 발매 25주년 기념음반이다. CD1장과 DVD1장으로 구성되어 있으며 CD에는《**Thriller**》의 오리지널 음원과 미 발표곡《**For All Time**》, 리믹스된《**The Girl Is Mine 2008**》등 보너스트랙이 수록되었으며 DVD에는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 《**Thriller*'》쇼트필름과 Motown 25: Yesterday, Today, Forever 에서의 [Billie Jean](../Page/Billie_Jean.md "wikilink") 퍼포먼스를 수록하였다.
 
 ## 수록곡
 

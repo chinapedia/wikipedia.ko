@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fin.K.L Vol.3 Now](https://ko.wikipedia.org/wiki/Fin.K.L_Vol.3_Now).
 
 
-《**Now**》는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [10월 6일의](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") 발매된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink")의 세 번째 정규 [앨범이다](../Page/음반.md "wikilink"). 총 13곡의 트랙으로 구성되어 있고, 전체 러닝타임은 49분 50초다.
+《**Now**》는 [2000년](../Page/2000년.md "wikilink") [10월 6일의](../Page/10월_6일.md "wikilink") 발매된 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](../Page/핑클.md "wikilink")의 세 번째 정규 [앨범이다](../Page/음반.md "wikilink"). 총 13곡의 트랙으로 구성되어 있고, 전체 러닝타임은 49분 50초다.
 
 ## 설명
 
@@ -72,7 +72,7 @@
 
 ### Now
 
-  - 많은 인기와 패러디가 유행했는데 그중 가장 유명한 것은 [지상렬](https://ko.wikipedia.org/wiki/지상렬 "wikilink")이 도입구를 패러디 한 것이다.
+  - 많은 인기와 패러디가 유행했는데 그중 가장 유명한 것은 [지상렬](../Page/지상렬.md "wikilink")이 도입구를 패러디 한 것이다.
 
 ### Feel Your Love
 

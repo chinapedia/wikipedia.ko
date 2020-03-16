@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DA PUMP](https://ko.wikipedia.org/wiki/DA_PUMP).
 
 
-**DA PUMP**(다 펌프)는 [일본](../Page/일본.md "wikilink") [오키나와현](https://ko.wikipedia.org/wiki/오키나와현 "wikilink") 출신 남성 아이돌 그룹이다.
+**DA PUMP**(다 펌프)는 [일본](../Page/일본.md "wikilink") [오키나와현](../Page/오키나와현.md "wikilink") 출신 남성 아이돌 그룹이다.
 
 데뷔 초에는 보컬 잇사와 래퍼 켄, 시노부, 유키나리 4인조로 활동했으나, 2006년 시노부의 탈퇴, 2008년 유키나리의 탈퇴 이후 7명의 신 멤버 가입을 발표했다.
 
@@ -11,7 +11,7 @@
 
   - if... arekarabokura는 다 펌프의 옛 히트 작품 if... 를 지금의 멤버로 다시 재녹음 한것이다.
 
-2018년 6월에는 [유로비트](https://ko.wikipedia.org/wiki/유로비트 "wikilink") 아티스트 '조 옐로우'의 악곡 'U.S.A'를 번안한 싱글을 출시, 2018년 발표된 J-POP 곡 가운데 [요네즈 켄시의](../Page/요네즈_켄시.md "wikilink") 'Lemon'과 함께 [유튜브](../Page/유튜브.md "wikilink") 조회수 1억건을 돌파하였다.
+2018년 6월에는 [유로비트](../Page/유로비트.md "wikilink") 아티스트 '조 옐로우'의 악곡 'U.S.A'를 번안한 싱글을 출시, 2018년 발표된 J-POP 곡 가운데 [요네즈 켄시의](../Page/요네즈_켄시.md "wikilink") 'Lemon'과 함께 [유튜브](../Page/유튜브.md "wikilink") 조회수 1억건을 돌파하였다.
 
 ## 음반 목록
 

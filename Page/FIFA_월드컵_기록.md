@@ -305,7 +305,7 @@
 
   -
 
-    (불참한 [1930년 FIFA 월드컵과](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") [제2차 세계 대전으로](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 출전 자격을 박탈당한 [1950년 대회](https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵 "wikilink") 불포함), , 0회
+    (불참한 [1930년 FIFA 월드컵과](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") [제2차 세계 대전으로](../Page/제2차_세계_대전.md "wikilink") 출전 자격을 박탈당한 [1950년 대회](https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵 "wikilink") 불포함), , 0회
 
 **월드컵 본선 개근팀**
 
@@ -333,21 +333,21 @@
 
 **대륙별 최다 출전**
 
-  - [남미](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink") :  - 21회, [2014년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 개최국 자격으로 본선 자동진출.
+  - [남미](../Page/남미_축구_연맹.md "wikilink") :  - 21회, [2014년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 개최국 자격으로 본선 자동진출.
   - [북중미](../Page/북중미카리브_축구_연맹.md "wikilink") :  - 16회
-  - [아시아](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") :  - 10회
+  - [아시아](../Page/아시아_축구_연맹.md "wikilink") :  - 10회
   - [아프리카](../Page/아프리카_축구_연맹.md "wikilink") :  - 7회
   - [오세아니아](../Page/오세아니아_축구_연맹.md "wikilink") : (OFC 소속으로 출전한 대회에 한함),  - 2회
-  - [유럽](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") : (서독 포함) - 19회
+  - [유럽](../Page/유럽_축구_연맹.md "wikilink") : (서독 포함) - 19회
 
 **대륙별 최고 성적**
 
-  - [남미](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink") : **** - 우승(5회, [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink"), [1962년](https://ko.wikipedia.org/wiki/1962년_FIFA_월드컵 "wikilink"), [1970년](https://ko.wikipedia.org/wiki/1970년_FIFA_월드컵 "wikilink"), [1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink"), [2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink")), **** - 우승(2회, [1978년](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink"), [1986년](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink")), **** - 우승(2회, [1930년](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink"), [1950년](https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵 "wikilink"))
+  - [남미](../Page/남미_축구_연맹.md "wikilink") : **** - 우승(5회, [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink"), [1962년](https://ko.wikipedia.org/wiki/1962년_FIFA_월드컵 "wikilink"), [1970년](https://ko.wikipedia.org/wiki/1970년_FIFA_월드컵 "wikilink"), [1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink"), [2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink")), **** - 우승(2회, [1978년](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink"), [1986년](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink")), **** - 우승(2회, [1930년](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink"), [1950년](https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵 "wikilink"))
   - [북중미](../Page/북중미카리브_축구_연맹.md "wikilink") :  - 3위([1930년](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink"))
-  - [아시아](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") :  - 4위([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink"))
+  - [아시아](../Page/아시아_축구_연맹.md "wikilink") :  - 4위([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink"))
   - [아프리카](../Page/아프리카_축구_연맹.md "wikilink") :  - 8강([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink")),  - 8강([1990년](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink")),  - 8강([2010년](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink"))
   - [오세아니아](../Page/오세아니아_축구_연맹.md "wikilink") :  - 16강([2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink"))
-  - [유럽](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") : **** - 우승(4회, [1934년](https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵 "wikilink"), [1938년](https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵 "wikilink"), [1982년](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink"), [2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink")), ****(서독 포함) - 우승(4회, [1954년](https://ko.wikipedia.org/wiki/1954년_FIFA_월드컵 "wikilink"), [1974년](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink"), [1990년](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"), [2014년](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink")), **** - 우승(2회, [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink")), **** - 우승(1회, [1966년](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink")), **** - 우승(1회, [2010년](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink"))
+  - [유럽](../Page/유럽_축구_연맹.md "wikilink") : **** - 우승(4회, [1934년](https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵 "wikilink"), [1938년](https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵 "wikilink"), [1982년](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink"), [2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink")), ****(서독 포함) - 우승(4회, [1954년](https://ko.wikipedia.org/wiki/1954년_FIFA_월드컵 "wikilink"), [1974년](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink"), [1990년](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"), [2014년](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink")), **** - 우승(2회, [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink")), **** - 우승(1회, [1966년](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink")), **** - 우승(1회, [2010년](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink"))
 
 **본선진출율이 가장 높은 대륙**
 
@@ -659,7 +659,7 @@
 
   -
 
-    , [1930년](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") 대 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink") 1-4 \~ [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink") 대 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink") 0-3, 9경기 연속
+    , [1930년](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") 대 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink") 1-4 \~ [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink") 대 [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink") 0-3, 9경기 연속
 
 **최다 연속 무승**
 
@@ -671,13 +671,13 @@
 
   -
 
-    , [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 대 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드_축구_국가대표팀 "wikilink") 0-0 \~ [2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 대 [튀니지](https://ko.wikipedia.org/wiki/튀니지_축구_국가대표팀 "wikilink") 1-1, 5경기 연속
+    , [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 대 [네덜란드](../Page/네덜란드_축구_국가대표팀.md "wikilink") 0-0 \~ [2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 대 [튀니지](../Page/튀니지_축구_국가대표팀.md "wikilink") 1-1, 5경기 연속
 
 **최다 연속 무승부 없음**
 
   -
 
-    , [1966년](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") 대 [헝가리](../Page/헝가리_축구_국가대표팀.md "wikilink") 3-1 \~ [2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 대 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드_축구_국가대표팀 "wikilink") 1-0, 16경기 연속
+    , [1966년](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") 대 [헝가리](../Page/헝가리_축구_국가대표팀.md "wikilink") 3-1 \~ [2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 대 [네덜란드](../Page/네덜란드_축구_국가대표팀.md "wikilink") 1-0, 16경기 연속
 
 **최다 연속 득점 (1득점)**
 
@@ -795,7 +795,7 @@
 **월드컵 최다 우승을 경험한 선수**
 
   -
-    [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink") (, 1958년, 1962년, 1970년), 3회
+    [펠레](../Page/펠레.md "wikilink") (, 1958년, 1962년, 1970년), 3회
 
 **가장 많은 경기에 출전한 선수**
 
@@ -810,17 +810,17 @@
 **최다 승리를 경험한 선수**
 
   -
-    [카푸](https://ko.wikipedia.org/wiki/카푸 "wikilink") (, 1994년\~2006년), 16경기
+    [카푸](../Page/카푸.md "wikilink") (, 1994년\~2006년), 16경기
 
 **월드컵 결승에 최다 출전한 선수**
 
   -
-    [카푸](https://ko.wikipedia.org/wiki/카푸 "wikilink") (, 1994년\~2002년), 3경기
+    [카푸](../Page/카푸.md "wikilink") (, 1994년\~2002년), 3경기
 
 **주장으로 최다 출전한 선수**
 
   -
-    [디에고 마라도나](https://ko.wikipedia.org/wiki/디에고_마라도나 "wikilink") (, 1986년\~1994년), 16경기
+    [디에고 마라도나](../Page/디에고_마라도나.md "wikilink") (, 1986년\~1994년), 16경기
 
 **교체선수로 최다 출전한 선수**
 
@@ -835,7 +835,7 @@
 **최연소 결승전 출전 선수**
 
   -
-    [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink") (, 대 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink"), [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink")), 17년 249일
+    [펠레](../Page/펠레.md "wikilink") (, 대 [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink"), [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink")), 17년 249일
 
 **최연소 주장**
 
@@ -845,7 +845,7 @@
 **최고령 선수**
 
   -
-    [에삼 엘 하다리](https://ko.wikipedia.org/wiki/에삼_엘_하다리 "wikilink") (, 대 [사우디아라비아](https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀 "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink")), 45년 161일
+    [에삼 엘 하다리](https://ko.wikipedia.org/wiki/에삼_엘_하다리 "wikilink") (, 대 [사우디아라비아](../Page/사우디아라비아_축구_국가대표팀.md "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink")), 45년 161일
 
 **최고령 결승전 출전 선수**
 
@@ -855,12 +855,12 @@
 **최고령으로 월드컵 첫 출전 선수**
 
   -
-    [에삼 엘 하다리](https://ko.wikipedia.org/wiki/에삼_엘_하다리 "wikilink") (, 대 [사우디아라비아](https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀 "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink")), 45년 161일
+    [에삼 엘 하다리](https://ko.wikipedia.org/wiki/에삼_엘_하다리 "wikilink") (, 대 [사우디아라비아](../Page/사우디아라비아_축구_국가대표팀.md "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink")), 45년 161일
 
 **최고령 주장**
 
   -
-    [에삼 엘 하다리](https://ko.wikipedia.org/wiki/에삼_엘_하다리 "wikilink") (, 대 [사우디아라비아](https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀 "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink")), 45년 161일
+    [에삼 엘 하다리](https://ko.wikipedia.org/wiki/에삼_엘_하다리 "wikilink") (, 대 [사우디아라비아](../Page/사우디아라비아_축구_국가대표팀.md "wikilink"), [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink")), 45년 161일
 
 **선수 연령차가 가장 큰 팀**
 
@@ -899,7 +899,7 @@
 **최다 득점**
 
   -
-    [미로슬라프 클로제](https://ko.wikipedia.org/wiki/미로슬라프_클로제 "wikilink") (, 2002년\~2014년, 16득점)
+    [미로슬라프 클로제](../Page/미로슬라프_클로제.md "wikilink") (, 2002년\~2014년, 16득점)
 
 **지역 예선 최다 득점(아시아)**
 
@@ -922,7 +922,7 @@
 **지역 예선 최다 득점(남미)**
 
   -
-    [에르난 크레스포](https://ko.wikipedia.org/wiki/에르난_크레스포 "wikilink") (, 2000년\~2006년, 16득점)
+    [에르난 크레스포](../Page/에르난_크레스포.md "wikilink") (, 2000년\~2006년, 16득점)
 
 **지역 예선 최다 득점(오세아니아)**
 
@@ -947,17 +947,17 @@
 **한 경기 최다 득점을 기록하고도 패한 경기에 출전한 선수**
 
   -
-    [에른스트 빌리모브스키](https://ko.wikipedia.org/wiki/에른스트_빌리모브스키 "wikilink") (, [1938년](https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵 "wikilink"), 대 [브라질](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink"), 4득점)
+    [에른스트 빌리모브스키](https://ko.wikipedia.org/wiki/에른스트_빌리모브스키 "wikilink") (, [1938년](https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵 "wikilink"), 대 [브라질](../Page/브라질_축구_국가대표팀.md "wikilink"), 4득점)
 
 **결승전 최다 득점**
 
   -
-    [제프 허스트](https://ko.wikipedia.org/wiki/제프_허스트 "wikilink") (, [1966년](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") 대 [서독](https://ko.wikipedia.org/wiki/서독_축구_국가대표팀 "wikilink"), 3득점)
+    [제프 허스트](../Page/제프_허스트.md "wikilink") (, [1966년](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") 대 [서독](https://ko.wikipedia.org/wiki/서독_축구_국가대표팀 "wikilink"), 3득점)
 
 **결승전 매 경기 최다 득점**
 
   -
-    [바바](https://ko.wikipedia.org/wiki/바바 "wikilink") (, 3득점, 1958년 대 스웨덴, 2득점 1962년 대 체코슬로바키아 1득점), [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink") (, 3득점, 1958년 대 스웨덴 2득점, 1970년 대 이탈리아 1득점), [제프 허스트](https://ko.wikipedia.org/wiki/제프_허스트 "wikilink") (, 3득점, 1966년 대 서독 3득점), [지네딘 지단](https://ko.wikipedia.org/wiki/지네딘_지단 "wikilink") (, 3득점, 1998년 대 브라질 2득점, 2006년 대 이탈리아 1득점)
+    [바바](https://ko.wikipedia.org/wiki/바바 "wikilink") (, 3득점, 1958년 대 스웨덴, 2득점 1962년 대 체코슬로바키아 1득점), [펠레](../Page/펠레.md "wikilink") (, 3득점, 1958년 대 스웨덴 2득점, 1970년 대 이탈리아 1득점), [제프 허스트](../Page/제프_허스트.md "wikilink") (, 3득점, 1966년 대 서독 3득점), [지네딘 지단](https://ko.wikipedia.org/wiki/지네딘_지단 "wikilink") (, 3득점, 1998년 대 브라질 2득점, 2006년 대 이탈리아 1득점)
 
 **최다 매 경기 최소 1득점**
 
@@ -997,52 +997,52 @@
 **매 경기 득점**
 
   -
-    [알시데스 기지아](../Page/알시데스_기지아.md "wikilink") (, 1950년, 4경기 4득점), [쥐스트 퐁텐](../Page/쥐스트_퐁텐.md "wikilink") (, 1958년, 6경기 13득점), [자이르지뉴](../Page/자이르지뉴.md "wikilink") (, 1970년, 6경기 7득점), [흐리스토 스토이치코프](https://ko.wikipedia.org/wiki/흐리스토_스토이치코프 "wikilink") (, 1994년, 5경기 6득점), [호나우두](https://ko.wikipedia.org/wiki/호나우두 "wikilink") (, 2002년, 4경기 5득점), [하메스 로드리게스](https://ko.wikipedia.org/wiki/하메스_로드리게스 "wikilink") (, 2014년, 5경기 6득점)
+    [알시데스 기지아](../Page/알시데스_기지아.md "wikilink") (, 1950년, 4경기 4득점), [쥐스트 퐁텐](../Page/쥐스트_퐁텐.md "wikilink") (, 1958년, 6경기 13득점), [자이르지뉴](../Page/자이르지뉴.md "wikilink") (, 1970년, 6경기 7득점), [흐리스토 스토이치코프](../Page/흐리스토_스토이치코프.md "wikilink") (, 1994년, 5경기 6득점), [호나우두](https://ko.wikipedia.org/wiki/호나우두 "wikilink") (, 2002년, 4경기 5득점), [하메스 로드리게스](https://ko.wikipedia.org/wiki/하메스_로드리게스 "wikilink") (, 2014년, 5경기 6득점)
 
 **최다 대회 최소 1득점**
 
   -
-    [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink") (, 4회, 1958년\~1970년)
+    [펠레](../Page/펠레.md "wikilink") (, 4회, 1958년\~1970년)
 
 **최다 대회 최소 2득점**
 
   -
-    [우베 젤러](https://ko.wikipedia.org/wiki/우베_젤러 "wikilink") (, 4회, 1958년\~1970년), [미로슬라프 클로제](https://ko.wikipedia.org/wiki/미로슬라프_클로제 "wikilink") (, 4회, 2002년\~2014년)
+    [우베 젤러](../Page/우베_젤러.md "wikilink") (, 4회, 1958년\~1970년), [미로슬라프 클로제](../Page/미로슬라프_클로제.md "wikilink") (, 4회, 2002년\~2014년)
 
 **최다 대회 최소 3득점**
 
   -
-    [위르겐 클린스만](https://ko.wikipedia.org/wiki/위르겐_클린스만 "wikilink") (, 3회, 1990년\~1998년), [호나우두](https://ko.wikipedia.org/wiki/호나우두 "wikilink") (, 3회, 1998년\~2006년)
+    [위르겐 클린스만](../Page/위르겐_클린스만.md "wikilink") (, 3회, 1990년\~1998년), [호나우두](https://ko.wikipedia.org/wiki/호나우두 "wikilink") (, 3회, 1998년\~2006년)
 
 **최다 대회 최소 4득점**
 
   -
-    [미로슬라프 클로제](https://ko.wikipedia.org/wiki/미로슬라프_클로제 "wikilink") (, 3회, 2002년\~2010년), [헬무트 란](../Page/헬무트_란.md "wikilink") (, 2회, 1954년\~1958년), [게르트 뮐러](../Page/게르트_뮐러.md "wikilink") (, 2회, 1970년\~1974년), [바바](https://ko.wikipedia.org/wiki/바바 "wikilink") (, 2회, 1958년\~1962년), [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink") (, 2회, 1958년, 1970년), [게리 리네커](https://ko.wikipedia.org/wiki/게리_리네커 "wikilink") (, 2회, 1986년\~1990년), [가브리엘 바티스투타](../Page/가브리엘_바티스투타.md "wikilink") (, 2회, 1994년\~1998년), [호나우두](https://ko.wikipedia.org/wiki/호나우두 "wikilink") (, 2회, 1998년\~2002년), [크리스티안 비에리](../Page/크리스티안_비에리.md "wikilink") (, 2회, 1998년\~2002년)
+    [미로슬라프 클로제](../Page/미로슬라프_클로제.md "wikilink") (, 3회, 2002년\~2010년), [헬무트 란](../Page/헬무트_란.md "wikilink") (, 2회, 1954년\~1958년), [게르트 뮐러](../Page/게르트_뮐러.md "wikilink") (, 2회, 1970년\~1974년), [바바](https://ko.wikipedia.org/wiki/바바 "wikilink") (, 2회, 1958년\~1962년), [펠레](../Page/펠레.md "wikilink") (, 2회, 1958년, 1970년), [게리 리네커](../Page/게리_리네커.md "wikilink") (, 2회, 1986년\~1990년), [가브리엘 바티스투타](../Page/가브리엘_바티스투타.md "wikilink") (, 2회, 1994년\~1998년), [호나우두](https://ko.wikipedia.org/wiki/호나우두 "wikilink") (, 2회, 1998년\~2002년), [크리스티안 비에리](../Page/크리스티안_비에리.md "wikilink") (, 2회, 1998년\~2002년)
 
 **최다 대회 최소 5득점**
 
   -
-    [테오필로 쿠비야스](https://ko.wikipedia.org/wiki/테오필로_쿠비야스 "wikilink") (, 2회, 1970년, 1978년), [미로슬라프 클로제](https://ko.wikipedia.org/wiki/미로슬라프_클로제 "wikilink") (, 2회, 2002년\~2006년), [토마스 뮐러](https://ko.wikipedia.org/wiki/토마스_뮐러 "wikilink") (, 2회, 2010년\~2014년)
+    [테오필로 쿠비야스](../Page/테오필로_쿠비야스.md "wikilink") (, 2회, 1970년, 1978년), [미로슬라프 클로제](../Page/미로슬라프_클로제.md "wikilink") (, 2회, 2002년\~2006년), [토마스 뮐러](../Page/토마스_뮐러.md "wikilink") (, 2회, 2010년\~2014년)
 
 **최장 기간 사이에 첫 득점과 마지막 득점을 기록**
 
   -
-    [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink") (, 12년, 1958년\~1970년), [우베 젤러](https://ko.wikipedia.org/wiki/우베_젤러 "wikilink") (, 12년, 1958년\~1970년), [디에고 마라도나](https://ko.wikipedia.org/wiki/디에고_마라도나 "wikilink") (, 12년, 1982년\~1994년), [미카엘 라우드루프](../Page/미카엘_라우드루프.md "wikilink") (, 12년, 1986년\~1998년), [헨리크 라르손](../Page/헨리크_라르손.md "wikilink") (, 12년, 1994년\~2006년), [사미 알 자베르](https://ko.wikipedia.org/wiki/사미_알_자베르 "wikilink") (, 12년, 1994년\~2006년)
+    [펠레](../Page/펠레.md "wikilink") (, 12년, 1958년\~1970년), [우베 젤러](../Page/우베_젤러.md "wikilink") (, 12년, 1958년\~1970년), [디에고 마라도나](../Page/디에고_마라도나.md "wikilink") (, 12년, 1982년\~1994년), [미카엘 라우드루프](../Page/미카엘_라우드루프.md "wikilink") (, 12년, 1986년\~1998년), [헨리크 라르손](../Page/헨리크_라르손.md "wikilink") (, 12년, 1994년\~2006년), [사미 알 자베르](https://ko.wikipedia.org/wiki/사미_알_자베르 "wikilink") (, 12년, 1994년\~2006년)
 
 **최연소 득점**
 
   -
-    [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink") (, [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink") 대 [웨일스](../Page/웨일스_축구_국가대표팀.md "wikilink"), 17년 239일)
+    [펠레](../Page/펠레.md "wikilink") (, [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink") 대 [웨일스](../Page/웨일스_축구_국가대표팀.md "wikilink"), 17년 239일)
 
 **최연소 해트트릭**
 
   -
-    [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink") (, [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink") 대 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 17년 244일)
+    [펠레](../Page/펠레.md "wikilink") (, [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink") 대 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 17년 244일)
 
 **최연소 결승전 득점**
 
   -
-    [펠레](https://ko.wikipedia.org/wiki/펠레 "wikilink") (, [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink") 대 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink"), 17년 249일)
+    [펠레](../Page/펠레.md "wikilink") (, [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink") 대 [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink"), 17년 249일)
 
 **최고령 득점**
 
@@ -1052,12 +1052,12 @@
 **최고령 해트트릭**
 
   -
-    [크리스티아누 호날두](https://ko.wikipedia.org/wiki/크리스티아누_호날두 "wikilink") (, [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") 대 [스페인](https://ko.wikipedia.org/wiki/스페인_축구_국가대표팀 "wikilink"), 33년 130일)
+    [크리스티아누 호날두](https://ko.wikipedia.org/wiki/크리스티아누_호날두 "wikilink") (, [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") 대 [스페인](../Page/스페인_축구_국가대표팀.md "wikilink"), 33년 130일)
 
 **최고령 결승전 득점**
 
   -
-    [닐스 리드홀름](../Page/닐스_리드홀름.md "wikilink") (, [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink") 대 [브라질](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink"), 35년 263일)
+    [닐스 리드홀름](../Page/닐스_리드홀름.md "wikilink") (, [1958년](https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵 "wikilink") 대 [브라질](../Page/브라질_축구_국가대표팀.md "wikilink"), 35년 263일)
 
 **페널티킥 최다 득점 (승부차기 제외)**
 
@@ -1067,7 +1067,7 @@
 **가장 빠른 득점**
 
   -
-    [하칸 쉬퀴르](../Page/하칸_쉬퀴르.md "wikilink") ([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") , 대 [대한민국](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀 "wikilink"), 11초)
+    [하칸 쉬퀴르](../Page/하칸_쉬퀴르.md "wikilink") ([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") , 대 [대한민국](../Page/대한민국_축구_국가대표팀.md "wikilink"), 11초)
 
 **가장 빠른 교체 선수 득점**
 
@@ -1082,33 +1082,33 @@
 **가장 늦은 득점**
 
   -
-    [알레산드로 델 피에로](https://ko.wikipedia.org/wiki/알레산드로_델_피에로 "wikilink") ([2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") , 대 [독일](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink"), 121분 (120분 14초))
-    [압델무멘 자부](../Page/압델무멘_자부.md "wikilink") ([2014년](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") , 대 [독일](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink"), 121분(120분 50초))
+    [알레산드로 델 피에로](../Page/알레산드로_델_피에로.md "wikilink") ([2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") , 대 [독일](../Page/독일_축구_국가대표팀.md "wikilink"), 121분 (120분 14초))
+    [압델무멘 자부](../Page/압델무멘_자부.md "wikilink") ([2014년](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") , 대 [독일](../Page/독일_축구_국가대표팀.md "wikilink"), 121분(120분 50초))
 
 **가장 늦은 결승전 득점**
 
   -
-    [제프 허스트](https://ko.wikipedia.org/wiki/제프_허스트 "wikilink") ([1966년](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") , 대 [서독](https://ko.wikipedia.org/wiki/서독_축구_국가대표팀 "wikilink"), 120분)
+    [제프 허스트](../Page/제프_허스트.md "wikilink") ([1966년](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") , 대 [서독](https://ko.wikipedia.org/wiki/서독_축구_국가대표팀 "wikilink"), 120분)
 
 **첫 골든골**
 
   -
-    [로랑 블랑](../Page/로랑_블랑.md "wikilink") ([1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") , 대 [파라과이](https://ko.wikipedia.org/wiki/파라과이_축구_국가대표팀 "wikilink"), 113분)
+    [로랑 블랑](../Page/로랑_블랑.md "wikilink") ([1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") , 대 [파라과이](../Page/파라과이_축구_국가대표팀.md "wikilink"), 113분)
 
 **마지막 골든골**
 
   -
-    [일한 만스즈](https://ko.wikipedia.org/wiki/일한_만스즈 "wikilink") ([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") , 대 [세네갈](../Page/세네갈_축구_국가대표팀.md "wikilink"), 94분)
+    [일한 만스즈](../Page/일한_만스즈.md "wikilink") ([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") , 대 [세네갈](../Page/세네갈_축구_국가대표팀.md "wikilink"), 94분)
 
 **가장 빠른 골든골**
 
   -
-    [일한 만스즈](https://ko.wikipedia.org/wiki/일한_만스즈 "wikilink") ([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") , 대 [세네갈](../Page/세네갈_축구_국가대표팀.md "wikilink"), 94분)
+    [일한 만스즈](../Page/일한_만스즈.md "wikilink") ([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") , 대 [세네갈](../Page/세네갈_축구_국가대표팀.md "wikilink"), 94분)
 
 **가장 늦은 골든골**
 
   -
-    [안정환](https://ko.wikipedia.org/wiki/안정환 "wikilink") ([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") , 대 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아_축구_국가대표팀 "wikilink"), 117분)
+    [안정환](../Page/안정환.md "wikilink") ([2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") , 대 [이탈리아](../Page/이탈리아_축구_국가대표팀.md "wikilink"), 117분)
 
 ### 팀 득점
 
@@ -1260,14 +1260,14 @@
 
   -
     [뤼트 크롤](../Page/뤼트_크롤.md "wikilink") (, [1974년](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink"), 대 [불가리아](../Page/불가리아_축구_국가대표팀.md "wikilink") 자책골, 대 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 득점)
-    [에르니 브란츠](https://ko.wikipedia.org/wiki/에르니_브란츠 "wikilink") (, [1978년](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink"), 대 [오스트리아](../Page/오스트리아_축구_국가대표팀.md "wikilink") 득점, 대 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아_축구_국가대표팀 "wikilink") 자책골 및 득점)
-    [시니샤 미하일로비치](../Page/시니샤_미하일로비치.md "wikilink") (, [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink"), 대 [이란](https://ko.wikipedia.org/wiki/이란_축구_국가대표팀 "wikilink") 득점, 대 [독일](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink") 자책골)
-    [박주영](https://ko.wikipedia.org/wiki/박주영 "wikilink") (, [2010년](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink"), 대 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 자책골, 대 [나이지리아](../Page/나이지리아_축구_국가대표팀.md "wikilink") 득점)
+    [에르니 브란츠](https://ko.wikipedia.org/wiki/에르니_브란츠 "wikilink") (, [1978년](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink"), 대 [오스트리아](../Page/오스트리아_축구_국가대표팀.md "wikilink") 득점, 대 [이탈리아](../Page/이탈리아_축구_국가대표팀.md "wikilink") 자책골 및 득점)
+    [시니샤 미하일로비치](../Page/시니샤_미하일로비치.md "wikilink") (, [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink"), 대 [이란](../Page/이란_축구_국가대표팀.md "wikilink") 득점, 대 [독일](../Page/독일_축구_국가대표팀.md "wikilink") 자책골)
+    [박주영](../Page/박주영.md "wikilink") (, [2010년](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink"), 대 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 자책골, 대 [나이지리아](../Page/나이지리아_축구_국가대표팀.md "wikilink") 득점)
 
 **한 경기에서 양 팀에 득점한 선수**
 
   -
-    [에르니 브란츠](https://ko.wikipedia.org/wiki/에르니_브란츠 "wikilink") (, [1978년](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink"), 대 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아_축구_국가대표팀 "wikilink"), 18분 자책골, 50분 득점)
+    [에르니 브란츠](https://ko.wikipedia.org/wiki/에르니_브란츠 "wikilink") (, [1978년](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink"), 대 [이탈리아](../Page/이탈리아_축구_국가대표팀.md "wikilink"), 18분 자책골, 50분 득점)
     [마리오 만주키치](../Page/마리오_만주키치.md "wikilink") (, [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink"), 대 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 18분 자책골, 69분 득점)
 
 ### 해트트릭
@@ -1296,14 +1296,14 @@
 **결승에서 해트트릭**
 
   -
-    [제프 허스트](https://ko.wikipedia.org/wiki/제프_허스트 "wikilink") (, [1966년](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink"), 대 [서독](https://ko.wikipedia.org/wiki/서독_축구_국가대표팀 "wikilink"))
+    [제프 허스트](../Page/제프_허스트.md "wikilink") (, [1966년](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink"), 대 [서독](https://ko.wikipedia.org/wiki/서독_축구_국가대표팀 "wikilink"))
 
 ## 골키퍼
 
 **최다 경기 무실점 기록 골키퍼**
 
   -
-    [피터 실턴](../Page/피터_실턴.md "wikilink") (, 1982년\~1990년), [파비앵 바르테즈](https://ko.wikipedia.org/wiki/파비앵_바르테즈 "wikilink") (, 1998년\~2006년), 10경기
+    [피터 실턴](../Page/피터_실턴.md "wikilink") (, 1982년\~1990년), [파비앵 바르테즈](../Page/파비앵_바르테즈.md "wikilink") (, 1998년\~2006년), 10경기
 
 **최장 시간 무실점 기록 골키퍼**
 
@@ -1328,7 +1328,7 @@
 **한 경기 최다 실점 골키퍼(지역 예선)**
 
   -
-    [니키 살라푸](https://ko.wikipedia.org/wiki/니키_살라푸 "wikilink") (, [2002년](../Page/2002년_FIFA_월드컵_오세아니아_지역_예선.md "wikilink"), 대 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아_축구_국가대표팀 "wikilink"), 31실점)
+    [니키 살라푸](https://ko.wikipedia.org/wiki/니키_살라푸 "wikilink") (, [2002년](../Page/2002년_FIFA_월드컵_오세아니아_지역_예선.md "wikilink"), 대 [오스트레일리아](../Page/오스트레일리아_축구_국가대표팀.md "wikilink"), 31실점)
 
 **한 대회의 모든 경기를 뛰고 최저 실점을 기록한 골키퍼**
 
@@ -1343,7 +1343,7 @@
 **최저 실점 우승 팀 골키퍼**
 
   -
-    [파비앵 바르테즈](https://ko.wikipedia.org/wiki/파비앵_바르테즈 "wikilink") (, [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink")), [잔루이지 부폰](../Page/잔루이지_부폰.md "wikilink") (, [2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink")), [이케르 카시야스](../Page/이케르_카시야스.md "wikilink") (, [2010년](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink")), 2실점
+    [파비앵 바르테즈](../Page/파비앵_바르테즈.md "wikilink") (, [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink")), [잔루이지 부폰](../Page/잔루이지_부폰.md "wikilink") (, [2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink")), [이케르 카시야스](../Page/이케르_카시야스.md "wikilink") (, [2010년](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink")), 2실점
 
 **최다 실점 우승 팀 골키퍼**
 
@@ -1380,17 +1380,17 @@
 **가장 많은 나라를 맡은 감독**
 
   -
-    [보라 밀루티노비치](https://ko.wikipedia.org/wiki/보라_밀루티노비치 "wikilink") (5개국, [1986년](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink") , [1990년](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") , [1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") , [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") , [2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") ), [카를루스 아우베르투 파헤이라](../Page/카를루스_아우베르투_파헤이라.md "wikilink") (5개국, [1982년](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink") , [1990년](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") , [1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink"), [2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") , [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") , [2010년](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") )
+    [보라 밀루티노비치](../Page/보라_밀루티노비치.md "wikilink") (5개국, [1986년](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink") , [1990년](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") , [1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") , [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") , [2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") ), [카를루스 아우베르투 파헤이라](../Page/카를루스_아우베르투_파헤이라.md "wikilink") (5개국, [1982년](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink") , [1990년](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") , [1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink"), [2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") , [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") , [2010년](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") )
 
 **최다 연승 기록을 세운 감독**
 
   -
-    [루이스 펠리피 스콜라리](https://ko.wikipedia.org/wiki/루이스_펠리피_스콜라리 "wikilink") (11경기, 2002년  7경기, 2006년  4경기)
+    [루이스 펠리피 스콜라리](../Page/루이스_펠리피_스콜라리.md "wikilink") (11경기, 2002년  7경기, 2006년  4경기)
 
 **최다 무패 기록을 세운 감독**
 
   -
-    [루이스 펠리피 스콜라리](https://ko.wikipedia.org/wiki/루이스_펠리피_스콜라리 "wikilink") (12경기, 2002년  7경기, 2006년  5경기)
+    [루이스 펠리피 스콜라리](../Page/루이스_펠리피_스콜라리.md "wikilink") (12경기, 2002년  7경기, 2006년  5경기)
 
 **최연소 감독**
 
@@ -1410,7 +1410,7 @@
 **가장 빠른 선수 교체**
 
   -
-    [체사레 말디니의](../Page/체사레_말디니.md "wikilink") [주세페 베르고미와](../Page/주세페_베르고미.md "wikilink") [알레산드로 네스타](../Page/알레산드로_네스타.md "wikilink") 교체 (4분, , 대 [오스트리아](../Page/오스트리아_축구_국가대표팀.md "wikilink"), [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink")), [스벤예란 에릭손의](../Page/스벤예란_에릭손.md "wikilink") [피터 크라우치와](../Page/피터_크라우치.md "wikilink") [마이클 오언](https://ko.wikipedia.org/wiki/마이클_오언 "wikilink") 교체 (4분, , 대 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink"), [2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink"))
+    [체사레 말디니의](../Page/체사레_말디니.md "wikilink") [주세페 베르고미와](../Page/주세페_베르고미.md "wikilink") [알레산드로 네스타](../Page/알레산드로_네스타.md "wikilink") 교체 (4분, , 대 [오스트리아](../Page/오스트리아_축구_국가대표팀.md "wikilink"), [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink")), [스벤예란 에릭손의](../Page/스벤예란_에릭손.md "wikilink") [피터 크라우치와](../Page/피터_크라우치.md "wikilink") [마이클 오언](https://ko.wikipedia.org/wiki/마이클_오언 "wikilink") 교체 (4분, , 대 [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink"), [2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink"))
 
 **선수와 감독으로 최다 우승을 경험한 감독**
 
@@ -1431,14 +1431,14 @@
 **대회 도중 경질된 감독**
 
   -
-    [차범근](https://ko.wikipedia.org/wiki/차범근 "wikilink") ( 1998년. 조별리그 2경기 만에 경질됨.), [카를루스 아우베르투 파헤이라](../Page/카를루스_아우베르투_파헤이라.md "wikilink") ( 1998년. 조별리그 2경기 만에 경질됨.), [헨리크 카스페르차크](https://ko.wikipedia.org/wiki/헨리크_카스페르차크 "wikilink") ( 1998년. 조별리그 2경기 만에 경질됨.)
+    [차범근](../Page/차범근.md "wikilink") ( 1998년. 조별리그 2경기 만에 경질됨.), [카를루스 아우베르투 파헤이라](../Page/카를루스_아우베르투_파헤이라.md "wikilink") ( 1998년. 조별리그 2경기 만에 경질됨.), [헨리크 카스페르차크](https://ko.wikipedia.org/wiki/헨리크_카스페르차크 "wikilink") ( 1998년. 조별리그 2경기 만에 경질됨.)
 
 ## 심판
 
 **최다 대회 심판**
 
   -
-    [얀 랑게누스](https://ko.wikipedia.org/wiki/얀_랑게누스 "wikilink") (, 1930년\~1938년), [이반 에클린드](https://ko.wikipedia.org/wiki/이반_에클린드 "wikilink") (, 1934년\~1950년), [벤자민 그리피츠](https://ko.wikipedia.org/wiki/벤자민_그리피츠 "wikilink") (, 1950년\~1958년), [아서 엘리스](https://ko.wikipedia.org/wiki/아서_엘리스 "wikilink") (, 1950년\~1958년), [후안 가르데아사발](https://ko.wikipedia.org/wiki/후안_가르데아사발 "wikilink") (, 1958년\~1966년), [자말 알샤리프](https://ko.wikipedia.org/wiki/자말_알샤리프 "wikilink") (, 1986년\~1994년), [조엘 키니우](https://ko.wikipedia.org/wiki/조엘_키니우 "wikilink") (, 1986년\~1994년) [알리 부지사임](https://ko.wikipedia.org/wiki/알리_부지사임 "wikilink") (, 1994년\~2002년), [오스카르 루이스](https://ko.wikipedia.org/wiki/오스카르_루이스 "wikilink") (, 2002년\~2010년), [카를루스 이우제니우 시몽](https://ko.wikipedia.org/wiki/카를루스_이우제니우_시몽 "wikilink") (, 2002년\~2010년), 3회
+    [얀 랑게누스](https://ko.wikipedia.org/wiki/얀_랑게누스 "wikilink") (, 1930년\~1938년), [이반 에클린드](https://ko.wikipedia.org/wiki/이반_에클린드 "wikilink") (, 1934년\~1950년), [벤자민 그리피츠](https://ko.wikipedia.org/wiki/벤자민_그리피츠 "wikilink") (, 1950년\~1958년), [아서 엘리스](https://ko.wikipedia.org/wiki/아서_엘리스 "wikilink") (, 1950년\~1958년), [후안 가르데아사발](https://ko.wikipedia.org/wiki/후안_가르데아사발 "wikilink") (, 1958년\~1966년), [자말 알샤리프](https://ko.wikipedia.org/wiki/자말_알샤리프 "wikilink") (, 1986년\~1994년), [조엘 키니우](https://ko.wikipedia.org/wiki/조엘_키니우 "wikilink") (, 1986년\~1994년) [알리 부지사임](https://ko.wikipedia.org/wiki/알리_부지사임 "wikilink") (, 1994년\~2002년), [오스카르 루이스](../Page/오스카르_루이스.md "wikilink") (, 2002년\~2010년), [카를루스 이우제니우 시몽](https://ko.wikipedia.org/wiki/카를루스_이우제니우_시몽 "wikilink") (, 2002년\~2010년), 3회
 
 **최다 경기 심판**
 
@@ -1448,7 +1448,7 @@
 **한 대회 최다 경기 심판**
 
   -
-    [베니토 아르춘디아](https://ko.wikipedia.org/wiki/베니토_아르춘디아 "wikilink") (, 2006년), [오라시오 엘리손도](https://ko.wikipedia.org/wiki/오라시오_엘리손도 "wikilink") (, 2006년), [랍샨 이르마토프](https://ko.wikipedia.org/wiki/랍샨_이르마토프 "wikilink") (, 2010년), 5경기
+    [베니토 아르춘디아](https://ko.wikipedia.org/wiki/베니토_아르춘디아 "wikilink") (, 2006년), [오라시오 엘리손도](../Page/오라시오_엘리손도.md "wikilink") (, 2006년), [랍샨 이르마토프](../Page/랍샨_이르마토프.md "wikilink") (, 2010년), 5경기
 
 **최연소 심판**
 
@@ -1490,7 +1490,7 @@
 **벤치에서 퇴장당한 선수**
 
   -
-    [클라우디오 카니히아](https://ko.wikipedia.org/wiki/클라우디오_카니히아 "wikilink") (, 대 , [2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink"))
+    [클라우디오 카니히아](../Page/클라우디오_카니히아.md "wikilink") (, 대 , [2002년](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink"))
 
 **아무 이유 없는 퇴장**
 
@@ -1500,17 +1500,17 @@
 **교체 도중 경고 선수**
 
   -
-    [앙헬 디 마리아](https://ko.wikipedia.org/wiki/앙헬_디_마리아 "wikilink") (, 대 , [2014년](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 지역예선)
+    [앙헬 디 마리아](../Page/앙헬_디_마리아.md "wikilink") (, 대 , [2014년](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 지역예선)
 
 **최다 카드 선수**
 
   -
-    [지네딘 지단](https://ko.wikipedia.org/wiki/지네딘_지단 "wikilink") (, 1998년\~2006년), [카푸](https://ko.wikipedia.org/wiki/카푸 "wikilink") (, 1994년\~2006년), 6회
+    [지네딘 지단](https://ko.wikipedia.org/wiki/지네딘_지단 "wikilink") (, 1998년\~2006년), [카푸](../Page/카푸.md "wikilink") (, 1994년\~2006년), 6회
 
 **최다 경고 선수**
 
   -
-    [카푸](https://ko.wikipedia.org/wiki/카푸 "wikilink") (, 1994년\~2006년), 6회
+    [카푸](../Page/카푸.md "wikilink") (, 1994년\~2006년), 6회
 
 **최다 경고 팀**
 
@@ -1575,22 +1575,22 @@
 **최다 관중 경기**
 
   -
-    [1950년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵 "wikilink") 브라질 리우데자네이루 [마라카낭 경기장](https://ko.wikipedia.org/wiki/마라카낭_경기장 "wikilink"), [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") [우루과이](../Page/우루과이_축구_국가대표팀.md "wikilink") 대 [브라질](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink"), 199,854명
+    [1950년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵 "wikilink") 브라질 리우데자네이루 [마라카낭 경기장](https://ko.wikipedia.org/wiki/마라카낭_경기장 "wikilink"), [1950년](../Page/1950년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") [우루과이](../Page/우루과이_축구_국가대표팀.md "wikilink") 대 [브라질](../Page/브라질_축구_국가대표팀.md "wikilink"), 199,854명
 
 **최저 관중 경기**
 
   -
-    [1930년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") 우루과이 몬테비데오 [포시토스 경기장](https://ko.wikipedia.org/wiki/포시토스_경기장 "wikilink"), [1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") [7월 14일](https://ko.wikipedia.org/wiki/7월_14일 "wikilink") [루마니아](../Page/루마니아_축구_국가대표팀.md "wikilink") 대 [페루](../Page/페루_축구_국가대표팀.md "wikilink"), 300명
+    [1930년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") 우루과이 몬테비데오 [포시토스 경기장](https://ko.wikipedia.org/wiki/포시토스_경기장 "wikilink"), [1930년](../Page/1930년.md "wikilink") [7월 14일](../Page/7월_14일.md "wikilink") [루마니아](../Page/루마니아_축구_국가대표팀.md "wikilink") 대 [페루](../Page/페루_축구_국가대표팀.md "wikilink"), 300명
 
 **최다 관중 경기 (지역예선)**
 
   -
-    [1978년 FIFA 월드컵 남아메리카 지역 예선](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵_남아메리카_지역_예선 "wikilink") 브라질 리우데자네이루 [마라카낭 경기장](https://ko.wikipedia.org/wiki/마라카낭_경기장 "wikilink"), [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") [브라질](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 대 [콜롬비아](../Page/콜롬비아_축구_국가대표팀.md "wikilink"), 162,764명
+    [1978년 FIFA 월드컵 남아메리카 지역 예선](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵_남아메리카_지역_예선 "wikilink") 브라질 리우데자네이루 [마라카낭 경기장](https://ko.wikipedia.org/wiki/마라카낭_경기장 "wikilink"), [1977년](../Page/1977년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") [브라질](../Page/브라질_축구_국가대표팀.md "wikilink") 대 [콜롬비아](../Page/콜롬비아_축구_국가대표팀.md "wikilink"), 162,764명
 
 **최저 관중 경기 (지역예선)**
 
   -
-    [2006년 FIFA 월드컵 북아메리카 지역 예선](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_북아메리카_지역_예선 "wikilink") 코스타리카 산호세 [히카르도 사프리사 경기장](https://ko.wikipedia.org/wiki/히카르도_사프리사_경기장 "wikilink"), [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") [코스타리카](https://ko.wikipedia.org/wiki/코스타리카_축구_국가대표팀 "wikilink") 대 [파나마](../Page/파나마_축구_국가대표팀.md "wikilink"), 무관중
+    [2006년 FIFA 월드컵 북아메리카 지역 예선](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_북아메리카_지역_예선 "wikilink") 코스타리카 산호세 [히카르도 사프리사 경기장](https://ko.wikipedia.org/wiki/히카르도_사프리사_경기장 "wikilink"), [2005년](../Page/2005년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") [코스타리카](../Page/코스타리카_축구_국가대표팀.md "wikilink") 대 [파나마](../Page/파나마_축구_국가대표팀.md "wikilink"), 무관중
 
 **월드컵 대회 한 경기 최다 평균 관중**
 
@@ -1640,7 +1640,7 @@
 
   -
 
-    [로베르토 바조](https://ko.wikipedia.org/wiki/로베르토_바조 "wikilink") ([1990년](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") 준결승전, [1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") 결승전, [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 8강전)
+    [로베르토 바조](../Page/로베르토_바조.md "wikilink") ([1990년](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") 준결승전, [1994년](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") 결승전, [1998년](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 8강전)
 
 **한 팀의 승부차기 최다 득점**
 
@@ -1706,7 +1706,7 @@
 
   -
 
-    [히카르두](../Page/히카르두_페레이라.md "wikilink") ([2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink"), 대 ),  [줄리우 세자르](https://ko.wikipedia.org/wiki/줄리우_세자르_소아리스_이스핀돌라 "wikilink") ([2014년](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"), 대 ), 3회
+    [히카르두](../Page/히카르두_페레이라.md "wikilink") ([2006년](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink"), 대 ),  [줄리우 세자르](../Page/줄리우_세자르_소아리스_이스핀돌라.md "wikilink") ([2014년](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"), 대 ), 3회
 
 **한 대회 승부차기 최다 선방 골키퍼**
 

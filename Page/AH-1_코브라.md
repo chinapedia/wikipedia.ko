@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - [대한민국 육군](https://ko.wikipedia.org/wiki/대한민국_육군 "wikilink")
+  - [대한민국 육군](../Page/대한민국_육군.md "wikilink")
       - AH-1J "SEA COBRA"(20대 인도)
       - AH-1S/F (1988년 80대 인도- 제인연감, 80대의 F형)
 
@@ -121,7 +121,7 @@
 
 <!-- end list -->
 
-  - [스페인 해군은](https://ko.wikipedia.org/wiki/스페인_해군 "wikilink") 8대의 AH-1G를 인도받음.
+  - [스페인 해군은](../Page/스페인_해군.md "wikilink") 8대의 AH-1G를 인도받음.
 
 ## 제원
 
@@ -139,7 +139,7 @@
   - 최대 이륙 중량 : 4,309 kg
   - 회전 블레이드 : 2엽
   - 엔진 : [AVCO 라이코밍](https://ko.wikipedia.org/wiki/라이코밍 "wikilink") [T53-L-13](https://ko.wikipedia.org/wiki/라이코밍_T53 "wikilink")
-  - 엔진 방식 : [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink")
+  - 엔진 방식 : [터보샤프트](../Page/터보샤프트.md "wikilink")
   - 엔진 대수 : 1대
 
 <!-- end list -->
@@ -179,7 +179,7 @@
   - 최대 이륙 중량 : 4,500 kg
   - 회전 블레이드 : 2엽
   - 엔진 : [AVCO 라이코밍](https://ko.wikipedia.org/wiki/라이코밍 "wikilink") [T53-L-703](https://ko.wikipedia.org/wiki/라이코밍_T53 "wikilink")
-  - 엔진 방식 : [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink")
+  - 엔진 방식 : [터보샤프트](../Page/터보샤프트.md "wikilink")
   - 엔진 대수 : 1대
   - 엔진 출력 : 1,300kw (1,800shp)
 
@@ -220,7 +220,7 @@
   - 순 기체 중량 : 4,120 kg
   - 최대 이륙 중량 : 6,690 kg
   - 로터 시스템 : 메인 로터에 2개의 블레이드, 테일 로터에 2개의 블레이드
-  - 엔진 출력 : 1,300kw급 제너럴 일렉트릭 T700-401 [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink") 엔진 2개, 총합 2,600kw
+  - 엔진 출력 : 1,300kw급 제너럴 일렉트릭 T700-401 [터보샤프트](../Page/터보샤프트.md "wikilink") 엔진 2개, 총합 2,600kw
   - 최대 속도 : 시속 352km(218 mph)
   - 작전반경 : 317 [해리](../Page/해리.md "wikilink") (587 km)
   - 상승한도 : 12,200 ft (3,720 m)
@@ -236,7 +236,7 @@
   - LAU-68C/A(7발) 또는 LAU-61D/A(19발) 발사대에 장착된 [히드라 70](https://ko.wikipedia.org/wiki/히드라_70 "wikilink") 또는 [APKWS 로켓](../Page/APKWS.md "wikilink")
   - [TOW 미사일](../Page/BGM-71_토우.md "wikilink") - 2개의 4라운드 XM65 미사일 발사대에 장착된 최대 8개의 미사일, 외부 하드포인트당 1개
   - [AGM-114 헬파이어](../Page/AGM-114_헬파이어.md "wikilink") - 2개의 4단 M272 미사일 발사대에 장착된 최대 8개의 미사일, 외부 하드포인트당 1개
-  - [AIM-9 사이드와인더](https://ko.wikipedia.org/wiki/AIM-9_사이드와인더 "wikilink") 대공 미사일 - 외부 하드 포인트당 1개 장착(총 2개)
+  - [AIM-9 사이드와인더](../Page/AIM-9_사이드와인더.md "wikilink") 대공 미사일 - 외부 하드 포인트당 1개 장착(총 2개)
 
 ## 관련 항목
 

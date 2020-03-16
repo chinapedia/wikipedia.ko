@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HIGH and MIGHTY COLOR](https://ko.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR).
 
 
-**HIGH and MIGHTY COLOR**는 일본의 [오키나와현](https://ko.wikipedia.org/wiki/오키나와현 "wikilink") 출신 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 소속사는 스파이스 뮤직이고 음반사는 소니 뮤직 엔터테인먼트 재팬 산하의 음반사 에스엠이 레코드였으나 2009년 음반사를 스파이스 뮤직으로 이적했다. 줄여서 '하이카라'라고도 불린다. HIGH and MIGHTY는 거만한, 오만한, 위협적인 등의 뜻으로, 위에 뜻에 따라 팬클럽 이름도 오만 클럽이다. 2010년 8월, 공식적으로 해산하였다.
+**HIGH and MIGHTY COLOR**는 일본의 [오키나와현](../Page/오키나와현.md "wikilink") 출신 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 소속사는 스파이스 뮤직이고 음반사는 소니 뮤직 엔터테인먼트 재팬 산하의 음반사 에스엠이 레코드였으나 2009년 음반사를 스파이스 뮤직으로 이적했다. 줄여서 '하이카라'라고도 불린다. HIGH and MIGHTY는 거만한, 오만한, 위협적인 등의 뜻으로, 위에 뜻에 따라 팬클럽 이름도 오만 클럽이다. 2010년 8월, 공식적으로 해산하였다.
 
 ## 내력
 

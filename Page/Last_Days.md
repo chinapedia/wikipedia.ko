@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Last Days](https://ko.wikipedia.org/wiki/Last_Days).
 
 
-***Last Days***는 다이나믹 듀오가 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") 발표한 정규 4집 앨범이다.
+***Last Days***는 다이나믹 듀오가 [2008년](../Page/2008년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") 발표한 정규 4집 앨범이다.
 
 ## 수록곡
 
@@ -10,11 +10,11 @@
 3.  **Solo (Feat: [Alex](../Page/알렉스_\(가수\).md "wikilink"))**
 4.  어머니의 된장국 (Feat: [Ra.D](https://ko.wikipedia.org/wiki/Ra.D "wikilink"))
 5.  Trust Me (Feat: [Supreme Team](https://ko.wikipedia.org/wiki/Supreme_Team "wikilink"))
-6.  해변의 Girl (Feat: [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink"))
+6.  해변의 Girl (Feat: [박진영](../Page/박진영.md "wikilink"))
 7.  Make Up Sex
 8.  Want You Back (Feat: [0CD](https://ko.wikipedia.org/wiki/0CD "wikilink"))
 9.  Good Love (Feat: BSK a.k.a [김범수](../Page/김범수_\(가수\).md "wikilink"))
-10. Don't Say Goodbye (Feat: [J](https://ko.wikipedia.org/wiki/제이_\(가수\) "wikilink"))
+10. Don't Say Goodbye (Feat: [J](../Page/제이_\(가수\).md "wikilink"))
 11. Give Me the Light
 12. 들쥐떼들
 13. **아버지 (Feat: Ra.D)**

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ABC  ](https://ko.wikipedia.org/wiki/ABC__).
 
 
-《**ABC 살인 사건**》(원제：The A.B.C. Murders)은 [1936년](https://ko.wikipedia.org/wiki/1936년 "wikilink")에 발표된 [애거사 크리스티의](../Page/애거사_크리스티.md "wikilink") 추리 소설로서, 작가의 대표작 중 하나이다.
+《**ABC 살인 사건**》(원제：The A.B.C. Murders)은 [1936년](../Page/1936년.md "wikilink")에 발표된 [애거사 크리스티의](../Page/애거사_크리스티.md "wikilink") 추리 소설로서, 작가의 대표작 중 하나이다.
 
 
 \== 줄거리 소개 ==
@@ -38,19 +38,19 @@ A.B.C는 알파벳 순서에 따라 움직였다. 담배 가게 주인인 앨리
 
 **영화**
 
-  - 《The Alphabet Murders》（영국, [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink")）
+  - 《The Alphabet Murders》（영국, [1966년](../Page/1966년.md "wikilink")）
       - 포아로 - [토니 랜달](https://ko.wikipedia.org/wiki/토니_랜달 "wikilink")（Tony Randall）
 
 **TV 작품**
 
-  - [명탐정 푸아로](https://ko.wikipedia.org/wiki/명탐정_푸아로 "wikilink") 《The ABC Murders》（영국 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")）
+  - [명탐정 푸아로](https://ko.wikipedia.org/wiki/명탐정_푸아로 "wikilink") 《The ABC Murders》（영국 [1992년](../Page/1992년.md "wikilink")）
       - 푸아로 - [데이비드 서쳇](https://ko.wikipedia.org/wiki/데이비드_서쳇 "wikilink")
       - 헤이스팅스 - 휴 프레이저
       - 제프 경감 - 필립 잭슨
-  - [명탐정 아카후지 다카시](https://ko.wikipedia.org/wiki/명탐정_아카후지_다카시 "wikilink") 《ABC 살인사건()》(일본 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink"))
+  - [명탐정 아카후지 다카시](https://ko.wikipedia.org/wiki/명탐정_아카후지_다카시 "wikilink") 《ABC 살인사건()》(일본 [2005년](../Page/2005년.md "wikilink"))
 
 **애니메이션**
 
-  - [애거사 크리스티의 명탐정 포와로와 마플](https://ko.wikipedia.org/wiki/애거사_크리스티의_명탐정_포와로와_마플 "wikilink") 《ABC 살인사건()》(일본 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink"))
+  - [애거사 크리스티의 명탐정 포와로와 마플](https://ko.wikipedia.org/wiki/애거사_크리스티의_명탐정_포와로와_마플 "wikilink") 《ABC 살인사건()》(일본 [2004년](../Page/2004년.md "wikilink"))
 
 [분류:1936년 책](https://ko.wikipedia.org/wiki/분류:1936년_책 "wikilink") [분류:애거사 크리스티의 소설](https://ko.wikipedia.org/wiki/분류:애거사_크리스티의_소설 "wikilink") [분류:장편 추리 소설](https://ko.wikipedia.org/wiki/분류:장편_추리_소설 "wikilink") [분류:잉글랜드를 배경으로 한 소설](https://ko.wikipedia.org/wiki/분류:잉글랜드를_배경으로_한_소설 "wikilink")

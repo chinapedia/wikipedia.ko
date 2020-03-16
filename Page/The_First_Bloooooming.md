@@ -8,7 +8,7 @@
   - 3월 29일 - 첫 번째 정규앨범 《the First Bloooooming》 발매
   - 3월 29일 - [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") [엠 카운트다운에서](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink") 'Break It' 데뷔무대
   - 4월 6일 - 〈Break It〉 뮤직비디오 공개
-  - 4월 22일 - [KBS](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")와 'Break It' & 'Toc Toc Toc' 합동무대
+  - 4월 22일 - [KBS](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 [이효리](../Page/이효리.md "wikilink")와 'Break It' & 'Toc Toc Toc' 합동무대
   - 6월 8일 - [MBC](../Page/MBC_TV.md "wikilink") [쇼\! 음악중심에서](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") '맘에 들면 (If U Wanna)' 후속곡 첫 무대
   - 6월 13일 - 〈맘에 들면 (If U Wanna)〉 뮤직비디오 공개
   - 7월 26일 - 울산 Summer Festival에서 〈Secret World〉 후후속곡 첫 무대 & 팬미팅 겸 생일파티

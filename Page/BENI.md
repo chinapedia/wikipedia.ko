@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BENI](https://ko.wikipedia.org/wiki/BENI).
 
 
-**베니**(BENI, [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") \~)는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 본명인 "아라시로 베니"()로 활동했지만 2008년 11월 음반사 이적과 함께 다른 가수의 음반에 참여할 때 사용하던 베니로 이름을 바꿨다.
+**베니**(BENI, [1986년](../Page/1986년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~)는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 본명인 "아라시로 베니"()로 활동했지만 2008년 11월 음반사 이적과 함께 다른 가수의 음반에 참여할 때 사용하던 베니로 이름을 바꿨다.
 
 ## 음반 목록
 

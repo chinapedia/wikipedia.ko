@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Live at Budokan \(  \)](https://ko.wikipedia.org/wiki/Live_at_Budokan_\(__\)).
 
 
-**Live at Budokan**은 [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 라이브 앨범으로 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 10월 5일 발매되었다. 3[CD혹은](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 2[DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")의 형태로 발매된다. 2004년 4월 26일 [일본](../Page/일본.md "wikilink") [도쿄](../Page/도쿄.md "wikilink") [무도관에서](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 열린 공연을 녹음한 것이다.
+**Live at Budokan**은 [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 라이브 앨범으로 [2004년](../Page/2004년.md "wikilink") 10월 5일 발매되었다. 3[CD혹은](../Page/콤팩트_디스크.md "wikilink") 2[DVD](../Page/DVD.md "wikilink")의 형태로 발매된다. 2004년 4월 26일 [일본](../Page/일본.md "wikilink") [도쿄](../Page/도쿄.md "wikilink") [무도관에서](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 열린 공연을 녹음한 것이다.
 
 ## 곡 목록
 
@@ -14,10 +14,10 @@
 ## 구성원
 
   - [제임스 라브리에](../Page/제임스_라브리에.md "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [퍼커션](https://ko.wikipedia.org/wiki/퍼커션 "wikilink")
-  - [존 명](../Page/존_명.md "wikilink") – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [챕맨 스틱](https://ko.wikipedia.org/wiki/챕맨_스틱 "wikilink")
-  - [존 페트루치](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink")
+  - [존 명](../Page/존_명.md "wikilink") – [베이스 기타](../Page/베이스_기타.md "wikilink"), [챕맨 스틱](https://ko.wikipedia.org/wiki/챕맨_스틱 "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink") – [기타](../Page/기타.md "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink")
   - [마이크 포트노이](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), 백킹 보컬
-  - [조던 루디스](https://ko.wikipedia.org/wiki/조던_루디스 "wikilink") – [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
+  - [조던 루디스](../Page/조던_루디스.md "wikilink") – [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
 
 ## RIAA 인증
 

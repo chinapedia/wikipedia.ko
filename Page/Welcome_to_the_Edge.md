@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>일본 <a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a></p></td>
+<td><p>일본 <a href="../Page/빌보드.md" title="wikilink">빌보드</a></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">

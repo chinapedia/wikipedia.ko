@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [The Secret Code](https://ko.wikipedia.org/wiki/The_Secret_Code).
 
 
-| 이 앨범에 수록된 싱글                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------- |
-| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink")   |
-| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 23일](https://ko.wikipedia.org/wiki/4월_23일 "wikilink")   |
-| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink")   |
-| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 21일](https://ko.wikipedia.org/wiki/1월_21일 "wikilink")   |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink")   |
-|                                                                                                                     |
+| 이 앨범에 수록된 싱글                                                                  |
+| ----------------------------------------------------------------------------- |
+| [2008년](../Page/2008년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink")   |
+| [2008년](../Page/2008년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink")   |
+| [2008년](../Page/2008년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink")   |
+| [2008년](../Page/2008년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink") |
+| [2009년](../Page/2009년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink")   |
+| [2009년](../Page/2009년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink")   |
+|                                                                               |
 
 《**The Secret Code**》는 대한민국의 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 일본에서 발표된 네 번째 정규 앨범으로 5인 체제 하에 발표된 마지막 정규 음반이다. 앨범 종류는 1CD 버전과 논스톱 믹스 앨범이 추가된 2CD, 그리고 2CD+DVD 총 세 종류로 분류되어 있으며 선행 싱글인 〈Survivor〉를 제외한 모든 수록 싱글이 오리콘 주간 차트 1위를 기록하는 진기록을 세웠다.
 

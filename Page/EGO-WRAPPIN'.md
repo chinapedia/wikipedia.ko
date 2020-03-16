@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EGO-WRAPPIN\'](https://ko.wikipedia.org/wiki/EGO-WRAPPIN\').
 
 
-**에고래핑**(EGO-WRAPPIN')은 일본의 [재즈](https://ko.wikipedia.org/wiki/재즈 "wikilink") [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [긴키 지방에서](https://ko.wikipedia.org/wiki/긴키_지방 "wikilink") 각자 음악 활동을 하던 두 사람이 라이브 하우스에서 만나 1996년에 팀을 결성하면서 시작되었다.\[1\] 2008년에는 [김혜수](https://ko.wikipedia.org/wiki/김혜수 "wikilink")가 부른 이들의 곡 〈색채의 블루스〉가 영화 《[모던 보이](../Page/모던_보이.md "wikilink")》에 사용됐으며, 디지털 싱글로도 발매됐다\[2\].
+**에고래핑**(EGO-WRAPPIN')은 일본의 [재즈](../Page/재즈.md "wikilink") [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [긴키 지방에서](../Page/긴키_지방.md "wikilink") 각자 음악 활동을 하던 두 사람이 라이브 하우스에서 만나 1996년에 팀을 결성하면서 시작되었다.\[1\] 2008년에는 [김혜수](../Page/김혜수.md "wikilink")가 부른 이들의 곡 〈색채의 블루스〉가 영화 《[모던 보이](../Page/모던_보이.md "wikilink")》에 사용됐으며, 디지털 싱글로도 발매됐다\[2\].
 
 ## 멤버
 

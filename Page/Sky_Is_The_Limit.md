@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sky Is The Limit](https://ko.wikipedia.org/wiki/Sky_Is_The_Limit).
 
 
-《**Sky Is The Limit**》는 2007년 9월 5일에 발매된 [드렁큰 타이거의](https://ko.wikipedia.org/wiki/드렁큰_타이거 "wikilink") 정규 7집 앨범이다.
+《**Sky Is The Limit**》는 2007년 9월 5일에 발매된 [드렁큰 타이거의](../Page/드렁큰_타이거.md "wikilink") 정규 7집 앨범이다.
 
 ## 수록곡
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  \(KBS 1\)](https://ko.wikipedia.org/wiki/__\(KBS_1\)).
 
 
-**라디오 네트워크**는 [KBS 1라디오에서](../Page/KBS_제1라디오.md "wikilink") [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 17일부터](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 31일까지](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 방송했던 시사프로그램이다.
+**라디오 네트워크**는 [KBS 1라디오에서](../Page/KBS_제1라디오.md "wikilink") [2008년](../Page/2008년.md "wikilink") [11월 17일부터](../Page/11월_17일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [12월 31일까지](../Page/12월_31일.md "wikilink") 방송했던 시사프로그램이다.
 
 이 프로그램은 수도권과 창원, 부산, 울산, 대구 지역에서만 방송되고 있으며, 그 외의 지역에서는 자체방송을 따로 하고있다.
 
-진행자는 [이규봉](https://ko.wikipedia.org/wiki/이규봉 "wikilink") 아나운서이며, 방송시간은 평일 오후 3시 10분부터 오후 3시 58분까지이다.
+진행자는 [이규봉](../Page/이규봉.md "wikilink") 아나운서이며, 방송시간은 평일 오후 3시 10분부터 오후 3시 58분까지이다.
 
 ## 지역 방송국 프로그램
 
@@ -13,7 +13,7 @@
 
 | 프로그램                                                                  | 방송권역                                                     | 방송국                                                     | 진행자                                                 |
 | --------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- |
-| [라디오 춘천](https://ko.wikipedia.org/wiki/라디오_춘천 "wikilink")             | [강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink")      | [KBS춘천](https://ko.wikipedia.org/wiki/KBS춘천 "wikilink") | 국은주                                                 |
+| [라디오 춘천](https://ko.wikipedia.org/wiki/라디오_춘천 "wikilink")             | [강원도](../Page/강원도.md "wikilink")                         | [KBS춘천](https://ko.wikipedia.org/wiki/KBS춘천 "wikilink") | 국은주                                                 |
 | 시사강원                                                                  | [KBS강릉](https://ko.wikipedia.org/wiki/KBS강릉 "wikilink")  | [김경미](https://ko.wikipedia.org/wiki/김경미 "wikilink")     |                                                     |
 | [생방송 오늘 원주입니다](https://ko.wikipedia.org/wiki/생방송_오늘_원주입니다 "wikilink") | [KBS원주](https://ko.wikipedia.org/wiki/KBS원주 "wikilink")  | 유연배                                                     |                                                     |
 | 즐거운라디오                                                                | [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink")    | [KBS안동](https://ko.wikipedia.org/wiki/KBS안동 "wikilink") | [오세창](../Page/오세창.md "wikilink")                    |

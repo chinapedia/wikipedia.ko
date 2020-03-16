@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Metropolis 2000: Scenes from New York](https://ko.wikipedia.org/wiki/Metropolis_2000:_Scenes_from_New_York).
 
 
-**Metropolis 2000 : Scenes From New York**은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림 시어터가](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 발매한 [VHS](../Page/VHS.md "wikilink")/[DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")앨범이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 4월 21일 [엘렉트라 레코드를](https://ko.wikipedia.org/wiki/엘렉트라_레코드 "wikilink") 통해 발매되었다. 라이브 공연은 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 8월 30일 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink") [로즈랜드 볼룸에서](https://ko.wikipedia.org/wiki/로즈랜드_볼룸 "wikilink") 열린 Metropolis 2000 투어의 마지막 공연이다.
+**Metropolis 2000 : Scenes From New York**은 [미국](../Page/미국.md "wikilink") [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림 시어터가](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 발매한 [VHS](../Page/VHS.md "wikilink")/[DVD](../Page/DVD.md "wikilink")앨범이다. [2001년](../Page/2001년.md "wikilink") 4월 21일 [엘렉트라 레코드를](https://ko.wikipedia.org/wiki/엘렉트라_레코드 "wikilink") 통해 발매되었다. 라이브 공연은 [2000년](../Page/2000년.md "wikilink") 8월 30일 [뉴욕](../Page/뉴욕.md "wikilink") [로즈랜드 볼룸에서](https://ko.wikipedia.org/wiki/로즈랜드_볼룸 "wikilink") 열린 Metropolis 2000 투어의 마지막 공연이다.
 
 VHS앨범에는 Scenes from a Memory앨범 부분의 공연만 들어가 있다.
 
@@ -21,7 +21,7 @@ VHS앨범에는 Scenes from a Memory앨범 부분의 공연만 들어가 있다.
 4.  Act 1, Scene 3: Part I. "Through My Words" – 1:42
 5.  Act 1, Scene 3: Part II. "Fatal Tragedy" – 6:21
 6.  Act 1, Scene 4: "[Beyond This Life](https://ko.wikipedia.org/wiki/Beyond_This_Life "wikilink")" – 11:26
-7.  "[John](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") & [Theresa](https://ko.wikipedia.org/wiki/테레사_토머슨 "wikilink") [Solo Spot](https://ko.wikipedia.org/wiki/독주 "wikilink")" – 3:17
+7.  "[John](../Page/존_페트루치.md "wikilink") & [Theresa](https://ko.wikipedia.org/wiki/테레사_토머슨 "wikilink") [Solo Spot](https://ko.wikipedia.org/wiki/독주 "wikilink")" – 3:17
 8.  Act 1, Scene 5: "[Through Her Eyes](https://ko.wikipedia.org/wiki/Through_Her_Eyes "wikilink")" – 6:17
 9.  Act 2, Scene 6: "[Home](https://ko.wikipedia.org/wiki/Home_\(드림_시어터의_곡\) "wikilink")" – 13:21
 10. Act 2, Scene 7: Part I. "[The Dance of Eternity](https://ko.wikipedia.org/wiki/The_Dance_of_Eternity "wikilink")" – 6:24
@@ -33,7 +33,7 @@ VHS앨범에는 Scenes from a Memory앨범 부분의 공연만 들어가 있다.
 
 1.  "[A Mind Beside Itself I: Erotomania](https://ko.wikipedia.org/wiki/A_Mind_Beside_Itself "wikilink")" – 7:22
 2.  "A Mind Beside Itself II: Voices" – 9:45
-3.  "A Mind Beside Itself III: [The Silent Man](https://ko.wikipedia.org/wiki/The_Silent_Man "wikilink")" – 5:09
+3.  "A Mind Beside Itself III: [The Silent Man](../Page/The_Silent_Man.md "wikilink")" – 5:09
 4.  "[Learning to Live](https://ko.wikipedia.org/wiki/Learning_to_Live "wikilink")" – 14:02
 5.  "[A Change of Seasons](https://ko.wikipedia.org/wiki/A_Change_of_Seasons_\(곡\) "wikilink")" – 24:35
 
@@ -45,7 +45,7 @@ VHS앨범에는 Scenes from a Memory앨범 부분의 공연만 들어가 있다.
 
 이 통계자료는 [RIAA 인증](https://ko.wikipedia.org/wiki/RIAA_인증 "wikilink") 온라인 데이터베이스에 의해 수집된 것이다.\[2\]
 
-  - *골드* - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink")
+  - *골드* - [2002년](../Page/2002년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink")
 
 ## 각주
 

@@ -37,7 +37,7 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/B2K_(앨범)" title="wikilink">B2K</a></em></p>
 <ul>
 <li>첫 스튜디오 앨범</li>
-<li>발매: <a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/3월_12일" title="wikilink">3월 12일</a></li>
+<li>발매: <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/3월_12일.md" title="wikilink">3월 12일</a></li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>1</p></td>
@@ -46,7 +46,7 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/Pandemonium!" title="wikilink">Pandemonium!</a></em></p>
 <ul>
 <li>두 번째 스튜디오 앨범</li>
-<li>발매: <a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/12월_10일" title="wikilink">12월 10일</a></li>
+<li>발매: <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/12월_10일.md" title="wikilink">12월 10일</a></li>
 </ul></td>
 <td><p>10</p></td>
 <td><p>3</p></td>
@@ -78,7 +78,7 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/B2K:_The_Remixes_-_Volume_1" title="wikilink">B2K: The Remixes - Volume 1</a></em> (EP)</p>
 <ul>
 <li>첫 리믹스 앨범</li>
-<li>발매: <a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/3월_12일" title="wikilink">3월 12일</a></li>
+<li>발매: <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/3월_12일.md" title="wikilink">3월 12일</a></li>
 </ul></td>
 <td><p>129</p></td>
 <td><p>47</p></td>
@@ -92,8 +92,8 @@
 <tr class="even">
 <td><p><em><a href="https://ko.wikipedia.org/wiki/Santa_Hooked_Me_Up" title="wikilink">Santa Hooked Me Up</a></em></p>
 <ul>
-<li>첫 <a href="https://ko.wikipedia.org/wiki/크리스마스" title="wikilink">크리스마스</a> 앨범</li>
-<li>발매: <a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/10월_29일" title="wikilink">10월 29일</a></li>
+<li>첫 <a href="../Page/크리스마스.md" title="wikilink">크리스마스</a> 앨범</li>
+<li>발매: <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/10월_29일.md" title="wikilink">10월 29일</a></li>
 </ul></td>
 <td><p>132</p></td>
 <td><p>35</p></td>
@@ -104,7 +104,7 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/The_Remixes_-_Volume_2" title="wikilink">The Remixes - Volume 2</a></em> (EP)</p>
 <ul>
 <li>두 번째 리믹스 앨범</li>
-<li>발매: <a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/7월_1일" title="wikilink">7월 1일</a></li>
+<li>발매: <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a></li>
 </ul></td>
 <td><p>192</p></td>
 <td><p>38</p></td>
@@ -114,7 +114,7 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/B2K_Greatest_Hits" title="wikilink">B2K Greatest Hits</a></em></p>
 <ul>
 <li>첫 컴플리에이션 앨범</li>
-<li>발매: <a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a> <a href="https://ko.wikipedia.org/wiki/3월_23일" title="wikilink">3월 23일</a></li>
+<li>발매: <a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/3월_23일.md" title="wikilink">3월 23일</a></li>
 </ul></td>
 <td><p>-</p></td>
 <td><p>76</p></td>
@@ -123,7 +123,7 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/You_Got_Served_Soundtrack" title="wikilink">You Got Served Soundtrack</a></em></p>
 <ul>
 <li>사운드트랙</li>
-<li>발매: <a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/12월_23일" title="wikilink">12월 23일</a></li>
+<li>발매: <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/12월_23일.md" title="wikilink">12월 23일</a></li>
 </ul></td>
 <td><p>34</p></td>
 <td><p>7</p></td>
@@ -140,7 +140,7 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/B2K_Is_Hot!_Boys_of_the_Millennium" title="wikilink">B2K Is Hot! Boys of the Millennium</a></em></p>
 <ul>
 <li>두 번째 컴플리에이션 앨범</li>
-<li>발매: <a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/7월_6일" title="wikilink">7월 6일</a></li>
+<li>발매: <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/7월_6일.md" title="wikilink">7월 6일</a></li>
 </ul></td>
 <td><p>-</p></td>
 <td><p>-</p></td>

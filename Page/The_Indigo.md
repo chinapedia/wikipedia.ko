@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Indigo](https://ko.wikipedia.org/wiki/The_Indigo).
 
 
-**the Indigo**는 [일본](../Page/일본.md "wikilink")의 음악 그룹이다. [1998](https://ko.wikipedia.org/wiki/1998 "wikilink")년 타오카 미키(田岡美樹), 타카기 켄이치(高木権一), 이치카와 유이치(市川裕一) 세 명이 결성했다. 2001년 경 타카키켄이치가 탈퇴하고 타오카 미키, 이치카와 유이치의 2인조로 활동하였다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 이치카와 유이치도 작곡가로 본격 활동하면서 실질적으로팀을 탈퇴하고, 타오카 미키 홀로 활동하였다. 그러나 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 이치카와 유이치가 다시합류, 현재 더 인디고 데뷔 10주년 앨범 발매를 준비하고있다.
+**the Indigo**는 [일본](../Page/일본.md "wikilink")의 음악 그룹이다. [1998](https://ko.wikipedia.org/wiki/1998 "wikilink")년 타오카 미키(田岡美樹), 타카기 켄이치(高木権一), 이치카와 유이치(市川裕一) 세 명이 결성했다. 2001년 경 타카키켄이치가 탈퇴하고 타오카 미키, 이치카와 유이치의 2인조로 활동하였다. [2007년](../Page/2007년.md "wikilink") 이치카와 유이치도 작곡가로 본격 활동하면서 실질적으로팀을 탈퇴하고, 타오카 미키 홀로 활동하였다. 그러나 [2010년](../Page/2010년.md "wikilink") 이치카와 유이치가 다시합류, 현재 더 인디고 데뷔 10주년 앨범 발매를 준비하고있다.
 
 ## 멤버
 

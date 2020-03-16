@@ -6,7 +6,7 @@
 ## 개요
 
   - [슈퍼 유로비트와의](https://ko.wikipedia.org/wiki/슈퍼_유로비트 "wikilink") [콜레보레이션으로](https://ko.wikipedia.org/wiki/콜라보레이션 "wikilink") 탄생된 작품이다.
-  - 리믹스는 [데이브 로저스](https://ko.wikipedia.org/wiki/데이브_로저스 "wikilink"), [로랑 뉴필드](https://ko.wikipedia.org/wiki/로랑_뉴필드 "wikilink"), [세르지오 달로라](https://ko.wikipedia.org/wiki/세르지오_달로라 "wikilink"), [뉴 제네레이션](https://ko.wikipedia.org/wiki/뉴_제네레이션 "wikilink"), [안드레아 레오날디](https://ko.wikipedia.org/wiki/:ja:アンドレア・レオナルディ "wikilink") 등의 [유로비트](https://ko.wikipedia.org/wiki/유로비트 "wikilink")계의 중진들이 참가했다.
+  - 리믹스는 [데이브 로저스](../Page/데이브_로저스.md "wikilink"), [로랑 뉴필드](https://ko.wikipedia.org/wiki/로랑_뉴필드 "wikilink"), [세르지오 달로라](https://ko.wikipedia.org/wiki/세르지오_달로라 "wikilink"), [뉴 제네레이션](https://ko.wikipedia.org/wiki/뉴_제네레이션 "wikilink"), [안드레아 레오날디](https://ko.wikipedia.org/wiki/:ja:アンドレア・レオナルディ "wikilink") 등의 [유로비트](../Page/유로비트.md "wikilink")계의 중진들이 참가했다.
 
 ## 수록곡
 

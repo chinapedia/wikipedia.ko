@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SMIL](https://ko.wikipedia.org/wiki/SMIL).
 
 
-**SMIL**(Synchronized Multimedia Integration Language)은 [멀티미디어](../Page/멀티미디어.md "wikilink") 데이터를 [XML](https://ko.wikipedia.org/wiki/XML "wikilink")을 이용하여 시간적, 공간적으로 배치, 제어하기 위한 W3C 표준 프레젠테이션 언어이다. 2008년 기준으로 SMIL 3.0이 최신 버전이다.
+**SMIL**(Synchronized Multimedia Integration Language)은 [멀티미디어](../Page/멀티미디어.md "wikilink") 데이터를 [XML](../Page/XML.md "wikilink")을 이용하여 시간적, 공간적으로 배치, 제어하기 위한 W3C 표준 프레젠테이션 언어이다. 2008년 기준으로 SMIL 3.0이 최신 버전이다.
 
 ## 버전 역사
 

@@ -5,9 +5,9 @@
 
 ## 개관
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:US_Marine_Corps_UH-1N_Huey_helicopter.jpg "wikilink") 휴이는 [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink") Bell Model 204라는 [미 육군](../Page/미국_육군.md "wikilink") 시제품으로부터 개발되었다. 최초의 제식번호인 HU-1 (helicopter utility)가 휴이(Huey)라는 별명을 낳았다. 군에서 사용된 것은 [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink")부터이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:US_Marine_Corps_UH-1N_Huey_helicopter.jpg "wikilink") 휴이는 [1956년](../Page/1956년.md "wikilink") Bell Model 204라는 [미 육군](../Page/미국_육군.md "wikilink") 시제품으로부터 개발되었다. 최초의 제식번호인 HU-1 (helicopter utility)가 휴이(Huey)라는 별명을 낳았다. 군에서 사용된 것은 [1959년](../Page/1959년.md "wikilink")부터이다.
 
-베트남전에서 주요 임무는 일반 지원, 공중 공격, 화물 운반, 응급환자수송, 탐색구조, 전자전 등이었다. 전쟁기간 동안 휴이는 훨씬 큰 버전인 Model 205에 기초하여 업그레이드 되었다. 이 버전은 최초 제식번호가 UH-1D이며, [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink")에 최초로 작전에 투입되었다.
+베트남전에서 주요 임무는 일반 지원, 공중 공격, 화물 운반, 응급환자수송, 탐색구조, 전자전 등이었다. 전쟁기간 동안 휴이는 훨씬 큰 버전인 Model 205에 기초하여 업그레이드 되었다. 이 버전은 최초 제식번호가 UH-1D이며, [1963년](../Page/1963년.md "wikilink")에 최초로 작전에 투입되었다.
 
 .
 
@@ -104,7 +104,7 @@
   - 최대이륙중량: 9,500 lb (4,310 kg)
   - 연료 탑재량: 1,400 lb (840 kg)
   - 엔진: [Lycoming T53](https://ko.wikipedia.org/wiki/Lycoming_T53 "wikilink")-L-13B
-  - 프로펠러 유형: [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink")
+  - 프로펠러 유형: [터보샤프트](../Page/터보샤프트.md "wikilink")
   - 프로펠러 수: 1개
   - 출력: 1,100 shp (820 kW)
   - 최대속도: 135 mph (220 km/h)
@@ -123,11 +123,11 @@ UH-1D를 1,400 shp (1,000 kW)의 [라이커밍 T53-L-13](https://ko.wikipedia.o
 
 ## 대한민국 도입운용 관련
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서도 UH-1H는 베트남전쟁이 한창이던 1968년 8월, 지휘 통제와 병력 운송을 위해 제21 기동 항공중대 창설과 함께 육군에서 최초로 도입됐다. 육군은 1990년대부터 UH-1H보다 성능이 우수한 [UH-60P 블랙 호크](https://ko.wikipedia.org/wiki/UH-60P_블랙_호크 "wikilink") 헬기를 도입했고, 2012년부터는 국산 기동헬기인 [수리온이](https://ko.wikipedia.org/wiki/KAI_KUH수리온 "wikilink") 전력화 되면서, 2017년부터 오는 2020년까지 단계적으로 UH-1H 140여대 모두 순차적으로 도태시킬 예정이다
+[대한민국](../Page/대한민국.md "wikilink")에서도 UH-1H는 베트남전쟁이 한창이던 1968년 8월, 지휘 통제와 병력 운송을 위해 제21 기동 항공중대 창설과 함께 육군에서 최초로 도입됐다. 육군은 1990년대부터 UH-1H보다 성능이 우수한 [UH-60P 블랙 호크](https://ko.wikipedia.org/wiki/UH-60P_블랙_호크 "wikilink") 헬기를 도입했고, 2012년부터는 국산 기동헬기인 [수리온이](https://ko.wikipedia.org/wiki/KAI_KUH수리온 "wikilink") 전력화 되면서, 2017년부터 오는 2020년까지 단계적으로 UH-1H 140여대 모두 순차적으로 도태시킬 예정이다
 
 ## 육군 도입기 사고
 
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 16일](https://ko.wikipedia.org/wiki/2월_16일 "wikilink") 오전10시경 강원도 춘천시 신북읍 율문리에서 대한민국 육군 205항공대 소속 UH-1H 헬기 1대가 추락해 4명의 사상자가 발생했다. 이날 사고로 1명이 크게 다쳤고, 나머지 대원 3명은 안타깝게 순직하였다. 헬기는 기지 인근 밭에 추락해 크게 파손되었다.\[3\]
+  - [2016년](../Page/2016년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") 오전10시경 강원도 춘천시 신북읍 율문리에서 대한민국 육군 205항공대 소속 UH-1H 헬기 1대가 추락해 4명의 사상자가 발생했다. 이날 사고로 1명이 크게 다쳤고, 나머지 대원 3명은 안타깝게 순직하였다. 헬기는 기지 인근 밭에 추락해 크게 파손되었다.\[3\]
 
 ## 관련 항목
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SLAX](https://ko.wikipedia.org/wiki/SLAX).
 
 
-**SLAX**는 [토마스 마테예식이](https://ko.wikipedia.org/wiki/토마스_마테예식 "wikilink") 개발한 컴퓨터 [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink").
+**SLAX**는 [토마스 마테예식이](https://ko.wikipedia.org/wiki/토마스_마테예식 "wikilink") 개발한 컴퓨터 [운영 체제이다](../Page/운영_체제.md "wikilink").
 
 ## 개요
 

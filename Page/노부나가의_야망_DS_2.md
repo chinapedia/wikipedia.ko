@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [  DS 2](https://ko.wikipedia.org/wiki/__DS_2).
 
 
-《**노부나가의 야망 DS 2**》()는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 31일에](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") 발매되었다. 《[무장풍운록](../Page/노부나가의_야망_무장풍운록.md "wikilink")》이 베이스가 되었지만, [도호쿠 지방의](https://ko.wikipedia.org/wiki/도호쿠_지방 "wikilink") 지도가 세세해졌거나, 무장의 능력치가 변경되어 있거나 하는 것으로, 오리지널판보다 다양한 플레이를 할 수 있게 되었다.
+《**노부나가의 야망 DS 2**》()는 [2008년](../Page/2008년.md "wikilink") [7월 31일에](../Page/7월_31일.md "wikilink") 발매되었다. 《[무장풍운록](../Page/노부나가의_야망_무장풍운록.md "wikilink")》이 베이스가 되었지만, [도호쿠 지방의](../Page/도호쿠_지방.md "wikilink") 지도가 세세해졌거나, 무장의 능력치가 변경되어 있거나 하는 것으로, 오리지널판보다 다양한 플레이를 할 수 있게 되었다.
 
-무장 얼굴 그래픽은 같은 [닌텐도 DS용](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 소프트 《[노부나가의 야망 DS](../Page/노부나가의_야망_DS.md "wikilink")》처럼 《[천하창세](../Page/노부나가의_야망_천하창세.md "wikilink")》나 《[혁신](../Page/노부나가의_야망_혁신.md "wikilink")》 등의 그래픽이 사용되고 있다. 시나리오는 종래의 것 이외에 [1561년](https://ko.wikipedia.org/wiki/1561년 "wikilink") 개시의 시나리오 '비약의 시기(飛躍の時)' 및 세대를 초월하는 무장이 모인 [1557년](https://ko.wikipedia.org/wiki/1557년 "wikilink") 개시의 가공 시나리오 '군웅집결(群雄集結)' 등이 존재한다.
+무장 얼굴 그래픽은 같은 [닌텐도 DS용](../Page/닌텐도_DS.md "wikilink") 소프트 《[노부나가의 야망 DS](../Page/노부나가의_야망_DS.md "wikilink")》처럼 《[천하창세](../Page/노부나가의_야망_천하창세.md "wikilink")》나 《[혁신](../Page/노부나가의_야망_혁신.md "wikilink")》 등의 그래픽이 사용되고 있다. 시나리오는 종래의 것 이외에 [1561년](https://ko.wikipedia.org/wiki/1561년 "wikilink") 개시의 시나리오 '비약의 시기(飛躍の時)' 및 세대를 초월하는 무장이 모인 [1557년](https://ko.wikipedia.org/wiki/1557년 "wikilink") 개시의 가공 시나리오 '군웅집결(群雄集結)' 등이 존재한다.
 
 그 외의 새로운 요소로서는, 각 [다이묘](../Page/다이묘.md "wikilink") 가문에 고유의 전술이 3개씩 설정되었다. 또 기술을 200이상으로 올리는 것으로 각 [구니](https://ko.wikipedia.org/wiki/구니 "wikilink")에서 고유의 기법을 획득할 수 있고, 획득한 기법을 조합하는 것으로서 전술을 3개까지 설정하여, 고유의 것과 합하면 한 다이묘 가문에서 최대 6개의 전술을 가질 수 있다. 마찬가지로 문화를 75이상으로 올리는 것으로 각 구니에서 고유의 특수효과를 얻을 수 있다. 나아가 문화를 100으로 올리면 효과가 영국 전체에 미치게 할 수 있다.
 
 그리고 단시간의 플레이를 위하여 '군웅쟁투 모드(群雄争覇モード)'가 탑재되고, 이를 클리어하는 것으로 스페셜 무장과 무장을 강화할 수 있는 보옥을 획득할 수 있다. 오리지널판에 나왔던 무장은 대부분이 등장하고, 더 추가된 무장도 있다. 단 [미야모토 무사시](../Page/미야모토_무사시.md "wikilink") 등 검호 무장이나, [아사쿠라 소테키](../Page/아사쿠라_소테키.md "wikilink")(朝倉宗滴) 등은 스페셜 무장으로서 제공되는 형태가 되었다. 또, [모리 히데나리](https://ko.wikipedia.org/wiki/모리_히데나리 "wikilink")(毛利秀就) 등 삭제된 무장도 소수 있다.
 
-스페셜 무장은 [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink") 통신을 사용하거나 《나라 뺏기 두뇌 배틀 노부나가의 야망(国盗り頭脳バトル 信長の野望)》과 [무선 통신을](https://ko.wikipedia.org/wiki/무선_통신 "wikilink") 사용하는 것으로도 획득할 수 있다. 이 경우에 생년 설정은 사실에 따른 것은 아니고, 등장하는 시점부터 성년(20\~30세 전후)으로서 취급된다. 스페셜 무장은 게임 개시 때는 물론, 도중에 출현시키는 것도 가능하다.
+스페셜 무장은 [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink") 통신을 사용하거나 《나라 뺏기 두뇌 배틀 노부나가의 야망(国盗り頭脳バトル 信長の野望)》과 [무선 통신을](../Page/무선_통신.md "wikilink") 사용하는 것으로도 획득할 수 있다. 이 경우에 생년 설정은 사실에 따른 것은 아니고, 등장하는 시점부터 성년(20\~30세 전후)으로서 취급된다. 스페셜 무장은 게임 개시 때는 물론, 도중에 출현시키는 것도 가능하다.
 
 [아자이 히사마사](https://ko.wikipedia.org/wiki/아자이_히사마사 "wikilink")(浅井久政)·[나가마사](../Page/아자이_나가마사.md "wikilink") 부자에 의한 튜토리얼도 탑재되어 있다.
 
@@ -24,7 +24,7 @@
 
 :\#[1572년](https://ko.wikipedia.org/wiki/1572년 "wikilink") **몽환 대전봉**(夢幻大転封) - 가공의 시나리오로, 게임을 클리어하면 나타난다.
 
-  - 시나리오 **혼노지의 변**(本能寺の変)이, [아케치 씨](https://ko.wikipedia.org/wiki/아케치_씨 "wikilink") 멸망 후의 **패왕의 후계자**(覇王の後継者)로 변경되었다. 다만, 연대 설정이 잘못되어, [1582년](https://ko.wikipedia.org/wiki/1582년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 개시로 되어 있다.
+  - 시나리오 **혼노지의 변**(本能寺の変)이, [아케치 씨](https://ko.wikipedia.org/wiki/아케치_씨 "wikilink") 멸망 후의 **패왕의 후계자**(覇王の後継者)로 변경되었다. 다만, 연대 설정이 잘못되어, [1582년](https://ko.wikipedia.org/wiki/1582년 "wikilink") [1월](../Page/1월.md "wikilink") 개시로 되어 있다.
   - 통상의 포상은 종래에는 금액을 자유롭게 결정할 수 있었지만, 금50으로 고정되었다.
   - 내정에서의 투자액은 금40으로 고정되었다.
   - 한 번에 징병 가능한 병사 수는 20(2000명)으로 고정되었다.

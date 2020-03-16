@@ -19,7 +19,7 @@
 ## 경과
 
   - 2000년 6월 : 옥타곤 코리아, 창단 의사 표명(5일) 및 기자간담회(21일) 개최.\[1\]
-  - 2001년 2월 26일 : 옥타곤 코리아, 창단 작업 관련 [정몽준](https://ko.wikipedia.org/wiki/정몽준 "wikilink") [대한축구협회](https://ko.wikipedia.org/wiki/대한축구협회 "wikilink") 회장 (당시) 면담 요청 및 기사화.\[2\]
+  - 2001년 2월 26일 : 옥타곤 코리아, 창단 작업 관련 [정몽준](../Page/정몽준.md "wikilink") [대한축구협회](../Page/대한축구협회.md "wikilink") 회장 (당시) 면담 요청 및 기사화.\[2\]
   - 3월 19일 : 'FC 서울 창단 준비팀' 발족.
   - 4월 3일 : 웹사이트 (fcseoul.co.kr) 개설.\[3\]
   - 4월 17일 : 창단계획서를 프로축구연맹에 제출하나 법인 등록 여부의 문제로 반려됨.\[4\]
@@ -27,7 +27,7 @@
 
 ## 컨소시엄 주주 기업
 
-  - [국민은행](https://ko.wikipedia.org/wiki/국민은행 "wikilink")
+  - [국민은행](../Page/국민은행.md "wikilink")
   - [동아일보](../Page/동아일보.md "wikilink")
   - [동양고속](../Page/동양고속.md "wikilink")건설
   - [SBS](../Page/SBS.md "wikilink")

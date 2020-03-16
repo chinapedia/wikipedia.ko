@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
 
 
-**메리 J. 블라이지**(메리 J. 블라이즈, , [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [1월 11일](https://ko.wikipedia.org/wiki/1월_11일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이자 [배우](../Page/배우.md "wikilink")이다.
+**메리 J. 블라이지**(메리 J. 블라이즈, , [1971년](../Page/1971년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이자 [배우](../Page/배우.md "wikilink")이다.
 
 낮은 메조 소프라노 음색을 지닌 뛰어난 [R\&B](../Page/컨템퍼러리_알앤비.md "wikilink") 가수로서, [그래미 어워드](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 9회 수상 기록이 있다. 또한 그녀는 전 세계에서 약 4800만 장 이상의 판매고를 올린 것으로 알려져 있다.
 

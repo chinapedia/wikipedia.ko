@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SNCF TGV ](https://ko.wikipedia.org/wiki/SNCF_TGV_).
 
 
-**SNCF TGV 아틀랑티크**()는 프랑스 [SNCF](https://ko.wikipedia.org/wiki/SNCF "wikilink")에서 사용하는 고속열차이다. [알스톰](../Page/알스톰.md "wikilink")에서 [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink")부터 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")까지 제작하였다. [TGV 쉬드-에스트에](https://ko.wikipedia.org/wiki/SNCF_TGV_쉬드-에스트 "wikilink") 이은 2세대 TGV 열차이다. 이전 차량에 비해서 2량 더 길어졌고, 은색과 파란색으로 도색되었다. 차량 번호는 TGV 24000번부터 부여된다.
+**SNCF TGV 아틀랑티크**()는 프랑스 [SNCF](https://ko.wikipedia.org/wiki/SNCF "wikilink")에서 사용하는 고속열차이다. [알스톰](../Page/알스톰.md "wikilink")에서 [1988년](../Page/1988년.md "wikilink")부터 [1992년](../Page/1992년.md "wikilink")까지 제작하였다. [TGV 쉬드-에스트에](../Page/SNCF_TGV_쉬드-에스트.md "wikilink") 이은 2세대 TGV 열차이다. 이전 차량에 비해서 2량 더 길어졌고, 은색과 파란색으로 도색되었다. 차량 번호는 TGV 24000번부터 부여된다.
 
 1989년 [LGV 아틀랑티크를](https://ko.wikipedia.org/wiki/LGV_아틀랑티크 "wikilink") 개통하면서 복전압 301-405편성(총 105편성)이 영업을 시작하였다. 편성 길이는 237.5m, 너비는 2.9m이다. 편성 중량은 444톤이며, 두 동력차와 열 개의 객차로 총 수송 인원은 485명이다. 최고 속도는 시속 300km이며, 교류 25kV 전원에서 전동기 출력은 8800 kW이다.
 
@@ -14,7 +14,7 @@
 ## 편성
 
   - 301, 302편성: 시제차의 일부로 다른 차량과는 다른 도색을 사용하였다.
-  - 325편성: [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [5월 18일](https://ko.wikipedia.org/wiki/5월_18일 "wikilink") 시속 515.3km 속도 기록을 내는 데 성공하였다. 이 기록은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") [TGV POS](../Page/SNCF_TGV_POS.md "wikilink") 4402편성이 시속 574.8km를 낼 때까지 최고 기록이었다.
+  - 325편성: [1990년](../Page/1990년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink") 시속 515.3km 속도 기록을 내는 데 성공하였다. 이 기록은 [2007년](../Page/2007년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") [TGV POS](../Page/SNCF_TGV_POS.md "wikilink") 4402편성이 시속 574.8km를 낼 때까지 최고 기록이었다.
   - 372\~379편성: [CC 72000](https://ko.wikipedia.org/wiki/SNCF_CC_72000 "wikilink") 디젤 기관차가 견인하는 TGV 방데 서비스에 사용되었다. 현재는 디젤 기관차가 견인하지 않는다.
   - 386\~405편성: TVM430으로 개조되었다.
   - 예비 동력차 24211호가 있다.
@@ -25,7 +25,7 @@
 
 ## 같이 보기
 
-  - [TGV](https://ko.wikipedia.org/wiki/TGV "wikilink")
+  - [TGV](../Page/TGV.md "wikilink")
 
 ## 외부 링크
 

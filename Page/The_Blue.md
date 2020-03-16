@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Blue](https://ko.wikipedia.org/wiki/The_Blue).
 
 
-**The Blue**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹이다. [손지창](../Page/손지창.md "wikilink")과 [김민종](../Page/김민종.md "wikilink")으로 이루어진 남성 2인조 듀오 음악 그룹으로 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 1집 앨범 《The Blue - New Release》로 데뷔하여 많은 사랑을 받고 이후 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 2집 앨범 《The Blue》를 발매하였다. 이후 각각 개별 활동하다가 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 리메이크와 신곡이 섞인 [EP](../Page/익스텐디드_플레이.md "wikilink") 앨범 《The Blue, The First Memories》를 발매 14년 만에 가요계에 컴백했다.
+**The Blue**는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹이다. [손지창](../Page/손지창.md "wikilink")과 [김민종](../Page/김민종.md "wikilink")으로 이루어진 남성 2인조 듀오 음악 그룹으로 [1992년](../Page/1992년.md "wikilink") 1집 앨범 《The Blue - New Release》로 데뷔하여 많은 사랑을 받고 이후 [1995년](../Page/1995년.md "wikilink") 2집 앨범 《The Blue》를 발매하였다. 이후 각각 개별 활동하다가 [2009년](../Page/2009년.md "wikilink") 리메이크와 신곡이 섞인 [EP](../Page/익스텐디드_플레이.md "wikilink") 앨범 《The Blue, The First Memories》를 발매 14년 만에 가요계에 컴백했다.
 
 ## 앨범
 
@@ -18,7 +18,7 @@
 
 ## 같이 보기
 
-  - [SM 엔터테인먼트](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink")
+  - [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink")
 
 ## 외부 링크
 

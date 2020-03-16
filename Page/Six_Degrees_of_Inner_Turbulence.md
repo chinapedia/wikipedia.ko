@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Six Degrees of Inner Turbulence](https://ko.wikipedia.org/wiki/Six_Degrees_of_Inner_Turbulence).
 
 
-**Six Degrees of Inner Turbulence**는 [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 6번째 정규앨범이다. [엘렉트라 레코드를](https://ko.wikipedia.org/wiki/엘렉트라_레코드 "wikilink") 통해 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 발매되었으며 2CD로 구성되어있다.
+**Six Degrees of Inner Turbulence**는 [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 6번째 정규앨범이다. [엘렉트라 레코드를](https://ko.wikipedia.org/wiki/엘렉트라_레코드 "wikilink") 통해 [2002년](../Page/2002년.md "wikilink") 발매되었으며 2CD로 구성되어있다.
 
 ## 영향
 
-이 앨범에 영향을 미친 앨범은 다음과 같다 - [메탈리카](../Page/메탈리카.md "wikilink")의 '[Master of Puppets](../Page/Master_of_Puppets.md "wikilink")', [라디오헤드](https://ko.wikipedia.org/wiki/라디오헤드 "wikilink")의 '[The Bends](../Page/The_Bends.md "wikilink")'(포트노이가 만든 라디오헤드의 [부틀렉](https://ko.wikipedia.org/wiki/부틀렉 "wikilink")도 포함), [판테라](https://ko.wikipedia.org/wiki/판테라 "wikilink")의 '[Far Beyond Driven](https://ko.wikipedia.org/wiki/Far_Beyond_Driven "wikilink")', '[Mouth for War](https://ko.wikipedia.org/wiki/Mouth_for_War "wikilink")'\[1\], [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 곡 "[Holy Wars... The Punishment Due](https://ko.wikipedia.org/wiki/Holy_Wars..._The_Punishment_Due "wikilink")"\[2\], [U2](https://ko.wikipedia.org/wiki/U2 "wikilink")의 '[Achtung Baby](../Page/Achtung_Baby.md "wikilink")', [나인 인치 네일스의](../Page/나인_인치_네일스.md "wikilink") '[The Downward Spiral](https://ko.wikipedia.org/wiki/The_Downward_Spiral "wikilink")', [사운드가든](../Page/사운드가든.md "wikilink")의 '[Superunknown](../Page/Superunknown.md "wikilink")', [앨리스 인 체인스의](../Page/앨리스_인_체인스.md "wikilink") '[Dirt](https://ko.wikipedia.org/wiki/Dirt "wikilink")', [케빈 길버트의](https://ko.wikipedia.org/wiki/케빈_길버트 "wikilink") '[Thud](https://ko.wikipedia.org/wiki/Thud "wikilink")', [킹스 엑스의](https://ko.wikipedia.org/wiki/킹스_엑스 "wikilink") '[Faith Hope Love](https://ko.wikipedia.org/wiki/Faith_Hope_Love "wikilink")', [갈라틱 카우보이스의](https://ko.wikipedia.org/wiki/갈라틱_카우보이스 "wikilink") '[Space in Your Face](https://ko.wikipedia.org/wiki/Space_in_Your_Face "wikilink")', [벨라 바르톡](https://ko.wikipedia.org/wiki/벨라_바르톡 "wikilink"), [레이지 어게인스트 더 머신의](../Page/레이지_어게인스트_더_머신.md "wikilink") '[The Battle of Los Angeles](https://ko.wikipedia.org/wiki/The_Battle_of_Los_Angeles "wikilink")', 그리고 [마리아 티포의](https://ko.wikipedia.org/wiki/마리아_티포 "wikilink") '[Chopin Nocturnes](https://ko.wikipedia.org/wiki/Chopin_Nocturnes "wikilink")'\[3\] 등이 있다.
+이 앨범에 영향을 미친 앨범은 다음과 같다 - [메탈리카](../Page/메탈리카.md "wikilink")의 '[Master of Puppets](../Page/Master_of_Puppets.md "wikilink")', [라디오헤드](../Page/라디오헤드.md "wikilink")의 '[The Bends](../Page/The_Bends.md "wikilink")'(포트노이가 만든 라디오헤드의 [부틀렉](https://ko.wikipedia.org/wiki/부틀렉 "wikilink")도 포함), [판테라](https://ko.wikipedia.org/wiki/판테라 "wikilink")의 '[Far Beyond Driven](https://ko.wikipedia.org/wiki/Far_Beyond_Driven "wikilink")', '[Mouth for War](https://ko.wikipedia.org/wiki/Mouth_for_War "wikilink")'\[1\], [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 곡 "[Holy Wars... The Punishment Due](https://ko.wikipedia.org/wiki/Holy_Wars..._The_Punishment_Due "wikilink")"\[2\], [U2](../Page/U2.md "wikilink")의 '[Achtung Baby](../Page/Achtung_Baby.md "wikilink")', [나인 인치 네일스의](../Page/나인_인치_네일스.md "wikilink") '[The Downward Spiral](https://ko.wikipedia.org/wiki/The_Downward_Spiral "wikilink")', [사운드가든](../Page/사운드가든.md "wikilink")의 '[Superunknown](../Page/Superunknown.md "wikilink")', [앨리스 인 체인스의](../Page/앨리스_인_체인스.md "wikilink") '[Dirt](https://ko.wikipedia.org/wiki/Dirt "wikilink")', [케빈 길버트의](https://ko.wikipedia.org/wiki/케빈_길버트 "wikilink") '[Thud](https://ko.wikipedia.org/wiki/Thud "wikilink")', [킹스 엑스의](https://ko.wikipedia.org/wiki/킹스_엑스 "wikilink") '[Faith Hope Love](https://ko.wikipedia.org/wiki/Faith_Hope_Love "wikilink")', [갈라틱 카우보이스의](https://ko.wikipedia.org/wiki/갈라틱_카우보이스 "wikilink") '[Space in Your Face](https://ko.wikipedia.org/wiki/Space_in_Your_Face "wikilink")', [벨라 바르톡](https://ko.wikipedia.org/wiki/벨라_바르톡 "wikilink"), [레이지 어게인스트 더 머신의](../Page/레이지_어게인스트_더_머신.md "wikilink") '[The Battle of Los Angeles](https://ko.wikipedia.org/wiki/The_Battle_of_Los_Angeles "wikilink")', 그리고 [마리아 티포의](https://ko.wikipedia.org/wiki/마리아_티포 "wikilink") '[Chopin Nocturnes](https://ko.wikipedia.org/wiki/Chopin_Nocturnes "wikilink")'\[3\] 등이 있다.
 
 ## 콘셉트
 
@@ -15,7 +15,7 @@
 
 ## 곡 설명
 
-  - 앨범의 첫 곡 "[The Glass Prison](https://ko.wikipedia.org/wiki/12단계_연작 "wikilink")"은 [12단계 연작의](https://ko.wikipedia.org/wiki/12단계_연작 "wikilink") 첫 세 파트를 담당한다. 12단계 연작은 포트노이가 [알콜중독](https://ko.wikipedia.org/wiki/알콜중독 "wikilink")에서 치료된 과정에 대한 이야기를 다루고 있으며, 이후에 "This Dying Soul"('[Train of Thought](https://ko.wikipedia.org/wiki/Train_of_Thought "wikilink")'), "The Root of All Evil"('[Octavarium](https://ko.wikipedia.org/wiki/Octavarium "wikilink")'), "Repentance"('[Systematic Chaos](https://ko.wikipedia.org/wiki/Systematic_Chaos "wikilink")'), "The Shattered Fortress"('[Black Clouds & Silver Linings](../Page/Black_Clouds_&_Silver_Linings.md "wikilink")')까지 이어진다. 한편 곡의 도입부는 전 앨범 '[Scenes from a Memory](https://ko.wikipedia.org/wiki/Metropolis_Pt.2_:_Scenes_From_A_Memory "wikilink")'의 마지막에 등장하는 화이트 노이즈를 그대로 갖고 왔으며 이로 인해 두 앨범이 서로 자연스럽게 이어지도록 하는 효과가 있다.
+  - 앨범의 첫 곡 "[The Glass Prison](https://ko.wikipedia.org/wiki/12단계_연작 "wikilink")"은 [12단계 연작의](https://ko.wikipedia.org/wiki/12단계_연작 "wikilink") 첫 세 파트를 담당한다. 12단계 연작은 포트노이가 [알콜중독](https://ko.wikipedia.org/wiki/알콜중독 "wikilink")에서 치료된 과정에 대한 이야기를 다루고 있으며, 이후에 "This Dying Soul"('[Train of Thought](../Page/Train_of_Thought.md "wikilink")'), "The Root of All Evil"('[Octavarium](../Page/Octavarium.md "wikilink")'), "Repentance"('[Systematic Chaos](../Page/Systematic_Chaos.md "wikilink")'), "The Shattered Fortress"('[Black Clouds & Silver Linings](../Page/Black_Clouds_&_Silver_Linings.md "wikilink")')까지 이어진다. 한편 곡의 도입부는 전 앨범 '[Scenes from a Memory](https://ko.wikipedia.org/wiki/Metropolis_Pt.2_:_Scenes_From_A_Memory "wikilink")'의 마지막에 등장하는 화이트 노이즈를 그대로 갖고 왔으며 이로 인해 두 앨범이 서로 자연스럽게 이어지도록 하는 효과가 있다.
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - "Misunderstood"에서 존 페트루치는 일단 기타 솔로를 연주한 뒤 그것을 역재생시켜 새로운 악보를 만들었다. 그런 다음 이 악보에 따라 솔로 연습을 다시 해서 그것을 녹음했다. 따라서 이 곡에서의 기타솔로는 처음부터 그렇게 만들어진 것처럼 들리지만 사실은 역재생을 통해 새로운 멜로디를 만들어낸 것이다\[5\]. 이러한 녹음 방식은 '[비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")'의 [조지 해리슨이](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") 곡 "[I'm Only Sleeping](../Page/I'm_Only_Sleeping.md "wikilink")"에서 처음 만들어냈다.
+  - "Misunderstood"에서 존 페트루치는 일단 기타 솔로를 연주한 뒤 그것을 역재생시켜 새로운 악보를 만들었다. 그런 다음 이 악보에 따라 솔로 연습을 다시 해서 그것을 녹음했다. 따라서 이 곡에서의 기타솔로는 처음부터 그렇게 만들어진 것처럼 들리지만 사실은 역재생을 통해 새로운 멜로디를 만들어낸 것이다\[5\]. 이러한 녹음 방식은 '[비틀즈](../Page/비틀즈.md "wikilink")'의 [조지 해리슨이](../Page/조지_해리슨.md "wikilink") 곡 "[I'm Only Sleeping](../Page/I'm_Only_Sleeping.md "wikilink")"에서 처음 만들어냈다.
 
 ## 수록곡
 
@@ -44,10 +44,10 @@
 ## 구성원
 
   - [제임스 라브리에](../Page/제임스_라브리에.md "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink")
-  - [존 명](../Page/존_명.md "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
-  - [존 페트루치](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink")
+  - [존 명](../Page/존_명.md "wikilink") – [베이스](../Page/베이스_기타.md "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink") – [기타](../Page/기타.md "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink")
   - [마이크 포트노이](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink")
-  - [조던 루디스](https://ko.wikipedia.org/wiki/조던_루디스 "wikilink") – [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
+  - [조던 루디스](../Page/조던_루디스.md "wikilink") – [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
 
 ## 각주
 

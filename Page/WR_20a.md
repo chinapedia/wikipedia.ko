@@ -5,7 +5,7 @@
 
 2004년의 연구를 통해 WR 20a가 [분광쌍성](https://ko.wikipedia.org/wiki/분광쌍성 "wikilink")이자 [식쌍성](https://ko.wikipedia.org/wiki/식쌍성 "wikilink")임을 밝혀냈다. 변광 주기는 3.686일에 [궤도경사각](https://ko.wikipedia.org/wiki/궤도경사각 "wikilink")은 74.5 ± 2도였다.\[1\]
 
-두 별은 [항성 진화의](https://ko.wikipedia.org/wiki/항성_진화 "wikilink") 끝에 이른 존재로, 외부 대기를 우주 공간으로 방출하고 있으며 두 별이 서로의 질량을 교환하기도 한다. 둘은 백만 년 이내 [초신성](https://ko.wikipedia.org/wiki/초신성 "wikilink") 폭발을 일으킬 것이다.\[2\]
+두 별은 [항성 진화의](https://ko.wikipedia.org/wiki/항성_진화 "wikilink") 끝에 이른 존재로, 외부 대기를 우주 공간으로 방출하고 있으며 두 별이 서로의 질량을 교환하기도 한다. 둘은 백만 년 이내 [초신성](../Page/초신성.md "wikilink") 폭발을 일으킬 것이다.\[2\]
 
 ## 참고 문헌
 

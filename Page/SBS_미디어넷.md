@@ -21,7 +21,7 @@
 
 다양한 골프 프로그램 방송
 
-  - [SBS CNBC](https://ko.wikipedia.org/wiki/SBS_CNBC "wikilink"): 경제 전문 채널(슬로건: 의견있는 경제채널)
+  - [SBS CNBC](../Page/SBS_CNBC.md "wikilink"): 경제 전문 채널(슬로건: 의견있는 경제채널)
 
 \- 글로벌 경제 정보, 국내 경제 현안, 증시 동향, 생활 경제 등의 정보를 시청자 눈높이에 맞춰 제공
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fright Night \(\)](https://ko.wikipedia.org/wiki/Fright_Night_\(\)).
 
 
-《**Fright Night**》는 1989년 5월 [컬럼비아 레코드가](../Page/컬럼비아_레코드.md "wikilink") 발매한 [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink")의 [파워 메탈](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") 밴드 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 첫 스튜디오 음반이다.\[1\] 1993년에 리마스터드 에디션이 발행되었다.\[2\]
+《**Fright Night**》는 1989년 5월 [컬럼비아 레코드가](../Page/컬럼비아_레코드.md "wikilink") 발매한 [핀란드](../Page/핀란드.md "wikilink")의 [파워 메탈](../Page/파워_메탈.md "wikilink") 밴드 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 첫 스튜디오 음반이다.\[1\] 1993년에 리마스터드 에디션이 발행되었다.\[2\]
 
 ## 비판적 수신
 
@@ -9,7 +9,7 @@
 
 ## 곡 목록
 
-모든 곡들은 [티모 톨키에](https://ko.wikipedia.org/wiki/티모_톨키 "wikilink") 의해 작곡하였다.
+모든 곡들은 [티모 톨키에](../Page/티모_톨키.md "wikilink") 의해 작곡하였다.
 
 ## 각주
 

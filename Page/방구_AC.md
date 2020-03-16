@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ AC](https://ko.wikipedia.org/wiki/_AC).
 
 
-**방구 아틀레치쿠 클루비**(Bangu Atlético Clube, 약칭 Bangu)는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") [리우데자네이루주](../Page/리우데자네이루주.md "wikilink")의 [리우데자네이루](../Page/리우데자네이루.md "wikilink") 시 외곽에 위치한 [방구](https://ko.wikipedia.org/wiki/:en:Bangu,_Rio_de_Janeiro "wikilink") 지역에 연고를 둔 축구 클럽이다. 이 팀은 [1904년](https://ko.wikipedia.org/wiki/1904년 "wikilink")에 창설되었으며, 현재 리우데자네이루 주 1부 리그 (Campeonato Carioca - 1ª Divisão) 에 소속되어 있다. 홈 경기장은 1947년 건설된 프롤레타리오 질레르미 다 시우베이라 필류(Estadio Proletário Guilherme da Silveira Filho)이다.
+**방구 아틀레치쿠 클루비**(Bangu Atlético Clube, 약칭 Bangu)는 [브라질](../Page/브라질.md "wikilink") [리우데자네이루주](../Page/리우데자네이루주.md "wikilink")의 [리우데자네이루](../Page/리우데자네이루.md "wikilink") 시 외곽에 위치한 [방구](https://ko.wikipedia.org/wiki/:en:Bangu,_Rio_de_Janeiro "wikilink") 지역에 연고를 둔 축구 클럽이다. 이 팀은 [1904년](../Page/1904년.md "wikilink")에 창설되었으며, 현재 리우데자네이루 주 1부 리그 (Campeonato Carioca - 1ª Divisão) 에 소속되어 있다. 홈 경기장은 1947년 건설된 프롤레타리오 질레르미 다 시우베이라 필류(Estadio Proletário Guilherme da Silveira Filho)이다.
 
 ## 역사
 

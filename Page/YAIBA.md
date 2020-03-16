@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YAIBA](https://ko.wikipedia.org/wiki/YAIBA).
 
 
-《**YAIBA**》(刃)는 《[명탐정 코난](../Page/명탐정_코난.md "wikilink")》으로 잘 알려진 [아오야마 고쇼의](../Page/아오야마_고쇼.md "wikilink") [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")로 [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink")부터 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink")의《[주간 소년 선데이](../Page/주간_소년_선데이.md "wikilink")》이 연재되었다. [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 제38회 [쇼가쿠칸 만화상](https://ko.wikipedia.org/wiki/쇼가쿠칸_만화상 "wikilink") 아동부분 수상작이다. 《**검용전설 야이바(劍勇傳說 刃)**》란 타이틀로 [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")으로 방송되었으며, [게임](https://ko.wikipedia.org/wiki/게임 "wikilink")으로도 발매되었다.
+《**YAIBA**》(刃)는 《[명탐정 코난](../Page/명탐정_코난.md "wikilink")》으로 잘 알려진 [아오야마 고쇼의](../Page/아오야마_고쇼.md "wikilink") [만화](../Page/만화.md "wikilink")로 [1988년](../Page/1988년.md "wikilink")부터 [1993년](../Page/1993년.md "wikilink") [쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink")의《[주간 소년 선데이](../Page/주간_소년_선데이.md "wikilink")》이 연재되었다. [1993년](../Page/1993년.md "wikilink") 제38회 [쇼가쿠칸 만화상](../Page/쇼가쿠칸_만화상.md "wikilink") 아동부분 수상작이다. 《**검용전설 야이바(劍勇傳說 刃)**》란 타이틀로 [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")으로 방송되었으며, [게임](../Page/게임.md "wikilink")으로도 발매되었다.
 
 천하 제일의 무사를 꿈꾸는 소년 [야이바와](https://ko.wikipedia.org/wiki/쿠로가네_야이바 "wikilink") 검의 마력으로 [오니가](https://ko.wikipedia.org/wiki/오니_\(귀신\) "wikilink") 된 [오니마루간의](https://ko.wikipedia.org/wiki/오니마루_타케시 "wikilink") 결투를 다룬 코메디 격투만화이다. 만화 속에는 실존 인물인 [미야모토 무사시](../Page/미야모토_무사시.md "wikilink"), [사사키 고지로가](https://ko.wikipedia.org/wiki/사사키_고지로 "wikilink") 등장하는 등 많은 실존 인물이 극화되어 등장한다.
 
@@ -66,7 +66,7 @@
     성우 : [나카무라 다이키](https://ko.wikipedia.org/wiki/나카무라_다이스케_\(성우\) "wikilink")/[유호한](../Page/유호한.md "wikilink")
     달나라 사람의 장군으로, 카구야의 가장 충실한 부하이다. 나중에 동생인 겟코와 화해하게 된다. 카구야가 [지구](../Page/지구.md "wikilink")에 봉인 된 후 철수한다.
   - 겟코(월차)
-    성우 : [야오 카즈키](https://ko.wikipedia.org/wiki/야오_카즈키 "wikilink")/[김영선](https://ko.wikipedia.org/wiki/김영선_\(성우\) "wikilink")\[1\]
+    성우 : [야오 카즈키](https://ko.wikipedia.org/wiki/야오_카즈키 "wikilink")/[김영선](../Page/김영선_\(성우\).md "wikilink")\[1\]
     츠키카게의 남동생으로 어렸을 때부터 친척들에게 차별당해 와서 형을 증오하고 있으며, 자신의 한 쪽 눈을 잃게 만든 용신에게도 원한이 있다. 달나라에서 금지되고 있는 마왕검을 사용하여 [야이바를](https://ko.wikipedia.org/wiki/쿠로가네_야이바 "wikilink") 압도하는 강력한 파워를 선보였다. 나중에 [오니마루에게](https://ko.wikipedia.org/wiki/오니마루_타케시 "wikilink") 마왕검을 빼앗기고 형인 츠키카게와 화해를 하게 된다. 카구야가 [지구](../Page/지구.md "wikilink")에 봉인 된 후 철수한다.
 
 ## 작가의 다른 작품과의 관계

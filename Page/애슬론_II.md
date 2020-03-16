@@ -5,7 +5,7 @@
 
 ## 기능
 
-애슬론 II 시리즈는 [AMD K10](../Page/AMD_K10.md "wikilink") 아키텍처에 기반으로 하지만 페넘과 달리 [L3 캐시가](https://ko.wikipedia.org/wiki/CPU_캐시 "wikilink") 없다. 애슬론 II는 페넘의 배타적 [L3 캐시를](https://ko.wikipedia.org/wiki/CPU_캐시 "wikilink") 없애고 코어 당 512 KB였던 [L2 캐시를](https://ko.wikipedia.org/wiki/L2_캐시 "wikilink") 1 MB로 늘렸다. 또한 네이티브 [듀얼 코어로](https://ko.wikipedia.org/wiki/듀얼_코어 "wikilink") 설계되어 페넘과 달리 쿼드 코어에서 두 개의 코어를 끄지 않았다\[1\]. 그리고 애슬론 II 듀얼 코어는 네이티브 듀얼 코어 설계 덕에 [페넘 II](../Page/페넘_II.md "wikilink") 듀얼 코어보다 더 낮은 [열 설계 전력](../Page/열_설계_전력.md "wikilink")(TDP)을 갖는다.
+애슬론 II 시리즈는 [AMD K10](../Page/AMD_K10.md "wikilink") 아키텍처에 기반으로 하지만 페넘과 달리 [L3 캐시가](../Page/CPU_캐시.md "wikilink") 없다. 애슬론 II는 페넘의 배타적 [L3 캐시를](../Page/CPU_캐시.md "wikilink") 없애고 코어 당 512 KB였던 [L2 캐시를](https://ko.wikipedia.org/wiki/L2_캐시 "wikilink") 1 MB로 늘렸다. 또한 네이티브 [듀얼 코어로](https://ko.wikipedia.org/wiki/듀얼_코어 "wikilink") 설계되어 페넘과 달리 쿼드 코어에서 두 개의 코어를 끄지 않았다\[1\]. 그리고 애슬론 II 듀얼 코어는 네이티브 듀얼 코어 설계 덕에 [페넘 II](../Page/페넘_II.md "wikilink") 듀얼 코어보다 더 낮은 [열 설계 전력](../Page/열_설계_전력.md "wikilink")(TDP)을 갖는다.
 
 | AMD 애슬론 II 기반 프로세서 제품군                                                                           |
 | ------------------------------------------------------------------------------------------------ |
@@ -21,7 +21,7 @@
 #### *레고르* (45 nm)
 
   - 두 개의 [AMD K10](../Page/AMD_K10.md "wikilink") 코어
-  - L1 [캐시](https://ko.wikipedia.org/wiki/CPU_캐시 "wikilink"): 코어 당 64 [kB](../Page/킬로바이트.md "wikilink") + 64 kB ([데이터](https://ko.wikipedia.org/wiki/데이터 "wikilink") + [명령](https://ko.wikipedia.org/wiki/명령 "wikilink"))
+  - L1 [캐시](../Page/CPU_캐시.md "wikilink"): 코어 당 64 [kB](../Page/킬로바이트.md "wikilink") + 64 kB ([데이터](https://ko.wikipedia.org/wiki/데이터 "wikilink") + [명령](https://ko.wikipedia.org/wiki/명령 "wikilink"))
   - L2 캐시: 코어 당 1024 kB
   - 메모리 컨트롤러: 듀얼 채널 DDR2-1066 MHz (AM2+), 듀얼 채널 DDR3-1333 (AM3) unganging 옵션
   - [MMX](../Page/MMX.md "wikilink"), 확장된 [3D나우\!](../Page/3D나우!.md "wikilink"), [SSE](../Page/스트리밍_SIMD_확장.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4](../Page/SSE4.md "wikilink")a, [AMD64](https://ko.wikipedia.org/wiki/AMD64 "wikilink"), [쿨 앤 콰이어트](../Page/쿨_앤_콰이어트.md "wikilink"), [NX 비트](../Page/NX_비트.md "wikilink"), [AMD-V](https://ko.wikipedia.org/wiki/AMD-V "wikilink")
@@ -35,7 +35,7 @@
 #### *라나* (45 nm)
 
   - 세 개의 [AMD K10](../Page/AMD_K10.md "wikilink") 코어
-  - L1 [캐시](https://ko.wikipedia.org/wiki/CPU_캐시 "wikilink"): 코어 당 64 [kB](../Page/킬로바이트.md "wikilink") + 64 kB ([데이터](https://ko.wikipedia.org/wiki/데이터 "wikilink") + [명령](https://ko.wikipedia.org/wiki/명령 "wikilink"))
+  - L1 [캐시](../Page/CPU_캐시.md "wikilink"): 코어 당 64 [kB](../Page/킬로바이트.md "wikilink") + 64 kB ([데이터](https://ko.wikipedia.org/wiki/데이터 "wikilink") + [명령](https://ko.wikipedia.org/wiki/명령 "wikilink"))
   - L2 캐시: 코어 당 512 kB
   - 메모리 컨트롤러: 듀얼 채널 DDR2-1066 MHz (AM2+), 듀얼 채널 DDR3-1333 (AM3) unganging 옵션
   - [MMX](../Page/MMX.md "wikilink"), 확장된 [3D나우\!](../Page/3D나우!.md "wikilink"), [SSE](../Page/스트리밍_SIMD_확장.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4](../Page/SSE4.md "wikilink")a, [AMD64](https://ko.wikipedia.org/wiki/AMD64 "wikilink"), [쿨 앤 콰이어트](../Page/쿨_앤_콰이어트.md "wikilink"), [NX 비트](../Page/NX_비트.md "wikilink"), [AMD-V](https://ko.wikipedia.org/wiki/AMD-V "wikilink")
@@ -49,7 +49,7 @@
 #### *프로푸스* (45 nm)
 
   - 네 개의 [AMD K10](../Page/AMD_K10.md "wikilink") 코어
-  - L1 [캐시](https://ko.wikipedia.org/wiki/CPU_캐시 "wikilink"): 코어 당 64 [kB](../Page/킬로바이트.md "wikilink") + 64 kB ([데이터](https://ko.wikipedia.org/wiki/데이터 "wikilink") + [명령](https://ko.wikipedia.org/wiki/명령 "wikilink"))
+  - L1 [캐시](../Page/CPU_캐시.md "wikilink"): 코어 당 64 [kB](../Page/킬로바이트.md "wikilink") + 64 kB ([데이터](https://ko.wikipedia.org/wiki/데이터 "wikilink") + [명령](https://ko.wikipedia.org/wiki/명령 "wikilink"))
   - L2 캐시: 코어 당 512 kB
   - 메모리 컨트롤러: 듀얼 채널 DDR2-1066 MHz (AM2+), 듀얼 채널 DDR3-1333 (AM3) unganging 옵션
   - [MMX](../Page/MMX.md "wikilink"), 확장된 [3D나우\!](../Page/3D나우!.md "wikilink"), [SSE](../Page/스트리밍_SIMD_확장.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSE4](../Page/SSE4.md "wikilink")a, [AMD64](https://ko.wikipedia.org/wiki/AMD64 "wikilink"), [쿨 앤 콰이어트](../Page/쿨_앤_콰이어트.md "wikilink"), [NX 비트](../Page/NX_비트.md "wikilink"), [AMD-V](https://ko.wikipedia.org/wiki/AMD-V "wikilink")

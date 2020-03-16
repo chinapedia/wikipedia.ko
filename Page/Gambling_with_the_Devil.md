@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gambling with the Devil](https://ko.wikipedia.org/wiki/Gambling_with_the_Devil).
 
 
-**Gambling with the Devil**은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 발매한 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [파워 메탈](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") 밴드 [헬로윈](../Page/헬로윈.md "wikilink")의 정규 13번째 앨범이다.
+**Gambling with the Devil**은 [2007년](../Page/2007년.md "wikilink") 발매한 [독일](../Page/독일.md "wikilink") [파워 메탈](../Page/파워_메탈.md "wikilink") 밴드 [헬로윈](../Page/헬로윈.md "wikilink")의 정규 13번째 앨범이다.
 
 ## 곡 목록
 

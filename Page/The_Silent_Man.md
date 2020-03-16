@@ -11,8 +11,8 @@
 
   - [제임스 라브리에](../Page/제임스_라브리에.md "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
   - [케빈 무어](https://ko.wikipedia.org/wiki/케빈_무어 "wikilink") - [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
-  - [존 명](../Page/존_명.md "wikilink") - [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
-  - [존 페트루치](../Page/존_페트루치.md "wikilink") - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - [존 명](../Page/존_명.md "wikilink") - [베이스 기타](../Page/베이스_기타.md "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink") - [기타](../Page/기타.md "wikilink")
   - [마이크 포트노이](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
 
 [분류:1994년 싱글](https://ko.wikipedia.org/wiki/분류:1994년_싱글 "wikilink") [분류:드림 시어터의 노래](https://ko.wikipedia.org/wiki/분류:드림_시어터의_노래 "wikilink") [분류:이스트웨스트 레코드의 음반](https://ko.wikipedia.org/wiki/분류:이스트웨스트_레코드의_음반 "wikilink") [분류:프로그레시브 메탈 음반](https://ko.wikipedia.org/wiki/분류:프로그레시브_메탈_음반 "wikilink")

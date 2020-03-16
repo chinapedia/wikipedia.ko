@@ -5,8 +5,8 @@
 
 ## 인물 및 약력
 
-  - [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink"), [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), 리믹서로서 [V6](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink"), [코다 쿠미](../Page/코다_쿠미.md "wikilink"), [AAA](../Page/AAA_\(음악_그룹\).md "wikilink"), [짱구는 못말려](https://ko.wikipedia.org/wiki/짱구는_못말려 "wikilink") 등 [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink") 이외에도 다수의 악곡을 제공하고 있다.
-  - 22세 때 [힙합](../Page/힙합.md "wikilink") 문화의 본고장인 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에 가서 댄스와 랩을 배웠다.
+  - [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink"), [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), 리믹서로서 [V6](../Page/V6_\(음악_그룹\).md "wikilink"), [코다 쿠미](../Page/코다_쿠미.md "wikilink"), [AAA](../Page/AAA_\(음악_그룹\).md "wikilink"), [짱구는 못말려](../Page/짱구는_못말려.md "wikilink") 등 [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink") 이외에도 다수의 악곡을 제공하고 있다.
+  - 22세 때 [힙합](../Page/힙합.md "wikilink") 문화의 본고장인 [미국](../Page/미국.md "wikilink")에 가서 댄스와 랩을 배웠다.
   - [t-kimura](https://ko.wikipedia.org/wiki/t-kimura "wikilink")가 「일본에서 최고의 감각과 후각을 자랑하는 랩퍼」라고 절찬할 정도의 랩 스킬을 가지고 있는 실력파 랩퍼이다.
   - TV 프로그램 [Channel-a의](https://ko.wikipedia.org/wiki/:ja:Channel_a "wikilink") 3대째 MC를 맡았다.
   - 연령 고정제라는 제도를 제정해 자기 자신을 「영원의 18세」라고 자칭하고 있다.

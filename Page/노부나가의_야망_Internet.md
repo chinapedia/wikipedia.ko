@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  Internet](https://ko.wikipedia.org/wiki/__Internet).
 
 
-《**노부나가의 야망 Internet**》()은 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [10월 2일에](https://ko.wikipedia.org/wiki/10월_2일 "wikilink") [코에이](https://ko.wikipedia.org/wiki/코에이 "wikilink")에서 발매된 [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")용 [역사 시뮬레이션 게임으로](https://ko.wikipedia.org/wiki/역사_시뮬레이션_게임 "wikilink"), [노부나가의 야망 시리즈의](../Page/노부나가의_야망_시리즈.md "wikilink") 하나이다. [컴퓨터](../Page/컴퓨터.md "wikilink")를 상대하는 1인 플레이도 가능하기는 하지만, [인터넷](../Page/인터넷.md "wikilink")에 의한 통신 대전을 전제로 한 구조로 되어 있다.
+《**노부나가의 야망 Internet**》()은 [1998년](../Page/1998년.md "wikilink") [10월 2일에](../Page/10월_2일.md "wikilink") [코에이](../Page/코에이.md "wikilink")에서 발매된 [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")용 [역사 시뮬레이션 게임으로](../Page/역사_시뮬레이션_게임.md "wikilink"), [노부나가의 야망 시리즈의](../Page/노부나가의_야망_시리즈.md "wikilink") 하나이다. [컴퓨터](../Page/컴퓨터.md "wikilink")를 상대하는 1인 플레이도 가능하기는 하지만, [인터넷](../Page/인터넷.md "wikilink")에 의한 통신 대전을 전제로 한 구조로 되어 있다.
 
 그래픽과 사운드 면에서는 시리즈의 일곱 번째 작품 《[노부나가의 야망 장성록](../Page/노부나가의_야망_장성록.md "wikilink")》을 베이스로 하고, 또 발매된 것도 《장성록》과 《[열풍전](../Page/노부나가의_야망_열풍전.md "wikilink")》의 사이지만, 통상은 본작을 여덟 번째 작품이라 하지 않고 번외편으로 여겨서, 《열풍전》이 여덟 번째 작품으로서 취급된다.
 
@@ -53,7 +53,7 @@
 
 이런 결점을 보완하는 수단의 하나로, 플레이어 간에 독자적인 룰 등을 정한 대전도 이뤄진다.
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [1월 29일을](https://ko.wikipedia.org/wiki/1월_29일 "wikilink") 기점으로 게임 발매 당초의 로비 서버에서의 서비스는 종료되고, **'Dynasty Lobby**'라고 하는 《[삼국지 배틀필드](https://ko.wikipedia.org/wiki/삼국지_배틀필드 "wikilink")》에서 사용하고 있는 서버에서의 서비스가 이뤄지고 있다. 구 서버는 무료로 사용했던 것에 반해, 현 서버는 월정액 이용료가 필요하게 되었다. 또한, 현 서버를 사용하려면 별도의 애플리케이션이 필요하지만 단품으로는 배포하고 있지 않기 때문에, 《삼국지 배틀필드》의 제품판 또는 체험판을 인스톨할 필요가 있다.
+[2003년](../Page/2003년.md "wikilink") [1월 29일을](../Page/1월_29일.md "wikilink") 기점으로 게임 발매 당초의 로비 서버에서의 서비스는 종료되고, **'Dynasty Lobby**'라고 하는 《[삼국지 배틀필드](https://ko.wikipedia.org/wiki/삼국지_배틀필드 "wikilink")》에서 사용하고 있는 서버에서의 서비스가 이뤄지고 있다. 구 서버는 무료로 사용했던 것에 반해, 현 서버는 월정액 이용료가 필요하게 되었다. 또한, 현 서버를 사용하려면 별도의 애플리케이션이 필요하지만 단품으로는 배포하고 있지 않기 때문에, 《삼국지 배틀필드》의 제품판 또는 체험판을 인스톨할 필요가 있다.
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Time For Confession](https://ko.wikipedia.org/wiki/Time_For_Confession).
 
 
-《**Time For Confession**》은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") 발매된 [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink")의 두 번째 싱글 앨범이다.
+《**Time For Confession**》은 [2009년](../Page/2009년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") 발매된 [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink")의 두 번째 싱글 앨범이다.
 
 ## 수록곡
 

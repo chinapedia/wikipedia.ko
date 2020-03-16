@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [-your voice-](https://ko.wikipedia.org/wiki/-your_voice-).
 
 
-《**サンダーバード-your voice-**》은, [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") 발매한 V6의 25번째의 싱글이다.
+《**サンダーバード-your voice-**》은, [2004년](../Page/2004년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 발매한 V6의 25번째의 싱글이다.
 
 ## 설명
 
@@ -19,7 +19,7 @@
       - 영화 《[선더버드](https://ko.wikipedia.org/wiki/선더버드 "wikilink")》 일본 개봉 더빙판 주제곡일본어 더빙판 주제가
 2.  Brand-New World
       - 작사：MIZUE, 작곡：오오야기 히로오, 편곡：이에하라 마사키
-      - [NTV](https://ko.wikipedia.org/wiki/니혼_TV_방송망 "wikilink") 애니메이션 《[이누야샤](https://ko.wikipedia.org/wiki/이누야샤 "wikilink")》 8대 엔딩 테마곡
+      - [NTV](https://ko.wikipedia.org/wiki/니혼_TV_방송망 "wikilink") 애니메이션 《[이누야샤](../Page/이누야샤.md "wikilink")》 8대 엔딩 테마곡
 3.  サンダーバード-your voice-(カラオケ)
 4.  Brand-New World(カラオケ)
 

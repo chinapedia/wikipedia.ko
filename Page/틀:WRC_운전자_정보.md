@@ -9,7 +9,7 @@
 
 | label2 = 국적 | data2 =  | label3 = 출생 | data3 =  | label4 = 사망 | data4 =
 
-| header10 = {{\#if:|[세계 랠리 선수권 대회](https://ko.wikipedia.org/wiki/세계_랠리_선수권_대회 "wikilink") 기록}}
+| header10 = {{\#if:|[세계 랠리 선수권 대회](../Page/세계_랠리_선수권_대회.md "wikilink") 기록}}
 
 | label11 = 활동 연도 | data11 =
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
 
 
-**삼성 옴니아 II**(, )는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 출시한 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. 언팩 홈페이지는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 15일에](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") 공개하였다.\[1\] 3.7" [AMOLED](https://ko.wikipedia.org/wiki/AMOLED "wikilink") 터치 스크린에 해상도 480 × 800 픽셀을 지원하며 최대 1,600만 컬러를 지원한다. OS 특성상 [윈도 모바일에서는](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 6만 5천 컬러를 지원한다.[윈도 모바일](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 6.1이 탑재되어 있으나,[윈도 모바일](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 6.5로 업그레이드되었다.
+**삼성 옴니아 II**(, )는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다. 언팩 홈페이지는 [2009년](../Page/2009년.md "wikilink") [6월 15일에](../Page/6월_15일.md "wikilink") 공개하였다.\[1\] 3.7" [AMOLED](https://ko.wikipedia.org/wiki/AMOLED "wikilink") 터치 스크린에 해상도 480 × 800 픽셀을 지원하며 최대 1,600만 컬러를 지원한다. OS 특성상 [윈도 모바일에서는](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 6만 5천 컬러를 지원한다.[윈도 모바일](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 6.1이 탑재되어 있으나,[윈도 모바일](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 6.5로 업그레이드되었다.
 
 ## 기능
 
@@ -14,14 +14,14 @@
   - [WVGA](https://ko.wikipedia.org/wiki/WVGA "wikilink") 비디오 카메라
   - 802.11b/g 와이파이
   - [FM 라디오와](https://ko.wikipedia.org/wiki/FM_라디오 "wikilink") [RDS](https://ko.wikipedia.org/wiki/라디오_데이터_시스템 "wikilink")(해외 판매용)
-  - [오페라](https://ko.wikipedia.org/wiki/오페라 "wikilink") 9 인터넷
+  - [오페라](../Page/오페라.md "wikilink") 9 인터넷
   - 마이크로소프트 오피스 모바일 등 마이크로소프트의 각종 프로그램
   - 3D 큐브 사용자 환경(6.5에서는 제외 - 다운로드 후 설치 가능)
   - 고광도 플래시 (다용도)
 
 ### 카메라
 
-삼성 옴니아 II에는 500만 화소 [자동 초점](https://ko.wikipedia.org/wiki/자동_초점 "wikilink") 카메라가 장착되어 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:AS_ski.jpg "wikilink")
+삼성 옴니아 II에는 500만 화소 [자동 초점](../Page/자동_초점.md "wikilink") 카메라가 장착되어 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:AS_ski.jpg "wikilink")
 
 ## 평가
 
@@ -29,14 +29,14 @@
 
 ## 경쟁 기종
 
-  - [아이폰 3GS](https://ko.wikipedia.org/wiki/아이폰_3GS "wikilink")
+  - [아이폰 3GS](../Page/아이폰_3GS.md "wikilink")
 
 ## 같이 보기
 
-  - [애니콜 T\*옴니아 II](https://ko.wikipedia.org/wiki/애니콜_T*옴니아_II "wikilink")
-  - [애니콜 쇼 옴니아](https://ko.wikipedia.org/wiki/애니콜_쇼_옴니아 "wikilink")
-  - [애니콜 오즈 옴니아](https://ko.wikipedia.org/wiki/애니콜_오즈_옴니아 "wikilink")
-  - [애니콜 옴니아 팝](https://ko.wikipedia.org/wiki/애니콜_옴니아_팝 "wikilink")
+  - [애니콜 T\*옴니아 II](../Page/애니콜_T*옴니아_II.md "wikilink")
+  - [애니콜 쇼 옴니아](../Page/애니콜_쇼_옴니아.md "wikilink")
+  - [애니콜 오즈 옴니아](../Page/애니콜_오즈_옴니아.md "wikilink")
+  - [애니콜 옴니아 팝](../Page/애니콜_옴니아_팝.md "wikilink")
   - [삼성 옴니아](../Page/삼성_옴니아.md "wikilink")
 
 ## 각주

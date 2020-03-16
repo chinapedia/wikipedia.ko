@@ -85,5 +85,5 @@
 12. 수차는 랜즈의 광학적인 문제 이기 때문에 크롭바디와 풀 프레임에서 동일 렌즈를 쓸 경우 풀 프레임이라고 색수차가 증가하고 크롭바디에서 감소하는 것은 결코 아니다.
 13. [Crop Factor and Digital Cameras](http://www.clarkvision.com/photoinfo/cropfactor/)
 14. [Understanding Camera Lenses](http://www.cambridgeincolour.com/tutorials/camera-lenses.htm)
-15. 2010년 7월 4일 다나와 평균가. 망원 줌렌즈도 마찬가지이다. 주이코 ED 35-100mm F2.0와 [캐논 EF 70-200mm f/4 L IS USM을](https://ko.wikipedia.org/wiki/캐논_EF_70-200mm_렌즈 "wikilink") 비교해 보면, 주이코는 254만원, 캐논은 148만원이다.
+15. 2010년 7월 4일 다나와 평균가. 망원 줌렌즈도 마찬가지이다. 주이코 ED 35-100mm F2.0와 [캐논 EF 70-200mm f/4 L IS USM을](../Page/캐논_EF_70-200mm_렌즈.md "wikilink") 비교해 보면, 주이코는 254만원, 캐논은 148만원이다.
 16. [Since the perspective, framing, and apparent apertures are all the same, then for the same display size and viewing distance, their DOFs will also be the same. As a side, if the shutter speeds are also the same (which will require a higher ISO for the higher f-ratios to maintain the same apparent exposure), then the images will be made with the same total amount of light as well, which will result in the same apparent noise if the sensors have the same efficiency.](http://www.josephjamesphotography.com/equivalence/#dof)

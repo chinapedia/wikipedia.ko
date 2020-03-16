@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
 
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:후지TV.jpg "wikilink") **메자마시 TV**(, )은 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink")([FNN](../Page/후지_뉴스_네트워크.md "wikilink"))계열을 통해 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [4월 1일부터](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 방송하고 있는 아침 정보프로그램이다. 일반적으로는 **자각 TV**로 줄여서 부르기도 한다. 뉴스와 정보를 함께 다루고 있어, [NHK 종합 TV의](../Page/NHK_종합_텔레비전.md "wikilink") 《[NHK 뉴스 안녕 일본](https://ko.wikipedia.org/wiki/NHK_뉴스_안녕_일본 "wikilink")》과 [NTV의](https://ko.wikipedia.org/wiki/니혼_텔레비전 "wikilink") 《[NNN 뉴스 ZIP\!](https://ko.wikipedia.org/wiki/NNN_뉴스_ZIP! "wikilink")》, [TBS의](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 《[아사쨩\!](https://ko.wikipedia.org/wiki/아사쨩! "wikilink")》, [TV아사히](https://ko.wikipedia.org/wiki/TV아사히 "wikilink")의 《[굿\!모닝](https://ko.wikipedia.org/wiki/굿!모닝 "wikilink")》과 동시에 경쟁하고 있다.
+[썸네일](https://ko.wikipedia.org/wiki/파일:후지TV.jpg "wikilink") **메자마시 TV**(, )은 [후지 TV](../Page/후지_TV.md "wikilink")([FNN](../Page/후지_뉴스_네트워크.md "wikilink"))계열을 통해 [1994년](../Page/1994년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") 방송하고 있는 아침 정보프로그램이다. 일반적으로는 **자각 TV**로 줄여서 부르기도 한다. 뉴스와 정보를 함께 다루고 있어, [NHK 종합 TV의](../Page/NHK_종합_텔레비전.md "wikilink") 《[NHK 뉴스 안녕 일본](https://ko.wikipedia.org/wiki/NHK_뉴스_안녕_일본 "wikilink")》과 [NTV의](https://ko.wikipedia.org/wiki/니혼_텔레비전 "wikilink") 《[NNN 뉴스 ZIP\!](https://ko.wikipedia.org/wiki/NNN_뉴스_ZIP! "wikilink")》, [TBS의](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 《[아사쨩\!](https://ko.wikipedia.org/wiki/아사쨩! "wikilink")》, [TV아사히](https://ko.wikipedia.org/wiki/TV아사히 "wikilink")의 《[굿\!모닝](https://ko.wikipedia.org/wiki/굿!모닝 "wikilink")》과 동시에 경쟁하고 있다.
 
 ## 역대 캐스터
 
@@ -72,29 +72,29 @@
 
 ## 방송 시간
 
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") ～[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") (5시 55분 \~ 8시 ; **125분**)
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") \~ 현재 (5시 25분 \~ 8시 ; **155분**)
+  - [1994년](../Page/1994년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") ～[2001년](../Page/2001년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") (5시 55분 \~ 8시 ; **125분**)
+  - [2001년](../Page/2001년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ 현재 (5시 25분 \~ 8시 ; **155분**)
 
 ## 역대 테마곡
 
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") \~ [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink"): 린드버그 - Cute or Beauty
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") \~ [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink"): 린드버그 - Ring My Bell
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") \~ [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink"): [모리타카 치사토](../Page/모리타카_치사토.md "wikilink") - 랄라 선샤인
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") \~ [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink"): [키시타니 카오리](https://ko.wikipedia.org/wiki/키시타니_카오리 "wikilink") - 해피맨
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") \~ [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink"): [코마츠 미호](../Page/코마츠_미호.md "wikilink") - [찬스](../Page/찬스_\(코마츠_미호의_노래\).md "wikilink")
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") \~ [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink"): [마쓰토야 유미](https://ko.wikipedia.org/wiki/마쓰토야_유미 "wikilink") - Spinniing Wheel
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") \~ [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink"): [키무라 요시노](https://ko.wikipedia.org/wiki/키무라_요시노 "wikilink") - 내일은… (오프닝곡) / Lullaby for Grandmother M (엔딩곡)
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") \~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink"): [MISIA](../Page/MISIA.md "wikilink") - 태양의 지도
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink"): [오다 카즈마사](https://ko.wikipedia.org/wiki/오다_카즈마사 "wikilink") - 오늘도 어디선가
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") \~ 2010년 3월: [Superfly](https://ko.wikipedia.org/wiki/Superfly "wikilink") - 야사시이 기모치데
+  - [1994년](../Page/1994년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink"): 린드버그 - Cute or Beauty
+  - [1995년](../Page/1995년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink"): 린드버그 - Ring My Bell
+  - [1996년](../Page/1996년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink"): [모리타카 치사토](../Page/모리타카_치사토.md "wikilink") - 랄라 선샤인
+  - [1997년](../Page/1997년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink"): [키시타니 카오리](https://ko.wikipedia.org/wiki/키시타니_카오리 "wikilink") - 해피맨
+  - [1998년](../Page/1998년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink"): [코마츠 미호](../Page/코마츠_미호.md "wikilink") - [찬스](../Page/찬스_\(코마츠_미호의_노래\).md "wikilink")
+  - [1999년](../Page/1999년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink"): [마쓰토야 유미](https://ko.wikipedia.org/wiki/마쓰토야_유미 "wikilink") - Spinniing Wheel
+  - [2000년](../Page/2000년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink"): [키무라 요시노](https://ko.wikipedia.org/wiki/키무라_요시노 "wikilink") - 내일은… (오프닝곡) / Lullaby for Grandmother M (엔딩곡)
+  - [2007년](../Page/2007년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink"): [MISIA](../Page/MISIA.md "wikilink") - 태양의 지도
+  - [2008년](../Page/2008년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink"): [오다 카즈마사](../Page/오다_카즈마사.md "wikilink") - 오늘도 어디선가
+  - [2009년](../Page/2009년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~ 2010년 3월: [Superfly](https://ko.wikipedia.org/wiki/Superfly "wikilink") - 야사시이 기모치데
   - 2010년 3월 \~ 2011년 3월: [쿠와타 케이스케](https://ko.wikipedia.org/wiki/쿠와타_케이스케 "wikilink") - Early In the Morning
   - 2011년 4월 \~ 2012년 3월: [이키모노가카리](../Page/이키모노가카리.md "wikilink") - New World Music
-  - 2012년 4월 \~ 2013년 3월: [Mr.Children](https://ko.wikipedia.org/wiki/Mr.Children "wikilink") - Happy Song
+  - 2012년 4월 \~ 2013년 3월: [Mr.Children](../Page/Mr.Children.md "wikilink") - Happy Song
   - 2013년 4월 \~ 2014년 3월: [아무로 나미에](../Page/아무로_나미에.md "wikilink") - Can You Feel This Love
       - 2014년 4월부터 2015년 3월까지는 요일마다 다른 데일리 테마송을 내보냈다.
-  - 2015년 3월 30일 \~ 2016년 4월 1일: [유즈](https://ko.wikipedia.org/wiki/유즈 "wikilink") - 끝나지 않는 노래
-  - 2016년 4월 4일 \~ 2016년 9월 30일 : [니시노 카나](https://ko.wikipedia.org/wiki/니시노_카나 "wikilink") - Have a nice day
-  - 2016년 10월 3일 \~ 2017년 3월 31일 : [니시노 카나](https://ko.wikipedia.org/wiki/니시노_카나 "wikilink") - Dear Bride
+  - 2015년 3월 30일 \~ 2016년 4월 1일: [유즈](../Page/유즈.md "wikilink") - 끝나지 않는 노래
+  - 2016년 4월 4일 \~ 2016년 9월 30일 : [니시노 카나](../Page/니시노_카나.md "wikilink") - Have a nice day
+  - 2016년 10월 3일 \~ 2017년 3월 31일 : [니시노 카나](../Page/니시노_카나.md "wikilink") - Dear Bride
   - 2017년 4월 3일 \~ 현재 : [스피츠 (밴드)](../Page/스피츠_\(밴드\).md "wikilink") - ヘビーメロウ
   - 2018년 4월 3일 \~ 현재 : 오다 카즈마사 - 「会いに行く」
 

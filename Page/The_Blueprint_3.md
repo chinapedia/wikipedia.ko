@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Blueprint 3](https://ko.wikipedia.org/wiki/The_Blueprint_3).
 
 
-《**Blueprint 3**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 힙합가수인 [제이-지](https://ko.wikipedia.org/wiki/제이-지 "wikilink")의 11번째 정규 앨범이다. 이 앨범은 9월 8일에 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 발매됐으며,11일날 정식 발매되었다.[영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서는 14일날에 발매했다.이 앨범은 지난 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 발매된 'Blueprint'와 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에 발매된 'The Blueprint²: The Gift & The Curse'에 이은 시리즈 앨범이다.이 앨범은 8월 31일날에 몇 곡들이 유출됐다.[제이 지는](https://ko.wikipedia.org/wiki/제이_지 "wikilink") 이 유출에 대해 인터뷰했을 때, 그는
+《**Blueprint 3**》는 [미국](../Page/미국.md "wikilink") 힙합가수인 [제이-지](https://ko.wikipedia.org/wiki/제이-지 "wikilink")의 11번째 정규 앨범이다. 이 앨범은 9월 8일에 [미국](../Page/미국.md "wikilink")에서 발매됐으며,11일날 정식 발매되었다.[영국](../Page/영국.md "wikilink")에서는 14일날에 발매했다.이 앨범은 지난 [2001년](../Page/2001년.md "wikilink")에 발매된 'Blueprint'와 [2002년](../Page/2002년.md "wikilink")에 발매된 'The Blueprint²: The Gift & The Curse'에 이은 시리즈 앨범이다.이 앨범은 8월 31일날에 몇 곡들이 유출됐다.[제이 지는](https://ko.wikipedia.org/wiki/제이_지 "wikilink") 이 유출에 대해 인터뷰했을 때, 그는
 
 "이건 하나의 검토같은 거지. 난 사람들이 이 앨범을 듣는 것에 대해 흥분 돼. 난 이 앨범을 신나게 작업했다는 것에대해 만족해. 그냥 즐기는 거야."라고 말했다.
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [II](https://ko.wikipedia.org/wiki/II).
 
 
-《**태합입지전II**》()는 [코에이](https://ko.wikipedia.org/wiki/코에이 "wikilink")에서 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 [PC9801](https://ko.wikipedia.org/wiki/PC9801 "wikilink")판이 발매된 [PC 게임으로](../Page/PC_게임.md "wikilink"), [태합입지전 시리즈의](../Page/태합입지전_시리즈.md "wikilink") 두 번째 작품이다. 그 후 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")판은 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에, [세가 새턴판은](https://ko.wikipedia.org/wiki/세가_새턴 "wikilink") 1996년 [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")에 발매되었다. 또 [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")판도 발매되었다. Win판은 [Windows 2000에는](https://ko.wikipedia.org/wiki/Windows_2000 "wikilink") 비대응으로 되어 있다. [염가판](https://ko.wikipedia.org/wiki/염가판 "wikilink")도 PC HOME판과 [코에이 정번 시리즈](https://ko.wikipedia.org/wiki/코에이_정번_시리즈 "wikilink") 등에서 발매되고 있고, 또 Win판에 대해서는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 29일에](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") 《[마작대회 II Special](https://ko.wikipedia.org/wiki/마작대회 "wikilink")》과의 트윈 캠페인판도 발매되었다.
+《**태합입지전II**》()는 [코에이](../Page/코에이.md "wikilink")에서 [1995년](../Page/1995년.md "wikilink") [3월](../Page/3월.md "wikilink")에 [PC9801](https://ko.wikipedia.org/wiki/PC9801 "wikilink")판이 발매된 [PC 게임으로](../Page/PC_게임.md "wikilink"), [태합입지전 시리즈의](../Page/태합입지전_시리즈.md "wikilink") 두 번째 작품이다. 그 후 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")판은 [1996년](../Page/1996년.md "wikilink") [2월](../Page/2월.md "wikilink")에, [세가 새턴판은](../Page/세가_새턴.md "wikilink") 1996년 [11월](../Page/11월.md "wikilink")에 발매되었다. 또 [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")판도 발매되었다. Win판은 [Windows 2000에는](https://ko.wikipedia.org/wiki/Windows_2000 "wikilink") 비대응으로 되어 있다. [염가판](https://ko.wikipedia.org/wiki/염가판 "wikilink")도 PC HOME판과 [코에이 정번 시리즈](https://ko.wikipedia.org/wiki/코에이_정번_시리즈 "wikilink") 등에서 발매되고 있고, 또 Win판에 대해서는 [2005년](../Page/2005년.md "wikilink") [9월 29일에](../Page/9월_29일.md "wikilink") 《[마작대회 II Special](https://ko.wikipedia.org/wiki/마작대회 "wikilink")》과의 트윈 캠페인판도 발매되었다.
 
-그리고 본 작은 [휴대 전화](https://ko.wikipedia.org/wiki/휴대_전화 "wikilink") 전용으로도 보급되고 있는 《모바일 태합입지전》의 베이스가 되고 있다. 단 동행자 시스템 등은 탑재되지 않고, 그래픽은 주로《[태합입지전V](https://ko.wikipedia.org/wiki/태합입지전V "wikilink")》의 것으로 변경되어 있다.
+그리고 본 작은 [휴대 전화](../Page/휴대_전화.md "wikilink") 전용으로도 보급되고 있는 《모바일 태합입지전》의 베이스가 되고 있다. 단 동행자 시스템 등은 탑재되지 않고, 그래픽은 주로《[태합입지전V](../Page/태합입지전V.md "wikilink")》의 것으로 변경되어 있다.
 
 음악은 [이와사키 다쿠](https://ko.wikipedia.org/wiki/이와사키_다쿠 "wikilink")(岩崎琢)가 담당하고 있다.
 
@@ -11,7 +11,7 @@
 
 《[I](../Page/태합입지전_\(비디오_게임\).md "wikilink")》의, 평정에 출석하여 주명을 해 나가는 것 이외는 무엇을 해도 괜찮은 자유로운 시스템을 거의 그대로 계승하고 있고, 평정이 매월 초에 열리는 것이나 츠지기리(辻斬り)가 가능한 점, 경우에 따라 모반이 가능한 것 등은 바뀌지 않았다. 그 한편으로 전작에서는 가능했던 [다이묘](../Page/다이묘.md "wikilink") 거성에서 희메(姫)의 거실에 잠입하는 것이나, 다이묘를 츠지기리 하는 것 등은 본작에서는 할 수 없게 되었다.
 
-무대는 전작에서는 존재하지 않았던 [시코쿠](https://ko.wikipedia.org/wiki/시코쿠 "wikilink")·[규슈](https://ko.wikipedia.org/wiki/규슈 "wikilink")·[도호쿠 지방까지](https://ko.wikipedia.org/wiki/도호쿠_지방 "wikilink") 전국으로 획대되었다. 육지로 이어지지 않은 시코쿠와 규슈에 건너가는 것은 마을에 있는 선두(船頭)를 사용하는 것이 필요하다. 또 전작의 [히데요시](https://ko.wikipedia.org/wiki/도요토미_히데요시 "wikilink") 뿐만 아니라 [시바타 가쓰이에나](../Page/시바타_가쓰이에.md "wikilink") [아케치 미쓰히데](https://ko.wikipedia.org/wiki/아케치_미쓰히데 "wikilink") 및 신무장으로의 플레이도 가능하게 되었다. 또, 본작에서는 [오다 가](https://ko.wikipedia.org/wiki/오다_씨 "wikilink") 이외에도 [다테](https://ko.wikipedia.org/wiki/다테_씨 "wikilink")·[호죠](https://ko.wikipedia.org/wiki/호죠_씨 "wikilink")·[우에스기](https://ko.wikipedia.org/wiki/우에스기_씨 "wikilink")·[다케다](https://ko.wikipedia.org/wiki/다케다_씨 "wikilink")·[도쿠가와](https://ko.wikipedia.org/wiki/도쿠가와_씨 "wikilink")·[쵸소카베](https://ko.wikipedia.org/wiki/죠소카베_씨 "wikilink")·[모리](https://ko.wikipedia.org/wiki/모리_씨 "wikilink")·[시마즈의](https://ko.wikipedia.org/wiki/시마즈_씨 "wikilink") 각 가문에도 사관하는 것이 가능하다. 그러나 [아시카가 가](https://ko.wikipedia.org/wiki/아시카가_씨 "wikilink") 등, 그 이외의 다이묘 가문에게는 사관할 수 없다.
+무대는 전작에서는 존재하지 않았던 [시코쿠](../Page/시코쿠.md "wikilink")·[규슈](../Page/규슈.md "wikilink")·[도호쿠 지방까지](../Page/도호쿠_지방.md "wikilink") 전국으로 획대되었다. 육지로 이어지지 않은 시코쿠와 규슈에 건너가는 것은 마을에 있는 선두(船頭)를 사용하는 것이 필요하다. 또 전작의 [히데요시](../Page/도요토미_히데요시.md "wikilink") 뿐만 아니라 [시바타 가쓰이에나](../Page/시바타_가쓰이에.md "wikilink") [아케치 미쓰히데](../Page/아케치_미쓰히데.md "wikilink") 및 신무장으로의 플레이도 가능하게 되었다. 또, 본작에서는 [오다 가](https://ko.wikipedia.org/wiki/오다_씨 "wikilink") 이외에도 [다테](https://ko.wikipedia.org/wiki/다테_씨 "wikilink")·[호죠](https://ko.wikipedia.org/wiki/호죠_씨 "wikilink")·[우에스기](https://ko.wikipedia.org/wiki/우에스기_씨 "wikilink")·[다케다](https://ko.wikipedia.org/wiki/다케다_씨 "wikilink")·[도쿠가와](https://ko.wikipedia.org/wiki/도쿠가와_씨 "wikilink")·[쵸소카베](https://ko.wikipedia.org/wiki/죠소카베_씨 "wikilink")·[모리](https://ko.wikipedia.org/wiki/모리_씨 "wikilink")·[시마즈의](https://ko.wikipedia.org/wiki/시마즈_씨 "wikilink") 각 가문에도 사관하는 것이 가능하다. 그러나 [아시카가 가](https://ko.wikipedia.org/wiki/아시카가_씨 "wikilink") 등, 그 이외의 다이묘 가문에게는 사관할 수 없다.
 
 [구게](https://ko.wikipedia.org/wiki/구게 "wikilink")나 [승려](../Page/승려.md "wikilink") 등 무장 이외의 인물도 등장하여 다채롭게 되었다. 새로운 토지의 개발 때에 15 퍼즐(가로 세로 4칸씩으로 구성된 판 위에서 비어있는 한 칸을 이용하여 15개의 퍼즐을 움직여 그림을 완성하는 퍼즐)을 행하는 등 주명의 내용에 의한 미니게임을 행하는 요소는 본작에서 처음 등장한 것으로, 그 후 미니게임의 종류가 증가하게 되었다.
 
@@ -70,7 +70,7 @@
     주인공의 특기 중 **검술**, **축성**, **난파**, **다도**가 삭제되었다.
     「항」 커멘드가 삭제되었다. 시코쿠, 규슈에는 지정된 통로 이외로는 가지 못하게 되었다.
     「닌자 저택」, 「사원」의 「다이묘 정보」, 「남만사」의 「외교정보」가 삭제되었다. 대신에, 다른 가문 성의 「정보」 커멘드로 성과 무장 정보를 들을 수 있게 되었다.
-    《[태합입지전III](https://ko.wikipedia.org/wiki/태합입지전III "wikilink")》에서 공경이 [기쿠테이 하루스에](https://ko.wikipedia.org/wiki/기쿠테이_하루스에 "wikilink")(菊亭春季)만 등장하기 때문인지, 「공가댁」 커맨드가 삭제되고, 「황거」에 들어가면, 기쿠테이에게 공작을 의뢰할 수 있게 되었다.
+    《[태합입지전III](../Page/태합입지전III.md "wikilink")》에서 공경이 [기쿠테이 하루스에](https://ko.wikipedia.org/wiki/기쿠테이_하루스에 "wikilink")(菊亭春季)만 등장하기 때문인지, 「공가댁」 커맨드가 삭제되고, 「황거」에 들어가면, 기쿠테이에게 공작을 의뢰할 수 있게 되었다.
 
 ## 관련 항목
 

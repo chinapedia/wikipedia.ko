@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [HIStory World Tour](https://ko.wikipedia.org/wiki/HIStory_World_Tour).
 
 
-**HIStory World Tour**는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 3번째 공식 월드 투어이다. 그는 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink"), [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink"), [아프리카](https://ko.wikipedia.org/wiki/아프리카 "wikilink"), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [하와이](https://ko.wikipedia.org/wiki/하와이_주 "wikilink") 등을 방문했으며, 1996년 8월 7일 부터 1997년 11월 15일까지 개최했다. 이 투어는 1억 63만 달러의 수익률을 올렸으며, 총 450만명의 팬들이 모인 82개의 투어를 했다.
+**HIStory World Tour**는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 3번째 공식 월드 투어이다. 그는 [유럽](../Page/유럽.md "wikilink"), [아시아](../Page/아시아.md "wikilink"), [아프리카](../Page/아프리카.md "wikilink"), [미국](../Page/미국.md "wikilink"), [하와이](https://ko.wikipedia.org/wiki/하와이_주 "wikilink") 등을 방문했으며, 1996년 8월 7일 부터 1997년 11월 15일까지 개최했다. 이 투어는 1억 63만 달러의 수익률을 올렸으며, 총 450만명의 팬들이 모인 82개의 투어를 했다.
 
-또한 1996년 10월 11일과 13일 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 처음으로 투어를 했으며, 당시 총재였던 [김대중](../Page/김대중.md "wikilink") 전 대통령과 [김수환](../Page/김수환.md "wikilink") 추기경을 만났다.
+또한 1996년 10월 11일과 13일 [대한민국](../Page/대한민국.md "wikilink")에서 처음으로 투어를 했으며, 당시 총재였던 [김대중](../Page/김대중.md "wikilink") 전 대통령과 [김수환](../Page/김수환.md "wikilink") 추기경을 만났다.
 
 ## 곡 리스트
 
@@ -21,7 +21,7 @@
       - "[The Love You Save](https://ko.wikipedia.org/wiki/The_Love_You_Save "wikilink")"
       - "[I'll Be There](https://ko.wikipedia.org/wiki/I'll_Be_There_\(The_Jackson_5_song\) "wikilink")"
 9.  "[Thriller](https://ko.wikipedia.org/wiki/Thriller_\(song\) "wikilink")"
-10. "[Billie Jean](https://ko.wikipedia.org/wiki/Billie_Jean "wikilink")"
+10. "[Billie Jean](../Page/Billie_Jean.md "wikilink")"
 11. "[The Way You Make Me Feel](https://ko.wikipedia.org/wiki/The_Way_You_Make_Me_Feel "wikilink")"
 12. "Black Panther" <small>Video Interlude</small>
 13. "[Beat It](https://ko.wikipedia.org/wiki/Beat_It "wikilink")" <small>with [Jennifer Batten](https://ko.wikipedia.org/wiki/Jennifer_Batten "wikilink")</small>
@@ -65,7 +65,7 @@
       - "[Off the Wall](https://ko.wikipedia.org/wiki/Off_the_Wall_\(song\) "wikilink")"
       - "[Don't Stop 'Til You Get Enough](../Page/Don't_Stop_'Til_You_Get_Enough.md "wikilink")"
 12. "[Remember the Time](https://ko.wikipedia.org/wiki/Remember_the_Time "wikilink")" <small>Video Montage Interlude</small>
-13. "[Billie Jean](https://ko.wikipedia.org/wiki/Billie_Jean "wikilink")"
+13. "[Billie Jean](../Page/Billie_Jean.md "wikilink")"
 14. "[Thriller](https://ko.wikipedia.org/wiki/Thriller_\(song\) "wikilink")"
 15. "[Beat It](https://ko.wikipedia.org/wiki/Beat_It "wikilink")"
 16. "[Come Together](../Page/Come_Together.md "wikilink")"/"[D.S.](https://ko.wikipedia.org/wiki/D.S._\(song\) "wikilink")" <small>Performed on select dates</small>

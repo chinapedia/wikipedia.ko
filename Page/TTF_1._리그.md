@@ -15,7 +15,7 @@
 <td><p><strong>설립연도</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1964년" title="wikilink">1964년</a></p></td>
+<td><p><a href="../Page/1964년.md" title="wikilink">1964년</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>국가</strong></p></td>

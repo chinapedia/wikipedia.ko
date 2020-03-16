@@ -5,7 +5,7 @@
 
 ## 역사
 
-투어기간 동안 드림 시어터의 헤비한 곡들에 좋은 반응을 보인 팬들에게 영감을 얻은 밴드는\[1\] Train of Thought를 그때까지 낸 앨범 중 가장 헤비한 스타일로 만들어냈다. 작곡은 3주에 걸쳐 이루어졌다\[2\]. 엔지니어는 Doug Oberkircher, 믹싱은 [케빈 셜리](https://ko.wikipedia.org/wiki/케빈_셜리 "wikilink")(Kevin Shirley)가 맡았다\[3\]. 앨범 수록곡은 7곡으로, 이는 6집 [Six Degrees of Inner Turbulence가](../Page/Six_Degrees_of_Inner_Turbulence.md "wikilink") 6곡, 8집 [Octavarium](https://ko.wikipedia.org/wiki/Octavarium "wikilink")이 8곡인것과 맞춰 하나의 컨셉화시킨 부분이다. 이러한 패턴은 이후 반대로 나타나는데, 9집 [Systematic Chaos는](https://ko.wikipedia.org/wiki/Systematic_Chaos "wikilink") 7곡, 10집 [Black Clouds & Silver Linings는](../Page/Black_Clouds_&_Silver_Linings.md "wikilink") 6곡으로 다시 줄어든다. 이러한 컨셉에서 [Octavarium의](https://ko.wikipedia.org/wiki/Octavarium_\(곡\) "wikilink") 주요 테마 "모든 것은 시작한 곳에서 끝이난다"를 도출해 낼 수 있다.
+투어기간 동안 드림 시어터의 헤비한 곡들에 좋은 반응을 보인 팬들에게 영감을 얻은 밴드는\[1\] Train of Thought를 그때까지 낸 앨범 중 가장 헤비한 스타일로 만들어냈다. 작곡은 3주에 걸쳐 이루어졌다\[2\]. 엔지니어는 Doug Oberkircher, 믹싱은 [케빈 셜리](https://ko.wikipedia.org/wiki/케빈_셜리 "wikilink")(Kevin Shirley)가 맡았다\[3\]. 앨범 수록곡은 7곡으로, 이는 6집 [Six Degrees of Inner Turbulence가](../Page/Six_Degrees_of_Inner_Turbulence.md "wikilink") 6곡, 8집 [Octavarium](../Page/Octavarium.md "wikilink")이 8곡인것과 맞춰 하나의 컨셉화시킨 부분이다. 이러한 패턴은 이후 반대로 나타나는데, 9집 [Systematic Chaos는](../Page/Systematic_Chaos.md "wikilink") 7곡, 10집 [Black Clouds & Silver Linings는](../Page/Black_Clouds_&_Silver_Linings.md "wikilink") 6곡으로 다시 줄어든다. 이러한 컨셉에서 [Octavarium의](https://ko.wikipedia.org/wiki/Octavarium_\(곡\) "wikilink") 주요 테마 "모든 것은 시작한 곳에서 끝이난다"를 도출해 낼 수 있다.
 
 ## 평가
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - "Honor Thy Father"의 곡 중에 등장하는 중얼거림은 [폴 토머스 앤더슨의](../Page/폴_토머스_앤더슨.md "wikilink") 영화 '[매그놀리아](https://ko.wikipedia.org/wiki/매그놀리아 "wikilink")'에서 극 중 제이슨 로바드가 [필립 시모어 호프먼에게](../Page/필립_시모어_호프먼.md "wikilink") 그의 삶의 회한에 대해 설명하는 부분을 가져온 것이다. 또 영화 '[폐쇄 구역](https://ko.wikipedia.org/wiki/폐쇄_구역 "wikilink")'에서 [숀 펜과](https://ko.wikipedia.org/wiki/숀_펜 "wikilink") [크리스토퍼 워컨이](../Page/크리스토퍼_워컨.md "wikilink") 서로 다투는 부분의 대사도 일부 사용했다.
+  - "Honor Thy Father"의 곡 중에 등장하는 중얼거림은 [폴 토머스 앤더슨의](../Page/폴_토머스_앤더슨.md "wikilink") 영화 '[매그놀리아](https://ko.wikipedia.org/wiki/매그놀리아 "wikilink")'에서 극 중 제이슨 로바드가 [필립 시모어 호프먼에게](../Page/필립_시모어_호프먼.md "wikilink") 그의 삶의 회한에 대해 설명하는 부분을 가져온 것이다. 또 영화 '[폐쇄 구역](https://ko.wikipedia.org/wiki/폐쇄_구역 "wikilink")'에서 [숀 펜과](../Page/숀_펜.md "wikilink") [크리스토퍼 워컨이](../Page/크리스토퍼_워컨.md "wikilink") 서로 다투는 부분의 대사도 일부 사용했다.
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - "In the Name of God"에서 12분 56초부터 오른쪽 채널에 들리는 목소리는 [미국 내전](https://ko.wikipedia.org/wiki/미국_남북_전쟁 "wikilink") 찬송가인 "Battle Hymn of the Republic"이다.
+  - "In the Name of God"에서 12분 56초부터 오른쪽 채널에 들리는 목소리는 [미국 내전](../Page/미국_남북_전쟁.md "wikilink") 찬송가인 "Battle Hymn of the Republic"이다.
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - 조던 루디스는 "In The Name of God"의 마지막 피아노 파트를 연주했다. 이 파트의 마지막 음은 다음 앨범 '[Octavarium](https://ko.wikipedia.org/wiki/Octavarium "wikilink")'의 첫 곡 "The Root of All Evil"의 첫 음과 마지막 곡 "Octavarium"의 마지막 음으로도 사용되었다.
+  - 조던 루디스는 "In The Name of God"의 마지막 피아노 파트를 연주했다. 이 파트의 마지막 음은 다음 앨범 '[Octavarium](../Page/Octavarium.md "wikilink")'의 첫 곡 "The Root of All Evil"의 첫 음과 마지막 곡 "Octavarium"의 마지막 음으로도 사용되었다.
 
 <!-- end list -->
 
@@ -65,19 +65,19 @@
 
   - [빌보드 200](../Page/빌보드_200.md "wikilink"): Train of Thought - 53위
   - 빌보드 탑 인터넷 앨범: Train of Thought - 53위
-  - [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 앨범 차트: Train of Thought - 146위
+  - [영국](../Page/영국.md "wikilink") 앨범 차트: Train of Thought - 146위
 
 ## 구성원
 
   - [제임스 라브리에](../Page/제임스_라브리에.md "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink")
-  - [존 페트루치](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink")
-  - [존 명](../Page/존_명.md "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
-  - [조던 루디스](https://ko.wikipedia.org/wiki/조던_루디스 "wikilink") – [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink") – [기타](../Page/기타.md "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink")
+  - [존 명](../Page/존_명.md "wikilink") – [베이스](../Page/베이스_기타.md "wikilink")
+  - [조던 루디스](../Page/조던_루디스.md "wikilink") – [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
   - [마이크 포트노이](https://ko.wikipedia.org/wiki/마이크_포트노이 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink"), [백킹 보컬](https://ko.wikipedia.org/wiki/백킹_보컬 "wikilink")
 
 ### 게스트
 
-  - [유진 프리센](https://ko.wikipedia.org/wiki/유진_프리센 "wikilink") – "Vacant"에서 [첼로](https://ko.wikipedia.org/wiki/첼로 "wikilink")
+  - [유진 프리센](https://ko.wikipedia.org/wiki/유진_프리센 "wikilink") – "Vacant"에서 [첼로](../Page/첼로.md "wikilink")
 
 ## 각주
 

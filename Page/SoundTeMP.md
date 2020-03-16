@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SoundTeMP](https://ko.wikipedia.org/wiki/SoundTeMP).
 
 
-**SoundTeMP**는 [게임 음악을](https://ko.wikipedia.org/wiki/게임_음악 "wikilink") 주로 다루는, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 작곡가 집단이다. [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 결성 이래 [MMORPG](https://ko.wikipedia.org/wiki/MMORPG "wikilink")의 게임 음악 제작에 종사해왔다.
+**SoundTeMP**는 [게임 음악을](https://ko.wikipedia.org/wiki/게임_음악 "wikilink") 주로 다루는, [대한민국](../Page/대한민국.md "wikilink")의 작곡가 집단이다. [1992년](../Page/1992년.md "wikilink") 결성 이래 [MMORPG](https://ko.wikipedia.org/wiki/MMORPG "wikilink")의 게임 음악 제작에 종사해왔다.
 
 ## 멤버
 
@@ -22,8 +22,8 @@
   - [머털도사 108요괴편](https://ko.wikipedia.org/wiki/머털도사_108요괴편 "wikilink") - 1998, Orangesoft
   - [레이디안](https://ko.wikipedia.org/wiki/레이디안 "wikilink") - 1999, [가람과 바람](https://ko.wikipedia.org/wiki/가람과_바람 "wikilink")
   - [포트리스](https://ko.wikipedia.org/wiki/포트리스 "wikilink") 시리즈 - [CCR](https://ko.wikipedia.org/wiki/CCR_\(게임_회사\) "wikilink")
-  - [악튜러스](../Page/악튜러스.md "wikilink") - 2000, [손노리](https://ko.wikipedia.org/wiki/손노리 "wikilink")/[그라비티](https://ko.wikipedia.org/wiki/그라비티 "wikilink")
-  - [라그나로크 온라인](https://ko.wikipedia.org/wiki/라그나로크_온라인 "wikilink") - 2002, [그라비티](https://ko.wikipedia.org/wiki/그라비티 "wikilink")
+  - [악튜러스](../Page/악튜러스.md "wikilink") - 2000, [손노리](../Page/손노리.md "wikilink")/[그라비티](https://ko.wikipedia.org/wiki/그라비티 "wikilink")
+  - [라그나로크 온라인](../Page/라그나로크_온라인.md "wikilink") - 2002, [그라비티](https://ko.wikipedia.org/wiki/그라비티 "wikilink")
   - [나르실리온](https://ko.wikipedia.org/wiki/나르실리온 "wikilink") - 2002, [그리곤 엔터테인먼트](https://ko.wikipedia.org/wiki/그리곤_엔터테인먼트 "wikilink")
   - [4leaf](../Page/4leaf.md "wikilink") - 2000, [소프트맥스](https://ko.wikipedia.org/wiki/소프트맥스 "wikilink")
   - [테일즈위버](../Page/테일즈위버.md "wikilink") - 2002, [소프트맥스](https://ko.wikipedia.org/wiki/소프트맥스 "wikilink")
@@ -32,16 +32,16 @@
   - [씰온라인](https://ko.wikipedia.org/wiki/씰온라인 "wikilink") - 2003, [그리곤 엔터테인먼트](https://ko.wikipedia.org/wiki/그리곤_엔터테인먼트 "wikilink")
   - [코룸 온라인](https://ko.wikipedia.org/wiki/코룸_온라인 "wikilink") - 2003, Netclue
   - [마그나카르타](https://ko.wikipedia.org/wiki/마그나카르타 "wikilink") - 2004, [소프트맥스](https://ko.wikipedia.org/wiki/소프트맥스 "wikilink")
-  - [팡야](https://ko.wikipedia.org/wiki/팡야 "wikilink") - 2004, [엔트리브 소프트](https://ko.wikipedia.org/wiki/엔트리브_소프트 "wikilink")
-  - [요구르팅](../Page/요구르팅.md "wikilink") - 2004, [타프시스템/엔틱스소프트](https://ko.wikipedia.org/wiki/레드덕 "wikilink")
+  - [팡야](../Page/팡야.md "wikilink") - 2004, [엔트리브 소프트](../Page/엔트리브_소프트.md "wikilink")
+  - [요구르팅](../Page/요구르팅.md "wikilink") - 2004, [타프시스템/엔틱스소프트](../Page/레드덕.md "wikilink")
   - [제네픽 온라인](https://ko.wikipedia.org/wiki/제네픽_온라인 "wikilink") - 2004, DNC 엔터테인먼트
   - [RF 온라인](https://ko.wikipedia.org/wiki/RF_온라인 "wikilink") - 2004, [CCR](https://ko.wikipedia.org/wiki/CCR_\(게임_회사\) "wikilink")
   - [실크로드 온라인](../Page/실크로드_온라인.md "wikilink") - 2004. [조이맥스](https://ko.wikipedia.org/wiki/조이맥스 "wikilink")
-  - [그라나도 에스파다](https://ko.wikipedia.org/wiki/그라나도_에스파다 "wikilink") - 2005, [IMC게임스](https://ko.wikipedia.org/wiki/IMC게임스 "wikilink")
+  - [그라나도 에스파다](../Page/그라나도_에스파다.md "wikilink") - 2005, [IMC게임스](https://ko.wikipedia.org/wiki/IMC게임스 "wikilink")
   - [라테일](https://ko.wikipedia.org/wiki/라테일 "wikilink") - 2006, [엑토즈소프트](https://ko.wikipedia.org/wiki/엑토즈소프트 "wikilink")
-  - [팡야](https://ko.wikipedia.org/wiki/팡야 "wikilink") 시즌3 - 2006, [엔트리브 소프트](https://ko.wikipedia.org/wiki/엔트리브_소프트 "wikilink")
-  - [디제이맥스](https://ko.wikipedia.org/wiki/디제이맥스 "wikilink") 시리즈
-  - [프린세스 메이커](https://ko.wikipedia.org/wiki/프린세스_메이커 "wikilink") 시리즈
+  - [팡야](../Page/팡야.md "wikilink") 시즌3 - 2006, [엔트리브 소프트](../Page/엔트리브_소프트.md "wikilink")
+  - [디제이맥스](../Page/디제이맥스.md "wikilink") 시리즈
+  - [프린세스 메이커](../Page/프린세스_메이커.md "wikilink") 시리즈
   - [트리 오브 세이비어](https://ko.wikipedia.org/wiki/트리_오브_세이비어 "wikilink") - 2015(CBT), [IMC게임즈](https://ko.wikipedia.org/wiki/IMC게임즈 "wikilink")
 
 ## 음반

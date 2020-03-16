@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Favorite \(EP\)](https://ko.wikipedia.org/wiki/Favorite_\(EP\)).
 
 
-《**Favorite**》은 [버벌진트](../Page/버벌진트.md "wikilink")가 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 10일에](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") 발표한 EP 앨범이다. 이 앨범에는 [다이나믹 듀오](https://ko.wikipedia.org/wiki/다이나믹_듀오 "wikilink"), [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink"), Kjun, Matilda Fung 등의 아티스트들이 참여했다.
+《**Favorite**》은 [버벌진트](../Page/버벌진트.md "wikilink")가 [2007년](../Page/2007년.md "wikilink") [5월 10일에](../Page/5월_10일.md "wikilink") 발표한 EP 앨범이다. 이 앨범에는 [다이나믹 듀오](../Page/다이나믹_듀오.md "wikilink"), [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink"), Kjun, Matilda Fung 등의 아티스트들이 참여했다.
 
 ## 제작
 
@@ -11,7 +11,7 @@
 
 ## 참여진
 
-랩과 보컬에 있어서는 [다이나믹 듀오](https://ko.wikipedia.org/wiki/다이나믹_듀오 "wikilink"), [에픽 하이의](https://ko.wikipedia.org/wiki/에픽_하이 "wikilink") [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink"), [미쓰라 진](../Page/미쓰라_진.md "wikilink"), Kjun, Matilda Fung 등이 참여했다. 비트는 Kjun이 만든 *다 같이 춤을 춰* 한 곡을 제외하고 모두 버벌진트가 작곡하였다. 믹싱은 이용섭, 고승욱, 심진보, 성지훈, 버벌진트, [Warmman](https://ko.wikipedia.org/wiki/웜맨 "wikilink"), Kjun 등 7명이 참여하였다. 한편 피쳐링 표시는 안 되었으나 조효제, Dopesun, Marry+P 등이 추가 보컬을 녹음하였으며, *소인배*, *엉덩이가 닮았네* 두 곡에서 [DJ Jun이](https://ko.wikipedia.org/wiki/DJ_준 "wikilink") 스크래칭을 넣어주었다 (스크래치 녹음은 [NODO의](../Page/노도_\(가수\).md "wikilink") 스튜디오에서 이루어졌다). 또 '2005년 2학기 반지의 제왕 고급영어 수업을 통해' 버벌진트와 알게 된\[6\] 왕주연의 [플루트](https://ko.wikipedia.org/wiki/플루트 "wikilink") 연주도 *내리막*, *Favorite*에 들어가있다. 한편으로 사진 촬영, 자켓 디자인 등에는 [Size of Fullbite의](https://ko.wikipedia.org/wiki/사이즈_오브_풀바이트 "wikilink") Ganeda와 Fake가 참여하였다. 총 프로듀서는 장호일과 허욱이었다.\[7\]
+랩과 보컬에 있어서는 [다이나믹 듀오](../Page/다이나믹_듀오.md "wikilink"), [에픽 하이의](https://ko.wikipedia.org/wiki/에픽_하이 "wikilink") [타블로](../Page/타블로.md "wikilink"), [미쓰라 진](../Page/미쓰라_진.md "wikilink"), Kjun, Matilda Fung 등이 참여했다. 비트는 Kjun이 만든 *다 같이 춤을 춰* 한 곡을 제외하고 모두 버벌진트가 작곡하였다. 믹싱은 이용섭, 고승욱, 심진보, 성지훈, 버벌진트, [Warmman](https://ko.wikipedia.org/wiki/웜맨 "wikilink"), Kjun 등 7명이 참여하였다. 한편 피쳐링 표시는 안 되었으나 조효제, Dopesun, Marry+P 등이 추가 보컬을 녹음하였으며, *소인배*, *엉덩이가 닮았네* 두 곡에서 [DJ Jun이](https://ko.wikipedia.org/wiki/DJ_준 "wikilink") 스크래칭을 넣어주었다 (스크래치 녹음은 [NODO의](../Page/노도_\(가수\).md "wikilink") 스튜디오에서 이루어졌다). 또 '2005년 2학기 반지의 제왕 고급영어 수업을 통해' 버벌진트와 알게 된\[6\] 왕주연의 [플루트](../Page/플루트.md "wikilink") 연주도 *내리막*, *Favorite*에 들어가있다. 한편으로 사진 촬영, 자켓 디자인 등에는 [Size of Fullbite의](https://ko.wikipedia.org/wiki/사이즈_오브_풀바이트 "wikilink") Ganeda와 Fake가 참여하였다. 총 프로듀서는 장호일과 허욱이었다.\[7\]
 
 ## 수록곡
 
@@ -33,7 +33,7 @@
 
 EP ''Favorite '' 앨범의 타이틀곡은 *Favorite*으로 뮤직비디오가 촬영되었다. 곡은 버벌진트의 비트 위에 버벌진트가 랩을 하지 않고 보컬만 녹음한 것이 특징이며, 중후반부에 다이나믹 듀오의 랩이 들어가있다.
 
-곡 작업은 2005년 어느날 [KMTV](https://ko.wikipedia.org/wiki/KMTV "wikilink") 성우녹음을 마치고 집으로 돌아오다 생각난 후렴구부터 시작되었다고 하며, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [1월 17일에](https://ko.wikipedia.org/wiki/1월_17일 "wikilink") 본격적인 작업 시작, 7월 5일 다이나믹 듀오 랩 녹음, 2월 28일 왕주연 플루트 녹음, 3월 6일 버벌진트 보컬 녹음으로 이루어졌다. 이 곡은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") Cosmopolitan Party부터 공연되기 시작하였는데, 당시는 원곡과 다르게 버벌진트가 혼자 피아노를 치며 부르는 형식이었으며 랩 파트는 없었다.\[8\]
+곡 작업은 2005년 어느날 [KMTV](https://ko.wikipedia.org/wiki/KMTV "wikilink") 성우녹음을 마치고 집으로 돌아오다 생각난 후렴구부터 시작되었다고 하며, [2006년](../Page/2006년.md "wikilink") [1월 17일에](../Page/1월_17일.md "wikilink") 본격적인 작업 시작, 7월 5일 다이나믹 듀오 랩 녹음, 2월 28일 왕주연 플루트 녹음, 3월 6일 버벌진트 보컬 녹음으로 이루어졌다. 이 곡은 [2006년](../Page/2006년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") Cosmopolitan Party부터 공연되기 시작하였는데, 당시는 원곡과 다르게 버벌진트가 혼자 피아노를 치며 부르는 형식이었으며 랩 파트는 없었다.\[8\]
 
 한편 이 곡은 버벌진트의 다음 두 앨범에서도 리믹스 버전으로 계속 수록되었는데, 《무명》 앨범에는 Kjun의 리믹스를 거친 "Gettheride Remix" 버전으로, *누명* 앨범에는 비트의 변화는 없지만 다이나믹 듀오 대신 [키비와](../Page/키비_\(가수\).md "wikilink") [더 콰이엇이](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink") 참여한 리믹스 버전으로 수록되었다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GTO \(\)](https://ko.wikipedia.org/wiki/GTO_\(\)).
 
 
-**GTO**(부제: Great Teacher Onizuka / 대한민국명: **반항하지마\!**)는 [후지사와 토루의](https://ko.wikipedia.org/wiki/후지사와_토루 "wikilink") [일본](../Page/일본.md "wikilink") [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")이다. 원작자의 전작품인 [상남 순애조](https://ko.wikipedia.org/wiki/상남_순애조 "wikilink")(국내명: 상남 2인조)의 속편격으로 폭주족 출신인 [오니즈카 에이키치](https://ko.wikipedia.org/wiki/오니즈카_에이키치 "wikilink")(국내명: 영길)가 대학졸업 후 사립 중학교 선생이 되었던 얘기를 다루었다. 장르상 학원물을 표방하고 있지만 다소 과도한 에피소드들도 있다. 1999년에는 애니로도 제작되었으며 대한민국에서는 [학산문화사](../Page/학산문화사.md "wikilink")의 만화잡지 [찬스](https://ko.wikipedia.org/wiki/찬스 "wikilink")를 통해 1998년 \~ 2003년까지 연재하였다.
+**GTO**(부제: Great Teacher Onizuka / 대한민국명: **반항하지마\!**)는 [후지사와 토루의](https://ko.wikipedia.org/wiki/후지사와_토루 "wikilink") [일본](../Page/일본.md "wikilink") [만화](../Page/만화.md "wikilink")이다. 원작자의 전작품인 [상남 순애조](https://ko.wikipedia.org/wiki/상남_순애조 "wikilink")(국내명: 상남 2인조)의 속편격으로 폭주족 출신인 [오니즈카 에이키치](https://ko.wikipedia.org/wiki/오니즈카_에이키치 "wikilink")(국내명: 영길)가 대학졸업 후 사립 중학교 선생이 되었던 얘기를 다루었다. 장르상 학원물을 표방하고 있지만 다소 과도한 에피소드들도 있다. 1999년에는 애니로도 제작되었으며 대한민국에서는 [학산문화사](../Page/학산문화사.md "wikilink")의 만화잡지 [찬스](https://ko.wikipedia.org/wiki/찬스 "wikilink")를 통해 1998년 \~ 2003년까지 연재하였다.
 
 현재, GTO Shonan 14Days라는 제목으로 연재를 재개하고 있다. 데시가와라에게 권총을 맞고 병원에 입원한 [오니즈카가](https://ko.wikipedia.org/wiki/오니즈카_에이키치 "wikilink") 병원에서 탈출한 뒤 방송에 나가 사고를 치고, 잠시 잠적을 한 14일간 쇼난(상남)에서 펼쳐지는 이야기라 한다. 상남 순애조(상남 2인조)에서 등장했던 몇몇 인물들이 다시 등장하여 많은 관심을 받고있다.(현재 1권 출간, 2권은 12월 중 출간. 한국내 라이센스본은 예정 없음.) 2010년 현재 3권 출간되었다. 현재 1권 라이센스본 출간.
 
@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - **사쿠라이 료코**(앵정) - 성우: [오카모토 요시코](https://ko.wikipedia.org/wiki/오카모토_요시코 "wikilink") / [손정아](https://ko.wikipedia.org/wiki/손정아 "wikilink")
+  - **사쿠라이 료코**(앵정) - 성우: [오카모토 요시코](https://ko.wikipedia.org/wiki/오카모토_요시코 "wikilink") / [손정아](../Page/손정아.md "wikilink")
 
 <!-- end list -->
 
@@ -343,7 +343,7 @@
 
 <!-- end list -->
 
-  - **후지모리** - 성우: [와타나베 미사](https://ko.wikipedia.org/wiki/와타나베_미사 "wikilink"), [손정아](https://ko.wikipedia.org/wiki/손정아 "wikilink")
+  - **후지모리** - 성우: [와타나베 미사](https://ko.wikipedia.org/wiki/와타나베_미사 "wikilink"), [손정아](../Page/손정아.md "wikilink")
 
 <!-- end list -->
 

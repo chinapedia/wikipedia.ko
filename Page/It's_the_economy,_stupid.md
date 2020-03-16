@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [It\'s the economy, stupid](https://ko.wikipedia.org/wiki/It\'s_the_economy,_stupid).
 
 
-**"It's the economy, stupid"**(이츠 디 이코노미, 스튜피드)는 [1992년 미국 대통령 선거에서](../Page/1992년_미국_대통령_선거.md "wikilink") 민주당의 [빌 클린턴](https://ko.wikipedia.org/wiki/빌_클린턴 "wikilink") 후보 진영에서 내걸었던 선거 운동 문구로, 클린턴 후보 캠프에서 활동하였던 [제임스 카빌이](https://ko.wikipedia.org/wiki/제임스_카빌 "wikilink") 고안하였다. 클린턴 후보는 현직 대통령인 공화당의 [조지 H. W. 부시를](https://ko.wikipedia.org/wiki/조지_H._W._부시 "wikilink") 누르고 승리하였다.
+**"It's the economy, stupid"**(이츠 디 이코노미, 스튜피드)는 [1992년 미국 대통령 선거에서](../Page/1992년_미국_대통령_선거.md "wikilink") 민주당의 [빌 클린턴](../Page/빌_클린턴.md "wikilink") 후보 진영에서 내걸었던 선거 운동 문구로, 클린턴 후보 캠프에서 활동하였던 [제임스 카빌이](https://ko.wikipedia.org/wiki/제임스_카빌 "wikilink") 고안하였다. 클린턴 후보는 현직 대통령인 공화당의 [조지 H. W. 부시를](../Page/조지_H._W._부시.md "wikilink") 누르고 승리하였다.
 
-원래는 클린턴 선거 캠프 내부 직원들을 대상으로 내걸었던 세 가지 문구 중 하나로 쓰인 것으로, 'The economy, stupid'(경제라고 바보야)라는 말이었다. 그러나 클린턴 진영에서 부시 대통령을 누르기 위한 선거전략 중 하나로 당시 미국이 겪고있던 [불황](https://ko.wikipedia.org/wiki/불황 "wikilink") 문제를 꺼내면서 외부 유권자들에게도 활용되었다. 실제로 [걸프 전쟁](https://ko.wikipedia.org/wiki/걸프_전쟁 "wikilink") 당시였던 1991년 3월 부시 대통령의 업무 수행 지지율은 90%에 달했으나, 임기 말이던 1992년 8월에는 여론이 돌아서 64%로 급락하였다.\[1\]
+원래는 클린턴 선거 캠프 내부 직원들을 대상으로 내걸었던 세 가지 문구 중 하나로 쓰인 것으로, 'The economy, stupid'(경제라고 바보야)라는 말이었다. 그러나 클린턴 진영에서 부시 대통령을 누르기 위한 선거전략 중 하나로 당시 미국이 겪고있던 [불황](https://ko.wikipedia.org/wiki/불황 "wikilink") 문제를 꺼내면서 외부 유권자들에게도 활용되었다. 실제로 [걸프 전쟁](../Page/걸프_전쟁.md "wikilink") 당시였던 1991년 3월 부시 대통령의 업무 수행 지지율은 90%에 달했으나, 임기 말이던 1992년 8월에는 여론이 돌아서 64%로 급락하였다.\[1\]
 
 ## 원본
 
-대선 당시 제임스 카빌은 선거 운동 전략을 일종의 메시지로 정리할 생각으로 [아칸소주](https://ko.wikipedia.org/wiki/아칸소주 "wikilink") [리틀록](../Page/리틀록.md "wikilink")\[2\]에 마련된 클린턴 선거운동 본부에 간판을 걸었다. 거기에는 세 가지 표어가 씌여 있었는데 다음과 같았다.
+대선 당시 제임스 카빌은 선거 운동 전략을 일종의 메시지로 정리할 생각으로 [아칸소주](../Page/아칸소주.md "wikilink") [리틀록](../Page/리틀록.md "wikilink")\[2\]에 마련된 클린턴 선거운동 본부에 간판을 걸었다. 거기에는 세 가지 표어가 씌여 있었는데 다음과 같았다.
 
 1.  Change vs. more of the same - "바꿀 것이냐, 또 놔둘 것이냐". [2008년 미국 대선에서](https://ko.wikipedia.org/wiki/2008년_미국_대선 "wikilink") [버락 오바마](../Page/버락_오바마.md "wikilink") 후보 측도 다시 활용한 적이 있다.\[3\]
 2.  **The economy, stupid** - "**문제는 경제야, 바보야**"
@@ -26,7 +26,7 @@
 [분류:1992년 미국](https://ko.wikipedia.org/wiki/분류:1992년_미국 "wikilink") [분류:빌 클린턴](https://ko.wikipedia.org/wiki/분류:빌_클린턴 "wikilink") [분류:캐치프레이즈](https://ko.wikipedia.org/wiki/분류:캐치프레이즈 "wikilink") [분류:문재인 정부](https://ko.wikipedia.org/wiki/분류:문재인_정부 "wikilink")
 
 1.  Agiesta, Jennifer. [Approval Highs and Lows](http://blog.washingtonpost.com/behind-the-numbers/2007/07/approval_highs_and_lows.html) . *The Washington Post*. 2007년 7월 24일.
-2.  빌 클린턴은 대선 당시 [아칸소주](https://ko.wikipedia.org/wiki/아칸소주 "wikilink")지사였다.
+2.  빌 클린턴은 대선 당시 [아칸소주](../Page/아칸소주.md "wikilink")지사였다.
 3.
 4.
 5.  Snowclone. 널리 알려져 있는 문구를 조금씩 바꿔 쓰는 것.

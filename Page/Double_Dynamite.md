@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Double Dynamite](https://ko.wikipedia.org/wiki/Double_Dynamite).
 
 
-**Double Dynamite**는 [다이나믹 듀오가](https://ko.wikipedia.org/wiki/다이나믹_듀오 "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 26일에](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") 발매한 정규 2집 앨범이다.
+**Double Dynamite**는 [다이나믹 듀오가](../Page/다이나믹_듀오.md "wikilink") [2005년](../Page/2005년.md "wikilink") [10월 26일에](../Page/10월_26일.md "wikilink") 발매한 정규 2집 앨범이다.
 
 ## 수록곡
 
@@ -12,10 +12,10 @@
 5.  아무도 모르게 (Whats Going On)
 6.  Lets Go (Feat. Sixpoint From KOD)
 7.  Its Alright (Feat. [Brown Eyed soul](../Page/브라운_아이드_소울.md "wikilink"), [개리](https://ko.wikipedia.org/wiki/개리_\(가수\) "wikilink") from [리쌍](../Page/리쌍.md "wikilink"), [전제덕](../Page/전제덕.md "wikilink"))
-8.  시큰둥 (Funk The World, Feat. [이적](https://ko.wikipedia.org/wiki/이적_\(가수\) "wikilink"), David a.k.a. Microdot)
+8.  시큰둥 (Funk The World, Feat. [이적](../Page/이적_\(가수\).md "wikilink"), David a.k.a. Microdot)
 9.  너나 잘하세요 (F\*\*\* You, Feat. [Tiger JK](https://ko.wikipedia.org/wiki/Tiger_JK "wikilink"), Juvie Train from [Buga Kingz](../Page/부가_킹즈.md "wikilink"))
 10. Skit
-11. 서커스 (Feat. [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink"), [노홍철](https://ko.wikipedia.org/wiki/노홍철 "wikilink"))
+11. 서커스 (Feat. [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink"), [노홍철](../Page/노홍철.md "wikilink"))
 12. Love Is (Feat. [윤미래](../Page/윤미래.md "wikilink"), [권기범](https://ko.wikipedia.org/wiki/권기범 "wikilink"))
 13. 파도 (I Know, Feat. [Paloalto](../Page/팔로알토_\(가수\).md "wikilink"))
 14. 그림자 (Feat. 은주최)
