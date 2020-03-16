@@ -7,7 +7,7 @@
 
   - [서울연희초등학교](../Page/서울연희초등학교.md "wikilink") (졸업)
   - [연북중학교](../Page/연북중학교.md "wikilink") (졸업)
-  - [고등학교 졸업학력 검정고시](https://ko.wikipedia.org/wiki/대한민국의_검정고시 "wikilink") (합격)
+  - [고등학교 졸업학력 검정고시](../Page/대한민국의_검정고시.md "wikilink") (합격)
 
 ## 음반
 
@@ -30,7 +30,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">한국</a><br />
+<td><p><a href="../Page/가온_디지털_차트.md" title="wikilink">한국</a><br />
 [1]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오리콘_차트" title="wikilink">일본</a><br />
 [2]</p></td>
@@ -64,7 +64,7 @@
 </tr>
 <tr class="even">
 <td><p>L4L (Lookin' For Luv)<br />
-<small>(Feat. <a href="https://ko.wikipedia.org/wiki/도끼_(가수)" title="wikilink">도끼</a>, <a href="https://ko.wikipedia.org/wiki/더_콰이엇" title="wikilink">더 콰이엇</a>)</small></p></td>
+<small>(Feat. <a href="../Page/도끼_(가수).md" title="wikilink">도끼</a>, <a href="https://ko.wikipedia.org/wiki/더_콰이엇" title="wikilink">더 콰이엇</a>)</small></p></td>
 <td><p>7</p></td>
 <td><p>-</p></td>
 <td><p>369,129+<ref>"L4L" 의 누적 판매량 집계:</p>
@@ -146,7 +146,7 @@
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p>이리와봐 <small> (Feat. <a href="https://ko.wikipedia.org/wiki/도끼_(가수)" title="wikilink">도끼</a>, Bobby) </small></p></td>
+<td><p>이리와봐 <small> (Feat. <a href="../Page/도끼_(가수).md" title="wikilink">도끼</a>, Bobby) </small></p></td>
 <td><p>8</p></td>
 <td><p>-</p></td>
 <td><p>169,275+<ref>"Come Here" 의 누적 판매량 집계:</p>
@@ -440,17 +440,17 @@
 | 2014 | Mnet | 《WIN - Who Is Next》                                           | 본인(Team B) | 참가자             |
 | 2014 | Mnet | 《[쇼미더머니 3](https://ko.wikipedia.org/wiki/쇼미더머니_3 "wikilink")》 | 본인         | 참가자, 최종 우승      |
 | 2014 | Mnet | 《믹스 앤 매치》                                                     | 본인         | 참가자             |
-| 2016 | MBC  | 《[무한도전](https://ko.wikipedia.org/wiki/무한도전 "wikilink")》       | 본인         | 게스트             |
+| 2016 | MBC  | 《[무한도전](../Page/무한도전.md "wikilink")》                          | 본인         | 게스트             |
 | 2016 | tvN  | 《[아버지와 나](../Page/아버지와_나.md "wikilink")》                      | 본인         | 고정 멤버           |
 | 2017 | MBC  | 《[미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")》        | 참가자        | 어물전 최고미남 꼴뚜기 왕자 |
 
 ### CF
 
-  - 한국코카콜라 《스프라이트》 (with [강소라](https://ko.wikipedia.org/wiki/강소라 "wikilink"))
+  - 한국코카콜라 《스프라이트》 (with [강소라](../Page/강소라.md "wikilink"))
 
 ## 수상
 
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 《[쇼미더머니 3](https://ko.wikipedia.org/wiki/쇼미더머니_3 "wikilink")》 우승
+  - [2014년](../Page/2014년.md "wikilink") 《[쇼미더머니 3](https://ko.wikipedia.org/wiki/쇼미더머니_3 "wikilink")》 우승
 
 ## 각주
 

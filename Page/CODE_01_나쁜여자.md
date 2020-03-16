@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CODE 01 ](https://ko.wikipedia.org/wiki/CODE_01_).
 
 
-《**CODE\#01 나쁜여자**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") [EP 앨범이자](https://ko.wikipedia.org/wiki/EP_앨범 "wikilink") 첫 음반이다. 2013년 3월 7일 발매되었다.
+《**CODE\#01 나쁜여자**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") [EP 앨범이자](https://ko.wikipedia.org/wiki/EP_앨범 "wikilink") 첫 음반이다. 2013년 3월 7일 발매되었다.
 
 ## 곡 목록
 
@@ -9,13 +9,13 @@
 
 ### 앨범 차트
 
-| 국가                                                             | 차트            | 최고 순위 |
-| -------------------------------------------------------------- | ------------- | ----- |
-| 대한민국 ([가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")) | 주간 앨범 차트\[1\] | 23    |
-| 월간 앨범 차트\[2\]                                                  | 60            |       |
-| 연간 앨범 차트\[3\]                                                  | —             |       |
-|                                                                |               |       |
-| "—" 표시는 차트에 진입하지 못함을 의미함.                                      |               |       |
+| 국가                                          | 차트            | 최고 순위 |
+| ------------------------------------------- | ------------- | ----- |
+| 대한민국 ([가온 차트](../Page/가온_차트.md "wikilink")) | 주간 앨범 차트\[1\] | 23    |
+| 월간 앨범 차트\[2\]                               | 60            |       |
+| 연간 앨범 차트\[3\]                               | —             |       |
+|                                             |               |       |
+| "—" 표시는 차트에 진입하지 못함을 의미함.                   |               |       |
 
 ### 싱글 차트
 
@@ -28,9 +28,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온</a><br />
+<td><p><small><a href="../Page/가온_차트.md" title="wikilink">가온</a><br />
 [4]</p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/코리아_K-Pop_핫_100" title="wikilink">K-Pop<br />
+<td><p><small><a href="../Page/코리아_K-Pop_핫_100.md" title="wikilink">K-Pop<br />
 핫 100</a></small><br />
 [5]</p></td>
 </tr>
@@ -65,9 +65,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
+<td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>2013년 3월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a></p></td>
 <td><p>폴라리스 엔터테인먼트<br />
 CJ E&amp;M</p></td>
 </tr>
@@ -90,7 +90,7 @@ CJ E&amp;M</p></td>
 
 ## 외부 링크
 
-  - (채널: [CJENMMUSIC](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink"))
+  - (채널: [CJENMMUSIC](../Page/CJ_E&M.md "wikilink"))
 
   - (채널: [LadiesCode](../Page/레이디스_코드.md "wikilink"))
 

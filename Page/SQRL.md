@@ -5,7 +5,7 @@
 
 ## 개발동기
 
-이 프로토콜은 identity fragmentation 문제에 대한 해결책으로서 제안되었다. 이 기술은 기존의 [OAuth](https://ko.wikipedia.org/wiki/OAuth "wikilink")와 [OpenID](https://ko.wikipedia.org/wiki/OpenID "wikilink") 방식보다 향상된 기능을 제공하는데, 이를 통해 제3자에게 정보를 노출하지 않고도 인증이 가능하다. 더불어 SQRL은 로그인 과정을 단순화하는 과정을 사용하는데, 이것은 [LastPass](https://ko.wikipedia.org/wiki/LastPass "wikilink")와 같은 비밀번호 관리자 [password manager에서도](https://ko.wikipedia.org/wiki/password_manager "wikilink") 사용할 수 있는 방법이다.
+이 프로토콜은 identity fragmentation 문제에 대한 해결책으로서 제안되었다. 이 기술은 기존의 [OAuth](../Page/OAuth.md "wikilink")와 [OpenID](https://ko.wikipedia.org/wiki/OpenID "wikilink") 방식보다 향상된 기능을 제공하는데, 이를 통해 제3자에게 정보를 노출하지 않고도 인증이 가능하다. 더불어 SQRL은 로그인 과정을 단순화하는 과정을 사용하는데, 이것은 [LastPass](https://ko.wikipedia.org/wiki/LastPass "wikilink")와 같은 비밀번호 관리자 [password manager에서도](https://ko.wikipedia.org/wiki/password_manager "wikilink") 사용할 수 있는 방법이다.
 
 ## 사용방법
 

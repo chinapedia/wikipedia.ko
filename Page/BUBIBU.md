@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BUBIBU](https://ko.wikipedia.org/wiki/BUBIBU).
 
 
-〈**BUBIBU**〉(부비부)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악그룹 [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 노래이다. 한국에서는 세번째 [디지털 싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 6일에](https://ko.wikipedia.org/wiki/7월_6일 "wikilink") 발매되었으며, 일본에서는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 26일에](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") 발매된 《[PINK SEASON](../Page/PINK_SEASON.md "wikilink")》에 수록된다.
+〈**BUBIBU**〉(부비부)는 [대한민국](../Page/대한민국.md "wikilink")의 음악그룹 [에이핑크](../Page/에이핑크.md "wikilink")의 노래이다. 한국에서는 세번째 [디지털 싱글로](../Page/싱글_\(음악\).md "wikilink") [2012년](../Page/2012년.md "wikilink") [7월 6일에](../Page/7월_6일.md "wikilink") 발매되었으며, 일본에서는 [2015년](../Page/2015년.md "wikilink") [8월 26일에](../Page/8월_26일.md "wikilink") 발매된 《[PINK SEASON](../Page/PINK_SEASON.md "wikilink")》에 수록된다.
 
 ## 싱글 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CODE 02 PRETTY PRETTY](https://ko.wikipedia.org/wiki/CODE_02_PRETTY_PRETTY).
 
 
-《**CODE\#02 PRETTY PRETTY**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 두 번째 [EP 앨범이다](https://ko.wikipedia.org/wiki/EP_앨범 "wikilink"). 2013년 9월 5일 발매되었다. 2014년 9월 3일 교통사고로 사망한 멤버 [은비의](https://ko.wikipedia.org/wiki/은비_\(1992년\) "wikilink") 소원이었던 "음원순위 1위"가 네티즌들 사이에 퍼져나가면서 은비가 생전 좋아했던 곡이었던 4번 트랙 〈I'm Fine Thank You〉가 음원에서 좋은 성적을 거뒀다.
+《**CODE\#02 PRETTY PRETTY**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 두 번째 [EP 앨범이다](https://ko.wikipedia.org/wiki/EP_앨범 "wikilink"). 2013년 9월 5일 발매되었다. 2014년 9월 3일 교통사고로 사망한 멤버 [은비의](https://ko.wikipedia.org/wiki/은비_\(1992년\) "wikilink") 소원이었던 "음원순위 1위"가 네티즌들 사이에 퍼져나가면서 은비가 생전 좋아했던 곡이었던 4번 트랙 〈I'm Fine Thank You〉가 음원에서 좋은 성적을 거뒀다.
 
 ## 곡 목록
 
@@ -20,9 +20,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
+<td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>2013년 9월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a></p></td>
 <td><p>폴라리스 엔터테인먼트<br />
 CJ E&amp;M</p></td>
 </tr>
@@ -54,7 +54,7 @@ CJ E&amp;M</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온</a><br />
+<td><p><small><a href="../Page/가온_차트.md" title="wikilink">가온</a><br />
 [1]</p></td>
 <td></td>
 </tr>
@@ -79,11 +79,11 @@ CJ E&amp;M</p></td>
 
   - (채널: [LadiesCode](https://ko.wikipedia.org/wiki/레이디스코드 "wikilink"))
 
-  - (채널: [CJENMMUSIC](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink"))
+  - (채널: [CJENMMUSIC](../Page/CJ_E&M.md "wikilink"))
 
   - (채널: [LadiesCode](https://ko.wikipedia.org/wiki/레이디스코드 "wikilink"))
 
-  - (채널: [CJENMMUSIC](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink"))
+  - (채널: [CJENMMUSIC](../Page/CJ_E&M.md "wikilink"))
 
   - (채널: [LadiesCode](https://ko.wikipedia.org/wiki/레이디스코드 "wikilink"))
 

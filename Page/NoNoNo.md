@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NoNoNo](https://ko.wikipedia.org/wiki/NoNoNo).
 
 
-〈**NoNoNo**〉(노노노)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악그룹 [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 노래이다. 한국에서는 3번째 미니앨범 《[Secret Garden](https://ko.wikipedia.org/wiki/Secret_Garden "wikilink")》의 타이틀 곡으로 2013년 7월 5일에 발매되었으며, 일본에서는 일본 데뷔 싱글로 2014년 10월 22일에 발매됐다.
+〈**NoNoNo**〉(노노노)는 [대한민국](../Page/대한민국.md "wikilink")의 음악그룹 [에이핑크](../Page/에이핑크.md "wikilink")의 노래이다. 한국에서는 3번째 미니앨범 《[Secret Garden](https://ko.wikipedia.org/wiki/Secret_Garden "wikilink")》의 타이틀 곡으로 2013년 7월 5일에 발매되었으며, 일본에서는 일본 데뷔 싱글로 2014년 10월 22일에 발매됐다.
 
 ## 개요
 
@@ -45,11 +45,11 @@
 
 ## 발매일
 
-| 국가 | 일정            | 포맷                                                                                                                    | 레이블                                                               |
-| -- | ------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 한국 | 2013년 7월 5일   | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | [플랜에이 엔터테인먼트](../Page/플랜에이_엔터테인먼트.md "wikilink")                  |
-| 일본 | 2014년 10월 22일 | CD, 디지털 다운로드                                                                                                          | [유니버설 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") |
-|    |               |                                                                                                                       |                                                                   |
+| 국가 | 일정            | 포맷                                                                                                 | 레이블                                                               |
+| -- | ------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 한국 | 2013년 7월 5일   | [CD](../Page/콤팩트_디스크.md "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | [플랜에이 엔터테인먼트](../Page/플랜에이_엔터테인먼트.md "wikilink")                  |
+| 일본 | 2014년 10월 22일 | CD, 디지털 다운로드                                                                                       | [유니버설 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") |
+|    |               |                                                                                                    |                                                                   |
 
 ## 외부 링크
 

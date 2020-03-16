@@ -9,7 +9,7 @@
 
 ## 역사
 
-M-DISC를 개발한 밀레니어터 주식회사(Millenniata, Inc.)는 최고경영자인 헨리 오코넬(Henry O'Connell)과 최고기술책임자 도그 한센(Doug Hansen)과 함께, [브리검영 대학교](https://ko.wikipedia.org/wiki/브리검영_대학교 "wikilink") 교수 배리 런트(Barry Lunt)와 매튜 린포드(Matthew Linford)에 의해 공동 설립되었다. 이 기업은 [유타주](https://ko.wikipedia.org/wiki/유타주 "wikilink") 아메리칸 포크에서 2010년 5월 13일 설립되었다.\[1\]
+M-DISC를 개발한 밀레니어터 주식회사(Millenniata, Inc.)는 최고경영자인 헨리 오코넬(Henry O'Connell)과 최고기술책임자 도그 한센(Doug Hansen)과 함께, [브리검영 대학교](../Page/브리검영_대학교.md "wikilink") 교수 배리 런트(Barry Lunt)와 매튜 린포드(Matthew Linford)에 의해 공동 설립되었다. 이 기업은 [유타주](../Page/유타주.md "wikilink") 아메리칸 포크에서 2010년 5월 13일 설립되었다.\[1\]
 
 ## 각주
 

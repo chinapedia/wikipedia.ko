@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  OF THE DEAD](https://ko.wikipedia.org/wiki/__OF_THE_DEAD).
 
 
-《**타마가와 구청 OF THE DEAD**》()는, [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 3일부터](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") [12월 19일까지](https://ko.wikipedia.org/wiki/12월_19일 "wikilink") 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 24:12 \~ 24:52(〈[드라마 24](https://ko.wikipedia.org/wiki/드라마_24 "wikilink")〉 시간대)에 [TV 도쿄에서](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [하야시 켄토](https://ko.wikipedia.org/wiki/하야시_켄토 "wikilink").
+《**타마가와 구청 OF THE DEAD**》()는, [2014년](../Page/2014년.md "wikilink") [10월 3일부터](../Page/10월_3일.md "wikilink") [12월 19일까지](../Page/12월_19일.md "wikilink") 매주 [금요일](../Page/금요일.md "wikilink") 24:12 \~ 24:52(〈[드라마 24](../Page/드라마_24.md "wikilink")〉 시간대)에 [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [하야시 켄토](../Page/하야시_켄토.md "wikilink").
 
 ## 줄거리
 
@@ -11,9 +11,9 @@
 
 #### 활동계
 
-  - 아카바 신스케 - [하야시 켄토](https://ko.wikipedia.org/wiki/하야시_켄토 "wikilink") (소년 시절:이치무라 리온)
+  - 아카바 신스케 - [하야시 켄토](../Page/하야시_켄토.md "wikilink") (소년 시절:이치무라 리온)
 
-  - 타치바나 린 - [히로세 아리스](https://ko.wikipedia.org/wiki/히로세_아리스 "wikilink") (어린 시절:시노카와 모모네)
+  - 타치바나 린 - [히로세 아리스](../Page/히로세_아리스.md "wikilink") (어린 시절:시노카와 모모네)
 
   - 오오카와 츠요시 - 타카하시 츠토무
 
@@ -42,7 +42,7 @@
 
   - 아카바 미도리 - 치바 마사코
 
-  - 사사키 미와 - [타바타 토모코](https://ko.wikipedia.org/wiki/타바타_토모코 "wikilink")
+  - 사사키 미와 - [타바타 토모코](../Page/타바타_토모코.md "wikilink")
 
   - 사사키 나오히로 - 콘도 코엔
 

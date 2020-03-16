@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Colorful Express](https://ko.wikipedia.org/wiki/Colorful_Express).
 
 
-《**Colorful Express**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [페퍼톤스](https://ko.wikipedia.org/wiki/페퍼톤스 "wikilink")의 첫 정규 앨범이며 타이들은 〈Ready, Get Set, Go\!〉이다.\[1\]\[2\]
+《**Colorful Express**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [페퍼톤스](https://ko.wikipedia.org/wiki/페퍼톤스 "wikilink")의 첫 정규 앨범이며 타이들은 〈Ready, Get Set, Go\!〉이다.\[1\]\[2\]
 
 ## 수상
 
@@ -25,8 +25,8 @@
 
 <!-- end list -->
 
-  - Sayo([신재평](../Page/신재평.md "wikilink")) - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 전곡 편곡, 믹싱
-  - Noshel(이장원) - 프로듀서, [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 보컬
+  - Sayo([신재평](../Page/신재평.md "wikilink")) - [프로듀서](../Page/음악_프로듀서.md "wikilink"), [기타](../Page/기타.md "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 전곡 편곡, 믹싱
+  - Noshel(이장원) - 프로듀서, [베이스 기타](../Page/베이스_기타.md "wikilink"), 보컬
 
 <!-- end list -->
 

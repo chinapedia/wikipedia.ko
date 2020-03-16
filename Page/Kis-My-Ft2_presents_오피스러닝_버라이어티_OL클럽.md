@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Kis-My-Ft2 presents   OL](https://ko.wikipedia.org/wiki/Kis-My-Ft2_presents___OL).
 
 
-《*' Kis-My-Ft2 presents 오피스러닝 버라이어티 OL클럽*'》()는, [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 30일부터](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 24일까지](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열에서 방송되었던 [버라이어티 프로그램이다](https://ko.wikipedia.org/wiki/버라이어티_쇼 "wikilink").
+《*' Kis-My-Ft2 presents 오피스러닝 버라이어티 OL클럽*'》()는, [2014년](../Page/2014년.md "wikilink") [9월 30일부터](../Page/9월_30일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [3월 24일까지](../Page/3월_24일.md "wikilink") [TV 아사히](../Page/TV_아사히.md "wikilink") 계열에서 방송되었던 [버라이어티 프로그램이다](../Page/버라이어티_쇼.md "wikilink").
 
 ## 개요
 
-《[키스하마테레비](../Page/키스하마테레비.md "wikilink")》에 이은 [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 관 프로그램이다. 이번 방송이 [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 첫 단독 관 프로그램이 된다.
+《[키스하마테레비](../Page/키스하마테레비.md "wikilink")》에 이은 [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 관 프로그램이다. 이번 방송이 [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 첫 단독 관 프로그램이 된다.
 
 아이돌 Kis-My-Ft2가 연수사원이 되어 대분투\! 사회인의 이로하를 철저하게 배운다\!\!
 
@@ -21,7 +21,7 @@
 
 ## 출연자
 
-  - [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink") 외
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink") 외
 
 ## 방송 내용
 

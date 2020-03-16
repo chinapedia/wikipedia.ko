@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I \( \)](https://ko.wikipedia.org/wiki/I_\(_\)).
 
 
-『**I**』는 [이키모노가카리](https://ko.wikipedia.org/wiki/이키모노가카리 "wikilink")의 메이저 6번째 [정규 앨범이다](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 24일에](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") [에픽 레코드 재팬에서](https://ko.wikipedia.org/wiki/에픽_레코드_재팬 "wikilink") 발매됐다.
+『**I**』는 [이키모노가카리](../Page/이키모노가카리.md "wikilink")의 메이저 6번째 [정규 앨범이다](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink"). [2013년](../Page/2013년.md "wikilink") [7월 24일에](../Page/7월_24일.md "wikilink") [에픽 레코드 재팬에서](../Page/에픽_레코드_재팬.md "wikilink") 발매됐다.
 
 ## 개요
 

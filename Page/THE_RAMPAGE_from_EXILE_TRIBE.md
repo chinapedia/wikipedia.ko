@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [THE RAMPAGE from EXILE TRIBE](https://ko.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE).
 
 
-**THE RAMPAGE from EXILE TRIBE**는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [댄스](https://ko.wikipedia.org/wiki/춤 "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속. 레이블은 [rhythm zone](https://ko.wikipedia.org/wiki/리듬존 "wikilink").
+**THE RAMPAGE from EXILE TRIBE**는, [일본](../Page/일본.md "wikilink")의 [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속. 레이블은 [rhythm zone](../Page/리듬존.md "wikilink").
 
 ## 약력
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 4월 11일, [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 《슷키리\!\!》에서 사장인 [HIRO가](https://ko.wikipedia.org/wiki/이가라시_히로유키 "wikilink") 새로운 유닛 결성을 발표했다. 후보 멤버로서, EXILE PERFORMER BATTLE AUDITION, VOCAL BATTLE AUDITION 4, GLOBAL JAPAN CHALLENGE에서 총 16명이 선출되었다. 7월, 정식 멤버의 자리를 걸고 무사수행을 실시했다. 9월 12일, 후보 멤버 전원이 정식 멤버가 되었다\[1\].
+[2014년](../Page/2014년.md "wikilink") 4월 11일, [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 《슷키리\!\!》에서 사장인 [HIRO가](../Page/이가라시_히로유키.md "wikilink") 새로운 유닛 결성을 발표했다. 후보 멤버로서, EXILE PERFORMER BATTLE AUDITION, VOCAL BATTLE AUDITION 4, GLOBAL JAPAN CHALLENGE에서 총 16명이 선출되었다. 7월, 정식 멤버의 자리를 걸고 무사수행을 실시했다. 9월 12일, 후보 멤버 전원이 정식 멤버가 되었다\[1\].
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 3월 \~ 4월, 3팀으로 나누어 무사수행을 실시했다.
+[2016년](../Page/2016년.md "wikilink") 3월 \~ 4월, 3팀으로 나누어 무사수행을 실시했다.
 
 ## 멤버
 
@@ -47,7 +47,7 @@
 
 ### 텔레비전 프로그램
 
-  - 주간 EXILE (2014년 \~ , [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink"))
+  - 주간 EXILE (2014년 \~ , [TBS](../Page/도쿄_방송_홀딩스.md "wikilink"))
 
 ### 뮤직 비디오
 

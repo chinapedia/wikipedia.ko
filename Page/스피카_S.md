@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ S](https://ko.wikipedia.org/wiki/_S).
 
 
-**스피카 S** (SPICA S)는 [스피카의](https://ko.wikipedia.org/wiki/스피카_\(음악_그룹\) "wikilink") 프로젝트 유닛이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink"), 싱글 남주긴 아까워를 발표하였다.그러나 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink"), 스피카가 해체되면서 스피카S도 동시에 해체했다.
+**스피카 S** (SPICA S)는 [스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 프로젝트 유닛이다. [2014년](../Page/2014년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink"), 싱글 남주긴 아까워를 발표하였다.그러나 [2017년](../Page/2017년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink"), 스피카가 해체되면서 스피카S도 동시에 해체했다.
 
 ## 이전 구성원
 
@@ -32,7 +32,7 @@
 <td style="text-align: left;"><p><strong>1</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/남주긴_아까워" title="wikilink">남주긴 아까워</a></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/9월_12일" title="wikilink">9월 12일</a></li>
+<li>발매일 : <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/9월_12일.md" title="wikilink">9월 12일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>남주긴 아까워</strong></li>

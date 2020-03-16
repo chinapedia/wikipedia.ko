@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BMW  ](https://ko.wikipedia.org/wiki/BMW__).
 
 
-**BMW 드라이빙 센터**(BMW Driving Center)는 드라이빙과 [자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink")를 경험할 수 있는 자동차 복합 문화 공간이다. 트랙과 전시장, 이벤트 홀, 주니어 캠퍼스 휴식공간 등으로 구성되어 있다. [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [중구](https://ko.wikipedia.org/wiki/중구_\(인천광역시\) "wikilink") [영종도](https://ko.wikipedia.org/wiki/영종도 "wikilink")에 위치하며 전체 면적은 24만m<sup>2</sup>로 [축구장](https://ko.wikipedia.org/wiki/축구장 "wikilink") 약 33개 규모이다. 2014년 8월 22일 개장했다. BMW의 고객을 위한 드라이빙 트랙 설치는 아시아 최초이자, 독일과 미국에 이어 세계 3번째다.\[1\]\[2\]\[3\]
+**BMW 드라이빙 센터**(BMW Driving Center)는 드라이빙과 [자동차](../Page/자동차.md "wikilink")를 경험할 수 있는 자동차 복합 문화 공간이다. 트랙과 전시장, 이벤트 홀, 주니어 캠퍼스 휴식공간 등으로 구성되어 있다. [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [중구](../Page/중구_\(인천광역시\).md "wikilink") [영종도](../Page/영종도.md "wikilink")에 위치하며 전체 면적은 24만m<sup>2</sup>로 [축구장](../Page/축구장.md "wikilink") 약 33개 규모이다. 2014년 8월 22일 개장했다. BMW의 고객을 위한 드라이빙 트랙 설치는 아시아 최초이자, 독일과 미국에 이어 세계 3번째다.\[1\]\[2\]\[3\]
 
 ## 드라이빙 트랙
 

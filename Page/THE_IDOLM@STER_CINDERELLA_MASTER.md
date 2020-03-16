@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER CINDERELLA MASTER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_MASTER).
 
 
-\<**THE IDOLM@STER CINDERELLA MASTER**\> (아이돌마스터 신데렐라 마스터)는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 18일부터](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [소셜 게임](https://ko.wikipedia.org/wiki/소셜_게임 "wikilink") \<[아이돌마스터 신데렐라 걸즈](../Page/아이돌마스터_신데렐라_걸즈.md "wikilink")\>의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink") 시리즈.
+\<**THE IDOLM@STER CINDERELLA MASTER**\> (아이돌마스터 신데렐라 마스터)는 [2012년](../Page/2012년.md "wikilink") [4월 18일부터](../Page/4월_18일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [소셜 게임](https://ko.wikipedia.org/wiki/소셜_게임 "wikilink") \<[아이돌마스터 신데렐라 걸즈](../Page/아이돌마스터_신데렐라_걸즈.md "wikilink")\>의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink") 시리즈.
 
 ## 개요
 
 동게임의 유저수가 100만명을 돌파한 것을 기념해 CD발매가 결정되었다\[1\]\[2\]. 봉입 특전으로서 <아이돌마스터 신데렐라 걸즈>전용 CD한정 디자인의 아이돌이 손에 들어 오는 일련 번호가 부속된다.
 
-2012년 4월 30일자의[오리콘](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 주간 싱글 차트에서는, 오리콘 사상최초가 되는, 동일 작품으로의 5작 동시 톱 10들이를 완수했다\[3\]. 이것을 기념해, CD화 제2탄 발매가 결정, [4월 25일부터](https://ko.wikipedia.org/wiki/4월_25일 "wikilink") 매주 한 명씩 CD화가 되는 아이돌이 발표되어 5월 25일에 CINDERELLA MASTER 006-010의 발매일이 발표되었다\[4\]. [7월 6일에는](https://ko.wikipedia.org/wiki/7월_6일 "wikilink") 5작 동시에 캐스트도 발표되고 있다.
+2012년 4월 30일자의[오리콘](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 주간 싱글 차트에서는, 오리콘 사상최초가 되는, 동일 작품으로의 5작 동시 톱 10들이를 완수했다\[3\]. 이것을 기념해, CD화 제2탄 발매가 결정, [4월 25일부터](../Page/4월_25일.md "wikilink") 매주 한 명씩 CD화가 되는 아이돌이 발표되어 5월 25일에 CINDERELLA MASTER 006-010의 발매일이 발표되었다\[4\]. [7월 6일에는](../Page/7월_6일.md "wikilink") 5작 동시에 캐스트도 발표되고 있다.
 
 각 아이돌의 개별 신곡 및 그 가라오케에, 드라마 파트 \<노려라\! 신데렐라 NO. 1\>, 보너스 트랙으로서 게임내의 각 캐릭터의 대사가 수록되고 있다.
 
@@ -75,7 +75,7 @@
 
 1.  **연풍** \[5:26\]
       -
-        노래: 타카가키 카에데 ([하야미 사오리](https://ko.wikipedia.org/wiki/하야미_사오리 "wikilink"))
+        노래: 타카가키 카에데 ([하야미 사오리](../Page/하야미_사오리.md "wikilink"))
         작사: 카이타 유리코, 작곡·편곡: NBGI (시이나 고)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 타카가키 카에데편-\>\[7:03\]
 3.  사랑바람 (오리지널 가라오케)
@@ -200,7 +200,7 @@
 
 1.  **Naked Romance** \[3:22\]
       -
-        노래: 코히나타 미호 ([츠다 미나미](https://ko.wikipedia.org/wiki/츠다_미나미 "wikilink"))
+        노래: 코히나타 미호 ([츠다 미나미](../Page/츠다_미나미.md "wikilink"))
         작사·작곡·편곡: NBSI (토야마 아키라효)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 코히나타 미호편-\>\[10:49\]
       -
@@ -236,7 +236,7 @@
 
 1.  **애플 파이 프린세스** \[4:01\]
       -
-        노래: 토토키 아이리 ([하라다 히토미](https://ko.wikipedia.org/wiki/하라다_히토미 "wikilink"))
+        노래: 토토키 아이리 ([하라다 히토미](../Page/하라다_히토미.md "wikilink"))
         작사: NBSI (MC TC), 작사·작곡·편곡: NBSI (움푹팬곳 히로시)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 토토키 아이리편-\>\[10:12\]
       -
@@ -254,7 +254,7 @@
 
 1.  **Angel Breeze** \[5:01\]
       -
-        노래: 카와시마 미즈키 ([토야마 나오](https://ko.wikipedia.org/wiki/토야마_나오_\(성우\) "wikilink"))
+        노래: 카와시마 미즈키 ([토야마 나오](../Page/토야마_나오_\(성우\).md "wikilink"))
         작사: 타카세 아이 무지개, 작곡·편곡: 백인일
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 카와시마 미즈키편-\>\[9:02\]
       -
@@ -357,7 +357,7 @@
 
 1.  **To my darling…** \[04:35\]
       -
-        노래: 코시미즈 사치코 ([타케타츠 아야나](https://ko.wikipedia.org/wiki/타케타츠_아야나 "wikilink"))
+        노래: 코시미즈 사치코 ([타케타츠 아야나](../Page/타케타츠_아야나.md "wikilink"))
         작사: NBSI (Mitsu), 작곡: NBSI (히라이 카츠아키), 편곡: 하시모토 유카리
 2.  드라마 \<노려라\! 신데렐라 NO. 1 \! - 코시미즈 사치코편-\>\[08:48\]
 3.  To my darling… (오리지널 가라오케)
@@ -375,7 +375,7 @@
 
 1.  **에브리데이드림**
       -
-        노래: 사쿠마 마유 ([마키노 유이](https://ko.wikipedia.org/wiki/마키노_유이 "wikilink"))
+        노래: 사쿠마 마유 ([마키노 유이](../Page/마키노_유이.md "wikilink"))
         작사: NBGI (야시로 유타), 작곡·편곡: 타키자와 슌스케 (Try Tone Labo)
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 사쿠마 마유편-\>
 3.  에브리데이 드림 (오리지널 가라오케)
@@ -423,7 +423,7 @@
 
 1.  **You're stars shine on me**
       -
-        노래: 아나스타샤 ([우에사카 스미레](https://ko.wikipedia.org/wiki/우에사카_스미레 "wikilink"))
+        노래: 아나스타샤 ([우에사카 스미레](../Page/우에사카_스미레.md "wikilink"))
         작사: 카이타 유리코, 작곡·편곡: NBSI ([코바야시 케이키](https://ko.wikipedia.org/wiki/코바야시_케이키 "wikilink"))
 2.  드라마 \<노려라\! 신데렐라 NO. 1\! - 아나스타샤편-\>
 3.  You're stars shine on me (오리지널 가라오케)
@@ -539,7 +539,7 @@
 
 1.  **Bright Blue**
       -
-        가: 사기사와 후미카([M·A·O](https://ko.wikipedia.org/wiki/이치미치_마오 "wikilink"))
+        가: 사기사와 후미카([M·A·O](../Page/이치미치_마오.md "wikilink"))
         작사: marhy, 작곡·편곡: BNSI(kyo)
 2.  드라마 '노려라\! 신데렐라 NO. 1\! -사기사와 후미카편-'
 3.  Bright Blue(오리지널 가라오케)
@@ -667,7 +667,7 @@
 
 ### We're the friends\!
 
-2014년 7월 30일 발매. 제3회 신데렐라 걸즈 선발 총선거의 각 타입별 상위 3명의 합계 9명용과 종합 상위 5명용의 각각의 신곡, 및 드라마 파트를 수록한 CD. 사기사와 후미카([M·A·O](https://ko.wikipedia.org/wiki/이치미치_마오 "wikilink")) 와 히메카와 유키 ([모리노 마코](https://ko.wikipedia.org/wiki/모리노_마코 "wikilink")) 는, 이 CD가 첫등장.
+2014년 7월 30일 발매. 제3회 신데렐라 걸즈 선발 총선거의 각 타입별 상위 3명의 합계 9명용과 종합 상위 5명용의 각각의 신곡, 및 드라마 파트를 수록한 CD. 사기사와 후미카([M·A·O](../Page/이치미치_마오.md "wikilink")) 와 히메카와 유키 ([모리노 마코](https://ko.wikipedia.org/wiki/모리노_마코 "wikilink")) 는, 이 CD가 첫등장.
 
   - 수록곡
 

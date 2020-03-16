@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Capital One Grand Slam of Curling](https://ko.wikipedia.org/wiki/Capital_One_Grand_Slam_of_Curling).
 
 
-**캐피털원 그랜스슬램 컬링 (Captial One Grand Slam of Culring)**은 [세계 컬링 투어](https://ko.wikipedia.org/wiki/세계_컬링_투어 "wikilink") (World Curling Tour) 중 일부 선별된 [컬링](https://ko.wikipedia.org/wiki/컬링 "wikilink") 대회를 지칭한다. 그랜드슬램 대회들은 그랜스슬램을 위해 만들어진 대회가 아니라, 기존부터 개최되던 대회 중에 선정된 대회들이다. [캐나다 달러](https://ko.wikipedia.org/wiki/캐나다_달러 "wikilink")(CAD)로 10만불의 상금이 지급되며, 캐나다를 포함한 전 세계 최고의 컬링팀들이 참가하는 대회가 되었다. 그랜드슬램은 남자의 경우 2001-02 시즌부터 시작되었고, 여자의 경우는 2006-07 시즌부터 시작되었다. 예전에는 결승전이 [Sportsnet](https://ko.wikipedia.org/wiki/Sportsnet "wikilink")과 [CBC](https://ko.wikipedia.org/wiki/CBC "wikilink")에서 중계되었다. [Captial One이](https://ko.wikipedia.org/wiki/Captial_One "wikilink") 2008년 이래로 메인 스폰서를 맡고 있다.
+**캐피털원 그랜스슬램 컬링 (Captial One Grand Slam of Culring)**은 [세계 컬링 투어](https://ko.wikipedia.org/wiki/세계_컬링_투어 "wikilink") (World Curling Tour) 중 일부 선별된 [컬링](../Page/컬링.md "wikilink") 대회를 지칭한다. 그랜드슬램 대회들은 그랜스슬램을 위해 만들어진 대회가 아니라, 기존부터 개최되던 대회 중에 선정된 대회들이다. [캐나다 달러](../Page/캐나다_달러.md "wikilink")(CAD)로 10만불의 상금이 지급되며, 캐나다를 포함한 전 세계 최고의 컬링팀들이 참가하는 대회가 되었다. 그랜드슬램은 남자의 경우 2001-02 시즌부터 시작되었고, 여자의 경우는 2006-07 시즌부터 시작되었다. 예전에는 결승전이 [Sportsnet](https://ko.wikipedia.org/wiki/Sportsnet "wikilink")과 [CBC](https://ko.wikipedia.org/wiki/CBC "wikilink")에서 중계되었다. [Captial One이](https://ko.wikipedia.org/wiki/Captial_One "wikilink") 2008년 이래로 메인 스폰서를 맡고 있다.
 
 그랜드슬램 대회들은 다른 주요 국제 대회와는 달리 8엔드 경기로 치러진다. 그 규정은 2006-07 시즌부터 적용되었다.
 
@@ -108,9 +108,9 @@
 | [2010](https://ko.wikipedia.org/wiki/:en:2010_Players'_Championships "wikilink") | [Kevin Martin](https://ko.wikipedia.org/wiki/Kevin_Martin_\(curler\) "wikilink")         | [Dawson Creek](https://ko.wikipedia.org/wiki/Dawson_Creek "wikilink"), [British Columbia](https://ko.wikipedia.org/wiki/British_Columbia "wikilink")                           |
 | [2011](https://ko.wikipedia.org/wiki/:en:2011_Players'_Championship "wikilink")  | [Kevin Martin](https://ko.wikipedia.org/wiki/Kevin_Martin_\(curler\) "wikilink")         | [Grande Prairie](https://ko.wikipedia.org/wiki/Grande_Prairie "wikilink"), [Alberta](https://ko.wikipedia.org/wiki/Alberta "wikilink")                                         |
 | [2012](https://ko.wikipedia.org/wiki/:en:2012_Players'_Championship "wikilink")  | [John Epping](https://ko.wikipedia.org/wiki/John_Epping "wikilink")                      | [Summerside](https://ko.wikipedia.org/wiki/Summerside,_Prince_Edward_Island "wikilink"), [Prince Edward Island](https://ko.wikipedia.org/wiki/Prince_Edward_Island "wikilink") |
-| [2013](https://ko.wikipedia.org/wiki/:en:2013_Players'_Championship "wikilink")  | [Glenn Howard](https://ko.wikipedia.org/wiki/Glenn_Howard "wikilink")                    | [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink"), [Ontario](https://ko.wikipedia.org/wiki/Ontario "wikilink")                                                               |
+| [2013](https://ko.wikipedia.org/wiki/:en:2013_Players'_Championship "wikilink")  | [Glenn Howard](https://ko.wikipedia.org/wiki/Glenn_Howard "wikilink")                    | [토론토](../Page/토론토.md "wikilink"), [Ontario](https://ko.wikipedia.org/wiki/Ontario "wikilink")                                                                                  |
 | [2014](https://ko.wikipedia.org/wiki/:en:2014_Players'_Championship "wikilink")  | [Kevin Martin](https://ko.wikipedia.org/wiki/Kevin_Martin_\(curler\) "wikilink")         | [Summerside](https://ko.wikipedia.org/wiki/Summerside,_Prince_Edward_Island "wikilink"), [Prince Edward Island](https://ko.wikipedia.org/wiki/Prince_Edward_Island "wikilink") |
-| [2015](https://ko.wikipedia.org/wiki/2015_Players'_Championship "wikilink")      |                                                                                          | [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink"), [Ontario](https://ko.wikipedia.org/wiki/Ontario "wikilink")                                                               |
+| [2015](https://ko.wikipedia.org/wiki/2015_Players'_Championship "wikilink")      |                                                                                          | [토론토](../Page/토론토.md "wikilink"), [Ontario](https://ko.wikipedia.org/wiki/Ontario "wikilink")                                                                                  |
 
 ### 역대 그랜드슬램 성적
 
@@ -161,7 +161,7 @@
 
 ### 컬러스 코너 오텀 골드 컬링 클래식 (Curlers' Corner Autumn Gold Curling Classic)
 
-오텀 골드 컬링 클래식은 매해 [앨버타 주](https://ko.wikipedia.org/wiki/앨버타_주 "wikilink") [캘거리](https://ko.wikipedia.org/wiki/캘거리 "wikilink")에서 열린다. 그동안 25차례 개최되었다.
+오텀 골드 컬링 클래식은 매해 [앨버타 주](https://ko.wikipedia.org/wiki/앨버타_주 "wikilink") [캘거리](../Page/캘거리.md "wikilink")에서 열린다. 그동안 25차례 개최되었다.
 
   - 역대 우승 팀
 
@@ -263,9 +263,9 @@
 | [2010](https://ko.wikipedia.org/wiki/:en:2010_Players'_Championship "wikilink")  | [Cheryl Bernard](https://ko.wikipedia.org/wiki/Cheryl_Bernard "wikilink")            | [Dawson Creek](https://ko.wikipedia.org/wiki/Dawson_Creek "wikilink"), [British Columbia](https://ko.wikipedia.org/wiki/British_Columbia "wikilink")                           |
 | [2011](https://ko.wikipedia.org/wiki/:en:2011_Players'_Championship "wikilink")  | [Jennifer Jones](https://ko.wikipedia.org/wiki/Jennifer_Jones_\(curler\) "wikilink") | [Grande Prairie](https://ko.wikipedia.org/wiki/Grande_Prairie "wikilink"), [Alberta](https://ko.wikipedia.org/wiki/Alberta "wikilink")                                         |
 | [2012](https://ko.wikipedia.org/wiki/:en:2012_Players'_Championship "wikilink")  | [Stefanie Lawton](https://ko.wikipedia.org/wiki/Stefanie_Lawton "wikilink")          | [Summerside](https://ko.wikipedia.org/wiki/Summerside,_Prince_Edward_Island "wikilink"), [Prince Edward Island](https://ko.wikipedia.org/wiki/Prince_Edward_Island "wikilink") |
-| [2013](https://ko.wikipedia.org/wiki/:en:2013_Players'_Championship "wikilink")  | [Eve Muirhead](https://ko.wikipedia.org/wiki/Eve_Muirhead "wikilink")                | [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink"), [Ontario](https://ko.wikipedia.org/wiki/Ontario "wikilink")                                                               |
+| [2013](https://ko.wikipedia.org/wiki/:en:2013_Players'_Championship "wikilink")  | [Eve Muirhead](https://ko.wikipedia.org/wiki/Eve_Muirhead "wikilink")                | [토론토](../Page/토론토.md "wikilink"), [Ontario](https://ko.wikipedia.org/wiki/Ontario "wikilink")                                                                                  |
 | [2014](https://ko.wikipedia.org/wiki/:en:2014_Players'_Championship "wikilink")  | [Jennifer Jones](https://ko.wikipedia.org/wiki/Jennifer_Jones_\(curler\) "wikilink") | [Summerside](https://ko.wikipedia.org/wiki/Summerside,_Prince_Edward_Island "wikilink"), [Prince Edward Island](https://ko.wikipedia.org/wiki/Prince_Edward_Island "wikilink") |
-| [2015](https://ko.wikipedia.org/wiki/2015_Players'_Championship "wikilink")      |                                                                                      | [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink"), [Ontario](https://ko.wikipedia.org/wiki/Ontario "wikilink")                                                               |
+| [2015](https://ko.wikipedia.org/wiki/2015_Players'_Championship "wikilink")      |                                                                                      | [토론토](../Page/토론토.md "wikilink"), [Ontario](https://ko.wikipedia.org/wiki/Ontario "wikilink")                                                                                  |
 
 ## 과거 그랜드슬램 대회
 

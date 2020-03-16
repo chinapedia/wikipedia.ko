@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Freerice](https://ko.wikipedia.org/wiki/Freerice).
 
 
-**프리라이스**(Freerice)는 광고가 지원되는 부분 유료화 웹사이트로 여러 퀴즈를 품으로써 사용자들의 기부를 가능하게 하는 웹사이트다. 사용자들이 맞추는 문제마다 10 [그레인](https://ko.wikipedia.org/wiki/그레인 "wikilink")(0.65g)의 쌀이 [세계식량계획](https://ko.wikipedia.org/wiki/세계식량계획 "wikilink")을 통해 기부된다. 문제의 카테고리는 영어 어휘, [곱셈](https://ko.wikipedia.org/wiki/곱셈 "wikilink"), [대수학](https://ko.wikipedia.org/wiki/대수학 "wikilink")준비, 화학기호(초급과 중급), 영어 문법, [SAT](https://ko.wikipedia.org/wiki/SAT "wikilink"), [인체 해부학](https://ko.wikipedia.org/wiki/인체_해부학 "wikilink"), [지리학](https://ko.wikipedia.org/wiki/지리학 "wikilink")(나라의 국기, 수도, 랜드마크), 미술작품, 문학, 인용구와 세계기아로 구성되어있다. 개인의 적립된 쌀은 홈페이지에 순위별로 표시된다.
+**프리라이스**(Freerice)는 광고가 지원되는 부분 유료화 웹사이트로 여러 퀴즈를 품으로써 사용자들의 기부를 가능하게 하는 웹사이트다. 사용자들이 맞추는 문제마다 10 [그레인](https://ko.wikipedia.org/wiki/그레인 "wikilink")(0.65g)의 쌀이 [세계식량계획](https://ko.wikipedia.org/wiki/세계식량계획 "wikilink")을 통해 기부된다. 문제의 카테고리는 영어 어휘, [곱셈](../Page/곱셈.md "wikilink"), [대수학](../Page/대수학.md "wikilink")준비, 화학기호(초급과 중급), 영어 문법, [SAT](../Page/SAT.md "wikilink"), [인체 해부학](https://ko.wikipedia.org/wiki/인체_해부학 "wikilink"), [지리학](../Page/지리학.md "wikilink")(나라의 국기, 수도, 랜드마크), 미술작품, 문학, 인용구와 세계기아로 구성되어있다. 개인의 적립된 쌀은 홈페이지에 순위별로 표시된다.
 
 ## 역사
 

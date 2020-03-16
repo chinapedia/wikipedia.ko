@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [P.S    \(\)](https://ko.wikipedia.org/wiki/P.S____\(\)).
 
 
-《**P.S 아이 러브 유**》()는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 로맨틱 코미디 영화로, 세실리아 아헌의 소설 《[PS, 아이 러브 유](https://ko.wikipedia.org/wiki/PS,_아이_러브_유_\(소설\) "wikilink")》를 원작으로 한다.
+《**P.S 아이 러브 유**》()는 [2007년](../Page/2007년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 로맨틱 코미디 영화로, 세실리아 아헌의 소설 《[PS, 아이 러브 유](https://ko.wikipedia.org/wiki/PS,_아이_러브_유_\(소설\) "wikilink")》를 원작으로 한다.
 
 ## 출연
 
 ### 주연
 
   - [힐러리 스웽크](https://ko.wikipedia.org/wiki/힐러리_스웽크 "wikilink")
-  - [제라드 버틀러](https://ko.wikipedia.org/wiki/제라드_버틀러 "wikilink")
+  - [제라드 버틀러](../Page/제라드_버틀러.md "wikilink")
 
 ### 조연
 
   - [제임스 마스터스](https://ko.wikipedia.org/wiki/제임스_마스터스 "wikilink")
   - [지나 거손](https://ko.wikipedia.org/wiki/지나_거손 "wikilink")
-  - [제프리 딘 모건](https://ko.wikipedia.org/wiki/제프리_딘_모건 "wikilink")
-  - [리사 쿠드로](https://ko.wikipedia.org/wiki/리사_쿠드로 "wikilink")
-  - [캐시 베이츠](https://ko.wikipedia.org/wiki/캐시_베이츠 "wikilink")
-  - [해리 코닉 주니어](https://ko.wikipedia.org/wiki/해리_코닉_주니어 "wikilink")
+  - [제프리 딘 모건](../Page/제프리_딘_모건.md "wikilink")
+  - [리사 쿠드로](../Page/리사_쿠드로.md "wikilink")
+  - [캐시 베이츠](../Page/캐시_베이츠.md "wikilink")
+  - [해리 코닉 주니어](../Page/해리_코닉_주니어.md "wikilink")
   - [딘 윈터스](https://ko.wikipedia.org/wiki/딘_윈터스 "wikilink")
 
 ## 기타

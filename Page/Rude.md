@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rude](https://ko.wikipedia.org/wiki/Rude).
 
 
-**"Rude"**는 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") 출신의 밴드 [매직\!](../Page/매직!.md "wikilink")의 노래이다. [Don't Kill the Magic에](https://ko.wikipedia.org/wiki/Don't_Kill_the_Magic "wikilink") 수록 되어 있으며, [빌보드 핫 100차트에서](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 1위를 한 경험이 있다.
+**"Rude"**는 [캐나다](../Page/캐나다.md "wikilink") 출신의 밴드 [매직\!](../Page/매직!.md "wikilink")의 노래이다. [Don't Kill the Magic에](https://ko.wikipedia.org/wiki/Don't_Kill_the_Magic "wikilink") 수록 되어 있으며, [빌보드 핫 100차트에서](../Page/빌보드_핫_100.md "wikilink") 1위를 한 경험이 있다.
 
 2014년 2월 24일에 릴리즈된, [인디밴드](https://ko.wikipedia.org/wiki/인디밴드 "wikilink") MAGIC\! 의 데뷔싱글이자 데뷔앨범 *[Don't Kill the Magic](https://ko.wikipedia.org/wiki/Don't_Kill_the_Magic "wikilink")*의 리드싱글 "Rude"이다. 앞선 2013년 10월 11일에 먼저 앨범의 프로모션 싱글로 발매되었다.
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER 2](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_2).
 
 
-\<**THE IDOLM@STER 2**\>(아이돌마스터 투) 는 [반다이 남코 게임스로부터](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 24일에](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") 발매된 [Xbox 360용](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 아이돌 육성 게임. 공식 약칭은 \<**아이마스 2**\>. 2011년 10월 27일에 PlayStation 3판도 발매되었다\[1\].
+\<**THE IDOLM@STER 2**\>(아이돌마스터 투) 는 [반다이 남코 게임스로부터](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2011년](../Page/2011년.md "wikilink") [2월 24일에](../Page/2월_24일.md "wikilink") 발매된 [Xbox 360용](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 아이돌 육성 게임. 공식 약칭은 \<**아이마스 2**\>. 2011년 10월 27일에 PlayStation 3판도 발매되었다\[1\].
 
 ## 개요
 
 <국민적 아이돌 유닛>을 목표로 해, 9명의 개성적인 아이돌로부터 3인조의 유닛을 결성해 프로듀스하는 게임이다. Xbox 360판의 캐치프레이즈는 \<**빛나는 무대는, 새로운 높은 곳에\!**\>.
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") - [7월 4일에](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") 개최된 라이브 \<THE IDOLM@STER 5th ANNIVERSARY The World is all one \!\! \>에서, 시리즈 최신작으로서 Xbox 360에서 개발중인 것이 공개되었다\[2\].
+[2010년](../Page/2010년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") - [7월 4일에](../Page/7월_4일.md "wikilink") 개최된 라이브 \<THE IDOLM@STER 5th ANNIVERSARY The World is all one \!\! \>에서, 시리즈 최신작으로서 Xbox 360에서 개발중인 것이 공개되었다\[2\].
 
 처음으로 넘버링 되었지만 지금까지 같이 지금까지의 시리즈와는 스토리의 연결은 일절 없고, **“만약 프로듀서의 765 프로 입사가 1년 늦었으면?”**라는, 독립한 [패러렐 월드가](https://ko.wikipedia.org/wiki/패러렐_월드 "wikilink") 되어 있다\[3\],
 

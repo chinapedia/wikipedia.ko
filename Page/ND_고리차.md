@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ND ](https://ko.wikipedia.org/wiki/ND_).
 
 
-**노고메트노 드루슈트보 고리차**(Nogometno Društvo Gorica)는 [노바고리차](https://ko.wikipedia.org/wiki/노바고리차 "wikilink")를 연고로 하는 슬로베니아의 프로 축구팀이다. 보통 **ND 고리차** 또는 줄여서 **고리차**라고 부른다. 고리차는 [슬로베니아 리그](https://ko.wikipedia.org/wiki/슬로베니아_프르바리가 "wikilink") 4회, [컵 대회](https://ko.wikipedia.org/wiki/슬로베니아_풋볼_컵 "wikilink") 3회, [슈퍼컵](https://ko.wikipedia.org/wiki/슬로벤스키_수페르포칼 "wikilink") 1회를 우승하는 슬로베니아에서 가장 성공적인 클럽중 하나이다. [마리보르](https://ko.wikipedia.org/wiki/NK_마리보르 "wikilink"), [첼레와](https://ko.wikipedia.org/wiki/NK_첼레 "wikilink") 함께 1991년에 [슬로베니아 프르바리가가](https://ko.wikipedia.org/wiki/슬로베니아_프르바리가 "wikilink") 생겨난 이후 매 시즌마다 참여하고 있는 유일한 팀이다.
+**노고메트노 드루슈트보 고리차**(Nogometno Društvo Gorica)는 [노바고리차](https://ko.wikipedia.org/wiki/노바고리차 "wikilink")를 연고로 하는 슬로베니아의 프로 축구팀이다. 보통 **ND 고리차** 또는 줄여서 **고리차**라고 부른다. 고리차는 [슬로베니아 리그](../Page/슬로베니아_프르바리가.md "wikilink") 4회, [컵 대회](https://ko.wikipedia.org/wiki/슬로베니아_풋볼_컵 "wikilink") 3회, [슈퍼컵](https://ko.wikipedia.org/wiki/슬로벤스키_수페르포칼 "wikilink") 1회를 우승하는 슬로베니아에서 가장 성공적인 클럽중 하나이다. [마리보르](../Page/NK_마리보르.md "wikilink"), [첼레와](https://ko.wikipedia.org/wiki/NK_첼레 "wikilink") 함께 1991년에 [슬로베니아 프르바리가가](../Page/슬로베니아_프르바리가.md "wikilink") 생겨난 이후 매 시즌마다 참여하고 있는 유일한 팀이다.
 
 ## 역대 성적
 
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - **[슬로베니아 1부 리그](https://ko.wikipedia.org/wiki/슬로베니아_프르바리가 "wikilink"):**
+  - **[슬로베니아 1부 리그](../Page/슬로베니아_프르바리가.md "wikilink"):**
 
 <!-- end list -->
 

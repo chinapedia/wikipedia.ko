@@ -9,10 +9,10 @@ asm.js에 기반한 애플리케이션 대다수는 Emscripten이나 Mandrell을
 
 ### 프로그래밍 언어
 
-  - [C/C++](https://ko.wikipedia.org/wiki/C/C++ "wikilink") – [Clang](https://ko.wikipedia.org/wiki/Clang "wikilink"),[LLVM](https://ko.wikipedia.org/wiki/LLVM "wikilink")
-  - [루아](https://ko.wikipedia.org/wiki/루아 "wikilink") VM – Lua [가상 머신](https://ko.wikipedia.org/wiki/가상_머신 "wikilink")\[2\]
+  - [C/C++](https://ko.wikipedia.org/wiki/C/C++ "wikilink") – [Clang](https://ko.wikipedia.org/wiki/Clang "wikilink"),[LLVM](../Page/LLVM.md "wikilink")
+  - [루아](https://ko.wikipedia.org/wiki/루아 "wikilink") VM – Lua [가상 머신](../Page/가상_머신.md "wikilink")\[2\]
   - [Perl](https://ko.wikipedia.org/wiki/Perl "wikilink") – port of (micro)perl-5.16.3\[3\]
-  - [Python](https://ko.wikipedia.org/wiki/파이썬 "wikilink") - port of [CPython](https://ko.wikipedia.org/wiki/CPython "wikilink")\[4\]
+  - [Python](../Page/파이썬.md "wikilink") - port of [CPython](https://ko.wikipedia.org/wiki/CPython "wikilink")\[4\]
 
 ### 애플리케이션 프레임워크
 
@@ -20,16 +20,16 @@ asm.js에 기반한 애플리케이션 대다수는 Emscripten이나 Mandrell을
 
 ### 프로그램, 라이브러리
 
-  - [Vim](https://ko.wikipedia.org/wiki/Vim "wikilink") (Vi IMproved)\[6\]
+  - [Vim](../Page/Vim.md "wikilink") (Vi IMproved)\[6\]
   - [FreeType](https://ko.wikipedia.org/wiki/FreeType "wikilink") – FreeType을 이용한 자바스크립트로 [TrueType](https://ko.wikipedia.org/wiki/TrueType "wikilink") [폰트 렌더링](https://ko.wikipedia.org/wiki/폰트_렌더링 "wikilink")\[7\]
-  - [SQLite](https://ko.wikipedia.org/wiki/SQLite "wikilink")\[8\]
+  - [SQLite](../Page/SQLite.md "wikilink")\[8\]
 
 ### 게임, 게임 엔진
 
   - [언리얼 엔진 3](https://ko.wikipedia.org/wiki/언리얼_엔진_3 "wikilink") –\[9\]\[10\]
   - [유니티](https://ko.wikipedia.org/wiki/유니티 "wikilink") 게임 엔진\[11\]
   - [둠](https://ko.wikipedia.org/wiki/둠 "wikilink")\[12\]
-  - [SuperTux](https://ko.wikipedia.org/wiki/SuperTux "wikilink")\[13\]
+  - [SuperTux](../Page/SuperTux.md "wikilink")\[13\]
   - [ScummVM](https://ko.wikipedia.org/wiki/ScummVM "wikilink") : 고전 어드벤처 게임 지원\[14\]
   - *[Dune II](https://ko.wikipedia.org/wiki/Dune_II "wikilink")* via OpenDune\[15\]
   - *[BananaBread](https://ko.wikipedia.org/wiki/BananaBread "wikilink")*\[16\]
@@ -45,12 +45,12 @@ asm.js에 기반한 애플리케이션 대다수는 Emscripten이나 Mandrell을
 
 ## 같이 보기
 
-  - [모질라 파이어폭스](https://ko.wikipedia.org/wiki/모질라_파이어폭스 "wikilink")
-  - [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")
+  - [모질라 파이어폭스](../Page/모질라_파이어폭스.md "wikilink")
+  - [자바스크립트](../Page/자바스크립트.md "wikilink")
 
 <!-- end list -->
 
-  - [구글 네이티브 클라이언트](https://ko.wikipedia.org/wiki/구글_네이티브_클라이언트 "wikilink")
+  - [구글 네이티브 클라이언트](../Page/구글_네이티브_클라이언트.md "wikilink")
 
 ## 참고문헌
 

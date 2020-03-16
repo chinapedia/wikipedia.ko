@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Michael Jackson \& Friends](https://ko.wikipedia.org/wiki/Michael_Jackson_\&_Friends).
 
 
-**Michael Jackson & Friends**는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")과 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 개최된 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 마지막 월드 투어이다.
+**Michael Jackson & Friends**는 [1999년](../Page/1999년.md "wikilink")에 [대한민국](../Page/대한민국.md "wikilink")과 [독일](../Page/독일.md "wikilink")에서 개최된 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 마지막 월드 투어이다.
 
 ## 뮌헨 다리 사고
 
@@ -13,7 +13,7 @@
 
 ## 세트 리스트
 
-1\. "Medley" ("[Don't Stop 'Til You Get Enough](../Page/Don't_Stop_'Til_You_Get_Enough.md "wikilink")", "[The Way You Make Me Feel](https://ko.wikipedia.org/wiki/The_Way_You_Make_Me_Feel "wikilink")", "[Scream](https://ko.wikipedia.org/wiki/Scream/Childhood "wikilink")", "[Beat It](https://ko.wikipedia.org/wiki/Beat_It "wikilink")", "[Black or White](https://ko.wikipedia.org/wiki/Black_or_White "wikilink")", "[Billie Jean](https://ko.wikipedia.org/wiki/Billie_Jean "wikilink")")
+1\. "Medley" ("[Don't Stop 'Til You Get Enough](../Page/Don't_Stop_'Til_You_Get_Enough.md "wikilink")", "[The Way You Make Me Feel](https://ko.wikipedia.org/wiki/The_Way_You_Make_Me_Feel "wikilink")", "[Scream](https://ko.wikipedia.org/wiki/Scream/Childhood "wikilink")", "[Beat It](https://ko.wikipedia.org/wiki/Beat_It "wikilink")", "[Black or White](https://ko.wikipedia.org/wiki/Black_or_White "wikilink")", "[Billie Jean](../Page/Billie_Jean.md "wikilink")")
 2\. "Dangerous"
 3\. "[Earth Song](https://ko.wikipedia.org/wiki/Earth_Song "wikilink")"
 4\. "[You Are Not Alone](https://ko.wikipedia.org/wiki/You_Are_Not_Alone "wikilink")"

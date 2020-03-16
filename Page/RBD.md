@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RBD](https://ko.wikipedia.org/wiki/RBD).
 
 
-**RBD**는 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")의 음악 그룹으로 2004년에 결성되어 2009년에 해체되었다. [텔레비사](https://ko.wikipedia.org/wiki/텔레비사 "wikilink")의 텔레비전 시리즈 《[레벨데](../Page/레벨데.md "wikilink")》를 통해 전세게적인 인기를 얻었다. 전세계적으로 음반 2000만 부 이상을 팔았으며, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서만 200만 부 이상을 판매하여 사상 가장 크게 성공한 [라틴 팝](https://ko.wikipedia.org/wiki/라틴_팝 "wikilink") 그룹이 되었다.\[1\]\[2\]\[3\]
+**RBD**는 [멕시코](../Page/멕시코.md "wikilink")의 음악 그룹으로 2004년에 결성되어 2009년에 해체되었다. [텔레비사](../Page/텔레비사.md "wikilink")의 텔레비전 시리즈 《[레벨데](../Page/레벨데.md "wikilink")》를 통해 전세게적인 인기를 얻었다. 전세계적으로 음반 2000만 부 이상을 팔았으며, [미국](../Page/미국.md "wikilink")에서만 200만 부 이상을 판매하여 사상 가장 크게 성공한 [라틴 팝](https://ko.wikipedia.org/wiki/라틴_팝 "wikilink") 그룹이 되었다.\[1\]\[2\]\[3\]
 
 ## 음반 목록
 

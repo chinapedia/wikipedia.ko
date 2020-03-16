@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [Sugar \(    \)](https://ko.wikipedia.org/wiki/Sugar_\(____\)).
 
 
-"**Sugar**"는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [얼터너티브 메탈](https://ko.wikipedia.org/wiki/얼터너티브_메탈 "wikilink") 밴드 [시스템 오브 어 다운의](https://ko.wikipedia.org/wiki/시스템_오브_어_다운 "wikilink") 노래이다. 이 곡은 그들의 [데뷔 앨범에](https://ko.wikipedia.org/wiki/System_of_a_Down "wikilink") 수록되었고 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")과 [EP](https://ko.wikipedia.org/wiki/EP "wikilink")로 발매되었다. 이 곡의 격렬한 사운드와 신랄한 가사는 밴드의 전형적인 스타일이다. "Sugar"는 그들의 처음 데모 앨범에도 수록된, 최초로 만들어진 시스템 오브 어 다운의 노래 중 하나이다.
+"**Sugar**"는 [미국](../Page/미국.md "wikilink") [얼터너티브 메탈](https://ko.wikipedia.org/wiki/얼터너티브_메탈 "wikilink") 밴드 [시스템 오브 어 다운의](../Page/시스템_오브_어_다운.md "wikilink") 노래이다. 이 곡은 그들의 [데뷔 앨범에](../Page/System_of_a_Down.md "wikilink") 수록되었고 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")과 [EP](https://ko.wikipedia.org/wiki/EP "wikilink")로 발매되었다. 이 곡의 격렬한 사운드와 신랄한 가사는 밴드의 전형적인 스타일이다. "Sugar"는 그들의 처음 데모 앨범에도 수록된, 최초로 만들어진 시스템 오브 어 다운의 노래 중 하나이다.
 
 ## 구성
 
   - [세르이 탄키안](https://ko.wikipedia.org/wiki/세르이_탄키안 "wikilink") : [리드 보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
-  - [다론 말라키안](https://ko.wikipedia.org/wiki/다론_말라키안 "wikilink") : [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 배킹 보컬
-  - [샤보 오다지안](https://ko.wikipedia.org/wiki/샤보_오다지안 "wikilink") : [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
-  - [존 돌마얀](https://ko.wikipedia.org/wiki/존_돌마얀 "wikilink") : [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
+  - [다론 말라키안](../Page/다론_말라키안.md "wikilink") : [기타](../Page/기타.md "wikilink"), 배킹 보컬
+  - [샤보 오다지안](https://ko.wikipedia.org/wiki/샤보_오다지안 "wikilink") : [베이스](../Page/베이스_기타.md "wikilink")
+  - [존 돌마얀](../Page/존_돌마얀.md "wikilink") : [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
 
 ## 트랙 목록
 
-이 앨범에 수록된 모든 라이브 트랙은 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [1월 19일에](https://ko.wikipedia.org/wiki/1월_19일 "wikilink") [뉴욕주](https://ko.wikipedia.org/wiki/뉴욕주 "wikilink") [뉴욕 시](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 어빙 플라자에서 녹음되었다.
+이 앨범에 수록된 모든 라이브 트랙은 [1999년](../Page/1999년.md "wikilink") [1월 19일에](../Page/1월_19일.md "wikilink") [뉴욕주](../Page/뉴욕주.md "wikilink") [뉴욕 시](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 어빙 플라자에서 녹음되었다.
 
 ### Sugar (싱글)
 
-모든 작사는 [세르이 탄키안이](https://ko.wikipedia.org/wiki/세르이_탄키안 "wikilink") 썼고 모든 작곡은 [샤보 오다지안](https://ko.wikipedia.org/wiki/샤보_오다지안 "wikilink"), [다론 말라키안이](https://ko.wikipedia.org/wiki/다론_말라키안 "wikilink") 했다.
+모든 작사는 [세르이 탄키안이](https://ko.wikipedia.org/wiki/세르이_탄키안 "wikilink") 썼고 모든 작곡은 [샤보 오다지안](https://ko.wikipedia.org/wiki/샤보_오다지안 "wikilink"), [다론 말라키안이](../Page/다론_말라키안.md "wikilink") 했다.
 
 1.  "Sugar" - 2:34
 2.  "Sugar" <small>(클린 버전)</small> - 2:34

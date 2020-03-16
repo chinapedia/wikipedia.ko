@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [KPX](https://ko.wikipedia.org/wiki/KPX).
 
 
-**KPX케미칼**(KPX Chemical Co.,ltd.)은 [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink") 수지 및 그 원료를 주력으로 생산하는 코스피 상장기업이다. 본사는 서울특별시 마포구 마포대로 137, 17층 (공덕동, KPX빌딩)에 있으며 [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink") 관련 외에 반도체 공정에 사용되는 세정제 등의 화학물질도 제조한다.
+**KPX케미칼**(KPX Chemical Co.,ltd.)은 [폴리우레탄](../Page/폴리우레탄.md "wikilink") 수지 및 그 원료를 주력으로 생산하는 코스피 상장기업이다. 본사는 서울특별시 마포구 마포대로 137, 17층 (공덕동, KPX빌딩)에 있으며 [폴리우레탄](../Page/폴리우레탄.md "wikilink") 관련 외에 반도체 공정에 사용되는 세정제 등의 화학물질도 제조한다.
 
 ## 제품
 
-KPX케미칼이 제조하는 대표적인 제품은 [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink")(polyurethane) 수지 및 그 원료가 되는 폴리프로필렌글리콜(Polypropylene glycol)이다. 폴리프로필렌글리콜은 최종생산물이 아니라 석유화학공업에서 중간 단계에 해당하는 소재이다. [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink")은 탄력적인 특성을 가져 합성 섬유로 많이 사용된다.
+KPX케미칼이 제조하는 대표적인 제품은 [폴리우레탄](../Page/폴리우레탄.md "wikilink")(polyurethane) 수지 및 그 원료가 되는 폴리프로필렌글리콜(Polypropylene glycol)이다. 폴리프로필렌글리콜은 최종생산물이 아니라 석유화학공업에서 중간 단계에 해당하는 소재이다. [폴리우레탄](../Page/폴리우레탄.md "wikilink")은 탄력적인 특성을 가져 합성 섬유로 많이 사용된다.
 
-자세한 것은 [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink") 항목 참조.
+자세한 것은 [폴리우레탄](../Page/폴리우레탄.md "wikilink") 항목 참조.
 
 ## 규모 및 실적
 

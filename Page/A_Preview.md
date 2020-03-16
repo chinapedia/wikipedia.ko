@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [A Preview](https://ko.wikipedia.org/wiki/A_Preview).
 
 
-《**A Preview**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [페퍼톤스](https://ko.wikipedia.org/wiki/페퍼톤스 "wikilink") 데뷔 [EP이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").\[1\]
+《**A Preview**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [페퍼톤스](https://ko.wikipedia.org/wiki/페퍼톤스 "wikilink") 데뷔 [EP이다](../Page/익스텐디드_플레이.md "wikilink").\[1\]
 
-수록곡 중 〈Close Up the World〉의 기타솔로는 [슈퍼 마리오브라더스의](https://ko.wikipedia.org/wiki/슈퍼_마리오브라더스 "wikilink") 지상 테마를 차용하였다.
+수록곡 중 〈Close Up the World〉의 기타솔로는 [슈퍼 마리오브라더스의](../Page/슈퍼_마리오브라더스.md "wikilink") 지상 테마를 차용하였다.
 
 ## 수록곡
 
@@ -13,8 +13,8 @@
 
 <!-- end list -->
 
-  - Sayo([신재평](../Page/신재평.md "wikilink")) - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [시퀀서](https://ko.wikipedia.org/wiki/시퀀서 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 녹음, 믹싱
-  - Noshel(이장원) - [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 보컬, 코러스, 녹음, 믹싱
+  - Sayo([신재평](../Page/신재평.md "wikilink")) - [기타](../Page/기타.md "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [시퀀서](https://ko.wikipedia.org/wiki/시퀀서 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 녹음, 믹싱
+  - Noshel(이장원) - [베이스 기타](../Page/베이스_기타.md "wikilink"), 보컬, 코러스, 녹음, 믹싱
 
 <!-- end list -->
 
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - [뎁](https://ko.wikipedia.org/wiki/뎁 "wikilink") - 보컬(1, 6)
+  - [뎁](../Page/뎁.md "wikilink") - 보컬(1, 6)
   - WestWind - 보컬(2)
   - Tafka Buddah - 녹음, 믹싱
 

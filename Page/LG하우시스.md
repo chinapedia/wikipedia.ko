@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
 
 
-**LG하우시스**는 [2009년 4월](https://ko.wikipedia.org/wiki/2009년_4월 "wikilink") [LG화학](https://ko.wikipedia.org/wiki/LG화학 "wikilink")에서 산업재 사업부문을 분할해서 설립한 기업이다. 건축자재와 인테리어 소재를 생산한다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") 키자니아 서울 내에 '인테리어 회사' 체험관을 오픈하였다.
+**LG하우시스**는 [2009년 4월](../Page/2009년_4월.md "wikilink") [LG화학](../Page/LG화학.md "wikilink")에서 산업재 사업부문을 분할해서 설립한 기업이다. 건축자재와 인테리어 소재를 생산한다. [2010년](../Page/2010년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") 키자니아 서울 내에 '인테리어 회사' 체험관을 오픈하였다.
 
 ## 슬로건
 
@@ -10,16 +10,16 @@
 
 ## 연혁
 
-  - [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 락희화학공업사 설립
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") '주식회사 럭키'로 상호 변경
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") '(주)LG화학'으로 상호 변경
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 기업 분할 (LGCI, LG화학, LG생활건강 등)
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") **LG하우시스 출범** (LG화학 산업재산업 분할)
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") '(주)LG토스템비엠' 합작 법인 설립
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") '(주)하우시스이엔지' 자회사 설립
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") '(주)하우시스인터페인' 합작 법인 설립
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") '(주)하우시스인터페인' 흡수 합병
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") '(주)하우시스이엔지' 흡수 합병
+  - [1947년](../Page/1947년.md "wikilink") [1월](../Page/1월.md "wikilink") 락희화학공업사 설립
+  - [1974년](../Page/1974년.md "wikilink") [2월](../Page/2월.md "wikilink") '주식회사 럭키'로 상호 변경
+  - [1995년](../Page/1995년.md "wikilink") [1월](../Page/1월.md "wikilink") '(주)LG화학'으로 상호 변경
+  - [2001년](../Page/2001년.md "wikilink") [4월](../Page/4월.md "wikilink") 기업 분할 (LGCI, LG화학, LG생활건강 등)
+  - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") **LG하우시스 출범** (LG화학 산업재산업 분할)
+  - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") '(주)LG토스템비엠' 합작 법인 설립
+  - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") '(주)하우시스이엔지' 자회사 설립
+  - [2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink") '(주)하우시스인터페인' 합작 법인 설립
+  - [2016년](../Page/2016년.md "wikilink") [11월](../Page/11월.md "wikilink") '(주)하우시스인터페인' 흡수 합병
+  - [2018년](../Page/2018년.md "wikilink") [3월](../Page/3월.md "wikilink") '(주)하우시스이엔지' 흡수 합병
 
 ## 제품
 
@@ -37,7 +37,7 @@ LG하우시스는 2014년 현재 시가총액 2조원 가량의 대기업이며 
 
 ## 경쟁업체
 
-건축자재와 인테리어를 생산하는 동일 업종의 라이벌 기업으로는 [KCC가](https://ko.wikipedia.org/wiki/KCC_\(기업\) "wikilink") 있다. [KCC는](https://ko.wikipedia.org/wiki/KCC_\(기업\) "wikilink") 2014년 9월 LG하우시스를 교묘히 깎아내리는 텔레비전 광고를 내놓아 서로 신경전을 벌이기도 했다.\[2\]
+건축자재와 인테리어를 생산하는 동일 업종의 라이벌 기업으로는 [KCC가](../Page/KCC_\(기업\).md "wikilink") 있다. [KCC는](../Page/KCC_\(기업\).md "wikilink") 2014년 9월 LG하우시스를 교묘히 깎아내리는 텔레비전 광고를 내놓아 서로 신경전을 벌이기도 했다.\[2\]
 
 ## 참고문헌
 

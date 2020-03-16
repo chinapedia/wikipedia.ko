@@ -858,9 +858,9 @@ See [this template's talk page](https://ko.wikipedia.org/wiki/Template_talk:{{PA
 
 ## See also
 
-  - [틀:4TeamBracket-Compact-NoSeeds-Byes](https://ko.wikipedia.org/wiki/틀:4TeamBracket-Compact-NoSeeds-Byes "wikilink")
-  - [틀:8TeamBracket-Compact-NoSeeds-Byes](https://ko.wikipedia.org/wiki/틀:8TeamBracket-Compact-NoSeeds-Byes "wikilink")
-  - [틀:16TeamBracket-Compact-NoSeeds-Byes](https://ko.wikipedia.org/wiki/틀:16TeamBracket-Compact-NoSeeds-Byes "wikilink")
+  - [틀:4TeamBracket-Compact-NoSeeds-Byes](../Page/틀:4TeamBracket-Compact-NoSeeds-Byes.md "wikilink")
+  - [틀:8TeamBracket-Compact-NoSeeds-Byes](../Page/틀:8TeamBracket-Compact-NoSeeds-Byes.md "wikilink")
+  - [틀:16TeamBracket-Compact-NoSeeds-Byes](../Page/틀:16TeamBracket-Compact-NoSeeds-Byes.md "wikilink")
   - [틀:32TeamBracket](https://ko.wikipedia.org/wiki/틀:32TeamBracket "wikilink")
 
 [](https://ko.wikipedia.org/wiki/분류:32강_틀 "wikilink") </noinclude>

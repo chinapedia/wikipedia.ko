@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KISS KISS \(  \)](https://ko.wikipedia.org/wiki/KISS_KISS_\(__\)).
 
 
-〈**KISS KISS**〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 첫 번째 [싱글 앨범이자](../Page/CD_싱글.md "wikilink") 다섯 번째 싱글이다. 2014년 8월 7일에 발매되었다. 2014년 9월 [은비와](https://ko.wikipedia.org/wiki/은비_\(1992년\) "wikilink") [리세가](https://ko.wikipedia.org/wiki/권리세 "wikilink") 교통사고로 사망하면서, 둘이 마지막으로 참여한 음반이 되었다.\[1\]
+〈**KISS KISS**〉는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 첫 번째 [싱글 앨범이자](../Page/CD_싱글.md "wikilink") 다섯 번째 싱글이다. 2014년 8월 7일에 발매되었다. 2014년 9월 [은비와](https://ko.wikipedia.org/wiki/은비_\(1992년\) "wikilink") [리세가](https://ko.wikipedia.org/wiki/권리세 "wikilink") 교통사고로 사망하면서, 둘이 마지막으로 참여한 음반이 되었다.\[1\]
 
 ## 곡 목록
 
@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 싱글 차트</a>[2]</p></td>
+<td><p><a href="../Page/가온_차트.md" title="wikilink">가온 싱글 차트</a>[2]</p></td>
 <td><p>50</p></td>
 </tr>
 </tbody>

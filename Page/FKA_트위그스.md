@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FKA ](https://ko.wikipedia.org/wiki/FKA_).
 
 
-**FKA 트위그스**(, [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") \~ )는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.
+**FKA 트위그스**(, [1988년](../Page/1988년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") \~ )는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.
 
 ## 음반 목록
 

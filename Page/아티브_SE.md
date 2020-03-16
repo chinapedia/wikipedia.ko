@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SE](https://ko.wikipedia.org/wiki/_SE).
 
 
-**삼성 아티브 SE**(Samsung ATIV SE)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 공개한 [윈도폰](https://ko.wikipedia.org/wiki/윈도폰 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**삼성 아티브 SE**(Samsung ATIV SE)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2014년](../Page/2014년.md "wikilink")에 공개한 [윈도폰](https://ko.wikipedia.org/wiki/윈도폰 "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 ## 연혁
 
@@ -22,7 +22,7 @@
 ## 같이 보기
 
   - [윈도 폰](https://ko.wikipedia.org/wiki/윈도_폰 "wikilink")
-  - [삼성 아티브 탭](https://ko.wikipedia.org/wiki/삼성_아티브_탭 "wikilink")
+  - [삼성 아티브 탭](../Page/삼성_아티브_탭.md "wikilink")
   - [삼성 갤럭시 S5](../Page/삼성_갤럭시_S5.md "wikilink")
   - [삼성 아티브 오디세이](https://ko.wikipedia.org/wiki/삼성_아티브_오디세이 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SKC](https://ko.wikipedia.org/wiki/SKC).
 
 
-**SKC**는 [SK그룹](https://ko.wikipedia.org/wiki/SK그룹 "wikilink") 계열회사로 [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") 창립됐다. 옛 이름은 ‘선경화학’이며, 1977년 국내 최초로 [폴리에스터](https://ko.wikipedia.org/wiki/폴리에스터 "wikilink")(PET) 필름을 개발했고, 1980년에는 세계에서 네 번째로 비디오테이프를 개발했다. 당시 비디오테이프에 SKC라는 브랜드를 사용하면서 SKC가 널리 알려졌고, 1987년 이를 사명으로 채택했다.
+**SKC**는 [SK그룹](../Page/SK그룹.md "wikilink") 계열회사로 [1973년](../Page/1973년.md "wikilink") 창립됐다. 옛 이름은 ‘선경화학’이며, 1977년 국내 최초로 [폴리에스터](../Page/폴리에스터.md "wikilink")(PET) 필름을 개발했고, 1980년에는 세계에서 네 번째로 비디오테이프를 개발했다. 당시 비디오테이프에 SKC라는 브랜드를 사용하면서 SKC가 널리 알려졌고, 1987년 이를 사명으로 채택했다.
 
 현재는 PO/PG, PET 필름, BHC, 전자재료 등 고부가가치 소재를 생산하고 있다. 2016년 10월 창립 40주년을 맞아 마켓 인사이트와 기술을 창의적으로 결합하는 ‘Global Specialty MARKETER’를 새로운 비전으로 제시했다.
 
@@ -22,7 +22,7 @@
 
 ## 사업
 
-사업 부문으로는 [폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink")의 원재료 중 하나인 프로필렌옥사이드(PO) 등을 생산하는 화학사업, [폴리에스터](https://ko.wikipedia.org/wiki/폴리에스터 "wikilink")(PET) 필름 등을 생산하는 필름사업, 근거리통신(NFC) 핵심소재인 페라이트 시트 등을 만드는 전자재료사업, 뷰티/헬스케어 소재 중심의 BHC사업이 있다.
+사업 부문으로는 [폴리우레탄](../Page/폴리우레탄.md "wikilink")의 원재료 중 하나인 프로필렌옥사이드(PO) 등을 생산하는 화학사업, [폴리에스터](../Page/폴리에스터.md "wikilink")(PET) 필름 등을 생산하는 필름사업, 근거리통신(NFC) 핵심소재인 페라이트 시트 등을 만드는 전자재료사업, 뷰티/헬스케어 소재 중심의 BHC사업이 있다.
 
 ## 본점 및 지점 현황
 

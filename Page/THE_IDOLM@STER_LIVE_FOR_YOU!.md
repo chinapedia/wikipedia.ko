@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER LIVE FOR YOU!](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU!).
 
 
-\<**THE IDOLM@STER LIVE FOR YOU\!**\>(아이돌마스터 라이브 포 유\!) 는 [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 28일에](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") 발매한 [Xbox 360용](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 게임 (공칭 <라이브 시뮬레이션>). [THE IDOLM@STER로부터의](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink") 파생 작품이며, [PROJECT IM@S의](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink") 1작품이기도 하다.
+\<**THE IDOLM@STER LIVE FOR YOU\!**\>(아이돌마스터 라이브 포 유\!) 는 [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2008년](../Page/2008년.md "wikilink") [2월 28일에](../Page/2월_28일.md "wikilink") 발매한 [Xbox 360용](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 게임 (공칭 <라이브 시뮬레이션>). [THE IDOLM@STER로부터의](../Page/THE_IDOLM@STER.md "wikilink") 파생 작품이며, [PROJECT IM@S의](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink") 1작품이기도 하다.
 
 2007년 10월 말, 이벤트 \<Go to the NEXTSTAGE\!\! THE IDOLM@STER GREAT PARTY\>나 동시기 발매의 게임 잡지 등\[1\]에, 아이돌 마스터의 신작 게임을 개발중으로 발표되어 약 4개월 후의 2008년 2월 28일에 발매 개시되었다. [CERO](https://ko.wikipedia.org/wiki/컴퓨터_오락_등급_기구 "wikilink") 레이팅 B (12세 이상 대상). 약칭은 \<L4U\!\>.
 
@@ -15,7 +15,7 @@
 
 어느 쪽의 모드에서도 그 후의 조작은 공통으로, 사용하는 노래나 회장, 의상이나 액세서리, 카메라나 파트의 설정을 실시해 간다. 회장은 전작에 등장한 라이브 하우스·시민 홀·아레나·무도관·돔 외에, 제전 <서머 페스티벌>로 사용된 야외 스테이지가 추가되고 있다.
 
-응원 모드는 [리듬 게임이며](https://ko.wikipedia.org/wiki/리듬_게임 "wikilink"), 화면의 지시에 따라서 타이밍 좋게 버튼을 눌러 가는 일로 <Perfect> <Good> <Normal> <OK>의 4단계의 평가와 득점을 취득해 버튼에 대응한 난이도와 곡에 의해 바뀌는 구령과 손장단과 악기로 여자 아이의 라이브를 응원해 나간다. 응원에 성공할 때마다 관객의 볼티지가 조금씩 올라 가지만, 실패하면 내려 간다. 또 50회 연속으로 성공할 때마다 여자 아이가 팬에게 어필을 실시해, 볼티지가 급상승해 응원 1회마다의 획득 스코어가 증가하게 되어 있다. 난이도 이지와 미디엄에서는 관객의 볼티지가 0이 되어도 게임 오버이게는 안 되지만, 난이도 하드한 것은 게임 오버가 된다. 기본적으로 [BPM치가](https://ko.wikipedia.org/wiki/템포 "wikilink") 작은 슬로우 템포의 곡은 흐르는 지시의 수도 적게 되어, 미스를 하기 어려운 반면, 지시의 수가 적기 때문에 볼티지를 올리기 어렵고, BPM치가 큰 하이 템포의 곡은 흐르는 지시의 수가 많아져, 볼티지를 올리기 쉬운 반면, 미스를 하면 연쇄적으로 볼티지가 저하하는 일이 있다. 덧붙여 특히 BPM치가 낮은 \<9:02 pm\> <파랑새> \<곁에…\>는 본작에서는 배속으로 보면이 흐르게 되어 있다. 응원 종료후에 오토나시 코토리가 라이브의 평가를 실시해, 좋은 성적을 거두면 새로운 의상과 액세서리, 아케이드판 및 Xbox 360판으로부터의 등장이 되는 16곡에 대해서는 사용한 곡의 리믹스바젼 A도 사용 가능하게 된다. 또, 스코어나 볼티지가 절리의 좋은 숫자가 되면 특별한 메시지를 들을 수 있다.
+응원 모드는 [리듬 게임이며](../Page/리듬_게임.md "wikilink"), 화면의 지시에 따라서 타이밍 좋게 버튼을 눌러 가는 일로 <Perfect> <Good> <Normal> <OK>의 4단계의 평가와 득점을 취득해 버튼에 대응한 난이도와 곡에 의해 바뀌는 구령과 손장단과 악기로 여자 아이의 라이브를 응원해 나간다. 응원에 성공할 때마다 관객의 볼티지가 조금씩 올라 가지만, 실패하면 내려 간다. 또 50회 연속으로 성공할 때마다 여자 아이가 팬에게 어필을 실시해, 볼티지가 급상승해 응원 1회마다의 획득 스코어가 증가하게 되어 있다. 난이도 이지와 미디엄에서는 관객의 볼티지가 0이 되어도 게임 오버이게는 안 되지만, 난이도 하드한 것은 게임 오버가 된다. 기본적으로 [BPM치가](https://ko.wikipedia.org/wiki/템포 "wikilink") 작은 슬로우 템포의 곡은 흐르는 지시의 수도 적게 되어, 미스를 하기 어려운 반면, 지시의 수가 적기 때문에 볼티지를 올리기 어렵고, BPM치가 큰 하이 템포의 곡은 흐르는 지시의 수가 많아져, 볼티지를 올리기 쉬운 반면, 미스를 하면 연쇄적으로 볼티지가 저하하는 일이 있다. 덧붙여 특히 BPM치가 낮은 \<9:02 pm\> <파랑새> \<곁에…\>는 본작에서는 배속으로 보면이 흐르게 되어 있다. 응원 종료후에 오토나시 코토리가 라이브의 평가를 실시해, 좋은 성적을 거두면 새로운 의상과 액세서리, 아케이드판 및 Xbox 360판으로부터의 등장이 되는 16곡에 대해서는 사용한 곡의 리믹스바젼 A도 사용 가능하게 된다. 또, 스코어나 볼티지가 절리의 좋은 숫자가 되면 특별한 메시지를 들을 수 있다.
 
 촬영 모드는 순수하게 라이브의 촬영만을 즐길 수가 있는 모드로, 전작과 달리 엑시던트는 일절 발생하지 않고, 관객에게의 어필도 임의로 실시하는 것이 가능해 져 또 카메라의 조작도 어느 정도는 수동으로 실시하는 것이 가능. 덧붙여 촬영 모드로 플레이 했을 때는 라이브 종료후의 오토나시 코토리와의 회화는 발생하지 않고, 각종 아이템의 입수도 불가능하다.
 
@@ -27,7 +27,7 @@
 
 ## 같이 보기
 
-  - [THE IDOLM@STER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")
+  - [THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")
   - [THE IDOLM@STER (2007년 비디오 게임)](../Page/THE_IDOLM@STER_\(2007년_비디오_게임\).md "wikilink")
   - [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink")
 

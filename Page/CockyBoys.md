@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CockyBoys](https://ko.wikipedia.org/wiki/CockyBoys).
 
 
-**CockyBoys**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")의 게이 포르노 기업이다.
+**CockyBoys**는 [미국](../Page/미국.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")의 게이 포르노 기업이다.
 
 ## 역사
 

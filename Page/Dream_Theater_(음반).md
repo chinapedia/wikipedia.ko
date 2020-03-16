@@ -105,7 +105,7 @@
 <td style="text-align: left;"><p>1</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/빌보드_200" title="wikilink">빌보드 200</a>[23]</p></td>
+<td style="text-align: left;"><p><a href="../Page/빌보드_200.md" title="wikilink">빌보드 200</a>[23]</p></td>
 <td style="text-align: left;"><p>7</p></td>
 </tr>
 <tr class="even">
@@ -137,10 +137,10 @@
 
 <!-- end list -->
 
-  - [제임스 라브리에](https://ko.wikipedia.org/wiki/제임스_라브리에 "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - [존 페트루치](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 백킹 보컬
-  - [조던 루디스](https://ko.wikipedia.org/wiki/조던_루디스 "wikilink") – [키보드](https://ko.wikipedia.org/wiki/신시사이저 "wikilink"), [컨티늄](https://ko.wikipedia.org/wiki/컨티늄 "wikilink")
-  - [존 명](https://ko.wikipedia.org/wiki/존_명 "wikilink") – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [제임스 라브리에](../Page/제임스_라브리에.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink") – [기타](../Page/기타.md "wikilink"), 백킹 보컬
+  - [조던 루디스](../Page/조던_루디스.md "wikilink") – [키보드](../Page/신시사이저.md "wikilink"), [컨티늄](https://ko.wikipedia.org/wiki/컨티늄 "wikilink")
+  - [존 명](../Page/존_명.md "wikilink") – [베이스 기타](../Page/베이스_기타.md "wikilink")
   - [마이크 맨지니](../Page/마이크_맨지니.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), 백킹 보컬
 
 <!-- end list -->
@@ -149,11 +149,11 @@
 
 <!-- end list -->
 
-  - Misha Gutenberg (Concert Master), Larisa Vollis - [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink")
-  - Yelena Khaimova, Yevgeniy Mansurov - [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink")
-  - Aleksandr Anisimov, Noah Wallace - [비올라](https://ko.wikipedia.org/wiki/비올라 "wikilink")
-  - Anastasia Golenisheva, Valeriya Sholokhova - [첼로](https://ko.wikipedia.org/wiki/첼로 "wikilink")
-  - Len Sluetsky - [콘트라베이스](https://ko.wikipedia.org/wiki/콘트라베이스 "wikilink")
+  - Misha Gutenberg (Concert Master), Larisa Vollis - [바이올린](../Page/바이올린.md "wikilink")
+  - Yelena Khaimova, Yevgeniy Mansurov - [바이올린](../Page/바이올린.md "wikilink")
+  - Aleksandr Anisimov, Noah Wallace - [비올라](../Page/비올라.md "wikilink")
+  - Anastasia Golenisheva, Valeriya Sholokhova - [첼로](../Page/첼로.md "wikilink")
+  - Len Sluetsky - [콘트라베이스](../Page/콘트라베이스.md "wikilink")
 
 <!-- end list -->
 

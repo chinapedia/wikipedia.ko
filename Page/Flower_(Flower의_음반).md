@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Flower \(Flower \)](https://ko.wikipedia.org/wiki/Flower_\(Flower_\)).
 
 
-《**Flower**》는, [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") 1번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**Flower**》는, [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 수록곡
 
@@ -17,7 +17,7 @@
         작사: 카와무라 유카 / 작곡: 미츠하시 타카유키 / 편곡: Jin Nakamura
     <!-- end list -->
       - 3rd 싱글
-3.  **let go again feat. [VERBAL](https://ko.wikipedia.org/wiki/VERBAL "wikilink")([m-flo](https://ko.wikipedia.org/wiki/엠플로 "wikilink"))**
+3.  **let go again feat. [VERBAL](../Page/VERBAL.md "wikilink")([m-flo](https://ko.wikipedia.org/wiki/엠플로 "wikilink"))**
       -
         작사·작곡: m-flo, YOSHIKA
 4.  **** / <small>**태양과 해바라기**</small>
@@ -45,7 +45,7 @@
         작사: 마츠오 키요시 / 작곡: 토요시마 요시히로
 9.  **** / <small>**연인이 산타클로스**</small>
       -
-        작사·작곡: [마츠토야 유미](https://ko.wikipedia.org/wiki/마츠토야_유미 "wikilink") / 편곡: Maestro-T
+        작사·작곡: [마츠토야 유미](../Page/마츠토야_유미.md "wikilink") / 편곡: Maestro-T
     <!-- end list -->
       - 4th 싱글
 10. **** / <small>**백설 공주**</small>

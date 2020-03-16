@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sky\'s The Limit](https://ko.wikipedia.org/wiki/Sky\'s_The_Limit).
 
 
-〈**Sky's The Limit**〉는, [V6의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 44번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Sky's The Limit**〉는, [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 44번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -16,7 +16,7 @@
 <!-- end list -->
 
 1.  **Sky's The Limit**
-      - [토카이 TV](https://ko.wikipedia.org/wiki/도카이_TV "wikilink")·[후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 드라마 《내버려둘 수 없는 마녀들》 주제가
+      - [토카이 TV](../Page/도카이_TV.md "wikilink")·[후지 TV](../Page/후지_TV.md "wikilink") 계열 드라마 《내버려둘 수 없는 마녀들》 주제가
 2.  **Eyes to Eyes**
 
 <!-- end list -->

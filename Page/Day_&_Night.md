@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Day \& Night](https://ko.wikipedia.org/wiki/Day_\&_Night).
 
 
-《**Day & Night**》은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 18일에](https://ko.wikipedia.org/wiki/8월_18일 "wikilink") 발매된 [카라의](https://ko.wikipedia.org/wiki/카라_\(음악_그룹\) "wikilink") 6번째 [미니 앨범이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+《**Day & Night**》은 [2014년](../Page/2014년.md "wikilink") [8월 18일에](../Page/8월_18일.md "wikilink") 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 6번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 수록곡
 
