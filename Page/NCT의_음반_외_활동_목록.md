@@ -1,25 +1,25 @@
 > This article is converted from Wikipedia: [NCT    ](https://ko.wikipedia.org/wiki/NCT____).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:NCT_going_to_a_Music_Bank_recording_in_April_2018_03.png "wikilink") 다음은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") **[NCT](../Page/NCT_\(음악_그룹\).md "wikilink")**의 **음반 외 활동 목록**이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:NCT_going_to_a_Music_Bank_recording_in_April_2018_03.png "wikilink") 다음은 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") **[NCT](../Page/NCT_\(음악_그룹\).md "wikilink")**의 **음반 외 활동 목록**이다.
 
 ## MC
 
 ### 라디오 프로그램
 
-|             날짜             | 방송사                                                           | 프로그램                                                                               | 출연            | 비고 |
-| :------------------------: | ------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------- | -- |
-|        2016년 7월 7일         | [KBS 쿨FM](https://ko.wikipedia.org/wiki/KBS_쿨FM "wikilink")   | 《[슈퍼주니어의 키스 더 라디오](https://ko.wikipedia.org/wiki/슈퍼주니어의_키스_더_라디오 "wikilink")》      | 도영 (스페셜 DJ)   |    |
-| 2017년 3월 20일\~2019년 1월 27일 | [SBS 파워FM](https://ko.wikipedia.org/wiki/SBS_파워FM "wikilink") | 《[NCT의 night night\!](https://ko.wikipedia.org/wiki/NCT의_night_night! "wikilink")》 | 쟈니, 재현 (메인DJ) |    |
-|                            |                                                               |                                                                                    |               |    |
+|             날짜             | 방송사                                                         | 프로그램                                                                          | 출연            | 비고 |
+| :------------------------: | ----------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------- | -- |
+|        2016년 7월 7일         | [KBS 쿨FM](https://ko.wikipedia.org/wiki/KBS_쿨FM "wikilink") | 《[슈퍼주니어의 키스 더 라디오](https://ko.wikipedia.org/wiki/슈퍼주니어의_키스_더_라디오 "wikilink")》 | 도영 (스페셜 DJ)   |    |
+| 2017년 3월 20일\~2019년 1월 27일 | [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")                  | 《[NCT의 night night\!](../Page/NCT의_night_night!.md "wikilink")》               | 쟈니, 재현 (메인DJ) |    |
+|                            |                                                             |                                                                               |               |    |
 
 ### 음악 프로그램
 
 |  날짜   | 방송사                                                             | 프로그램                                                        | 출연          | 비고        |
 | :---: | --------------------------------------------------------------- | ----------------------------------------------------------- | ----------- | --------- |
-| 2015년 | [MBC 뮤직](https://ko.wikipedia.org/wiki/MBC_뮤직 "wikilink")       | 《[쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")》   | 도영, 재현      | MC (데뷔 전) |
+| 2015년 | [MBC 뮤직](../Page/MBC_뮤직.md "wikilink")                          | 《[쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")》   | 도영, 재현      | MC (데뷔 전) |
 | 2016년 | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")           | 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 | 도영 외 NCT 멤버 | 스페셜 MC    |
-| 2017년 | [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink")             | 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》     | 도영          | MC        |
+| 2017년 | [SBS](../Page/SBS.md "wikilink")                                | 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》     | 도영          | MC        |
 | 2018년 | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")             | 《[쇼\!음악중심](https://ko.wikipedia.org/wiki/쇼!음악중심 "wikilink") | 마크          | MC        |
 | 2018년 | [SBS funny](https://ko.wikipedia.org/wiki/SBS_funny "wikilink") | 《더쇼》                                                        | 제노          | MC        |
 |       |                                                                 |                                                             |             |           |
@@ -67,7 +67,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JTBC" title="wikilink">JTBC</a></p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>《<a href="../Page/비정상회담.md" title="wikilink">비정상회담</a>》</p></td>
 <td><p>유타 (일본인 대표)</p></td>
 <td><p>데뷔 전</p></td>
@@ -96,7 +96,7 @@
 <tr class="even">
 <td><p>2018년</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/댄싱하이" title="wikilink">댄싱 하이</a>》</p></td>
+<td><p>《<a href="../Page/댄싱하이.md" title="wikilink">댄싱 하이</a>》</p></td>
 <td><p>지성</p></td>
 <td><p>8부작</p></td>
 </tr>
@@ -112,40 +112,40 @@
 
 ### 게스트 출연
 
-| 연도                                                                  | 방송사                                                                      | 제목                                                              | 출연        | 비고            |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- | --------- | ------------- |
-| 2016년                                                               | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")                    | 《[힛 더 스테이지](../Page/힛_더_스테이지.md "wikilink")》                    | 텐         | 1\~6회, 9\~10회 |
-| [MBC Every 1](https://ko.wikipedia.org/wiki/MBC_Every_1 "wikilink") | 《[주간 아이돌](https://ko.wikipedia.org/wiki/주간_아이돌 "wikilink")》              | NCT 127                                                         | 265회      |               |
-| [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink")                 | 《내일은 시구왕》                                                                | 도영                                                              | 한가위 특집    |               |
-| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《아이돌 요리왕》                                                                | 태일, 태용, 유타, 재현, 마크                                              | 한가위 특집    |               |
-| [TV조선](https://ko.wikipedia.org/wiki/TV조선 "wikilink")               | 《아이돌 잔치》                                                                 | 유타                                                              |           |               |
-| [On Style](https://ko.wikipedia.org/wiki/On_Style "wikilink")       | 《런드리 데이》                                                                 | 도영                                                              | 11회       |               |
-| 2017년                                                               | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")                    | 《[트릭 & 트루](../Page/트릭_&_트루.md "wikilink")》                      | 도영, 재현    | 13회           |
-| [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink")                 | 《초등학쌤》                                                                   | 텐                                                               | 설 특집\[1\] |               |
-| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《2017 아이돌스타 육상 양궁 리듬체조 에어로빅 선수권대회》                                       | 유타, 쟈니                                                          | 설특집       |               |
-| [MBC Every 1](https://ko.wikipedia.org/wiki/MBC_Every_1 "wikilink") | 《[주간 아이돌](https://ko.wikipedia.org/wiki/주간_아이돌 "wikilink")》              | NCT 127                                                         | 289회      |               |
-| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《[듀엣가요제](../Page/듀엣가요제.md "wikilink")》                                   | 쟈니, 재현                                                          | 41회       |               |
-| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")               | 《[고등래퍼1](https://ko.wikipedia.org/wiki/고등래퍼1 "wikilink")》                | 마크                                                              | \[2\]     |               |
-| [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink")                 | 《[정글의 법칙 in 피지](https://ko.wikipedia.org/wiki/정글의_법칙 "wikilink")》        | 재현                                                              |           |               |
-|                                                                     | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                      | 《[우리 결혼했어요](https://ko.wikipedia.org/wiki/우리_결혼했어요 "wikilink")》 | 도영        | 363회          |
-| 2018년                                                               | [MBC Every 1](https://ko.wikipedia.org/wiki/MBC_Every_1 "wikilink")      | 《[주간 아이돌](https://ko.wikipedia.org/wiki/주간_아이돌 "wikilink")》     | NCT 2018  | 347회          |
-| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")               | 《안녕하세요》                                                                  | 도영, 재현, 마크                                                      | 358회      |               |
-| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《[이불 밖은 위험해](https://ko.wikipedia.org/wiki/이불_밖은_위험해 "wikilink")》        | 마크                                                              | 8\~10회    |               |
-| [SBS MTV](https://ko.wikipedia.org/wiki/SBS_MTV "wikilink")         | 《스쿨어택 2018》                                                              | NCT 127                                                         | 1\~2회     |               |
-| [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")               | 《[아는 형님](../Page/아는_형님.md "wikilink")》                                   | 루카스                                                             | 141회      |               |
-| [MBC Every 1](https://ko.wikipedia.org/wiki/MBC_Every_1 "wikilink") | 《[주간 아이돌](https://ko.wikipedia.org/wiki/주간_아이돌 "wikilink")》              | NCT DREAM                                                       | 371회      |               |
-| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")               | 《[해피 투게더](https://ko.wikipedia.org/wiki/해피투게더_\(텔레비전_프로그램\) "wikilink")》 | 루카스                                                             | 555회      |               |
-| [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")               | 《[아이돌룸](https://ko.wikipedia.org/wiki/아이돌룸 "wikilink")》                  | NCT 127                                                         | 23회       |               |
-| [MBC Every 1](https://ko.wikipedia.org/wiki/MBC_Every_1 "wikilink") | 《[주간 아이돌](https://ko.wikipedia.org/wiki/주간_아이돌 "wikilink")》              | NCT 127                                                         | 378회      |               |
-| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《[정글의 법칙 in 라스트인도양](https://ko.wikipedia.org/wiki/정글의_법칙 "wikilink")》    | 루카스                                                             | 338\~339회 |               |
-| [SBS MTV](https://ko.wikipedia.org/wiki/SBS_MTV "wikilink")         | 《스쿨어택 2018》                                                              | NCT DREAM                                                       | 11\~12회   |               |
-| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")               | 《[해피 투게더](https://ko.wikipedia.org/wiki/해피투게더_\(텔레비전_프로그램\) "wikilink")》 | 태용, 재현                                                          | 562회      |               |
+| 연도                                                                  | 방송사                                                                 | 제목                                           | 출연        | 비고            |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------- | --------- | ------------- |
+| 2016년                                                               | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")               | 《[힛 더 스테이지](../Page/힛_더_스테이지.md "wikilink")》 | 텐         | 1\~6회, 9\~10회 |
+| [MBC Every 1](https://ko.wikipedia.org/wiki/MBC_Every_1 "wikilink") | 《[주간 아이돌](../Page/주간_아이돌.md "wikilink")》                            | NCT 127                                      | 265회      |               |
+| [SBS](../Page/SBS.md "wikilink")                                    | 《내일은 시구왕》                                                           | 도영                                           | 한가위 특집    |               |
+| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《아이돌 요리왕》                                                           | 태일, 태용, 유타, 재현, 마크                           | 한가위 특집    |               |
+| [TV조선](../Page/TV조선.md "wikilink")                                  | 《아이돌 잔치》                                                            | 유타                                           |           |               |
+| [On Style](https://ko.wikipedia.org/wiki/On_Style "wikilink")       | 《런드리 데이》                                                            | 도영                                           | 11회       |               |
+| 2017년                                                               | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")               | 《[트릭 & 트루](../Page/트릭_&_트루.md "wikilink")》   | 도영, 재현    | 13회           |
+| [SBS](../Page/SBS.md "wikilink")                                    | 《초등학쌤》                                                              | 텐                                            | 설 특집\[1\] |               |
+| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《2017 아이돌스타 육상 양궁 리듬체조 에어로빅 선수권대회》                                  | 유타, 쟈니                                       | 설특집       |               |
+| [MBC Every 1](https://ko.wikipedia.org/wiki/MBC_Every_1 "wikilink") | 《[주간 아이돌](../Page/주간_아이돌.md "wikilink")》                            | NCT 127                                      | 289회      |               |
+| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《[듀엣가요제](../Page/듀엣가요제.md "wikilink")》                              | 쟈니, 재현                                       | 41회       |               |
+| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")               | 《[고등래퍼1](https://ko.wikipedia.org/wiki/고등래퍼1 "wikilink")》           | 마크                                           | \[2\]     |               |
+| [SBS](../Page/SBS.md "wikilink")                                    | 《[정글의 법칙 in 피지](../Page/정글의_법칙.md "wikilink")》                      | 재현                                           |           |               |
+|                                                                     | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《[우리 결혼했어요](../Page/우리_결혼했어요.md "wikilink")》 | 도영        | 363회          |
+| 2018년                                                               | [MBC Every 1](https://ko.wikipedia.org/wiki/MBC_Every_1 "wikilink") | 《[주간 아이돌](../Page/주간_아이돌.md "wikilink")》     | NCT 2018  | 347회          |
+| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")               | 《안녕하세요》                                                             | 도영, 재현, 마크                                   | 358회      |               |
+| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《[이불 밖은 위험해](../Page/이불_밖은_위험해.md "wikilink")》                      | 마크                                           | 8\~10회    |               |
+| [SBS MTV](../Page/SBS_MTV.md "wikilink")                            | 《스쿨어택 2018》                                                         | NCT 127                                      | 1\~2회     |               |
+| [JTBC](../Page/JTBC.md "wikilink")                                  | 《[아는 형님](../Page/아는_형님.md "wikilink")》                              | 루카스                                          | 141회      |               |
+| [MBC Every 1](https://ko.wikipedia.org/wiki/MBC_Every_1 "wikilink") | 《[주간 아이돌](../Page/주간_아이돌.md "wikilink")》                            | NCT DREAM                                    | 371회      |               |
+| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")               | 《[해피 투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")》               | 루카스                                          | 555회      |               |
+| [JTBC](../Page/JTBC.md "wikilink")                                  | 《[아이돌룸](../Page/아이돌룸.md "wikilink")》                                | NCT 127                                      | 23회       |               |
+| [MBC Every 1](https://ko.wikipedia.org/wiki/MBC_Every_1 "wikilink") | 《[주간 아이돌](../Page/주간_아이돌.md "wikilink")》                            | NCT 127                                      | 378회      |               |
+| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")                 | 《[정글의 법칙 in 라스트인도양](../Page/정글의_법칙.md "wikilink")》                  | 루카스                                          | 338\~339회 |               |
+| [SBS MTV](../Page/SBS_MTV.md "wikilink")                            | 《스쿨어택 2018》                                                         | NCT DREAM                                    | 11\~12회   |               |
+| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")               | 《[해피 투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")》               | 태용, 재현                                       | 562회      |               |
 
 ### 드라마
 
-| 연도    | 방송사  | 제목                                                            | 출연                 | 비고       |
-| ----- | ---- | ------------------------------------------------------------- | ------------------ | -------- |
-| 2018년 | 웹드라마 | 《[에이틴](https://ko.wikipedia.org/wiki/에이틴_\(드라마\) "wikilink")》 | 제노(제노 역), 재민(재민 역) | 20회 특별출연 |
+| 연도    | 방송사  | 제목                                         | 출연                 | 비고       |
+| ----- | ---- | ------------------------------------------ | ------------------ | -------- |
+| 2018년 | 웹드라마 | 《[에이틴](../Page/에이틴_\(드라마\).md "wikilink")》 | 제노(제노 역), 재민(재민 역) | 20회 특별출연 |
 
 ## 광고
 

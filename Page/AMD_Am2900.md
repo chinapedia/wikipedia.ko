@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AMD Am2900](https://ko.wikipedia.org/wiki/AMD_Am2900).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:KL_AMD_2901.jpg "wikilink") **Am2900**은 1975년 [어드밴스트 마이크로 디바이시스](https://ko.wikipedia.org/wiki/어드밴스트_마이크로_디바이시스 "wikilink")(AMD)가 1975년 개발한 [집적 회로](https://ko.wikipedia.org/wiki/집적_회로 "wikilink")(IC)의 계열이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:KL_AMD_2901.jpg "wikilink") **Am2900**은 1975년 [어드밴스트 마이크로 디바이시스](../Page/어드밴스트_마이크로_디바이시스.md "wikilink")(AMD)가 1975년 개발한 [집적 회로](../Page/집적_회로.md "wikilink")(IC)의 계열이다.
 
 ## Am2900 계열의 멤버
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [First Live!](https://ko.wikipedia.org/wiki/First_Live!).
 
 
-〈**First Live**〉(퍼스트 라이브)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성 아이돌 그룹 [STAR☆ANIS](https://ko.wikipedia.org/wiki/STAR☆ANIS "wikilink")의 2번째 싱글이며, 텔레비전 애니메이션 《[아이 엠 스타\!](../Page/아이_엠_스타!.md "wikilink")》의 첫 번째 오디션 싱글이다.
+〈**First Live**〉(퍼스트 라이브)는 [일본](../Page/일본.md "wikilink")의 여성 아이돌 그룹 [STAR☆ANIS](https://ko.wikipedia.org/wiki/STAR☆ANIS "wikilink")의 2번째 싱글이며, 텔레비전 애니메이션 《[아이 엠 스타\!](../Page/아이_엠_스타!.md "wikilink")》의 첫 번째 오디션 싱글이다.
 
 ## 수록곡
 

@@ -5,7 +5,7 @@
 
 ### 현재 선수 명단
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") 기준
+[2017년](../Page/2017년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") 기준
 
 ### 임대 및 군 복무 중인 선수 명단
 

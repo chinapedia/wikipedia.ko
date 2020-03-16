@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [An Innocent Man \(\)](https://ko.wikipedia.org/wiki/An_Innocent_Man_\(\)).
 
 
-〈**An Innocent Man**〉은 1983년 발매된 [빌리 조엘의](https://ko.wikipedia.org/wiki/빌리_조엘 "wikilink") 노래이며 그의 음반 《[An Innocent Man](https://ko.wikipedia.org/wiki/An_Innocent_Man "wikilink")》의 세 번째 싱글이다.
+〈**An Innocent Man**〉은 1983년 발매된 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 노래이며 그의 음반 《[An Innocent Man](../Page/An_Innocent_Man.md "wikilink")》의 세 번째 싱글이다.
 
-[벤 E. 킹과](../Page/벤_E._킹.md "wikilink") [드리프터스](https://ko.wikipedia.org/wiki/드리프터스 "wikilink")에게 경의를 표하는 이 노래는 [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 차트에서 10에 달했으며\[1\] 빌보드 Hot Adult Contemporary Tracks 차트에서 1위에 달했다.\[2\]
+[벤 E. 킹과](../Page/벤_E._킹.md "wikilink") [드리프터스](https://ko.wikipedia.org/wiki/드리프터스 "wikilink")에게 경의를 표하는 이 노래는 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 10에 달했으며\[1\] 빌보드 Hot Adult Contemporary Tracks 차트에서 1위에 달했다.\[2\]
 
 이 곡의 뮤직비디오는 없다.
 
@@ -39,7 +39,7 @@
 <td><p>8</p></td>
 </tr>
 <tr class="even">
-<td><p>US <a href="https://ko.wikipedia.org/wiki/빌보드_핫_100" title="wikilink">빌보드 핫 100</a></p></td>
+<td><p>US <a href="../Page/빌보드_핫_100.md" title="wikilink">빌보드 핫 100</a></p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="odd">

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [:David Cameron cabinet 1 vertical](https://ko.wikipedia.org/wiki/:David_Cameron_cabinet_1_vertical).
 
 
-| 정당 구분 |                                                                | [보수당](https://ko.wikipedia.org/wiki/보수당_\(영국\) "wikilink") |
-| ----- | -------------------------------------------------------------- | ---------------------------------------------------------- |
-|       | [자유민주당](https://ko.wikipedia.org/wiki/자유민주당_\(영국\) "wikilink") |                                                            |
+| 정당 구분 |                                             | [보수당](../Page/보수당_\(영국\).md "wikilink") |
+| ----- | ------------------------------------------- | --------------------------------------- |
+|       | [자유민주당](../Page/자유민주당_\(영국\).md "wikilink") |                                         |
 
 <table>
 <caption>제1차 캐머런 내각[1] []</caption>
@@ -21,23 +21,23 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/영국의_총리" title="wikilink">총리</a><br />
+<td><p><a href="../Page/영국의_총리.md" title="wikilink">총리</a><br />
 <a href="https://ko.wikipedia.org/wiki/국가재정위원장" title="wikilink">국가재정위원장</a><br />
 <a href="https://ko.wikipedia.org/wiki/공무원부장관" title="wikilink">공무원부장관</a></p></td>
 <td></td>
-<td><p><small>The Rt Hon.</small> <strong><a href="https://ko.wikipedia.org/wiki/데이비드_캐머런" title="wikilink">데이비드 캐머런</a></strong> <small>MP</small></p></td>
+<td><p><small>The Rt Hon.</small> <strong><a href="../Page/데이비드_캐머런.md" title="wikilink">데이비드 캐머런</a></strong> <small>MP</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/영국의_부총리" title="wikilink">부총리</a><br />
 <a href="https://ko.wikipedia.org/wiki/추밀원_의장" title="wikilink">추밀원 의장</a></p></td>
 <td></td>
-<td><p><small>The Rt Hon.</small> <strong><a href="https://ko.wikipedia.org/wiki/닉_클레그" title="wikilink">닉 클레그</a></strong> <small>MP</small></p></td>
+<td><p><small>The Rt Hon.</small> <strong><a href="../Page/닉_클레그.md" title="wikilink">닉 클레그</a></strong> <small>MP</small></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/제1장관" title="wikilink">제1장관</a><br />
 <a href="https://ko.wikipedia.org/wiki/외교영연방부장관" title="wikilink">외교영연방부장관</a></p></td>
 <td></td>
-<td><p><small>The Rt Hon.</small> <strong><a href="https://ko.wikipedia.org/wiki/윌리엄_헤이그" title="wikilink">윌리엄 헤이그</a></strong> <small>MP</small></p></td>
+<td><p><small>The Rt Hon.</small> <strong><a href="../Page/윌리엄_헤이그.md" title="wikilink">윌리엄 헤이그</a></strong> <small>MP</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/영국_재무장관" title="wikilink">재무장관</a></p></td>
@@ -134,7 +134,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><small>The Rt Hon.</small> <strong><a href="https://ko.wikipedia.org/wiki/마이클_무어" title="wikilink">마이클 무어</a></strong> <small>MP</small></p></td>
+<td><p><small>The Rt Hon.</small> <strong><a href="../Page/마이클_무어.md" title="wikilink">마이클 무어</a></strong> <small>MP</small></p></td>
 <td><p>2010–13</p></td>
 </tr>
 <tr class="even">
@@ -191,12 +191,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/서민원_원내총무" title="wikilink">서민원 원내총무</a><br />
-<a href="https://ko.wikipedia.org/wiki/옥새상서" title="wikilink">옥새상서</a></p></td>
+<a href="../Page/옥새상서.md" title="wikilink">옥새상서</a></p></td>
 <td></td>
 <td><p><small>The Rt Hon.</small> <strong><a href="https://ko.wikipedia.org/wiki/조지_영" title="wikilink">조지 영</a> 경</strong> <small>Bt MP</small></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/서민원" title="wikilink">서민원</a> <a href="https://ko.wikipedia.org/wiki/원내간사장" title="wikilink">원내간사장</a><br />
+<td><p><a href="../Page/서민원.md" title="wikilink">서민원</a> <a href="https://ko.wikipedia.org/wiki/원내간사장" title="wikilink">원내간사장</a><br />
 <a href="https://ko.wikipedia.org/wiki/재무부_원내장관" title="wikilink">재무부 원내장관</a></p></td>
 <td></td>
 <td><p><small>The Rt Hon.</small> <strong><a href="https://ko.wikipedia.org/wiki/패트릭_맥러플린" title="wikilink">패트릭 맥러플린</a></strong> <small>MP</small></p></td>

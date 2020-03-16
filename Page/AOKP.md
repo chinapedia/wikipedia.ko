@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AOKP](https://ko.wikipedia.org/wiki/AOKP).
 
 
-**AOKP**(Android Open Kang Project)는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 모바일 [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 기반의 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")과 [태블릿 컴퓨터를](https://ko.wikipedia.org/wiki/태블릿_컴퓨터 "wikilink") 위한 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 대체 배포판이다.
+**AOKP**(Android Open Kang Project)는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 모바일 [운영 체제](../Page/운영_체제.md "wikilink") 기반의 [스마트폰](../Page/스마트폰.md "wikilink")과 [태블릿 컴퓨터를](../Page/태블릿_컴퓨터.md "wikilink") 위한 [오픈 소스](../Page/오픈_소스.md "wikilink") 대체 배포판이다.
 
 ## 기능
 
@@ -12,7 +12,7 @@
   - 진동 패턴
   - 네이티브 테마 지원
   - 권한 통제
-  - CPU [오버클럭](https://ko.wikipedia.org/wiki/오버클럭 "wikilink")
+  - CPU [오버클럭](../Page/오버클럭.md "wikilink")
 
 ## 출시 버전
 

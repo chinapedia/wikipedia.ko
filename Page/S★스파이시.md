@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [S](https://ko.wikipedia.org/wiki/S).
 
 
-**S★스파이시**(, S★Spicy)는 [스타더스트 프로모션에](https://ko.wikipedia.org/wiki/스타더스트_프로모션 "wikilink") 소속된 일본의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 약칭은 **에스스파**()이다.
+**S★스파이시**(, S★Spicy)는 [스타더스트 프로모션에](../Page/스타더스트_프로모션.md "wikilink") 소속된 일본의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 약칭은 **에스스파**()이다.
 
 ## 개요
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink"), [아오이](https://ko.wikipedia.org/wiki/아오이_\(배우\) "wikilink"), [쿠리타 모에](https://ko.wikipedia.org/wiki/쿠리타_모에 "wikilink"), [마시타 레나](https://ko.wikipedia.org/wiki/마시타_레나 "wikilink"), [하나가타 아야샤의](https://ko.wikipedia.org/wiki/하나가타_아야샤 "wikilink") 4명이 결성. 약 1개월 후의 「스타프에스 번외편 그 2」에서 피로연. 같은 예능 3부 소속되어 있으며, [모모이로 클로버](https://ko.wikipedia.org/wiki/모모이로_클로버 "wikilink")(현 [모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink")), [시리츠에비스추가쿠](https://ko.wikipedia.org/wiki/시리츠에비스추가쿠 "wikilink"), [미니치어☆베어즈](https://ko.wikipedia.org/wiki/미니치어☆베어즈 "wikilink") 등의 평균연령이 높아, 「언니 유닛」이라고 평가했다. 최초기의 S★스파이시 이후 활동 휴지 기간을 두고, S★스파이시 1, S★스파이시 2와 멤버 구성을 바꾸어 현재에 이른다. 주로 도쿄에서 활동했고, 최근에는 미니치어☆베어스(\~ 2014년 2월)나 [KAGAJO☆4S](https://ko.wikipedia.org/wiki/KAGAJO☆4S "wikilink")(\~ 2014년 2월)와 공동으로 행사 개최가 중심이었지만, 두 그룹의 해산에 따른 관 공연, 단독 공연도 늘고 있다.
+[2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink"), [아오이](https://ko.wikipedia.org/wiki/아오이_\(배우\) "wikilink"), [쿠리타 모에](https://ko.wikipedia.org/wiki/쿠리타_모에 "wikilink"), [마시타 레나](https://ko.wikipedia.org/wiki/마시타_레나 "wikilink"), [하나가타 아야샤의](https://ko.wikipedia.org/wiki/하나가타_아야샤 "wikilink") 4명이 결성. 약 1개월 후의 「스타프에스 번외편 그 2」에서 피로연. 같은 예능 3부 소속되어 있으며, [모모이로 클로버](https://ko.wikipedia.org/wiki/모모이로_클로버 "wikilink")(현 [모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink")), [시리츠에비스추가쿠](../Page/시리츠에비스추가쿠.md "wikilink"), [미니치어☆베어즈](../Page/미니치어☆베어즈.md "wikilink") 등의 평균연령이 높아, 「언니 유닛」이라고 평가했다. 최초기의 S★스파이시 이후 활동 휴지 기간을 두고, S★스파이시 1, S★스파이시 2와 멤버 구성을 바꾸어 현재에 이른다. 주로 도쿄에서 활동했고, 최근에는 미니치어☆베어스(\~ 2014년 2월)나 [KAGAJO☆4S](../Page/KAGAJO☆4S.md "wikilink")(\~ 2014년 2월)와 공동으로 행사 개최가 중심이었지만, 두 그룹의 해산에 따른 관 공연, 단독 공연도 늘고 있다.
 
-[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink"), 그룹 해체을 발표해, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 21일에](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 시부야 CLUB QUATTRO에서 10주년 기념 라스트 라이브를 끝으로 해체.
+[2018년](../Page/2018년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink"), 그룹 해체을 발표해, [2019년](../Page/2019년.md "wikilink") [3월 21일에](../Page/3월_21일.md "wikilink") 시부야 CLUB QUATTRO에서 10주년 기념 라스트 라이브를 끝으로 해체.
 
 ## 구성원
 
-  - [쿠리타 모에](https://ko.wikipedia.org/wiki/쿠리타_모에 "wikilink") (, ), [지바현](https://ko.wikipedia.org/wiki/지바현 "wikilink") 출신 - 최연장자
-  - [마츠오 야스카](https://ko.wikipedia.org/wiki/마츠오_야스카 "wikilink") (, ), [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink") 출신 - 최연소, 전 KAGAJO☆4S 멤버
+  - [쿠리타 모에](https://ko.wikipedia.org/wiki/쿠리타_모에 "wikilink") (, ), [지바현](../Page/지바현.md "wikilink") 출신 - 최연장자
+  - [마츠오 야스카](https://ko.wikipedia.org/wiki/마츠오_야스카 "wikilink") (, ), [가나가와현](../Page/가나가와현.md "wikilink") 출신 - 최연소, 전 KAGAJO☆4S 멤버
 
 ### 전 구성원
 
-  - [아오이](https://ko.wikipedia.org/wiki/아오이_\(배우\) "wikilink") (, ), [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") 출신 - 현재는 여배우, 모델로 활동.
+  - [아오이](https://ko.wikipedia.org/wiki/아오이_\(배우\) "wikilink") (, ), [도쿄도](../Page/도쿄도.md "wikilink") 출신 - 현재는 여배우, 모델로 활동.
   - [마시타 레나](https://ko.wikipedia.org/wiki/마시타_레나 "wikilink") (, ), [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") 출신 - 현재는 여배우, 모델로 활동.
   - [히나가타 아야샤](https://ko.wikipedia.org/wiki/히나가타_아야샤 "wikilink") (, ), 도쿄 도 출신
 
@@ -40,7 +40,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>이그조틱 스파이스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/10월_26일" title="wikilink">10월 26일</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_26일.md" title="wikilink">10월 26일</a></p></td>
 <td><p>-</p></td>
 <td><p>라이브 한정 발매<br />
 S★스파이시 명의</p></td>
@@ -49,7 +49,7 @@ S★스파이시 명의</p></td>
 <td><p>2</p></td>
 <td></td>
 <td><p>혼자 서머 ~이야기가 백지화 되어도~</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/7월_21일" title="wikilink">7월 21일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/7월_21일.md" title="wikilink">7월 21일</a></p></td>
 <td><p>-</p></td>
 <td><p>이벤트 한정 발매<br />
 S★스파이시 1 명의</p></td>
@@ -58,7 +58,7 @@ S★스파이시 1 명의</p></td>
 <td><p>3</p></td>
 <td></td>
 <td><p>사랑 도둑은 왼손잡이</p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/12월_7일" title="wikilink">12월 7일</a></p></td>
+<td><p>2013년 <a href="../Page/12월_7일.md" title="wikilink">12월 7일</a></p></td>
 <td><p>-</p></td>
 <td><p>이벤트 한정 발매<br />
 S★스파이시 2 명의</p></td>
@@ -67,7 +67,7 @@ S★스파이시 2 명의</p></td>
 <td><p>4</p></td>
 <td></td>
 <td><p>SGC★스파이시</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/12월_10일" title="wikilink">12월 10일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/12월_10일.md" title="wikilink">12월 10일</a></p></td>
 <td><p>180</p></td>
 <td></td>
 </tr>
@@ -75,7 +75,7 @@ S★스파이시 2 명의</p></td>
 <td><p>5</p></td>
 <td></td>
 <td><p>벼랑 음두</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/10월_28일" title="wikilink">10월 28일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_28일.md" title="wikilink">10월 28일</a></p></td>
 <td><p>64</p></td>
 <td></td>
 </tr>
@@ -92,7 +92,7 @@ S★스파이시 2 명의</p></td>
 
 ### 컴필레이션 앨범 
 
-  - 「Lantis presents「スタ☆コレ」」 ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink"))
+  - 「Lantis presents「スタ☆コレ」」 ([2009년](../Page/2009년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink"))
       - "少女迷路でつかまえて"를 수록.
 
 ## 출연

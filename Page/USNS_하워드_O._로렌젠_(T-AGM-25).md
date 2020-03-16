@@ -13,7 +13,7 @@
 
 ## 코브라 킹
 
-코브라 킹 레이다 시스템은 2개의 [AESA](https://ko.wikipedia.org/wiki/AESA "wikilink") 레이다로 구성된다.
+코브라 킹 레이다 시스템은 2개의 [AESA](../Page/AESA.md "wikilink") 레이다로 구성된다.
 
   - [S 밴드](../Page/S_밴드.md "wikilink") AESA 레이다: 광범위한 공중의 목표물들을 스캔한다.
   - [X 밴드](https://ko.wikipedia.org/wiki/X_밴드 "wikilink") AESA 레이다: 작은 목표물을을 탐지한다. 기만체와 탄두를 구별한다.

@@ -26,13 +26,13 @@
 </tr>
 <tr class="odd">
 <td><dl>
-<dt><a href="https://ko.wikipedia.org/wiki/골든_디스크" title="wikilink">골든 디스크상</a></dt>
+<dt><a href="../Page/골든_디스크.md" title="wikilink">골든 디스크상</a></dt>
 
 </dl></td>
 </tr>
 <tr class="even">
 <td><dl>
-<dt><a href="https://ko.wikipedia.org/wiki/멜론_뮤직_어워드" title="wikilink">멜론 뮤직 어워드</a></dt>
+<dt><a href="../Page/멜론_뮤직_어워드.md" title="wikilink">멜론 뮤직 어워드</a></dt>
 
 </dl></td>
 </tr>
@@ -94,7 +94,7 @@
 </tr>
 <tr class="odd">
 <td><dl>
-<dt><a href="https://ko.wikipedia.org/wiki/SBS_인기가요" title="wikilink">SBS 인기가요</a></dt>
+<dt><a href="../Page/SBS_인기가요.md" title="wikilink">SBS 인기가요</a></dt>
 
 </dl></td>
 </tr>
@@ -106,7 +106,7 @@
 </tr>
 <tr class="odd">
 <td><dl>
-<dt><a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a></dt>
+<dt><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a></dt>
 
 </dl></td>
 </tr>
@@ -143,7 +143,7 @@
 </tbody>
 </table>
 
-다음은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") **[NCT](../Page/NCT_\(음악_그룹\).md "wikilink")**의 **수상 및 후보 목록**이다.
+다음은 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") **[NCT](../Page/NCT_\(음악_그룹\).md "wikilink")**의 **수상 및 후보 목록**이다.
 
 ## 시상식
 
@@ -216,7 +216,7 @@
 </tbody>
 </table>
 
-### [골든 디스크](https://ko.wikipedia.org/wiki/골든_디스크 "wikilink")
+### [골든 디스크](../Page/골든_디스크.md "wikilink")
 
 <table>
 <thead>
@@ -270,7 +270,7 @@
 </tbody>
 </table>
 
-### [멜론 뮤직 어워드](https://ko.wikipedia.org/wiki/멜론_뮤직_어워드 "wikilink")
+### [멜론 뮤직 어워드](../Page/멜론_뮤직_어워드.md "wikilink")
 
 <table>
 <thead>
@@ -452,13 +452,13 @@
 <td><ul>
 <li><strong>마지막 첫사랑</strong> - NCT DREAM (총 3회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/2월_14일" title="wikilink">2월 14일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스</li>
-<li><a href="https://ko.wikipedia.org/wiki/2월_21일" title="wikilink">2월 21일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 (2주 연속)</li>
-<li><a href="https://ko.wikipedia.org/wiki/2월_28일" title="wikilink">2월 28일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 (3주 연속) (트리플크라운)</li>
+<li><a href="../Page/2월_14일.md" title="wikilink">2월 14일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스</li>
+<li><a href="../Page/2월_21일.md" title="wikilink">2월 21일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 (2주 연속)</li>
+<li><a href="../Page/2월_28일.md" title="wikilink">2월 28일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 (3주 연속) (트리플크라운)</li>
 </ul></li>
 <li><strong>Cherry Bomb</strong> - NCT 127 (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/6월_22일" title="wikilink">6월 22일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/6월_22일.md" title="wikilink">6월 22일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -467,14 +467,14 @@
 <td><ul>
 <li><strong>Touch</strong> - NCT 127 (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/3월_27일" title="wikilink">3월 27일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스</li>
+<li><a href="../Page/3월_27일.md" title="wikilink">3월 27일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스</li>
 </ul></li>
 <li><strong>Regular</strong> - NCT 127 (총 4회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/10월_16일" title="wikilink">10월 16일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스</li>
-<li><a href="https://ko.wikipedia.org/wiki/10월_23일" title="wikilink">10월 23일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 (2주 연속)</li>
-<li><a href="https://ko.wikipedia.org/wiki/10월_25일" title="wikilink">10월 25일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/10월_26일" title="wikilink">10월 26일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
+<li><a href="../Page/10월_16일.md" title="wikilink">10월 16일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스</li>
+<li><a href="../Page/10월_23일.md" title="wikilink">10월 23일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 (2주 연속)</li>
+<li><a href="../Page/10월_25일.md" title="wikilink">10월 25일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/10월_26일.md" title="wikilink">10월 26일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -483,13 +483,13 @@
 <td><ul>
 <li><strong>Superhuman</strong> - NCT 127 (총 2회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/6월_7일" title="wikilink">6월 7일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/6월_12일" title="wikilink">6월 12일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
+<li><a href="../Page/6월_7일.md" title="wikilink">6월 7일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
+<li><a href="../Page/6월_12일.md" title="wikilink">6월 12일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
 </ul></li>
 <li><strong>BOOM</strong> - NCT DREAM (총 2회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/8월_6일" title="wikilink">8월 6일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스</li>
-<li><a href="https://ko.wikipedia.org/wiki/8월_20일" title="wikilink">8월 20일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 (통산 2주)</li>
+<li><a href="../Page/8월_6일.md" title="wikilink">8월 6일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스</li>
+<li><a href="../Page/8월_20일.md" title="wikilink">8월 20일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 (통산 2주)</li>
 </ul></li>
 </ul></td>
 </tr>

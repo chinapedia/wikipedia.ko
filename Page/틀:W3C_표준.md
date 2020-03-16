@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [:W3C ](https://ko.wikipedia.org/wiki/:W3C_).
 
 
-{{둘러보기 상자 | name = W3C 표준 | state =  | title = [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink") | listclass = hlist
+{{둘러보기 상자 | name = W3C 표준 | state =  | title = [W3C](../Page/W3C.md "wikilink") | listclass = hlist
 
 | group1 = 제품 및 표준 | list1 =
 
@@ -15,7 +15,7 @@
   - [CERN httpd](https://ko.wikipedia.org/wiki/CERN_httpd "wikilink")
   - [Libwww](../Page/Libwww.md "wikilink")
 
-` | group2 = `[`브라우저`](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink")
+` | group2 = `[`브라우저`](../Page/웹_브라우저.md "wikilink")
 ` | list2 =`
 
   - [라인 모드 {{작게](https://ko.wikipedia.org/wiki/라인_모드_브라우저 "wikilink")

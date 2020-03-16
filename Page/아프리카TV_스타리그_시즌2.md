@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [TV  2](https://ko.wikipedia.org/wiki/TV__2).
 
 
-**아프리카TV 스타리그 시즌2는** [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink") 리그인 [아프리카TV 스타리그의](../Page/아프리카TV_스타리그.md "wikilink") 두번째 대회이다. [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink")와 [콩두컴퍼니](../Page/콩두컴퍼니.md "wikilink")가 공동으로 진행하였으며, [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV "wikilink"), [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") 등으로 송출됐다.
+**아프리카TV 스타리그 시즌2는** [대한민국](../Page/대한민국.md "wikilink")의 [스타크래프트](../Page/스타크래프트.md "wikilink") 리그인 [아프리카TV 스타리그의](../Page/아프리카TV_스타리그.md "wikilink") 두번째 대회이다. [아프리카TV](../Page/아프리카TV.md "wikilink")와 [콩두컴퍼니](../Page/콩두컴퍼니.md "wikilink")가 공동으로 진행하였으며, [아프리카TV](../Page/아프리카TV.md "wikilink"), [유튜브](../Page/유튜브.md "wikilink") 등으로 송출됐다.
 
 2016년 11월 26일 서울 예선전을 시작으로 다음해 2017년 1월 22일 결승전으로 리그가 종료됐다. 우승자는 [이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink"), 준우승자는 [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink")이다.
 
 ## 배경
 
-2016년 9월 종료된 [아프리카TV 스타리그 시즌1](../Page/아프리카TV_스타리그_시즌1.md "wikilink") 이후 아프리카TV는 11월 11일 시즌 2 개막을 발표했다.\[1\] 이날 발표에 따르면 ASL 시즌2의 본선(방송경기)은 16강이 아닌 24강부터 시작되며, 24강에서 각조 듀얼 토너먼트([더블 엘리미네이션 토너먼트](https://ko.wikipedia.org/wiki/더블_엘리미네이션_토너먼트 "wikilink")) 방식으로 12명을 가려낸다. 이 12명과 ASL 시즌1의 4강 진출자 4명을 합쳐 16강을 치룬다. 16강은 다시 조별 듀얼 토너먼트로 진행되고 8강부터 결승까지는 [싱글 엘리미네이션 토너먼트로](https://ko.wikipedia.org/wiki/싱글_엘리미네이션_토너먼트 "wikilink") 진행된다.
+2016년 9월 종료된 [아프리카TV 스타리그 시즌1](../Page/아프리카TV_스타리그_시즌1.md "wikilink") 이후 아프리카TV는 11월 11일 시즌 2 개막을 발표했다.\[1\] 이날 발표에 따르면 ASL 시즌2의 본선(방송경기)은 16강이 아닌 24강부터 시작되며, 24강에서 각조 듀얼 토너먼트([더블 엘리미네이션 토너먼트](../Page/더블_엘리미네이션_토너먼트.md "wikilink")) 방식으로 12명을 가려낸다. 이 12명과 ASL 시즌1의 4강 진출자 4명을 합쳐 16강을 치룬다. 16강은 다시 조별 듀얼 토너먼트로 진행되고 8강부터 결승까지는 [싱글 엘리미네이션 토너먼트로](../Page/싱글_엘리미네이션_토너먼트.md "wikilink") 진행된다.
 
 특히 시즌2는 스타크래프트 1 공식리그가 있던 시절 가장 인기가 있었던 [택뱅리쌍](https://ko.wikipedia.org/wiki/택뱅리쌍 "wikilink") 선수들이 출전한다. 시즌1 당시에는 4명 중 이영호만 출전했다.\[2\]
 
@@ -20,7 +20,7 @@
 
 ### 24강전
 
-예선 통과자 24명이 6개 조로 나뉘어 [더블 엘리미네이션 토너먼트](https://ko.wikipedia.org/wiki/더블_엘리미네이션_토너먼트 "wikilink") 방식으로 조당 2명이 진출했다. 맵은 1,2차전은 벤젠, 승자전과 패자전은 서킷 브레이커, 최종전엔 태풍의 눈이 사용됐다. 조별 순위는 다음과 같다. 앞의 두명은 16강 진출자, 뒤의 두명은 탈락자다.
+예선 통과자 24명이 6개 조로 나뉘어 [더블 엘리미네이션 토너먼트](../Page/더블_엘리미네이션_토너먼트.md "wikilink") 방식으로 조당 2명이 진출했다. 맵은 1,2차전은 벤젠, 승자전과 패자전은 서킷 브레이커, 최종전엔 태풍의 눈이 사용됐다. 조별 순위는 다음과 같다. 앞의 두명은 16강 진출자, 뒤의 두명은 탈락자다.
 
 | 조      | Match1  | Match2 | 승자전     | 패자전     | 최종전     |
 | ------ | ------- | ------ | ------- | ------- | ------- |
@@ -135,11 +135,11 @@
   -
 ### 결승
 
-1월 18일 아프리카TV는 결승전 공지를 올렸다.\[4\] 공지에 따르면 1월 22일 오후 5시, [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink") 대강당에서 [이영호와](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink")의 결승전이 열린다. 또한 관람객 이벤트로 [오버워치](../Page/오버워치.md "wikilink"), [스타크래프트 II: 공허의 유산](https://ko.wikipedia.org/wiki/스타크래프트_II:_공허의_유산 "wikilink") 등 블리자드 엔터테인먼트 관련 상품이 제공된다. 또한 후원사인 [KT](https://ko.wikipedia.org/wiki/KT "wikilink")의 기가 인터넷 회원 전용 좌석도 따로 마련됐다.
+1월 18일 아프리카TV는 결승전 공지를 올렸다.\[4\] 공지에 따르면 1월 22일 오후 5시, [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink") 대강당에서 [이영호와](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink") [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink")의 결승전이 열린다. 또한 관람객 이벤트로 [오버워치](../Page/오버워치.md "wikilink"), [스타크래프트 II: 공허의 유산](../Page/스타크래프트_II:_공허의_유산.md "wikilink") 등 블리자드 엔터테인먼트 관련 상품이 제공된다. 또한 후원사인 [KT](../Page/KT.md "wikilink")의 기가 인터넷 회원 전용 좌석도 따로 마련됐다.
 
-결승전 맵 순서는 데미안2-벤젠-서킷 브레이커-태풍의 눈-데미안2 으로 결정됐다. 테란 대 테란 결승은 [EVER 스타리그 2004](https://ko.wikipedia.org/wiki/EVER_스타리그_2004 "wikilink") [최연성](https://ko.wikipedia.org/wiki/최연성 "wikilink") 대 [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink") 이후 13년만에 성사됐다.
+결승전 맵 순서는 데미안2-벤젠-서킷 브레이커-태풍의 눈-데미안2 으로 결정됐다. 테란 대 테란 결승은 [EVER 스타리그 2004](../Page/EVER_스타리그_2004.md "wikilink") [최연성](../Page/최연성.md "wikilink") 대 [임요환](../Page/임요환.md "wikilink") 이후 13년만에 성사됐다.
 
-이영호의 경우 스타크래프트1 공식리그 시절부터 수차례 우승을 하며 최고의 테란 선수로 꼽히는 반면, 염보성은 [프로리그에서만](https://ko.wikipedia.org/wiki/스타크래프트_프로리그 "wikilink") 좋은 성적을 거뒀을 뿐 개인 리그 결승전에 진출한 바 없었다. 한편 ASL 시즌 1 16강 C조에서는 염보성이 이영호를 이긴 바 있다.
+이영호의 경우 스타크래프트1 공식리그 시절부터 수차례 우승을 하며 최고의 테란 선수로 꼽히는 반면, 염보성은 [프로리그에서만](../Page/스타크래프트_프로리그.md "wikilink") 좋은 성적을 거뒀을 뿐 개인 리그 결승전에 진출한 바 없었다. 한편 ASL 시즌 1 16강 C조에서는 염보성이 이영호를 이긴 바 있다.
 
 **결승전 - 염보성(T) \[1\] VS \[3\] 이영호(T)**
 

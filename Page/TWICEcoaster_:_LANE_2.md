@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [TWICEcoaster : LANE 2](https://ko.wikipedia.org/wiki/TWICEcoaster_:_LANE_2).
 
 
-《**TWICEcoaster : LANE 2**》(트와이스코스터 레인 투)는 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 세 번째 EP 《[TWICEcoaster : LANE 1](../Page/TWICEcoaster_:_LANE_1.md "wikilink")》의 리패키지 앨범이다. 타이틀곡은 〈**KNOCK KNOCK**〉이며, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 20일에](https://ko.wikipedia.org/wiki/2월_20일 "wikilink") 발매되었다.
+《**TWICEcoaster : LANE 2**》(트와이스코스터 레인 투)는 [걸 그룹](../Page/걸_그룹.md "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 세 번째 EP 《[TWICEcoaster : LANE 1](../Page/TWICEcoaster_:_LANE_1.md "wikilink")》의 리패키지 앨범이다. 타이틀곡은 〈**KNOCK KNOCK**〉이며, [2017년](../Page/2017년.md "wikilink") [2월 20일에](../Page/2월_20일.md "wikilink") 발매되었다.
 
-2017년 2월 21일, "KNOCK KNOCK" 뮤직비디오가 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") 공개 하루 만에 1000만 조회수를 기록해 최단 시간 기록을 경신했다. 종전 1위는 "TT"로 공개 40시간만에 1000만 조회수를 경신했었다.\[1\] 2017년 5월 20일, "KNOCK KNOCK" 뮤직비디오가 유튜브 1억 조회수를 돌파했다.\[2\]
+2017년 2월 21일, "KNOCK KNOCK" 뮤직비디오가 [유튜브](../Page/유튜브.md "wikilink") 공개 하루 만에 1000만 조회수를 기록해 최단 시간 기록을 경신했다. 종전 1위는 "TT"로 공개 40시간만에 1000만 조회수를 경신했었다.\[1\] 2017년 5월 20일, "KNOCK KNOCK" 뮤직비디오가 유튜브 1억 조회수를 돌파했다.\[2\]
 
 ## 수록곡
 
@@ -43,9 +43,9 @@
 
 ## 외부 링크
 
-  - [TWICEcoaster : LANE 2](https://web.archive.org/web/20170614214939/http://music.naver.com/album/index.nhn?albumId=1785617) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
+  - [TWICEcoaster : LANE 2](https://web.archive.org/web/20170614214939/http://music.naver.com/album/index.nhn?albumId=1785617) - [네이버](../Page/네이버.md "wikilink") 뮤직
 
-  - [TWICEcoaster : LANE 2](https://web.archive.org/web/20170221160109/http://www.melon.com/album/detail.htm?albumId=10040060) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(온라인_음악_서비스\) "wikilink")
+  - [TWICEcoaster : LANE 2](https://web.archive.org/web/20170221160109/http://www.melon.com/album/detail.htm?albumId=10040060) - [멜론](../Page/멜론_\(온라인_음악_서비스\).md "wikilink")
 
   -
   -

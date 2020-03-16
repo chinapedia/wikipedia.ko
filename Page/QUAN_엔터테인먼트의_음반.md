@@ -9,8 +9,8 @@
   - 2012년 3월 22일 하하 - **Acoustic Tuning Time**\[2\]
   - 2012년 6월 19일 하하 - **\[Digital Single\] 아카시아**\[3\]
   - 2012년 7월 30일 하하 - **Acoustic Tuning Time (Repackage)**\[4\]
-  - 2012년 7월 30일 [스컬](https://ko.wikipedia.org/wiki/스컬_\(가수\) "wikilink")&하하 - **Ya Man\!\!**
-  - 2012년 8월 28일 [별](https://ko.wikipedia.org/wiki/별_\(가수\) "wikilink") - **골든타임 OST Part.6**\[5\]
+  - 2012년 7월 30일 [스컬](../Page/스컬_\(가수\).md "wikilink")&하하 - **Ya Man\!\!**
+  - 2012년 8월 28일 [별](../Page/별_\(가수\).md "wikilink") - **골든타임 OST Part.6**\[5\]
   - 2012년 10월 24일 별 - **\[Digital Single\] 귀여워**\[6\]
   - 2012년 11월 8일 별 - **NOSTALGIA**\[7\]
   - 2012년 12월 5일 별 - **보고싶다 OST Part.3**
@@ -19,7 +19,7 @@
   - 2013년 2월 21일 별 - **Love In Memory OST Part.1**
   - 2013년 5월 31일 별 - **\[Digital Single\] 넌 최고야**
   - 2013년 6월 27일 스컬&하하 - **\[Digital Single\] REGGAErilla**\[8\]
-  - 2013년 7월 24일 [프리스타일](https://ko.wikipedia.org/wiki/프리스타일_\(음악_그룹\) "wikilink") - **\[Digital Single\] 썸머시즌**
+  - 2013년 7월 24일 [프리스타일](../Page/프리스타일_\(음악_그룹\).md "wikilink") - **\[Digital Single\] 썸머시즌**
   - 2013년 7월 25일 별 - **아직 헤어지지 않았기 때문에 (SNS 드라마) OST Part.2**
   - 2013년 11월 22일 스컬&하하 - **\[Digital Single\] brilliant is**\[9\]
   - 2013년 12월 12일 프리스타일 - **\[Digital Single\] Winter Song**
@@ -99,17 +99,17 @@
 6.  별 미니 2집의 선공개곡.
 7.  별의 데뷔 10주년 앨범.
 8.  최초의 19금 앨범.
-9.  [매드 클라운](https://ko.wikipedia.org/wiki/매드_클라운 "wikilink"), [긱스](https://ko.wikipedia.org/wiki/긱스_\(남성_듀오\) "wikilink"), [허경환](https://ko.wikipedia.org/wiki/허경환 "wikilink"), [스윙스](https://ko.wikipedia.org/wiki/스윙스 "wikilink"), [더블케이](https://ko.wikipedia.org/wiki/더블케이 "wikilink"), [소울 다이브](https://ko.wikipedia.org/wiki/소울_다이브 "wikilink"), [지조](../Page/지조.md "wikilink"), [김지민](https://ko.wikipedia.org/wiki/김지민 "wikilink"), [블락비](https://ko.wikipedia.org/wiki/블락비 "wikilink")의 멤버 [지코](https://ko.wikipedia.org/wiki/지코 "wikilink")도 앨범 참여.
-10. [바스코](https://ko.wikipedia.org/wiki/바스코_\(래퍼\) "wikilink"), [로꼬](https://ko.wikipedia.org/wiki/로꼬 "wikilink")도 앨범 참여.
-11. [걸스데이](https://ko.wikipedia.org/wiki/걸스데이 "wikilink")의 멤버 [민아도](https://ko.wikipedia.org/wiki/민아_\(1993년_5월\) "wikilink") 앨범 참여.
+9.  [매드 클라운](../Page/매드_클라운.md "wikilink"), [긱스](https://ko.wikipedia.org/wiki/긱스_\(남성_듀오\) "wikilink"), [허경환](../Page/허경환.md "wikilink"), [스윙스](../Page/스윙스.md "wikilink"), [더블케이](https://ko.wikipedia.org/wiki/더블케이 "wikilink"), [소울 다이브](https://ko.wikipedia.org/wiki/소울_다이브 "wikilink"), [지조](../Page/지조.md "wikilink"), [김지민](https://ko.wikipedia.org/wiki/김지민 "wikilink"), [블락비](../Page/블락비.md "wikilink")의 멤버 [지코](../Page/지코.md "wikilink")도 앨범 참여.
+10. [바스코](https://ko.wikipedia.org/wiki/바스코_\(래퍼\) "wikilink"), [로꼬](../Page/로꼬.md "wikilink")도 앨범 참여.
+11. [걸스데이](../Page/걸스데이.md "wikilink")의 멤버 [민아도](../Page/민아_\(1993년_5월\).md "wikilink") 앨범 참여.
 12. [오마이걸](../Page/오마이걸.md "wikilink")도 앨범 참여.
 13. [쿤타](https://ko.wikipedia.org/wiki/쿤타 "wikilink")도 앨범 참여.
 14. [씨잼](../Page/씨잼.md "wikilink")도 앨범 참여.
 15. [타이거JK](https://ko.wikipedia.org/wiki/타이거JK "wikilink")도 앨범 참여.
 16. [이선빈](../Page/이선빈.md "wikilink")도 앨범 참여.
-17. [이동민](https://ko.wikipedia.org/wiki/이동민 "wikilink"),[조원우](https://ko.wikipedia.org/wiki/조원우 "wikilink")도 앨범 참여.
+17. [이동민](https://ko.wikipedia.org/wiki/이동민 "wikilink"),[조원우](../Page/조원우.md "wikilink")도 앨범 참여.
 18. [쿤타](https://ko.wikipedia.org/wiki/쿤타 "wikilink")도 앨범 참여.
 19. 7월 컴백을 앞서 선공개곡이다.
 20. 스컬&하하 변경된 팀 명
-21. [양홍원](https://ko.wikipedia.org/wiki/양홍원 "wikilink"),[펀치넬로](https://ko.wikipedia.org/wiki/펀치넬로 "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink") 외 9명도 앨범 참여.
-22. [015B](https://ko.wikipedia.org/wiki/015B "wikilink")도 앨범 참여.
+21. [양홍원](../Page/양홍원.md "wikilink"),[펀치넬로](../Page/펀치넬로.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink") 외 9명도 앨범 참여.
+22. [015B](../Page/015B.md "wikilink")도 앨범 참여.

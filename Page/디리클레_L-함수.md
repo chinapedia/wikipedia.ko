@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ L-](https://ko.wikipedia.org/wiki/_L-).
 
 
-**디리클레 L-함수**(Dirichlet L-Function)의 [디리클레 급수](https://ko.wikipedia.org/wiki/디리클레_급수 "wikilink")(Dirichlet Series)형식은,
+**디리클레 L-함수**(Dirichlet L-Function)의 [디리클레 급수](../Page/디리클레_급수.md "wikilink")(Dirichlet Series)형식은,
 
-\[L_k(s,\chi) = \sum_{n=1}^{\infty} {{\chi_{k}(n)} \over {n^{s}}}\] \(\qquad   \chi_{k}(n)\)는 [디리클레 지표](../Page/디리클레_지표.md "wikilink") 디리클레 L-함수는 다른 [L-함수](../Page/L-함수.md "wikilink")계열처럼 가산(덧셈)과 곱셈의 수학적 상관관계를 직접적으로 보여주는 [리만 제타 함수를](https://ko.wikipedia.org/wiki/리만_제타_함수 "wikilink") 근간으로 하는 특수 함수이다.
+\[L_k(s,\chi) = \sum_{n=1}^{\infty} {{\chi_{k}(n)} \over {n^{s}}}\] \(\qquad   \chi_{k}(n)\)는 [디리클레 지표](../Page/디리클레_지표.md "wikilink") 디리클레 L-함수는 다른 [L-함수](../Page/L-함수.md "wikilink")계열처럼 가산(덧셈)과 곱셈의 수학적 상관관계를 직접적으로 보여주는 [리만 제타 함수를](../Page/리만_제타_함수.md "wikilink") 근간으로 하는 특수 함수이다.
 
-[소수는](https://ko.wikipedia.org/wiki/소수_\(수론\) "wikilink") 리만 제타 함수에서 보여지듯이 가산과 곱셈사이의 연결을 이해하는 중요한 정보이다.
+[소수는](../Page/소수_\(수론\).md "wikilink") 리만 제타 함수에서 보여지듯이 가산과 곱셈사이의 연결을 이해하는 중요한 정보이다.
 
-[디리클레가](https://ko.wikipedia.org/wiki/페터_구스타프_르죈_디리클레 "wikilink") 무한히 많은 소수들이 포함되어 있음을 증명하는 [디리클레 등차수열 정리에서](https://ko.wikipedia.org/wiki/디리클레_등차수열_정리 "wikilink") 디리클레 L-함수(Dirichlet L-Function)를 사용했다.
+[디리클레가](../Page/페터_구스타프_르죈_디리클레.md "wikilink") 무한히 많은 소수들이 포함되어 있음을 증명하는 [디리클레 등차수열 정리에서](https://ko.wikipedia.org/wiki/디리클레_등차수열_정리 "wikilink") 디리클레 L-함수(Dirichlet L-Function)를 사용했다.
 
   - [디리클레 베타 함수](../Page/디리클레_베타_함수.md "wikilink")
 
@@ -17,7 +17,7 @@
 
 \[L_{-4} (1)= {1\over4}\pi\]
 
-  - [리만 제타 함수](https://ko.wikipedia.org/wiki/리만_제타_함수 "wikilink")
+  - [리만 제타 함수](../Page/리만_제타_함수.md "wikilink")
 
 \[\zeta(s) = L_{+1} (s)\]
 
@@ -27,7 +27,7 @@
 
 \[\lambda(s)= \sum_{n=0}^{\infty} {{1}\over{(2n+1)^s}}\]
 
-\[\lambda(s)= (1-2^{-s}) \zeta(s)\] \(\qquad , \zeta(s)\)[리만 제타 함수](https://ko.wikipedia.org/wiki/리만_제타_함수 "wikilink")
+\[\lambda(s)= (1-2^{-s}) \zeta(s)\] \(\qquad , \zeta(s)\)[리만 제타 함수](../Page/리만_제타_함수.md "wikilink")
 
 따라서,
 
@@ -45,7 +45,7 @@
 
 ## 다른 함수와의 연관성
 
-[모듈러 함수와](https://ko.wikipedia.org/wiki/모듈러_형식 "wikilink") [푸리에 급수와의](https://ko.wikipedia.org/wiki/푸리에_급수 "wikilink") 연관성\[1\]
+[모듈러 함수와](../Page/모듈러_형식.md "wikilink") [푸리에 급수와의](../Page/푸리에_급수.md "wikilink") 연관성\[1\]
 
 \[f(\tau) = \sum_{n=0}^{\infty} c(n)e^{2\pi i \tau n}\]
 
@@ -53,7 +53,7 @@
 
 \[f \left( {{a \tau +b}\over{c \tau +d}} \right) = (c \tau +d)^k f(\tau)\]
 
-\[\begin{vmatrix}  a & b  \\ c & d  \end{vmatrix}\] [모듈러 군의](https://ko.wikipedia.org/wiki/모듈러_군 "wikilink") 감마\((\Gamma)\) 멤버이다.
+\[\begin{vmatrix}  a & b  \\ c & d  \end{vmatrix}\] [모듈러 군의](../Page/모듈러_군.md "wikilink") 감마\((\Gamma)\) 멤버이다.
 
 ## 특수값
 
@@ -84,7 +84,7 @@
 ## 함께보기
 
   - [디리클레 등차수열 정리](https://ko.wikipedia.org/wiki/디리클레_등차수열_정리 "wikilink")
-  - [리만 제타 함수](https://ko.wikipedia.org/wiki/리만_제타_함수 "wikilink")
+  - [리만 제타 함수](../Page/리만_제타_함수.md "wikilink")
   - [후르비츠 제타 함수](../Page/후르비츠_제타_함수.md "wikilink")
   - [L-함수](../Page/L-함수.md "wikilink")
 

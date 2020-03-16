@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
 
 
-**TV로 보는 원작동화**는 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")부터 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")까지 [EBS TV](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")(현 [EBS 1TV](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink"))에서 방영되었던 어린이 드라마다. 2011년 4월 부활했으나 4개월만에 종영되었다. 주로 어린이 창작동화를 바탕으로 각색한 작품이다.
+**TV로 보는 원작동화**는 [2002년](../Page/2002년.md "wikilink")부터 [2003년](../Page/2003년.md "wikilink")까지 [EBS TV](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")(현 [EBS 1TV](../Page/EBS_1TV.md "wikilink"))에서 방영되었던 어린이 드라마다. 2011년 4월 부활했으나 4개월만에 종영되었다. 주로 어린이 창작동화를 바탕으로 각색한 작품이다.
 
 ## 방송 시간
 
@@ -27,7 +27,7 @@
 <td><p>1</p></td>
 <td><p>3월 1일</p></td>
 <td><p>나쁜 어린이표</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정선경" title="wikilink">정선경</a>, 유동균, 이기룡, 김재영</p></td>
+<td><p><a href="../Page/정선경.md" title="wikilink">정선경</a>, 유동균, 이기룡, 김재영</p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>황선미</p></td>
@@ -47,7 +47,7 @@
 <td><p>3</p></td>
 <td><p>3월 15일 ~ 3월 22일</p></td>
 <td><p>세상에서 가장 친한 친구</p></td>
-<td><p>안현정, 박훈정, <a href="https://ko.wikipedia.org/wiki/최태준" title="wikilink">최태준</a></p></td>
+<td><p>안현정, 박훈정, <a href="../Page/최태준.md" title="wikilink">최태준</a></p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>이경혜</p></td>
@@ -69,7 +69,7 @@
 <td><p>5</p></td>
 <td><p>5월 3일 ~ 5월 10일</p></td>
 <td><p>마법의 빨간 립스틱</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/임채원" title="wikilink">임경옥</a>, 이은비, 강성현, 김세명</p></td>
+<td><p><a href="../Page/임채원.md" title="wikilink">임경옥</a>, 이은비, 강성현, 김세명</p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>공지희</p></td>
@@ -89,7 +89,7 @@
 <td><p>7</p></td>
 <td><p>5월 31일</p></td>
 <td><p>멋진 내 남자친구</p></td>
-<td><p><a href="../Page/서지희_(1990년).md" title="wikilink">서지희</a>, 박훈정, <a href="https://ko.wikipedia.org/wiki/곽정욱" title="wikilink">곽정욱</a>, 남궁진, <a href="https://ko.wikipedia.org/wiki/민_(가수)" title="wikilink">이민영</a></p></td>
+<td><p><a href="../Page/서지희_(1990년).md" title="wikilink">서지희</a>, 박훈정, <a href="../Page/곽정욱.md" title="wikilink">곽정욱</a>, 남궁진, <a href="../Page/민_(가수).md" title="wikilink">이민영</a></p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>이미애</p></td>
@@ -112,7 +112,7 @@
 <td><p>이지영, 박소진, <a href="https://ko.wikipedia.org/wiki/김유리_(1991년_6월)" title="wikilink">김유리</a>, 박훈정,<br />
 서민지, 정가람, 지종민, 김종민,<br />
 김준형, 한보연, 어은비, 양지운,<br />
-<a href="../Page/박형선.md" title="wikilink">박형선</a>, <a href="https://ko.wikipedia.org/wiki/이신재" title="wikilink">이신재</a>, <a href="../Page/김소원_(배우).md" title="wikilink">김소원</a></p></td>
+<a href="../Page/박형선.md" title="wikilink">박형선</a>, <a href="../Page/이신재.md" title="wikilink">이신재</a>, <a href="../Page/김소원_(배우).md" title="wikilink">김소원</a></p></td>
 <td><p>김연신</p></td>
 <td><p>이상범</p></td>
 <td><p>문선이</p></td>
@@ -133,7 +133,7 @@
 <td><p>11</p></td>
 <td><p>7월 26일</p></td>
 <td><p>교실 속의 로빈슨 크루소</p></td>
-<td><p>오승준, 윤정근, <a href="https://ko.wikipedia.org/wiki/이세영_(배우)" title="wikilink">이세영</a>, 김세명</p></td>
+<td><p>오승준, 윤정근, <a href="../Page/이세영_(배우).md" title="wikilink">이세영</a>, 김세명</p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>박명희</p></td>
@@ -144,7 +144,7 @@
 <td><p>8월 2일 ~ 8월 23일,<br />
 8월 28일</p></td>
 <td><p>버드내 아이들</p></td>
-<td><p>정은지, <a href="https://ko.wikipedia.org/wiki/류덕환" title="wikilink">류덕환</a>, 성인규, 이찬호,<br />
+<td><p>정은지, <a href="../Page/류덕환.md" title="wikilink">류덕환</a>, 성인규, 이찬호,<br />
 오예림, 이상훈</p></td>
 <td><p>김연신</p></td>
 <td><p>이상범</p></td>
@@ -155,7 +155,7 @@
 <td><p>13</p></td>
 <td><p>9월 4일</p></td>
 <td><p>비행기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이재응" title="wikilink">이재응</a></p></td>
+<td><p><a href="../Page/이재응.md" title="wikilink">이재응</a></p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td></td>
@@ -176,8 +176,8 @@
 <td><p>9월 11일 ~ 9월 18일</p></td>
 <td><p>네 편이 되어줄게</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김유리_(1991년_6월)" title="wikilink">김유리</a>, 이지영, 김학준, 김송이,<br />
-<a href="https://ko.wikipedia.org/wiki/박건태" title="wikilink">박건태</a>, <a href="https://ko.wikipedia.org/wiki/민_(가수)" title="wikilink">이민영</a>, 이민지, <a href="../Page/차기환.md" title="wikilink">차기환</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/김미정_(배우)" title="wikilink">김미정</a>, 이현실, <a href="../Page/전정희_(배우).md" title="wikilink">전정희</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/박건태" title="wikilink">박건태</a>, <a href="../Page/민_(가수).md" title="wikilink">이민영</a>, 이민지, <a href="../Page/차기환.md" title="wikilink">차기환</a>,<br />
+<a href="../Page/김미정_(배우).md" title="wikilink">김미정</a>, 이현실, <a href="../Page/전정희_(배우).md" title="wikilink">전정희</a></p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>이영옥</p></td>
@@ -269,7 +269,7 @@
 <td><p>22</p></td>
 <td><p>1월 8일 ~ 1월 15일</p></td>
 <td><p>나는 지금 네가 보고 싶어</p></td>
-<td><p>김지은, <a href="https://ko.wikipedia.org/wiki/정인선" title="wikilink">정인선</a>, <a href="https://ko.wikipedia.org/wiki/강문희" title="wikilink">강문희</a>, 김승환,<br />
+<td><p>김지은, <a href="../Page/정인선.md" title="wikilink">정인선</a>, <a href="https://ko.wikipedia.org/wiki/강문희" title="wikilink">강문희</a>, 김승환,<br />
 권혁호, <a href="https://ko.wikipedia.org/wiki/길수현" title="wikilink">길수현</a>, 고용화, 이영희</p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
@@ -280,7 +280,7 @@
 <td><p>23</p></td>
 <td><p>1월 22일 ~ 1월 29일</p></td>
 <td><p>자전거 도둑</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/곽정욱" title="wikilink">곽정욱</a>, <a href="https://ko.wikipedia.org/wiki/이홍기" title="wikilink">이홍기</a>, 김태언</p></td>
+<td><p><a href="../Page/곽정욱.md" title="wikilink">곽정욱</a>, <a href="https://ko.wikipedia.org/wiki/이홍기" title="wikilink">이홍기</a>, 김태언</p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>양해원</p></td>
@@ -300,9 +300,9 @@
 <td><p>25</p></td>
 <td><p>2월 26일 ~ 3월 19일</p></td>
 <td><p>악마의 유혹</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이홍기" title="wikilink">이홍기</a>, <a href="https://ko.wikipedia.org/wiki/류덕환" title="wikilink">류덕환</a>, <a href="https://ko.wikipedia.org/wiki/박가령" title="wikilink">박지미</a>, <a href="../Page/장기범_(배우).md" title="wikilink">장기범</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/장다윤" title="wikilink">장선영</a>, 이대진, 이상훈, 이원국,<br />
-<a href="../Page/윤순홍.md" title="wikilink">윤순홍</a>, <a href="https://ko.wikipedia.org/wiki/신신애" title="wikilink">신신애</a>, <a href="https://ko.wikipedia.org/wiki/박종관" title="wikilink">박종관</a>, 손준영,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/이홍기" title="wikilink">이홍기</a>, <a href="../Page/류덕환.md" title="wikilink">류덕환</a>, <a href="../Page/박가령.md" title="wikilink">박지미</a>, <a href="../Page/장기범_(배우).md" title="wikilink">장기범</a>,<br />
+<a href="../Page/장다윤.md" title="wikilink">장선영</a>, 이대진, 이상훈, 이원국,<br />
+<a href="../Page/윤순홍.md" title="wikilink">윤순홍</a>, <a href="../Page/신신애.md" title="wikilink">신신애</a>, <a href="../Page/박종관.md" title="wikilink">박종관</a>, 손준영,<br />
 홍성용</p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
@@ -313,8 +313,8 @@
 <td><p>26</p></td>
 <td><p>3월 26일 ~ 4월 16일</p></td>
 <td><p>아빠에게 여자가 생겼어요</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윤승원_(배우)" title="wikilink">윤승원</a>, <a href="https://ko.wikipedia.org/wiki/배민희_(배우)" title="wikilink">배민희</a>, 정은지, 유태균,<br />
-<a href="../Page/조중휘.md" title="wikilink">조중휘</a>, <a href="https://ko.wikipedia.org/wiki/이희도" title="wikilink">이희도</a>, 이현실</p></td>
+<td><p><a href="../Page/윤승원_(배우).md" title="wikilink">윤승원</a>, <a href="https://ko.wikipedia.org/wiki/배민희_(배우)" title="wikilink">배민희</a>, 정은지, 유태균,<br />
+<a href="../Page/조중휘.md" title="wikilink">조중휘</a>, <a href="../Page/이희도.md" title="wikilink">이희도</a>, 이현실</p></td>
 <td><p>김연신</p></td>
 <td><p>이상범</p></td>
 <td></td>
@@ -335,7 +335,7 @@
 <td><p>28</p></td>
 <td><p>5월 7일 ~ 5월 14일</p></td>
 <td><p>아름다운 5월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이홍기" title="wikilink">이홍기</a>, <a href="https://ko.wikipedia.org/wiki/정인선" title="wikilink">정인선</a>, 한선구, <a href="../Page/장기범_(배우).md" title="wikilink">장기범</a>,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/이홍기" title="wikilink">이홍기</a>, <a href="../Page/정인선.md" title="wikilink">정인선</a>, 한선구, <a href="../Page/장기범_(배우).md" title="wikilink">장기범</a>,<br />
 오현섭, 장희수, 김영선, 유준석,<br />
 고진명</p></td>
 <td><p>김미경</p></td>
@@ -360,7 +360,7 @@
 <td><p>30</p></td>
 <td><p>6월 11일 ~ 6월 18일</p></td>
 <td><p>피아노</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유현지_(배우)" title="wikilink">유현지</a>, 이지영, 김송이, 이지은,<br />
+<td><p><a href="../Page/유현지_(배우).md" title="wikilink">유현지</a>, 이지영, 김송이, 이지은,<br />
 정선일, 이경아, 안영주, 고용화,<br />
 이경원, 최정식</p></td>
 <td></td>
@@ -372,7 +372,7 @@
 <td><p>31</p></td>
 <td><p>6월 25일 ~ 7월 9일</p></td>
 <td><p>바다 교향곡</p></td>
-<td><p>정윤희, 김경민, <a href="https://ko.wikipedia.org/wiki/류덕환" title="wikilink">류덕환</a>, 이기룡,<br />
+<td><p>정윤희, 김경민, <a href="../Page/류덕환.md" title="wikilink">류덕환</a>, 이기룡,<br />
 오예림, 이원국, 박순천, 강인덕,<br />
 봉원응, 금준희, 신신범</p></td>
 <td></td>
@@ -406,7 +406,7 @@
 <td><p>34</p></td>
 <td><p>8월 13일 ~ 8월 20일</p></td>
 <td><p>소녀들의 여름방학</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김유리_(1991년_6월)" title="wikilink">김유리</a>, 김지은, <a href="https://ko.wikipedia.org/wiki/유현지_(배우)" title="wikilink">유현지</a>, <a href="https://ko.wikipedia.org/wiki/정인선" title="wikilink">정인선</a>,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/김유리_(1991년_6월)" title="wikilink">김유리</a>, 김지은, <a href="../Page/유현지_(배우).md" title="wikilink">유현지</a>, <a href="../Page/정인선.md" title="wikilink">정인선</a>,<br />
 <a href="../Page/장기범_(배우).md" title="wikilink">장기범</a>, 이다혜, <a href="https://ko.wikipedia.org/wiki/이홍기" title="wikilink">이홍기</a>, 손준영,<br />
 민경천, 유태균, 오승준</p></td>
 <td><p>김미경</p></td>

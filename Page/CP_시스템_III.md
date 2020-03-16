@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [CP  III](https://ko.wikipedia.org/wiki/CP__III).
 
 
-**CP 시스템 III**(, )은 [캡콤](https://ko.wikipedia.org/wiki/캡콤 "wikilink")이 개발한 [아케이드 기판으로](https://ko.wikipedia.org/wiki/아케이드_기판 "wikilink"), [CP 시스템과](../Page/CP_시스템.md "wikilink") [CP 시스템 II의](../Page/CP_시스템_II.md "wikilink") 후속 제품이다. 약칭 **CPS-3**로 쓰이며, 1996년에 발매한 [워저드](https://ko.wikipedia.org/wiki/워저드 "wikilink")부터 시작해 1999년의 [죠죠의 기묘한 모험: 미래로의 유산까지](https://ko.wikipedia.org/wiki/죠죠의_기묘한_모험:_미래로의_유산 "wikilink") 총 6개의 게임이 이 기판으로 발매됐다. 이 기판을 마지막으로 캡콤은 기판을 자체 제작하지 않고 [드림캐스트](https://ko.wikipedia.org/wiki/드림캐스트 "wikilink") 기판 기판인 [세가 나오미로](https://ko.wikipedia.org/wiki/세가_나오미 "wikilink") 개발 플랫폼을 옮겼다.
+**CP 시스템 III**(, )은 [캡콤](../Page/캡콤.md "wikilink")이 개발한 [아케이드 기판으로](../Page/아케이드_기판.md "wikilink"), [CP 시스템과](../Page/CP_시스템.md "wikilink") [CP 시스템 II의](../Page/CP_시스템_II.md "wikilink") 후속 제품이다. 약칭 **CPS-3**로 쓰이며, 1996년에 발매한 [워저드](https://ko.wikipedia.org/wiki/워저드 "wikilink")부터 시작해 1999년의 [죠죠의 기묘한 모험: 미래로의 유산까지](https://ko.wikipedia.org/wiki/죠죠의_기묘한_모험:_미래로의_유산 "wikilink") 총 6개의 게임이 이 기판으로 발매됐다. 이 기판을 마지막으로 캡콤은 기판을 자체 제작하지 않고 [드림캐스트](../Page/드림캐스트.md "wikilink") 기판 기판인 [세가 나오미로](../Page/세가_나오미.md "wikilink") 개발 플랫폼을 옮겼다.
 
 ## 사양
 
-  - 주 [CPU](https://ko.wikipedia.org/wiki/CPU "wikilink"): [히타치](https://ko.wikipedia.org/wiki/히타치_제작소 "wikilink") HD6417099 ([SH-2](https://ko.wikipedia.org/wiki/슈퍼H "wikilink")) @ 25 MHz
+  - 주 [CPU](https://ko.wikipedia.org/wiki/CPU "wikilink"): [히타치](../Page/히타치_제작소.md "wikilink") HD6417099 ([SH-2](https://ko.wikipedia.org/wiki/슈퍼H "wikilink")) @ 25 MHz
   - 저장공간:
-      - [SCSI](https://ko.wikipedia.org/wiki/SCSI "wikilink") [CD-ROM 드라이브](https://ko.wikipedia.org/wiki/CD-ROM "wikilink")
+      - [SCSI](../Page/SCSI.md "wikilink") [CD-ROM 드라이브](../Page/CD-ROM.md "wikilink")
       - [RAM](https://ko.wikipedia.org/wiki/RAM "wikilink") (다양)
-      - [플래시 메모리](https://ko.wikipedia.org/wiki/플래시_메모리 "wikilink"): 8 x 16 [MiB](https://ko.wikipedia.org/wiki/MiB "wikilink")
+      - [플래시 메모리](../Page/플래시_메모리.md "wikilink"): 8 x 16 [MiB](https://ko.wikipedia.org/wiki/MiB "wikilink")
   - 사운드 칩: 16채널 8비트 샘플 플레이어, 스테레오
   - 최대 컬러 팔레트: 1600만 개\[1\]
   - 최대 색상 발색수: 32,768 (15비트 컬러, 555 RGB)
@@ -56,7 +56,7 @@
 </tr>
 <tr class="even">
 <td><p>1998-12-02</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/죠죠의_기묘한_모험" title="wikilink">죠죠의 기묘한 모험</a><br />
+<td><p><a href="../Page/죠죠의_기묘한_모험.md" title="wikilink">죠죠의 기묘한 모험</a><br />
 (ジョジョの奇妙な冒険)</p></td>
 <td><p>조조스 벤처 (JoJo's Venture)</p></td>
 </tr>

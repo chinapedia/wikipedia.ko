@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JMSN](https://ko.wikipedia.org/wiki/JMSN).
 
 
-**JMSN**은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [음악 프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), 뮤직비디오 감독이다.
+**JMSN**은 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [음악 프로듀서](../Page/음악_프로듀서.md "wikilink"), 뮤직비디오 감독이다.
 
 ## 음반 목록
 

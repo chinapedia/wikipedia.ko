@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ H.  ](https://ko.wikipedia.org/wiki/_H.__).
 
 
-**윌리엄 H. "빌" 프라이어**(, [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 소속의 [정치인](https://ko.wikipedia.org/wiki/정치인 "wikilink")이다. 앨라배마 하원의원을 지냈으며 현 하원 원내총무 자리에 있다.
+**윌리엄 H. "빌" 프라이어**(, [1962년](../Page/1962년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink") [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 소속의 [정치인](../Page/정치인.md "wikilink")이다. 앨라배마 하원의원을 지냈으며 현 하원 원내총무 자리에 있다.
 
 ## 외부 링크
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CHIHIRO](https://ko.wikipedia.org/wiki/CHIHIRO).
 
 
-**CHIHIRO**()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")다.
+**CHIHIRO**()는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")다.
 
 ## 프로필
 
-[후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink") 출신의 R\&B 싱어송라이터.
+[후쿠오카현](../Page/후쿠오카현.md "wikilink") 출신의 R\&B 싱어송라이터.
 
 [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink"), [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")로 음악 활동을 시작했다. 2006년부터 가수로의 활동을 시작하고, 2007년 봄에 아날로그 판 한정 싱글 'In the FLOOR'로 데뷔.
 
@@ -19,58 +19,58 @@
 
 ### 싱글
 
-| 집   | 발매일                                                                                                               | 제목                                                                                            |
-| --- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 1st | [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") | **Roller Coaster Love feat. [HI-D](https://ko.wikipedia.org/wiki/HI-D "wikilink")**           |
-| 2nd | [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") | '''Last Kiss '''                                                                              |
-| 3rd | 2009년 [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink")                                                   | **Beautiful feat. Sweep／Bouquet \~계속 둘이서\~**                                                  |
-| 4th | [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 21일](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") | **짝사랑 feat. [GIORGIO 13](https://ko.wikipedia.org/wiki/GIORGIO_13 "wikilink")／Addicted**      |
-| 5th | 2010년 [11월 10일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink")                                                 | **Bye-Bad-Bye／Last Note**                                                                     |
-| 6th | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 18일](https://ko.wikipedia.org/wiki/1월_18일 "wikilink") | **영원 feat. Tarantula from [Spontania](https://ko.wikipedia.org/wiki/Spontania "wikilink")**   |
-| 7th | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink")   | **연애편지 feat. TOC from [Hilcrhyme](https://ko.wikipedia.org/wiki/Hilcrhyme "wikilink")／애니버서리** |
+| 집   | 발매일                                                                         | 제목                                                                                            |
+| --- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1st | [2008년](../Page/2008년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") | **Roller Coaster Love feat. [HI-D](https://ko.wikipedia.org/wiki/HI-D "wikilink")**           |
+| 2nd | [2009년](../Page/2009년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") | '''Last Kiss '''                                                                              |
+| 3rd | 2009년 [10월 7일](../Page/10월_7일.md "wikilink")                                | **Beautiful feat. Sweep／Bouquet \~계속 둘이서\~**                                                  |
+| 4th | [2010년](../Page/2010년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") | **짝사랑 feat. [GIORGIO 13](https://ko.wikipedia.org/wiki/GIORGIO_13 "wikilink")／Addicted**      |
+| 5th | 2010년 [11월 10일](../Page/11월_10일.md "wikilink")                              | **Bye-Bad-Bye／Last Note**                                                                     |
+| 6th | [2012년](../Page/2012년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") | **영원 feat. Tarantula from [Spontania](https://ko.wikipedia.org/wiki/Spontania "wikilink")**   |
+| 7th | [2013년](../Page/2013년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink")   | **연애편지 feat. TOC from [Hilcrhyme](https://ko.wikipedia.org/wiki/Hilcrhyme "wikilink")／애니버서리** |
 
 ### 디지털 한정 싱글
 
-| 집    | 발매일                                                                                                               | 제목                                                                        |
-| ---- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1st  | 2010년 [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink")                                                     | **연정**                                                                    |
-| 2nd  | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 16일](https://ko.wikipedia.org/wiki/3월_16일 "wikilink") | **울어도 돼**                                                                 |
-| 3rd  | 2011년 [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink")                                                   | **Thank You feat. [WISE](https://ko.wikipedia.org/wiki/WISE "wikilink")** |
-| 4th  | 2011년 [7월 27일](https://ko.wikipedia.org/wiki/7월_27일 "wikilink")                                                   | **사랑 불꽃**                                                                 |
-| 5th  | 2011년 [10월 5일](https://ko.wikipedia.org/wiki/10월_5일 "wikilink")                                                   | **Be with you**                                                           |
-| 6th  | 2011년 [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink")                                                 | **Love is…**                                                              |
-| 7th  | 2011년 [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink")                                                 | **4℃**                                                                    |
-| 8th  | 2011년 [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink")                                                   | **Remember December**                                                     |
-| 9th  | 2012년 [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink")                                                   | **Answer**                                                                |
-| 10th | 2012년 [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink")                                                     | **신데렐라**                                                                  |
-| 11th | 2012년 [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink")                                                   | **Love song**                                                             |
-| 12th | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") | **고백**                                                                    |
-| 13th | 2013년 [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink")                                                   | **사랑 비**                                                                  |
-| 14th | 2013년 [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink")                                                 | **붉은 실**                                                                  |
-| 15th | 2013년 [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink")                                                 | **한번 더 \~One more time\~**                                                |
-| 16th | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") | **Present**                                                               |
-| 17th | 2014년 [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink")                                                   | **RESET**                                                                 |
-| 18th | 2014년 [9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink")                                                     | **HOME**                                                                  |
+| 집    | 발매일                                                                         | 제목                                                                        |
+| ---- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1st  | 2010년 [4월 7일](../Page/4월_7일.md "wikilink")                                  | **연정**                                                                    |
+| 2nd  | [2011년](../Page/2011년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink") | **울어도 돼**                                                                 |
+| 3rd  | 2011년 [4월 13일](../Page/4월_13일.md "wikilink")                                | **Thank You feat. [WISE](https://ko.wikipedia.org/wiki/WISE "wikilink")** |
+| 4th  | 2011년 [7월 27일](../Page/7월_27일.md "wikilink")                                | **사랑 불꽃**                                                                 |
+| 5th  | 2011년 [10월 5일](../Page/10월_5일.md "wikilink")                                | **Be with you**                                                           |
+| 6th  | 2011년 [11월 16일](../Page/11월_16일.md "wikilink")                              | **Love is…**                                                              |
+| 7th  | 2011년 [11월 23일](../Page/11월_23일.md "wikilink")                              | **4℃**                                                                    |
+| 8th  | 2011년 [12월 7일](../Page/12월_7일.md "wikilink")                                | **Remember December**                                                     |
+| 9th  | 2012년 [3월 14일](../Page/3월_14일.md "wikilink")                                | **Answer**                                                                |
+| 10th | 2012년 [6월 6일](../Page/6월_6일.md "wikilink")                                  | **신데렐라**                                                                  |
+| 11th | 2012년 [6월 27일](../Page/6월_27일.md "wikilink")                                | **Love song**                                                             |
+| 12th | [2013년](../Page/2013년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") | **고백**                                                                    |
+| 13th | 2013년 [10월 2일](../Page/10월_2일.md "wikilink")                                | **사랑 비**                                                                  |
+| 14th | 2013년 [11월 20일](../Page/11월_20일.md "wikilink")                              | **붉은 실**                                                                  |
+| 15th | 2013년 [12월 18일](../Page/12월_18일.md "wikilink")                              | **한번 더 \~One more time\~**                                                |
+| 16th | [2014년](../Page/2014년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") | **Present**                                                               |
+| 17th | 2014년 [8월 20일](../Page/8월_20일.md "wikilink")                                | **RESET**                                                                 |
+| 18th | 2014년 [9월 3일](../Page/9월_3일.md "wikilink")                                  | **HOME**                                                                  |
 
 ### 앨범
 
-| 집   | 발매일                                                                                                               | 제목                                                                                           |
-| --- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 1st | [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") | **Jewels**                                                                                   |
-| 2nd | 2009년 [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink")                                                 | '''DRESS '''                                                                                 |
-|     | 2011년 [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink")                                                     | **DE;LUXE Beatz by [DJ DECKSTREAM](https://ko.wikipedia.org/wiki/DJ_DECKSTREAM "wikilink")** |
-| 3rd | 2011년 [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink")                                                   | **Love Fragrance**                                                                           |
-| 4th | 2012년 [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink")                                                   | **C is**                                                                                     |
-|     | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink") | **Best 2007-2013**                                                                           |
-| 5th | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink")   | **LOVERS**                                                                                   |
-| 6th | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink")   | **NAMIDA CARATS**                                                                            |
+| 집   | 발매일                                                                         | 제목                                                                                           |
+| --- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 1st | [2007년](../Page/2007년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") | **Jewels**                                                                                   |
+| 2nd | 2009년 [11월 11일](../Page/11월_11일.md "wikilink")                              | '''DRESS '''                                                                                 |
+|     | 2011년 [3월 2일](../Page/3월_2일.md "wikilink")                                  | **DE;LUXE Beatz by [DJ DECKSTREAM](https://ko.wikipedia.org/wiki/DJ_DECKSTREAM "wikilink")** |
+| 3rd | 2011년 [5월 25일](../Page/5월_25일.md "wikilink")                                | **Love Fragrance**                                                                           |
+| 4th | 2012년 [8월 29일](../Page/8월_29일.md "wikilink")                                | **C is**                                                                                     |
+|     | [2013년](../Page/2013년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") | **Best 2007-2013**                                                                           |
+| 5th | [2014년](../Page/2014년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink")   | **LOVERS**                                                                                   |
+| 6th | [2015년](../Page/2015년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink")   | **NAMIDA CARATS**                                                                            |
 
 ### 미니앨범
 
-| 집   | 발매일                                                                                                               | 제목                         |
-| --- | ----------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| 1st | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 17일](https://ko.wikipedia.org/wiki/9월_17일 "wikilink") | **RESET \~다시, 사랑하고 싶도록\~** |
-| 2nd | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") | **짝사랑 집**                  |
+| 집   | 발매일                                                                         | 제목                         |
+| --- | --------------------------------------------------------------------------- | -------------------------- |
+| 1st | [2014년](../Page/2014년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink") | **RESET \~다시, 사랑하고 싶도록\~** |
+| 2nd | [2016년](../Page/2016년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") | **짝사랑 집**                  |
 
 ### 대여 한정 앨범
 
@@ -156,7 +156,7 @@
   - Bye-Bad-Bye
     [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink") 계열 '튼튼히 아카데미\!\!' 2011년 1월 - 3월 엔딩 테마
   - WOMAN
-    [ABC](https://ko.wikipedia.org/wiki/ABC "wikilink"), [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열 'Oh\! 의기양양한 얼굴 회담' 2011년 4월 - 6월 엔딩 테마
+    [ABC](../Page/ABC.md "wikilink"), [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 'Oh\! 의기양양한 얼굴 회담' 2011년 4월 - 6월 엔딩 테마
   - 사랑 불꽃
     요미우리 TV 'The 사냥꾼' 2011년 10월 - 11월 엔딩 테마
   - 4℃

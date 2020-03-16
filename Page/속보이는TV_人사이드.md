@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-《**속보**이는TV **人**사이드》는 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 13일부터](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 1일까지만](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 종영되는 [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 시사교양 프로그램이다.
+《**속보**이는TV **人**사이드》는 [2017년](../Page/2017년.md "wikilink") [4월 13일부터](../Page/4월_13일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [11월 1일까지만](../Page/11월_1일.md "wikilink") 종영되는 [KBS 2TV](../Page/KBS_2TV.md "wikilink") 시사교양 프로그램이다.
 
 ## 기획 의도
 
-사건, 사고 뒤에 가려진 사람의 심리를 분석하고 이해를 돕는 [프로그램](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink")
+사건, 사고 뒤에 가려진 사람의 심리를 분석하고 이해를 돕는 [프로그램](../Page/텔레비전_프로그램.md "wikilink")
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                | 방송 기간                                                                                                                                                                                                                                | 방송 시간                                                                  | 방송 분량 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ----- |
-| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink")                                                                                                                                                                          | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") | 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 밤 8:55 \~ 10:00 | 65분   |
-| [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") |                                                                                                                                                                                                                                      |                                                                        |       |
+| 방송 채널                                                                                                                                                    | 방송 기간                                                                                                                                                    | 방송 시간                                               | 방송 분량 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                                                                                                                 | [2017년](../Page/2017년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") | 매주 [목요일](../Page/목요일.md "wikilink") 밤 8:55 \~ 10:00 | 65분   |
+| [2018년](../Page/2018년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") |                                                                                                                                                          |                                                     |       |
 
 ## 에피소드 목록
 
@@ -80,10 +80,10 @@
 
 ## 편성 변경 및 결방 사유
 
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") : KBS 노동조합 파업의 내부 사정으로 인한 결방
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink") : 월화 미니시리즈 [너도 인간이니](https://ko.wikipedia.org/wiki/너도_인간이니 "wikilink") 특별판 편성
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink") : [자카르타-팔렘방 아시안게임](https://ko.wikipedia.org/wiki/2018년_아시안_게임 "wikilink") 남자 축구 16강전 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") vs[이란](https://ko.wikipedia.org/wiki/이란 "wikilink") 중계방송으로 인한 결방
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") : [자카르타-팔렘방 아시안게임](https://ko.wikipedia.org/wiki/2018년_아시안_게임 "wikilink") 여자 핸드볼 결승 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") vs [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") 중계방송으로 인한 결방
+  - [2017년](../Page/2017년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : KBS 노동조합 파업의 내부 사정으로 인한 결방
+  - [2018년](../Page/2018년.md "wikilink") [6월 21일](../Page/6월_21일.md "wikilink") : 월화 미니시리즈 [너도 인간이니](https://ko.wikipedia.org/wiki/너도_인간이니 "wikilink") 특별판 편성
+  - [2018년](../Page/2018년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") : [자카르타-팔렘방 아시안게임](../Page/2018년_아시안_게임.md "wikilink") 남자 축구 16강전 [대한민국](../Page/대한민국.md "wikilink") vs[이란](../Page/이란.md "wikilink") 중계방송으로 인한 결방
+  - [2018년](../Page/2018년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") : [자카르타-팔렘방 아시안게임](../Page/2018년_아시안_게임.md "wikilink") 여자 핸드볼 결승 [대한민국](../Page/대한민국.md "wikilink") vs [중국](../Page/중국.md "wikilink") 중계방송으로 인한 결방
 
 ## 외부 링크
 

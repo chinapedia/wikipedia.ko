@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OPUS:    ](https://ko.wikipedia.org/wiki/OPUS:____).
 
 
-《**OPUS: 우리가 지구를 발견한 날은**》()은 타이완의 인디 게임 제작사 [SIGONO](https://ko.wikipedia.org/wiki/SIGONO "wikilink")가 제작한 어드벤처 게임이다. 2015년 10월 22일 iOS와 안드로이드 버전으로 출시되었다.\[1\] 이후, [스팀을](https://ko.wikipedia.org/wiki/스팀_\(소프트웨어\) "wikilink") 통해 [윈도우와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") [Mac OS X](https://ko.wikipedia.org/wiki/Mac_OS_X "wikilink") 버전으로도 공개되었다.\[2\]
+《**OPUS: 우리가 지구를 발견한 날은**》()은 타이완의 인디 게임 제작사 [SIGONO](https://ko.wikipedia.org/wiki/SIGONO "wikilink")가 제작한 어드벤처 게임이다. 2015년 10월 22일 iOS와 안드로이드 버전으로 출시되었다.\[1\] 이후, [스팀을](../Page/스팀_\(소프트웨어\).md "wikilink") 통해 [윈도우와](../Page/마이크로소프트_윈도우.md "wikilink") [Mac OS X](https://ko.wikipedia.org/wiki/Mac_OS_X "wikilink") 버전으로도 공개되었다.\[2\]
 
 ## 각주
 

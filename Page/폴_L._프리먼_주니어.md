@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ L.  ](https://ko.wikipedia.org/wiki/_L.__).
 
 
-**폴 L. 프리먼 주니어**(, 1907년 6월 29일 \~ 1988년 4월 17일)는 1962년부터 1965년까지 [미국 육군의](https://ko.wikipedia.org/wiki/미국_육군 "wikilink") 4성 장군으로 복무하면서 [미국 유럽 육군을](../Page/미국_유럽_육군.md "wikilink") 이끌었던 총사령관이었다. [한국 전쟁](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 당시 그는 [지평리 전투와](https://ko.wikipedia.org/wiki/지평리_전투 "wikilink") [제1·2차 원주 전투에서](../Page/제1·2차_원주_전투.md "wikilink") 활약했으며 전쟁이 끝난 이후에는 [미국 국방참모대학교에서](../Page/미국_국방참모대학교.md "wikilink") 일하기도 했다.
+**폴 L. 프리먼 주니어**(, 1907년 6월 29일 \~ 1988년 4월 17일)는 1962년부터 1965년까지 [미국 육군의](../Page/미국_육군.md "wikilink") 4성 장군으로 복무하면서 [미국 유럽 육군을](../Page/미국_유럽_육군.md "wikilink") 이끌었던 총사령관이었다. [한국 전쟁](../Page/한국_전쟁.md "wikilink") 당시 그는 [지평리 전투와](../Page/지평리_전투.md "wikilink") [제1·2차 원주 전투에서](../Page/제1·2차_원주_전투.md "wikilink") 활약했으며 전쟁이 끝난 이후에는 [미국 국방참모대학교에서](../Page/미국_국방참모대학교.md "wikilink") 일하기도 했다.
 
 ## 각주
 

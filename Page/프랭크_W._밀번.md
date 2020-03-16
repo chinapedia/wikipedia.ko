@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
 
 
-**프랭크 W. 밀번**(Frank W. Milburn, 1892년 1월 11일- )은 [제1차 세계 대전](https://ko.wikipedia.org/wiki/제1차_세계_대전 "wikilink"), [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink"), [한국 전쟁에서](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 복무한 미국의 중장이다.
+**프랭크 W. 밀번**(Frank W. Milburn, 1892년 1월 11일- )은 [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink"), [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink"), [한국 전쟁에서](../Page/한국_전쟁.md "wikilink") 복무한 미국의 중장이다.
 
 ## 생애
 
-밀번은 1892년 1월 11일 미국 인디애나 주에서 태어났다. 그는 [미국 육군사관학교를](https://ko.wikipedia.org/wiki/미국_육군사관학교 "wikilink") 나와 1914년 6월 [중위](https://ko.wikipedia.org/wiki/중위 "wikilink")로 진급했다. [제1차 세계 대전](https://ko.wikipedia.org/wiki/제1차_세계_대전 "wikilink") 당시 밀번은 [파나마 운하 지대에서](https://ko.wikipedia.org/wiki/파나마_운하_지대 "wikilink") 복무했다. 이후 그는 여러 보병부대에서 복무했고, 이들 중에는 제5·33·15·28보병여단도 포함되어 있었다.
+밀번은 1892년 1월 11일 미국 인디애나 주에서 태어났다. 그는 [미국 육군사관학교를](https://ko.wikipedia.org/wiki/미국_육군사관학교 "wikilink") 나와 1914년 6월 [중위](https://ko.wikipedia.org/wiki/중위 "wikilink")로 진급했다. [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 당시 밀번은 [파나마 운하 지대에서](https://ko.wikipedia.org/wiki/파나마_운하_지대 "wikilink") 복무했다. 이후 그는 여러 보병부대에서 복무했고, 이들 중에는 제5·33·15·28보병여단도 포함되어 있었다.
 
-전간기에 그는 미국 육군 참모대학교를 졸업해 [준장](https://ko.wikipedia.org/wiki/준장 "wikilink")으로 진급했다. 그는 1942년 8월 미국 제83보병사단의 사단장으로 선택되었다. 밀번은 1943년 12월까지 제83보병사단에서 복무했고, 그는 제21군단을 지휘했다. [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 당시 그는 알렉산더 패치 장군 휘하의 미국 제7군에서 일했고, 그는 1945년 2월 콜마르 포위전에서 큰 역할을 했다. 장 드라트르 드타시니는 그를 이렇게 묘사했다.
+전간기에 그는 미국 육군 참모대학교를 졸업해 [준장](https://ko.wikipedia.org/wiki/준장 "wikilink")으로 진급했다. 그는 1942년 8월 미국 제83보병사단의 사단장으로 선택되었다. 밀번은 1943년 12월까지 제83보병사단에서 복무했고, 그는 제21군단을 지휘했다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 그는 알렉산더 패치 장군 휘하의 미국 제7군에서 일했고, 그는 1945년 2월 콜마르 포위전에서 큰 역할을 했다. 장 드라트르 드타시니는 그를 이렇게 묘사했다.
 
 > 프랭크 W. 밀번이 1월 25일 10시에 로타우에 도착했을 때, 저는 그의 호리호리하고 근육질 있는 몸매와 똑바른 눈, 그리고 전투가의 에너지 넘치는 모습을 보고 그가 가장 주의깊고 명령에 복종하는 그의 모습을 찾는데 많은 시간이 필요하지는 않았습니다. 그의 성격 중 착실함과 현실에 대한 명확한 관점, 그리고 지도자 같은 권위는 단번에 저에게 명백해졌고, 제21군단이 그에게 인계할 어려운 임무들이 성공적으로 끝낼 것이라는 완벽한 자신감을 가졌습니다.
 

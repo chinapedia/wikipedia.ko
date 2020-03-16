@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kt   ](https://ko.wikipedia.org/wiki/Kt___).
 
 
-**[Kt 위즈](https://ko.wikipedia.org/wiki/Kt_위즈 "wikilink")**의 창단 감독은 [조범현](https://ko.wikipedia.org/wiki/조범현 "wikilink") 이었으며, 현 감독은 3대인 [이강철이다](https://ko.wikipedia.org/wiki/이강철_\(야구인\) "wikilink").
+**[Kt 위즈](../Page/Kt_위즈.md "wikilink")**의 창단 감독은 [조범현](../Page/조범현.md "wikilink") 이었으며, 현 감독은 3대인 [이강철이다](../Page/이강철_\(야구인\).md "wikilink").
 
 ## 역대 감독
 
@@ -24,7 +24,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조범현" title="wikilink">조범현</a></p></td>
+<td><p><a href="../Page/조범현.md" title="wikilink">조범현</a></p></td>
 <td><p>2013년 08.08 - 2016.10.12</p></td>
 <td><p>1</p></td>
 <td><p>88경기</p></td>
@@ -52,7 +52,7 @@
 </tr>
 <tr class="odd">
 <td><p>2대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김진욱" title="wikilink">김진욱</a></p></td>
+<td><p><a href="../Page/김진욱.md" title="wikilink">김진욱</a></p></td>
 <td><p>2016.10.14 - 2018.10.18</p></td>
 <td><p>2</p></td>
 <td><p>288경기</p></td>

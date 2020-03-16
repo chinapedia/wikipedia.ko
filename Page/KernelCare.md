@@ -3,7 +3,7 @@
 
 **KernelCare**는 실시간 커널 패치 서비스로서 유명한 리눅스 커널들을 위한 보안 패치와 버그 수정을 제공하며\[1\] 이것은 시스템을 재부팅하지 않고서도 설치될 수 있다.\[2\]
 
-KernelCare 소프트웨어는 [GPL2](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 하에서 배포된다. 첫 베타 버전은 2014년 3월에 공개되었으며 2014년 5월 상용으로 런치되었다. KernelCare는 [CentOS](https://ko.wikipedia.org/wiki/CentOS "wikilink")/[RHEL](https://ko.wikipedia.org/wiki/레드햇_엔터프라이즈_리눅스 "wikilink") 5.x, 6.x, 7.x; CloudLinux 5.x, 6.x and 7.x; 상응하는 클라우드 서버; Virtuozzo; [OpenVZ](https://ko.wikipedia.org/wiki/OpenVZ "wikilink"); [데비안](https://ko.wikipedia.org/wiki/데비안 "wikilink") 6.x, 7.x, 8.x; 그리고 [우분투](https://ko.wikipedia.org/wiki/우분투_\(운영_체제\) "wikilink") 14.04 LTS, 15.10을 지원한다.\[3\] \[4\]
+KernelCare 소프트웨어는 [GPL2](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 하에서 배포된다. 첫 베타 버전은 2014년 3월에 공개되었으며 2014년 5월 상용으로 런치되었다. KernelCare는 [CentOS](../Page/CentOS.md "wikilink")/[RHEL](../Page/레드햇_엔터프라이즈_리눅스.md "wikilink") 5.x, 6.x, 7.x; CloudLinux 5.x, 6.x and 7.x; 상응하는 클라우드 서버; Virtuozzo; [OpenVZ](../Page/OpenVZ.md "wikilink"); [데비안](../Page/데비안.md "wikilink") 6.x, 7.x, 8.x; 그리고 [우분투](../Page/우분투_\(운영_체제\).md "wikilink") 14.04 LTS, 15.10을 지원한다.\[3\] \[4\]
 
 ## 개요
 

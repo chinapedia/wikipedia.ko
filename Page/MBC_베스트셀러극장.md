@@ -1,25 +1,25 @@
 > This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
 
 
-《**MBC 베스트셀러극장**》은 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [11월 6일부터](https://ko.wikipedia.org/wiki/11월_6일 "wikilink") [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [7월 9일까지](https://ko.wikipedia.org/wiki/7월_9일 "wikilink") 총 258회에 걸쳐 방영된 단막극 시리즈로, 유명한 소설 작품의 줄거리를 드라마 형태로 제작하여, [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 드라마본부에서 기획/제작되었던 [TV 문학관하고](https://ko.wikipedia.org/wiki/KBS_TV_문학관 "wikilink") 서로 쌍벽을 이루었다. 어린이 프로그램으로 친다면, [뽀뽀뽀](https://ko.wikipedia.org/wiki/뽀뽀뽀 "wikilink"), [TV유치원](https://ko.wikipedia.org/wiki/TV유치원 "wikilink")하고 서로 쌍벽을 이룬 것과 똑같은 것이다. 이 후 한동안 단막극이 중단되었다가 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [7월 7일부터](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 《[MBC 베스트극장](https://ko.wikipedia.org/wiki/MBC_베스트극장 "wikilink")》으로 이름을 변경하여 부활시켰다.
+《**MBC 베스트셀러극장**》은 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 [1983년](../Page/1983년.md "wikilink") [11월 6일부터](../Page/11월_6일.md "wikilink") [1989년](../Page/1989년.md "wikilink") [7월 9일까지](../Page/7월_9일.md "wikilink") 총 258회에 걸쳐 방영된 단막극 시리즈로, 유명한 소설 작품의 줄거리를 드라마 형태로 제작하여, [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 드라마본부에서 기획/제작되었던 [TV 문학관하고](../Page/KBS_TV_문학관.md "wikilink") 서로 쌍벽을 이루었다. 어린이 프로그램으로 친다면, [뽀뽀뽀](https://ko.wikipedia.org/wiki/뽀뽀뽀 "wikilink"), [TV유치원](../Page/TV유치원.md "wikilink")하고 서로 쌍벽을 이룬 것과 똑같은 것이다. 이 후 한동안 단막극이 중단되었다가 [1991년](../Page/1991년.md "wikilink") [7월 7일부터](../Page/7월_7일.md "wikilink") 《[MBC 베스트극장](../Page/MBC_베스트극장.md "wikilink")》으로 이름을 변경하여 부활시켰다.
 
-한편, [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 200회를 맞이하여 문학평론가, 방송작가, 영화감독, 기자 등 500여 명의 추천으로 ‘베스트10’을 선정하기도 했다. 이때 선정된 작품은 〈[겨울행](https://ko.wikipedia.org/wiki/겨울행 "wikilink")〉, 〈[풍화](https://ko.wikipedia.org/wiki/풍화_\(드라마\) "wikilink")〉, 〈[처세술개론](https://ko.wikipedia.org/wiki/처세술개론 "wikilink")〉, 〈[가족수첩](https://ko.wikipedia.org/wiki/가족수첩 "wikilink")〉, 〈[아들](https://ko.wikipedia.org/wiki/아들_\(드라마\) "wikilink")〉, 〈[매혹](https://ko.wikipedia.org/wiki/매혹_\(1987년_드라마\) "wikilink")〉, 〈[꿈꾸는 동화](https://ko.wikipedia.org/wiki/꿈꾸는_동화 "wikilink")〉, 〈[또 한번 그 봄날](https://ko.wikipedia.org/wiki/또_한번_그_봄날 "wikilink")〉, 〈[원미동 시인](https://ko.wikipedia.org/wiki/원미동_시인_\(드라마\) "wikilink")〉, 〈[보석 고르기](https://ko.wikipedia.org/wiki/보석_고르기 "wikilink")〉이다.\[1\]
+한편, [1988년](../Page/1988년.md "wikilink") [3월](../Page/3월.md "wikilink") 200회를 맞이하여 문학평론가, 방송작가, 영화감독, 기자 등 500여 명의 추천으로 ‘베스트10’을 선정하기도 했다. 이때 선정된 작품은 〈[겨울행](https://ko.wikipedia.org/wiki/겨울행 "wikilink")〉, 〈[풍화](https://ko.wikipedia.org/wiki/풍화_\(드라마\) "wikilink")〉, 〈[처세술개론](https://ko.wikipedia.org/wiki/처세술개론 "wikilink")〉, 〈[가족수첩](https://ko.wikipedia.org/wiki/가족수첩 "wikilink")〉, 〈[아들](https://ko.wikipedia.org/wiki/아들_\(드라마\) "wikilink")〉, 〈[매혹](https://ko.wikipedia.org/wiki/매혹_\(1987년_드라마\) "wikilink")〉, 〈[꿈꾸는 동화](https://ko.wikipedia.org/wiki/꿈꾸는_동화 "wikilink")〉, 〈[또 한번 그 봄날](https://ko.wikipedia.org/wiki/또_한번_그_봄날 "wikilink")〉, 〈[원미동 시인](https://ko.wikipedia.org/wiki/원미동_시인_\(드라마\) "wikilink")〉, 〈[보석 고르기](https://ko.wikipedia.org/wiki/보석_고르기 "wikilink")〉이다.\[1\]
 
 ## 방송 시간
 
-| 방송 채널                                                     | 방송 기간                                         | 방송 시간                                                                                                                                                                                   |
-| --------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") |                                               |                                                                                                                                                                                         |
-| 1983년 11월 6일 \~ 1984년 4월 8일                               | 매주 일요일 오후 10시                                 |                                                                                                                                                                                         |
-| 1984년 4월 15일 \~ 1984년 10월 21일                             | 매주 일요일 오후 9시 50분                              |                                                                                                                                                                                         |
-| 1984년 10월 28일 \~ 1985년 4월 14일                             | 매주 일요일 오후 9시 20분                              |                                                                                                                                                                                         |
-| 1985년 4월 21일 \~ 1987년 5월 10일                              | 매주 일요일 오후 9시 30분                              |                                                                                                                                                                                         |
-| 1987년 5월 17일 \~ 1987년 10월 11일                             | 매주 일요일 오후 10시 35분                             |                                                                                                                                                                                         |
-| 1987년 10월 18일 \~ 1988년 9월 4일                              | 매주 일요일 오후 9시 30분                              |                                                                                                                                                                                         |
-| 1988년 9월 11일 \~ 1988년 9월 18일                              | 매주 일요일 오후 10시                                 |                                                                                                                                                                                         |
-| 1988년 10월 9일 \~ 1989년 4월 16일                              | 매주 일요일 오후 9시 30분                              |                                                                                                                                                                                         |
-| 1989년 4월 23일 \~ 1989년 7월 9일                               | 매주 일요일 오후 10시<ref>{{뉴스 인용|제목=M-TV 간판드라마 대폭 교체 | url=<http://newslibrary.naver.com/viewer/index.nhn?articleId=1989051800209216006&editNo=2&printCount=1&publishDate=1989-05-18&officeId=00020&pageNo=16&printNo=20808&publishType=00020> |
-|                                                           |                                               |                                                                                                                                                                                         |
+| 방송 채널                                  | 방송 기간                                         | 방송 시간                                                                                                                                                                                   |
+| -------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [MBC TV](../Page/MBC_TV.md "wikilink") |                                               |                                                                                                                                                                                         |
+| 1983년 11월 6일 \~ 1984년 4월 8일            | 매주 일요일 오후 10시                                 |                                                                                                                                                                                         |
+| 1984년 4월 15일 \~ 1984년 10월 21일          | 매주 일요일 오후 9시 50분                              |                                                                                                                                                                                         |
+| 1984년 10월 28일 \~ 1985년 4월 14일          | 매주 일요일 오후 9시 20분                              |                                                                                                                                                                                         |
+| 1985년 4월 21일 \~ 1987년 5월 10일           | 매주 일요일 오후 9시 30분                              |                                                                                                                                                                                         |
+| 1987년 5월 17일 \~ 1987년 10월 11일          | 매주 일요일 오후 10시 35분                             |                                                                                                                                                                                         |
+| 1987년 10월 18일 \~ 1988년 9월 4일           | 매주 일요일 오후 9시 30분                              |                                                                                                                                                                                         |
+| 1988년 9월 11일 \~ 1988년 9월 18일           | 매주 일요일 오후 10시                                 |                                                                                                                                                                                         |
+| 1988년 10월 9일 \~ 1989년 4월 16일           | 매주 일요일 오후 9시 30분                              |                                                                                                                                                                                         |
+| 1989년 4월 23일 \~ 1989년 7월 9일            | 매주 일요일 오후 10시<ref>{{뉴스 인용|제목=M-TV 간판드라마 대폭 교체 | url=<http://newslibrary.naver.com/viewer/index.nhn?articleId=1989051800209216006&editNo=2&printCount=1&publishDate=1989-05-18&officeId=00020&pageNo=16&printNo=20808&publishType=00020> |
+|                                        |                                               |                                                                                                                                                                                         |
 
 ## 작품 리스트
 
@@ -437,7 +437,7 @@
 <tr class="odd">
 <td><p>36회</p></td>
 <td><p>8월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/30일_간의_야유회" title="wikilink">30일 간의 야유회</a></p></td>
+<td><p><a href="../Page/30일_간의_야유회.md" title="wikilink">30일 간의 야유회</a></p></td>
 <td><p>전운, 남능미, 박종관, 김해숙,<br />
 나종미, 박인환, 임현식, 조명남,<br />
 오승명, 김애경, 김성찬, 전인택,<br />
@@ -2666,11 +2666,11 @@
 <td><p>3월 26일</p></td>
 <td><p>신용비어천가</p></td>
 <td><p>정한용, 이낙훈, 노주현, 김무생,<br />
-<a href="https://ko.wikipedia.org/wiki/문성근" title="wikilink">문성근</a>, 박인환, 이종남, 이베르디,<br />
+<a href="../Page/문성근.md" title="wikilink">문성근</a>, 박인환, 이종남, 이베르디,<br />
 이정애, 이백, 박경득, 김영배,<br />
 박용수, 이성룡, 조선묵, 안석환</p></td>
 <td><p>현길언</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유시민" title="wikilink">유시민</a></p></td>
+<td><p><a href="../Page/유시민.md" title="wikilink">유시민</a></p></td>
 <td><p>김승수</p></td>
 </tr>
 <tr class="odd">

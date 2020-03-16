@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Carry That Weight](https://ko.wikipedia.org/wiki/Carry_That_Weight).
 
 
-〈**Carry That Weight**〉는 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 곡이다. 《[Abbey Road](https://ko.wikipedia.org/wiki/Abbey_Road "wikilink")》에 수록되어 발표, 음반을 닫는 절정 부분에 위치하고 있는 이 곡은 비틀즈 네 명의 보컬이 들어간 흔치않은 곡이다. 〈[Golden Slumbers](../Page/Golden_Slumbers.md "wikilink")〉로부터 이어져서 이후 〈[The End](https://ko.wikipedia.org/wiki/The_End_\(비틀즈의_노래\) "wikilink")〉로 계속 이어진다.
+〈**Carry That Weight**〉는 [비틀즈](../Page/비틀즈.md "wikilink")의 곡이다. 《[Abbey Road](../Page/Abbey_Road.md "wikilink")》에 수록되어 발표, 음반을 닫는 절정 부분에 위치하고 있는 이 곡은 비틀즈 네 명의 보컬이 들어간 흔치않은 곡이다. 〈[Golden Slumbers](../Page/Golden_Slumbers.md "wikilink")〉로부터 이어져서 이후 〈[The End](../Page/The_End_\(비틀즈의_노래\).md "wikilink")〉로 계속 이어진다.
 
-금관악기, 전자 기타, 보컬이 나오는 미들 브리지에서는 〈[You Never Give Me Your Money](https://ko.wikipedia.org/wiki/You_Never_Give_Me_Your_Money "wikilink")〉의 도입부를 반복하고 있지만, 가사가 다르다. 후렴에서는 〈You Never Give Me Your Money〉의 끝에서 따온 아르페지오 기타 연주가 반복된다. [조지 해리슨과](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") [에릭 클랩튼이](https://ko.wikipedia.org/wiki/에릭_클랩튼 "wikilink") 공동 작곡한 〈[Here Comes the Sun](https://ko.wikipedia.org/wiki/Here_Comes_the_Sun "wikilink")〉, 〈[Badge](https://ko.wikipedia.org/wiki/Badge_\(song\) "wikilink")〉의 형태와도 비슷하다. 곡은 [폴 매카트니가](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 썼지만 [레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink") 명의로 발표되었다.
+금관악기, 전자 기타, 보컬이 나오는 미들 브리지에서는 〈[You Never Give Me Your Money](https://ko.wikipedia.org/wiki/You_Never_Give_Me_Your_Money "wikilink")〉의 도입부를 반복하고 있지만, 가사가 다르다. 후렴에서는 〈You Never Give Me Your Money〉의 끝에서 따온 아르페지오 기타 연주가 반복된다. [조지 해리슨과](../Page/조지_해리슨.md "wikilink") [에릭 클랩튼이](../Page/에릭_클랩튼.md "wikilink") 공동 작곡한 〈[Here Comes the Sun](../Page/Here_Comes_the_Sun.md "wikilink")〉, 〈[Badge](https://ko.wikipedia.org/wiki/Badge_\(song\) "wikilink")〉의 형태와도 비슷하다. 곡은 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 썼지만 [레논-매카트니](../Page/레논-매카트니.md "wikilink") 명의로 발표되었다.
 
 ## 작곡과 녹음
 
@@ -13,10 +13,10 @@
 
 ## 참여 인원
 
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") - 리드 보컬, 피아노, 리듬 기타, 코러스 보컬
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") - 베이스 기타, 리드 기타, 코러스 보컬
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") - 드럼, 팀파니, 코러스 보컬
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 코러스 보컬
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") - 리드 보컬, 피아노, 리듬 기타, 코러스 보컬
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") - 베이스 기타, 리드 기타, 코러스 보컬
+  - [링고 스타](../Page/링고_스타.md "wikilink") - 드럼, 팀파니, 코러스 보컬
+  - [존 레논](../Page/존_레논.md "wikilink") – 코러스 보컬
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - [조지 마틴](https://ko.wikipedia.org/wiki/조지_마틴 "wikilink") – 프로듀서, 편곡
+  - [조지 마틴](../Page/조지_마틴.md "wikilink") – 프로듀서, 편곡
 
 <!-- end list -->
 

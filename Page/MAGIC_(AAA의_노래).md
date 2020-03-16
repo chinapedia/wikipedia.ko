@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MAGIC \(AAA \)](https://ko.wikipedia.org/wiki/MAGIC_\(AAA_\)).
 
 
-〈**MAGIC**〉은 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 쉰세 번째 [싱글이다](../Page/CD_싱글.md "wikilink"). [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 8일에](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.\[1\]
+〈**MAGIC**〉은 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 쉰세 번째 [싱글이다](../Page/CD_싱글.md "wikilink"). [2017년](../Page/2017년.md "wikilink") [2월 8일에](../Page/2월_8일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.\[1\]
 
 ## 개요
 
@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열 [금요 나이트 드라마](https://ko.wikipedia.org/wiki/금요_나이트_드라마 "wikilink") 《[빼앗는 사랑, 겨울](https://ko.wikipedia.org/wiki/빼앗는_사랑,_겨울 "wikilink")》 주제가
+  - [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 [금요 나이트 드라마](../Page/금요_나이트_드라마.md "wikilink") 《[빼앗는 사랑, 겨울](https://ko.wikipedia.org/wiki/빼앗는_사랑,_겨울 "wikilink")》 주제가
 
 ## 수록곡
 
