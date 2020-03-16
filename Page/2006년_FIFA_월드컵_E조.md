@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2006 FIFA  E](https://ko.wikipedia.org/wiki/2006_FIFA__E).
 
 
-**2006년 FIFA 월드컵 E조**는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. E조 일정은 2006년 6월 12일에 시작하여 2006년 6월 22일에 완료되었다. 조 추첨 후 "[죽음의 조](https://ko.wikipedia.org/wiki/죽음의_조 "wikilink")"로 평가된 조로,\[1\] 그 명성에 걸맞게 2차전 종료 후 16강 진출 확정국이나 조별 리그 탈락 확정국이 하나도 나오지 않았다.\[2\] E조의 최종 결과는 최종전 종료와 함께 나왔는데, 최종전에서 승리한 [이탈리아와](https://ko.wikipedia.org/wiki/이탈리아_축구_국가대표팀 "wikilink") [가나가](https://ko.wikipedia.org/wiki/가나_축구_국가대표팀 "wikilink") 나란히 16강에 진출하였다. 이탈리아가 승점 7점으로 조 1위를 차지하였고, 가나가 2위를 차지하였다. 반면 [체코와](https://ko.wikipedia.org/wiki/체코_축구_국가대표팀 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") 축구 국가대표팀은 다음 라운드에 진출하지 못하였다.
+**2006년 FIFA 월드컵 E조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. E조 일정은 2006년 6월 12일에 시작하여 2006년 6월 22일에 완료되었다. 조 추첨 후 "[죽음의 조](../Page/죽음의_조.md "wikilink")"로 평가된 조로,\[1\] 그 명성에 걸맞게 2차전 종료 후 16강 진출 확정국이나 조별 리그 탈락 확정국이 하나도 나오지 않았다.\[2\] E조의 최종 결과는 최종전 종료와 함께 나왔는데, 최종전에서 승리한 [이탈리아와](../Page/이탈리아_축구_국가대표팀.md "wikilink") [가나가](../Page/가나_축구_국가대표팀.md "wikilink") 나란히 16강에 진출하였다. 이탈리아가 승점 7점으로 조 1위를 차지하였고, 가나가 2위를 차지하였다. 반면 [체코와](../Page/체코_축구_국가대표팀.md "wikilink") [미국](../Page/미국_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 다음 라운드에 진출하지 못하였다.
 
 ## 순위
 
@@ -90,7 +90,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/브루스_어리나" title="wikilink">브루스 어리나</a></p></td>
+<td><p><a href="../Page/브루스_어리나.md" title="wikilink">브루스 어리나</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -176,7 +176,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/토마시_로시츠키" title="wikilink">토마시 로시츠키</a> (체코)</p>
+<a href="../Page/토마시_로시츠키.md" title="wikilink">토마시 로시츠키</a> (체코)</p>
 <p><strong>부심:</strong><br />
 마누엘 베르날 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
 아멜리오 안디노 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
@@ -269,7 +269,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마르첼로_리피" title="wikilink">마르첼로 리피</a></p></td>
+<td><p><a href="../Page/마르첼로_리피.md" title="wikilink">마르첼로 리피</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -351,18 +351,18 @@
 </tbody>
 </table>
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:World_Cup_2006_Ghana_fan.jpg "wikilink") 팬들에게 둘러싸인 [가나팬](https://ko.wikipedia.org/wiki/가나_축구_국가대표팀 "wikilink")\]\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:World_Cup_2006_Ghana_fan.jpg "wikilink") 팬들에게 둘러싸인 [가나팬](../Page/가나_축구_국가대표팀.md "wikilink")\]\]
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/안드레아_피를로" title="wikilink">안드레아 피를로</a> (이탈리아)</p>
+<a href="../Page/안드레아_피를로.md" title="wikilink">안드레아 피를로</a> (이탈리아)</p>
 <p><strong>부심:</strong><br />
 마누엘 베르날 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
 아멜리오 안디노 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/칼릴_알감디" title="wikilink">칼릴 알 감디</a> (<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_연맹" title="wikilink">사우디아라비아</a>)<br />
+<a href="../Page/칼릴_알감디.md" title="wikilink">칼릴 알 감디</a> (<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_연맹" title="wikilink">사우디아라비아</a>)<br />
 <strong>후보 대기심:</strong><br />
 함디 알 카드리 (<a href="https://ko.wikipedia.org/wiki/시리아_축구_협회" title="wikilink">시리아</a>)</p></td>
 </tr>
@@ -371,7 +371,7 @@
 
 ## 체코 vs 가나
 
-[토마시 우이팔루시는](https://ko.wikipedia.org/wiki/토마시_우이팔루시 "wikilink") 65분에 페널티 구역 내에서 [매튜 아모아에](https://ko.wikipedia.org/wiki/매튜_아모아 "wikilink") 백태클을 한 것으로 퇴장당하였다. [아사모아 잔은](https://ko.wikipedia.org/wiki/아사모아_잔 "wikilink") 페널티킥을 찼지만 골대를 강타하였고, 주심의 호각 없이 찬 것에 대해 경고를 받았다.\[3\]
+[토마시 우이팔루시는](../Page/토마시_우이팔루시.md "wikilink") 65분에 페널티 구역 내에서 [매튜 아모아에](https://ko.wikipedia.org/wiki/매튜_아모아 "wikilink") 백태클을 한 것으로 퇴장당하였다. [아사모아 잔은](../Page/아사모아_잔.md "wikilink") 페널티킥을 찼지만 골대를 강타하였고, 주심의 호각 없이 찬 것에 대해 경고를 받았다.\[3\]
 
 |          |                                |              |                                |                                 |                                   |                  |               |                   |                 |                |               |          |                                 |              |                                 |                               |                                   |                  |               |                   |                 |                |               |
 | -------- | ------------------------------ | ------------ | ------------------------------ | ------------------------------- | --------------------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- | -------- | ------------------------------- | ------------ | ------------------------------- | ----------------------------- | --------------------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- |
@@ -534,16 +534,16 @@
 </tbody>
 </table>
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:Closeup_Czech_Republic_versus_Ghana_at_2006_World_Cup.jpg "wikilink") 공을 뺏기 위해 둘러싸는 [체코](https://ko.wikipedia.org/wiki/체코_축구_국가대표팀 "wikilink") 선수들\]\]
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Closeup_Czech_Republic_versus_Ghana_at_2006_World_Cup.jpg "wikilink") 공을 뺏기 위해 둘러싸는 [체코](../Page/체코_축구_국가대표팀.md "wikilink") 선수들\]\]
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/마이클_에시엔" title="wikilink">마이클 에시엔</a> (가나)</p>
+<a href="../Page/마이클_에시엔.md" title="wikilink">마이클 에시엔</a> (가나)</p>
 <p><strong>부심:</strong><br />
-다리오 가르시아 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
-로돌포 오테로 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+다리오 가르시아 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
+로돌포 오테로 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/제롬_데이먼" title="wikilink">제롬 데이먼</a> (<a href="https://ko.wikipedia.org/wiki/남아프리카_공화국_축구_협회" title="wikilink">남아프리카 공화국</a>)<br />
 <strong>후보 대기심:</strong><br />
@@ -554,7 +554,7 @@
 
 ## 이탈리아 vs 미국
 
-이탈리아의 미드필더 [다니엘레 데 로시는](https://ko.wikipedia.org/wiki/다니엘레_데_로시 "wikilink") 28분에 미국 공격수 [브라이언 맥브라이드를](https://ko.wikipedia.org/wiki/브라이언_맥브라이드 "wikilink") 팔꿈치로 가격하여 퇴장당하였고, 미국인은 피가 얼굴로 덮여 왼쪽 눈 아래를 세 바늘 꿰매야 했다. 앞서 [전 대회에서](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 이탈리아가 상습적으로 팔꿈치를 사용한 것으로 인해 이번 대회에 팔꿈치 가격은 즉시 퇴장하는 쪽으로 규정이 개정된 바 있다.\[4\] 그리고 [다니엘레 데 로시는](https://ko.wikipedia.org/wiki/다니엘레_데_로시 "wikilink") 그 규정의 첫번째 적용 대상이 되었다.\[5\] FIFA는 데 로시에 4경기 출전 정지 (결승전에 올라가야 복귀 가능) 와 10,000 [CHF의](https://ko.wikipedia.org/wiki/스위스_프랑 "wikilink") 벌금령을 내렸다.\[6\]
+이탈리아의 미드필더 [다니엘레 데 로시는](../Page/다니엘레_데_로시.md "wikilink") 28분에 미국 공격수 [브라이언 맥브라이드를](../Page/브라이언_맥브라이드.md "wikilink") 팔꿈치로 가격하여 퇴장당하였고, 미국인은 피가 얼굴로 덮여 왼쪽 눈 아래를 세 바늘 꿰매야 했다. 앞서 [전 대회에서](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 이탈리아가 상습적으로 팔꿈치를 사용한 것으로 인해 이번 대회에 팔꿈치 가격은 즉시 퇴장하는 쪽으로 규정이 개정된 바 있다.\[4\] 그리고 [다니엘레 데 로시는](../Page/다니엘레_데_로시.md "wikilink") 그 규정의 첫번째 적용 대상이 되었다.\[5\] FIFA는 데 로시에 4경기 출전 정지 (결승전에 올라가야 복귀 가능) 와 10,000 [CHF의](../Page/스위스_프랑.md "wikilink") 벌금령을 내렸다.\[6\]
 
 |          |               |                       |               |                        |               |                  |               |                   |                 |                |                 |          |               |                                 |               |               |               |                  |               |                   |                 |                |               |
 | -------- | ------------- | --------------------- | ------------- | ---------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | --------------- | -------- | ------------- | ------------------------------- | ------------- | ------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- |
@@ -635,7 +635,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마르첼로_리피" title="wikilink">마르첼로 리피</a></p></td>
+<td><p><a href="../Page/마르첼로_리피.md" title="wikilink">마르첼로 리피</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -704,7 +704,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/브루스_어리나" title="wikilink">브루스 어리나</a></p></td>
+<td><p><a href="../Page/브루스_어리나.md" title="wikilink">브루스 어리나</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -724,7 +724,7 @@
 왈테르 리알 (<a href="https://ko.wikipedia.org/wiki/우루과이_축구_협회" title="wikilink">우루과이</a>)<br />
 파블로 판디뇨 (<a href="https://ko.wikipedia.org/wiki/우루과이_축구_협회" title="wikilink">우루과이</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/칼릴_알감디" title="wikilink">칼릴 알 감디</a> (<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_연맹" title="wikilink">사우디아라비아</a>)<br />
+<a href="../Page/칼릴_알감디.md" title="wikilink">칼릴 알 감디</a> (<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_연맹" title="wikilink">사우디아라비아</a>)<br />
 <strong>후보 대기심:</strong><br />
 함디 알 카드리 (<a href="https://ko.wikipedia.org/wiki/시리아_축구_협회" title="wikilink">시리아</a>)</p></td>
 </tr>
@@ -885,7 +885,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마르첼로_리피" title="wikilink">마르첼로 리피</a></p></td>
+<td><p><a href="../Page/마르첼로_리피.md" title="wikilink">마르첼로 리피</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -898,12 +898,12 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/마르코_마테라치" title="wikilink">마르코 마테라치</a> (이탈리아)</p>
+<a href="../Page/마르코_마테라치.md" title="wikilink">마르코 마테라치</a> (이탈리아)</p>
 <p><strong>부심:</strong><br />
 호세 라미레스 (<a href="https://ko.wikipedia.org/wiki/멕시코_축구_협회" title="wikilink">멕시코</a>)<br />
 엑토르 베르가라 (<a href="https://ko.wikipedia.org/wiki/캐나다_축구_협회" title="wikilink">캐나다</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/오스카르_루이스" title="wikilink">오스카르 루이스</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_협회" title="wikilink">콜롬비아</a>)<br />
+<a href="../Page/오스카르_루이스.md" title="wikilink">오스카르 루이스</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_협회" title="wikilink">콜롬비아</a>)<br />
 <strong>후보 대기심:</strong><br />
 호세 나비아 (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_협회" title="wikilink">콜롬비아</a>)</p></td>
 </tr>
@@ -1064,7 +1064,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/브루스_어리나" title="wikilink">브루스 어리나</a></p></td>
+<td><p><a href="../Page/브루스_어리나.md" title="wikilink">브루스 어리나</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1077,7 +1077,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/스티븐_아피아" title="wikilink">스티븐 아피아</a> (가나)</p>
+<a href="../Page/스티븐_아피아.md" title="wikilink">스티븐 아피아</a> (가나)</p>
 <p><strong>부심:</strong><br />
 크리스티안 슈레어 (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)<br />
 얀-헨드리크 잘버 (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)<br />

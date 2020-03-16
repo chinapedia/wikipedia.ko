@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2006 FIFA  C](https://ko.wikipedia.org/wiki/2006_FIFA__C).
 
 
-**2006년 FIFA 월드컵 C조**는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. C조 일정은 2006년 6월 10일에 시작하여 2006년 6월 21일에 완료되었다. [아르헨티나는](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 이 조에서 1위를 차지해 [네덜란드과](https://ko.wikipedia.org/wiki/네덜란드_축구_국가대표팀 "wikilink") 함께 다음 라운드에 진출하였다. 조별 리그를 통과한 두 팀은 승접에서 동률을 이루었으나, 아르헨티나가 골득실차에 앞서면서 조 1위를 가져갔고, 네덜란드는 2위를 차지했다. 반면 [코트디부아르와](https://ko.wikipedia.org/wiki/코트디부아르_축구_국가대표팀 "wikilink") [세르비아 몬테네그로](https://ko.wikipedia.org/wiki/세르비아_몬테네그로_축구_국가대표팀 "wikilink") 축구 국가대표팀은 탈락하였다.
+**2006년 FIFA 월드컵 C조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. C조 일정은 2006년 6월 10일에 시작하여 2006년 6월 21일에 완료되었다. [아르헨티나는](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 이 조에서 1위를 차지해 [네덜란드과](../Page/네덜란드_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 조별 리그를 통과한 두 팀은 승접에서 동률을 이루었으나, 아르헨티나가 골득실차에 앞서면서 조 1위를 가져갔고, 네덜란드는 2위를 차지했다. 반면 [코트디부아르와](https://ko.wikipedia.org/wiki/코트디부아르_축구_국가대표팀 "wikilink") [세르비아 몬테네그로](../Page/세르비아_몬테네그로_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 탈락하였다.
 
 조추첨 완료 후, 다수의 평론가들이 C조에서 [아르헨티나를](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 제외하고 [전 대회에](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 참가한 국가들이 없음에도 불구하고 만만치 않은 조일 것으로 평가하였다.
 
@@ -92,7 +92,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호세_페케르만" title="wikilink">호세 페케르만</a></p></td>
+<td><p><a href="../Page/호세_페케르만.md" title="wikilink">호세 페케르만</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -273,7 +273,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일리야_페트코비치" title="wikilink">일리야 페트코비치</a></p></td>
+<td><p><a href="../Page/일리야_페트코비치.md" title="wikilink">일리야 페트코비치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -346,7 +346,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마르코_판_바스턴" title="wikilink">마르코 판 바스턴</a></p></td>
+<td><p><a href="../Page/마르코_판_바스턴.md" title="wikilink">마르코 판 바스턴</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -355,7 +355,7 @@
 </tbody>
 </table>
 
-[섬네일를](https://ko.wikipedia.org/wiki/파일:Leipzig-Serbien-Montenegro.jpg "wikilink") 들고 나온 팬이 있었다. 이 대회를 앞두고 [몬테네그로](https://ko.wikipedia.org/wiki/몬테네그로 "wikilink")가 6월 3일 분리되었고 팬들과 선수단의 대부분이 세르비아인으로 구성되었으나, [세르비아 몬테네그로의](https://ko.wikipedia.org/wiki/세르비아_몬테네그로 "wikilink") [국가대표팀이](https://ko.wikipedia.org/wiki/세르비아_몬테네그로_축구_국가대표팀 "wikilink") 이 대회에 출전하였다. \]\]
+[섬네일를](https://ko.wikipedia.org/wiki/파일:Leipzig-Serbien-Montenegro.jpg "wikilink") 들고 나온 팬이 있었다. 이 대회를 앞두고 [몬테네그로](../Page/몬테네그로.md "wikilink")가 6월 3일 분리되었고 팬들과 선수단의 대부분이 세르비아인으로 구성되었으나, [세르비아 몬테네그로의](../Page/세르비아_몬테네그로.md "wikilink") [국가대표팀이](../Page/세르비아_몬테네그로_축구_국가대표팀.md "wikilink") 이 대회에 출전하였다. \]\]
 
 <table>
 <tbody>
@@ -454,7 +454,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호세_페케르만" title="wikilink">호세 페케르만</a></p></td>
+<td><p><a href="../Page/호세_페케르만.md" title="wikilink">호세 페케르만</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -527,7 +527,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일리야_페트코비치" title="wikilink">일리야 페트코비치</a></p></td>
+<td><p><a href="../Page/일리야_페트코비치.md" title="wikilink">일리야 페트코비치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -536,13 +536,13 @@
 </tbody>
 </table>
 
-[섬네일전을](https://ko.wikipedia.org/wiki/파일:FIFA_World_Cup_-_ARG_vs._SCG_-_Fans_of_Argentina.jpg "wikilink") 보러 가는 [겔젠키르헨](https://ko.wikipedia.org/wiki/겔젠키르헨 "wikilink")의 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 팬들\]\]
+[섬네일전을](https://ko.wikipedia.org/wiki/파일:FIFA_World_Cup_-_ARG_vs._SCG_-_Fans_of_Argentina.jpg "wikilink") 보러 가는 [겔젠키르헨](../Page/겔젠키르헨.md "wikilink")의 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 팬들\]\]
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/후안_로만_리켈메" title="wikilink">후안 로만 리켈메</a> (아르헨티나)</p>
+<a href="../Page/후안_로만_리켈메.md" title="wikilink">후안 로만 리켈메</a> (아르헨티나)</p>
 <p><strong>부심:</strong><br />
 알레산드로 스타녤리 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 크리스티아노 코펠리 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
@@ -635,7 +635,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마르코_판_바스턴" title="wikilink">마르코 판 바스턴</a></p></td>
+<td><p><a href="../Page/마르코_판_바스턴.md" title="wikilink">마르코 판 바스턴</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -717,7 +717,7 @@
 </tbody>
 </table>
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:Netherlands_fans_-_2006_FIFA_World_Cup.jpg "wikilink") 스탠드 한쪽을 점령한 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드_축구_국가대표팀 "wikilink") 팬들. \]\]
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Netherlands_fans_-_2006_FIFA_World_Cup.jpg "wikilink") 스탠드 한쪽을 점령한 [네덜란드](../Page/네덜란드_축구_국가대표팀.md "wikilink") 팬들. \]\]
 
 <table>
 <tbody>
@@ -816,7 +816,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마르코_판_바스턴" title="wikilink">마르코 판 바스턴</a></p></td>
+<td><p><a href="../Page/마르코_판_바스턴.md" title="wikilink">마르코 판 바스턴</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -889,7 +889,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호세_페케르만" title="wikilink">호세 페케르만</a></p></td>
+<td><p><a href="../Page/호세_페케르만.md" title="wikilink">호세 페케르만</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -902,7 +902,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/카를로스_테베스" title="wikilink">카를로스 테베스</a> (아르헨티나)</p>
+<a href="../Page/카를로스_테베스.md" title="wikilink">카를로스 테베스</a> (아르헨티나)</p>
 <p><strong>부심:</strong><br />
 페드로 메디나 에르난데스 (<a href="https://ko.wikipedia.org/wiki/스페인_왕립_축구_협회" title="wikilink">스페인</a>)<br />
 빅토리아노 히랄데스 카라스코 (<a href="https://ko.wikipedia.org/wiki/스페인_왕립_축구_협회" title="wikilink">스페인</a>)<br />
@@ -1060,7 +1060,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/일리야_페트코비치" title="wikilink">일리야 페트코비치</a></p></td>
+<td><p><a href="../Page/일리야_페트코비치.md" title="wikilink">일리야 페트코비치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1078,7 +1078,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/아뤼나_댕단" title="wikilink">아뤼나 댕단</a> (코트디부아르)</p>
+<a href="../Page/아뤼나_댕단.md" title="wikilink">아뤼나 댕단</a> (코트디부아르)</p>
 <p><strong>부심:</strong><br />
 호세 루이스 카마르고 (<a href="https://ko.wikipedia.org/wiki/멕시코_축구_협회" title="wikilink">멕시코</a>)<br />
 레오넬 레알 (<a href="https://ko.wikipedia.org/wiki/코스타리카_축구_협회" title="wikilink">코스타리카</a>)<br />

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ogiyodiora](https://ko.wikipedia.org/wiki/Ogiyodiora).
 
 
-《**Ogiyodiora**》는 1998년 발표된 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [이상은의](https://ko.wikipedia.org/wiki/이상은_\(가수\) "wikilink") 일본 싱글 앨범이다. 이상은이 일본 영화 \< 간밧테 이키맛쇼이(がんばっていきまっしょい) - '화이팅 에츠코' \>의 음악을 맡아 OST음반《[Give it all](../Page/Give_it_all.md "wikilink")》발매 하기전 나온 싱글 앨범으로, 영화의 메인테마가 7집앨범의 '어기여디어라' 영어버전이다. 싱글은 12cm, 8cm 두가지 종류로 발매되었는데, 8cm에는 Ogiyodiora (Soundtrack version)이 빠진 3곡이 수록되었다.
+《**Ogiyodiora**》는 1998년 발표된 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [이상은의](../Page/이상은_\(가수\).md "wikilink") 일본 싱글 앨범이다. 이상은이 일본 영화 \< 간밧테 이키맛쇼이(がんばっていきまっしょい) - '화이팅 에츠코' \>의 음악을 맡아 OST음반《[Give it all](../Page/Give_it_all.md "wikilink")》발매 하기전 나온 싱글 앨범으로, 영화의 메인테마가 7집앨범의 '어기여디어라' 영어버전이다. 싱글은 12cm, 8cm 두가지 종류로 발매되었는데, 8cm에는 Ogiyodiora (Soundtrack version)이 빠진 3곡이 수록되었다.
 
 ## 수록곡
 

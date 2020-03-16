@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [HEART \(TOKIO \)](https://ko.wikipedia.org/wiki/HEART_\(TOKIO_\)).
 
 
-《**HEART**》(하트)는, [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")의 3번째 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
+《**HEART**》(하트)는, [TOKIO](../Page/TOKIO.md "wikilink")의 3번째 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
 
 ## 개요
 
-전작 《17》로부터 2년 만의 음반(베스트 음반은 《[BEST EP SELECTION OF TOKIO II](https://ko.wikipedia.org/wiki/BEST_EP_SELECTION_OF_TOKIO_II "wikilink")》로부터 13년 만)으로, TOKIO 데뷔 20주년 기념 음반이다.
+전작 《17》로부터 2년 만의 음반(베스트 음반은 《[BEST EP SELECTION OF TOKIO II](../Page/BEST_EP_SELECTION_OF_TOKIO_II.md "wikilink")》로부터 13년 만)으로, TOKIO 데뷔 20주년 기념 음반이다.
 
 데뷔부터 2013년까지의 악곡 중에서 팬 투표에 의해 선출된 악곡을 수록했다.
 
@@ -17,7 +17,7 @@
       -
         작사·작곡·편곡: [나가세 토모야](https://ko.wikipedia.org/wiki/나가세_도모야 "wikilink")
         46th 싱글.
-2.  **[LOVE YOU ONLY](https://ko.wikipedia.org/wiki/LOVE_YOU_ONLY "wikilink")**
+2.  **[LOVE YOU ONLY](../Page/LOVE_YOU_ONLY.md "wikilink")**
       -
         작사: 쿠도 테츠오 / 작곡: 츠시미 타카시 / 편곡: 니시와키 타츠야
         1st 싱글.
@@ -33,7 +33,7 @@
       -
         작사·작곡: HIKARI / 편곡: 시마다 마사노리
         26th 싱글.
-6.  **[AMBITIOUS JAPAN\!](https://ko.wikipedia.org/wiki/AMBITIOUS_JAPAN! "wikilink")**
+6.  **[AMBITIOUS JAPAN\!](../Page/AMBITIOUS_JAPAN!.md "wikilink")**
       -
         작사: 나카니시 레이 / 작곡: 츠츠미 쿄헤이 / 편곡: 후나야마 모토키
         28th 싱글.
@@ -45,7 +45,7 @@
       -
         작사·작곡·편곡: HIKARI
         27th 싱글.
-9.  **[Mr.Traveling Man](https://ko.wikipedia.org/wiki/Mr.Traveling_Man "wikilink")**
+9.  **[Mr.Traveling Man](../Page/Mr.Traveling_Man.md "wikilink")**
       -
         작사·작곡: 시미즈 아키오 / 편곡: 사쿠마 마사히데
         33th 싱글.
@@ -55,7 +55,7 @@
         31th 싱글.
 11. **** / <small>**비행선**</small>
       -
-        작사·작곡: [나카지마 미유키](https://ko.wikipedia.org/wiki/나카지마_미유키 "wikilink") / 편곡: 후나야마 모토키
+        작사·작곡: [나카지마 미유키](../Page/나카지마_미유키.md "wikilink") / 편곡: 후나야마 모토키
         35th 싱글.
 12. **** / <small>**해야 할 것**</small>
       -
@@ -63,7 +63,7 @@
         40th 싱글.
 13. **** / <small>**우산**</small>
       -
-        작사·작곡: [시이나 링고](https://ko.wikipedia.org/wiki/시이나_링고 "wikilink") / 편곡: [도쿄지헨](https://ko.wikipedia.org/wiki/도쿄지헨 "wikilink")
+        작사·작곡: [시이나 링고](../Page/시이나_링고.md "wikilink") / 편곡: [도쿄지헨](../Page/도쿄지헨.md "wikilink")
         39th 싱글.
 14. **** / <small>**올려다 본 유성**</small>
       -
@@ -95,7 +95,7 @@
 4.  **Symphonic**
       -
         작사·작곡: HIKARI / 편곡: KAM
-        7th 앨범 《[5 AHEAD](https://ko.wikipedia.org/wiki/5_AHEAD "wikilink")》 수록곡.
+        7th 앨범 《[5 AHEAD](../Page/5_AHEAD.md "wikilink")》 수록곡.
 5.  **The Course of Life**
       -
         작사·작곡: 코쿠분 타이치 / 편곡: HIKARI
@@ -123,7 +123,7 @@
 11. **sugar**
       -
         작사·작곡: 나가세 토모야 / 편곡: TOKIO
-        11th 앨범 《[sugar](https://ko.wikipedia.org/wiki/Sugar_\(TOKIO의_음반\) "wikilink")》 수록곡.
+        11th 앨범 《[sugar](../Page/Sugar_\(TOKIO의_음반\).md "wikilink")》 수록곡.
 12. **Zettai\!**
       -
         작사: 아사미즈 카나타 / 작곡·편곡: 니시와키 타츠야
@@ -135,7 +135,7 @@
 14. **SONIC DRIVE\!**
       -
         작사·작곡·편곡: 나가세 토모야
-        10th 앨범 《[Harvest](https://ko.wikipedia.org/wiki/Harvest_\(TOKIO의_음반\) "wikilink")》 수록곡.
+        10th 앨범 《[Harvest](../Page/Harvest_\(TOKIO의_음반\).md "wikilink")》 수록곡.
 15. **T2**
       -
         작사·작곡: 코쿠분 타이치 / 편곡: 코쿠분 타이치, KAM

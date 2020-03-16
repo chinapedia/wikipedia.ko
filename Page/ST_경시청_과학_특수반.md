@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ST   ](https://ko.wikipedia.org/wiki/ST___).
 
 
-《**ST 경시청 과학 특수반**》()은, [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")부터 간행되고 있는, [콘노 빈의](https://ko.wikipedia.org/wiki/콘노_빈 "wikilink") [경찰 소설](https://ko.wikipedia.org/wiki/경찰물 "wikilink") 시리즈이다.
+《**ST 경시청 과학 특수반**》()은, [1998년](../Page/1998년.md "wikilink")부터 간행되고 있는, [콘노 빈의](https://ko.wikipedia.org/wiki/콘노_빈 "wikilink") [경찰 소설](https://ko.wikipedia.org/wiki/경찰물 "wikilink") 시리즈이다.
 
 ## 개요
 
@@ -18,11 +18,11 @@
   - 아오야마 쇼
     문서 감정 담당.
   - 쿠로사키 유지
-    제1[화학](https://ko.wikipedia.org/wiki/화학 "wikilink") 담당.
+    제1[화학](../Page/화학.md "wikilink") 담당.
   - 야마부키 사이조
     제2화학 담당.
   - 유키 미도리
-    [물리학](https://ko.wikipedia.org/wiki/물리학 "wikilink") 담당.
+    [물리학](../Page/물리학.md "wikilink") 담당.
   - 키쿠카와 고로
     ST와 수사 1과와의 연락 계를 담당하는 형사.
 
@@ -79,59 +79,59 @@
 
 ### ST 경시청 과학 특수반
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") 21:00 \~ 23:08에 [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 단발 스페셜 드라마로 방송되었다. 주연은 [후지와라 타츠야](https://ko.wikipedia.org/wiki/후지와라_타츠야 "wikilink"), [오카다 마사키](https://ko.wikipedia.org/wiki/오카다_마사키 "wikilink").
+[2013년](../Page/2013년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") 21:00 \~ 23:08에 [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 단발 스페셜 드라마로 방송되었다. 주연은 [후지와라 타츠야](../Page/후지와라_타츠야.md "wikilink"), [오카다 마사키](../Page/오카다_마사키.md "wikilink").
 
 #### 캐스트
 
-  - 아카기 사몬 - [후지와라 타츠야](https://ko.wikipedia.org/wiki/후지와라_타츠야 "wikilink")
-  - 유리네 토모히사 - [오카다 마사키](https://ko.wikipedia.org/wiki/오카다_마사키 "wikilink")
-  - 아오야마 쇼 - [시다 미라이](https://ko.wikipedia.org/wiki/시다_미라이 "wikilink")
-  - 유키 미도리 - [아시나 세이](https://ko.wikipedia.org/wiki/아시나_세이 "wikilink")
+  - 아카기 사몬 - [후지와라 타츠야](../Page/후지와라_타츠야.md "wikilink")
+  - 유리네 토모히사 - [오카다 마사키](../Page/오카다_마사키.md "wikilink")
+  - 아오야마 쇼 - [시다 미라이](../Page/시다_미라이.md "wikilink")
+  - 유키 미도리 - [아시나 세이](../Page/아시나_세이.md "wikilink")
   - 쿠로사키 유지 - [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink")
   - 야마부키 사이조 - 미야케 히로키
   - 타카가키 형사 - 유키 쥿타
   - 타카나시 반장 - 야마다 메이쿄
-  - 이케다 소스케 - [하야시 켄토](https://ko.wikipedia.org/wiki/하야시_켄토 "wikilink")
-  - 키쿠카와 고로 - [타나카 테츠시](https://ko.wikipedia.org/wiki/다나카_테츠시 "wikilink")
-  - 사에구사 토시로 - [와타베 아츠로](https://ko.wikipedia.org/wiki/와타베_아츠로 "wikilink")
+  - 이케다 소스케 - [하야시 켄토](../Page/하야시_켄토.md "wikilink")
+  - 키쿠카와 고로 - [타나카 테츠시](../Page/다나카_테츠시.md "wikilink")
+  - 사에구사 토시로 - [와타베 아츠로](../Page/와타베_아츠로.md "wikilink")
 
 #### 스태프
 
   - 각본 - 와타나베 유스케
   - 연출 - 사토 토야
   - 테마 송 - 0.8초와 충격. 〈kama-boko〉
-  - 오프닝 내레이션 - [카미야 히로시](https://ko.wikipedia.org/wiki/카미야_히로시 "wikilink")
+  - 오프닝 내레이션 - [카미야 히로시](../Page/카미야_히로시.md "wikilink")
   - 선곡 - 시다 히로히데
   - 특수 메이크 - 후지와라 카쿠세이
   - 파이팅 코디네이트 - 사사키 슈헤이
   - 프로파일링 감수 - 키류 마사유키
   - 치프 프로듀스 - 카미쿠라 카츠, 오오히라 후토시
   - 프로듀스 - 모리 마사히로, 오노 테츠야
-  - 제작 저작 - [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink")
+  - 제작 저작 - [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink")
 
 ### ST 적과 백의 수사 파일
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 16일부터](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") [9월 17일까지](https://ko.wikipedia.org/wiki/9월_17일 "wikilink") [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink") 22:00 \~ 23:00(〈[수요 드라마](https://ko.wikipedia.org/wiki/수요드라마_\(닛폰_TV\) "wikilink")〉 시간대)에 방송되었다. 주연은 후지와라 타츠야, 오카다 마사키. [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**불가해한 사건은 두 사람에게 맡겨라\! 정반대이니까, 최강의 버디.**〉.
+[2014년](../Page/2014년.md "wikilink") [7월 16일부터](../Page/7월_16일.md "wikilink") [9월 17일까지](../Page/9월_17일.md "wikilink") [수요일](../Page/수요일.md "wikilink") 22:00 \~ 23:00(〈[수요 드라마](https://ko.wikipedia.org/wiki/수요드라마_\(닛폰_TV\) "wikilink")〉 시간대)에 방송되었다. 주연은 후지와라 타츠야, 오카다 마사키. [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**불가해한 사건은 두 사람에게 맡겨라\! 정반대이니까, 최강의 버디.**〉.
 
 #### 캐스트
 
 ##### 경시청 과학 특별 수사반 (ST)
 
-  - 아카기 사몬 (전문은 법의학·리더) - [후지와라 타츠야](https://ko.wikipedia.org/wiki/후지와라_타츠야 "wikilink")
-  - 유리네 토모히사 (캡) - [오카다 마사키](https://ko.wikipedia.org/wiki/오카다_마사키 "wikilink")
-  - 아오야마 쇼 (전문은 범죄 심리학) - [시다 미라이](https://ko.wikipedia.org/wiki/시다_미라이 "wikilink")
-  - 유키 미도리 (전문은 물리) - [아시나 세이](https://ko.wikipedia.org/wiki/아시나_세이 "wikilink")
+  - 아카기 사몬 (전문은 법의학·리더) - [후지와라 타츠야](../Page/후지와라_타츠야.md "wikilink")
+  - 유리네 토모히사 (캡) - [오카다 마사키](../Page/오카다_마사키.md "wikilink")
+  - 아오야마 쇼 (전문은 범죄 심리학) - [시다 미라이](../Page/시다_미라이.md "wikilink")
+  - 유키 미도리 (전문은 물리) - [아시나 세이](../Page/아시나_세이.md "wikilink")
   - 쿠로사키 유지 (전문은 화학) - [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink")
   - 야마부키 사이조 (전문은 화학) - 미야케 히로키
 
 ##### 경시청 형사부 수사 제1과
 
-  - 키쿠카와 고로 (수사관) - [타나카 테츠시](https://ko.wikipedia.org/wiki/다나카_테츠시 "wikilink")
+  - 키쿠카와 고로 (수사관) - [타나카 테츠시](../Page/다나카_테츠시.md "wikilink")
   - 츠츠이 모모코 (키쿠카와의 파트너) - 시바모토 유키
   - 마키무라 신지 (수사관) - [미카미 켄세이](https://ko.wikipedia.org/wiki/미카미_켄세이 "wikilink")
-  - 이케다 소스케 (관리관·유리네의 동기) - [하야시 켄토](https://ko.wikipedia.org/wiki/하야시_켄토 "wikilink")
-  - 마츠도 시오리 (이사관·ST 감사 역) - [세토 아사카](https://ko.wikipedia.org/wiki/세토_아사카 "wikilink")
-  - 사에구사 토시로 (전 참사관·Cafe'3 점주) - [와타베 아츠로](https://ko.wikipedia.org/wiki/와타베_아츠로 "wikilink")
+  - 이케다 소스케 (관리관·유리네의 동기) - [하야시 켄토](../Page/하야시_켄토.md "wikilink")
+  - 마츠도 시오리 (이사관·ST 감사 역) - [세토 아사카](../Page/세토_아사카.md "wikilink")
+  - 사에구사 토시로 (전 참사관·Cafe'3 점주) - [와타베 아츠로](../Page/와타베_아츠로.md "wikilink")
 
 #### 스태프
 
@@ -254,7 +254,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>평균 시청률 11.3% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>평균 시청률 11.3% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -268,26 +268,26 @@
 
 ## 영화
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 10일에](https://ko.wikipedia.org/wiki/1월_10일 "wikilink"), 일본에서 전국 [토호](https://ko.wikipedia.org/wiki/도호 "wikilink") 계열로 공개되었다\[3\].
+[2015년](../Page/2015년.md "wikilink") [1월 10일에](../Page/1월_10일.md "wikilink"), 일본에서 전국 [토호](../Page/도호.md "wikilink") 계열로 공개되었다\[3\].
 
 ### 캐스트
 
-  - 아카기 사몬 - [후지와라 타츠야](https://ko.wikipedia.org/wiki/후지와라_타츠야 "wikilink")
-  - 유리네 토모히사 - [오카다 마사키](https://ko.wikipedia.org/wiki/오카다_마사키 "wikilink")
-  - 아오야마 쇼 - [시다 미라이](https://ko.wikipedia.org/wiki/시다_미라이 "wikilink")
-  - 유키 미도리 - [아시나 세이](https://ko.wikipedia.org/wiki/아시나_세이 "wikilink")
+  - 아카기 사몬 - [후지와라 타츠야](../Page/후지와라_타츠야.md "wikilink")
+  - 유리네 토모히사 - [오카다 마사키](../Page/오카다_마사키.md "wikilink")
+  - 아오야마 쇼 - [시다 미라이](../Page/시다_미라이.md "wikilink")
+  - 유키 미도리 - [아시나 세이](../Page/아시나_세이.md "wikilink")
   - 쿠로사키 유지 - [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink")
   - 야마부키 사이조 - 미야케 히로키
-  - 키쿠카와 고로 - [타나카 테츠시](https://ko.wikipedia.org/wiki/다나카_테츠시 "wikilink")
+  - 키쿠카와 고로 - [타나카 테츠시](../Page/다나카_테츠시.md "wikilink")
   - 츠츠이 모모코 - 시바모토 유키
   - 마키무라 신지 - [미카미 켄세이](https://ko.wikipedia.org/wiki/미카미_켄세이 "wikilink")
-  - 이케다 소스케 - [하야시 켄토](https://ko.wikipedia.org/wiki/하야시_켄토 "wikilink")
-  - 마츠도 시오리 - [세토 아사카](https://ko.wikipedia.org/wiki/세토_아사카 "wikilink")
-  - 사에구사 토시로 - [와타베 아츠로](https://ko.wikipedia.org/wiki/와타베_아츠로 "wikilink")
+  - 이케다 소스케 - [하야시 켄토](../Page/하야시_켄토.md "wikilink")
+  - 마츠도 시오리 - [세토 아사카](../Page/세토_아사카.md "wikilink")
+  - 사에구사 토시로 - [와타베 아츠로](../Page/와타베_아츠로.md "wikilink")
 
 #### 게스트
 
-  - 카부라기 토오루 - [유스케 산타마리아](https://ko.wikipedia.org/wiki/유스케_산타마리아 "wikilink")
+  - 카부라기 토오루 - [유스케 산타마리아](../Page/유스케_산타마리아.md "wikilink")
   - 도지마 나오미 - 아다치 유미
   - 도지마 츠바키 - [스즈키 리오](../Page/스즈키_리오.md "wikilink")
 
@@ -297,9 +297,9 @@
   - 감독 - 사토 토야
   - 음악 - 키무라 히데아키라
   - 주제가 - 펑키 카토 〈태양〉 (DREAMUSIC)
-  - 제작 간사 - [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink")
+  - 제작 간사 - [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink")
   - 제작 프로덕션 - 닛테레 AX-ON
-  - 배급 - [토호](https://ko.wikipedia.org/wiki/도호 "wikilink")
+  - 배급 - [토호](../Page/도호.md "wikilink")
 
 ## 각주
 

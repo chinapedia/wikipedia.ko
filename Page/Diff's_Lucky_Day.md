@@ -3,7 +3,7 @@
 
 ***Diff's Lucky Day***는 [Blyss의](https://ko.wikipedia.org/wiki/라이프하우스#1996년_~_2000년:_Blyss,_그리고_라이프하우스_결성 "wikilink") [EP](https://ko.wikipedia.org/wiki/EP "wikilink")앨범으로 [Blyss는](https://ko.wikipedia.org/wiki/라이프하우스#1996년_~_2000년:_Blyss,_그리고_라이프하우스_결성 "wikilink") 이후 [라이프하우스 (Lifehouse)로](../Page/라이프하우스.md "wikilink") 밴드 이름을 바꾸어 활동한다.
 
-앨범의 [프로듀서인](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink") [론 아넬로 (Ron Aniello)](https://ko.wikipedia.org/wiki/론_아넬로 "wikilink"), 밴드의 리더 [제이슨 웨이드 (Jason Wade)](../Page/제이슨_웨이드.md "wikilink"), 그리고 밴드의 맴버 서지오 안드레드 (Sergio Andrade), 존 팔머 (Jon "Diff" Palmer), 콜린 헤이든 (Collin Hayden), 아론 로드 (Aaron Lord)는 1999년 그들의 앨범을 콘서트 공연에서 판매, 친구들에게 직접 판매, 소속사 계약 등의 목적으로 앨범을 제작하였다.\[1\]
+앨범의 [프로듀서인](../Page/음악_프로듀서.md "wikilink") [론 아넬로 (Ron Aniello)](https://ko.wikipedia.org/wiki/론_아넬로 "wikilink"), 밴드의 리더 [제이슨 웨이드 (Jason Wade)](../Page/제이슨_웨이드.md "wikilink"), 그리고 밴드의 맴버 서지오 안드레드 (Sergio Andrade), 존 팔머 (Jon "Diff" Palmer), 콜린 헤이든 (Collin Hayden), 아론 로드 (Aaron Lord)는 1999년 그들의 앨범을 콘서트 공연에서 판매, 친구들에게 직접 판매, 소속사 계약 등의 목적으로 앨범을 제작하였다.\[1\]
 
 ## 수록곡
 
@@ -23,9 +23,9 @@
 ## 참여
 
   - [제이슨 웨이드 (Jason Wade)](../Page/제이슨_웨이드.md "wikilink") - [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink")
-  - 서지오 안드레드 (Sergio Andrande) - [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 서지오 안드레드 (Sergio Andrande) - [베이스 기타](../Page/베이스_기타.md "wikilink")
   - 존 팔머 (Jon "Diff" Palmer) - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
-  - 콜린 헤이든 (Collin Hayden) - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - 콜린 헤이든 (Collin Hayden) - [기타](../Page/기타.md "wikilink")
   - 아론 로드 (Aaron Lord) - [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink")
 
 ## 참고사항

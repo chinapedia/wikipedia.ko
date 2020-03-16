@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA 15](https://ko.wikipedia.org/wiki/FIFA_15).
 
 
-《**FIFA 15**》는 [일렉트로닉 아츠에서](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 제작한 22번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 게임이다. 기존 콘솔 버전에서만 탑재된 이그나이트 엔진을 PC 버전에서도 탑재한 최초의 시리즈다.
+《**FIFA 15**》는 [일렉트로닉 아츠에서](../Page/일렉트로닉_아츠.md "wikilink") 제작한 22번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 게임이다. 기존 콘솔 버전에서만 탑재된 이그나이트 엔진을 PC 버전에서도 탑재한 최초의 시리즈다.
 
 ## 라이선스
 

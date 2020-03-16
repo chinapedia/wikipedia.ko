@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [2002 FIFA  E](https://ko.wikipedia.org/wiki/2002_FIFA__E).
 
 
-[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") E조**는 [독일](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink"), [사우디아라비아](https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀 "wikilink"), [아일랜드](https://ko.wikipedia.org/wiki/아일랜드_축구_국가대표팀 "wikilink"), 그리고 [카메룬이](https://ko.wikipedia.org/wiki/카메룬_축구_국가대표팀 "wikilink") 들어갔다. E조의 일정은 2002년 6월 1일에 시작되어 2002년 6월 11일에 완료되었다. [독일이](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink") 이 조에서 1위를 차지하여 [아일랜드와](https://ko.wikipedia.org/wiki/아일랜드_축구_국가대표팀 "wikilink") 함께 16강에 진출하였다. [카메룬과](https://ko.wikipedia.org/wiki/카메룬_축구_국가대표팀 "wikilink") [사우디아라비아는](https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀 "wikilink") 다음 라운드 진출에 실패하였으며, 특히 [독일한테](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink") 0-8로 대패를 당한 [사우디아라비아는](https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀 "wikilink") 무득점에 12실점을 기록하여 조 꼴찌는 물론 32개국 참가팀 중에서도 최하위로 탈락하는 수모를 당했다.
+[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") E조**는 [독일](../Page/독일_축구_국가대표팀.md "wikilink"), [사우디아라비아](../Page/사우디아라비아_축구_국가대표팀.md "wikilink"), [아일랜드](../Page/아일랜드_축구_국가대표팀.md "wikilink"), 그리고 [카메룬이](../Page/카메룬_축구_국가대표팀.md "wikilink") 들어갔다. E조의 일정은 2002년 6월 1일에 시작되어 2002년 6월 11일에 완료되었다. [독일이](../Page/독일_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지하여 [아일랜드와](../Page/아일랜드_축구_국가대표팀.md "wikilink") 함께 16강에 진출하였다. [카메룬과](../Page/카메룬_축구_국가대표팀.md "wikilink") [사우디아라비아는](../Page/사우디아라비아_축구_국가대표팀.md "wikilink") 다음 라운드 진출에 실패하였으며, 특히 [독일한테](../Page/독일_축구_국가대표팀.md "wikilink") 0-8로 대패를 당한 [사우디아라비아는](../Page/사우디아라비아_축구_국가대표팀.md "wikilink") 무득점에 12실점을 기록하여 조 꼴찌는 물론 32개국 참가팀 중에서도 최하위로 탈락하는 수모를 당했다.
 
 ## 순위
 
 |}
 
-  - *모든 시간은 [일본의](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
+  - *모든 시간은 [일본의](../Page/일본_표준시.md "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
 
 ## 아일랜드 vs 카메룬
 
@@ -86,7 +86,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/믹_매카시" title="wikilink">믹 매카시</a></p></td>
+<td><p><a href="../Page/믹_매카시.md" title="wikilink">믹 매카시</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -255,7 +255,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루디_푈러" title="wikilink">루디 푈러</a></p></td>
+<td><p><a href="../Page/루디_푈러.md" title="wikilink">루디 푈러</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -341,7 +341,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/미로슬라프_클로제" title="wikilink">미로슬라프 클로제</a> (독일)</p>
+<a href="../Page/미로슬라프_클로제.md" title="wikilink">미로슬라프 클로제</a> (독일)</p>
 <p><strong>부심:</strong><br />
 미겔 히아코무시 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
 마이클 라구나트 (<a href="https://ko.wikipedia.org/wiki/트리니다드_토바고_축구_협회" title="wikilink">트리니다드 토바고</a>)<br />
@@ -432,7 +432,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루디_푈러" title="wikilink">루디 푈러</a></p></td>
+<td><p><a href="../Page/루디_푈러.md" title="wikilink">루디 푈러</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -505,7 +505,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/믹_매카시" title="wikilink">믹 매카시</a></p></td>
+<td><p><a href="../Page/믹_매카시.md" title="wikilink">믹 매카시</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -518,7 +518,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/로비_킨" title="wikilink">로비 킨</a> (아일랜드)</p>
+<a href="../Page/로비_킨.md" title="wikilink">로비 킨</a> (아일랜드)</p>
 <p><strong>부심:</strong><br />
 옌스 라르센 (<a href="https://ko.wikipedia.org/wiki/덴마크_축구_협회" title="wikilink">덴마크</a>)<br />
 에브젠 암러 (<a href="https://ko.wikipedia.org/wiki/체코_축구_협회" title="wikilink">체코</a>)<br />
@@ -695,7 +695,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/사뮈엘_에토" title="wikilink">사뮈엘 에토</a> (카메룬)</p>
+<a href="../Page/사뮈엘_에토.md" title="wikilink">사뮈엘 에토</a> (카메룬)</p>
 <p><strong>부심:</strong><br />
 롤란트 판 닐런 (<a href="../Page/벨기에_왕립_축구_협회.md" title="wikilink">벨기에</a>)<br />
 마치에이 비에르즈보프스키 (<a href="https://ko.wikipedia.org/wiki/폴란드_축구_협회" title="wikilink">폴란드</a>)<br />
@@ -859,7 +859,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루디_푈러" title="wikilink">루디 푈러</a></p></td>
+<td><p><a href="../Page/루디_푈러.md" title="wikilink">루디 푈러</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -872,12 +872,12 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/미로슬라프_클로제" title="wikilink">미로슬라프 클로제</a> (독일)</p>
+<a href="../Page/미로슬라프_클로제.md" title="wikilink">미로슬라프 클로제</a> (독일)</p>
 <p><strong>부심:</strong><br />
 모하메드 사에드 (<a href="https://ko.wikipedia.org/wiki/몰디브_축구_협회" title="wikilink">몰디브</a>)<br />
 조르지 올리베이라 (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/피에를루이지_콜리나" title="wikilink">피에를루이지 콜리나</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)</p></td>
+<a href="../Page/피에를루이지_콜리나.md" title="wikilink">피에를루이지 콜리나</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -1036,7 +1036,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/믹_매카시" title="wikilink">믹 매카시</a></p></td>
+<td><p><a href="../Page/믹_매카시.md" title="wikilink">믹 매카시</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1049,7 +1049,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/데이미언_더프" title="wikilink">데이미언 더프</a> (아일랜드)</p>
+<a href="../Page/데이미언_더프.md" title="wikilink">데이미언 더프</a> (아일랜드)</p>
 <p><strong>부심:</strong><br />
 마치에이 비에르즈보프스키 (<a href="https://ko.wikipedia.org/wiki/폴란드_축구_협회" title="wikilink">폴란드</a>)<br />
 프레데리크 아르놀 (<a href="https://ko.wikipedia.org/wiki/프랑스_축구_협회" title="wikilink">프랑스</a>)<br />

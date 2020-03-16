@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG L70](https://ko.wikipedia.org/wiki/LG_L70).
 
 
-**LG L70**는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 제조/판매하는 보급형 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink") [LG L시리즈의](https://ko.wikipedia.org/wiki/LG_L "wikilink") 하나이다.
+**LG L70**는 [LG전자](../Page/LG전자.md "wikilink")가 제조/판매하는 보급형 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [스마트폰](../Page/스마트폰.md "wikilink") [LG L시리즈의](https://ko.wikipedia.org/wiki/LG_L "wikilink") 하나이다.
 
 ## 운영체제/소프트웨어
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Free\&Easy](https://ko.wikipedia.org/wiki/_Free\&Easy).
 
 
-〈**여름의 Free\&Easy**〉()는, [노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink")의 9번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**여름의 Free\&Easy**〉()는, [노기자카46](../Page/노기자카46.md "wikilink")의 9번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -16,7 +16,7 @@
 1.  **** / <small>**여름의 Free\&Easy**</small>
 
       -
-        (작사: [아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") / 작곡: 이노우에 토모노리 / 편곡: 하시모토 코타)
+        (작사: [아키모토 야스시](../Page/아키모토_야스시.md "wikilink") / 작곡: 이노우에 토모노리 / 편곡: 하시모토 코타)
 
 2.  **** / <small>**아무것도 못한 채 곁에 있는다**</small>
 
@@ -107,9 +107,9 @@
 
 (센터:니시노 나나세)
 
-  - 1열: [마츠무라 사유리](https://ko.wikipedia.org/wiki/마쓰무라_사유리 "wikilink"), [하시모토 나나미](../Page/하시모토_나나미.md "wikilink"), [니시노 나나세](../Page/니시노_나나세.md "wikilink"), [시라이시 마이](https://ko.wikipedia.org/wiki/시라이시_마이 "wikilink"), [마츠이 레나](https://ko.wikipedia.org/wiki/마쓰이_레나 "wikilink")
+  - 1열: [마츠무라 사유리](https://ko.wikipedia.org/wiki/마쓰무라_사유리 "wikilink"), [하시모토 나나미](../Page/하시모토_나나미.md "wikilink"), [니시노 나나세](../Page/니시노_나나세.md "wikilink"), [시라이시 마이](../Page/시라이시_마이.md "wikilink"), [마츠이 레나](https://ko.wikipedia.org/wiki/마쓰이_레나 "wikilink")
   - 2열: [이코마 리나](../Page/이코마_리나.md "wikilink"), 후카가와 마이, [사쿠라이 레이카](../Page/사쿠라이_레이카.md "wikilink"), 아키모토 마나츠, 와카츠키 유미
-  - 3열: 타카야마 카즈미, 호리 미오나, 야마토 리나, 호시노 미나미, 사이토 유리, 이노우에 사유리, [에토 미사](https://ko.wikipedia.org/wiki/에토_미사 "wikilink")
+  - 3열: 타카야마 카즈미, 호리 미오나, 야마토 리나, 호시노 미나미, 사이토 유리, 이노우에 사유리, [에토 미사](../Page/에토_미사.md "wikilink")
 
 ### 아무것도 못한 채 곁에 있는다
 

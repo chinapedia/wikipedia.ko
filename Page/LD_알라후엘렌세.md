@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [LD ](https://ko.wikipedia.org/wiki/LD_).
 
 
-**리가 데포르티보 알라후엘렌세**()는 [코스타리카](https://ko.wikipedia.org/wiki/코스타리카 "wikilink") [알라후엘라](https://ko.wikipedia.org/wiki/알라후엘라 "wikilink")를 연고로 하는 프로 축구 팀이며, 보통 **라 리가**(La Liga)라고 알려져있다.
+**리가 데포르티보 알라후엘렌세**()는 [코스타리카](../Page/코스타리카.md "wikilink") [알라후엘라](https://ko.wikipedia.org/wiki/알라후엘라 "wikilink")를 연고로 하는 프로 축구 팀이며, 보통 **라 리가**(La Liga)라고 알려져있다.
 
 *Once de Abril* 이라는 옛 축구팀의 7명이 1919년 6월 18일에 창단했고, 현재 [코스타리카 프리메라 디비시온에](https://ko.wikipedia.org/wiki/코스타리카_프리메라_디비시온 "wikilink") 참가중이며, [알레한드로 모레라 소토](https://ko.wikipedia.org/wiki/알레한드로_모레라_소토 "wikilink") 경기장을 홈 경기장으로 삼고 있다.\[1\] 알라후엘렌세는 코스타리카 축구 역사상 가장 성공적인 팀 중 하나이며, 29번의 프리메라 디비시온을 우승했고, 적어도 10년에 한번씩은 리그 우승을 하는 유일한 축구단이다. 축구단은 [CS 에레디아노와](../Page/CS_에레디아노.md "wikilink") 더불어 매번 1부 리그에 참가중이며, 단 한번도 강등된적이 없다.\[2\]
 
-알라후엘렌세는 세 번의 [코파 인테르클루베 UNCAF와](https://ko.wikipedia.org/wiki/코파_인테르클루베_UNCAF "wikilink") 두 번의 [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스리그 "wikilink") 우승을 경험했으며,\[3\] CONCACAF 챔피언스리그 우승은 코스타리카 클럽팀 사상 최초이며, 이를 통해 코스타리카 축구 클럽 사상 최초로 [코파 인테라메리카나에](https://ko.wikipedia.org/wiki/코파_인테라메리카나 "wikilink") 진출했다. 알라후엘렌세는 [중앙아메리카](https://ko.wikipedia.org/wiki/중앙아메리카 "wikilink") 축구팀 중 유일하게 2000년에 [코파 메르코노르테](https://ko.wikipedia.org/wiki/코파_메르코노르테 "wikilink"),\[4\] 2006년에 [코파 수다메리카나](https://ko.wikipedia.org/wiki/코파_수다메리카나 "wikilink")\[5\] 등 [남미 축구 연맹](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink") 주관의 대회에 참가하였다.
+알라후엘렌세는 세 번의 [코파 인테르클루베 UNCAF와](https://ko.wikipedia.org/wiki/코파_인테르클루베_UNCAF "wikilink") 두 번의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink") 우승을 경험했으며,\[3\] CONCACAF 챔피언스리그 우승은 코스타리카 클럽팀 사상 최초이며, 이를 통해 코스타리카 축구 클럽 사상 최초로 [코파 인테라메리카나에](../Page/코파_인테라메리카나.md "wikilink") 진출했다. 알라후엘렌세는 [중앙아메리카](../Page/중앙아메리카.md "wikilink") 축구팀 중 유일하게 2000년에 [코파 메르코노르테](../Page/코파_메르코노르테.md "wikilink"),\[4\] 2006년에 [코파 수다메리카나](../Page/코파_수다메리카나.md "wikilink")\[5\] 등 [남미 축구 연맹](../Page/남미_축구_연맹.md "wikilink") 주관의 대회에 참가하였다.
 
-알라후엘렌세는 중앙아메리카 축구 클럽중 [국제축구역사통계연맹](../Page/국제축구역사통계연맹.md "wikilink")이 2000년에 선정한 세계 클럽 랭킹에서 27위로 가장 높은 순위에 올랐었다. 2006년 카파 수다메리카나에 초대받았지만 [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink")의 축구팀 [콜로-콜로](../Page/콜로-콜로.md "wikilink")에게 2-11로 대파당했다.\[6\]
+알라후엘렌세는 중앙아메리카 축구 클럽중 [국제축구역사통계연맹](../Page/국제축구역사통계연맹.md "wikilink")이 2000년에 선정한 세계 클럽 랭킹에서 27위로 가장 높은 순위에 올랐었다. 2006년 카파 수다메리카나에 초대받았지만 [칠레](../Page/칠레.md "wikilink")의 축구팀 [콜로-콜로](../Page/콜로-콜로.md "wikilink")에게 2-11로 대파당했다.\[6\]
 
 ## 역대 성적
 
@@ -83,7 +83,7 @@
 
 <!-- end list -->
 
-  - **[CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스리그 "wikilink")**\[17\]
+  - **[CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink")**\[17\]
 
 <!-- end list -->
 
@@ -93,7 +93,7 @@
 
 <!-- end list -->
 
-  - **[코파 인테라메리카나](https://ko.wikipedia.org/wiki/코파_인테라메리카나 "wikilink")**\[18\]
+  - **[코파 인테라메리카나](../Page/코파_인테라메리카나.md "wikilink")**\[18\]
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 **친선 대회:**
 
   -
-    2004: *코파 타카 데 캄페온 데 캄페오네스 데 아메리카, [온세 칼다스와](../Page/온세_칼다스.md "wikilink") (옛 [코파 리베르타도레스](https://ko.wikipedia.org/wiki/코파_리베르타도레스 "wikilink") 우승팀)*
+    2004: *코파 타카 데 캄페온 데 캄페오네스 데 아메리카, [온세 칼다스와](../Page/온세_칼다스.md "wikilink") (옛 [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 우승팀)*
 
 ## 유명 선수
 
@@ -127,13 +127,13 @@
 
   - [마르코 우레냐](../Page/마르코_우레냐.md "wikilink")
 
-  - [헤리 팔라시오스](https://ko.wikipedia.org/wiki/헤리_팔라시오스 "wikilink")
+  - [헤리 팔라시오스](../Page/헤리_팔라시오스.md "wikilink")
 
-  - [안드라지 안투니스 안데르송](https://ko.wikipedia.org/wiki/안드라지_안투니스_안데르송 "wikilink")
+  - [안드라지 안투니스 안데르송](../Page/안드라지_안투니스_안데르송.md "wikilink")
 
 ## 결번
 
-<big>**20**</big> –  [마우리시오 몬테로](https://ko.wikipedia.org/wiki/마우리시오_몬테로 "wikilink"), [수비수](https://ko.wikipedia.org/wiki/수비수 "wikilink") (1987–1998)
+<big>**20**</big> –  [마우리시오 몬테로](https://ko.wikipedia.org/wiki/마우리시오_몬테로 "wikilink"), [수비수](../Page/수비수.md "wikilink") (1987–1998)
 
 ## 각주
 

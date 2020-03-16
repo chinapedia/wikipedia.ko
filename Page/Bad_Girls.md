@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bad Girls](https://ko.wikipedia.org/wiki/Bad_Girls).
 
 
-〈**Bad Girls**〉는 대한민국의 가수 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")의 노래이다. 이효리의 다섯 번째 정규 앨범 《[MONOCHROME](../Page/MONOCHROME.md "wikilink")》의 타이틀곡으로, 2013년 5월 21일 발매되었다.
+〈**Bad Girls**〉는 대한민국의 가수 [이효리](../Page/이효리.md "wikilink")의 노래이다. 이효리의 다섯 번째 정규 앨범 《[MONOCHROME](../Page/MONOCHROME.md "wikilink")》의 타이틀곡으로, 2013년 5월 21일 발매되었다.
 
 ## 차트
 
@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>)[1]</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>)[1]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Crossing field](https://ko.wikipedia.org/wiki/Crossing_field).
 
 
-〈**Crossing Field**〉(크로싱 필드, )는 [LiSA](https://ko.wikipedia.org/wiki/LiSA "wikilink")의 두번째 싱글, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 8일에](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") [애니플렉스](https://ko.wikipedia.org/wiki/애니플렉스 "wikilink")에서 발매되었다.
+〈**Crossing Field**〉(크로싱 필드, )는 [LiSA](../Page/LiSA.md "wikilink")의 두번째 싱글, [2012년](../Page/2012년.md "wikilink") [8월 8일에](../Page/8월_8일.md "wikilink") [애니플렉스](../Page/애니플렉스.md "wikilink")에서 발매되었다.
 
 ## 개요
 
-전작〈[oath sign](https://ko.wikipedia.org/wiki/oath_sign "wikilink")〉부터 약 9개월 만에 2012년 1월 작목의 싱글. 표제곡〈Crossing Field〉는 [TV 애니메이션](https://ko.wikipedia.org/wiki/TV_애니메이션 "wikilink") 《**[소드 아트 온라인](https://ko.wikipedia.org/wiki/소드_아트_온라인 "wikilink")**》아인크라드 편의 오프닝 테마 로 기용된\[1\],「신뢰」를 테마로 한 곡으로, LiSA 자신도 “소드 아트 온라인 속 전투를 표현한 노래이다”라고 말하고 있다\[2\].
+전작〈[oath sign](https://ko.wikipedia.org/wiki/oath_sign "wikilink")〉부터 약 9개월 만에 2012년 1월 작목의 싱글. 표제곡〈Crossing Field〉는 [TV 애니메이션](https://ko.wikipedia.org/wiki/TV_애니메이션 "wikilink") 《**[소드 아트 온라인](../Page/소드_아트_온라인.md "wikilink")**》아인크라드 편의 오프닝 테마 로 기용된\[1\],「신뢰」를 테마로 한 곡으로, LiSA 자신도 “소드 아트 온라인 속 전투를 표현한 노래이다”라고 말하고 있다\[2\].
 
 ## 수록곡
 
@@ -14,7 +14,7 @@
 1.  **Crossing Field**
       -
         작사·작곡: [와타나베 쇼](https://ko.wikipedia.org/wiki/와타나베_쇼 "wikilink"), 편곡: とく
-        [TV 애니메이션](https://ko.wikipedia.org/wiki/TV_애니메이션 "wikilink")『[소드 아트 온라인](https://ko.wikipedia.org/wiki/소드_아트_온라인 "wikilink")』아인크라드 편 오프닝 테마.
+        [TV 애니메이션](https://ko.wikipedia.org/wiki/TV_애니메이션 "wikilink")『[소드 아트 온라인](../Page/소드_아트_온라인.md "wikilink")』아인크라드 편 오프닝 테마.
 2.  **언젠가의 편지()** \[5:40\]
       -
         작사: 古屋真, 작곡·편곡: 黒須克彦

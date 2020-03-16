@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Go WEST  !](https://ko.wikipedia.org/wiki/Go_WEST__!).
 
 
-《**go WEST 준비 땅\!**》()은, [쟈니즈WEST의](../Page/자니스WEST.md "wikilink") 1번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**go WEST 준비 땅\!**》()은, [쟈니즈WEST의](../Page/자니스WEST.md "wikilink") 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -65,7 +65,7 @@
 
 1.  **** / <small>**좋지 않은가**</small>
       -
-        작사: [이와사키 타카후미](https://ko.wikipedia.org/wiki/이와사키_타카후미 "wikilink"), mildsalt / 작곡: 이와사키 타카후미 / 편곡: CHOKKAKU
+        작사: [이와사키 타카후미](../Page/이와사키_타카후미.md "wikilink"), mildsalt / 작곡: 이와사키 타카후미 / 편곡: CHOKKAKU
 2.  **Summer Dreamer**
 3.  **** / <small>**코나몬**</small>
 4.  **Wake up！**

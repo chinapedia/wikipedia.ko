@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TRI-ANGLE](https://ko.wikipedia.org/wiki/TRI-ANGLE).
 
 
-《**TRI-ANGLE**》(트라이앵글)은 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 첫 번째 정규 음반이다.
+《**TRI-ANGLE**》(트라이앵글)은 [동방신기](../Page/동방신기.md "wikilink")의 첫 번째 정규 음반이다.
 
 ## 수록곡
 

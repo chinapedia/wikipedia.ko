@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2006 FIFA  H](https://ko.wikipedia.org/wiki/2006_FIFA__H).
 
 
-**2006년 FIFA 월드컵 H조**는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. H조 일정은 2006년 6월 14일에 시작하여 2006년 6월 23일에 완료되었다. [스페인은](https://ko.wikipedia.org/wiki/스페인_축구_국가대표팀 "wikilink") 이 조에서 1위를 차지해 [우크라이나와](https://ko.wikipedia.org/wiki/우크라이나_축구_국가대표팀 "wikilink") 함께 다음 라운드에 진출하였다. 반면 [튀니지와](https://ko.wikipedia.org/wiki/튀니지_축구_국가대표팀 "wikilink") [사우디아라비아](https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀 "wikilink") 축구 국가대표팀은 그리하지 못하였다.
+**2006년 FIFA 월드컵 H조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. H조 일정은 2006년 6월 14일에 시작하여 2006년 6월 23일에 완료되었다. [스페인은](../Page/스페인_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지해 [우크라이나와](../Page/우크라이나_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 반면 [튀니지와](../Page/튀니지_축구_국가대표팀.md "wikilink") [사우디아라비아](../Page/사우디아라비아_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 그리하지 못하였다.
 
 ## 순위
 
@@ -90,7 +90,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_아라고네스" title="wikilink">루이스 아라고네스</a></p></td>
+<td><p><a href="../Page/루이스_아라고네스.md" title="wikilink">루이스 아라고네스</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -163,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/올레흐_블로힌" title="wikilink">올레흐 블로힌</a></p></td>
+<td><p><a href="../Page/올레흐_블로힌.md" title="wikilink">올레흐 블로힌</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -172,18 +172,18 @@
 </tbody>
 </table>
 
-[섬네일과](https://ko.wikipedia.org/wiki/파일:Football_fans_with_defaced_flag_of_Spain.jpg "wikilink") [우크라이나](https://ko.wikipedia.org/wiki/우크라이나_축구_국가대표팀 "wikilink") 경기 당일, 스페인 팬들이 자신들의 출신지가 써진 [국기를](https://ko.wikipedia.org/wiki/스페인의_국기 "wikilink") 들고 촬영에 응하고 있다.\]\]
+[섬네일과](https://ko.wikipedia.org/wiki/파일:Football_fans_with_defaced_flag_of_Spain.jpg "wikilink") [우크라이나](../Page/우크라이나_축구_국가대표팀.md "wikilink") 경기 당일, 스페인 팬들이 자신들의 출신지가 써진 [국기를](../Page/스페인의_국기.md "wikilink") 들고 촬영에 응하고 있다.\]\]
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/사비_에르난데스" title="wikilink">샤비</a> (스페인)</p>
+<a href="../Page/사비_에르난데스.md" title="wikilink">샤비</a> (스페인)</p>
 <p><strong>부심:</strong><br />
 프란체스코 부라지나 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
 마티아스 아네트 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/로베르토_로세티" title="wikilink">로베르토 로세티</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
+<a href="../Page/로베르토_로세티.md" title="wikilink">로베르토 로세티</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 <strong>후보 대기심:</strong><br />
 크리스티아노 코펠리 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)</p></td>
 </tr>
@@ -271,7 +271,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로제_르메르" title="wikilink">로제 르메르</a></p></td>
+<td><p><a href="../Page/로제_르메르.md" title="wikilink">로제 르메르</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -353,7 +353,7 @@
 </tbody>
 </table>
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Tunesischer_Jubel.jpg "wikilink") [올림피아 공원](https://ko.wikipedia.org/wiki/올륌피아파크 "wikilink") 팬파크의 [튀니지](https://ko.wikipedia.org/wiki/튀니지_축구_국가대표팀 "wikilink") 팬들.\]\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Tunesischer_Jubel.jpg "wikilink") [올림피아 공원](https://ko.wikipedia.org/wiki/올륌피아파크 "wikilink") 팬파크의 [튀니지](../Page/튀니지_축구_국가대표팀.md "wikilink") 팬들.\]\]
 
 <table>
 <tbody>
@@ -525,7 +525,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/올레흐_블로힌" title="wikilink">올레흐 블로힌</a></p></td>
+<td><p><a href="../Page/올레흐_블로힌.md" title="wikilink">올레흐 블로힌</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -534,13 +534,13 @@
 </tbody>
 </table>
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:WM06_ASA-UKR_3-0_Public.jpg "wikilink") 3번째 골에 환호하는 [우크라이나](https://ko.wikipedia.org/wiki/우크라이나_축구_국가대표팀 "wikilink") 팬들.\]\]
+[섬네일의](https://ko.wikipedia.org/wiki/파일:WM06_ASA-UKR_3-0_Public.jpg "wikilink") 3번째 골에 환호하는 [우크라이나](../Page/우크라이나_축구_국가대표팀.md "wikilink") 팬들.\]\]
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/막심_칼리니첸코" title="wikilink">막심 칼리니첸코</a> (우크라이나)</p>
+<a href="../Page/막심_칼리니첸코.md" title="wikilink">막심 칼리니첸코</a> (우크라이나)</p>
 <p><strong>부심:</strong><br />
 필립 샤프 (<a href="https://ko.wikipedia.org/wiki/잉글랜드_축구_협회" title="wikilink">잉글랜드</a>)<br />
 글렌 터너 (<a href="https://ko.wikipedia.org/wiki/잉글랜드_축구_협회" title="wikilink">잉글랜드</a>)<br />
@@ -633,7 +633,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_아라고네스" title="wikilink">루이스 아라고네스</a></p></td>
+<td><p><a href="../Page/루이스_아라고네스.md" title="wikilink">루이스 아라고네스</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -706,7 +706,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로제_르메르" title="wikilink">로제 르메르</a></p></td>
+<td><p><a href="../Page/로제_르메르.md" title="wikilink">로제 르메르</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -885,7 +885,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_아라고네스" title="wikilink">루이스 아라고네스</a></p></td>
+<td><p><a href="../Page/루이스_아라고네스.md" title="wikilink">루이스 아라고네스</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -900,7 +900,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/후안_구티에레스_모레노" title="wikilink">후아니토</a> (스페인)</p>
+<a href="../Page/후안_구티에레스_모레노.md" title="wikilink">후아니토</a> (스페인)</p>
 <p><strong>부심:</strong><br />
 셀레스틴 은타군지라 (<a href="https://ko.wikipedia.org/wiki/르완다_축구_협회" title="wikilink">르완다</a>)<br />
 아부두 아데로주 (<a href="https://ko.wikipedia.org/wiki/베냉_축구_협회" title="wikilink">베냉</a>)<br />
@@ -993,7 +993,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/올레흐_블로힌" title="wikilink">올레흐 블로힌</a></p></td>
+<td><p><a href="../Page/올레흐_블로힌.md" title="wikilink">올레흐 블로힌</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1066,7 +1066,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로제_르메르" title="wikilink">로제 르메르</a></p></td>
+<td><p><a href="../Page/로제_르메르.md" title="wikilink">로제 르메르</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1081,7 +1081,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/아나톨리_티모슈크" title="wikilink">아나톨리 티모슈크</a> (우크라이나)</p>
+<a href="../Page/아나톨리_티모슈크.md" title="wikilink">아나톨리 티모슈크</a> (우크라이나)</p>
 <p><strong>부심:</strong><br />
 마누엘 베르날 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
 아멜리오 안디노 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />

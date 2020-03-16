@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Smack My Bitch Up](https://ko.wikipedia.org/wiki/Smack_My_Bitch_Up).
 
 
-"**Smack My Bitch Up**"은 영국의 [빅 비트](https://ko.wikipedia.org/wiki/빅_비트 "wikilink") 그룹 [프로디지](https://ko.wikipedia.org/wiki/프로디지 "wikilink")의 노래이다. 1997년 11월 발표되었으며, 음반 *[The Fat of the Land](https://ko.wikipedia.org/wiki/The_Fat_of_the_Land "wikilink")*에 수록되었다. 1997년 한해만 영국에서 10만 장이 팔렸다.
+"**Smack My Bitch Up**"은 영국의 [빅 비트](https://ko.wikipedia.org/wiki/빅_비트 "wikilink") 그룹 [프로디지](../Page/프로디지.md "wikilink")의 노래이다. 1997년 11월 발표되었으며, 음반 *[The Fat of the Land](https://ko.wikipedia.org/wiki/The_Fat_of_the_Land "wikilink")*에 수록되었다. 1997년 한해만 영국에서 10만 장이 팔렸다.
 
 [여성혐오](../Page/여성혐오.md "wikilink")로 보일 수 있는 제목과, 폭력적이고 선정적인 뮤직비디오로 인해 논란의 대상이 된 작품이다.
 
@@ -11,9 +11,9 @@
 
 ## 뮤직비디오
 
-[뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")는 스웨덴의 [요나스 오케르룬드가](https://ko.wikipedia.org/wiki/요나스_오케르룬드 "wikilink") 감독했다. 런던의 밤거리를 배경으로, 1인칭 시점의 주인공이 [음주운전](https://ko.wikipedia.org/wiki/음주운전 "wikilink"), [코카인](https://ko.wikipedia.org/wiki/코카인 "wikilink") 흡입, 반달리즘, 구토, 남자 폭행, 여자 성추행, [뺑소니](https://ko.wikipedia.org/wiki/뺑소니 "wikilink") 등을 저지르고 다닌다. 주인공은 술집에서 스트리퍼를 데리고 나와 집으로 가서 그녀와 섹스한다. 스트리퍼가 물건을 챙겨 나가자 주인공이 거울을 바라보고, 주인공이 여성이었음이 밝혀진다. 주인공이 침대에 무너지듯 누우면서 비디오가 끝난다.
+[뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")는 스웨덴의 [요나스 오케르룬드가](https://ko.wikipedia.org/wiki/요나스_오케르룬드 "wikilink") 감독했다. 런던의 밤거리를 배경으로, 1인칭 시점의 주인공이 [음주운전](https://ko.wikipedia.org/wiki/음주운전 "wikilink"), [코카인](../Page/코카인.md "wikilink") 흡입, 반달리즘, 구토, 남자 폭행, 여자 성추행, [뺑소니](../Page/뺑소니.md "wikilink") 등을 저지르고 다닌다. 주인공은 술집에서 스트리퍼를 데리고 나와 집으로 가서 그녀와 섹스한다. 스트리퍼가 물건을 챙겨 나가자 주인공이 거울을 바라보고, 주인공이 여성이었음이 밝혀진다. 주인공이 침대에 무너지듯 누우면서 비디오가 끝난다.
 
-이 뮤직비디오는 [MTV](https://ko.wikipedia.org/wiki/MTV "wikilink")에서 방영이 금지당했던 바 있다.\[4\]
+이 뮤직비디오는 [MTV](../Page/MTV.md "wikilink")에서 방영이 금지당했던 바 있다.\[4\]
 
 ## 인기 순위표
 

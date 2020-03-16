@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kis-My-Journey](https://ko.wikipedia.org/wiki/Kis-My-Journey).
 
 
-《**Kis-My-Journey**》는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"), [Kis-My-Ft2](https://ko.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")의 3번째 정규 음반이다.
+《**Kis-My-Journey**》는, [일본](../Page/일본.md "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"), [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 3번째 정규 음반이다.
 
 ## 개요
 
@@ -18,7 +18,7 @@
 7.  **LU4E ～Last Song～** ([FUJIGAYA TAISUKE](https://ko.wikipedia.org/wiki/후지가야_다이스케 "wikilink"))
 8.  '''Only One... ''' ([TAMAMORI YUTA](https://ko.wikipedia.org/wiki/다마모리_유타 "wikilink"))
 9.  **FIRE\!\!\!** ([KITAYAMA HIROMITSU](https://ko.wikipedia.org/wiki/기타야마_히로미쓰 "wikilink")/ [FUJIGAYA TAISUKE](https://ko.wikipedia.org/wiki/후지가야_다이스케 "wikilink"))
-10. **[棚からぼたもち](https://ko.wikipedia.org/wiki/다나카라보타모치 "wikilink")** ([YOKOO WATARU](https://ko.wikipedia.org/wiki/요코오_와타루 "wikilink")/[MIYATA TOSHIYA](https://ko.wikipedia.org/wiki/미야타_도시야 "wikilink")/[NIKAIDO TAKASHI](https://ko.wikipedia.org/wiki/니카이도_다카시 "wikilink")/[SENGA KENTO](https://ko.wikipedia.org/wiki/센가_겐토 "wikilink")-[舞祭組](../Page/부사이쿠.md "wikilink"))
+10. **[棚からぼたもち](https://ko.wikipedia.org/wiki/다나카라보타모치 "wikilink")** ([YOKOO WATARU](../Page/요코오_와타루.md "wikilink")/[MIYATA TOSHIYA](https://ko.wikipedia.org/wiki/미야타_도시야 "wikilink")/[NIKAIDO TAKASHI](https://ko.wikipedia.org/wiki/니카이도_다카시 "wikilink")/[SENGA KENTO](https://ko.wikipedia.org/wiki/센가_겐토 "wikilink")-[舞祭組](../Page/부사이쿠.md "wikilink"))
 11. **ツバサ**
 12. **[光のシグナル](https://ko.wikipedia.org/wiki/히카리노시그널 "wikilink")** <small>**빛의 신호**</small>
 13. **僕らの約束**

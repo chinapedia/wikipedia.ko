@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**뭄바이 FC**(Mumbai Fooball Club), [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")의 최대 도시 [마하라슈트라 주](https://ko.wikipedia.org/wiki/마하라슈트라_주 "wikilink") [뭄바이](https://ko.wikipedia.org/wiki/뭄바이 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [I-리그](https://ko.wikipedia.org/wiki/I-리그 "wikilink")에서 활동하고 있다.
+**뭄바이 FC**(Mumbai Fooball Club), [인도](../Page/인도.md "wikilink")의 최대 도시 [마하라슈트라 주](https://ko.wikipedia.org/wiki/마하라슈트라_주 "wikilink") [뭄바이](../Page/뭄바이.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [I-리그](https://ko.wikipedia.org/wiki/I-리그 "wikilink")에서 활동하고 있다.
 
 ## 성적
 
 ## 유명 선수
 
-  - [니콜라 아넬카](https://ko.wikipedia.org/wiki/니콜라_아넬카 "wikilink")
+  - [니콜라 아넬카](../Page/니콜라_아넬카.md "wikilink")
 
   - [프레드릭 융베리](https://ko.wikipedia.org/wiki/프레드릭_융베리 "wikilink")
 

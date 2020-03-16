@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SIGNAL \(KAT-TUN \)](https://ko.wikipedia.org/wiki/SIGNAL_\(KAT-TUN_\)).
 
 
-〈**SIGNAL**〉(시그널)은, [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN "wikilink")의 2번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**SIGNAL**〉(시그널)은, [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -14,7 +14,7 @@
 **CD**
 
 1.  **SIGNAL**
-      - 작사 : ma-saya / 작곡: Joey Carbone, LISA HUNG / 편곡: AKIRA / Rap 작사: [JOKER](https://ko.wikipedia.org/wiki/다나카_코키 "wikilink")
+      - 작사 : ma-saya / 작곡: Joey Carbone, LISA HUNG / 편곡: AKIRA / Rap 작사: [JOKER](../Page/다나카_코키.md "wikilink")
 2.  SIGNAL（オリジナル・カラオケ）
 
 **DVD**

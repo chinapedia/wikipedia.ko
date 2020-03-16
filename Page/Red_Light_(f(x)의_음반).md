@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Red Light \(f\(x\) \)](https://ko.wikipedia.org/wiki/Red_Light_\(f\(x\)_\)).
 
 
-《**Red Light**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 세 번째 정규 앨범으로, [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 7일에](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 발매되었다.
+《**Red Light**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 세 번째 정규 앨범으로, [2014년](../Page/2014년.md "wikilink") [7월 7일에](../Page/7월_7일.md "wikilink") 발매되었다.
 
 ## 발매 과정
 
-2014년 5월 3일 f(x)의 멤버 [빅토리아가](https://ko.wikipedia.org/wiki/빅토리아_\(가수\) "wikilink") MBC 뮤직 《우상본색》에 출연해 여름 쯤에 새 앨범을 만날 수 있다고 말했다.\[1\] 이후 6월 27일 새 앨범의 제목과 함께 컴백 발표를 했고, [크리스탈의](https://ko.wikipedia.org/wiki/크리스탈_\(가수\) "wikilink") 티저 이미지를 공개했다.\[2\] 7월 2일에는 [엠버의](https://ko.wikipedia.org/wiki/엠버_\(가수\) "wikilink") 마지막 티저 이미지와 타이틀곡 Red light 뮤직비디오 티저 그리고 정규 3집 하이라이트 메들리를 공개했다. 7월 3일에는 타이틀곡 레드 라이트(Red light)의 뮤직비디오를 공개하였고, 같은 날 엠카운트다운에서 타이틀곡 Red light와 수록곡 Milk의 무대를 선보이며 컴백 활동 시작을 알렸다. 7월 7일에는 정규 3집 Red light 앨범 발매와 음원 공개를 했다.
+2014년 5월 3일 f(x)의 멤버 [빅토리아가](../Page/빅토리아_\(가수\).md "wikilink") MBC 뮤직 《우상본색》에 출연해 여름 쯤에 새 앨범을 만날 수 있다고 말했다.\[1\] 이후 6월 27일 새 앨범의 제목과 함께 컴백 발표를 했고, [크리스탈의](../Page/크리스탈_\(가수\).md "wikilink") 티저 이미지를 공개했다.\[2\] 7월 2일에는 [엠버의](../Page/엠버_\(가수\).md "wikilink") 마지막 티저 이미지와 타이틀곡 Red light 뮤직비디오 티저 그리고 정규 3집 하이라이트 메들리를 공개했다. 7월 3일에는 타이틀곡 레드 라이트(Red light)의 뮤직비디오를 공개하였고, 같은 날 엠카운트다운에서 타이틀곡 Red light와 수록곡 Milk의 무대를 선보이며 컴백 활동 시작을 알렸다. 7월 7일에는 정규 3집 Red light 앨범 발매와 음원 공개를 했다.
 
 ## 수록곡
 
@@ -27,11 +27,11 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 월드 앨범 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[4]</p></td>
+<td><p>미국 월드 앨범 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[4]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p>미국 히트시커스 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[5]</p></td>
+<td><p>미국 히트시커스 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[5]</p></td>
 <td><p>13</p></td>
 </tr>
 <tr class="even">

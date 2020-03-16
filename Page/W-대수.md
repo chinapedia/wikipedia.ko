@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [W-](https://ko.wikipedia.org/wiki/W-).
 
 
-[수학](https://ko.wikipedia.org/wiki/수학 "wikilink")과 [등각 장론에서](https://ko.wikipedia.org/wiki/등각_장론 "wikilink"), **W-대수**(W-代數, )는 [2차원 등각 장론의](https://ko.wikipedia.org/wiki/2차원_등각_장론 "wikilink") 무질량 고차 스핀 정칙장에 의해 생성되는 대칭이다.\[1\]\[2\]\[3\] [비라소로 대수를](../Page/비라소로_대수.md "wikilink") 일반화한다.
+[수학](../Page/수학.md "wikilink")과 [등각 장론에서](../Page/등각_장론.md "wikilink"), **W-대수**(W-代數, )는 [2차원 등각 장론의](../Page/2차원_등각_장론.md "wikilink") 무질량 고차 스핀 정칙장에 의해 생성되는 대칭이다.\[1\]\[2\]\[3\] [비라소로 대수를](../Page/비라소로_대수.md "wikilink") 일반화한다.
 
 ## 정의
 
@@ -13,7 +13,7 @@
 
 ### 스핀 3
 
-스핀 3의 W-대수 \(W_3\)는 [알렉산드르 자몰롯치코프가](../Page/알렉산드르_자몰롯치코프.md "wikilink") 1985년에 발견하였다.\[4\] 이는 스핀 2의 정칙 1차장 \(T(z)\)([에너지-운동량 텐서](https://ko.wikipedia.org/wiki/에너지-운동량_텐서 "wikilink"))과 스핀 3의 정칙 1차장 \(W(z)\)를 가지며, 이들 사이의 [연산자 곱 전개는](https://ko.wikipedia.org/wiki/연산자_곱_전개 "wikilink") 다음과 같다.
+스핀 3의 W-대수 \(W_3\)는 [알렉산드르 자몰롯치코프가](../Page/알렉산드르_자몰롯치코프.md "wikilink") 1985년에 발견하였다.\[4\] 이는 스핀 2의 정칙 1차장 \(T(z)\)([에너지-운동량 텐서](../Page/에너지-운동량_텐서.md "wikilink"))과 스핀 3의 정칙 1차장 \(W(z)\)를 가지며, 이들 사이의 [연산자 곱 전개는](https://ko.wikipedia.org/wiki/연산자_곱_전개 "wikilink") 다음과 같다.
 
 \[T(z+w)T(w)=z^{-1}\partial T(w)+2z^{-2}T(w)+\frac12cz^{-4}\]
 
@@ -21,7 +21,7 @@
 
 \[W(z)W(w)=\frac{16}{22+5c}\left(z^{-1}\partial\Lambda+2z^{-2}\Lambda\right)+\frac1{15}\left(z^{-1}\partial^3T(w)+\frac92z^{-2}\partial^2T(w)+15z^{-3}\partial T(w)+30z^{-4}T(w)\right)+\frac13cz^{-6}\] 여기서 \(\Lambda\)는 다음과 같이 정의되는 스핀-4 연산자이다.
 
-\[\Lambda(z)=:TT:(z)-\frac3{10}\partial^2T(z)\] 여기서 \(:\cdots:\)는 [표준 순서를](https://ko.wikipedia.org/wiki/표준_순서 "wikilink") 나타낸다.
+\[\Lambda(z)=:TT:(z)-\frac3{10}\partial^2T(z)\] 여기서 \(:\cdots:\)는 [표준 순서를](../Page/표준_순서.md "wikilink") 나타낸다.
 
 \(W_3\)에 대해서도 일련의 유니터리 [최소 모형을](../Page/최소_모형_\(등각_장론\).md "wikilink") 정의할 수 있으며, 이들의 중심 전하는 다음과 같다.\[5\]
 

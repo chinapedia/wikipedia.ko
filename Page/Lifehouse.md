@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Lifehouse](https://ko.wikipedia.org/wiki/Lifehouse).
 
 
-***Lifehouse***는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [록](https://ko.wikipedia.org/wiki/록_음악 "wikilink") 밴드 [라이프하우스 (Lifehouse)의](../Page/라이프하우스.md "wikilink") 세번째 [정규 앨범이며](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 22일](https://ko.wikipedia.org/wiki/3월_22일 "wikilink") 발매되었다.
+***Lifehouse***는 [미국](../Page/미국.md "wikilink")의 [록](../Page/록_음악.md "wikilink") 밴드 [라이프하우스 (Lifehouse)의](../Page/라이프하우스.md "wikilink") 세번째 [정규 앨범이며](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink") [2005년](../Page/2005년.md "wikilink") [3월 22일](../Page/3월_22일.md "wikilink") 발매되었다.
 
-앨범은 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 차트에 10위로 데뷔하였으며 첫 주 63,000장의 판매고를 올리며 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") [RIAA (미국 음반 산업 협회)로부터](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink") [GOLD 인증을](https://ko.wikipedia.org/wiki/음반_판매량_인증 "wikilink") 받았다.\[1\]\[2\] *Lifehouse*는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 895,000장의 판매고를 올렸으며 전 세계에서 300만장의 판매고를 올렸다.
+앨범은 [빌보드 200](../Page/빌보드_200.md "wikilink") 차트에 10위로 데뷔하였으며 첫 주 63,000장의 판매고를 올리며 [2005년](../Page/2005년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") [RIAA (미국 음반 산업 협회)로부터](../Page/미국_음반_산업_협회.md "wikilink") [GOLD 인증을](../Page/음반_판매량_인증.md "wikilink") 받았다.\[1\]\[2\] *Lifehouse*는 [미국](../Page/미국.md "wikilink")에서 895,000장의 판매고를 올렸으며 전 세계에서 300만장의 판매고를 올렸다.
 
 ## 수록곡
 
@@ -14,8 +14,8 @@
 <!-- end list -->
 
   - [제이슨 웨이드 (Jason Wade)](../Page/제이슨_웨이드.md "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink"), 현악 편곡
-  - [릭 울스텐험(Rick Woolstenhulme Jr.)](../Page/릭_울스텐험_주니어.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), [퍼커션](https://ko.wikipedia.org/wiki/타악기 "wikilink"), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")
-  - [브라이스 소더버그 (Bryce Soderberg)](../Page/브라이스_소더버그.md "wikilink") – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [세컨 보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
+  - [릭 울스텐험(Rick Woolstenhulme Jr.)](../Page/릭_울스텐험_주니어.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), [퍼커션](https://ko.wikipedia.org/wiki/타악기 "wikilink"), [피아노](../Page/피아노.md "wikilink")
+  - [브라이스 소더버그 (Bryce Soderberg)](../Page/브라이스_소더버그.md "wikilink") – [베이스 기타](../Page/베이스_기타.md "wikilink"), [세컨 보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
 
 <!-- end list -->
 
@@ -23,8 +23,8 @@
 
 <!-- end list -->
 
-  - [존 알라지아 (John Alagía)](https://ko.wikipedia.org/wiki/존_알라지아 "wikilink") – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink"), [전자 기타](https://ko.wikipedia.org/wiki/전자_기타 "wikilink"), [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), [우쿨렐레](https://ko.wikipedia.org/wiki/우쿨렐레 "wikilink"), [하모니 보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [비브라폰](https://ko.wikipedia.org/wiki/비브라폰 "wikilink"), [체임벌린](https://ko.wikipedia.org/wiki/체임벌린_\(악기\) "wikilink")
-  - 올리버 크라우스(Oliver Kraus) – [첼로](https://ko.wikipedia.org/wiki/첼로 "wikilink"), 현악 편곡
+  - [존 알라지아 (John Alagía)](https://ko.wikipedia.org/wiki/존_알라지아 "wikilink") – [베이스 기타](../Page/베이스_기타.md "wikilink"), [피아노](../Page/피아노.md "wikilink"), [전자 기타](https://ko.wikipedia.org/wiki/전자_기타 "wikilink"), [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), [우쿨렐레](../Page/우쿨렐레.md "wikilink"), [하모니 보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [비브라폰](https://ko.wikipedia.org/wiki/비브라폰 "wikilink"), [체임벌린](https://ko.wikipedia.org/wiki/체임벌린_\(악기\) "wikilink")
+  - 올리버 크라우스(Oliver Kraus) – [첼로](../Page/첼로.md "wikilink"), 현악 편곡
 
 <!-- end list -->
 
@@ -32,9 +32,9 @@
 
 <!-- end list -->
 
-  - [존 알라지아 (John Alagía)](https://ko.wikipedia.org/wiki/존_알라지아 "wikilink") – [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), [오디오 믹싱](https://ko.wikipedia.org/wiki/오디오_믹싱 "wikilink")
+  - [존 알라지아 (John Alagía)](https://ko.wikipedia.org/wiki/존_알라지아 "wikilink") – [프로듀서](../Page/음악_프로듀서.md "wikilink"), [오디오 믹싱](https://ko.wikipedia.org/wiki/오디오_믹싱 "wikilink")
   - 대니 클린치 (Danny Clinch) – 사진 촬영
-  - [주드 콜 (Jude Cole)](https://ko.wikipedia.org/wiki/주드_콜 "wikilink") – [책임 프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink")
+  - [주드 콜 (Jude Cole)](https://ko.wikipedia.org/wiki/주드_콜 "wikilink") – [책임 프로듀서](../Page/음악_프로듀서.md "wikilink")
   - 테드 얀센 (Ted Jensen) – [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")
   - 제프 줄리아노 (Jeff Juliano) – 엔지니어, [오디오 믹싱](https://ko.wikipedia.org/wiki/오디오_믹싱 "wikilink")
 
@@ -46,14 +46,14 @@
 | ----------------------------------------------------------------- | ----- |
 | [프랑스 앨범 차트](https://ko.wikipedia.org/wiki/프랑스_음반_협회 "wikilink")   | 163   |
 | [일본 오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink")\[3\] | 143   |
-| [미국 *빌보드* 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink")  | 10    |
+| [미국 *빌보드* 200](../Page/빌보드_200.md "wikilink")                     | 10    |
 |                                                                   |       |
 
 ### 인증
 
-| 국가                                                | 인증   | 판매고       |
-| ------------------------------------------------- | ---- | --------- |
-| [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") | 플래티넘 | 1,000,000 |
+| 국가                             | 인증   | 판매고       |
+| ------------------------------ | ---- | --------- |
+| [미국](../Page/미국.md "wikilink") | 플래티넘 | 1,000,000 |
 
 ## 각주
 

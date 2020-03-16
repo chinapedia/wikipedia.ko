@@ -5,10 +5,10 @@
 
 ## 역사
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 예주저축은행 법인설립
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 아프로서비스그룹대부와 에이앤피파이낸셜대부의 예주저축은행과 예나래저축은행 인수 금융위원회 승인
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") OK저축은행 출범
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") OK저축은행과 OK2저축은행 합병
+  - [2013년](../Page/2013년.md "wikilink") [2월](../Page/2월.md "wikilink") 예주저축은행 법인설립
+  - [2014년](../Page/2014년.md "wikilink") [7월](../Page/7월.md "wikilink") 아프로서비스그룹대부와 에이앤피파이낸셜대부의 예주저축은행과 예나래저축은행 인수 금융위원회 승인
+  - [2014년](../Page/2014년.md "wikilink") [7월](../Page/7월.md "wikilink") OK저축은행 출범
+  - [2014년](../Page/2014년.md "wikilink") [11월](../Page/11월.md "wikilink") OK저축은행과 OK2저축은행 합병
 
 ## 영업점
 

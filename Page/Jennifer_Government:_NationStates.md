@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jennifer Government: NationStates](https://ko.wikipedia.org/wiki/Jennifer_Government:_NationStates).
 
 
-**Jennifer Government: NationStates** 또는 줄여서 **NationStates**는 멀티플레이 [정부 시뮬레이션](https://ko.wikipedia.org/wiki/정부_시뮬레이션_게임 "wikilink") [웹 게임](https://ko.wikipedia.org/wiki/웹_게임 "wikilink") 사이트이다. 이 사이트는 2002년 11월 13일 [맥스 베리가](https://ko.wikipedia.org/wiki/맥스_베리 "wikilink")\[1\] 그의 소설 [Jennifer Government를](https://ko.wikipedia.org/wiki/Jennifer_Government "wikilink") 느슨하게 기반해 제작했다.\[2\] 배리는 원래 책 출판 일주일 전 홍보를 위한 독립적인 수단으로 사이트를 개방했다.\[3\] 이 사이트는 계속해서 자신의 책을 홍보하고 있지만, 그 자체 특징으로 사이트가 성장했다.
+**Jennifer Government: NationStates** 또는 줄여서 **NationStates**는 멀티플레이 [정부 시뮬레이션](https://ko.wikipedia.org/wiki/정부_시뮬레이션_게임 "wikilink") [웹 게임](../Page/웹_게임.md "wikilink") 사이트이다. 이 사이트는 2002년 11월 13일 [맥스 베리가](https://ko.wikipedia.org/wiki/맥스_베리 "wikilink")\[1\] 그의 소설 [Jennifer Government를](https://ko.wikipedia.org/wiki/Jennifer_Government "wikilink") 느슨하게 기반해 제작했다.\[2\] 배리는 원래 책 출판 일주일 전 홍보를 위한 독립적인 수단으로 사이트를 개방했다.\[3\] 이 사이트는 계속해서 자신의 책을 홍보하고 있지만, 그 자체 특징으로 사이트가 성장했다.
 
 ## 게임플레이
 
@@ -17,7 +17,7 @@
 
 ## 국제 연합 사건
 
-2008년 [만우절](https://ko.wikipedia.org/wiki/만우절 "wikilink"), 베리는 [국제 연합으로부터](https://ko.wikipedia.org/wiki/국제_연합 "wikilink") 허가 없이 공식적으로 UN이라는 단어와 로고를 사용하는 것을 그만하라는 이메일을 받았다고 말했다. 이에 대해, 베리는 자신의 게임에서 UN을 없애고 세계 회의(World Assembly)라는 새로운 지배 구조를 만들었다고 말했다. 많은 플레이어들은 이를 베리의 만우절 농담이라고 생각했지만, WA가 몇 주 동안 계속되고 세계 회의라는 단어가 계속 남게 되면서 농담이 아니었다는 것이 밝혀졌다. 방안이 기록되는 방식을 제외하고, "UN"이라는 단체의 해산 이후에도 이전의 UN의 방식과 WA는 변한 점이 없다.\[18\]
+2008년 [만우절](../Page/만우절.md "wikilink"), 베리는 [국제 연합으로부터](https://ko.wikipedia.org/wiki/국제_연합 "wikilink") 허가 없이 공식적으로 UN이라는 단어와 로고를 사용하는 것을 그만하라는 이메일을 받았다고 말했다. 이에 대해, 베리는 자신의 게임에서 UN을 없애고 세계 회의(World Assembly)라는 새로운 지배 구조를 만들었다고 말했다. 많은 플레이어들은 이를 베리의 만우절 농담이라고 생각했지만, WA가 몇 주 동안 계속되고 세계 회의라는 단어가 계속 남게 되면서 농담이 아니었다는 것이 밝혀졌다. 방안이 기록되는 방식을 제외하고, "UN"이라는 단체의 해산 이후에도 이전의 UN의 방식과 WA는 변한 점이 없다.\[18\]
 
 ## NationStates 2
 
@@ -25,7 +25,7 @@
 
 ## 더 보기
 
-  - [마이크로네이션](https://ko.wikipedia.org/wiki/마이크로네이션 "wikilink")
+  - [마이크로네이션](../Page/마이크로네이션.md "wikilink")
   - [eRepublik](https://ko.wikipedia.org/wiki/eRepublik "wikilink")
   - [Cyber Nations](https://ko.wikipedia.org/wiki/Cyber_Nations "wikilink")
 

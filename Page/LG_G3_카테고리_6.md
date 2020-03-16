@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG G3  6](https://ko.wikipedia.org/wiki/LG_G3__6).
 
 
-**LG G3캡 6** ()는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 제조/판매하는 [구글 안드로이드](https://ko.wikipedia.org/wiki/구글_안드로이드 "wikilink") [패블릿](https://ko.wikipedia.org/wiki/패블릿 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. 5.5[인치](https://ko.wikipedia.org/wiki/인치 "wikilink") Quad HD [IPS](https://ko.wikipedia.org/wiki/IPS "wikilink") 디스플레이를 탑재하였다. CPU는 [퀄컴](https://ko.wikipedia.org/wiki/퀄컴 "wikilink") 스냅드래곤 805에 LTE-A를 지원한다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 25일에](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 대한민국에 출시하였으며, 8월 26일에 와인, 8월 29일에 문 바이올렛 색상을 추가로 출시했다.\[1\]
+**LG G3캡 6** ()는 [LG전자](../Page/LG전자.md "wikilink")가 제조/판매하는 [구글 안드로이드](https://ko.wikipedia.org/wiki/구글_안드로이드 "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 5.5[인치](https://ko.wikipedia.org/wiki/인치 "wikilink") Quad HD [IPS](https://ko.wikipedia.org/wiki/IPS "wikilink") 디스플레이를 탑재하였다. CPU는 [퀄컴](../Page/퀄컴.md "wikilink") 스냅드래곤 805에 LTE-A를 지원한다. [2014년](../Page/2014년.md "wikilink") [7월 25일에](../Page/7월_25일.md "wikilink") 대한민국에 출시하였으며, 8월 26일에 와인, 8월 29일에 문 바이올렛 색상을 추가로 출시했다.\[1\]
 
 ## 운영체제/소프트웨어
 
@@ -47,7 +47,7 @@ G3 캣6 (G3 Cat.6)는 2016년 1월 7일 [6.0 마시멜로으로](https://ko.wiki
 
 ### 퀵서클 케이스
 
-케이스에 뚫려 있는 동그란 서클 윈도우를 통해 전화 수신, 발신, 문자 받기, 음악, 카메라, 시계, 헬스 케어 기능을 사용할 수 있다. 색상은 [메탈릭 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink"), [실크 화이트](https://ko.wikipedia.org/wiki/하양 "wikilink"), [샤인 골드](https://ko.wikipedia.org/wiki/금색 "wikilink"), [아쿠아 민트](https://ko.wikipedia.org/wiki/옥색 "wikilink"), [인디안 핑크가](https://ko.wikipedia.org/wiki/분홍 "wikilink") 있다.
+케이스에 뚫려 있는 동그란 서클 윈도우를 통해 전화 수신, 발신, 문자 받기, 음악, 카메라, 시계, 헬스 케어 기능을 사용할 수 있다. 색상은 [메탈릭 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink"), [실크 화이트](../Page/하양.md "wikilink"), [샤인 골드](https://ko.wikipedia.org/wiki/금색 "wikilink"), [아쿠아 민트](https://ko.wikipedia.org/wiki/옥색 "wikilink"), [인디안 핑크가](../Page/분홍.md "wikilink") 있다.
 
 ### 무선 충전기 (WCD-100)
 
@@ -55,9 +55,9 @@ G3 캣6 (G3 Cat.6)는 2016년 1월 7일 [6.0 마시멜로으로](https://ko.wiki
 
 ## 논란
 
-  - [LG G3 캣6는](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 설계 결함으로 인하여 생긴 크랙 때문에 논란이 되었다.
-  - [LG G3 캣6로](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 인하여 화상을 입은 소비자들이 많아지고 있다.
-  - [LG G3 캣6는](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 발열.무한재부팅.사용중 고발열로 꺼짐현상 충전기 화재 등 많은 문제점 발생
+  - [LG G3 캣6는](../Page/LG_G3.md "wikilink") 설계 결함으로 인하여 생긴 크랙 때문에 논란이 되었다.
+  - [LG G3 캣6로](../Page/LG_G3.md "wikilink") 인하여 화상을 입은 소비자들이 많아지고 있다.
+  - [LG G3 캣6는](../Page/LG_G3.md "wikilink") 발열.무한재부팅.사용중 고발열로 꺼짐현상 충전기 화재 등 많은 문제점 발생
 
 2016년 7월10일 현재 화재 원인은 엘지전자에서 조사 중에있다. 단, 엘지전자 제품의 화재원인을 엘지전자가 조사한다는 점에서 조사결과 100% 신임할 수 있는지는 의문이다.
 
@@ -66,9 +66,9 @@ G3 캣6 (G3 Cat.6)는 2016년 1월 7일 [6.0 마시멜로으로](https://ko.wiki
 ## 색상
 
   - [메탈릭 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [실크 화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
+  - [실크 화이트](../Page/하양.md "wikilink")
   - [샤인 골드](https://ko.wikipedia.org/wiki/금색 "wikilink")
-  - [와인](https://ko.wikipedia.org/wiki/빨강 "wikilink")
+  - [와인](../Page/빨강.md "wikilink")
   - [문 바이올렛](https://ko.wikipedia.org/wiki/보라색 "wikilink")
 
 ## 각주
@@ -77,7 +77,7 @@ G3 캣6 (G3 Cat.6)는 2016년 1월 7일 [6.0 마시멜로으로](https://ko.wiki
 
   - [삼성 갤럭시 S5 광대역 LTE-A](../Page/삼성_갤럭시_S5.md "wikilink")
   - [삼성 갤럭시 노트 4](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_4 "wikilink")
-  - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
+  - [LG G3](../Page/LG_G3.md "wikilink")
   - [LG G3 비트](../Page/LG_G3_비트.md "wikilink")
   - [LG G3 A](../Page/LG_G3_A.md "wikilink")
   - [LG Gx2](../Page/LG_Gx2.md "wikilink")

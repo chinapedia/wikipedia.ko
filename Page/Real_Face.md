@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Real Face](https://ko.wikipedia.org/wiki/Real_Face).
 
 
-〈**Real Face**〉(리얼 페이스)는, [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Real Face**〉(리얼 페이스)는, [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
-[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 결성부터 대략 5년이 지나서의 CD 데뷔로, 앨범 《[Best of KAT-TUN](https://ko.wikipedia.org/wiki/Best_of_KAT-TUN "wikilink")》, DVD 《[Real Face Film](https://ko.wikipedia.org/wiki/Real_Face#Real_Face_Film "wikilink")》과 함께, 데뷔를 기하여 [제이스톰](https://ko.wikipedia.org/wiki/제이스톰 "wikilink") 내부에 설립된 프라이빗 레코드 레이블 〈J-One Records〉에서 동시 발매가 되었다. 초회 한정반과 통상반의 수록곡이 다르다. 초회 한정반은 다른 자켓으로 6종류가 있고, 각 멤버가 각각의 센터에 위치해 있다. 또, 관련 작품으로 싱글 〈Real Face〉, 앨범 《Best of KAT-TUN》, DVD 《Real Face Film》을 함께 넣은, 완전 한정 BOX가 발매 되었다. BOX에는 32페이지 스페셜 북클릿이나, 오리지널 스티커가 부속되어 있다.
+[2001년](../Page/2001년.md "wikilink") 결성부터 대략 5년이 지나서의 CD 데뷔로, 앨범 《[Best of KAT-TUN](https://ko.wikipedia.org/wiki/Best_of_KAT-TUN "wikilink")》, DVD 《[Real Face Film](https://ko.wikipedia.org/wiki/Real_Face#Real_Face_Film "wikilink")》과 함께, 데뷔를 기하여 [제이스톰](https://ko.wikipedia.org/wiki/제이스톰 "wikilink") 내부에 설립된 프라이빗 레코드 레이블 〈J-One Records〉에서 동시 발매가 되었다. 초회 한정반과 통상반의 수록곡이 다르다. 초회 한정반은 다른 자켓으로 6종류가 있고, 각 멤버가 각각의 센터에 위치해 있다. 또, 관련 작품으로 싱글 〈Real Face〉, 앨범 《Best of KAT-TUN》, DVD 《Real Face Film》을 함께 넣은, 완전 한정 BOX가 발매 되었다. BOX에는 32페이지 스페셜 북클릿이나, 오리지널 스티커가 부속되어 있다.
 
 ## 수록곡
 
@@ -13,10 +13,10 @@
 
 1.  **Real Face**
       -
-        작사: [스가 시카오](https://ko.wikipedia.org/wiki/스가_시카오 "wikilink") / 작곡: [마츠모토 타카히로](https://ko.wikipedia.org/wiki/B'z "wikilink") / 편곡: CHOKKAKU / Rap 작사: [JOKER](https://ko.wikipedia.org/wiki/다나카_코키 "wikilink")
+        작사: [스가 시카오](../Page/스가_시카오.md "wikilink") / 작곡: [마츠모토 타카히로](../Page/B'z.md "wikilink") / 편곡: CHOKKAKU / Rap 작사: [JOKER](../Page/다나카_코키.md "wikilink")
     <!-- end list -->
       - 동시 발매한 앨범 《Best of KAT-TUN》에, 편곡을 달리한 〈Real Face \#1〉이 수록되어 있다.
-      - 또, PV 음원과 CD 음원에서는 [카메나시 카즈야의](https://ko.wikipedia.org/wiki/카메나시_카즈야 "wikilink") 보컬, [나카마루 유이치의](https://ko.wikipedia.org/wiki/나카마루_유이치 "wikilink") 비트박스, 혀를 차는 소리 등, 일부 다른 테이크가 있다.
+      - 또, PV 음원과 CD 음원에서는 [카메나시 카즈야의](../Page/카메나시_카즈야.md "wikilink") 보컬, [나카마루 유이치의](../Page/나카마루_유이치.md "wikilink") 비트박스, 혀를 차는 소리 등, 일부 다른 테이크가 있다.
       - 작사를 담당한 스가가 후에 발매한 베스트 앨범 《SugarlessII》에서 셀프 커버하고 있다.
 2.  **GLORIA**
       -
@@ -43,7 +43,7 @@
 
   - 데뷔 싱글의 3주 연속 1위는, [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 〈[유리의 소년](https://ko.wikipedia.org/wiki/가라스노쇼넨 "wikilink")〉(1997년) 이래 8년 8개월 만\[1\].
   - 발매 9주째에 밀리언 셀러를 기록하여, 데뷔곡으로의 밀리언은 [CHEMISTRY](https://ko.wikipedia.org/wiki/CHEMISTRY "wikilink") 〈PIECES OF A DREAM〉 이래 5년 만\[2\].
-  - 카메나시 카즈야는 [슈지와 아키라](https://ko.wikipedia.org/wiki/슈지와_아키라 "wikilink") 유닛 명의로 낸 싱글 〈[청춘 아미고](https://ko.wikipedia.org/wiki/세이슌아미고 "wikilink")〉에 이어, 두 작품 연속으로 1위, 연속 밀리언 셀러, 및 2년 연속 데뷔에서의 2연속 연간 순위 1위 획득 기록.
+  - 카메나시 카즈야는 [슈지와 아키라](../Page/슈지와_아키라.md "wikilink") 유닛 명의로 낸 싱글 〈[청춘 아미고](https://ko.wikipedia.org/wiki/세이슌아미고 "wikilink")〉에 이어, 두 작품 연속으로 1위, 연속 밀리언 셀러, 및 2년 연속 데뷔에서의 2연속 연간 순위 1위 획득 기록.
 
 <!-- end list -->
 
@@ -51,8 +51,8 @@
 
 <!-- end list -->
 
-  - 식별 번호에 의해 집계가 다른 프라넷 싱글 차트에서는, 첫 등장으로 1위가 완전 한정 BOX, 2위가 통상반, 3위가 초회 한정반 카메나시 카즈야\]\], 4위가 초회 한정반 [아카니시 진](https://ko.wikipedia.org/wiki/아카니시_진 "wikilink"), 6위가 초회 한정반 [타구치 준노스케](https://ko.wikipedia.org/wiki/다구치_준노스케 "wikilink"), 7위가 초회 한정반 [우에다 타츠야](https://ko.wikipedia.org/wiki/우에다_타츠야 "wikilink"), 8위가 초회 한정반 나카마루 유이치, 9위가 초회 한정반 [타나카 코키로](https://ko.wikipedia.org/wiki/다나카_코키 "wikilink"), TOP 10에 〈Real Face〉의 다른 버전이 8작품 랭크되었다.
-  - 동시 발매의 앨범, DVD와 함께 싱글까지 오리콘 차트 첫 등장 1위 획득. 이 3관왕 기록은, [하마사키 아유미의](https://ko.wikipedia.org/wiki/하마사키_아유미 "wikilink") 싱글 〈SURREAL〉, 앨범 《Duty》, DVD 《ayumi hamasaki concert tour 2000 A 제1막》(2000년) 이래, 사상 두번째\[3\]. 거기에 동 곡으로 벨소리 랭킹, 유선 리퀘스트에서도 1위를 획득, 5관왕이라 보도되었다.
+  - 식별 번호에 의해 집계가 다른 프라넷 싱글 차트에서는, 첫 등장으로 1위가 완전 한정 BOX, 2위가 통상반, 3위가 초회 한정반 카메나시 카즈야\]\], 4위가 초회 한정반 [아카니시 진](../Page/아카니시_진.md "wikilink"), 6위가 초회 한정반 [타구치 준노스케](../Page/다구치_준노스케.md "wikilink"), 7위가 초회 한정반 [우에다 타츠야](../Page/우에다_타츠야.md "wikilink"), 8위가 초회 한정반 나카마루 유이치, 9위가 초회 한정반 [타나카 코키로](../Page/다나카_코키.md "wikilink"), TOP 10에 〈Real Face〉의 다른 버전이 8작품 랭크되었다.
+  - 동시 발매의 앨범, DVD와 함께 싱글까지 오리콘 차트 첫 등장 1위 획득. 이 3관왕 기록은, [하마사키 아유미의](../Page/하마사키_아유미.md "wikilink") 싱글 〈SURREAL〉, 앨범 《Duty》, DVD 《ayumi hamasaki concert tour 2000 A 제1막》(2000년) 이래, 사상 두번째\[3\]. 거기에 동 곡으로 벨소리 랭킹, 유선 리퀘스트에서도 1위를 획득, 5관왕이라 보도되었다.
 
 <!-- end list -->
 

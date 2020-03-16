@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gravity \(    \)](https://ko.wikipedia.org/wiki/Gravity_\(____\)).
 
 
-《**Gravity**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink") [듀오](https://ko.wikipedia.org/wiki/듀오 "wikilink") [플라이 투 더 스카이의](https://ko.wikipedia.org/wiki/플라이_투_더_스카이 "wikilink") 다섯 번째 정규 음반이다.
+《**Gravity**》는 [대한민국](../Page/대한민국.md "wikilink")의 [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink") [듀오](https://ko.wikipedia.org/wiki/듀오 "wikilink") [플라이 투 더 스카이의](../Page/플라이_투_더_스카이.md "wikilink") 다섯 번째 정규 음반이다.
 
 ## 수록곡
 

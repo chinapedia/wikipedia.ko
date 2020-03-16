@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [She Wanted](https://ko.wikipedia.org/wiki/She_Wanted).
 
 
-《**She Wanted**》는 2000년 발매된 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [이상은의](https://ko.wikipedia.org/wiki/이상은_\(가수\) "wikilink") 영화 OST[음반](https://ko.wikipedia.org/wiki/음반 "wikilink")이다. 박철수 감독의 영화 '봉자'의 사운드트랙으로 영화 흥행여부와 상관없이 이 음반은 이상은의 정규앨범 못지않은 관심과 사랑을 받았다. 3번째 '마야'는 이상은의 절친 황보령이 불렀다.
+《**She Wanted**》는 2000년 발매된 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [이상은의](../Page/이상은_\(가수\).md "wikilink") 영화 OST[음반](../Page/음반.md "wikilink")이다. 박철수 감독의 영화 '봉자'의 사운드트랙으로 영화 흥행여부와 상관없이 이 음반은 이상은의 정규앨범 못지않은 관심과 사랑을 받았다. 3번째 '마야'는 이상은의 절친 황보령이 불렀다.
 
 ## 수록곡
 

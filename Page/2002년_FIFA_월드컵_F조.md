@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2002 FIFA  F](https://ko.wikipedia.org/wiki/2002_FIFA__F).
 
 
-[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") F조**는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink"), [나이지리아](https://ko.wikipedia.org/wiki/나이지리아_축구_국가대표팀 "wikilink"), [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드_축구_국가대표팀 "wikilink"), 그리고 [스웨덴이](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink") 편성된 조이다. F조의 일정은 2002년 6월 2일부터 2002년 6월 12일까지 지속되었다. [스웨덴과](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink") [잉글랜드가](https://ko.wikipedia.org/wiki/잉글랜드_축구_국가대표팀 "wikilink") 다음 라운드에 진출하였다. 스웨덴은 잉글랜드와 승점에서 동률을 이루었으나 다득점 원칙에 따라 1위를 차지하였고, 그에 따라 2위는 잉글랜드 것이 되었다. 반면 [아르헨티나와](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") [나이지리아는](https://ko.wikipedia.org/wiki/나이지리아_축구_국가대표팀 "wikilink") 다음 라운드 진출에 실패하였다. F조는 다수의 평론가들이 평균 FIFA 랭킹과 FIFA 월드컵에서의 전적에 따라 "[죽음의 조](https://ko.wikipedia.org/wiki/죽음의_조 "wikilink")"라는 꼬리표를 붙였다.
+[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") F조**는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink"), [나이지리아](../Page/나이지리아_축구_국가대표팀.md "wikilink"), [잉글랜드](../Page/잉글랜드_축구_국가대표팀.md "wikilink"), 그리고 [스웨덴이](../Page/스웨덴_축구_국가대표팀.md "wikilink") 편성된 조이다. F조의 일정은 2002년 6월 2일부터 2002년 6월 12일까지 지속되었다. [스웨덴과](../Page/스웨덴_축구_국가대표팀.md "wikilink") [잉글랜드가](../Page/잉글랜드_축구_국가대표팀.md "wikilink") 다음 라운드에 진출하였다. 스웨덴은 잉글랜드와 승점에서 동률을 이루었으나 다득점 원칙에 따라 1위를 차지하였고, 그에 따라 2위는 잉글랜드 것이 되었다. 반면 [아르헨티나와](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") [나이지리아는](../Page/나이지리아_축구_국가대표팀.md "wikilink") 다음 라운드 진출에 실패하였다. F조는 다수의 평론가들이 평균 FIFA 랭킹과 FIFA 월드컵에서의 전적에 따라 "[죽음의 조](../Page/죽음의_조.md "wikilink")"라는 꼬리표를 붙였다.
 
 ## 팀
 
@@ -11,7 +11,7 @@
 <th><p>시드 배정</p></th>
 <th><p>팀</p></th>
 <th><p>연맹</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FIFA_랭킹" title="wikilink">FIFA 랭킹</a></p></th>
+<th><p><a href="../Page/FIFA_랭킹.md" title="wikilink">FIFA 랭킹</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -46,7 +46,7 @@
 
 |}
 
-  - *모든 시간은 [일본의](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
+  - *모든 시간은 [일본의](../Page/일본_표준시.md "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
 
 ## 아르헨티나 vs 나이지리아
 
@@ -129,7 +129,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마르셀로_비엘사" title="wikilink">마르셀로 비엘사</a></p></td>
+<td><p><a href="../Page/마르셀로_비엘사.md" title="wikilink">마르셀로 비엘사</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -211,12 +211,12 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/후안_세바스티안_베론" title="wikilink">후안 세바스티안 베론</a> (아르헨티나)</p>
+<a href="../Page/후안_세바스티안_베론.md" title="wikilink">후안 세바스티안 베론</a> (아르헨티나)</p>
 <p><strong>부심:</strong><br />
 프레데리크 아르놀 (<a href="https://ko.wikipedia.org/wiki/프랑스_축구_협회" title="wikilink">프랑스</a>)<br />
 하이너 뮐러 (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/마르쿠스_메르크" title="wikilink">마르쿠스 메르크</a> (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)</p></td>
+<a href="../Page/마르쿠스_메르크.md" title="wikilink">마르쿠스 메르크</a> (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -298,7 +298,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스벤예란_에릭손" title="wikilink">스벤예란 에릭손</a></p></td>
+<td><p><a href="../Page/스벤예란_에릭손.md" title="wikilink">스벤예란 에릭손</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -381,7 +381,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/솔_캠벨" title="wikilink">솔 캠벨</a> (잉글랜드)</p>
+<a href="../Page/솔_캠벨.md" title="wikilink">솔 캠벨</a> (잉글랜드)</p>
 <p><strong>부심:</strong><br />
 조르지 올리베이라 (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)<br />
 유리 두파노프 (<a href="https://ko.wikipedia.org/wiki/벨라루스_축구_협회" title="wikilink">벨라루스</a>)<br />
@@ -551,7 +551,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/헨리크_라르손" title="wikilink">헨리크 라르손</a> (스웨덴)</p>
+<a href="../Page/헨리크_라르손.md" title="wikilink">헨리크 라르손</a> (스웨덴)</p>
 <p><strong>부심:</strong><br />
 미겔 히아코무시 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
 마트 라짐 아왕 하마트 (<a href="https://ko.wikipedia.org/wiki/말레이시아_축구_협회" title="wikilink">말레이시아</a>)<br />
@@ -642,7 +642,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마르셀로_비엘사" title="wikilink">마르셀로 비엘사</a></p></td>
+<td><p><a href="../Page/마르셀로_비엘사.md" title="wikilink">마르셀로 비엘사</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -715,7 +715,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스벤예란_에릭손" title="wikilink">스벤예란 에릭손</a></p></td>
+<td><p><a href="../Page/스벤예란_에릭손.md" title="wikilink">스벤예란 에릭손</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -728,7 +728,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/폴_스콜스" title="wikilink">폴 스콜스</a> (잉글랜드)</p>
+<a href="../Page/폴_스콜스.md" title="wikilink">폴 스콜스</a> (잉글랜드)</p>
 <p><strong>부심:</strong><br />
 엑토르 베르가라 (<a href="https://ko.wikipedia.org/wiki/캐나다_축구_협회" title="wikilink">캐나다</a>)<br />
 모하메드 사에드 (<a href="https://ko.wikipedia.org/wiki/몰디브_축구_협회" title="wikilink">몰디브</a>)<br />
@@ -901,7 +901,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마르셀로_비엘사" title="wikilink">마르셀로 비엘사</a></p></td>
+<td><p><a href="../Page/마르셀로_비엘사.md" title="wikilink">마르셀로 비엘사</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1070,7 +1070,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스벤예란_에릭손" title="wikilink">스벤예란 에릭손</a></p></td>
+<td><p><a href="../Page/스벤예란_에릭손.md" title="wikilink">스벤예란 에릭손</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1083,7 +1083,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/제이제이_오코차" title="wikilink">제이제이 오코차</a> (나이지리아)</p>
+<a href="../Page/제이제이_오코차.md" title="wikilink">제이제이 오코차</a> (나이지리아)</p>
 <p><strong>부심:</strong><br />
 엑토르 베르가라 (<a href="https://ko.wikipedia.org/wiki/캐나다_축구_협회" title="wikilink">캐나다</a>)<br />
 에브젠 암러 (<a href="https://ko.wikipedia.org/wiki/체코_축구_협회" title="wikilink">체코</a>)<br />

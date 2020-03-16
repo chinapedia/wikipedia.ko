@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG G3 ](https://ko.wikipedia.org/wiki/LG_G3_).
 
 
-**LG G3 비트**(LG G3 Beat)는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 2014년 7월 19일에 출시\[1\]한 [LG G3의](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 보급형 [패블릿](https://ko.wikipedia.org/wiki/패블릿 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**LG G3 비트**(LG G3 Beat)는 [LG전자](../Page/LG전자.md "wikilink")가 2014년 7월 19일에 출시\[1\]한 [LG G3의](../Page/LG_G3.md "wikilink") 보급형 [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 ## 운영체제 업그레이드
 
@@ -11,7 +11,7 @@ G3 비트는 [4.4.2 킷캣을](https://ko.wikipedia.org/wiki/안드로이드_버
 
 ### 안드로이드 5.0.2 롤리팝
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 5일](https://ko.wikipedia.org/wiki/6월_5일 "wikilink") 모든 통신사를 통해 [5.0.2 롤리팝을](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 배포했다.\[2\] 멀티태스킹 창이나 상단바 등의 UI가 개선되고 소프트키가 롤리팝 스타일로 바뀌었다. 하지만 단점은 램 점유율이 올라가고 저장공간이 1GB 남짓 줄어들어 사용하기 힘들어진다.
+[2015년](../Page/2015년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") 모든 통신사를 통해 [5.0.2 롤리팝을](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 배포했다.\[2\] 멀티태스킹 창이나 상단바 등의 UI가 개선되고 소프트키가 롤리팝 스타일로 바뀌었다. 하지만 단점은 램 점유율이 올라가고 저장공간이 1GB 남짓 줄어들어 사용하기 힘들어진다.
 
 ## 특수 기능
 
@@ -43,18 +43,18 @@ Q메모 등으로 더 편리한 기능을 사용 가능하다.
 
 ### 퀵서클 케이스
 
-케이스에 뚫려 있는 동그란 서클 윈도우를 통해 전화 수신, 발신, 문자 받기, 음악, 카메라, 시계, 헬스 케어 기능을 사용할 수 있다. 색상은 [메탈릭 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink"), [실크 화이트](https://ko.wikipedia.org/wiki/하양 "wikilink"), [샤인 골드가](https://ko.wikipedia.org/wiki/금색 "wikilink") 있다.
+케이스에 뚫려 있는 동그란 서클 윈도우를 통해 전화 수신, 발신, 문자 받기, 음악, 카메라, 시계, 헬스 케어 기능을 사용할 수 있다. 색상은 [메탈릭 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink"), [실크 화이트](../Page/하양.md "wikilink"), [샤인 골드가](https://ko.wikipedia.org/wiki/금색 "wikilink") 있다.
 
 ## 변형 기종
 
 ### G3 S (LG-D725)
 
-[2014년 8월](https://ko.wikipedia.org/wiki/2014년_8월 "wikilink"), [AT\&T](https://ko.wikipedia.org/wiki/AT&T "wikilink") 전용으로 출시된 기종으로, 전체적인 사양은 G3 비트와 동일하나 지상파 DMB 안테나가 삭제되었다.
+[2014년 8월](../Page/2014년_8월.md "wikilink"), [AT\&T](../Page/AT&T.md "wikilink") 전용으로 출시된 기종으로, 전체적인 사양은 G3 비트와 동일하나 지상파 DMB 안테나가 삭제되었다.
 
 ## 색상
 
   - [메탈릭 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [실크 화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
+  - [실크 화이트](../Page/하양.md "wikilink")
   - [샤인 골드](https://ko.wikipedia.org/wiki/금색 "wikilink")
 
 ## 경쟁 기종
@@ -66,7 +66,7 @@ Q메모 등으로 더 편리한 기능을 사용 가능하다.
 ## 같이 보기
 
   - [LG G2 미니](../Page/LG_G2_미니.md "wikilink")
-  - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
+  - [LG G3](../Page/LG_G3.md "wikilink")
   - [LG G3 Cat.6](../Page/LG_G3_카테고리_6.md "wikilink")
   - [LG G3 A](../Page/LG_G3_A.md "wikilink")
   - [LG Gx2](../Page/LG_Gx2.md "wikilink")

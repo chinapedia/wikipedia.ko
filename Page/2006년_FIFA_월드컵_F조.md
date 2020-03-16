@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2006 FIFA  F](https://ko.wikipedia.org/wiki/2006_FIFA__F).
 
 
-**2006년 FIFA 월드컵 F조**는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. F조 일정은 2006년 6월 12일에 시작하여 2006년 6월 22일에 완료되었다. [브라질은](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 이 조에서 1위를 차지해 [오스트레일리아과](https://ko.wikipedia.org/wiki/오스트레일리아_축구_국가대표팀 "wikilink") 함께 다음 라운드에 진출하였다. 반면 [크로아티아와](https://ko.wikipedia.org/wiki/크로아티아_축구_국가대표팀 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 축구 국가대표팀은 그리하지 못하였다.
+**2006년 FIFA 월드컵 F조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. F조 일정은 2006년 6월 12일에 시작하여 2006년 6월 22일에 완료되었다. [브라질은](../Page/브라질_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지해 [오스트레일리아과](../Page/오스트레일리아_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 반면 [크로아티아와](../Page/크로아티아_축구_국가대표팀.md "wikilink") [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 축구 국가대표팀은 그리하지 못하였다.
 
 ## 순위
 
@@ -90,7 +90,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/거스_히딩크" title="wikilink">휘스 히딩크</a></p></td>
+<td><p><a href="../Page/거스_히딩크.md" title="wikilink">휘스 히딩크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -163,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/지쿠" title="wikilink">지쿠</a></p></td>
+<td><p><a href="../Page/지쿠.md" title="wikilink">지쿠</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -182,7 +182,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/팀_케이힐" title="wikilink">팀 케이힐</a> (오스트레일리아)</p>
+<a href="../Page/팀_케이힐.md" title="wikilink">팀 케이힐</a> (오스트레일리아)</p>
 <p><strong>부심:</strong><br />
 드라만 단테 (<a href="https://ko.wikipedia.org/wiki/말리_축구_협회" title="wikilink">말리</a>)<br />
 마마두 은도유 (<a href="https://ko.wikipedia.org/wiki/세네갈_축구_협회" title="wikilink">세네갈</a>)<br />
@@ -268,7 +268,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카를루스_아우베르투_파헤이라" title="wikilink">카를루스 아우베르투 파헤이라</a></p></td>
+<td><p><a href="../Page/카를루스_아우베르투_파헤이라.md" title="wikilink">카를루스 아우베르투 파헤이라</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -346,7 +346,7 @@
 </tbody>
 </table>
 
-[섬네일과](https://ko.wikipedia.org/wiki/파일:FIFA_World_Cup_2006_-_BRA_vs_CRO.jpg "wikilink") [크로아티아](https://ko.wikipedia.org/wiki/크로아티아_축구_국가대표팀 "wikilink") 간 경기가 열린 [올림피아슈타디온의](https://ko.wikipedia.org/wiki/베를린_올림픽_스타디움 "wikilink") 전경\]\]
+[섬네일과](https://ko.wikipedia.org/wiki/파일:FIFA_World_Cup_2006_-_BRA_vs_CRO.jpg "wikilink") [크로아티아](../Page/크로아티아_축구_국가대표팀.md "wikilink") 간 경기가 열린 [올림피아슈타디온의](../Page/베를린_올림픽_스타디움.md "wikilink") 전경\]\]
 
 <table>
 <tbody>
@@ -445,7 +445,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/지쿠" title="wikilink">지쿠</a></p></td>
+<td><p><a href="../Page/지쿠.md" title="wikilink">지쿠</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -531,7 +531,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/나카타_히데토시" title="wikilink">나카타 히데토시</a> (일본)</p>
+<a href="../Page/나카타_히데토시.md" title="wikilink">나카타 히데토시</a> (일본)</p>
 <p><strong>부심:</strong><br />
 발터르 프로만스 (<a href="../Page/벨기에_왕립_축구_협회.md" title="wikilink">벨기에</a>)<br />
 페터르 헤르만스 (<a href="../Page/벨기에_왕립_축구_협회.md" title="wikilink">벨기에</a>)<br />
@@ -624,7 +624,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카를루스_아우베르투_파헤이라" title="wikilink">카를루스 아우베르투 파헤이라</a></p></td>
+<td><p><a href="../Page/카를루스_아우베르투_파헤이라.md" title="wikilink">카를루스 아우베르투 파헤이라</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -697,7 +697,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/거스_히딩크" title="wikilink">휘스 히딩크</a></p></td>
+<td><p><a href="../Page/거스_히딩크.md" title="wikilink">휘스 히딩크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -712,7 +712,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/제_호베르투" title="wikilink">제 호베르투</a> (브라질)</p>
+<a href="../Page/제_호베르투.md" title="wikilink">제 호베르투</a> (브라질)</p>
 <p><strong>부심:</strong><br />
 크리스티안 슈레어 (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)<br />
 얀-헨드리크 잘버 (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)<br />
@@ -805,7 +805,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/지쿠" title="wikilink">지쿠</a></p></td>
+<td><p><a href="../Page/지쿠.md" title="wikilink">지쿠</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -878,7 +878,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카를루스_아우베르투_파헤이라" title="wikilink">카를루스 아우베르투 파헤이라</a></p></td>
+<td><p><a href="../Page/카를루스_아우베르투_파헤이라.md" title="wikilink">카를루스 아우베르투 파헤이라</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1057,7 +1057,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/거스_히딩크" title="wikilink">휘스 히딩크</a></p></td>
+<td><p><a href="../Page/거스_히딩크.md" title="wikilink">휘스 히딩크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1066,7 +1066,7 @@
 </tbody>
 </table>
 
-[섬네일와](https://ko.wikipedia.org/wiki/파일:Teamgeist-STG-CRO-AUS.jpg "wikilink") [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아_축구_국가대표팀 "wikilink") 간의 경기에서 사용된 공인구\]\]
+[섬네일와](https://ko.wikipedia.org/wiki/파일:Teamgeist-STG-CRO-AUS.jpg "wikilink") [오스트레일리아](../Page/오스트레일리아_축구_국가대표팀.md "wikilink") 간의 경기에서 사용된 공인구\]\]
 
 <table>
 <tbody>

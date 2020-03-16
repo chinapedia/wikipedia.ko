@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2006 FIFA  B](https://ko.wikipedia.org/wiki/2006_FIFA__B).
 
 
-**2006년 FIFA 월드컵 B조**는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. B조 일정은 2006년 6월 10일에 시작하여 2006년 6월 20일에 완료되었다. [잉글랜드는](https://ko.wikipedia.org/wiki/잉글랜드_축구_국가대표팀 "wikilink") 이 조에서 1위를 차지해 [스웨덴과](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink") 함께 다음 라운드에 진출하였다. 반면 [파라과이와](https://ko.wikipedia.org/wiki/파라과이_축구_국가대표팀 "wikilink") [트리니다드 토바고](https://ko.wikipedia.org/wiki/트리니다드_토바고_축구_국가대표팀 "wikilink") 축구 국가대표팀은 그리하지 못하였다.
+**2006년 FIFA 월드컵 B조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. B조 일정은 2006년 6월 10일에 시작하여 2006년 6월 20일에 완료되었다. [잉글랜드는](../Page/잉글랜드_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지해 [스웨덴과](../Page/스웨덴_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 반면 [파라과이와](../Page/파라과이_축구_국가대표팀.md "wikilink") [트리니다드 토바고](../Page/트리니다드_토바고_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 그리하지 못하였다.
 
 ## 순위
 
@@ -86,7 +86,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스벤예란_에릭손" title="wikilink">스벤예란 에릭손</a></p></td>
+<td><p><a href="../Page/스벤예란_에릭손.md" title="wikilink">스벤예란 에릭손</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -351,12 +351,12 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/드와이트_요크" title="wikilink">드와이트 요크</a> (트리니다드 토바고)</p>
+<a href="../Page/드와이트_요크.md" title="wikilink">드와이트 요크</a> (트리니다드 토바고)</p>
 <p><strong>부심:</strong><br />
 에이사 고울롬 (<a href="https://ko.wikipedia.org/wiki/아랍에미리트_축구_협회" title="wikilink">아랍에미리트</a>)<br />
 프라츠야 페름파니치 (<a href="https://ko.wikipedia.org/wiki/태국_축구_협회" title="wikilink">태국</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/오스카르_루이스" title="wikilink">오스카르 루이스</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_협회" title="wikilink">콜롬비아</a>)<br />
+<a href="../Page/오스카르_루이스.md" title="wikilink">오스카르 루이스</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_협회" title="wikilink">콜롬비아</a>)<br />
 <strong>후보 대기심:</strong><br />
 페르난도 타마요 (<a href="https://ko.wikipedia.org/wiki/에콰도르_축구_협회" title="wikilink">에콰도르</a>)</p></td>
 </tr>
@@ -444,7 +444,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스벤예란_에릭손" title="wikilink">스벤예란 에릭손</a></p></td>
+<td><p><a href="../Page/스벤예란_에릭손.md" title="wikilink">스벤예란 에릭손</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -528,7 +528,7 @@
 <td><p><strong>최우수 선수:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/데이비드_베컴" title="wikilink">데이비드 베컴</a> (잉글랜드)</p>
 <p><strong>부심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/김대용_(축구_심판)" title="wikilink">김대용</a> (<a href="https://ko.wikipedia.org/wiki/대한축구협회" title="wikilink">대한민국</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/김대용_(축구_심판)" title="wikilink">김대용</a> (<a href="../Page/대한축구협회.md" title="wikilink">대한민국</a>)<br />
 히로시마 요시카즈 (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/케빈_스콧" title="wikilink">케빈 스콧</a> (<a href="https://ko.wikipedia.org/wiki/미국_축구_연맹" title="wikilink">미국</a>)<br />
@@ -701,7 +701,7 @@
 </tbody>
 </table>
 
-[섬네일과](https://ko.wikipedia.org/wiki/파일:FIFA_World_Cup_2006_-_SWE_vs._PAR.jpg "wikilink") [파라과이](https://ko.wikipedia.org/wiki/파라과이_축구_국가대표팀 "wikilink") 간의 경기 \]\]
+[섬네일과](https://ko.wikipedia.org/wiki/파일:FIFA_World_Cup_2006_-_SWE_vs._PAR.jpg "wikilink") [파라과이](../Page/파라과이_축구_국가대표팀.md "wikilink") 간의 경기 \]\]
 
 <table>
 <tbody>
@@ -873,7 +873,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스벤예란_에릭손" title="wikilink">스벤예란 에릭손</a></p></td>
+<td><p><a href="../Page/스벤예란_에릭손.md" title="wikilink">스벤예란 에릭손</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -882,18 +882,18 @@
 </tbody>
 </table>
 
-[섬네일에](https://ko.wikipedia.org/wiki/파일:Cologne060620-3.jpg "wikilink") 웅집한 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드_축구_국가대표팀 "wikilink") 팬들\]\]
+[섬네일에](https://ko.wikipedia.org/wiki/파일:Cologne060620-3.jpg "wikilink") 웅집한 [잉글랜드](../Page/잉글랜드_축구_국가대표팀.md "wikilink") 팬들\]\]
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/조_콜" title="wikilink">조 콜</a> (잉글랜드)</p>
+<a href="../Page/조_콜.md" title="wikilink">조 콜</a> (잉글랜드)</p>
 <p><strong>부심:</strong><br />
 프란체스코 부라지나 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
 마티아스 아네트 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/칼릴_알감디" title="wikilink">칼릴 알 감디</a> (<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_연맹" title="wikilink">사우디아라비아</a>)<br />
+<a href="../Page/칼릴_알감디.md" title="wikilink">칼릴 알 감디</a> (<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_연맹" title="wikilink">사우디아라비아</a>)<br />
 <strong>후보 대기심:</strong><br />
 파티 아라바티 (<a href="https://ko.wikipedia.org/wiki/요르단_축구_협회" title="wikilink">요르단</a>)</p></td>
 </tr>
@@ -1067,7 +1067,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/훌리오_도스_산토스" title="wikilink">훌리오 도스 산토스</a> (파라과이)</p>
+<a href="../Page/훌리오_도스_산토스.md" title="wikilink">훌리오 도스 산토스</a> (파라과이)</p>
 <p><strong>부심:</strong><br />
 알레산드로 스타녤리 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 크리스티아노 코펠리 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />

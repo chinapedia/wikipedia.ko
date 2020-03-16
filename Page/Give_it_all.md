@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Give it all](https://ko.wikipedia.org/wiki/Give_it_all).
 
 
-《'''Give it all '''》은 1998년 일본에서만 발매된 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [이상은의](https://ko.wikipedia.org/wiki/이상은_\(가수\) "wikilink") OST 음반이다. 영화 \<쉘 위 댄스? \>로 유명한 스오 마사유키가 제작을 맡고 이소무라 이츠미치가 감독한 일본 영화 \< 간밧테 이키맛쇼이 (がんばっていきまっしょい) - '화이팅 에츠코' \>의 음악을 이상은이 맡았는데, 한국 뮤지션이 일본 영화의 음악을 맡기는 이상은이 처음이다. 7집 <외롭고 웃긴 가게>에 실린 '어기여디어라'의 영어버전이 영화의 메인 테마곡이다. All soundtracks performed by Lee-Tzsche(리채-[이상은](https://ko.wikipedia.org/wiki/이상은_\(가수\) "wikilink"))with Penguins
+《'''Give it all '''》은 1998년 일본에서만 발매된 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [이상은의](../Page/이상은_\(가수\).md "wikilink") OST 음반이다. 영화 \<쉘 위 댄스? \>로 유명한 스오 마사유키가 제작을 맡고 이소무라 이츠미치가 감독한 일본 영화 \< 간밧테 이키맛쇼이 (がんばっていきまっしょい) - '화이팅 에츠코' \>의 음악을 이상은이 맡았는데, 한국 뮤지션이 일본 영화의 음악을 맡기는 이상은이 처음이다. 7집 <외롭고 웃긴 가게>에 실린 '어기여디어라'의 영어버전이 영화의 메인 테마곡이다. All soundtracks performed by Lee-Tzsche(리채-[이상은](../Page/이상은_\(가수\).md "wikilink"))with Penguins
 
 ## 수록곡
 

@@ -13,28 +13,28 @@
 
 ## 주요 연혁
 
-  - [2019년](https://ko.wikipedia.org/wiki/2017년 "wikilink")
+  - [2019년](../Page/2017년.md "wikilink")
       - 01월 제6대 대표이사 문정용 취임
       - 04월 kt mhows New Vision, 新기업문화 선포
       - 06월 기업고객전용 온라인 모바일상품권 서비스 '기프티쇼 비즈 2.0' 리뉴얼 오픈
-  - [2018년](https://ko.wikipedia.org/wiki/2017년 "wikilink")
+  - [2018년](../Page/2017년.md "wikilink")
       - 07월 국내 최초 블록체인 기반 포인트 시스템 상용화
       - 09월 KT-KT엠하우스-김포시 블록체인 기반 전자형 지역화폐 MOU 체결
       - 09월 기프티쇼 App. 리뉴얼 오픈
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")
+  - [2017년](../Page/2017년.md "wikilink")
       - 03월 기프티쇼 기업고객전용 '기프티쇼 비즈' 서비스 출시
       - 10월 KT- KT 엠하우스 간 블록체인 기반 금융거래 위한 MOU 체결
       - 11월 기프티쇼 바코드 충전 서비스 출시
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")
+  - [2016년](../Page/2016년.md "wikilink")
       - 12월 기프티쇼 판맥금액 2,000억원 돌파
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")
+  - [2015년](../Page/2015년.md "wikilink")
       - 05월 기프티쇼 일본 'Gift Smart' 모바일웹 버전 출시
       - 09월 이동통신3사 구분없는 '통합데이터이용권' 기프티쇼 출시
       - 09월 '한국지하철' App 內 중국 관광객 대상 기프티쇼 서비스 출시
 
 <!-- end list -->
 
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")
+  - [2014년](../Page/2014년.md "wikilink")
       - 06월 고객 참여형 광고 '모바일 바우처' 서비스 출시
       - 08월 기업고객 대상 MMS 서비스 '맞춤형 메시지' 서비스 출시
       - 10월 제5대 대표이사 조훈 취임
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")
+  - [2013년](../Page/2013년.md "wikilink")
       - 10월 인스톨큐브 특허권(10-1315861) 등록
         (애플리케이션 제공과 보상을 통합 관리하는 모바일 및 모바일 광고방법)
       - 10월 기프티쇼 모바일 상품권 지적재산권 추가 확보
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")
+  - [2012년](../Page/2012년.md "wikilink")
       - 01월 기프티쇼 배송서비스 런칭
       - 02월 제4대 대표이사 민태기 취임
       - 04월 인스톨큐브 서비스 런칭
@@ -61,26 +61,26 @@
 
 <!-- end list -->
 
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")
+  - [2011년](../Page/2011년.md "wikilink")
       - 01월 기프티쇼-카카오톡 서비스 개시
       - 08월 태블릿 PC 광고 플랫폼 'AD alive' 출시
 
 <!-- end list -->
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")
+  - [2010년](../Page/2010년.md "wikilink")
       - 04월 스마트폰 광고 사업 진출 - 구글 'Admob' 모바일 광고 대행계약 체결
       - 12월 모바일 광고솔루션 도입계약 체결 (GSM 솔루션)
 
 <!-- end list -->
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")
+  - [2009년](../Page/2009년.md "wikilink")
       - 03월 제3대 대표이사 김규성 취임
       - 04월 무료게임타운 배너 광고 개시
       - 12월 기프티쇼 판매금액 200억원 돌파
 
 <!-- end list -->
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")
+  - [2008년](../Page/2008년.md "wikilink")
       - 01월 제2대 대표이사 박헌용 취임
       - 01월 QOOK TV 광고 서비스 개시
       - 05월 기프티쇼 서비스 런칭
@@ -89,26 +89,26 @@
 
 <!-- end list -->
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")
+  - [2007년](../Page/2007년.md "wikilink")
       - 03월 KT 유무선 종합광고시스템 구축
       - 04월 데이터080 서비스 오픈
       - 12월 총매출 150억 돌파
 
 <!-- end list -->
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")
+  - [2006년](../Page/2006년.md "wikilink")
       - 12월 KT 와이브로 광고 영업 개시
 
 <!-- end list -->
 
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")
+  - [2005년](../Page/2005년.md "wikilink")
       - 01월 KT-kt mhows 모바일 광고 대행 계약 체결
       - 05월 MMS 광고 서비스 개시
       - 11월 '모바일 마케팅 포럼' 개최
 
 <!-- end list -->
 
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")
+  - [2004년](../Page/2004년.md "wikilink")
       - 12월 kt mhows 법인 설립
       - 12월 제1대 대표이사 정만호 취임
 

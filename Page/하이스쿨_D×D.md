@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ DD](https://ko.wikipedia.org/wiki/_DD).
 
 
-《**하이스쿨 D×D**》()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [후지미 판타지아 문고에서](https://ko.wikipedia.org/wiki/후지미_판타지아_문고 "wikilink") 출판되고 있는 [라이트 노벨이다](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink"). 작가는 [이시부미 이치에이](https://ko.wikipedia.org/wiki/이시부미_이치에이 "wikilink"), 일러스트는 [미야마 제로가](https://ko.wikipedia.org/wiki/미야마_제로 "wikilink") 맡았다.
+《**하이스쿨 D×D**》()는 [일본](../Page/일본.md "wikilink")의 [후지미 판타지아 문고에서](https://ko.wikipedia.org/wiki/후지미_판타지아_문고 "wikilink") 출판되고 있는 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). 작가는 [이시부미 이치에이](https://ko.wikipedia.org/wiki/이시부미_이치에이 "wikilink"), 일러스트는 [미야마 제로가](https://ko.wikipedia.org/wiki/미야마_제로 "wikilink") 맡았다.
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에는 라이트 노벨을 원작으로 TV [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이 제작되어 방영되었다. 애니메이션 제작사는 [TNK](https://ko.wikipedia.org/wiki/TNK "wikilink"). 일본 현지에서 2012년 1월 13일부터 2012년 3월 30월까지 [AT-X](https://ko.wikipedia.org/wiki/AT-X "wikilink")에서 방영하였다. 그리고 2013년 7월 7일 부터 2013년 9월 21일 까지 TV 애니메이션 시리즈 2기도 방영되었다.
+[2012년](../Page/2012년.md "wikilink")에는 라이트 노벨을 원작으로 TV [애니메이션](../Page/애니메이션.md "wikilink")이 제작되어 방영되었다. 애니메이션 제작사는 [TNK](https://ko.wikipedia.org/wiki/TNK "wikilink"). 일본 현지에서 2012년 1월 13일부터 2012년 3월 30월까지 [AT-X](../Page/AT-X.md "wikilink")에서 방영하였다. 그리고 2013년 7월 7일 부터 2013년 9월 21일 까지 TV 애니메이션 시리즈 2기도 방영되었다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 현재 원작인 라이트 노벨이 [노블엔진](https://ko.wikipedia.org/wiki/노블엔진 "wikilink")에서 번역·출판되고 있다.\[1\] TV 애니메이션 시리즈는 1기와 2기 모두 [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink")를 통하여 방송되었다.\[2\]
+[대한민국](../Page/대한민국.md "wikilink")에서는 현재 원작인 라이트 노벨이 [노블엔진](../Page/노블엔진.md "wikilink")에서 번역·출판되고 있다.\[1\] TV 애니메이션 시리즈는 1기와 2기 모두 [애니플러스](../Page/애니플러스.md "wikilink")를 통하여 방송되었다.\[2\]
 
 ## 단행본
 

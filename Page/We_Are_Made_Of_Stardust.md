@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [We Are Made Of Stardust](https://ko.wikipedia.org/wiki/We_Are_Made_Of_Stardust).
 
 
-《**We Are Made Of Stardust (위아 메이드 오브 스타더스트)**》는 2010년 발매된 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [이상은의](https://ko.wikipedia.org/wiki/이상은_\(가수\) "wikilink") 정규[음반](https://ko.wikipedia.org/wiki/음반 "wikilink") 14집이다. 영화음악가 이병훈(Vanilla Voy), 일렉뮤지션 KAYIP(이우준) 과 뉴욕에서 작업한 음반으로 일렉트로니카 사운드이다. 특히 4번트랙 'Stardust'에서는 짧은 노이지를 비트로 응용한 새로운 일렉트로니카 스타일인 [글리치](https://ko.wikipedia.org/wiki/글리치 "wikilink")(Glitchy)를 선보이기도 하였다. CD에는 'Stardust' 히든트랙이 있다.
+《**We Are Made Of Stardust (위아 메이드 오브 스타더스트)**》는 2010년 발매된 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [이상은의](../Page/이상은_\(가수\).md "wikilink") 정규[음반](../Page/음반.md "wikilink") 14집이다. 영화음악가 이병훈(Vanilla Voy), 일렉뮤지션 KAYIP(이우준) 과 뉴욕에서 작업한 음반으로 일렉트로니카 사운드이다. 특히 4번트랙 'Stardust'에서는 짧은 노이지를 비트로 응용한 새로운 일렉트로니카 스타일인 [글리치](https://ko.wikipedia.org/wiki/글리치 "wikilink")(Glitchy)를 선보이기도 하였다. CD에는 'Stardust' 히든트랙이 있다.
 
 ## 수록곡
 

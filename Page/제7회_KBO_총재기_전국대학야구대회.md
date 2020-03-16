@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [7 KBO  ](https://ko.wikipedia.org/wiki/7_KBO__).
 
 
-**제7회 KBO 총재기 전국대학야구대회**(第7回 KBO 總裁旗 全國大學野球大會)는 대한야구협회에서 주최하는 전국 규모의 대학야구대회이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 7일부터](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") [7월 16일까지](https://ko.wikipedia.org/wiki/7월_16일 "wikilink")[서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [목동야구장](https://ko.wikipedia.org/wiki/목동야구장 "wikilink")과 [신월야구장](https://ko.wikipedia.org/wiki/신월야구장 "wikilink")에서 개최되었다. [동국대학교](https://ko.wikipedia.org/wiki/동국대학교 "wikilink")가 [경성대학교](https://ko.wikipedia.org/wiki/경성대학교 "wikilink")를 8-3으로 이기고 우승하였으며, [윤영수가](https://ko.wikipedia.org/wiki/윤영수_\(야구_선수\) "wikilink") 최우수선수에 선정되었다.\[1\]
+**제7회 KBO 총재기 전국대학야구대회**(第7回 KBO 總裁旗 全國大學野球大會)는 대한야구협회에서 주최하는 전국 규모의 대학야구대회이다. [2014년](../Page/2014년.md "wikilink") [7월 7일부터](../Page/7월_7일.md "wikilink") [7월 16일까지](../Page/7월_16일.md "wikilink")[서울특별시](../Page/서울특별시.md "wikilink") [목동야구장](../Page/목동야구장.md "wikilink")과 [신월야구장](https://ko.wikipedia.org/wiki/신월야구장 "wikilink")에서 개최되었다. [동국대학교](https://ko.wikipedia.org/wiki/동국대학교 "wikilink")가 [경성대학교](../Page/경성대학교.md "wikilink")를 8-3으로 이기고 우승하였으며, [윤영수가](https://ko.wikipedia.org/wiki/윤영수_\(야구_선수\) "wikilink") 최우수선수에 선정되었다.\[1\]
 
 ## 토너먼트
 
@@ -31,18 +31,18 @@
 | 상     | 수상                                                                                                                  |
 | ----- | ------------------------------------------------------------------------------------------------------------------- |
 | 우승    | [동국대학교](https://ko.wikipedia.org/wiki/동국대학교 "wikilink")                                                             |
-| 준우승   | [경성대학교](https://ko.wikipedia.org/wiki/경성대학교 "wikilink")                                                             |
+| 준우승   | [경성대학교](../Page/경성대학교.md "wikilink")                                                                                |
 | 준결승   | [건국대학교](https://ko.wikipedia.org/wiki/건국대학교 "wikilink"){{·}}[경남대학교](https://ko.wikipedia.org/wiki/경남대학교 "wikilink") |
 | 최우수선수 | [윤영수](https://ko.wikipedia.org/wiki/윤영수_\(야구_선수\) "wikilink") (동국대학교)                                               |
 | 우수투수상 | [고지원](https://ko.wikipedia.org/wiki/고지원 "wikilink") (동국대학교)                                                         |
-| 감투상   | [이민우](https://ko.wikipedia.org/wiki/이민우_\(1993년\) "wikilink") (경성대학교)                                               |
+| 감투상   | [이민우](../Page/이민우_\(1993년\).md "wikilink") (경성대학교)                                                                  |
 | 수훈상   | [박경택](https://ko.wikipedia.org/wiki/박경택 "wikilink") (동국대학교)                                                         |
 | 타격상   | [이진성](https://ko.wikipedia.org/wiki/이진성_\(야구_선수\) "wikilink") (경남대학교) 10타수 6안타(0.600                                |
 | 타점상   | [문순찬](https://ko.wikipedia.org/wiki/문순찬 "wikilink") (경성대학교) 10타점                                                    |
 | 도루상   | [윤영수](https://ko.wikipedia.org/wiki/윤영수_\(야구_선수\) "wikilink") (동국대학교) 6개                                            |
-| 홈런상   | [박건호](https://ko.wikipedia.org/wiki/박건호 "wikilink") (동의대학교) 1개                                                      |
-| 감독상   | [이건열](https://ko.wikipedia.org/wiki/이건열 "wikilink") (동국대학교)                                                         |
-| 공로상   | [김희옥](https://ko.wikipedia.org/wiki/김희옥 "wikilink") (동국대학교)                                                         |
+| 홈런상   | [박건호](../Page/박건호.md "wikilink") (동의대학교) 1개                                                                         |
+| 감독상   | [이건열](../Page/이건열.md "wikilink") (동국대학교)                                                                            |
+| 공로상   | [김희옥](../Page/김희옥.md "wikilink") (동국대학교)                                                                            |
 
 ## 참조
 

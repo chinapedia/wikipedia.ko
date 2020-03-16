@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ R](https://ko.wikipedia.org/wiki/_R).
 
 
-**소닉 R**(Sonic R)은 [세가 새턴을](https://ko.wikipedia.org/wiki/세가_새턴 "wikilink") 통해 1997년 12월 발매되고 [MS 윈도를](https://ko.wikipedia.org/wiki/MS_윈도 "wikilink") 통해 1998년 12월 출시된 [세가의](https://ko.wikipedia.org/wiki/세가_게임즈 "wikilink") 콘솔용 레이싱 게임이다. 이 게임은 북미에 1997년 11월 18일 출시 되었고 일본에는 12월 4일, 호주에는 12월 11일 출시되었다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에는 [소닉 젬즈 컬렉션이라는](../Page/소닉_젬즈_컬렉션.md "wikilink") 이름으로 [플레이스테이션 2와](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") [게임큐브에](https://ko.wikipedia.org/wiki/닌텐도_게임큐브 "wikilink") 재출시되었다.
+**소닉 R**(Sonic R)은 [세가 새턴을](../Page/세가_새턴.md "wikilink") 통해 1997년 12월 발매되고 [MS 윈도를](https://ko.wikipedia.org/wiki/MS_윈도 "wikilink") 통해 1998년 12월 출시된 [세가의](https://ko.wikipedia.org/wiki/세가_게임즈 "wikilink") 콘솔용 레이싱 게임이다. 이 게임은 북미에 1997년 11월 18일 출시 되었고 일본에는 12월 4일, 호주에는 12월 11일 출시되었다. [2005년](../Page/2005년.md "wikilink")에는 [소닉 젬즈 컬렉션이라는](../Page/소닉_젬즈_컬렉션.md "wikilink") 이름으로 [플레이스테이션 2와](../Page/플레이스테이션_2.md "wikilink") [게임큐브에](../Page/닌텐도_게임큐브.md "wikilink") 재출시되었다.
 
-소닉 R은 [소닉 드리프트와](../Page/소닉_드리프트.md "wikilink") [소닉 드리프트 2](../Page/소닉_드리프트_2.md "wikilink") 이래의 세번째 게임이며, [소닉 팀과](https://ko.wikipedia.org/wiki/소닉_팀 "wikilink") Traveller's Tales의 마지막 두번째 게임이다. 이 게임에서는 플레이어가 10명의 [소닉 더 헤지호그 (시리즈)의](https://ko.wikipedia.org/wiki/소닉_더_헤지호그_\(시리즈\) "wikilink") 캐릭터 중 1명을 골라 소닉 관련 트랙에 참여할 수 있는데, 이 게임의 내용은 [닥터 에그맨의](https://ko.wikipedia.org/wiki/닥터_에그맨 "wikilink") 계략에 속지 않고 카오스 에메랄드를 획득하는 것이다.
+소닉 R은 [소닉 드리프트와](../Page/소닉_드리프트.md "wikilink") [소닉 드리프트 2](../Page/소닉_드리프트_2.md "wikilink") 이래의 세번째 게임이며, [소닉 팀과](../Page/소닉_팀.md "wikilink") Traveller's Tales의 마지막 두번째 게임이다. 이 게임에서는 플레이어가 10명의 [소닉 더 헤지호그 (시리즈)의](https://ko.wikipedia.org/wiki/소닉_더_헤지호그_\(시리즈\) "wikilink") 캐릭터 중 1명을 골라 소닉 관련 트랙에 참여할 수 있는데, 이 게임의 내용은 [닥터 에그맨의](../Page/닥터_에그맨.md "wikilink") 계략에 속지 않고 카오스 에메랄드를 획득하는 것이다.
 
 ## 등장 캐릭터
 
@@ -17,7 +17,7 @@
 <!-- end list -->
 
   - 히든 캐릭터
-      - [에그맨 로보](https://ko.wikipedia.org/wiki/닥터_에그맨 "wikilink")
+      - [에그맨 로보](../Page/닥터_에그맨.md "wikilink")
       - 테일즈 돌
       - 메탈 너클즈
       - 메탈 소닉

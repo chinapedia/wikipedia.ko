@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Missing You \(    \)](https://ko.wikipedia.org/wiki/Missing_You_\(____\)).
 
 
-《**Missing You**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [듀오](https://ko.wikipedia.org/wiki/듀오 "wikilink") [플라이 투 더 스카이의](https://ko.wikipedia.org/wiki/플라이_투_더_스카이 "wikilink") 네번째 정규 앨범이다.
+《**Missing You**》는 [대한민국](../Page/대한민국.md "wikilink")의 [듀오](https://ko.wikipedia.org/wiki/듀오 "wikilink") [플라이 투 더 스카이의](../Page/플라이_투_더_스카이.md "wikilink") 네번째 정규 앨범이다.
 
 ## 수록곡
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [2002 FIFA  B](https://ko.wikipedia.org/wiki/2002_FIFA__B).
 
 
-[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") B조**는 [스페인](https://ko.wikipedia.org/wiki/스페인_축구_국가대표팀 "wikilink"), [슬로베니아](https://ko.wikipedia.org/wiki/슬로베니아_축구_국가대표팀 "wikilink"), [파라과이](https://ko.wikipedia.org/wiki/파라과이_축구_국가대표팀 "wikilink"), 그리고 [남아프리카 공화국이](https://ko.wikipedia.org/wiki/남아프리카_공화국_축구_국가대표팀 "wikilink") 편성되었다. B조의 모든 일정은 2002년 6월 2일과 2002년 6월 12일사이에 치러졌다. [스페인은](https://ko.wikipedia.org/wiki/스페인_축구_국가대표팀 "wikilink") 이 조별 리그의 3경기에서 모두 승리하며 조 1위를 차지하였고, [파라과이와](https://ko.wikipedia.org/wiki/파라과이_축구_국가대표팀 "wikilink") 함께 16강에 진출하였다. [남아프리카 공화국은](https://ko.wikipedia.org/wiki/남아프리카_공화국_축구_국가대표팀 "wikilink") 파라과이와 승점과 골득실차에서 동률을 이루었으나, 다득점에서 1골차로 아깝게 탈락하였다. 이 대회에 첫 출전한 [슬로베니아는](https://ko.wikipedia.org/wiki/슬로베니아_축구_국가대표팀 "wikilink") 승점을 1점도 수확하지 못하고 탈락하였다.
+[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") B조**는 [스페인](../Page/스페인_축구_국가대표팀.md "wikilink"), [슬로베니아](../Page/슬로베니아_축구_국가대표팀.md "wikilink"), [파라과이](../Page/파라과이_축구_국가대표팀.md "wikilink"), 그리고 [남아프리카 공화국이](../Page/남아프리카_공화국_축구_국가대표팀.md "wikilink") 편성되었다. B조의 모든 일정은 2002년 6월 2일과 2002년 6월 12일사이에 치러졌다. [스페인은](../Page/스페인_축구_국가대표팀.md "wikilink") 이 조별 리그의 3경기에서 모두 승리하며 조 1위를 차지하였고, [파라과이와](../Page/파라과이_축구_국가대표팀.md "wikilink") 함께 16강에 진출하였다. [남아프리카 공화국은](../Page/남아프리카_공화국_축구_국가대표팀.md "wikilink") 파라과이와 승점과 골득실차에서 동률을 이루었으나, 다득점에서 1골차로 아깝게 탈락하였다. 이 대회에 첫 출전한 [슬로베니아는](../Page/슬로베니아_축구_국가대표팀.md "wikilink") 승점을 1점도 수확하지 못하고 탈락하였다.
 
 ## 순위
 
 |}
 
-  - *모든 시간은 [대한민국의](https://ko.wikipedia.org/wiki/한국_표준시 "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
+  - *모든 시간은 [대한민국의](../Page/한국_표준시.md "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
 
 ## 파라과이 vs 남아프리카 공화국
 
@@ -90,7 +90,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/체사레_말디니" title="wikilink">체사레 말디니</a></p></td>
+<td><p><a href="../Page/체사레_말디니.md" title="wikilink">체사레 말디니</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -172,7 +172,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/프란시스코_아르세" title="wikilink">프란시스코 아르세</a> (파라과이)</p>
+<a href="../Page/프란시스코_아르세.md" title="wikilink">프란시스코 아르세</a> (파라과이)</p>
 <p><strong>부심:</strong><br />
 이고르 슈람카 (<a href="https://ko.wikipedia.org/wiki/슬로바키아_축구_협회" title="wikilink">슬로바키아</a>)<br />
 커티스 찰스 (<a href="https://ko.wikipedia.org/wiki/앤티가_바부다_축구_협회" title="wikilink">앤티가 바부다</a>)<br />
@@ -263,7 +263,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호세_안토니오_카마초" title="wikilink">호세 안토니오 카마초</a></p></td>
+<td><p><a href="../Page/호세_안토니오_카마초.md" title="wikilink">호세 안토니오 카마초</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -440,7 +440,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호세_안토니오_카마초" title="wikilink">호세 안토니오 카마초</a></p></td>
+<td><p><a href="../Page/호세_안토니오_카마초.md" title="wikilink">호세 안토니오 카마초</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -509,7 +509,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/체사레_말디니" title="wikilink">체사레 말디니</a></p></td>
+<td><p><a href="../Page/체사레_말디니.md" title="wikilink">체사레 말디니</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -522,7 +522,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/페르난도_모리엔테스" title="wikilink">페르난도 모리엔테스</a> (스페인)</p>
+<a href="../Page/페르난도_모리엔테스.md" title="wikilink">페르난도 모리엔테스</a> (스페인)</p>
 <p><strong>부심:</strong><br />
 와기 파라그 (<a href="https://ko.wikipedia.org/wiki/이집트_축구_협회" title="wikilink">이집트</a>)<br />
 브라이튼 무자미리 (<a href="https://ko.wikipedia.org/wiki/짐바브웨_축구_협회" title="wikilink">짐바브웨</a>)<br />
@@ -699,9 +699,9 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/퀸턴_포춘" title="wikilink">퀸턴 포춘</a> (남아프리카 공화국)</p>
+<a href="../Page/퀸턴_포춘.md" title="wikilink">퀸턴 포춘</a> (남아프리카 공화국)</p>
 <p><strong>부심:</strong><br />
-호르헤 라탈리노 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+호르헤 라탈리노 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 알리 알-트라이피 (<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_연맹" title="wikilink">사우디아라비아</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/얀_페허레이프" title="wikilink">얀 페허레이프</a> (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)</p></td>
@@ -863,7 +863,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호세_안토니오_카마초" title="wikilink">호세 안토니오 카마초</a></p></td>
+<td><p><a href="../Page/호세_안토니오_카마초.md" title="wikilink">호세 안토니오 카마초</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -878,7 +878,7 @@
 <td><p><strong>최우수 선수:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/라울_곤살레스" title="wikilink">라울</a> (스페인)</p>
 <p><strong>부심:</strong><br />
-호르헤 라탈리노 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+호르헤 라탈리노 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 아우니 하사우네 (<a href="https://ko.wikipedia.org/wiki/요르단_축구_협회" title="wikilink">요르단</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/모하메드_게자즈" title="wikilink">모하메드 게자즈</a> (<a href="https://ko.wikipedia.org/wiki/모로코_왕립_축구_협회" title="wikilink">모로코</a>)</p></td>
@@ -1040,7 +1040,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/체사레_말디니" title="wikilink">체사레 말디니</a></p></td>
+<td><p><a href="../Page/체사레_말디니.md" title="wikilink">체사레 말디니</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1053,12 +1053,12 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/넬손_쿠에바스" title="wikilink">넬손 쿠에바스</a> (파라과이)</p>
+<a href="../Page/넬손_쿠에바스.md" title="wikilink">넬손 쿠에바스</a> (파라과이)</p>
 <p><strong>부심:</strong><br />
 레이프 린베리 (<a href="https://ko.wikipedia.org/wiki/스웨덴_축구_협회" title="wikilink">스웨덴</a>)<br />
 비스바 크리시난 (<a href="https://ko.wikipedia.org/wiki/싱가포르_축구_협회" title="wikilink">싱가포르</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/김영주_(축구인)" title="wikilink">김영주</a> (<a href="https://ko.wikipedia.org/wiki/대한축구협회" title="wikilink">대한민국</a>)</p></td>
+<a href="../Page/김영주_(축구인).md" title="wikilink">김영주</a> (<a href="../Page/대한축구협회.md" title="wikilink">대한민국</a>)</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Come Here](https://ko.wikipedia.org/wiki/Come_Here).
 
 
-《**come Here**》는, [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN "wikilink")의 8번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**come Here**》는, [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 8번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -24,13 +24,13 @@
 3.  **[EXPOSE](https://ko.wikipedia.org/wiki/EXPOSE "wikilink")**
       -
         작사: miwa\* / 작곡: Erik Sahlen, Yoko.Hiramatsu / 편곡: Billy Marx Jr.
-4.  **ART OF LAIFE** (Vo.[우에다 타츠야](https://ko.wikipedia.org/wiki/우에다_타츠야 "wikilink"))
+4.  **ART OF LAIFE** (Vo.[우에다 타츠야](../Page/우에다_타츠야.md "wikilink"))
       -
         작사: Mz Hz / 작곡: Thomas Klintström, KAZ-AKI, DJ AiR / 편곡: Thomas Klintström, DJ AiR
 5.  **** / <small>**불멸의 스크럼**</small>
       -
         작사: masanco / 작곡: Janne Hyöty, Caroline Gustavsson / 편곡: Janne Hyöty
-6.  **** / <small>**크레센트**</small> (Vo.[나카마루 유이치](https://ko.wikipedia.org/wiki/나카마루_유이치 "wikilink"))
+6.  **** / <small>**크레센트**</small> (Vo.[나카마루 유이치](../Page/나카마루_유이치.md "wikilink"))
       -
         작사: YUICHI NAKAMARU, WINESS / 작곡: Filip "LeForce" Lindfors, Yoko.Hiramatsu / 편곡: Filip "LeForce" Lindfors
 7.  **** / <small>**페이크**</small>
@@ -39,13 +39,13 @@
 8.  **BREAK UR CAGE**
       -
         작사: KAHLUA / 작곡: Manabu Marutani, Katsuhiko Yamamoto, Command Freaks / 편곡: Command Freaks
-9.  **Emerald** (Vo.[카메나시 카즈야](https://ko.wikipedia.org/wiki/카메나시_카즈야 "wikilink"))
+9.  **Emerald** (Vo.[카메나시 카즈야](../Page/카메나시_카즈야.md "wikilink"))
       -
         작사: KAZUYA KAMENASHI / 작곡·편곡: DAISHI DANCE
 10. **STAR**
       -
         작사·작곡: KOUDAI IWATSUBO / 편곡: twenty forty, KOUDAI IWATSUBO
-11. **WHENEVER I KISS YOU** (Vo.[타구치 준노스케](https://ko.wikipedia.org/wiki/다구치_준노스케 "wikilink"))
+11. **WHENEVER I KISS YOU** (Vo.[타구치 준노스케](../Page/다구치_준노스케.md "wikilink"))
       -
         작사·작곡·편곡: NAO
 12. **SUMMER EMOTION**

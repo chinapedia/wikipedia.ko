@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [INTJ](https://ko.wikipedia.org/wiki/INTJ).
 
 
-**INTJ**는 [마이어스-브릭스 유형 지표의](https://ko.wikipedia.org/wiki/마이어스-브릭스_유형_지표 "wikilink") 16가지 성격유형 중의 하나다.\[1\] INTJ는 내향성(Introvert),통찰력(iNtuitive),사고형(Thinking),판단력(Judging)이 강한 성격을 뜻한다.
+**INTJ**는 [마이어스-브릭스 유형 지표의](../Page/마이어스-브릭스_유형_지표.md "wikilink") 16가지 성격유형 중의 하나다.\[1\] INTJ는 내향성(Introvert),통찰력(iNtuitive),사고형(Thinking),판단력(Judging)이 강한 성격을 뜻한다.
 
 ## 인지 기능
 

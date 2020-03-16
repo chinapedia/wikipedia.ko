@@ -74,16 +74,16 @@ TFBOYS는 데뷔 당시 팬 수가 약 4,000만명이였으며 현재 팬 수는
 
 ## 수상
 
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 제2회 ”인위에타이 V차트 어워드” 인기상\[6\]
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 제2회 “인위에타이 V차트 어워드” 인기상 (생방송)
+  - [2014년](../Page/2014년.md "wikilink") 제2회 ”인위에타이 V차트 어워드” 인기상\[6\]
+  - [2014년](../Page/2014년.md "wikilink") 제2회 “인위에타이 V차트 어워드” 인기상 (생방송)
 
 ## 표절 의혹
 
-2014년 10월 17일 TFBOYS가 "신앙지명"을 발표,이 곡은 애니메이션 "[어떤 과학의 초전자포](https://ko.wikipedia.org/wiki/어떤_과학의_초전자포 "wikilink")"의 주제가 "[only my railgun](https://ko.wikipedia.org/wiki/only_my_railgun "wikilink")"와 매우 유사.\[7\]
+2014년 10월 17일 TFBOYS가 "신앙지명"을 발표,이 곡은 애니메이션 "[어떤 과학의 초전자포](../Page/어떤_과학의_초전자포.md "wikilink")"의 주제가 "[only my railgun](https://ko.wikipedia.org/wiki/only_my_railgun "wikilink")"와 매우 유사.\[7\]
 
 2곡은 매우 유사하기 때문에 두 곡의 비디오를 비교하고 온라인으로 공개하고있는 사람도 있다.\[8\]
 
-2016년 7월 4일 TFBOYS가 "미래의 진격 "을 발표,이 곡은 [미모리 스즈코와](../Page/미모리_스즈코.md "wikilink") [난죠 요시노의](https://ko.wikipedia.org/wiki/난죠_요시노 "wikilink")"[Storm in Lover](https://ko.wikipedia.org/wiki/Storm_in_Lover "wikilink")"와 비슷.\[9\]2곡의 비교 동영상도 인터넷에있는.\[10\]
+2016년 7월 4일 TFBOYS가 "미래의 진격 "을 발표,이 곡은 [미모리 스즈코와](../Page/미모리_스즈코.md "wikilink") [난죠 요시노의](../Page/난죠_요시노.md "wikilink")"[Storm in Lover](https://ko.wikipedia.org/wiki/Storm_in_Lover "wikilink")"와 비슷.\[9\]2곡의 비교 동영상도 인터넷에있는.\[10\]
 
 ## 각주
 

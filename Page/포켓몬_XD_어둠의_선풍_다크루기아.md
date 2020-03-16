@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ XD   ](https://ko.wikipedia.org/wiki/_XD___).
 
 
-**포켓몬 XD 어둠의 선풍 다크루기아**(, )은 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")에서 제작한 [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink") 시리즈의 게임이다.
+**포켓몬 XD 어둠의 선풍 다크루기아**(, )은 [닌텐도](../Page/닌텐도.md "wikilink")에서 제작한 [포켓몬스터](../Page/포켓몬스터.md "wikilink") 시리즈의 게임이다.
 
-한편 이 게임은 [닌텐도 게임큐브에서](https://ko.wikipedia.org/wiki/닌텐도_게임큐브 "wikilink") 작동된다.
+한편 이 게임은 [닌텐도 게임큐브에서](../Page/닌텐도_게임큐브.md "wikilink") 작동된다.
 
 ## 줄거리
 

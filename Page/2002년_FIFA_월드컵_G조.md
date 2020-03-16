@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [2002 FIFA  G](https://ko.wikipedia.org/wiki/2002_FIFA__G).
 
 
-[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") G조**에는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아_축구_국가대표팀 "wikilink"), [에콰도르](https://ko.wikipedia.org/wiki/에콰도르_축구_국가대표팀 "wikilink"), [크로아티아](https://ko.wikipedia.org/wiki/크로아티아_축구_국가대표팀 "wikilink"), 그리고 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") 들어갔다. G조의 경기는 2002년 6월 3일과 2002년 6월 13일 사이에 치러졌다. [멕시코가](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") 조 1위를 차지해 [이탈리아와](https://ko.wikipedia.org/wiki/이탈리아_축구_국가대표팀 "wikilink") 함께 다음 라운드에 진출하였다. [크로아티아와](https://ko.wikipedia.org/wiki/크로아티아_축구_국가대표팀 "wikilink") [에콰도르는](https://ko.wikipedia.org/wiki/에콰도르_축구_국가대표팀 "wikilink") 다음 라운드 진출에 실패하였다.
+[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") G조**에는 [이탈리아](../Page/이탈리아_축구_국가대표팀.md "wikilink"), [에콰도르](../Page/에콰도르_축구_국가대표팀.md "wikilink"), [크로아티아](../Page/크로아티아_축구_국가대표팀.md "wikilink"), 그리고 [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") 들어갔다. G조의 경기는 2002년 6월 3일과 2002년 6월 13일 사이에 치러졌다. [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") 조 1위를 차지해 [이탈리아와](../Page/이탈리아_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. [크로아티아와](../Page/크로아티아_축구_국가대표팀.md "wikilink") [에콰도르는](../Page/에콰도르_축구_국가대표팀.md "wikilink") 다음 라운드 진출에 실패하였다.
 
 ## 순위
 
 |}
 
-  - *모든 시간은 [일본의](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
+  - *모든 시간은 [일본의](../Page/일본_표준시.md "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
 
 ## 크로아티아 vs 멕시코
 
@@ -159,7 +159,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/하비에르_아기레" title="wikilink">하비에르 아기레</a></p></td>
+<td><p><a href="../Page/하비에르_아기레.md" title="wikilink">하비에르 아기레</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -263,7 +263,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/조반니_트라파토니" title="wikilink">조반니 트라파토니</a></p></td>
+<td><p><a href="../Page/조반니_트라파토니.md" title="wikilink">조반니 트라파토니</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -349,7 +349,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/크리스티안_비에리" title="wikilink">크리스티안 비에리</a> (이탈리아)</p>
+<a href="../Page/크리스티안_비에리.md" title="wikilink">크리스티안 비에리</a> (이탈리아)</p>
 <p><strong>부심:</strong><br />
 엑토르 베르가라 (<a href="https://ko.wikipedia.org/wiki/캐나다_축구_협회" title="wikilink">캐나다</a>)<br />
 필립 샤프 (<a href="https://ko.wikipedia.org/wiki/잉글랜드_축구_협회" title="wikilink">잉글랜드</a>)<br />
@@ -436,7 +436,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/조반니_트라파토니" title="wikilink">조반니 트라파토니</a></p></td>
+<td><p><a href="../Page/조반니_트라파토니.md" title="wikilink">조반니 트라파토니</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -613,7 +613,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하비에르_아기레" title="wikilink">하비에르 아기레</a></p></td>
+<td><p><a href="../Page/하비에르_아기레.md" title="wikilink">하비에르 아기레</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -699,7 +699,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/헤라르도_토라도" title="wikilink">헤라르도 토라도</a> (멕시코)</p>
+<a href="../Page/헤라르도_토라도.md" title="wikilink">헤라르도 토라도</a> (멕시코)</p>
 <p><strong>부심:</strong><br />
 타우피크 아디엔기 (<a href="https://ko.wikipedia.org/wiki/튀니지_축구_협회" title="wikilink">튀니지</a>)<br />
 하이다르 콜레이트 (<a href="https://ko.wikipedia.org/wiki/레바논_축구_협회" title="wikilink">레바논</a>)<br />
@@ -790,7 +790,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하비에르_아기레" title="wikilink">하비에르 아기레</a></p></td>
+<td><p><a href="../Page/하비에르_아기레.md" title="wikilink">하비에르 아기레</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -863,7 +863,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/조반니_트라파토니" title="wikilink">조반니 트라파토니</a></p></td>
+<td><p><a href="../Page/조반니_트라파토니.md" title="wikilink">조반니 트라파토니</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -876,7 +876,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/콰우테모크_블랑코" title="wikilink">콰우테모크 블랑코</a> (멕시코)</p>
+<a href="../Page/콰우테모크_블랑코.md" title="wikilink">콰우테모크 블랑코</a> (멕시코)</p>
 <p><strong>부심:</strong><br />
 조르지 올리베이라 (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)<br />
 마트 라짐 아왕 하마트 (<a href="https://ko.wikipedia.org/wiki/말레이시아_축구_협회" title="wikilink">말레이시아</a>)<br />
@@ -1049,7 +1049,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/에디손_멘데스" title="wikilink">에디손 멘데스</a> (에콰도르)</p>
+<a href="../Page/에디손_멘데스.md" title="wikilink">에디손 멘데스</a> (에콰도르)</p>
 <p><strong>부심:</strong><br />
 미겔 히아코무시 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
 롤란트 판 닐런 (<a href="../Page/벨기에_왕립_축구_협회.md" title="wikilink">벨기에</a>)<br />

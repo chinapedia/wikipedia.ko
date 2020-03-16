@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Deemo](https://ko.wikipedia.org/wiki/Deemo).
 
 
-**Deemo**는 대만의 게임 회사인 Rayark Inc.에서 만든 리듬 게임이다. [Cytus](../Page/Cytus.md "wikilink")에 곡을 제공한 바 있는 Ice, Rabpit, V.K, [M2U](https://ko.wikipedia.org/wiki/M2U "wikilink") 등이 제작에 참여하였다. 2013년 3월에 최초로 공개되어 같은 해 11월에 iOS와 안드로이드에서 발매되었다. 출시 하루만에 대한민국 앱스토어에서 게임 부문 1위를 차지했다.\[1\] 앱스토어 별점 평균 5개를 유지하고 있으며, Touch Arcade에서 별 4개 반을\[2\], 인벤에서 별 5개를 받았다.\[3\] 모든 곡이 피아노 선율을 위주로 이루어져 있으며, 전작인 Cytus에 수록되었던 Saika, Sanctity, Entrance가 전자음을 줄이고 피아노 버전으로 리어레인지되어 수록되기도 하였다. 2013년에는 Deemo 수록곡을 가지고 Rayark Live Concert 2013이 열렸다.\[4\] 2015년 6월 24일, Deemo 2.0 까지의 스토리가 담긴 [PS Vita판이](https://ko.wikipedia.org/wiki/PS_Vita "wikilink") 발매되었다. 2017년 9월 21일에는 [닌텐도 스위치로도](https://ko.wikipedia.org/wiki/닌텐도_스위치 "wikilink") 발매되었다. 또한 2019년 11월 21일에는 [PS4](https://ko.wikipedia.org/wiki/PS4 "wikilink")/[PS VR버전인](https://ko.wikipedia.org/wiki/PS_VR "wikilink") Deemo-reborn-이 발매되었다.
+**Deemo**는 대만의 게임 회사인 Rayark Inc.에서 만든 리듬 게임이다. [Cytus](../Page/Cytus.md "wikilink")에 곡을 제공한 바 있는 Ice, Rabpit, V.K, [M2U](../Page/M2U.md "wikilink") 등이 제작에 참여하였다. 2013년 3월에 최초로 공개되어 같은 해 11월에 iOS와 안드로이드에서 발매되었다. 출시 하루만에 대한민국 앱스토어에서 게임 부문 1위를 차지했다.\[1\] 앱스토어 별점 평균 5개를 유지하고 있으며, Touch Arcade에서 별 4개 반을\[2\], 인벤에서 별 5개를 받았다.\[3\] 모든 곡이 피아노 선율을 위주로 이루어져 있으며, 전작인 Cytus에 수록되었던 Saika, Sanctity, Entrance가 전자음을 줄이고 피아노 버전으로 리어레인지되어 수록되기도 하였다. 2013년에는 Deemo 수록곡을 가지고 Rayark Live Concert 2013이 열렸다.\[4\] 2015년 6월 24일, Deemo 2.0 까지의 스토리가 담긴 [PS Vita판이](https://ko.wikipedia.org/wiki/PS_Vita "wikilink") 발매되었다. 2017년 9월 21일에는 [닌텐도 스위치로도](../Page/닌텐도_스위치.md "wikilink") 발매되었다. 또한 2019년 11월 21일에는 [PS4](https://ko.wikipedia.org/wiki/PS4 "wikilink")/[PS VR버전인](https://ko.wikipedia.org/wiki/PS_VR "wikilink") Deemo-reborn-이 발매되었다.
 
 ## 특징
 

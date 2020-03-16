@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2006 FIFA  D](https://ko.wikipedia.org/wiki/2006_FIFA__D).
 
 
-**2006년 FIFA 월드컵 D조**는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. D조 일정은 2006년 6월 11일에 시작하여 2006년 6월 21일에 완료되었다. [포르투갈은](https://ko.wikipedia.org/wiki/포르투갈_축구_국가대표팀 "wikilink") 이 조에서 1위를 차지해 [멕시코과](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") 함께 다음 라운드에 진출하였다. 반면 [앙골라와](https://ko.wikipedia.org/wiki/앙골라_축구_국가대표팀 "wikilink") [이란](https://ko.wikipedia.org/wiki/이란_축구_국가대표팀 "wikilink") 축구 국가대표팀은 그리하지 못하였다.
+**2006년 FIFA 월드컵 D조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. D조 일정은 2006년 6월 11일에 시작하여 2006년 6월 21일에 완료되었다. [포르투갈은](../Page/포르투갈_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지해 [멕시코과](../Page/멕시코_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 반면 [앙골라와](../Page/앙골라_축구_국가대표팀.md "wikilink") [이란](../Page/이란_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 그리하지 못하였다.
 
 ## 순위
 
@@ -90,7 +90,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/리카르도_라볼페" title="wikilink">리카르도 라볼페</a></p></td>
+<td><p><a href="../Page/리카르도_라볼페.md" title="wikilink">리카르도 라볼페</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -159,7 +159,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/브란코_이반코비치" title="wikilink">브란코 이반코비치</a></p></td>
+<td><p><a href="../Page/브란코_이반코비치.md" title="wikilink">브란코 이반코비치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -338,7 +338,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_펠리피_스콜라리" title="wikilink">루이스 펠리피 스콜라리</a></p></td>
+<td><p><a href="../Page/루이스_펠리피_스콜라리.md" title="wikilink">루이스 펠리피 스콜라리</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -347,7 +347,7 @@
 </tbody>
 </table>
 
-[섬네일에](https://ko.wikipedia.org/wiki/파일:Fans_of_the_Angolan_national_football_team_in_Cologne.jpg "wikilink") 모인 [앙골라](https://ko.wikipedia.org/wiki/앙골라_축구_국가대표팀 "wikilink") 팬들\]\]
+[섬네일에](https://ko.wikipedia.org/wiki/파일:Fans_of_the_Angolan_national_football_team_in_Cologne.jpg "wikilink") 모인 [앙골라](../Page/앙골라_축구_국가대표팀.md "wikilink") 팬들\]\]
 
 <table>
 <tbody>
@@ -446,7 +446,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/리카르도_라볼페" title="wikilink">리카르도 라볼페</a></p></td>
+<td><p><a href="../Page/리카르도_라볼페.md" title="wikilink">리카르도 라볼페</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -528,7 +528,7 @@
 </tbody>
 </table>
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:The_Mexicans_take_Munich.jpg "wikilink") [올림피아 공원에서](https://ko.wikipedia.org/wiki/올륌피아파르크 "wikilink") 응원하는 [멕시코](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") 팬들\]\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:The_Mexicans_take_Munich.jpg "wikilink") [올림피아 공원에서](https://ko.wikipedia.org/wiki/올륌피아파르크 "wikilink") 응원하는 [멕시코](../Page/멕시코_축구_국가대표팀.md "wikilink") 팬들\]\]
 
 <table>
 <tbody>
@@ -627,7 +627,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_펠리피_스콜라리" title="wikilink">루이스 펠리피 스콜라리</a></p></td>
+<td><p><a href="../Page/루이스_펠리피_스콜라리.md" title="wikilink">루이스 펠리피 스콜라리</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -700,7 +700,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/브란코_이반코비치" title="wikilink">브란코 이반코비치</a></p></td>
+<td><p><a href="../Page/브란코_이반코비치.md" title="wikilink">브란코 이반코비치</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -713,7 +713,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/데쿠" title="wikilink">데쿠</a> (포르투갈)</p>
+<a href="../Page/데쿠.md" title="wikilink">데쿠</a> (포르투갈)</p>
 <p><strong>부심:</strong><br />
 리오넬 다고르뉴 (<a href="https://ko.wikipedia.org/wiki/프랑스_축구_협회" title="wikilink">프랑스</a>)<br />
 뱅상 테시에르 (<a href="https://ko.wikipedia.org/wiki/프랑스_축구_협회" title="wikilink">프랑스</a>)<br />
@@ -806,7 +806,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_펠리피_스콜라리" title="wikilink">루이스 펠리피 스콜라리</a></p></td>
+<td><p><a href="../Page/루이스_펠리피_스콜라리.md" title="wikilink">루이스 펠리피 스콜라리</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -879,7 +879,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/리카르도_라볼페" title="wikilink">리카르도 라볼페</a></p></td>
+<td><p><a href="../Page/리카르도_라볼페.md" title="wikilink">리카르도 라볼페</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -888,7 +888,7 @@
 </tbody>
 </table>
 
-[섬네일에](https://ko.wikipedia.org/wiki/파일:Mexicanos_Gelsenkirchen.jpg "wikilink") [솜브레로](https://ko.wikipedia.org/wiki/솜브레로 "wikilink")를 쓰고 나온 [멕시코](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") 팬들\]\]
+[섬네일에](https://ko.wikipedia.org/wiki/파일:Mexicanos_Gelsenkirchen.jpg "wikilink") [솜브레로](https://ko.wikipedia.org/wiki/솜브레로 "wikilink")를 쓰고 나온 [멕시코](../Page/멕시코_축구_국가대표팀.md "wikilink") 팬들\]\]
 
 <table>
 <tbody>
@@ -987,7 +987,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/브란코_이반코비치" title="wikilink">브란코 이반코비치</a></p></td>
+<td><p><a href="../Page/브란코_이반코비치.md" title="wikilink">브란코 이반코비치</a></p></td>
 <td></td>
 </tr>
 </tbody>

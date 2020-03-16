@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cindai](https://ko.wikipedia.org/wiki/Cindai).
 
 
-**Cindai**는 [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink")의 팝 가수 [시티 누르할리자의](../Page/시티_누르할리자.md "wikilink") 세 번째 정규 음반이자, 1997년 <Siti Nurhaliza II>에 이어 발매된 두 번째 음반이다. 말레이시아에서만 40만 장 가량을,\[1\] 인도네시아에서는 10만 장 가량 판매되었다.\[2\]
+**Cindai**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 [시티 누르할리자의](../Page/시티_누르할리자.md "wikilink") 세 번째 정규 음반이자, 1997년 <Siti Nurhaliza II>에 이어 발매된 두 번째 음반이다. 말레이시아에서만 40만 장 가량을,\[1\] 인도네시아에서는 10만 장 가량 판매되었다.\[2\]
 
 ## 음반 소개
 
