@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 파두츠**()는 [리히텐슈타인](https://ko.wikipedia.org/wiki/리히텐슈타인 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 2009-10 시즌부터 [스위스 챌린지리그에서](../Page/스위스_챌린지리그.md "wikilink") 활동하고 있다. 리히텐슈타인에는 고유의 축구 리그가 존재하지 않기 때문에 리히텐슈타인의 축구 클럽들은 모두 스위스의 축구 리그에 참가하고 있다. 연고지는 리히텐슈타인의 [수도](https://ko.wikipedia.org/wiki/수도 "wikilink")인 [파두츠](https://ko.wikipedia.org/wiki/파두츠 "wikilink")에 위치한 [라인파르크 슈타디온이다](https://ko.wikipedia.org/wiki/라인파르크_슈타디온 "wikilink"). 한때 FC 파두츠는 [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")의 축구 리그에서 활동한 경험이 있다.
+**FC 파두츠**()는 [리히텐슈타인](../Page/리히텐슈타인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 2009-10 시즌부터 [스위스 챌린지리그에서](../Page/스위스_챌린지리그.md "wikilink") 활동하고 있다. 리히텐슈타인에는 고유의 축구 리그가 존재하지 않기 때문에 리히텐슈타인의 축구 클럽들은 모두 스위스의 축구 리그에 참가하고 있다. 연고지는 리히텐슈타인의 [수도](../Page/수도.md "wikilink")인 [파두츠](../Page/파두츠.md "wikilink")에 위치한 [라인파르크 슈타디온이다](../Page/라인파르크_슈타디온.md "wikilink"). 한때 FC 파두츠는 [오스트리아](../Page/오스트리아.md "wikilink")의 축구 리그에서 활동한 경험이 있다.
 
 2001-02 시즌부터 2007-08 시즌까지 파두츠는 [스위스 챌린지리그](../Page/스위스_챌린지리그.md "wikilink")(스위스의 2부 축구 리그)에서 활동하였다. 2003-04 시즌과 2004-05 시즌에는 챌린지리그 2위를 기록하여 승격 플레이오프까지 나갔으나 승격에는 실패하다가 2007-08 시즌에 챌린지리그 우승을 하여 자동 승격되었다. 2008-09 시즌에는 최하위인 10위를 하여 승격 1시즌 만에 다시 강등되었다.
 

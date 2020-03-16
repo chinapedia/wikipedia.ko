@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [United Abominations](https://ko.wikipedia.org/wiki/United_Abominations).
 
 
-**《United Abominations》**은 2007년 5월 8일날 전 세계에 발매된 스래시/헤비메탈 밴드 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 열한 번째 정규 음반이다. 이 음반은 "Roadrunner Records"로 새로 계약을 맺은후 발매되었고 [빌보트 200](https://ko.wikipedia.org/wiki/빌보트_200 "wikilink") 차트에서 8위를 기록하여 《[Youthanasia](https://ko.wikipedia.org/wiki/Youthanasia "wikilink")》에 이어 3번째로 높은 순위를 기록하였다. 대체로 '다시 전성기 시절로 회귀한 사운드'라는 평을 받았고 Youthanasia의 4번 트랙인 A Tout Le Monde는 [크리스티나 스카비아와](https://ko.wikipedia.org/wiki/크리스티나_스카비아 "wikilink") 함께 피쳐링한 리메이크 곡이 수록되었다.
+**《United Abominations》**은 2007년 5월 8일날 전 세계에 발매된 스래시/헤비메탈 밴드 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 열한 번째 정규 음반이다. 이 음반은 "Roadrunner Records"로 새로 계약을 맺은후 발매되었고 [빌보트 200](https://ko.wikipedia.org/wiki/빌보트_200 "wikilink") 차트에서 8위를 기록하여 《[Youthanasia](../Page/Youthanasia.md "wikilink")》에 이어 3번째로 높은 순위를 기록하였다. 대체로 '다시 전성기 시절로 회귀한 사운드'라는 평을 받았고 Youthanasia의 4번 트랙인 A Tout Le Monde는 [크리스티나 스카비아와](https://ko.wikipedia.org/wiki/크리스티나_스카비아 "wikilink") 함께 피쳐링한 리메이크 곡이 수록되었다.
 
 이 음반 표지에선 메가데스의 마스코트인 빅 리틀헤드의 새로운 캐릭터 버전으로 나왔다 일명 "Angel Of Deth (죽음의 천사)" 칭하는데 UN 본부 배경으로 UN 본부를 파괴하는 배경이 나왔다.
 
@@ -21,7 +21,7 @@
 
 ### 보너스 트랙 - 일본판
 
-1.  "Out on the Tiles" - 4:03 ([레드 제플린](https://ko.wikipedia.org/wiki/레드_제플린 "wikilink") 커버)
+1.  "Out on the Tiles" - 4:03 ([레드 제플린](../Page/레드_제플린.md "wikilink") 커버)
 
 ### B-Side
 

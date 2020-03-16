@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DMX \(\)](https://ko.wikipedia.org/wiki/DMX_\(\)).
 
 
-**DMX**(, <small>본명:</small>, [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink"))은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 랩퍼겸 [영화 배우이다](https://ko.wikipedia.org/wiki/영화_배우 "wikilink").
+**DMX**(, <small>본명:</small>, [1970년](../Page/1970년.md "wikilink") [12월 18일](../Page/12월_18일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 랩퍼겸 [영화 배우이다](https://ko.wikipedia.org/wiki/영화_배우 "wikilink").
 
 ## 출생과 데뷔
 
@@ -13,19 +13,19 @@
 
 [1998년 5월](https://ko.wikipedia.org/wiki/1998년_5월 "wikilink") DMX의 데뷔앨범 "It's Dark And Hell Is Hot" 이 발표되었고, 경이로운 성공을 기록해, 빌보드챠트의 1위에 랭크되었기도 하다. Jay-Z는 그의 앨범에 대해, 극찬을 아끼지 않았고, 음악잡지의 리뷰와, 일반사람들의 평가도 아주 좋았다.1998년 그는 강간 혐의로 위험에 쳐했었는데, 다행히도 증인이나타나 그가 아니였던것을 증명해서 풀려나기도 했다. 그는 또한 유명한 [MTV](../Page/MTV.md "wikilink")/뮤직비디오 감독인 Hype Williams에 의해 픽업되어 영화 "Belly"에 출연하게 되었고, 사운드트랙에도 참여하였다.
 
-[1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") '...And Then There Was X'를 발표한다.이 앨범은 전 2앨범에 이어 힙합히트작을 만든 앨범이다.ㅣ첫주에만 68만장이 팔린 어마어마한 앨범이다.첫 싱글인 'Party Up'은 알엔비/힙합,랩싱글,리듬 Top 40,핫링스톤즈,트랙,랍100애서 8위,11위,7위,27위,1위,10위 등에 성적을 낸다.두 번째 싱글인 'What's My Name?'도 발표되었고,[드루 힐에](https://ko.wikipedia.org/wiki/드루_힐 "wikilink") 맴버 [시스코](https://ko.wikipedia.org/wiki/시스코 "wikilink")가 참여한 세 번째 싱글 'What These Bitches Want'는 11위,29위를 차지한다.이 앨범은 전체 1위를 한다.
+[1999년](../Page/1999년.md "wikilink") '...And Then There Was X'를 발표한다.이 앨범은 전 2앨범에 이어 힙합히트작을 만든 앨범이다.ㅣ첫주에만 68만장이 팔린 어마어마한 앨범이다.첫 싱글인 'Party Up'은 알엔비/힙합,랩싱글,리듬 Top 40,핫링스톤즈,트랙,랍100애서 8위,11위,7위,27위,1위,10위 등에 성적을 낸다.두 번째 싱글인 'What's My Name?'도 발표되었고,[드루 힐에](https://ko.wikipedia.org/wiki/드루_힐 "wikilink") 맴버 [시스코](https://ko.wikipedia.org/wiki/시스코 "wikilink")가 참여한 세 번째 싱글 'What These Bitches Want'는 11위,29위를 차지한다.이 앨범은 전체 1위를 한다.
 
-[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 'The Great Depression'은 미국내에서 다시 1위를 등극,[영국](https://ko.wikipedia.org/wiki/영국 "wikilink"),[스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink"),[캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink"),[중국](https://ko.wikipedia.org/wiki/중국 "wikilink")등지에서 1위,10위,25위 등을 기록한다.
+[2001년](../Page/2001년.md "wikilink") 'The Great Depression'은 미국내에서 다시 1위를 등극,[영국](../Page/영국.md "wikilink"),[스웨덴](../Page/스웨덴.md "wikilink"),[캐나다](../Page/캐나다.md "wikilink"),[중국](../Page/중국.md "wikilink")등지에서 1위,10위,25위 등을 기록한다.
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 'Grand Champ'를 발표한다.이 앨범에서는 [카니예 웨스트](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink"),[스위즈 비츠등의](https://ko.wikipedia.org/wiki/스위즈_비츠 "wikilink") 프로듀서들과,[캄론](https://ko.wikipedia.org/wiki/캄론 "wikilink"),[제이다키스](https://ko.wikipedia.org/wiki/제이다키스 "wikilink"),[50 센트등의](../Page/50_센트.md "wikilink") 뮤지션들도 참여한다.이 앨범은 미국에서 1위,[영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 1위,[캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서 2위,[독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 7위,[독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 6위를 하는 등,세계에 그의 노래들이 상위권에 진입하는 고공행진을 보인다.첫 주에만 31만장이 팔렸고,싱글인 'Where the Hood At'이 싱글이었다.(영국에서는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 개봉된 그의 영화 'Cradle 2 the Grave'의 Bounce Track인 'X Gon Give It To Ya'를 수록했다.)또한 이 앨범은 [데프잼 레코드에서](https://ko.wikipedia.org/wiki/데프잼_레코드 "wikilink") 발매된 마지막 앨범이었다.
+[2003년](../Page/2003년.md "wikilink") 'Grand Champ'를 발표한다.이 앨범에서는 [카니예 웨스트](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink"),[스위즈 비츠등의](../Page/스위즈_비츠.md "wikilink") 프로듀서들과,[캄론](../Page/캄론.md "wikilink"),[제이다키스](../Page/제이다키스.md "wikilink"),[50 센트등의](../Page/50_센트.md "wikilink") 뮤지션들도 참여한다.이 앨범은 미국에서 1위,[영국](../Page/영국.md "wikilink")에서 1위,[캐나다](../Page/캐나다.md "wikilink")에서 2위,[독일](../Page/독일.md "wikilink")에서 7위,[독일](../Page/독일.md "wikilink")에서 6위를 하는 등,세계에 그의 노래들이 상위권에 진입하는 고공행진을 보인다.첫 주에만 31만장이 팔렸고,싱글인 'Where the Hood At'이 싱글이었다.(영국에서는 [2003년](../Page/2003년.md "wikilink") 개봉된 그의 영화 'Cradle 2 the Grave'의 Bounce Track인 'X Gon Give It To Ya'를 수록했다.)또한 이 앨범은 [데프잼 레코드에서](https://ko.wikipedia.org/wiki/데프잼_레코드 "wikilink") 발매된 마지막 앨범이었다.
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [데프잼 레코드와](https://ko.wikipedia.org/wiki/데프잼_레코드 "wikilink") 결별한 그는 '콜럼비아 레코드'와 계약을 맺고, 앨범 'Year of the Dog… Again'을 발매한다.[스위즈 비츠](https://ko.wikipedia.org/wiki/스위즈_비츠 "wikilink") 등의 프로듀서와,[버스타 라임즈](https://ko.wikipedia.org/wiki/버스타_라임즈 "wikilink"),[에이머리](../Page/에이머리.md "wikilink"),[제이다키스](https://ko.wikipedia.org/wiki/제이다키스 "wikilink") 등의 뮤지션이 참여했으며,또다시 미국전체 차트에서 1위,[캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서 4위,[독일](https://ko.wikipedia.org/wiki/독일 "wikilink"),[스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")에서 7위,[영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 22위를 기록했다.첫주에만 12만장이 팔렸다.
+[2006년](../Page/2006년.md "wikilink") [데프잼 레코드와](https://ko.wikipedia.org/wiki/데프잼_레코드 "wikilink") 결별한 그는 '콜럼비아 레코드'와 계약을 맺고, 앨범 'Year of the Dog… Again'을 발매한다.[스위즈 비츠](../Page/스위즈_비츠.md "wikilink") 등의 프로듀서와,[버스타 라임즈](https://ko.wikipedia.org/wiki/버스타_라임즈 "wikilink"),[에이머리](../Page/에이머리.md "wikilink"),[제이다키스](../Page/제이다키스.md "wikilink") 등의 뮤지션이 참여했으며,또다시 미국전체 차트에서 1위,[캐나다](../Page/캐나다.md "wikilink")에서 4위,[독일](../Page/독일.md "wikilink"),[스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")에서 7위,[영국](../Page/영국.md "wikilink")에서 22위를 기록했다.첫주에만 12만장이 팔렸다.
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 베스트 앨범인 'The Definition of X: The Pick of the Litter'를 발매했다.
+[2007년](../Page/2007년.md "wikilink") 베스트 앨범인 'The Definition of X: The Pick of the Litter'를 발매했다.
 
 ## 재기
 
-그는 두앨범인 'Walk with Me Now', 'You'll Fly with Me Later'를 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에서 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")사이에 발매할 예정이라고 한다.현재 참여진들은 [페럴](https://ko.wikipedia.org/wiki/페럴 "wikilink"),[카니예 웨스트](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink"),[션 킹스턴](https://ko.wikipedia.org/wiki/션_킹스턴 "wikilink"),[티-페인](https://ko.wikipedia.org/wiki/티-페인 "wikilink"),[짐 존스](https://ko.wikipedia.org/wiki/짐_존스 "wikilink") 등이 참여할 예정이라고 한다.
+그는 두앨범인 'Walk with Me Now', 'You'll Fly with Me Later'를 [2009년](../Page/2009년.md "wikilink")에서 [2010년](../Page/2010년.md "wikilink")사이에 발매할 예정이라고 한다.현재 참여진들은 [페럴](https://ko.wikipedia.org/wiki/페럴 "wikilink"),[카니예 웨스트](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink"),[션 킹스턴](https://ko.wikipedia.org/wiki/션_킹스턴 "wikilink"),[티-페인](https://ko.wikipedia.org/wiki/티-페인 "wikilink"),[짐 존스](../Page/짐_존스.md "wikilink") 등이 참여할 예정이라고 한다.
 
 ## 외부 링크
 

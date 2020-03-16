@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CS ](https://ko.wikipedia.org/wiki/CS_).
 
 
-**CS 마리티무** (Club Sport Marítimo)는 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink")의 [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 클럽으로 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink")이 가장 잘 알려져 있다. [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 외에도 [핸드볼](https://ko.wikipedia.org/wiki/핸드볼 "wikilink"), [배구](https://ko.wikipedia.org/wiki/배구 "wikilink")팀도 보유하고 있다. 홈구장은 [마데이라 제도의](https://ko.wikipedia.org/wiki/마데이라_제도 "wikilink") 주도인 [푼샬](../Page/푼샬.md "wikilink")에 있는 [이스타디우 두스 바헤이루스](https://ko.wikipedia.org/wiki/이스타디우_두스_바헤이루스 "wikilink")()이다. 이 클럽은 마데이라에서 가장 큰 클럽으로 라이벌팀으로는 [CD 나시오날이](../Page/CD_나시오날.md "wikilink") 있다.
+**CS 마리티무** (Club Sport Marítimo)는 [포르투갈](../Page/포르투갈.md "wikilink")의 [스포츠](../Page/스포츠.md "wikilink") 클럽으로 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink")이 가장 잘 알려져 있다. [축구](../Page/축구.md "wikilink") 외에도 [핸드볼](../Page/핸드볼.md "wikilink"), [배구](../Page/배구.md "wikilink")팀도 보유하고 있다. 홈구장은 [마데이라 제도의](../Page/마데이라_제도.md "wikilink") 주도인 [푼샬](../Page/푼샬.md "wikilink")에 있는 [이스타디우 두스 바헤이루스](https://ko.wikipedia.org/wiki/이스타디우_두스_바헤이루스 "wikilink")()이다. 이 클럽은 마데이라에서 가장 큰 클럽으로 라이벌팀으로는 [CD 나시오날이](../Page/CD_나시오날.md "wikilink") 있다.
 
 ## 역사
 
-[1910년](https://ko.wikipedia.org/wiki/1910년 "wikilink") [9월 20일에](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") *Club Português de Sport Marítimo*란 이름으로 창단되었다. 클럽은 포르투갈 공화국의 국기색인 빨강과 초록을 사용하여 그 당시 라이벌팀인 CS 마데이라(Club Sports da Madeira)의 파랑과 흰색의 왕국기의 색과 차별화하였다. 클럼명인 마리티무는 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")로 바다의, 해변의 라는 뜻을 가진 Maritime이다. 이는 그당시 팀의 선수들이 [푼샬](../Page/푼샬.md "wikilink") 항구에서 일하는 노동자들이었다는 것을 반영한 것이다.
+[1910년](../Page/1910년.md "wikilink") [9월 20일에](../Page/9월_20일.md "wikilink") *Club Português de Sport Marítimo*란 이름으로 창단되었다. 클럽은 포르투갈 공화국의 국기색인 빨강과 초록을 사용하여 그 당시 라이벌팀인 CS 마데이라(Club Sports da Madeira)의 파랑과 흰색의 왕국기의 색과 차별화하였다. 클럼명인 마리티무는 [영어](../Page/영어.md "wikilink")로 바다의, 해변의 라는 뜻을 가진 Maritime이다. 이는 그당시 팀의 선수들이 [푼샬](../Page/푼샬.md "wikilink") 항구에서 일하는 노동자들이었다는 것을 반영한 것이다.
 
 마리티무는 1973-74시즌에 처음으로 리그에 참가한 이후 현재까지 2008-09시즌 현재 29번째 [포르투갈 리가에](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 참가하고 있다. 또한 [포르투갈 2부 리그](https://ko.wikipedia.org/wiki/포르투갈_2부_리그 "wikilink") ([포르투갈 축구 리그 시스템](https://ko.wikipedia.org/wiki/포르투갈_축구_리그_시스템 "wikilink") 상에서의 3부리그)에서 7시즌을 보내었다.
 
@@ -49,7 +49,7 @@
 <td></td>
 <td><p>2회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><strong>0-1</strong>, 1-2</p></td>
 </tr>
 <tr class="even">

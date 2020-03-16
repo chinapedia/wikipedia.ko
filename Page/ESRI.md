@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ESRI](https://ko.wikipedia.org/wiki/ESRI).
 
 
-**ESRI**는 [지리정보시스템](https://ko.wikipedia.org/wiki/지리정보시스템 "wikilink") 소프트웨어를 제공하는 소프트웨어 개발사로서 본사는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아 "wikilink")주, [레드랜드](https://ko.wikipedia.org/wiki/레드랜드 "wikilink")에 위치하고 있다.
+**ESRI**는 [지리정보시스템](https://ko.wikipedia.org/wiki/지리정보시스템 "wikilink") 소프트웨어를 제공하는 소프트웨어 개발사로서 본사는 [미국](../Page/미국.md "wikilink") [캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아 "wikilink")주, [레드랜드](https://ko.wikipedia.org/wiki/레드랜드 "wikilink")에 위치하고 있다.
 
 ESRI는 1969년 **Environmental Systems Research Institute**라는 이름으로 만들어진 소프트웨어 컨설팅 회사로 [ArcGIS Desktop을](https://ko.wikipedia.org/wiki/ArcGIS_Desktop "wikilink") 비롯하여 다양한 제품을 전 세계 시장에 공급하고 있으며\[1\]\[2\] 전 세계 GIS 소프트웨어 사용자의 80%의 점유율을 보유하고 있다.\[3\]
 

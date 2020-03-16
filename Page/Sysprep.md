@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sysprep](https://ko.wikipedia.org/wiki/Sysprep).
 
 
-**Sysprep**(시스프랩, System Preparation의 준말)은 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 운영 체제를 배포하기 위한 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")사의 시스템 준비 유틸리티이다.
+**Sysprep**(시스프랩, System Preparation의 준말)은 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 운영 체제를 배포하기 위한 [마이크로소프트](../Page/마이크로소프트.md "wikilink")사의 시스템 준비 유틸리티이다.
 
 ## 역사
 

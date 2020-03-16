@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KISE ](https://ko.wikipedia.org/wiki/KISE_).
 
 
-**KISE 발달척도**는 [장 피아제의](../Page/장_피아제.md "wikilink") [인지발달이론](https://ko.wikipedia.org/wiki/인지발달이론 "wikilink")을 기초로 하여 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 실정에 맞게 [국립특수교육원](../Page/국립특수교육원.md "wikilink") 개발한 정서장애학생을 선별하는 척도이다.\[1\]
+**KISE 발달척도**는 [장 피아제의](../Page/장_피아제.md "wikilink") [인지발달이론](https://ko.wikipedia.org/wiki/인지발달이론 "wikilink")을 기초로 하여 [대한민국](../Page/대한민국.md "wikilink") 실정에 맞게 [국립특수교육원](../Page/국립특수교육원.md "wikilink") 개발한 정서장애학생을 선별하는 척도이다.\[1\]
 
 ## 특징
 
@@ -9,7 +9,7 @@
 
 ## 표준화 검사 과정
 
-[학습장애](https://ko.wikipedia.org/wiki/학습장애 "wikilink")와 중복될 수 있거나 [자폐성을](https://ko.wikipedia.org/wiki/자폐증 "wikilink") 의미하는 항목은 검사문항에서 제외하였다. 표준화 검사는 [초등학교](https://ko.wikipedia.org/wiki/초등학교 "wikilink") 2학년과 5학년 학생을 대상으로 하였다.
+[학습장애](https://ko.wikipedia.org/wiki/학습장애 "wikilink")와 중복될 수 있거나 [자폐성을](https://ko.wikipedia.org/wiki/자폐증 "wikilink") 의미하는 항목은 검사문항에서 제외하였다. 표준화 검사는 [초등학교](../Page/초등학교.md "wikilink") 2학년과 5학년 학생을 대상으로 하였다.
 
 ## 문항 내용
 

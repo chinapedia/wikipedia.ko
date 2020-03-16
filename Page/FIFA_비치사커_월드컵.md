@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
 
 
-**FIFA 비치사커 월드컵**(FIFA Beach Soccer World Cup)은 국제기구인 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가맹된 남자 [비치사커](https://ko.wikipedia.org/wiki/비치사커 "wikilink") 대표팀끼리 승부를 겨루는 국제 비치사커 대회이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")까지는 **세계 비치사커 선수권 대회**로 진행되어 오다 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")부터 현재의 명칭으로 변경되었다.
+**FIFA 비치사커 월드컵**(FIFA Beach Soccer World Cup)은 국제기구인 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가맹된 남자 [비치사커](https://ko.wikipedia.org/wiki/비치사커 "wikilink") 대표팀끼리 승부를 겨루는 국제 비치사커 대회이다. [2004년](../Page/2004년.md "wikilink")까지는 **세계 비치사커 선수권 대회**로 진행되어 오다 [2005년](../Page/2005년.md "wikilink")부터 현재의 명칭으로 변경되었다.
 
 ## 역대 대회
 
@@ -216,7 +216,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2008년_FIFA_비치사커_월드컵" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마르세유" title="wikilink">마르세유</a> <a href="https://ko.wikipedia.org/wiki/플라즈_뒤_프라도" title="wikilink">플라즈 뒤 프라도</a></p></td>
+<td><p><a href="../Page/마르세유.md" title="wikilink">마르세유</a> <a href="https://ko.wikipedia.org/wiki/플라즈_뒤_프라도" title="wikilink">플라즈 뒤 프라도</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/브라질_비치사커_국가대표팀" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>5–3</strong></p></td>
@@ -227,7 +227,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2009년_FIFA_비치사커_월드컵" title="wikilink">2009</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/두바이" title="wikilink">두바이</a> <a href="../Page/주메이라.md" title="wikilink">주메이라</a></p></td>
+<td><p><a href="../Page/두바이.md" title="wikilink">두바이</a> <a href="../Page/주메이라.md" title="wikilink">주메이라</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/브라질_비치사커_국가대표팀" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>10–5</strong></p></td>
@@ -249,7 +249,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2013년_FIFA_비치사커_월드컵.md" title="wikilink">2013</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프랑스령_폴리네시아" title="wikilink">프랑스령 폴리네시아</a> <a href="https://ko.wikipedia.org/wiki/타히티_섬" title="wikilink">타히티 섬</a> <a href="https://ko.wikipedia.org/wiki/파페에테" title="wikilink">파페에테</a></p></td>
+<td><p><a href="../Page/프랑스령_폴리네시아.md" title="wikilink">프랑스령 폴리네시아</a> <a href="https://ko.wikipedia.org/wiki/타히티_섬" title="wikilink">타히티 섬</a> <a href="../Page/파페에테.md" title="wikilink">파페에테</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Russia.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/러시아_비치사커_국가대표팀" title="wikilink">러시아</a></strong></p></td>
 <td><p><strong>5–1</strong></p></td>
@@ -271,7 +271,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017년_FIFA_비치사커_월드컵" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나소" title="wikilink">나소</a> 맬컴 파크</p></td>
+<td><p><a href="../Page/나소.md" title="wikilink">나소</a> 맬컴 파크</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/브라질_비치사커_국가대표팀" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>6–0</strong></p></td>
@@ -282,7 +282,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2019년_FIFA_비치사커_월드컵" title="wikilink">2019</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아순시온" title="wikilink">아순시온</a> 파라과이 올림픽 위원회 공원</p></td>
+<td><p><a href="../Page/아순시온.md" title="wikilink">아순시온</a> 파라과이 올림픽 위원회 공원</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Portugal.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/포르투갈_비치사커_국가대표팀" title="wikilink">포르투갈</a></strong></p></td>
 <td><p><strong>6–4</strong></p></td>
@@ -448,7 +448,7 @@
   - [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink")
   - [FIFA U-20 월드컵](../Page/FIFA_U-20_월드컵.md "wikilink")
   - [FIFA U-17 월드컵](../Page/FIFA_U-17_월드컵.md "wikilink")
-  - [FIFA 컨페더레이션스컵](https://ko.wikipedia.org/wiki/FIFA_컨페더레이션스컵 "wikilink")
+  - [FIFA 컨페더레이션스컵](../Page/FIFA_컨페더레이션스컵.md "wikilink")
   - [FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink")
   - [FIFA 풋살 월드컵](../Page/FIFA_풋살_월드컵.md "wikilink")
   - [남자 올림픽 축구](../Page/올림픽_축구.md "wikilink")
@@ -458,8 +458,8 @@
 **여자 대회**
 
   - [FIFA 여자 월드컵](../Page/FIFA_여자_월드컵.md "wikilink")
-  - [FIFA U-20 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-20_여자_월드컵 "wikilink")
-  - [FIFA U-17 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-17_여자_월드컵 "wikilink")
+  - [FIFA U-20 여자 월드컵](../Page/FIFA_U-20_여자_월드컵.md "wikilink")
+  - [FIFA U-17 여자 월드컵](../Page/FIFA_U-17_여자_월드컵.md "wikilink")
   - [여자 올림픽 축구](../Page/올림픽_축구.md "wikilink")
 
 ## 외부 링크

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [NSI ](https://ko.wikipedia.org/wiki/NSI_).
 
 
-**NSI 루나비크**는 [페로 제도의](https://ko.wikipedia.org/wiki/페로_제도 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [루나비크](https://ko.wikipedia.org/wiki/루나비크 "wikilink")를 연고로 [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") [3월 24일에](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") 창단되었다. 루나비크는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 처음으로 유럽 대회에 참가하였다.
+**NSI 루나비크**는 [페로 제도의](../Page/페로_제도.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로 [루나비크](https://ko.wikipedia.org/wiki/루나비크 "wikilink")를 연고로 [1957년](../Page/1957년.md "wikilink") [3월 24일에](../Page/3월_24일.md "wikilink") 창단되었다. 루나비크는 [2003년](../Page/2003년.md "wikilink")에 처음으로 유럽 대회에 참가하였다.
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")엔 처음으로 [페로 제도 프리미어리그](../Page/페로_제도_프리미어리그.md "wikilink") 우승을 차지하였다. 그리고 [페로 제도 컵을](https://ko.wikipedia.org/wiki/페로_제도_컵 "wikilink") [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink")과 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink"), 2회 우승하였다. 또한 1980년, 1985년, 1988년, 2004년에는 컵 대회 준우승을 하였다.
+[2007년](../Page/2007년.md "wikilink")엔 처음으로 [페로 제도 프리미어리그](../Page/페로_제도_프리미어리그.md "wikilink") 우승을 차지하였다. 그리고 [페로 제도 컵을](https://ko.wikipedia.org/wiki/페로_제도_컵 "wikilink") [1986년](../Page/1986년.md "wikilink")과 [2002년](../Page/2002년.md "wikilink"), 2회 우승하였다. 또한 1980년, 1985년, 1988년, 2004년에는 컵 대회 준우승을 하였다.
 
 ## 역대 성적
 
@@ -53,7 +53,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그_2009-10" title="wikilink">2009/10</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/UEFA_유로파리그" title="wikilink">유로파리그</a></p></td>
+<td><p><a href="../Page/UEFA_유로파리그.md" title="wikilink">유로파리그</a></p></td>
 <td><p>예선1회전</p></td>
 <td></td>
 <td></td>

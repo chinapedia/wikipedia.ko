@@ -5,7 +5,7 @@
 
 마더스는 보통 커버곡을 연주하던 밴드였으나 자파가 밴드에 합류하여 자작곡을 가지게 되었고 음악의 폭도 넓어졌다. 이 앨범에는 녹음 당시 유행하던 R\&B로부터 시작하여 두왑, 블루스록, 오케스트라 연주뿐 아니라 아방가르드한 사운드까지 혼란스럽게 놓여있다. 이후 자파가 연주할 스타일의 원형이 대부분 담겨있는 앨범이다.
 
-발매 당시에는 미국보다는 유럽에서 인기를 얻었고 그 인기는 다시 미국으로 이어지게 되었으나 그리 대단한 것은 아니었다. 이 앨범은 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 역사적인 앨범 [Sgt. Pepper's Lonely Hearts Club Band의](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink") 녹음에 자극을 주었다. 1999년에 그래미 명예의 전당에 올랐고 2003년에 롤링스톤지의 역사상 가장 위대한 앨범 500에 올랐다. 2004년에 발매된 Joe's Corsage에는 이 앨범 수록곡들의 초기 버전이 담겨있고, 2006년에 발매된 The MOFO Project/Object는 이 앨범 발매 40주년을 기념하여 남겨진 오디오 다큐멘터리이다.
+발매 당시에는 미국보다는 유럽에서 인기를 얻었고 그 인기는 다시 미국으로 이어지게 되었으나 그리 대단한 것은 아니었다. 이 앨범은 [비틀즈](../Page/비틀즈.md "wikilink")의 역사적인 앨범 [Sgt. Pepper's Lonely Hearts Club Band의](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink") 녹음에 자극을 주었다. 1999년에 그래미 명예의 전당에 올랐고 2003년에 롤링스톤지의 역사상 가장 위대한 앨범 500에 올랐다. 2004년에 발매된 Joe's Corsage에는 이 앨범 수록곡들의 초기 버전이 담겨있고, 2006년에 발매된 The MOFO Project/Object는 이 앨범 발매 40주년을 기념하여 남겨진 오디오 다큐멘터리이다.
 
 ## 곡 목록
 
@@ -115,10 +115,10 @@
 
 ### 앨범
 
-| Year | Chart                                                                  | Position |
-| ---- | ---------------------------------------------------------------------- | -------- |
-| 1967 | *[Billboard](https://ko.wikipedia.org/wiki/빌보드 "wikilink")* Pop Albums | 130      |
-|      |                                                                        |          |
+| Year | Chart                                               | Position |
+| ---- | --------------------------------------------------- | -------- |
+| 1967 | *[Billboard](../Page/빌보드.md "wikilink")* Pop Albums | 130      |
+|      |                                                     |          |
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Grep](https://ko.wikipedia.org/wiki/Grep).
 
 
-**grep**(그렙)은 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink")를 위해 만들어진 텍스트 검색 기능을 가진 명령어이다. 그 이름은 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") [ed의](https://ko.wikipedia.org/wiki/ed_\(문서_편집기\) "wikilink") 명령어로 비슷한 기능을 수행하는 *g/re/p*에서 유래되었다.\[1\]
+**grep**(그렙)은 [유닉스](../Page/유닉스.md "wikilink")를 위해 만들어진 텍스트 검색 기능을 가진 명령어이다. 그 이름은 [유닉스](../Page/유닉스.md "wikilink") [ed의](https://ko.wikipedia.org/wiki/ed_\(문서_편집기\) "wikilink") 명령어로 비슷한 기능을 수행하는 *g/re/p*에서 유래되었다.\[1\]
 
 *grep*은 엄밀히 말하면 두문자어(머리글자로 된 말)은 아니지만 *global* / *regular expression* / *print* 에서 각각의 머릿글자를 따 온 것이며 이것은 ed 텍스트 편집기에서 쓰이는 연속적인 지시어이다. *grep* 명령어는 파일이나 표준 입력을 검색하여 주어진 [정규 표현식과](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink") 맞는 줄을 찾아 프로그램의 표준 출력으로 출력한다.
 
@@ -41,17 +41,17 @@ Tcgrep은 grep의 보완된 형태로 Perl언어를 사용한다.
 
 'grep'이라는 단어를 포함하는 다른 명령들은 그들이 검색 기능을 갖는다는 의미를 내포하고 있다. 예를 들어 [pgrep](https://ko.wikipedia.org/wiki/pgrep "wikilink") 기능은 주어진 regular expression에 일치하는 이름을 가진 프로세스들의 목록을 보여 준다.
 
-[펄](https://ko.wikipedia.org/wiki/펄 "wikilink")에서 grep은 목록에 존재하는 요소를 검색하는 내장 기능의 이름이다.\[2\] 기술적 프로그래밍 언어에서 이와 같은 기능은 보통 'filter'라고 이름붙여져 있다.
+[펄](../Page/펄.md "wikilink")에서 grep은 목록에 존재하는 요소를 검색하는 내장 기능의 이름이다.\[2\] 기술적 프로그래밍 언어에서 이와 같은 기능은 보통 'filter'라고 이름붙여져 있다.
 
 **pcregrep** 명령은 [펄 정규 표현식](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink") 문법을 사용하는 grep의 구현체이다.\[3\] GNU 버전의 grep에서도 -P 플래그를 사용하여 비슷한 기능을 호출할 수 있다.\[4\]
 
-[도스](https://ko.wikipedia.org/wiki/도스 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), 그리고 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 기반의 시스템은 간단한 검색 기능을 가진 명령어를 제공한다. 윈도에는 "findstr"이라는 명령어가 있는데 이 명령어는 "grep"과 기능적 측면에서 매우 유사하며 혹은 윈도에서도 [시그윈](../Page/시그윈.md "wikilink")을 이용하여 grep의 변형된 버전을 이용할 수 있다.
+[도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), 그리고 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 기반의 시스템은 간단한 검색 기능을 가진 명령어를 제공한다. 윈도에는 "findstr"이라는 명령어가 있는데 이 명령어는 "grep"과 기능적 측면에서 매우 유사하며 혹은 윈도에서도 [시그윈](../Page/시그윈.md "wikilink")을 이용하여 grep의 변형된 버전을 이용할 수 있다.
 
 ## 일상 회화에서의 사용
 
-"grep"이라는 용어는 *찾다*라는 의미를 가진 동사로 활용될 수 있다; 일반적으로는 사람들이 grep 명령어가 수행하는 기능에서 떠올릴 수 있듯 주어진 파일들 내에서의 검색을 칭한다. 직접 목적어는 검색당하는 파일들이 된다: "[Kibo](https://ko.wikipedia.org/wiki/제임스_페리 "wikilink") grepped his [Usenet](https://ko.wikipedia.org/wiki/유즈넷 "wikilink") spool for his name." *[google](https://ko.wikipedia.org/wiki/:en:Google_\(verb\) "wikilink")*이라는 동사와 비교될 수 있다. 때때로 *visual grep* 이라는 구는 무언가를 찾기 위해 텍스트를 훑어본다는 의미로 사용된다.
+"grep"이라는 용어는 *찾다*라는 의미를 가진 동사로 활용될 수 있다; 일반적으로는 사람들이 grep 명령어가 수행하는 기능에서 떠올릴 수 있듯 주어진 파일들 내에서의 검색을 칭한다. 직접 목적어는 검색당하는 파일들이 된다: "[Kibo](https://ko.wikipedia.org/wiki/제임스_페리 "wikilink") grepped his [Usenet](../Page/유즈넷.md "wikilink") spool for his name." *[google](https://ko.wikipedia.org/wiki/:en:Google_\(verb\) "wikilink")*이라는 동사와 비교될 수 있다. 때때로 *visual grep* 이라는 구는 무언가를 찾기 위해 텍스트를 훑어본다는 의미로 사용된다.
 
-2003년 12월, [옥스포드 영어사전](https://ko.wikipedia.org/wiki/옥스포드_영어사전 "wikilink") 온라인 은 "grep"이라는 단어를 명사와 동사로써 추가했다.
+2003년 12월, [옥스포드 영어사전](../Page/옥스포드_영어사전.md "wikilink") 온라인 은 "grep"이라는 단어를 명사와 동사로써 추가했다.
 
 일반적으로는 "You can't grep dead trees"라는 표현이 사용되기도 하는데, 이것은 전산화된 문서가 종이로 출력된 문서(죽은 나무로 만들어진 종이)보다 더욱 편리하다는 뜻이며, 이는 컴퓨터로는 grep과 같은 명령어를 사용하여 검색을 할 수 있기 때문이다.
 

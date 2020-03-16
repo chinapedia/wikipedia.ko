@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OB ](https://ko.wikipedia.org/wiki/OB_).
 
 
-**오비맥주주식회사**(Oriental Brewery Co.,Ltd.)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink")에 본사를 둔 기업이다. 과거 동양맥주주식회사로 [두산](https://ko.wikipedia.org/wiki/두산 "wikilink")의 계열사였으나 현재는 세계 최대 맥주회사 [AB인베브의](../Page/앤하이저부시_인베브.md "wikilink") 자회사이다. 프리미엄OB, 카스, 카스라이트, 카프리 등의 [맥주](https://ko.wikipedia.org/wiki/맥주 "wikilink")를 생산하고 있다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](https://ko.wikipedia.org/wiki/이천시 "wikilink"), [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](https://ko.wikipedia.org/wiki/청주시 "wikilink") 등 총 3개 생산공장이 있는데 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 전국체전 야구경기\[1\]와 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 전국체전 고등부 야구경기\[2\]를 광주공장 야구장에서 개최한 바 있었다.
+**오비맥주주식회사**(Oriental Brewery Co.,Ltd.)는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink")에 본사를 둔 기업이다. 과거 동양맥주주식회사로 [두산](../Page/두산.md "wikilink")의 계열사였으나 현재는 세계 최대 맥주회사 [AB인베브의](../Page/앤하이저부시_인베브.md "wikilink") 자회사이다. 프리미엄OB, 카스, 카스라이트, 카프리 등의 [맥주](../Page/맥주.md "wikilink")를 생산하고 있다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink"), [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink") 등 총 3개 생산공장이 있는데 [1993년](../Page/1993년.md "wikilink") 전국체전 야구경기\[1\]와 [2007년](../Page/2007년.md "wikilink") 전국체전 고등부 야구경기\[2\]를 광주공장 야구장에서 개최한 바 있었다.
 
 ## 연혁
 
@@ -38,7 +38,7 @@
   - 1997년 3월 OB맥주 인터넷 홈페이지 개설
   - 1997년 5월 OB맥주 두산음료 합병
   - 1997년 5월 회오리공법으로 맥주 뉴OB라거 출시
-  - 1998년 9월 → 2001년 두산그룹에서 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink") 인터브루로 매각
+  - 1998년 9월 → 2001년 두산그룹에서 [벨기에](../Page/벨기에.md "wikilink") 인터브루로 매각
   - 1999년 12월 법정관리 중이던 진로쿠어스맥주에 대한 매각입찰에 4,800억원에 응찰하여 낙찰받았으며\[3\] 기존 상호를 진로쿠어스맥주에서 카스맥주로 상호변경\[4\]
   - 2001년 3월 카스맥주주식회사를 흡수합병\[5\] 및 카스 재출시
   - 2006년 6월 OB라거 리뉴얼 제품 OB블루 출시
@@ -173,7 +173,7 @@
 
 ## 같이 보기
 
-  - [맥주](https://ko.wikipedia.org/wiki/맥주 "wikilink")
+  - [맥주](../Page/맥주.md "wikilink")
   - [앤하이저부시 인베브](../Page/앤하이저부시_인베브.md "wikilink")
   - [하이트맥주](https://ko.wikipedia.org/wiki/하이트_\(맥주\) "wikilink")
   - [OB 베어스](https://ko.wikipedia.org/wiki/OB_베어스 "wikilink")

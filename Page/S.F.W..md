@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.F.W.](https://ko.wikipedia.org/wiki/S.F.W.).
 
 
-**S.F.W.**(또는 ***So Fucking What***)는 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")작 영화로 제프리 레비가 감독했다. 앤드루 웰맨의 소설에 기초해 각색한 이 영화는 스티븐 도프, 제크 부시, [리즈 위더스푼이](../Page/리즈_위더스푼.md "wikilink") 출연했으며 이 영화로 리즈는 첫 주연급 진출을 이루게 된다.
+**S.F.W.**(또는 ***So Fucking What***)는 [1994년](../Page/1994년.md "wikilink")작 영화로 제프리 레비가 감독했다. 앤드루 웰맨의 소설에 기초해 각색한 이 영화는 스티븐 도프, 제크 부시, [리즈 위더스푼이](../Page/리즈_위더스푼.md "wikilink") 출연했으며 이 영화로 리즈는 첫 주연급 진출을 이루게 된다.
 
 ## 줄거리
 

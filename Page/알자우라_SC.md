@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
 
 
-**알자우라 SC**(, )는 [이라크](https://ko.wikipedia.org/wiki/이라크 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [수도](https://ko.wikipedia.org/wiki/수도 "wikilink") [바그다드](https://ko.wikipedia.org/wiki/바그다드 "wikilink")에 연고를 두고 있다. 알자우라는 [이라크 프리미어리그에서](../Page/이라크_프리미어리그.md "wikilink") 11번 우승을 차지했으며 이는 이라크의 축구 클럽 가운데 가장 많은 리그 우승 기록이다.
+**알자우라 SC**(, )는 [이라크](../Page/이라크.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [수도](../Page/수도.md "wikilink") [바그다드](../Page/바그다드.md "wikilink")에 연고를 두고 있다. 알자우라는 [이라크 프리미어리그에서](../Page/이라크_프리미어리그.md "wikilink") 11번 우승을 차지했으며 이는 이라크의 축구 클럽 가운데 가장 많은 리그 우승 기록이다.
 
 ## 역대 우승 기록
 

@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 악퇴베** () 는 [카자흐스탄](https://ko.wikipedia.org/wiki/카자흐스탄 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [악퇴베](https://ko.wikipedia.org/wiki/악퇴베 "wikilink")의 [악퇴베 센트럴 경기장을](https://ko.wikipedia.org/wiki/악퇴베_센트럴_경기장 "wikilink") 홈구장으로 사용하고 있다.
+**FC 악퇴베** () 는 [카자흐스탄](../Page/카자흐스탄.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [악퇴베](https://ko.wikipedia.org/wiki/악퇴베 "wikilink")의 [악퇴베 센트럴 경기장을](https://ko.wikipedia.org/wiki/악퇴베_센트럴_경기장 "wikilink") 홈구장으로 사용하고 있다.
 
-악퇴베는 현재 [카자흐스탄 프리미어리그](../Page/카자흐스탄_프리미어리그.md "wikilink") 챔피언으로 통산 두 번째 우승을 기록하고 있다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에는 [카자흐스탄 1부 리그](https://ko.wikipedia.org/wiki/카자흐스탄_1부_리그 "wikilink") 우승을 하기도 하였다.
+악퇴베는 현재 [카자흐스탄 프리미어리그](../Page/카자흐스탄_프리미어리그.md "wikilink") 챔피언으로 통산 두 번째 우승을 기록하고 있다. [2000년](../Page/2000년.md "wikilink")에는 [카자흐스탄 1부 리그](https://ko.wikipedia.org/wiki/카자흐스탄_1부_리그 "wikilink") 우승을 하기도 하였다.
 
 ## 클럽 명의 변화
 
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") : 악튜비네츠 (*Aktyubinets*)로 창단
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") : 악퇴베무네이 (*Aktobemunai*)로 변경
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") : 악퇴베 (*Aktobe*)로 변경
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") : 악퇴베-렌토 (*Aktobe-Lento*)로 변경
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") : 악퇴베로 재변경
+  - [1967년](../Page/1967년.md "wikilink") : 악튜비네츠 (*Aktyubinets*)로 창단
+  - [1996년](../Page/1996년.md "wikilink") : 악퇴베무네이 (*Aktobemunai*)로 변경
+  - [1997년](../Page/1997년.md "wikilink") : 악퇴베 (*Aktobe*)로 변경
+  - [2000년](../Page/2000년.md "wikilink") : 악퇴베-렌토 (*Aktobe-Lento*)로 변경
+  - [2005년](../Page/2005년.md "wikilink") : 악퇴베로 재변경
 
 ## 역대 우승기록
 

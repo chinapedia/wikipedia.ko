@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [DJMAX Portable CLAZZIQUAI EDITION](https://ko.wikipedia.org/wiki/DJMAX_Portable_CLAZZIQUAI_EDITION).
 
 
-**디제이맥스 포터블 클래지콰이 에디션**(DJMAX Portable CLAZZIQUAI EDITION, DMP CE)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 메트로 프로젝트의 두 번째 작품 중 두 번째 플랫폼으로 [온라인 게임으로](https://ko.wikipedia.org/wiki/온라인_게임 "wikilink") 만들어진 [디제이맥스](https://ko.wikipedia.org/wiki/디제이맥스 "wikilink")를 [플레이스테이션 포터블용으로](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 이식한 [디제이맥스 포터블 2의](https://ko.wikipedia.org/wiki/디제이맥스_포터블_2 "wikilink") 후속작이며, 대한민국의 대중음악 그룹 [클래지콰이](https://ko.wikipedia.org/wiki/클래지콰이 "wikilink")의 곡이 대거 수록되는 라이트 유저를 위한 별도의 디제이맥스 포터블 타이틀이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 현재 신형 PSP와 함께 수록된 합본팩의 예약판매가 [10월 16일부터](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") 예정되어 있으며, [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") 초회판 예약 판매와 함께 대한민국에 [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") 발매되었다.
+**디제이맥스 포터블 클래지콰이 에디션**(DJMAX Portable CLAZZIQUAI EDITION, DMP CE)은 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 메트로 프로젝트의 두 번째 작품 중 두 번째 플랫폼으로 [온라인 게임으로](../Page/온라인_게임.md "wikilink") 만들어진 [디제이맥스](../Page/디제이맥스.md "wikilink")를 [플레이스테이션 포터블용으로](../Page/플레이스테이션_포터블.md "wikilink") 이식한 [디제이맥스 포터블 2의](https://ko.wikipedia.org/wiki/디제이맥스_포터블_2 "wikilink") 후속작이며, 대한민국의 대중음악 그룹 [클래지콰이](https://ko.wikipedia.org/wiki/클래지콰이 "wikilink")의 곡이 대거 수록되는 라이트 유저를 위한 별도의 디제이맥스 포터블 타이틀이다. [2008년](../Page/2008년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 현재 신형 PSP와 함께 수록된 합본팩의 예약판매가 [10월 16일부터](../Page/10월_16일.md "wikilink") 예정되어 있으며, [10월 14일](../Page/10월_14일.md "wikilink") 초회판 예약 판매와 함께 대한민국에 [10월 24일](../Page/10월_24일.md "wikilink") 발매되었다.
 
-게임 플레이 도중 일시 정지를 하였다가 재개할 경우 배경음악의 싱크가 밀리거나, [PSP의](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 메인 화면인 XMB로 돌아갈 때 화면이 정지된 채 PSP가 동작하지 않는 등 적지 않은 버그가 알려졌으며[1](http://ruliweb.nate.com/ruliboard/read.htm?main=online&table=online_djmax&db=2&num=46169), 이를 수정하고 세세한 부분을 수정한 확장팩이 플래티넘 크루 홈페이지에서 제품 등록자들을 대상으로 다운로드 형식으로 제공되고 있다.
+게임 플레이 도중 일시 정지를 하였다가 재개할 경우 배경음악의 싱크가 밀리거나, [PSP의](../Page/플레이스테이션_포터블.md "wikilink") 메인 화면인 XMB로 돌아갈 때 화면이 정지된 채 PSP가 동작하지 않는 등 적지 않은 버그가 알려졌으며[1](http://ruliweb.nate.com/ruliboard/read.htm?main=online&table=online_djmax&db=2&num=46169), 이를 수정하고 세세한 부분을 수정한 확장팩이 플래티넘 크루 홈페이지에서 제품 등록자들을 대상으로 다운로드 형식으로 제공되고 있다.
 
 ## 디제이맥스 포터블2와의 차이점
 
@@ -44,17 +44,17 @@
 
 ## 역사
 
-  - 2008년 [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") - 보도자료를 통해 신작 메트로 프로젝트 디제이맥스 포터블 클래지콰이 에디션, [디제이맥스 포터블 블랙 스퀘어](https://ko.wikipedia.org/wiki/디제이맥스_포터블_블랙_스퀘어 "wikilink") PV 영상이 공개되었다.[2](http://www.gameshot.net/common/con_view.php?code=GA48bd64f3d8c6f)
-  - 2008년 [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") - 유튜브(youtube)를 통해 클래지콰이 에디션에 추가될 신곡인 Electronics가 업로드 되었다.[3](https://www.youtube.com/watch?v=7oUFf4p_jn4)
-  - 2008년 [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink") - 디제이맥스 포터블 클래지콰이 에디션의 정식 정보가 공개되었다.[4](http://ruliweb.empas.com/data/rulinews/read.htm?page=1&num=16391&find=g_machine&ftext=PSP&main=)
-  - 2008년 [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") - 보도자료를 통해 10월 24일 발매를 발표했다. [5](http://www.gameshot.net/common/con_view.php?code=GA48ec4af5c81e0)
-  - 2008년 [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") - 디제이맥스 포터블 클래지콰이 에디션의 예약판매 개시일. 보도자료를 통해 예약판 특전에 대한 정보와 수록곡에 대한 정보, PV영상이 공개 되었다.\[1\]\[2\]
-  - 2008년 [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") - 디제이맥스 포터블 클래지콰이 에디션이 PSP-3005(신형 PSP)와 함께 예약판매를 시작한다.[6](https://web.archive.org/web/20120825013728/http://www.playstation.co.kr/ps_community/com_news_view.sce?sid=12980)
-  - 2008년 [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") - 디제이맥스 포터블 클래지콰이 에디션의 정식발매일로 확정되었다.
-  - 2008년 [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") - 디제이맥스 포터블 클래지콰이 에디션의 확장팩의 내용이 공개되었다.[7](https://web.archive.org/web/20081228020758/http://ruliweb.empas.com/data/rulinews/read.htm?num=16600)
-  - 2008년 [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") - 디제이맥스 포터블 클래지콰이 에디션의 확장팩이 공개되었다.
-  - 2010년 [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") - 디제이맥스 테크니카1의 플래티넘 크루 서비스가 종료되면서, 랭킹 서비스와 확장팩의 다운로드 서비스가 중단되었다.
-  - 2010년 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") - 디제이맥스 포터블 클래지콰이 에디션과 디제이맥스 포터블 블랙스퀘어를 위한 플래티넘 크루 서비스가 재개되었다. [8](https://web.archive.org/web/20131213195642/http://djmax.platinumcrew.co.kr/)
+  - 2008년 [9월 2일](../Page/9월_2일.md "wikilink") - 보도자료를 통해 신작 메트로 프로젝트 디제이맥스 포터블 클래지콰이 에디션, [디제이맥스 포터블 블랙 스퀘어](https://ko.wikipedia.org/wiki/디제이맥스_포터블_블랙_스퀘어 "wikilink") PV 영상이 공개되었다.[2](http://www.gameshot.net/common/con_view.php?code=GA48bd64f3d8c6f)
+  - 2008년 [9월 6일](../Page/9월_6일.md "wikilink") - 유튜브(youtube)를 통해 클래지콰이 에디션에 추가될 신곡인 Electronics가 업로드 되었다.[3](https://www.youtube.com/watch?v=7oUFf4p_jn4)
+  - 2008년 [10월 2일](../Page/10월_2일.md "wikilink") - 디제이맥스 포터블 클래지콰이 에디션의 정식 정보가 공개되었다.[4](http://ruliweb.empas.com/data/rulinews/read.htm?page=1&num=16391&find=g_machine&ftext=PSP&main=)
+  - 2008년 [10월 8일](../Page/10월_8일.md "wikilink") - 보도자료를 통해 10월 24일 발매를 발표했다. [5](http://www.gameshot.net/common/con_view.php?code=GA48ec4af5c81e0)
+  - 2008년 [10월 14일](../Page/10월_14일.md "wikilink") - 디제이맥스 포터블 클래지콰이 에디션의 예약판매 개시일. 보도자료를 통해 예약판 특전에 대한 정보와 수록곡에 대한 정보, PV영상이 공개 되었다.\[1\]\[2\]
+  - 2008년 [10월 16일](../Page/10월_16일.md "wikilink") - 디제이맥스 포터블 클래지콰이 에디션이 PSP-3005(신형 PSP)와 함께 예약판매를 시작한다.[6](https://web.archive.org/web/20120825013728/http://www.playstation.co.kr/ps_community/com_news_view.sce?sid=12980)
+  - 2008년 [10월 24일](../Page/10월_24일.md "wikilink") - 디제이맥스 포터블 클래지콰이 에디션의 정식발매일로 확정되었다.
+  - 2008년 [11월 19일](../Page/11월_19일.md "wikilink") - 디제이맥스 포터블 클래지콰이 에디션의 확장팩의 내용이 공개되었다.[7](https://web.archive.org/web/20081228020758/http://ruliweb.empas.com/data/rulinews/read.htm?num=16600)
+  - 2008년 [12월 26일](../Page/12월_26일.md "wikilink") - 디제이맥스 포터블 클래지콰이 에디션의 확장팩이 공개되었다.
+  - 2010년 [7월 16일](../Page/7월_16일.md "wikilink") - 디제이맥스 테크니카1의 플래티넘 크루 서비스가 종료되면서, 랭킹 서비스와 확장팩의 다운로드 서비스가 중단되었다.
+  - 2010년 [9월](../Page/9월.md "wikilink") - 디제이맥스 포터블 클래지콰이 에디션과 디제이맥스 포터블 블랙스퀘어를 위한 플래티넘 크루 서비스가 재개되었다. [8](https://web.archive.org/web/20131213195642/http://djmax.platinumcrew.co.kr/)
 
 ## 버그
 
@@ -71,7 +71,7 @@
 
 ## 확장팩
 
-디제이맥스 포터블 클래지콰이 에디션의 버그가 나온 이후, 펜타비전측에서는 수정방안을 내놓게 되고, [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") 확장팩에 대한 내용을 발표하였다. 확장팩은 [플래티넘 크루에서](https://ko.wikipedia.org/wiki/플래티넘_크루 "wikilink") 정품등록을 마친 사용자를 대상으로 확장팩을 다운로드하여 설치할 수 있다.
+디제이맥스 포터블 클래지콰이 에디션의 버그가 나온 이후, 펜타비전측에서는 수정방안을 내놓게 되고, [11월 19일](../Page/11월_19일.md "wikilink") 확장팩에 대한 내용을 발표하였다. 확장팩은 [플래티넘 크루에서](https://ko.wikipedia.org/wiki/플래티넘_크루 "wikilink") 정품등록을 마친 사용자를 대상으로 확장팩을 다운로드하여 설치할 수 있다.
 
 확장팩에서 수정된 부분은 다음과 같다.
 

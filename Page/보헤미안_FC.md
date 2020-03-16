@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**보헤미안 FC**는 [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, [1890년](https://ko.wikipedia.org/wiki/1890년 "wikilink") [9월 6일에](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") 아일랜드의 [더블린](https://ko.wikipedia.org/wiki/더블린 "wikilink")을 연고로 하여 창단되었다.
+**보헤미안 FC**는 [아일랜드](../Page/아일랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [1890년](../Page/1890년.md "wikilink") [9월 6일에](../Page/9월_6일.md "wikilink") 아일랜드의 [더블린](../Page/더블린.md "wikilink")을 연고로 하여 창단되었다.
 
 ## 역사
 
-보헤미안 FC는 [1890년](https://ko.wikipedia.org/wiki/1890년 "wikilink") [9월 6일에](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") 창단되었다. 보헤미안은 1902년부터 1911년, 1912년부터 1920년까지 [아일랜드 풋볼 리그의](https://ko.wikipedia.org/wiki/아일랜드_풋볼_리그 "wikilink") 일원이었다. 이 기간인 1908년에 [아일랜드 컵](https://ko.wikipedia.org/wiki/아일랜드_컵 "wikilink")(현재 북아일랜드의 컵 대회) 우승을 하였다.
+보헤미안 FC는 [1890년](../Page/1890년.md "wikilink") [9월 6일에](../Page/9월_6일.md "wikilink") 창단되었다. 보헤미안은 1902년부터 1911년, 1912년부터 1920년까지 [아일랜드 풋볼 리그의](https://ko.wikipedia.org/wiki/아일랜드_풋볼_리그 "wikilink") 일원이었다. 이 기간인 1908년에 [아일랜드 컵](https://ko.wikipedia.org/wiki/아일랜드_컵 "wikilink")(현재 북아일랜드의 컵 대회) 우승을 하였다.
 
 보헤미안 FC는 1921년에 만들어진 [리그 오브 아일랜드의](https://ko.wikipedia.org/wiki/리그_오브_아일랜드 "wikilink") 창단 멤버이다. 보헤미안은 리그 오브 아일랜드가 창단한 뒤로 현재까지 남아있는 두 팀 가운데 하나이며, 현재 1부 리그에서 활동하고 있는 유일한 팀이다. 1921년의 첫 시즌에는 준우승을 차지하였고, 1924년에는 리그 우승을 차지하였다. 1928년에는 두 번째 리그 우승을 하였고, 동시에 컵 대회까지 우승하는 더불을 달성하였다. 보헤미안은 1930년대까지 세 번의 리그 우승과 한 번의 컵 대회 우승을 하며, 리그 초창기의 강력한 팀 가운데 하나였다.
 
-초창기의 성공 이후에 보헤미안은 아마추어 클럽이라는 한계 때문에 수준 높은 선수들을 보유하기 어려웠기 때문에, 대부분 하위권에서 머물렀다. 이렇게 34시즌 동안 아무런 우승컵 없이 보내다 [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink")에 프로 구단으로 전환하였다.
+초창기의 성공 이후에 보헤미안은 아마추어 클럽이라는 한계 때문에 수준 높은 선수들을 보유하기 어려웠기 때문에, 대부분 하위권에서 머물렀다. 이렇게 34시즌 동안 아무런 우승컵 없이 보내다 [1969년](../Page/1969년.md "wikilink")에 프로 구단으로 전환하였다.
 
-1970년대에 보헤미안은 2번의 리그 우승, 2번의 컵 대회 우승, 2번의 리그컵 우승을 하며 이 기간 동안 다른 클럽보다 더 많은 우승컵을 들어올렸다. [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink")에 최초로 유럽 대회에 진출했는데, 그 대회는 [UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink") 예선 1회전이었다. [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")의 리그컵 우승 이후로 우승기록이 없다가 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")에 [FAI 컵](https://ko.wikipedia.org/wiki/FAI_컵 "wikilink") 우승, [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 리그와 컵 대회 우승, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 리그 우승, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 리그 우승을 차지하면서 총 10회의 리그 우승을 하였다.
+1970년대에 보헤미안은 2번의 리그 우승, 2번의 컵 대회 우승, 2번의 리그컵 우승을 하며 이 기간 동안 다른 클럽보다 더 많은 우승컵을 들어올렸다. [1970년](../Page/1970년.md "wikilink")에 최초로 유럽 대회에 진출했는데, 그 대회는 [UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink") 예선 1회전이었다. [1979년](../Page/1979년.md "wikilink")의 리그컵 우승 이후로 우승기록이 없다가 [1992년](../Page/1992년.md "wikilink")에 [FAI 컵](https://ko.wikipedia.org/wiki/FAI_컵 "wikilink") 우승, [2001년](../Page/2001년.md "wikilink")에 리그와 컵 대회 우승, [2003년](../Page/2003년.md "wikilink")에 리그 우승, [2008년](../Page/2008년.md "wikilink")에 리그 우승을 차지하면서 총 10회의 리그 우승을 하였다.
 
 ## 역대 우승기록
 
@@ -190,7 +190,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA컵" title="wikilink">UEFA컵</a></p></td>
 <td><p>예선1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_디나모_민스크" title="wikilink">FC 디나모 민스크</a></p></td>
+<td><p><a href="../Page/FC_디나모_민스크.md" title="wikilink">FC 디나모 민스크</a></p></td>
 <td><p><strong>1-1</strong>, 0-0</p></td>
 </tr>
 <tr class="odd">
@@ -214,7 +214,7 @@
 <td></td>
 <td><p>1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1._FC_카이저슬라우테른" title="wikilink">1. FC 카이저슬라우테른</a></p></td>
+<td><p><a href="../Page/1._FC_카이저슬라우테른.md" title="wikilink">1. FC 카이저슬라우테른</a></p></td>
 <td><p><strong>1-3</strong>, 1-0</p></td>
 </tr>
 <tr class="even">

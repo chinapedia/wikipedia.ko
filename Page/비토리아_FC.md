@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**비토리아 FC** (Vitória Futebol Clube)는 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [세투발](https://ko.wikipedia.org/wiki/세투발 "wikilink")에 연고를 두고 있다. 비토리아 FC는 **비토리아 드 세투발** (Vitória de Setúbal) 또는 간단히 **비토리아 세투발**로 더 잘 알려져 있다. 이는 [기마랑이스](../Page/기마랑이스.md "wikilink")를 연고로 삼고 있는 [비토리아 SC와의](../Page/비토리아_SC.md "wikilink") 혼동을 피하기 위함인데 비토리아 SC는 비토리아 드 기마랑이스로 불린다.
+**비토리아 FC** (Vitória Futebol Clube)는 [포르투갈](../Page/포르투갈.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [세투발](https://ko.wikipedia.org/wiki/세투발 "wikilink")에 연고를 두고 있다. 비토리아 FC는 **비토리아 드 세투발** (Vitória de Setúbal) 또는 간단히 **비토리아 세투발**로 더 잘 알려져 있다. 이는 [기마랑이스](../Page/기마랑이스.md "wikilink")를 연고로 삼고 있는 [비토리아 SC와의](../Page/비토리아_SC.md "wikilink") 혼동을 피하기 위함인데 비토리아 SC는 비토리아 드 기마랑이스로 불린다.
 
-비토리아 세투발은 2007-08시즌을 포함하여 [포르투갈 리가에서](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 60시즌을 보냈다. 또한 [리가 드 온하에서는](https://ko.wikipedia.org/wiki/리가_드_온하 "wikilink") 5시즌을 보냈고, [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에 리가 드 온하가 생기기 전에 2부 리그였던 현재의 3부 리그인 [포르투갈 2부 리그에서](https://ko.wikipedia.org/wiki/포르투갈_2부_리그 "wikilink") 9시즌을 보냈다.
+비토리아 세투발은 2007-08시즌을 포함하여 [포르투갈 리가에서](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 60시즌을 보냈다. 또한 [리가 드 온하에서는](https://ko.wikipedia.org/wiki/리가_드_온하 "wikilink") 5시즌을 보냈고, [1990년](../Page/1990년.md "wikilink")에 리가 드 온하가 생기기 전에 2부 리그였던 현재의 3부 리그인 [포르투갈 2부 리그에서](https://ko.wikipedia.org/wiki/포르투갈_2부_리그 "wikilink") 9시즌을 보냈다.
 
 ## 선수 명단
 
@@ -36,7 +36,7 @@
 <td><p><a href="../Page/UEFA_컵위너스컵.md" title="wikilink">UEFA 컵위너스컵</a></p></td>
 <td><p>32강전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프레드릭스타드_FK" title="wikilink">프레드릭스타드</a></p></td>
+<td><p><a href="../Page/프레드릭스타드_FK.md" title="wikilink">프레드릭스타드</a></p></td>
 <td><p>5-1, <strong>1-2</strong></p></td>
 </tr>
 <tr class="even">
@@ -92,7 +92,7 @@
 <td></td>
 <td><p>2회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리버풀_FC" title="wikilink">리버풀</a></p></td>
+<td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><strong>1-0</strong>, 2-3</p></td>
 </tr>
 <tr class="odd">

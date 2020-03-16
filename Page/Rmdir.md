@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rmdir](https://ko.wikipedia.org/wiki/Rmdir).
 
 
-**`rmdir`**(혹은 **`rd`**)는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink"), [도스](https://ko.wikipedia.org/wiki/도스 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink")나 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink")\[1\] 등의 운영 체제에서 빈 디렉터리를 제거하는 명령어이다. [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink")에서는 대문자로 쓸 수 없지만 DOS와 OS/2 운영 체제에서는 이러한 제한 조건이 적용되지 않는다.
+**`rmdir`**(혹은 **`rd`**)는 [유닉스](../Page/유닉스.md "wikilink"), [도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink")나 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink")\[1\] 등의 운영 체제에서 빈 디렉터리를 제거하는 명령어이다. [유닉스](../Page/유닉스.md "wikilink")에서는 대문자로 쓸 수 없지만 DOS와 OS/2 운영 체제에서는 이러한 제한 조건이 적용되지 않는다.
 
 ## 사용법
 

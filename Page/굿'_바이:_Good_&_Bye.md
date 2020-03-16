@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [\' : Good \& Bye](https://ko.wikipedia.org/wiki/\'_:_Good_\&_Bye).
 
 
-《**굿' 바이: Good & Bye**》(원제: , )는 [일본](../Page/일본.md "wikilink")의 [타키타 요지로](https://ko.wikipedia.org/wiki/타키타_요지로 "wikilink") 감독이 제작한 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다. 전직 [첼리스트의](https://ko.wikipedia.org/wiki/첼로 "wikilink") 이야기를 다루고 있다.
+《**굿' 바이: Good & Bye**》(원제: , )는 [일본](../Page/일본.md "wikilink")의 [타키타 요지로](https://ko.wikipedia.org/wiki/타키타_요지로 "wikilink") 감독이 제작한 [2008년](../Page/2008년.md "wikilink") [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다. 전직 [첼리스트의](../Page/첼로.md "wikilink") 이야기를 다루고 있다.
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 제81회 [미국 아카데미상](https://ko.wikipedia.org/wiki/미국_아카데미상 "wikilink") 최우수 외국어 영화상 수상과 함께, 제32회 [일본 아카데미상](https://ko.wikipedia.org/wiki/일본_아카데미상 "wikilink") 최우수 작품상 수상작이다.\[1\]
+[2009년](../Page/2009년.md "wikilink") 제81회 [미국 아카데미상](https://ko.wikipedia.org/wiki/미국_아카데미상 "wikilink") 최우수 외국어 영화상 수상과 함께, 제32회 [일본 아카데미상](../Page/일본_아카데미상.md "wikilink") 최우수 작품상 수상작이다.\[1\]
 
 ## 줄거리
 
@@ -13,7 +13,7 @@
 ## 출연진
 
   - **코바야시 다이고** ([모토키 마사히로](../Page/모토키_마사히로.md "wikilink"))
-  - **코바야시 미카** ([히로스에 료코](https://ko.wikipedia.org/wiki/히로스에_료코 "wikilink"))
+  - **코바야시 미카** ([히로스에 료코](../Page/히로스에_료코.md "wikilink"))
   - **야마시타 쓰야코** ([요시유키 가즈코](https://ko.wikipedia.org/wiki/요시유키_가즈코 "wikilink"))
   - **사사키 쇼에이** ([야마자키 쓰토무](https://ko.wikipedia.org/wiki/야마자키_쓰토무 "wikilink"))
   - **우에무라 유리코** (요 키미코)
@@ -33,7 +33,7 @@
 
   - 감독 : [타키타 요지로](https://ko.wikipedia.org/wiki/타키타_요지로 "wikilink")
   - 각본 : 고야마 군도
-  - 음악 : [히사이시 조](https://ko.wikipedia.org/wiki/히사이시_조 "wikilink")
+  - 음악 : [히사이시 조](../Page/히사이시_조.md "wikilink")
   - 촬영 : 하마다 다케시
   - 조명 : 다카야 히토시
   - 녹음 : 오자키 사토시
@@ -47,7 +47,7 @@
 ## KBS 성우진
 
   - [박영재](../Page/박영재.md "wikilink") - 다이고([모토키 마사히로](../Page/모토키_마사히로.md "wikilink"))
-  - [이채정](../Page/이채정.md "wikilink") - 미카([히로스에 료코](https://ko.wikipedia.org/wiki/히로스에_료코 "wikilink"))
+  - [이채정](../Page/이채정.md "wikilink") - 미카([히로스에 료코](../Page/히로스에_료코.md "wikilink"))
   - [장광](../Page/장광.md "wikilink") - 사사키([야마자키 쓰토무](https://ko.wikipedia.org/wiki/야마자키_쓰토무 "wikilink"))
   - [민지](../Page/민지_\(성우\).md "wikilink") - 우에무라([요 기미코](https://ko.wikipedia.org/wiki/요_기미코 "wikilink"))
   - [김창주](../Page/김창주.md "wikilink") - 히라타([사사노 다카시](https://ko.wikipedia.org/wiki/사사노_다카시 "wikilink"))
@@ -57,8 +57,8 @@
   - [김익태](../Page/김익태.md "wikilink")
   - [김혜미](../Page/김혜미.md "wikilink")
   - [권연희](../Page/권연희.md "wikilink")
-  - [서지연](https://ko.wikipedia.org/wiki/서지연 "wikilink")
-  - [윤승희](https://ko.wikipedia.org/wiki/윤승희 "wikilink")
+  - [서지연](../Page/서지연.md "wikilink")
+  - [윤승희](../Page/윤승희.md "wikilink")
   - [김목용](../Page/김목용.md "wikilink")
 
 ## 수상 정보
@@ -75,7 +75,7 @@
 
 <!-- end list -->
 
-  - 제32회 [일본 아카데미상](https://ko.wikipedia.org/wiki/일본_아카데미상 "wikilink")
+  - 제32회 [일본 아카데미상](../Page/일본_아카데미상.md "wikilink")
       - 우수 미술상 (오가와 후미오)
       - 우수 여우주연상 (히로스에 료코)
       - 우수 음악상 (히사이시 조)

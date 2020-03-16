@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJMAX Portable BLACK SQUARE](https://ko.wikipedia.org/wiki/DJMAX_Portable_BLACK_SQUARE).
 
 
-**디제이맥스 포터블 블랙 스퀘어**(DJMAX Portable BLACK SQUARE, DMP BS)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 메트로 프로젝트의 두 번째 작품중 두 번째 플랫폼으로 [온라인 게임으로](https://ko.wikipedia.org/wiki/온라인_게임 "wikilink") 만들어진 [디제이맥스](https://ko.wikipedia.org/wiki/디제이맥스 "wikilink")를 [플레이스테이션 포터블용으로](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 이식한 [디제이맥스 포터블 2의](https://ko.wikipedia.org/wiki/디제이맥스_포터블_2 "wikilink") 후속작이다. 전작인 DMP2의 특징을 강화시킨 것을 내세우는 실질적인 DMP3라고 할 수 있는 후속작. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") PV영상과 정보가 공개되었다. 대한민국에서 11월중 발매를 목표로 하였으나 [디제이맥스 포터블 클래지콰이 에디션에서](https://ko.wikipedia.org/wiki/디제이맥스_포터블_클래지콰이_에디션 "wikilink") 많은 버그가 발견되어 이를 DMP BS에서 수정하기 위해 12월로 발매가 연기되었으며 12월 24일 대한민국에서 정식발매되었다.
+**디제이맥스 포터블 블랙 스퀘어**(DJMAX Portable BLACK SQUARE, DMP BS)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 메트로 프로젝트의 두 번째 작품중 두 번째 플랫폼으로 [온라인 게임으로](../Page/온라인_게임.md "wikilink") 만들어진 [디제이맥스](../Page/디제이맥스.md "wikilink")를 [플레이스테이션 포터블용으로](../Page/플레이스테이션_포터블.md "wikilink") 이식한 [디제이맥스 포터블 2의](https://ko.wikipedia.org/wiki/디제이맥스_포터블_2 "wikilink") 후속작이다. 전작인 DMP2의 특징을 강화시킨 것을 내세우는 실질적인 DMP3라고 할 수 있는 후속작. [2008년](../Page/2008년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") PV영상과 정보가 공개되었다. 대한민국에서 11월중 발매를 목표로 하였으나 [디제이맥스 포터블 클래지콰이 에디션에서](https://ko.wikipedia.org/wiki/디제이맥스_포터블_클래지콰이_에디션 "wikilink") 많은 버그가 발견되어 이를 DMP BS에서 수정하기 위해 12월로 발매가 연기되었으며 12월 24일 대한민국에서 정식발매되었다.
 
 ## 한정판
 
@@ -33,15 +33,15 @@
 
 ## 역사
 
-  - 2008년 [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") - 루리웹 홈페이지를 통해 신작 메트로 프로젝트 [디제이맥스 포터블 클래지콰이 에디션](https://ko.wikipedia.org/wiki/디제이맥스_포터블_클래지콰이_에디션 "wikilink"), 디제이맥스 포터블 블랙 스퀘어 PV 영상 공개
-  - 2008년 [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") - [디제이맥스 포터블 클래지콰이 에디션](https://ko.wikipedia.org/wiki/디제이맥스_포터블_클래지콰이_에디션 "wikilink") 정품 유저를 대상으로 FGT(Focus Group Test)실시
-  - 2008년 [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink") - 디제이맥스 포터블 블랙 스퀘어의 정식 정보가 공개되었다. [1](https://web.archive.org/web/20081205104850/http://ruliweb.empas.com/data/rulinews/read.htm?num=16628)
-  - 2008년 [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") - 디제이맥스 포터블 블랙 스퀘어의 프로모션 동영상과 한정판 구성, 예약판매일자가 공개되었다. (12월 6일 오후 5시) [2](http://www.ruliweb.com/data/rulinews/read.htm?num=16637)
-  - 2008년 [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink") - 디제이맥스 포터블 블랙 스퀘어의 한정판인 디제이맥스 포터블 블랙 스퀘어 \~Quattra\~에 대한 예약 판매가 시행되었다.
-  - 2008년 [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") - 디제이맥스 포터블 블랙 스퀘어가 발매되었다.
-  - 2008년 [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") - 디제이맥스 포터블 블랙 스퀘어의 랭킹팩과 링크팩이 공개되었다.
-  - 2010년 [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") - 디제이맥스 테크니카1의 플래티넘 크루 서비스가 종료되면서, 랭킹 서비스와 랭킹팩, 링크팩의 다운로드 서비스가 중단되었다.
-  - 2010년 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") - 디제이맥스 포터블 클래지콰이 에디션과 디제이맥스 포터블 블랙스퀘어를 위한 플래티넘 크루 서비스가 재개되었다. [3](https://web.archive.org/web/20131213195642/http://djmax.platinumcrew.co.kr/)
+  - 2008년 [9월 2일](../Page/9월_2일.md "wikilink") - 루리웹 홈페이지를 통해 신작 메트로 프로젝트 [디제이맥스 포터블 클래지콰이 에디션](https://ko.wikipedia.org/wiki/디제이맥스_포터블_클래지콰이_에디션 "wikilink"), 디제이맥스 포터블 블랙 스퀘어 PV 영상 공개
+  - 2008년 [11월 13일](../Page/11월_13일.md "wikilink") - [디제이맥스 포터블 클래지콰이 에디션](https://ko.wikipedia.org/wiki/디제이맥스_포터블_클래지콰이_에디션 "wikilink") 정품 유저를 대상으로 FGT(Focus Group Test)실시
+  - 2008년 [12월 2일](../Page/12월_2일.md "wikilink") - 디제이맥스 포터블 블랙 스퀘어의 정식 정보가 공개되었다. [1](https://web.archive.org/web/20081205104850/http://ruliweb.empas.com/data/rulinews/read.htm?num=16628)
+  - 2008년 [12월 5일](../Page/12월_5일.md "wikilink") - 디제이맥스 포터블 블랙 스퀘어의 프로모션 동영상과 한정판 구성, 예약판매일자가 공개되었다. (12월 6일 오후 5시) [2](http://www.ruliweb.com/data/rulinews/read.htm?num=16637)
+  - 2008년 [12월 6일](../Page/12월_6일.md "wikilink") - 디제이맥스 포터블 블랙 스퀘어의 한정판인 디제이맥스 포터블 블랙 스퀘어 \~Quattra\~에 대한 예약 판매가 시행되었다.
+  - 2008년 [12월 24일](../Page/12월_24일.md "wikilink") - 디제이맥스 포터블 블랙 스퀘어가 발매되었다.
+  - 2008년 [12월 26일](../Page/12월_26일.md "wikilink") - 디제이맥스 포터블 블랙 스퀘어의 랭킹팩과 링크팩이 공개되었다.
+  - 2010년 [7월 16일](../Page/7월_16일.md "wikilink") - 디제이맥스 테크니카1의 플래티넘 크루 서비스가 종료되면서, 랭킹 서비스와 랭킹팩, 링크팩의 다운로드 서비스가 중단되었다.
+  - 2010년 [9월](../Page/9월.md "wikilink") - 디제이맥스 포터블 클래지콰이 에디션과 디제이맥스 포터블 블랙스퀘어를 위한 플래티넘 크루 서비스가 재개되었다. [3](https://web.archive.org/web/20131213195642/http://djmax.platinumcrew.co.kr/)
 
 ## 외부 링크
 

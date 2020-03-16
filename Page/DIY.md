@@ -3,7 +3,7 @@
 
 **DIY**는 전문 업자나 업체에 맡기지 않고 스스로 직접 생활 공간을 보다 쾌적하게 만들고 수리하는 개념을 말한다. "디 아이 와이"라고 읽으며 "네 자신이 직접 만들어라"라는 뜻의 Do it yourself의 준말이다. 대표적으로 [이케아](../Page/이케아.md "wikilink") 가구가 있다.
 
-이 개념은 [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink")에 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 시작되어 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에 퍼졌다. 전문가의 도움 없이도 자신의 집 안팎을 공사할 수 있게 되어 1950년대에 들어 "do it yourself"라는 구문이 일상에 쓰이게 되었다.
+이 개념은 [1945년](../Page/1945년.md "wikilink")에 [영국](../Page/영국.md "wikilink")에서 시작되어 [미국](../Page/미국.md "wikilink")에 퍼졌다. 전문가의 도움 없이도 자신의 집 안팎을 공사할 수 있게 되어 1950년대에 들어 "do it yourself"라는 구문이 일상에 쓰이게 되었다.
 
 최근에 DIY라는 용어는 다양한 기술을 동반한 더 넓은 뜻을 가진다. 이를테면 오늘날 DIY는 국제적인 [얼터너티브 록과](../Page/얼터너티브_록.md "wikilink") [하드코어 펑크](../Page/하드코어_펑크.md "wikilink") 음악 씬과 관련되어 있다. 이러한 하부 문화에 속한 사람들은 제작자들과 사용자들이 함께 가까이할 수 있는 사회 네트워크를 형성함으로써 제작자와 소비자 사이의 선을 희미하게 만드는 데 열정을 쏟는다.
 
@@ -18,7 +18,7 @@
   - [셀프서비스](../Page/셀프서비스.md "wikilink")
   - [브리콜라주](https://ko.wikipedia.org/wiki/브리콜라주 "wikilink")
   - [프로슈머](../Page/프로슈머.md "wikilink")
-  - [3차원 인쇄](https://ko.wikipedia.org/wiki/3차원_인쇄 "wikilink")
+  - [3차원 인쇄](../Page/3차원_인쇄.md "wikilink")
 
 ## 참고
 

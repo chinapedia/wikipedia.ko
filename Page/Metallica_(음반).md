@@ -11,14 +11,14 @@
 
   - 음반 커버에는 또아리를 튼 뱀이 그려져 있는데, 이는 개즈던 깃발([Gadsden flag](https://ko.wikipedia.org/wiki/:en:Gadsden_flag "wikilink"))에서 따온 것이다. 깃발에서 뱀 그림 밑에 "Don't Tread On Me(나를 밟지 마라)"라는 문구가 쓰여있는데, 동명의 수록곡 역시 이 문구에서 따온 것이다.
   - "Enter Sandman"은 밤마다 아이들의 눈에 모래를 뿌려 악몽을 꾸게 한다는 미국의 모래귀신에 관한 내용이다.
-  - "The God That Failed"는 과거 [제임스 헷필드의](https://ko.wikipedia.org/wiki/제임스_헷필드 "wikilink") 어머니가 신앙하던 종교로 인해 자신이 병에 걸렸음에도 치료를 거부하다가 사망한 사건을 배경으로 신을 비판하는 내용을 다루고 있다.
+  - "The God That Failed"는 과거 [제임스 헷필드의](../Page/제임스_헷필드.md "wikilink") 어머니가 신앙하던 종교로 인해 자신이 병에 걸렸음에도 치료를 거부하다가 사망한 사건을 배경으로 신을 비판하는 내용을 다루고 있다.
   - "Nothing Else Matters"는 헷필드의 전 여자친구와의 이야기를 다뤘다.
   - 〈2012 유로피언 블랙 앨범 투어〉에서는 앨범 수록곡의 순서를 거꾸로하여 전곡을 연주하였다.
 
 ### 한국 라이센스반
 
   - 1990년대 초반 발매음반에는 평론가 성우진, 하세민이 1992년 7월에 쓴 리뷰가 인쇄되어있다.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에는 한국에서 평론가 [임진모](../Page/임진모.md "wikilink")와 [유니버설 뮤직](../Page/유니버설_뮤직_그룹.md "wikilink") 공동기획한 〈음악평론가 임진모가 추천하는 팝명작 시리즈〉의 일환으로 이 앨범이 시리즈 중 19번째로 선정되어 재발매 되기도 하였다. 앨범안에는 임진모가 쓴 **《세련미와 멜로디로 쌓아올린 메탈의 금자탑 - METALLICA \[METALLICA(BLACK ALBUM)\]》**이라는 제목의 해설이 별지로 첨부되어 있다.
+  - [2008년](../Page/2008년.md "wikilink")에는 한국에서 평론가 [임진모](../Page/임진모.md "wikilink")와 [유니버설 뮤직](../Page/유니버설_뮤직_그룹.md "wikilink") 공동기획한 〈음악평론가 임진모가 추천하는 팝명작 시리즈〉의 일환으로 이 앨범이 시리즈 중 19번째로 선정되어 재발매 되기도 하였다. 앨범안에는 임진모가 쓴 **《세련미와 멜로디로 쌓아올린 메탈의 금자탑 - METALLICA \[METALLICA(BLACK ALBUM)\]》**이라는 제목의 해설이 별지로 첨부되어 있다.
 
 ## 싱글 발매
 
@@ -32,11 +32,11 @@
 
   - 1991년 8월 17일 - Monsters of Rock
   - 1991년 가을 \~ 1992년 여름 - Wherever We May Roam 투어
-      - 1992년 4월 20일 - [프레디 머큐리](https://ko.wikipedia.org/wiki/프레디_머큐리 "wikilink") 트리뷰트 콘서트
+      - 1992년 4월 20일 - [프레디 머큐리](../Page/프레디_머큐리.md "wikilink") 트리뷰트 콘서트
       - 1992년 7월 17일 \~ 10월 6일 - [건스 앤 로지스](https://ko.wikipedia.org/wiki/건스_앤_로지스 "wikilink")/[메탈리카](../Page/메탈리카.md "wikilink") 스타디움 투어
   - 1993년 1월 22일 \~ 7월 4일 - Nowhere Else to Roam 투어
   - 1994년 5월 30일 \~ 8월 21일 - Shit Hits the Sheds 투어
-      - 1994년 8월 13일 - [우드스톡 94](https://ko.wikipedia.org/wiki/우드스톡_페스티벌 "wikilink")
+      - 1994년 8월 13일 - [우드스톡 94](../Page/우드스톡_페스티벌.md "wikilink")
 
 ## 수록곡
 
@@ -56,9 +56,9 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/제임스_헷필드" title="wikilink">제임스 헷필드</a> – <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/리듬_기타" title="wikilink">리듬 기타</a>, <a href="https://ko.wikipedia.org/wiki/통기타" title="wikilink">어쿠스틱 기타</a>, <a href="https://ko.wikipedia.org/wiki/샷건" title="wikilink">샷건</a> 장전소리(10)</li>
+<li><a href="../Page/제임스_헷필드.md" title="wikilink">제임스 헷필드</a> – <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/리듬_기타" title="wikilink">리듬 기타</a>, <a href="../Page/통기타.md" title="wikilink">어쿠스틱 기타</a>, <a href="https://ko.wikipedia.org/wiki/샷건" title="wikilink">샷건</a> 장전소리(10)</li>
 <li><a href="https://ko.wikipedia.org/wiki/커크_해밋" title="wikilink">커크 해밋</a> – 리드 기타</li>
-<li><a href="https://ko.wikipedia.org/wiki/제이슨_뉴스테드" title="wikilink">제이슨 뉴스테드</a> – <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
+<li><a href="../Page/제이슨_뉴스테드.md" title="wikilink">제이슨 뉴스테드</a> – <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/라스_울리히" title="wikilink">라스 울리히</a> – <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
 </ul></td>
 <td><dl>

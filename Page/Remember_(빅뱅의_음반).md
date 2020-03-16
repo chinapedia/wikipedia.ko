@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Remember \( \)](https://ko.wikipedia.org/wiki/Remember_\(_\)).
 
 
-《**REMEMBER**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 두 번째 정규 음반이다. 2008년 11월 5일에 YG 엔터테인먼트를 통해 발매되었다.\[1\] 발매 직전, 20만장의 선주문을 기록했다.\[2\] 타이틀 곡 "붉은 노을"은 [이문세](https://ko.wikipedia.org/wiki/이문세 "wikilink")의 동명의 곡을 리메이크했다.\[3\] 2008년에 《[KBS 가요대축제](https://ko.wikipedia.org/wiki/KBS_가요대축제 "wikilink")》에서 빅뱅과 이문세가 함께 합동 무대를 선보이기도 했다.\[4\] 수록곡 "Strong Baby"는 [승리의](https://ko.wikipedia.org/wiki/승리_\(가수\) "wikilink") 솔로 곡으로 2009년 1월 1일 뮤직 비디오가 공개되었다.\[5\]
+《**REMEMBER**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 두 번째 정규 음반이다. 2008년 11월 5일에 YG 엔터테인먼트를 통해 발매되었다.\[1\] 발매 직전, 20만장의 선주문을 기록했다.\[2\] 타이틀 곡 "붉은 노을"은 [이문세](../Page/이문세.md "wikilink")의 동명의 곡을 리메이크했다.\[3\] 2008년에 《[KBS 가요대축제](../Page/KBS_가요대축제.md "wikilink")》에서 빅뱅과 이문세가 함께 합동 무대를 선보이기도 했다.\[4\] 수록곡 "Strong Baby"는 [승리의](../Page/승리_\(가수\).md "wikilink") 솔로 곡으로 2009년 1월 1일 뮤직 비디오가 공개되었다.\[5\]
 
 ## 프로모션
 
@@ -23,7 +23,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2009</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하이원_서울가요대상" title="wikilink">서울가요대상</a></p></td>
+<td><p><a href="../Page/하이원_서울가요대상.md" title="wikilink">서울가요대상</a></p></td>
 <td><p>올해의 음반</p></td>
 <td><p>[9]</p></td>
 </tr>

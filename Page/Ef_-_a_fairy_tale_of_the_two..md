@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Ef - a fairy tale of the two.](https://ko.wikipedia.org/wiki/Ef_-_a_fairy_tale_of_the_two.).
 
 
-**ef - a fairy tale of the two.** ()는 [minori](https://ko.wikipedia.org/wiki/minori "wikilink")의 최신작이 되는 [미소녀 게임](https://ko.wikipedia.org/wiki/미소녀_게임 "wikilink"), 또는 이를 원작으로 한 관련상품을 통칭한다. 『fairy tale of the two』라는 문장은「두 사람의 동화」란 의미. 테마는「minori's 4th challenge about "Will"」. 전편의『the first tale.』이 2006년 12월 22일에, 후편의『the latter tale.』이 2008년 5월 30일에 각각 발매되었으며, 2010년 4월 29일에는 『the first tale.』과 『the latter tale.』이 모두 수록된 플레이스테이션 2 이식판이 발매되었다.
+**ef - a fairy tale of the two.** ()는 [minori](https://ko.wikipedia.org/wiki/minori "wikilink")의 최신작이 되는 [미소녀 게임](../Page/미소녀_게임.md "wikilink"), 또는 이를 원작으로 한 관련상품을 통칭한다. 『fairy tale of the two』라는 문장은「두 사람의 동화」란 의미. 테마는「minori's 4th challenge about "Will"」. 전편의『the first tale.』이 2006년 12월 22일에, 후편의『the latter tale.』이 2008년 5월 30일에 각각 발매되었으며, 2010년 4월 29일에는 『the first tale.』과 『the latter tale.』이 모두 수록된 플레이스테이션 2 이식판이 발매되었다.
 
 ## 개요
 
 minori의 5번째에 작품에 해당하는 본 작품은『스이카』,『D.C. \~다 카포\~』(모두 CIRCUS 제작)의 원작자로 알려진 [미카게](https://ko.wikipedia.org/wiki/미카게 "wikilink")와. 앞에서 열거된 작품에서 메인 히로인들의 캐릭터 디자인과 원화를 담당했던 나나오 나루를 포함한 초 호화 스탭이 모여서 2005년 초에 제작이 발표되었다.
 
-본 작품은 [미소녀 게임에서](https://ko.wikipedia.org/wiki/미소녀_게임 "wikilink") 많은 [어드벤처 게임](https://ko.wikipedia.org/wiki/AVG_\(게임\) "wikilink") 형식이 아닌 인터랙티브 노벨이라 불리는 형식을 사용하고 있다.
+본 작품은 [미소녀 게임에서](../Page/미소녀_게임.md "wikilink") 많은 [어드벤처 게임](https://ko.wikipedia.org/wiki/AVG_\(게임\) "wikilink") 형식이 아닌 인터랙티브 노벨이라 불리는 형식을 사용하고 있다.
 
 ## 무대
 
@@ -40,10 +40,10 @@ minori의 5번째에 작품에 해당하는 본 작품은『스이카』,『D.C.
 ### 메인 캐릭터
 
   - 히로노 히로()
-    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink"):[코미츠 사츠키](../Page/시모노_히로.md "wikilink")/[시모노 히로](../Page/시모노_히로.md "wikilink") (게임, 애니메이션 동일)
+    [성우](../Page/성우.md "wikilink"):[코미츠 사츠키](../Page/시모노_히로.md "wikilink")/[시모노 히로](../Page/시모노_히로.md "wikilink") (게임, 애니메이션 동일)
     1부의 주인공. 오토와 학원 2년생. 아버지와 누나 모두 유명한 화가지만 막상 본인은「신도 나기(新堂凪)」라는 펜네임으로 소녀만화를 연재하고 있다. 케이와 치히로간은 옛날부터 소꿉친구 사이로서 동생과 같은 사이.
   - 미야무라 미야코()
-    성우:[아카사와 카에데](https://ko.wikipedia.org/wiki/타구치_히로코_\(성우\) "wikilink")/타구치 히로코 (게임, 애니메이션 동일)
+    성우:[아카사와 카에데](../Page/타구치_히로코_\(성우\).md "wikilink")/타구치 히로코 (게임, 애니메이션 동일)
     1부의 메인 히로인. 오토와 학원 2년생(2부에선 3년생)으로 용모수려·성적우수이면서 수업을 빼먹는 걸로 학원에선 제법 유명한 인물. 6년 전 부모가 이혼한 이래 혼자 살고있다.
   - 츠츠미 쿄스케()
     성우:[시로키 카케루](https://ko.wikipedia.org/wiki/타이_유우키 "wikilink")/타이 유우키 (게임, 애니메이션 동일)
@@ -61,7 +61,7 @@ minori의 5번째에 작품에 해당하는 본 작품은『스이카』,『D.C.
     성우:[아키레스 켄](https://ko.wikipedia.org/wiki/하마다_켄지 "wikilink")/하마다 켄지 (게임, 애니메이션 동일)
     4부의 주인공. 프로의 바이올리니스트. 렌지의 이웃집에 살고있다. 부모와의 불화로 오토와 학원을 중퇴하고 독일로 유학을 다녀오게 된다.
   - 하야마 미즈키()
-    성우:[아구미 오토](https://ko.wikipedia.org/wiki/고토_마이_\(성우\) "wikilink")/고토 마이(게임, 애니메이션 동일)
+    성우:[아구미 오토](../Page/고토_마이_\(성우\).md "wikilink")/고토 마이(게임, 애니메이션 동일)
     4부의 메인 히로인. 케이와는 선후배 관계, 렌지와는 사촌이며 소녀만화를 좋아한다(신도 나기의 팬이나 신도 나기가 히로노 히로라는 사실을 모름). 후편에서 추천입학으로 오토와 학원에 입학하게 된다.
   - 히무라 유우()
     성우:[미부 츄죠](https://ko.wikipedia.org/wiki/토오치카_코이치 "wikilink")/토오치카 코이치(게임, 애니메이션 동일)
@@ -467,14 +467,14 @@ ever forever</p></td>
 
 <!-- end list -->
 
-  - \~prologue\~:[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") 발매, GNBA-1279 - 애니메이션화를 기념해서 나온 DVD. 프로모션 영상등이 수록되어있다. 초회한정생산품.
-  - 제1권:2007년 [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink") 발매, GNBA-1280(초회판)·GNBA-1281(통상판) - 1화와 2화가 수록
-  - 제2권:2008년 [1월 11일](https://ko.wikipedia.org/wiki/1월_11일 "wikilink") 발매, GNBA-1282 - 3화와 4화가 수록 ※3화의 경우 TV방영판보다 약 1분 30초긴 완전판이 수록되어 있다.\[1\].
-  - 제3권:2008년 [2월 8일](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") 발매, GNBA-1283 - 5화와 6화가 수록
-  - 제4권:2008년 [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") 발매, GNBA-1284 - 7화와 8화가 수록
-  - 제5권:2008년 [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") 발매, GNBA-1285 - 9화와 10화가 수록
-  - 제6권:2008년 [5월 9일](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") 발매, GNBA-1286 - 11화와 12화가 수록
-  - 총집편:2008년 [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") 발매, GNBA-1289 -「ef - a tale of memories. 〜recollections〜」
+  - \~prologue\~:[2007년](../Page/2007년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") 발매, GNBA-1279 - 애니메이션화를 기념해서 나온 DVD. 프로모션 영상등이 수록되어있다. 초회한정생산품.
+  - 제1권:2007년 [12월 7일](../Page/12월_7일.md "wikilink") 발매, GNBA-1280(초회판)·GNBA-1281(통상판) - 1화와 2화가 수록
+  - 제2권:2008년 [1월 11일](../Page/1월_11일.md "wikilink") 발매, GNBA-1282 - 3화와 4화가 수록 ※3화의 경우 TV방영판보다 약 1분 30초긴 완전판이 수록되어 있다.\[1\].
+  - 제3권:2008년 [2월 8일](../Page/2월_8일.md "wikilink") 발매, GNBA-1283 - 5화와 6화가 수록
+  - 제4권:2008년 [3월 7일](../Page/3월_7일.md "wikilink") 발매, GNBA-1284 - 7화와 8화가 수록
+  - 제5권:2008년 [4월 2일](../Page/4월_2일.md "wikilink") 발매, GNBA-1285 - 9화와 10화가 수록
+  - 제6권:2008년 [5월 9일](../Page/5월_9일.md "wikilink") 발매, GNBA-1286 - 11화와 12화가 수록
+  - 총집편:2008년 [9월 26일](../Page/9월_26일.md "wikilink") 발매, GNBA-1289 -「ef - a tale of memories. 〜recollections〜」
 
 <!-- end list -->
 
@@ -538,10 +538,10 @@ ever forever</p></td>
 <!-- end list -->
 
   - 프론티아 웍스로부터 발매.
-      - vol.1「미야코의 의외의 약점?(みやこの意外な弱点？)」(FCCP-0020, 2006년 [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") 발매)
+      - vol.1「미야코의 의외의 약점?(みやこの意外な弱点？)」(FCCP-0020, 2006년 [10월 25일](../Page/10월_25일.md "wikilink") 발매)
       - vol.2「케이의 러브레터(景のラブレター)」(FCCP-0021, 2006년 12월 22일 발매)
-      - vol.3「치히로가 없어지는 날(千尋がいなくなる日)」(FCCP-0022, 2007년 [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink") 발매)
-      - vol.4「미즈키의 시대극(ミズキの時代劇)」(FCCP-0023, 2007년 [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink") 발매)
+      - vol.3「치히로가 없어지는 날(千尋がいなくなる日)」(FCCP-0022, 2007년 [2월 23일](../Page/2월_23일.md "wikilink") 발매)
+      - vol.4「미즈키의 시대극(ミズキの時代劇)」(FCCP-0023, 2007년 [4월 25일](../Page/4월_25일.md "wikilink") 발매)
   - [minori](https://ko.wikipedia.org/wiki/minori "wikilink")로부터 발매.
       - ef - a fairy tale of the two. 드라마CD vol.01「미야무라가에 잘 오셨습니다.(宮村家へようこそ)」(2006년 12월, 코믹마켓71에서 발매)
 
@@ -553,7 +553,7 @@ ever forever</p></td>
 
   - 여성 캐릭터 쟈켓ver.:SW-006SF(미야무라 미야코&아마이야 유우코)
   - 남성 캐릭터 쟈켓ver.:SW-006SM(히로노 히로&히무라 유우)
-      - minori로부터 2006년 [10월 27일에](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") 발매.
+      - minori로부터 2006년 [10월 27일에](../Page/10월_27일.md "wikilink") 발매.
       - 「ef - the first tale.」메인 테마「유구의 날개(悠久の翼)」의 풀코러스ver.·무비 사이즈ver.·각 off vocal ver., 모노로그 2종류(여성편, 남성편)을 수록.
       - 양 버전의 차이는 포함돼 있는 3매의 일러스트와 사용 컷·패키지 뒷면의 인레이에 사용된 파일프린트의 일러스트.
       - 덧붙여서, 당일 완매된 점포가 많아서 구입을 못한 유저나 점포에서의 요망을 받아들여, 여성 캐릭터 쟈켓ver.한정이었지만 2006년 12월 22일에 재프레스판이 발매되었다.

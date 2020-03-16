@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ RW](https://ko.wikipedia.org/wiki/_RW).
 
 
-**세페우스자리 RW**는 [황색](https://ko.wikipedia.org/wiki/황색 "wikilink") 또는 [적색](https://ko.wikipedia.org/wiki/적색 "wikilink") [극대거성](../Page/극대거성.md "wikilink")으로, 지구에서 약 11,500광년 떨어져 있다. 이 별은 성협 세페우스자리 OB1의 구성원 중 하나로, 해당 성협은 북반구 하늘의 [세페우스자리](https://ko.wikipedia.org/wiki/세페우스자리 "wikilink") 영역에 있다. 외관상 세페우스자리 RW와 다중성계 [도마뱀자리 CSU가](https://ko.wikipedia.org/wiki/도마뱀자리_CSU "wikilink") 이중성처럼 보이지만, 실제로 둘 사이는 중력으로 묶여 있지 않으며 아무 관계 없는 독립된 항성계로, RW는 지구에서 훨씬 더 멀리 떨어진 곳에 있다.
+**세페우스자리 RW**는 [황색](https://ko.wikipedia.org/wiki/황색 "wikilink") 또는 [적색](https://ko.wikipedia.org/wiki/적색 "wikilink") [극대거성](../Page/극대거성.md "wikilink")으로, 지구에서 약 11,500광년 떨어져 있다. 이 별은 성협 세페우스자리 OB1의 구성원 중 하나로, 해당 성협은 북반구 하늘의 [세페우스자리](../Page/세페우스자리.md "wikilink") 영역에 있다. 외관상 세페우스자리 RW와 다중성계 [도마뱀자리 CSU가](https://ko.wikipedia.org/wiki/도마뱀자리_CSU "wikilink") 이중성처럼 보이지만, 실제로 둘 사이는 중력으로 묶여 있지 않으며 아무 관계 없는 독립된 항성계로, RW는 지구에서 훨씬 더 멀리 떨어진 곳에 있다.
 
 ## 물리적 특징
 

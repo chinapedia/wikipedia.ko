@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
 
 
-**케플라비크 IF** ()는 [아이슬란드](https://ko.wikipedia.org/wiki/아이슬란드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [1929년](https://ko.wikipedia.org/wiki/1929년 "wikilink")에 창단되었다.
+**케플라비크 IF** ()는 [아이슬란드](../Page/아이슬란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1929년](../Page/1929년.md "wikilink")에 창단되었다.
 
 ## 역대 우승기록
 
@@ -50,7 +50,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/유러피언컵" title="wikilink">유러피언컵</a></p></td>
 <td><p>1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p>0-3, <strong>0-1</strong></p></td>
 </tr>
 <tr class="odd">
@@ -106,7 +106,7 @@
 <td><p><a href="../Page/UEFA_컵위너스컵.md" title="wikilink">UEFA 컵위너스컵</a></p></td>
 <td><p>예선전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마카비_텔아비브_FC" title="wikilink">마카비 텔아비브 FC</a></p></td>
+<td><p><a href="../Page/마카비_텔아비브_FC.md" title="wikilink">마카비 텔아비브 FC</a></p></td>
 <td><p><strong>1-2</strong>, 1-4</p></td>
 </tr>
 <tr class="even">
@@ -154,7 +154,7 @@
 <td></td>
 <td><p>조별리그</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/NK_마리보르" title="wikilink">NK 마리보르</a></p></td>
+<td><p><a href="../Page/NK_마리보르.md" title="wikilink">NK 마리보르</a></p></td>
 <td><p><strong>0-0</strong></p></td>
 </tr>
 <tr class="even">

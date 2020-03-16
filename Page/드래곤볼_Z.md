@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:드래곤볼z.jpg "wikilink")
 
-**드래곤볼 Z**()는 [토리야마 아키라의](https://ko.wikipedia.org/wiki/토리야마_아키라 "wikilink") 만화인 [드래곤볼](../Page/드래곤볼.md "wikilink")을 원작으로 한 TV판 애니메이션이다. 첫 시리즈인 [드래곤볼의](../Page/드래곤볼_\(애니메이션\).md "wikilink") 속편이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 대원씨아이를 통해 비디오로 출시된 적이 있고, [SBS](../Page/SBS.md "wikilink")와 [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink"), [애니원](https://ko.wikipedia.org/wiki/애니원 "wikilink")에 방영된 적이 있으나 최근에는 [챔프를](https://ko.wikipedia.org/wiki/챔프TV "wikilink") 통해 방영되고 있다.
+**드래곤볼 Z**()는 [토리야마 아키라의](https://ko.wikipedia.org/wiki/토리야마_아키라 "wikilink") 만화인 [드래곤볼](../Page/드래곤볼.md "wikilink")을 원작으로 한 TV판 애니메이션이다. 첫 시리즈인 [드래곤볼의](../Page/드래곤볼_\(애니메이션\).md "wikilink") 속편이다. [대한민국](../Page/대한민국.md "wikilink")에서는 대원씨아이를 통해 비디오로 출시된 적이 있고, [SBS](../Page/SBS.md "wikilink")와 [투니버스](../Page/투니버스.md "wikilink"), [애니원](../Page/애니원.md "wikilink")에 방영된 적이 있으나 최근에는 [챔프를](../Page/챔프TV.md "wikilink") 통해 방영되고 있다.
 
 ## 줄거리
 
@@ -61,13 +61,13 @@
 
   - 손오공의 아들로 셀과의 싸움에서 승리를 얻어낸 전사다.
 
-사이어인 [손오공](https://ko.wikipedia.org/wiki/손오공 "wikilink")과 지구인 치치의 혼혈이며 감정 기복에 따라 전투력에 차이가 있다. 오공과 함께 지구를 지키는 전사 중 한 명이다. 엄청난 잠재능력을 갖고 있으며 작중에서 가장 처음으로 슈퍼 사이어인 2를 선보인다. 마인 부우 전때 15대 이전의 계왕신의 도움으로 모든 잠재능력을 개방해 통칭 "미스틱 손오반", 또는 "얼티메이트 손오반"이 되어 작중 단일최강이라 불렸지만, 이후 수련을 하지 않아 약해졌다는 묘사가 많이 나오고 있다. 이름의 모티브는 밥'반'(飯)
+사이어인 [손오공](../Page/손오공.md "wikilink")과 지구인 치치의 혼혈이며 감정 기복에 따라 전투력에 차이가 있다. 오공과 함께 지구를 지키는 전사 중 한 명이다. 엄청난 잠재능력을 갖고 있으며 작중에서 가장 처음으로 슈퍼 사이어인 2를 선보인다. 마인 부우 전때 15대 이전의 계왕신의 도움으로 모든 잠재능력을 개방해 통칭 "미스틱 손오반", 또는 "얼티메이트 손오반"이 되어 작중 단일최강이라 불렸지만, 이후 수련을 하지 않아 약해졌다는 묘사가 많이 나오고 있다. 이름의 모티브는 밥'반'(飯)
 
 #### 손오천
 
   - 손오공의 둘째 아들이며 트랭크스와 퓨전할 수 있다.
 
-손오반과 마찬가지로 사이어인 [손오공](https://ko.wikipedia.org/wiki/손오공 "wikilink")과 지구인 치치의 혼혈이며 아주 어린 나이부터 슈퍼 사이어인으로 변신할 수 있고, 트랭크스와 퓨전해 오천크스가 될 수 있다. 원래는 기공파나 무공술 등 다른 등장인물들이 가진 기술들이 능숙하지 않았으나, 형 손오반에게서 습득 후 통달하게 된다.
+손오반과 마찬가지로 사이어인 [손오공](../Page/손오공.md "wikilink")과 지구인 치치의 혼혈이며 아주 어린 나이부터 슈퍼 사이어인으로 변신할 수 있고, 트랭크스와 퓨전해 오천크스가 될 수 있다. 원래는 기공파나 무공술 등 다른 등장인물들이 가진 기술들이 능숙하지 않았으나, 형 손오반에게서 습득 후 통달하게 된다.
 
 아무도 가르쳐주지 않았는데도 불구하고 슈퍼 사이어인으로 변신할 수 있으며 퓨전시 오천크스 상태에서 슈퍼 사이어인 3로 변신 가능하다.
 
@@ -304,9 +304,9 @@
 \- 비디오 버전 -
 
   - 손오공(극장판) - [백순철](../Page/백순철.md "wikilink")
-  - 손오공(TV판) - [김환진](https://ko.wikipedia.org/wiki/김환진 "wikilink")
+  - 손오공(TV판) - [김환진](../Page/김환진.md "wikilink")
   - 소년 손오반(초반부) / 런치 - [김정애](../Page/김정애_\(성우\).md "wikilink")
-  - 야무치(초반부) - [김승준](https://ko.wikipedia.org/wiki/김승준_\(성우\) "wikilink")
+  - 야무치(초반부) - [김승준](../Page/김승준_\(성우\).md "wikilink")
   - 베지터 / 야무치(후반부) / 라데츠 / 파이크 한 / 무술대회MC - [김민석](../Page/김민석_\(성우\).md "wikilink")
   - 소년 손오반(후반부) / 청년 손오반 / 미래 손오반 / 우부 - [이미자](../Page/이미자_\(성우\).md "wikilink")
   - 천진반(초반부) /자봉(초반부) - [김태웅](https://ko.wikipedia.org/wiki/김태웅_\(남자_성우\) "wikilink")
@@ -320,42 +320,42 @@
   - 치치(후반부) - [장혜선](../Page/장혜선.md "wikilink")
   - 프리더 / 트랭크스(후반부) / 인조인간 17호 / 계왕신 - [최문자](../Page/최문자.md "wikilink")
   - 셀 - [문영래](../Page/문영래.md "wikilink")
-  - 피콜로(초반부) / 신(초반부) / 자봉(중반부) / 지스 - [김정호](https://ko.wikipedia.org/wiki/김정호_\(성우\) "wikilink")
+  - 피콜로(초반부) / 신(초반부) / 자봉(중반부) / 지스 - [김정호](../Page/김정호_\(성우\).md "wikilink")
   - 피콜로(후반부) / 신(후반부) - [박홍식](https://ko.wikipedia.org/wiki/박홍식 "wikilink")
-  - 부르마 / 덴데 / 교자 / 막무가내 / 트랭크스(초반부) - [지미애](https://ko.wikipedia.org/wiki/지미애 "wikilink")
-  - 크리링(초반부) - [안경진](https://ko.wikipedia.org/wiki/안경진 "wikilink")
-  - 손오천 - [손정아](https://ko.wikipedia.org/wiki/손정아 "wikilink")
+  - 부르마 / 덴데 / 교자 / 막무가내 / 트랭크스(초반부) - [지미애](../Page/지미애.md "wikilink")
+  - 크리링(초반부) - [안경진](../Page/안경진.md "wikilink")
+  - 손오천 - [손정아](../Page/손정아.md "wikilink")
 
 外
 
 \- SBS 버전(조기 종영) -
 
-  - 손오공 - [강수진](https://ko.wikipedia.org/wiki/강수진_\(남자_성우\) "wikilink")
-  - 손오반 - [정미숙](https://ko.wikipedia.org/wiki/정미숙 "wikilink")
-  - 거북도사 / 리쿰 / 그레고리 - [이인성](https://ko.wikipedia.org/wiki/이인성_\(성우\) "wikilink")
+  - 손오공 - [강수진](../Page/강수진_\(남자_성우\).md "wikilink")
+  - 손오반 - [정미숙](../Page/정미숙.md "wikilink")
+  - 거북도사 / 리쿰 / 그레고리 - [이인성](../Page/이인성_\(성우\).md "wikilink")
   - 크리링 - [이연희](../Page/이연희_\(성우\).md "wikilink")
-  - 부르마 - [윤성혜](https://ko.wikipedia.org/wiki/윤성혜_\(성우\) "wikilink")
+  - 부르마 - [윤성혜](../Page/윤성혜_\(성우\).md "wikilink")
   - 피콜로 - [박지훈](../Page/박조호.md "wikilink")
   - 치치 / 교자 / 덴데 - [양정화](../Page/양정화_\(성우\).md "wikilink")
-  - 베지터 - [김환진](https://ko.wikipedia.org/wiki/김환진 "wikilink")
-  - 라데츠 / 바터 - [김관철](https://ko.wikipedia.org/wiki/김관철 "wikilink")
-  - 야무치 - [김승준](https://ko.wikipedia.org/wiki/김승준_\(성우\) "wikilink")
-  - 런치 / 헤라꼴리 - [이소영](https://ko.wikipedia.org/wiki/이소영_\(성우\) "wikilink")
+  - 베지터 - [김환진](../Page/김환진.md "wikilink")
+  - 라데츠 / 바터 - [김관철](../Page/김관철.md "wikilink")
+  - 야무치 - [김승준](../Page/김승준_\(성우\).md "wikilink")
+  - 런치 / 헤라꼴리 - [이소영](../Page/이소영_\(성우\).md "wikilink")
   - 천진반 - [이재용](../Page/이재용_\(성우\).md "wikilink")
   - 오룡 - [이선호](../Page/이선호_\(성우\).md "wikilink")
   - 신 - [윤기황](../Page/윤기황.md "wikilink")
   - 안내인 - [유동균](../Page/유동균_\(성우\).md "wikilink")
   - 계왕 - [노민](../Page/노민.md "wikilink")
-  - 지스 - [최원형](https://ko.wikipedia.org/wiki/최원형 "wikilink")
+  - 지스 - [최원형](../Page/최원형.md "wikilink")
   - 기뉴 - [강구한](../Page/강구한.md "wikilink")
   - 프리져 - [이재명](../Page/이재명_\(성우\).md "wikilink")
-  - 해설 - [이장원](https://ko.wikipedia.org/wiki/이장원_\(성우\) "wikilink")
+  - 해설 - [이장원](../Page/이장원_\(성우\).md "wikilink")
 
 外
 
 \- 투니버스 버전 (3기, 마인 부우편) -
 
-  - 손오공 - [김환진](https://ko.wikipedia.org/wiki/김환진 "wikilink")
+  - 손오공 - [김환진](../Page/김환진.md "wikilink")
   - 손오반 - [김장](../Page/김장_\(성우\).md "wikilink")
   - 베지터 - [김민석](../Page/김민석_\(성우\).md "wikilink")
   - 마인 부우 / 뽀뽀 - [신용우](https://ko.wikipedia.org/wiki/신용우 "wikilink")
@@ -365,7 +365,7 @@
   - 미스터 사탄 / 염라대왕 - [시영준](../Page/시영준.md "wikilink")
   - 비델 / 덴데 / 차오즈 - [이용신](../Page/이용신.md "wikilink")
   - 치치 - [윤여진](../Page/윤여진.md "wikilink")
-  - 부르마 - [지미애](https://ko.wikipedia.org/wiki/지미애 "wikilink")
+  - 부르마 - [지미애](../Page/지미애.md "wikilink")
   - 우마왕 - [손종환](../Page/손종환.md "wikilink")
   - 크리링 - [이선호](../Page/이선호_\(성우\).md "wikilink")
   - 18호 / 오룡 - [박경혜](https://ko.wikipedia.org/wiki/박경혜 "wikilink")
@@ -375,9 +375,9 @@
   - 키비토 / 야무치 - [최재호](../Page/최재호_\(성우\).md "wikilink")
   - 천진반 - [이주창](../Page/이주창.md "wikilink")
   - 바비디 - [손종환](../Page/손종환.md "wikilink")
-  - 점쟁이 바바 - [정유미](https://ko.wikipedia.org/wiki/정유미_\(성우\) "wikilink")
-  - 사령관 - [이호산](https://ko.wikipedia.org/wiki/이호산 "wikilink")
-  - 거북도사 / 해설 - [김정호](https://ko.wikipedia.org/wiki/김정호_\(성우\) "wikilink")
+  - 점쟁이 바바 - [정유미](../Page/정유미_\(성우\).md "wikilink")
+  - 사령관 - [이호산](../Page/이호산.md "wikilink")
+  - 거북도사 / 해설 - [김정호](../Page/김정호_\(성우\).md "wikilink")
 
 ## 극장판
 
@@ -418,51 +418,51 @@
 
 ### 한국판 주제가
 
-  - 2,3기 여는 곡 : 《폭풍처럼》</br>작사: [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink") / 작곡・편곡: 이창희 / 노래: 방대식
+  - 2,3기 여는 곡 : 《폭풍처럼》</br>작사: [신동식](../Page/신동식.md "wikilink") / 작곡・편곡: 이창희 / 노래: 방대식
   - 2,3기 닫는 곡 : 《작은 평화》</br>작사: 신동식 / 작곡・편곡: 박정식 / 노래: 회상
 
 ## 게임
 
 본 목차는 드래곤볼 Z 이름으로 나온 게임들만 나열했다.
 
-1.  드래곤볼 Z 강습\! 사이어인 ([FC](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink"))
-2.  드래곤볼 Z2 격신\! 프리저 ([FC](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink"))
-3.  드래곤볼 Z3 열전\! 인조인간 ([FC](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink"))
-4.  드래곤볼 Z 외전 사이어인 절멸계획 ([FC](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink"))
+1.  드래곤볼 Z 강습\! 사이어인 ([FC](../Page/패밀리_컴퓨터.md "wikilink"))
+2.  드래곤볼 Z2 격신\! 프리저 ([FC](../Page/패밀리_컴퓨터.md "wikilink"))
+3.  드래곤볼 Z3 열전\! 인조인간 ([FC](../Page/패밀리_컴퓨터.md "wikilink"))
+4.  드래곤볼 Z 외전 사이어인 절멸계획 ([FC](../Page/패밀리_컴퓨터.md "wikilink"))
 5.  드래곤볼 Z 진 사이어인 절멸계획 지구편 (플레이디아)
 6.  드래곤볼 Z 진 사이어인 절멸계획 우주편 (플레이디아)
-7.  드래곤볼 Z 격투\! 천하제일무도회 ([FC](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink"))
-8.  드래곤볼 Z 슈퍼 사이어인전설 ([SFC](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink"))
-9.  드래곤볼 Z 초무투전 ([SFC](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink"))
-10. 드래곤볼 Z 초무투전2 ([SFC](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink"))
-11. 드래곤볼 Z 초무투전3 ([SFC](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink"))
-12. 드래곤볼 Z 초오공전 돌격편 ([SFC](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink"))
-13. 드래곤볼 Z 초오공전 각성편 ([SFC](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink"))
-14. 드래곤볼 Z 하이퍼디멘션 ([SFC](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink"))
-15. 드래곤볼 Z 무용열전 ([MD](https://ko.wikipedia.org/wiki/메가_드라이브 "wikilink"))
+7.  드래곤볼 Z 격투\! 천하제일무도회 ([FC](../Page/패밀리_컴퓨터.md "wikilink"))
+8.  드래곤볼 Z 슈퍼 사이어인전설 ([SFC](../Page/슈퍼_패미컴.md "wikilink"))
+9.  드래곤볼 Z 초무투전 ([SFC](../Page/슈퍼_패미컴.md "wikilink"))
+10. 드래곤볼 Z 초무투전2 ([SFC](../Page/슈퍼_패미컴.md "wikilink"))
+11. 드래곤볼 Z 초무투전3 ([SFC](../Page/슈퍼_패미컴.md "wikilink"))
+12. 드래곤볼 Z 초오공전 돌격편 ([SFC](../Page/슈퍼_패미컴.md "wikilink"))
+13. 드래곤볼 Z 초오공전 각성편 ([SFC](../Page/슈퍼_패미컴.md "wikilink"))
+14. 드래곤볼 Z 하이퍼디멘션 ([SFC](../Page/슈퍼_패미컴.md "wikilink"))
+15. 드래곤볼 Z 무용열전 ([MD](../Page/메가_드라이브.md "wikilink"))
 16. 드래곤볼 Z 위대한 손오공전설 ([PC엔진](https://ko.wikipedia.org/wiki/PC엔진 "wikilink"))
-17. 드래곤볼 Z 오공비상전 ([GB](https://ko.wikipedia.org/wiki/게임보이 "wikilink"))
-18. 드래곤볼 Z 오공격투전 ([GB](https://ko.wikipedia.org/wiki/게임보이 "wikilink"))
-19. 드래곤볼 Z 전설의 초전사들 ([GBC](https://ko.wikipedia.org/wiki/게임보이_컬러 "wikilink"))
-20. 드래곤볼 Z 무공투극 ([GBA](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink"))
-21. 드래곤볼 Z 오공의 유산 ([GBA](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink"))
-22. 드래곤볼 Z 오공의 유산2 ([GBA](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink"))
-23. 드래곤볼 Z 오공의 유산2 인터내셔널 ([GBA](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink"))
-24. 드래곤볼 Z 부우의 분노 ([GBA](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink"))
-25. 드래곤볼 Z 진무투전 ([SS](https://ko.wikipedia.org/wiki/세가_새턴 "wikilink"))
-26. 드래곤볼 Z 위대한 드래곤볼 전설 ([SS](https://ko.wikipedia.org/wiki/세가_새턴 "wikilink")),([PS](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"))
+17. 드래곤볼 Z 오공비상전 ([GB](../Page/게임보이.md "wikilink"))
+18. 드래곤볼 Z 오공격투전 ([GB](../Page/게임보이.md "wikilink"))
+19. 드래곤볼 Z 전설의 초전사들 ([GBC](../Page/게임보이_컬러.md "wikilink"))
+20. 드래곤볼 Z 무공투극 ([GBA](../Page/게임보이_어드밴스.md "wikilink"))
+21. 드래곤볼 Z 오공의 유산 ([GBA](../Page/게임보이_어드밴스.md "wikilink"))
+22. 드래곤볼 Z 오공의 유산2 ([GBA](../Page/게임보이_어드밴스.md "wikilink"))
+23. 드래곤볼 Z 오공의 유산2 인터내셔널 ([GBA](../Page/게임보이_어드밴스.md "wikilink"))
+24. 드래곤볼 Z 부우의 분노 ([GBA](../Page/게임보이_어드밴스.md "wikilink"))
+25. 드래곤볼 Z 진무투전 ([SS](../Page/세가_새턴.md "wikilink"))
+26. 드래곤볼 Z 위대한 드래곤볼 전설 ([SS](../Page/세가_새턴.md "wikilink")),([PS](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"))
 27. 드래곤볼 Z 얼티메이트 배틀 22 ([PS](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"))
 28. 드래곤볼 Z ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink")),([GC](https://ko.wikipedia.org/wiki/게임큐브 "wikilink"))
 29. 드래곤볼 Z2 ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink"))
 30. 드래곤볼 Z3 ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink"))
 31. 드래곤볼 Z 스파킹\! ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink"))
-32. 드래곤볼 Z 스파킹\! 네오 ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink")),([Wii](https://ko.wikipedia.org/wiki/Wii "wikilink"))
-33. 드래곤볼 Z 스파킹\! 메테오 ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink")),([Wii](https://ko.wikipedia.org/wiki/Wii "wikilink"))
+32. 드래곤볼 Z 스파킹\! 네오 ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink")),([Wii](../Page/Wii.md "wikilink"))
+33. 드래곤볼 Z 스파킹\! 메테오 ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink")),([Wii](../Page/Wii.md "wikilink"))
 34. 드래곤볼 Z 인피니트 월드 ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink"))
 35. 드래곤볼 Z 버스트 리미트 ([PS3](https://ko.wikipedia.org/wiki/PS3 "wikilink")),([XBOX360](https://ko.wikipedia.org/wiki/XBOX360 "wikilink"))
 36. 드래곤볼 Z SAGAS ([XBOX](https://ko.wikipedia.org/wiki/XBOX "wikilink"))
-37. 드래곤볼 Z 진 무도회 ([PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"))
-38. 드래곤볼 Z 진 무도회2 ([PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"))
+37. 드래곤볼 Z 진 무도회 ([PSP](../Page/플레이스테이션_포터블.md "wikilink"))
+38. 드래곤볼 Z 진 무도회2 ([PSP](../Page/플레이스테이션_포터블.md "wikilink"))
 39. 드래곤볼 Z 무공열전 ([NDS](https://ko.wikipedia.org/wiki/NDS "wikilink"))
 40. 드래곤볼 Z 머나먼 오공전설 ([NDS](https://ko.wikipedia.org/wiki/NDS "wikilink"))
 
@@ -472,7 +472,7 @@
 
 :\* [드래곤볼](../Page/드래곤볼_\(애니메이션\).md "wikilink")
 
-:\* [드래곤볼 GT](https://ko.wikipedia.org/wiki/드래곤볼_GT "wikilink")
+:\* [드래곤볼 GT](../Page/드래곤볼_GT.md "wikilink")
 
 :\* [드래곤볼 AF](https://ko.wikipedia.org/wiki/드래곤볼_AF "wikilink")(동인지)
 

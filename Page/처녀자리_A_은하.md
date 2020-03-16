@@ -43,25 +43,25 @@ M87은 처녀자리에서 높은 곳에 자리잡고 있으며, 거의 머리털
 
 메시에 87의 질량은 거의 대부분 은하핵에 집중되어 있다.\[68\] 메시에 87의 은하핵에서 10만 광년(32 킬로파섹)까지의 질량은 (2.4 ± 0.6) × 10<sup>12</sup> M<sub>◉</sub>이다.\[69\] 그러나 별의 분포나 은하핵의 활동에 따라 이 은하의 질량은 우리 은하의 200배로 불어날 것이다.\[70\] 성간 물질이나 가스가 연간 2\~3 M<sub>◉</sub>만큼 이 은하로 들어가고 있다. 이는 우리 은하에 유입되는 성간 물질이나 가스의 양보다도 더 많은 것이다.\[71\]
 
-M87 은하는 우리 은하에 비해 아주 많은 구상 성단이 있으며 우리 은하의 60배, 솜브레로 은하의 6배에 달하는 구상 성단이 있다. 우리 은하는 150\~200개 정도의 구상 성단을 가지고 있다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")의 조사 결과 M87 은하의 중심핵 주변 25'쯤에 12,000 ± 800개의 구상 성단이 있는 것으로 밝혀졌다.\[72\] 이 구상 성단 모두 중심핵을 중심으로 돌고 있다.
+M87 은하는 우리 은하에 비해 아주 많은 구상 성단이 있으며 우리 은하의 60배, 솜브레로 은하의 6배에 달하는 구상 성단이 있다. 우리 은하는 150\~200개 정도의 구상 성단을 가지고 있다. [2006년](../Page/2006년.md "wikilink")의 조사 결과 M87 은하의 중심핵 주변 25'쯤에 12,000 ± 800개의 구상 성단이 있는 것으로 밝혀졌다.\[72\] 이 구상 성단 모두 중심핵을 중심으로 돌고 있다.
 
 ## 전파
 
-1918 년,릭 천문 관측소에서 [히버 커티스](https://ko.wikipedia.org/wiki/히버_커티스 "wikilink")(1872\~1942. Curtis, Heber, [할로 섀플리와](https://ko.wikipedia.org/wiki/할로_섀플리 "wikilink") 외부 은하의 존재에 대해 [대논쟁](../Page/대논쟁_\(천문학\).md "wikilink")(Great Debate)을 벌인 적이 있음.)가 메시에 87을 관측하다가 방출되는 전파를 보고 "흥미로운 전파"로 묘사하였다. 메시에 87의 핵에서 방출되는 이 방사선은 적어도 5000광년까지 방출되었으며, 이 방사선은 연간 이 은하에서 방출된 여러 가지 원소와 화합물, 전파, 빛, X선 등으로 이루어져, [초대질량 블랙홀이](../Page/초대질량_블랙홀.md "wikilink") 가장 가능성이 (주위에 은하핵을 더 빠르게 회전하게 하는 디스크의 발견에 의해 만들어진 블랙홀)있다. 메시에 87 은하의 초대질량 블랙홀의 질량은 약 3 억 (3) 태양 질량 정도로 추정된다. M87은 [X선](https://ko.wikipedia.org/wiki/X선 "wikilink")의 강한 근원이 된다는 것을 알아내었다. 그래서 메시에 87은 은하핵에서 방출되는 전파를 연구하는 데 최고의 은하계이다.\[73\] \[74\] \[75\]
+1918 년,릭 천문 관측소에서 [히버 커티스](https://ko.wikipedia.org/wiki/히버_커티스 "wikilink")(1872\~1942. Curtis, Heber, [할로 섀플리와](../Page/할로_섀플리.md "wikilink") 외부 은하의 존재에 대해 [대논쟁](../Page/대논쟁_\(천문학\).md "wikilink")(Great Debate)을 벌인 적이 있음.)가 메시에 87을 관측하다가 방출되는 전파를 보고 "흥미로운 전파"로 묘사하였다. 메시에 87의 핵에서 방출되는 이 방사선은 적어도 5000광년까지 방출되었으며, 이 방사선은 연간 이 은하에서 방출된 여러 가지 원소와 화합물, 전파, 빛, X선 등으로 이루어져, [초대질량 블랙홀이](../Page/초대질량_블랙홀.md "wikilink") 가장 가능성이 (주위에 은하핵을 더 빠르게 회전하게 하는 디스크의 발견에 의해 만들어진 블랙홀)있다. 메시에 87 은하의 초대질량 블랙홀의 질량은 약 3 억 (3) 태양 질량 정도로 추정된다. M87은 [X선](https://ko.wikipedia.org/wiki/X선 "wikilink")의 강한 근원이 된다는 것을 알아내었다. 그래서 메시에 87은 은하핵에서 방출되는 전파를 연구하는 데 최고의 은하계이다.\[73\] \[74\] \[75\]
 
 ### 초광속의 동작
 
-위의 사진은 [허블 우주 망원경에](https://ko.wikipedia.org/wiki/허블_우주_망원경 "wikilink") 의해 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 포착되었으며, M87의 전파의 움직임에서 4 내지 6 배 정도의 속도를 측정했다. 이 전파의 움직임은 제트기의 속도와 비교하여 시각적 결과 상대적으로 움직임이 사실이 아닌 빛의 속도를 뛰어넘는 이른바 초광속으로 방출되는 것으로 추정된다. 그러나 이러한 움직임 감지가 BL Lac 개체와 전파 은하들과 모두 똑같은 현상이며, 활성 은하와 다른 관점에서 보았을 때 달라질 수 있다.\[76\]
+위의 사진은 [허블 우주 망원경에](https://ko.wikipedia.org/wiki/허블_우주_망원경 "wikilink") 의해 [1999년](../Page/1999년.md "wikilink")에 포착되었으며, M87의 전파의 움직임에서 4 내지 6 배 정도의 속도를 측정했다. 이 전파의 움직임은 제트기의 속도와 비교하여 시각적 결과 상대적으로 움직임이 사실이 아닌 빛의 속도를 뛰어넘는 이른바 초광속으로 방출되는 것으로 추정된다. 그러나 이러한 움직임 감지가 BL Lac 개체와 전파 은하들과 모두 똑같은 현상이며, 활성 은하와 다른 관점에서 보았을 때 달라질 수 있다.\[76\]
 
 ### X선 루프와 고리형 발광
 
-찬드라 X선 망원경이 관측한 - X선에서 생성한 은하핵 주변의 고리 - X선 가스는 M87의 밝은 은하핵의 전파를 말한다. 이러한 현상은 은하핵과 은하핵이 방출하는 전파의 압력에 의해 나타난다. 가장 유력한 원인은 [초대질량 블랙홀로](../Page/초대질량_블랙홀.md "wikilink"), 여기에서 방출하는 전파와 X선 그리고 빛의 속도변화로 인해 발생한다. 이것의 마이너 분화가 발생할 때마다 [전파](../Page/전파.md "wikilink"), [빛](https://ko.wikipedia.org/wiki/빛 "wikilink"), [X선](https://ko.wikipedia.org/wiki/X선 "wikilink")이 6백만년간 방출되었다.
+찬드라 X선 망원경이 관측한 - X선에서 생성한 은하핵 주변의 고리 - X선 가스는 M87의 밝은 은하핵의 전파를 말한다. 이러한 현상은 은하핵과 은하핵이 방출하는 전파의 압력에 의해 나타난다. 가장 유력한 원인은 [초대질량 블랙홀로](../Page/초대질량_블랙홀.md "wikilink"), 여기에서 방출하는 전파와 X선 그리고 빛의 속도변화로 인해 발생한다. 이것의 마이너 분화가 발생할 때마다 [전파](../Page/전파.md "wikilink"), [빛](../Page/빛.md "wikilink"), [X선](https://ko.wikipedia.org/wiki/X선 "wikilink")이 6백만년간 방출되었다.
 
 하나는 은하핵의 주요 활동으로 인한, 충격파가 85,000 광년 떨어져 있는 은하핵의 초대질량 블랙홀 주위에 있다. 이로 인해 X선 등이 최대 100,000 광년까지 퍼졌으며, 7천만 년 전에, 정기적인 활동으로 인해 폭발적으로 별들이 형성해서, M87의 진화에 심각하게 영향을 주는 것일 수 있다. M87이 큰 [나선 은하가](https://ko.wikipedia.org/wiki/나선_은하 "wikilink") 되는 것을 막고 있는 것은 전파와 X선, 빛이라고 보면 된다. (M87 전파의 존재는 56 옥타브 마이너 분화와 58-59 옥타브 이하의 활동이다.)\[77\]
 
 ### 감마선 방출
 
-M87은 감마선의 아주 좋은 근원이다. 따라서 만 번 이상의 가시 광선으로 인해 나오는 M87에서 나오는 강력한 감마선 관측이 [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")대 후반부터 시작되었지만, 최근에는 [헤스 체렌코프 망원경을](https://ko.wikipedia.org/wiki/헤스_체렌코프_망원경 "wikilink") 사용하여 관찰되었으며, M87에서 나오는 감마선 유량의 변화를 측정하고 발견 며칠 동안은 유동적으로 변경된다.
+M87은 감마선의 아주 좋은 근원이다. 따라서 만 번 이상의 가시 광선으로 인해 나오는 M87에서 나오는 강력한 감마선 관측이 [1990년](../Page/1990년.md "wikilink")대 후반부터 시작되었지만, 최근에는 [헤스 체렌코프 망원경을](https://ko.wikipedia.org/wiki/헤스_체렌코프_망원경 "wikilink") 사용하여 관찰되었으며, M87에서 나오는 감마선 유량의 변화를 측정하고 발견 며칠 동안은 유동적으로 변경된다.
 
 그것은 일반적으로 초대질량 블랙홀이 M87의 중심에 위치하고, 그 초대질량 블랙홀이 3 정도로 보통 10<sup>5</sup> \~ 10<sup>10</sup> 정도 되기 때문이다. 그러나 사실은 몇 일 동안은 우리 태양계의 크기를 변경할 수 있는 것에 대해 M87은 감마선의 가장 좋은 근원이자 M87에있는 초대질량 블랙홀의 바로 근처에 있는 은하이다.\[78\] 일반적으로 빠르게 변화하는 속도는 작다.
 
@@ -189,6 +189,6 @@ NGC 4486B는 NGC 4486A보다 크기가 작은 타원 은하이다. 메시에 87 
 74.
 75.
 76. [J. A. Biretta, W. B. Sparks, and F. Macchetto, *Astrophys. J.* **520**, 621 (1999).;](http://www.journals.uchicago.edu/ApJ/journal/issues/ApJ/v520n2/39787/39787.html)
-77. ["Chandra Reviews Black Hole Musical: Epic But Off-Key"](http://chandra.harvard.edu/press/06_releases/press_100506.html), [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 확인.
-78. [Universe Today, Gamma Rays Pour From the Edge of a Supermassive Black Hole](http://www.universetoday.com/2006/10/27/gamma-rays-pour-from-the-edge-of-a-supermassive-black-hole/), [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 확인.
+77. ["Chandra Reviews Black Hole Musical: Epic But Off-Key"](http://chandra.harvard.edu/press/06_releases/press_100506.html), [2006년](../Page/2006년.md "wikilink") [10월](../Page/10월.md "wikilink") 확인.
+78. [Universe Today, Gamma Rays Pour From the Edge of a Supermassive Black Hole](http://www.universetoday.com/2006/10/27/gamma-rays-pour-from-the-edge-of-a-supermassive-black-hole/), [2006년](../Page/2006년.md "wikilink") [10월](../Page/10월.md "wikilink") 확인.
 79. [태양보다 무려 66억배 무거운 괴물 '블랙홀'](http://photo.media.daum.net/photogallery/digital/spaceman/view.html?photoid=2773&newsid=20110115162606922&p=seoul/)

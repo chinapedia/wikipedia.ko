@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Crawling](https://ko.wikipedia.org/wiki/Crawling).
 
 
-《**Crawling**》은 [린킨 파크의](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink") 정규 음반 *[Hybrid Theory](../Page/Hybrid_Theory.md "wikilink")*의 5번째 트랙이자 2번째 싱글 음반이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 발매되어 2002년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 최고의 하드 록 퍼포먼스 부문에서 수상했다.
+《**Crawling**》은 [린킨 파크의](../Page/린킨_파크.md "wikilink") 정규 음반 *[Hybrid Theory](../Page/Hybrid_Theory.md "wikilink")*의 5번째 트랙이자 2번째 싱글 음반이다. [2001년](../Page/2001년.md "wikilink")에 발매되어 2002년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 최고의 하드 록 퍼포먼스 부문에서 수상했다.
 
 ## 곡
 
-"Crawling" 은 린킨 파크 노래 중 랩핑이 얼마 없는 노래 중 하나이다. [마이크 시노다는](../Page/마이크_시노다.md "wikilink") 유일하게 후렴전만 반복한다. 또한 악보에는 [일렉트로니카](https://ko.wikipedia.org/wiki/전자_음악 "wikilink") 신스, 턴테이블스 스크래치가 들어가 있으며, 후렴구에는 [체스터 베닝턴의](../Page/체스터_베닝턴.md "wikilink") 불안한 마음이 가득 담긴 가사로 이루어져 있다.
+"Crawling" 은 린킨 파크 노래 중 랩핑이 얼마 없는 노래 중 하나이다. [마이크 시노다는](../Page/마이크_시노다.md "wikilink") 유일하게 후렴전만 반복한다. 또한 악보에는 [일렉트로니카](../Page/전자_음악.md "wikilink") 신스, 턴테이블스 스크래치가 들어가 있으며, 후렴구에는 [체스터 베닝턴의](../Page/체스터_베닝턴.md "wikilink") 불안한 마음이 가득 담긴 가사로 이루어져 있다.
 
 데모 버전에는 마지막 후렴 전 마이크 시노다의 랩핑이 나오기도 한다.
 
@@ -17,7 +17,7 @@
 
 ## 트리비아
 
-  - [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [카툰네트워크](https://ko.wikipedia.org/wiki/카툰네트워크 "wikilink")에서 방송되었던 [신기동전기 건담W](https://ko.wikipedia.org/wiki/신기동전기_건담W "wikilink") OST로 사용되었었다.
+  - [미국](../Page/미국.md "wikilink") [카툰네트워크](https://ko.wikipedia.org/wiki/카툰네트워크 "wikilink")에서 방송되었던 [신기동전기 건담W](https://ko.wikipedia.org/wiki/신기동전기_건담W "wikilink") OST로 사용되었었다.
   - [2008년 프로젝트 레볼루션에서](https://ko.wikipedia.org/wiki/프로젝트_레볼루션#2008년_프로젝트_레볼루션 "wikilink") [크리스 코넬과](../Page/크리스_코넬.md "wikilink") 함께 공연하였다.
 
 ## 수록곡

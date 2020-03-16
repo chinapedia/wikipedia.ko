@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Goodbye Best Album](https://ko.wikipedia.org/wiki/Goodbye_Best_Album).
 
 
-《***Goodbye Best Album***》는 1996년에 2월에 출시된 [서태지와 아이들의](https://ko.wikipedia.org/wiki/서태지와_아이들 "wikilink") [베스트 앨범이자](https://ko.wikipedia.org/wiki/베스트_앨범 "wikilink") 그들의 마지막 앨범이다.\[1\]\[2\]\[3\]\[4\]
+《***Goodbye Best Album***》는 1996년에 2월에 출시된 [서태지와 아이들의](../Page/서태지와_아이들.md "wikilink") [베스트 앨범이자](https://ko.wikipedia.org/wiki/베스트_앨범 "wikilink") 그들의 마지막 앨범이다.\[1\]\[2\]\[3\]\[4\]
 
 ## 제작
 
@@ -9,7 +9,7 @@
 
 ### 시대유감
 
-"[시대유감](https://ko.wikipedia.org/wiki/시대유감 "wikilink")"은 심의 문제로 앨범에 실리지 못했으며 1996년 6월 음반 사전심의제도가 폐지되면서 무삭제 버전이 별도의 싱글로 발매되었다.
+"[시대유감](../Page/시대유감.md "wikilink")"은 심의 문제로 앨범에 실리지 못했으며 1996년 6월 음반 사전심의제도가 폐지되면서 무삭제 버전이 별도의 싱글로 발매되었다.
 
 ## LP판 발매
 
@@ -27,9 +27,9 @@ Goodbye Best Album의 LP판인 *' Seotaiji And Boys 92 \~ 96 Best Album*' 이 20
 
 <!-- end list -->
 
-  - [서태지](https://ko.wikipedia.org/wiki/서태지 "wikilink") - 보컬, 랩, 프로듀서
+  - [서태지](../Page/서태지.md "wikilink") - 보컬, 랩, 프로듀서
   - [양현석](../Page/양현석.md "wikilink") - 보컬, 랩
-  - [이주노](https://ko.wikipedia.org/wiki/이주노 "wikilink") - 보컬, 랩
+  - [이주노](../Page/이주노.md "wikilink") - 보컬, 랩
 
 <!-- end list -->
 
@@ -49,6 +49,6 @@ Goodbye Best Album의 LP판인 *' Seotaiji And Boys 92 \~ 96 Best Album*' 이 20
 [분류:팝 음반](https://ko.wikipedia.org/wiki/분류:팝_음반 "wikilink") [분류:록 음반](https://ko.wikipedia.org/wiki/분류:록_음반 "wikilink") [분류:힙합 음반](https://ko.wikipedia.org/wiki/분류:힙합_음반 "wikilink") [분류:베스트 음반](https://ko.wikipedia.org/wiki/분류:베스트_음반 "wikilink") [분류:서태지와 아이들의 음반](https://ko.wikipedia.org/wiki/분류:서태지와_아이들의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:1996년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:1996년_컴필레이션_음반 "wikilink")
 
 1.  [매니아디비](https://ko.wikipedia.org/wiki/매니아디비 "wikilink") - ["서태지와 아이들 - ‘*Goodbye Best Album*’"](http://www.maniadb.com/album.asp?a=121487)
-2.  [다음](https://ko.wikipedia.org/wiki/다음 "wikilink") 뮤직 - ["서태지와 아이들 - ‘*Goodbye Best Album*’"](http://music.daum.net/album/album.do?albumId=3961)
-3.  [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직 - ["서태지와 아이들 - *Goodbye Best Album*"](http://music.naver.com/album/index.nhn?albumId=1902)
-4.  [싸이월드](https://ko.wikipedia.org/wiki/싸이월드 "wikilink") BGM - ["서태지와 아이들 - ‘*Goodbye Best Album*’"](http://music.cyworld.com/album.asp?aid=13800)
+2.  [다음](../Page/다음.md "wikilink") 뮤직 - ["서태지와 아이들 - ‘*Goodbye Best Album*’"](http://music.daum.net/album/album.do?albumId=3961)
+3.  [네이버](../Page/네이버.md "wikilink") 뮤직 - ["서태지와 아이들 - *Goodbye Best Album*"](http://music.naver.com/album/index.nhn?albumId=1902)
+4.  [싸이월드](../Page/싸이월드.md "wikilink") BGM - ["서태지와 아이들 - ‘*Goodbye Best Album*’"](http://music.cyworld.com/album.asp?aid=13800)

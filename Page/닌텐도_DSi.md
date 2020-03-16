@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ DSi](https://ko.wikipedia.org/wiki/_DSi).
 
 
-**닌텐도 DSi**()는 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")사에서 발매된 [휴대용 게임기로](../Page/휴대용_게임기.md "wikilink"), [닌텐도 DS의](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 세 번째 시리즈이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink"), [일본](../Page/일본.md "wikilink")에서 18,900엔에 판매를 시작했으며, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink"), [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")에서는 iQue DSi라는 이름으로 발매했고, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 15일에](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") 198,000원으로 판매를 시작했다. 성능은 [닌텐도 DS 라이트와](../Page/닌텐도_DS_라이트.md "wikilink") 비슷하며, 디자인은 조금 변경되었다. White(화이트), Black(블랙), Blue(블루), Pink(핑크)의 4가지 색상으로 발매하였다.
+**닌텐도 DSi**()는 [닌텐도](../Page/닌텐도.md "wikilink")사에서 발매된 [휴대용 게임기로](../Page/휴대용_게임기.md "wikilink"), [닌텐도 DS의](../Page/닌텐도_DS.md "wikilink") 세 번째 시리즈이다. [2008년](../Page/2008년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink"), [일본](../Page/일본.md "wikilink")에서 18,900엔에 판매를 시작했으며, [2009년](../Page/2009년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink"), [중국](../Page/중국.md "wikilink")에서는 iQue DSi라는 이름으로 발매했고, [대한민국](../Page/대한민국.md "wikilink")에서는 [2010년](../Page/2010년.md "wikilink") [4월 15일에](../Page/4월_15일.md "wikilink") 198,000원으로 판매를 시작했다. 성능은 [닌텐도 DS 라이트와](../Page/닌텐도_DS_라이트.md "wikilink") 비슷하며, 디자인은 조금 변경되었다. White(화이트), Black(블랙), Blue(블루), Pink(핑크)의 4가지 색상으로 발매하였다.
 
 ## DSi 사양
 
@@ -46,7 +46,7 @@ DSi의 사양과 기타 달라진 점이다.
 
 <!-- end list -->
 
-  - 십자버튼 + A, B, X, Y버튼 + L/R 버튼 + START/SELECT버튼 + [터치스크린](https://ko.wikipedia.org/wiki/터치스크린 "wikilink") + [마이크](../Page/마이크.md "wikilink") + [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")
+  - 십자버튼 + A, B, X, Y버튼 + L/R 버튼 + START/SELECT버튼 + [터치스크린](../Page/터치스크린.md "wikilink") + [마이크](../Page/마이크.md "wikilink") + [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")
   - 종류는 카메라가 추가되었으며, 모든 버튼의 감도가 아주 좋아졌다.
 
 <!-- end list -->
@@ -56,7 +56,7 @@ DSi의 사양과 기타 달라진 점이다.
 <!-- end list -->
 
   - 배터리는 크기 감소를 위해 닌텐도 DSL보다 용량이 줄어들었다. 공식 홈페이지에서는 닌텐도 DSL의 작동시간을 최저밝기시 15\~19시간, 닌텐도 DSi의 작동시간을 최저밝기시 9\~14시간 이라고 밝히고 있다. 충전시간은 2시간 30분으로 DS라이트보다 30분정도 단축되었다.\[1\]
-  - 전용 닌텐도 DSi용 AC 어댑터로만 충전 가능하다.(DSi용 어댑터는 [닌텐도 DSi XL](https://ko.wikipedia.org/wiki/닌텐도_DSi_XL "wikilink"),[닌텐도 3DS](https://ko.wikipedia.org/wiki/닌텐도_3DS "wikilink"),[닌텐도 3DS XL](../Page/닌텐도_3DS_XL.md "wikilink"),[닌텐도 2DS](../Page/닌텐도_2DS.md "wikilink"),[닌텐도 2DS XL과도](https://ko.wikipedia.org/wiki/닌텐도_2DS_XL "wikilink") 호환된다.)
+  - 전용 닌텐도 DSi용 AC 어댑터로만 충전 가능하다.(DSi용 어댑터는 [닌텐도 DSi XL](../Page/닌텐도_DSi_XL.md "wikilink"),[닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink"),[닌텐도 3DS XL](../Page/닌텐도_3DS_XL.md "wikilink"),[닌텐도 2DS](../Page/닌텐도_2DS.md "wikilink"),[닌텐도 2DS XL과도](https://ko.wikipedia.org/wiki/닌텐도_2DS_XL "wikilink") 호환된다.)
   - 전원 버튼은 DSi 내부 터치스크린 좌측에 배치되었으며, 어느 색상이든 전원 버튼은 회색이다. 세게 눌러야 작동하며, 짧게 누르면 DSi 메뉴로 가고, 길게 누르면 켜지거나 꺼진다.
 
 <!-- end list -->
@@ -116,7 +116,7 @@ DSi 호환카드 또는 DSi 전용카드의 경우 해당 카드의 지역코드
 
 ## 인터넷
 
-일부 해외에서 출시된 닌텐도 DSi에서는 DSi 숍에서 전용 [오페라](https://ko.wikipedia.org/wiki/오페라_\(웹_브라우저\) "wikilink") 웹 브라우저(닌텐도 DSi 브라우저)를 닌텐도 DSi 숍에서 무료로 다운로드받아 사용할 수 있으나, 대한민국의 닌텐도 DSi 숍에는 웹 브라우저가 출시되지 않은 상태로 DSi 숍 서비스가 종료되었다.\[2\] 일부 해외에서 발매된 DSi LL(DSi XL)에서는 닌텐도 DSi 브라우저가 본체에 내장되어 있어, 따로 다운로드할 필요가 없다.
+일부 해외에서 출시된 닌텐도 DSi에서는 DSi 숍에서 전용 [오페라](../Page/오페라_\(웹_브라우저\).md "wikilink") 웹 브라우저(닌텐도 DSi 브라우저)를 닌텐도 DSi 숍에서 무료로 다운로드받아 사용할 수 있으나, 대한민국의 닌텐도 DSi 숍에는 웹 브라우저가 출시되지 않은 상태로 DSi 숍 서비스가 종료되었다.\[2\] 일부 해외에서 발매된 DSi LL(DSi XL)에서는 닌텐도 DSi 브라우저가 본체에 내장되어 있어, 따로 다운로드할 필요가 없다.
 
 ## 닌텐도 포인트
 
@@ -128,7 +128,7 @@ DSi 호환카드 또는 DSi 전용카드의 경우 해당 카드의 지역코드
 
 ## DSi 스페셜 에디션 패키지
 
-「DSi 스페셜 에디션」과 '[메이플스토리 DS](https://ko.wikipedia.org/wiki/메이플스토리_DS "wikilink")' 한글판이 동봉되어 있는 한정판 패키지가 2010년 4월 15일에 발매되었다. 이 DSi 스페셜 에디션은, DSi가 Red(레드)색상이고, 외부 카메라 부분에 메이플스토리 캐릭터가 그려져 있다. Red(레드) DSi에는 광택이 조금 있다. 이 패키지는 공식적으로 일부 매장에서만 판매한다. 또,「DSi 스페셜 에디션」과 '포켓몬스터 블랙,화이트' 한글판이 동봉되어 있는 한정판 패키지가 2011년 4월 21일에 발매되었다. 이 DSi 스페셜 에디션은, DSi가 [포켓몬스터 블랙의](https://ko.wikipedia.org/wiki/포켓몬스터_블랙 "wikilink") 경우 본체의 색깔이 Black([블랙](../Page/블랙.md "wikilink"))색상이고, [포켓몬스터 화이트의](https://ko.wikipedia.org/wiki/포켓몬스터_화이트 "wikilink") 경우는 본체의 색깔이 White([화이트](../Page/화이트.md "wikilink"))색상이다. 메이플스토리와 달리 앞면에 [레시라무](https://ko.wikipedia.org/wiki/레시라무 "wikilink")와 [제크로무](https://ko.wikipedia.org/wiki/제크로무 "wikilink") 그림이 있다. \[5\] \[6\]
+「DSi 스페셜 에디션」과 '[메이플스토리 DS](../Page/메이플스토리_DS.md "wikilink")' 한글판이 동봉되어 있는 한정판 패키지가 2010년 4월 15일에 발매되었다. 이 DSi 스페셜 에디션은, DSi가 Red(레드)색상이고, 외부 카메라 부분에 메이플스토리 캐릭터가 그려져 있다. Red(레드) DSi에는 광택이 조금 있다. 이 패키지는 공식적으로 일부 매장에서만 판매한다. 또,「DSi 스페셜 에디션」과 '포켓몬스터 블랙,화이트' 한글판이 동봉되어 있는 한정판 패키지가 2011년 4월 21일에 발매되었다. 이 DSi 스페셜 에디션은, DSi가 [포켓몬스터 블랙의](https://ko.wikipedia.org/wiki/포켓몬스터_블랙 "wikilink") 경우 본체의 색깔이 Black([블랙](../Page/블랙.md "wikilink"))색상이고, [포켓몬스터 화이트의](https://ko.wikipedia.org/wiki/포켓몬스터_화이트 "wikilink") 경우는 본체의 색깔이 White([화이트](../Page/화이트.md "wikilink"))색상이다. 메이플스토리와 달리 앞면에 [레시라무](https://ko.wikipedia.org/wiki/레시라무 "wikilink")와 [제크로무](https://ko.wikipedia.org/wiki/제크로무 "wikilink") 그림이 있다. \[5\] \[6\]
 
 ## 각주
 
@@ -136,11 +136,11 @@ DSi 호환카드 또는 DSi 전용카드의 경우 해당 카드의 지역코드
 
 ## 같이 보기
 
-  - [닌텐도 DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink")
+  - [닌텐도 DS](../Page/닌텐도_DS.md "wikilink")
   - [닌텐도 DS 라이트](../Page/닌텐도_DS_라이트.md "wikilink")
-  - [닌텐도 DSi XL](https://ko.wikipedia.org/wiki/닌텐도_DSi_XL "wikilink")
+  - [닌텐도 DSi XL](../Page/닌텐도_DSi_XL.md "wikilink")
   - [DSiWare](https://ko.wikipedia.org/wiki/DSiWare "wikilink")
-  - [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")
+  - [Wii](../Page/Wii.md "wikilink")
 
 ## 외부 링크
 

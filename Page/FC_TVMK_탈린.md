@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC TVMK ](https://ko.wikipedia.org/wiki/FC_TVMK_).
 
 
-**FC TVMK 탈린**은 [에스토니아](https://ko.wikipedia.org/wiki/에스토니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 수도인 [탈린](https://ko.wikipedia.org/wiki/탈린 "wikilink")을 연고지로 삼고 있다. 2005년에는 최초로 [에스토니아 메이스트릴리가](https://ko.wikipedia.org/wiki/에스토니아_메이스트릴리가 "wikilink") 우승을 차지하였다. TVMK의 홈구장은 [카드리오루 경기장인데](https://ko.wikipedia.org/wiki/카드리오루_경기장 "wikilink"), [레바디아 탈린과](../Page/FC_레바디아_탈린.md "wikilink") 경기장을 함께 사용하였었다. 2008시즌이 끝나고 나서 클럽은 해산되었다.
+**FC TVMK 탈린**은 [에스토니아](../Page/에스토니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 수도인 [탈린](../Page/탈린.md "wikilink")을 연고지로 삼고 있다. 2005년에는 최초로 [에스토니아 메이스트릴리가](https://ko.wikipedia.org/wiki/에스토니아_메이스트릴리가 "wikilink") 우승을 차지하였다. TVMK의 홈구장은 [카드리오루 경기장인데](https://ko.wikipedia.org/wiki/카드리오루_경기장 "wikilink"), [레바디아 탈린과](../Page/FC_레바디아_탈린.md "wikilink") 경기장을 함께 사용하였었다. 2008시즌이 끝나고 나서 클럽은 해산되었다.
 
 ## 역사
 
@@ -13,7 +13,7 @@
   - **FC 말레코르** (1996\~1997)
   - **TVMK 탈린** (1997\~2008)
 
-[1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink")에 창단된 TVMK 탈린은 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink")까지 지역 리그에서 활동하였다. 1986년에 지역 리그 우승을 하며 [II 리가](https://ko.wikipedia.org/wiki/II_리가 "wikilink") (에스토니아의 3부 리그)로 승격하였다. [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에는 [에스토니아 SSR](https://ko.wikipedia.org/wiki/에스토니아_소비에트_사회주의_공화국 "wikilink") 리그 우승을 하였고, 다음 해인 1991년에는 리그와 컵 대회를 동시에 우승하였다. 다음 해에 [에스토니아](https://ko.wikipedia.org/wiki/에스토니아 "wikilink")가 독립을 하고 나서 클럽 명칭을 TVMV 탈린으로 변경하였다. 1993년에는 니콜사에서 클럽을 인수하였는데, 일반적으로 원래의 TVMK의 역사는 이 시점에서 종료되었다고 여겨진다. 새롭게 만들어진 [니콜 탈린은](https://ko.wikipedia.org/wiki/FC_니콜_탈린 "wikilink") 2년 후에 만들어지는 [란타나 탈린의](https://ko.wikipedia.org/wiki/FC_란타나_탈린 "wikilink") 원형이다. 가능한 혼란을 피하기 위해, 니콜 탈린은 독립적인 클럽으로 보고 있다. TVMK의 역사는 일반적으로 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")에 말렉코르사에서 만든 테발트 탈린으로 이어진다. 클럽의 명칭은 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 *AS TVMK*로 변경되었다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에는 클럽 역사상 최초로 리그 우승을 하였다.
+[1951년](../Page/1951년.md "wikilink")에 창단된 TVMK 탈린은 [1986년](../Page/1986년.md "wikilink")까지 지역 리그에서 활동하였다. 1986년에 지역 리그 우승을 하며 [II 리가](https://ko.wikipedia.org/wiki/II_리가 "wikilink") (에스토니아의 3부 리그)로 승격하였다. [1990년](../Page/1990년.md "wikilink")에는 [에스토니아 SSR](../Page/에스토니아_소비에트_사회주의_공화국.md "wikilink") 리그 우승을 하였고, 다음 해인 1991년에는 리그와 컵 대회를 동시에 우승하였다. 다음 해에 [에스토니아](../Page/에스토니아.md "wikilink")가 독립을 하고 나서 클럽 명칭을 TVMV 탈린으로 변경하였다. 1993년에는 니콜사에서 클럽을 인수하였는데, 일반적으로 원래의 TVMK의 역사는 이 시점에서 종료되었다고 여겨진다. 새롭게 만들어진 [니콜 탈린은](https://ko.wikipedia.org/wiki/FC_니콜_탈린 "wikilink") 2년 후에 만들어지는 [란타나 탈린의](https://ko.wikipedia.org/wiki/FC_란타나_탈린 "wikilink") 원형이다. 가능한 혼란을 피하기 위해, 니콜 탈린은 독립적인 클럽으로 보고 있다. TVMK의 역사는 일반적으로 [1995년](../Page/1995년.md "wikilink")에 말렉코르사에서 만든 테발트 탈린으로 이어진다. 클럽의 명칭은 [1997년](../Page/1997년.md "wikilink")에 *AS TVMK*로 변경되었다. [2005년](../Page/2005년.md "wikilink")에는 클럽 역사상 최초로 리그 우승을 하였다.
 
 2007년의 시즌까지 리그 우승 1회, 준우승 3회와 컵 대회 우승 2회, 준우승 2회를 하고 있다.
 
@@ -91,7 +91,7 @@
 <td><p><a href="../Page/UEFA_인터토토컵.md" title="wikilink">UEFA 인터토토컵</a></p></td>
 <td><p>1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_홍카" title="wikilink">홍카</a></p></td>
+<td><p><a href="../Page/FC_홍카.md" title="wikilink">홍카</a></p></td>
 <td><p>0-0, <strong>2-4</strong></p></td>
 </tr>
 <tr class="even">

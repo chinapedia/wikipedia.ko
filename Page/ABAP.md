@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ABAP](https://ko.wikipedia.org/wiki/ABAP).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:abap1.jpg "wikilink") **ABAP** (**A**dvanced **B**usiness **A**pplication **P**rogramming, originally **A**llgemeiner **B**erichts-**A**ufbereitungs-**P**rozessor = general report creation processor)는 협업 비즈니스 솔루션 회사 [SAP AG가](https://ko.wikipedia.org/wiki/SAP_AG "wikilink") 개발한 [고급 프로그래밍 언어이다](https://ko.wikipedia.org/wiki/고급_프로그래밍_언어 "wikilink"). 고급 비즈니스 응용 프로그램을 만드는 언어이기도 하다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:abap1.jpg "wikilink") **ABAP** (**A**dvanced **B**usiness **A**pplication **P**rogramming, originally **A**llgemeiner **B**erichts-**A**ufbereitungs-**P**rozessor = general report creation processor)는 협업 비즈니스 솔루션 회사 [SAP AG가](https://ko.wikipedia.org/wiki/SAP_AG "wikilink") 개발한 [고급 프로그래밍 언어이다](../Page/고급_프로그래밍_언어.md "wikilink"). 고급 비즈니스 응용 프로그램을 만드는 언어이기도 하다.
 
 ## 개요
 
-ABAP이라는 프로그래밍 언어는 4세대 언어로, 기존의 3세대 언어 C나 C++, JAVA 보다 자연어에 더 가깝다. 이 언어는 SAP사에서 제공하는 [ERP 소프트웨어인](https://ko.wikipedia.org/wiki/전사적_자원_관리 "wikilink") [SAP R/3](https://ko.wikipedia.org/wiki/SAP_R/3 "wikilink") 시스템을 회사에 맞게 구축하는 데 쓰이는 SAP R/3에 기반을 둔 언어이다. 오른쪽의 그림은 SAP R/3 시스템 구조이다. ABAP 프로그래밍은 데이터베이스를 짜거나 구성 요소를 만드는 것이 아니라 [GUI](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 계층과 응용 프로그램 계층 사이에서 비즈니스 프로세스(Business process)에 따라 사용자가 원하는 기능을 가진 프로그램을 제공하도록 개발하는 것이다.
+ABAP이라는 프로그래밍 언어는 4세대 언어로, 기존의 3세대 언어 C나 C++, JAVA 보다 자연어에 더 가깝다. 이 언어는 SAP사에서 제공하는 [ERP 소프트웨어인](https://ko.wikipedia.org/wiki/전사적_자원_관리 "wikilink") [SAP R/3](https://ko.wikipedia.org/wiki/SAP_R/3 "wikilink") 시스템을 회사에 맞게 구축하는 데 쓰이는 SAP R/3에 기반을 둔 언어이다. 오른쪽의 그림은 SAP R/3 시스템 구조이다. ABAP 프로그래밍은 데이터베이스를 짜거나 구성 요소를 만드는 것이 아니라 [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") 계층과 응용 프로그램 계층 사이에서 비즈니스 프로세스(Business process)에 따라 사용자가 원하는 기능을 가진 프로그램을 제공하도록 개발하는 것이다.
 
 ## ABAP 프로그램 구조 및 흐름
 

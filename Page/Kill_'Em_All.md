@@ -8,7 +8,7 @@
   - 초기 타이틀은 Metal Up Your ASS였으나 Kill 'Em All로 수정되어 1983년 7월 25일 발매되었다. 1988년에는 '빌보드 200' 차트에서 120위에 올랐다.
   - "Hit the Lights"와 "Jump in the Fire"는 첫 데모앨범 《No Life 'Til Leather》에 수록되기도 하였다.
   - "The Four Horsemen"의 원제는 "The Mechanix"이다. 메탈리카의 전 기타리스트이자 이 곡을 만든 [데이브 머스테인은](https://ko.wikipedia.org/wiki/데이브_머스테인 "wikilink") 후에 자신이 이끄는 메탈 밴드 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 첫 정규음반《[Killing Is My Business... and Business Is Good\!](../Page/Killing_Is_My_Business..._and_Business_Is_Good!.md "wikilink")》에 자신이 만든 부분, 가사와 원래의 템포로 녹음해 "Mechanix"라는 제목으로 수록했다.
-  - 1988년 엘렉트라 레이블에서 발매된 음반에서는 보너스트랙으로 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 헤비메탈 밴드인 [다이아몬드 헤드](https://ko.wikipedia.org/wiki/다이아몬드_헤드 "wikilink")([Diamond Head](https://ko.wikipedia.org/wiki/:en:Diamond_Head_\(band\) "wikilink"))의 'Am I Evil?'과 [블리츠크리크](https://ko.wikipedia.org/wiki/블리츠크리크 "wikilink")([Blitzkrieg](https://ko.wikipedia.org/wiki/:en:Blitzkrieg_\(band\) "wikilink"))의 'Blitzkrieg'를 메탈리카가 커버한 곡이 수록되었다.
+  - 1988년 엘렉트라 레이블에서 발매된 음반에서는 보너스트랙으로 [영국](../Page/영국.md "wikilink")의 헤비메탈 밴드인 [다이아몬드 헤드](https://ko.wikipedia.org/wiki/다이아몬드_헤드 "wikilink")([Diamond Head](https://ko.wikipedia.org/wiki/:en:Diamond_Head_\(band\) "wikilink"))의 'Am I Evil?'과 [블리츠크리크](https://ko.wikipedia.org/wiki/블리츠크리크 "wikilink")([Blitzkrieg](https://ko.wikipedia.org/wiki/:en:Blitzkrieg_\(band\) "wikilink"))의 'Blitzkrieg'를 메탈리카가 커버한 곡이 수록되었다.
   - 1989년, 잡지 '롤링 스톤즈'에서 선정한〈80년대 훌륭한 앨범 100위〉에서 35위에 올랐다.
   - 발매 초기에는 1500장만 사본이 되었으나, 지금은 미국내에서만 300만장이 팔리면서 3X플래티넘을 인정받았다.
 
@@ -35,9 +35,9 @@
 
 <!-- end list -->
 
-  - [제임스 헷필드](https://ko.wikipedia.org/wiki/제임스_헷필드 "wikilink")(James Hetfield) - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink")
+  - [제임스 헷필드](../Page/제임스_헷필드.md "wikilink")(James Hetfield) - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink")
   - [커크 해밋](https://ko.wikipedia.org/wiki/커크_해밋 "wikilink")(Kirk Hammett) - 리드 기타
-  - [클리프 버튼](https://ko.wikipedia.org/wiki/클리프_버튼 "wikilink")(Cliff Burton) - [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 백킹보컬
+  - [클리프 버튼](https://ko.wikipedia.org/wiki/클리프_버튼 "wikilink")(Cliff Burton) - [베이스 기타](../Page/베이스_기타.md "wikilink"), 백킹보컬
   - [라스 울리히](https://ko.wikipedia.org/wiki/라스_울리히 "wikilink")(Lars Ulrich) - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
 
 <!-- end list -->

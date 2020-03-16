@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [BMK](https://ko.wikipedia.org/wiki/BMK).
 
 
-**BMK**(, [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") \~ )는 미국의 [소울](https://ko.wikipedia.org/wiki/소울 "wikilink") 가수이다.
+**BMK**(, [1973년](../Page/1973년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") \~ )는 미국의 [소울](https://ko.wikipedia.org/wiki/소울 "wikilink") 가수이다.
 
 ## 생애
 
-[서울재즈아카데미](https://ko.wikipedia.org/wiki/서울재즈아카데미 "wikilink") 보컬학과를 졸업한 그녀는 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 언더그라운드 [라이브 클럽에서](https://ko.wikipedia.org/wiki/라이브_클럽 "wikilink") 재즈 록 음악 가수로 첫 데뷔하였고 이후 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 창립한 BMK 소울 트레인 보컬아카데미라는 학원에서 원장을 맡고 있다.
+[서울재즈아카데미](../Page/서울재즈아카데미.md "wikilink") 보컬학과를 졸업한 그녀는 [1994년](../Page/1994년.md "wikilink") 언더그라운드 [라이브 클럽에서](https://ko.wikipedia.org/wiki/라이브_클럽 "wikilink") 재즈 록 음악 가수로 첫 데뷔하였고 이후 [2011년](../Page/2011년.md "wikilink") 창립한 BMK 소울 트레인 보컬아카데미라는 학원에서 원장을 맡고 있다.
 
 ## 음반 목록
 

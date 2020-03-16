@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mv](https://ko.wikipedia.org/wiki/Mv).
 
 
-**`mv`**(move의 줄임말)는 하나 이상의 [파일](https://ko.wikipedia.org/wiki/파일 "wikilink")이나 [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")를 한 장소에서 한 다른 장소로 이동하도록 만드는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 명령어이다. 원본 파일은 삭제되고 새로운 파일은 같은 혹은 다른 이름을 갖게 된다. 만약 가능하다면(이를테면 원본 파일과 새로운 파일이 같은 [파일 시스템이](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") 있다면), `mv`는 대신 그 파일의 이름을 바꾼다. 변경될 모든 디렉터리에 대해서 쓰기 권한이 필요하다.
+**`mv`**(move의 줄임말)는 하나 이상의 [파일](https://ko.wikipedia.org/wiki/파일 "wikilink")이나 [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")를 한 장소에서 한 다른 장소로 이동하도록 만드는 [유닉스](../Page/유닉스.md "wikilink") 명령어이다. 원본 파일은 삭제되고 새로운 파일은 같은 혹은 다른 이름을 갖게 된다. 만약 가능하다면(이를테면 원본 파일과 새로운 파일이 같은 [파일 시스템이](../Page/파일_시스템.md "wikilink") 있다면), `mv`는 대신 그 파일의 이름을 바꾼다. 변경될 모든 디렉터리에 대해서 쓰기 권한이 필요하다.
 
 ## 기존 파일과 충돌할 경우
 
@@ -33,7 +33,7 @@
 
   - [cp](https://ko.wikipedia.org/wiki/cp "wikilink")
   - [rm](../Page/Rm_\(유닉스\).md "wikilink")
-  - [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink")
+  - [유닉스](../Page/유닉스.md "wikilink")
 
 ## 참고 자료
 

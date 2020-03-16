@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HSD](https://ko.wikipedia.org/wiki/HSD).
 
 
-**HSD엔진**(HSD Engine)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 본사를 둔 종합 엔진 생산 전문업체이다.
+**HSD엔진**(HSD Engine)은 [대한민국](../Page/대한민국.md "wikilink")에 본사를 둔 종합 엔진 생산 전문업체이다.
 
 ## 소개
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Road to Revolution: Live at Milton Keynes](https://ko.wikipedia.org/wiki/Road_to_Revolution:_Live_at_Milton_Keynes).
 
 
-《**Road To Revolution: Live At Milton Keynes**》는 [린킨 파크의](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink") 두 번째 라이브 및 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") 음반이다. 2008년 6월 29일 MK 보울에서의 [프로젝트 레볼루션](https://ko.wikipedia.org/wiki/프로젝트_레볼루션#2009년_프로젝트_레볼루션 "wikilink") 공연 영상이 수록되어 있으며 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 25일에](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 발매 예정이다.
+《**Road To Revolution: Live At Milton Keynes**》는 [린킨 파크의](../Page/린킨_파크.md "wikilink") 두 번째 라이브 및 [DVD](../Page/DVD.md "wikilink") 음반이다. 2008년 6월 29일 MK 보울에서의 [프로젝트 레볼루션](https://ko.wikipedia.org/wiki/프로젝트_레볼루션#2009년_프로젝트_레볼루션 "wikilink") 공연 영상이 수록되어 있으며 [2008년](../Page/2008년.md "wikilink") [11월 25일에](../Page/11월_25일.md "wikilink") 발매 예정이다.
 
 ## 수록곡
 
@@ -21,7 +21,7 @@
 12. "[Crawling](../Page/Crawling.md "wikilink")"
 13. "[In the End](https://ko.wikipedia.org/wiki/In_the_End "wikilink")"
 14. "Pushing Me Away"
-15. "[What I've Done](https://ko.wikipedia.org/wiki/What_I've_Done "wikilink")"
+15. "[What I've Done](../Page/What_I've_Done.md "wikilink")"
 16. "[Numb/Encore](https://ko.wikipedia.org/wiki/Numb/Encore "wikilink")"
 17. "Jigga What/[Faint](https://ko.wikipedia.org/wiki/Faint "wikilink")"
 18. "[Bleed It Out](https://ko.wikipedia.org/wiki/Bleed_It_Out "wikilink")"
@@ -30,8 +30,8 @@
 
   - [체스터 베닝턴](../Page/체스터_베닝턴.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
   - [마이크 시노다](../Page/마이크_시노다.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink"), [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 샘플링
-  - [브래드 델슨](../Page/브래드_델슨.md "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - [데이비드 "피닉스" 파렐](https://ko.wikipedia.org/wiki/데이브_파렐 "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [브래드 델슨](../Page/브래드_델슨.md "wikilink") – [기타](../Page/기타.md "wikilink")
+  - [데이비드 "피닉스" 파렐](https://ko.wikipedia.org/wiki/데이브_파렐 "wikilink") – [베이스](../Page/베이스_기타.md "wikilink")
   - [롭 버든](../Page/롭_버든.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")
   - [조셉 한](https://ko.wikipedia.org/wiki/조셉_한 "wikilink") – [턴테이블](https://ko.wikipedia.org/wiki/턴테이블 "wikilink"), [샘플링](https://ko.wikipedia.org/wiki/샘플링 "wikilink")
 

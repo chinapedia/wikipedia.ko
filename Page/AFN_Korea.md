@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [AFN Korea](https://ko.wikipedia.org/wiki/AFN_Korea).
 
 
-(, 옛 **AFKN** ( ))는 **AFN**의 일부로, [미군](https://ko.wikipedia.org/wiki/미군 "wikilink")의 AFRTS에 소속되어 있는 [주한 미군의](https://ko.wikipedia.org/wiki/주한_미군 "wikilink") [방송국](https://ko.wikipedia.org/wiki/방송국 "wikilink")이다.
+(, 옛 **AFKN** ( ))는 **AFN**의 일부로, [미군](../Page/미군.md "wikilink")의 AFRTS에 소속되어 있는 [주한 미군의](../Page/주한_미군.md "wikilink") [방송국](https://ko.wikipedia.org/wiki/방송국 "wikilink")이다.
 
 ## 역사 및 영향력
 
-AFKN은 [한국 전쟁](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") [서울 수복](../Page/서울_수복_전투.md "wikilink") 직후 [서울에](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") 위치한 [반도호텔](https://ko.wikipedia.org/wiki/반도호텔 "wikilink")에서 [중파](https://ko.wikipedia.org/wiki/중파_방송 "wikilink") [라디오](https://ko.wikipedia.org/wiki/라디오 "wikilink") 이동 방송국으로 출발하였으며, [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink")에 [유선](https://ko.wikipedia.org/wiki/케이블_텔레비전 "wikilink") 채널, 1960년대 중반부터 공중파 [초단파](https://ko.wikipedia.org/wiki/초단파 "wikilink")(VHF) 채널2번으로 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") 방송 송출을 시작하였다.\[1\] 컬러TV 방송, 위성 방송, 24시간 종일방송 등으로 한국 방송계에 큰 영향을 주었다고 평가되기도 한다.\[2\]
+AFKN은 [한국 전쟁](../Page/한국_전쟁.md "wikilink") [서울 수복](../Page/서울_수복_전투.md "wikilink") 직후 [서울에](../Page/서울특별시.md "wikilink") 위치한 [반도호텔](https://ko.wikipedia.org/wiki/반도호텔 "wikilink")에서 [중파](https://ko.wikipedia.org/wiki/중파_방송 "wikilink") [라디오](../Page/라디오.md "wikilink") 이동 방송국으로 출발하였으며, [1957년](../Page/1957년.md "wikilink")에 [유선](../Page/케이블_텔레비전.md "wikilink") 채널, 1960년대 중반부터 공중파 [초단파](../Page/초단파.md "wikilink")(VHF) 채널2번으로 [텔레비전](../Page/텔레비전.md "wikilink") 방송 송출을 시작하였다.\[1\] 컬러TV 방송, 위성 방송, 24시간 종일방송 등으로 한국 방송계에 큰 영향을 주었다고 평가되기도 한다.\[2\]
 
-AFKN은 영어 학습에 이용되기도 하였다. 대한민국의 시청자들은 AFKN을 통하여 미국의 다양한 문화를 접할 수 있었고, 반대로 한국문화를 전달하는 창구가 되기도 했다고 평가된다.\[3\] AFKN은 1966년의 [한미행정협정](https://ko.wikipedia.org/wiki/한미행정협정 "wikilink") 제3조 2항에 의거하여 [대한민국 정부의](https://ko.wikipedia.org/wiki/대한민국_정부 "wikilink") 통제 없이 자유롭게 방송할 수 있었기에 [군사정권](https://ko.wikipedia.org/wiki/군사정권 "wikilink") 당시 한국 언론에 드러나지 못했던 내용들이 보도될 수 있었던 반면, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [대중문화](https://ko.wikipedia.org/wiki/대중문화 "wikilink")가 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 대중문화에 영향을 받는다는 우려를 낳았다.\[4\] 이러한 문제 때문에 1996년에 수신 가능지역을 줄이고자 서울의 [TV 채널을](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") 기존의 [VHF](https://ko.wikipedia.org/wiki/VHF "wikilink") 2번에서 [UHF](https://ko.wikipedia.org/wiki/UHF "wikilink") 34번으로 변경한 바 있으며, [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") 지역의 [AM 방송](https://ko.wikipedia.org/wiki/진폭_변조 "wikilink") [주파수](https://ko.wikipedia.org/wiki/주파수 "wikilink")도 이와 같은 맥락에서 549㎑에서 1530㎑로 옮겨진 것으로 보인다.\[5\]
+AFKN은 영어 학습에 이용되기도 하였다. 대한민국의 시청자들은 AFKN을 통하여 미국의 다양한 문화를 접할 수 있었고, 반대로 한국문화를 전달하는 창구가 되기도 했다고 평가된다.\[3\] AFKN은 1966년의 [한미행정협정](https://ko.wikipedia.org/wiki/한미행정협정 "wikilink") 제3조 2항에 의거하여 [대한민국 정부의](../Page/대한민국_정부.md "wikilink") 통제 없이 자유롭게 방송할 수 있었기에 [군사정권](https://ko.wikipedia.org/wiki/군사정권 "wikilink") 당시 한국 언론에 드러나지 못했던 내용들이 보도될 수 있었던 반면, [대한민국](../Page/대한민국.md "wikilink")의 [대중문화](../Page/대중문화.md "wikilink")가 [미국](../Page/미국.md "wikilink")의 대중문화에 영향을 받는다는 우려를 낳았다.\[4\] 이러한 문제 때문에 1996년에 수신 가능지역을 줄이고자 서울의 [TV 채널을](../Page/텔레비전.md "wikilink") 기존의 [VHF](https://ko.wikipedia.org/wiki/VHF "wikilink") 2번에서 [UHF](https://ko.wikipedia.org/wiki/UHF "wikilink") 34번으로 변경한 바 있으며, [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") 지역의 [AM 방송](../Page/진폭_변조.md "wikilink") [주파수](https://ko.wikipedia.org/wiki/주파수 "wikilink")도 이와 같은 맥락에서 549㎑에서 1530㎑로 옮겨진 것으로 보인다.\[5\]
 
 AFKN은 80년대 후반 [WWF](https://ko.wikipedia.org/wiki/WWE "wikilink")(World Wrestling Federation) 미국 프로레슬링 방영을 시작하여 어린이, 청소년층에서 선풍적인 인기를 끌었다. 91년까지 이어진 WWF 열풍은 90년대 후반 이후 WWE(World Wrestling Entertainment), WCW(World Championship Wrestling), TNA(Total Nonstop Action) 프로레슬링 경기가 케이블 방송을 통해 국내에 정식방영이 되고, 2003년 역사적인 첫 WWE 월드투어 한국경기가 개최되는데 큰 영향력을 주었다.
 
@@ -19,9 +19,9 @@ AFKN은 80년대 후반 [WWF](https://ko.wikipedia.org/wiki/WWE "wikilink")(Worl
 
 **AFN Prime Pacific Korea**는 AFN Korea가 운영하는 TV 채널이다.
 
-1957년에 AFKN-TV라는 이름으로 공중파 [VHF](https://ko.wikipedia.org/wiki/초단파 "wikilink") 방송을 시작하였다. 1959년에는 2월 2일 화재로 방송이 중단됐던 [대한방송](https://ko.wikipedia.org/wiki/대한방송 "wikilink")의 한국어 프로그램을 3월 1일부터 매일 밤 30분씩 방송했다.
+1957년에 AFKN-TV라는 이름으로 공중파 [VHF](../Page/초단파.md "wikilink") 방송을 시작하였다. 1959년에는 2월 2일 화재로 방송이 중단됐던 [대한방송](../Page/대한방송.md "wikilink")의 한국어 프로그램을 3월 1일부터 매일 밤 30분씩 방송했다.
 
-[1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [10월 4일부터](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") [위성방송](../Page/위성방송.md "wikilink") 체계인 SATNET을 도입하여 언제든지 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 본토의 프로그램을 직접 방송할 수 있게 되었다. 매일 [밤](https://ko.wikipedia.org/wiki/밤_\(시간\) "wikilink") 11시부터 다음날 오후 3시 30분까지 16시간 동안 [위성중계](../Page/위성방송.md "wikilink") 수신을 하고 있다.
+[1983년](../Page/1983년.md "wikilink") [10월 4일부터](../Page/10월_4일.md "wikilink") [위성방송](../Page/위성방송.md "wikilink") 체계인 SATNET을 도입하여 언제든지 [미국](../Page/미국.md "wikilink") 본토의 프로그램을 직접 방송할 수 있게 되었다. 매일 [밤](https://ko.wikipedia.org/wiki/밤_\(시간\) "wikilink") 11시부터 다음날 오후 3시 30분까지 16시간 동안 [위성중계](../Page/위성방송.md "wikilink") 수신을 하고 있다.
 
 2001년 4월에 명칭을 AFKN-TV에서 변경하였다. 이후 TV 채널 자체가 AFN Prime이 되었다. 2007년 말에는 주한 미군 측이 공지를 통해 [케이블TV를](../Page/대한민국의_케이블TV_방송.md "wikilink") 통한 재송신을 금지했다. 그 이유는 모든 프로그램을 미국 내 방송사에서 국외 거주 미군에게만 보여준다는 조건으로 기부 받아 방송하고 있는데 케이블 TV를 통해 방송할 경우 이러한 조건이 저작권 문제 등 문제의 소지가 많을 수 있기 때문이다.
 
@@ -82,9 +82,9 @@ AFKN은 80년대 후반 [WWF](https://ko.wikipedia.org/wiki/WWE "wikilink")(Worl
 
 AFN 360 인터넷 라디오 홈페이지와 스마트폰 앱으로 청취할수 있는 라디오 채널이다. 주한미군 방송 3개채널, 주일미군 방송 5개채널, AFN 글로벌 라디오 9개 채널로 구성되어 있다.
 
-  - [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink") 방송 - [평택 험프리스](../Page/캠프_험프리스.md "wikilink"), [대구](https://ko.wikipedia.org/wiki/캠프_워커 "wikilink"), [군산](../Page/제8전투비행단_\(미국\).md "wikilink")
-  - [주일미군](https://ko.wikipedia.org/wiki/주일미군 "wikilink") 방송 - [이와쿠니](../Page/이와쿠니_비행장.md "wikilink"), [미사와](https://ko.wikipedia.org/wiki/미사와_비행장 "wikilink"), [오키나와](../Page/도리이_스테이션.md "wikilink"), [사세보](../Page/사세보_해군_기지.md "wikilink"), [도쿄](../Page/요코타_비행장.md "wikilink")
-  - AFN 글로벌 라디오 - [Country](https://ko.wikipedia.org/wiki/컨트리_음악 "wikilink"), Fans, Freedom, Gravity, Hot AC, Joe Radio, Legacy, Power Talk, The Voice
+  - [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink") 방송 - [평택 험프리스](../Page/캠프_험프리스.md "wikilink"), [대구](../Page/캠프_워커.md "wikilink"), [군산](../Page/제8전투비행단_\(미국\).md "wikilink")
+  - [주일미군](https://ko.wikipedia.org/wiki/주일미군 "wikilink") 방송 - [이와쿠니](../Page/이와쿠니_비행장.md "wikilink"), [미사와](../Page/미사와_비행장.md "wikilink"), [오키나와](../Page/도리이_스테이션.md "wikilink"), [사세보](../Page/사세보_해군_기지.md "wikilink"), [도쿄](../Page/요코타_비행장.md "wikilink")
+  - AFN 글로벌 라디오 - [Country](../Page/컨트리_음악.md "wikilink"), Fans, Freedom, Gravity, Hot AC, Joe Radio, Legacy, Power Talk, The Voice
 
 ## 각주
 
@@ -93,8 +93,8 @@ AFN 360 인터넷 라디오 홈페이지와 스마트폰 앱으로 청취할수 
 ## 연관 문서
 
   - [AFN](https://ko.wikipedia.org/wiki/미군_방송망 "wikilink")
-  - [주한 미군](https://ko.wikipedia.org/wiki/주한_미군 "wikilink") (USFK)
-  - [국군방송](https://ko.wikipedia.org/wiki/국방FM "wikilink") (KFN)
+  - [주한 미군](../Page/주한_미군.md "wikilink") (USFK)
+  - [국군방송](../Page/국방FM.md "wikilink") (KFN)
 
 ## 외부 링크
 

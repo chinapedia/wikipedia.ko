@@ -29,7 +29,7 @@
 </tr>
 <tr class="even">
 <td><p>2008년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2008년_FIFA_U-17_여자_월드컵" title="wikilink">상세 정보</a></em></p></td>
+<em><a href="../Page/2008년_FIFA_U-17_여자_월드컵.md" title="wikilink">상세 정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2-1 (<a href="../Page/연장전.md" title="wikilink">연장</a>)</strong></p></td>
@@ -74,7 +74,7 @@
 </tr>
 <tr class="even">
 <td><p>2020년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2020년_FIFA_U-17_여자_월드컵" title="wikilink">상세 정보</a></em></p></td>
+<em><a href="../Page/2020년_FIFA_U-17_여자_월드컵.md" title="wikilink">상세 정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>?-?</strong></p></td>
@@ -97,7 +97,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>2 (<a href="https://ko.wikipedia.org/wiki/2008년_FIFA_U-17_여자_월드컵" title="wikilink">2008</a>, <a href="../Page/2016년_FIFA_U-17_여자_월드컵.md" title="wikilink">2016</a>)</p></td>
+<td><p>2 (<a href="../Page/2008년_FIFA_U-17_여자_월드컵.md" title="wikilink">2008</a>, <a href="../Page/2016년_FIFA_U-17_여자_월드컵.md" title="wikilink">2016</a>)</p></td>
 <td><p>1 (<a href="../Page/2012년_FIFA_U-17_여자_월드컵.md" title="wikilink">2012</a>)</p></td>
 <td><p>-</p></td>
 <td><p>1 (<a href="../Page/2010년_FIFA_U-17_여자_월드컵.md" title="wikilink">2010</a>)</p></td>
@@ -133,7 +133,7 @@
 <tr class="even">
 <td></td>
 <td><p>-</p></td>
-<td><p>1 (<a href="https://ko.wikipedia.org/wiki/2008년_FIFA_U-17_여자_월드컵" title="wikilink">2008</a>)</p></td>
+<td><p>1 (<a href="../Page/2008년_FIFA_U-17_여자_월드컵.md" title="wikilink">2008</a>)</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -148,7 +148,7 @@
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>1 (<a href="https://ko.wikipedia.org/wiki/2008년_FIFA_U-17_여자_월드컵" title="wikilink">2008</a>)</p></td>
+<td><p>1 (<a href="../Page/2008년_FIFA_U-17_여자_월드컵.md" title="wikilink">2008</a>)</p></td>
 <td><p>1 (<a href="../Page/2012년_FIFA_U-17_여자_월드컵.md" title="wikilink">2012</a>)</p></td>
 </tr>
 <tr class="odd">
@@ -184,7 +184,7 @@
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>1 (<a href="https://ko.wikipedia.org/wiki/2008년_FIFA_U-17_여자_월드컵" title="wikilink">2008</a>)</p></td>
+<td><p>1 (<a href="../Page/2008년_FIFA_U-17_여자_월드컵.md" title="wikilink">2008</a>)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -208,7 +208,7 @@
 **여자 대회**
 
   - [FIFA 여자 월드컵](../Page/FIFA_여자_월드컵.md "wikilink")
-  - [FIFA U-20 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-20_여자_월드컵 "wikilink")
+  - [FIFA U-20 여자 월드컵](../Page/FIFA_U-20_여자_월드컵.md "wikilink")
   - [여자 올림픽 축구](../Page/올림픽_축구.md "wikilink")
 
 **남자 대회**

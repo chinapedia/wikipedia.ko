@@ -7,9 +7,9 @@
 
 ## 특징
 
-  - 매킨토시나 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 등의 여러 [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 간의 호환성을 지원한다.
-  - GLSL을 지원하는 어떠한 제조사의 [그래픽 카드에서도](../Page/그래픽_카드.md "wikilink") 동작하는 [셰이더](https://ko.wikipedia.org/wiki/셰이더 "wikilink")를 쓸 수 있다.
-  - [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink") 제조사는 [그래픽 카드](../Page/그래픽_카드.md "wikilink") [장치 드라이버](../Page/장치_드라이버.md "wikilink") 내에 GLSL [컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink")를 포함할 수 있도록 지원한다. 이 덕분에, 그 그래픽 카드의 [마이크로아키텍처](../Page/마이크로아키텍처.md "wikilink")에 최적화된 코드를 만들 수 있다.
+  - 매킨토시나 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [리눅스](../Page/리눅스.md "wikilink") 등의 여러 [운영 체제](../Page/운영_체제.md "wikilink") 간의 호환성을 지원한다.
+  - GLSL을 지원하는 어떠한 제조사의 [그래픽 카드에서도](../Page/그래픽_카드.md "wikilink") 동작하는 [셰이더](../Page/셰이더.md "wikilink")를 쓸 수 있다.
+  - [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink") 제조사는 [그래픽 카드](../Page/그래픽_카드.md "wikilink") [장치 드라이버](../Page/장치_드라이버.md "wikilink") 내에 GLSL [컴파일러](../Page/컴파일러.md "wikilink")를 포함할 수 있도록 지원한다. 이 덕분에, 그 그래픽 카드의 [마이크로아키텍처](../Page/마이크로아키텍처.md "wikilink")에 최적화된 코드를 만들 수 있다.
 
 ## 버전
 

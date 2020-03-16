@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 라흐티**(FC Lahti)는 [라흐티](../Page/라흐티.md "wikilink")를 연고로 하는 [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink")의 축구 경기장이다. 이 클럽은 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 창단되었으며 현재는 [베이카우스리가](../Page/베이카우스리가.md "wikilink")에 참가하고 있다.
+**FC 라흐티**(FC Lahti)는 [라흐티](../Page/라흐티.md "wikilink")를 연고로 하는 [핀란드](../Page/핀란드.md "wikilink")의 축구 경기장이다. 이 클럽은 [1996년](../Page/1996년.md "wikilink")에 창단되었으며 현재는 [베이카우스리가](../Page/베이카우스리가.md "wikilink")에 참가하고 있다.
 
 ## 역사
 
-FC 라흐티는 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 [라흐티](../Page/라흐티.md "wikilink")의 최대 라이벌이었던 *FC 쿠시시*와 *레이파스 라흐티*가 통합하여 라흐티를 대표하는 클럽으로 탄생하였다. 또한 FC 라흐티의 2군 클럽인 *FC 팔로 라흐티* 역시 창단되었으나, 2년 후에 경제적인 어려움으로 해산되었다. 레이파스와 쿠시시는 현재 유소년 클럽을 운영하고 있다.
+FC 라흐티는 [1996년](../Page/1996년.md "wikilink")에 [라흐티](../Page/라흐티.md "wikilink")의 최대 라이벌이었던 *FC 쿠시시*와 *레이파스 라흐티*가 통합하여 라흐티를 대표하는 클럽으로 탄생하였다. 또한 FC 라흐티의 2군 클럽인 *FC 팔로 라흐티* 역시 창단되었으나, 2년 후에 경제적인 어려움으로 해산되었다. 레이파스와 쿠시시는 현재 유소년 클럽을 운영하고 있다.
 
-첫 시즌인 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에는 [핀란드 1부 리그의](https://ko.wikipedia.org/wiki/핀란드_1부_리그 "wikilink") 남부 그룹에서 활동하였다. 전반기는 2위로 마쳤으나 최종 순위는 3위로 마치며 승격에는 실패하였다. 남부 지역 1위를 차지하며, 승격 플레이오프에 진출하여 최종 1위로 승격을 확정하였다.
+첫 시즌인 [1997년](../Page/1997년.md "wikilink")에는 [핀란드 1부 리그의](https://ko.wikipedia.org/wiki/핀란드_1부_리그 "wikilink") 남부 그룹에서 활동하였다. 전반기는 2위로 마쳤으나 최종 순위는 3위로 마치며 승격에는 실패하였다. 남부 지역 1위를 차지하며, 승격 플레이오프에 진출하여 최종 1위로 승격을 확정하였다.
 
-[베이카우스리가](../Page/베이카우스리가.md "wikilink")에서 라흐티는 마땅한 우승기록이 없다. 최고 순위는 2008 시즌의 3위이고, 2003 시즌에는 5위로 마감하였다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에는 [핀란드 리그컵](https://ko.wikipedia.org/wiki/핀란드_리그컵 "wikilink") 우승을 차지하였다.
+[베이카우스리가](../Page/베이카우스리가.md "wikilink")에서 라흐티는 마땅한 우승기록이 없다. 최고 순위는 2008 시즌의 3위이고, 2003 시즌에는 5위로 마감하였다. [2007년](../Page/2007년.md "wikilink")에는 [핀란드 리그컵](https://ko.wikipedia.org/wiki/핀란드_리그컵 "wikilink") 우승을 차지하였다.
 
 ## 역대 우승기록
 
@@ -226,7 +226,7 @@ FC 라흐티는 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 [
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA컵" title="wikilink">UEFA컵</a></p></td>
 <td><p>1회전<sup>2</sup></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리버풀_FC" title="wikilink">리버풀</a></p></td>
+<td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p>1-6, <strong>1-0</strong></p></td>
 </tr>
 <tr class="even">

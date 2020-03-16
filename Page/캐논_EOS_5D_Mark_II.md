@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EOS 5D Mark II](https://ko.wikipedia.org/wiki/_EOS_5D_Mark_II).
 
 
-**캐논 EOS 5D Mark II**()는 2110만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 17일에](https://ko.wikipedia.org/wiki/9월_17일 "wikilink") 발표되었으며 캐논 DSLR 라인업에서 [캐논 EOS 50D보다](../Page/캐논_EOS_50D.md "wikilink") 상위 기종이면서 [캐논 EOS-1D Mark III보다](../Page/캐논_EOS-1D_Mark_III.md "wikilink") 하위 기종에 해당된다. [캐논 EOS 5D의](../Page/캐논_EOS_5D.md "wikilink") 후속 기종이며, 캐논에서 최초로 동영상 촬영기능이 채택된 DSLR 모델이다. 경쟁 모델로는 니콘의 [D700](https://ko.wikipedia.org/wiki/D700 "wikilink")과, 소니의 [A900](https://ko.wikipedia.org/wiki/A900 "wikilink")등이 있다.
+**캐논 EOS 5D Mark II**()는 2110만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). [2008년](../Page/2008년.md "wikilink") [9월 17일에](../Page/9월_17일.md "wikilink") 발표되었으며 캐논 DSLR 라인업에서 [캐논 EOS 50D보다](../Page/캐논_EOS_50D.md "wikilink") 상위 기종이면서 [캐논 EOS-1D Mark III보다](../Page/캐논_EOS-1D_Mark_III.md "wikilink") 하위 기종에 해당된다. [캐논 EOS 5D의](../Page/캐논_EOS_5D.md "wikilink") 후속 기종이며, 캐논에서 최초로 동영상 촬영기능이 채택된 DSLR 모델이다. 경쟁 모델로는 니콘의 [D700](https://ko.wikipedia.org/wiki/D700 "wikilink")과, 소니의 [A900](https://ko.wikipedia.org/wiki/A900 "wikilink")등이 있다.
 
 50D보다 상위 기종이긴 하나, 연속 촬영 속도 및 [플래시 X-동조](https://ko.wikipedia.org/wiki/플래시_X-동조 "wikilink") 속도는 50D보다 떨어진다.
 
@@ -19,8 +19,8 @@
   - 자동 이미지 센서 클리닝
   - 3.0 인치 [LCD](https://ko.wikipedia.org/wiki/LCD "wikilink")
   - 라이브뷰
-  - [HDMI](https://ko.wikipedia.org/wiki/HDMI "wikilink") 비디오 아웃풋
-  - [ISO](https://ko.wikipedia.org/wiki/감광_속도 "wikilink") 100-6400 (확장시 50(L), 12800(H1), 25600(H2)까지 증감)
+  - [HDMI](../Page/HDMI.md "wikilink") 비디오 아웃풋
+  - [ISO](../Page/감광_속도.md "wikilink") 100-6400 (확장시 50(L), 12800(H1), 25600(H2)까지 증감)
 
 ## 사진
 
@@ -31,7 +31,7 @@
   - [캐논](../Page/캐논.md "wikilink")
   - [캐논 EOS](../Page/캐논_EOS.md "wikilink")
   - [캐논 EF 마운트](../Page/캐논_EF_마운트.md "wikilink")
-  - [풀프레임 DSLR](https://ko.wikipedia.org/wiki/풀프레임_DSLR "wikilink")
+  - [풀프레임 DSLR](../Page/풀프레임_DSLR.md "wikilink")
   - [최후의 툰드라](../Page/최후의_툰드라.md "wikilink") (SBS)
 
 ## 각주

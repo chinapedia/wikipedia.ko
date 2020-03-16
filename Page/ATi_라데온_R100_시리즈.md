@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATi  R100 ](https://ko.wikipedia.org/wiki/ATi__R100_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Radeon7500agp.jpg "wikilink") **라데온 R100**(코드이름: 레이지 6C)은 [ATI 테크놀로지스사에서](../Page/ATI_테크놀로지스.md "wikilink") 출시한 라데온 그래픽스 칩의 첫 모델이다. [다이렉트3D](https://ko.wikipedia.org/wiki/다이렉트3D "wikilink") 7.0, [오픈지엘](https://ko.wikipedia.org/wiki/오픈지엘 "wikilink") 1.3 기반의 [3차원 가속을](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스 "wikilink") 지원하며 이전 [ATI 레이지](../Page/ATI_레이지.md "wikilink") 디자인에 비해 성능이 크게 개선되었다. 프로세서에는 [2차원 GUI 가속](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink"), [비디오](../Page/비디오.md "wikilink") 가속, 다중 디스플레이 출력을 포함한다. R100은 GPU 세대의 개발 코드이름을 가리킨다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Radeon7500agp.jpg "wikilink") **라데온 R100**(코드이름: 레이지 6C)은 [ATI 테크놀로지스사에서](../Page/ATI_테크놀로지스.md "wikilink") 출시한 라데온 그래픽스 칩의 첫 모델이다. [다이렉트3D](https://ko.wikipedia.org/wiki/다이렉트3D "wikilink") 7.0, [오픈지엘](https://ko.wikipedia.org/wiki/오픈지엘 "wikilink") 1.3 기반의 [3차원 가속을](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 지원하며 이전 [ATI 레이지](../Page/ATI_레이지.md "wikilink") 디자인에 비해 성능이 크게 개선되었다. 프로세서에는 [2차원 GUI 가속](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink"), [비디오](../Page/비디오.md "wikilink") 가속, 다중 디스플레이 출력을 포함한다. R100은 GPU 세대의 개발 코드이름을 가리킨다.
 
 ## 그래픽 칩셋
 
@@ -33,11 +33,11 @@
 
   - R100: 첫 세대의 라데온 버전(R100)은 라데온 DDR로 2000년 봄에 32 MB, 64 MB 버전으로 출시되었다. 64 MB 카드는 더 빠른 클럭 속도와 VIVO(영상 입출력) 기능이 추가되어 있었다. 처음에 라데온 256이라 불렸지만 [지포스 256과](../Page/지포스_256.md "wikilink") 혼동을 피하기 위해 이 이름은 더 이상 사용하지 않게 되었다.
   - RV100: 두 번째 세대인 라데온 VE는 라데온 7000으로도 알려져 있으며 가격을 낮춘 모델이다. 라데온의 3차원 하드웨어 기능인 픽셀 파이프라인, 하드웨어 T\&L, [하이퍼Z](https://ko.wikipedia.org/wiki/하이퍼Z "wikilink"), 64비트 메모리 버스가 모두 제거되어 있다. 그러나 히드라비전 듀얼 모니터를 지원하고 2차 램댁이 코어에 통합되었다.
-  - RV200: 마지막 세대는 라데온 7500 (RV200)으로 0.15 [마이크로미터](https://ko.wikipedia.org/wiki/마이크로미터 "wikilink") 공정을 기반으로 하고 있다.
+  - RV200: 마지막 세대는 라데온 7500 (RV200)으로 0.15 [마이크로미터](../Page/마이크로미터.md "wikilink") 공정을 기반으로 하고 있다.
 
 ## 경쟁 칩셋
 
-  - [엔비디아](https://ko.wikipedia.org/wiki/엔비디아 "wikilink")의 [지포스 256와](../Page/지포스_256.md "wikilink") [지포스 2](https://ko.wikipedia.org/wiki/지포스_2 "wikilink")
+  - [엔비디아](../Page/엔비디아.md "wikilink")의 [지포스 256와](../Page/지포스_256.md "wikilink") [지포스 2](https://ko.wikipedia.org/wiki/지포스_2 "wikilink")
   - [파워VR](../Page/파워VR.md "wikilink") 시리즈 3
   - [3dfx](../Page/3dfx.md "wikilink") [부두 5](https://ko.wikipedia.org/wiki/부두_5 "wikilink")
 

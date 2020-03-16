@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gedit](https://ko.wikipedia.org/wiki/Gedit).
 
 
-**지에디트**(gedit)는 [그놈](https://ko.wikipedia.org/wiki/그놈 "wikilink") [데스크톱 환경용으로](../Page/데스크톱_환경.md "wikilink") 개발된 [자유 소프트웨어인](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") [텍스트 편집기이다](https://ko.wikipedia.org/wiki/텍스트_편집기 "wikilink"). [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [맥 OS X에서도](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 사용할 수 있다. [UTF-8](https://ko.wikipedia.org/wiki/UTF-8 "wikilink")과 호환하며, 프로그램 코드, [마크업 언어와](https://ko.wikipedia.org/wiki/마크업_언어 "wikilink") 같은 구조화된 텍스트 문서를 편집하는 용도에 중점을 두고 개발했다.\[1\] 그놈 프로젝트의 철학에 따라 깔끔하고 단순한 [그놈](https://ko.wikipedia.org/wiki/그놈 "wikilink") [GUI가](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 특징이다.
+**지에디트**(gedit)는 [그놈](../Page/그놈.md "wikilink") [데스크톱 환경용으로](../Page/데스크톱_환경.md "wikilink") 개발된 [자유 소프트웨어인](../Page/자유_소프트웨어.md "wikilink") [텍스트 편집기이다](https://ko.wikipedia.org/wiki/텍스트_편집기 "wikilink"). [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [맥 OS X에서도](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 사용할 수 있다. [UTF-8](../Page/UTF-8.md "wikilink")과 호환하며, 프로그램 코드, [마크업 언어와](../Page/마크업_언어.md "wikilink") 같은 구조화된 텍스트 문서를 편집하는 용도에 중점을 두고 개발했다.\[1\] 그놈 프로젝트의 철학에 따라 깔끔하고 단순한 [그놈](../Page/그놈.md "wikilink") [GUI가](../Page/그래픽_사용자_인터페이스.md "wikilink") 특징이다.
 
 ## 기능
 
@@ -9,7 +9,7 @@
 
 ## 구조
 
-[X 윈도 시스템에](../Page/X_윈도_시스템.md "wikilink") 맞춰 개발했으며, [GTK+](https://ko.wikipedia.org/wiki/GTK+ "wikilink") 2.0과 그놈 2.0 라이브러리를 이용한다. 한편, 그놈 파일 관리자인 노틸러스와의 사이에서 [드래그 앤 드롭이](https://ko.wikipedia.org/wiki/드래그_앤_드롭 "wikilink") 가능하다. gedit에 관한 문서는 그놈 도움말 시스템, 가상 파일 시스템, 그리고 인쇄 미리보기를 위한 인쇄 프레임워크를 사용한다.
+[X 윈도 시스템에](../Page/X_윈도_시스템.md "wikilink") 맞춰 개발했으며, [GTK+](../Page/GTK+.md "wikilink") 2.0과 그놈 2.0 라이브러리를 이용한다. 한편, 그놈 파일 관리자인 노틸러스와의 사이에서 [드래그 앤 드롭이](https://ko.wikipedia.org/wiki/드래그_앤_드롭 "wikilink") 가능하다. gedit에 관한 문서는 그놈 도움말 시스템, 가상 파일 시스템, 그리고 인쇄 미리보기를 위한 인쇄 프레임워크를 사용한다.
 
 ## 참조
 

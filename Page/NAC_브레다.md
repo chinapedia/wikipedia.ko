@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [NAC ](https://ko.wikipedia.org/wiki/NAC_).
 
 
-**NAC 브레다** (NOAD ADVENDO Combinatie Breda)는 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 연고지는 [브레다](https://ko.wikipedia.org/wiki/브레다 "wikilink")이며, [1912년](https://ko.wikipedia.org/wiki/1912년 "wikilink") [9월 12일에](https://ko.wikipedia.org/wiki/9월_12일 "wikilink") NOAD와 ADVENDO 두 클럽의 통합으로 창단되었다. NAC의 클럽 공식 명칭은 Nooit opgeven altijd doorzetten Aangenaam door vermaak en nuttig door ontspanning Combinatie Breda으로 아마 세계에서 가장 긴 이름일 것이다.[1](http://www.guardian.co.uk/football/2005/dec/14/theknowledge.sport)
+**NAC 브레다** (NOAD ADVENDO Combinatie Breda)는 [네덜란드](../Page/네덜란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 연고지는 [브레다](https://ko.wikipedia.org/wiki/브레다 "wikilink")이며, [1912년](../Page/1912년.md "wikilink") [9월 12일에](../Page/9월_12일.md "wikilink") NOAD와 ADVENDO 두 클럽의 통합으로 창단되었다. NAC의 클럽 공식 명칭은 Nooit opgeven altijd doorzetten Aangenaam door vermaak en nuttig door ontspanning Combinatie Breda으로 아마 세계에서 가장 긴 이름일 것이다.[1](http://www.guardian.co.uk/football/2005/dec/14/theknowledge.sport)
 
-[1921년](https://ko.wikipedia.org/wiki/1921년 "wikilink")에 NAC는 네덜란드 리그 우승을 하였고, [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink")에는 [KNVB 컵](https://ko.wikipedia.org/wiki/KNVB_컵 "wikilink") 우승컵을 들어올렸다.
+[1921년](../Page/1921년.md "wikilink")에 NAC는 네덜란드 리그 우승을 하였고, [1973년](../Page/1973년.md "wikilink")에는 [KNVB 컵](https://ko.wikipedia.org/wiki/KNVB_컵 "wikilink") 우승컵을 들어올렸다.
 
-[1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 NAC는 예전의 홈구장을 떠나서 16,400명 규모의 전좌석 경기장으로 옮겼다. 경기장의 현재 명칭은 [랏 페를레흐 스타디온인데](https://ko.wikipedia.org/wiki/랏_페를레흐_스타디온 "wikilink") 이전 이름은 후지필름 경기장이었다.
+[1996년](../Page/1996년.md "wikilink")에 NAC는 예전의 홈구장을 떠나서 16,400명 규모의 전좌석 경기장으로 옮겼다. 경기장의 현재 명칭은 [랏 페를레흐 스타디온인데](https://ko.wikipedia.org/wiki/랏_페를레흐_스타디온 "wikilink") 이전 이름은 후지필름 경기장이었다.
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 NAC는 NAC 브레다로 클럽명을 변경하였다. 이는 경영문제로 인한 재정적인 문제가 발생하였기 때문이었다. [브레다 시](https://ko.wikipedia.org/wiki/브레다 "wikilink") 측에서는 NAC의 홈구장을 구입하여 이 상황을 타개하였고, NAC는 이러한 호의와 감사의 뜻으로 클럽명에 "브레다"를 넣게 되었다.
+[2003년](../Page/2003년.md "wikilink")에 NAC는 NAC 브레다로 클럽명을 변경하였다. 이는 경영문제로 인한 재정적인 문제가 발생하였기 때문이었다. [브레다 시](https://ko.wikipedia.org/wiki/브레다 "wikilink") 측에서는 NAC의 홈구장을 구입하여 이 상황을 타개하였고, NAC는 이러한 호의와 감사의 뜻으로 클럽명에 "브레다"를 넣게 되었다.
 
 ## 역대 우승기록
 

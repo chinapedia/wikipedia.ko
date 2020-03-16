@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [The Sentimental Chord](https://ko.wikipedia.org/wiki/The_Sentimental_Chord).
 
 
-《**The Sentimental Chord**》는 [SG워너비](https://ko.wikipedia.org/wiki/SG워너비 "wikilink")의 4집 앨범이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") 발매되었으며, 국악과 판소리에 미디엄템포 음악을 접목시켜 돌풍을 일으킨 곡이다. 그로 인해, 대중들과 팬들의 많은 사랑을 받았으며, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 최고의 음반 판매량을 기록하여 그 해, 2007 [골든디스크](https://ko.wikipedia.org/wiki/골든디스크 "wikilink") 대상을 수상하여, [SG워너비](https://ko.wikipedia.org/wiki/SG워너비 "wikilink")를 세번째 골든디스크 대상 수상에 올려준 공신이라고도 할 수 있는 앨범이다.
+《**The Sentimental Chord**》는 [SG워너비](https://ko.wikipedia.org/wiki/SG워너비 "wikilink")의 4집 앨범이다. [2007년](../Page/2007년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") 발매되었으며, 국악과 판소리에 미디엄템포 음악을 접목시켜 돌풍을 일으킨 곡이다. 그로 인해, 대중들과 팬들의 많은 사랑을 받았으며, [2007년](../Page/2007년.md "wikilink") 최고의 음반 판매량을 기록하여 그 해, 2007 [골든디스크](https://ko.wikipedia.org/wiki/골든디스크 "wikilink") 대상을 수상하여, [SG워너비](https://ko.wikipedia.org/wiki/SG워너비 "wikilink")를 세번째 골든디스크 대상 수상에 올려준 공신이라고도 할 수 있는 앨범이다.
 
 ## 뮤직비디오
 
-아리랑 뮤직비디오에는 [이범수](../Page/이범수.md "wikilink"), [옥주현](../Page/옥주현.md "wikilink"), [이선균](../Page/이선균.md "wikilink") 등이 출연했으며 1950년 6.25 한국전쟁을 배경으로 하였다. STAY 뮤직비디오에는 [하석진](https://ko.wikipedia.org/wiki/하석진 "wikilink"), [신민희](https://ko.wikipedia.org/wiki/신민희 "wikilink")가 출연하였다.
+아리랑 뮤직비디오에는 [이범수](../Page/이범수.md "wikilink"), [옥주현](../Page/옥주현.md "wikilink"), [이선균](../Page/이선균.md "wikilink") 등이 출연했으며 1950년 6.25 한국전쟁을 배경으로 하였다. STAY 뮤직비디오에는 [하석진](../Page/하석진.md "wikilink"), [신민희](https://ko.wikipedia.org/wiki/신민희 "wikilink")가 출연하였다.
 
 ## 대표곡
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ II ](https://ko.wikipedia.org/wiki/_II_).
 
 
-**빌럼 II** ()는 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 네덜란드 남부의 [틸뷔르흐](../Page/틸뷔르흐.md "wikilink")를 연고로 하고 있다. 빌럼 II는 [1896년](https://ko.wikipedia.org/wiki/1896년 "wikilink") [8월 12일에](https://ko.wikipedia.org/wiki/8월_12일 "wikilink") 틸뷔르히아(Tilburgia)라는 이름으로 창단되었다. 그 후 [1830년](https://ko.wikipedia.org/wiki/1830년 "wikilink")에 틸뷔르흐가 네덜란드군의 본부가 되면서 군 지휘관이었던 [빌럼 2세의](https://ko.wikipedia.org/wiki/네덜란드의_빌럼_2세 "wikilink") 이름을 따서 현재의 이름이 되었다.
+**빌럼 II** ()는 [네덜란드](../Page/네덜란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 네덜란드 남부의 [틸뷔르흐](../Page/틸뷔르흐.md "wikilink")를 연고로 하고 있다. 빌럼 II는 [1896년](../Page/1896년.md "wikilink") [8월 12일에](../Page/8월_12일.md "wikilink") 틸뷔르히아(Tilburgia)라는 이름으로 창단되었다. 그 후 [1830년](../Page/1830년.md "wikilink")에 틸뷔르흐가 네덜란드군의 본부가 되면서 군 지휘관이었던 [빌럼 2세의](https://ko.wikipedia.org/wiki/네덜란드의_빌럼_2세 "wikilink") 이름을 따서 현재의 이름이 되었다.
 
-클럽은 [야프 스탐과](../Page/야프_스탐.md "wikilink") 같은 유명 선수들을 많이 배출하였다. 클럽의 유니폼은 적·백·청의 세로 줄무늬로 되어 있는데, 이는 네덜란드의 국기색에서 영감을 얻은 것이다. 빌럼 II의 홈구장은 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 31일에](https://ko.wikipedia.org/wiki/5월_31일 "wikilink") 개장한 [코닝 빌럼 II 스타디온으로](https://ko.wikipedia.org/wiki/코닝_빌럼_II_스타디온 "wikilink") 14,700명의 관중을 수용할 수 있다.
+클럽은 [야프 스탐과](../Page/야프_스탐.md "wikilink") 같은 유명 선수들을 많이 배출하였다. 클럽의 유니폼은 적·백·청의 세로 줄무늬로 되어 있는데, 이는 네덜란드의 국기색에서 영감을 얻은 것이다. 빌럼 II의 홈구장은 [1995년](../Page/1995년.md "wikilink") [5월 31일에](../Page/5월_31일.md "wikilink") 개장한 [코닝 빌럼 II 스타디온으로](https://ko.wikipedia.org/wiki/코닝_빌럼_II_스타디온 "wikilink") 14,700명의 관중을 수용할 수 있다.
 
 빌럼 II는 세번의 리그 우승 (1916, 1952, 1955)을 하였다. 그리고 두번의 컵 대회 우승 (1944, 1963)을 하였다. 또한 1987년, 1990년, 1999년에는 올해의 네덜란드 클럽에 선정되었다.
 
@@ -33,7 +33,7 @@
 <td><p><a href="../Page/UEFA_컵위너스컵.md" title="wikilink">UEFA 컵위너스컵</a></p></td>
 <td><p>예선전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드 FC</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드 FC</a></p></td>
 <td><p>1-1, 1-6</p></td>
 </tr>
 <tr class="even">

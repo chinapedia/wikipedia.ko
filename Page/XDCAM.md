@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XDCAM](https://ko.wikipedia.org/wiki/XDCAM).
 
 
-**XDCAM**은 테이프가 없는 전문 비디오 시스템으로 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")가 2003년에 도입하였다. 처음 두 세대, XDCAM과 XDCAM HD는 [프로페셔널 디스크](https://ko.wikipedia.org/wiki/프로페셔널_디스크 "wikilink")(PFD)를 기록 매체로 이용한다. 이 디스크는 [블루레이 디스크와](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") 비슷하며 23 기가바이트의 데이터(PFD23, 단면) 또는 50 기가바이트의 데이터(PFD50, 양면)를 담을 수 있다. 3세대 XCDCAM EX는 솔리드 스테이트 SxS 카드를 사용한다. 2008년 11월에 [JVC](../Page/JVC.md "wikilink")는 XDCAM EX 포맷을 지원하기로 소니와 계약을 맺었다.
+**XDCAM**은 테이프가 없는 전문 비디오 시스템으로 [소니](../Page/소니.md "wikilink")가 2003년에 도입하였다. 처음 두 세대, XDCAM과 XDCAM HD는 [프로페셔널 디스크](https://ko.wikipedia.org/wiki/프로페셔널_디스크 "wikilink")(PFD)를 기록 매체로 이용한다. 이 디스크는 [블루레이 디스크와](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") 비슷하며 23 기가바이트의 데이터(PFD23, 단면) 또는 50 기가바이트의 데이터(PFD50, 양면)를 담을 수 있다. 3세대 XCDCAM EX는 솔리드 스테이트 SxS 카드를 사용한다. 2008년 11월에 [JVC](../Page/JVC.md "wikilink")는 XDCAM EX 포맷을 지원하기로 소니와 계약을 맺었다.
 
 ## 압축 방식
 

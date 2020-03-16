@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [NEC ](https://ko.wikipedia.org/wiki/NEC_).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Goffertboven.jpg "wikilink") **NEC** () 또는 **NEC 네이메헌**이라 불리는 이 클럽은 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [1900년](https://ko.wikipedia.org/wiki/1900년 "wikilink") [11월 15일에](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") 창단된 유서깊은 클럽이다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Goffertboven.jpg "wikilink") **NEC** () 또는 **NEC 네이메헌**이라 불리는 이 클럽은 [네덜란드](../Page/네덜란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1900년](../Page/1900년.md "wikilink") [11월 15일에](../Page/11월_15일.md "wikilink") 창단된 유서깊은 클럽이다.
 
-클럽은 원래 "에인드라흐트" (, )라고 불렸다. [1903년](https://ko.wikipedia.org/wiki/1903년 "wikilink")에 네이메헌과 합병하여 현재의 NEC (Nijmegen Eendracht Combinatie)가 되었다. NEC의 홈구장은 12,500명 규모의 [호퍼르트 경기장이다](https://ko.wikipedia.org/wiki/호퍼르트_경기장 "wikilink").
+클럽은 원래 "에인드라흐트" (, )라고 불렸다. [1903년](../Page/1903년.md "wikilink")에 네이메헌과 합병하여 현재의 NEC (Nijmegen Eendracht Combinatie)가 되었다. NEC의 홈구장은 12,500명 규모의 [호퍼르트 경기장이다](https://ko.wikipedia.org/wiki/호퍼르트_경기장 "wikilink").
 
 이 클럽은 현재까지 주요 대회 우승 기록이 없다. 하지만 [KNVB컵](../Page/KNVB컵.md "wikilink") 준우승은 네 차례나 하였다. 또한 [UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink") 1983-84에 나갔었고, [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink") 2003-04, 2008-09에도 출전하였다.
 

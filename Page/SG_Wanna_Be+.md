@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SG Wanna Be+](https://ko.wikipedia.org/wiki/SG_Wanna_Be+).
 
 
-《**SG Wanna Be+**》는 [SG 워너비의](https://ko.wikipedia.org/wiki/SG_워너비 "wikilink") 1집 앨범으로 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [1월 20일](https://ko.wikipedia.org/wiki/1월_20일 "wikilink") 발매했다. 데뷔전 TV광고를 통해서 얼굴없는 가수로 데뷔했다. 타이틀곡과 후속곡은'Timeless'와 '죽을 만큼 사랑했어요'이다. 뮤직비디오에서는 설경구, 김윤진, 김남진, 강혜정 등 초호화 캐스팅과 20억 원의 제작비를 투자해서 많은 관심을 받았다. 데뷔 후에는 그해 2004년 골든디스크에서 'PAVV 신인가수상'을 수상했으며 뮤직비디오도 골든비디오 부분 '작품상'을 수상하면서 엄청난 돌풍을 일으켰다
+《**SG Wanna Be+**》는 [SG 워너비의](../Page/SG_워너비.md "wikilink") 1집 앨범으로 [2004년](../Page/2004년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") 발매했다. 데뷔전 TV광고를 통해서 얼굴없는 가수로 데뷔했다. 타이틀곡과 후속곡은'Timeless'와 '죽을 만큼 사랑했어요'이다. 뮤직비디오에서는 설경구, 김윤진, 김남진, 강혜정 등 초호화 캐스팅과 20억 원의 제작비를 투자해서 많은 관심을 받았다. 데뷔 후에는 그해 2004년 골든디스크에서 'PAVV 신인가수상'을 수상했으며 뮤직비디오도 골든비디오 부분 '작품상'을 수상하면서 엄청난 돌풍을 일으켰다
 
 ## 뮤직비디오
 

@@ -5,15 +5,15 @@
 
 ## EPA에 속해있는 통신사
 
-  - [ANA](https://ko.wikipedia.org/wiki/ANA_\(Greek_photo_agency\) "wikilink"), [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink") (http://www.ana.gr)
-  - [ANP](https://ko.wikipedia.org/wiki/ANP "wikilink"), [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") (http://www.anp.nl)
-  - [ANSA](https://ko.wikipedia.org/wiki/ANSA "wikilink"), [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") (http://www.ansa.it)
-  - [APA](https://ko.wikipedia.org/wiki/APA "wikilink"), [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink") (http://www.apa.at)
-  - [EFE](https://ko.wikipedia.org/wiki/EFE "wikilink"), [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") (http://www.efe.es)
+  - [ANA](https://ko.wikipedia.org/wiki/ANA_\(Greek_photo_agency\) "wikilink"), [그리스](../Page/그리스.md "wikilink") (http://www.ana.gr)
+  - [ANP](https://ko.wikipedia.org/wiki/ANP "wikilink"), [네덜란드](../Page/네덜란드.md "wikilink") (http://www.anp.nl)
+  - [ANSA](https://ko.wikipedia.org/wiki/ANSA "wikilink"), [이탈리아](../Page/이탈리아.md "wikilink") (http://www.ansa.it)
+  - [APA](https://ko.wikipedia.org/wiki/APA "wikilink"), [오스트리아](../Page/오스트리아.md "wikilink") (http://www.apa.at)
+  - [EFE](https://ko.wikipedia.org/wiki/EFE "wikilink"), [스페인](../Page/스페인.md "wikilink") (http://www.efe.es)
   - [KEYSTONE](https://ko.wikipedia.org/wiki/KEYSTONE "wikilink"), [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") (http://www.keystone.ch)
-  - [LUSA](https://ko.wikipedia.org/wiki/LUSA "wikilink"), [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink") (http://www.lusa.pt)
-  - [MTI](https://ko.wikipedia.org/wiki/MTI "wikilink"), [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink") (https://web.archive.org/web/20080712083534/http://www.mti.hu/)
-  - [PAP](https://ko.wikipedia.org/wiki/PAP "wikilink"), [폴란드](https://ko.wikipedia.org/wiki/폴란드 "wikilink") (http://www.pap.pl)
+  - [LUSA](https://ko.wikipedia.org/wiki/LUSA "wikilink"), [포르투갈](../Page/포르투갈.md "wikilink") (http://www.lusa.pt)
+  - [MTI](https://ko.wikipedia.org/wiki/MTI "wikilink"), [헝가리](../Page/헝가리.md "wikilink") (https://web.archive.org/web/20080712083534/http://www.mti.hu/)
+  - [PAP](https://ko.wikipedia.org/wiki/PAP "wikilink"), [폴란드](../Page/폴란드.md "wikilink") (http://www.pap.pl)
 
 ## 각주
 

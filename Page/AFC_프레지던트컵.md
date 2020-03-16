@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
 
 
-**AFC 프레지던트컵**(AFC President's Cup)은 [아시아 축구 연맹의](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") 회원국의 클럽팀이 참가하던 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회로 매년 열리는 대회였다. 2014년 시즌을 끝으로 폐지되었다.
+**AFC 프레지던트컵**(AFC President's Cup)은 [아시아 축구 연맹의](../Page/아시아_축구_연맹.md "wikilink") 회원국의 클럽팀이 참가하던 [축구](../Page/축구.md "wikilink") 대회로 매년 열리는 대회였다. 2014년 시즌을 끝으로 폐지되었다.
 
 ## 참가 클럽
 
-프레지던트컵에 참가한 클럽들은 [아시아 축구 연맹](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink")(AFC)에 속한 국가의 클럽 팀으로 한정되었다. AFC의 모든 회원국 가운데 아시아 축구 연맹의 "비전 아시아" 정책에 따라 "신흥 국가"로 결정된 국가들이 참가했다. 나머지 국가의 클럽팀들은 [AFC 챔피언스리그나](../Page/AFC_챔피언스리그.md "wikilink") [AFC컵](../Page/AFC컵.md "wikilink")에 참가했다. 신흥 국가들 가운데 합당할 만한 국내 축구 리그가 존재하는 국가의 우승 팀만이 참가했다.
+프레지던트컵에 참가한 클럽들은 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)에 속한 국가의 클럽 팀으로 한정되었다. AFC의 모든 회원국 가운데 아시아 축구 연맹의 "비전 아시아" 정책에 따라 "신흥 국가"로 결정된 국가들이 참가했다. 나머지 국가의 클럽팀들은 [AFC 챔피언스리그나](../Page/AFC_챔피언스리그.md "wikilink") [AFC컵](../Page/AFC컵.md "wikilink")에 참가했다. 신흥 국가들 가운데 합당할 만한 국내 축구 리그가 존재하는 국가의 우승 팀만이 참가했다.
 
 ## 대회 구성
 
 2007년 대회까지는 8팀이 두 개 조로 나뉘어 각 조의 1\~2위가 준결승전에 올라가는 방식으로 진행하였다. 2008년 대회에는 11팀이 3개 조로 나뉘어 각 조 1위팀이 준결승전에 올라가고 2위 세 팀 가운데 가장 좋은 성적을 기록한 한 팀이 준결승전에 참가하는 마지막 팀이 된다. 2011년 대회부터 팔레스타인의 신규 참가로 12개 팀이 되었으며, 방식도 각 조의 1\~2위를 차지한 6개 팀이 3팀씩 2개 조로 나뉘어서 다시 2차 조별 예선을 치른 후 각 조의 1위 팀이 결승전을 치르는 방식으로 바뀌었다.
 
-이전까지 [AFC 프레지던트컵은](https://ko.wikipedia.org/wiki/AFC_프레지던트컵 "wikilink") [AFC컵](../Page/AFC컵.md "wikilink")과 연계되지 않았지만 [아시아 축구 연맹의](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") 결정에 따라 [2014년 AFC 프레지던트컵](../Page/2014년_AFC_프레지던트컵.md "wikilink") 본선 진출팀은 [2015년 AFC컵](https://ko.wikipedia.org/wiki/2015년_AFC컵 "wikilink") 플레이오프에 참가하게 된다.
+이전까지 [AFC 프레지던트컵은](../Page/AFC_프레지던트컵.md "wikilink") [AFC컵](../Page/AFC컵.md "wikilink")과 연계되지 않았지만 [아시아 축구 연맹의](../Page/아시아_축구_연맹.md "wikilink") 결정에 따라 [2014년 AFC 프레지던트컵](../Page/2014년_AFC_프레지던트컵.md "wikilink") 본선 진출팀은 [2015년 AFC컵](https://ko.wikipedia.org/wiki/2015년_AFC컵 "wikilink") 플레이오프에 참가하게 된다.
 
 ### 대회 참가국
 
@@ -82,7 +82,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a><br />
+<td><p><a href="../Page/2005년.md" title="wikilink">2005년</a><br />
 <small><em><a href="../Page/2005년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/레가르_타다즈_투르순조다" title="wikilink">레가르 타다즈</a></strong></p></td>
@@ -92,7 +92,7 @@
  <a href="https://ko.wikipedia.org/wiki/스리_스타_클럽" title="wikilink">스리 스타 클럽</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a><br />
+<td><p><a href="../Page/2006년.md" title="wikilink">2006년</a><br />
 <small><em><a href="../Page/2006년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/FC_도르도이_비슈케크" title="wikilink">도르도이 디나모</a></strong></p></td>
@@ -102,7 +102,7 @@
  <a href="https://ko.wikipedia.org/wiki/다퉁_FC" title="wikilink">다퉁</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a><br />
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a><br />
 <small><em><a href="../Page/2007년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/FC_도르도이_비슈케크" title="wikilink">도르도이 디나모</a></p></td>
@@ -112,7 +112,7 @@
  <a href="https://ko.wikipedia.org/wiki/레가르_타다즈_투르순조다" title="wikilink">레가르 타다즈</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a><br />
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a><br />
 <small><em><a href="../Page/2008년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/레가르_타다즈_투르순조다" title="wikilink">레가르 타다즈</a></strong></p></td>
@@ -123,7 +123,7 @@
  <a href="https://ko.wikipedia.org/wiki/네팔_폴리스_클럽" title="wikilink">마헨드라 폴리스 클럽</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a><br />
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a><br />
 <small><em><a href="../Page/2009년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/레가르_타다즈_투르순조다" title="wikilink">레가르 타다즈</a></strong></p></td>
@@ -133,7 +133,7 @@
  <a href="https://ko.wikipedia.org/wiki/WAPDA_FC" title="wikilink">WAPDA</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a><br />
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a><br />
 <small><em><a href="../Page/2010년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
 <td><p><strong><a href="../Page/야다나본_FC.md" title="wikilink">야다나본</a></strong></p></td>
@@ -143,7 +143,7 @@
  <a href="https://ko.wikipedia.org/wiki/바흐시_쿠르곤텝파" title="wikilink">바흐시 쿠르곤텝파</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a><br />
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a><br />
 <small><em><a href="../Page/2011년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
 <td><p><strong><a href="../Page/타이완_파워_컴퍼니_FC.md" title="wikilink">타이완 파워 컴퍼니</a></strong></p></td>
@@ -154,7 +154,7 @@
 (결승 라운드 조별 예선 2위 팀)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a><br />
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a><br />
 <small><em><a href="../Page/2012년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/FC_이스티클롤" title="wikilink">이스티클롤</a></strong></p></td>
@@ -165,7 +165,7 @@
 (결승 라운드 조별 예선 2위 팀)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a><br />
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a><br />
 <small><em><a href="../Page/2013년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/FK_발칸" title="wikilink">발칸</a></strong></p></td>
@@ -176,7 +176,7 @@
 (결승 라운드 조별 예선 2위 팀)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a><br />
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a><br />
 <small><em><a href="../Page/2014년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/HTTU_아시가바트" title="wikilink">HTTU 아시가바트</a></strong></p></td>

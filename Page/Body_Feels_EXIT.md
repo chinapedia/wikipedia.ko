@@ -12,7 +12,7 @@
 
 ## 그 밖의 버전
 
-보디 필스 엑시트의 [영문](https://ko.wikipedia.org/wiki/영어 "wikilink") 버전은 [유로비트](https://ko.wikipedia.org/wiki/:en:Eurobeat "wikilink") 음악가 버지넬이 제작하였다. 이 곡은 수퍼 유로비트 볼륨 80 : 리퀘스트 카운트다운 80(1997년)의 보너스 디스크에 수록되어 있다.
+보디 필스 엑시트의 [영문](../Page/영어.md "wikilink") 버전은 [유로비트](https://ko.wikipedia.org/wiki/:en:Eurobeat "wikilink") 음악가 버지넬이 제작하였다. 이 곡은 수퍼 유로비트 볼륨 80 : 리퀘스트 카운트다운 80(1997년)의 보너스 디스크에 수록되어 있다.
 
 ## 인물
 

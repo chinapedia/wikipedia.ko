@@ -16,7 +16,7 @@
 
 :\*작사: [motsu](https://ko.wikipedia.org/wiki/motsu "wikilink"), 작곡: [t-kimura](https://ko.wikipedia.org/wiki/t-kimura "wikilink")
 
-:\*[후지 TV계](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 애니메이션 [이니셜 D](../Page/이니셜_D.md "wikilink") 오프닝 테마 송
+:\*[후지 TV계](../Page/후지_TV.md "wikilink") 애니메이션 [이니셜 D](../Page/이니셜_D.md "wikilink") 오프닝 테마 송
 
 1.  around the world(in the midnight (work) mix)
 2.  around the world(tv mix)

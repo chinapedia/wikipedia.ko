@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FHM](https://ko.wikipedia.org/wiki/FHM).
 
 
-**FHM**()은 남성 독자를 목표로 하는 대중 잡지이다. [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 *For Him*이라는 제목으로 발행되기 시작했으며 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")부터는 *FHM*이라는 마크로 인쇄되기 시작했다. 대개 잡지 첫 표지에는 *For Him Magazine*이라는 표시도 함께 표시됐다. 크리스 애스트리지가 설립했으며 남성 패션 경향에 대해 많이 다루고 있으며 거리 패션 동향을 취재하는 내용을 많이 다뤘다. [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")부터는 연 4회 출판으로 바뀌었다.\[1\] *FHM*은 원래 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [미디어](https://ko.wikipedia.org/wiki/미디어 "wikilink") 회사인 EMAP이 소유하다 독일의 대형 미디어사인 Bauer Verlagsgruppe에 2007년 12월 매각했다.\[2\]
+**FHM**()은 남성 독자를 목표로 하는 대중 잡지이다. [1985년](../Page/1985년.md "wikilink") [영국](../Page/영국.md "wikilink")에서 *For Him*이라는 제목으로 발행되기 시작했으며 [1994년](../Page/1994년.md "wikilink")부터는 *FHM*이라는 마크로 인쇄되기 시작했다. 대개 잡지 첫 표지에는 *For Him Magazine*이라는 표시도 함께 표시됐다. 크리스 애스트리지가 설립했으며 남성 패션 경향에 대해 많이 다루고 있으며 거리 패션 동향을 취재하는 내용을 많이 다뤘다. [1987년](../Page/1987년.md "wikilink")부터는 연 4회 출판으로 바뀌었다.\[1\] *FHM*은 원래 [영국](../Page/영국.md "wikilink")의 [미디어](https://ko.wikipedia.org/wiki/미디어 "wikilink") 회사인 EMAP이 소유하다 독일의 대형 미디어사인 Bauer Verlagsgruppe에 2007년 12월 매각했다.\[2\]
 
 영국에서 같은 종류의 잡지인 *Loaded*가 출판되기 시작하면서 *For Him* 측에서는 편집 방법에서부터 경쟁 체제로 변모하기 시작했다. 스포츠 상품에 대한 정보를 싣고 월간지로 바꾸었으며 이름을 *FHM*로도 바꾸며 시장 개척에 나서고 있다.
 

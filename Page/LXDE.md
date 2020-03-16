@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LXDE](https://ko.wikipedia.org/wiki/LXDE).
 
 
-형 **LXDE**(Lightweight X11 Desktop Environment)는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink")와 [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") 호환 플랫폼([리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")나 [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink"))에서 사용할 수 있는 자유 오픈소스 데스크톱 환경이다. LXDE 프로젝트의 목적은 빠르고 에너지 효율적인 데스크톱 환경을 제공하는 것이다.
+형 **LXDE**(Lightweight X11 Desktop Environment)는 [유닉스](../Page/유닉스.md "wikilink")와 [POSIX](../Page/POSIX.md "wikilink") 호환 플랫폼([리눅스](../Page/리눅스.md "wikilink")나 [BSD](../Page/BSD.md "wikilink"))에서 사용할 수 있는 자유 오픈소스 데스크톱 환경이다. LXDE 프로젝트의 목적은 빠르고 에너지 효율적인 데스크톱 환경을 제공하는 것이다.
 
 저성능 컴퓨터, 노트북 및 저전력 초소형 컴퓨터에서도 원활하게 동작하도록 설계되었다. 2010년 당시 4대 인기 데스크톱 환경인 LXDE 0.5, GNOME 2.29, KDE 4.4, Xfce 4.6을 비교한 시험에서 LXDE가 가장 적은 메모리를 사용하고 에너지를 덜 소모한다는 결과가 나왔다.\[1\]
 

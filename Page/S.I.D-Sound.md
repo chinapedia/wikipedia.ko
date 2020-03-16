@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.I.D-Sound](https://ko.wikipedia.org/wiki/S.I.D-Sound).
 
 
-**S.I.D-Sound**(시드 사운드)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악제작 그룹이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 결성되었으며, 이름은 **'S**tudio. **I**nnocent **D**reamers-Sound project group'의 줄임말이다. 팀으로 활동을 시작하였으며, 주로 가요, 오리지널 음반, 애니메이션 음악, 게임 음악 등의 음악 제작 활동과 정기적인 공연 활동을 한다.
+**S.I.D-Sound**(시드 사운드)는 [대한민국](../Page/대한민국.md "wikilink")의 음악제작 그룹이다. [2005년](../Page/2005년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 결성되었으며, 이름은 **'S**tudio. **I**nnocent **D**reamers-Sound project group'의 줄임말이다. 팀으로 활동을 시작하였으며, 주로 가요, 오리지널 음반, 애니메이션 음악, 게임 음악 등의 음악 제작 활동과 정기적인 공연 활동을 한다.
 
 ## 멤버 구성
 
@@ -112,7 +112,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>SIDA-0001</p></td>
-<td style="text-align: center;"><p>1st. <a href="https://ko.wikipedia.org/wiki/Innocent_Eyes_(S.I.D-Sound의_음반)" title="wikilink">INNOCENT EYES</a></p></td>
+<td style="text-align: center;"><p>1st. <a href="../Page/Innocent_Eyes_(S.I.D-Sound의_음반).md" title="wikilink">INNOCENT EYES</a></p></td>
 <td style="text-align: center;"><p>07.02.15</p></td>
 <td style="text-align: center;"><p>10.07.16</p></td>
 <td style="text-align: center;"><p>-</p></td>
@@ -132,7 +132,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>두 번째 정규 음반, 타이틀 곡인 〈1dB의 마법〉과 <a href="https://ko.wikipedia.org/wiki/절망희_1부" title="wikilink">절망희 1부</a> OP 〈Lost Generation〉 등 총 11곡이 수록되었다.</p></td>
+<td style="text-align: center;"><p>두 번째 정규 음반, 타이틀 곡인 〈1dB의 마법〉과 <a href="../Page/절망희_1부.md" title="wikilink">절망희 1부</a> OP 〈Lost Generation〉 등 총 11곡이 수록되었다.</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -207,65 +207,65 @@
 
 ### 참여 음반
 
-  - Guest Project VOL.1 [白夜](https://ko.wikipedia.org/wiki/白夜 "wikilink")(White Night) ([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 2일](https://ko.wikipedia.org/wiki/2월_2일 "wikilink"))
+  - Guest Project VOL.1 [白夜](https://ko.wikipedia.org/wiki/白夜 "wikilink")(White Night) ([2008년](../Page/2008년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink"))
       - 시드 사운드와 외부 작곡가들의 곡들과 싱글 앨범 *Light Melody*의 곡들이 수록되었다.
-  - 동인 게임 주제가 모음 VOL.1 [Lucid Stars](https://ko.wikipedia.org/wiki/Lucid_Stars "wikilink") ([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 28일](https://ko.wikipedia.org/wiki/4월_28일 "wikilink"))
+  - 동인 게임 주제가 모음 VOL.1 [Lucid Stars](https://ko.wikipedia.org/wiki/Lucid_Stars "wikilink") ([2008년](../Page/2008년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink"))
       - 2007\~2008년간 시드 사운드에서 제작한 동인게임 주제가들이 수록되었다.
-  - Guest Project VOL.2 [Atmosphere](https://ko.wikipedia.org/wiki/Atmosphere "wikilink") ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink"))
+  - Guest Project VOL.2 [Atmosphere](https://ko.wikipedia.org/wiki/Atmosphere "wikilink") ([2009년](../Page/2009년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink"))
       - '대기권과 하늘' 을 테마로 제작되었으며 시드 사운드와 외부 작곡가들의 곡들이 수록되었다.
-  - [S.I.D-Sound on PopStage : the Collection](https://ko.wikipedia.org/wiki/S.I.D-Sound_on_PopStage_:_the_Collection "wikilink") ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink"))
+  - [S.I.D-Sound on PopStage : the Collection](https://ko.wikipedia.org/wiki/S.I.D-Sound_on_PopStage_:_the_Collection "wikilink") ([2009년](../Page/2009년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink"))
       - 온라인 리듬액션 게임, Popstage에 수록된 S.I.D Sound 곡들을 Full Version 음원으로 다시 제작한 앨범이다.
-  - [Diamond Stars](../Page/Diamond_Stars.md "wikilink") (시드 사운드 주제가 모음 VOL.2) ([2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 30일](https://ko.wikipedia.org/wiki/1월_30일 "wikilink"))
+  - [Diamond Stars](../Page/Diamond_Stars.md "wikilink") (시드 사운드 주제가 모음 VOL.2) ([2010년](../Page/2010년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink"))
       - 2008\~2009년간 시드사운드에서 제작한 동인게임 주제가들이 수록되었다.
-  - Guest Project VOL.3 [Miracle Planet](https://ko.wikipedia.org/wiki/Miracle_Planet "wikilink") ([2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink"))
+  - Guest Project VOL.3 [Miracle Planet](https://ko.wikipedia.org/wiki/Miracle_Planet "wikilink") ([2010년](../Page/2010년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink"))
       - Guest Project 시리즈의 마지막 Volume, '기적의 별'이라는 테마로 제작되었으며 시드 사운드와 외부 작곡가들의 곡들이 수록되었다.
-  - [S.I.D-Sound on O2Jam : the Collection](https://ko.wikipedia.org/wiki/S.I.D-Sound_on_O2Jam_:_the_Collection "wikilink") ([2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink"))
+  - [S.I.D-Sound on O2Jam : the Collection](https://ko.wikipedia.org/wiki/S.I.D-Sound_on_O2Jam_:_the_Collection "wikilink") ([2012년](../Page/2012년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink"))
       - 스마트폰 리듬액션 게임, O2Jam에 수록된 S.I.D Sound 곡들을 Full Version 음원으로 다시 제작한 앨범이다.
-  - The Acoustica VOL.1 [Will](https://ko.wikipedia.org/wiki/Will "wikilink") ([2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink"))
+  - The Acoustica VOL.1 [Will](https://ko.wikipedia.org/wiki/Will "wikilink") ([2012년](../Page/2012년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink"))
       - 8월 4일에 진행한 S.I.D-Sound의 어쿠스틱 공연. S.I.D-Sound the Acoustica에서 선보인 S.I.D-Sound의 어쿠스틱 어레인지 음원들을 모아둔 음반. 신곡인 DATE와 북극성 그리고 앨범의 타이틀 곡인 Will등이 수록되었다.
-  - Cradle Edge 1st. [M\!RROR](https://ko.wikipedia.org/wiki/M!RROR "wikilink") ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") )
+  - Cradle Edge 1st. [M\!RROR](https://ko.wikipedia.org/wiki/M!RROR "wikilink") ([2013년](../Page/2013년.md "wikilink") )
       - HiTaZ와 Banami가 결성한 유닛 Cradle Edge의 첫 정규 앨범이다. 타이틀곡은 M\!RROR
-  - Fate Symphonia ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") )
+  - Fate Symphonia ([2013년](../Page/2013년.md "wikilink") )
       - 서량, Vin, banami, Lucy, 그리고 새 멤버인 BORA와 복귀멤버 Elika가 참여한 앨범이다.
 
 ### 싱글
 
-  - [Resurrection](https://ko.wikipedia.org/wiki/Resurrection_\(S.I.D-Sound의_음반\) "wikilink") ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink"), 디지털 앨범)
+  - [Resurrection](https://ko.wikipedia.org/wiki/Resurrection_\(S.I.D-Sound의_음반\) "wikilink") ([2006년](../Page/2006년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink"), 디지털 앨범)
       - 최초로 공개된 비정규 음반
-  - [Light Melody](https://ko.wikipedia.org/wiki/Light_Melody "wikilink") ([2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink"), 디지털 앨범)
+  - [Light Melody](https://ko.wikipedia.org/wiki/Light_Melody "wikilink") ([2007년](../Page/2007년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink"), 디지털 앨범)
       - 두 번째 싱글음반, 보컬 Elika가 데뷔하였으며, 나중에 이 앨범의 수록곡들은 Guest Project Vol.1 白夜에 수록된다.
-  - [LIVE COMMUNICATION\!](https://ko.wikipedia.org/wiki/LIVE_COMMUNICATION! "wikilink") ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink"))
+  - [LIVE COMMUNICATION\!](https://ko.wikipedia.org/wiki/LIVE_COMMUNICATION! "wikilink") ([2009년](../Page/2009년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink"))
       - 시드 사운드의 첫 콘서트, 'LIVE COMMUNICATION\!'을 기념하는 음반으로 콘서트 현장 판매하였다.
 
 ### 미니 앨범
 
-  - [Monochrose](https://ko.wikipedia.org/wiki/Monochrose "wikilink") ([2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink"))
+  - [Monochrose](https://ko.wikipedia.org/wiki/Monochrose "wikilink") ([2011년](../Page/2011년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink"))
       - 보컬 Elika의 첫 번째 솔로 음반.
 
 <!-- end list -->
 
-  - [Departure Station](https://ko.wikipedia.org/wiki/Departure_Station "wikilink") ([2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink"))
+  - [Departure Station](https://ko.wikipedia.org/wiki/Departure_Station "wikilink") ([2011년](../Page/2011년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink"))
       - 시드사운드 유닛그룹 Liaxy의 첫 번째 솔로 음반.
 
 <!-- end list -->
 
-  - 소녀이론 - girl's theory - (TPRO.wav 1st Project) ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") )
+  - 소녀이론 - girl's theory - (TPRO.wav 1st Project) ([2013년](../Page/2013년.md "wikilink") )
       - 팀 프로그래시브의 첫 프로젝트 음반이다.
       - 최초판매는 2013년 5월 제 2회 케이크스퀘어 행사장 내 이노센트뮤직 부스에서 이루어졌다.
 
 <!-- end list -->
 
-  - Showcase Disk \~ first season \~ (Innocent Stars Showcase Disk 1st.) ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") )
+  - Showcase Disk \~ first season \~ (Innocent Stars Showcase Disk 1st.) ([2013년](../Page/2013년.md "wikilink") )
       - 이노센트뮤직과 S.I.D Sound의 콜라보레이션으로, 캐릭터 아이돌 프로젝트인 "Innocent Stars"의 데뷔 싱글 앨범이다.
 
 ### 관련 비디오 앨범
 
-  - Collector's Clips ([2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") )
+  - Collector's Clips ([2012년](../Page/2012년.md "wikilink") )
       - S.I.D Sound의 공연 실황 영상이 다수 수록된 컬렉션 앨범이다. 표지 속 인물은 banami.
       - 콘서트 영상이 담긴 DVD와 특전 음악CD로 구성되어있다.
-  - Winter Clips ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") )
+  - Winter Clips ([2013년](../Page/2013년.md "wikilink") )
       - S.I.D Sound Winter Party의 겨울라이브가 담긴 DVD이다. (현재 이노센트미디어 discography 목록에 존재하지 않는다.)
-  - Cloud Journey Clips ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") )
+  - Cloud Journey Clips ([2013년](../Page/2013년.md "wikilink") )
       - S.I.D-Sound Live Tour 2013 : Cloud Journey in SEOUL의 실황 영상이 담긴 비디오 앨범이다.
       - 두 장의 DVD로 구성되어있는데, disk1은 Cloud Journey in SEOUL, disk2는 전국투어 영상과 백스테이지 비디오가 담겨있다.
 
@@ -283,11 +283,11 @@
 
   - Love One (팀 Lo Project)
 
-  - [절망희 1부 \~Lost Arcadia\~](https://ko.wikipedia.org/wiki/절망희_1부 "wikilink") ([팀 바실리스크](https://ko.wikipedia.org/wiki/팀_바실리스크 "wikilink"))
+  - [절망희 1부 \~Lost Arcadia\~](../Page/절망희_1부.md "wikilink") ([팀 바실리스크](../Page/팀_바실리스크.md "wikilink"))
 
   - Intermedio Larghissimo (스튜디오 아인즈)
 
-  - [타르타로스 온라인](https://ko.wikipedia.org/wiki/타르타로스_온라인 "wikilink") (제작 [인티브 소프트](../Page/인티브_소프트.md "wikilink"), 배급 [위메이드 엔터테인먼트](https://ko.wikipedia.org/wiki/위메이드_엔터테인먼트 "wikilink"))
+  - [타르타로스 온라인](https://ko.wikipedia.org/wiki/타르타로스_온라인 "wikilink") (제작 [인티브 소프트](../Page/인티브_소프트.md "wikilink"), 배급 [위메이드 엔터테인먼트](../Page/위메이드_엔터테인먼트.md "wikilink"))
 
   - [팝스테이지](../Page/팝스테이지.md "wikilink") (제작/배급 [엠게임](../Page/엠게임.md "wikilink"))
 
@@ -301,7 +301,7 @@
 
   - 3M -Marionettes manipulate the marionette (Team 4(Hyperion))
 
-  - [절망희 2부 \~Cross Encounter\~](https://ko.wikipedia.org/wiki/절망희_2부 "wikilink") ([팀 바실리스크](https://ko.wikipedia.org/wiki/팀_바실리스크 "wikilink"))
+  - [절망희 2부 \~Cross Encounter\~](../Page/절망희_2부.md "wikilink") ([팀 바실리스크](../Page/팀_바실리스크.md "wikilink"))
 
   - Puella Bella (BMS, KBP2010 출품)
 
@@ -313,11 +313,11 @@
 
   - EZ2AC : ENDLESS CIRCULATION (Square Pixels)
 
-  - PUMP IT UP Fiesta EX (제작 [안다미로](https://ko.wikipedia.org/wiki/안다미로 "wikilink"))
+  - PUMP IT UP Fiesta EX (제작 [안다미로](../Page/안다미로.md "wikilink"))
 
   - [리듬앤파라다이스](https://ko.wikipedia.org/wiki/리듬앤파라다이스 "wikilink") (제작/배급 [엠게임](../Page/엠게임.md "wikilink"))
 
-  - [메이플스토리](https://ko.wikipedia.org/wiki/메이플스토리 "wikilink") (제작/배급 [넥슨](https://ko.wikipedia.org/wiki/넥슨 "wikilink"))
+  - [메이플스토리](../Page/메이플스토리.md "wikilink") (제작/배급 [넥슨](../Page/넥슨.md "wikilink"))
 
   - [오투잼 아날로그](../Page/오투잼_아날로그.md "wikilink") (제작 아이두아이앤씨, 배급 모모)
 
@@ -335,7 +335,7 @@
 ### 홍보영상
 
   - [유령왕](https://ko.wikipedia.org/wiki/유령왕 "wikilink") 5권 PV영상 (제작 [임달영](../Page/임달영.md "wikilink"), 배급 [시드 노벨](https://ko.wikipedia.org/wiki/시드_노벨 "wikilink"))
-  - 다빈치 푸드 ([스튜디오 애니멀](https://ko.wikipedia.org/wiki/스튜디오_애니멀 "wikilink"))
+  - 다빈치 푸드 ([스튜디오 애니멀](../Page/스튜디오_애니멀.md "wikilink"))
 
 ## 각주
 

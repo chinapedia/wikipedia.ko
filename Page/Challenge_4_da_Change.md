@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Challenge 4 da Change](https://ko.wikipedia.org/wiki/Challenge_4_da_Change).
 
 
-《**Challenge 4 Da Change**》는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 2일에](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 발매된 [키네틱플로우](https://ko.wikipedia.org/wiki/키네틱플로우 "wikilink")의 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**Challenge 4 Da Change**》는 [2006년](../Page/2006년.md "wikilink") [3월 2일에](../Page/3월_2일.md "wikilink") 발매된 [키네틱플로우](https://ko.wikipedia.org/wiki/키네틱플로우 "wikilink")의 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 곡목록
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(DC \)](https://ko.wikipedia.org/wiki/_\(DC_\)).
 
 
-**조커**()는 [DC 코믹스에서](../Page/DC_코믹스.md "wikilink") 출판한 [만화책](../Page/만화책.md "wikilink")들에 나오는 [슈퍼 빌런](https://ko.wikipedia.org/wiki/슈퍼_빌런 "wikilink") 캐릭터이다. [빌 핑거](https://ko.wikipedia.org/wiki/빌_핑거 "wikilink"), [밥 케인](https://ko.wikipedia.org/wiki/밥_케인 "wikilink"), [제리 로빈슨이](https://ko.wikipedia.org/wiki/제리_로빈슨 "wikilink") 만든 인물로, 《[배트맨](https://ko.wikipedia.org/wiki/배트맨_\(영화\) "wikilink")》(1940년)에 처음으로 등장하였다. 조커는 [배트맨](https://ko.wikipedia.org/wiki/배트맨 "wikilink")의 적대자이자 범죄의 대가이며, 얼빠진 데다가 악의라곤 찾아볼 수 없는 [책략가에서](../Page/트릭스터.md "wikilink") 도둑에서부터 자신의 즐거움을 위해 살인 등 법률에 위반되는 행위를 자행하는 폭력적인 반사회적 이상 성격자에 이르기까지 다채로운 성향을 갖고 있다. 조커의 정체는 확실히 알려져 있지 않기 때문에 그의 기원에 관하여 여러 견해가 있다. 대다수 사람들은 공통적으로 그가 화학 약품 폐기물이 들어있는 큰 통에 빠져 피부가 표백되고 머리카락은 초록색으로, 입술은 선명한 붉은색에 엄청나게 크게 찢어지는 등 흡사 [광대](https://ko.wikipedia.org/wiki/광대 "wikilink")의 모습으로 변종된 것으로 묘사하고 있다. 조커는 《[배트맨: 애니메이티드 시리즈](https://ko.wikipedia.org/wiki/배트맨:_애니메이티드_시리즈 "wikilink")》, 《[배트맨](../Page/배트맨_\(1989년_영화\).md "wikilink")》, 《[다크 나이트](../Page/다크_나이트.md "wikilink")》 등 배트맨과 관련된 수많은 매체에 등장하였다.
+**조커**()는 [DC 코믹스에서](../Page/DC_코믹스.md "wikilink") 출판한 [만화책](../Page/만화책.md "wikilink")들에 나오는 [슈퍼 빌런](https://ko.wikipedia.org/wiki/슈퍼_빌런 "wikilink") 캐릭터이다. [빌 핑거](https://ko.wikipedia.org/wiki/빌_핑거 "wikilink"), [밥 케인](https://ko.wikipedia.org/wiki/밥_케인 "wikilink"), [제리 로빈슨이](https://ko.wikipedia.org/wiki/제리_로빈슨 "wikilink") 만든 인물로, 《[배트맨](https://ko.wikipedia.org/wiki/배트맨_\(영화\) "wikilink")》(1940년)에 처음으로 등장하였다. 조커는 [배트맨](../Page/배트맨.md "wikilink")의 적대자이자 범죄의 대가이며, 얼빠진 데다가 악의라곤 찾아볼 수 없는 [책략가에서](../Page/트릭스터.md "wikilink") 도둑에서부터 자신의 즐거움을 위해 살인 등 법률에 위반되는 행위를 자행하는 폭력적인 반사회적 이상 성격자에 이르기까지 다채로운 성향을 갖고 있다. 조커의 정체는 확실히 알려져 있지 않기 때문에 그의 기원에 관하여 여러 견해가 있다. 대다수 사람들은 공통적으로 그가 화학 약품 폐기물이 들어있는 큰 통에 빠져 피부가 표백되고 머리카락은 초록색으로, 입술은 선명한 붉은색에 엄청나게 크게 찢어지는 등 흡사 [광대](https://ko.wikipedia.org/wiki/광대 "wikilink")의 모습으로 변종된 것으로 묘사하고 있다. 조커는 《[배트맨: 애니메이티드 시리즈](https://ko.wikipedia.org/wiki/배트맨:_애니메이티드_시리즈 "wikilink")》, 《[배트맨](../Page/배트맨_\(1989년_영화\).md "wikilink")》, 《[다크 나이트](../Page/다크_나이트.md "wikilink")》 등 배트맨과 관련된 수많은 매체에 등장하였다.
 
 ## 무기 및 능력
 
@@ -18,7 +18,7 @@
 ### [배트맨: 킬링 조크](https://ko.wikipedia.org/wiki/배트맨:_킬링_조크 "wikilink") (Killing Joke)
 
   - 2010년 11월 5일 [세미콜론](https://ko.wikipedia.org/wiki/세미콜론 "wikilink") 출판사 발행.
-  - 작가: [앨런 무어](https://ko.wikipedia.org/wiki/앨런_무어 "wikilink"), [브라이언 볼런드](../Page/브라이언_볼런드.md "wikilink").
+  - 작가: [앨런 무어](../Page/앨런_무어.md "wikilink"), [브라이언 볼런드](../Page/브라이언_볼런드.md "wikilink").
 
 조커의 기원에 관한 가장 유명한 작품으로, 가난한 개그맨이 겪게 된 "최악의 하루"가 주된 내용이다. 배트맨이 가지는 조커에 대한 기묘한 동질감에 기원한 구원의 메시지와, 조커가 대답하는 "정신병원에서 탈출하려는 두 미치광이"에 관한 코메디가 뒤섞인 마지막 장면은 긴 여운으로 남는다.
 
@@ -26,7 +26,7 @@
 
   - 2012년 [세미콜론](https://ko.wikipedia.org/wiki/세미콜론 "wikilink") 출판사 발행 예정
   - 작가: [에드 브루베이커](../Page/에드_브루베이커.md "wikilink")
-  - [빅토르 위고의](https://ko.wikipedia.org/wiki/빅토르_위고 "wikilink") "웃는 남자"에서 제목을 따 왔음.
+  - [빅토르 위고의](../Page/빅토르_위고.md "wikilink") "웃는 남자"에서 제목을 따 왔음.
 
 ## 애니메이션
 
@@ -62,9 +62,9 @@
 
 ### [배트맨](../Page/배트맨_\(1989년_영화\).md "wikilink")
 
-  - 1989년 [팀 버튼](https://ko.wikipedia.org/wiki/팀_버튼 "wikilink") 감독
+  - 1989년 [팀 버튼](../Page/팀_버튼.md "wikilink") 감독
 
-[잭 니컬슨이](https://ko.wikipedia.org/wiki/잭_니컬슨 "wikilink") 연기했다. 극중 이름은 잭 네이피어. 갱단 중간간부 출신으로 화학약품에 빠져 기괴한 외모를 갖게 되자 갱단, 배트맨, 도시 전체를 공격하는 미친 테러리스트로 변신한다. 배트맨의 부모님인 토마스와 마사 웨인 부부를 살해한 장본인으로 묘사된다.
+[잭 니컬슨이](../Page/잭_니컬슨.md "wikilink") 연기했다. 극중 이름은 잭 네이피어. 갱단 중간간부 출신으로 화학약품에 빠져 기괴한 외모를 갖게 되자 갱단, 배트맨, 도시 전체를 공격하는 미친 테러리스트로 변신한다. 배트맨의 부모님인 토마스와 마사 웨인 부부를 살해한 장본인으로 묘사된다.
 
 ### [다크 나이트](../Page/다크_나이트.md "wikilink")
 

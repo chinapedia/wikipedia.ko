@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
 
 
-**FIFA 풋살 월드컵**(FIFA Futsal World Cup / FIFA Futsal World Championship)은 국제 기구인 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가맹된 남자 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 국가대표팀끼리 승부를 겨루는 국제 풋살 대회이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")까지는 FIFA 풋살 세계 선수권 대회로 불리었다.
+**FIFA 풋살 월드컵**(FIFA Futsal World Cup / FIFA Futsal World Championship)은 국제 기구인 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가맹된 남자 [풋살](../Page/풋살.md "wikilink") 국가대표팀끼리 승부를 겨루는 국제 풋살 대회이다. [2004년](../Page/2004년.md "wikilink")까지는 FIFA 풋살 세계 선수권 대회로 불리었다.
 
 ## 역대 대회
 
@@ -254,9 +254,9 @@
   - [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink")
   - [FIFA U-20 월드컵](../Page/FIFA_U-20_월드컵.md "wikilink")
   - [FIFA U-17 월드컵](../Page/FIFA_U-17_월드컵.md "wikilink")
-  - [FIFA 컨페더레이션스컵](https://ko.wikipedia.org/wiki/FIFA_컨페더레이션스컵 "wikilink")
+  - [FIFA 컨페더레이션스컵](../Page/FIFA_컨페더레이션스컵.md "wikilink")
   - [FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink")
-  - [FIFA 비치사커 월드컵](https://ko.wikipedia.org/wiki/FIFA_비치사커_월드컵 "wikilink")
+  - [FIFA 비치사커 월드컵](../Page/FIFA_비치사커_월드컵.md "wikilink")
   - [남자 올림픽 축구](../Page/올림픽_축구.md "wikilink")
   - [FIFA 인터랙티브 월드컵](https://ko.wikipedia.org/wiki/FIFA_인터랙티브_월드컵 "wikilink")
   - [FIFA 블루 스타스 / FIFA 유스컵](https://ko.wikipedia.org/wiki/FIFA_블루_스타스_/_FIFA_유스컵 "wikilink")
@@ -264,8 +264,8 @@
 **여자 대회**
 
   - [FIFA 여자 월드컵](../Page/FIFA_여자_월드컵.md "wikilink")
-  - [FIFA U-20 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-20_여자_월드컵 "wikilink")
-  - [FIFA U-17 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-17_여자_월드컵 "wikilink")
+  - [FIFA U-20 여자 월드컵](../Page/FIFA_U-20_여자_월드컵.md "wikilink")
+  - [FIFA U-17 여자 월드컵](../Page/FIFA_U-17_여자_월드컵.md "wikilink")
   - [여자 올림픽 축구](../Page/올림픽_축구.md "wikilink")
 
 ## 외부 링크

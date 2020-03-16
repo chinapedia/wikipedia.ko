@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [More \(\)](https://ko.wikipedia.org/wiki/More_\(\)).
 
 
-[명령 프롬프트에서](https://ko.wikipedia.org/wiki/명령_프롬프트 "wikilink") **`more`**는 [텍스트 파일의](../Page/텍스트_파일.md "wikilink") 내용을 한 번에 한 화면씩 보여주기 위한 [명령어이다](https://ko.wikipedia.org/wiki/명령어\(전산\) "wikilink").([터미널 페이저](https://ko.wikipedia.org/wiki/터미널_페이저 "wikilink")). 이 명령어는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink")와 [유닉스 계통](https://ko.wikipedia.org/wiki/유닉스_계통 "wikilink") 시스템, [도스](https://ko.wikipedia.org/wiki/도스 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), 그리고 [윈도에서](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 사용된다. 이러한 종류의 프로그램은 [페이저](https://ko.wikipedia.org/wiki/터미널_페이저 "wikilink")\[1\]라고 불린다. `more`는 매우 기본적인 페이저로서, 원래는 파일의 앞방향으로 밖에 움직일 수 없지만, 새로운 구현체는 뒷방향으로 움직이는 기능을 제한적으로 제공하고 있다.
+[명령 프롬프트에서](https://ko.wikipedia.org/wiki/명령_프롬프트 "wikilink") **`more`**는 [텍스트 파일의](../Page/텍스트_파일.md "wikilink") 내용을 한 번에 한 화면씩 보여주기 위한 [명령어이다](https://ko.wikipedia.org/wiki/명령어\(전산\) "wikilink").([터미널 페이저](https://ko.wikipedia.org/wiki/터미널_페이저 "wikilink")). 이 명령어는 [유닉스](../Page/유닉스.md "wikilink")와 [유닉스 계통](https://ko.wikipedia.org/wiki/유닉스_계통 "wikilink") 시스템, [도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), 그리고 [윈도에서](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 사용된다. 이러한 종류의 프로그램은 [페이저](https://ko.wikipedia.org/wiki/터미널_페이저 "wikilink")\[1\]라고 불린다. `more`는 매우 기본적인 페이저로서, 원래는 파일의 앞방향으로 밖에 움직일 수 없지만, 새로운 구현체는 뒷방향으로 움직이는 기능을 제한적으로 제공하고 있다.
 
 ## 역사
 
-`more` 명령어는 원래 [캘리포니아 대학교 버클리](https://ko.wikipedia.org/wiki/캘리포니아_대학교_버클리 "wikilink") 졸업생인 다니엘 할버트(Daniel Halbert)가 1978년에 작성한 것이다. 이것은 3.0 [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink")에 최초로 포함된 이래로 모든 유닉스 시스템에서 표준 프로그램으로 사용되고 있다. 이와 비슷한 명령어인 [`less`](https://ko.wikipedia.org/wiki/less "wikilink")는 파일의 앞 방향만이 아닌 앞뒤 방향 모두로 움직일 수 있는 확장된 기능을 제공하는데 1983-85년에 마크(Mark Nudelman)가 작성한 것으로, 현재는 거의 모든 유닉스, 유닉스 계통 시스템에 포함되어 있다.
+`more` 명령어는 원래 [캘리포니아 대학교 버클리](../Page/캘리포니아_대학교_버클리.md "wikilink") 졸업생인 다니엘 할버트(Daniel Halbert)가 1978년에 작성한 것이다. 이것은 3.0 [BSD](../Page/BSD.md "wikilink")에 최초로 포함된 이래로 모든 유닉스 시스템에서 표준 프로그램으로 사용되고 있다. 이와 비슷한 명령어인 [`less`](https://ko.wikipedia.org/wiki/less "wikilink")는 파일의 앞 방향만이 아닌 앞뒤 방향 모두로 움직일 수 있는 확장된 기능을 제공하는데 1983-85년에 마크(Mark Nudelman)가 작성한 것으로, 현재는 거의 모든 유닉스, 유닉스 계통 시스템에 포함되어 있다.
 
 ## 사용법
 

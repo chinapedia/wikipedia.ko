@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [My Vintage Romance](https://ko.wikipedia.org/wiki/My_Vintage_Romance).
 
 
-《**My vintage romance**》는 [알렉스가](https://ko.wikipedia.org/wiki/알렉스_\(1979년\) "wikilink") [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 발매한 1집 솔로 앨범이다.
+《**My vintage romance**》는 [알렉스가](https://ko.wikipedia.org/wiki/알렉스_\(1979년\) "wikilink") [2008년](../Page/2008년.md "wikilink")에 발매한 1집 솔로 앨범이다.
 
 ## 트랙
 

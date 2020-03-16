@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PDCP](https://ko.wikipedia.org/wiki/PDCP).
 
 
-**PDCP**(Packet Data Convergence Protocol)는 [UMTS](https://ko.wikipedia.org/wiki/UMTS "wikilink")내 무선 트래픽 스택의 계층 중 하나이며, IP 헤더 압축 및 압축 해지, 사용자 데이터의 전송, Radio Bearer에 대한 시퀀스 번호 유지를 수행한다.
+**PDCP**(Packet Data Convergence Protocol)는 [UMTS](../Page/UMTS.md "wikilink")내 무선 트래픽 스택의 계층 중 하나이며, IP 헤더 압축 및 압축 해지, 사용자 데이터의 전송, Radio Bearer에 대한 시퀀스 번호 유지를 수행한다.
 
 압축 기술은 RFC 2507 또는 RFC 3095에 기반한다. RFC 1144에서 기술되는 몇 가지 정보도 사용되지만 현대 [TCP/IP](https://ko.wikipedia.org/wiki/TCP/IP "wikilink")에서는 사용되지 않는다.
 

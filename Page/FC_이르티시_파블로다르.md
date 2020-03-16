@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 이르티시**는 [카자흐스탄](https://ko.wikipedia.org/wiki/카자흐스탄 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, [파블로다르 주의](https://ko.wikipedia.org/wiki/파블로다르_주 "wikilink") 주도인 [파블로다르](https://ko.wikipedia.org/wiki/파블로다르 "wikilink")를 연고로 하여, [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink")에 창단되었다. 현재 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 활동하고 있다. 이르티시는 카자흐스탄이 독립한 이후로 만들어진 카자흐스탄 프리미어리그에서 한번도 강등된 적이 없으며, 리그 우승을 5회 기록하였다. 또한 [AFC 챔피언스리그에도](../Page/AFC_챔피언스리그.md "wikilink") 여러 번 참가하여 2001년에는 준결승까지 올랐었다. 2003년에는 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 예선전에 참가했었다.
+**FC 이르티시**는 [카자흐스탄](../Page/카자흐스탄.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [파블로다르 주의](https://ko.wikipedia.org/wiki/파블로다르_주 "wikilink") 주도인 [파블로다르](../Page/파블로다르.md "wikilink")를 연고로 하여, [1965년](../Page/1965년.md "wikilink")에 창단되었다. 현재 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 활동하고 있다. 이르티시는 카자흐스탄이 독립한 이후로 만들어진 카자흐스탄 프리미어리그에서 한번도 강등된 적이 없으며, 리그 우승을 5회 기록하였다. 또한 [AFC 챔피언스리그에도](../Page/AFC_챔피언스리그.md "wikilink") 여러 번 참가하여 2001년에는 준결승까지 올랐었다. 2003년에는 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 예선전에 참가했었다.
 
 ## 클럽 이름의 변화
 
-  - [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") : FC 이르티시 (Irtysh)로 창단
-  - [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") : FC 트락토르 (Traktor)로 변경
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") : FC 안사트 (Ansat)로 변경
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") : FC 이르티시 (Irtysh)로 변경
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") : FC 이르티시-바스타우 (Irtysh-Bastau)로 변경 (후원사 때문에 변경함)
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") : FC 이르티시 (Irtysh)로 재변경
+  - [1965년](../Page/1965년.md "wikilink") : FC 이르티시 (Irtysh)로 창단
+  - [1968년](../Page/1968년.md "wikilink") : FC 트락토르 (Traktor)로 변경
+  - [1993년](../Page/1993년.md "wikilink") : FC 안사트 (Ansat)로 변경
+  - [1996년](../Page/1996년.md "wikilink") : FC 이르티시 (Irtysh)로 변경
+  - [1999년](../Page/1999년.md "wikilink") : FC 이르티시-바스타우 (Irtysh-Bastau)로 변경 (후원사 때문에 변경함)
+  - [2000년](../Page/2000년.md "wikilink") : FC 이르티시 (Irtysh)로 재변경
 
 ## 유명 선수
 
@@ -55,7 +55,7 @@
 
 <small>
 
-  - 이르티시는 카자흐스탄이 [유럽 축구 연맹으로](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") 옮겨오기 전에는 [아시아 축구 연맹에](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") 속해 있었기 때문에 [AFC 챔피언스리그에도](../Page/AFC_챔피언스리그.md "wikilink") 4회 출전 기록이 있다.
+  - 이르티시는 카자흐스탄이 [유럽 축구 연맹으로](../Page/유럽_축구_연맹.md "wikilink") 옮겨오기 전에는 [아시아 축구 연맹에](../Page/아시아_축구_연맹.md "wikilink") 속해 있었기 때문에 [AFC 챔피언스리그에도](../Page/AFC_챔피언스리그.md "wikilink") 4회 출전 기록이 있다.
       - 1994-95 : 예선전
       - 1998-99 : 1회전
       - 1999-00 : 조별리그

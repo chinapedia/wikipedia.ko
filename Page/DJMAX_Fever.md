@@ -13,9 +13,9 @@
 
 ## 역사
 
-  - 2008년 [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") - [IGN](http://www.ign.com/)을 통해 디제이맥스 피버의 발매소식이 올라옴.\[1\]
-  - 2008년 [10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") - 유튜브\[2\]에 디제이맥스 피버의 정식 트레일러 영상이 업로드되었다.
-  - 2009년 [1월 24일](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") - 정식 출시되었다.
+  - 2008년 [8월 13일](../Page/8월_13일.md "wikilink") - [IGN](http://www.ign.com/)을 통해 디제이맥스 피버의 발매소식이 올라옴.\[1\]
+  - 2008년 [10월 15일](../Page/10월_15일.md "wikilink") - 유튜브\[2\]에 디제이맥스 피버의 정식 트레일러 영상이 업로드되었다.
+  - 2009년 [1월 24일](../Page/1월_24일.md "wikilink") - 정식 출시되었다.
 
 ## 참조
 

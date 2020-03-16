@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Cp \(\)](https://ko.wikipedia.org/wiki/Cp_\(\)).
 
 
-`cp`는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") [셸](https://ko.wikipedia.org/wiki/셸 "wikilink")에서 한 [파일을](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink") 어떤 장소에서 다른 장소로 또는 다른 파일 시스템으로 옮길 때 사용하는 명령어이다. 원본 파일은 그대로 남아있고 새로운 파일이 기존 파일과 같은 이름으로 혹은 다른 이름으로 새로 생기게 된다.
+`cp`는 [유닉스](../Page/유닉스.md "wikilink") [셸](../Page/셸.md "wikilink")에서 한 [파일을](../Page/컴퓨터_파일.md "wikilink") 어떤 장소에서 다른 장소로 또는 다른 파일 시스템으로 옮길 때 사용하는 명령어이다. 원본 파일은 그대로 남아있고 새로운 파일이 기존 파일과 같은 이름으로 혹은 다른 이름으로 새로 생기게 된다.
 
-이 문서는 [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") 시스템의 명령어를 서술한다. [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 시스템의 `cp`는 추가적인 옵션들을 갖는다.
+이 문서는 [POSIX](../Page/POSIX.md "wikilink") 시스템의 명령어를 서술한다. [리눅스](../Page/리눅스.md "wikilink") 시스템의 `cp`는 추가적인 옵션들을 갖는다.
 
 ## 사용법
 
@@ -90,7 +90,7 @@
 ## 관련 유닉스 명령어
 
   - [`cpio`](https://ko.wikipedia.org/wiki/cpio "wikilink") : 전체 디렉터리 구조를 한 장소에서 다른 장소로 복사한다
-    [`tar`](https://ko.wikipedia.org/wiki/Tar_\(파일_포맷\) "wikilink") : 파일들의 아카이브(archive)를 만든다
+    [`tar`](../Page/Tar_\(파일_포맷\).md "wikilink") : 파일들의 아카이브(archive)를 만든다
     [`link`](https://ko.wikipedia.org/wiki/link "wikilink") : 다른 파일이나 디렉터리를 연결하기 위한 링크를 만들기 위한 시스템 콜
     [`ln`](https://ko.wikipedia.org/wiki/ln "wikilink") : 다른 파일이나 디렉터리로의 링크를 만든다
     [`mv`](https://ko.wikipedia.org/wiki/mv "wikilink") : 파일이나 디렉터리를 이동시킨다
@@ -100,7 +100,7 @@
     [`chown`](https://ko.wikipedia.org/wiki/chown "wikilink") : 파일이나 디렉터리의 소유권을 바꾼다
     [`chgrp`](https://ko.wikipedia.org/wiki/chgrp "wikilink") : 파일이나 디렉터리의 그룹을 바꾼다
     [`uucp`](https://ko.wikipedia.org/wiki/uucp "wikilink") : 유닉스에서 유닉스로 복사
-    [`scp`](https://ko.wikipedia.org/wiki/scp "wikilink") : [SSH로](https://ko.wikipedia.org/wiki/시큐어_셸 "wikilink") 안전하게 복사(secure copy)
+    [`scp`](https://ko.wikipedia.org/wiki/scp "wikilink") : [SSH로](../Page/시큐어_셸.md "wikilink") 안전하게 복사(secure copy)
 
 ## 참고
 

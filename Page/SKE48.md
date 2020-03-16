@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SKE48](https://ko.wikipedia.org/wiki/SKE48).
 
 
-**SKE48**(에스케이이포티에이트)는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 [아키모토 야스시의](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 프로듀싱으로 결성된 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). [AKB48](../Page/AKB48.md "wikilink")와는 다르게 대부분의 멤버가 [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink")을 비롯한 주부 지방 출신이라는 것이 특징이며, [주부 지방을](https://ko.wikipedia.org/wiki/주부_지방 "wikilink") 중심으로 활동한다.
+**SKE48**(에스케이이포티에이트)는 [2008년](../Page/2008년.md "wikilink")에 [아키모토 야스시의](../Page/아키모토_야스시.md "wikilink") 프로듀싱으로 결성된 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). [AKB48](../Page/AKB48.md "wikilink")와는 다르게 대부분의 멤버가 [아이치현](../Page/아이치현.md "wikilink")을 비롯한 주부 지방 출신이라는 것이 특징이며, [주부 지방을](../Page/주부_지방.md "wikilink") 중심으로 활동한다.
 
 ## 개요
 
@@ -9,13 +9,13 @@
 
 명칭인 「SKE」는 [극장](https://ko.wikipedia.org/wiki/극장 "wikilink")의 현지 장소인 사카에(**S**A**K**A**E**)를 딴 것이다.
 
-2009년 8월 5일에 [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")를 통해 싱글 強き者よ(강한 자여)를 발매하여 데뷔했으며 2010년 1월에 [CROWN GOLD](https://ko.wikipedia.org/wiki/CROWN_GOLD "wikilink"), 2011년 6월에 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")로 이적하였다\[1\].
+2009년 8월 5일에 [란티스](../Page/란티스.md "wikilink")를 통해 싱글 強き者よ(강한 자여)를 발매하여 데뷔했으며 2010년 1월에 [CROWN GOLD](https://ko.wikipedia.org/wiki/CROWN_GOLD "wikilink"), 2011년 6월에 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")로 이적하였다\[1\].
 
 2011년 11월 1일, [피타고라스 프로모션에서](https://ko.wikipedia.org/wiki/피타고라스_프로모션 "wikilink") SKE48 멤버 및 SKE48 사업에 종사하고 있던 스탭이 [AKS에](../Page/AKS_\(기업\).md "wikilink") 전적. 이후, 2019년 3월 1일에 [KeyHolder](https://ko.wikipedia.org/wiki/KeyHolder "wikilink") 관련 회사로 신설된 주식회사 SKE가 SKE48 사업을 AKS부터 계승. 동년 7월 1일 운영회사 주식회사 SKE가 주식회사 제스트로 개명.
 
 ### AKB48와 다른 점
 
-  - 대개 멤버의 출신지가 주부 지방의 [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink"), [기후현](https://ko.wikipedia.org/wiki/기후현 "wikilink"), [미에현](https://ko.wikipedia.org/wiki/미에현 "wikilink")이다.
+  - 대개 멤버의 출신지가 주부 지방의 [아이치현](../Page/아이치현.md "wikilink"), [기후현](../Page/기후현.md "wikilink"), [미에현](../Page/미에현.md "wikilink")이다.
   - 멤버 전원이 모두 AKS(2011년 10월 31일까지 피타고라스 프로모션)에 소속되어 있으며,
   - AKB48, [NMB48](../Page/NMB48.md "wikilink"), [HKT48](../Page/HKT48.md "wikilink"), [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink"), [STU48](../Page/STU48.md "wikilink")의 「캡틴」에 해당하는 멤버는 「리더」라고 호칭되고 있다.
   - 정식 멤버에서 연구생으로 격하와 연구생에서 정식 멤버로 승격이 AKB보다 많은 편이다.
@@ -189,7 +189,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠이_쥬리나" title="wikilink">마츠이 쥬리나</a></p></td>
+<td><p><a href="../Page/마츠이_쥬리나.md" title="wikilink">마츠이 쥬리나</a></p></td>
 <td><p>松井珠理奈</p></td>
 <td><p>まつい じゅりな</p></td>
 <td></td>
@@ -1058,7 +1058,7 @@ SKE48 극장 지배인</p></td>
 <td><p>高井つき奈</p></td>
 <td><p>たかい つきな</p></td>
 <td><p>2009년 8월 31일</p></td>
-<td><p>(<a href="https://ko.wikipedia.org/wiki/스타더스트_프로모션" title="wikilink">스타더스트 프로모션</a>)</p></td>
+<td><p>(<a href="../Page/스타더스트_프로모션.md" title="wikilink">스타더스트 프로모션</a>)</p></td>
 <td><p>전 <a href="https://ko.wikipedia.org/wiki/모모이로_클로버_Z" title="wikilink">모모이로 클로버</a></p></td>
 <td><p>-</p></td>
 <td></td>
@@ -1072,7 +1072,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2009년 11월 29일</p></td>
 <td><p>KII</p></td>
 <td><p>(AKS)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SDN48" title="wikilink">SDN48</a> 이적<br />
+<td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a> 이적<br />
 현예명 : <a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">테즈카 마치코</a> (手束真知子)</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1672,7 +1672,7 @@ SKE48 극장 지배인</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미야자와_사에" title="wikilink">미야자와 사에</a></p></td>
+<td><p><a href="../Page/미야자와_사에.md" title="wikilink">미야자와 사에</a></p></td>
 <td><p>宮澤佐江</p></td>
 <td><p>みやざわ さえ</p></td>
 <td><p>-</p></td>

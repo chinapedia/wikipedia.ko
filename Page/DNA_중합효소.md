@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DNA ](https://ko.wikipedia.org/wiki/DNA_).
 
 
-**DNA 중합효소**는 [DNA 복제를](https://ko.wikipedia.org/wiki/DNA_복제 "wikilink") 돕는 효소이다. 이런 효소들은 주형으로 읽히는 DNA 가닥을 따라서 디옥시리보뉴클레오타이드의 합성을 촉매한다. 새로 합성된 분자는 주형에 상보적이며 주형의 짝이 되는 가닥과 동일하다.
+**DNA 중합효소**는 [DNA 복제를](../Page/DNA_복제.md "wikilink") 돕는 효소이다. 이런 효소들은 주형으로 읽히는 DNA 가닥을 따라서 디옥시리보뉴클레오타이드의 합성을 촉매한다. 새로 합성된 분자는 주형에 상보적이며 주형의 짝이 되는 가닥과 동일하다.
 
 DNA 중합효소가 제대로 작동하기 위해서는 마그네슘 이온과 같은 조효소가 필요하기 때문에 holoenzyme으로 간주된다. 마그네슘 이온이 없을 때에는 apoenzyme이라고 불린다.
 

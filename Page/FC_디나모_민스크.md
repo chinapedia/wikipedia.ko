@@ -1,24 +1,24 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 디나모 민스크**()는 [벨라루스](https://ko.wikipedia.org/wiki/벨라루스 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, [수도](https://ko.wikipedia.org/wiki/수도 "wikilink")인 [민스크](https://ko.wikipedia.org/wiki/민스크 "wikilink")를 연고로 하여 창단되었다. 디나모 민스크는 [벨로루시 소비에트 사회주의 공화국에서](https://ko.wikipedia.org/wiki/벨로루시_소비에트_사회주의_공화국 "wikilink") [소비에트 탑 리그에](https://ko.wikipedia.org/wiki/소비에트_탑_리그 "wikilink") 참가한 유일한 팀으로 54시즌 가운데 39시즌 동안 참가하였다. 1982년에는 소비에트 리그 우승을 하였다.
+**FC 디나모 민스크**()는 [벨라루스](../Page/벨라루스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [수도](../Page/수도.md "wikilink")인 [민스크](../Page/민스크.md "wikilink")를 연고로 하여 창단되었다. 디나모 민스크는 [벨로루시 소비에트 사회주의 공화국에서](../Page/벨로루시_소비에트_사회주의_공화국.md "wikilink") [소비에트 탑 리그에](https://ko.wikipedia.org/wiki/소비에트_탑_리그 "wikilink") 참가한 유일한 팀으로 54시즌 가운데 39시즌 동안 참가하였다. 1982년에는 소비에트 리그 우승을 하였다.
 
 ## 경기장
 
-**FC 디나모 민스크**의 홈 경기장은 벨라루스 민스크에 있는 [트락토르 스타디움이다](https://ko.wikipedia.org/wiki/트락토르_스타디움 "wikilink"). 1968년에 개장했으며, 16500명을 수용할 수 있다. [1980년 하계 올림픽](https://ko.wikipedia.org/wiki/1980년_하계_올림픽 "wikilink") 직전에 리모델링 되었다. 두번째 리모델링은 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 이뤄졌는데, [UEFA](https://ko.wikipedia.org/wiki/UEFA "wikilink")의 새로운 규정에 맞춰 펜스를 설치하고 플라스틱 좌석을 설치하였다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 한 번 더 리모델링이 이뤄져 현재에 이르고 있다.
+**FC 디나모 민스크**의 홈 경기장은 벨라루스 민스크에 있는 [트락토르 스타디움이다](https://ko.wikipedia.org/wiki/트락토르_스타디움 "wikilink"). 1968년에 개장했으며, 16500명을 수용할 수 있다. [1980년 하계 올림픽](../Page/1980년_하계_올림픽.md "wikilink") 직전에 리모델링 되었다. 두번째 리모델링은 [1997년](../Page/1997년.md "wikilink")에 이뤄졌는데, [UEFA](https://ko.wikipedia.org/wiki/UEFA "wikilink")의 새로운 규정에 맞춰 펜스를 설치하고 플라스틱 좌석을 설치하였다. [2005년](../Page/2005년.md "wikilink")에 한 번 더 리모델링이 이뤄져 현재에 이르고 있다.
 
 ## 역사
 
-  - [1927년](https://ko.wikipedia.org/wiki/1927년 "wikilink") : 디나모 민스크 (Dynamo Minsk)로 창단
-  - [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink") : 해산됨
-  - [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink") : 스파르타크 민스크 (Spartak Minsk)로 재창단
-  - [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") : 벨라루스 민스크 (Belarus Minsk)로 변경
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") : 디나모 민스크 (Dynamo Minsk)로 변경
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") : 유러피언컵에 최초로 출전함
+  - [1927년](../Page/1927년.md "wikilink") : 디나모 민스크 (Dynamo Minsk)로 창단
+  - [1954년](../Page/1954년.md "wikilink") : 해산됨
+  - [1954년](../Page/1954년.md "wikilink") : 스파르타크 민스크 (Spartak Minsk)로 재창단
+  - [1959년](../Page/1959년.md "wikilink") : 벨라루스 민스크 (Belarus Minsk)로 변경
+  - [1962년](../Page/1962년.md "wikilink") : 디나모 민스크 (Dynamo Minsk)로 변경
+  - [1983년](../Page/1983년.md "wikilink") : 유러피언컵에 최초로 출전함
 
 ## 유명 선수
 
-  - [드미트리 시초프](https://ko.wikipedia.org/wiki/드미트리_시초프 "wikilink")
+  - [드미트리 시초프](../Page/드미트리_시초프.md "wikilink")
 
   - [라자르 베셀리노비치](../Page/라자르_베셀리노비치.md "wikilink")
 
@@ -230,7 +230,7 @@
 <td><p><a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
 <td><p>예선1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스콘토_FC" title="wikilink">스콘토</a></p></td>
+<td><p><a href="../Page/스콘토_FC.md" title="wikilink">스콘토</a></p></td>
 <td><p>0-0, <strong>1-2</strong></p></td>
 </tr>
 <tr class="odd">
@@ -326,7 +326,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA컵" title="wikilink">UEFA컵</a></p></td>
 <td><p>예선1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스콘토_FC" title="wikilink">스콘토</a></p></td>
+<td><p><a href="../Page/스콘토_FC.md" title="wikilink">스콘토</a></p></td>
 <td><p>1-1, <strong>2-0</strong></p></td>
 </tr>
 <tr class="odd">

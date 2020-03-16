@@ -21,10 +21,10 @@
 ### 공략 가능 히로인
 
   - 아사쿠라 네무()
-    성우 : [토리이 카논](https://ko.wikipedia.org/wiki/토리이_카논 "wikilink")(D.C. Summer Vacation까지)→[아구미 오토](https://ko.wikipedia.org/wiki/고토_마이_\(성우\) "wikilink")(CircusLand I이후)→[노가와 사쿠라](../Page/노가와_사쿠라.md "wikilink"), 캐릭터 디자인:[나나오 나루](https://ko.wikipedia.org/wiki/나나오_나루 "wikilink")
+    성우 : [토리이 카논](https://ko.wikipedia.org/wiki/토리이_카논 "wikilink")(D.C. Summer Vacation까지)→[아구미 오토](../Page/고토_마이_\(성우\).md "wikilink")(CircusLand I이후)→[노가와 사쿠라](../Page/노가와_사쿠라.md "wikilink"), 캐릭터 디자인:[나나오 나루](https://ko.wikipedia.org/wiki/나나오_나루 "wikilink")
     준이치의 의붓 여동생.
   - 요시노 사쿠라()
-    성우 : [호쿠토 미나미](https://ko.wikipedia.org/wiki/호쿠토_미나미 "wikilink")/[타무라 유카리](../Page/타무라_유카리.md "wikilink"), 캐릭터 디자인:나나오 나루
+    성우 : [호쿠토 미나미](../Page/호쿠토_미나미.md "wikilink")/[타무라 유카리](../Page/타무라_유카리.md "wikilink"), 캐릭터 디자인:나나오 나루
     D.C.전체 메인 히로인. 준이치의 [소꿉친구](https://ko.wikipedia.org/wiki/소꿉친구 "wikilink")로 [사촌](../Page/사촌.md "wikilink").
   - 시라카와 코토리()
     성우 : [히나타 유라](../Page/히나타_유라.md "wikilink")/[호리에 유이](../Page/호리에_유이.md "wikilink"), 캐릭터 디자인:나나오 나루
@@ -45,7 +45,7 @@
 ### D.C.P.S.
 
   - 츠키시로 앨리스()
-    성우 : 피로스/[하기와라 에미코](https://ko.wikipedia.org/wiki/하기와라_에미코 "wikilink")
+    성우 : 피로스/[하기와라 에미코](../Page/하기와라_에미코.md "wikilink")
 
 학교 뒤의 화단에서 항상 꽃이 피기만을 기다리는 말이 없는 하급생 소녀. 말을 주로 하지 않고 피로스라 불리는 삐에로 인형을 가지고 다니며 복화술로 메시지를 전달한다.
 
@@ -134,19 +134,19 @@
 
 ## D.C.II
 
-[성우](https://ko.wikipedia.org/wiki/성우 "wikilink") 항의 기재는, PC판/애니메이션판 및 PS2판의 순서이다("-"는 등장하고 있지 않는 캐릭터).
+[성우](../Page/성우.md "wikilink") 항의 기재는, PC판/애니메이션판 및 PS2판의 순서이다("-"는 등장하고 있지 않는 캐릭터).
 
 ### 주인공
 
   - 사쿠라이 요시유키()
-    성우:[스메라기 미카도](https://ko.wikipedia.org/wiki/타치바나_신노스케 "wikilink")(일부만)·[미사키 리나](../Page/이토_시즈카.md "wikilink")/[아사누마 신타로](https://ko.wikipedia.org/wiki/아사누마_신타로 "wikilink")·[이토 시즈카](../Page/이토_시즈카.md "wikilink")
+    성우:[스메라기 미카도](../Page/타치바나_신노스케.md "wikilink")(일부만)·[미사키 리나](../Page/이토_시즈카.md "wikilink")/[아사누마 신타로](https://ko.wikipedia.org/wiki/아사누마_신타로 "wikilink")·[이토 시즈카](../Page/이토_시즈카.md "wikilink")
 
 ### 공략 가능 히로인
 
 #### D.C.II에서 공략 가능
 
   - 아사쿠라 오토메()
-    성우:[히나기 아이](https://ko.wikipedia.org/wiki/미루노_준 "wikilink")/[타카가키 아야히](https://ko.wikipedia.org/wiki/타카가키_아야히 "wikilink"), 캐릭터 디자인:[카유라 유카](https://ko.wikipedia.org/wiki/카유라_유카 "wikilink")
+    성우:[히나기 아이](https://ko.wikipedia.org/wiki/미루노_준 "wikilink")/[타카가키 아야히](../Page/타카가키_아야히.md "wikilink"), 캐릭터 디자인:[카유라 유카](https://ko.wikipedia.org/wiki/카유라_유카 "wikilink")
 
 <!-- end list -->
 
@@ -191,7 +191,7 @@
 <!-- end list -->
 
   - 에리카 무라사키()
-    성우: [카자네](https://ko.wikipedia.org/wiki/카자네 "wikilink") /[쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"), 캐릭터 디자인:타니하라 나츠키
+    성우: [카자네](https://ko.wikipedia.org/wiki/카자네 "wikilink") /[쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"), 캐릭터 디자인:타니하라 나츠키
 
 <!-- end list -->
 
@@ -236,7 +236,7 @@
 <!-- end list -->
 
   - 요시노 사쿠라()
-    성우:[호쿠토 미나미](https://ko.wikipedia.org/wiki/호쿠토_미나미 "wikilink")/[타무라 유카리](../Page/타무라_유카리.md "wikilink")
+    성우:[호쿠토 미나미](../Page/호쿠토_미나미.md "wikilink")/[타무라 유카리](../Page/타무라_유카리.md "wikilink")
     카자미 학원의 현 학원장이며, 요시유키의 식객처 집주인이다.
 
 <!-- end list -->
@@ -277,7 +277,7 @@
 
 ## D.C. Girl's Symphony
 
-캐릭터 디자인은 모두 [키사라기미즈](https://ko.wikipedia.org/wiki/키사라기미즈 "wikilink")가 담담했다. [성우](https://ko.wikipedia.org/wiki/성우 "wikilink") 항의 기재는 PC판의 것만을 나타낸다.
+캐릭터 디자인은 모두 [키사라기미즈](https://ko.wikipedia.org/wiki/키사라기미즈 "wikilink")가 담담했다. [성우](../Page/성우.md "wikilink") 항의 기재는 PC판의 것만을 나타낸다.
 
 ### 주인공
 
@@ -289,7 +289,7 @@
 ### 공략 가능 히어로
 
   - 시노미야 료헤이()
-    성우: [스즈키 타츠히사](https://ko.wikipedia.org/wiki/스즈키_타츠히사 "wikilink")
+    성우: [스즈키 타츠히사](../Page/스즈키_타츠히사.md "wikilink")
     신장: 176cm 혈액형: AB형 생일: 9월 16일 별자리: 처녀자리
     카자미학원부속 2학년 2반이다. 시노미야 4형제의 막내로, 코우헤이와는 일란성 쌍둥이로 료헤이가 동생이다. 무뚝뚝한 성격에 입이 험해서 사람들이 쉽게 가까이 하지 않는, 기본적으로는 독불장군 타입이다. 또한 여성에게 서툴다. 코우헤이와는 신장과 체중이 완전히 같고, 얼굴도 상당히 닮았지만, 성격은 정반대이다. 말과는 다르게 꽤 남을 잘 보살펴준다. 시오와는 같은 하츠네섬의 마법에 걸려있어, 시오의 마법과는 긴밀하게 연결되어 있다. 이쪽은 시오 한정으로 마음 속 소리가 들린다는 것이지만, 거기엔 결함이 있어서 시오가 료헤이를 생각할 때는 들리지 않게 된다. 시노미야가에서는 집안일 대부분을 담당하고 있다. (본인말로는 자기가 안 하면 아무도 안 하기 때문이라고) 그 덕에 요리도 잘 한다. 또 요리 이외의 것도 실수 없이 해내는 손재주를 갖고 있다. 좋아하는 먹거리는 단 것. 또, 철이 들기 전에 부모님과 사별한 탓에 잘 기억하지 못하고 있다.
   - 시노미야 코우헤이()
@@ -301,7 +301,7 @@
     신장: 180cm, 혈액형: B형, 생일: 4월 10일, 별자리: 양자리
     카자미학원부속 3학년 1반이다. 시노미야 4형제의 차남이다. 왕자같은 겉모습을 지녔지만, 초연한 인품으로 흠잡을 데 없는 언동은 수수께끼같다. 실은 1년 유급되어, 실제로는 시오의 2년 연상이다. 어렸을 적부터 병약하고 심장질환을 앓고 있다. 시노미야 형제가 하츠네섬에 돌아온 것은 그의 요양을 위해서였다. 또 자신의 지병 탓에, 형제는 병원이 바뀔 때마다 이사를 매번 하고 있으며, 자신이 가족의 부담이 된다는 점에 결코 겉으로 드러내지 않지만, 마음 속으로 미안하게 생각하고 있다.
   - 시노미야 케이()
-    성우: [하타노 와타루](https://ko.wikipedia.org/wiki/하타노_와타루 "wikilink")
+    성우: [하타노 와타루](../Page/하타노_와타루.md "wikilink")
     신장: 186cm, 혈액형: A형, 생일: 11월 6일, 별자리: 전갈자리
     시노미야 4형제의 장남. 집안의 기둥과 같은 존재로 집의 금전 출납을 그가 담당하고 있다. 그 탓에 그의 말에 반항하면 경우에 따라 용돈에 영향을 준다. 엄격하고 자신에게도 타인에게도 엄하지만 장남이라는 점도 있어서, 결코 겉으로 드러내진 않지만 책임감이 강해 혼자서 일을 떠맡으려하기 쉬운 타입이다. 근면하고 섬밖의 학교에 재학 중이다. 사정이 있어 시오의 가정교사가 된다.
   - 코조 타카아키()

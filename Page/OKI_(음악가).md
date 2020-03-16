@@ -5,11 +5,11 @@
 
 ## 약력
 
-[가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink")출신으로 [도쿄 예술대학](https://ko.wikipedia.org/wiki/도쿄_예술대학 "wikilink")(東京芸術大学) 공예과를 졸업했다. 아버지는 아이누족으로 조각가인 [스나자와 빗키](https://ko.wikipedia.org/wiki/스나자와_빗키 "wikilink")(Снaджaвa Битки, 砂澤ビッキ)이다. 아이누 민족음악인 [돈코리](https://ko.wikipedia.org/wiki/돈코리 "wikilink")(донкори)를 사용하며 아이누 전통음악과 [레게](https://ko.wikipedia.org/wiki/레게 "wikilink"), [DUB](https://ko.wikipedia.org/wiki/DUB "wikilink") 등의 [흑인음악](https://ko.wikipedia.org/wiki/흑인음악 "wikilink")을 섞어놓은 작품을 발표했다.
+[가나가와현](../Page/가나가와현.md "wikilink")출신으로 [도쿄 예술대학](https://ko.wikipedia.org/wiki/도쿄_예술대학 "wikilink")(東京芸術大学) 공예과를 졸업했다. 아버지는 아이누족으로 조각가인 [스나자와 빗키](https://ko.wikipedia.org/wiki/스나자와_빗키 "wikilink")(Снaджaвa Битки, 砂澤ビッキ)이다. 아이누 민족음악인 [돈코리](https://ko.wikipedia.org/wiki/돈코리 "wikilink")(донкори)를 사용하며 아이누 전통음악과 [레게](../Page/레게.md "wikilink"), [DUB](https://ko.wikipedia.org/wiki/DUB "wikilink") 등의 [흑인음악](https://ko.wikipedia.org/wiki/흑인음악 "wikilink")을 섞어놓은 작품을 발표했다.
 
-음악활동을 시작하기 전에는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")이나 일본 등에서 영화 특수 촬영으로 종사했다.
+음악활동을 시작하기 전에는 [미국](../Page/미국.md "wikilink")이나 일본 등에서 영화 특수 촬영으로 종사했다.
 
-일본국내에서의 활동뿐만 아니라, 해외의 민족음악 페스티벌 등에도 적극적으로 참가하고, 2006년에는 [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink")의 [켈트음악](../Page/켈트족.md "wikilink") 그룹 KiLA([킬라](https://ko.wikipedia.org/wiki/킬라_\(밴드\) "wikilink"))와 같이 싱글 「Tog e go Bog e」을 제작해서 발표했다.
+일본국내에서의 활동뿐만 아니라, 해외의 민족음악 페스티벌 등에도 적극적으로 참가하고, 2006년에는 [아일랜드](../Page/아일랜드.md "wikilink")의 [켈트음악](../Page/켈트족.md "wikilink") 그룹 KiLA([킬라](https://ko.wikipedia.org/wiki/킬라_\(밴드\) "wikilink"))와 같이 싱글 「Tog e go Bog e」을 제작해서 발표했다.
 
 ## 작품
 

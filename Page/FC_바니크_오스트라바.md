@@ -3,9 +3,9 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:Ostrava,_FC_Baník_2.jpg "wikilink")
 
-**FC 바니크 오스트라바**(FC Baník Ostrava)는 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [실레지아](https://ko.wikipedia.org/wiki/실레지아 "wikilink")의 도시인 [오스트라바](https://ko.wikipedia.org/wiki/오스트라바 "wikilink")를 연고로 하고 있다. 이 클럽은 [1922년](https://ko.wikipedia.org/wiki/1922년 "wikilink")에 창단되었고, 다양한 국내외 우승컵을 보유하고 있다. 바니크 오스트라바의 최대 라이벌은 [스파르타 프라하이며](https://ko.wikipedia.org/wiki/스파르타_프라하 "wikilink"), 지역 라이벌은 [SFC 오파바이다](https://ko.wikipedia.org/wiki/SFC_오파바 "wikilink").
+**FC 바니크 오스트라바**(FC Baník Ostrava)는 [체코](../Page/체코.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [실레지아](https://ko.wikipedia.org/wiki/실레지아 "wikilink")의 도시인 [오스트라바](../Page/오스트라바.md "wikilink")를 연고로 하고 있다. 이 클럽은 [1922년](../Page/1922년.md "wikilink")에 창단되었고, 다양한 국내외 우승컵을 보유하고 있다. 바니크 오스트라바의 최대 라이벌은 [스파르타 프라하이며](https://ko.wikipedia.org/wiki/스파르타_프라하 "wikilink"), 지역 라이벌은 [SFC 오파바이다](https://ko.wikipedia.org/wiki/SFC_오파바 "wikilink").
 
-바니크 오스트라바는 [체코슬로바키아](https://ko.wikipedia.org/wiki/체코슬로바키아 "wikilink") 시절인 [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink")에 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink") 8강, [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink")에는 [UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink") 4강, [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink")에는 현재의 [챔피언스리그의](../Page/UEFA_챔피언스리그.md "wikilink") 전신인 [유러피언컵](https://ko.wikipedia.org/wiki/유러피언컵 "wikilink") 8강에 오르는 등 체코의 명문 클럽 가운데 하나이다.
+바니크 오스트라바는 [체코슬로바키아](../Page/체코슬로바키아.md "wikilink") 시절인 [1974년](../Page/1974년.md "wikilink")에 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink") 8강, [1978년](../Page/1978년.md "wikilink")에는 [UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink") 4강, [1981년](../Page/1981년.md "wikilink")에는 현재의 [챔피언스리그의](../Page/UEFA_챔피언스리그.md "wikilink") 전신인 [유러피언컵](https://ko.wikipedia.org/wiki/유러피언컵 "wikilink") 8강에 오르는 등 체코의 명문 클럽 가운데 하나이다.
 
 [left](https://ko.wikipedia.org/wiki/파일:Ostrava,_FC_Baník_1.jpg "wikilink")
 
@@ -284,7 +284,7 @@
 <td><p><a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
 <td><p>예선3회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바이어_04_레버쿠젠" title="wikilink">바이어 레버쿠젠</a></p></td>
+<td><p><a href="../Page/바이어_04_레버쿠젠.md" title="wikilink">바이어 레버쿠젠</a></p></td>
 <td><p>0-5, <strong>2-1</strong></p></td>
 </tr>
 <tr class="odd">

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [EMD AEM-7](https://ko.wikipedia.org/wiki/EMD_AEM-7).
 
 
-**EMD AEM-7** 기관차는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 워싱턴 DC와 보스턴을 잇는 [노스이스트 코리더](https://ko.wikipedia.org/wiki/노스이스트_코리더 "wikilink") 및 필라델피아와 해리스버그를 잇는 [키스톤 코리더에](https://ko.wikipedia.org/wiki/키스톤_코리더 "wikilink") 사용하는 기관차이다. 1978년부터 1988년까지 [EMD](https://ko.wikipedia.org/wiki/EMD "wikilink")에서 제조하였고, 전장품은 대부분 [ASEA](https://ko.wikipedia.org/wiki/ASEA "wikilink")에서 제작하였다. 영업 최고 속도 201km/h, 출력 7000hp(5,200kW)의 고속 전기기관차이다.
+**EMD AEM-7** 기관차는 [미국](../Page/미국.md "wikilink") 워싱턴 DC와 보스턴을 잇는 [노스이스트 코리더](../Page/노스이스트_코리더.md "wikilink") 및 필라델피아와 해리스버그를 잇는 [키스톤 코리더에](https://ko.wikipedia.org/wiki/키스톤_코리더 "wikilink") 사용하는 기관차이다. 1978년부터 1988년까지 [EMD](https://ko.wikipedia.org/wiki/EMD "wikilink")에서 제조하였고, 전장품은 대부분 [ASEA](../Page/ASEA.md "wikilink")에서 제작하였다. 영업 최고 속도 201km/h, 출력 7000hp(5,200kW)의 고속 전기기관차이다.
 
 ## 배경
 
-1970년대 중반 [암트랙](../Page/암트랙.md "wikilink")은 [펜실베이니아 철도](https://ko.wikipedia.org/wiki/펜실베이니아_철도 "wikilink") GG1 기관차의 후속작을 찾고 있었다. 이를 위해서 유럽 기관차를 사용할 예정이었다. 1977년 [알스톰](https://ko.wikipedia.org/wiki/알스톰 "wikilink")과 [ASEA](https://ko.wikipedia.org/wiki/ASEA "wikilink")의 기관차를 대여하여 시험해 보았다. [CC 21000](https://ko.wikipedia.org/wiki/SNCF_CC_21000 "wikilink") 기관차는 X996, [Rc4](https://ko.wikipedia.org/wiki/SJ_Rc "wikilink") 기관차는 X995라는 번호를 부여하여 운행하였다. 시험 운행 결과 Rc4 기관차를 선정하였으며, AEM-7의 기반이 되었다. 암트랙은 1977년 30량의 AEM-7 기관차(주문 번호 776073)를 주문하였고, 1980년 17량 더 주문하였다(주문 번호 806004).
+1970년대 중반 [암트랙](../Page/암트랙.md "wikilink")은 [펜실베이니아 철도](https://ko.wikipedia.org/wiki/펜실베이니아_철도 "wikilink") GG1 기관차의 후속작을 찾고 있었다. 이를 위해서 유럽 기관차를 사용할 예정이었다. 1977년 [알스톰](../Page/알스톰.md "wikilink")과 [ASEA](../Page/ASEA.md "wikilink")의 기관차를 대여하여 시험해 보았다. [CC 21000](https://ko.wikipedia.org/wiki/SNCF_CC_21000 "wikilink") 기관차는 X996, [Rc4](../Page/SJ_Rc.md "wikilink") 기관차는 X995라는 번호를 부여하여 운행하였다. 시험 운행 결과 Rc4 기관차를 선정하였으며, AEM-7의 기반이 되었다. 암트랙은 1977년 30량의 AEM-7 기관차(주문 번호 776073)를 주문하였고, 1980년 17량 더 주문하였다(주문 번호 806004).
 
 ### 생산
 
@@ -17,7 +17,7 @@
 
 ## 개조
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:AEM7AC_939.jpg "wikilink") 1999년 암트랙과 [알스톰](https://ko.wikipedia.org/wiki/알스톰 "wikilink")은 AEM-7 기관차를 개조하였다. 알스톰에서 [교류 전동기](https://ko.wikipedia.org/wiki/교류_전동기 "wikilink"), 전기 캐비넷, [변압기](https://ko.wikipedia.org/wiki/변압기 "wikilink"), 객차 전원 공급 장치, 운전석 장치를 공급하였다. 델라웨어 주 윌밍턴에서 알스톰 관계자들의 입회 하에 암트랙에서 개조 작업을 진행하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:AEM7AC_939.jpg "wikilink") 1999년 암트랙과 [알스톰](../Page/알스톰.md "wikilink")은 AEM-7 기관차를 개조하였다. 알스톰에서 [교류 전동기](https://ko.wikipedia.org/wiki/교류_전동기 "wikilink"), 전기 캐비넷, [변압기](https://ko.wikipedia.org/wiki/변압기 "wikilink"), 객차 전원 공급 장치, 운전석 장치를 공급하였다. 델라웨어 주 윌밍턴에서 알스톰 관계자들의 입회 하에 암트랙에서 개조 작업을 진행하였다.
 
 수냉식 [IGBT](https://ko.wikipedia.org/wiki/IGBT "wikilink") 전원 모듈로 개조되었고, 총 출력 5MW와 객차 전원용 1MW를 공급할 수 있다. 이는 12량의 객차에 공급할 수 있는 전원을 제공한다. 운전석 디스플레이는 2개 장착되었으며, 한 쪽은 주 기능을 수행하고 다른 쪽은 고장 상황을 표시한다. 이렇게 개조된 기관차는 AEM-7 AC로 불리며, 자금 부족으로 2002년 10월에 개조가 중단되었다. 1999년부터 2002년까지 29량이 개조되었고, 2006년 이 중 5량이 재생 절차를 거쳤다.
 
@@ -29,7 +29,7 @@ ALP-44 기관차는 스웨덴 [ABB](https://ko.wikipedia.org/wiki/ABB "wikilink"
 
 ## 사고
 
-1987년 1월 4일 900, 903호 기관차가 [메릴랜드주](https://ko.wikipedia.org/wiki/메릴랜드주 "wikilink") [체이스](https://ko.wikipedia.org/wiki/체이스 "wikilink")에서 [콘레일](https://ko.wikipedia.org/wiki/콘레일 "wikilink") 화물 열차와 충돌하여 폐차되었다. 913호 기관차는 2000년 11월 화재로 전소되었고, 2003년 2월 차적에서 삭제되었다. 930호 기관차는 2003년 6월 29일, 922호 기관차는 2003년 7월 8일, 910호 기관차는 2007년 10월 5일 전소되었다.
+1987년 1월 4일 900, 903호 기관차가 [메릴랜드주](../Page/메릴랜드주.md "wikilink") [체이스](https://ko.wikipedia.org/wiki/체이스 "wikilink")에서 [콘레일](https://ko.wikipedia.org/wiki/콘레일 "wikilink") 화물 열차와 충돌하여 폐차되었다. 913호 기관차는 2000년 11월 화재로 전소되었고, 2003년 2월 차적에서 삭제되었다. 930호 기관차는 2003년 6월 29일, 922호 기관차는 2003년 7월 8일, 910호 기관차는 2007년 10월 5일 전소되었다.
 
 ## 대체
 
@@ -39,7 +39,7 @@ ALP-44 기관차는 스웨덴 [ABB](https://ko.wikipedia.org/wiki/ABB "wikilink"
 
 ## 같이 보기
 
-  - [SJ Rc](https://ko.wikipedia.org/wiki/SJ_Rc "wikilink")
+  - [SJ Rc](../Page/SJ_Rc.md "wikilink")
   - [ABB ALP-44](https://ko.wikipedia.org/wiki/ABB_ALP-44 "wikilink")
 
 ## 외부 링크

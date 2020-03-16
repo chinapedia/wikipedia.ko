@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [J.C.STAFF](https://ko.wikipedia.org/wiki/J.C.STAFF).
 
 
-**J.C.STAFF**()는 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")의 기획·제작 및 디지털 콘텐츠 제작을 주된 사업 내용으로 하는 일본의 기업이다.
+**J.C.STAFF**()는 [애니메이션](../Page/애니메이션.md "wikilink")의 기획·제작 및 디지털 콘텐츠 제작을 주된 사업 내용으로 하는 일본의 기업이다.
 
 ## 개요·연혁
 
-[1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 미야타 토모유키가 [도쿄](../Page/도쿄.md "wikilink")의 [미타카 시에서](https://ko.wikipedia.org/wiki/미타카_시 "wikilink") 설립하였다. 현재는 [무사시노 시무사시사카이역에](https://ko.wikipedia.org/wiki/무사시노_시 "wikilink") 있다. 회사 이름의 "J.C.STAFF"는 "Japan Creative Staff"의 약어이다. 프로듀싱부터 작화, 마무리 작업, 배경 제작, 촬영에 이르기까지 거의 모든 제작 부서를 보유하고 있다. 설립 직후 10년간은 **[OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")**와 **극장판 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")** 중심으로 제작하였으나, 1994년부터 본격적으로 TV 애니메이션의 제작을 하고 있다.
+[1986년](../Page/1986년.md "wikilink") 미야타 토모유키가 [도쿄](../Page/도쿄.md "wikilink")의 [미타카 시에서](https://ko.wikipedia.org/wiki/미타카_시 "wikilink") 설립하였다. 현재는 [무사시노 시무사시사카이역에](https://ko.wikipedia.org/wiki/무사시노_시 "wikilink") 있다. 회사 이름의 "J.C.STAFF"는 "Japan Creative Staff"의 약어이다. 프로듀싱부터 작화, 마무리 작업, 배경 제작, 촬영에 이르기까지 거의 모든 제작 부서를 보유하고 있다. 설립 직후 10년간은 **[OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")**와 **극장판 [애니메이션](../Page/애니메이션.md "wikilink")** 중심으로 제작하였으나, 1994년부터 본격적으로 TV 애니메이션의 제작을 하고 있다.
 
 ## 작품
 
 ### 애니메이션
 
-  - 《[그 남자\! 그 여자\!](https://ko.wikipedia.org/wiki/그_남자!_그_여자! "wikilink")》 (1998)
+  - 《[그 남자\! 그 여자\!](../Page/그_남자!_그_여자!.md "wikilink")》 (1998)
   - 《[꿈에서 만난다면](https://ko.wikipedia.org/wiki/꿈에서_만난다면 "wikilink")》 (1998)
   - 《[마술사 오펜](../Page/마술사_오펜.md "wikilink")》 (1998)
   - 《[앨리스 SOS](https://ko.wikipedia.org/wiki/앨리스_SOS "wikilink")》 (1998)
@@ -19,21 +19,21 @@
   - 《[마술사 오펜 Revenge](https://ko.wikipedia.org/wiki/마술사_오펜_Revenge "wikilink")》 (1999)
   - 《[엑셀 사가](../Page/엑셀_사가.md "wikilink")》 (1999)
   - 《[잘 나가는 두 사람](https://ko.wikipedia.org/wiki/잘_나가는_두_사람 "wikilink")》 (1999)
-  - 《[다\!다\!다\!](https://ko.wikipedia.org/wiki/다!다!다! "wikilink")》 (2000)
+  - 《[다\!다\!다\!](../Page/다!다!다!.md "wikilink")》 (2000)
   - 《[어둠의 후예](https://ko.wikipedia.org/wiki/어둠의_후예 "wikilink")》 (2000)
   - 《[마법전사 리우이](https://ko.wikipedia.org/wiki/마법전사_리우이 "wikilink")》 (2001)
   - 《[작은 눈의 요정 슈가](../Page/작은_눈의_요정_슈가.md "wikilink")》 (2001)
   - 《[파라파 랩퍼](https://ko.wikipedia.org/wiki/파라파_랩퍼 "wikilink")》 (2001)
   - 《[스파이럴 추리의 띠](../Page/스파이럴_추리의_띠.md "wikilink")》 (2002)
-  - 《[아즈망가 대왕](https://ko.wikipedia.org/wiki/아즈망가_대왕 "wikilink")》 (2002)
+  - 《[아즈망가 대왕](../Page/아즈망가_대왕.md "wikilink")》 (2002)
   - 《[쪽빛보다 푸르게](https://ko.wikipedia.org/wiki/쪽빛보다_푸르게 "wikilink")》 (2002)
   - 《[ROD TV 시리즈](https://ko.wikipedia.org/wiki/ROD_TV_시리즈 "wikilink")》 (2003)
   - 《[건퍼레이드 마치](https://ko.wikipedia.org/wiki/건퍼레이드_마치 "wikilink")》 (2003)
   - 《[나나카 6/17](https://ko.wikipedia.org/wiki/나나카_6/17 "wikilink")》 (2003)
-  - 《[마법사에게 소중한 것](https://ko.wikipedia.org/wiki/마법사에게_소중한_것 "wikilink")》 (2003)
+  - 《[마법사에게 소중한 것](../Page/마법사에게_소중한_것.md "wikilink")》 (2003)
   - 《[마부라호](../Page/마부라호.md "wikilink")》 (2003)
   - 《[일기당천](https://ko.wikipedia.org/wiki/일기당천 "wikilink")》 (2003)
-  - 《[진월담 월희](https://ko.wikipedia.org/wiki/진월담_월희 "wikilink")》 (2003)
+  - 《[진월담 월희](../Page/진월담_월희.md "wikilink")》 (2003)
   - 《[쪽빛보다 푸르게 \~인연\~](https://ko.wikipedia.org/wiki/쪽빛보다_푸르게_~인연~ "wikilink")》 (2003)
   - 《[망각의 선율](https://ko.wikipedia.org/wiki/망각의_선율 "wikilink")》 (2004)
   - 《[빛과 물의 다프네](https://ko.wikipedia.org/wiki/빛과_물의_다프네 "wikilink")》 (2004)
@@ -45,12 +45,12 @@
   - 《[스타쉽 오퍼레이터즈](https://ko.wikipedia.org/wiki/스타쉽_오퍼레이터즈 "wikilink")》 (2005)
   - 《[작안의 샤나](../Page/작안의_샤나.md "wikilink")》 (2005)
   - 《[카린](https://ko.wikipedia.org/wiki/카린 "wikilink")》 (2005)
-  - 《[허니와 클로버](https://ko.wikipedia.org/wiki/허니와_클로버 "wikilink")》 (2005)
+  - 《[허니와 클로버](../Page/허니와_클로버.md "wikilink")》 (2005)
   - 《[고스트 헌트](../Page/고스트_헌트.md "wikilink")》 (2005)
   - 《[모레의 방향](https://ko.wikipedia.org/wiki/모레의_방향 "wikilink")》 (2005)
   - 《[부활하는 하늘 -Rescue Wings-](https://ko.wikipedia.org/wiki/부활하는_하늘_-Rescue_Wings- "wikilink")》 (2005)
   - 《[제로의 사역마](../Page/제로의_사역마.md "wikilink")》 (2006)
-  - 《[허니와 클로버 2](https://ko.wikipedia.org/wiki/허니와_클로버 "wikilink")》 (2005)
+  - 《[허니와 클로버 2](../Page/허니와_클로버.md "wikilink")》 (2005)
   - 《[노다메 칸타빌레](../Page/노다메_칸타빌레.md "wikilink")》 (2007)
   - 《[스카이 걸스](https://ko.wikipedia.org/wiki/스카이_걸스 "wikilink")》 (2007)
   - 《[작안의 샤나 Ⅱ](../Page/작안의_샤나.md "wikilink")》 (2007)
@@ -61,19 +61,19 @@
   - 《[닌자의 왕](https://ko.wikipedia.org/wiki/닌자의_왕 "wikilink")》 (2008)
   - 《[사후편지](../Page/사후편지.md "wikilink")》 (2008)
   - 《[슬레이어즈 레볼루션](https://ko.wikipedia.org/wiki/슬레이어즈_레볼루션 "wikilink")》 (2008)
-  - 《[어떤 마술의 금서목록](https://ko.wikipedia.org/wiki/어떤_마술의_금서목록 "wikilink")》 (2008)
+  - 《[어떤 마술의 금서목록](../Page/어떤_마술의_금서목록.md "wikilink")》 (2008)
   - 《[제로의 사역마 \~삼미희의 윤무\~](../Page/제로의_사역마.md "wikilink")》 (2008)
   - 《[토라도라\!](../Page/토라도라!.md "wikilink")》 (2008)
   - 《[하야테처럼\!\! 2nd Season](https://ko.wikipedia.org/wiki/하야테처럼!!_2nd_Season "wikilink")》 (2009)
-  - 《[첫사랑 한정](https://ko.wikipedia.org/wiki/첫사랑_한정 "wikilink")》 (2009)
-  - 《[어떤 과학의 초전자포](https://ko.wikipedia.org/wiki/어떤_과학의_초전자포 "wikilink")》 (2009)
+  - 《[첫사랑 한정](../Page/첫사랑_한정.md "wikilink")》 (2009)
+  - 《[어떤 과학의 초전자포](../Page/어떤_과학의_초전자포.md "wikilink")》 (2009)
   - 《[회장님은 메이드사마\!](https://ko.wikipedia.org/wiki/회장님은_메이드사마! "wikilink")》 (2010)
   - 《[오오카미 씨와 7명의 동료들](../Page/오오카미_씨와_7명의_동료들.md "wikilink")》 (2010)
-  - 《[어떤 마술의 금서목록](https://ko.wikipedia.org/wiki/어떤_마술의_금서목록 "wikilink")》 (2기) (2010)
-  - 《[바쿠만](https://ko.wikipedia.org/wiki/바쿠만 "wikilink")》 (2010)
+  - 《[어떤 마술의 금서목록](../Page/어떤_마술의_금서목록.md "wikilink")》 (2기) (2010)
+  - 《[바쿠만](../Page/바쿠만.md "wikilink")》 (2010)
   - 《[소녀요괴 자쿠로](../Page/소녀요괴_자쿠로.md "wikilink")》 (2010)
   - 《[꿈을 먹는 메리](../Page/꿈을_먹는_메리.md "wikilink")》 (2011)
-  - 《[비탄의 아리아](https://ko.wikipedia.org/wiki/비탄의_아리아 "wikilink")》 (2011)
+  - 《[비탄의 아리아](../Page/비탄의_아리아.md "wikilink")》 (2011)
   - 《[하느님의 메모장](../Page/하느님의_메모장.md "wikilink")》 (2011)
   - 《[너와나](https://ko.wikipedia.org/wiki/너와나 "wikilink")》 (2011)
   - 《[작안의 샤나 3기 Final](../Page/작안의_샤나.md "wikilink")》 (2011)
@@ -82,7 +82,7 @@
   - 《[리틀 버스터즈](https://ko.wikipedia.org/wiki/리틀_버스터즈 "wikilink")》 (2012)
   - 《[제로의 사역마 F](../Page/제로의_사역마.md "wikilink")》 (2012)
   - 《[사쿠라장의 애완 그녀](../Page/사쿠라장의_애완_그녀.md "wikilink")》 (2012)
-  - 《[어떤 과학의 초전자포](https://ko.wikipedia.org/wiki/어떤_과학의_초전자포 "wikilink") S》 (2기) (2013)
+  - 《[어떤 과학의 초전자포](../Page/어떤_과학의_초전자포.md "wikilink") S》 (2기) (2013)
   - 《[변태왕자와 웃지 않는 고양이](../Page/변태왕자와_웃지_않는_고양이.md "wikilink")》 (2013)
   - 《골든 타임》 (2013)
   - 《[위치 크래프트 워크스](../Page/위치_크래프트_워크스.md "wikilink")》 (2014)
@@ -115,7 +115,7 @@
 
 <!-- end list -->
 
-  - [소녀혁명 우테나: 어드레센스 묵시록](https://ko.wikipedia.org/wiki/소녀혁명_우테나 "wikilink") (1999)
+  - [소녀혁명 우테나: 어드레센스 묵시록](../Page/소녀혁명_우테나.md "wikilink") (1999)
 
 <!-- end list -->
 
@@ -127,7 +127,7 @@
 
 <!-- end list -->
 
-  - [어떤 마술의 금서목록: 엔듀미온의 기적](https://ko.wikipedia.org/wiki/어떤_마술의_금서목록 "wikilink") (2013)
+  - [어떤 마술의 금서목록: 엔듀미온의 기적](../Page/어떤_마술의_금서목록.md "wikilink") (2013)
 
 ### OVA
 
@@ -233,7 +233,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/이케하타_타카시" title="wikilink">이케하타 타카시</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/니시키오리_히로시" title="wikilink">니시키오리 히로시</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/키무라_신이치로" title="wikilink">키무라 신이치로</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/나가이_타츠유키" title="wikilink">나가이 타츠유키</a></li>
+<li><a href="../Page/나가이_타츠유키.md" title="wikilink">나가이 타츠유키</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/사쿠라비_카츠시" title="wikilink">사쿠라비 카츠시</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/마노_아키라" title="wikilink">마노 아키라</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/사쿠라이_히로아키" title="wikilink">사쿠라이 히로아키</a></li>

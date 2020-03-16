@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Perfume \( \)](https://ko.wikipedia.org/wiki/Perfume_\(_\)).
 
 
-**Perfume**(퍼퓸, )은 [일본](../Page/일본.md "wikilink")의 [히로시마 시](https://ko.wikipedia.org/wiki/히로시마_시 "wikilink") 출신의 여성 3명으로 이루어진 [걸 그룹이다](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink"). 니시와키 아야카, 카시노 유카, 오모토 아야노로 구성되어 있다. 2001년에 히로시마에서 데뷔했으며, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")부터는 메이저 레이블과 계약하며 [신스팝](https://ko.wikipedia.org/wiki/신스팝 "wikilink") 장르의 음악을 주로 발매했다.
+**Perfume**(퍼퓸, )은 [일본](../Page/일본.md "wikilink")의 [히로시마 시](https://ko.wikipedia.org/wiki/히로시마_시 "wikilink") 출신의 여성 3명으로 이루어진 [걸 그룹이다](../Page/걸_그룹.md "wikilink"). 니시와키 아야카, 카시노 유카, 오모토 아야노로 구성되어 있다. 2001년에 히로시마에서 데뷔했으며, [2005년](../Page/2005년.md "wikilink")부터는 메이저 레이블과 계약하며 [신스팝](https://ko.wikipedia.org/wiki/신스팝 "wikilink") 장르의 음악을 주로 발매했다.
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")부터는 음악 그룹 [Capsule](https://ko.wikipedia.org/wiki/Capsule "wikilink")과 음반사인 [contemode](https://ko.wikipedia.org/wiki/contemode "wikilink")의 설립자인 [나카타 야스타카가](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") 퍼퓸의 프로듀서를 맡았다.
+[2003년](../Page/2003년.md "wikilink")부터는 음악 그룹 [Capsule](https://ko.wikipedia.org/wiki/Capsule "wikilink")과 음반사인 [contemode](https://ko.wikipedia.org/wiki/contemode "wikilink")의 설립자인 [나카타 야스타카가](../Page/나카타_야스타카.md "wikilink") 퍼퓸의 프로듀서를 맡았다.
 
 ## 그룹 이름
 
@@ -15,7 +15,7 @@
 
 2000년 봄에 퍼퓸을 결성한다. 당시 그룹 이름의 표기는 "" 혹은 ""였다. 결성 후 얼마 지나지 않아 카와시마가 탈퇴하고 2001년 여름에 오모토가 새로 가입하며 현재 구성원이 된다. 2002년, 히로시마에서 싱글 2장을 발매하며 히로시마 지역에서만 활동했다.
 
-2003년 봄, 구성원들이 중학교를 졸업하자 활동지를 도쿄로 옮기며 [어뮤즈](https://ko.wikipedia.org/wiki/어뮤즈 "wikilink")에 소속하게 되고, 그룹 이름 표기도 히라가나에서 알파벳 ''으로 변경했다. 8월에는 Perfume이 된 후 첫 싱글인 《스윗 도넛》을 발매한다. 음악 제작자로 [Capsule](https://ko.wikipedia.org/wiki/Capsule "wikilink")의 [나카타 야스타카를](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") 맞이해 히로시마 시절과는 다른 테크노 팝 노선으로 전환한다.
+2003년 봄, 구성원들이 중학교를 졸업하자 활동지를 도쿄로 옮기며 [어뮤즈](https://ko.wikipedia.org/wiki/어뮤즈 "wikilink")에 소속하게 되고, 그룹 이름 표기도 히라가나에서 알파벳 ''으로 변경했다. 8월에는 Perfume이 된 후 첫 싱글인 《스윗 도넛》을 발매한다. 음악 제작자로 [Capsule](https://ko.wikipedia.org/wiki/Capsule "wikilink")의 [나카타 야스타카를](../Page/나카타_야스타카.md "wikilink") 맞이해 히로시마 시절과는 다른 테크노 팝 노선으로 전환한다.
 
 2005년 9월 싱글 《리니어 모터 걸》로 정식 데뷔하며 '근미래형 테크노 팝 그룹' 컨셉으로 활동하기 시작한다. 2006년 8월에는 첫 음반이자 베스트 음반 《[Perfume \~Complete Best\~](https://ko.wikipedia.org/wiki/Perfume_~Complete_Best~ "wikilink")》를 발매한다.
 
@@ -23,7 +23,7 @@
 
 2007년 3월 이후 4주간 [기무라 카에라가](https://ko.wikipedia.org/wiki/기무라_카에라 "wikilink") 자신이 진행하는 라디오 방송 《오\! 마이 라디오》에서 퍼퓸의 노래를 자주 틀게된다. 이 방송을 들은 CF 감독 도모쓰기 아키라가 퍼퓸을 CF 모델로 기용한다. 퍼퓸의 구성원이 출연하고 노래 〈폴리리듬〉이 쓰인 이 환경{{·}}재활용 캠페인 광고 〈재활용 마크가 친환경 마크〉는 7월 1일부터 방송이 시작됐다. 8월엔 일본을 대표하는 록 페스티벌 《[서머 소닉](../Page/서머_소닉.md "wikilink")》에 아이돌 그룹으로는 이례적으로 출연해 오사카 공연장에서 오프닝 공연을 맡았다. 9월엔 싱글 《[폴리리듬](https://ko.wikipedia.org/wiki/폴리리듬 "wikilink")》을 발매, 오리콘 주간 차트에서 7위를 차지하며 처음으로 10위권에 진입한다.
 
-2008년 1월 싱글 《Baby cruising Love / 마카로니》를 발매해 오리콘 주간 차트에서 3위를 기록하고 같은 시기 음반 《Perfume \~Complete Best\~》도 10만 장 출하를 달성해 [일본 레코드 협회에서](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") 골드 인정을 받는다. 4월에는 두 번째 음반 《[GAME](https://ko.wikipedia.org/wiki/GAME_\(음반\) "wikilink")》을 발매 오리콘 주간 앨범차트 1위에 오르고 첫 전국 투어 《에스키모 pino presents Perfume First Tour 〈GAME〉》을 실시한다.
+2008년 1월 싱글 《Baby cruising Love / 마카로니》를 발매해 오리콘 주간 차트에서 3위를 기록하고 같은 시기 음반 《Perfume \~Complete Best\~》도 10만 장 출하를 달성해 [일본 레코드 협회에서](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") 골드 인정을 받는다. 4월에는 두 번째 음반 《[GAME](../Page/GAME_\(음반\).md "wikilink")》을 발매 오리콘 주간 앨범차트 1위에 오르고 첫 전국 투어 《에스키모 pino presents Perfume First Tour 〈GAME〉》을 실시한다.
 
 ### 2008년 \~ 현재 : 트라이앵글
 
@@ -33,11 +33,11 @@
 
 ### 2012년 : 레이블 이적
 
-2월 29일, 해외 진출을 위해 [유니버설 뮤직](https://ko.wikipedia.org/wiki/유니버설_뮤직 "wikilink") 재팬으로 이적을 발표했으며, 최신 음반인 《[JPN](../Page/JPN_\(음반\).md "wikilink")》을 50개국에 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")로 발매하고 공식 글로벌 웹사이트를 3월 6일에 오픈한다고 발표했다. 또 이적 후 유니버설에서 처음 발매하는 음반은 싱글 〈Spring of Life〉이며, 봄에 발매할 예정이라 발표됐다.
+2월 29일, 해외 진출을 위해 [유니버설 뮤직](https://ko.wikipedia.org/wiki/유니버설_뮤직 "wikilink") 재팬으로 이적을 발표했으며, 최신 음반인 《[JPN](../Page/JPN_\(음반\).md "wikilink")》을 50개국에 [아이튠즈](../Page/아이튠즈.md "wikilink")로 발매하고 공식 글로벌 웹사이트를 3월 6일에 오픈한다고 발표했다. 또 이적 후 유니버설에서 처음 발매하는 음반은 싱글 〈Spring of Life〉이며, 봄에 발매할 예정이라 발표됐다.
 
 3월 8일, 2012년 첫 싱글 〈Spring of Life〉를 4월 11일에 발매하는 것이 발표되었다. 이 노래는 〈기린 츄하이 효케스〉의 CF에 사용됐으며, 새로운 레이블에서 발매하는 퍼퓸의 첫 싱글이다.
 
-6월 23일 [마쿠하리 멧세에서](../Page/마쿠하리_멧세.md "wikilink") 열리는 [MTV 비디오 뮤직 어워드 재팬](https://ko.wikipedia.org/wiki/MTV_비디오_뮤직_어워드_재팬 "wikilink") 2012의 진행자로 결정됐다.
+6월 23일 [마쿠하리 멧세에서](../Page/마쿠하리_멧세.md "wikilink") 열리는 [MTV 비디오 뮤직 어워드 재팬](../Page/MTV_비디오_뮤직_어워드_재팬.md "wikilink") 2012의 진행자로 결정됐다.
 
 ## 구성원
 
@@ -97,7 +97,7 @@
 </tr>
 <tr class="even">
 <td><p>인디 (전국)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a>3월17일</p></td>
+<td><p><a href="../Page/2004년.md" title="wikilink">2004년</a>3월17일</p></td>
 <td><p>モノクロームエフェクト (모노크롬 이펙트)</p></td>
 <td><p>CD</p></td>
 <td></td>
@@ -142,10 +142,10 @@
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a>2월14일</p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a>2월14일</p></td>
 <td><p>Fan Service [sweet]</p></td>
 <td><p>CD+DVD</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GAME_(음반)" title="wikilink">GAME</a></p></td>
+<td><p><a href="../Page/GAME_(음반).md" title="wikilink">GAME</a></p></td>
 <td><p>31</p></td>
 <td></td>
 </tr>
@@ -161,7 +161,7 @@ CD</p></td>
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a>1월16일</p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a>1월16일</p></td>
 <td><p>Baby cruising Love / マカロニ (마카로니)</p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
@@ -191,7 +191,7 @@ CD</p></td>
 </tr>
 <tr class="even">
 <td><p>9th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a>3월25일</p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a>3월25일</p></td>
 <td><p>ワンルーム・ディスコ (원룸 디스코)</p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
@@ -201,7 +201,7 @@ CD</p></td>
 </tr>
 <tr class="odd">
 <td><p>10th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a>4월14</p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a>4월14</p></td>
 <td><p>不自然なガール (부자연스런 걸)<br />
 / ナチュラルに恋して (내츄럴하게 사랑해줘)</p></td>
 <td><p>CD+DVD<br />
@@ -232,7 +232,7 @@ CD</p></td>
 </tr>
 <tr class="even">
 <td><p>13th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a>5월18일</p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a>5월18일</p></td>
 <td><p>レーザービーム (레이저 빔)<br />
 / 微かなカオリ (아련한 향기)</p></td>
 <td><p>CD+DVD<br />
@@ -253,7 +253,7 @@ CD</p></td>
 </tr>
 <tr class="even">
 <td><p>15th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a>4월11일</p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a>4월11일</p></td>
 <td><p><a href="../Page/Spring_of_Life.md" title="wikilink">Spring of Life</a></p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
@@ -273,7 +273,7 @@ CD</p></td>
 </tr>
 <tr class="even">
 <td><p>17th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a>2월27일</p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a>2월27일</p></td>
 <td><p>未来のミュージアム (미래의 박물관)</p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
@@ -328,8 +328,8 @@ CD</p></td>
 
 | 발매일         | 제목                                                               | 형태        | [음반사](https://ko.wikipedia.org/wiki/음반사 "wikilink")               | 최고순위\[1\] | [인정](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") |
 | ----------- | ---------------------------------------------------------------- | --------- | ----------------------------------------------------------------- | --------- | -------------------------------------------------------- |
-| 2008년4월16일  | [GAME](https://ko.wikipedia.org/wiki/GAME_\(음반\) "wikilink")     | CD+DVD CD | [도쿠마 재팬](https://ko.wikipedia.org/wiki/도쿠마_재팬_커뮤니케이션 "wikilink")  | 1         | 더블 플래티넘\[2\]                                             |
-| 2009년7월8일   | [⊿ (트라이앵글)](https://ko.wikipedia.org/wiki/⊿_\(음반\) "wikilink")   | CD+DVD CD | 1                                                                 | 플래티넘\[3\] |                                                          |
+| 2008년4월16일  | [GAME](../Page/GAME_\(음반\).md "wikilink")                        | CD+DVD CD | [도쿠마 재팬](https://ko.wikipedia.org/wiki/도쿠마_재팬_커뮤니케이션 "wikilink")  | 1         | 더블 플래티넘\[2\]                                             |
+| 2009년7월8일   | [⊿ (트라이앵글)](../Page/⊿_\(음반\).md "wikilink")                      | CD+DVD CD | 1                                                                 | 플래티넘\[3\] |                                                          |
 | 2011년11월30일 | [JPN](../Page/JPN_\(음반\).md "wikilink")                          | CD+DVD CD | 1                                                                 | 플래티넘\[4\] |                                                          |
 | 2013년10월2일  | [LEVEL3](https://ko.wikipedia.org/wiki/LEVEL3_\(음반\) "wikilink") | CD+DVD CD | [유니버설 뮤직 재팬](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") | 1         | 플래티넘\[5\]                                                |
 
@@ -376,7 +376,7 @@ DVD</p></td>
 </tbody>
 </table>
 
-### [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") 및 [블루레이](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink")
+### [DVD](../Page/DVD.md "wikilink") 및 [블루레이](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink")
 
 <table>
 <thead>
@@ -392,14 +392,14 @@ DVD</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/3월_14일" title="wikilink">3월 14일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_14일.md" title="wikilink">3월 14일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Fan_service_~bitter~" title="wikilink">Fan service ~bitter~</a></p></td>
 <td><p>한정판</p></td>
 <td><p>DVD</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/2월_13일" title="wikilink">2월 13일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/2월_13일.md" title="wikilink">2월 13일</a></p></td>
 <td><p>통상판</p></td>
 <td><p>DVD</p></td>
 <td></td>
@@ -416,7 +416,7 @@ DVD</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>2008년 <a href="https://ko.wikipedia.org/wiki/10월_15일" title="wikilink">10월 15일</a></p></td>
+<td><p>2008년 <a href="../Page/10월_15일.md" title="wikilink">10월 15일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Perfume_First_Tour_GAME" title="wikilink">Perfume First Tour GAME</a></p></td>
 <td><p>DVD</p></td>
 <td><p>1</p></td>
@@ -432,7 +432,7 @@ DVD</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>2009년 <a href="https://ko.wikipedia.org/wiki/4월_22일" title="wikilink">4월 22일</a></p></td>
+<td><p>2009년 <a href="../Page/4월_22일.md" title="wikilink">4월 22일</a></p></td>
 <td><p>[[Perfume_BUDOUKaaaaaaaaaaN</p></td>
 <td></td>
 <td><p>!|Perfume BUDOUKaaaaaaaaaaN</p></td>
@@ -562,7 +562,7 @@ Perfume LIVE@도쿄돔「1 2 3 4 5 6 7 8 9 10 11」</a></p></td>
 
 <!-- end list -->
 
-  - [뮤직 재팬](https://ko.wikipedia.org/wiki/뮤직_재팬 "wikilink") ([NHK 종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink"), [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") \~, 진행자)
+  - [뮤직 재팬](../Page/뮤직_재팬.md "wikilink") ([NHK 종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink"), [2009년](../Page/2009년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") \~, 진행자)
 
 <!-- end list -->
 
@@ -570,9 +570,9 @@ Perfume LIVE@도쿄돔「1 2 3 4 5 6 7 8 9 10 11」</a></p></td>
 
 <!-- end list -->
 
-  - 해피\! ([NTV](https://ko.wikipedia.org/wiki/니혼_TV_방송망 "wikilink"), [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 4월 \~ 9월)
-  - 퍼퓸의 신경쓰이는 아이 (NTV, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink"))
-  - 퍼퓸의 샹들리에 하우스 (NTV, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") \~ [6월 28일](https://ko.wikipedia.org/wiki/6월_28일 "wikilink"))
+  - 해피\! ([NTV](https://ko.wikipedia.org/wiki/니혼_TV_방송망 "wikilink"), [2008년](../Page/2008년.md "wikilink") 4월 \~ 9월)
+  - 퍼퓸의 신경쓰이는 아이 (NTV, [2008년](../Page/2008년.md "wikilink") [10월 11일](../Page/10월_11일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink"))
+  - 퍼퓸의 샹들리에 하우스 (NTV, [2009년](../Page/2009년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") \~ [6월 28일](../Page/6월_28일.md "wikilink"))
 
 ### 그 외
 
@@ -582,7 +582,7 @@ Perfume LIVE@도쿄돔「1 2 3 4 5 6 7 8 9 10 11」</a></p></td>
 
 ### 뮤직 비디오
 
-  - [포르노그라피티](https://ko.wikipedia.org/wiki/포르노그라피티 "wikilink") 〈이타이타치이치〉
+  - [포르노그라피티](../Page/포르노그라피티.md "wikilink") 〈이타이타치이치〉
 
 ## 수상
 

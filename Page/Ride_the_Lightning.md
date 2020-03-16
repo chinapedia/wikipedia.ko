@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ride the Lightning](https://ko.wikipedia.org/wiki/Ride_the_Lightning).
 
 
-《**Ride the Lightning**》은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드인 [메탈리카](../Page/메탈리카.md "wikilink")의 두 번째 정규 앨범이다.현재까지 세계적으로 1,300만장 가까이 팔렸다.
+《**Ride the Lightning**》은 [미국](../Page/미국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드인 [메탈리카](../Page/메탈리카.md "wikilink")의 두 번째 정규 앨범이다.현재까지 세계적으로 1,300만장 가까이 팔렸다.
 
 ## 음반 정보
 
@@ -28,9 +28,9 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/제임스_헷필드" title="wikilink">제임스 헷필드</a>(James Hetfield) - <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/리듬_기타" title="wikilink">리듬 기타</a></li>
+<li><a href="../Page/제임스_헷필드.md" title="wikilink">제임스 헷필드</a>(James Hetfield) - <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/리듬_기타" title="wikilink">리듬 기타</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/라스_울리히" title="wikilink">라스 울리히</a>(Lars Ulrich) – <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>, 타악기</li>
-<li><a href="https://ko.wikipedia.org/wiki/클리프_버튼" title="wikilink">클리프 버튼</a>(Cliff Burton) – <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
+<li><a href="https://ko.wikipedia.org/wiki/클리프_버튼" title="wikilink">클리프 버튼</a>(Cliff Burton) – <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/커크_해밋" title="wikilink">커크 해밋</a>(Kirk Hammett) – 리드 기타</li>
 </ul></td>
 <td><dl>
@@ -46,7 +46,7 @@
 <li>George Marino - 리마스터링(1995년 재발매판)</li>
 <li>AD ARTISTS - 부클릿 디자인</li>
 <li>Q PRIME INC. - 매니지먼트</li>
-<li>ATI/MARSHA VLASIC, THE AGENCY/NEIL WARNICK/IAN SALES(<a href="https://ko.wikipedia.org/wiki/런던" title="wikilink">런던</a>) - 에이전시 대표</li>
+<li>ATI/MARSHA VLASIC, THE AGENCY/NEIL WARNICK/IAN SALES(<a href="../Page/런던.md" title="wikilink">런던</a>) - 에이전시 대표</li>
 <li>Mike Gillies – 믹싱(디지털 재발매판 보너스트랙)</li>
 <li>Fin Costello, Anthony D. Somella, Robert Hoetink, Pete Cronin, Rick Brackett, Harold Oimen – 사진</li>
 </ul></td>

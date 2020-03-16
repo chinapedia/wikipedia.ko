@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE  vs  ](https://ko.wikipedia.org/wiki/WWE__vs__).
 
 
-**WWE 스맥다운 vs 로우 온라인**은 [THQ](../Page/THQ.md "wikilink")와 버티고 게임즈가 공동으로 제작하고 있는 [WWE 스맥다운 VS 로우 시리즈의](https://ko.wikipedia.org/wiki/WWE_스맥다운_VS_로우_시리즈 "wikilink") 온라인 버전이다. 아시아권, 특히 한국을 대상으로 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 서비스 할 계획을 가지고 있으며, 현재 내부 알파 테스트가 진행 중이다.\[1\]
+**WWE 스맥다운 vs 로우 온라인**은 [THQ](../Page/THQ.md "wikilink")와 버티고 게임즈가 공동으로 제작하고 있는 [WWE 스맥다운 VS 로우 시리즈의](https://ko.wikipedia.org/wiki/WWE_스맥다운_VS_로우_시리즈 "wikilink") 온라인 버전이다. 아시아권, 특히 한국을 대상으로 [2010년](../Page/2010년.md "wikilink")에 서비스 할 계획을 가지고 있으며, 현재 내부 알파 테스트가 진행 중이다.\[1\]
 
 게임에는 싱글 플레이와 멀티 플레이가 존재하며, 플레이어는 자신만의 레슬러를 만들 수 있다. 온라인 플레이시 홀 오브 페임 랭킹 시스템을 통하여 잠겨 있는 능력과 테마 또는 아이템 등을 얻을 수 있다.\[2\]
 

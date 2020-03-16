@@ -35,9 +35,9 @@
 
 ## 참여
 
-  - 데이브 머스테인(Dave Mustaine): [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 보컬
-  - 마티 프리드먼(Marty Friedman): [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - 데이빗 엘렙슨(David Ellefson): [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 백보컬
+  - 데이브 머스테인(Dave Mustaine): [기타](../Page/기타.md "wikilink"), 보컬
+  - 마티 프리드먼(Marty Friedman): [기타](../Page/기타.md "wikilink")
+  - 데이빗 엘렙슨(David Ellefson): [베이스](../Page/베이스_기타.md "wikilink"), 백보컬
   - 닉 멘자(Nick Menza): [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")
 
 [분류:메가데스의 음반](https://ko.wikipedia.org/wiki/분류:메가데스의_음반 "wikilink") [분류:1994년 음반](https://ko.wikipedia.org/wiki/분류:1994년_음반 "wikilink")

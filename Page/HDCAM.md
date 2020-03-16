@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HDCAM](https://ko.wikipedia.org/wiki/HDCAM).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Hdcam.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Sony_BCT-40SR_20060616.jpg "wikilink") **HDCAM**은 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 도입된 [HD](../Page/고선명_비디오.md "wikilink") 용의 영상저장방식으로, 8비트 [DCT의](https://ko.wikipedia.org/wiki/이산_코사인_변환 "wikilink") 압축된 3:1:1 녹화 방식에 [1080i](https://ko.wikipedia.org/wiki/1080i "wikilink") 호환 다운샘플링 해상도(1440x1080)를 사용한다. 나중에 나온 모델에는 24[PsF](https://ko.wikipedia.org/wiki/PsF "wikilink")와 23.976 PsF 모드들을 추가하였다. HDCAM 코덱은 정사각형이 아닌 화소들을 사용하며 1440x1080으로 녹화된 콘텐츠는 재생할 때 1920x1080로 업샘플링한다. 녹화된 비디오 비트속도는 초당 144 메가비트이다. 소리 또한 비슷하게 [AES/EBU](https://ko.wikipedia.org/wiki/AES/EBU "wikilink") 20비트/48 kHz의 4채널 디지털 오디오이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Hdcam.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Sony_BCT-40SR_20060616.jpg "wikilink") **HDCAM**은 [1997년](../Page/1997년.md "wikilink")에 도입된 [HD](../Page/고선명_비디오.md "wikilink") 용의 영상저장방식으로, 8비트 [DCT의](../Page/이산_코사인_변환.md "wikilink") 압축된 3:1:1 녹화 방식에 [1080i](https://ko.wikipedia.org/wiki/1080i "wikilink") 호환 다운샘플링 해상도(1440x1080)를 사용한다. 나중에 나온 모델에는 24[PsF](https://ko.wikipedia.org/wiki/PsF "wikilink")와 23.976 PsF 모드들을 추가하였다. HDCAM 코덱은 정사각형이 아닌 화소들을 사용하며 1440x1080으로 녹화된 콘텐츠는 재생할 때 1920x1080로 업샘플링한다. 녹화된 비디오 비트속도는 초당 144 메가비트이다. 소리 또한 비슷하게 [AES/EBU](https://ko.wikipedia.org/wiki/AES/EBU "wikilink") 20비트/48 kHz의 4채널 디지털 오디오이다.
 
 흔히 HD버전의 [디지털 베타캠으로](https://ko.wikipedia.org/wiki/베타캠 "wikilink") 알려져 있지만 10bit 4:2:2를 사용하는 디지털 베타캠에 비해서 bit Depth, 서브샘플링을 낮은 수치로 사용하고, 해상도도 줄여서 저장하므로 품질로 보자면 잘못된 인식이다. 실제 HD버전의 디지털 베타캠은 여러모로 아래에 기술된 HDCAM-SR이라고 봐야 한다.
 

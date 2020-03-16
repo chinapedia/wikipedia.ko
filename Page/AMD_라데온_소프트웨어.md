@@ -9,7 +9,7 @@
 
   - 모니터 속성
       - 다중 모니터 - 별도의 모니터를 사용하여 확장 데스크톱 모드 또는 데스크톱 복제 기능을 사용할 수 있다.
-      - HDTV 지원 - 화면 해상도 ([720p](https://ko.wikipedia.org/wiki/720p "wikilink")/[1080i](https://ko.wikipedia.org/wiki/1080i "wikilink")/[1080p](../Page/1080p.md "wikilink")) 및 [화면 재생 빈도](../Page/화면_재생_빈도.md "wikilink") (60 Hz to 85 Hz)를 설정하여 [컴포넌트나](../Page/컴포넌트_비디오.md "wikilink") [HDMI](https://ko.wikipedia.org/wiki/HDMI "wikilink")를 통해 HDTV를 연결할 수 있게 도와 준다.
+      - HDTV 지원 - 화면 해상도 ([720p](https://ko.wikipedia.org/wiki/720p "wikilink")/[1080i](https://ko.wikipedia.org/wiki/1080i "wikilink")/[1080p](../Page/1080p.md "wikilink")) 및 [화면 재생 빈도](../Page/화면_재생_빈도.md "wikilink") (60 Hz to 85 Hz)를 설정하여 [컴포넌트나](../Page/컴포넌트_비디오.md "wikilink") [HDMI](../Page/HDMI.md "wikilink")를 통해 HDTV를 연결할 수 있게 도와 준다.
   - 3차원 설정 - [앤티 에일리어싱](https://ko.wikipedia.org/wiki/앤티_에일리어싱 "wikilink"), [비등방성 필터링](https://ko.wikipedia.org/wiki/비등방성_필터링 "wikilink"), [카탈리스트 AI](https://ko.wikipedia.org/wiki/카탈리스트_AI "wikilink") 등의 조절 기능을 제공한다.
   - [AMD Avivo](https://ko.wikipedia.org/wiki/AVIVO "wikilink") - 비디오 디코딩의 하드웨어 가속은 [감마 조절과](https://ko.wikipedia.org/wiki/감마_조절 "wikilink") 같은 비디오 설정 집합을 포함하며 [라데온 X1000 시리즈](https://ko.wikipedia.org/wiki/라데온_R520 "wikilink"), [HD 2000/3000 시리즈](https://ko.wikipedia.org/wiki/라데온_R600 "wikilink"), [HD 4000 시리즈](https://ko.wikipedia.org/wiki/라데온_R700 "wikilink"), [라데온 HD 5000 시리즈와](https://ko.wikipedia.org/wiki/라데온_RV870 "wikilink") 여기에 대응되는 모빌리티 라데온 계열에만 사용할 수 있다.
   - [스마트가트](https://ko.wikipedia.org/wiki/그래픽_주소_리매핑_테이블 "wikilink")(SmartGart): [AGP](https://ko.wikipedia.org/wiki/AGP "wikilink") 포트 제품에만 사용할 수 있다.

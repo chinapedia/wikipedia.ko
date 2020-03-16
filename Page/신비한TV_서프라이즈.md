@@ -1,47 +1,47 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-《**신비한TV 서프라이즈**》는 [MBC TV에서](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 7일부터](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") 방송되는 [교양](https://ko.wikipedia.org/wiki/교양 "wikilink"), [예능](https://ko.wikipedia.org/wiki/예능 "wikilink") 프로그램이며 문화방송 예능프로그램중 최장수 프로그램이다.
+《**신비한TV 서프라이즈**》는 [MBC TV에서](../Page/MBC_TV.md "wikilink") [2002년](../Page/2002년.md "wikilink") [4월 7일부터](../Page/4월_7일.md "wikilink") 방송되는 [교양](../Page/교양.md "wikilink"), [예능](https://ko.wikipedia.org/wiki/예능 "wikilink") 프로그램이며 문화방송 예능프로그램중 최장수 프로그램이다.
 
 ## 신비한TV 서프라이즈 역사
 
-첫방송하고 초창기에서 전파를 탄 이래 현재까지도 방영되는 장수 프로그램으로 외국의 신비한 이야기를 재연하는 생소한 내용들도 재연하며, 또한 이 프로그램은 방송 사상 최초로 외국인 재연배우들이 출연한 프로그램으로 화제를 모았다. 한편 이 프로그램은 놀랍고 신비한 이야기나 시대를 뛰어넘은 희대의 사건들보다는 귀신, 영혼, 저주, 의문의 죽음, 끔직한 사건, 지나치게 성적인 소재 등을 주된 내용으로 했던 탓인지 경실련 미디어워치가 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 선정한 '나쁜 프로그램'에 선정되는 불명예를 안아야 했다.
+첫방송하고 초창기에서 전파를 탄 이래 현재까지도 방영되는 장수 프로그램으로 외국의 신비한 이야기를 재연하는 생소한 내용들도 재연하며, 또한 이 프로그램은 방송 사상 최초로 외국인 재연배우들이 출연한 프로그램으로 화제를 모았다. 한편 이 프로그램은 놀랍고 신비한 이야기나 시대를 뛰어넘은 희대의 사건들보다는 귀신, 영혼, 저주, 의문의 죽음, 끔직한 사건, 지나치게 성적인 소재 등을 주된 내용으로 했던 탓인지 경실련 미디어워치가 [2002년](../Page/2002년.md "wikilink") [7월](../Page/7월.md "wikilink") 선정한 '나쁜 프로그램'에 선정되는 불명예를 안아야 했다.
 
 ### 기획 의도
 
-각종 [역사](https://ko.wikipedia.org/wiki/역사 "wikilink")적 미스테리에 대한 진위를 소개하는 [텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink").
+각종 [역사](../Page/역사.md "wikilink")적 미스테리에 대한 진위를 소개하는 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 방송 시간
 
   - 방송시간은 지금까지 미세한 시간조정이외는 단 한번도 변경한적이 없으며, 매주 일요일마다 나오고 있다.
 
-| 방송 기간                                                                                                                                                                                                                                      | 방송 시간                    | 방송 분량 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ | ----- |
-| [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink")       | 오전 10:50 \~ 12:00        | 70분   |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 29일](https://ko.wikipedia.org/wiki/1월_29일 "wikilink")       | 오전 10:45 \~ 12:00        | 75분   |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 5일](https://ko.wikipedia.org/wiki/8월_5일 "wikilink")       |                          |       |
-| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink")   |                          |       |
-| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") |                          |       |
-| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink")     |                          |       |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink")       | 오전 10:45 \~ 11:55        | 70분   |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 12일](https://ko.wikipedia.org/wiki/8월_12일 "wikilink")                                                                                                                          | 매주 일요일 오전 10:40 \~ 11:55 | 75분   |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 19일](https://ko.wikipedia.org/wiki/8월_19일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink")     | 오전 10:35 \~ 11:50        |       |
-| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 29일](../Page/11월_29일.md "wikilink")                                                                                                                                           |                          |       |
-| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 18일](https://ko.wikipedia.org/wiki/10월_18일 "wikilink")                                                                                                                        | 오전 10:30 \~ 11:45        |       |
-| [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink")       | 오전 10:40 \~ 11:55        |       |
-| [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink")                                                                                                                          | 매주 일요일 오전 10:30 \~ 11:50 | 80분   |
-| [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink")       | 오전 10:35 \~ 11:55        |       |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink")                                                                                                                        |                          |       |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink")     | 오전 10:40 \~ 12:00        |       |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink")   |                          |       |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink")   |                          |       |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 14일](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월 14일](https://ko.wikipedia.org/wiki/7월_14일 "wikilink")     |                          |       |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") \~ **현재**                                                                                                                  |                          |       |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink")                                                                                                                          | 매주 일요일 오전 10:40 \~ 12:05 | 85분   |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink")                                                                                                                          | 매주 일요일 오전 10:50 \~ 12:10 | 80분   |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink")                                                                                                                        | 매주 일요일 오전 10:30 \~ 11:50 | 80분   |
-| [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 18일](https://ko.wikipedia.org/wiki/3월_18일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink")       | 매주 일요일 오전 10:45 \~ 12:05 |       |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월 21일](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") \[1\]                                                                                                                    | 오전 11:10 \~ 12:30        |       |
+| 방송 기간                                                                                                                                                          | 방송 시간                    | 방송 분량 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----- |
+| [2002년](../Page/2002년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink")       | 오전 10:50 \~ 12:00        | 70분   |
+| [2009년](../Page/2009년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink")       | 오전 10:45 \~ 12:00        | 75분   |
+| [2012년](../Page/2012년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink")       |                          |       |
+| [2014년](../Page/2014년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [10월 11일](../Page/10월_11일.md "wikilink")   |                          |       |
+| [2015년](../Page/2015년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") |                          |       |
+| [2015년](../Page/2015년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink")     |                          |       |
+| [2012년](../Page/2012년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink")       | 오전 10:45 \~ 11:55        | 70분   |
+| [2012년](../Page/2012년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink")                                                                                    | 매주 일요일 오전 10:40 \~ 11:55 | 75분   |
+| [2012년](../Page/2012년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink")     | 오전 10:35 \~ 11:50        |       |
+| [2015년](../Page/2015년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink")                                                                                  |                          |       |
+| [2015년](../Page/2015년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink")                                                                                  | 오전 10:30 \~ 11:45        |       |
+| [2016년](../Page/2016년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink")       | 오전 10:40 \~ 11:55        |       |
+| [2016년](../Page/2016년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink")                                                                                    | 매주 일요일 오전 10:30 \~ 11:50 | 80분   |
+| [2016년](../Page/2016년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink")       | 오전 10:35 \~ 11:55        |       |
+| [2017년](../Page/2017년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink")                                                                                  |                          |       |
+| [2017년](../Page/2017년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink")     | 오전 10:40 \~ 12:00        |       |
+| [2017년](../Page/2017년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink")   |                          |       |
+| [2017년](../Page/2017년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink")   |                          |       |
+| [2019년](../Page/2019년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [7월 14일](../Page/7월_14일.md "wikilink")     |                          |       |
+| [2019년](../Page/2019년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ **현재**                                                                            |                          |       |
+| [2017년](../Page/2017년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink")                                                                                    | 매주 일요일 오전 10:40 \~ 12:05 | 85분   |
+| [2017년](../Page/2017년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink")                                                                                    | 매주 일요일 오전 10:50 \~ 12:10 | 80분   |
+| [2017년](../Page/2017년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink")                                                                                  | 매주 일요일 오전 10:30 \~ 11:50 | 80분   |
+| [2018년](../Page/2018년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink")       | 매주 일요일 오전 10:45 \~ 12:05 |       |
+| [2019년](../Page/2019년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") \[1\]                                                                              | 오전 11:10 \~ 12:30        |       |
 
 ## 역대 출연배우
 
@@ -73,14 +73,14 @@
   - 이레나
   - [이미선](https://ko.wikipedia.org/wiki/이미선 "wikilink")
   - [이승훈](https://ko.wikipedia.org/wiki/이승훈 "wikilink")
-  - [이수완](https://ko.wikipedia.org/wiki/이수완 "wikilink") (구 : 이중성)
-  - [장윤정](https://ko.wikipedia.org/wiki/장윤정 "wikilink")
+  - [이수완](../Page/이수완.md "wikilink") (구 : 이중성)
+  - [장윤정](../Page/장윤정.md "wikilink")
   - [장호준](../Page/장호준.md "wikilink")
   - 정국빈
   - 정승재
   - [조선옥](../Page/조선옥_\(배우\).md "wikilink")
   - 존 프랜시스 래드몬 (2018년 작고)
-  - [조아라](https://ko.wikipedia.org/wiki/장소라 "wikilink")
+  - [조아라](../Page/장소라.md "wikilink")
   - [최성웅](https://ko.wikipedia.org/wiki/최성웅 "wikilink")
   - 최윤준
   - 최효현
@@ -174,31 +174,31 @@
 
 신비한 TV 서프라이즈를 통해 알려진 역사적 미스테리 중 대중을 자극한 일부는 언론 등에 소개되며, 익스트림 서프라이즈 코너에서 방영된 후 실시간 검색어에 오르는 등 큰 화제를 불러일으켰다.\[2\]\[3\]
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 28일에](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") 방영된 '2003QQ47'이라는 [소행성](https://ko.wikipedia.org/wiki/소행성 "wikilink")의 궤도와 지구의 궤도를 살펴봤을 때 "행성충돌이 더 이상 영화 속 이야기가 아니라 소행성충돌로 인해 지구가 멸망할 수 있다"고 경고하는 과학자들을 소개했다. [지름](https://ko.wikipedia.org/wiki/지름 "wikilink") 1km의 '2003QQ47'이라는 소행성은 현재 지구를 향해 초속 32km로 다가오고 있으며, [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 [지구](../Page/지구.md "wikilink")와 충돌하게 된다고 추정하고 있으며, 소행성 충돌에 따른 위력은 35만메가톤에 달할 것으로 보고 있었으나, 일어나지 않았다.
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 6일에](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") 방영된 3600년 주기로 공전하는 행성 '니비루(행성X)'가 [타원](https://ko.wikipedia.org/wiki/타원 "wikilink")형을 그리며, [지구](../Page/지구.md "wikilink")로 다가와 [2012년에](https://ko.wikipedia.org/wiki/2012년_종말론 "wikilink") 치명적인 해를 끼칠 것이라는 주장이 나왔으나, 마야력은 [기원전](https://ko.wikipedia.org/wiki/기원전 "wikilink") 3114년 [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 시작해, [기원후](https://ko.wikipedia.org/wiki/기원후 "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 21일에](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") 끝난다고 되어 있어 [지구](../Page/지구.md "wikilink") 종말을 암시하고 있다. 고대 마야제국의 6개 태양 전설에 따르면 마야인은 4번째 태양이 없어지자 멸망했고, 지구는 6번째 태양이 사라지는 날 종말을 본다고 한다. 이에 마야력 종말론자들은 [노스트라다무스](https://ko.wikipedia.org/wiki/노스트라다무스 "wikilink")의 예언을 재해석 하는 등 다양한 방면의 분석을 시도해 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")이 아니라 2012년이 종말의 해라고 주장하였다. 이에 따라서 과학 종말론자들 역시 [2012년 종말론에](https://ko.wikipedia.org/wiki/2012년_종말론 "wikilink") 힘을 실어주고 있지만 예언이나 기록을 믿고 있는 종말론자와는 그 견해가 약간 다르며, [태양계](../Page/태양계.md "wikilink")의 감춰진 [행성X](https://ko.wikipedia.org/wiki/행성X "wikilink")가 2012년 지구와 충돌할 거라는 '천문학적' 예측과 함께 [미국 항공우주국](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink")(NASA)이 2012년 초강력 태양폭풍이 발생한다고 했다는 주장도 제기되고 있었으나, 일어나지 않았다.
+  - [2009년](../Page/2009년.md "wikilink") [6월 28일에](../Page/6월_28일.md "wikilink") 방영된 '2003QQ47'이라는 [소행성](../Page/소행성.md "wikilink")의 궤도와 지구의 궤도를 살펴봤을 때 "행성충돌이 더 이상 영화 속 이야기가 아니라 소행성충돌로 인해 지구가 멸망할 수 있다"고 경고하는 과학자들을 소개했다. [지름](https://ko.wikipedia.org/wiki/지름 "wikilink") 1km의 '2003QQ47'이라는 소행성은 현재 지구를 향해 초속 32km로 다가오고 있으며, [2014년](../Page/2014년.md "wikilink")에 [지구](../Page/지구.md "wikilink")와 충돌하게 된다고 추정하고 있으며, 소행성 충돌에 따른 위력은 35만메가톤에 달할 것으로 보고 있었으나, 일어나지 않았다.
+  - [2009년](../Page/2009년.md "wikilink") [9월 6일에](../Page/9월_6일.md "wikilink") 방영된 3600년 주기로 공전하는 행성 '니비루(행성X)'가 [타원](../Page/타원.md "wikilink")형을 그리며, [지구](../Page/지구.md "wikilink")로 다가와 [2012년에](../Page/2012년_종말론.md "wikilink") 치명적인 해를 끼칠 것이라는 주장이 나왔으나, 마야력은 [기원전](https://ko.wikipedia.org/wiki/기원전 "wikilink") 3114년 [8월](../Page/8월.md "wikilink") 시작해, [기원후](https://ko.wikipedia.org/wiki/기원후 "wikilink") [2012년](../Page/2012년.md "wikilink") [12월 21일에](../Page/12월_21일.md "wikilink") 끝난다고 되어 있어 [지구](../Page/지구.md "wikilink") 종말을 암시하고 있다. 고대 마야제국의 6개 태양 전설에 따르면 마야인은 4번째 태양이 없어지자 멸망했고, 지구는 6번째 태양이 사라지는 날 종말을 본다고 한다. 이에 마야력 종말론자들은 [노스트라다무스](../Page/노스트라다무스.md "wikilink")의 예언을 재해석 하는 등 다양한 방면의 분석을 시도해 [1999년](../Page/1999년.md "wikilink")이 아니라 2012년이 종말의 해라고 주장하였다. 이에 따라서 과학 종말론자들 역시 [2012년 종말론에](../Page/2012년_종말론.md "wikilink") 힘을 실어주고 있지만 예언이나 기록을 믿고 있는 종말론자와는 그 견해가 약간 다르며, [태양계](../Page/태양계.md "wikilink")의 감춰진 [행성X](https://ko.wikipedia.org/wiki/행성X "wikilink")가 2012년 지구와 충돌할 거라는 '천문학적' 예측과 함께 [미국 항공우주국](../Page/미국_항공우주국.md "wikilink")(NASA)이 2012년 초강력 태양폭풍이 발생한다고 했다는 주장도 제기되고 있었으나, 일어나지 않았다.
 
 ## 기타
 
-  - 방송 초창기에서 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 7일부터](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 오전 10시 50분에 방영되었는데 당시 높은 시청률로 엄청난 인기를 누렸다.
+  - 방송 초창기에서 [2002년](../Page/2002년.md "wikilink") [4월 7일부터](../Page/4월_7일.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 오전 10시 50분에 방영되었는데 당시 높은 시청률로 엄청난 인기를 누렸다.
   - 외국인 재연 배우가 하는 언어는 영어, 프랑스어, 러시아어이며 가끔가다 한국인 재연 배우가 중국어와 일본어를 연기하기도 한다.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [5월 5일부터](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 25일까지](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") 스튜디오에서 진행자들이 (메인 MC는 [김용만](https://ko.wikipedia.org/wiki/김용만_\(희극인\) "wikilink"), [김원희](../Page/김원희.md "wikilink")) 어떤 이야기가 거짓인지를 토론하는 스튜디오 녹화분이 있었으나, 제작비 절감 차원에서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 1일부터는](https://ko.wikipedia.org/wiki/2월_1일 "wikilink") [스튜디오](https://ko.wikipedia.org/wiki/스튜디오 "wikilink") 녹화분이 없어졌는데 [김원희](../Page/김원희.md "wikilink") 하차 후에는 [한지혜](https://ko.wikipedia.org/wiki/한지혜 "wikilink"), [윤은혜](../Page/윤은혜.md "wikilink"), [안혜경](../Page/안혜경.md "wikilink"), [정려원](https://ko.wikipedia.org/wiki/정려원 "wikilink"), [박혜원](https://ko.wikipedia.org/wiki/박혜원 "wikilink"), [서지영](https://ko.wikipedia.org/wiki/서지영_\(배우\) "wikilink"), [서현진](../Page/서현진_\(방송인\).md "wikilink") 등이 보조 MC로 참여했다.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 1일부터](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") 새로 신설된 코너인 **True & True Story**는 기존 코너였던 '진실 혹은 거짓'의 극적인 재미를 그대로 살린 진실 이야기로만 꾸며졌으며 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 6일까지](https://ko.wikipedia.org/wiki/3월_6일 "wikilink") 방영되었다.\[4\]
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 13일](https://ko.wikipedia.org/wiki/2월_13일 "wikilink") 방영분은 15세 이상 시청가로 방영되었다.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 13일부터](https://ko.wikipedia.org/wiki/3월_13일 "wikilink") True & True Story가 **언빌리버블 스토리** 코너로 바뀌었다.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 23일부터](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 22일까지](https://ko.wikipedia.org/wiki/1월_22일 "wikilink") 불멸의 라이벌이라는 코너가 존재했다.
-  - 다시보기는 유료로 제공되고 있으며 과 300회([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink")), 460회([2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink")), 467회([2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink")), 476회([2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink")) 방송분과 2003년 3월 이전 방송분을 제외한 모든 방송분은 VOD서비스가 제공된다.
+  - [2002년](../Page/2002년.md "wikilink") [5월 5일부터](../Page/5월_5일.md "wikilink") [2009년](../Page/2009년.md "wikilink") [1월 25일까지](../Page/1월_25일.md "wikilink") 스튜디오에서 진행자들이 (메인 MC는 [김용만](../Page/김용만_\(희극인\).md "wikilink"), [김원희](../Page/김원희.md "wikilink")) 어떤 이야기가 거짓인지를 토론하는 스튜디오 녹화분이 있었으나, 제작비 절감 차원에서 [2009년](../Page/2009년.md "wikilink") [2월 1일부터는](../Page/2월_1일.md "wikilink") [스튜디오](https://ko.wikipedia.org/wiki/스튜디오 "wikilink") 녹화분이 없어졌는데 [김원희](../Page/김원희.md "wikilink") 하차 후에는 [한지혜](../Page/한지혜.md "wikilink"), [윤은혜](../Page/윤은혜.md "wikilink"), [안혜경](../Page/안혜경.md "wikilink"), [정려원](../Page/정려원.md "wikilink"), [박혜원](https://ko.wikipedia.org/wiki/박혜원 "wikilink"), [서지영](../Page/서지영_\(배우\).md "wikilink"), [서현진](../Page/서현진_\(방송인\).md "wikilink") 등이 보조 MC로 참여했다.
+  - [2010년](../Page/2010년.md "wikilink") [8월 1일부터](../Page/8월_1일.md "wikilink") 새로 신설된 코너인 **True & True Story**는 기존 코너였던 '진실 혹은 거짓'의 극적인 재미를 그대로 살린 진실 이야기로만 꾸며졌으며 [2011년](../Page/2011년.md "wikilink") [3월 6일까지](../Page/3월_6일.md "wikilink") 방영되었다.\[4\]
+  - [2011년](../Page/2011년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink") 방영분은 15세 이상 시청가로 방영되었다.
+  - [2011년](../Page/2011년.md "wikilink") [3월 13일부터](../Page/3월_13일.md "wikilink") True & True Story가 **언빌리버블 스토리** 코너로 바뀌었다.
+  - [2011년](../Page/2011년.md "wikilink") [10월 23일부터](../Page/10월_23일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [1월 22일까지](../Page/1월_22일.md "wikilink") 불멸의 라이벌이라는 코너가 존재했다.
+  - 다시보기는 유료로 제공되고 있으며 과 300회([2008년](../Page/2008년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink")), 460회([2011년](../Page/2011년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink")), 467회([2011년](../Page/2011년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink")), 476회([2011년](../Page/2011년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink")) 방송분과 2003년 3월 이전 방송분을 제외한 모든 방송분은 VOD서비스가 제공된다.
 
 ### 편성 변경 및 결방 사유 목록
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 14일에는](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") [메이저 리그](https://ko.wikipedia.org/wiki/메이저_리그 "wikilink") 생중계로 결방되었는데 하지만 결방 공지를 하지 않은 바람에 원성을 샀다.
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 7일에는](https://ko.wikipedia.org/wiki/2월_7일 "wikilink") 북한 미사일 발사 속보 관계로 결방되었다.
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월 20일에는](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") [최순실](../Page/최순실.md "wikilink") 속보 관계로 결방되었다.
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 13일에는](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") [메이저 리그](https://ko.wikipedia.org/wiki/메이저_리그 "wikilink") 생중계 방송으로 인해 결방되었다.
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 21일](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") 800회 특집이 방영되었다.
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink"), [2월 25일에는](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") [평창 동계올림픽](https://ko.wikipedia.org/wiki/2018년_동계_올림픽 "wikilink") 중계 방송으로 인해 결방되었다.
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") ,[2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 21일에는](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") [메이저 리그](https://ko.wikipedia.org/wiki/메이저_리그 "wikilink") 생중계 방송으로 인해 결방되었다.
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [6월 30일은](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 한미정상회담으로 인해 [라디오 스타 (문화방송)](https://ko.wikipedia.org/wiki/라디오_스타_\(문화방송\) "wikilink") 스페셜로 대체되었다.
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월 21일과](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") [7월 28일은](https://ko.wikipedia.org/wiki/7월_28일 "wikilink") [2019년 세계 수영 선수권 대회](../Page/2019년_세계_수영_선수권_대회.md "wikilink") 관계로 편성이 연기되었다.
+  - [2013년](../Page/2013년.md "wikilink") [4월 14일에는](../Page/4월_14일.md "wikilink") [메이저 리그](https://ko.wikipedia.org/wiki/메이저_리그 "wikilink") 생중계로 결방되었는데 하지만 결방 공지를 하지 않은 바람에 원성을 샀다.
+  - [2016년](../Page/2016년.md "wikilink") [2월 7일에는](../Page/2월_7일.md "wikilink") 북한 미사일 발사 속보 관계로 결방되었다.
+  - [2016년](../Page/2016년.md "wikilink") [11월 20일에는](../Page/11월_20일.md "wikilink") [최순실](../Page/최순실.md "wikilink") 속보 관계로 결방되었다.
+  - [2017년](../Page/2017년.md "wikilink") [8월 13일에는](../Page/8월_13일.md "wikilink") [메이저 리그](https://ko.wikipedia.org/wiki/메이저_리그 "wikilink") 생중계 방송으로 인해 결방되었다.
+  - [2018년](../Page/2018년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink") 800회 특집이 방영되었다.
+  - [2018년](../Page/2018년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink"), [2월 25일에는](../Page/2월_25일.md "wikilink") [평창 동계올림픽](../Page/2018년_동계_올림픽.md "wikilink") 중계 방송으로 인해 결방되었다.
+  - [2018년](../Page/2018년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") ,[2019년](../Page/2019년.md "wikilink") [4월 21일에는](../Page/4월_21일.md "wikilink") [메이저 리그](https://ko.wikipedia.org/wiki/메이저_리그 "wikilink") 생중계 방송으로 인해 결방되었다.
+  - [2019년](../Page/2019년.md "wikilink") [6월 30일은](../Page/6월_30일.md "wikilink") 한미정상회담으로 인해 [라디오 스타 (문화방송)](https://ko.wikipedia.org/wiki/라디오_스타_\(문화방송\) "wikilink") 스페셜로 대체되었다.
+  - [2019년](../Page/2019년.md "wikilink") [7월 21일과](../Page/7월_21일.md "wikilink") [7월 28일은](../Page/7월_28일.md "wikilink") [2019년 세계 수영 선수권 대회](../Page/2019년_세계_수영_선수권_대회.md "wikilink") 관계로 편성이 연기되었다.
 
 ## 같이 보기
 
@@ -207,7 +207,7 @@
 ## 동시간대 경쟁 프로그램
 
   - [TV쇼 진품명품](../Page/TV쇼_진품명품.md "wikilink") (KBS 1TV)
-  - [TV 동물농장](https://ko.wikipedia.org/wiki/TV_동물농장 "wikilink") (SBS TV)
+  - [TV 동물농장](../Page/TV_동물농장.md "wikilink") (SBS TV)
 
 ## 각주
 
@@ -221,6 +221,6 @@
 [분류:문화방송의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_시사교양_프로그램 "wikilink") [분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:2002년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2002년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2020년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2020년대_대한민국의_텔레비전_프로그램 "wikilink")
 
 1.  [2019년 세계 수영 선수권 대회](../Page/2019년_세계_수영_선수권_대회.md "wikilink") 으로 인한 지연편성
-2.  ['서프라이즈' 2014년 소행성충돌 일어날까?](http://sstv.freechal.com/index.html?page=news/flypage&od=1&cid=1&nid=55123)  《SSTV》 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 28일](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") 작성.
-3.  [서프라이즈 지구멸망설 '2012년 그날이 오나'](http://www.todaykorea.co.kr/news/articleView.html?idxno=80583) 《투데이 코리아》 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") 작성.
-4.  [신비한 TV 서프라이즈, \`진실 혹은 거짓\` 폐지…새 코너 선봬](http://www.hankyung.com/news/app/newsview.php?aid=2010072948037&sid=83&nid=105&ltype=1&pkind=all) 《[한국경제](https://ko.wikipedia.org/wiki/한국경제 "wikilink")》 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink") 작성.
+2.  ['서프라이즈' 2014년 소행성충돌 일어날까?](http://sstv.freechal.com/index.html?page=news/flypage&od=1&cid=1&nid=55123)  《SSTV》 [2009년](../Page/2009년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink") 작성.
+3.  [서프라이즈 지구멸망설 '2012년 그날이 오나'](http://www.todaykorea.co.kr/news/articleView.html?idxno=80583) 《투데이 코리아》 [2009년](../Page/2009년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") 작성.
+4.  [신비한 TV 서프라이즈, \`진실 혹은 거짓\` 폐지…새 코너 선봬](http://www.hankyung.com/news/app/newsview.php?aid=2010072948037&sid=83&nid=105&ltype=1&pkind=all) 《[한국경제](https://ko.wikipedia.org/wiki/한국경제 "wikilink")》 [2010년](../Page/2010년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") 작성.
