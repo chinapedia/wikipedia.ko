@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [We never give up!](https://ko.wikipedia.org/wiki/We_never_give_up!).
 
 
-〈**We never give up\!**〉는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 남성 아이돌 그룹, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**We never give up\!**〉는, [일본](../Page/일본.md "wikilink")의 남성 아이돌 그룹, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -22,7 +22,7 @@
       -
         작사·작곡·편곡: 히비노 히로후미
     <!-- end list -->
-      - [후지 TV계](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 《모시모 투어즈》 테마송
+      - [후지 TV계](../Page/후지_TV.md "wikilink") 《모시모 투어즈》 테마송
 
 **DVD**
 

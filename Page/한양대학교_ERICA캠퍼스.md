@@ -17,7 +17,7 @@
 
 ① 본교 서울캠퍼스에 공과대학, 의과대학, 인문과학대학, 사회과학대학, 자연과학대학, 정책과학대학, 경제금융대학, 경영대학, 사범대학, 생활과학대학, 음악대학, 예술·체육대학, 간호학부, 국제학부, 산업융합학부, 인텔리전스컴퓨팅학부, 대학원, 도시대학원, 국제학대학원, 경영전문대학원, 법학전문대학원, 의생명공학전문대학원, 기술경영전문대학원, 공학대학원, 공공정책대학원, 교육대학원, 언론정보대학원, 국제관광대학원, 임상간호정보대학원, 부동산융합대학원, 보건대학원, 상담심리대학원을 둔다.
 
-**한양대학교 ERICA캠퍼스**(漢陽大學校 ERICA, Hanyang University ERICA Campus)는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink")에 있는 사립 대학이다. [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 반월공단(현 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink") [상록구](https://ko.wikipedia.org/wiki/상록구 "wikilink") 해양동)에 한양대학교 반월캠퍼스로 시작되었고,. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에는 한양대학교 ERICA(Education Research Industry Cluster at Ansan)캠퍼스로 교명을 변경하였다.
+**한양대학교 ERICA캠퍼스**(漢陽大學校 ERICA, Hanyang University ERICA Campus)는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink")에 있는 사립 대학이다. [1978년](../Page/1978년.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 반월공단(현 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink") [상록구](../Page/상록구.md "wikilink") 해양동)에 한양대학교 반월캠퍼스로 시작되었고,. [2009년](../Page/2009년.md "wikilink")에는 한양대학교 ERICA(Education Research Industry Cluster at Ansan)캠퍼스로 교명을 변경하였다.
 
 ## 연혁
 

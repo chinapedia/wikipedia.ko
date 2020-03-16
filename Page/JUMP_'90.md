@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JUMP \'90](https://ko.wikipedia.org/wiki/JUMP_\'90).
 
 
-**JUMP '90**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [민해경](https://ko.wikipedia.org/wiki/민해경 "wikilink")의 1990년 발매한 정규 10집이다. 박건호, 함경문 등의 작사가들과, 김종환, 이주호, 박정원등의 작곡가들이 참여한 앨범이다. 활동곡은 **보고싶은 얼굴**이다.
+**JUMP '90**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1990년 발매한 정규 10집이다. 박건호, 함경문 등의 작사가들과, 김종환, 이주호, 박정원등의 작곡가들이 참여한 앨범이다. 활동곡은 **보고싶은 얼굴**이다.
 
 ## 앨범의 특징
 
@@ -25,4 +25,4 @@ ABU 가요제에 참여한 이 앨범을 기점으로, 이후 나오는 11집, 1
 
 [분류:1991년 음반](https://ko.wikipedia.org/wiki/분류:1991년_음반 "wikilink") [분류:민해경의 음반](https://ko.wikipedia.org/wiki/분류:민해경의_음반 "wikilink")
 
-1.  [민해경-「해바라기」손잡다 1990-07-27](http://newslibrary.naver.com/viewer/index.nhn?articleId=1990072700209231001&edtNo=2&printCount=1&publishDate=1990-07-27&officeId=00020&pageNo=31&printNo=21191&publishType=00020)[경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink") 2011-09-08 확인
+1.  [민해경-「해바라기」손잡다 1990-07-27](http://newslibrary.naver.com/viewer/index.nhn?articleId=1990072700209231001&edtNo=2&printCount=1&publishDate=1990-07-27&officeId=00020&pageNo=31&printNo=21191&publishType=00020)[경향신문](../Page/경향신문.md "wikilink") 2011-09-08 확인

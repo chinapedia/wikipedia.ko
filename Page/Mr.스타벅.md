@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mr.](https://ko.wikipedia.org/wiki/Mr.).
 
 
-**Mr.스타벅(미스터 스타벅)**(Starbuck)은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 개봉한 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")의 코미디 영화이다.
+**Mr.스타벅(미스터 스타벅)**(Starbuck)은 [2011년](../Page/2011년.md "wikilink") 개봉한 [캐나다](../Page/캐나다.md "wikilink")의 코미디 영화이다.
 
 ## 줄거리
 

@@ -38,7 +38,7 @@
 
 ### 모스 방식
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:LNG_tanker_\(side_view\).PNG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:LNG_tanker_\(front_view\).PNG "wikilink") 구형 탱크 방식으로는 [알루미늄](https://ko.wikipedia.org/wiki/알루미늄 "wikilink") 합금, 9% [니켈](https://ko.wikipedia.org/wiki/니켈 "wikilink") 강철, [스텐레스강철](https://ko.wikipedia.org/wiki/스텐레스강철 "wikilink")이 사용되고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:LNG_tanker_\(side_view\).PNG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:LNG_tanker_\(front_view\).PNG "wikilink") 구형 탱크 방식으로는 [알루미늄](../Page/알루미늄.md "wikilink") 합금, 9% [니켈](../Page/니켈.md "wikilink") 강철, [스텐레스강철](https://ko.wikipedia.org/wiki/스텐레스강철 "wikilink")이 사용되고 있다.
 
 선체에서는 독립한 구형 탱크의 적도부가 원통형의 금속제의 탱크 지지부(스커트)의 상단에서 유지되어 지지 부하단은 대좌 갑판으로 불리는 선창 내벽에 용접된다.
 
@@ -70,7 +70,7 @@
 
 :\*용접의 불비하고 균열이 생기는 등, 상정보다는 품질관리가 어렵다
 
-모스(Moss) 방식의 독립 구형 탱크는 [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink")의 [오슬로](https://ko.wikipedia.org/wiki/오슬로 "wikilink")의 남 50km의 모스시에서 개발된 방식이다. 한국에서는 현대중공업에서 13만7천m<sup>3</sup>급의 **현대유토피아**호를, 일본에서는 미츠비시, 미츠이, 카와사키가 라이센스 계약을 행하고 있다. 일본에서는 125,000m/153,000m의 LNG선 47척이 건조되고 있다.(2009년 시점)
+모스(Moss) 방식의 독립 구형 탱크는 [노르웨이](../Page/노르웨이.md "wikilink")의 [오슬로](../Page/오슬로.md "wikilink")의 남 50km의 모스시에서 개발된 방식이다. 한국에서는 현대중공업에서 13만7천m<sup>3</sup>급의 **현대유토피아**호를, 일본에서는 미츠비시, 미츠이, 카와사키가 라이센스 계약을 행하고 있다. 일본에서는 125,000m/153,000m의 LNG선 47척이 건조되고 있다.(2009년 시점)
 
 ### 멤브레인 방식
 
@@ -114,7 +114,7 @@ IGC 코드에서는 어느 방식에서도 기본적으로는 2차 방벽의 설
   -
     탱크 영주의 실제 녹봉로10-70%의 사이는 스롯싱 충격에 의한 내벽의 손상을 회피하기 위해서 적부가 금지되고 있다.
     멘브렌의 두께는 1.2 mm로 스텐레스제.
-    GE사제의 유리 섬유 강화형 발포[폴리우레탄](https://ko.wikipedia.org/wiki/폴리우레탄 "wikilink")제 방열상자는 1층만으로 270 mm이다.
+    GE사제의 유리 섬유 강화형 발포[폴리우레탄](../Page/폴리우레탄.md "wikilink")제 방열상자는 1층만으로 270 mm이다.
     이 폴리우레탄이 접착된 합판이 선창 내벽에 볼트 고정된다.
   - GTT　No.96 방식(가스 트랜스포트 No.96 방식)
     최대 200,000m<sup>3</sup>의 LNG선이 건조되고 있다.

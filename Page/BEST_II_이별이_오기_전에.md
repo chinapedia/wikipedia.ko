@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BEST II   ](https://ko.wikipedia.org/wiki/BEST_II___).
 
 
-**BEST II 이별이 오기 전에**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [민해경](https://ko.wikipedia.org/wiki/민해경 "wikilink")의 1991년 발매한 베스트 앨범이다. 활동곡은 **이별이 오기 전에**이다. 신곡 3곡을 수록한 베스트 앨범이고, 이 앨범으로 1991년 골든디스크상 본상을 수상하였다.
+**BEST II 이별이 오기 전에**는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1991년 발매한 베스트 앨범이다. 활동곡은 **이별이 오기 전에**이다. 신곡 3곡을 수록한 베스트 앨범이고, 이 앨범으로 1991년 골든디스크상 본상을 수상하였다.
 
 ## 앨범의 특징
 

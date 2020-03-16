@@ -5,7 +5,7 @@
 
 ## 개요
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")에 발매된 두 번째 싱글 〈[Loveless](../Page/Loveless_\(야마시타_토모히사의_노래\).md "wikilink")〉 이후 약 8개월 만에 세 번째 솔로 싱글이다.
+[2009년](../Page/2009년.md "wikilink") [11월](../Page/11월.md "wikilink")에 발매된 두 번째 싱글 〈[Loveless](../Page/Loveless_\(야마시타_토모히사의_노래\).md "wikilink")〉 이후 약 8개월 만에 세 번째 솔로 싱글이다.
 
 첫 A·B과 통상 판의 3가지 사양으로, 초회 반 A는 지난해 있었던 솔로 콘서트의 모습이 실린 DVD가 수록되어 있고, 처음 B와 통상 반에는 신곡이 수록되어있다.
 

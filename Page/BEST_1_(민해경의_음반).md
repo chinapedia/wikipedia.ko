@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BEST 1 \( \)](https://ko.wikipedia.org/wiki/BEST_1_\(_\)).
 
 
-**BEST 1**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [민해경](https://ko.wikipedia.org/wiki/민해경 "wikilink")의 1987년 발매한 두 번째 베스트앨범이며, 7집 앨범에 수록된 곡들이 대부분 CD에 실렸으며, 강인원이 프로듀서로 참여한 앨범이다.
+**BEST 1**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1987년 발매한 두 번째 베스트앨범이며, 7집 앨범에 수록된 곡들이 대부분 CD에 실렸으며, 강인원이 프로듀서로 참여한 앨범이다.
 
 ## 앨범의 특징
 

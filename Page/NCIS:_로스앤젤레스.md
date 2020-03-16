@@ -15,7 +15,7 @@
   - [배럿 포아](https://ko.wikipedia.org/wiki/배럿_포아 "wikilink") - Eric Beale
   - [르네 펠리스 스미스](https://ko.wikipedia.org/wiki/르네_펠리스_스미스 "wikilink") - Nell Jones
   - [린다 헌트](https://ko.wikipedia.org/wiki/린다_헌트 "wikilink") - Hetty Lange
-  - [LL 쿨 J](https://ko.wikipedia.org/wiki/LL_쿨_J "wikilink") - Sam Hanna
+  - [LL 쿨 J](../Page/LL_쿨_J.md "wikilink") - Sam Hanna
 
 ## 외부 링크
 

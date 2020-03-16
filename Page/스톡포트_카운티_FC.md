@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**스톡포트 카운티 FC**(Stockport County F.C.)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [그레이터맨체스터주](https://ko.wikipedia.org/wiki/그레이터맨체스터주 "wikilink") [스톡포트](https://ko.wikipedia.org/wiki/스톡포트 "wikilink")를 본거지로 하는 축구단이다.
+**스톡포트 카운티 FC**(Stockport County F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink") [스톡포트](https://ko.wikipedia.org/wiki/스톡포트 "wikilink")를 본거지로 하는 축구단이다.
 
 2019-20 시즌 기준으로 [내셔널리그(디비전)내셔널리그](https://ko.wikipedia.org/wiki/내셔널리그\(디비전\)내셔널리그 "wikilink") 에 속해 있다.
 

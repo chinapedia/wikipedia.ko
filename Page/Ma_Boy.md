@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ma Boy](https://ko.wikipedia.org/wiki/Ma_Boy).
 
 
-〈**Ma Boy**〉는 대한민국의 걸 그룹 [씨스타](https://ko.wikipedia.org/wiki/씨스타 "wikilink")의 유닛 [씨스타19](https://ko.wikipedia.org/wiki/씨스타19 "wikilink")의 데뷔 싱글이자 노래이다.
+〈**Ma Boy**〉는 대한민국의 걸 그룹 [씨스타](../Page/씨스타.md "wikilink")의 유닛 [씨스타19](https://ko.wikipedia.org/wiki/씨스타19 "wikilink")의 데뷔 싱글이자 노래이다.
 
 ## 차트
 

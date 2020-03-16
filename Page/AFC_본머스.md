@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
 
 
-**AFC 본머스**(A.F.C. Bournemouth)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [도싯주](../Page/도싯주.md "wikilink") [본머스](../Page/본머스.md "wikilink")를 본거지로 하는 프로 축구 클럽이다. 잉글랜드 축구 리그 톱티어인 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 소속되어있다. 홈구장은 [바이탈리티 스타디움](https://ko.wikipedia.org/wiki/바이탈리티_스타디움 "wikilink"), [딘 코트이며](../Page/딘_코트.md "wikilink") 1890년 보스컴 세인트 존스 FC로 창단 되었다가 1972년에 현재 AFC 본머스로 팀의 이름으로 변경되었다. 팀의 별명은 The Cherries(체리)이며, 팀의 홈 유니폼 컬러는 레드와 블랙 줄무늬 셔츠와 블랙 반바지와 양말이다.
+**AFC 본머스**(A.F.C. Bournemouth)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [도싯주](../Page/도싯주.md "wikilink") [본머스](../Page/본머스.md "wikilink")를 본거지로 하는 프로 축구 클럽이다. 잉글랜드 축구 리그 톱티어인 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 소속되어있다. 홈구장은 [바이탈리티 스타디움](https://ko.wikipedia.org/wiki/바이탈리티_스타디움 "wikilink"), [딘 코트이며](../Page/딘_코트.md "wikilink") 1890년 보스컴 세인트 존스 FC로 창단 되었다가 1972년에 현재 AFC 본머스로 팀의 이름으로 변경되었다. 팀의 별명은 The Cherries(체리)이며, 팀의 홈 유니폼 컬러는 레드와 블랙 줄무늬 셔츠와 블랙 반바지와 양말이다.
 
 2014-15 시즌 [풋볼 리그 챔피언십에서](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 우승 함으로써, 2015-16 시즌을 앞두고 그토록 꿈에 그리던 잉글랜드 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")로 승격되었다. [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에서 잉글랜드 선수가 가장 많은 팀이다. 영화배우 [크리스찬 베일이](../Page/크리스찬_베일.md "wikilink") 이 팀의 팬으로 알려져있다.
 
@@ -76,7 +76,7 @@
 <ul>
 <li><a href="../Page/해리_레드냅.md" title="wikilink">해리 레드냅</a></li>
 </ul>
-<p>전직 <a href="https://ko.wikipedia.org/wiki/퀸즈_파크_레인저스" title="wikilink">퀸즈 파크 레인저스와</a> AFC 본머스의 전 감독인 레드냅은 AFC 본머스 시절의 선수생활 이후 계속 도시 <a href="../Page/본머스.md" title="wikilink">본머스</a>에서 살고 있으며, <a href="../Page/본머스.md" title="wikilink">본머스</a>를 떠나지 않기 위해 <a href="https://ko.wikipedia.org/wiki/런던" title="wikilink">런던</a> 이북지역 클럽으로는 감독생활을 해 본적 없는 것으로 유명하다.</p>
+<p>전직 <a href="https://ko.wikipedia.org/wiki/퀸즈_파크_레인저스" title="wikilink">퀸즈 파크 레인저스와</a> AFC 본머스의 전 감독인 레드냅은 AFC 본머스 시절의 선수생활 이후 계속 도시 <a href="../Page/본머스.md" title="wikilink">본머스</a>에서 살고 있으며, <a href="../Page/본머스.md" title="wikilink">본머스</a>를 떠나지 않기 위해 <a href="../Page/런던.md" title="wikilink">런던</a> 이북지역 클럽으로는 감독생활을 해 본적 없는 것으로 유명하다.</p>
 <ul>
 <li><a href="../Page/에디_하우.md" title="wikilink">에디 하우</a> (1994-2002/2004-2006)</li>
 </ul>
@@ -140,7 +140,7 @@
 
 ### 역대 주장
 
-지금 현재 주장인 [타미 엘픽은](../Page/타미_엘픽.md "wikilink") 12-13시즌 시작전인 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 여름부터 팀에서 활약해 왔다. 본머스 수비의 핵심 이며 정신적 지주자 이자, 팀의 핵심이다.
+지금 현재 주장인 [타미 엘픽은](../Page/타미_엘픽.md "wikilink") 12-13시즌 시작전인 [2012년](../Page/2012년.md "wikilink") 여름부터 팀에서 활약해 왔다. 본머스 수비의 핵심 이며 정신적 지주자 이자, 팀의 핵심이다.
 
 ## 관련 항목
 

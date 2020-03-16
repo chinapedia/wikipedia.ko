@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [GMG ](https://ko.wikipedia.org/wiki/GMG_).
 
 
-**GMG 항공**()는 [방글라데시](../Page/방글라데시.md "wikilink")의 항공사로 총 5개 노선을 취항하고 있다. 본사는 [방글라데시](../Page/방글라데시.md "wikilink") [다카](https://ko.wikipedia.org/wiki/다카 "wikilink")에 위치해 있으며 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [샤잘랄 국제공항이](../Page/샤잘랄_국제공항.md "wikilink") 있다.\[1\]
+**GMG 항공**()는 [방글라데시](../Page/방글라데시.md "wikilink")의 항공사로 총 5개 노선을 취항하고 있다. 본사는 [방글라데시](../Page/방글라데시.md "wikilink") [다카](../Page/다카.md "wikilink")에 위치해 있으며 [1998년](../Page/1998년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [샤잘랄 국제공항이](../Page/샤잘랄_국제공항.md "wikilink") 있다.\[1\]
 
 ## 보유 기종
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 기준으로 GMG 항공은 다음과 같은 기종을 보유하고 있다.
+  - [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink") 기준으로 GMG 항공은 다음과 같은 기종을 보유하고 있다.
 
-| 기종                                                                      | 대수    | 주문    | 좌석  | 비고                                                                  |
-| ----------------------------------------------------------------------- | ----- | ----- | --- | ------------------------------------------------------------------- |
-| [봄바디어 대쉬 8 100](https://ko.wikipedia.org/wiki/봄바디어_Q_시리즈 "wikilink")    | 1     | 0     | 37  |                                                                     |
-| [봄바디어 대쉬 8 300](https://ko.wikipedia.org/wiki/봄바디어_Q_시리즈 "wikilink")    | 1     | 0     | 50  |                                                                     |
-| [맥도넬더글러스 MD-82](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink") | 2     | 0     | 150 | 구. [라이온 에어](https://ko.wikipedia.org/wiki/라이온_에어 "wikilink") 소속 비행기 |
-| [맥도넬더글러스 MD-83](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink") | 1     | 0     | 153 |                                                                     |
-| **합계**                                                                  | **5** | **0** |     |                                                                     |
+| 기종                                                                      | 대수    | 주문    | 좌석  | 비고                                               |
+| ----------------------------------------------------------------------- | ----- | ----- | --- | ------------------------------------------------ |
+| [봄바디어 대쉬 8 100](https://ko.wikipedia.org/wiki/봄바디어_Q_시리즈 "wikilink")    | 1     | 0     | 37  |                                                  |
+| [봄바디어 대쉬 8 300](https://ko.wikipedia.org/wiki/봄바디어_Q_시리즈 "wikilink")    | 1     | 0     | 50  |                                                  |
+| [맥도넬더글러스 MD-82](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink") | 2     | 0     | 150 | 구. [라이온 에어](../Page/라이온_에어.md "wikilink") 소속 비행기 |
+| [맥도넬더글러스 MD-83](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink") | 1     | 0     | 153 |                                                  |
+| **합계**                                                                  | **5** | **0** |     |                                                  |
 
 **GMG 항공의 보유 기종**\[2\]\[3\]
 

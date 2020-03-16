@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [6 Part 1](https://ko.wikipedia.org/wiki/6_Part_1).
 
 
-《**싸이6甲 Part 1**》(싸이육갑 Part 1)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")의 여섯 번째 정규 음반이다. 이 음반은 당초 Part 1과 Part 2로 나뉘어 발매될 예정으로 2012년 7월 25일 Part 1이 발매되었지만 Part 2는 발매가 되지 않았다. 타이틀 곡은 〈[강남스타일](../Page/강남스타일.md "wikilink")〉이다. [YG 엔터테인먼트와](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") [KT 뮤직에](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 의해 기획, 제작되어 발매되었고, 해외에서는 [유니버설 뮤직 그룹](../Page/유니버설_뮤직_그룹.md "wikilink"), [YGEX](https://ko.wikipedia.org/wiki/YGEX "wikilink")에 의해 발매되었다.
+《**싸이6甲 Part 1**》(싸이육갑 Part 1)은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [싸이](../Page/싸이.md "wikilink")의 여섯 번째 정규 음반이다. 이 음반은 당초 Part 1과 Part 2로 나뉘어 발매될 예정으로 2012년 7월 25일 Part 1이 발매되었지만 Part 2는 발매가 되지 않았다. 타이틀 곡은 〈[강남스타일](../Page/강남스타일.md "wikilink")〉이다. [YG 엔터테인먼트와](../Page/YG_엔터테인먼트.md "wikilink") [KT 뮤직에](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 의해 기획, 제작되어 발매되었고, 해외에서는 [유니버설 뮤직 그룹](../Page/유니버설_뮤직_그룹.md "wikilink"), [YGEX](../Page/YGEX.md "wikilink")에 의해 발매되었다.
 
 ## 트랙 리스트
 
@@ -15,11 +15,11 @@
 
 <!-- end list -->
 
-  - 오영상 - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")(1, 6)
-  - 이경한 - [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")(1, 6)
+  - 오영상 - [기타](../Page/기타.md "wikilink")(1, 6)
+  - 이경한 - [베이스 기타](../Page/베이스_기타.md "wikilink")(1, 6)
   - [Sam Lee](https://ko.wikipedia.org/wiki/Sam_Lee "wikilink") - 기타(5)
   - 임채광 - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")(6)
-  - 김종익 - [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")(6)
+  - 김종익 - [피아노](../Page/피아노.md "wikilink")(6)
 
 <!-- end list -->
 
@@ -27,10 +27,10 @@
 
 <!-- end list -->
 
-  - [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink") - [프로듀서](../Page/음악_프로듀서.md "wikilink"), 헤어, 믹싱
-  - [유건형](https://ko.wikipedia.org/wiki/유건형 "wikilink") - CO-프로듀서
+  - [싸이](../Page/싸이.md "wikilink") - [프로듀서](../Page/음악_프로듀서.md "wikilink"), 헤어, 믹싱
+  - [유건형](../Page/유건형.md "wikilink") - CO-프로듀서
   - [양현석](../Page/양현석.md "wikilink") - [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink"), 믹싱
-  - 한재응/이경준/신성권/이지훈([YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink")), 박은정(HUB 스튜디오), 정은경(IN GRID 스튜디오), 백경훈/송주용(스튜디오 T) - 녹음
+  - 한재응/이경준/신성권/이지훈([YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink")), 박은정(HUB 스튜디오), 정은경(IN GRID 스튜디오), 백경훈/송주용(스튜디오 T) - 녹음
   - Jason Robert - 믹싱
   - 성지훈(JFS 스튜디오)/오성근(스튜디오 T) - 믹싱(5)
   - Tom Coyne(Stering Sound) - [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")
@@ -59,11 +59,11 @@
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 월드 앨범 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[3]</p></td>
+<td><p>미국 월드 앨범 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[3]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>미국 히트시커스 앨범 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[4]</p></td>
+<td><p>미국 히트시커스 앨범 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[4]</p></td>
 <td><p>24</p></td>
 </tr>
 <tr class="even">

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Min Hae Kyung](https://ko.wikipedia.org/wiki/Min_Hae_Kyung).
 
 
-**Min Hae Kyung**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [민해경](https://ko.wikipedia.org/wiki/민해경 "wikilink")의 1986년 발매한 정규 6집이다. 이세건이 프로듀서로 참여한 앨범이며, 활동곡은 **내 인생을 찾아서**이다.
+**Min Hae Kyung**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1986년 발매한 정규 6집이다. 이세건이 프로듀서로 참여한 앨범이며, 활동곡은 **내 인생을 찾아서**이다.
 
 ## 앨범의 특징
 
@@ -23,4 +23,4 @@
 
 [분류:1986년 음반](https://ko.wikipedia.org/wiki/분류:1986년_음반 "wikilink") [분류:민해경의 음반](https://ko.wikipedia.org/wiki/분류:민해경의_음반 "wikilink")
 
-1.  [電波(전파)못타는 解禁(해금)가요 1988-06-07](http://newslibrary.naver.com/viewer/index.nhn?articleId=1988060700329216001&editNo=3&printCount=1&publishDate=1988-06-07&officeId=00032&pageNo=16&printNo=13135&publishType=00020)[경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink") 2011-09-08 확인
+1.  [電波(전파)못타는 解禁(해금)가요 1988-06-07](http://newslibrary.naver.com/viewer/index.nhn?articleId=1988060700329216001&editNo=3&printCount=1&publishDate=1988-06-07&officeId=00032&pageNo=16&printNo=13135&publishType=00020)[경향신문](../Page/경향신문.md "wikilink") 2011-09-08 확인

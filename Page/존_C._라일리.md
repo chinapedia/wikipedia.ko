@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
 
 
-**존 크리스토퍼 라일리**(John Christopher Reilly, [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") [5월 24일](https://ko.wikipedia.org/wiki/5월_24일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
+**존 크리스토퍼 라일리**(John Christopher Reilly, [1965년](../Page/1965년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
 
 ## 출연 작품
 
   - [매그놀리아](https://ko.wikipedia.org/wiki/매그놀리아 "wikilink")
-  - [주먹왕 랄프](https://ko.wikipedia.org/wiki/주먹왕_랄프 "wikilink")(랄프 영어 목소리)
-  - [시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink")
-  - [퍼펙트 스톰](https://ko.wikipedia.org/wiki/퍼펙트_스톰 "wikilink")
+  - [주먹왕 랄프](../Page/주먹왕_랄프.md "wikilink")(랄프 영어 목소리)
+  - [시카고](../Page/시카고.md "wikilink")
+  - [퍼펙트 스톰](../Page/퍼펙트_스톰.md "wikilink")
   - [가디언즈 오브 갤럭시](https://ko.wikipedia.org/wiki/가디언즈_오브_갤럭시 "wikilink")
   - [길버트 그레이프](../Page/길버트_그레이프.md "wikilink")
   - [테일 오브 테일즈](../Page/테일_오브_테일즈_\(영화\).md "wikilink")
   - [씽](../Page/씽_\(2016년_영화\).md "wikilink")
   - [콩: 스컬 아일랜드](../Page/콩:_스컬_아일랜드.md "wikilink")
   - [주먹왕 랄프 2: 인터넷 속으로](../Page/주먹왕_랄프_2:_인터넷_속으로.md "wikilink")(랄프 영어 목소리)
-  - [홈즈 앤 왓슨](https://ko.wikipedia.org/wiki/홈즈_앤_왓슨 "wikilink") - 왓슨 역
+  - [홈즈 앤 왓슨](../Page/홈즈_앤_왓슨.md "wikilink") - 왓슨 역
   - [스탠 & 올리](https://ko.wikipedia.org/wiki/스탠_&_올리 "wikilink")
   - [시스터스 브라더스](../Page/시스터스_브라더스.md "wikilink")
 

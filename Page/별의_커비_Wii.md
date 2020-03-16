@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  Wii](https://ko.wikipedia.org/wiki/__Wii).
 
 
-《**별의 커비 Wii**》(, )는 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink") 전용 커비 비디오 게임 시리즈로 [HAL 연구소에서](https://ko.wikipedia.org/wiki/HAL_연구소 "wikilink") 개발하였다. 카피 능력은 커맨드 액션. 대체로 [별의 커비 슈퍼 디럭스에서](https://ko.wikipedia.org/wiki/별의_커비_슈퍼_디럭스 "wikilink") 가져온 기술들이 대부분이지만, 이번 작의 새로운 기술과 캡콤의 자회사 플래그십과 일신하여 만들어진 [별의 커비 거울의 대미궁](../Page/별의_커비_거울의_대미궁.md "wikilink"), [별의 커비 도팡 일당의 습격의](https://ko.wikipedia.org/wiki/별의_커비_도팡_일당의_습격 "wikilink") 기술들도 조금 섞여 있다고 할 수 있다. 대체로 [뉴 슈퍼 마리오 브라더스 wii와](https://ko.wikipedia.org/wiki/뉴_슈퍼_마리오_브라더스_wii "wikilink") 비슷한 점들이 여럿 있다. E3 2011에서 공개되었으며 일본에서는 2011년 10월 27일 발매되었다.
+《**별의 커비 Wii**》(, )는 [Wii](../Page/Wii.md "wikilink") 전용 커비 비디오 게임 시리즈로 [HAL 연구소에서](https://ko.wikipedia.org/wiki/HAL_연구소 "wikilink") 개발하였다. 카피 능력은 커맨드 액션. 대체로 [별의 커비 슈퍼 디럭스에서](https://ko.wikipedia.org/wiki/별의_커비_슈퍼_디럭스 "wikilink") 가져온 기술들이 대부분이지만, 이번 작의 새로운 기술과 캡콤의 자회사 플래그십과 일신하여 만들어진 [별의 커비 거울의 대미궁](../Page/별의_커비_거울의_대미궁.md "wikilink"), [별의 커비 도팡 일당의 습격의](../Page/별의_커비_도팡_일당의_습격.md "wikilink") 기술들도 조금 섞여 있다고 할 수 있다. 대체로 [뉴 슈퍼 마리오 브라더스 wii와](https://ko.wikipedia.org/wiki/뉴_슈퍼_마리오_브라더스_wii "wikilink") 비슷한 점들이 여럿 있다. E3 2011에서 공개되었으며 일본에서는 2011년 10월 27일 발매되었다.
 
 ## 줄거리
 

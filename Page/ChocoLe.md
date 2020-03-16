@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ChocoLe](https://ko.wikipedia.org/wiki/ChocoLe).
 
 
-**ChocoLe**(쵸코렛토, )는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 결성한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). 소속사는 비스켓 엔터테인먼트(와타나베 엔터테인먼트 산하)이며, 음반 레이블은 [에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink").
+**ChocoLe**(쵸코렛토, )는 [2011년](../Page/2011년.md "wikilink")에 결성한 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). 소속사는 비스켓 엔터테인먼트(와타나베 엔터테인먼트 산하)이며, 음반 레이블은 [에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink").
 
 ## 구성원
 
@@ -23,7 +23,7 @@
 
 ## 관련 항목
 
-  - [아이돌링\!\!\!](https://ko.wikipedia.org/wiki/아이돌링!!! "wikilink") (2015년 10월 해산)
+  - [아이돌링\!\!\!](../Page/아이돌링!!!.md "wikilink") (2015년 10월 해산)
 
 ## 외부 링크
 

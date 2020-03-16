@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [G](https://ko.wikipedia.org/wiki/G).
 
 
-《**로봇G**》 (, Robo G)는 [2012년 일본 영화이다](https://ko.wikipedia.org/wiki/2012년_일본_영화 "wikilink"). [야구치 시노부가](https://ko.wikipedia.org/wiki/야구치_시노부 "wikilink") 감독을 맡았으며 [미키 커티스와](https://ko.wikipedia.org/wiki/미키_커티스 "wikilink") [요시타카 유리코가](https://ko.wikipedia.org/wiki/요시타카_유리코 "wikilink") 주연을 맡았다.
+《**로봇G**》 (, Robo G)는 [2012년 일본 영화이다](https://ko.wikipedia.org/wiki/2012년_일본_영화 "wikilink"). [야구치 시노부가](../Page/야구치_시노부.md "wikilink") 감독을 맡았으며 [미키 커티스와](https://ko.wikipedia.org/wiki/미키_커티스 "wikilink") [요시타카 유리코가](../Page/요시타카_유리코.md "wikilink") 주연을 맡았다.
 
 ## 줄거리
 
@@ -10,11 +10,11 @@
 ## 출연진
 
   - [이가라시 신지로](https://ko.wikipedia.org/wiki/이가라시_신지로 "wikilink")(미키 커티스) - 스즈키 시게미쓰, 로봇 안에 들어가 로봇을 연기하는 노인
-  - [요시타카 유리코](https://ko.wikipedia.org/wiki/요시타카_유리코 "wikilink") - 사사키 요코, 로봇을 좋아하는 대학생
+  - [요시타카 유리코](../Page/요시타카_유리코.md "wikilink") - 사사키 요코, 로봇을 좋아하는 대학생
   - [하마다 가쿠](https://ko.wikipedia.org/wiki/하마다_가쿠 "wikilink") - 고바야시, 기무라 전기 엔지니어
   - [가와이 쇼고](https://ko.wikipedia.org/wiki/가와이_쇼고 "wikilink") - 오타, 기무라 전기 엔지니어
   - [가와시마 준야](https://ko.wikipedia.org/wiki/가와시마_준야 "wikilink") - 나가이, 기무라 전기 엔지니어
-  - [타바타 토모코](https://ko.wikipedia.org/wiki/타바타_토모코 "wikilink") - 이타미, 방송국 PD
+  - [타바타 토모코](../Page/타바타_토모코.md "wikilink") - 이타미, 방송국 PD
   - [와쿠이 에미](../Page/와쿠이_에미.md "wikilink") - 사이토 하루에, 시게미쓰의 딸
   - [오노 다케히코](https://ko.wikipedia.org/wiki/오노_다케히코 "wikilink") - 기무라, 기무라 전기 사장
   - [다나베 세이치](https://ko.wikipedia.org/wiki/다나베_세이치 "wikilink")

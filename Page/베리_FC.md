@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**베리 FC**(Bury F.C.)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [그레이터맨체스터주](https://ko.wikipedia.org/wiki/그레이터맨체스터주 "wikilink") [베리를](https://ko.wikipedia.org/wiki/베리_\(그레이터맨체스터주\) "wikilink") 본거지로 하는 축구 클럽 팀이다.
+**베리 FC**(Bury F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink") [베리를](https://ko.wikipedia.org/wiki/베리_\(그레이터맨체스터주\) "wikilink") 본거지로 하는 축구 클럽 팀이다.
 
 ## 외부 링크
 

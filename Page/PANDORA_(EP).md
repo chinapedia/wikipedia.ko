@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PANDORA \(EP\)](https://ko.wikipedia.org/wiki/PANDORA_\(EP\)).
 
 
-《**Pandora**》는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 22일](https://ko.wikipedia.org/wiki/8월_22일 "wikilink") 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 5번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").[로엔 엔터테인먼트파트너쉽](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 계약 체결이전 [CJ E\&M을](../Page/CJ_E&M.md "wikilink") 통해 마지막 발매앨범이다. [콘셉트](https://ko.wikipedia.org/wiki/콘셉트 "wikilink")는 그리스 [로마 신화에](https://ko.wikipedia.org/wiki/로마_신화 "wikilink") 나오는 [판도라](https://ko.wikipedia.org/wiki/판도라 "wikilink")이다.
+《**Pandora**》는 [2012년](../Page/2012년.md "wikilink") [8월 22일](../Page/8월_22일.md "wikilink") 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 5번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").[로엔 엔터테인먼트파트너쉽](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 계약 체결이전 [CJ E\&M을](../Page/CJ_E&M.md "wikilink") 통해 마지막 발매앨범이다. [콘셉트](https://ko.wikipedia.org/wiki/콘셉트 "wikilink")는 그리스 [로마 신화에](https://ko.wikipedia.org/wiki/로마_신화 "wikilink") 나오는 [판도라](https://ko.wikipedia.org/wiki/판도라 "wikilink")이다.
 
 ## 트랙 리스트
 

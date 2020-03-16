@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHERBET](https://ko.wikipedia.org/wiki/SHERBET).
 
 
-《**SHERBET**》()는 [Buono\!](../Page/Buono!.md "wikilink")의 두 번째 미니 [음반](../Page/음반.md "wikilink")이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 22일](https://ko.wikipedia.org/wiki/8월_22일 "wikilink") 발매되었다. 유통사는 [Zetima다](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink").
+《**SHERBET**》()는 [Buono\!](../Page/Buono!.md "wikilink")의 두 번째 미니 [음반](../Page/음반.md "wikilink")이다. [2012년](../Page/2012년.md "wikilink") [8월 22일](../Page/8월_22일.md "wikilink") 발매되었다. 유통사는 [Zetima다](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink").
 
 ## 수록곡
 

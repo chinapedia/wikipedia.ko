@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [- II ](https://ko.wikipedia.org/wiki/-_II_).
 
 
-**토르냐칼른스-투쿰스 II 선**()은 [라트비아](https://ko.wikipedia.org/wiki/라트비아 "wikilink")의 철도 노선으로, [유르말라](https://ko.wikipedia.org/wiki/유르말라 "wikilink")를 경유하여 [리가](https://ko.wikipedia.org/wiki/리가 "wikilink")와 [투쿰스](../Page/투쿰스.md "wikilink")를 잇는 노선이다. [러시아 제국](https://ko.wikipedia.org/wiki/러시아_제국 "wikilink") 시기에 리가-오를료프 선의 일부로 건설되었다.
+**토르냐칼른스-투쿰스 II 선**()은 [라트비아](../Page/라트비아.md "wikilink")의 철도 노선으로, [유르말라](https://ko.wikipedia.org/wiki/유르말라 "wikilink")를 경유하여 [리가](../Page/리가.md "wikilink")와 [투쿰스](../Page/투쿰스.md "wikilink")를 잇는 노선이다. [러시아 제국](../Page/러시아_제국.md "wikilink") 시기에 리가-오를료프 선의 일부로 건설되었다.
 
 ## 역사
 

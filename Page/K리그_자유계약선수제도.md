@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
 
 
-**[K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink")의 자유계약선수제도**는 프로축구 선수단 관리규칙 제 4장(FA제도) 26조에서 32조에 의해 규정되어 있다.
+**[K리그](../Page/K리그.md "wikilink")의 자유계약선수제도**는 프로축구 선수단 관리규칙 제 4장(FA제도) 26조에서 32조에 의해 규정되어 있다.
 
 ### 제 26조 (FA선수 자격 취득)
 

@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [  F](https://ko.wikipedia.org/wiki/__F).
 
 
-**애니콜 노리 F**()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 출시한 폴더형 [휴대 전화이다](https://ko.wikipedia.org/wiki/휴대_전화 "wikilink").\[1\] .
+**애니콜 노리 F**()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink")에 출시한 폴더형 [휴대 전화이다](../Page/휴대_전화.md "wikilink").\[1\] .
 
 ## 세부 모델
 
 세부 모델 및 각 모델별 차이는 아래와 같다.\[2\]\[3\]
 
-| 모델명       | 통신사                                                     |
-| --------- | ------------------------------------------------------- |
-| SHW-A200S | [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink") |
-| SHW-A200K | [KT](https://ko.wikipedia.org/wiki/KT "wikilink")       |
+| 모델명       | 통신사                                  |
+| --------- | ------------------------------------ |
+| SHW-A200S | [SK텔레콤](../Page/SK텔레콤.md "wikilink") |
+| SHW-A200K | [KT](../Page/KT.md "wikilink")       |
 
 ## 각주
 

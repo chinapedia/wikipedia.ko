@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VP ](https://ko.wikipedia.org/wiki/VP_).
 
 
-**VP 레코드**(VP Records)는 독립 [레코드 레이블이다](https://ko.wikipedia.org/wiki/레코드_레이블 "wikilink").
+**VP 레코드**(VP Records)는 독립 [레코드 레이블이다](../Page/레코드_레이블.md "wikilink").
 
 킹그스턴/다운타운의 노스 파레이드에서 레코드셥, 라벨\< RANDY’S\> \<IMPACT\!\>기타,스튜디어 (STUDIO17)를 운영하고 있었던 랜디즈를 비롯해서 서유자인 뷘센트랑 팟친이 뉴욕/퀸즈에 이민한 후 1979년에 설립됐다.’VP’란 부부에 이름에서. 그 때부터 30년이상 동안 자메이카의 레게와 그 문화를 세계에 발신하고 있다. 지금은 세계 최대의 레게 레코드회사로써 배포,생산, 배신 등 많은 분야에서 활동 중이다.’MILES AHEAD IN REGGAE MUSIC’이 구호다.
 

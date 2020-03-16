@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [RESCUE\~](https://ko.wikipedia.org/wiki/RESCUE\~).
 
 
-《**RESCUE\~특별고도구조대**》()는, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 24일부터](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") [3월 21일까지](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 계열에서 매주 [토요일 19:56 \~ 20:54](https://ko.wikipedia.org/wiki/TBS_토요일_밤_8시_드라마 "wikilink")([JST](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink"))에 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").
+《**RESCUE\~특별고도구조대**》()는, [2009년](../Page/2009년.md "wikilink") [1월 24일부터](../Page/1월_24일.md "wikilink") [3월 21일까지](../Page/3월_21일.md "wikilink") [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 계열에서 매주 [토요일 19:56 \~ 20:54](../Page/TBS_토요일_밤_8시_드라마.md "wikilink")([JST](../Page/일본_표준시.md "wikilink"))에 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").
 
 ## 개요
 
-[TBS 토요일 밤 8시 드라마](https://ko.wikipedia.org/wiki/TBS_토요일_밤_8시_드라마 "wikilink")(통칭:)의 제4탄에 해당해, 첫회는 전 프로그램 《[블러디 먼데이](https://ko.wikipedia.org/wiki/블러디_먼데이#TV_드라마 "wikilink")》와 마찬가지로 19:00 \~ 20:54의 2시간 스페셜로 방송되었다. 또 주연을 맡는 [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN "wikilink")의 [나카마루 유이치는](../Page/나카마루_유이치.md "wikilink") 첫 주연인 것과 동시에, 토8 시간대에서는 처음으로 [쟈니즈 사무소로부터의](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 출연이 된다.
+[TBS 토요일 밤 8시 드라마](../Page/TBS_토요일_밤_8시_드라마.md "wikilink")(통칭:)의 제4탄에 해당해, 첫회는 전 프로그램 《[블러디 먼데이](https://ko.wikipedia.org/wiki/블러디_먼데이#TV_드라마 "wikilink")》와 마찬가지로 19:00 \~ 20:54의 2시간 스페셜로 방송되었다. 또 주연을 맡는 [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 [나카마루 유이치는](../Page/나카마루_유이치.md "wikilink") 첫 주연인 것과 동시에, 토8 시간대에서는 처음으로 [쟈니즈 사무소로부터의](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 출연이 된다.
 
 [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는 〈**PRIDE of ORANGE.**〉, 〈**목숨을 걸고, 생명을 구조해라**〉.
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - 키타지마 다이치 (23) - [나카마루 유이치](../Page/나카마루_유이치.md "wikilink") ([KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN "wikilink"))
+  - 키타지마 다이치 (23) - [나카마루 유이치](../Page/나카마루_유이치.md "wikilink") ([KAT-TUN](../Page/KAT-TUN.md "wikilink"))
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 
 <!-- end list -->
 
-  - 마에조노 아오이 (22) - [이치카와 유이](https://ko.wikipedia.org/wiki/이치카와_유이 "wikilink")
+  - 마에조노 아오이 (22) - [이치카와 유이](../Page/이치카와_유이.md "wikilink")
 
 <!-- end list -->
 
@@ -186,7 +186,7 @@
 
 <!-- end list -->
 
-  - 이가와 쇼고 (23) - [이시구로 히데오](https://ko.wikipedia.org/wiki/이시구로_히데오 "wikilink")
+  - 이가와 쇼고 (23) - [이시구로 히데오](../Page/이시구로_히데오.md "wikilink")
 
 <!-- end list -->
 
@@ -295,7 +295,7 @@
   - 프로듀스 - 카토 쇼이치, 사토 아츠시
   - 각본 - 야마우라 마사히로, 야츠 히로유키, 와타나베 케이
   - 음악 - 하네오카 케이, 와다 타카후미, 이시자카 요시히코
-  - 주제가 - [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN "wikilink") 〈[RESCUE](https://ko.wikipedia.org/wiki/RESCUE "wikilink")〉 ([J-One Records](https://ko.wikipedia.org/wiki/제이스톰 "wikilink"))
+  - 주제가 - [KAT-TUN](../Page/KAT-TUN.md "wikilink") 〈[RESCUE](../Page/RESCUE.md "wikilink")〉 ([J-One Records](https://ko.wikipedia.org/wiki/제이스톰 "wikilink"))
   - 연출 - 쿠라누키 켄지로, 마츠다 아야토, 호리 히데키
   - 촬영 협력 - 요코하마 시 안전 관리국(특별고도구조부대, 항공대, 소방대, 구조대, 구급대), 요코하마 시 소방 훈련 센터(토츠카 구) 외
   - 화염 효과 - 타이헤이 특수 효과
@@ -416,7 +416,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>평균시청률 10.0% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>평균시청률 10.0% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>

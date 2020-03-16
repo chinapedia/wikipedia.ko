@@ -1,20 +1,20 @@
 > This article is converted from Wikipedia: [NO NAME](https://ko.wikipedia.org/wiki/NO_NAME).
 
 
-**NO NAME**(노 네임)은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink"), [NMB48](../Page/NMB48.md "wikilink")로부터, TV 애니메이션 《[AKB0048](../Page/AKB0048.md "wikilink")》의 성우로서 선출된 〈**성우 선발**〉인 멤버에 의한 아이돌 유닛이다.
+**NO NAME**(노 네임)은 [일본](../Page/일본.md "wikilink")의 여성 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink"), [NMB48](../Page/NMB48.md "wikilink")로부터, TV 애니메이션 《[AKB0048](../Page/AKB0048.md "wikilink")》의 성우로서 선출된 〈**성우 선발**〉인 멤버에 의한 아이돌 유닛이다.
 
 ## 멤버
 
 (소속은 《AKB0048》 본방송 종료시까지)
 
-| 이름                                                                                   | 애니메이션 역할 이름                       | 소속 그룹                                                      |
-| ------------------------------------------------------------------------------------ | --------------------------------- | ---------------------------------------------------------- |
-| **[이와타 카렌](https://ko.wikipedia.org/wiki/이와타_가렌 "wikilink")**<small>(岩田華怜)</small>   | **모토미야 나기사**<small>(本宮凪沙)</small> | [AKB48](../Page/AKB48.md "wikilink") 팀A                    |
-| **[이시다 하루카](https://ko.wikipedia.org/wiki/이시다_하루카 "wikilink")**<small>(石田晴香)</small> | **시노노메 카나타**<small>(東雲彼方)</small> | [AKB48](../Page/AKB48.md "wikilink") 팀K                    |
-| **[와타나베 마유](https://ko.wikipedia.org/wiki/와타나베_마유 "wikilink")**<small>(渡辺麻友)</small> | **소노 치에리**<small>(園智恵理)</small>   | [AKB48](../Page/AKB48.md "wikilink") 팀B                    |
-| **[사토 스미레](../Page/사토_스미레.md "wikilink")**<small>(佐藤すみれ)</small>                     | **키시다 미모리**<small>(岸田美森)</small>  | [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink") 팀E |
-| **[미타 마오](https://ko.wikipedia.org/wiki/미타_마오 "wikilink")**<small>(三田麻央)</small>     | **요코미조 마코토**<small>(横溝真琴)</small> | [NMB48](../Page/NMB48.md "wikilink") 팀M                    |
-|                                                                                      |                                   |                                                            |
+| 이름                                                                                 | 애니메이션 역할 이름                       | 소속 그룹                                   |
+| ---------------------------------------------------------------------------------- | --------------------------------- | --------------------------------------- |
+| **[이와타 카렌](https://ko.wikipedia.org/wiki/이와타_가렌 "wikilink")**<small>(岩田華怜)</small> | **모토미야 나기사**<small>(本宮凪沙)</small> | [AKB48](../Page/AKB48.md "wikilink") 팀A |
+| **[이시다 하루카](../Page/이시다_하루카.md "wikilink")**<small>(石田晴香)</small>                  | **시노노메 카나타**<small>(東雲彼方)</small> | [AKB48](../Page/AKB48.md "wikilink") 팀K |
+| **[와타나베 마유](../Page/와타나베_마유.md "wikilink")**<small>(渡辺麻友)</small>                  | **소노 치에리**<small>(園智恵理)</small>   | [AKB48](../Page/AKB48.md "wikilink") 팀B |
+| **[사토 스미레](../Page/사토_스미레.md "wikilink")**<small>(佐藤すみれ)</small>                   | **키시다 미모리**<small>(岸田美森)</small>  | [SKE48](../Page/SKE48.md "wikilink") 팀E |
+| **[미타 마오](https://ko.wikipedia.org/wiki/미타_마오 "wikilink")**<small>(三田麻央)</small>   | **요코미조 마코토**<small>(横溝真琴)</small> | [NMB48](../Page/NMB48.md "wikilink") 팀M |
+|                                                                                    |                                   |                                         |
 
 ## 약력
 
@@ -48,7 +48,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/킹레코드_(일본)" title="wikilink">킹레코드</a></p></td>
+<td><p><a href="../Page/킹레코드_(일본).md" title="wikilink">킹레코드</a></p></td>
 <td></td>
 <td></td>
 <td></td>

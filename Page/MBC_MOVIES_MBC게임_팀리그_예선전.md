@@ -9,7 +9,7 @@
 
 ## 경기일정
 
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink")
+  - [2004년](../Page/2004년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink")
 
 ## A조
 

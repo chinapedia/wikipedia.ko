@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SNH48](https://ko.wikipedia.org/wiki/SNH48).
 
 
-**SNH48**(에스엔에이치포티에이트)는 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 [상하이 시를](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**SNH48**(에스엔에이치포티에이트)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [상하이 시를](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
-종합 프로듀스는 [AKB48](../Page/AKB48.md "wikilink")와 함께 [아키모토 야스시가](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 맡고\[1\], 운영은 AKB48 공식 라이센스를 구입하여 설립된 「SNH48 운영 사무국」(통상은 유한회사 상해 구상 연예 매니지먼트와 상해성사파 음악문화 프로모션(소속 사무소), 미디어 등은 유한회사 후난 위성 텔레비 문화 커뮤니케이션\[2\])이 담당한다\[3\].
+종합 프로듀스는 [AKB48](../Page/AKB48.md "wikilink")와 함께 [아키모토 야스시가](../Page/아키모토_야스시.md "wikilink") 맡고\[1\], 운영은 AKB48 공식 라이센스를 구입하여 설립된 「SNH48 운영 사무국」(통상은 유한회사 상해 구상 연예 매니지먼트와 상해성사파 음악문화 프로모션(소속 사무소), 미디어 등은 유한회사 후난 위성 텔레비 문화 커뮤니케이션\[2\])이 담당한다\[3\].
 
 SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48 매니저)가 맡고, 운영 회사의 사장은 예밍둥(葉明東)이, 극장 지배인은 판이바이(范逸白)가 맡는다.
 
@@ -16,7 +16,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <!-- end list -->
 
   - 4월 21일, 상하이의 무역센터인 상하이 마트에서 개최된 "AKB48 상하이 팬미팅"에서 그룹의 결성이 "서프라이즈"로서 발표되었다\[4\]. 중국의 자매 그룹 결성에 이르른 이유나 배경에 관해서는 복수의 스포츠 신문이 언급하고 있다. 스포츠 닛폰의 기사에서는, 상하이가 "지금도 더욱 발전을 이룩하고 있는" 도시일 뿐만 아니라, AKB48의 현지에서의 인기 상승도 본 그룹의 결성의 이유일 것이라고 추측하고 있다\[5\]. 데일리 스포츠의 기사에서는 중국에서의 AKB48의 인기가 상승하고 있는 것을 언급하며, "본토에서의 자매 그룹 탄생이 기다려지는 상황이었다"고 기술하고 있다\[6\].
-  - 8월 24일, AKB48 [도쿄 돔](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink") 콘서트의 첫 날 공연에서, AKB48로부터 팀K [미야자와 사에와](https://ko.wikipedia.org/wiki/미야자와_사에 "wikilink") 팀B [스즈키 마리야가](https://ko.wikipedia.org/wiki/스즈키_마리야 "wikilink") SNH48로 이적한다는 발표가 있었다\[7\].
+  - 8월 24일, AKB48 [도쿄 돔](../Page/도쿄_돔.md "wikilink") 콘서트의 첫 날 공연에서, AKB48로부터 팀K [미야자와 사에와](../Page/미야자와_사에.md "wikilink") 팀B [스즈키 마리야가](https://ko.wikipedia.org/wiki/스즈키_마리야 "wikilink") SNH48로 이적한다는 발표가 있었다\[7\].
   - 8월 30일, 중국 표준시 정오에 제1기 오디션 모집이 종료되었는데, 응모자는 38,066명이었다.
   - 9월 8일에서 23일까지, 2차 심사를 [청두 시](https://ko.wikipedia.org/wiki/청두_시 "wikilink"), [항저우 시](https://ko.wikipedia.org/wiki/항저우_시 "wikilink"), [광주](https://ko.wikipedia.org/wiki/광저우_시 "wikilink"), [베이징 시](https://ko.wikipedia.org/wiki/베이징_시 "wikilink"), [상하이 시에서](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") 순차 개최하였다.
   - 9월 25일, 제2기 오디션 모집을 개시하였다.
@@ -1385,7 +1385,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <tr class="odd">
 <td><p><br />
 ()</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미야자와_사에" title="wikilink">미야자와 사에</a></p></td>
+<td><p><a href="../Page/미야자와_사에.md" title="wikilink">미야자와 사에</a></p></td>
 <td><p>Miyazawa Sae</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1393,7 +1393,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>2016년 3월 16일</p></td>
 <td><p>당일 졸업 공연 (겸임 해제)<br />
 2013년 4월 28일부터 6월 24일까지 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀K 멤버<br />
-2014년 2월 24일부터 겸임 해제까지 <a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a> 팀S 멤버</p></td>
+2014년 2월 24일부터 겸임 해제까지 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S 멤버</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1886,7 +1886,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>5기</p></td>
 <td><p>X</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 맴버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 맴버</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1896,7 +1896,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>8기</p></td>
 <td><p>HII/Ft</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1906,7 +1906,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>7기</p></td>
 <td><p>NII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1916,7 +1916,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>3기</p></td>
 <td><p>SII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1926,7 +1926,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>3기</p></td>
 <td><p>HII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1936,7 +1936,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>5기</p></td>
 <td><p>HII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1946,7 +1946,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>9기</p></td>
 <td><p>Ft</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1956,7 +1956,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>12월 17일</p></td>
 <td><p>10기</p></td>
 <td><p>Ft</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3025,7 +3025,7 @@ SNH000662</p></td>
 
 ## 수상 목록
 
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 제3회 [소리바다 베스트 케이뮤직 어워즈](../Page/소리바다_베스트_케이뮤직_어워즈.md "wikilink") 글로벌 엔터테이너상
+  - [2019년](../Page/2019년.md "wikilink") 제3회 [소리바다 베스트 케이뮤직 어워즈](../Page/소리바다_베스트_케이뮤직_어워즈.md "wikilink") 글로벌 엔터테이너상
 
 ## 관련 항목
 
@@ -3046,7 +3046,7 @@ SNH000662</p></td>
   - [SHY48](../Page/SHY48.md "wikilink")
   - [CKG48](../Page/CKG48.md "wikilink")
   - [CGT48](https://ko.wikipedia.org/wiki/CGT48 "wikilink")
-  - [IDOLS Ft](https://ko.wikipedia.org/wiki/IDOLS_Ft "wikilink")
+  - [IDOLS Ft](../Page/IDOLS_Ft.md "wikilink")
 
 ## 각주
 

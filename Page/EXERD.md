@@ -24,7 +24,7 @@
 
   - [Oracle](https://ko.wikipedia.org/wiki/Oracle "wikilink") 9i, 10g, 11g, 12c
   - [Microsoft SQL Server](https://ko.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink") 2005, 2008, 2012, 2014
-  - [MySQL](https://ko.wikipedia.org/wiki/MySQL "wikilink") 5.1, 5.5, 5.6
+  - [MySQL](../Page/MySQL.md "wikilink") 5.1, 5.5, 5.6
   - [DB2](https://ko.wikipedia.org/wiki/DB2 "wikilink") 9.x
   - [PostgreSQL](../Page/PostgreSQL.md "wikilink") 9.x
 

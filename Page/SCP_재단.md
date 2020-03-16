@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [SCP ](https://ko.wikipedia.org/wiki/SCP_).
 
 
-**SCP 재단**(SCP Foundation)은 초자연적인 물체·현상·생물 등을 뜻하는 **SCP**와 이 SCP를 다루는 **SCP 재단**을 주제로 한 창작물을 다루는 [위키](https://ko.wikipedia.org/wiki/위키 "wikilink")이다.
+**SCP 재단**(SCP Foundation)은 초자연적인 물체·현상·생물 등을 뜻하는 **SCP**와 이 SCP를 다루는 **SCP 재단**을 주제로 한 창작물을 다루는 [위키](../Page/위키.md "wikilink")이다.
 
 ## 개요
 
-SCP 재단의 기원은 [4chan](../Page/4chan.md "wikilink")의 /x/ 게시판에서 2007년 여름에 만들어진 SCP-173이다. 2008년 01월에 [미디어위키](https://ko.wikipedia.org/wiki/미디어위키 "wikilink") 기반의 [위키 사이트로](https://ko.wikipedia.org/wiki/위키_사이트 "wikilink") 독립하여 SCP 재단 사이트가 개설되었다. 2008년 07월에 위키엔진과 호스팅을 [위키닷](https://ko.wikipedia.org/wiki/위키닷 "wikilink")으로 이전하여 지금까지 사이트를 유지하고 있다.\[1\]
+SCP 재단의 기원은 [4chan](../Page/4chan.md "wikilink")의 /x/ 게시판에서 2007년 여름에 만들어진 SCP-173이다. 2008년 01월에 [미디어위키](../Page/미디어위키.md "wikilink") 기반의 [위키 사이트로](https://ko.wikipedia.org/wiki/위키_사이트 "wikilink") 독립하여 SCP 재단 사이트가 개설되었다. 2008년 07월에 위키엔진과 호스팅을 [위키닷](https://ko.wikipedia.org/wiki/위키닷 "wikilink")으로 이전하여 지금까지 사이트를 유지하고 있다.\[1\]
 
 2012년 8월 10일에 네이버 카페 SCP 대한민국 지역사령부에서 위키사이트를 만들었고, 10월 17일에 공식 SCP 재단 한국 위키로 채택되었다.\[2\]
 
 2013년 01월 16일에 SCP 대한민국 지역사령부의 해킹으로인해 SCP 재단 한국 위키가 독립적으로 운영하고있다.\[3\]
 
-각 페이지에서 위키의 회원들이 평가를 할 수 있어, 평점이 -15 이하가 되면 스탭의 투표를 통해 해당 페이지를 삭제한다.\[4\] 예외적으로 [스팸](https://ko.wikipedia.org/wiki/스팸 "wikilink") [광고](https://ko.wikipedia.org/wiki/광고 "wikilink"), [표절](https://ko.wikipedia.org/wiki/표절 "wikilink") 등의 문제가 있다면 평점이 기준치 이상이더라도 스탭의 권한으로 삭제된다.
+각 페이지에서 위키의 회원들이 평가를 할 수 있어, 평점이 -15 이하가 되면 스탭의 투표를 통해 해당 페이지를 삭제한다.\[4\] 예외적으로 [스팸](../Page/스팸.md "wikilink") [광고](https://ko.wikipedia.org/wiki/광고 "wikilink"), [표절](../Page/표절.md "wikilink") 등의 문제가 있다면 평점이 기준치 이상이더라도 스탭의 권한으로 삭제된다.
 
 단순히 SCP의 대한 것만 창작하는 것이 아닌, SCP와 관련된 소설은 이야기(Tales)로 분류한다.\[5\]
 

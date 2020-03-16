@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA  3](https://ko.wikipedia.org/wiki/FIFA__3).
 
 
-《**FIFA 온라인 3**》()는 스피어헤드(전 EA 서울 스튜디오)가 개발하고 [넥슨](https://ko.wikipedia.org/wiki/넥슨 "wikilink")이 배급하는 [온라인](https://ko.wikipedia.org/wiki/온라인 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 게임이다. 피파 온라인 3는 이전 피파 시리즈를 기반으로 만든 전작들보다 여러 방면으로 나아졌지만, 이 역시 EA가 판매 중단한 버전의 엔진에 최신 그래픽만을 입히기 때문에 플레이에 한계가 있다.
+《**FIFA 온라인 3**》()는 스피어헤드(전 EA 서울 스튜디오)가 개발하고 [넥슨](../Page/넥슨.md "wikilink")이 배급하는 [온라인](https://ko.wikipedia.org/wiki/온라인 "wikilink") [축구](../Page/축구.md "wikilink") 게임이다. 피파 온라인 3는 이전 피파 시리즈를 기반으로 만든 전작들보다 여러 방면으로 나아졌지만, 이 역시 EA가 판매 중단한 버전의 엔진에 최신 그래픽만을 입히기 때문에 플레이에 한계가 있다.
 
 ## 리그
 
@@ -15,7 +15,7 @@
       - [풋볼 리그 2](https://ko.wikipedia.org/wiki/풋볼_리그_2 "wikilink")
 
   -   - [프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink")
-      - [세군다 디비시온](https://ko.wikipedia.org/wiki/세군다_디비시온 "wikilink")
+      - [세군다 디비시온](../Page/세군다_디비시온.md "wikilink")
 
   -   - [세리에 A](../Page/세리에_A.md "wikilink")
       - [세리에 B](../Page/세리에_B.md "wikilink")
@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - [메이저 리그 사커](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink")
+  - [메이저 리그 사커](../Page/메이저_리그_사커.md "wikilink")
 
 <!-- end list -->
 
@@ -82,9 +82,9 @@
 
   - [샤흐타르 도네츠크](https://ko.wikipedia.org/wiki/샤흐타르_도네츠크 "wikilink")
 
-  - [카이저 치프스 FC](https://ko.wikipedia.org/wiki/카이저_치프스_FC "wikilink")
+  - [카이저 치프스 FC](../Page/카이저_치프스_FC.md "wikilink")
 
-  - [올랜도 파이리츠 FC](https://ko.wikipedia.org/wiki/올랜도_파이리츠_FC "wikilink")
+  - [올랜도 파이리츠 FC](../Page/올랜도_파이리츠_FC.md "wikilink")
 
   - [HJK 헬싱키](../Page/HJK_헬싱키.md "wikilink") (2016년 하반기 로스터 패치 때 추가 됨)
 
@@ -138,7 +138,7 @@
 
 ## 국가대표
 
-총 49개 대표팀이 등장한다. 원래는 47개였으나 2015년 하반기 로스터 패치 때 [중국 국가대표팀과](https://ko.wikipedia.org/wiki/중국_축구_국가대표팀 "wikilink") [캐나다 국가대표팀이](../Page/캐나다_축구_국가대표팀.md "wikilink") 추가되었다. 하지만 [대한민국 국가대표팀이](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀 "wikilink") 삭제되었다. 그러다가 2016년 7월 28일 패치로 대한민국 U-23이 추가되었다. 2016년 11월 3일 하반기 로스터 패치때 [뉴질랜드 국가대표팀이](../Page/뉴질랜드_축구_국가대표팀.md "wikilink") 삭제되었다. 대부분 [유럽](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")(28팀)·[남미](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink")(10팀) 축구연맹 소속 대표팀이며, 나머지 대륙 축구연맹의 12개 국가대표팀([아시아](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") 9팀, [아프리카](../Page/아프리카_축구_연맹.md "wikilink") 6팀, [북중미](../Page/북중미카리브_축구_연맹.md "wikilink") 3팀)이 소수 포함되어 있다. 몇몇 대표팀은 라이선스를 취득하지 못하여 대표팀 로고와 유니폼이 실제와 다르며, 선수 이름만 실명으로 나온다. 국가대표팀은 싱글모드 국가대항전으로 하거나 익스비션 모드로 할 수 있고 자신의 커리어로 컴퓨터와 대련할 때 컴퓨터 팀을 국가대표로 할 수 있다. 하지만 2016년 6월 30일 업데이트 이후 유저가 선택하는 게 가능하다. 리그 모드를 할 경우 국가대표들끼리 할 수 있다.
+총 49개 대표팀이 등장한다. 원래는 47개였으나 2015년 하반기 로스터 패치 때 [중국 국가대표팀과](https://ko.wikipedia.org/wiki/중국_축구_국가대표팀 "wikilink") [캐나다 국가대표팀이](../Page/캐나다_축구_국가대표팀.md "wikilink") 추가되었다. 하지만 [대한민국 국가대표팀이](../Page/대한민국_축구_국가대표팀.md "wikilink") 삭제되었다. 그러다가 2016년 7월 28일 패치로 대한민국 U-23이 추가되었다. 2016년 11월 3일 하반기 로스터 패치때 [뉴질랜드 국가대표팀이](../Page/뉴질랜드_축구_국가대표팀.md "wikilink") 삭제되었다. 대부분 [유럽](../Page/유럽_축구_연맹.md "wikilink")(28팀)·[남미](../Page/남미_축구_연맹.md "wikilink")(10팀) 축구연맹 소속 대표팀이며, 나머지 대륙 축구연맹의 12개 국가대표팀([아시아](../Page/아시아_축구_연맹.md "wikilink") 9팀, [아프리카](../Page/아프리카_축구_연맹.md "wikilink") 6팀, [북중미](../Page/북중미카리브_축구_연맹.md "wikilink") 3팀)이 소수 포함되어 있다. 몇몇 대표팀은 라이선스를 취득하지 못하여 대표팀 로고와 유니폼이 실제와 다르며, 선수 이름만 실명으로 나온다. 국가대표팀은 싱글모드 국가대항전으로 하거나 익스비션 모드로 할 수 있고 자신의 커리어로 컴퓨터와 대련할 때 컴퓨터 팀을 국가대표로 할 수 있다. 하지만 2016년 6월 30일 업데이트 이후 유저가 선택하는 게 가능하다. 리그 모드를 할 경우 국가대표들끼리 할 수 있다.
 
   - 유럽 (27개국)
 
@@ -292,7 +292,7 @@
 
 ## 모바일
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink"), PC와 연동이 가능한 피파 온라인 3M이 출시되었으며, 현재까지 500만 회의 다운로드가 이루어지는 등의 많은 인기를 얻고 있다.PC와 동일하게 선수 강화,판매,구입 카드,아이템 오픈 이 가능하나 모바일 핫타임 이벤트, 챌린지 경기, 경기 관전 등이 PC버전과 차이를 보인다.
+[2014년](../Page/2014년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink"), PC와 연동이 가능한 피파 온라인 3M이 출시되었으며, 현재까지 500만 회의 다운로드가 이루어지는 등의 많은 인기를 얻고 있다.PC와 동일하게 선수 강화,판매,구입 카드,아이템 오픈 이 가능하나 모바일 핫타임 이벤트, 챌린지 경기, 경기 관전 등이 PC버전과 차이를 보인다.
 
 하지만 업데이트를 통해 ai로만 플레이를 할 수 있게되자 많은 비난이 쏟아졌다. ai로만 플레이가 가능해져서 재미도 동시에 하락했다.
 
@@ -311,7 +311,7 @@
 
   - [위닝 일레븐 2014](../Page/월드_사커_위닝_일레븐_2014.md "wikilink")
   - [프리스타일 풋볼](../Page/프리스타일_풋볼.md "wikilink") (서비스 종료)
-  - [차구차구](https://ko.wikipedia.org/wiki/차구차구 "wikilink") (서비스 종료)
+  - [차구차구](../Page/차구차구.md "wikilink") (서비스 종료)
   - [풋볼매니저](https://ko.wikipedia.org/wiki/풋볼매니저 "wikilink")
 
 ## 각주

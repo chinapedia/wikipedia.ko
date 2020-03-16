@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lollipop F](https://ko.wikipedia.org/wiki/Lollipop_F).
 
 
-**Lollipop F** 또는 **봉봉당**()은 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 보이 밴드이다. [아오취안](https://ko.wikipedia.org/wiki/아오취안 "wikilink"), [샤오위](https://ko.wikipedia.org/wiki/샤오위 "wikilink"), [랴오이인](https://ko.wikipedia.org/wiki/랴오이인 "wikilink"), [아위](../Page/아위.md "wikilink") 네 명으로 구성되어 있다.
+**Lollipop F** 또는 **봉봉당**()은 [중화민국](../Page/중화민국.md "wikilink")의 보이 밴드이다. [아오취안](https://ko.wikipedia.org/wiki/아오취안 "wikilink"), [샤오위](https://ko.wikipedia.org/wiki/샤오위 "wikilink"), [랴오이인](https://ko.wikipedia.org/wiki/랴오이인 "wikilink"), [아위](../Page/아위.md "wikilink") 네 명으로 구성되어 있다.
 
 ## 구성원
 

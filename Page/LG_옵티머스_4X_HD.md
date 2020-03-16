@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [LG  4X HD](https://ko.wikipedia.org/wiki/LG__4X_HD).
 
 
-**LG 옵티머스 4X HD**(LG Optimus 4X HD)는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")에서 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**LG 옵티머스 4X HD**(LG Optimus 4X HD)는 [LG전자](../Page/LG전자.md "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 2012년 6월 한국, 미국, 일본에 출시했다.
 
 ## 연혁
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") : [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")에서 열린 **[모바일 월드 콩그레스](https://ko.wikipedia.org/wiki/모바일_월드_콩그레스 "wikilink") 2012**에서 최초로 발표
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") : 출시
+  - [2012년](../Page/2012년.md "wikilink") [2월](../Page/2월.md "wikilink") : [스페인](../Page/스페인.md "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")에서 열린 **[모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2012**에서 최초로 발표
+  - [2012년](../Page/2012년.md "wikilink") [6월](../Page/6월.md "wikilink") : 출시
 
 ## 색상
 
@@ -23,7 +23,7 @@
 
 ### 안드로이드 4.1 젤리빈
 
-2013년 4월 4일 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.1.2 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[1\]
+2013년 4월 4일 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.2 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[1\]
 
 ## 특수 기능
 
@@ -47,7 +47,7 @@
 
 #### Q 보이스
 
-[LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")의 독자기술인 **베르니케**기술을 이용한 음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스와](../Page/S_보이스.md "wikilink") 유사하다.
+[LG전자](../Page/LG전자.md "wikilink")의 독자기술인 **베르니케**기술을 이용한 음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스와](../Page/S_보이스.md "wikilink") 유사하다.
 
 #### Q 메모
 

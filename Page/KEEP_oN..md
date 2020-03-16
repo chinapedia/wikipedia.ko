@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KEEP oN.](https://ko.wikipedia.org/wiki/KEEP_oN.).
 
 
-〈**kEEP oN.**〉은, [V6의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 40번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**kEEP oN.**〉은, [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 40번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

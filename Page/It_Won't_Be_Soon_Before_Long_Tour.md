@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [It Won\'t Be Soon Before Long Tour](https://ko.wikipedia.org/wiki/It_Won\'t_Be_Soon_Before_Long_Tour).
 
 
-**It Won't Be Soon Before Long Tour**(잇 원트 비 순 비포 롱 투어)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") 두 번째 월드 투어이다. 이 투어의 일환으로 2008년 3월 7일 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")에서 첫 번째 내한 공연을 가졌다.
+**It Won't Be Soon Before Long Tour**(잇 원트 비 순 비포 롱 투어)는 [미국](../Page/미국.md "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") 두 번째 월드 투어이다. 이 투어의 일환으로 2008년 3월 7일 [서울특별시](../Page/서울특별시.md "wikilink")에서 첫 번째 내한 공연을 가졌다.
 
 ## 세트리스트
 
@@ -21,13 +21,13 @@
 8.  Shiver
 9.  [Wake Up Call](https://ko.wikipedia.org/wiki/Wake_Up_Call "wikilink")
 10. [Sunday Morning](https://ko.wikipedia.org/wiki/Sunday_Morning "wikilink")
-11. [Won't Go Home Without You](https://ko.wikipedia.org/wiki/Won't_Go_Home_Without_You "wikilink")
+11. [Won't Go Home Without You](../Page/Won't_Go_Home_Without_You.md "wikilink")
 12. [This Love](https://ko.wikipedia.org/wiki/This_Love "wikilink")
 13. Little Of Your Time
 14. [She Will Be Loved](https://ko.wikipedia.org/wiki/She_Will_Be_Loved "wikilink")
 15. Back At Your Door
 16. Happy Birthday (Mildred J. Hill 커버) (라스 베이거스)
-17. Purple Rain ([프린스](https://ko.wikipedia.org/wiki/프린스 "wikilink") 커버) (라스 베이거스)
+17. Purple Rain ([프린스](../Page/프린스.md "wikilink") 커버) (라스 베이거스)
 
 <!-- end list -->
 
@@ -104,31 +104,31 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/북아메리카" title="wikilink">북아메리카</a></strong></p></td>
+<td><p><strong><a href="../Page/북아메리카.md" title="wikilink">북아메리카</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/10월_1일" title="wikilink">10월 1일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/10월_1일.md" title="wikilink">10월 1일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/세인트폴" title="wikilink">세인트폴</a></p></td>
 <td></td>
 <td><p>Xcel Energy Center</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/10월_2일" title="wikilink">10월 2일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/10월_2일.md" title="wikilink">10월 2일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로즈먼트" title="wikilink">로즈먼트</a></p></td>
 <td><p>Allstate Arena</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/10월_4일" title="wikilink">10월 4일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/10월_4일.md" title="wikilink">10월 4일</a></p></td>
+<td><p><a href="../Page/토론토.md" title="wikilink">토론토</a></p></td>
 <td></td>
 <td><p>Air Canada Centre</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/10월_5일" title="wikilink">10월 5일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/10월_5일.md" title="wikilink">10월 5일</a></p></td>
 <td><p><a href="../Page/클리블랜드.md" title="wikilink">클리블랜드</a></p></td>
 <td></td>
 <td><p>Quickens Loans Arena</p></td>
@@ -440,7 +440,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/아시아" title="wikilink">아시아</a></strong></p></td>
+<td><p><strong><a href="../Page/아시아.md" title="wikilink">아시아</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -458,8 +458,8 @@
 <td><p>Araneta Coliseum</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/3월_7일" title="wikilink">3월 7일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/3월_7일.md" title="wikilink">3월 7일</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 <td></td>
 <td><p>Olympic Gymnasium</p></td>
 </tr>
@@ -524,7 +524,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/오세아니아" title="wikilink">오세아니아</a></strong></p></td>
+<td><p><strong><a href="../Page/오세아니아.md" title="wikilink">오세아니아</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -555,7 +555,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/04_de_Abril" title="wikilink">04 de Abril</a> de <a href="https://ko.wikipedia.org/wiki/2008" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시드니" title="wikilink">시드니</a></p></td>
+<td><p><a href="../Page/시드니.md" title="wikilink">시드니</a></p></td>
 <td><p>Acer Arena</p></td>
 <td></td>
 </tr>
@@ -566,7 +566,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/유럽" title="wikilink">유럽</a></strong></p></td>
+<td><p><strong><a href="../Page/유럽.md" title="wikilink">유럽</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -650,7 +650,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/북아메리카" title="wikilink">북아메리카</a></strong></p></td>
+<td><p><strong><a href="../Page/북아메리카.md" title="wikilink">북아메리카</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -753,7 +753,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/19_de_Agosto" title="wikilink">19 de Agosto</a> de <a href="https://ko.wikipedia.org/wiki/2008" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></p></td>
+<td><p><a href="../Page/토론토.md" title="wikilink">토론토</a></p></td>
 <td></td>
 <td><p>Molson Amphitheatre</p></td>
 </tr>
@@ -926,7 +926,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/남아메리카" title="wikilink">남아메리카</a></strong></p></td>
+<td><p><strong><a href="../Page/남아메리카.md" title="wikilink">남아메리카</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -951,7 +951,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/11_de_Novembro" title="wikilink">11 de Novembro</a> de <a href="https://ko.wikipedia.org/wiki/2008" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부에노스아이레스" title="wikilink">부에노스아이레스</a></p></td>
+<td><p><a href="../Page/부에노스아이레스.md" title="wikilink">부에노스아이레스</a></p></td>
 <td></td>
 <td><p>Luna Park</p></td>
 </tr>
@@ -992,14 +992,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/남아메리카" title="wikilink">남아메리카</a></strong></p></td>
+<td><p><strong><a href="../Page/남아메리카.md" title="wikilink">남아메리카</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/20_de_Novembro" title="wikilink">20 de Novembro</a> de <a href="https://ko.wikipedia.org/wiki/2008" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보고타" title="wikilink">보고타</a></p></td>
+<td><p><a href="../Page/보고타.md" title="wikilink">보고타</a></p></td>
 <td></td>
 <td><p>Coliseu Coberto El Campín</p></td>
 </tr>
@@ -1010,14 +1010,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/아시아" title="wikilink">아시아</a></strong></p></td>
+<td><p><strong><a href="../Page/아시아.md" title="wikilink">아시아</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/10_de_Dezembro" title="wikilink">10 de Dezembro</a> de <a href="https://ko.wikipedia.org/wiki/2008" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/두바이" title="wikilink">두바이</a></p></td>
+<td><p><a href="../Page/두바이.md" title="wikilink">두바이</a></p></td>
 <td></td>
 <td><p>Palladium at the Dubai Media City</p></td>
 </tr>
@@ -1028,7 +1028,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/아프리카" title="wikilink">아프리카</a></strong></p></td>
+<td><p><strong><a href="../Page/아프리카.md" title="wikilink">아프리카</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1062,9 +1062,9 @@
 
 ## 게스트 음악가
 
-  - [아울 시티](https://ko.wikipedia.org/wiki/아울_시티 "wikilink")
+  - [아울 시티](../Page/아울_시티.md "wikilink")
   - 거스터
-  - [아메리칸 아이돌](https://ko.wikipedia.org/wiki/아메리칸_아이돌 "wikilink") 시즌8 우승자 [크리스 앨런](../Page/크리스_앨런.md "wikilink")
+  - [아메리칸 아이돌](../Page/아메리칸_아이돌.md "wikilink") 시즌8 우승자 [크리스 앨런](../Page/크리스_앨런.md "wikilink")
   - VV 브라운
   - [리 커밍](https://ko.wikipedia.org/wiki/리_커밍 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Philharmonic or Die](https://ko.wikipedia.org/wiki/Philharmonic_or_Die).
 
 
-《**Philharmonic or Die**》 (필하모닉 오어 다이)는 일본의 밴드 [쿠루리](../Page/쿠루리.md "wikilink")의 첫 번째 라이브 음반이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 20일에](https://ko.wikipedia.org/wiki/2월_20일 "wikilink") 발매되었다.
+《**Philharmonic or Die**》 (필하모닉 오어 다이)는 일본의 밴드 [쿠루리](../Page/쿠루리.md "wikilink")의 첫 번째 라이브 음반이다. [2008년](../Page/2008년.md "wikilink") [2월 20일에](../Page/2월_20일.md "wikilink") 발매되었다.
 
 디스크 1에는 2007년 12월 11일과 12일 [퍼시피코 요코하마](https://ko.wikipedia.org/wiki/퍼시피코_요코하마 "wikilink") 국립대홀에서 열린 [빈 암바사데 오케스트라와의](https://ko.wikipedia.org/wiki/:de:Ambassade_Orchester_Wien "wikilink") 공연이, 디스크 2에는 2007년 12월 6일 교토 타쿠타쿠에서 열린 공연이 수록되어 있다.
 

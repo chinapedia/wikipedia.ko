@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Artpop](https://ko.wikipedia.org/wiki/Artpop).
 
 
-***ARTPOP***은 미국의 가수 [레이디 가가의](https://ko.wikipedia.org/wiki/레이디_가가 "wikilink") 세 번째 정규 앨범이다. 2013년 11월 11일 [인터스코프 레코드와](https://ko.wikipedia.org/wiki/인터스코프_레코드 "wikilink") 스트림라인을 통해 발매되었다. 앨범 작업은 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")* (2011)가 발매된 이후 곧 바로 시작했고 2012년 대부분 완성되었다. 앨범에는 마던, 제드, 레드원, 폴 "DJ 화이트 쉐도우" 블레어, 가가 등 다양한 프로듀서들이 참여했다. 또 [알 켈리](https://ko.wikipedia.org/wiki/알_켈리 "wikilink"), [T.I.](https://ko.wikipedia.org/wiki/T.I. "wikilink"), [트위스타](https://ko.wikipedia.org/wiki/트위스타 "wikilink"), [투 숏이](https://ko.wikipedia.org/wiki/투_숏 "wikilink") 피처링으로 앨범에 참여했다. 원래 앨범은 2013년 초에 발매될 예정이였지만, [Born This Way Ball](https://ko.wikipedia.org/wiki/Born_This_Way_Ball "wikilink") 중 부상을 당하면서 몇 개월 동안 작업이 늦어졌다.
+***ARTPOP***은 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 세 번째 정규 앨범이다. 2013년 11월 11일 [인터스코프 레코드와](../Page/인터스코프_레코드.md "wikilink") 스트림라인을 통해 발매되었다. 앨범 작업은 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")* (2011)가 발매된 이후 곧 바로 시작했고 2012년 대부분 완성되었다. 앨범에는 마던, 제드, 레드원, 폴 "DJ 화이트 쉐도우" 블레어, 가가 등 다양한 프로듀서들이 참여했다. 또 [알 켈리](https://ko.wikipedia.org/wiki/알_켈리 "wikilink"), [T.I.](../Page/T.I..md "wikilink"), [트위스타](../Page/트위스타.md "wikilink"), [투 숏이](../Page/투_숏.md "wikilink") 피처링으로 앨범에 참여했다. 원래 앨범은 2013년 초에 발매될 예정이였지만, [Born This Way Ball](https://ko.wikipedia.org/wiki/Born_This_Way_Ball "wikilink") 중 부상을 당하면서 몇 개월 동안 작업이 늦어졌다.
 
 리드 싱글 "[Applause](https://ko.wikipedia.org/wiki/Applause "wikilink")"는 원래 8월 19일에 ARTPOP APP과 뮤직비디오와 함께 나올 나올예정이였으나, [Applause](https://ko.wikipedia.org/wiki/Applause "wikilink")가 부분적으로 유출됨으로써 팝긴급상황을 알림으로서 [Lady gaga의](https://ko.wikipedia.org/wiki/Lady_gaga "wikilink") 3번째 정규앨범인 [Arpop](https://ko.wikipedia.org/wiki/Arpop "wikilink")의 리드싱글인[Applause](https://ko.wikipedia.org/wiki/Applause "wikilink")가 발매되었다. 8월 12일 발매되었고, [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 최고 4위까지 올라갔다. 두 번째 싱글 "[Do What U Want](https://ko.wikipedia.org/wiki/Do_What_U_Want "wikilink")"은 2013년 10월 21일 발매되었다.
 
@@ -13,7 +13,7 @@
 
 ## 싱글
 
-"[Applause](https://ko.wikipedia.org/wiki/Applause "wikilink")"는 앨범의 첫 번째 싱글로 발매되었다. 원래 발매일은 2013년 8월 19일이였지만, 온라인상에서 유출되면서 2013년 8월 12일 발매되었다.\[15\] 8월 19일 공식적으로 미국의 메인스트림 라디오 방송국에 보내졌다.\[16\] 뮤직비디오는 8월 19일 《[굿 모닝 아메리카](https://ko.wikipedia.org/wiki/굿_모닝_아메리카 "wikilink")》를 통해 처음으로 공개되었다. 뮤직비디오는 로스앤젤레스의 이네즈 반 람스베이르더 앤 비노트 마타딘에서 싱글 커버와 함께 촬영되었다.\[17\]
+"[Applause](https://ko.wikipedia.org/wiki/Applause "wikilink")"는 앨범의 첫 번째 싱글로 발매되었다. 원래 발매일은 2013년 8월 19일이였지만, 온라인상에서 유출되면서 2013년 8월 12일 발매되었다.\[15\] 8월 19일 공식적으로 미국의 메인스트림 라디오 방송국에 보내졌다.\[16\] 뮤직비디오는 8월 19일 《[굿 모닝 아메리카](../Page/굿_모닝_아메리카.md "wikilink")》를 통해 처음으로 공개되었다. 뮤직비디오는 로스앤젤레스의 이네즈 반 람스베이르더 앤 비노트 마타딘에서 싱글 커버와 함께 촬영되었다.\[17\]
 
 2013년 9월 3일 가가는 두 번째 싱글을 선택하는데 팬들의 의견을 묻기위해 트위터에서 설문조사를 실시했다. 첫 번째 설문조사는 "Manicure"와 "Sexxx Dreams" 사이에서 선택하는 것이였고, 두 번째 설문조사는 "Aura"와 "Swine" 사이에서 선택하는 것이였다.\[18\] 2013년 9월 20일 가가는 앨범이 발매되기전에 두 번째 싱글이 공개된다며 새로운 정보를 발표했다.\[19\] 또 "다음 싱글은 들을 기회가 전혀 없었을 것이였다"고 말했다.\[20\] 2013년 10월 10일 "Venus"가 두 번째 싱글로 공식적으로 선택되었다고 발표했지만,\[21\] 프로모션 싱글이였던 "[Do What U Want](https://ko.wikipedia.org/wiki/Do_What_U_Want "wikilink")"이 많은 인기를 얻으면서 "Do What U Want"이 공식적인 두 번째 싱글로 발매되었다.
 
@@ -47,7 +47,7 @@
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p>캐나다 앨범 차트 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[26]</p></td>
+<td><p>캐나다 앨범 차트 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[26]</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
@@ -115,7 +115,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 댄스/일렉트로닉 앨범 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[42]</p></td>
+<td><p>미국 댄스/일렉트로닉 앨범 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[42]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">

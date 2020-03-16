@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
 
 
-**타라지 P. 헨슨**(Taraji P. Henson, [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
+**타라지 P. 헨슨**(Taraji P. Henson, [1970년](../Page/1970년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
 
 ## 출연 작품
 

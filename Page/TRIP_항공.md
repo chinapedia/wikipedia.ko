@@ -1,20 +1,20 @@
 > This article is converted from Wikipedia: [TRIP ](https://ko.wikipedia.org/wiki/TRIP_).
 
 
-**TRIP 항공**()은 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 지역 항공사로 총 88개 노선을 취항하고 있다. 본사는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") [캄피나스](https://ko.wikipedia.org/wiki/캄피나스 "wikilink") 위치해 있으며 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [탕크레두 네비스 국제공항이](https://ko.wikipedia.org/wiki/탕크레두_네비스_국제공항 "wikilink") 있다.\[1\] [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 [저가 항공사인](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") [아줄 브라질 항공과](../Page/아줄_브라질_항공.md "wikilink") 합병하는 방안이 검토를 했으며\[2\] [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 [아줄 브라질 항공에](../Page/아줄_브라질_항공.md "wikilink") 합병이 되었다.\[3\]
+**TRIP 항공**()은 [브라질](../Page/브라질.md "wikilink")의 지역 항공사로 총 88개 노선을 취항하고 있다. 본사는 [브라질](../Page/브라질.md "wikilink") [캄피나스](../Page/캄피나스.md "wikilink") 위치해 있으며 [1998년](../Page/1998년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [탕크레두 네비스 국제공항이](https://ko.wikipedia.org/wiki/탕크레두_네비스_국제공항 "wikilink") 있다.\[1\] [2012년](../Page/2012년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") [브라질](../Page/브라질.md "wikilink")의 [저가 항공사인](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") [아줄 브라질 항공과](../Page/아줄_브라질_항공.md "wikilink") 합병하는 방안이 검토를 했으며\[2\] [2014년](../Page/2014년.md "wikilink") [6월](../Page/6월.md "wikilink")에 [아줄 브라질 항공에](../Page/아줄_브라질_항공.md "wikilink") 합병이 되었다.\[3\]
 
 ## 보유 기종
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 기준으로 TRIP 항공은 다음과 같은 기종을 보유하고 있다.\[4\]
+  - [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink") 기준으로 TRIP 항공은 다음과 같은 기종을 보유하고 있다.\[4\]
 
-| <span style="color:white;">기종                                      | <span style="color:white;">대수 | <span style="color:white;">주문 | <span style="color:white;">승객 | <span style="color:white;">비고 |
-| ------------------------------------------------------------------ | ----------------------------- | ----------------------------- | ----------------------------- | ----------------------------- |
-| [ATR 42](../Page/ATR_42.md "wikilink")                             | 19                            | 0                             | 47                            |                               |
-| [ATR 72-500](../Page/ATR_72.md "wikilink")                         | 14                            | 0                             | 66                            |                               |
-| [ATR 72-600](../Page/ATR_72.md "wikilink")                         | 2                             | 1                             | 68                            |                               |
-| [엠브라에르 175](https://ko.wikipedia.org/wiki/엠브라에르_E-Jets "wikilink") | 9                             | 0                             | 86                            |                               |
-| [엠브라에르 190](https://ko.wikipedia.org/wiki/엠브라에르_E-Jets "wikilink") | 10                            | 0                             | 110                           |                               |
-|                                                                    |                               |                               |                               |                               |
+| <span style="color:white;">기종                   | <span style="color:white;">대수 | <span style="color:white;">주문 | <span style="color:white;">승객 | <span style="color:white;">비고 |
+| ----------------------------------------------- | ----------------------------- | ----------------------------- | ----------------------------- | ----------------------------- |
+| [ATR 42](../Page/ATR_42.md "wikilink")          | 19                            | 0                             | 47                            |                               |
+| [ATR 72-500](../Page/ATR_72.md "wikilink")      | 14                            | 0                             | 66                            |                               |
+| [ATR 72-600](../Page/ATR_72.md "wikilink")      | 2                             | 1                             | 68                            |                               |
+| [엠브라에르 175](../Page/엠브라에르_E-Jets.md "wikilink") | 9                             | 0                             | 86                            |                               |
+| [엠브라에르 190](../Page/엠브라에르_E-Jets.md "wikilink") | 10                            | 0                             | 110                           |                               |
+|                                                 |                               |                               |                               |                               |
 
 **TRIP 항공의 보유 기종**
 

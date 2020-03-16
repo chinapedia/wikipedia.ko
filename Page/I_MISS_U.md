@@ -14,7 +14,7 @@
 
 ## 평가
 
-《I MISS U》는 처음에 [태국](../Page/태국.md "wikilink") 및 개봉 준비 중이던 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink"), [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [말레이시아](https://ko.wikipedia.org/wiki/말레이시아 "wikilink"), [필리핀](../Page/필리핀.md "wikilink")에서 호평을 받았다.\[6\]
+《I MISS U》는 처음에 [태국](../Page/태국.md "wikilink") 및 개봉 준비 중이던 [중화민국](../Page/중화민국.md "wikilink"), [인도네시아](../Page/인도네시아.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [말레이시아](../Page/말레이시아.md "wikilink"), [필리핀](../Page/필리핀.md "wikilink")에서 호평을 받았다.\[6\]
 
 ## 각주
 

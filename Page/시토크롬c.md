@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [c](https://ko.wikipedia.org/wiki/c).
 
 
-**시토크롬c**() 또는 **사이토크롬 c**는 [헴](https://ko.wikipedia.org/wiki/헴 "wikilink")분자를 가진 작은 [단백질](https://ko.wikipedia.org/wiki/단백질 "wikilink")로 100여개의 [아미노산](https://ko.wikipedia.org/wiki/아미노산 "wikilink")으로 이루어져 있고 [분자량](https://ko.wikipedia.org/wiki/분자량 "wikilink")은 약 12,000이다. 시토크롬c는 [미토콘드리아](https://ko.wikipedia.org/wiki/미토콘드리아 "wikilink")의 내막(크리스타)에 존재하는데, 전자전달계에서 중요한 위치를 차지한다. 전자전달계의 복합체Ⅲ과 복합체Ⅳ사이에서 전자를 전달하는 역할을 하며, 산소를 갖지 않고도 산화 환원반응을 진행한다.
+**시토크롬c**() 또는 **사이토크롬 c**는 [헴](https://ko.wikipedia.org/wiki/헴 "wikilink")분자를 가진 작은 [단백질](../Page/단백질.md "wikilink")로 100여개의 [아미노산](../Page/아미노산.md "wikilink")으로 이루어져 있고 [분자량](https://ko.wikipedia.org/wiki/분자량 "wikilink")은 약 12,000이다. 시토크롬c는 [미토콘드리아](../Page/미토콘드리아.md "wikilink")의 내막(크리스타)에 존재하는데, 전자전달계에서 중요한 위치를 차지한다. 전자전달계의 복합체Ⅲ과 복합체Ⅳ사이에서 전자를 전달하는 역할을 하며, 산소를 갖지 않고도 산화 환원반응을 진행한다.
 
 ## 전자전달계에서의 기능
 

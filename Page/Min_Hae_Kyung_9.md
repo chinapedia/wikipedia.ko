@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Min Hae Kyung 9](https://ko.wikipedia.org/wiki/Min_Hae_Kyung_9).
 
 
-**Min Hae Kyung 9**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [민해경](https://ko.wikipedia.org/wiki/민해경 "wikilink")의 1989년 발매한 정규 9집이다. 강인원이 프로듀서로 참여한 앨범이며, 활동곡은 **첫 번째 눈물을 보면서**이다.
+**Min Hae Kyung 9**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1989년 발매한 정규 9집이다. 강인원이 프로듀서로 참여한 앨범이며, 활동곡은 **첫 번째 눈물을 보면서**이다.
 
 ## 앨범의 특징
 

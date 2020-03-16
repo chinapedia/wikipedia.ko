@@ -48,7 +48,7 @@
 
 ### 득점
 
-  - **시즌 최다 득점**: 41골, [앤디 콜](../Page/앤디_콜.md "wikilink") ([1993-94 시즌](https://ko.wikipedia.org/wiki/프리미어리그_1993-94 "wikilink"))
+  - **시즌 최다 득점**: 41골, [앤디 콜](../Page/앤디_콜.md "wikilink") ([1993-94 시즌](../Page/프리미어리그_1993-94.md "wikilink"))
   - **리그 시즌 최다 득점**: 36골, [휴이 갤러처](../Page/휴이_갤러처.md "wikilink") (1926-27 시즌)
   - **한 경기 최다 득점**: 6골, 렌 셰클턴 (1946년 10월 5일, [뉴포트 카운티](../Page/뉴포트_카운티_AFC.md "wikilink") 전)
   - **리그 누적 최다 득점**: 178골, [재키 밀번](../Page/재키_밀번.md "wikilink") (353경기, 1946년 \~ 1957년)
@@ -123,18 +123,18 @@ PlotData=
 <tr class="odd">
 <td><p><strong>선수</strong></p>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/폴_개스코인" title="wikilink">폴 개스코인</a> <small>(2002년 선정)</small></li>
+<li><a href="../Page/폴_개스코인.md" title="wikilink">폴 개스코인</a> <small>(2002년 선정)</small></li>
 <li><a href="../Page/케빈_키건.md" title="wikilink">케빈 키건</a> <small>(2002년 선정)</small></li>
 <li><a href="../Page/앨런_시어러.md" title="wikilink">앨런 시어러</a> <small>(2004년 선정)</small></li>
 <li><a href="../Page/존_반스.md" title="wikilink">존 반스</a> <small>(2005년 선정)</small></li>
 <li><a href="../Page/재키_밀번.md" title="wikilink">재키 밀번</a> <small>(2006년 선정)</small></li>
 <li><a href="https://ko.wikipedia.org/wiki/이안_러시" title="wikilink">이안 러시</a> <small>(2006년 선정)</small></li>
-<li><a href="https://ko.wikipedia.org/wiki/피터_비어슬리" title="wikilink">피터 비어슬리</a> <small>(2007년 선정)</small></li>
+<li><a href="../Page/피터_비어슬리.md" title="wikilink">피터 비어슬리</a> <small>(2007년 선정)</small></li>
 <li>렌 셰클턴 <small>(2009년 선정)</small></li>
 </ul></td>
 <td><p><strong>감독</strong></p>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/보비_롭슨" title="wikilink">보비 롭슨</a> 경 <small>(2003년 선정)</small></li>
+<li><a href="../Page/보비_롭슨.md" title="wikilink">보비 롭슨</a> 경 <small>(2003년 선정)</small></li>
 </ul></td>
 </tr>
 </tbody>
@@ -182,11 +182,11 @@ PlotData=
 <ul>
 <li><a href="../Page/케빈_키건.md" title="wikilink">케빈 키건</a></li>
 <li><a href="../Page/앨런_시어러.md" title="wikilink">앨런 시어러</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/피터_비어슬리" title="wikilink">피터 비어슬리</a></li>
+<li><a href="../Page/피터_비어슬리.md" title="wikilink">피터 비어슬리</a></li>
 </ul></td>
 <td><p><strong>감독</strong></p>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/보비_롭슨" title="wikilink">보비 롭슨</a> 경</li>
+<li><a href="../Page/보비_롭슨.md" title="wikilink">보비 롭슨</a> 경</li>
 </ul></td>
 </tr>
 </tbody>
@@ -198,7 +198,7 @@ PlotData=
 <tbody>
 <tr class="odd">
 <td><ul>
-<li>1996년 <a href="https://ko.wikipedia.org/wiki/레스_퍼디낸드" title="wikilink">레스 퍼디낸드</a></li>
+<li>1996년 <a href="../Page/레스_퍼디낸드.md" title="wikilink">레스 퍼디낸드</a></li>
 <li>1997년 <a href="../Page/앨런_시어러.md" title="wikilink">앨런 시어러</a></li>
 </ul></td>
 </tr>
@@ -211,7 +211,7 @@ PlotData=
 <tbody>
 <tr class="odd">
 <td><ul>
-<li>1988년 <a href="https://ko.wikipedia.org/wiki/폴_개스코인" title="wikilink">폴 개스코인</a></li>
+<li>1988년 <a href="../Page/폴_개스코인.md" title="wikilink">폴 개스코인</a></li>
 <li>1994년 <a href="../Page/앤디_콜.md" title="wikilink">앤디 콜</a></li>
 <li>2002년 <a href="https://ko.wikipedia.org/wiki/크레이그_벨라미" title="wikilink">크레이그 벨라미</a></li>
 <li>2003년 <a href="../Page/저메인_지너스.md" title="wikilink">저메인 지너스</a></li>
@@ -232,12 +232,12 @@ PlotData=
 <li>1983년 <a href="../Page/케빈_키건.md" title="wikilink">케빈 키건</a> (풋볼 리그 2부)</li>
 <li>1984년 <a href="../Page/케빈_키건.md" title="wikilink">케빈 키건</a> (풋볼 리그 2부)</li>
 <li>1985년 크리스 워들 (풋볼 리그 1부)</li>
-<li>1987년 <a href="https://ko.wikipedia.org/wiki/피터_비어슬리" title="wikilink">피터 비어슬리</a> (풋볼 리그 1부)</li>
-<li>1988년 <a href="https://ko.wikipedia.org/wiki/폴_개스코인" title="wikilink">폴 개스코인</a> (풋볼 리그 1부)</li>
+<li>1987년 <a href="../Page/피터_비어슬리.md" title="wikilink">피터 비어슬리</a> (풋볼 리그 1부)</li>
+<li>1988년 <a href="../Page/폴_개스코인.md" title="wikilink">폴 개스코인</a> (풋볼 리그 1부)</li>
 <li>1990년 미키 퀸 (풋볼 리그 2부)</li>
 <li>1993년 존 베리스퍼드, 리 클라크, 개빈 피코크 (풋볼 리그 1부)</li>
-<li>1994년 <a href="https://ko.wikipedia.org/wiki/피터_비어슬리" title="wikilink">피터 비어슬리</a> (프리미어리그)</li>
-<li>1996년 <a href="https://ko.wikipedia.org/wiki/롭_리" title="wikilink">롭 리</a>, <a href="https://ko.wikipedia.org/wiki/레스_퍼디낸드" title="wikilink">레스 퍼디낸드</a>, <a href="https://ko.wikipedia.org/wiki/다비드_지놀라" title="wikilink">다비드 지놀라</a> (프리미어리그)</li>
+<li>1994년 <a href="../Page/피터_비어슬리.md" title="wikilink">피터 비어슬리</a> (프리미어리그)</li>
+<li>1996년 <a href="../Page/롭_리.md" title="wikilink">롭 리</a>, <a href="../Page/레스_퍼디낸드.md" title="wikilink">레스 퍼디낸드</a>, <a href="../Page/다비드_지놀라.md" title="wikilink">다비드 지놀라</a> (프리미어리그)</li>
 <li>1997년 데이비드 배티, <a href="../Page/앨런_시어러.md" title="wikilink">앨런 시어러</a> (프리미어리그)</li>
 <li>1998년 데이비드 배티 (프리미어리그)</li>
 <li>2002년 <a href="https://ko.wikipedia.org/wiki/셰이_기븐" title="wikilink">셰이 기븐</a> (프리미어리그)</li>
@@ -276,8 +276,8 @@ PlotData=
 
 ## 같이 보기
 
-  - [뉴캐슬 유나이티드 FC의 역사](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드_FC의_역사 "wikilink")
-  - [뉴캐슬 유나이티드 FC의 유럽 대회 기록](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드_FC의_유럽_대회_기록 "wikilink")
+  - [뉴캐슬 유나이티드 FC의 역사](../Page/뉴캐슬_유나이티드_FC의_역사.md "wikilink")
+  - [뉴캐슬 유나이티드 FC의 유럽 대회 기록](../Page/뉴캐슬_유나이티드_FC의_유럽_대회_기록.md "wikilink")
 
 ## 외부 링크
 

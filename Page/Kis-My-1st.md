@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kis-My-1st](https://ko.wikipedia.org/wiki/Kis-My-1st).
 
 
-《**Kis-My-1st**》는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"), [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 1번째 정규 음반이다.
+《**Kis-My-1st**》는, [일본](../Page/일본.md "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"), [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 1번째 정규 음반이다.
 
 ## 개요
 
@@ -17,7 +17,7 @@
 2.  **Girl is mine**
       -
         작사: zopp / 작곡: 사뮤엘 와에르모, CHOKKAKU / 편곡: CHOKKAKU
-3.  **[SHE\! HER\! HER\!](https://ko.wikipedia.org/wiki/SHE!_HER!_HER! "wikilink")**
+3.  **[SHE\! HER\! HER\!](../Page/SHE!_HER!_HER!.md "wikilink")**
       -
         작사: KOMU / 작곡·편곡: 하라 카즈히로
 4.  **タビタチノウタ** / <small>**여행자들의 노래**</small>
@@ -44,7 +44,7 @@
 11. **Sing for you** (TAMAMORI YUTA/MIYATA TOSHIYA/SENGA KENTO)
       -
         작사: 우에다 타츠지, Hiroya.T / 작곡: Dr Hardcastle, youwhich, DAICHI
-12. **[We never give up\!](https://ko.wikipedia.org/wiki/We_never_give_up! "wikilink")**
+12. **[We never give up\!](../Page/We_never_give_up!.md "wikilink")**
       -
         작사: 우에나카 죠야 / 작곡: Andreas Ohrn, Henrik Smith / 편곡: CHOKKAKU
 13. **Good night**

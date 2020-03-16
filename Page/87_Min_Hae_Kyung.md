@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [87 Min Hae Kyung](https://ko.wikipedia.org/wiki/87_Min_Hae_Kyung).
 
 
-**87 Min Hae Kyung**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [민해경](https://ko.wikipedia.org/wiki/민해경 "wikilink")의 1987년 발매한 정규 7집이다. 강인원이 프로듀서로 참여한 앨범이며, 활동곡은 **성숙**,**사랑은 세상의 반**,**그대는 인형처럼 웃고 있지만** 이다.
+**87 Min Hae Kyung**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1987년 발매한 정규 7집이다. 강인원이 프로듀서로 참여한 앨범이며, 활동곡은 **성숙**,**사랑은 세상의 반**,**그대는 인형처럼 웃고 있지만** 이다.
 
 ## 앨범의 특징
 

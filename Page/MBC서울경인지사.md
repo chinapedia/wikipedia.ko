@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC](https://ko.wikipedia.org/wiki/MBC).
 
 
-**MBC 서울경인지사**는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink") [팔달구](https://ko.wikipedia.org/wiki/팔달구 "wikilink") [경수대로](https://ko.wikipedia.org/wiki/경수산업도로 "wikilink") 477 (인계동) 또는 경기도 [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink") [일산동구](https://ko.wikipedia.org/wiki/일산동구 "wikilink") 호수로 596 MBC 드림센터 7층 (장항동)에 위치한 [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")의 지사이다. 해당 지사는 독립적인 방송국이 아니고, 일부 시사 · 교양 프로그램의 제작을 담당하기 위해 설립된 문화방송의 **지사(支社)**이다.
+**MBC 서울경인지사**는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink") [팔달구](https://ko.wikipedia.org/wiki/팔달구 "wikilink") [경수대로](https://ko.wikipedia.org/wiki/경수산업도로 "wikilink") 477 (인계동) 또는 경기도 [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink") [일산동구](../Page/일산동구.md "wikilink") 호수로 596 MBC 드림센터 7층 (장항동)에 위치한 [문화방송](../Page/문화방송.md "wikilink")의 지사이다. 해당 지사는 독립적인 방송국이 아니고, 일부 시사 · 교양 프로그램의 제작을 담당하기 위해 설립된 문화방송의 **지사(支社)**이다.
 
 ## 조직
 

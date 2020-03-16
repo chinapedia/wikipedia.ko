@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(DC \)](https://ko.wikipedia.org/wiki/_\(DC_\)).
 
 
-**베인**(Bane)은 [DC 코믹스의](../Page/DC_코믹스.md "wikilink") [슈퍼빌런](https://ko.wikipedia.org/wiki/슈퍼빌런 "wikilink") 캐릭터로, [배트맨](https://ko.wikipedia.org/wiki/배트맨 "wikilink")의 악당이다. 약물을 복용한 거구의 [레슬러](https://ko.wikipedia.org/wiki/레슬러 "wikilink")이다. 배트맨 영화판인 《[배트맨과 로빈](https://ko.wikipedia.org/wiki/배트맨과_로빈 "wikilink")》에서는 [로버트 스웬슨이](https://ko.wikipedia.org/wiki/로버트_스웬슨 "wikilink"), 《[다크 나이트 라이즈](../Page/다크_나이트_라이즈.md "wikilink")》에서는 [톰 하디가](../Page/톰_하디.md "wikilink") 맡았다.
+**베인**(Bane)은 [DC 코믹스의](../Page/DC_코믹스.md "wikilink") [슈퍼빌런](https://ko.wikipedia.org/wiki/슈퍼빌런 "wikilink") 캐릭터로, [배트맨](../Page/배트맨.md "wikilink")의 악당이다. 약물을 복용한 거구의 [레슬러](https://ko.wikipedia.org/wiki/레슬러 "wikilink")이다. 배트맨 영화판인 《[배트맨과 로빈](https://ko.wikipedia.org/wiki/배트맨과_로빈 "wikilink")》에서는 [로버트 스웬슨이](https://ko.wikipedia.org/wiki/로버트_스웬슨 "wikilink"), 《[다크 나이트 라이즈](../Page/다크_나이트_라이즈.md "wikilink")》에서는 [톰 하디가](../Page/톰_하디.md "wikilink") 맡았다.
 
 ## 담당 배우
 
@@ -20,8 +20,8 @@
 ### TV 애니메이션
 
   - [배트맨](../Page/배트맨_\(애니메이션\).md "wikilink")(1992) - [헨리 실바](https://ko.wikipedia.org/wiki/헨리_실바 "wikilink")
-  - [더 배트맨](https://ko.wikipedia.org/wiki/더_배트맨 "wikilink")(2004) - [조아킹 드 알메이다](https://ko.wikipedia.org/wiki/조아킹_드_알메이다 "wikilink"), [론 펄먼](https://ko.wikipedia.org/wiki/론_펄먼 "wikilink"), [클랜시 브라운](https://ko.wikipedia.org/wiki/클랜시_브라운 "wikilink")
-  - [배트맨 더 브레이브](https://ko.wikipedia.org/wiki/배트맨_더_브레이브 "wikilink")(2008) - [마이클 돈](https://ko.wikipedia.org/wiki/마이클_돈 "wikilink")
+  - [더 배트맨](https://ko.wikipedia.org/wiki/더_배트맨 "wikilink")(2004) - [조아킹 드 알메이다](https://ko.wikipedia.org/wiki/조아킹_드_알메이다 "wikilink"), [론 펄먼](../Page/론_펄먼.md "wikilink"), [클랜시 브라운](https://ko.wikipedia.org/wiki/클랜시_브라운 "wikilink")
+  - [배트맨 더 브레이브](../Page/배트맨_더_브레이브.md "wikilink")(2008) - [마이클 돈](https://ko.wikipedia.org/wiki/마이클_돈 "wikilink")
   - [영 저스티스](https://ko.wikipedia.org/wiki/영_저스티스 "wikilink")(2010) - [대니 트레호](https://ko.wikipedia.org/wiki/대니_트레호 "wikilink")
 
 ### 장편 애니메이션
@@ -35,7 +35,7 @@
 ### 비디오 게임
 
   - [레고 배트맨](https://ko.wikipedia.org/wiki/레고_배트맨 "wikilink")(2008) - [톰 케니](../Page/톰_케니.md "wikilink")
-      - [레고 배트맨 2: DC 슈퍼히어로즈](https://ko.wikipedia.org/wiki/레고_배트맨_2:_DC_슈퍼히어로즈 "wikilink")(2012) - [롭 폴슨](https://ko.wikipedia.org/wiki/롭_폴슨 "wikilink")
+      - [레고 배트맨 2: DC 슈퍼히어로즈](https://ko.wikipedia.org/wiki/레고_배트맨_2:_DC_슈퍼히어로즈 "wikilink")(2012) - [롭 폴슨](../Page/롭_폴슨.md "wikilink")
       - [레고 배트맨 3: 비욘드 고담](../Page/레고_배트맨_3:_비욘드_고담.md "wikilink")(2014) - [로저 크레이그 스미스](https://ko.wikipedia.org/wiki/로저_크레이그_스미스 "wikilink")
   - [배트맨: 아캄 어사일럼](../Page/배트맨:_아캄_어사일럼.md "wikilink")(2009) - [월리 윙거트](https://ko.wikipedia.org/wiki/월리_윙거트 "wikilink")
       - [배트맨: 아캄 시티](../Page/배트맨:_아캄_시티.md "wikilink")(2011) - 월리 윙거트

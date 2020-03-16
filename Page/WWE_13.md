@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 13](https://ko.wikipedia.org/wiki/WWE_13).
 
 
-《**WWE 13**》()는 [THQ](../Page/THQ.md "wikilink")가 발매할 예정인 [프로 레슬링](https://ko.wikipedia.org/wiki/프로_레슬링 "wikilink") 게임이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 30일에](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") 미국에 먼저 발매될 예정이며 [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink") 용으로 개발되었다. 이 게임에는 전•현직 WWE 슈퍼스타들이 총출동하며, 기존의 WWE 게임과는 달리 빠른 속도의 레슬링 경기를 즐길 수 있다.
+《**WWE 13**》()는 [THQ](../Page/THQ.md "wikilink")가 발매할 예정인 [프로 레슬링](https://ko.wikipedia.org/wiki/프로_레슬링 "wikilink") 게임이다. [2012년](../Page/2012년.md "wikilink") [10월 30일에](../Page/10월_30일.md "wikilink") 미국에 먼저 발매될 예정이며 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [엑스박스 360](../Page/엑스박스_360.md "wikilink"), [Wii](../Page/Wii.md "wikilink") 용으로 개발되었다. 이 게임에는 전•현직 WWE 슈퍼스타들이 총출동하며, 기존의 WWE 게임과는 달리 빠른 속도의 레슬링 경기를 즐길 수 있다.
 
 ## 게임 개발
 
@@ -12,12 +12,12 @@
 **1.슈퍼스타즈**
 
   - [알베르토 델 리오](../Page/알베르토_델_리오.md "wikilink")
-  - [빅 쇼](https://ko.wikipedia.org/wiki/빅_쇼 "wikilink")
+  - [빅 쇼](../Page/빅_쇼.md "wikilink")
   - [부커 T](https://ko.wikipedia.org/wiki/부커_T "wikilink")
   - [브록 레스너](../Page/브록_레스너.md "wikilink")
   - [브로더스 클레이](../Page/브로더스_클레이.md "wikilink")
   - [CM 펑크](../Page/CM_펑크.md "wikilink")
-  - [크리스 제리코](https://ko.wikipedia.org/wiki/크리스_제리코 "wikilink")
+  - [크리스 제리코](../Page/크리스_제리코.md "wikilink")
   - [크리스챤](https://ko.wikipedia.org/wiki/크리스챤 "wikilink")
   - [코디 로즈](../Page/코디_로즈.md "wikilink")
   - [대니얼 브라이언](../Page/대니얼_브라이언.md "wikilink")
@@ -30,8 +30,8 @@
   - [잭 스웨거](../Page/잭_스웨거.md "wikilink")
   - [존 레이필드](../Page/존_레이필드.md "wikilink")
   - [진더 마할](../Page/진더_마할.md "wikilink")
-  - [존 시나](https://ko.wikipedia.org/wiki/존_시나 "wikilink")
-  - [존 시나](https://ko.wikipedia.org/wiki/존_시나 "wikilink")'04 (워드라이프 기믹)
+  - [존 시나](../Page/존_시나.md "wikilink")
+  - [존 시나](../Page/존_시나.md "wikilink")'04 (워드라이프 기믹)
   - [저스틴 가브리엘](https://ko.wikipedia.org/wiki/저스틴_가브리엘 "wikilink")
   - [존 로리네이티스](https://ko.wikipedia.org/wiki/존_로리네이티스 "wikilink")
   - [케인](https://ko.wikipedia.org/wiki/케인 "wikilink")
@@ -74,10 +74,10 @@
   - [브렛 하트](../Page/브렛_하트.md "wikilink")
   - [브리티쉬 불독](https://ko.wikipedia.org/wiki/브리티쉬_불독 "wikilink")
   - [캑터스 잭](https://ko.wikipedia.org/wiki/캑터스_잭 "wikilink")
-  - [크리스 제리코](https://ko.wikipedia.org/wiki/크리스_제리코 "wikilink")(Y2J)
+  - [크리스 제리코](../Page/크리스_제리코.md "wikilink")(Y2J)
   - [크리스챤](https://ko.wikipedia.org/wiki/크리스챤 "wikilink")
   - [듀드 러브](https://ko.wikipedia.org/wiki/듀드_러브 "wikilink")
-  - [에디 게레로](https://ko.wikipedia.org/wiki/에디_게레로 "wikilink")
+  - [에디 게레로](../Page/에디_게레로.md "wikilink")
   - [에지](https://ko.wikipedia.org/wiki/에지 "wikilink")
   - [파룩](https://ko.wikipedia.org/wiki/파룩 "wikilink")(APA)
   - [갓파더](https://ko.wikipedia.org/wiki/갓파더 "wikilink")
@@ -87,9 +87,9 @@
   - [켄 샴락](https://ko.wikipedia.org/wiki/켄_샴락 "wikilink")
   - [맨카인드](https://ko.wikipedia.org/wiki/맨카인드 "wikilink")
   - [마크 헨리](../Page/마크_헨리.md "wikilink")
-  - [마이크 타이슨](https://ko.wikipedia.org/wiki/마이크_타이슨 "wikilink")
+  - [마이크 타이슨](../Page/마이크_타이슨.md "wikilink")
   - [빈스 맥마흔](../Page/빈스_맥마흔.md "wikilink")
-  - [빅 쇼](https://ko.wikipedia.org/wiki/빅_쇼 "wikilink")(폴 와이트)
+  - [빅 쇼](../Page/빅_쇼.md "wikilink")(폴 와이트)
   - [로드 독](https://ko.wikipedia.org/wiki/로드_독 "wikilink")([DX](https://ko.wikipedia.org/wiki/DX "wikilink"))
   - [더 락](https://ko.wikipedia.org/wiki/더_락 "wikilink")
   - [쉐인 맥마흔](https://ko.wikipedia.org/wiki/쉐인_맥마흔 "wikilink")

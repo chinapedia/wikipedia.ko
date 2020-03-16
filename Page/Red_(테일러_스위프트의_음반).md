@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Red \(  \)](https://ko.wikipedia.org/wiki/Red_\(__\)).
 
 
-《**Red**》(레드)는, 미국의 싱어송라이터 [테일러 스위프트의](https://ko.wikipedia.org/wiki/테일러_스위프트 "wikilink") 네 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**Red**》(레드)는, 미국의 싱어송라이터 [테일러 스위프트의](../Page/테일러_스위프트.md "wikilink") 네 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 트랙 리스트
 
@@ -10,7 +10,7 @@
 3.  Treacherous
 4.  [I Knew You Were Trouble](https://ko.wikipedia.org/wiki/I_Knew_You_Were_Trouble "wikilink")
 5.  All Too Well
-6.  [22](https://ko.wikipedia.org/wiki/22 "wikilink")
+6.  [22](../Page/22.md "wikilink")
 7.  I Almost Do
 8.  [We Are Never Ever Getting Back Together](https://ko.wikipedia.org/wiki/We_Are_Never_Ever_Getting_Back_Together "wikilink")
 9.  Stay Stay Stay
@@ -128,7 +128,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 <a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a> 탑 컨트리 앨범[24]</p></td>
+<td><p>미국 <a href="../Page/빌보드.md" title="wikilink">빌보드</a> 탑 컨트리 앨범[24]</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

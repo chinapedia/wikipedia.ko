@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [K.K.Kity](https://ko.wikipedia.org/wiki/K.K.Kity).
 
 
-**K.K.Kity**는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. [쟈니즈 사무소에](https://ko.wikipedia.org/wiki/자니스_사무소 "wikilink") 소속하는, [쟈니즈 Jr.로](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink") 구성된다. 구 명은 〈**J-Support**〉. 2001년 10월부터 약 2년간 활동했다.
+**K.K.Kity**는, [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. [쟈니즈 사무소에](../Page/자니스_사무소.md "wikilink") 소속하는, [쟈니즈 Jr.로](../Page/자니스_주니어.md "wikilink") 구성된다. 구 명은 〈**J-Support**〉. 2001년 10월부터 약 2년간 활동했다.
 
 ## 멤버
 
-  - **K** [코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink") (小山慶一郎, [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") \~ ) [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")
-  - **K** [카토 시게아키](https://ko.wikipedia.org/wiki/가토_시게아키 "wikilink") (加藤シゲアキ, [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") \~ ) NEWS
-  - **K** [쿠사노 히로노리](https://ko.wikipedia.org/wiki/구사노_히로노리 "wikilink") (草野博紀, [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [2월 15일](https://ko.wikipedia.org/wiki/2월_15일 "wikilink") \~ ) 사무소 퇴사
-  - **i** [이이다 쿄헤이](https://ko.wikipedia.org/wiki/이다_교헤이 "wikilink") (飯田恭平, [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") \~ ) 사무소 퇴사
-  - **t** [타케우치 코타로](https://ko.wikipedia.org/wiki/다케우치_고타로 "wikilink") (武内幸太朗, [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink") \~ ) 사무소 퇴사
-  - **y** [요코오 와타루](https://ko.wikipedia.org/wiki/요코_와타루 "wikilink") (よこ横尾渉, [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") \~ ) [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
+  - **K** [코야마 케이치로](../Page/코야마_케이치로.md "wikilink") (小山慶一郎, [1984년](../Page/1984년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") \~ ) [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")
+  - **K** [카토 시게아키](https://ko.wikipedia.org/wiki/가토_시게아키 "wikilink") (加藤シゲアキ, [1987년](../Page/1987년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") \~ ) NEWS
+  - **K** [쿠사노 히로노리](https://ko.wikipedia.org/wiki/구사노_히로노리 "wikilink") (草野博紀, [1988년](../Page/1988년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") \~ ) 사무소 퇴사
+  - **i** [이이다 쿄헤이](https://ko.wikipedia.org/wiki/이다_교헤이 "wikilink") (飯田恭平, [1987년](../Page/1987년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") \~ ) 사무소 퇴사
+  - **t** [타케우치 코타로](https://ko.wikipedia.org/wiki/다케우치_고타로 "wikilink") (武内幸太朗, [1986년](../Page/1986년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") \~ ) 사무소 퇴사
+  - **y** [요코오 와타루](https://ko.wikipedia.org/wiki/요코_와타루 "wikilink") (よこ横尾渉, [1986년](../Page/1986년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") \~ ) [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
 
 ## 개요
 

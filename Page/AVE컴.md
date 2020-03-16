@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [AVE](https://ko.wikipedia.org/wiki/AVE).
 
 
-**AVE컴**()은 [아랍에미리트](https://ko.wikipedia.org/wiki/아랍에미리트 "wikilink")의 전세 항공사로 [샤르자 국제공항이](../Page/샤르자_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 설립 했으며 본사는 [아랍에미리트](https://ko.wikipedia.org/wiki/아랍에미리트 "wikilink") [샤르자](../Page/샤르자.md "wikilink") [샤르자 국제공항에](../Page/샤르자_국제공항.md "wikilink") 위치해 있다.\[1\]
+**AVE컴**()은 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 전세 항공사로 [샤르자 국제공항이](../Page/샤르자_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1996년](../Page/1996년.md "wikilink")에 설립 했으며 본사는 [아랍에미리트](../Page/아랍에미리트.md "wikilink") [샤르자](../Page/샤르자.md "wikilink") [샤르자 국제공항에](../Page/샤르자_국제공항.md "wikilink") 위치해 있다.\[1\]
 
 ## 보유 기종
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 기준으로 AVE은 다음과 같은 기종을 보유하고 있으며 평균 기령은 25년이다.\[2\]
+  - [2012년](../Page/2012년.md "wikilink") [8월](../Page/8월.md "wikilink") 기준으로 AVE은 다음과 같은 기종을 보유하고 있으며 평균 기령은 25년이다.\[2\]
 
 <table>
 <caption><strong>AVE컴의 보유 기종</strong></caption>
@@ -17,17 +17,17 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_737" title="wikilink">보잉 737-200</a></p></td>
+<td><p><a href="../Page/보잉_737.md" title="wikilink">보잉 737-200</a></p></td>
 <td><div style="text-align: center;">
 <p>3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_737" title="wikilink">보잉 737-300</a></p></td>
+<td><p><a href="../Page/보잉_737.md" title="wikilink">보잉 737-300</a></p></td>
 <td><div style="text-align: center;">
 <p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_767" title="wikilink">보잉 767-200ER</a></p></td>
+<td><p><a href="../Page/보잉_767.md" title="wikilink">보잉 767-200ER</a></p></td>
 <td><div style="text-align: center;">
 <p>추가바람</p></td>
 </tr>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DOG in The   ](https://ko.wikipedia.org/wiki/DOG_in_The___).
 
 
-**DOG in The 패러렐 월드 오케스트라**()는 2009년 1월 1일에 결성된 일본의 [비주얼계](https://ko.wikipedia.org/wiki/비주얼계 "wikilink") 락 밴드 이다.
+**DOG in The 패러렐 월드 오케스트라**()는 2009년 1월 1일에 결성된 일본의 [비주얼계](../Page/비주얼계.md "wikilink") 락 밴드 이다.
 
 ## 개요
 
@@ -43,7 +43,7 @@
       - 3월 13일생, 개보다는 고양이를 선호한다.
       - 메이의 팬들을 **Kiss**라고 칭한다.
       - 흰색 의상을 많이 입는 편이지만 검은색을 좋아한다.
-      - [비비안 웨스트우드와](https://ko.wikipedia.org/wiki/비비안_웨스트우드 "wikilink") [스타벅스](https://ko.wikipedia.org/wiki/스타벅스 "wikilink")를 좋아한다.
+      - [비비안 웨스트우드와](../Page/비비안_웨스트우드.md "wikilink") [스타벅스](../Page/스타벅스.md "wikilink")를 좋아한다.
       - 신장 171 cm.
 
 <!-- end list -->

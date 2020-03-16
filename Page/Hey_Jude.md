@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hey Jude](https://ko.wikipedia.org/wiki/Hey_Jude).
 
 
-〈**Hey Jude**〉는 [폴 매카트니가](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 작곡하고 [레논-매카트니](../Page/레논-매카트니.md "wikilink") 명의로 발표된 영국의 록 밴드 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 노래다. [존 레논은](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 그 당시 [신시아 레논과](../Page/신시아_레논.md "wikilink") 이혼하고 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")인 [오노 요코와](https://ko.wikipedia.org/wiki/오노_요코 "wikilink") 재혼을 했다. 신시아와 레논의 아들 [줄리언 레논을](https://ko.wikipedia.org/wiki/줄리언_레논 "wikilink") 불쌍하게 여긴 매카트니는 줄리언을 위해 이 곡을 작곡했다. 그래서 원래 곡의 이름은 줄리안의 애칭인 Julie, 즉 〈Hey Julie〉였다. 〈Hey Jude〉의 도입부에 나타난 버스-브리지는 매카트니의 보컬과 피아노 반주가 결합되어 있다. 곡이 진행됨에 따라 갖가지 악기가 추가된다. 네 번째 구절 이후로는 페이드아웃 코다로 전향하여 4분간 지속된다.
+〈**Hey Jude**〉는 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 작곡하고 [레논-매카트니](../Page/레논-매카트니.md "wikilink") 명의로 발표된 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 노래다. [존 레논은](../Page/존_레논.md "wikilink") 그 당시 [신시아 레논과](../Page/신시아_레논.md "wikilink") 이혼하고 [일본](../Page/일본.md "wikilink")인 [오노 요코와](../Page/오노_요코.md "wikilink") 재혼을 했다. 신시아와 레논의 아들 [줄리언 레논을](../Page/줄리언_레논.md "wikilink") 불쌍하게 여긴 매카트니는 줄리언을 위해 이 곡을 작곡했다. 그래서 원래 곡의 이름은 줄리안의 애칭인 Julie, 즉 〈Hey Julie〉였다. 〈Hey Jude〉의 도입부에 나타난 버스-브리지는 매카트니의 보컬과 피아노 반주가 결합되어 있다. 곡이 진행됨에 따라 갖가지 악기가 추가된다. 네 번째 구절 이후로는 페이드아웃 코다로 전향하여 4분간 지속된다.
 
 〈Hey Jude〉는 처음 애플 레코드 레이블을 달고 1968년 8월 출시되었다. 7분을 넘기는 곡의 재생시간 덕에 당시 영국 차트 정상에 오른 곡 중 가장 긴 재생시간을 보유한 것으로 기록되었다. 또한 미국에서는 어떤 비틀즈 싱글도 뛰어넘지 못한, 9주 동안 정상에 머무르는 대업을 이룩한다. 〈Hey Jude〉는 당시 영국 차트에서 가장 오래 머무른 싱글이었다. 이 싱글은 거의 8백만 장이 팔려나갔으며 평론가가 선정한 역대 최고 노래 목록에 단골로 등장한다. 2013년, 빌보드는 역대 가장 위대한 곡에 10위로 곡을 선정했다.\[1\]
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ vol.2](https://ko.wikipedia.org/wiki/_vol.2).
 
 
-**민해경 vol.2**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [민해경](https://ko.wikipedia.org/wiki/민해경 "wikilink")의 1983년 발매한 정규 4집이다. 박건호가 프로듀서로 참여한 앨범이며,
+**민해경 vol.2**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1983년 발매한 정규 4집이다. 박건호가 프로듀서로 참여한 앨범이며,
 
 활동곡은 **변명**과 **그대와 피아노**이다.
 

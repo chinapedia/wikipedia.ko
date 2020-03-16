@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [INXS](https://ko.wikipedia.org/wiki/INXS).
 
 
-**INXS**는 [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 결성된 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").
+**INXS**는 [1977년](../Page/1977년.md "wikilink") 결성된 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").
 
 ## 정규 음반
 
