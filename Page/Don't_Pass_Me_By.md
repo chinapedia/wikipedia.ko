@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Don\'t Pass Me By](https://ko.wikipedia.org/wiki/Don\'t_Pass_Me_By).
 
 
-〈**Don't Pass Me By**〉는 더블 음반 《[The Beatles](https://ko.wikipedia.org/wiki/The_Beatles_\(음반\) "wikilink")》의 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 곡이다. 이 곡은 [링고 스타의](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") 첫 번째 솔로 작곡이었다.\[1\]
+〈**Don't Pass Me By**〉는 더블 음반 《[The Beatles](../Page/The_Beatles_\(음반\).md "wikilink")》의 [영국](../Page/영국.md "wikilink")의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 곡이다. 이 곡은 [링고 스타의](../Page/링고_스타.md "wikilink") 첫 번째 솔로 작곡이었다.\[1\]
 
-이 곡은 [스칸디나비아](https://ko.wikipedia.org/wiki/스칸디나비아 "wikilink")에서 싱글곡으로 발매되었고 1969년 4월 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink")에서 1위를 기록했다.\[2\]
+이 곡은 [스칸디나비아](../Page/스칸디나비아.md "wikilink")에서 싱글곡으로 발매되었고 1969년 4월 [덴마크](../Page/덴마크.md "wikilink")에서 1위를 기록했다.\[2\]
 
 ## 녹음
 

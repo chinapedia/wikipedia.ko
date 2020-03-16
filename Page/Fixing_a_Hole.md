@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fixing a Hole](https://ko.wikipedia.org/wiki/Fixing_a_Hole).
 
 
-〈**Fixing a Hole**〉은 1967년 음반 《[Sgt. Pepper's Lonely Hearts Club Band](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink")》에 발매된 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 곡이다. 그 곡은 [레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink")에게 인정되었지만 [폴 매카트니에](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 의해 쓰여졌다.
+〈**Fixing a Hole**〉은 1967년 음반 《[Sgt. Pepper's Lonely Hearts Club Band](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink")》에 발매된 [영국](../Page/영국.md "wikilink")의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 곡이다. 그 곡은 [레논-매카트니](../Page/레논-매카트니.md "wikilink")에게 인정되었지만 [폴 매카트니에](../Page/폴_매카트니.md "wikilink") 의해 쓰여졌다.
 
 ## 각주
 

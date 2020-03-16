@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [All for Leyna](https://ko.wikipedia.org/wiki/All_for_Leyna).
 
 
-〈**All for Leyna**〉는 [빌리 조엘의](https://ko.wikipedia.org/wiki/빌리_조엘 "wikilink") 1980년 음반 《[Glass Houses](https://ko.wikipedia.org/wiki/Glass_Houses "wikilink")》에 수록된 곡이다. 〈All for Leyna〉는 영국에서 싱글로 발매되었으며, [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 40위에 올랐다.\[1\]
+〈**All for Leyna**〉는 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 1980년 음반 《[Glass Houses](../Page/Glass_Houses.md "wikilink")》에 수록된 곡이다. 〈All for Leyna〉는 영국에서 싱글로 발매되었으며, [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 40위에 올랐다.\[1\]
 
 이 곡의 가사는 Leyna라는 소녀를 만나고 [원나이트 스탠드](https://ko.wikipedia.org/wiki/원나이트_스탠드 "wikilink") 이후 그녀에게 집착하는 주인공의 이야기를 들려준다. 뮤직 비디오는 빌리 조엘과 그의 밴드와 함께 스튜디오에서 제작되었다. 이 비디오는 빌리 조엘이 야마하 CP-80 [전기 그랜드 피아노와](../Page/전기_그랜드_피아노.md "wikilink") 오버하임 OB-X 신시사이저를 연주하는 모습을 잘 보여준다.
 

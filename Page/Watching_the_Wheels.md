@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Watching the Wheels](https://ko.wikipedia.org/wiki/Watching_the_Wheels).
 
 
-〈**Watching the Wheels**〉는 존 레논의 사후, 즉 [존 레논 피살 사건](../Page/존_레논_피살_사건.md "wikilink") 이후인 1981년 발표된 싱글이다. [오노 요코의](https://ko.wikipedia.org/wiki/오노_요코 "wikilink") 〈Yes, I'm Your Angel〉을 [B 사이드로](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 하고 있다. 존과 요코의 공동 음반 《[Double Fantasy](../Page/Double_Fantasy.md "wikilink")》에서 발매된 세 번째이자 마지막 싱글로서 미국의 [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 최고 10위, 캐시박스 싱글 탑 100 최고 7위를 기록했다.\[1\] 또한 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 싱글 차트에서도 최고 30위를 기록, 정점에 달했다.
+〈**Watching the Wheels**〉는 존 레논의 사후, 즉 [존 레논 피살 사건](../Page/존_레논_피살_사건.md "wikilink") 이후인 1981년 발표된 싱글이다. [오노 요코의](../Page/오노_요코.md "wikilink") 〈Yes, I'm Your Angel〉을 [B 사이드로](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 하고 있다. 존과 요코의 공동 음반 《[Double Fantasy](../Page/Double_Fantasy.md "wikilink")》에서 발매된 세 번째이자 마지막 싱글로서 미국의 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 최고 10위, 캐시박스 싱글 탑 100 최고 7위를 기록했다.\[1\] 또한 [영국](../Page/영국.md "wikilink") 싱글 차트에서도 최고 30위를 기록, 정점에 달했다.
 
 ## 작곡 및 녹음
 
@@ -15,14 +15,14 @@
 
 이후 레논의 칩거 생활이 지속되면서 "요즘 당신 미쳐 있는 게 아닌가?" "과거의 잘 나가던 시기가 그립지 아니한가?"라며 혼란스러워 하는 사람들이 나타나게 되는데, 이에 레논은 "괜찮아, 지금 난 행복하다"라고 대답한다. 하지만 "당신이 행복할 리가 없잖아"라며 사람들이 다시 질문을 던져오자, 레논은 세상을 회전목마에 비유, "난 여기에 앉아서 회전목마를 바라보고 있을 뿐, 지금이 난 좋다" "더 이상 회전목마를 타진 않아, 그저 바라볼 뿐"이라고 답하며 혼란스러워 하는 사람들의 우려를 어느 정도 해소시킨다.\[4\]
 
-이 곡의 제목에서 나타나는 바퀴는 레논이 그의 저택 다코타 아파트 6층의 유리한 지점에서 볼 수 있었던 차량으로 부분적으로 비유적이었다. 수동으로 톱니바퀴를 돌리는 관념은 레논이 비틀즈 시절 작곡한 비틀즈의 1965년 앨범 《[Rubber Soul](https://ko.wikipedia.org/wiki/Rubber_Soul "wikilink")》의 수록곡 "[Nowhere Man](../Page/Nowhere_Man_\(노래\).md "wikilink")"으로 돌아가는 주제였다.\[5\] 레논은 모든 우주를 돌고 도는 바퀴와 같다고 생각했다. 그리고 자기 자신을 지켜보는 것은 다른 사람을 보는 것과 같다고 생각했으며, 그의 아들 숀을 통해 자기 자신을 보았다.\[6\]
+이 곡의 제목에서 나타나는 바퀴는 레논이 그의 저택 다코타 아파트 6층의 유리한 지점에서 볼 수 있었던 차량으로 부분적으로 비유적이었다. 수동으로 톱니바퀴를 돌리는 관념은 레논이 비틀즈 시절 작곡한 비틀즈의 1965년 앨범 《[Rubber Soul](../Page/Rubber_Soul.md "wikilink")》의 수록곡 "[Nowhere Man](../Page/Nowhere_Man_\(노래\).md "wikilink")"으로 돌아가는 주제였다.\[5\] 레논은 모든 우주를 돌고 도는 바퀴와 같다고 생각했다. 그리고 자기 자신을 지켜보는 것은 다른 사람을 보는 것과 같다고 생각했으며, 그의 아들 숀을 통해 자기 자신을 보았다.\[6\]
 
 ## 참여 인원
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 보컬, [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink"), [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
+  - [존 레논](../Page/존_레논.md "wikilink") – 보컬, [피아노](../Page/피아노.md "wikilink"), [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
   - 얼 슬릭, [휴 맥크라켄](https://ko.wikipedia.org/wiki/휴_맥크라켄 "wikilink") – [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink")
-  - 토니 레빈 – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
-  - 조지 스몰 – [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink"), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")
+  - 토니 레빈 – [베이스](../Page/베이스_기타.md "wikilink")
+  - 조지 스몰 – [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink"), [피아노](../Page/피아노.md "wikilink")
   - 앤디 뉴마크 – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
   - 매튜 커닝햄 – 해머드 덜시머
   - 아서 젠킨스 – [퍼쿠션](https://ko.wikipedia.org/wiki/타악기 "wikilink")

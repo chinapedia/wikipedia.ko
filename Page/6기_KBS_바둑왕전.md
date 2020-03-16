@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [6 KBS ](https://ko.wikipedia.org/wiki/6_KBS_).
 
 
-**6기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](https://ko.wikipedia.org/wiki/조훈현 "wikilink") 九단이 [김희중](https://ko.wikipedia.org/wiki/김희중 "wikilink") 七단을 2대 1로 꺾고 통산 4회 우승을 차지했다.
+**6기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](../Page/조훈현.md "wikilink") 九단이 [김희중](https://ko.wikipedia.org/wiki/김희중 "wikilink") 七단을 2대 1로 꺾고 통산 4회 우승을 차지했다.
 
 ## 출전 기사 명단
 

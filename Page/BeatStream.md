@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [BeatStream](https://ko.wikipedia.org/wiki/BeatStream).
 
 
-**BeatStream**은 [코나미 어뮤즈먼트](https://ko.wikipedia.org/wiki/코나미_어뮤즈먼트 "wikilink")(2016년까진 코나미 디지털 엔터테이먼트)가 2014년 7월 17일 개발/발매한 [리듬 게임이다](https://ko.wikipedia.org/wiki/리듬_게임 "wikilink"). 공식 약칭은 **비스트**()이며 게임 내 표제는 [가타카나](https://ko.wikipedia.org/wiki/가타카나 "wikilink")로 표기한 **비트스트림**()이다.
+**BeatStream**은 [코나미 어뮤즈먼트](https://ko.wikipedia.org/wiki/코나미_어뮤즈먼트 "wikilink")(2016년까진 코나미 디지털 엔터테이먼트)가 2014년 7월 17일 개발/발매한 [리듬 게임이다](../Page/리듬_게임.md "wikilink"). 공식 약칭은 **비스트**()이며 게임 내 표제는 [가타카나](../Page/가타카나.md "wikilink")로 표기한 **비트스트림**()이다.
 
 2017년 8월 31일 [E-Amusement](https://ko.wikipedia.org/wiki/E-Amusement "wikilink") 연동 서비스를 중지함과 동시에 서비스를 종료하면서 게임 플레이 불가능으로 되었으며 남은 게임기는 [노스텔지어](../Page/노스텔지어_\(음악_게임\).md "wikilink") 게임 기체로 개조되었다.
 
 ## 게임 설명
 
-[280px](https://ko.wikipedia.org/wiki/파일:BeatStream_screen_display.jpg "wikilink") 기체는 고양이 귀를 형상화한 디자인의 모니터가 위, 아래 2개로 이루어져 있다. 윗쪽 화면은 영상 등을 표시하는 액정 패널이며 아래쪽 화면은 다점 터치가 가능한 [터치스크린](https://ko.wikipedia.org/wiki/터치스크린 "wikilink")으로 되어 있다. 게임 플레이는 모두 아랫쪽 화면에서 이루어지며 윗쪽 화면에는 곡 정보 표시, 게임 플레이 도중 BGA 등을 재생하는 용도이다. 아랫쪽 화면의 터치 방식은 [정전식 감응](https://ko.wikipedia.org/wiki/정전식_감응 "wikilink") 방식이다.
+[280px](https://ko.wikipedia.org/wiki/파일:BeatStream_screen_display.jpg "wikilink") 기체는 고양이 귀를 형상화한 디자인의 모니터가 위, 아래 2개로 이루어져 있다. 윗쪽 화면은 영상 등을 표시하는 액정 패널이며 아래쪽 화면은 다점 터치가 가능한 [터치스크린](../Page/터치스크린.md "wikilink")으로 되어 있다. 게임 플레이는 모두 아랫쪽 화면에서 이루어지며 윗쪽 화면에는 곡 정보 표시, 게임 플레이 도중 BGA 등을 재생하는 용도이다. 아랫쪽 화면의 터치 방식은 [정전식 감응](../Page/정전식_감응.md "wikilink") 방식이다.
 
 게임의 주요 특징으로는 영상을 강조한 것이 있다. 대부분의 악곡에 전용 BGA이 삽입되어 있으며, 수록곡으로는 애니메이션 음악, [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink") 노래, [동방프로젝트](https://ko.wikipedia.org/wiki/동방프로젝트 "wikilink") 곡 등이 수록되어 있으며 J-POP 류의 저작권이 있는 라이센스 곡은 수록되어 있지 않았다.
 
-[타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink"), [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink"), [마카오](https://ko.wikipedia.org/wiki/마카오 "wikilink")에서도 **BST동심음악**()라는 이름으로 정식 발매되었다. 대한민국에서는 "BeatStream"이라는 이름으로 발매되었다.
+[타이완](../Page/타이완.md "wikilink"), [홍콩](../Page/홍콩.md "wikilink"), [마카오](../Page/마카오.md "wikilink")에서도 **BST동심음악**()라는 이름으로 정식 발매되었다. 대한민국에서는 "BeatStream"이라는 이름으로 발매되었다.
 
 ## 게임 방법
 

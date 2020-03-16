@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA 19](https://ko.wikipedia.org/wiki/FIFA_19).
 
 
-《**FIFA 19**》은 [일렉트로닉 아츠에서](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 제작한 26번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 게임이다. 전 세계적으로 2018년 9월 28일에 출시되었다.
+《**FIFA 19**》은 [일렉트로닉 아츠에서](../Page/일렉트로닉_아츠.md "wikilink") 제작한 26번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 게임이다. 전 세계적으로 2018년 9월 28일에 출시되었다.
 
 ## 각주
 

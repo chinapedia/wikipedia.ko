@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS_STARLIGHT_MASTER).
 
 
-《**THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER**》(아이돌마스터 신데렐라 걸즈 스타라이트 마스터)는 [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 30일부터](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") 출시되고 있는 프로젝트 CD 시리즈이다.
+《**THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER**》(아이돌마스터 신데렐라 걸즈 스타라이트 마스터)는 [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") [2016년](../Page/2016년.md "wikilink") [3월 30일부터](../Page/3월_30일.md "wikilink") 출시되고 있는 프로젝트 CD 시리즈이다.
 
 ## 개요
 
 ##  01 Snow Wings
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 30일에](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") 발매된 첫 번째 싱글이다.
+[2016년](../Page/2016년.md "wikilink") [3월 30일에](../Page/3월_30일.md "wikilink") 발매된 첫 번째 싱글이다.
 
 ##  02 Tulip
 

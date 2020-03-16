@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jealous](https://ko.wikipedia.org/wiki/Jealous).
 
 
-〈**Jealous**〉(젤러스)는 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 일본에서의 통산 46번째 싱글 음반이다.
+〈**Jealous**〉(젤러스)는 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 46번째 싱글 음반이다.
 
 ## 개요
 

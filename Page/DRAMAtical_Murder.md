@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DRAMAtical Murder](https://ko.wikipedia.org/wiki/DRAMAtical_Murder).
 
 
-《**DRAMAtical Murder**》(드라마티컬 머더)은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 23일에](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") [Nitro+CHiRAL](https://ko.wikipedia.org/wiki/Nitro+CHiRAL "wikilink")에서 발매된 [보이즈 러브 게임이다](https://ko.wikipedia.org/wiki/보이즈_러브_게임 "wikilink").
+《**DRAMAtical Murder**》(드라마티컬 머더)은 [2012년](../Page/2012년.md "wikilink") [3월 23일에](../Page/3월_23일.md "wikilink") [Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")에서 발매된 [보이즈 러브 게임이다](../Page/보이즈_러브_게임.md "wikilink").
 
 ## 스토리
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SSSS.GRIDMAN](https://ko.wikipedia.org/wiki/SSSS.GRIDMAN).
 
 
-《**SSSS.GRIDMAN**》(그리드맨)은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다. [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")부터 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")까지 방영된 [츠부라야 프로덕션](https://ko.wikipedia.org/wiki/츠부라야_프로덕션 "wikilink") 제작 특수물 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 《[전광초인 그리드맨](https://ko.wikipedia.org/wiki/전광초인_그리드맨 "wikilink")》을 원작으로 한다. [츠부라야 프로덕션과](https://ko.wikipedia.org/wiki/츠부라야_프로덕션 "wikilink") [트리거의](https://ko.wikipedia.org/wiki/트리거_\(애니메이션_제작사\) "wikilink") 합작이며, 이 두 회사는 이전 [일본 애니토 엑스포에서](https://ko.wikipedia.org/wiki/일본_애니토_엑스포 "wikilink") 발표된 《전광초인 그리드맨 boys invent great hero》의 제작도 협력한 바 있다. 제목의 "SSSS"는 《[전광초인 그리드맨](https://ko.wikipedia.org/wiki/전광초인_그리드맨 "wikilink")》을 원작으로 하여 미국에서 제작된 TV 시리즈 《[슈퍼휴먼 사무라이 사이버스쿼드](https://ko.wikipedia.org/wiki/:en:Superhuman_Samurai_Syber-Squad "wikilink")》 ()에서 가져온 것이다.
+《**SSSS.GRIDMAN**》(그리드맨)은 [일본](../Page/일본.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink")이다. [1993년](../Page/1993년.md "wikilink")부터 [1994년](../Page/1994년.md "wikilink")까지 방영된 [츠부라야 프로덕션](https://ko.wikipedia.org/wiki/츠부라야_프로덕션 "wikilink") 제작 특수물 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 《[전광초인 그리드맨](https://ko.wikipedia.org/wiki/전광초인_그리드맨 "wikilink")》을 원작으로 한다. [츠부라야 프로덕션과](https://ko.wikipedia.org/wiki/츠부라야_프로덕션 "wikilink") [트리거의](https://ko.wikipedia.org/wiki/트리거_\(애니메이션_제작사\) "wikilink") 합작이며, 이 두 회사는 이전 [일본 애니토 엑스포에서](https://ko.wikipedia.org/wiki/일본_애니토_엑스포 "wikilink") 발표된 《전광초인 그리드맨 boys invent great hero》의 제작도 협력한 바 있다. 제목의 "SSSS"는 《[전광초인 그리드맨](https://ko.wikipedia.org/wiki/전광초인_그리드맨 "wikilink")》을 원작으로 하여 미국에서 제작된 TV 시리즈 《[슈퍼휴먼 사무라이 사이버스쿼드](https://ko.wikipedia.org/wiki/:en:Superhuman_Samurai_Syber-Squad "wikilink")》 ()에서 가져온 것이다.
 
-[2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 아마미야를 비롯한 주요 스태프가 선보이는 완전 신작 애니메이션 《**SSSS.DYNAZENON**》(다이나제논)의 제작이 결정되었다.
+[2019년](../Page/2019년.md "wikilink") [12월](../Page/12월.md "wikilink")에 아마미야를 비롯한 주요 스태프가 선보이는 완전 신작 애니메이션 《**SSSS.DYNAZENON**》(다이나제논)의 제작이 결정되었다.
 
 ## 등장인물
 
@@ -12,7 +12,7 @@
 <!-- end list -->
 
   -
-    성우: [히로세 유야](https://ko.wikipedia.org/wiki/히로세_유야 "wikilink")/[김명준](https://ko.wikipedia.org/wiki/김명준_\(성우\) "wikilink")
+    성우: [히로세 유야](https://ko.wikipedia.org/wiki/히로세_유야 "wikilink")/[김명준](../Page/김명준_\(성우\).md "wikilink")
 
 <!-- end list -->
 
@@ -21,7 +21,7 @@
 <!-- end list -->
 
   -
-    성우: [미도리카와 히카루](https://ko.wikipedia.org/wiki/미도리카와_히카루 "wikilink")/[김환진](https://ko.wikipedia.org/wiki/김환진 "wikilink")
+    성우: [미도리카와 히카루](../Page/미도리카와_히카루.md "wikilink")/[김환진](../Page/김환진.md "wikilink")
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@
 <!-- end list -->
 
   -
-    성우: 타카하시 료스케/[정성훈](https://ko.wikipedia.org/wiki/정성훈_\(성우\) "wikilink")
+    성우: 타카하시 료스케/[정성훈](../Page/정성훈_\(성우\).md "wikilink")
 
 <!-- end list -->
 
@@ -66,7 +66,7 @@
 <!-- end list -->
 
   -
-    성우: [코니시 카츠유키](https://ko.wikipedia.org/wiki/코니시_카츠유키 "wikilink")/[시영준](https://ko.wikipedia.org/wiki/시영준 "wikilink")
+    성우: [코니시 카츠유키](../Page/코니시_카츠유키.md "wikilink")/[시영준](../Page/시영준.md "wikilink")
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@
 <!-- end list -->
 
   -
-    성우: [유우키 아오이](https://ko.wikipedia.org/wiki/유우키_아오이 "wikilink")/[서다혜](../Page/서다혜.md "wikilink")
+    성우: [유우키 아오이](../Page/유우키_아오이.md "wikilink")/[서다혜](../Page/서다혜.md "wikilink")
 
 <!-- end list -->
 
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   -
-    성우: [마츠카제 마사야](https://ko.wikipedia.org/wiki/마츠카제_마사야 "wikilink")/[정주원](../Page/정주원.md "wikilink")
+    성우: [마츠카제 마사야](../Page/마츠카제_마사야.md "wikilink")/[정주원](../Page/정주원.md "wikilink")
 
 <!-- end list -->
 
@@ -93,7 +93,7 @@
 <!-- end list -->
 
   -
-    성우: [스즈무라 켄이치](https://ko.wikipedia.org/wiki/스즈무라_켄이치 "wikilink")/[남도형](https://ko.wikipedia.org/wiki/남도형 "wikilink")
+    성우: [스즈무라 켄이치](../Page/스즈무라_켄이치.md "wikilink")/[남도형](../Page/남도형.md "wikilink")
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 <!-- end list -->
 
   -
-    성우: 이나다 토오루/[민응식](https://ko.wikipedia.org/wiki/민응식 "wikilink")
+    성우: 이나다 토오루/[민응식](../Page/민응식.md "wikilink")
 
 <!-- end list -->
 
@@ -111,7 +111,7 @@
 <!-- end list -->
 
   -
-    성우: 이토 켄토/[신용우](https://ko.wikipedia.org/wiki/신용우_\(성우\) "wikilink")
+    성우: 이토 켄토/[신용우](../Page/신용우_\(성우\).md "wikilink")
 
 <!-- end list -->
 
@@ -129,7 +129,7 @@
 <!-- end list -->
 
   -
-    성우: [에노키 준야](https://ko.wikipedia.org/wiki/에노키_준야 "wikilink")/[이경태](https://ko.wikipedia.org/wiki/이경태_\(성우\) "wikilink")
+    성우: [에노키 준야](https://ko.wikipedia.org/wiki/에노키_준야 "wikilink")/[이경태](../Page/이경태_\(성우\).md "wikilink")
 
 <!-- end list -->
 
@@ -138,7 +138,7 @@
 <!-- end list -->
 
   -
-    성우: [스즈키 료타](https://ko.wikipedia.org/wiki/스즈키_료타 "wikilink")/[홍범기](https://ko.wikipedia.org/wiki/홍범기 "wikilink")
+    성우: [스즈키 료타](https://ko.wikipedia.org/wiki/스즈키_료타 "wikilink")/[홍범기](../Page/홍범기.md "wikilink")
 
 <!-- end list -->
 
@@ -147,7 +147,7 @@
 <!-- end list -->
 
   -
-    성우: 타카하시 카린/[김서영](https://ko.wikipedia.org/wiki/김서영_\(성우\) "wikilink")
+    성우: 타카하시 카린/[김서영](../Page/김서영_\(성우\).md "wikilink")
 
 <!-- end list -->
 

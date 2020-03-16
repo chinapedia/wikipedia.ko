@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LP \(\)](https://ko.wikipedia.org/wiki/LP_\(\)).
 
 
-**로라 페르골리치**는 미국의 가수이다. LP라는 이름으로 작곡과 공연을 한다.  1981년 3월 18일 생으로 앨범 4개와 EP 1개를 발표했다. [셰어](https://ko.wikipedia.org/wiki/셰어 "wikilink"), [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink"), [레오나 루이스](https://ko.wikipedia.org/wiki/리오나_루이스 "wikilink"), [크리스티나 아길레라](https://ko.wikipedia.org/wiki/크리스티나_아길레라 "wikilink"), [백스트리트 보이스를](https://ko.wikipedia.org/wiki/백스트리트_보이스 "wikilink") 포함해 여러 가수의 노래를 작곡했다.
+**로라 페르골리치**는 미국의 가수이다. LP라는 이름으로 작곡과 공연을 한다.  1981년 3월 18일 생으로 앨범 4개와 EP 1개를 발표했다. [셰어](https://ko.wikipedia.org/wiki/셰어 "wikilink"), [리한나](../Page/리한나.md "wikilink"), [레오나 루이스](../Page/리오나_루이스.md "wikilink"), [크리스티나 아길레라](../Page/크리스티나_아길레라.md "wikilink"), [백스트리트 보이스를](../Page/백스트리트_보이스.md "wikilink") 포함해 여러 가수의 노래를 작곡했다.
 
 ## 각주
 

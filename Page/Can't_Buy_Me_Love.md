@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Can\'t Buy Me Love](https://ko.wikipedia.org/wiki/Can\'t_Buy_Me_Love).
 
 
-〈**Can't Buy Me Love**〉는 [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink")([레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink")로 표기)가 작곡하고 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")가 1964년 3월 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 싱글 여섯 번째의 A 사이드에 발매한 곡으로, 〈[You Can't Do That](https://ko.wikipedia.org/wiki/You_Can't_Do_That "wikilink")〉는 B 사이드이다. 2015년 9월, 비틀즈는 이 곡의 녹음본을 TV 광고로 [PETA](https://ko.wikipedia.org/wiki/PETA "wikilink")를 위해 사람들에게 기증했다.\[1\]
+〈**Can't Buy Me Love**〉는 [폴 매카트니](../Page/폴_매카트니.md "wikilink")([레논-매카트니](../Page/레논-매카트니.md "wikilink")로 표기)가 작곡하고 [비틀즈](../Page/비틀즈.md "wikilink")가 1964년 3월 [영국](../Page/영국.md "wikilink") 싱글 여섯 번째의 A 사이드에 발매한 곡으로, 〈[You Can't Do That](https://ko.wikipedia.org/wiki/You_Can't_Do_That "wikilink")〉는 B 사이드이다. 2015년 9월, 비틀즈는 이 곡의 녹음본을 TV 광고로 [PETA](../Page/PETA.md "wikilink")를 위해 사람들에게 기증했다.\[1\]
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  EA-6B ](https://ko.wikipedia.org/wiki/__EA-6B_).
 
 
-**노스럽 그러먼 EA-6B 프라울러**는 [미국 해군의](https://ko.wikipedia.org/wiki/미국_해군 "wikilink") [그러먼 A-6 인트루더](https://ko.wikipedia.org/wiki/그러먼_A-6_인트루더 "wikilink") 공격기를 전자전기로 개조한 것이다.
+**노스럽 그러먼 EA-6B 프라울러**는 [미국 해군의](../Page/미국_해군.md "wikilink") [그러먼 A-6 인트루더](../Page/그러먼_A-6_인트루더.md "wikilink") 공격기를 전자전기로 개조한 것이다.
 
 ## 역사
 
@@ -41,7 +41,7 @@
 <!-- end list -->
 
   - **하드포인트:** 5개, 동체하부 1개, 양날개 2개씩, 최대무장량 18,000 pounds (8,164.7 kg)
-  - **미사일:** 4× [AGM-88 함](https://ko.wikipedia.org/wiki/AGM-88_함 "wikilink") (2x 평소)
+  - **미사일:** 4× [AGM-88 함](../Page/AGM-88_함.md "wikilink") (2x 평소)
   - **기타:**
       - 5× 300 갤런 외부연료탱크
       - 5× [AN/ALQ-99 재밍 포드](https://ko.wikipedia.org/wiki/AN/ALQ-99_재밍_포드 "wikilink")

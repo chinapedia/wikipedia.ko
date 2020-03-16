@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [TEAM SHACHI](https://ko.wikipedia.org/wiki/TEAM_SHACHI).
 
 
-**TEAM SHACHI**(팀 샤치, )는 [스타더스트 프로모션](https://ko.wikipedia.org/wiki/스타더스트_프로모션 "wikilink") 예능 3부 주니어 부문([3B junior](../Page/3B_junior.md "wikilink"))에 소속 중 [나고야](https://ko.wikipedia.org/wiki/나고야 "wikilink") 출신 멤버에 의해, 결성한 일본의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 원래 그룹명은 **팀 샤치호코**(, Team Syachihoko). [모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink") 등의 그룹과 함께 [STARDUST PLANET](https://ko.wikipedia.org/wiki/스타더스트_프로모션#음악_아티스트 "wikilink")(통칭 스타프라)를 구성한다.
+**TEAM SHACHI**(팀 샤치, )는 [스타더스트 프로모션](../Page/스타더스트_프로모션.md "wikilink") 예능 3부 주니어 부문([3B junior](../Page/3B_junior.md "wikilink"))에 소속 중 [나고야](https://ko.wikipedia.org/wiki/나고야 "wikilink") 출신 멤버에 의해, 결성한 일본의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 원래 그룹명은 **팀 샤치호코**(, Team Syachihoko). [모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink") 등의 그룹과 함께 [STARDUST PLANET](https://ko.wikipedia.org/wiki/스타더스트_프로모션#음악_아티스트 "wikilink")(통칭 스타프라)를 구성한다.
 
 ## 개요
 
-[모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink"), [시리츠에비스추가쿠](https://ko.wikipedia.org/wiki/시리츠에비스추가쿠 "wikilink")에 이어 자매 그룹으로서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") [나고야 성에서](https://ko.wikipedia.org/wiki/나고야_성 "wikilink") 노상 데뷔. 멤버는 모두 [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink") 출신으로 나고야 거주의 고등학생 ([2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 현재) 멤버 6명으로 구성되어 있으며, 나고야를 거점으로 활동하고 있다.
+[모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink"), [시리츠에비스추가쿠](../Page/시리츠에비스추가쿠.md "wikilink")에 이어 자매 그룹으로서 [2012년](../Page/2012년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") [나고야 성에서](https://ko.wikipedia.org/wiki/나고야_성 "wikilink") 노상 데뷔. 멤버는 모두 [아이치현](../Page/아이치현.md "wikilink") 출신으로 나고야 거주의 고등학생 ([2014년](../Page/2014년.md "wikilink") 현재) 멤버 6명으로 구성되어 있으며, 나고야를 거점으로 활동하고 있다.
 
-2012년 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에는 첫 투어가 되는「팀 샤치호코 제1회 나고야 메이저 데뷔 투어 \~10관왕에 시야치는 된다\!\~」을 개최해 [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에는 [워너 뮤직 재팬에서](https://ko.wikipedia.org/wiki/워너_뮤직_재팬 "wikilink") 나고야 메이저 데뷔했다. 그리고 8개월 후인 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에는「수도 이전 계획()」에서 전국 메이저 데뷔를 이룬다.
+2012년 [9월](../Page/9월.md "wikilink")에는 첫 투어가 되는「팀 샤치호코 제1회 나고야 메이저 데뷔 투어 \~10관왕에 시야치는 된다\!\~」을 개최해 [10월](../Page/10월.md "wikilink")에는 [워너 뮤직 재팬에서](../Page/워너_뮤직_재팬.md "wikilink") 나고야 메이저 데뷔했다. 그리고 8개월 후인 [2013년](../Page/2013년.md "wikilink") [6월](../Page/6월.md "wikilink")에는「수도 이전 계획()」에서 전국 메이저 데뷔를 이룬다.
 
-[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [10월 23일부터](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") 그룹명을 **팀 샤치호코**에서 **TEAM SHACHI**(팀 샤치)로 바뀌었다.
+[2018년](../Page/2018년.md "wikilink") [10월 23일부터](../Page/10월_23일.md "wikilink") 그룹명을 **팀 샤치호코**에서 **TEAM SHACHI**(팀 샤치)로 바뀌었다.
 
 ## 구성원
 
-이름, 생년월일, 이미지 컬러, 전원 [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink") 출신
+이름, 생년월일, 이미지 컬러, 전원 [아이치현](../Page/아이치현.md "wikilink") 출신
 
   - **[오구로 유즈키](https://ko.wikipedia.org/wiki/오구로_유즈키 "wikilink")** (, ) - <span style="color:purple">**보랏빛 퍼플(가)**</span>, 최연장자, 리더
   - **[사쿠라 나오](https://ko.wikipedia.org/wiki/사쿠라_나오 "wikilink")** (, ) - <span style="color:blue">**메리지 블루**</span>, 서브리더
@@ -23,9 +23,9 @@
 ### 전 구성원
 
   - [안도 유즈](https://ko.wikipedia.org/wiki/안도_유즈 "wikilink") (, ) - <span style="color:pink">**포니 핑크**</span>
-      - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") 졸업.
+      - [2016년](../Page/2016년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") 졸업.
   - [이토 치유리](https://ko.wikipedia.org/wiki/이토_치유리 "wikilink") (, ) - <span style="color:#FC3">**우이로우 옐로우**</span>
-      - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") 졸업.
+      - [2018년](../Page/2018년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") 졸업.
 
 ## 음반
 
@@ -49,7 +49,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>애인은 저격수 / 브레이! 샤치호코 데라어쿠스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/8월_24일" title="wikilink">8월 24일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -65,7 +65,7 @@
 <td><p>3</p></td>
 <td></td>
 <td><p>더 스타더스트 볼링</p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/10월_31일" title="wikilink">10월 31일</a></p></td>
+<td><p>2012년 <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a></p></td>
 <td><p>17</p></td>
 <td></td>
 </tr>
@@ -73,7 +73,7 @@
 <td><p>4</p></td>
 <td></td>
 <td><p>수도 이전 계획</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/6월_19일" title="wikilink">6월 19일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/6월_19일.md" title="wikilink">6월 19일</a></p></td>
 <td><p>11</p></td>
 <td></td>
 </tr>
@@ -81,7 +81,7 @@
 <td><p>5</p></td>
 <td></td>
 <td><p>사랑의 지구제</p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/10월_30일" title="wikilink">10월 30일</a></p></td>
+<td><p>2013년 <a href="../Page/10월_30일.md" title="wikilink">10월 30일</a></p></td>
 <td><p>5</p></td>
 <td></td>
 </tr>
@@ -89,7 +89,7 @@
 <td><p>6</p></td>
 <td></td>
 <td><p>이이쿠라시</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/5월_14일" title="wikilink">5월 14일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/5월_14일.md" title="wikilink">5월 14일</a></p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
@@ -97,7 +97,7 @@
 <td><p>7</p></td>
 <td></td>
 <td><p>샴푸 해트</p></td>
-<td><p>2014년 <a href="https://ko.wikipedia.org/wiki/12월_10일" title="wikilink">12월 10일</a></p></td>
+<td><p>2014년 <a href="../Page/12월_10일.md" title="wikilink">12월 10일</a></p></td>
 <td><p>4</p></td>
 <td></td>
 </tr>
@@ -105,7 +105,7 @@
 <td><p>8</p></td>
 <td></td>
 <td><p>천재 바카본</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/5월_13일" title="wikilink">5월 13일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/5월_13일.md" title="wikilink">5월 13일</a></p></td>
 <td><p>4</p></td>
 <td></td>
 </tr>
@@ -113,7 +113,7 @@
 <td><p>9</p></td>
 <td></td>
 <td><p>쉐리!</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/4월_7일" title="wikilink">4월 7일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a></p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
@@ -121,7 +121,7 @@
 <td><p>10</p></td>
 <td></td>
 <td><p>울트라 초 미라클 슈퍼 베리 파워볼</p></td>
-<td><p>2016년 <a href="https://ko.wikipedia.org/wiki/8월_3일" title="wikilink">8월 3일</a></p></td>
+<td><p>2016년 <a href="../Page/8월_3일.md" title="wikilink">8월 3일</a></p></td>
 <td><p>8</p></td>
 <td></td>
 </tr>
@@ -129,7 +129,7 @@
 <td><p>11</p></td>
 <td></td>
 <td><p>점프맨</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/2월_28일" title="wikilink">2월 28일</a></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a></p></td>
 <td><p>8</p></td>
 <td></td>
 </tr>
@@ -137,7 +137,7 @@
 <td><p>12</p></td>
 <td></td>
 <td><p>버닝 페스티벌</p></td>
-<td><p>2018년 <a href="https://ko.wikipedia.org/wiki/8월_29일" title="wikilink">8월 29일</a></p></td>
+<td><p>2018년 <a href="../Page/8월_29일.md" title="wikilink">8월 29일</a></p></td>
 <td><p>3</p></td>
 <td><p>밴드 <a href="https://ko.wikipedia.org/wiki/RADIO_FISH" title="wikilink">RADIO FISH와의</a> 콜라보 작품</p></td>
 </tr>
@@ -169,7 +169,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>로켓 퀸 feat. MCU / 록 어웨이</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/10월_2일" title="wikilink">10월 2일</a></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_2일.md" title="wikilink">10월 2일</a></p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="even">
@@ -223,14 +223,14 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>심심풀이</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/8월_20일" title="wikilink">8월 20일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/8월_20일.md" title="wikilink">8월 20일</a></p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td></td>
 <td><p>끝과 시작</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/2월_22일" title="wikilink">2월 22일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/2월_22일.md" title="wikilink">2월 22일</a></p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="odd">
@@ -269,14 +269,14 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>되잖아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/9월_30일" title="wikilink">9월 30일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/9월_30일.md" title="wikilink">9월 30일</a></p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td></td>
 <td><p>좋잖아</p></td>
-<td><p>2015년 <a href="https://ko.wikipedia.org/wiki/10월_28일" title="wikilink">10월 28일</a></p></td>
+<td><p>2015년 <a href="../Page/10월_28일.md" title="wikilink">10월 28일</a></p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
@@ -306,7 +306,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>팀 샤치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/2월_13일" title="wikilink">2월 13일</a></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/2월_13일.md" title="wikilink">2월 13일</a></p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="even">
@@ -338,7 +338,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>샤치베스트 2012-2017</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/10월_18일" title="wikilink">10월 18일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/10월_18일.md" title="wikilink">10월 18일</a></p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="even">
@@ -364,12 +364,12 @@
 ## 관련 항목
 
   - [모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink")
-  - [시리츠에비스추가쿠](https://ko.wikipedia.org/wiki/시리츠에비스추가쿠 "wikilink")
+  - [시리츠에비스추가쿠](../Page/시리츠에비스추가쿠.md "wikilink")
   - [다코야키 레인보우](../Page/다코야키_레인보우.md "wikilink")
   - [밧텐쇼죠타이](../Page/밧텐쇼죠타이.md "wikilink")
   - [도키메키 센덴부](../Page/도키메키_센덴부.md "wikilink")
   - [하치미츠 로켓](../Page/하치미츠_로켓.md "wikilink")
-  - [아메후라시](https://ko.wikipedia.org/wiki/아메후라시 "wikilink")
+  - [아메후라시](../Page/아메후라시.md "wikilink")
   - [ukka](https://ko.wikipedia.org/wiki/ukka "wikilink")
   - [이키나리 토호쿠산](../Page/이키나리_토호쿠산.md "wikilink")
   - [CROWN POP](../Page/CROWN_POP.md "wikilink")

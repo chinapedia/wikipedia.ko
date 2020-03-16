@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [36 KBS ](https://ko.wikipedia.org/wiki/36_KBS_).
 
 
-**36기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [박정환](https://ko.wikipedia.org/wiki/박정환_\(바둑_기사\) "wikilink") 九단 [김지석](https://ko.wikipedia.org/wiki/김지석_\(바둑_기사\) "wikilink") 九단을 2대 0로 꺾고 완봉승으로 우승하며 바둑왕전 통산 5회 우승을 달성했다.
+**36기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단 [김지석](../Page/김지석_\(바둑_기사\).md "wikilink") 九단을 2대 0로 꺾고 완봉승으로 우승하며 바둑왕전 통산 5회 우승을 달성했다.
 
 ## 출전 기사 명단
 
@@ -16,7 +16,7 @@
 | 대진     | 연도      | 대국일자                                                   | 승자                                                     | 패자                                                     | 결과 | 기보 |
 | ------ | ------- | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ | -- | -- |
 | 예선 1회전 | 2016년   | 12월 26일                                                | [조경호](https://ko.wikipedia.org/wiki/조경호 "wikilink") 五단 | [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 九단 |    |    |
-| 예선 2회전 | 12월 28일 | [송지훈](https://ko.wikipedia.org/wiki/송지훈 "wikilink") 二단 | [서봉수](https://ko.wikipedia.org/wiki/서봉수 "wikilink") 九단 |                                                        |    |    |
+| 예선 2회전 | 12월 28일 | [송지훈](https://ko.wikipedia.org/wiki/송지훈 "wikilink") 二단 | [서봉수](../Page/서봉수.md "wikilink") 九단                    |                                                        |    |    |
 |        |         |                                                        |                                                        |                                                        |    |    |
 
 ### 본선
@@ -25,12 +25,12 @@
 | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------ | ----------- | -- |
 | 48강전                                                             | 2017년                                                            | 1월 16일                                                           | [이동훈](https://ko.wikipedia.org/wiki/이동훈_\(바둑_기사\) "wikilink") 八단 | [최정](../Page/최정_\(바둑_기사\).md "wikilink") 四단            | 205수 흑 불계승  |    |
 | [김기용](https://ko.wikipedia.org/wiki/김기용_\(바둑_기사\) "wikilink") 八단 | [신민준](../Page/신민준.md "wikilink") 七단                              | 265수 백 1집반승                                                      |                                                                  |                                                        |             |    |
-| 32강전                                                             | 7월 24일                                                           | [한승주](https://ko.wikipedia.org/wiki/한승주 "wikilink") 六단           | [윤준상](https://ko.wikipedia.org/wiki/윤준상 "wikilink") 九단           | 148수 백 불계승                                             |             |    |
+| 32강전                                                             | 7월 24일                                                           | [한승주](../Page/한승주.md "wikilink") 六단                              | [윤준상](https://ko.wikipedia.org/wiki/윤준상 "wikilink") 九단           | 148수 백 불계승                                             |             |    |
 | [안성준](https://ko.wikipedia.org/wiki/안성준 "wikilink") 七단           | [박상진](https://ko.wikipedia.org/wiki/박상진_\(바둑_기사\) "wikilink") 二단 | 148수 백 불계승                                                       |                                                                  |                                                        |             |    |
 | 8강전                                                              | 2018년                                                            | 1월 17일                                                           | [온소진](https://ko.wikipedia.org/wiki/온소진 "wikilink") 七단           | [조한승](https://ko.wikipedia.org/wiki/조한승 "wikilink") 九단 | 232수 백 3집반승 |    |
-| [박정환](https://ko.wikipedia.org/wiki/박정환_\(바둑_기사\) "wikilink") 九단 | [목진석](https://ko.wikipedia.org/wiki/목진석 "wikilink") 九단           | 160수 백 불계승                                                       |                                                                  |                                                        |             |    |
-| 1월 18일                                                           | [김명훈](https://ko.wikipedia.org/wiki/김명훈_\(바둑_기사\) "wikilink") 六단 | [이세돌](https://ko.wikipedia.org/wiki/이세돌 "wikilink") 九단           | 282수 백 불계승                                                       |                                                        |             |    |
-| 1월 24일                                                           | [김지석](https://ko.wikipedia.org/wiki/김지석_\(바둑_기사\) "wikilink") 九단 | [김기용](https://ko.wikipedia.org/wiki/김기용_\(바둑_기사\) "wikilink") 八단 | 172수 백 불계승                                                       |                                                        |             |    |
+| [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단                    | [목진석](../Page/목진석.md "wikilink") 九단                              | 160수 백 불계승                                                       |                                                                  |                                                        |             |    |
+| 1월 18일                                                           | [김명훈](https://ko.wikipedia.org/wiki/김명훈_\(바둑_기사\) "wikilink") 六단 | [이세돌](../Page/이세돌.md "wikilink") 九단                              | 282수 백 불계승                                                       |                                                        |             |    |
+| 1월 24일                                                           | [김지석](../Page/김지석_\(바둑_기사\).md "wikilink") 九단                    | [김기용](https://ko.wikipedia.org/wiki/김기용_\(바둑_기사\) "wikilink") 八단 | 172수 백 불계승                                                       |                                                        |             |    |
 | 준결승전                                                             | 3월 5일                                                            | 박정환 九단                                                           | [온소진](https://ko.wikipedia.org/wiki/온소진 "wikilink") 七단           | 197수 흑 불계승                                             |             |    |
 | 김지석 九단                                                           | 김명훈 六단                                                           | 160수 백 불계승                                                       |                                                                  |                                                        |             |    |
 | 결승 1국                                                            | 3월 12일                                                           | 박정환 九단                                                           | 김지석 九단                                                           | 256수 백 불계승                                             |             |    |
@@ -39,7 +39,7 @@
 
 ## TV 중계
 
-  - [박정상](https://ko.wikipedia.org/wiki/박정상 "wikilink") 九단의 해설로 이소용 아마5단이 진행하였다. 결승 2국(최종국) 끝난 후 시상식에는 우승자 준우승자만 각각 우승상금, 준우승상금 & 우승트로피, 준우승트로피를 전달하며 인터뷰를 하였으나 방송(다시보기)에서는 시상식 인터뷰를 하지 않았다.
+  - [박정상](../Page/박정상.md "wikilink") 九단의 해설로 이소용 아마5단이 진행하였다. 결승 2국(최종국) 끝난 후 시상식에는 우승자 준우승자만 각각 우승상금, 준우승상금 & 우승트로피, 준우승트로피를 전달하며 인터뷰를 하였으나 방송(다시보기)에서는 시상식 인터뷰를 하지 않았다.
 
 ## 특이 사항
 

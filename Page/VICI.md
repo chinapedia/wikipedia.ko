@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VICI](https://ko.wikipedia.org/wiki/VICI).
 
 
-**VICI**는 NASA에 제안된 금성 대기권 및 표면 탐사선이다.\[1\]\[2\]\[3\] 목적은 금성의 기원과 [아라크노이드](https://ko.wikipedia.org/wiki/아라크노이드 "wikilink")가 생기는 이유를 알아내는 것이다. 또한, 금성의 [지질](https://ko.wikipedia.org/wiki/지질 "wikilink"), [맨틀](https://ko.wikipedia.org/wiki/맨틀 "wikilink"), [외핵](https://ko.wikipedia.org/wiki/외핵 "wikilink"), [내핵](https://ko.wikipedia.org/wiki/내핵 "wikilink") 등도 탐사대상으로 탐사할 예정이었다.\[4\]\[5\] 뉴 프론티어 계획에 제안되어 연구팀은 연구비를 상납받았으나 최종적으로 다른 탐사선이 선출되면서 취소되었다.\[6\]
+**VICI**는 NASA에 제안된 금성 대기권 및 표면 탐사선이다.\[1\]\[2\]\[3\] 목적은 금성의 기원과 [아라크노이드](https://ko.wikipedia.org/wiki/아라크노이드 "wikilink")가 생기는 이유를 알아내는 것이다. 또한, 금성의 [지질](https://ko.wikipedia.org/wiki/지질 "wikilink"), [맨틀](../Page/맨틀.md "wikilink"), [외핵](https://ko.wikipedia.org/wiki/외핵 "wikilink"), [내핵](https://ko.wikipedia.org/wiki/내핵 "wikilink") 등도 탐사대상으로 탐사할 예정이었다.\[4\]\[5\] 뉴 프론티어 계획에 제안되어 연구팀은 연구비를 상납받았으나 최종적으로 다른 탐사선이 선출되면서 취소되었다.\[6\]
 
 ## 역사와 제작배경
 

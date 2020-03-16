@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [H](https://ko.wikipedia.org/wiki/H).
 
 
-**에이치솔루션**(H Solution)는 한화그룹 계열의 홈네트워크 솔루션 전문기업이다. 1992년 발족해 [한화그룹](https://ko.wikipedia.org/wiki/한화그룹 "wikilink") 종합운영 서비스 사업을 수행, 2001년 4월 (주)[한화](https://ko.wikipedia.org/wiki/한화 "wikilink")로부터 분사하였다. 이후 사업 확대를 추진하여 IT컨설팅, IT아웃소싱, SI(System Integration), NI(Network Integration), 산업 자동화 및 IBS, 사이버교육, 홈네트워크 솔루션, U-city 등 차별화된 서비스를 제공하고 있다.
+**에이치솔루션**(H Solution)는 한화그룹 계열의 홈네트워크 솔루션 전문기업이다. 1992년 발족해 [한화그룹](../Page/한화그룹.md "wikilink") 종합운영 서비스 사업을 수행, 2001년 4월 (주)[한화](../Page/한화.md "wikilink")로부터 분사하였다. 이후 사업 확대를 추진하여 IT컨설팅, IT아웃소싱, SI(System Integration), NI(Network Integration), 산업 자동화 및 IBS, 사이버교육, 홈네트워크 솔루션, U-city 등 차별화된 서비스를 제공하고 있다.
 
 ## 비전
 

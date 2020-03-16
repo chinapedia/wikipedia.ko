@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [COLOR\*IZ](https://ko.wikipedia.org/wiki/COLOR\*IZ).
 
 
-《**COLOR\*IZ**》(컬러라이즈)는 대한민국과 일본의 합작 걸그룹 [아이즈원](../Page/아이즈원.md "wikilink")의 데뷔 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). 2018년 10월 29일에 발매되었다.
+《**COLOR\*IZ**》(컬러라이즈)는 대한민국과 일본의 합작 걸그룹 [아이즈원](../Page/아이즈원.md "wikilink")의 데뷔 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 2018년 10월 29일에 발매되었다.
 
 ## 개요
 

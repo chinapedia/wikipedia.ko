@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Another Days....](https://ko.wikipedia.org/wiki/Another_Days....).
 
 
-**《Kim Gunmo \#007 Another Days....》**는 2001년 5월 14일에 발매된 [김건모](https://ko.wikipedia.org/wiki/김건모 "wikilink")의 7집 앨범이다.
+**《Kim Gunmo \#007 Another Days....》**는 2001년 5월 14일에 발매된 [김건모](../Page/김건모.md "wikilink")의 7집 앨범이다.
 
 ## 수록곡
 
@@ -16,27 +16,27 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/김건모" title="wikilink">김건모</a> - <a href="https://ko.wikipedia.org/wiki/음악_프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>(1, 2, 4, 6, 7, 9)</li>
+<li><a href="../Page/김건모.md" title="wikilink">김건모</a> - <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>(1, 2, 4, 6, 7, 9)</li>
 </ul>
 <dl>
 <dt>참여 음악인</dt>
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a> - <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>(1)</li>
-<li>이태윤 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>(1, 3)</li>
+<li><a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a> - <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>(1)</li>
+<li>이태윤 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(1, 3)</li>
 <li><a href="https://ko.wikipedia.org/wiki/강수호_(드러머)" title="wikilink">강수호</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>(1)</li>
 <li>최태완 - <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반</a>(1)</li>
 <li>김영용 - <a href="https://ko.wikipedia.org/wiki/타악기" title="wikilink">타악기</a>(1)</li>
 <li>한원종 - 코러스(1, 2, 5, 6)</li>
 <li>전승우 - 코러스(1)</li>
-<li>나원주 - <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>(3)</li>
-<li>양현 외 9인 - <a href="https://ko.wikipedia.org/wiki/바이올린" title="wikilink">바이올린</a>(3, 5)</li>
-<li>한넬리, 박세진, 정운주 - <a href="https://ko.wikipedia.org/wiki/비올라" title="wikilink">비올라</a>(3, 5)</li>
-<li>김준원 - <a href="https://ko.wikipedia.org/wiki/첼로" title="wikilink">첼로</a>(3, 5)</li>
+<li>나원주 - <a href="../Page/피아노.md" title="wikilink">피아노</a>(3)</li>
+<li>양현 외 9인 - <a href="../Page/바이올린.md" title="wikilink">바이올린</a>(3, 5)</li>
+<li>한넬리, 박세진, 정운주 - <a href="../Page/비올라.md" title="wikilink">비올라</a>(3, 5)</li>
+<li>김준원 - <a href="../Page/첼로.md" title="wikilink">첼로</a>(3, 5)</li>
 <li>장혁 - 드럼(3)</li>
 <li>이근형 - 전기 기타(4, 9)</li>
-<li><a href="https://ko.wikipedia.org/wiki/김형석_(음악가)" title="wikilink">김형석</a> - 피아노(5)</li>
+<li><a href="../Page/김형석_(음악가).md" title="wikilink">김형석</a> - 피아노(5)</li>
 </ul>
 <dl>
 <dt>스탭</dt>
@@ -48,7 +48,7 @@
 <li>장민철, 최영희, 김경환, 임정빈 - 녹음</li>
 <li>최효영(소닉 코리아) - <a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a></li>
 <li>권지아 - 아트 디렉터, 디자인</li>
-<li><a href="https://ko.wikipedia.org/wiki/강영호" title="wikilink">강영호</a> - <a href="https://ko.wikipedia.org/wiki/사진" title="wikilink">사진</a></li>
+<li><a href="https://ko.wikipedia.org/wiki/강영호" title="wikilink">강영호</a> - <a href="../Page/사진.md" title="wikilink">사진</a></li>
 <li>이지송 - 일러스트레이터</li>
 <li>유은경, 유진영, 조윤진, 김혜연 - 스타일리스트</li>
 <li>태인미디어 - <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a></li>

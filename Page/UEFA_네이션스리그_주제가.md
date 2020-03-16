@@ -5,7 +5,7 @@
 
 ## 역사
 
-[조르지오 투인포르트와](https://ko.wikipedia.org/wiki/조르지오_투인포르트 "wikilink") [프랑크 반 데르 하이든이](https://ko.wikipedia.org/wiki/프랑크_반_데르_하이든 "wikilink") 작곡한 것으로 네덜란드 라디오 합창단과 힐러스에 본부를 둔 라디오 필하모닉 오케스트라의 도움으로 녹음했다. "The Nations League"부분을 제외하면 전부 [라틴어](https://ko.wikipedia.org/wiki/라틴어 "wikilink")이다.
+[조르지오 투인포르트와](https://ko.wikipedia.org/wiki/조르지오_투인포르트 "wikilink") [프랑크 반 데르 하이든이](https://ko.wikipedia.org/wiki/프랑크_반_데르_하이든 "wikilink") 작곡한 것으로 네덜란드 라디오 합창단과 힐러스에 본부를 둔 라디오 필하모닉 오케스트라의 도움으로 녹음했다. "The Nations League"부분을 제외하면 전부 [라틴어](../Page/라틴어.md "wikilink")이다.
 
 ## 가사
 

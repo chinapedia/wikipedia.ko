@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hells Bells](https://ko.wikipedia.org/wiki/Hells_Bells).
 
 
-〈**Hells Bells**〉는 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")의 [하드 록](https://ko.wikipedia.org/wiki/하드_록 "wikilink") 밴드 [AC/DC](https://ko.wikipedia.org/wiki/AC/DC "wikilink")의 일곱 번째 스튜디오 음반이자 리드 싱어 [본 스콧의](https://ko.wikipedia.org/wiki/본_스콧 "wikilink") 사망 이후 컴백 음반인 《[Back in Black](../Page/Back_in_Black.md "wikilink")》의 첫 곡이다. 〈Hells Bells〉는 1980년 10월 31일에 발매된 《Back in Black》의 두 번째 싱글이다. 이 곡은 또한 《[Who Made Who](https://ko.wikipedia.org/wiki/Who_Made_Who "wikilink")》, AC/DC의 1986년 사운드트랙에서 [스티븐 킹](https://ko.wikipedia.org/wiki/스티븐_킹 "wikilink") 영화 《[맥시멈 오버드라이브](https://ko.wikipedia.org/wiki/맥시멈_오버드라이브 "wikilink")》와 1992년 《[AC/DC Live](https://ko.wikipedia.org/wiki/AC/DC_Live "wikilink")》의 두 버전에 나타난다.
+〈**Hells Bells**〉는 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")의 [하드 록](../Page/하드_록.md "wikilink") 밴드 [AC/DC](https://ko.wikipedia.org/wiki/AC/DC "wikilink")의 일곱 번째 스튜디오 음반이자 리드 싱어 [본 스콧의](../Page/본_스콧.md "wikilink") 사망 이후 컴백 음반인 《[Back in Black](../Page/Back_in_Black.md "wikilink")》의 첫 곡이다. 〈Hells Bells〉는 1980년 10월 31일에 발매된 《Back in Black》의 두 번째 싱글이다. 이 곡은 또한 《[Who Made Who](https://ko.wikipedia.org/wiki/Who_Made_Who "wikilink")》, AC/DC의 1986년 사운드트랙에서 [스티븐 킹](../Page/스티븐_킹.md "wikilink") 영화 《[맥시멈 오버드라이브](https://ko.wikipedia.org/wiki/맥시멈_오버드라이브 "wikilink")》와 1992년 《[AC/DC Live](https://ko.wikipedia.org/wiki/AC/DC_Live "wikilink")》의 두 버전에 나타난다.
 
 ## 참여 인원
 

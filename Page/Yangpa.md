@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Yangpa](https://ko.wikipedia.org/wiki/Yangpa).
 
 
-**《Yangpa》**는 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 발매된 [양파의](https://ko.wikipedia.org/wiki/양파_\(가수\) "wikilink") 1집 데뷔 음반이다.
+**《Yangpa》**는 [1997년](../Page/1997년.md "wikilink")에 발매된 [양파의](../Page/양파_\(가수\).md "wikilink") 1집 데뷔 음반이다.
 
 ## 수록곡
 

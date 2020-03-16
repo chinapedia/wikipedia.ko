@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A\'DDIO](https://ko.wikipedia.org/wiki/A\'DDIO).
 
 
-**《A’DDIO》**는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 발매된 [양파의](https://ko.wikipedia.org/wiki/양파_\(가수\) "wikilink") 3집 앨범이다.
+**《A’DDIO》**는 [1999년](../Page/1999년.md "wikilink")에 발매된 [양파의](../Page/양파_\(가수\).md "wikilink") 3집 앨범이다.
 
 ## 수록곡
 

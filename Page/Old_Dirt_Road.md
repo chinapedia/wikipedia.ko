@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Old Dirt Road](https://ko.wikipedia.org/wiki/Old_Dirt_Road).
 
 
-〈**Old Dirt Road**〉는 [존 레논과](https://ko.wikipedia.org/wiki/존_레논 "wikilink") [해리 닐슨이](../Page/해리_닐슨.md "wikilink") 1974년 레논의 음반 《[Walls and Bridges](https://ko.wikipedia.org/wiki/Walls_and_Bridges "wikilink")》에 처음 발표한 곡이다.\[1\] 닐슨은 나중에 그의 1980년 음반 《[Flash Harry](https://ko.wikipedia.org/wiki/Flash_Harry "wikilink")》에 그 노래를 녹음했다.
+〈**Old Dirt Road**〉는 [존 레논과](../Page/존_레논.md "wikilink") [해리 닐슨이](../Page/해리_닐슨.md "wikilink") 1974년 레논의 음반 《[Walls and Bridges](https://ko.wikipedia.org/wiki/Walls_and_Bridges "wikilink")》에 처음 발표한 곡이다.\[1\] 닐슨은 나중에 그의 1980년 음반 《[Flash Harry](https://ko.wikipedia.org/wiki/Flash_Harry "wikilink")》에 그 노래를 녹음했다.
 
 ## 가사 & 음악
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Caribou](https://ko.wikipedia.org/wiki/Caribou).
 
 
-《**Caribou**》는 1974년에 [엘튼 존이](https://ko.wikipedia.org/wiki/엘튼_존 "wikilink") 발표한 여덟 번째 스튜디오 음반이다. 이 음반은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 그의 네 번째, [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 세 번째 음반이었다. 이 음반에는 싱글 음반 〈[Don't Let the Sun Go Down on Me](https://ko.wikipedia.org/wiki/Don't_Let_the_Sun_Go_Down_on_Me "wikilink")〉가 들어 있는데, 이 싱글 곡은 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 16위에 올랐고 미국에서 2위에 올랐으며, 〈[The Bitch Is Back](https://ko.wikipedia.org/wiki/The_Bitch_Is_Back "wikilink")〉은 영국에서 15위에, 미국에서는 4위에 올랐다. 이 싱글들은 모두 《[RPM 100](https://ko.wikipedia.org/wiki/RPM_\(잡지\) "wikilink")》 내셔널 톱 싱글 차트에서 (음반 자체와 마찬가지로) [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서 1위에 올랐다.\[1\] 미국에서 이 음반은 1974년 7월에 골드 인증을 받았고 [미국 음반 산업 협회에](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink") 의해 1993년 3월에 플래티넘과 플래티넘 2배 인증을 받았다. 이 음반은 제17회 그래미 시상식에서 올해의 앨범상 후보에 올랐다.
+《**Caribou**》는 1974년에 [엘튼 존이](../Page/엘튼_존.md "wikilink") 발표한 여덟 번째 스튜디오 음반이다. 이 음반은 [미국](../Page/미국.md "wikilink")에서 그의 네 번째, [영국](../Page/영국.md "wikilink")에서 세 번째 음반이었다. 이 음반에는 싱글 음반 〈[Don't Let the Sun Go Down on Me](../Page/Don't_Let_the_Sun_Go_Down_on_Me.md "wikilink")〉가 들어 있는데, 이 싱글 곡은 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 16위에 올랐고 미국에서 2위에 올랐으며, 〈[The Bitch Is Back](https://ko.wikipedia.org/wiki/The_Bitch_Is_Back "wikilink")〉은 영국에서 15위에, 미국에서는 4위에 올랐다. 이 싱글들은 모두 《[RPM 100](https://ko.wikipedia.org/wiki/RPM_\(잡지\) "wikilink")》 내셔널 톱 싱글 차트에서 (음반 자체와 마찬가지로) [캐나다](../Page/캐나다.md "wikilink")에서 1위에 올랐다.\[1\] 미국에서 이 음반은 1974년 7월에 골드 인증을 받았고 [미국 음반 산업 협회에](../Page/미국_음반_산업_협회.md "wikilink") 의해 1993년 3월에 플래티넘과 플래티넘 2배 인증을 받았다. 이 음반은 제17회 그래미 시상식에서 올해의 앨범상 후보에 올랐다.
 
 ## 곡 목록
 
-모든 곡들은 특별한 언급이 없는 한 [엘튼 존과](https://ko.wikipedia.org/wiki/엘튼_존 "wikilink") [버니 토핀에](https://ko.wikipedia.org/wiki/버니_토핀 "wikilink") 의해 작사/작곡하였다.
+모든 곡들은 특별한 언급이 없는 한 [엘튼 존과](../Page/엘튼_존.md "wikilink") [버니 토핀에](../Page/버니_토핀.md "wikilink") 의해 작사/작곡하였다.
 
 **Side one**
 
@@ -26,7 +26,7 @@
 
 2.  "Stinker" – 5:20
 
-3.  "[Don't Let the Sun Go Down on Me](https://ko.wikipedia.org/wiki/Don't_Let_the_Sun_Go_Down_on_Me "wikilink")" – 5:36
+3.  "[Don't Let the Sun Go Down on Me](../Page/Don't_Let_the_Sun_Go_Down_on_Me.md "wikilink")" – 5:36
 
 4.  "Ticking" – 7:33
 
@@ -38,7 +38,7 @@
 
     <li value=11>
 
-    "[Pinball Wizard](https://ko.wikipedia.org/wiki/Pinball_Wizard "wikilink")" ([피트 타운젠드](https://ko.wikipedia.org/wiki/피트_타운젠드 "wikilink")) – 5:09
+    "[Pinball Wizard](https://ko.wikipedia.org/wiki/Pinball_Wizard "wikilink")" ([피트 타운젠드](../Page/피트_타운젠드.md "wikilink")) – 5:09
 
 2.  "[Sick City](https://ko.wikipedia.org/wiki/Sick_City "wikilink")" – 5:23
 

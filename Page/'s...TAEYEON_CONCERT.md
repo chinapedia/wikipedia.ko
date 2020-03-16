@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [\'s...TAEYEON CONCERT](https://ko.wikipedia.org/wiki/\'s...TAEYEON_CONCERT).
 
 
-《**'s...TAEYEON CONCERT**》는 대한민국의 음악 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 멤버 [태연](https://ko.wikipedia.org/wiki/태연 "wikilink")의 세 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\] 팬덤 내에서는 **슦콘**으로 약칭하기도 한다.
+《**'s...TAEYEON CONCERT**》는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 멤버 [태연](../Page/태연.md "wikilink")의 세 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\] 팬덤 내에서는 **슦콘**으로 약칭하기도 한다.
 
 ## 개요
 
-2018년 9월 17일, [SM 엔터테인먼트는](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 공식 홈페이지를 통해 태연의 세 번째 콘서트 투어의 서울 일정을 발표하였고 예매는 3일 뒤인 20일 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 진행되었다.
+2018년 9월 17일, [SM 엔터테인먼트는](../Page/SM_엔터테인먼트.md "wikilink") 공식 홈페이지를 통해 태연의 세 번째 콘서트 투어의 서울 일정을 발표하였고 예매는 3일 뒤인 20일 [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다.
 
 ## s...one
 
-2019년 2월 19일, [SM 엔터테인먼트는](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 공식 홈페이지를 통해 앙코르 일정을 발표하였고 예매는 7일 뒤인 20일 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 진행되었다.\[2\] 앙코르 콘서트 격의 해당 투어는 투어에 발맞춰 발표된 디지털 싱글 〈사계 (Four Seasons)〉를 비롯한 부가적인 요소가 추가되었다.
+2019년 2월 19일, [SM 엔터테인먼트는](../Page/SM_엔터테인먼트.md "wikilink") 공식 홈페이지를 통해 앙코르 일정을 발표하였고 예매는 7일 뒤인 20일 [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다.\[2\] 앙코르 콘서트 격의 해당 투어는 투어에 발맞춰 발표된 디지털 싱글 〈사계 (Four Seasons)〉를 비롯한 부가적인 요소가 추가되었다.
 
 ## 투어 일정
 
@@ -28,7 +28,7 @@
 <td><p>2018년 10월 20일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잠실실내체육관" title="wikilink">잠실실내체육관</a>[3]</p></td>
+<td><p><a href="../Page/잠실실내체육관.md" title="wikilink">잠실실내체육관</a>[3]</p></td>
 <td><p>통산 12,000명</p></td>
 </tr>
 <tr class="even">
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>2018년 12월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>썬더 돔[5]</p></td>
 <td><p>통산 9,500명</p></td>
@@ -61,7 +61,7 @@
 </tr>
 <tr class="even">
 <td><p>2018년 12월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<td><p><a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td></td>
 <td><p>뉴프론티어 극장</p></td>
 <td><p>2,500명</p></td>
@@ -77,7 +77,7 @@
 <td><p>2019년 3월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잠실실내체육관" title="wikilink">잠실실내체육관</a>[7]<small>(s...one)</small></p></td>
+<td><p><a href="../Page/잠실실내체육관.md" title="wikilink">잠실실내체육관</a>[7]<small>(s...one)</small></p></td>
 <td><p>통산 12,000명</p></td>
 </tr>
 <tr class="odd">
@@ -112,7 +112,7 @@
 <td style="text-align: left;"><p>키노 비디오</p></td>
 <td style="text-align: left;"><p>'s...TAEYEON CONCERT Kihno Video</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/4월_4일" title="wikilink">4월 4일</a></li>
+<li>발매일 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_4일.md" title="wikilink">4월 4일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -122,7 +122,7 @@
 
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
 
 ## 각주
 

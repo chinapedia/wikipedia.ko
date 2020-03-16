@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [Love \(  \)](https://ko.wikipedia.org/wiki/Love_\(__\)).
 
 
-〈**Love**〉는 [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 작곡하고 공연한 곡으로, 원래는 《[John Lennon/Plastic Ono Band](https://ko.wikipedia.org/wiki/John_Lennon/Plastic_Ono_Band "wikilink")》(1970년)에 발매되었다. 이 곡의 주제는 음반에 있는 대부분의 노래들보다 더 긍정적이다.\[1\]
+〈**Love**〉는 [존 레논이](../Page/존_레논.md "wikilink") 작곡하고 공연한 곡으로, 원래는 《[John Lennon/Plastic Ono Band](https://ko.wikipedia.org/wiki/John_Lennon/Plastic_Ono_Band "wikilink")》(1970년)에 발매되었다. 이 곡의 주제는 음반에 있는 대부분의 노래들보다 더 긍정적이다.\[1\]
 
 ## 참여 인원
 
 원본 녹음에서 연주한 음악가는 다음과 같다.
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") - 보컬, 어쿠스틱 기타
-  - [필 스펙터](https://ko.wikipedia.org/wiki/필_스펙터 "wikilink") - 피아노
+  - [존 레논](../Page/존_레논.md "wikilink") - 보컬, 어쿠스틱 기타
+  - [필 스펙터](../Page/필_스펙터.md "wikilink") - 피아노
 
 ## 외부 링크
 

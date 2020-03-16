@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [V-    ](https://ko.wikipedia.org/wiki/V-____).
 
 
-다음은 [V-리그](https://ko.wikipedia.org/wiki/V-리그_\(대한민국\) "wikilink") 여자부에서 활동했거나 활동 중인 외국인 선수의 목록이다. V-리그 여자부 외국인 선수 제도는 2006-07 시즌부터 [자유계약선수제도](https://ko.wikipedia.org/wiki/자유계약선수제도 "wikilink") 방식으로 도입되었으며, 이후 2015-16 시즌부터 현재의 트라이아웃제도로 변경되어 시행 중이다.
+다음은 [V-리그](../Page/V-리그_\(대한민국\).md "wikilink") 여자부에서 활동했거나 활동 중인 외국인 선수의 목록이다. V-리그 여자부 외국인 선수 제도는 2006-07 시즌부터 [자유계약선수제도](../Page/자유계약선수제도.md "wikilink") 방식으로 도입되었으며, 이후 2015-16 시즌부터 현재의 트라이아웃제도로 변경되어 시행 중이다.
 
 ## 국가별
 

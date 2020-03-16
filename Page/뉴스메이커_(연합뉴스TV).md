@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(TV\)](https://ko.wikipedia.org/wiki/_\(TV\)).
 
 
-《**뉴스메이커**》는 [연합뉴스TV](https://ko.wikipedia.org/wiki/연합뉴스TV "wikilink")에서 평일 저녁 6시 30분, 주말 저녁 7시에 방송되는 [연합뉴스TV](https://ko.wikipedia.org/wiki/연합뉴스TV "wikilink")의 저녁뉴스 프로그램이다. 주말, 공휴일에는 **뉴스 19**라는 타이틀로 방송된다.
+《**뉴스메이커**》는 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")에서 평일 저녁 6시 30분, 주말 저녁 7시에 방송되는 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")의 저녁뉴스 프로그램이다. 주말, 공휴일에는 **뉴스 19**라는 타이틀로 방송된다.
 
 ## 방송 시간
 
@@ -15,8 +15,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/연합뉴스TV" title="wikilink">연합뉴스TV</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/12월_1일" title="wikilink">12월 1일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/연합뉴스TV.md" title="wikilink">연합뉴스TV</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/12월_1일.md" title="wikilink">12월 1일</a> ~ <strong>현재</strong></p></td>
 <td><p>평일 저녁 6시 30분 ~ 7시 30분 (1시간)<br />
 주말 저녁 7시 ~ 8시 (1시간)</p></td>
 </tr>
@@ -61,8 +61,8 @@
 
 ## 경쟁 뉴스 프로그램
 
-  - [KBS 뉴스 7](https://ko.wikipedia.org/wiki/KBS_뉴스_7 "wikilink") ([KBS1TV](https://ko.wikipedia.org/wiki/KBS1TV "wikilink"))
-  - [뉴스 통](https://ko.wikipedia.org/wiki/뉴스_통 "wikilink") ([YTN](https://ko.wikipedia.org/wiki/YTN "wikilink"))
+  - [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink") ([KBS1TV](https://ko.wikipedia.org/wiki/KBS1TV "wikilink"))
+  - [뉴스 통](https://ko.wikipedia.org/wiki/뉴스_통 "wikilink") ([YTN](../Page/YTN.md "wikilink"))
 
 ## 외부 링크
 

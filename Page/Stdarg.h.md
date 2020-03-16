@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Stdarg.h](https://ko.wikipedia.org/wiki/Stdarg.h).
 
 
-**`stdarg.h`**는 [C의](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") [C 표준 라이브러리의](https://ko.wikipedia.org/wiki/C_표준_라이브러리 "wikilink") 헤더로 인자 수를 [제한 없이 할 수 있도록](https://ko.wikipedia.org/wiki/가변_함수 "wikilink") 하는 함수를 허용할 수 있도록 한다.\[1\] 이 헤더는 알려지지 않는 숫자나 타입의 함수 인자 목록을 통한 절차를 위한 기능을 제공한다. [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")에서는 이 기능을 `cstdarg`에서 제공한다.
+**`stdarg.h`**는 [C의](../Page/C_\(프로그래밍_언어\).md "wikilink") [C 표준 라이브러리의](../Page/C_표준_라이브러리.md "wikilink") 헤더로 인자 수를 [제한 없이 할 수 있도록](https://ko.wikipedia.org/wiki/가변_함수 "wikilink") 하는 함수를 허용할 수 있도록 한다.\[1\] 이 헤더는 알려지지 않는 숫자나 타입의 함수 인자 목록을 통한 절차를 위한 기능을 제공한다. [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")에서는 이 기능을 `cstdarg`에서 제공한다.
 
 `stdarg.h`의 내용은 가변 함수라 불리는 다른 함수 (예 - [vprintf](https://ko.wikipedia.org/wiki/vprintf "wikilink"))에 쓰이나 일반적으로 [가변 함수에](https://ko.wikipedia.org/wiki/가변_함수 "wikilink") 쓰인다.
 

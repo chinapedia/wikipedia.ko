@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [What a Wonderful World](https://ko.wikipedia.org/wiki/What_a_Wonderful_World).
 
 
-〈**What a Wonderful World**〉는 [밥 티엘과](https://ko.wikipedia.org/wiki/밥_티엘 "wikilink") [조지 데이빗 웨이스가](https://ko.wikipedia.org/wiki/조지_데이빗_웨이스 "wikilink") 작곡한 팝 발라드이다. 이 곡은 [루이 암스트롱에](https://ko.wikipedia.org/wiki/루이_암스트롱 "wikilink") 의해 처음 기록되었고 싱글곡으로 1967년에 발표되었는데, 이 곡은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 팝 차트에서 1위를 차지했다.\[1\] 티엘과 웨이스는 음악계에서 둘 다 뛰어났다(프로듀서로서 티엘과 작곡가로서 웨이스).\[2\] 암스트롱의 녹음은 1999년 [그래미 명예의 전당에](https://ko.wikipedia.org/wiki/그래미_명예의_전당 "wikilink") 올랐다.
+〈**What a Wonderful World**〉는 [밥 티엘과](https://ko.wikipedia.org/wiki/밥_티엘 "wikilink") [조지 데이빗 웨이스가](https://ko.wikipedia.org/wiki/조지_데이빗_웨이스 "wikilink") 작곡한 팝 발라드이다. 이 곡은 [루이 암스트롱에](../Page/루이_암스트롱.md "wikilink") 의해 처음 기록되었고 싱글곡으로 1967년에 발표되었는데, 이 곡은 [영국](../Page/영국.md "wikilink")에서 팝 차트에서 1위를 차지했다.\[1\] 티엘과 웨이스는 음악계에서 둘 다 뛰어났다(프로듀서로서 티엘과 작곡가로서 웨이스).\[2\] 암스트롱의 녹음은 1999년 [그래미 명예의 전당에](https://ko.wikipedia.org/wiki/그래미_명예의_전당 "wikilink") 올랐다.
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PD  ](https://ko.wikipedia.org/wiki/PD__).
 
 
-아래는 [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")의 [탐사보도](../Page/탐사보도.md "wikilink") 시사 프로그램인 《**[PD수첩](https://ko.wikipedia.org/wiki/PD수첩 "wikilink")**》의 **에피소드 목록**이다.
+아래는 [문화방송](../Page/문화방송.md "wikilink")의 [탐사보도](../Page/탐사보도.md "wikilink") 시사 프로그램인 《**[PD수첩](../Page/PD수첩.md "wikilink")**》의 **에피소드 목록**이다.
 
 ## 1990년대
 
@@ -84,9 +84,9 @@
   - 4월 7일, 72회 : 《한 흑 갈등 그 현장을 가다》
   - 4월 14일, 73회 : 《민족정기 찾은 어느 행동대원 / 늘어가는 불법체류 외국인 범죄》
   - 4월 21일, 74회 : 《파월용사들의 이유있는 열풍 / 남편의 실종 그리고 26년》
-  - 5월 19일 : 《[신용카드](https://ko.wikipedia.org/wiki/신용카드 "wikilink") 분실, 어디까지 책임지나》
+  - 5월 19일 : 《[신용카드](../Page/신용카드.md "wikilink") 분실, 어디까지 책임지나》
   - 6월 2일, 79회 : 《뒤바꾼 아들 그리고 십년 / 의약품 메틸알콜 검출 파문》
-  - 6월 16일, 81회 : 《진단\! [노래방](https://ko.wikipedia.org/wiki/노래방 "wikilink") 열풍, [LPG](https://ko.wikipedia.org/wiki/액화석유가스 "wikilink") 중독 이대로 둘 것인가》
+  - 6월 16일, 81회 : 《진단\! [노래방](../Page/노래방.md "wikilink") 열풍, [LPG](../Page/액화석유가스.md "wikilink") 중독 이대로 둘 것인가》
   - 6월 23일, 82회 : 《포장마차 전면 철거, 대안은 없는가 / 컴퓨터 산업 좀먹는 불법 소프트웨어》
   - 6월 30일, 83회 : 《장애인 고용, 원칙 없다》
   - 7월 7일, 84회 : 《피의자 인권 침해, 막을 수 없나》
@@ -105,7 +105,7 @@
   - 1월 15일, 95회 : 《응급의료체계, 무엇이 문제인가》
   - 1월 29일, 96회 : 《송판 외국인 전용업소 / 늘어나느 용역업체 》
   - 2월 5일, 97회 : 《택시 문제 — 요금 올린다고 해결되나》
-  - 2월 12일, 98회 : 《[을사오적](https://ko.wikipedia.org/wiki/을사오적 "wikilink")은 살아 있었다 / 불법 일본 만화》
+  - 2월 12일, 98회 : 《[을사오적](../Page/을사오적.md "wikilink")은 살아 있었다 / 불법 일본 만화》
   - 2월 19일, 99회 : 《취업사기 / 말썽 많은 교통사고 처리》
   - 2월 26일, 100회 : 《치안시각지대 지하철》
   - 3월 5일, 101회 : 《농민 올리는 불량 약초 씨앗》
@@ -141,7 +141,7 @@
 
 ### 1994년
 
-  - 2월 15일, 139회 : 《의혹, [영생교](https://ko.wikipedia.org/wiki/영생교 "wikilink")를 밝힌다》
+  - 2월 15일, 139회 : 《의혹, [영생교](../Page/영생교.md "wikilink")를 밝힌다》
   - 2월 22일, 140회 : 《감옥 아닌 감옥, 여자기술원 문제 있다》
   - 3월 1일, 141회 : 《대책 없는 싸움, 끊이지 않는 의료분쟁》
   - 3월 22일, 144회 : 《난립하는 기도원 그 실상은 후편》
@@ -161,9 +161,9 @@
   - 3월 7일, 185회 : 《영생교 신도들의 의문의 실종》
   - 4월 11일, 190회 : 《프로레슬링을 좋아하십니까?》
   - 4월 18일, 191회 : 《낯선 땅에서의 절망, 사기 당한 몽골 피해자들 / 오늘은 상철이의 생일날》
-  - 5월 9일 : 《여자가 되고 싶은 남자 - [게이](https://ko.wikipedia.org/wiki/게이 "wikilink")들의 삶, 한국의 섹스농장 — [동두천](https://ko.wikipedia.org/wiki/동두천 "wikilink")의 한》
+  - 5월 9일 : 《여자가 되고 싶은 남자 - [게이](https://ko.wikipedia.org/wiki/게이 "wikilink")들의 삶, 한국의 섹스농장 — [동두천](../Page/동두천.md "wikilink")의 한》
   - 7월 4일 : 《소쩍새 마을의 진실》
-  - 7월 25일, 202회 : 《소쩍새 마을, 그날 이후 / [시내버스](https://ko.wikipedia.org/wiki/시내버스 "wikilink") 요금은 오르는데 안전은 뒷걸음》
+  - 7월 25일, 202회 : 《소쩍새 마을, 그날 이후 / [시내버스](../Page/시내버스.md "wikilink") 요금은 오르는데 안전은 뒷걸음》
   - 10월 3일 : 《분단 비극의 현장, 금정굴 열리다》
   - 10월 17일, 211회 : 《시대 유감 우리 사회의 노래 / 삽살개는 진짜 토종인가》
   - 11월 14일, 214회 : 《비자금 취재경쟁 / 의봇아버지는 아버지가 아니다》
@@ -285,12 +285,12 @@
   - 4월 13일, 360회 : 《인간 복제시대 - 당신을 만들어 드립니다》
   - 4월 20일, 361회 : 《슬픈 벚꽃놀이 아빠의 분신 / 내게 검열을 해봐》
   - 4월 27일, 361회 : 《무법천지, 무도학원 / 성형수술의 함정》
-  - 5월 4일, 362회 : 《이단파문\![이재록](https://ko.wikipedia.org/wiki/이재록 "wikilink")목사, 목자님 우리 목자님》\[2\]
+  - 5월 4일, 362회 : 《이단파문\![이재록](../Page/이재록.md "wikilink")목사, 목자님 우리 목자님》\[2\]
   - 5월 18일, 363회 : 《특집 80년 5월, 이 얼굴들을 아십니까?》
   - 5월 25일, 365회 : 《사라진 K2소총, 범인은 누구? / 교수님\! 이래도 되는 겁니까?》
   - 6월 1일, 366회 : 《마약 1부 - 코리안 루트를 차단하라》
   - 6월 8일, 367회 : 《마약 2부 - 위험한 매혹》
-  - 6월 15일, 368회 : 《신[라이따이한](https://ko.wikipedia.org/wiki/라이따이한 "wikilink") 방울이를 아십니까?》
+  - 6월 15일, 368회 : 《신[라이따이한](../Page/라이따이한.md "wikilink") 방울이를 아십니까?》
   - 6월 22일, 369회 : 《전쟁 그 후 50년, 이디오피아 영국》
   - 6월 29일, 370회 : 《자영이 남매의 시린》
   - 7월 13일, 372회 : 《6월 의혹, 씨랜드 화재, 우리 아이를 두번 죽이지 마라》
@@ -552,7 +552,7 @@
   - 7월 4일, 684회 : 《론스타와 참여정부의 동상이몽 - 한미FTA 1부》
   - 7월 11일, 685회 : 《나를 정정해달라, 트랜스젠더의 성결정권》
   - 7월 18일, 686회 : 《론스타와 참여정부의 동상이몽 - 한미FTA 2부》
-  - 7월 25일, 687회 : 《피랍 100일, [소말리아](https://ko.wikipedia.org/wiki/소말리아 "wikilink")에 갇힌 동원호 선원들의 절규》
+  - 7월 25일, 687회 : 《피랍 100일, [소말리아](../Page/소말리아.md "wikilink")에 갇힌 동원호 선원들의 절규》
   - 8월 1일, 688회 : 《병원의 위험한 비밀 1부》
   - 8월 8일, 689회 : 《병원의 위험한 비밀 2부》
   - 8월 15일, 690회 : 《신 친일파의 정체를 밝힌다》
@@ -664,7 +664,7 @@
   - 10월 28일, 790회 : 《우리집이 사라졌어요 - 350억 아파트 분양 사기 사건》
   - 11월 4일, 791회 : 《학교 잔혹사 죽음 부른 폭력선도》
   - 11월 11일, 792회 : 《위기의 한국 경제, 부동산 거품에 빠지다?》
-  - 11월 18일, 793회 : 《고(故) [최진실](https://ko.wikipedia.org/wiki/최진실 "wikilink"), [조성민](https://ko.wikipedia.org/wiki/조성민_\(야구인\) "wikilink") 친권논란 대한민국 친권을 말하다》
+  - 11월 18일, 793회 : 《고(故) [최진실](https://ko.wikipedia.org/wiki/최진실 "wikilink"), [조성민](../Page/조성민_\(야구인\).md "wikilink") 친권논란 대한민국 친권을 말하다》
   - 11월 25일, 794회 : 《이주 노동자의 절규 - 우리도 사람입니다 / 정권이 바뀌면 교과서도 바뀐다》
   - 12월 2일, 795회 : 《친족에 의한 성폭행 소녀는 어디로 가야 하나? / 물로 불을 만든다 - '물로만' 보일러의 실체》
   - 12월 9일, 796회 : 《되풀이 되는 화마의 악몽 - 이천물류센터 화재사고 / 꿈의 제테크인줄 알았습니다》
@@ -963,50 +963,50 @@
 
 ### 2016년
 
-  - [1월 12일](https://ko.wikipedia.org/wiki/1월_12일 "wikilink"), 1067회 : 《데이트 폭력, 괴물이 된 남자들》
-  - [1월 19일](https://ko.wikipedia.org/wiki/1월_19일 "wikilink"), 1068회 : 《임상시험, 빛과 그림자》
-  - [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink"), 1069회 : 《내부고발자, 그들의 외로운 고백》
-  - [2월 2일](https://ko.wikipedia.org/wiki/2월_2일 "wikilink"), 1070회 : 《건물주와 세입자, 우리 같이 좀 삽시다》
-  - [2월 16일](https://ko.wikipedia.org/wiki/2월_16일 "wikilink"), 1071회 : 《캄보디아 우물의 비밀》
-  - [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink"), 1072회 : 《사채의 덫 - 대한민국 대부업 보고서》
-  - [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink"), 1073회 : 《60세가 된다는 것》
-  - [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink"), 1074회 : 《취업사기, 구직자는 왜 돈을 건네야만 했나?》
-  - [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink"), 1075회 : 《진흙탕에 빠진 한국 수영》
-  - [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink"), 1076회 : 《서울시향 사태, 진실은?》
-  - [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink"), 1077회 : 《사라진 아이, 드러난 학대》
-  - [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink"), 1078회 : 《빗나간 욕망-1인 인터넷 방송의 늪》
-  - [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink"), 1079회 : 《아이돌 전성시대, 연습생의 눈물》
-  - [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink"), 1080회 : 《할아버지는 왜 범죄자가 되었나》
-  - [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink"), 1081회 : 《정신병원 강제입원, 가족의 이름으로 당신도?》
-  - [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink"), 1082회 : 《백내장 수술, 제대로 알고 하십니까?》
-  - [5월 17일](https://ko.wikipedia.org/wiki/5월_17일 "wikilink"), 1083회 : 《가습기살균제 피해자들의 절규, 그들은 왜 외면당했나?》
-  - [5월 24일](https://ko.wikipedia.org/wiki/5월_24일 "wikilink"), 1084회 : 《정운호 게이트, 돈으로 법을 사다》
-  - [5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink"), 1085회 : 《중국어선의 습격, 그 많던 연평도 꽃게는 어디로 갔나》
-  - [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink"), 1086회 : 《치안 강국 대한민국, 여성은 왜 범죄의 표적이 되었나?》
-  - [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink"), 1087회 : 《당신의 반려견, 어떻게 분양 받으셨습니까?》
-  - [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink"), 1088회 : 《대한민국 검시보고서 - 죽음은 있고 원인은 없었다》
-  - [6월 28일](https://ko.wikipedia.org/wiki/6월_28일 "wikilink"), 1089회 : 《[박유천](https://ko.wikipedia.org/wiki/박유천 "wikilink") 성폭행 의혹 논란》
-  - [7월 5일](https://ko.wikipedia.org/wiki/7월_5일 "wikilink"), 1090회 : 《그 성폭행범은 왜 전자발찌를 잘랐나》
-  - [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink"), 1091회 : 《학교 전담 경찰관, 누구를 위한 제도인가?》
-  - [7월 19일](https://ko.wikipedia.org/wiki/7월_19일 "wikilink"), 1092회 : 《암 치료 그 후, 사라지지 않은 고통》
-  - [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink"), 1093회 : 《글로벌 기업은 왜 한국 소비자를 차별하는가》
-  - [8월 2일](https://ko.wikipedia.org/wiki/8월_2일 "wikilink"), 1094회 : 《2016 대한민국 부동산, 어디로 갈 것인가?》
-  - [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink"), 1095회 : 《해외여행 사망자, 나도 고객입니다》
-  - [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink"), 1096회 : 《피해자 두 번 울리는 학폭위, 왜?》
-  - [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink"), 1097회 : 《군병원, 믿어도 됩니까?》
-  - [9월 13일](https://ko.wikipedia.org/wiki/9월_13일 "wikilink"), 1098회 : 《위기의 상조회사, 내 돈은 어디에?》
-  - [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink"), 1099회 : 《경주 지진, 한반도 대지진의 전주곡인가》
-  - [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink"), 1100회 : 《멕시코에서 온 편지 “나는 인신매매범이 아닙니다.”》
-  - [10월 18일](https://ko.wikipedia.org/wiki/10월_18일 "wikilink"), 1101회 : 《프로야구 승부조작, 아는 형님의 덫》
-  - [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink"), 1102회 : 《두 살 민건이의 죽음, 골든타임은 있었다》
-  - [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink"), 1103회 : 《난임, 우리도 부모가 되고 싶어요》
-  - [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink"), 1104회 : 《위기의 대한민국 그리고 대통령》
-  - [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink"), 1105회 : 《문화예술계 성추행 파문, 폭로는 시작됐다》
-  - [11월 29일](https://ko.wikipedia.org/wiki/11월_29일 "wikilink"), 1106회 : 《누가 정유라를 ‘승마공주’로 만들었나》
-  - [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink"), 1107회 : 《그들은 왜 대포폰을 사용했나?》
-  - [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink"), 1108회 : 《탄핵 그리고 촛불이 밝힌 내일》
-  - [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink"), 1109회 : 《국정농단의 숨은 배후, [김기춘](https://ko.wikipedia.org/wiki/김기춘 "wikilink")과 [우병우](../Page/우병우.md "wikilink")》
-  - [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink"), 1110회 : 《독일 현지 추적 – 정유라 그리고 돈은 어디에?》
+  - [1월 12일](../Page/1월_12일.md "wikilink"), 1067회 : 《데이트 폭력, 괴물이 된 남자들》
+  - [1월 19일](../Page/1월_19일.md "wikilink"), 1068회 : 《임상시험, 빛과 그림자》
+  - [1월 26일](../Page/1월_26일.md "wikilink"), 1069회 : 《내부고발자, 그들의 외로운 고백》
+  - [2월 2일](../Page/2월_2일.md "wikilink"), 1070회 : 《건물주와 세입자, 우리 같이 좀 삽시다》
+  - [2월 16일](../Page/2월_16일.md "wikilink"), 1071회 : 《캄보디아 우물의 비밀》
+  - [2월 23일](../Page/2월_23일.md "wikilink"), 1072회 : 《사채의 덫 - 대한민국 대부업 보고서》
+  - [3월 1일](../Page/3월_1일.md "wikilink"), 1073회 : 《60세가 된다는 것》
+  - [3월 8일](../Page/3월_8일.md "wikilink"), 1074회 : 《취업사기, 구직자는 왜 돈을 건네야만 했나?》
+  - [3월 15일](../Page/3월_15일.md "wikilink"), 1075회 : 《진흙탕에 빠진 한국 수영》
+  - [3월 29일](../Page/3월_29일.md "wikilink"), 1076회 : 《서울시향 사태, 진실은?》
+  - [4월 5일](../Page/4월_5일.md "wikilink"), 1077회 : 《사라진 아이, 드러난 학대》
+  - [4월 12일](../Page/4월_12일.md "wikilink"), 1078회 : 《빗나간 욕망-1인 인터넷 방송의 늪》
+  - [4월 19일](../Page/4월_19일.md "wikilink"), 1079회 : 《아이돌 전성시대, 연습생의 눈물》
+  - [4월 26일](../Page/4월_26일.md "wikilink"), 1080회 : 《할아버지는 왜 범죄자가 되었나》
+  - [5월 3일](../Page/5월_3일.md "wikilink"), 1081회 : 《정신병원 강제입원, 가족의 이름으로 당신도?》
+  - [5월 10일](../Page/5월_10일.md "wikilink"), 1082회 : 《백내장 수술, 제대로 알고 하십니까?》
+  - [5월 17일](../Page/5월_17일.md "wikilink"), 1083회 : 《가습기살균제 피해자들의 절규, 그들은 왜 외면당했나?》
+  - [5월 24일](../Page/5월_24일.md "wikilink"), 1084회 : 《정운호 게이트, 돈으로 법을 사다》
+  - [5월 31일](../Page/5월_31일.md "wikilink"), 1085회 : 《중국어선의 습격, 그 많던 연평도 꽃게는 어디로 갔나》
+  - [6월 7일](../Page/6월_7일.md "wikilink"), 1086회 : 《치안 강국 대한민국, 여성은 왜 범죄의 표적이 되었나?》
+  - [6월 14일](../Page/6월_14일.md "wikilink"), 1087회 : 《당신의 반려견, 어떻게 분양 받으셨습니까?》
+  - [6월 21일](../Page/6월_21일.md "wikilink"), 1088회 : 《대한민국 검시보고서 - 죽음은 있고 원인은 없었다》
+  - [6월 28일](../Page/6월_28일.md "wikilink"), 1089회 : 《[박유천](../Page/박유천.md "wikilink") 성폭행 의혹 논란》
+  - [7월 5일](../Page/7월_5일.md "wikilink"), 1090회 : 《그 성폭행범은 왜 전자발찌를 잘랐나》
+  - [7월 12일](../Page/7월_12일.md "wikilink"), 1091회 : 《학교 전담 경찰관, 누구를 위한 제도인가?》
+  - [7월 19일](../Page/7월_19일.md "wikilink"), 1092회 : 《암 치료 그 후, 사라지지 않은 고통》
+  - [7월 26일](../Page/7월_26일.md "wikilink"), 1093회 : 《글로벌 기업은 왜 한국 소비자를 차별하는가》
+  - [8월 2일](../Page/8월_2일.md "wikilink"), 1094회 : 《2016 대한민국 부동산, 어디로 갈 것인가?》
+  - [8월 23일](../Page/8월_23일.md "wikilink"), 1095회 : 《해외여행 사망자, 나도 고객입니다》
+  - [8월 30일](../Page/8월_30일.md "wikilink"), 1096회 : 《피해자 두 번 울리는 학폭위, 왜?》
+  - [9월 6일](../Page/9월_6일.md "wikilink"), 1097회 : 《군병원, 믿어도 됩니까?》
+  - [9월 13일](../Page/9월_13일.md "wikilink"), 1098회 : 《위기의 상조회사, 내 돈은 어디에?》
+  - [9월 27일](../Page/9월_27일.md "wikilink"), 1099회 : 《경주 지진, 한반도 대지진의 전주곡인가》
+  - [10월 4일](../Page/10월_4일.md "wikilink"), 1100회 : 《멕시코에서 온 편지 “나는 인신매매범이 아닙니다.”》
+  - [10월 18일](../Page/10월_18일.md "wikilink"), 1101회 : 《프로야구 승부조작, 아는 형님의 덫》
+  - [10월 25일](../Page/10월_25일.md "wikilink"), 1102회 : 《두 살 민건이의 죽음, 골든타임은 있었다》
+  - [11월 1일](../Page/11월_1일.md "wikilink"), 1103회 : 《난임, 우리도 부모가 되고 싶어요》
+  - [11월 8일](../Page/11월_8일.md "wikilink"), 1104회 : 《위기의 대한민국 그리고 대통령》
+  - [11월 22일](../Page/11월_22일.md "wikilink"), 1105회 : 《문화예술계 성추행 파문, 폭로는 시작됐다》
+  - [11월 29일](../Page/11월_29일.md "wikilink"), 1106회 : 《누가 정유라를 ‘승마공주’로 만들었나》
+  - [12월 6일](../Page/12월_6일.md "wikilink"), 1107회 : 《그들은 왜 대포폰을 사용했나?》
+  - [12월 13일](../Page/12월_13일.md "wikilink"), 1108회 : 《탄핵 그리고 촛불이 밝힌 내일》
+  - [12월 20일](../Page/12월_20일.md "wikilink"), 1109회 : 《국정농단의 숨은 배후, [김기춘](../Page/김기춘.md "wikilink")과 [우병우](../Page/우병우.md "wikilink")》
+  - [12월 27일](../Page/12월_27일.md "wikilink"), 1110회 : 《독일 현지 추적 – 정유라 그리고 돈은 어디에?》
 
 ### 2017년
 
@@ -1021,142 +1021,142 @@
 <tbody>
 <tr class="odd">
 <td><p>1111회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_3일" title="wikilink">1월 3일</a></p></td>
+<td><p><a href="../Page/1월_3일.md" title="wikilink">1월 3일</a></p></td>
 <td><p>《신년특집 - 거짓의 정치를 넘어》</p></td>
 </tr>
 <tr class="even">
 <td><p>1112회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_10일" title="wikilink">1월 10일</a></p></td>
+<td><p><a href="../Page/1월_10일.md" title="wikilink">1월 10일</a></p></td>
 <td><p>《최초 증언! '김영재 실'의 비밀》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1113회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_17일" title="wikilink">1월 17일</a></p></td>
+<td><p><a href="../Page/1월_17일.md" title="wikilink">1월 17일</a></p></td>
 <td><p>《은밀한 폭력, 문화계 블랙리스트》</p></td>
 </tr>
 <tr class="even">
 <td><p>1114회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_24일" title="wikilink">1월 24일</a></p></td>
+<td><p><a href="../Page/1월_24일.md" title="wikilink">1월 24일</a></p></td>
 <td><p>《<a href="../Page/최순실.md" title="wikilink">최순실</a> 재산, 또다시 대물림되는가》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1115회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_31일" title="wikilink">1월 31일</a></p></td>
+<td><p><a href="../Page/1월_31일.md" title="wikilink">1월 31일</a></p></td>
 <td><p>《‘가짜’를 팔아드립니다!》</p></td>
 </tr>
 <tr class="even">
 <td><p>1116회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_7일" title="wikilink">2월 7일</a></p></td>
+<td><p><a href="../Page/2월_7일.md" title="wikilink">2월 7일</a></p></td>
 <td><p>《대통령의 의사들》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1117회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_14일" title="wikilink">2월 14일</a></p></td>
+<td><p><a href="../Page/2월_14일.md" title="wikilink">2월 14일</a></p></td>
 <td><p>《대선, 빅뱅은 시작됐다》</p></td>
 </tr>
 <tr class="even">
 <td><p>1118회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_21일" title="wikilink">2월 21일</a></p></td>
+<td><p><a href="../Page/2월_21일.md" title="wikilink">2월 21일</a></p></td>
 <td><p>《탄핵, 불붙은 여론 전쟁》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1119회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_28일" title="wikilink">2월 28일</a></p></td>
+<td><p><a href="../Page/2월_28일.md" title="wikilink">2월 28일</a></p></td>
 <td><p>《척추, 스무 개의 철심》</p></td>
 </tr>
 <tr class="even">
 <td><p>1120회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_21일" title="wikilink">3월 21일</a></p></td>
+<td><p><a href="../Page/3월_21일.md" title="wikilink">3월 21일</a></p></td>
 <td><p>《두 평에 갇힌 청춘》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1121회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_28일" title="wikilink">3월 28일</a></p></td>
+<td><p><a href="../Page/3월_28일.md" title="wikilink">3월 28일</a></p></td>
 <td><p>《비정규직의 눈물》</p></td>
 </tr>
 <tr class="even">
 <td><p>1122회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_4일" title="wikilink">4월 4일</a></p></td>
+<td><p><a href="../Page/4월_4일.md" title="wikilink">4월 4일</a></p></td>
 <td><p>《죽은 내 동생은 만취 여성이 아닙니다》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1123회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_11일" title="wikilink">4월 11일</a></p></td>
+<td><p><a href="../Page/4월_11일.md" title="wikilink">4월 11일</a></p></td>
 <td><p>《간병 전쟁》</p></td>
 </tr>
 <tr class="even">
 <td><p>1124회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_18일" title="wikilink">4월 18일</a></p></td>
+<td><p><a href="../Page/4월_18일.md" title="wikilink">4월 18일</a></p></td>
 <td><p>《<a href="../Page/세월호.md" title="wikilink">세월호</a>, 101분의 기록》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1125회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_25일" title="wikilink">4월 25일</a></p></td>
+<td><p><a href="../Page/4월_25일.md" title="wikilink">4월 25일</a></p></td>
 <td><p>《프랜차이즈 하지 마세요?》</p></td>
 </tr>
 <tr class="even">
 <td><p>1126회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_2일" title="wikilink">5월 2일</a></p></td>
+<td><p><a href="../Page/5월_2일.md" title="wikilink">5월 2일</a></p></td>
 <td><p>《나는 아직 멕시코 감옥에 갇혀 있습니다》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1127회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_16일" title="wikilink">5월 16일</a></p></td>
+<td><p><a href="../Page/5월_16일.md" title="wikilink">5월 16일</a></p></td>
 <td><p>《청와대에서 광화문으로》</p></td>
 </tr>
 <tr class="even">
 <td><p>1128회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_23일" title="wikilink">5월 23일</a></p></td>
+<td><p><a href="../Page/5월_23일.md" title="wikilink">5월 23일</a></p></td>
 <td><p>《미세먼지, 가면을 벗기다》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1129회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_30일" title="wikilink">5월 30일</a></p></td>
+<td><p><a href="../Page/5월_30일.md" title="wikilink">5월 30일</a></p></td>
 <td><p>《성소수자 인권, 나중은 없다.》</p></td>
 </tr>
 <tr class="even">
 <td><p>1130회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_13일" title="wikilink">6월 13일</a></p></td>
+<td><p><a href="../Page/6월_13일.md" title="wikilink">6월 13일</a></p></td>
 <td><p>《[정유라와 거짓말] / [GMO 그리고 거짓말?]》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1131회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_20일" title="wikilink">6월 20일</a></p></td>
+<td><p><a href="../Page/6월_20일.md" title="wikilink">6월 20일</a></p></td>
 <td><p>《부양 전쟁》</p></td>
 </tr>
 <tr class="even">
 <td><p>1132회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_27일" title="wikilink">6월 27일</a></p></td>
+<td><p><a href="../Page/6월_27일.md" title="wikilink">6월 27일</a></p></td>
 <td><p>《'문자 폭탄'을 대하는 그들의 자세 / 공인탐정, 득인가, 독인가...》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1133회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_4일" title="wikilink">7월 4일</a></p></td>
+<td><p><a href="../Page/7월_4일.md" title="wikilink">7월 4일</a></p></td>
 <td><p>《군함도, 그리고 아베의 역사 전쟁》</p></td>
 </tr>
 <tr class="even">
 <td><p>1134회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_11일" title="wikilink">7월 11일</a></p></td>
+<td><p><a href="../Page/7월_11일.md" title="wikilink">7월 11일</a></p></td>
 <td><p>《4대강, 22조는 어디로》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1135회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_18일" title="wikilink">7월 18일</a></p></td>
+<td><p><a href="../Page/7월_18일.md" title="wikilink">7월 18일</a></p></td>
 <td><p>《‘GMO는 어디에?’/ 뒤바뀐 사인(死因), 억울한 죽음》</p></td>
 </tr>
 <tr class="even">
 <td><p>1136회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_12일" title="wikilink">12월 12일</a></p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/문화방송" title="wikilink">MBC</a> 몰락, 7년의 기록》</p></td>
+<td><p><a href="../Page/12월_12일.md" title="wikilink">12월 12일</a></p></td>
+<td><p>《<a href="../Page/문화방송.md" title="wikilink">MBC</a> 몰락, 7년의 기록》</p></td>
 </tr>
 <tr class="odd">
 <td><p>1137회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_19일" title="wikilink">12월 19일</a></p></td>
-<td><p>《방송장악 10년, <a href="https://ko.wikipedia.org/wiki/한국방송공사" title="wikilink">KBS를</a> 지키러 왔습니다?》</p></td>
+<td><p><a href="../Page/12월_19일.md" title="wikilink">12월 19일</a></p></td>
+<td><p>《방송장악 10년, <a href="../Page/한국방송공사.md" title="wikilink">KBS를</a> 지키러 왔습니다?》</p></td>
 </tr>
 <tr class="even">
 <td><p>1138회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_26일" title="wikilink">12월 26일</a></p></td>
+<td><p><a href="../Page/12월_26일.md" title="wikilink">12월 26일</a></p></td>
 <td><p>《해고 11년, 우리는 KTX여승무원입니다》<br />
 《햄버거 패티, 반년 째 계속된 논란》</p></td>
 </tr>
@@ -1165,99 +1165,99 @@
 
 ### 2018년
 
-| 회차    | 방송일     | 부제                                                                                                                       |
-| ----- | ------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1139회 | 1월 9일   | 스텔라데이지호, 국가의 침몰                                                                                                          |
-| 1140회 | 1월 16일  | 국정원과 가짜보수                                                                                                                |
-| 1141회 | 1월 23일  | 흔들리는 사법부, 적폐는 누구인가?                                                                                                      |
-| 1142회 | 1월 30일  | 아이를 위한 나라는 없다                                                                                                            |
-| 1143회 | 2월 6일   | 검사와 고래 고기                                                                                                                |
-| 1144회 | 2월 27일  | MB 형제와 포스코의 시크릿                                                                                                          |
-| 1145회 | 3월 6일   | 영화감독 [김기덕](https://ko.wikipedia.org/wiki/김기덕_\(1960년\) "wikilink"), 거장의 민낯                                               |
-| 1146회 | 3월 13일  | 미투 그 후, 피해자만 떠났다                                                                                                         |
-| 1147회 | 3월 20일  | 괴롭히는 직장, 죽어가는 직장인                                                                                                        |
-| 1148회 | 3월 27일  | MB형제와 포스코 2부 - 백색황금의 비밀                                                                                                  |
-| 1149회 | 4월 3일   | 누가 아파트 가격을 올리는가                                                                                                          |
-| 1150회 | 4월 10일  | [남북정상회담](https://ko.wikipedia.org/wiki/남북정상회담 "wikilink") 특집 - 한반도, 대전환의 순간                                              |
-| 1151회 | 4월 17일  | 검찰개혁 2부작 1부 - 별장 성 접대 동영상 사건                                                                                             |
-| 1152회 | 4월 24일  | 검찰개혁 2부작 2부 - 검사 위의 검사 정치 검사                                                                                             |
-| 1153회 | 5월 1일   | 큰스님께 묻습니다 1부                                                                                                             |
-| 1154회 | 5월 8일   | 끝나지 않은 전쟁, 민간인 학살                                                                                                        |
-| 1155회 | 5월 15일  | 회장님의 부귀영화                                                                                                                |
-| 1156회 | 5월 22일  | "목소리로 범인을 찾아 드립니다" - 소리 박사 [배명진](../Page/배명진.md "wikilink")의 진실                                                          |
-| 1157회 | 5월 29일  | 큰스님께 묻습니다 2부                                                                                                             |
-| 1158회 | 6월 5일   | [북미정상회담](https://ko.wikipedia.org/wiki/북미정상회담 "wikilink") 막전막후                                                           |
-| 1159회 | 7월 10일  | [양승태](https://ko.wikipedia.org/wiki/양승태 "wikilink")의 부당거래                                                                |
-| 1160회 | 7월 17일  | 국회는 시크릿 가든                                                                                                               |
-| 1161회 | 7월 24일  | 故 장자연 1부                                                                                                                 |
-| 1162회 | 7월 31일  | 故 장자연 2부                                                                                                                 |
-| 1163회 | 8월 7일   | 거장의 민낯, 그 후                                                                                                              |
-| 1164회 | 8월 14일  | 군부 쿠데타 1부                                                                                                                |
-| 1165회 | 8월 21일  | 군부 쿠데타 2부                                                                                                                |
-| 1166회 | 9월 4일   | 추락한 [태권도](https://ko.wikipedia.org/wiki/태권도 "wikilink") 성지, 누구를 위한 [국기원](https://ko.wikipedia.org/wiki/국기원 "wikilink")인가 |
-| 1167회 | 9월 11일  | [한국전력](https://ko.wikipedia.org/wiki/한국전력 "wikilink")의 일회용 인간들                                                           |
-| 1168회 | 10월 2일  | 그날, 의사는 없었다                                                                                                              |
-| 1169회 | 10월 9일  | 명성교회 800억의 비밀                                                                                                            |
-| 1170회 | 10월 16일 | 대학으로 가는 길 가짜학생부                                                                                                          |
-| 1171회 | 10월 23일 | 미친 아파트값의 비밀 1부                                                                                                           |
-| 1172회 | 11월 6일  | 미친 아파트값의 비밀 2부                                                                                                           |
-| 1173회 | 11월 13일 | 사립유치원은 법이 없습니다                                                                                                           |
-| 1174회 | 11월 20일 | 화살머리고지 전투                                                                                                                |
-| 1175회 | 12월 4일  | [조두순](https://ko.wikipedia.org/wiki/조두순 "wikilink") 트라우마                                                                 |
-| 1176회 | 12월 11일 | 연말 특집 1부 - 2018년 대한민국과 PD수첩 "침묵을 깬 용기"                                                                                   |
-| 1177회 | 12월 18일 | 연말 특집 2부 - 2018년 대한민국의 침묵을 깨우다\!                                                                                         |
+| 회차    | 방송일     | 부제                                                                                 |
+| ----- | ------- | ---------------------------------------------------------------------------------- |
+| 1139회 | 1월 9일   | 스텔라데이지호, 국가의 침몰                                                                    |
+| 1140회 | 1월 16일  | 국정원과 가짜보수                                                                          |
+| 1141회 | 1월 23일  | 흔들리는 사법부, 적폐는 누구인가?                                                                |
+| 1142회 | 1월 30일  | 아이를 위한 나라는 없다                                                                      |
+| 1143회 | 2월 6일   | 검사와 고래 고기                                                                          |
+| 1144회 | 2월 27일  | MB 형제와 포스코의 시크릿                                                                    |
+| 1145회 | 3월 6일   | 영화감독 [김기덕](../Page/김기덕_\(1960년\).md "wikilink"), 거장의 민낯                            |
+| 1146회 | 3월 13일  | 미투 그 후, 피해자만 떠났다                                                                   |
+| 1147회 | 3월 20일  | 괴롭히는 직장, 죽어가는 직장인                                                                  |
+| 1148회 | 3월 27일  | MB형제와 포스코 2부 - 백색황금의 비밀                                                            |
+| 1149회 | 4월 3일   | 누가 아파트 가격을 올리는가                                                                    |
+| 1150회 | 4월 10일  | [남북정상회담](../Page/남북정상회담.md "wikilink") 특집 - 한반도, 대전환의 순간                           |
+| 1151회 | 4월 17일  | 검찰개혁 2부작 1부 - 별장 성 접대 동영상 사건                                                       |
+| 1152회 | 4월 24일  | 검찰개혁 2부작 2부 - 검사 위의 검사 정치 검사                                                       |
+| 1153회 | 5월 1일   | 큰스님께 묻습니다 1부                                                                       |
+| 1154회 | 5월 8일   | 끝나지 않은 전쟁, 민간인 학살                                                                  |
+| 1155회 | 5월 15일  | 회장님의 부귀영화                                                                          |
+| 1156회 | 5월 22일  | "목소리로 범인을 찾아 드립니다" - 소리 박사 [배명진](../Page/배명진.md "wikilink")의 진실                    |
+| 1157회 | 5월 29일  | 큰스님께 묻습니다 2부                                                                       |
+| 1158회 | 6월 5일   | [북미정상회담](https://ko.wikipedia.org/wiki/북미정상회담 "wikilink") 막전막후                     |
+| 1159회 | 7월 10일  | [양승태](../Page/양승태.md "wikilink")의 부당거래                                             |
+| 1160회 | 7월 17일  | 국회는 시크릿 가든                                                                         |
+| 1161회 | 7월 24일  | 故 장자연 1부                                                                           |
+| 1162회 | 7월 31일  | 故 장자연 2부                                                                           |
+| 1163회 | 8월 7일   | 거장의 민낯, 그 후                                                                        |
+| 1164회 | 8월 14일  | 군부 쿠데타 1부                                                                          |
+| 1165회 | 8월 21일  | 군부 쿠데타 2부                                                                          |
+| 1166회 | 9월 4일   | 추락한 [태권도](../Page/태권도.md "wikilink") 성지, 누구를 위한 [국기원](../Page/국기원.md "wikilink")인가 |
+| 1167회 | 9월 11일  | [한국전력](https://ko.wikipedia.org/wiki/한국전력 "wikilink")의 일회용 인간들                     |
+| 1168회 | 10월 2일  | 그날, 의사는 없었다                                                                        |
+| 1169회 | 10월 9일  | 명성교회 800억의 비밀                                                                      |
+| 1170회 | 10월 16일 | 대학으로 가는 길 가짜학생부                                                                    |
+| 1171회 | 10월 23일 | 미친 아파트값의 비밀 1부                                                                     |
+| 1172회 | 11월 6일  | 미친 아파트값의 비밀 2부                                                                     |
+| 1173회 | 11월 13일 | 사립유치원은 법이 없습니다                                                                     |
+| 1174회 | 11월 20일 | 화살머리고지 전투                                                                          |
+| 1175회 | 12월 4일  | [조두순](../Page/조두순.md "wikilink") 트라우마                                              |
+| 1176회 | 12월 11일 | 연말 특집 1부 - 2018년 대한민국과 PD수첩 "침묵을 깬 용기"                                             |
+| 1177회 | 12월 18일 | 연말 특집 2부 - 2018년 대한민국의 침묵을 깨우다\!                                                   |
 
 ### 2019년
 
-| 회차    | 방송일     | 부제                                                                                                                    |
-| ----- | ------- | --------------------------------------------------------------------------------------------------------------------- |
-| 1178회 | 1월 8일   | 통신 부도의 날                                                                                                              |
-| 1179회 | 1월 15일  | 눈 먼 군대, 15년의 비리                                                                                                       |
-| 1180회 | 1월 22일  | 얼음 왕국\! 추악한 비밀                                                                                                        |
-| 1181회 | 1월 29일  | [만민중앙교회](https://ko.wikipedia.org/wiki/만민중앙교회 "wikilink") [이재록](https://ko.wikipedia.org/wiki/이재록 "wikilink") 목사\[3\] |
-| 1182회 | 2월 12일  | 문고리를 흔드는 손                                                                                                            |
-| 1183회 | 2월 19일  | 검찰, 반성 없는 반성문                                                                                                         |
-| 1184회 | 2월 26일  | 갈라진 교회                                                                                                                |
-| 1185회 | 3월 5일   | [호텔 사모님의 마지막 메시지](../Page/방용훈.md "wikilink")                                                                          |
-| 1186회 | 3월 12일  | 쓰레기 대란 1부 - 세부로 간 크리스티나                                                                                               |
-| 1187회 | 3월 19일  | [의대](https://ko.wikipedia.org/wiki/의대 "wikilink") 어디까지 가봤니?                                                           |
-| 1188회 | 4월 2일   | 저는 [성폭행](https://ko.wikipedia.org/wiki/성폭행 "wikilink")범의 딸이었습니다                                                       |
-| 1189회 | 4월 9일   | [4대강](https://ko.wikipedia.org/wiki/4대강_정비_사업 "wikilink"), [가짜뉴스](../Page/가짜뉴스.md "wikilink") 그리고 정치인                 |
-| 1190회 | 4월 16일  | [윤중천](https://ko.wikipedia.org/wiki/윤중천 "wikilink") 리스트 - 별장의 내부자들                                                    |
-| 1191회 | 4월 23일  | 쓰레기 대란 2부 - 돈을 갖고 튀어라                                                                                                 |
-| 1192회 | 4월 30일  | 누가 죄인인가? [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink")사관학교에선 무슨 일이...                                           |
-| 1193회 | 5월 7일   | 광주가 분노한 이유                                                                                                            |
-| 1194회 | 5월 14일  | 故 장자연 누가 통화기록을 감추는가                                                                                                   |
-| 1195회 | 5월 21일  | 나는 [안인득](https://ko.wikipedia.org/wiki/안인득 "wikilink")이 아니다                                                           |
-| 1196회 | 5월 28일  | 굿 닥터의 위험한 진료                                                                                                          |
-| 1197회 | 6월 4일   | 로또 분양의 배신                                                                                                             |
-| 1198회 | 6월 11일  | 책과 독, 영풍의 두 얼굴                                                                                                        |
-| 1199회 | 6월 18일  | 의원님 농촌 두자백서                                                                                                           |
-| 1200회 | 6월 25일  | [박소연](https://ko.wikipedia.org/wiki/박소연 "wikilink"), 연극이 끝난 그후                                                        |
-| 1201회 | 7월 2일   | 집창촌 황제들, 그들이 사는 법                                                                                                     |
-| 1202회 | 7월 9일   | 유령의사 수술실의 내부자들                                                                                                        |
-| 1203회 | 7월 16일  | 지역주택조합의 위험한 곡예 공중분양                                                                                                   |
-| 1204회 | 7월 30일  | 글로벌 비지니스 대리모                                                                                                          |
-| 1205회 | 8월 6일   | 무허가 비즈니스 대리모                                                                                                          |
-| 1206회 | 8월 13일  | 아베는 왜 문재인 정부를 겨냥했나                                                                                                    |
-| 1207회 | 8월 20일  | 코인과 함께 사라진다                                                                                                           |
-| 1208회 | 8월 27일  | 어느 목사님 이중생활\[4\]                                                                                                      |
-| 1209회 | 9월 3일   | 내 [집](https://ko.wikipedia.org/wiki/집 "wikilink")인가 [LH](https://ko.wikipedia.org/wiki/한국토지주택공사 "wikilink") 집인가       |
-| 1210회 | 9월 17일  | 사라진 남편, 그는 왜 표적이 되었나                                                                                                  |
-| 1211회 | 9월 24일  | 대한민국 갭투기 대해부 - 1부 큰손들의 정체                                                                                             |
-| 1212회 | 10월 1일  | 장관과 표창장                                                                                                               |
-| 1213회 | 10월 8일  | 대한민국 갭투기 대해부 - 2부 악어와 악어써                                                                                             |
-| 1214회 | 10월 15일 | CJ와 가짜 오디션                                                                                                            |
-| 1215회 | 10월 22일 | 검사범죄 1부 - 스폰서 검사와 재벌 변호사                                                                                              |
-| 1216회 | 10월 29일 | 검사범죄 2부 - 검사와 금융 재벌                                                                                                   |
-| 1217회 | 11월 5일  | 레고와 고인돌                                                                                                               |
-| 1218회 | 11월 12일 | 축구 명장의 위험한 비밀                                                                                                         |
-| 1219회 | 11월 19일 | 청개구리 회장님의 배신                                                                                                          |
-| 1220회 | 11월 26일 | 코리안 마약왕 H                                                                                                             |
-| 1221회 | 12월 3일  | 검찰 기자단                                                                                                                |
-| 1222회 | 12월 10일 | 누굴 위해 법을 만드나                                                                                                          |
-| 1223회 | 12월 17일 | 송년특집 - 2019 그들의 권력 사용법                                                                                                |
-| 1224회 | 12월 24일 | 송년특집 - 믿음을 배신한 사람들                                                                                                    |
+| 회차    | 방송일     | 부제                                                                                 |
+| ----- | ------- | ---------------------------------------------------------------------------------- |
+| 1178회 | 1월 8일   | 통신 부도의 날                                                                           |
+| 1179회 | 1월 15일  | 눈 먼 군대, 15년의 비리                                                                    |
+| 1180회 | 1월 22일  | 얼음 왕국\! 추악한 비밀                                                                     |
+| 1181회 | 1월 29일  | [만민중앙교회](../Page/만민중앙교회.md "wikilink") [이재록](../Page/이재록.md "wikilink") 목사\[3\]    |
+| 1182회 | 2월 12일  | 문고리를 흔드는 손                                                                         |
+| 1183회 | 2월 19일  | 검찰, 반성 없는 반성문                                                                      |
+| 1184회 | 2월 26일  | 갈라진 교회                                                                             |
+| 1185회 | 3월 5일   | [호텔 사모님의 마지막 메시지](../Page/방용훈.md "wikilink")                                       |
+| 1186회 | 3월 12일  | 쓰레기 대란 1부 - 세부로 간 크리스티나                                                            |
+| 1187회 | 3월 19일  | [의대](https://ko.wikipedia.org/wiki/의대 "wikilink") 어디까지 가봤니?                        |
+| 1188회 | 4월 2일   | 저는 [성폭행](https://ko.wikipedia.org/wiki/성폭행 "wikilink")범의 딸이었습니다                    |
+| 1189회 | 4월 9일   | [4대강](../Page/4대강_정비_사업.md "wikilink"), [가짜뉴스](../Page/가짜뉴스.md "wikilink") 그리고 정치인 |
+| 1190회 | 4월 16일  | [윤중천](https://ko.wikipedia.org/wiki/윤중천 "wikilink") 리스트 - 별장의 내부자들                 |
+| 1191회 | 4월 23일  | 쓰레기 대란 2부 - 돈을 갖고 튀어라                                                              |
+| 1192회 | 4월 30일  | 누가 죄인인가? [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink")사관학교에선 무슨 일이...        |
+| 1193회 | 5월 7일   | 광주가 분노한 이유                                                                         |
+| 1194회 | 5월 14일  | 故 장자연 누가 통화기록을 감추는가                                                                |
+| 1195회 | 5월 21일  | 나는 [안인득](https://ko.wikipedia.org/wiki/안인득 "wikilink")이 아니다                        |
+| 1196회 | 5월 28일  | 굿 닥터의 위험한 진료                                                                       |
+| 1197회 | 6월 4일   | 로또 분양의 배신                                                                          |
+| 1198회 | 6월 11일  | 책과 독, 영풍의 두 얼굴                                                                     |
+| 1199회 | 6월 18일  | 의원님 농촌 두자백서                                                                        |
+| 1200회 | 6월 25일  | [박소연](https://ko.wikipedia.org/wiki/박소연 "wikilink"), 연극이 끝난 그후                     |
+| 1201회 | 7월 2일   | 집창촌 황제들, 그들이 사는 법                                                                  |
+| 1202회 | 7월 9일   | 유령의사 수술실의 내부자들                                                                     |
+| 1203회 | 7월 16일  | 지역주택조합의 위험한 곡예 공중분양                                                                |
+| 1204회 | 7월 30일  | 글로벌 비지니스 대리모                                                                       |
+| 1205회 | 8월 6일   | 무허가 비즈니스 대리모                                                                       |
+| 1206회 | 8월 13일  | 아베는 왜 문재인 정부를 겨냥했나                                                                 |
+| 1207회 | 8월 20일  | 코인과 함께 사라진다                                                                        |
+| 1208회 | 8월 27일  | 어느 목사님 이중생활\[4\]                                                                   |
+| 1209회 | 9월 3일   | 내 [집](../Page/집.md "wikilink")인가 [LH](../Page/한국토지주택공사.md "wikilink") 집인가          |
+| 1210회 | 9월 17일  | 사라진 남편, 그는 왜 표적이 되었나                                                               |
+| 1211회 | 9월 24일  | 대한민국 갭투기 대해부 - 1부 큰손들의 정체                                                          |
+| 1212회 | 10월 1일  | 장관과 표창장                                                                            |
+| 1213회 | 10월 8일  | 대한민국 갭투기 대해부 - 2부 악어와 악어써                                                          |
+| 1214회 | 10월 15일 | CJ와 가짜 오디션                                                                         |
+| 1215회 | 10월 22일 | 검사범죄 1부 - 스폰서 검사와 재벌 변호사                                                           |
+| 1216회 | 10월 29일 | 검사범죄 2부 - 검사와 금융 재벌                                                                |
+| 1217회 | 11월 5일  | 레고와 고인돌                                                                            |
+| 1218회 | 11월 12일 | 축구 명장의 위험한 비밀                                                                      |
+| 1219회 | 11월 19일 | 청개구리 회장님의 배신                                                                       |
+| 1220회 | 11월 26일 | 코리안 마약왕 H                                                                          |
+| 1221회 | 12월 3일  | 검찰 기자단                                                                             |
+| 1222회 | 12월 10일 | 누굴 위해 법을 만드나                                                                       |
+| 1223회 | 12월 17일 | 송년특집 - 2019 그들의 권력 사용법                                                             |
+| 1224회 | 12월 24일 | 송년특집 - 믿음을 배신한 사람들                                                                 |
 
 ## 2020년대
 
@@ -1281,11 +1281,11 @@
 
 ## 같이 보기
 
-  - [PD수첩](https://ko.wikipedia.org/wiki/PD수첩 "wikilink")
+  - [PD수첩](../Page/PD수첩.md "wikilink")
 
 [분류:대한민국의 텔레비전 에피소드 목록](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_에피소드_목록 "wikilink") [분류:PD수첩](https://ko.wikipedia.org/wiki/분류:PD수첩 "wikilink")
 
 1.  1995년 12월 실종된 김갑성/황연옥 부부의 실종사건을 심층적으로 다뤘고, 가장 유력한 용의자였지만 경찰조사 직후 잠적한 김한중/이순심 부부를 용의자로 지목하여 공개수배하였다. 이후 방송 4일 만인 6월 22일에 김한중 부부를 검거하였으며, 살인혐의가 적용된 김한중은 사형이 선고되었으나 집행되지는 않았다.
 2.  본방송의 중단되었으나, 다음날인 다시 방송하였다. 현재 MBC 아카이브에서 다시보기가 불가능
 3.  [문화방송 주조정실 점거사건](https://ko.wikipedia.org/wiki/문화방송_주조정실_점거사건 "wikilink") 이후로 방송하였다.
-4.  방송금지가처분을 신청 기각하였으나, 방송 다음날인 시청률 7.1%의 집계하였다. ([닐슨코리아](https://ko.wikipedia.org/wiki/닐슨코리아 "wikilink") 제공)
+4.  방송금지가처분을 신청 기각하였으나, 방송 다음날인 시청률 7.1%의 집계하였다. ([닐슨코리아](../Page/닐슨코리아.md "wikilink") 제공)

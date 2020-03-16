@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NORN9 +](https://ko.wikipedia.org/wiki/NORN9_+).
 
 
-《**NORN9 노른+노넷**》(NORN9 ノルン+ノネット)는 [오토메이트](https://ko.wikipedia.org/wiki/오토메이트 "wikilink")가 제작한 [여성향](https://ko.wikipedia.org/wiki/여성향 "wikilink") [연애 시뮬레이션 게임이다](https://ko.wikipedia.org/wiki/연애_시뮬레이션_게임 "wikilink").
+《**NORN9 노른+노넷**》(NORN9 ノルン+ノネット)는 [오토메이트](../Page/오토메이트.md "wikilink")가 제작한 [여성향](https://ko.wikipedia.org/wiki/여성향 "wikilink") [연애 시뮬레이션 게임이다](https://ko.wikipedia.org/wiki/연애_시뮬레이션_게임 "wikilink").
 
 ## 개요
 

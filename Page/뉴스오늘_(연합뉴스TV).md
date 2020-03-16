@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [ \(TV\)](https://ko.wikipedia.org/wiki/_\(TV\)).
 
 
-《**뉴스오늘**》은 [연합뉴스TV](https://ko.wikipedia.org/wiki/연합뉴스TV "wikilink")에서 매일 새벽 4시 30분에 방송되는 [연합뉴스TV](https://ko.wikipedia.org/wiki/연합뉴스TV "wikilink")의 아침뉴스 프로그램이다.
+《**뉴스오늘**》은 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")에서 매일 새벽 4시 30분에 방송되는 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")의 아침뉴스 프로그램이다.
 
 ## 방송 시간
 
-| 방송 채널                                                     | 방송 기간                                                                                                                       | 방송 시간                           |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| [연합뉴스TV](https://ko.wikipedia.org/wiki/연합뉴스TV "wikilink") | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") \~ **현재** | 매일 새벽 4시 30분 \~ 아침 6시 30분 (2시간) |
+| 방송 채널                                  | 방송 기간                                                                                 | 방송 시간                           |
+| -------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------- |
+| [연합뉴스TV](../Page/연합뉴스TV.md "wikilink") | [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ **현재** | 매일 새벽 4시 30분 \~ 아침 6시 30분 (2시간) |
 
 ## 앵커
 
-  - [황인성](https://ko.wikipedia.org/wiki/황인성 "wikilink") 아나운서 (남)
+  - [황인성](../Page/황인성.md "wikilink") 아나운서 (남)
   - [박서현](https://ko.wikipedia.org/wiki/박서현 "wikilink") 아나운서 (여)
 
 ## 타이틀 변천사
@@ -23,11 +23,11 @@
 
 ## 경쟁 뉴스 프로그램
 
-  - [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
-  - [MBC 뉴스투데이](https://ko.wikipedia.org/wiki/MBC_뉴스투데이 "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"))
-  - [모닝와이드](https://ko.wikipedia.org/wiki/모닝와이드 "wikilink") ([SBS](https://ko.wikipedia.org/wiki/SBS "wikilink"))
-  - [뉴스출발](../Page/뉴스출발.md "wikilink") ([YTN](https://ko.wikipedia.org/wiki/YTN "wikilink"))
-  - [굿모닝 와이티엔](https://ko.wikipedia.org/wiki/굿모닝_와이티엔 "wikilink") ([YTN](https://ko.wikipedia.org/wiki/YTN "wikilink"))
+  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"))
+  - [모닝와이드](../Page/모닝와이드.md "wikilink") ([SBS](../Page/SBS.md "wikilink"))
+  - [뉴스출발](../Page/뉴스출발.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
+  - [굿모닝 와이티엔](../Page/굿모닝_와이티엔.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
 
 ## 외부 링크
 

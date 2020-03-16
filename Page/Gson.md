@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Gson](https://ko.wikipedia.org/wiki/Gson).
 
 
-**Gson**(구글 Gson, Google Gson)은 [JSON](https://ko.wikipedia.org/wiki/JSON "wikilink")의 자바 오브젝트의 [직렬화](../Page/직렬화.md "wikilink"), 역직렬화를 해주는 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") 라이브러리이다.
+**Gson**(구글 Gson, Google Gson)은 [JSON](../Page/JSON.md "wikilink")의 자바 오브젝트의 [직렬화](../Page/직렬화.md "wikilink"), 역직렬화를 해주는 [오픈 소스](../Page/오픈_소스.md "wikilink") [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink") 라이브러리이다.
 
 ## 역사
 
-Gson 라이브러리는 원래 [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")의 내부 목적을 위해 개발되었으며 버전 1.0이 [아파치 라이선스 2.0의](https://ko.wikipedia.org/wiki/아파치_라이선스_2.0 "wikilink") 조항 하에 2008년 5월 22일 출시되었다. 최신 버전 2.8.5는 2018년 5월 21일에 출시되었다.
+Gson 라이브러리는 원래 [구글](../Page/구글.md "wikilink")의 내부 목적을 위해 개발되었으며 버전 1.0이 [아파치 라이선스 2.0의](https://ko.wikipedia.org/wiki/아파치_라이선스_2.0 "wikilink") 조항 하에 2008년 5월 22일 출시되었다. 최신 버전 2.8.5는 2018년 5월 21일에 출시되었다.
 
 ## 버전 역사
 
@@ -45,7 +45,7 @@ Gson 라이브러리는 원래 [구글](https://ko.wikipedia.org/wiki/구글 "wi
 
 ## 사용법
 
-Gson은 [반영을](https://ko.wikipedia.org/wiki/반영_\(컴퓨터_과학\) "wikilink") 사용하므로 (역)직렬화된 오브젝트의 클래스에 대한 추가적인 수정이 필요하지 않다. 사실 클래스가 no-args 기본 생성자만 있으면 된다. (무조건 그런 것은 아님. [기능](https://ko.wikipedia.org/wiki/#기능 "wikilink") 문단 참고)
+Gson은 [반영을](../Page/반영_\(컴퓨터_과학\).md "wikilink") 사용하므로 (역)직렬화된 오브젝트의 클래스에 대한 추가적인 수정이 필요하지 않다. 사실 클래스가 no-args 기본 생성자만 있으면 된다. (무조건 그런 것은 아님. [기능](https://ko.wikipedia.org/wiki/#기능 "wikilink") 문단 참고)
 
 다음의 예는 샘플 오브젝트를 직렬화할 때 가장 기초적인 Gson 사용법을 표현한 것이다:
 

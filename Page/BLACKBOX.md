@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BLACKBOX](https://ko.wikipedia.org/wiki/BLACKBOX).
 
 
-**블랙박스(**BLACK BOX, [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [6월 16일](https://ko.wikipedia.org/wiki/6월_16일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")이자, [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")이다.
+**블랙박스(**BLACK BOX, [1995년](../Page/1995년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 음악 [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")이자, [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")이다.
 
 ## 디스코그래피
 
@@ -11,7 +11,7 @@
 
 ### EP 앨범
 
-  - 《[5](https://ko.wikipedia.org/wiki/5 "wikilink")》 (2019)
+  - 《[5](../Page/5.md "wikilink")》 (2019)
 
 ### 싱글 앨범
 
@@ -49,9 +49,9 @@
   - 《[Torture](https://ko.wikipedia.org/wiki/Torture "wikilink")》 (2018)
   - 《[Animation](https://ko.wikipedia.org/wiki/Animation "wikilink")》 (2018)
   - 《[Advance](https://ko.wikipedia.org/wiki/Advance "wikilink")》 (2018)
-  - 《[로스트아크](https://ko.wikipedia.org/wiki/로스트아크 "wikilink")》 (2018)
+  - 《[로스트아크](../Page/로스트아크.md "wikilink")》 (2018)
   - 《[Ark](https://ko.wikipedia.org/wiki/Ark "wikilink")》 (2019)
-  - 《[5](https://ko.wikipedia.org/wiki/5 "wikilink")》 (2019)
+  - 《[5](../Page/5.md "wikilink")》 (2019)
   - 《[My ears are bleeding\!](https://ko.wikipedia.org/wiki/My_ears_are_bleeding! "wikilink")》 (2019)
   - 《[Para Synthose](https://ko.wikipedia.org/wiki/Para_Synthose "wikilink")》 (2019)
   - 《[Dimension\!](https://ko.wikipedia.org/wiki/Dimension! "wikilink")》 (2019)
@@ -62,6 +62,6 @@
 
   - [BLACK BOX MUSIC](https://dlwlqls10004.wixsite.com/blackboxmusic) - 공식 웹사이트
   - [BLACK BOX MUSIC FACEBOOK](https://www.facebook.com/EDMBLACKBOXX/?modal=admin_todo_tour) - 페이스북
-  - [BLACK BOX MUSIC YOUTUBE](https://www.youtube.com/channel/UCA3mtAP8001ErS98GUKPEgQ/videos?view_as=subscriber) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [BLACK BOX MUSIC YOUTUBE](https://www.youtube.com/channel/UCA3mtAP8001ErS98GUKPEgQ/videos?view_as=subscriber) - [유튜브](../Page/유튜브.md "wikilink")
 
 [분류:1995년 태어남](https://ko.wikipedia.org/wiki/분류:1995년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_작곡가 "wikilink") [분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink")

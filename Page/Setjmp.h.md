@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Setjmp.h](https://ko.wikipedia.org/wiki/Setjmp.h).
 
 
-**setjmp.h**는 비로컬 점프를 제공하기 위한 [C 표준 라이브러리에](https://ko.wikipedia.org/wiki/C_표준_라이브러리 "wikilink") 정의된 [헤더 파일로](https://ko.wikipedia.org/wiki/헤더_파일 "wikilink") 일반적인 [서브루틴](https://ko.wikipedia.org/wiki/서브루틴 "wikilink") 콜에서 벗어나고 시퀀스를 반환하는 [제어 흐름이다](https://ko.wikipedia.org/wiki/제어_흐름 "wikilink"). 상호보완적인 함수 **`setjmp`**와 **`longjmp`**가 이러한 기능을 제공한다.
+**setjmp.h**는 비로컬 점프를 제공하기 위한 [C 표준 라이브러리에](../Page/C_표준_라이브러리.md "wikilink") 정의된 [헤더 파일로](../Page/헤더_파일.md "wikilink") 일반적인 [서브루틴](https://ko.wikipedia.org/wiki/서브루틴 "wikilink") 콜에서 벗어나고 시퀀스를 반환하는 [제어 흐름이다](../Page/제어_흐름.md "wikilink"). 상호보완적인 함수 **`setjmp`**와 **`longjmp`**가 이러한 기능을 제공한다.
 
-`setjmp`/`longjmp`의 일반적인 사용법은 여러 단계의 함수 호출에서도 프로그램 또는 스레드 상태를 재설정하는 데 `longjmp` 기능을 활용하는 [예외 매커니즘의](https://ko.wikipedia.org/wiki/예외_매커니즘 "wikilink") 구현에 있다. 그 외의 `setjmp` 용도로는 [코루틴](https://ko.wikipedia.org/wiki/코루틴 "wikilink")과 비슷한 구문을 만들기 위해 사용된다.
+`setjmp`/`longjmp`의 일반적인 사용법은 여러 단계의 함수 호출에서도 프로그램 또는 스레드 상태를 재설정하는 데 `longjmp` 기능을 활용하는 [예외 매커니즘의](https://ko.wikipedia.org/wiki/예외_매커니즘 "wikilink") 구현에 있다. 그 외의 `setjmp` 용도로는 [코루틴](../Page/코루틴.md "wikilink")과 비슷한 구문을 만들기 위해 사용된다.
 
 ## 간단한 예
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Captain Fantastic and the Brown Dirt Cowboy](https://ko.wikipedia.org/wiki/Captain_Fantastic_and_the_Brown_Dirt_Cowboy).
 
 
-《**Captain Fantastic and the Brown Dirt Cowboy**》는 [엘튼 존의](https://ko.wikipedia.org/wiki/엘튼_존 "wikilink") 아홉 번째 스튜디오 음반이다. 이 음반은 엘튼 존(Captain Fantastic)과 [버니 토핀](https://ko.wikipedia.org/wiki/버니_토핀 "wikilink")(the Brown Dirt Cowboy)의 초기 음악 경력에 대한 자서전적 이야기이다. 이 음반은 1975년 5월에 미국에서 [MCA와](https://ko.wikipedia.org/wiki/MCA_레코드 "wikilink") 영국 [DJM에](https://ko.wikipedia.org/wiki/DJM_레코드 "wikilink") 의해 출판되었다. 첫 4일 만에 140만 부를 판매한 것으로 알려진 미국 [빌보드 200에서](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 1위에 올랐고 7주 동안 그 자리에 머물렀다.\[1\]\[2\] 이후 모두 객원음악가로 무대에 오르긴 했지만, 이번 음반은 엘튼 존 밴드(기타리스트 [데이비 존스톤](https://ko.wikipedia.org/wiki/데이비_존스톤 "wikilink"), 베이시스트 [디 머리](../Page/디_머리.md "wikilink"), 드러머 [나이절 올슨](https://ko.wikipedia.org/wiki/나이절_올슨 "wikilink"))의 원곡들로 구성된 마지막 음반이었다. 1970년부터 존의 리듬 부분을 형성해 온 머리와 올슨은 후속 음반인 《[Rock of the Westies](https://ko.wikipedia.org/wiki/Rock_of_the_Westies "wikilink")》의 녹음 전에 해고되었고 존스톤은 1978년에 떠났다.
+《**Captain Fantastic and the Brown Dirt Cowboy**》는 [엘튼 존의](../Page/엘튼_존.md "wikilink") 아홉 번째 스튜디오 음반이다. 이 음반은 엘튼 존(Captain Fantastic)과 [버니 토핀](../Page/버니_토핀.md "wikilink")(the Brown Dirt Cowboy)의 초기 음악 경력에 대한 자서전적 이야기이다. 이 음반은 1975년 5월에 미국에서 [MCA와](https://ko.wikipedia.org/wiki/MCA_레코드 "wikilink") 영국 [DJM에](https://ko.wikipedia.org/wiki/DJM_레코드 "wikilink") 의해 출판되었다. 첫 4일 만에 140만 부를 판매한 것으로 알려진 미국 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 1위에 올랐고 7주 동안 그 자리에 머물렀다.\[1\]\[2\] 이후 모두 객원음악가로 무대에 오르긴 했지만, 이번 음반은 엘튼 존 밴드(기타리스트 [데이비 존스톤](../Page/데이비_존스톤.md "wikilink"), 베이시스트 [디 머리](../Page/디_머리.md "wikilink"), 드러머 [나이절 올슨](../Page/나이절_올슨.md "wikilink"))의 원곡들로 구성된 마지막 음반이었다. 1970년부터 존의 리듬 부분을 형성해 온 머리와 올슨은 후속 음반인 《[Rock of the Westies](../Page/Rock_of_the_Westies.md "wikilink")》의 녹음 전에 해고되었고 존스톤은 1978년에 떠났다.
 
-이것은 1975년 5월에 골드로 인증을 받았고, 2주 전에 그것이 출시되었고 [미국 음반 산업 협회에](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink") 의해 1993년 3월에 플래티넘과 플래티넘 3배 인증을 받았다.
+이것은 1975년 5월에 골드로 인증을 받았고, 2주 전에 그것이 출시되었고 [미국 음반 산업 협회에](../Page/미국_음반_산업_협회.md "wikilink") 의해 1993년 3월에 플래티넘과 플래티넘 3배 인증을 받았다.
 
 ## 곡 목록
 
-모든 곡들은 특별한 언급이 없는 한 [엘튼 존과](https://ko.wikipedia.org/wiki/엘튼_존 "wikilink") [버니 토핀에](https://ko.wikipedia.org/wiki/버니_토핀 "wikilink") 의해 작사/작곡 되었다.
+모든 곡들은 특별한 언급이 없는 한 [엘튼 존과](../Page/엘튼_존.md "wikilink") [버니 토핀에](../Page/버니_토핀.md "wikilink") 의해 작사/작곡 되었다.
 
 **Side one**
 
@@ -39,9 +39,9 @@
 
     <li value="11">
 
-    "[Lucy in the Sky with Diamonds](https://ko.wikipedia.org/wiki/Lucy_in_the_Sky_with_Diamonds "wikilink")" ([레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink")) – 6:18
+    "[Lucy in the Sky with Diamonds](../Page/Lucy_in_the_Sky_with_Diamonds.md "wikilink")" ([레논-매카트니](../Page/레논-매카트니.md "wikilink")) – 6:18
 
-2.  "One Day at a Time" ([존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink")) – 3:49
+2.  "One Day at a Time" ([존 레논](../Page/존_레논.md "wikilink")) – 3:49
 
 3.  "[Philadelphia Freedom](https://ko.wikipedia.org/wiki/Philadelphia_Freedom "wikilink")" – 5:22
 

@@ -9,7 +9,7 @@
 
 대학들이 교수들에게 OA 의무제출을 요구하기도 하며 종종 비용을 추가지불하기도 한다. 종신 교수들은 면제받는 경우가 있다.\[7\] 하지만 업적평가와 재원마련을 위한 의무제출 조항때문에 의미없는 논문 투고가 생기기도 한다.\[8\] 미국 대학들이 자율에 맡기는 것과 달리 유럽 대학들은 엄격하게 관리하는 경우가 많다.\[9\] 연구비 후원자들은 수혜자들에게 의무제출을 종종 요구한다.
 
-교수진의 OA 의무제출을 채택한 대학은 [하버드 대학교](https://ko.wikipedia.org/wiki/하버드_대학교 "wikilink"), [매사추세츠 공과대학교](https://ko.wikipedia.org/wiki/매사추세츠_공과대학교 "wikilink"), [유니버시티 칼리지 런던](https://ko.wikipedia.org/wiki/유니버시티_칼리지_런던 "wikilink"), [퀸즐랜드 공과대학교](https://ko.wikipedia.org/wiki/퀸즐랜드_공과대학교 "wikilink"), University of Minho (Portugal), [리에주 시립 대학교](https://ko.wikipedia.org/wiki/리에주_시립_대학교 "wikilink") 및 [취리히 연방 공과대학교](https://ko.wikipedia.org/wiki/취리히_연방_공과대학교 "wikilink") 등이 대표적이다. 연구비 지원기관들 중에는 수혜자들에게 의무화하는 곳도 많이 있다. [국립보건원 (미국)](https://ko.wikipedia.org/wiki/국립보건원_\(미국\) "wikilink"), 영국 연구위원회(Research Councils UK), 자연과학 국가펀드(National Fund for Scientific Research), 웰컴 트러스트, 유럽 연구 위원회(European Research Council) 등이 그러하다. 전체 목록은 ROARMAP에서 볼 수 있다.\[10\]
+교수진의 OA 의무제출을 채택한 대학은 [하버드 대학교](../Page/하버드_대학교.md "wikilink"), [매사추세츠 공과대학교](../Page/매사추세츠_공과대학교.md "wikilink"), [유니버시티 칼리지 런던](../Page/유니버시티_칼리지_런던.md "wikilink"), [퀸즐랜드 공과대학교](https://ko.wikipedia.org/wiki/퀸즐랜드_공과대학교 "wikilink"), University of Minho (Portugal), [리에주 시립 대학교](https://ko.wikipedia.org/wiki/리에주_시립_대학교 "wikilink") 및 [취리히 연방 공과대학교](../Page/취리히_연방_공과대학교.md "wikilink") 등이 대표적이다. 연구비 지원기관들 중에는 수혜자들에게 의무화하는 곳도 많이 있다. [국립보건원 (미국)](../Page/국립보건원_\(미국\).md "wikilink"), 영국 연구위원회(Research Councils UK), 자연과학 국가펀드(National Fund for Scientific Research), 웰컴 트러스트, 유럽 연구 위원회(European Research Council) 등이 그러하다. 전체 목록은 ROARMAP에서 볼 수 있다.\[10\]
 
 OA 의무제출의 방식은 의무 부여 기관별로, 의무제출 시점별로, 의무의 강도와 효과별로 다양하게 분류가 가능하다.\[11\] MELIBEA에서는 의무제출을 타입별로 잘 정리해서 보여주고 있다.\[12\]
 

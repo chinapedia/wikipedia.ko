@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Don\'t Let the Sun Go Down on Me](https://ko.wikipedia.org/wiki/Don\'t_Let_the_Sun_Go_Down_on_Me).
 
 
-〈**Don't Let the Sun Go Down on Me**〉는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 음악가 [엘튼 존과](https://ko.wikipedia.org/wiki/엘튼_존 "wikilink") 그의 작사가 [버니 토핀이](https://ko.wikipedia.org/wiki/버니_토핀 "wikilink") 쓴 곡이다. 이 곡은 원래 1974년에 엘튼 존에 의해 그의 스튜디오 음반 《[Caribou](../Page/Caribou.md "wikilink")》로 녹음되었고 [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 차트에서 2위를 차지했고 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 16위에 오른 싱글곡으로 발매되었다. 이 노래는 1991년 영국과 미국에서 1위에 오른 존과 [조지 마이클의](https://ko.wikipedia.org/wiki/조지_마이클 "wikilink") 듀엣으로 녹음된 라이브 커버 버전에서 더 많은 성공을 거두었다.
+〈**Don't Let the Sun Go Down on Me**〉는 [영국](../Page/영국.md "wikilink")의 음악가 [엘튼 존과](../Page/엘튼_존.md "wikilink") 그의 작사가 [버니 토핀이](../Page/버니_토핀.md "wikilink") 쓴 곡이다. 이 곡은 원래 1974년에 엘튼 존에 의해 그의 스튜디오 음반 《[Caribou](../Page/Caribou.md "wikilink")》로 녹음되었고 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 2위를 차지했고 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 16위에 오른 싱글곡으로 발매되었다. 이 노래는 1991년 영국과 미국에서 1위에 오른 존과 [조지 마이클의](../Page/조지_마이클.md "wikilink") 듀엣으로 녹음된 라이브 커버 버전에서 더 많은 성공을 거두었다.
 
 ## 외부 링크
 

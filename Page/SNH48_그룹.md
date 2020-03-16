@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SNH48 ](https://ko.wikipedia.org/wiki/SNH48_).
 
 
-**SNH48 그룹**(, )은 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 여성 아이돌 그룹 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")과 자매 그룹에서 형성되는 아이돌 프로젝트 브랜드로, SNH48과 자매 그룹의 총칭이다.
+**SNH48 그룹**(, )은 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 여성 아이돌 그룹 [SNH48](../Page/SNH48.md "wikilink")과 자매 그룹에서 형성되는 아이돌 프로젝트 브랜드로, SNH48과 자매 그룹의 총칭이다.
 
 **SNH 그룹**, **48 그룹**, **SNH48 집단**, **SNH48G**, **SNHG**, **48G**로 불리기도 하며, 단순히 **48**로 표기되기도 한다.
 
@@ -21,7 +21,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a></p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a></p></td>
 <td><p>2013년 1월 -</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/상하이_시" title="wikilink">상하이 시</a></p></td>
@@ -169,7 +169,7 @@
 
 ## 관련 항목
 
-  - [AKB48 그룹](https://ko.wikipedia.org/wiki/AKB48_그룹 "wikilink")
+  - [AKB48 그룹](../Page/AKB48_그룹.md "wikilink")
 
 ## 외부 링크
 

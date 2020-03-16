@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love Place](https://ko.wikipedia.org/wiki/Love_Place).
 
 
-《**Love Place**》(러브 플레이스)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [니시노 카나의](https://ko.wikipedia.org/wiki/니시노_카나 "wikilink") 4번째 정규 음반으로, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 5일에](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") [SME 레코드에서](https://ko.wikipedia.org/wiki/SME_레코드 "wikilink") 발매되었다. 이 음반의 리드 곡은 〈**Be Strong**〉이다.
+《**Love Place**》(러브 플레이스)는 [일본](../Page/일본.md "wikilink")의 여성 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [니시노 카나의](../Page/니시노_카나.md "wikilink") 4번째 정규 음반으로, [2012년](../Page/2012년.md "wikilink") [9월 5일에](../Page/9월_5일.md "wikilink") [SME 레코드에서](https://ko.wikipedia.org/wiki/SME_레코드 "wikilink") 발매되었다. 이 음반의 리드 곡은 〈**Be Strong**〉이다.
 
 ## 수록곡
 

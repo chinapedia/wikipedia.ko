@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Woman \(  \)](https://ko.wikipedia.org/wiki/Woman_\(__\)).
 
 
-〈**Woman**〉은 [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 1980년 음반 《[Double Fantasy](../Page/Double_Fantasy.md "wikilink")》에서 작곡하고 연주한 곡이다. 오노 요코의 곡 〈Beautiful Boys〉를 B 사이드로 싱글 발매되었다.\[1\] 이 곡은 레논에 의해 《Double Fantasy》 음반에서 두 번째로 싱글 발매된 곡이었고, 1980년 12월 8일 레논의 사망 이후 첫 번째로 발매된 싱글이었다.\[2\] 레논은 그의 아내 [오노 요코와](https://ko.wikipedia.org/wiki/오노_요코 "wikilink") 모든 여자들에게 보내는 징조로 〈Woman〉을 썼다.\[3\]
+〈**Woman**〉은 [존 레논이](../Page/존_레논.md "wikilink") 1980년 음반 《[Double Fantasy](../Page/Double_Fantasy.md "wikilink")》에서 작곡하고 연주한 곡이다. 오노 요코의 곡 〈Beautiful Boys〉를 B 사이드로 싱글 발매되었다.\[1\] 이 곡은 레논에 의해 《Double Fantasy》 음반에서 두 번째로 싱글 발매된 곡이었고, 1980년 12월 8일 레논의 사망 이후 첫 번째로 발매된 싱글이었다.\[2\] 레논은 그의 아내 [오노 요코와](../Page/오노_요코.md "wikilink") 모든 여자들에게 보내는 징조로 〈Woman〉을 썼다.\[3\]
 
 ## 배경
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Woman_partitur.JPG "wikilink") 이 곡은 〈Woman**〉**이라는 제목에서 알 수 있듯이 여성을 향한 노래이다. 레논의 5년간의 하우스 허스밴드로서의 생활을 통해 느낀 여성에 대한 생각이 쓰여 있으며, 아내 오노 요코를 향한 마음도 담겨있다. 이 곡은 [마오쩌둥](https://ko.wikipedia.org/wiki/마오쩌둥 "wikilink")이 한때 사용했던 중국의 속담 표현인 "For The Other Half Of The Sky (하늘의 다른 반쪽을 위해)"라고 하는 속삭임으로 시작된다. 이것은 "세상의 여성들을 위해서 노래합시다"라고 하는 호소이다.\[4\] 1980년 12월 5일 《[롤링 스톤](https://ko.wikipedia.org/wiki/롤링_스톤 "wikilink")》과의 인터뷰에서, 레논은 〈Woman〉은 그의 노래 〈[Girl](../Page/Girl_\(비틀즈의_노래\).md "wikilink")〉의 "성장된 버전"이라고 말했다.\[5\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Woman_partitur.JPG "wikilink") 이 곡은 〈Woman**〉**이라는 제목에서 알 수 있듯이 여성을 향한 노래이다. 레논의 5년간의 하우스 허스밴드로서의 생활을 통해 느낀 여성에 대한 생각이 쓰여 있으며, 아내 오노 요코를 향한 마음도 담겨있다. 이 곡은 [마오쩌둥](../Page/마오쩌둥.md "wikilink")이 한때 사용했던 중국의 속담 표현인 "For The Other Half Of The Sky (하늘의 다른 반쪽을 위해)"라고 하는 속삭임으로 시작된다. 이것은 "세상의 여성들을 위해서 노래합시다"라고 하는 호소이다.\[4\] 1980년 12월 5일 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》과의 인터뷰에서, 레논은 〈Woman〉은 그의 노래 〈[Girl](../Page/Girl_\(비틀즈의_노래\).md "wikilink")〉의 "성장된 버전"이라고 말했다.\[5\]
 
 ## 재발매
 
@@ -13,7 +13,7 @@
 
 ## 대중문화
 
-[닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink") [Wii Music의](https://ko.wikipedia.org/wiki/Wii_Music "wikilink") 2008년 비디오 게임은 이 노래를 재생 가능한 노래로 특징으로 한다.
+[닌텐도](../Page/닌텐도.md "wikilink") [Wii Music의](../Page/Wii_Music.md "wikilink") 2008년 비디오 게임은 이 노래를 재생 가능한 노래로 특징으로 한다.
 
 ## 각주
 

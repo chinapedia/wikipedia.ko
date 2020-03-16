@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [TvN ](https://ko.wikipedia.org/wiki/TvN_).
 
 
-**tvN 불금불토드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 밤 11시에 방영되는 [텔레비전 드라마다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+**tvN 불금불토드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [금요일](../Page/금요일.md "wikilink") 밤 11시에 방영되는 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")부터《[신데렐라와 네명의 기사](https://ko.wikipedia.org/wiki/신데렐라와_네명의_기사 "wikilink")》와 《[안투라지](../Page/안투라지_\(2016년_드라마\).md "wikilink")》는 **불금불토스페셜**로 방송되었으며 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")부터 《[빅 포레스트](../Page/빅_포레스트.md "wikilink")》부터는 **불금시리즈**라는 명칭으로 방송되고 있다.
+[2016년](../Page/2016년.md "wikilink") [8월](../Page/8월.md "wikilink")부터《[신데렐라와 네명의 기사](https://ko.wikipedia.org/wiki/신데렐라와_네명의_기사 "wikilink")》와 《[안투라지](../Page/안투라지_\(2016년_드라마\).md "wikilink")》는 **불금불토스페셜**로 방송되었으며 [2018년](../Page/2018년.md "wikilink") [9월](../Page/9월.md "wikilink")부터 《[빅 포레스트](../Page/빅_포레스트.md "wikilink")》부터는 **불금시리즈**라는 명칭으로 방송되고 있다.
 
 ## 방송 시간
 

@@ -9,7 +9,7 @@
 
 ## 발사
 
-[2032년](https://ko.wikipedia.org/wiki/2032년 "wikilink") [아리안 6으로](https://ko.wikipedia.org/wiki/아리안_6 "wikilink") 발사할 예정이다.\[10\]\[11\]
+[2032년](../Page/2032년.md "wikilink") [아리안 6으로](https://ko.wikipedia.org/wiki/아리안_6 "wikilink") 발사할 예정이다.\[10\]\[11\]
 
 ## 지원, 개발, 투자
 

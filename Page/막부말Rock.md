@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rock](https://ko.wikipedia.org/wiki/Rock).
 
 
-**막부말Rock**()은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 소셜 게임 등을 서비스하고 있는 회사 [마벨러스](https://ko.wikipedia.org/wiki/마벨러스 "wikilink")가 발매한 [플레이스테이션 포터블](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 전용의 [게임](https://ko.wikipedia.org/wiki/게임 "wikilink")이다.
+**막부말Rock**()은 [일본](../Page/일본.md "wikilink")의 소셜 게임 등을 서비스하고 있는 회사 [마벨러스](https://ko.wikipedia.org/wiki/마벨러스 "wikilink")가 발매한 [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink") 전용의 [게임](../Page/게임.md "wikilink")이다.
 
 ## 외부 링크
 
