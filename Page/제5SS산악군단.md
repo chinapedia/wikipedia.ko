@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [5SS](https://ko.wikipedia.org/wiki/5SS).
 
 
-**제5SS산악군단**()은 [무장친위대](https://ko.wikipedia.org/wiki/무장친위대 "wikilink")의 [군단](https://ko.wikipedia.org/wiki/군단 "wikilink") 중 하나이다. 1943년 10월부터 1944년 12월까지 [제2기갑군](https://ko.wikipedia.org/wiki/제2기갑군 "wikilink")의 일부로서 [유고슬라비아 파르티잔들과](https://ko.wikipedia.org/wiki/유고슬라비아_파르티잔 "wikilink") 싸웠다. 1945년 [제9군의](https://ko.wikipedia.org/wiki/제9군_\(독일_국방군\) "wikilink") 일부로서 [오데르](https://ko.wikipedia.org/wiki/오데르 "wikilink") 선을 방어했고 그 이후 [베를린 공방전에도](https://ko.wikipedia.org/wiki/베를린_공방전 "wikilink") 참전했다.\[1\]\[2\]
+**제5SS산악군단**()은 [무장친위대](../Page/무장친위대.md "wikilink")의 [군단](https://ko.wikipedia.org/wiki/군단 "wikilink") 중 하나이다. 1943년 10월부터 1944년 12월까지 [제2기갑군](https://ko.wikipedia.org/wiki/제2기갑군 "wikilink")의 일부로서 [유고슬라비아 파르티잔들과](../Page/유고슬라비아_파르티잔.md "wikilink") 싸웠다. 1945년 [제9군의](https://ko.wikipedia.org/wiki/제9군_\(독일_국방군\) "wikilink") 일부로서 [오데르](https://ko.wikipedia.org/wiki/오데르 "wikilink") 선을 방어했고 그 이후 [베를린 공방전에도](../Page/베를린_공방전.md "wikilink") 참전했다.\[1\]\[2\]
 
 ## 지도부
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-1.  [상급집단지도자](https://ko.wikipedia.org/wiki/상급집단지도자 "wikilink") [아르투르 펠프스](https://ko.wikipedia.org/wiki/아르투르_펠프스 "wikilink")
+1.  [상급집단지도자](../Page/상급집단지도자.md "wikilink") [아르투르 펠프스](https://ko.wikipedia.org/wiki/아르투르_펠프스 "wikilink")
 2.  상급집단지도자 [프리드리히빌헬름 크뤼거](https://ko.wikipedia.org/wiki/프리드리히빌헬름_크뤼거 "wikilink")
 3.  상급집단지도자 [프리드리히 예켈른](https://ko.wikipedia.org/wiki/프리드리히_예켈른 "wikilink")
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-1.  [상급지도자](https://ko.wikipedia.org/wiki/상급지도자 "wikilink") [발터 하르처](https://ko.wikipedia.org/wiki/발터_하르처 "wikilink")
+1.  [상급지도자](../Page/상급지도자.md "wikilink") [발터 하르처](../Page/발터_하르처.md "wikilink")
 
 ## 전투서열
 

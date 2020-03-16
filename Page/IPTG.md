@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IPTG](https://ko.wikipedia.org/wiki/IPTG).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:IPTG2.svg "wikilink") **IPTG (Isopropyl β-<small>D</small>-1-thiogalactopyranoside** (**IPTG**) [분자 생물학](https://ko.wikipedia.org/wiki/분자생물학 "wikilink") 시약이다. 이 화합물은 알로락토스(allolactose)와 분자적으로 유사하며, 젖당 대사물(lactose metabolite)로서 락 오페론(lac operon)의 전사를 개시한다. 그리고 이러한 이유로, 유전자가 락 오페론 통제하에 있을 때 단백질 발현을 유도하는데 쓰인다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:IPTG2.svg "wikilink") **IPTG (Isopropyl β-<small>D</small>-1-thiogalactopyranoside** (**IPTG**) [분자 생물학](../Page/분자생물학.md "wikilink") 시약이다. 이 화합물은 알로락토스(allolactose)와 분자적으로 유사하며, 젖당 대사물(lactose metabolite)로서 락 오페론(lac operon)의 전사를 개시한다. 그리고 이러한 이유로, 유전자가 락 오페론 통제하에 있을 때 단백질 발현을 유도하는데 쓰인다.
 
 IPTG는 알로락토스와는 달리, 베타 갈락토시다아제(β-galactosidase)에 의해 가수분해 되지 않는다. 이런 이유로 IPTG는 실험환경 내내 같은 농도로 유지된다. IPTG 유도(IPTG induction)을 하려면, 무균의 필터 여과한 1M 농도의 IPTG가 일반적으로 1:1000 희석 농도로 대수적(logarithmically)으로 성장중인 세균 배양액에 더해진다. 그러나 IPTG최종농도는 다르게 쓸 수 있다.
 

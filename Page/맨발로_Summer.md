@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Summer](https://ko.wikipedia.org/wiki/_Summer).
 
 
-〈**맨발로 Summer**〉()는, [노기자카46](https://ko.wikipedia.org/wiki/노기자카46 "wikilink")의 15번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**맨발로 Summer**〉()는, [노기자카46](../Page/노기자카46.md "wikilink")의 15번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -20,7 +20,7 @@
 1.  **** / <small>**맨발로 Summer**</small>
 
       -
-        (작사: [아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") / 작곡: 후쿠모리 히데토시 / 편곡: APAZZI)
+        (작사: [아키모토 야스시](../Page/아키모토_야스시.md "wikilink") / 작곡: 후쿠모리 히데토시 / 편곡: APAZZI)
 
 2.  **** / <small>**나만의 빛**</small>
 
@@ -161,8 +161,8 @@
 (센터:사이토 아스카)
 
   - 3열: 키타노 히나코, 호시노 미나미, 와카츠키 유미, [이코마 리나](../Page/이코마_리나.md "wikilink"), 호리 미오나, 나카모토 히메카
-  - 2열: 타카야마 카즈미, [에토 미사](https://ko.wikipedia.org/wiki/에토_미사 "wikilink"), [마츠무라 사유리](../Page/마츠무라_사유리.md "wikilink"), 아키모토 마나츠, [사쿠라이 레이카](../Page/사쿠라이_레이카.md "wikilink")
-  - 1열: [하시모토 나나미](../Page/하시모토_나나미.md "wikilink"), [니시노 나나세](../Page/니시노_나나세.md "wikilink"), [사이토 아스카](../Page/사이토_아스카.md "wikilink"), [시라이시 마이](https://ko.wikipedia.org/wiki/시라이시_마이 "wikilink"), [이쿠타 에리카](../Page/이쿠타_에리카.md "wikilink")
+  - 2열: 타카야마 카즈미, [에토 미사](../Page/에토_미사.md "wikilink"), [마츠무라 사유리](../Page/마츠무라_사유리.md "wikilink"), 아키모토 마나츠, [사쿠라이 레이카](../Page/사쿠라이_레이카.md "wikilink")
+  - 1열: [하시모토 나나미](../Page/하시모토_나나미.md "wikilink"), [니시노 나나세](../Page/니시노_나나세.md "wikilink"), [사이토 아스카](../Page/사이토_아스카.md "wikilink"), [시라이시 마이](../Page/시라이시_마이.md "wikilink"), [이쿠타 에리카](../Page/이쿠타_에리카.md "wikilink")
 
 ### 나만의 빛
 

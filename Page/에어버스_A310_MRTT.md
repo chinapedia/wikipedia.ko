@@ -35,9 +35,9 @@
 
 ## 같이 보기
 
-  - [공중 급유](https://ko.wikipedia.org/wiki/공중_급유 "wikilink")
-  - [에어버스 A310](https://ko.wikipedia.org/wiki/에어버스_A310 "wikilink")
-  - [에어버스 A330 MRTT](https://ko.wikipedia.org/wiki/에어버스_A330_MRTT "wikilink")
+  - [공중 급유](../Page/공중_급유.md "wikilink")
+  - [에어버스 A310](../Page/에어버스_A310.md "wikilink")
+  - [에어버스 A330 MRTT](../Page/에어버스_A330_MRTT.md "wikilink")
 
 ## 외부 링크
 

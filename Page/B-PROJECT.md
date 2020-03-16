@@ -1,36 +1,36 @@
 > This article is converted from Wikipedia: [B-PROJECT](https://ko.wikipedia.org/wiki/B-PROJECT).
 
 
-**B-PROJECT**(비-프로젝트)는 [MAGES.](https://ko.wikipedia.org/wiki/MAGES. "wikilink")가 다루는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [가상 아이돌](https://ko.wikipedia.org/wiki/가상_아이돌 "wikilink") 프로젝트. 약칭은 **B프로**(). 종합 프로듀서는 [니시카와 타카노리](https://ko.wikipedia.org/wiki/니시카와_타카노리 "wikilink") 기획, 원작은 [시쿠라 치요마루](https://ko.wikipedia.org/wiki/시쿠라_치요마루 "wikilink"), 캐릭터 디자인은 [유키히로 우타코가](https://ko.wikipedia.org/wiki/유키히로_우타코 "wikilink") 각각 담당한다.
+**B-PROJECT**(비-프로젝트)는 [MAGES.](https://ko.wikipedia.org/wiki/MAGES. "wikilink")가 다루는 [일본](../Page/일본.md "wikilink")의 [가상 아이돌](../Page/가상_아이돌.md "wikilink") 프로젝트. 약칭은 **B프로**(). 종합 프로듀서는 [니시카와 타카노리](https://ko.wikipedia.org/wiki/니시카와_타카노리 "wikilink") 기획, 원작은 [시쿠라 치요마루](https://ko.wikipedia.org/wiki/시쿠라_치요마루 "wikilink"), 캐릭터 디자인은 [유키히로 우타코가](https://ko.wikipedia.org/wiki/유키히로_우타코 "wikilink") 각각 담당한다.
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 프로젝트가 개시. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")부터 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")까지 TV 애니메이션화로 방영되었다.
+[2015년](../Page/2015년.md "wikilink") [9월](../Page/9월.md "wikilink")에 프로젝트가 개시. [2016년](../Page/2016년.md "wikilink") [7월](../Page/7월.md "wikilink")부터 [9월](../Page/9월.md "wikilink")까지 TV 애니메이션화로 방영되었다.
 
 ## 등장인물
 
 ### 키타코레
 
   - 키타카도 토모히사 ()
-    성우 : [오노 다이스케](https://ko.wikipedia.org/wiki/오노_다이스케 "wikilink")
+    성우 : [오노 다이스케](../Page/오노_다이스케.md "wikilink")
   - 코레쿠니 류지 ()
-    성우 : [키시오 다이스케](https://ko.wikipedia.org/wiki/키시오_다이스케 "wikilink")
+    성우 : [키시오 다이스케](../Page/키시오_다이스케.md "wikilink")
 
 ### THRIVE (스라이브)
 
   - 카네시로 고우시 ()
-    성우 : [토요나가 토시유키](https://ko.wikipedia.org/wiki/토요나가_토시유키 "wikilink")
+    성우 : [토요나가 토시유키](../Page/토요나가_토시유키.md "wikilink")
   - 아슈 유타 ()
     성우 : [하나에 나츠키](https://ko.wikipedia.org/wiki/하나에_나츠키 "wikilink")
   - 아이조네 켄토 ()
-    성우 : [카토 카즈키](https://ko.wikipedia.org/wiki/카토_카즈키 "wikilink")
+    성우 : [카토 카즈키](../Page/카토_카즈키.md "wikilink")
 
 ### MooNs (문즈)
 
   - 마스나가 카즈나 ()
     성우 : [우에무라 유토](https://ko.wikipedia.org/wiki/우에무라_유토 "wikilink")
   - 온자이 모모타로 ()
-    성우 : [카키하라 테츠야](https://ko.wikipedia.org/wiki/카키하라_테츠야 "wikilink")
+    성우 : [카키하라 테츠야](../Page/카키하라_테츠야.md "wikilink")
   - 오사리 히카루 ()
-    성우 : [모리쿠보 쇼타로](https://ko.wikipedia.org/wiki/모리쿠보_쇼타로 "wikilink")
+    성우 : [모리쿠보 쇼타로](../Page/모리쿠보_쇼타로.md "wikilink")
   - 노메 타츠히로 ()
     성우 : [오카와 겐키](https://ko.wikipedia.org/wiki/오카와_겐키 "wikilink")
   - 세키무라 미카도 ()
@@ -61,12 +61,12 @@
 ### 스태프
 
   - 스미소라 츠바사 ()
-    성우 : [카네모토 히사코](https://ko.wikipedia.org/wiki/카네모토_히사코 "wikilink") → [세토 아사미](https://ko.wikipedia.org/wiki/세토_아사미 "wikilink")<sup>(2기)</sup>
+    성우 : [카네모토 히사코](../Page/카네모토_히사코.md "wikilink") → [세토 아사미](https://ko.wikipedia.org/wiki/세토_아사미 "wikilink")<sup>(2기)</sup>
 
 <!-- end list -->
 
   - 야샤마루 사쿠타로 ()
-    성우 : [토리우미 코스케](https://ko.wikipedia.org/wiki/토리우미_코스케 "wikilink")
+    성우 : [토리우미 코스케](../Page/토리우미_코스케.md "wikilink")
 
 <!-- end list -->
 
@@ -76,7 +76,7 @@
 ### 그 외
 
   - 다이코쿠 슈지 ()
-    성우 : [나미카와 다이스케](https://ko.wikipedia.org/wiki/나미카와_다이스케 "wikilink")
+    성우 : [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")
 
 ## 외부 링크
 

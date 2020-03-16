@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Su-30MKI](https://ko.wikipedia.org/wiki/_Su-30MKI).
 
 
-[300px](https://ko.wikipedia.org/wiki/파일:Su-30_MKI_SB_065.jpg "wikilink") **수호이 Su-30MKI**는 러시아 수호이사가 제작한 [수호이 Su-30의](https://ko.wikipedia.org/wiki/수호이_Su-30 "wikilink") 파생형이다. 나토명 **플랭커-H**이다. 인도에서 라이센스 생산한 버전이다.
+[300px](https://ko.wikipedia.org/wiki/파일:Su-30_MKI_SB_065.jpg "wikilink") **수호이 Su-30MKI**는 러시아 수호이사가 제작한 [수호이 Su-30의](../Page/수호이_Su-30.md "wikilink") 파생형이다. 나토명 **플랭커-H**이다. 인도에서 라이센스 생산한 버전이다.
 
 ## 역사
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Miss Me Or Diss Me](https://ko.wikipedia.org/wiki/Miss_Me_Or_Diss_Me).
 
 
-《**Miss Me Or Diss Me**》는 [MC몽](https://ko.wikipedia.org/wiki/MC몽 "wikilink")의 여섯 번째 정규 음반으로 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 3일에](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") 발매되었다. MC몽이 병역비리 사건 이후로 5년 만의 복귀작이다.
+《**Miss Me Or Diss Me**》는 [MC몽](../Page/MC몽.md "wikilink")의 여섯 번째 정규 음반으로 [2014년](../Page/2014년.md "wikilink") [11월 3일에](../Page/11월_3일.md "wikilink") 발매되었다. MC몽이 병역비리 사건 이후로 5년 만의 복귀작이다.
 
 ## 수록곡
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [2015 CONCACAF](https://ko.wikipedia.org/wiki/2015_CONCACAF).
 
 
-**2015년 CONCACAF컵**은 [러시아](https://ko.wikipedia.org/wiki/러시아 "wikilink")에서 개최된 [2017년 FIFA 컨페더레이션스컵에](https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵 "wikilink") 출전할 [북중미카리브 축구 연맹](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink")(CONCACAF) 대표를 결정하기 위해 열린 플레이오프 경기이다.
+**2015년 CONCACAF컵**은 [러시아](../Page/러시아.md "wikilink")에서 개최된 [2017년 FIFA 컨페더레이션스컵에](../Page/2017년_FIFA_컨페더레이션스컵.md "wikilink") 출전할 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF) 대표를 결정하기 위해 열린 플레이오프 경기이다.
 
-[2013년 CONCACAF 골드컵](../Page/2013년_CONCACAF_골드컵.md "wikilink") 우승 팀인 [미국과](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") [2015년 CONCACAF 골드컵](../Page/2015년_CONCACAF_골드컵.md "wikilink") 우승 팀인 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") 참가하였으며 2015년 10월 10일 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [패서디나](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") [로즈볼에서](https://ko.wikipedia.org/wiki/로즈볼_\(경기장\) "wikilink") 단판 승부 형식으로 열렸다. 멕시코가 연장전 끝에 미국에 3 – 2 승리를 기록하면서 2017년 FIFA 컨페더레이션스컵에서 북중미카리브 축구 연맹 대표로 참가하게 되었다.
+[2013년 CONCACAF 골드컵](../Page/2013년_CONCACAF_골드컵.md "wikilink") 우승 팀인 [미국과](../Page/미국_축구_국가대표팀.md "wikilink") [2015년 CONCACAF 골드컵](../Page/2015년_CONCACAF_골드컵.md "wikilink") 우승 팀인 [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") 참가하였으며 2015년 10월 10일 [미국](../Page/미국.md "wikilink") [패서디나](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") [로즈볼에서](../Page/로즈볼_\(경기장\).md "wikilink") 단판 승부 형식으로 열렸다. 멕시코가 연장전 끝에 미국에 3 – 2 승리를 기록하면서 2017년 FIFA 컨페더레이션스컵에서 북중미카리브 축구 연맹 대표로 참가하게 되었다.
 
 {{-}}
 
@@ -233,7 +233,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/위르겐_클린스만" title="wikilink">위르겐 클린스만</a></p></td>
+<td><p><a href="../Page/위르겐_클린스만.md" title="wikilink">위르겐 클린스만</a></p></td>
 <td></td>
 </tr>
 </tbody>

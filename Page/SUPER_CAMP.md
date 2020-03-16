@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPER CAMP](https://ko.wikipedia.org/wiki/SUPER_CAMP).
 
 
-《**SUPER JUNIOR 10th Anniversary Special Event - SUPER CAMP**》는 그룹 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 스페셜 앨범 〈[Devil](../Page/Devil_\(슈퍼주니어의_음반\).md "wikilink")〉 발매를 기반으로 개최된 스페셜 팬미팅 투어이다. 팬덤 내에서는 **슈캠**으로 약칭하기도 한다.
+《**SUPER JUNIOR 10th Anniversary Special Event - SUPER CAMP**》는 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 스페셜 앨범 〈[Devil](../Page/Devil_\(슈퍼주니어의_음반\).md "wikilink")〉 발매를 기반으로 개최된 스페셜 팬미팅 투어이다. 팬덤 내에서는 **슈캠**으로 약칭하기도 한다.
 
 ## 진행 방식
 
@@ -11,7 +11,7 @@
 
 ### 그 외
 
-86년생 멤버들의 연이은 입대로 인한 인원 불충분으로 댄스곡을 부를 시 백댄서를 기용하였으며 또한 팀 내 댄스 담당인 [신동](https://ko.wikipedia.org/wiki/신동_\(가수\) "wikilink"), [은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink"), [동해의](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink") 부재로 인해 〈[Sorry, Sorry](https://ko.wikipedia.org/wiki/Sorry,_Sorry "wikilink")〉, 〈[Mr. Simple](https://ko.wikipedia.org/wiki/Mr._Simple "wikilink")〉의 경우는 원곡에 수록된 댄스 브레이크를 생략하였다. 또한 서울 공연에서에 비해 노래의 비중이 줄었으며 방식 또한 별도의 현지 MC를 기용한 기존의 팬미팅과 동일한 방식과 러닝타임으로 진행되었다.
+86년생 멤버들의 연이은 입대로 인한 인원 불충분으로 댄스곡을 부를 시 백댄서를 기용하였으며 또한 팀 내 댄스 담당인 [신동](../Page/신동_\(가수\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [동해의](../Page/동해_\(가수\).md "wikilink") 부재로 인해 〈[Sorry, Sorry](../Page/Sorry,_Sorry.md "wikilink")〉, 〈[Mr. Simple](../Page/Mr._Simple.md "wikilink")〉의 경우는 원곡에 수록된 댄스 브레이크를 생략하였다. 또한 서울 공연에서에 비해 노래의 비중이 줄었으며 방식 또한 별도의 현지 MC를 기용한 기존의 팬미팅과 동일한 방식과 러닝타임으로 진행되었다.
 
 ## 투어 일정
 
@@ -35,14 +35,14 @@
 </tr>
 <tr class="even">
 <td><p>2015년 9월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p>고려대학교 화정체육관[1]</p></td>
 <td><p>6,510명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 1월 8일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄" title="wikilink">도쿄</a></p></td>
+<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
 <td></td>
 <td><p>아리아케 콜로세움</p></td>
 <td><p>통산 54,960명</p></td>
@@ -91,21 +91,21 @@
 </tr>
 <tr class="even">
 <td><p>2016년 2월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/베이징시" title="wikilink">베이징</a></p></td>
+<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
 <td></td>
 <td><p>북경 공인체육관</p></td>
 <td><p>9,364명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 3월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상하이시" title="wikilink">상하이</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
 <td><p>상하이 대무대</p></td>
 <td><p>9,295명</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016년 3월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>썬더 돔</p></td>
 <td><p>5,943명</p></td>
@@ -154,14 +154,14 @@
 </tr>
 <tr class="odd">
 <td><p>2016년 7월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬테레이" title="wikilink">몬테레이</a></p></td>
+<td><p><a href="../Page/몬테레이.md" title="wikilink">몬테레이</a></p></td>
 <td></td>
 <td><p>아레나 몬테레이</p></td>
 <td><p>6,597명</p></td>
 </tr>
 <tr class="even">
 <td><p>2016년 7월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멕시코시티" title="wikilink">멕시코시티</a></p></td>
+<td><p><a href="../Page/멕시코시티.md" title="wikilink">멕시코시티</a></p></td>
 <td><p>멕시코시티 아레나</p></td>
 <td><p>12,425명</p></td>
 <td></td>
@@ -187,11 +187,11 @@
 
 ## 제작
 
-  - [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink") ([이특](https://ko.wikipedia.org/wiki/이특 "wikilink"), [희철](https://ko.wikipedia.org/wiki/김희철_\(가수\) "wikilink"), [예성](https://ko.wikipedia.org/wiki/예성 "wikilink"), [강인](https://ko.wikipedia.org/wiki/강인_\(가수\) "wikilink")\[2\], [은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink")\[3\], [시원](../Page/시원_\(가수\).md "wikilink")\[4\], [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink")\[5\], [려욱](https://ko.wikipedia.org/wiki/려욱 "wikilink"), [규현](https://ko.wikipedia.org/wiki/규현 "wikilink"))
+  - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") ([이특](../Page/이특.md "wikilink"), [희철](../Page/김희철_\(가수\).md "wikilink"), [예성](../Page/예성.md "wikilink"), [강인](../Page/강인_\(가수\).md "wikilink")\[2\], [은혁](../Page/은혁.md "wikilink")\[3\], [시원](../Page/시원_\(가수\).md "wikilink")\[4\], [동해](../Page/동해_\(가수\).md "wikilink")\[5\], [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
   - 후원
-      - 서울 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+      - 서울 : [YES24](../Page/YES24.md "wikilink")
 
 ## 각주
 

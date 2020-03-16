@@ -1,50 +1,50 @@
 > This article is converted from Wikipedia: [THE ](https://ko.wikipedia.org/wiki/THE_).
 
 
-《**THE 프렌즈**》는 2014년부터 [K-STAR에서](https://ko.wikipedia.org/wiki/K-STAR_\(텔레비전_채널\) "wikilink") 방영되는 리얼리티 여행 프로그램이다. 현재 시즌8까지 방영되었다
+《**THE 프렌즈**》는 2014년부터 [K-STAR에서](../Page/K-STAR_\(텔레비전_채널\).md "wikilink") 방영되는 리얼리티 여행 프로그램이다. 현재 시즌8까지 방영되었다
 
 ## 시즌
 
 ### 시즌 1: 프렌즈 in 마카오
 
   - [이기우](https://ko.wikipedia.org/wiki/이기우_\(배우\) "wikilink")
-  - [현우](https://ko.wikipedia.org/wiki/현우 "wikilink")
+  - [현우](../Page/현우.md "wikilink")
   - [서하준](../Page/서하준.md "wikilink")
 
 ### 시즌 2: THE 프렌즈 in 세부
 
-  - [하석진](https://ko.wikipedia.org/wiki/하석진 "wikilink")
+  - [하석진](../Page/하석진.md "wikilink")
   - [이재윤](https://ko.wikipedia.org/wiki/이재윤 "wikilink")
-  - [유하준](https://ko.wikipedia.org/wiki/유하준 "wikilink")
+  - [유하준](../Page/유하준.md "wikilink")
 
 ### 시즌 3: THE 프렌즈 in 돗토리
 
-  - [윤세아](https://ko.wikipedia.org/wiki/윤세아 "wikilink")
-  - [신다은](https://ko.wikipedia.org/wiki/신다은 "wikilink")
+  - [윤세아](../Page/윤세아.md "wikilink")
+  - [신다은](../Page/신다은.md "wikilink")
   - [박란](https://ko.wikipedia.org/wiki/박란 "wikilink")
 
 ### 시즌 4: THE 프렌즈 in 타이완
 
-  - [이정진](https://ko.wikipedia.org/wiki/이정진 "wikilink")
+  - [이정진](../Page/이정진.md "wikilink")
   - [강동준](https://ko.wikipedia.org/wiki/강동준 "wikilink")
   - [고태용](https://ko.wikipedia.org/wiki/고태용 "wikilink")
 
 ### 시즌 5: THE 프렌즈 in 크로아티아
 
-  - [장혁](https://ko.wikipedia.org/wiki/장혁 "wikilink")
-  - [신승환](https://ko.wikipedia.org/wiki/신승환 "wikilink")
+  - [장혁](../Page/장혁.md "wikilink")
+  - [신승환](../Page/신승환.md "wikilink")
   - [최기섭](https://ko.wikipedia.org/wiki/최기섭 "wikilink")
 
 ### 시즌 6: THE 프렌즈 in 스위스
 
-  - [이특](https://ko.wikipedia.org/wiki/이특 "wikilink")
-  - [려욱](https://ko.wikipedia.org/wiki/려욱 "wikilink")
+  - [이특](../Page/이특.md "wikilink")
+  - [려욱](../Page/려욱.md "wikilink")
 
 ### 시즌 7: THE 프렌즈 in 치앙마이
 
-  - [박준형](https://ko.wikipedia.org/wiki/박준형_\(가수\) "wikilink")
+  - [박준형](../Page/박준형_\(가수\).md "wikilink")
   - [데니안](https://ko.wikipedia.org/wiki/데니안 "wikilink")
-  - [오타니 료헤이](https://ko.wikipedia.org/wiki/오타니_료헤이 "wikilink")
+  - [오타니 료헤이](../Page/오타니_료헤이.md "wikilink")
 
 ### 시즌 7: THE 프렌즈 in 코스타리카
 

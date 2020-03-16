@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Grateful Rebirth](https://ko.wikipedia.org/wiki/Grateful_Rebirth).
 
 
-《**Grateful Rebirth**》는, [도모토 쯔요시의](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") [미니 앨범이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+《**Grateful Rebirth**》는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 개요
 
-도모토 자신 처음이 되는 [미니 앨범으로](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"), 앨범으로는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 5월 발매의 《[TU](../Page/TU_\(음반\).md "wikilink")》 이래 약 1년 만의 작품이다. 2015년 열린 라이브 투어의 모습을 정리한 DVD·Blu-ray 〈TSUYOSHI DOMOTO TU FUNK TUOR 2015〉와 동시 발매이다\[1\].
+도모토 자신 처음이 되는 [미니 앨범으로](../Page/익스텐디드_플레이.md "wikilink"), 앨범으로는 [2015년](../Page/2015년.md "wikilink") 5월 발매의 《[TU](../Page/TU_\(음반\).md "wikilink")》 이래 약 1년 만의 작품이다. 2015년 열린 라이브 투어의 모습을 정리한 DVD·Blu-ray 〈TSUYOSHI DOMOTO TU FUNK TUOR 2015〉와 동시 발매이다\[1\].
 
 ## 수록곡
 

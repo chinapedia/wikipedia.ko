@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA 17](https://ko.wikipedia.org/wiki/FIFA_17).
 
 
-《**FIFA 17**》은 [일렉트로닉 아츠에서](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 제작한 24번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 게임이다. 북아메리카에서는 2016년 9월 27일, 그 외의 지역에서는 2016년 9월 29일에 출시되었다. 게임 시리즈에서 [프로스트바이트](https://ko.wikipedia.org/wiki/프로스트바이트_\(게임_엔진\) "wikilink") 게임 엔진을 채용한 첫 FIFA 게임이다.\[1\]
+《**FIFA 17**》은 [일렉트로닉 아츠에서](../Page/일렉트로닉_아츠.md "wikilink") 제작한 24번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 게임이다. 북아메리카에서는 2016년 9월 27일, 그 외의 지역에서는 2016년 9월 29일에 출시되었다. 게임 시리즈에서 [프로스트바이트](../Page/프로스트바이트_\(게임_엔진\).md "wikilink") 게임 엔진을 채용한 첫 FIFA 게임이다.\[1\]
 
 ## 각주
 

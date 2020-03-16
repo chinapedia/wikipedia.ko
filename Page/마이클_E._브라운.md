@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Michael_E_Brown_1.jpg "wikilink") **마이클 E. 브라운**(: 1965년 6월 5일 \~ )은 미국의 [천문학자](https://ko.wikipedia.org/wiki/천문학자 "wikilink")이다. 2003년 이래로 [칼텍](https://ko.wikipedia.org/wiki/칼텍 "wikilink")에서 [행성천문학](https://ko.wikipedia.org/wiki/행성천문학 "wikilink") 교수를 맡고 있다.\[1\] 브라운의 연구진은 많은 [해왕성 바깥 천체](https://ko.wikipedia.org/wiki/해왕성_바깥_천체 "wikilink")(TNO)들을 발견했다. 그 중 유명한 것이 [명왕성](https://ko.wikipedia.org/wiki/명왕성 "wikilink")보다 질량이 큰 유일한 TNO [에리스이다](https://ko.wikipedia.org/wiki/에리스_\(왜행성\) "wikilink").\[2\] 에리스의 발견은 명왕성이 [왜행성](https://ko.wikipedia.org/wiki/왜행성 "wikilink")으로 강판되는 계기가 되었기 때문에 브라운은 스스로를 “명왕성을 죽인 사람”이라고 부른다.\[3\]\[4\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Michael_E_Brown_1.jpg "wikilink") **마이클 E. 브라운**(: 1965년 6월 5일 \~ )은 미국의 [천문학자](../Page/천문학자.md "wikilink")이다. 2003년 이래로 [칼텍](https://ko.wikipedia.org/wiki/칼텍 "wikilink")에서 [행성천문학](https://ko.wikipedia.org/wiki/행성천문학 "wikilink") 교수를 맡고 있다.\[1\] 브라운의 연구진은 많은 [해왕성 바깥 천체](https://ko.wikipedia.org/wiki/해왕성_바깥_천체 "wikilink")(TNO)들을 발견했다. 그 중 유명한 것이 [명왕성](../Page/명왕성.md "wikilink")보다 질량이 큰 유일한 TNO [에리스이다](../Page/에리스_\(왜행성\).md "wikilink").\[2\] 에리스의 발견은 명왕성이 [왜행성](../Page/왜행성.md "wikilink")으로 강판되는 계기가 되었기 때문에 브라운은 스스로를 “명왕성을 죽인 사람”이라고 부른다.\[3\]\[4\]
 
 ## 각주
 

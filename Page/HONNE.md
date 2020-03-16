@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [HONNE](https://ko.wikipedia.org/wiki/HONNE).
 
 
-**혼**(HONNE)은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [일렉트로니카](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink"), [소울](https://ko.wikipedia.org/wiki/솔_음악 "wikilink") 듀오이다. 2014년 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에서 결성됐다. 듀오 이름은 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink") 단어 "[혼네](https://ko.wikipedia.org/wiki/혼네 "wikilink")"(本音: 본음; 사람의 본심)에서 유래한다.\[1\] 하지만 발음은 혼("hon")이라 명시했다.\[2\] 앤디와 제임스 둘 다 작곡, 레코딩, 프로듀싱을 한다.\[3\] 2014년, [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") *Warm On A Cold Night* 와 *All In The Value* 를 발매했다. 2015년 세번째 EP *Coastal Love* 를 발매했다.
+**혼**(HONNE)은 [영국](../Page/영국.md "wikilink")의 [일렉트로니카](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink"), [소울](https://ko.wikipedia.org/wiki/솔_음악 "wikilink") 듀오이다. 2014년 [런던](../Page/런던.md "wikilink")에서 결성됐다. 듀오 이름은 [일본어](../Page/일본어.md "wikilink") 단어 "[혼네](https://ko.wikipedia.org/wiki/혼네 "wikilink")"(本音: 본음; 사람의 본심)에서 유래한다.\[1\] 하지만 발음은 혼("hon")이라 명시했다.\[2\] 앤디와 제임스 둘 다 작곡, 레코딩, 프로듀싱을 한다.\[3\] 2014년, [EP](../Page/익스텐디드_플레이.md "wikilink") *Warm On A Cold Night* 와 *All In The Value* 를 발매했다. 2015년 세번째 EP *Coastal Love* 를 발매했다.
 
 ## 경력
 
 ### 2014년: 만남 그리고 경력 초기
 
-앤디와 제임스는 같은 대학교 내에서 만나 "HONNE"이라는 이름으로 음악을 만들어왔다. 2014년 9월 데뷔 싱글 "Warm On A Cold Night"를 발매했다. 2014년 11월, 두번째 EP *All In The Value* 를 발매했고, 같은 날 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")의 "Sebright Arms"라는 펍에서 첫 라이브 공연을 했다.\[4\]
+앤디와 제임스는 같은 대학교 내에서 만나 "HONNE"이라는 이름으로 음악을 만들어왔다. 2014년 9월 데뷔 싱글 "Warm On A Cold Night"를 발매했다. 2014년 11월, 두번째 EP *All In The Value* 를 발매했고, 같은 날 [런던](../Page/런던.md "wikilink")의 "Sebright Arms"라는 펍에서 첫 라이브 공연을 했다.\[4\]
 
 ### 2015년: EP 앨범 *Coastal Love* 와 공연들
 
@@ -100,7 +100,7 @@
 ## 외부 링크
 
   -
-  - [HONNE](https://www.youtube.com/c/honne) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [HONNE](https://www.youtube.com/c/honne) - [유튜브](../Page/유튜브.md "wikilink")
 
   -
   -

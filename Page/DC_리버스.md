@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DC ](https://ko.wikipedia.org/wiki/DC_).
 
 
-**DC 리버스**(DC Rebirth)는 [DC 코믹스에서](https://ko.wikipedia.org/wiki/DC_코믹스 "wikilink") 2016년 5월부터 선보인 만화 대규모 리런치 행사의 이름이다. 대대적인 [리부트](https://ko.wikipedia.org/wiki/리부트 "wikilink")로 알려진 [뉴52](https://ko.wikipedia.org/wiki/뉴52 "wikilink")의 종결과 함께, 과거 DC 유니버스의 부활과 《[왓치맨](https://ko.wikipedia.org/wiki/왓치맨 "wikilink")》의 DC 유니버스 편입을 내세웠다. 뉴52의 역사를 지우는 것은 아니고 이야기가 이어진다.
+**DC 리버스**(DC Rebirth)는 [DC 코믹스에서](../Page/DC_코믹스.md "wikilink") 2016년 5월부터 선보인 만화 대규모 리런치 행사의 이름이다. 대대적인 [리부트](https://ko.wikipedia.org/wiki/리부트 "wikilink")로 알려진 [뉴52](https://ko.wikipedia.org/wiki/뉴52 "wikilink")의 종결과 함께, 과거 DC 유니버스의 부활과 《[왓치맨](../Page/왓치맨.md "wikilink")》의 DC 유니버스 편입을 내세웠다. 뉴52의 역사를 지우는 것은 아니고 이야기가 이어진다.
 
 ## 출간 작품
 
@@ -28,7 +28,7 @@ DC가 2016년 [원더콘](https://ko.wikipedia.org/wiki/원더콘 "wikilink")에
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>《<a href="https://ko.wikipedia.org/wiki/배트맨" title="wikilink">배트맨</a>》</p></td>
+<td style="text-align: center;"><p>《<a href="../Page/배트맨.md" title="wikilink">배트맨</a>》</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>글</strong><br />
 톰 킹<br />
@@ -43,9 +43,9 @@ DC가 2016년 [원더콘](https://ko.wikipedia.org/wiki/원더콘 "wikilink")에
 <td style="text-align: center;"><p><strong>글</strong><br />
 <a href="../Page/제임스_타이넌_4세.md" title="wikilink">제임스 타이넌 4세</a><br />
 <strong>그림</strong><br />
-<a href="https://ko.wikipedia.org/wiki/에디_배로스" title="wikilink">에디 배로스</a><br />
+<a href="../Page/에디_배로스.md" title="wikilink">에디 배로스</a><br />
 알바로 마르티네스</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/배트맨" title="wikilink">배트맨</a>과 <a href="https://ko.wikipedia.org/wiki/배트우먼" title="wikilink">배트우먼</a>을 리더로 <a href="https://ko.wikipedia.org/wiki/팀_드레이크" title="wikilink">팀 드레이크</a>, <a href="https://ko.wikipedia.org/wiki/스테퍼니_브라운" title="wikilink">스테퍼니 브라운</a>, <a href="https://ko.wikipedia.org/wiki/커샌드라_케인" title="wikilink">커샌드라 케인</a>, <a href="https://ko.wikipedia.org/wiki/클레이페이스" title="wikilink">클레이페이스</a>로 구성된 팀이 등장. 월 2회 연재로 시작.</p></td>
+<td style="text-align: center;"><p><a href="../Page/배트맨.md" title="wikilink">배트맨</a>과 <a href="https://ko.wikipedia.org/wiki/배트우먼" title="wikilink">배트우먼</a>을 리더로 <a href="https://ko.wikipedia.org/wiki/팀_드레이크" title="wikilink">팀 드레이크</a>, <a href="https://ko.wikipedia.org/wiki/스테퍼니_브라운" title="wikilink">스테퍼니 브라운</a>, <a href="https://ko.wikipedia.org/wiki/커샌드라_케인" title="wikilink">커샌드라 케인</a>, <a href="https://ko.wikipedia.org/wiki/클레이페이스" title="wikilink">클레이페이스</a>로 구성된 팀이 등장. 월 2회 연재로 시작.</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>《<a href="../Page/배트걸.md" title="wikilink">배트걸</a>》</p></td>
@@ -118,7 +118,7 @@ DC가 2016년 [원더콘](https://ko.wikipedia.org/wiki/원더콘 "wikilink")에
 <td style="text-align: center;"><p>플래시포인트 이전의 슈퍼맨과 슈퍼맨 갑옷을 입은 렉스 루터가 대결함. 격월 연재로 시작.</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>《<a href="https://ko.wikipedia.org/wiki/슈퍼맨" title="wikilink">슈퍼맨</a>》</p></td>
+<td style="text-align: center;"><p>《<a href="../Page/슈퍼맨.md" title="wikilink">슈퍼맨</a>》</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>글</strong><br />
 <a href="https://ko.wikipedia.org/wiki/피터_J._토마시" title="wikilink">피터 J. 토마시</a><br />
@@ -129,12 +129,12 @@ DC가 2016년 [원더콘](https://ko.wikipedia.org/wiki/원더콘 "wikilink")에
 <td style="text-align: center;"><p>격월 연재로 시작.</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>《<a href="https://ko.wikipedia.org/wiki/원더우먼" title="wikilink">원더우먼</a>》</p></td>
+<td style="text-align: center;"><p>《<a href="../Page/원더우먼.md" title="wikilink">원더우먼</a>》</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>글</strong><br />
 <a href="../Page/그레그_러카.md" title="wikilink">그레그 러카</a><br />
 <strong>그림</strong><br />
-<a href="https://ko.wikipedia.org/wiki/리엄_샤프" title="wikilink">리엄 샤프</a><br />
+<a href="../Page/리엄_샤프.md" title="wikilink">리엄 샤프</a><br />
 <a href="../Page/니컬라_스콧.md" title="wikilink">니컬라 스콧</a></p></td>
 <td style="text-align: center;"><p>12회의 분량 동안, 홀수권에서는 샤프가 작화를 맡아 현재의 이야기인 "거짓말들"이 연재됨. 짝수권에서는 스콧이 작화를 맡아 과거의 이야기인 "이어 원"이 연재됨. 격월 연재로 시작.</p></td>
 </tr>
@@ -145,7 +145,7 @@ DC가 2016년 [원더콘](https://ko.wikipedia.org/wiki/원더콘 "wikilink")에
 <a href="../Page/진_룬_양.md" title="wikilink">진 룬 양</a><br />
 <strong>그림</strong><br />
 빅토르 보그다노비치</p></td>
-<td style="text-align: center;"><p>주인공은 약을 마시고 슈퍼맨의 힘을 얻게 된 중국인 소년 '쿵커난'. 원래 제목은 <em>The Super-Man</em>이었으나, 작가 양이 <a href="https://ko.wikipedia.org/wiki/중국어" title="wikilink">중국어</a>에는 'the'에 해당하는 단어가 없다는 이유로 바꿈. 월간 연재로 시작.</p></td>
+<td style="text-align: center;"><p>주인공은 약을 마시고 슈퍼맨의 힘을 얻게 된 중국인 소년 '쿵커난'. 원래 제목은 <em>The Super-Man</em>이었으나, 작가 양이 <a href="../Page/중국어.md" title="wikilink">중국어</a>에는 'the'에 해당하는 단어가 없다는 이유로 바꿈. 월간 연재로 시작.</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>《슈퍼우먼》</p></td>
@@ -155,7 +155,7 @@ DC가 2016년 [원더콘](https://ko.wikipedia.org/wiki/원더콘 "wikilink")에
 <strong>그림</strong><br />
 필 히메네스<br />
 에마누엘라 루파키노</p></td>
-<td style="text-align: center;"><p>주인공은 <a href="https://ko.wikipedia.org/wiki/로이스_레인" title="wikilink">로이스 레인</a>. 월간 연재로 시작.</p></td>
+<td style="text-align: center;"><p>주인공은 <a href="../Page/로이스_레인.md" title="wikilink">로이스 레인</a>. 월간 연재로 시작.</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>《<a href="https://ko.wikipedia.org/wiki/슈퍼걸" title="wikilink">슈퍼걸</a>》</p></td>
@@ -283,7 +283,7 @@ Phil Briones</p></td>
 벤 퍼시<br />
 <strong>그림</strong><br />
 존보이 마이어스</p></td>
-<td style="text-align: center;"><p>주인공은 <a href="https://ko.wikipedia.org/wiki/데이미언_웨인" title="wikilink">데이미언 웨인</a> = <a href="https://ko.wikipedia.org/wiki/로빈_(DC_코믹스)" title="wikilink">로빈과</a> <a href="https://ko.wikipedia.org/wiki/스타파이어" title="wikilink">스타파이어</a>, <a href="https://ko.wikipedia.org/wiki/레이븐" title="wikilink">레이븐</a>, <a href="https://ko.wikipedia.org/wiki/비스트보이" title="wikilink">비스트보이</a>, <a href="https://ko.wikipedia.org/wiki/월리_웨스트" title="wikilink">월리 웨스트</a> = <a href="https://ko.wikipedia.org/wiki/키드_플래시" title="wikilink">키드 플래시로</a> 구성된 팀. 월간 연재로 시작.</p></td>
+<td style="text-align: center;"><p>주인공은 <a href="https://ko.wikipedia.org/wiki/데이미언_웨인" title="wikilink">데이미언 웨인</a> = <a href="../Page/로빈_(DC_코믹스).md" title="wikilink">로빈과</a> <a href="https://ko.wikipedia.org/wiki/스타파이어" title="wikilink">스타파이어</a>, <a href="https://ko.wikipedia.org/wiki/레이븐" title="wikilink">레이븐</a>, <a href="https://ko.wikipedia.org/wiki/비스트보이" title="wikilink">비스트보이</a>, <a href="https://ko.wikipedia.org/wiki/월리_웨스트" title="wikilink">월리 웨스트</a> = <a href="https://ko.wikipedia.org/wiki/키드_플래시" title="wikilink">키드 플래시로</a> 구성된 팀. 월간 연재로 시작.</p></td>
 </tr>
 </tbody>
 </table>
@@ -307,7 +307,7 @@ Phil Briones</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>《<a href="https://ko.wikipedia.org/wiki/그린_애로우" title="wikilink">그린 애로우</a>》</p></td>
+<td style="text-align: center;"><p>《<a href="../Page/그린_애로우.md" title="wikilink">그린 애로우</a>》</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>글</strong><br />
 벤 퍼시<br />
@@ -354,7 +354,7 @@ Felipe Watanabe</p></td>
 <a href="https://ko.wikipedia.org/wiki/스콧_롭델" title="wikilink">스콧 롭델</a><br />
 <strong>그림</strong><br />
 덱스터 소이</p></td>
-<td style="text-align: center;"><p>주인공은 <a href="https://ko.wikipedia.org/wiki/제이슨_토드" title="wikilink">제이슨 토드과</a> <a href="https://ko.wikipedia.org/wiki/비자로" title="wikilink">비자로</a>, <a href="https://ko.wikipedia.org/wiki/아르테미스" title="wikilink">아르테미스</a>로 구성된 팀. 월간 연재로 시작.</p></td>
+<td style="text-align: center;"><p>주인공은 <a href="https://ko.wikipedia.org/wiki/제이슨_토드" title="wikilink">제이슨 토드과</a> <a href="https://ko.wikipedia.org/wiki/비자로" title="wikilink">비자로</a>, <a href="../Page/아르테미스.md" title="wikilink">아르테미스</a>로 구성된 팀. 월간 연재로 시작.</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>《<a href="https://ko.wikipedia.org/wiki/수어사이드_스쿼드" title="wikilink">수어사이드 스쿼드</a>》</p></td>
@@ -362,7 +362,7 @@ Felipe Watanabe</p></td>
 <td style="text-align: center;"><p><strong>글</strong><br />
 <a href="https://ko.wikipedia.org/wiki/롭_윌리엄스" title="wikilink">롭 윌리엄스</a><br />
 <strong>그림</strong><br />
-<a href="https://ko.wikipedia.org/wiki/짐_리" title="wikilink">짐 리</a><br />
+<a href="../Page/짐_리.md" title="wikilink">짐 리</a><br />
 <a href="https://ko.wikipedia.org/wiki/필립_탠" title="wikilink">필립 탠</a></p></td>
 <td style="text-align: center;"><p>주인공은 할리 퀸, <a href="https://ko.wikipedia.org/wiki/킬러_크록" title="wikilink">킬러 크록</a>, <a href="https://ko.wikipedia.org/wiki/데드샷" title="wikilink">데드샷</a>, <a href="https://ko.wikipedia.org/wiki/카타나" title="wikilink">카타나</a>, <a href="https://ko.wikipedia.org/wiki/캡틴_부메랑" title="wikilink">부메랑과</a> 다른 이들로 구성된 팀. 격월 연재로 시작.</p></td>
 </tr>
@@ -593,7 +593,7 @@ Felipe Watanabe</p></td>
 <td style="text-align: center;"><p><strong>글</strong><br />
 <a href="https://ko.wikipedia.org/wiki/롭_윌리엄스" title="wikilink">롭 윌리엄스</a><br />
 <strong>그림</strong><br />
-<a href="https://ko.wikipedia.org/wiki/짐_리" title="wikilink">짐 리</a></p></td>
+<a href="../Page/짐_리.md" title="wikilink">짐 리</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">

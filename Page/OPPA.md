@@ -10,6 +10,6 @@
 ## 멤버
 
   - 1집 : 김영훈, 유종국, 조성훈, 정철운, 김섭, 김상태, [정명훈](https://ko.wikipedia.org/wiki/정명훈_\(가수\) "wikilink"), 차희영
-  - 2집 : 김영훈, 김상태, 김섭, [한글](https://ko.wikipedia.org/wiki/송원근 "wikilink"), [국철](https://ko.wikipedia.org/wiki/유건_\(배우\) "wikilink"), 아키, [현창](../Page/이창희_\(1980년\).md "wikilink")
+  - 2집 : 김영훈, 김상태, 김섭, [한글](../Page/송원근.md "wikilink"), [국철](../Page/유건_\(배우\).md "wikilink"), 아키, [현창](../Page/이창희_\(1980년\).md "wikilink")
 
 [분류:1997년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1997년_결성된_음악_그룹 "wikilink") [분류:2000년 폐지](https://ko.wikipedia.org/wiki/분류:2000년_폐지 "wikilink") [분류:대한민국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_그룹 "wikilink")

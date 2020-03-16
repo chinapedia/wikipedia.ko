@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Forever you](https://ko.wikipedia.org/wiki/Forever_you).
 
 
-《**forever you**》는 일본의 밴드 [ZARD](https://ko.wikipedia.org/wiki/ZARD "wikilink")의 여섯 번째 [정규 앨범으로](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink"), 1995년 3월 10일 발매되었다. ([CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"): JBCJ-1001)
+《**forever you**》는 일본의 밴드 [ZARD](../Page/ZARD.md "wikilink")의 여섯 번째 [정규 앨범으로](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink"), 1995년 3월 10일 발매되었다. ([CD](../Page/콤팩트_디스크.md "wikilink"): JBCJ-1001)
 
 ## 수록곡
 
@@ -20,6 +20,6 @@
 
 ## 외부 링크
 
-  - [《forever you》](http://www.oricon.co.jp/prof/26939/products/123527/1/) - [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink")
+  - [《forever you》](http://www.oricon.co.jp/prof/26939/products/123527/1/) - [오리콘](../Page/오리콘.md "wikilink")
 
 [분류:ZARD의 음반](https://ko.wikipedia.org/wiki/분류:ZARD의_음반 "wikilink") [분류:1995년 음반](https://ko.wikipedia.org/wiki/분류:1995년_음반 "wikilink") [분류:1995년 오리콘 앨범 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:1995년_오리콘_앨범_차트_1위_작품 "wikilink") [분류:일본레코드협회 밀리언 인증 음반](https://ko.wikipedia.org/wiki/분류:일본레코드협회_밀리언_인증_음반 "wikilink")

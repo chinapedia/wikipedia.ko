@@ -2,12 +2,12 @@
 
 
 <table>
-<caption>2018년 4월 11일 현재 <a href="https://ko.wikipedia.org/wiki/태양계" title="wikilink">태양계</a>에서 가장 먼 천체들[1]</caption>
+<caption>2018년 4월 11일 현재 <a href="../Page/태양계.md" title="wikilink">태양계</a>에서 가장 먼 천체들[1]</caption>
 <thead>
 <tr class="header">
 <th><p>천체명</p></th>
-<th><p>태양으로부터 거리 (<a href="https://ko.wikipedia.org/wiki/천문단위" title="wikilink">AU</a>)</p></th>
-<th><p>rowspan=2 data-sort-type=number | <a href="https://ko.wikipedia.org/wiki/겉보기등급" title="wikilink">겉보기등급</a></p></th>
+<th><p>태양으로부터 거리 (<a href="../Page/천문단위.md" title="wikilink">AU</a>)</p></th>
+<th><p>rowspan=2 data-sort-type=number | <a href="../Page/겉보기등급.md" title="wikilink">겉보기등급</a></p></th>
 <th><p>rowspan=2 data-sort-type=number | <a href="https://ko.wikipedia.org/wiki/절대등급#태양계_천체_(H)" title="wikilink">절대등급</a> (H)</p></th>
 </tr>
 </thead>
@@ -25,7 +25,7 @@
 <td><p>150</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/에리스_(왜행성)" title="wikilink">에리스</a></p></td>
+<td><p><a href="../Page/에리스_(왜행성).md" title="wikilink">에리스</a></p></td>
 <td><p>96.14</p></td>
 <td><p>37.8</p></td>
 <td><p>97.6</p></td>
@@ -49,7 +49,7 @@
 <td><p>100.8</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/90377_세드나" title="wikilink">세드나</a></p></td>
+<td><p><a href="../Page/90377_세드나.md" title="wikilink">세드나</a></p></td>
 <td><p>85.14</p></td>
 <td><p>76.0</p></td>
 <td><p>939</p></td>
@@ -241,7 +241,7 @@
 <td><p>89.0</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/(148209)_2000_CR105" title="wikilink">{{mp</a></p></td>
+<td><p><a href="../Page/(148209)_2000_CR105.md" title="wikilink">{{mp</a></p></td>
 <td><p>61.59</p></td>
 <td><p>44.3</p></td>
 <td><p>412</p></td>
@@ -313,7 +313,7 @@
 <td><p>77.0</p></td>
 </tr>
 <tr class="odd">
-<td><p>발견된 태양계 천체 중 현재 <a href="https://ko.wikipedia.org/wiki/해왕성" title="wikilink">해왕성</a>보다 두 배 이상 먼 천체들을 나열했음.[3] </p></td>
+<td><p>발견된 태양계 천체 중 현재 <a href="../Page/해왕성.md" title="wikilink">해왕성</a>보다 두 배 이상 먼 천체들을 나열했음.[3] </p></td>
 <td></td>
 <td></td>
 <td></td>

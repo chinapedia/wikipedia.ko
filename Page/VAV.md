@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VAV](https://ko.wikipedia.org/wiki/VAV).
 
 
-**VAV**(브이에이브이)는 [에이팀](https://ko.wikipedia.org/wiki/에이팀 "wikilink") 소속의 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 7인조 남성 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다.
+**VAV**(브이에이브이)는 [에이팀](https://ko.wikipedia.org/wiki/에이팀 "wikilink") 소속의 [대한민국](../Page/대한민국.md "wikilink")의 7인조 남성 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다.
 
 2015년 11월 첫 미니 음반 《Under The Moonlight》로 데뷔하였다.\[1\] 2016년 5월, 새 멤버 제한을 영입함으로써 VAV는 7인조가 되었으나, 2016년 6월에 멤버 샤오가 탈퇴하여 VAV는 다시 6인조로 줄어들었다.
 

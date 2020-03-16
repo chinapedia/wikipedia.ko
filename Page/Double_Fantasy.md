@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Double Fantasy](https://ko.wikipedia.org/wiki/Double_Fantasy).
 
 
-《**Double Fantasy**》는 1980년 발표된 [존 레논의](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 일곱 번째 정규음반으로 [오노 요코와의](https://ko.wikipedia.org/wiki/오노_요코 "wikilink") 공동 음반이다. 레논이 생전 마지막 발표한 음반으로 아들 숀을 키우는 5년간의 하우스번드로서의 생활을 마감하고 음악계에 모습을 나타내면서 발표한 음반이다. 하지만 이 음반 발표 후 한 달도 안 돼서 레논은 마크 체프먼이란 자에게 사살 당하고 전 세계의 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink") 팬들은 충격과 절망감에 사로잡힌다.
+《**Double Fantasy**》는 1980년 발표된 [존 레논의](../Page/존_레논.md "wikilink") 일곱 번째 정규음반으로 [오노 요코와의](../Page/오노_요코.md "wikilink") 공동 음반이다. 레논이 생전 마지막 발표한 음반으로 아들 숀을 키우는 5년간의 하우스번드로서의 생활을 마감하고 음악계에 모습을 나타내면서 발표한 음반이다. 하지만 이 음반 발표 후 한 달도 안 돼서 레논은 마크 체프먼이란 자에게 사살 당하고 전 세계의 [비틀즈](../Page/비틀즈.md "wikilink") 팬들은 충격과 절망감에 사로잡힌다.
 
 ## 배경
 
@@ -13,7 +13,7 @@
 
 ## 녹음
 
-어느 날, 레논은 [에어로스미스](https://ko.wikipedia.org/wiki/에어로스미스 "wikilink"), [더 후](https://ko.wikipedia.org/wiki/더_후 "wikilink") 등의 음반을 프로듀스 한 바 있는 잭 더글라스와 만나 "지금은 음악 활동을 하지 않는 나의 곡들이 어떠한 지를 판단 할 수 없다. 안 될 것 같으면 안된다고 말해 달라"며 데모 테이프를 전달했다. 훗날 더글라스는 한 인터뷰에서 "집으로 돌아와 그 데모 테이프를 들었을 때 '차라리 이 데모 테이프를 그대로 발표하면 좋을 텐데'라고 생각할 정도로 감동했었다"라고 말했다.\[4\]
+어느 날, 레논은 [에어로스미스](../Page/에어로스미스.md "wikilink"), [더 후](../Page/더_후.md "wikilink") 등의 음반을 프로듀스 한 바 있는 잭 더글라스와 만나 "지금은 음악 활동을 하지 않는 나의 곡들이 어떠한 지를 판단 할 수 없다. 안 될 것 같으면 안된다고 말해 달라"며 데모 테이프를 전달했다. 훗날 더글라스는 한 인터뷰에서 "집으로 돌아와 그 데모 테이프를 들었을 때 '차라리 이 데모 테이프를 그대로 발표하면 좋을 텐데'라고 생각할 정도로 감동했었다"라고 말했다.\[4\]
 
 리허설 동안 레논의 곡이라는 사실은 일체 비밀로 되어 있었기 때문에 더글라스는 임시로 자신이 노래를 불렀는데 세션에 참여하게 된 뮤지션들으로부터 "노래는 훌륭하다. 그런데 당신의 목소리는 개구리 같아. 최악이다"라며 놀림을 받았다고 한다. 그리고 레논의 곡이라는 사실을 숨기며 여러 번 우회하고 고생했지만, 녹음을 앞두고 그들과 함께 다코타 빌딩을 방문, 레논과 처음 대면한 그들의 긴장과 흥분, 감동이 어우러진 광경을 목격하게 되고, 고생이 보상된 것과 아울러 잊을 수 없는 경험을 갖게 됐다.
 
@@ -27,11 +27,11 @@
 
 ## 발매, 반응 및 여파
 
-이 앨범은 게펀 레코드를 통해 LP와 CD로 출시됐다. 게펀 측은 완성된 마스터 테이프를 듣지도 않고 계약서에 서명했다. 레논의 사후 《Double Fantasy》는 미국과 영국, 모두에서 차트 1위를 차지했고, 1981년 [그래미 어워드에서도](https://ko.wikipedia.org/wiki/그래미상 "wikilink") "올해의 앨범상"을 수상했다. 선행 싱글로 발매된 〈[(Just Like) Starting Over](https://ko.wikipedia.org/wiki/\(Just_Like\)_Starting_Over "wikilink")〉는 US 기준 주간 차트 1위, 연간 차트 10위를 차지, 레논의 가장 큰 성공을 거둔 솔로 싱글로 기록되었다. 본국 영국에서도 비틀즈 해체 이후 처음으로 1위를 차지했다. 이어 싱글 커트 된 〈[Woman](https://ko.wikipedia.org/wiki/Woman_\(존_레논의_노래\) "wikilink")〉, 〈[Watching the Wheels](https://ko.wikipedia.org/wiki/Watching_the_Wheels "wikilink")〉도 크게 히트했다.
+이 앨범은 게펀 레코드를 통해 LP와 CD로 출시됐다. 게펀 측은 완성된 마스터 테이프를 듣지도 않고 계약서에 서명했다. 레논의 사후 《Double Fantasy》는 미국과 영국, 모두에서 차트 1위를 차지했고, 1981년 [그래미 어워드에서도](https://ko.wikipedia.org/wiki/그래미상 "wikilink") "올해의 앨범상"을 수상했다. 선행 싱글로 발매된 〈[(Just Like) Starting Over](https://ko.wikipedia.org/wiki/\(Just_Like\)_Starting_Over "wikilink")〉는 US 기준 주간 차트 1위, 연간 차트 10위를 차지, 레논의 가장 큰 성공을 거둔 솔로 싱글로 기록되었다. 본국 영국에서도 비틀즈 해체 이후 처음으로 1위를 차지했다. 이어 싱글 커트 된 〈[Woman](../Page/Woman_\(존_레논의_노래\).md "wikilink")〉, 〈[Watching the Wheels](../Page/Watching_the_Wheels.md "wikilink")〉도 크게 히트했다.
 
 ## 재발매
 
-이 앨범은 1989년 부터 캐피틀 레코드를 통해 출시되고 있다. 2000년에는 3곡의 보너스 트랙을 추가 수록한 디지털 리마스터 앨범이 발매되었다. 추가된 3곡의 보너스 트랙은 〈[Help Me to Help Myself](https://ko.wikipedia.org/wiki/Help_Me_to_Help_Myself "wikilink")〉, 〈Walking On Thin Ice〉, 그리고 〈Central Park Stroll〉이다. 〈[Help Me to Help Myself](https://ko.wikipedia.org/wiki/Help_Me_to_Help_Myself "wikilink")〉는 오랫동안 해적판으로 돌아다니다가 첫 정식 출시된 곡으로 존의 마지막 녹음곡 중 하나에 속한다. 〈Walking On Thin Ice〉는 오노 요코의 곡으로 존이 사망하기 직전에 완성된 곡이다. 존과 요코는 그들이 거주하는 뉴욕 다코타 아파트를 떠나기 직전에 〈Walking On Thin Ice〉를 작업하고 있었고, 존은 곧 마크 채프먼의 총격을 받았다. 〈Central Park Stroll〉은 존과 요코가 뉴욕의 [센트럴 파크를](https://ko.wikipedia.org/wiki/센트럴_파크 "wikilink") 산책하고 있을 때 두 사람의 대화를 거둔 것이다.\[6\] 2010년에는 《Double Fantasy Stripped Down》라는 2CD 세트가 출시되었다. 이 2CD 세트는 [숀 레논의](https://ko.wikipedia.org/wiki/숀_레논 "wikilink") 커버 아트워크와 함께, 더 간단한 편곡을 특징으로 하는 대체 버전(Disk 1ː Double Fantasy Stripped Down)과 새로 리마스터링 된 사본(Disk 2ː Original Album)으로 구성되어 있다.\[7\]
+이 앨범은 1989년 부터 캐피틀 레코드를 통해 출시되고 있다. 2000년에는 3곡의 보너스 트랙을 추가 수록한 디지털 리마스터 앨범이 발매되었다. 추가된 3곡의 보너스 트랙은 〈[Help Me to Help Myself](https://ko.wikipedia.org/wiki/Help_Me_to_Help_Myself "wikilink")〉, 〈Walking On Thin Ice〉, 그리고 〈Central Park Stroll〉이다. 〈[Help Me to Help Myself](https://ko.wikipedia.org/wiki/Help_Me_to_Help_Myself "wikilink")〉는 오랫동안 해적판으로 돌아다니다가 첫 정식 출시된 곡으로 존의 마지막 녹음곡 중 하나에 속한다. 〈Walking On Thin Ice〉는 오노 요코의 곡으로 존이 사망하기 직전에 완성된 곡이다. 존과 요코는 그들이 거주하는 뉴욕 다코타 아파트를 떠나기 직전에 〈Walking On Thin Ice〉를 작업하고 있었고, 존은 곧 마크 채프먼의 총격을 받았다. 〈Central Park Stroll〉은 존과 요코가 뉴욕의 [센트럴 파크를](../Page/센트럴_파크.md "wikilink") 산책하고 있을 때 두 사람의 대화를 거둔 것이다.\[6\] 2010년에는 《Double Fantasy Stripped Down》라는 2CD 세트가 출시되었다. 이 2CD 세트는 [숀 레논의](../Page/숀_레논.md "wikilink") 커버 아트워크와 함께, 더 간단한 편곡을 특징으로 하는 대체 버전(Disk 1ː Double Fantasy Stripped Down)과 새로 리마스터링 된 사본(Disk 2ː Original Album)으로 구성되어 있다.\[7\]
 
 ## 표지
 
@@ -39,7 +39,7 @@
 
 ## 곡 목록
 
-모든 곡들은 [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 또는 [요코 오노에](https://ko.wikipedia.org/wiki/요코_오노 "wikilink") 의해 씌여졌다.
+모든 곡들은 [존 레논](../Page/존_레논.md "wikilink") 또는 [요코 오노에](https://ko.wikipedia.org/wiki/요코_오노 "wikilink") 의해 씌여졌다.
 
   - Side one
 
@@ -51,7 +51,7 @@
 4.  "[Give Me Something](https://ko.wikipedia.org/wiki/Give_Me_Something "wikilink")"  (요코 오노) – 1:35
 5.  "[I'm Losing You](https://ko.wikipedia.org/wiki/I'm_Losing_You "wikilink")"  (존 레논) – 3:57
 6.  "[I'm Moving On](https://ko.wikipedia.org/wiki/I'm_Moving_On "wikilink")"  (요코 오노) – 2:20
-7.  "[Beautiful Boy (Darling Boy)](https://ko.wikipedia.org/wiki/Beautiful_Boy_\(Darling_Boy\) "wikilink")"  (존 레논) – 4:02
+7.  "[Beautiful Boy (Darling Boy)](../Page/Beautiful_Boy_\(Darling_Boy\).md "wikilink")"  (존 레논) – 4:02
 
 <!-- end list -->
 
@@ -59,9 +59,9 @@
 
 <!-- end list -->
 
-1.  "[Watching the Wheels](https://ko.wikipedia.org/wiki/Watching_the_Wheels "wikilink")"  (존 레논) – 3:35
+1.  "[Watching the Wheels](../Page/Watching_the_Wheels.md "wikilink")"  (존 레논) – 3:35
 2.  "[Yes, I'm Your Angel](https://ko.wikipedia.org/wiki/Yes,_I'm_Your_Angel "wikilink")"  (요코 오노) – 3:08
-3.  "[Woman](https://ko.wikipedia.org/wiki/Woman_\(존_레논의_노래\) "wikilink")"  (존 레논) – 3:32
+3.  "[Woman](../Page/Woman_\(존_레논의_노래\).md "wikilink")"  (존 레논) – 3:32
 4.  "[Beautiful Boys](https://ko.wikipedia.org/wiki/Beautiful_Boys "wikilink")"  (요코 오노) – 2:55
 5.  "[Dear Yoko](https://ko.wikipedia.org/wiki/Dear_Yoko "wikilink")"  (존 레논) – 2:34
 6.  "[Every Man Has a Woman Who Loves Him](https://ko.wikipedia.org/wiki/Every_Man_Has_a_Woman_Who_Loves_Him "wikilink")"  (요코 오노) – 4:02
@@ -85,10 +85,10 @@
 4.  "[Give Me Something](https://ko.wikipedia.org/wiki/Give_Me_Something "wikilink")"  (요코 오노) – 1:31
 5.  "[I'm Losing You](https://ko.wikipedia.org/wiki/I'm_Losing_You "wikilink")"  (존 레논) – 4:26
 6.  "[I'm Moving On](https://ko.wikipedia.org/wiki/I'm_Moving_On "wikilink")"  (요코 오노) – 2:28
-7.  "[Beautiful Boy (Darling Boy)](https://ko.wikipedia.org/wiki/Beautiful_Boy_\(Darling_Boy\) "wikilink")"  (존 레논) – 3:50
-8.  "[Watching the Wheels](https://ko.wikipedia.org/wiki/Watching_the_Wheels "wikilink")"  (존 레논) – 3:32
+7.  "[Beautiful Boy (Darling Boy)](../Page/Beautiful_Boy_\(Darling_Boy\).md "wikilink")"  (존 레논) – 3:50
+8.  "[Watching the Wheels](../Page/Watching_the_Wheels.md "wikilink")"  (존 레논) – 3:32
 9.  "[Yes, I'm Your Angel](https://ko.wikipedia.org/wiki/Yes,_I'm_Your_Angel "wikilink")"  (요코 오노) – 2:53
-10. "[Woman](https://ko.wikipedia.org/wiki/Woman_\(존_레논의_노래\) "wikilink")"  (존 레논) – 3:45
+10. "[Woman](../Page/Woman_\(존_레논의_노래\).md "wikilink")"  (존 레논) – 3:45
 11. "[Beautiful Boys](https://ko.wikipedia.org/wiki/Beautiful_Boys "wikilink")"  (요코 오노) – 3:16
 12. "[Dear Yoko](https://ko.wikipedia.org/wiki/Dear_Yoko "wikilink")"  (존 레논) – 3:03
 13. "[Every Man Has a Woman Who Loves Him](https://ko.wikipedia.org/wiki/Every_Man_Has_a_Woman_Who_Loves_Him "wikilink")"  (요코 오노) – 4:46
@@ -106,12 +106,12 @@
 | [독일 메가 음반 차트](../Page/메하하르츠.md "wikilink")\[11\]                                                           | 4                                                                                                                                                                                                                                                         |
 | [프랑스 음반 협회](https://ko.wikipedia.org/wiki/프랑스_음반_협회 "wikilink") 음반 차트\[12\]                                | 2                                                                                                                                                                                                                                                         |
 | 이탈리아 음반 차트\[13\]                                                                                           | 6                                                                                                                                                                                                                                                         |
-| 일본 [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink") LP 차트\[14\]                                         | 2                                                                                                                                                                                                                                                         |
+| 일본 [오리콘](../Page/오리콘.md "wikilink") LP 차트\[14\]                                                            | 2                                                                                                                                                                                                                                                         |
 | 뉴질랜드 [리코디드 뮤직 NZ](https://ko.wikipedia.org/wiki/리코디드_뮤직_NZ "wikilink") 탑 40 앨범\[15\]                       | 1                                                                                                                                                                                                                                                         |
 | 노르웨이 [VG-리스타](https://ko.wikipedia.org/wiki/VG-리스타 "wikilink") 탑 40 앨범\[16\]                               | 1                                                                                                                                                                                                                                                         |
 | 스웨덴 음반 차트\[17\]                                                                                            | 1                                                                                                                                                                                                                                                         |
 | [영국 음반 차트](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink")\[18\]                                        | 1                                                                                                                                                                                                                                                         |
-| 미국 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink")\[19\]                                       | 1                                                                                                                                                                                                                                                         |
+| 미국 [빌보드 200](../Page/빌보드_200.md "wikilink")\[19\]                                                          | 1                                                                                                                                                                                                                                                         |
 | 독일 [GfK 엔터테인먼트 차트](https://ko.wikipedia.org/wiki/GfK_엔터테인먼트_차트 "wikilink") 탑 100 앨범<ref name="GER1">{{웹 인용 | url = <http://www.officialcharts.de/album.asp?artist=John+Lennon&title=The+John+Lennon+Collection&country=de>| title = Album Search: John Lennon: *The John Lennon Collection*|language=독일어|publisher = Media Control| accessdate =3 October 2011}}</ref> |
 
 ### 연간 차트
@@ -125,9 +125,9 @@
 | 오스트리아 음반 차트\[23\]                                                      | 2  |
 | [캐나다 음반 차트](https://ko.wikipedia.org/wiki/RPM_\(잡지\) "wikilink")\[24\] | 3  |
 | 이탈리아 음반 차트\[25\]                                                       | 9  |
-| [일본 음반 차트](https://ko.wikipedia.org/wiki/오리콘 "wikilink")\[26\]         | 29 |
+| [일본 음반 차트](../Page/오리콘.md "wikilink")\[26\]                            | 29 |
 | 영국 음반 차트\[27\]                                                         | 10 |
-| 미국 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink")\[28\]   | 2  |
+| 미국 [빌보드 200](../Page/빌보드_200.md "wikilink")\[28\]                      | 2  |
 | 독일 음반 차트\[29\]                                                         | 3  |
 
 ## 인증 및 판매
@@ -136,12 +136,12 @@
 
 <div style="float:left; width:40%">
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 프로듀서, 편곡, 보컬(리드, 하모니, 백그라운드), 기타(리듬, 어코스틱), 피아노, 키보드
-  - [오노 요코](https://ko.wikipedia.org/wiki/오노_요코 "wikilink") – 프로듀서, 편곡, 보컬(리드, 백그라운드)
+  - [존 레논](../Page/존_레논.md "wikilink") – 프로듀서, 편곡, 보컬(리드, 하모니, 백그라운드), 기타(리듬, 어코스틱), 피아노, 키보드
+  - [오노 요코](../Page/오노_요코.md "wikilink") – 프로듀서, 편곡, 보컬(리드, 백그라운드)
   - 잭 더글라스 – 프로듀서, 편곡
   - 얼 슬릭 – [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink")
   - [휴 맥크라켄](https://ko.wikipedia.org/wiki/휴_맥크라켄 "wikilink") – 리드 기타
-  - 토니 레빈 – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 토니 레빈 – [베이스](../Page/베이스_기타.md "wikilink")
   - 조지 스몰 – 키보드, 피아노
   - 앤디 뉴마크 – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
   - 아서 젠킨스 – 퍼쿠션
@@ -149,7 +149,7 @@
   - 로버트 그리니지 – 스틸 드럼 on "Beautiful Boy"
   - 매튜 커닝햄 – 해머드 덜시머 on "Watching the Wheels"
   - 랜디 스테인 – [콘서티나](https://ko.wikipedia.org/wiki/콘서티나 "wikilink")
-  - 하워드 존슨 –[호른](https://ko.wikipedia.org/wiki/호른 "wikilink")
+  - 하워드 존슨 –[호른](../Page/호른.md "wikilink")
   - 그랜트 헝거포드 – 호른
   - 제이디 파란 – 호른
   - 셀던 포웰 – 호른

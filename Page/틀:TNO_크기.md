@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [:TNO ](https://ko.wikipedia.org/wiki/:TNO_).
 
 
-<imagemap> 파일:EightTNOs.png|thumb|upright=1.4||[명왕성](https://ko.wikipedia.org/wiki/명왕성 "wikilink"), [에리스](https://ko.wikipedia.org/wiki/에리스_\(왜행성\) "wikilink"), [마케마케](https://ko.wikipedia.org/wiki/마케마케 "wikilink"), [하우메아](https://ko.wikipedia.org/wiki/하우메아 "wikilink"), [세드나](https://ko.wikipedia.org/wiki/90377_세드나 "wikilink"), [2007 OR<sub>10</sub>](https://ko.wikipedia.org/wiki/\(225088\)_2007_OR10 "wikilink"), [콰오아](https://ko.wikipedia.org/wiki/50000_콰오아 "wikilink"), [오르쿠스](https://ko.wikipedia.org/wiki/90482_오르쿠스 "wikilink"), [지구](https://ko.wikipedia.org/wiki/지구 "wikilink"), [달](https://ko.wikipedia.org/wiki/달 "wikilink")의 크기 비교.
+<imagemap> 파일:EightTNOs.png|thumb|upright=1.4||[명왕성](../Page/명왕성.md "wikilink"), [에리스](../Page/에리스_\(왜행성\).md "wikilink"), [마케마케](https://ko.wikipedia.org/wiki/마케마케 "wikilink"), [하우메아](https://ko.wikipedia.org/wiki/하우메아 "wikilink"), [세드나](../Page/90377_세드나.md "wikilink"), [2007 OR<sub>10</sub>](https://ko.wikipedia.org/wiki/\(225088\)_2007_OR10 "wikilink"), [콰오아](../Page/50000_콰오아.md "wikilink"), [오르쿠스](https://ko.wikipedia.org/wiki/90482_오르쿠스 "wikilink"), [지구](../Page/지구.md "wikilink"), [달](../Page/달.md "wikilink")의 크기 비교.
 
 1.  Earth
 
-rect 636 1717 2133 1994 [지구](https://ko.wikipedia.org/wiki/지구 "wikilink")
+rect 636 1717 2133 1994 [지구](../Page/지구.md "wikilink")
 
 1.  Moon
 
-circle 0 1994 300 [달](https://ko.wikipedia.org/wiki/달 "wikilink")
+circle 0 1994 300 [달](../Page/달.md "wikilink")
 
 1.  Eris and Dysnomia
 
-circle 1088 439 20 [디스노미아](https://ko.wikipedia.org/wiki/디스노미아_\(위성\) "wikilink") rect 1066 336 1324 380 [디스노미아](https://ko.wikipedia.org/wiki/디스노미아_\(위성\) "wikilink") circle 1211 654 193 [에리스](https://ko.wikipedia.org/wiki/에리스_\(왜행성\) "wikilink") rect 1122 937 1266 992 [에리스](https://ko.wikipedia.org/wiki/에리스_\(왜행성\) "wikilink")
+circle 1088 439 20 [디스노미아](../Page/디스노미아_\(위성\).md "wikilink") rect 1066 336 1324 380 [디스노미아](../Page/디스노미아_\(위성\).md "wikilink") circle 1211 654 193 [에리스](../Page/에리스_\(왜행성\).md "wikilink") rect 1122 937 1266 992 [에리스](../Page/에리스_\(왜행성\).md "wikilink")
 
 1.  Pluto and Charon
 
-circle 662 688 88 [카론](https://ko.wikipedia.org/wiki/카론_\(위성\) "wikilink") rect 686 519 871 555 [카론](https://ko.wikipedia.org/wiki/카론_\(위성\) "wikilink") circle 387 414 8 [닉스](https://ko.wikipedia.org/wiki/닉스_\(위성\) "wikilink") rect 427 311 511 347 [닉스](https://ko.wikipedia.org/wiki/닉스_\(위성\) "wikilink") circle 619 447 3 [케르베로스](https://ko.wikipedia.org/wiki/케르베로스_\(위성\) "wikilink") rect 592 350 830 387 [케르베로스](https://ko.wikipedia.org/wiki/케르베로스_\(위성\) "wikilink") circle 251 498 2 [스틱스](https://ko.wikipedia.org/wiki/스틱스_\(위성\) "wikilink") rect 110 403 212 448 [스틱스](https://ko.wikipedia.org/wiki/스틱스_\(위성\) "wikilink") rect 680 860 838 910 [히드라](https://ko.wikipedia.org/wiki/히드라_\(위성\) "wikilink") circle 449 627 211 [명왕성](https://ko.wikipedia.org/wiki/명왕성 "wikilink") rect 377 937 578 992 [명왕성](https://ko.wikipedia.org/wiki/명왕성 "wikilink")
+circle 662 688 88 [카론](../Page/카론_\(위성\).md "wikilink") rect 686 519 871 555 [카론](../Page/카론_\(위성\).md "wikilink") circle 387 414 8 [닉스](../Page/닉스_\(위성\).md "wikilink") rect 427 311 511 347 [닉스](../Page/닉스_\(위성\).md "wikilink") circle 619 447 3 [케르베로스](../Page/케르베로스_\(위성\).md "wikilink") rect 592 350 830 387 [케르베로스](../Page/케르베로스_\(위성\).md "wikilink") circle 251 498 2 [스틱스](../Page/스틱스_\(위성\).md "wikilink") rect 110 403 212 448 [스틱스](../Page/스틱스_\(위성\).md "wikilink") rect 680 860 838 910 [히드라](../Page/히드라_\(위성\).md "wikilink") circle 449 627 211 [명왕성](../Page/명왕성.md "wikilink") rect 377 937 578 992 [명왕성](../Page/명왕성.md "wikilink")
 
 1.  Makemake
 
@@ -29,7 +29,7 @@ circle 2267 448 21 [나마카](https://ko.wikipedia.org/wiki/나마카_\(위성\
 
 1.  Sedna
 
-circle 345 1325 76 [세드나](https://ko.wikipedia.org/wiki/90377_세드나 "wikilink") rect 227 1542 466 1595 [세드나](https://ko.wikipedia.org/wiki/90377_세드나 "wikilink")
+circle 345 1325 76 [세드나](../Page/90377_세드나.md "wikilink") rect 227 1542 466 1595 [세드나](../Page/90377_세드나.md "wikilink")
 
 1.  2007 OR10
 
@@ -37,7 +37,7 @@ circle 1060 1306 117 [2007 OR<sub>10</sub>](https://ko.wikipedia.org/wiki/\(2250
 
 1.  Quaoar
 
-circle 1678 1340 7 [웨이왓](https://ko.wikipedia.org/wiki/웨이왓_\(위성\) "wikilink") rect 1439 1236 1655 1280 [웨이왓](https://ko.wikipedia.org/wiki/웨이왓_\(위성\) "wikilink") circle 1813 1304 87 [콰오아](https://ko.wikipedia.org/wiki/50000_콰오아 "wikilink") rect 1658 1531 1947 1597 [콰오아](https://ko.wikipedia.org/wiki/50000_콰오아 "wikilink")
+circle 1678 1340 7 [웨이왓](https://ko.wikipedia.org/wiki/웨이왓_\(위성\) "wikilink") rect 1439 1236 1655 1280 [웨이왓](https://ko.wikipedia.org/wiki/웨이왓_\(위성\) "wikilink") circle 1813 1304 87 [콰오아](../Page/50000_콰오아.md "wikilink") rect 1658 1531 1947 1597 [콰오아](../Page/50000_콰오아.md "wikilink")
 
 1.  Orcus
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Milk and Honey](https://ko.wikipedia.org/wiki/Milk_and_Honey).
 
 
-《**Milk and Honey**》는 1984년 발표된 [존 레논의](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 여덟번째 정규 음반으로 [오노 요코와](https://ko.wikipedia.org/wiki/요코_오노 "wikilink") 공동으로 발표한 음반이다. 영국 차트 최고 3위, 미국 차트 최고 11위를 기록했다.
+《**Milk and Honey**》는 1984년 발표된 [존 레논의](../Page/존_레논.md "wikilink") 여덟번째 정규 음반으로 [오노 요코와](https://ko.wikipedia.org/wiki/요코_오노 "wikilink") 공동으로 발표한 음반이다. 영국 차트 최고 3위, 미국 차트 최고 11위를 기록했다.
 
 ## 배경
 
@@ -17,7 +17,7 @@
 
 ## 표지 및 속지
 
-《Milk and Honey》의 재킷 앞면과 뒷면은 《Double Fantasy》에서 일본인 사진 작가 시노야마 기신이 촬영한 세션의 또 다른 샷이 사용되고 있다. 하지만, 컬러로 표시되고 있는 점이 다르다.\[1\]\[2\] 이너 게이트폴드에는 브라우닝 부부의 시("Rabbi ben Ezra\!", "How do I love thee?"), 그리고 레논 부부의 가사("[Grow Old with Me](https://ko.wikipedia.org/wiki/Grow_Old_with_Me "wikilink")", "[Let Me Count the Ways](https://ko.wikipedia.org/wiki/Let_Me_Count_the_Ways "wikilink")")가 실려져 있고, 이와 함께 미국의 사진 작가 알란 타넨바움이 촬영한 레논 부부의 사진이 함께 실려져 있다.\[3\]\[4\] 가사를 포함하고 있는 이너 슬리브에는 오노의 서문이 씌여져 있으며, 자신과 레논이 로버트 브라우닝과 엘리자베스 바렛 브라우닝의 환생이라고 주장하는 내용도 있다.\[5\]\[6\]
+《Milk and Honey》의 재킷 앞면과 뒷면은 《Double Fantasy》에서 일본인 사진 작가 시노야마 기신이 촬영한 세션의 또 다른 샷이 사용되고 있다. 하지만, 컬러로 표시되고 있는 점이 다르다.\[1\]\[2\] 이너 게이트폴드에는 브라우닝 부부의 시("Rabbi ben Ezra\!", "How do I love thee?"), 그리고 레논 부부의 가사("[Grow Old with Me](../Page/Grow_Old_with_Me.md "wikilink")", "[Let Me Count the Ways](../Page/Let_Me_Count_the_Ways.md "wikilink")")가 실려져 있고, 이와 함께 미국의 사진 작가 알란 타넨바움이 촬영한 레논 부부의 사진이 함께 실려져 있다.\[3\]\[4\] 가사를 포함하고 있는 이너 슬리브에는 오노의 서문이 씌여져 있으며, 자신과 레논이 로버트 브라우닝과 엘리자베스 바렛 브라우닝의 환생이라고 주장하는 내용도 있다.\[5\]\[6\]
 
 ## 재발매
 
@@ -47,8 +47,8 @@
 1.  "[Borrowed Time](https://ko.wikipedia.org/wiki/Borrowed_Time_\(John_Lennon_song\) "wikilink")" (존 레논) – 4:29
 2.  "[Your Hands](https://ko.wikipedia.org/wiki/Your_Hands "wikilink")" (요코 오노) – 3:04
 3.  "[(Forgive Me) My Little Flower Princess](https://ko.wikipedia.org/wiki/\(Forgive_Me\)_My_Little_Flower_Princess "wikilink")" (존 레논) – 2:28
-4.  "[Let Me Count the Ways](https://ko.wikipedia.org/wiki/Let_Me_Count_the_Ways "wikilink")" (요코 오노) – 2:17
-5.  "[Grow Old with Me](https://ko.wikipedia.org/wiki/Grow_Old_with_Me "wikilink")" (존 레논) – 3:07
+4.  "[Let Me Count the Ways](../Page/Let_Me_Count_the_Ways.md "wikilink")" (요코 오노) – 2:17
+5.  "[Grow Old with Me](../Page/Grow_Old_with_Me.md "wikilink")" (존 레논) – 3:07
 6.  "[You’re the One](https://ko.wikipedia.org/wiki/You're_the_One_\(Yoko_Ono_song\) "wikilink")" (요코 오노) – 3:56
 
 <!-- end list -->
@@ -66,11 +66,11 @@
 
 <div style="float:left; width:33%">
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [키보드](https://ko.wikipedia.org/wiki/키보드 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
+  - [존 레논](../Page/존_레논.md "wikilink") – [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [기타](../Page/기타.md "wikilink"), [키보드](https://ko.wikipedia.org/wiki/키보드 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
   - [요코 오노](https://ko.wikipedia.org/wiki/요코_오노 "wikilink") – [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - 존 트로피아 – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - 얼 슬릭 – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - 하워드 존슨 – [호른](https://ko.wikipedia.org/wiki/호른 "wikilink")
+  - 존 트로피아 – [기타](../Page/기타.md "wikilink")
+  - 얼 슬릭 – [기타](../Page/기타.md "wikilink")
+  - 하워드 존슨 – [호른](../Page/호른.md "wikilink")
   - 지미 메이른 – 퍼쿠션
   - 엘리엇 란다 – 기타
   - 고든 그로디 – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
@@ -94,7 +94,7 @@
   - 피터 톰 – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
   - 에드 월쉬 – [키보드](https://ko.wikipedia.org/wiki/키보드 "wikilink")
   - 커트 야지안 – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - 비스누 카야 아디 위보오 – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
+  - 비스누 카야 아디 위보오 – [기타](../Page/기타.md "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
 
 </div>
 
@@ -112,13 +112,13 @@
 | 네덜란드 [메하하르츠](../Page/메하하르츠.md "wikilink")\[10\]                                             | 4                                                                                                                                                                                                          |
 | [프랑스 음반 협회](https://ko.wikipedia.org/wiki/프랑스_음반_협회 "wikilink")\[11\]                       | 10                                                                                                                                                                                                         |
 | 이탈리아 음반 차트\[12\]                                                                            | 16                                                                                                                                                                                                         |
-| 일본 [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink")\[13\]                                | 3                                                                                                                                                                                                          |
+| 일본 [오리콘](../Page/오리콘.md "wikilink")\[13\]                                                   | 3                                                                                                                                                                                                          |
 | 뉴질랜드 [리코디드 뮤직 NZ](https://ko.wikipedia.org/wiki/리코디드_뮤직_NZ "wikilink")\[14\]                | 34                                                                                                                                                                                                         |
 | 노르웨이 [VG-리스타](https://ko.wikipedia.org/wiki/VG-리스타 "wikilink")\[15\]                        | 7                                                                                                                                                                                                          |
 | 스웨덴 [스베리예토프리스탄](https://ko.wikipedia.org/wiki/스베리예토프리스탄 "wikilink")\[16\]                   | 3                                                                                                                                                                                                          |
 | 스위스 [슈바이처 히트파라데](https://ko.wikipedia.org/wiki/슈바이처_히트파라데 "wikilink")\[17\]                 | 15                                                                                                                                                                                                         |
 | [영국 음반 차트](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink")\[18\]                         | 3                                                                                                                                                                                                          |
-| 미국 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink")\[19\]                        | 11                                                                                                                                                                                                         |
+| 미국 [빌보드 200](../Page/빌보드_200.md "wikilink")\[19\]                                           | 11                                                                                                                                                                                                         |
 | 서독 [미디어 컨트롤 차트](https://ko.wikipedia.org/wiki/미디어_컨트롤_차트 "wikilink")<ref name="GER1">{{웹 인용 | url = <http://www.officialcharts.de/search.asp?search=John+Lennon&x=0&y=0&cat=a&country=de>| title = Album Search: John Lennon|language=독일어| publisher = Media Control| accessdate =3 October 2011}}</ref> |
 
 ### 연간 차트
@@ -128,7 +128,7 @@
 | 호주 [켄트 뮤직 리포트](https://ko.wikipedia.org/wiki/켄트_뮤직_리포트 "wikilink")\[20\]  | 67       |
 | 캐나다 [RPM (잡지)](https://ko.wikipedia.org/wiki/RPM_\(잡지\) "wikilink")\[21\] | 82       |
 | 이탈리아 음반 차트\[22\]                                                          | 64       |
-| 일본 [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink")\[23\]              | 83       |
+| 일본 [오리콘](../Page/오리콘.md "wikilink")\[23\]                                 | 83       |
 |                                                                           |          |
 
 ## 각주
