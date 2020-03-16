@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ OOO](https://ko.wikipedia.org/wiki/_OOO).
 
 
-《**가면라이더 오즈**》 ()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")의 특촬물 [가면라이더 시리즈의](https://ko.wikipedia.org/wiki/가면라이더_시리즈 "wikilink") 12번째 작품으로, 일본에서 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 5일부터](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 28일까지](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") [가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 후속으로 [TV 아사히를](../Page/TV_아사히.md "wikilink") 통해 방영되었으며, TV 아사히 슈퍼 히어로 타임에서 《[천장전대 고세이저](https://ko.wikipedia.org/wiki/천장전대_고세이저 "wikilink")》, 《[해적전대 고카이저](https://ko.wikipedia.org/wiki/해적전대_고카이저 "wikilink")》와 함께 편성되었다.\[1\] [극장판 가면라이더 W FOREVER A to Z/운명의 가이아 메모리에서](https://ko.wikipedia.org/wiki/극장판_가면라이더_W_FOREVER_A_to_Z/운명의_가이아_메모리 "wikilink") 카메오로 첫 등장했다. 캐치프라이즈는 **"내가 변신한다\!\!"** ()이다. 한국에서는 2013년 1월부터 챔프, 애니원, 애니박스에서 방영되고 있다.
+《**가면라이더 오즈**》 ()는 [일본](../Page/일본.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")의 특촬물 [가면라이더 시리즈의](../Page/가면라이더_시리즈.md "wikilink") 12번째 작품으로, 일본에서 [2010년](../Page/2010년.md "wikilink") [9월 5일부터](../Page/9월_5일.md "wikilink") [2011년](../Page/2011년.md "wikilink") [8월 28일까지](../Page/8월_28일.md "wikilink") [가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 후속으로 [TV 아사히를](../Page/TV_아사히.md "wikilink") 통해 방영되었으며, TV 아사히 슈퍼 히어로 타임에서 《[천장전대 고세이저](../Page/천장전대_고세이저.md "wikilink")》, 《[해적전대 고카이저](../Page/해적전대_고카이저.md "wikilink")》와 함께 편성되었다.\[1\] [극장판 가면라이더 W FOREVER A to Z/운명의 가이아 메모리에서](https://ko.wikipedia.org/wiki/극장판_가면라이더_W_FOREVER_A_to_Z/운명의_가이아_메모리 "wikilink") 카메오로 첫 등장했다. 캐치프라이즈는 **"내가 변신한다\!\!"** ()이다. 한국에서는 2013년 1월부터 챔프, 애니원, 애니박스에서 방영되고 있다.
 
 제목인 가면라이더 오즈OO의 **OOO**란 주인공이 가면라이더 OOO로 변신할 때 사용하는 3개의 오 메달을 의미한다. 라이더는 적을 격파할 때 마다 새로운 오 메달을 획득하여 강해지는 특징이 있다. 전작이었던 [가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 47화에서는 OOO의 중요 아이템인 오 메달의 존재가 묘사되는 등 가면라이더 W과 같은 세계관임을 보여주고 있다.
 
 ## 제작
 
-[200픽셀](https://ko.wikipedia.org/wiki/파일:YAMANO_Beauty_Special_School.jpg "wikilink") [시부야 구](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") 소재 야마노 미용 전문 학교\]\] 《가면라이더 OOO》의 메인 각본은 《[성수전대 긴가맨](https://ko.wikipedia.org/wiki/성수전대_긴가맨 "wikilink")》, 《[미래전대 타임레인저](https://ko.wikipedia.org/wiki/미래전대_타임레인저 "wikilink")》, 《[가면라이더 류우키](https://ko.wikipedia.org/wiki/가면라이더_류우키 "wikilink")》, 《[가면라이더 덴오](https://ko.wikipedia.org/wiki/가면라이더_덴오 "wikilink")》, 《[사무라이전대 신켄저](https://ko.wikipedia.org/wiki/사무라이전대_신켄저 "wikilink")》의 메인 각본을 맡았던 [코바야시 야스코가](https://ko.wikipedia.org/wiki/코바야시_야스코 "wikilink") 맡았으며,(그 뒤 각본가가 여럿 바뀌었다.) 그리드와 여미의 디자인은 《[가면라이더 아기토](https://ko.wikipedia.org/wiki/가면라이더_아기토 "wikilink")》의 [로드를](https://ko.wikipedia.org/wiki/로드_\(가면라이더\) "wikilink") 디자인했던 [이즈부치 유타카와](https://ko.wikipedia.org/wiki/이즈부치_유타카 "wikilink") 《가면라이더 류우키》의 [미러 몬스터](https://ko.wikipedia.org/wiki/미러_몬스터 "wikilink"), 《[가면라이더 555](https://ko.wikipedia.org/wiki/가면라이더_555 "wikilink")》의 [오르페노크](https://ko.wikipedia.org/wiki/오르페노크 "wikilink")들을 디자인했던 [시노하라 타모츠가](https://ko.wikipedia.org/wiki/시노하라_타모츠 "wikilink") 맡았다.\[2\]
+[200픽셀](https://ko.wikipedia.org/wiki/파일:YAMANO_Beauty_Special_School.jpg "wikilink") [시부야 구](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") 소재 야마노 미용 전문 학교\]\] 《가면라이더 OOO》의 메인 각본은 《[성수전대 긴가맨](../Page/성수전대_긴가맨.md "wikilink")》, 《[미래전대 타임레인저](../Page/미래전대_타임레인저.md "wikilink")》, 《[가면라이더 류우키](../Page/가면라이더_류우키.md "wikilink")》, 《[가면라이더 덴오](https://ko.wikipedia.org/wiki/가면라이더_덴오 "wikilink")》, 《[사무라이전대 신켄저](../Page/사무라이전대_신켄저.md "wikilink")》의 메인 각본을 맡았던 [코바야시 야스코가](https://ko.wikipedia.org/wiki/코바야시_야스코 "wikilink") 맡았으며,(그 뒤 각본가가 여럿 바뀌었다.) 그리드와 여미의 디자인은 《[가면라이더 아기토](../Page/가면라이더_아기토.md "wikilink")》의 [로드를](https://ko.wikipedia.org/wiki/로드_\(가면라이더\) "wikilink") 디자인했던 [이즈부치 유타카와](https://ko.wikipedia.org/wiki/이즈부치_유타카 "wikilink") 《가면라이더 류우키》의 [미러 몬스터](https://ko.wikipedia.org/wiki/미러_몬스터 "wikilink"), 《[가면라이더 555](../Page/가면라이더_555.md "wikilink")》의 [오르페노크](https://ko.wikipedia.org/wiki/오르페노크 "wikilink")들을 디자인했던 [시노하라 타모츠가](https://ko.wikipedia.org/wiki/시노하라_타모츠 "wikilink") 맡았다.\[2\]
 
 ## 배경
 
@@ -25,12 +25,12 @@
 
 ### 쿠스쿠셰
 
-  - **히노 에이지**(오준혁)() <small> - [가면라이더 OOO](https://ko.wikipedia.org/wiki/가면라이더_OOO_\(캐릭터\) "wikilink")</small> - 성우: [이동훈](https://ko.wikipedia.org/wiki/이동훈 "wikilink")
+  - **히노 에이지**(오준혁)() <small> - [가면라이더 OOO](../Page/가면라이더_OOO_\(캐릭터\).md "wikilink")</small> - 성우: [이동훈](https://ko.wikipedia.org/wiki/이동훈 "wikilink")
 
 <!-- end list -->
 
   -
-    나이 21세. 가면라이더 OOO의 주인공으로, 예전에는 전 세계를 여행하고 있었다. 일정한 주소나 직업이 없으며, 에이지의 말에 따르면 "단지 내일 입을 팬티와 약간의 돈만 있으면" 그만인 [니트족](../Page/니트족.md "wikilink")의 모습으로 그려진다. 1화에서 [그리드](https://ko.wikipedia.org/wiki/#그리드 "wikilink") 앙크의 제안을 받아들여, 가면라이더 OOO로 변신한다. 처음에는 단지 메달 수집만을 중요시하는 앙크와, "사람의 생명보다 메달을 우선시하면 안 된다"는 자신의 가치관 때문에 서로 대립하기도 한다. 과거에 여행 중 전쟁에 휘말렸을 때, 어린 아이를 구하지 못한 것이 [트라우마](https://ko.wikipedia.org/wiki/트라우마 "wikilink")로 남아 있다. 앙크와 함께 다국적 요리점 "쿠스쿠셰"에서 신세를 지고 있다. [가나의 오십음도](https://ko.wikipedia.org/wiki/가나_\(문자\) "wikilink") 순서에서 에이지()의 각각 문자의 한 계단 뒤에 있는 문자를 엮으면 **오즈**()가 된다.[와타나베 슈가](https://ko.wikipedia.org/wiki/와타나베_슈 "wikilink") 연기함.
+    나이 21세. 가면라이더 OOO의 주인공으로, 예전에는 전 세계를 여행하고 있었다. 일정한 주소나 직업이 없으며, 에이지의 말에 따르면 "단지 내일 입을 팬티와 약간의 돈만 있으면" 그만인 [니트족](../Page/니트족.md "wikilink")의 모습으로 그려진다. 1화에서 [그리드](https://ko.wikipedia.org/wiki/#그리드 "wikilink") 앙크의 제안을 받아들여, 가면라이더 OOO로 변신한다. 처음에는 단지 메달 수집만을 중요시하는 앙크와, "사람의 생명보다 메달을 우선시하면 안 된다"는 자신의 가치관 때문에 서로 대립하기도 한다. 과거에 여행 중 전쟁에 휘말렸을 때, 어린 아이를 구하지 못한 것이 [트라우마](https://ko.wikipedia.org/wiki/트라우마 "wikilink")로 남아 있다. 앙크와 함께 다국적 요리점 "쿠스쿠셰"에서 신세를 지고 있다. [가나의 오십음도](../Page/가나_\(문자\).md "wikilink") 순서에서 에이지()의 각각 문자의 한 계단 뒤에 있는 문자를 엮으면 **오즈**()가 된다.[와타나베 슈가](https://ko.wikipedia.org/wiki/와타나베_슈 "wikilink") 연기함.
 
 <!-- end list -->
 
@@ -39,7 +39,7 @@
 <!-- end list -->
 
   -
-    [그리드](https://ko.wikipedia.org/wiki/#그리드 "wikilink") 중 하나로, 조류의 왕이었다. 부활에는 성공하였으나 800년 전 '왕'에 의해 봉인될 때, 의지와 오른팔 만이 봉인되어 부활시에는 오른팔만이 부활했다, [여미와의](https://ko.wikipedia.org/wiki/여미_\(가면라이더\) "wikilink") 싸움에서 빈사 상태로 쓰러진 **이즈미 신고**(강현우)() 형사의 몸에 빙의해 있다. 에이지와는 "동맹" 관계이다. 교활하고 악착같은 성격으로 그려지며, 아이스크림을 좋아한다. 목소리와 이즈미 신고, 앙크의 모습은 [미우라 료스케가](https://ko.wikipedia.org/wiki/미우라_료스케 "wikilink") 연기하였다.
+    [그리드](https://ko.wikipedia.org/wiki/#그리드 "wikilink") 중 하나로, 조류의 왕이었다. 부활에는 성공하였으나 800년 전 '왕'에 의해 봉인될 때, 의지와 오른팔 만이 봉인되어 부활시에는 오른팔만이 부활했다, [여미와의](../Page/여미_\(가면라이더\).md "wikilink") 싸움에서 빈사 상태로 쓰러진 **이즈미 신고**(강현우)() 형사의 몸에 빙의해 있다. 에이지와는 "동맹" 관계이다. 교활하고 악착같은 성격으로 그려지며, 아이스크림을 좋아한다. 목소리와 이즈미 신고, 앙크의 모습은 [미우라 료스케가](https://ko.wikipedia.org/wiki/미우라_료스케 "wikilink") 연기하였다.
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - **시라이시 치요코**(한사랑) () 성우 : [이미나](https://ko.wikipedia.org/wiki/이미나_\(성우\) "wikilink")
+  - **시라이시 치요코**(한사랑) () 성우 : [이미나](../Page/이미나_\(성우\).md "wikilink")
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
 **코우가미 파운데이션** 또는 **코가미 파운데이션**()은 코우가미 코우세이라는 남자가 세운 거대 재단이다. 가면라이더 OOO, 앙크와 [O 메달의](https://ko.wikipedia.org/wiki/가면라이더_OOO_\(캐릭터\)#O_메달 "wikilink") 확보를 위한 계약 관계를 맺고 있다. 재단은 셀 메달의 힘을 이용하여 라이드 벤더나 캔드로이드 등과 같은 무기와 장비를 개발, 생산하고 있으며, 그리드와 오 메달을 봉인하고 있던 석관을 전시하고 있던 코우가미 미술관의 소유 재단이기도 하다.
 
-  - **코우가미 코우세이**(고강인) () - 성우: [유강진](https://ko.wikipedia.org/wiki/유강진 "wikilink")
+  - **코우가미 코우세이**(고강인) () - 성우: [유강진](../Page/유강진.md "wikilink")
 
 <!-- end list -->
 
@@ -90,7 +90,7 @@
 
 <!-- end list -->
 
-  - **마키 키요토** (하이도) () 성우 : [고구인](https://ko.wikipedia.org/wiki/고구인 "wikilink")
+  - **마키 키요토** (하이도) () 성우 : [고구인](../Page/고구인.md "wikilink")
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@
 
 <!-- end list -->
 
-  - **다테 아키라**(나영광) () <small> - [가면라이더 버스](https://ko.wikipedia.org/wiki/가면라이더_버스 "wikilink")</small> 성우 : [심규혁](https://ko.wikipedia.org/wiki/심규혁 "wikilink")
+  - **다테 아키라**(나영광) () <small> - [가면라이더 버스](../Page/가면라이더_버스.md "wikilink")</small> 성우 : [심규혁](../Page/심규혁.md "wikilink")
 
 <!-- end list -->
 
@@ -117,40 +117,40 @@
 <!-- end list -->
 
   -
-    [메뚜기](../Page/메뚜기.md "wikilink")의 모습을 한 괴인으로 [곤충](https://ko.wikipedia.org/wiki/곤충 "wikilink")류의 왕이다. 인간에게 셀 메달을 투입하여 그 사람의 몸에서 여미를 탄생시킨다. 거친 언동과 다혈질적 성격을 가지고 있어, 앙크의 함정에 빠져 메달을 빼앗기지만, 카자리와 손잡고 다시 앙크로부터 몇 개의 코어 메달을 강탈한다. 인간의 모습으로 활동할 때는 녹색의 자켓에 올백 머리를 한 청년으로 변하여 활동한다. 이름은 "빼앗다"를 뜻하는 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink")의 동사 '우바우'()에서 유래하였다. 목소리와 인간체의 모습은 [야마다 유스케가](https://ko.wikipedia.org/wiki/야마다_유스케 "wikilink") 연기하였다.
+    [메뚜기](../Page/메뚜기.md "wikilink")의 모습을 한 괴인으로 [곤충](../Page/곤충.md "wikilink")류의 왕이다. 인간에게 셀 메달을 투입하여 그 사람의 몸에서 여미를 탄생시킨다. 거친 언동과 다혈질적 성격을 가지고 있어, 앙크의 함정에 빠져 메달을 빼앗기지만, 카자리와 손잡고 다시 앙크로부터 몇 개의 코어 메달을 강탈한다. 인간의 모습으로 활동할 때는 녹색의 자켓에 올백 머리를 한 청년으로 변하여 활동한다. 이름은 "빼앗다"를 뜻하는 [일본어](../Page/일본어.md "wikilink")의 동사 '우바우'()에서 유래하였다. 목소리와 인간체의 모습은 [야마다 유스케가](https://ko.wikipedia.org/wiki/야마다_유스케 "wikilink") 연기하였다.
 
 <!-- end list -->
 
-  - **카자리** (, ) - 성우: [이경태](https://ko.wikipedia.org/wiki/이경태_\(성우\) "wikilink")
-
-<!-- end list -->
-
-  -
-    [사자](https://ko.wikipedia.org/wiki/사자 "wikilink")의 모습을 한 괴인으로 [고양이과](https://ko.wikipedia.org/wiki/고양이과 "wikilink")의 왕이다. 인간에게 셀 메달을 투입하여, 여미를 기생시키는 동시에 메달을 투입당한 인간의 욕망을 폭주시킨다. 숙주의 욕망을 먹고 자란 여미는 완전체가 되어 숙주의 몸에서 튀어나오게 된다. OOO와의 대결에서 우바의 코어 메달과 자신의 코어 메달을 빼앗겼다. 앙크와 맞먹는 책략과 거짓말의 달인으로, 우바의 코어 메달을 돌려주지 않아 분노를 사지만 메즐의 중재로 우바와 메달을 교환한다. 이후 동료인 그리드들의 곁을 떠나 코우가미 파운데이션의 연구원 마키와 손을 잡았다. 인간의 모습으로 활동할 때는 은발에 모자를 쓴 청년의 모습으로 변하여 활동한다. 이름은 "꾸미다"를 뜻하는 일본어의 동사 "카자루"()에서 유래하였다. 목소리와 인간체의 모습은 [하시모토 타이토가](https://ko.wikipedia.org/wiki/하시모토_다이토 "wikilink") 연기하였다.
-
-<!-- end list -->
-
-  - **가멜**(, ) - 성우: [심규혁](https://ko.wikipedia.org/wiki/심규혁 "wikilink")
+  - **카자리** (, ) - 성우: [이경태](../Page/이경태_\(성우\).md "wikilink")
 
 <!-- end list -->
 
   -
-    [코끼리](https://ko.wikipedia.org/wiki/코끼리 "wikilink")의 모습을 한 괴인으로 대형 동물 (중량계)의 왕이다. 사람들의 욕망을 숙주로 삼지 않고, 자기 자신에게 셀 메달을 집어 넣어 여미를 만들어내는데, 그렇게 하여 생성된 여미들은 기술 사용을 위해 셀 메달을 많이 소비하며, 가멜 자신도 셀 메달의 소비가 빨라 메즐로부터 셀 메달을 보충받기도 한다. 다른 그리드들로부터 "욕망에 가장 충실한 그리드"라는 평가를 받기도 한다. 인간일 때에는 말수가 없는 과묵한 청년의 모습으로 변하여 활동한다. 이름은 "훔치다" 또는 "자기 것으로 삼다"를 뜻하는 일본어의 동사 "가메루"()에서 유래하였다. 목소리와 인간체의 모습은 [마츠모토 히로유키가](https://ko.wikipedia.org/wiki/마쓰모토_히로유키 "wikilink") 연기하였다.
+    [사자](../Page/사자.md "wikilink")의 모습을 한 괴인으로 [고양이과](../Page/고양이과.md "wikilink")의 왕이다. 인간에게 셀 메달을 투입하여, 여미를 기생시키는 동시에 메달을 투입당한 인간의 욕망을 폭주시킨다. 숙주의 욕망을 먹고 자란 여미는 완전체가 되어 숙주의 몸에서 튀어나오게 된다. OOO와의 대결에서 우바의 코어 메달과 자신의 코어 메달을 빼앗겼다. 앙크와 맞먹는 책략과 거짓말의 달인으로, 우바의 코어 메달을 돌려주지 않아 분노를 사지만 메즐의 중재로 우바와 메달을 교환한다. 이후 동료인 그리드들의 곁을 떠나 코우가미 파운데이션의 연구원 마키와 손을 잡았다. 인간의 모습으로 활동할 때는 은발에 모자를 쓴 청년의 모습으로 변하여 활동한다. 이름은 "꾸미다"를 뜻하는 일본어의 동사 "카자루"()에서 유래하였다. 목소리와 인간체의 모습은 [하시모토 타이토가](https://ko.wikipedia.org/wiki/하시모토_다이토 "wikilink") 연기하였다.
 
 <!-- end list -->
 
-  - **메즐** (, ) - 성우: [이미나](https://ko.wikipedia.org/wiki/이미나_\(성우\) "wikilink")
+  - **가멜**(, ) - 성우: [심규혁](../Page/심규혁.md "wikilink")
 
 <!-- end list -->
 
   -
-    [범고래](https://ko.wikipedia.org/wiki/범고래 "wikilink")의 모습을 한 괴인으로 [어류](https://ko.wikipedia.org/wiki/어류 "wikilink") 또는 물에서 서식하는 생물의 왕이다. 인간에게 셀 메달을 투입하여, 숙주의 근처에 둥지를 틀어 숙주의 욕망을 양분으로 삼아 성장한 대량의 여미들을 알에서 튀어나오게 한다. 그러나 숙주는 둥지가 있다는 것을 알지 못한다. 인간의 모습으로 활동할 때는 세라복을 입은 소녀의 모습으로 변해 활동한다. 이름은 "사랑하다"를 뜻하는 일본어의 동사 "메즈루"()에서 유래하였다. 목소리는 [유카나](../Page/유카나.md "wikilink"), 인간체의 모습은 [미키 호노카가](https://ko.wikipedia.org/wiki/미키_호노카 "wikilink") 연기하였다.
+    [코끼리](../Page/코끼리.md "wikilink")의 모습을 한 괴인으로 대형 동물 (중량계)의 왕이다. 사람들의 욕망을 숙주로 삼지 않고, 자기 자신에게 셀 메달을 집어 넣어 여미를 만들어내는데, 그렇게 하여 생성된 여미들은 기술 사용을 위해 셀 메달을 많이 소비하며, 가멜 자신도 셀 메달의 소비가 빨라 메즐로부터 셀 메달을 보충받기도 한다. 다른 그리드들로부터 "욕망에 가장 충실한 그리드"라는 평가를 받기도 한다. 인간일 때에는 말수가 없는 과묵한 청년의 모습으로 변하여 활동한다. 이름은 "훔치다" 또는 "자기 것으로 삼다"를 뜻하는 일본어의 동사 "가메루"()에서 유래하였다. 목소리와 인간체의 모습은 [마츠모토 히로유키가](https://ko.wikipedia.org/wiki/마쓰모토_히로유키 "wikilink") 연기하였다.
+
+<!-- end list -->
+
+  - **메즐** (, ) - 성우: [이미나](../Page/이미나_\(성우\).md "wikilink")
+
+<!-- end list -->
+
+  -
+    [범고래](../Page/범고래.md "wikilink")의 모습을 한 괴인으로 [어류](https://ko.wikipedia.org/wiki/어류 "wikilink") 또는 물에서 서식하는 생물의 왕이다. 인간에게 셀 메달을 투입하여, 숙주의 근처에 둥지를 틀어 숙주의 욕망을 양분으로 삼아 성장한 대량의 여미들을 알에서 튀어나오게 한다. 그러나 숙주는 둥지가 있다는 것을 알지 못한다. 인간의 모습으로 활동할 때는 세라복을 입은 소녀의 모습으로 변해 활동한다. 이름은 "사랑하다"를 뜻하는 일본어의 동사 "메즈루"()에서 유래하였다. 목소리는 [유카나](../Page/유카나.md "wikilink"), 인간체의 모습은 [미키 호노카가](https://ko.wikipedia.org/wiki/미키_호노카 "wikilink") 연기하였다.
 
 ## 극장판
 
 ### 운명의 가이아 메모리
 
-2010년 8월 7일, [천장전대 고세이저](https://ko.wikipedia.org/wiki/천장전대_고세이저 "wikilink") 극장판 : 에픽 온 더 무비와 동시에 개봉한 [가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 극장판인 **극장판 가면라이더 W FOREVER A to Z/운명의 가이아 메모리**()의 후반부에서 카메오로 출연하였다.
+2010년 8월 7일, [천장전대 고세이저](../Page/천장전대_고세이저.md "wikilink") 극장판 : 에픽 온 더 무비와 동시에 개봉한 [가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 극장판인 **극장판 가면라이더 W FOREVER A to Z/운명의 가이아 메모리**()의 후반부에서 카메오로 출연하였다.
 
 ### MOVIE 대전 CORE
 
@@ -158,32 +158,32 @@
 
 ### 가면라이더 40주년 기념 영화
 
-《**오즈, 덴오, 올라이더: 렛츠 고 가면라이더**》() 는 2011년 4월 1일에 개봉하는, [가면라이더 시리즈](https://ko.wikipedia.org/wiki/가면라이더_시리즈 "wikilink") 40주년 기념 영화이다. 가면라이더 OOO와 《[가면라이더 덴오](https://ko.wikipedia.org/wiki/가면라이더_덴오 "wikilink")》의 등장 인물들이 주역이 되어 과거로 돌아가는 내용을 담고 있다.
+《**오즈, 덴오, 올라이더: 렛츠 고 가면라이더**》() 는 2011년 4월 1일에 개봉하는, [가면라이더 시리즈](../Page/가면라이더_시리즈.md "wikilink") 40주년 기념 영화이다. 가면라이더 OOO와 《[가면라이더 덴오](https://ko.wikipedia.org/wiki/가면라이더_덴오 "wikilink")》의 등장 인물들이 주역이 되어 과거로 돌아가는 내용을 담고 있다.
 
 ### 장군과 21개의 코어 메달
 
-2011년 8월 6일 가면라이더 OOO의 오리지널 극장판이 《[해적전대 고카이저](https://ko.wikipedia.org/wiki/해적전대_고카이저 "wikilink")》 극장판과 동시에 개봉한다.\[4\] 제목은 《가면라이더 OOO WONDERFUL: 장군과 21개의 코어 메달》()로, 현재와 과거가 섞인 상황에서 에이지 일행이 [도쿠가와 요시무네](https://ko.wikipedia.org/wiki/도쿠가와_요시무네 "wikilink") ([마쓰다이라 겐이](https://ko.wikipedia.org/wiki/마쓰다이라_겐 "wikilink") 연기)를 만나 연금술사 갈라 ([사카이 미키가](https://ko.wikipedia.org/wiki/사카이_미키 "wikilink") 연기)와 싸운다는 내용을 담고 있다. 가면라이더 OOO의 새로운 콤보인 "브라카와니 콤보" ()가 등장한다.\[5\]\[6\]
+2011년 8월 6일 가면라이더 OOO의 오리지널 극장판이 《[해적전대 고카이저](../Page/해적전대_고카이저.md "wikilink")》 극장판과 동시에 개봉한다.\[4\] 제목은 《가면라이더 OOO WONDERFUL: 장군과 21개의 코어 메달》()로, 현재와 과거가 섞인 상황에서 에이지 일행이 [도쿠가와 요시무네](../Page/도쿠가와_요시무네.md "wikilink") ([마쓰다이라 겐이](https://ko.wikipedia.org/wiki/마쓰다이라_겐 "wikilink") 연기)를 만나 연금술사 갈라 ([사카이 미키가](https://ko.wikipedia.org/wiki/사카이_미키 "wikilink") 연기)와 싸운다는 내용을 담고 있다. 가면라이더 OOO의 새로운 콤보인 "브라카와니 콤보" ()가 등장한다.\[5\]\[6\]
 
 ## 비디오 게임
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매된 **클라이맥스 히어로즈 오즈**()는 클라이맥스 히어로즈 시리즈의 제3탄으로, 대응 기종은 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")과 [플레이스테이션 포터블이다](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"). OOO와 헤이세이 가면라이더의 최강 형태 등이 추가되었다.\[7\]
+[2010년](../Page/2010년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매된 **클라이맥스 히어로즈 오즈**()는 클라이맥스 히어로즈 시리즈의 제3탄으로, 대응 기종은 [Wii](../Page/Wii.md "wikilink")과 [플레이스테이션 포터블이다](../Page/플레이스테이션_포터블.md "wikilink"). OOO와 헤이세이 가면라이더의 최강 형태 등이 추가되었다.\[7\]
 
 ## 캐스트
 
-  - 히노 에이지 ()(오준혁): [와타나베 슈](https://ko.wikipedia.org/wiki/와타나베_슈_\(배우\) "wikilink") / [이동훈](https://ko.wikipedia.org/wiki/이동훈_\(성우\) "wikilink") ()
+  - 히노 에이지 ()(오준혁): [와타나베 슈](https://ko.wikipedia.org/wiki/와타나베_슈_\(배우\) "wikilink") / [이동훈](../Page/이동훈_\(성우\).md "wikilink") ()
   - 앙크 / 이즈미 신고 (): [미우라 료스케](https://ko.wikipedia.org/wiki/미우라_료스케 "wikilink") () / [박서진](../Page/박서진.md "wikilink")
   - 이즈미 히나 (): [타카다 리호](https://ko.wikipedia.org/wiki/타카다_리호 "wikilink") () / [박고운](../Page/박고운.md "wikilink")
-  - 다테 아키라 (): [이와나가 히로아키](https://ko.wikipedia.org/wiki/이와나가_히로아키 "wikilink") () / [심규혁](https://ko.wikipedia.org/wiki/심규혁 "wikilink")
+  - 다테 아키라 (): [이와나가 히로아키](https://ko.wikipedia.org/wiki/이와나가_히로아키 "wikilink") () / [심규혁](../Page/심규혁.md "wikilink")
   - 고토 신타로 (): [키미지마 아사야](https://ko.wikipedia.org/wiki/키미지마_아사야 "wikilink") () / [서원석](../Page/서원석.md "wikilink")
   - 사토나카 에리카 (): [아리스에 마유코](https://ko.wikipedia.org/wiki/아리스에_마유코 "wikilink") () / [문유정](../Page/문유정.md "wikilink")
-  - 시라이시 치요코 (): [카이 마리에](https://ko.wikipedia.org/wiki/카이_마리에 "wikilink") () / [이미나](https://ko.wikipedia.org/wiki/이미나_\(성우\) "wikilink")
-  - 코우가미 코우세이 ()(고강인): [우카지 타케시](https://ko.wikipedia.org/wiki/우카지_타케시 "wikilink") () / [유강진](https://ko.wikipedia.org/wiki/유강진 "wikilink")
-  - 마키 키요토 (): [카미오 유](https://ko.wikipedia.org/wiki/카미오_유 "wikilink") / [고구인](https://ko.wikipedia.org/wiki/고구인 "wikilink") ()\[8\]
+  - 시라이시 치요코 (): [카이 마리에](https://ko.wikipedia.org/wiki/카이_마리에 "wikilink") () / [이미나](../Page/이미나_\(성우\).md "wikilink")
+  - 코우가미 코우세이 ()(고강인): [우카지 타케시](https://ko.wikipedia.org/wiki/우카지_타케시 "wikilink") () / [유강진](../Page/유강진.md "wikilink")
+  - 마키 키요토 (): [카미오 유](https://ko.wikipedia.org/wiki/카미오_유 "wikilink") / [고구인](../Page/고구인.md "wikilink") ()\[8\]
   - 우바 (, ): [야마다 유스케](https://ko.wikipedia.org/wiki/야마다_유스케 "wikilink") / [이현](../Page/이현_\(성우\).md "wikilink") ()\[9\]
-  - 카자리 (, ): [하시모토 타이토](https://ko.wikipedia.org/wiki/하시모토_다이토 "wikilink") / [이경태](https://ko.wikipedia.org/wiki/이경태_\(성우\) "wikilink")()\[10\]
-  - 가멜(, ):[마츠모토 히로유키](https://ko.wikipedia.org/wiki/마쓰모토_히로유키 "wikilink") )\[11\] [심규혁](https://ko.wikipedia.org/wiki/심규혁 "wikilink")
-  - 메즐(목소리) (, ): [유카나](../Page/유카나.md "wikilink") / [이미나](https://ko.wikipedia.org/wiki/이미나_\(성우\) "wikilink") ()\[12\]
-  - 메즐(인간체) (, ): [미키 호노카](https://ko.wikipedia.org/wiki/미키_호노카 "wikilink") () / [이미나](https://ko.wikipedia.org/wiki/이미나_\(성우\) "wikilink")
+  - 카자리 (, ): [하시모토 타이토](https://ko.wikipedia.org/wiki/하시모토_다이토 "wikilink") / [이경태](../Page/이경태_\(성우\).md "wikilink")()\[10\]
+  - 가멜(, ):[마츠모토 히로유키](https://ko.wikipedia.org/wiki/마쓰모토_히로유키 "wikilink") )\[11\] [심규혁](../Page/심규혁.md "wikilink")
+  - 메즐(목소리) (, ): [유카나](../Page/유카나.md "wikilink") / [이미나](../Page/이미나_\(성우\).md "wikilink") ()\[12\]
+  - 메즐(인간체) (, ): [미키 호노카](https://ko.wikipedia.org/wiki/미키_호노카 "wikilink") () / [이미나](../Page/이미나_\(성우\).md "wikilink")
   - O 스캐너 음성 (): [쿠시다 아키라](https://ko.wikipedia.org/wiki/쿠시다_아키라 "wikilink") ()
   - 내레이션 (), 버스 드라이버 음성 (), 버스 버스터 음성 () : [나카타 죠지](../Page/나카타_죠지.md "wikilink") ()
 
@@ -194,7 +194,7 @@
 
 ### 슈트 배우
 
-  - 가면라이더 OOO , 에이지 그리드- [타카이와 세이지](https://ko.wikipedia.org/wiki/타카이와_세이지 "wikilink")
+  - 가면라이더 OOO , 에이지 그리드- [타카이와 세이지](../Page/타카이와_세이지.md "wikilink")
   - 앙크, 가면라이더 버스 - [에이토쿠](https://ko.wikipedia.org/wiki/오오이와_히사노리 "wikilink")
   - 우바 - [요코타 료](https://ko.wikipedia.org/wiki/요코타_료 "wikilink")
   - 카자리 - [와타나베 준](https://ko.wikipedia.org/wiki/와타나베_준 "wikilink")
@@ -345,7 +345,7 @@
 
 ## 방영 목록
 
-제목의 구성은 애니메이션 제목 "[바보와 시험과 소환수](https://ko.wikipedia.org/wiki/바보와_시험과_소환수 "wikilink")"처럼 \~과(와)가 두 번 이어지는 형식이다. (예: "메달과 팬티와 수수께끼의 팔")
+제목의 구성은 애니메이션 제목 "[바보와 시험과 소환수](../Page/바보와_시험과_소환수.md "wikilink")"처럼 \~과(와)가 두 번 이어지는 형식이다. (예: "메달과 팬티와 수수께끼의 팔")
 
 1.  메달과 팬티와 수수께끼의 팔 ()
 2.  욕망과 아이스크림과 선물 ()

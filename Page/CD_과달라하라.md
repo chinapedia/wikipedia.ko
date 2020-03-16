@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
 
 
-**클럽 데포르티보 과달라하라**()는 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") [과달라하라의](../Page/과달라하라_\(멕시코\).md "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 줄여서 **과달라하라**() 또는 **치바스**()라는 별명으로도 부른다.
+**클럽 데포르티보 과달라하라**()는 [멕시코](../Page/멕시코.md "wikilink") [과달라하라의](../Page/과달라하라_\(멕시코\).md "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로, 줄여서 **과달라하라**() 또는 **치바스**()라는 별명으로도 부른다.
 
 멕시코에서 성공한 축구 클럽 가운데 하나로 뽑히고 있으며 멕시코 프리메라 디비시온 우승 11회, 캄페온 데 캄페오네스 우승 7회, 코파 멕시코 우승 2회의 기록을 보유하고 있다. 창단 이후부터 단 한 번도 강등된 적이 없으며 [클럽 아메리카와](https://ko.wikipedia.org/wiki/클럽_아메리카 "wikilink") 라이벌 관계에 있다.
 
@@ -26,7 +26,7 @@
 
   - [하레드 보르헤티](../Page/하레드_보르헤티.md "wikilink")
 
-  - [하비에르 아기레](https://ko.wikipedia.org/wiki/하비에르_아기레 "wikilink")
+  - [하비에르 아기레](../Page/하비에르_아기레.md "wikilink")
 
   - [하비에르 에르난데스 발카사르](../Page/하비에르_에르난데스_발카사르.md "wikilink") (치차리토)
 
@@ -34,19 +34,19 @@
 
   - [오스왈도 산체스](../Page/오스왈도_산체스.md "wikilink")
 
-  - [카를로스 살시도](https://ko.wikipedia.org/wiki/카를로스_살시도 "wikilink")
+  - [카를로스 살시도](../Page/카를로스_살시도.md "wikilink")
 
-  - [프란시스코 로드리게스](https://ko.wikipedia.org/wiki/프란시스코_하비에르_로드리게스 "wikilink")
+  - [프란시스코 로드리게스](../Page/프란시스코_하비에르_로드리게스.md "wikilink")
 
 ## 유명 감독
 
-  - [리카르도 라볼페](https://ko.wikipedia.org/wiki/리카르도_라볼페 "wikilink")
+  - [리카르도 라볼페](../Page/리카르도_라볼페.md "wikilink")
 
-  - [오스발도 아르딜레스](https://ko.wikipedia.org/wiki/오스발도_아르딜레스 "wikilink")
+  - [오스발도 아르딜레스](../Page/오스발도_아르딜레스.md "wikilink")
 
 ## 관련 항목
 
-  - [CD 치바스 USA](https://ko.wikipedia.org/wiki/CD_치바스_USA "wikilink")
+  - [CD 치바스 USA](../Page/CD_치바스_USA.md "wikilink")
 
 ## 외부 링크
 

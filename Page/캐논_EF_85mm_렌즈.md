@@ -34,7 +34,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/풀프레임_DSLR" title="wikilink">풀프레임에 사용 가능</a></p></td>
+<td><p><a href="../Page/풀프레임_DSLR.md" title="wikilink">풀프레임에 사용 가능</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Yes_check.svg" title="wikilink">15px</a> Yes</p></td>
 <td></td>
 <td></td>
@@ -217,11 +217,11 @@
 
   - [Canon EF 85 f/1.2L II USM Lens Review](https://web.archive.org/web/20100801085904/http://photo.net/equipment/canon/85L/), by Philip Greenspun
 
-  - [photozone.de 리뷰. [캐논 EOS 5D Mark II에](https://ko.wikipedia.org/wiki/캐논_EOS_5D_Mark_II "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon_eos_ff/502-canon_85f12ff)
+  - [photozone.de 리뷰. [캐논 EOS 5D Mark II에](../Page/캐논_EOS_5D_Mark_II.md "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon_eos_ff/502-canon_85f12ff)
 
   - [DxOMark 시험 결과](http://dxomark.com/index.php/en/Lens-with-Camera/All-tested-lenses/Canon/EF85mm-f-1.2L-II-USM)
 
-  - [photozone.de 리뷰. [캐논 EOS 50D에](https://ko.wikipedia.org/wiki/캐논_EOS_50D "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/501-canon85f12mk2apsc)
+  - [photozone.de 리뷰. [캐논 EOS 50D에](../Page/캐논_EOS_50D.md "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/501-canon85f12mk2apsc)
 
 ### EF 85mm 1.8 USM
 
@@ -231,9 +231,9 @@
 
   - [DxOMark 시험 결과](http://dxomark.com/index.php/en/Lens-with-Camera/All-tested-lenses/Canon/Canon-EF85mm-f-1.8-USM)
 
-  - [photozone.de 리뷰. [캐논 EOS 5D Mark II에](https://ko.wikipedia.org/wiki/캐논_EOS_5D_Mark_II "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon_eos_ff/419-canon_85_18_5d)
+  - [photozone.de 리뷰. [캐논 EOS 5D Mark II에](../Page/캐논_EOS_5D_Mark_II.md "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon_eos_ff/419-canon_85_18_5d)
 
-  - [photozone.de [캐논 EOS 50D에](https://ko.wikipedia.org/wiki/캐논_EOS_50D "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/421-canon_85_18_50d)
+  - [photozone.de [캐논 EOS 50D에](../Page/캐논_EOS_50D.md "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/421-canon_85_18_50d)
 
   - [photozone.de [캐논 EOS 350D에](../Page/캐논_EOS_350D.md "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/164-canon-ef-85mm-f18-usm-test-report--review)
 

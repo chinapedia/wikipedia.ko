@@ -12,13 +12,13 @@
 <td><p><strong>시작년도</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>국가</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아랍에미리트" title="wikilink">아랍에미리트</a></p></td>
+<td><p><a href="../Page/아랍에미리트.md" title="wikilink">아랍에미리트</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>최근 우승 팀</strong></p></td>
@@ -31,7 +31,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/알아흘리_(두바이)" title="wikilink">알아흘리</a><br />
-<a href="https://ko.wikipedia.org/wiki/알아인_FC" title="wikilink">알아인</a><br />
+<a href="../Page/알아인_FC.md" title="wikilink">알아인</a><br />
 <a href="../Page/에미리트_클럽.md" title="wikilink">에미리트 클럽</a><br />
 (각 1회)</p></td>
 </tr>
@@ -59,11 +59,11 @@
 <td><p>2008</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알아흘리_(두바이)" title="wikilink">알아흘리</a></p></td>
 <td><p>1 - 0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알샤바브_(두바이)" title="wikilink">알샤바브</a></p></td>
+<td><p><a href="../Page/알샤바브_(두바이).md" title="wikilink">알샤바브</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알아인_FC" title="wikilink">알아인</a></p></td>
+<td><p><a href="../Page/알아인_FC.md" title="wikilink">알아인</a></p></td>
 <td><p>2 - 2<br />
 <small>(PK 5 - 3)</small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알아흘리_(두바이)" title="wikilink">알아흘리</a></p></td>
@@ -88,9 +88,9 @@
 | 클럽                                                             | 우승 | 준우승 |
 | -------------------------------------------------------------- | -- | --- |
 | [알아흘리](https://ko.wikipedia.org/wiki/알아흘리_\(두바이\) "wikilink")  | 1  | 1   |
-| [알아인](https://ko.wikipedia.org/wiki/알아인_FC "wikilink")         | 1  | 0   |
+| [알아인](../Page/알아인_FC.md "wikilink")                            | 1  | 0   |
 | [에미리트 클럽](../Page/에미리트_클럽.md "wikilink")                       | 1  | 0   |
-| [알샤바브](https://ko.wikipedia.org/wiki/알샤바브_\(두바이\) "wikilink")  | 0  | 1   |
+| [알샤바브](../Page/알샤바브_\(두바이\).md "wikilink")                     | 0  | 1   |
 | [알와흐다](https://ko.wikipedia.org/wiki/알와흐다_\(아부다비\) "wikilink") | 0  | 1   |
 |                                                                |    |     |
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**던디 유나이티드 FC**()는 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink") [던디](https://ko.wikipedia.org/wiki/던디 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, [1909년](https://ko.wikipedia.org/wiki/1909년 "wikilink")에 창단했다.
+**던디 유나이티드 FC**()는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [던디](../Page/던디.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, [1909년](../Page/1909년.md "wikilink")에 창단했다.
 
-[1909년](https://ko.wikipedia.org/wiki/1909년 "wikilink") **던디 하이버니언**()이라는 이름으로 창설되었으며 [1923년](https://ko.wikipedia.org/wiki/1923년 "wikilink")에 현재의 명칭으로 변경했다. 던디를 연고로 하는 축구 클럽인 [던디 FC와](../Page/던디_FC.md "wikilink") 라이벌 관계에 있다.
+[1909년](../Page/1909년.md "wikilink") **던디 하이버니언**()이라는 이름으로 창설되었으며 [1923년](../Page/1923년.md "wikilink")에 현재의 명칭으로 변경했다. 던디를 연고로 하는 축구 클럽인 [던디 FC와](../Page/던디_FC.md "wikilink") 라이벌 관계에 있다.
 
 ## 역대 성적
 

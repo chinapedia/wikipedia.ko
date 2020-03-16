@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**아약스 케이프타운 FC**()는 [남아프리카 공화국](https://ko.wikipedia.org/wiki/남아프리카_공화국 "wikilink") [케이프타운](https://ko.wikipedia.org/wiki/케이프타운 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 줄여서 **아약스 CT**()라고 부르기도 한다.
+**아약스 케이프타운 FC**()는 [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink") [케이프타운](../Page/케이프타운.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 줄여서 **아약스 CT**()라고 부르기도 한다.
 
-아약스 케이프타운 FC는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 케이프타운을 연고로 하는 축구 클럽인 세븐 스타스()와 케이프타운 스퍼스()를 합병해서 창단했으며 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 축구 클럽인 [AFC 아약스와](https://ko.wikipedia.org/wiki/AFC_아약스 "wikilink") 제휴 관계를 맺고 있다.
+아약스 케이프타운 FC는 [1999년](../Page/1999년.md "wikilink")에 케이프타운을 연고로 하는 축구 클럽인 세븐 스타스()와 케이프타운 스퍼스()를 합병해서 창단했으며 [네덜란드](../Page/네덜란드.md "wikilink")의 축구 클럽인 [AFC 아약스와](../Page/AFC_아약스.md "wikilink") 제휴 관계를 맺고 있다.
 
 ## 주요 대회 성적
 
@@ -12,7 +12,7 @@
 
 ## 유명한 선수
 
-  - [스티븐 피나르](https://ko.wikipedia.org/wiki/스티븐_피나르 "wikilink")
+  - [스티븐 피나르](../Page/스티븐_피나르.md "wikilink")
 
   - [매슈 부스](https://ko.wikipedia.org/wiki/매슈_부스 "wikilink")
 

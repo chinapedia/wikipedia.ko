@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rebirth \(EP\)](https://ko.wikipedia.org/wiki/Rebirth_\(EP\)).
 
 
-***Rebirth***는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") 발매된 [SS501](../Page/SS501.md "wikilink")의 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink"). 타이틀 곡은 〈Love Like This〉이다.
+***Rebirth***는 [2009년](../Page/2009년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") 발매된 [SS501](../Page/SS501.md "wikilink")의 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink"). 타이틀 곡은 〈Love Like This〉이다.
 
 ## 곡 목록
 

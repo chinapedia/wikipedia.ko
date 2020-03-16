@@ -6,17 +6,17 @@
 | list1name = 응용 | list1title = 7.  [응용 계층](../Page/응용_계층.md "wikilink") | list1 =
 
   - [NNTP](../Page/NNTP.md "wikilink")
-  - [SIP](https://ko.wikipedia.org/wiki/세션_개시_프로토콜 "wikilink")
+  - [SIP](../Page/세션_개시_프로토콜.md "wikilink")
   - [SSI](https://ko.wikipedia.org/wiki/심플_센서_인터페이스_프로토콜 "wikilink")
-  - [DNS](https://ko.wikipedia.org/wiki/도메인_네임_시스템 "wikilink")
-  - [FTP](https://ko.wikipedia.org/wiki/파일_전송_프로토콜 "wikilink")
+  - [DNS](../Page/도메인_네임_시스템.md "wikilink")
+  - [FTP](../Page/파일_전송_프로토콜.md "wikilink")
   - [고퍼](../Page/고퍼_\(프로토콜\).md "wikilink")
-  - [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink")
-  - [NFS](https://ko.wikipedia.org/wiki/네트워크_파일_시스템 "wikilink")
-  - [NTP](https://ko.wikipedia.org/wiki/네트워크_타임_프로토콜 "wikilink")
+  - [HTTP](../Page/HTTP.md "wikilink")
+  - [NFS](../Page/네트워크_파일_시스템.md "wikilink")
+  - [NTP](../Page/네트워크_타임_프로토콜.md "wikilink")
   - [SMPP](https://ko.wikipedia.org/wiki/SMPP "wikilink")
-  - [SMTP](https://ko.wikipedia.org/wiki/간이_우편_전송_프로토콜 "wikilink")
-  - [SNMP](https://ko.wikipedia.org/wiki/간이_망_관리_프로토콜 "wikilink")
+  - [SMTP](../Page/간이_우편_전송_프로토콜.md "wikilink")
+  - [SNMP](../Page/간이_망_관리_프로토콜.md "wikilink")
   - [텔넷](../Page/텔넷.md "wikilink")
   - [DHCP](../Page/동적_호스트_구성_프로토콜.md "wikilink")
   - [Netconf](https://ko.wikipedia.org/wiki/Netconf "wikilink")
@@ -24,7 +24,7 @@
 
 | list2name = 표현 | list2title = 6.  [표현 계층](../Page/표현_계층.md "wikilink") | list2 =
 
-  - [MIME](https://ko.wikipedia.org/wiki/MIME "wikilink")
+  - [MIME](../Page/MIME.md "wikilink")
   - [XDR](https://ko.wikipedia.org/wiki/외부_데이터_표현 "wikilink")
   - [ASN.1](https://ko.wikipedia.org/wiki/추상_구문_기법 "wikilink")
 
@@ -33,14 +33,14 @@
   - [명명된 파이프](../Page/명명된_파이프.md "wikilink")
   - [넷바이오스](../Page/넷바이오스.md "wikilink")
   - [SAP](https://ko.wikipedia.org/wiki/세션_공표_프로토콜 "wikilink")
-  - [PPTP](https://ko.wikipedia.org/wiki/점대점_터널링_프로토콜 "wikilink")
+  - [PPTP](../Page/점대점_터널링_프로토콜.md "wikilink")
   - [RTP](../Page/실시간_전송_프로토콜.md "wikilink")
   - [SOCKS](https://ko.wikipedia.org/wiki/SOCKS "wikilink")
   - [SPDY](../Page/SPDY.md "wikilink")
 
 | list4name = 전송 | list4title = 4.  [전송 계층](../Page/전송_계층.md "wikilink") | list4 =
 
-  - [TCP](https://ko.wikipedia.org/wiki/전송_제어_프로토콜 "wikilink")
+  - [TCP](../Page/전송_제어_프로토콜.md "wikilink")
   - [UDP](../Page/사용자_데이터그램_프로토콜.md "wikilink")
   - [SCTP](../Page/스트림_제어_전송_프로토콜.md "wikilink")
   - [DCCP](https://ko.wikipedia.org/wiki/데이터그램_혼잡_제어_프로토콜 "wikilink")
@@ -48,9 +48,9 @@
 
 | list5name = 네트워크 | list5title = 3.  [네트워크 계층](../Page/네트워크_계층.md "wikilink") | list5 =
 
-  - [IP](https://ko.wikipedia.org/wiki/인터넷_프로토콜 "wikilink")
-      - [IPv4](https://ko.wikipedia.org/wiki/IPv4 "wikilink")
-      - [IPv6](https://ko.wikipedia.org/wiki/IPv6 "wikilink")
+  - [IP](../Page/인터넷_프로토콜.md "wikilink")
+      - [IPv4](../Page/IPv4.md "wikilink")
+      - [IPv6](../Page/IPv6.md "wikilink")
   - [ICMP](../Page/인터넷_제어_메시지_프로토콜.md "wikilink")
   - [IPsec](https://ko.wikipedia.org/wiki/IPsec "wikilink")
   - [IGMP](https://ko.wikipedia.org/wiki/인터넷_그룹_관리_프로토콜 "wikilink")
@@ -76,7 +76,7 @@
   - [IEEE 802.3](https://ko.wikipedia.org/wiki/IEEE_802.3 "wikilink")
   - [프레임 릴레이](../Page/프레임_릴레이.md "wikilink")
   - [ITU-T G.hn DLL](https://ko.wikipedia.org/wiki/G.hn "wikilink")
-  - [PPP](https://ko.wikipedia.org/wiki/점대점_프로토콜 "wikilink")
+  - [PPP](../Page/점대점_프로토콜.md "wikilink")
   - [X.25](https://ko.wikipedia.org/wiki/X.25 "wikilink") [LAPB](https://ko.wikipedia.org/wiki/LAPB "wikilink")
   - [Q.921 LAPD](https://ko.wikipedia.org/wiki/링크_액세스_프로시저,_D_채널 "wikilink")
   - [Q.922 LAPF](https://ko.wikipedia.org/wiki/링크_액세스_프로시저_포_프레임_릴레이 "wikilink")
@@ -94,13 +94,13 @@
   - [OTN](https://ko.wikipedia.org/wiki/광_전송망 "wikilink")
   - [DSL](../Page/디지털_가입자_회선.md "wikilink")
   - [IEEE 802.3](https://ko.wikipedia.org/wiki/IEEE_802.3 "wikilink")
-  - [IEEE 802.11](https://ko.wikipedia.org/wiki/IEEE_802.11 "wikilink")
+  - [IEEE 802.11](../Page/IEEE_802.11.md "wikilink")
   - [IEEE 802.15](https://ko.wikipedia.org/wiki/IEEE_802.15 "wikilink")
-  - [IEEE 802.16](https://ko.wikipedia.org/wiki/IEEE_802.16 "wikilink")
+  - [IEEE 802.16](../Page/IEEE_802.16.md "wikilink")
   - [IEEE 1394](../Page/IEEE_1394.md "wikilink")
   - [ITU-T G.hn PHY](https://ko.wikipedia.org/wiki/G.hn "wikilink")
-  - [USB](https://ko.wikipedia.org/wiki/USB "wikilink")
-  - [블루투스](https://ko.wikipedia.org/wiki/블루투스 "wikilink")
+  - [USB](../Page/USB.md "wikilink")
+  - [블루투스](../Page/블루투스.md "wikilink")
   - [RS-232](../Page/RS-232.md "wikilink")
   - [RS-449](https://ko.wikipedia.org/wiki/RS-449 "wikilink")
 

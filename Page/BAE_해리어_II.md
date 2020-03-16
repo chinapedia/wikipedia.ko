@@ -15,7 +15,7 @@
 
   - GR7:
 
-해리어 GR7는 1990년 5월 초도비행했고 1995년 유고슬라비아에 처음으로 실전배치되었다. 1994년 6월 시험기간 중에 GR7은 [인빈시블급 항공모함에](https://ko.wikipedia.org/wiki/인빈시블급_항공모함 "wikilink") 배치되었다. 해상에서의 실전배치는 1997년에 있었다.
+해리어 GR7는 1990년 5월 초도비행했고 1995년 유고슬라비아에 처음으로 실전배치되었다. 1994년 6월 시험기간 중에 GR7은 [인빈시블급 항공모함에](../Page/인빈시블급_항공모함.md "wikilink") 배치되었다. 해상에서의 실전배치는 1997년에 있었다.
 
   - GR7A:
 
@@ -23,7 +23,7 @@
 
   - GR9:
 
-해리어 GR9는 항법장비와 무기를 업그레이드했다. 개량사업을 Integrated Weapons Programme (IWP)이라고 부른다. 최신형 정밀유도무기의 장착을 가능하게 했고, 신형 [INS](https://ko.wikipedia.org/wiki/INS "wikilink")/[GPS](https://ko.wikipedia.org/wiki/GPS "wikilink") 장비를 장착했다. [브리스톤 미사일](https://ko.wikipedia.org/wiki/브리스톤_미사일 "wikilink"), [AGM-65 메버릭](../Page/AGM-65_메버릭.md "wikilink"), [GBU-27 페이브웨이 III](https://ko.wikipedia.org/wiki/GBU-27_페이브웨이_III "wikilink"), [페이브웨이 IV](https://ko.wikipedia.org/wiki/페이브웨이_IV "wikilink") 등을 장착할 수 있다.\[2\] 또한 록히드 마틴의 스나이퍼 타게팅 포드도 장착할 수 있다.
+해리어 GR9는 항법장비와 무기를 업그레이드했다. 개량사업을 Integrated Weapons Programme (IWP)이라고 부른다. 최신형 정밀유도무기의 장착을 가능하게 했고, 신형 [INS](https://ko.wikipedia.org/wiki/INS "wikilink")/[GPS](../Page/GPS.md "wikilink") 장비를 장착했다. [브리스톤 미사일](https://ko.wikipedia.org/wiki/브리스톤_미사일 "wikilink"), [AGM-65 메버릭](../Page/AGM-65_메버릭.md "wikilink"), [GBU-27 페이브웨이 III](https://ko.wikipedia.org/wiki/GBU-27_페이브웨이_III "wikilink"), [페이브웨이 IV](https://ko.wikipedia.org/wiki/페이브웨이_IV "wikilink") 등을 장착할 수 있다.\[2\] 또한 록히드 마틴의 스나이퍼 타게팅 포드도 장착할 수 있다.
 
 2007년 7월, BAE는 영국 국방부를 위해 마지막 7대의 해리어 GR9 개량사업을 완료했다. 동체 후미를 교체하는 것이었는데, 3년간 2,000만 파운드의 사업이었다.\[3\]
 

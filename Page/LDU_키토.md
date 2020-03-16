@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LDU ](https://ko.wikipedia.org/wiki/LDU_).
 
 
-**리가 데포르티바 우니베르시타리아 데 키토**()는 [에콰도르](https://ko.wikipedia.org/wiki/에콰도르 "wikilink")의 수도 [키토](https://ko.wikipedia.org/wiki/키토 "wikilink")를 연고지로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 간단히 줄여서 **LDU 키토**() 또는 **리가 데 키토**()라고도 부른다.
+**리가 데포르티바 우니베르시타리아 데 키토**()는 [에콰도르](../Page/에콰도르.md "wikilink")의 수도 [키토](../Page/키토.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 간단히 줄여서 **LDU 키토**() 또는 **리가 데 키토**()라고도 부른다.
 
 1918년에 창단한 에콰도르 중앙대학교 산하 세미 프로 축구단이 전신이며 1930년 1월 11일에 프로 축구단으로 개편되었다. [에콰도르 세리에 A에서는](../Page/에콰도르_세리에_A.md "wikilink") 10번 우승했고 [코파 리베르타도레스에서는](../Page/코파_리베르타도레스.md "wikilink") 1번, [코파 수다메리카나에서는](../Page/코파_수다메리카나.md "wikilink") 1번, [레코파 수다메리카나에서는](../Page/레코파_수다메리카나.md "wikilink") 2번 우승했다. 키토를 연고로 하는 축구 클럽인 [CD 엘 나시오날](../Page/CD_엘_나시오날.md "wikilink"), [데포르티보 키토](https://ko.wikipedia.org/wiki/데포르티보_키토 "wikilink"), [우니베르시다드 카톨리카 델 에콰도르와](../Page/우니베르시다드_카톨리카_델_에콰도르.md "wikilink") 라이벌 관계를 형성하고 있다.
 
@@ -20,17 +20,17 @@
 
 ## 대표적인 선수
 
-  - [안토니오 발렌시아](https://ko.wikipedia.org/wiki/안토니오_발렌시아 "wikilink")
+  - [안토니오 발렌시아](../Page/안토니오_발렌시아.md "wikilink")
 
-  - [에디손 멘데스](https://ko.wikipedia.org/wiki/에디손_멘데스 "wikilink")
+  - [에디손 멘데스](../Page/에디손_멘데스.md "wikilink")
 
-  - [아구스틴 델가도](https://ko.wikipedia.org/wiki/아구스틴_델가도 "wikilink")
+  - [아구스틴 델가도](../Page/아구스틴_델가도.md "wikilink")
 
-  - [카를로스 테노리오](https://ko.wikipedia.org/wiki/카를로스_테노리오 "wikilink")
+  - [카를로스 테노리오](../Page/카를로스_테노리오.md "wikilink")
 
   - [울리세스 데 라 크루스](../Page/울리세스_데_라_크루스.md "wikilink")
 
-  - [엔리케 베라](https://ko.wikipedia.org/wiki/엔리케_베라 "wikilink")
+  - [엔리케 베라](../Page/엔리케_베라.md "wikilink")
 
 ## 외부 링크
 

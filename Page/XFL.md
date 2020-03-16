@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XFL](https://ko.wikipedia.org/wiki/XFL).
 
 
-**XFL**(X Football League)은 [WWF가](https://ko.wikipedia.org/wiki/WWE "wikilink") 2001년 2월 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 전국 8개 팀으로 새롭게 만든 [미식축구](../Page/미식축구.md "wikilink") 리그이다. 기존 [NFL과](../Page/내셔널_풋볼_리그.md "wikilink") 비교해 볼때 상대적으로 공격적인 룰을 도입했으며, 여름에 미식축구 없이 지낼 수 없는 미국인들을 타켓으로 하였다. [NBC](../Page/NBC.md "wikilink")는 당시 해당 리그를 생중계로 진행하였다.\[1\]\[2\]
+**XFL**(X Football League)은 [WWF가](https://ko.wikipedia.org/wiki/WWE "wikilink") 2001년 2월 [미국](../Page/미국.md "wikilink") 전국 8개 팀으로 새롭게 만든 [미식축구](../Page/미식축구.md "wikilink") 리그이다. 기존 [NFL과](../Page/내셔널_풋볼_리그.md "wikilink") 비교해 볼때 상대적으로 공격적인 룰을 도입했으며, 여름에 미식축구 없이 지낼 수 없는 미국인들을 타켓으로 하였다. [NBC](../Page/NBC.md "wikilink")는 당시 해당 리그를 생중계로 진행하였다.\[1\]\[2\]
 
 ## 진행과정
 
@@ -15,7 +15,7 @@ XFL은 위기에 대한 대안으로 "대학진학을 못한 고교졸업생을 
 
 ## 재출범
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 9월 빈스 맥맨은 '[UFL](https://ko.wikipedia.org/wiki/유나이티드_풋볼_리그 "wikilink")', '포 더 러브 오즈 풋볼'을 상표권 등록 신청하면서 풋 볼 리그 재도전을 선언한다. 하지만 UFL 대신 기존 XFL 명칭을 다시 사용하기로 결정하고, 2018년 1월 25일 기자회견을 통해 [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") 1월에 재출범시키겠다고 발표한다.
+[2017년](../Page/2017년.md "wikilink") 9월 빈스 맥맨은 '[UFL](https://ko.wikipedia.org/wiki/유나이티드_풋볼_리그 "wikilink")', '포 더 러브 오즈 풋볼'을 상표권 등록 신청하면서 풋 볼 리그 재도전을 선언한다. 하지만 UFL 대신 기존 XFL 명칭을 다시 사용하기로 결정하고, 2018년 1월 25일 기자회견을 통해 [2020년](../Page/2020년.md "wikilink") 1월에 재출범시키겠다고 발표한다.
 
 정식 명칭은 [XFL (2020년)](../Page/XFL_\(2020년\).md "wikilink").
 
@@ -37,22 +37,22 @@ XFL은 위기에 대한 대안으로 "대학진학을 못한 고교졸업생을 
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/올랜도_레이지" title="wikilink">올랜도 레이지</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
+<td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
 <td><p><a href="../Page/캠핑_월드_스타디움.md" title="wikilink">시트러스 보울</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/시카고_엔포서스" title="wikilink">시카고 엔포서스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일리노이주" title="wikilink">일리노이주</a> <a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/일리노이주.md" title="wikilink">일리노이주</a> <a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td><p><a href="../Page/솔저_필드.md" title="wikilink">솔저 필드</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/뉴욕/뉴저지_히트맨" title="wikilink">뉴욕/뉴저지 히트맨</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴저지주" title="wikilink">뉴저지주</a> <a href="https://ko.wikipedia.org/wiki/이스트러더퍼드" title="wikilink">이스트러더퍼드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자이언츠_스타디움" title="wikilink">자이언츠 스타디움</a></p></td>
+<td><p><a href="../Page/뉴저지주.md" title="wikilink">뉴저지주</a> <a href="https://ko.wikipedia.org/wiki/이스트러더퍼드" title="wikilink">이스트러더퍼드</a></p></td>
+<td><p><a href="../Page/자이언츠_스타디움.md" title="wikilink">자이언츠 스타디움</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/버밍햄_선더볼츠" title="wikilink">버밍햄 선더볼츠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/앨라배마주" title="wikilink">앨라배마주</a> <a href="../Page/버밍햄_(앨라배마주).md" title="wikilink">버밍햄</a></p></td>
+<td><p><a href="../Page/앨라배마주.md" title="wikilink">앨라배마주</a> <a href="../Page/버밍햄_(앨라배마주).md" title="wikilink">버밍햄</a></p></td>
 <td><p><a href="../Page/리전_필드.md" title="wikilink">리전 필드</a></p></td>
 </tr>
 <tr class="even">
@@ -62,22 +62,22 @@ XFL은 위기에 대한 대안으로 "대학진학을 못한 고교졸업생을 
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/로스앤젤레스_익스트림" title="wikilink">로스앤젤레스 익스트림</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로스앤젤레스_메모리얼_콜리세움" title="wikilink">로스앤젤레스 메모리얼 콜리세움</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
+<td><p><a href="../Page/로스앤젤레스_메모리얼_콜리세움.md" title="wikilink">로스앤젤레스 메모리얼 콜리세움</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/샌프란시스코_데몬스" title="wikilink">샌프란시스코 데몬스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/샌프란시스코" title="wikilink">샌프란시스코</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오라클_파크" title="wikilink">퍼시픽 벨 파크</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a></p></td>
+<td><p><a href="../Page/오라클_파크.md" title="wikilink">퍼시픽 벨 파크</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/멤피스_매니악스" title="wikilink">멤피스 매니악스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/테네시주" title="wikilink">테네시주</a> <a href="../Page/멤피스_(테네시주).md" title="wikilink">멤피스</a></p></td>
+<td><p><a href="../Page/테네시주.md" title="wikilink">테네시주</a> <a href="../Page/멤피스_(테네시주).md" title="wikilink">멤피스</a></p></td>
 <td><p><a href="../Page/리버티_보울_메모리얼_스타디움.md" title="wikilink">리버티 보울 메모리얼 스타디움</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/라스베이거스_아웃로스_(XFL)" title="wikilink">라스베이거스 아웃로스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네바다주" title="wikilink">네바다주</a> <a href="https://ko.wikipedia.org/wiki/라스베이거스" title="wikilink">라스베이거스</a></p></td>
+<td><p><a href="../Page/네바다주.md" title="wikilink">네바다주</a> <a href="../Page/라스베이거스.md" title="wikilink">라스베이거스</a></p></td>
 <td><p><a href="../Page/샘_보이드_스타디움.md" title="wikilink">샘 보이드 스타디움</a></p></td>
 </tr>
 <tr class="odd">
@@ -104,13 +104,13 @@ XFL은 위기에 대한 대안으로 "대학진학을 못한 고교졸업생을 
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/캠핑_월드_스타디움.md" title="wikilink">시트러스 보울</a><br />
-(<a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a>)</p></td>
+(<a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a>)</p></td>
 <td><p><a href="../Page/솔저_필드.md" title="wikilink">솔저 필드</a><br />
-(<a href="https://ko.wikipedia.org/wiki/일리노이주" title="wikilink">일리노이주</a> <a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자이언츠_스타디움" title="wikilink">자이언츠 스타디움</a><br />
-(<a href="https://ko.wikipedia.org/wiki/뉴저지주" title="wikilink">뉴저지주</a> <a href="https://ko.wikipedia.org/wiki/이스트러더퍼드" title="wikilink">이스트러더퍼드</a>)</p></td>
+(<a href="../Page/일리노이주.md" title="wikilink">일리노이주</a> <a href="../Page/시카고.md" title="wikilink">시카고</a>)</p></td>
+<td><p><a href="../Page/자이언츠_스타디움.md" title="wikilink">자이언츠 스타디움</a><br />
+(<a href="../Page/뉴저지주.md" title="wikilink">뉴저지주</a> <a href="https://ko.wikipedia.org/wiki/이스트러더퍼드" title="wikilink">이스트러더퍼드</a>)</p></td>
 <td><p><a href="../Page/리전_필드.md" title="wikilink">리전 필드</a><br />
-(<a href="https://ko.wikipedia.org/wiki/앨라배마주" title="wikilink">앨라배마주</a> <a href="../Page/버밍햄_(앨라배마주).md" title="wikilink">버밍햄</a>)</p></td>
+(<a href="../Page/앨라배마주.md" title="wikilink">앨라배마주</a> <a href="../Page/버밍햄_(앨라배마주).md" title="wikilink">버밍햄</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>수용인원: <strong>61,348명</strong></p></td>
@@ -140,14 +140,14 @@ XFL은 위기에 대한 대안으로 "대학진학을 못한 고교졸업생을 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로스앤젤레스_메모리얼_콜리세움" title="wikilink">로스앤젤레스 메모리얼 콜리세움</a><br />
-(<a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오라클_파크" title="wikilink">퍼시픽 벨 파크</a><br />
-(<a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/샌프란시스코" title="wikilink">샌프란시스코</a>)</p></td>
+<td><p><a href="../Page/로스앤젤레스_메모리얼_콜리세움.md" title="wikilink">로스앤젤레스 메모리얼 콜리세움</a><br />
+(<a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a>)</p></td>
+<td><p><a href="../Page/오라클_파크.md" title="wikilink">퍼시픽 벨 파크</a><br />
+(<a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a>)</p></td>
 <td><p><a href="../Page/리버티_보울_메모리얼_스타디움.md" title="wikilink">리버티 보울 메모리얼 스타디움</a><br />
-(<a href="https://ko.wikipedia.org/wiki/테네시주" title="wikilink">테네시주</a> <a href="../Page/멤피스_(테네시주).md" title="wikilink">멤피스</a>)</p></td>
+(<a href="../Page/테네시주.md" title="wikilink">테네시주</a> <a href="../Page/멤피스_(테네시주).md" title="wikilink">멤피스</a>)</p></td>
 <td><p><a href="../Page/샘_보이드_스타디움.md" title="wikilink">샘 보이드 스타디움</a><br />
-(<a href="https://ko.wikipedia.org/wiki/네바다주" title="wikilink">네바다주</a> <a href="https://ko.wikipedia.org/wiki/라스베이거스" title="wikilink">라스베이거스</a>)</p></td>
+(<a href="../Page/네바다주.md" title="wikilink">네바다주</a> <a href="../Page/라스베이거스.md" title="wikilink">라스베이거스</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>수용인원: <strong>93,607명</strong></p></td>

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [WxPython](https://ko.wikipedia.org/wiki/WxPython).
 
 
-**wxPython**은 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") [GUI](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") [API](../Page/API.md "wikilink")(흔히 [툴킷](https://ko.wikipedia.org/wiki/툴킷 "wikilink")으로 부름)인 [wxWidgets](https://ko.wikipedia.org/wiki/wxWidgets "wikilink")([C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 작성)를 [파이썬 프로그래밍 언어](https://ko.wikipedia.org/wiki/파이썬 "wikilink") 환경에서 이용하기 위한 래퍼(wrapper)이다. 파이썬과 묶여 있는 [트킨터](https://ko.wikipedia.org/wiki/트킨터 "wikilink")를 대체하는 것들 가운데 하나이기도 하다. 파이썬 [확장 모듈](https://ko.wikipedia.org/wiki/확장_모듈 "wikilink") ([네이티브 코드](https://ko.wikipedia.org/wiki/네이티브_코드 "wikilink"))로 추가되었다. 이 밖의 다른 대체물로는 [PyGTK](https://ko.wikipedia.org/wiki/PyGTK "wikilink"), [PyQt](https://ko.wikipedia.org/wiki/PyQt "wikilink")가 있다. wxWidgets과 같이 wxPython은 [자유 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink").
+**wxPython**은 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") [API](../Page/API.md "wikilink")(흔히 [툴킷](https://ko.wikipedia.org/wiki/툴킷 "wikilink")으로 부름)인 [wxWidgets](https://ko.wikipedia.org/wiki/wxWidgets "wikilink")([C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 작성)를 [파이썬 프로그래밍 언어](../Page/파이썬.md "wikilink") 환경에서 이용하기 위한 래퍼(wrapper)이다. 파이썬과 묶여 있는 [트킨터](https://ko.wikipedia.org/wiki/트킨터 "wikilink")를 대체하는 것들 가운데 하나이기도 하다. 파이썬 [확장 모듈](https://ko.wikipedia.org/wiki/확장_모듈 "wikilink") ([네이티브 코드](https://ko.wikipedia.org/wiki/네이티브_코드 "wikilink"))로 추가되었다. 이 밖의 다른 대체물로는 [PyGTK](https://ko.wikipedia.org/wiki/PyGTK "wikilink"), [PyQt](https://ko.wikipedia.org/wiki/PyQt "wikilink")가 있다. wxWidgets과 같이 wxPython은 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
 
 ## 라이선스
 
-래퍼로서 wxPython은 [wxWidgets](https://ko.wikipedia.org/wiki/wxWidgets "wikilink")에 쓰이는 동일한 [자유 소프트웨어 라이선스를](https://ko.wikipedia.org/wiki/자유_소프트웨어_라이선스 "wikilink") 이용한다.\[1\] 이 라이선스는 [자유 소프트웨어 재단과](https://ko.wikipedia.org/wiki/자유_소프트웨어_재단 "wikilink") [오픈 소스 이니셔티브에](https://ko.wikipedia.org/wiki/오픈_소스_이니셔티브 "wikilink") 승인되어 있다.
+래퍼로서 wxPython은 [wxWidgets](https://ko.wikipedia.org/wiki/wxWidgets "wikilink")에 쓰이는 동일한 [자유 소프트웨어 라이선스를](https://ko.wikipedia.org/wiki/자유_소프트웨어_라이선스 "wikilink") 이용한다.\[1\] 이 라이선스는 [자유 소프트웨어 재단과](../Page/자유_소프트웨어_재단.md "wikilink") [오픈 소스 이니셔티브에](https://ko.wikipedia.org/wiki/오픈_소스_이니셔티브 "wikilink") 승인되어 있다.
 
 ## 예
 

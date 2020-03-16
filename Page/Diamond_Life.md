@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Diamond Life](https://ko.wikipedia.org/wiki/Diamond_Life).
 
 
-《**Diamond Life**》 는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 소울 밴드 [샤데이](https://ko.wikipedia.org/wiki/샤데이 "wikilink")의 데뷔 앨범으로, [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 7월 28일에 발매되었다(미국 발매일은 1985년 2월 23일).
+《**Diamond Life**》 는 [영국](../Page/영국.md "wikilink")의 소울 밴드 [샤데이](https://ko.wikipedia.org/wiki/샤데이 "wikilink")의 데뷔 앨범으로, [1984년](../Page/1984년.md "wikilink") 7월 28일에 발매되었다(미국 발매일은 1985년 2월 23일).
 
-앨범 발매 직후에는 별다른 반응을 얻지 못했지만, 영국에서 싱글인 〈Your Love is King〉이 Top 10에 진입하면서 급속도로 스포트라이트의 중심에 섰다. *Diamond Life*앨범은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")(9주), [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")(8주), [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")(5주)에서 앨범차트 1위를 달구며 뜨겁게 팔려나갔다. 앨범은 미국에서 400만장, 영국에서 120만장 이상이 팔려나가며 엄청난 인기를 모았다.
+앨범 발매 직후에는 별다른 반응을 얻지 못했지만, 영국에서 싱글인 〈Your Love is King〉이 Top 10에 진입하면서 급속도로 스포트라이트의 중심에 섰다. *Diamond Life*앨범은 [독일](../Page/독일.md "wikilink")(9주), [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")(8주), [오스트리아](../Page/오스트리아.md "wikilink")(5주)에서 앨범차트 1위를 달구며 뜨겁게 팔려나갔다. 앨범은 미국에서 400만장, 영국에서 120만장 이상이 팔려나가며 엄청난 인기를 모았다.
 
-*Diamond Life*는 발매 이듬해인 1985년 [브릿 어워드에서](https://ko.wikipedia.org/wiki/브릿_어워드 "wikilink") 최우수 영국 앨범 부문을 수상하였다.
+*Diamond Life*는 발매 이듬해인 1985년 [브릿 어워드에서](../Page/브릿_어워드.md "wikilink") 최우수 영국 앨범 부문을 수상하였다.
 
 ## 트랙 리스트
 
@@ -50,8 +50,8 @@
 
   - [샤데이 아두](../Page/샤데이_아두.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
   - 앤드루 헤일 – [키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
-  - 스튜어트 매튜맨 – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [색소폰](../Page/색소폰.md "wikilink")
-  - 폴 스펜서 덴만 – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 스튜어트 매튜맨 – [기타](../Page/기타.md "wikilink"), [색소폰](../Page/색소폰.md "wikilink")
+  - 폴 스펜서 덴만 – [베이스](../Page/베이스_기타.md "wikilink")
   - 폴 쿡 – [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")
 
 <!-- end list -->
@@ -74,7 +74,7 @@
   - 사이먼 드리스콜 – 보조 엔지니어
   - 톰 코인 – [remastering](https://ko.wikipedia.org/wiki/오디오_마스터링 "wikilink")
   - 크리스 로버츠 – [photography](https://ko.wikipedia.org/wiki/photography "wikilink")
-  - 그래함 스미스 – [artwork](https://ko.wikipedia.org/wiki/커버_아트 "wikilink"), [디자인](https://ko.wikipedia.org/wiki/디자인 "wikilink"), sleeve design
+  - 그래함 스미스 – [artwork](https://ko.wikipedia.org/wiki/커버_아트 "wikilink"), [디자인](../Page/디자인.md "wikilink"), sleeve design
 
 ## 차트
 

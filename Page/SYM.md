@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SYM](https://ko.wikipedia.org/wiki/SYM).
 
 
-**SYM** 또는 **삼양공업**(, )은 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 [모터사이클](../Page/모터사이클.md "wikilink") 제조 회사로, 정식 명칭은 **삼양공업고분유한공사**()이다. 1954년에 [타이베이 시](https://ko.wikipedia.org/wiki/타이베이_시 "wikilink") [네이후 구에서](https://ko.wikipedia.org/wiki/네이후_구 "wikilink") 창립되었다.
+**SYM** 또는 **삼양공업**(, )은 [중화민국](../Page/중화민국.md "wikilink")의 [모터사이클](../Page/모터사이클.md "wikilink") 제조 회사로, 정식 명칭은 **삼양공업고분유한공사**()이다. 1954년에 [타이베이 시](https://ko.wikipedia.org/wiki/타이베이_시 "wikilink") [네이후 구에서](https://ko.wikipedia.org/wiki/네이후_구 "wikilink") 창립되었다.
 
 ## 제품
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DECO\*27](https://ko.wikipedia.org/wiki/DECO\*27).
 
 
-**DECO\*27**(데코\*27, , 1986년 12월 16일 \~ )는 일본의 남성 뮤지션으로 [동영상](https://ko.wikipedia.org/wiki/동영상 "wikilink") 업로드 서비스를 제공하는 [니코니코 동화등지에서](../Page/니코니코_동화.md "wikilink") 주로 [하츠네 미쿠](../Page/하츠네_미쿠.md "wikilink"), [Megpoid](https://ko.wikipedia.org/wiki/Megpoid "wikilink")라는 음성 합성 소프트웨어를 사용하여 작곡을 한다.
+**DECO\*27**(데코\*27, , 1986년 12월 16일 \~ )는 일본의 남성 뮤지션으로 [동영상](https://ko.wikipedia.org/wiki/동영상 "wikilink") 업로드 서비스를 제공하는 [니코니코 동화등지에서](../Page/니코니코_동화.md "wikilink") 주로 [하츠네 미쿠](../Page/하츠네_미쿠.md "wikilink"), [Megpoid](../Page/Megpoid.md "wikilink")라는 음성 합성 소프트웨어를 사용하여 작곡을 한다.
 
 ## 개요
 

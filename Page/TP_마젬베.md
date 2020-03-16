@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [TP ](https://ko.wikipedia.org/wiki/TP_).
 
 
-**투 퓌이상 마젬베**(), 약칭 **TP 마젬베**()는 [콩고 민주 공화국](https://ko.wikipedia.org/wiki/콩고_민주_공화국 "wikilink") [루붐바시](https://ko.wikipedia.org/wiki/루붐바시 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽 팀으로, 이전에는 **앙글레베르**()라는 이름으로 알려지기도 했다. 클럽 이름은 [프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink")로 "전지전능한 마젬베"를 뜻한다.
+**투 퓌이상 마젬베**(), 약칭 **TP 마젬베**()는 [콩고 민주 공화국](../Page/콩고_민주_공화국.md "wikilink") [루붐바시](https://ko.wikipedia.org/wiki/루붐바시 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀으로, 이전에는 **앙글레베르**()라는 이름으로 알려지기도 했다. 클럽 이름은 [프랑스어](../Page/프랑스어.md "wikilink")로 "전지전능한 마젬베"를 뜻한다.
 
-TP 마젬베는 [2010년 FIFA 클럽 월드컵](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2010 "wikilink") 준결승전에서 남미의 강호 [SC 인테르나시오나우](../Page/SC_인테르나시오나우.md "wikilink")([브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink"))를 2:0으로 제압하고 유럽과 남미 이외의 클럽으로는 사상 최초로 클럽 월드컵 결승에 진출하는 이변을 일으켰다.
+TP 마젬베는 [2010년 FIFA 클럽 월드컵](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2010 "wikilink") 준결승전에서 남미의 강호 [SC 인테르나시오나우](../Page/SC_인테르나시오나우.md "wikilink")([브라질](../Page/브라질.md "wikilink"))를 2:0으로 제압하고 유럽과 남미 이외의 클럽으로는 사상 최초로 클럽 월드컵 결승에 진출하는 이변을 일으켰다.
 
 ## 주요 경력
 
@@ -14,9 +14,9 @@ TP 마젬베는 [2010년 FIFA 클럽 월드컵](https://ko.wikipedia.org/wiki/FI
 
 ### 아프리카 축구 연맹 주관 대회
 
-  - [CAF 챔피언스리그](https://ko.wikipedia.org/wiki/CAF_챔피언스리그 "wikilink"): 우승 5회 (1967, 1968, 2009, 2010, 2015), 준우승 2회 (1969, 1970)
-  - [아프리칸 컵위너스컵](https://ko.wikipedia.org/wiki/아프리칸_컵위너스컵 "wikilink"): 우승 1회 (1980)
-  - [CAF 슈퍼컵](https://ko.wikipedia.org/wiki/CAF_슈퍼컵 "wikilink"): 우승 1회 (2010)
+  - [CAF 챔피언스리그](../Page/CAF_챔피언스리그.md "wikilink"): 우승 5회 (1967, 1968, 2009, 2010, 2015), 준우승 2회 (1969, 1970)
+  - [아프리칸 컵위너스컵](../Page/아프리칸_컵위너스컵.md "wikilink"): 우승 1회 (1980)
+  - [CAF 슈퍼컵](../Page/CAF_슈퍼컵.md "wikilink"): 우승 1회 (2010)
 
 ### 국제 대회
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Radar \(\)](https://ko.wikipedia.org/wiki/Radar_\(\)).
 
 
-**"Radar"**는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 노래이다.블러드샤이& 아방트 그리고 클러치에 의해 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 11월달에 만들어졌지만, 브리트니의 사적 문제로 인해 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") 발매되었다.또한 "Radar"는 제 2의 "[Toxic](https://ko.wikipedia.org/wiki/Toxic "wikilink")"으로도 불렸지만 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서는 88위, 영국 싱글 차트에서는 46위를 기록하며 매우 저조한 성적을 보였다.
+**"Radar"**는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 노래이다.블러드샤이& 아방트 그리고 클러치에 의해 [2006년](../Page/2006년.md "wikilink") 11월달에 만들어졌지만, 브리트니의 사적 문제로 인해 [2009년](../Page/2009년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink") 발매되었다.또한 "Radar"는 제 2의 "[Toxic](../Page/Toxic.md "wikilink")"으로도 불렸지만 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서는 88위, 영국 싱글 차트에서는 46위를 기록하며 매우 저조한 성적을 보였다.
 
 ## 트랙 리스트
 

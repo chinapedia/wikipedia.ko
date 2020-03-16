@@ -5,7 +5,7 @@
 
 ## 리그본문
 
-  - **리그기간** : [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink")
+  - **리그기간** : [2006년](../Page/2006년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink")
 
 <!-- end list -->
 
@@ -16,7 +16,7 @@
 
   - **리그방식**
       - 차기 MSL 시드권자 8명 → 4명
-      - 기존의 [더블 엘리미네이션](https://ko.wikipedia.org/wiki/더블_엘리미네이션_토너먼트 "wikilink") 방식을 소폭 수정한다.
+      - 기존의 [더블 엘리미네이션](../Page/더블_엘리미네이션_토너먼트.md "wikilink") 방식을 소폭 수정한다.
           - 16강전 : 조별리그의 더블엘리미네이션 방식으로 단판승부로 진행된다.
           - 8강전 : 16강 방식과 동일하나 승자전, 패자전, 패자부활전은 3전 2선승제로 진행된다.
           - 준결승전 \~ 결승전 : 크로스토너먼트 방식으로 진행되며 5전 3선승제이다. (3, 4위전은 없고, 승률로 시드배정)
@@ -24,7 +24,7 @@
       - 스퀘어 지형을 이용한 수직언덕지형이 도입된다. (The Eye)
       - 스틸드래프트 지명방식이 도입된다.
       - 맵 썸즈다운(드롭)제도 도입
-      - 결승전 장소 : [고양](https://ko.wikipedia.org/wiki/고양시 "wikilink") [일산](https://ko.wikipedia.org/wiki/일산신도시 "wikilink") [KINTEX](https://ko.wikipedia.org/wiki/KINTEX "wikilink")
+      - 결승전 장소 : [고양](https://ko.wikipedia.org/wiki/고양시 "wikilink") [일산](../Page/일산신도시.md "wikilink") [KINTEX](https://ko.wikipedia.org/wiki/KINTEX "wikilink")
       - 우승상금이 3000만원으로 늘어났다.
       - 강민 천적 박용욱 상대로 3:0 완승 준결승전
       - 강민 토스 통산 2번째로 결승진출한 프로토스 (박정석-강민)
@@ -44,7 +44,7 @@
 |    |                                                         |                                                         |                                                         |                                                     |                                                     |
 | -- | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
 | 조  | 1경기                                                     | 2경기                                                     | 승자전                                                     | 패자전                                                 | 최종전                                                 |
-| A조 | **[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")** | [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")     | **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")** | [박정길](https://ko.wikipedia.org/wiki/박정길 "wikilink") | [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") |
+| A조 | **[조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")** | [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")     | **[임요환](../Page/임요환.md "wikilink")**                    | [박정길](https://ko.wikipedia.org/wiki/박정길 "wikilink") | [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") |
 | B조 | **[마재윤](../Page/마재윤.md "wikilink")**                    | [김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink")     | **[박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")** | [박용욱](../Page/박용욱.md "wikilink")                    | **[마재윤](../Page/마재윤.md "wikilink")**                |
 | C조 | [최연성](../Page/최연성.md "wikilink")                        | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**            | [박지호](https://ko.wikipedia.org/wiki/박지호 "wikilink")     | **[송병구](../Page/송병구.md "wikilink")**                | **[강민](../Page/강민_\(프로게이머\).md "wikilink")**        |
 | D조 | [성학승](../Page/성학승.md "wikilink")                        | **[한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink")** | **[전상욱](https://ko.wikipedia.org/wiki/전상욱 "wikilink")** | [윤종민](../Page/윤종민.md "wikilink")                    | [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink") |

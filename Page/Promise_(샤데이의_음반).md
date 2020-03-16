@@ -49,8 +49,8 @@
 
   - [샤데이 아두](../Page/샤데이_아두.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
   - 앤드루 헤일 – [건반](https://ko.wikipedia.org/wiki/키보드 "wikilink")
-  - 스튜어트 메튜맨 – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [섹소폰](https://ko.wikipedia.org/wiki/섹소폰 "wikilink")
-  - 폴 S. 덴만 – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 스튜어트 메튜맨 – [기타](../Page/기타.md "wikilink"), [섹소폰](https://ko.wikipedia.org/wiki/섹소폰 "wikilink")
+  - 폴 S. 덴만 – [베이스](../Page/베이스_기타.md "wikilink")
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 
 ### 프로덕션
 
-  - 샤데이 아두 – [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [편곡](https://ko.wikipedia.org/wiki/편곡 "wikilink")
+  - 샤데이 아두 – [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [편곡](../Page/편곡.md "wikilink")
   - [로빈 밀라](https://ko.wikipedia.org/wiki/로빈_밀라 "wikilink") – 프로듀서
   - 벤 로간 – 프로듀서
   - 마이크 펠라 – 프로듀서, 오디오 엔지니어, [믹싱](https://ko.wikipedia.org/wiki/믹싱 "wikilink"), [프로덕션 엔지니어](https://ko.wikipedia.org/wiki/프로덕션_엔지니어 "wikilink")
@@ -78,7 +78,7 @@
   - 필 레그 – 보조 엔지니어
   - 톰 코인 – [오디오 마스터링](https://ko.wikipedia.org/wiki/오디오_마스터링 "wikilink")
   - L리 바렛 – [음악 메니지먼트](https://ko.wikipedia.org/wiki/음악_메니지먼트 "wikilink")
-  - 그레햄 스미스 – [디자인](https://ko.wikipedia.org/wiki/디자인 "wikilink")
+  - 그레햄 스미스 – [디자인](../Page/디자인.md "wikilink")
   - 토시 야지마 – [photography](https://ko.wikipedia.org/wiki/photography "wikilink")
 
 ## 차트

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
 
 
-**채널 \[V\]**(Channel \[V\], \[V\]音樂台, 채널브이)은 [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink") & [오세아니아](https://ko.wikipedia.org/wiki/오세아니아 "wikilink")지역 대상으로 방송하는 음악 & 엔터테인먼트 방송국이다. 이 방송국은 [STAR TV](../Page/STAR_TV.md "wikilink") & 폭스 인터내셔널 ([폭스 코퍼레이션](https://ko.wikipedia.org/wiki/폭스_코퍼레이션 "wikilink"))에서 관리하고 있다.
+**채널 \[V\]**(Channel \[V\], \[V\]音樂台, 채널브이)은 [아시아](../Page/아시아.md "wikilink") & [오세아니아](../Page/오세아니아.md "wikilink")지역 대상으로 방송하는 음악 & 엔터테인먼트 방송국이다. 이 방송국은 [STAR TV](../Page/STAR_TV.md "wikilink") & 폭스 인터내셔널 ([폭스 코퍼레이션](../Page/폭스_코퍼레이션.md "wikilink"))에서 관리하고 있다.
 
 ## 인터내셔널
 
-개국 전에는 MTV Asia 파트너십으로 영업하였다가 계약 만료로 Star TV와 EMI, Universal Record, SONY Music등이 공동으로 지분을 출자하여 설립하여 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [5월 23일에](https://ko.wikipedia.org/wiki/5월_23일 "wikilink") 개국하였다. 1994년부터 2001년까지는 홍콩 스튜디오로 활동 중국어로 방송하였다. 2002년 이후부터는 영어로 방송한다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 1일부터는](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 일부 IPTV에서만 서비스가 제공되고 있다.
+개국 전에는 MTV Asia 파트너십으로 영업하였다가 계약 만료로 Star TV와 EMI, Universal Record, SONY Music등이 공동으로 지분을 출자하여 설립하여 [1994년](../Page/1994년.md "wikilink") [5월 23일에](../Page/5월_23일.md "wikilink") 개국하였다. 1994년부터 2001년까지는 홍콩 스튜디오로 활동 중국어로 방송하였다. 2002년 이후부터는 영어로 방송한다. [2014년](../Page/2014년.md "wikilink") [10월 1일부터는](../Page/10월_1일.md "wikilink") 일부 IPTV에서만 서비스가 제공되고 있다.
 
 ### 프로그램
 
@@ -110,13 +110,13 @@
 
 #### 연혁
 
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink"): Channel\[V\]에서 한국 프로그램 개시 (순위 프로그램, 한국 소개 프로그램)
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink"): 도레미미디어와 Star TV 합작으로 Channel\[V\] Korea 개국 (케이블)
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink"): 스카이라이프에서 Channel\[V\] Korea 시청 가능
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink"): 씰미디어 Channel\[V\] Korea 인수 (이전 도레미미디어)
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink"): Channel\[V\] Korea 휴국
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink"): Vmax E\&M Korea(브이맥스이엔앰코리아/대표이사:임석무)에서 Channel\[V\] Korea 인수
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink"): 해당 방송사업자의 사정에 따라 폐국
+  - [1998년](../Page/1998년.md "wikilink"): Channel\[V\]에서 한국 프로그램 개시 (순위 프로그램, 한국 소개 프로그램)
+  - [2001년](../Page/2001년.md "wikilink"): 도레미미디어와 Star TV 합작으로 Channel\[V\] Korea 개국 (케이블)
+  - [2002년](../Page/2002년.md "wikilink"): 스카이라이프에서 Channel\[V\] Korea 시청 가능
+  - [2006년](../Page/2006년.md "wikilink"): 씰미디어 Channel\[V\] Korea 인수 (이전 도레미미디어)
+  - [2008년](../Page/2008년.md "wikilink"): Channel\[V\] Korea 휴국
+  - [2013년](../Page/2013년.md "wikilink"): Vmax E\&M Korea(브이맥스이엔앰코리아/대표이사:임석무)에서 Channel\[V\] Korea 인수
+  - [2019년](../Page/2019년.md "wikilink"): 해당 방송사업자의 사정에 따라 폐국
 
 #### 종영 프로그램
 
@@ -184,7 +184,7 @@
 
 ### 대만
 
-1994년에 개국하였으며 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") Fox Taiwan 으로 채널명 변경
+1994년에 개국하였으며 [2014년](../Page/2014년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") Fox Taiwan 으로 채널명 변경
 
 #### 종영 프로그램
 

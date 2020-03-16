@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**노스캐롤라이나 FC**(North Carolina Football Club)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [노스캐롤라이나주](https://ko.wikipedia.org/wiki/노스캐롤라이나주 "wikilink") [캐리](https://ko.wikipedia.org/wiki/캐리 "wikilink")를 연고로 하는 [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속의 축구팀이다.
+**노스캐롤라이나 FC**(North Carolina Football Club)는 [미국](../Page/미국.md "wikilink") [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink") [캐리](https://ko.wikipedia.org/wiki/캐리 "wikilink")를 연고로 하는 [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속의 축구팀이다.
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink") **캐롤라이나 레일호크스**(Carolina Railhawks)에서 현재 팀명으로 바뀌었다.
+[2016년](../Page/2016년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink") **캐롤라이나 레일호크스**(Carolina Railhawks)에서 현재 팀명으로 바뀌었다.
 
 2018시즌부터 북미 사커 리그를 탈퇴하고 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 참가하게 되었다.
 
@@ -23,7 +23,7 @@
 <tr class="odd">
 <td><p><a href="../Page/웨이크메드_사커_파크.md" title="wikilink">웨이크메드 사커 파크</a></p></td>
 <td><p>2007년~현재</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노스캐롤라이나주" title="wikilink">노스캐롤라이나주</a> <a href="https://ko.wikipedia.org/wiki/캐리" title="wikilink">캐리</a></p></td>
+<td><p><a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="https://ko.wikipedia.org/wiki/캐리" title="wikilink">캐리</a></p></td>
 <td><p>노스캐롤라이나 FC</p></td>
 <td></td>
 </tr>

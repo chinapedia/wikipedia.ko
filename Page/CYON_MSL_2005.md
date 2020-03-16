@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CYON MSL 2005](https://ko.wikipedia.org/wiki/CYON_MSL_2005).
 
 
-**CYON MSL 2005**은 KPGA투어를 포함하면 11번째이자 7차 MSL로 16강 [더블 엘리미네이션 토너먼트로](https://ko.wikipedia.org/wiki/더블_엘리미네이션_토너먼트 "wikilink") 진행된 마지막 MSL이다.
+**CYON MSL 2005**은 KPGA투어를 포함하면 11번째이자 7차 MSL로 16강 [더블 엘리미네이션 토너먼트로](../Page/더블_엘리미네이션_토너먼트.md "wikilink") 진행된 마지막 MSL이다.
 
 ## 리그본문
 
-  - **리그기간** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [1월 14일](https://ko.wikipedia.org/wiki/1월_14일 "wikilink")
+  - **리그기간** : [2005년](../Page/2005년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink")
 
 <!-- end list -->
 
@@ -20,7 +20,7 @@
       - 'Fight a Real Duel'이라는 슬로건 도입
       - MSL 사상 최초로 스폰서 없이 조지명식 개최
       - 사상최초의 공인리그 저그 대 저그 결승
-      - 결승전 장소 : [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") [염주종합체육관](https://ko.wikipedia.org/wiki/염주종합체육관 "wikilink")
+      - 결승전 장소 : [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") [염주종합체육관](../Page/염주종합체육관.md "wikilink")
       - 조용호의 방송사 공식 개인리그의 처음이자 마지막 우승
       - 우승 [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink"), 준우승 마재윤, 3위 [최연성](../Page/최연성.md "wikilink"), 4위 [성학승](../Page/성학승.md "wikilink")
 

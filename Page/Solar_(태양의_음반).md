@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Solar \( \)](https://ko.wikipedia.org/wiki/Solar_\(_\)).
 
 
-***Solar***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹인 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [태양의](https://ko.wikipedia.org/wiki/태양_\(가수\) "wikilink") 첫 번째 정규 음반이다. 이 음반은 각각 두 가지 버전; [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 1일에는](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 앨범마다 고유번호가 새겨진 디럭스 에디션의 3만 장으로 한정된 리미티드 앨범과 [7월 9일에는](https://ko.wikipedia.org/wiki/7월_9일 "wikilink") 일반판으로 발매되었다. 타이틀 곡 "I Need A Girl"은 그룹의 멤버 [G-Dragon이](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") 작사와 피처링에 참여하였다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink"), 태양의 솔로 음반 *Solar*은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")의 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink") R\&B/Soul 앨범 차트에서 각각 2위와 1위를 기록했으며, 이는 [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink") 가수로서는 처음있는 일이다.\[1\] 이 음반에서 태양은 그의 가창력 뿐만 아니라, 자신의 작곡 향상에도 많은 노력을 하며 수록곡의 4곡에 공동 작곡("Solar (Intro)", "Where U At", "Wedding Dress", "Take It Slow")과 "Take It Slow"의 작사에 참여했다. [8월 25일에는](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") 인터내셔널 릴리즈 앨범이 발매되었는데, 태양에게는 첫 국제적인 앨범으로 CD 음반과 비디오 음반이 모두 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")에 전 세계적으로 발매 되는 것은 K-Pop 음악 최초의 일이다. 비디오 음반이 9월 10일에 도착하는 동안 CD 음반은 2010년 8월 19일 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink") 스토어에 판매 되었다.\[2\] CD 음반은 이전의 태양의 히트 곡들의 한국어 버전들과 "I'll Be There", "Connection"(Feat. BIG TONE), "Wedding Dress"와 "I Need a Girl"(Feat. G-Dragon)은 영어로 수록 되었다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink"), 발매 된 인터내셔널 릴리즈 앨범은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink") R\&B/Soul 앨범 차트에서 각각 5위를 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서는 3위를 기록했다.\[3\]
+***Solar***는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹인 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [태양의](../Page/태양_\(가수\).md "wikilink") 첫 번째 정규 음반이다. 이 음반은 각각 두 가지 버전; [2010년](../Page/2010년.md "wikilink") [7월 1일에는](../Page/7월_1일.md "wikilink") 앨범마다 고유번호가 새겨진 디럭스 에디션의 3만 장으로 한정된 리미티드 앨범과 [7월 9일에는](../Page/7월_9일.md "wikilink") 일반판으로 발매되었다. 타이틀 곡 "I Need A Girl"은 그룹의 멤버 [G-Dragon이](../Page/지드래곤.md "wikilink") 작사와 피처링에 참여하였다. [2010년](../Page/2010년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink"), 태양의 솔로 음반 *Solar*은 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")의 [아이튠즈](../Page/아이튠즈.md "wikilink") R\&B/Soul 앨범 차트에서 각각 2위와 1위를 기록했으며, 이는 [아시아](../Page/아시아.md "wikilink") 가수로서는 처음있는 일이다.\[1\] 이 음반에서 태양은 그의 가창력 뿐만 아니라, 자신의 작곡 향상에도 많은 노력을 하며 수록곡의 4곡에 공동 작곡("Solar (Intro)", "Where U At", "Wedding Dress", "Take It Slow")과 "Take It Slow"의 작사에 참여했다. [8월 25일에는](../Page/8월_25일.md "wikilink") 인터내셔널 릴리즈 앨범이 발매되었는데, 태양에게는 첫 국제적인 앨범으로 CD 음반과 비디오 음반이 모두 [아이튠즈](../Page/아이튠즈.md "wikilink")에 전 세계적으로 발매 되는 것은 K-Pop 음악 최초의 일이다. 비디오 음반이 9월 10일에 도착하는 동안 CD 음반은 2010년 8월 19일 [아이튠즈](../Page/아이튠즈.md "wikilink") 스토어에 판매 되었다.\[2\] CD 음반은 이전의 태양의 히트 곡들의 한국어 버전들과 "I'll Be There", "Connection"(Feat. BIG TONE), "Wedding Dress"와 "I Need a Girl"(Feat. G-Dragon)은 영어로 수록 되었다. [2010년](../Page/2010년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink"), 발매 된 인터내셔널 릴리즈 앨범은 [미국](../Page/미국.md "wikilink")과 [일본](../Page/일본.md "wikilink")의 [아이튠즈](../Page/아이튠즈.md "wikilink") R\&B/Soul 앨범 차트에서 각각 5위를 [캐나다](../Page/캐나다.md "wikilink")에서는 3위를 기록했다.\[3\]
 
 ## 싱글
 
@@ -23,12 +23,12 @@
 
 <!-- end list -->
 
-  - **I Need a Girl** (Feat. [G-Dragon](https://ko.wikipedia.org/wiki/지드래곤 "wikilink"))
+  - **I Need a Girl** (Feat. [G-Dragon](../Page/지드래곤.md "wikilink"))
 
 <!-- end list -->
 
   -
-    이 음반의 타이틀 곡으로 가온 디지털 음원 차트 1위를 기록했으며, 2010년 7월 1일 공개 된 뮤직 비디오에는 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 [박산다라](https://ko.wikipedia.org/wiki/박산다라 "wikilink")와 빅뱅의 멤버 [G-Dragon이](https://ko.wikipedia.org/wiki/지드래곤 "wikilink") 출연하였다.
+    이 음반의 타이틀 곡으로 가온 디지털 음원 차트 1위를 기록했으며, 2010년 7월 1일 공개 된 뮤직 비디오에는 [2NE1](../Page/2NE1.md "wikilink")의 [박산다라](../Page/박산다라.md "wikilink")와 빅뱅의 멤버 [G-Dragon이](../Page/지드래곤.md "wikilink") 출연하였다.
 
 <!-- end list -->
 
@@ -60,10 +60,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
+<td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>2010년 7월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/YG_엔터테인먼트" title="wikilink">YG 엔터테인먼트</a><br />
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></p></td>
+<td><p><a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a><br />
 <a href="https://ko.wikipedia.org/wiki/엠넷_미디어" title="wikilink">엠넷 미디어</a></p></td>
 </tr>
 <tr class="even">
@@ -74,15 +74,15 @@
 </tr>
 <tr class="odd">
 <td><p>2010년 8월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a><small>(인터내셔널 에디션)</small></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a><small>(인터내셔널 에디션)</small></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/타이완" title="wikilink">타이완</a></p></td>
+<td><p><a href="../Page/타이완.md" title="wikilink">타이완</a></p></td>
 <td><p>2013년 12월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a>, CD+DVD <small>(타이완 스페셜 에디션)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워너_뮤직_그룹" title="wikilink">워너 뮤직 타이완</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a>, CD+DVD <small>(타이완 스페셜 에디션)</small></p></td>
+<td><p><a href="../Page/워너_뮤직_그룹.md" title="wikilink">워너 뮤직 타이완</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -169,21 +169,21 @@
 
 ### 싱글 차트
 
-| 노래(곡)                                                   | 최고 차트 순위 | 디지털 다운로드  |
-| ------------------------------------------------------- | -------- | --------- |
-|                                                         |          |           |
-| <small>대한민국</small>                                     |          |           |
-| [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink") |          |           |
-| "I Need A Girl"\[6\]                                    | 1        | 2,110,274 |
-| "I'll Be There"                                         | 1\[7\]   | 1,144,411 |
-| "Superstar"\[8\]                                        | 5        | 824,127   |
-| "Just a Feeling"\[9\]                                   | 7        | 664,542   |
-| "You're My"\[10\]                                       | 8        | 450,103   |
-| "Break Down"\[11\]                                      | 10       | 410,155   |
-| "Move"\[12\]                                            | 12       | 311,220   |
-| "Take It Slow"\[13\]                                    | 13       | 221,344   |
-| "니가 잠든 후에"\[14\]                                        | 16       | 170,520   |
-|                                                         |          |           |
+| 노래(곡)                                | 최고 차트 순위 | 디지털 다운로드  |
+| ------------------------------------ | -------- | --------- |
+|                                      |          |           |
+| <small>대한민국</small>                  |          |           |
+| [가온 차트](../Page/가온_차트.md "wikilink") |          |           |
+| "I Need A Girl"\[6\]                 | 1        | 2,110,274 |
+| "I'll Be There"                      | 1\[7\]   | 1,144,411 |
+| "Superstar"\[8\]                     | 5        | 824,127   |
+| "Just a Feeling"\[9\]                | 7        | 664,542   |
+| "You're My"\[10\]                    | 8        | 450,103   |
+| "Break Down"\[11\]                   | 10       | 410,155   |
+| "Move"\[12\]                         | 12       | 311,220   |
+| "Take It Slow"\[13\]                 | 13       | 221,344   |
+| "니가 잠든 후에"\[14\]                     | 16       | 170,520   |
+|                                      |          |           |
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Beatmania IIDX 10th Style](https://ko.wikipedia.org/wiki/Beatmania_IIDX_10th_Style).
 
 
-**beatmania IIDX 10th Style**는 [리듬게임](https://ko.wikipedia.org/wiki/리듬게임 "wikilink") 중 하나인 [beatmania IIDX의](https://ko.wikipedia.org/wiki/beatmania_IIDX "wikilink") 10번째 작품으로 2004년 초에 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")를 통해 발매되었다.
+**beatmania IIDX 10th Style**는 [리듬게임](https://ko.wikipedia.org/wiki/리듬게임 "wikilink") 중 하나인 [beatmania IIDX의](https://ko.wikipedia.org/wiki/beatmania_IIDX "wikilink") 10번째 작품으로 2004년 초에 [코나미](../Page/코나미.md "wikilink")를 통해 발매되었다.
 
 ## 전작과의 차이점
 
@@ -126,6 +126,6 @@
 
 ## 가정용
 
-Beatmania IIDX 10th Style의 가정용 버전은 [플레이스테이션 2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 전용으로 2005년 11월 17일 발매되었다. [Happy Sky의](https://ko.wikipedia.org/wiki/Beatmania_IIDX_12_Happy_Sky "wikilink") 선행곡이 일부 수록되었다.
+Beatmania IIDX 10th Style의 가정용 버전은 [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink") 전용으로 2005년 11월 17일 발매되었다. [Happy Sky의](https://ko.wikipedia.org/wiki/Beatmania_IIDX_12_Happy_Sky "wikilink") 선행곡이 일부 수록되었다.
 
 [분류:2004년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2004년_비디오_게임 "wikilink") [분류:2005년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2005년_비디오_게임 "wikilink") [분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink") [분류:비트매니아 시리즈](https://ko.wikipedia.org/wiki/분류:비트매니아_시리즈 "wikilink") [분류:플레이스테이션 2 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_2_게임 "wikilink")

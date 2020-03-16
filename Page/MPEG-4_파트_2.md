@@ -17,8 +17,8 @@ MPEG-4 비주얼 에디션\[2\]
 
   - [코덱](../Page/코덱.md "wikilink")
   - [H.264](https://ko.wikipedia.org/wiki/H.264 "wikilink")
-  - [MPEG-2](https://ko.wikipedia.org/wiki/MPEG-2 "wikilink")
-  - [MPEG-4](https://ko.wikipedia.org/wiki/MPEG-4 "wikilink")
+  - [MPEG-2](../Page/MPEG-2.md "wikilink")
+  - [MPEG-4](../Page/MPEG-4.md "wikilink")
   - [Xvid](https://ko.wikipedia.org/wiki/Xvid "wikilink")
 
 ## 각주

@@ -41,7 +41,7 @@
   - 《도전\! 성공만들기》
   - 《[3일간의 사랑](../Page/3일간의_사랑.md "wikilink")》
   - 《[퀴즈쇼 무한대결](https://ko.wikipedia.org/wiki/퀴즈쇼_무한대결 "wikilink")》
-  - 《[리얼스토리 실제상황](https://ko.wikipedia.org/wiki/리얼스토리_실제상황 "wikilink")》
+  - 《[리얼스토리 실제상황](../Page/리얼스토리_실제상황.md "wikilink")》
   - 《[미스터리극장 위험한 초대](../Page/미스터리극장_위험한_초대.md "wikilink")》
   - 《르포 시대공감》
   - 《도전\! 나도 사장님》
@@ -98,12 +98,12 @@
   - 《iTV 토요시네마》
   - 《iTV 일요시네마》
   - 《[양양삼가](https://ko.wikipedia.org/wiki/양양삼가 "wikilink")》
-  - 《[황제의 딸](https://ko.wikipedia.org/wiki/황제의_딸 "wikilink") 시즌 1,2,3》
+  - 《[황제의 딸](../Page/황제의_딸.md "wikilink") 시즌 1,2,3》
   - 《노방유희》
   - 《협녀 틈천관》
   - 《新 판관 포청천》
   - 《회옥공주》
-  - 《[안개비연가](https://ko.wikipedia.org/wiki/안개비연가 "wikilink")》
+  - 《[안개비연가](../Page/안개비연가.md "wikilink")》
 
 |묶음9 = 과거 OBS
 <small>(2007.12.28 이후)</small> |내용9 =
@@ -125,18 +125,18 @@
   - 《즐거운 학교 <쑥쑥쏙쏙> 시즌4》
   - 《가요베스트 10》
   - 《2011 지금 평양에선》
-  - 《[Wave K](https://ko.wikipedia.org/wiki/Wave_K "wikilink")》
-  - 《[OBS 인사이드](https://ko.wikipedia.org/wiki/시사_인사이드 "wikilink")》
-  - 《[생방송 5BS](https://ko.wikipedia.org/wiki/생방송_OBS "wikilink")》
-  - 《[생방송 OBS](https://ko.wikipedia.org/wiki/생방송_OBS "wikilink")》
+  - 《[Wave K](../Page/Wave_K.md "wikilink")》
+  - 《[OBS 인사이드](../Page/시사_인사이드.md "wikilink")》
+  - 《[생방송 5BS](../Page/생방송_OBS.md "wikilink")》
+  - 《[생방송 OBS](../Page/생방송_OBS.md "wikilink")》
   - 《[OBS 뉴스 940](../Page/OBS_뉴스_945.md "wikilink")》
   - 《[OBS 뉴스 945](../Page/OBS_뉴스_945.md "wikilink")》
-  - 《[OBS 뉴스 1200](https://ko.wikipedia.org/wiki/OBS_경인투데이 "wikilink")》
-  - 《[OBS 뉴스 1300](https://ko.wikipedia.org/wiki/OBS_경인투데이 "wikilink")》
-  - 《[OBS 뉴스 800](https://ko.wikipedia.org/wiki/OBS_뉴스중심 "wikilink")》
-  - 《[OBS 뉴스 755](https://ko.wikipedia.org/wiki/OBS_뉴스중심 "wikilink")》
-  - 《[OBS 뉴스 M](https://ko.wikipedia.org/wiki/OBS_뉴스중심 "wikilink")》
-  - 《[OBS 뉴스 745](https://ko.wikipedia.org/wiki/OBS_뉴스중심 "wikilink")》
+  - 《[OBS 뉴스 1200](../Page/OBS_경인투데이.md "wikilink")》
+  - 《[OBS 뉴스 1300](../Page/OBS_경인투데이.md "wikilink")》
+  - 《[OBS 뉴스 800](../Page/OBS_뉴스중심.md "wikilink")》
+  - 《[OBS 뉴스 755](../Page/OBS_뉴스중심.md "wikilink")》
+  - 《[OBS 뉴스 M](../Page/OBS_뉴스중심.md "wikilink")》
+  - 《[OBS 뉴스 745](../Page/OBS_뉴스중심.md "wikilink")》
   - 《[OBS 뉴스퀴즈쇼](https://ko.wikipedia.org/wiki/OBS_뉴스퀴즈쇼 "wikilink")》
   - 《[OBS 뉴스 (1600)](../Page/OBS_뉴스_오늘.md "wikilink")》
   - 《[OBS 경인브리핑](../Page/OBS_뉴스_오늘.md "wikilink")》
@@ -157,8 +157,8 @@
   - 《OBS 스테이지》
   - 《[경인 Zoom 인](https://ko.wikipedia.org/wiki/경인_Zoom_인 "wikilink")》¹
   - 《도전 기업인스타》
-  - 《[고교토론 판](https://ko.wikipedia.org/wiki/고교토론_판 "wikilink")》
-  - 《[고교토론 판 2](https://ko.wikipedia.org/wiki/고교토론_판 "wikilink")》
+  - 《[고교토론 판](../Page/고교토론_판.md "wikilink")》
+  - 《[고교토론 판 2](../Page/고교토론_판.md "wikilink")》
   - 《[생방송 투유](https://ko.wikipedia.org/wiki/생방송_투유 "wikilink")》
   - 《[엄마의 부엌](../Page/엄마의_부엌.md "wikilink")》
   - 《[유럽의 하늘여행](https://ko.wikipedia.org/wiki/유럽의_하늘여행 "wikilink")》
@@ -194,7 +194,7 @@
   - 《프리미어 스포츠피싱》
   - 《베스트 가요쇼》
   - 《북세통》
-  - 《[OBS MLB (2009\~2011)](https://ko.wikipedia.org/wiki/메이저_리그_베이스볼 "wikilink")》
+  - 《[OBS MLB (2009\~2011)](../Page/메이저_리그_베이스볼.md "wikilink")》
   - 《건강 버라이어티 락》
   - 《건강 버라이어티 올리브》
   - 《TV 주치의》
@@ -209,7 +209,7 @@
   - 《[조성대의 정답](../Page/조성대의_정답.md "wikilink")》
   - 《[OBS 파워인터뷰](../Page/OBS_파워인터뷰.md "wikilink")》
   - 《장윤정의 장스타쇼》
-  - 《OBS 애니월드》<small>(《[뽀롱뽀롱 뽀로로](https://ko.wikipedia.org/wiki/뽀롱뽀롱_뽀로로 "wikilink")》)</small>¹
+  - 《OBS 애니월드》<small>(《[뽀롱뽀롱 뽀로로](../Page/뽀롱뽀롱_뽀로로.md "wikilink")》)</small>¹
   - 《[예술의 전당 동요콘서트](https://ko.wikipedia.org/wiki/예술의_전당 "wikilink")》²
   - 《[위인극장](https://ko.wikipedia.org/wiki/위인극장 "wikilink")》
   - 《[경기도\! 정책을 말하다](https://ko.wikipedia.org/wiki/경기도!_정책을_말하다 "wikilink")》¹
@@ -218,12 +218,12 @@
 
 |아랫글속성 = hlist |아랫글 =
 
-  - [KBS1](https://ko.wikipedia.org/wiki/틀:KBS_1TV "wikilink")
+  - [KBS1](../Page/틀:KBS_1TV.md "wikilink")
   - [KBS2](../Page/틀:KBS_2TV.md "wikilink")
-  - [EBS1](https://ko.wikipedia.org/wiki/틀:EBS_1TV "wikilink")
+  - [EBS1](../Page/틀:EBS_1TV.md "wikilink")
   - [EBS2](../Page/틀:EBS_2TV.md "wikilink")
   - [MBC](../Page/틀:MBC_TV.md "wikilink")
-  - [경인방송TV](https://ko.wikipedia.org/wiki/틀:경인TV "wikilink")
+  - [경인방송TV](../Page/틀:경인TV.md "wikilink")
   - [SBS](../Page/틀:SBS_TV.md "wikilink")
 
 ¹ 구매 프로그램. ² 매년에 한번씩 방송되는 프로그램. }}<noinclude>

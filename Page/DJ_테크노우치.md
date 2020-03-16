@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
 
 
-**DJ 테크노우치**(DJ TECHNORCH, )는 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink") 주식회사의 리듬게임 시리즈 등지에서 활동하는 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink")이자 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")이다.
+**DJ 테크노우치**(DJ TECHNORCH, )는 [코나미](../Page/코나미.md "wikilink") 주식회사의 리듬게임 시리즈 등지에서 활동하는 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink")이자 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")이다.
 
 [레이브](https://ko.wikipedia.org/wiki/레이브_\(음악\) "wikilink") 음악을 좋아하며 [하드 코어 테크노](https://ko.wikipedia.org/wiki/하드_코어_테크노 "wikilink") 장르 중 하나인 [올드 스쿨과](https://ko.wikipedia.org/wiki/올드_스쿨 "wikilink") [프리폼](https://ko.wikipedia.org/wiki/프리폼 "wikilink"), [슈란츠](https://ko.wikipedia.org/wiki/슈란츠 "wikilink")와 [개버](https://ko.wikipedia.org/wiki/개버 "wikilink")를 합성한 음악들을 주로 작곡한다. 예전에는 [트랜스 코어](https://ko.wikipedia.org/wiki/트랜스_코어 "wikilink") 음악을 작곡하기도 했다.
 
@@ -15,7 +15,7 @@
 
 [L.E.D.](https://ko.wikipedia.org/wiki/L.E.D. "wikilink")가 끌어들인 인물로, 그의 곡 [HELL SCAPER로](https://ko.wikipedia.org/wiki/HELL_SCAPER "wikilink") 인해 음악을 시작하게 되었다고 한다. 언더그라운드계에서 시작한 동인 출신의 작곡가로, BEMANI 시리즈에 참가하기 전에는 [BMS](https://ko.wikipedia.org/wiki/BMS "wikilink")쪽에서 AXS, Gothic System 등으로 자신의 역량을 시험해 본 적이 있으며, BEMANI 시리즈에 참가하게 된 것은 L.E.D.의 앨범 電人 K에서 HELL SCAPER의 리믹스를 담당했기 때문이라고 언급하기도 했다.
 
-2003년에 작곡과 DJ 활동을 시작하였고 당시에는 [하우스](https://ko.wikipedia.org/wiki/하우스\(음악\) "wikilink") DJ로 활동하였다. 같은 해에 GOTHIC SYSTEM을 [HARDCORE TANO\*C에](https://ko.wikipedia.org/wiki/HARDCORE_TANO*C "wikilink") 제공하게 된 계기로 [하드코어 테크노](../Page/하드코어_테크노.md "wikilink") 음악을 시작하였으며, 2005년에는 그의 곡 BOSS ON PARADE가 해외에서 좋은 평가를 받게되어 2006년에 미국의 [브레이크코어](https://ko.wikipedia.org/wiki/하드코어_테크노#s-3.5 "wikilink") 레이블 'COCK ROCK DISCO'에서 'MADDEST CHIK'NDOM \# 1' 발표와 함께 합류 하였고, 일본의 'MURDER CHANNEL RECORDS'에도 합류하였다.
+2003년에 작곡과 DJ 활동을 시작하였고 당시에는 [하우스](https://ko.wikipedia.org/wiki/하우스\(음악\) "wikilink") DJ로 활동하였다. 같은 해에 GOTHIC SYSTEM을 [HARDCORE TANO\*C에](../Page/HARDCORE_TANO*C.md "wikilink") 제공하게 된 계기로 [하드코어 테크노](../Page/하드코어_테크노.md "wikilink") 음악을 시작하였으며, 2005년에는 그의 곡 BOSS ON PARADE가 해외에서 좋은 평가를 받게되어 2006년에 미국의 [브레이크코어](https://ko.wikipedia.org/wiki/하드코어_테크노#s-3.5 "wikilink") 레이블 'COCK ROCK DISCO'에서 'MADDEST CHIK'NDOM \# 1' 발표와 함께 합류 하였고, 일본의 'MURDER CHANNEL RECORDS'에도 합류하였다.
 
 하지만 2007년 [beatmania IIDX 14 GOLD에](https://ko.wikipedia.org/wiki/beatmania_IIDX_14_GOLD "wikilink") 곡 투고와 개인 레이블을 HARDCORE TECHNIQUE에서 999 Recordings으로 바꾼 이후 제2형 [양극성장애](https://ko.wikipedia.org/wiki/양극성장애 "wikilink") 판정을 받고 가족들의 도움이 없으면 외출이 힘든 상황에서 2008년, [댄스 댄스 레볼루션](../Page/댄스_댄스_레볼루션.md "wikilink") UNIVERSE 3에 [888](https://ko.wikipedia.org/wiki/888 "wikilink") 제공을 마지막으로 정신병원에서 2년간 치료를 받게 되었고, 이 기간 동안의 모든 음악 활동은 전면 중지하였다. 이후 2010년 一回性二階席 ～Straight～을 통해 활동 복귀를 알리며 지금의 999 Recordings에서 'DJ TECHNORCH'라는 싱글 유닛과 보컬에 宇宙☆海月, 드럼에 yaddy와 함께 밴드 '九十九音夢'을 결성하였다.
 
@@ -27,11 +27,11 @@
 
 ## 그 외
 
-앨범 커버들이 대부분 그로테스크하고 [고어](https://ko.wikipedia.org/wiki/고어 "wikilink")스럽고 굉장히 특이한 것이 특징이다.\[1\] 또한 [불교](https://ko.wikipedia.org/wiki/불교 "wikilink")의 요소를 간혹 넣기도 한다. 대표적으로 Japanese Hardcore라는 곡에서 [반야심경](https://ko.wikipedia.org/wiki/반야심경 "wikilink") 염불하는 소리를 샘플링으로 썼으며, beatmania IIDX 20 tricoro에 제공한 곡 [Sol Cosine Job 2도](https://ko.wikipedia.org/wiki/Sol_Cosine_Job_2 "wikilink") 표기를 영어식으로 꼬아놔서 그렇지 작곡자가 트위터에 밝힌 곡을 읽는 법 역시 불교적인 의미에 가깝다. [X↑X↓](https://ko.wikipedia.org/wiki/X↑X↓ "wikilink") 역시 불교 용어로 읽는다.
+앨범 커버들이 대부분 그로테스크하고 [고어](https://ko.wikipedia.org/wiki/고어 "wikilink")스럽고 굉장히 특이한 것이 특징이다.\[1\] 또한 [불교](../Page/불교.md "wikilink")의 요소를 간혹 넣기도 한다. 대표적으로 Japanese Hardcore라는 곡에서 [반야심경](../Page/반야심경.md "wikilink") 염불하는 소리를 샘플링으로 썼으며, beatmania IIDX 20 tricoro에 제공한 곡 [Sol Cosine Job 2도](https://ko.wikipedia.org/wiki/Sol_Cosine_Job_2 "wikilink") 표기를 영어식으로 꼬아놔서 그렇지 작곡자가 트위터에 밝힌 곡을 읽는 법 역시 불교적인 의미에 가깝다. [X↑X↓](https://ko.wikipedia.org/wiki/X↑X↓ "wikilink") 역시 불교 용어로 읽는다.
 
 ## [BEMANI 시리즈에](https://ko.wikipedia.org/wiki/BEMANI_시리즈 "wikilink") 제공한 곡들
 
-### [비트매니아 IIDX](https://ko.wikipedia.org/wiki/비트매니아_IIDX "wikilink")
+### [비트매니아 IIDX](../Page/비트매니아_IIDX.md "wikilink")
 
 `* 14 GOLD`
 ` * FREEFORM HARDCORE / `[`KAMAITACHI`](https://ko.wikipedia.org/wiki/KAMAITACHI "wikilink")
@@ -92,12 +92,12 @@
 `6번째 싱글로, `[`Y&Co.`](https://ko.wikipedia.org/wiki/Y&Co. "wikilink")의` `[`Remo-con`](https://ko.wikipedia.org/wiki/Remo-con "wikilink")과의` 합작품.`
 `* I WANNA BE A HAPPY (2012)`
 `* 変身 第一形態 〜The Metamorphosis 1st Form〜 (2012)`
-`일본 `[`하드코어``   ``테크노`](../Page/하드코어_테크노.md "wikilink")` 레이블 MURDER CHANNEL RECORDS를 통해 발매된 7번째 싱글로, C83을 통해 판매했다. 참여진은 `[`네덜란드`](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의` Sinister Soul과 FFF, `[`영국`](https://ko.wikipedia.org/wiki/영국 "wikilink")의` GORE TECH, `[`라트비아`](https://ko.wikipedia.org/wiki/라트비아 "wikilink")의` Oyaarss 등.`
+`일본 `[`하드코어``   ``테크노`](../Page/하드코어_테크노.md "wikilink")` 레이블 MURDER CHANNEL RECORDS를 통해 발매된 7번째 싱글로, C83을 통해 판매했다. 참여진은 `[`네덜란드`](../Page/네덜란드.md "wikilink")의` Sinister Soul과 FFF, `[`영국`](../Page/영국.md "wikilink")의` GORE TECH, `[`라트비아`](../Page/라트비아.md "wikilink")의` Oyaarss 등.`
 `* Mind of Mind (2012)`
 `* MURDER CHANNEL MIX CD Vol.1`
 `* 圧倒的多幸感 My Gabber is Your Gabba is Your Gabber is Mine (2012)`
 `* 変身 第二形態 〜The Metamorphosis 2nd Form〜 (2013)`
-[`개버`](https://ko.wikipedia.org/wiki/개버 "wikilink")`, `[`드럼``   ``앤``   ``베이스`](https://ko.wikipedia.org/wiki/드럼_앤_베이스 "wikilink")`, 브레이크코어 위주로 구성되어 있다. `[`러시아`](../Page/러시아.md "wikilink")` 출신의 D&B 뮤지션 Gancher & Ruin과 브레이크코어 뮤지션 Raxyor가 해외 게스트로 참여.`
+[`개버`](https://ko.wikipedia.org/wiki/개버 "wikilink")`, `[`드럼``   ``앤``   ``베이스`](../Page/드럼_앤_베이스.md "wikilink")`, 브레이크코어 위주로 구성되어 있다. `[`러시아`](../Page/러시아.md "wikilink")` 출신의 D&B 뮤지션 Gancher & Ruin과 브레이크코어 뮤지션 Raxyor가 해외 게스트로 참여.`
 `* 変身 最終形態 〜The Metamorphosis Final Form〜 (2013)`
 `이번에도 해외 브레이크코어 뮤지션들이 게스트로 참여했다. Stazma The Junglist, Dr.Bastardo의 참여가 주목할 부분.`
 `* THE BEST OF DJ TECHNORCH 2003-2013 (2013)`

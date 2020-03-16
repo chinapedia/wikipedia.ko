@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NSB 70](https://ko.wikipedia.org/wiki/NSB_70).
 
 
-**NSB 70**은 [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink")에서 중거리 열차에 사용하는 4량 편성 전동차이다.
+**NSB 70**은 [노르웨이](../Page/노르웨이.md "wikilink")에서 중거리 열차에 사용하는 4량 편성 전동차이다.
 
 ## 역사
 

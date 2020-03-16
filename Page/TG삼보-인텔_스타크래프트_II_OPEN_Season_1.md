@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [TG-  II OPEN Season 1](https://ko.wikipedia.org/wiki/TG-__II_OPEN_Season_1).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:P100904006.jpg "wikilink") [88체육관](https://ko.wikipedia.org/wiki/88체육관 "wikilink")에서 이뤄진 TG삼보-인텔 STARCRAFT II OPEN Season 1 개막전\]\] **TG삼보-인텔 스타크래프트 II OPEN Season 1**은 세계 최초의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 대회인 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 첫 번째 리그이며 2011 GSL의 Code S 32명과 Code A 64명을 결정하기 위한 2010년의 3개 대회 중 첫 번째 대회로 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 4일에](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") 개막하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:P100904006.jpg "wikilink") [88체육관](https://ko.wikipedia.org/wiki/88체육관 "wikilink")에서 이뤄진 TG삼보-인텔 STARCRAFT II OPEN Season 1 개막전\]\] **TG삼보-인텔 스타크래프트 II OPEN Season 1**은 세계 최초의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 대회인 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 첫 번째 리그이며 2011 GSL의 Code S 32명과 Code A 64명을 결정하기 위한 2010년의 3개 대회 중 첫 번째 대회로 [2010년](../Page/2010년.md "wikilink") [9월 4일에](../Page/9월_4일.md "wikilink") 개막하였다.
 
 ## 리그 일정
 
-  - 참가 접수 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") \~ [8월 22일](https://ko.wikipedia.org/wiki/8월_22일 "wikilink")
-  - 오프라인 예선: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink"), [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink")
-  - 64강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") \~ [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink")
-  - 32강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 15일](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") \~ [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink")
-  - 16강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink"), [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink")
-  - 8강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink")
-  - 4강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink"), [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink")
-  - 결승 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink")
+  - 참가 접수 : [2010년](../Page/2010년.md "wikilink") [8월 10일](../Page/8월_10일.md "wikilink") \~ [8월 22일](../Page/8월_22일.md "wikilink")
+  - 오프라인 예선: [2010년](../Page/2010년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink"), [8월 29일](../Page/8월_29일.md "wikilink")
+  - 64강 : [2010년](../Page/2010년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") \~ [9월 14일](../Page/9월_14일.md "wikilink")
+  - 32강 : [2010년](../Page/2010년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") \~ [9월 20일](../Page/9월_20일.md "wikilink")
+  - 16강 : [2010년](../Page/2010년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink"), [9월 27일](../Page/9월_27일.md "wikilink")
+  - 8강 : [2010년](../Page/2010년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink")
+  - 4강 : [2010년](../Page/2010년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink"), [9월 30일](../Page/9월_30일.md "wikilink")
+  - 결승 : [2010년](../Page/2010년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink")
 
 ## 리그 방식
 
@@ -52,7 +52,7 @@
   - 한국어
       - 1 캐스터, 2 해설 체재로 진행
       - 캐스터 : [이현주](../Page/이현주_\(방송인\).md "wikilink")
-      - 해설 : [채정원](https://ko.wikipedia.org/wiki/채정원 "wikilink"), [안준영](https://ko.wikipedia.org/wiki/안준영_\(해설가\) "wikilink"), [이주영](../Page/이주영_\(프로게이머\).md "wikilink"), [박대만](../Page/박대만.md "wikilink")
+      - 해설 : [채정원](../Page/채정원.md "wikilink"), [안준영](https://ko.wikipedia.org/wiki/안준영_\(해설가\) "wikilink"), [이주영](../Page/이주영_\(프로게이머\).md "wikilink"), [박대만](../Page/박대만.md "wikilink")
   - 영어
       - 1 캐스터, 1 해설 체재로 진행
       - 캐스터 : [Nicholas Plott](https://ko.wikipedia.org/wiki/Nicholas_Plott "wikilink")
@@ -61,7 +61,7 @@
 ## 경기장
 
   - 오프라인 예선 : 신도림 테크노마트 인텔 e스타디움
-  - 본선 : [서울영상고등학교](https://ko.wikipedia.org/wiki/서울영상고등학교 "wikilink") 강당 곰TV 스튜디오
+  - 본선 : [서울영상고등학교](../Page/서울영상고등학교.md "wikilink") 강당 곰TV 스튜디오
   - 결승: 서울 [장충체육관](../Page/장충체육관.md "wikilink")
 
 ## 리그 BGM
@@ -200,14 +200,14 @@
 |                                                               |                |        |
 | :-----------------------------------------------------------: | :------------: | :----: |
 |                            **이름**                             |     **ID**     | **종족** |
-|      [곽한얼](https://ko.wikipedia.org/wiki/곽한얼 "wikilink")      |   MakaPrime    |   테란   |
+|               [곽한얼](../Page/곽한얼.md "wikilink")                |   MakaPrime    |   테란   |
 |      [김상철](https://ko.wikipedia.org/wiki/김상철 "wikilink")      |   oGsEnsnare   |   테란   |
 |          [김성제](../Page/김성제_\(프로게이머\).md "wikilink")           |  HopeTorture   |   테란   |
 |          [김원기](../Page/김원기_\(프로게이머\).md "wikilink")           |      과일장수      |   저그   |
 | [김태환](https://ko.wikipedia.org/wiki/김태환_\(프로게이머\) "wikilink") | NEXLiveForever |   테란   |
 |               [서기수](../Page/서기수.md "wikilink")                |      sSKS      |  프로토스  |
-|      [송준혁](https://ko.wikipedia.org/wiki/송준혁 "wikilink")      |    oGsInCa     |  프로토스  |
-|      [안홍욱](https://ko.wikipedia.org/wiki/안홍욱 "wikilink")      |  HongUnPrime   |  프로토스  |
+|               [송준혁](../Page/송준혁.md "wikilink")                |    oGsInCa     |  프로토스  |
+|               [안홍욱](../Page/안홍욱.md "wikilink")                |  HongUnPrime   |  프로토스  |
 |                                                               |                |        |
 
 ## 각주

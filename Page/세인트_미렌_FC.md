@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**세인트 미렌 FC**(Saint Mirren Football Club), 약칭 **세인트 미렌**(St. Mirren)은 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink") [페이즐리](https://ko.wikipedia.org/wiki/페이즐리 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, [1877년](https://ko.wikipedia.org/wiki/1877년 "wikilink")에 창단했다. 이 클럽은 2017–18 [챔피언십](https://ko.wikipedia.org/wiki/스코티시_챔피언십 "wikilink") 시즌에서 우승을 차지하면서 [스코틀랜드 프리미어십로](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어십 "wikilink") 승격되었다.
+**세인트 미렌 FC**(Saint Mirren Football Club), 약칭 **세인트 미렌**(St. Mirren)은 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [페이즐리](../Page/페이즐리.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, [1877년](../Page/1877년.md "wikilink")에 창단했다. 이 클럽은 2017–18 [챔피언십](https://ko.wikipedia.org/wiki/스코티시_챔피언십 "wikilink") 시즌에서 우승을 차지하면서 [스코틀랜드 프리미어십로](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어십 "wikilink") 승격되었다.
 
 ## 역대 성적
 
@@ -10,7 +10,7 @@
   -
 ## 유명 감독
 
-  - [알렉스 퍼거슨](https://ko.wikipedia.org/wiki/알렉스_퍼거슨 "wikilink")
+  - [알렉스 퍼거슨](../Page/알렉스_퍼거슨.md "wikilink")
 
 ## 외부 링크
 

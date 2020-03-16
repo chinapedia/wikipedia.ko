@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
 
 
-**KBS경인방송센터**(韓國放送公社 京仁放送-)는 [한국방송공사](../Page/한국방송공사.md "wikilink") 정책기획본부 지역정책실 산하 조직으로 구성된 지역방송국으로 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")와 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역 방송권을 별개로 분리하여, 경인지역 로컬 뉴스를 중점적으로 제작하고 있다. KBS수원드라마제작센터 내에 위치하고 있는 이 방송국은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 24일에](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") 방송통신위원회(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))로부터 허가를 취득하였으며, 그 해 [9월 13일에](https://ko.wikipedia.org/wiki/9월_13일 "wikilink") 개국하였다\[1\]\[2\].
+**KBS경인방송센터**(韓國放送公社 京仁放送-)는 [한국방송공사](../Page/한국방송공사.md "wikilink") 정책기획본부 지역정책실 산하 조직으로 구성된 지역방송국으로 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")와 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역 방송권을 별개로 분리하여, 경인지역 로컬 뉴스를 중점적으로 제작하고 있다. KBS수원드라마제작센터 내에 위치하고 있는 이 방송국은 [2010년](../Page/2010년.md "wikilink") [8월 24일에](../Page/8월_24일.md "wikilink") 방송통신위원회(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))로부터 허가를 취득하였으며, 그 해 [9월 13일에](../Page/9월_13일.md "wikilink") 개국하였다\[1\]\[2\].
 
 ## 조직
 
@@ -13,10 +13,10 @@
 
 ## 연혁
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") : 방송국 허가
-  - 2010년 [9월 13일](https://ko.wikipedia.org/wiki/9월_13일 "wikilink") : KBS경인방송센터 개국
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : 오전 4시 마지막 수도권 지역에서 지상파 아날로그 TV 방송 종료
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") : 아침 시간대 로컬 뉴스 자체 방송 개시([KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink"), [KBS 930 뉴스](../Page/KBS_930_뉴스.md "wikilink"))
+  - [2010년](../Page/2010년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") : 방송국 허가
+  - 2010년 [9월 13일](../Page/9월_13일.md "wikilink") : KBS경인방송센터 개국
+  - [2012년](../Page/2012년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : 오전 4시 마지막 수도권 지역에서 지상파 아날로그 TV 방송 종료
+  - [2013년](../Page/2013년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") : 아침 시간대 로컬 뉴스 자체 방송 개시([KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink"), [KBS 930 뉴스](../Page/KBS_930_뉴스.md "wikilink"))
 
 ## 논란
 
@@ -26,11 +26,11 @@
 
 ### 광교산중계소 디지털TV 전파 혼선 문제
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")경에 [남산송신소의](https://ko.wikipedia.org/wiki/N서울타워 "wikilink") 전파를 수신하던 수원의 한 시청자가 갑자기 [EBS](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")(물리채널 64)와 [SBS](https://ko.wikipedia.org/wiki/SBS_TV "wikilink")(물리채널 68)가 수신되던 채널에서 KBS경인 1TV(물리채널 64)와 KBS 2TV(물리채널 68)가 대신 수신되고 있어 해당 방송을 제대로 시청 할 수 없게되었다는 제보가 올라왔다. 이후 KBS 측에서 광교산중계소에서 해당 채널로 디지털TV 방송을 송출하고 있어 일부 지역에서 남산송신소의 전파에 장애를 일으키고 있다는 사실이 밝혀져 논란을 일으켰다\[5\]\[6\]\[7\].
+[2011년](../Page/2011년.md "wikilink") [2월](../Page/2월.md "wikilink")경에 [남산송신소의](../Page/N서울타워.md "wikilink") 전파를 수신하던 수원의 한 시청자가 갑자기 [EBS](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")(물리채널 64)와 [SBS](../Page/SBS_TV.md "wikilink")(물리채널 68)가 수신되던 채널에서 KBS경인 1TV(물리채널 64)와 KBS 2TV(물리채널 68)가 대신 수신되고 있어 해당 방송을 제대로 시청 할 수 없게되었다는 제보가 올라왔다. 이후 KBS 측에서 광교산중계소에서 해당 채널로 디지털TV 방송을 송출하고 있어 일부 지역에서 남산송신소의 전파에 장애를 일으키고 있다는 사실이 밝혀져 논란을 일으켰다\[5\]\[6\]\[7\].
 
 #### 해결 방안
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 [방송통신위원회](../Page/대한민국_방송통신위원회.md "wikilink")(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))와 각 방송사들이 논의한 결과, KBS의 디지털 TV 채널을 변경하는 대신 SBS와 EBS 디지털 TV방송 중계시설을 신설하여 임시채널로 송출하는 것으로 결론이 났다. 우선 임시로 채널을 배정한 뒤, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 30일까지](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") 모든 채널을 확정된 채널로 변경하면서 남산송신소와의 혼신 문제도 사라졌으며, 해당지역 난시청도 해소되었다.\[8\]
+[2011년](../Page/2011년.md "wikilink") [4월](../Page/4월.md "wikilink")에 [방송통신위원회](../Page/대한민국_방송통신위원회.md "wikilink")(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))와 각 방송사들이 논의한 결과, KBS의 디지털 TV 채널을 변경하는 대신 SBS와 EBS 디지털 TV방송 중계시설을 신설하여 임시채널로 송출하는 것으로 결론이 났다. 우선 임시로 채널을 배정한 뒤, [2013년](../Page/2013년.md "wikilink") [10월 30일까지](../Page/10월_30일.md "wikilink") 모든 채널을 확정된 채널로 변경하면서 남산송신소와의 혼신 문제도 사라졌으며, 해당지역 난시청도 해소되었다.\[8\]
 
 ## 방송 송출 시설망
 
@@ -177,7 +177,7 @@
 
 | 프로그램명                                                                  | 방송시간   | 편성시간                | 진행  |
 | ---------------------------------------------------------------------- | ------ | ------------------- | --- |
-| [KBS 뉴스광장 경인](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink")       | 평일 10분 | 오전 7시 35분 \~ 7시 45분 | 조은민 |
+| [KBS 뉴스광장 경인](../Page/KBS_뉴스광장.md "wikilink")                          | 평일 10분 | 오전 7시 35분 \~ 7시 45분 | 조은민 |
 | [KBS 930 뉴스 경인](../Page/KBS_930_뉴스.md "wikilink")                      | 평일 10분 | 오전 9시 50분 \~ 10시    |     |
 | [KBS 뉴스 7 경인](https://ko.wikipedia.org/wiki/KBS_뉴스_7_경기·인천 "wikilink") | 평일 5분  | 저녁 7시 30분 \~ 7시 35분 | 강승희 |
 | [KBS 뉴스 9 경인](https://ko.wikipedia.org/wiki/KBS_뉴스_9_경기·인천 "wikilink") | 평일 10분 | 밤 9시 40분 \~ 9시 50분  |     |
@@ -191,11 +191,11 @@
 
 #### 전직
 
-  - [장민정](https://ko.wikipedia.org/wiki/장민정 "wikilink") ([2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")) : 현 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink") 아나운서
-  - [강려원](https://ko.wikipedia.org/wiki/강려원 "wikilink") : 현 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink") 아나운서
-  - [김솔희](https://ko.wikipedia.org/wiki/김솔희 "wikilink") : 현 [KBS 서울본국](../Page/한국방송공사.md "wikilink")
-  - [조정연](https://ko.wikipedia.org/wiki/조정연 "wikilink") : 전직 [연합뉴스TV](https://ko.wikipedia.org/wiki/연합뉴스TV "wikilink") 아나운서
-  - [서수진](https://ko.wikipedia.org/wiki/서수진 "wikilink") : 전직 [전주MBC](https://ko.wikipedia.org/wiki/전주MBC "wikilink"), [MBC경남](https://ko.wikipedia.org/wiki/MBC경남 "wikilink"), [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink") 아나운서
+  - [장민정](https://ko.wikipedia.org/wiki/장민정 "wikilink") ([2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [7월](../Page/7월.md "wikilink")) : 현 [YTN](../Page/YTN.md "wikilink") 아나운서
+  - [강려원](https://ko.wikipedia.org/wiki/강려원 "wikilink") : 현 [YTN](../Page/YTN.md "wikilink") 아나운서
+  - [김솔희](../Page/김솔희.md "wikilink") : 현 [KBS 서울본국](../Page/한국방송공사.md "wikilink")
+  - [조정연](https://ko.wikipedia.org/wiki/조정연 "wikilink") : 전직 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink") 아나운서
+  - [서수진](https://ko.wikipedia.org/wiki/서수진 "wikilink") : 전직 [전주MBC](https://ko.wikipedia.org/wiki/전주MBC "wikilink"), [MBC경남](../Page/MBC경남.md "wikilink"), [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink") 아나운서
 
 ## 현직 기자
 

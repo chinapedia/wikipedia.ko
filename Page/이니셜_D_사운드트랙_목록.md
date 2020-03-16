@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ D  ](https://ko.wikipedia.org/wiki/_D__).
 
 
-이 문서는 [이니셜 D](../Page/이니셜_D.md "wikilink") 애니메이션판에 삽입된 [유로비트](https://ko.wikipedia.org/wiki/유로비트 "wikilink") 음악들을 수록한 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")들에 대한 정보를 담았다.
+이 문서는 [이니셜 D](../Page/이니셜_D.md "wikilink") 애니메이션판에 삽입된 [유로비트](../Page/유로비트.md "wikilink") 음악들을 수록한 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")들에 대한 정보를 담았다.
 
 수록곡은 이니셜D 배틀 스테이지를 제외해 모두 Extended 버전으로 되어있지만 어느 곡에서는 한소절이 안나오는 등 원본과는 차이가 있다.
 
@@ -71,7 +71,7 @@ INITIAL D Fifth Stage D SELECTION 1 (발매일：2013년 2월 8일) INITIAL D Fi
 
 ## 같이 보기
 
-  - [유로비트](https://ko.wikipedia.org/wiki/유로비트 "wikilink")
+  - [유로비트](../Page/유로비트.md "wikilink")
   - [이니셜 D](../Page/이니셜_D.md "wikilink")
 
 [분류:유로비트](https://ko.wikipedia.org/wiki/분류:유로비트 "wikilink") [분류:이니셜 D](https://ko.wikipedia.org/wiki/분류:이니셜_D "wikilink")

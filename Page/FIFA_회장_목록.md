@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
 
 
-다음은 [국제 축구 연맹](https://ko.wikipedia.org/wiki/국제_축구_연맹 "wikilink")([FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink"))의 역대 회장 목록이다.
+다음은 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")([FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink"))의 역대 회장 목록이다.
 
 <table>
 <thead>
@@ -34,7 +34,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쥘_리메" title="wikilink">쥘 리메</a></p></td>
+<td><p><a href="../Page/쥘_리메.md" title="wikilink">쥘 리메</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Jules_Rimet_1933.jpg" title="wikilink">70px</a></p></td>
 <td></td>
 <td><p>1921–1954<sup>*</sup></p></td>
@@ -42,7 +42,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로돌프_실드레이어스" title="wikilink">로돌프 실드레이어스</a></p></td>
+<td><p><a href="../Page/로돌프_실드레이어스.md" title="wikilink">로돌프 실드레이어스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Rodolphe_Seeldrayers.jpg" title="wikilink">70px</a></p></td>
 <td></td>
 <td><p>1954–1955</p></td>
@@ -58,7 +58,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스탠리_라우스" title="wikilink">스탠리 라우스</a></p></td>
+<td><p><a href="../Page/스탠리_라우스.md" title="wikilink">스탠리 라우스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Stanley_Rous.jpg" title="wikilink">70px</a></p></td>
 <td></td>
 <td><p>1961–1974<sup>*</sup></p></td>
@@ -66,7 +66,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주앙_아벨란제" title="wikilink">주앙 아벨란제</a></p></td>
+<td><p><a href="../Page/주앙_아벨란제.md" title="wikilink">주앙 아벨란제</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Joao_havelange.jpg" title="wikilink">70px</a></p></td>
 <td></td>
 <td><p>1974–1998<sup>*</sup></p></td>
@@ -74,7 +74,7 @@
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제프_블라터" title="wikilink">제프 블라터</a></p></td>
+<td><p><a href="../Page/제프_블라터.md" title="wikilink">제프 블라터</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Sepp_Blatter_(2009).jpg" title="wikilink">70px</a></p></td>
 <td></td>
 <td><p>1998–2015</p></td>
@@ -86,7 +86,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Issa_Hayatou_(cropped).jpg" title="wikilink">70px</a></p></td>
 <td></td>
 <td><p>2015–2016</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제프_블라터" title="wikilink">제프 블라터의</a> 자격정지 처분으로 인한 직무 대행</p></td>
+<td><p><a href="../Page/제프_블라터.md" title="wikilink">제프 블라터의</a> 자격정지 처분으로 인한 직무 대행</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>

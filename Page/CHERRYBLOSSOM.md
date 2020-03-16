@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [CHERRYBLOSSOM](https://ko.wikipedia.org/wiki/CHERRYBLOSSOM).
 
 
-**체리블로섬**(CHERRYBLOSSOM, )은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에 소속되어 [나고야를](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 중심으로 활동했다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 3월 활동을 시작했다. 줄여서 **체리블로**(チェリブロ)라고 부른다. 또한 보컬인 MEEK, MAICO는 팬 들에게 "밋마이"(みぃまい)로 불리고 있다.
+**체리블로섬**(CHERRYBLOSSOM, )은 [일본](../Page/일본.md "wikilink")의 [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에 소속되어 [나고야를](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 중심으로 활동했다. [2007년](../Page/2007년.md "wikilink") 3월 활동을 시작했다. 줄여서 **체리블로**(チェリブロ)라고 부른다. 또한 보컬인 MEEK, MAICO는 팬 들에게 "밋마이"(みぃまい)로 불리고 있다.
 
 ## 구성원
 
-  - **MEEKO** (, [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") 출생) O형, 보컬 (20세)
-  - **MAICO** (, [10월 13일](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") 출생) B형, 보컬 (24세)
-  - **83** (, [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") 출생) A형, 베이스 (30세)
-  - **윳치**（, [1월 21일](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") 출생) AB형, 드럼 (26세)
+  - **MEEKO** (, [1월 27일](../Page/1월_27일.md "wikilink") 출생) O형, 보컬 (20세)
+  - **MAICO** (, [10월 13일](../Page/10월_13일.md "wikilink") 출생) B형, 보컬 (24세)
+  - **83** (, [6월 8일](../Page/6월_8일.md "wikilink") 출생) A형, 베이스 (30세)
+  - **윳치**（, [1월 21일](../Page/1월_21일.md "wikilink") 출생) AB형, 드럼 (26세)
 
-윳치를 제외한 나머지 구성원은 [나고야](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 출신이며, 윳치는 [니가타현](https://ko.wikipedia.org/wiki/니가타현 "wikilink") 출신이다. KUPPA는 2009년 3월을 기해 개인적인 사정으로 밴드를 탈퇴했다. 현재는 객원 멤버로 예전 midnightPumpkin(베이스 83(야스)가 활동했었던 밴드)의 기타 담당 YU-ICHI가 참가하고 있다.
+윳치를 제외한 나머지 구성원은 [나고야](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 출신이며, 윳치는 [니가타현](../Page/니가타현.md "wikilink") 출신이다. KUPPA는 2009년 3월을 기해 개인적인 사정으로 밴드를 탈퇴했다. 현재는 객원 멤버로 예전 midnightPumpkin(베이스 83(야스)가 활동했었던 밴드)의 기타 담당 YU-ICHI가 참가하고 있다.
 
 ## 연혁
 
   - 2006년 2월, 전년도에 스카 밴드 『[midnightPumpkin](https://ko.wikipedia.org/wiki/midnightPumpkin "wikilink")』을 탈퇴한 83이 새로운 밴드 결성의 추춧돌이 되어 구성원을 찾아 다니기 시작. 같은 년도 6월에 MEEKO, MAICO가 가입하여 체리블로썸을 결성함. 2007년 2월에 KUPPA, 윳치가 가입하여 현재의 구성원이 되었다.
-  - 다음달 3월에 인디 앨범 제작. 같은 년도 7월 25일에 앨범 「Riskygirl」을 발매, 2007년 12월에 TV 애니메이션 『[가정교사 히트맨 REBORN\!](https://ko.wikipedia.org/wiki/가정교사_히트맨_REBORN! "wikilink")』의 3기 오프닝 곡「DIVE TO WORLD」로 메이저 데뷔를 했다.
-  - 『[가정교사 히트맨 REBORN\!](https://ko.wikipedia.org/wiki/가정교사_히트맨_REBORN! "wikilink")』에서 「DIVE TO WORLD」가 오프닝 곡, 「CYCLE」, 「桜ロック (사쿠라 록)」, 「夢のマニュアル(꿈의 매뉴얼)」이 엔딩 곡으로 사용되었다. 「春風LOVER SONG (봄 바람 LOVER SONG)」은 텔레비전 방송 『ポケモンサンデー (포켓몬 선데이)』에 사용되었다.
+  - 다음달 3월에 인디 앨범 제작. 같은 년도 7월 25일에 앨범 「Riskygirl」을 발매, 2007년 12월에 TV 애니메이션 『[가정교사 히트맨 REBORN\!](../Page/가정교사_히트맨_REBORN!.md "wikilink")』의 3기 오프닝 곡「DIVE TO WORLD」로 메이저 데뷔를 했다.
+  - 『[가정교사 히트맨 REBORN\!](../Page/가정교사_히트맨_REBORN!.md "wikilink")』에서 「DIVE TO WORLD」가 오프닝 곡, 「CYCLE」, 「桜ロック (사쿠라 록)」, 「夢のマニュアル(꿈의 매뉴얼)」이 엔딩 곡으로 사용되었다. 「春風LOVER SONG (봄 바람 LOVER SONG)」은 텔레비전 방송 『ポケモンサンデー (포켓몬 선데이)』에 사용되었다.
   - 2009년 3월에 KUPPA가 탈퇴하였다.
   - 2010년 6월 16일에 「COMPLETE BEST CHERRYBLOSSOM」를 발매와 함께 나고야 다이아몬드 홀에서 라이브 공연을 끝으로 해산.
   - 더불어 이 베스트 앨범에는 체리블로썸으로는 첫 PV, 메이킹 등이 수록된 DVD가 포함되어 있음.

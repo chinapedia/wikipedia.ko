@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**아틀란테 풋볼 클럽**() 또는 **아틀란테**()는 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")의 축구 클럽으로, [캉쿤](https://ko.wikipedia.org/wiki/캉쿤 "wikilink")을 연고로 한다. 이 클럽은 [1916년](https://ko.wikipedia.org/wiki/1916년 "wikilink")에 창단되었으며 2007년 [멕시코 시티에서](https://ko.wikipedia.org/wiki/멕시코_시티 "wikilink") 현재의 연고지인 [캉쿤](https://ko.wikipedia.org/wiki/캉쿤 "wikilink")으로 연고지 이전을 하였다.
+**아틀란테 풋볼 클럽**() 또는 **아틀란테**()는 [멕시코](../Page/멕시코.md "wikilink")의 축구 클럽으로, [캉쿤](https://ko.wikipedia.org/wiki/캉쿤 "wikilink")을 연고로 한다. 이 클럽은 [1916년](../Page/1916년.md "wikilink")에 창단되었으며 2007년 [멕시코 시티에서](https://ko.wikipedia.org/wiki/멕시코_시티 "wikilink") 현재의 연고지인 [캉쿤](https://ko.wikipedia.org/wiki/캉쿤 "wikilink")으로 연고지 이전을 하였다.
 
 ## 주요 대회 성적
 
@@ -23,11 +23,11 @@
 
 ### 유명한 선수
 
-  - [우고 산체스](https://ko.wikipedia.org/wiki/우고_산체스 "wikilink")
+  - [우고 산체스](../Page/우고_산체스.md "wikilink")
 
-  - [하비에르 아기레](https://ko.wikipedia.org/wiki/하비에르_아기레 "wikilink")
+  - [하비에르 아기레](../Page/하비에르_아기레.md "wikilink")
 
-  - [리카르도 라볼페](https://ko.wikipedia.org/wiki/리카르도_라볼페 "wikilink")
+  - [리카르도 라볼페](../Page/리카르도_라볼페.md "wikilink")
 
   - [그제고시 라토](../Page/그제고시_라토.md "wikilink")
 

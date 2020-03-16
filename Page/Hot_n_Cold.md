@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Hot n Cold](https://ko.wikipedia.org/wiki/Hot_n_Cold).
 
 
-**"Hot n Cold"**은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 가수 [케이티 페리의](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink") 노래이다. 작곡, 작사가로는 [케이티 페리](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink"), [맥스 마틴](https://ko.wikipedia.org/wiki/맥스_마틴 "wikilink"), [닥터 루크](../Page/닥터_루크.md "wikilink") 등으로 구성 됐으며, 케이티 페리의 정규 앨범 *[One of the Boys](https://ko.wikipedia.org/wiki/One_of_the_Boys "wikilink")*의 세 번째 싱글로 발매 되었다. 이 싱글은 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 3위에 올랐고, "I Kissed a Girl"에 이어 빌보드 핫 100차트 3위권안에드는 쾌커를 이뤘다. 또한 전 세계적으로 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink"), [호주](https://ko.wikipedia.org/wiki/호주 "wikilink"), [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink"), [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")뿐만 아니라 [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink"), [독일](https://ko.wikipedia.org/wiki/독일 "wikilink"), [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink"), [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink"), [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink"), [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink"), [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink") 등지에서 5위권안에 진입하였다. 이 싱글은 총 15개 이상의 국가에서 최상위권 진입을 했다.
+**"Hot n Cold"**은 [미국](../Page/미국.md "wikilink")의 가수 [케이티 페리의](../Page/케이티_페리.md "wikilink") 노래이다. 작곡, 작사가로는 [케이티 페리](../Page/케이티_페리.md "wikilink"), [맥스 마틴](../Page/맥스_마틴.md "wikilink"), [닥터 루크](../Page/닥터_루크.md "wikilink") 등으로 구성 됐으며, 케이티 페리의 정규 앨범 *[One of the Boys](https://ko.wikipedia.org/wiki/One_of_the_Boys "wikilink")*의 세 번째 싱글로 발매 되었다. 이 싱글은 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 3위에 올랐고, "I Kissed a Girl"에 이어 빌보드 핫 100차트 3위권안에드는 쾌커를 이뤘다. 또한 전 세계적으로 [영국](../Page/영국.md "wikilink"), [호주](https://ko.wikipedia.org/wiki/호주 "wikilink"), [아일랜드](../Page/아일랜드.md "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink")뿐만 아니라 [핀란드](../Page/핀란드.md "wikilink"), [독일](../Page/독일.md "wikilink"), [그리스](../Page/그리스.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [노르웨이](../Page/노르웨이.md "wikilink"), [스페인](../Page/스페인.md "wikilink"), [덴마크](../Page/덴마크.md "wikilink") 등지에서 5위권안에 진입하였다. 이 싱글은 총 15개 이상의 국가에서 최상위권 진입을 했다.
 
 ## 차트 실적
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Katy_Perry_YouTube.jpg "wikilink") "Hot n Cold"은 2008년 6월 17일, [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 디지털 다운로드로 처음 공개됐다. 다음 주가 되자 빌보드 핫 100차트에서 88위로 데뷔했지만 다음 주 차트에서 떨어졌다. 8월 5일 핫 100차트에 또 다시 88위로 진입했다. 2008년 11월 11일 미국 핫 100에서 3위로 최고 순위에 올랐으며 3위권안에든 페리의 세 번째 노래가 되었다. 이 싱글은 상위 10위권에서 총 18주간 존재했다("[I Kissed a Girl](../Page/I_Kissed_a_Girl.md "wikilink")"은 14주동안 존재). "Hot n Cold"은 나중에 4,381,000 만장을 팔며 [RIAA](https://ko.wikipedia.org/wiki/RIAA "wikilink")에 의해 4× 플래티넘 인증을 받았다. [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서는 73위로 데뷔했으며 2008년 11월 20일 차트 일자로 1위에 도달했다. "Hot n Cold"은 라디오에서 더큰 히트를 쳤는데, 미국 메인스트림 탑 40 차트와 어덜트 탑 40차트에서 데뷔이후 처음으로 1위를 했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Katy_Perry_YouTube.jpg "wikilink") "Hot n Cold"은 2008년 6월 17일, [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 디지털 다운로드로 처음 공개됐다. 다음 주가 되자 빌보드 핫 100차트에서 88위로 데뷔했지만 다음 주 차트에서 떨어졌다. 8월 5일 핫 100차트에 또 다시 88위로 진입했다. 2008년 11월 11일 미국 핫 100에서 3위로 최고 순위에 올랐으며 3위권안에든 페리의 세 번째 노래가 되었다. 이 싱글은 상위 10위권에서 총 18주간 존재했다("[I Kissed a Girl](../Page/I_Kissed_a_Girl.md "wikilink")"은 14주동안 존재). "Hot n Cold"은 나중에 4,381,000 만장을 팔며 [RIAA](https://ko.wikipedia.org/wiki/RIAA "wikilink")에 의해 4× 플래티넘 인증을 받았다. [캐나다](../Page/캐나다.md "wikilink")에서는 73위로 데뷔했으며 2008년 11월 20일 차트 일자로 1위에 도달했다. "Hot n Cold"은 라디오에서 더큰 히트를 쳤는데, 미국 메인스트림 탑 40 차트와 어덜트 탑 40차트에서 데뷔이후 처음으로 1위를 했다.
 
-영국 싱글 차트에서는 4위로 만족해야 했다. 또한 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서는 8주동안 1위를 했다. [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")에서는 50위로 처음 데뷔했고 빠르게 10위권안에 진입했다. 그 다음 천천히 오르며 4위로 최고의 성적을 냈다. 또한 호주 방송차트에선 1위를 하기도했다. [러시아](../Page/러시아.md "wikilink")에서 "Hot n Cold"은 1위를 했다. 러시아 방송 차트에서 217위로 데뷔했지만 8주 후, 12월 1위에 도달했다. 그리스 방송 차트에서는 3위에 만족해야했고 체코에서 10주동안 1위를 하며 최고의 인기를 누렸다.
+영국 싱글 차트에서는 4위로 만족해야 했다. 또한 [독일](../Page/독일.md "wikilink")에서는 8주동안 1위를 했다. [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")에서는 50위로 처음 데뷔했고 빠르게 10위권안에 진입했다. 그 다음 천천히 오르며 4위로 최고의 성적을 냈다. 또한 호주 방송차트에선 1위를 하기도했다. [러시아](../Page/러시아.md "wikilink")에서 "Hot n Cold"은 1위를 했다. 러시아 방송 차트에서 217위로 데뷔했지만 8주 후, 12월 1위에 도달했다. 그리스 방송 차트에서는 3위에 만족해야했고 체코에서 10주동안 1위를 하며 최고의 인기를 누렸다.
 
 ## 뮤직비디오
 
@@ -94,20 +94,20 @@
 
 ### 인증
 
-| 국가                                                          | [인증](../Page/음반_판매량_인증.md "wikilink") |
-| ----------------------------------------------------------- | ------------------------------------- |
-| [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink") | 2× 플래티넘                               |
-| [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")     | 플래티넘                                  |
-| [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")         | 골드                                    |
-| [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")         | 6× 플래티넘                               |
-| [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink")         | 2× 플래티넘                               |
-| [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink")         | 플래티넘\[1\]                             |
-| [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")           | 골드                                    |
-| [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")       | 플래티넘\[2\]                             |
-| [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")         | 골드                                    |
-| [스와질란드](https://ko.wikipedia.org/wiki/스와질란드 "wikilink")     | 플래티넘                                  |
-| [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")           | 골드\[3\]                               |
-| [미국](https://ko.wikipedia.org/wiki/RIAA "wikilink")         | 4× 플래티넘                               |
+| 국가                                                      | [인증](../Page/음반_판매량_인증.md "wikilink") |
+| ------------------------------------------------------- | ------------------------------------- |
+| [오스트레일리아](../Page/오스트레일리아.md "wikilink")                | 2× 플래티넘                               |
+| [오스트리아](../Page/오스트리아.md "wikilink")                    | 플래티넘                                  |
+| [벨기에](../Page/벨기에.md "wikilink")                        | 골드                                    |
+| [캐나다](../Page/캐나다.md "wikilink")                        | 6× 플래티넘                               |
+| [덴마크](../Page/덴마크.md "wikilink")                        | 2× 플래티넘                               |
+| [핀란드](../Page/핀란드.md "wikilink")                        | 플래티넘\[1\]                             |
+| [독일](../Page/독일.md "wikilink")                          | 골드                                    |
+| [뉴질랜드](../Page/뉴질랜드.md "wikilink")                      | 플래티넘\[2\]                             |
+| [스페인](../Page/스페인.md "wikilink")                        | 골드                                    |
+| [스와질란드](https://ko.wikipedia.org/wiki/스와질란드 "wikilink") | 플래티넘                                  |
+| [영국](../Page/영국.md "wikilink")                          | 골드\[3\]                               |
+| [미국](https://ko.wikipedia.org/wiki/RIAA "wikilink")     | 4× 플래티넘                               |
 
 ### 연말 차트
 

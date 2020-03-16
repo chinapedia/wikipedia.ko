@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Trash We\'d Love](https://ko.wikipedia.org/wiki/Trash_We\'d_Love).
 
 
-『**Trash We'd Love**』(트래쉬 위드 러브)는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 27일에](https://ko.wikipedia.org/wiki/5월_27일 "wikilink") 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") 1번째 [오리지널 앨범이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 일본 내 시디번호는 FLCF-4281 이며, 2010년 7월 1일 라이센스 음반으로 한국에 발매되었다.
+『**Trash We'd Love**』(트래쉬 위드 러브)는 [2009년](../Page/2009년.md "wikilink") [5월 27일에](../Page/5월_27일.md "wikilink") 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") 1번째 [오리지널 앨범이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 일본 내 시디번호는 FLCF-4281 이며, 2010년 7월 1일 라이센스 음반으로 한국에 발매되었다.
 
 ## 개요
 
@@ -41,7 +41,7 @@
 
 ## 레코딩 구성원
 
-  - [호소미 타케시](https://ko.wikipedia.org/wiki/호소미_타케시 "wikilink")(細美武士) / 보컬・기타
+  - [호소미 타케시](../Page/호소미_타케시.md "wikilink")(細美武士) / 보컬・기타
   - masasucks / 기타
   - [우에노 코지](https://ko.wikipedia.org/wiki/우에노_코지 "wikilink")(ウエノコウジ) / 베이스
   - 카시쿠라 타카시(柏倉隆史) / 드럼

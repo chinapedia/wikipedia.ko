@@ -7,14 +7,14 @@
 
 JAGM은 취소된 [AGM-169 JCM을](https://ko.wikipedia.org/wiki/AGM-169_JCM "wikilink") 계속하여 나갈 것이다.\[2\]
 
-[록히드 마틴은](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink") 50 kg [AGM-114 헬파이어](../Page/AGM-114_헬파이어.md "wikilink"), 300 kg [AGM-65 메버릭을](../Page/AGM-65_메버릭.md "wikilink") 교체하기 위하여 신형인 50 kg [AGM-169 JCM을](https://ko.wikipedia.org/wiki/AGM-169_JCM "wikilink") 개발했으나, 미군당국이 개발을 취소시켰다. 현재는 [레이시온](../Page/레이시온.md "wikilink")과 [보잉](https://ko.wikipedia.org/wiki/보잉 "wikilink")에서 50 kg JAGM을 진행하고 있다. 무게는 헬파이어와 같은데 사거리가 16 km로 2배가 되었다.
+[록히드 마틴은](../Page/록히드_마틴.md "wikilink") 50 kg [AGM-114 헬파이어](../Page/AGM-114_헬파이어.md "wikilink"), 300 kg [AGM-65 메버릭을](../Page/AGM-65_메버릭.md "wikilink") 교체하기 위하여 신형인 50 kg [AGM-169 JCM을](https://ko.wikipedia.org/wiki/AGM-169_JCM "wikilink") 개발했으나, 미군당국이 개발을 취소시켰다. 현재는 [레이시온](../Page/레이시온.md "wikilink")과 [보잉](../Page/보잉.md "wikilink")에서 50 kg JAGM을 진행하고 있다. 무게는 헬파이어와 같은데 사거리가 16 km로 2배가 되었다.
 
 미국 육군, 해군, 해병대는 기존의 미사일들을 교체하는데 35,000발의 JAGM이 필요할 것으로 예상하고 있다. 헬파이어 미사일은 현재 미국 육군의 [AH-64 아파치](../Page/AH-64_아파치.md "wikilink") 공격헬기, [MQ-1C 워리어](https://ko.wikipedia.org/wiki/MQ-1C_워리어 "wikilink") 다목적 UAV, 해병대의 [AH-1 슈퍼코브라](https://ko.wikipedia.org/wiki/AH-1_슈퍼코브라 "wikilink") 공격헬기, 해군의 시호크 무장정찰헬기에서 사용중이다. JAGM은 또한 [F/A-18 호넷의](https://ko.wikipedia.org/wiki/F/A-18_호넷 "wikilink") 메버릭도 교체할 것이다.
 
 JAGM은 세가지 기능을 모두 가진 시커를 장착할 것이다. 세미 액티브 레이저 시커는 정밀 공격과 single-shot target에 적합하다. 적외선 이미지 시커는 수동식 [파이어앤포겟](https://ko.wikipedia.org/wiki/파이어앤포겟 "wikilink")이 가능하게 한다. 밀리미터파 레이다는 주야간 전천후의 능동식 파이어앤포겟이 가능하다.
 
   - [토우 대전차 미사일](https://ko.wikipedia.org/wiki/토우_대전차_미사일 "wikilink") - [레이시온](../Page/레이시온.md "wikilink"), 무게 20 kg, 사거리 3.75 km, 유선유도
-  - [헬파이어 미사일](https://ko.wikipedia.org/wiki/헬파이어_미사일 "wikilink") - [록히드 마틴](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink"), 무게 50 kg, 사거리 8 km, 레이저유도, 레이다유도
+  - [헬파이어 미사일](https://ko.wikipedia.org/wiki/헬파이어_미사일 "wikilink") - [록히드 마틴](../Page/록히드_마틴.md "wikilink"), 무게 50 kg, 사거리 8 km, 레이저유도, 레이다유도
   - [메버릭](https://ko.wikipedia.org/wiki/메버릭 "wikilink") - [레이시온](../Page/레이시온.md "wikilink"), 무게 300 kg, 사거리 22 km, 적외선유도, 레이다유도, 레이저유도, 광학유도
   - JAGM - [레이시온](../Page/레이시온.md "wikilink"), 무게 50 kg, 사거리 20 km, 레이저유도, 적외선유도, 레이다유도
 
@@ -22,7 +22,7 @@ JAGM은 세가지 기능을 모두 가진 시커를 장착할 것이다. 세미 
 
   - [AH-64 아파치](../Page/AH-64_아파치.md "wikilink")
   - [F/A-18E/F 슈퍼 호넷](https://ko.wikipedia.org/wiki/F/A-18E/F_슈퍼_호넷 "wikilink")
-  - [SH-60 시호크](https://ko.wikipedia.org/wiki/SH-60_시호크 "wikilink")
+  - [SH-60 시호크](../Page/SH-60_시호크.md "wikilink")
   - [AH-1Z 바이퍼](https://ko.wikipedia.org/wiki/AH-1Z_바이퍼 "wikilink")
   - [MQ-1C 워리어](https://ko.wikipedia.org/wiki/MQ-1C_워리어 "wikilink")
 

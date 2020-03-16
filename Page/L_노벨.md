@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [L ](https://ko.wikipedia.org/wiki/L_).
 
 
-**L 노벨**은 [디앤씨미디어](https://ko.wikipedia.org/wiki/디앤씨미디어 "wikilink")의 [라이트 노벨](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink") 레이블로, [2007년 11월에](../Page/2007년_11월.md "wikilink") **SL 노벨**(시드 라이트 노벨)이라는 이름으로 창간되어 [2009년 1월](../Page/2009년_1월.md "wikilink") [시드 노벨에서](https://ko.wikipedia.org/wiki/시드_노벨 "wikilink") 분리, 현재의 이름으로 일본 라이트 노벨의 번역 출간을 하고 있다. 일괄 발매일은 매월 10일.
+**L 노벨**은 [디앤씨미디어](https://ko.wikipedia.org/wiki/디앤씨미디어 "wikilink")의 [라이트 노벨](../Page/라이트_노벨.md "wikilink") 레이블로, [2007년 11월에](../Page/2007년_11월.md "wikilink") **SL 노벨**(시드 라이트 노벨)이라는 이름으로 창간되어 [2009년 1월](../Page/2009년_1월.md "wikilink") [시드 노벨에서](https://ko.wikipedia.org/wiki/시드_노벨 "wikilink") 분리, 현재의 이름으로 일본 라이트 노벨의 번역 출간을 하고 있다. 일괄 발매일은 매월 10일.
 
 L노벨 공식 홈페이지는 오류로 인해 현재도 접속이 불가능하고 공식 카페를 통해 이벤트 및 그달의 신간소식을 전하고 있다.
 
@@ -17,7 +17,7 @@ L노벨 공식 홈페이지는 오류로 인해 현재도 접속이 불가능하
   - [BIG-4](https://ko.wikipedia.org/wiki/BIG-4 "wikilink")(5권)
   - [VRMMO 학원에서 즐거운 마개조 가이드](https://ko.wikipedia.org/wiki/VRMMO_학원에서_즐거운_마개조_가이드 "wikilink") (4권)
   - [가상영역의 엘리시온](https://ko.wikipedia.org/wiki/가상영역의_엘리시온 "wikilink")(3권)
-  - [검의 여왕과 낙인의 아이](https://ko.wikipedia.org/wiki/검의_여왕과_낙인의_아이 "wikilink")(8권)
+  - [검의 여왕과 낙인의 아이](../Page/검의_여왕과_낙인의_아이.md "wikilink")(8권)
   - [고백 예행연습](https://ko.wikipedia.org/wiki/고백_예행연습 "wikilink")(6권)
   - [곰 곰 곰 베어](https://ko.wikipedia.org/wiki/곰_곰_곰_베어 "wikilink")(9권)
   - [금색의 문자술사](https://ko.wikipedia.org/wiki/금색의_문자술사 "wikilink")(8권)
@@ -29,7 +29,7 @@ L노벨 공식 홈페이지는 오류로 인해 현재도 접속이 불가능하
   - [너를 잊는 법을 가르쳐 줘](https://ko.wikipedia.org/wiki/너를_잊는_법을_가르쳐_줘 "wikilink")(2권)
   - [노노메메, 하트 브레이크](https://ko.wikipedia.org/wiki/노노메메,_하트_브레이크 "wikilink")(3권)
   - [녹을 먹는 비스코](https://ko.wikipedia.org/wiki/녹을_먹는_비스코 "wikilink") (2권)
-  - [농림](https://ko.wikipedia.org/wiki/농림 "wikilink")(13권)
+  - [농림](../Page/농림.md "wikilink")(13권)
   - [니트 흡혈귀, 에토 씨](https://ko.wikipedia.org/wiki/니트_흡혈귀,_에토_씨 "wikilink") (2권)
   - [단칸방의 침략자\!?](https://ko.wikipedia.org/wiki/단칸방의_침략자!? "wikilink")(26권+외전2권(7.5, 8.5)
   - [달이 이끄는 이세계 여행](https://ko.wikipedia.org/wiki/달이_이끄는_이세계_여행 "wikilink")(8권)
@@ -138,13 +138,13 @@ L노벨 공식 홈페이지는 오류로 인해 현재도 접속이 불가능하
   - [under](https://ko.wikipedia.org/wiki/under "wikilink")(2권)
   - [기브 업\!](https://ko.wikipedia.org/wiki/기브_업! "wikilink")(3권)
   - [그와 그녀와 소환마법](https://ko.wikipedia.org/wiki/그와_그녀와_소환마법 "wikilink")(6권)
-  - [라푼젤의 날개](https://ko.wikipedia.org/wiki/라푼젤의_날개 "wikilink")(4권)
+  - [라푼젤의 날개](../Page/라푼젤의_날개.md "wikilink")(4권)
   - [러브라이브\!](https://ko.wikipedia.org/wiki/러브라이브! "wikilink")
       - [러브라이브\! School idol diary](https://ko.wikipedia.org/wiki/러브라이브!_School_idol_diary "wikilink") (9권)
       - Love Live\! Perfect Visual Collection \~Smile\~
       - Love Live\! Perfect Visual Collection \~Dream\~
   - [마이-HiME DESTINY 용의 무녀](https://ko.wikipedia.org/wiki/마이-HiME_DESTINY_용의_무녀 "wikilink")(2권)
-  - [안녕 피아노 소나타](https://ko.wikipedia.org/wiki/안녕_피아노_소나타 "wikilink")(5권)
+  - [안녕 피아노 소나타](../Page/안녕_피아노_소나타.md "wikilink")(5권)
   - [작은 나라의 구세주](https://ko.wikipedia.org/wiki/작은_나라의_구세주 "wikilink")(5권)
   - [죽지 않는 소년을 사랑한 소녀](https://ko.wikipedia.org/wiki/죽지_않는_소년을_사랑한_소녀 "wikilink")(7권)
   - [진홍빛 로망스](https://ko.wikipedia.org/wiki/진홍빛_로망스 "wikilink")(6권)
@@ -155,22 +155,22 @@ L노벨 공식 홈페이지는 오류로 인해 현재도 접속이 불가능하
   - [제비뽑기 용자님](https://ko.wikipedia.org/wiki/제비뽑기_용자님 "wikilink")(11권)
   - [리리스에게 맡겨줘\!](https://ko.wikipedia.org/wiki/리리스에게_맡겨줘! "wikilink")(3권)
   - [글로리어스 던](https://ko.wikipedia.org/wiki/글로리어스_던 "wikilink")(12권)
-  - [레이디×버틀러\!](https://ko.wikipedia.org/wiki/레이디×버틀러! "wikilink")(13권)
+  - [레이디×버틀러\!](../Page/레이디×버틀러!.md "wikilink")(13권)
   - [영건 카르나발](https://ko.wikipedia.org/wiki/영건_카르나발 "wikilink")(11권)
   - [창해걸즈\!](https://ko.wikipedia.org/wiki/창해걸즈! "wikilink")(3권)
-  - [마요치키\!](https://ko.wikipedia.org/wiki/마요치키! "wikilink")(12권)
+  - [마요치키\!](../Page/마요치키!.md "wikilink")(12권)
       - 마요치키(7권)
   - [후지미야 토키코는 까칠하다](https://ko.wikipedia.org/wiki/후지미야_토키코는_까칠하다 "wikilink")(5권)
   - [시노노메 유우코 시리즈](https://ko.wikipedia.org/wiki/시노노메_유우코_시리즈 "wikilink") (3권)
   - [첫 체험에 안성맞춤인 그녀](https://ko.wikipedia.org/wiki/첫_체험에_안성맞춤인_그녀 "wikilink")(6권)
   - [시혼의 혈족](https://ko.wikipedia.org/wiki/시혼의_혈족 "wikilink")(3권)
-  - [사쿠라장의 애완 그녀](https://ko.wikipedia.org/wiki/사쿠라장의_애완_그녀 "wikilink")(10권+외전3권(5.5, 7.5, 10.5))
+  - [사쿠라장의 애완 그녀](../Page/사쿠라장의_애완_그녀.md "wikilink")(10권+외전3권(5.5, 7.5, 10.5))
   - [그녀는 태클당하는 걸 좋아해\!](https://ko.wikipedia.org/wiki/그녀는_태클당하는_걸_좋아해! "wikilink")(10권)
   - [낮에도 밤에도 양손에 악녀](https://ko.wikipedia.org/wiki/낮에도_밤에도_양손에_악녀 "wikilink") (3권)
-  - [기어와라\! 냐루코 양](https://ko.wikipedia.org/wiki/기어와라!_냐루코_양 "wikilink")(12권)
+  - [기어와라\! 냐루코 양](../Page/기어와라!_냐루코_양.md "wikilink")(12권)
   - [나는 역시 눈치채지 못해](https://ko.wikipedia.org/wiki/나는_역시_눈치채지_못해 "wikilink") (6권)
   - [마왕 같다고\!](https://ko.wikipedia.org/wiki/마왕_같다고! "wikilink")(4권)
-  - [하느님의 메모장](https://ko.wikipedia.org/wiki/하느님의_메모장 "wikilink")(6권)
+  - [하느님의 메모장](../Page/하느님의_메모장.md "wikilink")(6권)
       - 하느님의 메모장(3권)
   - [하토코 씨와 러브코미디](https://ko.wikipedia.org/wiki/하토코_씨와_러브코미디 "wikilink")(4권)
   - [내 현실과 온라인 게임이 러브코미디에 침식당하기 시작해서 위험해](../Page/내_현실과_온라인_게임이_러브코미디에_침식당하기_시작해서_위험해.md "wikilink") (8권)

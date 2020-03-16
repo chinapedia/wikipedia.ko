@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
 
 
-**움살랄 스포츠 클럽**()은 [움살랄](https://ko.wikipedia.org/wiki/움살랄 "wikilink")에 연고지를 두고 있는 [카타르](https://ko.wikipedia.org/wiki/카타르 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 과거에는 **알타다문 클럽**으로 잘 알려져 있었다.
+**움살랄 스포츠 클럽**()은 [움살랄](https://ko.wikipedia.org/wiki/움살랄 "wikilink")에 연고지를 두고 있는 [카타르](../Page/카타르.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 과거에는 **알타다문 클럽**으로 잘 알려져 있었다.
 
-움살랄은 2006-07 시즌에 [카타르 리그로](https://ko.wikipedia.org/wiki/카타르_스타스_리그 "wikilink") 승격되었다. 2008년에는 [아미르 컵](https://ko.wikipedia.org/wiki/카타르_아미르_컵 "wikilink") 결승전에서 [알가라파를](https://ko.wikipedia.org/wiki/알가라파_SC "wikilink") 4 대 1로 꺾고 우승을 차지하면서 [AFC 챔피언스리그 2009](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2009 "wikilink") 출전하여 준결승까지 오르는 기염을 토하기도 하였다.
+움살랄은 2006-07 시즌에 [카타르 리그로](../Page/카타르_스타스_리그.md "wikilink") 승격되었다. 2008년에는 [아미르 컵](https://ko.wikipedia.org/wiki/카타르_아미르_컵 "wikilink") 결승전에서 [알가라파를](../Page/알가라파_SC.md "wikilink") 4 대 1로 꺾고 우승을 차지하면서 [AFC 챔피언스리그 2009](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2009 "wikilink") 출전하여 준결승까지 오르는 기염을 토하기도 하였다.
 
 ## 선수 명단
 
 ### 유명한 선수
 
-  -  [파비우 세자르 몬테지니](https://ko.wikipedia.org/wiki/파비우_세자르_몬테지니 "wikilink")
+  -  [파비우 세자르 몬테지니](../Page/파비우_세자르_몬테지니.md "wikilink")
 
-  - [사샤 오그네노브스키](https://ko.wikipedia.org/wiki/사샤_오그네노브스키 "wikilink")
+  - [사샤 오그네노브스키](../Page/사샤_오그네노브스키.md "wikilink")
 
-  - [마그누 아우베스](https://ko.wikipedia.org/wiki/마그누_아우베스 "wikilink")
+  - [마그누 아우베스](../Page/마그누_아우베스.md "wikilink")
 
-  - [가브리 가르시아](https://ko.wikipedia.org/wiki/가브리_가르시아 "wikilink")
+  - [가브리 가르시아](../Page/가브리_가르시아.md "wikilink")
 
   - [이베라우두 지 제수스 페헤이라](../Page/이베라우두_지_제수스_페헤이라.md "wikilink")
 

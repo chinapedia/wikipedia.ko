@@ -5,12 +5,12 @@
 
 ## 리그 개요
 
-  - **리그기간** : [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 17일](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") \~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink")
+  - **리그기간** : [2008년](../Page/2008년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink")
   - **리그방식**
       - 16강전 - 4개조 하루에 한 조씩풀리그를 치른다.
       - 8강전 \~ 결승전 - 8강전 (3전 2선승제), 4강전 결승전 (5전 3선승제)
   - **특이사항**
-      - 조 지명식 - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink"), 상암 TvN 스튜디오
+      - 조 지명식 - [2008년](../Page/2008년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink"), 상암 TvN 스튜디오
       - [이영호](https://ko.wikipedia.org/wiki/이영호 "wikilink"), 곰TV 스타 인비테이셔널 첫 우승
 
 ## 참가선수 목록
@@ -26,7 +26,7 @@
 
 ## 16강전
 
-  - **일정** : A조 - [2월 17일](https://ko.wikipedia.org/wiki/2월_17일 "wikilink"), B조 - [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink"), C조 - [2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink"), D조 - [2월 20일](https://ko.wikipedia.org/wiki/2월_20일 "wikilink")
+  - **일정** : A조 - [2월 17일](../Page/2월_17일.md "wikilink"), B조 - [2월 18일](../Page/2월_18일.md "wikilink"), C조 - [2월 19일](../Page/2월_19일.md "wikilink"), D조 - [2월 20일](../Page/2월_20일.md "wikilink")
   - 조 지명식에서 결정된 조에 따라 한 선수가 총 하루 3경기를 치르며, 한 조로 볼 때 총 6경기를 치른다.
   - 한 조당 하루에 6경기를 치렀다. (동률일 경우 한번에 재경기를 치름)
 
@@ -35,7 +35,7 @@
 | [마재윤](../Page/마재윤.md "wikilink")                        | 1승 2패 | **[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")** | 2승 1패 |
 | **[이영호](https://ko.wikipedia.org/wiki/이영호 "wikilink")** | 3승    | [이윤열](../Page/이윤열.md "wikilink")                        | 3패    |
 | [오영종](../Page/오영종.md "wikilink")                        | 1승 2패 | **[박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink")** | 3승    |
-| [박성균](../Page/박성균.md "wikilink")                        | 1승 2패 | [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")     | 1승 2패 |
+| [박성균](../Page/박성균.md "wikilink")                        | 1승 2패 | [임요환](../Page/임요환.md "wikilink")                        | 1승 2패 |
 
   - **재경기**
   - 상위/하위 3인의 승ㆍ패가 동률인 경우, 삼자재경기를 통해 승자는 8강에 직행한다.

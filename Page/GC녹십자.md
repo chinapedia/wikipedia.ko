@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GC](https://ko.wikipedia.org/wiki/GC).
 
 
-**녹십자**\[1\] 또는 **GC녹십자**\[2\]는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [코스피에](https://ko.wikipedia.org/wiki/코스피_지수 "wikilink") 등록되어 있는 의약품 제조기업으로 혈액분획제제, 백신제제 등에 중점을 두고 있다. 코스피에 등록되어 있는 주식회사 녹십자홀딩스(GC홀딩스)의 자회사이다.
+**녹십자**\[1\] 또는 **GC녹십자**\[2\]는 [대한민국](../Page/대한민국.md "wikilink")의 [코스피에](../Page/코스피_지수.md "wikilink") 등록되어 있는 의약품 제조기업으로 혈액분획제제, 백신제제 등에 중점을 두고 있다. 코스피에 등록되어 있는 주식회사 녹십자홀딩스(GC홀딩스)의 자회사이다.
 
 ## 연혁
 

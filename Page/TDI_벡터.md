@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TDI ](https://ko.wikipedia.org/wiki/TDI_).
 
 
-**크리스 벡터**(KRISS Vector)\[1\] 혹은 **크리스 슈퍼 V**는 [TDI](https://ko.wikipedia.org/wiki/TDI "wikilink")사가 개발·생산하는 차세대 [기관단총](https://ko.wikipedia.org/wiki/기관단총 "wikilink")이다.
+**크리스 벡터**(KRISS Vector)\[1\] 혹은 **크리스 슈퍼 V**는 [TDI](https://ko.wikipedia.org/wiki/TDI "wikilink")사가 개발·생산하는 차세대 [기관단총](../Page/기관단총.md "wikilink")이다.
 
 ## 설계
 
@@ -25,7 +25,7 @@ TDI사는 2010년에 [.40 S\&W탄](https://ko.wikipedia.org/wiki/.40_S&W "wikili
 **[포인트 블랭크](https://ko.wikipedia.org/wiki/포인트_블랭크 "wikilink")** - 주무장으로 나온다. [도트사이트](https://ko.wikipedia.org/wiki/도트사이트 "wikilink")를 장착한 상태로 나오며, 장탄수는 30발이다. B키를 눌러서 듀얼모드로 전환하여 2개의 벡터를 들고 사격할 수 있다.
 
   - **배터리 온라인** - 주무장으로 나온다. 장탄수는 30발이다. 밸런스상의 이유로 인해, [.45 ACP탄의](https://ko.wikipedia.org/wiki/.45_ACP "wikilink") 높은 위력만 구현되고, 나머지는 구현되지 않았다. 기관단총 중에선 제일 높은 위력을 가졌지만, 연사속도가 제일 느리다. (이로 인해 몇몇 유저들은 개발진이 미숙하다는 의견을 내놓기도 하였다.)
-  - **[모던워페어2](https://ko.wikipedia.org/wiki/콜_오브_듀티:_모던_워페어_2 "wikilink")** - 주무장으로 나온다. 레벨 12 때 언락할 수 있으며, 장탄수는 30발이다. 위력이 낮은 대신 높은 연사속도와 낮은 반동을 가졌다. 부착 가능한 부착물로는 속사(Rapid Fire), 아킴보(Akimbo), 레드 도트사이트(Red Dot Sight), 홀로그래픽 사이트(Holographic Sight), 소음기(Silencer), ACOG 스코프(ACOG Scope), 열감지 조준기(Thermal Scope), 철갑탄(FMJ), 확장 탄창(Extended Magazine)이 있다.
+  - **[모던워페어2](../Page/콜_오브_듀티:_모던_워페어_2.md "wikilink")** - 주무장으로 나온다. 레벨 12 때 언락할 수 있으며, 장탄수는 30발이다. 위력이 낮은 대신 높은 연사속도와 낮은 반동을 가졌다. 부착 가능한 부착물로는 속사(Rapid Fire), 아킴보(Akimbo), 레드 도트사이트(Red Dot Sight), 홀로그래픽 사이트(Holographic Sight), 소음기(Silencer), ACOG 스코프(ACOG Scope), 열감지 조준기(Thermal Scope), 철갑탄(FMJ), 확장 탄창(Extended Magazine)이 있다.
   - **[플레이어언노운 배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") -** 필드에서 드랍되는 아이템으로, 기본 장탄수는 19발이다. SMG 전용 부착물을 착용할 수 있으며, 총구에 소염기(Flash Hider), 보정기(Compensator), 소음기(Suppressor), 탄창에 퀵드로우(QuickDraw Mag), 대용량(Extended Mag), 대용량 퀵드로우(Extended QuickDraw Mag), 손잡이에 수직손잡이(Vertical Foregrip), 개머리판에 전술 개머리판(Tactical Stock) 을 착용할 수 있다. 대용량 탄창을 착용했을 때 장탄수는 19발에서 33발로 증가하며 다른 총기와는 다르게 손잡이에 수직손잡이, 하프 그립만 부착할 수 있다. 업데이트로 9mm 탄을 쓴다.
   - **레인보우 식스 시즈 -** Operation Velvet Shell 에서 출시된 수비팀 오퍼레이터 미라(MIRA) 의 주 무기 중 하나이다. 한편 공격팀의 라이언 (LION) 의 주 무기중 하나가 V308 인데, 벡터에 드럼식 탄창을 달고 7.62mm 나토탄을 쓰는 총이라고 볼 수 있다.
   - 게임 **로블록스**에 팬텀포스라는 슈팅게임에서 고렙 기관단총으로 등장한다.100랭크 정도에 해금이되서 해금할려면1년은 걸리지만 엄청난 미니건급 연사력과,스콜피온처럼 가벼운 무게,적당한 데미지,빠른 조준속도,적당한 장전속도,넉넉한25발 탄창,높은 총탄 사거리,적당한 반동,소음기 장착시 아무소리도 안들려서 플레이어들이 현질을 해서라도 사고싶은 무기중 하나이다.이 무기에 장점을 잘 활용하면 MP7보다 적은탄창인데도 불구하고 최대4\~6명을 갈길 수 있다.

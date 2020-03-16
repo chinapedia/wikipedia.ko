@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Trash We\'d Love Tour Final at Studio Coast](https://ko.wikipedia.org/wiki/Trash_We\'d_Love_Tour_Final_at_Studio_Coast).
 
 
-《**2009.07.21 Trash We'd Love Tour Final at Studio Coast**》(트래쉬 위드 러브 투어 파이널 앳 스튜디오 코스트)는 2009년 12월 23일에 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") [라이브](https://ko.wikipedia.org/wiki/연주회 "wikilink")[DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")이다. 일본 내 DVD번호는 FLBF-8103이며 한국에는 발매되지 않았다.
+《**2009.07.21 Trash We'd Love Tour Final at Studio Coast**》(트래쉬 위드 러브 투어 파이널 앳 스튜디오 코스트)는 2009년 12월 23일에 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") [라이브](https://ko.wikipedia.org/wiki/연주회 "wikilink")[DVD](../Page/DVD.md "wikilink")이다. 일본 내 DVD번호는 FLBF-8103이며 한국에는 발매되지 않았다.
 
 ## 개요
 
@@ -47,7 +47,7 @@
 
 ## 구성원
 
-  - [호소미 타케시](https://ko.wikipedia.org/wiki/호소미_타케시 "wikilink")(細美武士) / 보컬・기타
+  - [호소미 타케시](../Page/호소미_타케시.md "wikilink")(細美武士) / 보컬・기타
   - masasucks / 기타
   - [우에노 코지](https://ko.wikipedia.org/wiki/우에노_코지 "wikilink")(ウエノコウジ) / 베이스
   - 카시쿠라 타카시(柏倉隆史) / 드럼

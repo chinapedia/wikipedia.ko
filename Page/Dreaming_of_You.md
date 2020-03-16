@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dreaming of You](https://ko.wikipedia.org/wiki/Dreaming_of_You).
 
 
-《**Dreaming of You**》는 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [7월 18일에](https://ko.wikipedia.org/wiki/7월_18일 "wikilink") 발표한 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 가수 [셀레나](https://ko.wikipedia.org/wiki/셀레나 "wikilink")의 6번째 음반이자, 마지막 [스튜디오 음반이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 이 음반은 뮤직 컬렉션 시리즈 20주년의 일부로 2002년 9월 24일에 특별 트랙, 뮤직 비디오, 셀레나 가족과 친구와 이전 밴드([EMI 레코드](https://ko.wikipedia.org/wiki/EMI_레코드 "wikilink"), [EMI 라틴](https://ko.wikipedia.org/wiki/EMI_라틴 "wikilink"))의 말 몇 마디와 더불어 다시 발매되었다.\[1\]
+《**Dreaming of You**》는 [1995년](../Page/1995년.md "wikilink") [7월 18일에](../Page/7월_18일.md "wikilink") 발표한 [멕시코](../Page/멕시코.md "wikilink") [미국](../Page/미국.md "wikilink") 가수 [셀레나](../Page/셀레나.md "wikilink")의 6번째 음반이자, 마지막 [스튜디오 음반이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 이 음반은 뮤직 컬렉션 시리즈 20주년의 일부로 2002년 9월 24일에 특별 트랙, 뮤직 비디오, 셀레나 가족과 친구와 이전 밴드([EMI 레코드](https://ko.wikipedia.org/wiki/EMI_레코드 "wikilink"), [EMI 라틴](https://ko.wikipedia.org/wiki/EMI_라틴 "wikilink"))의 말 몇 마디와 더불어 다시 발매되었다.\[1\]
 
 ## 수록곡
 

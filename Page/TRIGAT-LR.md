@@ -10,7 +10,7 @@
 ## 더 보기
 
   - [브림스톤 미사일](https://ko.wikipedia.org/wiki/브림스톤_미사일 "wikilink") - 영국의 공대지 미사일. 무게 48 kg
-  - [JAGM](https://ko.wikipedia.org/wiki/JAGM "wikilink") - 미국의 차기 공대지 미사일. 토우, 메버릭, 헬파이어를 교체할 것이다.
+  - [JAGM](../Page/JAGM.md "wikilink") - 미국의 차기 공대지 미사일. 토우, 메버릭, 헬파이어를 교체할 것이다.
   - [AGM-169 Joint Common Missile](https://ko.wikipedia.org/wiki/AGM-169_Joint_Common_Missile "wikilink") - 미국의 차기 공대지 미사일. 무게 49 kg. 메버릭과 헬파이어를 교체할 것이다.
   - [AGM-65 메버릭](../Page/AGM-65_메버릭.md "wikilink") - 미국의 공대지 미사일. 무게 304 kg
   - [AGM-114 헬파이어](../Page/AGM-114_헬파이어.md "wikilink") - 미국의 공대지 미사일. 무게 57 kg

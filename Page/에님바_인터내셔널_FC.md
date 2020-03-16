@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**에님바 인터내셔널 FC**() 또는 **에님바**()는 [나이지리아](https://ko.wikipedia.org/wiki/나이지리아 "wikilink") [아바의](https://ko.wikipedia.org/wiki/아바_\(나이지리아\) "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽 팀이다. 팀 이름은 [이보어](../Page/이보어.md "wikilink")로 "주민들의 코끼리"를 뜻한다.
+**에님바 인터내셔널 FC**() 또는 **에님바**()는 [나이지리아](../Page/나이지리아.md "wikilink") [아바의](https://ko.wikipedia.org/wiki/아바_\(나이지리아\) "wikilink") [축구](../Page/축구.md "wikilink") 클럽 팀이다. 팀 이름은 [이보어](../Page/이보어.md "wikilink")로 "주민들의 코끼리"를 뜻한다.
 
 ## 주요 경력
 
@@ -14,12 +14,12 @@
 
 ### 국제 대회
 
-  - [CAF 챔피언스리그](https://ko.wikipedia.org/wiki/CAF_챔피언스리그 "wikilink"): 우승 2회 (2003, 2004)
-  - [CAF 슈퍼컵](https://ko.wikipedia.org/wiki/CAF_슈퍼컵 "wikilink"): 우승 2회 (2004, 2005)
+  - [CAF 챔피언스리그](../Page/CAF_챔피언스리그.md "wikilink"): 우승 2회 (2003, 2004)
+  - [CAF 슈퍼컵](../Page/CAF_슈퍼컵.md "wikilink"): 우승 2회 (2004, 2005)
 
 ## 유명 선수
 
-  - [빈센트 에니에아마](https://ko.wikipedia.org/wiki/빈센트_에니에아마 "wikilink")
+  - [빈센트 에니에아마](../Page/빈센트_에니에아마.md "wikilink")
 
   - [칼루 우체](../Page/칼루_우체.md "wikilink")
 

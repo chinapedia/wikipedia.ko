@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [   II](https://ko.wikipedia.org/wiki/___II).
 
 
-**방과 후 티타임 II**()은 방과 후 티타임의 앨범으로, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 27일에](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") [포니 캐니언을](https://ko.wikipedia.org/wiki/포니_캐니언 "wikilink") 통해 발매되었다.
+**방과 후 티타임 II**()은 방과 후 티타임의 앨범으로, [2010년](../Page/2010년.md "wikilink") [10월 27일에](../Page/10월_27일.md "wikilink") [포니 캐니언을](https://ko.wikipedia.org/wiki/포니_캐니언 "wikilink") 통해 발매되었다.
 
 ## 개요
 
   - [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [계열](../Page/재팬_뉴스_네트워크.md "wikilink") TV 애니메이션 '[케이온\!\!](https://ko.wikipedia.org/wiki/케이온!! "wikilink")'에 등장하는 밴드 유닛 '방과 후 티타임'의 앨범.
-  - 이전 앨범인 [방과 후 티타임은](https://ko.wikipedia.org/wiki/방과_후_티타임 "wikilink") 미니 앨범이었지만, 이번 앨범은 풀 앨범으로 CD 2장으로 구성되어 있다.
-  - Disc-1에는 이미 싱글로 발매된 '[퓨어퓨어 하트](https://ko.wikipedia.org/wiki/퓨어퓨어_하트 "wikilink")', '[밥은 반찬/U\&I](https://ko.wikipedia.org/wiki/밥은_반찬/U&I "wikilink")'를 시작으로, 제 2기 24화 '졸업식\!'에서 연주 된 '천사와 만났어요\!'와, 작중에서는 타이틀이나 가사의 일부만 나온 미발표곡, 보너스 트랙 등의 합계 10곡이 수록되어 있다.
-  - Disc-2는 제 2기 23화 '방과 후\!'에서 카세트에 녹음했던 음원을 재현하는 형태로 수록하고 있어서, 곡의 목록도 Disc-1 중 '천사와 만났어요\!', '방과 후 티타임(보너스 트랙)'의 2곡을 제외한 전곡에 이전 앨범 '[방과 후 티타임](https://ko.wikipedia.org/wiki/방과_후_티타임 "wikilink")'의 4곡을 더한 형태로 구성되어 있다.
+  - 이전 앨범인 [방과 후 티타임은](../Page/방과_후_티타임.md "wikilink") 미니 앨범이었지만, 이번 앨범은 풀 앨범으로 CD 2장으로 구성되어 있다.
+  - Disc-1에는 이미 싱글로 발매된 '[퓨어퓨어 하트](../Page/퓨어퓨어_하트.md "wikilink")', '[밥은 반찬/U\&I](https://ko.wikipedia.org/wiki/밥은_반찬/U&I "wikilink")'를 시작으로, 제 2기 24화 '졸업식\!'에서 연주 된 '천사와 만났어요\!'와, 작중에서는 타이틀이나 가사의 일부만 나온 미발표곡, 보너스 트랙 등의 합계 10곡이 수록되어 있다.
+  - Disc-2는 제 2기 23화 '방과 후\!'에서 카세트에 녹음했던 음원을 재현하는 형태로 수록하고 있어서, 곡의 목록도 Disc-1 중 '천사와 만났어요\!', '방과 후 티타임(보너스 트랙)'의 2곡을 제외한 전곡에 이전 앨범 '[방과 후 티타임](../Page/방과_후_티타임.md "wikilink")'의 4곡을 더한 형태로 구성되어 있다.
   - 초회 한정판에는 Disc-2의 내용을 수록한 카세트 테이프가 포함된다. 이는 Disc-2의 스테레오 형식과 다른 모노 형식이다.
-  - 지금까지 발표된 '[케이온\!](https://ko.wikipedia.org/wiki/케이온! "wikilink")' 시리즈의 음반처럼, 작사·작곡은 설정상 등장 인물에 의한 것으로 되어있지만, 실제 작사, 작·편곡은 다른 인물이 담당하고 있다.
+  - 지금까지 발표된 '[케이온\!](../Page/케이온!.md "wikilink")' 시리즈의 음반처럼, 작사·작곡은 설정상 등장 인물에 의한 것으로 되어있지만, 실제 작사, 작·편곡은 다른 인물이 담당하고 있다.
 
 ## 수록곡
 
@@ -21,7 +21,7 @@
         작사 : 이나바 에미, 작·편곡 : 카와구치 스스무
         메인 보컬 : 히라사와 유이, 코러스 : 아키야마 미오, 코토부키 츠무기
         제 2기 1화에 곡명만 등장하였다.
-2.  **[퓨어퓨어 하트](https://ko.wikipedia.org/wiki/퓨어퓨어_하트 "wikilink")**
+2.  **[퓨어퓨어 하트](../Page/퓨어퓨어_하트.md "wikilink")**
       -
         작사 : 이나바 에미, 작·편곡 : 마에자와 히로유키
         메인 보컬 : 아키야마 미오, 코러스 : 히라사와 유이
@@ -74,19 +74,19 @@
 <!-- end list -->
 
 1.  Introduction
-2.  **[폭신한 시간(후와후와타임)](https://ko.wikipedia.org/wiki/폭신한_시간 "wikilink")**
+2.  **[폭신한 시간(후와후와타임)](../Page/폭신한_시간.md "wikilink")**
       -
         작사 : 아키야마 미오, 작·편곡 : 마에자와 히로유키
-3.  **[카레 다음에 밥](https://ko.wikipedia.org/wiki/방과_후_티타임 "wikilink")**
+3.  **[카레 다음에 밥](../Page/방과_후_티타임.md "wikilink")**
       -
         작사 : 이나바 에미, 작·편곡 : 마에자와 히로유키
-4.  **[내 사랑은 호치키스](https://ko.wikipedia.org/wiki/방과_후_티타임 "wikilink")**
+4.  **[내 사랑은 호치키스](../Page/방과_후_티타임.md "wikilink")**
       -
         작사 : 이나바 에미, 작곡 : 후지스에 미키, 편곡 : 코모리 시게오
-5.  **[붓펜 \~볼펜\~](https://ko.wikipedia.org/wiki/방과_후_티타임 "wikilink")**
+5.  **[붓펜 \~볼펜\~](../Page/방과_후_티타임.md "wikilink")**
       -
         작사 : 이나바 에미, 작·편곡 : 카와구치 스스무
-6.  **[퓨어퓨어 하트](https://ko.wikipedia.org/wiki/퓨어퓨어_하트 "wikilink")**
+6.  **[퓨어퓨어 하트](../Page/퓨어퓨어_하트.md "wikilink")**
 7.  **딸기 파르페가 멈추지 않아**
 8.  **Honey sweet tea time**
 9.  **두근두근 슈가**
@@ -98,6 +98,6 @@
 ## 관련 항목
 
   - [케이온\!\!](https://ko.wikipedia.org/wiki/케이온!! "wikilink")
-  - [방과 후 티타임](https://ko.wikipedia.org/wiki/방과_후_티타임 "wikilink") (이전 앨범)
+  - [방과 후 티타임](../Page/방과_후_티타임.md "wikilink") (이전 앨범)
 
 [분류:애니메이션 음악](https://ko.wikipedia.org/wiki/분류:애니메이션_음악 "wikilink") [분류:케이온\!의 음악](https://ko.wikipedia.org/wiki/분류:케이온!의_음악 "wikilink")

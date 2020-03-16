@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Stronger Than Pride](https://ko.wikipedia.org/wiki/Stronger_Than_Pride).
 
 
-***Stronger Than Pride***는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 밴드 [샤데이](https://ko.wikipedia.org/wiki/샤데이 "wikilink")의 세 번째 앨범이다. 1988년 5월 14일 영국에서 먼저 발매되었고 6월 4일 미국에서 잇달아 발매되었다.
+***Stronger Than Pride***는 [영국](../Page/영국.md "wikilink") 밴드 [샤데이](https://ko.wikipedia.org/wiki/샤데이 "wikilink")의 세 번째 앨범이다. 1988년 5월 14일 영국에서 먼저 발매되었고 6월 4일 미국에서 잇달아 발매되었다.
 
 ## 트랙 목록
 
@@ -26,8 +26,8 @@
 
   - [샤데이 아두](../Page/샤데이_아두.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
   - 앤드루 헤일 – [건반](https://ko.wikipedia.org/wiki/키보드 "wikilink")
-  - 스튜어트 메튜맨 – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [섹소폰](https://ko.wikipedia.org/wiki/섹소폰 "wikilink")
-  - 폴 S. 덴만 – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 스튜어트 메튜맨 – [기타](../Page/기타.md "wikilink"), [섹소폰](https://ko.wikipedia.org/wiki/섹소폰 "wikilink")
+  - 폴 S. 덴만 – [베이스](../Page/베이스_기타.md "wikilink")
 
 <!-- end list -->
 
@@ -40,11 +40,11 @@
   - 제이크 자카스 – [트롬본](../Page/트롬본.md "wikilink")
   - 제임스 맥밀란 – [트럼펫](../Page/트럼펫.md "wikilink")
   - 르로이 오스본 – 보컬
-  - [가빈 라이트](https://ko.wikipedia.org/wiki/가빈_라이트 "wikilink") – [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink"), [독주](https://ko.wikipedia.org/wiki/독주 "wikilink")
+  - [가빈 라이트](https://ko.wikipedia.org/wiki/가빈_라이트 "wikilink") – [바이올린](../Page/바이올린.md "wikilink"), [독주](https://ko.wikipedia.org/wiki/독주 "wikilink")
 
 ### 프로덕션
 
-  - 샤데이 – [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [편곡](https://ko.wikipedia.org/wiki/편곡 "wikilink")
+  - 샤데이 – [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [편곡](../Page/편곡.md "wikilink")
   - Ben Rogan – 프로듀서, [오디오 엔지니어](https://ko.wikipedia.org/wiki/오디오_엔지니어 "wikilink")
   - Mike Pela – 프로듀서, 엔지니어
   - 올리비어 드 보손 – 보조 엔지니어

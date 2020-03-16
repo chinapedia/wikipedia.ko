@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ANOMALY](https://ko.wikipedia.org/wiki/ANOMALY).
 
 
-『**ANOMALY**』(아노말리)는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 30일에](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") 2번째 [오리지널 앨범이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 일본 내 시디번호는 FLCF-4340 이며, 2010년 7월 1일 라이센스 음반으로 [Trash We'd Love와](../Page/Trash_We'd_Love.md "wikilink") 함께 한국에 발매되었다.
+『**ANOMALY**』(아노말리)는 [2010년](../Page/2010년.md "wikilink") [6월 30일에](../Page/6월_30일.md "wikilink") 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") 2번째 [오리지널 앨범이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 일본 내 시디번호는 FLCF-4340 이며, 2010년 7월 1일 라이센스 음반으로 [Trash We'd Love와](../Page/Trash_We'd_Love.md "wikilink") 함께 한국에 발매되었다.
 
 ## 개요
 
@@ -40,7 +40,7 @@
 
 ## 레코딩 구성원
 
-  - [호소미 타케시](https://ko.wikipedia.org/wiki/호소미_타케시 "wikilink")(細美武士) / 보컬・기타
+  - [호소미 타케시](../Page/호소미_타케시.md "wikilink")(細美武士) / 보컬・기타
   - masasucks / 기타
   - [우에노 코지](https://ko.wikipedia.org/wiki/우에노_코지 "wikilink")(ウエノコウジ) / 베이스
   - 카시쿠라 타카시(柏倉隆史) / 드럼

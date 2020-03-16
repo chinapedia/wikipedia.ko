@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Spin Off](https://ko.wikipedia.org/wiki/Spin_Off).
 
 
-《**Spin Off**》는 [슈프림팀](https://ko.wikipedia.org/wiki/슈프림팀 "wikilink")이 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 3일에](https://ko.wikipedia.org/wiki/6월_3일 "wikilink") 발매한 리패키지 음반이다. 정규 1집 《[Supremier](https://ko.wikipedia.org/wiki/Supremier "wikilink")》에서 솔로곡 2곡과 스킷 2곡을 제외하고 3개의 신곡과 1개의 "Step Up" 리믹스로 채워져있으며, 또한 Clean Version으로 나왔던 "Respect My Money", 〈시노비〉는 Dirty Version으로 바뀌어 출시되었다.
+《**Spin Off**》는 [슈프림팀](../Page/슈프림팀.md "wikilink")이 [2010년](../Page/2010년.md "wikilink") [6월 3일에](../Page/6월_3일.md "wikilink") 발매한 리패키지 음반이다. 정규 1집 《[Supremier](../Page/Supremier.md "wikilink")》에서 솔로곡 2곡과 스킷 2곡을 제외하고 3개의 신곡과 1개의 "Step Up" 리믹스로 채워져있으며, 또한 Clean Version으로 나왔던 "Respect My Money", 〈시노비〉는 Dirty Version으로 바뀌어 출시되었다.
 
 ## 수록곡
 

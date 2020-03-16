@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [COLTEMONIKHA](https://ko.wikipedia.org/wiki/COLTEMONIKHA).
 
 
-**COLTEMONIKHA**()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [음악 그룹으로](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"), 전자 음악 그룹인 [capsule](https://ko.wikipedia.org/wiki/capsule "wikilink")의 멤버인 [나카타 야스타카가](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") 설립한 음악 레이블 [contemode](https://ko.wikipedia.org/wiki/contemode "wikilink")에서 음반을 발매하고 있다.
+**COLTEMONIKHA**()는 [일본](../Page/일본.md "wikilink")의 [음악 그룹으로](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"), 전자 음악 그룹인 [capsule](https://ko.wikipedia.org/wiki/capsule "wikilink")의 멤버인 [나카타 야스타카가](../Page/나카타_야스타카.md "wikilink") 설립한 음악 레이블 [contemode](https://ko.wikipedia.org/wiki/contemode "wikilink")에서 음반을 발매하고 있다.
 
 ## 멤버
 
-  - [나카타 야스타카](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") 작곡, 편곡, 프로듀서
+  - [나카타 야스타카](../Page/나카타_야스타카.md "wikilink") 작곡, 편곡, 프로듀서
   - [사카이 게이토](https://ko.wikipedia.org/wiki/사카이_게이토 "wikilink") 작사, 보컬
 
 ## 작품
@@ -17,9 +17,9 @@
 1.  fantastic fantasy
 2.  そらとぶひかり
       -
-        [京セラ](https://ko.wikipedia.org/wiki/교세라 "wikilink") [W42K](https://ko.wikipedia.org/wiki/W42K "wikilink") [au](https://ko.wikipedia.org/wiki/au_\(휴대전화\) "wikilink") CM송
-        이 곡의 특징은 가사가 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")와 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink") 2개 있다는 것. [소라미미](https://ko.wikipedia.org/wiki/소라미미 "wikilink")\[1\]를 이용해 일본어로 부르는 것 처럼 들리지만 잘 들어보면 전부 영어로 되어 있다.
-        [Konami社의](https://ko.wikipedia.org/wiki/코나미 "wikilink") [유비트](../Page/유비트.md "wikilink")라는 리듬게임에 수록되기도 하였다.
+        [京セラ](../Page/교세라.md "wikilink") [W42K](https://ko.wikipedia.org/wiki/W42K "wikilink") [au](https://ko.wikipedia.org/wiki/au_\(휴대전화\) "wikilink") CM송
+        이 곡의 특징은 가사가 [영어](../Page/영어.md "wikilink")와 [일본어](../Page/일본어.md "wikilink") 2개 있다는 것. [소라미미](https://ko.wikipedia.org/wiki/소라미미 "wikilink")\[1\]를 이용해 일본어로 부르는 것 처럼 들리지만 잘 들어보면 전부 영어로 되어 있다.
+        [Konami社의](../Page/코나미.md "wikilink") [유비트](../Page/유비트.md "wikilink")라는 리듬게임에 수록되기도 하였다.
 3.  communication
 4.  CLM
 5.  パーティーキャロネイド

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [USL  2](https://ko.wikipedia.org/wiki/USL__2).
 
 
-**USL 리그 2**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 4부 리그이다. 참가팀들은 대부분 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink"), [버뮤다](https://ko.wikipedia.org/wiki/버뮤다 "wikilink") (단 한 팀)의 팀이며, 상위 리그인 [USL 리그 1과의](https://ko.wikipedia.org/wiki/USL_리그_1 "wikilink") 승강제는 없다. 2010년에는 [포틀랜드 팀버스 U23's가](https://ko.wikipedia.org/wiki/포틀랜드_팀버스 "wikilink") 전 경기 무패로 우승을 달성하기도 하였다. 과거 프리미어 디벨럽먼트 리그라는 명칭으로 불렸었다.
+**USL 리그 2**는 [미국](../Page/미국.md "wikilink") [축구](../Page/축구.md "wikilink") 4부 리그이다. 참가팀들은 대부분 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink"), [버뮤다](../Page/버뮤다.md "wikilink") (단 한 팀)의 팀이며, 상위 리그인 [USL 리그 1과의](https://ko.wikipedia.org/wiki/USL_리그_1 "wikilink") 승강제는 없다. 2010년에는 [포틀랜드 팀버스 U23's가](../Page/포틀랜드_팀버스.md "wikilink") 전 경기 무패로 우승을 달성하기도 하였다. 과거 프리미어 디벨럽먼트 리그라는 명칭으로 불렸었다.
 
 ## 2011년의 팀들
 
 ### 센트럴 콘퍼런스
 
-과거에는 미드웨스트 디비전도 있었으나 사라졌다. 참가 자격은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 경우, [몬태나주](https://ko.wikipedia.org/wiki/몬태나주 "wikilink") 동부, [와이오밍주](https://ko.wikipedia.org/wiki/와이오밍주 "wikilink") 동부, [콜로라도주](https://ko.wikipedia.org/wiki/콜로라도주 "wikilink") 동부, [노스다코타주](https://ko.wikipedia.org/wiki/노스다코타주 "wikilink"), [사우스다코타주](https://ko.wikipedia.org/wiki/사우스다코타주 "wikilink"), [네브래스카주](https://ko.wikipedia.org/wiki/네브래스카주 "wikilink"), [캔자스주](https://ko.wikipedia.org/wiki/캔자스주 "wikilink"), [미네소타주](https://ko.wikipedia.org/wiki/미네소타주 "wikilink"), [아이오와주](https://ko.wikipedia.org/wiki/아이오와주 "wikilink"), [미주리주](https://ko.wikipedia.org/wiki/미주리주 "wikilink"), [인디애나주](https://ko.wikipedia.org/wiki/인디애나주 "wikilink"), [위스콘신주](https://ko.wikipedia.org/wiki/위스콘신주 "wikilink"), [오하이오주](https://ko.wikipedia.org/wiki/오하이오주 "wikilink"), [일리노이주](https://ko.wikipedia.org/wiki/일리노이주 "wikilink"), [미시간주](https://ko.wikipedia.org/wiki/미시간주 "wikilink"), [켄터키주](https://ko.wikipedia.org/wiki/켄터키주 "wikilink")의 팀에게 주어진다.
+과거에는 미드웨스트 디비전도 있었으나 사라졌다. 참가 자격은 [미국](../Page/미국.md "wikilink")의 경우, [몬태나주](../Page/몬태나주.md "wikilink") 동부, [와이오밍주](../Page/와이오밍주.md "wikilink") 동부, [콜로라도주](../Page/콜로라도주.md "wikilink") 동부, [노스다코타주](../Page/노스다코타주.md "wikilink"), [사우스다코타주](https://ko.wikipedia.org/wiki/사우스다코타주 "wikilink"), [네브래스카주](../Page/네브래스카주.md "wikilink"), [캔자스주](../Page/캔자스주.md "wikilink"), [미네소타주](../Page/미네소타주.md "wikilink"), [아이오와주](../Page/아이오와주.md "wikilink"), [미주리주](../Page/미주리주.md "wikilink"), [인디애나주](../Page/인디애나주.md "wikilink"), [위스콘신주](../Page/위스콘신주.md "wikilink"), [오하이오주](../Page/오하이오주.md "wikilink"), [일리노이주](../Page/일리노이주.md "wikilink"), [미시간주](../Page/미시간주.md "wikilink"), [켄터키주](../Page/켄터키주.md "wikilink")의 팀에게 주어진다.
 
 #### 그레이트 레이크 디비전
 
@@ -47,7 +47,7 @@
 
 ### 이스턴 콘퍼런스
 
-과거에는 뉴잉글랜드 디비전도 있었다. 참가 자격은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 경우 [노스캐롤라이나주](https://ko.wikipedia.org/wiki/노스캐롤라이나주 "wikilink"), [버지니아주](https://ko.wikipedia.org/wiki/버지니아주 "wikilink"), [웨스트버지니아주](https://ko.wikipedia.org/wiki/웨스트버지니아주 "wikilink"), [워싱턴 DC](https://ko.wikipedia.org/wiki/워싱턴_DC "wikilink"), [메릴랜드주](https://ko.wikipedia.org/wiki/메릴랜드주 "wikilink"), [델라웨어주](https://ko.wikipedia.org/wiki/델라웨어주 "wikilink"), [펜실베이니아주](https://ko.wikipedia.org/wiki/펜실베이니아주 "wikilink"), [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink"), [뉴욕주](https://ko.wikipedia.org/wiki/뉴욕주 "wikilink"), [코네티컷주](https://ko.wikipedia.org/wiki/코네티컷주 "wikilink"), [로드아일랜드주](https://ko.wikipedia.org/wiki/로드아일랜드주 "wikilink"), [매사추세츠주](https://ko.wikipedia.org/wiki/매사추세츠주 "wikilink"), [버몬트주](https://ko.wikipedia.org/wiki/버몬트주 "wikilink"), [뉴햄프셔주](https://ko.wikipedia.org/wiki/뉴햄프셔주 "wikilink"), [메인주](https://ko.wikipedia.org/wiki/메인주 "wikilink")의 팀에게 주어진다.
+과거에는 뉴잉글랜드 디비전도 있었다. 참가 자격은 [미국](../Page/미국.md "wikilink")의 경우 [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink"), [버지니아주](../Page/버지니아주.md "wikilink"), [웨스트버지니아주](../Page/웨스트버지니아주.md "wikilink"), [워싱턴 DC](https://ko.wikipedia.org/wiki/워싱턴_DC "wikilink"), [메릴랜드주](../Page/메릴랜드주.md "wikilink"), [델라웨어주](../Page/델라웨어주.md "wikilink"), [펜실베이니아주](../Page/펜실베이니아주.md "wikilink"), [뉴저지주](../Page/뉴저지주.md "wikilink"), [뉴욕주](../Page/뉴욕주.md "wikilink"), [코네티컷주](../Page/코네티컷주.md "wikilink"), [로드아일랜드주](../Page/로드아일랜드주.md "wikilink"), [매사추세츠주](../Page/매사추세츠주.md "wikilink"), [버몬트주](../Page/버몬트주.md "wikilink"), [뉴햄프셔주](../Page/뉴햄프셔주.md "wikilink"), [메인주](../Page/메인주.md "wikilink")의 팀에게 주어진다.
 
 #### 미드 애틀랜틱 디비전
 
@@ -97,7 +97,7 @@
 
 ### 서던 콘퍼런스
 
-참가 자격은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 경우 [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink"), [오클라호마주](https://ko.wikipedia.org/wiki/오클라호마주 "wikilink"), [루이지애나주](https://ko.wikipedia.org/wiki/루이지애나주 "wikilink"), [아칸소주](https://ko.wikipedia.org/wiki/아칸소주 "wikilink"), [미시시피주](https://ko.wikipedia.org/wiki/미시시피주 "wikilink"), [앨라배마주](https://ko.wikipedia.org/wiki/앨라배마주 "wikilink"), [테네시주](https://ko.wikipedia.org/wiki/테네시주 "wikilink"), [조지아주](https://ko.wikipedia.org/wiki/조지아주 "wikilink"), [사우스캐롤라이나주](https://ko.wikipedia.org/wiki/사우스캐롤라이나주 "wikilink"), [플로리다주](https://ko.wikipedia.org/wiki/플로리다주 "wikilink")의 팀에게 주어진다.
+참가 자격은 [미국](../Page/미국.md "wikilink")의 경우 [텍사스주](../Page/텍사스주.md "wikilink"), [오클라호마주](../Page/오클라호마주.md "wikilink"), [루이지애나주](../Page/루이지애나주.md "wikilink"), [아칸소주](../Page/아칸소주.md "wikilink"), [미시시피주](../Page/미시시피주.md "wikilink"), [앨라배마주](../Page/앨라배마주.md "wikilink"), [테네시주](../Page/테네시주.md "wikilink"), [조지아주](../Page/조지아주.md "wikilink"), [사우스캐롤라이나주](../Page/사우스캐롤라이나주.md "wikilink"), [플로리다주](../Page/플로리다주.md "wikilink")의 팀에게 주어진다.
 
 #### 미드 사우스 디비전
 
@@ -129,13 +129,13 @@
 
 ### 웨스턴 콘퍼런스
 
-참가 자격은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 경우 [하와이주](https://ko.wikipedia.org/wiki/하와이주 "wikilink"), [알래스카주](https://ko.wikipedia.org/wiki/알래스카주 "wikilink"), [뉴멕시코주](https://ko.wikipedia.org/wiki/뉴멕시코주 "wikilink"), [네바다주](https://ko.wikipedia.org/wiki/네바다주 "wikilink"), [애리조나주](https://ko.wikipedia.org/wiki/애리조나주 "wikilink"), [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink"), [하와이주](https://ko.wikipedia.org/wiki/하와이주 "wikilink"), [몬태나주](https://ko.wikipedia.org/wiki/몬태나주 "wikilink") 서부, [와이오밍주](https://ko.wikipedia.org/wiki/와이오밍주 "wikilink") 서부, [콜로라도주](https://ko.wikipedia.org/wiki/콜로라도주 "wikilink") 서부, [워싱턴주](https://ko.wikipedia.org/wiki/워싱턴주 "wikilink"), [아이다호주](https://ko.wikipedia.org/wiki/아이다호주 "wikilink"), [오리건주](https://ko.wikipedia.org/wiki/오리건주 "wikilink")의 팀에게 주어진다.
+참가 자격은 [미국](../Page/미국.md "wikilink")의 경우 [하와이주](../Page/하와이주.md "wikilink"), [알래스카주](../Page/알래스카주.md "wikilink"), [뉴멕시코주](../Page/뉴멕시코주.md "wikilink"), [네바다주](../Page/네바다주.md "wikilink"), [애리조나주](../Page/애리조나주.md "wikilink"), [캘리포니아주](../Page/캘리포니아주.md "wikilink"), [하와이주](../Page/하와이주.md "wikilink"), [몬태나주](../Page/몬태나주.md "wikilink") 서부, [와이오밍주](../Page/와이오밍주.md "wikilink") 서부, [콜로라도주](../Page/콜로라도주.md "wikilink") 서부, [워싱턴주](../Page/워싱턴주.md "wikilink"), [아이다호주](../Page/아이다호주.md "wikilink"), [오리건주](../Page/오리건주.md "wikilink")의 팀에게 주어진다.
 
 #### 노스웨스트 디비전
 
   - [애버츠퍼드 매리너스](https://ko.wikipedia.org/wiki/애버츠퍼드_매리너스 "wikilink")
 
-  - [밴쿠버 화이트캡스 레지던시](https://ko.wikipedia.org/wiki/밴쿠버_화이트캡스_FC "wikilink")
+  - [밴쿠버 화이트캡스 레지던시](../Page/밴쿠버_화이트캡스_FC.md "wikilink")
 
   - [빅토리아 하이랜더스](https://ko.wikipedia.org/wiki/빅토리아_하이랜더스 "wikilink")
 
@@ -147,7 +147,7 @@
 
   - [킷샙 퓨마스](https://ko.wikipedia.org/wiki/킷샙_퓨마스 "wikilink")
 
-  - [포틀랜드 팀버스 U23's](https://ko.wikipedia.org/wiki/포틀랜드_팀버스 "wikilink")
+  - [포틀랜드 팀버스 U23's](../Page/포틀랜드_팀버스.md "wikilink")
 
 #### 사우스웨스트 디비전
 

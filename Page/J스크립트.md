@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [J](https://ko.wikipedia.org/wiki/J).
 
 
-**J스크립트**(JScript)는 [ECMA스크립트](https://ko.wikipedia.org/wiki/ECMA스크립트 "wikilink") 표준에 기반을 둔 스크립팅 언어이며 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")사의 [인터넷 익스플로러에](https://ko.wikipedia.org/wiki/인터넷_익스플로러 "wikilink") 쓰인다.
+**J스크립트**(JScript)는 [ECMA스크립트](../Page/ECMA스크립트.md "wikilink") 표준에 기반을 둔 스크립팅 언어이며 [마이크로소프트](../Page/마이크로소프트.md "wikilink")사의 [인터넷 익스플로러에](../Page/인터넷_익스플로러.md "wikilink") 쓰인다.
 
-J스크립트는 [윈도우 스크립트](https://ko.wikipedia.org/wiki/윈도우_스크립트 "wikilink") 엔진으로 추가된다. 다시 말해 윈도우 스크립트를 지원하는 어떠한 응용 프로그램(이를테면 [인터넷 익스플로러](https://ko.wikipedia.org/wiki/인터넷_익스플로러 "wikilink"), [액티브 서버 페이지](../Page/액티브_서버_페이지.md "wikilink"), [윈도우 스크립트 호스트](https://ko.wikipedia.org/wiki/윈도우_스크립트_호스트 "wikilink"))에도 이 기능을 사용할 수 있다는 뜻이다. 또, 윈도우 스크립트를 지원하는 어떠한 응용 프로그램이라도 J스크립트, [VB스크립트](../Page/VB스크립트.md "wikilink"), [펄](https://ko.wikipedia.org/wiki/펄 "wikilink")과 같은 여러 언어를 사용할 수 있다는 뜻이다.
+J스크립트는 [윈도우 스크립트](https://ko.wikipedia.org/wiki/윈도우_스크립트 "wikilink") 엔진으로 추가된다. 다시 말해 윈도우 스크립트를 지원하는 어떠한 응용 프로그램(이를테면 [인터넷 익스플로러](../Page/인터넷_익스플로러.md "wikilink"), [액티브 서버 페이지](../Page/액티브_서버_페이지.md "wikilink"), [윈도우 스크립트 호스트](../Page/윈도우_스크립트_호스트.md "wikilink"))에도 이 기능을 사용할 수 있다는 뜻이다. 또, 윈도우 스크립트를 지원하는 어떠한 응용 프로그램이라도 J스크립트, [VB스크립트](../Page/VB스크립트.md "wikilink"), [펄](../Page/펄.md "wikilink")과 같은 여러 언어를 사용할 수 있다는 뜻이다.
 
 J스크립트는 1996년 8월에 출시된 [인터넷 익스플로러 3.0](../Page/인터넷_익스플로러_3.md "wikilink") 브라우저에서 처음 지원되었다. 최근에 나온 버전은 인터넷 익스플로러 8에 포함된 J스크립트 5.8이다.
 
 ## 같이 보기
 
-  - [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")
+  - [자바스크립트](../Page/자바스크립트.md "wikilink")
   - [액티브 스크립팅](https://ko.wikipedia.org/wiki/액티브_스크립팅 "wikilink")
-  - [ECMA스크립트](https://ko.wikipedia.org/wiki/ECMA스크립트 "wikilink"): [ECMA 인터내셔널](https://ko.wikipedia.org/wiki/ECMA_인터내셔널 "wikilink") 언어 정의 표준
+  - [ECMA스크립트](../Page/ECMA스크립트.md "wikilink"): [ECMA 인터내셔널](https://ko.wikipedia.org/wiki/ECMA_인터내셔널 "wikilink") 언어 정의 표준
   - [윈도우 스크립트 파일](https://ko.wikipedia.org/wiki/윈도우_스크립트_파일 "wikilink")
-  - [윈도우 스크립트 호스트](https://ko.wikipedia.org/wiki/윈도우_스크립트_호스트 "wikilink")
+  - [윈도우 스크립트 호스트](../Page/윈도우_스크립트_호스트.md "wikilink")
 
 ## 각주
 

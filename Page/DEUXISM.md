@@ -5,10 +5,10 @@
 
 ## 수록곡
 
-  - 전체 작사·작곡·편곡: [이현도](https://ko.wikipedia.org/wiki/이현도 "wikilink")
+  - 전체 작사·작곡·편곡: [이현도](../Page/이현도.md "wikilink")
 
 ## 외부 링크
 
-  - [84위 듀스 《Deuxism》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200806191731505&code=900307&s_code=at031) [경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink")
+  - [84위 듀스 《Deuxism》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200806191731505&code=900307&s_code=at031) [경향신문](../Page/경향신문.md "wikilink")
 
 [분류:1993년 음반](https://ko.wikipedia.org/wiki/분류:1993년_음반 "wikilink") [분류:듀스의 음반](https://ko.wikipedia.org/wiki/분류:듀스의_음반 "wikilink") [분류:지구레코드의 음반](https://ko.wikipedia.org/wiki/분류:지구레코드의_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink")

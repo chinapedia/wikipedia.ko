@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Myself \( \)](https://ko.wikipedia.org/wiki/Myself_\(_\)).
 
 
-《**Myself**》는 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 가수 [채의림](../Page/채의림.md "wikilink")의 11번째 정규 앨범이다. 타이완에서는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") 발매되었다.
+《**Myself**》는 [중화민국](../Page/중화민국.md "wikilink")의 가수 [채의림](../Page/채의림.md "wikilink")의 11번째 정규 앨범이다. 타이완에서는 [2010년](../Page/2010년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") 발매되었다.
 
 ## 수록곡
 

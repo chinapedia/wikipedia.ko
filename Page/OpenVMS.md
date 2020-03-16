@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [OpenVMS](https://ko.wikipedia.org/wiki/OpenVMS).
 
 
-**OpenVMS**(Open Virtual Memory System\[1\], <small>이전 이름: VAX-11/VMS, VAX/VMS, VMS</small>)는 [VAX](../Page/VAX.md "wikilink"), [알파](../Page/DEC_알파.md "wikilink"), [아이테니엄](../Page/아이테니엄.md "wikilink") 기반 계열의 컴퓨터에서 동작하는 고성능 [서버](https://ko.wikipedia.org/wiki/서버 "wikilink") [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink").\[2\]\[3\]\[4\] 이름에서 "오픈"(open)이라는 낱말이 들어가 있지만 OpenVMS는 [오픈 소스 소프트웨어가](../Page/오픈_소스_소프트웨어.md "wikilink") 아니다. 그러나 구매를 하면 소스 목록 작성을 이용할 수 있다.\[5\] 다른 일부 메인프레임 지향 운영 체제와 달리 OpenVMS는 완전한 그래픽을 지원하는 [그래픽 사용자 인터페이스](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink")(GUI)가 있다. [디지털 이큅먼트 코퍼레이션](https://ko.wikipedia.org/wiki/디지털_이큅먼트_코퍼레이션 "wikilink")(DEC)의 VAX는 1980년대와 1990년대에 가장 잘 팔리는 3대 워크스테이션 가운데 하나였다. VMS는 전문 DTP와 CAE 소프트웨어 실행을 지원하였다. ([VAXstation](https://ko.wikipedia.org/wiki/VAXstation "wikilink") 참고) [AXP VMS는](../Page/DEC_알파.md "wikilink") [OpenGL](../Page/OpenGL.md "wikilink")\[6\] 및 [가속 그래픽 포트](../Page/가속_그래픽_포트.md "wikilink")(AGP) 그래픽 어댑터를 지원하였다. 가정에서의 취미용으로뿐 아니라 교육용\[7\]으로도 쓰였다.
+**OpenVMS**(Open Virtual Memory System\[1\], <small>이전 이름: VAX-11/VMS, VAX/VMS, VMS</small>)는 [VAX](../Page/VAX.md "wikilink"), [알파](../Page/DEC_알파.md "wikilink"), [아이테니엄](../Page/아이테니엄.md "wikilink") 기반 계열의 컴퓨터에서 동작하는 고성능 [서버](../Page/서버.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink").\[2\]\[3\]\[4\] 이름에서 "오픈"(open)이라는 낱말이 들어가 있지만 OpenVMS는 [오픈 소스 소프트웨어가](../Page/오픈_소스_소프트웨어.md "wikilink") 아니다. 그러나 구매를 하면 소스 목록 작성을 이용할 수 있다.\[5\] 다른 일부 메인프레임 지향 운영 체제와 달리 OpenVMS는 완전한 그래픽을 지원하는 [그래픽 사용자 인터페이스](../Page/그래픽_사용자_인터페이스.md "wikilink")(GUI)가 있다. [디지털 이큅먼트 코퍼레이션](../Page/디지털_이큅먼트_코퍼레이션.md "wikilink")(DEC)의 VAX는 1980년대와 1990년대에 가장 잘 팔리는 3대 워크스테이션 가운데 하나였다. VMS는 전문 DTP와 CAE 소프트웨어 실행을 지원하였다. ([VAXstation](https://ko.wikipedia.org/wiki/VAXstation "wikilink") 참고) [AXP VMS는](../Page/DEC_알파.md "wikilink") [OpenGL](../Page/OpenGL.md "wikilink")\[6\] 및 [가속 그래픽 포트](../Page/가속_그래픽_포트.md "wikilink")(AGP) 그래픽 어댑터를 지원하였다. 가정에서의 취미용으로뿐 아니라 교육용\[7\]으로도 쓰였다.
 
-OpenVMS는 [다중 사용자](https://ko.wikipedia.org/wiki/다중_사용자 "wikilink"), [다중 처리](https://ko.wikipedia.org/wiki/멀티프로세서 "wikilink"), [가상 메모리](https://ko.wikipedia.org/wiki/가상_메모리 "wikilink") 기반 운영 체제이며 [시분할](https://ko.wikipedia.org/wiki/시분할 "wikilink"), [일괄 처리](../Page/일괄_처리.md "wikilink"), [실시간](https://ko.wikipedia.org/wiki/실시간 "wikilink") (프로세스 우선 순위는 OS 커널의 것보다 더 높게 설정할 수 있다), [트랜잭션 처리를](../Page/트랜잭션_처리.md "wikilink") 목적으로 개발되었다. [클러스터링을](https://ko.wikipedia.org/wiki/컴퓨터_클러스터 "wikilink") 통한 높은 시스템 [가용성](https://ko.wikipedia.org/wiki/가용성 "wikilink")을, 또 여러 대의 컴퓨터에 대한 시스템 배포 기능을 제공한다. 이는 시스템이 개별 데이터 처리 시설을 마비시키는 자연 재해를 막을 수 있게 한다.\[8\] 또, VMS는 실시간 프로세스가 방해를 받지 않은 채로 실행할 수 있도록 프로세스 우선 순위 시스템을 포함하고 있으며 사용자 프로세스는 필요한 경우 일시적인 우선 순위 "가속"을 가질 수 있다.\[9\]\[10\]\[11\]
+OpenVMS는 [다중 사용자](https://ko.wikipedia.org/wiki/다중_사용자 "wikilink"), [다중 처리](https://ko.wikipedia.org/wiki/멀티프로세서 "wikilink"), [가상 메모리](../Page/가상_메모리.md "wikilink") 기반 운영 체제이며 [시분할](https://ko.wikipedia.org/wiki/시분할 "wikilink"), [일괄 처리](../Page/일괄_처리.md "wikilink"), [실시간](https://ko.wikipedia.org/wiki/실시간 "wikilink") (프로세스 우선 순위는 OS 커널의 것보다 더 높게 설정할 수 있다), [트랜잭션 처리를](../Page/트랜잭션_처리.md "wikilink") 목적으로 개발되었다. [클러스터링을](../Page/컴퓨터_클러스터.md "wikilink") 통한 높은 시스템 [가용성](https://ko.wikipedia.org/wiki/가용성 "wikilink")을, 또 여러 대의 컴퓨터에 대한 시스템 배포 기능을 제공한다. 이는 시스템이 개별 데이터 처리 시설을 마비시키는 자연 재해를 막을 수 있게 한다.\[8\] 또, VMS는 실시간 프로세스가 방해를 받지 않은 채로 실행할 수 있도록 프로세스 우선 순위 시스템을 포함하고 있으며 사용자 프로세스는 필요한 경우 일시적인 우선 순위 "가속"을 가질 수 있다.\[9\]\[10\]\[11\]
 
 OpenVMS는 지금은 고성능 서버 운영 체제에 표준적인 요구 사항으로 여겨지는 수많은 기능을 상용화하였는데 이를테면 다음과 같다.
 
   - 통합 컴퓨터 네트워킹 (원래 [DECnet](https://ko.wikipedia.org/wiki/DECnet "wikilink")이었으나 나중에 [TCP/IP](https://ko.wikipedia.org/wiki/TCP/IP "wikilink"))\[12\]
-  - 클러스터링을 포함한 대칭, 비대칭, [NUMA](https://ko.wikipedia.org/wiki/불균일_기억_장치_접근 "wikilink") 다중 처리\[13\]
-  - 분산 [파일 시스템](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") ([Files-11](https://ko.wikipedia.org/wiki/Files-11 "wikilink"))\[14\]
-  - [RMS](https://ko.wikipedia.org/wiki/RMS "wikilink")와 같은 통합 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink") 기능\[15\]과 [Rdb를](https://ko.wikipedia.org/wiki/오라클_Rdb "wikilink") 포함한 계층화된 데이터베이스\[16\]
-  - 다중 컴퓨터 [프로그래밍 언어](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink") 지원\[17\]\[18\]
+  - 클러스터링을 포함한 대칭, 비대칭, [NUMA](../Page/불균일_기억_장치_접근.md "wikilink") 다중 처리\[13\]
+  - 분산 [파일 시스템](../Page/파일_시스템.md "wikilink") ([Files-11](https://ko.wikipedia.org/wiki/Files-11 "wikilink"))\[14\]
+  - [RMS](https://ko.wikipedia.org/wiki/RMS "wikilink")와 같은 통합 [데이터베이스](../Page/데이터베이스.md "wikilink") 기능\[15\]과 [Rdb를](https://ko.wikipedia.org/wiki/오라클_Rdb "wikilink") 포함한 계층화된 데이터베이스\[16\]
+  - 다중 컴퓨터 [프로그래밍 언어](../Page/프로그래밍_언어.md "wikilink") 지원\[17\]\[18\]
   - 다른 프로그래밍 언어 사이의 호출을 지원하는 표준화된 상호 운용성 매커니즘\[19\]
-  - 확장 [셸](https://ko.wikipedia.org/wiki/셸 "wikilink") 명령 언어 ([디지털 명령 언어](https://ko.wikipedia.org/wiki/디지털_명령_언어 "wikilink"))\[20\]\[21\]
+  - 확장 [셸](../Page/셸.md "wikilink") 명령 언어 ([디지털 명령 언어](https://ko.wikipedia.org/wiki/디지털_명령_언어 "wikilink"))\[20\]\[21\]
   - 다중 프로세서의 하드웨어 파티션 분할\[22\]
   - 높은 수준의 보안\[23\]\[24\]\[25\]\[26\]
 

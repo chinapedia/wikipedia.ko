@@ -3,14 +3,14 @@
 
 **GOM 클래식**(Gom Classic)은 곰앤컴퍼니의 주최로 진행되는 리그이다.
 
-곰앤컴퍼니는 2008년 경 **곰TV 클래식**(GomTV Classic)을 개최했다. 블리자드가 공식 후원을 하고 곰TV의 주최로 진행된 리그이며 KeSPA와 온게임넷, MBC게임과의 협상 합의 전까지 블리자드로부터 공식 인증을 받은 유일한 리그였다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 곰TV 스타 인비테이셔널부터 시작하여, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") TG삼보-인텔 클래식 시즌3까지 진행되었다.
+곰앤컴퍼니는 2008년 경 **곰TV 클래식**(GomTV Classic)을 개최했다. 블리자드가 공식 후원을 하고 곰TV의 주최로 진행된 리그이며 KeSPA와 온게임넷, MBC게임과의 협상 합의 전까지 블리자드로부터 공식 인증을 받은 유일한 리그였다. [2008년](../Page/2008년.md "wikilink")에 곰TV 스타 인비테이셔널부터 시작하여, [2009년](../Page/2009년.md "wikilink") TG삼보-인텔 클래식 시즌3까지 진행되었다.
 
 2014년 1월 6일 곰앤컴퍼니는 스타크래프트 브루드 워 리그를 재개최, 리그 이름을 위메프 GOM 클래식 시즌4로 명하여 진행한다고 발표하였다.
 
 ## 역대 클래식
 
-  - [XNOTE-인텔센트리노 곰TV 스타 인비테이셔널](https://ko.wikipedia.org/wiki/XNOTE-인텔센트리노_곰TV_스타_인비테이셔널 "wikilink")
-  - 곰TV [TG삼보-인텔 클래식 시즌1](https://ko.wikipedia.org/wiki/TG삼보-인텔_클래식_시즌1 "wikilink")
+  - [XNOTE-인텔센트리노 곰TV 스타 인비테이셔널](../Page/XNOTE-인텔센트리노_곰TV_스타_인비테이셔널.md "wikilink")
+  - 곰TV [TG삼보-인텔 클래식 시즌1](../Page/TG삼보-인텔_클래식_시즌1.md "wikilink")
   - 곰TV [TG삼보-인텔 클래식 시즌2](https://ko.wikipedia.org/wiki/TG삼보-인텔_클래식_시즌2 "wikilink")
   - 곰TV [TG삼보-인텔 클래식 시즌3](https://ko.wikipedia.org/wiki/TG삼보-인텔_클래식_시즌3 "wikilink")
   - [위메프 GOM 클래식 시즌 4](../Page/위메프_GOM_클래식_시즌_4.md "wikilink")

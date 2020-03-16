@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
 
 
-《**랑그릿사II**》는 [랑그릿사](https://ko.wikipedia.org/wiki/랑그릿사 "wikilink")의 후속작이며 [랑그릿사](https://ko.wikipedia.org/wiki/랑그릿사 "wikilink") 시리즈의 두 번째 작품이다. [랑그릿사](https://ko.wikipedia.org/wiki/랑그릿사 "wikilink") 시리즈중 가장 인기가 많고 많이 알려져 있는 작품이다. [랑그릿사 II는](https://ko.wikipedia.org/wiki/랑그릿사_II "wikilink") [슈퍼패미컴](https://ko.wikipedia.org/wiki/슈퍼패미컴 "wikilink")으로 작동하는 [데어 랑그릿사로](https://ko.wikipedia.org/wiki/데어_랑그릿사 "wikilink") 리메이크 되기도 했다.
+《**랑그릿사II**》는 [랑그릿사](../Page/랑그릿사.md "wikilink")의 후속작이며 [랑그릿사](../Page/랑그릿사.md "wikilink") 시리즈의 두 번째 작품이다. [랑그릿사](../Page/랑그릿사.md "wikilink") 시리즈중 가장 인기가 많고 많이 알려져 있는 작품이다. [랑그릿사 II는](../Page/랑그릿사_II.md "wikilink") [슈퍼패미컴](https://ko.wikipedia.org/wiki/슈퍼패미컴 "wikilink")으로 작동하는 [데어 랑그릿사로](https://ko.wikipedia.org/wiki/데어_랑그릿사 "wikilink") 리메이크 되기도 했다.
 
 ## 스토리
 
@@ -21,7 +21,7 @@
 
 ### 빛의 군세
 
-  - 엘윈(Elwin) (성우 - [쿠사오 타케시](https://ko.wikipedia.org/wiki/쿠사오_타케시 "wikilink") / [강수진](https://ko.wikipedia.org/wiki/강수진_\(남자_성우\) "wikilink"))
+  - 엘윈(Elwin) (성우 - [쿠사오 타케시](https://ko.wikipedia.org/wiki/쿠사오_타케시 "wikilink") / [강수진](../Page/강수진_\(남자_성우\).md "wikilink"))
     랑그릿사 II의 주인공. 원래 양부와 함께 살고 있었지만 마족이 양부를 살해하는 바람에 복수를 위해 여행을 떠나게 된다. 데어 랑그릿사에서는 선택지에 따라 엘윈이 계속 빛의 후예로 갈것인지(빛의 군세편), 제국의 편을 설것인지(제국의 이상편), 마족 세력과 손을 잡을것인지(어둠의 전설편), 모든 세력을 배신하고 독립할 것인지(패왕의 길편) 여러가지 루트로 게임을 진행시킬 수 있다. 또한, 1998년에 출시된 드라마틱 에디션에서는 패도의 길과 제국 화친 루트가 추가되었다.
 
   - 헤인(Hein) (성우 - [야마구치 캇페이](../Page/야마구치_캇페이.md "wikilink"))

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hurricane Venus](https://ko.wikipedia.org/wiki/Hurricane_Venus).
 
 
-《**Hurricane Venus**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 한국 정규 6집 앨범이다.
+《**Hurricane Venus**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [보아](../Page/보아.md "wikilink")의 한국 정규 6집 앨범이다.
 
 ## 발자취
 
@@ -267,14 +267,14 @@ Hurricane Venus</p></td>
 
 ## 발매일
 
-| 국가          | 일정                                                     | 레이블                                                       | 포맷                                                           |
-| ----------- | ------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
-| 대한민국\[2\]   | 2010년 8월 2일                                            | [KMP홀딩스](https://ko.wikipedia.org/wiki/KMP홀딩스 "wikilink") | [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") |
-| 2010년 8월 5일 | [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") |                                                           |                                                              |
-| 홍콩          | 2010년 9월 10일                                           | Avex Asia Ltd.                                            |                                                              |
-| 타이완         | 2010년 9월 17일                                           | Avex Taiwan Inc                                           |                                                              |
-| 타이          | 2010년 10월 15일                                          | Avex Asia Ltd.                                            |                                                              |
-|             |                                                        |                                                           |                                                              |
+| 국가          | 일정                                  | 레이블                                                       | 포맷                                                           |
+| ----------- | ----------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| 대한민국\[2\]   | 2010년 8월 2일                         | [KMP홀딩스](https://ko.wikipedia.org/wiki/KMP홀딩스 "wikilink") | [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") |
+| 2010년 8월 5일 | [CD](../Page/콤팩트_디스크.md "wikilink") |                                                           |                                                              |
+| 홍콩          | 2010년 9월 10일                        | Avex Asia Ltd.                                            |                                                              |
+| 타이완         | 2010년 9월 17일                        | Avex Taiwan Inc                                           |                                                              |
+| 타이          | 2010년 10월 15일                       | Avex Asia Ltd.                                            |                                                              |
+|             |                                     |                                                           |                                                              |
 
 ## 각주
 

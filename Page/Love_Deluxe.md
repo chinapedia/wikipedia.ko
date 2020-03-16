@@ -25,8 +25,8 @@
 
   - [샤데이 아두](../Page/샤데이_아두.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
   - 앤드루 헤일 – [건반](https://ko.wikipedia.org/wiki/키보드 "wikilink")
-  - 스튜어트 메튜맨 – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [섹소폰](https://ko.wikipedia.org/wiki/섹소폰 "wikilink")
-  - 폴 S. 덴만 – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 스튜어트 메튜맨 – [기타](../Page/기타.md "wikilink"), [섹소폰](https://ko.wikipedia.org/wiki/섹소폰 "wikilink")
+  - 폴 S. 덴만 – [베이스](../Page/베이스_기타.md "wikilink")
 
 <!-- end list -->
 
@@ -36,12 +36,12 @@
 
   - 마틴 디쳄– [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), [퍼커션](https://ko.wikipedia.org/wiki/퍼커션 "wikilink")
   - 르로이 오스본 – 백 보컬
-  - [앤토니 플리트](https://ko.wikipedia.org/wiki/앤토니_플리트 "wikilink") – [첼로](https://ko.wikipedia.org/wiki/첼로 "wikilink")
+  - [앤토니 플리트](https://ko.wikipedia.org/wiki/앤토니_플리트 "wikilink") – [첼로](../Page/첼로.md "wikilink")
   - [가빈 라이트](https://ko.wikipedia.org/wiki/가빈_라이트 "wikilink") – [오케스트라 리더](https://ko.wikipedia.org/wiki/콘서트마스터 "wikilink")
 
 ### 프로덕션
 
-  - 샤데이 아두 – [레코딩 프로듀서](https://ko.wikipedia.org/wiki/레코딩_프로듀서 "wikilink"), [편곡](https://ko.wikipedia.org/wiki/편곡 "wikilink")
+  - 샤데이 아두 – [레코딩 프로듀서](https://ko.wikipedia.org/wiki/레코딩_프로듀서 "wikilink"), [편곡](../Page/편곡.md "wikilink")
   - 마이크 펠라 – 프로듀서, [오디오 엔지니어](https://ko.wikipedia.org/wiki/오디오_엔지니어 "wikilink")
   - [크리스 로드 알지](https://ko.wikipedia.org/wiki/크리스_로드_알지 "wikilink") – 엔지니어, [믹싱](https://ko.wikipedia.org/wiki/오디오_믹싱 "wikilink")
   - 샌드로 프랜신 – 보조 엔지니어

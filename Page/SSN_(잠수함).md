@@ -7,7 +7,7 @@
 
 ## 역사
 
-미국 해군은 [LA급 잠수함](https://ko.wikipedia.org/wiki/LA급_잠수함 "wikilink")(SSN) 이래 20년이 넘도록, 잠수함에 원자력 추진만을 사용했다. 주임무는 항공모함 함대를 보호하고, 미국을 향해 핵미사일을 발사하기 전에 소련의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")을 찾아서 격침하는 것이었다. 러시아판 [LA급 잠수함](https://ko.wikipedia.org/wiki/LA급_잠수함 "wikilink")(SSN)은 [아쿨라급 잠수함이다](https://ko.wikipedia.org/wiki/아쿨라급_잠수함 "wikilink"). 2010년 현재, 미국은 [LA급 잠수함의](https://ko.wikipedia.org/wiki/LA급_잠수함 "wikilink") 후속형으로 [버지니아급 잠수함을](https://ko.wikipedia.org/wiki/버지니아급_잠수함 "wikilink") 개발, 배치중이며, 이에 대응하여 러시아는 [아쿨라급 잠수함의](https://ko.wikipedia.org/wiki/아쿨라급_잠수함 "wikilink") 후속형인 [야센급 잠수함을](https://ko.wikipedia.org/wiki/야센급_잠수함 "wikilink") 개발, 배치하고 있다.
+미국 해군은 [LA급 잠수함](https://ko.wikipedia.org/wiki/LA급_잠수함 "wikilink")(SSN) 이래 20년이 넘도록, 잠수함에 원자력 추진만을 사용했다. 주임무는 항공모함 함대를 보호하고, 미국을 향해 핵미사일을 발사하기 전에 소련의 [SSBN](https://ko.wikipedia.org/wiki/SSBN "wikilink")을 찾아서 격침하는 것이었다. 러시아판 [LA급 잠수함](https://ko.wikipedia.org/wiki/LA급_잠수함 "wikilink")(SSN)은 [아쿨라급 잠수함이다](https://ko.wikipedia.org/wiki/아쿨라급_잠수함 "wikilink"). 2010년 현재, 미국은 [LA급 잠수함의](https://ko.wikipedia.org/wiki/LA급_잠수함 "wikilink") 후속형으로 [버지니아급 잠수함을](../Page/버지니아급_잠수함.md "wikilink") 개발, 배치중이며, 이에 대응하여 러시아는 [아쿨라급 잠수함의](https://ko.wikipedia.org/wiki/아쿨라급_잠수함 "wikilink") 후속형인 [야센급 잠수함을](https://ko.wikipedia.org/wiki/야센급_잠수함 "wikilink") 개발, 배치하고 있다.
 
 ## 사용중인 잠수함
 
@@ -15,7 +15,7 @@
 
   - [LA급 잠수함](https://ko.wikipedia.org/wiki/LA급_잠수함 "wikilink")
   - [시울프급 잠수함](https://ko.wikipedia.org/wiki/시울프급_잠수함 "wikilink")
-  - [버지니아급 잠수함](https://ko.wikipedia.org/wiki/버지니아급_잠수함 "wikilink")
+  - [버지니아급 잠수함](../Page/버지니아급_잠수함.md "wikilink")
 
 ### 영국
 
@@ -35,12 +35,12 @@
 ### 프랑스
 
   - [루비급 잠수함](https://ko.wikipedia.org/wiki/루비급_잠수함 "wikilink")
-  - [바라쿠다급 잠수함](https://ko.wikipedia.org/wiki/바라쿠다급_잠수함 "wikilink") - 개발중
+  - [바라쿠다급 잠수함](../Page/바라쿠다급_잠수함.md "wikilink") - 개발중
 
 ### 중국
 
   - [한급 잠수함](https://ko.wikipedia.org/wiki/한급_잠수함 "wikilink")
-  - [샹급 잠수함](https://ko.wikipedia.org/wiki/샹급_잠수함 "wikilink")
+  - [샹급 잠수함](../Page/샹급_잠수함.md "wikilink")
   - [095형 잠수함](../Page/095형_잠수함.md "wikilink") - 개발중\[2\]\[3\]
 
 ## 퇴역한 잠수함
@@ -51,7 +51,7 @@
 
 ### 러시아
 
-  - [노벰버급 잠수함](https://ko.wikipedia.org/wiki/노벰버급_잠수함 "wikilink") - 소련 최초의 핵잠수함
+  - [노벰버급 잠수함](../Page/노벰버급_잠수함.md "wikilink") - 소련 최초의 핵잠수함
 
 ### 미국
 

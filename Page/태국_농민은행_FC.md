@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**태국 농민은행 FC**(, )는 [카시콘은행](https://ko.wikipedia.org/wiki/카시콘은행 "wikilink")(전 태국 농민은행)에서 운영하던 [태국](../Page/태국.md "wikilink")의 축구 클럽이었다. [AFC 챔피언스리그의](../Page/AFC_챔피언스리그.md "wikilink") 전신인 아시안 클럽 챔피언십에서 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")과 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 총 두 차례 우승을 차지하였다. 1997년 태국을 비롯한 [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink") 국가에서 일어난 금융 위기를 계기로 경영에 어려움을 겪게 되었고 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 해체되고 만다.
+**태국 농민은행 FC**(, )는 [카시콘은행](https://ko.wikipedia.org/wiki/카시콘은행 "wikilink")(전 태국 농민은행)에서 운영하던 [태국](../Page/태국.md "wikilink")의 축구 클럽이었다. [AFC 챔피언스리그의](../Page/AFC_챔피언스리그.md "wikilink") 전신인 아시안 클럽 챔피언십에서 [1994년](../Page/1994년.md "wikilink")과 [1995년](../Page/1995년.md "wikilink") 총 두 차례 우승을 차지하였다. 1997년 태국을 비롯한 [아시아](../Page/아시아.md "wikilink") 국가에서 일어난 금융 위기를 계기로 경영에 어려움을 겪게 되었고 [2000년](../Page/2000년.md "wikilink")에 해체되고 만다.
 
 ## 우승 기록
 

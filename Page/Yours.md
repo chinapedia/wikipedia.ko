@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Yours](https://ko.wikipedia.org/wiki/Yours).
 
 
-《yours》는, 《쓰르라미 울 적에 해》의 음악을 제공했던 [dai](https://ko.wikipedia.org/wiki/dai "wikilink")가 소속한 그룹 [M.Graveyard](https://ko.wikipedia.org/wiki/M.Graveyard "wikilink")의 동인 음악 앨범이다. [쓰르라미 울 적에 해 오리지널 사운드 트랙에](https://ko.wikipedia.org/wiki/쓰르라미_울_적에_해_오리지널_사운드_트랙 "wikilink") 일부 어레인지 신곡들이 추가되었다. 전 앨범인《Thanks/you》와 같이 앨범 오리지널 곡은《[쓰르라미 울 적에](https://ko.wikipedia.org/wiki/쓰르라미_울_적에 "wikilink")》의 드라마CD에서도 BGM으로 여러번 쓰였다.
+《yours》는, 《쓰르라미 울 적에 해》의 음악을 제공했던 [dai](https://ko.wikipedia.org/wiki/dai "wikilink")가 소속한 그룹 [M.Graveyard](https://ko.wikipedia.org/wiki/M.Graveyard "wikilink")의 동인 음악 앨범이다. [쓰르라미 울 적에 해 오리지널 사운드 트랙에](https://ko.wikipedia.org/wiki/쓰르라미_울_적에_해_오리지널_사운드_트랙 "wikilink") 일부 어레인지 신곡들이 추가되었다. 전 앨범인《Thanks/you》와 같이 앨범 오리지널 곡은《[쓰르라미 울 적에](../Page/쓰르라미_울_적에.md "wikilink")》의 드라마CD에서도 BGM으로 여러번 쓰였다.
 
 ## 수록곡
 

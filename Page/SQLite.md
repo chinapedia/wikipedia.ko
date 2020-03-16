@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SQLite](https://ko.wikipedia.org/wiki/SQLite).
 
 
-**SQLite**는 [MySQL](https://ko.wikipedia.org/wiki/MySQL "wikilink")나 [PostgreSQL](../Page/PostgreSQL.md "wikilink")와 같은 [데이터베이스 관리 시스템이지만](../Page/데이터베이스_관리_시스템.md "wikilink"), 서버가 아니라 응용 프로그램에 넣어 사용하는 비교적 가벼운 데이터베이스이다. 영어권에서는 '에스큐엘라이트()'\[1\]또는 '시퀄라이트()'\[2\]라고 읽는다.
+**SQLite**는 [MySQL](../Page/MySQL.md "wikilink")나 [PostgreSQL](../Page/PostgreSQL.md "wikilink")와 같은 [데이터베이스 관리 시스템이지만](../Page/데이터베이스_관리_시스템.md "wikilink"), 서버가 아니라 응용 프로그램에 넣어 사용하는 비교적 가벼운 데이터베이스이다. 영어권에서는 '에스큐엘라이트()'\[1\]또는 '시퀄라이트()'\[2\]라고 읽는다.
 
 일반적인 [RDBMS에](https://ko.wikipedia.org/wiki/관계_데이터베이스_관리_시스템 "wikilink") 비해 대규모 작업에는 적합하지 않지만, 중소 규모라면 속도에 손색이 없다. 또 API는 단순히 라이브러리를 호출하는 것만 있으며, 데이터를 저장하는 데 하나의 파일만을 사용하는 것이 특징이다. 버전 3.3.8에서는 [풀텍스트 검색](https://ko.wikipedia.org/wiki/풀텍스트_검색 "wikilink") 기능을 가진 FTS1 모듈이 지원된다. 컬럼을 삭제하거나 변경하는 것 등이 제한된다.
 
-[구글](https://ko.wikipedia.org/wiki/구글 "wikilink") [안드로이드 운영 체제에](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 기본 탑재된 데이터베이스이기도 하다.
+[구글](../Page/구글.md "wikilink") [안드로이드 운영 체제에](../Page/안드로이드_\(운영_체제\).md "wikilink") 기본 탑재된 데이터베이스이기도 하다.
 
 ## 각주
 

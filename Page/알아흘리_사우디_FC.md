@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**알아흘리 사우디 FC**(, )는 [지다](../Page/지다.md "wikilink")에 위치한 [사우디아라비아](../Page/사우디아라비아.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**알아흘리 사우디 FC**(, )는 [지다](../Page/지다.md "wikilink")에 위치한 [사우디아라비아](../Page/사우디아라비아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
-이 클럽은 사우디아라비아에서 가장 큰 클럽 중 하나이고, 많은 [사우디아라비아 국가대표](https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀 "wikilink") 선수들이 소속되어 있다. 알아흘리는 사우디아라비아 국가대표팀과 똑같이 초록색과 흰색의 유니폼을 입는다.
+이 클럽은 사우디아라비아에서 가장 큰 클럽 중 하나이고, 많은 [사우디아라비아 국가대표](../Page/사우디아라비아_축구_국가대표팀.md "wikilink") 선수들이 소속되어 있다. 알아흘리는 사우디아라비아 국가대표팀과 똑같이 초록색과 흰색의 유니폼을 입는다.
 
-알아흘리는 [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink")에 창단되었으며, [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")과 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")에 [사우디아라비아 프리미어리그에서](https://ko.wikipedia.org/wiki/사우디아라비아_프리미어리그 "wikilink") 우승을 차지했다.
+알아흘리는 [1937년](../Page/1937년.md "wikilink")에 창단되었으며, [1979년](../Page/1979년.md "wikilink")과 [1984년](../Page/1984년.md "wikilink")에 [사우디아라비아 프리미어리그에서](https://ko.wikipedia.org/wiki/사우디아라비아_프리미어리그 "wikilink") 우승을 차지했다.
 
 ## 우승 기록
 

@@ -1,30 +1,30 @@
 > This article is converted from Wikipedia: [ IBK ](https://ko.wikipedia.org/wiki/_IBK_).
 
 
-**화성 IBK기업은행 알토스 배구단**(Hwaseong IBK Altos Volleyball Team)은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 4일에](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") [중소기업은행](../Page/중소기업은행.md "wikilink")이 창단한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 여자 배구단이다.\[1\] 창단 당시 연고지와 홈 경기장을 결정하지 못했으나,\[2\]\[3\] [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 22일에](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [화성시](https://ko.wikipedia.org/wiki/화성시 "wikilink")를 연고지로 결정했다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [화성시](https://ko.wikipedia.org/wiki/화성시 "wikilink") [향남읍](https://ko.wikipedia.org/wiki/향남읍 "wikilink") 도이리에 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 개관한 [화성실내체육관을](../Page/화성종합경기타운_실내체육관.md "wikilink") 홈 경기장으로 쓰기로 합의하고, 연고 협약을 맺었다.\[4\]
+**화성 IBK기업은행 알토스 배구단**(Hwaseong IBK Altos Volleyball Team)은 [2011년](../Page/2011년.md "wikilink") [8월 4일에](../Page/8월_4일.md "wikilink") [중소기업은행](../Page/중소기업은행.md "wikilink")이 창단한 [대한민국](../Page/대한민국.md "wikilink")의 여자 배구단이다.\[1\] 창단 당시 연고지와 홈 경기장을 결정하지 못했으나,\[2\]\[3\] [2011년](../Page/2011년.md "wikilink") [9월 22일에](../Page/9월_22일.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [화성시](https://ko.wikipedia.org/wiki/화성시 "wikilink")를 연고지로 결정했다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [화성시](https://ko.wikipedia.org/wiki/화성시 "wikilink") [향남읍](../Page/향남읍.md "wikilink") 도이리에 [2011년](../Page/2011년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개관한 [화성실내체육관을](../Page/화성종합경기타운_실내체육관.md "wikilink") 홈 경기장으로 쓰기로 합의하고, 연고 협약을 맺었다.\[4\]
 
 2012-2013 시즌 통합 우승을 차지하였으며, 2013년 7월 KOVO컵대회에서도 우승을 거머쥐었다. 2014-2015 시즌 정규리그 준우승, 챔피언결정전 우승을 차지하였다. 2015-2016 시즌 정규리그 우승, 챔피언결정전 준우승을 차지하였다.
 
 ## 역대 시즌
 
-| 시즌                                                               | 정규리그 | 포스트시즌 |
-| ---------------------------------------------------------------- | ---- | ----- |
-| 경기수                                                              | 승    | 패     |
-| [2011-12](https://ko.wikipedia.org/wiki/V-리그_2011-12 "wikilink") | 30   | 13    |
-| [2012-13](https://ko.wikipedia.org/wiki/V-리그_2012-13 "wikilink") | 30   | 25    |
-| [2013-14](../Page/V-리그_2013-14.md "wikilink")                    | 30   | 24    |
-| [2014-15](../Page/V-리그_2014-15.md "wikilink")                    | 30   | 20    |
-| [2015-16](../Page/V-리그_2015-16.md "wikilink")                    | 30   | 20    |
-| [2016-17](../Page/V-리그_2016-17.md "wikilink")                    | 30   | 18    |
-| [2017-18](../Page/V-리그_2017-18.md "wikilink")                    | 30   | 21    |
-| 합계                                                               | 210  | 141   |
+| 시즌                                            | 정규리그 | 포스트시즌 |
+| --------------------------------------------- | ---- | ----- |
+| 경기수                                           | 승    | 패     |
+| [2011-12](../Page/V-리그_2011-12.md "wikilink") | 30   | 13    |
+| [2012-13](../Page/V-리그_2012-13.md "wikilink") | 30   | 25    |
+| [2013-14](../Page/V-리그_2013-14.md "wikilink") | 30   | 24    |
+| [2014-15](../Page/V-리그_2014-15.md "wikilink") | 30   | 20    |
+| [2015-16](../Page/V-리그_2015-16.md "wikilink") | 30   | 20    |
+| [2016-17](../Page/V-리그_2016-17.md "wikilink") | 30   | 18    |
+| [2017-18](../Page/V-리그_2017-18.md "wikilink") | 30   | 21    |
+| 합계                                            | 210  | 141   |
 
 ## 우승 경력
 
 ### 리그
 
-  - **[V-리그](https://ko.wikipedia.org/wiki/V-리그_\(대한민국\) "wikilink")**
-      - 우승 (3): [2012-13](https://ko.wikipedia.org/wiki/V-리그_2012-13 "wikilink"), [2014-15](../Page/V-리그_2014-15.md "wikilink"), [2016-17](../Page/V-리그_2016-17.md "wikilink")
+  - **[V-리그](../Page/V-리그_\(대한민국\).md "wikilink")**
+      - 우승 (3): [2012-13](../Page/V-리그_2012-13.md "wikilink"), [2014-15](../Page/V-리그_2014-15.md "wikilink"), [2016-17](../Page/V-리그_2016-17.md "wikilink")
       - 준우승 (3): [2013-14](../Page/V-리그_2013-14.md "wikilink"), [2015-16](../Page/V-리그_2015-16.md "wikilink"), [2017-18](../Page/V-리그_2017-18.md "wikilink")
 
 ### 컵
@@ -86,7 +86,7 @@
 
 **[V-리그 신인선수상](https://ko.wikipedia.org/wiki/V-리그_신인선수상 "wikilink")**
 
-  - [박정아](https://ko.wikipedia.org/wiki/박정아_\(배구_선수\) "wikilink") – 2012
+  - [박정아](../Page/박정아_\(배구_선수\).md "wikilink") – 2012
 
 **[V-리그 기량발전상](https://ko.wikipedia.org/wiki/V-리그_\(대한민국\)#기량발전상 "wikilink")**
 
@@ -94,8 +94,8 @@
 
 **[V-리그 베스트7](https://ko.wikipedia.org/wiki/V-리그_베스트7 "wikilink")**
 
-  - [박정아](https://ko.wikipedia.org/wiki/박정아_\(배구_선수\) "wikilink") – 2015
-  - [김희진](https://ko.wikipedia.org/wiki/김희진_\(배구_선수\) "wikilink") – 2015
+  - [박정아](../Page/박정아_\(배구_선수\).md "wikilink") – 2015
+  - [김희진](../Page/김희진_\(배구_선수\).md "wikilink") – 2015
   - [김사니](../Page/김사니.md "wikilink") – 2016
   - [리즈 맥마흔](https://ko.wikipedia.org/wiki/리즈_맥마흔 "wikilink") – 2016
   - [메디슨 리쉘](https://ko.wikipedia.org/wiki/메디슨_리쉘 "wikilink") – 2017, 2018
@@ -112,8 +112,8 @@
 
 **[KOVO컵 MVP](https://ko.wikipedia.org/wiki/KOVO컵#MVP "wikilink")**
 
-  - [김희진](https://ko.wikipedia.org/wiki/김희진_\(배구_선수\) "wikilink") – 2013, 2015
-  - [박정아](https://ko.wikipedia.org/wiki/박정아_\(배구_선수\) "wikilink") – 2016
+  - [김희진](../Page/김희진_\(배구_선수\).md "wikilink") – 2013, 2015
+  - [박정아](../Page/박정아_\(배구_선수\).md "wikilink") – 2016
 
 ## 감독
 

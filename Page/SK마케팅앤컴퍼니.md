@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
 
 
-**SK마케팅앤컴퍼니**는 2008년 SK그룹 내의 두 주력 회사인 **[SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink")**과 **[SK에너지](https://ko.wikipedia.org/wiki/SK에너지 "wikilink")**가 50대 50의 지분을 투자, 총 3천800억원 규모로 설립한 마케팅 서비스 전문회사다.
+**SK마케팅앤컴퍼니**는 2008년 SK그룹 내의 두 주력 회사인 **[SK텔레콤](../Page/SK텔레콤.md "wikilink")**과 **[SK에너지](../Page/SK에너지.md "wikilink")**가 50대 50의 지분을 투자, 총 3천800억원 규모로 설립한 마케팅 서비스 전문회사다.
 
 설립 초기 OK캐쉬백 제휴마케팅, 광고 사업을 시작으로 시장조사 및 마케팅컨설팅, LBS 등으로 사업 영역을 확장해온 **SK마케팅앤컴퍼니**는 시장분석, 프로모션, 판매채널 제공, 고객 관리와 광고/커뮤니케이션 서비스를 제공하며 데이터 분석 및 위치기반서비스 기술 등을 융합한 혁신적인 마케팅 서비스를 선보여왔다.
 
@@ -9,26 +9,26 @@
 
 주요 사업 분야인 OK캐쉬백의 경우 설립 당시 회원수 3,000만명에서 2012년 8월말 기준 3,600만명으로 증가하며 ‘전국민의 포인트카드’로 성장하였고, 광고/커뮤니케이션 사업은 2011년말 광고 취급액 기준 업계 4위로 자리잡으며 돌풍을 일으켜왔다.
 
-2008년 설립 당시 매출액 1,333억원, 당기순이익 148억원에서 2011년 매출액 6,527억원, 당기순이익 213억원을 달성하며 지속적인 성장을 이룩하였으며, 2012년 문종훈 사장이 취임하며 제2의 도약을 선언, 2015년 매출 1조 4천억 달성을 목표로 하고 있다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 2월 [SK플래닛](../Page/SK플래닛.md "wikilink")에 통합되었다.
+2008년 설립 당시 매출액 1,333억원, 당기순이익 148억원에서 2011년 매출액 6,527억원, 당기순이익 213억원을 달성하며 지속적인 성장을 이룩하였으며, 2012년 문종훈 사장이 취임하며 제2의 도약을 선언, 2015년 매출 1조 4천억 달성을 목표로 하고 있다. [2013년](../Page/2013년.md "wikilink") 2월 [SK플래닛](../Page/SK플래닛.md "wikilink")에 통합되었다.
 
 ## 연혁
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 법인 설립 (SK에너지와 SK텔레콤이 각각 1,900억씩 총 3,800억 출자)
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") 통합 마일리지 ‘OK캐쉬백’ 사업 개시 (SK에너지 사업 양수)\[1\]
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 광고 / Communication 사업 개시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 모바일 상품권 (기프티콘) 사업 개시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 위치기반서비스 (LBS) 사업 개시 (SK텔레콤 사업 양수)
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") ‘탄소캐쉬백’ 서비스 개시
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 선택적 복지 서비스 ‘베네피아’ 사업 개시
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 소비자 리서치 패널 ‘틸리언’ 사업 개시
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") T 멤버쉽 캐쉬백’ 서비스 개시
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 일본 CCC 포인트 교환 서비스 제휴
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 통계청 ‘인구주택 총 조사 2010’ 종합홍보대행 국무총리상 수상
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") 구강 진료 자원봉사 ‘해피 스마일 치과버스’ 활동 개시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 문종훈 사장 취임
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") [홈플러스](https://ko.wikipedia.org/wiki/홈플러스 "wikilink") 포인트 서비스 제휴
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 해외아동 결연 프로그램 ‘해피 스마일 매칭’ 개시
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 합병 법인 SK플래닛 공식 출범 (SK플래닛-SK마케팅앤컴퍼니 합병)
+  - [2008년](../Page/2008년.md "wikilink") [4월](../Page/4월.md "wikilink") 법인 설립 (SK에너지와 SK텔레콤이 각각 1,900억씩 총 3,800억 출자)
+  - [2008년](../Page/2008년.md "wikilink") [5월](../Page/5월.md "wikilink") 통합 마일리지 ‘OK캐쉬백’ 사업 개시 (SK에너지 사업 양수)\[1\]
+  - [2008년](../Page/2008년.md "wikilink") [6월](../Page/6월.md "wikilink") 광고 / Communication 사업 개시
+  - [2008년](../Page/2008년.md "wikilink") [7월](../Page/7월.md "wikilink") 모바일 상품권 (기프티콘) 사업 개시
+  - [2008년](../Page/2008년.md "wikilink") [11월](../Page/11월.md "wikilink") 위치기반서비스 (LBS) 사업 개시 (SK텔레콤 사업 양수)
+  - [2009년](../Page/2009년.md "wikilink") [1월](../Page/1월.md "wikilink") ‘탄소캐쉬백’ 서비스 개시
+  - [2009년](../Page/2009년.md "wikilink") [6월](../Page/6월.md "wikilink") 선택적 복지 서비스 ‘베네피아’ 사업 개시
+  - [2009년](../Page/2009년.md "wikilink") [7월](../Page/7월.md "wikilink") 소비자 리서치 패널 ‘틸리언’ 사업 개시
+  - [2009년](../Page/2009년.md "wikilink") [9월](../Page/9월.md "wikilink") T 멤버쉽 캐쉬백’ 서비스 개시
+  - [2010년](../Page/2010년.md "wikilink") [11월](../Page/11월.md "wikilink") 일본 CCC 포인트 교환 서비스 제휴
+  - [2011년](../Page/2011년.md "wikilink") [11월](../Page/11월.md "wikilink") 통계청 ‘인구주택 총 조사 2010’ 종합홍보대행 국무총리상 수상
+  - [2011년](../Page/2011년.md "wikilink") [12월](../Page/12월.md "wikilink") 구강 진료 자원봉사 ‘해피 스마일 치과버스’ 활동 개시
+  - [2012년](../Page/2012년.md "wikilink") [1월](../Page/1월.md "wikilink") 문종훈 사장 취임
+  - [2012년](../Page/2012년.md "wikilink") [3월](../Page/3월.md "wikilink") [홈플러스](https://ko.wikipedia.org/wiki/홈플러스 "wikilink") 포인트 서비스 제휴
+  - [2012년](../Page/2012년.md "wikilink") [9월](../Page/9월.md "wikilink") 해외아동 결연 프로그램 ‘해피 스마일 매칭’ 개시
+  - [2013년](../Page/2013년.md "wikilink") [2월](../Page/2월.md "wikilink") 합병 법인 SK플래닛 공식 출범 (SK플래닛-SK마케팅앤컴퍼니 합병)
 
 ## 주요제품·사업
 

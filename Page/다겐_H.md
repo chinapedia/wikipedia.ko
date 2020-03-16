@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ H](https://ko.wikipedia.org/wiki/_H).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Kungsgatan_1967.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Dagen_H.svg "wikilink") **다겐 H**(, )는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")의 [대면 통행](https://ko.wikipedia.org/wiki/대면_통행 "wikilink") 방식이 좌측에서 우측 통행으로 바뀐 [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [9월 3일을](https://ko.wikipedia.org/wiki/9월_3일 "wikilink") 가리킨다. H는 스웨덴어로 우측 통행을 뜻하는 (회게르트라피크)에서 온 단어이다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Kungsgatan_1967.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Dagen_H.svg "wikilink") **다겐 H**(, )는 [스웨덴](../Page/스웨덴.md "wikilink")의 [대면 통행](../Page/대면_통행.md "wikilink") 방식이 좌측에서 우측 통행으로 바뀐 [1967년](../Page/1967년.md "wikilink") [9월 3일을](../Page/9월_3일.md "wikilink") 가리킨다. H는 스웨덴어로 우측 통행을 뜻하는 (회게르트라피크)에서 온 단어이다.
 
 ## 도입
 
 통행 방향을 변경한 데에는 두 가지 이유가 있었다.
 
-  - [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink"), [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink")를 비롯한 스웨덴과 국경을 접하고 있는 나라들은 모두 우측 통행을 실시하였다.
+  - [노르웨이](../Page/노르웨이.md "wikilink"), [핀란드](../Page/핀란드.md "wikilink")를 비롯한 스웨덴과 국경을 접하고 있는 나라들은 모두 우측 통행을 실시하였다.
   - 스웨덴의 내수용 차량은 대부분 왼쪽에 운전대가 설치되어 있었다. 인구 밀도와 교통량이 낮았기 때문에 2차선 고속도로에서 정면 충돌의 원인이 되었다.
 
 많은 사람들이 변화를 바라지 않았고, 이전 40년간 통행 방식을 바꾸려는 시도는 투표에서 거부되었다. 1955년 스웨덴에서 있었던 국민 투표에서는 83%의 사람이 제안을 거부하였다. 그러나 1963년 스웨덴 의회에서는 변경안을 통과시켰고, 국가 우측 통행 위원회()를 설립하여 감독하였다. 심리학자들의 도움을 얻어서 4년간의 교육 프로그램을 시작하였다.\[1\]
@@ -18,9 +18,9 @@
 
 ## 전환 이후
 
-9월 3일 일요일 다겐 H 당일, 오전 1시부터 6시까지 모든 불필요한 교통이 차단되었다. 이 때 통행하는 모든 차량은 특별한 규칙을 따라야 했다. 모든 차량은 오전 4시 50분에 완전히 멈춘 다음, 통행 방향을 오른쪽으로 바꾸고, 5시에 진행이 허용될 때까지 멈춰 있어야 했다. [스톡홀름](https://ko.wikipedia.org/wiki/스톡홀름 "wikilink")과 [말뫼](https://ko.wikipedia.org/wiki/말뫼 "wikilink")에서는 교차로 방향을 재설정하는 작업 때문에 2일 오전 10시부터 3일 오후 3시까지 교통이 차단되었다. 일부 지역에서도 2일 오후 3시부터 3일 오후 3시까지 교통이 차단되었다.
+9월 3일 일요일 다겐 H 당일, 오전 1시부터 6시까지 모든 불필요한 교통이 차단되었다. 이 때 통행하는 모든 차량은 특별한 규칙을 따라야 했다. 모든 차량은 오전 4시 50분에 완전히 멈춘 다음, 통행 방향을 오른쪽으로 바꾸고, 5시에 진행이 허용될 때까지 멈춰 있어야 했다. [스톡홀름](../Page/스톡홀름.md "wikilink")과 [말뫼](../Page/말뫼.md "wikilink")에서는 교차로 방향을 재설정하는 작업 때문에 2일 오전 10시부터 3일 오후 3시까지 교통이 차단되었다. 일부 지역에서도 2일 오후 3시부터 3일 오후 3시까지 교통이 차단되었다.
 
-[스톡홀름](https://ko.wikipedia.org/wiki/스톡홀름 "wikilink")의 [노면 전차는](https://ko.wikipedia.org/wiki/노면_전차 "wikilink") 폐선되었고 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink")로 대체되었으며, 기존의 버스도 오른쪽에 문이 달려 있는 새로운 버스로 교체되었다. 8000여대의 기존 버스는 양쪽에 문을 설치하는 개조가 이루어졌다. [예테보리](../Page/예테보리.md "wikilink")의 버스 중 운전대가 오른쪽에 달려 있는 버스는 [파키스탄](https://ko.wikipedia.org/wiki/파키스탄 "wikilink")과 [케냐](https://ko.wikipedia.org/wiki/케냐 "wikilink")에 수출되었다. 버스의 전환 비용은 국가 부담이었고, 예산의 가장 큰 비중을 차지했다. 예테보리와 [노르셰핑](https://ko.wikipedia.org/wiki/노르셰핑 "wikilink") 노면 전차는 운행을 계속하였다.
+[스톡홀름](../Page/스톡홀름.md "wikilink")의 [노면 전차는](https://ko.wikipedia.org/wiki/노면_전차 "wikilink") 폐선되었고 [버스](../Page/버스.md "wikilink")로 대체되었으며, 기존의 버스도 오른쪽에 문이 달려 있는 새로운 버스로 교체되었다. 8000여대의 기존 버스는 양쪽에 문을 설치하는 개조가 이루어졌다. [예테보리](../Page/예테보리.md "wikilink")의 버스 중 운전대가 오른쪽에 달려 있는 버스는 [파키스탄](../Page/파키스탄.md "wikilink")과 [케냐](../Page/케냐.md "wikilink")에 수출되었다. 버스의 전환 비용은 국가 부담이었고, 예산의 가장 큰 비중을 차지했다. 예테보리와 [노르셰핑](../Page/노르셰핑.md "wikilink") 노면 전차는 운행을 계속하였다.
 
 상대편 운전자를 보호하기 위해서 스웨덴의 모든 차량은 헤드라이트를 교체해야 했다. 스웨덴 의회에서 다겐 H를 통과시킨 이유 중 하나는, 당시 스웨덴의 차량은 저렴한 공용 헤드라이트를 사용하였으나, 시대의 흐름이 상대적으로 비싼 차량별 전용 헤드라이트로 바뀌고 있었기 때문이다. 통행 방식 전환이 더 늦어지면 차량 소유자에게 부담이 증가하기 때문이다.
 
@@ -30,8 +30,8 @@
 
 ## 같이 보기
 
-  - [대면 통행](https://ko.wikipedia.org/wiki/대면_통행 "wikilink")
-  - [H-다귀린](https://ko.wikipedia.org/wiki/H-다귀린 "wikilink") (아이슬란드)
+  - [대면 통행](../Page/대면_통행.md "wikilink")
+  - [H-다귀린](../Page/H-다귀린.md "wikilink") (아이슬란드)
   - [730 (교통)](https://ko.wikipedia.org/wiki/730_\(교통\) "wikilink") (일본 오키나와현)
   - [체코슬로바키아의 우측 통행 전환](https://ko.wikipedia.org/wiki/체코슬로바키아의_우측_통행_전환 "wikilink")
 

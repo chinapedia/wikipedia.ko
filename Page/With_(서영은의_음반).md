@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [With \( \)](https://ko.wikipedia.org/wiki/With_\(_\)).
 
 
-《**With**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [서영은이](https://ko.wikipedia.org/wiki/서영은_\(가수\) "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") 발매한 디지털 싱글 앨범이다. 수록곡은 "이 거지같은 말"이다. [브라운아이드소울](https://ko.wikipedia.org/wiki/브라운아이드소울 "wikilink")의 맴버 [정엽이](https://ko.wikipedia.org/wiki/정엽_\(가수\) "wikilink") 피쳐링으로 참여했다. 발표 첫 주 [가온 차트의](https://ko.wikipedia.org/wiki/가온_차트 "wikilink") 디지털 종합 차트에서 1위를 기록했으며 2010년 7월 17일까지 11주 동안 차트 100위권 내에 머물렀다.
+《**With**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [서영은이](../Page/서영은_\(가수\).md "wikilink") [2010년](../Page/2010년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") 발매한 디지털 싱글 앨범이다. 수록곡은 "이 거지같은 말"이다. [브라운아이드소울](https://ko.wikipedia.org/wiki/브라운아이드소울 "wikilink")의 맴버 [정엽이](../Page/정엽_\(가수\).md "wikilink") 피쳐링으로 참여했다. 발표 첫 주 [가온 차트의](../Page/가온_차트.md "wikilink") 디지털 종합 차트에서 1위를 기록했으며 2010년 7월 17일까지 11주 동안 차트 100위권 내에 머물렀다.
 
 ## 수록곡
 
 ## 차트 성적
 
-### [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")
+### [가온 차트](../Page/가온_차트.md "wikilink")
 
   - 디지털 종합 차트 : 이 거지같은 말 (with 정엽 of 브라운아이드소울) - 1위
 

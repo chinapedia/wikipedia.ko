@@ -5,7 +5,7 @@
 
 ## 요약
 
-[CIRCUS사에서](https://ko.wikipedia.org/wiki/서커스_\(기업\) "wikilink") 발매한 최초의 여성향 게임이다. 전작 [D.C. 다카포로](../Page/D.C._다카포.md "wikilink") 부터 53년 후의 **하츠네섬**(初音島)이 무대로 전작에서의 아사쿠라 네무 엔딩 후의 세계가 그려져 있으며, 전작에서 이미 져버렸던 "지지않는 벚꽃"이 본편의 수 년 전부터 다시 피어났고, 더 이상 지지 않게 되었다. 계절은 여름이다.
+[CIRCUS사에서](../Page/서커스_\(기업\).md "wikilink") 발매한 최초의 여성향 게임이다. 전작 [D.C. 다카포로](../Page/D.C._다카포.md "wikilink") 부터 53년 후의 **하츠네섬**(初音島)이 무대로 전작에서의 아사쿠라 네무 엔딩 후의 세계가 그려져 있으며, 전작에서 이미 져버렸던 "지지않는 벚꽃"이 본편의 수 년 전부터 다시 피어났고, 더 이상 지지 않게 되었다. 계절은 여름이다.
 
 ## 무대와 세계관
 
@@ -24,7 +24,7 @@
 ## 주제가
 
   - 오프닝 테마《Cherry's Magic\&Love》
-      - 작사: [코다마사오리](https://ko.wikipedia.org/wiki/코다마사오리 "wikilink"), 작곡·편곡: [와타나베 타쿠야](https://ko.wikipedia.org/wiki/와타나베_타쿠야 "wikilink"), 노래: 시노미야 형제（[스즈키 타츠히사](https://ko.wikipedia.org/wiki/스즈키_타츠히사 "wikilink") · [스즈키 유우토](https://ko.wikipedia.org/wiki/스즈키_유우토 "wikilink") · [호리에 카즈마](https://ko.wikipedia.org/wiki/호리에_카즈마 "wikilink") · [하타노 와타루](https://ko.wikipedia.org/wiki/하타노_와타루 "wikilink")）
+      - 작사: [코다마사오리](https://ko.wikipedia.org/wiki/코다마사오리 "wikilink"), 작곡·편곡: [와타나베 타쿠야](https://ko.wikipedia.org/wiki/와타나베_타쿠야 "wikilink"), 노래: 시노미야 형제（[스즈키 타츠히사](../Page/스즈키_타츠히사.md "wikilink") · [스즈키 유우토](https://ko.wikipedia.org/wiki/스즈키_유우토 "wikilink") · [호리에 카즈마](https://ko.wikipedia.org/wiki/호리에_카즈마 "wikilink") · [하타노 와타루](../Page/하타노_와타루.md "wikilink")）
   - 료헤이 엔딩《[최상 LOVER\!](https://ko.wikipedia.org/wiki/최상_LOVER! "wikilink")》()
       - 작사: 코다마사오리, 작곡: [카와구치 스스무](https://ko.wikipedia.org/wiki/카와구치_스스무 "wikilink"), 편곡: 와타나베 타쿠야, 노래: 시노미야 료헤이（스즈키 다쓰히사）
   - 코우헤이 엔딩《[맨얼굴의 연인](https://ko.wikipedia.org/wiki/맨얼굴의_연인 "wikilink")》()
@@ -34,7 +34,7 @@
   - 케이 엔딩《time after time》
       - 작사: 코다마사오리, 작곡 · 편곡: 타무라 신지, 노래: 시노미야 케이（하타노 와타루）
   - 타카아키 엔딩《I'm here\~ 계속 여기서》()
-      - 작사: 코다마사오리, 작곡: [야마다 토모카즈](https://ko.wikipedia.org/wiki/야마다_토모카즈 "wikilink"), 편곡: [이하시 나루야](https://ko.wikipedia.org/wiki/이하시_나루야 "wikilink"), 노래: 코죠 타카아키（[히라카와 다이스케](https://ko.wikipedia.org/wiki/히라카와_다이스케 "wikilink")）
+      - 작사: 코다마사오리, 작곡: [야마다 토모카즈](https://ko.wikipedia.org/wiki/야마다_토모카즈 "wikilink"), 편곡: [이하시 나루야](https://ko.wikipedia.org/wiki/이하시_나루야 "wikilink"), 노래: 코죠 타카아키（[히라카와 다이스케](../Page/히라카와_다이스케.md "wikilink")）
   - 류노스케 엔딩《keep smiling\*》
       - 작사: 코다마사오리, 작곡: [요시다 카쯔야](https://ko.wikipedia.org/wiki/요시다_카쯔야 "wikilink"), 편곡: [안도우 타카히로](https://ko.wikipedia.org/wiki/안도우_타카히로 "wikilink"), 노래: 류노스케（[오오스카 쥰](https://ko.wikipedia.org/wiki/오오스카_쥰 "wikilink")）
 
@@ -53,7 +53,7 @@
 
   -
     연재: [월간 콤프 에이스](../Page/월간_콤프_에이스.md "wikilink")（[카도카와 서점](https://ko.wikipedia.org/wiki/카도카와_서점 "wikilink")）2009년 6월호 \~ 12월호
-    작화: [아라이 구마](https://ko.wikipedia.org/wiki/아라이_구마 "wikilink"), 원작: [Sanctuary/CIRCUS](https://ko.wikipedia.org/wiki/서커스_\(기업\) "wikilink"), 이야기 구성: [RED FLAGSHIP](https://ko.wikipedia.org/wiki/RED_FLAGSHIP "wikilink")
+    작화: [아라이 구마](https://ko.wikipedia.org/wiki/아라이_구마 "wikilink"), 원작: [Sanctuary/CIRCUS](../Page/서커스_\(기업\).md "wikilink"), 이야기 구성: [RED FLAGSHIP](https://ko.wikipedia.org/wiki/RED_FLAGSHIP "wikilink")
 
 원작에는 등장하지 않는 히어로로, 소꿉친구가 등장한다.
 
@@ -61,7 +61,7 @@
 ## 같이 보기
 
   - [D.C. 다카포](../Page/D.C._다카포.md "wikilink")
-  - [D.C. 다카포 II](https://ko.wikipedia.org/wiki/D.C._다카포_II "wikilink")
+  - [D.C. 다카포 II](../Page/D.C._다카포_II.md "wikilink")
 
 ## 외부 링크
 

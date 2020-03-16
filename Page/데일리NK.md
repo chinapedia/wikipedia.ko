@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NK](https://ko.wikipedia.org/wiki/NK).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Daily_NK_logo.jpg "wikilink") **데일리NK**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 인터넷 신문으로, [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink")과 관련된 기사를 보도한다. 사실 보도를 지향하며 정기적으로 조선민주주의인민공화국 내부의 정보를 제공하고 있다. 본사는 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [마포구](https://ko.wikipedia.org/wiki/종로구 "wikilink") 망원동에 있으며 슬로건은 "한반도의 미래를 준비하는 데일리NK"이다. [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink")와 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink"), [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink") 홈페이지를 운영한다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Daily_NK_logo.jpg "wikilink") **데일리NK**()는 [대한민국](../Page/대한민국.md "wikilink")의 인터넷 신문으로, [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")과 관련된 기사를 보도한다. 사실 보도를 지향하며 정기적으로 조선민주주의인민공화국 내부의 정보를 제공하고 있다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/종로구.md "wikilink") 망원동에 있으며 슬로건은 "한반도의 미래를 준비하는 데일리NK"이다. [한국어](../Page/한국어.md "wikilink")와 [영어](../Page/영어.md "wikilink"), [중국어](../Page/중국어.md "wikilink") 홈페이지를 운영한다.
 
 ## 요약
 
@@ -27,7 +27,7 @@
 
 ## 관련 항목
 
-  - [북한민주화네트워크](https://ko.wikipedia.org/wiki/북한민주화네트워크 "wikilink")
+  - [북한민주화네트워크](../Page/북한민주화네트워크.md "wikilink")
 
 ## 외부 링크
 

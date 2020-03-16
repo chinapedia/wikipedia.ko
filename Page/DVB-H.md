@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [DVB-H](https://ko.wikipedia.org/wiki/DVB-H).
 
 
-**DVB-H**([디지털 비디오 방송](https://ko.wikipedia.org/wiki/디지털_비디오_방송 "wikilink")-[핸드헬드의](https://ko.wikipedia.org/wiki/핸드헬드_전자 "wikilink") 준말)는 3가지 유력한 [모바일 TV](https://ko.wikipedia.org/wiki/모바일_텔레비전 "wikilink") 포맷 가운데 하나이다. 휴대용 손수화기에 방송 서비스를 전달하는 기술 규격이다. DVB-H는 2004년 11월에 [ETSI](https://ko.wikipedia.org/wiki/유럽_전기통신_표준협회 "wikilink") 표준 EN 302 304로 공식 채택되었다. DVB-H 규격 (EN 302 304)은 공식 DVB-H 웹사이트에서 내려받을 수 있다.\[1\] 2008년 3월부터 DVB-H는 공식적으로 [유럽 연합으로부터](https://ko.wikipedia.org/wiki/유럽_연합 "wikilink") "지상파 모바일 방송에 적합한 기술"로서 승인을 받았다.\[2\]\[3\]\[4\]\[5\] 이 기술의 주 경쟁 대상은 [퀄컴](../Page/퀄컴.md "wikilink")의 [미디어플로](https://ko.wikipedia.org/wiki/미디어플로 "wikilink") 시스템, [3세대](https://ko.wikipedia.org/wiki/3세대_이동통신 "wikilink") 휴대 전화 시스템 기반 [MBMS](https://ko.wikipedia.org/wiki/MBMS "wikilink") 모바일 TV 표준, 미국 [DVB-SH](https://ko.wikipedia.org/wiki/DVB-SH "wikilink")의 [ATSC-M/H](https://ko.wikipedia.org/wiki/ATSC-M/H "wikilink") 포맷이다.
+**DVB-H**([디지털 비디오 방송](../Page/디지털_비디오_방송.md "wikilink")-[핸드헬드의](https://ko.wikipedia.org/wiki/핸드헬드_전자 "wikilink") 준말)는 3가지 유력한 [모바일 TV](https://ko.wikipedia.org/wiki/모바일_텔레비전 "wikilink") 포맷 가운데 하나이다. 휴대용 손수화기에 방송 서비스를 전달하는 기술 규격이다. DVB-H는 2004년 11월에 [ETSI](https://ko.wikipedia.org/wiki/유럽_전기통신_표준협회 "wikilink") 표준 EN 302 304로 공식 채택되었다. DVB-H 규격 (EN 302 304)은 공식 DVB-H 웹사이트에서 내려받을 수 있다.\[1\] 2008년 3월부터 DVB-H는 공식적으로 [유럽 연합으로부터](../Page/유럽_연합.md "wikilink") "지상파 모바일 방송에 적합한 기술"로서 승인을 받았다.\[2\]\[3\]\[4\]\[5\] 이 기술의 주 경쟁 대상은 [퀄컴](../Page/퀄컴.md "wikilink")의 [미디어플로](https://ko.wikipedia.org/wiki/미디어플로 "wikilink") 시스템, [3세대](https://ko.wikipedia.org/wiki/3세대_이동통신 "wikilink") 휴대 전화 시스템 기반 [MBMS](https://ko.wikipedia.org/wiki/MBMS "wikilink") 모바일 TV 표준, 미국 [DVB-SH](https://ko.wikipedia.org/wiki/DVB-SH "wikilink")의 [ATSC-M/H](https://ko.wikipedia.org/wiki/ATSC-M/H "wikilink") 포맷이다.
 
 ## 개발 도구
 
-  - 오픈 소스 AMUSE DVB-H 도구\[6\]는 하나 이상의 [IP](https://ko.wikipedia.org/wiki/인터넷_프로토콜 "wikilink") 스트림으로부터 DVB-H 신호를 만들어낼 수 있다.
+  - 오픈 소스 AMUSE DVB-H 도구\[6\]는 하나 이상의 [IP](../Page/인터넷_프로토콜.md "wikilink") 스트림으로부터 DVB-H 신호를 만들어낼 수 있다.
 
 ## 같이 보기
 

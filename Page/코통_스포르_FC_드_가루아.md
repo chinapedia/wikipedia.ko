@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC  ](https://ko.wikipedia.org/wiki/__FC__).
 
 
-**코통 스포르 FC 드 가루아**()는 [카메룬](https://ko.wikipedia.org/wiki/카메룬 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽 팀으로, [가루아](https://ko.wikipedia.org/wiki/가루아 "wikilink")를 연고로 한다.
+**코통 스포르 FC 드 가루아**()는 [카메룬](../Page/카메룬.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀으로, [가루아](../Page/가루아.md "wikilink")를 연고로 한다.
 
 ## 주요 경력
 
@@ -13,7 +13,7 @@
 
 ### 국제 대회
 
-  - [CAF 챔피언스리그](https://ko.wikipedia.org/wiki/CAF_챔피언스리그 "wikilink"): 준우승 1회 (2008)
+  - [CAF 챔피언스리그](../Page/CAF_챔피언스리그.md "wikilink"): 준우승 1회 (2008)
   - [CAF 컵](https://ko.wikipedia.org/wiki/CAF_컵 "wikilink"): 준우승 1회 (2003)
 
 ## 외부 링크

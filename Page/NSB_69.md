@@ -5,7 +5,7 @@
 
 ## 역사
 
-1960년대 NSB에서는 지역 교통을 위하여 새로운 전동차를 도입하기로 하였다. [65](https://ko.wikipedia.org/wiki/NSB_65 "wikilink"), [67](https://ko.wikipedia.org/wiki/NSB_67 "wikilink"), [68](https://ko.wikipedia.org/wiki/NSB_68 "wikilink") 전동차는 약 30년간 개조만 된 채로 사용되었으며, 좀 더 새로운 차량이 필요하였다. 스웨덴에서 사용한 [X1](https://ko.wikipedia.org/wiki/SL_X1 "wikilink") 차량에서 아이디어를 얻어서 NSB에서는 여러 안을 생각하였다.
+1960년대 NSB에서는 지역 교통을 위하여 새로운 전동차를 도입하기로 하였다. [65](https://ko.wikipedia.org/wiki/NSB_65 "wikilink"), [67](https://ko.wikipedia.org/wiki/NSB_67 "wikilink"), [68](https://ko.wikipedia.org/wiki/NSB_68 "wikilink") 전동차는 약 30년간 개조만 된 채로 사용되었으며, 좀 더 새로운 차량이 필요하였다. 스웨덴에서 사용한 [X1](../Page/SL_X1.md "wikilink") 차량에서 아이디어를 얻어서 NSB에서는 여러 안을 생각하였다.
 
 첫째로 새로운 내장재를 도입하여 신형 객차 2량과 구형 객차 3량의 승객 수가 비슷해야 한다. 둘째로 더 빠른 열차를 필요로 하였고, 최고 속도를 시속 70에서 130km으로 증속하였다. 이를 통하여 선로 용량을 3배로 늘일 수 있었다. 예를 들어 오슬로에서 스키까지를 운행하기 위하여 필요한 차량은 9대에서 4대로 줄어들었다. 1200kW급 사이리스터 제어를 장착하였고, 이는 과거 전동차보다 용량이 더 컸다.
 

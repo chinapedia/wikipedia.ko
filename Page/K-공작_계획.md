@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K- ](https://ko.wikipedia.org/wiki/K-_).
 
 
-**K-공작계획**은 [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 당시 [보안사](https://ko.wikipedia.org/wiki/보안사령부 "wikilink") 언론반장 [이상재가](https://ko.wikipedia.org/wiki/이상재_\(1934년\) "wikilink") **"단결된 군부의 기반을 주축으로 지속적인 국력 신장을 위한 안정 세력을 구축"**이라는 목적으로 [전두환](https://ko.wikipedia.org/wiki/전두환 "wikilink") 보안사령관의 결재를 받아 실행한 언론 회유 공작 계획이다. 이는 [신군부](https://ko.wikipedia.org/wiki/신군부 "wikilink")의 집권 과정 도중 언론을 장악하기 위한 계획으로 활용됐다.
+**K-공작계획**은 [1980년](../Page/1980년.md "wikilink") [3월](../Page/3월.md "wikilink") 당시 [보안사](https://ko.wikipedia.org/wiki/보안사령부 "wikilink") 언론반장 [이상재가](https://ko.wikipedia.org/wiki/이상재_\(1934년\) "wikilink") **"단결된 군부의 기반을 주축으로 지속적인 국력 신장을 위한 안정 세력을 구축"**이라는 목적으로 [전두환](../Page/전두환.md "wikilink") 보안사령관의 결재를 받아 실행한 언론 회유 공작 계획이다. 이는 [신군부](https://ko.wikipedia.org/wiki/신군부 "wikilink")의 집권 과정 도중 언론을 장악하기 위한 계획으로 활용됐다.
 
 ## 배경
 
@@ -41,9 +41,9 @@
 
 ## 같이 보기
 
-  - [12·12 군사 반란](https://ko.wikipedia.org/wiki/12·12_군사_반란 "wikilink")
-  - [전두환](https://ko.wikipedia.org/wiki/전두환 "wikilink")
-  - [노태우](https://ko.wikipedia.org/wiki/노태우 "wikilink")
+  - [12·12 군사 반란](../Page/12·12_군사_반란.md "wikilink")
+  - [전두환](../Page/전두환.md "wikilink")
+  - [노태우](../Page/노태우.md "wikilink")
   - [이상재](https://ko.wikipedia.org/wiki/이상재_\(1934년\) "wikilink")
   - [정호용](../Page/정호용.md "wikilink")
   - [허삼수](../Page/허삼수.md "wikilink")
@@ -57,7 +57,7 @@
   - [중앙정보부](../Page/대한민국_중앙정보부.md "wikilink")
   - [1980년 언론통폐합](../Page/언론통폐합.md "wikilink")
   - [5·17 비상계엄 전국확대 조치](https://ko.wikipedia.org/wiki/5·17_비상계엄_전국확대_조치 "wikilink")
-  - [5·17 쿠데타](https://ko.wikipedia.org/wiki/5·17_쿠데타 "wikilink")
+  - [5·17 쿠데타](../Page/5·17_쿠데타.md "wikilink")
   - [5.18 민주화운동](https://ko.wikipedia.org/wiki/5.18_민주화운동 "wikilink")
   - [전두환 노태우 비자금 수사](https://ko.wikipedia.org/wiki/전두환_노태우_비자금_수사 "wikilink")
   - [문민 정부](https://ko.wikipedia.org/wiki/문민_정부 "wikilink")

@@ -1,38 +1,38 @@
 > This article is converted from Wikipedia: [Lead](https://ko.wikipedia.org/wiki/Lead).
 
 
-**리드**(Lead)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 3인조 댄스 그룹이다. 멤버 전원이 보컬 담당. 소속사는 [비전 팩토리](https://ko.wikipedia.org/wiki/비전_팩토리 "wikilink"), 레이블은 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")이다.
+**리드**(Lead)는 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 3인조 댄스 그룹이다. 멤버 전원이 보컬 담당. 소속사는 [비전 팩토리](https://ko.wikipedia.org/wiki/비전_팩토리 "wikilink"), 레이블은 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")이다.
 
 ## 멤버
 
-  - **[타니우치 신야](https://ko.wikipedia.org/wiki/다니우치_신야 "wikilink")** (, [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") \~ )
+  - **[타니우치 신야](https://ko.wikipedia.org/wiki/다니우치_신야 "wikilink")** (, [1987년](../Page/1987년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ )
 
 <!-- end list -->
 
   -
-    [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") [히라카타 시](https://ko.wikipedia.org/wiki/히라카타_시 "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#006400">**초록**</span>.
+    [오사카부](../Page/오사카부.md "wikilink") [히라카타 시](https://ko.wikipedia.org/wiki/히라카타_시 "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#006400">**초록**</span>.
 
 <!-- end list -->
 
-  - **[후루야 케이타](https://ko.wikipedia.org/wiki/후루야_게이타 "wikilink")** (, [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink") \~ )
-
-<!-- end list -->
-
-  -
-    [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink") [후쿠오카 시](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#ffa500">**노랑**</span>.
-
-<!-- end list -->
-
-  - **[카기모토 아키라](https://ko.wikipedia.org/wiki/가기모토_아키라 "wikilink")** (, 1988년 [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") \~ )
+  - **[후루야 케이타](https://ko.wikipedia.org/wiki/후루야_게이타 "wikilink")** (, [1988년](../Page/1988년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") \~ )
 
 <!-- end list -->
 
   -
-    [나라현](https://ko.wikipedia.org/wiki/나라현 "wikilink") [이코마 군](https://ko.wikipedia.org/wiki/이코마_군 "wikilink") [이카루가 정](https://ko.wikipedia.org/wiki/이카루가_정 "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#0000cd">**파랑**</span>.
+    [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카 시](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#ffa500">**노랑**</span>.
+
+<!-- end list -->
+
+  - **[카기모토 아키라](https://ko.wikipedia.org/wiki/가기모토_아키라 "wikilink")** (, 1988년 [8월 20일](../Page/8월_20일.md "wikilink") \~ )
+
+<!-- end list -->
+
+  -
+    [나라현](../Page/나라현.md "wikilink") [이코마 군](https://ko.wikipedia.org/wiki/이코마_군 "wikilink") [이카루가 정](https://ko.wikipedia.org/wiki/이카루가_정 "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#0000cd">**파랑**</span>.
 
 ### 이전 멤버
 
-  - **[나카도이 히로키](https://ko.wikipedia.org/wiki/나카도이_히로키 "wikilink")** (, [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") \~ )
+  - **[나카도이 히로키](https://ko.wikipedia.org/wiki/나카도이_히로키 "wikilink")** (, [1985년](../Page/1985년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") \~ )
 
 <!-- end list -->
 
@@ -41,13 +41,13 @@
 
 ## 개요
 
-댄스 스쿨 '캬레스' [오사카](https://ko.wikipedia.org/wiki/오사카부 "wikilink") 지부에 다니던 나카도이 히로키 와 타니우치 신야, 카기모토 아키라가 **Rhymix**라는 이름의 유닛을 만들어 [2002년 4월부터](https://ko.wikipedia.org/wiki/2002년_4월 "wikilink") 스트리트 라이브를 시작하였다. 그 후 **flow**라고 개명해 [교바시 역](https://ko.wikipedia.org/wiki/교바시_역_\(오사카_부\) "wikilink") 부근 등으로 활동 영역을 넓혔고, 같은 해 [6월](../Page/2002년_6월.md "wikilink"), **[규슈](https://ko.wikipedia.org/wiki/규슈 "wikilink")·[오키나와](https://ko.wikipedia.org/wiki/오키나와 "wikilink") 스타라이트 오디션2002**에 참가해 심사위원 특별상을 받은 후루야 케이타가 합류해 현재의 리드가 되었다. 그룹 이름은 '시대를 이끄는() 존재가 되고 싶다'는 의미를 담아 자신들이 지었다. 후루야 케이타 합류 후 다시 오사카에서 스트리트 라이브를 시작, 특히 [오사카 성 공원에서의](https://ko.wikipedia.org/wiki/오사카_성_공원 "wikilink") 라이브에는 약 7000명의 관객을 동원하였다. 같은 해 [여름](https://ko.wikipedia.org/wiki/여름 "wikilink"), 선배인 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 첫 번째 콘서트 오프닝 무대에 서며 전국을 돌았다.
+댄스 스쿨 '캬레스' [오사카](../Page/오사카부.md "wikilink") 지부에 다니던 나카도이 히로키 와 타니우치 신야, 카기모토 아키라가 **Rhymix**라는 이름의 유닛을 만들어 [2002년 4월부터](https://ko.wikipedia.org/wiki/2002년_4월 "wikilink") 스트리트 라이브를 시작하였다. 그 후 **flow**라고 개명해 [교바시 역](https://ko.wikipedia.org/wiki/교바시_역_\(오사카_부\) "wikilink") 부근 등으로 활동 영역을 넓혔고, 같은 해 [6월](../Page/2002년_6월.md "wikilink"), **[규슈](../Page/규슈.md "wikilink")·[오키나와](https://ko.wikipedia.org/wiki/오키나와 "wikilink") 스타라이트 오디션2002**에 참가해 심사위원 특별상을 받은 후루야 케이타가 합류해 현재의 리드가 되었다. 그룹 이름은 '시대를 이끄는() 존재가 되고 싶다'는 의미를 담아 자신들이 지었다. 후루야 케이타 합류 후 다시 오사카에서 스트리트 라이브를 시작, 특히 [오사카 성 공원에서의](https://ko.wikipedia.org/wiki/오사카_성_공원 "wikilink") 라이브에는 약 7000명의 관객을 동원하였다. 같은 해 [여름](../Page/여름.md "wikilink"), 선배인 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 첫 번째 콘서트 오프닝 무대에 서며 전국을 돌았다.
 
-2002년 [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") 싱글 "Magic" (한여름의 Magic)으로 메이저 데뷔. 2번 째 싱글 ""Show me the way""로 2002년 제44회 [일본 레코드 대상](https://ko.wikipedia.org/wiki/일본_레코드_대상 "wikilink") 신인상을 수상하였다. 또한 6번 째 싱글 "Night Deluxe"로 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 제46회 일본 레코드 대상 금상 수상, 8번 째 싱글 "" (새로운 계절로)로 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 제47회 일본 레코드 대상 금상을 수상하였다.
+2002년 [7월 31일](../Page/7월_31일.md "wikilink") 싱글 "Magic" (한여름의 Magic)으로 메이저 데뷔. 2번 째 싱글 ""Show me the way""로 2002년 제44회 [일본 레코드 대상](../Page/일본_레코드_대상.md "wikilink") 신인상을 수상하였다. 또한 6번 째 싱글 "Night Deluxe"로 [2004년](../Page/2004년.md "wikilink") 제46회 일본 레코드 대상 금상 수상, 8번 째 싱글 "" (새로운 계절로)로 [2005년](../Page/2005년.md "wikilink") 제47회 일본 레코드 대상 금상을 수상하였다.
 
-리퀘스트 베스트 앨범 *Lead Tracks \~listener's choice\~* 발매를 앞두고 투표를 통해 수록곡을 결정하기로 하였다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")뿐만 아니라 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"), [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink"), [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")에서도 투표를 실시하여 총 105,571표가 접수되었다.
+리퀘스트 베스트 앨범 *Lead Tracks \~listener's choice\~* 발매를 앞두고 투표를 통해 수록곡을 결정하기로 하였다. [일본](../Page/일본.md "wikilink")뿐만 아니라 [대한민국](../Page/대한민국.md "wikilink"), [중화민국](../Page/중화민국.md "wikilink"), [홍콩](../Page/홍콩.md "wikilink")에서도 투표를 실시하여 총 105,571표가 접수되었다.
 
-[2008년 7월](../Page/2008년_7월.md "wikilink"), 카기모토 아키라가 [오다 유지](https://ko.wikipedia.org/wiki/오다_유지 "wikilink") 주연의 [후지 TV 월요일 밤 9시 드라마](https://ko.wikipedia.org/wiki/후지_TV_월요일_밤_9시_드라마 "wikilink") 《[태양과 바다의 교실](../Page/태양과_바다의_교실.md "wikilink")》에서 히가키 모이치 역으로 출연하며 [황금시간대](https://ko.wikipedia.org/wiki/황금시간대 "wikilink") 연속 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")에 출연한 리드의 첫번 째 멤버가 되었다. [2010년 1월에는](../Page/2010년_1월.md "wikilink") 타니우치 신야가 [MBS TV](../Page/마이니치_방송.md "wikilink")·[TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 드라마 《신선조PEACE MAKER》에서 [히지카타 도시조](../Page/히지카타_도시조.md "wikilink") 역으로, 같은 해 [4월에는](../Page/2010년_4월.md "wikilink") 나카도이 히로키가 TBS 드라마 《[텀블링](https://ko.wikipedia.org/wiki/텀블링_\(드라마\) "wikilink")》에서 츠루미 사토히코 역으로 출연하였다.
+[2008년 7월](../Page/2008년_7월.md "wikilink"), 카기모토 아키라가 [오다 유지](../Page/오다_유지.md "wikilink") 주연의 [후지 TV 월요일 밤 9시 드라마](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink") 《[태양과 바다의 교실](../Page/태양과_바다의_교실.md "wikilink")》에서 히가키 모이치 역으로 출연하며 [황금시간대](https://ko.wikipedia.org/wiki/황금시간대 "wikilink") 연속 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")에 출연한 리드의 첫번 째 멤버가 되었다. [2010년 1월에는](../Page/2010년_1월.md "wikilink") 타니우치 신야가 [MBS TV](../Page/마이니치_방송.md "wikilink")·[TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 드라마 《신선조PEACE MAKER》에서 [히지카타 도시조](../Page/히지카타_도시조.md "wikilink") 역으로, 같은 해 [4월에는](../Page/2010년_4월.md "wikilink") 나카도이 히로키가 TBS 드라마 《[텀블링](../Page/텀블링_\(드라마\).md "wikilink")》에서 츠루미 사토히코 역으로 출연하였다.
 
 ## 음반 목록
 
@@ -710,21 +710,21 @@
 <td><p>2007년 11월 21일</p></td>
 <td><p>CD1 2. Ding Dong<br />
 CD2 1. OkiDoki Christmas</p></td>
-<td><p>비전 팩토리 소속 아티스트들이 참여한 <a href="https://ko.wikipedia.org/wiki/크리스마스" title="wikilink">크리스마스</a>를 테마로 한 컴필레이션 음반</p></td>
+<td><p>비전 팩토리 소속 아티스트들이 참여한 <a href="../Page/크리스마스.md" title="wikilink">크리스마스</a>를 테마로 한 컴필레이션 음반</p></td>
 </tr>
 <tr class="odd">
 <td><p>SPRING HARMONY<br />
 ~VISION FACTORY presents~</p></td>
 <td><p>2008년 2월 13일</p></td>
 <td><p>8. Thanks For...</p></td>
-<td><p>비전 팩토리 소속 아티스트들이 참여한 <a href="https://ko.wikipedia.org/wiki/봄" title="wikilink">봄</a>을 테마로 한 컴필레이션 음반</p></td>
+<td><p>비전 팩토리 소속 아티스트들이 참여한 <a href="../Page/봄.md" title="wikilink">봄</a>을 테마로 한 컴필레이션 음반</p></td>
 </tr>
 <tr class="even">
 <td><p>FLOWER FESTIVAL<br />
 ~VISION FACTORY presents~</p></td>
 <td><p>2008년 3월 19일</p></td>
 <td><p>11. Dear My Flower</p></td>
-<td><p>비전 팩토리 소속 아티스트들이 참여한 <a href="https://ko.wikipedia.org/wiki/꽃" title="wikilink">꽃</a>을 테마로 한 컴필레이션 음반</p></td>
+<td><p>비전 팩토리 소속 아티스트들이 참여한 <a href="../Page/꽃.md" title="wikilink">꽃</a>을 테마로 한 컴필레이션 음반</p></td>
 </tr>
 <tr class="odd">
 <td></td>
