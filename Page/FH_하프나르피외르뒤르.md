@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FH ](https://ko.wikipedia.org/wiki/FH_).
 
 
-**FH 하프나르피외르뒤르**([아이슬란드어](https://ko.wikipedia.org/wiki/아이슬란드어 "wikilink"): Fimleikafélag Hafnarfjarðar)는 [아이슬란드](https://ko.wikipedia.org/wiki/아이슬란드 "wikilink")의 축구 클럽이다. 연고지인 [하프나르피외르뒤르](https://ko.wikipedia.org/wiki/하프나르피외르뒤르 "wikilink")는 섬의 남동쪽에 위치해 있으며 수도인 [레이캬비크](https://ko.wikipedia.org/wiki/레이캬비크 "wikilink")에서 10km 정도 떨어져 있다.
+**FH 하프나르피외르뒤르**([아이슬란드어](../Page/아이슬란드어.md "wikilink"): Fimleikafélag Hafnarfjarðar)는 [아이슬란드](../Page/아이슬란드.md "wikilink")의 축구 클럽이다. 연고지인 [하프나르피외르뒤르](../Page/하프나르피외르뒤르.md "wikilink")는 섬의 남동쪽에 위치해 있으며 수도인 [레이캬비크](../Page/레이캬비크.md "wikilink")에서 10km 정도 떨어져 있다.
 
 ## 역대 성적
 
@@ -58,7 +58,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA컵" title="wikilink">UEFA컵</a></p></td>
 <td><p>1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/던디_유나이티드_FC" title="wikilink">던디 유나이티드</a></p></td>
+<td><p><a href="../Page/던디_유나이티드_FC.md" title="wikilink">던디 유나이티드</a></p></td>
 <td><p><strong>1-3</strong>, 2-2</p></td>
 </tr>
 <tr class="even">
@@ -66,7 +66,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA컵" title="wikilink">UEFA컵</a></p></td>
 <td><p>예선전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린필드_FC" title="wikilink">린필드</a></p></td>
+<td><p><a href="../Page/린필드_FC.md" title="wikilink">린필드</a></p></td>
 <td><p><strong>1-0</strong>, 1-3</p></td>
 </tr>
 <tr class="odd">
@@ -106,7 +106,7 @@
 <td></td>
 <td><p>예선2회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/던펌린_애슬레틱_FC" title="wikilink">던펌린 애슬레틱</a></p></td>
+<td><p><a href="../Page/던펌린_애슬레틱_FC.md" title="wikilink">던펌린 애슬레틱</a></p></td>
 <td><p><strong>2-2</strong>, 2-1</p></td>
 </tr>
 <tr class="even">
@@ -114,7 +114,7 @@
 <td></td>
 <td><p>1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알레마니아_아헨" title="wikilink">알레마니아 아헨</a></p></td>
+<td><p><a href="../Page/알레마니아_아헨.md" title="wikilink">알레마니아 아헨</a></p></td>
 <td><p><strong>1-5</strong>, 0-0</p></td>
 </tr>
 <tr class="odd">
@@ -122,7 +122,7 @@
 <td><p><a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
 <td><p>예선1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네프치_바쿠" title="wikilink">네프치 바쿠</a></p></td>
+<td><p><a href="../Page/네프치_바쿠.md" title="wikilink">네프치 바쿠</a></p></td>
 <td><p>0-2, <strong>1-2</strong></p></td>
 </tr>
 <tr class="even">
@@ -130,7 +130,7 @@
 <td><p><a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
 <td><p>예선1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_TVMK_탈린" title="wikilink">TVMK 탈린</a></p></td>
+<td><p><a href="../Page/FC_TVMK_탈린.md" title="wikilink">TVMK 탈린</a></p></td>
 <td><p>3-2, <strong>1-1</strong></p></td>
 </tr>
 <tr class="odd">
@@ -138,7 +138,7 @@
 <td></td>
 <td><p>예선2회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레기아_바르샤바" title="wikilink">레기아 바르샤바</a></p></td>
+<td><p><a href="../Page/레기아_바르샤바.md" title="wikilink">레기아 바르샤바</a></p></td>
 <td><p><strong>0-1</strong>, 0-2</p></td>
 </tr>
 <tr class="even">
@@ -146,7 +146,7 @@
 <td><p><a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
 <td><p>예선1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/HB_토르스하운" title="wikilink">HB 토르스하운</a></p></td>
+<td><p><a href="../Page/HB_토르스하운.md" title="wikilink">HB 토르스하운</a></p></td>
 <td><p><strong>4-1</strong>, 0-0</p></td>
 </tr>
 <tr class="odd">
@@ -178,7 +178,7 @@
 <td><p><a href="../Page/UEFA_챔피언스리그.md" title="wikilink">UEFA 챔피언스리그</a></p></td>
 <td><p>예선1회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_악퇴베" title="wikilink">악퇴베</a></p></td>
+<td><p><a href="../Page/FC_악퇴베.md" title="wikilink">악퇴베</a></p></td>
 <td><p><strong>0-4</strong>, 0-2</p></td>
 </tr>
 </tbody>

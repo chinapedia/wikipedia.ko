@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A Storm in Heaven](https://ko.wikipedia.org/wiki/A_Storm_in_Heaven).
 
 
-**A Storm in Heaven**는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [버브](../Page/버브.md "wikilink")의 첫 번째 정규 앨범이다.
+**A Storm in Heaven**는 [영국](../Page/영국.md "wikilink")의 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [버브](../Page/버브.md "wikilink")의 첫 번째 정규 앨범이다.
 
 ## 수록곡
 

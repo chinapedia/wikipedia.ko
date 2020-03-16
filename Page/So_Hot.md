@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [So Hot](https://ko.wikipedia.org/wiki/So_Hot).
 
 
-〈**So Hot**〉은 [원더걸스](../Page/원더걸스.md "wikilink")의 두 번째 싱글 음반이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink") 타이틀곡 〈**So Hot**〉의 음원과 뮤직비디오가 온라인으로 먼저 공개되었으며, 정식 앨범 발매는 [6월 3일](https://ko.wikipedia.org/wiki/6월_3일 "wikilink") 이루어졌다. 활동하는 세 번째 음반이라는 뜻에서 ‘The 3rd Project’라는 부제가 붙었다.
+〈**So Hot**〉은 [원더걸스](../Page/원더걸스.md "wikilink")의 두 번째 싱글 음반이다. [2008년](../Page/2008년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") 타이틀곡 〈**So Hot**〉의 음원과 뮤직비디오가 온라인으로 먼저 공개되었으며, 정식 앨범 발매는 [6월 3일](../Page/6월_3일.md "wikilink") 이루어졌다. 활동하는 세 번째 음반이라는 뜻에서 ‘The 3rd Project’라는 부제가 붙었다.
 
 새 곡 공개를 앞두고 하루에 한 장씩 멤버들의 콘셉트 사진을 공개하며 대중들의 관심을 끌었으며, 곡 공개 전날 미국의 음반 사이트에서 음원이 유출되는 일이 벌어지기도 했다. 세련된 모습을 전체적인 앨범의 콘셉트로 잡아 멤버 각자의 개성을 부각시키려고 했다. [정규 앨범에는](../Page/The_Wonder_Years.md "wikilink") 샘플링 허가가 지연되어 [유빈](../Page/유빈.md "wikilink")의 랩 부분이 없었는데, 이번 음반에서는 [선예](../Page/선예.md "wikilink")의 제안으로 랩 버전이 포함되었다.\[1\] 음반 재킷 사진은 [조선희](https://ko.wikipedia.org/wiki/조선희_\(사진가\) "wikilink") 작가가 맡았다.
 
 ## 배경 및 발매
 
-2008년 5월 5일 원더걸스의 멤버 [예은](https://ko.wikipedia.org/wiki/예은 "wikilink")은 자신의 미니 홈페이지에 "Second ground"라는 제목의 글과 함께 앨범을 준비 중이라고 알렸다.\[2\] 원더걸스의 한 측근은 "전혀 새로운 사운드와 더욱 중독성 있는 안무로 무장된 신곡을 선보일 것"이라고 말했다.\[3\] [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") 관계자는 6월 초 첫 방송을 잡아놨다며 [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink")이 미국에서 귀국한 이후 녹음 마무리 작업, 뮤직비디오 작업 등을 진행하고 있다고 알렸다.\[4\] 2008년 5월 23일 박진영은 《[섹션TV 연예통신](https://ko.wikipedia.org/wiki/섹션TV_연예통신 "wikilink")》와의 인터뷰에서 "원더걸스의 이번 앨범 컨셉은 업그레이드다. 춤, 음악, 패션 모두 지난번보다 한 단계 완성도가 높게 했다"며 이어 〈So Hot〉의 안무를 10번 이상 바꿨다고 말했다.\[5\]
+2008년 5월 5일 원더걸스의 멤버 [예은](https://ko.wikipedia.org/wiki/예은 "wikilink")은 자신의 미니 홈페이지에 "Second ground"라는 제목의 글과 함께 앨범을 준비 중이라고 알렸다.\[2\] 원더걸스의 한 측근은 "전혀 새로운 사운드와 더욱 중독성 있는 안무로 무장된 신곡을 선보일 것"이라고 말했다.\[3\] [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") 관계자는 6월 초 첫 방송을 잡아놨다며 [박진영](../Page/박진영.md "wikilink")이 미국에서 귀국한 이후 녹음 마무리 작업, 뮤직비디오 작업 등을 진행하고 있다고 알렸다.\[4\] 2008년 5월 23일 박진영은 《[섹션TV 연예통신](../Page/섹션TV_연예통신.md "wikilink")》와의 인터뷰에서 "원더걸스의 이번 앨범 컨셉은 업그레이드다. 춤, 음악, 패션 모두 지난번보다 한 단계 완성도가 높게 했다"며 이어 〈So Hot〉의 안무를 10번 이상 바꿨다고 말했다.\[5\]
 
 2008년 5월 16일 JYP 엔터테인먼트 공식 홈페이지를 통해 레오파드 원피스와 붉은색 스타킹을 입은 예은의 사진을 공개했다. JYP 엔터테인먼트 관계자는 "현재 막바지 작업에 한창이다. 원더걸스의 신곡과 새로운 컨셉트는 〈Tell Me〉의 파급력을 뛰어넘을 것"이라고 말했다.\[6\] 5월 18일에는 [선예](../Page/선예.md "wikilink")의 티저 사진을 공개했는데, 데뷔 이후 처음으로 단발 머리를 시도했다.\[7\] 이후 19일에는 [유빈](../Page/유빈.md "wikilink"),\[8\] 20일에는 [선미](../Page/선미.md "wikilink"),\[9\] 21일에는 [소희의](../Page/안소희.md "wikilink") 티저 사진을 순차적으로 공개했다.\[10\] 공개된 티저 사진에는 예은은 세련, 선예는 보이시, 소희는 큐티, 선미는 걸리시, 유빈은 섹시와 같은 개별 컨셉이 있었다.\[11\] 티저 사진과 함께 자켓 사진은 사진작가 조선희가 맡았다.\[12\]
 
@@ -15,9 +15,9 @@
 
 ## 구성
 
-[200px](https://ko.wikipedia.org/wiki/파일:Wonder_Girls-M_Super_Concert_01R.jpg "wikilink") 타이틀곡 〈**So Hot**〉은 80년대 복고풍 악기와 현대적인 악기가 어우러진 멜로디와, 자신의 예쁜 미모와 인기가 피곤하다는 ‘21세기형 공주병’을 표방한 내용의 가사가 어우러진 댄스곡이다. 의상 콘셉트는 호피무늬로, 앨범에 포함된 화보는 물론 모든 방송 무대에서 호피무늬 의상을 착용했다. 장재혁 감독이 제작한 뮤직비디오는 ‘코믹 섹시’를 콘셉트로, 가사 내용처럼 인기가 많지만, 공주병이 서투른 멤버들의 모습을 담아내었다. 안무는 도입부의 일명 ‘V 라인 춤’과 후렴구의 ‘기지개 춤’ 등이 특징적이다. MBC 《[무한도전](../Page/무한도전.md "wikilink")》 2008년 7월 5일자 방송에서 [김신영](../Page/김신영.md "wikilink")이, MBC 《코끼리》 7월 19일자 방송에서는 [이현지](../Page/이현지.md "wikilink")가, KBS 《[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")》 8월 3일자 방송에서는 [신봉선](../Page/신봉선.md "wikilink")이 이를 따라하여 화제를 불러 일으켰다. 동영상 제공 웹사이트 [유튜브](../Page/유튜브.md "wikilink")에는 뮤직비디오가 대한민국 내 영상으로는 이례적으로 조회수 100만을 넘기기도 했다.\[17\]\[18\] 태국 MTV 인터내셔널 차트에서는 3주간 1위를 차지하기도 했다.\[19\] 또 [다이나믹 듀오의](https://ko.wikipedia.org/wiki/다이나믹_듀오 "wikilink") 4집 음반 《Last Days》의 〈해변의 Girl〉에는 〈So Hot〉의 일부분이 샘플링되었다.
+[200px](https://ko.wikipedia.org/wiki/파일:Wonder_Girls-M_Super_Concert_01R.jpg "wikilink") 타이틀곡 〈**So Hot**〉은 80년대 복고풍 악기와 현대적인 악기가 어우러진 멜로디와, 자신의 예쁜 미모와 인기가 피곤하다는 ‘21세기형 공주병’을 표방한 내용의 가사가 어우러진 댄스곡이다. 의상 콘셉트는 호피무늬로, 앨범에 포함된 화보는 물론 모든 방송 무대에서 호피무늬 의상을 착용했다. 장재혁 감독이 제작한 뮤직비디오는 ‘코믹 섹시’를 콘셉트로, 가사 내용처럼 인기가 많지만, 공주병이 서투른 멤버들의 모습을 담아내었다. 안무는 도입부의 일명 ‘V 라인 춤’과 후렴구의 ‘기지개 춤’ 등이 특징적이다. MBC 《[무한도전](../Page/무한도전.md "wikilink")》 2008년 7월 5일자 방송에서 [김신영](../Page/김신영.md "wikilink")이, MBC 《코끼리》 7월 19일자 방송에서는 [이현지](../Page/이현지.md "wikilink")가, KBS 《[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")》 8월 3일자 방송에서는 [신봉선](../Page/신봉선.md "wikilink")이 이를 따라하여 화제를 불러 일으켰다. 동영상 제공 웹사이트 [유튜브](../Page/유튜브.md "wikilink")에는 뮤직비디오가 대한민국 내 영상으로는 이례적으로 조회수 100만을 넘기기도 했다.\[17\]\[18\] 태국 MTV 인터내셔널 차트에서는 3주간 1위를 차지하기도 했다.\[19\] 또 [다이나믹 듀오의](../Page/다이나믹_듀오.md "wikilink") 4집 음반 《Last Days》의 〈해변의 Girl〉에는 〈So Hot〉의 일부분이 샘플링되었다.
 
-동영상 제공 웹사이트 네이버 비디오에서는 이 곡을 두고 ‘내가 만든 So Hot 뮤직비디오’라는 이벤트를 개최하였는데, 300여개가 넘는 사용자들의 리믹스 혹은 랩 버전 참가 동영상이 등록되었다. 이 이벤트의 최종 수상자는 1위부터 5위까지 5명으로 [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink")이 직접 선정하였다. 이와 겸하여 [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink")의 〈So Hot〉의 제작 과정을 설명하는 동영상이 공개되었는데, 이 또한 화제가 되어 패러디 영상까지 등장하기도 했다.
+동영상 제공 웹사이트 네이버 비디오에서는 이 곡을 두고 ‘내가 만든 So Hot 뮤직비디오’라는 이벤트를 개최하였는데, 300여개가 넘는 사용자들의 리믹스 혹은 랩 버전 참가 동영상이 등록되었다. 이 이벤트의 최종 수상자는 1위부터 5위까지 5명으로 [박진영](../Page/박진영.md "wikilink")이 직접 선정하였다. 이와 겸하여 [박진영](../Page/박진영.md "wikilink")의 〈So Hot〉의 제작 과정을 설명하는 동영상이 공개되었는데, 이 또한 화제가 되어 패러디 영상까지 등장하기도 했다.
 
 한편 《So Hot》 음반에 포함된 〈So Hot〉과 〈This time〉의 뮤직비디오에 같은 [JYP 엔터테인먼트의](../Page/JYP_엔터테인먼트.md "wikilink") 소속 가수인 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 데뷔가 예고되어 있었다는 주장이 있다. 〈So Hot〉뮤직비디오의 1분 25초경 시계가 ‘PM:02’였었다는 점과 2분 30초부터 유빈이 0점과 10점 푯말을 들고 있다는 것도 2PM의 데뷔곡인 〈10점 만점의 10점〉을 암시하는 것이 아니냐는 주장이 있다. 또 〈This Time〉뮤직비디오 21초경에도 2PM의 데뷔일인 9월 4일에 달력이 펼쳐져 있었다.
 
@@ -33,44 +33,44 @@
 
 ## 순위 및 수상 기록
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 6월 싸이월드 디지털 뮤직 어워드 - Song of the Month
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 20’s Choice - Hot 클럽뮤직
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [멜론 뮤직 어워드](https://ko.wikipedia.org/wiki/멜론_뮤직_어워드 "wikilink") 올해의 노래상
-  - [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")》 ‘K-chart’
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink") 디지털 음원 1위
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink") 디지털 음원 1위
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") 디지털 음원 1위
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 통합 1위
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") 디지털 음원 1위
+  - [2008년](../Page/2008년.md "wikilink") 6월 싸이월드 디지털 뮤직 어워드 - Song of the Month
+  - [2008년](../Page/2008년.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 20’s Choice - Hot 클럽뮤직
+  - [2008년](../Page/2008년.md "wikilink") [멜론 뮤직 어워드](../Page/멜론_뮤직_어워드.md "wikilink") 올해의 노래상
+  - [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 ‘K-chart’
+      - [2008년](../Page/2008년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") 디지털 음원 1위
+      - [2008년](../Page/2008년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") 디지털 음원 1위
+      - [2008년](../Page/2008년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") 디지털 음원 1위
+      - [2008년](../Page/2008년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") 통합 1위
+      - [2008년](../Page/2008년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") 디지털 음원 1위
   - [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 ‘뮤티즌 송’\[22\]
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") 수상
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") 수상
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink") 수상
+      - [2008년](../Page/2008년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") 수상
+      - [2008년](../Page/2008년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") 수상
+      - [2008년](../Page/2008년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") 수상
   - [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[M\! Countdown](https://ko.wikipedia.org/wiki/M!_Countdown "wikilink")》
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") 1위
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 1위
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 1위
+      - [2008년](../Page/2008년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") 1위
+      - [2008년](../Page/2008년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") 1위
+      - [2008년](../Page/2008년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 1위
 
 ## 판매량
 
-| 기준                                                         | 판매량    | 누적 판매량 | 순위    |
-| ---------------------------------------------------------- | ------ | ------ | ----- |
-| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 6월 | 41,840 | 41,840 | **3** |
-| 7월                                                         | 9,951  | 51,791 | 8     |
-| 8월                                                         | 3,946  | 55,737 | \-    |
-| 9월                                                         | 3,762  | 59,499 | \-    |
-| 10월                                                        | 2,871  | 62,370 | \-    |
-| 누적                                                         | 62,370 | \-     |       |
+| 기준                                      | 판매량    | 누적 판매량 | 순위    |
+| --------------------------------------- | ------ | ------ | ----- |
+| [2008년](../Page/2008년.md "wikilink") 6월 | 41,840 | 41,840 | **3** |
+| 7월                                      | 9,951  | 51,791 | 8     |
+| 8월                                      | 3,946  | 55,737 | \-    |
+| 9월                                      | 3,762  | 59,499 | \-    |
+| 10월                                     | 2,871  | 62,370 | \-    |
+| 누적                                      | 62,370 | \-     |       |
 
-[한국음악산업협회](https://ko.wikipedia.org/wiki/한국음악산업협회 "wikilink") 기준 판매량 집계
+[한국음악산업협회](../Page/한국음악산업협회.md "wikilink") 기준 판매량 집계
 
 ## 발매일
 
-| 국가          | 날짜                                                        | 포맷                                                           | 레이블                                                             | 출처     |
-| ----------- | --------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- | ------ |
-| 한국          | 2008년 5월 22일                                              | [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | [로엔 엔터테인먼트](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") | \[23\] |
-| 2008년 6월 3일 | [CD 싱글](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") | \[24\]                                                       |                                                                 |        |
-|             |                                                           |                                                              |                                                                 |        |
+| 국가          | 날짜                                     | 포맷                                                           | 레이블                                                             | 출처     |
+| ----------- | -------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- | ------ |
+| 한국          | 2008년 5월 22일                           | [디지털 다운로드](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") | [로엔 엔터테인먼트](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") | \[23\] |
+| 2008년 6월 3일 | [CD 싱글](../Page/콤팩트_디스크.md "wikilink") | \[24\]                                                       |                                                                 |        |
+|             |                                        |                                                              |                                                                 |        |
 
 ## 각주
 
@@ -84,7 +84,7 @@
   -
 [분류:2008년 음반](https://ko.wikipedia.org/wiki/분류:2008년_음반 "wikilink") [분류:2008년 싱글](https://ko.wikipedia.org/wiki/분류:2008년_싱글 "wikilink") [분류:원더걸스의 음반](https://ko.wikipedia.org/wiki/분류:원더걸스의_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink") [분류:박진영이 작곡한 노래](https://ko.wikipedia.org/wiki/분류:박진영이_작곡한_노래 "wikilink") [분류:박진영이 작사한 노래](https://ko.wikipedia.org/wiki/분류:박진영이_작사한_노래 "wikilink") [분류:2008년 노래](https://ko.wikipedia.org/wiki/분류:2008년_노래 "wikilink")
 
-1.  [SBS 파워 FM](../Page/SBS.md "wikilink") 《이적의 텐텐클럽》 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") 방송분
+1.  [SBS 파워 FM](../Page/SBS.md "wikilink") 《이적의 텐텐클럽》 [2008년](../Page/2008년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink") 방송분
 2.
 3.
 4.

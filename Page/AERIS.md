@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AERIS](https://ko.wikipedia.org/wiki/AERIS).
 
 
-**AERIS**는 [이이즈카 마유미의](../Page/이이즈카_마유미.md "wikilink") 4번째 [음반](../Page/음반.md "wikilink")이다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink"), [파이오니아LDC에서](https://ko.wikipedia.org/wiki/제네온_엔터테인먼트 "wikilink") 발매.
+**AERIS**는 [이이즈카 마유미의](../Page/이이즈카_마유미.md "wikilink") 4번째 [음반](../Page/음반.md "wikilink")이다. [2000년](../Page/2000년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink"), [파이오니아LDC에서](https://ko.wikipedia.org/wiki/제네온_엔터테인먼트 "wikilink") 발매.
 
 ## 해설
 

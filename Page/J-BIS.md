@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [J-BIS](https://ko.wikipedia.org/wiki/J-BIS).
 
 
-**J-BIS 바이오유닛**(, )은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 각 [공항](https://ko.wikipedia.org/wiki/공항 "wikilink")과 항만에 도입된 [입국심사](https://ko.wikipedia.org/wiki/입국심사 "wikilink") 시스템이다. 입국심사대에 설치된 기기로, 입국을 희망하여 일본상륙 신청을 하는 외국인들을 대상으로 양손 검지의 지문 스캐닝과 [홍채인식](https://ko.wikipedia.org/wiki/홍채인식 "wikilink")을 위한 얼굴 사진을 촬영하며, 동시에 일본입국관리국의 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink")와 대조하여, 범죄자나 과거에 강제퇴거 또는 강제추방 이력이 있는 외국인들의 재입국 방지를 위해 도입되었다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") 부로 전격 실시되고 있다. 일본에 입국하는 모든 외국인에게서 얼굴 사진과 지문을 채취한다. 외교관이나 특별영주권자(재일동포 등), 일본 정부에서 공식 초청한 사람은 이러한 생체 정보 채취 절차가 면제된다. (중앙정부가 아닌, 지방자치단체의 장이 초청한 사람은 인정되지 않음) 하지만 이는 외국인을 잠재적인 범죄인으로 보는 것으로, 인권 침해라는 지적을 받고 있어 지문 같은 [생체 정보를](https://ko.wikipedia.org/wiki/생체_정보 "wikilink") 채취하는 것에 대한 논란과 반발이 계속되고 있다.
+**J-BIS 바이오유닛**(, )은 [일본](../Page/일본.md "wikilink")의 각 [공항](../Page/공항.md "wikilink")과 항만에 도입된 [입국심사](https://ko.wikipedia.org/wiki/입국심사 "wikilink") 시스템이다. 입국심사대에 설치된 기기로, 입국을 희망하여 일본상륙 신청을 하는 외국인들을 대상으로 양손 검지의 지문 스캐닝과 [홍채인식](https://ko.wikipedia.org/wiki/홍채인식 "wikilink")을 위한 얼굴 사진을 촬영하며, 동시에 일본입국관리국의 [데이터베이스](../Page/데이터베이스.md "wikilink")와 대조하여, 범죄자나 과거에 강제퇴거 또는 강제추방 이력이 있는 외국인들의 재입국 방지를 위해 도입되었다. [2007년](../Page/2007년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") 부로 전격 실시되고 있다. 일본에 입국하는 모든 외국인에게서 얼굴 사진과 지문을 채취한다. 외교관이나 특별영주권자(재일동포 등), 일본 정부에서 공식 초청한 사람은 이러한 생체 정보 채취 절차가 면제된다. (중앙정부가 아닌, 지방자치단체의 장이 초청한 사람은 인정되지 않음) 하지만 이는 외국인을 잠재적인 범죄인으로 보는 것으로, 인권 침해라는 지적을 받고 있어 지문 같은 [생체 정보를](https://ko.wikipedia.org/wiki/생체_정보 "wikilink") 채취하는 것에 대한 논란과 반발이 계속되고 있다.
 
 ## 개요
 
-종래의 심사에서는 입국을 희망하는 사람이 성명을 변경하거나 다른 명의를 사용한 위조여권을 소지한 경우, 입국심사 과정에서 과거에 강제퇴거나 범죄이력이 있었던 것을 알아보는 것이 곤란했었다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [9월 11일에](https://ko.wikipedia.org/wiki/9월_11일 "wikilink") 일어난 미국의 [동시다발 테러사건을](https://ko.wikipedia.org/wiki/9·11_테러 "wikilink") 교훈 삼아서, 일본정부는 출입국관리 및 난민인정법(입관법)의 개정에 착수했다.
+종래의 심사에서는 입국을 희망하는 사람이 성명을 변경하거나 다른 명의를 사용한 위조여권을 소지한 경우, 입국심사 과정에서 과거에 강제퇴거나 범죄이력이 있었던 것을 알아보는 것이 곤란했었다. [2001년](../Page/2001년.md "wikilink") [9월 11일에](../Page/9월_11일.md "wikilink") 일어난 미국의 [동시다발 테러사건을](https://ko.wikipedia.org/wiki/9·11_테러 "wikilink") 교훈 삼아서, 일본정부는 출입국관리 및 난민인정법(입관법)의 개정에 착수했다.
 
-2007년 11월 20일, 입관법개정이 실행되어, [특별영주자](https://ko.wikipedia.org/wiki/특별영주자 "wikilink"), [외교관](https://ko.wikipedia.org/wiki/외교관 "wikilink"), 정부초대자, 16세 미만자 제외한 모든 외국인에 대해서는 입국심사를 원칙으로 하여, 양손 검지의 지문채취(스캐닝)와 얼굴사진 촬영이 의무화 되었다. 먼저 유사한 제도를 실시한 미국의 [US-VISIT](../Page/US-VISIT.md "wikilink")에 이어서 일본은 세계에서 2번째로 이러한 외국인 출입국관리 시스템을 운용하고 있는 나라가 되었다.
+2007년 11월 20일, 입관법개정이 실행되어, [특별영주자](../Page/특별영주자.md "wikilink"), [외교관](https://ko.wikipedia.org/wiki/외교관 "wikilink"), 정부초대자, 16세 미만자 제외한 모든 외국인에 대해서는 입국심사를 원칙으로 하여, 양손 검지의 지문채취(스캐닝)와 얼굴사진 촬영이 의무화 되었다. 먼저 유사한 제도를 실시한 미국의 [US-VISIT](../Page/US-VISIT.md "wikilink")에 이어서 일본은 세계에서 2번째로 이러한 외국인 출입국관리 시스템을 운용하고 있는 나라가 되었다.
 
 지문스캐닝과 얼굴사진의 데이터는 입국심사장에서 [일본법무성](https://ko.wikipedia.org/wiki/일본법무성 "wikilink") [입국관리국](https://ko.wikipedia.org/wiki/입국관리국 "wikilink")의 서버로 보내진 후 약 5초를 전후로 블랙리스트 데이터베이스와 대조된다. 이 블랙리스트 데이터베이스에는 [국제 형사 경찰 기구](https://ko.wikipedia.org/wiki/국제_형사_경찰_기구 "wikilink")(ICPO, Interpol)와 [일본 경찰이](https://ko.wikipedia.org/wiki/일본_경찰 "wikilink") 지명수배하고 있는 약 1만 4천명과 과거에 일본으로부터 강제퇴거 이력이 있는 약 80만 명의 외국인들의 지문과 얼굴사진이 등록되어 있다. 입국관리국의 자체평가에서는 블랙리스트상에 있는 사람이 본 J-BIS 시스템을 무사통과할 수 있는 확률은 0.001%로 보고 있다.
 
@@ -23,13 +23,13 @@
 
   - [ROK-VISIT](https://ko.wikipedia.org/wiki/ROK-VISIT "wikilink")
   - [US-VISIT](../Page/US-VISIT.md "wikilink")
-  - [일본의 외국인](https://ko.wikipedia.org/wiki/일본의_외국인 "wikilink")
+  - [일본의 외국인](../Page/일본의_외국인.md "wikilink")
   - [사증](https://ko.wikipedia.org/wiki/사증 "wikilink")(비자)
   - [출입국관리](../Page/출입국관리.md "wikilink")
-  - [불법체류](https://ko.wikipedia.org/wiki/불법체류 "wikilink")
+  - [불법체류](../Page/불법체류.md "wikilink")
   - [생체정보](https://ko.wikipedia.org/wiki/생체정보 "wikilink")
   - [전자여권](https://ko.wikipedia.org/wiki/전자여권 "wikilink")(e-Passport)
-  - [출입국·외국인정책본부](https://ko.wikipedia.org/wiki/출입국·외국인정책본부 "wikilink")(KIS)
+  - [출입국·외국인정책본부](../Page/출입국·외국인정책본부.md "wikilink")(KIS)
 
 ## 각주
 

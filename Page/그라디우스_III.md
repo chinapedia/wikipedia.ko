@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ III](https://ko.wikipedia.org/wiki/_III).
 
 
-**그라디우스3: 전설에서 신화로**(, )는 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink") 초기의 [아케이드 게임으로](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink"), [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 일본에서 발매되었다.
+**그라디우스3: 전설에서 신화로**(, )는 [코나미](../Page/코나미.md "wikilink") 초기의 [아케이드 게임으로](../Page/아케이드_게임.md "wikilink"), [1990년](../Page/1990년.md "wikilink") 일본에서 발매되었다.
 
 ## 배경 음악
 

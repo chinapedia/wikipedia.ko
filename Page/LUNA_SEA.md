@@ -1,29 +1,29 @@
 > This article is converted from Wikipedia: [LUNA SEA](https://ko.wikipedia.org/wiki/LUNA_SEA).
 
 
-**LUNA SEA**(루나 시)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드이다. [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")에 현 멤버로 결성되었으며, [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 메이저 데뷔. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 종막을 선언하고 활동을 중단했다가 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 활동을 재개하였다.
+**LUNA SEA**(루나 시)는 [일본](../Page/일본.md "wikilink")의 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드이다. [1989년](../Page/1989년.md "wikilink")에 현 멤버로 결성되었으며, [1992년](../Page/1992년.md "wikilink") 메이저 데뷔. [2000년](../Page/2000년.md "wikilink")에 종막을 선언하고 활동을 중단했다가 [2010년](../Page/2010년.md "wikilink")에 활동을 재개하였다.
 
 ## 데뷔
 
-[1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 제이와 이노란이 결성한 밴드 LUNA SEA는 1989년 신야와 스기조를 영입, 후에 류이치를 영입해 지금의 멤버를 구성하고 그 해 [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink") 활동을 시작한다. [히데](../Page/히데.md "wikilink")와의 만남으로 인디즈로 데뷔 한 LUNA SEA는, 이때 [요시키](https://ko.wikipedia.org/wiki/요시키 "wikilink")와 히데에 이끌려 [엑스터시 레코드에서](https://ko.wikipedia.org/wiki/엑스터시_레코드 "wikilink") 1991년 4월에 첫 번째 인디즈 앨범 [LUNA SEA를](../Page/LUNA_SEA_\(음반\).md "wikilink") 발매한다.
+[1986년](../Page/1986년.md "wikilink") 제이와 이노란이 결성한 밴드 LUNA SEA는 1989년 신야와 스기조를 영입, 후에 류이치를 영입해 지금의 멤버를 구성하고 그 해 [5월 29일](../Page/5월_29일.md "wikilink") 활동을 시작한다. [히데](../Page/히데.md "wikilink")와의 만남으로 인디즈로 데뷔 한 LUNA SEA는, 이때 [요시키](https://ko.wikipedia.org/wiki/요시키 "wikilink")와 히데에 이끌려 [엑스터시 레코드에서](https://ko.wikipedia.org/wiki/엑스터시_레코드 "wikilink") 1991년 4월에 첫 번째 인디즈 앨범 [LUNA SEA를](../Page/LUNA_SEA_\(음반\).md "wikilink") 발매한다.
 
 ## 멤버
 
   - **[류이치](https://ko.wikipedia.org/wiki/w:ja:河村隆一 "wikilink")** (RYUICHI 카와무라 류이치): [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
-  - **[스기조](https://ko.wikipedia.org/wiki/스기조 "wikilink")** (SUGIZO): [기타](https://ko.wikipedia.org/wiki/기타 "wikilink") & [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink")
-  - **[이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")** (INORAN): [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - **[J](https://ko.wikipedia.org/wiki/J_\(음악가\) "wikilink")**: [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - **[스기조](https://ko.wikipedia.org/wiki/스기조 "wikilink")** (SUGIZO): [기타](../Page/기타.md "wikilink") & [바이올린](../Page/바이올린.md "wikilink")
+  - **[이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")** (INORAN): [기타](../Page/기타.md "wikilink")
+  - **[J](../Page/J_\(음악가\).md "wikilink")**: [베이스](../Page/베이스_기타.md "wikilink")
   - **[신야](https://ko.wikipedia.org/wiki/신야 "wikilink")** (真矢): [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink") & [타악기](https://ko.wikipedia.org/wiki/타악기 "wikilink")
 
 멤버 전원이 작사와 작곡을 동반 해, 초기의 작품 이외는 모두 작사와 작곡을 LUNA SEA로 표기하고 있다. 원곡이 되는 곡은 개인이 작곡하지만, 그것을 바탕으로 멤버 전원이 곡을 수정하는 방법 (잼 세션)을 취하고 있기 때문이며, 또한 수익금 등의 권리를 공평하게 한다고 하는 의미도 있다.
 
-팬들을 SLAVE라고 부르고 있으며, 제 6의 멤버라 말하고 있다. SLAVE는 오피셜 팬클럽의 명칭이기도 해, 팬클럽 SLAVE는 [LUNA SEA가](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 종막 이후 무기한 활동 휴지를 선언했을 당시에도 꾸준히 유지, 현재도 활동하고 있다.
+팬들을 SLAVE라고 부르고 있으며, 제 6의 멤버라 말하고 있다. SLAVE는 오피셜 팬클럽의 명칭이기도 해, 팬클럽 SLAVE는 [LUNA SEA가](../Page/LUNA_SEA.md "wikilink") 종막 이후 무기한 활동 휴지를 선언했을 당시에도 꾸준히 유지, 현재도 활동하고 있다.
 
 ## 밴드 명
 
 LUNA SEA (LUNA SEA)는 '달과 바다'라고 하는 의미이며 (LUNA는 라틴어 SEA는 영어다), LUNA SEA가 가지는 환상적인 이미지를 잘 표현하고 있다. 중국에서는 '月之海'라 부르고 있다. 인디즈 시절에는 광기라고 하는 의미의 'LUNACY'라고 했다. 메이저로의 활동을 시작한 멤버들은, 하나의 의미에만 얽매이지 않고 넓게 생각 하겠다는 의미로부터, ∼CY를 ∼SEA로 변경한 'LUNA SEA'라고 하는 이름으로 변경했다. 이것은 J의 제안에 의한 것이다.
 
-또, 2000년에 발매된 'LUNACY' 앨범은 [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 인디즈 시절 밴드 명이었다. 이는 초심으로 돌아가자는 의미를 담고 있다.
+또, 2000년에 발매된 'LUNACY' 앨범은 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 인디즈 시절 밴드 명이었다. 이는 초심으로 돌아가자는 의미를 담고 있다.
 
 ## 에피소드
 
@@ -42,28 +42,28 @@ LUNA SEA (LUNA SEA)는 '달과 바다'라고 하는 의미이며 (LUNA는 라틴
 
 ## LUNA SEA의 영향을받은 뮤지션
 
-실로 많은 [비주얼계](https://ko.wikipedia.org/wiki/비주얼계 "wikilink") 밴드 나 아티스트가 LUNA SEA의 영향을 받고있다. 또한 비주얼 계 이외의 밴드에도지지가있다.
+실로 많은 [비주얼계](../Page/비주얼계.md "wikilink") 밴드 나 아티스트가 LUNA SEA의 영향을 받고있다. 또한 비주얼 계 이외의 밴드에도지지가있다.
 
 <table>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/MIYAVI" title="wikilink">MIYAVI</a>[1]</li>
-<li><a href="https://ko.wikipedia.org/wiki/L&#39;Arc~en~Ciel" title="wikilink">L'Arc~en~Ciel</a>[2]</li>
+<li><a href="../Page/MIYAVI.md" title="wikilink">MIYAVI</a>[1]</li>
+<li><a href="../Page/L&#39;Arc~en~Ciel.md" title="wikilink">L'Arc~en~Ciel</a>[2]</li>
 <li><a href="https://ko.wikipedia.org/wiki/Glay" title="wikilink">GLAY</a>[3]</li>
-<li><a href="https://ko.wikipedia.org/wiki/시드_(밴드)" title="wikilink">SID</a>[4]</li>
+<li><a href="../Page/시드_(밴드).md" title="wikilink">SID</a>[4]</li>
 <li><a href="../Page/Λucifer.md" title="wikilink">Λucifer</a>[5]</li>
 <li><a href="../Page/챗몬치.md" title="wikilink">Chatmonchy</a>[6]</li>
-<li><a href="https://ko.wikipedia.org/wiki/DuelJewel" title="wikilink">DuelJewel</a>[7]</li>
+<li><a href="../Page/DuelJewel.md" title="wikilink">DuelJewel</a>[7]</li>
 </ul></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/무크_(밴드)" title="wikilink">MUCC</a>[8][9]</li>
+<li><a href="../Page/무크_(밴드).md" title="wikilink">MUCC</a>[8][9]</li>
 <li><a href="https://ko.wikipedia.org/wiki/Alice_Nine" title="wikilink">Alice Nine</a>[10]</li>
-<li><a href="https://ko.wikipedia.org/wiki/나이트메어_(밴드)" title="wikilink">NIGHTMARE</a>[11]</li>
+<li><a href="../Page/나이트메어_(밴드).md" title="wikilink">NIGHTMARE</a>[11]</li>
 <li><a href="https://ko.wikipedia.org/wiki/린토시테시구레" title="wikilink">Ling Tosite Sigure</a>[12][13]</li>
 <li><a href="../Page/Fear,_and_Loathing_in_Las_Vegas.md" title="wikilink">Fear, and Loathing in Las Vegas</a>[14]</li>
 <li><a href="https://ko.wikipedia.org/wiki/9mm_패러벨럼_불렛" title="wikilink">9mm Parabellum Bullet</a>[15]</li>
-<li><a href="https://ko.wikipedia.org/wiki/Kra_(밴드)" title="wikilink">Kra</a>[16]</li>
+<li><a href="../Page/Kra_(밴드).md" title="wikilink">Kra</a>[16]</li>
 </ul></td>
 <td><ul>
 <li><a href="https://ko.wikipedia.org/wiki/가젯토" title="wikilink">the GazettE</a>[17]</li>
@@ -87,7 +87,7 @@ LUNA SEA (LUNA SEA)는 '달과 바다'라고 하는 의미이며 (LUNA는 라틴
   - 《[LUNA SEA](https://ko.wikipedia.org/wiki/LUNA_SEA_\(LUNA_SEA의_음반\) "wikilink")》 (1991년 4월 21일 - 인디즈 앨범 / 2011년 3월 16일 - 셀프커버 앨범, 1집)
   - 《[IMAGE](../Page/IMAGE_\(LUNA_SEA의_음반\).md "wikilink")》 (1992년 5월 21일, 2집)
   - 《[EDEN](../Page/EDEN_\(LUNA_SEA의_음반\).md "wikilink")》 (1993년 4월 21일, 3집)
-  - 《[MOTHER](https://ko.wikipedia.org/wiki/MOTHER_\(LUNA_SEA의_음반\) "wikilink")》 (1994년 10월 26일, 4집)
+  - 《[MOTHER](../Page/MOTHER_\(LUNA_SEA의_음반\).md "wikilink")》 (1994년 10월 26일, 4집)
   - 《[STYLE](../Page/STYLE_\(LUNA_SEA의_음반\).md "wikilink")》 (1996년 4월 22일, 5집)
   - 《[SHINE](../Page/SHINE_\(LUNA_SEA의_음반\).md "wikilink")》 (1998년 7월 23일, 6집)
   - 《[LUNACY](../Page/LUNACY.md "wikilink")》 (2000년 7월 12일, 7집)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 2K](https://ko.wikipedia.org/wiki/WWE_2K).
 
 
-**WWE 2K**는 THQ사 발매 YUKES 사 개발의 [프로레슬링](https://ko.wikipedia.org/wiki/프로레슬링 "wikilink") 게임 시리즈이다.
+**WWE 2K**는 THQ사 발매 YUKES 사 개발의 [프로레슬링](../Page/프로레슬링.md "wikilink") 게임 시리즈이다.
 
 ## 게임모드
 
@@ -25,16 +25,16 @@
   - WWE 스맥다운\! Here Comes The Pain ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink"))
   - WWE 러 ([XBOX](https://ko.wikipedia.org/wiki/XBOX "wikilink"))
   - WWE 러 2 ([XBOX](https://ko.wikipedia.org/wiki/XBOX "wikilink"))
-  - [WWE 스맥다운 vs 러](../Page/WWE_스맥다운_vs_러.md "wikilink") ([PS2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink"))
-  - [WWE 스맥다운 vs 러 2006](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2006 "wikilink") ([PS2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink"), [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"))
-  - [WWE 스맥다운 vs 러 2007](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2007 "wikilink") ([PS2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink"), [XBOX360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"))
-  - [WWE 스맥다운 vs 러 2008](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2008 "wikilink") ([PS2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink"), [XBOX360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [PS3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"), [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink") ,[NINTENDO DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink"))
-  - [WWE 스맥다운 vs 러 2009](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2009 "wikilink") ([PS2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink"), [XBOX360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [PS3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"), [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink") ,[NINTENDO DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink"))
-  - [WWE 스맥다운 vs 러 2010](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2010 "wikilink") ([PS2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink"), [XBOX360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [PS3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"), [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink") ,[NINTENDO DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink"))
-  - [WWE 스맥다운 vs 러 2011](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2011 "wikilink") ([PS2](https://ko.wikipedia.org/wiki/플레이스테이션2 "wikilink"), [XBOX360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [PS3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"), [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink") ,[NINTENDO DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink"))
+  - [WWE 스맥다운 vs 러](../Page/WWE_스맥다운_vs_러.md "wikilink") ([PS2](../Page/플레이스테이션_2.md "wikilink"))
+  - [WWE 스맥다운 vs 러 2006](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2006 "wikilink") ([PS2](../Page/플레이스테이션_2.md "wikilink"), [PSP](../Page/플레이스테이션_포터블.md "wikilink"))
+  - [WWE 스맥다운 vs 러 2007](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2007 "wikilink") ([PS2](../Page/플레이스테이션_2.md "wikilink"), [XBOX360](../Page/엑스박스_360.md "wikilink"), [PSP](../Page/플레이스테이션_포터블.md "wikilink"))
+  - [WWE 스맥다운 vs 러 2008](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2008 "wikilink") ([PS2](../Page/플레이스테이션_2.md "wikilink"), [XBOX360](../Page/엑스박스_360.md "wikilink"), [PS3](../Page/플레이스테이션_3.md "wikilink"), [PSP](../Page/플레이스테이션_포터블.md "wikilink"), [Wii](../Page/Wii.md "wikilink") ,[NINTENDO DS](../Page/닌텐도_DS.md "wikilink"))
+  - [WWE 스맥다운 vs 러 2009](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2009 "wikilink") ([PS2](../Page/플레이스테이션_2.md "wikilink"), [XBOX360](../Page/엑스박스_360.md "wikilink"), [PS3](../Page/플레이스테이션_3.md "wikilink"), [PSP](../Page/플레이스테이션_포터블.md "wikilink"), [Wii](../Page/Wii.md "wikilink") ,[NINTENDO DS](../Page/닌텐도_DS.md "wikilink"))
+  - [WWE 스맥다운 vs 러 2010](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2010 "wikilink") ([PS2](../Page/플레이스테이션_2.md "wikilink"), [XBOX360](../Page/엑스박스_360.md "wikilink"), [PS3](../Page/플레이스테이션_3.md "wikilink"), [PSP](../Page/플레이스테이션_포터블.md "wikilink"), [Wii](../Page/Wii.md "wikilink") ,[NINTENDO DS](../Page/닌텐도_DS.md "wikilink"))
+  - [WWE 스맥다운 vs 러 2011](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_2011 "wikilink") ([PS2](https://ko.wikipedia.org/wiki/플레이스테이션2 "wikilink"), [XBOX360](../Page/엑스박스_360.md "wikilink"), [PS3](../Page/플레이스테이션_3.md "wikilink"), [PSP](../Page/플레이스테이션_포터블.md "wikilink"), [Wii](../Page/Wii.md "wikilink") ,[NINTENDO DS](../Page/닌텐도_DS.md "wikilink"))
   - WWE 12 (PS3, XBOX360, WII)
   - WWE 13 (PS3, XBOX360, WII)
-  - [WWE 2K14](https://ko.wikipedia.org/wiki/WWE_2K14 "wikilink") ([PS3](https://ko.wikipedia.org/wiki/플레이스테이션3 "wikilink"), [XBOX360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink")) - THQ가 파산함에 따라 판권을 2K스포츠가 맡음
+  - [WWE 2K14](https://ko.wikipedia.org/wiki/WWE_2K14 "wikilink") ([PS3](https://ko.wikipedia.org/wiki/플레이스테이션3 "wikilink"), [XBOX360](../Page/엑스박스_360.md "wikilink")) - THQ가 파산함에 따라 판권을 2K스포츠가 맡음
   - WWE 2K15 (PS3, XBOX ONE, PS4, XBOX360, MICROSOFT WINDOWS, ANDROID, IOS)
   - WWE 2K16 (PS3, XBOX ONE, PS4, XBOX360, MICROSOFT WINDOWS)
   - WWE 2K17 (PS3, XBOX ONE, PS4, XBOX360, MICROSOFT WINDOWS)

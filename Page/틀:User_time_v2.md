@@ -11,7 +11,7 @@
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Nuvola_apps_clock.png" title="wikilink">40px</a></strong></p></td>
 <td><div style="text-align: center;">
 <p>현재 시각은<br />
-<strong>{{#time:H시 i분 s초| hours, {{#if:|{{#ifexpr:&gt;0|+|-|}}|0}} minutes}}</strong>(<a href="https://ko.wikipedia.org/wiki/협정_세계시" title="wikilink">UTC</a>{{#if:|:|}}{{#if:|{{#ifexpr:=0|00||}}|}})<br />
+<strong>{{#time:H시 i분 s초| hours, {{#if:|{{#ifexpr:&gt;0|+|-|}}|0}} minutes}}</strong>(<a href="../Page/협정_세계시.md" title="wikilink">UTC</a>{{#if:|:|}}{{#if:|{{#ifexpr:=0|00||}}|}})<br />
 입니다.</p>
 </div></td>
 </tr>

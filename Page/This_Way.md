@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [This Way](https://ko.wikipedia.org/wiki/This_Way).
 
 
-**This Way**는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") 영국에서, [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink") 미국에서 발매된 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 앨범이다.
+**This Way**는 [2007년](../Page/2007년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") 영국에서, [6월 6일](../Page/6월_6일.md "wikilink") 미국에서 발매된 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 앨범이다.
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 4일](https://ko.wikipedia.org/wiki/2월_4일 "wikilink"), 어쿠스틱 알케미는, 최근에 자신들이 11개의 음악이 들어있는 앨범을 다 만들었다고 알렸다. 특별 참가자로 [트럼펫](../Page/트럼펫.md "wikilink") 연주자 [Rick Braun과](https://ko.wikipedia.org/wiki/Rick_Braun "wikilink"), ("Carlos The King") [색소폰](../Page/색소폰.md "wikilink") 연주자 [Jeff Kashiwa](https://ko.wikipedia.org/wiki/Jeff_Kashiwa "wikilink") ("Egg")가 참여하였다.
+[2007년](../Page/2007년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink"), 어쿠스틱 알케미는, 최근에 자신들이 11개의 음악이 들어있는 앨범을 다 만들었다고 알렸다. 특별 참가자로 [트럼펫](../Page/트럼펫.md "wikilink") 연주자 [Rick Braun과](https://ko.wikipedia.org/wiki/Rick_Braun "wikilink"), ("Carlos The King") [색소폰](../Page/색소폰.md "wikilink") 연주자 [Jeff Kashiwa](https://ko.wikipedia.org/wiki/Jeff_Kashiwa "wikilink") ("Egg")가 참여하였다.
 
 이 앨범은 [Narada Productions에서](https://ko.wikipedia.org/wiki/Narada_Productions "wikilink") 발매된 첫 앨범이다.
 

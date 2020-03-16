@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  AFC](https://ko.wikipedia.org/wiki/__AFC).
 
 
-**허더즈필드 타운 FC**는 [1908년](https://ko.wikipedia.org/wiki/1908년 "wikilink")에 설립된 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink")으로 [웨스트요크셔주](https://ko.wikipedia.org/wiki/웨스트요크셔주 "wikilink")의 [허더즈필드](https://ko.wikipedia.org/wiki/허더즈필드 "wikilink")에 연고를 두고 있다.
+**허더즈필드 타운 FC**는 [1908년](../Page/1908년.md "wikilink")에 설립된 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink")으로 [웨스트요크셔주](../Page/웨스트요크셔주.md "wikilink")의 [허더즈필드](../Page/허더즈필드.md "wikilink")에 연고를 두고 있다.
 
 1926년에 허더즈필드는 최초로 3회 연속 리그 우승을 차지한 팀이 되었다. 이 기록은 허더즈필드를 제외하고 단 세팀만이 가지고 있는 기록이다. 2005년 2월 2일에 팀명을 허더즈필드 타운 AFC (Huddersfield Town Association Football Club) 에서 허더즈필드 타운 FC (Huddersfield Town Football Club) 으로 변경하였다.
 

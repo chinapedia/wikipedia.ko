@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
 
 
-**FM 골든디스크**는 [MBC FM4U에서](../Page/MBC_FM4U.md "wikilink") 매일 오전 11시부터 방송되는 [팝 음악](https://ko.wikipedia.org/wiki/팝_음악 "wikilink") 전문 라디오 프로그램이다. 과거 [박원웅](https://ko.wikipedia.org/wiki/박원웅 "wikilink"), [김기덕](https://ko.wikipedia.org/wiki/김기덕_\(1948년\) "wikilink") PD 등이 프로그램을 거쳐갔으며 현재는 가수 [김현철이](https://ko.wikipedia.org/wiki/김현철_\(가수\) "wikilink") 진행한다.
+**FM 골든디스크**는 [MBC FM4U에서](../Page/MBC_FM4U.md "wikilink") 매일 오전 11시부터 방송되는 [팝 음악](../Page/팝_음악.md "wikilink") 전문 라디오 프로그램이다. 과거 [박원웅](https://ko.wikipedia.org/wiki/박원웅 "wikilink"), [김기덕](../Page/김기덕_\(1948년\).md "wikilink") PD 등이 프로그램을 거쳐갔으며 현재는 가수 [김현철이](../Page/김현철_\(가수\).md "wikilink") 진행한다.
 
 ## 역사
 
-[1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [4월 1일에](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 첫방송을 시작했다. 신설 후 [박원웅](https://ko.wikipedia.org/wiki/박원웅 "wikilink")이, [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")부터는 [김창완](../Page/김창완.md "wikilink")이 진행해오다 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 봄 개편 때 [김창완](../Page/김창완.md "wikilink")이 [MBC 표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink") "내일로 가는 밤"으로 이적하게 되었고, 그 이후부터 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 25일까지](https://ko.wikipedia.org/wiki/4월_25일 "wikilink") [김기덕이](https://ko.wikipedia.org/wiki/김기덕_\(1948년\) "wikilink") 진행하였다. [김기덕이](https://ko.wikipedia.org/wiki/김기덕_\(1948년\) "wikilink") 진행할 당시에는 Antonio Serano의 〈Send In The Clowns〉를 오프닝 시그널로 사용하였다. 이후 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 26일부터](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 21일까지](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") 가수 [이상은이](../Page/이상은_\(가수\).md "wikilink") 진행하였고, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 22일부터](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 31일까지는](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 피아니스트 [이루마](../Page/이루마.md "wikilink")가 진행했으며, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 1일부터](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 가수 [김현철이](https://ko.wikipedia.org/wiki/김현철_\(가수\) "wikilink") 진행하여 오늘에 이르고 있다.
+[1991년](../Page/1991년.md "wikilink") [4월 1일에](../Page/4월_1일.md "wikilink") 첫방송을 시작했다. 신설 후 [박원웅](https://ko.wikipedia.org/wiki/박원웅 "wikilink")이, [1993년](../Page/1993년.md "wikilink")부터는 [김창완](../Page/김창완.md "wikilink")이 진행해오다 [1997년](../Page/1997년.md "wikilink") 봄 개편 때 [김창완](../Page/김창완.md "wikilink")이 [MBC 표준FM](../Page/MBC_표준FM.md "wikilink") "내일로 가는 밤"으로 이적하게 되었고, 그 이후부터 [2010년](../Page/2010년.md "wikilink") [4월 25일까지](../Page/4월_25일.md "wikilink") [김기덕이](../Page/김기덕_\(1948년\).md "wikilink") 진행하였다. [김기덕이](../Page/김기덕_\(1948년\).md "wikilink") 진행할 당시에는 Antonio Serano의 〈Send In The Clowns〉를 오프닝 시그널로 사용하였다. 이후 [2010년](../Page/2010년.md "wikilink") [4월 26일부터](../Page/4월_26일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [10월 21일까지](../Page/10월_21일.md "wikilink") 가수 [이상은이](../Page/이상은_\(가수\).md "wikilink") 진행하였고, [2012년](../Page/2012년.md "wikilink") [10월 22일부터](../Page/10월_22일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [3월 31일까지는](../Page/3월_31일.md "wikilink") 피아니스트 [이루마](../Page/이루마.md "wikilink")가 진행했으며, [2019년](../Page/2019년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") 가수 [김현철이](../Page/김현철_\(가수\).md "wikilink") 진행하여 오늘에 이르고 있다.
 
 ## 코너
 
@@ -50,7 +50,7 @@ FM 98.1㎒ (태백)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/가정음악실" title="wikilink">안희성의 가정음악실</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산광역시</a>, <a href="https://ko.wikipedia.org/wiki/양산시" title="wikilink">양산시</a> 일부</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산광역시</a>, <a href="../Page/양산시.md" title="wikilink">양산시</a> 일부</p></td>
 <td><p><a href="../Page/부산문화방송.md" title="wikilink">부산문화방송</a></p></td>
 <td><p>안희성</p></td>
 <td><p>FM 88.9㎒</p></td>

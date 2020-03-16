@@ -5,7 +5,7 @@
 
 ## 설명
 
-[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 7일에](https://ko.wikipedia.org/wiki/12월_7일 "wikilink") [도쿠마 저팬 커뮤니케이션즈에서](https://ko.wikipedia.org/wiki/도쿠마_저팬_커뮤니케이션즈 "wikilink") 발매.
+[2005년](../Page/2005년.md "wikilink") [12월 7일에](../Page/12월_7일.md "wikilink") [도쿠마 저팬 커뮤니케이션즈에서](https://ko.wikipedia.org/wiki/도쿠마_저팬_커뮤니케이션즈 "wikilink") 발매.
 
 ## 수록곡
 

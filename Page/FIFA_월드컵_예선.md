@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
 
 
-**[FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 예선**은 각국의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대표팀들이 월드컵 본선에 진출하기 위한 자격을 얻는 과정이다. FIFA 월드컵은 전 세계적인 행사이며 예선은 200여개의 FIFA 회원국들 중 32개국을 가리기 위해 실시된다.
+**[FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 예선**은 각국의 [축구](../Page/축구.md "wikilink") 대표팀들이 월드컵 본선에 진출하기 위한 자격을 얻는 과정이다. FIFA 월드컵은 전 세계적인 행사이며 예선은 200여개의 FIFA 회원국들 중 32개국을 가리기 위해 실시된다.
 
 예선은 6개의 FIFA 대륙 연맹(남미, 북중미카리브, 아시아, 아프리카, 오세아니아, 유럽)별로 나뉘어 치러지며 각 대륙 연맹이 이를 관장한다. 매 대회가 시작하기 전에 FIFA는 대륙 연맹간의 실력차에 따라 각 대륙별로 참가팀 숫자를 배분한다. 월드컵의 개최국은 본선에 자동으로 출전한다. 다른 많은 스포츠들과는 다르게, 이전 월드컵 대회나 대륙 연맹별로 치러지는 선수권 대회의 성적이 반영되지 않는다. [2006년 월드컵부터](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 지난 대회 우승 팀에 대한 자동 출전권이 폐지되었다.
 
@@ -20,49 +20,49 @@
 <thead>
 <tr class="header">
 <th><p>대륙별 지역</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵_예선" title="wikilink">1934</a><br />
+<th><p><a href="../Page/1934년_FIFA_월드컵_예선.md" title="wikilink">1934</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵_예선" title="wikilink">1938</a><br />
+<th><p><a href="../Page/1938년_FIFA_월드컵_예선.md" title="wikilink">1938</a><br />
 <br />
 (15)[1]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵_예선" title="wikilink">1950</a><br />
+<th><p><a href="../Page/1950년_FIFA_월드컵_예선.md" title="wikilink">1950</a><br />
 <br />
 (13)[2]</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1954년_FIFA_월드컵_예선" title="wikilink">1954</a><br />
+<th><p><a href="../Page/1954년_FIFA_월드컵_예선.md" title="wikilink">1954</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵_예선" title="wikilink">1958</a><br />
+<th><p><a href="../Page/1958년_FIFA_월드컵_예선.md" title="wikilink">1958</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1962년_FIFA_월드컵_예선" title="wikilink">1962</a><br />
+<th><p><a href="../Page/1962년_FIFA_월드컵_예선.md" title="wikilink">1962</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵_예선" title="wikilink">1966</a><br />
+<th><p><a href="../Page/1966년_FIFA_월드컵_예선.md" title="wikilink">1966</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1970년_FIFA_월드컵_예선" title="wikilink">1970</a><br />
+<th><p><a href="../Page/1970년_FIFA_월드컵_예선.md" title="wikilink">1970</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵_예선" title="wikilink">1974</a><br />
+<th><p><a href="../Page/1974년_FIFA_월드컵_예선.md" title="wikilink">1974</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵_예선" title="wikilink">1978</a><br />
+<th><p><a href="../Page/1978년_FIFA_월드컵_예선.md" title="wikilink">1978</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵_예선" title="wikilink">1982</a><br />
+<th><p><a href="../Page/1982년_FIFA_월드컵_예선.md" title="wikilink">1982</a><br />
 <br />
 (24)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵_예선" title="wikilink">1986</a><br />
+<th><p><a href="../Page/1986년_FIFA_월드컵_예선.md" title="wikilink">1986</a><br />
 <br />
 (24)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵_예선" title="wikilink">1990</a><br />
+<th><p><a href="../Page/1990년_FIFA_월드컵_예선.md" title="wikilink">1990</a><br />
 <br />
 (24)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵_예선" title="wikilink">1994</a><br />
+<th><p><a href="../Page/1994년_FIFA_월드컵_예선.md" title="wikilink">1994</a><br />
 <br />
 (24)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵_예선" title="wikilink">1998</a><br />
+<th><p><a href="../Page/1998년_FIFA_월드컵_예선.md" title="wikilink">1998</a><br />
 <br />
 (32)</p></th>
 <th><p><a href="../Page/2002년_FIFA_월드컵_예선.md" title="wikilink">2002</a><br />
@@ -74,7 +74,7 @@
 <th><p><a href="../Page/2010년_FIFA_월드컵_예선.md" title="wikilink">2010</a><br />
 <br />
 (32)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_예선" title="wikilink">2014</a><br />
+<th><p><a href="../Page/2014년_FIFA_월드컵_예선.md" title="wikilink">2014</a><br />
 <br />
 (32)</p></th>
 <th><p><a href="../Page/2018년_FIFA_월드컵_예선.md" title="wikilink">2018</a><br />
@@ -90,7 +90,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카" title="wikilink">아프리카</a><br />
+<td><p><a href="../Page/아프리카.md" title="wikilink">아프리카</a><br />
 (<a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a>)</p></td>
 <td><p>1</p></td>
 <td><p>/</p></td>
@@ -117,8 +117,8 @@
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아" title="wikilink">아시아</a><br />
-(<a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a>)</p></td>
+<td><p><a href="../Page/아시아.md" title="wikilink">아시아</a><br />
+(<a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a>)</p></td>
 <td><p>1</p></td>
 <td><p>1[5]</p></td>
 <td><p>1</p></td>
@@ -145,7 +145,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오세아니아" title="wikilink">오세아니아</a><br />
+<td><p><a href="../Page/오세아니아.md" title="wikilink">오세아니아</a><br />
 (<a href="../Page/오세아니아_축구_연맹.md" title="wikilink">OFC</a>)</p></td>
 <td><p>/</p></td>
 <td><p>/</p></td>
@@ -171,8 +171,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽" title="wikilink">유럽</a><br />
-(<a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a>)</p></td>
+<td><p><a href="../Page/유럽.md" title="wikilink">유럽</a><br />
+(<a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a>)</p></td>
 <td><p>12[8]</p></td>
 <td><p>11[9]<br />
 +C+H</p></td>
@@ -213,7 +213,7 @@
 <td><p>16</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북아메리카" title="wikilink">북</a>•<a href="https://ko.wikipedia.org/wiki/중앙아메리카" title="wikilink">중미</a>, <a href="https://ko.wikipedia.org/wiki/카리브_제도" title="wikilink">카리브</a><br />
+<td><p><a href="../Page/북아메리카.md" title="wikilink">북</a>•<a href="../Page/중앙아메리카.md" title="wikilink">중미</a>, <a href="../Page/카리브_제도.md" title="wikilink">카리브</a><br />
 (<a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a>)</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -242,8 +242,8 @@
 <td><p>6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남아메리카" title="wikilink">남미</a><br />
-(<a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a>)</p></td>
+<td><p><a href="../Page/남아메리카.md" title="wikilink">남미</a><br />
+(<a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a>)</p></td>
 <td><p>2</p></td>
 <td><p>1</p></td>
 <td><p>4<br />
@@ -345,49 +345,49 @@
 <thead>
 <tr class="header">
 <th><p>대륙별 지역</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵_예선" title="wikilink">1934</a><br />
+<th><p><a href="../Page/1934년_FIFA_월드컵_예선.md" title="wikilink">1934</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵_예선" title="wikilink">1938</a><br />
+<th><p><a href="../Page/1938년_FIFA_월드컵_예선.md" title="wikilink">1938</a><br />
 <br />
 (15)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵_예선" title="wikilink">1950</a><br />
+<th><p><a href="../Page/1950년_FIFA_월드컵_예선.md" title="wikilink">1950</a><br />
 <br />
 (13)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1954년_FIFA_월드컵_예선" title="wikilink">1954</a><br />
+<th><p><a href="../Page/1954년_FIFA_월드컵_예선.md" title="wikilink">1954</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵_예선" title="wikilink">1958</a><br />
+<th><p><a href="../Page/1958년_FIFA_월드컵_예선.md" title="wikilink">1958</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1962년_FIFA_월드컵_예선" title="wikilink">1962</a><br />
+<th><p><a href="../Page/1962년_FIFA_월드컵_예선.md" title="wikilink">1962</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵_예선" title="wikilink">1966</a><br />
+<th><p><a href="../Page/1966년_FIFA_월드컵_예선.md" title="wikilink">1966</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1970년_FIFA_월드컵_예선" title="wikilink">1970</a><br />
+<th><p><a href="../Page/1970년_FIFA_월드컵_예선.md" title="wikilink">1970</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵_예선" title="wikilink">1974</a><br />
+<th><p><a href="../Page/1974년_FIFA_월드컵_예선.md" title="wikilink">1974</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵_예선" title="wikilink">1978</a><br />
+<th><p><a href="../Page/1978년_FIFA_월드컵_예선.md" title="wikilink">1978</a><br />
 <br />
 (16)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵_예선" title="wikilink">1982</a><br />
+<th><p><a href="../Page/1982년_FIFA_월드컵_예선.md" title="wikilink">1982</a><br />
 <br />
 (24)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵_예선" title="wikilink">1986</a><br />
+<th><p><a href="../Page/1986년_FIFA_월드컵_예선.md" title="wikilink">1986</a><br />
 <br />
 (24)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵_예선" title="wikilink">1990</a><br />
+<th><p><a href="../Page/1990년_FIFA_월드컵_예선.md" title="wikilink">1990</a><br />
 <br />
 (24)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵_예선" title="wikilink">1994</a><br />
+<th><p><a href="../Page/1994년_FIFA_월드컵_예선.md" title="wikilink">1994</a><br />
 <br />
 (24)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵_예선" title="wikilink">1998</a><br />
+<th><p><a href="../Page/1998년_FIFA_월드컵_예선.md" title="wikilink">1998</a><br />
 <br />
 (32)</p></th>
 <th><p><a href="../Page/2002년_FIFA_월드컵_예선.md" title="wikilink">2002</a><br />
@@ -399,7 +399,7 @@
 <th><p><a href="../Page/2010년_FIFA_월드컵_예선.md" title="wikilink">2010</a><br />
 <br />
 (32)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_예선" title="wikilink">2014</a><br />
+<th><p><a href="../Page/2014년_FIFA_월드컵_예선.md" title="wikilink">2014</a><br />
 <br />
 (32)</p></th>
 <th><p><a href="../Page/2018년_FIFA_월드컵_예선.md" title="wikilink">2018</a><br />
@@ -409,7 +409,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카" title="wikilink">아프리카</a><br />
+<td><p><a href="../Page/아프리카.md" title="wikilink">아프리카</a><br />
 (<a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a>)</p></td>
 <td><p>3</p></td>
 <td><p>0</p></td>
@@ -433,8 +433,8 @@
 <td><p>54</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아" title="wikilink">아시아</a><br />
-(<a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a>)</p></td>
+<td><p><a href="../Page/아시아.md" title="wikilink">아시아</a><br />
+(<a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a>)</p></td>
 <td><p>2</p></td>
 <td><p>4</p></td>
 <td><p>3</p></td>
@@ -457,7 +457,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오세아니아" title="wikilink">오세아니아</a><br />
+<td><p><a href="../Page/오세아니아.md" title="wikilink">오세아니아</a><br />
 (<a href="../Page/오세아니아_축구_연맹.md" title="wikilink">OFC</a>)[17]</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -481,8 +481,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽" title="wikilink">유럽</a><br />
-(<a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a>)</p></td>
+<td><p><a href="../Page/유럽.md" title="wikilink">유럽</a><br />
+(<a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a>)</p></td>
 <td><p>21</p></td>
 <td><p>26</p></td>
 <td><p>19</p></td>
@@ -505,7 +505,7 @@
 <td><p>54</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/북아메리카" title="wikilink">북</a>•<a href="https://ko.wikipedia.org/wiki/중앙아메리카" title="wikilink">중미</a>, <a href="https://ko.wikipedia.org/wiki/카리브_제도" title="wikilink">카리브</a><br />
+<td><p><a href="../Page/북아메리카.md" title="wikilink">북</a>•<a href="../Page/중앙아메리카.md" title="wikilink">중미</a>, <a href="../Page/카리브_제도.md" title="wikilink">카리브</a><br />
 (<a href="../Page/북중미카리브_축구_연맹.md" title="wikilink">CONCACAF</a>)</p></td>
 <td><p>4</p></td>
 <td><p>7</p></td>
@@ -529,8 +529,8 @@
 <td><p>35</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/남아메리카" title="wikilink">남미</a><br />
-(<a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a>)</p></td>
+<td><p><a href="../Page/남아메리카.md" title="wikilink">남미</a><br />
+(<a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a>)</p></td>
 <td><p>4</p></td>
 <td><p>2</p></td>
 <td><p>8</p></td>
@@ -683,10 +683,10 @@
 매 대회가 시작하기 전에 FIFA는 대륙별로 본선 진출 숫자를 배분한다. [2018년 FIFA 월드컵에서는](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") 아래와 같이 배정되었다.
 
   - **개최국**은 무조건 톱시드의 자격으로 1개 자리. 지역 예선과 상관없이 본선에 진출된다.
-  - **[UEFA](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") (유럽)** - 13개 자리, 디펜딩 챔피언은 본선에 진출할 경우 톱시드가 된다.
+  - **[UEFA](../Page/유럽_축구_연맹.md "wikilink") (유럽)** - 13개 자리, 디펜딩 챔피언은 본선에 진출할 경우 톱시드가 된다.
   - **[CAF](../Page/아프리카_축구_연맹.md "wikilink") (아프리카)** - 5개 자리
-  - **[AFC](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") (아시아)** - 4개 자리는 AFC 국가들에게, 나머지 하나는 CONMEBOL-OFC 플레이오프 승자가 차지
-  - **[CONMEBOL](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink") (남미)와 [OFC](../Page/오세아니아_축구_연맹.md "wikilink") (오세아니아)** - 4개 자리, 개최국 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") 추가, 디펜딩 챔피언은 본선에 진출할 경우 톱시드가 된다.
+  - **[AFC](../Page/아시아_축구_연맹.md "wikilink") (아시아)** - 4개 자리는 AFC 국가들에게, 나머지 하나는 CONMEBOL-OFC 플레이오프 승자가 차지
+  - **[CONMEBOL](../Page/남미_축구_연맹.md "wikilink") (남미)와 [OFC](../Page/오세아니아_축구_연맹.md "wikilink") (오세아니아)** - 4개 자리, 개최국 [브라질](../Page/브라질.md "wikilink") 추가, 디펜딩 챔피언은 본선에 진출할 경우 톱시드가 된다.
   - **[CONCACAF](../Page/북중미카리브_축구_연맹.md "wikilink") (북중미카리브)** - 3개 자리
   - AFC-CONCACAF 플레이오프 승자가 1개 자리를 차지
 
@@ -705,7 +705,7 @@
 
 [\*](https://ko.wikipedia.org/wiki/분류:FIFA_월드컵_예선 "wikilink")
 
-1.  1938년에 오스트리아는 본선 진출이 확정된 후에 [독일에 합병되어](https://ko.wikipedia.org/wiki/오스트리아_병합 "wikilink") 15개국만으로 본선이 진행되었다.
+1.  1938년에 오스트리아는 본선 진출이 확정된 후에 [독일에 합병되어](../Page/오스트리아_병합.md "wikilink") 15개국만으로 본선이 진행되었다.
 2.  1950년에 스코틀랜드, 인도, 터키는 본선 진출이 확정된 후에 기권하여 13개국만으로 본선이 진행되었다. 이 때문에 스코틀랜드, 터키와 같은조가 된 우루과이는 조별리그 경기가 볼리비아전 한 경기밖에 없었다. 우루과이는 이 경기에서 볼리비아를 상대로 8-0 대승을 거두고 결승에 진출했다.
 3.  1958년 예선이 열리기 전에는, 아프리카와 아시아를 합하여 1장의 출전권이 주어졌고, 유럽에는 9장이 주어졌다. 그러나 [이스라엘이](../Page/이스라엘_축구_국가대표팀.md "wikilink") 아프리카-아시아 지역예선을 다른 팀의 기권으로 인해 별다른 경기없이 자동으로 본선 진출을 확정하게 되자, [웨일스와의](../Page/웨일스_축구_국가대표팀.md "wikilink") 특별 플레이오프를 치르게 되었다. 그래서 사실상 아프리카-아시아 지역은 0.5장의 출전권이 주어진 것이고, 유럽은 9.5장의 출전권이 주어진 것이었다.
 4.  1962년에 유럽은 8장의 출전권이 주어졌고, 두 장의 추가 출전이 대륙간 플레이오프를 통해 진행되었기 때문에 사실상 9장의 티켓을 얻은 것이다. 유럽의 두 팀은 각각 아프리카와 아시아 팀과 대륙간 플레이오프를 하게 되어 모두 유럽팀이 승리하였다. 따라서 본선에는 유럽 10개 팀이 참가하게 되었다.
@@ -720,6 +720,6 @@
 13. 2006년부터는 전대회 우승국의 자동진출은 폐지되었다.
 14.
 15.
-16. 비록 남아프리카 공화국이 개최국으로서 자동 출전권을 부여받았지만, 남아공은 아프리카 지역 예선에 참가했다. 이는 1934년 이후로 개최국이 월드컵 예선에 참가하는 최초의 경우가 되었다. 남아프리카 공화국이 예선에 참가하게 된 이유는 [아프리카 축구 연맹에서는](../Page/아프리카_축구_연맹.md "wikilink") 2010년 월드컵 예선을 [2010년 아프리카 네이션스컵](https://ko.wikipedia.org/wiki/2010년_아프리카_네이션스컵 "wikilink") 예선으로도 진행하기 때문에, 월드컵과는 별도로 예선에 참가해야 한다. 결과는 2차 예선에서 나이지리아에게 패하고 전승인 나이지리아에게 밀려서 탈락했다.
+16. 비록 남아프리카 공화국이 개최국으로서 자동 출전권을 부여받았지만, 남아공은 아프리카 지역 예선에 참가했다. 이는 1934년 이후로 개최국이 월드컵 예선에 참가하는 최초의 경우가 되었다. 남아프리카 공화국이 예선에 참가하게 된 이유는 [아프리카 축구 연맹에서는](../Page/아프리카_축구_연맹.md "wikilink") 2010년 월드컵 예선을 [2010년 아프리카 네이션스컵](../Page/2010년_아프리카_네이션스컵.md "wikilink") 예선으로도 진행하기 때문에, 월드컵과는 별도로 예선에 참가해야 한다. 결과는 2차 예선에서 나이지리아에게 패하고 전승인 나이지리아에게 밀려서 탈락했다.
 17. [오세아니아 축구 연맹은](../Page/오세아니아_축구_연맹.md "wikilink") 월드컵 예선을 [OFC 네이션스컵의](../Page/OFC_네이션스컵.md "wikilink") 일부나 전체로 사용하고 있기 때문에, 여기에는 FIFA 회원국이 아닌 나라가 월드컵 예선에도 참가하는 상황이 발생하게 된다. 2006년 월드컵 예선에서는 누벨칼레도니는 FIFA 회원이 아닌 나라였지만 OFC 네이션스컵에 참가하게 되었다. 비록 누벨칼레도니가 가입 승인보다 며칠 빨리 탈락하긴 하였지만 누벨칼레도니는 예선이 진행되는 동안 FIFA에 가입을 하여 12개국 중의 하나가 되었다. (이와 유사한 상황이 2010년 엔트리에서도 발생하였다. [몬테네그로는](../Page/몬테네그로_축구_국가대표팀.md "wikilink") FIFA의 승인이 떨어지기 전에 예선 참가가 허용되었다. 그 이전 월드컵에서 몬테네그로는 아직 FIFA로부터 회원가입이 되지 않은 상황이라서 몬테네그로는 단독으로 월드컵에 출전할 수 없게 되자 [세르비아와 같은 팀으로 구성해서](../Page/세르비아_몬테네그로_축구_국가대표팀.md "wikilink") 본선에 올랐지만 아르헨티나에게 0-6으로 대패하는 등 별로 좋지 않은 성적으로 탈락했다.) 이와 반대로, [투발루는](../Page/투발루_축구_국가대표팀.md "wikilink") [2007년 남태평양 게임](../Page/2007년_남태평양_게임.md "wikilink") 축구 종목에 참가하였는데, 이 대회는 2010년 월드컵 예선으로도 치러지는 대회였다. 투발루가 비록 예선에 영향을 주지는 못했지만, OFC의 11개 회원에는 들지 않았다.
 18. **경기를 치른 팀 수**는 예선에서 적어도 한 경기 이상을 한 팀의 수를 뜻한다.

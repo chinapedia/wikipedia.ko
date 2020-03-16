@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
 
 
-**MBC 스포츠플러스**(엠비씨 스포츠플러스, )는 [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink"), [예능](https://ko.wikipedia.org/wiki/예능 "wikilink") 프로그램 등을 주로 편성하는 [MBC 플러스](../Page/MBC_플러스.md "wikilink") 계열사의 텔레비전 채널이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [ESPN](../Page/ESPN.md "wikilink") STAR SPORTS사와 공동 설립하면서 "MBC ESPN"란 이름을 사용하였다가, 합작 계약을 끝낸 후 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 1일부터](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") 현재의 이름으로 변경되었다\[1\].
+**MBC 스포츠플러스**(엠비씨 스포츠플러스, )는 [스포츠](../Page/스포츠.md "wikilink"), [예능](https://ko.wikipedia.org/wiki/예능 "wikilink") 프로그램 등을 주로 편성하는 [MBC 플러스](../Page/MBC_플러스.md "wikilink") 계열사의 텔레비전 채널이다. [2001년](../Page/2001년.md "wikilink") [미국](../Page/미국.md "wikilink")의 [ESPN](../Page/ESPN.md "wikilink") STAR SPORTS사와 공동 설립하면서 "MBC ESPN"란 이름을 사용하였다가, 합작 계약을 끝낸 후 [2010년](../Page/2010년.md "wikilink") [8월 1일부터](../Page/8월_1일.md "wikilink") 현재의 이름으로 변경되었다\[1\].
 
-2007년 1월 15일부터 [HD 방송을](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 시작하였다.\[2\]
+2007년 1월 15일부터 [HD 방송을](../Page/고선명_텔레비전.md "wikilink") 시작하였다.\[2\]
 
 2014년 3월 [MBC 에브리원을](../Page/MBC_에브리원.md "wikilink") 대신하여 지상파 DMB 송출을 시작했지만 2년만에 송출을 중단하고 다시 [MBC 에브리원](../Page/MBC_에브리원.md "wikilink") DMB 채널로 전환된다.
 
@@ -11,10 +11,10 @@
 
 ### MBC PLUS 소속 아나운서
 
-  - [한명재](https://ko.wikipedia.org/wiki/한명재 "wikilink")
+  - [한명재](../Page/한명재.md "wikilink")
   - [김선신](../Page/김선신.md "wikilink")
   - [김수환](https://ko.wikipedia.org/wiki/김수환_\(아나운서\) "wikilink")
-  - [박지영](https://ko.wikipedia.org/wiki/박지영_\(아나운서\) "wikilink")
+  - [박지영](../Page/박지영_\(아나운서\).md "wikilink")
   - 손우주
   - [신승대](https://ko.wikipedia.org/wiki/신승대 "wikilink")
   - [정병문](https://ko.wikipedia.org/wiki/정병문 "wikilink")
@@ -35,11 +35,11 @@
 
 ### 소속 해설위원
 
-  - [KBO](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") : [허구연](https://ko.wikipedia.org/wiki/허구연 "wikilink"), [양준혁](https://ko.wikipedia.org/wiki/양준혁 "wikilink"), [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink"), [심재학](https://ko.wikipedia.org/wiki/심재학 "wikilink"), [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1971년_3월_11일\) "wikilink"), [심수창](../Page/심수창.md "wikilink")
+  - [KBO](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") : [허구연](../Page/허구연.md "wikilink"), [양준혁](../Page/양준혁.md "wikilink"), [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink"), [심재학](../Page/심재학.md "wikilink"), [이상훈](../Page/이상훈_\(1971년_3월_11일\).md "wikilink"), [심수창](../Page/심수창.md "wikilink")
 
 <!-- end list -->
 
-  - [MLB](https://ko.wikipedia.org/wiki/메이저_리그_베이스볼 "wikilink") : [허구연](https://ko.wikipedia.org/wiki/허구연 "wikilink"), [송재우](https://ko.wikipedia.org/wiki/송재우 "wikilink"), [김형준](https://ko.wikipedia.org/wiki/김형준 "wikilink"), [김선우](../Page/김선우_\(야구인\).md "wikilink"), 유선우, [박승현](https://ko.wikipedia.org/wiki/박승현 "wikilink"), 손건영, [한승훈](https://ko.wikipedia.org/wiki/한승훈 "wikilink"), [김병현](https://ko.wikipedia.org/wiki/김병현 "wikilink")
+  - [MLB](../Page/메이저_리그_베이스볼.md "wikilink") : [허구연](../Page/허구연.md "wikilink"), [송재우](../Page/송재우.md "wikilink"), [김형준](https://ko.wikipedia.org/wiki/김형준 "wikilink"), [김선우](../Page/김선우_\(야구인\).md "wikilink"), 유선우, [박승현](https://ko.wikipedia.org/wiki/박승현 "wikilink"), 손건영, [한승훈](https://ko.wikipedia.org/wiki/한승훈 "wikilink"), [김병현](../Page/김병현.md "wikilink")
 
 <!-- end list -->
 
@@ -47,11 +47,11 @@
 
 <!-- end list -->
 
-  - 축구 : [이상윤](https://ko.wikipedia.org/wiki/이상윤 "wikilink"), [서형욱](https://ko.wikipedia.org/wiki/서형욱 "wikilink"), [이주헌](https://ko.wikipedia.org/wiki/이주헌 "wikilink"), [박건하](../Page/박건하.md "wikilink"), [송종국](https://ko.wikipedia.org/wiki/송종국 "wikilink")
+  - 축구 : [이상윤](https://ko.wikipedia.org/wiki/이상윤 "wikilink"), [서형욱](../Page/서형욱.md "wikilink"), [이주헌](https://ko.wikipedia.org/wiki/이주헌 "wikilink"), [박건하](../Page/박건하.md "wikilink"), [송종국](../Page/송종국.md "wikilink")
 
 <!-- end list -->
 
-  - 농구 : [김태환](../Page/김태환_\(농구인\).md "wikilink"), [김동광](https://ko.wikipedia.org/wiki/김동광 "wikilink"), 최연길, [김일두](https://ko.wikipedia.org/wiki/김일두 "wikilink"), 박건연, 이언주, 조문주, 김계령
+  - 농구 : [김태환](../Page/김태환_\(농구인\).md "wikilink"), [김동광](../Page/김동광.md "wikilink"), 최연길, [김일두](https://ko.wikipedia.org/wiki/김일두 "wikilink"), 박건연, 이언주, 조문주, 김계령
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - [NHL](https://ko.wikipedia.org/wiki/NHL "wikilink") : [김정민](https://ko.wikipedia.org/wiki/김정민 "wikilink"), [김형일](https://ko.wikipedia.org/wiki/김형일 "wikilink"), 김희우
+  - [NHL](https://ko.wikipedia.org/wiki/NHL "wikilink") : [김정민](../Page/김정민.md "wikilink"), [김형일](https://ko.wikipedia.org/wiki/김형일 "wikilink"), 김희우
 
 <!-- end list -->
 
@@ -87,11 +87,11 @@
 
 <!-- end list -->
 
-  - 피겨 : [김해진](https://ko.wikipedia.org/wiki/김해진 "wikilink")
+  - 피겨 : [김해진](../Page/김해진.md "wikilink")
 
 ### 기타 분류
 
-  - e스포츠 : 장지수, [박상현](https://ko.wikipedia.org/wiki/박상현_\(1981년\) "wikilink"), [정인호](https://ko.wikipedia.org/wiki/정인호 "wikilink"), 황규형, [정소림](https://ko.wikipedia.org/wiki/정소림 "wikilink"), [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink")
+  - e스포츠 : 장지수, [박상현](../Page/박상현_\(1981년\).md "wikilink"), [정인호](https://ko.wikipedia.org/wiki/정인호 "wikilink"), 황규형, [정소림](../Page/정소림.md "wikilink"), [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink")
 
 ## 주요 프로그램
 
@@ -99,17 +99,17 @@
   - [MLB](https://ko.wikipedia.org/wiki/MLB "wikilink")
   - [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")
   - [오스트레일리안 베이스볼 리그](https://ko.wikipedia.org/wiki/오스트레일리안_베이스볼_리그 "wikilink")
-  - [K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink")
+  - [K리그](../Page/K리그.md "wikilink")
   - [내셔널 풋볼 리그](../Page/내셔널_풋볼_리그.md "wikilink")
 
 ## 같이 보기
 
-  - [SBS 스포츠](https://ko.wikipedia.org/wiki/SBS_스포츠 "wikilink")
+  - [SBS 스포츠](../Page/SBS_스포츠.md "wikilink")
   - [KBS N 스포츠](../Page/KBS_N_스포츠.md "wikilink")
   - [JTBC3 Fox Sports](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink")
-  - [SPOTV](https://ko.wikipedia.org/wiki/SPOTV "wikilink")
+  - [SPOTV](../Page/SPOTV.md "wikilink")
   - [IB 스포츠](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink")
-  - [skySports](https://ko.wikipedia.org/wiki/스카이_스포츠_\(대한민국\) "wikilink")
+  - [skySports](../Page/스카이_스포츠_\(대한민국\).md "wikilink")
   - [카스 포인트](https://ko.wikipedia.org/wiki/카스_포인트 "wikilink") : MBC 스포츠플러스에서 개발한 프로야구 선수 평가 체계
   - [MBC 스포츠플러스 2](https://ko.wikipedia.org/wiki/MBC_스포츠플러스_2 "wikilink")
 

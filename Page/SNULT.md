@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SNULT](https://ko.wikipedia.org/wiki/SNULT).
 
 
-**SNULT**(Seoul National University Language Test)는 [서울대학교](https://ko.wikipedia.org/wiki/서울대학교 "wikilink") 언어교육원이 출제하고 [TEPS](https://ko.wikipedia.org/wiki/TEPS "wikilink")관리위원회가 주관하는 외국어능력 시험으로 6개 언어([일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink"), [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink"), [프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink"), [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink"), [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink"), [러시아어](https://ko.wikipedia.org/wiki/러시아어 "wikilink"))를 평가하고 있다. 이 중 중국어, 독일어, 스페인어 등 일부 언어는 SNULT보다 타 외국 기관의 시험이 더 공신력을 인정받고 있는데, 그 언어의 모국에서 직접 주최하는 어학자격시험보다 더 큰 공신력을 갖는 것이 어렵기 때문이기도 하고 SNULT 자체의 변별력이 상대적으로 떨어지기 때문이기도 하다. SNULT 영어는 2016년까지 시행되었으나 2017년부터 폐지되었다.
+**SNULT**(Seoul National University Language Test)는 [서울대학교](https://ko.wikipedia.org/wiki/서울대학교 "wikilink") 언어교육원이 출제하고 [TEPS](../Page/TEPS.md "wikilink")관리위원회가 주관하는 외국어능력 시험으로 6개 언어([일본어](../Page/일본어.md "wikilink"), [중국어](../Page/중국어.md "wikilink"), [프랑스어](../Page/프랑스어.md "wikilink"), [독일어](../Page/독일어.md "wikilink"), [스페인어](../Page/스페인어.md "wikilink"), [러시아어](../Page/러시아어.md "wikilink"))를 평가하고 있다. 이 중 중국어, 독일어, 스페인어 등 일부 언어는 SNULT보다 타 외국 기관의 시험이 더 공신력을 인정받고 있는데, 그 언어의 모국에서 직접 주최하는 어학자격시험보다 더 큰 공신력을 갖는 것이 어렵기 때문이기도 하고 SNULT 자체의 변별력이 상대적으로 떨어지기 때문이기도 하다. SNULT 영어는 2016년까지 시행되었으나 2017년부터 폐지되었다.
 
-이 시험은 정부기관, 공공 기관, 은행 및 일반 기업의 의뢰를 받아 해외 파견 요원이나 유학생을 선발할 평가 도구의 필요에 의해 개발되어 [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink")부터 기관대상으로만 시행되다가 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 8월부터 일반인을 대상으로 한 제1회 SNULT 정기시험이 시행되었다.\[1\]
+이 시험은 정부기관, 공공 기관, 은행 및 일반 기업의 의뢰를 받아 해외 파견 요원이나 유학생을 선발할 평가 도구의 필요에 의해 개발되어 [1967년](../Page/1967년.md "wikilink")부터 기관대상으로만 시행되다가 [2008년](../Page/2008년.md "wikilink") 8월부터 일반인을 대상으로 한 제1회 SNULT 정기시험이 시행되었다.\[1\]
 
 ## 시험 구성과 배점
 
@@ -32,26 +32,26 @@
 
 ## 자격 정보
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [한국직업능력개발원](https://ko.wikipedia.org/wiki/한국직업능력개발원 "wikilink")에 등록된 민간 자격이다. 자격관리기관은 **서울대학교발전기금**이다.\[2\]
+[대한민국](../Page/대한민국.md "wikilink") [한국직업능력개발원](https://ko.wikipedia.org/wiki/한국직업능력개발원 "wikilink")에 등록된 민간 자격이다. 자격관리기관은 **서울대학교발전기금**이다.\[2\]
 
-| 자격명        | 민간/공인 | 등록 번호       | 자격관리기관\[3\] | 응시자격  | 응시료\[4\]                                                     |
-| ---------- | ----- | ----------- | ----------- | ----- | ------------------------------------------------------------ |
-| SNULT 러시아어 | 민간    | 제2009-0178호 | 서울대학교발전기금   | 제한 없음 | [KRW](https://ko.wikipedia.org/wiki/대한민국_원 "wikilink")40,000 |
-| SNULT 스페인어 | 민간    | 제2009-0179호 | 서울대학교발전기금   | 제한 없음 | [KRW](https://ko.wikipedia.org/wiki/대한민국_원 "wikilink")40,000 |
-| SNULT 프랑스어 | 민간    | 제2009-0180호 | 서울대학교발전기금   | 제한 없음 | [KRW](https://ko.wikipedia.org/wiki/대한민국_원 "wikilink")40,000 |
-| SNULT 독일어  | 민간    | 제2009-0181호 | 서울대학교발전기금   | 제한 없음 | [KRW](https://ko.wikipedia.org/wiki/대한민국_원 "wikilink")40,000 |
-| SNULT 중국어  | 민간    | 제2009-0182호 | 서울대학교발전기금   | 제한 없음 | [KRW](https://ko.wikipedia.org/wiki/대한민국_원 "wikilink")40,000 |
-| SNULT 영어   | 민간    | 제2009-0183호 | 서울대학교발전기금   | 제한 없음 | [KRW](https://ko.wikipedia.org/wiki/대한민국_원 "wikilink")30,000 |
-| SNULT 일본어  | 민간    | 제2009-0344호 | 서울대학교발전기금   | 제한 없음 | [KRW](https://ko.wikipedia.org/wiki/대한민국_원 "wikilink")40,000 |
+| 자격명        | 민간/공인 | 등록 번호       | 자격관리기관\[3\] | 응시자격  | 응시료\[4\]                                  |
+| ---------- | ----- | ----------- | ----------- | ----- | ----------------------------------------- |
+| SNULT 러시아어 | 민간    | 제2009-0178호 | 서울대학교발전기금   | 제한 없음 | [KRW](../Page/대한민국_원.md "wikilink")40,000 |
+| SNULT 스페인어 | 민간    | 제2009-0179호 | 서울대학교발전기금   | 제한 없음 | [KRW](../Page/대한민국_원.md "wikilink")40,000 |
+| SNULT 프랑스어 | 민간    | 제2009-0180호 | 서울대학교발전기금   | 제한 없음 | [KRW](../Page/대한민국_원.md "wikilink")40,000 |
+| SNULT 독일어  | 민간    | 제2009-0181호 | 서울대학교발전기금   | 제한 없음 | [KRW](../Page/대한민국_원.md "wikilink")40,000 |
+| SNULT 중국어  | 민간    | 제2009-0182호 | 서울대학교발전기금   | 제한 없음 | [KRW](../Page/대한민국_원.md "wikilink")40,000 |
+| SNULT 영어   | 민간    | 제2009-0183호 | 서울대학교발전기금   | 제한 없음 | [KRW](../Page/대한민국_원.md "wikilink")30,000 |
+| SNULT 일본어  | 민간    | 제2009-0344호 | 서울대학교발전기금   | 제한 없음 | [KRW](../Page/대한민국_원.md "wikilink")40,000 |
 
 ## 같이 보기
 
-  - [TEPS](https://ko.wikipedia.org/wiki/TEPS "wikilink") : [서울대학교](https://ko.wikipedia.org/wiki/서울대학교 "wikilink") 주관, 시행. [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")
+  - [TEPS](../Page/TEPS.md "wikilink") : [서울대학교](https://ko.wikipedia.org/wiki/서울대학교 "wikilink") 주관, 시행. [영어](../Page/영어.md "wikilink")
   - [FLEX](../Page/외국어능력시험.md "wikilink")
   - [DALF](https://ko.wikipedia.org/wiki/DALF "wikilink")
-  - [DELF](https://ko.wikipedia.org/wiki/DELF "wikilink")
-  - [ZD](https://ko.wikipedia.org/wiki/독일어_능력_시험 "wikilink")
-  - [JPT](https://ko.wikipedia.org/wiki/JPT "wikilink")
+  - [DELF](../Page/DELF.md "wikilink")
+  - [ZD](../Page/독일어_능력_시험.md "wikilink")
+  - [JPT](../Page/JPT.md "wikilink")
   - [JLPT](https://ko.wikipedia.org/wiki/JLPT "wikilink")
   - [HSK](https://ko.wikipedia.org/wiki/HSK "wikilink")
   - [MATE](https://ko.wikipedia.org/wiki/MATE "wikilink")
@@ -69,5 +69,5 @@
 
 1.
 2.  [한국직업능력개발원 민간자격 검색](https://www.pqi.or.kr/inf/qul/infQulList.do)
-3.  [서울대학교발전기금](http://www.teps.or.kr/) 이 보유하고 있는 공인자격은 [TEPS](https://ko.wikipedia.org/wiki/TEPS "wikilink") 하나다.
+3.  [서울대학교발전기금](http://www.teps.or.kr/) 이 보유하고 있는 공인자격은 [TEPS](../Page/TEPS.md "wikilink") 하나다.
 4.

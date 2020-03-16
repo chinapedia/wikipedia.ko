@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Always \( \)](https://ko.wikipedia.org/wiki/Always_\(_\)).
 
 
-**Always**는 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에 발매한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 싱어 송 라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 두 번째 정규 앨범이다. 한편, 해당 앨범에 속한 노래 <너를 향한 마음> <회상이 지나간 오후> 두 노래 작사-작곡자 어수은씨가 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 당시 [이승환의](../Page/이승환_\(가수\).md "wikilink") 전 매니저한테 넘기면서 곡당 50만원과 인세 50만원씩 받기로 했으나 앨범이 100만장 이상 팔렸음에도 100만원 밖에 받지 못했다고 주장하자 [이승환은](../Page/이승환_\(가수\).md "wikilink") 뒷날 어수은씨로부터 6억원의 손해배상 청구소송을 당해야 했다\[1\].
+**Always**는 [1991년](../Page/1991년.md "wikilink") [7월](../Page/7월.md "wikilink")에 발매한 [대한민국](../Page/대한민국.md "wikilink") 싱어 송 라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 두 번째 정규 앨범이다. 한편, 해당 앨범에 속한 노래 <너를 향한 마음> <회상이 지나간 오후> 두 노래 작사-작곡자 어수은씨가 [1991년](../Page/1991년.md "wikilink") [4월](../Page/4월.md "wikilink") 당시 [이승환의](../Page/이승환_\(가수\).md "wikilink") 전 매니저한테 넘기면서 곡당 50만원과 인세 50만원씩 받기로 했으나 앨범이 100만장 이상 팔렸음에도 100만원 밖에 받지 못했다고 주장하자 [이승환은](../Page/이승환_\(가수\).md "wikilink") 뒷날 어수은씨로부터 6억원의 손해배상 청구소송을 당해야 했다\[1\].
 
 ## 곡 목록
 

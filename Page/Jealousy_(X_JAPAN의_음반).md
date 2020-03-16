@@ -3,9 +3,9 @@
 
 ***Jealousy***는 X([엑스 재팬](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink"))의 두 번째 메이저 앨범이다.
 
-X([엑스 재팬](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink"))가 발매한 앨범들 중 가장 많이 팔린 앨범으로 오리콘 차트 집계 1,117,223장의 판매량을 달성 했다. 〈[ART OF LIFE](https://ko.wikipedia.org/wiki/ART_OF_LIFE "wikilink")〉와 〈Standing Sex〉를 이 앨범에 수록하려 했으나 요시키가 두 곡을 작업하는 데에 시간을 많이 지체하는 바람에 두 곡이 제외된 채 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [7월 1일에](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 발매되었다. [타이지](https://ko.wikipedia.org/wiki/타이지 "wikilink")가 마지막으로 참가한 앨범이며 스크리밍 매드 조지가 디자인을 담당했다. [11월 4일에는](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") [하라주쿠](https://ko.wikipedia.org/wiki/하라주쿠 "wikilink")의 보행자 천국에서 [요시키](https://ko.wikipedia.org/wiki/요시키 "wikilink")의 'Jealousy 쟈켓 재현 퍼포먼스'가 예정되어 있었지만, 5,000명 이상의 팬이 모이는 바람에 퍼포먼스 행사는 중지 되었다.
+X([엑스 재팬](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink"))가 발매한 앨범들 중 가장 많이 팔린 앨범으로 오리콘 차트 집계 1,117,223장의 판매량을 달성 했다. 〈[ART OF LIFE](../Page/ART_OF_LIFE.md "wikilink")〉와 〈Standing Sex〉를 이 앨범에 수록하려 했으나 요시키가 두 곡을 작업하는 데에 시간을 많이 지체하는 바람에 두 곡이 제외된 채 [1991년](../Page/1991년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 발매되었다. [타이지](https://ko.wikipedia.org/wiki/타이지 "wikilink")가 마지막으로 참가한 앨범이며 스크리밍 매드 조지가 디자인을 담당했다. [11월 4일에는](../Page/11월_4일.md "wikilink") [하라주쿠](../Page/하라주쿠.md "wikilink")의 보행자 천국에서 [요시키](https://ko.wikipedia.org/wiki/요시키 "wikilink")의 'Jealousy 쟈켓 재현 퍼포먼스'가 예정되어 있었지만, 5,000명 이상의 팬이 모이는 바람에 퍼포먼스 행사는 중지 되었다.
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 14일에](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") 전작 《BLUE BLOOD》스페셜 에디션 재발매판과 마찬가지로 2장의 CD로 이루어진 스페셜 에디션 한정판으로 재발매 되었다.
+[2007년](../Page/2007년.md "wikilink") [2월 14일에](../Page/2월_14일.md "wikilink") 전작 《BLUE BLOOD》스페셜 에디션 재발매판과 마찬가지로 2장의 CD로 이루어진 스페셜 에디션 한정판으로 재발매 되었다.
 
 ## 수록곡
 

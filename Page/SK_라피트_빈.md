@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SK  ](https://ko.wikipedia.org/wiki/SK__).
 
 
-**SK 라피트 빈**(SK Rapid Wien)은 [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 수도인 [빈](https://ko.wikipedia.org/wiki/빈 "wikilink")을 연고로 하고 있다. 이 클럽은 [아우스트리아 빈과](../Page/FK_아우스트리아_빈.md "wikilink") 함께 빈의 유명한 두 팀 가운데 하나이다. 라피트 빈은 영어로 **래피드 비엔나**(Rapid Vienna)라고 불리기도 한다.
+**SK 라피트 빈**(SK Rapid Wien)은 [오스트리아](../Page/오스트리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 수도인 [빈](../Page/빈.md "wikilink")을 연고로 하고 있다. 이 클럽은 [아우스트리아 빈과](../Page/FK_아우스트리아_빈.md "wikilink") 함께 빈의 유명한 두 팀 가운데 하나이다. 라피트 빈은 영어로 **래피드 비엔나**(Rapid Vienna)라고 불리기도 한다.
 
 ## 역사
 
-라피트 빈은 [1898년](https://ko.wikipedia.org/wiki/1898년 "wikilink")에 *Erster Wiener Arbeiter-Fußball-Club* ()라는 이름으로 창단되었다. 팀의 초기 색깔은 빨강과 파랑으로 원정경기 유니폼에 지금도 사용된다. [1899년](https://ko.wikipedia.org/wiki/1899년 "wikilink") [1월 8일에](https://ko.wikipedia.org/wiki/1월_8일 "wikilink") 클럽의 명칭이 현재의 명칭으로 변하게 되었다.
+라피트 빈은 [1898년](../Page/1898년.md "wikilink")에 *Erster Wiener Arbeiter-Fußball-Club* ()라는 이름으로 창단되었다. 팀의 초기 색깔은 빨강과 파랑으로 원정경기 유니폼에 지금도 사용된다. [1899년](../Page/1899년.md "wikilink") [1월 8일에](../Page/1월_8일.md "wikilink") 클럽의 명칭이 현재의 명칭으로 변하게 되었다.
 
 [left](https://ko.wikipedia.org/wiki/파일:Rapid_1898.jpg "wikilink") {{-}}
 

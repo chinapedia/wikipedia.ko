@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Vivid \( \)](https://ko.wikipedia.org/wiki/Vivid_\(_\)).
 
 
-〈**Vivid**〉는 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 26번째 싱글이다. 수록된 3곡이 모두 타이틀 곡인 3A 싱글이고, 이러한 3A 싱글은 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 10월 발매된 〈[DOUBLE](https://ko.wikipedia.org/wiki/DOUBLE "wikilink")〉 이후 4년 7개월 만이다.
+〈**Vivid**〉는 가수 [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 26번째 싱글이다. 수록된 3곡이 모두 타이틀 곡인 3A 싱글이고, 이러한 3A 싱글은 [2003년](../Page/2003년.md "wikilink") 10월 발매된 〈[DOUBLE](https://ko.wikipedia.org/wiki/DOUBLE "wikilink")〉 이후 4년 7개월 만이다.
 
 싱글에 수록되어 있는 3곡은 〈Kissing you〉, 〈Sparkling〉, 〈Joyful Smile〉이다. 강렬한 느낌의 댄스곡을 많이 발매해 왔던 기존의 보아의 싱글들과는 달리 미디엄 템포 곡이나, 하우스 템포 곡 등으로 채워져 있다.
 
@@ -9,7 +9,7 @@
 
 또, 그간 타이틀 곡이 다수더라도 한 싱글에서는 1곡의 뮤직 비디오를 촬영했던 것과는 달리 이 싱글에서는 2곡의 뮤직 비디오를 촬영하였다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 11일](https://ko.wikipedia.org/wiki/6월_11일 "wikilink") 라이선스 반으로 발매되었다.
+[대한민국](../Page/대한민국.md "wikilink")에는 [2008년](../Page/2008년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink") 라이선스 반으로 발매되었다.
 
 ## 수록곡
 
@@ -25,7 +25,7 @@
       - 뮤직 비디오는 컴퓨터 그래픽을 적극적으로 사용하여 촬영되었다. 스탠드 마이크를 앞에 두고 노래하는 장면, 검정색 모자·자켓과 금빛 드레스를 입고 노래를 부르는 장면, 애니메이션 댄서들과 춤을 추는 장면 등이 주를 이루고 있다.
 3.  **Joyful Smile**
       - 작사 : Satomi / 작곡·편곡 : 아사다 마사아키
-      - 남자친구를 놀라게 하고 싶어서 평소에 입지 않던 옷을 입고 신발을 신으며 상상하다가 약속 시간에 늦게 된다는 가사의 미디엄 템포 곡이다. [니혼테레비](https://ko.wikipedia.org/wiki/니혼테레비 "wikilink")의 스포츠 정보 프로그램 "스포츠 우루구스"의 테마곡으로 선정되어 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 6월부터 방송되었다.
+      - 남자친구를 놀라게 하고 싶어서 평소에 입지 않던 옷을 입고 신발을 신으며 상상하다가 약속 시간에 늦게 된다는 가사의 미디엄 템포 곡이다. [니혼테레비](https://ko.wikipedia.org/wiki/니혼테레비 "wikilink")의 스포츠 정보 프로그램 "스포츠 우루구스"의 테마곡으로 선정되어 [2008년](../Page/2008년.md "wikilink") 6월부터 방송되었다.
 4.  Kissing you (Instrumental)
 5.  Sparkling (Instrumental)
 6.  Joyful Smile (Instrumental)

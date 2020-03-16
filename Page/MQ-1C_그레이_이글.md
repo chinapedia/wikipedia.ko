@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MQ-1C  ](https://ko.wikipedia.org/wiki/MQ-1C__).
 
 
-**MQ-1C 그레이 이글**(General Atomics MQ-1C Grey eagle)는 [미국 육군이](../Page/미국_육군.md "wikilink") [MQ-5 헌터](https://ko.wikipedia.org/wiki/MQ-5_헌터 "wikilink") 무인기를 대체하기 위해서 도입하게 된 [MQ-1 프레데터](../Page/MQ-1_프레데터.md "wikilink") 무인기의 개량형 무인기이며, Extended-Range Multi-Purpose (ERMP) 계획으로 미육군의 지원 하에 제네럴 아토믹스가 개발하였다.
+**MQ-1C 그레이 이글**(General Atomics MQ-1C Grey eagle)는 [미국 육군이](../Page/미국_육군.md "wikilink") [MQ-5 헌터](../Page/MQ-5_헌터.md "wikilink") 무인기를 대체하기 위해서 도입하게 된 [MQ-1 프레데터](../Page/MQ-1_프레데터.md "wikilink") 무인기의 개량형 무인기이며, Extended-Range Multi-Purpose (ERMP) 계획으로 미육군의 지원 하에 제네럴 아토믹스가 개발하였다.
 
 ## 개발
 
@@ -19,7 +19,7 @@
 
 2015년 12월, 미국 위스콘신대 부설 융합기술연구소(FTL) 소속 연구원들은 드론에 핵무기, 화학무기, IED, 지뢰 등을 탐지할 수 있는 기술 시스템을 소형화해 이를 장착하는 데 성공했다. 2017년 4월에 실전배치될 계획이다.\[3\]
 
-2017년 3월 13일, [미국 국방부는](https://ko.wikipedia.org/wiki/미국_국방부 "wikilink") 북한의 위협에 대응하기 위해 군산 공군기지에 공격드론을 영구적으로 배치할 예정이라고 밝혔다.
+2017년 3월 13일, [미국 국방부는](../Page/미국_국방부.md "wikilink") 북한의 위협에 대응하기 위해 군산 공군기지에 공격드론을 영구적으로 배치할 예정이라고 밝혔다.
 
 ## 제원
 
@@ -51,7 +51,7 @@
 <!-- end list -->
 
   - **하드포인트:** 4개
-      - 미사일: 4 × [AGM-114 헬파이어](../Page/AGM-114_헬파이어.md "wikilink") 또는 8 × [AIM-92 스팅어](https://ko.wikipedia.org/wiki/AIM-92_스팅어 "wikilink")
+      - 미사일: 4 × [AGM-114 헬파이어](../Page/AGM-114_헬파이어.md "wikilink") 또는 8 × [AIM-92 스팅어](../Page/AIM-92_스팅어.md "wikilink")
       - 폭탄: 4 × [GBU-44/B 바이퍼 스트라이크](https://ko.wikipedia.org/wiki/GBU-44/B_바이퍼_스트라이크 "wikilink")
 
 <!-- end list -->

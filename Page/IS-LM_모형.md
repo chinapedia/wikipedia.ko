@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [IS-LM ](https://ko.wikipedia.org/wiki/IS-LM_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Islm.svg "wikilink") **IS-LM 모형**은 [거시경제](https://ko.wikipedia.org/wiki/거시경제 "wikilink")에서의 [이자율](https://ko.wikipedia.org/wiki/이자율 "wikilink")과 [국민소득](https://ko.wikipedia.org/wiki/국민소득 "wikilink")과의 관계를 분석하는 [경제모형](https://ko.wikipedia.org/wiki/경제모형 "wikilink")이다. 현재 물가(P)가 고정되어 있다는 가정하에 한 경제 주체의 국민소득(Y)를 구하는 데 목적이 있다. 한 경제가 어떻게 이루어지며, 변동하는지에 대해 알아보는 것이 분석의 목적이지만, 궁극적으로는 정부의 [재정 정책](https://ko.wikipedia.org/wiki/재정_정책 "wikilink")(fiscal policy)과 [통화 정책](https://ko.wikipedia.org/wiki/통화_정책 "wikilink") (monetary)의 효과와 그 영향을 살펴보는 데 의의가 있다. IS곡선은 시장에서 모든 재화와 서비스를, 그리고 LM곡선은 화폐시장에서의 수요와 공급이 총 생산(Y) 와 이자율(r)에 따라 어떻게 변화하는지를 나타내는 곡선이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Islm.svg "wikilink") **IS-LM 모형**은 [거시경제](https://ko.wikipedia.org/wiki/거시경제 "wikilink")에서의 [이자율](https://ko.wikipedia.org/wiki/이자율 "wikilink")과 [국민소득](https://ko.wikipedia.org/wiki/국민소득 "wikilink")과의 관계를 분석하는 [경제모형](https://ko.wikipedia.org/wiki/경제모형 "wikilink")이다. 현재 물가(P)가 고정되어 있다는 가정하에 한 경제 주체의 국민소득(Y)를 구하는 데 목적이 있다. 한 경제가 어떻게 이루어지며, 변동하는지에 대해 알아보는 것이 분석의 목적이지만, 궁극적으로는 정부의 [재정 정책](https://ko.wikipedia.org/wiki/재정_정책 "wikilink")(fiscal policy)과 [통화 정책](../Page/통화_정책.md "wikilink") (monetary)의 효과와 그 영향을 살펴보는 데 의의가 있다. IS곡선은 시장에서 모든 재화와 서비스를, 그리고 LM곡선은 화폐시장에서의 수요와 공급이 총 생산(Y) 와 이자율(r)에 따라 어떻게 변화하는지를 나타내는 곡선이다.
 
 ## 의의
 
-IS-LM모형은 이자율과 상품과 재화의 생산과 화폐시장에 대한 거시경제학적인 도구이다. IS곡선과 LM곡선의 교차점에서는 모든 시장이 동시에 균형이 되는 것을 의미하는 일반균형이 성립한다. IS곡선에서의 IS는 투자(Investment)와 저축(Saving)을 의미하고 LM곡선에서의 LM은 유동성 선호(Liquidity preference)와 화폐 공급(Money supply)을 의미한다. 그리고 IS-LM모형은 개방경제에서 [먼델-플레밍 모형으로](https://ko.wikipedia.org/wiki/먼델-플레밍_모형 "wikilink") 확장될 수 있다.
+IS-LM모형은 이자율과 상품과 재화의 생산과 화폐시장에 대한 거시경제학적인 도구이다. IS곡선과 LM곡선의 교차점에서는 모든 시장이 동시에 균형이 되는 것을 의미하는 일반균형이 성립한다. IS곡선에서의 IS는 투자(Investment)와 저축(Saving)을 의미하고 LM곡선에서의 LM은 유동성 선호(Liquidity preference)와 화폐 공급(Money supply)을 의미한다. 그리고 IS-LM모형은 개방경제에서 [먼델-플레밍 모형으로](../Page/먼델-플레밍_모형.md "wikilink") 확장될 수 있다.
 
 ## *IS* 곡선
 
@@ -37,7 +37,7 @@ IS-LM모형은 이자율과 상품과 재화의 생산과 화폐시장에 대한
 
 ## *LM* 곡선
 
-***LM* 곡선**이란 화폐시장의 균형이 달성되는 국민소득 *Y* 와 이자율 *r* 의 조합을 나타낸 것이다. 화폐공급량은 [중앙은행](https://ko.wikipedia.org/wiki/중앙은행 "wikilink")([한국은행](https://ko.wikipedia.org/wiki/한국은행 "wikilink"))이 관리하는 화폐([본원통화](https://ko.wikipedia.org/wiki/본원통화 "wikilink"))의 크기뿐만 아니라, 은행의 신용창출 정도에 따라 결정된다. 한편, 화폐의 수요는 물건을 살 때 사용하기 위한 **거래 수요**(국민소득의 증가함수)나, [채권](https://ko.wikipedia.org/wiki/채권 "wikilink") 보유에 따른 손실을 막기 위해 화폐를 보유하려는 **투기적 수요**([이자율](https://ko.wikipedia.org/wiki/이자율 "wikilink")의 감소함수)로 구성된다.
+***LM* 곡선**이란 화폐시장의 균형이 달성되는 국민소득 *Y* 와 이자율 *r* 의 조합을 나타낸 것이다. 화폐공급량은 [중앙은행](../Page/중앙은행.md "wikilink")([한국은행](../Page/한국은행.md "wikilink"))이 관리하는 화폐([본원통화](../Page/본원통화.md "wikilink"))의 크기뿐만 아니라, 은행의 신용창출 정도에 따라 결정된다. 한편, 화폐의 수요는 물건을 살 때 사용하기 위한 **거래 수요**(국민소득의 증가함수)나, [채권](https://ko.wikipedia.org/wiki/채권 "wikilink") 보유에 따른 손실을 막기 위해 화폐를 보유하려는 **투기적 수요**([이자율](https://ko.wikipedia.org/wiki/이자율 "wikilink")의 감소함수)로 구성된다.
 
   -
     화폐수요량 (*L*) = 거래 수요 (*L*<sub>1</sub>) + 투기적 수요 (*L*<sub>2</sub>)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EE  ](https://ko.wikipedia.org/wiki/_EE__).
 
 
-**JCA**(Java EE Connector Architecture)는 [웹 애플리케이션 서버와](../Page/웹_애플리케이션_서버.md "wikilink") 레가시 시스템과 연동할 수 있도록 하는 자바 기반 기술이다. [JDBC](../Page/JDBC.md "wikilink")는 [웹 애플리케이션 서버와](../Page/웹_애플리케이션_서버.md "wikilink") [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink")와의 연동에 사용된다면, JCA는 [웹 애플리케이션 서버와](../Page/웹_애플리케이션_서버.md "wikilink") 레거시 시스템(데이터베이스 포함)과 연동하는 보다 일반적인 방법이다. JCA 1.0는 [자바 커뮤니티 프로세스의](../Page/자바_커뮤니티_프로세스.md "wikilink") JSR 16에 의해 개발됐으며, 최신 버전은 JCA 1.5 (JSR 112)이다.
+**JCA**(Java EE Connector Architecture)는 [웹 애플리케이션 서버와](../Page/웹_애플리케이션_서버.md "wikilink") 레가시 시스템과 연동할 수 있도록 하는 자바 기반 기술이다. [JDBC](../Page/JDBC.md "wikilink")는 [웹 애플리케이션 서버와](../Page/웹_애플리케이션_서버.md "wikilink") [데이터베이스](../Page/데이터베이스.md "wikilink")와의 연동에 사용된다면, JCA는 [웹 애플리케이션 서버와](../Page/웹_애플리케이션_서버.md "wikilink") 레거시 시스템(데이터베이스 포함)과 연동하는 보다 일반적인 방법이다. JCA 1.0는 [자바 커뮤니티 프로세스의](../Page/자바_커뮤니티_프로세스.md "wikilink") JSR 16에 의해 개발됐으며, 최신 버전은 JCA 1.5 (JSR 112)이다.
 
 ## 배경
 

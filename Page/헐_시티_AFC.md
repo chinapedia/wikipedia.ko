@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  AFC](https://ko.wikipedia.org/wiki/__AFC).
 
 
-**헐 시티 AFC**(Hull City AFC)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 축구 클럽으로, [요크셔 주의](https://ko.wikipedia.org/wiki/요크셔_주 "wikilink") 이스트 라이딩에 있는 [킹스턴어폰헐](https://ko.wikipedia.org/wiki/킹스턴어폰헐 "wikilink")을 연고로 한다. 헐 시티는 [1904년](https://ko.wikipedia.org/wiki/1904년 "wikilink")에 창단되었으며 팀의 닉네임은 *The Tiger*이다.
+**헐 시티 AFC**(Hull City AFC)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [요크셔 주의](https://ko.wikipedia.org/wiki/요크셔_주 "wikilink") 이스트 라이딩에 있는 [킹스턴어폰헐](../Page/킹스턴어폰헐.md "wikilink")을 연고로 한다. 헐 시티는 [1904년](../Page/1904년.md "wikilink")에 창단되었으며 팀의 닉네임은 *The Tiger*이다.
 
 2007-08 시즌 [챔피언십리그](https://ko.wikipedia.org/wiki/챔피언십리그 "wikilink") 3위를 기록, 챔피언십리그 플레이오프에서 [브리스톨 시티를](https://ko.wikipedia.org/wiki/브리스톨_시티 "wikilink") 누르고, 2008-09 시즌부터는 팀이 창단된 지 104년 만에 1부 리그인 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에서 경기하게 되었다.
 
@@ -9,7 +9,7 @@
 
 그 후 두 시즌만인 2009-10시즌 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 18위로 강등되었다.
 
-그러나 2012-13 시즌 [스티브 브루스](https://ko.wikipedia.org/wiki/스티브_브루스 "wikilink") 부임 그 해 [챔피언십](../Page/EFL_챔피언십.md "wikilink") 2위를 기록 3년 만에 [카디프 시티 FC](../Page/카디프_시티_FC.md "wikilink"), [크리스털 팰리스 FC랑](../Page/크리스털_팰리스_FC.md "wikilink") 같이 다시 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 승격하였다. 2013년 8월 기존의 헐 시티 축구클럽협회(Hull City Association Football Club)이라는 이름이 부르기에 너무 길었기 때문에, 헐 시티 타이거스로 구단 명칭 변경을 검토하였다.\[1\] 2014년 4월 13일 FA컵 4강전에서 [셰필드 유나이티드](https://ko.wikipedia.org/wiki/셰필드_유나이티드 "wikilink") 대결에서 5:3으로 승리하여 창단 110년만에 FA컵 결승에 진출하였고 [아스널 FC와의](https://ko.wikipedia.org/wiki/아스널_FC "wikilink") 결승전에서는 연장전까지 가는 접전 끝에 2-3으로 지면서 준우승에 머물렀지만 사실상 창단 110년만에 [UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 진출을 확정지었다. [UEFA 유로파리그 2014-15](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2014-15 "wikilink") 참가 예정이다. 헐 시티는 남은경기 상관없이 [프리미어리그 2013-14](https://ko.wikipedia.org/wiki/프리미어리그_2013-14 "wikilink") 잔류를 확정 되었다. 헐 시티 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 잔류와 다음시즌 [UEFA 유로파리그진출하게](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 되었으며 성공적인 시즌을 보냈다. 2015-16 잉글랜드 챔피언십 플레이오프 우승하면서 1년만에 프리미어리그로 승격했다.
+그러나 2012-13 시즌 [스티브 브루스](../Page/스티브_브루스.md "wikilink") 부임 그 해 [챔피언십](../Page/EFL_챔피언십.md "wikilink") 2위를 기록 3년 만에 [카디프 시티 FC](../Page/카디프_시티_FC.md "wikilink"), [크리스털 팰리스 FC랑](../Page/크리스털_팰리스_FC.md "wikilink") 같이 다시 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 승격하였다. 2013년 8월 기존의 헐 시티 축구클럽협회(Hull City Association Football Club)이라는 이름이 부르기에 너무 길었기 때문에, 헐 시티 타이거스로 구단 명칭 변경을 검토하였다.\[1\] 2014년 4월 13일 FA컵 4강전에서 [셰필드 유나이티드](https://ko.wikipedia.org/wiki/셰필드_유나이티드 "wikilink") 대결에서 5:3으로 승리하여 창단 110년만에 FA컵 결승에 진출하였고 [아스널 FC와의](../Page/아스널_FC.md "wikilink") 결승전에서는 연장전까지 가는 접전 끝에 2-3으로 지면서 준우승에 머물렀지만 사실상 창단 110년만에 [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 진출을 확정지었다. [UEFA 유로파리그 2014-15](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2014-15 "wikilink") 참가 예정이다. 헐 시티는 남은경기 상관없이 [프리미어리그 2013-14](https://ko.wikipedia.org/wiki/프리미어리그_2013-14 "wikilink") 잔류를 확정 되었다. 헐 시티 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 잔류와 다음시즌 [UEFA 유로파리그진출하게](../Page/UEFA_유로파리그.md "wikilink") 되었으며 성공적인 시즌을 보냈다. 2015-16 잉글랜드 챔피언십 플레이오프 우승하면서 1년만에 프리미어리그로 승격했다.
 
 ## 역대 기록
 
@@ -93,23 +93,23 @@
 
 ## 현재 선수 명단
 
-[2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink") 기준
+[2019년](../Page/2019년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink") 기준
 
 ## 유명 선수
 
-  - [아템 벤 아르파](https://ko.wikipedia.org/wiki/아템_벤_아르파 "wikilink")
+  - [아템 벤 아르파](../Page/아템_벤_아르파.md "wikilink")
 
-  - [조지 앨티도어](https://ko.wikipedia.org/wiki/조지_앨티도어 "wikilink")
+  - [조지 앨티도어](../Page/조지_앨티도어.md "wikilink")
 
-  - [마누슈](https://ko.wikipedia.org/wiki/마누슈 "wikilink")
+  - [마누슈](../Page/마누슈.md "wikilink")
 
   - [아므르 자키](../Page/아므르_자키.md "wikilink")
 
-  - [톰 허들스톤](https://ko.wikipedia.org/wiki/톰_허들스톤 "wikilink")
+  - [톰 허들스톤](../Page/톰_허들스톤.md "wikilink")
 
-  - [키스 검스](https://ko.wikipedia.org/wiki/키스_검스 "wikilink")
+  - [키스 검스](../Page/키스_검스.md "wikilink")
 
-  - [니키차 옐라비치](https://ko.wikipedia.org/wiki/니키차_옐라비치 "wikilink")
+  - [니키차 옐라비치](../Page/니키차_옐라비치.md "wikilink")
 
 ## 각주
 

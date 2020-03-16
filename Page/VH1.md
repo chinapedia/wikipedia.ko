@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VH1](https://ko.wikipedia.org/wiki/VH1).
 
 
-**VH1**(Video Hits One)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴욕 시에](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 본사를 둔 케이블 방송사이다. [MTV](../Page/MTV.md "wikilink")의 대성공에 힘입어 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [1월 1일에](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 개국하였다. MTV를 비롯한 다른 자매 채널들에 비하여 경쾌하고 부드러운 [음악의](https://ko.wikipedia.org/wiki/대중_음악 "wikilink") [뮤직 비디오를](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 방송하기 위해 개국하였다.
+**VH1**(Video Hits One)은 [미국](../Page/미국.md "wikilink") [뉴욕 시에](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 본사를 둔 케이블 방송사이다. [MTV](../Page/MTV.md "wikilink")의 대성공에 힘입어 [1985년](../Page/1985년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 개국하였다. MTV를 비롯한 다른 자매 채널들에 비하여 경쾌하고 부드러운 [음악의](https://ko.wikipedia.org/wiki/대중_음악 "wikilink") [뮤직 비디오를](../Page/뮤직_비디오.md "wikilink") 방송하기 위해 개국하였다.
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ADOdb](https://ko.wikipedia.org/wiki/ADOdb).
 
 
-**ADOdb**는 [PHP](https://ko.wikipedia.org/wiki/PHP "wikilink") 및 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") 용의 데이터베이스 추상화 라이브러리이다. [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")의 [액티브엑스 데이터 오브젝트와](../Page/액티브엑스_데이터_오브젝트.md "wikilink") 비슷한 개념이이다.
+**ADOdb**는 [PHP](../Page/PHP.md "wikilink") 및 [파이썬](../Page/파이썬.md "wikilink") 용의 데이터베이스 추상화 라이브러리이다. [마이크로소프트](../Page/마이크로소프트.md "wikilink")의 [액티브엑스 데이터 오브젝트와](../Page/액티브엑스_데이터_오브젝트.md "wikilink") 비슷한 개념이이다.
 
 프로그래머들은 밑단에 데이터베이스를 무엇으로 쓰든지 상관 없이 ADOdb를 써서 응용 프로그램을 꽤 일관적인 방법으로 작성할 수 있다. 프로그래머들은 데이터베이스 부분 쪽 코드를 수정할 필요없이 데이터베이스를 바꿔칠 수 있다.
 
@@ -9,20 +9,20 @@
 
   - [마이크로소프트 액세스](https://ko.wikipedia.org/wiki/마이크로소프트_액세스 "wikilink")
   - [액티브엑스 데이터 오브젝트](../Page/액티브엑스_데이터_오브젝트.md "wikilink")
-  - [DB2](https://ko.wikipedia.org/wiki/IBM_DB2 "wikilink")
-  - [파이어버드 (데이터베이스)](https://ko.wikipedia.org/wiki/파이어버드_\(데이터베이스\) "wikilink")
+  - [DB2](../Page/IBM_DB2.md "wikilink")
+  - [파이어버드 (데이터베이스)](../Page/파이어버드_\(데이터베이스\).md "wikilink")
   - [Foxpro](https://ko.wikipedia.org/wiki/Foxpro "wikilink")
   - [FrontBase](https://ko.wikipedia.org/wiki/FrontBase "wikilink")
   - [Informix](https://ko.wikipedia.org/wiki/Informix "wikilink")
   - [Interbase](https://ko.wikipedia.org/wiki/Interbase "wikilink")
   - [LDAP](../Page/LDAP.md "wikilink")
   - [마이크로소프트 SQL 서버](../Page/마이크로소프트_SQL_서버.md "wikilink")
-  - [MySQL](https://ko.wikipedia.org/wiki/MySQL "wikilink")
+  - [MySQL](../Page/MySQL.md "wikilink")
   - [Netezza](https://ko.wikipedia.org/wiki/Netezza "wikilink")
   - [오라클 데이터베이스](../Page/오라클_데이터베이스.md "wikilink")
   - [PostgreSQL](../Page/PostgreSQL.md "wikilink")
   - [SAP DB](https://ko.wikipedia.org/wiki/SAP_DB "wikilink")
-  - [SQLite](https://ko.wikipedia.org/wiki/SQLite "wikilink")
+  - [SQLite](../Page/SQLite.md "wikilink")
   - [Sybase](https://ko.wikipedia.org/wiki/Sybase "wikilink")
   - [Teradata](https://ko.wikipedia.org/wiki/Teradata "wikilink")
   - [발렌티나](https://ko.wikipedia.org/wiki/발렌티나_\(데이터베이스\) "wikilink")

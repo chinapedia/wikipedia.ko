@@ -9,7 +9,7 @@
 
   - [캐논코리아 컨슈머 이미징(주) 공식 제품 설명](http://www.canon-ci.co.kr/actions/EstoreGoodsDetailView?cmd=view&goods_code=175&ctg_id=100003)
 
-  - [photozone.de 리뷰. [캐논 EOS 50D에](https://ko.wikipedia.org/wiki/캐논_EOS_50D "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/425-canon_1755_28is_50d)
+  - [photozone.de 리뷰. [캐논 EOS 50D에](../Page/캐논_EOS_50D.md "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/425-canon_1755_28is_50d)
 
   - [photozone.de 리뷰. [캐논 EOS 350D에](../Page/캐논_EOS_350D.md "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/178-canon-ef-s-17-55mm-f28-usm-is-test-report--review)
 

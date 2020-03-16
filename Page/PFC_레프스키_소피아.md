@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [PFC  ](https://ko.wikipedia.org/wiki/PFC__).
 
 
-**PFC 레프스키 소피아**()는 [불가리아](https://ko.wikipedia.org/wiki/불가리아 "wikilink")의 축구 클럽이다. 연고지는 수도인 [소피아](https://ko.wikipedia.org/wiki/소피아 "wikilink")이며, 현재 불가리아 1부 리그인 [파르바리가](../Page/파르바리가.md "wikilink")에 참가하고 있다. 클럽 이름은 불가리아의 혁명가 [바실 레프스키에서](../Page/바실_레프스키.md "wikilink") 유래된 이름이다.
+**PFC 레프스키 소피아**()는 [불가리아](../Page/불가리아.md "wikilink")의 축구 클럽이다. 연고지는 수도인 [소피아](../Page/소피아.md "wikilink")이며, 현재 불가리아 1부 리그인 [파르바리가](../Page/파르바리가.md "wikilink")에 참가하고 있다. 클럽 이름은 불가리아의 혁명가 [바실 레프스키에서](../Page/바실_레프스키.md "wikilink") 유래된 이름이다.
 
-불가리아 내에서 최고의 팀들 가운데 하나로, 레프스키 소피아는 26번의 리그 우승과 25번의 컵 대회 우승 기록을 가지고 있다. 레프스키 소피아는 불가리아에서 1부리그에서 강등되지 않은 유일한 팀으로 남아 있다. 국제적으로는 [UEFA 컵 위너스컵](https://ko.wikipedia.org/wiki/UEFA_컵_위너스컵 "wikilink") 8강에 세번 올랐으며, [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink") 8강에도 두 번 올랐었다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에는 불가리아 팀 가운데 [UEFA 챔피언스리그의](../Page/UEFA_챔피언스리그.md "wikilink") 조별 리그에 오른 유일한 팀이 되었다.
+불가리아 내에서 최고의 팀들 가운데 하나로, 레프스키 소피아는 26번의 리그 우승과 25번의 컵 대회 우승 기록을 가지고 있다. 레프스키 소피아는 불가리아에서 1부리그에서 강등되지 않은 유일한 팀으로 남아 있다. 국제적으로는 [UEFA 컵 위너스컵](https://ko.wikipedia.org/wiki/UEFA_컵_위너스컵 "wikilink") 8강에 세번 올랐으며, [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink") 8강에도 두 번 올랐었다. [2006년](../Page/2006년.md "wikilink")에는 불가리아 팀 가운데 [UEFA 챔피언스리그의](../Page/UEFA_챔피언스리그.md "wikilink") 조별 리그에 오른 유일한 팀이 되었다.
 
 ## 역대 성적
 

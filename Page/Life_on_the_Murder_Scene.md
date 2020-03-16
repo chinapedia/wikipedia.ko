@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Life on the Murder Scene](https://ko.wikipedia.org/wiki/Life_on_the_Murder_Scene).
 
 
-***Life on the Murder Scene***은 [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink") 출신 5인조 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [마이 케미컬 로맨스의](../Page/마이_케미컬_로맨스.md "wikilink") 첫 번째 [컴필레이션 음반이다](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink").[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 21일에](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 발매되었다. 3개의 디스크 (2개의 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")와 1개의 [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"))로 구성되어 있다. 또한 추가로 2개의 데모 트랙과 미발매 트랙이 수록되어 있다.
+***Life on the Murder Scene***은 [뉴저지주](../Page/뉴저지주.md "wikilink") 출신 5인조 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [마이 케미컬 로맨스의](../Page/마이_케미컬_로맨스.md "wikilink") 첫 번째 [컴필레이션 음반이다](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink").[2006년](../Page/2006년.md "wikilink") [3월 21일에](../Page/3월_21일.md "wikilink") 발매되었다. 3개의 디스크 (2개의 [DVD](../Page/DVD.md "wikilink")와 1개의 [CD](../Page/콤팩트_디스크.md "wikilink"))로 구성되어 있다. 또한 추가로 2개의 데모 트랙과 미발매 트랙이 수록되어 있다.
 
 각 디스크 당 밴드의 다큐멘터리, 라이브 영상, 4개의 뮤직비디오와 함께 뮤직비디오의 메이킹 필름 3편이 수록되어 있으며 음반의 표지는 《[Three Cheers for Sweet Revenge](../Page/Three_Cheers_for_Sweet_Revenge.md "wikilink")》의 실사판이다.
 
@@ -9,14 +9,14 @@
 
 ### CD
 
-1.  "[Thank You for the Venom](https://ko.wikipedia.org/wiki/Thank_You_for_the_Venom "wikilink")" (live from MTV 2$ Bill) - 3:49
+1.  "[Thank You for the Venom](../Page/Thank_You_for_the_Venom.md "wikilink")" (live from MTV 2$ Bill) - 3:49
 2.  "Cemetery Drive" (live from MTV 2$ Bill) - 3:16
 3.  "Give 'Em Hell, Kid" (live from MTV 2$ Bill) – 2:20
 4.  "Headfirst for Halos" (live from the Starland Ballroom in Sayreville, New Jersey) – 2:42
 5.  "[Helena](https://ko.wikipedia.org/wiki/Helena "wikilink")" (live from Sessions@AOL) – 3:37
 6.  "You Know What They Do to Guys Like Us in Prison" (live from Sessions@AOL) – 3:11
 7.  "[The Ghost of You](https://ko.wikipedia.org/wiki/The_Ghost_of_You "wikilink")" (live from Sessions@AOL) – 3:26
-8.  "[I'm Not Okay (I Promise)](https://ko.wikipedia.org/wiki/I'm_Not_Okay_\(I_Promise\) "wikilink")" (live from Sessions@AOL) – 3:08
+8.  "[I'm Not Okay (I Promise)](../Page/I'm_Not_Okay_\(I_Promise\).md "wikilink")" (live from Sessions@AOL) – 3:08
 9.  "I Never Told You What I Do for a Living" (데모) – 3:43
 10. "Bury Me in Black" (데모) – 2:37
 11. "Desert Song" (미발매 트랙) – 3:50
@@ -48,7 +48,7 @@
       - From Sky High to Rock Bottom
       - Becoming a New Band
       - Bob
-      - The "[I'm Not Okay (I Promise)](https://ko.wikipedia.org/wiki/I'm_Not_Okay_\(I_Promise\) "wikilink")" Video
+      - The "[I'm Not Okay (I Promise)](../Page/I'm_Not_Okay_\(I_Promise\).md "wikilink")" Video
       - Candyland
       - The My Chemical Romance Explosion
       - The Nintendo Fusion Tour
@@ -69,7 +69,7 @@
 
 <!-- end list -->
 
-1.  "[I'm Not Okay (I Promise)](https://ko.wikipedia.org/wiki/I'm_Not_Okay_\(I_Promise\) "wikilink")"
+1.  "[I'm Not Okay (I Promise)](../Page/I'm_Not_Okay_\(I_Promise\).md "wikilink")"
 2.  "Cemetery Drive"
 3.  "Our Lady of Sorrows"
 4.  "Honey, This Mirror Isn't Big Enough for the Two of Us\]"

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Wii ](https://ko.wikipedia.org/wiki/Wii_).
 
 
-**Wii 채널**(, , )은 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink") 게임기의 최상위 메뉴 인터페이스이다. 4x3 격자로 네 장의 페이지를 이루고 있다.
+**Wii 채널**(, , )은 [Wii](../Page/Wii.md "wikilink") 게임기의 최상위 메뉴 인터페이스이다. 4x3 격자로 네 장의 페이지를 이루고 있다.
 
-"채널"(channel)로 알려져 있는 응용 프로그램들이 격자에 표시되며 [Wii 리모컨의](https://ko.wikipedia.org/wiki/Wii_리모컨 "wikilink") 기능을 사용하여 탐색할 수 있다. 격자는 사용자가 바라는 대로 바꿀 수 있으며 메뉴의 47가지 사용자 정의 슬롯 사이에서 채널을 움직일 수 있다.
+"채널"(channel)로 알려져 있는 응용 프로그램들이 격자에 표시되며 [Wii 리모컨의](../Page/Wii_리모컨.md "wikilink") 기능을 사용하여 탐색할 수 있다. 격자는 사용자가 바라는 대로 바꿀 수 있으며 메뉴의 47가지 사용자 정의 슬롯 사이에서 채널을 움직일 수 있다.
 
 ## 포함된 채널
 

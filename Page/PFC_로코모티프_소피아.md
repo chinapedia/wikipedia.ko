@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [PFC  ](https://ko.wikipedia.org/wiki/PFC__).
 
 
-**PFC 로코모티프 소피아**는 [불가리아](https://ko.wikipedia.org/wiki/불가리아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [1929년](https://ko.wikipedia.org/wiki/1929년 "wikilink") 수도인 [소피아](https://ko.wikipedia.org/wiki/소피아 "wikilink")를 연고로 **ZHSK**라는 이름으로 창단되었다.
+**PFC 로코모티프 소피아**는 [불가리아](../Page/불가리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1929년](../Page/1929년.md "wikilink") 수도인 [소피아](../Page/소피아.md "wikilink")를 연고로 **ZHSK**라는 이름으로 창단되었다.
 
-로코모티프 소피아는 [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink")부터 [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")까지 잠시 동안 [슬라비아 소피아와](https://ko.wikipedia.org/wiki/PFC_슬라비아_소피아 "wikilink") 통합하여 리그에 참여한 적이 있었다.
+로코모티프 소피아는 [1969년](../Page/1969년.md "wikilink")부터 [1971년](../Page/1971년.md "wikilink")까지 잠시 동안 [슬라비아 소피아와](https://ko.wikipedia.org/wiki/PFC_슬라비아_소피아 "wikilink") 통합하여 리그에 참여한 적이 있었다.
 
 ## 역대 성적
 
@@ -45,7 +45,7 @@
 
 ## 유명한 선수
 
-  - [데릭 아사모아](https://ko.wikipedia.org/wiki/데릭_아사모아 "wikilink")
+  - [데릭 아사모아](../Page/데릭_아사모아.md "wikilink")
 
 ## 외부 링크
 

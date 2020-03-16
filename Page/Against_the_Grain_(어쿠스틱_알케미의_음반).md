@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Against the Grain \(  \)](https://ko.wikipedia.org/wiki/Against_the_Grain_\(__\)).
 
 
-《**Against the Grain**》은 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 일곱 번째 앨범이며, [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")에 [GRP](https://ko.wikipedia.org/wiki/GRP "wikilink")에서 발매된 앨범이다.
+《**Against the Grain**》은 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 일곱 번째 앨범이며, [1994년](../Page/1994년.md "wikilink")에 [GRP](https://ko.wikipedia.org/wiki/GRP "wikilink")에서 발매된 앨범이다.
 
 10개의 트랙밖에 없음에도 불구하고 총 연주 시간이 53분인 이유는, 실험적으로 트랙을 길게 만들었기 때문이다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JAX-WS](https://ko.wikipedia.org/wiki/JAX-WS).
 
 
-**JAX-WS**(Java API for XML Web Services)는 [웹 서비스를](https://ko.wikipedia.org/wiki/웹_서비스 "wikilink") 생성하는 [자바 API로서](https://ko.wikipedia.org/wiki/자바_API "wikilink"), [Java EE의](https://ko.wikipedia.org/wiki/Java_EE "wikilink") 일부이다. 다른 Java EE의 자바 API와 같이, JAX-WS는 [Java SE](https://ko.wikipedia.org/wiki/Java_SE "wikilink") 5에서 도입된 [어노테이션](https://ko.wikipedia.org/wiki/어노테이션 "wikilink")(annotation)을 사용하여 웹 서비스 클라이언트 및 서버 모듈의 개발 및 배포를 쉽게 하고 있다. JAX-WS는 [JAX-RPC](https://ko.wikipedia.org/wiki/JAX-RPC "wikilink") 표준을 발전 시킨 개념으로 XML의 바인딩을 위한 [JAXB](../Page/JAXB.md "wikilink") 표준과 표준 스트리밍 파서를 위한 [StAX](https://ko.wikipedia.org/wiki/StAX "wikilink") 표준, 기능이 향상된 새로운 [SAAJ](https://ko.wikipedia.org/wiki/SAAJ "wikilink") 표준을 기반으로 통합, 발전된 자바 진영의 노력의 산물이다.
+**JAX-WS**(Java API for XML Web Services)는 [웹 서비스를](../Page/웹_서비스.md "wikilink") 생성하는 [자바 API로서](https://ko.wikipedia.org/wiki/자바_API "wikilink"), [Java EE의](https://ko.wikipedia.org/wiki/Java_EE "wikilink") 일부이다. 다른 Java EE의 자바 API와 같이, JAX-WS는 [Java SE](https://ko.wikipedia.org/wiki/Java_SE "wikilink") 5에서 도입된 [어노테이션](https://ko.wikipedia.org/wiki/어노테이션 "wikilink")(annotation)을 사용하여 웹 서비스 클라이언트 및 서버 모듈의 개발 및 배포를 쉽게 하고 있다. JAX-WS는 [JAX-RPC](https://ko.wikipedia.org/wiki/JAX-RPC "wikilink") 표준을 발전 시킨 개념으로 XML의 바인딩을 위한 [JAXB](../Page/JAXB.md "wikilink") 표준과 표준 스트리밍 파서를 위한 [StAX](https://ko.wikipedia.org/wiki/StAX "wikilink") 표준, 기능이 향상된 새로운 [SAAJ](https://ko.wikipedia.org/wiki/SAAJ "wikilink") 표준을 기반으로 통합, 발전된 자바 진영의 노력의 산물이다.
 
 ## 명칭 변경
 

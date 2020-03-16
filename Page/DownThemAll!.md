@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DownThemAll!](https://ko.wikipedia.org/wiki/DownThemAll!).
 
 
-**DownThemAll\!**(DTA)는 [모질라 파이어폭스용](https://ko.wikipedia.org/wiki/모질라_파이어폭스 "wikilink") [다운로드 관리자](https://ko.wikipedia.org/wiki/다운로드_관리자 "wikilink")/가속기 확장 기능으로, [GNU 일반 공중 사용 허가서하에](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 배포된다. 이 확장 기능은 언제든지 자료 손실 없이 다운로드를 중지하고 다시 계속할 수 있으며 사용자가 모든 링크를 빠르게, [웹 페이지에](../Page/웹_페이지.md "wikilink") 포함된 그림이나 내장 객체(embedded object)를 한 번의 클릭으로 다운로드할 수 있도록 해 준다. 또한 페이지에서 특정 부분들만 골라서 다운로드할 수도 있다. [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink")와 [FTP](https://ko.wikipedia.org/wiki/FTP "wikilink") 프로토콜을 지원한다.
+**DownThemAll\!**(DTA)는 [모질라 파이어폭스용](../Page/모질라_파이어폭스.md "wikilink") [다운로드 관리자](https://ko.wikipedia.org/wiki/다운로드_관리자 "wikilink")/가속기 확장 기능으로, [GNU 일반 공중 사용 허가서하에](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 배포된다. 이 확장 기능은 언제든지 자료 손실 없이 다운로드를 중지하고 다시 계속할 수 있으며 사용자가 모든 링크를 빠르게, [웹 페이지에](../Page/웹_페이지.md "wikilink") 포함된 그림이나 내장 객체(embedded object)를 한 번의 클릭으로 다운로드할 수 있도록 해 준다. 또한 페이지에서 특정 부분들만 골라서 다운로드할 수도 있다. [HTTP](../Page/HTTP.md "wikilink")와 [FTP](https://ko.wikipedia.org/wiki/FTP "wikilink") 프로토콜을 지원한다.
 
 ## 다중 다운로드
 

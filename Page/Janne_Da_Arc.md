@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Janne Da Arc](https://ko.wikipedia.org/wiki/Janne_Da_Arc).
 
 
-**Janne Da Arc**(잔다르크,ジャンヌダルク)는 일본의 록 밴드이다. 처음 [비주얼계](https://ko.wikipedia.org/wiki/비주얼계 "wikilink")로 데뷔했지만 차츰 비주얼계에서 탈피하였다. [avex내](https://ko.wikipedia.org/wiki/에이벡스 "wikilink") motorod소속으로 멤버는 야스, 유, 카유, 키요, 슈지로 전부 중학교 때부터 친구로 쭉 인연을 유지해온 사이이다. [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 결성되어 언더그라운드 무대에서부터 활동, [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [5월 19일에](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") 싱글《RED ZONE》으로 메이저 데뷔를 이뤘다. 음악적 완성도와 연주력에 정평이 있으며 2005년 9월 14일 한국에서 앨범《JOKER》가 라이선스 발매되었다. Janne Da Arc의 팬들은 통칭 "잔너(Janner)"라고 불리고 있으며, 그 이전 명칭은 "다카(Darcar)"였으나 멤버도 팬들도 익숙지 않았다고 한다. 밴드명은 역사상의 프랑스 영웅 잔다르크에서 유래되었을 것이라 생각되지만 실은 나가이 고의 만화 '데빌맨'의 캐릭터에서 따왔다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 26일에](https://ko.wikipedia.org/wiki/1월_26일 "wikilink") 활동 휴지를 선언, 각 멤버의 솔로 활동이 발표되었다. [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 카유의 사건과 더불어 해체되었다. 야스의 목상태도 좋지 않은 것으로 전해져 Acid black cherry 활동도 언제 재개할지 불투명한 상태이다.
+**Janne Da Arc**(잔다르크,ジャンヌダルク)는 일본의 록 밴드이다. 처음 [비주얼계](../Page/비주얼계.md "wikilink")로 데뷔했지만 차츰 비주얼계에서 탈피하였다. [avex내](https://ko.wikipedia.org/wiki/에이벡스 "wikilink") motorod소속으로 멤버는 야스, 유, 카유, 키요, 슈지로 전부 중학교 때부터 친구로 쭉 인연을 유지해온 사이이다. [1996년](../Page/1996년.md "wikilink")에 결성되어 언더그라운드 무대에서부터 활동, [1999년](../Page/1999년.md "wikilink") [5월 19일에](../Page/5월_19일.md "wikilink") 싱글《RED ZONE》으로 메이저 데뷔를 이뤘다. 음악적 완성도와 연주력에 정평이 있으며 2005년 9월 14일 한국에서 앨범《JOKER》가 라이선스 발매되었다. Janne Da Arc의 팬들은 통칭 "잔너(Janner)"라고 불리고 있으며, 그 이전 명칭은 "다카(Darcar)"였으나 멤버도 팬들도 익숙지 않았다고 한다. 밴드명은 역사상의 프랑스 영웅 잔다르크에서 유래되었을 것이라 생각되지만 실은 나가이 고의 만화 '데빌맨'의 캐릭터에서 따왔다. [2007년](../Page/2007년.md "wikilink") [1월 26일에](../Page/1월_26일.md "wikilink") 활동 휴지를 선언, 각 멤버의 솔로 활동이 발표되었다. [2019년](../Page/2019년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 카유의 사건과 더불어 해체되었다. 야스의 목상태도 좋지 않은 것으로 전해져 Acid black cherry 활동도 언제 재개할지 불투명한 상태이다.
 
 ## 멤버
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 보컬이자 리더. 1975년 1월 27일생. A형. [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") [히라카타 시](https://ko.wikipedia.org/wiki/히라카타_시 "wikilink") 출생. 본명 하야시 야스노리(林保德).
+  - 보컬이자 리더. 1975년 1월 27일생. A형. [오사카부](../Page/오사카부.md "wikilink") [히라카타 시](https://ko.wikipedia.org/wiki/히라카타_시 "wikilink") 출생. 본명 하야시 야스노리(林保德).
   - 영향을 받은 아티스트는 DEAD END, [BOOWY](https://ko.wikipedia.org/wiki/보위 "wikilink")(보위)이다.
   - Janne Da Arc의 싱글곡 작사·작곡은 대부분 야스가 담당하고 있다. (다른 멤버들도 커플링곡이나 앨범곡에 작사·작곡을 담당한다)
   - 중학교시절, 카유와 밴드를 만들 때까지는 만화가가 꿈이였다. 그림체는 [드래곤 볼의](https://ko.wikipedia.org/wiki/드래곤_볼 "wikilink") 토리야마 아키라풍의 작화였다고 한다.
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - [기타 연주자](https://ko.wikipedia.org/wiki/기타_연주자 "wikilink"). 1974년 7월 24일생. O형. [효고현](https://ko.wikipedia.org/wiki/효고현 "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 출생. 본명 쓰다 유타카(津田豊).
+  - [기타 연주자](../Page/기타_연주자.md "wikilink"). 1974년 7월 24일생. O형. [효고현](../Page/효고현.md "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 출생. 본명 쓰다 유타카(津田豊).
   - 공연 중에 썰렁한 개그를 하는 경우가 종종 있다고 한다. 또 루팡시리즈를 좋아하는 듯하다.
   - 그다지 눈에 띄고 싶어하지 않는 성격. 실제로 초기 잔다르크 활동 때에도 화장을 짙게 분장 하는 것에 저항감을 가지고 있었다.
   - 영향을 받은 아티스트는 [유니콘과](https://ko.wikipedia.org/wiki/유니콘_\(밴드\) "wikilink") 기타리스트 **[누노 베텐코트](https://ko.wikipedia.org/wiki/익스트림 "wikilink")**. **누노 베텐코트**와 'UDO MUSIC FESTIVAL 2006'에서 같이 공연하기도 했다.
@@ -114,7 +114,7 @@
 22. 《**Love Is Here**》 (2004년 11월 17일)
 23. 《**[月光花](https://ko.wikipedia.org/wiki/월광화 "wikilink")**》 (2005년 1월 19일)
 24. 《**[ダイヤモンドヴァージン](https://ko.wikipedia.org/wiki/다이아몬드_버진 "wikilink")**》 (2005년 5월 18일)
-25. 《**[振り向けば… / Destination](https://ko.wikipedia.org/wiki/후리무케바 "wikilink")**》 (2006년 2월 8일)
+25. 《**[振り向けば… / Destination](../Page/후리무케바.md "wikilink")**》 (2006년 2월 8일)
 26. 《**HEAVEN / メビウス**》 (2006년 5월 10일)
 
 ### 베스트 앨범
@@ -136,31 +136,31 @@
 
 <!-- end list -->
 
-  - **NO TITLE(언더그라운드 무대 활동) ([1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") \~ [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink"))** \[No.1\~8\]
-  - **NEW FIELD OF CREATION TOUR ([1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") \~ [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink"))** \[No.9\~11\]
-  - **NECESSITY FOR NEW FIELD OF CREATION TOUR ([1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") \~ [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink"))** \[No.12\~19\]
-  - **1999 TOUR “CHAOS MODE” ([1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") \~ [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink"))** \[No.20\~28\]
-  - **seal of zone ([1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [8월 15일](https://ko.wikipedia.org/wiki/8월_15일 "wikilink") \~ [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink"))** \[No.29\~30\]
-  - **tour “reveal the truth - skirmish” ([1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") \~ [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink"))** \[No.31\~52\]
-  - **tour “reveal the truth - AREA \[an aggregate\]” ([1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink") \~ [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink"))** \[No.53\~58\]
-  - **2000 tour “Different Native Answers(D·N·A)” ([2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") \~ [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [4월 23일](https://ko.wikipedia.org/wiki/4월_23일 "wikilink"))** \[No.59\~66\]
-  - **2000 tour “ANOTHER NEO” ([2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") \~ [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink"))** \[No.67\~69\]
-  - **첫 일본무도관 공연 TOUR “FATE or FORTUNE” ([2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") \~ [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink"))** \[No.70\~79\]
-  - **2001 tour “Z-HARD” ([2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink") \~ [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [5월 19일](https://ko.wikipedia.org/wiki/5월_19일 "wikilink"))** \[No.80\~91\]
-  - **2002 tour “GAIA” ([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") \~ [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 14일](https://ko.wikipedia.org/wiki/4월_14일 "wikilink"))** \[No.92\~99\]
-  - **100번째 라이브 “LIVE INFINITY 2002(일본무도관)” ([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink"))** \[No.100\]
-  - **처음 올라섰던 '히라카타 BLOW DOWN'에서 다시 라이브 ([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink"))** \[No.101\]
-  - **2003 tour “ANOTHER STORY” ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 11일](https://ko.wikipedia.org/wiki/4월_11일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink"))** \[No.102\~111\]
-  - **2003 tour “DAZE”(라이브 하우스 투어) ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 19일](https://ko.wikipedia.org/wiki/8월_19일 "wikilink"))** \[No.112\~128\]
-  - **남성 한정의 라이브 “男尻 Night”(오사카 BIG CAT) ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink"))** \[No.129\]
-  - **2003 tour “DAZE”(라이브 하우스 투어) 추가 공연 ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 2일](https://ko.wikipedia.org/wiki/9월_2일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink"))** \[No.130\~144\]
-  - **남성 한정의 라이브 “男尻 Night”(신주쿠 리퀴드룸) ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink"))** \[No.145\]
-  - **폐교가 되는 모교에서 시크릿 라이브 ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink"))**
-  - **2004 tour “ARCADIA”(파이널: 일본무도관) ([2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink"))** \[No.146\~154\]
-  - **첫 오사카성 홀 공연 Live 2005 “Dearly” ([2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink"))** \[No.155\]
-  - **2005 tour “JOKER”(파이널: 일본무도관, 오사카 페스티벌 홀) ([2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") \~ [2005](https://ko.wikipedia.org/wiki/2005 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink"))** \[No.156\~174\]
-  - **멤버결성(1996.5.9) 10주년 기념 라이브 “10th Anniversary Special Live” ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 9일](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink"))** \[No.175\~177\]
-  - **첫 사이타마 슈퍼 아레나 공연 Live 2006 “DEAD or ALIVE” ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 20일](https://ko.wikipedia.org/wiki/5월_20일 "wikilink"))** \[No.178\]
+  - **NO TITLE(언더그라운드 무대 활동) ([1998년](../Page/1998년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink"))** \[No.1\~8\]
+  - **NEW FIELD OF CREATION TOUR ([1998년](../Page/1998년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink"))** \[No.9\~11\]
+  - **NECESSITY FOR NEW FIELD OF CREATION TOUR ([1999년](../Page/1999년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink"))** \[No.12\~19\]
+  - **1999 TOUR “CHAOS MODE” ([1999년](../Page/1999년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink"))** \[No.20\~28\]
+  - **seal of zone ([1999년](../Page/1999년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink"))** \[No.29\~30\]
+  - **tour “reveal the truth - skirmish” ([1999년](../Page/1999년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink"))** \[No.31\~52\]
+  - **tour “reveal the truth - AREA \[an aggregate\]” ([1999년](../Page/1999년.md "wikilink") [12월 18일](../Page/12월_18일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink"))** \[No.53\~58\]
+  - **2000 tour “Different Native Answers(D·N·A)” ([2000년](../Page/2000년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink"))** \[No.59\~66\]
+  - **2000 tour “ANOTHER NEO” ([2000년](../Page/2000년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink"))** \[No.67\~69\]
+  - **첫 일본무도관 공연 TOUR “FATE or FORTUNE” ([2000년](../Page/2000년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink"))** \[No.70\~79\]
+  - **2001 tour “Z-HARD” ([2001년](../Page/2001년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink"))** \[No.80\~91\]
+  - **2002 tour “GAIA” ([2002년](../Page/2002년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink"))** \[No.92\~99\]
+  - **100번째 라이브 “LIVE INFINITY 2002(일본무도관)” ([2002년](../Page/2002년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink"))** \[No.100\]
+  - **처음 올라섰던 '히라카타 BLOW DOWN'에서 다시 라이브 ([2002년](../Page/2002년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink"))** \[No.101\]
+  - **2003 tour “ANOTHER STORY” ([2003년](../Page/2003년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink"))** \[No.102\~111\]
+  - **2003 tour “DAZE”(라이브 하우스 투어) ([2003년](../Page/2003년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink"))** \[No.112\~128\]
+  - **남성 한정의 라이브 “男尻 Night”(오사카 BIG CAT) ([2003년](../Page/2003년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink"))** \[No.129\]
+  - **2003 tour “DAZE”(라이브 하우스 투어) 추가 공연 ([2003년](../Page/2003년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink"))** \[No.130\~144\]
+  - **남성 한정의 라이브 “男尻 Night”(신주쿠 리퀴드룸) ([2003년](../Page/2003년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink"))** \[No.145\]
+  - **폐교가 되는 모교에서 시크릿 라이브 ([2003년](../Page/2003년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink"))**
+  - **2004 tour “ARCADIA”(파이널: 일본무도관) ([2004년](../Page/2004년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink"))** \[No.146\~154\]
+  - **첫 오사카성 홀 공연 Live 2005 “Dearly” ([2005년](../Page/2005년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink"))** \[No.155\]
+  - **2005 tour “JOKER”(파이널: 일본무도관, 오사카 페스티벌 홀) ([2005년](../Page/2005년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [2005](https://ko.wikipedia.org/wiki/2005 "wikilink") [9월 16일](../Page/9월_16일.md "wikilink"))** \[No.156\~174\]
+  - **멤버결성(1996.5.9) 10주년 기념 라이브 “10th Anniversary Special Live” ([2006년](../Page/2006년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink"))** \[No.175\~177\]
+  - **첫 사이타마 슈퍼 아레나 공연 Live 2006 “DEAD or ALIVE” ([2006년](../Page/2006년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink"))** \[No.178\]
 
 <!-- end list -->
 
@@ -234,7 +234,7 @@
 
 1.  **《BLACK LIST》** (2008년 2월 20일)
 2.  **《Q.E.D.》** (2009년 8월 26일)
-3.  **[《2012》](https://ko.wikipedia.org/wiki/2012_\(음반\) "wikilink")** (2012년 3월 21일)
+3.  **[《2012》](../Page/2012_\(음반\).md "wikilink")** (2012년 3월 21일)
 4.  **《L-エル》** (2015년 2월 25일)
 
 <!-- end list -->

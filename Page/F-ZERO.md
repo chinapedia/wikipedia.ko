@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [F-ZERO](https://ko.wikipedia.org/wiki/F-ZERO).
 
 
-《**F-ZERO**》은 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 개발하고 판매한 비디오 게임이다.
+《**F-ZERO**》은 [닌텐도](../Page/닌텐도.md "wikilink")가 개발하고 판매한 비디오 게임이다.
 
-미래의 레이싱을 소재로 하고 있다. [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 [슈퍼패미컴](https://ko.wikipedia.org/wiki/슈퍼패미컴 "wikilink") 용으로 개발하였다. 이 게임은 [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 처음 발매되었다. 이후 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 발매되었다. [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")에는 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에서 발매되었다.
+미래의 레이싱을 소재로 하고 있다. [닌텐도](../Page/닌텐도.md "wikilink")가 [슈퍼패미컴](https://ko.wikipedia.org/wiki/슈퍼패미컴 "wikilink") 용으로 개발하였다. 이 게임은 [1990년](../Page/1990년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 처음 발매되었다. 이후 [1991년](../Page/1991년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 발매되었다. [1992년](../Page/1992년.md "wikilink")에는 [유럽](../Page/유럽.md "wikilink")에서 발매되었다.
 
 ## 게임플레이
 

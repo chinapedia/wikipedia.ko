@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sounds of St. Lucia: Live](https://ko.wikipedia.org/wiki/Sounds_of_St._Lucia:_Live).
 
 
-《**Sounds of St. Lucia: Live**》는 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 라이브 공연 음반이다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 제10 회 [세인트 루시아 재즈 페스티벌에서](https://ko.wikipedia.org/wiki/세인트_루시아_재즈_페스티벌 "wikilink") 그들이 가진 공연 실황을 수록하였다. [이미지 엔터테인먼트사가](https://ko.wikipedia.org/wiki/이미지_엔터테인먼트 "wikilink") [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 및 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") 형태로 발매하였다.
+《**Sounds of St. Lucia: Live**》는 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 라이브 공연 음반이다. [2000년](../Page/2000년.md "wikilink") 제10 회 [세인트 루시아 재즈 페스티벌에서](https://ko.wikipedia.org/wiki/세인트_루시아_재즈_페스티벌 "wikilink") 그들이 가진 공연 실황을 수록하였다. [이미지 엔터테인먼트사가](https://ko.wikipedia.org/wiki/이미지_엔터테인먼트 "wikilink") [CD](../Page/콤팩트_디스크.md "wikilink") 및 [DVD](../Page/DVD.md "wikilink") 형태로 발매하였다.
 
 이 앨범에서, 밴드의 라인업은 다음과 같다: [Greg Carmichael](https://ko.wikipedia.org/wiki/Greg_Carmichael "wikilink") (나일론 기타), [마일스 길더대일](https://ko.wikipedia.org/wiki/마일스_길더대일 "wikilink") (통기타), [프랭크 펠릭스](https://ko.wikipedia.org/wiki/프랭크_펠릭스 "wikilink") (베이스), 토니 화이트 (키보드), 리챠드 브룩 (드럼).
 

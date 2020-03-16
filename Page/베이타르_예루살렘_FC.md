@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**베이타르 예루살렘 FC**(, )은 [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink")의 [축구팀으로](https://ko.wikipedia.org/wiki/축구단 "wikilink"), [예루살렘](https://ko.wikipedia.org/wiki/예루살렘 "wikilink")을 연고로 하고 있다.
+**베이타르 예루살렘 FC**(, )은 [이스라엘](../Page/이스라엘.md "wikilink")의 [축구팀으로](https://ko.wikipedia.org/wiki/축구단 "wikilink"), [예루살렘](../Page/예루살렘.md "wikilink")을 연고로 하고 있다.
 
 이 클럽은 이스라엘의 대표적인 클럽 가운데 하나로,\[1\]\[2\] 프랑스와 이스라엘의 기업인이자 유대계 및 러시아계 프랑스인 기업인인 [알렉상드르 가이다마크의](https://ko.wikipedia.org/wiki/알렉상드르_가이다마크 "wikilink") 지원으로 이스라엘에서 가장 부유한 클럽이 되었다.
 

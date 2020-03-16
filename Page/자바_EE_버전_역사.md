@@ -13,12 +13,12 @@ JPE 프로젝트 선언
 
 사양 리스트 :
 
-  - [엔터프라이즈 자바빈즈](https://ko.wikipedia.org/wiki/엔터프라이즈_자바빈즈 "wikilink") (EJB), 버전 1.1
+  - [엔터프라이즈 자바빈즈](../Page/엔터프라이즈_자바빈즈.md "wikilink") (EJB), 버전 1.1
   - [자바 서버 페이지](https://ko.wikipedia.org/wiki/자바_서버_페이지 "wikilink") (JSP), 버전 1.1
   - [자바 서블릿](../Page/자바_서블릿.md "wikilink"), 버전 2.2
-  - [JDBC](https://ko.wikipedia.org/wiki/JDBC "wikilink") API, 버전 2.0
-  - [JNDI](https://ko.wikipedia.org/wiki/JNDI "wikilink"), 버전 1.2
-  - [자바 메시지 서비스](https://ko.wikipedia.org/wiki/자바_메시지_서비스 "wikilink") (JMS), 버전 1.0.2
+  - [JDBC](../Page/JDBC.md "wikilink") API, 버전 2.0
+  - [JNDI](../Page/JNDI.md "wikilink"), 버전 1.2
+  - [자바 메시지 서비스](../Page/자바_메시지_서비스.md "wikilink") (JMS), 버전 1.0.2
   - [자바 트랜잭션 API](https://ko.wikipedia.org/wiki/자바_트랜잭션_API "wikilink") (JTA), 버전 1.0.1
   - [자바 트랜잭션 서비스](https://ko.wikipedia.org/wiki/자바_트랜잭션_서비스 "wikilink") (JTS), 버전 0.95
   - [자바 메일](https://ko.wikipedia.org/wiki/자바_메일 "wikilink") API 버전 1.1
@@ -30,12 +30,12 @@ JPE 프로젝트 선언
 
 사양 리스트 :
 
-  - [엔터프라이즈 자바빈즈](https://ko.wikipedia.org/wiki/엔터프라이즈_자바빈즈 "wikilink") (EJB), 버전 2.0
+  - [엔터프라이즈 자바빈즈](../Page/엔터프라이즈_자바빈즈.md "wikilink") (EJB), 버전 2.0
   - [자바 서버 페이지](https://ko.wikipedia.org/wiki/자바_서버_페이지 "wikilink") (JSP), 버전 1.2
   - [자바 서블릿](../Page/자바_서블릿.md "wikilink") , 버전 2.3
-  - [JDBC](https://ko.wikipedia.org/wiki/JDBC "wikilink") API, 버전 2.1
-  - [JNDI](https://ko.wikipedia.org/wiki/JNDI "wikilink") , 버전 1.2
-  - [자바 메시지 서비스](https://ko.wikipedia.org/wiki/자바_메시지_서비스 "wikilink") (JMS), 버전 1.0.2
+  - [JDBC](../Page/JDBC.md "wikilink") API, 버전 2.1
+  - [JNDI](../Page/JNDI.md "wikilink") , 버전 1.2
+  - [자바 메시지 서비스](../Page/자바_메시지_서비스.md "wikilink") (JMS), 버전 1.0.2
   - [자바 트랜잭션 API](https://ko.wikipedia.org/wiki/자바_트랜잭션_API "wikilink") (JTA), 버전 1.0.1
   - [자바 트랜잭션 서비스](https://ko.wikipedia.org/wiki/자바_트랜잭션_서비스 "wikilink") (JTS), 버전 1.0
   - [자바 메일](https://ko.wikipedia.org/wiki/자바_메일 "wikilink") API 버전 1.1
@@ -50,12 +50,12 @@ JPE 프로젝트 선언
 
 사양 리스트:
 
-  - [엔터프라이즈 자바빈즈](https://ko.wikipedia.org/wiki/엔터프라이즈_자바빈즈 "wikilink") (EJB), 버전 2.1
+  - [엔터프라이즈 자바빈즈](../Page/엔터프라이즈_자바빈즈.md "wikilink") (EJB), 버전 2.1
   - [자바 서버 페이지](https://ko.wikipedia.org/wiki/자바_서버_페이지 "wikilink") (JSP), 버전 2.0
   - [자바 서블릿](../Page/자바_서블릿.md "wikilink"), 버전 2.4
-  - [JDBC](https://ko.wikipedia.org/wiki/JDBC "wikilink") API, 버전 3.0
-  - [JNDI](https://ko.wikipedia.org/wiki/JNDI "wikilink") , 버전 1.2
-  - [자바 메시지 서비스](https://ko.wikipedia.org/wiki/자바_메시지_서비스 "wikilink") (JMS), 버전 1.1
+  - [JDBC](../Page/JDBC.md "wikilink") API, 버전 3.0
+  - [JNDI](../Page/JNDI.md "wikilink") , 버전 1.2
+  - [자바 메시지 서비스](../Page/자바_메시지_서비스.md "wikilink") (JMS), 버전 1.1
   - [자바 트랜잭션 API](https://ko.wikipedia.org/wiki/자바_트랜잭션_API "wikilink") (JTA), 버전 1.0.1B
   - [자바 트랜잭션 서비스](https://ko.wikipedia.org/wiki/자바_트랜잭션_서비스 "wikilink") (JTS), 버전 1.0
   - [자바 메일](https://ko.wikipedia.org/wiki/자바_메일 "wikilink"), 버전 1.2
@@ -64,7 +64,7 @@ JPE 프로젝트 선언
   - [JAXP](https://ko.wikipedia.org/wiki/JAXP "wikilink") (JAXP), 버전 1.2
   - [JAAS](https://ko.wikipedia.org/wiki/JAAS "wikilink") (JAAS), 버전 1.0
   - Java Authorization Service Provider Contract for Containers (JACC), 버전 1.0
-  - [웹 서비스](https://ko.wikipedia.org/wiki/웹_서비스 "wikilink") for J2EE, 버전 1.0
+  - [웹 서비스](../Page/웹_서비스.md "wikilink") for J2EE, 버전 1.0
   - [JAX-RPC](https://ko.wikipedia.org/wiki/JAX-RPC "wikilink") (JAX-RPC), 버전 1.0
   - [JAXR](https://ko.wikipedia.org/wiki/JAXR "wikilink") (JAXR), 버전 1.0
   - [JMX](https://ko.wikipedia.org/wiki/JMX "wikilink") (JMX), 버전 1.1
@@ -77,7 +77,7 @@ JPE 프로젝트 선언
 
 사양 리스트 :
 
-  - [엔터프라이즈 자바빈즈](https://ko.wikipedia.org/wiki/엔터프라이즈_자바빈즈 "wikilink") (Enterprise Java Beans, EJB), 버전 3.0
+  - [엔터프라이즈 자바빈즈](../Page/엔터프라이즈_자바빈즈.md "wikilink") (Enterprise Java Beans, EJB), 버전 3.0
   - [자바 퍼시스턴스 API](https://ko.wikipedia.org/wiki/JPA "wikilink") (Java Persistence API, JPA), 버전 1.0
 
 <!-- end list -->
@@ -89,9 +89,9 @@ JPE 프로젝트 선언
 
 <!-- end list -->
 
-  - [JDBC](https://ko.wikipedia.org/wiki/JDBC "wikilink") (Java DataBase Connectivity, JDBC) , 버전 3.0
-  - [JNDI](https://ko.wikipedia.org/wiki/JNDI "wikilink") (Java Naming and Directory Interface, JNDI), 버전 1.2
-  - [자바 메시지 서비스](https://ko.wikipedia.org/wiki/자바_메시지_서비스 "wikilink") (Java Message Service, JMS), 버전 1.1
+  - [JDBC](../Page/JDBC.md "wikilink") (Java DataBase Connectivity, JDBC) , 버전 3.0
+  - [JNDI](../Page/JNDI.md "wikilink") (Java Naming and Directory Interface, JNDI), 버전 1.2
+  - [자바 메시지 서비스](../Page/자바_메시지_서비스.md "wikilink") (Java Message Service, JMS), 버전 1.1
   - [자바 트랜잭션 API](https://ko.wikipedia.org/wiki/자바_트랜잭션_API "wikilink") (Java Transaction API, JTA), 버전 1.1
   - [자바 트랜잭션 서비스](https://ko.wikipedia.org/wiki/자바_트랜잭션_서비스 "wikilink") (Java Transaction Service, JTS), 버전 1.0
   - [자바 메일](https://ko.wikipedia.org/wiki/자바_메일 "wikilink") (JavaMail) , 버전 1.4
@@ -100,14 +100,14 @@ JPE 프로젝트 선언
   - [JAXP](https://ko.wikipedia.org/wiki/JAXP "wikilink") (Java API for XML Processing, JAXP), 버전 1.3
   - [JAAS](https://ko.wikipedia.org/wiki/JAAS "wikilink") (Java Authentication and Authorization Service, JAAS), 버전 1.0
   - [JACC](https://ko.wikipedia.org/wiki/JACC "wikilink") (Java Authorization Service Provider Contract for Containers, JACC), 버전 1.1
-  - [Java EE용](../Page/자바_플랫폼,_엔터프라이즈_에디션.md "wikilink") [웹서비스](https://ko.wikipedia.org/wiki/웹_서비스 "wikilink"), 버전 1.2
+  - [Java EE용](../Page/자바_플랫폼,_엔터프라이즈_에디션.md "wikilink") [웹서비스](../Page/웹_서비스.md "wikilink"), 버전 1.2
   - [JAX-RPC](https://ko.wikipedia.org/wiki/JAX-RPC "wikilink") (Java API for XML-based RPC, JAX-RPC), 버전 1.1
   - [JAXR](https://ko.wikipedia.org/wiki/JAXR "wikilink") (Java API for XML Registries, JAXR), 버전 1.0
   - [JMX](https://ko.wikipedia.org/wiki/JMX "wikilink") (Java Management eXtensions, JMX), 버전 1.2
   - Java Platform, Enterprise Edition Management Specification, 버전 1.1
   - Java Platform, Enterprise Edition Deployment Specification, 버전 1.1
-  - [JAX-WS](https://ko.wikipedia.org/wiki/JAX-WS "wikilink") (Java API for XML-based Web Services, JAX-WS), 버전 2.0
-  - [JAXB](https://ko.wikipedia.org/wiki/JAXB "wikilink") (Java Architecture for XML Binding, JAXB), 버전 2.0
+  - [JAX-WS](../Page/JAX-WS.md "wikilink") (Java API for XML-based Web Services, JAX-WS), 버전 2.0
+  - [JAXB](../Page/JAXB.md "wikilink") (Java Architecture for XML Binding, JAXB), 버전 2.0
   - [SAAJ](https://ko.wikipedia.org/wiki/SAAJ "wikilink") (SOAP with Attachments API for Java, SAAJ), 버전 1.3
   - Web Services Metadata for the Java Platform, 버전 2.0
   - [StAX](https://ko.wikipedia.org/wiki/StAX "wikilink") (Streaming API for XML, StAX), 버전 1.0
@@ -122,19 +122,19 @@ JPE 프로젝트 선언
   - [JSR](https://ko.wikipedia.org/wiki/자바_커뮤니티_프로세스#JSR "wikilink")-236 Timer for Application Servers
   - [JSR](https://ko.wikipedia.org/wiki/자바_커뮤니티_프로세스#JSR "wikilink")-237 Work Manager for Application Servers
   - [JSR](https://ko.wikipedia.org/wiki/자바_커뮤니티_프로세스#JSR "wikilink")-299 [Web Beans](https://ko.wikipedia.org/wiki/Web_Beans "wikilink")
-  - [JSR](https://ko.wikipedia.org/wiki/자바_커뮤니티_프로세스#JSR "wikilink")-311 [JAX-RS](https://ko.wikipedia.org/wiki/JAX-RS "wikilink"): Java API for RESTful Web Services
+  - [JSR](https://ko.wikipedia.org/wiki/자바_커뮤니티_프로세스#JSR "wikilink")-311 [JAX-RS](../Page/JAX-RS.md "wikilink"): Java API for RESTful Web Services
 
 사양 업그레이드 예정
 
-  - [EJB](https://ko.wikipedia.org/wiki/엔터프라이즈_자바빈즈 "wikilink") 3.1
+  - [EJB](../Page/엔터프라이즈_자바빈즈.md "wikilink") 3.1
   - [JSP](https://ko.wikipedia.org/wiki/자바_서버_페이지 "wikilink") 2.2
   - [Servlet](../Page/자바_서블릿.md "wikilink") 3.0
   - [JSF](https://ko.wikipedia.org/wiki/자바_서버_페이스 "wikilink") 2.0
-  - [JAX-WS](https://ko.wikipedia.org/wiki/JAX-WS "wikilink") 2.2
+  - [JAX-WS](../Page/JAX-WS.md "wikilink") 2.2
   - [JCA](https://ko.wikipedia.org/wiki/JCA "wikilink") 1.6
 
 ## 같이 보기
 
-  - [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink")
+  - [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink")
 
 [분류:자바 플랫폼, 엔터프라이즈 에디션](https://ko.wikipedia.org/wiki/분류:자바_플랫폼,_엔터프라이즈_에디션 "wikilink") [분류:소프트웨어 버전 역사](https://ko.wikipedia.org/wiki/분류:소프트웨어_버전_역사 "wikilink")

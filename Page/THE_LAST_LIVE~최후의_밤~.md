@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [THE LAST LIVE\~ \~](https://ko.wikipedia.org/wiki/THE_LAST_LIVE\~_\~).
 
 
-《**THE LAST LIVE \~최후의 밤\~**》 ()은 일본의 록 밴드 [엑스 재팬이](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [도쿄 돔에서](https://ko.wikipedia.org/wiki/도쿄_돔 "wikilink") 개최한 해체 콘서트이다.
+《**THE LAST LIVE \~최후의 밤\~**》 ()은 일본의 록 밴드 [엑스 재팬이](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") [1997년](../Page/1997년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") [도쿄 돔에서](../Page/도쿄_돔.md "wikilink") 개최한 해체 콘서트이다.
 
 ## 해설
 
-[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [9월 22일에](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") 해체를 발표한 엑스 재팬이 같은 해 12월 31일에 도쿄 돔에서 가진 라이브 콘서트. 종료 후 출연한 [NHK 홍백가합전의](../Page/NHK_홍백가합전.md "wikilink") 무대를 끝으로 엑스 재팬은 해체되었다. 발매되는 THE LAST LIVE VIDEO(DVD, VHS)에는 MC나 앵콜의 영상까지 수록되고 있지만, [ENDLESS RAIN의](https://ko.wikipedia.org/wiki/ENDLESS_RAIN "wikilink") 연주 이후는 수록되어 있지 않다.
+[1997년](../Page/1997년.md "wikilink") [9월 22일에](../Page/9월_22일.md "wikilink") 해체를 발표한 엑스 재팬이 같은 해 12월 31일에 도쿄 돔에서 가진 라이브 콘서트. 종료 후 출연한 [NHK 홍백가합전의](../Page/NHK_홍백가합전.md "wikilink") 무대를 끝으로 엑스 재팬은 해체되었다. 발매되는 THE LAST LIVE VIDEO(DVD, VHS)에는 MC나 앵콜의 영상까지 수록되고 있지만, [ENDLESS RAIN의](https://ko.wikipedia.org/wiki/ENDLESS_RAIN "wikilink") 연주 이후는 수록되어 있지 않다.
 
 ENDLESS RAIN 이후의 영상은, 오랫동안 TV 방영과 THE LAST SONG의 엑스트라 시디로 밖에 시청 할 수 없다가, X JAPAN 부활 후에 이 라이브의 완전판의 발매가 공식으로 이야기 되고 있다.
 

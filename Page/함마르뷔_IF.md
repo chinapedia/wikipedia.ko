@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
 
 
-**함마르뷔 IF**는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")의 수도인 [스톡홀름](https://ko.wikipedia.org/wiki/스톡홀름 "wikilink")을 연고지로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**함마르뷔 IF**는 [스웨덴](../Page/스웨덴.md "wikilink")의 수도인 [스톡홀름](../Page/스톡홀름.md "wikilink")을 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다.
 
-[1889년](https://ko.wikipedia.org/wiki/1889년 "wikilink")에 Hammarby Roddförening이란 이름으로 만들어졌으며, [1897년](https://ko.wikipedia.org/wiki/1897년 "wikilink")에 명칭을 Hammarby Idrottsförening(**Hammarby IF**)로 변경하였다. 이 당시까지는 이 클럽에 축구팀은 없었으며 [1915년](https://ko.wikipedia.org/wiki/1915년 "wikilink")에 축구팀이 만들어졌다.
+[1889년](../Page/1889년.md "wikilink")에 Hammarby Roddförening이란 이름으로 만들어졌으며, [1897년](../Page/1897년.md "wikilink")에 명칭을 Hammarby Idrottsförening(**Hammarby IF**)로 변경하였다. 이 당시까지는 이 클럽에 축구팀은 없었으며 [1915년](../Page/1915년.md "wikilink")에 축구팀이 만들어졌다.
 
 ## 역대 성적
 
@@ -68,7 +68,7 @@
 <td></td>
 <td><p>2회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세인트_미렌_FC" title="wikilink">세인트 미렌 FC</a></p></td>
+<td><p><a href="../Page/세인트_미렌_FC.md" title="wikilink">세인트 미렌 FC</a></p></td>
 <td><p>3-3, 2-1</p></td>
 </tr>
 <tr class="even">
@@ -76,7 +76,7 @@
 <td></td>
 <td><p>3회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1._FC_쾰른" title="wikilink">1. FC 쾰른</a></p></td>
+<td><p><a href="../Page/1._FC_쾰른.md" title="wikilink">1. FC 쾰른</a></p></td>
 <td><p>2-1, 1-3</p></td>
 </tr>
 <tr class="odd">
@@ -84,7 +84,7 @@
 <td></td>
 <td><p>2회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_하카" title="wikilink">FC 하카</a></p></td>
+<td><p><a href="../Page/FC_하카.md" title="wikilink">FC 하카</a></p></td>
 <td><p>1-1, 1-2</p></td>
 </tr>
 <tr class="even">
@@ -100,7 +100,7 @@
 <td></td>
 <td><p>3회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SC_헤이렌베인" title="wikilink">SC 헤이렌베인</a></p></td>
+<td><p><a href="../Page/SC_헤이렌베인.md" title="wikilink">SC 헤이렌베인</a></p></td>
 <td><p>0-2, 0-2</p></td>
 </tr>
 <tr class="even">
@@ -148,7 +148,7 @@
 <td></td>
 <td><p>3회전</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_위트레흐트" title="wikilink">FC 위트레흐트</a></p></td>
+<td><p><a href="../Page/FC_위트레흐트.md" title="wikilink">FC 위트레흐트</a></p></td>
 <td><p>0-0, 1-1</p></td>
 </tr>
 <tr class="even">

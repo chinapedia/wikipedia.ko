@@ -3,7 +3,7 @@
 
 **가상 하드 디스크**(Virtual Hard Disk, VHD)는 [버추얼 PC](https://ko.wikipedia.org/wiki/버추얼_PC "wikilink") 2004 ([커넥틱스](https://ko.wikipedia.org/wiki/커넥틱스 "wikilink")사가 개발)와 마이크로소프트사의 [버추얼 서버](https://ko.wikipedia.org/wiki/버추얼_서버 "wikilink") 2005 R2에 쓰이는 기술이다. 2005년 6월 이후로 마이크로소프트사는 VHD 이미지 포맷 규격을 만들어 [마이크로소프트 오픈 규격 약정](https://ko.wikipedia.org/wiki/마이크로소프트_오픈_규격_약정 "wikilink") 하에 서드파티에게 제공하고 있다.
 
-VHD 포맷은 완전한 [가상 머신](../Page/가상_머신.md "wikilink") [운영 체제와](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 응용 프로그램 스택을 하나의 파일에 캡처한다.\[1\]
+VHD 포맷은 완전한 [가상 머신](../Page/가상_머신.md "wikilink") [운영 체제와](../Page/운영_체제.md "wikilink") 응용 프로그램 스택을 하나의 파일에 캡처한다.\[1\]
 
 VHD 포맷은 [하이퍼 V라](https://ko.wikipedia.org/wiki/하이퍼_V "wikilink") 불리는 [하이퍼바이저](../Page/하이퍼바이저.md "wikilink") 기반의 가상화 기술을 포함하고 있는 [윈도 서버 2008에도](https://ko.wikipedia.org/wiki/윈도_서버_2008 "wikilink") 사용된다. 하이퍼-V는 오프라인으로 VHD를 이용함으로써 가상 머신을 증명하지 않고도 관리자에게 VHD 안의 파일을 안전하게 접근할 수 있는 기능을 제공한다. 그뿐 아니라 일부 오프라인 관리 작업을 수행할 수 있는 기능도 제공한다.\[2\]
 

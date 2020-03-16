@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rust in Peace](https://ko.wikipedia.org/wiki/Rust_in_Peace).
 
 
-《**Rust in Peace**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [스래시 메탈](https://ko.wikipedia.org/wiki/스래시_메탈 "wikilink") 밴드인 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 네 번째 음반이다. 이 음반은 1990년도에 [캐피틀 레코드에서](../Page/캐피틀_레코드.md "wikilink") 발매되었으며, 보너스 트랙을 포함한 리믹스/리마스터판이 2004년에 발매되었다.
+《**Rust in Peace**》는 [미국](../Page/미국.md "wikilink")의 [스래시 메탈](../Page/스래시_메탈.md "wikilink") 밴드인 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 네 번째 음반이다. 이 음반은 1990년도에 [캐피틀 레코드에서](../Page/캐피틀_레코드.md "wikilink") 발매되었으며, 보너스 트랙을 포함한 리믹스/리마스터판이 2004년에 발매되었다.
 
 싱글로 "Holy Wars... The Punishment Is Due"와 "Hangar 18"이 발매되었다.
 

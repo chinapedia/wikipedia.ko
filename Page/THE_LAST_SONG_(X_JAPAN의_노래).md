@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE LAST SONG \(X JAPAN \)](https://ko.wikipedia.org/wiki/THE_LAST_SONG_\(X_JAPAN_\)).
 
 
-〈**THE LAST SONG**〉은 [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 17번째의 싱글이다. [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [3월 18일](https://ko.wikipedia.org/wiki/3월_18일 "wikilink") 발매되었다.
+〈**THE LAST SONG**〉은 [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 17번째의 싱글이다. [1998년](../Page/1998년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") 발매되었다.
 
 ## 설명
 
@@ -9,7 +9,7 @@
 
 해산 결정 후, 레코드 회사 측의 요청에 의해 [요시키](https://ko.wikipedia.org/wiki/요시키 "wikilink")가 작곡했다.
 
-[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [도쿄돔](https://ko.wikipedia.org/wiki/도쿄돔 "wikilink")에서 열린 “THE LAST LIVE\~최후의 밤\~”의 앵콜부분 마지막 부분에 연주되었다.
+[1997년](../Page/1997년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") [도쿄돔](https://ko.wikipedia.org/wiki/도쿄돔 "wikilink")에서 열린 “THE LAST LIVE\~최후의 밤\~”의 앵콜부분 마지막 부분에 연주되었다.
 
 2008년 3월 28일, 부활 라이브 “[공격 재개 2008 I.V. \~파멸을 향하여\~](../Page/공격_재개_2008_I.V._~파멸을_향하여~.md "wikilink")”의 첫 부분에 연주되기도 하였다. 이는 요시키가 “엑스 재팬이 다시 모여 콘서트를 한다면, THE LAST SONG을 먼저 선보이고 싶다”는 희망에서 비롯되었다.
 

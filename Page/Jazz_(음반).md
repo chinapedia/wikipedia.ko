@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jazz \(\)](https://ko.wikipedia.org/wiki/Jazz_\(\)).
 
 
-《**Jazz**》는 [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 11월 10일에 발매된 [퀸의](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 앨범이다. 이 앨범의 차트 순위는 포르투갈에서 1위, 영국과 프랑스에서 2위 네덜란드에서 4위 독일과 일본에서 5위를 기록하였다. 11월 13일날 발매한 싱글"Bicycle Race"/"Fat Bottomed Girls"의 경우 표지 논란이 많이 있었으며, 그 논란 때문에 퀸은 영국 학부모 협회의 블랙리스트로 잠깐 기록된 적이 있었다. 1979년 1월 26일날 발매한 "Don't Stop Me Now"의 경우 앨범 후에 발매했음에도 불구하고 영국 차트 9위를 기록한다. 2006년에 영국밴드 [맥플라이](https://ko.wikipedia.org/wiki/맥플라이 "wikilink")(McFly)는 이 노래를 리메이크하여 영국차트 1위를 기록한다.
+《**Jazz**》는 [1978년](../Page/1978년.md "wikilink") 11월 10일에 발매된 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 앨범이다. 이 앨범의 차트 순위는 포르투갈에서 1위, 영국과 프랑스에서 2위 네덜란드에서 4위 독일과 일본에서 5위를 기록하였다. 11월 13일날 발매한 싱글"Bicycle Race"/"Fat Bottomed Girls"의 경우 표지 논란이 많이 있었으며, 그 논란 때문에 퀸은 영국 학부모 협회의 블랙리스트로 잠깐 기록된 적이 있었다. 1979년 1월 26일날 발매한 "Don't Stop Me Now"의 경우 앨범 후에 발매했음에도 불구하고 영국 차트 9위를 기록한다. 2006년에 영국밴드 [맥플라이](../Page/맥플라이.md "wikilink")(McFly)는 이 노래를 리메이크하여 영국차트 1위를 기록한다.
 
 ## 수록곡
 

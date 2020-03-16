@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I-RAM](https://ko.wikipedia.org/wiki/I-RAM).
 
 
-**i-RAM**은 [기가바이트에서](https://ko.wikipedia.org/wiki/기가바이트_테크놀로지 "wikilink") 2005년 6월 25일에 발매된 [솔리드 스테이트 드라이브의](../Page/솔리드_스테이트_드라이브.md "wikilink") 일종으로\[1\] PC용 [DDR](../Page/DDR_SDRAM.md "wikilink") [램](https://ko.wikipedia.org/wiki/램 "wikilink")을 이용하여 데이터를 저장한다.
+**i-RAM**은 [기가바이트에서](../Page/기가바이트_테크놀로지.md "wikilink") 2005년 6월 25일에 발매된 [솔리드 스테이트 드라이브의](../Page/솔리드_스테이트_드라이브.md "wikilink") 일종으로\[1\] PC용 [DDR](../Page/DDR_SDRAM.md "wikilink") [램](https://ko.wikipedia.org/wiki/램 "wikilink")을 이용하여 데이터를 저장한다.
 
 [SATA](https://ko.wikipedia.org/wiki/SATA "wikilink")포트를 사용하며 [하드디스크](https://ko.wikipedia.org/wiki/하드디스크 "wikilink")와 똑같이 사용할 수 있다. 최고 초당 150MB의 읽기/쓰기 속도를 내며, 액세스 타임은 최소 0.1ms의 속도를 낸다.
 

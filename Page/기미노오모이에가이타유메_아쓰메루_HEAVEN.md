@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  HEAVEN](https://ko.wikipedia.org/wiki/__HEAVEN).
 
 
-**네가 마음속에 그린 꿈을 모은 HEAVEN** () 는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 18번째 싱글이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월 18일](https://ko.wikipedia.org/wiki/5월_18일 "wikilink") [GIZA studio에서](https://ko.wikipedia.org/wiki/GIZA_studio "wikilink") 발매되었다.
+**네가 마음속에 그린 꿈을 모은 HEAVEN** () 는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 18번째 싱글이다. [2005년](../Page/2005년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.
 
-전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](https://ko.wikipedia.org/wiki/아즈키_나나 "wikilink"), 편곡은 [후루이 히로히토가](https://ko.wikipedia.org/wiki/후루이_히로히토 "wikilink") 맡았다.
+전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](../Page/아즈키_나나.md "wikilink"), 편곡은 [후루이 히로히토가](../Page/후루이_히로히토.md "wikilink") 맡았다.
 
 곡을 제작하던 도중에 애니메이션〈[메르헤븐](https://ko.wikipedia.org/wiki/메르헤븐 "wikilink")〉의 타이업이 결정되었기 때문에, 처음과 달리 애니메이션을 의식한 곡이 되었다.
 

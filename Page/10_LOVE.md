@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [10 LOVE](https://ko.wikipedia.org/wiki/10_LOVE).
 
 
-『**10LOVE**』는 [이이즈카 마유미의](../Page/이이즈카_마유미.md "wikilink") 10번째 [음반](../Page/음반.md "wikilink"). [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 27일에](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") [도쿠마 저팬 커뮤니케이션즈에서](https://ko.wikipedia.org/wiki/도쿠마_저팬_커뮤니케이션즈 "wikilink") 발매.
+『**10LOVE**』는 [이이즈카 마유미의](../Page/이이즈카_마유미.md "wikilink") 10번째 [음반](../Page/음반.md "wikilink"). [2006년](../Page/2006년.md "wikilink") [9월 27일에](../Page/9월_27일.md "wikilink") [도쿠마 저팬 커뮤니케이션즈에서](https://ko.wikipedia.org/wiki/도쿠마_저팬_커뮤니케이션즈 "wikilink") 발매.
 
 ## 해설
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OTcl](https://ko.wikipedia.org/wiki/OTcl).
 
 
-**OTcl**은 [Tcl](https://ko.wikipedia.org/wiki/Tcl "wikilink")의 [객체 지향](https://ko.wikipedia.org/wiki/객체_지향 "wikilink") 확장이다. 데이비드 웨더롤()이 창안하였다.\[1\]. OTcl은 네트워크 시뮬레이터인 [ns-2에서](https://ko.wikipedia.org/wiki/ns_\(시뮬레이터\) "wikilink") 쓰이고 있다. [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 환경에서 동작한다.\[2\]
+**OTcl**은 [Tcl](../Page/Tcl.md "wikilink")의 [객체 지향](https://ko.wikipedia.org/wiki/객체_지향 "wikilink") 확장이다. 데이비드 웨더롤()이 창안하였다.\[1\]. OTcl은 네트워크 시뮬레이터인 [ns-2에서](https://ko.wikipedia.org/wiki/ns_\(시뮬레이터\) "wikilink") 쓰이고 있다. [유닉스](../Page/유닉스.md "wikilink") 환경에서 동작한다.\[2\]
 
 ## 문법 소개
 

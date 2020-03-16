@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 시비리**()는 [러시아](../Page/러시아.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, [노보시비르스크](https://ko.wikipedia.org/wiki/노보시비르스크 "wikilink")를 연고로 하고 있다. [스파르타크 경기장을](https://ko.wikipedia.org/wiki/스파르타크_경기장_\(노보시비르스크\) "wikilink") 홈구장으로 사용하고 있으며, 2009년 [러시아 1부 리그에서](https://ko.wikipedia.org/wiki/러시아_1부_리그 "wikilink") [러시아 프리미어리그로](../Page/러시아_프리미어리그.md "wikilink") 승격하였다.
+**FC 시비리**()는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [노보시비르스크](../Page/노보시비르스크.md "wikilink")를 연고로 하고 있다. [스파르타크 경기장을](https://ko.wikipedia.org/wiki/스파르타크_경기장_\(노보시비르스크\) "wikilink") 홈구장으로 사용하고 있으며, 2009년 [러시아 1부 리그에서](https://ko.wikipedia.org/wiki/러시아_1부_리그 "wikilink") [러시아 프리미어리그로](../Page/러시아_프리미어리그.md "wikilink") 승격하였다.
 
 ## 역사
 
-[1936년](https://ko.wikipedia.org/wiki/1936년 "wikilink")에 설립된 시비르는 팀의 명칭에 많은 변화가 있었다.
+[1936년](../Page/1936년.md "wikilink")에 설립된 시비르는 팀의 명칭에 많은 변화가 있었다.
 
   - **1936-37** : FC 부레베스트니크 (Буревестник)
   - **1938-56** : FC 크릴리야 소베토프 (Крылья Советов)
@@ -18,9 +18,9 @@
   - **2000-05** : FC 치칼로베츠-1936 (Чкаловец-1936)
   - **2006-현재** : FC 시비리 (Сибирь)
 
-팀은 [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink")부터 소비에트 연방 리그에 참여해 왔다. 주로 2부리그나 3부리그에서 플레이해왔다. 그러다가 [소비에트 연방에서](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") [러시아](../Page/러시아.md "wikilink")로 바뀌던 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")에 새롭게 생겨난 [러시아 1부 리그에](https://ko.wikipedia.org/wiki/러시아_1부_리그 "wikilink") 참가하게 되었고, [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")에는 [러시아 2부 리그로](https://ko.wikipedia.org/wiki/러시아_2부_리그 "wikilink") 강등되었다. 1994년시즌에 승격에 성공한 뒤에 1996년 시즌까지 1부 리그에서 플레이해왔다. 1996년시즌 종료후 2부리그로 강등되었다.
+팀은 [1937년](../Page/1937년.md "wikilink")부터 소비에트 연방 리그에 참여해 왔다. 주로 2부리그나 3부리그에서 플레이해왔다. 그러다가 [소비에트 연방에서](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") [러시아](../Page/러시아.md "wikilink")로 바뀌던 [1992년](../Page/1992년.md "wikilink")에 새롭게 생겨난 [러시아 1부 리그에](https://ko.wikipedia.org/wiki/러시아_1부_리그 "wikilink") 참가하게 되었고, [1994년](../Page/1994년.md "wikilink")에는 [러시아 2부 리그로](https://ko.wikipedia.org/wiki/러시아_2부_리그 "wikilink") 강등되었다. 1994년시즌에 승격에 성공한 뒤에 1996년 시즌까지 1부 리그에서 플레이해왔다. 1996년시즌 종료후 2부리그로 강등되었다.
 
-[2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 팀은 올림픽 노보시비르스크와 합병하고, 팀명을 FC 치칼로베츠-1936 로 바꾼 다음에 아마추어 리그에서 플레이하였다. 2000년 시즌이 끝난 후 2부리그로 승격하였으며, 2004년에는 1부리그에 승격하게 되었다.
+[2000년](../Page/2000년.md "wikilink")에 팀은 올림픽 노보시비르스크와 합병하고, 팀명을 FC 치칼로베츠-1936 로 바꾼 다음에 아마추어 리그에서 플레이하였다. 2000년 시즌이 끝난 후 2부리그로 승격하였으며, 2004년에는 1부리그에 승격하게 되었다.
 
 ## 역대 성적
 

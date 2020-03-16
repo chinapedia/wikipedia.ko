@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OpenGL](https://ko.wikipedia.org/wiki/OpenGL).
 
 
-**오픈 그래픽 라이브러리**( 줄여서 **OpenGL**)\[1\]\[2\]은 1992년 [실리콘 그래픽스사에서](../Page/실리콘_그래픽스.md "wikilink") 만든 2차원 및 3차원 그래픽스 표준 [API](../Page/API.md "wikilink") 규격으로, 프로그래밍 언어 간 플랫폼 간의 교차 응용 프로그래밍을 지원한다. 이 API는 약 250여개 가량의 함수 호출을 이용하여 단순한 기하도형에서부터 복잡한 삼차원 장면을 생성할 수 있다. OpenGL은 현재 [CAD](https://ko.wikipedia.org/wiki/CAD "wikilink"), [가상현실](https://ko.wikipedia.org/wiki/가상현실 "wikilink"), [정보시각화](https://ko.wikipedia.org/wiki/정보시각화 "wikilink"), 비행 시뮬레이션 등의 분야에서 활용되고 있다. 또한 컴퓨터 게임 분야에서도 널리 활용되고 있으며, [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")사의 [Direct3D와](https://ko.wikipedia.org/wiki/다이렉트3D "wikilink") 함께 컴퓨터 그래픽 세계를 양분하고 있다. Direct3D와는 달리, 표준안이 여러 관련 업체의 토론과 제안으로 이루어지기에 버전 업데이트는 느린 편이다. OpenGL을 사용하여 개발된 대표적인 게임은 [이드 소프트웨어의](https://ko.wikipedia.org/wiki/이드_소프트웨어 "wikilink") [퀘이크](https://ko.wikipedia.org/wiki/퀘이크_\(비디오_게임\) "wikilink"), [둠3](https://ko.wikipedia.org/wiki/둠3 "wikilink") 시리즈이다. 현재 비영리 기술 컨소시엄인 [크로노스 그룹에](https://ko.wikipedia.org/wiki/크로노스_그룹 "wikilink") 의하여 관리되고 있다.
+**오픈 그래픽 라이브러리**( 줄여서 **OpenGL**)\[1\]\[2\]은 1992년 [실리콘 그래픽스사에서](../Page/실리콘_그래픽스.md "wikilink") 만든 2차원 및 3차원 그래픽스 표준 [API](../Page/API.md "wikilink") 규격으로, 프로그래밍 언어 간 플랫폼 간의 교차 응용 프로그래밍을 지원한다. 이 API는 약 250여개 가량의 함수 호출을 이용하여 단순한 기하도형에서부터 복잡한 삼차원 장면을 생성할 수 있다. OpenGL은 현재 [CAD](https://ko.wikipedia.org/wiki/CAD "wikilink"), [가상현실](../Page/가상현실.md "wikilink"), [정보시각화](https://ko.wikipedia.org/wiki/정보시각화 "wikilink"), 비행 시뮬레이션 등의 분야에서 활용되고 있다. 또한 컴퓨터 게임 분야에서도 널리 활용되고 있으며, [마이크로소프트](../Page/마이크로소프트.md "wikilink")사의 [Direct3D와](https://ko.wikipedia.org/wiki/다이렉트3D "wikilink") 함께 컴퓨터 그래픽 세계를 양분하고 있다. Direct3D와는 달리, 표준안이 여러 관련 업체의 토론과 제안으로 이루어지기에 버전 업데이트는 느린 편이다. OpenGL을 사용하여 개발된 대표적인 게임은 [이드 소프트웨어의](../Page/이드_소프트웨어.md "wikilink") [퀘이크](../Page/퀘이크_\(비디오_게임\).md "wikilink"), [둠3](https://ko.wikipedia.org/wiki/둠3 "wikilink") 시리즈이다. 현재 비영리 기술 컨소시엄인 [크로노스 그룹에](../Page/크로노스_그룹.md "wikilink") 의하여 관리되고 있다.
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 1990년대 초, [실리콘 그래픽스](../Page/실리콘_그래픽스.md "wikilink")(SGI)는 워크스테이션용 3차원 그래픽스의 리더였다. [IRIS GL](https://ko.wikipedia.org/wiki/IRIS_GL "wikilink") API\[3\]는 [사실 상의](https://ko.wikipedia.org/wiki/데_팍토 "wikilink") 표준 산업이 되어 오픈 표준 기반의 [PHIGS](https://ko.wikipedia.org/wiki/PHIGS "wikilink")를 무색케 했다. IRIS GL이 사용하기 쉬운 것으로 간주되었을 뿐 아니라, [즉시 모드](https://ko.wikipedia.org/wiki/즉시_모드 "wikilink") 렌더링을 지원하였기 때문이다. 이와 대조적으로, PHIGS는 사용하기 어렵고 기능이 시대에 뒤쳐진 것으로 간주되었다.
 
-SGI의 경쟁사들([썬 마이크로시스템즈](../Page/썬_마이크로시스템즈.md "wikilink"), [휴렛 패커드](https://ko.wikipedia.org/wiki/휴렛_패커드 "wikilink"), [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink"))은 PHIGS 표준의 확장을 지원하는 3차원 하드웨어를 마케팅할 수 있었다. 더 많은 3차원 그래픽스 제공자들이 시장에 진입하면서 SGI 시장 점유율을 약화시켰다. 시장에 영향을 주려는 노력으로 SGI는 IrisGL API를 오픈 표준으로 전환시키기로 결정하였는데, 이것이 OpenGL이다.
+SGI의 경쟁사들([썬 마이크로시스템즈](../Page/썬_마이크로시스템즈.md "wikilink"), [휴렛 패커드](https://ko.wikipedia.org/wiki/휴렛_패커드 "wikilink"), [IBM](../Page/IBM.md "wikilink"))은 PHIGS 표준의 확장을 지원하는 3차원 하드웨어를 마케팅할 수 있었다. 더 많은 3차원 그래픽스 제공자들이 시장에 진입하면서 SGI 시장 점유율을 약화시켰다. 시장에 영향을 주려는 노력으로 SGI는 IrisGL API를 오픈 표준으로 전환시키기로 결정하였는데, 이것이 OpenGL이다.
 
 ## 버전 역사
 
@@ -22,7 +22,7 @@ OpenGL의 최초 버전은 1992년 6월 30일 Mark Segal and [Kurt Akeley에](ht
   - OpenGL 1.3
   - OpenGL 1.4
   - OpenGL 1.5
-  - OpenGL 2.0 - [GLSL](https://ko.wikipedia.org/wiki/GLSL "wikilink") 1.1
+  - OpenGL 2.0 - [GLSL](../Page/GLSL.md "wikilink") 1.1
   - OpenGL 2.1 - GLSL 1.2
   - OpenGL 3.0 - GLSL 1.3
   - OpenGL 3.1 - GLSL 1.4
@@ -689,18 +689,18 @@ glEnd(); /* 다각형 만드는 일을 종료시킨다 */
 
 ## 같이 보기
 
-  - [GLSL](https://ko.wikipedia.org/wiki/GLSL "wikilink") - OpenGL의 상위 레벨 셰이딩 언어.
+  - [GLSL](../Page/GLSL.md "wikilink") - OpenGL의 상위 레벨 셰이딩 언어.
   - [글라이드](../Page/글라이드.md "wikilink") - 부두 그래픽 가속 카드를 위한 3D 그래픽스 API.
   - [OpenGL ES](../Page/OpenGL_ES.md "wikilink") - 임베디드 단말을 위한 OpenGL.
 
 ### OpenGL 지원 라이브러리
 
-  - [GLUT](https://ko.wikipedia.org/wiki/OpenGL_유틸리티_툴킷 "wikilink") – OpenGL 유틸리티 툴킷으로 윈도 시스템에 독립적인 OpenGL 프로그램을 작성하도록 도와주는 도구.
+  - [GLUT](../Page/OpenGL_유틸리티_툴킷.md "wikilink") – OpenGL 유틸리티 툴킷으로 윈도 시스템에 독립적인 OpenGL 프로그램을 작성하도록 도와주는 도구.
   - [SDL](../Page/심플_다이렉트미디어_레이어.md "wikilink") – Simple DirectMedia Layer.
   - [GLU](https://ko.wikipedia.org/wiki/OpenGL_Utility_Library "wikilink") – OpenGL 프로그램을 위한 추가적인 함수를 제공.
   - [GLee](https://ko.wikipedia.org/wiki/OpenGL_Easy_Extension_library "wikilink") - OpenGL 프로그램을 위한 단순한 추가 라이브러리 제공.
   - [GLEW](https://ko.wikipedia.org/wiki/OpenGL_Extension_Wrangler_Library "wikilink") – OpenGL 확장 Wrangler 라이브러리 제공.
-  - [GLUI](https://ko.wikipedia.org/wiki/OpenGL_사용자_인터페이스_라이브러리 "wikilink") - GLUT로 만들어진 [GUI](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 툴킷으로 버튼, 체크박스 등의 GUI 기능을 제공.
+  - [GLUI](../Page/OpenGL_사용자_인터페이스_라이브러리.md "wikilink") - GLUT로 만들어진 [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") 툴킷으로 버튼, 체크박스 등의 GUI 기능을 제공.
   - [GLFW](https://ko.wikipedia.org/wiki/OpenGL_FrameWork "wikilink") - OpenGL 응용 프로그램 개발을 위한 이식 가능한 프레임워크.
   - [GLM](https://ko.wikipedia.org/wiki/OpenGL_Mathematics "wikilink") - GLSL 규격에 기반한 OpenGL을 위한 C++ 수학 툴킷.
   - [SFML](https://ko.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library "wikilink") - 간단하고 빠른 멀티미디어 라이브러리.
@@ -710,14 +710,14 @@ glEnd(); /* 다각형 만드는 일을 종료시킨다 */
 
   - [Mesa 3D](https://ko.wikipedia.org/wiki/Mesa_3D "wikilink") - OpenGL의 공개소스 판.
   - [VirtualGL](https://ko.wikipedia.org/wiki/VirtualGL "wikilink") - 원격지 X 서버로 렌더링된 이미지를 보내주는 OpenGL 3D 모델 서버.
-  - [Direct3D](../Page/Direct3D.md "wikilink") - [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")사에서 개발한 OpenGL의 대항 API.
-  - [RISpec](https://ko.wikipedia.org/wiki/RenderMan_Interface_Specification "wikilink") - [픽사](https://ko.wikipedia.org/wiki/픽사 "wikilink")에서 개발한 실사 오프라인 렌더링을 위한 공개 API.
+  - [Direct3D](../Page/Direct3D.md "wikilink") - [마이크로소프트](../Page/마이크로소프트.md "wikilink")사에서 개발한 OpenGL의 대항 API.
+  - [RISpec](https://ko.wikipedia.org/wiki/RenderMan_Interface_Specification "wikilink") - [픽사](../Page/픽사.md "wikilink")에서 개발한 실사 오프라인 렌더링을 위한 공개 API.
 
 ### 기타 2D 그래픽스 API
 
   - [카이로](https://ko.wikipedia.org/wiki/카이로_\(그래픽스\) "wikilink") - 여러 운영체제에서 사용할 수 있는 벡터 그래픽 툴킷.
-  - [GTK+](https://ko.wikipedia.org/wiki/GTK+ "wikilink") - 여러 운영체제에서 사용할 수 있는 그래픽 위젯 툴킷.
-  - [Qt](https://ko.wikipedia.org/wiki/Qt_\(프레임워크\) "wikilink") - 여러 운영체제에서 사용할 수 있는 그래픽 위젯 툴킷.
+  - [GTK+](../Page/GTK+.md "wikilink") - 여러 운영체제에서 사용할 수 있는 그래픽 위젯 툴킷.
+  - [Qt](../Page/Qt_\(프레임워크\).md "wikilink") - 여러 운영체제에서 사용할 수 있는 그래픽 위젯 툴킷.
   - [wxWidgets](https://ko.wikipedia.org/wiki/wxWidgets "wikilink") - 여러 운영체제에서 사용할 수 있는 그래픽 위젯 툴킷.
 
 ## 벌컨

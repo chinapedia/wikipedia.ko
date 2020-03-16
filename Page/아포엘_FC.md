@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**아포엘**(, )은 [키프로스](https://ko.wikipedia.org/wiki/키프로스 "wikilink") [니코시아](https://ko.wikipedia.org/wiki/니코시아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 21번의 리그 우승과 19번의 컵 대회 우승, 12번의 슈퍼컵 우승 기록을 갖고 있으며 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")와 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink"), [배구](https://ko.wikipedia.org/wiki/배구 "wikilink"), [탁구](../Page/탁구.md "wikilink"), [사이클](https://ko.wikipedia.org/wiki/사이클 "wikilink") 팀도 운영하고 있다. 클럽 이름은 [그리스어](https://ko.wikipedia.org/wiki/그리스어 "wikilink")로 "니코시아 그리스인 스포츠 축구 클럽"을 뜻한다.
+**아포엘**(, )은 [키프로스](../Page/키프로스.md "wikilink") [니코시아](../Page/니코시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 21번의 리그 우승과 19번의 컵 대회 우승, 12번의 슈퍼컵 우승 기록을 갖고 있으며 [축구](../Page/축구.md "wikilink")와 [농구](../Page/농구.md "wikilink"), [배구](../Page/배구.md "wikilink"), [탁구](../Page/탁구.md "wikilink"), [사이클](https://ko.wikipedia.org/wiki/사이클 "wikilink") 팀도 운영하고 있다. 클럽 이름은 [그리스어](../Page/그리스어.md "wikilink")로 "니코시아 그리스인 스포츠 축구 클럽"을 뜻한다.
 
 [UEFA 챔피언스리그 2011-12에서](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2011-12 "wikilink") 키프로스 클럽으로는 처음으로 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 8강에 진출하는 돌풍을 일으켰다.
 

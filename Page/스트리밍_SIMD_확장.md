@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SIMD ](https://ko.wikipedia.org/wiki/_SIMD_).
 
 
-**스트리밍 SIMD 확장**(Streaming SIMD Extensions, SSE)은 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 아키텍처에 대한 [SIMD](https://ko.wikipedia.org/wiki/SIMD "wikilink")(단일 명령 다중 데이터) [명령어 집합](../Page/명령어_집합.md "wikilink") 확장이며, [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")이 1999년에 [펜티엄 III](../Page/펜티엄_III.md "wikilink") 시리즈 프로세서에 도입하였다. 이 기능은 1998년 등장한 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")사의 [3D나우\!](https://ko.wikipedia.org/wiki/3D나우! "wikilink") 기술에 대응한다. SSE는 70가지의 새로운 명령어와 추가적인 레지스터로 구성되며, 명령어의 대부분은 [부동 소수점에](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink") 대한 연산이다.
+**스트리밍 SIMD 확장**(Streaming SIMD Extensions, SSE)은 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 아키텍처에 대한 [SIMD](https://ko.wikipedia.org/wiki/SIMD "wikilink")(단일 명령 다중 데이터) [명령어 집합](../Page/명령어_집합.md "wikilink") 확장이며, [인텔](../Page/인텔.md "wikilink")이 1999년에 [펜티엄 III](../Page/펜티엄_III.md "wikilink") 시리즈 프로세서에 도입하였다. 이 기능은 1998년 등장한 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")사의 [3D나우\!](../Page/3D나우!.md "wikilink") 기술에 대응한다. SSE는 70가지의 새로운 명령어와 추가적인 레지스터로 구성되며, 명령어의 대부분은 [부동 소수점에](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink") 대한 연산이다.
 
 SSE는 [펜티엄 III가](../Page/펜티엄_III.md "wikilink") 코드명 Katmai로 알려져 있을 시기에는 **KNI**(Katmai New Instructions)로 불렸다. 이후 이 이름은 **ISSE**(Internet Streaming SIMD Extensions)로 정해졌었으며, 이후 SSE로 변경되었다. AMD는 [애슬론 XP와](https://ko.wikipedia.org/wiki/애슬론_XP "wikilink") [듀론](../Page/듀론.md "wikilink") 프로세서를 기점으로 SSE 명령 지원을 추가했다.
 
@@ -19,9 +19,9 @@ SSE는 XMM 레지스터의 자료구조로 4개의 32비트 단정도 부동 소
   - 8개의 16비트 정수
   - 16개의 8비트 정수
 
-SSE를 처음 지원한 [펜티엄 III는](../Page/펜티엄_III.md "wikilink") SSE와 [FPU를](https://ko.wikipedia.org/wiki/부동_소수점_장치 "wikilink") 동시에 사용할 수 없도록 만들어졌다. 이러한 구조는 [명령어 파이프라인](https://ko.wikipedia.org/wiki/명령어_파이프라인 "wikilink") 효율성을 떨어뜨렸다.
+SSE를 처음 지원한 [펜티엄 III는](../Page/펜티엄_III.md "wikilink") SSE와 [FPU를](../Page/부동_소수점_장치.md "wikilink") 동시에 사용할 수 없도록 만들어졌다. 이러한 구조는 [명령어 파이프라인](../Page/명령어_파이프라인.md "wikilink") 효율성을 떨어뜨렸다.
 
-XMM 레지스터는 태스크 스위치 시에 값을 보존해야 하는 대상이기 때문에, [운영 체제가](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 이 레지스터를 사용하도록 명시적으로 활성화하기 전까지는 사용이 불가능하다. 다시 말하면, 운영 체제가 SSE 레지스터를 보존하는 명령어인 FXSAVE와 FXSTOR를 사용할 수 있어야 한다는 의미이다. 이러한 지원은 주요 IA-32 운영 체제에서 빠르게 추가되었다.
+XMM 레지스터는 태스크 스위치 시에 값을 보존해야 하는 대상이기 때문에, [운영 체제가](../Page/운영_체제.md "wikilink") 이 레지스터를 사용하도록 명시적으로 활성화하기 전까지는 사용이 불가능하다. 다시 말하면, 운영 체제가 SSE 레지스터를 보존하는 명령어인 FXSAVE와 FXSTOR를 사용할 수 있어야 한다는 의미이다. 이러한 지원은 주요 IA-32 운영 체제에서 빠르게 추가되었다.
 
 ## SSE 명령어
 
@@ -76,17 +76,17 @@ XMM 레지스터는 태스크 스위치 시에 값을 보존해야 하는 대상
 
 ## 뒤에 나온 버전
 
-  - [SSE2](https://ko.wikipedia.org/wiki/SSE2 "wikilink")
-  - [SSE3](https://ko.wikipedia.org/wiki/SSE3 "wikilink")
-  - [SSSE3](https://ko.wikipedia.org/wiki/SSSE3 "wikilink")
-  - [SSE4](https://ko.wikipedia.org/wiki/SSE4 "wikilink")
+  - [SSE2](../Page/SSE2.md "wikilink")
+  - [SSE3](../Page/SSE3.md "wikilink")
+  - [SSSE3](../Page/SSSE3.md "wikilink")
+  - [SSE4](../Page/SSE4.md "wikilink")
   - [SSE5](https://ko.wikipedia.org/wiki/SSE5 "wikilink")
-  - [AVX](https://ko.wikipedia.org/wiki/고급_벡터_확장 "wikilink")
+  - [AVX](../Page/고급_벡터_확장.md "wikilink")
 
 ## 같이 보기
 
-  - [어셈블리어](https://ko.wikipedia.org/wiki/어셈블리어 "wikilink")
+  - [어셈블리어](../Page/어셈블리어.md "wikilink")
   - [MMX](../Page/MMX.md "wikilink")
-  - [3D나우\!](https://ko.wikipedia.org/wiki/3D나우! "wikilink")
+  - [3D나우\!](../Page/3D나우!.md "wikilink")
 
 [분류:중앙 처리 장치](https://ko.wikipedia.org/wiki/분류:중앙_처리_장치 "wikilink") [분류:X86 명령어](https://ko.wikipedia.org/wiki/분류:X86_명령어 "wikilink")

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
 
 
-**FK 라보트니치키 코메탈**()은 [북마케도니아](https://ko.wikipedia.org/wiki/북마케도니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 수도인 [스코페](https://ko.wikipedia.org/wiki/스코페 "wikilink")에 연고를 두고 있다.
+**FK 라보트니치키 코메탈**()은 [북마케도니아](../Page/북마케도니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 수도인 [스코페](../Page/스코페.md "wikilink")에 연고를 두고 있다.
 
-클럽은 [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink")에 창단되었다. 라보트니치키는 대부분 [유고슬라비아 2부 디비전에서](https://ko.wikipedia.org/wiki/유고슬라비아_2부_디비전 "wikilink") 플레이했었다. 그러다 북마케도니아가 독립을 하게 되면서 [북마케도니아 1부 리그에서](../Page/북마케도니아_1부_리그.md "wikilink") 플레이하게 되었다. 라보트니치키의 성공가도는 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 코메탈이 인수하면서부터이다. 2001-02시즌에 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에 나갔고, [UEFA 챔피언스리그 2005-06에서는](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2005-06 "wikilink") 예선2회전까지 올라갔다. 2006년도에 리그 우승을 하면서 [UEFA 챔피언스리그 2006-07에](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2006-07 "wikilink") 진출하여 예선 1회전에서 [룩셈부르크](https://ko.wikipedia.org/wiki/룩셈부르크 "wikilink")의 [F91 뒤들랑주를](../Page/F91_뒤들랑주.md "wikilink") 물리치고, 예선2회전에서는 [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink")의 [데브레첸을](https://ko.wikipedia.org/wiki/데브레체니_VSC "wikilink") 물리치고 예선3회전에 올랐으나 [프랑스](../Page/프랑스.md "wikilink")의 [릴 OSC에](../Page/릴_OSC.md "wikilink") 패하여 탈락하였다.
+클럽은 [1937년](../Page/1937년.md "wikilink")에 창단되었다. 라보트니치키는 대부분 [유고슬라비아 2부 디비전에서](https://ko.wikipedia.org/wiki/유고슬라비아_2부_디비전 "wikilink") 플레이했었다. 그러다 북마케도니아가 독립을 하게 되면서 [북마케도니아 1부 리그에서](../Page/북마케도니아_1부_리그.md "wikilink") 플레이하게 되었다. 라보트니치키의 성공가도는 [2001년](../Page/2001년.md "wikilink") 코메탈이 인수하면서부터이다. 2001-02시즌에 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에 나갔고, [UEFA 챔피언스리그 2005-06에서는](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2005-06 "wikilink") 예선2회전까지 올라갔다. 2006년도에 리그 우승을 하면서 [UEFA 챔피언스리그 2006-07에](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2006-07 "wikilink") 진출하여 예선 1회전에서 [룩셈부르크](../Page/룩셈부르크.md "wikilink")의 [F91 뒤들랑주를](../Page/F91_뒤들랑주.md "wikilink") 물리치고, 예선2회전에서는 [헝가리](../Page/헝가리.md "wikilink")의 [데브레첸을](https://ko.wikipedia.org/wiki/데브레체니_VSC "wikilink") 물리치고 예선3회전에 올랐으나 [프랑스](../Page/프랑스.md "wikilink")의 [릴 OSC에](../Page/릴_OSC.md "wikilink") 패하여 탈락하였다.
 
 ## 역대 성적
 

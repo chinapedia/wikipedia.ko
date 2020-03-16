@@ -14,22 +14,22 @@ Tcl은 아래와 같은 특징이 있다:
   - 모든 것을 동적으로 재정의하고 오버라이드할 수 있다.
   - [코드를](https://ko.wikipedia.org/wiki/부호_\(정보\) "wikilink") 포함한 모든 [자료형](../Page/자료형.md "wikilink")을 [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink")로 다룰 수 있다.
   - 극히 간단한 [문법](https://ko.wikipedia.org/wiki/문법_\(프로그래밍_언어\) "wikilink") 규칙.
-  - [소켓과](https://ko.wikipedia.org/wiki/인터넷_소켓 "wikilink") [파일에](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink") 대해 [이벤트 구동 방식](https://ko.wikipedia.org/wiki/이벤트_구동_방식 "wikilink") 인터페이스를 가지고 있다. 시간 기반 이벤트 및 사용자 정의 이벤트가 모두 가능하다.
+  - [소켓과](https://ko.wikipedia.org/wiki/인터넷_소켓 "wikilink") [파일에](../Page/컴퓨터_파일.md "wikilink") 대해 [이벤트 구동 방식](https://ko.wikipedia.org/wiki/이벤트_구동_방식 "wikilink") 인터페이스를 가지고 있다. 시간 기반 이벤트 및 사용자 정의 이벤트가 모두 가능하다.
   - 유연한 [변수 영역](../Page/변수_영역.md "wikilink") 규칙을 지원해서, 정적 영역 규칙이 기본이지만 uplevel과 upvar는 proc이 둘러싸고있는 함수의 영역까지 작용할 수 있도록 허용한다.
   - 모든 명령어가 실행 후 반환하는 예외 코드를 이용한 간단한 예외 처리
   - Tcl에 정의된 모든 명령어는 잘못된 사용에 대해 의미있는 오류 메시지를 만들어낸다.
-  - [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") 및 Tcl을 통해 바로 확장할 수 있다.
-  - [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink") 언어이지만 [바이트코드](../Page/바이트코드.md "wikilink")를 이용하여 동적인 수정이 가능한 특성을 유지하면서 속도가 빨라짐.
-  - 1999년에 처음 출시한 완전한 [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink") (3.1) 지원.
-  - 플랫폼 독립적: [Win32](https://ko.wikipedia.org/wiki/Win32 "wikilink"), [UNIX](https://ko.wikipedia.org/wiki/유닉스 "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"), [애플 매킨토시](https://ko.wikipedia.org/wiki/매킨토시 "wikilink"), 등.
-  - 윈도([GUI](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink")) 인터페이스 [Tk와](https://ko.wikipedia.org/wiki/Tk_\(프레임워크\) "wikilink") 밀접한 결합.
+  - [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink") 및 Tcl을 통해 바로 확장할 수 있다.
+  - [인터프리터](../Page/인터프리터.md "wikilink") 언어이지만 [바이트코드](../Page/바이트코드.md "wikilink")를 이용하여 동적인 수정이 가능한 특성을 유지하면서 속도가 빨라짐.
+  - 1999년에 처음 출시한 완전한 [유니코드](../Page/유니코드.md "wikilink") (3.1) 지원.
+  - 플랫폼 독립적: [Win32](https://ko.wikipedia.org/wiki/Win32 "wikilink"), [UNIX](../Page/유닉스.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), [애플 매킨토시](../Page/매킨토시.md "wikilink"), 등.
+  - 윈도([GUI](../Page/그래픽_사용자_인터페이스.md "wikilink")) 인터페이스 [Tk와](https://ko.wikipedia.org/wiki/Tk_\(프레임워크\) "wikilink") 밀접한 결합.
   - 코드를 관리하기 쉽다. 많은 경우 Tcl 스크립트는 다른 언어로 동일한 기능을 작성했을 때보다 더 작고 읽기 쉬운 코드가 된다.
   - 다양한 목적과 환경에서 사용된다: 텍스트 전용 스크립트 언어, 애플리케이션 프로그램을 위한 GUI 가능한 언어, (서버측 또는 [Tclets](https://ko.wikipedia.org/wiki/Tclets "wikilink")과 같이 클라이언트측) 웹페이지와 ([PostgreSQL](../Page/PostgreSQL.md "wikilink")과 같이 서버측) 데이터베이스를 위한 임베디드 언어 등.
   - 개발용 버전(예, ActiveState Tcl), tclkit (일종의 실행용 버전, 1 메가바이트밖에 안됨), starpack (단일 실행파일), BSD 라이선스의 자유로이 배포가능한 소스 등 여러가지로 존재한다.
 
-Tcl은 원래 함수형 언어로써 [객체 지향](https://ko.wikipedia.org/wiki/객체_지향_프로그래밍 "wikilink") 문법을 지원하지는 않았다. 그러나 최근 버전은 XOTcl과 같이 객체 지향 기능을 제공하는 확장을 지원한다. incr Tcl, Snit, 및 STOOOP (simple tcl-only object-oriented programming)와 같은 다른 객체 지향 확장도 존재한다.
+Tcl은 원래 함수형 언어로써 [객체 지향](../Page/객체_지향_프로그래밍.md "wikilink") 문법을 지원하지는 않았다. 그러나 최근 버전은 XOTcl과 같이 객체 지향 기능을 제공하는 확장을 지원한다. incr Tcl, Snit, 및 STOOOP (simple tcl-only object-oriented programming)와 같은 다른 객체 지향 확장도 존재한다.
 
-Tcl은 고차 함수와 함수 요약이 언어 자체에서 지원되므로 [함수형 프로그래밍은](https://ko.wikipedia.org/wiki/함수형_프로그래밍 "wikilink") 쉽게 가능하지만 그러한 목적으로 많이 쓰이지는 않는다. 아래 예는 쉽게 두 함수를 합성할 수 있음을 보여준다.
+Tcl은 고차 함수와 함수 요약이 언어 자체에서 지원되므로 [함수형 프로그래밍은](../Page/함수형_프로그래밍.md "wikilink") 쉽게 가능하지만 그러한 목적으로 많이 쓰이지는 않는다. 아래 예는 쉽게 두 함수를 합성할 수 있음을 보여준다.
 
 ``` tcl
 proc o {f g x} {$f [$g $x]}

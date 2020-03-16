@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [XML-RPC](https://ko.wikipedia.org/wiki/XML-RPC).
 
 
-**XML-RPC**란, [RPC](https://ko.wikipedia.org/wiki/RPC "wikilink") 프로토콜의 일종으로서, 인코딩 형식에서는 [XML](https://ko.wikipedia.org/wiki/XML "wikilink")을 채택하고, 전송 방식에서는 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink") 프로토콜을 사용하고 있다. XML-RPC는 매우 단순한 규약으로서, 작은 데이터 형식이나 명령을 정의하는 정도로만 사용하고 있으며, 사양서도 A4 2매 정도로 꽤나 단순한 편이다. 이건 대다수의 RPC 프로토콜 시스템이 수많은 규격을 규정하고, 실제 사용할 때에도 엄청난 양의 코딩을 요구하는 것과 비교하면 눈에 띄는 특징이라고 할 수 있다.
+**XML-RPC**란, [RPC](https://ko.wikipedia.org/wiki/RPC "wikilink") 프로토콜의 일종으로서, 인코딩 형식에서는 [XML](../Page/XML.md "wikilink")을 채택하고, 전송 방식에서는 [HTTP](../Page/HTTP.md "wikilink") 프로토콜을 사용하고 있다. XML-RPC는 매우 단순한 규약으로서, 작은 데이터 형식이나 명령을 정의하는 정도로만 사용하고 있으며, 사양서도 A4 2매 정도로 꽤나 단순한 편이다. 이건 대다수의 RPC 프로토콜 시스템이 수많은 규격을 규정하고, 실제 사용할 때에도 엄청난 양의 코딩을 요구하는 것과 비교하면 눈에 띄는 특징이라고 할 수 있다.
 
-이 프로토콜은 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 데이브 위너(Dave Winer)의 UserLand Software Ltd.가 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")와 공동으로 개발하였다. 이후에 이 프로토콜에 좀 더 부가적인 기능을 추가한 [SOAP](../Page/SOAP.md "wikilink") 프로토콜이 개발되었으나, 보통 SOAP 보다 단순하고 사용하기 쉬운 XML-RPC를 더욱 많이 사용하고 있다.
+이 프로토콜은 [1998년](../Page/1998년.md "wikilink") 데이브 위너(Dave Winer)의 UserLand Software Ltd.가 [마이크로소프트](../Page/마이크로소프트.md "wikilink")와 공동으로 개발하였다. 이후에 이 프로토콜에 좀 더 부가적인 기능을 추가한 [SOAP](../Page/SOAP.md "wikilink") 프로토콜이 개발되었으나, 보통 SOAP 보다 단순하고 사용하기 쉬운 XML-RPC를 더욱 많이 사용하고 있다.
 
 이와 비슷한 RPC 계열 프로토콜로는 [JSON-RPC](../Page/JSON-RPC.md "wikilink") 프로토콜이 존재한다.
 
@@ -54,7 +54,7 @@
 <td><p><i4><code>42</code></i4></p>
 <p>or</p>
 <p><int><code>42</code></int></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정수" title="wikilink">정수</a></p></td>
+<td><p><a href="../Page/정수.md" title="wikilink">정수</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>string</p></td>
@@ -139,7 +139,7 @@ XML-RPC Fault 형식의 예제
   - [원격 프로시저 호출](../Page/원격_프로시저_호출.md "wikilink")
   - [JSON-RPC](../Page/JSON-RPC.md "wikilink")
   - [REST](../Page/REST.md "wikilink")
-  - [웹 서비스](https://ko.wikipedia.org/wiki/웹_서비스 "wikilink")
+  - [웹 서비스](../Page/웹_서비스.md "wikilink")
 
 ## 외부 링크
 

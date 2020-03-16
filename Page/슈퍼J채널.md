@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [J](https://ko.wikipedia.org/wiki/J).
 
 
-**슈퍼J채널**(일어:**スーパーJチャンネル**, 영어:**Super J Channel**, 통칭:J채널, J챤)은 [테레비 아사히](https://ko.wikipedia.org/wiki/테레비_아사히 "wikilink")([ANN](../Page/올_닛폰_뉴스_네트워크.md "wikilink"))계열을 통해 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 31일부터](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 방송하고 있는 저녁 뉴스프로그램이다.
+**슈퍼J채널**(일어:**スーパーJチャンネル**, 영어:**Super J Channel**, 통칭:J채널, J챤)은 [테레비 아사히](https://ko.wikipedia.org/wiki/테레비_아사히 "wikilink")([ANN](../Page/올_닛폰_뉴스_네트워크.md "wikilink"))계열을 통해 [1997년](../Page/1997년.md "wikilink") [3월 31일부터](../Page/3월_31일.md "wikilink") 방송하고 있는 저녁 뉴스프로그램이다.
 
 ## 개요
 
   - 『슈퍼J채널』의 **J**는 저널(Journal)과 재팬(Japan)의 "**J**"에서 따왔다는 가설과 초대 사회자인 이시다 준이치의 이니셜 "**J**"에서 따왔다는 가설이 있다. 약칭은 당초「슈퍼J(スーパーJ,スパJ)」를 썼으나, 경쟁 프로그램인 「FNN 슈퍼뉴스」가 시작하면서 약칭이 혼동될 수 있어서 나중에는 「J챤(Jチャン)」으로 줄여쓰게 되었다. 또한 기획상 가제는 『슈퍼채널』또는『슈퍼채널J』라는 제안도 있었다.
   - 평일은 17:53\~18:15까지 『ANN 슈퍼J채널』라는 이름으로 ANN계열국(크로스넷 방송국 제외)에서 동시에 방송된다. 그리고 16:53\~17:53까지는 지역방송 시간대로 [아사히방송](https://ko.wikipedia.org/wiki/아사히방송 "wikilink")과 [시즈오카 아사히 테레비](https://ko.wikipedia.org/wiki/시즈오카_아사히_테레비 "wikilink") 그리고 [호쿠리쿠 아사히 방송을](../Page/호쿠리쿠_아사히_방송.md "wikilink") 제외한 대부분의 ANN 계열국에서 방송되고 있다.
   - 현재 동시간대의 뉴스프로그램([NHK](https://ko.wikipedia.org/wiki/NHK "wikilink"), [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink")제외)에서는 유일하게, 평일 뉴스 시간대에 스포츠와 연예뉴스 코너를 마련하지 않고 있다. 이전에는 18시대 전국뉴스시간 후반에 스포츠 코너가 있었으나, 나중에는 스포츠 코너를 폐지하고, 후속코너로 연예뉴스코너를 마련했다. 이들 코너가 끝난 지금은 스포츠뉴스는 18시대에, 연예관련 뉴스는 17시대에 여러 일반뉴스와 함께 전하고 있다.
-  - 전신『스테이션EYE』는 주말판만 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [9월 28일까지](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") 반년간 계속했다. 같은 해 [10월 5일부터는](https://ko.wikipedia.org/wiki/10월_5일 "wikilink") 모든 요일을「슈퍼J채널」로 통일하여 쓰게 됐다.
-  - 지금까지 저녁 뉴스 프로그램 중 [TBS의](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink")『JNN 뉴스의 숲』과 [니혼TV의](https://ko.wikipedia.org/wiki/니혼_텔레비전_방송망 "wikilink") 『NNN 뉴스 플러스1』이 최장수 프로그램이었지만, 두 프로그램이 모두 종영되면서(전자는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink"), 후자는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 각각 종영.), 2006년 4월 부터 이 프로그램이 현존하는 최장수 저녁 뉴스프로그램이 되었다.
+  - 전신『스테이션EYE』는 주말판만 [1997년](../Page/1997년.md "wikilink") [9월 28일까지](../Page/9월_28일.md "wikilink") 반년간 계속했다. 같은 해 [10월 5일부터는](../Page/10월_5일.md "wikilink") 모든 요일을「슈퍼J채널」로 통일하여 쓰게 됐다.
+  - 지금까지 저녁 뉴스 프로그램 중 [TBS의](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink")『JNN 뉴스의 숲』과 [니혼TV의](https://ko.wikipedia.org/wiki/니혼_텔레비전_방송망 "wikilink") 『NNN 뉴스 플러스1』이 최장수 프로그램이었지만, 두 프로그램이 모두 종영되면서(전자는 [2005년](../Page/2005년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink"), 후자는 [2006년](../Page/2006년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 각각 종영.), 2006년 4월 부터 이 프로그램이 현존하는 최장수 저녁 뉴스프로그램이 되었다.
   - 디지털방송에서는 프로그램 로고(SUPER J만 표시.)가 화면 우측하단에 표시되어 있다. 단, 프로그램 오프닝중에는 우측하단의 로고가 뜨지 않는다.
 
 ## 역대앵커
@@ -61,8 +61,8 @@
 
 ## 동시간별 방송 프로그램
 
-  - [모두의 뉴스](../Page/모두의_뉴스.md "wikilink") ([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"))
-  - [뉴스 에브리](https://ko.wikipedia.org/wiki/뉴스_에브리 "wikilink") ([닛폰 TV 방송망](../Page/닛폰_TV_방송망.md "wikilink"))
+  - [모두의 뉴스](../Page/모두의_뉴스.md "wikilink") ([후지 TV](../Page/후지_TV.md "wikilink"))
+  - [뉴스 에브리](../Page/뉴스_에브리.md "wikilink") ([닛폰 TV 방송망](../Page/닛폰_TV_방송망.md "wikilink"))
   - [N스타](https://ko.wikipedia.org/wiki/N스타 "wikilink") ([도쿄방송](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink"))
 
 ## 외부 링크

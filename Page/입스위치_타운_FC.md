@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**입스위치 타운 축구 클럽**(Ipswich Town Football Club)은 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [서퍽주](https://ko.wikipedia.org/wiki/서퍽주 "wikilink")의 [입스위치](https://ko.wikipedia.org/wiki/입스위치 "wikilink")에 위치한 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 2008년부터 입스위치는 [EFL 챔피언십에서](../Page/EFL_챔피언십.md "wikilink") 플레이하고 있는데, 2001-02 시즌이 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 참가했던 마지막 시즌이었다.
+**입스위치 타운 축구 클럽**(Ipswich Town Football Club)은 [잉글랜드](../Page/잉글랜드.md "wikilink") [서퍽주](https://ko.wikipedia.org/wiki/서퍽주 "wikilink")의 [입스위치](https://ko.wikipedia.org/wiki/입스위치 "wikilink")에 위치한 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 2008년부터 입스위치는 [EFL 챔피언십에서](../Page/EFL_챔피언십.md "wikilink") 플레이하고 있는데, 2001-02 시즌이 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 참가했던 마지막 시즌이었다.
 
 클럽은 1878년에 설립되었지만, 1936년에 프로로 전향하였고, 그 후인 1938년에 [풋볼 리그에](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 선출되어 참가하였다. 이 팀은 [서퍽주](https://ko.wikipedia.org/wiki/서퍽주 "wikilink")에서 온전한 프로 축구 클럽이고, 오랜 기간 동안 [노퍽주](https://ko.wikipedia.org/wiki/노퍽주 "wikilink")의 [노리치 시티와](../Page/노리치_시티_FC.md "wikilink") 라이벌 관계를 형성하며, 1902년부터 [이스트 앵글리안 더비](https://ko.wikipedia.org/wiki/이스트_앵글리안_더비 "wikilink")(East Anglian Derby)란 이름으로 132번 경기를 해 왔다.\[1\]
 
@@ -9,13 +9,13 @@
 
 ## 현재 선수 명단
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") 기준
+[2017년](../Page/2017년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") 기준
 
 ## 유명 선수
 
   - [마시모 루옹고](../Page/마시모_루옹고.md "wikilink")
 
-  - [조바니 도스 산토스](https://ko.wikipedia.org/wiki/조바니_도스_산토스 "wikilink")
+  - [조바니 도스 산토스](../Page/조바니_도스_산토스.md "wikilink")
 
 ## 역대 성적
 
@@ -81,7 +81,7 @@
 
 <!-- end list -->
 
-  - **[서던 리그](https://ko.wikipedia.org/wiki/서던_리그 "wikilink")**
+  - **[서던 리그](../Page/서던_리그.md "wikilink")**
 
 <!-- end list -->
 

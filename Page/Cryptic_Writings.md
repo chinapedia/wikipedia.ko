@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cryptic Writings](https://ko.wikipedia.org/wiki/Cryptic_Writings).
 
 
-《**Cryptic Writings**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 일곱 번째 스튜디오 음반이다. 1997년 6월에 발매되었으며, 2004년에 리믹스/리마스터되어서 재발매되었다. 이 앨범은 빌보드 차트 10위에 등극했다. 연주만 있는 EP(Cryptic Sounds-No Voices in Your Head)가 발매되었으며, 일부 한국반에서는 Cryptic Writings더블 앨범의 두 번째 CD로 발매되었다.
+《**Cryptic Writings**》는 [미국](../Page/미국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 일곱 번째 스튜디오 음반이다. 1997년 6월에 발매되었으며, 2004년에 리믹스/리마스터되어서 재발매되었다. 이 앨범은 빌보드 차트 10위에 등극했다. 연주만 있는 EP(Cryptic Sounds-No Voices in Your Head)가 발매되었으며, 일부 한국반에서는 Cryptic Writings더블 앨범의 두 번째 CD로 발매되었다.
 
 Use The Man은 The Searchers의 "Needles and Pins"라는 노래의 일부가 포함되어 있으나, 리마스터 판에는 삭제되었다. Needles and Pins는 이 앨범의 초기 명칭이었으나, 후일 Cryptic Writings로 바뀌었다.
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TCN \(\)](https://ko.wikipedia.org/wiki/TCN_\(\)).
 
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:TCN_Daegu_catv.jpg "wikilink") **TCN**는 대한민국의 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 지역 일부를 맡아 운영하고 있는 종합 유선 방송국이다. 현재 TCN 방송이 운영하는 지역은 부산광역시 [창원시](https://ko.wikipedia.org/wiki/창원시 "wikilink"), [창원시](https://ko.wikipedia.org/wiki/창원시 "wikilink") 지역을 맡고 있다.
+[썸네일](https://ko.wikipedia.org/wiki/파일:TCN_Daegu_catv.jpg "wikilink") **TCN**는 대한민국의 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 지역 일부를 맡아 운영하고 있는 종합 유선 방송국이다. 현재 TCN 방송이 운영하는 지역은 부산광역시 [창원시](../Page/창원시.md "wikilink"), [창원시](../Page/창원시.md "wikilink") 지역을 맡고 있다.
 
 TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련 방송사업과 인터넷 서비스, 문화사업 등의 사업을 진행하고 있다.
 
-2013년 10월 7일, [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")에 인수되어 딜라이브 TCN 부산방송이 되었다. [중구](https://ko.wikipedia.org/wiki/중구_\(부산광역시\) "wikilink"), [남구를](https://ko.wikipedia.org/wiki/남구_\(부산광역시\) "wikilink") 맡았던 TCN 부산케이블방송은 같은 권역의 딜라이브 부산방송과 통합되었다.
+2013년 10월 7일, [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")에 인수되어 딜라이브 TCN 부산방송이 되었다. [중구](../Page/중구_\(부산광역시\).md "wikilink"), [남구를](../Page/남구_\(부산광역시\).md "wikilink") 맡았던 TCN 부산케이블방송은 같은 권역의 딜라이브 부산방송과 통합되었다.
 
 한편, TCN에서 쓰던 사옥은 부산방송, 경남방송과 통합된 사옥으로 쓰일 예정이다.
 
@@ -28,7 +28,7 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 
 ## 같이 보기
 
-  - [딜라이브](https://ko.wikipedia.org/wiki/딜라이브 "wikilink")
+  - [딜라이브](../Page/딜라이브.md "wikilink")
 
 ## 디지털케이블 채널편성표
 
@@ -279,4 +279,4 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
   - 308 가톨릭평화방송
   - 999 케이블TV VOD
 
-[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:부산광역시의 대중 매체](https://ko.wikipedia.org/wiki/분류:부산광역시의_대중_매체 "wikilink") [분류:1992년 설립](https://ko.wikipedia.org/wiki/분류:1992년_설립 "wikilink")
+[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:부산광역시의 대중 매체](../Page/분류:부산광역시의_대중_매체.md "wikilink") [분류:1992년 설립](https://ko.wikipedia.org/wiki/분류:1992년_설립 "wikilink")

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Ummagumma](https://ko.wikipedia.org/wiki/Ummagumma).
 
 
-《**Ummagumma**》는 [핑크 플로이드가](https://ko.wikipedia.org/wiki/핑크_플로이드 "wikilink") [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 발표한 더블 앨범이다. 이 앨범은 그들의 통산 4번째 앨범이다. 첫 번째 디스크에는 그들의 (무관중) 라이브 공연 녹음이, 두 번째 디스크는 스튜디오 앨범으로 멤버들이 각자 혼자서 제작한 곡들이 실려있다.
+《**Ummagumma**》는 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") [1969년](../Page/1969년.md "wikilink") 발표한 더블 앨범이다. 이 앨범은 그들의 통산 4번째 앨범이다. 첫 번째 디스크에는 그들의 (무관중) 라이브 공연 녹음이, 두 번째 디스크는 스튜디오 앨범으로 멤버들이 각자 혼자서 제작한 곡들이 실려있다.
 
-영국 앨범 차트 5위, [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 앨범 차트 74위를 기록했다.
+영국 앨범 차트 5위, [빌보드](../Page/빌보드.md "wikilink") 앨범 차트 74위를 기록했다.
 
 ## Ummagumma
 
 ### 의미
 
-“Ummagumma”는 일종의 슬랭으로서, “knockin' boots”와 같은 단어다. “knockin' boots”는 “doing the Wild Thang”과 비슷한 뜻인데, 이는 섹스를 한다는 의미를 가지고 있다. 하지만 원래 [Rock and Roll도](https://ko.wikipedia.org/wiki/로큰롤 "wikilink") 성행위를 한다는 의미의 슬랭이었기 때문에, 결국 “Ummagumma”라는 단어는 “Rock and Roll”과 같은 말이라고 해석할 수 있다\[1\].
+“Ummagumma”는 일종의 슬랭으로서, “knockin' boots”와 같은 단어다. “knockin' boots”는 “doing the Wild Thang”과 비슷한 뜻인데, 이는 섹스를 한다는 의미를 가지고 있다. 하지만 원래 [Rock and Roll도](../Page/로큰롤.md "wikilink") 성행위를 한다는 의미의 슬랭이었기 때문에, 결국 “Ummagumma”라는 단어는 “Rock and Roll”과 같은 말이라고 해석할 수 있다\[1\].
 
 ### 발음
 
@@ -26,7 +26,7 @@
 #### A면
 
 1.  "Astronomy Domine" ([시드 배릿](https://ko.wikipedia.org/wiki/시드_배릿 "wikilink")) – 8:29
-2.  "Careful with That Axe, Eugene" ([로저 워터스](https://ko.wikipedia.org/wiki/로저_워터스 "wikilink"), [릭 라이트](https://ko.wikipedia.org/wiki/릭_라이트 "wikilink"), [데이빗 길모어](https://ko.wikipedia.org/wiki/데이빗_길모어 "wikilink"), [닉 메이슨](https://ko.wikipedia.org/wiki/닉_메이슨 "wikilink")) – 8:50
+2.  "Careful with That Axe, Eugene" ([로저 워터스](../Page/로저_워터스.md "wikilink"), [릭 라이트](https://ko.wikipedia.org/wiki/릭_라이트 "wikilink"), [데이빗 길모어](https://ko.wikipedia.org/wiki/데이빗_길모어 "wikilink"), [닉 메이슨](../Page/닉_메이슨.md "wikilink")) – 8:50
 
 #### B면
 
@@ -65,10 +65,10 @@
 
 ## 참여
 
-  - [로저 워터스](https://ko.wikipedia.org/wiki/로저_워터스 "wikilink") : 베이스, "Grantchester Meadows"에서 보컬, "Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict"에서 보컬과 테이프 이펙트
+  - [로저 워터스](../Page/로저_워터스.md "wikilink") : 베이스, "Grantchester Meadows"에서 보컬, "Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict"에서 보컬과 테이프 이펙트
   - [데이빗 길모어](https://ko.wikipedia.org/wiki/데이빗_길모어 "wikilink") : 기타, "The Narrow Way"에서 보컬
-  - [리처드 라이트](https://ko.wikipedia.org/wiki/리처드_라이트_\(음악가\) "wikilink") : 키보드, 피아노, 멜로트론
-  - [닉 메이슨](https://ko.wikipedia.org/wiki/닉_메이슨 "wikilink") : "The Grand Vizier's Garden Party"에서 드럼과 퍼커션
+  - [리처드 라이트](../Page/리처드_라이트_\(음악가\).md "wikilink") : 키보드, 피아노, 멜로트론
+  - [닉 메이슨](../Page/닉_메이슨.md "wikilink") : "The Grand Vizier's Garden Party"에서 드럼과 퍼커션
       - 린디 메이슨(후에 메이슨의 부인이 됨) : "The Grand Vizier's Garden Party"에서 플룻 연주(명시되지 않음)
 
 ## 발언

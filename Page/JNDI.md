@@ -6,13 +6,13 @@
 NDI는 일반적으로 다음의 용도로 쓰인다:
 
   - 자바 애플리케이션을 외부 디렉터리 서비스에 연결 (예: 주소 데이터베이스 또는 [LDAP](../Page/LDAP.md "wikilink") 서버)
-  - [자바 애플릿이](https://ko.wikipedia.org/wiki/자바_애플릿 "wikilink") 호스팅 [웹 컨테이너가](../Page/웹_컨테이너.md "wikilink") 제공하는 구성 정보를 참고.<ref>
+  - [자바 애플릿이](../Page/자바_애플릿.md "wikilink") 호스팅 [웹 컨테이너가](../Page/웹_컨테이너.md "wikilink") 제공하는 구성 정보를 참고.<ref>
 
 </ref>
 
 ## 배경
 
-자바 [RMI와](https://ko.wikipedia.org/wiki/자바_원격_함수_호출 "wikilink") [자바 EE](https://ko.wikipedia.org/wiki/자바_EE "wikilink") API들은 JNDI API를 이용하여 네트워크 안의 오브젝트를 참고한다.
+자바 [RMI와](../Page/자바_원격_함수_호출.md "wikilink") [자바 EE](https://ko.wikipedia.org/wiki/자바_EE "wikilink") API들은 JNDI API를 이용하여 네트워크 안의 오브젝트를 참고한다.
 
 API는 다음을 제공한다.
 
@@ -24,10 +24,10 @@ API는 다음을 제공한다.
 [SPI](https://ko.wikipedia.org/wiki/서비스_제공자_인터페이스 "wikilink") 부분은 다음을 포함하여 실질적으로 모든 종류의 네이밍 및 디렉터리 서비스를 지원한다:
 
   - [LDAP](../Page/LDAP.md "wikilink")
-  - [DNS](https://ko.wikipedia.org/wiki/도메인_네임_시스템 "wikilink")
+  - [DNS](../Page/도메인_네임_시스템.md "wikilink")
   - [NIS](../Page/네트워크_정보_서비스.md "wikilink")
   - [CORBA](https://ko.wikipedia.org/wiki/CORBA "wikilink") 이름 서비스
-  - [파일 시스템](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink")
+  - [파일 시스템](../Page/파일_시스템.md "wikilink")
 
 [썬 마이크로시스템즈는](../Page/썬_마이크로시스템즈.md "wikilink") 1997년 3월 10일 JNDI 사양을 최초로 공개하였다.\[1\] 2006년 기준으로 JNDI의 버전은 1.2이다.
 

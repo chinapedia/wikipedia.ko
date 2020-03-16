@@ -3,28 +3,28 @@
 
 **ABS-CBN 주식회사**(, )은 [필리핀](../Page/필리핀.md "wikilink")의 민영방송국이자 필리핀 최대의 미디어 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이다. 본사는 [케손시티](../Page/케손시티.md "wikilink")에 있으며, 전국적으로 25개 이상의 지역 방송을 거느리고 있다.
 
-ABS-CBN은 지역별로 71개의 텔레비전 방송국을 거느리고 있으며, 25개의 직영국, 38개의 중계국\[1\], 8개의 제휴 방송국으로 구성되어 있다. 이중 ABS-CBN의 중심방송국은 [메트로 마닐라의](https://ko.wikipedia.org/wiki/메트로_마닐라 "wikilink") [DWWX-TV](https://ko.wikipedia.org/wiki/DWWX-TV "wikilink") (채널 2번)이다.
+ABS-CBN은 지역별로 71개의 텔레비전 방송국을 거느리고 있으며, 25개의 직영국, 38개의 중계국\[1\], 8개의 제휴 방송국으로 구성되어 있다. 이중 ABS-CBN의 중심방송국은 [메트로 마닐라의](../Page/메트로_마닐라.md "wikilink") [DWWX-TV](https://ko.wikipedia.org/wiki/DWWX-TV "wikilink") (채널 2번)이다.
 
-ABS-CBN이란 명칭은 1953년에 개국한 ABS(알토 방송, Alto Broadcasting System)와 1956년에 개국한 CBN(크로니클 방송, Chronicle Broadcasting Network)의 두 방송국이 [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink")에 합병하면서 지어진 명칭이다.
+ABS-CBN이란 명칭은 1953년에 개국한 ABS(알토 방송, Alto Broadcasting System)와 1956년에 개국한 CBN(크로니클 방송, Chronicle Broadcasting Network)의 두 방송국이 [1967년](../Page/1967년.md "wikilink")에 합병하면서 지어진 명칭이다.
 
 ## 연혁
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:ABS-CBN_logo.svg "wikilink")
 
-  - [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink"): BEC(볼리나오 전자 회사, Bolinao Electronics Corporation)가 [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink") 최초의 [민영 방송으로](https://ko.wikipedia.org/wiki/민영_방송 "wikilink") 설립.
-  - [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink"): BEC가 ABS로 개칭, ABS의 첫 방송 시작. (콜사인 DZAQ-TV, 채널 3)\[2\]
-  - [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink") : CBN의 첫 방송 시작. (콜사인 DZXL-TV, 채널 9)
-  - [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") : ABS의 첫 지역 방송 시작 ([세부](https://ko.wikipedia.org/wiki/세부 "wikilink"))
-  - [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") : 필리핀 최초이자 동남아시아 최초의 첫 [컬러 텔레비전](../Page/컬러_텔레비전.md "wikilink") 방송 송출 시작.\[3\]
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") : DZAQ-TV 3 (ABS)과 DZXL-TV 9 (CBN)이 합병하여 ABS-CBN으로 개칭. (호출부호는 DZAQ-TV로 통합)
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") : 마닐라 지역 채널 번호를 2번으로 변경.
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") : 컬러 방송 비율 100% 달성.\[4\]
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") : 필리핀 최초의 전국 전체 방송.
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") : 필리핀 [마르코스](../Page/페르디난드_마르코스.md "wikilink") 독재 정권의 언론탄압으로 14년 동안 폐국. 그 자리를 14년간 "BBC TV 2(바나와우 방송, 필리핀 마르코스 정권 산하의 괴뢰 공영방송국)"가 채움. (콜사인 DWWX-TV)
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") : 필리핀 마르코스 독재정권의 붕괴로 부활.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") : 필리핀 최초의 지역 전체 방송.
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") : 필리핀 전역 국내 위성 방송 실시.
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") : 필리핀 최초의 [디지털 텔레비전](https://ko.wikipedia.org/wiki/디지털_텔레비전 "wikilink") 방송 실시. 방식은 [ISDB](https://ko.wikipedia.org/wiki/ISDB "wikilink")-T.\[5\]
+  - [1946년](../Page/1946년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink"): BEC(볼리나오 전자 회사, Bolinao Electronics Corporation)가 [아시아](../Page/아시아.md "wikilink") 최초의 [민영 방송으로](../Page/민영_방송.md "wikilink") 설립.
+  - [1953년](../Page/1953년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink"): BEC가 ABS로 개칭, ABS의 첫 방송 시작. (콜사인 DZAQ-TV, 채널 3)\[2\]
+  - [1956년](../Page/1956년.md "wikilink") : CBN의 첫 방송 시작. (콜사인 DZXL-TV, 채널 9)
+  - [1961년](../Page/1961년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") : ABS의 첫 지역 방송 시작 ([세부](../Page/세부.md "wikilink"))
+  - [1966년](../Page/1966년.md "wikilink") : 필리핀 최초이자 동남아시아 최초의 첫 [컬러 텔레비전](../Page/컬러_텔레비전.md "wikilink") 방송 송출 시작.\[3\]
+  - [1967년](../Page/1967년.md "wikilink") : DZAQ-TV 3 (ABS)과 DZXL-TV 9 (CBN)이 합병하여 ABS-CBN으로 개칭. (호출부호는 DZAQ-TV로 통합)
+  - [1969년](../Page/1969년.md "wikilink") : 마닐라 지역 채널 번호를 2번으로 변경.
+  - [1971년](../Page/1971년.md "wikilink") : 컬러 방송 비율 100% 달성.\[4\]
+  - [1972년](../Page/1972년.md "wikilink") : 필리핀 최초의 전국 전체 방송.
+  - [1972년](../Page/1972년.md "wikilink") : 필리핀 [마르코스](../Page/페르디난드_마르코스.md "wikilink") 독재 정권의 언론탄압으로 14년 동안 폐국. 그 자리를 14년간 "BBC TV 2(바나와우 방송, 필리핀 마르코스 정권 산하의 괴뢰 공영방송국)"가 채움. (콜사인 DWWX-TV)
+  - [1986년](../Page/1986년.md "wikilink") : 필리핀 마르코스 독재정권의 붕괴로 부활.
+  - [1992년](../Page/1992년.md "wikilink") : 필리핀 최초의 지역 전체 방송.
+  - [1994년](../Page/1994년.md "wikilink") : 필리핀 전역 국내 위성 방송 실시.
+  - [2015년](../Page/2015년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") : 필리핀 최초의 [디지털 텔레비전](../Page/디지털_텔레비전.md "wikilink") 방송 실시. 방식은 [ISDB](../Page/ISDB.md "wikilink")-T.\[5\]
 
 ## 주요 프로그램
 
@@ -69,31 +69,31 @@ ABS-CBN이란 명칭은 1953년에 개국한 ABS(알토 방송, Alto Broadcastin
 
 ### 드라마
 
-#### [한국드라마](https://ko.wikipedia.org/wiki/대한민국의_텔레비전_드라마 "wikilink")
+#### [한국드라마](../Page/대한민국의_텔레비전_드라마.md "wikilink")
 
   - [구르미 그린 달빛](https://ko.wikipedia.org/wiki/구르미_그린_달빛_\(드라마\) "wikilink")
-  - [파리의 연인](https://ko.wikipedia.org/wiki/파리의_연인 "wikilink")
+  - [파리의 연인](../Page/파리의_연인.md "wikilink")
   - [쓸쓸하고 찬란하神 - 도깨비](../Page/도깨비_\(드라마\).md "wikilink")
-  - [발리에서 생긴 일](https://ko.wikipedia.org/wiki/발리에서_생긴_일 "wikilink")
-  - [봄의 왈츠](https://ko.wikipedia.org/wiki/봄의_왈츠 "wikilink")
+  - [발리에서 생긴 일](../Page/발리에서_생긴_일.md "wikilink")
+  - [봄의 왈츠](../Page/봄의_왈츠.md "wikilink")
   - [푸른 바다의 전설](../Page/푸른_바다의_전설.md "wikilink")
   - [사랑하는 은동아](../Page/사랑하는_은동아.md "wikilink")
   - [왕관을 쓰려는 자, 그 무게를 견뎌라 - 상속자들](https://ko.wikipedia.org/wiki/상속자들 "wikilink")
   - [엔젤 아이즈](https://ko.wikipedia.org/wiki/엔젤_아이즈_\(드라마\) "wikilink")
   - [꽃보다 남자](https://ko.wikipedia.org/wiki/꽃보다_남자_\(대한민국_드라마\) "wikilink")
-  - [루루공주](https://ko.wikipedia.org/wiki/루루공주 "wikilink")
-  - [궁](https://ko.wikipedia.org/wiki/궁_\(드라마\) "wikilink")
-  - [그린 로즈](https://ko.wikipedia.org/wiki/그린_로즈 "wikilink")
-  - [백만장자와 결혼하기](https://ko.wikipedia.org/wiki/백만장자와_결혼하기 "wikilink")
+  - [루루공주](../Page/루루공주.md "wikilink")
+  - [궁](../Page/궁_\(드라마\).md "wikilink")
+  - [그린 로즈](../Page/그린_로즈.md "wikilink")
+  - [백만장자와 결혼하기](../Page/백만장자와_결혼하기.md "wikilink")
   - [101번째 프러포즈](https://ko.wikipedia.org/wiki/101번째_프러포즈#대한민국_드라마_\(2006년_作\) "wikilink")
-  - [1%의 어떤 것](https://ko.wikipedia.org/wiki/1%의_어떤_것 "wikilink")
+  - [1%의 어떤 것](../Page/1%의_어떤_것.md "wikilink")
   - [마이걸](../Page/마이걸_\(2005년_드라마\).md "wikilink")
-  - [울랄라 부부](https://ko.wikipedia.org/wiki/울랄라_부부 "wikilink")
-  - [미스 리플리](https://ko.wikipedia.org/wiki/미스_리플리 "wikilink")
+  - [울랄라 부부](../Page/울랄라_부부.md "wikilink")
+  - [미스 리플리](../Page/미스_리플리.md "wikilink")
 
 ## 같이 보기
 
-  - [산다라박](https://ko.wikipedia.org/wiki/박산다라 "wikilink")
+  - [산다라박](../Page/박산다라.md "wikilink")
   - [ABS-CBN 스포츠 앤 액션](https://ko.wikipedia.org/wiki/ABS-CBN_스포츠_앤_액션 "wikilink")
 
 ## 각주

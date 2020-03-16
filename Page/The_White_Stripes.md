@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The White Stripes](https://ko.wikipedia.org/wiki/The_White_Stripes).
 
 
-**The White Stripes**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [화이트 스트라입스의](https://ko.wikipedia.org/wiki/화이트_스트라입스 "wikilink") 1999년 발매한 데뷔 앨범이다. (밴드명과 동일명)
+**The White Stripes**는 [미국](../Page/미국.md "wikilink")의 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [화이트 스트라입스의](https://ko.wikipedia.org/wiki/화이트_스트라입스 "wikilink") 1999년 발매한 데뷔 앨범이다. (밴드명과 동일명)
 
 ## 수록곡
 
@@ -17,7 +17,7 @@
 10. "When I Hear My Name" – 1:54
 11. "Do" – 3:05
 12. "Screwdriver" – 3:14
-13. "[One More Cup of Coffee](https://ko.wikipedia.org/wiki/One_More_Cup_of_Coffee "wikilink")" ([밥 딜런](https://ko.wikipedia.org/wiki/밥_딜런 "wikilink") cover) – 3:13
+13. "[One More Cup of Coffee](https://ko.wikipedia.org/wiki/One_More_Cup_of_Coffee "wikilink")" ([밥 딜런](../Page/밥_딜런.md "wikilink") cover) – 3:13
 14. "Little People" – 2:22
 15. "Slicker Drips" – 1:30
 16. "[St. James Infirmary Blues](https://ko.wikipedia.org/wiki/St._James_Infirmary_Blues "wikilink")" (Joe Primrose cover) – 2:24

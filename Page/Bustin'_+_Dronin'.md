@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bustin\' + Dronin\'](https://ko.wikipedia.org/wiki/Bustin\'_+_Dronin\').
 
 
-《'''Bustin' + Dronin' '''》은 영국 밴드 [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")의 리믹스 버전 곡과 라이브로 녹음한 곡들이 담긴 앨범이다. 이 앨범은 원래 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서만 발매되었으나 후에 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")과 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서도 한정된 양으로 발매되었다. 두장의 CD 중 한 장은 [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")의 곡을 리믹스한 앨범이고 한 장은 Peel Acres에서 라이브한 곡을 녹음한 6곡의 노래가 실려있다.
+《'''Bustin' + Dronin' '''》은 영국 밴드 [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")의 리믹스 버전 곡과 라이브로 녹음한 곡들이 담긴 앨범이다. 이 앨범은 원래 [일본](../Page/일본.md "wikilink")에서만 발매되었으나 후에 [영국](../Page/영국.md "wikilink")과 [미국](../Page/미국.md "wikilink")에서도 한정된 양으로 발매되었다. 두장의 CD 중 한 장은 [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")의 곡을 리믹스한 앨범이고 한 장은 Peel Acres에서 라이브한 곡을 녹음한 6곡의 노래가 실려있다.
 
 ## 트랙 목록
 

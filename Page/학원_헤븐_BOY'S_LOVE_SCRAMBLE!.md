@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  BOY\'S LOVE SCRAMBLE!](https://ko.wikipedia.org/wiki/__BOY\'S_LOVE_SCRAMBLE!).
 
 
-《**학원 헤븐 BOY'S LOVE SCRAMBLE\!**》()은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [8월 2일에](https://ko.wikipedia.org/wiki/8월_2일 "wikilink") [스프레이에서](https://ko.wikipedia.org/wiki/스프레이_\(게임_업체\) "wikilink") 발매된 [보이즈 러브 게임이다](../Page/보이즈_러브_게임.md "wikilink"). [PC판과](https://ko.wikipedia.org/wiki/퍼스널_컴퓨터 "wikilink") [PS2판이](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 있는데, PC판에서 캐릭터 보이스는 없다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")화되었다.
+《**학원 헤븐 BOY'S LOVE SCRAMBLE\!**》()은 [2002년](../Page/2002년.md "wikilink") [8월 2일에](../Page/8월_2일.md "wikilink") [스프레이에서](https://ko.wikipedia.org/wiki/스프레이_\(게임_업체\) "wikilink") 발매된 [보이즈 러브 게임이다](../Page/보이즈_러브_게임.md "wikilink"). [PC판과](https://ko.wikipedia.org/wiki/퍼스널_컴퓨터 "wikilink") [PS2판이](../Page/플레이스테이션_2.md "wikilink") 있는데, PC판에서 캐릭터 보이스는 없다. [2006년](../Page/2006년.md "wikilink")에 [애니메이션](../Page/애니메이션.md "wikilink")화되었다.
 
 ## 개요
 
-[플레이 스테이션 2판은](https://ko.wikipedia.org/wiki/플레이_스테이션_2 "wikilink") [NEC 인터채널에서](https://ko.wikipedia.org/wiki/NEC_인터채널 "wikilink") [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 27일에](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") CERO 18세 이상을 대상으로 한 소프트웨어로, [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 22일에는](https://ko.wikipedia.org/wiki/7월_22일 "wikilink") CERO 15세 이상을 대상으로 한 Type B 소프트웨어가 발매되고 있다. 후자는 전자에서 갬블 신 등을 삭제하고 프로그레시브 출력 및 안티 플리커 기능을 탑재하였다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 31일에](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") 발매된 염가판은 전자의 염가판으로, CERO D(17세 이상을 대상으로 함)이다.
+[플레이 스테이션 2판은](https://ko.wikipedia.org/wiki/플레이_스테이션_2 "wikilink") [NEC 인터채널에서](https://ko.wikipedia.org/wiki/NEC_인터채널 "wikilink") [2003년](../Page/2003년.md "wikilink") [11월 27일에](../Page/11월_27일.md "wikilink") CERO 18세 이상을 대상으로 한 소프트웨어로, [2004년](../Page/2004년.md "wikilink") [7월 22일에는](../Page/7월_22일.md "wikilink") CERO 15세 이상을 대상으로 한 Type B 소프트웨어가 발매되고 있다. 후자는 전자에서 갬블 신 등을 삭제하고 프로그레시브 출력 및 안티 플리커 기능을 탑재하였다. [2006년](../Page/2006년.md "wikilink") [8월 31일에](../Page/8월_31일.md "wikilink") 발매된 염가판은 전자의 염가판으로, CERO D(17세 이상을 대상으로 함)이다.
 
-또, 본작의 팬디스크라고도 할 수 있는 《학원 헤븐 한 그릇 더\! BOY'S LOVE ATTACK\!》가 플레이 스테이션 2로 인터채널에서 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 24일부터](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") 발매되고 있다. 본편의 Type B와 같이 CERO 15세 이상을 대상으로 하였고, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 28일에](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") 염가판이 발매되었다.
+또, 본작의 팬디스크라고도 할 수 있는 《학원 헤븐 한 그릇 더\! BOY'S LOVE ATTACK\!》가 플레이 스테이션 2로 인터채널에서 [2005년](../Page/2005년.md "wikilink") [2월 24일부터](../Page/2월_24일.md "wikilink") 발매되고 있다. 본편의 Type B와 같이 CERO 15세 이상을 대상으로 하였고, [2006년](../Page/2006년.md "wikilink") [9월 28일에](../Page/9월_28일.md "wikilink") 염가판이 발매되었다.
 
 ## 스토리
 
@@ -16,7 +16,7 @@
 ## 등장인물
 
   - 이토 케이타()
-    [성우](https://ko.wikipedia.org/wiki/성우 "wikilink")：[후쿠야마 쥰](https://ko.wikipedia.org/wiki/후쿠야마_쥰 "wikilink")
+    [성우](../Page/성우.md "wikilink")：[후쿠야마 쥰](https://ko.wikipedia.org/wiki/후쿠야마_쥰 "wikilink")
     운이 좋음만이 쓸모의 주인공. 적극적이고 순수. 1학년.
     어느날 수중에 닿은 한 통의 입학 허가증을 계기로, 여러가지 사람들과의 만남을 완수한다.
     가족은 부모님과 여동생이 한 명. 남자에 비해서는 딸기와 단 것에 보는 눈이 없다.
@@ -54,7 +54,7 @@
     신장 184cm, 9월 7일 태생의 처녀자리. 혈액형은 B형.
   - 나루세 유키히코()
     성우：[미키 신이치로](../Page/미키_신이치로.md "wikilink")
-    [테니스](https://ko.wikipedia.org/wiki/테니스 "wikilink")부 주장. 요리 능숙하고 플레이 보이. 케이타에 한눈에 반했다. [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에 유학 경험이 있어 거기서 테니스 실력과 함께 플레이 보이상이 배양해진 것 같다. 2학년.
+    [테니스](../Page/테니스.md "wikilink")부 주장. 요리 능숙하고 플레이 보이. 케이타에 한눈에 반했다. [영국](../Page/영국.md "wikilink")에 유학 경험이 있어 거기서 테니스 실력과 함께 플레이 보이상이 배양해진 것 같다. 2학년.
     신장 183cm, 12월 12일 태생의 궁수자리. 혈액형은 O형.
   - 시노미야 코우지()
     성우：[오키아유 료타로](../Page/오키아유_료타로.md "wikilink")
@@ -91,12 +91,12 @@
   - 오자와 와타루()
     성우：[미즈시마 타카히로](../Page/미즈시마_타카히로.md "wikilink")
   - 오자와 카케루()
-    성우：[타케우치 켄](https://ko.wikipedia.org/wiki/타케우치_켄 "wikilink")
-    테니스부에 소속하는 쌍둥이 형제. 케이타가 특별 취급 되고 있다고 믿어 버리고 있는 위로 나루세를 동경하고 있기 때문에, 케이타를 일방적으로 적대시하고 있다. 양쪽 모두 지금에 말하는 [츤데레](https://ko.wikipedia.org/wiki/츤데레 "wikilink")〉들어가 있다. 1학년.
+    성우：[타케우치 켄](../Page/타케우치_켄.md "wikilink")
+    테니스부에 소속하는 쌍둥이 형제. 케이타가 특별 취급 되고 있다고 믿어 버리고 있는 위로 나루세를 동경하고 있기 때문에, 케이타를 일방적으로 적대시하고 있다. 양쪽 모두 지금에 말하는 [츤데레](../Page/츤데레.md "wikilink")〉들어가 있다. 1학년.
 
 ## 애니메이션
 
-《**학원 헤븐 BOY'S LOVE HYPER\!**》는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 1일부터](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") [6월 24일까지](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") [AT-X](https://ko.wikipedia.org/wiki/AT-X "wikilink")에서 방영되었던 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")으로, 13화작이다. AT-X에서의 방송이 호평을 받아 같은 해 [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")부터 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")까지 독립 UHF국에서도 방송되었다.
+《**학원 헤븐 BOY'S LOVE HYPER\!**》는 [2006년](../Page/2006년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") [6월 24일까지](../Page/6월_24일.md "wikilink") [AT-X](../Page/AT-X.md "wikilink")에서 방영되었던 [텔레비전](../Page/텔레비전.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")으로, 13화작이다. AT-X에서의 방송이 호평을 받아 같은 해 [7월](../Page/7월.md "wikilink")부터 [9월](../Page/9월.md "wikilink")까지 독립 UHF국에서도 방송되었다.
 
 ### 스탭
 
@@ -253,39 +253,39 @@
 <tbody>
 <tr class="odd">
 <td><p>일본 전 지역</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/AT-X" title="wikilink">AT-X</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/4월_1일" title="wikilink">4월 1일</a> ~ <a href="https://ko.wikipedia.org/wiki/6월_24일" title="wikilink">6월 24일</a></p></td>
+<td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
+<td><p><a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/4월_1일.md" title="wikilink">4월 1일</a> ~ <a href="../Page/6월_24일.md" title="wikilink">6월 24일</a></p></td>
 <td><p>토요일 9시 00분 - 20시 00분<br />
 수요일 13시 00분 ~ 23시 00분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/지바현" title="wikilink">지바현</a></p></td>
+<td><p><a href="../Page/지바현.md" title="wikilink">지바현</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/지바테레비" title="wikilink">지바테레비</a></p></td>
-<td><p>2006년 <a href="https://ko.wikipedia.org/wiki/7월_1일" title="wikilink">7월 1일</a> ~ <a href="https://ko.wikipedia.org/wiki/9월_23일" title="wikilink">9월 23일</a></p></td>
+<td><p>2006년 <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a> ~ <a href="../Page/9월_23일.md" title="wikilink">9월 23일</a></p></td>
 <td><p>토요일 25시 35분 - 26시 05분</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/사이타마현" title="wikilink">사이타마현</a></p></td>
 <td><p><a href="../Page/TV_사이타마.md" title="wikilink">TV 사이타마</a></p></td>
-<td><p>2006년 <a href="https://ko.wikipedia.org/wiki/7월_6일" title="wikilink">7월 6일</a> ~ <a href="https://ko.wikipedia.org/wiki/9월_28일" title="wikilink">9월 28일</a></p></td>
+<td><p>2006년 <a href="../Page/7월_6일.md" title="wikilink">7월 6일</a> ~ <a href="../Page/9월_28일.md" title="wikilink">9월 28일</a></p></td>
 <td><p>목요일 25시 30분 - 26시 00분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/교토부" title="wikilink">교토부</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/교토_방송" title="wikilink">KBS 교토</a></p></td>
+<td><p><a href="../Page/교토부.md" title="wikilink">교토부</a></p></td>
+<td><p><a href="../Page/교토_방송.md" title="wikilink">KBS 교토</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가나가와현" title="wikilink">가나가와현</a></p></td>
+<td><p><a href="../Page/가나가와현.md" title="wikilink">가나가와현</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/테레비_가나가와" title="wikilink">tvk</a></p></td>
-<td><p>2006년 <a href="https://ko.wikipedia.org/wiki/7월_7일" title="wikilink">7월 7일</a> ~ <a href="https://ko.wikipedia.org/wiki/9월_29일" title="wikilink">9월 29일</a></p></td>
+<td><p>2006년 <a href="../Page/7월_7일.md" title="wikilink">7월 7일</a> ~ <a href="../Page/9월_29일.md" title="wikilink">9월 29일</a></p></td>
 <td><p>금요일 27시 45분 - 28시 15분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미에현" title="wikilink">미에현</a></p></td>
+<td><p><a href="../Page/미에현.md" title="wikilink">미에현</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미에테레비" title="wikilink">미에테레비</a></p></td>
-<td><p>2006년 <a href="https://ko.wikipedia.org/wiki/7월_10일" title="wikilink">7월 10일</a> ~ <a href="https://ko.wikipedia.org/wiki/10월_2일" title="wikilink">10월 2일</a></p></td>
+<td><p>2006년 <a href="../Page/7월_10일.md" title="wikilink">7월 10일</a> ~ <a href="../Page/10월_2일.md" title="wikilink">10월 2일</a></p></td>
 <td><p>월요일 25시 30분 - 26시 00분</p></td>
 </tr>
 </tbody>
@@ -293,7 +293,7 @@
 
 ## 무대
 
-《〈학원 헤븐〉 뮤지컬 \~벨 리버티★프린스\~》의 타이틀로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") \~ [7월 30일까지](https://ko.wikipedia.org/wiki/7월_30일 "wikilink") 공연. 캐스트는 무대판 오리지널이 된다.
+《〈학원 헤븐〉 뮤지컬 \~벨 리버티★프린스\~》의 타이틀로 [2008년](../Page/2008년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [7월 30일까지](../Page/7월_30일.md "wikilink") 공연. 캐스트는 무대판 오리지널이 된다.
 
 ### 캐스트
 

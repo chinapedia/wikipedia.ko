@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**셰필드 웬즈데이 축구 클럽**은 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [사우스요크셔주](https://ko.wikipedia.org/wiki/사우스요크셔주 "wikilink")의 [셰필드](https://ko.wikipedia.org/wiki/셰필드 "wikilink")에 있는 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") 2부리그인 [EFL 챔피언십에서](../Page/EFL_챔피언십.md "wikilink") 시즌을 보내고 있다. 셰필드 웬즈데이는 전 세계에서 가장 오래된 축구 팀 가운데 하나로 1892년에 [풋볼 리그에](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 참가하였다. 이들의 주요 라이벌팀은 [셰필드 유나이티드 FC로](../Page/셰필드_유나이티드_FC.md "wikilink") 두 팀은 거의 100여년 간 "[강철 도시 더비](https://ko.wikipedia.org/wiki/강철_도시_더비 "wikilink")"라고 불리는 라이벌전을 계속해 왔다.
+**셰필드 웬즈데이 축구 클럽**은 [잉글랜드](../Page/잉글랜드.md "wikilink") [사우스요크셔주](https://ko.wikipedia.org/wiki/사우스요크셔주 "wikilink")의 [셰필드](../Page/셰필드.md "wikilink")에 있는 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [잉글랜드](../Page/잉글랜드.md "wikilink") 2부리그인 [EFL 챔피언십에서](../Page/EFL_챔피언십.md "wikilink") 시즌을 보내고 있다. 셰필드 웬즈데이는 전 세계에서 가장 오래된 축구 팀 가운데 하나로 1892년에 [풋볼 리그에](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 참가하였다. 이들의 주요 라이벌팀은 [셰필드 유나이티드 FC로](../Page/셰필드_유나이티드_FC.md "wikilink") 두 팀은 거의 100여년 간 "[강철 도시 더비](https://ko.wikipedia.org/wiki/강철_도시_더비 "wikilink")"라고 불리는 라이벌전을 계속해 왔다.
 
 셰필드 웬즈데이는 처음에는 **더 웬즈데이**(The Wednesday)라는 이름으로 경기를 했었다. 그러다가 1929년에 현재의 명칭을 채택하여 지금까지 이어져 오고 있다.
 
@@ -13,9 +13,9 @@
 
 ## 유명 선수
 
-  - [니클라스 알렉산데르손](https://ko.wikipedia.org/wiki/니클라스_알렉산데르손 "wikilink")
+  - [니클라스 알렉산데르손](../Page/니클라스_알렉산데르손.md "wikilink")
 
-  - [스튜어트 홀든](https://ko.wikipedia.org/wiki/스튜어트_홀든 "wikilink")
+  - [스튜어트 홀든](../Page/스튜어트_홀든.md "wikilink")
 
 ## 역대 성적
 
@@ -48,7 +48,7 @@
 
 <!-- end list -->
 
-  - **[풋볼 얼라이언스](https://ko.wikipedia.org/wiki/풋볼_얼라이언스 "wikilink")** (1889\~1892까지 존재했던 리그, 1892년에 [풋볼 리그와](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 통합)
+  - **[풋볼 얼라이언스](../Page/풋볼_얼라이언스.md "wikilink")** (1889\~1892까지 존재했던 리그, 1892년에 [풋볼 리그와](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 통합)
 
 <!-- end list -->
 
@@ -142,7 +142,7 @@
 <td><p>1961-62 <a href="../Page/인터시티스_페어스컵.md" title="wikilink">인터시티스 페어스컵</a> 8강</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_위트레흐트" title="wikilink">DOS 위트레흐트</a> </p></td>
+<td><p><a href="../Page/FC_위트레흐트.md" title="wikilink">DOS 위트레흐트</a> </p></td>
 <td><p>1 - 4</p></td>
 <td><p><strong>셰필드 웬즈데이</strong></p></td>
 <td><p>1963-64 <a href="../Page/인터시티스_페어스컵.md" title="wikilink">인터시티스 페어스컵</a> 1라운드</p></td>
@@ -150,11 +150,11 @@
 <tr class="even">
 <td><p><strong>셰필드 웬즈데이</strong> </p></td>
 <td><p>4 - 1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_위트레흐트" title="wikilink">DOS 위트레흐트</a></p></td>
+<td><p><a href="../Page/FC_위트레흐트.md" title="wikilink">DOS 위트레흐트</a></p></td>
 <td><p>1963-64 <a href="../Page/인터시티스_페어스컵.md" title="wikilink">인터시티스 페어스컵</a> 1라운드</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/1._FC_쾰른" title="wikilink">1. FC 쾰른</a></strong> </p></td>
+<td><p><strong><a href="../Page/1._FC_쾰른.md" title="wikilink">1. FC 쾰른</a></strong> </p></td>
 <td><p>3 - 2</p></td>
 <td><p>셰필드 웬즈데이</p></td>
 <td><p>1963-64 <a href="../Page/인터시티스_페어스컵.md" title="wikilink">인터시티스 페어스컵</a> 2라운드</p></td>
@@ -162,7 +162,7 @@
 <tr class="even">
 <td><p>셰필드 웬즈데이 </p></td>
 <td><p>1 - 2</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/1._FC_쾰른" title="wikilink">1. FC 쾰른</a></strong></p></td>
+<td><p><strong><a href="../Page/1._FC_쾰른.md" title="wikilink">1. FC 쾰른</a></strong></p></td>
 <td><p>1963-64 <a href="../Page/인터시티스_페어스컵.md" title="wikilink">인터시티스 페어스컵</a> 2라운드</p></td>
 </tr>
 <tr class="odd">
@@ -178,7 +178,7 @@
 <td><p>1992-93 <a href="https://ko.wikipedia.org/wiki/UEFA컵" title="wikilink">UEFA컵</a> 1라운드</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/1._FC_카이저슬라우테른" title="wikilink">1. FC 카이저슬라우테른</a></strong> </p></td>
+<td><p><strong><a href="../Page/1._FC_카이저슬라우테른.md" title="wikilink">1. FC 카이저슬라우테른</a></strong> </p></td>
 <td><p>3 - 1</p></td>
 <td><p>셰필드 웬즈데이</p></td>
 <td><p>1992-93 <a href="https://ko.wikipedia.org/wiki/UEFA컵" title="wikilink">UEFA컵</a> 2라운드</p></td>
@@ -186,11 +186,11 @@
 <tr class="even">
 <td><p><em>셰필드 웬즈데이</em> </p></td>
 <td><p>2 - 2</p></td>
-<td><p><em><a href="https://ko.wikipedia.org/wiki/1._FC_카이저슬라우테른" title="wikilink">1. FC 카이저슬라우테른</a></em></p></td>
+<td><p><em><a href="../Page/1._FC_카이저슬라우테른.md" title="wikilink">1. FC 카이저슬라우테른</a></em></p></td>
 <td><p>1992-93 <a href="https://ko.wikipedia.org/wiki/UEFA컵" title="wikilink">UEFA컵</a> 2라운드</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/FC_바젤" title="wikilink">FC 바젤</a></strong> </p></td>
+<td><p><strong><a href="../Page/FC_바젤.md" title="wikilink">FC 바젤</a></strong> </p></td>
 <td><p>1 - 0</p></td>
 <td><p>셰필드 웬즈데이</p></td>
 <td><p>1995 <a href="../Page/UEFA_인터토토컵.md" title="wikilink">UEFA 인터토토컵</a> 조별리그</p></td>
@@ -198,7 +198,7 @@
 <tr class="even">
 <td><p><strong>셰필드 웬즈데이</strong> </p></td>
 <td><p>3 - 2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/구르니크_자브제" title="wikilink">구르니크 자브제</a></p></td>
+<td><p><a href="../Page/구르니크_자브제.md" title="wikilink">구르니크 자브제</a></p></td>
 <td><p>1995 <a href="../Page/UEFA_인터토토컵.md" title="wikilink">UEFA 인터토토컵</a> 조별리그</p></td>
 </tr>
 <tr class="odd">
@@ -210,7 +210,7 @@
 <tr class="even">
 <td><p><strong>셰필드 웬즈데이</strong> </p></td>
 <td><p>3 - 1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오르후스_GF" title="wikilink">오르후스 GF</a></p></td>
+<td><p><a href="../Page/오르후스_GF.md" title="wikilink">오르후스 GF</a></p></td>
 <td><p>1995 <a href="../Page/UEFA_인터토토컵.md" title="wikilink">UEFA 인터토토컵</a> 조별리그</p></td>
 </tr>
 </tbody>

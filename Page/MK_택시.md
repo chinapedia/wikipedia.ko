@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MK ](https://ko.wikipedia.org/wiki/MK_).
 
 
-**엠케이 주식회사** ()는 [교토시](https://ko.wikipedia.org/wiki/교토시 "wikilink") [미나미구](https://ko.wikipedia.org/wiki/미나미구_\(교토시\) "wikilink") 니시쿠죠 히가시시마마치 63-1에 본사가 있는 [택시](https://ko.wikipedia.org/wiki/택시 "wikilink") 회사이다. 옛 본사는 교토 시 [기타구](https://ko.wikipedia.org/wiki/기타구_\(교토시\) "wikilink") 카미가모니시가와라쵸 1-1 이었다. 1960년에 [유봉식](https://ko.wikipedia.org/wiki/유봉식 "wikilink")에 의해서 창업했다. "MK" 의 약칭의 뜻은 창업 당시의 명칭인 "미나미택시"와 후에 합병한 "桂택시 (가쓰라 택시,KEI)"의 머리 글자를 취한 것이다.
+**엠케이 주식회사** ()는 [교토시](../Page/교토시.md "wikilink") [미나미구](../Page/미나미구_\(교토시\).md "wikilink") 니시쿠죠 히가시시마마치 63-1에 본사가 있는 [택시](../Page/택시.md "wikilink") 회사이다. 옛 본사는 교토 시 [기타구](../Page/기타구_\(교토시\).md "wikilink") 카미가모니시가와라쵸 1-1 이었다. 1960년에 [유봉식](https://ko.wikipedia.org/wiki/유봉식 "wikilink")에 의해서 창업했다. "MK" 의 약칭의 뜻은 창업 당시의 명칭인 "미나미택시"와 후에 합병한 "桂택시 (가쓰라 택시,KEI)"의 머리 글자를 취한 것이다.
 
 ## 회사 개요
 
@@ -9,7 +9,7 @@
 
 엠케이택시 창립자는 대왕기업(서울 정릉동 소재, 역시 택시회사) 창립자와 친분이 두터운 것으로 알려져 있다
 
-후쿠오카의 다이이치 교통산업 그룹과 함께 전국에 진출해 [도쿄](../Page/도쿄.md "wikilink")(도쿄 엠케이 주식회사［도쿄 MK주식회사］),[오사카](https://ko.wikipedia.org/wiki/오사카_시 "wikilink")(오사카 엠케이 주식회사［오사카 MK주식회사］),[효고](https://ko.wikipedia.org/wiki/효고 "wikilink")([고베](https://ko.wikipedia.org/wiki/고베 "wikilink") 엠케이),[아이치](https://ko.wikipedia.org/wiki/아이치현 "wikilink")([나고야](https://ko.wikipedia.org/wiki/나고야 "wikilink") 엠케이) 등에 진출하고,현지의 택시 회사와 서로 경쟁하고 있다. 덧붙여 도쿄 엠케이 주식회사에 대해서는,「레몬 가스」 브랜드로 LP가스 사업을 실시한다.
+후쿠오카의 다이이치 교통산업 그룹과 함께 전국에 진출해 [도쿄](../Page/도쿄.md "wikilink")(도쿄 엠케이 주식회사［도쿄 MK주식회사］),[오사카](https://ko.wikipedia.org/wiki/오사카_시 "wikilink")(오사카 엠케이 주식회사［오사카 MK주식회사］),[효고](https://ko.wikipedia.org/wiki/효고 "wikilink")([고베](https://ko.wikipedia.org/wiki/고베 "wikilink") 엠케이),[아이치](../Page/아이치현.md "wikilink")([나고야](https://ko.wikipedia.org/wiki/나고야 "wikilink") 엠케이) 등에 진출하고,현지의 택시 회사와 서로 경쟁하고 있다. 덧붙여 도쿄 엠케이 주식회사에 대해서는,「레몬 가스」 브랜드로 LP가스 사업을 실시한다.
 
 근래에는,대절 버스 사업이나 학교 등의 특정 수송 버스 사업에도 진출하고 있다. 다만,교토시내에서 계획한 순환 노선 버스 사업에 대해서는,교토시 교통국에서는 물론,다른 교통 사업자나 교토 상공회의소 등 여러 곳에서 난색을 나타내,순환 노선 버스 사업 계획은 철회했다.
 
@@ -20,18 +20,18 @@
   - 쿄토(엠케이)
       - 중형: 2km까지 590엔,이후 373m마다 80엔
       - 소형: 2km까지 580엔,이후 425m마다 80엔
-      - [기모노](https://ko.wikipedia.org/wiki/기모노 "wikilink") 착용 할인: 10% 할인
+      - [기모노](../Page/기모노.md "wikilink") 착용 할인: 10% 할인
       - 원거리 할인: 5,000엔을 초과한 후, 30% 할인
   - 오사카(오사카 엠케이)
       - 중형: 2km까지 500엔, 이후 225m마다 50엔
       - 원거리 할인: 5,000엔을 초과한 후,50% 할인
   - 도쿄(도쿄 엠케이)
-      - 중형: 2km까지 660엔. 이후 274m마다 80엔(2006년 5월 21일 도내 타사와 같은 요금으로 개정, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 12월 3일 도 내 타사, 개인 택시와 같다. 710엔으로 인상했지만 도쿄 엠케이는 인상하지 않았다.)
+      - 중형: 2km까지 660엔. 이후 274m마다 80엔(2006년 5월 21일 도내 타사와 같은 요금으로 개정, [2007년](../Page/2007년.md "wikilink") 12월 3일 도 내 타사, 개인 택시와 같다. 710엔으로 인상했지만 도쿄 엠케이는 인상하지 않았다.)
       - 원거리 할인: 9,000엔을 초과한 후, 10% 할인
       - 경로 할인: 10% 할인(70세 이상이 이용했을 경우, 승객의 제의(신청)에 의해 할인)
       - 심야 할증: 10% 할증
 
-무선 대기 요금은 지금까지는 없었지만, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 21일부터](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") 도입했다. 또 오전 5시부터 오전 10시까지의 시간 예약에 대해서 400엔의 예약 요금을 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 1일부터](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 도입했다. 하이 그레이드 차종인 「[토요타 크라운](https://ko.wikipedia.org/wiki/토요타_크라운 "wikilink")」과 「[토요타 에스티마](../Page/토요타_에스티마.md "wikilink")」, 「[현대 그랜저](https://ko.wikipedia.org/wiki/현대_그랜저 "wikilink")」, 「[벤츠 E320](../Page/메르세데스-벤츠_E_클래스.md "wikilink") CDI」로 차량을 지정하여 예약하는 경우, 별도로 1,000엔의 지정 예약 요금이 부과된다.
+무선 대기 요금은 지금까지는 없었지만, [2006년](../Page/2006년.md "wikilink") [10월 21일부터](../Page/10월_21일.md "wikilink") 도입했다. 또 오전 5시부터 오전 10시까지의 시간 예약에 대해서 400엔의 예약 요금을 [2006년](../Page/2006년.md "wikilink") [9월 1일부터](../Page/9월_1일.md "wikilink") 도입했다. 하이 그레이드 차종인 「[토요타 크라운](../Page/토요타_크라운.md "wikilink")」과 「[토요타 에스티마](../Page/토요타_에스티마.md "wikilink")」, 「[현대 그랜저](../Page/현대_그랜저.md "wikilink")」, 「[벤츠 E320](../Page/메르세데스-벤츠_E_클래스.md "wikilink") CDI」로 차량을 지정하여 예약하는 경우, 별도로 1,000엔의 지정 예약 요금이 부과된다.
 
   - 고베(고베 엠케이)
       - 중형: 2km까지 550엔, 이후 222m마다 50엔

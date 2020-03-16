@@ -6,7 +6,7 @@
   - B: Bondage ([본디지](../Page/본디지.md "wikilink"))
   - D: Discipline ([디스어플린](https://ko.wikipedia.org/wiki/디스어플린 "wikilink"))
   - S: Sadism ([사디즘](https://ko.wikipedia.org/wiki/사디즘 "wikilink"))
-  - M: Masochism ([마조히즘](https://ko.wikipedia.org/wiki/마조히즘 "wikilink"))
+  - M: Masochism ([마조히즘](../Page/마조히즘.md "wikilink"))
 
 BDSM은 지배와 복종, 롤 플레잉, 감금, 기타 인간 상호 작용을 포함하는 다양한 성적 활동이다. 그 광활한 범위 때문에, 스스로는 BDSM을 하지 않는다고 생각하는 사람들의 활동도 포함될 수 있고, 어떤 활동이 BDSM 커뮤니티 및 하위 문화에 포함되는지 아닌지는 보통 하는 사람들 스스로의 정의와 공유된 경험에 의존하는 경우가 많다. BDSM에 대한 관심은 일회성 실험에서부터 평생의 생활 방식에 이르기까지 다양할 수 있으며, BDSM이나 특이한 성적 정체성 또한 성적 지향의 한 형태에 해당하는지는 논쟁의 여지가 있다. 이는 극소수의 [LGBT](https://ko.wikipedia.org/wiki/LGBT "wikilink") 커뮤니티에 K(kink)라는 지향의 하나로 포함하는데에서 찾아볼 수 있다.
 
@@ -86,7 +86,7 @@ D/s에서는, 도미넌트가 탑이고 서브미시브가 바텀이 된다. S/M
   - [재갈](https://ko.wikipedia.org/wiki/재갈 "wikilink")
   - [속박](../Page/본디지.md "wikilink")
       - [미라화](https://ko.wikipedia.org/wiki/미라화_\(BDSM\) "wikilink")
-  - [성기](https://ko.wikipedia.org/wiki/성기 "wikilink")와 [고환](https://ko.wikipedia.org/wiki/고환 "wikilink") 고문[(Cock and Ball Torture : CBT)](https://ko.wikipedia.org/wiki/\(Cock_and_Ball_Torture_:_CBT\) "wikilink")
+  - [성기](../Page/성기.md "wikilink")와 [고환](https://ko.wikipedia.org/wiki/고환 "wikilink") 고문[(Cock and Ball Torture : CBT)](https://ko.wikipedia.org/wiki/\(Cock_and_Ball_Torture_:_CBT\) "wikilink")
   - [볼버스팅](https://ko.wikipedia.org/wiki/볼버스팅 "wikilink")(CBT의 일종)
   - [성적 전기 자극](https://ko.wikipedia.org/wiki/성적_전기_자극 "wikilink")
   - [채찍](https://ko.wikipedia.org/wiki/채찍 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ NBS](https://ko.wikipedia.org/wiki/_NBS).
 
 
-**신한은행 NBS시스템**은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")부터 통합신한은행에서 사용하는 계산계 시스템이다.
+**신한은행 NBS시스템**은 [2006년](../Page/2006년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 통합신한은행에서 사용하는 계산계 시스템이다.
 
 보통 은행간 합병의 경우 합병주체은행의 전산에 일괄 통합하는방식을 채택하였으나 신한-조흥은행간 합병의 경우, 전산통합과 동시에 차세대 시스템으로 일괄 변경하는 방식을 채택하여 주목받았었다.
 

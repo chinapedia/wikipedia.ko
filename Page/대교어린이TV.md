@@ -1,28 +1,28 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**대교어린이TV 또는 (주)대교영상사업본부**는 [㈜대교에서](https://ko.wikipedia.org/wiki/대교_\(기업\) "wikilink") 운영하는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 어린이 프로그램 편성 [케이블 TV 방송국이다](../Page/대한민국의_케이블TV_방송.md "wikilink").
+**대교어린이TV 또는 (주)대교영상사업본부**는 [㈜대교에서](../Page/대교_\(기업\).md "wikilink") 운영하는 [대한민국](../Page/대한민국.md "wikilink")의 어린이 프로그램 편성 [케이블 TV 방송국이다](../Page/대한민국의_케이블TV_방송.md "wikilink").
 
 ## 연혁
 
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대한민국에서 최초로 케이블TV 어린이분야 방송사업자로 허가
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 개국
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 3월: 위성방송 채널 공급 개시
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 16주년 및 개국 14주년
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink"): IPTV 채널 공급 개시 ([KT](https://ko.wikipedia.org/wiki/KT "wikilink") [올레 TV](https://ko.wikipedia.org/wiki/올레_TV "wikilink"), [SK](https://ko.wikipedia.org/wiki/SK브로드밴드 "wikilink") [B TV](https://ko.wikipedia.org/wiki/B_TV "wikilink"))
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 17주년 및 개국 15주년
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 18주년 및 개국 16주년
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink"): 모바일 TV 채널 공급 개시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 19주년 및 개국 17주년
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 4월: 대한민국 어린이 채널 최초 HD채널 개국
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 20주년 및 개국 18주년
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 21주년 및 개국 19주년
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 22주년 및 개국 20주년
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 23주년 및 개국 21주년
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink"): 대교어린이TV 영유아 교육 채널인 대교베이비TV 개국
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 24주년 및 개국 22주년
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 25주년 및 개국 23주년
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"): 대교어린이TV 창립 26주년 및 개국 24주년
+  - [1993년](../Page/1993년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대한민국에서 최초로 케이블TV 어린이분야 방송사업자로 허가
+  - [1995년](../Page/1995년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 개국
+  - [2001년](../Page/2001년.md "wikilink") 3월: 위성방송 채널 공급 개시
+  - [2009년](../Page/2009년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 16주년 및 개국 14주년
+  - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink"): IPTV 채널 공급 개시 ([KT](../Page/KT.md "wikilink") [올레 TV](../Page/올레_TV.md "wikilink"), [SK](../Page/SK브로드밴드.md "wikilink") [B TV](../Page/B_TV.md "wikilink"))
+  - [2010년](../Page/2010년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 17주년 및 개국 15주년
+  - [2011년](../Page/2011년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 18주년 및 개국 16주년
+  - [2011년](../Page/2011년.md "wikilink") [7월](../Page/7월.md "wikilink"): 모바일 TV 채널 공급 개시
+  - [2012년](../Page/2012년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 19주년 및 개국 17주년
+  - [2012년](../Page/2012년.md "wikilink") 4월: 대한민국 어린이 채널 최초 HD채널 개국
+  - [2013년](../Page/2013년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 20주년 및 개국 18주년
+  - [2014년](../Page/2014년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 21주년 및 개국 19주년
+  - [2015년](../Page/2015년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 22주년 및 개국 20주년
+  - [2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 23주년 및 개국 21주년
+  - [2016년](../Page/2016년.md "wikilink") [11월](../Page/11월.md "wikilink"): 대교어린이TV 영유아 교육 채널인 대교베이비TV 개국
+  - [2017년](../Page/2017년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 24주년 및 개국 22주년
+  - [2018년](../Page/2018년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 25주년 및 개국 23주년
+  - [2019년](../Page/2019년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 26주년 및 개국 24주년
 
 ## 주요 장르
 
@@ -38,11 +38,11 @@
   - [고 디에고 고](https://ko.wikipedia.org/wiki/고_디에고_고 "wikilink")
   - [고 포 스피드](https://ko.wikipedia.org/wiki/고_포_스피드 "wikilink")
   - [골판지전사](https://ko.wikipedia.org/wiki/골판지전사 "wikilink")
-  - [구슬대전 배틀비드맨](https://ko.wikipedia.org/wiki/구슬대전_배틀비드맨 "wikilink")
-  - [가면라이더 가부토](https://ko.wikipedia.org/wiki/가면라이더_가부토 "wikilink")
+  - [구슬대전 배틀비드맨](../Page/구슬대전_배틀비드맨.md "wikilink")
+  - [가면라이더 가부토](../Page/가면라이더_가부토.md "wikilink")
   - [가면라이더 고스트](../Page/가면라이더_고스트.md "wikilink")
   - [가면라이더 드라이브](../Page/가면라이더_드라이브.md "wikilink")
-  - [가면라이더 위저드](https://ko.wikipedia.org/wiki/가면라이더_위저드 "wikilink")
+  - [가면라이더 위저드](../Page/가면라이더_위저드.md "wikilink")
   - [가면라이더 에그제이드](https://ko.wikipedia.org/wiki/가면라이더_에그제이드 "wikilink")
   - [구름빵](https://ko.wikipedia.org/wiki/구름빵 "wikilink")
   - [구름빵 2](https://ko.wikipedia.org/wiki/구름빵_2 "wikilink")
@@ -64,11 +64,11 @@
 
   - [눈높이 생활영어](https://ko.wikipedia.org/wiki/눈높이_생활영어 "wikilink")
   - [뉴키즈 잉글리쉬](https://ko.wikipedia.org/wiki/뉴키즈_잉글리쉬 "wikilink")
-  - [내 친구 펭귄 핑구](https://ko.wikipedia.org/wiki/핑구 "wikilink")
-  - [내 친구 우비소년](https://ko.wikipedia.org/wiki/내_친구_우비소년 "wikilink")
+  - [내 친구 펭귄 핑구](../Page/핑구.md "wikilink")
+  - [내 친구 우비소년](../Page/내_친구_우비소년.md "wikilink")
   - [니하오 카이란](https://ko.wikipedia.org/wiki/니하오_카이란 "wikilink")
   - [내 품에 라바와 친구들](https://ko.wikipedia.org/wiki/내_품에_라바와_친구들 "wikilink")
-  - [내 친구 아서](https://ko.wikipedia.org/wiki/내_친구_아서 "wikilink")
+  - [내 친구 아서](../Page/내_친구_아서.md "wikilink")
   - [내 친구 일곱난쟁이](https://ko.wikipedia.org/wiki/내_친구_일곱난쟁이 "wikilink")
 
 ### ㄷ
@@ -84,7 +84,7 @@
 
   - [뚝딱뚝딱 밥아저씨](../Page/밥_더_빌더.md "wikilink")
   - [뛰뛰빵빵](https://ko.wikipedia.org/wiki/뛰뛰빵빵 "wikilink")
-  - [따개비 루](https://ko.wikipedia.org/wiki/따개비_루 "wikilink")
+  - [따개비 루](../Page/따개비_루.md "wikilink")
   - [딱지왕 김태풍](https://ko.wikipedia.org/wiki/딱지왕_김태풍 "wikilink")
   - [또 하나의 또봇](https://ko.wikipedia.org/wiki/또_하나의_또봇 "wikilink")
   - [또봇 V](https://ko.wikipedia.org/wiki/또봇_V "wikilink")
@@ -95,20 +95,20 @@
   - [로보짱 큐빅스](https://ko.wikipedia.org/wiki/로보짱_큐빅스 "wikilink")
   - [라바](https://ko.wikipedia.org/wiki/라바 "wikilink")
   - [랄라스 뮤직랜드](https://ko.wikipedia.org/wiki/랄라스_뮤직랜드 "wikilink")
-  - [롤링스타즈](https://ko.wikipedia.org/wiki/롤링스타즈 "wikilink")
+  - [롤링스타즈](../Page/롤링스타즈.md "wikilink")
   - [로봇찌빠](https://ko.wikipedia.org/wiki/로봇찌빠 "wikilink")
   - [루시와 ET독](https://ko.wikipedia.org/wiki/루시와_ET독 "wikilink")
 
 ### ㅁ
 
-  - [마기 (만화)](https://ko.wikipedia.org/wiki/마기_\(만화\) "wikilink")
+  - [마기 (만화)](../Page/마기_\(만화\).md "wikilink")
   - [만들어 볼까요](https://ko.wikipedia.org/wiki/만들어_볼까요 "wikilink")
   - [마법 냐옹이 타루토](https://ko.wikipedia.org/wiki/마법_냐옹이_타루토 "wikilink")
-  - [마법천자문](https://ko.wikipedia.org/wiki/마법천자문 "wikilink")
+  - [마법천자문](../Page/마법천자문.md "wikilink")
   - [메탈베이블레이드](https://ko.wikipedia.org/wiki/메탈베이블레이드 "wikilink")
   - [미라클 체인지 퍼펙트 반장](https://ko.wikipedia.org/wiki/미라클_체인지_퍼펙트_반장 "wikilink")
-  - [마다가스카의 펭귄](https://ko.wikipedia.org/wiki/마다가스카의_펭귄 "wikilink")
-  - [마이 리틀 포니](https://ko.wikipedia.org/wiki/마이_리틀_포니 "wikilink")
+  - [마다가스카의 펭귄](../Page/마다가스카의_펭귄.md "wikilink")
+  - [마이 리틀 포니](../Page/마이_리틀_포니.md "wikilink")
   - [미라클멜로디](https://ko.wikipedia.org/wiki/미라클멜로디 "wikilink")
 
 ### ㅂ
@@ -116,7 +116,7 @@
   - [브룸](https://ko.wikipedia.org/wiki/:en:Brum_\(TV_Series\) "wikilink")
   - [볼트론 특공대](https://ko.wikipedia.org/wiki/볼트론 "wikilink")
   - [배의 요정 후나씨](https://ko.wikipedia.org/wiki/배의_요정_후나씨 "wikilink")
-  - [베리베리 뮤우뮤우](https://ko.wikipedia.org/wiki/베리베리_뮤우뮤우 "wikilink")
+  - [베리베리 뮤우뮤우](../Page/베리베리_뮤우뮤우.md "wikilink")
   - [변신자동차 또봇](../Page/변신자동차_또봇.md "wikilink")
   - [변신자동차 또봇-트라이탄슈퍼콤보](https://ko.wikipedia.org/wiki/변신자동차_또봇-트라이탄슈퍼콤보 "wikilink")
   - [변신자동차 또봇-합체또봇타이탄](https://ko.wikipedia.org/wiki/변신자동차_또봇-합체또봇타이탄 "wikilink")
@@ -130,15 +130,15 @@
   - [부탁해\! 미라클 캣츠](https://ko.wikipedia.org/wiki/부탁해!_미라클_캣츠 "wikilink")
   - [브링큰](https://ko.wikipedia.org/wiki/브링큰 "wikilink")
   - [블루스 클루스](../Page/블루스_클루스.md "wikilink")
-  - [보거스는 내 친구](https://ko.wikipedia.org/wiki/보거스는_내_친구 "wikilink")
+  - [보거스는 내 친구](../Page/보거스는_내_친구.md "wikilink")
   - [비트윈더 라이온스](https://ko.wikipedia.org/wiki/:en:Between_the_Lions "wikilink")
 
 ### ㅃ
 
   - [빨간코 알루](https://ko.wikipedia.org/wiki/빨간코_알루 "wikilink")
-  - [뽀롱뽀롱 뽀로로](https://ko.wikipedia.org/wiki/뽀롱뽀롱_뽀로로 "wikilink")
+  - [뽀롱뽀롱 뽀로로](../Page/뽀롱뽀롱_뽀로로.md "wikilink")
   - [빨간 트랙터 통통](https://ko.wikipedia.org/wiki/:en:Tractor_Tom "wikilink")
-  - [쁘띠쁘띠 뮤즈](https://ko.wikipedia.org/wiki/쁘띠쁘띠_뮤즈 "wikilink")
+  - [쁘띠쁘띠 뮤즈](../Page/쁘띠쁘띠_뮤즈.md "wikilink")
 
 ### ㅅ
 
@@ -153,18 +153,18 @@
 
 ### ㅇ
 
-  - [아따아따](https://ko.wikipedia.org/wiki/아따아따 "wikilink")
+  - [아따아따](../Page/아따아따.md "wikilink")
   - [아스타를 향해 차구차구](../Page/아스타를_향해_차구차구.md "wikilink")
   - [안아줘요 무무](https://ko.wikipedia.org/wiki/안아줘요_무무 "wikilink")
   - [어리 이야기](https://ko.wikipedia.org/wiki/어리_이야기 "wikilink")
   - [오달달,오달몬\!](https://ko.wikipedia.org/wiki/오달달,오달몬! "wikilink")
-  - [오스카의 오아시스](https://ko.wikipedia.org/wiki/오스카의_오아시스 "wikilink")
+  - [오스카의 오아시스](../Page/오스카의_오아시스.md "wikilink")
   - [올림포스 가디언](../Page/올림포스_가디언.md "wikilink"): 기간테스 대역습
   - [요술장화 래피치](https://ko.wikipedia.org/wiki/요술장화_래피치 "wikilink")
   - [우리는 명탐정](https://ko.wikipedia.org/wiki/우리는_명탐정 "wikilink")
   - [우주해적 미토의 대모험](https://ko.wikipedia.org/wiki/우주해적_미토의_대모험 "wikilink")
   - [열려라 세서미 스트리트](../Page/세서미_스트리트.md "wikilink")
-  - [완소\! 퍼펙트 반장](https://ko.wikipedia.org/wiki/완소!_퍼펙트_반장 "wikilink")
+  - [완소\! 퍼펙트 반장](../Page/완소!_퍼펙트_반장.md "wikilink")
   - [애니다큐 그림여행](https://ko.wikipedia.org/wiki/애니다큐_그림여행 "wikilink")
   - [에그엔젤 코코밍](https://ko.wikipedia.org/wiki/에그엔젤_코코밍 "wikilink")
   - [에디와 내 친구 베어](https://ko.wikipedia.org/wiki/에디와_내_친구_베어 "wikilink")
@@ -174,23 +174,23 @@
   - [요호 아호이](https://ko.wikipedia.org/wiki/:en:Yoho_Ahoy "wikilink")
   - [영차영차 꼬마트럭 삼총사](https://ko.wikipedia.org/wiki/영차영차_꼬마트럭_삼총사 "wikilink")
   - [우리는 곰돌이 가족](https://ko.wikipedia.org/wiki/베렌스타인_베어스 "wikilink")
-  - [아이언 키드](https://ko.wikipedia.org/wiki/아이언_키드 "wikilink")
+  - [아이언 키드](../Page/아이언_키드.md "wikilink")
   - [울트라맨 긴가 S](https://ko.wikipedia.org/wiki/울트라맨_긴가_S "wikilink")
   - [울트라맨 다이나](https://ko.wikipedia.org/wiki/울트라맨_다이나 "wikilink")
   - [울트라맨 X](https://ko.wikipedia.org/wiki/울트라맨_X "wikilink")
   - [울트라맨 오브](https://ko.wikipedia.org/wiki/울트라맨_오브 "wikilink")
   - [이레자이온](../Page/이레자이온.md "wikilink")
   - [엔젤4총사](https://ko.wikipedia.org/wiki/엔젤4총사 "wikilink")
-  - [유후와 친구들](https://ko.wikipedia.org/wiki/유후와_친구들 "wikilink")
+  - [유후와 친구들](../Page/유후와_친구들.md "wikilink")
   - [아추랑 콩콩](https://ko.wikipedia.org/wiki/아추랑_콩콩 "wikilink")
-  - [안녕 자두야](https://ko.wikipedia.org/wiki/안녕_자두야 "wikilink")
+  - [안녕 자두야](../Page/안녕_자두야.md "wikilink")
 
 ### ㅈ
 
   - [줌인 원더월드](https://ko.wikipedia.org/wiki/줌인_원더월드 "wikilink")
-  - [쥬로링 동물탐정](https://ko.wikipedia.org/wiki/쥬로링_동물탐정 "wikilink")
+  - [쥬로링 동물탐정](../Page/쥬로링_동물탐정.md "wikilink")
   - [쥬얼펫 트윙클](https://ko.wikipedia.org/wiki/쥬얼펫_트윙클 "wikilink")
-  - [쥐라기 월드컵](https://ko.wikipedia.org/wiki/쥐라기_월드컵 "wikilink")
+  - [쥐라기 월드컵](../Page/쥐라기_월드컵.md "wikilink")
   - [쥐라기캅스](../Page/쥐라기캅스.md "wikilink")
   - [쫑아는 사춘기](../Page/쫑아는_사춘기.md "wikilink")
 
@@ -198,9 +198,9 @@
 
   - [천방지축 모험왕](https://ko.wikipedia.org/wiki/천방지축_모험왕 "wikilink")
   - [천하태평 노노짱](https://ko.wikipedia.org/wiki/천하태평_노노짱 "wikilink")
-  - [초성함대 세이저X](https://ko.wikipedia.org/wiki/초성함대_세이저X "wikilink")
+  - [초성함대 세이저X](../Page/초성함대_세이저X.md "wikilink")
   - [천하태평 노노짱 시즌2](https://ko.wikipedia.org/wiki/천하태평_노노짱_시즌2 "wikilink")
-  - [초속변형 자이로제타](https://ko.wikipedia.org/wiki/초속변형_자이로제타 "wikilink")
+  - [초속변형 자이로제타](../Page/초속변형_자이로제타.md "wikilink")
   - [치로와 친구들](https://ko.wikipedia.org/wiki/치로와_친구들 "wikilink")
   - [칙칙폭폭 처깅턴](https://ko.wikipedia.org/wiki/칙칙폭폭_처깅턴 "wikilink")
   - [최강합체 믹스마스터](https://ko.wikipedia.org/wiki/최강합체_믹스마스터 "wikilink")
@@ -227,32 +227,32 @@
   - [터닝메카드 스페셜](https://ko.wikipedia.org/wiki/터닝메카드_스페셜 "wikilink")
   - [터닝메카드W](https://ko.wikipedia.org/wiki/터닝메카드W "wikilink")
   - [터닝메카드W 메카니멀 고](https://ko.wikipedia.org/wiki/터닝메카드W_메카니멀_고 "wikilink")
-  - [태극천자문](https://ko.wikipedia.org/wiki/태극천자문 "wikilink")
+  - [태극천자문](../Page/태극천자문.md "wikilink")
 
 ### ㅍ
 
   - [포트리스](https://ko.wikipedia.org/wiki/포트리스 "wikilink")
   - [펭귄의 문제](../Page/펭귄의_문제.md "wikilink")
-  - [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")
+  - [포켓몬스터](../Page/포켓몬스터.md "wikilink")
   - [포켓몬스터 DP3](https://ko.wikipedia.org/wiki/포켓몬스터_DP3 "wikilink")
   - [포켓몬스터 DP4](https://ko.wikipedia.org/wiki/포켓몬스터_DP4 "wikilink")
   - [포켓몬스터 DP5](https://ko.wikipedia.org/wiki/포켓몬스터_DP5 "wikilink")
   - [포켓몬스터 XY](../Page/포켓몬스터_XY_\(애니메이션\).md "wikilink")
   - [포켓몬스터 극장판](https://ko.wikipedia.org/wiki/포켓몬스터_극장판 "wikilink")
-  - [포켓몬스터 베스트위시](https://ko.wikipedia.org/wiki/포켓몬스터_베스트위시 "wikilink")
+  - [포켓몬스터 베스트위시](../Page/포켓몬스터_베스트위시.md "wikilink")
   - [푸치니와 별난가족](https://ko.wikipedia.org/wiki/푸치니와_별난가족 "wikilink")
   - [플래쉬앤대쉬2](https://ko.wikipedia.org/wiki/플래쉬앤대쉬2 "wikilink")
   - [플리퍼와 로파카](https://ko.wikipedia.org/wiki/플리퍼와_로파카 "wikilink")
   - [프리파라](../Page/프리파라.md "wikilink")
   - [파워포스레인저](https://ko.wikipedia.org/wiki/파워포스레인저 "wikilink")
   - [파워레인저 트레저포스](https://ko.wikipedia.org/wiki/파워레인저_트레저포스 "wikilink")
-  - [파워레인저 다이노포스](https://ko.wikipedia.org/wiki/수전전대_쿄류저 "wikilink")
+  - [파워레인저 다이노포스](../Page/수전전대_쿄류저.md "wikilink")
   - [파워레인저 트레인포스](../Page/열차전대_토큐저.md "wikilink")
   - [파워레인저 닌자포스](../Page/수리검전대_닌닌저.md "wikilink")
   - [파워레인저 애니멀포스](https://ko.wikipedia.org/wiki/동물전대_쥬오우저 "wikilink")
   - [파워레인저 다이노포스 브레이브](https://ko.wikipedia.org/wiki/파워레인저_다이노포스_브레이브 "wikilink")
   - [파워레인저 갤럭시포스](../Page/우주전대_큐레인저.md "wikilink")
-  - [패트와 매트](https://ko.wikipedia.org/wiki/패트와_매트 "wikilink")
+  - [패트와 매트](../Page/패트와_매트.md "wikilink")
   - [파워배틀 와치카](../Page/파워배틀_와치카.md "wikilink")
   - [플라워링 하트](../Page/플라워링_하트.md "wikilink")
 
@@ -261,7 +261,7 @@
   - [하모니 - 악기의 비밀 이야기](https://ko.wikipedia.org/wiki/하모니_-_악기의_비밀_이야기 "wikilink")
   - [하모니: 오페라 극장의 비밀 이야기](https://ko.wikipedia.org/wiki/하모니:_오페라_극장의_비밀_이야기 "wikilink")
   - [하얀물개](https://ko.wikipedia.org/wiki/하얀물개 "wikilink")
-  - [하품요정 아쿠비](https://ko.wikipedia.org/wiki/하품요정_아쿠비 "wikilink")
+  - [하품요정 아쿠비](../Page/하품요정_아쿠비.md "wikilink")
   - [해피해피 다마고치\!](https://ko.wikipedia.org/wiki/해피해피_다마고치! "wikilink")
   - [헬로코코몽](https://ko.wikipedia.org/wiki/헬로코코몽 "wikilink")
   - [헬로카봇](https://ko.wikipedia.org/wiki/헬로카봇 "wikilink")
@@ -286,7 +286,7 @@
 
 ## 성우
 
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")부터 애니메이션 더빙 등에 기용할 성우를 공개채용하여, [대교방송 성우극회를](../Page/대교방송_성우극회.md "wikilink") 산하에 두고 있다.
+  - [1994년](../Page/1994년.md "wikilink")부터 애니메이션 더빙 등에 기용할 성우를 공개채용하여, [대교방송 성우극회를](../Page/대교방송_성우극회.md "wikilink") 산하에 두고 있다.
 
 ## 외부 링크
 

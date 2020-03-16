@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [NK ](https://ko.wikipedia.org/wiki/NK_).
 
 
-**NK 돔잘레**(NK Domžale)는 [슬로베니아](https://ko.wikipedia.org/wiki/슬로베니아 "wikilink")의 축구 클럽이다. 현재 이 팀은 [슬로베니아 1부 리그에](https://ko.wikipedia.org/wiki/슬로베니아_1부_리그 "wikilink") 참가하고 있다.
+**NK 돔잘레**(NK Domžale)는 [슬로베니아](../Page/슬로베니아.md "wikilink")의 축구 클럽이다. 현재 이 팀은 [슬로베니아 1부 리그에](https://ko.wikipedia.org/wiki/슬로베니아_1부_리그 "wikilink") 참가하고 있다.
 
-돔잘레는 [1921년](https://ko.wikipedia.org/wiki/1921년 "wikilink")에 설립되었다. 현재의 경기장인 [스포르트니 파크는](https://ko.wikipedia.org/wiki/스포르트니_파크 "wikilink") [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink")에 지어졌다. [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")부터 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")까지 현대화작업을 거쳤다.
+돔잘레는 [1921년](../Page/1921년.md "wikilink")에 설립되었다. 현재의 경기장인 [스포르트니 파크는](https://ko.wikipedia.org/wiki/스포르트니_파크 "wikilink") [1948년](../Page/1948년.md "wikilink")에 지어졌다. [1997년](../Page/1997년.md "wikilink")부터 [1998년](../Page/1998년.md "wikilink")까지 현대화작업을 거쳤다.
 
-돔잘레는 2002-03시즌에 2부리그 1위를 차지하며 승격하였다. 2003-04시즌부터 점차 순위가 상승하여 2006-07시즌엔 리그 우승을 차지하였다. 이번 우승은 [슬로베니아](https://ko.wikipedia.org/wiki/슬로베니아 "wikilink")가 독립한 뒤의 축구 리그에서 네 번째로 우승한 팀이 되는 것이다.
+돔잘레는 2002-03시즌에 2부리그 1위를 차지하며 승격하였다. 2003-04시즌부터 점차 순위가 상승하여 2006-07시즌엔 리그 우승을 차지하였다. 이번 우승은 [슬로베니아](../Page/슬로베니아.md "wikilink")가 독립한 뒤의 축구 리그에서 네 번째로 우승한 팀이 되는 것이다.
 
 2005-06시즌에는 [UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink") 1,2차 예선을 통과하여 1라운드까지 진출하기도 하였다.
 

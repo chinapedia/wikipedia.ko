@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Countdown to Extinction](https://ko.wikipedia.org/wiki/Countdown_to_Extinction).
 
 
-《**Countdown to Extinction**》은 1992년에 발매된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드인 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 다섯 번째 스튜디오 음반이다. 이 음반은 가장 많이 팔린 메가데스의 음반이며, 첫 주에 128,000장이 팔렸다 누적 판매량은 200만 장을 넘어서서 더블 플래티넘을 획득했다. 또한 메가데스의 가장 성공적인 히트곡인 〈[Symphony of Destruction](https://ko.wikipedia.org/wiki/Symphony_of_Destruction "wikilink")〉과 〈[Sweating Bullets](https://ko.wikipedia.org/wiki/Sweating_Bullets "wikilink")〉이 수록되어 있다.
+《**Countdown to Extinction**》은 1992년에 발매된 [미국](../Page/미국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드인 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 다섯 번째 스튜디오 음반이다. 이 음반은 가장 많이 팔린 메가데스의 음반이며, 첫 주에 128,000장이 팔렸다 누적 판매량은 200만 장을 넘어서서 더블 플래티넘을 획득했다. 또한 메가데스의 가장 성공적인 히트곡인 〈[Symphony of Destruction](https://ko.wikipedia.org/wiki/Symphony_of_Destruction "wikilink")〉과 〈[Sweating Bullets](https://ko.wikipedia.org/wiki/Sweating_Bullets "wikilink")〉이 수록되어 있다.
 
 ## 제작과 마케팅
 
@@ -23,7 +23,7 @@
 
 "High Speed Dirt"는 [스카이다이빙](https://ko.wikipedia.org/wiki/스카이다이빙 "wikilink")에 관한 노래이다.
 
-"Symphony of Destruction"은 아치 에너미, 나이트위시가 커버하기도 했다. [플레이스테이션 2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 게임 [기타히어로](https://ko.wikipedia.org/wiki/기타히어로 "wikilink")와 PC 게임 *True Crime: Streets of LA*에도 삽입되었다. 플레이스테이션 2의 *WWE Smackdown vs Raw 2006*에 리믹스 곡이 포함되었다. 2005년 *FlatOut 2*에도 이 곡이 사용되었다.
+"Symphony of Destruction"은 아치 에너미, 나이트위시가 커버하기도 했다. [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink") 게임 [기타히어로](https://ko.wikipedia.org/wiki/기타히어로 "wikilink")와 PC 게임 *True Crime: Streets of LA*에도 삽입되었다. 플레이스테이션 2의 *WWE Smackdown vs Raw 2006*에 리믹스 곡이 포함되었다. 2005년 *FlatOut 2*에도 이 곡이 사용되었다.
 
 "Skin o' My Teeth" 는 그룹 Kalmah가 앨범 *They Will Return*에 커버곡을 수록했다..
 

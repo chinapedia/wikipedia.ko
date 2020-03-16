@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DVD+R](https://ko.wikipedia.org/wiki/DVD+R).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:DVD+R_disc.jpg "wikilink") **DVD+R**은 한 번 기록할 수 있는 [광 디스크로](../Page/광_디스크.md "wikilink") 4.7 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink")(4.377 GiB)의 [기억 용량을](https://ko.wikipedia.org/wiki/기억_장치 "wikilink") 갖는다. (더 정확하게, 각각 2,048 바이트의 2,295,104 섹터) 4.832 GiB를 지원하는 [DVD-R](https://ko.wikipedia.org/wiki/DVD-R "wikilink")보다 기억 용량이 조금 작다. 이 포맷은 2002년 중반에 [DVD+RW 얼라이언스가](https://ko.wikipedia.org/wiki/DVD+RW_얼라이언스 "wikilink") 개발하였다. DVD+R 포맷이 [DVD 포럼에서](https://ko.wikipedia.org/wiki/DVD_포럼 "wikilink") 개발한 [DVD-R](https://ko.wikipedia.org/wiki/DVD-R "wikilink") 포맷과 경쟁하는 포맷이므로 DVD+R 포맷이 공식 DVD 포맷이 아니라는 이유로 DVD 포럼에 승인을 받지 못하고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:DVD+R_disc.jpg "wikilink") **DVD+R**은 한 번 기록할 수 있는 [광 디스크로](../Page/광_디스크.md "wikilink") 4.7 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink")(4.377 GiB)의 [기억 용량을](../Page/기억_장치.md "wikilink") 갖는다. (더 정확하게, 각각 2,048 바이트의 2,295,104 섹터) 4.832 GiB를 지원하는 [DVD-R](../Page/DVD-R.md "wikilink")보다 기억 용량이 조금 작다. 이 포맷은 2002년 중반에 [DVD+RW 얼라이언스가](https://ko.wikipedia.org/wiki/DVD+RW_얼라이언스 "wikilink") 개발하였다. DVD+R 포맷이 [DVD 포럼에서](https://ko.wikipedia.org/wiki/DVD_포럼 "wikilink") 개발한 [DVD-R](../Page/DVD-R.md "wikilink") 포맷과 경쟁하는 포맷이므로 DVD+R 포맷이 공식 DVD 포맷이 아니라는 이유로 DVD 포럼에 승인을 받지 못하고 있다.
 
 다른 플러스(+) 매체와 마찬가지로, [북 타입을](https://ko.wikipedia.org/wiki/북_타입 "wikilink") 변경하여 DVD+R 매체의 호환성을 높일 수 있다.
 
@@ -20,8 +20,8 @@
 
 ## 같이 보기
 
-  - [DVD-R](https://ko.wikipedia.org/wiki/DVD-R "wikilink")
-  - [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")
+  - [DVD-R](../Page/DVD-R.md "wikilink")
+  - [DVD](../Page/DVD.md "wikilink")
   - [DVD+R DL](https://ko.wikipedia.org/wiki/DVD+R_DL "wikilink")
   - [DVD+RW](https://ko.wikipedia.org/wiki/DVD+RW "wikilink"), [DVD-RW](https://ko.wikipedia.org/wiki/DVD-RW "wikilink")
   - [DVD-RAM](../Page/DVD-RAM.md "wikilink")

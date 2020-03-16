@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Think Tank](https://ko.wikipedia.org/wiki/Think_Tank).
 
 
-**Think Tank**는 영국 밴드 [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")의 일곱 번째 앨범이다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [5월 5일에](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") 발매되었다. 〈Out of Time〉, 〈Crazy Beat〉, 〈Good Song〉은 싱글 발매되었다. 이 앨범은 [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")가 또 한번의 음악적 변화를 보여준 앨범이다. 이 음반을 끝으로 잠정 휴식에 들어갔다.
+**Think Tank**는 영국 밴드 [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")의 일곱 번째 앨범이다. [2003년](../Page/2003년.md "wikilink") [5월 5일에](../Page/5월_5일.md "wikilink") 발매되었다. 〈Out of Time〉, 〈Crazy Beat〉, 〈Good Song〉은 싱글 발매되었다. 이 앨범은 [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")가 또 한번의 음악적 변화를 보여준 앨범이다. 이 음반을 끝으로 잠정 휴식에 들어갔다.
 
 ## 트랙 정보
 

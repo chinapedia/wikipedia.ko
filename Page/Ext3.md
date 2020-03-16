@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ext3](https://ko.wikipedia.org/wiki/Ext3).
 
 
-**ext3**(extended file system 3, 확장된 파일 시스템 3)는 [파일 시스템](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") 가운데 하나로 만든 이는 [스테펜 트위디](https://ko.wikipedia.org/wiki/스테펜_트위디 "wikilink")(Stephen Tweedie)이다. 2001년 11월 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 커널 2.4.15판에서 처음 모습을 드러냈다. [ext4](https://ko.wikipedia.org/wiki/ext4 "wikilink") 파일시스템이 ext3를 계승했다.
+**ext3**(extended file system 3, 확장된 파일 시스템 3)는 [파일 시스템](../Page/파일_시스템.md "wikilink") 가운데 하나로 만든 이는 [스테펜 트위디](https://ko.wikipedia.org/wiki/스테펜_트위디 "wikilink")(Stephen Tweedie)이다. 2001년 11월 [리눅스](../Page/리눅스.md "wikilink") 커널 2.4.15판에서 처음 모습을 드러냈다. [ext4](https://ko.wikipedia.org/wiki/ext4 "wikilink") 파일시스템이 ext3를 계승했다.
 
 ## 장점
 

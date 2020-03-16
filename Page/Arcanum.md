@@ -3,7 +3,7 @@
 
 《**Arcanum**》은 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 1996년 앨범이고, [GRP](https://ko.wikipedia.org/wiki/GRP "wikilink")에서의 12번째 앨범이다.
 
-이 앨범은 평소와 다르게 만들어졌다. 밴드는 이 앨범을 "as Live"라는 이름으로 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")의 "Pinewood Film Studios"에서 만들기로 결정했다. 그들은 또한 [런던 메트로폴리탄 오케스트라의](https://ko.wikipedia.org/wiki/런던_메트로폴리탄_오케스트라 "wikilink") 도움도 받았다.
+이 앨범은 평소와 다르게 만들어졌다. 밴드는 이 앨범을 "as Live"라는 이름으로 [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")의 "Pinewood Film Studios"에서 만들기로 결정했다. 그들은 또한 [런던 메트로폴리탄 오케스트라의](https://ko.wikipedia.org/wiki/런던_메트로폴리탄_오케스트라 "wikilink") 도움도 받았다.
 
 이 앨범은 12개의 음악을 담고있고, 세 개의 새 음악("Colombia", "Chance Meeting", "Something She Said")을 담고 있다. 나머지는 다른 앨범에서 재녹음된 것이다.
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [LSST](https://ko.wikipedia.org/wiki/LSST).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Close_up_of_Telescope_in_the_Dome.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Camera_LSST.jpg "wikilink").카메라 크기는 약 3m이고, 경차 크기 정도이다\]\] **대형 시놉틱 관측 망원경**(Large Synoptic Survey Telescope), 줄여서 **LSST**는 [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink") 중부의 체로 파촌(Cerro Pachon) 천체관측단지 내 해발 2682미터 위치에 설치될 예정인 구경 8.4미터의 대형 망원경, 또는 그것을 활용한 관측 계획을 가리킨다. 2015년에 공사가 시작되어 첫 번째 시험 가동은 2019년으로, 그리고 실제 관측은 2022년 부터 이루어질 것으로 예정되어있다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Close_up_of_Telescope_in_the_Dome.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Camera_LSST.jpg "wikilink").카메라 크기는 약 3m이고, 경차 크기 정도이다\]\] **대형 시놉틱 관측 망원경**(Large Synoptic Survey Telescope), 줄여서 **LSST**는 [칠레](../Page/칠레.md "wikilink") 중부의 체로 파촌(Cerro Pachon) 천체관측단지 내 해발 2682미터 위치에 설치될 예정인 구경 8.4미터의 대형 망원경, 또는 그것을 활용한 관측 계획을 가리킨다. 2015년에 공사가 시작되어 첫 번째 시험 가동은 2019년으로, 그리고 실제 관측은 2022년 부터 이루어질 것으로 예정되어있다.\[1\]
 
 ## 개요
 
-이 망원경에는 3.2기가[픽셀](https://ko.wikipedia.org/wiki/픽셀 "wikilink")이라는 초대형 카메라를 설치하여 대단히 넓은 시야를 확보하게 되어, 망원경설치장소에서 관측가능한 하늘 전체를 3일 만에 스캔하는 것이 가능하다. 이로써 우주 지도를 제작, 암흑물질과 암흑에너지의 정체를 밝히며 다양한 천체를 관측하는 것을 목적으로 하고 있다. **Synoptic**이란 [Synopsis와](https://ko.wikipedia.org/wiki/시놉시스 "wikilink") 어원이 같은 말로서 현장에서 실시간의 하늘을 담는다는 의미로 붙인 것이다. LSST가 관측한 데이터는 관측과 동시에 일반에게 즉시 공개되며, 1일당 카메라에서 추출될 것으로 예측되는 데이터의 분량은 15[테라바이트](https://ko.wikipedia.org/wiki/테라바이트 "wikilink")에 달하여, 많은 양의 자료를 잘 처리하기 위하여 [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")도 이 계획에 참가하고 있다.
+이 망원경에는 3.2기가[픽셀](https://ko.wikipedia.org/wiki/픽셀 "wikilink")이라는 초대형 카메라를 설치하여 대단히 넓은 시야를 확보하게 되어, 망원경설치장소에서 관측가능한 하늘 전체를 3일 만에 스캔하는 것이 가능하다. 이로써 우주 지도를 제작, 암흑물질과 암흑에너지의 정체를 밝히며 다양한 천체를 관측하는 것을 목적으로 하고 있다. **Synoptic**이란 [Synopsis와](https://ko.wikipedia.org/wiki/시놉시스 "wikilink") 어원이 같은 말로서 현장에서 실시간의 하늘을 담는다는 의미로 붙인 것이다. LSST가 관측한 데이터는 관측과 동시에 일반에게 즉시 공개되며, 1일당 카메라에서 추출될 것으로 예측되는 데이터의 분량은 15[테라바이트](https://ko.wikipedia.org/wiki/테라바이트 "wikilink")에 달하여, 많은 양의 자료를 잘 처리하기 위하여 [구글](../Page/구글.md "wikilink")도 이 계획에 참가하고 있다.
 
 ## 주요 목적
 
@@ -63,30 +63,30 @@
 
 ## 참여 기관
 
-[미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 기업, 대학교, 연구소 등 22개소가 협력하여 LSST Corporation이라는 비영리 회사를 설립, 100명이 넘는 과학자와 기술자들을 관리하여 프로젝트를 추진하고 개인 및 기관의 기금을 모으고 있다.
+[미국](../Page/미국.md "wikilink")의 기업, 대학교, 연구소 등 22개소가 협력하여 LSST Corporation이라는 비영리 회사를 설립, 100명이 넘는 과학자와 기술자들을 관리하여 프로젝트를 추진하고 개인 및 기관의 기금을 모으고 있다.
 
 창립 멤버는 **굵은 글씨**로 표시하였다.
 
   - 브룩헤이븐 국립연구소
   - [캘리포니아 공과대학](https://ko.wikipedia.org/wiki/캘리포니아_공과대학 "wikilink")
   - [콜럼비아 대학교](https://ko.wikipedia.org/wiki/콜럼비아_대학교 "wikilink")
-  - [구글](https://ko.wikipedia.org/wiki/구글 "wikilink") 주식회사
+  - [구글](../Page/구글.md "wikilink") 주식회사
   - 하버드-스미소니언 천체물리연구센터
   - [존스홉킨스 대학교](https://ko.wikipedia.org/wiki/존스홉킨스_대학교 "wikilink")
   - 스탠퍼드 대학교 KIPAC
   - Las Cumbres Observatory, Inc.
   - 로렌스 리버모어 국립연구소
   - **국립 광학천문관측소 연합**
-  - [펜실베이니아 주립 대학교](https://ko.wikipedia.org/wiki/펜실베이니아_주립_대학교 "wikilink")
-  - [프린스턴 대학교](https://ko.wikipedia.org/wiki/프린스턴_대학교 "wikilink")
+  - [펜실베이니아 주립 대학교](../Page/펜실베이니아_주립_대학교.md "wikilink")
+  - [프린스턴 대학교](../Page/프린스턴_대학교.md "wikilink")
   - [퍼듀 대학교](../Page/퍼듀_대학교.md "wikilink")
   - **Research Corporation**
   - [스탠퍼드 선형 가속기 센터](https://ko.wikipedia.org/wiki/스탠퍼드_선형_가속기_센터 "wikilink")
   - **아리조나 대학교**
-  - [캘리포니아 대학교 데이비스](https://ko.wikipedia.org/wiki/캘리포니아_대학교_데이비스 "wikilink")
+  - [캘리포니아 대학교 데이비스](../Page/캘리포니아_대학교_데이비스.md "wikilink")
   - [캘리포니아 대학교 얼바인](https://ko.wikipedia.org/wiki/캘리포니아_대학교_얼바인 "wikilink")
   - [일리노이 대학교 얼바나-샴페인](https://ko.wikipedia.org/wiki/일리노이_대학교_얼바나-샴페인 "wikilink")
-  - [펜실베이니아 대학교](https://ko.wikipedia.org/wiki/펜실베이니아_대학교 "wikilink")
+  - [펜실베이니아 대학교](../Page/펜실베이니아_대학교.md "wikilink")
   - 핏츠버그 대학교
   - **워싱턴 주립대학교**
 

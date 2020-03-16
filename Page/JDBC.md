@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JDBC](https://ko.wikipedia.org/wiki/JDBC).
 
 
-**JDBC**(Java Database Connectivity)는 [자바에서](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink")에 접속할 수 있도록 하는 [자바 API이다](https://ko.wikipedia.org/wiki/자바_API "wikilink"). JDBC는 데이터베이스에서 자료를 쿼리하거나 업데이트하는 방법을 제공한다.
+**JDBC**(Java Database Connectivity)는 [자바에서](../Page/자바_\(프로그래밍_언어\).md "wikilink") [데이터베이스](../Page/데이터베이스.md "wikilink")에 접속할 수 있도록 하는 [자바 API이다](https://ko.wikipedia.org/wiki/자바_API "wikilink"). JDBC는 데이터베이스에서 자료를 쿼리하거나 업데이트하는 방법을 제공한다.
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 JDBC 클래스는 [자바 패키지](../Page/자바_패키지.md "wikilink") java.sql과 javax.sql에 포함되어 있다.
 
-버전 3.1을 기점으로 JDBC는 [자바 커뮤니티 프로세스를](https://ko.wikipedia.org/wiki/자바_커뮤니티_프로세스 "wikilink") 통해 개발되고 있다. JSR 54는 JDBC 3.0을 규정(J2SE 1.4에 포함됨)하고, JSR 114는 JDBC Rowset addition을 규정하며, JSR 221은 JDBC 4.0의 사양(자바 SE 6에 포함됨)이다.\[2\]
+버전 3.1을 기점으로 JDBC는 [자바 커뮤니티 프로세스를](../Page/자바_커뮤니티_프로세스.md "wikilink") 통해 개발되고 있다. JSR 54는 JDBC 3.0을 규정(J2SE 1.4에 포함됨)하고, JSR 114는 JDBC Rowset addition을 규정하며, JSR 221은 JDBC 4.0의 사양(자바 SE 6에 포함됨)이다.\[2\]
 
 JDBC 4.1은 JSR 221의 유지보수판 1에 규정되어 있고\[3\], 자바 SE 7에 포함되어 있다.\[4\]
 
@@ -63,7 +63,7 @@ try (Statement stmt = conn.createStatement()) {
 
 ## JDBC 드라이버
 
-JDBC 드라이버들은 자바 프로그램의 요청을 DBMS가 이해할 수 있는 프로토콜로 변환해주는 클라이언트 사이드 [어댑터이다](https://ko.wikipedia.org/wiki/어댑터_패턴 "wikilink"). (서버가 아닌 클라이언트 머신에 설치)
+JDBC 드라이버들은 자바 프로그램의 요청을 DBMS가 이해할 수 있는 프로토콜로 변환해주는 클라이언트 사이드 [어댑터이다](../Page/어댑터_패턴.md "wikilink"). (서버가 아닌 클라이언트 머신에 설치)
 
 ### 타입
 

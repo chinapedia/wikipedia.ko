@@ -20,7 +20,7 @@ Vel.m/초</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/트라이나이트로톨루엔" title="wikilink">TNT</a></p></td>
+<td><p><a href="../Page/트라이나이트로톨루엔.md" title="wikilink">TNT</a></p></td>
 <td><p>1.654</p></td>
 <td><p>6,900</p></td>
 <td><p>1.00</p></td>
@@ -38,7 +38,7 @@ Vel.m/초</p></th>
 <td><p>0.42</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/ANFO" title="wikilink">ANFO</a>, 94.3%AN+5.7%FuelOil</p></td>
+<td><p><a href="../Page/ANFO.md" title="wikilink">ANFO</a>, 94.3%AN+5.7%FuelOil</p></td>
 <td><p>0.84</p></td>
 <td><p>5,270</p></td>
 <td><p>0.8</p></td>
@@ -122,7 +122,7 @@ Vel.m/초</p></th>
 <td><p>0.83</p></td>
 </tr>
 <tr class="even">
-<td><p>흑색 <a href="https://ko.wikipedia.org/wiki/화약" title="wikilink">화약</a>,75%KN+15%C+10%S</p></td>
+<td><p>흑색 <a href="../Page/화약.md" title="wikilink">화약</a>,75%KN+15%C+10%S</p></td>
 <td><p>1.7</p></td>
 <td><p>var.w/Sulfur</p></td>
 <td><p>0.55</p></td>
@@ -134,7 +134,7 @@ Vel.m/초</p></th>
 <td><p>2.04</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/HMX" title="wikilink">HMX</a></p></td>
+<td><p><a href="../Page/HMX.md" title="wikilink">HMX</a></p></td>
 <td><p>1.91</p></td>
 <td><p>9,100</p></td>
 <td><p>1.70</p></td>
@@ -170,7 +170,7 @@ Vel.m/초</p></th>
 <td><p>1.60</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/셈텍스" title="wikilink">셈텍스</a>, 94.3%PETN+5.7%RDX</p></td>
+<td><p><a href="../Page/셈텍스.md" title="wikilink">셈텍스</a>, 94.3%PETN+5.7%RDX</p></td>
 <td><p>1.776</p></td>
 <td><p>8,420</p></td>
 <td><p>1.66</p></td>

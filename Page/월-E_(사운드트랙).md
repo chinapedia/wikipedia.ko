@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [-E \(\)](https://ko.wikipedia.org/wiki/-E_\(\)).
 
 
-《**월-E**》(WALL•E: The Soundtrack)는 [같은 이름의](../Page/월-E.md "wikilink") 영화에 사용된 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 24일에](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") 발매되었다. [토머스 뉴맨이](https://ko.wikipedia.org/wiki/토머스_뉴맨 "wikilink") 주로 작곡했다.
+《**월-E**》(WALL•E: The Soundtrack)는 [같은 이름의](../Page/월-E.md "wikilink") 영화에 사용된 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")으로, [2008년](../Page/2008년.md "wikilink") [6월 24일에](../Page/6월_24일.md "wikilink") 발매되었다. [토머스 뉴맨이](https://ko.wikipedia.org/wiki/토머스_뉴맨 "wikilink") 주로 작곡했다.
 
 ## 트랙
 
@@ -42,7 +42,7 @@
 35. Desperate Eve
 36. Static
 37. It Only Takes a Moment - Michael Crawford
-38. Down to Earth\*\*\* - [피터 가브리엘의](https://ko.wikipedia.org/wiki/피터_가브리엘 "wikilink") 노래
+38. Down to Earth\*\*\* - [피터 가브리엘의](../Page/피터_가브리엘.md "wikilink") 노래
 39. Horizon 12.2
 
 <!-- end list -->

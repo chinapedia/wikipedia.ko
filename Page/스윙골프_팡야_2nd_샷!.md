@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  2nd !](https://ko.wikipedia.org/wiki/__2nd_!).
 
 
-《**스윙골프 팡야 2nd 샷\!**》(, )은 [엔트리브 소프트와](https://ko.wikipedia.org/wiki/엔트리브_소프트 "wikilink") 일본의 [테크모](https://ko.wikipedia.org/wiki/테크모 "wikilink")가 함께 개발한 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")용 스포츠 게임 소프트웨어이다. [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")의 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")의 출시에 맞춰서, 콘솔용으로 새롭게 출시되었다. 처음으로 [온라인 게임이](https://ko.wikipedia.org/wiki/온라인_게임 "wikilink") [비디오 게임으로](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink") 이식되는 게임 중 하나이다. 2006년 12월 2일 "[스윙 골프 팡야](https://ko.wikipedia.org/wiki/스윙_골프_팡야 "wikilink")"가 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink") [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")의 출시와 함께 일본에서 발매되었고, 원작국가인 대한민국에서는 2008년 4월 26일 wii 국내 런칭과 동시에 "스윙골프 팡야 2nd 샷\!"이라는 명칭으로 발매되었다.
+《**스윙골프 팡야 2nd 샷\!**》(, )은 [엔트리브 소프트와](../Page/엔트리브_소프트.md "wikilink") 일본의 [테크모](https://ko.wikipedia.org/wiki/테크모 "wikilink")가 함께 개발한 [Wii](../Page/Wii.md "wikilink")용 스포츠 게임 소프트웨어이다. [닌텐도](../Page/닌텐도.md "wikilink")의 [Wii](../Page/Wii.md "wikilink")의 출시에 맞춰서, 콘솔용으로 새롭게 출시되었다. 처음으로 [온라인 게임이](../Page/온라인_게임.md "wikilink") [비디오 게임으로](../Page/비디오_게임.md "wikilink") 이식되는 게임 중 하나이다. 2006년 12월 2일 "[스윙 골프 팡야](../Page/스윙_골프_팡야.md "wikilink")"가 [닌텐도](../Page/닌텐도.md "wikilink") [Wii](../Page/Wii.md "wikilink")의 출시와 함께 일본에서 발매되었고, 원작국가인 대한민국에서는 2008년 4월 26일 wii 국내 런칭과 동시에 "스윙골프 팡야 2nd 샷\!"이라는 명칭으로 발매되었다.
 
 ## 각주
 

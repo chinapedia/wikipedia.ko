@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The 3rd Masterpiece](https://ko.wikipedia.org/wiki/The_3rd_Masterpiece).
 
 
-《The 3rd Masterpiece》은 [SG 워너비의](https://ko.wikipedia.org/wiki/SG_워너비 "wikilink") 3집 앨범으로 2006년 4월 8일 발매했다. 2006년에 단일 음반으로는 가장 많은 판매량을 기록했으며 골든디스크 시상식에서 디지털음원대상과 엠넷 KM 뮤직 페스티벌에서 올해의 앨범상과 올해의 노래상을 수상한 앨범이다. 14번트랙은 [엠투엠](https://ko.wikipedia.org/wiki/엠투엠 "wikilink"), [김종국과](https://ko.wikipedia.org/wiki/김종국_\(가수\) "wikilink") 호흡을 맞춘 노래이고, 15번트랙은 [바이브](https://ko.wikipedia.org/wiki/바이브 "wikilink")와 호흡을 맞춘 노래이다.
+《The 3rd Masterpiece》은 [SG 워너비의](../Page/SG_워너비.md "wikilink") 3집 앨범으로 2006년 4월 8일 발매했다. 2006년에 단일 음반으로는 가장 많은 판매량을 기록했으며 골든디스크 시상식에서 디지털음원대상과 엠넷 KM 뮤직 페스티벌에서 올해의 앨범상과 올해의 노래상을 수상한 앨범이다. 14번트랙은 [엠투엠](https://ko.wikipedia.org/wiki/엠투엠 "wikilink"), [김종국과](../Page/김종국_\(가수\).md "wikilink") 호흡을 맞춘 노래이고, 15번트랙은 [바이브](https://ko.wikipedia.org/wiki/바이브 "wikilink")와 호흡을 맞춘 노래이다.
 
 ## 뮤직비디오
 
@@ -40,9 +40,9 @@
 11. 선인장
 12. I'm Sorry
 13. 웃다가 울다가
-14. Untouchable(Feat.[김종국](https://ko.wikipedia.org/wiki/김종국_\(가수\) "wikilink") [엠투엠](https://ko.wikipedia.org/wiki/엠투엠 "wikilink"))
-15. 바람과 함께 사라지다(Feat.[윤민수](https://ko.wikipedia.org/wiki/윤민수 "wikilink"))
+14. Untouchable(Feat.[김종국](../Page/김종국_\(가수\).md "wikilink") [엠투엠](https://ko.wikipedia.org/wiki/엠투엠 "wikilink"))
+15. 바람과 함께 사라지다(Feat.[윤민수](../Page/윤민수.md "wikilink"))
 
-2번 트랙 느림보에는 [김용준의](https://ko.wikipedia.org/wiki/김용준_\(가수\) "wikilink") 파트가 없다.
+2번 트랙 느림보에는 [김용준의](../Page/김용준_\(가수\).md "wikilink") 파트가 없다.
 
 [분류:SG 워너비의 음반](https://ko.wikipedia.org/wiki/분류:SG_워너비의_음반 "wikilink") [분류:엠넷 미디어 음반](https://ko.wikipedia.org/wiki/분류:엠넷_미디어_음반 "wikilink") [분류:2006년 음반](https://ko.wikipedia.org/wiki/분류:2006년_음반 "wikilink")

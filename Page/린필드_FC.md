@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**린필드 FC**(Linfield Football Club) 는 [북아일랜드](https://ko.wikipedia.org/wiki/북아일랜드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [1886년](https://ko.wikipedia.org/wiki/1886년 "wikilink")에 창단된 [NIFL 프리미어십의](../Page/NIFL_프리미어십.md "wikilink") 명문 구단이며 [북아일랜드 축구 국가대표팀과](../Page/북아일랜드_축구_국가대표팀.md "wikilink") 함께 [윈저 파크를](https://ko.wikipedia.org/wiki/윈저_파크 "wikilink") 홈 구장으로 사용하고 있다.
+**린필드 FC**(Linfield Football Club) 는 [북아일랜드](../Page/북아일랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1886년](../Page/1886년.md "wikilink")에 창단된 [NIFL 프리미어십의](../Page/NIFL_프리미어십.md "wikilink") 명문 구단이며 [북아일랜드 축구 국가대표팀과](../Page/북아일랜드_축구_국가대표팀.md "wikilink") 함께 [윈저 파크를](../Page/윈저_파크.md "wikilink") 홈 구장으로 사용하고 있다.
 
 ## 개요
 

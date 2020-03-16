@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Rude Awakening](https://ko.wikipedia.org/wiki/Rude_Awakening).
 
 
-《**Rude Awakening**》은 스래시 메탈 밴드 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink") 최초의 공식 라이브 앨범이다. 생츄어리 레코드에서 발매된 이 앨범은, 밴드가 해체하기 전인 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에 발매되었다.
+《**Rude Awakening**》은 스래시 메탈 밴드 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink") 최초의 공식 라이브 앨범이다. 생츄어리 레코드에서 발매된 이 앨범은, 밴드가 해체하기 전인 [2002년](../Page/2002년.md "wikilink")에 발매되었다.
 
-이 앨범은 본디 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")의 공연 실황을 담기로 예정되어 있었으나, [9·11 테러](https://ko.wikipedia.org/wiki/9·11_테러 "wikilink") 이후 해외로 나가는 것을 두려워하는 일부 로드 크루(라이브 공연의 인부)들 때문에, 미국 공연 실황이 기록되었다.
+이 앨범은 본디 [아르헨티나](../Page/아르헨티나.md "wikilink")의 공연 실황을 담기로 예정되어 있었으나, [9·11 테러](https://ko.wikipedia.org/wiki/9·11_테러 "wikilink") 이후 해외로 나가는 것을 두려워하는 일부 로드 크루(라이브 공연의 인부)들 때문에, 미국 공연 실황이 기록되었다.
 
 이 앨범의 곡은 밴드가 추구하였던 1980년대와 1990년대의 정통 메탈 음악을 주로 담고 있으며, 이러한 곡 구성에는 팬들의 투표 결과가 반영되어 있다.
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ REX](https://ko.wikipedia.org/wiki/_REX).
 
 
-《**코믹 REX**》(, )는 [이치진샤](https://ko.wikipedia.org/wiki/이치진샤 "wikilink")(구 스튜디오 DNA)에서 발행하는 월간 발행의 [만화 잡지이다](https://ko.wikipedia.org/wiki/만화_잡지 "wikilink").
+《**코믹 REX**》(, )는 [이치진샤](../Page/이치진샤.md "wikilink")(구 스튜디오 DNA)에서 발행하는 월간 발행의 [만화 잡지이다](https://ko.wikipedia.org/wiki/만화_잡지 "wikilink").
 
-현재 대한민국에는 [네이트](https://ko.wikipedia.org/wiki/네이트 "wikilink") 등에서 온라인 서비스 중이며, 현재 잡지 내 17개 작품이 서비스되고 있다.
+현재 대한민국에는 [네이트](../Page/네이트.md "wikilink") 등에서 온라인 서비스 중이며, 현재 잡지 내 17개 작품이 서비스되고 있다.
 
 ## 개요
 
@@ -27,7 +27,7 @@
   - 《가우가우 와\~타 2(ガウガウわー太2)》(우메카와 카즈미)(창간호-)※본편은 2006년 2월호부터
   - 《학원천국 파라독시아(学園天国パラドキシア)》(미카와 베루노)(창간호-)
   - 《카미아리(かみあり)》(染屋カイコ) - 부정기 연재(2007년 3월호, 2007년 10월호, 2008년 2월호, 2008년 6월호)
-  - 《[역습\!빠빠라대](https://ko.wikipedia.org/wiki/돌격!_빠빠라대 "wikilink") (逆襲\!パッパラ隊)》(마츠자와 나츠키)(2006년 7월호-)
+  - 《[역습\!빠빠라대](../Page/돌격!_빠빠라대.md "wikilink") (逆襲\!パッパラ隊)》(마츠자와 나츠키)(2006년 7월호-)
   - 《[신시아 더 미션](https://ko.wikipedia.org/wiki/신시아_더_미션 "wikilink")(CYNTHIA_THE_MISSION)》(타카도 루이)(창간호-2008년 10월호)
   - 《사립 채릉고교 초능력부(私立彩陵高校超能力部)》(이시다 아키라)(2006년 6월호-2008년 10월호)
   - 《白砂村》(이마이 가미)
@@ -48,7 +48,7 @@
 
 ### 연재종료(잡지 오리지널)
 
-  - 《[술래잡기](https://ko.wikipedia.org/wiki/술래잡기_\(만화\) "wikilink")(鬼ごっこ)》(쿠로마사 시세이)(2006년 3월호-2009년 5월호)
+  - 《[술래잡기](../Page/술래잡기_\(만화\).md "wikilink")(鬼ごっこ)》(쿠로마사 시세이)(2006년 3월호-2009년 5월호)
   - 《귀신공주(鬼姫)》(토가시 히데아키)(2006년 11월호-2007년 11월호)
   - 《黒地旅記－カオスアイル－》(ゆづか正成)
   - 《彼と彼女の境界線》(요리시로 토모유키) (연재도중 원작자 사망)
@@ -69,7 +69,7 @@
 
   - 《[아이돌 마스터 relations](https://ko.wikipedia.org/wiki/아이돌_마스터 "wikilink")(アイドルマスター relations)》(원작:반다이 남코 게임즈 작화:上田夢人)
   - 《SoltyRei -赤の淑女-》（각본:キムラノボル 작화:瀧宮一隆）
-  - 《[동방맹월초 \~ Silent Sinner in Blue.](https://ko.wikipedia.org/wiki/동방맹월초 "wikilink")(東方儚月抄 \~ Silent Sinner in Blue.)》(원작:ZUN　작화:아키에다)(2007년 7월호-2009년 5월호) : 국내 정발
+  - 《[동방맹월초 \~ Silent Sinner in Blue.](../Page/동방맹월초.md "wikilink")(東方儚月抄 \~ Silent Sinner in Blue.)》(원작:ZUN　작화:아키에다)(2007년 7월호-2009년 5월호) : 국내 정발
 
 ### 휴재중
 

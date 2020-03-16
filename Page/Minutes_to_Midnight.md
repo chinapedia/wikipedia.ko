@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Minutes to Midnight](https://ko.wikipedia.org/wiki/Minutes_to_Midnight).
 
 
-***Minutes to Midnight***은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [린킨 파크의](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink") 세 번째 정규 음반이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 14일에](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") 발매하였으며 발매 후 [미국](../Page/빌보드_200.md "wikilink"), [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")과 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")를 포함한 기타 15 국가 차트에서 1위로 차트에 데뷔하였다.\[1\]. 음반의 프로듀싱은 [마이크 시노다와](../Page/마이크_시노다.md "wikilink") [릭 루빈이](https://ko.wikipedia.org/wiki/릭_루빈 "wikilink") 맡았다.
+***Minutes to Midnight***은 [미국](../Page/미국.md "wikilink") [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [린킨 파크의](../Page/린킨_파크.md "wikilink") 세 번째 정규 음반이다. [2007년](../Page/2007년.md "wikilink") [5월 14일에](../Page/5월_14일.md "wikilink") 발매하였으며 발매 후 [미국](../Page/빌보드_200.md "wikilink"), [영국](../Page/영국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")를 포함한 기타 15 국가 차트에서 1위로 차트에 데뷔하였다.\[1\]. 음반의 프로듀싱은 [마이크 시노다와](../Page/마이크_시노다.md "wikilink") [릭 루빈이](https://ko.wikipedia.org/wiki/릭_루빈 "wikilink") 맡았다.
 
-린킨 파크는 정규 3집 음반 작업을 2003년부터 시작했으나, 2004년 *[Meteora](../Page/Meteora.md "wikilink")* 투어와 이후 마이크 시노다의 [포트 마이너](https://ko.wikipedia.org/wiki/포트_마이너 "wikilink"), [체스터 베닝턴의](../Page/체스터_베닝턴.md "wikilink") [데드 바이 선라이즈](https://ko.wikipedia.org/wiki/데드_바이_선라이즈 "wikilink") 등 멤버들의 사이드 프로젝트로 인해 작업을 연기하였다. 이후 활동을 마치고 릭 루빈과 마이크 시노다가 음반의 프로듀싱을 맡으며 작업을 시작했다. 이후 좀 더 음악적인 방향을 바꾸는데 의의를 두고 음반 제작 중 시행착오를 겪으며 음반 발매를 연기하였다. 이후 믹싱 작업과 추가 녹음 작업, 음반의 자켓 작업을 거쳐 [2007년 4월](../Page/2007년_4월.md "wikilink"), 첫 번째 싱글로 "[What I've Done](https://ko.wikipedia.org/wiki/What_I've_Done "wikilink")"을 발매하였다. 이후 [5월 14일에](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") 정규 음반을 발매하였다.
+린킨 파크는 정규 3집 음반 작업을 2003년부터 시작했으나, 2004년 *[Meteora](../Page/Meteora.md "wikilink")* 투어와 이후 마이크 시노다의 [포트 마이너](../Page/포트_마이너.md "wikilink"), [체스터 베닝턴의](../Page/체스터_베닝턴.md "wikilink") [데드 바이 선라이즈](../Page/데드_바이_선라이즈.md "wikilink") 등 멤버들의 사이드 프로젝트로 인해 작업을 연기하였다. 이후 활동을 마치고 릭 루빈과 마이크 시노다가 음반의 프로듀싱을 맡으며 작업을 시작했다. 이후 좀 더 음악적인 방향을 바꾸는데 의의를 두고 음반 제작 중 시행착오를 겪으며 음반 발매를 연기하였다. 이후 믹싱 작업과 추가 녹음 작업, 음반의 자켓 작업을 거쳐 [2007년 4월](../Page/2007년_4월.md "wikilink"), 첫 번째 싱글로 "[What I've Done](../Page/What_I've_Done.md "wikilink")"을 발매하였다. 이후 [5월 14일에](../Page/5월_14일.md "wikilink") 정규 음반을 발매하였다.
 
 발매 후 미국을 비롯한 뉴질랜드, 이탈리아, 아일랜드, 오스트레일리아에서 [더블 플래티넘을](../Page/음반_판매량_인증.md "wikilink"), 캐나다와 프랑스, 스위스, 영국에서는 [플래티넘을](../Page/음반_판매량_인증.md "wikilink") 기록하였다.\[2\].
 
@@ -11,9 +11,9 @@
 
 ## 발매
 
-*Minutes to Midnight*는 발매 전 여러 차례 발매 일정이 연기되었다. 애당초 음반 발매를 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 여름에 발매하려고 했으나, 이후 2006년 가을로 연기하였다가 또 다시 2007년 초로 연기하였다. 최종적으로 음반의 발매일을 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 14일로](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") 정하였고, [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서는 보다 하루 늦은 [5월 15일에](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") 발매되었다.
+*Minutes to Midnight*는 발매 전 여러 차례 발매 일정이 연기되었다. 애당초 음반 발매를 [2006년](../Page/2006년.md "wikilink") 여름에 발매하려고 했으나, 이후 2006년 가을로 연기하였다가 또 다시 2007년 초로 연기하였다. 최종적으로 음반의 발매일을 [2007년](../Page/2007년.md "wikilink") [5월 14일로](../Page/5월_14일.md "wikilink") 정하였고, [캐나다](../Page/캐나다.md "wikilink")에서는 보다 하루 늦은 [5월 15일에](../Page/5월_15일.md "wikilink") 발매되었다.
 
-[미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서는 음반을 발매한 첫 주에 62만 5천장을 판매하였으며, 전 세계적으로는 발매 후 4주까지 330만장의 판매고를 기록하였다.\[5\]
+[미국](../Page/미국.md "wikilink")에서는 음반을 발매한 첫 주에 62만 5천장을 판매하였으며, 전 세계적으로는 발매 후 4주까지 330만장의 판매고를 기록하였다.\[5\]
 
 ## 수록곡
 
@@ -62,7 +62,7 @@
 
 ## 싱글
 
-음반을 발매한 후 "[What I've Done](https://ko.wikipedia.org/wiki/What_I've_Done "wikilink")"을 시작으로 "[Bleed It Out](https://ko.wikipedia.org/wiki/Bleed_It_Out "wikilink")", "[Shadow of the Day](https://ko.wikipedia.org/wiki/Shadow_of_the_Day "wikilink")", "[Given Up](https://ko.wikipedia.org/wiki/Given_Up "wikilink")", "[Leave Out All the Rest까지](https://ko.wikipedia.org/wiki/Leave_Out_All_the_Rest "wikilink") 음반에서 총 다섯 개의 싱글 음반을 발매했다.
+음반을 발매한 후 "[What I've Done](../Page/What_I've_Done.md "wikilink")"을 시작으로 "[Bleed It Out](https://ko.wikipedia.org/wiki/Bleed_It_Out "wikilink")", "[Shadow of the Day](https://ko.wikipedia.org/wiki/Shadow_of_the_Day "wikilink")", "[Given Up](https://ko.wikipedia.org/wiki/Given_Up "wikilink")", "[Leave Out All the Rest까지](https://ko.wikipedia.org/wiki/Leave_Out_All_the_Rest "wikilink") 음반에서 총 다섯 개의 싱글 음반을 발매했다.
 
 이 중 "Given Up"과 "Leave Out All the Rest"는 [2008년 3월까지](../Page/2008년_3월.md "wikilink") 싱글 음반으로 발매되지 않았음에도 불구하고, "Given Up"은 정규 음반 발매 직후인 2007년에 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트와 [빌보드 팝 100](https://ko.wikipedia.org/wiki/빌보드_팝_100 "wikilink") 차트에서 각각 99위와 78위에 올랐다. 또한 "Leave Out All the Rest"는 2007년에 이미 빌보드 팝 100 차트에서 98위에 올랐으며 이어 빌보드 버블링 언더 핫 100 싱글 차트에서 17위를 기록하였다.
 
@@ -86,7 +86,7 @@ Alt.<br />
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p>"<a href="https://ko.wikipedia.org/wiki/What_I&#39;ve_Done" title="wikilink">What I've Done</a>" <small>(<a href="https://ko.wikipedia.org/wiki/RIAA" title="wikilink">2x Platinum</a>)</small></p></td>
+<td><p>"<a href="../Page/What_I&#39;ve_Done.md" title="wikilink">What I've Done</a>" <small>(<a href="https://ko.wikipedia.org/wiki/RIAA" title="wikilink">2x Platinum</a>)</small></p></td>
 <td><p>7</p></td>
 </tr>
 <tr class="odd">
@@ -114,8 +114,8 @@ Alt.<br />
 
 ## 기타
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink"), 《[기타 히어로3 : 레전드 오브 락](https://ko.wikipedia.org/wiki/기타_히어로3_:_레전드_오브_락 "wikilink")》 워너브라더스 레코드 팩에 "No More Sorrow"가 수록되었다.
-  - "[What I've Done](https://ko.wikipedia.org/wiki/What_I've_Done "wikilink")"이 《기타 히어로 월드 투어》에 수록되었으며 또한 영화 《[트랜스포머](https://ko.wikipedia.org/wiki/트랜스포머_\(2007년_영화\) "wikilink")》에 수록되었다.
+  - [2007년](../Page/2007년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"), 《[기타 히어로3 : 레전드 오브 락](https://ko.wikipedia.org/wiki/기타_히어로3_:_레전드_오브_락 "wikilink")》 워너브라더스 레코드 팩에 "No More Sorrow"가 수록되었다.
+  - "[What I've Done](../Page/What_I've_Done.md "wikilink")"이 《기타 히어로 월드 투어》에 수록되었으며 또한 영화 《[트랜스포머](https://ko.wikipedia.org/wiki/트랜스포머_\(2007년_영화\) "wikilink")》에 수록되었다.
   - "[Leave Out All the Rest](https://ko.wikipedia.org/wiki/Leave_Out_All_the_Rest "wikilink")"는 영화 《[트와일라잇](https://ko.wikipedia.org/wiki/트와일라잇_\(2008년_영화\) "wikilink")》에 삽입되었으며 영화 사운드트랙에도 수록되었다.
   - "[Given Up](https://ko.wikipedia.org/wiki/Given_Up "wikilink")"은 영화 《아드레날린 24》의 예고편에 삽입되었으며 또한 영화에서는 체스터 베닝턴이 카메오 출연을 하였다. 그리고 비디오 게임 《록 레볼루션》에 마스터 트랙으로 삽입되었다.
   - [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 TV 프로그램 쇼인 《커밍 오브 에이지》에 CD가 나온다.
@@ -128,10 +128,10 @@ Alt.<br />
 <!-- end list -->
 
   - [체스터 베닝턴](../Page/체스터_베닝턴.md "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
-  - [롭 버든](https://ko.wikipedia.org/wiki/롭_버든 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"),
+  - [롭 버든](../Page/롭_버든.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"),
   - [브래드 델슨](../Page/브래드_델슨.md "wikilink") – [리드 기타](https://ko.wikipedia.org/wiki/전자_기타 "wikilink"), 대선 작곡 (트랙 3, 5, 7, 12)
-  - [데이비드 "피닉스" 파렐](https://ko.wikipedia.org/wiki/데이비드_"피닉스"_파렐 "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"),
-  - [조셉 한](https://ko.wikipedia.org/wiki/조셉_한 "wikilink") – [턴테이블](https://ko.wikipedia.org/wiki/턴테이블리즘 "wikilink"), [신시사이저](https://ko.wikipedia.org/wiki/신시사이저 "wikilink"), 프로그래밍, 샘플링
+  - [데이비드 "피닉스" 파렐](https://ko.wikipedia.org/wiki/데이비드_"피닉스"_파렐 "wikilink") – [베이스](../Page/베이스_기타.md "wikilink"),
+  - [조셉 한](https://ko.wikipedia.org/wiki/조셉_한 "wikilink") – [턴테이블](../Page/턴테이블리즘.md "wikilink"), [신시사이저](../Page/신시사이저.md "wikilink"), 프로그래밍, 샘플링
   - [마이크 시노다](../Page/마이크_시노다.md "wikilink") – 리드 보컬, [리듬 기타](https://ko.wikipedia.org/wiki/전자_기타 "wikilink"), [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 백킹 보컬, 녹음 프로듀서, 대선 작곡 (트랙 3, 5, 7, 12)
 
 <!-- end list -->
@@ -158,7 +158,7 @@ Alt.<br />
 
   - 데이비드 캠벨 – 대선 작곡 및 지휘 (트랙 3, 5, 7, 12)
   - 오스카 하이델고 – [베이스](https://ko.wikipedia.org/wiki/더블_베이스 "wikilink") (트랙 3, 5, 7, 12)
-  - 아르멘 가라베디안 – [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink") (트랙 3, 5, 7, 12)
+  - 아르멘 가라베디안 – [바이올린](../Page/바이올린.md "wikilink") (트랙 3, 5, 7, 12)
   - 찰리 바이셔렛 – 바이올린 (트랙 3, 5, 7, 12)
   - 게리 힐레라 – 바이올린 (트랙 3, 5, 7, 12)
   - 조세피나 베르가라 – 바이올린 (트랙 3, 5, 7, 12)
@@ -167,9 +167,9 @@ Alt.<br />
   - 나탈리 리그렛 – 바이올린 (트랙 3, 5, 7, 12)
   - 사라 파킨스 – 바이올린 (트랙 3, 5, 7, 12)
   - 송아 리 킷토 – 바이올린 (트랙 3, 5, 7, 12)
-  - 앤드류 픽큰 – [비올라](https://ko.wikipedia.org/wiki/비올라 "wikilink") (트랙 3, 5, 7, 12)
+  - 앤드류 픽큰 – [비올라](../Page/비올라.md "wikilink") (트랙 3, 5, 7, 12)
   - 맷 퓨네스 – 비올라 (트랙 3, 5, 7, 12)
-  - 래리 코버트 – [첼로](https://ko.wikipedia.org/wiki/첼로 "wikilink") (트랙 3, 5, 7, 12)
+  - 래리 코버트 – [첼로](../Page/첼로.md "wikilink") (트랙 3, 5, 7, 12)
   - 수지 카타야마 – 첼로 (트랙 3, 5, 7, 12)
 
 ## 각주

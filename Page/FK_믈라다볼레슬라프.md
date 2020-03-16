@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
 
 
-**FK 믈라다볼레슬라프**는 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 센트럴 보헤미안 지방의 [믈라다볼레슬라프](https://ko.wikipedia.org/wiki/믈라다볼레슬라프 "wikilink")를 연고로 하고 있다.
+**FK 믈라다볼레슬라프**는 [체코](../Page/체코.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 센트럴 보헤미안 지방의 [믈라다볼레슬라프](../Page/믈라다볼레슬라프.md "wikilink")를 연고로 하고 있다.
 
-믈라다볼레슬라프는 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink")가 독립한 뒤부터 4부리그에서 시작하였고 1996-97시즌에 4부리그 우승을 통해 3부리그의 두 디비전 가운데 하나인 체코 풋볼리그에 올라가 한 시즌만에 2부리그로 승격하였다. 2부리그에서 한동안 보내던 믈라다볼레슬라프는 2003-04 시즌에 2부 리그 우승을 차지하며 [감브리누스 리가에](https://ko.wikipedia.org/wiki/감브리누스_리가 "wikilink") 올라가게 되었다.
+믈라다볼레슬라프는 [체코](../Page/체코.md "wikilink")가 독립한 뒤부터 4부리그에서 시작하였고 1996-97시즌에 4부리그 우승을 통해 3부리그의 두 디비전 가운데 하나인 체코 풋볼리그에 올라가 한 시즌만에 2부리그로 승격하였다. 2부리그에서 한동안 보내던 믈라다볼레슬라프는 2003-04 시즌에 2부 리그 우승을 차지하며 [감브리누스 리가에](https://ko.wikipedia.org/wiki/감브리누스_리가 "wikilink") 올라가게 되었다.
 
 2008-09 시즌이 끝난 현재 믈라다볼레슬라프는 리그 6위를 차지하였다.
 
@@ -15,19 +15,19 @@
 
 ## 클럽명의 변화
 
-  - [1902년](https://ko.wikipedia.org/wiki/1902년 "wikilink") - **SSK 믈라다볼레슬라프** (Studentský sportovní klub Mladá Boleslav)
-  - [1910년](https://ko.wikipedia.org/wiki/1910년 "wikilink") - **믈라도볼레슬라브스키 SK** (Mladoboleslavský Sportovní klub)
-  - [1919년](https://ko.wikipedia.org/wiki/1919년 "wikilink") - **애스턴 빌라 믈라다볼레슬라프** (Aston Villa Mladá Boleslav)
-  - [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink") - **소콜 애스턴 빌라 믈라다볼레슬라프** (Sokol Aston Villa Mladá Boleslav)
-  - [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink") - **ZSJ AZNP 믈라다볼레슬라프** (Základní sportovní jednota Automobilové závody národní podnik Mladá Boleslav) : 소콜 애스턴 빌라 믈라다볼레슬라프와 소콜 메테어 체예티츠키(Sokol Meteor Čejetičky)의 통합
-  - [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") - 소콜 믈라도볼레슬라브스키(Sokol Mladoboleslavský)와 통합
-  - [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") - **TJ 스파르타크 믈라다볼레슬라프 AZNP** (Tělovýchovná jednota Spartak Mladá Boleslav Automobilové závody národní podnik)
-  - [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") - **TJ 스코다 믈라다볼레슬라프** (Tělovýchovná jednota Škoda Mladá Boleslav)
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") - **TJ AS 믈라다볼레슬라프** (Tělovýchovná jednota Auto Škoda Mladá Boleslav)
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") - **FK 믈라다 볼레슬라프** (Fotbalový klub Mladá Boleslav)
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") - **FK 슬라비아 믈라다볼레슬라프** (Fotbalový klub Slavia Mladá Boleslav)
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") - **FK 보헤미언스 믈라다볼레슬라프** (Fotbalový klub Bohemians Mladá Boleslav)
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") - **FK 믈라다볼레슬라프** (Fotbalový klub Mladá Boleslav)
+  - [1902년](../Page/1902년.md "wikilink") - **SSK 믈라다볼레슬라프** (Studentský sportovní klub Mladá Boleslav)
+  - [1910년](../Page/1910년.md "wikilink") - **믈라도볼레슬라브스키 SK** (Mladoboleslavský Sportovní klub)
+  - [1919년](../Page/1919년.md "wikilink") - **애스턴 빌라 믈라다볼레슬라프** (Aston Villa Mladá Boleslav)
+  - [1948년](../Page/1948년.md "wikilink") - **소콜 애스턴 빌라 믈라다볼레슬라프** (Sokol Aston Villa Mladá Boleslav)
+  - [1949년](../Page/1949년.md "wikilink") - **ZSJ AZNP 믈라다볼레슬라프** (Základní sportovní jednota Automobilové závody národní podnik Mladá Boleslav) : 소콜 애스턴 빌라 믈라다볼레슬라프와 소콜 메테어 체예티츠키(Sokol Meteor Čejetičky)의 통합
+  - [1950년](../Page/1950년.md "wikilink") - 소콜 믈라도볼레슬라브스키(Sokol Mladoboleslavský)와 통합
+  - [1959년](../Page/1959년.md "wikilink") - **TJ 스파르타크 믈라다볼레슬라프 AZNP** (Tělovýchovná jednota Spartak Mladá Boleslav Automobilové závody národní podnik)
+  - [1965년](../Page/1965년.md "wikilink") - **TJ 스코다 믈라다볼레슬라프** (Tělovýchovná jednota Škoda Mladá Boleslav)
+  - [1971년](../Page/1971년.md "wikilink") - **TJ AS 믈라다볼레슬라프** (Tělovýchovná jednota Auto Škoda Mladá Boleslav)
+  - [1990년](../Page/1990년.md "wikilink") - **FK 믈라다 볼레슬라프** (Fotbalový klub Mladá Boleslav)
+  - [1992년](../Page/1992년.md "wikilink") - **FK 슬라비아 믈라다볼레슬라프** (Fotbalový klub Slavia Mladá Boleslav)
+  - [1994년](../Page/1994년.md "wikilink") - **FK 보헤미언스 믈라다볼레슬라프** (Fotbalový klub Bohemians Mladá Boleslav)
+  - [1995년](../Page/1995년.md "wikilink") - **FK 믈라다볼레슬라프** (Fotbalový klub Mladá Boleslav)
 
 ## 역대 성적
 

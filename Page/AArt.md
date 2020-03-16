@@ -3,7 +3,7 @@
 
 **AArt**는 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 11번째 앨범이다. 이 앨범은 다른 스튜디오 음반보다 많은 14개의 음악을 담고 있다.
 
-[The Beautiful Game에](https://ko.wikipedia.org/wiki/The_Beautiful_Game "wikilink") 이은 급진적이고 강제적인 변화로, (주:이 시기에 유통사가 EMI에서 Higher Octave Music로 바뀌었다) 이 음반도 앞의 앨범처럼 다양하게 음색을 섞으며 장르 또한 변화를 받게되고, 특히 색소폰 연주자 [The Rippingtons소속이던](https://ko.wikipedia.org/wiki/The_Rippingtons "wikilink") [Jeff Kashiwa를](https://ko.wikipedia.org/wiki/Jeff_Kashiwa "wikilink") 영입함으로써 "AArt Attack"이라는 음악에 영향을 준다.
+[The Beautiful Game에](../Page/The_Beautiful_Game.md "wikilink") 이은 급진적이고 강제적인 변화로, (주:이 시기에 유통사가 EMI에서 Higher Octave Music로 바뀌었다) 이 음반도 앞의 앨범처럼 다양하게 음색을 섞으며 장르 또한 변화를 받게되고, 특히 색소폰 연주자 [The Rippingtons소속이던](https://ko.wikipedia.org/wiki/The_Rippingtons "wikilink") [Jeff Kashiwa를](https://ko.wikipedia.org/wiki/Jeff_Kashiwa "wikilink") 영입함으로써 "AArt Attack"이라는 음악에 영향을 준다.
 
 ## 트랙 목록
 

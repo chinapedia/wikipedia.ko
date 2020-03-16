@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
 
 
-**FK 사라예보**([보스니아어](https://ko.wikipedia.org/wiki/보스니아어 "wikilink"): Fudbalski klub Sarajevo)는 [보스니아 헤르체고비나의](https://ko.wikipedia.org/wiki/보스니아_헤르체고비나 "wikilink") 축구 클럽이다. 이 클럽은 [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") 수도 [사라예보](https://ko.wikipedia.org/wiki/사라예보 "wikilink")를 연고지로 하여 만들어졌다. 이 클럽은 유고슬라비아 1부리그를 두번 우승한 가장 성공적인 보스니아계 클럽이다. 현재에는 두번의 리그 우승과 네번의 컵대회 우승 기록을 가지고 있다.
+**FK 사라예보**([보스니아어](../Page/보스니아어.md "wikilink"): Fudbalski klub Sarajevo)는 [보스니아 헤르체고비나의](../Page/보스니아_헤르체고비나.md "wikilink") 축구 클럽이다. 이 클럽은 [1946년](../Page/1946년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") 수도 [사라예보](../Page/사라예보.md "wikilink")를 연고지로 하여 만들어졌다. 이 클럽은 유고슬라비아 1부리그를 두번 우승한 가장 성공적인 보스니아계 클럽이다. 현재에는 두번의 리그 우승과 네번의 컵대회 우승 기록을 가지고 있다.
 
 ## 유명 선수
 
-  - [알렉세이 프루드니코프](https://ko.wikipedia.org/wiki/알렉세이_프루드니코프 "wikilink")
+  - [알렉세이 프루드니코프](../Page/알렉세이_프루드니코프.md "wikilink")
 
 ## 역대 성적
 
-  - **[유고슬라비아 1부 리그](https://ko.wikipedia.org/wiki/유고슬라비아_1부_리그 "wikilink")**
+  - **[유고슬라비아 1부 리그](../Page/유고슬라비아_1부_리그.md "wikilink")**
 
 <!-- end list -->
 

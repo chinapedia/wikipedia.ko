@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [-E](https://ko.wikipedia.org/wiki/-E).
 
 
-《**월-E**》()는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [픽사](https://ko.wikipedia.org/wiki/픽사 "wikilink")가 제작한 컴퓨터 그래픽 SF [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 영화이다. 이 애니메이션은 미래의 두 [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink")의 로맨스를 다루고 있으며, 제일 먼저 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 27일에](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 개봉되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 31일에](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") 개봉될 예정이었다가 《[미이라 3](https://ko.wikipedia.org/wiki/미이라_3 "wikilink")》가 [7월 24일에서](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") [7월 31일로](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") 개봉이 연기되면서 [8월 6일로](https://ko.wikipedia.org/wiki/8월_6일 "wikilink") 연기되어 개봉했다. 필름자막, 필름더빙, 디지털자막, 디지털더빙 총 네 종류로 상영되었다.
+《**월-E**》()는 [2008년](../Page/2008년.md "wikilink") [픽사](../Page/픽사.md "wikilink")가 제작한 컴퓨터 그래픽 SF [애니메이션](../Page/애니메이션.md "wikilink") 영화이다. 이 애니메이션은 미래의 두 [로봇](../Page/로봇.md "wikilink")의 로맨스를 다루고 있으며, 제일 먼저 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [6월 27일에](../Page/6월_27일.md "wikilink") 개봉되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [2008년](../Page/2008년.md "wikilink") [7월 31일에](../Page/7월_31일.md "wikilink") 개봉될 예정이었다가 《[미이라 3](https://ko.wikipedia.org/wiki/미이라_3 "wikilink")》가 [7월 24일에서](../Page/7월_24일.md "wikilink") [7월 31일로](../Page/7월_31일.md "wikilink") 개봉이 연기되면서 [8월 6일로](../Page/8월_6일.md "wikilink") 연기되어 개봉했다. 필름자막, 필름더빙, 디지털자막, 디지털더빙 총 네 종류로 상영되었다.
 
-감독은 [아카데미상](https://ko.wikipedia.org/wiki/아카데미상 "wikilink")을 수상한 《[니모를 찾아서](https://ko.wikipedia.org/wiki/니모를_찾아서 "wikilink")》를 만들었던 [앤드루 스탠턴이다](https://ko.wikipedia.org/wiki/앤드루_스탠턴 "wikilink"). 영화에 등장하는 많은 캐릭터들은 사람의 소리를 내지 않지만, 벤 버트가 만들어낸 소리를 통해 의사소통한다. 월-E는 "Waste Allocation Load Lifter - Earth class"(지구 폐기물 수거·처리용 로봇)의 약자이다.
+감독은 [아카데미상](../Page/아카데미상.md "wikilink")을 수상한 《[니모를 찾아서](../Page/니모를_찾아서.md "wikilink")》를 만들었던 [앤드루 스탠턴이다](../Page/앤드루_스탠턴.md "wikilink"). 영화에 등장하는 많은 캐릭터들은 사람의 소리를 내지 않지만, 벤 버트가 만들어낸 소리를 통해 의사소통한다. 월-E는 "Waste Allocation Load Lifter - Earth class"(지구 폐기물 수거·처리용 로봇)의 약자이다.
 
-《월-E》는 27\~29일 미국 전역 3천 992개 스크린에서 6천 250만 달러의 수익금을 거둬들였다. 이는 경쟁작 [드림웍스](https://ko.wikipedia.org/wiki/드림웍스 "wikilink")의 《[쿵푸 팬더](https://ko.wikipedia.org/wiki/쿵푸_팬더 "wikilink")》 개봉 수입금을 앞선다.\[1\]
+《월-E》는 27\~29일 미국 전역 3천 992개 스크린에서 6천 250만 달러의 수익금을 거둬들였다. 이는 경쟁작 [드림웍스](../Page/드림웍스.md "wikilink")의 《[쿵푸 팬더](../Page/쿵푸_팬더.md "wikilink")》 개봉 수입금을 앞선다.\[1\]
 
 이 영화를 바탕으로 다양한 상품도 출시되었는데, THQ에서 게임을 제작했고, 기타 출판사에서는 소설판도 출시했다.
 
@@ -17,21 +17,21 @@
 
   - **월-E(WALL-E, Waste Allocation Load Lifter - Earth Class)**
 
-성우:벤 버트/[류다무현](https://ko.wikipedia.org/wiki/류다무현 "wikilink")
+성우:벤 버트/[류다무현](../Page/류다무현.md "wikilink")
 
-이 영화의 주인공, 가상의 회사 바이 앤 라지(Buy N Large)가 개발한 돌아다니면서 쓰레기를 모아 압축하는 로봇들 중 마지막 로봇. 이브를 만나 짝사랑하게 된다. 참고로 월-E가 태양광 전지를 충전한 후에 나는 소리는 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [매킨토시](https://ko.wikipedia.org/wiki/매킨토시 "wikilink")의 시동음이다. 이름은 주인공 로봇만의 이름이 아니라 일종의 모델명이다.\[2\]
+이 영화의 주인공, 가상의 회사 바이 앤 라지(Buy N Large)가 개발한 돌아다니면서 쓰레기를 모아 압축하는 로봇들 중 마지막 로봇. 이브를 만나 짝사랑하게 된다. 참고로 월-E가 태양광 전지를 충전한 후에 나는 소리는 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [매킨토시](../Page/매킨토시.md "wikilink")의 시동음이다. 이름은 주인공 로봇만의 이름이 아니라 일종의 모델명이다.\[2\]
 
   - **모(M-O, Microbe-Obliterator)**
 
-성우:벤 버트/[서문석](https://ko.wikipedia.org/wiki/서문석 "wikilink")
+성우:벤 버트/[서문석](../Page/서문석.md "wikilink")
 
 이 로봇은 우주선에 들어오는 모든 로봇의 외부 오염 물질을 청소하는 역할을 맡는다. 청소로봇이기에 결벽증같은 모습도 보인다.
 
   - **이브(EVE, Extraterrestrial Vegetation Evaluator)**
 
-성우:앨리사 나이트/[김서영](https://ko.wikipedia.org/wiki/김서영_\(성우\) "wikilink")
+성우:앨리사 나이트/[김서영](../Page/김서영_\(성우\).md "wikilink")
 
-매끄럽고 인체 공학적으로 설계된 이 탐사 로봇의 주 임무는 지구에 사람이 살기 적합한지 판단하기 위해 식물을 찾는 것이다. 이 로봇에는 스캐너와 오른쪽 팔에 플라즈마 캐논이 장착되어 있다. 이 로봇은 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [아이팟](https://ko.wikipedia.org/wiki/아이팟 "wikilink")의 영향을 받아 그려졌다.\[3\]
+매끄럽고 인체 공학적으로 설계된 이 탐사 로봇의 주 임무는 지구에 사람이 살기 적합한지 판단하기 위해 식물을 찾는 것이다. 이 로봇에는 스캐너와 오른쪽 팔에 플라즈마 캐논이 장착되어 있다. 이 로봇은 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [아이팟](../Page/아이팟.md "wikilink")의 영향을 받아 그려졌다.\[3\]
 
   - **B. 맥크리(B. McCrea)**
 
@@ -41,7 +41,7 @@
 
   - **오토(AUTO)**
 
-성우:[애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [매킨토시](https://ko.wikipedia.org/wiki/매킨토시 "wikilink")에 내장된 문자를 소리로 읽어주는 [보이스오버](https://ko.wikipedia.org/wiki/보이스오버 "wikilink")의 전신인 **매킨토크**가 사용됨 /[시영준](../Page/시영준.md "wikilink")
+성우:[애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [매킨토시](../Page/매킨토시.md "wikilink")에 내장된 문자를 소리로 읽어주는 [보이스오버](https://ko.wikipedia.org/wiki/보이스오버 "wikilink")의 전신인 **매킨토크**가 사용됨 /[시영준](../Page/시영준.md "wikilink")
 
 악역으로, [2001 스페이스 오디세이의](https://ko.wikipedia.org/wiki/2001_스페이스_오디세이 "wikilink") [HAL9000](https://ko.wikipedia.org/wiki/HAL9000 "wikilink")을 연상시키는 한 개의 빨간 눈이 있으며, 지구 귀환 프로젝트인 '작전 A-113'이 BnL CEO 셸비 포스라이트에 의해 취소됨에 따라 이브가 발견한 식물을 없애려고 한다.
 
@@ -65,7 +65,7 @@
 
 그외
 
-  - 엑시엄의 컴퓨터 목소리 -[시고니 위버](https://ko.wikipedia.org/wiki/시고니_위버 "wikilink")
+  - 엑시엄의 컴퓨터 목소리 -[시고니 위버](../Page/시고니_위버.md "wikilink")
 
 ## 반응
 
@@ -77,11 +77,11 @@
 
 ## 트리비아
 
-  - 우주선인 액시엄(Axiom)이 뜻하는 바는 '[공리](https://ko.wikipedia.org/wiki/공리 "wikilink")'이다. 공리란 논리적인 증명을 하지 않고 단순히 주어지거나 가정한 것으로, 우주선 내의 사람들 또는 기계들의 모습과 유사성이 있다.\[5\]
+  - 우주선인 액시엄(Axiom)이 뜻하는 바는 '[공리](../Page/공리.md "wikilink")'이다. 공리란 논리적인 증명을 하지 않고 단순히 주어지거나 가정한 것으로, 우주선 내의 사람들 또는 기계들의 모습과 유사성이 있다.\[5\]
 
 ## 사운드트랙
 
-  - 월-E의 사운드트랙은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") 발매되었다. [토머스 뉴먼이](https://ko.wikipedia.org/wiki/토머스_뉴먼 "wikilink") 작곡했다. [피터 가브리엘과](https://ko.wikipedia.org/wiki/피터_가브리엘 "wikilink") [마이클 크로포드의](https://ko.wikipedia.org/wiki/마이클_크로포드 "wikilink") 노래도 선보인다.
+  - 월-E의 사운드트랙은 [2008년](../Page/2008년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") 발매되었다. [토머스 뉴먼이](https://ko.wikipedia.org/wiki/토머스_뉴먼 "wikilink") 작곡했다. [피터 가브리엘과](../Page/피터_가브리엘.md "wikilink") [마이클 크로포드의](https://ko.wikipedia.org/wiki/마이클_크로포드 "wikilink") 노래도 선보인다.
   - 월-E가 태양광으로 배터리충전을 완료한 후 애플 컴퓨터의 부팅음이 나온다. (9분50초)
 
 ## DVD & 블루레이

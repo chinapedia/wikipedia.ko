@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Show Me Your Love](https://ko.wikipedia.org/wiki/Show_Me_Your_Love).
 
 
-《**Show Me Your Love**》는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 [동방신기](../Page/동방신기.md "wikilink")와 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")가 함께 참여한 컴필레이션 싱글 음반이다. [크리스마스](https://ko.wikipedia.org/wiki/크리스마스 "wikilink") 시즌과 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 데뷔와 맞물려 특별히 제작되었으며, 같은 해 [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 발매되었다.
+《**Show Me Your Love**》는 [2005년](../Page/2005년.md "wikilink")에 [동방신기](../Page/동방신기.md "wikilink")와 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")가 함께 참여한 컴필레이션 싱글 음반이다. [크리스마스](../Page/크리스마스.md "wikilink") 시즌과 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 데뷔와 맞물려 특별히 제작되었으며, 같은 해 [12월 15일](../Page/12월_15일.md "wikilink") 발매되었다.
 
 ## 수록곡
 

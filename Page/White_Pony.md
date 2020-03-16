@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [White Pony](https://ko.wikipedia.org/wiki/White_Pony).
 
 
-**White Pony**는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 발매된 [데프톤즈](https://ko.wikipedia.org/wiki/데프톤즈 "wikilink")의 세 번째 음반이다. 이 음반은 1997년 발매된 2집 《[Around The Fur](https://ko.wikipedia.org/wiki/Around_The_Fur "wikilink")》를 계승하면서, 뉴 웨이브와 [슈게이즈](https://ko.wikipedia.org/wiki/슈게이즈 "wikilink")의 영향을 융합으로 음악적인 상당한 성장을 보여주었다. 이 음반으로 얼터너티브 메틀 밴드 중 가장 앞장서게 됐고 잘 알려지게 됐다. 후에는 이 음반은 일반적으로 팬과 비평가들에 의해 데프톤즈의 성숙함이 가장 잘 표현된 음반으로 간주되었다.
+**White Pony**는 [2000년](../Page/2000년.md "wikilink")에 발매된 [데프톤즈](https://ko.wikipedia.org/wiki/데프톤즈 "wikilink")의 세 번째 음반이다. 이 음반은 1997년 발매된 2집 《[Around The Fur](https://ko.wikipedia.org/wiki/Around_The_Fur "wikilink")》를 계승하면서, 뉴 웨이브와 [슈게이즈](https://ko.wikipedia.org/wiki/슈게이즈 "wikilink")의 영향을 융합으로 음악적인 상당한 성장을 보여주었다. 이 음반으로 얼터너티브 메틀 밴드 중 가장 앞장서게 됐고 잘 알려지게 됐다. 후에는 이 음반은 일반적으로 팬과 비평가들에 의해 데프톤즈의 성숙함이 가장 잘 표현된 음반으로 간주되었다.
 
 [프랭크 델가도가](https://ko.wikipedia.org/wiki/프랭크_델가도 "wikilink") 정식 멤버로 가입 이후 처음 등장하는 앨범이며, 게스트 뮤지션으로는 툴의 메이너드 제임스 키넌이 〈Passenger〉, 로들린 겟식이 〈Knife Prty〉에 참여하였다.
 

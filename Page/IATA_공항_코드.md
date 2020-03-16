@@ -11,7 +11,7 @@
 
 이러한 코드 부여는 IATA 규정 763에 의해 통제되며, 몬트리올에 있는 IATA 본부에서 통제된다. 이 코드들은 2년마다 IATA 항공 코드부여 디렉토리에서 출판된다.\[1\] 이러한 코드들은 한번 부여되면 중복되지 않으며, 폐기된 코드들은 일정 기간이 지나면 재사용 된다. 캐나다와 같은 많은 나라들은 공식 항공 업무에서 IATA 코드를 더 이상 사용하지 않는다.
 
-IATA에서는 또한 철도역과 항공 업무에 대한 코드를 제공하기도 한다. IATA에 의해 정비된 [공항 목록과](https://ko.wikipedia.org/wiki/공항_목록 "wikilink") [철도역 목록](https://ko.wikipedia.org/wiki/IATA_공항_코드가_부여된_역_목록 "wikilink") 참조. 이 철도역 목록은 주로 항공편과 연계된 철도역에 한 해 제공을 한다. [암트랙](https://ko.wikipedia.org/wiki/전미여객철도공사 "wikilink"), 프랑스 철도, 독일 철도, 탈리스 인터내셔날, 스위스 철도가 그 예이다. 미국과 캐나다에서만 사용되는 암트랙 전용 [암트랙 철도역 코드 목록](https://ko.wikipedia.org/wiki/암트랙_철도역_코드_목록 "wikilink") 같은 독립된 것도 존재한다.
+IATA에서는 또한 철도역과 항공 업무에 대한 코드를 제공하기도 한다. IATA에 의해 정비된 [공항 목록과](../Page/공항_목록.md "wikilink") [철도역 목록](../Page/IATA_공항_코드가_부여된_역_목록.md "wikilink") 참조. 이 철도역 목록은 주로 항공편과 연계된 철도역에 한 해 제공을 한다. [암트랙](https://ko.wikipedia.org/wiki/전미여객철도공사 "wikilink"), 프랑스 철도, 독일 철도, 탈리스 인터내셔날, 스위스 철도가 그 예이다. 미국과 캐나다에서만 사용되는 암트랙 전용 [암트랙 철도역 코드 목록](https://ko.wikipedia.org/wiki/암트랙_철도역_코드_목록 "wikilink") 같은 독립된 것도 존재한다.
 
 ## 목록
 
@@ -26,7 +26,7 @@ IATA에서는 또한 철도역과 항공 업무에 대한 코드를 제공하기
   - [Airspace class](https://en.wikipedia.org/wiki/Airspace_class)
   - [항공사 코드](https://en.wikipedia.org/wiki/Airline_codes)
   - [Geocode](https://en.wikipedia.org/wiki/Geocode)
-  - [ICAO 공항 코드](https://ko.wikipedia.org/wiki/ICAO_공항_코드 "wikilink")
+  - [ICAO 공항 코드](../Page/ICAO_공항_코드.md "wikilink")
   - [UN/LOCODE](https://ko.wikipedia.org/wiki/UN/LOCODE "wikilink")
 
 ## 각주

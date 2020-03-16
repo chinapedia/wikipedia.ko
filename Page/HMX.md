@@ -8,16 +8,16 @@
 HMX는 대부분의 폭약보다 제조하기가 더 까다롭고 전문가에게 제한되어 있다.
 
 1.  [헥사민](https://ko.wikipedia.org/wiki/헥사민 "wikilink")을 [아세트산 무수물과](https://ko.wikipedia.org/wiki/아세트산_무수물 "wikilink") 반응시킨다.
-2.  [질산](https://ko.wikipedia.org/wiki/질산 "wikilink")과 [황산](https://ko.wikipedia.org/wiki/황산 "wikilink")을 섞어 [나이트로화](https://ko.wikipedia.org/wiki/나이트로화 "wikilink")한다.
-3.  [질산](https://ko.wikipedia.org/wiki/질산 "wikilink")과 [폴리인산](https://ko.wikipedia.org/wiki/폴리인산 "wikilink")을 2단계로 [나이트로화](https://ko.wikipedia.org/wiki/나이트로화 "wikilink")한다.
+2.  [질산](../Page/질산.md "wikilink")과 [황산](../Page/황산.md "wikilink")을 섞어 [나이트로화](https://ko.wikipedia.org/wiki/나이트로화 "wikilink")한다.
+3.  [질산](../Page/질산.md "wikilink")과 [폴리인산](https://ko.wikipedia.org/wiki/폴리인산 "wikilink")을 2단계로 [나이트로화](https://ko.wikipedia.org/wiki/나이트로화 "wikilink")한다.
 
 완성된 물질은 [RDX](https://ko.wikipedia.org/wiki/RDX "wikilink")와 HMX가 섞여 있으므로 용매에 녹여 용해도의 차이를 이용하여 분리한다.
 
 ## 응용
 
-cyclotetramethylene-tetranitramine, tetrahexamine tetranitramine, 또는 octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocane로 알려져 있는 HMX는 [1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink")에 처음 만들어졌다. 거의 예외적으로 [핵무기](https://ko.wikipedia.org/wiki/핵무기 "wikilink") 폭발을 비롯하여 군용으로만 쓰이고 있다.
+cyclotetramethylene-tetranitramine, tetrahexamine tetranitramine, 또는 octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocane로 알려져 있는 HMX는 [1930년](../Page/1930년.md "wikilink")에 처음 만들어졌다. 거의 예외적으로 [핵무기](../Page/핵무기.md "wikilink") 폭발을 비롯하여 군용으로만 쓰이고 있다.
 
-HMX는 [TNT과](https://ko.wikipedia.org/wiki/트라이나이트로톨루엔 "wikilink") 혼합하여 녹일수 있는 폭약인 [Octol을](https://ko.wikipedia.org/wiki/옥톨 "wikilink") 만든다.
+HMX는 [TNT과](../Page/트라이나이트로톨루엔.md "wikilink") 혼합하여 녹일수 있는 폭약인 [Octol을](https://ko.wikipedia.org/wiki/옥톨 "wikilink") 만든다.
 
 ## 참조
 

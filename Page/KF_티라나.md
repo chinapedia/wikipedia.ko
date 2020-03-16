@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KF ](https://ko.wikipedia.org/wiki/KF_).
 
 
-**KF 티라나**는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 알바니아의 수도 [티라나](https://ko.wikipedia.org/wiki/티라나 "wikilink")를 연고지로 삼고 있다. 이 클럽은 [1920년](https://ko.wikipedia.org/wiki/1920년 "wikilink") [8월 16일에](https://ko.wikipedia.org/wiki/8월_16일 "wikilink") **아지미 SA**(Agimi Sports Association)라는 이름으로 창단되었으며, [1927년](https://ko.wikipedia.org/wiki/1927년 "wikilink")에 **SK 티라나**(Sportklub Tirana)로 변경하였고, [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink")엔 **17 넌토리 티라나**(17 Nëntori Tirana)로 바꿨다. [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink")부터 [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink")까지는 **퓨나 티라나**(Puna Tirana)로 리그에 참가했으며, [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink")에 현재의 이름으로 바꾸었다.
+**KF 티라나**는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 알바니아의 수도 [티라나](../Page/티라나.md "wikilink")를 연고지로 삼고 있다. 이 클럽은 [1920년](../Page/1920년.md "wikilink") [8월 16일에](../Page/8월_16일.md "wikilink") **아지미 SA**(Agimi Sports Association)라는 이름으로 창단되었으며, [1927년](../Page/1927년.md "wikilink")에 **SK 티라나**(Sportklub Tirana)로 변경하였고, [1947년](../Page/1947년.md "wikilink")엔 **17 넌토리 티라나**(17 Nëntori Tirana)로 바꿨다. [1952년](../Page/1952년.md "wikilink")부터 [1956년](../Page/1956년.md "wikilink")까지는 **퓨나 티라나**(Puna Tirana)로 리그에 참가했으며, [1991년](../Page/1991년.md "wikilink")에 현재의 이름으로 바꾸었다.
 
 ## 명칭 변화
 
@@ -32,7 +32,7 @@
 
 ## 유럽 대회
 
-KF 티라나가 처음으로 유럽대회에 나간 것은 1965-66시즌의 [유러피언 컵이었다](https://ko.wikipedia.org/wiki/유러피언_컵 "wikilink"). 그 후 [UEFA 챔피언스리그가](../Page/UEFA_챔피언스리그.md "wikilink") 도입되던 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")까지 6번의 유러피언 컵 대회에 진출하였으며, 예선전이 도입된 챔피언스리그에서도 2007-08시즌을 포함하여 여섯 번 진출하였다. 그리고 [UEFA 컵위너스컵에는](../Page/UEFA_컵위너스컵.md "wikilink") 1983-84, 1986-87, 1994-95시즌에 출전하여 총 세번 진출하였는데, 1986-87시즌의 2라운드진출이 최고 성적이다. [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")에 만들어진 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에는 총 여섯 번 진출하였는데, 전부 예선라운드에서 탈락하고 말았다.
+KF 티라나가 처음으로 유럽대회에 나간 것은 1965-66시즌의 [유러피언 컵이었다](https://ko.wikipedia.org/wiki/유러피언_컵 "wikilink"). 그 후 [UEFA 챔피언스리그가](../Page/UEFA_챔피언스리그.md "wikilink") 도입되던 [1992년](../Page/1992년.md "wikilink")까지 6번의 유러피언 컵 대회에 진출하였으며, 예선전이 도입된 챔피언스리그에서도 2007-08시즌을 포함하여 여섯 번 진출하였다. 그리고 [UEFA 컵위너스컵에는](../Page/UEFA_컵위너스컵.md "wikilink") 1983-84, 1986-87, 1994-95시즌에 출전하여 총 세번 진출하였는데, 1986-87시즌의 2라운드진출이 최고 성적이다. [1971년](../Page/1971년.md "wikilink")에 만들어진 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에는 총 여섯 번 진출하였는데, 전부 예선라운드에서 탈락하고 말았다.
 
 ## 외부 링크
 

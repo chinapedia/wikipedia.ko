@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [infinity](https://ko.wikipedia.org/wiki/infinity).
 
 
-**∞Infinity∞**는 [이이즈카 마유미의](../Page/이이즈카_마유미.md "wikilink") 8번째 [음반](../Page/음반.md "wikilink")이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 22일에](https://ko.wikipedia.org/wiki/7월_22일 "wikilink") [도쿠마 저팬 커뮤니케이션즈에서](https://ko.wikipedia.org/wiki/도쿠마_저팬_커뮤니케이션즈 "wikilink") 발매 하였다.
+**∞Infinity∞**는 [이이즈카 마유미의](../Page/이이즈카_마유미.md "wikilink") 8번째 [음반](../Page/음반.md "wikilink")이다. [2004년](../Page/2004년.md "wikilink") [7월 22일에](../Page/7월_22일.md "wikilink") [도쿠마 저팬 커뮤니케이션즈에서](https://ko.wikipedia.org/wiki/도쿠마_저팬_커뮤니케이션즈 "wikilink") 발매 하였다.
 
 ## 해설
 

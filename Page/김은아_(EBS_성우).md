@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(EBS \)](https://ko.wikipedia.org/wiki/_\(EBS_\)).
 
 
-**김은아**([1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [성우](https://ko.wikipedia.org/wiki/성우 "wikilink")이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink") 20기 공채 성우로 데뷔하였다.남편은 성우 [방성준](https://ko.wikipedia.org/wiki/방성준 "wikilink")이다.동명이인선배인 KBS성우[김은아는](../Page/김은아_\(KBS_성우\).md "wikilink") 2000년이후로 거의 활동한적이 없어서 많은 성우들이 누가 김은아인지 알수가 없다.오직 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")에서만 2000년 이후로도 활동하는 성우이면 MBC성우 [방성준](https://ko.wikipedia.org/wiki/방성준 "wikilink")의 아내이다. 그녀는 안경을 끼고 다니는 성우이다.
+**김은아**([1976년](../Page/1976년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. [2004년](../Page/2004년.md "wikilink") [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink") 20기 공채 성우로 데뷔하였다.남편은 성우 [방성준](../Page/방성준.md "wikilink")이다.동명이인선배인 KBS성우[김은아는](../Page/김은아_\(KBS_성우\).md "wikilink") 2000년이후로 거의 활동한적이 없어서 많은 성우들이 누가 김은아인지 알수가 없다.오직 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")에서만 2000년 이후로도 활동하는 성우이면 MBC성우 [방성준](../Page/방성준.md "wikilink")의 아내이다. 그녀는 안경을 끼고 다니는 성우이다.
 
 ## 출연 작품
 
@@ -20,13 +20,13 @@
   - [데스노트](../Page/데스노트.md "wikilink") (애니원) - 여학생, 여자
   - [레미제라블 소녀 코제트](https://ko.wikipedia.org/wiki/레미제라블_소녀_코제트 "wikilink") (애니원) - 샬롯
   - [미라큘러스 레이디버그](https://ko.wikipedia.org/wiki/미라큘러스_레이디버그 "wikilink") - 알리야
-  - [디지몬 크로스워즈](https://ko.wikipedia.org/wiki/디지몬_크로스워즈 "wikilink") ([챔프](https://ko.wikipedia.org/wiki/챔프 "wikilink")) - 고마몬
+  - [디지몬 크로스워즈](../Page/디지몬_크로스워즈.md "wikilink") ([챔프](https://ko.wikipedia.org/wiki/챔프 "wikilink")) - 고마몬
   - [마스크 마스터즈](https://ko.wikipedia.org/wiki/마스크_마스터즈 "wikilink") (KBS) - 키로
   - [막내둥이 또또](https://ko.wikipedia.org/wiki/막내둥이_또또 "wikilink") (EBS)
-  - [머털도사](https://ko.wikipedia.org/wiki/머털도사 "wikilink") (EBS) - 사비
+  - [머털도사](../Page/머털도사.md "wikilink") (EBS) - 사비
   - [명탐정 코난](../Page/명탐정_코난.md "wikilink") 1996 방영분 (1기) (애니맥스) - 김혜원
   - [명탐정 코난](../Page/명탐정_코난.md "wikilink") 2014 방영분 (14기) (투니버스) - 강주영
-  - [모래요정 바람돌이](https://ko.wikipedia.org/wiki/모래요정_바람돌이 "wikilink") (EBS) - 동동
+  - [모래요정 바람돌이](../Page/모래요정_바람돌이.md "wikilink") (EBS) - 동동
   - [몬카트](https://ko.wikipedia.org/wiki/몬카트 "wikilink") (EBS) - 로빈 화이트/왕비
   - [미술탐험대](https://ko.wikipedia.org/wiki/미술탐험대 "wikilink") (EBS) - 큐레이터
   - [베르사이유의 장미](../Page/베르사이유의_장미.md "wikilink") (EBS) - 테레지아, 아델라이드
@@ -37,16 +37,16 @@
   - [병뚜껑 빌](https://ko.wikipedia.org/wiki/병뚜껑_빌 "wikilink") (EBS)
   - [빠삐에 친구](../Page/빠삐에_친구.md "wikilink") (EBS)
   - [선물공룡 디보](https://ko.wikipedia.org/wiki/선물공룡_디보 "wikilink") (EBS) - 올리버
-  - [슈퍼햄스밴드](https://ko.wikipedia.org/wiki/슈퍼햄스밴드 "wikilink") (MBC) - 김마리
+  - [슈퍼햄스밴드](../Page/슈퍼햄스밴드.md "wikilink") (MBC) - 김마리
   - [스타 워즈: 클론 전쟁](https://ko.wikipedia.org/wiki/스타_워즈:_클론_전쟁_\(2008년_TV_시리즈\) "wikilink") (카툰네트워크)
   - [시계마을 티키톡](https://ko.wikipedia.org/wiki/시계마을_티키톡 "wikilink") (EBS) - 롤링스
   - [아라리쇼](https://ko.wikipedia.org/wiki/아라리쇼 "wikilink") (EBS)
   - [아이들이 사는 성](https://ko.wikipedia.org/wiki/아이들이_사는_성 "wikilink") (EBS) - '나'편 아이1, 분홍정자, 소리2 / '네 잘못이 아니야'편 아이 3
   - [안젤리나 발레리나](https://ko.wikipedia.org/wiki/안젤리나_발레리나 "wikilink") (EBS) - 폴리
   - [야호 응가네](https://ko.wikipedia.org/wiki/야호_응가네 "wikilink") (EBS)
-  - [어떤 마술의 금서목록](https://ko.wikipedia.org/wiki/어떤_마술의_금서목록 "wikilink") (애니맥스) - 요미카와 아이호, 우이하루 카자리, 전방의 멘트
-      - [어떤 과학의 초전자포](https://ko.wikipedia.org/wiki/어떤_과학의_초전자포 "wikilink") (애니맥스) - 우이하루 카자리
-  - [엽기인걸 스나코](https://ko.wikipedia.org/wiki/엽기인걸_스나코 "wikilink") (애니박스) - 록산느
+  - [어떤 마술의 금서목록](../Page/어떤_마술의_금서목록.md "wikilink") (애니맥스) - 요미카와 아이호, 우이하루 카자리, 전방의 멘트
+      - [어떤 과학의 초전자포](../Page/어떤_과학의_초전자포.md "wikilink") (애니맥스) - 우이하루 카자리
+  - [엽기인걸 스나코](../Page/엽기인걸_스나코.md "wikilink") (애니박스) - 록산느
   - [요술상자](../Page/요술상자.md "wikilink") (EBS)
   - [용감한 소방차 레이](../Page/용감한_소방차_레이.md "wikilink") (EBS) - 헤이즐, 준이
   - [윙스 클럽](https://ko.wikipedia.org/wiki/윙스_클럽 "wikilink") - **테크나**
@@ -56,7 +56,7 @@
   - [잭과 팡](https://ko.wikipedia.org/wiki/잭과_팡 "wikilink") (EBS) - 라미
   - [캐니멀](../Page/캐니멀.md "wikilink") (EBS)
   - [캣피시 블루스](https://ko.wikipedia.org/wiki/캣피시_블루스 "wikilink") (EBS) - 릴리
-  - [크로스 게임](https://ko.wikipedia.org/wiki/크로스_게임 "wikilink") (EBS) - 오은아
+  - [크로스 게임](../Page/크로스_게임.md "wikilink") (EBS) - 오은아
   - [클라나드](https://ko.wikipedia.org/wiki/클라나드 "wikilink") (애니박스) - 후지바야시 료
   - [키마의 전설](https://ko.wikipedia.org/wiki/키마의_전설 "wikilink") (카툰네트워크) - 그루나
   - [포코냥](https://ko.wikipedia.org/wiki/포코냥 "wikilink") (챔프) - 심순
@@ -65,13 +65,13 @@
   - [프리큐어 Max Heart](https://ko.wikipedia.org/wiki/프리큐어_Max_Heart "wikilink") (챔프) - 위씽
   - [피터 래빗](https://ko.wikipedia.org/wiki/피터_래빗 "wikilink") (EBS)
   - [피터 팬](https://ko.wikipedia.org/wiki/피터_팬 "wikilink") (EBS) - 웬디
-  - [피피루 안전특공대](https://ko.wikipedia.org/wiki/피피루_안전특공대 "wikilink") ([EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")) - **슈크**
+  - [피피루 안전특공대](../Page/피피루_안전특공대.md "wikilink") ([EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")) - **슈크**
   - [호기심 많은 조지](https://ko.wikipedia.org/wiki/호기심_많은_조지 "wikilink") (EBS)
   - [히맨과 쉬라의 비밀의 검](https://ko.wikipedia.org/wiki/히맨과_쉬라의_비밀의_검 "wikilink") (애니박스) - 위버
   - [출동\! 포돌이가 간다](https://ko.wikipedia.org/wiki/출동!_포돌이가_간다 "wikilink") (SBS) - **포순이**
   - [허풍선이 과학쇼](https://ko.wikipedia.org/wiki/허풍선이_과학쇼 "wikilink") 시즌2 (EBS) - 베티
   - [너티너츠](../Page/너티너츠.md "wikilink") (EBS) - 아만다 / 레이디케이
-  - [시노스톤](https://ko.wikipedia.org/wiki/시노스톤 "wikilink") (KBS) - 에다
+  - [시노스톤](../Page/시노스톤.md "wikilink") (KBS) - 에다
   - [스톤에이지](https://ko.wikipedia.org/wiki/스톤에이지_\(애니메이션\) "wikilink") (KBS) - **루시**
 
 ### 외화
@@ -85,12 +85,12 @@
 ### 영화
 
   - [꼬마돼지 베이브](../Page/꼬마돼지_베이브.md "wikilink") (EBS)
-  - [꿈의 질주](https://ko.wikipedia.org/wiki/꿈의_질주 "wikilink") (EBS) - 코트니 엔더스 ([브리 라슨](https://ko.wikipedia.org/wiki/브리_라슨 "wikilink"))
+  - [꿈의 질주](https://ko.wikipedia.org/wiki/꿈의_질주 "wikilink") (EBS) - 코트니 엔더스 ([브리 라슨](../Page/브리_라슨.md "wikilink"))
   - [늑대소녀 살라](https://ko.wikipedia.org/wiki/늑대소녀_살라 "wikilink") (EBS) - 살라 ([티아 탈비사라](https://ko.wikipedia.org/wiki/티아_탈비사라 "wikilink"))
   - [동물 구조대 사바나 원정기](https://ko.wikipedia.org/wiki/동물_구조대_사바나_원정기 "wikilink") (EBS) - 지라 ([율리에트 판 아르덴느](https://ko.wikipedia.org/wiki/율리에트_판_아르덴느 "wikilink"))
   - [마디타와 리사벳](https://ko.wikipedia.org/wiki/마디타와_리사벳 "wikilink") (EBS)
-  - [말괄량이 삐삐](https://ko.wikipedia.org/wiki/말괄량이_삐삐 "wikilink") (EBS)
-  - [빨간 머리 앤](https://ko.wikipedia.org/wiki/빨간_머리_앤 "wikilink") (EBS) - 조시
+  - [말괄량이 삐삐](../Page/말괄량이_삐삐.md "wikilink") (EBS)
+  - [빨간 머리 앤](../Page/빨간_머리_앤.md "wikilink") (EBS) - 조시
   - [소년 탐정단 - 해골 섬의 비밀을 찾아서](https://ko.wikipedia.org/wiki/소년_탐정단_-_해골_섬의_비밀을_찾아서 "wikilink") (EBS)
   - [시끌벅적 마을의 아이들 - 겨울 그리고 봄](https://ko.wikipedia.org/wiki/시끌벅적_마을의_아이들_-_겨울_그리고_봄 "wikilink") - 리사 ([린다 베리스트룀](https://ko.wikipedia.org/wiki/린다_베리스트룀 "wikilink"))
   - [시끌벅적 마을의 아이들 - 여름 그리고 가을](https://ko.wikipedia.org/wiki/시끌벅적_마을의_아이들_-_여름_그리고_가을 "wikilink") - 리사 ([린다 베리스트룀](https://ko.wikipedia.org/wiki/린다_베리스트룀 "wikilink"))
@@ -103,7 +103,7 @@
 
 ## 같이 보기
 
-  - [교육방송 성우극회](https://ko.wikipedia.org/wiki/교육방송_성우극회 "wikilink")
+  - [교육방송 성우극회](../Page/교육방송_성우극회.md "wikilink")
 
 ## 외부 링크
 

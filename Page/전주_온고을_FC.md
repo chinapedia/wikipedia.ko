@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**전주 온고을 FC**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [K3리그에](https://ko.wikipedia.org/wiki/챌린저스리그 "wikilink") 속해있는 축구단이다. [전주](https://ko.wikipedia.org/wiki/전주 "wikilink")를 연고지로 하고 있으며, 전주공설운동장을 홈 구장으로 사용하고 있다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 4월 전북 FC로 창단되어 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 24일](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") 현재 이름으로 출범식을 갖고 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [K3리그에](https://ko.wikipedia.org/wiki/챌린저스리그 "wikilink") 참가하여 [전주 EM과](https://ko.wikipedia.org/wiki/전주_EM "wikilink") '비빔밥 더비'를 이루기도 했으나 리그에서 한 시즌밖에 뛰지 못하고 2009년부터 리그에 불참하였다.
+**전주 온고을 FC**()는 [대한민국](../Page/대한민국.md "wikilink") [K3리그에](https://ko.wikipedia.org/wiki/챌린저스리그 "wikilink") 속해있는 축구단이다. [전주](https://ko.wikipedia.org/wiki/전주 "wikilink")를 연고지로 하고 있으며, 전주공설운동장을 홈 구장으로 사용하고 있다. [2005년](../Page/2005년.md "wikilink") 4월 전북 FC로 창단되어 [2008년](../Page/2008년.md "wikilink") [1월 24일](../Page/1월_24일.md "wikilink") 현재 이름으로 출범식을 갖고 [2008년](../Page/2008년.md "wikilink") [K3리그에](https://ko.wikipedia.org/wiki/챌린저스리그 "wikilink") 참가하여 [전주 EM과](https://ko.wikipedia.org/wiki/전주_EM "wikilink") '비빔밥 더비'를 이루기도 했으나 리그에서 한 시즌밖에 뛰지 못하고 2009년부터 리그에 불참하였다.
 
 ## 시즌 결과
 

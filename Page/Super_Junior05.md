@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Super Junior05](https://ko.wikipedia.org/wiki/Super_Junior05).
 
 
-《**Super Junior05**》는 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 정규 1집 앨범이다.
+《**Super Junior05**》는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 정규 1집 앨범이다.
 
 ## 수록곡
 
 ## 에피소드
 
-  - 수록곡〈Believe〉는 일본의 6인조 그룹 [EXILE](../Page/EXILE.md "wikilink")이 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 발매해 인기를 얻었던 곡으로 [희철이](../Page/김희철_\(가수\).md "wikilink") 사랑을 주제로 직접 작사에 참가했다.\[1\]
+  - 수록곡〈Believe〉는 일본의 6인조 그룹 [EXILE](../Page/EXILE.md "wikilink")이 [2003년](../Page/2003년.md "wikilink") 발매해 인기를 얻었던 곡으로 [희철이](../Page/김희철_\(가수\).md "wikilink") 사랑을 주제로 직접 작사에 참가했다.\[1\]
 
 <!-- end list -->
 

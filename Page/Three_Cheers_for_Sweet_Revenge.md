@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Three Cheers for Sweet Revenge](https://ko.wikipedia.org/wiki/Three_Cheers_for_Sweet_Revenge).
 
 
-***Three Cheers for Sweet Revenge***는 [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink") 출신 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [마이 케미컬 로맨스의](../Page/마이_케미컬_로맨스.md "wikilink") 두 번째 [음반](../Page/음반.md "wikilink")이자 [리프라이즈 레코드에서의](https://ko.wikipedia.org/wiki/리프라이즈_레코드 "wikilink") 첫 번째 음반이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [6월 8일에](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") 발매되었다.
+***Three Cheers for Sweet Revenge***는 [뉴저지주](../Page/뉴저지주.md "wikilink") 출신 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [마이 케미컬 로맨스의](../Page/마이_케미컬_로맨스.md "wikilink") 두 번째 [음반](../Page/음반.md "wikilink")이자 [리프라이즈 레코드에서의](https://ko.wikipedia.org/wiki/리프라이즈_레코드 "wikilink") 첫 번째 음반이다. [2004년](../Page/2004년.md "wikilink") [6월 8일에](../Page/6월_8일.md "wikilink") 발매되었다.
 
-대부분 이 음반에 대해 콘셉트 음반이라고 보고 있다. 그러나 프론트 맨 [제라드 웨이는](../Page/제라드_웨이.md "wikilink") 음반 작업 시작할 때 줄거리를 구상했으나, 곧바로 난항을 겪었고 무산되기도 했다고 밝혔다. 《[Life on the Murder Scene](https://ko.wikipedia.org/wiki/Life_on_the_Murder_Scene "wikilink")》 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")에서 제라드 웨이는 음반에 관련 해, "누군가를 잃는 것에 대한 두려움"에 대해 중점을 두었다고 밝혔다. 음반의 표지는 제라드 웨이가 만들었으며, 음반 일부 트랙은 이전 앨범 《[I Brought You My Bullets, You Brought Me Your Love](../Page/I_Brought_You_My_Bullets,_You_Brought_Me_Your_Love.md "wikilink")》의 일부 트랙과 가사 내용이 연결된다.
+대부분 이 음반에 대해 콘셉트 음반이라고 보고 있다. 그러나 프론트 맨 [제라드 웨이는](../Page/제라드_웨이.md "wikilink") 음반 작업 시작할 때 줄거리를 구상했으나, 곧바로 난항을 겪었고 무산되기도 했다고 밝혔다. 《[Life on the Murder Scene](../Page/Life_on_the_Murder_Scene.md "wikilink")》 [DVD](../Page/DVD.md "wikilink")에서 제라드 웨이는 음반에 관련 해, "누군가를 잃는 것에 대한 두려움"에 대해 중점을 두었다고 밝혔다. 음반의 표지는 제라드 웨이가 만들었으며, 음반 일부 트랙은 이전 앨범 《[I Brought You My Bullets, You Brought Me Your Love](../Page/I_Brought_You_My_Bullets,_You_Brought_Me_Your_Love.md "wikilink")》의 일부 트랙과 가사 내용이 연결된다.
 
 ## 수록곡
 
@@ -13,11 +13,11 @@
 2.  "Give 'Em Hell Kid" - 2:18
 3.  "To The End" – 3:01
 4.  "You Know What They Do to Guys Like Us in Prison" – 2:53
-5.  "[I'm Not Okay (I Promise)](https://ko.wikipedia.org/wiki/I'm_Not_Okay_\(I_Promise\) "wikilink")" – 3:08
+5.  "[I'm Not Okay (I Promise)](../Page/I'm_Not_Okay_\(I_Promise\).md "wikilink")" – 3:08
 6.  "[The Ghost of You](https://ko.wikipedia.org/wiki/The_Ghost_of_You "wikilink")" – 3:23
 7.  "The Jetset Life Is Gonna Kill You" – 3:37
 8.  "Interlude" – 0:57
-9.  "[Thank You for the Venom](https://ko.wikipedia.org/wiki/Thank_You_for_the_Venom "wikilink")" – 3:41
+9.  "[Thank You for the Venom](../Page/Thank_You_for_the_Venom.md "wikilink")" – 3:41
 10. "Hang 'Em High" – 2:47
 11. "It's Not a Fashion Statement, It's a Deathwish" – 3:30
 12. "Cemetery Drive" – 3:08

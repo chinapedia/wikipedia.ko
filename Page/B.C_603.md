@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [B.C 603](https://ko.wikipedia.org/wiki/B.C_603).
 
 
-**B.C 603**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 싱어 송 라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 첫 번째 정규 [음반](../Page/음반.md "wikilink")이다.
+**B.C 603**은 [대한민국](../Page/대한민국.md "wikilink") 싱어 송 라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 첫 번째 정규 [음반](../Page/음반.md "wikilink")이다.
 
-이 [음반](../Page/음반.md "wikilink")은 [이승환의](../Page/이승환_\(가수\).md "wikilink") 사비를(당시 500만원) 들여 만들었는데 당시 [이승환이](../Page/이승환_\(가수\).md "wikilink") 찾아갔던 많은 기획사에서 그를 거부한 까닭에 아버지로부터 미리 유산을 물려받아 자체 제작하였다. 현재 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 최초의 가수 자체 제작 앨범으로 인정받고 있다.
+이 [음반](../Page/음반.md "wikilink")은 [이승환의](../Page/이승환_\(가수\).md "wikilink") 사비를(당시 500만원) 들여 만들었는데 당시 [이승환이](../Page/이승환_\(가수\).md "wikilink") 찾아갔던 많은 기획사에서 그를 거부한 까닭에 아버지로부터 미리 유산을 물려받아 자체 제작하였다. 현재 [대한민국](../Page/대한민국.md "wikilink") 최초의 가수 자체 제작 앨범으로 인정받고 있다.
 
 ## 곡 목록
 
@@ -22,10 +22,10 @@
 ## 스탭
 
   - [오태호](https://ko.wikipedia.org/wiki/오태호 "wikilink") - Lead Guitar
-  - [조동익](https://ko.wikipedia.org/wiki/조동익 "wikilink"), 신현곤 - Bass Guitar
+  - [조동익](../Page/조동익.md "wikilink"), 신현곤 - Bass Guitar
   - 문영배 - Drums, Percussion
   - 이시우, 김현철 - Piano, Synthesizers
-  - [조동익](https://ko.wikipedia.org/wiki/조동익 "wikilink"), 유영선 - Acoustic Guitar
+  - [조동익](../Page/조동익.md "wikilink"), 유영선 - Acoustic Guitar
   - [이승환](../Page/이승환_\(가수\).md "wikilink") - Vocals
 
 ## 관련 항목

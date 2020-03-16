@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [The Black Parade Is Dead!](https://ko.wikipedia.org/wiki/The_Black_Parade_Is_Dead!).
 
 
-***The Black Parade Is Dead\!***는 [마이 케미컬 로맨스의](../Page/마이_케미컬_로맨스.md "wikilink") 두 번째 컴필레이션 음반이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 발매되었다. [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")에는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") 팔라시오 데 로스 데포르티스, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink") [호보컨](https://ko.wikipedia.org/wiki/호보컨 "wikilink")의 맥스웰에서 한 라이브가 수록되어 있으며 [CD에는](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") 팔라시오 데 로스 데포르티스에서 라이브가 수록되었으며 또한 밴드의 [마이스페이스](../Page/마이스페이스.md "wikilink") 페이지에서 일부 들을 수 있다.
+***The Black Parade Is Dead\!***는 [마이 케미컬 로맨스의](../Page/마이_케미컬_로맨스.md "wikilink") 두 번째 컴필레이션 음반이다. [2008년](../Page/2008년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 발매되었다. [DVD](../Page/DVD.md "wikilink")에는 [2007년](../Page/2007년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") [멕시코](../Page/멕시코.md "wikilink") 팔라시오 데 로스 데포르티스, [2007년](../Page/2007년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") [미국](../Page/미국.md "wikilink") [뉴저지주](../Page/뉴저지주.md "wikilink") [호보컨](https://ko.wikipedia.org/wiki/호보컨 "wikilink")의 맥스웰에서 한 라이브가 수록되어 있으며 [CD에는](../Page/콤팩트_디스크.md "wikilink") [2007년](../Page/2007년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") [멕시코](../Page/멕시코.md "wikilink") 팔라시오 데 로스 데포르티스에서 라이브가 수록되었으며 또한 밴드의 [마이스페이스](../Page/마이스페이스.md "wikilink") 페이지에서 일부 들을 수 있다.
 
 ## 홍보
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink"), 마이 케미컬 로맨스는 자신들의 홈페이지를 통해 음반에 대한 자세한 정보와 한정판과 일반 음반판의 선주문을 받고 있다. 선주문자는 음반에 수록되어 있는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") 팔라시오 데 로스 데포르티스에서의 라이브인 "Dead\!", "Mama", "[Welcome to the Black Parade](https://ko.wikipedia.org/wiki/Welcome_to_the_Black_Parade "wikilink")"를 추가로 다운로드 받을 수 있다.
+[2008년](../Page/2008년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink"), 마이 케미컬 로맨스는 자신들의 홈페이지를 통해 음반에 대한 자세한 정보와 한정판과 일반 음반판의 선주문을 받고 있다. 선주문자는 음반에 수록되어 있는 [2007년](../Page/2007년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") [멕시코](../Page/멕시코.md "wikilink") 팔라시오 데 로스 데포르티스에서의 라이브인 "Dead\!", "Mama", "[Welcome to the Black Parade](https://ko.wikipedia.org/wiki/Welcome_to_the_Black_Parade "wikilink")"를 추가로 다운로드 받을 수 있다.
 
 ## 음반
 
@@ -31,7 +31,7 @@
 
 ### DVD
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") [멕시코 시티](https://ko.wikipedia.org/wiki/멕시코_시티 "wikilink") 팔라시오 데 로스 데포르티스 공연
+  - [2007년](../Page/2007년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") [멕시코](../Page/멕시코.md "wikilink") [멕시코 시티](https://ko.wikipedia.org/wiki/멕시코_시티 "wikilink") 팔라시오 데 로스 데포르티스 공연
 
 <!-- end list -->
 
@@ -51,17 +51,17 @@
 
 <!-- end list -->
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink") [호보컨](https://ko.wikipedia.org/wiki/호보컨 "wikilink") 맥스웰 공연
+  - [2007년](../Page/2007년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") [미국](../Page/미국.md "wikilink") [뉴저지주](../Page/뉴저지주.md "wikilink") [호보컨](https://ko.wikipedia.org/wiki/호보컨 "wikilink") 맥스웰 공연
 
 <!-- end list -->
 
 1.  "[Welcome to the Black Parade](https://ko.wikipedia.org/wiki/Welcome_to_the_Black_Parade "wikilink")"
-2.  "[Thank You for the Venom](https://ko.wikipedia.org/wiki/Thank_You_for_the_Venom "wikilink")"
+2.  "[Thank You for the Venom](../Page/Thank_You_for_the_Venom.md "wikilink")"
 3.  "Dead\!"
 4.  "The Sharpest Lives"
 5.  "This Is How I Disappear"
 6.  "Teenagers"
-7.  "[I'm Not Okay (I Promise)](https://ko.wikipedia.org/wiki/I'm_Not_Okay_\(I_Promise\) "wikilink")"
+7.  "[I'm Not Okay (I Promise)](../Page/I'm_Not_Okay_\(I_Promise\).md "wikilink")"
 8.  "You Know What They Do to Guys Like Us in Prison"
 9.  "Famous Last Words"
 10. "Give 'Em Hell Kid"

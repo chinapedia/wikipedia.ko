@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Na-Ga](https://ko.wikipedia.org/wiki/Na-Ga).
 
 
-**Na-Ga**(나-가, )는 [일본의](https://ko.wikipedia.org/wiki/일본인 "wikilink") 아티스트로 《[카논](https://ko.wikipedia.org/wiki/카논_\(비디오_게임\) "wikilink")》, 《[에어](../Page/에어_\(비디오_게임\).md "wikilink")》, 《[클라나드](https://ko.wikipedia.org/wiki/클라나드_\(비디오_게임\) "wikilink")》와 같은 [비주얼 노벨로](https://ko.wikipedia.org/wiki/비주얼_노벨 "wikilink") 알려진 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")에서 그래픽 디자이너와 일러스트레이터로 활동하고 있다. [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")부터 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")까지 Parsoft R에서 재직하며 《덧없는 기억: 아네모네》와 《Sweet Days》를 제작하다가 Key로 이직했다.\[1\]
+**Na-Ga**(나-가, )는 [일본의](../Page/일본인.md "wikilink") 아티스트로 《[카논](../Page/카논_\(비디오_게임\).md "wikilink")》, 《[에어](../Page/에어_\(비디오_게임\).md "wikilink")》, 《[클라나드](https://ko.wikipedia.org/wiki/클라나드_\(비디오_게임\) "wikilink")》와 같은 [비주얼 노벨로](../Page/비주얼_노벨.md "wikilink") 알려진 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")에서 그래픽 디자이너와 일러스트레이터로 활동하고 있다. [1997년](../Page/1997년.md "wikilink")부터 [1999년](../Page/1999년.md "wikilink")까지 Parsoft R에서 재직하며 《덧없는 기억: 아네모네》와 《Sweet Days》를 제작하다가 Key로 이직했다.\[1\]
 
-이후 《Air》때부터 컴퓨터 그래픽 아티스트로 Key에서 활동해 오고 있으나, 유명해진 것은 [히노우에 이타루와](../Page/히노우에_이타루.md "wikilink") 함께 《[리틀 버스터즈\!](../Page/리틀_버스터즈!.md "wikilink")》의 원화가로 처음 참여하면서 부터이다. 그는 Key의 7번째 게임인 《[리라이트](https://ko.wikipedia.org/wiki/리라이트 "wikilink")》에서 컴퓨터 그래픽을 담당하고 있다.\[2\] 또한 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink"), 시나리오 작가인 [마에다 쥰과](https://ko.wikipedia.org/wiki/마에다_쥰 "wikilink") 함께 신규 프로젝트인 《[엔젤 비츠\!](https://ko.wikipedia.org/wiki/angel_Beats! "wikilink")》의 제작을 발표하고 원화가로서도 다시 참여하고 있다.
+이후 《Air》때부터 컴퓨터 그래픽 아티스트로 Key에서 활동해 오고 있으나, 유명해진 것은 [히노우에 이타루와](../Page/히노우에_이타루.md "wikilink") 함께 《[리틀 버스터즈\!](../Page/리틀_버스터즈!.md "wikilink")》의 원화가로 처음 참여하면서 부터이다. 그는 Key의 7번째 게임인 《[리라이트](../Page/리라이트.md "wikilink")》에서 컴퓨터 그래픽을 담당하고 있다.\[2\] 또한 [2009년](../Page/2009년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink"), 시나리오 작가인 [마에다 쥰과](https://ko.wikipedia.org/wiki/마에다_쥰 "wikilink") 함께 신규 프로젝트인 《[엔젤 비츠\!](https://ko.wikipedia.org/wiki/angel_Beats! "wikilink")》의 제작을 발표하고 원화가로서도 다시 참여하고 있다.
 
-현재 그는 [동인지](https://ko.wikipedia.org/wiki/동인지 "wikilink") 서클 "from-D"에 소속되어 있기도 하다.
+현재 그는 [동인지](../Page/동인지.md "wikilink") 서클 "from-D"에 소속되어 있기도 하다.
 
 ## 참고 문헌
 

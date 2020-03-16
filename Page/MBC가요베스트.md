@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [MBC](https://ko.wikipedia.org/wiki/MBC).
 
 
-《**MBC가요베스트**》는 [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")의 네트워크국 12개사에서 공동으로 제작하는 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
+《**MBC가요베스트**》는 [문화방송](../Page/문화방송.md "wikilink")의 네트워크국 12개사에서 공동으로 제작하는 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
 
 ## 역대 진행자
 
-  - 초대: [김승현](../Page/김승현_\(방송인\).md "wikilink") ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink"))\[1\]
-  - 2대: [조영구](https://ko.wikipedia.org/wiki/조영구 "wikilink") ([2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink") \~ 현재)
+  - 초대: [김승현](../Page/김승현_\(방송인\).md "wikilink") ([2006년](../Page/2006년.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink"))\[1\]
+  - 2대: [조영구](../Page/조영구.md "wikilink") ([2018년](../Page/2018년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") \~ 현재)
 
 ### 참고사항
 
@@ -15,24 +15,24 @@
 
 ## 계열사 방송 안내
 
-※ [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink"), [춘천문화방송](../Page/춘천문화방송.md "wikilink"), [전주문화방송](../Page/전주문화방송.md "wikilink"), [울산문화방송](../Page/울산문화방송.md "wikilink"), [제주문화방송](../Page/제주문화방송.md "wikilink")은 제작에 불참하여 시청이 불가능하다. 다만 [MBC NET으로는](../Page/MBC_NET.md "wikilink") 전 지역에서 시청이 가능하다.
+※ [문화방송](../Page/문화방송.md "wikilink"), [춘천문화방송](../Page/춘천문화방송.md "wikilink"), [전주문화방송](../Page/전주문화방송.md "wikilink"), [울산문화방송](../Page/울산문화방송.md "wikilink"), [제주문화방송](../Page/제주문화방송.md "wikilink")은 제작에 불참하여 시청이 불가능하다. 다만 [MBC NET으로는](../Page/MBC_NET.md "wikilink") 전 지역에서 시청이 가능하다.
 
-| 방송 채널                                                   | 방송 시간                                                                     | 방송 분량 |
-| ------------------------------------------------------- | ------------------------------------------------------------------------- | ----- |
-| [원주문화방송](../Page/원주문화방송.md "wikilink")                  | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 낮 12:10 \~ 오후 1:10 | 1시간   |
-| [MBC강원영동](../Page/MBC강원영동.md "wikilink")                |                                                                           |       |
-| [MBC충북](../Page/MBC충북.md "wikilink")                    |                                                                           |       |
-| [대전문화방송](../Page/대전문화방송.md "wikilink")                  |                                                                           |       |
-| [MBC경남](https://ko.wikipedia.org/wiki/MBC경남 "wikilink") |                                                                           |       |
-| [안동문화방송](../Page/안동문화방송.md "wikilink")                  |                                                                           |       |
-| [포항문화방송](../Page/포항문화방송.md "wikilink")                  |                                                                           |       |
-| [목포문화방송](../Page/목포문화방송.md "wikilink")                  |                                                                           |       |
-| [광주문화방송](../Page/광주문화방송.md "wikilink")                  |                                                                           |       |
-| [여수문화방송](../Page/여수문화방송.md "wikilink")                  |                                                                           |       |
-| [대구문화방송](../Page/대구문화방송.md "wikilink")                  | 매주 [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink") 오전 8:30 \~ 9:30    | 1시간   |
-| [부산문화방송](../Page/부산문화방송.md "wikilink")                  | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 오후 1:10 \~ 2:10    | 1시간   |
-| [MBC NET](../Page/MBC_NET.md "wikilink")                | 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 낮 12:00 \~ 1:00    | 1시간   |
-|                                                         |                                                                           |       |
+| 방송 채널                                    | 방송 시간                                                  | 방송 분량 |
+| ---------------------------------------- | ------------------------------------------------------ | ----- |
+| [원주문화방송](../Page/원주문화방송.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 낮 12:10 \~ 오후 1:10 | 1시간   |
+| [MBC강원영동](../Page/MBC강원영동.md "wikilink") |                                                        |       |
+| [MBC충북](../Page/MBC충북.md "wikilink")     |                                                        |       |
+| [대전문화방송](../Page/대전문화방송.md "wikilink")   |                                                        |       |
+| [MBC경남](../Page/MBC경남.md "wikilink")     |                                                        |       |
+| [안동문화방송](../Page/안동문화방송.md "wikilink")   |                                                        |       |
+| [포항문화방송](../Page/포항문화방송.md "wikilink")   |                                                        |       |
+| [목포문화방송](../Page/목포문화방송.md "wikilink")   |                                                        |       |
+| [광주문화방송](../Page/광주문화방송.md "wikilink")   |                                                        |       |
+| [여수문화방송](../Page/여수문화방송.md "wikilink")   |                                                        |       |
+| [대구문화방송](../Page/대구문화방송.md "wikilink")   | 매주 [수요일](../Page/수요일.md "wikilink") 오전 8:30 \~ 9:30    | 1시간   |
+| [부산문화방송](../Page/부산문화방송.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 오후 1:10 \~ 2:10    | 1시간   |
+| [MBC NET](../Page/MBC_NET.md "wikilink") | 매주 [목요일](../Page/목요일.md "wikilink") 낮 12:00 \~ 1:00    | 1시간   |
+|                                          |                                                        |       |
 
 ## 방송 일정
 
@@ -40,94 +40,94 @@
 
 ### 2015년
 
-| 회차   | 방송일                                                         | 부제                              | MC                                                                                                      |
-| ---- | ----------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 432회 | [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink")     | 포항-서울 KTX 개통기념 시민화합한마당          | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [홍진영](https://ko.wikipedia.org/wiki/홍진영 "wikilink")           |
-| 433회 | [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink")   |                                 |                                                                                                         |
-| 434회 | [5월 17일](https://ko.wikipedia.org/wiki/5월_17일 "wikilink")   | 가정의 달 孝 잔치                      | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [이은지](https://ko.wikipedia.org/wiki/이은지 "wikilink")           |
-| 435회 | [5월 24일](https://ko.wikipedia.org/wiki/5월_24일 "wikilink")   |                                 |                                                                                                         |
-| 436회 | [5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink")   | 혁신도시 이전 및 공공기관 직원 및 가족을 위한 창사특집 | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [김연경](https://ko.wikipedia.org/wiki/김연경_\(아나운서\) "wikilink")  |
-| 437회 | [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink")     |                                 |                                                                                                         |
-| 438회 | [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink")   | 제1회 중마동민의 날                     | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [한영](https://ko.wikipedia.org/wiki/한영_\(가수\) "wikilink")      |
-| 439회 | [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink")   |                                 |                                                                                                         |
-| 440회 | [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink")   | 전라남도 여수시                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [최한아름](https://ko.wikipedia.org/wiki/최한아름 "wikilink")         |
-| 441회 | [8월 2일](https://ko.wikipedia.org/wiki/8월_2일 "wikilink")     |                                 |                                                                                                         |
-| 442회 | [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink")     | 2015 USF 울산 서머페스티벌              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [김연경](https://ko.wikipedia.org/wiki/김연경_\(아나운서\) "wikilink")  |
-| 443회 | [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink")   |                                 |                                                                                                         |
-| 444회 | [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink")   | 제13회 전남 농업경영인대회 특집              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정다희](https://ko.wikipedia.org/wiki/정다희 "wikilink")           |
-| 445회 | [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink")   |                                 |                                                                                                         |
-| 446회 | [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink")     | 제22회 강원도농촌지도자대회 개최기념 특집         | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [에이지아](https://ko.wikipedia.org/wiki/에이지아 "wikilink")         |
-| 447회 | [9월 13일](https://ko.wikipedia.org/wiki/9월_13일 "wikilink")   |                                 |                                                                                                         |
-| 448회 | [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink")   | 부산시민과 함께하는 BIFC 음악회 특집          | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [이지희](https://ko.wikipedia.org/wiki/이지희 "wikilink")           |
-| 449회 | [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink")   |                                 |                                                                                                         |
-| 450회 | [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink")   | 제15회 갓바위 소원성취축제 : 갓바위 음악회 특집    | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박규리](../Page/박규리_\(1979년\).md "wikilink")                    |
-| 451회 | [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") |                                 |                                                                                                         |
-| 452회 | [10월 18일](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") | 제39회 소가야문화제 및 제45회 군민체육대회 특집    | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [소유미](../Page/소유미.md "wikilink")                              |
-| 453회 | [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") |                                 |                                                                                                         |
-| 454회 | [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink")   | 2015 목포 난영가요제 특집                | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박윤미](https://ko.wikipedia.org/wiki/박윤미 "wikilink")           |
-| 455회 | [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink")   |                                 |                                                                                                         |
-| 456회 | [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") | 제38회 노산문화제 및 제33회 군민의 날 특집      | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [연지후](../Page/연지후.md "wikilink")                              |
-| 457회 | [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") |                                 |                                                                                                         |
-| 458회 | [11월 29일](../Page/11월_29일.md "wikilink")                    | 2015 의성 가을빛고운대축제 특집             | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [에이지아](https://ko.wikipedia.org/wiki/에이지아 "wikilink")         |
-| 459회 | [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink")   |                                 |                                                                                                         |
-| 460회 | [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") | 복군 20주년 기념 제13회 차성문화제 특집        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [안소영](https://ko.wikipedia.org/wiki/안소영_\(1981년\) "wikilink") |
-| 461회 | [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink") | MBC가요베스트 대제전                    | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [홍진영](https://ko.wikipedia.org/wiki/홍진영 "wikilink")           |
-| 462회 | [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") |                                 |                                                                                                         |
+| 회차   | 방송일                                      | 부제                              | MC                                                                                                     |
+| ---- | ---------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 432회 | [5월 3일](../Page/5월_3일.md "wikilink")     | 포항-서울 KTX 개통기념 시민화합한마당          | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [홍진영](../Page/홍진영.md "wikilink")                             |
+| 433회 | [5월 10일](../Page/5월_10일.md "wikilink")   |                                 |                                                                                                        |
+| 434회 | [5월 17일](../Page/5월_17일.md "wikilink")   | 가정의 달 孝 잔치                      | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [이은지](https://ko.wikipedia.org/wiki/이은지 "wikilink")          |
+| 435회 | [5월 24일](../Page/5월_24일.md "wikilink")   |                                 |                                                                                                        |
+| 436회 | [5월 31일](../Page/5월_31일.md "wikilink")   | 혁신도시 이전 및 공공기관 직원 및 가족을 위한 창사특집 | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [김연경](https://ko.wikipedia.org/wiki/김연경_\(아나운서\) "wikilink") |
+| 437회 | [6월 7일](../Page/6월_7일.md "wikilink")     |                                 |                                                                                                        |
+| 438회 | [6월 14일](../Page/6월_14일.md "wikilink")   | 제1회 중마동민의 날                     | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [한영](../Page/한영_\(가수\).md "wikilink")                        |
+| 439회 | [6월 21일](../Page/6월_21일.md "wikilink")   |                                 |                                                                                                        |
+| 440회 | [7월 26일](../Page/7월_26일.md "wikilink")   | 전라남도 여수시                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [최한아름](https://ko.wikipedia.org/wiki/최한아름 "wikilink")        |
+| 441회 | [8월 2일](../Page/8월_2일.md "wikilink")     |                                 |                                                                                                        |
+| 442회 | [8월 9일](../Page/8월_9일.md "wikilink")     | 2015 USF 울산 서머페스티벌              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [김연경](https://ko.wikipedia.org/wiki/김연경_\(아나운서\) "wikilink") |
+| 443회 | [8월 16일](../Page/8월_16일.md "wikilink")   |                                 |                                                                                                        |
+| 444회 | [8월 23일](../Page/8월_23일.md "wikilink")   | 제13회 전남 농업경영인대회 특집              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정다희](https://ko.wikipedia.org/wiki/정다희 "wikilink")          |
+| 445회 | [8월 30일](../Page/8월_30일.md "wikilink")   |                                 |                                                                                                        |
+| 446회 | [9월 6일](../Page/9월_6일.md "wikilink")     | 제22회 강원도농촌지도자대회 개최기념 특집         | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [에이지아](https://ko.wikipedia.org/wiki/에이지아 "wikilink")        |
+| 447회 | [9월 13일](../Page/9월_13일.md "wikilink")   |                                 |                                                                                                        |
+| 448회 | [9월 20일](../Page/9월_20일.md "wikilink")   | 부산시민과 함께하는 BIFC 음악회 특집          | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [이지희](../Page/이지희.md "wikilink")                             |
+| 449회 | [9월 27일](../Page/9월_27일.md "wikilink")   |                                 |                                                                                                        |
+| 450회 | [10월 4일](../Page/10월_4일.md "wikilink")   | 제15회 갓바위 소원성취축제 : 갓바위 음악회 특집    | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박규리](../Page/박규리_\(1979년\).md "wikilink")                   |
+| 451회 | [10월 11일](../Page/10월_11일.md "wikilink") |                                 |                                                                                                        |
+| 452회 | [10월 18일](../Page/10월_18일.md "wikilink") | 제39회 소가야문화제 및 제45회 군민체육대회 특집    | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [소유미](../Page/소유미.md "wikilink")                             |
+| 453회 | [10월 25일](../Page/10월_25일.md "wikilink") |                                 |                                                                                                        |
+| 454회 | [11월 1일](../Page/11월_1일.md "wikilink")   | 2015 목포 난영가요제 특집                | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박윤미](https://ko.wikipedia.org/wiki/박윤미 "wikilink")          |
+| 455회 | [11월 8일](../Page/11월_8일.md "wikilink")   |                                 |                                                                                                        |
+| 456회 | [11월 15일](../Page/11월_15일.md "wikilink") | 제38회 노산문화제 및 제33회 군민의 날 특집      | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [연지후](../Page/연지후.md "wikilink")                             |
+| 457회 | [11월 22일](../Page/11월_22일.md "wikilink") |                                 |                                                                                                        |
+| 458회 | [11월 29일](../Page/11월_29일.md "wikilink") | 2015 의성 가을빛고운대축제 특집             | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [에이지아](https://ko.wikipedia.org/wiki/에이지아 "wikilink")        |
+| 459회 | [12월 6일](../Page/12월_6일.md "wikilink")   |                                 |                                                                                                        |
+| 460회 | [12월 13일](../Page/12월_13일.md "wikilink") | 복군 20주년 기념 제13회 차성문화제 특집        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [안소영](../Page/안소영_\(1981년\).md "wikilink")                   |
+| 461회 | [12월 20일](../Page/12월_20일.md "wikilink") | MBC가요베스트 대제전                    | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [홍진영](../Page/홍진영.md "wikilink")                             |
+| 462회 | [12월 27일](../Page/12월_27일.md "wikilink") |                                 |                                                                                                        |
 
 ### 2016년
 
-| 회차   | 방송일                                                         | 부제                                                                                             | MC                                                                                                                  |
-| ---- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 463회 | [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink")     | 제13회 영천한약사과축제 특집                                                                               | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박규리](https://ko.wikipedia.org/wiki/박규리_\(트로트_가수\) "wikilink")            |
-| 464회 | [1월 10일](https://ko.wikipedia.org/wiki/1월_10일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 465회 | [1월 17일](https://ko.wikipedia.org/wiki/1월_17일 "wikilink")   | 2015 대천항 수산물축제 특집                                                                              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [조정민](../Page/조정민_\(가수\).md "wikilink")                                   |
-| 466회 | [1월 24일](https://ko.wikipedia.org/wiki/1월_24일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 467회 | [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink")   | 2016 울산 간절곶 해맞이축제 특집                                                                           | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [조은새](../Page/조은새.md "wikilink")                                          |
-| 468회 | [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink")     | |[김승현](../Page/김승현_\(방송인\).md "wikilink"), [안소미](https://ko.wikipedia.org/wiki/안소미 "wikilink") |                                                                                                                     |
-| 469회 | [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink")   | 강원도 영월군 편                                                                                      | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [연지후](../Page/연지후.md "wikilink")                                          |
-| 470회 | [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 471회 | [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink")   | 힘내라 거제 조선 : 경상남도 거제시 편                                                                         | [박구윤](https://ko.wikipedia.org/wiki/박구윤 "wikilink"), [조은새](../Page/조은새.md "wikilink")                               |
-| 472회 | [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink")     |                                                                                                |                                                                                                                     |
-| 473회 | [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink")   | 2016 삼척 정월대보름제 개막 축하공연 특집                                                                      | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [에이지아](https://ko.wikipedia.org/wiki/에이지아 "wikilink")                     |
-| 474회 | [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 475회 | [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink")   | 3·1절 기념 경상남도 양산시 승격 20주년 특집                                                                    | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [안소미](https://ko.wikipedia.org/wiki/안소미 "wikilink")                       |
-| 476회 | [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink")     |                                                                                                |                                                                                                                     |
-| 477회 | [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink")   | 제19회 광양매화축제 특집                                                                                 | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [최한아름](https://ko.wikipedia.org/wiki/최한아름 "wikilink")                     |
-| 478회 | [4월 24일](https://ko.wikipedia.org/wiki/4월_24일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 479회 | [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink")     | 제19회 영덕대게축제 특집                                                                                 | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [김가영](https://ko.wikipedia.org/wiki/김가영 "wikilink")                       |
-| 480회 | [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink")     |                                                                                                |                                                                                                                     |
-| 481회 | [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink")   | 동해시 개청 36주년 기념                                                                                 | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [에이지아](https://ko.wikipedia.org/wiki/에이지아 "wikilink")                     |
-| 482회 | [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 483회 | [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink")   | 2016 양산 웅상회야제 특집                                                                               | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [안소영](https://ko.wikipedia.org/wiki/안소영_\(1981년\) "wikilink")             |
-| 484회 | [6월 5일](https://ko.wikipedia.org/wiki/6월_5일 "wikilink")     |                                                                                                |                                                                                                                     |
-| 485회 | [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink")   | 제12회 영양산나물축제 특집                                                                                | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정해진](../Page/정해진.md "wikilink")                                          |
-| 486회 | [6월 19일](https://ko.wikipedia.org/wiki/6월_19일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 487회 | [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink")   | 2016 내 고장 사랑 대축제 특집                                                                            | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박규리](../Page/박규리_\(1979년\).md "wikilink")                                |
-| 488회 | [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink")     |                                                                                                |                                                                                                                     |
-| 489회 | [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink")   | 이난영 탄생 100주년 기념 2016 난영가요제 특집                                                                  | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [이지선](https://ko.wikipedia.org/wiki/이지선 "wikilink")                       |
-| 490회 | [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 491회 | [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink")   | 충주메가폴리스 산업단지 성공기원 특집                                                                           | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [조정민](../Page/조정민_\(가수\).md "wikilink")                                   |
-| 492회 | [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 493회 | [8월 7일](https://ko.wikipedia.org/wiki/8월_7일 "wikilink")     | 하이원리조트와 함께하는 2016 삼척해변 특집                                                                      | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [손정민](https://ko.wikipedia.org/wiki/손정민 "wikilink")                       |
-| 494회 | [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 495회 | [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 496회 | [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink")   | 제15회 한국농업경영인 전국대회 특집                                                                           | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [최한아름](https://ko.wikipedia.org/wiki/최한아름 "wikilink")                     |
-| 497회 | [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink")     |                                                                                                |                                                                                                                     |
-| 498회 | [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink")   | 2016 청주세계무예마스터십 성공기원 특집                                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정해진](../Page/정해진.md "wikilink")                                          |
-| 499회 | [9월 18일](https://ko.wikipedia.org/wiki/9월_18일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 500회 | [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink")   | 500회 특집                                                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [조은새](../Page/조은새.md "wikilink"), [조정민](../Page/조정민_\(가수\).md "wikilink") |
-| 501회 | [10월 9일](https://ko.wikipedia.org/wiki/10월_9일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 502회 | [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") | 울산 광역시 편                                                                                       | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [조정민](../Page/조정민_\(가수\).md "wikilink")                                   |
-| 503회 | [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") |                                                                                                |                                                                                                                     |
-| 504회 | [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") | 제62회 부여 백제문화제 특집                                                                               | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [연지후](../Page/연지후.md "wikilink")                                          |
-| 505회 | [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 506회 | [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") | 기장 편                                                                                           | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정해진](../Page/정해진.md "wikilink")                                          |
-| 507회 | [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") |                                                                                                |                                                                                                                     |
-| 508회 | [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") | 영천 편                                                                                           | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박규리](../Page/박규리_\(1979년\).md "wikilink")                                |
-| 509회 | [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink")   |                                                                                                |                                                                                                                     |
-| 510회 | [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") | 광주 편                                                                                           | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정다희](https://ko.wikipedia.org/wiki/정다희 "wikilink")                       |
-| 511회 | [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink") |                                                                                                |                                                                                                                     |
-| 512회 | [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") | MBC가요베스트 대제전                                                                                   | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [노현희](https://ko.wikipedia.org/wiki/노현희 "wikilink")                       |
+| 회차   | 방송일                                      | 부제                                                                          | MC                                                                                                                  |
+| ---- | ---------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 463회 | [1월 3일](../Page/1월_3일.md "wikilink")     | 제13회 영천한약사과축제 특집                                                            | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박규리](https://ko.wikipedia.org/wiki/박규리_\(트로트_가수\) "wikilink")            |
+| 464회 | [1월 10일](../Page/1월_10일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 465회 | [1월 17일](../Page/1월_17일.md "wikilink")   | 2015 대천항 수산물축제 특집                                                           | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [조정민](../Page/조정민_\(가수\).md "wikilink")                                   |
+| 466회 | [1월 24일](../Page/1월_24일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 467회 | [1월 31일](../Page/1월_31일.md "wikilink")   | 2016 울산 간절곶 해맞이축제 특집                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [조은새](../Page/조은새.md "wikilink")                                          |
+| 468회 | [2월 7일](../Page/2월_7일.md "wikilink")     | |[김승현](../Page/김승현_\(방송인\).md "wikilink"), [안소미](../Page/안소미.md "wikilink") |                                                                                                                     |
+| 469회 | [2월 14일](../Page/2월_14일.md "wikilink")   | 강원도 영월군 편                                                                   | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [연지후](../Page/연지후.md "wikilink")                                          |
+| 470회 | [2월 21일](../Page/2월_21일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 471회 | [2월 28일](../Page/2월_28일.md "wikilink")   | 힘내라 거제 조선 : 경상남도 거제시 편                                                      | [박구윤](../Page/박구윤.md "wikilink"), [조은새](../Page/조은새.md "wikilink")                                                  |
+| 472회 | [3월 6일](../Page/3월_6일.md "wikilink")     |                                                                             |                                                                                                                     |
+| 473회 | [3월 13일](../Page/3월_13일.md "wikilink")   | 2016 삼척 정월대보름제 개막 축하공연 특집                                                   | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [에이지아](https://ko.wikipedia.org/wiki/에이지아 "wikilink")                     |
+| 474회 | [3월 20일](../Page/3월_20일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 475회 | [3월 27일](../Page/3월_27일.md "wikilink")   | 3·1절 기념 경상남도 양산시 승격 20주년 특집                                                 | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [안소미](../Page/안소미.md "wikilink")                                          |
+| 476회 | [4월 3일](../Page/4월_3일.md "wikilink")     |                                                                             |                                                                                                                     |
+| 477회 | [4월 17일](../Page/4월_17일.md "wikilink")   | 제19회 광양매화축제 특집                                                              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [최한아름](https://ko.wikipedia.org/wiki/최한아름 "wikilink")                     |
+| 478회 | [4월 24일](../Page/4월_24일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 479회 | [5월 1일](../Page/5월_1일.md "wikilink")     | 제19회 영덕대게축제 특집                                                              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [김가영](https://ko.wikipedia.org/wiki/김가영 "wikilink")                       |
+| 480회 | [5월 8일](../Page/5월_8일.md "wikilink")     |                                                                             |                                                                                                                     |
+| 481회 | [5월 15일](../Page/5월_15일.md "wikilink")   | 동해시 개청 36주년 기념                                                              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [에이지아](https://ko.wikipedia.org/wiki/에이지아 "wikilink")                     |
+| 482회 | [5월 22일](../Page/5월_22일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 483회 | [5월 29일](../Page/5월_29일.md "wikilink")   | 2016 양산 웅상회야제 특집                                                            | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [안소영](../Page/안소영_\(1981년\).md "wikilink")                                |
+| 484회 | [6월 5일](../Page/6월_5일.md "wikilink")     |                                                                             |                                                                                                                     |
+| 485회 | [6월 12일](../Page/6월_12일.md "wikilink")   | 제12회 영양산나물축제 특집                                                             | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정해진](../Page/정해진.md "wikilink")                                          |
+| 486회 | [6월 19일](../Page/6월_19일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 487회 | [6월 26일](../Page/6월_26일.md "wikilink")   | 2016 내 고장 사랑 대축제 특집                                                         | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박규리](../Page/박규리_\(1979년\).md "wikilink")                                |
+| 488회 | [7월 3일](../Page/7월_3일.md "wikilink")     |                                                                             |                                                                                                                     |
+| 489회 | [7월 10일](../Page/7월_10일.md "wikilink")   | 이난영 탄생 100주년 기념 2016 난영가요제 특집                                               | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [이지선](https://ko.wikipedia.org/wiki/이지선 "wikilink")                       |
+| 490회 | [7월 17일](../Page/7월_17일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 491회 | [7월 24일](../Page/7월_24일.md "wikilink")   | 충주메가폴리스 산업단지 성공기원 특집                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [조정민](../Page/조정민_\(가수\).md "wikilink")                                   |
+| 492회 | [7월 31일](../Page/7월_31일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 493회 | [8월 7일](../Page/8월_7일.md "wikilink")     | 하이원리조트와 함께하는 2016 삼척해변 특집                                                   | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [손정민](../Page/손정민.md "wikilink")                                          |
+| 494회 | [8월 14일](../Page/8월_14일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 495회 | [8월 21일](../Page/8월_21일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 496회 | [8월 28일](../Page/8월_28일.md "wikilink")   | 제15회 한국농업경영인 전국대회 특집                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [최한아름](https://ko.wikipedia.org/wiki/최한아름 "wikilink")                     |
+| 497회 | [9월 4일](../Page/9월_4일.md "wikilink")     |                                                                             |                                                                                                                     |
+| 498회 | [9월 11일](../Page/9월_11일.md "wikilink")   | 2016 청주세계무예마스터십 성공기원 특집                                                     | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정해진](../Page/정해진.md "wikilink")                                          |
+| 499회 | [9월 18일](../Page/9월_18일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 500회 | [9월 25일](../Page/9월_25일.md "wikilink")   | 500회 특집                                                                     | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [조은새](../Page/조은새.md "wikilink"), [조정민](../Page/조정민_\(가수\).md "wikilink") |
+| 501회 | [10월 9일](../Page/10월_9일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 502회 | [10월 16일](../Page/10월_16일.md "wikilink") | 울산 광역시 편                                                                    | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [조정민](../Page/조정민_\(가수\).md "wikilink")                                   |
+| 503회 | [10월 23일](../Page/10월_23일.md "wikilink") |                                                                             |                                                                                                                     |
+| 504회 | [10월 30일](../Page/10월_30일.md "wikilink") | 제62회 부여 백제문화제 특집                                                            | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [연지후](../Page/연지후.md "wikilink")                                          |
+| 505회 | [11월 6일](../Page/11월_6일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 506회 | [11월 13일](../Page/11월_13일.md "wikilink") | 기장 편                                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정해진](../Page/정해진.md "wikilink")                                          |
+| 507회 | [11월 20일](../Page/11월_20일.md "wikilink") |                                                                             |                                                                                                                     |
+| 508회 | [11월 27일](../Page/11월_27일.md "wikilink") | 영천 편                                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박규리](../Page/박규리_\(1979년\).md "wikilink")                                |
+| 509회 | [12월 4일](../Page/12월_4일.md "wikilink")   |                                                                             |                                                                                                                     |
+| 510회 | [12월 11일](../Page/12월_11일.md "wikilink") | 광주 편                                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정다희](https://ko.wikipedia.org/wiki/정다희 "wikilink")                       |
+| 511회 | [12월 18일](../Page/12월_18일.md "wikilink") |                                                                             |                                                                                                                     |
+| 512회 | [12월 25일](../Page/12월_25일.md "wikilink") | MBC가요베스트 대제전                                                                | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [노현희](../Page/노현희.md "wikilink")                                          |
 
 ### 2017년
 
@@ -345,25 +345,25 @@
 
 ## 전속 악단
 
-  - 전경호 악단 ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") \~ 현재)\[2\]
-  - 차형재 악단 ([2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [1월 19일](https://ko.wikipedia.org/wiki/1월_19일 "wikilink") \~ [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink"))\[3\]
+  - 전경호 악단 ([2006년](../Page/2006년.md "wikilink") \~ 현재)\[2\]
+  - 차형재 악단 ([2020년](../Page/2020년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink"))\[3\]
 
 ## 전속 코러스
 
-  - 더 코러스 \# ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") \~ 현재)\[4\]
+  - 더 코러스 \# ([2006년](../Page/2006년.md "wikilink") \~ 현재)\[4\]
 
 ## 전속 무용단
 
-  - 유리 무용단 ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") \~ 현재)
+  - 유리 무용단 ([2006년](../Page/2006년.md "wikilink") \~ 현재)
 
 ## 같이 보기
 
-  - [열린음악회](https://ko.wikipedia.org/wiki/열린음악회 "wikilink") (KBS 1TV)
-  - [가요무대](https://ko.wikipedia.org/wiki/가요무대 "wikilink") (KBS 1TV)
+  - [열린음악회](../Page/열린음악회.md "wikilink") (KBS 1TV)
+  - [가요무대](../Page/가요무대.md "wikilink") (KBS 1TV)
   - [전국노래자랑](../Page/전국노래자랑.md "wikilink") (KBS 1TV)
   - [노래가 좋아](../Page/노래가_좋아.md "wikilink") (KBS 1TV)
-  - [전국 톱 10 가요 쇼](https://ko.wikipedia.org/wiki/전국_톱_10_가요_쇼 "wikilink") (JTV)
-  - [쑈\! TV유랑극단](https://ko.wikipedia.org/wiki/쑈!_TV유랑극단 "wikilink") (KNN)
+  - [전국 톱 10 가요 쇼](../Page/전국_톱_10_가요_쇼.md "wikilink") (JTV)
+  - [쑈\! TV유랑극단](../Page/쑈!_TV유랑극단.md "wikilink") (KNN)
   - [성인가요콘서트](../Page/성인가요콘서트.md "wikilink") (INET TV)
   - [가요사랑콘서트](../Page/가요사랑콘서트.md "wikilink") (INET TV)
 
@@ -371,7 +371,7 @@
 
 [분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:문화방송의 음악 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_음악_프로그램 "wikilink")
 
-1.  2018년 2월 4일 \~ 3월 4일 방송분은 [현진우](https://ko.wikipedia.org/wiki/현진우 "wikilink")가 대신 진행했다.
+1.  2018년 2월 4일 \~ 3월 4일 방송분은 [현진우](../Page/현진우.md "wikilink")가 대신 진행했다.
 2.  원래 악단 이름은 조경훈과 친구들이었다. 이후에 악단장이 전경호로 변경됨에 따라 악단 이름도 전경호 악단으로 변경되었다.
 3.  순천시 편 1부, 2부 악단장은 전경호가 아닌 트럼본 담당 차형재였다. 물론 단원들은 기존 전경호 악단 단원들 그대로였다.
 4.  원래 코러스 팀 이름은 배미영 코러스였다. 이후에 코러스 팀 이름이 더 코러스 \#으로 변경되었다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Best \(  \)](https://ko.wikipedia.org/wiki/Best_\(__\)).
 
 
-**Best**는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 베스트 앨범이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") [GIZA studio에서](https://ko.wikipedia.org/wiki/GIZA_studio "wikilink") 발매되었다.
+**Best**는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 베스트 앨범이다. [2005년](../Page/2005년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.
 
 데뷔 5주년을 기념한 베스트 앨범으로, ‘Best Selection 2000 to 2005’라는 부제를 가지고 있다.
 
@@ -11,7 +11,7 @@
 
 또한 셀프 커버곡으로 [이와타 사유리의](https://ko.wikipedia.org/wiki/:ja:岩田さゆり "wikilink") 2번째 싱글곡으로 제공한〈하늘색 고양이〉를 셀프 커버해 수록하였고, 신곡으로〈GARNET CROW livescope 2005 \~I'm Waiting 4 You & live\~〉에서 처음 공개 되었던〈〈안녕〉이라는 단 한마디로...〉를 수록하고 있다.
 
-오리콘 차트에서 GARNET CROW의 앨범 중 가장 높은 순위인 4위를 기록하였다. (두 번째 앨범〈[SPARKLE \~줄거리 그대로의 스카이 블루\~](../Page/SPARKLE_~스지가키도오리노스카이블루~.md "wikilink")〉, 다섯 번째 앨범〈[THE TWILIGHT VALLEY](https://ko.wikipedia.org/wiki/THE_TWILIGHT_VALLEY "wikilink")〉와 순위가 같음)
+오리콘 차트에서 GARNET CROW의 앨범 중 가장 높은 순위인 4위를 기록하였다. (두 번째 앨범〈[SPARKLE \~줄거리 그대로의 스카이 블루\~](../Page/SPARKLE_~스지가키도오리노스카이블루~.md "wikilink")〉, 다섯 번째 앨범〈[THE TWILIGHT VALLEY](../Page/THE_TWILIGHT_VALLEY.md "wikilink")〉와 순위가 같음)
 
 초회생산반에는 5주년 프리미엄 라이브 응모 엽서와 CD 사이즈 탁상 캘린더가 들어있었다.
 

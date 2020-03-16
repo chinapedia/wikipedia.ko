@@ -3,7 +3,7 @@
 
 "**Piece of Me**"는 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 5번째 앨범《*[Blackout](https://ko.wikipedia.org/wiki/Blackout "wikilink")*》의 두 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). Christian Karlsson, Pontus Winnberg, Klas Åhlund가 작곡하였다.
 
-이 곡은 매우 좋은 인기를 얻어 많은 국가들에서 10위권 안의 차트를 기록했으며, 특히 [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink")와 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")에서 1위를 차지하였다.
+이 곡은 매우 좋은 인기를 얻어 많은 국가들에서 10위권 안의 차트를 기록했으며, 특히 [아일랜드](../Page/아일랜드.md "wikilink")와 [브라질](../Page/브라질.md "wikilink")에서 1위를 차지하였다.
 
 ## 음반 판매량
 

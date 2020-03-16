@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [I\'m waiting 4 you](https://ko.wikipedia.org/wiki/I\'m_waiting_4_you).
 
 
-**I'm Waiting 4 You**는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 네 번째 앨범이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") [GIZA studio에서](https://ko.wikipedia.org/wiki/GIZA_studio "wikilink") 발매되었다.
+**I'm Waiting 4 You**는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 네 번째 앨범이다. [2004년](../Page/2004년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.
 
-전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](https://ko.wikipedia.org/wiki/아즈키_나나 "wikilink"), 편곡은 [후루이 히로히토](https://ko.wikipedia.org/wiki/후루이_히로히토 "wikilink") (〈Sky \~new arranged track\~〉은 Miguel sa Pessoa) 가 맡았다.
+전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](../Page/아즈키_나나.md "wikilink"), 편곡은 [후루이 히로히토](../Page/후루이_히로히토.md "wikilink") (〈Sky \~new arranged track\~〉은 Miguel sa Pessoa) 가 맡았다.
 
-[오리콘](../Page/오리콘.md "wikilink") 차트에서 최고순위 11위를 기록해 [GARNET CROW가](../Page/GARNET_CROW.md "wikilink") [GIZA studio에서](https://ko.wikipedia.org/wiki/GIZA_studio "wikilink") 발매했던 앨범 중 유일하게 [오리콘](../Page/오리콘.md "wikilink") 톱 10안에 랭크인 하지 못했다. 다른 앨범에 비해 서정적인 곡이 많다.
+[오리콘](../Page/오리콘.md "wikilink") 차트에서 최고순위 11위를 기록해 [GARNET CROW가](../Page/GARNET_CROW.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매했던 앨범 중 유일하게 [오리콘](../Page/오리콘.md "wikilink") 톱 10안에 랭크인 하지 못했다. 다른 앨범에 비해 서정적인 곡이 많다.
 
 타이틀인〈I'm Waiting 4 You〉의 “4”는 네 번째 앨범인것, GARNET CROW의 멤버수가 4명인것, 당신(팬)들을 위해서(4 you = for you) 만든 앨범이라는 뜻을 가지고 있다. 또한 인디즈 미니 앨범인〈[first kaleidscope \~너의 집에 도착할 때까지 계속 달려가\~](https://ko.wikipedia.org/wiki/first_kaleidscope_~너의_집에_도착할_때까지_계속_달려가~ "wikilink")〉에 수록되어있던〈Sky〉를 다시 편곡하여 수록하고 있다.
 

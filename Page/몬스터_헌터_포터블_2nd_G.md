@@ -3,7 +3,7 @@
 
 《**몬스터 헌터 포터블 2nd G**》는 [몬스터 헌터 포터블 2nd의](https://ko.wikipedia.org/wiki/몬스터_헌터_포터블_2nd "wikilink") 확장판 형식으로 기본적으로 [몬스터 헌터 포터블 2nd와](https://ko.wikipedia.org/wiki/몬스터_헌터_포터블_2nd "wikilink") 같다.
 
-몬스터헌터 포터블 2nd G는 기존작인 [몬스터 헌터 포터블 2nd의](https://ko.wikipedia.org/wiki/몬스터_헌터_포터블_2nd "wikilink") 성공에 힘입어 [PSP의](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 타이틀 중 가장 인기있는 타이틀 중 하나가 되었다. 일본에서는 이 로 인하여, 기존에 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")의 [NDSL](https://ko.wikipedia.org/wiki/NDSL "wikilink")의 인기에 눌려 있었던 [PSP가](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 다시 판매랑 1위를 차지할 수 있는 계기를 마련해 주기도 하였으며, [애드훅](https://ko.wikipedia.org/wiki/애드훅 "wikilink")기능으로 멀티플레이가 가능하여 친구나 주변 사람끼리 함께 하는 것이 유행처럼 되기도 하였다.
+몬스터헌터 포터블 2nd G는 기존작인 [몬스터 헌터 포터블 2nd의](https://ko.wikipedia.org/wiki/몬스터_헌터_포터블_2nd "wikilink") 성공에 힘입어 [PSP의](../Page/플레이스테이션_포터블.md "wikilink") 타이틀 중 가장 인기있는 타이틀 중 하나가 되었다. 일본에서는 이 로 인하여, 기존에 [닌텐도](../Page/닌텐도.md "wikilink")의 [NDSL](https://ko.wikipedia.org/wiki/NDSL "wikilink")의 인기에 눌려 있었던 [PSP가](../Page/플레이스테이션_포터블.md "wikilink") 다시 판매랑 1위를 차지할 수 있는 계기를 마련해 주기도 하였으며, [애드훅](https://ko.wikipedia.org/wiki/애드훅 "wikilink")기능으로 멀티플레이가 가능하여 친구나 주변 사람끼리 함께 하는 것이 유행처럼 되기도 하였다.
 
 ## 게임의 특징
 
@@ -192,8 +192,8 @@
 
 ## 역사
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") 발매
-  - [플레이스테이션 포터블](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink")(PSP) 최초로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 13일](https://ko.wikipedia.org/wiki/5월_13일 "wikilink") 200만의 판매고를 기록하였다.
+  - [2008년](../Page/2008년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") 발매
+  - [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink")(PSP) 최초로 [2008년](../Page/2008년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") 200만의 판매고를 기록하였다.
 
 ## 각주
 

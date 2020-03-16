@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**노팅엄 포리스트 FC**(Nottingham Forest FC)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽팀으로 [노팅엄](../Page/노팅엄.md "wikilink")을 연고로 삼고, [시티 그라운드를](https://ko.wikipedia.org/wiki/시티_그라운드 "wikilink") 홈 구장으로 이용하고 있다. 현재 클럽은 [EFL 챔피언십에](../Page/EFL_챔피언십.md "wikilink") 참가하고 있으며, [유러피언컵의](../Page/UEFA_챔피언스리그.md "wikilink") 2회 연속 우승을 비롯하여 [FA컵](../Page/FA컵.md "wikilink"), [리그 컵](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 우승 등의 역사를 가지고 있다. 2004-05 [챔피언십](../Page/EFL_챔피언십.md "wikilink") 시즌에서 [리그 1로](https://ko.wikipedia.org/wiki/EFL_리그_1 "wikilink") 강등되었는데, 이는 UEFA 챔피언스리그 우승 경력이 있는 팀 가운데 최초로 3부 리그로 강등된 것이다. 2007-08 시즌 [리그 1](https://ko.wikipedia.org/wiki/EFL_리그_1 "wikilink") 에서 2위를 차지하여 다시 [챔피언십으로](../Page/EFL_챔피언십.md "wikilink") 승격하였다. 2009-10 시즌에서는 3위를 기록했으나 플레이오프에서 패배하여 승격에 실패하였다.
+**노팅엄 포리스트 FC**(Nottingham Forest FC)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽팀으로 [노팅엄](../Page/노팅엄.md "wikilink")을 연고로 삼고, [시티 그라운드를](../Page/시티_그라운드.md "wikilink") 홈 구장으로 이용하고 있다. 현재 클럽은 [EFL 챔피언십에](../Page/EFL_챔피언십.md "wikilink") 참가하고 있으며, [유러피언컵의](../Page/UEFA_챔피언스리그.md "wikilink") 2회 연속 우승을 비롯하여 [FA컵](../Page/FA컵.md "wikilink"), [리그 컵](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 우승 등의 역사를 가지고 있다. 2004-05 [챔피언십](../Page/EFL_챔피언십.md "wikilink") 시즌에서 [리그 1로](https://ko.wikipedia.org/wiki/EFL_리그_1 "wikilink") 강등되었는데, 이는 UEFA 챔피언스리그 우승 경력이 있는 팀 가운데 최초로 3부 리그로 강등된 것이다. 2007-08 시즌 [리그 1](https://ko.wikipedia.org/wiki/EFL_리그_1 "wikilink") 에서 2위를 차지하여 다시 [챔피언십으로](../Page/EFL_챔피언십.md "wikilink") 승격하였다. 2009-10 시즌에서는 3위를 기록했으나 플레이오프에서 패배하여 승격에 실패하였다.
 
-노팅엄 포리스트는 이 이름을 도시 북쪽에 위치한 포리스트 레크리에이션 그라운드의 명칭을 따서 지었다. 이 경기장은 노팅엄 포리스트 팀이 처음으로 경기를 펼친 곳이기도 하다. 이 클럽은 종종 간단하게 *포리스트*라고 불리기도 한다. 노팅엄 포리스트의 팬들은 팀 이름을 "노츠 포리스트"라고 줄여 부르는 걸 좋아하지 않는다. 왜냐하면 "노츠"(Notts)는 [노팅엄셔주](https://ko.wikipedia.org/wiki/노팅엄셔주 "wikilink")(Nottinghamshire)의 줄임말이고 노팅엄을 대표하는 것이 아니기 때문이다.
+노팅엄 포리스트는 이 이름을 도시 북쪽에 위치한 포리스트 레크리에이션 그라운드의 명칭을 따서 지었다. 이 경기장은 노팅엄 포리스트 팀이 처음으로 경기를 펼친 곳이기도 하다. 이 클럽은 종종 간단하게 *포리스트*라고 불리기도 한다. 노팅엄 포리스트의 팬들은 팀 이름을 "노츠 포리스트"라고 줄여 부르는 걸 좋아하지 않는다. 왜냐하면 "노츠"(Notts)는 [노팅엄셔주](../Page/노팅엄셔주.md "wikilink")(Nottinghamshire)의 줄임말이고 노팅엄을 대표하는 것이 아니기 때문이다.
 
 ## 현재 선수 명단
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink") 기준
+[2017년](../Page/2017년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") 기준
 
 ## 유명 선수
 
-  - [피에르 판 호이동크](https://ko.wikipedia.org/wiki/피에르_판_호이동크 "wikilink")
+  - [피에르 판 호이동크](../Page/피에르_판_호이동크.md "wikilink")
 
-  - [에런 램지](https://ko.wikipedia.org/wiki/에런_램지 "wikilink")
+  - [에런 램지](../Page/에런_램지.md "wikilink")
 
-  - [피터 실턴](https://ko.wikipedia.org/wiki/피터_실턴 "wikilink")
+  - [피터 실턴](../Page/피터_실턴.md "wikilink")
 
-  - [마틴 오닐](https://ko.wikipedia.org/wiki/마틴_오닐 "wikilink")
+  - [마틴 오닐](../Page/마틴_오닐.md "wikilink")
 
 ## 역대 성적
 

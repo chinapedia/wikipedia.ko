@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Hidden Treasures](https://ko.wikipedia.org/wiki/Hidden_Treasures).
 
 
-***Hidden Treasures***는 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")에 발매된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 스래시 메탈 밴드 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 EP이다. 이 EP는 기존 스튜디오 앨범에 수록되지 못했던 영화 주제가나, 커버곡등을 포함하고 있다. 미국판은 현재 절판되었으며, 일본판은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 이후로 생산이 재개되었다. 유럽에선 이 EP가 Youthanasia의 보너스 CD로 제공되기도 했으며, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 30일자로](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") 재생산되고 있다.
+***Hidden Treasures***는 [1995년](../Page/1995년.md "wikilink")에 발매된 [미국](../Page/미국.md "wikilink") 스래시 메탈 밴드 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 EP이다. 이 EP는 기존 스튜디오 앨범에 수록되지 못했던 영화 주제가나, 커버곡등을 포함하고 있다. 미국판은 현재 절판되었으며, 일본판은 [2006년](../Page/2006년.md "wikilink") 이후로 생산이 재개되었다. 유럽에선 이 EP가 Youthanasia의 보너스 CD로 제공되기도 했으며, [2007년](../Page/2007년.md "wikilink") [8월 30일자로](../Page/8월_30일.md "wikilink") 재생산되고 있다.
 
-앨범 커버는 [애리조나주](https://ko.wikipedia.org/wiki/애리조나주 "wikilink")의 [피닉스 시](../Page/피닉스_\(애리조나주\).md "wikilink") 근방의 소축적 지도이다.
+앨범 커버는 [애리조나주](../Page/애리조나주.md "wikilink")의 [피닉스 시](../Page/피닉스_\(애리조나주\).md "wikilink") 근방의 소축적 지도이다.
 
 ## 트랙
 

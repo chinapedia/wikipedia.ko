@@ -169,7 +169,7 @@
 
 ## 같이 보기
 
-  - [오토데스크](https://ko.wikipedia.org/wiki/오토데스크 "wikilink")
+  - [오토데스크](../Page/오토데스크.md "wikilink")
   - [오토캐드](../Page/오토캐드.md "wikilink")
   - [큐캐드(Qcad)](../Page/QCad.md "wikilink")
   - [CAD](../Page/컴퓨터_지원_설계.md "wikilink")

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [XM25 IAWS](https://ko.wikipedia.org/wiki/XM25_IAWS).
 
 
-**XM25 공중폭발탄발사기**()는 [OICW](https://ko.wikipedia.org/wiki/OICW "wikilink") 인크리먼트 2 계획에 해당하는 독립형 [불펍](https://ko.wikipedia.org/wiki/불펍 "wikilink") 공중폭발탄발사기이다. 총신 위에 장착된 목표 포착 및 사격 관제 조준 장치인 XM104로 HEAB탄의 신관을 전자적으로 통제하여, 25 mm 저속 공중폭발탄을 적의 머리 위에서 폭발시켜 효과적으로 처리할 수 있다.
+**XM25 공중폭발탄발사기**()는 [OICW](https://ko.wikipedia.org/wiki/OICW "wikilink") 인크리먼트 2 계획에 해당하는 독립형 [불펍](../Page/불펍.md "wikilink") 공중폭발탄발사기이다. 총신 위에 장착된 목표 포착 및 사격 관제 조준 장치인 XM104로 HEAB탄의 신관을 전자적으로 통제하여, 25 mm 저속 공중폭발탄을 적의 머리 위에서 폭발시켜 효과적으로 처리할 수 있다.
 
-[9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") 독일의  훈련장에서 [XM312](https://ko.wikipedia.org/wiki/XM312 "wikilink"), [XM320](https://ko.wikipedia.org/wiki/XM320 "wikilink")과 동시에 행해진 시험 사격의 결과를 미국 육군 소속의 케빈 스토다드 중령은 대부분 초탄에 명중시켰으며, 빠르게 적과 교전을 하고 이동할 수 있었다고 평가하였다\[1\].
+[9월 24일](../Page/9월_24일.md "wikilink") 독일의  훈련장에서 [XM312](https://ko.wikipedia.org/wiki/XM312 "wikilink"), [XM320](https://ko.wikipedia.org/wiki/XM320 "wikilink")과 동시에 행해진 시험 사격의 결과를 미국 육군 소속의 케빈 스토다드 중령은 대부분 초탄에 명중시켰으며, 빠르게 적과 교전을 하고 이동할 수 있었다고 평가하였다\[1\].
 
 아직 [얼라이언트 테크시스템스에서](https://ko.wikipedia.org/wiki/얼라이언트_테크시스템스 "wikilink") 개발 중이다.
 
@@ -15,7 +15,7 @@
       - 훈련탄
       - 열압력탄
       - 강철제 화살 (플레쉐트탄)
-  - 작동방식: [반자동 화기](https://ko.wikipedia.org/wiki/반자동_화기 "wikilink"), [가스 작동식](https://ko.wikipedia.org/wiki/가스_작동식 "wikilink"), [회전 노리쇠 방식](https://ko.wikipedia.org/wiki/회전_노리쇠_방식 "wikilink")
+  - 작동방식: [반자동 화기](https://ko.wikipedia.org/wiki/반자동_화기 "wikilink"), [가스 작동식](../Page/가스_작동식.md "wikilink"), [회전 노리쇠 방식](../Page/회전_노리쇠_방식.md "wikilink")
   - 사거리: 500 m 점표적, 1000m 광역표적
   - 전체무게: 6.35kg
   - 조준기: 목표 포착 / 사격 관제 (XM104)

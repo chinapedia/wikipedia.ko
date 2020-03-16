@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Meddle](https://ko.wikipedia.org/wiki/Meddle).
 
 
-**Meddle**은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 밴드 [핑크 플로이드가](https://ko.wikipedia.org/wiki/핑크_플로이드 "wikilink") 1971년 발매한 앨범이다. 영국 앨범 차트 3위, [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 앨범 차트 70위를 기록했다.
+**Meddle**은 [영국](../Page/영국.md "wikilink") 밴드 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") 1971년 발매한 앨범이다. 영국 앨범 차트 3위, [빌보드](../Page/빌보드.md "wikilink") 앨범 차트 70위를 기록했다.
 
 ## 녹음
 
@@ -11,7 +11,7 @@ Meddle 앨범은 [애비 로드 스튜디오에서](../Page/애비_로드_스튜
 
 ## 커버 디자인
 
-원래 [스톰 쏘거슨은](https://ko.wikipedia.org/wiki/스톰_쏘거슨 "wikilink") [개코원숭이](https://ko.wikipedia.org/wiki/개코원숭이 "wikilink")의 항문 사진을 사용하려 했다. 그러자 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 투어중이던 밴드는 그에게 국제전화를 걸어 "물에 잠긴 귀"\[2\]가 좋을 것이라고 제안했고, 결국 최종적으로 그렇게 되었다.(미국과 캐나다 발매반은 영국반과 색이 일부 다르다)
+원래 [스톰 쏘거슨은](https://ko.wikipedia.org/wiki/스톰_쏘거슨 "wikilink") [개코원숭이](../Page/개코원숭이.md "wikilink")의 항문 사진을 사용하려 했다. 그러자 [일본](../Page/일본.md "wikilink")에서 투어중이던 밴드는 그에게 국제전화를 걸어 "물에 잠긴 귀"\[2\]가 좋을 것이라고 제안했고, 결국 최종적으로 그렇게 되었다.(미국과 캐나다 발매반은 영국반과 색이 일부 다르다)
 
 [LP](https://ko.wikipedia.org/wiki/LP_\(레코드\) "wikilink") 커버 안쪽에는 멤버의 사진이 흑백으로 인쇄되어 있다.\[3\] 이로써 이 앨범은 커버에 멤버 4명이 모두 등장하는 마지막 앨범이 되었다.
 
@@ -19,19 +19,19 @@ Meddle 앨범은 [애비 로드 스튜디오에서](../Page/애비_로드_스튜
 
 ### A면
 
-1.  "One of These Days" ([데이빗 길모어](https://ko.wikipedia.org/wiki/데이빗_길모어 "wikilink"), [닉 메이슨](https://ko.wikipedia.org/wiki/닉_메이슨 "wikilink"), [로저 워터스](https://ko.wikipedia.org/wiki/로저_워터스 "wikilink"), [릭 라이트](https://ko.wikipedia.org/wiki/릭_라이트 "wikilink")) – 5:57
+1.  "One of These Days" ([데이빗 길모어](https://ko.wikipedia.org/wiki/데이빗_길모어 "wikilink"), [닉 메이슨](../Page/닉_메이슨.md "wikilink"), [로저 워터스](../Page/로저_워터스.md "wikilink"), [릭 라이트](https://ko.wikipedia.org/wiki/릭_라이트 "wikilink")) – 5:57
       - 목소리 : 닉 메이슨
       - 이 곡에서 닉 메이슨은 "언젠가 너를 조각조각 잘라버릴거야"("One of these days I'm going to cut you into little pieces")라고 말하는데, 이는 당시 그들에 대해 적대적인 태도를 견지하던 라디오 DJ Jimmy Young를 향한 내용이다.\[4\]
 2.  "A Pillow of Winds" (길모어, 워터스) – 5:10
       - 리드 보컬 : 데이빗 길모어
 3.  "Fearless" (길모어, 워터스) – 6:08
       - 리드 보컬 : 데이빗 길모어
-      - 삽입곡 : "[You'll Never Walk Alone](https://ko.wikipedia.org/wiki/You'll_Never_Walk_Alone "wikilink")"
+      - 삽입곡 : "[You'll Never Walk Alone](../Page/You'll_Never_Walk_Alone.md "wikilink")"
 4.  "San Tropez" (워터스) – 3:43
       - 리드 보컬 : 워터스
 5.  "Seamus" (길모어, 워터스, 메이슨, 라이트) – 2:16
       - 리드 보컬 : 길모어, 시무스
-      - 시무스는 Steve Marriott의 애견 이름이기도 하다. [하모니카](https://ko.wikipedia.org/wiki/하모니카 "wikilink") 소리를 들으면 짖기 시작한다는 사실을 발견한 밴드가, 시무스를 위한 곡을 썼기 때문이다.\[5\] 이 곡은 [폼페이 라이브에서](https://ko.wikipedia.org/wiki/Pink_Floyd:_Live_at_Pompeii "wikilink") "Mademoiselle Nobs"라는 이름으로 다시 연주하기도 했다(이 때에는 다른 개와 함께했다).
+      - 시무스는 Steve Marriott의 애견 이름이기도 하다. [하모니카](../Page/하모니카.md "wikilink") 소리를 들으면 짖기 시작한다는 사실을 발견한 밴드가, 시무스를 위한 곡을 썼기 때문이다.\[5\] 이 곡은 [폼페이 라이브에서](https://ko.wikipedia.org/wiki/Pink_Floyd:_Live_at_Pompeii "wikilink") "Mademoiselle Nobs"라는 이름으로 다시 연주하기도 했다(이 때에는 다른 개와 함께했다).
 
 ### B면
 
@@ -53,9 +53,9 @@ Meddle 앨범은 [애비 로드 스튜디오에서](../Page/애비_로드_스튜
 ## 참여
 
   - [데이빗 길모어](https://ko.wikipedia.org/wiki/데이빗_길모어 "wikilink") : 기타, "San Tropez"를 제외한 곡에서 보컬, "One of These Days"에서 베이스, "Seamus"에서 하모니카
-  - [로저 워터스](https://ko.wikipedia.org/wiki/로저_워터스 "wikilink") : 베이스, "Fearless"에서 리듬 기타, "San Tropez"에서 보컬과 기타
+  - [로저 워터스](../Page/로저_워터스.md "wikilink") : 베이스, "Fearless"에서 리듬 기타, "San Tropez"에서 보컬과 기타
   - [릭 라이트](https://ko.wikipedia.org/wiki/릭_라이트 "wikilink") : 키보드, 피아노, [해몬드 오르간](https://ko.wikipedia.org/wiki/해몬드_오르간 "wikilink"), "Echoes"에서 보컬
-  - [닉 메이슨](https://ko.wikipedia.org/wiki/닉_메이슨 "wikilink") : 드럼, 타악기, "One of These Days"에서 목소리
+  - [닉 메이슨](../Page/닉_메이슨.md "wikilink") : 드럼, 타악기, "One of These Days"에서 목소리
 
 ## 각주
 

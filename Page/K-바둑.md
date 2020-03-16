@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K-](https://ko.wikipedia.org/wiki/K-).
 
 
-**K바둑**(KBaduk)은 대한민국의 바둑 채널이다. 과거 **SKY 바둑채널**이라는 채널명을 썼었으나 [2011년 3월부로](https://ko.wikipedia.org/wiki/2011년_3월 "wikilink") 'K바둑(한국바둑방송)'으로 채널명을 변경하였다.
+**K바둑**(KBaduk)은 대한민국의 바둑 채널이다. 과거 **SKY 바둑채널**이라는 채널명을 썼었으나 [2011년 3월부로](../Page/2011년_3월.md "wikilink") 'K바둑(한국바둑방송)'으로 채널명을 변경하였다.
 
 ## 프로그램
 
@@ -51,8 +51,8 @@
   - 부산:금정,부산중,부산동,영도,부산진,해운대,기장군
   - [현대HCN](../Page/현대HCN.md "wikilink")-서울 534 지방 514
   - 경북:(포항시/영덕군/울진군/울릉군,김천시/구미시/상주시/칠곡군/성주군/고령군/군위군
-  - 동래구/연제구,충북 ([CCS충북방송](https://ko.wikipedia.org/wiki/CCS충북방송 "wikilink")는 154
-  - [서경방송](https://ko.wikipedia.org/wiki/서경방송 "wikilink"):409 진주시, 사천시, 남해군, 산청군, 함양군, 하동군
+  - 동래구/연제구,충북 ([CCS충북방송](../Page/CCS충북방송.md "wikilink")는 154
+  - [서경방송](../Page/서경방송.md "wikilink"):409 진주시, 사천시, 남해군, 산청군, 함양군, 하동군
   - 울산:123,광주동,북구:80
   - 달서,달성:133 인천남구,연수구:196
   - every on <TV:90>

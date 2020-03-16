@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [DDR3 SDRAM](https://ko.wikipedia.org/wiki/DDR3_SDRAM).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Desktop_DDR_Memory_Comparison.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Laptop_SODIMM_DDR_Memory_Comparison_V2.svg "wikilink") [전자 공학에서](https://ko.wikipedia.org/wiki/전자_공학 "wikilink") **DDR3 SDRAM**은 컴퓨터와 다른 디지털 회로 장치에서 데이터를 빠르게 처리하는 데 쓰이는 램 기술이다. 디램 가운데 하나인 [SDRAM](https://ko.wikipedia.org/wiki/SDRAM "wikilink")계 기술의 일부이며, 이전 기술인 DDR2 SDRAM 제품보다 동작속도, 전력소모 등이 뛰어나다. 삼성전자가 2005년 업계최초로 개발하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Desktop_DDR_Memory_Comparison.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Laptop_SODIMM_DDR_Memory_Comparison_V2.svg "wikilink") [전자 공학에서](https://ko.wikipedia.org/wiki/전자_공학 "wikilink") **DDR3 SDRAM**은 컴퓨터와 다른 디지털 회로 장치에서 데이터를 빠르게 처리하는 데 쓰이는 램 기술이다. 디램 가운데 하나인 [SDRAM](../Page/SDRAM.md "wikilink")계 기술의 일부이며, 이전 기술인 DDR2 SDRAM 제품보다 동작속도, 전력소모 등이 뛰어나다. 삼성전자가 2005년 업계최초로 개발하였다.
 
-DDR3의 주된 이점은 입출력 버스를 메모리 셀의 속도보다 4배나 빠르게 동작할 수 있다는 점이며, 이로써 이전의 메모리 기술보다 더 빠른 버스 속도를 구현할 수 있다. 다만 더 빠른 버스 속도와 [스루풋](https://ko.wikipedia.org/wiki/스루풋 "wikilink")은 [레이턴시를](https://ko.wikipedia.org/wiki/SDRAM_레이턴시 "wikilink") 늘리는 결과를 낳아 전반적인 속도가 떨어질 수 있다. 또한, DDR3은 512 [메가비트](https://ko.wikipedia.org/wiki/메가비트 "wikilink")부터 8 [기가비트](https://ko.wikipedia.org/wiki/기가비트 "wikilink")까지의 칩 용량을 표준으로 지정해 놓고 있다. 따라서 최대 16 기가바이트의 메모리 모듈을 사용할 수 있다.
+DDR3의 주된 이점은 입출력 버스를 메모리 셀의 속도보다 4배나 빠르게 동작할 수 있다는 점이며, 이로써 이전의 메모리 기술보다 더 빠른 버스 속도를 구현할 수 있다. 다만 더 빠른 버스 속도와 [스루풋](https://ko.wikipedia.org/wiki/스루풋 "wikilink")은 [레이턴시를](https://ko.wikipedia.org/wiki/SDRAM_레이턴시 "wikilink") 늘리는 결과를 낳아 전반적인 속도가 떨어질 수 있다. 또한, DDR3은 512 [메가비트](https://ko.wikipedia.org/wiki/메가비트 "wikilink")부터 8 [기가비트](../Page/기가비트.md "wikilink")까지의 칩 용량을 표준으로 지정해 놓고 있다. 따라서 최대 16 기가바이트의 메모리 모듈을 사용할 수 있다.
 
 ## 규격 표준
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [A.out](https://ko.wikipedia.org/wiki/A.out).
 
 
-**a.out**은 과거 [유닉스 계통](https://ko.wikipedia.org/wiki/유닉스_계통 "wikilink") [운영 체제에서](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 사용하던 [실행 파일과](../Page/실행_파일.md "wikilink") [목적 파일](../Page/목적_파일.md "wikilink") 형식이다. 이후에는 [공유 라이브러리](https://ko.wikipedia.org/wiki/공유_라이브러리 "wikilink") 형식으로도 사용되었다. a.out이라는 이름은 [어셈블러](https://ko.wikipedia.org/wiki/어셈블러 "wikilink") 출력(assembler output)을 줄인 말이다.
+**a.out**은 과거 [유닉스 계통](https://ko.wikipedia.org/wiki/유닉스_계통 "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink") 사용하던 [실행 파일과](../Page/실행_파일.md "wikilink") [목적 파일](../Page/목적_파일.md "wikilink") 형식이다. 이후에는 [공유 라이브러리](https://ko.wikipedia.org/wiki/공유_라이브러리 "wikilink") 형식으로도 사용되었다. a.out이라는 이름은 [어셈블러](https://ko.wikipedia.org/wiki/어셈블러 "wikilink") 출력(assembler output)을 줄인 말이다.
 
-a.out을 사용하던 대부분의 운영 체제는 이후 [ELF](https://ko.wikipedia.org/wiki/실행_및_링크_가능_포맷 "wikilink") 형식으로 대체하였다. 현재 a.out라는 명칭은 몇몇 [컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink")나 [링커에서](https://ko.wikipedia.org/wiki/링커_\(컴퓨팅\) "wikilink") 출력 파일명 기본값으로 사용되는 것에서 흔적을 찾을 수 있다.
+a.out을 사용하던 대부분의 운영 체제는 이후 [ELF](https://ko.wikipedia.org/wiki/실행_및_링크_가능_포맷 "wikilink") 형식으로 대체하였다. 현재 a.out라는 명칭은 몇몇 [컴파일러](../Page/컴파일러.md "wikilink")나 [링커에서](../Page/링커_\(컴퓨팅\).md "wikilink") 출력 파일명 기본값으로 사용되는 것에서 흔적을 찾을 수 있다.
 
 ## 역사
 
@@ -11,11 +11,11 @@ UNIX 첫 번째 버전은 [PDP-7](https://ko.wikipedia.org/wiki/PDP-7 "wikilink"
 
 이후 AT\&T [유닉스 시스템 V에서는](https://ko.wikipedia.org/wiki/유닉스_시스템_V "wikilink") [COFF](https://ko.wikipedia.org/wiki/COFF "wikilink") 형식으로 대체되었고, [릴리즈 4에서](https://ko.wikipedia.org/wiki/유닉스_시스템_V "wikilink") [ELF](https://ko.wikipedia.org/wiki/실행_및_링크_가능_포맷 "wikilink") 형식으로 대체되었다.
 
-[BSD](https://ko.wikipedia.org/wiki/BSD "wikilink") 계열에서는 a.out 형식을 비교적 오래 사용했지만, 결과적으로 대부분의 BSD 운영체제는 ELF 형식을 사용하기 시작했다. [NetBSD](https://ko.wikipedia.org/wiki/NetBSD "wikilink")/i386은 1.5 릴리즈에서, [FreeBSD](https://ko.wikipedia.org/wiki/FreeBSD "wikilink")/i386은 2.2 릴리즈에서 3.0 릴리즈로 올리는 과정에서 ELF를 채택했다.
+[BSD](../Page/BSD.md "wikilink") 계열에서는 a.out 형식을 비교적 오래 사용했지만, 결과적으로 대부분의 BSD 운영체제는 ELF 형식을 사용하기 시작했다. [NetBSD](../Page/NetBSD.md "wikilink")/i386은 1.5 릴리즈에서, [FreeBSD](../Page/FreeBSD.md "wikilink")/i386은 2.2 릴리즈에서 3.0 릴리즈로 올리는 과정에서 ELF를 채택했다.
 
 a.out 형식은 디버그에 대한 정보를 위한 직접적인 지원이 없었지만, 데이터를 저장하는 special symbol table entries에 사용되는 stabs로 지원되긴 했다.
 
-[리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")는 또한 커널 버전1.2까지는 a.out을 사용했다.(ELF는 experimental 1.1.52 에 추가되었다) 리눅스가 ELF로 바꾸는데는 더도말고 플랫폼에 있는 라이브러리를 공유하는데 있어서 a.out을 만들 때 복잡한 특징 때문이었다. a.out의 플랫폼은 공유라이브러리 재배치가 불가능 할 때, 중앙 권한과 함께 라이브러리가 있는 가상주소공간을 등록해야만 했다. 리눅스가 ELF로 바꾼 이후에도 많은 BSD 사용자들은 계속해서 a.out 을 사용했다. 리눅스와 비교해서 BSD의 a.out 형식은 다소 유연성이 있었기 때문이다.
+[리눅스](../Page/리눅스.md "wikilink")는 또한 커널 버전1.2까지는 a.out을 사용했다.(ELF는 experimental 1.1.52 에 추가되었다) 리눅스가 ELF로 바꾸는데는 더도말고 플랫폼에 있는 라이브러리를 공유하는데 있어서 a.out을 만들 때 복잡한 특징 때문이었다. a.out의 플랫폼은 공유라이브러리 재배치가 불가능 할 때, 중앙 권한과 함께 라이브러리가 있는 가상주소공간을 등록해야만 했다. 리눅스가 ELF로 바꾼 이후에도 많은 BSD 사용자들은 계속해서 a.out 을 사용했다. 리눅스와 비교해서 BSD의 a.out 형식은 다소 유연성이 있었기 때문이다.
 
 ## 형식
 

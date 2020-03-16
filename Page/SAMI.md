@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [SAMI](https://ko.wikipedia.org/wiki/SAMI).
 
 
-**SAMI**(사미, Synchronized Accessible Media Interchange; 접근성 미디어 동기화 교환)는 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink") 사에서 1998년에 발표한 미디어 접근 제안이다. [마크업 언어로](https://ko.wikipedia.org/wiki/마크업_언어 "wikilink") 구조화되어 있으며 개인용 컴퓨터에서의 미디어 재생용 자막을 간단히 만들 수 있도록 하는 데 중점을 두고 설계되어 방송용으로는 적합하지 않다.
+**SAMI**(사미, Synchronized Accessible Media Interchange; 접근성 미디어 동기화 교환)는 [마이크로소프트](../Page/마이크로소프트.md "wikilink") 사에서 1998년에 발표한 미디어 접근 제안이다. [마크업 언어로](../Page/마크업_언어.md "wikilink") 구조화되어 있으며 개인용 컴퓨터에서의 미디어 재생용 자막을 간단히 만들 수 있도록 하는 데 중점을 두고 설계되어 방송용으로는 적합하지 않다.
 
-SAMI 문서는 문자열로 되어 있으므로 어떠한 [문서 편집기로도](https://ko.wikipedia.org/wiki/문서_편집기 "wikilink") 기록하고 수정할 수 있다. 또, SAMI 문서를 전문적으로 만들어 주는 유틸리티도 존재한다. 파일 확장자는 .smi 또는 .sami이며, [SMIL](https://ko.wikipedia.org/wiki/SMIL "wikilink") 파일의 확장자와 충돌 가능성이 있어 .smi가 보통 쓰인다.
+SAMI 문서는 문자열로 되어 있으므로 어떠한 [문서 편집기로도](../Page/문서_편집기.md "wikilink") 기록하고 수정할 수 있다. 또, SAMI 문서를 전문적으로 만들어 주는 유틸리티도 존재한다. 파일 확장자는 .smi 또는 .sami이며, [SMIL](../Page/SMIL.md "wikilink") 파일의 확장자와 충돌 가능성이 있어 .smi가 보통 쓰인다.
 
-각 SAMI 문서는 하나 이상의 언어를 담을 수 있으며 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 지배적으로 이 자막 포맷을 사용한다.
+각 SAMI 문서는 하나 이상의 언어를 담을 수 있으며 [대한민국](../Page/대한민국.md "wikilink")에서는 지배적으로 이 자막 포맷을 사용한다.
 
 ## 사용할 수 있는 HTML 태그와 CSS
 
-SAMI 문서 안에서 문자열을 꾸미기 위해 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")과 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink")를 사용할 수 있다. 아래와 같은 HTML 태그가 SAMI에서 동작한다.
+SAMI 문서 안에서 문자열을 꾸미기 위해 [HTML](../Page/HTML.md "wikilink")과 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink")를 사용할 수 있다. 아래와 같은 HTML 태그가 SAMI에서 동작한다.
 
 | 이름         | 설명                   |
 | :--------- | :------------------- |
@@ -83,7 +83,7 @@ SAMI 문서 안에서 문자열을 꾸미기 위해 [HTML](https://ko.wikipedia.
 ## 같이 보기
 
   - [자막](https://ko.wikipedia.org/wiki/자막 "wikilink")
-  - [SMIL](https://ko.wikipedia.org/wiki/SMIL "wikilink")
+  - [SMIL](../Page/SMIL.md "wikilink")
   - [LRC (파일 포맷)](../Page/LRC_\(파일_포맷\).md "wikilink")
 
 ## 외부 링크
