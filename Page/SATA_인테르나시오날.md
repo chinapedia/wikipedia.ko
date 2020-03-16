@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [SATA ](https://ko.wikipedia.org/wiki/SATA_).
 
 
-**SATA 인테르나시오날** ()은 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink") [아소르스 자치 지방](https://ko.wikipedia.org/wiki/아소르스_자치_지방 "wikilink") [폰타델가다](../Page/폰타델가다.md "wikilink")에 기반을 둔 [항공사](https://ko.wikipedia.org/wiki/항공사 "wikilink")이다.\[1\]\[2\] 이곳을 중심으로 [마데이라 제도](https://ko.wikipedia.org/wiki/마데이라_제도 "wikilink"), [포르투갈 본토](https://ko.wikipedia.org/wiki/포르투갈 "wikilink"), [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink") 및 [북아메리카](https://ko.wikipedia.org/wiki/북아메리카 "wikilink")에 정기적으로 운항하며 전세편 또한 운항하고 있다. [SATA 에어 아소르스와](../Page/SATA_에어_아소르스.md "wikilink") 함께 SATA 그룹에 속해있다.
+**SATA 인테르나시오날** ()은 [포르투갈](../Page/포르투갈.md "wikilink") [아소르스 자치 지방](https://ko.wikipedia.org/wiki/아소르스_자치_지방 "wikilink") [폰타델가다](../Page/폰타델가다.md "wikilink")에 기반을 둔 [항공사](https://ko.wikipedia.org/wiki/항공사 "wikilink")이다.\[1\]\[2\] 이곳을 중심으로 [마데이라 제도](../Page/마데이라_제도.md "wikilink"), [포르투갈 본토](../Page/포르투갈.md "wikilink"), [유럽](../Page/유럽.md "wikilink") 및 [북아메리카](../Page/북아메리카.md "wikilink")에 정기적으로 운항하며 전세편 또한 운항하고 있다. [SATA 에어 아소르스와](../Page/SATA_에어_아소르스.md "wikilink") 함께 SATA 그룹에 속해있다.
 
 ## 보유 기종
 
 | 기종                                                                  | 대수                           | 승객 | 비고  |
 | ------------------------------------------------------------------- | ---------------------------- | -- | --- |
 | <abbr title=Business>J</abbr>                                       | <abbr title=Economy>Y</abbr> | 합계 |     |
-| [에어버스 A310-300](https://ko.wikipedia.org/wiki/에어버스_A310 "wikilink") | 4                            | 18 | 204 |
+| [에어버스 A310-300](../Page/에어버스_A310.md "wikilink")                    | 4                            | 18 | 204 |
 | [에어버스 A320-200](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink") | 5                            | 12 | 149 |
 
 **SATA 인테르나시오날의 보유 기종**

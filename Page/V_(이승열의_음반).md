@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [V \( \)](https://ko.wikipedia.org/wiki/V_\(_\)).
 
 
-《**V**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악인 [이승열](https://ko.wikipedia.org/wiki/이승열 "wikilink")의 네 번째 정규 솔로음반이다.
+《**V**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악인 [이승열](../Page/이승열.md "wikilink")의 네 번째 정규 솔로음반이다.
 
 ## 음반 정보
 
-음반 부클릿은 피와 고기, 살을 기본으로 구성하였고, 1\~6번 트랙은 2012년 11월 7일, 13일, 14일, 15일에, 7번과 8번은 2013년 1월 진행한 라이브 방식으로 녹음되었고, 9번 10번 트랙의 90퍼센트는 이승열이 집에서 녹음했다. 9번 트랙은 [장필순](https://ko.wikipedia.org/wiki/장필순 "wikilink")이 참여하였는데, 제주에서 녹음한 보컬 음원을 전달 받아 믹스에 반영했다.\[1\]
+음반 부클릿은 피와 고기, 살을 기본으로 구성하였고, 1\~6번 트랙은 2012년 11월 7일, 13일, 14일, 15일에, 7번과 8번은 2013년 1월 진행한 라이브 방식으로 녹음되었고, 9번 10번 트랙의 90퍼센트는 이승열이 집에서 녹음했다. 9번 트랙은 [장필순](../Page/장필순.md "wikilink")이 참여하였는데, 제주에서 녹음한 보컬 음원을 전달 받아 믹스에 반영했다.\[1\]
 
 ## 곡 소개
 
@@ -57,7 +57,7 @@
 
 이 목록은 해당 앨범의 부클릿에서 발췌하였다.\[3\]
 
-  - [이승열](https://ko.wikipedia.org/wiki/이승열 "wikilink") - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [일렉트릭 기타](https://ko.wikipedia.org/wiki/일렉트릭_기타 "wikilink")(1, 2, 4, 8\~10), [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink")(3, 5, 7, 10), abeton live fx(1\~6, 10), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")(6), [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")(10), [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink") 프로그래밍(9, 10), 녹음(9, 10), [사진](https://ko.wikipedia.org/wiki/사진 "wikilink")
+  - [이승열](../Page/이승열.md "wikilink") - [프로듀서](../Page/음악_프로듀서.md "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [일렉트릭 기타](https://ko.wikipedia.org/wiki/일렉트릭_기타 "wikilink")(1, 2, 4, 8\~10), [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink")(3, 5, 7, 10), abeton live fx(1\~6, 10), [피아노](../Page/피아노.md "wikilink")(6), [베이스 기타](../Page/베이스_기타.md "wikilink")(10), [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink") 프로그래밍(9, 10), 녹음(9, 10), [사진](../Page/사진.md "wikilink")
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@
   - 신동훈 - 드럼, Roland pad(1\~8)
   - 윤상익 - 전기 기타(1\~8)
   - Le Hoai Phuong - Đàn báu(단보우, 1\~7)
-  - Omar Sbitar - [프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink") [나레이션](https://ko.wikipedia.org/wiki/나레이션 "wikilink"), 즉흥 보컬, [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink")(1, 3, 4), Jew's Harp(4)
+  - Omar Sbitar - [프랑스어](../Page/프랑스어.md "wikilink") [나레이션](https://ko.wikipedia.org/wiki/나레이션 "wikilink"), 즉흥 보컬, [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink")(1, 3, 4), Jew's Harp(4)
 
 <!-- end list -->
 

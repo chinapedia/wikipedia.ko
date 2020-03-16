@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [XML  \(W3C\)](https://ko.wikipedia.org/wiki/XML__\(W3C\)).
 
 
-**XML 스키마**는 2001년 5월에 [W3C 표준으로](https://ko.wikipedia.org/wiki/W3C#W3C_표준 "wikilink") 발표된\[1\] 여러 [XML 스키마 언어](https://ko.wikipedia.org/wiki/XML_스키마 "wikilink") 중 하나이다. 이는 W3C 권고를 만족하는 첫 번째 [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 스키마 전용 언어이다. XML 스키마와 W3C에서 구체적으로 지정한 것과 명칭이 같아 혼동이 되기 때문에, 사용자 커뮤니티 일부에서는 이 언어를 **WXS**라 칭하는데, 이는 W3C XML Schema의 앞 글자를 딴 것이다. 다른 이들은 XML Schema Definition의 약자인 **XSD**를 쓰기도 한다.\[2\]\[3\] 버전 1.1에서 W3C는 XSD를 선호하는 이름으로 정했으며, 이 문서에서도 XSD라 부른다.
+**XML 스키마**는 2001년 5월에 [W3C 표준으로](https://ko.wikipedia.org/wiki/W3C#W3C_표준 "wikilink") 발표된\[1\] 여러 [XML 스키마 언어](../Page/XML_스키마.md "wikilink") 중 하나이다. 이는 W3C 권고를 만족하는 첫 번째 [XML](../Page/XML.md "wikilink") 스키마 전용 언어이다. XML 스키마와 W3C에서 구체적으로 지정한 것과 명칭이 같아 혼동이 되기 때문에, 사용자 커뮤니티 일부에서는 이 언어를 **WXS**라 칭하는데, 이는 W3C XML Schema의 앞 글자를 딴 것이다. 다른 이들은 XML Schema Definition의 약자인 **XSD**를 쓰기도 한다.\[2\]\[3\] 버전 1.1에서 W3C는 XSD를 선호하는 이름으로 정했으며, 이 문서에서도 XSD라 부른다.
 
-다른 모든 XML 스키마 언어처럼, XSD는 XML 문서가 그 스키마에 대하여 '유효'한 것으로 여겨지기 위해 반드시 지켜야 하는 규칙들의 집합을 표현하는 데 쓰인다. 그러나 다른 대부분의 스키마 언어들과 달리, XSD는 문서의 유효성 검증을 통해 특정 [자료형](https://ko.wikipedia.org/wiki/자료형 "wikilink")들에 종속적인 정보들의 묶음을 만들어 내자는 의도로 설계되었다.
+다른 모든 XML 스키마 언어처럼, XSD는 XML 문서가 그 스키마에 대하여 '유효'한 것으로 여겨지기 위해 반드시 지켜야 하는 규칙들의 집합을 표현하는 데 쓰인다. 그러나 다른 대부분의 스키마 언어들과 달리, XSD는 문서의 유효성 검증을 통해 특정 [자료형](../Page/자료형.md "wikilink")들에 종속적인 정보들의 묶음을 만들어 내자는 의도로 설계되었다.
 
 ## 스키마들과 스키마 문서
 
@@ -51,7 +51,7 @@ XSD는 19가지 기본 자료형[primitive data type을](https://ko.wikipedia.or
 
 ## PSVI(Post-Schema-Validation Infoset)
 
-XML 스키마 기반 검증(XML Schema-based validation)에 따라서, XML 문서의 구조(structure)와 내용(content)을 검증(validation) 동안 함축된 [데이터 모델로](https://ko.wikipedia.org/wiki/데이터_모델 "wikilink") 표현할 수 있게 되었다. XML 스키마 데이터 모델은 다음을 포함한다:
+XML 스키마 기반 검증(XML Schema-based validation)에 따라서, XML 문서의 구조(structure)와 내용(content)을 검증(validation) 동안 함축된 [데이터 모델로](../Page/데이터_모델.md "wikilink") 표현할 수 있게 되었다. XML 스키마 데이터 모델은 다음을 포함한다:
 
   - 요소와 속성의 이름들 (The vocabulary)
   - 관계와 구조 (The content model)

@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [Blue World](https://ko.wikipedia.org/wiki/Blue_World).
 
 
-《**Blue World**》는 그룹 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")가 일본에서 발매한 5번째 싱글이다.
+《**Blue World**》는 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")가 일본에서 발매한 5번째 싱글이다.
 
 ## 설명
 
-  - 멤버 [희철의](https://ko.wikipedia.org/wiki/김희철_\(가수\) "wikilink") 소집해제 이후 첫 복귀작이다.
-  - 동년 개최된 《[SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink") - [Treasure Island](https://ko.wikipedia.org/wiki/Treasure_Island "wikilink")》 를 통해 한국어 버전을 최초 공개하였다.
+  - 멤버 [희철의](../Page/김희철_\(가수\).md "wikilink") 소집해제 이후 첫 복귀작이다.
+  - 동년 개최된 《[SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink") - [Treasure Island](../Page/Treasure_Island.md "wikilink")》 를 통해 한국어 버전을 최초 공개하였다.
 
 ## 수록곡
 

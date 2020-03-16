@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  SC](https://ko.wikipedia.org/wiki/__SC).
 
 
-**올랜도 시티 SC**()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 프로축구 [메이저 리그 사커의](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") 21번째 신생 구단이다. [플로리다주](https://ko.wikipedia.org/wiki/플로리다주 "wikilink") [올랜도](https://ko.wikipedia.org/wiki/올랜도 "wikilink")를 연고지로 하고 있다.
+**올랜도 시티 SC**()는 [미국](../Page/미국.md "wikilink") 프로축구 [메이저 리그 사커의](../Page/메이저_리그_사커.md "wikilink") 21번째 신생 구단이다. [플로리다주](../Page/플로리다주.md "wikilink") [올랜도](../Page/올랜도.md "wikilink")를 연고지로 하고 있다.
 
 ## 역사
 
@@ -31,7 +31,7 @@
 <tr class="odd">
 <td><p><a href="../Page/캠핑_월드_스타디움.md" title="wikilink">캠핑 월드 스타디움</a></p></td>
 <td><p>2015년~2016</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플로리다주" title="wikilink">플로리다주</a> <a href="https://ko.wikipedia.org/wiki/올랜도" title="wikilink">올랜도</a></p></td>
+<td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
 <td><p>올랜도 시티 SC</p></td>
 <td><p>플로리다 시트러스볼 스타디움 (1983년~2013년)<br />
 올랜도 시트러스 보울 스타디움 (2014년~2016년)</p></td>

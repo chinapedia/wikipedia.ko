@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  TMNT](https://ko.wikipedia.org/wiki/__TMNT).
 
 
-《**닌자 거북이 TMNT**》(TMNT)는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 영화이다.
+《**닌자 거북이 TMNT**》(TMNT)는 [2007년](../Page/2007년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 영화이다.
 
 ## 줄거리
 
@@ -19,10 +19,10 @@
   - [크리스 에반스](https://ko.wikipedia.org/wiki/크리스_에반스 "wikilink")
   - [사라 미셸 겔러](https://ko.wikipedia.org/wiki/사라_미셸_겔러 "wikilink")
   - [이와마츠 마코](https://ko.wikipedia.org/wiki/이와마츠_마코 "wikilink")
-  - [케빈 스미스](https://ko.wikipedia.org/wiki/케빈_스미스 "wikilink")
-  - [패트릭 스튜어트](https://ko.wikipedia.org/wiki/패트릭_스튜어트 "wikilink")
+  - [케빈 스미스](../Page/케빈_스미스.md "wikilink")
+  - [패트릭 스튜어트](../Page/패트릭_스튜어트.md "wikilink")
   - [로렌스 피시번](https://ko.wikipedia.org/wiki/로렌스_피시번 "wikilink")
-  - [장쯔이](https://ko.wikipedia.org/wiki/장쯔이 "wikilink")
+  - [장쯔이](../Page/장쯔이.md "wikilink")
   - [존 디 마지오](https://ko.wikipedia.org/wiki/존_디_마지오 "wikilink")
   - [폴라 마티올리](https://ko.wikipedia.org/wiki/폴라_마티올리 "wikilink")
   - [케빈 마이클 리처드슨](https://ko.wikipedia.org/wiki/케빈_마이클_리처드슨 "wikilink")

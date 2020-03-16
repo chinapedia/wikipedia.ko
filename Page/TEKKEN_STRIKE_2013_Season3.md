@@ -5,7 +5,7 @@
 
 ## 리그기간
 
-  - 방송 및 리그 진행 날짜 : [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 19일](https://ko.wikipedia.org/wiki/10월_19일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink")
+  - 방송 및 리그 진행 날짜 : [2013년](../Page/2013년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink")
 
 ## 버전
 
@@ -30,7 +30,7 @@
 
 ## 진행
 
-  - 경기 진행, 해설 : [김의중](https://ko.wikipedia.org/wiki/김의중 "wikilink"), [박현규](../Page/박현규.md "wikilink")
+  - 경기 진행, 해설 : [김의중](../Page/김의중.md "wikilink"), [박현규](../Page/박현규.md "wikilink")
   - 선수 인터뷰 진행 : [김진](https://ko.wikipedia.org/wiki/김진_\(방송인\) "wikilink"), [김한울](https://ko.wikipedia.org/wiki/김한울 "wikilink")
 
 ## 예선 통과자
@@ -233,6 +233,6 @@
 ## 같이 보기
 
   - [TEKKEN STRIKE](../Page/TEKKEN_STRIKE.md "wikilink")
-  - [나이스 게임 TV](https://ko.wikipedia.org/wiki/나이스_게임_TV "wikilink")
+  - [나이스 게임 TV](../Page/나이스_게임_TV.md "wikilink")
 
 [분류:철권리그](https://ko.wikipedia.org/wiki/분류:철권리그 "wikilink") [분류:2013년 이스포츠](https://ko.wikipedia.org/wiki/분류:2013년_이스포츠 "wikilink")

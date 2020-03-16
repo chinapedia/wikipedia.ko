@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NC.A](https://ko.wikipedia.org/wiki/NC.A).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:NC.A_on_October_9,_2013.jpg "wikilink")\]\] **NC.A**(**앤씨아**, , [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, 걸그룹 [유니티의](https://ko.wikipedia.org/wiki/유니티_\(음악_그룹\) "wikilink") 메인보컬로 활동하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:NC.A_on_October_9,_2013.jpg "wikilink")\]\] **NC.A**(**앤씨아**, , [1996년](../Page/1996년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, 걸그룹 [유니티의](../Page/유니티_\(음악_그룹\).md "wikilink") 메인보컬로 활동하였다.
 
 ## 학력
 
@@ -166,7 +166,7 @@
 <tr class="even">
 <td style="text-align: center;"><p><strong>12</strong></p></td>
 <td style="text-align: center;"><p><strong>《읽어주세요》</strong><br />
-<small>(with.<a href="https://ko.wikipedia.org/wiki/안성선" title="wikilink">슈가볼</a>)</small></p>
+<small>(with.<a href="../Page/안성선.md" title="wikilink">슈가볼</a>)</small></p>
 <ul>
 <li>발매일: 2017년 6월 30일</li>
 </ul></td>
@@ -205,7 +205,7 @@
 <li>발매일: 2019년 10월 11일</li>
 </ul></td>
 <td style="text-align: center;"><ol>
-<li><strong>헤어질 자신 있니</strong> <small>(Narr. SBS <a href="https://ko.wikipedia.org/wiki/박선영_(아나운서)" title="wikilink">박선영</a> 아나운서)</small></li>
+<li><strong>헤어질 자신 있니</strong> <small>(Narr. SBS <a href="../Page/박선영_(아나운서).md" title="wikilink">박선영</a> 아나운서)</small></li>
 <li>헤어질 자신 있니 (Inst.)</li>
 </ol></td>
 </tr>
@@ -315,7 +315,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><strong>2</strong></p></td>
-<td style="text-align: center;"><p>《<strong>본능 (SBS`<a href="https://ko.wikipedia.org/wiki/정글의_법칙" title="wikilink">정글의 법칙</a>`삽입곡)</strong>》</p>
+<td style="text-align: center;"><p>《<strong>본능 (SBS`<a href="../Page/정글의_법칙.md" title="wikilink">정글의 법칙</a>`삽입곡)</strong>》</p>
 <ul>
 <li>발매일: 2015년 8월 24일</li>
 </ul></td>
@@ -336,7 +336,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><strong>4</strong></p></td>
-<td style="text-align: center;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/사생결단_로맨스" title="wikilink">사생결단 로맨스</a> OST Pt.1</strong>》</p>
+<td style="text-align: center;"><p>《<strong><a href="../Page/사생결단_로맨스.md" title="wikilink">사생결단 로맨스</a> OST Pt.1</strong>》</p>
 <ul>
 <li>발매일: 2018년 7월 23일</li>
 </ul></td>
@@ -383,7 +383,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p><strong>1</strong></p></td>
-<td style="text-align: center;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/불후의_명곡" title="wikilink">불후의 명곡</a> - 전설을 노래하다<br />
+<td style="text-align: center;"><p>《<strong><a href="../Page/불후의_명곡.md" title="wikilink">불후의 명곡</a> - 전설을 노래하다<br />
 (여름특집 2탄)</strong>》</p>
 <ul>
 <li>발매일: 2014년 7월 12일</li>
@@ -469,7 +469,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2013</p></td>
 <td style="text-align: center;"><p>KBS2</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/유희열의_스케치북" title="wikilink">유희열의 스케치북</a> 212회</p></td>
+<td style="text-align: center;"><p><a href="../Page/유희열의_스케치북.md" title="wikilink">유희열의 스케치북</a> 212회</p></td>
 <td style="text-align: center;"><p>2013년 11월 29일</p></td>
 </tr>
 <tr class="even">
@@ -487,7 +487,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2015</p></td>
 <td style="text-align: center;"><p>KBS2</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/유희열의_스케치북" title="wikilink">유희열의 스케치북</a> 258회</p></td>
+<td style="text-align: center;"><p><a href="../Page/유희열의_스케치북.md" title="wikilink">유희열의 스케치북</a> 258회</p></td>
 <td style="text-align: center;"><p>2015년 01월 23일</p></td>
 </tr>
 <tr class="odd">
@@ -499,7 +499,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2015</p></td>
 <td style="text-align: center;"><p>KBS2</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/유희열의_스케치북" title="wikilink">유희열의 스케치북</a> 268회</p></td>
+<td style="text-align: center;"><p><a href="../Page/유희열의_스케치북.md" title="wikilink">유희열의 스케치북</a> 268회</p></td>
 <td style="text-align: center;"><p>2015년 04월 03일</p></td>
 </tr>
 <tr class="odd">
@@ -514,24 +514,24 @@ Global Audition - 포르투칼(Portugal) 편</p></td>
 
 ### 드라마
 
-|  연도  | 방송사  |                                     제목                                      |         역할          |               기간               |
-| :--: | :--: | :-------------------------------------------------------------------------: | :-----------------: | :----------------------------: |
-| 2013 | tvN  |               [응답하라 1994](../Page/응답하라_1994.md "wikilink") 6회               |      쑥쑥이 여자친구       |         2013년 11월 02일          |
-| 2014 | 투니버스 |            [벼락맞은 문방구 시즌2](../Page/벼락맞은_문방구.md "wikilink") (12부작)            |        썬더키티         | 2014년 07월 31일 \~ 2014년 10월 23일 |
-| 2017 | tvN  | [크리미널 마인드](https://ko.wikipedia.org/wiki/크리미널_마인드_\(2017년_드라마\) "wikilink") |         한수민         |              특별출연              |
-| 2018 | KBS2 |       [To. Jenny](https://ko.wikipedia.org/wiki/To._Jenny "wikilink")       |         에일린         |                                |
-| 2020 | JTBC |     [이태원 클라쓰](https://ko.wikipedia.org/wiki/이태원_클라쓰_\(드라마\) "wikilink")     | 이서의 고등학교 동창, 복희의 친구 |          3회, 5회 특별출연           |
+|  연도  | 방송사  |                                 제목                                  |         역할          |               기간               |
+| :--: | :--: | :-----------------------------------------------------------------: | :-----------------: | :----------------------------: |
+| 2013 | tvN  |           [응답하라 1994](../Page/응답하라_1994.md "wikilink") 6회           |      쑥쑥이 여자친구       |         2013년 11월 02일          |
+| 2014 | 투니버스 |        [벼락맞은 문방구 시즌2](../Page/벼락맞은_문방구.md "wikilink") (12부작)        |        썬더키티         | 2014년 07월 31일 \~ 2014년 10월 23일 |
+| 2017 | tvN  |      [크리미널 마인드](../Page/크리미널_마인드_\(2017년_드라마\).md "wikilink")       |         한수민         |              특별출연              |
+| 2018 | KBS2 |   [To. Jenny](https://ko.wikipedia.org/wiki/To._Jenny "wikilink")   |         에일린         |                                |
+| 2020 | JTBC | [이태원 클라쓰](https://ko.wikipedia.org/wiki/이태원_클라쓰_\(드라마\) "wikilink") | 이서의 고등학교 동창, 복희의 친구 |          3회, 5회 특별출연           |
 
 ### 시사/교양
 
-|  연도  | 방송사  |                                제목                                 |      기간       |
-| :--: | :--: | :---------------------------------------------------------------: | :-----------: |
-| 2013 | KBS1 |                           사랑의 리퀘스트 727회                           | 2013년 09월 07일 |
-| 2013 | KBS1 |                            대한민국 행복발전소                             | 2013년 12월 25일 |
-| 2014 | KBS1 |                           사랑의 리퀘스트 739회                           | 2014년 01월 11일 |
-| 2014 | KBS1 | [도전\! 골든벨](https://ko.wikipedia.org/wiki/도전!_골든벨 "wikilink") 716회 | 2014년 04월 06일 |
-| 2014 | KBS1 |                           사랑의 리퀘스트 756회                           | 2014년 05월 24일 |
-| 2015 | KBS1 | [도전\! 골든벨](https://ko.wikipedia.org/wiki/도전!_골든벨 "wikilink") 755회 | 2015년 02월 08일 |
+|  연도  | 방송사  |                       제목                       |      기간       |
+| :--: | :--: | :--------------------------------------------: | :-----------: |
+| 2013 | KBS1 |                 사랑의 리퀘스트 727회                  | 2013년 09월 07일 |
+| 2013 | KBS1 |                   대한민국 행복발전소                   | 2013년 12월 25일 |
+| 2014 | KBS1 |                 사랑의 리퀘스트 739회                  | 2014년 01월 11일 |
+| 2014 | KBS1 | [도전\! 골든벨](../Page/도전!_골든벨.md "wikilink") 716회 | 2014년 04월 06일 |
+| 2014 | KBS1 |                 사랑의 리퀘스트 756회                  | 2014년 05월 24일 |
+| 2015 | KBS1 | [도전\! 골든벨](../Page/도전!_골든벨.md "wikilink") 755회 | 2015년 02월 08일 |
 
 ### 예능
 
@@ -640,7 +640,7 @@ Global Audition - 포르투칼(Portugal) 편</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>2014</p></td>
 <td style="text-align: center;"><p>KBS2</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/불후의_명곡_-_전설을_노래하다" title="wikilink">불후의 명곡 - 전설을 노래하다</a> 156회</p></td>
+<td style="text-align: center;"><p><a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡 - 전설을 노래하다</a> 156회</p></td>
 <td style="text-align: center;"><p>NC.A</p></td>
 <td style="text-align: center;"><p>2014년 07월 12일</p></td>
 </tr>
@@ -675,7 +675,7 @@ Global Audition - 포르투칼(Portugal) 편</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>2015</p></td>
 <td style="text-align: center;"><p>KBS2</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/대국민_토크쇼_안녕하세요" title="wikilink">대국민 토크쇼 안녕하세요</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/대국민_토크쇼_안녕하세요.md" title="wikilink">대국민 토크쇼 안녕하세요</a></p></td>
 <td style="text-align: center;"><p>NC.A</p></td>
 <td style="text-align: center;"><p>2015년 01월 19일</p></td>
 </tr>
@@ -710,14 +710,14 @@ Global Audition - 포르투칼(Portugal) 편</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>2015</p></td>
 <td style="text-align: center;"><p>KBS2</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/1_대_100" title="wikilink">1 대 100</a> 385회~386회</p></td>
+<td style="text-align: center;"><p><a href="../Page/1_대_100.md" title="wikilink">1 대 100</a> 385회~386회</p></td>
 <td style="text-align: center;"><p>NC.A(100인)</p></td>
 <td style="text-align: center;"><p>2015년 04월 28일 ~ 2015년 05월 05일</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2015</p></td>
 <td style="text-align: center;"><p>KBS2</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/위기탈출_넘버원" title="wikilink">위기탈출 넘버원</a> 487회</p></td>
+<td style="text-align: center;"><p><a href="../Page/위기탈출_넘버원.md" title="wikilink">위기탈출 넘버원</a> 487회</p></td>
 <td style="text-align: center;"><p>NC.A</p></td>
 <td style="text-align: center;"><p>2015년 06월 15일</p></td>
 </tr>
@@ -746,7 +746,7 @@ Global Audition - 포르투칼(Portugal) 편</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>2015</p></td>
 <td style="text-align: center;"><p>KBS2</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/연예가중계" title="wikilink">연예가중계</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/연예가중계.md" title="wikilink">연예가중계</a></p></td>
 <td style="text-align: center;"><p>NC.A</p></td>
 <td style="text-align: center;"><p>2015년 10월 03일 ~ 2015년 10월 10일</p></td>
 </tr>
@@ -824,8 +824,8 @@ Global Audition - 포르투칼(Portugal) 편</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>2018</p></td>
 <td style="text-align: center;"><p>KBS2</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/불후의_명곡_-_전설을_노래하다" title="wikilink">불후의 명곡 - 전설을 노래하다</a></p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/유니티_(음악_그룹)" title="wikilink">유니티</a> 멤버</p></td>
+<td style="text-align: center;"><p><a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡 - 전설을 노래하다</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/유니티_(음악_그룹).md" title="wikilink">유니티</a> 멤버</p></td>
 <td style="text-align: center;"><p>2018년 03월 31일 ~ 2018년 04월 07일</p></td>
 </tr>
 <tr class="odd">
@@ -840,9 +840,9 @@ Global Audition - 포르투칼(Portugal) 편</p></td>
 
 ### 오디션
 
-|  연도  | 방송사  |                                       제목                                        | 역할  |               기간               |
-| :--: | :--: | :-----------------------------------------------------------------------------: | :-: | :----------------------------: |
-| 2017 | KBS2 | [아이돌 리부팅 프로젝트 더 유닛](https://ko.wikipedia.org/wiki/아이돌_리부팅_프로젝트_더_유닛 "wikilink") | 앤씨아 | 2017년 10월 28일 \~ 2018년 02월 10일 |
+|  연도  | 방송사  |                              제목                              | 역할  |               기간               |
+| :--: | :--: | :----------------------------------------------------------: | :-: | :----------------------------: |
+| 2017 | KBS2 | [아이돌 리부팅 프로젝트 더 유닛](../Page/아이돌_리부팅_프로젝트_더_유닛.md "wikilink") | 앤씨아 | 2017년 10월 28일 \~ 2018년 02월 10일 |
 
 ### 기타
 
@@ -877,7 +877,7 @@ Global Audition - 포르투칼(Portugal) 편</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/NC_다이노스" title="wikilink">NC 다이노스</a> VS <a href="https://ko.wikipedia.org/wiki/넥센_히어로즈" title="wikilink">넥센 히어로즈</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/NC_다이노스.md" title="wikilink">NC 다이노스</a> VS <a href="https://ko.wikipedia.org/wiki/넥센_히어로즈" title="wikilink">넥센 히어로즈</a></p></td>
 <td style="text-align: center;"><ol>
 <li>애국가 제창</li>
 <li>시구</li>

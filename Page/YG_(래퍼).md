@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YG \(\)](https://ko.wikipedia.org/wiki/YG_\(\)).
 
 
-'''키난 잭슨 '''(Keenan Trash Jackson, 1990년 3월 9일 \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [랩퍼](https://ko.wikipedia.org/wiki/랩퍼 "wikilink")이다. 레이블 'Pu$haz Ink'의 CEO이기도 하다. 대표곡으로 'Toot It and Boot It', 'My Nigga Ass' 등이 있다.
+'''키난 잭슨 '''(Keenan Trash Jackson, 1990년 3월 9일 \~ )은 [미국](../Page/미국.md "wikilink")의 [랩퍼](https://ko.wikipedia.org/wiki/랩퍼 "wikilink")이다. 레이블 'Pu$haz Ink'의 CEO이기도 하다. 대표곡으로 'Toot It and Boot It', 'My Nigga Ass' 등이 있다.
 
 ## 음반 목록
 
@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드_200" title="wikilink">빌보드 200</a></p></td>
+<td><p><a href="../Page/빌보드_200.md" title="wikilink">빌보드 200</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/빌보드_R&amp;B/힙합_앨범" title="wikilink">빌보드 R&amp;B/힙합 앨범</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/랩_앨범" title="wikilink">랩 앨범</a></p></td>
 </tr>

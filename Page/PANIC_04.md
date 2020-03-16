@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PANIC 04](https://ko.wikipedia.org/wiki/PANIC_04).
 
 
-《**PANIC 04**》는 [패닉의](https://ko.wikipedia.org/wiki/패닉_\(음악_그룹\) "wikilink") 네 번째 정규음반이다. 1998년 이후 각자 솔로와 그룹 등으로 활동해 오던 [이적과](https://ko.wikipedia.org/wiki/이적_\(가수\) "wikilink") [김진표가](https://ko.wikipedia.org/wiki/김진표_\(가수\) "wikilink") 재결합하여 2005년에 발매했다.
+《**PANIC 04**》는 [패닉의](../Page/패닉_\(음악_그룹\).md "wikilink") 네 번째 정규음반이다. 1998년 이후 각자 솔로와 그룹 등으로 활동해 오던 [이적과](../Page/이적_\(가수\).md "wikilink") [김진표가](../Page/김진표_\(가수\).md "wikilink") 재결합하여 2005년에 발매했다.
 
 ## 재결합
 
@@ -17,8 +17,8 @@
 
 <!-- end list -->
 
-  - [이적](https://ko.wikipedia.org/wiki/이적_\(가수\) "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 각종 악기
-  - [김진표](https://ko.wikipedia.org/wiki/김진표_\(가수\) "wikilink") - [랩](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink")
+  - [이적](../Page/이적_\(가수\).md "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 각종 악기
+  - [김진표](../Page/김진표_\(가수\).md "wikilink") - [랩](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink")
 
 <!-- end list -->
 
@@ -27,9 +27,9 @@
 <!-- end list -->
 
   - [정재일](../Page/정재일.md "wikilink") - 프로그래밍, 악기 연주
-  - Leos Svarovsky - [지휘](https://ko.wikipedia.org/wiki/지휘 "wikilink")(1, 6, 9, 10)
+  - Leos Svarovsky - [지휘](../Page/지휘.md "wikilink")(1, 6, 9, 10)
       - Ceska Filharmonic 단원 - [오케스트라](https://ko.wikipedia.org/wiki/오케스트라 "wikilink") 연주
-  - [임헌일](../Page/임헌일.md "wikilink") - [전기 기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink")(4, 7, 10)
+  - [임헌일](../Page/임헌일.md "wikilink") - [전기 기타](../Page/전기_기타.md "wikilink")(4, 7, 10)
   - 김연아, 신지아, 임진호, 장보희 - 백 보컬(3, 5)
 
 <!-- end list -->

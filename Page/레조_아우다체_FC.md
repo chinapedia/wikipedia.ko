@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**레조 아우다체 풋볼 클럽**()는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 축구 클럽으로, [레조넬에밀리아](https://ko.wikipedia.org/wiki/레조넬에밀리아 "wikilink")를 연고지로 한다. 2013-14 시즌에서 [레가 프로 프리마 디비시오네에](../Page/레가_프로_프리마_디비시오네.md "wikilink") 참가하고 있다.
+**레조 아우다체 풋볼 클럽**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [레조넬에밀리아](../Page/레조넬에밀리아.md "wikilink")를 연고지로 한다. 2013-14 시즌에서 [레가 프로 프리마 디비시오네에](../Page/레가_프로_프리마_디비시오네.md "wikilink") 참가하고 있다.
 
 ## 외부 링크
 

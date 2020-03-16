@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [HTC  ](https://ko.wikipedia.org/wiki/HTC__).
 
 
-**HTC 원 맥스**(HTC One Max)는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 제조/판매하는 자사의 하이엔드 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [패블릿](https://ko.wikipedia.org/wiki/패블릿 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")으로, [원의](../Page/HTC_원.md "wikilink") 후속제품이다.
+**HTC 원 맥스**(HTC One Max)는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 제조/판매하는 자사의 하이엔드 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [원의](../Page/HTC_원.md "wikilink") 후속제품이다.
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink"), [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")에서 열린 자사 신제품 발표회 발표되어,\[1\] [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 하반기 미국을 시작으로 출시되었다.
+[2013년](../Page/2013년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink"), [중화민국](../Page/중화민국.md "wikilink")에서 열린 자사 신제품 발표회 발표되어,\[1\] [2013년](../Page/2013년.md "wikilink") 하반기 미국을 시작으로 출시되었다.
 
 ## 연혁
 

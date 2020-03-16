@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Boyfriend \(  \)](https://ko.wikipedia.org/wiki/Boyfriend_\(__\)).
 
 
-"**Boyfriend**"는 캐나다의 가수 [저스틴 비버의](https://ko.wikipedia.org/wiki/저스틴_비버 "wikilink") 노래로, 음반 *[Believe](https://ko.wikipedia.org/wiki/Believe_\(저스틴_비버의_음반\) "wikilink")*에 수록되어 있다.
+"**Boyfriend**"는 캐나다의 가수 [저스틴 비버의](../Page/저스틴_비버.md "wikilink") 노래로, 음반 *[Believe](https://ko.wikipedia.org/wiki/Believe_\(저스틴_비버의_음반\) "wikilink")*에 수록되어 있다.
 
 ## 트랙리스트
 

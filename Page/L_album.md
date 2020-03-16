@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [L album](https://ko.wikipedia.org/wiki/L_album).
 
 
-《**L album**》은, [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 13번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**L album**》은, [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 13번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 수록곡
 
@@ -47,7 +47,7 @@
         작사·작곡: 타카미자와 토시히코 / 편곡: CHOKKAKU
 3.  **[変わったかたちの石](https://ko.wikipedia.org/wiki/가왓타카타치노이시 "wikilink")** / <small>**특이한 모양의 돌**</small>
       -
-        작사: [아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") / 작곡: 마시코 타츠로 / 편곡: 타케베 사토시
+        작사: [아키모토 야스시](../Page/아키모토_야스시.md "wikilink") / 작곡: 마시코 타츠로 / 편곡: 타케베 사토시
 4.  **Tomorrow again**
       -
         작사: 마에다 타카히로 / 작곡: 하라 카즈히라 / 편곡: 이에하라 마사키

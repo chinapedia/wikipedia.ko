@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Pkg-config](https://ko.wikipedia.org/wiki/Pkg-config).
 
 
-**pkg-config**는 [소스 코드로부터](https://ko.wikipedia.org/wiki/소스_코드 "wikilink") 소프트웨어를 [컴파일](https://ko.wikipedia.org/wiki/컴파일 "wikilink")할 목적으로 설치된 [라이브러리를](https://ko.wikipedia.org/wiki/라이브러리_\(컴퓨팅\) "wikilink") 조회하기 위해 통일된 인터페이스를 제공하는 컴퓨터 [소프트웨어](https://ko.wikipedia.org/wiki/소프트웨어 "wikilink")이다. pkg-config는 원래 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")용으로 설계되었으나 현재는 다양한 계열의 [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink"), [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [솔라리스에서도](https://ko.wikipedia.org/wiki/솔라리스_\(운영_체제\) "wikilink") 이용할 수 있다.
+**pkg-config**는 [소스 코드로부터](../Page/소스_코드.md "wikilink") 소프트웨어를 [컴파일](https://ko.wikipedia.org/wiki/컴파일 "wikilink")할 목적으로 설치된 [라이브러리를](../Page/라이브러리_\(컴퓨팅\).md "wikilink") 조회하기 위해 통일된 인터페이스를 제공하는 컴퓨터 [소프트웨어](../Page/소프트웨어.md "wikilink")이다. pkg-config는 원래 [리눅스](../Page/리눅스.md "wikilink")용으로 설계되었으나 현재는 다양한 계열의 [BSD](../Page/BSD.md "wikilink"), [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [솔라리스에서도](../Page/솔라리스_\(운영_체제\).md "wikilink") 이용할 수 있다.
 
 설치된 라이브러리에 대해 다양한 정보를 출력한다. 이 정보는 다음을 포함한다:
 
-  - [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") [컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink")를 위한 매개변수
-  - [링커를](https://ko.wikipedia.org/wiki/링커_\(컴퓨팅\) "wikilink") 위한 매개변수
+  - [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") [컴파일러](../Page/컴파일러.md "wikilink")를 위한 매개변수
+  - [링커를](../Page/링커_\(컴퓨팅\).md "wikilink") 위한 매개변수
   - 패키지 버전
 
-최초의 구현은 셸로 작성되었으며, 나중에 [GLib](https://ko.wikipedia.org/wiki/GLib "wikilink") 라이브러리를 이용하여 C로 재작성되었다.
+최초의 구현은 셸로 작성되었으며, 나중에 [GLib](../Page/GLib.md "wikilink") 라이브러리를 이용하여 C로 재작성되었다.
 
 ## 개요
 

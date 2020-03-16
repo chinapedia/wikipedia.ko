@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [JTBC ](https://ko.wikipedia.org/wiki/JTBC_).
 
 
-기준)</small> |방송 국가 =  |방송 채널 = [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink") |기획 = |제작 = |총감독 = |책임프로듀서 = |감독 = |프로듀서 = |연출 = |원작 = |조연출 = |구성 = |출연자 =[신예리](https://ko.wikipedia.org/wiki/신예리 "wikilink"), 김진일 (기자) |음성 = 2채널 [돌비 디지털](https://ko.wikipedia.org/wiki/돌비_디지털 "wikilink") |자막 = |데이터 방송 = |고화질 방송여부 = [HD](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 제작 · 방송 |외부 링크 = <http://culture.jtbc.co.kr/nightdebate/> |외부 링크 이름 = 공식 홈페이지 }}
+기준)</small> |방송 국가 =  |방송 채널 = [JTBC](../Page/JTBC.md "wikilink") |기획 = |제작 = |총감독 = |책임프로듀서 = |감독 = |프로듀서 = |연출 = |원작 = |조연출 = |구성 = |출연자 =[신예리](../Page/신예리.md "wikilink"), 김진일 (기자) |음성 = 2채널 [돌비 디지털](../Page/돌비_디지털.md "wikilink") |자막 = |데이터 방송 = |고화질 방송여부 = [HD](../Page/고선명_텔레비전.md "wikilink") 제작 · 방송 |외부 링크 = <http://culture.jtbc.co.kr/nightdebate/> |외부 링크 이름 = 공식 홈페이지 }}
 
-《**JTBC 밤샘토론**》는 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")의 주간 토론 프로그램이다. 손석희 보도담당 사장 취임 이후 보도 프로그램 강화 일환으로 2013년 9월 처음으로 방송됐다. 종편 중 유일한 시사 토론 프로그램이기도 하다.
+《**JTBC 밤샘토론**》는 [JTBC](../Page/JTBC.md "wikilink")의 주간 토론 프로그램이다. 손석희 보도담당 사장 취임 이후 보도 프로그램 강화 일환으로 2013년 9월 처음으로 방송됐다. 종편 중 유일한 시사 토론 프로그램이기도 하다.
 
 ## 기획 의도
 
@@ -11,20 +11,20 @@
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                                                                                                                                                                                            | 방송 기간                                                                                                                       | 방송 시간 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                             |       |
-| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink")\~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") \~ [현재](https://ko.wikipedia.org/wiki/현재 "wikilink") | [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 밤 12시 30분 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 밤 12시 20분 |       |
+| 방송 채널                                                                                                                                                                                                                                                                                          | 방송 기간                                                                                 | 방송 시간 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----- |
+| [JTBC](../Page/JTBC.md "wikilink")                                                                                                                                                                                                                                                             |                                                                                       |       |
+| [2013년](../Page/2013년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink")\~ [2016년](../Page/2016년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") \~ [현재](https://ko.wikipedia.org/wiki/현재 "wikilink") | [금요일](../Page/금요일.md "wikilink") 밤 12시 30분 [금요일](../Page/금요일.md "wikilink") 밤 12시 20분 |       |
 
 ## 역대 진행자
 
-  - 1대 : [신예리](https://ko.wikipedia.org/wiki/신예리 "wikilink"), [박진규](https://ko.wikipedia.org/wiki/박진규 "wikilink") ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink"))
-  - 2대 : [신예리](https://ko.wikipedia.org/wiki/신예리 "wikilink"), [김진일](https://ko.wikipedia.org/wiki/김진일 "wikilink") (기자) ([2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [7월 13일](https://ko.wikipedia.org/wiki/7월_13일 "wikilink") \~ **현재**)
+  - 1대 : [신예리](../Page/신예리.md "wikilink"), [박진규](../Page/박진규.md "wikilink") ([2013년](../Page/2013년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink"))
+  - 2대 : [신예리](../Page/신예리.md "wikilink"), [김진일](../Page/김진일.md "wikilink") (기자) ([2018년](../Page/2018년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ **현재**)
 
 ## 함께 보기
 
-  - [MBC 100분 토론](https://ko.wikipedia.org/wiki/MBC_100분_토론 "wikilink")
-  - [엄경철의 심야토론](https://ko.wikipedia.org/wiki/엄경철의_심야토론 "wikilink")
+  - [MBC 100분 토론](../Page/MBC_100분_토론.md "wikilink")
+  - [엄경철의 심야토론](../Page/엄경철의_심야토론.md "wikilink")
 
 ## 각주
 

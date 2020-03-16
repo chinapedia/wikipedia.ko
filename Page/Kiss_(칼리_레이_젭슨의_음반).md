@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kiss \(   \)](https://ko.wikipedia.org/wiki/Kiss_\(___\)).
 
 
-***Kiss***는 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")의 싱어송라이터 [칼리 레이 젭슨의](https://ko.wikipedia.org/wiki/칼리_레이_젭슨 "wikilink") 두 번째 스튜디오 음반이다.
+***Kiss***는 [캐나다](../Page/캐나다.md "wikilink")의 싱어송라이터 [칼리 레이 젭슨의](../Page/칼리_레이_젭슨.md "wikilink") 두 번째 스튜디오 음반이다.
 
 ## 트랙리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Eagles Live](https://ko.wikipedia.org/wiki/Eagles_Live).
 
 
-***Eagles Live***는 미국의 록 밴드 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")의 첫 번째 라이브 앨범이다. 두 장의 LP 세트로 구성되어있으며, 1980년 발매되었다. Seven Bridges Road가 싱글로 발매되어 차트 40위를 기록하였으며, 이 노래는 밴드의 화음을 대표하는 곡이었다. 빌보드 차트 6위를 기록했다.
+***Eagles Live***는 미국의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 첫 번째 라이브 앨범이다. 두 장의 LP 세트로 구성되어있으며, 1980년 발매되었다. Seven Bridges Road가 싱글로 발매되어 차트 40위를 기록하였으며, 이 노래는 밴드의 화음을 대표하는 곡이었다. 빌보드 차트 6위를 기록했다.
 
 ## 트랙 리스팅
 

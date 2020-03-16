@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [AKB48 32nd   ](https://ko.wikipedia.org/wiki/AKB48_32nd___).
 
 
-**AKB48 32nd 싱글 선발 총선거**()는 [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 32번째 CD 싱글에 참여하는 선발 멤버를 팬들의 투표로 결정하는 이벤트이다. 이 선거의 상위 16위까지의 멤버가 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 21일부터](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") 발매된 32번째 싱글 〈[사랑하는 포춘쿠키](https://ko.wikipedia.org/wiki/고이스루포춘쿠키 "wikilink")〉(恋するフォーチュンクッキー)의 선발 멤버가 되었다.
+**AKB48 32nd 싱글 선발 총선거**()는 [AKB48](../Page/AKB48.md "wikilink")의 32번째 CD 싱글에 참여하는 선발 멤버를 팬들의 투표로 결정하는 이벤트이다. 이 선거의 상위 16위까지의 멤버가 [2013년](../Page/2013년.md "wikilink") [8월 21일부터](../Page/8월_21일.md "wikilink") 발매된 32번째 싱글 〈[사랑하는 포춘쿠키](https://ko.wikipedia.org/wiki/고이스루포춘쿠키 "wikilink")〉(恋するフォーチュンクッキー)의 선발 멤버가 되었다.
 
-또한 최종 결과가 발표되는 개표 이벤트 〈AKB48 32nd 선발 총선거 \~꿈은 혼자서 꿀 수 없다\~〉는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") [요코하마 시의](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 닛산 스타디움에서 개최되는 〈AKB48 슈퍼 페스티벌 \~닛산 스타디움\~〉의 제2부로 실시되었다.
+또한 최종 결과가 발표되는 개표 이벤트 〈AKB48 32nd 선발 총선거 \~꿈은 혼자서 꿀 수 없다\~〉는 [2013년](../Page/2013년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") [요코하마 시의](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 닛산 스타디움에서 개최되는 〈AKB48 슈퍼 페스티벌 \~닛산 스타디움\~〉의 제2부로 실시되었다.
 
 ## 개요
 
@@ -38,7 +38,7 @@
 
 다음의 조건 중 하나를 충족하는 멤버가 소정의 신청서를 작성, 각 극장의 선거 실행위원회에 제출하여 출마하는 것으로 피선거권이 주어진다.
 
-  - 2013년 3월 31일의 시점까지 [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")·[SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")·[NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")·[HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink")에 재적중인 멤버
+  - 2013년 3월 31일의 시점까지 [AKB48](../Page/AKB48.md "wikilink")·[SKE48](../Page/SKE48.md "wikilink")·[NMB48](../Page/NMB48.md "wikilink")·[HKT48](../Page/HKT48.md "wikilink")에 재적중인 멤버
   - 해외의 자매 그룹으로 이적한 전 AKB48 멤버
   - 과거 AKB48 그룹에서 4년 이상 재적한 경력이 있는 멤버
 
@@ -57,7 +57,7 @@
 <!-- end list -->
 
   -
-    [이즈타 리나](../Page/이즈타_리나.md "wikilink"), [이리야마 안나](https://ko.wikipedia.org/wiki/이리야마_안나 "wikilink"), [이와타 가렌](https://ko.wikipedia.org/wiki/이와타_가렌 "wikilink"), [오시마 료카](https://ko.wikipedia.org/wiki/오시마_료카 "wikilink"), [가와에이 리나](https://ko.wikipedia.org/wiki/가와에이_리나 "wikilink"), [기쿠치 아야카](https://ko.wikipedia.org/wiki/기쿠치_아야카 "wikilink"), [고다마 하루카](https://ko.wikipedia.org/wiki/고다마_하루카 "wikilink")(HKT48 팀H 겸임), [고바야시 마리나](https://ko.wikipedia.org/wiki/고바야시_마리나 "wikilink"), [사사키 유카리](../Page/사사키_유카리.md "wikilink"), [사토 스미레](https://ko.wikipedia.org/wiki/사토_스미레 "wikilink"), [시노다 마리코](https://ko.wikipedia.org/wiki/시노다_마리코 "wikilink"), [스즈키 마리야](https://ko.wikipedia.org/wiki/스즈키_마리야 "wikilink")(SNH48 겸임), [다카하시 주리](https://ko.wikipedia.org/wiki/다카하시_주리 "wikilink"), [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink"), [다노 유카](https://ko.wikipedia.org/wiki/다노_유카 "wikilink"), [나카마타 시오리](https://ko.wikipedia.org/wiki/나카마타_시오리 "wikilink"), [마쓰이 사키코](https://ko.wikipedia.org/wiki/마쓰이_사키코 "wikilink"), [모리카와 아야카](https://ko.wikipedia.org/wiki/모리카와_아야카 "wikilink"), [야구라 후코](https://ko.wikipedia.org/wiki/야구라_후코 "wikilink")(NMB48 팀M 겸임), [요코야마 유이](https://ko.wikipedia.org/wiki/요코야마_유이 "wikilink"), [와타나베 마유](https://ko.wikipedia.org/wiki/와타나베_마유 "wikilink")
+    [이즈타 리나](../Page/이즈타_리나.md "wikilink"), [이리야마 안나](../Page/이리야마_안나.md "wikilink"), [이와타 가렌](https://ko.wikipedia.org/wiki/이와타_가렌 "wikilink"), [오시마 료카](https://ko.wikipedia.org/wiki/오시마_료카 "wikilink"), [가와에이 리나](https://ko.wikipedia.org/wiki/가와에이_리나 "wikilink"), [기쿠치 아야카](https://ko.wikipedia.org/wiki/기쿠치_아야카 "wikilink"), [고다마 하루카](https://ko.wikipedia.org/wiki/고다마_하루카 "wikilink")(HKT48 팀H 겸임), [고바야시 마리나](https://ko.wikipedia.org/wiki/고바야시_마리나 "wikilink"), [사사키 유카리](../Page/사사키_유카리.md "wikilink"), [사토 스미레](../Page/사토_스미레.md "wikilink"), [시노다 마리코](../Page/시노다_마리코.md "wikilink"), [스즈키 마리야](https://ko.wikipedia.org/wiki/스즈키_마리야 "wikilink")(SNH48 겸임), [다카하시 주리](https://ko.wikipedia.org/wiki/다카하시_주리 "wikilink"), [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink"), [다노 유카](https://ko.wikipedia.org/wiki/다노_유카 "wikilink"), [나카마타 시오리](../Page/나카마타_시오리.md "wikilink"), [마쓰이 사키코](https://ko.wikipedia.org/wiki/마쓰이_사키코 "wikilink"), [모리카와 아야카](https://ko.wikipedia.org/wiki/모리카와_아야카 "wikilink"), [야구라 후코](../Page/야구라_후코.md "wikilink")(NMB48 팀M 겸임), [요코야마 유이](../Page/요코야마_유이.md "wikilink"), [와타나베 마유](../Page/와타나베_마유.md "wikilink")
 
 <!-- end list -->
 
@@ -66,7 +66,7 @@
 <!-- end list -->
 
   -
-    [아베 마리아](https://ko.wikipedia.org/wiki/아베_마리아_\(AKB48\) "wikilink"), [이타노 도모미](https://ko.wikipedia.org/wiki/이타노_도모미 "wikilink"), [우치다 마유미](https://ko.wikipedia.org/wiki/우치다_마유미 "wikilink"), [오시마 유코](https://ko.wikipedia.org/wiki/오시마_유코 "wikilink"), [기타하라 리에](https://ko.wikipedia.org/wiki/기타하라_리에 "wikilink"), [구라모치 아스카](https://ko.wikipedia.org/wiki/구라모치_아스카 "wikilink"), [고바야시 가나](https://ko.wikipedia.org/wiki/고바야시_가나 "wikilink"), [사토 아미나](https://ko.wikipedia.org/wiki/사토_아미나 "wikilink"), [시마다 하루카](https://ko.wikipedia.org/wiki/시마다_하루카 "wikilink"), [스즈키 시호리](https://ko.wikipedia.org/wiki/스즈키_시호리 "wikilink"), [지카노 리나](https://ko.wikipedia.org/wiki/지카노_리나 "wikilink"), [나카타 치사토](https://ko.wikipedia.org/wiki/나카타_치사토 "wikilink"), [나가오 마리야](https://ko.wikipedia.org/wiki/나가오_마리야 "wikilink"), [히라타 리나](https://ko.wikipedia.org/wiki/히라타_리나 "wikilink"), [후지타 나나](../Page/후지타_나나.md "wikilink"), [후루하타 나오](https://ko.wikipedia.org/wiki/후루하타_나오 "wikilink")(SKE48 팀E 겸임), [마에다 아미](https://ko.wikipedia.org/wiki/마에다_아미 "wikilink"), [마쓰이 주리나](https://ko.wikipedia.org/wiki/마쓰이_주리나 "wikilink")(SNH48 팀S 겸임), [미야자키 미호](https://ko.wikipedia.org/wiki/미야자키_미호 "wikilink"), [미야자와 사에](https://ko.wikipedia.org/wiki/미야자와_사에 "wikilink")(SNH48 겸임), [무토 도무](https://ko.wikipedia.org/wiki/무토_도무 "wikilink")
+    [아베 마리아](https://ko.wikipedia.org/wiki/아베_마리아_\(AKB48\) "wikilink"), [이타노 도모미](https://ko.wikipedia.org/wiki/이타노_도모미 "wikilink"), [우치다 마유미](../Page/우치다_마유미.md "wikilink"), [오시마 유코](../Page/오시마_유코.md "wikilink"), [기타하라 리에](https://ko.wikipedia.org/wiki/기타하라_리에 "wikilink"), [구라모치 아스카](https://ko.wikipedia.org/wiki/구라모치_아스카 "wikilink"), [고바야시 가나](https://ko.wikipedia.org/wiki/고바야시_가나 "wikilink"), [사토 아미나](https://ko.wikipedia.org/wiki/사토_아미나 "wikilink"), [시마다 하루카](https://ko.wikipedia.org/wiki/시마다_하루카 "wikilink"), [스즈키 시호리](../Page/스즈키_시호리.md "wikilink"), [지카노 리나](https://ko.wikipedia.org/wiki/지카노_리나 "wikilink"), [나카타 치사토](https://ko.wikipedia.org/wiki/나카타_치사토 "wikilink"), [나가오 마리야](../Page/나가오_마리야.md "wikilink"), [히라타 리나](https://ko.wikipedia.org/wiki/히라타_리나 "wikilink"), [후지타 나나](../Page/후지타_나나.md "wikilink"), [후루하타 나오](https://ko.wikipedia.org/wiki/후루하타_나오 "wikilink")(SKE48 팀E 겸임), [마에다 아미](https://ko.wikipedia.org/wiki/마에다_아미 "wikilink"), [마쓰이 주리나](https://ko.wikipedia.org/wiki/마쓰이_주리나 "wikilink")(SNH48 팀S 겸임), [미야자키 미호](../Page/미야자키_미호.md "wikilink"), [미야자와 사에](../Page/미야자와_사에.md "wikilink")(SNH48 겸임), [무토 도무](https://ko.wikipedia.org/wiki/무토_도무 "wikilink")
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@
 <!-- end list -->
 
   -
-    [이시다 하루카](https://ko.wikipedia.org/wiki/이시다_하루카 "wikilink"), [이치카와 미오리](https://ko.wikipedia.org/wiki/이치카와_미오리 "wikilink")(NMB48 팀N 겸임), [이와사 미사키](https://ko.wikipedia.org/wiki/이와사_미사키 "wikilink"), [우메다 아야카](https://ko.wikipedia.org/wiki/우메다_아야카 "wikilink"), [오바 미나](https://ko.wikipedia.org/wiki/오바_미나 "wikilink")(SKE48 팀KII 겸임), [오모리 미유](https://ko.wikipedia.org/wiki/오모리_미유 "wikilink"), [오야 시즈카](https://ko.wikipedia.org/wiki/오야_시즈카 "wikilink"), [가시와기 유키](https://ko.wikipedia.org/wiki/가시와기_유키 "wikilink"), [가타야마 하루카](https://ko.wikipedia.org/wiki/가타야마_하루카 "wikilink"), [가토 레나](https://ko.wikipedia.org/wiki/가토_레나 "wikilink"), [고지마 나쓰키](https://ko.wikipedia.org/wiki/고지마_나쓰키 "wikilink"), [고지마 하루나](https://ko.wikipedia.org/wiki/고지마_하루나 "wikilink"), [시마자키 하루카](https://ko.wikipedia.org/wiki/시마자키_하루카 "wikilink"), [다카조 아키](https://ko.wikipedia.org/wiki/다카조_아키 "wikilink")(JKT48 팀J 겸임), [다케우치 미유](https://ko.wikipedia.org/wiki/다케우치_미유 "wikilink"), [다나베 미쿠](https://ko.wikipedia.org/wiki/다나베_미쿠 "wikilink"), [나카무라 마리코](https://ko.wikipedia.org/wiki/나카무라_마리코 "wikilink"), [나토리 와카나](https://ko.wikipedia.org/wiki/나토리_와카나 "wikilink"), [노나카 미사토](https://ko.wikipedia.org/wiki/노나카_미사토 "wikilink"), [후지에 레이나](https://ko.wikipedia.org/wiki/후지에_레이나 "wikilink"), [야마우치 스즈란](https://ko.wikipedia.org/wiki/야마우치_스즈란 "wikilink"), [와타나베 미유키](https://ko.wikipedia.org/wiki/와타나베_미유키 "wikilink")(NMB48 팀N 겸임)
+    [이시다 하루카](../Page/이시다_하루카.md "wikilink"), [이치카와 미오리](../Page/이치카와_미오리.md "wikilink")(NMB48 팀N 겸임), [이와사 미사키](../Page/이와사_미사키.md "wikilink"), [우메다 아야카](../Page/우메다_아야카.md "wikilink"), [오바 미나](https://ko.wikipedia.org/wiki/오바_미나 "wikilink")(SKE48 팀KII 겸임), [오모리 미유](https://ko.wikipedia.org/wiki/오모리_미유 "wikilink"), [오야 시즈카](https://ko.wikipedia.org/wiki/오야_시즈카 "wikilink"), [가시와기 유키](https://ko.wikipedia.org/wiki/가시와기_유키 "wikilink"), [가타야마 하루카](https://ko.wikipedia.org/wiki/가타야마_하루카 "wikilink"), [가토 레나](https://ko.wikipedia.org/wiki/가토_레나 "wikilink"), [고지마 나쓰키](https://ko.wikipedia.org/wiki/고지마_나쓰키 "wikilink"), [고지마 하루나](https://ko.wikipedia.org/wiki/고지마_하루나 "wikilink"), [시마자키 하루카](../Page/시마자키_하루카.md "wikilink"), [다카조 아키](../Page/다카조_아키.md "wikilink")(JKT48 팀J 겸임), [다케우치 미유](https://ko.wikipedia.org/wiki/다케우치_미유 "wikilink"), [다나베 미쿠](https://ko.wikipedia.org/wiki/다나베_미쿠 "wikilink"), [나카무라 마리코](https://ko.wikipedia.org/wiki/나카무라_마리코 "wikilink"), [나토리 와카나](https://ko.wikipedia.org/wiki/나토리_와카나 "wikilink"), [노나카 미사토](../Page/노나카_미사토.md "wikilink"), [후지에 레이나](../Page/후지에_레이나.md "wikilink"), [야마우치 스즈란](../Page/야마우치_스즈란.md "wikilink"), [와타나베 미유키](../Page/와타나베_미유키.md "wikilink")(NMB48 팀N 겸임)
 
 <!-- end list -->
 
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   -
-    아이가사 모에, 이와타테 사호, 우메타 아야노, 오카다 아야카, 기타자와 사키, 시노자키 아야나, 다카시마 유리나, [무라야마 유이리](https://ko.wikipedia.org/wiki/무라야마_유이리 "wikilink"), 모기 시노부, 우치야마 나츠키, 오카다 나나, 고지마 마코, 니시노 미키, 하시모토 히카리, 마에다 미츠키, [미네기시 미나미](https://ko.wikipedia.org/wiki/미네기시_미나미 "wikilink")
+    아이가사 모에, 이와타테 사호, 우메타 아야노, 오카다 아야카, 기타자와 사키, 시노자키 아야나, 다카시마 유리나, [무라야마 유이리](../Page/무라야마_유이리.md "wikilink"), 모기 시노부, 우치야마 나츠키, 오카다 나나, 고지마 마코, 니시노 미키, 하시모토 히카리, 마에다 미츠키, [미네기시 미나미](../Page/미네기시_미나미.md "wikilink")
 
 ### SKE48
 
@@ -102,7 +102,7 @@
 <!-- end list -->
 
   -
-    [우치야마 미코토](https://ko.wikipedia.org/wiki/우치야마_미코토 "wikilink"), 오바 미나(AKB48 팀B 겸임), [카토 토모코](https://ko.wikipedia.org/wiki/카토_토모코 "wikilink") , [가토 루미](https://ko.wikipedia.org/wiki/가토_루미 "wikilink"), [고바야시 아미](https://ko.wikipedia.org/wiki/고바야시_아미 "wikilink"), [사토 미에코](https://ko.wikipedia.org/wiki/사토_미에코 "wikilink"), [시바타 아야](https://ko.wikipedia.org/wiki/시바타_아야 "wikilink"), [스다 아카리](https://ko.wikipedia.org/wiki/스다_아카리 "wikilink"), [다카기 유마나](https://ko.wikipedia.org/wiki/다카기_유마나 "wikilink"), [다카야나기 아카네](https://ko.wikipedia.org/wiki/다카야나기_아카네 "wikilink"), [다케우치 마이](https://ko.wikipedia.org/wiki/다케우치_마이 "wikilink"), [후타무라 하루카](https://ko.wikipedia.org/wiki/후타무라_하루카 "wikilink"), [후루카와 아이리](https://ko.wikipedia.org/wiki/후루카와_아이리 "wikilink"), [마쓰모토 리나](https://ko.wikipedia.org/wiki/마쓰모토_리나 "wikilink"), [야마시타 유카리](https://ko.wikipedia.org/wiki/야마시타_유카리 "wikilink")
+    [우치야마 미코토](https://ko.wikipedia.org/wiki/우치야마_미코토 "wikilink"), 오바 미나(AKB48 팀B 겸임), [카토 토모코](https://ko.wikipedia.org/wiki/카토_토모코 "wikilink") , [가토 루미](https://ko.wikipedia.org/wiki/가토_루미 "wikilink"), [고바야시 아미](https://ko.wikipedia.org/wiki/고바야시_아미 "wikilink"), [사토 미에코](https://ko.wikipedia.org/wiki/사토_미에코 "wikilink"), [시바타 아야](https://ko.wikipedia.org/wiki/시바타_아야 "wikilink"), [스다 아카리](../Page/스다_아카리.md "wikilink"), [다카기 유마나](https://ko.wikipedia.org/wiki/다카기_유마나 "wikilink"), [다카야나기 아카네](https://ko.wikipedia.org/wiki/다카야나기_아카네 "wikilink"), [다케우치 마이](https://ko.wikipedia.org/wiki/다케우치_마이 "wikilink"), [후타무라 하루카](https://ko.wikipedia.org/wiki/후타무라_하루카 "wikilink"), [후루카와 아이리](../Page/후루카와_아이리.md "wikilink"), [마쓰모토 리나](https://ko.wikipedia.org/wiki/마쓰모토_리나 "wikilink"), [야마시타 유카리](https://ko.wikipedia.org/wiki/야마시타_유카리 "wikilink")
 
 <!-- end list -->
 
@@ -129,7 +129,7 @@
 <!-- end list -->
 
   -
-    이치카와 미오리(AKB48 팀B 겸임), [오가사와라 마유](https://ko.wikipedia.org/wiki/오가사와라_마유 "wikilink"), [가도와기 가나코](https://ko.wikipedia.org/wiki/가도와기_가나코 "wikilink"), [기노시타 하루나](https://ko.wikipedia.org/wiki/기노시타_하루나 "wikilink"), [고가 나루미](https://ko.wikipedia.org/wiki/고가_나루미 "wikilink"), [고타니 리호](https://ko.wikipedia.org/wiki/고타니_리호 "wikilink"), [곤도 리나](https://ko.wikipedia.org/wiki/곤도_리나 "wikilink"), [죠니시 케이](https://ko.wikipedia.org/wiki/죠니시_케이 "wikilink"), [시로마 미루](https://ko.wikipedia.org/wiki/시로마_미루 "wikilink"), [야마구치 유키](https://ko.wikipedia.org/wiki/야마구치_유키 "wikilink"), [야마모토 사야카](https://ko.wikipedia.org/wiki/야마모토_사야카_\(NMB48\) "wikilink"), [요시다 아카리](https://ko.wikipedia.org/wiki/요시다_아카리 "wikilink"), 와타나베 미유키(AKB48 팀B 겸임)
+    이치카와 미오리(AKB48 팀B 겸임), [오가사와라 마유](../Page/오가사와라_마유.md "wikilink"), [가도와기 가나코](https://ko.wikipedia.org/wiki/가도와기_가나코 "wikilink"), [기노시타 하루나](https://ko.wikipedia.org/wiki/기노시타_하루나 "wikilink"), [고가 나루미](https://ko.wikipedia.org/wiki/고가_나루미 "wikilink"), [고타니 리호](https://ko.wikipedia.org/wiki/고타니_리호 "wikilink"), [곤도 리나](https://ko.wikipedia.org/wiki/곤도_리나 "wikilink"), [죠니시 케이](../Page/죠니시_케이.md "wikilink"), [시로마 미루](../Page/시로마_미루.md "wikilink"), [야마구치 유키](https://ko.wikipedia.org/wiki/야마구치_유키 "wikilink"), [야마모토 사야카](https://ko.wikipedia.org/wiki/야마모토_사야카_\(NMB48\) "wikilink"), [요시다 아카리](https://ko.wikipedia.org/wiki/요시다_아카리 "wikilink"), 와타나베 미유키(AKB48 팀B 겸임)
 
 <!-- end list -->
 
@@ -138,7 +138,7 @@
 <!-- end list -->
 
   -
-    [아즈마 유키](https://ko.wikipedia.org/wiki/아즈마_유키 "wikilink"), [오키타 아야카](https://ko.wikipedia.org/wiki/오키타_아야카 "wikilink"), [가와카미 레나](https://ko.wikipedia.org/wiki/가와카미_레나 "wikilink"), [기노시타 모모카](https://ko.wikipedia.org/wiki/기노시타_모모카 "wikilink"), [시마다 레나](https://ko.wikipedia.org/wiki/시마다_레나 "wikilink"), [다카노 유이](https://ko.wikipedia.org/wiki/다카노_유이 "wikilink"), [다니가와 아이리](https://ko.wikipedia.org/wiki/다니가와_아이리 "wikilink"), [미타 마오](https://ko.wikipedia.org/wiki/미타_마오 "wikilink"), [무라카미 아야카](https://ko.wikipedia.org/wiki/무라카미_아야카 "wikilink"), [무라사 사에](https://ko.wikipedia.org/wiki/무라사_사에 "wikilink"), 야구라 후코(AKB48 팀A 겸임), [야마기시 나츠미](https://ko.wikipedia.org/wiki/야마기시_나츠미 "wikilink"), [야마다 나나](https://ko.wikipedia.org/wiki/야마다_나나 "wikilink"), [요기 게이라](https://ko.wikipedia.org/wiki/요기_게이라 "wikilink")
+    [아즈마 유키](https://ko.wikipedia.org/wiki/아즈마_유키 "wikilink"), [오키타 아야카](https://ko.wikipedia.org/wiki/오키타_아야카 "wikilink"), [가와카미 레나](https://ko.wikipedia.org/wiki/가와카미_레나 "wikilink"), [기노시타 모모카](https://ko.wikipedia.org/wiki/기노시타_모모카 "wikilink"), [시마다 레나](https://ko.wikipedia.org/wiki/시마다_레나 "wikilink"), [다카노 유이](https://ko.wikipedia.org/wiki/다카노_유이 "wikilink"), [다니가와 아이리](https://ko.wikipedia.org/wiki/다니가와_아이리 "wikilink"), [미타 마오](https://ko.wikipedia.org/wiki/미타_마오 "wikilink"), [무라카미 아야카](https://ko.wikipedia.org/wiki/무라카미_아야카 "wikilink"), [무라사 사에](https://ko.wikipedia.org/wiki/무라사_사에 "wikilink"), 야구라 후코(AKB48 팀A 겸임), [야마기시 나츠미](https://ko.wikipedia.org/wiki/야마기시_나츠미 "wikilink"), [야마다 나나](../Page/야마다_나나.md "wikilink"), [요기 게이라](../Page/요기_게이라.md "wikilink")
 
 <!-- end list -->
 
@@ -165,7 +165,7 @@
 <!-- end list -->
 
   -
-    [아나이 치히로](https://ko.wikipedia.org/wiki/아나이_치히로 "wikilink"), [우에키 나오](https://ko.wikipedia.org/wiki/우에키_나오 "wikilink"), [오오타 아이카](https://ko.wikipedia.org/wiki/오오타_아이카 "wikilink"), [구마자와 세리나](https://ko.wikipedia.org/wiki/구마자와_세리나 "wikilink"), 코다마 하루카(AKB48 팀A 겸임), [사시하라 리노](https://ko.wikipedia.org/wiki/사시하라_리노 "wikilink")(HKT48 극장 지배인 겸임), [시모노 유키](https://ko.wikipedia.org/wiki/시모노_유키 "wikilink"), [타나카 나츠미](https://ko.wikipedia.org/wiki/타나카_나츠미 "wikilink"), [나카니시 치요리](https://ko.wikipedia.org/wiki/나카니시_치요리 "wikilink"), [마츠오카 나츠미](https://ko.wikipedia.org/wiki/마츠오카_나츠미 "wikilink"), [미야와키 사쿠라](https://ko.wikipedia.org/wiki/미야와키_사쿠라 "wikilink"), [무라시게 안나](https://ko.wikipedia.org/wiki/무라시게_안나 "wikilink"), [모토무라 아오이](https://ko.wikipedia.org/wiki/모토무라_아오이 "wikilink"), [모리야스 마도카](https://ko.wikipedia.org/wiki/모리야스_마도카 "wikilink"), [와카타베 하루카](https://ko.wikipedia.org/wiki/와카타베_하루카 "wikilink")
+    [아나이 치히로](https://ko.wikipedia.org/wiki/아나이_치히로 "wikilink"), [우에키 나오](https://ko.wikipedia.org/wiki/우에키_나오 "wikilink"), [오오타 아이카](../Page/오오타_아이카.md "wikilink"), [구마자와 세리나](https://ko.wikipedia.org/wiki/구마자와_세리나 "wikilink"), 코다마 하루카(AKB48 팀A 겸임), [사시하라 리노](../Page/사시하라_리노.md "wikilink")(HKT48 극장 지배인 겸임), [시모노 유키](https://ko.wikipedia.org/wiki/시모노_유키 "wikilink"), [타나카 나츠미](https://ko.wikipedia.org/wiki/타나카_나츠미 "wikilink"), [나카니시 치요리](https://ko.wikipedia.org/wiki/나카니시_치요리 "wikilink"), [마츠오카 나츠미](../Page/마츠오카_나츠미.md "wikilink"), [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink"), [무라시게 안나](../Page/무라시게_안나.md "wikilink"), [모토무라 아오이](https://ko.wikipedia.org/wiki/모토무라_아오이 "wikilink"), [모리야스 마도카](https://ko.wikipedia.org/wiki/모리야스_마도카 "wikilink"), [와카타베 하루카](https://ko.wikipedia.org/wiki/와카타베_하루카 "wikilink")
 
 <!-- end list -->
 
@@ -201,7 +201,7 @@
 <!-- end list -->
 
   -
-    [우라노 가즈미](https://ko.wikipedia.org/wiki/우라노_가즈미 "wikilink")(전 AKB48, 전 SDN48), [오호리 메구미](https://ko.wikipedia.org/wiki/오호리_메구미 "wikilink")(전 AKB48, 전 SDN48), [고하라 하루카](https://ko.wikipedia.org/wiki/고하라_하루카 "wikilink")(전 AKB48, 전 SDN48), [사토 유카리](https://ko.wikipedia.org/wiki/사토_유카리_\(가수\) "wikilink")(전 AKB48, 전 SDN48), [노로 가요](https://ko.wikipedia.org/wiki/노로_가요 "wikilink")(전 AKB48, 전 SDN48), [히라지마 나츠미](https://ko.wikipedia.org/wiki/히라지마_나츠미 "wikilink")(전 AKB48)
+    [우라노 가즈미](../Page/우라노_가즈미.md "wikilink")(전 AKB48, 전 SDN48), [오호리 메구미](https://ko.wikipedia.org/wiki/오호리_메구미 "wikilink")(전 AKB48, 전 SDN48), [고하라 하루카](../Page/고하라_하루카.md "wikilink")(전 AKB48, 전 SDN48), [사토 유카리](../Page/사토_유카리_\(가수\).md "wikilink")(전 AKB48, 전 SDN48), [노로 가요](https://ko.wikipedia.org/wiki/노로_가요 "wikilink")(전 AKB48, 전 SDN48), [히라지마 나츠미](../Page/히라지마_나츠미.md "wikilink")(전 AKB48)
 
 ### 불출마
 
@@ -223,7 +223,7 @@
 <!-- end list -->
 
   -
-    ★[아키모토 사야카](https://ko.wikipedia.org/wiki/아키모토_사야카 "wikilink"), ★[마쓰바라 나쓰미](https://ko.wikipedia.org/wiki/마쓰바라_나쓰미 "wikilink")
+    ★[아키모토 사야카](../Page/아키모토_사야카.md "wikilink"), ★[마쓰바라 나쓰미](../Page/마쓰바라_나쓰미.md "wikilink")
 
 <!-- end list -->
 
@@ -268,7 +268,7 @@
 <!-- end list -->
 
   -
-    [기시노 리카](https://ko.wikipedia.org/wiki/기시노_리카 "wikilink"), ★[후쿠모토 아이나](https://ko.wikipedia.org/wiki/후쿠모토_아이나 "wikilink")
+    [기시노 리카](https://ko.wikipedia.org/wiki/기시노_리카 "wikilink"), ★[후쿠모토 아이나](../Page/후쿠모토_아이나.md "wikilink")
 
 <!-- end list -->
 
@@ -286,11 +286,11 @@
 <!-- end list -->
 
   -
-    [나카가와 하루카](https://ko.wikipedia.org/wiki/나카가와_하루카 "wikilink")
+    [나카가와 하루카](../Page/나카가와_하루카.md "wikilink")
 
 #### 졸업 멤버
 
-  - [오쿠 마나미](https://ko.wikipedia.org/wiki/오쿠_마나미 "wikilink")(전 AKB48), [오노 에레나](https://ko.wikipedia.org/wiki/오노_에레나 "wikilink")(전 AKB48), [사토 나츠키](https://ko.wikipedia.org/wiki/사토_나츠키 "wikilink")(전 AKB48), [나카야 사야카](https://ko.wikipedia.org/wiki/나카야_사야카 "wikilink")(전 AKB48), [마에다 아쓰코](https://ko.wikipedia.org/wiki/마에다_아쓰코 "wikilink")(전 AKB48), [마스다 유카](https://ko.wikipedia.org/wiki/마스다_유카 "wikilink")(전 AKB48), [요네자와 루미](https://ko.wikipedia.org/wiki/요네자와_루미 "wikilink")(전 AKB48), [히라타 리카코](https://ko.wikipedia.org/wiki/히라타_리카코 "wikilink")(전 SKE48)
+  - [오쿠 마나미](https://ko.wikipedia.org/wiki/오쿠_마나미 "wikilink")(전 AKB48), [오노 에레나](https://ko.wikipedia.org/wiki/오노_에레나 "wikilink")(전 AKB48), [사토 나츠키](../Page/사토_나츠키.md "wikilink")(전 AKB48), [나카야 사야카](https://ko.wikipedia.org/wiki/나카야_사야카 "wikilink")(전 AKB48), [마에다 아쓰코](https://ko.wikipedia.org/wiki/마에다_아쓰코 "wikilink")(전 AKB48), [마스다 유카](../Page/마스다_유카.md "wikilink")(전 AKB48), [요네자와 루미](../Page/요네자와_루미.md "wikilink")(전 AKB48), [히라타 리카코](https://ko.wikipedia.org/wiki/히라타_리카코 "wikilink")(전 SKE48)
 
 #### 입후보 권한이 있었지만 개표 이벤트까지 졸업한 멤버
 

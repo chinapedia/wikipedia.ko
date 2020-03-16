@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATTRIB](https://ko.wikipedia.org/wiki/ATTRIB).
 
 
-**attrib**는 [도스](https://ko.wikipedia.org/wiki/도스 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [마이크로소프트 윈도의](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 명령 가운데 하나이다. attrib의 기능은 [파일 특성](https://ko.wikipedia.org/wiki/파일_특성 "wikilink") (읽기 전용/r, 보관/a, 시스템/s, 숨김/h)을 설정하고 제거하는 것이다. 이러한 특성들은 파일을 보호하고 분류할 목적으로 다양한 소프트웨어에 사용된다.\[1\]
+**attrib**는 [도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [마이크로소프트 윈도의](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 명령 가운데 하나이다. attrib의 기능은 [파일 특성](../Page/파일_특성.md "wikilink") (읽기 전용/r, 보관/a, 시스템/s, 숨김/h)을 설정하고 제거하는 것이다. 이러한 특성들은 파일을 보호하고 분류할 목적으로 다양한 소프트웨어에 사용된다.\[1\]
 
 수많은 사용자들은 일반적으로 읽기 전용 특성을 마주치면서 소프트웨어 사용 시 사용자가 파일을 덮어쓰거나 추가하지 못하게 한다. 그러나 사용자에게 확인을 받은 뒤에는 소프트웨어가 이 옵션을 무효화할 수 있다. 보관 특성은 어느 파일을 백업할 필요가 있는지를 알려주기 위해 다양한 백업 및 파일 복사 프로그램에 사용된다.\[2\] 숨김 특성은 영향을 받는 파일들이 수많은 프로그램들에 보이지 않게 하지만 다양한 소프트웨어, 특히 파일 나열, 표시, 검색을 목적으로 설계된 소프트웨어는 숨김 파일을 보이게 만들 수 있으며 숨김 처리되어 있음을 표시해준다. 시스템 특성은 특정한 운영 체제 파일들을 가리키며 다른 특성들에 비해 대부분의 소프트웨어의 작동에 덜 영향을 미친다.
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MZ  ](https://ko.wikipedia.org/wiki/MZ__).
 
 
-**MZ 실행 파일** 형식은 [DOS](https://ko.wikipedia.org/wiki/DOS "wikilink")에서 [.EXE](https://ko.wikipedia.org/wiki/EXE "wikilink") [실행 파일에](https://ko.wikipedia.org/wiki/실행_파일 "wikilink") 사용되는 [파일 형식이다](https://ko.wikipedia.org/wiki/파일_형식 "wikilink").
+**MZ 실행 파일** 형식은 [DOS](https://ko.wikipedia.org/wiki/DOS "wikilink")에서 [.EXE](../Page/EXE.md "wikilink") [실행 파일에](../Page/실행_파일.md "wikilink") 사용되는 [파일 형식이다](https://ko.wikipedia.org/wiki/파일_형식 "wikilink").
 
-파일의 맨 앞에 있는 "MZ"라는 아스키 문자열([16진수로는](https://ko.wikipedia.org/wiki/십육진법 "wikilink") 4D 5A)로 식별할 수 있다. 이런 걸 "[매직 넘버](https://ko.wikipedia.org/wiki/매직_넘버 "wikilink")"라고 한다. "MZ"는 [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink")의 개발자였던 [Mark Zbikowski의](https://ko.wikipedia.org/wiki/:en:Mark_Zbikowski "wikilink") 머리글자를 딴 것이다.
+파일의 맨 앞에 있는 "MZ"라는 아스키 문자열([16진수로는](../Page/십육진법.md "wikilink") 4D 5A)로 식별할 수 있다. 이런 걸 "[매직 넘버](https://ko.wikipedia.org/wiki/매직_넘버 "wikilink")"라고 한다. "MZ"는 [MS-DOS](../Page/MS-DOS.md "wikilink")의 개발자였던 [Mark Zbikowski의](https://ko.wikipedia.org/wiki/:en:Mark_Zbikowski "wikilink") 머리글자를 딴 것이다.
 
-MZ 실행 파일은 기존 COM 실행 파일 대비 새로운 형식이다. 파일은 [머리에](https://ko.wikipedia.org/wiki/헤더_\(컴퓨팅\) "wikilink") [릴로케이션](https://ko.wikipedia.org/wiki/릴로케이션_테이블 "wikilink") 정보를 가지는데, 이것은 여러 세그먼트를 임의의 메모리에 올릴 수 있도록 해준다. 그리고 64KiB보다 큰 실행 파일을 만들 수 있다. 하지만, 옵셋에 대한 64KiB의 한계는 여전하다. 이것은 나중에 나오는 [도스 확장자를](https://ko.wikipedia.org/wiki/도스_확장자 "wikilink") 사용해서 피할 수 있다.
+MZ 실행 파일은 기존 COM 실행 파일 대비 새로운 형식이다. 파일은 [머리에](https://ko.wikipedia.org/wiki/헤더_\(컴퓨팅\) "wikilink") [릴로케이션](https://ko.wikipedia.org/wiki/릴로케이션_테이블 "wikilink") 정보를 가지는데, 이것은 여러 세그먼트를 임의의 메모리에 올릴 수 있도록 해준다. 그리고 64KiB보다 큰 실행 파일을 만들 수 있다. 하지만, 옵셋에 대한 64KiB의 한계는 여전하다. 이것은 나중에 나오는 [도스 확장자를](../Page/도스_확장자.md "wikilink") 사용해서 피할 수 있다.
 
 도스를 통해 구동되는 EXE 프로그램의 환경은 [프로그램 세그먼트 프리픽스에서](https://ko.wikipedia.org/wiki/프로그램_세그먼트_프리픽스 "wikilink") 볼 수 있다.
 
@@ -180,15 +180,15 @@ minmemory=8은 stack 80h 때문이다. stack은 초기화된다거나 하는 대
 
 ## 호환성
 
-MZ 실행 파일은 DOS와 [윈도 9x](https://ko.wikipedia.org/wiki/윈도_9x "wikilink") 계열의 OS에서 실행된다. 32비트인 [윈도 NT](https://ko.wikipedia.org/wiki/윈도_NT "wikilink") 계열에서도 [가상 도스 머신이라는](https://ko.wikipedia.org/wiki/가상_도스_머신 "wikilink") 방식으로 실행할 수 있지만, 그래픽 모드를 사용하는 일부는 안된다. 64비트 윈도에서는 실행할 수 없다. 대신에 [DOSBox](https://ko.wikipedia.org/wiki/DOSBox "wikilink"), [DOSEMU](https://ko.wikipedia.org/wiki/DOSEMU "wikilink"), [와인](https://ko.wikipedia.org/wiki/와인_\(소프트웨어\) "wikilink") 등을 사용해서 실행할 수 있다.
+MZ 실행 파일은 DOS와 [윈도 9x](https://ko.wikipedia.org/wiki/윈도_9x "wikilink") 계열의 OS에서 실행된다. 32비트인 [윈도 NT](https://ko.wikipedia.org/wiki/윈도_NT "wikilink") 계열에서도 [가상 도스 머신이라는](../Page/가상_도스_머신.md "wikilink") 방식으로 실행할 수 있지만, 그래픽 모드를 사용하는 일부는 안된다. 64비트 윈도에서는 실행할 수 없다. 대신에 [DOSBox](https://ko.wikipedia.org/wiki/DOSBox "wikilink"), [DOSEMU](../Page/DOSEMU.md "wikilink"), [와인](../Page/와인_\(소프트웨어\).md "wikilink") 등을 사용해서 실행할 수 있다.
 
-[디지털 마스](https://ko.wikipedia.org/wiki/디지털_마스 "wikilink") [Optlink](https://ko.wikipedia.org/wiki/Optlink "wikilink"), [MS 링커](https://ko.wikipedia.org/wiki/MS_링커 "wikilink"), [VALX](https://ko.wikipedia.org/wiki/VALX "wikilink"), [오픈 왓콤의](https://ko.wikipedia.org/wiki/오픈_왓콤 "wikilink") WLINK, 등등의 링커로 MZ 실행 파일을 만들 수 있다. 덧붙여 [FASM](https://ko.wikipedia.org/wiki/FASM "wikilink")로는 바로 만들 수 있다.
+[디지털 마스](https://ko.wikipedia.org/wiki/디지털_마스 "wikilink") [Optlink](https://ko.wikipedia.org/wiki/Optlink "wikilink"), [MS 링커](https://ko.wikipedia.org/wiki/MS_링커 "wikilink"), [VALX](https://ko.wikipedia.org/wiki/VALX "wikilink"), [오픈 왓콤의](https://ko.wikipedia.org/wiki/오픈_왓콤 "wikilink") WLINK, 등등의 링커로 MZ 실행 파일을 만들 수 있다. 덧붙여 [FASM](../Page/FASM.md "wikilink")로는 바로 만들 수 있다.
 
 ## 같이 보기
 
-  - [도스](https://ko.wikipedia.org/wiki/도스 "wikilink")
-  - [도스 확장자](https://ko.wikipedia.org/wiki/도스_확장자 "wikilink")
-  - [MS-DOS API](https://ko.wikipedia.org/wiki/MS-DOS_API "wikilink")
+  - [도스](../Page/도스.md "wikilink")
+  - [도스 확장자](../Page/도스_확장자.md "wikilink")
+  - [MS-DOS API](../Page/MS-DOS_API.md "wikilink")
 
 ## 외부 링크
 

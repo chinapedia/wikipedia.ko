@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Zepp](https://ko.wikipedia.org/wiki/Zepp).
 
 
-()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [라이브 하우스이다](https://ko.wikipedia.org/wiki/라이브_하우스 "wikilink"). [소니 뮤직 엔터테인먼트 재팬](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_재팬 "wikilink") (SMEJ)의 자회사로, Zepp 라이브 엔터테인먼트가 운영한다.
+()는 [일본](../Page/일본.md "wikilink")의 [라이브 하우스이다](https://ko.wikipedia.org/wiki/라이브_하우스 "wikilink"). [소니 뮤직 엔터테인먼트 재팬](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_재팬 "wikilink") (SMEJ)의 자회사로, Zepp 라이브 엔터테인먼트가 운영한다.
 
 ## 개요
 

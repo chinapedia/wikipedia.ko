@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ USA](https://ko.wikipedia.org/wiki/_USA).
 
 
-《**크루즌 USA**》(Cruis'n USA)는 [미드웨이](https://ko.wikipedia.org/wiki/미드웨이 "wikilink")가 제작한 [아케이드](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink") [경주 게임이며](https://ko.wikipedia.org/wiki/경주_게임 "wikilink"), [크루즌 시리즈의](https://ko.wikipedia.org/wiki/크루즌_\(시리즈\) "wikilink") 첫 작품이다. [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")에 발매되었으며, 이 게임은 전체적으로 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")와 퍼블리싱 및 하드웨어 관련으로 협력을 한 게임이기도 하다. 덕분에 울트라 64를 기반으로 한 기판으로 제작되었으며, 물론 동 시스템을 사용하는 [닌텐도 64로도](https://ko.wikipedia.org/wiki/닌텐도_64 "wikilink") [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 이식되었다. 이 게임은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 곳곳을 순회하는 게임인데, 미국의 명물인 [금문교](https://ko.wikipedia.org/wiki/금문교 "wikilink"), [할리우드](https://ko.wikipedia.org/wiki/할리우드 "wikilink") 등이 나온다. 14가지 트랙과 7대의 차량을 제공한다.
+《**크루즌 USA**》(Cruis'n USA)는 [미드웨이](https://ko.wikipedia.org/wiki/미드웨이 "wikilink")가 제작한 [아케이드](../Page/아케이드_게임.md "wikilink") [경주 게임이며](https://ko.wikipedia.org/wiki/경주_게임 "wikilink"), [크루즌 시리즈의](https://ko.wikipedia.org/wiki/크루즌_\(시리즈\) "wikilink") 첫 작품이다. [1994년](../Page/1994년.md "wikilink")에 발매되었으며, 이 게임은 전체적으로 [닌텐도](../Page/닌텐도.md "wikilink")와 퍼블리싱 및 하드웨어 관련으로 협력을 한 게임이기도 하다. 덕분에 울트라 64를 기반으로 한 기판으로 제작되었으며, 물론 동 시스템을 사용하는 [닌텐도 64로도](../Page/닌텐도_64.md "wikilink") [1996년](../Page/1996년.md "wikilink")에 이식되었다. 이 게임은 [미국](../Page/미국.md "wikilink") 곳곳을 순회하는 게임인데, 미국의 명물인 [금문교](https://ko.wikipedia.org/wiki/금문교 "wikilink"), [할리우드](../Page/할리우드.md "wikilink") 등이 나온다. 14가지 트랙과 7대의 차량을 제공한다.
 
 ## 각주
 

@@ -5,7 +5,7 @@
 
 <div class="NavHead" style="background:#ED881C; padding-bottom:0; text-align:center; padding-left:1em">
 
-[<span style="color:white; font-size:85% ">로마 지하철</span>](https://ko.wikipedia.org/wiki/로마_지하철 "wikilink") <span style="color:white">·</span> [<span style="color:white">A선</span>](../Page/로마_지하철_A선.md "wikilink")
+[<span style="color:white; font-size:85% ">로마 지하철</span>](../Page/로마_지하철.md "wikilink") <span style="color:white">·</span> [<span style="color:white">A선</span>](../Page/로마_지하철_A선.md "wikilink")
 
 </div>
 
@@ -44,19 +44,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>ㅒ colspan=5 align=right |<a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> </p></td>
+<td><p>ㅒ colspan=5 align=right |<a href="../Page/로마의_트램.md" title="wikilink">{{사각노선</a> </p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:White_dot.svg" title="wikilink">8px</a></p></td>
 <td><p> <a href="../Page/오타비아노_역.md" title="wikilink">오타비아노</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> </p></td>
+<td><p><a href="../Page/로마의_트램.md" title="wikilink">{{사각노선</a> </p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:White_dot.svg" title="wikilink">8px</a></p></td>
 <td><p> <a href="../Page/레판토_역.md" title="wikilink">레판토</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> <a href="../Page/로마-치비타카스텔라나-비테르보_선.md" title="wikilink">{{사각노선</a> </p></td>
+<td><p><a href="../Page/로마의_트램.md" title="wikilink">{{사각노선</a> <a href="../Page/로마-치비타카스텔라나-비테르보_선.md" title="wikilink">{{사각노선</a> </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:White_dot.svg" title="wikilink">8px</a></p></td>
 <td><p> <a href="../Page/플라미니오_역.md" title="wikilink">플라미니오</a></p></td>
 <td></td>
@@ -80,7 +80,7 @@
 <td><p> <a href="https://ko.wikipedia.org/wiki/레푸블리카-테아트로델로페라_역" title="wikilink">레푸블리카</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> <a href="../Page/로마-자르디네티_선.md" title="wikilink">{{사각노선</a> <br />
+<td><p><a href="../Page/로마의_트램.md" title="wikilink">{{사각노선</a> <a href="../Page/로마의_트램.md" title="wikilink">{{사각노선</a> <a href="../Page/로마-자르디네티_선.md" title="wikilink">{{사각노선</a> <br />
 <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR4" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR5" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR6" title="wikilink">{{사각노선</a> <br />
 <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR7" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/라치오_전철_FR8" title="wikilink">{{사각노선</a> </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:White_dot.svg" title="wikilink">8px</a></p></td>
@@ -88,7 +88,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> <a href="https://ko.wikipedia.org/wiki/로마의_트램" title="wikilink">{{사각노선</a> </p></td>
+<td><p><a href="../Page/로마의_트램.md" title="wikilink">{{사각노선</a> <a href="../Page/로마의_트램.md" title="wikilink">{{사각노선</a> </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:White_dot.svg" title="wikilink">8px</a></p></td>
 <td><p> <a href="../Page/비토리오_에마누엘레_역.md" title="wikilink">비토리오 에마누엘레</a></p></td>
 <td></td>

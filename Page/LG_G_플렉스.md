@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [LG G ](https://ko.wikipedia.org/wiki/LG_G_).
 
 
-**LG G 플렉스** (LG G Flex)는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 여의도 [트윈빌딩](https://ko.wikipedia.org/wiki/LG_트윈_타워 "wikilink") 행사장에서 발표하여\[1\] [11월 12일](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") 대한민국 3개 통신사에서 동시출시한\[2\] [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [패블릿](https://ko.wikipedia.org/wiki/패블릿 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**LG G 플렉스** (LG G Flex)는 [LG전자](../Page/LG전자.md "wikilink")가 [2013년](../Page/2013년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") 여의도 [트윈빌딩](https://ko.wikipedia.org/wiki/LG_트윈_타워 "wikilink") 행사장에서 발표하여\[1\] [11월 12일](../Page/11월_12일.md "wikilink") 대한민국 3개 통신사에서 동시출시한\[2\] [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-[갤럭시 라운드에](https://ko.wikipedia.org/wiki/갤럭시_라운드 "wikilink") 이어 2번째로 [플렉서블 디스플레이를](https://ko.wikipedia.org/wiki/플렉서블_디스플레이 "wikilink") 탑재한 스마트폰이다.\[3\] 배터리 또한 휘어지는 배터리를 채용하였으며, 기존에 출시된 모든 휴대전화와 달리 힘을 가하면 조금씩 휘는 점이 특징이다.
+[갤럭시 라운드에](https://ko.wikipedia.org/wiki/갤럭시_라운드 "wikilink") 이어 2번째로 [플렉서블 디스플레이를](../Page/플렉서블_디스플레이.md "wikilink") 탑재한 스마트폰이다.\[3\] 배터리 또한 휘어지는 배터리를 채용하였으며, 기존에 출시된 모든 휴대전화와 달리 힘을 가하면 조금씩 휘는 점이 특징이다.
 
 ## 운영 체제/소프트웨어
 
@@ -17,16 +17,16 @@
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") : [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 여의도 [LG 트윈 타워](https://ko.wikipedia.org/wiki/LG_트윈_타워 "wikilink") 행사장에서 발표
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 12일](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") : 대한민국 3개 통신사 [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink"), [KT](https://ko.wikipedia.org/wiki/KT "wikilink"), [LG U+](https://ko.wikipedia.org/wiki/LG_유플러스 "wikilink") 에서 동시출시
+  - [2013년](../Page/2013년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") : [대한민국](../Page/대한민국.md "wikilink") 여의도 [LG 트윈 타워](https://ko.wikipedia.org/wiki/LG_트윈_타워 "wikilink") 행사장에서 발표
+  - [2013년](../Page/2013년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") : 대한민국 3개 통신사 [SK텔레콤](../Page/SK텔레콤.md "wikilink"), [KT](../Page/KT.md "wikilink"), [LG U+](https://ko.wikipedia.org/wiki/LG_유플러스 "wikilink") 에서 동시출시
 
 ## 외형
 
-[플렉서블 디스플레이를](https://ko.wikipedia.org/wiki/플렉서블_디스플레이 "wikilink") 제외하면 성능 및 디자인에서 [LG G2와](../Page/LG_G2.md "wikilink") 거의 동일하다.[LG G2와](../Page/LG_G2.md "wikilink") 동일하게 소프트키를 채용해 전면에 버튼이 없고 볼륨과 전원키를 뒷면으로 보내 손가락으로 쉽게 전원과 볼륨을 조작할 수 있도록 하였다. 또 전원 버튼에 [LED](https://ko.wikipedia.org/wiki/LED "wikilink")를 달았다.
+[플렉서블 디스플레이를](../Page/플렉서블_디스플레이.md "wikilink") 제외하면 성능 및 디자인에서 [LG G2와](../Page/LG_G2.md "wikilink") 거의 동일하다.[LG G2와](../Page/LG_G2.md "wikilink") 동일하게 소프트키를 채용해 전면에 버튼이 없고 볼륨과 전원키를 뒷면으로 보내 손가락으로 쉽게 전원과 볼륨을 조작할 수 있도록 하였다. 또 전원 버튼에 [LED](https://ko.wikipedia.org/wiki/LED "wikilink")를 달았다.
 
 ## 색상
 
-  - [티탄](https://ko.wikipedia.org/wiki/블랙 "wikilink")
+  - [티탄](../Page/블랙.md "wikilink")
 
 ## 특수 기능
 
@@ -79,7 +79,7 @@
 
 ###  LG-F340S/K/L
 
-[SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink"), [KT](https://ko.wikipedia.org/wiki/KT "wikilink"), [LG 유플러스를](https://ko.wikipedia.org/wiki/LG_유플러스 "wikilink") 통해 출시된 제품으로 [LTE 어드밴스트를](https://ko.wikipedia.org/wiki/LTE_어드밴스트 "wikilink") 지원한다.
+[SK텔레콤](../Page/SK텔레콤.md "wikilink"), [KT](../Page/KT.md "wikilink"), [LG 유플러스를](https://ko.wikipedia.org/wiki/LG_유플러스 "wikilink") 통해 출시된 제품으로 [LTE 어드밴스트를](../Page/LTE_어드밴스트.md "wikilink") 지원한다.
 
 ## 경쟁 기종
 

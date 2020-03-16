@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 2km](https://ko.wikipedia.org/wiki/_2km).
 
 
-《**시실리 2km**》(To Catch A Virgin Ghost)는 2004년 개봉한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 영화이다.
+《**시실리 2km**》(To Catch A Virgin Ghost)는 2004년 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 영화이다.
 
 ## 줄거리
 
@@ -13,18 +13,18 @@
 
 ## 출연
 
-  - [임창정](https://ko.wikipedia.org/wiki/임창정 "wikilink") - 양이 역
-  - [권오중](https://ko.wikipedia.org/wiki/권오중 "wikilink") - 석태 역
-  - [임은경](https://ko.wikipedia.org/wiki/임은경 "wikilink") - 송이 역
-  - [변희봉](https://ko.wikipedia.org/wiki/변희봉 "wikilink") - 변 노인 역
+  - [임창정](../Page/임창정.md "wikilink") - 양이 역
+  - [권오중](../Page/권오중.md "wikilink") - 석태 역
+  - [임은경](../Page/임은경.md "wikilink") - 송이 역
+  - [변희봉](../Page/변희봉.md "wikilink") - 변 노인 역
   - [박명신](../Page/박명신.md "wikilink") - 대순 역
-  - [우현](https://ko.wikipedia.org/wiki/우현_\(배우\) "wikilink") - 해주 역
-  - [안내상](https://ko.wikipedia.org/wiki/안내상 "wikilink") - 똥개 역
-  - [김윤석](https://ko.wikipedia.org/wiki/김윤석_\(배우\) "wikilink") - 학규 역
+  - [우현](../Page/우현_\(배우\).md "wikilink") - 해주 역
+  - [안내상](../Page/안내상.md "wikilink") - 똥개 역
+  - [김윤석](../Page/김윤석_\(배우\).md "wikilink") - 학규 역
   - [이상훈](../Page/이상훈_\(1968년\).md "wikilink") - 춘식 역
-  - [박혁권](https://ko.wikipedia.org/wiki/박혁권 "wikilink") - 땡중 역
+  - [박혁권](../Page/박혁권.md "wikilink") - 땡중 역
   - [김유희](https://ko.wikipedia.org/wiki/김유희 "wikilink") - 주리 역
-  - [최원영](https://ko.wikipedia.org/wiki/최원영_\(배우\) "wikilink") - 한석 역
+  - [최원영](../Page/최원영_\(배우\).md "wikilink") - 한석 역
 
 ## 외부 링크
 

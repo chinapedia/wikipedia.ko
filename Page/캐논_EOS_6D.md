@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EOS 6D](https://ko.wikipedia.org/wiki/_EOS_6D).
 
 
-**캐논 EOS 6D**()는 2,020만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") [풀프레임](https://ko.wikipedia.org/wiki/풀프레임_DSLR "wikilink") [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_일안_반사식_카메라 "wikilink"). [포토키나](https://ko.wikipedia.org/wiki/포토키나 "wikilink")를 하루 앞둔 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 17일에](https://ko.wikipedia.org/wiki/9월_17일 "wikilink") 발표되었다.\[1\] 가격은 US $2,099 (바디 단품)이며, EF 24-105mm F4L IS USM 렌즈 킷은 US$ 2,899 이다.\[2\]
+**캐논 EOS 6D**()는 2,020만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") [풀프레임](../Page/풀프레임_DSLR.md "wikilink") [디지털 SLR이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). [포토키나](../Page/포토키나.md "wikilink")를 하루 앞둔 [2012년](../Page/2012년.md "wikilink") [9월 17일에](../Page/9월_17일.md "wikilink") 발표되었다.\[1\] 가격은 US $2,099 (바디 단품)이며, EF 24-105mm F4L IS USM 렌즈 킷은 US$ 2,899 이다.\[2\]
 
 6D의 출시로 기존 보급형 풀프레임이던 5D 라인이 중급형 풀프레임으로 판올림 됐으며, 현재로써는 6D가 보급형 풀프레임 라인업에 위치한다. 경쟁 모델로는 니콘의 [D600](https://ko.wikipedia.org/wiki/D600 "wikilink")이 있다.
 
@@ -19,10 +19,10 @@
 
 ## 같이 보기
 
-  - [캐논](https://ko.wikipedia.org/wiki/캐논 "wikilink")
-  - [캐논 EOS](https://ko.wikipedia.org/wiki/캐논_EOS "wikilink")
-  - [캐논 EF 마운트](https://ko.wikipedia.org/wiki/캐논_EF_마운트 "wikilink")
-  - [풀프레임 DSLR](https://ko.wikipedia.org/wiki/풀프레임_DSLR "wikilink")
+  - [캐논](../Page/캐논.md "wikilink")
+  - [캐논 EOS](../Page/캐논_EOS.md "wikilink")
+  - [캐논 EF 마운트](../Page/캐논_EF_마운트.md "wikilink")
+  - [풀프레임 DSLR](../Page/풀프레임_DSLR.md "wikilink")
 
 ## 출처
 

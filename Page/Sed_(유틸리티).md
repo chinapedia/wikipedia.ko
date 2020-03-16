@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sed \(\)](https://ko.wikipedia.org/wiki/Sed_\(\)).
 
 
-**sed**(*stream editor*)는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink")에서 텍스트를 분해하거나 변환하기 위한 프로그램이다. sed는 [벨 연구소의](https://ko.wikipedia.org/wiki/벨_연구소 "wikilink") [리 E. 맥마흔이](https://ko.wikipedia.org/wiki/리_E._맥마흔 "wikilink") 1973년부터 1974년까지 개발하였고, 현재 유닉스 등의 여러가지 운영 체제에서 사용 가능하다.
+**sed**(*stream editor*)는 [유닉스](../Page/유닉스.md "wikilink")에서 텍스트를 분해하거나 변환하기 위한 프로그램이다. sed는 [벨 연구소의](../Page/벨_연구소.md "wikilink") [리 E. 맥마흔이](https://ko.wikipedia.org/wiki/리_E._맥마흔 "wikilink") 1973년부터 1974년까지 개발하였고, 현재 유닉스 등의 여러가지 운영 체제에서 사용 가능하다.
 
 ## 역사
 
@@ -27,7 +27,7 @@ sed '/^ *$/d' inputFileName
 
 ### 필터로서의 사용
 
-유닉스에서 sed는 [파이프](https://ko.wikipedia.org/wiki/파이프_\(유닉스\) "wikilink") 안에 [필터로](https://ko.wikipedia.org/wiki/필터_\(소프트웨어\) "wikilink") 종종 사용된다:
+유닉스에서 sed는 [파이프](../Page/파이프_\(유닉스\).md "wikilink") 안에 [필터로](https://ko.wikipedia.org/wiki/필터_\(소프트웨어\) "wikilink") 종종 사용된다:
 
 ``` bash
 generateData | sed 's/x/y/g'
@@ -62,7 +62,7 @@ sed -i 's/abc/def/' fileName
 
 ## 같이 보기
 
-  - [AWK](https://ko.wikipedia.org/wiki/AWK "wikilink")
+  - [AWK](../Page/AWK.md "wikilink")
 
 ## 각주
 

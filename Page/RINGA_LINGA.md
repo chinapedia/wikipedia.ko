@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RINGA LINGA](https://ko.wikipedia.org/wiki/RINGA_LINGA).
 
 
-**RINGA LINGA ()**은 대한민국의 음악 그룹 [빅뱅의](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") [태양의](https://ko.wikipedia.org/wiki/태양_\(가수\) "wikilink") 세 번째 디지털 싱글 앨범이다. 그의 두 번째 정규 앨범 《[Rise](https://ko.wikipedia.org/wiki/Rise_\(태양의_음반\) "wikilink")》의 첫 번째 선공개 곡이다. 2013년 11월 8일 자정 각 온라인 음원 사이트를 통해 공개되었다.
+**RINGA LINGA ()**은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [태양의](../Page/태양_\(가수\).md "wikilink") 세 번째 디지털 싱글 앨범이다. 그의 두 번째 정규 앨범 《[Rise](https://ko.wikipedia.org/wiki/Rise_\(태양의_음반\) "wikilink")》의 첫 번째 선공개 곡이다. 2013년 11월 8일 자정 각 온라인 음원 사이트를 통해 공개되었다.
 
 ## 트랙 리스트
 

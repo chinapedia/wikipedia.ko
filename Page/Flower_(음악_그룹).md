@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Flower \( \)](https://ko.wikipedia.org/wiki/Flower_\(_\)).
 
 
-**Flower**(플라워)는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [댄스](https://ko.wikipedia.org/wiki/춤 "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink") 레이블은 [Sony Music Associated Records](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink").
+**Flower**(플라워)는, [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink") 레이블은 [Sony Music Associated Records](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink").
 
 ## 약력
 
-2010년 4월 1일, 예능 사무소 LDH가 운영하는 댄스 스쿨 EXPG로부터, [미즈노 에리나](../Page/미즈노_에리나.md "wikilink"), 나카지마 미오, [후지이 슈카](../Page/후지이_슈카.md "wikilink"), 시게토메 마나미의 4명이서 댄스 유닛으로서 결성. [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")의 라이브 투어에 서포트 멤버로서 참가하는 등 활동을 개시한다.
+2010년 4월 1일, 예능 사무소 LDH가 운영하는 댄스 스쿨 EXPG로부터, [미즈노 에리나](../Page/미즈노_에리나.md "wikilink"), 나카지마 미오, [후지이 슈카](../Page/후지이_슈카.md "wikilink"), 시게토메 마나미의 4명이서 댄스 유닛으로서 결성. [EXILE](../Page/EXILE.md "wikilink")의 라이브 투어에 서포트 멤버로서 참가하는 등 활동을 개시한다.
 
 2011년 4월, [E-girls](../Page/E-girls.md "wikilink")의 멤버로서도 활동한다. 7월, 〈VOCAL BATTLE AUDITION 3〉에서 약 3만 명 중에서 선택된 5명, [와시오 레이나](../Page/와시오_레이나.md "wikilink"), 무토 치하루, 이치키 쿄카, 반도 노조미, 사토 하루미의 가입을 발표\[1\]. 댄스&보컬 유닛으로 다시 태어났다. 10월 12일, 오디션의 과제곡이기도 했던 〈Still〉로 데뷔.
 
@@ -242,7 +242,7 @@
 <td><p>2014년 3월 26일</p></td>
 <td><p><br />
 <small>몇 번이라도</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DREAMS_COME_TRUE" title="wikilink">DREAMS COME TRUE</a><br />
+<td><p><a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a><br />
 《나와 도리카무 -DREAMS COME TRUE 25th ANNIVERSARY BEST COVERS-》</p></td>
 </tr>
 <tr class="odd">

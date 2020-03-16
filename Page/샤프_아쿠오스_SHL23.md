@@ -3,12 +3,12 @@
 
 ### 개요
 
-**아쿠오스 폰 SHL23**()는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 중순, [샤프전자의](https://ko.wikipedia.org/wiki/샤프_\(기업\) "wikilink")[일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 국내용으로 출시되는 스마트폰이다.
+**아쿠오스 폰 SHL23**()는 [2013년](../Page/2013년.md "wikilink") [11월](../Page/11월.md "wikilink") 중순, [샤프전자의](../Page/샤프_\(기업\).md "wikilink")[일본](../Page/일본.md "wikilink") 국내용으로 출시되는 스마트폰이다.
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") : 제품 발표
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") : 제품 출시
+  - [2013년](../Page/2013년.md "wikilink") [10월](../Page/10월.md "wikilink") : 제품 발표
+  - [2013년](../Page/2013년.md "wikilink") [11월](../Page/11월.md "wikilink") : 제품 출시
 
 ## 경쟁 기종
 

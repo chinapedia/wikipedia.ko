@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ZEB2](https://ko.wikipedia.org/wiki/ZEB2).
 
 
-**아연집게 E-box-결합 호메오박스2 (Zinc finger E-box-binding homeobox 2)**는 [단백질](https://ko.wikipedia.org/wiki/단백질 "wikilink")로 사람에서 *ZEB2*[유전자](https://ko.wikipedia.org/wiki/유전자 "wikilink")가 암호화 하고 있다.\[1\]
+**아연집게 E-box-결합 호메오박스2 (Zinc finger E-box-binding homeobox 2)**는 [단백질](../Page/단백질.md "wikilink")로 사람에서 *ZEB2*[유전자](../Page/유전자.md "wikilink")가 암호화 하고 있다.\[1\]
 
 ## 기능
 

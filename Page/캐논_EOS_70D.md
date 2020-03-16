@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EOS 70D](https://ko.wikipedia.org/wiki/_EOS_70D).
 
 
-**캐논 EOS 70D**는 [캐논이](https://ko.wikipedia.org/wiki/캐논_\(기업\) "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 8월 발표한 아마추어용 [디지털 일안 반사식 카메라이다](https://ko.wikipedia.org/wiki/디지털_일안_반사식_카메라 "wikilink"). 라인업중 위치는 APS-C 중급형이지만, APS-C 상급기인 7D보다 뛰어난 성능을 보여준다. 특히 70D는 [캐논](https://ko.wikipedia.org/wiki/캐논 "wikilink")의 새로운 AF 기술인 [듀얼픽셀 AF가](https://ko.wikipedia.org/wiki/듀얼픽셀_AF "wikilink") 처음 탑재된 기종\[1\]이며, 라이브뷰 상에서 스틸 이미지와 동영상 초점에서 현존하는 최고 수준의 성능\[2\]을 보여주고 있다.
+**캐논 EOS 70D**는 [캐논이](https://ko.wikipedia.org/wiki/캐논_\(기업\) "wikilink") [2013년](../Page/2013년.md "wikilink") 8월 발표한 아마추어용 [디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). 라인업중 위치는 APS-C 중급형이지만, APS-C 상급기인 7D보다 뛰어난 성능을 보여준다. 특히 70D는 [캐논](../Page/캐논.md "wikilink")의 새로운 AF 기술인 [듀얼픽셀 AF가](https://ko.wikipedia.org/wiki/듀얼픽셀_AF "wikilink") 처음 탑재된 기종\[1\]이며, 라이브뷰 상에서 스틸 이미지와 동영상 초점에서 현존하는 최고 수준의 성능\[2\]을 보여주고 있다.
 
 ## 60D에 비해 향상된 기능
 
@@ -25,10 +25,10 @@
 
 ## 같이 보기
 
-  - [캐논](https://ko.wikipedia.org/wiki/캐논 "wikilink")
-  - [캐논 EOS](https://ko.wikipedia.org/wiki/캐논_EOS "wikilink")
-  - [캐논 EF 마운트](https://ko.wikipedia.org/wiki/캐논_EF_마운트 "wikilink")
-  - [캐논 EF-S 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_마운트 "wikilink")
+  - [캐논](../Page/캐논.md "wikilink")
+  - [캐논 EOS](../Page/캐논_EOS.md "wikilink")
+  - [캐논 EF 마운트](../Page/캐논_EF_마운트.md "wikilink")
+  - [캐논 EF-S 마운트](../Page/캐논_EF-S_마운트.md "wikilink")
 
 ## 출처
 

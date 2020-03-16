@@ -9,7 +9,7 @@
 
 ## 참고 항목
 
-  - [커버댄스 페스티벌 K-POP 로드쇼 40120](https://ko.wikipedia.org/wiki/커버댄스_페스티벌_K-POP_로드쇼_40120 "wikilink")
+  - [커버댄스 페스티벌 K-POP 로드쇼 40120](../Page/커버댄스_페스티벌_K-POP_로드쇼_40120.md "wikilink")
 
 ## 각주
 

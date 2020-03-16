@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  II:   ](https://ko.wikipedia.org/wiki/__II:___).
 
 
-**스트리트 파이터 II: 더 월드 워리어**(, )는 [캡콤](https://ko.wikipedia.org/wiki/캡콤 "wikilink")이 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink")에 [아케이드로](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink") 출시한 [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 1987년에 발매했던 [스트리트 파이터의](../Page/스트리트_파이터_\(비디오_게임\).md "wikilink") 후속작으로, [CP 시스템](https://ko.wikipedia.org/wiki/CP_시스템 "wikilink") [아케이드 기판으로](https://ko.wikipedia.org/wiki/아케이드_기판 "wikilink") 제작됐다. 스트리트 파이터 II는 첫번째 게임이 지녔던 단순한 격투 시합에 6버튼 체계나 커맨드를 통한 특수 기술과 [콤보](https://ko.wikipedia.org/wiki/콤보 "wikilink")들을 소개했고, 각각 고유의 기술을 지닌 여러 명의 [플레이어 캐릭터들과](https://ko.wikipedia.org/wiki/플레이어_캐릭터 "wikilink") 2인 대전을 도입했다.
+**스트리트 파이터 II: 더 월드 워리어**(, )는 [캡콤](../Page/캡콤.md "wikilink")이 [1991년](../Page/1991년.md "wikilink")에 [아케이드로](../Page/아케이드_게임.md "wikilink") 출시한 [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 1987년에 발매했던 [스트리트 파이터의](../Page/스트리트_파이터_\(비디오_게임\).md "wikilink") 후속작으로, [CP 시스템](../Page/CP_시스템.md "wikilink") [아케이드 기판으로](../Page/아케이드_기판.md "wikilink") 제작됐다. 스트리트 파이터 II는 첫번째 게임이 지녔던 단순한 격투 시합에 6버튼 체계나 커맨드를 통한 특수 기술과 [콤보](https://ko.wikipedia.org/wiki/콤보 "wikilink")들을 소개했고, 각각 고유의 기술을 지닌 여러 명의 [플레이어 캐릭터들과](../Page/플레이어_캐릭터.md "wikilink") 2인 대전을 도입했다.
 
-스트리트 파이터 II는 아케이드 시장에서 큰 성공을 이뤘고, 이후 다른 게임 개발사들이 자기만의 격투 게임을 만들어 출시하는 계기가 됐다. 스트리트 파이터 II는 이후 [슈퍼 패미컴같은](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink") 콘솔이나 [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink"), [아미가](https://ko.wikipedia.org/wiki/아미가 "wikilink")와 같은 컴퓨터에 이식됐다.
+스트리트 파이터 II는 아케이드 시장에서 큰 성공을 이뤘고, 이후 다른 게임 개발사들이 자기만의 격투 게임을 만들어 출시하는 계기가 됐다. 스트리트 파이터 II는 이후 [슈퍼 패미컴같은](../Page/슈퍼_패미컴.md "wikilink") 콘솔이나 [MS-DOS](../Page/MS-DOS.md "wikilink"), [아미가](../Page/아미가.md "wikilink")와 같은 컴퓨터에 이식됐다.
 
 ## 게임 플레이
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Stennis3rd.jpg "wikilink") **존 코르넬리우스 스테니스**(, [1901년](https://ko.wikipedia.org/wiki/1901년 "wikilink") [8월 3일](https://ko.wikipedia.org/wiki/8월_3일 "wikilink") \~ [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [4월 23일](https://ko.wikipedia.org/wiki/4월_23일 "wikilink"))는 [미시시피주](https://ko.wikipedia.org/wiki/미시시피주 "wikilink") 출신 [미국의 상원 의원이었다](https://ko.wikipedia.org/wiki/미국_상원 "wikilink").
+[섬네일](https://ko.wikipedia.org/wiki/파일:Stennis3rd.jpg "wikilink") **존 코르넬리우스 스테니스**(, [1901년](../Page/1901년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink"))는 [미시시피주](../Page/미시시피주.md "wikilink") 출신 [미국의 상원 의원이었다](https://ko.wikipedia.org/wiki/미국_상원 "wikilink").
 
 ## 역대 선거 결과
 
@@ -20,70 +20,70 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1946년_미국_상원의원_선거" title="wikilink">1947년 재선거</a></p></td>
+<td><p><a href="../Page/1946년_미국_상원의원_선거.md" title="wikilink">1947년 재선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (미시시피 제1부)</a></p></td>
 <td><p>80대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/민주당_(미국)" title="wikilink">민주당</a></p></td>
+<td><p><a href="../Page/민주당_(미국).md" title="wikilink">민주당</a></p></td>
 <td><p>26.88%</p></td>
 <td><p>52,068표</p></td>
 <td><p>1위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1952년_미국_상원의원_선거" title="wikilink">1952년 선거</a></p></td>
+<td><p><a href="../Page/1952년_미국_상원의원_선거.md" title="wikilink">1952년 선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (미시시피 제1부)</a></p></td>
 <td><p>83대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/민주당_(미국)" title="wikilink">민주당</a></p></td>
+<td><p><a href="../Page/민주당_(미국).md" title="wikilink">민주당</a></p></td>
 <td><p>100.00%</p></td>
 <td><p>233,919표</p></td>
 <td><p>1위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1958년_미국_상원의원_선거" title="wikilink">1958년 선거</a></p></td>
+<td><p><a href="../Page/1958년_미국_상원의원_선거.md" title="wikilink">1958년 선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (미시시피 제1부)</a></p></td>
 <td><p>86대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/민주당_(미국)" title="wikilink">민주당</a></p></td>
+<td><p><a href="../Page/민주당_(미국).md" title="wikilink">민주당</a></p></td>
 <td><p>100.00%</p></td>
 <td><p>61,039표</p></td>
 <td><p>1위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1964년_미국_상원의원_선거" title="wikilink">1964년 선거</a></p></td>
+<td><p><a href="../Page/1964년_미국_상원의원_선거.md" title="wikilink">1964년 선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (미시시피 제1부)</a></p></td>
 <td><p>89대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/민주당_(미국)" title="wikilink">민주당</a></p></td>
+<td><p><a href="../Page/민주당_(미국).md" title="wikilink">민주당</a></p></td>
 <td><p>100.00%</p></td>
 <td><p>343,364표</p></td>
 <td><p>1위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1970년_미국_상원의원_선거" title="wikilink">1970년 선거</a></p></td>
+<td><p><a href="../Page/1970년_미국_상원의원_선거.md" title="wikilink">1970년 선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (미시시피 제1부)</a></p></td>
 <td><p>92대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/민주당_(미국)" title="wikilink">민주당</a></p></td>
+<td><p><a href="../Page/민주당_(미국).md" title="wikilink">민주당</a></p></td>
 <td><p>88.40%</p></td>
 <td><p>286,622표</p></td>
 <td><p>1위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1976년_미국_상원의원_선거" title="wikilink">1976년 선거</a></p></td>
+<td><p><a href="../Page/1976년_미국_상원의원_선거.md" title="wikilink">1976년 선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (미시시피 제1부)</a></p></td>
 <td><p>95대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/민주당_(미국)" title="wikilink">민주당</a></p></td>
+<td><p><a href="../Page/민주당_(미국).md" title="wikilink">민주당</a></p></td>
 <td><p>100.00%</p></td>
 <td><p>554,433표</p></td>
 <td><p>1위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Seal_of_the_United_States_House_of_Representatives.svg" title="wikilink">25px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1982년_미국_상원의원_선거" title="wikilink">1982년 선거</a></p></td>
+<td><p><a href="../Page/1982년_미국_상원의원_선거.md" title="wikilink">1982년 선거</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미국_상원" title="wikilink">상원의원 (미시시피 제1부)</a></p></td>
 <td><p>98대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/민주당_(미국)" title="wikilink">민주당</a></p></td>
+<td><p><a href="../Page/민주당_(미국).md" title="wikilink">민주당</a></p></td>
 <td><p>64.20%</p></td>
 <td><p>414,099표</p></td>
 <td><p>1위</p></td>

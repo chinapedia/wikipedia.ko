@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ USA 2](https://ko.wikipedia.org/wiki/_USA_2).
 
 
-《**데이토나 USA 2**》(Daytona USA 2)는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")의 자회사인 [세가 AM2가](https://ko.wikipedia.org/wiki/세가_AM2 "wikilink") 개발한 [데이토나 USA의](https://ko.wikipedia.org/wiki/데이토나_USA "wikilink") 후속작이며, [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 출시된 [오락실](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink") 전용 [레이싱 게임이다](https://ko.wikipedia.org/wiki/경주_게임 "wikilink"). 전작과 달리, MODEL3 기판을 사용하여 그래픽이 더욱 강화되었다.
+《**데이토나 USA 2**》(Daytona USA 2)는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")의 자회사인 [세가 AM2가](https://ko.wikipedia.org/wiki/세가_AM2 "wikilink") 개발한 [데이토나 USA의](../Page/데이토나_USA.md "wikilink") 후속작이며, [1998년](../Page/1998년.md "wikilink")에 출시된 [오락실](../Page/아케이드_게임.md "wikilink") 전용 [레이싱 게임이다](https://ko.wikipedia.org/wiki/경주_게임 "wikilink"). 전작과 달리, MODEL3 기판을 사용하여 그래픽이 더욱 강화되었다.
 
 ## 버전
 
@@ -28,7 +28,7 @@
 
 참고 : [플레이어](https://ko.wikipedia.org/wiki/플레이어 "wikilink")는 40대 차량 중 가장 마지막 위치에 [롤링 스타트로](https://ko.wikipedia.org/wiki/롤링_스타트 "wikilink") 진행한다.
 
-이 코스는 배틀 온 더 엣지의 경우, 숲을 테마로 하고 둥근 유리 지붕이 설치된 실내 자동차 경기장으로 등장한다. 150,000명의 구경꾼들이 방문하여 꽤나 큰 인기를 끌고 자연을 모티브로 하였으며, 가다 보면 [폭포](https://ko.wikipedia.org/wiki/폭포 "wikilink")도 볼 수 있다. 한편 파워 에디션의 경우, 둥근 유리 지붕이 없고 [나스카](https://ko.wikipedia.org/wiki/나스카 "wikilink") 경기장과 유사한 실외 자동차 경기장으로 등장한다. 2가지 버전 모두 광고판이 설치되어 있다.
+이 코스는 배틀 온 더 엣지의 경우, 숲을 테마로 하고 둥근 유리 지붕이 설치된 실내 자동차 경기장으로 등장한다. 150,000명의 구경꾼들이 방문하여 꽤나 큰 인기를 끌고 자연을 모티브로 하였으며, 가다 보면 [폭포](../Page/폭포.md "wikilink")도 볼 수 있다. 한편 파워 에디션의 경우, 둥근 유리 지붕이 없고 [나스카](https://ko.wikipedia.org/wiki/나스카 "wikilink") 경기장과 유사한 실외 자동차 경기장으로 등장한다. 2가지 버전 모두 광고판이 설치되어 있다.
 
 ### 중급 - 조이폴리스 2020 어뮤즈먼트 파크(Joypolis 2020 Amusement Park)
 
@@ -42,7 +42,7 @@
 
 참고 : 배틀 온 더 엣지의 경우 마지막 턴에 [게임워크스](https://ko.wikipedia.org/wiki/게임워크스 "wikilink") 광고판이 나왔지만, 파워 에디션의 경우에는 어떤 이유에서인지 이 광고판이 철거되었다.
 
-이 코스는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 놀이공원명인 [조이폴리스](https://ko.wikipedia.org/wiki/조이폴리스 "wikilink")를 따서 놀이공원을 테마로 한다. 따라서 경주를 하다 보면 바이킹, 회전형 로켓 기구, 성, 유령의 집, 그리고 얼음산을 모형으로 설치된 [롤러코스터](https://ko.wikipedia.org/wiki/롤러코스터 "wikilink")를 볼 수 있다. 이 게임의 코스중에서 유일하게 변경되지 않은 코스이기도 하다.
+이 코스는 [일본](../Page/일본.md "wikilink")의 놀이공원명인 [조이폴리스](https://ko.wikipedia.org/wiki/조이폴리스 "wikilink")를 따서 놀이공원을 테마로 한다. 따라서 경주를 하다 보면 바이킹, 회전형 로켓 기구, 성, 유령의 집, 그리고 얼음산을 모형으로 설치된 [롤러코스터](https://ko.wikipedia.org/wiki/롤러코스터 "wikilink")를 볼 수 있다. 이 게임의 코스중에서 유일하게 변경되지 않은 코스이기도 하다.
 
 ### 상급 - 버추어 시티/뉴 조크 시티(Virtua City/New Joke City)
 
@@ -54,7 +54,7 @@
   - 턴수: 30
   - 난이도: 상급(Expert)
 
-이 코스는 [도시](https://ko.wikipedia.org/wiki/도시 "wikilink")에서 열리는 자동차 경주 대회이며, 대도시를 지나치다 보면 터널도 있다.
+이 코스는 [도시](../Page/도시.md "wikilink")에서 열리는 자동차 경주 대회이며, 대도시를 지나치다 보면 터널도 있다.
 
 ### 챌린지 코스
 
@@ -99,13 +99,13 @@
 ### 호넷 "클래식" 하이-클래스 레이싱(Hornet "Classic" High-Class Racing)
 
   - 이 차를 타는 선수: 톰 브라운
-  - 난이도: 특별함, [데이토나 USA에서](https://ko.wikipedia.org/wiki/데이토나_USA "wikilink") 등장한 차를 원하는 사람들께 권장한다.
+  - 난이도: 특별함, [데이토나 USA에서](../Page/데이토나_USA.md "wikilink") 등장한 차를 원하는 사람들께 권장한다.
   - 최고 속도: 197mph(자동), 203mph(수동)
 
-전작인 [데이토나 USA에](https://ko.wikipedia.org/wiki/데이토나_USA "wikilink") 등장했었던 그 호넷dl 맞지만, 그때와는 미묘하게 감각이 다르다.
+전작인 [데이토나 USA에](../Page/데이토나_USA.md "wikilink") 등장했었던 그 호넷dl 맞지만, 그때와는 미묘하게 감각이 다르다.
 
 ## 같이 보기
 
-  - [데이토나 USA](https://ko.wikipedia.org/wiki/데이토나_USA "wikilink")
+  - [데이토나 USA](../Page/데이토나_USA.md "wikilink")
 
 [분류:1998년 비디오 게임](https://ko.wikipedia.org/wiki/분류:1998년_비디오_게임 "wikilink") [분류:경주 게임](https://ko.wikipedia.org/wiki/분류:경주_게임 "wikilink") [분류:세가의 게임](https://ko.wikipedia.org/wiki/분류:세가의_게임 "wikilink") [분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink")

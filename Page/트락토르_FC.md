@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**트락토르 SC** ()는 [아자르바이잔에샤르키 주](https://ko.wikipedia.org/wiki/아자르바이잔에샤르키_주 "wikilink") [타브리즈](https://ko.wikipedia.org/wiki/타브리즈 "wikilink")를 연고로 하는 [이란](https://ko.wikipedia.org/wiki/이란 "wikilink")의 축구 클럽이다. 이 팀은 [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink")에 창단되었으며, 현재는 [이란 프로리그에서](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 참가하고 있다.
+**트락토르 SC** ()는 [아자르바이잔에샤르키 주](https://ko.wikipedia.org/wiki/아자르바이잔에샤르키_주 "wikilink") [타브리즈](../Page/타브리즈.md "wikilink")를 연고로 하는 [이란](../Page/이란.md "wikilink")의 축구 클럽이다. 이 팀은 [1970년](../Page/1970년.md "wikilink")에 창단되었으며, 현재는 [이란 프로리그에서](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 참가하고 있다.
 
 ## 역사
 
-1970년, 타브리즈에서 설립된 이란 트랙터 제조 주식회사가 스폰서를 맡으면서 창설되었다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 이후부터는 [이슬람 혁명 방위대가](https://ko.wikipedia.org/wiki/이슬람_혁명_방위대 "wikilink") 메인 스폰서를 맡고 있으며 가르졸 하사네 자바난 케이르 주식회사(Gharzol Hasane Javanan Kheir Co.)가 전체 자금의 약 30%를 출자하고 있다.
+1970년, 타브리즈에서 설립된 이란 트랙터 제조 주식회사가 스폰서를 맡으면서 창설되었다. [2011년](../Page/2011년.md "wikilink") 이후부터는 [이슬람 혁명 방위대가](https://ko.wikipedia.org/wiki/이슬람_혁명_방위대 "wikilink") 메인 스폰서를 맡고 있으며 가르졸 하사네 자바난 케이르 주식회사(Gharzol Hasane Javanan Kheir Co.)가 전체 자금의 약 30%를 출자하고 있다.
 
-이란 프로 리그가 창설되기 이전에 존재했던 이란의 1부 축구 리그인 아자데간 리그에 설립 초기부터 참가했다. 2001-02 시즌에서 2부 리그로 강등되었으며 2009-10 시즌에서 다시 1부 리그로 승격될 때까지 8년 동안 2부 리그에 참가했다. 1990년대에 뛰어난 축구 선수를 배출했다. 2011-12 시즌에서 2위를 기록하면서 [AFC 챔피언스리그 2013](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2013 "wikilink") 출전권을 획득했다. 이 기록은 클럽 역사상 최초로 있었던 [AFC 챔피언스리그](https://ko.wikipedia.org/wiki/AFC_챔피언스리그 "wikilink") 출전 기록이다.
+이란 프로 리그가 창설되기 이전에 존재했던 이란의 1부 축구 리그인 아자데간 리그에 설립 초기부터 참가했다. 2001-02 시즌에서 2부 리그로 강등되었으며 2009-10 시즌에서 다시 1부 리그로 승격될 때까지 8년 동안 2부 리그에 참가했다. 1990년대에 뛰어난 축구 선수를 배출했다. 2011-12 시즌에서 2위를 기록하면서 [AFC 챔피언스리그 2013](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2013 "wikilink") 출전권을 획득했다. 이 기록은 클럽 역사상 최초로 있었던 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 출전 기록이다.
 
 ## 성적
 

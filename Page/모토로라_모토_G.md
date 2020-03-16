@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [  G](https://ko.wikipedia.org/wiki/__G).
 
 
-**모토로라 모토 G** (Motorola Moto G)는 [모토로라 모빌리티에서](https://ko.wikipedia.org/wiki/모토로라_모빌리티 "wikilink") 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")으로, [모토로라 모토 X의](../Page/모토로라_모토_X.md "wikilink") 보급형 기종이다.\[1\]
+**모토로라 모토 G** (Motorola Moto G)는 [모토로라 모빌리티에서](../Page/모토로라_모빌리티.md "wikilink") 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [모토로라 모토 X의](../Page/모토로라_모토_X.md "wikilink") 보급형 기종이다.\[1\]
 
-2013년 11월 13일 출시하였으며,\[2\] 출고가는 8 GB가 179 [$](https://ko.wikipedia.org/wiki/미국_달러 "wikilink"), 16 GB가 199 [$이다](https://ko.wikipedia.org/wiki/미국_달러 "wikilink").
+2013년 11월 13일 출시하였으며,\[2\] 출고가는 8 GB가 179 [$](../Page/미국_달러.md "wikilink"), 16 GB가 199 [$이다](../Page/미국_달러.md "wikilink").
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") : 제품 출시\[3\]
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 14일](https://ko.wikipedia.org/wiki/1월_14일 "wikilink") : **'모토 G 구글 에디션**' 제품 출시\[4\]
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") : [마이크로 SD와](https://ko.wikipedia.org/wiki/마이크로_SD "wikilink") LTE를 지원하는 **'모토 G LTE**' 제품 출시
+  - [2013년](../Page/2013년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink") : 제품 출시\[3\]
+  - [2014년](../Page/2014년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") : **'모토 G 구글 에디션**' 제품 출시\[4\]
+  - [2014년](../Page/2014년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") : [마이크로 SD와](https://ko.wikipedia.org/wiki/마이크로_SD "wikilink") LTE를 지원하는 **'모토 G LTE**' 제품 출시
 
 ## 디자인
 
@@ -59,13 +59,13 @@
 
 ## 경쟁 기종
 
-  - [노키아 루미아 510](https://ko.wikipedia.org/wiki/노키아_루미아_510 "wikilink")
+  - [노키아 루미아 510](../Page/노키아_루미아_510.md "wikilink")
   - [소니 엑스페리아 M](https://ko.wikipedia.org/wiki/소니_엑스페리아_M "wikilink")
   - [삼성 갤럭시 그랜드 2](../Page/삼성_갤럭시_그랜드_2.md "wikilink")
 
 ## 같이 보기
 
-  - [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")
+  - [구글](../Page/구글.md "wikilink")
   - [모토로라 모토 X](../Page/모토로라_모토_X.md "wikilink")
 
 ## 각주

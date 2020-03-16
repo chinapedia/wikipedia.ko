@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [My Oh My](https://ko.wikipedia.org/wiki/My_Oh_My).
 
 
-〈**My Oh My**〉는 대한민국의 음악 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 노래이다. 소녀시대의 세 번째 정규 음반 《[LOVE & PEACE](../Page/LOVE_&_PEACE_\(소녀시대의_음반\).md "wikilink")》에 수록되어있다.
+〈**My Oh My**〉는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 노래이다. 소녀시대의 세 번째 정규 음반 《[LOVE & PEACE](../Page/LOVE_&_PEACE_\(소녀시대의_음반\).md "wikilink")》에 수록되어있다.
 
 ## 배경
 

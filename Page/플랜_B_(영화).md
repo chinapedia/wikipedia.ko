@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ B \(\)](https://ko.wikipedia.org/wiki/_B_\(\)).
 
 
-**플랜 B**(The Back-up Plan)는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 로맨틱 코미디 영화이다.
+**플랜 B**(The Back-up Plan)는 [2010년](../Page/2010년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 로맨틱 코미디 영화이다.
 
 ## 줄거리
 
@@ -9,7 +9,7 @@
 
 ### 주연
 
-  - [제니퍼 로페즈](https://ko.wikipedia.org/wiki/제니퍼_로페즈 "wikilink")
+  - [제니퍼 로페즈](../Page/제니퍼_로페즈.md "wikilink")
   - [알렉스 오로린](https://ko.wikipedia.org/wiki/알렉스_오로린 "wikilink")
 
 ### 조연

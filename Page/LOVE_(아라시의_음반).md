@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOVE \( \)](https://ko.wikipedia.org/wiki/LOVE_\(_\)).
 
 
-《**LOVE**》(러브)는, [아라시](https://ko.wikipedia.org/wiki/아라시 "wikilink")의 12번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**LOVE**》(러브)는, [아라시](../Page/아라시.md "wikilink")의 12번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -13,7 +13,7 @@
 
 1.  **** / <small>**사랑을 노래하자**</small>
       -
-        작사: SQUAREF, mfmsiQ, John World / Rap 작사: [사쿠라이 쇼](https://ko.wikipedia.org/wiki/사쿠라이_쇼 "wikilink") / 작곡: Benny Jansson / 편곡: [사사키 히로후미](https://ko.wikipedia.org/wiki/사사키_히로후미 "wikilink")
+        작사: SQUAREF, mfmsiQ, John World / Rap 작사: [사쿠라이 쇼](../Page/사쿠라이_쇼.md "wikilink") / 작곡: Benny Jansson / 편곡: [사사키 히로후미](https://ko.wikipedia.org/wiki/사사키_히로후미 "wikilink")
 2.  **** / <small>**안녕 후에**</small>
       -
         작사: R.P.P. / 작곡: MiNE, Atsushi Shimada, Fredrilk Samsson / 편곡: 요시오카 타쿠
@@ -23,7 +23,7 @@
 4.  **Hit the floor**
       -
         작사: alleztune / 작곡: 카와구치 신, BERT, ROLF / 편곡: 이시즈카 토모키
-        [오노 사토시의](https://ko.wikipedia.org/wiki/오노_사토시 "wikilink") 솔로곡.
+        [오노 사토시의](../Page/오노_사토시.md "wikilink") 솔로곡.
 5.  **P･A･R･A･D･O･X**
       -
         작사: AKIRA, H\&Co., SQUAREF, s-Tnk / Rap 작사: 사쿠라이 쇼 / 작곡: James Bird, Olly Goodman, Michael Duke, Emma Rohan / 편곡: A.K.Janeway, 요시오카 타쿠, James Bird, Olly Goodman, Michael Duke, Emma Rohan
@@ -36,7 +36,7 @@
         작사: HYDRANT / 작곡: Takuya Harada, Christofer Erixon, Joakim Björnberg / 편곡: 사사키 히로후미
 8.  **20825** / <small>**20825일째의 곡**</small>
       -
-        작사·작곡: [니노미야 카즈나리](https://ko.wikipedia.org/wiki/니노미야_카즈나리 "wikilink") / 편곡: ha-j, 니노미야 카즈나리
+        작사·작곡: [니노미야 카즈나리](../Page/니노미야_카즈나리.md "wikilink") / 편곡: ha-j, 니노미야 카즈나리
         니노미야 카즈나리의 솔로곡.
 9.  **Rock Tonight**
       -
@@ -50,11 +50,11 @@
 12. **** / <small>**밤하늘에의 편지**</small>
       -
         작사: 아베 유야 / 작곡: 니혼진 / 편곡: BIGSHOOTER BOYS
-        [아이바 마사키의](https://ko.wikipedia.org/wiki/아이바_마사키 "wikilink") 솔로곡.
+        [아이바 마사키의](../Page/아이바_마사키.md "wikilink") 솔로곡.
 13. **Dance in the dark**
       -
         작사: HYDRANT / 작곡: Takuya Harada, SkyLine, Christofer Erixon / 편곡: Pieni tonttu
-        [마츠모토 준의](https://ko.wikipedia.org/wiki/마츠모토_준 "wikilink") 솔로곡.
+        [마츠모토 준의](../Page/마츠모토_준.md "wikilink") 솔로곡.
 14. **Starlight kiss**
       -
         작사: AKIRA, s-Tnk / Rap 작사: 사쿠라이 쇼 / 작곡: Fredrik “Figge” Bostrom, 카와구치 신 / 편곡: 카와구치 신

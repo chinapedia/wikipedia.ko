@@ -1,6 +1,6 @@
 > This article is converted from Wikipedia: [We Are Young](https://ko.wikipedia.org/wiki/We_Are_Young).
 
 
-"**We Are Young**"은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 의 밴드 [펀의](https://ko.wikipedia.org/wiki/펀_\(밴드\) "wikilink") 노래이다. 앨범 [Some Nights에](https://ko.wikipedia.org/wiki/Some_Nights "wikilink") 수록되어 있으며, [빌보드 핫 100차트에서](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 6주동안 1위를 했던 곡이다. 피쳐링에는 [재널 모네가](https://ko.wikipedia.org/wiki/재널_모네 "wikilink") 참여했다.
+"**We Are Young**"은 [미국](../Page/미국.md "wikilink") 의 밴드 [펀의](https://ko.wikipedia.org/wiki/펀_\(밴드\) "wikilink") 노래이다. 앨범 [Some Nights에](https://ko.wikipedia.org/wiki/Some_Nights "wikilink") 수록되어 있으며, [빌보드 핫 100차트에서](../Page/빌보드_핫_100.md "wikilink") 6주동안 1위를 했던 곡이다. 피쳐링에는 [재널 모네가](https://ko.wikipedia.org/wiki/재널_모네 "wikilink") 참여했다.
 
 [분류:펀의 노래](https://ko.wikipedia.org/wiki/분류:펀의_노래 "wikilink") [분류:재널 모네의 노래](https://ko.wikipedia.org/wiki/분류:재널_모네의_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:약을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:약을_소재로_한_노래 "wikilink") [분류:2012년 싱글](https://ko.wikipedia.org/wiki/분류:2012년_싱글 "wikilink") [분류:그래미상 올해의 노래상 수상곡](https://ko.wikipedia.org/wiki/분류:그래미상_올해의_노래상_수상곡 "wikilink")

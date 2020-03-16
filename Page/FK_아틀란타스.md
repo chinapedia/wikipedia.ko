@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
 
 
-**FK 아틀란타스**()는 [클라이페다](https://ko.wikipedia.org/wiki/클라이페다 "wikilink")를 연고로 하는 [리투아니아](https://ko.wikipedia.org/wiki/리투아니아 "wikilink")의 축구 클럽이다. 현재는 [A 리가에](https://ko.wikipedia.org/wiki/A_리가 "wikilink") 참가하고 있다.
+**FK 아틀란타스**()는 [클라이페다](../Page/클라이페다.md "wikilink")를 연고로 하는 [리투아니아](../Page/리투아니아.md "wikilink")의 축구 클럽이다. 현재는 [A 리가에](../Page/A_리가.md "wikilink") 참가하고 있다.
 
-1962년 **그라니타스**(Granitas)라는 이름으로 창단되었으며 1993년에는 팀 이름을 **PSK 아라스**(PSK Aras)로 변경했다. 1996년 축구 클럽 FK 시리유스 클라이페다(FK Sirijus Klaipėda)를 합병하면서 팀 이름을 지금과 같은 이름으로 변경하여 오늘에 이른다. "아틀란타스"(Atlantas)는 [리투아니아어](https://ko.wikipedia.org/wiki/리투아니아어 "wikilink")로 "[대서양](https://ko.wikipedia.org/wiki/대서양 "wikilink")"을 뜻한다.
+1962년 **그라니타스**(Granitas)라는 이름으로 창단되었으며 1993년에는 팀 이름을 **PSK 아라스**(PSK Aras)로 변경했다. 1996년 축구 클럽 FK 시리유스 클라이페다(FK Sirijus Klaipėda)를 합병하면서 팀 이름을 지금과 같은 이름으로 변경하여 오늘에 이른다. "아틀란타스"(Atlantas)는 [리투아니아어](../Page/리투아니아어.md "wikilink")로 "[대서양](../Page/대서양.md "wikilink")"을 뜻한다.
 
 ## 성적
 

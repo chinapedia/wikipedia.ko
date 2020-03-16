@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Eagles Greatest Hits, Vol. 2](https://ko.wikipedia.org/wiki/Eagles_Greatest_Hits,_Vol._2).
 
 
-***Eagles Greatest Hits, Vol. 2***는 미국의 록 밴드 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")의 두번째 [베스트 앨범이며](https://ko.wikipedia.org/wiki/베스트_앨범 "wikilink"), 이글스가 해체된 후인 1982년 발매되었다. "[Hotel California](https://ko.wikipedia.org/wiki/Hotel_California "wikilink")"를 포함한 [Their Greatest Hits (1971-1975)에](https://ko.wikipedia.org/wiki/Their_Greatest_Hits_\(1971-1975\) "wikilink") 수록되지 않은 베스트 음악들을 수록하였다. 빌보트 차트 52위까지 올라갔다.
+***Eagles Greatest Hits, Vol. 2***는 미국의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 두번째 [베스트 앨범이며](https://ko.wikipedia.org/wiki/베스트_앨범 "wikilink"), 이글스가 해체된 후인 1982년 발매되었다. "[Hotel California](https://ko.wikipedia.org/wiki/Hotel_California "wikilink")"를 포함한 [Their Greatest Hits (1971-1975)에](https://ko.wikipedia.org/wiki/Their_Greatest_Hits_\(1971-1975\) "wikilink") 수록되지 않은 베스트 음악들을 수록하였다. 빌보트 차트 52위까지 올라갔다.
 
 ## 트랙 리스트
 

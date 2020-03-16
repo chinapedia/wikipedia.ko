@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ZTE  Z5](https://ko.wikipedia.org/wiki/ZTE__Z5).
 
 
-**ZTE 누비아 Z5**()는 [ZTE](https://ko.wikipedia.org/wiki/ZTE "wikilink")에서 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 출시한 하이엔드 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**ZTE 누비아 Z5**()는 [ZTE](../Page/ZTE.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink")에 출시한 하이엔드 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 미출시 폰으로 구매대행으로 사는방법 밖에 없다.\[1\]
+[대한민국](../Page/대한민국.md "wikilink")에서는 미출시 폰으로 구매대행으로 사는방법 밖에 없다.\[1\]
 
 ## 경쟁 기종
 

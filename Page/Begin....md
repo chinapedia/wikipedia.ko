@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Begin...](https://ko.wikipedia.org/wiki/Begin...).
 
 
-《**Begin...**》는 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 가수 [왕심릉](https://ko.wikipedia.org/wiki/왕심릉 "wikilink")의 첫 번째 정규 앨범이다.
+《**Begin...**》는 [중화민국](../Page/중화민국.md "wikilink")의 가수 [왕심릉](https://ko.wikipedia.org/wiki/왕심릉 "wikilink")의 첫 번째 정규 앨범이다.
 
 ## 수록곡
 

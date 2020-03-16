@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VISTA \(\)](https://ko.wikipedia.org/wiki/VISTA_\(\)).
 
 
-《**VISTA**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [피에스타의](https://ko.wikipedia.org/wiki/피에스타_\(음악_그룹\) "wikilink") 첫 번째 싱글 앨범이자 데뷔 앨범이다. 타이틀 곡은 〈**Vista**〉이며, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 8일에](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") [로엔 엔터테인먼트에](https://ko.wikipedia.org/wiki/카카오엠 "wikilink") 의해 발매되었다.
+《**VISTA**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [피에스타의](../Page/피에스타_\(음악_그룹\).md "wikilink") 첫 번째 싱글 앨범이자 데뷔 앨범이다. 타이틀 곡은 〈**Vista**〉이며, [2012년](../Page/2012년.md "wikilink") [10월 8일에](../Page/10월_8일.md "wikilink") [로엔 엔터테인먼트에](../Page/카카오엠.md "wikilink") 의해 발매되었다.
 
 ## 트랙 리스트
 

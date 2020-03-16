@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Illmatic](https://ko.wikipedia.org/wiki/Illmatic).
 
 
-***Illmatic***은 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 발매한 힙합 가수 [나스](https://ko.wikipedia.org/wiki/나스 "wikilink")의 앨범이다. 이 앨범은 세계적인 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 명반으로 손꼽히는 앨범이기도 하다. [DJ 프리미어](https://ko.wikipedia.org/wiki/DJ_프리미어 "wikilink"), [큐팁](https://ko.wikipedia.org/wiki/큐팁 "wikilink") 등이 이 앨범 작업에 참여했으며, 수록곡으로는 'N.Y. State of Mind' 등이 있다.
+***Illmatic***은 [1994년](../Page/1994년.md "wikilink") 발매한 힙합 가수 [나스](../Page/나스.md "wikilink")의 앨범이다. 이 앨범은 세계적인 [힙합](../Page/힙합.md "wikilink") 명반으로 손꼽히는 앨범이기도 하다. [DJ 프리미어](../Page/DJ_프리미어.md "wikilink"), [큐팁](../Page/큐팁.md "wikilink") 등이 이 앨범 작업에 참여했으며, 수록곡으로는 'N.Y. State of Mind' 등이 있다.
 
 ## 수록곡
 

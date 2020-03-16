@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [AKB48 34th    ](https://ko.wikipedia.org/wiki/AKB48_34th____).
 
 
-**AKB48 34th 싱글 선발 가위바위보 대회**()는 [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 34th 싱글의 선발 멤버를 결정하는 이벤트이다.
+**AKB48 34th 싱글 선발 가위바위보 대회**()는 [AKB48](../Page/AKB48.md "wikilink")의 34th 싱글의 선발 멤버를 결정하는 이벤트이다.
 
-본선은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 18일에](https://ko.wikipedia.org/wiki/9월_18일 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [무도관](https://ko.wikipedia.org/wiki/무도관 "wikilink")에서 개최되었다. 이 대회에서 상위 16명까지의 멤버가 34th 싱글 〈[플라타너스 나무가 서 있는 길에서 「네 미소가 꿈에 나왔어」라고 말해버린다면 우리들의 관계는 어떻게 변하는 걸까, 나 나름대로 며칠이고 생각해본 후의 조금 부끄러운 결론처럼](https://ko.wikipedia.org/wiki/스즈카케노키노미치데「키미노호호에미오유메니미루」토잇테시맛타라보쿠타치노칸케이와도카왓테시마우노카,_보쿠나리니난니치카칸가에타우에데노야야키하즈카시이케쓰론노요나모노 "wikilink")〉(鈴懸の木の道で「君の微笑みを夢に見る」と言ってしまったら僕たちの関係はどう変わってしまうのか、僕なりに何日か考えた上でのやや気恥ずかしい結論のようなもの)의 선발 멤버가 된다.
+본선은 [2013년](../Page/2013년.md "wikilink") [9월 18일에](../Page/9월_18일.md "wikilink") [일본](../Page/일본.md "wikilink") [무도관](https://ko.wikipedia.org/wiki/무도관 "wikilink")에서 개최되었다. 이 대회에서 상위 16명까지의 멤버가 34th 싱글 〈[플라타너스 나무가 서 있는 길에서 「네 미소가 꿈에 나왔어」라고 말해버린다면 우리들의 관계는 어떻게 변하는 걸까, 나 나름대로 며칠이고 생각해본 후의 조금 부끄러운 결론처럼](https://ko.wikipedia.org/wiki/스즈카케노키노미치데「키미노호호에미오유메니미루」토잇테시맛타라보쿠타치노칸케이와도카왓테시마우노카,_보쿠나리니난니치카칸가에타우에데노야야키하즈카시이케쓰론노요나모노 "wikilink")〉(鈴懸の木の道で「君の微笑みを夢に見る」と言ってしまったら僕たちの関係はどう変わってしまうのか、僕なりに何日か考えた上でのやや気恥ずかしい結論のようなもの)의 선발 멤버가 된다.
 
 ## 개요
 
 대회의 실시는 2013년 6월 23일에 [쿄세라 돔 오사카에서](https://ko.wikipedia.org/wiki/교세라_돔_오사카 "wikilink") 개최된 〈[안녕 크롤](https://ko.wikipedia.org/wiki/사요나라크롤 "wikilink")〉의 전국 악수회 이벤트에서 발표되었다.
 
-본선의 사회는 [후쿠자와 아키라](https://ko.wikipedia.org/wiki/후쿠자와_아키라 "wikilink"), 어시스턴트는 [후지 TV의](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 아나운서 [마츠오 미도리가](https://ko.wikipedia.org/wiki/마쓰오_미도리 "wikilink") 맡았으며 입장 콜은 [레니 하트](https://ko.wikipedia.org/wiki/레니_하트 "wikilink"), 심판은 후지 TV의 아나운서 [이토 토시히로](https://ko.wikipedia.org/wiki/이토_도시히로 "wikilink"), 부 심판은 AKB48 각 그룹의 극장 지배인들(유아사 히로시·시바 토모야·카네코 츠요시·오자키 미츠루)이 각각 담당했다.
+본선의 사회는 [후쿠자와 아키라](https://ko.wikipedia.org/wiki/후쿠자와_아키라 "wikilink"), 어시스턴트는 [후지 TV의](../Page/후지_TV.md "wikilink") 아나운서 [마츠오 미도리가](https://ko.wikipedia.org/wiki/마쓰오_미도리 "wikilink") 맡았으며 입장 콜은 [레니 하트](https://ko.wikipedia.org/wiki/레니_하트 "wikilink"), 심판은 후지 TV의 아나운서 [이토 토시히로](https://ko.wikipedia.org/wiki/이토_도시히로 "wikilink"), 부 심판은 AKB48 각 그룹의 극장 지배인들(유아사 히로시·시바 토모야·카네코 츠요시·오자키 미츠루)이 각각 담당했다.
 
 ### 출전권
 
-전년 대회 후 팀 BII가 결성되어 [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")과 같이 3팀 체제가 된 [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")에는 예비전 승자 전형이 전회의 6개에서 SKE48과 동수인 8개로 증가했고 AKB48 연구생 예비전 승자 전형이 전회의 1개에서 4개로 증가했지만 AKB48 정규 멤버는 예비전이 면제된 멤버의 인원 변동에 따라 본선 진출 예정자는 이전의 86명에서 85명으로 감소했다. 이번 대회에도 SKE48 연구생·NMB48 연구생·[HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink") 연구생은 각 예비 대회에 출전하는 연구생 예비전을 이겨낼 필요가 생겼지만 전회에는 1개로 통일되었던 각 그룹의 예비전 승자 전형은 SKE48과 HKT48이 4개, NMB48은 3개로 확대되었다. 또한 [JKT48](https://ko.wikipedia.org/wiki/JKT48 "wikilink") 및 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 전임 멤버들은 참가하지 않았다\[1\]. AKB48 연구생 예비전 후에 승격된 팀4의 멤버는 정규 멤버의 전형이 부여되지 않고 연구생으로 예비전을 이겨낸 고지마 마코만 본선에 진출했다. 또한 각 자매 그룹의 본선 참가 인원 전형은 [토리고에 노리오](https://ko.wikipedia.org/wiki/도리고에_노리오 "wikilink")([도카이 대학](https://ko.wikipedia.org/wiki/도카이_대학 "wikilink") 이학부 정보수학학과 부교수)에 의해 산출되었다. 자세한 내용은 다음과 같다.
+전년 대회 후 팀 BII가 결성되어 [SKE48](../Page/SKE48.md "wikilink")과 같이 3팀 체제가 된 [NMB48](../Page/NMB48.md "wikilink")에는 예비전 승자 전형이 전회의 6개에서 SKE48과 동수인 8개로 증가했고 AKB48 연구생 예비전 승자 전형이 전회의 1개에서 4개로 증가했지만 AKB48 정규 멤버는 예비전이 면제된 멤버의 인원 변동에 따라 본선 진출 예정자는 이전의 86명에서 85명으로 감소했다. 이번 대회에도 SKE48 연구생·NMB48 연구생·[HKT48](../Page/HKT48.md "wikilink") 연구생은 각 예비 대회에 출전하는 연구생 예비전을 이겨낼 필요가 생겼지만 전회에는 1개로 통일되었던 각 그룹의 예비전 승자 전형은 SKE48과 HKT48이 4개, NMB48은 3개로 확대되었다. 또한 [JKT48](../Page/JKT48.md "wikilink") 및 [SNH48](../Page/SNH48.md "wikilink")의 전임 멤버들은 참가하지 않았다\[1\]. AKB48 연구생 예비전 후에 승격된 팀4의 멤버는 정규 멤버의 전형이 부여되지 않고 연구생으로 예비전을 이겨낸 고지마 마코만 본선에 진출했다. 또한 각 자매 그룹의 본선 참가 인원 전형은 [토리고에 노리오](https://ko.wikipedia.org/wiki/도리고에_노리오 "wikilink")([도카이 대학](../Page/도카이_대학.md "wikilink") 이학부 정보수학학과 부교수)에 의해 산출되었다. 자세한 내용은 다음과 같다.
 
   - AKB48
     정규 멤버 62명\[2\] - 예비전 없이 본선 진출
@@ -31,7 +31,7 @@
     HKT48 연구생 예비전 - 2013년 7월 10일 HKT48 극장에서 추첨을 실시해 그대로 개표, 우승자 4명이 HKT48 예비전 출전권 획득
     HKT48 예비전 - 같은 날 연구생 예비전 종료 후 정규 멤버 14명\[5\] 과 HKT48 연구생 예비전의 승자 4명 등 총 18명에 의한 추첨을 실시해 그대로 개표
 
-또한 출전권을 가지고 있던 멤버 중 AKB48의 [나카마타 시오리는](https://ko.wikipedia.org/wiki/나카마타_시오리 "wikilink") 이전에 졸업을 선언했기 때문에 출전을 사퇴했고 NMB48의 고바야시 리카코는 부상으로 인해 출전을 사퇴했다.
+또한 출전권을 가지고 있던 멤버 중 AKB48의 [나카마타 시오리는](../Page/나카마타_시오리.md "wikilink") 이전에 졸업을 선언했기 때문에 출전을 사퇴했고 NMB48의 고바야시 리카코는 부상으로 인해 출전을 사퇴했다.
 
 ## 규칙
 
@@ -91,7 +91,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/야구라_후코" title="wikilink">야구라 후코</a></p></td>
+<td><p><a href="../Page/야구라_후코.md" title="wikilink">야구라 후코</a></p></td>
 <td><p>팀M/팀A</p></td>
 <td></td>
 <td></td>
@@ -115,7 +115,7 @@
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요코야마_유이" title="wikilink">요코야마 유이</a></p></td>
+<td><p><a href="../Page/요코야마_유이.md" title="wikilink">요코야마 유이</a></p></td>
 <td><p>팀A</p></td>
 <td></td>
 <td></td>
@@ -140,7 +140,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_미유키" title="wikilink">와타나베 미유키</a></p></td>
+<td><p><a href="../Page/와타나베_미유키.md" title="wikilink">와타나베 미유키</a></p></td>
 <td><p>팀N/팀B</p></td>
 <td></td>
 <td></td>
@@ -174,7 +174,7 @@
 <td><p>12<br />
 13</p></td>
 <td><p>타케우치 마이<br />
-<strong><a href="https://ko.wikipedia.org/wiki/이시다_하루카" title="wikilink">이시다 하루카</a></strong></p></td>
+<strong><a href="../Page/이시다_하루카.md" title="wikilink">이시다 하루카</a></strong></p></td>
 <td><p>팀KII<br />
 팀B</p></td>
 <td><p>이시다 하루카<br />
@@ -220,7 +220,7 @@
 <td><p>17<br />
 18</p></td>
 <td><p><strong>오키타 아야카</strong><br />
-<a href="https://ko.wikipedia.org/wiki/다카조_아키" title="wikilink">타카죠 아키</a></p></td>
+<a href="../Page/다카조_아키.md" title="wikilink">타카죠 아키</a></p></td>
 <td><p>팀M<br />
 팀J/팀B</p></td>
 <td><p><strong>오키타 아야카</strong><br />
@@ -267,7 +267,7 @@
 <td><p>22<br />
 23</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미즈노_호노카" title="wikilink">미즈노 호노카</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/나가오_마리야" title="wikilink">나가오 마리야</a></strong></p></td>
+<strong><a href="../Page/나가오_마리야.md" title="wikilink">나가오 마리야</a></strong></p></td>
 <td><p>팀E<br />
 팀K</p></td>
 <td><p>나가오 마리야<br />
@@ -316,7 +316,7 @@
 <tr class="even">
 <td><p>28<br />
 29</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미야자키_미호" title="wikilink">미야자키 미호</a><br />
+<td><p><a href="../Page/미야자키_미호.md" title="wikilink">미야자키 미호</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/고바야시_마리나" title="wikilink">코바야시 마리나</a></strong></p></td>
 <td><p>팀K<br />
 팀A</p></td>
@@ -387,7 +387,7 @@ SNH/팀A</p></td>
 </tr>
 <tr class="even">
 <td><p>36</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_마유" title="wikilink">와타나베 마유</a></p></td>
+<td><p><a href="../Page/와타나베_마유.md" title="wikilink">와타나베 마유</a></p></td>
 <td><p>팀A</p></td>
 <td><p><strong>와타나베 마유</strong><br />
 카시와기 유키</p></td>
@@ -456,7 +456,7 @@ SNH/팀A</p></td>
 <td><p>E</p></td>
 <td><p>43<br />
 44</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/이치카와_미오리" title="wikilink">이치카와 미오리</a></strong><br />
+<td><p><strong><a href="../Page/이치카와_미오리.md" title="wikilink">이치카와 미오리</a></strong><br />
 <a href="https://ko.wikipedia.org/wiki/고다마_하루카" title="wikilink">코다마 하루카</a></p></td>
 <td><p>팀B/팀N<br />
 팀H/팀A</p></td>
@@ -495,7 +495,7 @@ SNH/팀A</p></td>
 </tr>
 <tr class="odd">
 <td><p>48</p></td>
-<td><p><del><a href="https://ko.wikipedia.org/wiki/나카마타_시오리" title="wikilink">나카마타 시오리</a></del>[6]</p></td>
+<td><p><del><a href="../Page/나카마타_시오리.md" title="wikilink">나카마타 시오리</a></del>[6]</p></td>
 <td><p><del>팀A</del></p></td>
 <td></td>
 <td></td>
@@ -507,7 +507,7 @@ SNH/팀A</p></td>
 <td><p>49<br />
 50</p></td>
 <td><p><strong><a href="../Page/이즈타_리나.md" title="wikilink">이즈타 리나</a></strong><br />
-<a href="https://ko.wikipedia.org/wiki/우치다_마유미" title="wikilink">우치다 마유미</a></p></td>
+<a href="../Page/우치다_마유미.md" title="wikilink">우치다 마유미</a></p></td>
 <td><p>팀A<br />
 팀K</p></td>
 <td><p>이즈타 리나<br />
@@ -541,7 +541,7 @@ SNH/팀A</p></td>
 </tr>
 <tr class="odd">
 <td><p>53</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지에_레이나" title="wikilink">후지에 레이나</a></p></td>
+<td><p><a href="../Page/후지에_레이나.md" title="wikilink">후지에 레이나</a></p></td>
 <td><p>팀K</p></td>
 <td></td>
 <td></td>
@@ -553,7 +553,7 @@ SNH/팀A</p></td>
 <td><p>F</p></td>
 <td><p>54<br />
 55</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/미야와키_사쿠라" title="wikilink">미야와키 사쿠라</a></strong><br />
+<td><p><strong><a href="../Page/미야와키_사쿠라.md" title="wikilink">미야와키 사쿠라</a></strong><br />
 <a href="https://ko.wikipedia.org/wiki/마쓰이_사키코" title="wikilink">마츠이 사키코</a></p></td>
 <td><p>팀H<br />
 팀A</p></td>
@@ -578,7 +578,7 @@ SNH/팀A</p></td>
 <tr class="even">
 <td><p>57<br />
 58</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사토_스미레" title="wikilink">사토 스미레</a><br />
+<td><p><a href="../Page/사토_스미레.md" title="wikilink">사토 스미레</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/오모리_미유" title="wikilink">오오모리 미유</a></strong></p></td>
 <td><p>팀A<br />
 팀B</p></td>
@@ -626,7 +626,7 @@ SNH/팀A</p></td>
 </tr>
 <tr class="even">
 <td><p>63</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시마자키_하루카" title="wikilink">시마자키 하루카</a></p></td>
+<td><p><a href="../Page/시마자키_하루카.md" title="wikilink">시마자키 하루카</a></p></td>
 <td><p>팀B</p></td>
 <td><p><strong>시마자키 하루카</strong><br />
 타나베 미쿠</p></td>
@@ -649,8 +649,8 @@ SNH/팀A</p></td>
 <td><p>G</p></td>
 <td><p>65<br />
 66</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이리야마_안나" title="wikilink">이리야마 안나</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/노나카_미사토" title="wikilink">노나카 미사토</a></strong></p></td>
+<td><p><a href="../Page/이리야마_안나.md" title="wikilink">이리야마 안나</a><br />
+<strong><a href="../Page/노나카_미사토.md" title="wikilink">노나카 미사토</a></strong></p></td>
 <td><p>팀A<br />
 팀B</p></td>
 <td><p>노나카 미사토<br />
@@ -688,7 +688,7 @@ SNH/팀A</p></td>
 </tr>
 <tr class="odd">
 <td><p>70</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이와사_미사키" title="wikilink">이와사 미사키</a></p></td>
+<td><p><a href="../Page/이와사_미사키.md" title="wikilink">이와사 미사키</a></p></td>
 <td><p>팀B</p></td>
 <td></td>
 <td></td>
@@ -699,7 +699,7 @@ SNH/팀A</p></td>
 <tr class="even">
 <td><p>71<br />
 72</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/야마우치_스즈란" title="wikilink">야마우치 스즈란</a></strong><br />
+<td><p><strong><a href="../Page/야마우치_스즈란.md" title="wikilink">야마우치 스즈란</a></strong><br />
 <del>코바야시 리카코</del>[7]</p></td>
 <td><p>팀B<br />
 <del>팀BII</del></p></td>
@@ -713,7 +713,7 @@ SNH/팀A</p></td>
 </tr>
 <tr class="odd">
 <td><p>73</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우메다_아야카" title="wikilink">우메다 아야카</a></p></td>
+<td><p><a href="../Page/우메다_아야카.md" title="wikilink">우메다 아야카</a></p></td>
 <td><p>팀B</p></td>
 <td></td>
 <td></td>
@@ -746,8 +746,8 @@ SNH/팀A</p></td>
 <td><p>H</p></td>
 <td><p>76<br />
 77</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오시마_유코" title="wikilink">오오시마 유코</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/시로마_미루" title="wikilink">시로마 미루</a></strong></p></td>
+<td><p><a href="../Page/오시마_유코.md" title="wikilink">오오시마 유코</a><br />
+<strong><a href="../Page/시로마_미루.md" title="wikilink">시로마 미루</a></strong></p></td>
 <td><p>팀K<br />
 팀N</p></td>
 <td><p>시로마 미루<br />
@@ -816,7 +816,7 @@ SNH/팀A</p></td>
 </tr>
 <tr class="even">
 <td><p>84</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_시호리" title="wikilink">스즈키 시호리</a></p></td>
+<td><p><a href="../Page/스즈키_시호리.md" title="wikilink">스즈키 시호리</a></p></td>
 <td><p>팀K</p></td>
 <td><p>스즈키 시호리<br />
 <strong>오오야 시즈카</strong></p></td>
@@ -852,7 +852,7 @@ SNH/팀A</p></td>
 
 선발 횟수는 메이저 데뷔 1번째 싱글인 〈[만나고 싶었어](https://ko.wikipedia.org/wiki/아이타캇타 "wikilink")〉에서 33번째 싱글인 〈[하트 일렉트릭 기타](https://ko.wikipedia.org/wiki/하트_에레키 "wikilink")〉까지 AKB48 작품에서 단일 횟수로 커플링 곡은 포함되지 않았다.
 
-3위 이하의 순위 결정전은 2013년 9월 23일에 [마쿠하리 멧세에서](https://ko.wikipedia.org/wiki/마쿠하리_멧세 "wikilink") 열린 〈[사랑하는 포춘 쿠키](https://ko.wikipedia.org/wiki/고이스루포춘쿠키 "wikilink")〉의 악수회에서 내막에서 열렸다.
+3위 이하의 순위 결정전은 2013년 9월 23일에 [마쿠하리 멧세에서](../Page/마쿠하리_멧세.md "wikilink") 열린 〈[사랑하는 포춘 쿠키](https://ko.wikipedia.org/wiki/고이스루포춘쿠키 "wikilink")〉의 악수회에서 내막에서 열렸다.
 
 <table>
 <thead>

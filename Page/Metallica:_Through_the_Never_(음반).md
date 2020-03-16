@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Metallica: Through the Never \(\)](https://ko.wikipedia.org/wiki/Metallica:_Through_the_Never_\(\)).
 
 
-《**메탈리카 스루 더 네버**(Metallica Through the Never)》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [헤비 메탈밴드](https://ko.wikipedia.org/wiki/헤비_메탈 "wikilink") [메탈리카](https://ko.wikipedia.org/wiki/메탈리카 "wikilink")의 [콘서트 영화](../Page/메탈리카_스루_더_네버.md "wikilink") [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")이다. 2012년 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")의 [에드먼턴](https://ko.wikipedia.org/wiki/에드먼턴 "wikilink")과 [밴쿠버](https://ko.wikipedia.org/wiki/밴쿠버 "wikilink")에서 열렸던 영화 촬영 겸 라이브의 실황을 수록했다.\[1\]\[2\]\[3\]
+《**메탈리카 스루 더 네버**(Metallica Through the Never)》는 [미국](../Page/미국.md "wikilink")의 [헤비 메탈밴드](../Page/헤비_메탈.md "wikilink") [메탈리카](../Page/메탈리카.md "wikilink")의 [콘서트 영화](../Page/메탈리카_스루_더_네버.md "wikilink") [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")이다. 2012년 [캐나다](../Page/캐나다.md "wikilink")의 [에드먼턴](../Page/에드먼턴.md "wikilink")과 [밴쿠버](https://ko.wikipedia.org/wiki/밴쿠버 "wikilink")에서 열렸던 영화 촬영 겸 라이브의 실황을 수록했다.\[1\]\[2\]\[3\]
 
-초도 한정판에는 [자석](https://ko.wikipedia.org/wiki/자석 "wikilink")이 붙어있는 판지 재질의 기타 피크 모형이 들어있고, 한국 라이센스판에는 음악평론가 고종석이 쓴 〈Metallica Through the Never〉라는 제목의 앨범 평론이 별지로 첨부되어있다.
+초도 한정판에는 [자석](../Page/자석.md "wikilink")이 붙어있는 판지 재질의 기타 피크 모형이 들어있고, 한국 라이센스판에는 음악평론가 고종석이 쓴 〈Metallica Through the Never〉라는 제목의 앨범 평론이 별지로 첨부되어있다.
 
 ## 수록곡
 
@@ -15,9 +15,9 @@
 
 <!-- end list -->
 
-  - [제임스 헷필드](https://ko.wikipedia.org/wiki/제임스_헷필드 "wikilink") - 보컬, 리듬 기타
+  - [제임스 헷필드](../Page/제임스_헷필드.md "wikilink") - 보컬, 리듬 기타
   - [커크 해밋](https://ko.wikipedia.org/wiki/커크_해밋 "wikilink") - 리드 기타
-  - [로버트 트루히요](https://ko.wikipedia.org/wiki/로버트_트루히요 "wikilink") - 베이스, 백킹보컬
+  - [로버트 트루히요](../Page/로버트_트루히요.md "wikilink") - 베이스, 백킹보컬
   - [라스 울리히](https://ko.wikipedia.org/wiki/라스_울리히 "wikilink") - 드럼
 
 <!-- end list -->

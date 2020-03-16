@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SNAI1](https://ko.wikipedia.org/wiki/SNAI1).
 
 
-**[아연집게](https://ko.wikipedia.org/wiki/아연집게 "wikilink") 단백질 SNAI1 (Zinc finger protein SNAI1)**은 [단백질](https://ko.wikipedia.org/wiki/단백질 "wikilink")로 SNAI1[유전자](https://ko.wikipedia.org/wiki/유전자 "wikilink")에 의해 암호화 되어있다.\[1\]\[2\]
+**[아연집게](https://ko.wikipedia.org/wiki/아연집게 "wikilink") 단백질 SNAI1 (Zinc finger protein SNAI1)**은 [단백질](../Page/단백질.md "wikilink")로 SNAI1[유전자](../Page/유전자.md "wikilink")에 의해 암호화 되어있다.\[1\]\[2\]
 
 ## 기능
 
@@ -9,7 +9,7 @@
 
 ## 임상적 중요성
 
-SNAI1 유전자는 E-[캐드헤린](../Page/캐드헤린.md "wikilink")의 CDH1[유전자](https://ko.wikipedia.org/wiki/유전자 "wikilink")의 발현을 하향 조절하여 EMT(epithelial-mesenchymal transition)을 유발하여 [유방암](https://ko.wikipedia.org/wiki/유방암 "wikilink")의 재발하게 함을 보여주었다.\[4\]
+SNAI1 유전자는 E-[캐드헤린](../Page/캐드헤린.md "wikilink")의 CDH1[유전자](../Page/유전자.md "wikilink")의 발현을 하향 조절하여 EMT(epithelial-mesenchymal transition)을 유발하여 [유방암](../Page/유방암.md "wikilink")의 재발하게 함을 보여주었다.\[4\]
 
 ## 상호작용
 

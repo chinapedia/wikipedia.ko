@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Face Down](https://ko.wikipedia.org/wiki/Face_Down).
 
 
-〈**Face Down**〉은, [아라시](https://ko.wikipedia.org/wiki/아라시 "wikilink")의 38번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Face Down**〉은, [아라시](../Page/아라시.md "wikilink")의 38번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -15,9 +15,9 @@
 
 1.  **Face Down**
       -
-        작사: eltvo / Rap 작사: [사쿠라이 쇼](https://ko.wikipedia.org/wiki/사쿠라이_쇼 "wikilink") / 작곡: Albi Albertsson, Royce.H, Vincent Stein, Kontantin Scherer / 편곡: metropolitan digital clique, Vincent Stein, Kontantin Scherer
+        작사: eltvo / Rap 작사: [사쿠라이 쇼](../Page/사쿠라이_쇼.md "wikilink") / 작곡: Albi Albertsson, Royce.H, Vincent Stein, Kontantin Scherer / 편곡: metropolitan digital clique, Vincent Stein, Kontantin Scherer
     <!-- end list -->
-      - [오노 사토시](https://ko.wikipedia.org/wiki/오노_사토시 "wikilink") 주연 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 드라마 《[열쇠가 잠긴 방](https://ko.wikipedia.org/wiki/방범_탐정·에노모토_시리즈#텔레비전_드라마 "wikilink")》 주제가
+      - [오노 사토시](../Page/오노_사토시.md "wikilink") 주연 [후지 TV](../Page/후지_TV.md "wikilink") 계열 드라마 《[열쇠가 잠긴 방](https://ko.wikipedia.org/wiki/방범_탐정·에노모토_시리즈#텔레비전_드라마 "wikilink")》 주제가
 2.  **目指した未来へ** / <small>**목표했던 미래로**</small>
       -
         작사: Mi-n, alleztune / 작곡: / 편곡: Sachiko Miyano, Tatsuro Mashiko

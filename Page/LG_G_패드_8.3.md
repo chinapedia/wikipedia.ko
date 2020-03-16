@@ -1,32 +1,32 @@
 > This article is converted from Wikipedia: [LG G  8.3](https://ko.wikipedia.org/wiki/LG_G__8.3).
 
 
-**LG G패드 8.3** (LG G pad 8.3)은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") 독일에서 열린 **[베를린 국제가전박람회](../Page/베를린_국제가전박람회.md "wikilink") 2013** (IFA 2013)에서 공개한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [태블릿으로](https://ko.wikipedia.org/wiki/태블릿_컴퓨터 "wikilink"), **[LG 옵티머스 패드](https://ko.wikipedia.org/wiki/LG_옵티머스_패드 "wikilink")**의 후속 기종이다.
+**LG G패드 8.3** (LG G pad 8.3)은 [LG전자](../Page/LG전자.md "wikilink")가 [2013년](../Page/2013년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") 독일에서 열린 **[베를린 국제가전박람회](../Page/베를린_국제가전박람회.md "wikilink") 2013** (IFA 2013)에서 공개한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [태블릿으로](../Page/태블릿_컴퓨터.md "wikilink"), **[LG 옵티머스 패드](../Page/LG_옵티머스_패드.md "wikilink")**의 후속 기종이다.
 
 ## 변종
 
-[LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink")의 홈보이 서비스용 집전화 단말기로 출시된 G패드 8.3 변종 모델은 홈보이 서비스에 맞게 펌웨어가 수정되었으며, [마크 레빈슨](https://ko.wikipedia.org/wiki/마크_레빈슨 "wikilink") 스피커 도킹 스테이션이 세트로 제공된다.\[1\]
+[LG유플러스](../Page/LG유플러스.md "wikilink")의 홈보이 서비스용 집전화 단말기로 출시된 G패드 8.3 변종 모델은 홈보이 서비스에 맞게 펌웨어가 수정되었으며, [마크 레빈슨](https://ko.wikipedia.org/wiki/마크_레빈슨 "wikilink") 스피커 도킹 스테이션이 세트로 제공된다.\[1\]
 
 ## 운영체제/소프트웨어
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") LG G 패드 8.3의 [4.4.2 킷캣이](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트 되었다.
+[2014년](../Page/2014년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") LG G 패드 8.3의 [4.4.2 킷캣이](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트 되었다.
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") LG G 패드 8.3의 [5.0.2 롤리팝이](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트 되었다.
+[2015년](../Page/2015년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") LG G 패드 8.3의 [5.0.2 롤리팝이](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트 되었다.
 
 ## 기타 업그레이드
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 5일경](https://ko.wikipedia.org/wiki/6월_5일 "wikilink") 노크코드 업데이트가 진행되었다.
+[2014년](../Page/2014년.md "wikilink") [6월 5일경](../Page/6월_5일.md "wikilink") 노크코드 업데이트가 진행되었다.
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 3일경](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") Google 서비스 패치와 WI-FI 성능 향상을 위한 업데이트가 진행되었다.
+[2015년](../Page/2015년.md "wikilink") [11월 3일경](../Page/11월_3일.md "wikilink") Google 서비스 패치와 WI-FI 성능 향상을 위한 업데이트가 진행되었다.
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") : [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 제품 발표\[2\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") : [국제 가전 박람회](https://ko.wikipedia.org/wiki/국제_가전_박람회 "wikilink") (IFA) 2013에서 제품 전시\[3\]
+  - [2013년](../Page/2013년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") : [독일](../Page/독일.md "wikilink")에서 제품 발표\[2\]
+  - [2013년](../Page/2013년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") : [국제 가전 박람회](https://ko.wikipedia.org/wiki/국제_가전_박람회 "wikilink") (IFA) 2013에서 제품 전시\[3\]
 
 ## 공개
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") 김기완 부사장 “It’s All Possible”..LG전자 IFA 2013서 전략태블릿 ‘LG G Pad 8.3’ 첫 공개\[4\]
+[2013년](../Page/2013년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") 김기완 부사장 “It’s All Possible”..LG전자 IFA 2013서 전략태블릿 ‘LG G Pad 8.3’ 첫 공개\[4\]
 
 ## 외형
 
@@ -91,13 +91,13 @@
 
 ## 경쟁 기종
 
-  - [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")의 [넥서스 7](https://ko.wikipedia.org/wiki/넥서스_7 "wikilink")
+  - [구글](../Page/구글.md "wikilink")의 [넥서스 7](../Page/넥서스_7.md "wikilink")
   - [아마존닷컴](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink")의 [킨들 파이어 HDX 8.9](https://ko.wikipedia.org/wiki/킨들_파이어_HDX_8.9 "wikilink")
   - [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [갤럭시노트10.1 2014에디션](https://ko.wikipedia.org/wiki/갤럭시노트10.1_2014에디션 "wikilink")
 
 ## 같이 보기
 
-  - [LG 옵티머스 패드](https://ko.wikipedia.org/wiki/LG_옵티머스_패드 "wikilink")
+  - [LG 옵티머스 패드](../Page/LG_옵티머스_패드.md "wikilink")
   - [LG G2](../Page/LG_G2.md "wikilink")
   - [구글 에디션](https://ko.wikipedia.org/wiki/구글_에디션 "wikilink")
 

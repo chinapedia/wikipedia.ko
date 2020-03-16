@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Lulu \(   \)](https://ko.wikipedia.org/wiki/Lulu_\(___\)).
 
 
-《**Lulu**》는 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [루 리드와](https://ko.wikipedia.org/wiki/루_리드 "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드 [메탈리카](https://ko.wikipedia.org/wiki/메탈리카 "wikilink")의 [콜라보레이션](https://ko.wikipedia.org/wiki/협업 "wikilink") 음반이다. 이 프로젝트의 컨셉은 루 리드와 메탈리카가 2009년 [로큰롤 명예의 전당 25주년 기념](https://ko.wikipedia.org/wiki/로큰롤_명예의_전당 "wikilink") 콘서트에서 같이 연주하게 될 당시에 시작되었다.
+《**Lulu**》는 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [루 리드와](../Page/루_리드.md "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드 [메탈리카](../Page/메탈리카.md "wikilink")의 [콜라보레이션](https://ko.wikipedia.org/wiki/협업 "wikilink") 음반이다. 이 프로젝트의 컨셉은 루 리드와 메탈리카가 2009년 [로큰롤 명예의 전당 25주년 기념](../Page/로큰롤_명예의_전당.md "wikilink") 콘서트에서 같이 연주하게 될 당시에 시작되었다.
 
-가사는 주로 루 리드가, 작곡은 루 리드와 메탈리카가 담당했고, 백 보컬은 [제임스 헷필드가](https://ko.wikipedia.org/wiki/제임스_헷필드 "wikilink") 맡았다. 한국 라이센스반에는 평론가 한경석이 쓴 평론이 별지로 첨부되어 있다.
+가사는 주로 루 리드가, 작곡은 루 리드와 메탈리카가 담당했고, 백 보컬은 [제임스 헷필드가](../Page/제임스_헷필드.md "wikilink") 맡았다. 한국 라이센스반에는 평론가 한경석이 쓴 평론이 별지로 첨부되어 있다.
 
 ## 배경
 
-독일의 [극작가](https://ko.wikipedia.org/wiki/극작가 "wikilink") [프랑크 베데킨트의](https://ko.wikipedia.org/wiki/프랑크_베데킨트 "wikilink") [오페라](https://ko.wikipedia.org/wiki/오페라 "wikilink") 작품 《[룰루](https://ko.wikipedia.org/wiki/룰루_\(오페라\) "wikilink")》를 배경으로 하고 있으며, ‘Lulu’는 극에 등장하는 여자 주인공 이름이다.
+독일의 [극작가](../Page/극작가.md "wikilink") [프랑크 베데킨트의](https://ko.wikipedia.org/wiki/프랑크_베데킨트 "wikilink") [오페라](../Page/오페라.md "wikilink") 작품 《[룰루](../Page/룰루_\(오페라\).md "wikilink")》를 배경으로 하고 있으며, ‘Lulu’는 극에 등장하는 여자 주인공 이름이다.
 
 ## 싱글 발매
 
@@ -31,10 +31,10 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/루_리드" title="wikilink">루 리드</a> - 기타, <a href="https://ko.wikipedia.org/wiki/:en:Continuum_(instrument)" title="wikilink">continuum</a>, 리드 보컬</li>
-<li><a href="https://ko.wikipedia.org/wiki/제임스_헷필드" title="wikilink">제임스 헷필드</a> - 백 보컬, 리듬 기타, 리드 기타(10)</li>
+<li><a href="../Page/루_리드.md" title="wikilink">루 리드</a> - 기타, <a href="https://ko.wikipedia.org/wiki/:en:Continuum_(instrument)" title="wikilink">continuum</a>, 리드 보컬</li>
+<li><a href="../Page/제임스_헷필드.md" title="wikilink">제임스 헷필드</a> - 백 보컬, 리듬 기타, 리드 기타(10)</li>
 <li><a href="https://ko.wikipedia.org/wiki/커크_해밋" title="wikilink">커크 해밋</a> - 리드 기타</li>
-<li><a href="https://ko.wikipedia.org/wiki/로버트_트루히요" title="wikilink">로버트 트루히요</a> - 베이스</li>
+<li><a href="../Page/로버트_트루히요.md" title="wikilink">로버트 트루히요</a> - 베이스</li>
 <li><a href="https://ko.wikipedia.org/wiki/라스_울리히" title="wikilink">라스 울리히</a> - 드럼</li>
 </ul>
 <dl>
@@ -43,11 +43,11 @@
 </dl>
 <ul>
 <li>Sarth Calhoun – 일렉트로닉스</li>
-<li>Jenny Scheinman – <a href="https://ko.wikipedia.org/wiki/바이올린" title="wikilink">바이올린</a>, <a href="https://ko.wikipedia.org/wiki/비올라" title="wikilink">비올라</a>, 현악 편곡</li>
+<li>Jenny Scheinman – <a href="../Page/바이올린.md" title="wikilink">바이올린</a>, <a href="../Page/비올라.md" title="wikilink">비올라</a>, 현악 편곡</li>
 <li>Gabe Witcher – 바이올린</li>
 <li>Megan Gould – 바이올린</li>
 <li>Ron Lawrence – 비올라</li>
-<li>Marika Hughes – <a href="https://ko.wikipedia.org/wiki/첼로" title="wikilink">첼로</a></li>
+<li>Marika Hughes – <a href="../Page/첼로.md" title="wikilink">첼로</a></li>
 <li>Ulrich Maiss – 첼로(7, 8)</li>
 <li>Rob Wasserman – <a href="https://ko.wikipedia.org/wiki/:en:Electric_upright_bass" title="wikilink">Electric upright bass</a>(10)</li>
 <li>Jessica Troy – 비올라(10)</li>

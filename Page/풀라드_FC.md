@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**풀라드 FC**()는 [후제스탄 주](https://ko.wikipedia.org/wiki/후제스탄_주 "wikilink") [아바즈](https://ko.wikipedia.org/wiki/아바즈 "wikilink")를 연고로 하는 [이란](https://ko.wikipedia.org/wiki/이란 "wikilink")의 축구 클럽이다. 이 팀은 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink")에 창단되었으며, 현재는 [이란 프로리그에](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 참가하고 있다.
+**풀라드 FC**()는 [후제스탄 주](https://ko.wikipedia.org/wiki/후제스탄_주 "wikilink") [아바즈](https://ko.wikipedia.org/wiki/아바즈 "wikilink")를 연고로 하는 [이란](../Page/이란.md "wikilink")의 축구 클럽이다. 이 팀은 [1986년](../Page/1986년.md "wikilink")에 창단되었으며, 현재는 [이란 프로리그에](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 참가하고 있다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Foold_Fans_In_Ahwaz.webm "wikilink")
 

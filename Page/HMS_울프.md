@@ -4,7 +4,7 @@
 [영국 해군에는](https://ko.wikipedia.org/wiki/영국_해군 "wikilink") [늑대](../Page/늑대.md "wikilink")라는 영어명의 **울프**(wolf 또는 woolf)를 딴 HMS wolf과 HMS woolf의 이름을 가진 함선이 16개 존재한다.
 
   - [HMS 울프 (1656년)는](https://ko.wikipedia.org/wiki/HMS_울프_\(1656년\) "wikilink") 이전에 스페인 함선 로보스였던 16개 포를 갖춘 화선이었다. 이 함선은 1656년 포획되어 1663년 팔렸다.
-  - [HMS 울프 (1690년)는](https://ko.wikipedia.org/wiki/HMS_울프_\(1690년\) "wikilink") 1690년 건조된 8개 포를 갖춘 [화선](https://ko.wikipedia.org/wiki/화선 "wikilink")으로 1692년 프랑스 함선 [프랑스 함선 트리옴팡 (1675년)을](https://ko.wikipedia.org/wiki/프랑스_함선_트리옴팡_\(1675년\) "wikilink") 파괴하는 데 이용하였다.
+  - [HMS 울프 (1690년)는](https://ko.wikipedia.org/wiki/HMS_울프_\(1690년\) "wikilink") 1690년 건조된 8개 포를 갖춘 [화선](../Page/화선.md "wikilink")으로 1692년 프랑스 함선 [프랑스 함선 트리옴팡 (1675년)을](https://ko.wikipedia.org/wiki/프랑스_함선_트리옴팡_\(1675년\) "wikilink") 파괴하는 데 이용하였다.
   - [HMS 울프 (1699년)는](https://ko.wikipedia.org/wiki/HMS_울프_\(1699년\) "wikilink") 1699년 건조된 2개 포를 갖춘 [슬루프형 포함이었다](https://ko.wikipedia.org/wiki/슬루프형_포함 "wikilink"). 이 함선은 1704년 프랑스가 포획했으나 1708년 다시 가져오게 되었고 1712년에 팔렸다.
   - [HMS 울프 (1731년)는](https://ko.wikipedia.org/wiki/HMS_울프_\(1731년\) "wikilink") 1731년 건조된 14개 포를 갖춘 슬루프였고 1741년 난파되었다.
   - [HMS 울프 (1742년)는](https://ko.wikipedia.org/wiki/HMS_울프_\(1742년\) "wikilink") 1742년 건조된 14개 포를 갖춘 슬루프였다. 이 함선은 1745년 프랑스가 포획했지만 1747년 다시 뺏어왔고 1748년 난파되었다.
