@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ VS.  \(\)](https://ko.wikipedia.org/wiki/_VS.__\(\)).
 
 
-**에이리언 VS. 프레데터**(Alien vs. Predator)는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 개봉한 미국의 영화이다.
+**에이리언 VS. 프레데터**(Alien vs. Predator)는 [2004년](../Page/2004년.md "wikilink") 개봉한 미국의 영화이다.
 
 ## 출연
 

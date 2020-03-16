@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SC  ](https://ko.wikipedia.org/wiki/SC__).
 
 
-**SC 포르투나 쾰른**(SC Fortuna Köln)는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [노르트라인베스트팔렌주](https://ko.wikipedia.org/wiki/노르트라인베스트팔렌주 "wikilink")의 [쾰른](https://ko.wikipedia.org/wiki/쾰른 "wikilink")을 연고지로 하는 축구 클럽이다. 2011-12 시즌에서 [레기오날리가](../Page/레기오날리가.md "wikilink")에 참가하고 있다.
+**SC 포르투나 쾰른**(SC Fortuna Köln)는 [독일](../Page/독일.md "wikilink") [노르트라인베스트팔렌주](../Page/노르트라인베스트팔렌주.md "wikilink")의 [쾰른](../Page/쾰른.md "wikilink")을 연고지로 하는 축구 클럽이다. 2011-12 시즌에서 [레기오날리가](../Page/레기오날리가.md "wikilink")에 참가하고 있다.
 
 ## 외부 링크
 

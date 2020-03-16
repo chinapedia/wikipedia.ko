@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Beginner](https://ko.wikipedia.org/wiki/Beginner).
 
 
-〈**Beginner**〉 (비기너)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [AKB48](../Page/AKB48.md "wikilink")의 18번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 27일에](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") 발매됐다. AKB48의 오리콘 기준 첫 밀리언 싱글
+〈**Beginner**〉 (비기너)는 [일본](../Page/일본.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [AKB48](../Page/AKB48.md "wikilink")의 18번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2010년](../Page/2010년.md "wikilink") [10월 27일에](../Page/10월_27일.md "wikilink") 발매됐다. AKB48의 오리콘 기준 첫 밀리언 싱글
 
 오리콘 주간 최고순위 1위 (등장회수 52주), 싱글트랙 다운로드 밀리언, 유튜브 조회수 약 2천 9백만, 빌보드재팬 핫100 연간 11위
 
@@ -9,7 +9,7 @@
 
 캐치프레이즈는 〈**이번 AKB는 꽤나 위험해\!**〉
 
-이전 싱글 〈[헤비로테이션](https://ko.wikipedia.org/wiki/헤비로테이션 "wikilink")〉에 이어 두 종류의 통상반과 극장반이 동시에 발매됐다. 통산반은 서로 다른 쟈켓과 수록곡으로 구성되어 있다. DVD에는 〈Beginner〉의 포메이션 영상이 통상반 A, B 각각에 세 버전씩 수록되어있다. 또 '언더걸스'가 부른 〈보쿠다케노Value〉가 [커플링곡](https://ko.wikipedia.org/wiki/커플링곡 "wikilink")으로 수록됐다.
+이전 싱글 〈[헤비로테이션](../Page/헤비로테이션.md "wikilink")〉에 이어 두 종류의 통상반과 극장반이 동시에 발매됐다. 통산반은 서로 다른 쟈켓과 수록곡으로 구성되어 있다. DVD에는 〈Beginner〉의 포메이션 영상이 통상반 A, B 각각에 세 버전씩 수록되어있다. 또 '언더걸스'가 부른 〈보쿠다케노Value〉가 [커플링곡](https://ko.wikipedia.org/wiki/커플링곡 "wikilink")으로 수록됐다.
 
 새로운 시도로 보컬팀과 댄스팀을 조합한 유닛 디바(DIVA)가 가 노래한 〈나케루바쇼〉가 통상반 B 및 초회한정생산반 B에 수록됐다. 또 발매에 앞서 아메바 피그에서 실시된 팀 피쿠 지명전에서 1위를 차지한 민트(Mint)가 통상반 A와 극장반에 수록된 〈기미니츠이테〉를 노래했다.
 
@@ -29,10 +29,10 @@
 
 굵은 글씨는 통상판과 한정판 쟈켓에 등장한 멤버
 
-  - 팀 A: [시노다 마리코](https://ko.wikipedia.org/wiki/시노다_마리코 "wikilink"), [코지마 하루나](https://ko.wikipedia.org/wiki/코지마_하루나 "wikilink"), [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink"), [사시하라 리노](https://ko.wikipedia.org/wiki/사시하라_리노 "wikilink"), [타카죠 아키](https://ko.wikipedia.org/wiki/타카죠_아키 "wikilink"), [마에다 아츠코](https://ko.wikipedia.org/wiki/마에다_아츠코 "wikilink")
-  - 팀 K: [오시마 유코](https://ko.wikipedia.org/wiki/오시마_유코 "wikilink"), [미야자와 사에](https://ko.wikipedia.org/wiki/미야자와_사에 "wikilink"), [이타노 토모미](https://ko.wikipedia.org/wiki/이타노_토모미 "wikilink"), [미네기시 미나미](https://ko.wikipedia.org/wiki/미네기시_미나미 "wikilink")
-  - 팀 B: [카시와기 유키](https://ko.wikipedia.org/wiki/카시와기_유키 "wikilink"), [키타하라 리에](https://ko.wikipedia.org/wiki/키타하라_리에 "wikilink"), [카사이 토모미](https://ko.wikipedia.org/wiki/카사이_토모미 "wikilink"), [와타나베 마유](https://ko.wikipedia.org/wiki/와타나베_마유 "wikilink")
-  - [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink") 팀 S: [마츠이 쥬리나](https://ko.wikipedia.org/wiki/마츠이_쥬리나 "wikilink"), [마츠이 레나](../Page/마츠이_레나.md "wikilink")
+  - 팀 A: [시노다 마리코](../Page/시노다_마리코.md "wikilink"), [코지마 하루나](../Page/코지마_하루나.md "wikilink"), [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink"), [사시하라 리노](../Page/사시하라_리노.md "wikilink"), [타카죠 아키](https://ko.wikipedia.org/wiki/타카죠_아키 "wikilink"), [마에다 아츠코](../Page/마에다_아츠코.md "wikilink")
+  - 팀 K: [오시마 유코](../Page/오시마_유코.md "wikilink"), [미야자와 사에](../Page/미야자와_사에.md "wikilink"), [이타노 토모미](../Page/이타노_토모미.md "wikilink"), [미네기시 미나미](../Page/미네기시_미나미.md "wikilink")
+  - 팀 B: [카시와기 유키](../Page/카시와기_유키.md "wikilink"), [키타하라 리에](../Page/키타하라_리에.md "wikilink"), [카사이 토모미](../Page/카사이_토모미.md "wikilink"), [와타나베 마유](../Page/와타나베_마유.md "wikilink")
+  - [SKE48](../Page/SKE48.md "wikilink") 팀 S: [마츠이 쥬리나](../Page/마츠이_쥬리나.md "wikilink"), [마츠이 레나](../Page/마츠이_레나.md "wikilink")
 
 ### 보쿠다케노 Value
 
@@ -40,8 +40,8 @@
 
 <!-- end list -->
 
-  - 팀 A: [이와사 미사키](https://ko.wikipedia.org/wiki/이와사_미사키 "wikilink"), [오타 아이카](https://ko.wikipedia.org/wiki/오타_아이카 "wikilink"), [카타야마 하루카](https://ko.wikipedia.org/wiki/카타야마_하루카 "wikilink"), 나카가와 하루카, 마에다 아미
-  - 팀 K: [키쿠치 아야카](https://ko.wikipedia.org/wiki/키쿠치_아야카 "wikilink"), [니토 모에노](https://ko.wikipedia.org/wiki/니토_모에노 "wikilink"), 후지에 레이나, 마츠이 사키코, 요네자와 루미
+  - 팀 A: [이와사 미사키](../Page/이와사_미사키.md "wikilink"), [오타 아이카](https://ko.wikipedia.org/wiki/오타_아이카 "wikilink"), [카타야마 하루카](../Page/카타야마_하루카.md "wikilink"), 나카가와 하루카, 마에다 아미
+  - 팀 K: [키쿠치 아야카](../Page/키쿠치_아야카.md "wikilink"), [니토 모에노](https://ko.wikipedia.org/wiki/니토_모에노 "wikilink"), 후지에 레이나, 마츠이 사키코, 요네자와 루미
   - 팀 B: 이시다 하루카, [오쿠 마나미](https://ko.wikipedia.org/wiki/오쿠_마나미 "wikilink"), 코모리 미카, [사토 스미레](../Page/사토_스미레.md "wikilink"), 히라지마 나츠미, 미야자키 미호
   - SKE48 팀S: 키자키 유리아, 야가미 쿠미
   - SKE48 팀KII: 이시다 안나, 타카야나기 아카네, 무카이다 마나츠
@@ -71,7 +71,7 @@
 
 | 차트                                                            | 최고순위 |
 | ------------------------------------------------------------- | ---- |
-| [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 재팬 핫 100  | 1    |
+| [빌보드](../Page/빌보드.md "wikilink") 재팬 핫 100                     | 1    |
 | 빌보드 재팬 핫 탑 에어플레이                                              | 2    |
 | 빌보드 재팬 핫 싱글 세일즈                                               | 1    |
 | 오리콘 일간 싱글 차트                                                  | 1    |
@@ -85,7 +85,7 @@
 
 ## SNH48 버전
 
-〈**개척자**〉()는 [AKB48](../Page/AKB48.md "wikilink")의 자매 그룹인 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 노래이다.
+〈**개척자**〉()는 [AKB48](../Page/AKB48.md "wikilink")의 자매 그룹인 [SNH48](../Page/SNH48.md "wikilink")의 노래이다.
 
 ## JKT48 버전
 
@@ -99,9 +99,9 @@ CD는 통상반과 Music Card의 두 가지 형태로 구성되어 있다.
 
 ## BNK48 버전
 
-〈**Beginner**〉는 [AKB48](../Page/AKB48.md "wikilink")의 자매 그룹인.[BNK48](../Page/BNK48.md "wikilink")의 여섯 번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 3월에 BNK48 Office에서 발매됐다. 로고에는 BEGIИИEЯ로 표기되어 있다.
+〈**Beginner**〉는 [AKB48](../Page/AKB48.md "wikilink")의 자매 그룹인.[BNK48](../Page/BNK48.md "wikilink")의 여섯 번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [2019년](../Page/2019년.md "wikilink") 3월에 BNK48 Office에서 발매됐다. 로고에는 BEGIИИEЯ로 표기되어 있다.
 
-가사는 전체가 [태국어](https://ko.wikipedia.org/wiki/태국어 "wikilink")로 번역된 것이다. 싱글 발매에 앞서서 실시된 “BNK48 6th 싱글 선발 총선거”에 따라서 센터 포지션은 1위인 츠쁘랑이 맡았다\[4\].
+가사는 전체가 [태국어](../Page/태국어.md "wikilink")로 번역된 것이다. 싱글 발매에 앞서서 실시된 “BNK48 6th 싱글 선발 총선거”에 따라서 센터 포지션은 1위인 츠쁘랑이 맡았다\[4\].
 
 수록곡 중에서는 BNK48 자체의 오리지널 곡인 〈LET U GO〉가 수록되며 영화 《[WHERE WE BELONG](https://ko.wikipedia.org/wiki/:th:Where_We_Belong_ที่ตรงนั้น_มีฉันหรือเปล่า "wikilink")》의 주제가로 사용된다.
 

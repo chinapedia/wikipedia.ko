@@ -26,8 +26,8 @@
 
 ## 차트 성적
 
-  - 오리콘 앨범 데일리 차트 1위를 기록하였다 ([2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")) ([7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink"))
-  - 오리콘 앨범 위클리 차트 4위를 기록하였다. ([2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")) ([7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink"))
+  - 오리콘 앨범 데일리 차트 1위를 기록하였다 ([2012년](../Page/2012년.md "wikilink")) ([7월 4일](../Page/7월_4일.md "wikilink"))
+  - 오리콘 앨범 위클리 차트 4위를 기록하였다. ([2012년](../Page/2012년.md "wikilink")) ([7월 11일](../Page/7월_11일.md "wikilink"))
 
 ## 타이업
 

@@ -9,14 +9,14 @@
 
 ## 배역
 
-  - [맷 데이먼](https://ko.wikipedia.org/wiki/맷_데이먼 "wikilink") - 케일 터커 역
+  - [맷 데이먼](../Page/맷_데이먼.md "wikilink") - 케일 터커 역
       - [알렉스 D. 린즈](https://ko.wikipedia.org/wiki/알렉스_D._린즈 "wikilink") - 어린 케일 터커
   - [빌 풀먼](https://ko.wikipedia.org/wiki/빌_풀먼 "wikilink") - 조지프 코소
-  - [존 레귀자모](https://ko.wikipedia.org/wiki/존_레귀자모 "wikilink") - 군
+  - [존 레귀자모](../Page/존_레귀자모.md "wikilink") - 군
   - [네이선 레인](../Page/네이선_레인.md "wikilink") - 프리드
   - [재닌 가로팔로](https://ko.wikipedia.org/wiki/재닌_가로팔로 "wikilink") - 스티스
-  - [드루 배리모어](https://ko.wikipedia.org/wiki/드루_배리모어 "wikilink") - 아키마 쿠니모토
-  - [론 펄먼](https://ko.wikipedia.org/wiki/론_펄먼 "wikilink") - 샘 터커
+  - [드루 배리모어](../Page/드루_배리모어.md "wikilink") - 아키마 쿠니모토
+  - [론 펄먼](../Page/론_펄먼.md "wikilink") - 샘 터커
   - [톤 로크](https://ko.wikipedia.org/wiki/톤_로크 "wikilink") - 텍
   - [짐 브루어](https://ko.wikipedia.org/wiki/짐_브루어 "wikilink") - 쿡
   - [크리스토퍼 스카라보시오](https://ko.wikipedia.org/wiki/크리스토퍼_스카라보시오 "wikilink") - 드레즈 퀸

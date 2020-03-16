@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ AJ ](https://ko.wikipedia.org/wiki/_AJ_).
 
 
-**노스아메리칸 AJ 새비지**(, 이후 **A-2 새비지**(A-2 Savage))는 미해군의 함상 폭격기이며 [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink")이 개발되기 이전까지 [A3D 스카이워리어](https://ko.wikipedia.org/wiki/더글러스_A3D_스카이워리어 "wikilink"), [A3J 비질란테와](https://ko.wikipedia.org/wiki/노스_아메리칸_A3J_비질란테 "wikilink") 함께 미해군의 전략 핵공격의 일익을 담당하였다.
+**노스아메리칸 AJ 새비지**(, 이후 **A-2 새비지**(A-2 Savage))는 미해군의 함상 폭격기이며 [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink")이 개발되기 이전까지 [A3D 스카이워리어](../Page/더글러스_A3D_스카이워리어.md "wikilink"), [A3J 비질란테와](https://ko.wikipedia.org/wiki/노스_아메리칸_A3J_비질란테 "wikilink") 함께 미해군의 전략 핵공격의 일익을 담당하였다.
 
 ## 제원(AJ-1)
 
@@ -12,7 +12,7 @@
 
   - [보잉 B-29 슈퍼포트리스](../Page/보잉_B-29_슈퍼포트리스.md "wikilink")
   - [컨베어 B-36 피스메이커](https://ko.wikipedia.org/wiki/B-36 "wikilink")
-  - [더글러스 A3D 스카이워리어](https://ko.wikipedia.org/wiki/더글러스_A3D_스카이워리어 "wikilink")
+  - [더글러스 A3D 스카이워리어](../Page/더글러스_A3D_스카이워리어.md "wikilink")
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Playlist: The Very Best of Backstreet Boys](https://ko.wikipedia.org/wiki/Playlist:_The_Very_Best_of_Backstreet_Boys).
 
 
-**Playlist: The Very Best of Backstreet Boys**는 [백스트리트 보이즈의](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink") 베스트 음반으로, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 발매되었다.
+**Playlist: The Very Best of Backstreet Boys**는 [백스트리트 보이즈의](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink") 베스트 음반으로, [2010년](../Page/2010년.md "wikilink") 발매되었다.
 
 ## 트랙리스트
 

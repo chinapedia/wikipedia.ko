@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SPP](https://ko.wikipedia.org/wiki/SPP).
 
 
-**SPP조선**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [조선](../Page/조선_\(산업\).md "wikilink") [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이다.
+**SPP조선**은 [대한민국](../Page/대한민국.md "wikilink")의 [조선](../Page/조선_\(산업\).md "wikilink") [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이다.
 
 ## 개요
 

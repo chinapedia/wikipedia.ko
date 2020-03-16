@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  R ](https://ko.wikipedia.org/wiki/__R_).
 
 
-**삼성 갤럭시 R 스타일**(Samsung Galaxy R style)은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 31일에](https://ko.wikipedia.org/wiki/5월_31일 "wikilink") 출시한 [갤럭시 S III의](https://ko.wikipedia.org/wiki/갤럭시_S_III "wikilink") 하이엔드 보급형 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")으로, [갤럭시 S III의](https://ko.wikipedia.org/wiki/갤럭시_S_III "wikilink") 기능 일부를 지원하며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서만 출시되었다.
+**삼성 갤럭시 R 스타일**(Samsung Galaxy R style)은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [5월 31일에](../Page/5월_31일.md "wikilink") 출시한 [갤럭시 S III의](https://ko.wikipedia.org/wiki/갤럭시_S_III "wikilink") 하이엔드 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [갤럭시 S III의](https://ko.wikipedia.org/wiki/갤럭시_S_III "wikilink") 기능 일부를 지원하며, [대한민국](../Page/대한민국.md "wikilink")에서만 출시되었다.
 
 ## 색상
 
@@ -11,9 +11,9 @@
 
 [exFAT](https://ko.wikipedia.org/wiki/exFAT "wikilink")포맷을 지원하여 용량이 4 [GB이상인](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 파일을 사용할 수 있으며, 외장메모리에도 이 기술이 적용되었다.
 
-## [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.1 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
+## [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.1.2 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[1\]
+[2013년](../Page/2013년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.2 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[1\]
 
 주요 개선점은 다음과 같다.
 
@@ -64,13 +64,13 @@
 
 ## 경쟁 기종
 
-  - [LG 옵티머스 LTE II](https://ko.wikipedia.org/wiki/LG_옵티머스_LTE_II "wikilink")
-  - [팬택 베가 레이서 2](https://ko.wikipedia.org/wiki/팬택_베가_레이서_2 "wikilink")
+  - [LG 옵티머스 LTE II](../Page/LG_옵티머스_LTE_II.md "wikilink")
+  - [팬택 베가 레이서 2](../Page/팬택_베가_레이서_2.md "wikilink")
 
 ## 같이 보기
 
   - [삼성 갤럭시 S III](../Page/삼성_갤럭시_S_III.md "wikilink")
-  - [삼성 갤럭시 R](https://ko.wikipedia.org/wiki/삼성_갤럭시_R "wikilink")
+  - [삼성 갤럭시 R](../Page/삼성_갤럭시_R.md "wikilink")
 
 ## 각주
 

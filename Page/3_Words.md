@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [3 Words](https://ko.wikipedia.org/wiki/3_Words).
 
 
-《**3 Words**》는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 팝 가수 [셰릴 콜이](https://ko.wikipedia.org/wiki/셰릴_콜 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 23일에](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") 발매한 첫 번째 정규 음반이다.
+《**3 Words**》는 [영국](../Page/영국.md "wikilink")의 팝 가수 [셰릴 콜이](https://ko.wikipedia.org/wiki/셰릴_콜 "wikilink") [2009년](../Page/2009년.md "wikilink") [10월 23일에](../Page/10월_23일.md "wikilink") 발매한 첫 번째 정규 음반이다.
 
 ## 수록곡
 

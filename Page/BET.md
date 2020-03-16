@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BET](https://ko.wikipedia.org/wiki/BET).
 
 
-**BET**()은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [워싱턴 D.C.에](https://ko.wikipedia.org/wiki/워싱턴_D.C. "wikilink") 본사를 둔 미국의 텔레비전 방송국이다. [아프리카계 미국인을](https://ko.wikipedia.org/wiki/아프리카계_미국인 "wikilink") 주요 중점으로 방송한다.\[1\]1980년에 개국하였으며, 1991년 [뉴욕 증권거래소에](https://ko.wikipedia.org/wiki/뉴욕_증권거래소 "wikilink") 상장했을 때 유일한 흑인 소유의 방송사였다. 2001년 바이어컴에 인수되었지만 바이어컴 휘하의 다른 채널들과는 다르게 [바이어컴 미디어 네트웍스와](https://ko.wikipedia.org/wiki/바이어컴_미디어_네트웍스 "wikilink") 분리되어 있다. 코미디, 음악, 시사등 다양한 프로그램을 방영한다. [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [Bell TV에서도](https://ko.wikipedia.org/wiki/Bell_TV "wikilink") 송출하고 있다.
+**BET**()은 [미국](../Page/미국.md "wikilink") [워싱턴 D.C.에](../Page/워싱턴_D.C..md "wikilink") 본사를 둔 미국의 텔레비전 방송국이다. [아프리카계 미국인을](../Page/아프리카계_미국인.md "wikilink") 주요 중점으로 방송한다.\[1\]1980년에 개국하였으며, 1991년 [뉴욕 증권거래소에](../Page/뉴욕_증권거래소.md "wikilink") 상장했을 때 유일한 흑인 소유의 방송사였다. 2001년 바이어컴에 인수되었지만 바이어컴 휘하의 다른 채널들과는 다르게 [바이어컴 미디어 네트웍스와](https://ko.wikipedia.org/wiki/바이어컴_미디어_네트웍스 "wikilink") 분리되어 있다. 코미디, 음악, 시사등 다양한 프로그램을 방영한다. [캐나다](../Page/캐나다.md "wikilink") [Bell TV에서도](https://ko.wikipedia.org/wiki/Bell_TV "wikilink") 송출하고 있다.
 
 ## 채널 번호
 

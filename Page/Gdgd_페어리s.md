@@ -5,7 +5,7 @@
 
 본 작품은 요정의 숲에 사는 세 요정 피쿠피쿠, 시루시루, 코로코로 셋이 만드는 gdgd(의 약어. 같은 것을 계속해 반복하거나, 사리에 맞지 않는 것을 끈질기게 말하는 모습을 말한다.)한 초현실적인 소동들을 즉흥적으로 그리는 단편 애니메이션으로, 'MikuMikuDance', 'Shade', '육각대왕' 등의 3DCG 소프트웨어를 사용해서 만들어져 있다.
 
-본편의 분량은 오프닝, 엔딩 등을 포함해 약 15분이며, '아후레호' 파트를 제외하고는 대체로 [프레스코](https://ko.wikipedia.org/wiki/프레스코 "wikilink")에 의한 녹음을 채용해서 만들어졌다.\[1\]\[2\] 공식 사이트상의 설명을 빌리면 '업계도 깜짝 놀랄 만한 저예산 제작 작품으로, 대략 1주일 가량의 기간 내에 거의 실시간으로 만들어졌다'고 한다.
+본편의 분량은 오프닝, 엔딩 등을 포함해 약 15분이며, '아후레호' 파트를 제외하고는 대체로 [프레스코](../Page/프레스코.md "wikilink")에 의한 녹음을 채용해서 만들어졌다.\[1\]\[2\] 공식 사이트상의 설명을 빌리면 '업계도 깜짝 놀랄 만한 저예산 제작 작품으로, 대략 1주일 가량의 기간 내에 거의 실시간으로 만들어졌다'고 한다.
 
 본 작품의 기획 프로듀서인 [이시다테 코타로는](https://ko.wikipedia.org/wiki/이시다테_코타로 "wikilink") '애니메이션 팬, 성우 팬은 물론 영상 분야의 서브컬처 팬, 새로운 것에 대한 호기심 강한 일반인 층까지 폭넓게 받아들일 수 있는 작품으로 만들어 달라는 기획 담당 [후쿠하라 카즈아키](https://ko.wikipedia.org/wiki/후쿠하라_카즈아키 "wikilink") 프로듀서의 주문이 있었다.'고 밝혔고,\[3\] 다양한 타입의 시청자들에게 '신선한 요소'를 제공하는 것과 콩트와 만담 등 일반적인 코미디 요소로 구성해서 자연스럽게 작품에 몰입할 수 있도록 구성했다고 해설했다.
 
@@ -83,7 +83,7 @@
 <!-- end list -->
 
   - 오프닝, 엔딩 곡의 CD는 별도 발매될 예정은 없고, Blu-ray 제1권 초회한정판 특전 CD에 오프닝 풀 버전이 수록되어 있다.
-  - 기획 담당인 [스가하라 코타는](https://ko.wikipedia.org/wiki/스가하라_코타 "wikilink") [이노우에 쥰이치에게](https://ko.wikipedia.org/wiki/이노우에_쥰이치 "wikilink") 작곡 주문을 할 때 이미지 소스로서 오프닝 주제가는 '침략 권유☆'(TVA [침략\! 오징어 소녀](../Page/침략!_오징어_소녀.md "wikilink") 1기 OP)와 '햐다인의 짜짜짝 ☆ 짝사랑-C'(TVA [일상](https://ko.wikipedia.org/wiki/일상 "wikilink") OP/ED) 2곡을, 엔딩 주제가는 'FIND THE WAY'(TVA [기동전사 건담 SEED](https://ko.wikipedia.org/wiki/기동전사_건담_SEED "wikilink") ED)를 지정했다고 한다.\[10\]
+  - 기획 담당인 [스가하라 코타는](https://ko.wikipedia.org/wiki/스가하라_코타 "wikilink") [이노우에 쥰이치에게](https://ko.wikipedia.org/wiki/이노우에_쥰이치 "wikilink") 작곡 주문을 할 때 이미지 소스로서 오프닝 주제가는 '침략 권유☆'(TVA [침략\! 오징어 소녀](../Page/침략!_오징어_소녀.md "wikilink") 1기 OP)와 '햐다인의 짜짜짝 ☆ 짝사랑-C'(TVA [일상](https://ko.wikipedia.org/wiki/일상 "wikilink") OP/ED) 2곡을, 엔딩 주제가는 'FIND THE WAY'(TVA [기동전사 건담 SEED](../Page/기동전사_건담_SEED.md "wikilink") ED)를 지정했다고 한다.\[10\]
 
 ## 각 화 제목
 
@@ -119,7 +119,7 @@
 ()</p></td>
 <td><p>마법 끝말잇기</p></td>
 <td><p>초 아니키</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/드래곤볼_Z" title="wikilink">드래곤볼 Z</a> 패러디<br />
+<td><p><a href="../Page/드래곤볼_Z.md" title="wikilink">드래곤볼 Z</a> 패러디<br />
 승부다 피쿠피쿠! 초긴박 시루 게임!<br />
 ()</p></td>
 <td><p>10월 12일</p></td>
@@ -130,7 +130,7 @@
 ()</p></td>
 <td><p>번지점프 운동회</p></td>
 <td><p>거대한 닭</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신세기_에반게리온" title="wikilink">신세기 에반게리온</a> 패러디<br />
+<td><p><a href="../Page/신세기_에반게리온.md" title="wikilink">신세기 에반게리온</a> 패러디<br />
 순간, 코로코로, 하나가 되어<br />
 ()</p></td>
 <td><p>10월 19일</p></td>
@@ -210,7 +210,7 @@
 ()</p></td>
 <td><p>이상적인 우리집</p></td>
 <td><p>7색맨</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/흑집사" title="wikilink">흑집사</a> 패러디<br />
+<td><p><a href="../Page/흑집사.md" title="wikilink">흑집사</a> 패러디<br />
 그 요정, 해후<br />
 ()</p></td>
 <td><p>12월 7일</p></td>
@@ -221,7 +221,7 @@
 ()</p></td>
 <td><p>몰래카메라</p></td>
 <td><p>입장시의 워킹</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/어떤_과학의_초전자포" title="wikilink">어떤 과학의 초전자포</a> 패러디<br />
+<td><p><a href="../Page/어떤_과학의_초전자포.md" title="wikilink">어떤 과학의 초전자포</a> 패러디<br />
 표적이 된 요정의 숲<br />
 ()</p></td>
 <td><p>12월 14일</p></td>
@@ -233,7 +233,7 @@
 <td><p>위기 해결 매뉴얼</p></td>
 <td><p>고릴라,<br />
 해변의 모치다 후사코</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/내_여동생이_이렇게_귀여울_리가_없어" title="wikilink">내 여동생이 이렇게 귀여울 리가 없어</a> 패러디<br />
+<td><p><a href="../Page/내_여동생이_이렇게_귀여울_리가_없어.md" title="wikilink">내 여동생이 이렇게 귀여울 리가 없어</a> 패러디<br />
 내 여동생이 이렇게 구다구다할 리가 없어<br />
 ()</p></td>
 <td><p>12월 21일</p></td>

@@ -1,20 +1,20 @@
 > This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
 
 
-**윌리엄 H. 메이시**(William H. Macy, [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
+**윌리엄 H. 메이시**(William H. Macy, [1950년](../Page/1950년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
 
 ## 출연 작품
 
 ### 영화
 
   - 시빌 액션
-  - [바비](https://ko.wikipedia.org/wiki/바비_\(2006년_영화\) "wikilink")
+  - [바비](../Page/바비_\(2006년_영화\).md "wikilink")
   - [파고](../Page/파고_\(영화\).md "wikilink")
   - [매그놀리아](../Page/매그놀리아_\(영화\).md "wikilink")
-  - [플레전트빌](https://ko.wikipedia.org/wiki/플레전트빌_\(영화\) "wikilink")
+  - [플레전트빌](../Page/플레전트빌_\(영화\).md "wikilink")
   - [의뢰인](../Page/의뢰인_\(1994년_영화\).md "wikilink")
   - [에어 포스 원](../Page/에어_포스_원_\(영화\).md "wikilink")
-  - [쥬라기 공원 3](https://ko.wikipedia.org/wiki/쥬라기_공원_3 "wikilink")
+  - [쥬라기 공원 3](../Page/쥬라기_공원_3.md "wikilink")
   - [링컨 차를 타는 변호사](../Page/링컨_차를_타는_변호사.md "wikilink")
   - [일급 살인](../Page/일급_살인.md "wikilink")
   - [러덜리스](../Page/러덜리스.md "wikilink")

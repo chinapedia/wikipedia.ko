@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Seventh Ave.](https://ko.wikipedia.org/wiki/Seventh_Ave.).
 
 
-| 이 앨범에 수록된 싱글                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink")   |
-| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 7일](https://ko.wikipedia.org/wiki/11월_7일 "wikilink") |
-| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink")   |
+| 이 앨범에 수록된 싱글                                                                |
+| --------------------------------------------------------------------------- |
+| [2007년](../Page/2007년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink")   |
+| [2007년](../Page/2007년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") |
+| [2008년](../Page/2008년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink")   |
 
-《**seventh ave**》(세븐스 에비뉴)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 7번 째 앨범이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 2일](https://ko.wikipedia.org/wiki/7월_2일 "wikilink") 발매되었다.
+《**seventh ave**》(세븐스 에비뉴)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 7번 째 앨범이다. [2008년](../Page/2008년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink") 발매되었다.
 
 ## 해설
 

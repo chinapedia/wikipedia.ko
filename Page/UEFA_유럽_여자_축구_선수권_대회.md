@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UEFA     ](https://ko.wikipedia.org/wiki/UEFA_____).
 
 
-**UEFA 유럽 여자 축구 선수권 대회**()는 [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")(UEFA)의 주관으로 개최되는 [여자 축구](https://ko.wikipedia.org/wiki/여자_축구 "wikilink") 대회로 유럽에서 규모가 가장 큰 국가 대항 성인 여자 축구 대회이다. 흔히 **여자 유로 ○○○○**(개최 연도)이라 불린다. [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")에 창설되었으며 남자 [UEFA 유럽 축구 선수권 대회가](https://ko.wikipedia.org/wiki/UEFA_유럽_축구_선수권_대회 "wikilink") 열린 해의 다음 해에 열린다.
+**UEFA 유럽 여자 축구 선수권 대회**()는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)의 주관으로 개최되는 [여자 축구](../Page/여자_축구.md "wikilink") 대회로 유럽에서 규모가 가장 큰 국가 대항 성인 여자 축구 대회이다. 흔히 **여자 유로 ○○○○**(개최 연도)이라 불린다. [1984년](../Page/1984년.md "wikilink")에 창설되었으며 남자 [UEFA 유럽 축구 선수권 대회가](https://ko.wikipedia.org/wiki/UEFA_유럽_축구_선수권_대회 "wikilink") 열린 해의 다음 해에 열린다.
 
 1984년 대회부터 1995년 대회까지는 4개국, 1997년 대회부터 2005년 대회까지는 8개국이 참가했고 2009년 대회부터 2013년 대회까지는 12개국이 참가했다. 2017년 대회부터 참가국이 16개국으로 확대되었다.
 
@@ -24,7 +24,7 @@
 <td><p><strong>3위</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1984년" title="wikilink">1984년</a><br />
+<td><p><a href="../Page/1984년.md" title="wikilink">1984년</a><br />
 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/홈_앤_어웨이" title="wikilink">홈 앤 어웨이</a> 방식으로 개최</p></td>
 <td><p><strong></strong></p></td>
@@ -33,28 +33,28 @@
 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 3)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1987년" title="wikilink">1987년</a><br />
+<td><p><a href="../Page/1987년.md" title="wikilink">1987년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 1</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1989년" title="wikilink">1989년</a><br />
+<td><p><a href="../Page/1989년.md" title="wikilink">1989년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 : 1</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1991년" title="wikilink">1991년</a><br />
+<td><p><a href="../Page/1991년.md" title="wikilink">1991년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 : 1</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1993년" title="wikilink">1993년</a><br />
+<td><p><a href="../Page/1993년.md" title="wikilink">1993년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -67,14 +67,14 @@
 <td><p>득점</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/1995년" title="wikilink">1995년</a><br />
+<td><p><a href="../Page/1995년.md" title="wikilink">1995년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 : 2</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/1997년" title="wikilink">1997년</a><br />
+<td><p><a href="../Page/1997년.md" title="wikilink">1997년</a><br />
 </p></td>
 <td><p>&amp;<br />
 </p></td>
@@ -82,42 +82,42 @@
 <td><p><strong>2 : 0</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2001년" title="wikilink">2001년</a><br />
+<td><p><a href="../Page/2001년.md" title="wikilink">2001년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong> (<a href="https://ko.wikipedia.org/wiki/골든골" title="wikilink">골든골</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a><br />
+<td><p><a href="../Page/2005년.md" title="wikilink">2005년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 : 1</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a><br />
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>6 : 2</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a><br />
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a><br />
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 : 2</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2021년" title="wikilink">2021년</a><br />
+<td><p><a href="../Page/2021년.md" title="wikilink">2021년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -141,7 +141,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/1984년_UEFA_유럽_여자_축구_선수권_대회.md" title="wikilink">1984년 UEFA 유럽 여자 축구 선수권 대회</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피아_순드하게" title="wikilink">피아 순드하게</a></p></td>
+<td><p><a href="../Page/피아_순드하게.md" title="wikilink">피아 순드하게</a></p></td>
 <td><p>3득점</p></td>
 </tr>
 <tr class="even">
@@ -185,12 +185,12 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/UEFA_여자_유로_2005.md" title="wikilink">UEFA 여자 유로 2005</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잉카_그링스" title="wikilink">잉카 그링스</a></p></td>
+<td><p><a href="../Page/잉카_그링스.md" title="wikilink">잉카 그링스</a></p></td>
 <td><p>4득점</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/UEFA_여자_유로_2009.md" title="wikilink">UEFA 여자 유로 2009</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잉카_그링스" title="wikilink">잉카 그링스</a></p></td>
+<td><p><a href="../Page/잉카_그링스.md" title="wikilink">잉카 그링스</a></p></td>
 <td><p>6득점</p></td>
 </tr>
 <tr class="odd">
@@ -218,7 +218,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/1984년_UEFA_유럽_여자_축구_선수권_대회.md" title="wikilink">1984년 UEFA 유럽 여자 축구 선수권 대회</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피아_순드하게" title="wikilink">피아 순드하게</a></p></td>
+<td><p><a href="../Page/피아_순드하게.md" title="wikilink">피아 순드하게</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1987년_UEFA_유럽_여자_축구_선수권_대회.md" title="wikilink">1987년 UEFA 유럽 여자 축구 선수권 대회</a></p></td>
@@ -230,7 +230,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/UEFA_여자_유로_1991.md" title="wikilink">UEFA 여자 유로 1991</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/질비아_나이트" title="wikilink">질비아 나이트</a></p></td>
+<td><p><a href="../Page/질비아_나이트.md" title="wikilink">질비아 나이트</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/UEFA_여자_유로_1993.md" title="wikilink">UEFA 여자 유로 1993</a></p></td>
@@ -246,7 +246,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/UEFA_여자_유로_2001.md" title="wikilink">UEFA 여자 유로 2001</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한나_융베리" title="wikilink">한나 융베리</a></p></td>
+<td><p><a href="../Page/한나_융베리.md" title="wikilink">한나 융베리</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/UEFA_여자_유로_2005.md" title="wikilink">UEFA 여자 유로 2005</a></p></td>
@@ -254,7 +254,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/UEFA_여자_유로_2009.md" title="wikilink">UEFA 여자 유로 2009</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잉카_그링스" title="wikilink">잉카 그링스</a></p></td>
+<td><p><a href="../Page/잉카_그링스.md" title="wikilink">잉카 그링스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_여자_유로_2013" title="wikilink">UEFA 여자 유로 2013</a></p></td>

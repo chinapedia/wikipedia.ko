@@ -6,7 +6,7 @@
 ## 같이 보기
 
   - [틀:한국방송공사의 라디오 프로그램](../Page/틀:한국방송공사의_라디오_프로그램.md "wikilink")
-  - [틀:문화방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/틀:문화방송의_라디오_프로그램 "wikilink")
+  - [틀:문화방송의 라디오 프로그램](../Page/틀:문화방송의_라디오_프로그램.md "wikilink")
   - [틀:KNN의 라디오 프로그램](https://ko.wikipedia.org/wiki/틀:KNN의_라디오_프로그램 "wikilink")
   - [틀:한국교육방송공사의 라디오 프로그램](../Page/틀:한국교육방송공사의_라디오_프로그램.md "wikilink")
 

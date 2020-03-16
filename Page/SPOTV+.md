@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SPOTV+](https://ko.wikipedia.org/wiki/SPOTV+).
 
 
-**SPOTV+**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [방송채널 사용사업자](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [에이클라 엔터테인먼트가](https://ko.wikipedia.org/wiki/에이클라_엔터테인먼트 "wikilink") 운영하는 [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 전문 [케이블TV](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 8일에](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") 개국하였다\[1\].
+**SPOTV+**는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [에이클라 엔터테인먼트가](https://ko.wikipedia.org/wiki/에이클라_엔터테인먼트 "wikilink") 운영하는 [스포츠](../Page/스포츠.md "wikilink") 전문 [케이블TV](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [2012년](../Page/2012년.md "wikilink") [6월 8일에](../Page/6월_8일.md "wikilink") 개국하였다\[1\].
 
-개국 초기에는 축구전문 채널을 표방, [한국프로축구연맹](https://ko.wikipedia.org/wiki/한국프로축구연맹 "wikilink")으로부터 제작비를 지원 받아 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")과 [K리그2](https://ko.wikipedia.org/wiki/K리그2 "wikilink") 등 국내 축구 리그를 제작 및 송출하며 해외 축구 리그도 송출, UFC 송출을 하였다. 하지만 시청률 부진으로 인해 광고수주에 어려움을 겪었으며 제작비용 지원 역시 인건비와 송출비로 인해 부족하다고 한다.\[2\]
+개국 초기에는 축구전문 채널을 표방, [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")으로부터 제작비를 지원 받아 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")과 [K리그2](../Page/K리그2.md "wikilink") 등 국내 축구 리그를 제작 및 송출하며 해외 축구 리그도 송출, UFC 송출을 하였다. 하지만 시청률 부진으로 인해 광고수주에 어려움을 겪었으며 제작비용 지원 역시 인건비와 송출비로 인해 부족하다고 한다.\[2\]
 
 2015년 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 5번째 중계 방송국으로 확정되면서 축구전문 채널에서 종합 스포츠 채널로 바뀌게 된다.\[3\]
 
@@ -29,16 +29,16 @@
 
 ## 소속 해설위원
 
-  - 축구 : [송영주](https://ko.wikipedia.org/wiki/송영주 "wikilink"), [고정운](https://ko.wikipedia.org/wiki/고정운 "wikilink"), [김태륭](../Page/김태륭.md "wikilink"), [김민구](https://ko.wikipedia.org/wiki/김민구_\(축구인\) "wikilink"), [심재희](https://ko.wikipedia.org/wiki/심재희_\(축구인\) "wikilink"), [윤화평](../Page/윤화평.md "wikilink"), [문성환](https://ko.wikipedia.org/wiki/문성환 "wikilink")
+  - 축구 : [송영주](https://ko.wikipedia.org/wiki/송영주 "wikilink"), [고정운](../Page/고정운.md "wikilink"), [김태륭](../Page/김태륭.md "wikilink"), [김민구](https://ko.wikipedia.org/wiki/김민구_\(축구인\) "wikilink"), [심재희](https://ko.wikipedia.org/wiki/심재희_\(축구인\) "wikilink"), [윤화평](../Page/윤화평.md "wikilink"), [문성환](https://ko.wikipedia.org/wiki/문성환 "wikilink")
   - 격투기 : [김대환](../Page/김대환_\(격투기_해설자\).md "wikilink"), [이동기](https://ko.wikipedia.org/wiki/이동기 "wikilink")
   - 농구 : [김유택](https://ko.wikipedia.org/wiki/김유택 "wikilink"), [조현일](https://ko.wikipedia.org/wiki/조현일 "wikilink"), [박세운](https://ko.wikipedia.org/wiki/박세운 "wikilink")
 
 ## 프로그램
 
-  - [K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink")
+  - [K리그](../Page/K리그.md "wikilink")
   - [DFB-포칼](../Page/DFB-포칼.md "wikilink")
   - [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink")
-  - [UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink")
+  - [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink")
   - [세리에 A](../Page/세리에_A.md "wikilink")
   - 위클리 사커
   - [UFC](https://ko.wikipedia.org/wiki/UFC "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ ETO FC](https://ko.wikipedia.org/wiki/_ETO_FC).
 
 
-**죄르 ETO FC**()는 [죄르](../Page/죄르.md "wikilink")를 연고로 하는 [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink")의 축구 클럽이다. 현재는 [넴제티 버이녹샤그 I에](../Page/넴제티_버이녹샤그_I.md "wikilink") 참가하고 있다. 넴제티 버이녹샤그 I에서 3차례 우승했고 [유러피언컵 1964-65에서](https://ko.wikipedia.org/wiki/유러피언컵_1964-65 "wikilink") 준결승전까지 진출한 경력이 있다. 팀이 사용하는 색은 초록과 하양이다.
+**죄르 ETO FC**()는 [죄르](../Page/죄르.md "wikilink")를 연고로 하는 [헝가리](../Page/헝가리.md "wikilink")의 축구 클럽이다. 현재는 [넴제티 버이녹샤그 I에](../Page/넴제티_버이녹샤그_I.md "wikilink") 참가하고 있다. 넴제티 버이녹샤그 I에서 3차례 우승했고 [유러피언컵 1964-65에서](https://ko.wikipedia.org/wiki/유러피언컵_1964-65 "wikilink") 준결승전까지 진출한 경력이 있다. 팀이 사용하는 색은 초록과 하양이다.
 
 ## 성적
 

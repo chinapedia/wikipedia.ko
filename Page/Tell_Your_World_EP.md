@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tell Your World EP](https://ko.wikipedia.org/wiki/Tell_Your_World_EP).
 
 
-**"Tell Your World EP"**는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") [TOY'S FACTORY에서](https://ko.wikipedia.org/wiki/TOY'S_FACTORY "wikilink") 발매된 [livetune](https://ko.wikipedia.org/wiki/livetune "wikilink")의 미니 앨범이다.
+**"Tell Your World EP"**는 [2012년](../Page/2012년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink") [TOY'S FACTORY에서](https://ko.wikipedia.org/wiki/TOY'S_FACTORY "wikilink") 발매된 [livetune](https://ko.wikipedia.org/wiki/livetune "wikilink")의 미니 앨범이다.
 
 ## 개요
 

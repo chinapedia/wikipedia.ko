@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ UK](https://ko.wikipedia.org/wiki/_UK).
 
 
-**스카이 UK**(Sky UK)는 [스카이에서](https://ko.wikipedia.org/wiki/스카이_\(기업\) "wikilink") 만든 디지털 위성 TV이다. [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 첫 서비스를 시작했으며, 당시에는 Sky Digital이라는 이름이었다.
+**스카이 UK**(Sky UK)는 [스카이에서](https://ko.wikipedia.org/wiki/스카이_\(기업\) "wikilink") 만든 디지털 위성 TV이다. [1998년](../Page/1998년.md "wikilink")에 첫 서비스를 시작했으며, 당시에는 Sky Digital이라는 이름이었다.
 
 ## 같이 보기
 

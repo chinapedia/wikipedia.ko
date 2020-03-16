@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NXC](https://ko.wikipedia.org/wiki/NXC).
 
 
-**NXC**는 [게임](https://ko.wikipedia.org/wiki/게임 "wikilink") 제작 • 배급 기업인 [넥슨](https://ko.wikipedia.org/wiki/넥슨 "wikilink")의 지주 회사이다.
+**NXC**는 [게임](../Page/게임.md "wikilink") 제작 • 배급 기업인 [넥슨](../Page/넥슨.md "wikilink")의 지주 회사이다.
 
 ## 개요
 

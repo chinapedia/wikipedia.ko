@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Backstreet\'s Back](https://ko.wikipedia.org/wiki/Backstreet\'s_Back).
 
 
-**Backstreet's Back**은 [백스트리트 보이즈의](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink") 음반으로, [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 발매되었다.
+**Backstreet's Back**은 [백스트리트 보이즈의](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink") 음반으로, [1997년](../Page/1997년.md "wikilink") 발매되었다.
 
 ## 트랙리스트
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [QR](https://ko.wikipedia.org/wiki/QR).
 
 
-**QR피디어**(QRpedia)는 [위키백과](https://ko.wikipedia.org/wiki/위키백과 "wikilink")의 문서를 [QR 코드를](https://ko.wikipedia.org/wiki/QR_코드 "wikilink") 활용하여 독자에게 제공하는 [모바일 웹](https://ko.wikipedia.org/wiki/모바일_웹 "wikilink") 시스템이다\[1\]\[2\]\[3\]. QR 코드는 [URL](https://ko.wikipedia.org/wiki/URL "wikilink")을 이용하여 간단히 만들 수 있으나, QR피디어는 여기에 다른 기능을 추가하였다. 사용자는 자신이 선택한 언어의 위키백과 문서를 읽을 수 있다.
+**QR피디어**(QRpedia)는 [위키백과](../Page/위키백과.md "wikilink")의 문서를 [QR 코드를](../Page/QR_코드.md "wikilink") 활용하여 독자에게 제공하는 [모바일 웹](https://ko.wikipedia.org/wiki/모바일_웹 "wikilink") 시스템이다\[1\]\[2\]\[3\]. QR 코드는 [URL](../Page/URL.md "wikilink")을 이용하여 간단히 만들 수 있으나, QR피디어는 여기에 다른 기능을 추가하였다. 사용자는 자신이 선택한 언어의 위키백과 문서를 읽을 수 있다.
 
-QR피디어는 [위키미디어 영국](https://ko.wikipedia.org/wiki/위키미디어_영국 "wikilink")(Wikimedia UK)의 로저 밤킨(Roger Bamkin)이 처음 구상하였으며, 테런스 이든(Terence Eden)이 프로그램을 작성, 2011년 4월에 공개되었다. 현재 QR피디어는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")과 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")의 [박물관](../Page/박물관.md "wikilink") 등에서 사용되고 있다. QR피디어의 프로그램 원시 코드는 [MIT 라이선스에](https://ko.wikipedia.org/wiki/MIT_라이선스 "wikilink") 의해 자유롭게 사용할 수 있다.
+QR피디어는 [위키미디어 영국](https://ko.wikipedia.org/wiki/위키미디어_영국 "wikilink")(Wikimedia UK)의 로저 밤킨(Roger Bamkin)이 처음 구상하였으며, 테런스 이든(Terence Eden)이 프로그램을 작성, 2011년 4월에 공개되었다. 현재 QR피디어는 [영국](../Page/영국.md "wikilink")과 [미국](../Page/미국.md "wikilink"), [스페인](../Page/스페인.md "wikilink")의 [박물관](../Page/박물관.md "wikilink") 등에서 사용되고 있다. QR피디어의 프로그램 원시 코드는 [MIT 라이선스에](https://ko.wikipedia.org/wiki/MIT_라이선스 "wikilink") 의해 자유롭게 사용할 수 있다.
 
 ## 원리
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Derby_Museum_visitor_uses_QR_Code.jpg "wikilink") 방문자가 [휴대 전화로](https://ko.wikipedia.org/wiki/휴대_전화 "wikilink") QP피디어의 QR 코드를 검색하고 있다.\]\]
+[thumb](https://ko.wikipedia.org/wiki/파일:Derby_Museum_visitor_uses_QR_Code.jpg "wikilink") 방문자가 [휴대 전화로](../Page/휴대_전화.md "wikilink") QP피디어의 QR 코드를 검색하고 있다.\]\]
 
-사용자가 [모바일 장치로](https://ko.wikipedia.org/wiki/모바일_장치 "wikilink") QR피디어의 QR 코드를 검색하면, 모바일 장치는 "qrwp.org"의 [도메인 이름에서](https://ko.wikipedia.org/wiki/도메인_이름 "wikilink") 위키백과 문서 제목이 포함된 [URL](https://ko.wikipedia.org/wiki/URL "wikilink")로 접속하게 된다. 이때 모바일 장치의 언어 설정도 함께 전송된다\[4\]
+사용자가 [모바일 장치로](https://ko.wikipedia.org/wiki/모바일_장치 "wikilink") QR피디어의 QR 코드를 검색하면, 모바일 장치는 "qrwp.org"의 [도메인 이름에서](https://ko.wikipedia.org/wiki/도메인_이름 "wikilink") 위키백과 문서 제목이 포함된 [URL](../Page/URL.md "wikilink")로 접속하게 된다. 이때 모바일 장치의 언어 설정도 함께 전송된다\[4\]
 
 QR피디어 서버는 위키백과의 API를 사용\[5\], 사용자가 원하는 언어의 위키백과 문서를 찾아, 모바일에서 보기 쉬운 형식으로 돌려준다\[6\]. 만약 해당하는 문서가 없다면, QR피디어는 사용자에게 다른 언어나 [구글 번역을](../Page/구글_번역.md "wikilink") 선택할 수 있도록 한다.
 

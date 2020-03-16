@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Help!](https://ko.wikipedia.org/wiki/Help!).
 
 
-《**Help\!**》는 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 다섯 번째 정규 음반이다. 이 때부터 [포크 록의](https://ko.wikipedia.org/wiki/포크_록 "wikilink") 선구자인 [밥 딜런을](https://ko.wikipedia.org/wiki/밥_딜런 "wikilink") 만나기 시작했으며, 그의 영향으로 세세하고 시적인 가사와 [마리화나](https://ko.wikipedia.org/wiki/마리화나 "wikilink")를 배우게 되었고, 이는 후의 비틀즈의 실험적인 음악의 배경이 되었다. 비틀즈가 초기 음악에서 중기로 한 발을 내딛는 단계로 평가받는 음반이다.
+《**Help\!**》는 [비틀즈](../Page/비틀즈.md "wikilink")의 다섯 번째 정규 음반이다. 이 때부터 [포크 록의](https://ko.wikipedia.org/wiki/포크_록 "wikilink") 선구자인 [밥 딜런을](../Page/밥_딜런.md "wikilink") 만나기 시작했으며, 그의 영향으로 세세하고 시적인 가사와 [마리화나](https://ko.wikipedia.org/wiki/마리화나 "wikilink")를 배우게 되었고, 이는 후의 비틀즈의 실험적인 음악의 배경이 되었다. 비틀즈가 초기 음악에서 중기로 한 발을 내딛는 단계로 평가받는 음반이다.
 
 ## 구성 및 배경
 

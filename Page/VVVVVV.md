@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VVVVVV](https://ko.wikipedia.org/wiki/VVVVVV).
 
 
-**VVVVVV**\[1\]는 테리 카바나그()가 개발한 [2D](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink") [퍼즐](https://ko.wikipedia.org/wiki/퍼즐_게임 "wikilink") [플랫폼](https://ko.wikipedia.org/wiki/플랫폼_게임 "wikilink") [비디오 게임이다](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink"). VVVVVV는 [어도비 플래시로](../Page/어도비_플래시.md "wikilink") 개발된 뒤 2010년 1월 11일 일에 발매되었으며, 2011년 사이몬 로스()에 의해 C++로 개발되어 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 및 [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 버전으로 이식되었다. 2011년 12월 29일에는 [닌텐도 3DS용으로](https://ko.wikipedia.org/wiki/닌텐도_3DS "wikilink") 발매되었다.
+**VVVVVV**\[1\]는 테리 카바나그()가 개발한 [2D](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink") [퍼즐](https://ko.wikipedia.org/wiki/퍼즐_게임 "wikilink") [플랫폼](https://ko.wikipedia.org/wiki/플랫폼_게임 "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink"). VVVVVV는 [어도비 플래시로](../Page/어도비_플래시.md "wikilink") 개발된 뒤 2010년 1월 11일 일에 발매되었으며, 2011년 사이몬 로스()에 의해 C++로 개발되어 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 및 [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 버전으로 이식되었다. 2011년 12월 29일에는 [닌텐도 3DS용으로](../Page/닌텐도_3DS.md "wikilink") 발매되었다.
 
 VVVVVV에서 플레이어의 목표는 또다른 차원에 고립된 선장 베르디안을 조정해서 실종된 우주선 승무원을 찾는 것이다. 선장 비리디언(viridian)은 통상적인 점프를 할 수 없는 대신 중력을 반전시켜서 맵의 바닥과 천장 사이를 오갈 수 있다(+ 공중에서는 중력전환이 불가능하다). VVVVVV의 그래픽은 [코모도어 64에서](../Page/코모도어_64.md "wikilink") 따왔으며, 게임 음악 또한 전부 [칩튠](../Page/칩튠.md "wikilink")으로 만들어졌다. 해당 게임의 작곡가 매그너스 플루선은 <PPPPPP>라는 이름으로 VVVVVV의 사운드 트랙을 공개했다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBATIS](https://ko.wikipedia.org/wiki/IBATIS).
 
 
-**iBATIS**(아이바티스)는 [SQL](../Page/SQL.md "wikilink")에 기반한 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink")와 [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink"), [닷넷](https://ko.wikipedia.org/wiki/닷넷 "wikilink")(.NET), [루비](https://ko.wikipedia.org/wiki/루비_\(프로그래밍_언어\) "wikilink")(Ruby) 등을 연결시켜 주는 역할을 하는 [영속성 프레임워크](https://ko.wikipedia.org/wiki/영속성_프레임워크 "wikilink")(Persistence Framework)이다. 이러한 연결은 프로그램의 [소스코드](https://ko.wikipedia.org/wiki/소스코드 "wikilink")에서 [SQL](../Page/SQL.md "wikilink") 문장을 분리하여 별도의 [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 파일로 저장하고 이 둘을 서로 연결시켜주는 방식으로 작동한다.
+**iBATIS**(아이바티스)는 [SQL](../Page/SQL.md "wikilink")에 기반한 [데이터베이스](../Page/데이터베이스.md "wikilink")와 [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [닷넷](https://ko.wikipedia.org/wiki/닷넷 "wikilink")(.NET), [루비](../Page/루비_\(프로그래밍_언어\).md "wikilink")(Ruby) 등을 연결시켜 주는 역할을 하는 [영속성 프레임워크](https://ko.wikipedia.org/wiki/영속성_프레임워크 "wikilink")(Persistence Framework)이다. 이러한 연결은 프로그램의 [소스코드](https://ko.wikipedia.org/wiki/소스코드 "wikilink")에서 [SQL](../Page/SQL.md "wikilink") 문장을 분리하여 별도의 [XML](../Page/XML.md "wikilink") 파일로 저장하고 이 둘을 서로 연결시켜주는 방식으로 작동한다.
 
 또 다른 영속성 프레임워크인 [하이버네이트](../Page/하이버네이트.md "wikilink")(Hibernate)와 비교하여 하이버네이트는 객체모델을 사용자가 생성을 하면 프레임워크에서 데이터베이스와 연결을 시켜주는 방식인데 반해 iBatis는 사용자가 [SQL](../Page/SQL.md "wikilink") 문장을 만들면 그에 적합한 객체모델을 생성하는 방식으로 작동한다.
 

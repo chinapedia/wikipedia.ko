@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FNS ](https://ko.wikipedia.org/wiki/FNS_).
 
 
-**FNS 가요제**()은 1년에 한번씩 연말 특집으로 개최되는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 텔레비전 [음악](../Page/음악.md "wikilink") 방송 프로그램이다.
+**FNS 가요제**()은 1년에 한번씩 연말 특집으로 개최되는 [일본](../Page/일본.md "wikilink")의 텔레비전 [음악](../Page/음악.md "wikilink") 방송 프로그램이다.
 
 ## 역대 그랑프리 수상자·곡
 
@@ -22,12 +22,12 @@
 <tr class="even">
 <td><p>1975년</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후세_아키라" title="wikilink">후세 아키라</a></p></td>
+<td><p><a href="../Page/후세_아키라.md" title="wikilink">후세 아키라</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1976년</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미야코_하루미" title="wikilink">미야코 하루미</a></p></td>
+<td><p><a href="../Page/미야코_하루미.md" title="wikilink">미야코 하루미</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1977년</p></td>
@@ -57,7 +57,7 @@
 <tr class="odd">
 <td><p>1982년</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠다_세이코" title="wikilink">마츠다 세이코</a></p></td>
+<td><p><a href="../Page/마츠다_세이코.md" title="wikilink">마츠다 세이코</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1983년</p></td>

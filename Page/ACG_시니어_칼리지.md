@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ACG  ](https://ko.wikipedia.org/wiki/ACG__).
 
 
-**ACG 시니어 칼리지**(**ACG Senior College**)는 [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink") [오클랜드](https://ko.wikipedia.org/wiki/오클랜드_\(뉴질랜드\) "wikilink") 도시 중심부에 위치한 사립 남녀 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")이며 뉴질랜드 [Academic Colleges Group에](https://ko.wikipedia.org/wiki/Academic_Colleges_Group "wikilink") 속해있다.
+**ACG 시니어 칼리지**(**ACG Senior College**)는 [뉴질랜드](../Page/뉴질랜드.md "wikilink") [오클랜드](../Page/오클랜드_\(뉴질랜드\).md "wikilink") 도시 중심부에 위치한 사립 남녀 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")이며 뉴질랜드 [Academic Colleges Group에](https://ko.wikipedia.org/wiki/Academic_Colleges_Group "wikilink") 속해있다.
 
 ## 학교 생활
 
@@ -10,11 +10,11 @@ ACG 시니어 칼리지는 11\~13 학년을 위한 [고등학교](https://ko.wik
 
 ## 위치 및 시설
 
-[오클랜드 시내](https://ko.wikipedia.org/wiki/오클랜드_시내 "wikilink") (Auckland CBD)에 위치하여 교통이 편리하다. 오클랜드 교통의 중심지인 Britomart역에서 걸어갈수 있는 거리이며, 학생들은 시내의 Aotea 광장, 오클랜드 시립 도서관, Albert 공원 등의 시설을 이용할 수 있다. 그 외 [오클랜드 대학교](https://ko.wikipedia.org/wiki/오클랜드_대학교 "wikilink"), AUT (Auckland University of Technology), 오클랜드 아트 갤러리 등의 시설도 가까이 위치해 있다.
+[오클랜드 시내](https://ko.wikipedia.org/wiki/오클랜드_시내 "wikilink") (Auckland CBD)에 위치하여 교통이 편리하다. 오클랜드 교통의 중심지인 Britomart역에서 걸어갈수 있는 거리이며, 학생들은 시내의 Aotea 광장, 오클랜드 시립 도서관, Albert 공원 등의 시설을 이용할 수 있다. 그 외 [오클랜드 대학교](../Page/오클랜드_대학교.md "wikilink"), AUT (Auckland University of Technology), 오클랜드 아트 갤러리 등의 시설도 가까이 위치해 있다.
 
 ## 교육 과정
 
-과거엔 뉴질랜드 NCEA(학업 성취도 국가 자격증)를 위한 교과과정을 제공했으나 현재는 영국 캠브릿지 국제학력인정시험 (CIE) 교과과정을 제공하고, 그동안 34명의 세계/뉴질랜드 1위를 배출하였다. 학생들은 IGCSE, AS 및 A2 등 다양한 레벨의 과목을 들을수 있으며, 13학년들은 [오클랜드 대학교에서](https://ko.wikipedia.org/wiki/오클랜드_대학교 "wikilink") 수업을 들을 수도 있다. CIE 교과과정의 대부분 과목을 제공하여 3\~6가지 과목을 선택할 수 있고, IGCSE 수학과 AS 또는 NCEA Level 2 영어는 필수 과목이다.
+과거엔 뉴질랜드 NCEA(학업 성취도 국가 자격증)를 위한 교과과정을 제공했으나 현재는 영국 캠브릿지 국제학력인정시험 (CIE) 교과과정을 제공하고, 그동안 34명의 세계/뉴질랜드 1위를 배출하였다. 학생들은 IGCSE, AS 및 A2 등 다양한 레벨의 과목을 들을수 있으며, 13학년들은 [오클랜드 대학교에서](../Page/오클랜드_대학교.md "wikilink") 수업을 들을 수도 있다. CIE 교과과정의 대부분 과목을 제공하여 3\~6가지 과목을 선택할 수 있고, IGCSE 수학과 AS 또는 NCEA Level 2 영어는 필수 과목이다.
 
 ## 역사
 
@@ -22,8 +22,8 @@ ACG 시니어 칼리지는 11\~13 학년을 위한 [고등학교](https://ko.wik
 
 \== 같이 보기 ==
 
-  - [오클랜드 (뉴질랜드)](https://ko.wikipedia.org/wiki/오클랜드_\(뉴질랜드\) "wikilink")
-  - [오클랜드 대학교](https://ko.wikipedia.org/wiki/오클랜드_대학교 "wikilink")
+  - [오클랜드 (뉴질랜드)](../Page/오클랜드_\(뉴질랜드\).md "wikilink")
+  - [오클랜드 대학교](../Page/오클랜드_대학교.md "wikilink")
 
 ## 외부 링크
 

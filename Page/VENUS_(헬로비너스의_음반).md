@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [VENUS \( \)](https://ko.wikipedia.org/wiki/VENUS_\(_\)).
 
 
-《**VENUS**》(비너스)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [헬로비너스](../Page/헬로비너스.md "wikilink")의 첫 번째 [미니 앨범이자](../Page/익스텐디드_플레이.md "wikilink") 데뷔 앨범이다.
+《**VENUS**》(비너스)는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [헬로비너스](../Page/헬로비너스.md "wikilink")의 첫 번째 [미니 앨범이자](../Page/익스텐디드_플레이.md "wikilink") 데뷔 앨범이다.
 
 ## 발매 과정
 
-[4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") 데뷔 타이틀곡 〈VENUS〉의 티저 영상이 공개되었고,\[1\] [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") 데뷔 타이틀곡 〈VENUS〉의 뮤직비디오가 공개되었다.\[2\] 그러나 공개된 뮤직비디오에서는 멤버 윤조의 부상으로 윤조가 출연하지 못했다. [5월 9일](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") 데뷔 미니 앨범 *VENUS*가 발매되었다.\[3\]
+[4월 27일](../Page/4월_27일.md "wikilink") 데뷔 타이틀곡 〈VENUS〉의 티저 영상이 공개되었고,\[1\] [5월 8일](../Page/5월_8일.md "wikilink") 데뷔 타이틀곡 〈VENUS〉의 뮤직비디오가 공개되었다.\[2\] 그러나 공개된 뮤직비디오에서는 멤버 윤조의 부상으로 윤조가 출연하지 못했다. [5월 9일](../Page/5월_9일.md "wikilink") 데뷔 미니 앨범 *VENUS*가 발매되었다.\[3\]
 
 ## 방송 활동
 
-[5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") 헬로비너스는 [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》에서 멤버 윤조가 참여하지 못한 5인조로 데뷔 무대를 공연하였다.\[4\] 이어 [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》, [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[쇼\! 음악 중심](https://ko.wikipedia.org/wiki/쇼!_음악_중심 "wikilink")》, [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》, [MBC 뮤직](../Page/MBC_뮤직.md "wikilink") 《쇼 챔피언》등 지상파 음악프로그램에서도 데뷔 무대를 가진 헬로비너스는 '대형신인'이라는 별칭을 얻기도 했다.\[5\]
+[5월 10일](../Page/5월_10일.md "wikilink") 헬로비너스는 [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》에서 멤버 윤조가 참여하지 못한 5인조로 데뷔 무대를 공연하였다.\[4\] 이어 [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》, [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[쇼\! 음악 중심](https://ko.wikipedia.org/wiki/쇼!_음악_중심 "wikilink")》, [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》, [MBC 뮤직](../Page/MBC_뮤직.md "wikilink") 《쇼 챔피언》등 지상파 음악프로그램에서도 데뷔 무대를 가진 헬로비너스는 '대형신인'이라는 별칭을 얻기도 했다.\[5\]
 
 ## 트랙리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KV ](https://ko.wikipedia.org/wiki/KV_).
 
 
-**KV 메헬렌**(Yellow Red Koninklijke Voetbalclub Mechelen, KV Mechelen)은 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink") [메헬렌](../Page/메헬렌.md "wikilink")을 연고로 하는 축구 클럽이다. 이 클럽은 1904년에 창단되었으며 벨기에 1부 리그에서 4차례, 벨기에 컵에서 1차례 우승한 경력이 있다.
+**KV 메헬렌**(Yellow Red Koninklijke Voetbalclub Mechelen, KV Mechelen)은 [벨기에](../Page/벨기에.md "wikilink") [메헬렌](../Page/메헬렌.md "wikilink")을 연고로 하는 축구 클럽이다. 이 클럽은 1904년에 창단되었으며 벨기에 1부 리그에서 4차례, 벨기에 컵에서 1차례 우승한 경력이 있다.
 
 ## 성적
 

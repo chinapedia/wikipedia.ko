@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [For the Fans](https://ko.wikipedia.org/wiki/For_the_Fans).
 
 
-**For the Fans**는 [백스트리트 보이즈의](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink") 라이브 비디오 음반으로, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 발매되었다.
+**For the Fans**는 [백스트리트 보이즈의](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink") 라이브 비디오 음반으로, [2000년](../Page/2000년.md "wikilink") 발매되었다.
 
 ## 트랙리스트
 

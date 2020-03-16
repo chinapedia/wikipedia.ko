@@ -7,7 +7,7 @@
 
 1.  **BRIGHT STREAM** \[04:11\]
       -
-        작사：미즈키 나나、작곡：요시키 에리코、편곡：후지마 히토시（[Elements Garden](https://ko.wikipedia.org/wiki/Elements_Garden "wikilink")）
+        작사：미즈키 나나、작곡：요시키 에리코、편곡：후지마 히토시（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
     <!-- end list -->
       - 극장판 마법소녀 리리컬 나노하 THE MOVIE 2nd A's 주제가
 2.  **FEARLESS HERO** \[04:16\]

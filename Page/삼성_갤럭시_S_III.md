@@ -1,27 +1,27 @@
 > This article is converted from Wikipedia: [  S III](https://ko.wikipedia.org/wiki/__S_III).
 
 
-**삼성 갤럭시 S III**(Samsung GALAXY S III)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")으로, [갤럭시 S2의](https://ko.wikipedia.org/wiki/갤럭시_S2 "wikilink") 후속제품이다.
+**삼성 갤럭시 S III**(Samsung GALAXY S III)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [갤럭시 S2의](https://ko.wikipedia.org/wiki/갤럭시_S2 "wikilink") 후속제품이다.
 
-2012년 5월 3일 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에서 열린 **삼성 모바일 언팩**에서 발표하여\[1\], 2012년 5월 29일 3G 표준모델이\[2\], LTE 표준모델은 2012년 9월 27일에 출시하였다.
+2012년 5월 3일 [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")에서 열린 **삼성 모바일 언팩**에서 발표하여\[1\], 2012년 5월 29일 3G 표준모델이\[2\], LTE 표준모델은 2012년 9월 27일에 출시하였다.
 
 ## 연혁
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 13일](https://ko.wikipedia.org/wiki/2월_13일 "wikilink"):[일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [도쿄](../Page/도쿄.md "wikilink")에 갤럭시 s3를 계획
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") : [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에서 발표\[3\]
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") : 예약판매 실시 (900만대 판매)\[4\]
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 27일](https://ko.wikipedia.org/wiki/5월_27일 "wikilink") : 페블블루 모델의 배터리커버의 결함 및 구조변경으로 생산되었던 약 60만개의 배터리커버 폐기처분\[5\]
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink") : 3G 표준모델(GT-I9300) 출시\[6\]
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") : 2000만대 판매\[7\]
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") : I9300에 대한 [4.1 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드\[8\]
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 말 : LTE 표준모델 (GT-I9305) 출시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") : 3000만대 판매\[9\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") : 4100만대 판매\[10\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") : I9300에 대한 [4.3 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드\[11\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") : I9300에 대한 [4.3 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 중단\[12\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") : I9300에 대한 [4.3 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 재개\[13\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : I9305에 대한 [4.3 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드\[14\]
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") : I9305에 대한 [4.4 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드\[15\]
+  - [2012년](../Page/2012년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink"):[일본](../Page/일본.md "wikilink") [도쿄](../Page/도쿄.md "wikilink")에 갤럭시 s3를 계획
+  - [2012년](../Page/2012년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") : [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")에서 발표\[3\]
+  - [2012년](../Page/2012년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") : 예약판매 실시 (900만대 판매)\[4\]
+  - [2012년](../Page/2012년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") : 페블블루 모델의 배터리커버의 결함 및 구조변경으로 생산되었던 약 60만개의 배터리커버 폐기처분\[5\]
+  - [2012년](../Page/2012년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") : 3G 표준모델(GT-I9300) 출시\[6\]
+  - [2012년](../Page/2012년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") : 2000만대 판매\[7\]
+  - [2012년](../Page/2012년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") : I9300에 대한 [4.1 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드\[8\]
+  - [2012년](../Page/2012년.md "wikilink") [9월](../Page/9월.md "wikilink") 말 : LTE 표준모델 (GT-I9305) 출시
+  - [2012년](../Page/2012년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") : 3000만대 판매\[9\]
+  - [2013년](../Page/2013년.md "wikilink") [1월](../Page/1월.md "wikilink") : 4100만대 판매\[10\]
+  - [2013년](../Page/2013년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") : I9300에 대한 [4.3 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드\[11\]
+  - [2013년](../Page/2013년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink") : I9300에 대한 [4.3 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 중단\[12\]
+  - [2013년](../Page/2013년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") : I9300에 대한 [4.3 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 재개\[13\]
+  - [2013년](../Page/2013년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : I9305에 대한 [4.3 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드\[14\]
+  - [2014년](../Page/2014년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") : I9305에 대한 [4.4 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드\[15\]
 
 ## 외형
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - 올쉐어 캐스트 : 별도로 판매하는 올쉐어 캐스트 동글을 이용해 스마트폰 내 동영상, 게임 등의 화면을 [스마트 TV나](https://ko.wikipedia.org/wiki/스마트_TV "wikilink") [PC에서](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 사용할 수 있다.\[22\]
+  - 올쉐어 캐스트 : 별도로 판매하는 올쉐어 캐스트 동글을 이용해 스마트폰 내 동영상, 게임 등의 화면을 [스마트 TV나](https://ko.wikipedia.org/wiki/스마트_TV "wikilink") [PC에서](../Page/개인용_컴퓨터.md "wikilink") 사용할 수 있다.\[22\]
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@
 
 ### 안드로이드 4.1 젤리빈
 
-I9300이 2012년 9월 24일 [폴란드](https://ko.wikipedia.org/wiki/폴란드 "wikilink")에서 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.1.1 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[27\]
+I9300이 2012년 9월 24일 [폴란드](../Page/폴란드.md "wikilink")에서 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.1 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[27\]
 
 그외에도 다음사항이 같이 적용되었다.
 
@@ -100,7 +100,7 @@ I9300이 2012년 9월 24일 [폴란드](https://ko.wikipedia.org/wiki/폴란드 
   - 팝업 플레이의 화면 크기 조정기능 추가
   - GPU클럭을 440 MHz에서 533 MHz로 오버클럭
 
-그리고 2012년 12월 5일 I9300이\[28\], 12월 26일 I9305이\[29\] [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.1.2 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.
+그리고 2012년 12월 5일 I9300이\[28\], 12월 26일 I9305이\[29\] [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.2 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.
 
 그외에도 다음 사항이 적용되었다.
 
@@ -154,11 +154,11 @@ I9300이 2013년 11월 4일에 [4.3 젤리빈으로](https://ko.wikipedia.org/wi
 
 #### 갤럭시 S3 3G (SHW-M440S)
 
-[SKT을](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink") 통해 출시된 SK전용 모델로, 램이 1GB로 사양이 낮아졌다. DMB 안테나가 내장되있지 않기때문에 사용이 불가능하다. 참고로 LTE모델과는 미세한 배터리 크기를 이유로 호환이 불가능 하다.
+[SKT을](../Page/SK텔레콤.md "wikilink") 통해 출시된 SK전용 모델로, 램이 1GB로 사양이 낮아졌다. DMB 안테나가 내장되있지 않기때문에 사용이 불가능하다. 참고로 LTE모델과는 미세한 배터리 크기를 이유로 호환이 불가능 하다.
 
 #### SHV-E210S/K/L
 
-[SKT](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink"), [KT](https://ko.wikipedia.org/wiki/KT "wikilink"), [LG U+를](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 통해 출시된 모델로, LTE를 지원한다. [FM 라디오](https://ko.wikipedia.org/wiki/FM_라디오 "wikilink") 대신 [지상파 DMB를](https://ko.wikipedia.org/wiki/지상파_DMB "wikilink") 지원하며, 두께는 9mm로 증가했다.
+[SKT](../Page/SK텔레콤.md "wikilink"), [KT](../Page/KT.md "wikilink"), [LG U+를](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 통해 출시된 모델로, LTE를 지원한다. [FM 라디오](https://ko.wikipedia.org/wiki/FM_라디오 "wikilink") 대신 [지상파 DMB를](https://ko.wikipedia.org/wiki/지상파_DMB "wikilink") 지원하며, 두께는 9mm로 증가했다.
 
 ###
 
@@ -184,11 +184,11 @@ CDMA 2000을 지원하는 싱글심 모델이며, 두께는 9mm로 증가했다.
 
 ### /
 
-[애플리케이션 프로세서가](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") [엑시노스](https://ko.wikipedia.org/wiki/엑시노스 "wikilink") 4 쿼드 (4412) 대신 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") S4 MSM8960 ([퀄컴](../Page/퀄컴.md "wikilink") [크래이트 200 아키텍처](https://ko.wikipedia.org/wiki/크래이트_아키텍처 "wikilink") 1.5 [GHz](https://ko.wikipedia.org/wiki/GHz "wikilink") [듀얼 코어](https://ko.wikipedia.org/wiki/듀얼_코어 "wikilink") [CPU](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") + [퀄컴](../Page/퀄컴.md "wikilink") [아드레노](https://ko.wikipedia.org/wiki/아드레노 "wikilink") 225 400 [MHz](https://ko.wikipedia.org/wiki/MHz "wikilink") [GPU](https://ko.wikipedia.org/wiki/그래픽_처리_장치 "wikilink"))이 장착되었으며, [램](https://ko.wikipedia.org/wiki/램 "wikilink")은 2 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") [DDR2 SDRAM이](../Page/DDR2_SDRAM.md "wikilink") 장착되었다.
+[애플리케이션 프로세서가](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") [엑시노스](https://ko.wikipedia.org/wiki/엑시노스 "wikilink") 4 쿼드 (4412) 대신 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") S4 MSM8960 ([퀄컴](../Page/퀄컴.md "wikilink") [크래이트 200 아키텍처](https://ko.wikipedia.org/wiki/크래이트_아키텍처 "wikilink") 1.5 [GHz](https://ko.wikipedia.org/wiki/GHz "wikilink") [듀얼 코어](https://ko.wikipedia.org/wiki/듀얼_코어 "wikilink") [CPU](../Page/중앙_처리_장치.md "wikilink") + [퀄컴](../Page/퀄컴.md "wikilink") [아드레노](https://ko.wikipedia.org/wiki/아드레노 "wikilink") 225 400 [MHz](https://ko.wikipedia.org/wiki/MHz "wikilink") [GPU](../Page/그래픽_처리_장치.md "wikilink"))이 장착되었으며, [램](https://ko.wikipedia.org/wiki/램 "wikilink")은 2 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") [DDR2 SDRAM이](../Page/DDR2_SDRAM.md "wikilink") 장착되었다.
 
 #### SGH-I747
 
-[AT\&T](https://ko.wikipedia.org/wiki/AT&T "wikilink"), 벨 모빌리티, 로저스, 텔러스, SaskTel, 버진 모바일 캐나다를 통해 출시된 모델이다.
+[AT\&T](../Page/AT&T.md "wikilink"), 벨 모빌리티, 로저스, 텔러스, SaskTel, 버진 모바일 캐나다를 통해 출시된 모델이다.
 
 #### SGH-T999
 
@@ -208,7 +208,7 @@ CDMA 2000을 지원하는 싱글심 모델이며, 두께는 9mm로 증가했다.
 
 #### SGH-N064(SC-06D)
 
-[NTT 도코모를](../Page/NTT_도코모.md "wikilink") 통해 출시된 LTE모델이다. [애플리케이션 프로세서가](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") [엑시노스](https://ko.wikipedia.org/wiki/엑시노스 "wikilink") 4 쿼드 (4412) 대신 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") S4 플러스 MSM8960 AP ([퀄컴](../Page/퀄컴.md "wikilink") [크래이트 200 아키텍처](https://ko.wikipedia.org/wiki/크래이트_200_아키텍처 "wikilink") 1.5 [GHz](https://ko.wikipedia.org/wiki/GHz "wikilink") 듀얼 코어 [CPU](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") + [퀄컴](../Page/퀄컴.md "wikilink") [아드레노](https://ko.wikipedia.org/wiki/아드레노 "wikilink") 225 400 [MHz](https://ko.wikipedia.org/wiki/MHz "wikilink") [GPU](https://ko.wikipedia.org/wiki/그래픽_처리_장치 "wikilink"))가 장착되었으며, [램](https://ko.wikipedia.org/wiki/램 "wikilink")은 2 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") [DDR2 SDRAM이](../Page/DDR2_SDRAM.md "wikilink") 장착되었다. 그리고 [원세그](../Page/원세그.md "wikilink")를 지원하며 두께는 9mm로 증가했다.
+[NTT 도코모를](../Page/NTT_도코모.md "wikilink") 통해 출시된 LTE모델이다. [애플리케이션 프로세서가](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") [엑시노스](https://ko.wikipedia.org/wiki/엑시노스 "wikilink") 4 쿼드 (4412) 대신 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") S4 플러스 MSM8960 AP ([퀄컴](../Page/퀄컴.md "wikilink") [크래이트 200 아키텍처](https://ko.wikipedia.org/wiki/크래이트_200_아키텍처 "wikilink") 1.5 [GHz](https://ko.wikipedia.org/wiki/GHz "wikilink") 듀얼 코어 [CPU](../Page/중앙_처리_장치.md "wikilink") + [퀄컴](../Page/퀄컴.md "wikilink") [아드레노](https://ko.wikipedia.org/wiki/아드레노 "wikilink") 225 400 [MHz](https://ko.wikipedia.org/wiki/MHz "wikilink") [GPU](../Page/그래픽_처리_장치.md "wikilink"))가 장착되었으며, [램](https://ko.wikipedia.org/wiki/램 "wikilink")은 2 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") [DDR2 SDRAM이](../Page/DDR2_SDRAM.md "wikilink") 장착되었다. 그리고 [원세그](../Page/원세그.md "wikilink")를 지원하며 두께는 9mm로 증가했다.
 
 #### SGH-N035(SC-03E)
 
@@ -224,8 +224,8 @@ CDMA 2000을 지원하는 싱글심 모델이며, 두께는 9mm로 증가했다.
 
 ## 같이 보기
 
-  - [삼성 갤럭시 노트 II](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_II "wikilink")
-  - [삼성 갤럭시 S III 미니](https://ko.wikipedia.org/wiki/삼성_갤럭시_S_III_미니 "wikilink")
+  - [삼성 갤럭시 노트 II](../Page/삼성_갤럭시_노트_II.md "wikilink")
+  - [삼성 갤럭시 S III 미니](../Page/삼성_갤럭시_S_III_미니.md "wikilink")
   - [삼성 S 페블](https://ko.wikipedia.org/wiki/삼성_S_페블 "wikilink")
   - [삼성 갤럭시 S4](../Page/삼성_갤럭시_S4.md "wikilink")
   - [소니 엑스페리아 태블릿 S](https://ko.wikipedia.org/wiki/소니_엑스페리아_태블릿_S "wikilink")

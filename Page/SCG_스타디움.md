@@ -5,7 +5,7 @@
 
 원래 이름은 선더돔 경기장이지만, 2009년에 명명권 인수를 통해 **야마하 스타디움**으로 명칭이 변경되었다. 2012년 2월 SCG 그룹이 6억 바트로 명명권을 취득하고 현재는 **SCG 경기장**으로 변경되었다.
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") [PSY](https://ko.wikipedia.org/wiki/PSY "wikilink")의 콘서트\[1\]가 이곳에서 열리는 등, 축구 경기 뿐 아니라 공연장으로도 사용되고 있다.
+[2012년](../Page/2012년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") [PSY](https://ko.wikipedia.org/wiki/PSY "wikilink")의 콘서트\[1\]가 이곳에서 열리는 등, 축구 경기 뿐 아니라 공연장으로도 사용되고 있다.
 
 ## 참고
 

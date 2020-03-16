@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Funeral](https://ko.wikipedia.org/wiki/Funeral).
 
 
-《**Funeral**》은 캐나다의 [인디 록](https://ko.wikipedia.org/wiki/인디_록 "wikilink") 밴드 [아케이드 파이어의](../Page/아케이드_파이어.md "wikilink") 데뷔 정규 음반이다. 2004년 9월 14일 머지 레코드를 통해 북아메리카에서 발매됐으며, 유럽에는 2005년 2월 28일 러프트레이드 레코드를 통해 발매됐다. 대한민국에는 2005년 5월 30일 [파스텔 뮤직을](https://ko.wikipedia.org/wiki/파스텔_뮤직 "wikilink") 통해 발매됐다. 음반의 제목은 음반 작업 중 밴드 구성원들 각자의 가족; 레진 샤사뉴의 할머니가 2003년 6월, 윈과 윌리엄 버틀러의 할아버지가 2004년 3월, 리처드 리드 패리의 고모 혹은 이모(aunt)가 2004년 4월에 사망했기 때문이다.\[1\]
+《**Funeral**》은 캐나다의 [인디 록](../Page/인디_록.md "wikilink") 밴드 [아케이드 파이어의](../Page/아케이드_파이어.md "wikilink") 데뷔 정규 음반이다. 2004년 9월 14일 머지 레코드를 통해 북아메리카에서 발매됐으며, 유럽에는 2005년 2월 28일 러프트레이드 레코드를 통해 발매됐다. 대한민국에는 2005년 5월 30일 [파스텔 뮤직을](https://ko.wikipedia.org/wiki/파스텔_뮤직 "wikilink") 통해 발매됐다. 음반의 제목은 음반 작업 중 밴드 구성원들 각자의 가족; 레진 샤사뉴의 할머니가 2003년 6월, 윈과 윌리엄 버틀러의 할아버지가 2004년 3월, 리처드 리드 패리의 고모 혹은 이모(aunt)가 2004년 4월에 사망했기 때문이다.\[1\]
 
-초기 녹음이 2003년 8월 1주일간 [퀘벡주](https://ko.wikipedia.org/wiki/퀘벡주 "wikilink") [몬트리얼](https://ko.wikipedia.org/wiki/몬트리얼 "wikilink")의 호텔2탱고(Hotel2Tango)에서 이뤄졌으며, 같은 해 말에 녹음을 마쳤다.
+초기 녹음이 2003년 8월 1주일간 [퀘벡주](../Page/퀘벡주.md "wikilink") [몬트리얼](https://ko.wikipedia.org/wiki/몬트리얼 "wikilink")의 호텔2탱고(Hotel2Tango)에서 이뤄졌으며, 같은 해 말에 녹음을 마쳤다.
 
-음반에서 5개의 싱글이 발매됐는데 가장 반응이 좋았던 싱글은 UK 싱글 차트에서 19위를 기록한 〈Rebellion (Lies)〉였다. 음반은 2005년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 최우수 얼터너티브 음반상에 후보로 올랐으며 평단으로부터 높은 지지를 받으며 연말 순위 및 지난 2000년대 음반 순위에서 1위를 차지했다. 웹사이트 [메타크리틱](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")에 따르면 이 음반은 [라디오헤드](https://ko.wikipedia.org/wiki/라디오헤드 "wikilink")의 《[OK Computer](../Page/OK_Computer.md "wikilink")》에 이어 두 번째로 2000년대 명반 순위에 많이 등장한 음반이며\[2\], [롤링 스톤의](../Page/롤링_스톤.md "wikilink") 역대 명반 500선에서 151위를 차지했다.
+음반에서 5개의 싱글이 발매됐는데 가장 반응이 좋았던 싱글은 UK 싱글 차트에서 19위를 기록한 〈Rebellion (Lies)〉였다. 음반은 2005년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 최우수 얼터너티브 음반상에 후보로 올랐으며 평단으로부터 높은 지지를 받으며 연말 순위 및 지난 2000년대 음반 순위에서 1위를 차지했다. 웹사이트 [메타크리틱](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")에 따르면 이 음반은 [라디오헤드](../Page/라디오헤드.md "wikilink")의 《[OK Computer](../Page/OK_Computer.md "wikilink")》에 이어 두 번째로 2000년대 명반 순위에 많이 등장한 음반이며\[2\], [롤링 스톤의](../Page/롤링_스톤.md "wikilink") 역대 명반 500선에서 151위를 차지했다.
 
 ## 평가
 

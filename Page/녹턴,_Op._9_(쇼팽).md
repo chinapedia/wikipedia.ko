@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [, Op. 9 \(\)](https://ko.wikipedia.org/wiki/,_Op._9_\(\)).
 
 
-**쇼팽의 녹턴 작품번호 제9번**(3 Nocturnes, Op. 9)은 [프레데리크 쇼팽이](https://ko.wikipedia.org/wiki/프레데리크_쇼팽 "wikilink") [1830년](https://ko.wikipedia.org/wiki/1830년 "wikilink")에서 [1832년](https://ko.wikipedia.org/wiki/1832년 "wikilink") 사이에 작곡했으며 21개의 [녹턴](../Page/녹턴_\(쇼팽\).md "wikilink") 중 1번, 2번, 3번을 통합해서 부르는 말이다. 작품번호 제9번은 [1833년](https://ko.wikipedia.org/wiki/1833년 "wikilink")에 처음 출판되었다.
+**쇼팽의 녹턴 작품번호 제9번**(3 Nocturnes, Op. 9)은 [프레데리크 쇼팽이](../Page/프레데리크_쇼팽.md "wikilink") [1830년](../Page/1830년.md "wikilink")에서 [1832년](../Page/1832년.md "wikilink") 사이에 작곡했으며 21개의 [녹턴](../Page/녹턴_\(쇼팽\).md "wikilink") 중 1번, 2번, 3번을 통합해서 부르는 말이다. 작품번호 제9번은 [1833년](../Page/1833년.md "wikilink")에 처음 출판되었다.
 
 ## 녹턴 1번 내림나단조
 
@@ -31,7 +31,7 @@
 
 ## 같이 보기
 
-  - [프레데리크 쇼팽](https://ko.wikipedia.org/wiki/프레데리크_쇼팽 "wikilink")
+  - [프레데리크 쇼팽](../Page/프레데리크_쇼팽.md "wikilink")
   - [쇼팽의 녹턴](../Page/녹턴_\(쇼팽\).md "wikilink")
 
 [09](https://ko.wikipedia.org/wiki/분류:쇼팽의_녹턴 "wikilink") [분류:내림나단조 작품](https://ko.wikipedia.org/wiki/분류:내림나단조_작품 "wikilink") [분류:헌정곡](https://ko.wikipedia.org/wiki/분류:헌정곡 "wikilink") [분류:피아노 곡](https://ko.wikipedia.org/wiki/분류:피아노_곡 "wikilink") [ja:夜想曲第3番 (ショパン)](https://ko.wikipedia.org/wiki/ja:夜想曲第3番_\(ショパン\) "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kill](https://ko.wikipedia.org/wiki/Kill).
 
 
-**kill**은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에서](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 시스템상에서 동작하고 있는 [프로세스](../Page/프로세스.md "wikilink")에 간단한 메시지(시그널)를 보내는 명령어이다. 기본적으로 보내는 메시지는 종료 메시지이고 프로세스에 종료하는 것을 요구한다. 하지만 kill은 그 명칭과는 조금 다르게 종료와 무관한 메시지를 보낼 때도 사용한다. kill 명령어는 내부적으로 kill()이란 [시스템 콜을](https://ko.wikipedia.org/wiki/시스템_콜 "wikilink") 사용하여 구현하고, [프로세스 식별자](../Page/프로세스_식별자.md "wikilink")(PID)로 지시한 프로세스와 [프로세스 그룹 식별자](https://ko.wikipedia.org/wiki/프로세스_그룹_식별자 "wikilink")(PGID)로 지시한 프로세스 그룹에 시그널을 보낸다. kill은 예전부터 독립적인 유틸리티로 제공되었으나 많은 프로그램은 약간 다른 형태의 kill 명령어를 가지고 있다.
+**kill**은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink") 시스템상에서 동작하고 있는 [프로세스](../Page/프로세스.md "wikilink")에 간단한 메시지(시그널)를 보내는 명령어이다. 기본적으로 보내는 메시지는 종료 메시지이고 프로세스에 종료하는 것을 요구한다. 하지만 kill은 그 명칭과는 조금 다르게 종료와 무관한 메시지를 보낼 때도 사용한다. kill 명령어는 내부적으로 kill()이란 [시스템 콜을](https://ko.wikipedia.org/wiki/시스템_콜 "wikilink") 사용하여 구현하고, [프로세스 식별자](../Page/프로세스_식별자.md "wikilink")(PID)로 지시한 프로세스와 [프로세스 그룹 식별자](https://ko.wikipedia.org/wiki/프로세스_그룹_식별자 "wikilink")(PGID)로 지시한 프로세스 그룹에 시그널을 보낸다. kill은 예전부터 독립적인 유틸리티로 제공되었으나 많은 프로그램은 약간 다른 형태의 kill 명령어를 가지고 있다.
 
 사용자가 일반적으로 가장 많이 사용하는 시그널은 SIGTERM과 SIGKILL인데, kill은 이 외에도 서로 다른 다양한 종류의 시그널을 보내는 것이 가능하다. 기본적으로 보내지는 시그널은 SIGTERM이다. 이 시그널을 받은 프로세스는 프로그램을 종료하기 전에 프로그램을 종료하는 처리(환경설정을 파일에 기록한다던지...)를 수행하는 것이 가능하다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Infinitize](https://ko.wikipedia.org/wiki/Infinitize).
 
 
-***Infinitize***는 대한민국의 음악 그룹 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")의 세 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 음반이다.
+***Infinitize***는 대한민국의 음악 그룹 [인피니트](../Page/인피니트.md "wikilink")의 세 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 음반이다.
 
 ## 수록곡
 

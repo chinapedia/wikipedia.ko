@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [F.  ](https://ko.wikipedia.org/wiki/F.__).
 
 
-**F. 머리 에이브러햄**((출생명은 **머리 에이브러햄** ), , [1939년](https://ko.wikipedia.org/wiki/1939년 "wikilink") [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
+**F. 머리 에이브러햄**((출생명은 **머리 에이브러햄** ), , [1939년](../Page/1939년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
 
 ## 출연 작품
 

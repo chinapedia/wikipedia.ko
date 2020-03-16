@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ THE CHASER](https://ko.wikipedia.org/wiki/_THE_CHASER).
 
 
-《**추적자 THE CHASER**》는 [SBS에서](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 28일부터](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 17일까지](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 방영된 [SBS](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") [월화 드라마이다](https://ko.wikipedia.org/wiki/SBS_월화드라마 "wikilink").
+《**추적자 THE CHASER**》는 [SBS에서](../Page/SBS_TV.md "wikilink") [2012년](../Page/2012년.md "wikilink") [5월 28일부터](../Page/5월_28일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [7월 17일까지](../Page/7월_17일.md "wikilink") 방영된 [SBS](../Page/SBS_TV.md "wikilink") [월화 드라마이다](../Page/SBS_월화드라마.md "wikilink").
 
-이 드라마는 딸의 갑작스런 죽음과 억울한 누명을 밝히고 사회의 부조리에 맞서는 한 형사의 이야기로, 초기 제목은 ‘아버지의 전쟁’이었다. 또한 《[패션왕](../Page/패션왕_\(드라마\).md "wikilink")》의 후속작 《[드라마의 제왕](https://ko.wikipedia.org/wiki/드라마의_제왕 "wikilink")》이 제작상의 문제로 인해 첫 방송일이 연기되면서 갑작스럽게 편성되었다. 하지만 주인공을 맡은 [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink")가 뛰어난 연기력으로 많은 사랑을 받으며 데뷔 첫 연기대상을 거머쥐었다.
+이 드라마는 딸의 갑작스런 죽음과 억울한 누명을 밝히고 사회의 부조리에 맞서는 한 형사의 이야기로, 초기 제목은 ‘아버지의 전쟁’이었다. 또한 《[패션왕](../Page/패션왕_\(드라마\).md "wikilink")》의 후속작 《[드라마의 제왕](https://ko.wikipedia.org/wiki/드라마의_제왕 "wikilink")》이 제작상의 문제로 인해 첫 방송일이 연기되면서 갑작스럽게 편성되었다. 하지만 주인공을 맡은 [손현주](../Page/손현주.md "wikilink")가 뛰어난 연기력으로 많은 사랑을 받으며 데뷔 첫 연기대상을 거머쥐었다.
 
 ## 등장 인물
 
 ### 주요 인물
 
-  - [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink") : 백홍석(42세) 역 - 강북경찰서 강력2팀 형사
+  - [손현주](../Page/손현주.md "wikilink") : 백홍석(42세) 역 - 강북경찰서 강력2팀 형사
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
 ### 백홍석의 가족
 
-  - [이혜인](https://ko.wikipedia.org/wiki/이혜인 "wikilink") : 백수정(17세) 역 - 백홍석의 딸. 고등학교 2학년
+  - [이혜인](../Page/이혜인.md "wikilink") : 백수정(17세) 역 - 백홍석의 딸. 고등학교 2학년
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@
 
 ### 백홍석의 주변 인물
 
-  - [류승수](https://ko.wikipedia.org/wiki/류승수 "wikilink") : 최정우(40세) 역 - 서울중앙지검 형사부 검사
+  - [류승수](../Page/류승수.md "wikilink") : 최정우(40세) 역 - 서울중앙지검 형사부 검사
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - [강신일](https://ko.wikipedia.org/wiki/강신일 "wikilink") : 황일관(50대) 역 - 강북경찰서 강력1반 반장
+  - [강신일](../Page/강신일.md "wikilink") : 황일관(50대) 역 - 강북경찰서 강력1반 반장
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - [최준용](https://ko.wikipedia.org/wiki/최준용_\(배우\) "wikilink") : 윤창민(42세) 역 - 백홍석의 친구, 백수정의 담당 의사
+  - [최준용](../Page/최준용_\(배우\).md "wikilink") : 윤창민(42세) 역 - 백홍석의 친구, 백수정의 담당 의사
 
 <!-- end list -->
 
@@ -81,7 +81,7 @@
 
 <!-- end list -->
 
-  - [조재윤](https://ko.wikipedia.org/wiki/조재윤 "wikilink") : 박용식(30대) 역 - 자수성가한 소규모 조폭
+  - [조재윤](../Page/조재윤.md "wikilink") : 박용식(30대) 역 - 자수성가한 소규모 조폭
 
 <!-- end list -->
 
@@ -90,7 +90,7 @@
 
 ### 강동윤의 가족
 
-  - [김성령](https://ko.wikipedia.org/wiki/김성령 "wikilink") : 서지수(40대) 역 - 서동환 회장의 딸, 강동윤의 아내
+  - [김성령](../Page/김성령.md "wikilink") : 서지수(40대) 역 - 서동환 회장의 딸, 강동윤의 아내
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@
 
 <!-- end list -->
 
-  - [고준희](https://ko.wikipedia.org/wiki/고준희 "wikilink") : 서지원(28세) 역 - 서동환 회장의 막내 딸, 방송국 기자
+  - [고준희](../Page/고준희.md "wikilink") : 서지원(28세) 역 - 서동환 회장의 막내 딸, 방송국 기자
 
 <!-- end list -->
 
@@ -117,7 +117,7 @@
 
 <!-- end list -->
 
-  - [전노민](https://ko.wikipedia.org/wiki/전노민 "wikilink") : 서영욱(40대) 역 - 서동환 회장의 아들
+  - [전노민](../Page/전노민.md "wikilink") : 서영욱(40대) 역 - 서동환 회장의 아들
 
 <!-- end list -->
 
@@ -135,7 +135,7 @@
 
 ### 강동윤의 주변 인물
 
-  - [장신영](https://ko.wikipedia.org/wiki/장신영 "wikilink") : 신혜라(30대) 역 - 강동윤의 보좌관
+  - [장신영](../Page/장신영.md "wikilink") : 신혜라(30대) 역 - 강동윤의 보좌관
 
 <!-- end list -->
 
@@ -153,7 +153,7 @@
 
 <!-- end list -->
 
-  - [송재호](https://ko.wikipedia.org/wiki/송재호 "wikilink") : 유태진(60대) 역 - 정치인
+  - [송재호](../Page/송재호.md "wikilink") : 유태진(60대) 역 - 정치인
 
 <!-- end list -->
 
@@ -162,7 +162,7 @@
 
 <!-- end list -->
 
-  - [오타니 료헤이](https://ko.wikipedia.org/wiki/오타니_료헤이 "wikilink") : 배기철(30대) - 조직폭력배 보스, 한오그룹 계열 보안회사 상무이사
+  - [오타니 료헤이](../Page/오타니_료헤이.md "wikilink") : 배기철(30대) - 조직폭력배 보스, 한오그룹 계열 보안회사 상무이사
 
 <!-- end list -->
 
@@ -171,7 +171,7 @@
 
 <!-- end list -->
 
-  - [이용우](https://ko.wikipedia.org/wiki/이용우_\(배우\) "wikilink") : PK준(20대) 역 - 본명 박기준, 최고의 한류 스타, 서지수의 정부
+  - [이용우](../Page/이용우_\(배우\).md "wikilink") : PK준(20대) 역 - 본명 박기준, 최고의 한류 스타, 서지수의 정부
 
 <!-- end list -->
 
@@ -189,7 +189,7 @@
 
 ### 그 외 인물
 
-  - [송영규](https://ko.wikipedia.org/wiki/송영규 "wikilink") : 박민찬 역 - 비리검사
+  - [송영규](../Page/송영규.md "wikilink") : 박민찬 역 - 비리검사
 
 <!-- end list -->
 
@@ -208,32 +208,32 @@
 
 ## 시청률
 
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") |
-| ------------------------------------------------------- |
-| 회차                                                      |
-| 대한민국(전국)                                                |
-| 제1회                                                     |
-| 제2회                                                     |
-| 제3회                                                     |
-| 제4회                                                     |
-| 제5회                                                     |
-| 제6회                                                     |
-| 제7회                                                     |
-| 제8회                                                     |
-| 제9회                                                     |
-| 제10회                                                    |
-| 제11회                                                    |
-| 제12회                                                    |
-| 제13회                                                    |
-| 제14회                                                    |
-| 제15회                                                    |
-| 제16회                                                    |
-| 평균 시청률                                                  |
-|                                                         |
-| 스페셜                                                     |
-| 제1회                                                     |
-| 제2회                                                     |
-|                                                         |
+| [2012년](../Page/2012년.md "wikilink") |
+| ------------------------------------ |
+| 회차                                   |
+| 대한민국(전국)                             |
+| 제1회                                  |
+| 제2회                                  |
+| 제3회                                  |
+| 제4회                                  |
+| 제5회                                  |
+| 제6회                                  |
+| 제7회                                  |
+| 제8회                                  |
+| 제9회                                  |
+| 제10회                                 |
+| 제11회                                 |
+| 제12회                                 |
+| 제13회                                 |
+| 제14회                                 |
+| 제15회                                 |
+| 제16회                                 |
+| 평균 시청률                               |
+|                                      |
+| 스페셜                                  |
+| 제1회                                  |
+| 제2회                                  |
+|                                      |
 
 ## 사운드 트랙
 
@@ -245,29 +245,29 @@
 
 ## 수상 경력
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 10대 스타상, 대상 - [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink")
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 미니시리즈부문 남자 우수 연기상 - [김상중](../Page/김상중.md "wikilink")
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 미니시리즈부문 여자 우수 연기상 - [김성령](https://ko.wikipedia.org/wiki/김성령 "wikilink")
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 3사 PD들이 뽑은 연기상 - [박근형](../Page/박근형.md "wikilink")
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 미니시리즈 특별 연기상 - [장신영](https://ko.wikipedia.org/wiki/장신영 "wikilink")
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 뉴스타상 - [고준희](https://ko.wikipedia.org/wiki/고준희 "wikilink")
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상 "wikilink") 뉴스타상 - [박효주](../Page/박효주.md "wikilink")
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 제5회 [코리아드라마페스티벌](https://ko.wikipedia.org/wiki/코리아드라마페스티벌 "wikilink") 남자 최우수상 - [김상중](../Page/김상중.md "wikilink")
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 제49회 [백상예술대상](../Page/백상예술대상.md "wikilink") TV부문 작품상 (드라마)
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 제49회 [백상예술대상](../Page/백상예술대상.md "wikilink") TV부문 남자최우수연기상 - [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink")
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 제49회 [백상예술대상](../Page/백상예술대상.md "wikilink") TV부문 극본상 - [박경수](../Page/박경수_\(작가\).md "wikilink")
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 제1회[에이판 스타 어워즈](https://ko.wikipedia.org/wiki/에이판_스타_어워즈 "wikilink") 대상 - [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink")
+  - [2012년](../Page/2012년.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") 10대 스타상, 대상 - [손현주](../Page/손현주.md "wikilink")
+  - [2012년](../Page/2012년.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") 미니시리즈부문 남자 우수 연기상 - [김상중](../Page/김상중.md "wikilink")
+  - [2012년](../Page/2012년.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") 미니시리즈부문 여자 우수 연기상 - [김성령](../Page/김성령.md "wikilink")
+  - [2012년](../Page/2012년.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") 3사 PD들이 뽑은 연기상 - [박근형](../Page/박근형.md "wikilink")
+  - [2012년](../Page/2012년.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") 미니시리즈 특별 연기상 - [장신영](../Page/장신영.md "wikilink")
+  - [2012년](../Page/2012년.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") 뉴스타상 - [고준희](../Page/고준희.md "wikilink")
+  - [2012년](../Page/2012년.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") 뉴스타상 - [박효주](../Page/박효주.md "wikilink")
+  - [2012년](../Page/2012년.md "wikilink") 제5회 [코리아드라마페스티벌](https://ko.wikipedia.org/wiki/코리아드라마페스티벌 "wikilink") 남자 최우수상 - [김상중](../Page/김상중.md "wikilink")
+  - [2013년](../Page/2013년.md "wikilink") 제49회 [백상예술대상](../Page/백상예술대상.md "wikilink") TV부문 작품상 (드라마)
+  - [2013년](../Page/2013년.md "wikilink") 제49회 [백상예술대상](../Page/백상예술대상.md "wikilink") TV부문 남자최우수연기상 - [손현주](../Page/손현주.md "wikilink")
+  - [2013년](../Page/2013년.md "wikilink") 제49회 [백상예술대상](../Page/백상예술대상.md "wikilink") TV부문 극본상 - [박경수](../Page/박경수_\(작가\).md "wikilink")
+  - [2012년](../Page/2012년.md "wikilink") 제1회[에이판 스타 어워즈](https://ko.wikipedia.org/wiki/에이판_스타_어워즈 "wikilink") 대상 - [손현주](../Page/손현주.md "wikilink")
 
 ## 연장 사유
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") : 추적자 THE CHASER 방영 분량이 16부작에서 17부작으로 연장이 예정되었으나,\[1\] 작가의 건강 악화로 인해 1회 연장이 취소되었다.\[2\]
+  - [2012년](../Page/2012년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") : 추적자 THE CHASER 방영 분량이 16부작에서 17부작으로 연장이 예정되었으나,\[1\] 작가의 건강 악화로 인해 1회 연장이 취소되었다.\[2\]
 
 ## 동시간대 드라마
 
   - [사랑비](../Page/사랑비.md "wikilink")
-  - [빅](https://ko.wikipedia.org/wiki/빅_\(드라마\) "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
+  - [빅](../Page/빅_\(드라마\).md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
   - [빛과 그림자](../Page/빛과_그림자_\(2011년_드라마\).md "wikilink")
-  - [골든타임](https://ko.wikipedia.org/wiki/골든타임_\(드라마\) "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"))
+  - [골든타임](../Page/골든타임_\(드라마\).md "wikilink") ([MBC](../Page/MBC_TV.md "wikilink"))
 
 ## 참고
 

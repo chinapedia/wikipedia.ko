@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tab ](https://ko.wikipedia.org/wiki/Tab_).
 
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:Keyboard-left_keys.jpg "wikilink") Tab 키\]\] **Tab 키**(탭 키, tab key, tabulator key)는 다음 탭 정지까지 커서를 우선시키는 데 쓰이는 [컴퓨터 자판의](https://ko.wikipedia.org/wiki/컴퓨터_자판 "wikilink") 글쇠이다.
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Keyboard-left_keys.jpg "wikilink") Tab 키\]\] **Tab 키**(탭 키, tab key, tabulator key)는 다음 탭 정지까지 커서를 우선시키는 데 쓰이는 [컴퓨터 자판의](../Page/컴퓨터_자판.md "wikilink") 글쇠이다.
 
 탭 키는 커서를 한꺼번에 여러 칸씩 움직일 수 있도록 만든 것으로, 이 키를 한 번 누를 때마다 보통 8칸씩 오른쪽으로 커서가 움직인다. 반대로 시프트 키를 누른 상태에서 이 키를 누르면 커서가 왼쪽으로 8칸씩 움직인다. 컴퓨터에 따라서는 한번에 움직일 수 있는 칸을 사용자가 마음대로 정할 수도 있다.
 
@@ -11,7 +11,7 @@
 
 ## 탭 문자
 
-가장 잘 알려진 탭으로는 수평 탭 (horizontal tab, HT)으로서, ASCII에서는 10진 문자 코드 9를 가지며 (^I)를 가리킬 수도 있다. C나 수많은 [프로그래밍 언어에서는](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink") `\t`라는 이스케이프 코드를 사용한다.
+가장 잘 알려진 탭으로는 수평 탭 (horizontal tab, HT)으로서, ASCII에서는 10진 문자 코드 9를 가지며 (^I)를 가리킬 수도 있다. C나 수많은 [프로그래밍 언어에서는](../Page/프로그래밍_언어.md "wikilink") `\t`라는 이스케이프 코드를 사용한다.
 
 수직 탭(vertical tab, VT)도 존재하며 [ASCII](https://ko.wikipedia.org/wiki/미국정보교환표준부호 "wikilink") 십진 문자 코드 11 (, ^K)에 해당하며 이스케이프 문자 `\v`를 가리킨다.
 

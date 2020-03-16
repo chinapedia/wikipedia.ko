@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Everyday II](https://ko.wikipedia.org/wiki/Everyday_II).
 
 
-《**Everyday II**》는 2012년 4월 18일에 발매된 [걸스데이](https://ko.wikipedia.org/wiki/걸스데이 "wikilink")의 두 번째 미니앨범이다.
+《**Everyday II**》는 2012년 4월 18일에 발매된 [걸스데이](../Page/걸스데이.md "wikilink")의 두 번째 미니앨범이다.
 
 ## 트랙 리스트
 

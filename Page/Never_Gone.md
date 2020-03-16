@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Never Gone](https://ko.wikipedia.org/wiki/Never_Gone).
 
 
-**Never Gone**은 [백스트리트 보이즈의](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink") 음반으로, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 발매되었다.
+**Never Gone**은 [백스트리트 보이즈의](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink") 음반으로, [2005년](../Page/2005년.md "wikilink") 발매되었다.
 
 ## 트랙리스트
 

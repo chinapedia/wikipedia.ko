@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [You \& I \(w-inds. \)](https://ko.wikipedia.org/wiki/You_\&_I_\(w-inds._\)).
 
 
-〈**You & I**〉는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 30번째 싱글로, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 17일에](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") 발매되었다.
+〈**You & I**〉는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 30번째 싱글로, [2011년](../Page/2011년.md "wikilink") [8월 17일에](../Page/8월_17일.md "wikilink") 발매되었다.
 
 ## 트랙리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [See You Again \(  \)](https://ko.wikipedia.org/wiki/See_You_Again_\(__\)).
 
 
-**See You Again**은 [마일리 사이러스의](../Page/마일리_사이러스.md "wikilink") 싱글이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 19일](https://ko.wikipedia.org/wiki/12월_19일 "wikilink") [할리우드 레코드에](https://ko.wikipedia.org/wiki/할리우드_레코드 "wikilink") 의해 발매되었다. 음반 [Meet Miley Cyrus에](https://ko.wikipedia.org/wiki/Meet_Miley_Cyrus "wikilink") 수록되어 있으며, 데뷔 싱글이다.
+**See You Again**은 [마일리 사이러스의](../Page/마일리_사이러스.md "wikilink") 싱글이다. [2007년](../Page/2007년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") [할리우드 레코드에](https://ko.wikipedia.org/wiki/할리우드_레코드 "wikilink") 의해 발매되었다. 음반 [Meet Miley Cyrus에](https://ko.wikipedia.org/wiki/Meet_Miley_Cyrus "wikilink") 수록되어 있으며, 데뷔 싱글이다.
 
 ## 트랙리스트
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Another World \(w-inds. \)](https://ko.wikipedia.org/wiki/Another_World_\(w-inds._\)).
 
 
-| 이 앨범에 수록된 싱글                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------- |
-| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 13일](https://ko.wikipedia.org/wiki/5월_13일 "wikilink")   |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink")   |
+| 이 앨범에 수록된 싱글                                                                  |
+| ----------------------------------------------------------------------------- |
+| [2008년](../Page/2008년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") |
+| [2009년](../Page/2009년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink")   |
+| [2009년](../Page/2009년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink")   |
 
-《**Another World**》(어나더월드)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 8번째 앨범이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 10일](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") 발매되었다.
+《**Another World**》(어나더월드)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 8번째 앨범이다. [2010년](../Page/2010년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") 발매되었다.
 
 ## 해설
 

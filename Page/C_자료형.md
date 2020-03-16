@@ -3,7 +3,7 @@
 
 [C 프로그래밍 언어에서](https://ko.wikipedia.org/wiki/C_프로그래밍_언어 "wikilink") **자료형**은 데이터의 특징을 결정하는 [메모리 위치나](../Page/메모리_주소.md "wikilink") [변수](https://ko.wikipedia.org/wiki/변수 "wikilink")의 선언이다.
 
-C 언어는 [정수](https://ko.wikipedia.org/wiki/정수 "wikilink")와 [실수](https://ko.wikipedia.org/wiki/실수 "wikilink")형과 같은 기초적인 산술형, 그리고 배열과 복합형을 만드는 문법을 제공한다.
+C 언어는 [정수](../Page/정수.md "wikilink")와 [실수](https://ko.wikipedia.org/wiki/실수 "wikilink")형과 같은 기초적인 산술형, 그리고 배열과 복합형을 만드는 문법을 제공한다.
 
 ## 기초 자료형
 

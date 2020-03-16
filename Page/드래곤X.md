@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
 
 
-**드래곤X**(DragonX)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [클래시 로얄](../Page/클래시_로얄.md "wikilink"), 왕자영요 [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 이전에는 [스타크래프트 II팀도](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 운영하였다.
+**드래곤X**(DragonX)는 [대한민국](../Page/대한민국.md "wikilink")의 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [클래시 로얄](../Page/클래시_로얄.md "wikilink"), 왕자영요 [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 이전에는 [스타크래프트 II팀도](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 운영하였다.
 
 ## 내력
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 아마추어 [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink") 게임단을 운영했던 [강동훈](../Page/강동훈.md "wikilink") 감독이 전 스타크래프트 프로게이머 [정종현](https://ko.wikipedia.org/wiki/정종현 "wikilink"), [최인규](https://ko.wikipedia.org/wiki/최인규_\(프로게이머\) "wikilink"),[안상원](https://ko.wikipedia.org/wiki/안상원 "wikilink"), [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink")을 주축으로 스타크래프트 II 프로게임단 **IM**을 창단하였다.\[1\]
+[2010년](../Page/2010년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 아마추어 [스타크래프트](../Page/스타크래프트.md "wikilink") 게임단을 운영했던 [강동훈](../Page/강동훈.md "wikilink") 감독이 전 스타크래프트 프로게이머 [정종현](../Page/정종현.md "wikilink"), [최인규](https://ko.wikipedia.org/wiki/최인규_\(프로게이머\) "wikilink"),[안상원](https://ko.wikipedia.org/wiki/안상원 "wikilink"), [임재덕](../Page/임재덕.md "wikilink")을 주축으로 스타크래프트 II 프로게임단 **IM**을 창단하였다.\[1\]
 
 2012년 4월 26일 LG전자와 공식 후원 계약을 하며 **LG-IM**으로 활동하게 되었다.
 
@@ -15,7 +15,7 @@
 
 2013년 8월에는 2012년 10월부터 LG전자로부터 계약은 연장되었으나 후원금이 오지 않은 채로 LG-IM의 이름만을 계속 사용한 것이 드러나 논란이 되었고, 결국 LG전자의 스폰서가 종료되면서 팀 이름이 LG를 뺀 Incredible Miracle로 돌아오게 되었다.
 
-2013년 11월 16일 부로 [MVP](../Page/MVP_\(e스포츠\).md "wikilink"), [스베누 코리아](https://ko.wikipedia.org/wiki/스베누_코리아 "wikilink"), [브리온 블레이드와](https://ko.wikipedia.org/wiki/브리온_블레이드 "wikilink") 함께 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")에 가입하였다\[2\]\[3\].
+2013년 11월 16일 부로 [MVP](../Page/MVP_\(e스포츠\).md "wikilink"), [스베누 코리아](https://ko.wikipedia.org/wiki/스베누_코리아 "wikilink"), [브리온 블레이드와](../Page/브리온_블레이드.md "wikilink") 함께 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")에 가입하였다\[2\]\[3\].
 
 2014년 4월 임재덕이 IM과 결별하였다.
 
@@ -117,10 +117,10 @@
 <!-- end list -->
 
   - 2010년
-      - TG삼보-Intel 스타크래프트 II OPEN Season 1 64강 ([박경락](../Page/박경락.md "wikilink"), [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink"), [황강호](../Page/황강호.md "wikilink"))
+      - TG삼보-Intel 스타크래프트 II OPEN Season 1 64강 ([박경락](../Page/박경락.md "wikilink"), [임재덕](../Page/임재덕.md "wikilink"), [황강호](../Page/황강호.md "wikilink"))
       - **Sony Ericsson 스타크래프트 II OPEN Season 2 우승** (임재덕)
       - Sony Ericsson 스타크래프트 II OPEN Season 3 8강 (임재덕)
-      - **Absolute, Gainward 스타크래프트 ll Tournament 우승** ([정종현](https://ko.wikipedia.org/wiki/정종현 "wikilink")), 준우승 (임재덕)
+      - **Absolute, Gainward 스타크래프트 ll Tournament 우승** ([정종현](../Page/정종현.md "wikilink")), 준우승 (임재덕)
 
 <!-- end list -->
 
@@ -147,11 +147,11 @@
       - HOT6IX GSL Season 1 Code S 16강 (임재덕, 정종현)
       - **HOT6IX GSL Season 2 Code S 우승** (정종현)
       - **Monsieur J GSL Season 3 Code S 우승** (안상원)
-      - Homestory Cup V 준우승 ([최용화](https://ko.wikipedia.org/wiki/최용화 "wikilink"))
+      - Homestory Cup V 준우승 ([최용화](../Page/최용화.md "wikilink"))
       - **IEM Season 7 Gamescom 2012 Cologne 우승** (정종현)
       - MLG Summer Arena 3위 ([강현우](../Page/강현우.md "wikilink"))
       - MLG Summer Championship 준우승 (강현우)
-      - **[WCG 2012](https://ko.wikipedia.org/wiki/월드_사이버_게임즈_2012 "wikilink") 한국 대표 선발전 우승** (최용화)
+      - **[WCG 2012](../Page/월드_사이버_게임즈_2012.md "wikilink") 한국 대표 선발전 우승** (최용화)
       - HOT6IX GSL Season 4 Code S 준우승 (정종현)
 
 <!-- end list -->

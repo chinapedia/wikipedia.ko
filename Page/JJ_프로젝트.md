@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JJ ](https://ko.wikipedia.org/wiki/JJ_).
 
 
-**JJ Project**는 [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 멤버인 [JB와](../Page/JB_\(가수\).md "wikilink") [진영으로](../Page/진영_\(1994년\).md "wikilink") 구성된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 남성 듀오이다.
+**JJ Project**는 [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 멤버인 [JB와](../Page/JB_\(가수\).md "wikilink") [진영으로](../Page/진영_\(1994년\).md "wikilink") 구성된 [대한민국](../Page/대한민국.md "wikilink")의 남성 듀오이다.
 
 ## 구성원
 

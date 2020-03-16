@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DOCUMENTARY of AKB48 Show must go on    ](https://ko.wikipedia.org/wiki/DOCUMENTARY_of_AKB48_Show_must_go_on____).
 
 
-《**Documentary of AKB48: Show must go on 소녀들은 상처받으며 꿈을 꾼다**》 ()는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 27일에](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") 개봉된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [다큐멘터리 영화이다](../Page/다큐멘터리_영화.md "wikilink"). [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는 〈AKB48는 상처받으며 어려움과 마주하는 불굴의 아이돌이다〉.
+《**Documentary of AKB48: Show must go on 소녀들은 상처받으며 꿈을 꾼다**》 ()는 [2012년](../Page/2012년.md "wikilink") [1월 27일에](../Page/1월_27일.md "wikilink") 개봉된 [일본](../Page/일본.md "wikilink")의 [다큐멘터리 영화이다](../Page/다큐멘터리_영화.md "wikilink"). [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는 〈AKB48는 상처받으며 어려움과 마주하는 불굴의 아이돌이다〉.
 
 ## 설명
 
@@ -12,7 +12,7 @@
 ## 제작진
 
   - 감독: 다카하시 에이키
-  - 기획: [아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink")
+  - 기획: [아키모토 야스시](../Page/아키모토_야스시.md "wikilink")
   - 주제가: AKB48 〈퍼스트 래빗〉 ()
   - 편집: 이토 준이치
   - 내레이션: [노토 마미코](https://ko.wikipedia.org/wiki/노토_마미코 "wikilink")
