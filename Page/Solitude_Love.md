@@ -10,7 +10,7 @@
 1.  사랑을 믿어요 ([유안아](https://ko.wikipedia.org/wiki/유안아 "wikilink") 작사·곡)
 2.  **해바라기도 가끔 목이 아프죠** (히로세 코미 작곡, 양재선 작사)
 3.  **이별이라는 이름** ([양정승](https://ko.wikipedia.org/wiki/양정승 "wikilink") 작사·곡)
-4.  **행복하지 말아요** (히로세 코미 작곡, [양재선](https://ko.wikipedia.org/wiki/양재선 "wikilink") 작사)
+4.  **행복하지 말아요** (히로세 코미 작곡, [양재선](../Page/양재선.md "wikilink") 작사)
 5.  아직 슬픈 사랑의 노래 (유안아 작사·곡)
 6.  거짓 이별 (히로세 코미 작곡, [이소연](https://ko.wikipedia.org/wiki/이소연_\(작사가\) "wikilink") 작사)
 7.  날 위한 연극(시나리오) ([이태윤](https://ko.wikipedia.org/wiki/이태윤 "wikilink") 작곡, 이소연 작사)

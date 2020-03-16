@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Q](https://ko.wikipedia.org/wiki/Q).
 
 
-**Q자료** 또는 **Q문서**는 [예수](https://ko.wikipedia.org/wiki/예수 "wikilink")의 어록이라고 생각되는 구절들로 이루어진 가상의 [기독교](https://ko.wikipedia.org/wiki/기독교 "wikilink") 문서를 말한다. Q라는 명칭은 출처 또는 원천을 말하는 [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink") Quelle에서 유래했다. 주로 예수의 설교를 담은 어록 복음서일 것으로 본다. [공관복음서 문제에](https://ko.wikipedia.org/wiki/공관복음#공관복음서_문제 "wikilink") 가장 널리 알려진 해법은 Q자료가 있었다고 보는 것이다. 한국에서 [장신대학교의](https://ko.wikipedia.org/wiki/장로회신학대학교 "wikilink") [소기천](../Page/소기천.md "wikilink") 박사가 이 분야에서는 세계적인 권위자이다.\[1\]\[2\]
+**Q자료** 또는 **Q문서**는 [예수](../Page/예수.md "wikilink")의 어록이라고 생각되는 구절들로 이루어진 가상의 [기독교](../Page/기독교.md "wikilink") 문서를 말한다. Q라는 명칭은 출처 또는 원천을 말하는 [독일어](../Page/독일어.md "wikilink") Quelle에서 유래했다. 주로 예수의 설교를 담은 어록 복음서일 것으로 본다. [공관복음서 문제에](https://ko.wikipedia.org/wiki/공관복음#공관복음서_문제 "wikilink") 가장 널리 알려진 해법은 Q자료가 있었다고 보는 것이다. 한국에서 [장신대학교의](../Page/장로회신학대학교.md "wikilink") [소기천](../Page/소기천.md "wikilink") 박사가 이 분야에서는 세계적인 권위자이다.\[1\]\[2\]
 
 ## 공관복음서 문제
 
-공관복음서 중 [마태오 복음서](https://ko.wikipedia.org/wiki/마태오_복음서 "wikilink")([마태 복음서](https://ko.wikipedia.org/wiki/마태_복음서 "wikilink"))과 [누가 복음서](https://ko.wikipedia.org/wiki/누가_복음서 "wikilink")([누가 복음서](https://ko.wikipedia.org/wiki/누가_복음서 "wikilink"))의 많은 부분은 중복되어 있다. 예를 들면 마태오 복음서 3장 7절-10절과 누가복음서 3장 7절-9절까지의 [그리스어](https://ko.wikipedia.org/wiki/그리스어 "wikilink") 판본은 단어 하나와 글자 하나만 다를 뿐 완전히 똑같은 단어와 문장으로 되어 있다. 이런 일치에 대한 문제를 공관복음서 문제라고 한다.
+공관복음서 중 [마태오 복음서](https://ko.wikipedia.org/wiki/마태오_복음서 "wikilink")([마태 복음서](https://ko.wikipedia.org/wiki/마태_복음서 "wikilink"))과 [누가 복음서](https://ko.wikipedia.org/wiki/누가_복음서 "wikilink")([누가 복음서](https://ko.wikipedia.org/wiki/누가_복음서 "wikilink"))의 많은 부분은 중복되어 있다. 예를 들면 마태오 복음서 3장 7절-10절과 누가복음서 3장 7절-9절까지의 [그리스어](../Page/그리스어.md "wikilink") 판본은 단어 하나와 글자 하나만 다를 뿐 완전히 똑같은 단어와 문장으로 되어 있다. 이런 일치에 대한 문제를 공관복음서 문제라고 한다.
 
 이 둘이 한 출처에서 왔다는 것이 설득력 있으며, 이러한 공통의 출처를 Q문서로 본다.
 
@@ -15,13 +15,13 @@
 
 ## 두 문서 가설
 
-성서학자들은 [마태오](https://ko.wikipedia.org/wiki/마태오 "wikilink")와 [루가](https://ko.wikipedia.org/wiki/루가 "wikilink")가 모두 50-60년사이에 형성되었을 것으로 보이는 가상의 문서를 사용했을 것으로 추정하는데, 이 가상의 문서를 Q문서라고 부른다. Q문서라는 이름은 출처 또는 원천을 뜻하는 [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink") Quelle(한국어 읽기:크벨레)에서 왔는데, 성서학자들은 이 Q문서를 마태오와 루가가 마르코복음서와 더불어 사용한 공동자료라고 본다. 이를 **두 문서 가설** 또는 **두 자료 가설**이라고 부른다. 이의 변형인 네 문서 가설은 [마르코 복음서와](https://ko.wikipedia.org/wiki/마르코_복음서 "wikilink") Q문서를 바탕으로, 루가(누가)는 L문서(또는 예수에 대한 구전자료)을 따로 참조했고, 마태오는 M문서(또는 예수에 대한 구전자료)을 따로 참조했다고 보는 것이다. 실례로 루가는 루가 복음서(누가 복음서) 서문에서 [예수](https://ko.wikipedia.org/wiki/예수 "wikilink")에 대한 자료를 자세히 살폈으며 이는 모두 사실이라고 주장했다.
+성서학자들은 [마태오](https://ko.wikipedia.org/wiki/마태오 "wikilink")와 [루가](../Page/루가.md "wikilink")가 모두 50-60년사이에 형성되었을 것으로 보이는 가상의 문서를 사용했을 것으로 추정하는데, 이 가상의 문서를 Q문서라고 부른다. Q문서라는 이름은 출처 또는 원천을 뜻하는 [독일어](../Page/독일어.md "wikilink") Quelle(한국어 읽기:크벨레)에서 왔는데, 성서학자들은 이 Q문서를 마태오와 루가가 마르코복음서와 더불어 사용한 공동자료라고 본다. 이를 **두 문서 가설** 또는 **두 자료 가설**이라고 부른다. 이의 변형인 네 문서 가설은 [마르코 복음서와](https://ko.wikipedia.org/wiki/마르코_복음서 "wikilink") Q문서를 바탕으로, 루가(누가)는 L문서(또는 예수에 대한 구전자료)을 따로 참조했고, 마태오는 M문서(또는 예수에 대한 구전자료)을 따로 참조했다고 보는 것이다. 실례로 루가는 루가 복음서(누가 복음서) 서문에서 [예수](../Page/예수.md "wikilink")에 대한 자료를 자세히 살폈으며 이는 모두 사실이라고 주장했다.
 
 ## Q문서가 있었다고 생각되는 이유
 
-  - [개신교](https://ko.wikipedia.org/wiki/개신교 "wikilink") 신약성서학자 김득중은 [마태오 복음서에](https://ko.wikipedia.org/wiki/마태오_복음서 "wikilink") 나오는 종말에 대한 가르침이 Q문서에서 인용한 것이라고 단언한다.\[3\]
+  - [개신교](../Page/개신교.md "wikilink") 신약성서학자 김득중은 [마태오 복음서에](https://ko.wikipedia.org/wiki/마태오_복음서 "wikilink") 나오는 종말에 대한 가르침이 Q문서에서 인용한 것이라고 단언한다.\[3\]
   - [로마 가톨릭](https://ko.wikipedia.org/wiki/로마_가톨릭 "wikilink") 성서학자 정양모는 그 자신이 어록이라고 부르는 Q문서가 [50년](https://ko.wikipedia.org/wiki/50년 "wikilink")에서 [60년](https://ko.wikipedia.org/wiki/60년 "wikilink")사이에 형성되었으며, [마태오 복음서](https://ko.wikipedia.org/wiki/마태오_복음서 "wikilink")([마태복음서](https://ko.wikipedia.org/wiki/마태복음서 "wikilink"))와 [루가 복음서](https://ko.wikipedia.org/wiki/루가_복음서 "wikilink")(누가복음서)의 특정 장절을 Q문서에서 가져온 문서라고 분석하였다. 특히 루가복음서는 Q문서의 내용을 통째로 가져와서 편집했다고 본다.\[4\]
-  - 두 자료설을 주장하는 신약성서학자들은 [마태오](https://ko.wikipedia.org/wiki/마태오 "wikilink")와 [루가](https://ko.wikipedia.org/wiki/루가 "wikilink")가 마르코복음서와 공유자료로 추정되는 Q문서를 자료로 사용하여 [복음서](https://ko.wikipedia.org/wiki/복음서 "wikilink")를 썼다고 본다.\[5\]
+  - 두 자료설을 주장하는 신약성서학자들은 [마태오](https://ko.wikipedia.org/wiki/마태오 "wikilink")와 [루가](../Page/루가.md "wikilink")가 마르코복음서와 공유자료로 추정되는 Q문서를 자료로 사용하여 [복음서](../Page/복음서.md "wikilink")를 썼다고 본다.\[5\]
   - 신약성서학자 브래드 스캇은 루가 복음서에 나오는 겨자씨 비유가 Q문서에도 있다는 점을 다른 복음서들과 신약 외경인 [토마 복음서와](https://ko.wikipedia.org/wiki/도마_복음 "wikilink") 비교하면서 주장하였다.\[6\]
 
 ## Q문서가 없었다고 생각되는 이유
@@ -43,7 +43,7 @@
 
   - Kloppenborg
   - Mack
-  - [예수 세미나](https://ko.wikipedia.org/wiki/예수_세미나 "wikilink")
+  - [예수 세미나](../Page/예수_세미나.md "wikilink")
 
 ## 참고문헌
 

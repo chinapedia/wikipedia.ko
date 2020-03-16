@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SPC](https://ko.wikipedia.org/wiki/SPC).
 
 
-**SPC삼립**(SPC三立(食品),SPC Samlip Corporation)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [제빵](https://ko.wikipedia.org/wiki/제빵 "wikilink") 전문 식품회사다. SPC삼립은 [SPC그룹](https://ko.wikipedia.org/wiki/SPC그룹 "wikilink")에 편입되고서 [샤니](https://ko.wikipedia.org/wiki/샤니 "wikilink") 브랜드 제품도 생산하며, 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [시흥시](https://ko.wikipedia.org/wiki/시흥시 "wikilink") 공단1대로 101(정왕동)에 있다.
+**SPC삼립**(SPC三立(食品),SPC Samlip Corporation)은 [대한민국](../Page/대한민국.md "wikilink")의 [제빵](https://ko.wikipedia.org/wiki/제빵 "wikilink") 전문 식품회사다. SPC삼립은 [SPC그룹](../Page/SPC그룹.md "wikilink")에 편입되고서 [샤니](https://ko.wikipedia.org/wiki/샤니 "wikilink") 브랜드 제품도 생산하며, 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [시흥시](../Page/시흥시.md "wikilink") 공단1대로 101(정왕동)에 있다.
 
 ## 연혁
 
@@ -11,13 +11,13 @@
   - 1966년 04월 **삼립산업 제빵공사**로 상호 변경하고 [외국](https://ko.wikipedia.org/wiki/외국 "wikilink")에서 [제빵기기](https://ko.wikipedia.org/wiki/제빵사 "wikilink") 도입시설 하여 제빵 전문생산
   - 1968년 06월 28일 **삼립식품공업주식회사** 설립
   - 1969년 04월 [구로구](https://ko.wikipedia.org/wiki/구로구 "wikilink") 가리봉동 산 67의 2에 신사옥 준공
-  - 1978년 11월 14일 [청주시](https://ko.wikipedia.org/wiki/청주시 "wikilink") 청주공업단지 제2공단 1블록에 청주공장 준공 가동
+  - 1978년 11월 14일 [청주시](../Page/청주시.md "wikilink") 청주공업단지 제2공단 1블록에 청주공장 준공 가동
   - 1980년 06월 1일 데코마스 도입에 따른 심볼마크 변경
   - 1989년 01월 대구공장 준공 가동
   - 1995년 01월 삼립식품공업(주)에서 (주)**삼립G.F**로 상호 변경
   - 1995년 03월 시화공단 내 신공장 준공
   - 1997년 03월 14일 (주)삼립G.F에서 (주)**삼립식품**으로 상호 변경
-  - 2002년 11월 25일 [SPC그룹](https://ko.wikipedia.org/wiki/SPC그룹 "wikilink")으로 편입
+  - 2002년 11월 25일 [SPC그룹](../Page/SPC그룹.md "wikilink")으로 편입
   - 2006년 03월 고급 떡 프랜차이즈 '빚은' 사업 개시
   - 2009년 02월 샌드위치 전문회사 (주)**샌드스마일** 설립
   - 2010년 02월 고급 떡 프랜차이즈 '빚은', 키자니아 서울 내 '떡집' 체험관 오픈
@@ -58,10 +58,10 @@
 
 ## 계열사
 
-  - [SPC그룹](https://ko.wikipedia.org/wiki/SPC그룹 "wikilink")
+  - [SPC그룹](../Page/SPC그룹.md "wikilink")
   - [파리바게뜨](../Page/파리크라상.md "wikilink")
   - 비알코리아
-      - [배스킨라빈스](https://ko.wikipedia.org/wiki/배스킨라빈스 "wikilink")
+      - [배스킨라빈스](../Page/배스킨라빈스.md "wikilink")
       - [던킨 도너츠](../Page/던킨_도너츠.md "wikilink")
   - [샤니](https://ko.wikipedia.org/wiki/샤니 "wikilink")
   - SPC로지스틱스

@@ -1,34 +1,34 @@
 > This article is converted from Wikipedia: [KTX-](https://ko.wikipedia.org/wiki/KTX-).
 
 
-**KTX-산천**(KTX-山川, KTX-Sancheon) 또는 **SRT**(Super Rapid Train)는 [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")와 [에스알](../Page/에스알.md "wikilink")에서 각각 운용하는 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 차량이다. 기존 [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink")\[1\]의 후계 차량이라는 점에서 초기에는 “KTX-II”로 불리었으나, 한국철도공사에서 연 공모전의 결과 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") “KTX-산천”이라는 명칭이 확정되었다. 차량은 한국철도공사가 직접 보유, 운영하는 110000호대와 140000호대, 한국철도공사가 보유하고 에스알이 이를 임대해서 운용하는 120000호대, 에스알이 직접 보유 및 운용하는 130000호대로 구분된다. 시험차량 [HSR-350x](../Page/HSR-350x.md "wikilink")의 시험 결과를 반영하여 설계되었으며, 모든 차량이 [현대로템](https://ko.wikipedia.org/wiki/현대로템 "wikilink")에서 제작되었다.
+**KTX-산천**(KTX-山川, KTX-Sancheon) 또는 **SRT**(Super Rapid Train)는 [한국철도공사](../Page/한국철도공사.md "wikilink")와 [에스알](../Page/에스알.md "wikilink")에서 각각 운용하는 [고속철도](../Page/고속철도.md "wikilink") 차량이다. 기존 [KTX-I](../Page/KTX-I.md "wikilink")\[1\]의 후계 차량이라는 점에서 초기에는 “KTX-II”로 불리었으나, 한국철도공사에서 연 공모전의 결과 [2010년](../Page/2010년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") “KTX-산천”이라는 명칭이 확정되었다. 차량은 한국철도공사가 직접 보유, 운영하는 110000호대와 140000호대, 한국철도공사가 보유하고 에스알이 이를 임대해서 운용하는 120000호대, 에스알이 직접 보유 및 운용하는 130000호대로 구분된다. 시험차량 [HSR-350x](../Page/HSR-350x.md "wikilink")의 시험 결과를 반영하여 설계되었으며, 모든 차량이 [현대로템](../Page/현대로템.md "wikilink")에서 제작되었다.
 
-[한국고속철도](https://ko.wikipedia.org/wiki/한국고속철도 "wikilink")(KTX), [수서고속철도](https://ko.wikipedia.org/wiki/수서고속철도 "wikilink")(SRT)에서 사용된다.
+[한국고속철도](../Page/한국고속철도.md "wikilink")(KTX), [수서고속철도](../Page/수서고속철도.md "wikilink")(SRT)에서 사용된다.
 
 ## 성능
 
-KTX-산천은 [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink"), [HSR-350x](../Page/HSR-350x.md "wikilink")를 바탕에 두고 제작되었다. 따라서 해당 차량들로부터 바뀐 성능을 아래에 나열한다.
+KTX-산천은 [KTX-I](../Page/KTX-I.md "wikilink"), [HSR-350x](../Page/HSR-350x.md "wikilink")를 바탕에 두고 제작되었다. 따라서 해당 차량들로부터 바뀐 성능을 아래에 나열한다.
 
-### [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink") 과의 차이점
+### [KTX-I](../Page/KTX-I.md "wikilink") 과의 차이점
 
-  - 주전동기를 [동기전동기](https://ko.wikipedia.org/wiki/동기전동기 "wikilink")에서 [현대로템](https://ko.wikipedia.org/wiki/현대로템 "wikilink")에서 제작한 1,100 kW급 [유도전동기](../Page/유도전동기.md "wikilink") 8개로 바꾸어 유지·보수의 간략화를 도모했다.
-  - [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink") 차량이 마일드 스틸제 싱글 스킨 구조인데 비해, KTX-산천은 알루미늄제 [더블스킨 구조를](https://ko.wikipedia.org/wiki/더블스킨_구조 "wikilink") 채용하여 이에 따른 기밀성 강화와 소음 저감을 도모했다. 현대로템의 발표에 의하면 300 km/h 주행시 64 [dB의](https://ko.wikipedia.org/wiki/데시벨 "wikilink") 소음치를 달성했는데, 이것은 KTX-I에 비해 2 dB 정도 낮은 수치이다.
+  - 주전동기를 [동기전동기](https://ko.wikipedia.org/wiki/동기전동기 "wikilink")에서 [현대로템](../Page/현대로템.md "wikilink")에서 제작한 1,100 kW급 [유도전동기](../Page/유도전동기.md "wikilink") 8개로 바꾸어 유지·보수의 간략화를 도모했다.
+  - [KTX-I](../Page/KTX-I.md "wikilink") 차량이 마일드 스틸제 싱글 스킨 구조인데 비해, KTX-산천은 알루미늄제 [더블스킨 구조를](https://ko.wikipedia.org/wiki/더블스킨_구조 "wikilink") 채용하여 이에 따른 기밀성 강화와 소음 저감을 도모했다. 현대로템의 발표에 의하면 300 km/h 주행시 64 [dB의](../Page/데시벨.md "wikilink") 소음치를 달성했는데, 이것은 KTX-I에 비해 2 dB 정도 낮은 수치이다.
   - 객차의 차폭이 2,904 mm에서 2,970 mm 으로 확대되었다.
   - 대차의 구조는 1차 현가 장치에 코일 스프링이 적용되었고, [2차 현가 장치에는](https://ko.wikipedia.org/wiki/2차_현가_장치 "wikilink") 코일 스프링, [공기 용수철](https://ko.wikipedia.org/wiki/공기_용수철 "wikilink"), 안티 롤 바가 적용되어 있다.
-  - 공기 저항을 줄이기 위해 몸체는 [산천어](https://ko.wikipedia.org/wiki/산천어 "wikilink")를 모티브로 유선형으로 제작되었다.
+  - 공기 저항을 줄이기 위해 몸체는 [산천어](../Page/산천어.md "wikilink")를 모티브로 유선형으로 제작되었다.
 
 ### [HSR-350x](../Page/HSR-350x.md "wikilink") 과의 차이점
 
-  - 전력제어소자로 [절연 게이트 양극성 트랜지스터](../Page/절연_게이트_양극성_트랜지스터.md "wikilink")(IGBT)를 사용한다. [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 차량의 개념설계가 행해지고 있었던 1996년 당시 IGBT 출력이 1,100 kW에 달하는 주전동기 제어가 불가능해서, 전력제어소자로 대전력 제어가 가능한 [게이트 턴 오프 사이리스터](../Page/게이트_턴_오프_사이리스터.md "wikilink")(GTO) 소자 중 효율이 높은 [통합 게이트 정류 사이리스터](https://ko.wikipedia.org/wiki/통합_게이트_정류_사이리스터 "wikilink")(IGCT)를 사용하는 것으로 결정되었다. 그러나 HSR-350x의 시험운행 결과 IGCT의 비효율성이 드러났고, [전력 전자공학](https://ko.wikipedia.org/wiki/전력_전자공학 "wikilink") 발달로 IGBT를 이용한 대전력의 제어가 용이해지면서 양산형 차량인 KTX-산천은 히트 파이프를 이용한 강제 냉각 방식의 IGBT 인버터 제어 방식을 채용하였다.
-  - [와전류제동](https://ko.wikipedia.org/wiki/와전류제동 "wikilink")이 제거되었다.
+  - 전력제어소자로 [절연 게이트 양극성 트랜지스터](../Page/절연_게이트_양극성_트랜지스터.md "wikilink")(IGBT)를 사용한다. [고속철도](../Page/고속철도.md "wikilink") 차량의 개념설계가 행해지고 있었던 1996년 당시 IGBT 출력이 1,100 kW에 달하는 주전동기 제어가 불가능해서, 전력제어소자로 대전력 제어가 가능한 [게이트 턴 오프 사이리스터](../Page/게이트_턴_오프_사이리스터.md "wikilink")(GTO) 소자 중 효율이 높은 [통합 게이트 정류 사이리스터](../Page/통합_게이트_정류_사이리스터.md "wikilink")(IGCT)를 사용하는 것으로 결정되었다. 그러나 HSR-350x의 시험운행 결과 IGCT의 비효율성이 드러났고, [전력 전자공학](https://ko.wikipedia.org/wiki/전력_전자공학 "wikilink") 발달로 IGBT를 이용한 대전력의 제어가 용이해지면서 양산형 차량인 KTX-산천은 히트 파이프를 이용한 강제 냉각 방식의 IGBT 인버터 제어 방식을 채용하였다.
+  - [와전류제동](../Page/와전류제동.md "wikilink")이 제거되었다.
 
 ### 특이 사항
 
-  - 두 개의 편성을 한대로 붙여 운행하는 방식의 중련 운행이 가능하다. 특히 양쪽 선두부에 전공일체 자동연결장치를 적용해 수요에 따른 탄력적 운용이 가능하며 [경부선](https://ko.wikipedia.org/wiki/경부선 "wikilink"), [동해선](https://ko.wikipedia.org/wiki/동해선 "wikilink"), [경전선](https://ko.wikipedia.org/wiki/경전선 "wikilink") / [호남선](https://ko.wikipedia.org/wiki/호남선 "wikilink"), [전라선](https://ko.wikipedia.org/wiki/전라선 "wikilink") 열차에서는 이를 이용한 중련 열차를 운행하고 있다. 중련 운행시 9, 10호차 없이 남측 편성의 차량번호가 11\~18호차로 변경된다. 급전은 각 편성이 별도로 편성 후미가 되는 동력차의 집전장치를 사용한다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 16일부터](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 31일까지는](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") 중련 운행이 일시 중단되기도 했다.\[2\]
+  - 두 개의 편성을 한대로 붙여 운행하는 방식의 중련 운행이 가능하다. 특히 양쪽 선두부에 전공일체 자동연결장치를 적용해 수요에 따른 탄력적 운용이 가능하며 [경부선](../Page/경부선.md "wikilink"), [동해선](https://ko.wikipedia.org/wiki/동해선 "wikilink"), [경전선](../Page/경전선.md "wikilink") / [호남선](../Page/호남선.md "wikilink"), [전라선](../Page/전라선.md "wikilink") 열차에서는 이를 이용한 중련 열차를 운행하고 있다. 중련 운행시 9, 10호차 없이 남측 편성의 차량번호가 11\~18호차로 변경된다. 급전은 각 편성이 별도로 편성 후미가 되는 동력차의 집전장치를 사용한다. [2011년](../Page/2011년.md "wikilink") [5월 16일부터](../Page/5월_16일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [10월 31일까지는](../Page/10월_31일.md "wikilink") 중련 운행이 일시 중단되기도 했다.\[2\]
 
 ## KTX-산천 110000호대 (A-Type)
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink") [현대로템](https://ko.wikipedia.org/wiki/현대로템 "wikilink")과 납품 계약을 체결하여 24편성이 도입되었다. 완성된 첫 편성은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 공개되었으며, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 17일](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") [수도권철도차량정비단](../Page/수도권철도차량정비단.md "wikilink")으로 회송되었다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 6편성, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 13편성, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 5편성이 도입되었으며, [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")는 시운전을 거쳐 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 13일](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") [서울역](https://ko.wikipedia.org/wiki/서울역 "wikilink")에서 열린 '타자\! 기차를\!' 발대식에서 정식으로 공개하였다. 현재 [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")가 소유한 24편성(240량)이 모두 영업 운행에 투입되었다. 차량 가격은 1편성 10량 기준 330억원이다.
+[2006년](../Page/2006년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") [현대로템](../Page/현대로템.md "wikilink")과 납품 계약을 체결하여 24편성이 도입되었다. 완성된 첫 편성은 [2008년](../Page/2008년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") 공개되었으며, [2009년](../Page/2009년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") [수도권철도차량정비단](../Page/수도권철도차량정비단.md "wikilink")으로 회송되었다. [2009년](../Page/2009년.md "wikilink") 6편성, [2010년](../Page/2010년.md "wikilink") 13편성, [2011년](../Page/2011년.md "wikilink") 5편성이 도입되었으며, [한국철도공사](../Page/한국철도공사.md "wikilink")는 시운전을 거쳐 [2009년](../Page/2009년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") [서울역](../Page/서울역.md "wikilink")에서 열린 '타자\! 기차를\!' 발대식에서 정식으로 공개하였다. 현재 [한국철도공사](../Page/한국철도공사.md "wikilink")가 소유한 24편성(240량)이 모두 영업 운행에 투입되었다. 차량 가격은 1편성 10량 기준 330억원이다.
 
 ### 실내 사양
 
@@ -38,14 +38,14 @@ KTX-산천은 [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink"), [HSR-350x
   - 특실용 좌석의 경우 자동 리클라이닝 기능이 추가되었으며, 최대 리클라이닝 각도는 기존 39도에서 43도로 향상되었다.
   - 창유리가 기존 29 mm의 3겹에서 38 mm의 4겹로 두꺼워져 소음 차단효과와 안전성이 향상되었다.
   - 특실 전 좌석과 일반실 8개소에 220 V 전원 콘센트가 설치되었다.
-  - 스낵바가 4호차에 설치되었다. 종전 식당차나 [새마을호](../Page/새마을호.md "wikilink"), [무궁화호](../Page/무궁화호.md "wikilink") 카페객차와 달리 [노래방](https://ko.wikipedia.org/wiki/노래방 "wikilink"), [안마](https://ko.wikipedia.org/wiki/안마 "wikilink"), [PC방](https://ko.wikipedia.org/wiki/PC방 "wikilink"), 게임기 시설이 없으며 식탁도 1인용이 아닌 마주보기식으로 되어 있어 공간이 좁다. 현재는 좌석으로 개조실시되고 있다.
+  - 스낵바가 4호차에 설치되었다. 종전 식당차나 [새마을호](../Page/새마을호.md "wikilink"), [무궁화호](../Page/무궁화호.md "wikilink") 카페객차와 달리 [노래방](../Page/노래방.md "wikilink"), [안마](../Page/안마.md "wikilink"), [PC방](https://ko.wikipedia.org/wiki/PC방 "wikilink"), 게임기 시설이 없으며 식탁도 1인용이 아닌 마주보기식으로 되어 있어 공간이 좁다. 현재는 좌석으로 개조실시되고 있다.
 
 ### 특이 사항
 
-  - 가속 성능이 향상되어, [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink")의 6분 5초에 비해 49초 줄어든 5분 16초만에 정지상태에서 최고속도인 300 km/h까지 도달할 수 있게 되었다\[3\].
-  - [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink") 전산망에서는 짧은줄표(-)를 넣어 **KTX-산천**으로 표기한다.
+  - 가속 성능이 향상되어, [KTX-I](../Page/KTX-I.md "wikilink")의 6분 5초에 비해 49초 줄어든 5분 16초만에 정지상태에서 최고속도인 300 km/h까지 도달할 수 있게 되었다\[3\].
+  - [한국철도공사](../Page/한국철도공사.md "wikilink") 전산망에서는 짧은줄표(-)를 넣어 **KTX-산천**으로 표기한다.
   - 109호기가 [특별 동차로](https://ko.wikipedia.org/wiki/특별_동차 "wikilink") 지정되어 있으며, 해당 차량은 영업 운전 시 1\~2호차를 개방하지 않고 운행한다.
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink") 140000호대 도입과 함께 편성 번호가 1호기 내지 24호기에서 백의 자리 1이 추가된 101호기 내지 124호기로 개번되었다.
+  - [2016년](../Page/2016년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") 140000호대 도입과 함께 편성 번호가 1호기 내지 24호기에서 백의 자리 1이 추가된 101호기 내지 124호기로 개번되었다.
 
 ### 편성
 
@@ -64,11 +64,11 @@ KTX-산천은 [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink"), [HSR-350x
 
 ## SRT 120000호대
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:KTX-Sancheon_120000_Series.jpg "wikilink") [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") [호남고속철도](https://ko.wikipedia.org/wiki/호남고속철도 "wikilink") 개통과 함께 도입된 [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink") 소유의 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 차량이며, 현재 [에스알](../Page/에스알.md "wikilink")로 임대되어 운행중이다. [한국철도시설공단](https://ko.wikipedia.org/wiki/한국철도시설공단 "wikilink")에서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 20일](https://ko.wikipedia.org/wiki/2월_20일 "wikilink") [현대로템](https://ko.wikipedia.org/wiki/현대로템 "wikilink")과 납품 계약을 체결해 22편성(220량)이 도입되었고, 완성된 첫 편성이 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") 공개되었다. [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")에서는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 2일부터](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") [호남고속철도](https://ko.wikipedia.org/wiki/호남고속철도 "wikilink") 개통과 함께 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 8일까지](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") **KTX_산천**으로 영업 운행에 투입하였다. 이후 [수서고속철도](https://ko.wikipedia.org/wiki/수서고속철도 "wikilink") 개통과 함께 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 9일부터](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") [에스알](../Page/에스알.md "wikilink")에 임대되면서 **SRT**로 변경되었다. 정비는 [호남철도차량정비단](../Page/호남철도차량정비단.md "wikilink")에 배속되어 시행한다. 차량 가격은 1편성 당 335억원이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:KTX-Sancheon_120000_Series.jpg "wikilink") [2015년](../Page/2015년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") [호남고속철도](../Page/호남고속철도.md "wikilink") 개통과 함께 도입된 [한국철도공사](../Page/한국철도공사.md "wikilink") 소유의 [고속철도](../Page/고속철도.md "wikilink") 차량이며, 현재 [에스알](../Page/에스알.md "wikilink")로 임대되어 운행중이다. [한국철도시설공단](../Page/한국철도시설공단.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") [현대로템](../Page/현대로템.md "wikilink")과 납품 계약을 체결해 22편성(220량)이 도입되었고, 완성된 첫 편성이 [2013년](../Page/2013년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") 공개되었다. [한국철도공사](../Page/한국철도공사.md "wikilink")에서는 [2015년](../Page/2015년.md "wikilink") [4월 2일부터](../Page/4월_2일.md "wikilink") [호남고속철도](../Page/호남고속철도.md "wikilink") 개통과 함께 [2016년](../Page/2016년.md "wikilink") [12월 8일까지](../Page/12월_8일.md "wikilink") **KTX_산천**으로 영업 운행에 투입하였다. 이후 [수서고속철도](../Page/수서고속철도.md "wikilink") 개통과 함께 [2016년](../Page/2016년.md "wikilink") [12월 9일부터](../Page/12월_9일.md "wikilink") [에스알](../Page/에스알.md "wikilink")에 임대되면서 **SRT**로 변경되었다. 정비는 [호남철도차량정비단](../Page/호남철도차량정비단.md "wikilink")에 배속되어 시행한다. 차량 가격은 1편성 당 335억원이다.
 
 ### 성능
 
-  - 가속 성능이 향상되어, 정지 상태로부터 최고 속도인 300 km/h까지의 도달 소요 시간이 [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink") 6분 5초, KTX-산천 110000호대 5분 16초보다 줄어든 4분 57초(거리 15.6km)다.\[4\]\[5\]
+  - 가속 성능이 향상되어, 정지 상태로부터 최고 속도인 300 km/h까지의 도달 소요 시간이 [KTX-I](../Page/KTX-I.md "wikilink") 6분 5초, KTX-산천 110000호대 5분 16초보다 줄어든 4분 57초(거리 15.6km)다.\[4\]\[5\]
   - 감속 성능도 향상되어, KTX-I과 KTX-산천 110000호대가 300 km/h 주행에서 정지하기까지 3300 m 이내의 제동거리가 요구되는 데에 비해, 3000 m(69초)만에 정지할 수 있게 되었다.\[6\]\[7\]
   - 전기공급이 차단되더라도 공압에 의해 작동할 수 있는 스페어 와이퍼를 추가 설치하였다.
   - 동력차와 객차를 연결하는 사이드버퍼의 헤드 연결부를 일체형으로 제작하여 강도와 안전성을 높였다.
@@ -105,7 +105,7 @@ KTX-산천은 [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink"), [HSR-350x
 
 ## SRT 130000호대
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") [수서고속철도](https://ko.wikipedia.org/wiki/수서고속철도 "wikilink") 개통과 함께 도입된 [에스알](../Page/에스알.md "wikilink") 소속 차량이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") 에스알과 [현대로템](https://ko.wikipedia.org/wiki/현대로템 "wikilink")이 납품 계약을 체결하였고, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") 완성된 첫 편성이 현대로템 창원공장에서 공개되었다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") [수서고속철도](https://ko.wikipedia.org/wiki/수서고속철도 "wikilink") 개통과 함께 총 10개 편성(100량)이 영업 운행에 투입되었다. 정비는 [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink") [부산철도차량정비단](https://ko.wikipedia.org/wiki/부산철도차량정비단 "wikilink")에 배속되어 시행한다.
+[2016년](../Page/2016년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") [수서고속철도](../Page/수서고속철도.md "wikilink") 개통과 함께 도입된 [에스알](../Page/에스알.md "wikilink") 소속 차량이다. [2014년](../Page/2014년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") 에스알과 [현대로템](../Page/현대로템.md "wikilink")이 납품 계약을 체결하였고, [2015년](../Page/2015년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") 완성된 첫 편성이 현대로템 창원공장에서 공개되었다. [2016년](../Page/2016년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") [수서고속철도](../Page/수서고속철도.md "wikilink") 개통과 함께 총 10개 편성(100량)이 영업 운행에 투입되었다. 정비는 [한국철도공사](../Page/한국철도공사.md "wikilink") [부산철도차량정비단](../Page/부산철도차량정비단.md "wikilink")에 배속되어 시행한다.
 
 ### 특이 사항
 
@@ -129,7 +129,7 @@ KTX-산천은 [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink"), [HSR-350x
 
 ## KTX_산천 140000호대 (B-Type)
 
-[2018년 동계 올림픽과](https://ko.wikipedia.org/wiki/2018년_동계_올림픽 "wikilink") [강릉선](https://ko.wikipedia.org/wiki/강릉선 "wikilink") 개통을 대비하여 도입된 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 차량이다. 한국철도공사 전산에서는 기존 110000호대(KTX-산천)와 구분하기 위해 기존 SRT 120000호대에서 사용했던 **KTX_산천**이라는 명칭을 사용한다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") 한국철도공사와 [현대로템](https://ko.wikipedia.org/wiki/현대로템 "wikilink")이 납품계약을 체결하여 총 15편성이 도입되었으며, 완성된 첫 편성이 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 10일](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") [현대로템](https://ko.wikipedia.org/wiki/현대로템 "wikilink") 창원공장에서 공개되었다. 현재 15개 편성이 도입되었다. 이중 412호기는 11월 4일 강릉선 KTX 시승식에 쓰였다. 차량 가격은 1편성 329억원이다. 기존 KTX-산천의 HID 램프에서 LED 램프로 교체되었고, 통유리에서 120000호대의 개별형으로 변경된 것이 특징이다. 또한 기존 산천에 쓰이던 디스크타입 IGBT가 단종되어 모듈형 스텍을 사용하였다. 기존 110000호대 산천과는 다르게 객실 측면에 출입문 표시등이 추가되었다.
+[2018년 동계 올림픽과](../Page/2018년_동계_올림픽.md "wikilink") [강릉선](../Page/강릉선.md "wikilink") 개통을 대비하여 도입된 [고속철도](../Page/고속철도.md "wikilink") 차량이다. 한국철도공사 전산에서는 기존 110000호대(KTX-산천)와 구분하기 위해 기존 SRT 120000호대에서 사용했던 **KTX_산천**이라는 명칭을 사용한다. [2014년](../Page/2014년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") 한국철도공사와 [현대로템](../Page/현대로템.md "wikilink")이 납품계약을 체결하여 총 15편성이 도입되었으며, 완성된 첫 편성이 [2016년](../Page/2016년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") [현대로템](../Page/현대로템.md "wikilink") 창원공장에서 공개되었다. 현재 15개 편성이 도입되었다. 이중 412호기는 11월 4일 강릉선 KTX 시승식에 쓰였다. 차량 가격은 1편성 329억원이다. 기존 KTX-산천의 HID 램프에서 LED 램프로 교체되었고, 통유리에서 120000호대의 개별형으로 변경된 것이 특징이다. 또한 기존 산천에 쓰이던 디스크타입 IGBT가 단종되어 모듈형 스텍을 사용하였다. 기존 110000호대 산천과는 다르게 객실 측면에 출입문 표시등이 추가되었다.
 
 ### 편성
 
@@ -154,122 +154,122 @@ KTX-산천은 [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink"), [HSR-350x
 
 총 24호기가 제작되어 도입되었으며, 이 차량들은 모두 운행중에 있다.
 
-| 차호      | 도입 시기                                                   | 운행 중단 시기                                                | 비고 |
-| ------- | ------------------------------------------------------- | ------------------------------------------------------- | -- |
-| **101** | [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") | 운행 중                                                    |    |
-| **102** | 운행 중                                                    |                                                         |    |
-| **103** | 운행 중                                                    | 일직터널 사고로 인해 일반석으로 환원 작업후 운행 재개                          |    |
-| **104** | 운행 중                                                    |                                                         |    |
-| **105** | 운행 중                                                    |                                                         |    |
-| **106** | 운행 중                                                    |                                                         |    |
-| **107** | [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") | 운행 중                                                    |    |
-| **108** | 운행 중                                                    |                                                         |    |
-| **109** | 운행 중                                                    | [특별 동차](https://ko.wikipedia.org/wiki/특별_동차 "wikilink") |    |
-| **110** | 운행 중                                                    |                                                         |    |
-| **111** | 운행 중                                                    |                                                         |    |
-| **112** | 운행 중                                                    |                                                         |    |
-| **113** | 운행 중                                                    |                                                         |    |
-| **114** | 운행 중                                                    |                                                         |    |
-| **115** | 운행 중                                                    |                                                         |    |
-| **116** | 운행 중                                                    |                                                         |    |
-| **117** | 운행 중                                                    |                                                         |    |
-| **118** | 운행 중                                                    |                                                         |    |
-| **119** | 운행 중                                                    |                                                         |    |
-| **120** | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") | 운행 중                                                    |    |
-| **121** | 운행 중                                                    |                                                         |    |
-| **122** | 운행 중                                                    |                                                         |    |
-| **123** | 운행 중                                                    |                                                         |    |
-| **124** | 운행 중                                                    |                                                         |    |
+| 차호      | 도입 시기                                | 운행 중단 시기                                                | 비고 |
+| ------- | ------------------------------------ | ------------------------------------------------------- | -- |
+| **101** | [2009년](../Page/2009년.md "wikilink") | 운행 중                                                    |    |
+| **102** | 운행 중                                 |                                                         |    |
+| **103** | 운행 중                                 | 일직터널 사고로 인해 일반석으로 환원 작업후 운행 재개                          |    |
+| **104** | 운행 중                                 |                                                         |    |
+| **105** | 운행 중                                 |                                                         |    |
+| **106** | 운행 중                                 |                                                         |    |
+| **107** | [2010년](../Page/2010년.md "wikilink") | 운행 중                                                    |    |
+| **108** | 운행 중                                 |                                                         |    |
+| **109** | 운행 중                                 | [특별 동차](https://ko.wikipedia.org/wiki/특별_동차 "wikilink") |    |
+| **110** | 운행 중                                 |                                                         |    |
+| **111** | 운행 중                                 |                                                         |    |
+| **112** | 운행 중                                 |                                                         |    |
+| **113** | 운행 중                                 |                                                         |    |
+| **114** | 운행 중                                 |                                                         |    |
+| **115** | 운행 중                                 |                                                         |    |
+| **116** | 운행 중                                 |                                                         |    |
+| **117** | 운행 중                                 |                                                         |    |
+| **118** | 운행 중                                 |                                                         |    |
+| **119** | 운행 중                                 |                                                         |    |
+| **120** | [2011년](../Page/2011년.md "wikilink") | 운행 중                                                    |    |
+| **121** | 운행 중                                 |                                                         |    |
+| **122** | 운행 중                                 |                                                         |    |
+| **123** | 운행 중                                 |                                                         |    |
+| **124** | 운행 중                                 |                                                         |    |
 
 ### 120000호대
 
 총 22호기가 제작되어 도입되었으며, 이 차량들은 모두 운행중에 있다.
 
-| 차호      | 도입 시기                                                   | 운행 중단 시기 | 비고 |
-| ------- | ------------------------------------------------------- | -------- | -- |
-| **201** | [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") | 운행 중     |    |
-| **202** | 운행 중                                                    |          |    |
-| **203** | 운행 중                                                    |          |    |
-| **204** | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") | 운행 중     |    |
-| **205** | 운행 중                                                    |          |    |
-| **206** | 운행 중                                                    |          |    |
-| **207** | 운행 중                                                    |          |    |
-| **208** | 운행 중                                                    |          |    |
-| **209** | 운행 중                                                    |          |    |
-| **210** | 운행 중                                                    |          |    |
-| **211** | 운행 중                                                    |          |    |
-| **212** | 운행 중                                                    |          |    |
-| **213** | 운행 중                                                    |          |    |
-| **214** | 운행 중                                                    |          |    |
-| **215** | 운행 중                                                    |          |    |
-| **216** | 운행 중                                                    |          |    |
-| **217** | 운행 중                                                    |          |    |
-| **218** | 운행 중                                                    |          |    |
-| **219** | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") | 운행 중     |    |
-| **220** | 운행 중                                                    |          |    |
-| **221** | 운행 중                                                    |          |    |
-| **222** | 운행 중                                                    |          |    |
+| 차호      | 도입 시기                                | 운행 중단 시기 | 비고 |
+| ------- | ------------------------------------ | -------- | -- |
+| **201** | [2013년](../Page/2013년.md "wikilink") | 운행 중     |    |
+| **202** | 운행 중                                 |          |    |
+| **203** | 운행 중                                 |          |    |
+| **204** | [2014년](../Page/2014년.md "wikilink") | 운행 중     |    |
+| **205** | 운행 중                                 |          |    |
+| **206** | 운행 중                                 |          |    |
+| **207** | 운행 중                                 |          |    |
+| **208** | 운행 중                                 |          |    |
+| **209** | 운행 중                                 |          |    |
+| **210** | 운행 중                                 |          |    |
+| **211** | 운행 중                                 |          |    |
+| **212** | 운행 중                                 |          |    |
+| **213** | 운행 중                                 |          |    |
+| **214** | 운행 중                                 |          |    |
+| **215** | 운행 중                                 |          |    |
+| **216** | 운행 중                                 |          |    |
+| **217** | 운행 중                                 |          |    |
+| **218** | 운행 중                                 |          |    |
+| **219** | [2015년](../Page/2015년.md "wikilink") | 운행 중     |    |
+| **220** | 운행 중                                 |          |    |
+| **221** | 운행 중                                 |          |    |
+| **222** | 운행 중                                 |          |    |
 
 ### 130000호대
 
 총 10호기가 제작되어 도입되었으며, 이 차량들은 모두 운행중에 있다.
 
-| 차호      | 도입 시기                                                   | 운행 중단 시기 | 비고 |
-| ------- | ------------------------------------------------------- | -------- | -- |
-| **301** | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") | 운행 중     |    |
-| **302** | 운행 중                                                    |          |    |
-| **303** | 운행 중                                                    |          |    |
-| **304** | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") | 운행 중     |    |
-| **305** | 운행 중                                                    |          |    |
-| **306** | 운행 중                                                    |          |    |
-| **307** | 운행 중                                                    |          |    |
-| **308** | 운행 중                                                    |          |    |
-| **309** | 운행 중                                                    |          |    |
-| **310** | 운행 중                                                    |          |    |
+| 차호      | 도입 시기                                | 운행 중단 시기 | 비고 |
+| ------- | ------------------------------------ | -------- | -- |
+| **301** | [2015년](../Page/2015년.md "wikilink") | 운행 중     |    |
+| **302** | 운행 중                                 |          |    |
+| **303** | 운행 중                                 |          |    |
+| **304** | [2016년](../Page/2016년.md "wikilink") | 운행 중     |    |
+| **305** | 운행 중                                 |          |    |
+| **306** | 운행 중                                 |          |    |
+| **307** | 운행 중                                 |          |    |
+| **308** | 운행 중                                 |          |    |
+| **309** | 운행 중                                 |          |    |
+| **310** | 운행 중                                 |          |    |
 
 ### 140000호대
 
 총 15호기가 제작되어 도입되었으며, 이중 탈선사고로 수리 중인 408호기를 제외한 총 14호기가 운행중이다.
 
-| 차호      | 도입 시기                                                   | 운행 중단 시기                                                                                                                                                                                                                                                                                     | 비고 |
-| ------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| **401** | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") | 운행 중                                                                                                                                                                                                                                                                                         |    |
-| **402** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
-| **403** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
-| **404** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
-| **405** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
-| **406** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
-| **407** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
-| 408     | 2018년 12월 8일                                            | [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") 강릉선 강릉\~진부 구간에서 일어난 [탈선사고로](../Page/KTX_강릉선_탈선사고.md "wikilink") 강릉기지에서 수리받고 있다.                                                                                            |    |
-| **409** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
-| **410** | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | 운행 중                                                                                                                                                                                                                                                                                         |    |
-| **411** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
-| **412** | 운행 중                                                    | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") [강릉선](https://ko.wikipedia.org/wiki/강릉선 "wikilink")([서울](https://ko.wikipedia.org/wiki/서울역 "wikilink")\~[강릉](https://ko.wikipedia.org/wiki/강릉역 "wikilink")) 시승식 열차에 투입되었다. |    |
-| **413** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
-| **414** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
-| **415** | 운행 중                                                    |                                                                                                                                                                                                                                                                                              |    |
+| 차호      | 도입 시기                                | 운행 중단 시기                                                                                                                                                                                      | 비고 |
+| ------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| **401** | [2016년](../Page/2016년.md "wikilink") | 운행 중                                                                                                                                                                                          |    |
+| **402** | 운행 중                                 |                                                                                                                                                                                               |    |
+| **403** | 운행 중                                 |                                                                                                                                                                                               |    |
+| **404** | 운행 중                                 |                                                                                                                                                                                               |    |
+| **405** | 운행 중                                 |                                                                                                                                                                                               |    |
+| **406** | 운행 중                                 |                                                                                                                                                                                               |    |
+| **407** | 운행 중                                 |                                                                                                                                                                                               |    |
+| 408     | 2018년 12월 8일                         | [2018년](../Page/2018년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") 강릉선 강릉\~진부 구간에서 일어난 [탈선사고로](../Page/KTX_강릉선_탈선사고.md "wikilink") 강릉기지에서 수리받고 있다.                                   |    |
+| **409** | 운행 중                                 |                                                                                                                                                                                               |    |
+| **410** | [2017년](../Page/2017년.md "wikilink") | 운행 중                                                                                                                                                                                          |    |
+| **411** | 운행 중                                 |                                                                                                                                                                                               |    |
+| **412** | 운행 중                                 | [2017년](../Page/2017년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") [강릉선](../Page/강릉선.md "wikilink")([서울](../Page/서울역.md "wikilink")\~[강릉](../Page/강릉역.md "wikilink")) 시승식 열차에 투입되었다. |    |
+| **413** | 운행 중                                 |                                                                                                                                                                                               |    |
+| **414** | 운행 중                                 |                                                                                                                                                                                               |    |
+| **415** | 운행 중                                 |                                                                                                                                                                                               |    |
 
 ## 논란
 
-KTX-산천은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 투입 이후부터 1년 사이에 40여건에 이르는 크고 작은 고장이 지속적으로 발생\[9\]하였다. 특히 [용산발](https://ko.wikipedia.org/wiki/용산역 "wikilink") [목포행](https://ko.wikipedia.org/wiki/목포역 "wikilink") 401열차의 잔고장에 관심이 쏠리고 있다.\[10\] 이와 관련하여 운영사인 [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")와 제작사인 [현대로템](https://ko.wikipedia.org/wiki/현대로템 "wikilink") 관계자는 영업개시 직후 평균 10일에 한번 꼴로 발생하는 KTX-산천의 잇따른 사고에 대해 도입 초기 상태여서 발생한 일이며, 기계 특성상 2년에서 3년 정도의 안정화 기간이 필요하다 보니 추가적인 사고가 불가피할 것이라 전망하고 있으나\[11\] 현장에서는 KTX-산천 자체에 문제가 있는 것이라는 주장이 있다.\[12\] 또한 시험운행중 120000호대 차량의 변압기가 3차례나 터지는 사고가 발생하였고, 호남고속철도 개통 당일날 용산발 목포행 \#515 열차(120000호대 열차)가 주행중 워셔액 주입구가 열리는 사고가 발생했다.
+KTX-산천은 [2010년](../Page/2010년.md "wikilink") [3월](../Page/3월.md "wikilink") 투입 이후부터 1년 사이에 40여건에 이르는 크고 작은 고장이 지속적으로 발생\[9\]하였다. 특히 [용산발](../Page/용산역.md "wikilink") [목포행](../Page/목포역.md "wikilink") 401열차의 잔고장에 관심이 쏠리고 있다.\[10\] 이와 관련하여 운영사인 [한국철도공사](../Page/한국철도공사.md "wikilink")와 제작사인 [현대로템](../Page/현대로템.md "wikilink") 관계자는 영업개시 직후 평균 10일에 한번 꼴로 발생하는 KTX-산천의 잇따른 사고에 대해 도입 초기 상태여서 발생한 일이며, 기계 특성상 2년에서 3년 정도의 안정화 기간이 필요하다 보니 추가적인 사고가 불가피할 것이라 전망하고 있으나\[11\] 현장에서는 KTX-산천 자체에 문제가 있는 것이라는 주장이 있다.\[12\] 또한 시험운행중 120000호대 차량의 변압기가 3차례나 터지는 사고가 발생하였고, 호남고속철도 개통 당일날 용산발 목포행 \#515 열차(120000호대 열차)가 주행중 워셔액 주입구가 열리는 사고가 발생했다.
 
 ### 일직터널 KTX 열차 탈선 사고
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 11일에는](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") [부산역](../Page/부산역.md "wikilink")을 출발하여 [광명역](../Page/광명역.md "wikilink")으로 가던 KTX-산천 제224열차 10량 중, 후미 6량이 [광명역](../Page/광명역.md "wikilink") 약 500여m 를 앞두고 탈선하는 사고가 발생하였다. 해당 열차의 이용고객 149명은 10여 분을 걸어 터널을 빠져나왔으며, 인명 피해는 없는 것으로 전해졌다.\[13\] 또한 해당 편성은 [특별 동차](https://ko.wikipedia.org/wiki/특별_동차 "wikilink") 편성임이 밝혀지기도 했다.\[14\]
+[2011년](../Page/2011년.md "wikilink") [2월 11일에는](../Page/2월_11일.md "wikilink") [부산역](../Page/부산역.md "wikilink")을 출발하여 [광명역](../Page/광명역.md "wikilink")으로 가던 KTX-산천 제224열차 10량 중, 후미 6량이 [광명역](../Page/광명역.md "wikilink") 약 500여m 를 앞두고 탈선하는 사고가 발생하였다. 해당 열차의 이용고객 149명은 10여 분을 걸어 터널을 빠져나왔으며, 인명 피해는 없는 것으로 전해졌다.\[13\] 또한 해당 편성은 [특별 동차](https://ko.wikipedia.org/wiki/특별_동차 "wikilink") 편성임이 밝혀지기도 했다.\[14\]
 
-### [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")의 리콜 요청
+### [한국철도공사](../Page/한국철도공사.md "wikilink")의 리콜 요청
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 7일](https://ko.wikipedia.org/wiki/5월_7일 "wikilink"), 고양차량사업소에서 KTX-산천 102호기의 운행을 앞두고 사전 검수를 하던 도중 모터감속기에서 균열이 발견되었다.\[15\] 모터감속기는 모터블록의 동력을 제어하는 주요 구성 장치이다.\[16\] 이 외에도 신호 장치와 고압회로, 모터블록 등의 장치가 빈번하게 고장이 발생하자, [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")에서는 제작사인 [현대로템](https://ko.wikipedia.org/wiki/현대로템 "wikilink")에 사실상의 [리콜](https://ko.wikipedia.org/wiki/리콜 "wikilink")을 요청하였다.\[17\] 같은 해 [8월 9일에는](https://ko.wikipedia.org/wiki/8월_9일 "wikilink") [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")가 제작사인 [현대로템](https://ko.wikipedia.org/wiki/현대로템 "wikilink")을 상대로 잔고장을 일으킨 KTX-산천에 대해 피해구상 소송을 내기로 했다. [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink") KTX-산천 운행 개시 이후 차량 자체의 결함으로 말미암은 [한국철도공사](https://ko.wikipedia.org/wiki/한국철도공사 "wikilink")의 안전 신뢰도 하락 및 이미지 실추에 대해, 모두 11억 2000여만원의 피해구상 청구 소송을 냈다.
+[2011년](../Page/2011년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink"), 고양차량사업소에서 KTX-산천 102호기의 운행을 앞두고 사전 검수를 하던 도중 모터감속기에서 균열이 발견되었다.\[15\] 모터감속기는 모터블록의 동력을 제어하는 주요 구성 장치이다.\[16\] 이 외에도 신호 장치와 고압회로, 모터블록 등의 장치가 빈번하게 고장이 발생하자, [한국철도공사](../Page/한국철도공사.md "wikilink")에서는 제작사인 [현대로템](../Page/현대로템.md "wikilink")에 사실상의 [리콜](https://ko.wikipedia.org/wiki/리콜 "wikilink")을 요청하였다.\[17\] 같은 해 [8월 9일에는](../Page/8월_9일.md "wikilink") [한국철도공사](../Page/한국철도공사.md "wikilink")가 제작사인 [현대로템](../Page/현대로템.md "wikilink")을 상대로 잔고장을 일으킨 KTX-산천에 대해 피해구상 소송을 내기로 했다. [한국철도공사](../Page/한국철도공사.md "wikilink") KTX-산천 운행 개시 이후 차량 자체의 결함으로 말미암은 [한국철도공사](../Page/한국철도공사.md "wikilink")의 안전 신뢰도 하락 및 이미지 실추에 대해, 모두 11억 2000여만원의 피해구상 청구 소송을 냈다.
 
 ## 사진
 
-파일:Korail KTX-2.jpg|행신기지 내에서 대기 중인 KTX-산천 103호기 파일:KTX-sancheon 111852 - front view.JPG|[오송역](../Page/오송역.md "wikilink")으로 진입중인 KTX-산천 118호기 파일:KTX-산천 팬터그래프.JPG|집전장치 파일:Sancheon1st.JPG|KTX-산천 특실 내부 파일:Sancheonexcellent.JPG|KTX-산천 일반실 내부 파일:Sancheonsnack.JPG|KTX-산천 스낵바 내부 (현재는 철거 및 좌석 개조 전) <File:KTX-II> Galley Closed.jpg|KTX-산천 스낵바 물품 반입구(철거 및 좌석개조 후) 파일:SRT 열차.jpg|동대구역에 정차한 SRT 306호기 파일:KTX-산천(140000).jpg|[서울역](https://ko.wikipedia.org/wiki/서울역 "wikilink")에 정차중인 KTX_산천 406호기, 407호기 중련 열차
+파일:Korail KTX-2.jpg|행신기지 내에서 대기 중인 KTX-산천 103호기 파일:KTX-sancheon 111852 - front view.JPG|[오송역](../Page/오송역.md "wikilink")으로 진입중인 KTX-산천 118호기 파일:KTX-산천 팬터그래프.JPG|집전장치 파일:Sancheon1st.JPG|KTX-산천 특실 내부 파일:Sancheonexcellent.JPG|KTX-산천 일반실 내부 파일:Sancheonsnack.JPG|KTX-산천 스낵바 내부 (현재는 철거 및 좌석 개조 전) <File:KTX-II> Galley Closed.jpg|KTX-산천 스낵바 물품 반입구(철거 및 좌석개조 후) 파일:SRT 열차.jpg|동대구역에 정차한 SRT 306호기 파일:KTX-산천(140000).jpg|[서울역](../Page/서울역.md "wikilink")에 정차중인 KTX_산천 406호기, 407호기 중련 열차
 
 ## 함께 보기
 
-  - [KTX-I](https://ko.wikipedia.org/wiki/KTX-I "wikilink")
+  - [KTX-I](../Page/KTX-I.md "wikilink")
   - [HSR-350x](../Page/HSR-350x.md "wikilink")
-  - [HEMU-430X](https://ko.wikipedia.org/wiki/HEMU-430X "wikilink")
+  - [HEMU-430X](../Page/HEMU-430X.md "wikilink")
 
 ## 각주
 
@@ -289,8 +289,8 @@ KTX-산천은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월]
 10.
 11.
 12.
-13. [광명역 인근서 KTX 열차 탈선...우회 운행](http://www.ytn.co.kr/_ln/0103_201102111519393914), [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink"), 2011.2.11 작성
-14. [탈선 KTX에 대통령 전용칸 3량 있었다](http://news.donga.com/3/all/20110214/34794583/1), [동아일보](https://ko.wikipedia.org/wiki/동아일보 "wikilink"), 2011.2.14 작성
-15. [첫 '리콜' 요청..KTX-산천 열차는](http://app.yonhapnews.co.kr/YNA/Basic/article/new_search/YIBW_showSearchArticle.aspx?searchpart=article&searchtext=%eb%a6%ac%ec%bd%9c&contents_id=AKR20110511064700063) , [연합뉴스](https://ko.wikipedia.org/wiki/연합뉴스 "wikilink"), 2011.5.11 작성
+13. [광명역 인근서 KTX 열차 탈선...우회 운행](http://www.ytn.co.kr/_ln/0103_201102111519393914), [YTN](../Page/YTN.md "wikilink"), 2011.2.11 작성
+14. [탈선 KTX에 대통령 전용칸 3량 있었다](http://news.donga.com/3/all/20110214/34794583/1), [동아일보](../Page/동아일보.md "wikilink"), 2011.2.14 작성
+15. [첫 '리콜' 요청..KTX-산천 열차는](http://app.yonhapnews.co.kr/YNA/Basic/article/new_search/YIBW_showSearchArticle.aspx?searchpart=article&searchtext=%eb%a6%ac%ec%bd%9c&contents_id=AKR20110511064700063) , [연합뉴스](../Page/연합뉴스.md "wikilink"), 2011.5.11 작성
 16.
 17. [코레일, 고장鐵 KTX-산천 \`리콜\`](http://news.mk.co.kr/newsRead.php?year=2011&no=299501), [매일경제](https://ko.wikipedia.org/wiki/매일경제 "wikilink"), 2011.5.11 작성

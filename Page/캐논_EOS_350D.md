@@ -3,13 +3,13 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Canon_EOS_350D_front_\(aka\).jpg "wikilink")
 
-**캐논 EOS 350D**()는 22.2 × 14.8 mm 크기의 8백만 [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지는 보급형 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") 카메라이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에 발표되었으며 [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 시판되었다. 북미에는 Canon EOS Digital Rebel XT, 일본에는 Canon EOS Kiss Digital N이란 상품명으로 발매되었다. [콤팩트 플래시 카드와](https://ko.wikipedia.org/wiki/콤팩트_플래시_카드 "wikilink") [리튬 이온 배터리를](https://ko.wikipedia.org/wiki/리튬_이온_배터리 "wikilink") 사용한다.
+**캐논 EOS 350D**()는 22.2 × 14.8 mm 크기의 8백만 [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지는 보급형 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") 카메라이다. [2005년](../Page/2005년.md "wikilink") [2월](../Page/2월.md "wikilink")에 발표되었으며 [3월](../Page/3월.md "wikilink")에 시판되었다. 북미에는 Canon EOS Digital Rebel XT, 일본에는 Canon EOS Kiss Digital N이란 상품명으로 발매되었다. [콤팩트 플래시 카드와](https://ko.wikipedia.org/wiki/콤팩트_플래시_카드 "wikilink") [리튬 이온 배터리를](https://ko.wikipedia.org/wiki/리튬_이온_배터리 "wikilink") 사용한다.
 
 350D는 [캐논 EOS 300D의](../Page/캐논_EOS_300D.md "wikilink") 후속 모델로서, 기능 및 성능상에 많은 개선이 이루어졌다. 300D에서 사용이 제한되었던 기능들 중 많은 수가 350D에서는 사용 가능하며, 기동 시간이 매우 짧아지는 등 반응성도 매우 향상되었다.
 
 350D의 후속 모델은 [캐논 EOS 400D로](../Page/캐논_EOS_400D.md "wikilink") 2006년 8월에 발매되었다.
 
-350D는 비슷한 시기의 상급 모델인 [캐논 EOS 20D에](https://ko.wikipedia.org/wiki/캐논_EOS_20D "wikilink") 비해 기능 및 성능상으론 부족하나, 화질 면에선 별 차이가 없다.\[1\]
+350D는 비슷한 시기의 상급 모델인 [캐논 EOS 20D에](../Page/캐논_EOS_20D.md "wikilink") 비해 기능 및 성능상으론 부족하나, 화질 면에선 별 차이가 없다.\[1\]
 
 ## 사진
 
@@ -18,9 +18,9 @@
 ## 같이 보기
 
   - [캐논](../Page/캐논.md "wikilink")
-  - [캐논 EOS](https://ko.wikipedia.org/wiki/캐논_EOS "wikilink")
-  - [캐논 EF 마운트](https://ko.wikipedia.org/wiki/캐논_EF_마운트 "wikilink")
-  - [캐논 EF-S 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_마운트 "wikilink")
+  - [캐논 EOS](../Page/캐논_EOS.md "wikilink")
+  - [캐논 EF 마운트](../Page/캐논_EF_마운트.md "wikilink")
+  - [캐논 EF-S 마운트](../Page/캐논_EF-S_마운트.md "wikilink")
 
 ## 각주
 

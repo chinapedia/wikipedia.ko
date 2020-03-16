@@ -1,30 +1,30 @@
 > This article is converted from Wikipedia: [Savage genius](https://ko.wikipedia.org/wiki/Savage_genius).
 
 
-**savage genius**는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 음악 그룹이다. 멤버 2명 모두 [효고현](https://ko.wikipedia.org/wiki/효고현 "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 출신으로, 2001년 <AXIA Artist Audition AXIA상>을 수상했고, 싱글 <오렌지>(Orange) 로 데뷔했다. [연음 그룹](https://ko.wikipedia.org/wiki/연음_그룹 "wikilink")/[워너 뮤직 재팬](https://ko.wikipedia.org/wiki/워너_뮤직_재팬 "wikilink")(Warner Music Japan Inc) [빅터 엔터테인먼트](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink")(Victor Entertainment Inc) 소속이다.
+**savage genius**는 [일본](../Page/일본.md "wikilink")의 음악 그룹이다. 멤버 2명 모두 [효고현](../Page/효고현.md "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 출신으로, 2001년 <AXIA Artist Audition AXIA상>을 수상했고, 싱글 <오렌지>(Orange) 로 데뷔했다. [연음 그룹](https://ko.wikipedia.org/wiki/연음_그룹 "wikilink")/[워너 뮤직 재팬](../Page/워너_뮤직_재팬.md "wikilink")(Warner Music Japan Inc) [빅터 엔터테인먼트](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink")(Victor Entertainment Inc) 소속이다.
 
 ## 멤버
 
   - ああ ([보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"),[작사](https://ko.wikipedia.org/wiki/작사 "wikilink"))
-  - takumi ([작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"),[편곡](https://ko.wikipedia.org/wiki/편곡 "wikilink"),[프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"),[기타](https://ko.wikipedia.org/wiki/기타 "wikilink"))
+  - takumi ([작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"),[편곡](../Page/편곡.md "wikilink"),[프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"),[기타](../Page/기타.md "wikilink"))
 
 ## 디스코그래피
 
-**savage genius**의 음반은 [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")에는 발매되지 않았다. 아래 발매 날짜는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 발매 날짜이다.
+**savage genius**의 음반은 [한국](../Page/한국.md "wikilink")에는 발매되지 않았다. 아래 발매 날짜는 [일본](../Page/일본.md "wikilink")의 발매 날짜이다.
 
 ### 싱글
 
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") 오렌지 (*Orange*)
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") 恋 (*A Heart in Love*)
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") 想いを奏でて (*Playing My Thoughts*)
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월 11일](https://ko.wikipedia.org/wiki/5월_11일 "wikilink") Forever...
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 6일](https://ko.wikipedia.org/wiki/7월_6일 "wikilink") Take a chance.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") 祈りの詩 (*Poem of Prayer*)
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") あいぞめ～二籠 (*lit. Indigo dye*)
+  - [2002년](../Page/2002년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") 오렌지 (*Orange*)
+  - [2002년](../Page/2002년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") 恋 (*A Heart in Love*)
+  - [2004년](../Page/2004년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") 想いを奏でて (*Playing My Thoughts*)
+  - [2005년](../Page/2005년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") Forever...
+  - [2005년](../Page/2005년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") Take a chance.
+  - [2006년](../Page/2006년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") 祈りの詩 (*Poem of Prayer*)
+  - [2006년](../Page/2006년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") あいぞめ～二籠 (*lit. Indigo dye*)
 
 ### 앨범
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 6일](https://ko.wikipedia.org/wiki/7월_6일 "wikilink") 風の結晶(*Crystals of Wind*)
+[2006년](../Page/2006년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") 風の結晶(*Crystals of Wind*)
 
 1.  프롤로그 0:38
 2.  Into the Sky \~kaze no kesshou\~ 4:04

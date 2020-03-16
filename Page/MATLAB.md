@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MATLAB](https://ko.wikipedia.org/wiki/MATLAB).
 
 
-**MATLAB**(매트랩)은 MathWorks 사에서 개발한 [수치 해석](https://ko.wikipedia.org/wiki/수치_해석 "wikilink") 및 [프로그래밍](https://ko.wikipedia.org/wiki/프로그래밍 "wikilink") 환경을 제공하는 공학용 [소프트웨어](https://ko.wikipedia.org/wiki/소프트웨어 "wikilink")이다. [행렬](https://ko.wikipedia.org/wiki/행렬 "wikilink")을 기반으로 한 계산 기능을 지원하며, 함수나 데이터를 그림으로 그리는 기능 및 프로그래밍을 통한 알고리즘 구현 등을 제공한다. MATLAB은 수치 계산이 필요한 과학 및 공학 분야에서 다양하게 사용된다. 30일간의 무료 체험판을 사용해 볼 수도 있다. [섬네일의](https://ko.wikipedia.org/wiki/파일:MATLAB_surf_sinc3D.svg "wikilink") 3차원 표면 플롯.
+**MATLAB**(매트랩)은 MathWorks 사에서 개발한 [수치 해석](https://ko.wikipedia.org/wiki/수치_해석 "wikilink") 및 [프로그래밍](https://ko.wikipedia.org/wiki/프로그래밍 "wikilink") 환경을 제공하는 공학용 [소프트웨어](../Page/소프트웨어.md "wikilink")이다. [행렬](../Page/행렬.md "wikilink")을 기반으로 한 계산 기능을 지원하며, 함수나 데이터를 그림으로 그리는 기능 및 프로그래밍을 통한 알고리즘 구현 등을 제공한다. MATLAB은 수치 계산이 필요한 과학 및 공학 분야에서 다양하게 사용된다. 30일간의 무료 체험판을 사용해 볼 수도 있다. [섬네일의](https://ko.wikipedia.org/wiki/파일:MATLAB_surf_sinc3D.svg "wikilink") 3차원 표면 플롯.
 
 |                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ plot2svg('sinc3D.svg',h)    % utilizes the SVG exporting script (by Juerg Schwiz
 ## 같이 보기
 
   - [COMSOL Script](https://ko.wikipedia.org/wiki/COMSOL_Script "wikilink")
-  - [GNU 옥타브](https://ko.wikipedia.org/wiki/GNU_옥타브 "wikilink")
+  - [GNU 옥타브](../Page/GNU_옥타브.md "wikilink")
 
 ## 외부 링크
 

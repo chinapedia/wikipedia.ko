@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [D.C. ](https://ko.wikipedia.org/wiki/D.C._).
 
 
-**D.C. 다카포**()는 [서커스사의](https://ko.wikipedia.org/wiki/서커스_\(기업\) "wikilink") [미소녀 게임](https://ko.wikipedia.org/wiki/미소녀_게임 "wikilink") 및 이를 기반으로 제작된 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다.
+**D.C. 다카포**()는 [서커스사의](../Page/서커스_\(기업\).md "wikilink") [미소녀 게임](../Page/미소녀_게임.md "wikilink") 및 이를 기반으로 제작된 [애니메이션](../Page/애니메이션.md "wikilink")이다.
 
 ## 줄거리
 
 일 년 내내 [벚꽃](../Page/벚꽃.md "wikilink")이 지지 않는 섬 하츠네지마. 그곳에서 의붓동생 네무와 함께 사는 준이치는 자타공인의 귀차니스트다.
 
-그러던 어느날 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")으로 이민갔던 이종사촌 사쿠라가 돌아오게 되면서 네무와 사쿠라 사이에 안 좋은 기운이 감돌기 시작하고 여러 소녀들을 만나게 되면서 수많은 일을 겪게 되는데…
+그러던 어느날 [미국](../Page/미국.md "wikilink")으로 이민갔던 이종사촌 사쿠라가 돌아오게 되면서 네무와 사쿠라 사이에 안 좋은 기운이 감돌기 시작하고 여러 소녀들을 만나게 되면서 수많은 일을 겪게 되는데…
 
 ## 등장인물
 
 ## 같이 보기
 
-  - [D.C. 다카포 II](https://ko.wikipedia.org/wiki/D.C._다카포_II "wikilink")
+  - [D.C. 다카포 II](../Page/D.C._다카포_II.md "wikilink")
 
 ## 외부 링크
 

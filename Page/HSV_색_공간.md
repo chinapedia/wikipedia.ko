@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [HSV  ](https://ko.wikipedia.org/wiki/HSV__).
 
 
-**HSV 색 공간** 또는 **HSV 모델**은 색을 표현하는 하나의 방법이자, 그 방법에 따라 색을 배치하는 방식이다. [색상](https://ko.wikipedia.org/wiki/색상 "wikilink")(**H**ue), [채도](https://ko.wikipedia.org/wiki/채도 "wikilink")(**S**aturation), [명도](https://ko.wikipedia.org/wiki/명도 "wikilink")(**V**alue)의 [좌표](https://ko.wikipedia.org/wiki/좌표 "wikilink")를 써서 특정한 [색](https://ko.wikipedia.org/wiki/색 "wikilink")을 지정한다. 비슷한 것으로 **HSL**(Lightness), **HSI**(Intensity) 등이 있다.
+**HSV 색 공간** 또는 **HSV 모델**은 색을 표현하는 하나의 방법이자, 그 방법에 따라 색을 배치하는 방식이다. [색상](https://ko.wikipedia.org/wiki/색상 "wikilink")(**H**ue), [채도](../Page/채도.md "wikilink")(**S**aturation), [명도](../Page/명도.md "wikilink")(**V**alue)의 [좌표](https://ko.wikipedia.org/wiki/좌표 "wikilink")를 써서 특정한 [색](../Page/색.md "wikilink")을 지정한다. 비슷한 것으로 **HSL**(Lightness), **HSI**(Intensity) 등이 있다.
 
 ## 구성 요소
 
 ### 색상
 
-색상값 H는 [가시광선](https://ko.wikipedia.org/wiki/가시광선 "wikilink") [스펙트럼](https://ko.wikipedia.org/wiki/스펙트럼 "wikilink")을 고리모양으로 배치한 [색상환](https://ko.wikipedia.org/wiki/색상환 "wikilink")에서 가장 파장이 긴 [빨강](../Page/빨강.md "wikilink")을 0°로 하였을 때 상대적인 배치 각도를 의미한다. 때문에 H 값은 0°\~360°의 범위를 갖고 360°와 0°는 같은 색상 빨강을 가리킨다.
+색상값 H는 [가시광선](../Page/가시광선.md "wikilink") [스펙트럼](../Page/스펙트럼.md "wikilink")을 고리모양으로 배치한 [색상환](https://ko.wikipedia.org/wiki/색상환 "wikilink")에서 가장 파장이 긴 [빨강](../Page/빨강.md "wikilink")을 0°로 하였을 때 상대적인 배치 각도를 의미한다. 때문에 H 값은 0°\~360°의 범위를 갖고 360°와 0°는 같은 색상 빨강을 가리킨다.
 
 ### 채도
 
@@ -19,7 +19,7 @@
 
 ## HSV 색 공간 모형
 
-HSV 색 공간 모형은 [원기둥](https://ko.wikipedia.org/wiki/원기둥 "wikilink") 또는 거꾸로 선 [원뿔](https://ko.wikipedia.org/wiki/원뿔 "wikilink") 모양의 [입체](https://ko.wikipedia.org/wiki/입체 "wikilink") [도형](../Page/도형.md "wikilink")이다.
+HSV 색 공간 모형은 [원기둥](https://ko.wikipedia.org/wiki/원기둥 "wikilink") 또는 거꾸로 선 [원뿔](../Page/원뿔.md "wikilink") 모양의 [입체](https://ko.wikipedia.org/wiki/입체 "wikilink") [도형](../Page/도형.md "wikilink")이다.
 
 ### 원기둥 모형
 

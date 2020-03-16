@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Girls On Top \(\)](https://ko.wikipedia.org/wiki/Girls_On_Top_\(\)).
 
 
-《***Girls On Top***》은 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")에서 발매한 5번째 정규 앨범이다. 한국에서 4집《*My Name*》 이후 1년 만에 발매된 이 앨범에는 타이틀 곡인 "Girls On Top"과 후속곡 "MOTO", 보아가 직접 출연한 [서울우유](https://ko.wikipedia.org/wiki/서울우유_협동조합 "wikilink") CF에 쓰인 발라드 "오늘 그댈 본다면 (If You Were Here)" 등 총 13곡이 수록되어 있다.
+《***Girls On Top***》은 [보아](../Page/보아.md "wikilink")가 [한국](../Page/한국.md "wikilink")에서 발매한 5번째 정규 앨범이다. 한국에서 4집《*My Name*》 이후 1년 만에 발매된 이 앨범에는 타이틀 곡인 "Girls On Top"과 후속곡 "MOTO", 보아가 직접 출연한 [서울우유](https://ko.wikipedia.org/wiki/서울우유_협동조합 "wikilink") CF에 쓰인 발라드 "오늘 그댈 본다면 (If You Were Here)" 등 총 13곡이 수록되어 있다.
 
 ## 음반 작업
 
@@ -9,9 +9,9 @@
 
 후속곡인 "MOTO"는 힙합 리듬이 가미된 댄스 곡이다. "My Name"을 작곡한 Kenzie가 작곡하고, 보아도 이 곡의 작사에 참여했다. 이 곡의 안무에 있는 일명 '파닥파닥 춤'이 화제가 되기도 했다. 그리고 보아는 '파닥파닥 춤'으로 허리가 1인치 줄어들었다고 했다. 앨범의 8번째 트랙인 "공중 정원 (Garden in the Air)"도 Kenzie가 작곡했다.
 
-마지막 트랙인 "가을 편지"는 리메이크 곡으로, [고은](https://ko.wikipedia.org/wiki/고은 "wikilink") 시인의 시에 가수 [김민기가](https://ko.wikipedia.org/wiki/김민기_\(1951년\) "wikilink") 곡을 붙여 [양희은](https://ko.wikipedia.org/wiki/양희은 "wikilink"), 최양숙, [박효신](https://ko.wikipedia.org/wiki/박효신 "wikilink") 등 많은 가수들이 이 곡을 불렀기 때문에 대다수의 사람들에게 익숙한 곡이다. 보아는 이 곡을 [강릉](https://ko.wikipedia.org/wiki/강릉 "wikilink") [오죽헌](https://ko.wikipedia.org/wiki/오죽헌 "wikilink")에서 뮤직 비디오를 촬영하며 녹음했다.
+마지막 트랙인 "가을 편지"는 리메이크 곡으로, [고은](../Page/고은.md "wikilink") 시인의 시에 가수 [김민기가](https://ko.wikipedia.org/wiki/김민기_\(1951년\) "wikilink") 곡을 붙여 [양희은](../Page/양희은.md "wikilink"), 최양숙, [박효신](../Page/박효신.md "wikilink") 등 많은 가수들이 이 곡을 불렀기 때문에 대다수의 사람들에게 익숙한 곡이다. 보아는 이 곡을 [강릉](https://ko.wikipedia.org/wiki/강릉 "wikilink") [오죽헌](../Page/오죽헌.md "wikilink")에서 뮤직 비디오를 촬영하며 녹음했다.
 
-[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [8월 17일에는](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") 후속곡 "MOTO"의 버전으로 《*MOTO*》라는 이름의 리패키지 앨범이 발매되기도 했지만, 앨범 전체가 초판과 다른 것은 아니고 단순히 겉을 싸고 있던 종이 커버만 바뀐 형태이다.
+[2005년](../Page/2005년.md "wikilink") [8월 17일에는](../Page/8월_17일.md "wikilink") 후속곡 "MOTO"의 버전으로 《*MOTO*》라는 이름의 리패키지 앨범이 발매되기도 했지만, 앨범 전체가 초판과 다른 것은 아니고 단순히 겉을 싸고 있던 종이 커버만 바뀐 형태이다.
 
 ## (5집) 방송 출연 목록
 

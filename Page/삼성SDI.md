@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SDI](https://ko.wikipedia.org/wiki/SDI).
 
 
-**삼성SDI**(, 三星SDI)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 IT 기업으로, [삼성그룹](https://ko.wikipedia.org/wiki/삼성그룹 "wikilink")의 전자 계열사이다. 삼성SDI는 브라운관, PDP, AMOLED 등의 디스플레이 제품 생산을 주력 사업으로 하였으나, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 리튬이온 2차전지 사업에도 진출하여 사업을 다각화하였다.
+**삼성SDI**(, 三星SDI)는 [대한민국](../Page/대한민국.md "wikilink")의 IT 기업으로, [삼성그룹](../Page/삼성그룹.md "wikilink")의 전자 계열사이다. 삼성SDI는 브라운관, PDP, AMOLED 등의 디스플레이 제품 생산을 주력 사업으로 하였으나, [2000년](../Page/2000년.md "wikilink") 리튬이온 2차전지 사업에도 진출하여 사업을 다각화하였다.
 
 ## 연혁
 
@@ -56,7 +56,7 @@
 
 ### 전자재료 사업
 
-[1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 반도체 봉지재인 EMC 출시를 시작으로, 편광필름, 확산판, CR 등의 [LCD](https://ko.wikipedia.org/wiki/LCD "wikilink")관련 소재와 Paste 등의 PDP소재까지 현재에는 IT산업 전 분야에 진출해 있다. 삼성전자, 삼성SDI 등 IT 관련 Captive user와의 활발한 교류를 바탕으로 사업의 성장규모가 가속화되고 있다. 2007년 3월, 에이스디지텍을 인수해 [LCD](https://ko.wikipedia.org/wiki/LCD "wikilink")패널의 핵심소재인 편광필름 사업을 개시했다.
+[1996년](../Page/1996년.md "wikilink") 반도체 봉지재인 EMC 출시를 시작으로, 편광필름, 확산판, CR 등의 [LCD](https://ko.wikipedia.org/wiki/LCD "wikilink")관련 소재와 Paste 등의 PDP소재까지 현재에는 IT산업 전 분야에 진출해 있다. 삼성전자, 삼성SDI 등 IT 관련 Captive user와의 활발한 교류를 바탕으로 사업의 성장규모가 가속화되고 있다. 2007년 3월, 에이스디지텍을 인수해 [LCD](https://ko.wikipedia.org/wiki/LCD "wikilink")패널의 핵심소재인 편광필름 사업을 개시했다.
 
 #### 주요제품
 

@@ -3,9 +3,9 @@
 
 **IUPAC 명명법**이란, [국제 순수·응용화학 연합](https://ko.wikipedia.org/wiki/국제_순수·응용화학_연합 "wikilink")(IUPAC)이 정한 화합물 명명법이다. 일단 영어 명명법을 정하면, 각국의 화학회는 그 명명법을 자기 나라 언어 체계에 맞게 재규정하고 있다. 가령 영어로 methane인 것을 독일어에서는 Methan, 프랑스어에서는 méthane, 인도네시아어로는 metan이라 하는 식이다.
 
-[대한화학회](https://ko.wikipedia.org/wiki/대한화학회 "wikilink")에서도 이 명명법을 한국어 체계에 맞게 재규정하여 사용하고 있는데, 이 명명법은 라틴어나 독일어 명명법과 유사하였다. 그러나 2000년을 전후하여 이것을 영어식과 유사하게 바꾸는 방식으로 개정\[1\]하였고, 이에 대한 비판 의견이 대두되었다(대표적인 의견은 주\[2\] 참조.).
+[대한화학회](../Page/대한화학회.md "wikilink")에서도 이 명명법을 한국어 체계에 맞게 재규정하여 사용하고 있는데, 이 명명법은 라틴어나 독일어 명명법과 유사하였다. 그러나 2000년을 전후하여 이것을 영어식과 유사하게 바꾸는 방식으로 개정\[1\]하였고, 이에 대한 비판 의견이 대두되었다(대표적인 의견은 주\[2\] 참조.).
 
-현재 [국립국어원](https://ko.wikipedia.org/wiki/국립국어원 "wikilink")에서는 기존의 명명법과 함께 IUPAC 명명법을 복수 표준어로 규정하고 있다.
+현재 [국립국어원](../Page/국립국어원.md "wikilink")에서는 기존의 명명법과 함께 IUPAC 명명법을 복수 표준어로 규정하고 있다.
 
 ## [무기화합물](https://ko.wikipedia.org/wiki/무기화합물 "wikilink")
 
@@ -35,17 +35,17 @@
 
 ## 유기화합물
 
-  - IUPAC은 지속적으로 규약을 만들어 1979년에 A,B,C,D,E,F,H의 총 7부분으로 나뉜 권고안을 제정했다. A부분은 [탄소](../Page/탄소.md "wikilink")와 [수소](https://ko.wikipedia.org/wiki/수소 "wikilink") 만으로 이루어진 [탄화수소](https://ko.wikipedia.org/wiki/탄화수소 "wikilink")의 명명법으로 B부분은 탄소 이외의 [원소가](https://ko.wikipedia.org/wiki/화학_원소 "wikilink") 고리를 구성하고 있는 경우의 명명법에 대하여, C의 부분은 탄소, 수소, [질소](https://ko.wikipedia.org/wiki/질소 "wikilink"), [칼코젠](https://ko.wikipedia.org/wiki/칼코젠 "wikilink"), [할로젠](https://ko.wikipedia.org/wiki/할로젠 "wikilink") 에서 비롯된 [작용기](https://ko.wikipedia.org/wiki/작용기 "wikilink")를 가진 [화합물](https://ko.wikipedia.org/wiki/화합물 "wikilink")의 명명법에 대하여, D 부분은 C 부분에 정해지지 않은 작용기를 가진 화합물에 대하여, E부분은 [입체화학](https://ko.wikipedia.org/wiki/입체화학 "wikilink")의 명명법, F부분은 [천연](https://ko.wikipedia.org/wiki/천연 "wikilink")유기화합물의 명명법을, H부분은 [동위원소](https://ko.wikipedia.org/wiki/동위원소 "wikilink")에 의한 [치환](https://ko.wikipedia.org/wiki/치환 "wikilink")을 받은 화합물의 명명법에 대해 다루고 있다.\[3\]
+  - IUPAC은 지속적으로 규약을 만들어 1979년에 A,B,C,D,E,F,H의 총 7부분으로 나뉜 권고안을 제정했다. A부분은 [탄소](../Page/탄소.md "wikilink")와 [수소](../Page/수소.md "wikilink") 만으로 이루어진 [탄화수소](../Page/탄화수소.md "wikilink")의 명명법으로 B부분은 탄소 이외의 [원소가](https://ko.wikipedia.org/wiki/화학_원소 "wikilink") 고리를 구성하고 있는 경우의 명명법에 대하여, C의 부분은 탄소, 수소, [질소](../Page/질소.md "wikilink"), [칼코젠](https://ko.wikipedia.org/wiki/칼코젠 "wikilink"), [할로젠](../Page/할로젠.md "wikilink") 에서 비롯된 [작용기](../Page/작용기.md "wikilink")를 가진 [화합물](../Page/화합물.md "wikilink")의 명명법에 대하여, D 부분은 C 부분에 정해지지 않은 작용기를 가진 화합물에 대하여, E부분은 [입체화학](../Page/입체화학.md "wikilink")의 명명법, F부분은 [천연](https://ko.wikipedia.org/wiki/천연 "wikilink")유기화합물의 명명법을, H부분은 [동위원소](https://ko.wikipedia.org/wiki/동위원소 "wikilink")에 의한 [치환](https://ko.wikipedia.org/wiki/치환 "wikilink")을 받은 화합물의 명명법에 대해 다루고 있다.\[3\]
   - 1993년에 발행한 권고안은 1979년의 수정판이다. R-0. 개요, R-1. 유기화합물명명법의 일반원칙, R-2. 모체 수소화합물과 그들의 치환유도체 그룹, R-3. 특정기(작용기)그룹, R-4. 작명법, R-5. 예외사항, R-6. 명명된 화합물의 이해, R-7. 입체화학적 (자세한)설명, R-8. 동위원소에 의한 치환을 받은 화합물, R-9. 참조, 총 10개 부분으로 되어있다.\[4\]
   - 2004년 10월 7일에 발간된 권고에서는 우선명(PINs, Preferred IUPAC Name)에 관하여 언급했다. 현재의 명명법에서는 하나의 화합물에 명명하는 이의 관점에 따라 2개 이상의 이름이 명명될 수 있다. 이러한 문제는 법적으로 문제가 될 수 있어 한 화합물에 하나의 이름을 정하여 다른 이름들 보다는 우선적으로 사용하도록 권장하였다.\[5\]\[6\]
 
 ### 명명법의 방침
 
-명명의 중심이 되는 **모체**(고리를 포함한 화합물의 경우 모핵으로 불리는 경우도 있다) 화합물의 수소를 치환기로 치환한 [유도체](https://ko.wikipedia.org/wiki/유도체 "wikilink")로 명명된다.
+명명의 중심이 되는 **모체**(고리를 포함한 화합물의 경우 모핵으로 불리는 경우도 있다) 화합물의 수소를 치환기로 치환한 [유도체](../Page/유도체.md "wikilink")로 명명된다.
 
 유도체로서 명명은 다음과 같은 여섯 명명법 (**치환명명법**, **작용기명명법**, **부가명명법**, 소거명명법, 접합명명법, 대치명명법) 을 사용한다.
 
-[1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink")까지의 IUPAC 명명규칙에서는 치환명명법으로의 통일을 지향하였으나 [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 이휴의 규칙에서는 다음 6개의 명명법을 [관용명](https://ko.wikipedia.org/wiki/관용명 "wikilink")으로서 허용하고 있다. 그러나, 소거명명법, 접합명명법, 대치명명법의 경우 **치환명명법**, **작용기명명법**, **부가명명법**으로 명명한 경우 불필요하게 복잡해질 경우에 사용하여야 한다. 또한 IUPAC은 **직접명명법을 우선적으로 쓸 것**을 권고하고 있다.
+[1951년](../Page/1951년.md "wikilink")까지의 IUPAC 명명규칙에서는 치환명명법으로의 통일을 지향하였으나 [1969년](../Page/1969년.md "wikilink") 이휴의 규칙에서는 다음 6개의 명명법을 [관용명](https://ko.wikipedia.org/wiki/관용명 "wikilink")으로서 허용하고 있다. 그러나, 소거명명법, 접합명명법, 대치명명법의 경우 **치환명명법**, **작용기명명법**, **부가명명법**으로 명명한 경우 불필요하게 복잡해질 경우에 사용하여야 한다. 또한 IUPAC은 **직접명명법을 우선적으로 쓸 것**을 권고하고 있다.
 
 이상의 방침으로 명명할 경우 모체와 한 개 내지는 복수의 치환기가 선택되나 IUPAC 명명법으로 지정된 치환기의 우선순위에 의해 치환기 중에서 하나의 **주요 작용기**(principal group)가 선발된다.
 
@@ -81,7 +81,7 @@
 **소거명명법**(subtructive nomenclature)은 모체원자가 소거된 경우 표시하는 명명법이다.
 
   -
-    예) ribose([오탄당](https://ko.wikipedia.org/wiki/오탄당 "wikilink")) - O(산소원자) = deoxyribose
+    예) ribose([오탄당](../Page/오탄당.md "wikilink")) - O(산소원자) = deoxyribose
 
 #### 접합명명법
 
@@ -97,7 +97,7 @@
 
 화합물의 이름에서 작용기의 우선순위는 다음과 같이 된다. 화합물이 복수의 작용기를 가질 때 우선순위가 높은 작용기를 접미사로 사용하고 우선순위가 낮은 작용기는 접두어로서 치환명명법에 쓴다.
 
-1\. [카복시기](https://ko.wikipedia.org/wiki/카복시기 "wikilink") - 2. [무수 카복시기](https://ko.wikipedia.org/wiki/무수_카복시기 "wikilink") - 3. [에스터](https://ko.wikipedia.org/wiki/에스터 "wikilink") - 4. [아마이드](https://ko.wikipedia.org/wiki/아마이드 "wikilink") - 5. [시안기](https://ko.wikipedia.org/wiki/시안기 "wikilink") - 6. [알데하이드기](https://ko.wikipedia.org/wiki/알데하이드기 "wikilink") - 7. [카보닐기](https://ko.wikipedia.org/wiki/카보닐기 "wikilink") - 8. [히드록시기](https://ko.wikipedia.org/wiki/히드록시기 "wikilink") - 9. [아미노기](https://ko.wikipedia.org/wiki/아미노기 "wikilink") - 10. [아민기](https://ko.wikipedia.org/wiki/아민기 "wikilink") - 11. [에터](https://ko.wikipedia.org/wiki/에터 "wikilink") - 12. [니트로기](https://ko.wikipedia.org/wiki/니트로기 "wikilink") - 13. [할로젠](https://ko.wikipedia.org/wiki/할로젠 "wikilink")
+1\. [카복시기](https://ko.wikipedia.org/wiki/카복시기 "wikilink") - 2. [무수 카복시기](https://ko.wikipedia.org/wiki/무수_카복시기 "wikilink") - 3. [에스터](https://ko.wikipedia.org/wiki/에스터 "wikilink") - 4. [아마이드](../Page/아마이드.md "wikilink") - 5. [시안기](https://ko.wikipedia.org/wiki/시안기 "wikilink") - 6. [알데하이드기](https://ko.wikipedia.org/wiki/알데하이드기 "wikilink") - 7. [카보닐기](https://ko.wikipedia.org/wiki/카보닐기 "wikilink") - 8. [히드록시기](https://ko.wikipedia.org/wiki/히드록시기 "wikilink") - 9. [아미노기](https://ko.wikipedia.org/wiki/아미노기 "wikilink") - 10. [아민기](https://ko.wikipedia.org/wiki/아민기 "wikilink") - 11. [에터](../Page/에터.md "wikilink") - 12. [니트로기](https://ko.wikipedia.org/wiki/니트로기 "wikilink") - 13. [할로젠](../Page/할로젠.md "wikilink")
 
 #### 주쇄의 결정
 
@@ -147,14 +147,14 @@
 
 #### 알킬기
 
-알킬기(C<sub>n</sub>H<sub>2n+1</sub>-)(alkyl)는 같은 탄소수의 [알케인](https://ko.wikipedia.org/wiki/알케인 "wikilink")의 어미 ane을 yl로 하여 이름을 붙인다. n=0의 경우 단순히 수소 원자로 부른다.
+알킬기(C<sub>n</sub>H<sub>2n+1</sub>-)(alkyl)는 같은 탄소수의 [알케인](../Page/알케인.md "wikilink")의 어미 ane을 yl로 하여 이름을 붙인다. n=0의 경우 단순히 수소 원자로 부른다.
 
   -
     예) C<sub>5</sub>H<sub>11</sub>-은 펜틸(pentyl)기
 
 #### 알킬렌기
 
-[알킬렌기](https://ko.wikipedia.org/wiki/알킬렌기 "wikilink")(-C<sub>n</sub>H<sub>2n</sub>- 알케인의 양단의 탄소원자에서 수소원자가 하나씩 빠진 형태)(alkylene)은 같은 탄소수의 [알케인](https://ko.wikipedia.org/wiki/알케인 "wikilink")의 어미 ane을 ylene으로 하여 이름을 붙인다.
+[알킬렌기](https://ko.wikipedia.org/wiki/알킬렌기 "wikilink")(-C<sub>n</sub>H<sub>2n</sub>- 알케인의 양단의 탄소원자에서 수소원자가 하나씩 빠진 형태)(alkylene)은 같은 탄소수의 [알케인](../Page/알케인.md "wikilink")의 어미 ane을 ylene으로 하여 이름을 붙인다.
 
   -
     예) -CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-은 프로필렌(propylene)기
@@ -182,12 +182,12 @@
 |      |                                                           |             |       |                                                           |              |        |                                                           |            |
 | ---- | --------------------------------------------------------- | ----------- | ----- | --------------------------------------------------------- | ------------ | ------ | --------------------------------------------------------- | ---------- |
 |      | 국문                                                        | 영문명         |       | 국문                                                        | 영문명          |        | 국문                                                        | 영문명        |
-| C=1  | [메테인](https://ko.wikipedia.org/wiki/메테인 "wikilink")       | methane     | C=21  | [헨이코세인](https://ko.wikipedia.org/wiki/헨이코세인 "wikilink")   | henicosane   | C=500  | [펜탁테인](https://ko.wikipedia.org/wiki/펜탁테인 "wikilink")     | pentactane |
-| C=2  | [에테인](https://ko.wikipedia.org/wiki/에테인 "wikilink")       | ethane      | C=22  | [도코세인](https://ko.wikipedia.org/wiki/도코세인 "wikilink")     | docosane     | C=600  | [헥삭테인](https://ko.wikipedia.org/wiki/헥삭테인 "wikilink")     | hexactane  |
-| C=3  | [프로페인](https://ko.wikipedia.org/wiki/프로페인 "wikilink")     | propane     | C=23  | [트리코세인](https://ko.wikipedia.org/wiki/트리코세인 "wikilink")   | tricosane    | C=700  | [헵탁테인](https://ko.wikipedia.org/wiki/헵탁테인 "wikilink")     | heptactane |
-| C=4  | [뷰테인](https://ko.wikipedia.org/wiki/뷰테인 "wikilink")       | butane      | C=24  | [테트라코세인](https://ko.wikipedia.org/wiki/테트라코세인 "wikilink") | tetracosane  | C=800  | [옥탁테인](https://ko.wikipedia.org/wiki/옥탁테인 "wikilink")     | octactane  |
+| C=1  | [메테인](../Page/메테인.md "wikilink")                          | methane     | C=21  | [헨이코세인](https://ko.wikipedia.org/wiki/헨이코세인 "wikilink")   | henicosane   | C=500  | [펜탁테인](https://ko.wikipedia.org/wiki/펜탁테인 "wikilink")     | pentactane |
+| C=2  | [에테인](../Page/에테인.md "wikilink")                          | ethane      | C=22  | [도코세인](https://ko.wikipedia.org/wiki/도코세인 "wikilink")     | docosane     | C=600  | [헥삭테인](https://ko.wikipedia.org/wiki/헥삭테인 "wikilink")     | hexactane  |
+| C=3  | [프로페인](../Page/프로페인.md "wikilink")                        | propane     | C=23  | [트리코세인](https://ko.wikipedia.org/wiki/트리코세인 "wikilink")   | tricosane    | C=700  | [헵탁테인](https://ko.wikipedia.org/wiki/헵탁테인 "wikilink")     | heptactane |
+| C=4  | [뷰테인](../Page/뷰테인.md "wikilink")                          | butane      | C=24  | [테트라코세인](https://ko.wikipedia.org/wiki/테트라코세인 "wikilink") | tetracosane  | C=800  | [옥탁테인](https://ko.wikipedia.org/wiki/옥탁테인 "wikilink")     | octactane  |
 | C=5  | [펜테인](https://ko.wikipedia.org/wiki/펜테인 "wikilink")       | pentane     | C=25  | [펜타코세인](https://ko.wikipedia.org/wiki/펜타코세인 "wikilink")   | pentacosane  | C=900  | [노낙테인](https://ko.wikipedia.org/wiki/노낙테인 "wikilink")     | nonactane  |
-| C=6  | [헥세인](https://ko.wikipedia.org/wiki/헥세인 "wikilink")       | hexane      | C=26  | [헥사코세인](https://ko.wikipedia.org/wiki/헥사코세인 "wikilink")   | hexacosane   | C=1000 | [킬리에인](https://ko.wikipedia.org/wiki/킬리에인 "wikilink")     | kiliane    |
+| C=6  | [헥세인](../Page/헥세인.md "wikilink")                          | hexane      | C=26  | [헥사코세인](https://ko.wikipedia.org/wiki/헥사코세인 "wikilink")   | hexacosane   | C=1000 | [킬리에인](https://ko.wikipedia.org/wiki/킬리에인 "wikilink")     | kiliane    |
 | C=7  | [헵테인](https://ko.wikipedia.org/wiki/헵테인 "wikilink")       | heptane     | C=27  | [헵타코세인](https://ko.wikipedia.org/wiki/헵타코세인 "wikilink")   | heptacosane  | C=2000 | [딜리에인](https://ko.wikipedia.org/wiki/딜리에인 "wikilink")     | diliane    |
 | C=8  | [옥테인](https://ko.wikipedia.org/wiki/옥테인 "wikilink")       | octane      | C=28  | [옥타코세인](https://ko.wikipedia.org/wiki/옥타코세인 "wikilink")   | octacosane   | C=3000 | [트릴리에인](https://ko.wikipedia.org/wiki/트릴리에인 "wikilink")   | triliane   |
 | C=9  | [노네인](https://ko.wikipedia.org/wiki/노네인 "wikilink")       | nonane      | C=29  | [노나코세인](https://ko.wikipedia.org/wiki/노나코세인 "wikilink")   | nonacosane   | C=4000 | [테트랄리에인](https://ko.wikipedia.org/wiki/테트랄리에인 "wikilink") | tetraliane |
@@ -226,7 +226,7 @@
 
 #### 할로젠화알킬
 
-[할로젠화알킬](https://ko.wikipedia.org/wiki/할로젠화알킬 "wikilink")(C<sub>n</sub>H<sub>m</sub>X<sub>l</sub>)(Halogenoalkane)은 [할로젠](https://ko.wikipedia.org/wiki/할로젠 "wikilink")화된 [탄소](../Page/탄소.md "wikilink")의 위치를 숫자로 표시하고 할로젠이 플루오린이라면 fluoro, 염소라면 chloro, 브로민이라면 bromo, 아이오딘이라면 iodo를 대응하는 탄화수소 이름 앞에 붙인다. 수소가 복수의 할로젠으로 치환되어 있을 경우 숫자를 붙여 명명한다. (치환명명법)
+[할로젠화알킬](https://ko.wikipedia.org/wiki/할로젠화알킬 "wikilink")(C<sub>n</sub>H<sub>m</sub>X<sub>l</sub>)(Halogenoalkane)은 [할로젠](../Page/할로젠.md "wikilink")화된 [탄소](../Page/탄소.md "wikilink")의 위치를 숫자로 표시하고 할로젠이 플루오린이라면 fluoro, 염소라면 chloro, 브로민이라면 bromo, 아이오딘이라면 iodo를 대응하는 탄화수소 이름 앞에 붙인다. 수소가 복수의 할로젠으로 치환되어 있을 경우 숫자를 붙여 명명한다. (치환명명법)
 
   -
     예)　CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>Cl은 1-클로로뷰테인(1-chlorobutane)
@@ -243,7 +243,7 @@
 
 #### 알코올
 
-[알코올](https://ko.wikipedia.org/wiki/알코올 "wikilink")(ROH)(alcohol)은 OH를 H로 치환한 탄화수소의 어미 e를 ol으로 치환하여 이름을 붙인다. 끝이 아닌 탄소원자에 [수산화기](https://ko.wikipedia.org/wiki/수산화기 "wikilink")가 붙어 있는 경우 숫자로 탄소원자의 위치를 표시한다. 다수의 수산화기를 가지고 있는 경우는 OH를 H로 치환한 탄화수소의 어미 e를 수산기의 수의 그리스어와 ol으로 그 이름을 붙인다.
+[알코올](../Page/알코올.md "wikilink")(ROH)(alcohol)은 OH를 H로 치환한 탄화수소의 어미 e를 ol으로 치환하여 이름을 붙인다. 끝이 아닌 탄소원자에 [수산화기](https://ko.wikipedia.org/wiki/수산화기 "wikilink")가 붙어 있는 경우 숫자로 탄소원자의 위치를 표시한다. 다수의 수산화기를 가지고 있는 경우는 OH를 H로 치환한 탄화수소의 어미 e를 수산기의 수의 그리스어와 ol으로 그 이름을 붙인다.
 
   -
     예)　C<sub></sub>H<sub>2</sub>(OH)-CH(OH)-CH<sub>2</sub>(OH)〔관용명 [글리세린](https://ko.wikipedia.org/wiki/글리세린 "wikilink")〕은 프로페인-1,2,3-트리올
@@ -260,7 +260,7 @@
 
 #### 에터
 
-[에터](https://ko.wikipedia.org/wiki/에터 "wikilink")(R-OR')(, ether)는 두 개의 알킬기 중에 탄소수가 작은 쪽에 알코올을 붙이고 그 알코올 이름의 어미에 oxy을 붙이고 다른 한쪽의 알코올기의 에터 결합부분을 수소로 치환한 것을 붙인 형태의 이름을 가진다.
+[에터](../Page/에터.md "wikilink")(R-OR')(, ether)는 두 개의 알킬기 중에 탄소수가 작은 쪽에 알코올을 붙이고 그 알코올 이름의 어미에 oxy을 붙이고 다른 한쪽의 알코올기의 에터 결합부분을 수소로 치환한 것을 붙인 형태의 이름을 가진다.
 
   -
     예)　CH<sub>3</sub>-O-C<sub>2</sub>H<sub>5</sub>〔관용명 에틸메틸에터〕는 메톡시에테인
@@ -270,7 +270,7 @@
 [알데하이드](https://ko.wikipedia.org/wiki/알데하이드 "wikilink")(RCHO)(, aldehyde)는 CHO의 산소를 H<sub>2</sub>으로 치환한 탄화수소의 어미 e를 al로 함으로써 그 이름을 얻는다. 다수의 [알데하이드 기를](https://ko.wikipedia.org/wiki/알데하이드_기 "wikilink") 가진 경우엔 알데하이드기에 잇는 수소의 위치를 최소한 작은 수로 표시하고 CHO의 산소를 H<sub>2</sub>으로 치환한 탄화수소의 어미 e를 알데하이드기의 수의 그리스어(2=di 3=tri 4=tetra 5=penta …)와 al로 함으로써 그 이름을 얻는다.
 
   -
-    예)　HCHO〔관용명 [폼알데하이드](https://ko.wikipedia.org/wiki/폼알데하이드 "wikilink")()〕은 메탄알(methanal)
+    예)　HCHO〔관용명 [폼알데하이드](../Page/폼알데하이드.md "wikilink")()〕은 메탄알(methanal)
 
 #### 케톤
 
@@ -326,7 +326,7 @@
 
 #### 아민
 
-[아민](https://ko.wikipedia.org/wiki/아민 "wikilink")(R<sub>1</sub>-NR<sub>2</sub>R<sub>3</sub>)(amine)은 [질소](https://ko.wikipedia.org/wiki/질소 "wikilink")에 결합되어 있는 알킬기에 amine을 붙여 명명한다. 질소에 여러 개의 알킬기가 결합되어 있을 경우엔 치환기를 우선순위에 맞춰 붙이고 마지막에 amine을 붙이는 것으로 이름을 만든다. 복수의 [아미노기](https://ko.wikipedia.org/wiki/아미노기 "wikilink")와 결합되어 있을 때에는 탄화수소 뒤에 아미노기와 결합되어잇는 위치를 숫자로 표시하고 아미노기의 수를 그리스어 (2=di 3=tri 4=tetra 5=penta …)를 붙여 마지막에 아민을 붙이는 형태로 명명한다.
+[아민](https://ko.wikipedia.org/wiki/아민 "wikilink")(R<sub>1</sub>-NR<sub>2</sub>R<sub>3</sub>)(amine)은 [질소](../Page/질소.md "wikilink")에 결합되어 있는 알킬기에 amine을 붙여 명명한다. 질소에 여러 개의 알킬기가 결합되어 있을 경우엔 치환기를 우선순위에 맞춰 붙이고 마지막에 amine을 붙이는 것으로 이름을 만든다. 복수의 [아미노기](https://ko.wikipedia.org/wiki/아미노기 "wikilink")와 결합되어 있을 때에는 탄화수소 뒤에 아미노기와 결합되어잇는 위치를 숫자로 표시하고 아미노기의 수를 그리스어 (2=di 3=tri 4=tetra 5=penta …)를 붙여 마지막에 아민을 붙이는 형태로 명명한다.
 
   -
     예) CH<sub>3</sub>NH<sub>2</sub>는 메틸 아민(methyl amine)
@@ -361,7 +361,7 @@
 
 #### 스피로 화합물
 
-[스피로 화합물](https://ko.wikipedia.org/wiki/스피로_화합물 "wikilink")(R\>C\<R')(spirane)은 고리를 구성하는 탄소의 수-1을 대괄호에 표시하고 탄소의 수와 같은 [알케인](https://ko.wikipedia.org/wiki/알케인 "wikilink")의 이름을 어미에 붙인다. 그리고 그 앞에 스피로 화합물임을 spiro를 앞에 붙여 명명한다.
+[스피로 화합물](https://ko.wikipedia.org/wiki/스피로_화합물 "wikilink")(R\>C\<R')(spirane)은 고리를 구성하는 탄소의 수-1을 대괄호에 표시하고 탄소의 수와 같은 [알케인](../Page/알케인.md "wikilink")의 이름을 어미에 붙인다. 그리고 그 앞에 스피로 화합물임을 spiro를 앞에 붙여 명명한다.
 
   -
     예) 시클로펜테인과 시클로헥산이 탄소 하나를 공유하고 있을때 스피로\[4,5\]데케인(spiro\[4,5\]decane)이 된다.
@@ -399,7 +399,7 @@
 [분류:화학](https://ko.wikipedia.org/wiki/분류:화학 "wikilink")
 
 1.  [대한화학회 화합물 명명법](http://new.kcsnet.or.kr/iupacname)
-2.  [화학용어 영어식표기변경에 관한 의견](http://www.kcsnet.or.kr/main/k_bbs/k_bbs_view.htm?uid=456&fid=329&page=38&cat=&direct=&qpage=k_b_freeboard&gongi_chk=N) [대한화학회](https://ko.wikipedia.org/wiki/대한화학회 "wikilink") 자유게시판 417번글\]
+2.  [화학용어 영어식표기변경에 관한 의견](http://www.kcsnet.or.kr/main/k_bbs/k_bbs_view.htm?uid=456&fid=329&page=38&cat=&direct=&qpage=k_b_freeboard&gongi_chk=N) [대한화학회](../Page/대한화학회.md "wikilink") 자유게시판 417번글\]
 3.
 4.
 5.

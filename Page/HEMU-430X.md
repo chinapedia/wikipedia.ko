@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [HEMU-430X](https://ko.wikipedia.org/wiki/HEMU-430X).
 
 
-**HEMU-430X**(**H**ighspeed **E**lectric **M**ultiple **U**nit - **430**km/h e**X**periment)는, [한국철도기술연구원](https://ko.wikipedia.org/wiki/한국철도기술연구원 "wikilink")(KRRI)의 주도로 [한국건설교통기술평가원](https://ko.wikipedia.org/wiki/한국건설교통기술평가원 "wikilink") 등이 참여하여 진행 중인 차기 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 시제차량 제작 및 기술 개발 프로젝트다. 이전에는 **HEMU-400X**라는 이름을 사용하였으나, 이후 설계최고속도가 30 km/h 증가하면서 현재의 이름으로 바뀌었다.
+**HEMU-430X**(**H**ighspeed **E**lectric **M**ultiple **U**nit - **430**km/h e**X**periment)는, [한국철도기술연구원](../Page/한국철도기술연구원.md "wikilink")(KRRI)의 주도로 [한국건설교통기술평가원](https://ko.wikipedia.org/wiki/한국건설교통기술평가원 "wikilink") 등이 참여하여 진행 중인 차기 [고속철도](../Page/고속철도.md "wikilink") 시제차량 제작 및 기술 개발 프로젝트다. 이전에는 **HEMU-400X**라는 이름을 사용하였으나, 이후 설계최고속도가 30 km/h 증가하면서 현재의 이름으로 바뀌었다.
 
-영어로는 **HEMU**라고 쓰고, [한글](https://ko.wikipedia.org/wiki/한글 "wikilink")로는 **해무**라 쓴다. 한글 표기 **해무**에 대응되는 [한자](https://ko.wikipedia.org/wiki/한자 "wikilink") 표기에는 두 가지가 있다. 먼저 상서로운 바다 안개를 뜻하는 海霧와 빠르게 달린다는 韰騖가 그 뜻에 해당한다.\[1\]
+영어로는 **HEMU**라고 쓰고, [한글](https://ko.wikipedia.org/wiki/한글 "wikilink")로는 **해무**라 쓴다. 한글 표기 **해무**에 대응되는 [한자](../Page/한자.md "wikilink") 표기에는 두 가지가 있다. 먼저 상서로운 바다 안개를 뜻하는 海霧와 빠르게 달린다는 韰騖가 그 뜻에 해당한다.\[1\]
 
 ## 개요
 
-이 열차는 설계최고속도 475km/h, 영업운전속도 405km/h를 목표로 개발중인 고속철도 차량이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")까지 총 5년간 개발이 진행되며, 투입 예산은 931억원이다. 차량 가격은 1편성(8량) 당 382억 3000만 원이다. 현재 국내개발 [고속철도](https://ko.wikipedia.org/wiki/고속철도 "wikilink") 중에서 가격이 가장 비싼 차종이다.
+이 열차는 설계최고속도 475km/h, 영업운전속도 405km/h를 목표로 개발중인 고속철도 차량이다. [2007년](../Page/2007년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [2012년](../Page/2012년.md "wikilink") [7월](../Page/7월.md "wikilink")까지 총 5년간 개발이 진행되며, 투입 예산은 931억원이다. 차량 가격은 1편성(8량) 당 382억 3000만 원이다. 현재 국내개발 [고속철도](../Page/고속철도.md "wikilink") 중에서 가격이 가장 비싼 차종이다.
 
-[기관차](../Page/기관차.md "wikilink")가 [객차](https://ko.wikipedia.org/wiki/객차 "wikilink")를 견인하는 방식인 동력집중식 고속열차 [KTX나](https://ko.wikipedia.org/wiki/KTX-I "wikilink") [KTX-산천](../Page/KTX-산천.md "wikilink") 차량과는 달리, 큰 점착력이 요구되는 300km/h 이상의 고속 주행에 적합한 [동력분산식으로](https://ko.wikipedia.org/wiki/동력분산식_열차 "wikilink") 설계되어 있다. 이를 통해 수송력 강화와 가감속 성능 향상 등도 달성하고 있는데, 예를 들어 정차 상태에서 300km/h까지 가속하는 데에 KTX-산천의 경우 5분 1초가 걸리는 데에 비해 이 열차에서는 3분 53초까지 줄어들었다. 또한 제동 성능도 KTX-산천의 23MJ에서 43MJ로 향상되었다.
+[기관차](../Page/기관차.md "wikilink")가 [객차](https://ko.wikipedia.org/wiki/객차 "wikilink")를 견인하는 방식인 동력집중식 고속열차 [KTX나](../Page/KTX-I.md "wikilink") [KTX-산천](../Page/KTX-산천.md "wikilink") 차량과는 달리, 큰 점착력이 요구되는 300km/h 이상의 고속 주행에 적합한 [동력분산식으로](../Page/동력분산식_열차.md "wikilink") 설계되어 있다. 이를 통해 수송력 강화와 가감속 성능 향상 등도 달성하고 있는데, 예를 들어 정차 상태에서 300km/h까지 가속하는 데에 KTX-산천의 경우 5분 1초가 걸리는 데에 비해 이 열차에서는 3분 53초까지 줄어들었다. 또한 제동 성능도 KTX-산천의 23MJ에서 43MJ로 향상되었다.
 
-또 [동력분산식](https://ko.wikipedia.org/wiki/동력분산식_열차 "wikilink") 설계의 채용에 의해 기관차가 제거됨에 따라 선두·후미 차량에도 승객 탑승이 가능해져 편성 당 정원이 KTX-산천의 363명에서 456명으로 16%가량 늘었다. 좌석 간 간격은 특실 1,120mm, 일반실 1,000mm으로 특실은 KTX-I, KTX-산천과 동일하며 일반실은 KTX-I에 비해 70mm, KTX-산천에 비해서는 20mm 더 길다.
+또 [동력분산식](../Page/동력분산식_열차.md "wikilink") 설계의 채용에 의해 기관차가 제거됨에 따라 선두·후미 차량에도 승객 탑승이 가능해져 편성 당 정원이 KTX-산천의 363명에서 456명으로 16%가량 늘었다. 좌석 간 간격은 특실 1,120mm, 일반실 1,000mm으로 특실은 KTX-I, KTX-산천과 동일하며 일반실은 KTX-I에 비해 70mm, KTX-산천에 비해서는 20mm 더 길다.
 
 ### 기술
 
@@ -27,22 +27,22 @@
 
 #### 대차
 
-[대차](../Page/대차.md "wikilink")는 [ITX-청춘](https://ko.wikipedia.org/wiki/한국철도공사_368000호대_전동차 "wikilink") 열차에서도 사용된 방식인 링크암 식 [볼스터리스 대차를](../Page/볼스터리스_대차.md "wikilink") 채용했다. 고속화에 따른 진동 증가에 대응하여 쾌적한 승차감을 구현하기 위해 보통 대차의 옆면에 1개씩 설치하는 [요댐퍼를](https://ko.wikipedia.org/wiki/사행동#요댐퍼 "wikilink") 양 옆으로 2개 설치하였으며, 차체의 롤(Roll)을 막아주는 안티 롤 바가 설치되어 있다.
+[대차](../Page/대차.md "wikilink")는 [ITX-청춘](../Page/한국철도공사_368000호대_전동차.md "wikilink") 열차에서도 사용된 방식인 링크암 식 [볼스터리스 대차를](../Page/볼스터리스_대차.md "wikilink") 채용했다. 고속화에 따른 진동 증가에 대응하여 쾌적한 승차감을 구현하기 위해 보통 대차의 옆면에 1개씩 설치하는 [요댐퍼를](https://ko.wikipedia.org/wiki/사행동#요댐퍼 "wikilink") 양 옆으로 2개 설치하였으며, 차체의 롤(Roll)을 막아주는 안티 롤 바가 설치되어 있다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 철도차량으로서는 최초로 [세미 액티브 서스펜션이](https://ko.wikipedia.org/wiki/세미_액티브_서스펜션 "wikilink") 설치될 예정이다.
+[대한민국](../Page/대한민국.md "wikilink")의 철도차량으로서는 최초로 [세미 액티브 서스펜션이](https://ko.wikipedia.org/wiki/세미_액티브_서스펜션 "wikilink") 설치될 예정이다.
 
 ## 향후
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 17일에](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") [국토해양부에서](https://ko.wikipedia.org/wiki/대한민국_국토해양부 "wikilink") 외형과 실내 디자인 시안이 발표되었으며\[2\], [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 16일에](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") [경전선](https://ko.wikipedia.org/wiki/경전선 "wikilink") [창원중앙역](https://ko.wikipedia.org/wiki/창원중앙역 "wikilink")에서 시제차량을 출고하였다\[3\].
+[2009년](../Page/2009년.md "wikilink") [2월 17일에](../Page/2월_17일.md "wikilink") [국토해양부에서](../Page/대한민국_국토해양부.md "wikilink") 외형과 실내 디자인 시안이 발표되었으며\[2\], [2012년](../Page/2012년.md "wikilink") [5월 16일에](../Page/5월_16일.md "wikilink") [경전선](../Page/경전선.md "wikilink") [창원중앙역](../Page/창원중앙역.md "wikilink")에서 시제차량을 출고하였다\[3\].
 
-출고 이후 10개월 동안 총 138회의 증속시험을 통해 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") 오전 3시 2분 46초에 최고속도인 시속 421.4km를 기록했다.\[4\] [한국철도기술연구원](https://ko.wikipedia.org/wiki/한국철도기술연구원 "wikilink")에 따르면 유지보수 시간 확보의 어려움 때문에 더 이상의 최고속도 증속보다는 부품 신뢰성 검증 등 안정화 테스트를 주로 할 것으로 알려졌다.\[5\]
+출고 이후 10개월 동안 총 138회의 증속시험을 통해 [2013년](../Page/2013년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") 오전 3시 2분 46초에 최고속도인 시속 421.4km를 기록했다.\[4\] [한국철도기술연구원](../Page/한국철도기술연구원.md "wikilink")에 따르면 유지보수 시간 확보의 어려움 때문에 더 이상의 최고속도 증속보다는 부품 신뢰성 검증 등 안정화 테스트를 주로 할 것으로 알려졌다.\[5\]
 
 ## 개발 진행 현황
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 6일에](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") KRRI의 주최로 차세대 고속철도 기술개발사업 착수 보고회가 개최되었다\[6\].
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 1일에](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 미래 녹색국토 구현을 위한 KTX 고속철도망 구축전략에 따라 사업기간이 1년 단축되고 목표 최고속도가 430 km/h으로 상향 조정되었다.
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 27일에](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") 시험구간 속도 400 km/h를 돌파하였다.
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 28일에](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") 시험구간 속도 421.4 km/h를 돌파하였다.
+  - [2007년](../Page/2007년.md "wikilink") [9월 6일에](../Page/9월_6일.md "wikilink") KRRI의 주최로 차세대 고속철도 기술개발사업 착수 보고회가 개최되었다\[6\].
+  - [2010년](../Page/2010년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 미래 녹색국토 구현을 위한 KTX 고속철도망 구축전략에 따라 사업기간이 1년 단축되고 목표 최고속도가 430 km/h으로 상향 조정되었다.
+  - [2012년](../Page/2012년.md "wikilink") [12월 27일에](../Page/12월_27일.md "wikilink") 시험구간 속도 400 km/h를 돌파하였다.
+  - [2013년](../Page/2013년.md "wikilink") [3월 28일에](../Page/3월_28일.md "wikilink") 시험구간 속도 421.4 km/h를 돌파하였다.
 
 ## 사진
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJMAX Portable 2](https://ko.wikipedia.org/wiki/DJMAX_Portable_2).
 
 
-**디제이맥스 포터블 2**(DJMAX Portable 2, DMP2)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 게임 개발사인 [펜타비전](https://ko.wikipedia.org/wiki/펜타비전 "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). [온라인 게임으로](https://ko.wikipedia.org/wiki/온라인_게임 "wikilink") 만들어진 [디제이맥스](https://ko.wikipedia.org/wiki/디제이맥스 "wikilink")를 [플레이스테이션 포터블용으로](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 이식한 [디제이맥스 포터블의](https://ko.wikipedia.org/wiki/디제이맥스_포터블 "wikilink") 후속작이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") 현재 5만장의 판매고를 올렸다.
+**디제이맥스 포터블 2**(DJMAX Portable 2, DMP2)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). [온라인 게임으로](../Page/온라인_게임.md "wikilink") 만들어진 [디제이맥스](../Page/디제이맥스.md "wikilink")를 [플레이스테이션 포터블용으로](../Page/플레이스테이션_포터블.md "wikilink") 이식한 [디제이맥스 포터블의](https://ko.wikipedia.org/wiki/디제이맥스_포터블 "wikilink") 후속작이다. [2007년](../Page/2007년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") 현재 5만장의 판매고를 올렸다.
 
 ## 디제이맥스 포터블과의 차이점
 
@@ -53,7 +53,7 @@
 <!-- end list -->
 
   - Linked Disc
-    DJMax Portable 1을 DJMax Portable 2의 시스템으로 즐길 수 있게 해주는 모드, 하기 위해서는 DJMax Portable 1의 [UMD](https://ko.wikipedia.org/wiki/유니버설_미디어_디스크 "wikilink")™가 필요하다. 'Linked Disc'모드에서는 DJMax Portable1에서 사용되었던 각곡의 BGA대신 범용BGA가 사용된다.Link Disc를 이용해 DJMax Portable 2의 히든 요소를 DJMax Portable과의 연동으로 해금시킬 수 있다.
+    DJMax Portable 1을 DJMax Portable 2의 시스템으로 즐길 수 있게 해주는 모드, 하기 위해서는 DJMax Portable 1의 [UMD](../Page/유니버설_미디어_디스크.md "wikilink")™가 필요하다. 'Linked Disc'모드에서는 DJMax Portable1에서 사용되었던 각곡의 BGA대신 범용BGA가 사용된다.Link Disc를 이용해 DJMax Portable 2의 히든 요소를 DJMax Portable과의 연동으로 해금시킬 수 있다.
 
 <!-- end list -->
 

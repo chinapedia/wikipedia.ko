@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [JJK](https://ko.wikipedia.org/wiki/JJK).
 
 
-**JJK**(, [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [1월 25일](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 래퍼이다. **제이제이케이**로 읽으며, 소속사는 C9 엔터테인먼트이고, 소속 크루는 ADV (Angdreville, 앙드레빌) 크루이다.
+**JJK**(, [1985년](../Page/1985년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 래퍼이다. **제이제이케이**로 읽으며, 소속사는 C9 엔터테인먼트이고, 소속 크루는 ADV (Angdreville, 앙드레빌) 크루이다.
 
 ## 바이오그래피
 
 JJK는 대구에 있는 외국인학교에서 축제 기간에 작은 공연을 하며 처음 음악을 시작했다. 이후 대구 힙합 동호회를 통해 활동을 시작했으며, 2000년 봄 김진표의 개인 홈페이지에 존재하던 "랩퍼모여" 라는 게시판을 통해 인터넷 상에서 처음 모습을 드러냈다. 얼마 안 돼 ADV (Angdreville, 앙드레빌) 크루가 결성되고 거기의 창립 멤버로 들어가게 되었다. 이후 서울로 올라와 각종 공연과 대회에서 활동했으며, 특히 랩 프리스타일 배틀 쪽에서 좋은 전적을 거두었다.
 
-처음으로 앨범에서 모습을 드러낸 것은 2004년 11월 조성빈의 EP '130'에 '희생양'이란 곡에 피쳐링하면서부터였지만\[1\] 이 이전부터 밀림닷컴에 올린 곡들로 이미 적지 않은 인지도를 쌓아둔 상태였다. 2006년 10월 DJ Bay의 레이블인 'Sugarhigh Music'과 계약을 맺고 다음달 첫 앨범 '비공식적 기록'을 냈는데, 여기에 [Tablo](https://ko.wikipedia.org/wiki/타블로 "wikilink") 디스곡인 *누가 날 대표하는가* 와 [Paloalto](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink") 디스가 일부 포함된 *Makes the Way*가 실려서 많은 논란이 있었다. 현재 Tablo와 Paloalto와는 화해를 한 상태이다.
+처음으로 앨범에서 모습을 드러낸 것은 2004년 11월 조성빈의 EP '130'에 '희생양'이란 곡에 피쳐링하면서부터였지만\[1\] 이 이전부터 밀림닷컴에 올린 곡들로 이미 적지 않은 인지도를 쌓아둔 상태였다. 2006년 10월 DJ Bay의 레이블인 'Sugarhigh Music'과 계약을 맺고 다음달 첫 앨범 '비공식적 기록'을 냈는데, 여기에 [Tablo](../Page/타블로.md "wikilink") 디스곡인 *누가 날 대표하는가* 와 [Paloalto](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink") 디스가 일부 포함된 *Makes the Way*가 실려서 많은 논란이 있었다. 현재 Tablo와 Paloalto와는 화해를 한 상태이다.
 
 공연 활동 이외에도 TRSM(Teen 랩사모)이라는 웹 동아리에서 홍대에서 정기적으로 주최하는 국내 최초의 프리스타일 모임 **Rap Attack**을 이끈 바 있다.
 
@@ -27,19 +27,19 @@ JJK는 대구에 있는 외국인학교에서 축제 기간에 작은 공연을 
 
 ## 음반 활동
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") 정규 1집 《비공식적 기록》
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 22일](https://ko.wikipedia.org/wiki/3월_22일 "wikilink") 무료 싱글 \`화두\`\[4\]
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 정규 2집 《왕처럼 주인처럼》
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") EP 앨범 《재》
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") 정규 3집 《도착》
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") 디지털 EP 《도착 후》
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") 디지털 싱글 \`360도\`
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 24일](https://ko.wikipedia.org/wiki/5월_24일 "wikilink") 믹스테잎 《비공식적 기록 II》
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 19일](https://ko.wikipedia.org/wiki/8월_19일 "wikilink") 디지털 싱글 *Thank You, Summer*
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") 디지털 싱글 *FLESH*
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") 정규 4집 《고결한 충돌》
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 12일](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") *PROJECT COMPOUND*
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") The Alley Cats
+  - [2006년](../Page/2006년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") 정규 1집 《비공식적 기록》
+  - [2008년](../Page/2008년.md "wikilink") [3월 22일](../Page/3월_22일.md "wikilink") 무료 싱글 \`화두\`\[4\]
+  - [2009년](../Page/2009년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 정규 2집 《왕처럼 주인처럼》
+  - [2010년](../Page/2010년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") EP 앨범 《재》
+  - [2012년](../Page/2012년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") 정규 3집 《도착》
+  - [2012년](../Page/2012년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") 디지털 EP 《도착 후》
+  - [2013년](../Page/2013년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") 디지털 싱글 \`360도\`
+  - [2013년](../Page/2013년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") 믹스테잎 《비공식적 기록 II》
+  - [2013년](../Page/2013년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") 디지털 싱글 *Thank You, Summer*
+  - [2013년](../Page/2013년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") 디지털 싱글 *FLESH*
+  - [2015년](../Page/2015년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") 정규 4집 《고결한 충돌》
+  - [2015년](../Page/2015년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") *PROJECT COMPOUND*
+  - [2017년](../Page/2017년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") The Alley Cats
 
 ## 출연 작품
 
@@ -52,15 +52,15 @@ JJK는 대구에 있는 외국인학교에서 축제 기간에 작은 공연을 
 
 ### Tablo와의 불화
 
-이것은 [Tablo가](https://ko.wikipedia.org/wiki/타블로 "wikilink") Rap Attack에 왔을 때 얘기로, 그가 당시 Rap Attack을 진행하던 JJK를 만났을 때 벌어진 일이다. JJK는 [Tablo에게](https://ko.wikipedia.org/wiki/타블로 "wikilink") [에픽 하이의](https://ko.wikipedia.org/wiki/에픽_하이 "wikilink") 1, 2집은 그런대로 좋았으나 3집은 실망스러웠다는 내용으로 프리스타일을 했다. 이에 대한 반응으로 Tablo는 랩 대신 귓속말로 '내가 있어서 너네 같은 애들이 랩하는 거야'라고 답했고, 이를 언더그라운드를 무시하는 발언으로 받아들인 JJK는 그의 앨범에 '그 누가 날 대표하는가'라는 곡을 발표했다 (이 곡의 제목은 '어차피 난 나를 욕하는 너를 대표해'라는 [에픽 하이의](https://ko.wikipedia.org/wiki/에픽_하이 "wikilink") 3집 수록곡 Lesson 3의 가사를 비꼰 것이다).\[5\] 또 이 일은 '비공식적 기록'이라는 트랙에도 짧게 언급이 되어있다. 이후 Tablo는 그 당시 "'너 같은 사람도 있고 나 같은 사람도 있어야 힙합이 발전한다"라고 말했다고 주장했다. 그래서 짧게 '했다'와 '안했다'를 두고 말이 오갔었는데, 서로 말이 잘못 전해졌다고 판결을 내리고 화해 했지만 앨범이 공장 프레싱 공정에 넘어간 이후에 만남을 가진 탓으로 곡은 그대로 앨범에 실려나왔다. 이 곡에 참여한 [Double K는](https://ko.wikipedia.org/wiki/더블_케이 "wikilink") 당시 그 곡이 Tablo 디스곡인 줄 모르고 참여했다고 알려졌다.\[6\]\[7\]
+이것은 [Tablo가](../Page/타블로.md "wikilink") Rap Attack에 왔을 때 얘기로, 그가 당시 Rap Attack을 진행하던 JJK를 만났을 때 벌어진 일이다. JJK는 [Tablo에게](../Page/타블로.md "wikilink") [에픽 하이의](https://ko.wikipedia.org/wiki/에픽_하이 "wikilink") 1, 2집은 그런대로 좋았으나 3집은 실망스러웠다는 내용으로 프리스타일을 했다. 이에 대한 반응으로 Tablo는 랩 대신 귓속말로 '내가 있어서 너네 같은 애들이 랩하는 거야'라고 답했고, 이를 언더그라운드를 무시하는 발언으로 받아들인 JJK는 그의 앨범에 '그 누가 날 대표하는가'라는 곡을 발표했다 (이 곡의 제목은 '어차피 난 나를 욕하는 너를 대표해'라는 [에픽 하이의](https://ko.wikipedia.org/wiki/에픽_하이 "wikilink") 3집 수록곡 Lesson 3의 가사를 비꼰 것이다).\[5\] 또 이 일은 '비공식적 기록'이라는 트랙에도 짧게 언급이 되어있다. 이후 Tablo는 그 당시 "'너 같은 사람도 있고 나 같은 사람도 있어야 힙합이 발전한다"라고 말했다고 주장했다. 그래서 짧게 '했다'와 '안했다'를 두고 말이 오갔었는데, 서로 말이 잘못 전해졌다고 판결을 내리고 화해 했지만 앨범이 공장 프레싱 공정에 넘어간 이후에 만남을 가진 탓으로 곡은 그대로 앨범에 실려나왔다. 이 곡에 참여한 [Double K는](../Page/더블_케이.md "wikilink") 당시 그 곡이 Tablo 디스곡인 줄 모르고 참여했다고 알려졌다.\[6\]\[7\]
 
-앨범 발매 직전 JJK는 디스곡에 대해 사과하는 글을 올렸는데, 이후 [Xepy](https://ko.wikipedia.org/wiki/제피_\(음악가\) "wikilink") 앨범 참여곡 *You Don't Know Shit*와 자신의 곡 〈비공식적 기록 II〉를 통해 디스를 했던 것은 미안하나 사과문은 자신의 의도가 아닌 강압에 의해 올렸다는 점을 확실히 하였다.\[8\]\[9\]
+앨범 발매 직전 JJK는 디스곡에 대해 사과하는 글을 올렸는데, 이후 [Xepy](../Page/제피_\(음악가\).md "wikilink") 앨범 참여곡 *You Don't Know Shit*와 자신의 곡 〈비공식적 기록 II〉를 통해 디스를 했던 것은 미안하나 사과문은 자신의 의도가 아닌 강압에 의해 올렸다는 점을 확실히 하였다.\[8\]\[9\]
 
 ### Paloalto와의 불화
 
-JJK와 P-flow가 함께 공연을 준비할 때의 얘기다. 당시 공연의 게스트로 [Paloalto가](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink") 섭외되었는데, Paloalto는 공연 당일날 피치 못할 사정으로 출연하지 못할 것 같다고 통보했고, 결국 함께 공연하는 것은 다음으로 미루어졌다. 이후 [Csp와의](https://ko.wikipedia.org/wiki/씨에스피 "wikilink") 공연 때 Paloalto가 섭외되었는데, 이때도 그는 불가피하게 공연에 나가지 못할 것 같다고 알려왔으나, 당일날 [가리온](https://ko.wikipedia.org/wiki/가리온 "wikilink")과 함께 공연한 것으로 밝혀졌다. 이 일에 대한 당시의 JJK의 Paloalto에 대한 반감은 'Makes the Way'와 '비공식적 기록'이란 곡에 짧게 들어가있다. JJK는 Paloalto가 군대에 간 관계로 아직 화해를 하지 못했지만, 그와 진심으로 대화를 나누고 화해를 하고 싶다고 밝혔다.\[10\] 현재는 화해한 상태다.\[11\]
+JJK와 P-flow가 함께 공연을 준비할 때의 얘기다. 당시 공연의 게스트로 [Paloalto가](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink") 섭외되었는데, Paloalto는 공연 당일날 피치 못할 사정으로 출연하지 못할 것 같다고 통보했고, 결국 함께 공연하는 것은 다음으로 미루어졌다. 이후 [Csp와의](../Page/씨에스피.md "wikilink") 공연 때 Paloalto가 섭외되었는데, 이때도 그는 불가피하게 공연에 나가지 못할 것 같다고 알려왔으나, 당일날 [가리온](../Page/가리온.md "wikilink")과 함께 공연한 것으로 밝혀졌다. 이 일에 대한 당시의 JJK의 Paloalto에 대한 반감은 'Makes the Way'와 '비공식적 기록'이란 곡에 짧게 들어가있다. JJK는 Paloalto가 군대에 간 관계로 아직 화해를 하지 못했지만, 그와 진심으로 대화를 나누고 화해를 하고 싶다고 밝혔다.\[10\] 현재는 화해한 상태다.\[11\]
 
-2009년에 와서 [힙합플레이야](https://ko.wikipedia.org/wiki/힙합플레이야 "wikilink") 한 글에서 Paloalto가 리플을 통해 입장표명을 하면서 이 일은 실제보다 많이 부풀려졌다는 것이 알려졌다. 갈등 요인은 다만, Paloalto가 "리스펙하는 사람이랑만 딜하고 싶다"라는 발언을 통해 인지도 낮은 언더그라운드를 무시한 것처럼 비쳐진 데 있었다.
+2009년에 와서 [힙합플레이야](../Page/힙합플레이야.md "wikilink") 한 글에서 Paloalto가 리플을 통해 입장표명을 하면서 이 일은 실제보다 많이 부풀려졌다는 것이 알려졌다. 갈등 요인은 다만, Paloalto가 "리스펙하는 사람이랑만 딜하고 싶다"라는 발언을 통해 인지도 낮은 언더그라운드를 무시한 것처럼 비쳐진 데 있었다.
 
 ### Absotyle과의 불화
 
@@ -78,8 +78,8 @@ JJK는 이에 대해 반격곡을 준비하려 했으나 주변의 만류로 완
 
 ## 외부 링크
 
-  - [JJK](https://twitter.com/makestheway) - [트위터](https://ko.wikipedia.org/wiki/트위터 "wikilink")
-  - [JJK](https://www.instagram.com/advjjking/) - [인스타그램](https://ko.wikipedia.org/wiki/인스타그램 "wikilink")
+  - [JJK](https://twitter.com/makestheway) - [트위터](../Page/트위터.md "wikilink")
+  - [JJK](https://www.instagram.com/advjjking/) - [인스타그램](../Page/인스타그램.md "wikilink")
 
 [분류:1985년 태어남](https://ko.wikipedia.org/wiki/분류:1985년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:추계예술대학교 동문](https://ko.wikipedia.org/wiki/분류:추계예술대학교_동문 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:한국어 가수](https://ko.wikipedia.org/wiki/분류:한국어_가수 "wikilink") [분류:2000년대 가수](https://ko.wikipedia.org/wiki/분류:2000년대_가수 "wikilink") [분류:2010년대 가수](https://ko.wikipedia.org/wiki/분류:2010년대_가수 "wikilink") [분류:Show Me The Money 참가자](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money_참가자 "wikilink")
 
@@ -89,7 +89,7 @@ JJK는 이에 대해 반격곡을 준비하려 했으나 주변의 만류로 완
 4.  [JJK - 화두 무료 다운로드 페이지](http://www.hiphopplaya.com/mp3/view.html?num=435&page=13&category=&pid=&keyfield=&key=&sortupdate)
 5.  [힙합플레이야 2006년 12월 9일 JJK 인터뷰](http://www.hiphopplaya.com/magazine/article/view.html?category=&category2=&page=1&sort=&num=2223&keyfield=&key=)
 6.  ["JJK, 앨범 발매를 앞두고" 힙합플레이야 2006년 11월 13일 뉴스](http://www.hiphopplaya.com/magazine/article/view.html?category=&category2=&page=1&sort=&num=2164&keyfield=&key=jjk)
-7.  [M.net](https://ko.wikipedia.org/wiki/엠넷 "wikilink") 비틀즈 코드 시즌2 쇼미더머니, 2012년 8월 13일
+7.  [M.net](../Page/엠넷.md "wikilink") 비틀즈 코드 시즌2 쇼미더머니, 2012년 8월 13일
 8.  XEPY - You Never Know 가사 중 "그 밤에 받은 전화 "사죄와 살인, 그 둘 중 You choose." 글을 넘겨 수정 된 글을 얹어"
 9.  JJK - 비공식적 기록 II 가사 중 "다만 사과문은 내 글이 아니었어 진실이야 이건/그는 내게 그 형을 그 곳에서 빼겠다며 글을 쓰라했고 내 글을 두번 수정했지"
 10.

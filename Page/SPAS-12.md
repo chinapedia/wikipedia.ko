@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [SPAS-12](https://ko.wikipedia.org/wiki/SPAS-12).
 
 
-**SPAS-12**()는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 프란치 S.p.A사에 의해 [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")\~[2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")까지 개발 및 생산된 반자동 [산탄총](https://ko.wikipedia.org/wiki/산탄총 "wikilink")이다.
+**SPAS-12**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 프란치 S.p.A사에 의해 [1979년](../Page/1979년.md "wikilink")\~[2000년](../Page/2000년.md "wikilink")까지 개발 및 생산된 반자동 [산탄총](https://ko.wikipedia.org/wiki/산탄총 "wikilink")이다.
 
 ## 개요
 
-SPAS-12는 [경찰](https://ko.wikipedia.org/wiki/경찰 "wikilink") 및 [군용](https://ko.wikipedia.org/wiki/군사 "wikilink") 화기로서 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")에 개발을 시작하여 1979년 생산에 돌입하였다. 미국에 소개된 시기는 [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink")으로 경찰과 특수 부대에 매우 인기가 높았으며, 민간 시장에는 스포츠용 산탄총으로서 들어져 왔다. 다루기가 간편하고 강력했으므로, 오래 지나지 않은 시기에 군용 산탄총으로 조정되어 민간 시장으로의 유입은 완전하게 봉쇄되게 되었다. 하지만, 많은 수가 국경을 넘어왔고 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 생산이 중단되면서, 상대적으로 높은 가격을 가지게 되었다. 지금의 SPAS-12는 수집가들이 가지기를 바라는 화기중 하나이다.
+SPAS-12는 [경찰](../Page/경찰.md "wikilink") 및 [군용](https://ko.wikipedia.org/wiki/군사 "wikilink") 화기로서 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")에 개발을 시작하여 1979년 생산에 돌입하였다. 미국에 소개된 시기는 [1983년](../Page/1983년.md "wikilink")으로 경찰과 특수 부대에 매우 인기가 높았으며, 민간 시장에는 스포츠용 산탄총으로서 들어져 왔다. 다루기가 간편하고 강력했으므로, 오래 지나지 않은 시기에 군용 산탄총으로 조정되어 민간 시장으로의 유입은 완전하게 봉쇄되게 되었다. 하지만, 많은 수가 국경을 넘어왔고 [2000년](../Page/2000년.md "wikilink") 생산이 중단되면서, 상대적으로 높은 가격을 가지게 되었다. 지금의 SPAS-12는 수집가들이 가지기를 바라는 화기중 하나이다.
 
 ## 작동 방식
 
-반자동 사격과 펌프 액션의 두가지 [작동 방식을](https://ko.wikipedia.org/wiki/작동_방식 "wikilink") 가진다. 반자동일 경우, 전면 손잡이가 잠기고 [방아쇠](https://ko.wikipedia.org/wiki/방아쇠 "wikilink")를 당겨 [약실](https://ko.wikipedia.org/wiki/약실 "wikilink")에 들어간 [탄환](https://ko.wikipedia.org/wiki/탄환 "wikilink")을 발사한 후의 다음 탄환의 장전은 [가스에](https://ko.wikipedia.org/wiki/기체 "wikilink") 의해 자체적으로 이루어지게 되며, 초당 4발의 탄환이 소비된다.
+반자동 사격과 펌프 액션의 두가지 [작동 방식을](https://ko.wikipedia.org/wiki/작동_방식 "wikilink") 가진다. 반자동일 경우, 전면 손잡이가 잠기고 [방아쇠](https://ko.wikipedia.org/wiki/방아쇠 "wikilink")를 당겨 [약실](https://ko.wikipedia.org/wiki/약실 "wikilink")에 들어간 [탄환](https://ko.wikipedia.org/wiki/탄환 "wikilink")을 발사한 후의 다음 탄환의 장전은 [가스에](../Page/기체.md "wikilink") 의해 자체적으로 이루어지게 되며, 초당 4발의 탄환이 소비된다.
 
 두 번째 방식은 [펌프 액션으로](https://ko.wikipedia.org/wiki/펌프_액션 "wikilink") 탄환을 발사한 후, 전면 손잡이를 안쪽으로 당겨 탄피를 약실에서 배출함과 동시에 약실에 채워넣는다. 이 방식은 주로 폭동을 진압하기 위해 [최루가스탄을](https://ko.wikipedia.org/wiki/최루제 "wikilink"), 총기로 인한 인명 피해를 최소화하면서 [용의자](https://ko.wikipedia.org/wiki/용의자 "wikilink")를 검거하기 위하여 고무탄을 발사할때 유용하다.
 

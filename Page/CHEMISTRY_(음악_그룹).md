@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [CHEMISTRY \( \)](https://ko.wikipedia.org/wiki/CHEMISTRY_\(_\)).
 
 
-**케미스트리** (CHEMISTRY)는 도친 요시쿠니와 가와바타 가나메로 구성된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [팝](https://ko.wikipedia.org/wiki/팝_음악 "wikilink")/[R\&B](https://ko.wikipedia.org/wiki/리듬_앤_블루스 "wikilink") 음악 그룹이다.
+**케미스트리** (CHEMISTRY)는 도친 요시쿠니와 가와바타 가나메로 구성된 [일본](../Page/일본.md "wikilink")의 [팝](../Page/팝_음악.md "wikilink")/[R\&B](https://ko.wikipedia.org/wiki/리듬_앤_블루스 "wikilink") 음악 그룹이다.
 
 [TV 도쿄의](../Page/TV_도쿄.md "wikilink") 오디션 방송 《아사얀》에서 실시한 남성 보컬 오디션에서 뽑힌 두 사람으로 구성되어 있으며, 그룹 명은 두 사람의 목소리가 만들어 내는 ‘음악적 화학반응’에서 유래한 것이다\[1\].
 
-2010년에는 한국 영화 《[무적자](https://ko.wikipedia.org/wiki/무적자 "wikilink")》의 주제가 〈A Better Tomorrow〉를 한국어로 불렀으며\[2\], 11월에는 [Mnet 아시안 뮤직 어워드에서](https://ko.wikipedia.org/wiki/Mnet_아시안_뮤직_어워드 "wikilink") 베스트 아시아 남자 그룹상을 수상했다\[3\].
+2010년에는 한국 영화 《[무적자](../Page/무적자.md "wikilink")》의 주제가 〈A Better Tomorrow〉를 한국어로 불렀으며\[2\], 11월에는 [Mnet 아시안 뮤직 어워드에서](https://ko.wikipedia.org/wiki/Mnet_아시안_뮤직_어워드 "wikilink") 베스트 아시아 남자 그룹상을 수상했다\[3\].
 
 ## 구성원
 
-  - 도친 요시쿠니 (, [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink")출생, [히로시마현](https://ko.wikipedia.org/wiki/히로시마현 "wikilink") [아키 타카타 시](https://ko.wikipedia.org/wiki/아키_타카타_시 "wikilink") 출신)
-  - 가와바타 가나메 (, [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")출생, [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") [가츠시카 구](https://ko.wikipedia.org/wiki/가츠시카_구 "wikilink") 출신)
+  - 도친 요시쿠니 (, [1978년](../Page/1978년.md "wikilink")출생, [히로시마현](../Page/히로시마현.md "wikilink") [아키 타카타 시](https://ko.wikipedia.org/wiki/아키_타카타_시 "wikilink") 출신)
+  - 가와바타 가나메 (, [1979년](../Page/1979년.md "wikilink")출생, [도쿄도](../Page/도쿄도.md "wikilink") [가츠시카 구](https://ko.wikipedia.org/wiki/가츠시카_구 "wikilink") 출신)
 
 ## 대표곡
 

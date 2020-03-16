@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ G. ](https://ko.wikipedia.org/wiki/_G._).
 
 
-**에드윈 게르하르트 크레브스**(, [1918년](https://ko.wikipedia.org/wiki/1918년 "wikilink") [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [생화학자](https://ko.wikipedia.org/wiki/생화학자 "wikilink")이다. 1992년에 [단백질](https://ko.wikipedia.org/wiki/단백질 "wikilink")의 [인산화](https://ko.wikipedia.org/wiki/인산화 "wikilink")에 대한 연구로 [에드먼드 H. 피셔와](https://ko.wikipedia.org/wiki/에드먼드_H._피셔 "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.
+**에드윈 게르하르트 크레브스**(, [1918년](../Page/1918년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [생화학자](https://ko.wikipedia.org/wiki/생화학자 "wikilink")이다. 1992년에 [단백질](../Page/단백질.md "wikilink")의 [인산화](https://ko.wikipedia.org/wiki/인산화 "wikilink")에 대한 연구로 [에드먼드 H. 피셔와](https://ko.wikipedia.org/wiki/에드먼드_H._피셔 "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.
 
 ## 수상 경력
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Insomniac \(  \)](https://ko.wikipedia.org/wiki/Insomniac_\(__\)).
 
 
-《**Insomniac**》은 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")에 발매된 [그린 데이의](https://ko.wikipedia.org/wiki/그린_데이 "wikilink") 네 번째 정규 음반이다. 미국에서 2위에 오르고, 2x 플래티넘을 인증 받았으나, 지난 음반 《[Dookie](../Page/Dookie.md "wikilink")》만큼 성공적이거나 인기를 끌지는 못 하였다. 또한 《Dookie》의 〈[Longview](https://ko.wikipedia.org/wiki/Longview "wikilink")〉나 〈[Basket Case](https://ko.wikipedia.org/wiki/Basket_Case "wikilink")〉와 같이 큰 히트를 친 싱글도 나오지 않았다.
+《**Insomniac**》은 [1995년](../Page/1995년.md "wikilink")에 발매된 [그린 데이의](../Page/그린_데이.md "wikilink") 네 번째 정규 음반이다. 미국에서 2위에 오르고, 2x 플래티넘을 인증 받았으나, 지난 음반 《[Dookie](../Page/Dookie.md "wikilink")》만큼 성공적이거나 인기를 끌지는 못 하였다. 또한 《Dookie》의 〈[Longview](https://ko.wikipedia.org/wiki/Longview "wikilink")〉나 〈[Basket Case](https://ko.wikipedia.org/wiki/Basket_Case "wikilink")〉와 같이 큰 히트를 친 싱글도 나오지 않았다.
 
 ## 트랙 목록
 

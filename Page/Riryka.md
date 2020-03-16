@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Riryka](https://ko.wikipedia.org/wiki/Riryka).
 
 
-**리리카**(Riryka)는 [Angel Note](https://ko.wikipedia.org/wiki/Angel_Note "wikilink")(엔젤노트) 소속의 보컬리스트이다. 2006년 봄까지 '미루쿠쿠루미()'라는 이름으로 활동했다.
+**리리카**(Riryka)는 [Angel Note](../Page/Angel_Note.md "wikilink")(엔젤노트) 소속의 보컬리스트이다. 2006년 봄까지 '미루쿠쿠루미()'라는 이름으로 활동했다.
 
 ## 음반
 
@@ -12,7 +12,7 @@
 <!-- end list -->
 
   -
-    [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 24일](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") 발매
+    [2007년](../Page/2007년.md "wikilink") [1월 24일](../Page/1월_24일.md "wikilink") 발매
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink") 발매
+    [2007년](../Page/2007년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink") 발매
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@
 <!-- end list -->
 
   -
-    [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 발매
+    [2008년](../Page/2008년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") 발매
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 <!-- end list -->
 
   -
-    [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink") 발매
+    [2008년](../Page/2008년.md "wikilink") [6월 4일](../Page/6월_4일.md "wikilink") 발매
 
 <!-- end list -->
 

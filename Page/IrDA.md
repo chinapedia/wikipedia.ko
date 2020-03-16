@@ -29,7 +29,7 @@ Tiny TP(Tiny Transport Protocol) 는 IrLMP 계층의 최상위에 위치한다. 
 
 ### IrCOMM
 
-IrCOMM(Infrared Communications Protocol)은 적외선 장치를 [직렬](https://ko.wikipedia.org/wiki/직렬_포트 "wikilink") 또는 [병렬 포트처럼](https://ko.wikipedia.org/wiki/병렬_포트 "wikilink") 동작하게 만들어준다. IrLMP 계층의 최상위에 위치한다. 이 사양의 지원은 선택사항이다.
+IrCOMM(Infrared Communications Protocol)은 적외선 장치를 [직렬](../Page/직렬_포트.md "wikilink") 또는 [병렬 포트처럼](../Page/병렬_포트.md "wikilink") 동작하게 만들어준다. IrLMP 계층의 최상위에 위치한다. 이 사양의 지원은 선택사항이다.
 
 ### OBEX
 

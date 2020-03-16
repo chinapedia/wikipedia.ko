@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Definitely Maybe](https://ko.wikipedia.org/wiki/Definitely_Maybe).
 
 
-《**Definitely Maybe**》는 1994년 발표된 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 밴드 [오아시스의](https://ko.wikipedia.org/wiki/오아시스_\(밴드\) "wikilink") 데뷔 음반이다. 이 음반은 앞서 발매되었던 〈[Supersonic](https://ko.wikipedia.org/wiki/Supersonic_\(오아시스의_노래\) "wikilink")〉,〈[Shakermaker](../Page/Shakermaker.md "wikilink")〉,〈[Live Forever](https://ko.wikipedia.org/wiki/Live_Forever "wikilink")〉 등 싱글들의 연속 히트에 힘입어, 발매되자 마자 영국에서 상업적으로도 비평적으로도 큰 성공을 거두었다. - [앨범리뷰](https://studiocroissant.com/blog-music-definitelymaybe/)
+《**Definitely Maybe**》는 1994년 발표된 [영국](../Page/영국.md "wikilink")의 밴드 [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 데뷔 음반이다. 이 음반은 앞서 발매되었던 〈[Supersonic](../Page/Supersonic_\(오아시스의_노래\).md "wikilink")〉,〈[Shakermaker](../Page/Shakermaker.md "wikilink")〉,〈[Live Forever](../Page/Live_Forever.md "wikilink")〉 등 싱글들의 연속 히트에 힘입어, 발매되자 마자 영국에서 상업적으로도 비평적으로도 큰 성공을 거두었다. - [앨범리뷰](https://studiocroissant.com/blog-music-definitelymaybe/)
 
 《Definitely Maybe》는 데뷔 앨범으로서는 영국 역사상 단기간에 가장 많은 판매 기록을 세우며 발매 첫 주 영국 앨범 차트 1위를 차지하였고, 총 판매량 [7x 플래티넘](../Page/음반_판매량_인증.md "wikilink") (210만장)이상을 기록하였다. 또한 빌보드 200 차트에서 58위밖에 오르지 못했음에도 불구하고 미국에서도 100만장 이상이 판매되며 오아시스의 미국 진출의 서막을 알렸다. 이 음반은 전 세계적으로 800만 장 이상의 판매고를 올렸다.
 
-1997년 《Definitely Maybe》는 HMV, Channel 4, 《가디언(The Guardian)》 및 Classic FM에서 진행한 '밀레니엄의 음악' 투표에서 역사상 가장 위대한 음반 부문 14위를 차지했고,\[1\] 2005년 Channel 4에서 선정한 '가장 위대한 음반 100선'에서는 6위에 랭크되었다.\[2\] 또한 2006년 1월에 발표된 《NME》의 '역사상 가장 위대한 영국 음반' 투표에서는 이 음반이 스톤 로지즈의 데뷔 음반 《The Stone Roses》와 더 스미스의 3집 《The Queen Is Dead》에 이어 3위에 올랐고,\[3\] 《NME》와 《영국의 히트 싱글과 음반들 (British Hit Singles and Albums)》에서 4만여 명의 음악 팬을 대상으로 실시하여 그 해 6월에 발표된 '역사상 가장 뛰어난 음반' 투표에서는 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 《[Sgt. Pepper's Lonely Hearts Club Band](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink")》와 《[Revolver](https://ko.wikipedia.org/wiki/Revolver "wikilink")》를 각각 2, 3위로 밀어내고 당당히 1위를 차지했다.\[4\]
+1997년 《Definitely Maybe》는 HMV, Channel 4, 《가디언(The Guardian)》 및 Classic FM에서 진행한 '밀레니엄의 음악' 투표에서 역사상 가장 위대한 음반 부문 14위를 차지했고,\[1\] 2005년 Channel 4에서 선정한 '가장 위대한 음반 100선'에서는 6위에 랭크되었다.\[2\] 또한 2006년 1월에 발표된 《NME》의 '역사상 가장 위대한 영국 음반' 투표에서는 이 음반이 스톤 로지즈의 데뷔 음반 《The Stone Roses》와 더 스미스의 3집 《The Queen Is Dead》에 이어 3위에 올랐고,\[3\] 《NME》와 《영국의 히트 싱글과 음반들 (British Hit Singles and Albums)》에서 4만여 명의 음악 팬을 대상으로 실시하여 그 해 6월에 발표된 '역사상 가장 뛰어난 음반' 투표에서는 [비틀즈](../Page/비틀즈.md "wikilink")의 《[Sgt. Pepper's Lonely Hearts Club Band](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink")》와 《[Revolver](../Page/Revolver.md "wikilink")》를 각각 2, 3위로 밀어내고 당당히 1위를 차지했다.\[4\]
 
 ## 음반 역사
 
-1994년 오아시스는 80년대 말부터 90년대 초반을 풍미하다 소멸해간 '매드체스터(Madchester)' 씬의 후예인 것처럼 보였다. 그러나 [펑크](https://ko.wikipedia.org/wiki/펑크 "wikilink"), 댄스 및 힙합 장르에 대한 실험에 탐닉하던 다른 매드체스터 밴드와는 달리, 오아시스는 비교적 정통 [로큰롤](https://ko.wikipedia.org/wiki/로큰롤 "wikilink")(rock and roll)을 표방하는 밴드였다. [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")(Blur)나 [버브](https://ko.wikipedia.org/wiki/버브 "wikilink")(The Verve) 등의 밴드와 함께 오아시스는 새로운 조류를 만들어내는 듯 보였는데, 그때까지는 이를 표현하는 단어가 없었다. 그 해 말 언론들이 이를 일컬어 [브릿팝](https://ko.wikipedia.org/wiki/브릿팝 "wikilink")이라 명명했고, 《Definitely Maybe》는 소급적으로 브릿팝을 대표하는 음반이 되었다.
+1994년 오아시스는 80년대 말부터 90년대 초반을 풍미하다 소멸해간 '매드체스터(Madchester)' 씬의 후예인 것처럼 보였다. 그러나 [펑크](../Page/펑크.md "wikilink"), 댄스 및 힙합 장르에 대한 실험에 탐닉하던 다른 매드체스터 밴드와는 달리, 오아시스는 비교적 정통 [로큰롤](../Page/로큰롤.md "wikilink")(rock and roll)을 표방하는 밴드였다. [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")(Blur)나 [버브](../Page/버브.md "wikilink")(The Verve) 등의 밴드와 함께 오아시스는 새로운 조류를 만들어내는 듯 보였는데, 그때까지는 이를 표현하는 단어가 없었다. 그 해 말 언론들이 이를 일컬어 [브릿팝](../Page/브릿팝.md "wikilink")이라 명명했고, 《Definitely Maybe》는 소급적으로 브릿팝을 대표하는 음반이 되었다.
 
 이 음반에 수록된 많은 곡들이 1년 전 리버풀에서 리얼 피플(The Real People)의 그리피스 형제(Chris and Tony Griffiths)와 함께 녹음했던 데모 테입인 《[Live Demonstraion](https://ko.wikipedia.org/wiki/Live_Demonstraion "wikilink")》에 담겨있었다. 정식 녹음작업은 생각보다 오래걸렸는데, 대부분의 곡은 마크 코일(Mark Coyle)이 프로듀싱에 참여하여 3번에 걸쳐 녹음되었고, 오웬 모리스(Owen Morris)가 최종 믹싱을 맡아 모두가 만족할 만한 결과물이 나왔다. 당시 데뷔 음반으로는 엄청나게도 거의 8만5천 파운드(당시 환율로 약 1억원) 가까이가 제작비용으로 투여됐다.
 
@@ -21,13 +21,13 @@
 
 1.  〈[Rock 'n' Roll Star](https://ko.wikipedia.org/wiki/Rock_'N'_Roll_Star "wikilink")〉 – 5:23
 2.  〈[Shakermaker](../Page/Shakermaker.md "wikilink")〉 – 5:08
-3.  〈[Live Forever](https://ko.wikipedia.org/wiki/Live_Forever "wikilink")〉 – 4:36
+3.  〈[Live Forever](../Page/Live_Forever.md "wikilink")〉 – 4:36
 4.  〈[Up in the Sky](https://ko.wikipedia.org/wiki/Up_in_the_Sky "wikilink")〉 – 4:28
 5.  〈[Columbia](https://ko.wikipedia.org/wiki/Columbia "wikilink")〉 – 6:17
       - 〈Sad Song〉(영국 발매 LP 및 일본판에만 수록됨) – 4:27
-6.  〈[Supersonic](https://ko.wikipedia.org/wiki/Supersonic_\(오아시스의_노래\) "wikilink")〉 – 4:43
+6.  〈[Supersonic](../Page/Supersonic_\(오아시스의_노래\).md "wikilink")〉 – 4:43
 7.  〈[Bring It on Down](https://ko.wikipedia.org/wiki/Bring_It_on_Down "wikilink")〉 – 4:17
-8.  〈[Cigarettes & Alcohol](https://ko.wikipedia.org/wiki/Cigarettes_&_Alcohol "wikilink")〉 – 4:49
+8.  〈[Cigarettes & Alcohol](../Page/Cigarettes_&_Alcohol.md "wikilink")〉 – 4:49
 9.  〈[Digsy's Dinner](https://ko.wikipedia.org/wiki/Digsy's_Dinner "wikilink")〉 – 2:32
       - 북미에서는 [〈Digsy's Diner〉](http://www.cbc.ca/thehour/video.php?id=1205) 로 잘못 표기되어 발매됨
 10. 〈[Slide Away](https://ko.wikipedia.org/wiki/Slide_Away "wikilink")〉 – 6:32
@@ -49,11 +49,11 @@
 
 ## DVD
 
-《Definitely Maybe》는 2004년 9월 발매 10주년을 기념하여 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")로도 출시되어 영국에서만 트리플 플래티넘을 기록했다. 이 DVD에는 멤버들과 관계자들의 최신 인터뷰 등 앨범 녹음과정에 관한 1시간짜리 다큐멘터리가 포함되어 있다. 또한 영국 LP판과 일본판에만 수록되어 있던 〈Sad Song〉을 포함한 앨범 전곡이 수록되어 있다. 12곡 각각의 라이브 공연 및 TV 출연 동영상, 〈Supersonic〉,〈Shakermaker〉,〈Live Forever〉,〈Cigarettes & Alcohol〉,〈Rock 'n' Roll Star〉의 뮤직비디오도 볼 수 있다.
+《Definitely Maybe》는 2004년 9월 발매 10주년을 기념하여 [DVD](../Page/DVD.md "wikilink")로도 출시되어 영국에서만 트리플 플래티넘을 기록했다. 이 DVD에는 멤버들과 관계자들의 최신 인터뷰 등 앨범 녹음과정에 관한 1시간짜리 다큐멘터리가 포함되어 있다. 또한 영국 LP판과 일본판에만 수록되어 있던 〈Sad Song〉을 포함한 앨범 전곡이 수록되어 있다. 12곡 각각의 라이브 공연 및 TV 출연 동영상, 〈Supersonic〉,〈Shakermaker〉,〈Live Forever〉,〈Cigarettes & Alcohol〉,〈Rock 'n' Roll Star〉의 뮤직비디오도 볼 수 있다.
 
 영국과 아일랜드에서 발매된 한정판에는 라이브 공연 뒷이야기 등 추가동영상을 담은 보너스 DVD가 포함되어 있다.
 
-이 DVD와 함께 제작된 〈There We Were, Now Here We Are...: The Making Of Oasis〉라는 제목의 TV용 다큐멘터리도 있었다. 이 작품은 《Definitely Maybe : The DVD》출시 3일 전인 2004년 9월 3일 금요일 밤 11시 30분, Channel 4를 통해 영국에 방영됐다. 이 프로그램은 DVD에 포함된 인터뷰 및 미공개 인터뷰 등을 통하여 밴드의 결성 및 《Definitely Maybe》에서 커트된 4곡의 싱글에 대해 집중조명했다. 또한 《[Be Here Now](https://ko.wikipedia.org/wiki/Be_Here_Now "wikilink")》가 발표되기 5년 전인 1992년 보드워크 클럽에서 이들이 〈[All Around the World](https://ko.wikipedia.org/wiki/All_Around_the_World "wikilink")〉를 연습하는 모습이 담긴 매우 희귀한 영상도 방송됐다.
+이 DVD와 함께 제작된 〈There We Were, Now Here We Are...: The Making Of Oasis〉라는 제목의 TV용 다큐멘터리도 있었다. 이 작품은 《Definitely Maybe : The DVD》출시 3일 전인 2004년 9월 3일 금요일 밤 11시 30분, Channel 4를 통해 영국에 방영됐다. 이 프로그램은 DVD에 포함된 인터뷰 및 미공개 인터뷰 등을 통하여 밴드의 결성 및 《Definitely Maybe》에서 커트된 4곡의 싱글에 대해 집중조명했다. 또한 《[Be Here Now](../Page/Be_Here_Now.md "wikilink")》가 발표되기 5년 전인 1992년 보드워크 클럽에서 이들이 〈[All Around the World](../Page/All_Around_the_World.md "wikilink")〉를 연습하는 모습이 담긴 매우 희귀한 영상도 방송됐다.
 
 2005년 이 DVD는 [너바나](../Page/너바나.md "wikilink")(Nirvana)의 〈With the Lights Out〉, 픽시스(Pixies)의 〈Pixies〉, 시저 시스터스(Scissor Sisters)의 〈We Are Scissor Sisters and So Are You〉, 화이트 스트라이프(The White Stripes)의 〈Under Blackpool Lights〉등의 쟁쟁한 후보를 제치고 NME 최우수 음악 DVD상을 수상했다.\[5\]
 
@@ -91,9 +91,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>〈<a href="https://ko.wikipedia.org/wiki/Supersonic_(오아시스의_노래)" title="wikilink">Supersonic</a>〉</p>
+<td><p>〈<a href="../Page/Supersonic_(오아시스의_노래).md" title="wikilink">Supersonic</a>〉</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/1994년" title="wikilink">1994년</a> <a href="https://ko.wikipedia.org/wiki/4월_11일" title="wikilink">4월 11일</a></li>
+<li>발매일: <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/4월_11일.md" title="wikilink">4월 11일</a></li>
 <li>작사/곡: <a href="../Page/노엘_갤러거.md" title="wikilink">노엘 갤러거</a></li>
 <li>프로듀서: 오아시스, 마크 코일</li>
 <li>뮤직비디오 감독: Mark Szaszy (UK) / Nick Egan (US)</li>
@@ -103,7 +103,7 @@
 <tr class="even">
 <td><p>〈<a href="../Page/Shakermaker.md" title="wikilink">Shakermaker</a>〉</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/1994년" title="wikilink">1994년</a> <a href="https://ko.wikipedia.org/wiki/6월_13일" title="wikilink">6월 13일</a></li>
+<li>발매일: <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/6월_13일.md" title="wikilink">6월 13일</a></li>
 <li>작사/곡: <a href="../Page/노엘_갤러거.md" title="wikilink">노엘 갤러거</a></li>
 <li>프로듀서: 오아시스, 마크 코일, 오웬 모리스</li>
 <li>뮤직비디오 감독: Nick Egan</li>
@@ -111,9 +111,9 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>〈<a href="https://ko.wikipedia.org/wiki/Live_Forever" title="wikilink">Live Forever</a>〉</p>
+<td><p>〈<a href="../Page/Live_Forever.md" title="wikilink">Live Forever</a>〉</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/1994년" title="wikilink">1994년</a> <a href="https://ko.wikipedia.org/wiki/8월_8일" title="wikilink">8월 8일</a></li>
+<li>발매일: <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/8월_8일.md" title="wikilink">8월 8일</a></li>
 <li>작사/곡: <a href="../Page/노엘_갤러거.md" title="wikilink">노엘 갤러거</a></li>
 <li>프로듀서: 오아시스, 마크 코일, 오웬 모리스</li>
 <li>뮤직비디오 감독: Carlos Grasso (UK) / Nick Egan (US)</li>
@@ -121,9 +121,9 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>〈<a href="https://ko.wikipedia.org/wiki/Cigarettes_&amp;_Alcohol" title="wikilink">Cigarettes &amp; Alcohol</a>〉</p>
+<td><p>〈<a href="../Page/Cigarettes_&amp;_Alcohol.md" title="wikilink">Cigarettes &amp; Alcohol</a>〉</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/1994년" title="wikilink">1994년</a> <a href="https://ko.wikipedia.org/wiki/10월_10일" title="wikilink">10월 10일</a></li>
+<li>발매일: <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/10월_10일.md" title="wikilink">10월 10일</a></li>
 <li>작사/곡: <a href="../Page/노엘_갤러거.md" title="wikilink">노엘 갤러거</a></li>
 <li>프로듀서: 오아시스, 마크 코일, 오웬 모리스</li>
 <li>뮤직비디오 감독: Mark Szaszy</li>

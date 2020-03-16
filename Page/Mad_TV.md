@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mad TV](https://ko.wikipedia.org/wiki/Mad_TV).
 
 
-《**Mad TV**》는 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [레인보우 아츠에서](https://ko.wikipedia.org/wiki/레인보우_아츠 "wikilink") 개발한 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") [방송국](https://ko.wikipedia.org/wiki/방송국 "wikilink")을 관리하는 시뮬레이션 컴퓨터 게임으로, [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink") 버전과 [아미가](https://ko.wikipedia.org/wiki/아미가 "wikilink") 버전이 있다. 게임에서 플레이어는 텔레비전 방송국의 새로운 프로그램 편성자가 된다. 플레이어는 방송국의 프로그램을 광고와 함께 편성해 수익을 올리는 것과 함께, 건물의 제일 윗층에 근무하는 베티(Betty)라는 여성과 결혼하는 것을 목표로 한다.
+《**Mad TV**》는 [1991년](../Page/1991년.md "wikilink") [레인보우 아츠에서](https://ko.wikipedia.org/wiki/레인보우_아츠 "wikilink") 개발한 [텔레비전](../Page/텔레비전.md "wikilink") [방송국](https://ko.wikipedia.org/wiki/방송국 "wikilink")을 관리하는 시뮬레이션 컴퓨터 게임으로, [MS-DOS](../Page/MS-DOS.md "wikilink") 버전과 [아미가](../Page/아미가.md "wikilink") 버전이 있다. 게임에서 플레이어는 텔레비전 방송국의 새로운 프로그램 편성자가 된다. 플레이어는 방송국의 프로그램을 광고와 함께 편성해 수익을 올리는 것과 함께, 건물의 제일 윗층에 근무하는 베티(Betty)라는 여성과 결혼하는 것을 목표로 한다.
 
 게임의 주 인터페이스를 살펴보면 남자 캐릭터를 여러 층의 빌딩을 마우스 클릭으로 움직인다. 문을 클릭하면, 해당 방 안의 장면으로 바뀌면서 방에 들어가게 된다. 시간이 일정하게 정해져 있는데 게임 시간으로 매일 9시간 동안 방송국 건물 내에 있으면서 일을 해야 하며 게임 시간이 지나면 그 날의 일은 끝나게 된다.
 
@@ -13,7 +13,7 @@
 
 게임의 최종 목표는 베티와의 사랑을 달성하는 것이다. 베티는 문화와 관련된 내용을 보도하는 리포터로 건물의 맨 위층에서 일한다. 다른 방송국의 편성자들도 이러한 목표를 가지고 있다. 베티의 애정도는 베티의 프로그램을 방송하거나 모피 코트나 다이아몬드 반지 같은 그녀의 선물을 살 때 상승한다.
 
-이 게임은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 개발되었기 때문에 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")판이 공식적으로 있으나 번역에서 많은 문제점이 있었다. 그렇기 때문에 오자가 발견되며 [잉그리시](https://ko.wikipedia.org/wiki/잉그리시 "wikilink")적이다.
+이 게임은 [독일](../Page/독일.md "wikilink")에서 개발되었기 때문에 [영어](../Page/영어.md "wikilink")판이 공식적으로 있으나 번역에서 많은 문제점이 있었다. 그렇기 때문에 오자가 발견되며 [잉그리시](https://ko.wikipedia.org/wiki/잉그리시 "wikilink")적이다.
 
 Mad TV 2라고 불리는 후속편이 있으나 독일에서만 출시되었고 독일어로만 제공된다. 또한 온라인 버전이 독일에 있다.
 

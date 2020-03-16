@@ -1,41 +1,41 @@
 > This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
 
 
-**세리에 A**()는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 프로[축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 최상위 리그이며, 스폰서십으로 **세리에 A TIM**이 공식 명칭이다. [레가 나치오날레 프로페시오니스티 세리에 A에서](https://ko.wikipedia.org/wiki/레가_나치오날레_프로페시오니스티_세리에_A "wikilink") 주관한다.\[1\]
+**세리에 A**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 프로[축구](../Page/축구.md "wikilink") 최상위 리그이며, 스폰서십으로 **세리에 A TIM**이 공식 명칭이다. [레가 나치오날레 프로페시오니스티 세리에 A에서](https://ko.wikipedia.org/wiki/레가_나치오날레_프로페시오니스티_세리에_A "wikilink") 주관한다.\[1\]
 
-FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의 전국 단일 조로 구성된 리그방식은 1929년부터 시행했다. 가장 많이 우승한 구단은 35번을 우승한 이며, [인테르는](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노 "wikilink") 단일 조 역사 이래로 강등의 역사가 없는 모든 시즌 참가 구단이다.
+FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의 전국 단일 조로 구성된 리그방식은 1929년부터 시행했다. 가장 많이 우승한 구단은 35번을 우승한 이며, [인테르는](../Page/FC_인테르나치오날레_밀라노.md "wikilink") 단일 조 역사 이래로 강등의 역사가 없는 모든 시즌 참가 구단이다.
 
-세리에 A는 [UEFA 계수에](https://ko.wikipedia.org/wiki/UEFA_계수 "wikilink") 따라 3위에 올라있으며, 이는 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")의 [라리가](https://ko.wikipedia.org/wiki/라리가 "wikilink")와 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 다음이다.\[2\]
+세리에 A는 [UEFA 계수에](../Page/UEFA_계수.md "wikilink") 따라 3위에 올라있으며, 이는 [스페인](../Page/스페인.md "wikilink")의 [라리가](https://ko.wikipedia.org/wiki/라리가 "wikilink")와 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 다음이다.\[2\]
 
 ## 구성 및 규정
 
-[1929-30 시즌은](https://ko.wikipedia.org/wiki/세리에_A_1929-30 "wikilink") 세리에 A 역사의 중요한 분기점으로 평가받는데, 이는 이전까지는 아마추어 리그였으며, 지역단위의 조로 구성된 리그를 전국 단일 조로 통합된 리그가 시작됐기 때문이다.\[3\] 순위와 대진을 결정하는데 있어서 보다 공정한 방법인 [리그전](https://ko.wikipedia.org/wiki/리그전 "wikilink")으로 순위를 정하게 됐다. 리그의 구단 수 구성을 16개 혹은 18개 사이에서 바뀌고 바뀌는 과정들은 있어왔지만 이를 제외한 다른 규정의 개정은 없었고, 참가 구단 수는 [2004-05 시즌부터](https://ko.wikipedia.org/wiki/세리에_A_2004-05 "wikilink") 20개 구단으로 확장되기에 이른다.\[4\] 승점에 관해서는 승리를 거둘시 3점이 부여되며([1994-95 시즌](https://ko.wikipedia.org/wiki/세리에_A_1994-95 "wikilink") 전까지는 2점 이었다.\[5\]), 무승부에는 1점, 패배에는 승점이 주어지지 않는다. 최종 순위 결정 시 동일 승점의 다수 구단이 있는경우 아래의 순위결정 기준이 적용된다. 적용 순서대로 상대 전적 승점, 상대 전적 득실차, 종합 골 득실차, 종합 득점 수, 제비 순이다. 과거 2005년 이전가지는 플레이오프 경기를 별도로 가지는게 관행이었다.
+[1929-30 시즌은](https://ko.wikipedia.org/wiki/세리에_A_1929-30 "wikilink") 세리에 A 역사의 중요한 분기점으로 평가받는데, 이는 이전까지는 아마추어 리그였으며, 지역단위의 조로 구성된 리그를 전국 단일 조로 통합된 리그가 시작됐기 때문이다.\[3\] 순위와 대진을 결정하는데 있어서 보다 공정한 방법인 [리그전](../Page/리그전.md "wikilink")으로 순위를 정하게 됐다. 리그의 구단 수 구성을 16개 혹은 18개 사이에서 바뀌고 바뀌는 과정들은 있어왔지만 이를 제외한 다른 규정의 개정은 없었고, 참가 구단 수는 [2004-05 시즌부터](../Page/세리에_A_2004-05.md "wikilink") 20개 구단으로 확장되기에 이른다.\[4\] 승점에 관해서는 승리를 거둘시 3점이 부여되며([1994-95 시즌](https://ko.wikipedia.org/wiki/세리에_A_1994-95 "wikilink") 전까지는 2점 이었다.\[5\]), 무승부에는 1점, 패배에는 승점이 주어지지 않는다. 최종 순위 결정 시 동일 승점의 다수 구단이 있는경우 아래의 순위결정 기준이 적용된다. 적용 순서대로 상대 전적 승점, 상대 전적 득실차, 종합 골 득실차, 종합 득점 수, 제비 순이다. 과거 2005년 이전가지는 플레이오프 경기를 별도로 가지는게 관행이었다.
 
-38 라운드까지 종료된 후 1위 구단은 스쿠데토와 [챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 진출 자격을 받는다. 리그 2\~4위 팀들은 챔피언스리그 조별리그 진출 자격을 부여받으며, 리그 5\~6위 팀과 [코파 이탈리아](https://ko.wikipedia.org/wiki/코파_이탈리아 "wikilink") 우승팀은 [유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 진줄 자격을 받는데, 코파 이탈리아 우승팀과 5위팀은 조별리그, 6위팀은 2차 예선 진출권을 받는다. 만약 코파 이탈리아 우승팀이 리그 순위 6위권 이내에 있다면, 5, 6위 구단이 조별리그로, 7위 구단이 2차 예선으로 진출할 수 있게된다. 리그 하위 3개 팀은 [세리에 B로](https://ko.wikipedia.org/wiki/세리에_B "wikilink") 강등되며, 세리에 B에서 승격하는 팀들로 빈 자리를 채우게 된다.
+38 라운드까지 종료된 후 1위 구단은 스쿠데토와 [챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 진출 자격을 받는다. 리그 2\~4위 팀들은 챔피언스리그 조별리그 진출 자격을 부여받으며, 리그 5\~6위 팀과 [코파 이탈리아](../Page/코파_이탈리아.md "wikilink") 우승팀은 [유로파리그](../Page/UEFA_유로파리그.md "wikilink") 진줄 자격을 받는데, 코파 이탈리아 우승팀과 5위팀은 조별리그, 6위팀은 2차 예선 진출권을 받는다. 만약 코파 이탈리아 우승팀이 리그 순위 6위권 이내에 있다면, 5, 6위 구단이 조별리그로, 7위 구단이 2차 예선으로 진출할 수 있게된다. 리그 하위 3개 팀은 [세리에 B로](../Page/세리에_B.md "wikilink") 강등되며, 세리에 B에서 승격하는 팀들로 빈 자리를 채우게 된다.
 
 ## 트로피 및 상징물
 
-[섬네일시즌](https://ko.wikipedia.org/wiki/파일:Dino_Zoff_-_1972_-_Juventus_FC.jpg "wikilink") 중 스쿠데토와 별이 박힌 유니폼을 입고 있는 [디노 초프](https://ko.wikipedia.org/wiki/디노_초프 "wikilink") 선수\]\] 우승 구단은 그 다음시즌 동안 자신의 유니폼에 [스쿠데토](https://ko.wikipedia.org/wiki/스쿠데토 "wikilink")를 붙일 수 있는데, 스쿠데토는 이탈리아 삼색기가 그려진 방패모양의 뱃지이며, 이는 [제노아가](https://ko.wikipedia.org/wiki/제노아_CFC "wikilink") 우승한 [1924-25 시즌부터](https://ko.wikipedia.org/wiki/세리에_A_1924-25 "wikilink") 시작됐다. [1960-61 시즌부터](../Page/세리에_A_1960-61.md "wikilink") 우승팀은 [코파 캄피오니 디탈리아라은](https://ko.wikipedia.org/wiki/코파_캄피오니_디탈리아 "wikilink") 우승 트로피를 수여 받았으며, 이는 공식 세리에 A 트로피다.
+[섬네일시즌](https://ko.wikipedia.org/wiki/파일:Dino_Zoff_-_1972_-_Juventus_FC.jpg "wikilink") 중 스쿠데토와 별이 박힌 유니폼을 입고 있는 [디노 초프](../Page/디노_초프.md "wikilink") 선수\]\] 우승 구단은 그 다음시즌 동안 자신의 유니폼에 [스쿠데토](../Page/스쿠데토.md "wikilink")를 붙일 수 있는데, 스쿠데토는 이탈리아 삼색기가 그려진 방패모양의 뱃지이며, 이는 [제노아가](../Page/제노아_CFC.md "wikilink") 우승한 [1924-25 시즌부터](https://ko.wikipedia.org/wiki/세리에_A_1924-25 "wikilink") 시작됐다. [1960-61 시즌부터](../Page/세리에_A_1960-61.md "wikilink") 우승팀은 [코파 캄피오니 디탈리아라은](https://ko.wikipedia.org/wiki/코파_캄피오니_디탈리아 "wikilink") 우승 트로피를 수여 받았으며, 이는 공식 세리에 A 트로피다.
 
-[1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") 움베르토 아녤리의 아이디어로 세리에 A에서 10번의 우승을 거둔 구단에게 특별한 별을 수여하기로 정했다. 황금색의 오각별 모양의 뱃지는 유니폼에 부착되는데, 보통 구단 로고와 함께 있는걸 볼 수 있다.\[6\] [유벤투스가](https://ko.wikipedia.org/wiki/유벤투스_FC "wikilink") [1957-58 시즌으로](../Page/세리에_A_1957-58.md "wikilink") 10번째 스쿠데토의 업적을 이룩으며 이 황금별을 가져갔는데, 이로서 유벤투스는 세계 최초로 기념 뱃지를 유니폼에 부착하는 구단이 됐다.\[7\] 이후로 이탈리아에서는 [인테르와](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노 "wikilink") [밀란이](https://ko.wikipedia.org/wiki/AC_밀란 "wikilink") 10번째 우승을 거두며 황금별을 가져갔다. 유벤투스는 이탈리아 축구계에 있어 유일하게 20, 30번의 세리에 A 우승으로 2개 이상의 별을 부착하는 구단이다.
+[1958년](../Page/1958년.md "wikilink") 움베르토 아녤리의 아이디어로 세리에 A에서 10번의 우승을 거둔 구단에게 특별한 별을 수여하기로 정했다. 황금색의 오각별 모양의 뱃지는 유니폼에 부착되는데, 보통 구단 로고와 함께 있는걸 볼 수 있다.\[6\] [유벤투스가](../Page/유벤투스_FC.md "wikilink") [1957-58 시즌으로](../Page/세리에_A_1957-58.md "wikilink") 10번째 스쿠데토의 업적을 이룩으며 이 황금별을 가져갔는데, 이로서 유벤투스는 세계 최초로 기념 뱃지를 유니폼에 부착하는 구단이 됐다.\[7\] 이후로 이탈리아에서는 [인테르와](../Page/FC_인테르나치오날레_밀라노.md "wikilink") [밀란이](../Page/AC_밀란.md "wikilink") 10번째 우승을 거두며 황금별을 가져갔다. 유벤투스는 이탈리아 축구계에 있어 유일하게 20, 30번의 세리에 A 우승으로 2개 이상의 별을 부착하는 구단이다.
 
 현재 세리에 A에서 황금 별을 받은 구단.
 
-  - [15px](https://ko.wikipedia.org/wiki/파일:Stella_10_Scudetti.svg "wikilink") [15px](https://ko.wikipedia.org/wiki/파일:Stella_10_Scudetti.svg "wikilink") [15px](https://ko.wikipedia.org/wiki/파일:Stella_10_Scudetti.svg "wikilink") [유벤투스](https://ko.wikipedia.org/wiki/유벤투스_FC "wikilink") ([1957-58](../Page/세리에_A_1957-58.md "wikilink"), [1981-82](https://ko.wikipedia.org/wiki/세리에_A_1981-82 "wikilink"), [2013-14](../Page/세리에_A_2013-14.md "wikilink"))
-  - [15px](https://ko.wikipedia.org/wiki/파일:Stella_10_Scudetti.svg "wikilink") [인테르나치오날레](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노 "wikilink") ([1965-66](../Page/세리에_A_1965-66.md "wikilink"))
-  - [15px](https://ko.wikipedia.org/wiki/파일:Stella_10_Scudetti.svg "wikilink") [밀란](https://ko.wikipedia.org/wiki/AC_밀란 "wikilink") ([1978-79](https://ko.wikipedia.org/wiki/세리에_A_1978-79 "wikilink"))
+  - [15px](https://ko.wikipedia.org/wiki/파일:Stella_10_Scudetti.svg "wikilink") [15px](https://ko.wikipedia.org/wiki/파일:Stella_10_Scudetti.svg "wikilink") [15px](https://ko.wikipedia.org/wiki/파일:Stella_10_Scudetti.svg "wikilink") [유벤투스](../Page/유벤투스_FC.md "wikilink") ([1957-58](../Page/세리에_A_1957-58.md "wikilink"), [1981-82](https://ko.wikipedia.org/wiki/세리에_A_1981-82 "wikilink"), [2013-14](../Page/세리에_A_2013-14.md "wikilink"))
+  - [15px](https://ko.wikipedia.org/wiki/파일:Stella_10_Scudetti.svg "wikilink") [인테르나치오날레](../Page/FC_인테르나치오날레_밀라노.md "wikilink") ([1965-66](../Page/세리에_A_1965-66.md "wikilink"))
+  - [15px](https://ko.wikipedia.org/wiki/파일:Stella_10_Scudetti.svg "wikilink") [밀란](../Page/AC_밀란.md "wikilink") ([1978-79](https://ko.wikipedia.org/wiki/세리에_A_1978-79 "wikilink"))
 
 ## 역사
 
 [섬네일에서](https://ko.wikipedia.org/wiki/파일:Velodromo_Umberto_I.PNG "wikilink") 열린 최초의 이탈리아 1부 리그 경기.\]\]
 
-[1898년](https://ko.wikipedia.org/wiki/1898년 "wikilink")에 시작된 세리에 A는 초창기 약 20년 동안은 아마추어 구단들로 이루어져 있었고 대중의 관심이 낮았으며,\[8\] 이 기간동안 첫 번째 이탈리아 챔피언이 된 [제노아와](https://ko.wikipedia.org/wiki/제노아_CFC "wikilink") [프로 베르첼리가](https://ko.wikipedia.org/wiki/FC_프로_베르첼리_1892 "wikilink") 대부분의 우승을 차지했다.\[9\] [이탈리아 축구 연맹](../Page/이탈리아_축구_연맹.md "wikilink")(FIGC)은 리그 원년인 1898년에 조직되어 리그를 주최 및 주관했다. [1921년](https://ko.wikipedia.org/wiki/1921년 "wikilink") 축구리그 개혁을 주장한 [비토리오 포초가](../Page/비토리오_포초.md "wikilink") 새로운 리그를 만들자는 '포초 계획'을 세웠고, '포초 계획' 측과 FIGC간의 협정이 불발되며 이탈리아에 2개의 리그가 공존하는 상황이 생겼다. 신생 리그의 [1921-22](https://ko.wikipedia.org/wiki/프리마_디비시오네_1921-22 "wikilink") 시즌은 [이탈리아 축구 동맹](https://ko.wikipedia.org/wiki/이탈리아_축구_동맹 "wikilink")(CCI)이 주관하여 세리에 A 역사상 유일하게 FIGC가 주관하지 않은 시즌이 됐다. 이듬해 '콜롬보 타협'을 통해 FIGC가 '포초 계획'을 수용하며 재결합에 성공을 한다.\[10\]
+[1898년](../Page/1898년.md "wikilink")에 시작된 세리에 A는 초창기 약 20년 동안은 아마추어 구단들로 이루어져 있었고 대중의 관심이 낮았으며,\[8\] 이 기간동안 첫 번째 이탈리아 챔피언이 된 [제노아와](../Page/제노아_CFC.md "wikilink") [프로 베르첼리가](../Page/FC_프로_베르첼리_1892.md "wikilink") 대부분의 우승을 차지했다.\[9\] [이탈리아 축구 연맹](../Page/이탈리아_축구_연맹.md "wikilink")(FIGC)은 리그 원년인 1898년에 조직되어 리그를 주최 및 주관했다. [1921년](../Page/1921년.md "wikilink") 축구리그 개혁을 주장한 [비토리오 포초가](../Page/비토리오_포초.md "wikilink") 새로운 리그를 만들자는 '포초 계획'을 세웠고, '포초 계획' 측과 FIGC간의 협정이 불발되며 이탈리아에 2개의 리그가 공존하는 상황이 생겼다. 신생 리그의 [1921-22](https://ko.wikipedia.org/wiki/프리마_디비시오네_1921-22 "wikilink") 시즌은 [이탈리아 축구 동맹](https://ko.wikipedia.org/wiki/이탈리아_축구_동맹 "wikilink")(CCI)이 주관하여 세리에 A 역사상 유일하게 FIGC가 주관하지 않은 시즌이 됐다. 이듬해 '콜롬보 타협'을 통해 FIGC가 '포초 계획'을 수용하며 재결합에 성공을 한다.\[10\]
 
-1920년대 말 까지 이탈리아 축구 리그는 리그전으로 진행되는 여러개의 지역단위 조와 각 조의 승자들이 참가하는 토너먼트의 구성이었다. 하지만, 1929-30 시즌부터 '세리에 A'라는 새로운 이름과 함께, 지역단위 조의 구성을 폐지하고(1909-10시즌에 한번 시행됐던) 통합된 단일 [리그전](https://ko.wikipedia.org/wiki/리그전 "wikilink")의 구성으로 개편을 하여 오늘날까지 내려오고 있다. 1930년대의 시작은 이탈리아 축구 역사에서도 그리고 사회 전반에 걸쳐 크나큰 분기점이 됐다. 최다 우승팀 유벤투스, 국제 대회 트로피 수집가 밀란, 강등의 역사가 없는 인테르 구단을 부르는 소위 '트레 그란디'(빅 3)의 새 시대가 열렸다.\[11\] 수 많은 팬들이 생겨났고 미디어의 주목을 받으며 [사이클링을](https://ko.wikipedia.org/wiki/자전거_타기 "wikilink") 대신하여 명실공히 축구를 이탈리아 국민 스포츠로 만들었다.\[12\]
+1920년대 말 까지 이탈리아 축구 리그는 리그전으로 진행되는 여러개의 지역단위 조와 각 조의 승자들이 참가하는 토너먼트의 구성이었다. 하지만, 1929-30 시즌부터 '세리에 A'라는 새로운 이름과 함께, 지역단위 조의 구성을 폐지하고(1909-10시즌에 한번 시행됐던) 통합된 단일 [리그전](../Page/리그전.md "wikilink")의 구성으로 개편을 하여 오늘날까지 내려오고 있다. 1930년대의 시작은 이탈리아 축구 역사에서도 그리고 사회 전반에 걸쳐 크나큰 분기점이 됐다. 최다 우승팀 유벤투스, 국제 대회 트로피 수집가 밀란, 강등의 역사가 없는 인테르 구단을 부르는 소위 '트레 그란디'(빅 3)의 새 시대가 열렸다.\[11\] 수 많은 팬들이 생겨났고 미디어의 주목을 받으며 [사이클링을](../Page/자전거_타기.md "wikilink") 대신하여 명실공히 축구를 이탈리아 국민 스포츠로 만들었다.\[12\]
 
-[전간기](https://ko.wikipedia.org/wiki/전간기 "wikilink")와 [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 전후시기에 한해서 밀라노-토리노(밀란, 인테르와 유벤투스)라는 이탈리아 축구의 패권은 [볼로냐와](https://ko.wikipedia.org/wiki/볼로냐_FC_1909 "wikilink") 또다른 토리노 구단인 [토리노에](https://ko.wikipedia.org/wiki/토리노_FC "wikilink") 의해 심심치않게 무너졌다. 이후 수십년동안 볼로냐, 토리노와 더불어 [피오렌티나](https://ko.wikipedia.org/wiki/ACF_피오렌티나 "wikilink"), [라치오](https://ko.wikipedia.org/wiki/SS_라치오 "wikilink"), [로마](https://ko.wikipedia.org/wiki/AS_로마 "wikilink"), [나폴리가](https://ko.wikipedia.org/wiki/SSC_나폴리 "wikilink") 간헐적으로 스쿠데토를 들어올리긴 했으나, 연패로 이어지는 일은 없었다. 로마는 [1941-42시즌에](https://ko.wikipedia.org/wiki/세리에_A_1941-42 "wikilink") 최초로 북부지방에 쏠려있던 헤게모니를 무너뜨리고 우승을 거둔 최초의 중남부 구단이라는 역사를 만들어냈다.\[13\] 이보다 더 드문 위업을 남긴 구단으로는 [카살레](../Page/FBC_카살레_ASD.md "wikilink"), [노베세](https://ko.wikipedia.org/wiki/ASD_노베세 "wikilink")(상기된 FIGC와 CCI의 분열로 강팀 및 인기 구단들이 CCI로 유출된 FIGC [1921-22](https://ko.wikipedia.org/wiki/프리마_카테고리아_1921-22 "wikilink") 시즌에서 거둔 우승)가 20세기 전반에, 후반에는 [칼리아리](https://ko.wikipedia.org/wiki/칼리아리_칼초 "wikilink"), [베로나](https://ko.wikipedia.org/wiki/엘라스_베로나_FC "wikilink"), [삼프도리아가](https://ko.wikipedia.org/wiki/UC_삼프도리아 "wikilink") 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:Formazione_Juventus_1905.jpg "wikilink")
+[전간기](https://ko.wikipedia.org/wiki/전간기 "wikilink")와 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 전후시기에 한해서 밀라노-토리노(밀란, 인테르와 유벤투스)라는 이탈리아 축구의 패권은 [볼로냐와](../Page/볼로냐_FC_1909.md "wikilink") 또다른 토리노 구단인 [토리노에](../Page/토리노_FC.md "wikilink") 의해 심심치않게 무너졌다. 이후 수십년동안 볼로냐, 토리노와 더불어 [피오렌티나](../Page/ACF_피오렌티나.md "wikilink"), [라치오](../Page/SS_라치오.md "wikilink"), [로마](../Page/AS_로마.md "wikilink"), [나폴리가](../Page/SSC_나폴리.md "wikilink") 간헐적으로 스쿠데토를 들어올리긴 했으나, 연패로 이어지는 일은 없었다. 로마는 [1941-42시즌에](https://ko.wikipedia.org/wiki/세리에_A_1941-42 "wikilink") 최초로 북부지방에 쏠려있던 헤게모니를 무너뜨리고 우승을 거둔 최초의 중남부 구단이라는 역사를 만들어냈다.\[13\] 이보다 더 드문 위업을 남긴 구단으로는 [카살레](../Page/FBC_카살레_ASD.md "wikilink"), [노베세](https://ko.wikipedia.org/wiki/ASD_노베세 "wikilink")(상기된 FIGC와 CCI의 분열로 강팀 및 인기 구단들이 CCI로 유출된 FIGC [1921-22](https://ko.wikipedia.org/wiki/프리마_카테고리아_1921-22 "wikilink") 시즌에서 거둔 우승)가 20세기 전반에, 후반에는 [칼리아리](../Page/칼리아리_칼초.md "wikilink"), [베로나](../Page/엘라스_베로나_FC.md "wikilink"), [삼프도리아가](../Page/UC_삼프도리아.md "wikilink") 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:Formazione_Juventus_1905.jpg "wikilink")
 
-[잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")에서 열린 [1966년 FIFA 월드컵에서](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") [이탈리아 국가대표팀의](https://ko.wikipedia.org/wiki/이탈리아_축구_국가대표팀 "wikilink") 조별예선 탈락 후 [레가 나치오날레 프로페시오니스티는](https://ko.wikipedia.org/wiki/레가_나치오날레_프로페시오니스티 "wikilink") 해외 리그에서 외국인 선수를 영입하는 것을 전면 금지한다.\[14\] 1981-82시즌에 이르러 이탈리아 축구의 [순위가](https://ko.wikipedia.org/wiki/UEFA_계수 "wikilink") 역대 최하인 12위까지 떨어지고 [벨기에](https://ko.wikipedia.org/wiki/벨기에_퍼스트_디비전_A "wikilink"), [소련](https://ko.wikipedia.org/wiki/소비에트_톱리그 "wikilink"), [동독](https://ko.wikipedia.org/wiki/DDR_오버리가 "wikilink"), [체코슬로바키아와](https://ko.wikipedia.org/wiki/체코슬로바키아_1부_리그 "wikilink") 같은 제2등급 리그로 분류되는 수모를 겪는다.\[15\] 1980년대 초반에 이르러 위의 금지법은 서서히 완화되기 시작한다.
+[잉글랜드](../Page/잉글랜드.md "wikilink")에서 열린 [1966년 FIFA 월드컵에서](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") [이탈리아 국가대표팀의](../Page/이탈리아_축구_국가대표팀.md "wikilink") 조별예선 탈락 후 [레가 나치오날레 프로페시오니스티는](https://ko.wikipedia.org/wiki/레가_나치오날레_프로페시오니스티 "wikilink") 해외 리그에서 외국인 선수를 영입하는 것을 전면 금지한다.\[14\] 1981-82시즌에 이르러 이탈리아 축구의 [순위가](../Page/UEFA_계수.md "wikilink") 역대 최하인 12위까지 떨어지고 [벨기에](../Page/벨기에_퍼스트_디비전_A.md "wikilink"), [소련](../Page/소비에트_톱리그.md "wikilink"), [동독](../Page/DDR_오버리가.md "wikilink"), [체코슬로바키아와](../Page/체코슬로바키아_1부_리그.md "wikilink") 같은 제2등급 리그로 분류되는 수모를 겪는다.\[15\] 1980년대 초반에 이르러 위의 금지법은 서서히 완화되기 시작한다.
 
 역설적이게도 세리에 A는 하이테크한 훈련시스템과 외국인선수 시장 재개방으로 질적으로 향상되어\[16\] 1980, 90년대에 명성에서나 업적에서도 최고를 찍게된다.\[17\] 당시 세리에 A 팀은 유럽 클럽 대항전에 꾸준히 좋은 성적들을 남겼다. 특히 1989-90시즌에는 이탈리아 축구팀이 3개의 주요 UEFA 클럽 대항전을 모두 석권하는 역사적인 대업을 이룬때였다. 당시 이탈리아 리그는 수 년동안 UEFA 계수에서 1위를 기록하는 기염을 토했다.\[18\]
 
@@ -86,7 +86,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 
 ### 연대기순 우승 팀
 
-  - **[1898](https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1898 "wikilink"):  (1회)**
+  - **[1898](../Page/캄피오나토_이탈리아노_디_풋볼_1898.md "wikilink"):  (1회)**
   - [1899](https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1899 "wikilink"):  (2회)
   - [1900](https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1900 "wikilink"):  (3회)
   - **[1901](https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1901 "wikilink"):  (1회)**
@@ -116,7 +116,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
   - [1926-27](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1926-27 "wikilink"): <small>* 우승 박탈*</small>
   - **[1927-28](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1927-28 "wikilink"):  (1회)**
   - [1928-29](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1928-29 "wikilink"):  (2회)
-  - [1929-30](https://ko.wikipedia.org/wiki/세리에_A_1929-30 "wikilink"): [암브로시아나](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노 "wikilink") (3회)
+  - [1929-30](https://ko.wikipedia.org/wiki/세리에_A_1929-30 "wikilink"): [암브로시아나](../Page/FC_인테르나치오날레_밀라노.md "wikilink") (3회)
   - [1930-31](https://ko.wikipedia.org/wiki/세리에_A_1930-31 "wikilink"):  (3회)
   - [1931-32](https://ko.wikipedia.org/wiki/세리에_A_1931-32 "wikilink"):  (4회)
   - [1932-33](https://ko.wikipedia.org/wiki/세리에_A_1932-33 "wikilink"):  (5회)
@@ -124,12 +124,12 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
   - [1934-35](https://ko.wikipedia.org/wiki/세리에_A_1934-35 "wikilink"):  (7회)
   - [1935-36](https://ko.wikipedia.org/wiki/세리에_A_1935-36 "wikilink"):  (3회)
   - [1936-37](https://ko.wikipedia.org/wiki/세리에_A_1936-37 "wikilink"):  (4회)
-  - [1937-38](https://ko.wikipedia.org/wiki/세리에_A_1937-38 "wikilink"): [암브로시아나-인테르](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노 "wikilink") (4회)
+  - [1937-38](https://ko.wikipedia.org/wiki/세리에_A_1937-38 "wikilink"): [암브로시아나-인테르](../Page/FC_인테르나치오날레_밀라노.md "wikilink") (4회)
   - [1938-39](https://ko.wikipedia.org/wiki/세리에_A_1938-39 "wikilink"):  (5회)
 
 <!-- end list -->
 
-  - [1939-40](https://ko.wikipedia.org/wiki/세리에_A_1939-40 "wikilink"): [암브로시아나-인테르](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노 "wikilink") (5회)
+  - [1939-40](https://ko.wikipedia.org/wiki/세리에_A_1939-40 "wikilink"): [암브로시아나-인테르](../Page/FC_인테르나치오날레_밀라노.md "wikilink") (5회)
   - [1940-41](https://ko.wikipedia.org/wiki/세리에_A_1940-41 "wikilink"):  (6회)
   - **[1941-42](https://ko.wikipedia.org/wiki/세리에_A_1941-42 "wikilink"):  (1회)**
   - [1942-43](https://ko.wikipedia.org/wiki/세리에_A_1942-43 "wikilink"):  (2회)
@@ -187,24 +187,24 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
   - [1992-93](https://ko.wikipedia.org/wiki/세리에_A_1992-93 "wikilink"):  (13회)
   - [1993-94](https://ko.wikipedia.org/wiki/세리에_A_1993-94 "wikilink"):  (14회)
   - [1994-95](https://ko.wikipedia.org/wiki/세리에_A_1994-95 "wikilink"):  (23회)
-  - [1995-96](https://ko.wikipedia.org/wiki/세리에_A_1995-96 "wikilink"):  (15회)
-  - [1996-97](https://ko.wikipedia.org/wiki/세리에_A_1996-97 "wikilink"):  (24회)
-  - [1997-98](https://ko.wikipedia.org/wiki/세리에_A_1997-98 "wikilink"):  (25회)
-  - [1998-99](https://ko.wikipedia.org/wiki/세리에_A_1998-99 "wikilink"):  (16회)
-  - [1999-00](https://ko.wikipedia.org/wiki/세리에_A_1999-2000 "wikilink"):  (2회)
-  - [2000-01](https://ko.wikipedia.org/wiki/세리에_A_2000-01 "wikilink"):  (3회)
-  - [2001-02](https://ko.wikipedia.org/wiki/세리에_A_2001-02 "wikilink"):  (26회)
-  - [2002-03](https://ko.wikipedia.org/wiki/세리에_A_2002-03 "wikilink"):  (27회)
-  - [2003-04](https://ko.wikipedia.org/wiki/세리에_A_2003-04 "wikilink"):  (17회)
-  - [2004-05](https://ko.wikipedia.org/wiki/세리에_A_2004-05 "wikilink"): <small>* 우승 박탈*</small>
-  - [2005-06](https://ko.wikipedia.org/wiki/세리에_A_2005-06 "wikilink"):  (14회)
-  - [2006-07](https://ko.wikipedia.org/wiki/세리에_A_2006-07 "wikilink"):  (15회)
-  - [2007-08](https://ko.wikipedia.org/wiki/세리에_A_2007-08 "wikilink"):  (16회)
-  - [2008-09](https://ko.wikipedia.org/wiki/세리에_A_2008-09 "wikilink"):  (17회)
-  - [2009-10](https://ko.wikipedia.org/wiki/세리에_A_2009-10 "wikilink"):  (18회)
-  - [2010-11](https://ko.wikipedia.org/wiki/세리에_A_2010-11 "wikilink"):  (18회)
-  - [2011-12](https://ko.wikipedia.org/wiki/세리에_A_2011-12 "wikilink"):  (28회)
-  - [2012-13](https://ko.wikipedia.org/wiki/세리에_A_2012-13 "wikilink"):  (29회)
+  - [1995-96](../Page/세리에_A_1995-96.md "wikilink"):  (15회)
+  - [1996-97](../Page/세리에_A_1996-97.md "wikilink"):  (24회)
+  - [1997-98](../Page/세리에_A_1997-98.md "wikilink"):  (25회)
+  - [1998-99](../Page/세리에_A_1998-99.md "wikilink"):  (16회)
+  - [1999-00](../Page/세리에_A_1999-2000.md "wikilink"):  (2회)
+  - [2000-01](../Page/세리에_A_2000-01.md "wikilink"):  (3회)
+  - [2001-02](../Page/세리에_A_2001-02.md "wikilink"):  (26회)
+  - [2002-03](../Page/세리에_A_2002-03.md "wikilink"):  (27회)
+  - [2003-04](../Page/세리에_A_2003-04.md "wikilink"):  (17회)
+  - [2004-05](../Page/세리에_A_2004-05.md "wikilink"): <small>* 우승 박탈*</small>
+  - [2005-06](../Page/세리에_A_2005-06.md "wikilink"):  (14회)
+  - [2006-07](../Page/세리에_A_2006-07.md "wikilink"):  (15회)
+  - [2007-08](../Page/세리에_A_2007-08.md "wikilink"):  (16회)
+  - [2008-09](../Page/세리에_A_2008-09.md "wikilink"):  (17회)
+  - [2009-10](../Page/세리에_A_2009-10.md "wikilink"):  (18회)
+  - [2010-11](../Page/세리에_A_2010-11.md "wikilink"):  (18회)
+  - [2011-12](../Page/세리에_A_2011-12.md "wikilink"):  (28회)
+  - [2012-13](../Page/세리에_A_2012-13.md "wikilink"):  (29회)
   - [2013-14](../Page/세리에_A_2013-14.md "wikilink"):  (30회)
   - [2014-15](../Page/세리에_A_2014-15.md "wikilink"):  (31회)
   - [2015-16](../Page/세리에_A_2015-16.md "wikilink"):  (32회)
@@ -226,22 +226,22 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="odd">
 <td></td>
 <td><p>35</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1905" title="wikilink">1905</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1925-26" title="wikilink">1925-26</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1930-31" title="wikilink">1930-31</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1931-32" title="wikilink">1931-32</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1932-33" title="wikilink">1932-33</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1933-34" title="wikilink">1933-34</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1934-35" title="wikilink">1934-35</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1949-50" title="wikilink">1949-50</a>, <a href="../Page/세리에_A_1951-52.md" title="wikilink">1951-52</a>, <a href="../Page/세리에_A_1957-58.md" title="wikilink">1957-58</a>, <a href="../Page/세리에_A_1959-60.md" title="wikilink">1959-60</a>, <a href="../Page/세리에_A_1960-61.md" title="wikilink">1960-61</a>, <a href="../Page/세리에_A_1966-67.md" title="wikilink">1966-67</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1971-72" title="wikilink">1971-72</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1972-73" title="wikilink">1972-73</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1974-75" title="wikilink">1974-75</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1976-77" title="wikilink">1976-77</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1977-78" title="wikilink">1977-78</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1980-81" title="wikilink">1980-81</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1981-82" title="wikilink">1981-82</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1983-84" title="wikilink">1983-84</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1985-86" title="wikilink">1985-86</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1994-95" title="wikilink">1994-95</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1996-97" title="wikilink">1996-97</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1997-98" title="wikilink">1997-98</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2001-02" title="wikilink">2001-02</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2002-03" title="wikilink">2002-03</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2011-12" title="wikilink">2011-12</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2012-13" title="wikilink">2012-13</a>, <a href="../Page/세리에_A_2013-14.md" title="wikilink">2013-14</a>, <a href="../Page/세리에_A_2014-15.md" title="wikilink">2014-15</a>, <a href="../Page/세리에_A_2015-16.md" title="wikilink">2015-16</a>, <a href="../Page/세리에_A_2016-17.md" title="wikilink">2016-17</a>, <a href="../Page/세리에_A_2017-18.md" title="wikilink">2017-18</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2018-19" title="wikilink">2018-19</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1905" title="wikilink">1905</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1925-26" title="wikilink">1925-26</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1930-31" title="wikilink">1930-31</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1931-32" title="wikilink">1931-32</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1932-33" title="wikilink">1932-33</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1933-34" title="wikilink">1933-34</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1934-35" title="wikilink">1934-35</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1949-50" title="wikilink">1949-50</a>, <a href="../Page/세리에_A_1951-52.md" title="wikilink">1951-52</a>, <a href="../Page/세리에_A_1957-58.md" title="wikilink">1957-58</a>, <a href="../Page/세리에_A_1959-60.md" title="wikilink">1959-60</a>, <a href="../Page/세리에_A_1960-61.md" title="wikilink">1960-61</a>, <a href="../Page/세리에_A_1966-67.md" title="wikilink">1966-67</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1971-72" title="wikilink">1971-72</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1972-73" title="wikilink">1972-73</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1974-75" title="wikilink">1974-75</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1976-77" title="wikilink">1976-77</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1977-78" title="wikilink">1977-78</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1980-81" title="wikilink">1980-81</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1981-82" title="wikilink">1981-82</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1983-84" title="wikilink">1983-84</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1985-86" title="wikilink">1985-86</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1994-95" title="wikilink">1994-95</a>, <a href="../Page/세리에_A_1996-97.md" title="wikilink">1996-97</a>, <a href="../Page/세리에_A_1997-98.md" title="wikilink">1997-98</a>, <a href="../Page/세리에_A_2001-02.md" title="wikilink">2001-02</a>, <a href="../Page/세리에_A_2002-03.md" title="wikilink">2002-03</a>, <a href="../Page/세리에_A_2011-12.md" title="wikilink">2011-12</a>, <a href="../Page/세리에_A_2012-13.md" title="wikilink">2012-13</a>, <a href="../Page/세리에_A_2013-14.md" title="wikilink">2013-14</a>, <a href="../Page/세리에_A_2014-15.md" title="wikilink">2014-15</a>, <a href="../Page/세리에_A_2015-16.md" title="wikilink">2015-16</a>, <a href="../Page/세리에_A_2016-17.md" title="wikilink">2016-17</a>, <a href="../Page/세리에_A_2017-18.md" title="wikilink">2017-18</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2018-19" title="wikilink">2018-19</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>18</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1909-10" title="wikilink">1909-10</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1919-" title="wikilink">1919-</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1929-30" title="wikilink">1929-30</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1937-38" title="wikilink">1937-38</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1939-40" title="wikilink">1939-40</a>, <a href="../Page/세리에_A_1952-53.md" title="wikilink">1952-53</a>, <a href="../Page/세리에_A_1953-54.md" title="wikilink">1953-54</a>, <a href="../Page/세리에_A_1962-63.md" title="wikilink">1962-63</a>, <a href="../Page/세리에_A_1964-65.md" title="wikilink">1964-65</a>, <a href="../Page/세리에_A_1965-66.md" title="wikilink">1965-66</a>, <a href="../Page/세리에_A_1970-71.md" title="wikilink">1970-71</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1979-80" title="wikilink">1979-80</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1988-89" title="wikilink">1988-89</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2005-06" title="wikilink">2005-06</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2006-07" title="wikilink">2006-07</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2007-08" title="wikilink">2007-08</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2008-09" title="wikilink">2008-09</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2009-10" title="wikilink">2009-10</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1909-10" title="wikilink">1909-10</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1919-" title="wikilink">1919-</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1929-30" title="wikilink">1929-30</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1937-38" title="wikilink">1937-38</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1939-40" title="wikilink">1939-40</a>, <a href="../Page/세리에_A_1952-53.md" title="wikilink">1952-53</a>, <a href="../Page/세리에_A_1953-54.md" title="wikilink">1953-54</a>, <a href="../Page/세리에_A_1962-63.md" title="wikilink">1962-63</a>, <a href="../Page/세리에_A_1964-65.md" title="wikilink">1964-65</a>, <a href="../Page/세리에_A_1965-66.md" title="wikilink">1965-66</a>, <a href="../Page/세리에_A_1970-71.md" title="wikilink">1970-71</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1979-80" title="wikilink">1979-80</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1988-89" title="wikilink">1988-89</a>, <a href="../Page/세리에_A_2005-06.md" title="wikilink">2005-06</a>, <a href="../Page/세리에_A_2006-07.md" title="wikilink">2006-07</a>, <a href="../Page/세리에_A_2007-08.md" title="wikilink">2007-08</a>, <a href="../Page/세리에_A_2008-09.md" title="wikilink">2008-09</a>, <a href="../Page/세리에_A_2009-10.md" title="wikilink">2009-10</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>18</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1901" title="wikilink">1901</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1906" title="wikilink">1906</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1907" title="wikilink">1907</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1950-51" title="wikilink">1950-51</a>, <a href="../Page/세리에_A_1954-55.md" title="wikilink">1954-55</a>, <a href="../Page/세리에_A_1956-57.md" title="wikilink">1956-57</a>, <a href="../Page/세리에_A_1958-59.md" title="wikilink">1958-59</a>, <a href="../Page/세리에_A_1961-62.md" title="wikilink">1961-62</a>, <a href="../Page/세리에_A_1967-68.md" title="wikilink">1967-68</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1978-79" title="wikilink">1978-79</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1987-88" title="wikilink">1987-88</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1991-92" title="wikilink">1991-92</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1992-93" title="wikilink">1992-93</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1993-94" title="wikilink">1993-94</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1995-96" title="wikilink">1995-96</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1998-99" title="wikilink">1998-99</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2003-04" title="wikilink">2003-04</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2010-11" title="wikilink">2010-11</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1901" title="wikilink">1901</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1906" title="wikilink">1906</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1907" title="wikilink">1907</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1950-51" title="wikilink">1950-51</a>, <a href="../Page/세리에_A_1954-55.md" title="wikilink">1954-55</a>, <a href="../Page/세리에_A_1956-57.md" title="wikilink">1956-57</a>, <a href="../Page/세리에_A_1958-59.md" title="wikilink">1958-59</a>, <a href="../Page/세리에_A_1961-62.md" title="wikilink">1961-62</a>, <a href="../Page/세리에_A_1967-68.md" title="wikilink">1967-68</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1978-79" title="wikilink">1978-79</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1987-88" title="wikilink">1987-88</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1991-92" title="wikilink">1991-92</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1992-93" title="wikilink">1992-93</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1993-94" title="wikilink">1993-94</a>, <a href="../Page/세리에_A_1995-96.md" title="wikilink">1995-96</a>, <a href="../Page/세리에_A_1998-99.md" title="wikilink">1998-99</a>, <a href="../Page/세리에_A_2003-04.md" title="wikilink">2003-04</a>, <a href="../Page/세리에_A_2010-11.md" title="wikilink">2010-11</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>9</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1898" title="wikilink">1898</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1899" title="wikilink">1899</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1900" title="wikilink">1900</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1902" title="wikilink">1902</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1903" title="wikilink">1903</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1904" title="wikilink">1904</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1914-15" title="wikilink">1914-15</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1922-23" title="wikilink">1922-23</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1923-24" title="wikilink">1923-24</a></p></td>
+<td><p><a href="../Page/캄피오나토_이탈리아노_디_풋볼_1898.md" title="wikilink">1898</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1899" title="wikilink">1899</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1900" title="wikilink">1900</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1902" title="wikilink">1902</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1903" title="wikilink">1903</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1904" title="wikilink">1904</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1914-15" title="wikilink">1914-15</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1922-23" title="wikilink">1922-23</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1923-24" title="wikilink">1923-24</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -261,7 +261,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="even">
 <td></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세리에_A_1941-42" title="wikilink">1941-42</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1982-83" title="wikilink">1982-83</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2000-01" title="wikilink">2000-01</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/세리에_A_1941-42" title="wikilink">1941-42</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1982-83" title="wikilink">1982-83</a>, <a href="../Page/세리에_A_2000-01.md" title="wikilink">2000-01</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -276,7 +276,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세리에_A_1973-74" title="wikilink">1973-74</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1999-2000" title="wikilink">1999-00</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/세리에_A_1973-74" title="wikilink">1973-74</a>, <a href="../Page/세리에_A_1999-2000.md" title="wikilink">1999-00</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -336,7 +336,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="odd">
 <td><p><strong>1</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파올로_말디니" title="wikilink">파올로 말디니</a></p></td>
+<td><p><a href="../Page/파올로_말디니.md" title="wikilink">파올로 말디니</a></p></td>
 <td><p>647</p></td>
 <td><p>29</p></td>
 <td><p>25</p></td>
@@ -346,7 +346,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="even">
 <td><p><strong>2</strong></p></td>
 <td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/잔루이지_부폰" title="wikilink">잔루이지 부폰</a></strong></p></td>
+<td><p><strong><a href="../Page/잔루이지_부폰.md" title="wikilink">잔루이지 부폰</a></strong></p></td>
 <td><p>647</p></td>
 <td><p>−</p></td>
 <td><p>23</p></td>
@@ -356,7 +356,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="odd">
 <td><p><strong>3</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프란체스코_토티" title="wikilink">프란체스코 토티</a></p></td>
+<td><p><a href="../Page/프란체스코_토티.md" title="wikilink">프란체스코 토티</a></p></td>
 <td><p>619</p></td>
 <td><p>250</p></td>
 <td><p>25</p></td>
@@ -366,7 +366,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="even">
 <td><p><strong>4</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하비에르_사네티" title="wikilink">하비에르 사네티</a></p></td>
+<td><p><a href="../Page/하비에르_사네티.md" title="wikilink">하비에르 사네티</a></p></td>
 <td><p>615</p></td>
 <td><p>12</p></td>
 <td><p>19</p></td>
@@ -376,7 +376,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="odd">
 <td><p><strong>5</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잔루카_팔리우카" title="wikilink">잔루카 팔리우카</a></p></td>
+<td><p><a href="../Page/잔루카_팔리우카.md" title="wikilink">잔루카 팔리우카</a></p></td>
 <td><p>592</p></td>
 <td><p>−</p></td>
 <td><p>19</p></td>
@@ -386,7 +386,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="even">
 <td><p><strong>6</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/디노_초프" title="wikilink">디노 초프</a></p></td>
+<td><p><a href="../Page/디노_초프.md" title="wikilink">디노 초프</a></p></td>
 <td><p>570</p></td>
 <td><p>−</p></td>
 <td><p>20</p></td>
@@ -406,7 +406,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="even">
 <td><p><strong>8</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로베르토_만치니" title="wikilink">로베르토 만치니</a></p></td>
+<td><p><a href="../Page/로베르토_만치니.md" title="wikilink">로베르토 만치니</a></p></td>
 <td><p>541</p></td>
 <td><p>156</p></td>
 <td><p>19</p></td>
@@ -416,7 +416,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="odd">
 <td><p><strong>9</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/실비오_피올라" title="wikilink">실비오 피올라</a></p></td>
+<td><p><a href="../Page/실비오_피올라.md" title="wikilink">실비오 피올라</a></p></td>
 <td><p>537</p></td>
 <td><p>274</p></td>
 <td><p>21</p></td>
@@ -462,7 +462,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="odd">
 <td><p><strong>1</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/실비오_피올라" title="wikilink">실비오 피올라</a></p></td>
+<td><p><a href="../Page/실비오_피올라.md" title="wikilink">실비오 피올라</a></p></td>
 <td><p>274</p></td>
 <td><p>537</p></td>
 <td><p>0.51</p></td>
@@ -472,7 +472,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="even">
 <td><p><strong>2</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프란체스코_토티" title="wikilink">프란체스코 토티</a></p></td>
+<td><p><a href="../Page/프란체스코_토티.md" title="wikilink">프란체스코 토티</a></p></td>
 <td><p>250</p></td>
 <td><p>619</p></td>
 <td><p>0.40</p></td>
@@ -492,7 +492,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="even">
 <td><p><strong>4</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주세페_메아차" title="wikilink">주세페 메아차</a></p></td>
+<td><p><a href="../Page/주세페_메아차.md" title="wikilink">주세페 메아차</a></p></td>
 <td><p>216</p></td>
 <td><p>367</p></td>
 <td><p>0.59</p></td>
@@ -512,7 +512,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="even">
 <td><p><strong>6</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안토니오_디_나탈레" title="wikilink">안토니오 디 나탈레</a></p></td>
+<td><p><a href="../Page/안토니오_디_나탈레.md" title="wikilink">안토니오 디 나탈레</a></p></td>
 <td><p>209</p></td>
 <td><p>445</p></td>
 <td><p>0.47</p></td>
@@ -522,7 +522,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="odd">
 <td><p><strong>7</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로베르토_바조" title="wikilink">로베르토 바조</a></p></td>
+<td><p><a href="../Page/로베르토_바조.md" title="wikilink">로베르토 바조</a></p></td>
 <td><p>205</p></td>
 <td><p>452</p></td>
 <td><p>0.45</p></td>
@@ -552,7 +552,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="even">
 <td><p><strong>9</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알레산드로_델_피에로" title="wikilink">알레산드로 델 피에로</a></p></td>
+<td><p><a href="../Page/알레산드로_델_피에로.md" title="wikilink">알레산드로 델 피에로</a></p></td>
 <td><p>188</p></td>
 <td><p>478</p></td>
 <td><p>0.39</p></td>
@@ -562,7 +562,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="odd">
 <td><p><strong>9</strong></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알베르토_질라르디노" title="wikilink">알베르토 질라르디노</a></p></td>
+<td><p><a href="../Page/알베르토_질라르디노.md" title="wikilink">알베르토 질라르디노</a></p></td>
 <td><p>188</p></td>
 <td><p>514</p></td>
 <td><p>0.37</p></td>
@@ -578,9 +578,9 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 
 ## 같이 보기
 
-  - [코파 이탈리아](https://ko.wikipedia.org/wiki/코파_이탈리아 "wikilink")
-  - [수페르코파 이탈리아나](https://ko.wikipedia.org/wiki/수페르코파_이탈리아나 "wikilink")
-  - [세리에 B](https://ko.wikipedia.org/wiki/세리에_B "wikilink")
+  - [코파 이탈리아](../Page/코파_이탈리아.md "wikilink")
+  - [수페르코파 이탈리아나](../Page/수페르코파_이탈리아나.md "wikilink")
+  - [세리에 B](../Page/세리에_B.md "wikilink")
   - [카포칸노니에레](../Page/카포칸노니에레.md "wikilink")
 
 ## 각주

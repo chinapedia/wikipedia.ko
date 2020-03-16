@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  Z](https://ko.wikipedia.org/wiki/__Z).
 
 
-《**거북이 특공대 Z**》()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 미라지 스튜디오와 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 동우 애니메이션이 협력제작을 하여 탄생하게 된 [닌자 거북이의](../Page/닌자_거북이.md "wikilink") 새로운 애니메이션 시리즈이다. 캐릭터 디자인이 1987년 시리즈보다 상당히 날카로워졌고, 분위기도 훨씬 어둡게 재현이 되었다. 미국에서는 2003년 2월 8일에 시즌1을 방영하기 시작해서, 2009년 11월 21일에 Turtles Forever를 끝으로 종영하였다.
+《**거북이 특공대 Z**》()는 [미국](../Page/미국.md "wikilink")의 미라지 스튜디오와 [대한민국](../Page/대한민국.md "wikilink")의 동우 애니메이션이 협력제작을 하여 탄생하게 된 [닌자 거북이의](../Page/닌자_거북이.md "wikilink") 새로운 애니메이션 시리즈이다. 캐릭터 디자인이 1987년 시리즈보다 상당히 날카로워졌고, 분위기도 훨씬 어둡게 재현이 되었다. 미국에서는 2003년 2월 8일에 시즌1을 방영하기 시작해서, 2009년 11월 21일에 Turtles Forever를 끝으로 종영하였다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 2006년 9월 21일부터 2007년 5월 31일까지 SBS에서 '거북이 특공대Z'라는 제목으로 매주 수요일과 목요일에 방영되었고, 2008년 6월 17일부터 매주 화요일에 재방영을 하고 있었다가 도중에 종영을 한 상태이다. 현재 시즌2까지 방영되었고, 시즌3 부터의 방영 계획은 아직 없다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 2006년 9월 21일부터 2007년 5월 31일까지 SBS에서 '거북이 특공대Z'라는 제목으로 매주 수요일과 목요일에 방영되었고, 2008년 6월 17일부터 매주 화요일에 재방영을 하고 있었다가 도중에 종영을 한 상태이다. 현재 시즌2까지 방영되었고, 시즌3 부터의 방영 계획은 아직 없다.
 
 ## 1987년 애니메이션 시리즈와 차이점
 
@@ -13,7 +13,7 @@
 
 ## 에피소드
 
-[미국](https://ko.wikipedia.org/wiki/미국 "wikilink")판 제목과 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")판 제목을 같이 표기하였다. 국내의 경우는 3, 4화를 연속 방영하였다.
+[미국](../Page/미국.md "wikilink")판 제목과 [대한민국](../Page/대한민국.md "wikilink")판 제목을 같이 표기하였다. 국내의 경우는 3, 4화를 연속 방영하였다.
 
 ### 시즌1 (001\~026) 26화
 
@@ -151,7 +151,7 @@
 
 ### 시즌5 Ninja Trubunal (105\~117) 13화
 
-[미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서는 당초 방영 계획에 없었다. 그렇기 때문에 [인터넷](../Page/인터넷.md "wikilink") 상에서는 시즌6인 Fast Forward를 시즌5라고 홍보한 적이 있었다. 그러나 공식 사이트에서 시즌5가 방영되지 않는다는 소식이 전해지자, 시청자들의 잦은 항의가 있었다. 결국 2006년 8월에 [주문형 비디오](https://ko.wikipedia.org/wiki/주문형_비디오 "wikilink") 서비스를 통해 일부편만 송출 되었다가 2007년 3월 24일에 111화가 갑작스럽게 방영되었다. 그리고, 시즌6를 종영한 뒤, 2008년 초에 제작이 중단 된 110화를 제외한 나머지 12화를 방영하였다.
+[미국](../Page/미국.md "wikilink")에서는 당초 방영 계획에 없었다. 그렇기 때문에 [인터넷](../Page/인터넷.md "wikilink") 상에서는 시즌6인 Fast Forward를 시즌5라고 홍보한 적이 있었다. 그러나 공식 사이트에서 시즌5가 방영되지 않는다는 소식이 전해지자, 시청자들의 잦은 항의가 있었다. 결국 2006년 8월에 [주문형 비디오](../Page/주문형_비디오.md "wikilink") 서비스를 통해 일부편만 송출 되었다가 2007년 3월 24일에 111화가 갑작스럽게 방영되었다. 그리고, 시즌6를 종영한 뒤, 2008년 초에 제작이 중단 된 110화를 제외한 나머지 12화를 방영하였다.
 
 | No  | 미국판 제목                   | 방영일(미국)      |
 | --- | ------------------------ | ------------ |
@@ -267,16 +267,16 @@
   - [댄 그린](https://ko.wikipedia.org/wiki/댄_그린 "wikilink") - 얼티밋 다이묘(Ultimate Daimyo), 모르투(Mortu), 모자르 사령관(Commander Mozar)
   - Marc Diraison - 가짜 터틀 타이탄(Turtle Titan - Fake)
 
-### [SBS](https://ko.wikipedia.org/wiki/SBS "wikilink") 더빙판
+### [SBS](../Page/SBS.md "wikilink") 더빙판
 
-  - [강수진](https://ko.wikipedia.org/wiki/강수진_\(남자_성우\) "wikilink") - 레오나르도(Leonardo)
-  - [김환진](https://ko.wikipedia.org/wiki/김환진 "wikilink") - 라파엘(Raphael)
-  - [이철용](https://ko.wikipedia.org/wiki/이철용_\(성우\) "wikilink") - 미켈란젤로(Michelangelo)
-  - [안종덕](https://ko.wikipedia.org/wiki/안종덕 "wikilink") - 도나텔로(Donatello), 미야모토 우사기(Miyamoto Usagi)
-  - [김지혜](https://ko.wikipedia.org/wiki/김지혜_\(성우\) "wikilink") - 에이프릴 오닐(April O'Neil), 카라이(Karai) 이외에 모든 여자 역할과 아이 역할
-  - [장호비](https://ko.wikipedia.org/wiki/장호비 "wikilink") - 케이시 존스(Casey Jones), 실버 센트리(Silver Century), 얼티밋 닌자(Ultimate Ninja), 드레이코(Draco), 트락시무스(Traximus)
-  - [장광](https://ko.wikipedia.org/wiki/장광 "wikilink") - 스플린터(Splinter), 헌(Hun), 가베이지맨(Garbageman)
-  - [이종혁](https://ko.wikipedia.org/wiki/이종혁_\(성우\) "wikilink") - 박스터 스톡만(Baxter Stockman)
+  - [강수진](../Page/강수진_\(남자_성우\).md "wikilink") - 레오나르도(Leonardo)
+  - [김환진](../Page/김환진.md "wikilink") - 라파엘(Raphael)
+  - [이철용](../Page/이철용_\(성우\).md "wikilink") - 미켈란젤로(Michelangelo)
+  - [안종덕](../Page/안종덕.md "wikilink") - 도나텔로(Donatello), 미야모토 우사기(Miyamoto Usagi)
+  - [김지혜](../Page/김지혜_\(성우\).md "wikilink") - 에이프릴 오닐(April O'Neil), 카라이(Karai) 이외에 모든 여자 역할과 아이 역할
+  - [장호비](../Page/장호비.md "wikilink") - 케이시 존스(Casey Jones), 실버 센트리(Silver Century), 얼티밋 닌자(Ultimate Ninja), 드레이코(Draco), 트락시무스(Traximus)
+  - [장광](../Page/장광.md "wikilink") - 스플린터(Splinter), 헌(Hun), 가베이지맨(Garbageman)
+  - [이종혁](../Page/이종혁_\(성우\).md "wikilink") - 박스터 스톡만(Baxter Stockman)
   - [시영준](../Page/시영준.md "wikilink") - 슈레더(The Shredder), 얼티밋 다이묘(Ultimate Daimyo)
 
 [분류:2000년대 미국의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:2000년대_미국의_텔레비전_애니메이션 "wikilink") [분류:2003년 애니메이션](https://ko.wikipedia.org/wiki/분류:2003년_애니메이션 "wikilink") [분류:2004년 애니메이션](https://ko.wikipedia.org/wiki/분류:2004년_애니메이션 "wikilink") [분류:2005년 애니메이션](https://ko.wikipedia.org/wiki/분류:2005년_애니메이션 "wikilink") [분류:2006년 애니메이션](https://ko.wikipedia.org/wiki/분류:2006년_애니메이션 "wikilink") [분류:2007년 애니메이션](https://ko.wikipedia.org/wiki/분류:2007년_애니메이션 "wikilink") [분류:2008년 애니메이션](https://ko.wikipedia.org/wiki/분류:2008년_애니메이션 "wikilink") [분류:2009년 애니메이션](https://ko.wikipedia.org/wiki/분류:2009년_애니메이션 "wikilink") [분류:닌자 거북이](https://ko.wikipedia.org/wiki/분류:닌자_거북이 "wikilink") [분류:의인화 캐릭터가 등장하는 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:의인화_캐릭터가_등장하는_텔레비전_프로그램 "wikilink") [분류:슈퍼히어로 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:슈퍼히어로_텔레비전_프로그램 "wikilink") [분류:폭스 방송 회사의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:폭스_방송_회사의_텔레비전_프로그램 "wikilink") [분류:SBS의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_애니메이션 "wikilink")

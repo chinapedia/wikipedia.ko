@@ -7,8 +7,8 @@
 
 |- | [200px](https://ko.wikipedia.org/wiki/파일:CSI_Logo.svg "wikilink")
 
-**[CSI: 과학수사대](https://ko.wikipedia.org/wiki/CSI:_과학수사대 "wikilink")**
-**[CSI: 마이애미](https://ko.wikipedia.org/wiki/CSI:_마이애미 "wikilink")**
+**[CSI: 과학수사대](../Page/CSI:_과학수사대.md "wikilink")**
+**[CSI: 마이애미](../Page/CSI:_마이애미.md "wikilink")**
 **[CSI: 뉴욕](../Page/CSI:_뉴욕.md "wikilink")**
 **[CSI: 사이버](https://ko.wikipedia.org/wiki/CSI:_사이버 "wikilink")**
 

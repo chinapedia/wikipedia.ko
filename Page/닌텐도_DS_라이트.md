@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ DS ](https://ko.wikipedia.org/wiki/_DS_).
 
 
-**닌텐도 DS 라이트**()는 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")의 휴대용 게임기인 [닌텐도 DS의](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 상위 모델에 해당하는 [휴대용 게임기이다](https://ko.wikipedia.org/wiki/휴대용_게임기 "wikilink"). DS에 비하여 크기와 무게가 줄어든 것에서 그치지 않고, 터치펜의 개량, 화면 밝기 개량 등이 이루어졌다.
+**닌텐도 DS 라이트**()는 [닌텐도](../Page/닌텐도.md "wikilink")의 휴대용 게임기인 [닌텐도 DS의](../Page/닌텐도_DS.md "wikilink") 상위 모델에 해당하는 [휴대용 게임기이다](../Page/휴대용_게임기.md "wikilink"). DS에 비하여 크기와 무게가 줄어든 것에서 그치지 않고, 터치펜의 개량, 화면 밝기 개량 등이 이루어졌다.
 
 ## 개요
 
 기본 성능은 DS보다 조금 나아졌으며, 높은 휴대성을 위해 보다 소형화되었으며, 디자인도 바뀌었다. 발매될 당시에는 닌텐도 DS의 상위 기종으로서 DS와 병행하여 판매가 되었으며 폭발적인 인기로 인해 현재는 DS 라이트를 중심으로 생산 및 보급이 이루어지고 있다.
 
-[일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 2일에](https://ko.wikipedia.org/wiki/3월_2일 "wikilink"), [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")에서는 [6월 1일에](https://ko.wikipedia.org/wiki/6월_1일 "wikilink"), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서는 [6월 11일에](https://ko.wikipedia.org/wiki/6월_11일 "wikilink"), [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에서는 [6월 23일에](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") 발매되었으며, [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")에서는 'iQue DS Lite'라는 이름으로 [6월 29일에](https://ko.wikipedia.org/wiki/6월_29일 "wikilink") 발매되었다.
+[일본](../Page/일본.md "wikilink")에서는 [2006년](../Page/2006년.md "wikilink") [3월 2일에](../Page/3월_2일.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink")에서는 [6월 1일에](../Page/6월_1일.md "wikilink"), [미국](../Page/미국.md "wikilink")에서는 [6월 11일에](../Page/6월_11일.md "wikilink"), [유럽](../Page/유럽.md "wikilink")에서는 [6월 23일에](../Page/6월_23일.md "wikilink") 발매되었으며, [중국](../Page/중국.md "wikilink")에서는 'iQue DS Lite'라는 이름으로 [6월 29일에](../Page/6월_29일.md "wikilink") 발매되었다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")를 통하여 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 20일에](https://ko.wikipedia.org/wiki/7월_20일 "wikilink") 이탈리아어도 들어가 있는 일본판을 발매한 후, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 18일에](https://ko.wikipedia.org/wiki/1월_18일 "wikilink") 그동안 닌텐도 제품의 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 발매를 담당했던 대원씨아이를 대신해 닌텐도의 한국 법인인 한국닌텐도를 통하여 완전한 한글화판을 발매하였다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")를 통하여 [2006년](../Page/2006년.md "wikilink") [7월 20일에](../Page/7월_20일.md "wikilink") 이탈리아어도 들어가 있는 일본판을 발매한 후, [2007년](../Page/2007년.md "wikilink") [1월 18일에](../Page/1월_18일.md "wikilink") 그동안 닌텐도 제품의 [대한민국](../Page/대한민국.md "wikilink") 발매를 담당했던 대원씨아이를 대신해 닌텐도의 한국 법인인 한국닌텐도를 통하여 완전한 한글화판을 발매하였다.
 
 ## 사양 및 변경된 점
 
@@ -19,12 +19,12 @@
     백라이트가 장착된 3인치 투명 [TFT LCD](https://ko.wikipedia.org/wiki/TFT_LCD "wikilink") 2장
     종래의 반투명 반사형 칼라 TFT 액정에서 투명 [TFT LCD로](https://ko.wikipedia.org/wiki/TFT_LCD "wikilink") 변경되었다. 밝기 조정은 4단계로 나뉘어 있다. 해상도, 표시색 수, 화면 크기는 DS와 같다.
   - 입력
-    십자키 + 6버튼(A/B/X/Y/L/R) + START/SELECT 버튼 + [터치 스크린](https://ko.wikipedia.org/wiki/터치_스크린 "wikilink") + 음성입력용 [마이크](https://ko.wikipedia.org/wiki/마이크로폰 "wikilink")
+    십자키 + 6버튼(A/B/X/Y/L/R) + START/SELECT 버튼 + [터치 스크린](https://ko.wikipedia.org/wiki/터치_스크린 "wikilink") + 음성입력용 [마이크](../Page/마이크로폰.md "wikilink")
     종류 및 수는 바뀌지 않았지만 배치가 바뀌어 START/SELECT 버튼의 위치가 A/B/X/Y 버튼의 밑쪽에, 마이크와 전원 램프, 충전 램프는 우측 [힌지](https://ko.wikipedia.org/wiki/경첩 "wikilink") 부분으로 이동하였다. 십자키는 구 DS보다 16% 정도 작아졌다. 전원 버튼은 누르는 버튼에서 밀어올리는 버튼으로 바뀌었다. DS에선 A,B,X,Y,십자키 버튼이 모두 일반적인 누르는 버튼이었던 반면, DS Lite에서는 러버돔으로 접점을 누르는 방법의 스위치로 변경되었다.
   - CPU
     CPU 내부 연산 구조에 약간의 최적화가 이루어져 전력 소모량이 줄어들었다.
   - 전원
-    내장 [리튬 이온 전지](https://ko.wikipedia.org/wiki/리튬_이온_2차_전지 "wikilink")(3.7V/1000mAh), 부속 AC 어댑터 ([게임보이 어드밴스 SP](https://ko.wikipedia.org/wiki/게임보이_어드밴스_SP "wikilink") 및 DS의 AC어댑터는 사용 불가), 대기모드 기능(DS용 소프트웨어를 사용할 때만)
+    내장 [리튬 이온 전지](https://ko.wikipedia.org/wiki/리튬_이온_2차_전지 "wikilink")(3.7V/1000mAh), 부속 AC 어댑터 ([게임보이 어드밴스 SP](../Page/게임보이_어드밴스_SP.md "wikilink") 및 DS의 AC어댑터는 사용 불가), 대기모드 기능(DS용 소프트웨어를 사용할 때만)
     DS의 850mAh보다 전지 용량 150mAh가량 증가해 사용시간은 늘어났다. 용량이 늘어났지만 완전충전까지 걸리는 시간은 오히려 DS보다 단축되었다.
   - 무게
     약218g. DS보다 약 57g이 가벼워졌다.
@@ -73,7 +73,7 @@
 
 ## 주변기기
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:DSL-play-yan.jpg "wikilink") 및 [게임보이 어드밴스 SP](https://ko.wikipedia.org/wiki/게임보이_어드밴스_SP "wikilink") 주변기기 [플레이얀](https://ko.wikipedia.org/wiki/플레이얀 "wikilink")을 DS Lite에 연결한 상태. GBA 카트리지 부분이 약 1cm 정도 튀어나옴\]\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:DSL-play-yan.jpg "wikilink") 및 [게임보이 어드밴스 SP](../Page/게임보이_어드밴스_SP.md "wikilink") 주변기기 [플레이얀](https://ko.wikipedia.org/wiki/플레이얀 "wikilink")을 DS Lite에 연결한 상태. GBA 카트리지 부분이 약 1cm 정도 튀어나옴\]\]
 
 DS 라이트 전용으로 닌텐도에서 정식발매된 주변기기는 다음과 같다. 구 DS의 주변 기기는 일부만이 사용가능함.
 
@@ -119,7 +119,7 @@ GBA 커넥터 커버</p></td>
 <tr class="even">
 <td><p>USG-007</p></td>
 <td><p>DS Lite 메모리 확장 카트리지</p></td>
-<td><p>DS Lite 전용 <a href="https://ko.wikipedia.org/wiki/닌텐도_DS_브라우저" title="wikilink">닌텐도 DS 브라우저에</a> 부속. 닌텐도 DS에서는 사용 불가</p></td>
+<td><p>DS Lite 전용 <a href="../Page/닌텐도_DS_브라우저.md" title="wikilink">닌텐도 DS 브라우저에</a> 부속. 닌텐도 DS에서는 사용 불가</p></td>
 </tr>
 </tbody>
 </table>
@@ -128,30 +128,30 @@ GBA 커넥터 커버</p></td>
 
 ## 발매일
 
-  - \- [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink")
+  - \- [2006년](../Page/2006년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink")
 
-  - \- 2006년 [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink")
+  - \- 2006년 [6월 1일](../Page/6월_1일.md "wikilink")
 
   - \- 2006년 6월 11일
 
-  - \- 2006년 [6월 11일](https://ko.wikipedia.org/wiki/6월_11일 "wikilink")
+  - \- 2006년 [6월 11일](../Page/6월_11일.md "wikilink")
 
-  - \- 2006년 [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink"), 한정판 색상 '슬리드 블랙'이 있음.
+  - \- 2006년 [6월 23일](../Page/6월_23일.md "wikilink"), 한정판 색상 '슬리드 블랙'이 있음.
 
-  - \- 2006년 [6월 25일](https://ko.wikipedia.org/wiki/6월_25일 "wikilink")
+  - \- 2006년 [6월 25일](../Page/6월_25일.md "wikilink")
 
-  - \- 2006년 [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink"), 사용언어 : [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink"), [영어](https://ko.wikipedia.org/wiki/영어 "wikilink"), [프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink"), [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink"), [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink"), [이탈리아어](https://ko.wikipedia.org/wiki/이탈리아어 "wikilink").
+  - \- 2006년 [6월 29일](../Page/6월_29일.md "wikilink"), 사용언어 : [중국어](../Page/중국어.md "wikilink"), [영어](../Page/영어.md "wikilink"), [프랑스어](../Page/프랑스어.md "wikilink"), [독일어](../Page/독일어.md "wikilink"), [스페인어](../Page/스페인어.md "wikilink"), [이탈리아어](../Page/이탈리아어.md "wikilink").
 
-  - \- [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 18일](https://ko.wikipedia.org/wiki/1월_18일 "wikilink"), 사용언어: [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink"), 영어, 일본어, 프랑스어, 독일어, 스페인어.
+  - \- [2007년](../Page/2007년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink"), 사용언어: [한국어](../Page/한국어.md "wikilink"), 영어, 일본어, 프랑스어, 독일어, 스페인어.
 
 ## 같이 보기
 
-  - [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")
-  - [닌텐도 DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink")
-  - [닌텐도 DSi](https://ko.wikipedia.org/wiki/닌텐도_DSi "wikilink")
-  - [닌텐도 DSi XL](https://ko.wikipedia.org/wiki/닌텐도_DSi_XL "wikilink")
-  - [닌텐도 3DS](https://ko.wikipedia.org/wiki/닌텐도_3DS "wikilink")
-  - [플레이스테이션 포터블](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink")
+  - [닌텐도](../Page/닌텐도.md "wikilink")
+  - [닌텐도 DS](../Page/닌텐도_DS.md "wikilink")
+  - [닌텐도 DSi](../Page/닌텐도_DSi.md "wikilink")
+  - [닌텐도 DSi XL](../Page/닌텐도_DSi_XL.md "wikilink")
+  - [닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink")
+  - [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink")
 
 ## 외부 링크
 

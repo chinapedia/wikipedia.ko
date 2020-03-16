@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [SAS \(\)](https://ko.wikipedia.org/wiki/SAS_\(\)).
 
 
-**영국 육군 공수특전단**(은 [영국 육군의](https://ko.wikipedia.org/wiki/영국_육군 "wikilink") [특수부대](https://ko.wikipedia.org/wiki/특수부대 "wikilink")이다. 정식명칭은 **SAS 22연대**이다. 영국인과 프랑스인 자원자로 구성되어 북아프리카 전선의 적 후방에서 작전을 하기 위해서 1941년에 창설되었다. 세계 최초의 전문화된 특수부대로서, 오늘날 여러 다른 나라들의 비슷한 특수부대의 모델이 되었다.
+**영국 육군 공수특전단**(은 [영국 육군의](../Page/영국_육군.md "wikilink") [특수부대](../Page/특수부대.md "wikilink")이다. 정식명칭은 **SAS 22연대**이다. 영국인과 프랑스인 자원자로 구성되어 북아프리카 전선의 적 후방에서 작전을 하기 위해서 1941년에 창설되었다. 세계 최초의 전문화된 특수부대로서, 오늘날 여러 다른 나라들의 비슷한 특수부대의 모델이 되었다.
 
-SAS는 [해군 특전대](https://ko.wikipedia.org/wiki/영국_해군_특전대 "wikilink")(), [특수정찰연대](https://ko.wikipedia.org/wiki/특수정찰연대_\(영국\) "wikilink")(), [특수부대지원단](https://ko.wikipedia.org/wiki/특수부대지원단 "wikilink")()와 함께 [영국 특수부대](https://ko.wikipedia.org/wiki/영국_특수부대 "wikilink")()을 구성한다. SAS는 세계에서 잘 훈련된 특수부대로서 매우 유명하다.
+SAS는 [해군 특전대](../Page/영국_해군_특전대.md "wikilink")(), [특수정찰연대](https://ko.wikipedia.org/wiki/특수정찰연대_\(영국\) "wikilink")(), [특수부대지원단](https://ko.wikipedia.org/wiki/특수부대지원단 "wikilink")()와 함께 [영국 특수부대](../Page/영국_특수부대.md "wikilink")()을 구성한다. SAS는 세계에서 잘 훈련된 특수부대로서 매우 유명하다.
 
 ## 임무
 
 현재의 SAS 임무는 다음과 같다고 여겨진다\[1\].
 
-  - 적 후방 깊은 곳의 [정보](https://ko.wikipedia.org/wiki/정보 "wikilink") 수집.
+  - 적 후방 깊은 곳의 [정보](../Page/정보.md "wikilink") 수집.
   - 적 후방 중간이나 깊은 곳에서의 사보타지와 기습공격을 통한 주력군의 전투 준비.
   - 영국 영토내에서의 [대테러](https://ko.wikipedia.org/wiki/대테러 "wikilink") 작전. 경찰과 함께 작전한다.
   - 영국 영토외에서의 대테러 작전.
@@ -33,11 +33,11 @@ SAS는 [해군 특전대](https://ko.wikipedia.org/wiki/영국_해군_특전대 
 
 ## 관련 인물
 
-  - [베어 그릴스](https://ko.wikipedia.org/wiki/베어_그릴스 "wikilink") - 옛 제21SAS연대 의료교관, [맨 VS 와일드의](https://ko.wikipedia.org/wiki/인간과_자연의_대결 "wikilink") 진행자로 잘 알려져 있다.
+  - [베어 그릴스](../Page/베어_그릴스.md "wikilink") - 옛 제21SAS연대 의료교관, [맨 VS 와일드의](../Page/인간과_자연의_대결.md "wikilink") 진행자로 잘 알려져 있다.
 
 ## 같이 보기
 
-  - [영국 특수부대](https://ko.wikipedia.org/wiki/영국_특수부대 "wikilink")
+  - [영국 특수부대](../Page/영국_특수부대.md "wikilink")
   - [SAS가 수행한 임무 목록](https://ko.wikipedia.org/wiki/SAS가_수행한_임무_목록 "wikilink")
   - [SAS중대 (캐나다)](https://ko.wikipedia.org/wiki/SAS중대_\(캐나다\) "wikilink")
   - [로다지아 SAS](https://ko.wikipedia.org/wiki/로다지아_SAS "wikilink")

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Do As Infinity](https://ko.wikipedia.org/wiki/Do_As_Infinity).
 
 
-**Do As Infinity**()는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [9월 29일에](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") 첫 싱글 〈Tangerine Dream〉으로 데뷔한 일본의 인기있는 밴드이다. 이 밴드의 이름은 기타리스트이자 작곡가인 [나가오 다이의](https://ko.wikipedia.org/wiki/나가오_다이 "wikilink") 영어 첫글자(**DAI** Nagao)를 따서 만들어졌다.
+**Do As Infinity**()는 [1999년](../Page/1999년.md "wikilink") [9월 29일에](../Page/9월_29일.md "wikilink") 첫 싱글 〈Tangerine Dream〉으로 데뷔한 일본의 인기있는 밴드이다. 이 밴드의 이름은 기타리스트이자 작곡가인 [나가오 다이의](https://ko.wikipedia.org/wiki/나가오_다이 "wikilink") 영어 첫글자(**DAI** Nagao)를 따서 만들어졌다.
 
-그들은 2005년 9월 28일 싱글앨범 모음집인 《Do The A-Side》를 발매하고, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") 해체하였다. 해체후, 6년 동안의 활동을 정리한 마지막 앨범으로 5장의 음악cd와 1장의 Special DVD 로 구성된《Do the box》를 발매하였다. 그들은 6년 동안 활동하며 6개의 앨범, 20개의 싱글, 7개의 컴필레이션 앨범과 8개의 라이브 DVD를 발매하였다.
+그들은 2005년 9월 28일 싱글앨범 모음집인 《Do The A-Side》를 발매하고, [2005년](../Page/2005년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") 해체하였다. 해체후, 6년 동안의 활동을 정리한 마지막 앨범으로 5장의 음악cd와 1장의 Special DVD 로 구성된《Do the box》를 발매하였다. 그들은 6년 동안 활동하며 6개의 앨범, 20개의 싱글, 7개의 컴필레이션 앨범과 8개의 라이브 DVD를 발매하였다.
 
 이후 [반 도미코는](https://ko.wikipedia.org/wiki/반_도미코 "wikilink") 솔로 활동을, [오와타리 료는](https://ko.wikipedia.org/wiki/오와타리_료 "wikilink") [미사일 이노베이션](https://ko.wikipedia.org/wiki/미사일_이노베이션 "wikilink") 에서 활동을 하였다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 접어들어 재결성을 발표, 이후 해체한 지 꼭 3년이 되는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 29일부터](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") 활동을 재개하여 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 17일에](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") 부활 기념 싱글이자 21번째 싱글인 《∞1 (Infinity 1, Infinity Icchi)》를 발매했다. 9월 30일에는 4년 만이자 7번째 정규 음반인 《ETERNAL FLAME》을 발매하였다. 이어 2010년 6월 16일에는 2010년 두 번째 싱글 《Infinity2 (∞2)》를 발표하였다.
+[2008년](../Page/2008년.md "wikilink")에 접어들어 재결성을 발표, 이후 해체한 지 꼭 3년이 되는 [2008년](../Page/2008년.md "wikilink") [9월 29일부터](../Page/9월_29일.md "wikilink") 활동을 재개하여 [2009년](../Page/2009년.md "wikilink") [6월 17일에](../Page/6월_17일.md "wikilink") 부활 기념 싱글이자 21번째 싱글인 《∞1 (Infinity 1, Infinity Icchi)》를 발매했다. 9월 30일에는 4년 만이자 7번째 정규 음반인 《ETERNAL FLAME》을 발매하였다. 이어 2010년 6월 16일에는 2010년 두 번째 싱글 《Infinity2 (∞2)》를 발표하였다.
 
 ## 멤버
 

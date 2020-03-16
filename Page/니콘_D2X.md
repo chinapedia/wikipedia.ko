@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ D2X](https://ko.wikipedia.org/wiki/_D2X).
 
 
-[right](https://ko.wikipedia.org/wiki/파일:Nikon_D2x_0601.jpg "wikilink") **니콘 D2X**()는 [니콘](../Page/니콘.md "wikilink")의 1,240만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가진 전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")로, [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 9월 14일에 발표되었다. [니콘 D1X의](https://ko.wikipedia.org/wiki/니콘_D1X "wikilink") 후속인 D2X는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 6월 D2Xs가 발표되기 전까지 니콘의 최상위 기종이었다.
+[right](https://ko.wikipedia.org/wiki/파일:Nikon_D2x_0601.jpg "wikilink") **니콘 D2X**()는 [니콘](../Page/니콘.md "wikilink")의 1,240만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가진 전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")로, [2004년](../Page/2004년.md "wikilink") 9월 14일에 발표되었다. [니콘 D1X의](https://ko.wikipedia.org/wiki/니콘_D1X "wikilink") 후속인 D2X는 [2006년](../Page/2006년.md "wikilink") 6월 D2Xs가 발표되기 전까지 니콘의 최상위 기종이었다.
 
-[촬상소자](https://ko.wikipedia.org/wiki/촬상소자 "wikilink")로 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")에서 생산하는 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 사용한다.\[1\] 이 센서는 소니와 니콘이 공동으로 개발하였다.\[2\] D2X의 이미지 센서보다 크기는 약간 작지만 매우 유사한 CMOS 센서가 [소니 사이버샷 DSC-R1에](https://ko.wikipedia.org/wiki/소니_사이버샷_DSC-R1 "wikilink") 사용되었다. D2X와 D2Xs는 니콘의 디지털 SLR 중 CMOS 소자를 촬상소자로 사용한 최초의 기종이다. [니콘 D2H](https://ko.wikipedia.org/wiki/니콘_D2H "wikilink") 및 D2Hs는 니콘에서 자체 개발한 [LBCAST](https://ko.wikipedia.org/wiki/LBCAST "wikilink") 센서를 사용하며, D2X 이전에 출시된 니콘 DSLR은 모두 [CCD](https://ko.wikipedia.org/wiki/CCD "wikilink")를 사용한다.
+[촬상소자](https://ko.wikipedia.org/wiki/촬상소자 "wikilink")로 [소니](../Page/소니.md "wikilink")에서 생산하는 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 사용한다.\[1\] 이 센서는 소니와 니콘이 공동으로 개발하였다.\[2\] D2X의 이미지 센서보다 크기는 약간 작지만 매우 유사한 CMOS 센서가 [소니 사이버샷 DSC-R1에](https://ko.wikipedia.org/wiki/소니_사이버샷_DSC-R1 "wikilink") 사용되었다. D2X와 D2Xs는 니콘의 디지털 SLR 중 CMOS 소자를 촬상소자로 사용한 최초의 기종이다. [니콘 D2H](../Page/니콘_D2H.md "wikilink") 및 D2Hs는 니콘에서 자체 개발한 [LBCAST](https://ko.wikipedia.org/wiki/LBCAST "wikilink") 센서를 사용하며, D2X 이전에 출시된 니콘 DSLR은 모두 [CCD](https://ko.wikipedia.org/wiki/CCD "wikilink")를 사용한다.
 
 D2X는 [sYCC](https://ko.wikipedia.org/wiki/sYCC "wikilink") [색공간](https://ko.wikipedia.org/wiki/색공간 "wikilink")을 지원한다.
 
@@ -11,7 +11,7 @@ D2X는 [sYCC](https://ko.wikipedia.org/wiki/sYCC "wikilink") [색공간](https:/
 
 D2X의 후속으로 D2Xs가 출시되었다. 개선사항은 다음과 같다.
 
-  - 크롭 연사시 잘려나가는 부분이 [뷰파인더](https://ko.wikipedia.org/wiki/뷰파인더 "wikilink")에 어두운 회색으로 표시됨
+  - 크롭 연사시 잘려나가는 부분이 [뷰파인더](../Page/뷰파인더.md "wikilink")에 어두운 회색으로 표시됨
   - 연사 버퍼 효율 향상
   - AF 성능의 향상
   - 배터리 효율 향상(D2X의 약 2,800매에서 3,800매 이상으로 향상)
@@ -37,17 +37,17 @@ D2X의 후속으로 D2Xs가 출시되었다. 개선사항은 다음과 같다.
 
 ## 단점
 
-D2X(s)의 결정적인 단점은 이미지 센서의 작은 크기로, 이것으로 인한 고감도에서의 심한 노이즈(오랫동안 니콘 DSLR을 괴롭혀 온 문제로, 대부분의 사용자들이 이 이유로 고감도에서의 사용을 꺼려한다)와 이 작은 이미지 센서에 비교적 많은 화소가 집적되어 있어 미세한 손떨림도 쉽게 결과물에 나타나는 것, 그리고 [회절](https://ko.wikipedia.org/wiki/회절 "wikilink")로 인한 해상력 저하가 작은 [조리개 값에서부터](https://ko.wikipedia.org/wiki/조리개_값 "wikilink") 나타나는 것도 작은 이미지 센서에서 비롯되는 단점이다. D2X의 경우 대략 f/11보다 큰 조리개 값에서는 회절에 의한 해상력 저하가 나타난다.
+D2X(s)의 결정적인 단점은 이미지 센서의 작은 크기로, 이것으로 인한 고감도에서의 심한 노이즈(오랫동안 니콘 DSLR을 괴롭혀 온 문제로, 대부분의 사용자들이 이 이유로 고감도에서의 사용을 꺼려한다)와 이 작은 이미지 센서에 비교적 많은 화소가 집적되어 있어 미세한 손떨림도 쉽게 결과물에 나타나는 것, 그리고 [회절](../Page/회절.md "wikilink")로 인한 해상력 저하가 작은 [조리개 값에서부터](https://ko.wikipedia.org/wiki/조리개_값 "wikilink") 나타나는 것도 작은 이미지 센서에서 비롯되는 단점이다. D2X의 경우 대략 f/11보다 큰 조리개 값에서는 회절에 의한 해상력 저하가 나타난다.
 
 D2X(s)의 이미지 센서는 D70(s), D50, D40(x), D200와 같은 [니콘 DX 포맷으로](https://ko.wikipedia.org/wiki/니콘_DX_포맷 "wikilink") 크기 차이가 거의 없다.
 
 ## 경쟁 제품
 
-D2X 및 D2Xs의 주요 경쟁 제품으로는 [캐논 EOS-1Ds Mark II](https://ko.wikipedia.org/wiki/캐논_EOS-1Ds_Mark_II "wikilink"), [캐논 EOS-1D Mark II N이](https://ko.wikipedia.org/wiki/캐논_EOS-1D_Mark_II_N "wikilink") 있다.
+D2X 및 D2Xs의 주요 경쟁 제품으로는 [캐논 EOS-1Ds Mark II](../Page/캐논_EOS-1Ds_Mark_II.md "wikilink"), [캐논 EOS-1D Mark II N이](https://ko.wikipedia.org/wiki/캐논_EOS-1D_Mark_II_N "wikilink") 있다.
 
 ## 같이 보기
 
-  - [풀프레임 DSLR](https://ko.wikipedia.org/wiki/풀프레임_DSLR "wikilink")
+  - [풀프레임 DSLR](../Page/풀프레임_DSLR.md "wikilink")
 
 ## 각주
 

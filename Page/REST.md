@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [REST](https://ko.wikipedia.org/wiki/REST).
 
 
-**REST**(Representational State Transfer)는 [월드 와이드 웹과](../Page/월드_와이드_웹.md "wikilink") 같은 분산 [하이퍼미디어](https://ko.wikipedia.org/wiki/하이퍼미디어 "wikilink") 시스템을 위한 [소프트웨어 아키텍처의](https://ko.wikipedia.org/wiki/소프트웨어_아키텍처 "wikilink") 한 형식이다. 이 용어는 로이 필딩(Roy Fielding)의 2000년 박사학위 논문에서 소개되었다. 필딩은 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink")의 주요 저자 중 한 사람이다. 이 개념은 네트워킹 문화에 널리 퍼졌다.
+**REST**(Representational State Transfer)는 [월드 와이드 웹과](../Page/월드_와이드_웹.md "wikilink") 같은 분산 [하이퍼미디어](../Page/하이퍼미디어.md "wikilink") 시스템을 위한 [소프트웨어 아키텍처의](https://ko.wikipedia.org/wiki/소프트웨어_아키텍처 "wikilink") 한 형식이다. 이 용어는 로이 필딩(Roy Fielding)의 2000년 박사학위 논문에서 소개되었다. 필딩은 [HTTP](../Page/HTTP.md "wikilink")의 주요 저자 중 한 사람이다. 이 개념은 네트워킹 문화에 널리 퍼졌다.
 
-엄격한 의미로 **REST**는 네트워크 아키텍처 원리의 모음이다. 여기서 '네트워크 아키텍처 원리'란 자원을 정의하고 자원에 대한 주소를 지정하는 방법 전반을 일컫는다. 간단한 의미로는, 웹 상의 자료를 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink")위에서 [SOAP](https://ko.wikipedia.org/wiki/SOAP "wikilink")이나 쿠키를 통한 세션 트랙킹 같은 별도의 전송 계층 없이 전송하기 위한 아주 간단한 인터페이스를 말한다. 이 두 가지의 의미는 겹치는 부분과 충돌되는 부분이 있다. 필딩의 **REST** 아키텍처 형식을 따르면 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink")나 [WWW](https://ko.wikipedia.org/wiki/WWW "wikilink")이 아닌 아주 커다란 소프트웨어 시스템을 설계하는 것도 가능하다. 또한, [리모트 프로시저 콜](https://ko.wikipedia.org/wiki/리모트_프로시저_콜 "wikilink") 대신에 간단한 [XML](https://ko.wikipedia.org/wiki/XML "wikilink")과 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink") 인터페이스를 이용해 설계하는 것도 가능하다.
+엄격한 의미로 **REST**는 네트워크 아키텍처 원리의 모음이다. 여기서 '네트워크 아키텍처 원리'란 자원을 정의하고 자원에 대한 주소를 지정하는 방법 전반을 일컫는다. 간단한 의미로는, 웹 상의 자료를 [HTTP](../Page/HTTP.md "wikilink")위에서 [SOAP](../Page/SOAP.md "wikilink")이나 쿠키를 통한 세션 트랙킹 같은 별도의 전송 계층 없이 전송하기 위한 아주 간단한 인터페이스를 말한다. 이 두 가지의 의미는 겹치는 부분과 충돌되는 부분이 있다. 필딩의 **REST** 아키텍처 형식을 따르면 [HTTP](../Page/HTTP.md "wikilink")나 [WWW](https://ko.wikipedia.org/wiki/WWW "wikilink")이 아닌 아주 커다란 소프트웨어 시스템을 설계하는 것도 가능하다. 또한, [리모트 프로시저 콜](https://ko.wikipedia.org/wiki/리모트_프로시저_콜 "wikilink") 대신에 간단한 [XML](../Page/XML.md "wikilink")과 [HTTP](../Page/HTTP.md "wikilink") 인터페이스를 이용해 설계하는 것도 가능하다.
 
 필딩의 **REST** 원리를 따르는 시스템은 종종 RESTful이란 용어로 지칭된다. 열정적인 REST 옹호자들은 스스로를 RESTafrians 이라고 부른다.
 
 ## 역사
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Roy_Fielding_at_OSCON_2008.jpg "wikilink") [로이 필딩](https://ko.wikipedia.org/wiki/로이_필딩 "wikilink")(Roy Fielding)은 2000년에 [UC 어바인에서](https://ko.wikipedia.org/wiki/캘리포니아_대학교_어바인 "wikilink") "Architectural Styles and the Design of Network-based Software Architectures"라는 제목의 2000년 박사 학위 논문에 REST를 정의하였다.\[1\] 그는 1996년부터 1999년까지 HTTP 1.0의 기존 디자인에 기반을 둔 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink") 1.1와 병행하여 REST 구조의 스타일을 개발하였다.\[2\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Roy_Fielding_at_OSCON_2008.jpg "wikilink") [로이 필딩](https://ko.wikipedia.org/wiki/로이_필딩 "wikilink")(Roy Fielding)은 2000년에 [UC 어바인에서](../Page/캘리포니아_대학교_어바인.md "wikilink") "Architectural Styles and the Design of Network-based Software Architectures"라는 제목의 2000년 박사 학위 논문에 REST를 정의하였다.\[1\] 그는 1996년부터 1999년까지 HTTP 1.0의 기존 디자인에 기반을 둔 [HTTP](../Page/HTTP.md "wikilink") 1.1와 병행하여 REST 구조의 스타일을 개발하였다.\[2\]
 
 ## 원리
 
@@ -19,7 +19,7 @@
 
   - [클라이언트/서버 구조](https://ko.wikipedia.org/wiki/:en:Client%E2%80%93server "wikilink"): 일관적인 인터페이스로 분리되어야 한다
   - [무상태(Stateless)](https://en.wikipedia.org/wiki/Stateless_server): 각 요청 간 클라이언트의 콘텍스트가 서버에 저장되어서는 안 된다
-  - [캐시 처리 가능(Cacheable)](https://ko.wikipedia.org/wiki/웹_캐시 "wikilink"): WWW에서와 같이 클라이언트는 응답을 캐싱할 수 있어야 한다.
+  - [캐시 처리 가능(Cacheable)](../Page/웹_캐시.md "wikilink"): WWW에서와 같이 클라이언트는 응답을 캐싱할 수 있어야 한다.
       - 잘 관리되는 캐싱은 클라이언트-서버 간 상호작용을 부분적으로 또는 완전하게 제거하여 scalability와 성능을 향상시킨다.
   - [계층화(Layered System)](https://en.wikipedia.org/wiki/Layered_system): 클라이언트는 보통 대상 서버에 직접 연결되었는지, 또는 중간 서버를 통해 연결되었는지를 알 수 없다. 중간 서버는 [로드 밸런싱](https://ko.wikipedia.org/wiki/로드_밸런싱 "wikilink") 기능이나 [공유 캐시](https://ko.wikipedia.org/wiki/공유_캐시 "wikilink") 기능을 제공함으로써 시스템 규모 확장성을 향상시키는 데 유용하다.
   - [Code on demand (optional)](https://en.wikipedia.org/wiki/Client-side_scripting) - 자바 애플릿이나 자바스크립트의 제공을 통해 서버가 클라이언트가 실행시킬 수 있는 로직을 전송하여 기능을 확장시킬 수 있다.
@@ -52,10 +52,10 @@
 
 ## 같이 보기
 
-  - [원격 프로시저 호출](https://ko.wikipedia.org/wiki/원격_프로시저_호출 "wikilink")
-  - [XML-RPC](https://ko.wikipedia.org/wiki/XML-RPC "wikilink")/[JSON-RPC](../Page/JSON-RPC.md "wikilink")
-  - [SOAP](https://ko.wikipedia.org/wiki/SOAP "wikilink")
-  - [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink")
+  - [원격 프로시저 호출](../Page/원격_프로시저_호출.md "wikilink")
+  - [XML-RPC](../Page/XML-RPC.md "wikilink")/[JSON-RPC](../Page/JSON-RPC.md "wikilink")
+  - [SOAP](../Page/SOAP.md "wikilink")
+  - [HTTP](../Page/HTTP.md "wikilink")
 
 ## 각주
 

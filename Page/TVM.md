@@ -5,7 +5,7 @@
 
 ## 개요
 
-TVM 시스템은 프랑스 CSEE(현 [안살도 STS](https://ko.wikipedia.org/wiki/안살도_STS "wikilink"))에서 개발하였다. 신호 시스템 자체는 고속을 지원하지만, 릴레이와 같은 구형 부품이 일부 사용된다. 시스템 상으로 봐서는 [ATC의](https://ko.wikipedia.org/wiki/자동_열차_제어_장치 "wikilink") 일종에 속한다.
+TVM 시스템은 프랑스 CSEE(현 [안살도 STS](../Page/안살도_STS.md "wikilink"))에서 개발하였다. 신호 시스템 자체는 고속을 지원하지만, 릴레이와 같은 구형 부품이 일부 사용된다. 시스템 상으로 봐서는 [ATC의](../Page/자동_열차_제어_장치.md "wikilink") 일종에 속한다.
 
 고속선용 신호는 TVM300과 TVM430 두 종류가 있다. TVM430 시스템은 [LGV 노르](https://ko.wikipedia.org/wiki/LGV_노르 "wikilink") 이후 개통된 프랑스 고속선, [채널 터널](../Page/채널_터널.md "wikilink"), 벨기에 [HSL 1](https://ko.wikipedia.org/wiki/HSL_1 "wikilink"), 영국 [하이 스피드 1](https://ko.wikipedia.org/wiki/하이_스피드_1 "wikilink"), 대한민국 [경부고속선](../Page/경부고속선.md "wikilink"), [호남고속선](https://ko.wikipedia.org/wiki/호남고속선 "wikilink"), [수서평택고속선](https://ko.wikipedia.org/wiki/수서평택고속선 "wikilink")에 설치되어 있으며 TVM300보다 더 많은 정보를 제공한다. 제동을 해방시키지 않으면서 안전하게 속도를 줄일 수 있도록 연속적인 제동 곡선을 그릴 수 있다. TVM430은 기능이 모듈화되어 있는 TVM400-TVM440(추가적 자동 열차 제어), TVM450(무인 운전) 계열에 속해 있다.
 

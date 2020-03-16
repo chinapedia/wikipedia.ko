@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PSK31](https://ko.wikipedia.org/wiki/PSK31).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:PSK_matrix.jpg "wikilink") **PSK31** 또는 "Phase Shift Keying, 31 Baud"은 [디지털](https://ko.wikipedia.org/wiki/디지털 "wikilink") [라디오 변조 방식을](https://ko.wikipedia.org/wiki/라디오_변조_방식 "wikilink") 말한다. **BPSK31** **QPSK31**이라고도 한다. 주로 [아마추어 무선에서](https://ko.wikipedia.org/wiki/아마추어_무선 "wikilink") 실시간 문자 채팅으로 쓰인다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:PSK_matrix.jpg "wikilink") **PSK31** 또는 "Phase Shift Keying, 31 Baud"은 [디지털](https://ko.wikipedia.org/wiki/디지털 "wikilink") [라디오 변조 방식을](https://ko.wikipedia.org/wiki/라디오_변조_방식 "wikilink") 말한다. **BPSK31** **QPSK31**이라고도 한다. 주로 [아마추어 무선에서](../Page/아마추어_무선.md "wikilink") 실시간 문자 채팅으로 쓰인다.
 
 ## 역사
 
@@ -67,8 +67,8 @@ DigiPan이 가장 많이 사용된다.
 
   - [QRP](../Page/QRP.md "wikilink")
   - [무선전신](https://ko.wikipedia.org/wiki/무선전신 "wikilink")
-  - [단파](https://ko.wikipedia.org/wiki/단파 "wikilink")
-  - [D-STAR](https://ko.wikipedia.org/wiki/D-STAR "wikilink")
+  - [단파](../Page/단파.md "wikilink")
+  - [D-STAR](../Page/D-STAR.md "wikilink")
 
 ## 참고
 

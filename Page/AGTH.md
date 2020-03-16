@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [AGTH](https://ko.wikipedia.org/wiki/AGTH).
 
 
-**AGTH**()는 일본의 [미소녀 게임](https://ko.wikipedia.org/wiki/미소녀_게임 "wikilink") 등에서 메모리 상에 출력되는 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink") 문장을 추출하기 위해 개발된 후킹 프로그램으로, 일본어를 읽을 수 없는 사용자가 문장을 번역기 등에 돌릴 수 있게 하여 어느 정도 내용을 이해할 수 있게 도와주는 역할을 한다. 같은 용도로는 [Oh\! 텍스트 후커가](https://ko.wikipedia.org/wiki/Oh!_텍스트_후커 "wikilink") 있다.
+**AGTH**()는 일본의 [미소녀 게임](../Page/미소녀_게임.md "wikilink") 등에서 메모리 상에 출력되는 [일본어](../Page/일본어.md "wikilink") 문장을 추출하기 위해 개발된 후킹 프로그램으로, 일본어를 읽을 수 없는 사용자가 문장을 번역기 등에 돌릴 수 있게 하여 어느 정도 내용을 이해할 수 있게 도와주는 역할을 한다. 같은 용도로는 [Oh\! 텍스트 후커가](https://ko.wikipedia.org/wiki/Oh!_텍스트_후커 "wikilink") 있다.
 
 ## 내력
 
-AGTH는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 17일자로](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") SEt(아이디)가 첫 공개되었으며, 이후 AGTH에 나온 텍스트를 [ezTrans XP를](https://ko.wikipedia.org/wiki/ezTrans_XP "wikilink") 이용해 한글로 번역한 후 출력하는 [CliphookerEX\!](https://ko.wikipedia.org/wiki/CliphookerEX! "wikilink")에 의해 즉석에서 번역된 내용을 읽을 수 있게 되었다. 현재 버전이 갱신되면서 지원 범위를 넓히고 있으며, [x64](https://ko.wikipedia.org/wiki/x64 "wikilink")기반의 AGTH64 버전도 있었으나 실용성이 없는 관계로 2006.11.7 버전 이후로 제거되었다.
+AGTH는 [2006년](../Page/2006년.md "wikilink") [4월 17일자로](../Page/4월_17일.md "wikilink") SEt(아이디)가 첫 공개되었으며, 이후 AGTH에 나온 텍스트를 [ezTrans XP를](https://ko.wikipedia.org/wiki/ezTrans_XP "wikilink") 이용해 한글로 번역한 후 출력하는 [CliphookerEX\!](https://ko.wikipedia.org/wiki/CliphookerEX! "wikilink")에 의해 즉석에서 번역된 내용을 읽을 수 있게 되었다. 현재 버전이 갱신되면서 지원 범위를 넓히고 있으며, [x64](https://ko.wikipedia.org/wiki/x64 "wikilink")기반의 AGTH64 버전도 있었으나 실용성이 없는 관계로 2006.11.7 버전 이후로 제거되었다.
 
 ## 작동원리
 

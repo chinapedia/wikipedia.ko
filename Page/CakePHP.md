@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CakePHP](https://ko.wikipedia.org/wiki/CakePHP).
 
 
-**CakePHP**는 [PHP](https://ko.wikipedia.org/wiki/PHP "wikilink")로 만든 [웹 애플리케이션 프레임워크이다](https://ko.wikipedia.org/wiki/웹_애플리케이션_프레임워크 "wikilink"). [루비 온 레일스가](https://ko.wikipedia.org/wiki/루비_온_레일스 "wikilink") 인기를 끌면서, 이에 대응하는 웹 프레임워크를 PHP로 만든 것이다.
+**CakePHP**는 [PHP](../Page/PHP.md "wikilink")로 만든 [웹 애플리케이션 프레임워크이다](https://ko.wikipedia.org/wiki/웹_애플리케이션_프레임워크 "wikilink"). [루비 온 레일스가](https://ko.wikipedia.org/wiki/루비_온_레일스 "wikilink") 인기를 끌면서, 이에 대응하는 웹 프레임워크를 PHP로 만든 것이다.
 
 ## 각주
 

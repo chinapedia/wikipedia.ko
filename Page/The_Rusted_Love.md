@@ -8,9 +8,9 @@
 ## 곡
 
 1.  웃어도 눈물이 ([신동우](https://ko.wikipedia.org/wiki/신동우_\(작곡가\) "wikilink") 작곡, [이소연](https://ko.wikipedia.org/wiki/이소연_\(작사가\) "wikilink") 작사)
-2.  **아쉬워서** ([전해성](https://ko.wikipedia.org/wiki/전해성 "wikilink") 작사·곡)
+2.  **아쉬워서** ([전해성](../Page/전해성.md "wikilink") 작사·곡)
 3.  **눈물겨운 고백** (히로세 코미 작곡, 이소연 작사)
-4.  **사랑은 아프려고 하는 거죠** (히로세 코미 작곡, [양재선](https://ko.wikipedia.org/wiki/양재선 "wikilink") 작사)
+4.  **사랑은 아프려고 하는 거죠** (히로세 코미 작곡, [양재선](../Page/양재선.md "wikilink") 작사)
 5.  녹이 쓴 추억 (히로세 코미 작곡, 이소연 작사)
 6.  First Love ([이태윤](https://ko.wikipedia.org/wiki/이태윤 "wikilink") 작곡, 이태윤·[박민주](https://ko.wikipedia.org/wiki/박민주_\(음악가\) "wikilink") 작사)
 7.  하면 할수록 (전해성 작사·곡)

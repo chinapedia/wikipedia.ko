@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ MOSFET](https://ko.wikipedia.org/wiki/_MOSFET).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:D2PAK.JPG "wikilink") 패키지 D2PAK2의 두개의 전력 모스펫. 각각의 이 요소는 30 [볼트의](https://ko.wikipedia.org/wiki/볼트_\(단위\) "wikilink") 차단전압과 120 [암페어](https://ko.wikipedia.org/wiki/암페어 "wikilink")의 지속전류를 유지할 수 있다.\]\] **전력 모스펫** ()은 큰 전력을 처리하기위해 설계된 [금속 산화막 반도체 전계효과 트랜지스터](https://ko.wikipedia.org/wiki/금속_산화막_반도체_전계효과_트랜지스터 "wikilink") (MOSFET)의 특정 종류이다. 다른 [전력 반도체 소자](https://ko.wikipedia.org/wiki/전력_반도체_소자 "wikilink") ([절연 게이트 양극성 트랜지스터](../Page/절연_게이트_양극성_트랜지스터.md "wikilink") (IGBT), [사이리스터](../Page/사이리스터.md "wikilink")...)들에 비해 주요한 장점은 낮은 전압에서 통신 속도가 빠르고 효율이 좋다는 것이다. 이것은 절연 게이트 양극성 트랜지스터(IGBT)의 격리된 게이트와 공유되어 신호인가를 쉽게 한다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:D2PAK.JPG "wikilink") 패키지 D2PAK2의 두개의 전력 모스펫. 각각의 이 요소는 30 [볼트의](../Page/볼트_\(단위\).md "wikilink") 차단전압과 120 [암페어](../Page/암페어.md "wikilink")의 지속전류를 유지할 수 있다.\]\] **전력 모스펫** ()은 큰 전력을 처리하기위해 설계된 [금속 산화막 반도체 전계효과 트랜지스터](https://ko.wikipedia.org/wiki/금속_산화막_반도체_전계효과_트랜지스터 "wikilink") (MOSFET)의 특정 종류이다. 다른 [전력 반도체 소자](https://ko.wikipedia.org/wiki/전력_반도체_소자 "wikilink") ([절연 게이트 양극성 트랜지스터](../Page/절연_게이트_양극성_트랜지스터.md "wikilink") (IGBT), [사이리스터](../Page/사이리스터.md "wikilink")...)들에 비해 주요한 장점은 낮은 전압에서 통신 속도가 빠르고 효율이 좋다는 것이다. 이것은 절연 게이트 양극성 트랜지스터(IGBT)의 격리된 게이트와 공유되어 신호인가를 쉽게 한다.
 
 이것은 [시모스](https://ko.wikipedia.org/wiki/시모스 "wikilink") 기술이 발전함에 따라 제조가 가능했으며 1970년대 후반에 [집적회로](https://ko.wikipedia.org/wiki/집적회로 "wikilink") 제조가 개발되었다. 전력 모스펫은 저전력 중 하나인 [측면 모스펫의](https://ko.wikipedia.org/wiki/금속_산화막_반도체_전계효과_트랜지스터 "wikilink") 동작법칙을 공유한다.
 
@@ -33,8 +33,8 @@
   - R<sub>ch</sub>는 채널 저항이다. 이것은 채널폭에 정비례하고 주어진 다이 크기에서 채널밀도이다. 채널 저항은 저전압 모스펫의 R<sub>DSon</sub>에 주요한 기여중 하나이고 강력한 동작은 채널밀도를 증가시키기 위해서 셀 크기를 감소시키게 될 것이다;
   - R<sub>a</sub>는 "축적층" 저항이다. 이것은 게이트전극의 바로 아래에 있는 [에피택시](https://ko.wikipedia.org/wiki/에피택시 "wikilink") 구역의 저항을 나타내며 전류의 방향은 (채널의) 수평에서 (드레인 연결의) 수직으로 변경된다;
   - R<sub>JFET</sub>는 위에 언급된 셀크기 감소의 나쁜 효과이다: P전이 (그림 1을 볼 것)은 전류흐름의 폭을 감소시키는 경향이 있는 기생 [JFET](https://ko.wikipedia.org/wiki/JFET "wikilink") 트랜지스터의 게이트를 형성한다.
-  - R<sub>n</sub>는 에피택시막의 저항이다. 이막의 역할은 차단전압을 유지하는 것이며, R<sub>n</sub>는 소자의 전압 등급과 직접적으로 관련된다. 고전압 모스펫은 저농도 도핑된 (즉 높은 저항) 두꺼운 막을 요구한다. 반면에 저전압 [트랜지스터](https://ko.wikipedia.org/wiki/트랜지스터 "wikilink")는 오직 고농도 도핑 수준 (즉 낮은 저항)의 박막을 요구한다. 그결과 R<sub>n</sub>는 고전압 모스펫의 저항을 유발하는 주요한 요소이다.
-  - R<sub>D</sub>는 드레인에서 R<sub>S</sub>과 동등하다. 이것은 [트랜지스터](https://ko.wikipedia.org/wiki/트랜지스터 "wikilink") 기판 (그림 1에 있는 단면도인 모양은 척도가 아니고 바닥 N<sup>+</sup>막은 실제로 가장 두껍다)의 저항과 패키지 연결의 저항을 나타낸다.
+  - R<sub>n</sub>는 에피택시막의 저항이다. 이막의 역할은 차단전압을 유지하는 것이며, R<sub>n</sub>는 소자의 전압 등급과 직접적으로 관련된다. 고전압 모스펫은 저농도 도핑된 (즉 높은 저항) 두꺼운 막을 요구한다. 반면에 저전압 [트랜지스터](../Page/트랜지스터.md "wikilink")는 오직 고농도 도핑 수준 (즉 낮은 저항)의 박막을 요구한다. 그결과 R<sub>n</sub>는 고전압 모스펫의 저항을 유발하는 주요한 요소이다.
+  - R<sub>D</sub>는 드레인에서 R<sub>S</sub>과 동등하다. 이것은 [트랜지스터](../Page/트랜지스터.md "wikilink") 기판 (그림 1에 있는 단면도인 모양은 척도가 아니고 바닥 N<sup>+</sup>막은 실제로 가장 두껍다)의 저항과 패키지 연결의 저항을 나타낸다.
 
 ### 항복전압/온상태 저항간의 상보관계 (trade-off)
 
@@ -52,7 +52,7 @@
 
 모스펫 동작원리가 단지 소스를 N<sup>+</sup> 영역에 연결되는 것이 요구되더라도 소스 금속은 N<sup>+</sup>과 P전이를 연결한 그림 1에서 보일 수 있다. 그러나 이런경우에 N도핑된 소스와 드레인사이의 유동적인 P 영역의 결과일 것이여서 베이스가 연결되지 않은 [NPN](https://ko.wikipedia.org/wiki/NPN "wikilink") 트랜지스터와 동등하다. 확실한 조건에서 (드레인 고전류에서, 온상태 드레인-소스 전압이 특정전압일 때) 기생 NPN 트랜지스터는 트리거되어서 모스펫을 제어할 수 없게 만든다. 소스 금속화의 P전이의 연결은 에미터 (모스펫의 소스)의 기생 트랜지스터의 베이스를 합선하여 잘못된 레치를 방치한다.
 
-그렇지만 이 해결책은 모스펫의 드레인 (캐소드)와 소스 (어노드)사이에 [다이오드](https://ko.wikipedia.org/wiki/다이오드 "wikilink")를 만들어서 한방향으로 전류를 차단할 수 있게 한다.
+그렇지만 이 해결책은 모스펫의 드레인 (캐소드)와 소스 (어노드)사이에 [다이오드](../Page/다이오드.md "wikilink")를 만들어서 한방향으로 전류를 차단할 수 있게 한다.
 
 ## 스위치 동작
 
@@ -87,7 +87,7 @@ C<sub>GD</sub> 전기용량은 두개의 기본적인 전기용량의 연속에 
 
 \[w_{GDj}=\sqrt{\frac{2\epsilon_{Si}V_{GD}}{qN}}\]
 
-여기서 \(\epsilon_{Si}\)는 실리콘의 [유전율](https://ko.wikipedia.org/wiki/유전율 "wikilink"), q는 [전자](https://ko.wikipedia.org/wiki/전자 "wikilink") 전하, N은 [도핑](https://ko.wikipedia.org/wiki/도핑 "wikilink") 수준이다. C<sub>GDj</sub>의 값은 [평면 축전기의](https://ko.wikipedia.org/wiki/축전기 "wikilink") 수식을 사용하여 근사할 수 있다.
+여기서 \(\epsilon_{Si}\)는 실리콘의 [유전율](../Page/유전율.md "wikilink"), q는 [전자](../Page/전자.md "wikilink") 전하, N은 [도핑](https://ko.wikipedia.org/wiki/도핑 "wikilink") 수준이다. C<sub>GDj</sub>의 값은 [평면 축전기의](../Page/축전기.md "wikilink") 수식을 사용하여 근사할 수 있다.
 
 \[C_{DGj}=A_{GD}\frac{\epsilon_{Si}}{w_{GDj}}\]
 
@@ -99,7 +99,7 @@ C<sub>GDj</sub> (과 그러므로 C<sub>GD</sub>)처럼 보일 수 있는 이것
 
 #### 드레인-소스 전기용량
 
-소스 금속화가 P우물을 겹치는 것처럼 (그림 1을 보세요), 드레인과 소스 단자는 [PN 접합에](https://ko.wikipedia.org/wiki/PN_접합 "wikilink") 의하여 격리된다. 그러므로, C<sub>DS</sub>는 접합 전기용량이다. 이것은 비선형 전기용량이고 이것의 값은 C<sub>GDj</sub>의 동일한 방정식을 사용하여 계산할 수 있다.
+소스 금속화가 P우물을 겹치는 것처럼 (그림 1을 보세요), 드레인과 소스 단자는 [PN 접합에](../Page/PN_접합.md "wikilink") 의하여 격리된다. 그러므로, C<sub>DS</sub>는 접합 전기용량이다. 이것은 비선형 전기용량이고 이것의 값은 C<sub>GDj</sub>의 동일한 방정식을 사용하여 계산할 수 있다.
 
 ### 다른 동적요소
 
@@ -127,7 +127,7 @@ C<sub>GDj</sub> (과 그러므로 C<sub>GD</sub>)처럼 보일 수 있는 이것
 
 #### 드레인-소스 저항
 
-온상태에서 전력 모스펫은 [저항기](https://ko.wikipedia.org/wiki/저항기 "wikilink")처럼 동작한다. 이것은 명백히 드레인 전류 수준에서 드레인-소스 전압은 이 저항기에 의하여 정의됨을 뜻한다.
+온상태에서 전력 모스펫은 [저항기](../Page/저항기.md "wikilink")처럼 동작한다. 이것은 명백히 드레인 전류 수준에서 드레인-소스 전압은 이 저항기에 의하여 정의됨을 뜻한다.
 
 #### 최대 드레인-소스 전압
 
@@ -149,7 +149,7 @@ C<sub>GDj</sub> (과 그러므로 C<sub>GD</sub>)처럼 보일 수 있는 이것
 
 위에서 말한 것처럼 전력 모스펫의 전류 전기용량은 채널폭에 의하여 제거된다. 채널폭은 아래에 보이는 교차영역의 세 번째 면적과 일치된다.
 
-비용과 크기의 이익을 위해서 이것은 트랜지스터 다이 표면을 가능한 작게 유지시키기 위해서 중요하다. 그러므로 표면적에 의한 채널폭을 증가시키는 최적화 (즉, "채널농도"를 증가시킴)는 개발되었다. 그들은 주로 셀구조가 모스펫 다이의 전체면적을 반복하여 생성되어서 구성된다. 몇가지 모양은 이런 셀에 제한되었으며, 가장 인기있던것은 [International Rectifier사의](https://ko.wikipedia.org/wiki/인터내셔널_렉티파이어 "wikilink") "헥스펫" (, 육각형 모양)이다.
+비용과 크기의 이익을 위해서 이것은 트랜지스터 다이 표면을 가능한 작게 유지시키기 위해서 중요하다. 그러므로 표면적에 의한 채널폭을 증가시키는 최적화 (즉, "채널농도"를 증가시킴)는 개발되었다. 그들은 주로 셀구조가 모스펫 다이의 전체면적을 반복하여 생성되어서 구성된다. 몇가지 모양은 이런 셀에 제한되었으며, 가장 인기있던것은 [International Rectifier사의](../Page/인터내셔널_렉티파이어.md "wikilink") "헥스펫" (, 육각형 모양)이다.
 
 채널농도를 증가시키는 다른방법은 기본구조의 간격을 감소시키는 것이다. 이것은 표면적에 의하여 더 많은 셀이 가능하여 더 많은 채널폭이 된다. 그러나 셀 크기 축소처럼, 이것은 모든셀의 확실한 접속을 보장하기 더
 
@@ -159,7 +159,7 @@ C<sub>GDj</sub> (과 그러므로 C<sub>GD</sub>)처럼 보일 수 있는 이것
 
 P기판 모스펫 (종종 피모스를 가리킴)은 반대로 도핑된 형태 (그림 1의 교차영역에서 N대신에 P와 P대신에 N)의 모스펫이다. 이 모스펫은 P<sup>-</sup>에피택시를 지닌 P기판을 사용하여 만든다. N영역에 위치한 채널처럼 이 트랜지스터는 음의 게이트-소스 전압에 의하여 전환된다. 이것은 스위치 단자의 하나가 입력전압의 높은면으로 연결되어 [버크 변환기를](https://ko.wikipedia.org/wiki/버크_변환기 "wikilink") 적합하게 한다: 엔모스펫과 함께, 이 설정은 \(V_{in} +V_{GS}\)와 동일한 전압이 게이트에 인가되는게 요구된다. 반면에 \(V_{in}\)넘어서는 전압은 피모스펫을 요구하지 않는다.
 
-이 종류 모스펫의 주요한 단점은 형편없는 온상태 성능이다: [전하 캐리어처럼](https://ko.wikipedia.org/wiki/전하_캐리어 "wikilink") [홀을](https://ko.wikipedia.org/wiki/정공 "wikilink") 사용하여, [전자](https://ko.wikipedia.org/wiki/전자 "wikilink")보다 매우 낮은 [이동도](https://ko.wikipedia.org/wiki/이동도 "wikilink")를 갖는다. [저항력](https://ko.wikipedia.org/wiki/저항력 "wikilink")은 이동도와 직접 관련이 있어서, 주어진 피모스는 동일한 면적의 엔모스보다 3배 높은 \(R_{DSon}\)를 지니게 될 것이다.
+이 종류 모스펫의 주요한 단점은 형편없는 온상태 성능이다: [전하 캐리어처럼](https://ko.wikipedia.org/wiki/전하_캐리어 "wikilink") [홀을](https://ko.wikipedia.org/wiki/정공 "wikilink") 사용하여, [전자](../Page/전자.md "wikilink")보다 매우 낮은 [이동도](https://ko.wikipedia.org/wiki/이동도 "wikilink")를 갖는다. [저항력](https://ko.wikipedia.org/wiki/저항력 "wikilink")은 이동도와 직접 관련이 있어서, 주어진 피모스는 동일한 면적의 엔모스보다 3배 높은 \(R_{DSon}\)를 지니게 될 것이다.
 
 #### 브이모스
 
@@ -190,7 +190,7 @@ P기판 모스펫 (종종 피모스를 가리킴)은 반대로 도핑된 형태 
 
 ## 참조
 
-  - "전력 반도체 소자", B. 자욘트 발리거 (), PWS 출판사, [보스턴](https://ko.wikipedia.org/wiki/보스턴 "wikilink").
+  - "전력 반도체 소자", B. 자욘트 발리거 (), PWS 출판사, [보스턴](../Page/보스턴.md "wikilink").
 
 [분류:트랜지스터](https://ko.wikipedia.org/wiki/분류:트랜지스터 "wikilink") [분류:고체 소자 스위치](https://ko.wikipedia.org/wiki/분류:고체_소자_스위치 "wikilink") [분류:전력 전자공학](https://ko.wikipedia.org/wiki/분류:전력_전자공학 "wikilink")
 

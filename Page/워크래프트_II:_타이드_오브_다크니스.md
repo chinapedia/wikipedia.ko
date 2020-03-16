@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ II:   ](https://ko.wikipedia.org/wiki/_II:___).
 
 
-《**워크래프트 II: 타이드 오브 다크니스**》()는 [블리자드 엔터테인먼트가](https://ko.wikipedia.org/wiki/블리자드_엔터테인먼트 "wikilink") [워크래프트: 오크 앤드 휴먼의](https://ko.wikipedia.org/wiki/워크래프트:_오크_앤드_휴먼 "wikilink") 후속편으로 개발한 게임이다. 전작에 비해 시스템과 그래픽이 매우 발전하였고, 상당한 인기를 끌었다.
+《**워크래프트 II: 타이드 오브 다크니스**》()는 [블리자드 엔터테인먼트가](../Page/블리자드_엔터테인먼트.md "wikilink") [워크래프트: 오크 앤드 휴먼의](https://ko.wikipedia.org/wiki/워크래프트:_오크_앤드_휴먼 "wikilink") 후속편으로 개발한 게임이다. 전작에 비해 시스템과 그래픽이 매우 발전하였고, 상당한 인기를 끌었다.
 
-[스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink")의 원조로 불리는 게임이기도 하다. 워크래프트 시리즈 중 유일하게 해상전을 도입한 작품이다. 후속작인 [워크래프트 3에도](https://ko.wikipedia.org/wiki/워크래프트_3 "wikilink") 해상전이 있기는 하지만, 육상전에 비해서 미약하다. 확장팩으로 [워크래프트 II: 비욘드 더 다크 포탈이](https://ko.wikipedia.org/wiki/워크래프트_II:_비욘드_더_다크_포탈 "wikilink") 있다.
+[스타크래프트](../Page/스타크래프트.md "wikilink")의 원조로 불리는 게임이기도 하다. 워크래프트 시리즈 중 유일하게 해상전을 도입한 작품이다. 후속작인 [워크래프트 3에도](https://ko.wikipedia.org/wiki/워크래프트_3 "wikilink") 해상전이 있기는 하지만, 육상전에 비해서 미약하다. 확장팩으로 [워크래프트 II: 비욘드 더 다크 포탈이](../Page/워크래프트_II:_비욘드_더_다크_포탈.md "wikilink") 있다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 보급될 당시의 상품명은 《워크래프트 2》\[1\] 또는 《워크래프트 II: 어둠의 물결》이었으며, 현재는 《워크래프트 II: 타이드 오브 다크니스》\[2\] 를 공식 명칭으로 사용하고 있다.
+[대한민국](../Page/대한민국.md "wikilink")에 보급될 당시의 상품명은 《워크래프트 2》\[1\] 또는 《워크래프트 II: 어둠의 물결》이었으며, 현재는 《워크래프트 II: 타이드 오브 다크니스》\[2\] 를 공식 명칭으로 사용하고 있다.
 
 ## 배경
 
@@ -25,7 +25,7 @@
 
 ## 같이 보기
 
-  - [워크래프트](https://ko.wikipedia.org/wiki/워크래프트 "wikilink")
+  - [워크래프트](../Page/워크래프트.md "wikilink")
 
 ## 외부 링크
 

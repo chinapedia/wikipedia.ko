@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AFC U-19   ](https://ko.wikipedia.org/wiki/AFC_U-19___).
 
 
-**AFC U-19 챔피언십**은 [아시아 축구 연맹](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink")(AFC)에서 주관하는 축구 대회이다. 첫 대회는 [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink")에 시작되었다. 1959년부터 [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink")까지는 매년 열렸고, [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")부터는 2년마다 개최되어 현재에 이르고 있다. 대회 형식은 여러번의 변화를 겪어왔다. 현재는 AFC의 다른 축구 대회처럼 두 단계로 나뉘어 진행된다. 예선전은 AFC의 전체 회원국에게 열려있고, 본선전은 16개 팀이 참가한다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")부터 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")까지 나이대가 19세 이하에서 20세 이하로 조정되었다가 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")부터 다시 19세 이하로 환원되었다.
+**AFC U-19 챔피언십**은 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)에서 주관하는 축구 대회이다. 첫 대회는 [1959년](../Page/1959년.md "wikilink")에 시작되었다. 1959년부터 [1978년](../Page/1978년.md "wikilink")까지는 매년 열렸고, [1980년](../Page/1980년.md "wikilink")부터는 2년마다 개최되어 현재에 이르고 있다. 대회 형식은 여러번의 변화를 겪어왔다. 현재는 AFC의 다른 축구 대회처럼 두 단계로 나뉘어 진행된다. 예선전은 AFC의 전체 회원국에게 열려있고, 본선전은 16개 팀이 참가한다. [2002년](../Page/2002년.md "wikilink")부터 [2006년](../Page/2006년.md "wikilink")까지 나이대가 19세 이하에서 20세 이하로 조정되었다가 [2008년](../Page/2008년.md "wikilink")부터 다시 19세 이하로 환원되었다.
 
 ## 역대 대회
 
@@ -38,10 +38,10 @@
 <em><a href="https://ko.wikipedia.org/wiki/1959년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<strong><a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><sup><a href="https://ko.wikipedia.org/wiki/#4" title="wikilink">4</a></sup></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/말레이시아_축구_국가대표팀" title="wikilink">말라야</a></p></td>
+<a href="../Page/말레이시아_축구_국가대표팀.md" title="wikilink">말라야</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 </tr>
@@ -50,264 +50,264 @@
 <em><a href="https://ko.wikipedia.org/wiki/1960년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<strong><a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>4 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/말레이시아_축구_국가대표팀" title="wikilink">말라야</a></p></td>
+<a href="../Page/말레이시아_축구_국가대표팀.md" title="wikilink">말라야</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/홍콩_축구_국가대표팀" title="wikilink">홍콩</a></p></td>
+<a href="../Page/홍콩_축구_국가대표팀.md" title="wikilink">홍콩</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1961<br />
 <em><a href="https://ko.wikipedia.org/wiki/1961년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/인도네시아_축구_국가대표팀" title="wikilink">인도네시아</a></strong><br />
+<a href="../Page/인도네시아_축구_국가대표팀.md" title="wikilink">인도네시아</a></strong><br />
 <strong><br />
-<a href="https://ko.wikipedia.org/wiki/미얀마_축구_국가대표팀" title="wikilink">버마</a></strong></p></td>
+<a href="../Page/미얀마_축구_국가대표팀.md" title="wikilink">버마</a></strong></p></td>
 <td><p><strong>0 – 0</strong><br />
 <sup><a href="https://ko.wikipedia.org/wiki/#2" title="wikilink">2</a></sup></p></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/태국_축구_국가대표팀" title="wikilink">태국</a></p></td>
+<a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1962<br />
 <em><a href="https://ko.wikipedia.org/wiki/1962년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/태국_축구_국가대표팀" title="wikilink">태국</a></strong></p></td>
+<a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/인도네시아_축구_국가대표팀" title="wikilink">인도네시아</a></p></td>
+<a href="../Page/인도네시아_축구_국가대표팀.md" title="wikilink">인도네시아</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1963<br />
 <em><a href="https://ko.wikipedia.org/wiki/1963년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong><br />
+<strong><a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong><br />
 <strong><br />
-<a href="https://ko.wikipedia.org/wiki/미얀마_축구_국가대표팀" title="wikilink">버마</a></strong></p></td>
+<a href="../Page/미얀마_축구_국가대표팀.md" title="wikilink">버마</a></strong></p></td>
 <td><p><strong>2 – 2</strong><br />
 <sup><a href="https://ko.wikipedia.org/wiki/#2" title="wikilink">2</a></sup></p></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/태국_축구_국가대표팀" title="wikilink">태국</a></p></td>
+<a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1964<br />
 <em><a href="https://ko.wikipedia.org/wiki/1964년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이스라엘_축구_국가대표팀" title="wikilink">이스라엘</a></strong><br />
+<a href="../Page/이스라엘_축구_국가대표팀.md" title="wikilink">이스라엘</a></strong><br />
 <strong><br />
-<a href="https://ko.wikipedia.org/wiki/미얀마_축구_국가대표팀" title="wikilink">버마</a></strong></p></td>
+<a href="../Page/미얀마_축구_국가대표팀.md" title="wikilink">버마</a></strong></p></td>
 <td><p><strong>0 – 0</strong><br />
 <sup><a href="https://ko.wikipedia.org/wiki/#2" title="wikilink">2</a></sup></p></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/말레이시아_축구_국가대표팀" title="wikilink">말레이시아</a></p></td>
+<a href="../Page/말레이시아_축구_국가대표팀.md" title="wikilink">말레이시아</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1965<br />
 <em><a href="https://ko.wikipedia.org/wiki/1965년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이스라엘_축구_국가대표팀" title="wikilink">이스라엘</a></strong></p></td>
+<a href="../Page/이스라엘_축구_국가대표팀.md" title="wikilink">이스라엘</a></strong></p></td>
 <td><p><strong>5 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/미얀마_축구_국가대표팀" title="wikilink">버마</a></p></td>
+<a href="../Page/미얀마_축구_국가대표팀.md" title="wikilink">버마</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/말레이시아_축구_국가대표팀" title="wikilink">말레이시아</a></p></td>
+<a href="../Page/말레이시아_축구_국가대표팀.md" title="wikilink">말레이시아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1966<br />
 <em><a href="https://ko.wikipedia.org/wiki/1966년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이스라엘_축구_국가대표팀" title="wikilink">이스라엘</a></strong><br />
+<a href="../Page/이스라엘_축구_국가대표팀.md" title="wikilink">이스라엘</a></strong><br />
 <strong><br />
-<a href="https://ko.wikipedia.org/wiki/미얀마_축구_국가대표팀" title="wikilink">버마</a></strong></p></td>
+<a href="../Page/미얀마_축구_국가대표팀.md" title="wikilink">버마</a></strong></p></td>
 <td><p><strong>1 – 1</strong><br />
 <sup><a href="https://ko.wikipedia.org/wiki/#2" title="wikilink">2</a></sup></p></td>
 <td></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중화인민공화국</a><br />
 <br />
-<a href="https://ko.wikipedia.org/wiki/태국_축구_국가대표팀" title="wikilink">태국</a></p></td>
+<a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1967<br />
 <em><a href="https://ko.wikipedia.org/wiki/1967년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이스라엘_축구_국가대표팀" title="wikilink">이스라엘</a></strong></p></td>
+<a href="../Page/이스라엘_축구_국가대표팀.md" title="wikilink">이스라엘</a></strong></p></td>
 <td><p><strong>3 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/인도네시아_축구_국가대표팀" title="wikilink">인도네시아</a></p></td>
+<a href="../Page/인도네시아_축구_국가대표팀.md" title="wikilink">인도네시아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/미얀마_축구_국가대표팀" title="wikilink">버마</a></p></td>
+<a href="../Page/미얀마_축구_국가대표팀.md" title="wikilink">버마</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1968<br />
 <em><a href="https://ko.wikipedia.org/wiki/1968년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/미얀마_축구_국가대표팀" title="wikilink">버마</a></strong></p></td>
+<a href="../Page/미얀마_축구_국가대표팀.md" title="wikilink">버마</a></strong></p></td>
 <td><p><strong>4 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/말레이시아_축구_국가대표팀" title="wikilink">말레이시아</a></p></td>
+<a href="../Page/말레이시아_축구_국가대표팀.md" title="wikilink">말레이시아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a><br />
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a><br />
 <br />
-<a href="https://ko.wikipedia.org/wiki/이스라엘_축구_국가대표팀" title="wikilink">이스라엘</a></p></td>
+<a href="../Page/이스라엘_축구_국가대표팀.md" title="wikilink">이스라엘</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1969<br />
 <em><a href="https://ko.wikipedia.org/wiki/1969년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/미얀마_축구_국가대표팀" title="wikilink">버마</a></strong><br />
+<a href="../Page/미얀마_축구_국가대표팀.md" title="wikilink">버마</a></strong><br />
 <strong><br />
-<a href="https://ko.wikipedia.org/wiki/태국_축구_국가대표팀" title="wikilink">태국</a></strong></p></td>
+<a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국</a></strong></p></td>
 <td><p><strong>2 – 2</strong><br />
 <sup><a href="https://ko.wikipedia.org/wiki/#2" title="wikilink">2</a></sup></p></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></p></td>
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1970<br />
 <em><a href="https://ko.wikipedia.org/wiki/1970년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/미얀마_축구_국가대표팀" title="wikilink">버마</a></strong></p></td>
+<a href="../Page/미얀마_축구_국가대표팀.md" title="wikilink">버마</a></strong></p></td>
 <td><p><strong>3 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/인도네시아_축구_국가대표팀" title="wikilink">인도네시아</a></p></td>
+<a href="../Page/인도네시아_축구_국가대표팀.md" title="wikilink">인도네시아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1971<br />
 <em><a href="https://ko.wikipedia.org/wiki/1971년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이스라엘_축구_국가대표팀" title="wikilink">이스라엘</a></strong></p></td>
+<a href="../Page/이스라엘_축구_국가대표팀.md" title="wikilink">이스라엘</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/미얀마_축구_국가대표팀" title="wikilink">버마</a></p></td>
+<a href="../Page/미얀마_축구_국가대표팀.md" title="wikilink">버마</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1972<br />
 <em><a href="https://ko.wikipedia.org/wiki/1972년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이스라엘_축구_국가대표팀" title="wikilink">이스라엘</a></strong></p></td>
+<a href="../Page/이스라엘_축구_국가대표팀.md" title="wikilink">이스라엘</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></p></td>
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1973<br />
 <em><a href="https://ko.wikipedia.org/wiki/1973년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></strong></p></td>
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></strong></p></td>
 <td><p><strong>2 – 0</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1974<br />
 <em><a href="https://ko.wikipedia.org/wiki/1974년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/인도_축구_국가대표팀" title="wikilink">인도</a></strong><br />
+<a href="../Page/인도_축구_국가대표팀.md" title="wikilink">인도</a></strong><br />
 <strong><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></strong></p></td>
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></strong></p></td>
 <td><p><strong>2 – 2</strong><br />
 <sup><a href="https://ko.wikipedia.org/wiki/#2" title="wikilink">2</a></sup></p></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1975<br />
 <em><a href="https://ko.wikipedia.org/wiki/1975년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></strong><br />
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></strong><br />
 <strong><br />
-<a href="https://ko.wikipedia.org/wiki/이라크_축구_국가대표팀" title="wikilink">이라크</a></strong></p></td>
+<a href="../Page/이라크_축구_국가대표팀.md" title="wikilink">이라크</a></strong></p></td>
 <td><p><strong>0 – 0</strong><br />
 <sup><a href="https://ko.wikipedia.org/wiki/#2" title="wikilink">2</a></sup></p></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/쿠웨이트_축구_국가대표팀" title="wikilink">쿠웨이트</a><br />
+<a href="../Page/쿠웨이트_축구_국가대표팀.md" title="wikilink">쿠웨이트</a><br />
 <br />
-<a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국_축구_국가대표팀" title="wikilink">조선민주주의인민공화국</a></p></td>
+<a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1976<br />
 <em><a href="https://ko.wikipedia.org/wiki/1976년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></strong><br />
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></strong><br />
 <strong><br />
-<a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국_축구_국가대표팀" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
+<a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
 <td><p><strong>0 – 0</strong><br />
 <sup><a href="https://ko.wikipedia.org/wiki/#2" title="wikilink">2</a></sup></p></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1977<br />
 <em><a href="https://ko.wikipedia.org/wiki/1977년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이라크_축구_국가대표팀" title="wikilink">이라크</a></strong></p></td>
+<a href="../Page/이라크_축구_국가대표팀.md" title="wikilink">이라크</a></strong></p></td>
 <td><p><strong>4 – 3</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></p></td>
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/바레인_축구_국가대표팀" title="wikilink">바레인</a></p></td>
+<a href="../Page/바레인_축구_국가대표팀.md" title="wikilink">바레인</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1978<br />
 <em><a href="https://ko.wikipedia.org/wiki/1978년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이라크_축구_국가대표팀" title="wikilink">이라크</a></strong><br />
+<a href="../Page/이라크_축구_국가대표팀.md" title="wikilink">이라크</a></strong><br />
 <br />
-<strong><a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<strong><a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>1 – 1</strong><br />
 <sup><a href="https://ko.wikipedia.org/wiki/#2" title="wikilink">2</a></sup></p></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국_축구_국가대표팀" title="wikilink">조선민주주의인민공화국</a><br />
+<a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a><br />
 <br />
-<a href="https://ko.wikipedia.org/wiki/쿠웨이트_축구_국가대표팀" title="wikilink">쿠웨이트</a></p></td>
+<a href="../Page/쿠웨이트_축구_국가대표팀.md" title="wikilink">쿠웨이트</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1980<br />
 <em><a href="https://ko.wikipedia.org/wiki/1980년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<strong><a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><sup><a href="https://ko.wikipedia.org/wiki/#4" title="wikilink">4</a></sup></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/카타르_축구_국가대표팀" title="wikilink">카타르</a></p></td>
+<a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 </tr>
@@ -316,12 +316,12 @@
 <em><a href="https://ko.wikipedia.org/wiki/1982년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><sup><a href="https://ko.wikipedia.org/wiki/#4" title="wikilink">4</a></sup></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/이라크_축구_국가대표팀" title="wikilink">이라크</a></p></td>
+<a href="../Page/이라크_축구_국가대표팀.md" title="wikilink">이라크</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1985<br />
@@ -331,59 +331,59 @@
 <a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></strong></p></td>
 <td><p><sup><a href="https://ko.wikipedia.org/wiki/#4" title="wikilink">4</a></sup></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/아랍에미리트_축구_국가대표팀" title="wikilink">아랍에미리트</a></p></td>
+<a href="../Page/아랍에미리트_축구_국가대표팀.md" title="wikilink">아랍에미리트</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1986<br />
 <em><a href="https://ko.wikipedia.org/wiki/1986년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></strong></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></strong></p></td>
 <td><p><strong>2 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/바레인_축구_국가대표팀" title="wikilink">바레인</a></p></td>
+<a href="../Page/바레인_축구_국가대표팀.md" title="wikilink">바레인</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국_축구_국가대표팀" title="wikilink">조선민주주의인민공화국</a></p></td>
+<a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1988<br />
 <em><a href="https://ko.wikipedia.org/wiki/1988년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이라크_축구_국가대표팀" title="wikilink">이라크</a></strong></p></td>
+<a href="../Page/이라크_축구_국가대표팀.md" title="wikilink">이라크</a></strong></p></td>
 <td><p><strong>1 – 1</strong><br />
 <strong>(5 – 4)</strong><br />
 <a href="../Page/승부차기.md" title="wikilink">승부차기</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/시리아_축구_국가대표팀" title="wikilink">시리아</a></p></td>
+<a href="../Page/시리아_축구_국가대표팀.md" title="wikilink">시리아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/카타르_축구_국가대표팀" title="wikilink">카타르</a></p></td>
+<a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1990<br />
 <em><a href="https://ko.wikipedia.org/wiki/1990년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>0 – 0</strong><br />
 <strong>(4 – 3)</strong><br />
 <a href="../Page/승부차기.md" title="wikilink">승부차기</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국_축구_국가대표팀" title="wikilink">조선민주주의인민공화국</a></p></td>
+<a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/시리아_축구_국가대표팀" title="wikilink">시리아</a></p></td>
+<a href="../Page/시리아_축구_국가대표팀.md" title="wikilink">시리아</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1992<br />
 <em><a href="https://ko.wikipedia.org/wiki/1992년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></strong></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></strong></p></td>
 <td><p><strong>2 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 </tr>
@@ -392,43 +392,43 @@
 <em><a href="https://ko.wikipedia.org/wiki/1994년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/시리아_축구_국가대표팀" title="wikilink">시리아</a></strong></p></td>
+<a href="../Page/시리아_축구_국가대표팀.md" title="wikilink">시리아</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/태국_축구_국가대표팀" title="wikilink">태국</a></p></td>
+<a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1996<br />
 <em><a href="https://ko.wikipedia.org/wiki/1996년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>3 – 0</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/아랍에미리트_축구_국가대표팀" title="wikilink">아랍에미리트</a></p></td>
+<a href="../Page/아랍에미리트_축구_국가대표팀.md" title="wikilink">아랍에미리트</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1998<br />
 <em><a href="https://ko.wikipedia.org/wiki/1998년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2000<br />
 <em><a href="https://ko.wikipedia.org/wiki/2000년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/이라크_축구_국가대표팀" title="wikilink">이라크</a></strong></p></td>
+<a href="../Page/이라크_축구_국가대표팀.md" title="wikilink">이라크</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
@@ -440,19 +440,19 @@
 <em><a href="https://ko.wikipedia.org/wiki/2002년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2004<br />
 <em><a href="https://ko.wikipedia.org/wiki/2004년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>2 – 0</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></p></td>
@@ -461,67 +461,67 @@
 </tr>
 <tr class="odd">
 <td><p>2006<br />
-<em><a href="https://ko.wikipedia.org/wiki/2006년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
+<em><a href="../Page/2006년_AFC_청소년_축구_선수권_대회.md" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국_축구_국가대표팀" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
+<a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
 <td><p><strong>1 – 1</strong><br />
 <strong>(5 – 3)</strong><br />
 <a href="../Page/승부차기.md" title="wikilink">승부차기</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008<br />
-<em><a href="https://ko.wikipedia.org/wiki/2008년_AFC_U-19_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
+<em><a href="../Page/2008년_AFC_U-19_축구_선수권_대회.md" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/아랍에미리트_축구_국가대표팀" title="wikilink">아랍에미리트</a></strong></p></td>
+<a href="../Page/아랍에미리트_축구_국가대표팀.md" title="wikilink">아랍에미리트</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/우즈베키스탄_축구_국가대표팀" title="wikilink">우즈베키스탄</a></p></td>
+<a href="../Page/우즈베키스탄_축구_국가대표팀.md" title="wikilink">우즈베키스탄</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010<br />
-<em><a href="https://ko.wikipedia.org/wiki/2010년_AFC_U-19_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
+<em><a href="../Page/2010년_AFC_U-19_축구_선수권_대회.md" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국_축구_국가대표팀" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
+<a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
 <td><p><strong>3 – 2</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/오스트레일리아_축구_국가대표팀" title="wikilink">오스트레일리아</a></p></td>
+<a href="../Page/오스트레일리아_축구_국가대표팀.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012<br />
 <em><a href="https://ko.wikipedia.org/wiki/2012년_AFC_U-19_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></strong></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>1 – 1</strong><br />
 <strong>(4 – 1)</strong><br />
 <a href="../Page/승부차기.md" title="wikilink">승부차기</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/이라크_축구_국가대표팀" title="wikilink">이라크</a></p></td>
+<a href="../Page/이라크_축구_국가대표팀.md" title="wikilink">이라크</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/우즈베키스탄_축구_국가대표팀" title="wikilink">우즈베키스탄</a></p></td>
+<a href="../Page/우즈베키스탄_축구_국가대표팀.md" title="wikilink">우즈베키스탄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014<br />
 <em><a href="../Page/2014년_AFC_U-19_축구_선수권_대회.md" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/카타르_축구_국가대표팀" title="wikilink">카타르</a></strong></p></td>
+<a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/조선민주주의인민공화국_축구_국가대표팀" title="wikilink">조선민주주의인민공화국</a></p></td>
+<a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/우즈베키스탄_축구_국가대표팀" title="wikilink">우즈베키스탄</a></p></td>
+<a href="../Page/우즈베키스탄_축구_국가대표팀.md" title="wikilink">우즈베키스탄</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016<br />
@@ -533,19 +533,19 @@
 <strong>(5 – 3)</strong><br />
 <a href="../Page/승부차기.md" title="wikilink">승부차기</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/이란_축구_국가대표팀" title="wikilink">이란</a></p></td>
+<a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018<br />
 <em><a href="https://ko.wikipedia.org/wiki/2018년_AFC_U-19_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_국가대표팀" title="wikilink">사우디아라비아</a></strong></p></td>
+<a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></strong></p></td>
 <td><p>''' 2 – 1 '''</p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 </tr>

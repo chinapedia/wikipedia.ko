@@ -3,9 +3,9 @@
 
 《***M.C The Max\!***》는 [엠씨 더 맥스가](https://ko.wikipedia.org/wiki/엠씨_더_맥스 "wikilink") 새로이 결성된 후 발매한 첫 앨범이다.
 
-[일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 전설적인 록 그룹인 [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 드러머 [요시키가](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") 프로듀서를 맡아 주목을 받았다. CD 2장 중, 2번째 CD는 멤버들의 자작곡으로 이루어져 있다. 엠씨 더 맥스가 추구하는 음악을 마음껏 보여주고 있어, 평론가들로부터 높은 평점을 받고 있다.
+[일본](../Page/일본.md "wikilink")의 전설적인 록 그룹인 [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 드러머 [요시키가](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") 프로듀서를 맡아 주목을 받았다. CD 2장 중, 2번째 CD는 멤버들의 자작곡으로 이루어져 있다. 엠씨 더 맥스가 추구하는 음악을 마음껏 보여주고 있어, 평론가들로부터 높은 평점을 받고 있다.
 
-앨범 수록곡 중, 〈잠시만 안녕〉은 엑스 재팬의 〈[Tears](https://ko.wikipedia.org/wiki/Tears_\(엑스_재팬의_노래\) "wikilink")〉를, 〈서시〉는 [신성우](https://ko.wikipedia.org/wiki/신성우 "wikilink")의 〈서시〉를 리메이크하였으며, 〈One Love〉는 [SBS 드라마](https://ko.wikipedia.org/wiki/SBS_드라마_스페셜 "wikilink") 《[때려](https://ko.wikipedia.org/wiki/때려 "wikilink")\!》의 OST로 수록되었다.
+앨범 수록곡 중, 〈잠시만 안녕〉은 엑스 재팬의 〈[Tears](https://ko.wikipedia.org/wiki/Tears_\(엑스_재팬의_노래\) "wikilink")〉를, 〈서시〉는 [신성우](https://ko.wikipedia.org/wiki/신성우 "wikilink")의 〈서시〉를 리메이크하였으며, 〈One Love〉는 [SBS 드라마](../Page/SBS_드라마_스페셜.md "wikilink") 《[때려](../Page/때려.md "wikilink")\!》의 OST로 수록되었다.
 
 ## 곡
 
@@ -44,7 +44,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p><strong>마지막 내 숨소리</strong></p></td>
-<td><p>작사, 작곡: <a href="https://ko.wikipedia.org/wiki/김현철_(가수)" title="wikilink">김현철</a></p></td>
+<td><p>작사, 작곡: <a href="../Page/김현철_(가수).md" title="wikilink">김현철</a></p></td>
 <td><p>4:23</p></td>
 </tr>
 <tr class="odd">
@@ -65,7 +65,7 @@
 <td><p>7</p></td>
 <td><p>천의 안부</p></td>
 <td><p>작사: 지우<br />
-작곡, 편곡: <a href="https://ko.wikipedia.org/wiki/황성제" title="wikilink">황성제</a></p></td>
+작곡, 편곡: <a href="../Page/황성제.md" title="wikilink">황성제</a></p></td>
 <td><p>4:21</p></td>
 </tr>
 <tr class="even">

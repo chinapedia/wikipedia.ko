@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ D](https://ko.wikipedia.org/wiki/_D).
 
 
-《**이니셜 D・두문자 D**》() 는 일본의 작가 시게노 슈이치()의 만화 작품 및, 이를 원작으로 하는 애니메이션 시리즈이다. 이 작품은 공공도로에서 자동차를 고속주행하는 '하시리야()'들의 이야기를 그린 작품이다.\[1\] 일본에서는 [고단샤](https://ko.wikipedia.org/wiki/고단샤 "wikilink") 영 매거진에서 1995년부터 연재를 시작하여 2013년 7월 29일 영 매거진 35호(2013년판)를 끝으로 완결되었다. 단행본은 2013년 11월 16일에 48권을 끝으로 완결하였다. 대한민국에서는 1997년부터 [학산문화사](https://ko.wikipedia.org/wiki/학산문화사 "wikilink")에서 내놓기 시작하여 2014년 2월 25일에 단행본 48권을 끝으로 완결하였다.
+《**이니셜 D・두문자 D**》() 는 일본의 작가 시게노 슈이치()의 만화 작품 및, 이를 원작으로 하는 애니메이션 시리즈이다. 이 작품은 공공도로에서 자동차를 고속주행하는 '하시리야()'들의 이야기를 그린 작품이다.\[1\] 일본에서는 [고단샤](../Page/고단샤.md "wikilink") 영 매거진에서 1995년부터 연재를 시작하여 2013년 7월 29일 영 매거진 35호(2013년판)를 끝으로 완결되었다. 단행본은 2013년 11월 16일에 48권을 끝으로 완결하였다. 대한민국에서는 1997년부터 [학산문화사](../Page/학산문화사.md "wikilink")에서 내놓기 시작하여 2014년 2월 25일에 단행본 48권을 끝으로 완결하였다.
 
 ## 줄거리
 
@@ -690,13 +690,13 @@
 
 ## 참고
 
-  - 이 작품의 특징은 인물 디자인은 다소 어색한 반면, 자동차나 배경 묘사에 박력이 있다. 더불어 독특한 의성음 표현은 이 작가의 특징으로 꼽힌다. 때때로 자동차와 이론에 대한 설명조의 해설이 길어지기도 하지만, 힘도 약한 구형차로 믿을 수 없을 정도의 스피드를 내며 (고갯길 내리막이라는 전제조건이 붙지만) 강력한 상대를 이겨나가는 전개에서 순수하게 카타르시스를 느낄 수 있다는 평가가 있는 반면, 다른 차 팬들에게는 폄하에 따른 불평도 있다. (특히 [미쓰비시 랜서 에볼루션이나](../Page/미쓰비시_랜서_에볼루션.md "wikilink") [닛산 스카이라인](https://ko.wikipedia.org/wiki/닛산_스카이라인 "wikilink") 등)
+  - 이 작품의 특징은 인물 디자인은 다소 어색한 반면, 자동차나 배경 묘사에 박력이 있다. 더불어 독특한 의성음 표현은 이 작가의 특징으로 꼽힌다. 때때로 자동차와 이론에 대한 설명조의 해설이 길어지기도 하지만, 힘도 약한 구형차로 믿을 수 없을 정도의 스피드를 내며 (고갯길 내리막이라는 전제조건이 붙지만) 강력한 상대를 이겨나가는 전개에서 순수하게 카타르시스를 느낄 수 있다는 평가가 있는 반면, 다른 차 팬들에게는 폄하에 따른 불평도 있다. (특히 [미쓰비시 랜서 에볼루션이나](../Page/미쓰비시_랜서_에볼루션.md "wikilink") [닛산 스카이라인](../Page/닛산_스카이라인.md "wikilink") 등)
   - 작가는 원래 타쿠미가 고교를 졸업하는 정도에서 완결할 예정이었으나, 출판사의 연장 요청에 따라 이 부분을 1부 끝으로 하고 프로젝트 D 편을 2부로 하고 있다.
   - D의 의미는 작가가 한번 '드리프트의 D'라고 밝힌 적이 있으나, 프로젝트 D 편에서는 료스케의 입을 빌어 '진정한 다른 의미가 있다'고 하고 있다. 아직 그 의미는 밝혀지지 않았지만 적어도 특정 인물의 머리글자가 아닌 것은 확실하다. (등장인물 중에 머리글자에 D가 들어가는 중요한 인물은 없었으며, D의 진짜 뜻은 파이널 스테이지 이후에 료스케가 Dream의 D라 밝혔다.)
-  - 작품에 등장하는 주인공들의 무대인 '아키나 산'()은 실존하지 않는 가공의 지명이다. 베이스가 된 곳은 [군마현](https://ko.wikipedia.org/wiki/군마현 "wikilink")의 조모 3산(上毛三山) 중 하나인 [하루나 산](https://ko.wikipedia.org/wiki/하루나_산 "wikilink")()이다. 그리고 등장하는 나머지 2개의 산인 [아카기 산과](https://ko.wikipedia.org/wiki/아카기_산 "wikilink") [묘기 산과](https://ko.wikipedia.org/wiki/묘기_산 "wikilink") 함께, 예전부터 심야에 롤링족 등이 출몰하여 위험한 주행을 벌여온 장소로 알려졌다. 지방 자치단체에서는 이들의 대처에 고심하다가 급기야는 위험한 커브길에 과속방지턱을 다수 설치하게 되었다. 또한 이로하자카에서의 카이戰 이후에는 실제로 작중 점프 장면을 따라하다가 사망사고가 난 경우도 있어, 현재는 모든 커브 구간마다 가드레일이 추가로 증설되어 있다.
+  - 작품에 등장하는 주인공들의 무대인 '아키나 산'()은 실존하지 않는 가공의 지명이다. 베이스가 된 곳은 [군마현](../Page/군마현.md "wikilink")의 조모 3산(上毛三山) 중 하나인 [하루나 산](https://ko.wikipedia.org/wiki/하루나_산 "wikilink")()이다. 그리고 등장하는 나머지 2개의 산인 [아카기 산과](https://ko.wikipedia.org/wiki/아카기_산 "wikilink") [묘기 산과](https://ko.wikipedia.org/wiki/묘기_산 "wikilink") 함께, 예전부터 심야에 롤링족 등이 출몰하여 위험한 주행을 벌여온 장소로 알려졌다. 지방 자치단체에서는 이들의 대처에 고심하다가 급기야는 위험한 커브길에 과속방지턱을 다수 설치하게 되었다. 또한 이로하자카에서의 카이戰 이후에는 실제로 작중 점프 장면을 따라하다가 사망사고가 난 경우도 있어, 현재는 모든 커브 구간마다 가드레일이 추가로 증설되어 있다.
   - 이 작품의 애독자로는 [츠치야 케이치](https://ko.wikipedia.org/wiki/츠치야_케이치 "wikilink") (), 오리도 마나부(), 타니구치 노부테루(), 이마무라 요이치()와 같은 현역 프로 레이서들도 있다. 이들은 자칭 '하시리야(走り屋)' 출신으로 AE86을 몰았다는 공통점이 있다. 특히 츠치야 케이치는 애니메이션 제작에 줄곧 기술감수 역할로 참여, 직접 86의 엔진음 등을 녹음해 제공하기도 했다.
   - 작품의 무대가 되는 시기는 1부 최초 시작시가 199X년이라는 설정. 1권에 'AE92가 나온 때가 타쿠미가 아직 초등학교 저학년이었을 때'라든가 '10년 전의 고물 86한테 졌다'는 등의 대사가 있고, 등장 차종도 1997년대까지 발매된 것들인 점으로 보아서도, 작가는 1부의 설정 연도를 1997년 전후쯤으로 잡고 있었다고 보인다. 만화 연재가 시작된 지는 10년 이상 지났지만 작품상의 시간은 아직 1년 정도밖에 지나지 않았다. 그러나 2부 프로젝트 D 편에 접어들면서, 등장하는 차종에서 점점 연도의 차이가 벌어지기 시작. 예를 들면 '신의 발' 호시노 코조의 닛산 스카이라인 R34 GT-R은 1999\~2000년 발매 차량이나, 애니메이션 4th stage의 설정을 따른다면 2002년도 특별한정 모델이다. 이 밖에 여러가지 세세한 면에서 연도에 모순되는 점을 찾을 수 있다.
-  - 이 작품에서 등장하는 차는 나츠키의 원조교제 상대가 타는 [벤츠와](https://ko.wikipedia.org/wiki/메르세데스_벤츠 "wikilink") 번외편에 나온 [포르쉐](https://ko.wikipedia.org/wiki/포르쉐 "wikilink") 911을 제외하면 전부 일본 국내 차량이다. 반대로 실제 드리프트족들이 애용하는 차종 중에 아직 등장하지 않은 것으로는 [닛산 페어레이디 Z](https://ko.wikipedia.org/wiki/닛산_페어레이디 "wikilink"), [도요타 수프라](https://ko.wikipedia.org/wiki/도요타_수프라 "wikilink"), [혼다 NSX](https://ko.wikipedia.org/wiki/혼다_NSX "wikilink") 등의 대배기차량이나 외제 후륜구동 4도어 세단 종류가 꼽히고 있었으나, 35권을 보면, [이로하자카 산에서](https://ko.wikipedia.org/wiki/이로하자카_산 "wikilink") 타쿠미와 배틀 후 패배한 코가시와 카이가 기간한정 원정팀인 Racing Team.카타기리.Street.Version(이하 RT.카타기리.S.V) 팀의 맴버가 되어 다시 등장하게 되는데, 그때 그의 팀원 동료인 미나가와 히데오의 차량으로 [토요타 수프라가](../Page/토요타_수프라.md "wikilink") 등장, 그리고 (최종 방위 라인팀으로 예상되는) 사이드 와인더팀 호조 고우의 차량으로 [혼다 NSX가](https://ko.wikipedia.org/wiki/혼다_NSX "wikilink") 등장하며, RT.카타기리.S.V 팀 다음으로 프로젝트 D의 진행을 저지하기 위해 구성된 카나카와 방위 라인인 〈제3 방위 라인〉팀인팀·스파이럴에서의 맴버 중 제로 이케다 류지의 차량으로 Z33형의 [닛산 페어레이디 Z가](../Page/닛산_페어레이디_Z.md "wikilink") 등장하고, 제로원 오쿠야마 히로야의 차량으로 [닛산 실비아 스펙R이](https://ko.wikipedia.org/wiki/닛산_실비아_스펙R "wikilink") 등장한다.\[2\]
+  - 이 작품에서 등장하는 차는 나츠키의 원조교제 상대가 타는 [벤츠와](https://ko.wikipedia.org/wiki/메르세데스_벤츠 "wikilink") 번외편에 나온 [포르쉐](../Page/포르쉐.md "wikilink") 911을 제외하면 전부 일본 국내 차량이다. 반대로 실제 드리프트족들이 애용하는 차종 중에 아직 등장하지 않은 것으로는 [닛산 페어레이디 Z](https://ko.wikipedia.org/wiki/닛산_페어레이디 "wikilink"), [도요타 수프라](https://ko.wikipedia.org/wiki/도요타_수프라 "wikilink"), [혼다 NSX](../Page/혼다_NSX.md "wikilink") 등의 대배기차량이나 외제 후륜구동 4도어 세단 종류가 꼽히고 있었으나, 35권을 보면, [이로하자카 산에서](https://ko.wikipedia.org/wiki/이로하자카_산 "wikilink") 타쿠미와 배틀 후 패배한 코가시와 카이가 기간한정 원정팀인 Racing Team.카타기리.Street.Version(이하 RT.카타기리.S.V) 팀의 맴버가 되어 다시 등장하게 되는데, 그때 그의 팀원 동료인 미나가와 히데오의 차량으로 [토요타 수프라가](../Page/토요타_수프라.md "wikilink") 등장, 그리고 (최종 방위 라인팀으로 예상되는) 사이드 와인더팀 호조 고우의 차량으로 [혼다 NSX가](../Page/혼다_NSX.md "wikilink") 등장하며, RT.카타기리.S.V 팀 다음으로 프로젝트 D의 진행을 저지하기 위해 구성된 카나카와 방위 라인인 〈제3 방위 라인〉팀인팀·스파이럴에서의 맴버 중 제로 이케다 류지의 차량으로 Z33형의 [닛산 페어레이디 Z가](../Page/닛산_페어레이디_Z.md "wikilink") 등장하고, 제로원 오쿠야마 히로야의 차량으로 [닛산 실비아 스펙R이](https://ko.wikipedia.org/wiki/닛산_실비아_스펙R "wikilink") 등장한다.\[2\]
 
 <!-- end list -->
 
@@ -710,7 +710,7 @@
 
 애니메이션 시리즈는 지상파 2개(1기, 2기), 극장판 1개(3기), OVA 4개(배틀스테이지 1/2, 엑스트라 스테이지 1/2), 그리고 위성방송(애니맥스)으로 3개(4기, 5기, 파이널 스테이지)가 나왔다.
 
-  - 애니메이션 시리즈의 특징으로는 무엇보다도 3D 컴퓨터 그래픽을 사용한 카 배틀 구현, 그리고 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")(Avex) 레코드사의 지원하에 엄선된 '[슈퍼 유로비트](https://ko.wikipedia.org/wiki/슈퍼_유로비트 "wikilink")' 시리즈 곡들을 꼽을 수 있다. 특히 때때로 뮤직 비디오를 보는 듯한 착각을 불러일으킬 정도로 적절하게 사용된 [유로비트](https://ko.wikipedia.org/wiki/유로비트 "wikilink") 곡들은 방송 외에서도 인기를 모으며, 실생활에서 운전을 하다가 이들 곡을 들으면 '자신도 모르는 사이에 액셀을 밟고 있더라'는 사고 사례(?)도 적지 않다.
+  - 애니메이션 시리즈의 특징으로는 무엇보다도 3D 컴퓨터 그래픽을 사용한 카 배틀 구현, 그리고 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")(Avex) 레코드사의 지원하에 엄선된 '[슈퍼 유로비트](https://ko.wikipedia.org/wiki/슈퍼_유로비트 "wikilink")' 시리즈 곡들을 꼽을 수 있다. 특히 때때로 뮤직 비디오를 보는 듯한 착각을 불러일으킬 정도로 적절하게 사용된 [유로비트](../Page/유로비트.md "wikilink") 곡들은 방송 외에서도 인기를 모으며, 실생활에서 운전을 하다가 이들 곡을 들으면 '자신도 모르는 사이에 액셀을 밟고 있더라'는 사고 사례(?)도 적지 않다.
   - 주제곡도 에이벡스 소속의 몇 그룹들이 부르고 있지만, 특히 혼성 3인조 [무브의](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink") 곡이 다수여서, 이들을 이니셜 D와 떼어놓고 이야기할 수 없을 정도가 되었다. 이들은 나중에 '뇌명(雷鳴)\~out of kontrol'이라는 곡의 뮤직비디오에서 애니메이션 세계에 들어가기도 하고, 애니메이션 4th stage 20화에서는 그 모습으로 [카메오](https://ko.wikipedia.org/wiki/카메오 "wikilink") 출연까지 한다.
   - 내용은 일부 삭제되거나 변경되기도 하지만, 큰 틀은 원작에 충실한 편이다. 1st stage, 2nd stage, 3rd stage의 경우 원작이 애니메이션보다 진행속도가 빠른듯 하다.
   - 원작에 비하면 애니메이션의 인물들 말투는 다소 얌전해졌다. 또한 원작에서 작가의 해설로 설명하는 부분은 등장인물(주로 타카하시 료스케의 설명이 많음)의 대사로 바뀌었다.
@@ -720,7 +720,7 @@
   - 그렇게 미국에서 이니셜D1기,2기,3기,4,기,5기,6기 파이널스테이지를 포함해 무려 관객만 2억5690만관객을 달성하였다. 이에 관해 게임오락기계까지 미국에 이니셜D 인기로 수출되었으며 수출액만 1조500억이다.
   - 이니셜D 애니메이션과,극장판,만화책까지 연재된 모두 금액을 따지면 총 1250조 5632억이다.
   - 극장판으로만 따지면 총 약 1000조 정도이며 만화책은 93조 애니메이션은 157조원으로 예상된다 미국인구수는 2016년기준 3억2천만명정도 예상되는데 인구의 절반이상이 이니셜D 를 본셈이다. 미국에서는 나이를 차이없이 어린이와 청소년 어른모두다 이니셜D의 관심이많아 유튜브에서 관련영상들이 많이나와있다
-  - 최근 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [퍼니메이션](https://ko.wikipedia.org/wiki/퍼니메이션 "wikilink")에서 무삭제, 무검열로 모든 시즌을 재더빙했으며 음성이 영어로 바뀌었다는 점만 빼면 예전 더빙판과는 다르게 캐릭터 이름, Move의 주제곡, 유로비트 곡 등을 손실없이 그대로 남겨두었다. 현재 더빙이 모두 완료되어 DVD까지 판매되고 있다.
+  - 최근 [미국](../Page/미국.md "wikilink") [퍼니메이션](https://ko.wikipedia.org/wiki/퍼니메이션 "wikilink")에서 무삭제, 무검열로 모든 시즌을 재더빙했으며 음성이 영어로 바뀌었다는 점만 빼면 예전 더빙판과는 다르게 캐릭터 이름, Move의 주제곡, 유로비트 곡 등을 손실없이 그대로 남겨두었다. 현재 더빙이 모두 완료되어 DVD까지 판매되고 있다.
 
 ### 지상파 TV
 
@@ -746,29 +746,29 @@
       - Don't Stop The Music / [Lou Grant](https://ko.wikipedia.org/wiki/데이비드_디_마르칸토니오 "wikilink")
 4.  교류전 돌입\!
       - DANCE AROUND THE WORLD / DELTA QUEENS
-      - GET ME POWER / [메가 에너지 맨](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
-      - [Running In The 90's](https://ko.wikipedia.org/wiki/Running_In_The_90's "wikilink") / [맥스 커버리](https://ko.wikipedia.org/wiki/마우리치오_디_조리오 "wikilink")
+      - GET ME POWER / [메가 에너지 맨](../Page/토마스_마린.md "wikilink")
+      - [Running In The 90's](../Page/Running_In_The_90's.md "wikilink") / [맥스 커버리](https://ko.wikipedia.org/wiki/마우리치오_디_조리오 "wikilink")
 5.  결전 Dog Fight\!
       - Heartbeat / [나탈리](https://ko.wikipedia.org/wiki/나탈리_아츠 "wikilink")
       - BREAK THE NIGHT / [토미 K](https://ko.wikipedia.org/wiki/페르난도_보니니 "wikilink")
-      - Back On The Rocks / [메가 에너지 맨](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Back On The Rocks / [메가 에너지 맨](../Page/토마스_마린.md "wikilink")
 6.  새로운 도전자
-      - Back On The Rocks / [메가 에너지 맨](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Back On The Rocks / [메가 에너지 맨](../Page/토마스_마린.md "wikilink")
 7.  하시리야의 자존심
-      - Back On The Rocks / [메가 에너지 맨](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Back On The Rocks / [메가 에너지 맨](../Page/토마스_마린.md "wikilink")
       - SAVE ME / LESLIE PARRISH
 8.  타임업 직전\!
       - MY ONLY STAR / SUSAN BELL
 9.  한계 배틀\! 86 VS GT-R
       - Rage your dream / [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink") (연주판)
-      - [Running In The 90's](https://ko.wikipedia.org/wiki/Running_In_The_90's "wikilink") / [맥스 커버리](https://ko.wikipedia.org/wiki/마우리치오_디_조리오 "wikilink")
-      - Back On The Rocks / [메가 에너지 맨](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - [Running In The 90's](../Page/Running_In_The_90's.md "wikilink") / [맥스 커버리](https://ko.wikipedia.org/wiki/마우리치오_디_조리오 "wikilink")
+      - Back On The Rocks / [메가 에너지 맨](../Page/토마스_마린.md "wikilink")
       - BURNING UP FOR YOU / SARA
 10. 폭렬\! 5연속 헤어핀
       - Heartbeat / [나탈리](https://ko.wikipedia.org/wiki/나탈리_아츠 "wikilink")
       - LONELY LOVE / SOPHIE
 11. Dangerous 싱고 등장\!
-      - Night Fever / [데이브 로저스](https://ko.wikipedia.org/wiki/지안카를로_파스퀴니 "wikilink") & [메가 에너지 맨](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Night Fever / [데이브 로저스](https://ko.wikipedia.org/wiki/지안카를로_파스퀴니 "wikilink") & [메가 에너지 맨](../Page/토마스_마린.md "wikilink")
       - DANCING / VICKY VALE
 12. FR 죽이기 데스매치
       - LOVE & MONEY / ZA-ZA
@@ -793,10 +793,10 @@
 18. 열풍\! 격주\! 우스이 고개
       - LOST INTO THE NIGHT / ELISA
       - STAY / VICTORIA
-      - [Wings Of Fire](https://ko.wikipedia.org/wiki/Wings_Of_Fire "wikilink") / [Mako](https://ko.wikipedia.org/wiki/네야_미치코 "wikilink") & [Sayuki](https://ko.wikipedia.org/wiki/카카즈_유미 "wikilink")
+      - [Wings Of Fire](https://ko.wikipedia.org/wiki/Wings_Of_Fire "wikilink") / [Mako](../Page/네야_미치코.md "wikilink") & [Sayuki](../Page/카카즈_유미.md "wikilink")
 19. 결판\! 슈퍼 드리프트
       - EVERYBODY'S WARMING / TENSION
-      - [Wings Of Fire](https://ko.wikipedia.org/wiki/Wings_Of_Fire "wikilink") / [Mako](https://ko.wikipedia.org/wiki/네야_미치코 "wikilink") & [Sayuki](https://ko.wikipedia.org/wiki/카카즈_유미 "wikilink")
+      - [Wings Of Fire](https://ko.wikipedia.org/wiki/Wings_Of_Fire "wikilink") / [Mako](../Page/네야_미치코.md "wikilink") & [Sayuki](../Page/카카즈_유미.md "wikilink")
 20. The end of summer
       - Wanna fly to be wild / [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink")
       - Rage your dream / [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink")
@@ -819,14 +819,14 @@
       - Boom Boom Japan / [데이브 로저스](https://ko.wikipedia.org/wiki/지안카를로_파스퀴니 "wikilink")
       - Black Out / [Overload](https://ko.wikipedia.org/wiki/시몬_발레오 "wikilink")
 26. 신 다운힐 전설\! (최종회)
-      - Night & Day / [Mr.Groove](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Night & Day / [Mr.Groove](../Page/토마스_마린.md "wikilink")
       - Beat Of The Rising Sun / [데이브 로저스](https://ko.wikipedia.org/wiki/지안카를로_파스퀴니 "wikilink")
       - take me higher / [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink")
 
 <!-- end list -->
 
   -
-    이 시즌은 대한민국 방송 중 [XTM](https://ko.wikipedia.org/wiki/XTM "wikilink")에서 한국어 더빙을 하여 방영한바 있었다. 더빙판의 오프닝과 엔딩은 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")가 번안하여 불렀다. 등장인물과 등장지명의 이름을 한국식으로 바꾸었지만 이것은 몇 누리꾼에게 비판을 받게된다. 이후 세컨드 스테이지 부터는 일본어판 그대로하여 한글자막으로 방송을 하였다.
+    이 시즌은 대한민국 방송 중 [XTM](../Page/XTM.md "wikilink")에서 한국어 더빙을 하여 방영한바 있었다. 더빙판의 오프닝과 엔딩은 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")가 번안하여 불렀다. 등장인물과 등장지명의 이름을 한국식으로 바꾸었지만 이것은 몇 누리꾼에게 비판을 받게된다. 이후 세컨드 스테이지 부터는 일본어판 그대로하여 한글자막으로 방송을 하였다.
 
 #### 이니셜 D second stage
 
@@ -838,7 +838,7 @@
 <!-- end list -->
 
 1.  규칙 위반의 슈퍼 웨폰
-      - Burning Desire / [Mega NRG Man](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Burning Desire / [Mega NRG Man](../Page/토마스_마린.md "wikilink")
 2.  란에보 군단, 아키나 진격\!
       - [100](https://ko.wikipedia.org/wiki/100_\(음반\) "wikilink") / [Dave Rodgers](https://ko.wikipedia.org/wiki/지안카를로_파스퀴니 "wikilink")
 3.  패배의 예감
@@ -846,7 +846,7 @@
       - [100](https://ko.wikipedia.org/wiki/100_\(음반\) "wikilink") / [Dave Rodgers](https://ko.wikipedia.org/wiki/지안카를로_파스퀴니 "wikilink")
       - I LOVE YOU LIKE YOU ARE / VALENTINA
 4.  타오르지 않는 승리
-      - Make My Day / [Derreck Simons](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Make My Day / [Derreck Simons](../Page/토마스_마린.md "wikilink")
       - Take My Soul / [Mickey B.](https://ko.wikipedia.org/wiki/미첼라_카푸로 "wikilink")
       - EVER AND EVER / QUEEN OF TIMES
 5.  파멸로의 카운트다운
@@ -855,9 +855,9 @@
 6.  안녕 86
       - Goodbye Yellow Brick Road / [Wain L](https://ko.wikipedia.org/wiki/캐런_제인_웨인라이트 "wikilink")
 7.  아카기 배틀, 백과 흑의 섬광\!
-      - Make My Day / [Derreck Simons](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Make My Day / [Derreck Simons](../Page/토마스_마린.md "wikilink")
 8.  그 차 흉폭해지다
-      - Station To Station / [Derreck Simons](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Station To Station / [Derreck Simons](../Page/토마스_마린.md "wikilink")
 9.  New 86 탄생
       - BIG IN JAPAN / ROBERT PATTON
 10. 선전포고 86 터보\!
@@ -868,7 +868,7 @@
       - Gimme The Night / [Dave McLoud](https://ko.wikipedia.org/wiki/데이비드_디_마르칸토니오 "wikilink")
       - Make Up Your Mind / [Wain L](https://ko.wikipedia.org/wiki/캐런_제인_웨인라이트 "wikilink")
 13. 변해가는 계절 속에서 (최종회)
-      - Grand Prix / [Mega NRG Man](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Grand Prix / [Mega NRG Man](../Page/토마스_마린.md "wikilink")
       - Deja Vu / [Dave Rodgers](https://ko.wikipedia.org/wiki/지안카를로_파스퀴니 "wikilink")
 
 ### 극장판
@@ -878,7 +878,7 @@
   -
     극장판. 2001년 상영.
       - 오프닝:Gamble Rumble - 노래:move
-      - 엔딩:JIRENMA - 노래:[Every Little Thing](https://ko.wikipedia.org/wiki/Every_Little_Thing "wikilink")
+      - 엔딩:JIRENMA - 노래:[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")
 
 <!-- end list -->
 
@@ -893,7 +893,7 @@
 
 <!-- end list -->
 
-  - Crazy For Love / [Dusty](https://ko.wikipedia.org/wiki/엔니오_자니니 "wikilink")
+  - Crazy For Love / [Dusty](../Page/엔니오_자니니.md "wikilink")
   - IF YOU WANNA STAY / NORMA SHEFFIELD
   - strike on / move
   - Max Power / [Dr. Love](https://ko.wikipedia.org/wiki/페르난도_보니니 "wikilink") Feat. [D.Essex](https://ko.wikipedia.org/wiki/마우리치오_디_조리오 "wikilink")
@@ -912,7 +912,7 @@
 1.  AE86 vs FD3S - 아키나, DOWNHILL, DRY, NIGHT
       - SUPERSONIC FIRE / ATRIUM (오프닝 BGM)
 2.  AE86 vs FD3S - 아키나, DOWNHILL, DRY, NIGHT
-      - This Time / [Derreck Simons](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - This Time / [Derreck Simons](../Page/토마스_마린.md "wikilink")
 3.  AE86 vs R32 - 아키나, DOWNHILL, DRY, NIGHT
       - Golden Age / [Max Coveri](https://ko.wikipedia.org/wiki/마우리치오_디_조리오 "wikilink")
 4.  AE86 vs EG6 - 아키나, DOWNHILL, DRY, NIGHT
@@ -938,7 +938,7 @@
 14. AE86 vs EVO3 - 이로하자카, DOWNHILL, DRY, NIGHT
       - KING OF THE NIGHT / THOMAS T.
 15. AE86 vs SW20 - 이로하자카, DOWNHILL, DRY, NIGHT
-      - Express Love / [Mega NRG Man](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Express Love / [Mega NRG Man](../Page/토마스_마린.md "wikilink")
       - Crazy For Your Love / [Morris](https://ko.wikipedia.org/wiki/마우리치오_디_조리오 "wikilink")
 16. AE86 vs GT4(CELICA GT-FOUR) - 아키나, DOWNHILL, SNOW, NIGHT
       - Dancin' In My Dreams / [J.Storm](https://ko.wikipedia.org/wiki/파비오_리오네 "wikilink")
@@ -960,7 +960,7 @@
       - Power / [Go 2](https://ko.wikipedia.org/wiki/Go_2 "wikilink")
 3.  AE86 vs EK9 - SIONA SKYLINE, INBOUND\<-\>OUTBOUND, DRY, NIGHT
       - TAKE ME FOREVER / DIGITAL PLANET
-      - Shock Out / [Fastway](https://ko.wikipedia.org/wiki/엔니오_자니니 "wikilink")
+      - Shock Out / [Fastway](../Page/엔니오_자니니.md "wikilink")
 4.  FD3S vs INTEGRA(DC2) - SIONA SKYLINE, OUTBOUND, DRY, NIGHT
       - WELCOME PEOPLE / Mr.M
       - Don't Stop The Music 2006 / [Lou Grant](https://ko.wikipedia.org/wiki/데이비드_디_마르칸토니오 "wikilink")
@@ -968,7 +968,7 @@
       - SWITCH\! / MELISSA WHITE & ACE
       - LET IT BURN / GO2
 6.  AE86 vs IMPREZA(GC8V) - AKINA, DOWNHILL, DRY, DAWN
-      - DISCO FIRE / [DAVE RODGERS](https://ko.wikipedia.org/wiki/데이브_로저스 "wikilink")
+      - DISCO FIRE / [DAVE RODGERS](../Page/데이브_로저스.md "wikilink")
 7.  S13-\>AE85 vs S15 - AKINA, DOWNHILL, DRY, NIGHT
       - CRAZY & READY / PHIL
       - IDOL / IDOL
@@ -1042,13 +1042,13 @@
 1.  PROJECT D
       - Let's Go, Come On / [Manuel](https://ko.wikipedia.org/wiki/마누엘_카라모리 "wikilink")
 2.  전개\! 다운힐 배틀
-      - Go Beat Crazy / [Fastway](https://ko.wikipedia.org/wiki/엔니오_자니니 "wikilink")
+      - Go Beat Crazy / [Fastway](../Page/엔니오_자니니.md "wikilink")
       - We'll See Heaven / [Digital Planet](https://ko.wikipedia.org/wiki/스테파노_브란도니 "wikilink")
 3.  동당학원 최강의 남자
       - The Fire's On Me / [Spock](https://ko.wikipedia.org/wiki/스테파노_브란도니 "wikilink")
 4.  두가지 조언
       - SPEED CAR / D-TEAM
-      - Revolution / [Fastway](https://ko.wikipedia.org/wiki/엔니오_자니니 "wikilink")
+      - Revolution / [Fastway](../Page/엔니오_자니니.md "wikilink")
 5.  승리를 향한 스타트라인
       - GIVE ME YOUR LOVE / dino starr
       - NIGHT TRIP / SylverR
@@ -1059,8 +1059,8 @@
       - FOREVER YOUNG / SYMBOL
       - SKY HIGH / Lia
 7.  폭풍의 85 터보
-      - Supertonic Lady / [Mega NRG Man](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
-      - Midnight Lover / [Dusty](https://ko.wikipedia.org/wiki/엔니오_자니니 "wikilink")
+      - Supertonic Lady / [Mega NRG Man](../Page/토마스_마린.md "wikilink")
+      - Midnight Lover / [Dusty](../Page/엔니오_자니니.md "wikilink")
 8.  운명의 FD 배틀
       - Fly Away / [Digital Planet](https://ko.wikipedia.org/wiki/스테파노_브란도니 "wikilink")
       - RIGHT NOW / DARK ANGELS
@@ -1070,14 +1070,14 @@
       - STEEL BLADE / JEAN LOVE
 11. 빗속의 다운힐 배틀
       - Drivin' Crazy / [Ace](https://ko.wikipedia.org/wiki/크리스찬_코데노티 "wikilink")
-      - Rasing Hell / [Fastway](https://ko.wikipedia.org/wiki/엔니오_자니니 "wikilink")
+      - Rasing Hell / [Fastway](../Page/엔니오_자니니.md "wikilink")
 12. 갈등의 직선주로
       - MOVIN' UP MOVING NOW / JEAN LOVE
       - On My Wings / [Manuel](https://ko.wikipedia.org/wiki/마누엘_카라모리 "wikilink")
       - I BELIEVE IN LOVIN'YOU / BRAIN ICE
       - What You Need / [Manuel](https://ko.wikipedia.org/wiki/마누엘_카라모리 "wikilink")
 13. Motivation
-      - WILD REPUTATION 2005 / [DAVE RODGERS](https://ko.wikipedia.org/wiki/데이브_로저스 "wikilink")
+      - WILD REPUTATION 2005 / [DAVE RODGERS](../Page/데이브_로저스.md "wikilink")
       - I WANNA BE THE NIGHT / CHRIS T
 14. 슬픈 Lonely Driver
       - GET THE FUTURE / maiko
@@ -1085,7 +1085,7 @@
       - No Control / [Manuel](https://ko.wikipedia.org/wiki/마누엘_카라모리 "wikilink")
 16. 분노의 힐 클라임
       - Blood And Fire / [Powerful T.](https://ko.wikipedia.org/wiki/로베르토_티란티 "wikilink")
-      - KINGO KING'O BEAT / [Fastway](https://ko.wikipedia.org/wiki/엔니오_자니니 "wikilink")
+      - KINGO KING'O BEAT / [Fastway](../Page/엔니오_자니니.md "wikilink")
       - I JUST WANNA CALL YOU NOW / NORMA SHEFFIELD
 17. 사이타마 에리어 최종결전
       - MISSION IMPOSSIBLE / NICK MANSELL
@@ -1093,14 +1093,14 @@
 18. Last Drive
       - 円 -MADOKA- / SaGa
 19. 신의 발과 신의 손
-      - City Lover City Rider / [Matt Land](https://ko.wikipedia.org/wiki/마테오_세티 "wikilink")
+      - City Lover City Rider / [Matt Land](../Page/마테오_세티.md "wikilink")
 20. 초절 GT-R\!
       - GO GO MONEY(FRIDAY NIGHT Ver.) / NEO
-      - Back On The Rocks / [Mega NRG Man](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Back On The Rocks / [Mega NRG Man](../Page/토마스_마린.md "wikilink")
       - SO FRAGILE / PAMSY
 21. Dog Fight
       - LOOKA BOMBA / [GO2](https://ko.wikipedia.org/wiki/Go_2 "wikilink")
-      - Back On The Rocks / [Mega NRG Man](https://ko.wikipedia.org/wiki/토마스_마린 "wikilink")
+      - Back On The Rocks / [Mega NRG Man](../Page/토마스_마린.md "wikilink")
       - Rider Of The Sky / [Ace](https://ko.wikipedia.org/wiki/크리스찬_코데노티 "wikilink")
 22. 원 핸드 스티어의 마술
       - STOP TO GIVE UP / EUROFUNK
@@ -1115,7 +1115,7 @@
 
 #### 이니셜 D Fifth Stage
 
-이니셜D 피프스 스테이지는 ANIMAX에서 2012년 11월 9일 첫 화가 방송되었다. 만화로는 47권을 끝으로 완결되었으며, 13,14화는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 5월에 마무리되었다.
+이니셜D 피프스 스테이지는 ANIMAX에서 2012년 11월 9일 첫 화가 방송되었다. 만화로는 47권을 끝으로 완결되었으며, 13,14화는 [2014년](../Page/2014년.md "wikilink") 5월에 마무리되었다.
 
 만화방영일은 매달 첫째, 둘째 주 금요일 8시에 일본 애니맥스에서 방영된다.
 
@@ -1281,7 +1281,7 @@
 9.  (오락실용)이니셜D 아케이드 제로
 10. (PC)[이니셜D 마운틴 벤젼스](https://ko.wikipedia.org/wiki/이니셜D_마운틴_벤젼스 "wikilink")
 11. ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink"))[이니셜D 스페셜 스테이지](https://ko.wikipedia.org/wiki/이니셜D_스페셜_스테이지 "wikilink")2003년 6월 출시
-12. ([PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"))[이니셜D 스트리트 스테이지](https://ko.wikipedia.org/wiki/이니셜D_스트리트_스테이지 "wikilink")2006년 2월 출시
+12. ([PSP](../Page/플레이스테이션_포터블.md "wikilink"))[이니셜D 스트리트 스테이지](https://ko.wikipedia.org/wiki/이니셜D_스트리트_스테이지 "wikilink")2006년 2월 출시
 13. ([PS3](https://ko.wikipedia.org/wiki/PS3 "wikilink"))[이니셜D 익스트림 스테이지](https://ko.wikipedia.org/wiki/이니셜D_익스트림_스테이지 "wikilink")2008년 7월 출시
 14. (\[GBA\]) [이니셜 D 어나더 스테이지](https://ko.wikipedia.org/wiki/이니셜_D_어나더_스테이지 "wikilink")2002년 6월 출시
 
@@ -1294,5 +1294,5 @@
 3.  First Stage와 Fourth Stage에 등장하는 료스케의 머리 색이 파랑이며, 프로젝트 D편에서는 빈번하게 케이스케의 머리 모양이나 머리카락의 색이 변했지만, Fourth Stage에서는 고정되고 있는 등 여러가지 부분이 있다.
 4.  싱고戰까지는 거의 원작 대로(오리지널회는 제외)진행 되었다. 그 이후 마코&사유키戰 → 묘우기 교류전(원작에서는 마지막에 랜서 에볼루션 IV이 등장하지만 그것은 생략해지고 있다) → 료스케戰이 진행된다.
 5.  이것과 닮은 형태로서 Fourth Stage의 〈퍼플 쉐도우〉戰에서는 대전순서가 거꾸로 되고 있다.(원작에서는, 죠시마戰 → 호시노戰 순서이다)
-6.  카이戰에서, 아케치다이라(정상)에서 대기하고 있는 엠페러 팀원들에 케이스케와 료스케가 온 것외에, 나츠키의 아르바이트 장소가 원작에서는 타쿠미와 같은 [주유소](https://ko.wikipedia.org/wiki/주유소 "wikilink")였지만, 애니메이션에서는 [패스트 푸드점에서](https://ko.wikipedia.org/wiki/패스트_푸드 "wikilink"), 타쿠미와는 다른 곳에서 일하고 있는 것이 되어 있는 부분이 있다.
+6.  카이戰에서, 아케치다이라(정상)에서 대기하고 있는 엠페러 팀원들에 케이스케와 료스케가 온 것외에, 나츠키의 아르바이트 장소가 원작에서는 타쿠미와 같은 [주유소](../Page/주유소.md "wikilink")였지만, 애니메이션에서는 [패스트 푸드점에서](../Page/패스트_푸드.md "wikilink"), 타쿠미와는 다른 곳에서 일하고 있는 것이 되어 있는 부분이 있다.
 7.  원작에서는 존재하지 않는 배틀로, 아카기 산에서의 타쿠미와 료스케의 배틀이 진행되는 부분이 있다.

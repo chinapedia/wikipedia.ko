@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Nimrod.](https://ko.wikipedia.org/wiki/Nimrod.).
 
 
-《**Nimrod.**》는 [그린 데이의](https://ko.wikipedia.org/wiki/그린_데이 "wikilink") 다섯 번째 정규 음반이다. 미국 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 차트 10위에 올랐으며, 판매량은 《[Dookie](../Page/Dookie.md "wikilink")》의 수준에는 훨씬 부족하였으나, 미국에서 2x 플래티넘을 인증 받았다.
+《**Nimrod.**》는 [그린 데이의](../Page/그린_데이.md "wikilink") 다섯 번째 정규 음반이다. 미국 [빌보드 200](../Page/빌보드_200.md "wikilink") 차트 10위에 올랐으며, 판매량은 《[Dookie](../Page/Dookie.md "wikilink")》의 수준에는 훨씬 부족하였으나, 미국에서 2x 플래티넘을 인증 받았다.
 
 네 장의 싱글이 발매되었으며, 그중에서 〈Good Riddance (Time of Your Life)〉가 가장 좋은 차트 성적을 거두어 [모던 록 차트](https://ko.wikipedia.org/wiki/모던_록_차트 "wikilink") 2위에 올랐다.
 

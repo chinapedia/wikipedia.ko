@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ EOS-1D Mark III](https://ko.wikipedia.org/wiki/_EOS-1D_Mark_III).
 
 
-**캐논 EOS-1D 마크 III**()는 1,010만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [캐논 EOS-1D Mark II N의](https://ko.wikipedia.org/wiki/캐논_EOS-1D_Mark_II_N "wikilink") 후속 모델이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") 발표되었고, 2007년 5월에 출시되었다. 28.1 × 18.7 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며, 초당 10 프레임을 촬영할 수 있다. EOS-1Ds 계열에 대비하여 EOS-1D 계열 모델들은 프레스 사진 시장에 최적화된 특징이 있다.
+**캐논 EOS-1D 마크 III**()는 1,010만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [캐논 EOS-1D Mark II N의](https://ko.wikipedia.org/wiki/캐논_EOS-1D_Mark_II_N "wikilink") 후속 모델이다. [2007년](../Page/2007년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") 발표되었고, 2007년 5월에 출시되었다. 28.1 × 18.7 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며, 초당 10 프레임을 촬영할 수 있다. EOS-1Ds 계열에 대비하여 EOS-1D 계열 모델들은 프레스 사진 시장에 최적화된 특징이 있다.
 
 ## 향상된 기능들
 
-EOS-1D Mark II N과 비교했을 때, [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 수, 연속 촬영 속도, [자동 초점](https://ko.wikipedia.org/wiki/자동_초점 "wikilink") 성능 등이 향상되었으며, 먼지 제거 기능, [라이브 뷰](https://ko.wikipedia.org/wiki/라이브_뷰 "wikilink") 기능 등이 추가되었다.
+EOS-1D Mark II N과 비교했을 때, [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 수, 연속 촬영 속도, [자동 초점](../Page/자동_초점.md "wikilink") 성능 등이 향상되었으며, 먼지 제거 기능, [라이브 뷰](https://ko.wikipedia.org/wiki/라이브_뷰 "wikilink") 기능 등이 추가되었다.
 
-  - [자동 초점](https://ko.wikipedia.org/wiki/자동_초점 "wikilink") 시스템: 크로스 타입 센서 수가 7개에서 19개로 증가하였다. [CMOS](../Page/CMOS.md "wikilink") 자동 초점 센서의 감도가 향상되어, 저광량 시 자동 초점 능력이 EV 0에서 EV -1로 향상되었다.
+  - [자동 초점](../Page/자동_초점.md "wikilink") 시스템: 크로스 타입 센서 수가 7개에서 19개로 증가하였다. [CMOS](../Page/CMOS.md "wikilink") 자동 초점 센서의 감도가 향상되어, 저광량 시 자동 초점 능력이 EV 0에서 EV -1로 향상되었다.
 
 ## 문제점
 
@@ -28,7 +28,7 @@ EOS-1D Mark II N과 비교했을 때, [유효 화소](https://ko.wikipedia.org/w
 ## 같이 보기
 
   - [캐논](../Page/캐논.md "wikilink")
-  - [캐논 EOS](https://ko.wikipedia.org/wiki/캐논_EOS "wikilink")
+  - [캐논 EOS](../Page/캐논_EOS.md "wikilink")
   - [캐논 EF 마운트](../Page/캐논_EF_마운트.md "wikilink")
 
 ## 각주
@@ -41,7 +41,7 @@ EOS-1D Mark II N과 비교했을 때, [유효 화소](https://ko.wikipedia.org/w
 
   - [캐논코리아 1D mark III 공식 안내 사이트](https://web.archive.org/web/20110319065445/http://www.canon-ci.co.kr/actions/ProductMainAction?cmd=view&product_code=DCAA080219)
 
-  - [White Paper](https://web.archive.org/web/20070304164807/http://www.robgalbraith.com/public_files/Canon_EOS-1D_Mark_III_White_Paper.pdf) ([PDF](https://ko.wikipedia.org/wiki/PDF "wikilink")) [White Paper](http://www.usa.canon.com/uploadedimages/FCK/Image/White%20Papers/EOS-1D_MarkIII_WP.pdf)
+  - [White Paper](https://web.archive.org/web/20070304164807/http://www.robgalbraith.com/public_files/Canon_EOS-1D_Mark_III_White_Paper.pdf) ([PDF](../Page/PDF.md "wikilink")) [White Paper](http://www.usa.canon.com/uploadedimages/FCK/Image/White%20Papers/EOS-1D_MarkIII_WP.pdf)
 
   - [GETTING THE MOST FROM YOUR EOS-1 CLASS DIGITAL SLR TIPS AND TECHNIQUES: CAMERA HANDLING & MAXIMUM IMAGE QUALITY](https://web.archive.org/web/20070306212823/http://photoworkshop.com/canon/EOS_Digital.pdf)
 

@@ -57,10 +57,10 @@
 
 ## 관련 틀
 
-  - [틀:Babels](https://ko.wikipedia.org/wiki/틀:Babels "wikilink")
-  - [틀:Babels-6](https://ko.wikipedia.org/wiki/틀:Babels-6 "wikilink")
+  - [틀:Babels](../Page/틀:Babels.md "wikilink")
+  - [틀:Babels-6](../Page/틀:Babels-6.md "wikilink")
   - [틀:Babels-5](../Page/틀:Babels-5.md "wikilink")
-  - [틀:Babels-4-no-M](https://ko.wikipedia.org/wiki/틀:Babels-4-no-M "wikilink")
-  - [틀:Babels-3-no-M](https://ko.wikipedia.org/wiki/틀:Babels-3-no-M "wikilink")
+  - [틀:Babels-4-no-M](../Page/틀:Babels-4-no-M.md "wikilink")
+  - [틀:Babels-3-no-M](../Page/틀:Babels-3-no-M.md "wikilink")
 
 [](https://ko.wikipedia.org/wiki/분류:예시용_틀 "wikilink")

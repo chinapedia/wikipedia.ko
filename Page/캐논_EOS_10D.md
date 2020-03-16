@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ EOS 10D](https://ko.wikipedia.org/wiki/_EOS_10D).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Canon_EOS_10D.jpg "wikilink") **캐논 EOS 10D**()는 630만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 준전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월 27일에](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") 발표되었다. [캐논 EOS D60의](https://ko.wikipedia.org/wiki/캐논_EOS_D60 "wikilink") 후속 모델이다. 22.7 × 15.1 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며 [캐논 EF 마운트를](../Page/캐논_EF_마운트.md "wikilink") 지원한다. [EF-S 렌즈는](https://ko.wikipedia.org/wiki/캐논_EF-S_마운트 "wikilink") 지원하지 않는다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Canon_EOS_10D.jpg "wikilink") **캐논 EOS 10D**()는 630만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 준전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [2003년](../Page/2003년.md "wikilink") [2월 27일에](../Page/2월_27일.md "wikilink") 발표되었다. [캐논 EOS D60의](https://ko.wikipedia.org/wiki/캐논_EOS_D60 "wikilink") 후속 모델이다. 22.7 × 15.1 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며 [캐논 EF 마운트를](../Page/캐논_EF_마운트.md "wikilink") 지원한다. [EF-S 렌즈는](../Page/캐논_EF-S_마운트.md "wikilink") 지원하지 않는다.
 
 ## 캐논 EOS D60에 비해 향상된 점
 
-  - 향상된 [자동 초점](https://ko.wikipedia.org/wiki/자동_초점 "wikilink") 시스템
+  - 향상된 [자동 초점](../Page/자동_초점.md "wikilink") 시스템
   - 조용한 셔터음, 미러 플립
   - [FAT32](https://ko.wikipedia.org/wiki/FAT32 "wikilink") 지원
 
@@ -15,14 +15,14 @@
 
 10D는 [니콘 D100](https://ko.wikipedia.org/wiki/니콘_D100 "wikilink"), 펜탁스 istD, 올림푸스 E-1과 자주 비교되곤 하였다. 10D의 장점으로는 ISO 100 지원 등이 있다.
 
-10D의 단점으로는 느린 초기 기동시간, 느린 리뷰 시간, 상대적으로 떨어지는 [자동 초점](https://ko.wikipedia.org/wiki/자동_초점 "wikilink") 성능 등이 있다. 이러한 단점들은 후속 모델인 [캐논 EOS 20D에서](../Page/캐논_EOS_20D.md "wikilink") 대부분 개선되었다.
+10D의 단점으로는 느린 초기 기동시간, 느린 리뷰 시간, 상대적으로 떨어지는 [자동 초점](../Page/자동_초점.md "wikilink") 성능 등이 있다. 이러한 단점들은 후속 모델인 [캐논 EOS 20D에서](../Page/캐논_EOS_20D.md "wikilink") 대부분 개선되었다.
 
 ## 같이 보기
 
   - [캐논](../Page/캐논.md "wikilink")
-  - [캐논 EOS](https://ko.wikipedia.org/wiki/캐논_EOS "wikilink")
+  - [캐논 EOS](../Page/캐논_EOS.md "wikilink")
   - [캐논 EF 마운트](../Page/캐논_EF_마운트.md "wikilink")
-  - [캐논 EF-S 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_마운트 "wikilink")
+  - [캐논 EF-S 마운트](../Page/캐논_EF-S_마운트.md "wikilink")
 
 ## 외부 링크
 

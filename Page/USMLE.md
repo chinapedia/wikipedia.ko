@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USMLE](https://ko.wikipedia.org/wiki/USMLE).
 
 
-**USMLE**(United States Medical Licensing Examination), **미합중국의사면허시험**은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 의료행위를 하기 전에 반드시 합격해야 하는 시험이다. Step 1과 Step 2를 통과하면 ECFMG certificate을 받아서 미국에서 수련을 시작할 수 있다. [주별 면허 취득 조건](https://web.archive.org/web/20140115045723/http://www.fsmb.org/usmle_eliinitial.html)은 다르나 2년에서 3년 이상의 수련을 받고 Step 3를 합격해야 면허(full license)를 받을 수 있다. 외국의대 재학생과 졸업생도 응시할 수 있으나 ECFMG에서 인정하는 의대를 다니거나 졸업해야 한다.
+**USMLE**(United States Medical Licensing Examination), **미합중국의사면허시험**은 [미국](../Page/미국.md "wikilink")에서 의료행위를 하기 전에 반드시 합격해야 하는 시험이다. Step 1과 Step 2를 통과하면 ECFMG certificate을 받아서 미국에서 수련을 시작할 수 있다. [주별 면허 취득 조건](https://web.archive.org/web/20140115045723/http://www.fsmb.org/usmle_eliinitial.html)은 다르나 2년에서 3년 이상의 수련을 받고 Step 3를 합격해야 면허(full license)를 받을 수 있다. 외국의대 재학생과 졸업생도 응시할 수 있으나 ECFMG에서 인정하는 의대를 다니거나 졸업해야 한다.
 
 ## 1단계(Step1)
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Wii ](https://ko.wikipedia.org/wiki/Wii_).
 
 
-**Wii Sports**는 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 개발한 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")용 스포츠 게임 소프트웨어이다.
+**Wii Sports**는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 스포츠 게임 소프트웨어이다.
 
 ## 개요
 
-[Wii 리모컨의](https://ko.wikipedia.org/wiki/Wii_리모컨 "wikilink") 특징을 살리면서, [테니스](https://ko.wikipedia.org/wiki/테니스 "wikilink"), [야구](https://ko.wikipedia.org/wiki/야구 "wikilink"), [골프](https://ko.wikipedia.org/wiki/골프 "wikilink"), [볼링](https://ko.wikipedia.org/wiki/볼링 "wikilink"), [복싱](https://ko.wikipedia.org/wiki/복싱 "wikilink")의 총 다섯 종류의 게임이 포함되어 있으며, 모두 실제에 가까운 움직임으로 플레이하며 또한 여러 명이서 대전 플레이가 가능하다.
+[Wii 리모컨의](../Page/Wii_리모컨.md "wikilink") 특징을 살리면서, [테니스](../Page/테니스.md "wikilink"), [야구](../Page/야구.md "wikilink"), [골프](../Page/골프.md "wikilink"), [볼링](../Page/볼링.md "wikilink"), [복싱](https://ko.wikipedia.org/wiki/복싱 "wikilink")의 총 다섯 종류의 게임이 포함되어 있으며, 모두 실제에 가까운 움직임으로 플레이하며 또한 여러 명이서 대전 플레이가 가능하다.
 
 위에 내장되어 있는 아바타를 생성/관리할 수 있는 [위 채널인](https://ko.wikipedia.org/wiki/위_채널 "wikilink") [Mii](https://ko.wikipedia.org/wiki/Mii "wikilink")에서 만들었던 아바타를 불러와서 사용할 수 있다.
 
-현재 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")에서는 위 스포츠 후속으로 [Wii Sports Resort를](https://ko.wikipedia.org/wiki/Wii_Sports_Resort "wikilink") 개발하였다. 이 게임은 [Wii 모션플러스](https://ko.wikipedia.org/wiki/Wii_모션플러스 "wikilink") 출시 후의 첫 번째 작이다.
+현재 [닌텐도](../Page/닌텐도.md "wikilink")에서는 위 스포츠 후속으로 [Wii Sports Resort를](https://ko.wikipedia.org/wiki/Wii_Sports_Resort "wikilink") 개발하였다. 이 게임은 [Wii 모션플러스](https://ko.wikipedia.org/wiki/Wii_모션플러스 "wikilink") 출시 후의 첫 번째 작이다.
 
 ## 게임 내용
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NGC 1](https://ko.wikipedia.org/wiki/NGC_1).
 
 
-**NGC 1**은 [페가수스자리](https://ko.wikipedia.org/wiki/페가수스자리 "wikilink")에 위치한 [나선 은하이다](https://ko.wikipedia.org/wiki/나선_은하 "wikilink"). [NGC 목록에](https://ko.wikipedia.org/wiki/NGC_목록 "wikilink") 첫 번째로 수록된 천체이다. 지구로부터 약 1억 9천만 광년 떨어져 있다. 지름은 약 9만 광년으로 [우리 은하보다](https://ko.wikipedia.org/wiki/우리_은하 "wikilink") 약간 작다.\[1\] NGC 목록이 만들어질 당시(원기 1860 기준) 이 은하는 [적경](https://ko.wikipedia.org/wiki/적경 "wikilink")상 가장 처음 위치에 자리잡고 있었기 때문에 1번을 부여받게 되었다.\[2\] 그러나 이후 NGC의 겉보기 위치가 바뀌었기 때문에, 현재는 적경상으로 더 이상 1번 위치를 차지할 수는 없다.\[3\]
+**NGC 1**은 [페가수스자리](../Page/페가수스자리.md "wikilink")에 위치한 [나선 은하이다](https://ko.wikipedia.org/wiki/나선_은하 "wikilink"). [NGC 목록에](https://ko.wikipedia.org/wiki/NGC_목록 "wikilink") 첫 번째로 수록된 천체이다. 지구로부터 약 1억 9천만 광년 떨어져 있다. 지름은 약 9만 광년으로 [우리 은하보다](https://ko.wikipedia.org/wiki/우리_은하 "wikilink") 약간 작다.\[1\] NGC 목록이 만들어질 당시(원기 1860 기준) 이 은하는 [적경](../Page/적경.md "wikilink")상 가장 처음 위치에 자리잡고 있었기 때문에 1번을 부여받게 되었다.\[2\] 그러나 이후 NGC의 겉보기 위치가 바뀌었기 때문에, 현재는 적경상으로 더 이상 1번 위치를 차지할 수는 없다.\[3\]
 
 ## 각주
 

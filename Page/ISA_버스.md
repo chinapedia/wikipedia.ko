@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ISA ](https://ko.wikipedia.org/wiki/ISA_).
 
 
-**ISA 버스**(Industry Standard Architecture bus)는 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")의 [PC/XT](https://ko.wikipedia.org/wiki/PC/XT "wikilink")와 [PC/AT](https://ko.wikipedia.org/wiki/PC/AT "wikilink")를 위해 개발되었다. ISA 구조는 실제로 존재하는 규격내용으로 현재에도 고성능이 불필요한 곳에서 사용하고 있다. 현재는 [PCI 버스에](../Page/PCI_버스.md "wikilink") 의하여 대체되고 있다. 전송속도는 16 비트에서 3 Mb/s 이다.
+**ISA 버스**(Industry Standard Architecture bus)는 [IBM](../Page/IBM.md "wikilink")의 [PC/XT](https://ko.wikipedia.org/wiki/PC/XT "wikilink")와 [PC/AT](https://ko.wikipedia.org/wiki/PC/AT "wikilink")를 위해 개발되었다. ISA 구조는 실제로 존재하는 규격내용으로 현재에도 고성능이 불필요한 곳에서 사용하고 있다. 현재는 [PCI 버스에](../Page/PCI_버스.md "wikilink") 의하여 대체되고 있다. 전송속도는 16 비트에서 3 Mb/s 이다.
 
 ## 역사
 
-[컴팩](https://ko.wikipedia.org/wiki/컴팩 "wikilink")이 [PC 호환기종을](../Page/IBM_PC_호환기종.md "wikilink") 대체할 목적으로 ISA(Industry Standard Architecture)라는 용어를 만들었다.\[1\] ISA 버스는 1981년 IBM PC 프로젝트의 일부로서 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")의 [마크 딘이](https://ko.wikipedia.org/wiki/마크_딘 "wikilink") 주도하는 팀에 의해 개발되었다. 8비트 시스템으로 출발하였다. 더 새로운 16비트 표준인 [IBM AT](https://ko.wikipedia.org/wiki/IBM_PC/AT "wikilink") 버스는 1984년에 도입되었다.
+[컴팩](../Page/컴팩.md "wikilink")이 [PC 호환기종을](../Page/IBM_PC_호환기종.md "wikilink") 대체할 목적으로 ISA(Industry Standard Architecture)라는 용어를 만들었다.\[1\] ISA 버스는 1981년 IBM PC 프로젝트의 일부로서 [IBM](../Page/IBM.md "wikilink")의 [마크 딘이](https://ko.wikipedia.org/wiki/마크_딘 "wikilink") 주도하는 팀에 의해 개발되었다. 8비트 시스템으로 출발하였다. 더 새로운 16비트 표준인 [IBM AT](https://ko.wikipedia.org/wiki/IBM_PC/AT "wikilink") 버스는 1984년에 도입되었다.
 
 ## ISA 버스 구조
 
@@ -38,7 +38,7 @@
 <tbody>
 <tr class="odd">
 <td><p>버스 너비</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/16비트" title="wikilink">16비트</a></p></td>
+<td><p><a href="../Page/16비트.md" title="wikilink">16비트</a></p></td>
 </tr>
 <tr class="even">
 <td><p>비교</p></td>
@@ -59,8 +59,8 @@
 <tr class="even">
 <td><p>용량<br />
  </p></td>
-<td><p>3,97 <a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">메가바이트</a>/<a href="https://ko.wikipedia.org/wiki/초_(시간)" title="wikilink">초</a> (pio)<br />
-2,65 <a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">메가바이트</a>/<a href="https://ko.wikipedia.org/wiki/초_(시간)" title="wikilink">초</a> (dma)</p></td>
+<td><p>3,97 <a href="../Page/메가바이트.md" title="wikilink">메가바이트</a>/<a href="https://ko.wikipedia.org/wiki/초_(시간)" title="wikilink">초</a> (pio)<br />
+2,65 <a href="../Page/메가바이트.md" title="wikilink">메가바이트</a>/<a href="https://ko.wikipedia.org/wiki/초_(시간)" title="wikilink">초</a> (dma)</p></td>
 </tr>
 </tbody>
 </table>
@@ -68,12 +68,12 @@
 ## 같이 보기
 
   - [PCI 버스](../Page/PCI_버스.md "wikilink")
-  - [PCI 익스프레스](https://ko.wikipedia.org/wiki/PCI_익스프레스 "wikilink")
-  - [EISA](https://ko.wikipedia.org/wiki/EISA "wikilink")
+  - [PCI 익스프레스](../Page/PCI_익스프레스.md "wikilink")
+  - [EISA](../Page/EISA.md "wikilink")
   - [MCA](https://ko.wikipedia.org/wiki/:en:Micro_Channel_Architecture "wikilink")
   - [AGP](https://ko.wikipedia.org/wiki/AGP "wikilink")
-  - [VLB](https://ko.wikipedia.org/wiki/VESA_로컬_버스 "wikilink")
-  - [PCI-X](https://ko.wikipedia.org/wiki/PCI-X "wikilink")
+  - [VLB](../Page/VESA_로컬_버스.md "wikilink")
+  - [PCI-X](../Page/PCI-X.md "wikilink")
 
 ## 각주
 

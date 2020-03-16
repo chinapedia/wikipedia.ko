@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [IAI ](https://ko.wikipedia.org/wiki/IAI_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:IAI_Eitan_cropped.jpg "wikilink") **IAI 이단**(Eithan)은 이스라엘의 HALE(고고도 장거리 체공) UAV이다. [헤론](https://ko.wikipedia.org/wiki/IAI_헤론 "wikilink") UAV를 개량한 것이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:IAI_Eitan_cropped.jpg "wikilink") **IAI 이단**(Eithan)은 이스라엘의 HALE(고고도 장거리 체공) UAV이다. [헤론](../Page/IAI_헤론.md "wikilink") UAV를 개량한 것이다.
 
 ## 제원
 
 ## 운용 국가
 
-  - \- 2010년 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")는 [독일 공군의](https://ko.wikipedia.org/wiki/독일_공군 "wikilink") 장기 체공 "Saateg" MALE UAV 요구조건에 맞춘 이단을 제의했다.\[1\]
+  - \- 2010년 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")는 [독일 공군의](../Page/독일_공군.md "wikilink") 장기 체공 "Saateg" MALE UAV 요구조건에 맞춘 이단을 제의했다.\[1\]
 
 <!-- end list -->
 

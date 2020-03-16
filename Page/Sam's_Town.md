@@ -3,7 +3,7 @@
 
 《**Sam's Town**》은 미국의 록 밴드 [킬러스의](https://ko.wikipedia.org/wiki/킬러스_\(밴드\) "wikilink") 두 번째 정규 음반이다. 미국에서는 2위에 오르며, 발매 첫 주에 315,000 장의 판매고를 올렸다.\[1\] 또한 영국 음반 차트에서도 1위에 오르며 한 주에 268,000 장이 판매되었다.\[2\]
 
-이 음반의 이름은 킬러스의 출신지 [라스베이거스](https://ko.wikipedia.org/wiki/라스베이거스 "wikilink")에 있는 카지노 호텔 Sam's Town Hotel and Gambling Hall에서 따온 것이다.
+이 음반의 이름은 킬러스의 출신지 [라스베이거스](../Page/라스베이거스.md "wikilink")에 있는 카지노 호텔 Sam's Town Hotel and Gambling Hall에서 따온 것이다.
 
 ## 트랙 목록
 

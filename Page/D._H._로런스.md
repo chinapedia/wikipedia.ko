@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [D. H. ](https://ko.wikipedia.org/wiki/D._H._).
 
 
-**데이비드 허버트 로렌스**(, [1885년](https://ko.wikipedia.org/wiki/1885년 "wikilink") [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink") \~ [1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink"))는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink"), [시인](https://ko.wikipedia.org/wiki/시인 "wikilink"), 문학평론가이다.
+**데이비드 허버트 로렌스**(, [1885년](../Page/1885년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") \~ [1930년](../Page/1930년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink"))는 [영국](../Page/영국.md "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink"), [시인](https://ko.wikipedia.org/wiki/시인 "wikilink"), 문학평론가이다.
 
 ## 생애
 
-광부의 아들로 태어나 [노팅엄 대학교에서](https://ko.wikipedia.org/wiki/노팅엄_대학교 "wikilink") 공부하였다. 1911년, 첫 작품 <흰 공작>을 발표한 이후 성(性)에 대한 소설을 여러 편 써서 비난을 받기도 하였다. 1920년에는 <연애하는 여성들>을 발표, 성(性)에 대한 신비를 밝히고자 하였다. 그의 작품의 특색은 인간의 원시적인 성의 본능을 매우 중요시하는 데 있다. 주요 작품으로, 소설 <채털리 부인의 연인> <아들과 연인> <무지개>, 여행기 <이탈리아의 황혼> <멕시코의 아침>, 수필 <묵시록> 등이 있다.
+광부의 아들로 태어나 [노팅엄 대학교에서](../Page/노팅엄_대학교.md "wikilink") 공부하였다. 1911년, 첫 작품 <흰 공작>을 발표한 이후 성(性)에 대한 소설을 여러 편 써서 비난을 받기도 하였다. 1920년에는 <연애하는 여성들>을 발표, 성(性)에 대한 신비를 밝히고자 하였다. 그의 작품의 특색은 인간의 원시적인 성의 본능을 매우 중요시하는 데 있다. 주요 작품으로, 소설 <채털리 부인의 연인> <아들과 연인> <무지개>, 여행기 <이탈리아의 황혼> <멕시코의 아침>, 수필 <묵시록> 등이 있다.
 
 ## 작품
 

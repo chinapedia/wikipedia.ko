@@ -55,7 +55,7 @@ VPlus/35b</p></td>
 <tr class="header">
 <th><p>프로파일</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/대역폭" title="wikilink">대역폭</a><br />
-(<a href="https://ko.wikipedia.org/wiki/헤르츠" title="wikilink">MHz</a>)</p></th>
+(<a href="../Page/헤르츠.md" title="wikilink">MHz</a>)</p></th>
 <th><p>다운스트림 <a href="https://ko.wikipedia.org/wiki/반송파" title="wikilink">반송파</a> 수</p></th>
 <th><p>반송파 대역<br />
 (kHz)</p></th>

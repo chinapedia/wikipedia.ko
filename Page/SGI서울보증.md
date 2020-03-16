@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SGI](https://ko.wikipedia.org/wiki/SGI).
 
 
-**SGI서울보증** (Seoul Guarantee Insurance Company)은 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") [대한보증보험](https://ko.wikipedia.org/wiki/대한보증보험 "wikilink")과 [한국보증보험](https://ko.wikipedia.org/wiki/한국보증보험 "wikilink")의 합병으로 출범하였으며, IMF사태 당시 회사채 보증건의 대규모 보험금 지급 등의 원인으로 공적자금이 투입 되었고, 그 결과 현재 [예금보험공사](https://ko.wikipedia.org/wiki/예금보험공사 "wikilink")가 93% 이상의 지분을 보유한 대주주이다.
+**SGI서울보증** (Seoul Guarantee Insurance Company)은 [1998년](../Page/1998년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") [대한보증보험](https://ko.wikipedia.org/wiki/대한보증보험 "wikilink")과 [한국보증보험](https://ko.wikipedia.org/wiki/한국보증보험 "wikilink")의 합병으로 출범하였으며, IMF사태 당시 회사채 보증건의 대규모 보험금 지급 등의 원인으로 공적자금이 투입 되었고, 그 결과 현재 [예금보험공사](../Page/예금보험공사.md "wikilink")가 93% 이상의 지분을 보유한 대주주이다.
 
 서울보증보험은 은행 및 각종 공제조합 등이 참여하는 국내 보증시장에서 2017년말 기준 275조원이 넘는 보증잔액을 유지하고 있는 국내 최대규모의 보증기관이며, 세계 보증보험 및 신용보험사 중에서 보험료 기준 3위를 기록하고 있다(ICISA 2017년말).
 
@@ -63,7 +63,7 @@
 
 ## 보험 상품
 
-서울보증보험은 보험업법 제4조를 근거로, 경제 활동시 발생하는 각종 채권채무관계(권리·의무관계)에서 채무자(의무자)에게는 부족한 신용을 보완해 주고, 채권자(권리자)에게는 채권담보적 기능을 제공하기 위해, [신원보증](https://ko.wikipedia.org/wiki/신원보증 "wikilink"), 채무이행보증, 신용보험, [모기지신용보험](https://ko.wikipedia.org/wiki/모기지신용보험 "wikilink") 등 총 75개의 보증보험 및 신용보험 상품을 판매하고 있다.
+서울보증보험은 보험업법 제4조를 근거로, 경제 활동시 발생하는 각종 채권채무관계(권리·의무관계)에서 채무자(의무자)에게는 부족한 신용을 보완해 주고, 채권자(권리자)에게는 채권담보적 기능을 제공하기 위해, [신원보증](../Page/신원보증.md "wikilink"), 채무이행보증, 신용보험, [모기지신용보험](https://ko.wikipedia.org/wiki/모기지신용보험 "wikilink") 등 총 75개의 보증보험 및 신용보험 상품을 판매하고 있다.
 
 ## 대외 신인도
 

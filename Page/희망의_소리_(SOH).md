@@ -13,31 +13,31 @@
 | 개국일                            |
 | 공식사이트                          |
 
-**희망의 소리**(희망지성국제광파전대. ,  **약칭 SOH**)는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 미국에서 설립한 대(對)중국 [단파방송](https://ko.wikipedia.org/wiki/단파방송 "wikilink")이다. 본사는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [샌프란시스코](https://ko.wikipedia.org/wiki/샌프란시스코 "wikilink")에 있다.
+**희망의 소리**(희망지성국제광파전대. ,  **약칭 SOH**)는 [2003년](../Page/2003년.md "wikilink") 미국에서 설립한 대(對)중국 [단파방송](https://ko.wikipedia.org/wiki/단파방송 "wikilink")이다. 본사는 [미국](../Page/미국.md "wikilink") [샌프란시스코](../Page/샌프란시스코.md "wikilink")에 있다.
 
 ## 연혁
 
-  - 2003년 [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") 미국 샌프란시스코에서 개국.
+  - 2003년 [6월 20일](../Page/6월_20일.md "wikilink") 미국 샌프란시스코에서 개국.
 
 ## 한국어 방송
 
-**SOH 희망지성 한국어 방송**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"), [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink"), [중국 조선족](https://ko.wikipedia.org/wiki/중국_조선족 "wikilink") 등을 주요 청취 대상으로 하며, 매일 1시간 동안 [단파](https://ko.wikipedia.org/wiki/단파 "wikilink")로 방송하고 인터넷으로 언제든지 들을 수 있다.
+**SOH 희망지성 한국어 방송**은 [대한민국](../Page/대한민국.md "wikilink"), [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink"), [중국 조선족](https://ko.wikipedia.org/wiki/중국_조선족 "wikilink") 등을 주요 청취 대상으로 하며, 매일 1시간 동안 [단파](../Page/단파.md "wikilink")로 방송하고 인터넷으로 언제든지 들을 수 있다.
 
 #### 한국어 방송 주파수
 
-|                                                               |            |
-| ------------------------------------------------------------- | ---------- |
-| **[한국 표준시](https://ko.wikipedia.org/wiki/한국_표준시 "wikilink")** | **단파 주파수** |
-| 18:00\~19:00                                                  | 11750 kHz  |
+|                                            |            |
+| ------------------------------------------ | ---------- |
+| **[한국 표준시](../Page/한국_표준시.md "wikilink")** | **단파 주파수** |
+| 18:00\~19:00                               | 11750 kHz  |
 
 ## 방송 언어
 
-  - [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink")
-  - [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink")
-  - [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")
-  - [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink")
-  - [베트남어](https://ko.wikipedia.org/wiki/베트남어 "wikilink")
-  - [프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink")
+  - [한국어](../Page/한국어.md "wikilink")
+  - [중국어](../Page/중국어.md "wikilink")
+  - [영어](../Page/영어.md "wikilink")
+  - [스페인어](../Page/스페인어.md "wikilink")
+  - [베트남어](../Page/베트남어.md "wikilink")
+  - [프랑스어](../Page/프랑스어.md "wikilink")
 
 ## 주소
 

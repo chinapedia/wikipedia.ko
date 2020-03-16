@@ -52,8 +52,8 @@
 
 ## 관련 틀
 
-  - [틀:Babels](https://ko.wikipedia.org/wiki/틀:Babels "wikilink")
-  - [틀:Babels-6](https://ko.wikipedia.org/wiki/틀:Babels-6 "wikilink")
+  - [틀:Babels](../Page/틀:Babels.md "wikilink")
+  - [틀:Babels-6](../Page/틀:Babels-6.md "wikilink")
   - [틀:Babels-5](../Page/틀:Babels-5.md "wikilink")
   - [틀:Babels-4](../Page/틀:Babels-4.md "wikilink")
   - [틀:Babels-4-no-M](../Page/틀:Babels-4-no-M.md "wikilink")

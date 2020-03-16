@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [ EOS 20D](https://ko.wikipedia.org/wiki/_EOS_20D).
 
 
-**캐논 EOS 20D**()는 820만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 준전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 19일에](https://ko.wikipedia.org/wiki/8월_19일 "wikilink") 발표되었으며 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 시판되었다. [캐논 EOS 10D의](https://ko.wikipedia.org/wiki/캐논_EOS_10D "wikilink") 후속 모델이다. 22.5 × 15.0 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며 [캐논 EF-S 렌즈 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_렌즈_마운트 "wikilink") 및 [캐논 EF 렌즈 마운트를](https://ko.wikipedia.org/wiki/캐논_EF_렌즈_마운트 "wikilink") 지원한다.
+**캐논 EOS 20D**()는 820만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 준전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [2004년](../Page/2004년.md "wikilink") [8월 19일에](../Page/8월_19일.md "wikilink") 발표되었으며 [9월](../Page/9월.md "wikilink")에 시판되었다. [캐논 EOS 10D의](../Page/캐논_EOS_10D.md "wikilink") 후속 모델이다. 22.5 × 15.0 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며 [캐논 EF-S 렌즈 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_렌즈_마운트 "wikilink") 및 [캐논 EF 렌즈 마운트를](https://ko.wikipedia.org/wiki/캐논_EF_렌즈_마운트 "wikilink") 지원한다.
 
 ## 캐논 EOS 10D에 비해 향상된 점
 
-화소수가 늘어으며, 연속 촬영 속도도 3.3 fps에서 5 fps로 빨라졌다. 초기 기동 시간 등 반응 속도가 빨라졌으며, 향상된 [자동 초점](https://ko.wikipedia.org/wiki/자동_초점 "wikilink") 시스템을 가지고 있다.
+화소수가 늘어으며, 연속 촬영 속도도 3.3 fps에서 5 fps로 빨라졌다. 초기 기동 시간 등 반응 속도가 빨라졌으며, 향상된 [자동 초점](../Page/자동_초점.md "wikilink") 시스템을 가지고 있다.
 
 10D와 비교했을 때, 자동 초점 포인트가 7개에서 9개로 늘어났으며 AF 센서의 감도가 2배 향상되었다. 또한, 중앙 AF 포인트의 경우 f/2.8 대응 센서를 추가적으로 가지고 있어 f/2.8과 같거나 더 밝은 렌즈 사용시 정밀도가 3배 증가한다.
 
 ## 20Da
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Canon_EOS_20Da.jpg "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") 캐논 20D를 기반으로 하는 천체촬영 전용 DSLR인 20Da가 발표되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Canon_EOS_20Da.jpg "wikilink") [2005년](../Page/2005년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") 캐논 20D를 기반으로 하는 천체촬영 전용 DSLR인 20Da가 발표되었다.
 
 캐논 EOS 20D와 비교했을 때 다음과 같은 점이 다르다.
 
-  - 천체 사진에 적합한 [적외선](https://ko.wikipedia.org/wiki/적외선 "wikilink") 필터 (향상된 hydrogen-alpha 투과율)
+  - 천체 사진에 적합한 [적외선](../Page/적외선.md "wikilink") 필터 (향상된 hydrogen-alpha 투과율)
   - 라이브뷰 기능 제공
 
 ## 사진
@@ -25,9 +25,9 @@
 ## 같이 보기
 
   - [캐논](../Page/캐논.md "wikilink")
-  - [캐논 EOS](https://ko.wikipedia.org/wiki/캐논_EOS "wikilink")
+  - [캐논 EOS](../Page/캐논_EOS.md "wikilink")
   - [캐논 EF 마운트](../Page/캐논_EF_마운트.md "wikilink")
-  - [캐논 EF-S 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_마운트 "wikilink")
+  - [캐논 EF-S 마운트](../Page/캐논_EF-S_마운트.md "wikilink")
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SWAT](https://ko.wikipedia.org/wiki/SWAT).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:FBI_Hostage_Rescue_training_from_helicopter.jpg "wikilink") 요원들이 인질 구출 훈련을 하고 있다.\]\] **특수화기전술조**()는 [경찰](https://ko.wikipedia.org/wiki/경찰 "wikilink")과 같은 [법률집행기관](https://ko.wikipedia.org/wiki/법률집행기관 "wikilink")의 하위 조직으로서, 군대와 맞먹는, 혹은 상당하는 무기를 장비하고, 제복 경찰의 능력을 벗어나는 고위험 임무에 대한 전술적 대응에 특화된 조직이다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:FBI_Hostage_Rescue_training_from_helicopter.jpg "wikilink") 요원들이 인질 구출 훈련을 하고 있다.\]\] **특수화기전술조**()는 [경찰](../Page/경찰.md "wikilink")과 같은 [법률집행기관](https://ko.wikipedia.org/wiki/법률집행기관 "wikilink")의 하위 조직으로서, 군대와 맞먹는, 혹은 상당하는 무기를 장비하고, 제복 경찰의 능력을 벗어나는 고위험 임무에 대한 전술적 대응에 특화된 조직이다.\[1\]
 
 "경찰특공대"(警察特攻隊) 또는 "SWAT"은 국제적으로 사용되는 용어이며, 특정 국가의 조직을 한정하지 않는다.
 
@@ -29,17 +29,17 @@
 ### 무기
 
   - SWAT의 권총은 보통 9mm 반자동 권총을 표준으로 사용한다. 또한 권총의 종류에는 [글록](https://ko.wikipedia.org/wiki/글록 "wikilink") 시리즈나 [M1911 권총](https://ko.wikipedia.org/wiki/M1911_권총 "wikilink"), [콜트](https://ko.wikipedia.org/wiki/콜트 "wikilink")시리즈를 쓴다
-  - SWAT의 소총은 임무에 따라 무기가 달라진다. 인명 구출용이라면 초기에[MP5](https://ko.wikipedia.org/wiki/MP5 "wikilink")를 주로 사용하였으나, 최근에는 [MP7A1](https://ko.wikipedia.org/wiki/MP7A1 "wikilink")으로 교체되어 사용되고있다. 소총에는 [CAR-15](https://ko.wikipedia.org/wiki/CAR-15 "wikilink")나 [M4A1를](https://ko.wikipedia.org/wiki/M4_카빈 "wikilink") 사용한다. 장거리임무에는 [M16을](https://ko.wikipedia.org/wiki/M16_소총 "wikilink") 쓰고, 저격용으로는 [MSG90이나](https://ko.wikipedia.org/wiki/헤클러&코흐_MSG90 "wikilink") [L96](../Page/아크틱_워페어.md "wikilink"), 강력한 화력이 필요한 경우는 [배럿 M82를](../Page/배럿_M82.md "wikilink") 쓴다. 용의자가 많고 은밀한 임무가 요구될 경우, 인명 구출용에서 사용되는 [MP5](https://ko.wikipedia.org/wiki/MP5 "wikilink"), [MP7A1](https://ko.wikipedia.org/wiki/MP7A1 "wikilink")과는 다르게 소음기가 장착되었다.
-  - [소총](https://ko.wikipedia.org/wiki/소총 "wikilink") - 대표적인 무기: [M4A1](https://ko.wikipedia.org/wiki/M4A1 "wikilink"), [G36](https://ko.wikipedia.org/wiki/G36 "wikilink"), [HK416](https://ko.wikipedia.org/wiki/HK416 "wikilink"),
-  - [기관단총](https://ko.wikipedia.org/wiki/기관단총 "wikilink") - 대표적인 무기:[UMP](https://ko.wikipedia.org/wiki/UMP "wikilink"), [G36C](https://ko.wikipedia.org/wiki/G36C "wikilink"), [MP5](https://ko.wikipedia.org/wiki/MP5 "wikilink")- [MP7A1](https://ko.wikipedia.org/wiki/MP7A1 "wikilink")으로 교체되고있음.
-  - [산탄총](https://ko.wikipedia.org/wiki/산탄총 "wikilink") - 대표적인 무기: [베넬리 M3](../Page/베넬리_M3.md "wikilink"), [레밍턴 M870](https://ko.wikipedia.org/wiki/레밍턴_M870 "wikilink"), [베넬리 M4](https://ko.wikipedia.org/wiki/베넬리_M4 "wikilink")
+  - SWAT의 소총은 임무에 따라 무기가 달라진다. 인명 구출용이라면 초기에[MP5](https://ko.wikipedia.org/wiki/MP5 "wikilink")를 주로 사용하였으나, 최근에는 [MP7A1](https://ko.wikipedia.org/wiki/MP7A1 "wikilink")으로 교체되어 사용되고있다. 소총에는 [CAR-15](https://ko.wikipedia.org/wiki/CAR-15 "wikilink")나 [M4A1를](../Page/M4_카빈.md "wikilink") 사용한다. 장거리임무에는 [M16을](../Page/M16_소총.md "wikilink") 쓰고, 저격용으로는 [MSG90이나](https://ko.wikipedia.org/wiki/헤클러&코흐_MSG90 "wikilink") [L96](../Page/아크틱_워페어.md "wikilink"), 강력한 화력이 필요한 경우는 [배럿 M82를](../Page/배럿_M82.md "wikilink") 쓴다. 용의자가 많고 은밀한 임무가 요구될 경우, 인명 구출용에서 사용되는 [MP5](https://ko.wikipedia.org/wiki/MP5 "wikilink"), [MP7A1](https://ko.wikipedia.org/wiki/MP7A1 "wikilink")과는 다르게 소음기가 장착되었다.
+  - [소총](../Page/소총.md "wikilink") - 대표적인 무기: [M4A1](https://ko.wikipedia.org/wiki/M4A1 "wikilink"), [G36](https://ko.wikipedia.org/wiki/G36 "wikilink"), [HK416](https://ko.wikipedia.org/wiki/HK416 "wikilink"),
+  - [기관단총](../Page/기관단총.md "wikilink") - 대표적인 무기:[UMP](https://ko.wikipedia.org/wiki/UMP "wikilink"), [G36C](https://ko.wikipedia.org/wiki/G36C "wikilink"), [MP5](https://ko.wikipedia.org/wiki/MP5 "wikilink")- [MP7A1](https://ko.wikipedia.org/wiki/MP7A1 "wikilink")으로 교체되고있음.
+  - [산탄총](https://ko.wikipedia.org/wiki/산탄총 "wikilink") - 대표적인 무기: [베넬리 M3](../Page/베넬리_M3.md "wikilink"), [레밍턴 M870](../Page/레밍턴_M870.md "wikilink"), [베넬리 M4](https://ko.wikipedia.org/wiki/베넬리_M4 "wikilink")
   - [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink") - 대표적인 무기: [PSG-1](https://ko.wikipedia.org/wiki/PSG-1 "wikilink"), [MSG-90](https://ko.wikipedia.org/wiki/MSG-90 "wikilink"), [L96계열](../Page/아크틱_워페어.md "wikilink"), [배럿 M82](../Page/배럿_M82.md "wikilink")
-  - [기관총](https://ko.wikipedia.org/wiki/기관총 "wikilink") - 대표적인 무기: [M60](https://ko.wikipedia.org/wiki/M60 "wikilink")
+  - [기관총](../Page/기관총.md "wikilink") - 대표적인 무기: [M60](https://ko.wikipedia.org/wiki/M60 "wikilink")
   - [권총](https://ko.wikipedia.org/wiki/권총 "wikilink") - 대표적인 무기: [글록](https://ko.wikipedia.org/wiki/글록 "wikilink")시리즈, [베레타](../Page/베레타.md "wikilink"), [HK USP](https://ko.wikipedia.org/wiki/HK_USP "wikilink"), [P7M13](https://ko.wikipedia.org/wiki/P7M13 "wikilink")
   - [유탄발사기](https://ko.wikipedia.org/wiki/유탄발사기 "wikilink") - 대표적인 무기: [HK69](https://ko.wikipedia.org/wiki/HK69 "wikilink"), [M79](https://ko.wikipedia.org/wiki/M79 "wikilink")
-  - [연막탄](https://ko.wikipedia.org/wiki/연막탄 "wikilink") - [AN-M8](https://ko.wikipedia.org/wiki/AN-M8 "wikilink"), [M-18](https://ko.wikipedia.org/wiki/M-18 "wikilink")
-  - [섬광탄](https://ko.wikipedia.org/wiki/섬광탄 "wikilink") - [M84](https://ko.wikipedia.org/wiki/M84 "wikilink")
-  - [충격탄](https://ko.wikipedia.org/wiki/충격탄 "wikilink") - 소규모 진압 때 사용하는 특수한 [수류탄](https://ko.wikipedia.org/wiki/수류탄 "wikilink")으로, 터지면 다량의 고무탄이 튀어나와 용의자를 고통스럽게 한다.
+  - [연막탄](../Page/연막탄.md "wikilink") - [AN-M8](https://ko.wikipedia.org/wiki/AN-M8 "wikilink"), [M-18](https://ko.wikipedia.org/wiki/M-18 "wikilink")
+  - [섬광탄](../Page/섬광탄.md "wikilink") - [M84](https://ko.wikipedia.org/wiki/M84 "wikilink")
+  - [충격탄](https://ko.wikipedia.org/wiki/충격탄 "wikilink") - 소규모 진압 때 사용하는 특수한 [수류탄](../Page/수류탄.md "wikilink")으로, 터지면 다량의 고무탄이 튀어나와 용의자를 고통스럽게 한다.
   - [밀코 MGL Mk.1](https://ko.wikipedia.org/wiki/밀코_다중_유탄발사기 "wikilink")
   - [배터링 램](https://ko.wikipedia.org/wiki/배터링_램 "wikilink")
   - [페퍼 스프레이](https://ko.wikipedia.org/wiki/페퍼_스프레이 "wikilink") - 보통 시위 진압때 사용되는 무기로, 스프레이형 전술적 무기이며 맞을경우 따가운 느낌과 함께 매우 독한 연기를 맞은듯한 기분을 들게 한다.(체포할때도 사용됨)

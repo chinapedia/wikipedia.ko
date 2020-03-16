@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MIL-STD-810](https://ko.wikipedia.org/wiki/MIL-STD-810).
 
 
-**MIL-STD-810** 시리즈 규격 내용은 [미국 육군의](https://ko.wikipedia.org/wiki/미국_육군 "wikilink") [개발 시험 통제소에](https://ko.wikipedia.org/wiki/개발_시험_통제소 "wikilink") 의해 제정되어 다양한 환경에서 시험하여 장비가 규격에 만족하여 전장에서 사용하는데 문제가 없도록 하는 것인데 현재는 2000년 1월에 버전 'F'까지 나와있다.
+**MIL-STD-810** 시리즈 규격 내용은 [미국 육군의](../Page/미국_육군.md "wikilink") [개발 시험 통제소에](https://ko.wikipedia.org/wiki/개발_시험_통제소 "wikilink") 의해 제정되어 다양한 환경에서 시험하여 장비가 규격에 만족하여 전장에서 사용하는데 문제가 없도록 하는 것인데 현재는 2000년 1월에 버전 'F'까지 나와있다.
 
 버전 'C'에서는 다양한 종류의 장비에 대하여 시험을 일반화하려고 하였고, 한 때 버전 'D'에서 특정한 충격, 진동시험을 더 실제 시험 환경이 맞도록 조정이 가능하도록 하였다.
 
@@ -21,8 +21,8 @@
 
 이 규격 수준에 맞도록 [러기다이즈](https://ko.wikipedia.org/wiki/러기다이즈 "wikilink") (ruggedization)를 요구한다.
 
-  - 상당 수의 [파나소닉](https://ko.wikipedia.org/wiki/파나소닉 "wikilink") 노트북 계열이 이 규격 만족이 요구됨.
-  - [모토로라](https://ko.wikipedia.org/wiki/모토로라 "wikilink") i580 [셀룰러](https://ko.wikipedia.org/wiki/셀룰러 "wikilink") [헤드셋](https://ko.wikipedia.org/wiki/헤드셋 "wikilink") [넥스텔](../Page/넥스텔.md "wikilink") 서비스시 규격 만족이 요구됨.
+  - 상당 수의 [파나소닉](../Page/파나소닉.md "wikilink") 노트북 계열이 이 규격 만족이 요구됨.
+  - [모토로라](../Page/모토로라.md "wikilink") i580 [셀룰러](https://ko.wikipedia.org/wiki/셀룰러 "wikilink") [헤드셋](https://ko.wikipedia.org/wiki/헤드셋 "wikilink") [넥스텔](../Page/넥스텔.md "wikilink") 서비스시 규격 만족이 요구됨.
   - [버라이즌](https://ko.wikipedia.org/wiki/버라이즌 "wikilink") 통신사의 V [셀룰러 폰이](https://ko.wikipedia.org/wiki/셀룰러_폰 "wikilink") MIL-Standard 810F에서 물, 먼지, 충격에 규격 만족이 요구됨.
   - HP EliteBook p시리즈 노트북이 이 규격에 만족함
   - [삼성 갤럭시 S5 액티브](../Page/삼성_갤럭시_S5_액티브.md "wikilink") 가 이 규격에 만족함

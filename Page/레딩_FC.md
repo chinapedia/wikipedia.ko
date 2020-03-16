@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**레딩 FC**(Reading F.C.)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [버크셔주](https://ko.wikipedia.org/wiki/버크셔주 "wikilink") [레딩](https://ko.wikipedia.org/wiki/레딩 "wikilink")을 연고로 하는 축구 클럽이다. 이 팀은 1871년에 창단했고, 현재 홈 구장의 이름은 회장인 존 마데이스키 경의 이름을 따서 지어졌다. 2005-06 시즌 [풋볼 리그 챔피언십을](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 1위(31승 13무 2패)로 마치며, 리그 최다 승점 기록을 106점으로 갈아치웠다. 클럽 역사상 최초로 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 승격되었고, 승격 첫 시즌에 리그 8위를 기록하는 등 돌풍을 일으켰으나, [2007-08시즌을](https://ko.wikipedia.org/wiki/프리미어리그_2007-08 "wikilink") 마지막으로 2시즌 만에 강등되었다. 2010-11 시즌에는 [카디프 시티를](https://ko.wikipedia.org/wiki/카디프_시티_FC "wikilink") 이기며 플레이오프 결승까지 올랐으나 [스완지 시티에](https://ko.wikipedia.org/wiki/스완지_시티_AFC "wikilink") 3:1로 패배하여 [스완지 시티가](https://ko.wikipedia.org/wiki/스완지_시티_AFC "wikilink") 웨일스 팀 최초로 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")까지 진출하도록 만든 희생양이 되었다. 2016-2017 시즌에 플레이오프에서 [허더즈필드 타운한테](https://ko.wikipedia.org/wiki/허더즈필드_타운_FC "wikilink") 승부차기에서 패하며 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 승격이 좌절되었다.
+**레딩 FC**(Reading F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [버크셔주](../Page/버크셔주.md "wikilink") [레딩](https://ko.wikipedia.org/wiki/레딩 "wikilink")을 연고로 하는 축구 클럽이다. 이 팀은 1871년에 창단했고, 현재 홈 구장의 이름은 회장인 존 마데이스키 경의 이름을 따서 지어졌다. 2005-06 시즌 [풋볼 리그 챔피언십을](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 1위(31승 13무 2패)로 마치며, 리그 최다 승점 기록을 106점으로 갈아치웠다. 클럽 역사상 최초로 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 승격되었고, 승격 첫 시즌에 리그 8위를 기록하는 등 돌풍을 일으켰으나, [2007-08시즌을](../Page/프리미어리그_2007-08.md "wikilink") 마지막으로 2시즌 만에 강등되었다. 2010-11 시즌에는 [카디프 시티를](../Page/카디프_시티_FC.md "wikilink") 이기며 플레이오프 결승까지 올랐으나 [스완지 시티에](../Page/스완지_시티_AFC.md "wikilink") 3:1로 패배하여 [스완지 시티가](../Page/스완지_시티_AFC.md "wikilink") 웨일스 팀 최초로 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")까지 진출하도록 만든 희생양이 되었다. 2016-2017 시즌에 플레이오프에서 [허더즈필드 타운한테](https://ko.wikipedia.org/wiki/허더즈필드_타운_FC "wikilink") 승부차기에서 패하며 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 승격이 좌절되었다.
 
-레딩은 2006년부터 2008년까지 [설기현](https://ko.wikipedia.org/wiki/설기현 "wikilink")이 뛰었던팀으로 유명하다.\[1\]
+레딩은 2006년부터 2008년까지 [설기현](../Page/설기현.md "wikilink")이 뛰었던팀으로 유명하다.\[1\]
 
 ## 현재 선수 명단
 

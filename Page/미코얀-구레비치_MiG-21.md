@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [- MiG-21](https://ko.wikipedia.org/wiki/-_MiG-21).
 
 
-**미코얀-구레비치 MiG-21**(Mikoyan-Gurevich MiG-21, 나토 명칭 Fishbed)는 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")의 주력전투기로 속도가 빠르고 가벼우며 결함이 적은 항공기로서 소련의 전투기설계 및 개발기술을 집약한 전투기종이다. MiG-21은 역사상 그 어느 전투기보다도 장기간 생산이 계속됐으며 어떠한 초음속 전투기보다도 많은 수가 생산돼 세계 도처에서 전투에 참가했다. 전 세계적으로 10,000여 대가 생산된 것으로 추정되고 있다. MiG-21은 오래된 전투기지만, 일부 보유국 중에서는 수년 전까지도 엔진, 센서, 무장 등의 개량 노력이 지속된 효율성 높은 전투기로서, 현재도 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink"), [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")(중국제 개량형 사용), [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink") 등지에서 운용하고 있다.
+**미코얀-구레비치 MiG-21**(Mikoyan-Gurevich MiG-21, 나토 명칭 Fishbed)는 [소련](../Page/소련.md "wikilink")의 주력전투기로 속도가 빠르고 가벼우며 결함이 적은 항공기로서 소련의 전투기설계 및 개발기술을 집약한 전투기종이다. MiG-21은 역사상 그 어느 전투기보다도 장기간 생산이 계속됐으며 어떠한 초음속 전투기보다도 많은 수가 생산돼 세계 도처에서 전투에 참가했다. 전 세계적으로 10,000여 대가 생산된 것으로 추정되고 있다. MiG-21은 오래된 전투기지만, 일부 보유국 중에서는 수년 전까지도 엔진, 센서, 무장 등의 개량 노력이 지속된 효율성 높은 전투기로서, 현재도 [인도](../Page/인도.md "wikilink"), [중화인민공화국](../Page/중화인민공화국.md "wikilink")(중국제 개량형 사용), [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink") 등지에서 운용하고 있다.
 
 초기에는 정보 부족으로 인해 비슷한 모양의 [수호이 Su-9](https://ko.wikipedia.org/wiki/수호이_Su-9 "wikilink") 전투기와 혼동되기도 했다. [제인스 인포메이션 그룹의](https://ko.wikipedia.org/wiki/제인스_인포메이션_그룹 "wikilink") "1960년\~1961년 세계 항공기" 에서는 (*All the World's Aircraft 1960-1961*) Su-9의 일러스트를 사용하여 Mig-21을 소개하기도 했다.
 
 북한은 미그 21 180대를 보유해 2010년 기준으로 북한 전투기 중 최다 보유를 하고 있다. 이에 남한도 [제공호](https://ko.wikipedia.org/wiki/제공호 "wikilink") 180대를 보유해 대응하고 있다. 남북한의 10톤급 전투기로서, 모두 2020년 경에 퇴역할 것으로 보도되고 있다.
 
-중국에서 [청두 J-7로](../Page/청두_J-7.md "wikilink") 후속 개발이 계속되었으며, 크게 개량하여 [FC-1](https://ko.wikipedia.org/wiki/FC-1 "wikilink")을 개발하였다. 북한이 최근 [FC-1](https://ko.wikipedia.org/wiki/FC-1 "wikilink")을 소량 도입하였다는 보도가 있다.
+중국에서 [청두 J-7로](../Page/청두_J-7.md "wikilink") 후속 개발이 계속되었으며, 크게 개량하여 [FC-1](../Page/FC-1.md "wikilink")을 개발하였다. 북한이 최근 [FC-1](../Page/FC-1.md "wikilink")을 소량 도입하였다는 보도가 있다.
 
 ## 개발 역사
 
@@ -17,7 +17,7 @@
 
 MiG-21은 1950년대 초/중반 이후 미국의 제트 폭격기 세력의 증가와 [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")의 전훈에 따라 개발이 시작되었다.
 
-1952년부터 미국 공군은 [B-47 폭격기를](https://ko.wikipedia.org/wiki/보잉_B-47_스트래토젯 "wikilink") 4년 동안 2,000대 배치했다. 마하 0.9급의 순항속도를 가진 이 폭격기는 [MiG-15](https://ko.wikipedia.org/wiki/MiG-15 "wikilink")와 [MiG-17](https://ko.wikipedia.org/wiki/MiG-17 "wikilink")을 무력하게 만들었으며, [MiG-19](https://ko.wikipedia.org/wiki/MiG-19 "wikilink")만이 겨우 대적할 수 있었다. 그런데 B-47보다 성능이 우수한 [B-52 폭격기가](https://ko.wikipedia.org/wiki/보잉_B-52_스트래토포트리스 "wikilink") 1952년 4월 17일에 첫 비행을 하고, 1955년 2월부터 실전 배치되기 시작하자 소련의 입장에서는 본토 방공에 심각한 위협을 느끼게 되었고, 이에 대처하기 위한 전투기의 개발이 더욱 절실해졌다. 또한 미국은 B-52 외에도 B-58 허슬러라는 마하 2급 폭격기도 배치하였다.
+1952년부터 미국 공군은 [B-47 폭격기를](../Page/보잉_B-47_스트래토젯.md "wikilink") 4년 동안 2,000대 배치했다. 마하 0.9급의 순항속도를 가진 이 폭격기는 [MiG-15](https://ko.wikipedia.org/wiki/MiG-15 "wikilink")와 [MiG-17](https://ko.wikipedia.org/wiki/MiG-17 "wikilink")을 무력하게 만들었으며, [MiG-19](https://ko.wikipedia.org/wiki/MiG-19 "wikilink")만이 겨우 대적할 수 있었다. 그런데 B-47보다 성능이 우수한 [B-52 폭격기가](../Page/보잉_B-52_스트래토포트리스.md "wikilink") 1952년 4월 17일에 첫 비행을 하고, 1955년 2월부터 실전 배치되기 시작하자 소련의 입장에서는 본토 방공에 심각한 위협을 느끼게 되었고, 이에 대처하기 위한 전투기의 개발이 더욱 절실해졌다. 또한 미국은 B-52 외에도 B-58 허슬러라는 마하 2급 폭격기도 배치하였다.
 
 [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")에서 교훈 또한 보다 고성능의 전투기 개발의 필요성이 대두했는데, [MiG-15](https://ko.wikipedia.org/wiki/MiG-15 "wikilink")로 초기에 성능상의 우위를 점유하였던 소련 전투기는 전쟁 후반에 들어서 미국 [F-86](https://ko.wikipedia.org/wiki/F-86 "wikilink")의 성능개선에 따라 공중전에서 10:1이라는 열세를 면치 못했다. 근거리 선회기동의 공중전에서 속도, 가속선회율, 상승율 등의 성능이 승패를 가름하는데 이에 대한 중요성이 다시 한번 확인되었다.
 
@@ -57,7 +57,7 @@ R-11엔진을 장비한 후퇴익기인 Ye-2A와 삼각익기인 Ye-5는 1956년
   -
 
       -
-        [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink")에서 'Fishbed A'로 명명한 이 최초의 양산형은 많은 대수가 생산되지 않았다. 비행조종계통에 아직도 더 개발해야 될 소지가 있었고, 성능상의 미비점이 발견됐다. 엔진은 추력이 부족했으며 엔진의 정비 주기가 100시간이라는 것은 소련의 기준으로서도 수락할 수 없는 것이었다. 초기형의 주 무장은 [빔펠 K-13](https://ko.wikipedia.org/wiki/빔펠_K-13 "wikilink")(NATO명 AA-2 '아톨') 공대공 미사일과 NR-30기관포였다. K-13A는 항적을 추적하는 열추적 단거리공대공미사일로서 다. 이 미사일은 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")과 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink") 간에 [금문도](https://ko.wikipedia.org/wiki/금문도 "wikilink") 상공에서 벌어진 [공중전](https://ko.wikipedia.org/wiki/금문도_공중전 "wikilink") 당시 중화인민공화국의 미그기에 박힌 채 불발된 미국의 [AIM-9 사이드와인더를](https://ko.wikipedia.org/wiki/AIM-9_사이드와인더 "wikilink") 역분해하여 개발된 것으로 알려졌다. 동체밑에는 MiG-19의 후기형에 장비된 것과 같은 영국의 아덴이나 프랑스의 데파, 미국의 M-39와 같은 회전식 기관포인 [NR-30 기관포가](https://ko.wikipedia.org/wiki/NR-30_기관포 "wikilink") 장착되었다. 이 기관포는 와 같은 형의 회전식기관포다. NR-30기관포는 MiG-21의 기수에 장착된 소형 레이다로부터 거리 정보를 받아 간단한 자이로스코프식 조준경을 사용해 사격한다.조종실의 구조는 간단해서 항법용 비콘수신기가 있고 적기까지 MiG-21을 유도할 수 있는 지대공 린크장치가 설계돼 있다. 비상 사출좌석은 특별히 경량설계되어 있으며, 캐노피는 앞으로 젖혀져 탈출시 조종사를 강풍에서 보호해 준다.
+        [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink")에서 'Fishbed A'로 명명한 이 최초의 양산형은 많은 대수가 생산되지 않았다. 비행조종계통에 아직도 더 개발해야 될 소지가 있었고, 성능상의 미비점이 발견됐다. 엔진은 추력이 부족했으며 엔진의 정비 주기가 100시간이라는 것은 소련의 기준으로서도 수락할 수 없는 것이었다. 초기형의 주 무장은 [빔펠 K-13](../Page/빔펠_K-13.md "wikilink")(NATO명 AA-2 '아톨') 공대공 미사일과 NR-30기관포였다. K-13A는 항적을 추적하는 열추적 단거리공대공미사일로서 다. 이 미사일은 [중화인민공화국](../Page/중화인민공화국.md "wikilink")과 [중화민국](../Page/중화민국.md "wikilink") 간에 [금문도](https://ko.wikipedia.org/wiki/금문도 "wikilink") 상공에서 벌어진 [공중전](https://ko.wikipedia.org/wiki/금문도_공중전 "wikilink") 당시 중화인민공화국의 미그기에 박힌 채 불발된 미국의 [AIM-9 사이드와인더를](../Page/AIM-9_사이드와인더.md "wikilink") 역분해하여 개발된 것으로 알려졌다. 동체밑에는 MiG-19의 후기형에 장비된 것과 같은 영국의 아덴이나 프랑스의 데파, 미국의 M-39와 같은 회전식 기관포인 [NR-30 기관포가](https://ko.wikipedia.org/wiki/NR-30_기관포 "wikilink") 장착되었다. 이 기관포는 와 같은 형의 회전식기관포다. NR-30기관포는 MiG-21의 기수에 장착된 소형 레이다로부터 거리 정보를 받아 간단한 자이로스코프식 조준경을 사용해 사격한다.조종실의 구조는 간단해서 항법용 비콘수신기가 있고 적기까지 MiG-21을 유도할 수 있는 지대공 린크장치가 설계돼 있다. 비상 사출좌석은 특별히 경량설계되어 있으며, 캐노피는 앞으로 젖혀져 탈출시 조종사를 강풍에서 보호해 준다.
 
 <!-- end list -->
 
@@ -85,18 +85,18 @@ R-11엔진을 장비한 후퇴익기인 Ye-2A와 삼각익기인 Ye-5는 1956년
   -
 
       -
-        MiG-21F형을 소폭 개량한 MiG-21F-13은 첫 번째 대량 생산 모델이다. MiG-21F-13은 [투만스키 R-11](https://ko.wikipedia.org/wiki/투만스키_R-11 "wikilink") 터보젯 엔진, [빔펠 K-13](https://ko.wikipedia.org/wiki/빔펠_K-13 "wikilink") 단거리 공대공 미사일과 1문의 [NR-30 30mm 기관포를](https://ko.wikipedia.org/wiki/NR-30_30mm_기관포 "wikilink") 탑재했다. **Type 74**는 [인도 공군용](https://ko.wikipedia.org/wiki/인도_공군 "wikilink") 기체이다. 중화인민공화국의 [쳉두 J-7과](https://ko.wikipedia.org/wiki/쳉두_J-7 "wikilink") J-7의 수출용인 [F-7 스카이볼트는](https://ko.wikipedia.org/wiki/F-7_스카이볼트 "wikilink") MiG-21F-13을 역분해하여 생산한 것이다.
+        MiG-21F형을 소폭 개량한 MiG-21F-13은 첫 번째 대량 생산 모델이다. MiG-21F-13은 [투만스키 R-11](https://ko.wikipedia.org/wiki/투만스키_R-11 "wikilink") 터보젯 엔진, [빔펠 K-13](../Page/빔펠_K-13.md "wikilink") 단거리 공대공 미사일과 1문의 [NR-30 30mm 기관포를](https://ko.wikipedia.org/wiki/NR-30_30mm_기관포 "wikilink") 탑재했다. **Type 74**는 [인도 공군용](https://ko.wikipedia.org/wiki/인도_공군 "wikilink") 기체이다. 중화인민공화국의 [쳉두 J-7과](https://ko.wikipedia.org/wiki/쳉두_J-7 "wikilink") J-7의 수출용인 [F-7 스카이볼트는](https://ko.wikipedia.org/wiki/F-7_스카이볼트 "wikilink") MiG-21F-13을 역분해하여 생산한 것이다.
 
 <!-- end list -->
 
-  - **[청두 J-7](../Page/청두_J-7.md "wikilink")** : [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 첫 번째 생산 모델.
+  - **[청두 J-7](../Page/청두_J-7.md "wikilink")** : [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 첫 번째 생산 모델.
 
 <!-- end list -->
 
   -
 
       -
-        MiG-21F-13처럼, 단좌식, 단거리 주간 전투기로 개발되었다. 워펜 WP-7 엔진을 사용했다. [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")와 [탄자니아](https://ko.wikipedia.org/wiki/탄자니아 "wikilink")에 **F-7A**라는 이름으로 수출되었다. 1960년대초에는 수 대의 MiG-21이 중국에 인도됐고, 그 해 후반에 [중소관계가 급격히 악화되자](https://ko.wikipedia.org/wiki/중국-소련_국경_분쟁 "wikilink"), 소련의 기술 원조는 중단됐다. 이에 중국은 신속히 MiG-21의 기체, 엔진, 미사일 등을 지안항공기공장에서 해체 분석해, 1964년 12월에 '젠(Jian) J-7'로 명명한 중국 최초의 제트 전투기를 첫 비행시켰다. R-11F의 엔진의 복제형은 WP-7B라는 이름으로 셍양엔진공장에서 1960년대 후반부터 생산되고 있다. 1982년에는 중국이 J-7 전투기 80대를 [이집트](https://ko.wikipedia.org/wiki/이집트 "wikilink")에 인도했는데, 이 형은 캐노피의 개페방식이 변경되고 레이다 경부수신기등의 전자장비가 추가됐다. 그 외에도 J-7기가 이집트에서 조립돼 [이라크](https://ko.wikipedia.org/wiki/이라크 "wikilink")에 인도된 것도 있다.
+        MiG-21F-13처럼, 단좌식, 단거리 주간 전투기로 개발되었다. 워펜 WP-7 엔진을 사용했다. [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")와 [탄자니아](../Page/탄자니아.md "wikilink")에 **F-7A**라는 이름으로 수출되었다. 1960년대초에는 수 대의 MiG-21이 중국에 인도됐고, 그 해 후반에 [중소관계가 급격히 악화되자](https://ko.wikipedia.org/wiki/중국-소련_국경_분쟁 "wikilink"), 소련의 기술 원조는 중단됐다. 이에 중국은 신속히 MiG-21의 기체, 엔진, 미사일 등을 지안항공기공장에서 해체 분석해, 1964년 12월에 '젠(Jian) J-7'로 명명한 중국 최초의 제트 전투기를 첫 비행시켰다. R-11F의 엔진의 복제형은 WP-7B라는 이름으로 셍양엔진공장에서 1960년대 후반부터 생산되고 있다. 1982년에는 중국이 J-7 전투기 80대를 [이집트](../Page/이집트.md "wikilink")에 인도했는데, 이 형은 캐노피의 개페방식이 변경되고 레이다 경부수신기등의 전자장비가 추가됐다. 그 외에도 J-7기가 이집트에서 조립돼 [이라크](../Page/이라크.md "wikilink")에 인도된 것도 있다.
 
 <!-- end list -->
 
@@ -111,7 +111,7 @@ R-11엔진을 장비한 후퇴익기인 Ye-2A와 삼각익기인 Ye-5는 1956년
 
 <!-- end list -->
 
-  - **MiG-21I** (NATO: **아날로그**) : [초음속 수송기](https://ko.wikipedia.org/wiki/초음속_수송기 "wikilink") [투폴레프 Tu-144의](https://ko.wikipedia.org/wiki/투폴레프_Tu-144 "wikilink") 설계를 위한 테스트용 기체.
+  - **MiG-21I** (NATO: **아날로그**) : [초음속 수송기](https://ko.wikipedia.org/wiki/초음속_수송기 "wikilink") [투폴레프 Tu-144의](../Page/투폴레프_Tu-144.md "wikilink") 설계를 위한 테스트용 기체.
   - **MiG-21SPS** : 동독군용 MiG-21
   - **MiG-21P** (NATO: **피쉬베드D**) : 1인승 단좌식 제한된 능력을 가진 전천후 요격전투기. [공대공 미사일로만](https://ko.wikipedia.org/wiki/공대공_미사일 "wikilink") 무장했다. 나토에서 **피쉬베드E**로 부르기도 한다.
   - **MiG-21PF** (NATO: **피쉬베드D**) : 1인승 단좌식 제한적 전천후 전투기로서 2세대 MiG21이다.
@@ -198,12 +198,12 @@ R-11엔진을 장비한 후퇴익기인 Ye-2A와 삼각익기인 Ye-5는 1956년
   - **F-7MP** : 파키스탄 수출형
   - **F-7P 스카이볼트** : 파키스탄 수출형
   - **G15 VMT** :
-  - **J-7G** : [HMS](https://ko.wikipedia.org/wiki/HMS "wikilink")와 레이다가 연동되어 [PL-8](https://ko.wikipedia.org/wiki/PL-8 "wikilink"), [PL-9](https://ko.wikipedia.org/wiki/PL-9 "wikilink") 공대공 미사일을 조준할 수 있다.
+  - **J-7G** : [HMS](https://ko.wikipedia.org/wiki/HMS "wikilink")와 레이다가 연동되어 [PL-8](https://ko.wikipedia.org/wiki/PL-8 "wikilink"), [PL-9](../Page/PL-9.md "wikilink") 공대공 미사일을 조준할 수 있다.
 
 ### 업그레이드 프로그램
 
   - MiG-21-93
-    러시아는 현재 MiG-21 후기형을 **MiG-21-93**로 업그레이하는 패키지를 제공하고 있다. 이 패키지에는 항법장비의 개량과, [MiG-29](https://ko.wikipedia.org/wiki/MiG-29 "wikilink")에서 사용되는 [N010 Zhuk](https://ko.wikipedia.org/wiki/N010_Zhuk "wikilink") 레이다의 소형 버전인 *Kopyo* 펄스 도플러 레이다의 장착이 포함되어 있다. 이를 통해 비가시거리인 [빔펠 R-77을](https://ko.wikipedia.org/wiki/빔펠_R-77 "wikilink") 발사할 수 있다. 듀얼 스크린 HUD, 헬멧 마운트 목표지시기, 고성능 FCS가 포함된다.
+    러시아는 현재 MiG-21 후기형을 **MiG-21-93**로 업그레이하는 패키지를 제공하고 있다. 이 패키지에는 항법장비의 개량과, [MiG-29](https://ko.wikipedia.org/wiki/MiG-29 "wikilink")에서 사용되는 [N010 Zhuk](https://ko.wikipedia.org/wiki/N010_Zhuk "wikilink") 레이다의 소형 버전인 *Kopyo* 펄스 도플러 레이다의 장착이 포함되어 있다. 이를 통해 비가시거리인 [빔펠 R-77을](../Page/빔펠_R-77.md "wikilink") 발사할 수 있다. 듀얼 스크린 HUD, 헬멧 마운트 목표지시기, 고성능 FCS가 포함된다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MiG-21-2000_NTW_7_8_93.jpg "wikilink")
 
@@ -215,14 +215,14 @@ R-11엔진을 장비한 후퇴익기인 Ye-2A와 삼각익기인 Ye-5는 1956년
 [섬네일](https://ko.wikipedia.org/wiki/파일:MiG-21_LanceR_C.JPG "wikilink")\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:MiG-21UMLancerB.jpg "wikilink") MiG-21 UM LanceR-B\]\]
 
   -
-    [루마니아 공군을](https://ko.wikipedia.org/wiki/루마니아_공군 "wikilink") 위한 업그레이드 버전. 이스라엘 [엘빗](https://ko.wikipedia.org/wiki/엘빗 "wikilink")사와 루마니아 [Aerostar SA사가](https://ko.wikipedia.org/wiki/Aerostar_SA "wikilink") 참여했다. LanceR-A 버전은 동서방의 정밀폭격무기 장착이 가능한 지상 공격용이다. R-60, [빔펠 R-73](https://ko.wikipedia.org/wiki/빔펠_R-73 "wikilink"), [파이톤 3](https://ko.wikipedia.org/wiki/파이톤_3 "wikilink") 공대공 미사일도 장착한다. LanceR-B 버전은 훈련기 버전이며, LanceR-C 버전은 요격기 버전이다. 2개의 LCD MFD, 헬멧 마운트 사이트, [엘타](https://ko.wikipedia.org/wiki/엘타 "wikilink") [EL/M-2032](https://ko.wikipedia.org/wiki/EL/M-2032 "wikilink") 레이다를 장착했다.[1](https://web.archive.org/web/20111020034732/http://defense-update.com/news/lancer.htm)
+    [루마니아 공군을](https://ko.wikipedia.org/wiki/루마니아_공군 "wikilink") 위한 업그레이드 버전. 이스라엘 [엘빗](https://ko.wikipedia.org/wiki/엘빗 "wikilink")사와 루마니아 [Aerostar SA사가](https://ko.wikipedia.org/wiki/Aerostar_SA "wikilink") 참여했다. LanceR-A 버전은 동서방의 정밀폭격무기 장착이 가능한 지상 공격용이다. R-60, [빔펠 R-73](../Page/빔펠_R-73.md "wikilink"), [파이톤 3](https://ko.wikipedia.org/wiki/파이톤_3 "wikilink") 공대공 미사일도 장착한다. LanceR-B 버전은 훈련기 버전이며, LanceR-C 버전은 요격기 버전이다. 2개의 LCD MFD, 헬멧 마운트 사이트, [엘타](https://ko.wikipedia.org/wiki/엘타 "wikilink") [EL/M-2032](https://ko.wikipedia.org/wiki/EL/M-2032 "wikilink") 레이다를 장착했다.[1](https://web.archive.org/web/20111020034732/http://defense-update.com/news/lancer.htm)
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sheeju_mig21.JPG "wikilink") MiG-21 Bison\]\]
 
   - MiG-21 Bison
-    수출형 버전. [인도 공군이](https://ko.wikipedia.org/wiki/인도_공군 "wikilink") 첫구매 했다. Kopyo 레이다를 장착했다. 이 레이다는 동시에 8개의 목표물을 추적하며, [빔펠 R-27과](https://ko.wikipedia.org/wiki/빔펠_R-27 "wikilink") 같은 세미액티브레이다 유도 미사일 2개를 동시에 지시해 줄 수 있으며, 액티브레이다 유도 미사일인 [빔펠 R-77도](https://ko.wikipedia.org/wiki/빔펠_R-77 "wikilink") 발사할 수 있게 한다. 러시아는 이 버전이 초기형 F-16과 동등한 성능을 지닌다고 주장했다. 인도와 미국간의 합동공중전에서 F-15 와 F-16에 대항해 좋은 성능을 발휘했다.
+    수출형 버전. [인도 공군이](https://ko.wikipedia.org/wiki/인도_공군 "wikilink") 첫구매 했다. Kopyo 레이다를 장착했다. 이 레이다는 동시에 8개의 목표물을 추적하며, [빔펠 R-27과](../Page/빔펠_R-27.md "wikilink") 같은 세미액티브레이다 유도 미사일 2개를 동시에 지시해 줄 수 있으며, 액티브레이다 유도 미사일인 [빔펠 R-77도](../Page/빔펠_R-77.md "wikilink") 발사할 수 있게 한다. 러시아는 이 버전이 초기형 F-16과 동등한 성능을 지닌다고 주장했다. 인도와 미국간의 합동공중전에서 F-15 와 F-16에 대항해 좋은 성능을 발휘했다.
   - MiG-21-97
-    MiG-21-93을 업그레이드 했다. MiG-29에서 사용하는 [클리모프 RD-33](https://ko.wikipedia.org/wiki/클리모프_RD-33 "wikilink") 엔진을 장착했다. 러시아는 [Ramenskoye Airport에서의](https://ko.wikipedia.org/wiki/Ramenskoye_Airport "wikilink") 가상공중전에서 [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink") 전투기를 4:1로 이긴다고 주장했다.
+    MiG-21-93을 업그레이드 했다. MiG-29에서 사용하는 [클리모프 RD-33](../Page/클리모프_RD-33.md "wikilink") 엔진을 장착했다. 러시아는 [Ramenskoye Airport에서의](https://ko.wikipedia.org/wiki/Ramenskoye_Airport "wikilink") 가상공중전에서 [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink") 전투기를 4:1로 이긴다고 주장했다.
 
 ## 제원
 
@@ -266,7 +266,7 @@ R-11엔진을 장비한 후퇴익기인 Ye-2A와 삼각익기인 Ye-5는 1956년
 
 :\* 1500kg무장장착대 4개
 
-:\* [빔펠 K-13](https://ko.wikipedia.org/wiki/빔펠_K-13 "wikilink")(나토명 : AA-2 아톨) 2발, [몰니야 R-60](https://ko.wikipedia.org/wiki/몰니야_R-60 "wikilink")(나토명 AA-8 아피드) 2발
+:\* [빔펠 K-13](../Page/빔펠_K-13.md "wikilink")(나토명 : AA-2 아톨) 2발, [몰니야 R-60](https://ko.wikipedia.org/wiki/몰니야_R-60 "wikilink")(나토명 AA-8 아피드) 2발
 
 :\* 폭탄 및 로켓
 
@@ -316,7 +316,7 @@ R-11엔진을 장비한 후퇴익기인 Ye-2A와 삼각익기인 Ye-5는 1956년
 
 :\* 1500kg무장장착대 4개
 
-:\* [빔펠 K-13](https://ko.wikipedia.org/wiki/빔펠_K-13 "wikilink")(나토명: AA-2 아톨) 2발, [몰니야 R-60](https://ko.wikipedia.org/wiki/몰니야_R-60 "wikilink")(나토명 AA-8 아피드) 2발
+:\* [빔펠 K-13](../Page/빔펠_K-13.md "wikilink")(나토명: AA-2 아톨) 2발, [몰니야 R-60](https://ko.wikipedia.org/wiki/몰니야_R-60 "wikilink")(나토명 AA-8 아피드) 2발
 
 :\* 폭탄 및 로켓
 
@@ -445,25 +445,25 @@ MiG-21은 개발 이후 여러 전쟁에서 실전에 참가했다.
 
   - [인도-파키스탄 전쟁](../Page/인도-파키스탄_전쟁.md "wikilink")
 
-[인도](https://ko.wikipedia.org/wiki/인도 "wikilink")와 [파키스탄](https://ko.wikipedia.org/wiki/파키스탄 "wikilink")은 모두 MiG-21을 운용하고 있었다. 파키스탄의 MiG-21은 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")에서 독자적으로 Mig-21을 개량한 [청두 J-7의](../Page/청두_J-7.md "wikilink") 개량형 중 하나인 J-7MP를 운용했다. 인도공군은 운용중인 Mig-21 bis와 M/MF 128대를 Mig-21-93 바이슨으로 개량해 2015년까지 운용할 예정이다.
+[인도](../Page/인도.md "wikilink")와 [파키스탄](../Page/파키스탄.md "wikilink")은 모두 MiG-21을 운용하고 있었다. 파키스탄의 MiG-21은 [중화인민공화국](../Page/중화인민공화국.md "wikilink")에서 독자적으로 Mig-21을 개량한 [청두 J-7의](../Page/청두_J-7.md "wikilink") 개량형 중 하나인 J-7MP를 운용했다. 인도공군은 운용중인 Mig-21 bis와 M/MF 128대를 Mig-21-93 바이슨으로 개량해 2015년까지 운용할 예정이다.
 
   - [중동 전쟁](https://ko.wikipedia.org/wiki/중동_전쟁 "wikilink")
 
-1960년대와 1970년대에 걸쳐 [이집트](https://ko.wikipedia.org/wiki/이집트 "wikilink"), [이라크](https://ko.wikipedia.org/wiki/이라크 "wikilink"), [시리아](https://ko.wikipedia.org/wiki/시리아 "wikilink")의 MiG-21이 [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink")과의 중동 전쟁에서 투입되었다. 1960년대에는 이스라엘 공군의 [F-4 팬텀과](https://ko.wikipedia.org/wiki/F-4_팬텀 "wikilink") [A-4 스카이호크와](https://ko.wikipedia.org/wiki/더글러스_A-4_스카이호크 "wikilink") 싸웠으며, 1980년대에는 [F-15 이글이나](https://ko.wikipedia.org/wiki/F-15_이글 "wikilink") [F-16 파이팅팰콘과](https://ko.wikipedia.org/wiki/F-16_파이팅팰콘 "wikilink") 싸웠다. 1960년대에 중동 국가에 MiG-21이 대량 공급되었지만, [3차 중동 전쟁에서는](https://ko.wikipedia.org/wiki/3차_중동_전쟁 "wikilink") [이스라엘 공군의](https://ko.wikipedia.org/wiki/이스라엘_공군 "wikilink") 선제 공격으로 지상에서 파괴되어 실제 전투는 치러보지 못했다. 하지만, 이후에도 상당수의 MiG-21이 중동 국가에 보급되었다. [소련의 아프가니스탄 침공](https://ko.wikipedia.org/wiki/소련의_아프가니스탄_침공 "wikilink") 당시 초기 단계에서 투입되기도 했다.
+1960년대와 1970년대에 걸쳐 [이집트](../Page/이집트.md "wikilink"), [이라크](../Page/이라크.md "wikilink"), [시리아](../Page/시리아.md "wikilink")의 MiG-21이 [이스라엘](../Page/이스라엘.md "wikilink")과의 중동 전쟁에서 투입되었다. 1960년대에는 이스라엘 공군의 [F-4 팬텀과](https://ko.wikipedia.org/wiki/F-4_팬텀 "wikilink") [A-4 스카이호크와](../Page/더글러스_A-4_스카이호크.md "wikilink") 싸웠으며, 1980년대에는 [F-15 이글이나](https://ko.wikipedia.org/wiki/F-15_이글 "wikilink") [F-16 파이팅팰콘과](https://ko.wikipedia.org/wiki/F-16_파이팅팰콘 "wikilink") 싸웠다. 1960년대에 중동 국가에 MiG-21이 대량 공급되었지만, [3차 중동 전쟁에서는](https://ko.wikipedia.org/wiki/3차_중동_전쟁 "wikilink") [이스라엘 공군의](https://ko.wikipedia.org/wiki/이스라엘_공군 "wikilink") 선제 공격으로 지상에서 파괴되어 실제 전투는 치러보지 못했다. 하지만, 이후에도 상당수의 MiG-21이 중동 국가에 보급되었다. [소련의 아프가니스탄 침공](https://ko.wikipedia.org/wiki/소련의_아프가니스탄_침공 "wikilink") 당시 초기 단계에서 투입되기도 했다.
 
-  - [베트남 전쟁](https://ko.wikipedia.org/wiki/베트남_전쟁 "wikilink")
+  - [베트남 전쟁](../Page/베트남_전쟁.md "wikilink")
 
-1965년말 MiG-21PF형이 북베트남 공군에 제공되었다. 임무는 비교적 좁은 지역에서 방공작전이었고, 소련에서 공급된 레이다와 지대공유도탄, 그리고 관제시스템이 통합 운용되었다. 북베트남 공군은 [미국 공군](../Page/미국_공군.md "wikilink") 및 [미국 해군의](https://ko.wikipedia.org/wiki/미국_해군 "wikilink") 폭격기나 전투기들이 접근하면 [긴급 출격하여](https://ko.wikipedia.org/wiki/긴급_출격 "wikilink") 지상 레이다 관제소의 정확한 유도하에 적기에 대한 요격 임무를 수행했다. 분명히 MiG-21은 초기의 F-4에 비해 근접공중전에서 우월했으나, 시야와 기동성에 제한이 있어 전쟁기간 중 시종 수세에 몰렸다. 하지만 미국은 MiG-21과 격투전에 상당히 고생한 끝에 전투기 조종사들의 [근접격투전](https://ko.wikipedia.org/wiki/근접격투전 "wikilink") 능력(소위 "독파이트, dog fight") 배양을 위해 [탑건](https://ko.wikipedia.org/wiki/탑건 "wikilink")(Top Gun)제도를 시행하게 되었다.
+1965년말 MiG-21PF형이 북베트남 공군에 제공되었다. 임무는 비교적 좁은 지역에서 방공작전이었고, 소련에서 공급된 레이다와 지대공유도탄, 그리고 관제시스템이 통합 운용되었다. 북베트남 공군은 [미국 공군](../Page/미국_공군.md "wikilink") 및 [미국 해군의](../Page/미국_해군.md "wikilink") 폭격기나 전투기들이 접근하면 [긴급 출격하여](https://ko.wikipedia.org/wiki/긴급_출격 "wikilink") 지상 레이다 관제소의 정확한 유도하에 적기에 대한 요격 임무를 수행했다. 분명히 MiG-21은 초기의 F-4에 비해 근접공중전에서 우월했으나, 시야와 기동성에 제한이 있어 전쟁기간 중 시종 수세에 몰렸다. 하지만 미국은 MiG-21과 격투전에 상당히 고생한 끝에 전투기 조종사들의 [근접격투전](https://ko.wikipedia.org/wiki/근접격투전 "wikilink") 능력(소위 "독파이트, dog fight") 배양을 위해 [탑건](../Page/탑건.md "wikilink")(Top Gun)제도를 시행하게 되었다.
 
-  - [유고슬라비아 전쟁](https://ko.wikipedia.org/wiki/유고슬라비아_전쟁 "wikilink")
+  - [유고슬라비아 전쟁](../Page/유고슬라비아_전쟁.md "wikilink")
 
-유고슬라비아는 [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") 소련에서 MiG-21을 구입했다.당시 유고슬라비아가 소련으로부터 구입한 MiG-21 전투기는 MIG-21F-13형이었으나 이후 MiG-21PFM형,M형,MF형,BiS형등 다양한 형태의 MiG-21 전투기들을 소련으로부터 대량 구입했고, 1970,80년대 당시 유고슬라비아 공군이 운용하던 MiG-21 전투기의 댓수는 100대를 넘을 정도였다.그러나 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 유고슬라비아 연방에 속해있던 슬로베니아 공화국과 크로아티아 공화국이 연방에서 탈퇴,분리 독립을 선포하면서 유고슬라비아 연방은 여러개의 나라들로 쪼개져 분열,붕괴되기 시작했고 이에 유고슬라비아 정부가 연방에서 탈퇴한 두 공화국들을 상대로 군사적 침공을 감행하면서 이로 인해 유고슬라비아는 사실상 전쟁 상태에 돌입했는데 전쟁 과정에서 유고슬라비아 공군의 MiG-21 전투기들이 실전에 투입되어 크로아티아와 슬로베니아로 침공하는 유고슬라비아 육군을 지원하는 역할을 담당했다.그러나 전쟁 와중에 크로아티아도 유고슬라비아 공군에서 탈출하여 크로아티아측으로 귀순한 크로아티아계 출신 조종사들이 몰고 온 MiG-21 기체 3대를 확보하고 옛 소련에서 분리 독립되어 나온 우크라이나로부터 MiG-21 25대를 비밀리에 밀수도입하여 MiG-21을 공군 전투기로 운용했다.이후 유고슬라비아 공군의 MiG-21은 크로아티아,보스니아,코소보등 계속되는 구 유고 지역의 전쟁으로 파괴되거나 손실되어 그 수가 줄었고 유고슬라비아 전쟁 이후 남아있던 유고슬라비아 공군의 MiG-21 기체들은 유고슬라비아 연방에서 분리독립되어 나온 세르비아 공화국에 승계되어 현재 세르비아 [공군](https://ko.wikipedia.org/wiki/공군 "wikilink")에서 운용 중이다.
+유고슬라비아는 [1962년](../Page/1962년.md "wikilink") 소련에서 MiG-21을 구입했다.당시 유고슬라비아가 소련으로부터 구입한 MiG-21 전투기는 MIG-21F-13형이었으나 이후 MiG-21PFM형,M형,MF형,BiS형등 다양한 형태의 MiG-21 전투기들을 소련으로부터 대량 구입했고, 1970,80년대 당시 유고슬라비아 공군이 운용하던 MiG-21 전투기의 댓수는 100대를 넘을 정도였다.그러나 [1991년](../Page/1991년.md "wikilink") 유고슬라비아 연방에 속해있던 슬로베니아 공화국과 크로아티아 공화국이 연방에서 탈퇴,분리 독립을 선포하면서 유고슬라비아 연방은 여러개의 나라들로 쪼개져 분열,붕괴되기 시작했고 이에 유고슬라비아 정부가 연방에서 탈퇴한 두 공화국들을 상대로 군사적 침공을 감행하면서 이로 인해 유고슬라비아는 사실상 전쟁 상태에 돌입했는데 전쟁 과정에서 유고슬라비아 공군의 MiG-21 전투기들이 실전에 투입되어 크로아티아와 슬로베니아로 침공하는 유고슬라비아 육군을 지원하는 역할을 담당했다.그러나 전쟁 와중에 크로아티아도 유고슬라비아 공군에서 탈출하여 크로아티아측으로 귀순한 크로아티아계 출신 조종사들이 몰고 온 MiG-21 기체 3대를 확보하고 옛 소련에서 분리 독립되어 나온 우크라이나로부터 MiG-21 25대를 비밀리에 밀수도입하여 MiG-21을 공군 전투기로 운용했다.이후 유고슬라비아 공군의 MiG-21은 크로아티아,보스니아,코소보등 계속되는 구 유고 지역의 전쟁으로 파괴되거나 손실되어 그 수가 줄었고 유고슬라비아 전쟁 이후 남아있던 유고슬라비아 공군의 MiG-21 기체들은 유고슬라비아 연방에서 분리독립되어 나온 세르비아 공화국에 승계되어 현재 세르비아 [공군](https://ko.wikipedia.org/wiki/공군 "wikilink")에서 운용 중이다.
 
 ## 북한
 
 ### 미그21bis
 
-1999년 7월 북한은 [카자흐스탄](https://ko.wikipedia.org/wiki/카자흐스탄 "wikilink")에서 미그21bis 40대를 부품으로 수입해 조립했다.\[2\] 카자흐스탄 외무장관은 38대를 정부승인 없이 부품으로 밀수했으며, 미그기 반환을 북한에 요구했으나, 북한은 수입한 사실 자체를 부인했다.\[3\]
+1999년 7월 북한은 [카자흐스탄](../Page/카자흐스탄.md "wikilink")에서 미그21bis 40대를 부품으로 수입해 조립했다.\[2\] 카자흐스탄 외무장관은 38대를 정부승인 없이 부품으로 밀수했으며, 미그기 반환을 북한에 요구했으나, 북한은 수입한 사실 자체를 부인했다.\[3\]
 
 한국 김대중 정부는 카자흐스탄에 항의하였으며, 미국도 우려를 표시했다. 이 밀매사건에 연루된 [무크타르 알틴바예프](https://ko.wikipedia.org/wiki/무크타르_알틴바예프 "wikilink") 국방장관, [누르타이 아비카예프](https://ko.wikipedia.org/wiki/누르타이_아비카예프 "wikilink") 국가안보위원회(KGB) 위원장이 해고되었으며, 기업인 [알렉산더 페트렌코가](https://ko.wikipedia.org/wiki/알렉산더_페트렌코 "wikilink") 기소되었다.\[4\] 그러나, [무크타르 알틴바예프](https://ko.wikipedia.org/wiki/무크타르_알틴바예프 "wikilink") 국방장관은 무죄판결을 받고 다시 국방장관이 되었고, 기업인은 5년형을 받았으나 사면되었다. [무크타르 알틴바예프](https://ko.wikipedia.org/wiki/무크타르_알틴바예프 "wikilink") 국방장관은 다시 임명된 후, 900대의 전투기 중 600대를 중고로 수출해야 한다고 주장했다.\[5\]
 
@@ -471,9 +471,9 @@ MiG-21은 개발 이후 여러 전쟁에서 실전에 참가했다.
 
 2000년 7월 19일 러시아 일간신문 [브레먀 MN은](https://ko.wikipedia.org/wiki/브레먀_MN "wikilink") 북한이 수입한 미그기가 사실상 비행능력을 상실한 것에 불과하다고 평가했다.\[7\]
 
-2013년 7월 북한은 [쿠바](https://ko.wikipedia.org/wiki/쿠바 "wikilink")에서 미그21bis 2대와 엔진 15개를 수입하려다 적발되었다. 쿠바 외교부는 수출이 아니라 쿠바 전투기이며 수리를 위해 북한에 보내려던 것이라고 변명하였다. 미그21bis는 1972년 이후에 생산된 것으로서, 미그21 시리즈 중에서 가장 대형인 Tumanskiy R25-300 터보젯 엔진을 장착했다.
+2013년 7월 북한은 [쿠바](../Page/쿠바.md "wikilink")에서 미그21bis 2대와 엔진 15개를 수입하려다 적발되었다. 쿠바 외교부는 수출이 아니라 쿠바 전투기이며 수리를 위해 북한에 보내려던 것이라고 변명하였다. 미그21bis는 1972년 이후에 생산된 것으로서, 미그21 시리즈 중에서 가장 대형인 Tumanskiy R25-300 터보젯 엔진을 장착했다.
 
-인도는 1980년 부터 1987년까지 미그21bis를 라이센스 생산하였으며, 2000년을 전후해 미그21bison으로 개량하였다. 인도미국 연합공군훈련에서 미그21bison은 F-15와 F-16에 대적하여 상당한 성능을 보였다. 러시아는 미그21bison이 F-16 초기형의 성능을 가진다고 주장한다. 미그21bison은 [파조트론](https://ko.wikipedia.org/wiki/파조트론 "wikilink")사의 코표 레이다를 장착하여 8개 목표물 동시추적과 그 중 2개 목표물을 동시공격할 수 있으며, 사거리가 100 km가 넘는 러시아판 [암람 미사일인](https://ko.wikipedia.org/wiki/암람_미사일 "wikilink") [빔펠 R-77을](https://ko.wikipedia.org/wiki/빔펠_R-77 "wikilink") 발사할 수 있다.
+인도는 1980년 부터 1987년까지 미그21bis를 라이센스 생산하였으며, 2000년을 전후해 미그21bison으로 개량하였다. 인도미국 연합공군훈련에서 미그21bison은 F-15와 F-16에 대적하여 상당한 성능을 보였다. 러시아는 미그21bison이 F-16 초기형의 성능을 가진다고 주장한다. 미그21bison은 [파조트론](https://ko.wikipedia.org/wiki/파조트론 "wikilink")사의 코표 레이다를 장착하여 8개 목표물 동시추적과 그 중 2개 목표물을 동시공격할 수 있으며, 사거리가 100 km가 넘는 러시아판 [암람 미사일인](https://ko.wikipedia.org/wiki/암람_미사일 "wikilink") [빔펠 R-77을](../Page/빔펠_R-77.md "wikilink") 발사할 수 있다.
 
 한편, 2013년 기준으로 미그21 최신 업그레이드 버전은 미그-21 bison 바로 다음에 나온 미그-21-97이다. 1997년에 처음 개조되었으며, 미그21bis 보다 더 고출력인 [미그29](https://ko.wikipedia.org/wiki/미그29 "wikilink")의 [RD-33](https://ko.wikipedia.org/wiki/RD-33 "wikilink") 엔진을 장착했다. 러시아는 공중전에서 [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink")을 4대 1로 이긴다고 주장한다.
 

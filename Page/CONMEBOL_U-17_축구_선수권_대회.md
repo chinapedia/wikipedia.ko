@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CONMEBOL U-17   ](https://ko.wikipedia.org/wiki/CONMEBOL_U-17___).
 
 
-**CONMEBOL U-17 축구 선수권 대회**는 [남미 축구 연맹](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink")(CONMEBOL)에서 주최하는 17세 미만 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 선수권 대회이다. [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")에 창설되면서부터 격년마다 열리고 있으며 [FIFA U-17 월드컵의](https://ko.wikipedia.org/wiki/FIFA_U-17_월드컵 "wikilink") 남아메리카 지역 예선을 겸한다.
+**CONMEBOL U-17 축구 선수권 대회**는 [남미 축구 연맹](../Page/남미_축구_연맹.md "wikilink")(CONMEBOL)에서 주최하는 17세 미만 [축구](../Page/축구.md "wikilink") 선수권 대회이다. [1985년](../Page/1985년.md "wikilink")에 창설되면서부터 격년마다 열리고 있으며 [FIFA U-17 월드컵의](../Page/FIFA_U-17_월드컵.md "wikilink") 남아메리카 지역 예선을 겸한다.
 
 {{-}}
 
