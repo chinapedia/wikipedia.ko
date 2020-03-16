@@ -5,7 +5,7 @@
 
 ## 설명
 
-2012 런던 올림픽 MBC 공식 응원가인 〈Fly High〉는 [안영민](https://ko.wikipedia.org/wiki/안영민 "wikilink"), 이도윤이 작사하였고 M To M의 리더 및 보컬인 손준혁이 작곡한 곡이다.
+2012 런던 올림픽 MBC 공식 응원가인 〈Fly High〉는 [안영민](../Page/안영민.md "wikilink"), 이도윤이 작사하였고 M To M의 리더 및 보컬인 손준혁이 작곡한 곡이다.
 
 ## 수록곡
 

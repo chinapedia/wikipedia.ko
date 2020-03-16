@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K album](https://ko.wikipedia.org/wiki/K_album).
 
 
-《**K album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 12번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") 발매. 최고순위는 1위이다.
+《**K album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 12번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [2011년](../Page/2011년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") 발매. 최고순위는 1위이다.
 
 K album의 'K'는 絆(きずな=**K**izuna/인연)・軌跡(きせき=**K**iseki/궤적)・感謝(かんしゃ=**K**ansha/감사)・感動(かんどう=**K**andou/감동)를 의미한다.
 또한 **K**in**K**i **K**ids의 **'K**'이기도 하며 이번 앨범의 테마 중 하나인 '인연'에 주목해, 지금까지 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 곡들의 작사, 작곡을 해준 이들에게 곡을 제공받은 기념앨범이다. 이번 앨범에 곡을 제공한 33명 중 29명이 과거에 발매한 싱글 또는 앨범에 곡을 제공하고 있다.
@@ -11,7 +11,7 @@ K album의 'K'는 絆(きずな=**K**izuna/인연)・軌跡(きせき=**K**iseki
 1.  **願う以上のこと 祈る以上のこと**
       -
         작사: 吉田美和(요시다 미와)　작곡: 中村正人(나카무라 마사토)　편곡: 武部聡志(타케베 사토시)
-        19번째 싱글 「ね、がんばるよ。」를 제공해준 [DREAMS COME TRUE가](https://ko.wikipedia.org/wiki/DREAMS_COME_TRUE "wikilink") 제공한 곡이다
+        19번째 싱글 「ね、がんばるよ。」를 제공해준 [DREAMS COME TRUE가](../Page/DREAMS_COME_TRUE.md "wikilink") 제공한 곡이다
         편곡자인 타케베 사토시는 4번째 싱글「全部だきしめて」의 편곡을 담당해 주었다
 2.  **同窓会**
       -
@@ -20,8 +20,8 @@ K album의 'K'는 絆(きずな=**K**izuna/인연)・軌跡(きせき=**K**iseki
         21번째 싱글「ビロードの闇」, 23번째 싱글「夏模様」의 작곡을 담당해준 하야시다 켄지가 제공한 곡이다
 3.  **危険な関係**
       -
-        작사・작곡: 吉田拓郎([요시다 타쿠로](https://ko.wikipedia.org/wiki/요시다_타쿠로 "wikilink"))　편곡: CHOKKAKU
-        4번째 싱글「全部だきしめて」를 만들어준 [요시다 타쿠로가](https://ko.wikipedia.org/wiki/요시다_타쿠로 "wikilink") 제공한 곡이다
+        작사・작곡: 吉田拓郎([요시다 타쿠로](../Page/요시다_타쿠로.md "wikilink"))　편곡: CHOKKAKU
+        4번째 싱글「全部だきしめて」를 만들어준 [요시다 타쿠로가](../Page/요시다_타쿠로.md "wikilink") 제공한 곡이다
 4.  **ラジコン**
       -
         작사: 松本隆(마츠모토 타카시)　작곡: 筒美京平(츠츠미 쿄헤이)　편곡: 船山基紀(후나야마 모토키)
@@ -32,7 +32,7 @@ K album의 'K'는 絆(きずな=**K**izuna/인연)・軌跡(きせき=**K**iseki
         20번째 싱글 「Anniversary」외 많은 곡을 작사해준 Satomi와 2번째 싱글 「愛されるより 愛したい」의 작곡을 담당해준 마카이노 코지가 제공한 곡이다
 6.  **Family 〜ひとつになること〜**
       -
-        작사: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink"))　작곡: 堂本光一([도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink"))　편곡: 吉田建(요시다 켄)
+        작사: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink"))　작곡: 堂本光一([도모토 코이치](../Page/도모토_코이치.md "wikilink"))　편곡: 吉田建(요시다 켄)
         [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 30번째 싱글
 7.  **いのちの最後のひとしずく**
       -
@@ -49,8 +49,8 @@ K album의 'K'는 絆(きずな=**K**izuna/인연)・軌跡(きせき=**K**iseki
         13번째 싱글 「Hey\! みんな元気かい?」의 작사・작곡을 담당해준 YO-KING가 제공한 곡이다
 10. **破滅的Passion**
       -
-        작사: 秋元康([아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink"))　작곡: 伊秩弘将(이지치 히로마사)　편곡: ha-j
-        22번째 싱글 「SNOW\! SNOW\! SNOW\!」의 작사를 담당해준 [아키모토 야스시와](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 작곡을 담당해준 이지치 히로마사가 제공한 곡이다
+        작사: 秋元康([아키모토 야스시](../Page/아키모토_야스시.md "wikilink"))　작곡: 伊秩弘将(이지치 히로마사)　편곡: ha-j
+        22번째 싱글 「SNOW\! SNOW\! SNOW\!」의 작사를 담당해준 [아키모토 야스시와](../Page/아키모토_야스시.md "wikilink") 작곡을 담당해준 이지치 히로마사가 제공한 곡이다
 11. **2nd Movement**
       -
         작사・작곡: 井手コウジ(이데 코우지)　편곡: 鈴木雅也(스즈키 마사야)
@@ -72,6 +72,6 @@ K album의 'K'는 絆(きずな=**K**izuna/인연)・軌跡(きせき=**K**iseki
 
   - 통상반 수록
     15.　**Family 〜ひとつになること \[Unplugged\]**
-    작사: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink")) 작곡: 堂本光一([도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink")) 편곡: 武部聡志(타케베 사토시)
+    작사: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink")) 작곡: 堂本光一([도모토 코이치](../Page/도모토_코이치.md "wikilink")) 편곡: 武部聡志(타케베 사토시)
 
 [분류:2011년 음반](https://ko.wikipedia.org/wiki/분류:2011년_음반 "wikilink") [분류:킨키 키즈의 음반](https://ko.wikipedia.org/wiki/분류:킨키_키즈의_음반 "wikilink") [분류:2011년 오리콘 앨범 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2011년_오리콘_앨범_차트_1위_작품 "wikilink")

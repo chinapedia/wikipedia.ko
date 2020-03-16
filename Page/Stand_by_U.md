@@ -6,9 +6,9 @@
 ## 개요
 
   - 〈[Share The World/ウィーアー\!](https://ko.wikipedia.org/wiki/Share_The_World/We_Are! "wikilink")〉이후 약 3개월 만에 발매한 싱글이다.
-  - 베스트 앨범 〈[BEST SELECTION 2010](https://ko.wikipedia.org/wiki/BEST_SELECTION_2010 "wikilink")〉에 수록된 첫 정식 싱글이다.
+  - 베스트 앨범 〈[BEST SELECTION 2010](../Page/BEST_SELECTION_2010.md "wikilink")〉에 수록된 첫 정식 싱글이다.
   - 8번째 싱글 〈Sky〉가 보너스 트랙으로 수록되었다. (비기스트반 제외)
-  - 이 곡을 통해 5인 동방신기의 공식적인 마지막 무대였던 [NHK 홍백가합전에](https://ko.wikipedia.org/wiki/NHK_홍백가합전 "wikilink") 출전하였다.
+  - 이 곡을 통해 5인 동방신기의 공식적인 마지막 무대였던 [NHK 홍백가합전에](../Page/NHK_홍백가합전.md "wikilink") 출전하였다.
 
 ## 수록곡
 
@@ -42,7 +42,7 @@
 </tr>
 <tr class="odd">
 <td><p>Sky</p></td>
-<td><p>일본 <a href="https://ko.wikipedia.org/wiki/배스킨라빈스" title="wikilink">배스킨라빈스</a> TV CM<br />
+<td><p>일본 <a href="../Page/배스킨라빈스.md" title="wikilink">배스킨라빈스</a> TV CM<br />
 'music-jp' TV CM</p></td>
 </tr>
 </tbody>

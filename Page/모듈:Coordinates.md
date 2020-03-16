@@ -21,7 +21,7 @@ local current_page = mw.title.getCurrentTitle() local page_name = mw.uri.encode(
 
 \--[Helper function, replacement for ](https://ko.wikipedia.org/wiki/Helper_function,_replacement_for_{{coord/display/title}} "wikilink") local function displaytitle(s, notes)
 
-`   local l = "`[`좌표`](https://ko.wikipedia.org/wiki/지리_좌표계 "wikilink")`: " .. s`
+`   local l = "`[`좌표`](../Page/지리_좌표계.md "wikilink")`: " .. s`
 `   local co = '`<span id="coordinates">`' .. l .. notes .. '`</span>`';`
 `   return '`<span style="font-size: small;">`' .. co .. '`</span>`';`
 

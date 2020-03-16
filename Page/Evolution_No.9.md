@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [Evolution No.9](https://ko.wikipedia.org/wiki/Evolution_No.9).
 
 
-〈**Evolution No.9**〉(에볼루션 넘버 나인)은 [9nine](https://ko.wikipedia.org/wiki/9nine "wikilink")의 14번째 싱글이다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 12일에](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") SME Records로부터 발매되었다.
+〈**Evolution No.9**〉(에볼루션 넘버 나인)은 [9nine](../Page/9nine.md "wikilink")의 14번째 싱글이다. [2013년](../Page/2013년.md "wikilink") [6월 12일에](../Page/6월_12일.md "wikilink") SME Records로부터 발매되었다.
 
 ## 개요
 
-전작「[colorful](https://ko.wikipedia.org/wiki/Colorful_\(9nine의_노래\) "wikilink")」로 부터 4개월만에 발매되는 2013년 제2탄 싱글이다. 타이틀 곡은 [카와시마 우미카출연의](https://ko.wikipedia.org/wiki/카와시마_우미카 "wikilink") [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink")계 연속드라마 탱크톱 파이터의 오프닝 테마. 『통상판』의 외에 「Evolution No.9」의 뮤직비디오와 Dance Shot 버전이 수록된 『초회생산한정판A』, 12페이지의 포토북이 있는 『초회생산한정판B』의 3가지 형태로 발매되었다.
+전작「[colorful](../Page/Colorful_\(9nine의_노래\).md "wikilink")」로 부터 4개월만에 발매되는 2013년 제2탄 싱글이다. 타이틀 곡은 [카와시마 우미카출연의](../Page/카와시마_우미카.md "wikilink") [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink")계 연속드라마 탱크톱 파이터의 오프닝 테마. 『통상판』의 외에 「Evolution No.9」의 뮤직비디오와 Dance Shot 버전이 수록된 『초회생산한정판A』, 12페이지의 포토북이 있는 『초회생산한정판B』의 3가지 형태로 발매되었다.
 
 ## 수록곡
 
 1.  **Evolution No.9** \[3 : 58\]
       - 작사・작곡 : 101, 편곡 : 101・나카무라 타이치
 2.  : 맴버들이 「후렴구가 어딘지 모르겠다」, 「정말로 싱글곡인가」라고 말하는 곡\[1\]。
-3.  : 간주부분에서는 [베토벤의](https://ko.wikipedia.org/wiki/루트비히_판_베토벤 "wikilink") [교향곡 9번이](https://ko.wikipedia.org/wiki/교향곡_9번_\(베토벤\) "wikilink") 멜로디의 일부로 사용되었다.
+3.  : 간주부분에서는 [베토벤의](../Page/루트비히_판_베토벤.md "wikilink") [교향곡 9번이](../Page/교향곡_9번_\(베토벤\).md "wikilink") 멜로디의 일부로 사용되었다.
 4.  **Just A 사랑 (Just A 恋)** \[4 : 21\]
       - 작사 : 히로이즘, 작곡 : 이토 히로유키, 편곡 : 노마 코우스케
 5.  **아네모네모네 (アネモネもね)** \[3 : 01\]

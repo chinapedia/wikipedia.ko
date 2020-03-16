@@ -1,6 +1,6 @@
 > This article is converted from Wikipedia: [Like a G6](https://ko.wikipedia.org/wiki/Like_a_G6).
 
 
-**Like a G6**는 미국의 일렉트로 힙합 그룹 [파 이스트 무브먼트의](https://ko.wikipedia.org/wiki/파_이스트_무브먼트 "wikilink") 노래이다. [더 카터랙스와](https://ko.wikipedia.org/wiki/더_카터랙스 "wikilink") [데브](https://ko.wikipedia.org/wiki/데브 "wikilink")가 피쳐링에 참여했으며, 앨범 [Like a G6에](../Page/Like_a_G6.md "wikilink") 수록되어 있다. [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 차트에서 3주동안 1위를 한 곡이기도 하다.
+**Like a G6**는 미국의 일렉트로 힙합 그룹 [파 이스트 무브먼트의](../Page/파_이스트_무브먼트.md "wikilink") 노래이다. [더 카터랙스와](https://ko.wikipedia.org/wiki/더_카터랙스 "wikilink") [데브](../Page/데브.md "wikilink")가 피쳐링에 참여했으며, 앨범 [Like a G6에](../Page/Like_a_G6.md "wikilink") 수록되어 있다. [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 3주동안 1위를 한 곡이기도 하다.
 
 [분류:파 이스트 무브먼트의 노래](https://ko.wikipedia.org/wiki/분류:파_이스트_무브먼트의_노래 "wikilink") [분류:더 카터랙스의 노래](https://ko.wikipedia.org/wiki/분류:더_카터랙스의_노래 "wikilink") [분류:데브의 노래](https://ko.wikipedia.org/wiki/분류:데브의_노래 "wikilink") [분류:2010년 싱글](https://ko.wikipedia.org/wiki/분류:2010년_싱글 "wikilink") [분류:2010년 노래](https://ko.wikipedia.org/wiki/분류:2010년_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:술을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:술을_소재로_한_노래 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink")

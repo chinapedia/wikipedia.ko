@@ -1,24 +1,24 @@
 > This article is converted from Wikipedia: [ VS ](https://ko.wikipedia.org/wiki/_VS_).
 
 
-《**여선생 VS 여제자**》()는 2004년 개봉한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 코미디 영화이다.
+《**여선생 VS 여제자**》()는 2004년 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 코미디 영화이다.
 
 ## 캐스팅
 
-  - [염정아](https://ko.wikipedia.org/wiki/염정아 "wikilink") : 여미옥 역
-  - [이세영](https://ko.wikipedia.org/wiki/이세영_\(배우\) "wikilink") : 고미남 역
+  - [염정아](../Page/염정아.md "wikilink") : 여미옥 역
+  - [이세영](../Page/이세영_\(배우\).md "wikilink") : 고미남 역
   - [이지훈](https://ko.wikipedia.org/wiki/이지훈_\(1979년\) "wikilink") : 권상춘 역
-  - [변희봉](https://ko.wikipedia.org/wiki/변희봉 "wikilink") : 교장 역
-  - [나문희](https://ko.wikipedia.org/wiki/나문희 "wikilink") : 미옥 모 역
-  - [최란](https://ko.wikipedia.org/wiki/최란 "wikilink") : 미남 모 역
+  - [변희봉](../Page/변희봉.md "wikilink") : 교장 역
+  - [나문희](../Page/나문희.md "wikilink") : 미옥 모 역
+  - [최란](../Page/최란.md "wikilink") : 미남 모 역
   - 서지원 : 안경수 역
   - 이지영 : 임경아 역
   - 황예슬 : 민초희 역
   - 김가람 : 조아영 역
   - 김금지 : 정정애 역
-  - [김응수](https://ko.wikipedia.org/wiki/김응수_\(배우\) "wikilink") : 교감 역
-  - [이재구](https://ko.wikipedia.org/wiki/이재구_\(배우\) "wikilink") : 김준성 역
-  - [하덕성](https://ko.wikipedia.org/wiki/하덕성 "wikilink") : 반동만 역
+  - [김응수](../Page/김응수_\(배우\).md "wikilink") : 교감 역
+  - [이재구](../Page/이재구_\(배우\).md "wikilink") : 김준성 역
+  - [하덕성](../Page/하덕성.md "wikilink") : 반동만 역
   - [최보광](https://ko.wikipedia.org/wiki/최정인_\(배우\) "wikilink") : 장수경 역
   - [김정영](../Page/김정영.md "wikilink") : 양경미 역
   - 박길순 : 유부녀여선생 역
@@ -45,7 +45,7 @@
   - 김양규 : 5학년2반학생 역
   - 김지혜 : 5학년2반학생 역
   - 김진호 : 5학년2반학생 역
-  - [김환영](https://ko.wikipedia.org/wiki/김환영 "wikilink") : 5학년2반학생 역
+  - [김환영](../Page/김환영.md "wikilink") : 5학년2반학생 역
   - 박소라 : 5학년2반학생 역
   - 오은석 : 5학년2반학생 역
   - 이동혁 : 5학년2반학생 역
@@ -65,9 +65,9 @@
   - 박숙경 : 송림초교사 역
   - 박채용 : 송림초교사 역
   - 설영문 : 송림초교사 역
-  - [임원희](https://ko.wikipedia.org/wiki/임원희 "wikilink") : 드라마남 역 (특별출연)
-  - [이원종](https://ko.wikipedia.org/wiki/이원종_\(1966년\) "wikilink") : 고참경찰 역 (특별출연)
-  - [차승원](https://ko.wikipedia.org/wiki/차승원 "wikilink") : 김봉두 역 (특별출연)
+  - [임원희](../Page/임원희.md "wikilink") : 드라마남 역 (특별출연)
+  - [이원종](../Page/이원종_\(1966년\).md "wikilink") : 고참경찰 역 (특별출연)
+  - [차승원](../Page/차승원.md "wikilink") : 김봉두 역 (특별출연)
 
 ## 외부 링크
 

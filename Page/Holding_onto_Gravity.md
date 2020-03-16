@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Holding onto Gravity](https://ko.wikipedia.org/wiki/Holding_onto_Gravity).
 
 
-《**Holding onto Gravity**》는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 3일에](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") 발매된 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 비정규 싱글 앨범이다. 2장의 싱글과 1장의 정규 앨범으로 완성될 “Gravity 3부작” 시리즈의 첫 앨범으로, [김종완은](https://ko.wikipedia.org/wiki/김종완_\(1980년\) "wikilink") "중력이라는 건 항상 존재하는 거지만 우린 잘 느끼지 못하잖아요. 우리의 감정도 그런 것 같아요. 외로움, 기쁨 등 어떤 감정이든 늘 느끼고 있으면서도 존재 자체를 잘 인식하지 못하죠. 그런 상황을 중력에 빗대어 표현했다"라고 설명한 바 있다. 타이틀 곡인 〈**백야**〉는 공개 직후 온라인 음악 차트 상위권을 차지했다.
+《**Holding onto Gravity**》는 [2012년](../Page/2012년.md "wikilink") [12월 3일에](../Page/12월_3일.md "wikilink") 발매된 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 비정규 싱글 앨범이다. 2장의 싱글과 1장의 정규 앨범으로 완성될 “Gravity 3부작” 시리즈의 첫 앨범으로, [김종완은](https://ko.wikipedia.org/wiki/김종완_\(1980년\) "wikilink") "중력이라는 건 항상 존재하는 거지만 우린 잘 느끼지 못하잖아요. 우리의 감정도 그런 것 같아요. 외로움, 기쁨 등 어떤 감정이든 늘 느끼고 있으면서도 존재 자체를 잘 인식하지 못하죠. 그런 상황을 중력에 빗대어 표현했다"라고 설명한 바 있다. 타이틀 곡인 〈**백야**〉는 공개 직후 온라인 음악 차트 상위권을 차지했다.
 
 ## 수록곡
 

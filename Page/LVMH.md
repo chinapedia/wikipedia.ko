@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LVMH](https://ko.wikipedia.org/wiki/LVMH).
 
 
-**LVMH 모엣 헤네시 • 루이 비통**(LVMH Moët Hennessy • Louis Vuitton S.A.) 또는 간단히 **LVMH**는 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink") [파리에](https://ko.wikipedia.org/wiki/파리_\(프랑스\) "wikilink") 본사를 두고 있는 [다국적](https://ko.wikipedia.org/wiki/다국적_기업 "wikilink") [럭셔리 그룹이다](https://ko.wikipedia.org/wiki/럭셔리_그룹 "wikilink"). 이 회사는 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [루이비통](https://ko.wikipedia.org/wiki/루이비통 "wikilink") [패션하우스](https://ko.wikipedia.org/wiki/패션하우스 "wikilink")와 모엣 헤네시(Moët Hennessy)의 합병으로 이루어졌다. 모엣 헤네시 사는 [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [모엣 샹동](https://ko.wikipedia.org/wiki/모엣_샹동 "wikilink")(Moët & Chandon)과 [헤네시](https://ko.wikipedia.org/wiki/헤네시 "wikilink")(Hennessy) 사의 합병으로 이루어진 회사다.\[1\]\[2\]\[3\] 이 회사는 약 60개의 고품격 브랜드의 [법인](https://ko.wikipedia.org/wiki/법인 "wikilink")들을 관리한다. 이 법인들은 종종 독립적으로 경영되기도 한다. 가장 오래된 LVMH 브랜드는 [1593년](https://ko.wikipedia.org/wiki/1593년 "wikilink") 설립된 와인 제조사인 [Château d'Yquem이다](https://ko.wikipedia.org/wiki/Château_d'Yquem "wikilink").\[4\]
+**LVMH 모엣 헤네시 • 루이 비통**(LVMH Moët Hennessy • Louis Vuitton S.A.) 또는 간단히 **LVMH**는 [프랑스](../Page/프랑스.md "wikilink") [파리에](../Page/파리_\(프랑스\).md "wikilink") 본사를 두고 있는 [다국적](../Page/다국적_기업.md "wikilink") [럭셔리 그룹이다](https://ko.wikipedia.org/wiki/럭셔리_그룹 "wikilink"). 이 회사는 [1987년](../Page/1987년.md "wikilink") [루이비통](../Page/루이비통.md "wikilink") [패션하우스](https://ko.wikipedia.org/wiki/패션하우스 "wikilink")와 모엣 헤네시(Moët Hennessy)의 합병으로 이루어졌다. 모엣 헤네시 사는 [1971년](../Page/1971년.md "wikilink") [모엣 샹동](https://ko.wikipedia.org/wiki/모엣_샹동 "wikilink")(Moët & Chandon)과 [헤네시](../Page/헤네시.md "wikilink")(Hennessy) 사의 합병으로 이루어진 회사다.\[1\]\[2\]\[3\] 이 회사는 약 60개의 고품격 브랜드의 [법인](../Page/법인.md "wikilink")들을 관리한다. 이 법인들은 종종 독립적으로 경영되기도 한다. 가장 오래된 LVMH 브랜드는 [1593년](https://ko.wikipedia.org/wiki/1593년 "wikilink") 설립된 와인 제조사인 [Château d'Yquem이다](https://ko.wikipedia.org/wiki/Château_d'Yquem "wikilink").\[4\]
 
 ## 재무 자료
 
@@ -18,7 +18,7 @@ LVMH가 소유한 유명 자회사와 브랜드\[10\]\[11\] \[12\]
 | Company                                                                  | Sector            |
 | ------------------------------------------------------------------------ | ----------------- |
 | [모엣 샹동(Moët et Chandon)](https://ko.wikipedia.org/wiki/모엣_샹동 "wikilink") | Wines and Spirits |
-| [헤네시](https://ko.wikipedia.org/wiki/헤네시 "wikilink")(Hennessy)            | Wines and Spirits |
+| [헤네시](../Page/헤네시.md "wikilink")(Hennessy)                               | Wines and Spirits |
 | [디오르(Dior)](https://ko.wikipedia.org/wiki/크리스티앙_디오르_\(기업\) "wikilink")   | 패션                |
 | [펜디](../Page/펜디.md "wikilink")(Fendi)                                    | 의류 및 잡화           |
 | [도나 카란(Donna Karan)](https://ko.wikipedia.org/wiki/도나_카란 "wikilink")     | 의류 및 잡화           |
@@ -26,7 +26,7 @@ LVMH가 소유한 유명 자회사와 브랜드\[10\]\[11\] \[12\]
 | [지방시(Givenchy)](https://ko.wikipedia.org/wiki/지방시_\(브랜드\) "wikilink")    | 의류 및 잡화           |
 | [겐조](https://ko.wikipedia.org/wiki/겐조 "wikilink")(Kenzo_Takada)         | 의류 및 잡화           |
 | [벨루티](https://ko.wikipedia.org/wiki/벨루티 "wikilink")(Berluti)             | 의류 및 잡화           |
-| [루이비통 Vuitton)](https://ko.wikipedia.org/wiki/루이비통 "wikilink")(Louis     | 의류 및 잡화           |
+| [루이비통 Vuitton)](../Page/루이비통.md "wikilink")(Louis                        | 의류 및 잡화           |
 | [마크 제이콥스(Marc Jacobs)](https://ko.wikipedia.org/wiki/마크_제이콥스 "wikilink") | 의류 및 잡화           |
 | [셀린느](https://ko.wikipedia.org/wiki/셀린느 "wikilink")(Céline)              | 의류 및 잡화           |
 | [태그 호이어(TAG Heuer)](https://ko.wikipedia.org/wiki/태그_호이어 "wikilink")     | 시계 및 보석           |

@@ -14,14 +14,14 @@
 
 ## 차트
 
-| 차트 (2003)                                                                                                                  | 순위 |
-| :------------------------------------------------------------------------------------------------------------------------- | :-: |
-| US [Billboard](https://ko.wikipedia.org/wiki/빌보드 "wikilink") [Hot 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") | 83 |
-| US Billboard [Hot R\&B/Hip-Hop Songs](https://ko.wikipedia.org/wiki/핫_R&B/힙합_송스 "wikilink")                                | 71 |
+| 차트 (2003)                                                                                   | 순위 |
+| :------------------------------------------------------------------------------------------ | :-: |
+| US [Billboard](../Page/빌보드.md "wikilink") [Hot 100](../Page/빌보드_핫_100.md "wikilink")        | 83 |
+| US Billboard [Hot R\&B/Hip-Hop Songs](https://ko.wikipedia.org/wiki/핫_R&B/힙합_송스 "wikilink") | 71 |
 
 ## 긱스 버전
 
-"**Officially Missing You**"는 대한민국의 음악 그룹 [긱스의](https://ko.wikipedia.org/wiki/긱스_\(남성_듀오\) "wikilink") 데뷔곡으로, 타미아의 동명의 노래를 리메이크 한 것이다. 2012년 11월 1일에는 [씨스타](https://ko.wikipedia.org/wiki/씨스타 "wikilink")의 멤버 [소유가](https://ko.wikipedia.org/wiki/소유_\(가수\) "wikilink") 피처링한 노래를 다시 발매하였다.
+"**Officially Missing You**"는 대한민국의 음악 그룹 [긱스의](https://ko.wikipedia.org/wiki/긱스_\(남성_듀오\) "wikilink") 데뷔곡으로, 타미아의 동명의 노래를 리메이크 한 것이다. 2012년 11월 1일에는 [씨스타](../Page/씨스타.md "wikilink")의 멤버 [소유가](../Page/소유_\(가수\).md "wikilink") 피처링한 노래를 다시 발매하였다.
 
 ### 악동뮤지션 & 방예담 버전
 

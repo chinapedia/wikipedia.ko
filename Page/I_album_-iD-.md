@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I album -iD-](https://ko.wikipedia.org/wiki/I_album_-iD-).
 
 
-《**I album -iD-**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 9번째 앨범이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") 발매. 최고순위는 1위이다. 부제인 'iD'는 두 사람의 이름의 영문명인 Koich**i D**omoto・Tsuyosh**i D**omoto를 뜻한다.
+《**I album -iD-**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 9번째 앨범이다. [2006년](../Page/2006년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") 발매. 최고순위는 1위이다. 부제인 'iD'는 두 사람의 이름의 영문명인 Koich**i D**omoto・Tsuyosh**i D**omoto를 뜻한다.
 
 ## 수록곡
 
@@ -13,7 +13,7 @@
         작사: 上田ケンジ(우에다 켄지)　편곡: 本間昭光(혼마 아키미츠)　편곡: 家原正樹(이에하라 마사키)
 3.  **SNOW\! SNOW\! SNOW\!**
       -
-        작사: 秋元康([아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink"))　작곡: 伊秩弘将(이지치 히로마사)　편곡: 家原正樹(이에하라 마사키)
+        작사: 秋元康([아키모토 야스시](../Page/아키모토_야스시.md "wikilink"))　작곡: 伊秩弘将(이지치 히로마사)　편곡: 家原正樹(이에하라 마사키)
         [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 22번째 싱글
 4.  **iD -the World of Gimmicks-**
       -
@@ -24,11 +24,11 @@
         [도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink") 솔로곡
 6.  **futari**
       -
-        작사: 堂本光一([도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink"))　작곡: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink"))　편곡: 吉田建(요시다 켄)
+        작사: 堂本光一([도모토 코이치](../Page/도모토_코이치.md "wikilink"))　작곡: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink"))　편곡: 吉田建(요시다 켄)
 7.  **Get it on**
       -
         작사: 白井裕紀(시라이 유키)/新美香(신 마카)　편곡: 井手コウジ(이데 코우지)　편곡: 鈴木雅也(스즈키 마사야)
-        [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 솔로곡
+        [도모토 코이치](../Page/도모토_코이치.md "wikilink") 솔로곡
 8.  **Black Joke**
       -
         작사: 前田たかひろ(우에다 타카히로)　작곡・편곡: U-SKE

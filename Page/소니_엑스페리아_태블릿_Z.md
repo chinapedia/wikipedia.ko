@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   Z](https://ko.wikipedia.org/wiki/___Z).
 
 
-**소니 엑스페리아 태블릿 Z**(Sony Xperia Tablet Z)는 [소니 모바일 커뮤니케이션스에서](https://ko.wikipedia.org/wiki/소니_모바일_커뮤니케이션스 "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 출시한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [태블릿 컴퓨터이다](https://ko.wikipedia.org/wiki/태블릿_컴퓨터 "wikilink").
+**소니 엑스페리아 태블릿 Z**(Sony Xperia Tablet Z)는 [소니 모바일 커뮤니케이션스에서](../Page/소니_모바일_커뮤니케이션스.md "wikilink") [2013년](../Page/2013년.md "wikilink") [4월](../Page/4월.md "wikilink")에 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [태블릿 컴퓨터이다](../Page/태블릿_컴퓨터.md "wikilink").
 
 ## 방수/방진
 
@@ -13,7 +13,7 @@
 
 ## 성능별 버전
 
-소니 엑스페리아 태블릿 Z는 2가지 버전이 있는데, [4G](https://ko.wikipedia.org/wiki/4세대_이동통신 "wikilink") 버전과 [Wi-Fi](https://ko.wikipedia.org/wiki/와이파이 "wikilink") 버전이있다. 대한민국에는 와이파이 버전만 출시된다.\[1\]
+소니 엑스페리아 태블릿 Z는 2가지 버전이 있는데, [4G](https://ko.wikipedia.org/wiki/4세대_이동통신 "wikilink") 버전과 [Wi-Fi](../Page/와이파이.md "wikilink") 버전이있다. 대한민국에는 와이파이 버전만 출시된다.\[1\]
 
 ### 4G LTE 버전
 
@@ -42,7 +42,7 @@
 ## 경쟁 기종
 
   - [샤프 아쿠오스 패드](../Page/샤프_아쿠오스_패드.md "wikilink")
-  - [아이패드 (4세대)](https://ko.wikipedia.org/wiki/아이패드_\(4세대\) "wikilink")
+  - [아이패드 (4세대)](../Page/아이패드_\(4세대\).md "wikilink")
   - [아이패드 미니](../Page/아이패드_미니.md "wikilink")
   - [삼성 갤럭시 노트 8.0](../Page/삼성_갤럭시_노트_8.0.md "wikilink")
 

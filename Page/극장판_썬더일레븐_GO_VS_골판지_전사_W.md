@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  GO VS   W](https://ko.wikipedia.org/wiki/__GO_VS___W).
 
 
-**극장판 썬더일레븐 GO VS 골판지 전사 W**()는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 공개된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 애니메이션 영화이다. 약칭은 **이나단**()이다.
+**극장판 썬더일레븐 GO VS 골판지 전사 W**()는 [2012년](../Page/2012년.md "wikilink") 공개된 [일본](../Page/일본.md "wikilink")의 애니메이션 영화이다. 약칭은 **이나단**()이다.
 
 ## 개요
 
-《[썬더일레븐 GO](https://ko.wikipedia.org/wiki/썬더일레븐_GO "wikilink")》와 《[골판지전기 W](https://ko.wikipedia.org/wiki/골판지전기 "wikilink")》의 [크로스오버 작품이다](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink"). 이나즈마 일레븐 극장판 시리즈로는 3번째 작품에 해당하며, 골판지전기 극장판 시리즈로는 첫 작품이며, 두 작품이 본격적인 크로스오버를 할 것은 이 작품이 처음이다. 전 2작과 달리 3D로 제작되지는 않았다.
+《[썬더일레븐 GO](../Page/썬더일레븐_GO.md "wikilink")》와 《[골판지전기 W](../Page/골판지전기.md "wikilink")》의 [크로스오버 작품이다](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink"). 이나즈마 일레븐 극장판 시리즈로는 3번째 작품에 해당하며, 골판지전기 극장판 시리즈로는 첫 작품이며, 두 작품이 본격적인 크로스오버를 할 것은 이 작품이 처음이다. 전 2작과 달리 3D로 제작되지는 않았다.
 
 ## 외부 링크
 

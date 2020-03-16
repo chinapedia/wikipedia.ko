@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Seotaiji \& 20\(20th Anniversary Special Edition\)](https://ko.wikipedia.org/wiki/Seotaiji_\&_20\(20th_Anniversary_Special_Edition\)).
 
 
-**Seotaiji & 20(20th Anniversary Special Edition)**는 [서태지](https://ko.wikipedia.org/wiki/서태지 "wikilink") 데뷔 20주년을 기념한 음반으로 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")(iTunes)를 통해서만 발매한 음반이다.
+**Seotaiji & 20(20th Anniversary Special Edition)**는 [서태지](../Page/서태지.md "wikilink") 데뷔 20주년을 기념한 음반으로 [아이튠즈](../Page/아이튠즈.md "wikilink")(iTunes)를 통해서만 발매한 음반이다.
 
 ## 음반
 

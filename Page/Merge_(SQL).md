@@ -18,14 +18,14 @@
   - [Oracle Database](https://ko.wikipedia.org/wiki/Oracle_Database "wikilink")\[1\]
   - [DB2](https://ko.wikipedia.org/wiki/DB2 "wikilink")\[2\]
   - [Microsoft SQL Server](https://ko.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")\[3\]
-  - [Firebird](https://ko.wikipedia.org/wiki/파이어버드_\(데이터베이스\) "wikilink")\[4\]
+  - [Firebird](../Page/파이어버드_\(데이터베이스\).md "wikilink")\[4\]
 
 ## 비표준 구문
 
 데이터베이스 제품 중 일부는 비표준 구문에서 유사한 기능을 제공하는 것도 있다.
 
-  - [MySQL](https://ko.wikipedia.org/wiki/MySQL "wikilink")은 INSERT ... ON DUPLICATE KEY UPDATE 및 REPLACE 구문을 채용하고 있다.\[5\]\[6\]
-  - [SQLite](https://ko.wikipedia.org/wiki/SQLite "wikilink")는 INSERT OR REPLACE INTO와 REPLACE 구문을 채용하고 있다.\[7\]
+  - [MySQL](../Page/MySQL.md "wikilink")은 INSERT ... ON DUPLICATE KEY UPDATE 및 REPLACE 구문을 채용하고 있다.\[5\]\[6\]
+  - [SQLite](../Page/SQLite.md "wikilink")는 INSERT OR REPLACE INTO와 REPLACE 구문을 채용하고 있다.\[7\]
 
 ## 각주
 

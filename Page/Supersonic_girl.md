@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Supersonic girl](https://ko.wikipedia.org/wiki/Supersonic_girl).
 
 
-《**supersonic girl**》(슈퍼소닉 걸)은 [미즈키 나나의](https://ko.wikipedia.org/wiki/미즈키_나나 "wikilink") 첫 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월 5일에](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_MM_제작부 "wikilink") 발매되었다.
+《**supersonic girl**》(슈퍼소닉 걸)은 [미즈키 나나의](../Page/미즈키_나나.md "wikilink") 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [2001년](../Page/2001년.md "wikilink") [12월 5일에](../Page/12월_5일.md "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_MM_제작부 "wikilink") 발매되었다.
 
 ## 수록곡
 
@@ -12,7 +12,7 @@
       -
         작사:村野直球, 작곡:住吉中, 편곡:牧野信博
     <!-- end list -->
-      - [PS2](https://ko.wikipedia.org/wiki/PlayStation_2 "wikilink") [게임 소프트웨어](https://ko.wikipedia.org/wiki/게임_소프트웨어 "wikilink") 『[제네레이션 오브 카오스](https://ko.wikipedia.org/wiki/제네레이션_오브_카오스 "wikilink")』 [오프닝 테마](https://ko.wikipedia.org/wiki/주제가 "wikilink")
+      - [PS2](https://ko.wikipedia.org/wiki/PlayStation_2 "wikilink") [게임 소프트웨어](../Page/게임_소프트웨어.md "wikilink") 『[제네레이션 오브 카오스](https://ko.wikipedia.org/wiki/제네레이션_오브_카오스 "wikilink")』 [오프닝 테마](https://ko.wikipedia.org/wiki/주제가 "wikilink")
 3.  **supersonic girl** \[4:10\]
       -
         작사:村野直球, 작곡:住吉中, 편곡:牧野信博

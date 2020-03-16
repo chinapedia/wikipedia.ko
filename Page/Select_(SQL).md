@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Select \(SQL\)](https://ko.wikipedia.org/wiki/Select_\(SQL\)).
 
 
-[SQL](https://ko.wikipedia.org/wiki/SQL "wikilink") **SELECT**문은 하나 또는 그 이상의 [테이블에서](https://ko.wikipedia.org/wiki/테이블_\(데이터베이스\) "wikilink") 데이터를 추출하는 [SQL](https://ko.wikipedia.org/wiki/SQL "wikilink")의 [데이터 조작 언어](../Page/데이터_조작_언어.md "wikilink")(DML) 중 하나이다. 이것은 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink") 중 하나 또는 그 이상의 테이블에서 데이터를 추출하기 위한 명령으로 데이터 조작 언어 (DML)에서 가장 많이 사용된다. 프로그래머는 어떤 결과를 갖고 싶은 것인지를 SQL 문장으로 기술할 필요는 있지만, 그 결과를 얻기 위해 어떤 물리적인 작업이 수행되는 지를 지시하지 않아도, 데이터베이스 시스템(쿼리 최적화)이 SQL 문에서 최적의 쿼리 계획(실행 계획)을 작성한다.
+[SQL](../Page/SQL.md "wikilink") **SELECT**문은 하나 또는 그 이상의 [테이블에서](https://ko.wikipedia.org/wiki/테이블_\(데이터베이스\) "wikilink") 데이터를 추출하는 [SQL](../Page/SQL.md "wikilink")의 [데이터 조작 언어](../Page/데이터_조작_언어.md "wikilink")(DML) 중 하나이다. 이것은 [데이터베이스](../Page/데이터베이스.md "wikilink") 중 하나 또는 그 이상의 테이블에서 데이터를 추출하기 위한 명령으로 데이터 조작 언어 (DML)에서 가장 많이 사용된다. 프로그래머는 어떤 결과를 갖고 싶은 것인지를 SQL 문장으로 기술할 필요는 있지만, 그 결과를 얻기 위해 어떤 물리적인 작업이 수행되는 지를 지시하지 않아도, 데이터베이스 시스템(쿼리 최적화)이 SQL 문에서 최적의 쿼리 계획(실행 계획)을 작성한다.
 
 덧붙여 "테이블"은 "표", "행"은 "레코드", "열"은 "항목"이라고 부르기도 한다. 다음과 같은 선택 절을 가진다.
 

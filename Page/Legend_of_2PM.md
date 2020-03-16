@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Legend of 2PM](https://ko.wikipedia.org/wiki/Legend_of_2PM).
 
 
-《**Legend of 2PM**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 일본 두 번째 정규 앨범이다. 2013년 2월 13일 일본에서 세가지 버전으로 발매되었다.\[1\]
+《**Legend of 2PM**》은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 일본 두 번째 정규 앨범이다. 2013년 2월 13일 일본에서 세가지 버전으로 발매되었다.\[1\]
 
   - 통상판: CD\[2\]
   - 한정판 A: CD + DVD\[3\]

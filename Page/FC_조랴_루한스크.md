@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 조랴 루한스크**(는 1923년에 창단한 [우크라이나](https://ko.wikipedia.org/wiki/우크라이나 "wikilink")의 축구 클럽으로 [루한스크](https://ko.wikipedia.org/wiki/루한스크 "wikilink")를 연고지로 한다. 현재 [우크라이나 프리미어리그](https://ko.wikipedia.org/wiki/우크라이나_프리미어리그 "wikilink") 소속이다.
+**FC 조랴 루한스크**(는 1923년에 창단한 [우크라이나](../Page/우크라이나.md "wikilink")의 축구 클럽으로 [루한스크](../Page/루한스크.md "wikilink")를 연고지로 한다. 현재 [우크라이나 프리미어리그](../Page/우크라이나_프리미어리그.md "wikilink") 소속이다.
 
 ## 외부 링크
 

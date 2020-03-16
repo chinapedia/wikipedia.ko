@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Null \(SQL\)](https://ko.wikipedia.org/wiki/Null_\(SQL\)).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Db-omega.svg "wikilink") **NULL**은 [구조적 질의 언어](https://ko.wikipedia.org/wiki/구조적_질의_언어 "wikilink") (SQL)에서 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink") 내의 데이터 값이 존재하지 않는다는 것을 지시하는데 사용되는 특별한 표시어이다. 데이터베이스 [관계 모델의](https://ko.wikipedia.org/wiki/관계_모델 "wikilink") 창시자인 E. F. 콧(E. F. Codd)에 만들어진 개념으로, SQL NULL은 모든 true RDBMS가 빠진 정보와 적용할 수 없는 정보를 지원해야 한다는 요구사항을 충족시키는 역할을 한다. 콧은 또한 데이터베이스 이론에서 Null을 표현하기 위해 [그리스어](https://ko.wikipedia.org/wiki/그리스어 "wikilink")의 [오메가](https://ko.wikipedia.org/wiki/오메가 "wikilink")의 소문자(ω)를 이용할 것을 도입했다. NULL은 또한 SQL에서 Null 특수 표시를 구분하기 위해 사용되는 유보된 키워드이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Db-omega.svg "wikilink") **NULL**은 [구조적 질의 언어](https://ko.wikipedia.org/wiki/구조적_질의_언어 "wikilink") (SQL)에서 [데이터베이스](../Page/데이터베이스.md "wikilink") 내의 데이터 값이 존재하지 않는다는 것을 지시하는데 사용되는 특별한 표시어이다. 데이터베이스 [관계 모델의](https://ko.wikipedia.org/wiki/관계_모델 "wikilink") 창시자인 E. F. 콧(E. F. Codd)에 만들어진 개념으로, SQL NULL은 모든 true RDBMS가 빠진 정보와 적용할 수 없는 정보를 지원해야 한다는 요구사항을 충족시키는 역할을 한다. 콧은 또한 데이터베이스 이론에서 Null을 표현하기 위해 [그리스어](../Page/그리스어.md "wikilink")의 [오메가](https://ko.wikipedia.org/wiki/오메가 "wikilink")의 소문자(ω)를 이용할 것을 도입했다. NULL은 또한 SQL에서 Null 특수 표시를 구분하기 위해 사용되는 유보된 키워드이다.
 
 Null은 SQL 조인에서 사용하기 위해 필수적인 [3치 자궁로](https://ko.wikipedia.org/wiki/3치_자궁 "wikilink") 인해 논란의 중심이 되어 왔다. 컴퓨터 과학자인 론 밴 더 메이든 교수는 그러한 여러 문제를 다음과 같이 요약했다. SQL 표준에서 비일관성은 SQL에서 널의 취급 문제를 직관적인 논리 어휘 탓으로 돌리는 것은 가능하지 않다는 것을 의미하는 것이다.\[1\] 이 문제를 해결하기 위해 여러 해법들이 제시되었지만, 대안의 복잡성은 폭넓은 이론 확산의 걸림돌이 되었다.
 
@@ -9,9 +9,9 @@ Null은 SQL 조인에서 사용하기 위해 필수적인 [3치 자궁로](https
 
 ## 역사
 
-E. F. 콧(E. F. Codd)은 1975년 그의 논문 《*FDT Bulletin of ACM-SIGMOD*》에서 널을 빠진 데이터를 나타내는 수단으로서 언급했다. SQL에서 채택된 Null을 설명하기 위해 가장 보편적으로 인용되는 콧의 논문은 1979년 논문이었던 《*[ACM Transactions on Database Systems](https://ko.wikipedia.org/wiki/:w:ACM_Transactions_on_Database_Systems "wikilink")*》으로 비록 이후의 논문에서 많은 제안들 대부분이 모호한 채로 남아있지만, 여기에서 그는 또는 [관계 모델](https://ko.wikipedia.org/wiki/관계_모델 "wikilink")/태즈매니아를 소개했다. 1979년 논문 2.3장에는 수학적 연산에서의 널 보급의 세부적인 사항과 널 값을 비교할 때, [3가 논리를](https://ko.wikipedia.org/wiki/3가_논리 "wikilink") 이용하는 비교도 소개를 했다. 여기에는 또한 다른 연산자 셋과 Null을 취급하는 것도 소개를 했으며, 후자의 이슈는 오늘 날에도 여전히 논란이 많은 문제이다. 데이터베이 이론계에서는, 1975년과 1979년 제안한 콧의 원래 이론들이 지금은 ‘콧의 테이블’로 언급되고 있다.\[2\] 콧은 이후에 모든 RDBMS가 빠진 데이터를 지시하기 위해 Null에 지원해야할 그의 요구사항을 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") 《컴퓨터월드 매거진》에 기고한 2개의 글을 통해 보강했다.\[3\]\[4\]
+E. F. 콧(E. F. Codd)은 1975년 그의 논문 《*FDT Bulletin of ACM-SIGMOD*》에서 널을 빠진 데이터를 나타내는 수단으로서 언급했다. SQL에서 채택된 Null을 설명하기 위해 가장 보편적으로 인용되는 콧의 논문은 1979년 논문이었던 《*[ACM Transactions on Database Systems](https://ko.wikipedia.org/wiki/:w:ACM_Transactions_on_Database_Systems "wikilink")*》으로 비록 이후의 논문에서 많은 제안들 대부분이 모호한 채로 남아있지만, 여기에서 그는 또는 [관계 모델](https://ko.wikipedia.org/wiki/관계_모델 "wikilink")/태즈매니아를 소개했다. 1979년 논문 2.3장에는 수학적 연산에서의 널 보급의 세부적인 사항과 널 값을 비교할 때, [3가 논리를](https://ko.wikipedia.org/wiki/3가_논리 "wikilink") 이용하는 비교도 소개를 했다. 여기에는 또한 다른 연산자 셋과 Null을 취급하는 것도 소개를 했으며, 후자의 이슈는 오늘 날에도 여전히 논란이 많은 문제이다. 데이터베이 이론계에서는, 1975년과 1979년 제안한 콧의 원래 이론들이 지금은 ‘콧의 테이블’로 언급되고 있다.\[2\] 콧은 이후에 모든 RDBMS가 빠진 데이터를 지시하기 위해 Null에 지원해야할 그의 요구사항을 [1985년](../Page/1985년.md "wikilink") 《컴퓨터월드 매거진》에 기고한 2개의 글을 통해 보강했다.\[3\]\[4\]
 
-1986년 SQL 표준은 근본적으로 [IBM 시스템 R에서](https://ko.wikipedia.org/wiki/IBM_시스템_R "wikilink") 수행 포로토타입 이후 콧의 제안을 채택했다. 비록 돈 챔벌린은 널 값을 SQL에서 가장 논쟁적인 특징으로 규정했지만, 그는 빠진 정보를 설명하는 가장 비용이 적게 드는 시스템 지원이라는 실용적인 측면을 들어 SQL에서 널의 설계를 옹호했다.
+1986년 SQL 표준은 근본적으로 [IBM 시스템 R에서](../Page/IBM_시스템_R.md "wikilink") 수행 포로토타입 이후 콧의 제안을 채택했다. 비록 돈 챔벌린은 널 값을 SQL에서 가장 논쟁적인 특징으로 규정했지만, 그는 빠진 정보를 설명하는 가장 비용이 적게 드는 시스템 지원이라는 실용적인 측면을 들어 SQL에서 널의 설계를 옹호했다.
 
 ## Null 보급
 
@@ -57,7 +57,7 @@ SELECT NULL OR TRUE   -- 결과는 True
 
 ## 같이 보기
 
-  - [널 문자](https://ko.wikipedia.org/wiki/널_문자 "wikilink")
+  - [널 문자](../Page/널_문자.md "wikilink")
 
 ## 각주
 

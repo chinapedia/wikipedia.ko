@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ones](https://ko.wikipedia.org/wiki/Ones).
 
 
-《**Ones**》는 [셀레나](https://ko.wikipedia.org/wiki/셀레나 "wikilink") 첫 베스트 앨범이다. 2002년에 [EMI LATIN에서](https://ko.wikipedia.org/wiki/EMI "wikilink") 발표하였고, 미국에서 500,000 장을 판매했다. "Buenos Amigos", "Amor Prohibido", "Bidi Bidi Bom Bom", "No Me Queda Mas", "Fotos y Recuerdos", "Tu Solo Tu" 과 "Donde Quiera Que Estes" 유일한 번호를 하나의 곡이었다. 앨범에는 《[Ven Conmigo](https://ko.wikipedia.org/wiki/Ven_Conmigo "wikilink")》(1990), 《[Entre a Mi Mundo](https://ko.wikipedia.org/wiki/Entre_a_Mi_Mundo "wikilink")》(1992), 《[Selena Live\!](https://ko.wikipedia.org/wiki/Selena_Live! "wikilink")》(1993), 《[Amor Prohobido](https://ko.wikipedia.org/wiki/Amor_Prohobido "wikilink")》(1994), 《[Dreaming of You](https://ko.wikipedia.org/wiki/Dreaming_of_You "wikilink")》(1995) 의 수록곡들, 그리고 "Con Tanto Amor Medley"의 리믹스 버전들이 수록되었다.
+《**Ones**》는 [셀레나](../Page/셀레나.md "wikilink") 첫 베스트 앨범이다. 2002년에 [EMI LATIN에서](../Page/EMI.md "wikilink") 발표하였고, 미국에서 500,000 장을 판매했다. "Buenos Amigos", "Amor Prohibido", "Bidi Bidi Bom Bom", "No Me Queda Mas", "Fotos y Recuerdos", "Tu Solo Tu" 과 "Donde Quiera Que Estes" 유일한 번호를 하나의 곡이었다. 앨범에는 《[Ven Conmigo](https://ko.wikipedia.org/wiki/Ven_Conmigo "wikilink")》(1990), 《[Entre a Mi Mundo](https://ko.wikipedia.org/wiki/Entre_a_Mi_Mundo "wikilink")》(1992), 《[Selena Live\!](https://ko.wikipedia.org/wiki/Selena_Live! "wikilink")》(1993), 《[Amor Prohobido](https://ko.wikipedia.org/wiki/Amor_Prohobido "wikilink")》(1994), 《[Dreaming of You](../Page/Dreaming_of_You.md "wikilink")》(1995) 의 수록곡들, 그리고 "Con Tanto Amor Medley"의 리믹스 버전들이 수록되었다.
 
 ## 수록곡
 
@@ -41,7 +41,7 @@
 <tr class="header">
 <th><p>국가</p></th>
 <th><p>인증기관</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/음반_판매량_인증" title="wikilink">음반 판매량 인증</a></p></th>
+<th><p><a href="../Page/음반_판매량_인증.md" title="wikilink">음반 판매량 인증</a></p></th>
 <th><p>판매량 및<br />
 출하량</p></th>
 </tr>
@@ -49,7 +49,7 @@
 <tbody>
 <tr class="odd">
 <td><p>미국</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국_음반_산업_협회" title="wikilink">RIAA</a></p></td>
+<td><p><a href="../Page/미국_음반_산업_협회.md" title="wikilink">RIAA</a></p></td>
 <td><p>금[4]</p></td>
 <td><p>500,000</p></td>
 </tr>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 크로토네**(Football Club Crotone SRL)는 [칼라브리아주](https://ko.wikipedia.org/wiki/칼라브리아주 "wikilink") [크로토네](https://ko.wikipedia.org/wiki/크로토네 "wikilink")를 연고로 하는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 1923년에 창단되었고 현재 [세리에 B에](https://ko.wikipedia.org/wiki/세리에_B "wikilink") 참가 중이다.
+**FC 크로토네**(Football Club Crotone SRL)는 [칼라브리아주](../Page/칼라브리아주.md "wikilink") [크로토네](../Page/크로토네.md "wikilink")를 연고로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 1923년에 창단되었고 현재 [세리에 B에](../Page/세리에_B.md "wikilink") 참가 중이다.
 
 ## 현재 선수 명단
 

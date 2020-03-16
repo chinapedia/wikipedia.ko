@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [F album](https://ko.wikipedia.org/wiki/F_album).
 
 
-《**F album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 6번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") 발매. 최고순위는 2위이다. 이 앨범으로 데뷔부터 계속된 오리콘 주간 앨범 차트에서의 연속 1위 기록이 중단되었으며 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 앨범으로서는 유일하게 오리콘 차트에서 1위를 하지 못한 앨범이다.
+《**F album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 6번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [2002년](../Page/2002년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") 발매. 최고순위는 2위이다. 이 앨범으로 데뷔부터 계속된 오리콘 주간 앨범 차트에서의 연속 1위 기록이 중단되었으며 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 앨범으로서는 유일하게 오리콘 차트에서 1위를 하지 못한 앨범이다.
 
 ## 수록곡
 
@@ -12,7 +12,7 @@
       -
         작사・작곡: K.Dino　편곡: ha-j
         [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 15번째 싱글
-        작사・작곡한 K.Dino는 [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink")
+        작사・작곡한 K.Dino는 [도모토 코이치](../Page/도모토_코이치.md "wikilink")
 3.  **ライバル**
       -
         작사・작곡・편곡: オオヤギヒロオ(오오야기 히로오)
@@ -31,11 +31,11 @@
         작사・작곡: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink"))　편곡: ha-j&吉岡たく(요시오카 타쿠)
 8.  **月夜ノ物語**
       -
-        작사・작곡: 堂本光一([도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink"))　편곡: ha-j&吉岡たく(요시오카 타쿠)
-        [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 솔로곡. 코이치가 출연하는「SHOCK」에서도 불렀다
+        작사・작곡: 堂本光一([도모토 코이치](../Page/도모토_코이치.md "wikilink"))　편곡: ha-j&吉岡たく(요시오카 타쿠)
+        [도모토 코이치](../Page/도모토_코이치.md "wikilink") 솔로곡. 코이치가 출연하는「SHOCK」에서도 불렀다
 9.  **愛のかたまり (Acoustic Version)**
       -
-        작사: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink"))　작곡: 堂本光一([도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink"))　편곡: 白井良明(시로이 요시로)
+        작사: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink"))　작곡: 堂本光一([도모토 코이치](../Page/도모토_코이치.md "wikilink"))　편곡: 白井良明(시로이 요시로)
         [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 13번째 싱글 커플링곡
 10. **Hey\! みんな元気かい?**
       -

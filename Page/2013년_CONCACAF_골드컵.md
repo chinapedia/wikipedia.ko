@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [2013 CONCACAF ](https://ko.wikipedia.org/wiki/2013_CONCACAF_).
 
 
-**2013년 CONCACAF 골드컵**(2013 CONCACAF Gold Cup)은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 7일부터](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") [7월 28일까지](https://ko.wikipedia.org/wiki/7월_28일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 개최된 12번째 [CONCACAF 골드컵이다](https://ko.wikipedia.org/wiki/CONCACAF_골드컵 "wikilink").
+**2013년 CONCACAF 골드컵**(2013 CONCACAF Gold Cup)은 [2013년](../Page/2013년.md "wikilink") [7월 7일부터](../Page/7월_7일.md "wikilink") [7월 28일까지](../Page/7월_28일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 개최된 12번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink").
 
-이 대회부터 [FIFA 컨페더레이션스컵에](https://ko.wikipedia.org/wiki/FIFA_컨페더레이션스컵 "wikilink") 북중미 대표로 참가하는 방식이 바뀐다. 이 대회의 우승 팀은 [2015년 CONCACAF 골드컵의](../Page/2015년_CONCACAF_골드컵.md "wikilink") 우승 팀과 [플레이오프를](../Page/2015년_CONCACAF컵.md "wikilink") 치러서 승리한 팀이 [2017년 FIFA 컨페더레이션스컵에](https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵 "wikilink") 진출하게 된다. (단, 이 대회의 우승 팀이 다음 대회에도 우승하는 경우는 제외)
+이 대회부터 [FIFA 컨페더레이션스컵에](../Page/FIFA_컨페더레이션스컵.md "wikilink") 북중미 대표로 참가하는 방식이 바뀐다. 이 대회의 우승 팀은 [2015년 CONCACAF 골드컵의](../Page/2015년_CONCACAF_골드컵.md "wikilink") 우승 팀과 [플레이오프를](../Page/2015년_CONCACAF컵.md "wikilink") 치러서 승리한 팀이 [2017년 FIFA 컨페더레이션스컵에](../Page/2017년_FIFA_컨페더레이션스컵.md "wikilink") 진출하게 된다. (단, 이 대회의 우승 팀이 다음 대회에도 우승하는 경우는 제외)
 
 ## 예선 및 참가국
 
@@ -113,20 +113,20 @@
 <tr class="header">
 <th><p><a href="https://ko.wikipedia.org/wiki/패서디나_(캘리포니아주)" title="wikilink">패서디나</a><br />
 (<a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/시애틀" title="wikilink">시애틀</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/덴버" title="wikilink">덴버</a></p></th>
+<th><p><a href="../Page/시애틀.md" title="wikilink">시애틀</a></p></th>
+<th><p><a href="../Page/덴버.md" title="wikilink">덴버</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/해리슨_(뉴저지주)" title="wikilink">해리슨</a><br />
-(<a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a>)</p></th>
+(<a href="../Page/뉴욕.md" title="wikilink">뉴욕</a>)</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/마이애미가든스" title="wikilink">마이애미가든스</a><br />
-(<a href="https://ko.wikipedia.org/wiki/마이애미" title="wikilink">마이애미</a>)</p></th>
+(<a href="../Page/마이애미.md" title="wikilink">마이애미</a>)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/로즈_볼_(경기장)" title="wikilink">로즈 볼</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/센추리링크_필드" title="wikilink">센추리링크 필드</a></p></td>
+<td><p><a href="../Page/센추리링크_필드.md" title="wikilink">센추리링크 필드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스포츠_어서리티_필드_앳_마일하이" title="wikilink">스포츠 어서리티 필드 앳 마일하이</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레드불_아레나_(뉴저지주)" title="wikilink">레드불 아레나</a></p></td>
+<td><p><a href="../Page/레드불_아레나_(뉴저지주).md" title="wikilink">레드불 아레나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/선라이프_스타디움" title="wikilink">선라이프 스타디움</a></p></td>
 </tr>
 <tr class="even">
@@ -144,12 +144,12 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Dolphinstadiumint.JPG" title="wikilink">150px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/휴스턴" title="wikilink">휴스턴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포틀랜드_(오리건주)" title="wikilink">포틀랜드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/샌디_(유타주)" title="wikilink">샌디</a><br />
-(<a href="https://ko.wikipedia.org/wiki/솔트레이크시티" title="wikilink">솔트레이크시티</a>)</p></td>
+<td><p><a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
+<td><p><a href="../Page/포틀랜드_(오리건주).md" title="wikilink">포틀랜드</a></p></td>
+<td><p><a href="../Page/샌디_(유타주).md" title="wikilink">샌디</a><br />
+(<a href="../Page/솔트레이크시티.md" title="wikilink">솔트레이크시티</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이스트하트퍼드" title="wikilink">이스트하트퍼드</a><br />
-(<a href="https://ko.wikipedia.org/wiki/하트퍼드_(코네티컷주)" title="wikilink">하트퍼드</a>)</p></td>
+(<a href="../Page/하트퍼드_(코네티컷주).md" title="wikilink">하트퍼드</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/애틀란타" title="wikilink">애틀란타</a></p></td>
 </tr>
 <tr class="odd">
@@ -157,7 +157,7 @@
 <td><p><a href="../Page/프로비던스_파크.md" title="wikilink">젤드 웬 필드</a></p></td>
 <td><p><a href="../Page/리오_틴토_스타디움.md" title="wikilink">리오 틴토 스타디움</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/렌츨러_필드" title="wikilink">렌츨러 필드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조지아_돔" title="wikilink">조지아 돔</a></p></td>
+<td><p><a href="../Page/조지아_돔.md" title="wikilink">조지아 돔</a></p></td>
 </tr>
 <tr class="even">
 <td><p>수용인원: <strong>22,039명</strong></p></td>
@@ -174,15 +174,15 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:VT_Hokies_Marching_Virginians.jpg" title="wikilink">150px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/볼티모어" title="wikilink">볼티모어</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알링턴_(텍사스주)" title="wikilink">알링턴</a><br />
-(<a href="https://ko.wikipedia.org/wiki/댈러스" title="wikilink">댈러스</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/볼티모어.md" title="wikilink">볼티모어</a></p></td>
+<td><p><a href="../Page/알링턴_(텍사스주).md" title="wikilink">알링턴</a><br />
+(<a href="../Page/댈러스.md" title="wikilink">댈러스</a>)</p></td>
+<td><p><a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/M&amp;T_뱅크_스타디움" title="wikilink">M&amp;T 뱅크 스타디움</a></p></td>
+<td><p><a href="../Page/M&amp;T_뱅크_스타디움.md" title="wikilink">M&amp;T 뱅크 스타디움</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카우보이스_스타디움" title="wikilink">카우보이스 스타디움</a></p></td>
 <td><p><a href="../Page/솔저_필드.md" title="wikilink">솔저 필드</a></p></td>
 <td></td>
@@ -552,7 +552,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_United_States.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_축구_국가대표팀" title="wikilink">미국</a></strong><br />
+<strong><a href="../Page/미국_축구_국가대표팀.md" title="wikilink">미국</a></strong><br />
 <strong>5번째 우승</strong></p></td>
 </tr>
 </tbody>

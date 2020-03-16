@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Endless Game](https://ko.wikipedia.org/wiki/Endless_Game).
 
 
-〈**Endless Game**〉은, [아라시](https://ko.wikipedia.org/wiki/아라시 "wikilink")의 41번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Endless Game**〉은, [아라시](../Page/아라시.md "wikilink")의 41번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
 전작 〈[Calling/Breathless](https://ko.wikipedia.org/wiki/Calling/Breathless "wikilink")〉로부터 약 2개월 만의 싱글이다. 통상반·초회 한정반의 2형태로 발매된다.
 
-타이틀곡 〈Endless Game〉은 멤버 [사쿠라이 쇼](https://ko.wikipedia.org/wiki/사쿠라이_쇼 "wikilink") 주연의 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 드라마 《[가족 게임](https://ko.wikipedia.org/wiki/가족_게임#연속_텔레비전_드라마_\(후지_TV\) "wikilink")》의 주제가.
+타이틀곡 〈Endless Game〉은 멤버 [사쿠라이 쇼](../Page/사쿠라이_쇼.md "wikilink") 주연의 [후지 TV](../Page/후지_TV.md "wikilink") 드라마 《[가족 게임](https://ko.wikipedia.org/wiki/가족_게임#연속_텔레비전_드라마_\(후지_TV\) "wikilink")》의 주제가.
 
 ## 수록곡
 
@@ -17,7 +17,7 @@
       -
         작사: 100+ / 작곡: Chris Janey, Dyce Taylor / 편곡: 2H, Chris Janey
     <!-- end list -->
-      - [사쿠라이 쇼](https://ko.wikipedia.org/wiki/사쿠라이_쇼 "wikilink") 주연 후지 TV 드라마 《[가족 게임](https://ko.wikipedia.org/wiki/가족_게임#연속_텔레비전_드라마_\(후지_TV\) "wikilink")》 주제가
+      - [사쿠라이 쇼](../Page/사쿠라이_쇼.md "wikilink") 주연 후지 TV 드라마 《[가족 게임](https://ko.wikipedia.org/wiki/가족_게임#연속_텔레비전_드라마_\(후지_TV\) "wikilink")》 주제가
 2.  **Intergalactic**
       -
         작사: Octobar / 작곡: Stephan Elfgren, eltvo / 편곡: Stephan Elfgren

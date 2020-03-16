@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [VIEW \(SQL\)](https://ko.wikipedia.org/wiki/VIEW_\(SQL\)).
 
 
-**뷰**(view)는 [관계 데이터베이스의](https://ko.wikipedia.org/wiki/관계_데이터베이스 "wikilink") [데이터베이스 언어](../Page/데이터베이스_언어.md "wikilink") [SQL](https://ko.wikipedia.org/wiki/SQL "wikilink")에서 하나 이상의 테이블 (또는 다른 뷰)에서 원하는 모든 데이터를 선택하여, 그들을 사용자 정의하여 나타낸 것이다. [관계 데이터베이스의](https://ko.wikipedia.org/wiki/관계_데이터베이스 "wikilink") [관계 모델의](https://ko.wikipedia.org/wiki/관계_모델 "wikilink") 관계의 일종인 도출 관계에 해당한다. 여러 테이블(기본 관계) 또는 뷰의 데이터를 연결하여 조합할 수 있다. 보기에 표시되는 데이터의 선택 기준을 지정할 수도 있다.
+**뷰**(view)는 [관계 데이터베이스의](https://ko.wikipedia.org/wiki/관계_데이터베이스 "wikilink") [데이터베이스 언어](../Page/데이터베이스_언어.md "wikilink") [SQL](../Page/SQL.md "wikilink")에서 하나 이상의 테이블 (또는 다른 뷰)에서 원하는 모든 데이터를 선택하여, 그들을 사용자 정의하여 나타낸 것이다. [관계 데이터베이스의](https://ko.wikipedia.org/wiki/관계_데이터베이스 "wikilink") [관계 모델의](https://ko.wikipedia.org/wiki/관계_모델 "wikilink") 관계의 일종인 도출 관계에 해당한다. 여러 테이블(기본 관계) 또는 뷰의 데이터를 연결하여 조합할 수 있다. 보기에 표시되는 데이터의 선택 기준을 지정할 수도 있다.
 
 뷰는 기본 테이블(table)과 같이 행(column)과 열(row)로 구성되지만, 다른 테이블에 있는 데이터를 보여줄 뿐이며, 실제 테이블과 달리 데이터 자체를 포함하고 있는 것은 아니다. 뷰를 사용하면 여러 테이블이나 뷰를 하나의 테이블인 것처럼 볼 수 있다.
 
 표준 SQL 규격으로는 SQL89에서 사용 가능해 졌다. [SQL89](https://ko.wikipedia.org/wiki/SQL89 "wikilink")에서는 뷰를 만들 수 있지만, DROP 문이 없기 때문에 삭제할 수 없었지만, [SQL92](https://ko.wikipedia.org/wiki/SQL92 "wikilink")에서는 CHECK OPTION, LOCAL, CASCADE 기능 확장이 이루어지고 있다. [SQL99](https://ko.wikipedia.org/wiki/SQL99 "wikilink")에서는 더욱 기능 강화되었으며, 특정 조건 하에서 뷰에서 기본 테이블의 데이터 업데이트가 가능하게 되었다.
 
-정의된 정렬 순서가 모자란 기본적인 테이블의 열처럼, 뷰를 통해 생성된 열도 특정 순서로 정렬되어 나타나지 않는다. 뷰는 관계 테이블이며, 관계 모델은 테이블을 일련의 열로 정의를 한다. 그러한 세트는 (정의를 내림으로써) 정렬되지 않기 때문에, 뷰의 테이블도 마찬가지다. 따라서 [ORDER BY](https://ko.wikipedia.org/wiki/ORDER_BY "wikilink") 구문은 뷰의 정의에서 무의미하며, 표준 [SQL2003](https://ko.wikipedia.org/wiki/SQL2003 "wikilink")에서는 ORDER BY 구문을 CREATE VIEW 명령의 옵션에서 허용하지 않았으며, 마찬가지로 [CREATE](../Page/CREATE_\(SQL\).md "wikilink") TABLE 구문에서 거분된 것이다. 그러나 정렬된 데이터는 다른 테이블로서 동일한 방법으로 뷰를 통해 획득할 수 있다. 그럼에도 불구하고 [오라클 데이터베이스와](https://ko.wikipedia.org/wiki/오라클_데이터베이스 "wikilink") 같은 일부 DBMS에서는 이러한 SQL 표준 제한을 따르지 않고, 허용하고 있다.
+정의된 정렬 순서가 모자란 기본적인 테이블의 열처럼, 뷰를 통해 생성된 열도 특정 순서로 정렬되어 나타나지 않는다. 뷰는 관계 테이블이며, 관계 모델은 테이블을 일련의 열로 정의를 한다. 그러한 세트는 (정의를 내림으로써) 정렬되지 않기 때문에, 뷰의 테이블도 마찬가지다. 따라서 [ORDER BY](https://ko.wikipedia.org/wiki/ORDER_BY "wikilink") 구문은 뷰의 정의에서 무의미하며, 표준 [SQL2003](https://ko.wikipedia.org/wiki/SQL2003 "wikilink")에서는 ORDER BY 구문을 CREATE VIEW 명령의 옵션에서 허용하지 않았으며, 마찬가지로 [CREATE](../Page/CREATE_\(SQL\).md "wikilink") TABLE 구문에서 거분된 것이다. 그러나 정렬된 데이터는 다른 테이블로서 동일한 방법으로 뷰를 통해 획득할 수 있다. 그럼에도 불구하고 [오라클 데이터베이스와](../Page/오라클_데이터베이스.md "wikilink") 같은 일부 DBMS에서는 이러한 SQL 표준 제한을 따르지 않고, 허용하고 있다.
 
 ## 구문
 

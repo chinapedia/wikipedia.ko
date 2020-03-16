@@ -28,12 +28,12 @@
 <td><p>1962</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/한을룡" title="wikilink">한을룡</a>(성균관대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동아대학교" title="wikilink">동아대학교</a><br />
-<a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/동아대학교.md" title="wikilink">동아대학교</a><br />
+<a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1963</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동아대학교" title="wikilink">동아대학교</a></p></td>
+<td><p><a href="../Page/동아대학교.md" title="wikilink">동아대학교</a></p></td>
 <td><p>이용규(동아대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 </tr>
@@ -54,7 +54,7 @@
 <td><p>1966</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1967</p></td>
@@ -72,17 +72,17 @@
 <td><p>1969</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 <td><p>최주현(경희대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1970</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 <td><p>김인복(한양대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1971[2]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 </tr>
@@ -90,53 +90,53 @@
 <td><p>1972</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동아대학교" title="wikilink">동아대학교</a> <a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a><br />
+<td><p><a href="../Page/동아대학교.md" title="wikilink">동아대학교</a> <a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a><br />
 <a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1973</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a><br />
-<a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a>[3]</p></td>
+<a href="../Page/한양대학교.md" title="wikilink">한양대학교</a>[3]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1974</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/허구연" title="wikilink">허구연</a>(고려대)</p></td>
+<td><p><a href="../Page/허구연.md" title="wikilink">허구연</a>(고려대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1975</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영남대학교" title="wikilink">영남대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김재박" title="wikilink">김재박</a>(영남대)</p></td>
+<td><p><a href="../Page/영남대학교.md" title="wikilink">영남대학교</a></p></td>
+<td><p><a href="../Page/김재박.md" title="wikilink">김재박</a>(영남대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a> <a href="https://ko.wikipedia.org/wiki/동국대학교" title="wikilink">동국대학교</a><br />
-<a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a> <a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a>[4]</p></td>
+<a href="../Page/한양대학교.md" title="wikilink">한양대학교</a> <a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a>[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>1976</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영남대학교" title="wikilink">영남대학교</a></p></td>
+<td><p><a href="../Page/영남대학교.md" title="wikilink">영남대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/권정화" title="wikilink">권정화</a>(영남대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a><br />
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a><br />
 <a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1977</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/양세종" title="wikilink">양세종</a>(연세대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/양세종.md" title="wikilink">양세종</a>(연세대)</p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1978</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노상수" title="wikilink">노상수</a>(고려대)</p></td>
+<td><p><a href="../Page/노상수.md" title="wikilink">노상수</a>(고려대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1979</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/손상득" title="wikilink">손상득</a>(고려대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인하대학교" title="wikilink">인하대학교</a></p></td>
+<td><p><a href="../Page/손상득.md" title="wikilink">손상득</a>(고려대)</p></td>
+<td><p><a href="../Page/인하대학교.md" title="wikilink">인하대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1980</p></td>
@@ -147,8 +147,8 @@
 <tr class="odd">
 <td><p>1984</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한희민" title="wikilink">한희민</a>(성균관대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한희민.md" title="wikilink">한희민</a>(성균관대)</p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1985</p></td>
@@ -158,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td><p>1986</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원광대학교" title="wikilink">원광대학교</a></p></td>
+<td><p><a href="../Page/원광대학교.md" title="wikilink">원광대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고장량" title="wikilink">고장량</a>(원광대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동국대학교" title="wikilink">동국대학교</a></p></td>
 </tr>
@@ -178,121 +178,121 @@
 <td><p>1993</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 <td><p>장재명(연세대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원광대학교" title="wikilink">원광대학교</a></p></td>
+<td><p><a href="../Page/원광대학교.md" title="wikilink">원광대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1994</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 <td><p>안희봉(연세대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동아대학교" title="wikilink">동아대학교</a></p></td>
+<td><p><a href="../Page/동아대학교.md" title="wikilink">동아대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박재홍_(야구인)" title="wikilink">박재홍</a>(연세대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동국대학교" title="wikilink">동국대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신경현" title="wikilink">신경현</a>(동국대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/신경현.md" title="wikilink">신경현</a>(동국대)</p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1997</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
 <td><p>정원욱(경성대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인하대학교" title="wikilink">인하대학교</a></p></td>
+<td><p><a href="../Page/인하대학교.md" title="wikilink">인하대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1998</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 <td><p>임성택(한양대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1999</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동국대학교" title="wikilink">동국대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정원석" title="wikilink">정원석</a>(동국대)</p></td>
+<td><p><a href="../Page/정원석.md" title="wikilink">정원석</a>(동국대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/홍익대학교" title="wikilink">홍익대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조용준" title="wikilink">조용준</a>(연세대)</p></td>
+<td><p><a href="../Page/조용준.md" title="wikilink">조용준</a>(연세대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2001</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/현재윤" title="wikilink">현재윤</a>(성균관대)</p></td>
+<td><p><a href="../Page/현재윤.md" title="wikilink">현재윤</a>(성균관대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동아대학교" title="wikilink">동아대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/용덕한" title="wikilink">용덕한</a>(동아대)</p></td>
+<td><p><a href="../Page/동아대학교.md" title="wikilink">동아대학교</a></p></td>
+<td><p><a href="../Page/용덕한.md" title="wikilink">용덕한</a>(동아대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김기표" title="wikilink">김기표</a>(경성대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/중앙대학교" title="wikilink">중앙대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/단국대학교" title="wikilink">단국대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정승원_(야구인)" title="wikilink">정희상</a>(단국대)</p></td>
+<td><p><a href="../Page/단국대학교.md" title="wikilink">단국대학교</a></p></td>
+<td><p><a href="../Page/정승원_(야구인).md" title="wikilink">정희상</a>(단국대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김용섭_(1983년)" title="wikilink">김용섭</a>(경희대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/김용섭_(1983년).md" title="wikilink">김용섭</a>(경희대)</p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이창욱" title="wikilink">이창욱</a>(고려대)</p></td>
+<td><p><a href="../Page/이창욱.md" title="wikilink">이창욱</a>(고려대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/단국대학교" title="wikilink">단국대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상훈" title="wikilink">이상훈</a>(단국대)</p></td>
+<td><p><a href="../Page/단국대학교.md" title="wikilink">단국대학교</a></p></td>
+<td><p><a href="../Page/이상훈.md" title="wikilink">이상훈</a>(단국대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동국대학교" title="wikilink">동국대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박현준" title="wikilink">박현준</a>(경희대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/단국대학교" title="wikilink">단국대학교</a></p></td>
+<td><p><a href="../Page/단국대학교.md" title="wikilink">단국대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동의대학교" title="wikilink">동의대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윤지웅" title="wikilink">윤지웅</a>(동의대)</p></td>
+<td><p><a href="../Page/동의대학교.md" title="wikilink">동의대학교</a></p></td>
+<td><p><a href="../Page/윤지웅.md" title="wikilink">윤지웅</a>(동의대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원광대학교" title="wikilink">원광대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조근종" title="wikilink">조근종</a>(원광대)</p></td>
+<td><p><a href="../Page/원광대학교.md" title="wikilink">원광대학교</a></p></td>
+<td><p><a href="../Page/조근종.md" title="wikilink">조근종</a>(원광대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동의대학교" title="wikilink">동의대학교</a></p></td>
+<td><p><a href="../Page/동의대학교.md" title="wikilink">동의대학교</a></p></td>
 <td><p><a href="../Page/이상민_(야구_선수).md" title="wikilink">이상민</a>(동의대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동의대학교" title="wikilink">동의대학교</a></p></td>
+<td><p><a href="../Page/동의대학교.md" title="wikilink">동의대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/배준빈" title="wikilink">배준빈</a>(동의대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원광대학교" title="wikilink">원광대학교</a></p></td>
+<td><p><a href="../Page/원광대학교.md" title="wikilink">원광대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
@@ -308,15 +308,15 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2015년_KBA회장기_전국대학야구대회_춘계리그.md" title="wikilink">2015</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인하대학교" title="wikilink">인하대학교</a></p></td>
+<td><p><a href="../Page/인하대학교.md" title="wikilink">인하대학교</a></p></td>
 <td><p><a href="../Page/임서준.md" title="wikilink">임서준</a>(인하대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경남대학교" title="wikilink">경남대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2016년_KBA회장기_전국대학야구대회_춘계리그.md" title="wikilink">2016</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
 <td><p><a href="../Page/김명신_(야구_선수).md" title="wikilink">김명신</a>(경성대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동의대학교" title="wikilink">동의대학교</a></p></td>
+<td><p><a href="../Page/동의대학교.md" title="wikilink">동의대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017년_KBA회장기_전국대학야구대회_춘계리그" title="wikilink">2017</a></p></td>
@@ -343,22 +343,22 @@
 <tbody>
 <tr class="odd">
 <td><p>1961</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동아대학교" title="wikilink">동아대학교</a></p></td>
+<td><p><a href="../Page/동아대학교.md" title="wikilink">동아대학교</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1962</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동아대학교" title="wikilink">동아대학교</a></p></td>
+<td><p><a href="../Page/동아대학교.md" title="wikilink">동아대학교</a></p></td>
 <td><p>이용규(동아대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a><br />
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a><br />
 <a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1963</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 <td><p>김창진(연세대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1964</p></td>
@@ -371,7 +371,7 @@
 <td><p>1966</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이환규" title="wikilink">이환규</a>(연세대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1968[6]</p></td>
@@ -393,58 +393,58 @@
 </tr>
 <tr class="odd">
 <td><p>1971[8]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 <td><p>나유찬(한양대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1972</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/중앙대학교" title="wikilink">중앙대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1973</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 <td><p>정기혁(한양대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1974</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김정수" title="wikilink">김정수</a>(한양대)</p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/김정수.md" title="wikilink">김정수</a>(한양대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a><br />
 <a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1975</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이광은" title="wikilink">이광은</a>(연세대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영남대학교" title="wikilink">영남대학교</a> <a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a><br />
+<td><p><a href="../Page/이광은.md" title="wikilink">이광은</a>(연세대)</p></td>
+<td><p><a href="../Page/영남대학교.md" title="wikilink">영남대학교</a> <a href="../Page/한양대학교.md" title="wikilink">한양대학교</a><br />
 <a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a>[9]</p></td>
 </tr>
 <tr class="even">
 <td><p>1976</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정순명" title="wikilink">정순명</a>(한양대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1977</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영남대학교" title="wikilink">영남대학교</a></p></td>
+<td><p><a href="../Page/영남대학교.md" title="wikilink">영남대학교</a></p></td>
 <td><p>김정호(영남대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1978</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노상수" title="wikilink">노상수</a>(고려대)</p></td>
+<td><p><a href="../Page/노상수.md" title="wikilink">노상수</a>(고려대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1979</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김시진" title="wikilink">김시진</a>(한양대)</p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/김시진.md" title="wikilink">김시진</a>(한양대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a> <a href="https://ko.wikipedia.org/wiki/동국대학교" title="wikilink">동국대학교</a><br />
 <a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
 </tr>
@@ -462,7 +462,7 @@
 </tr>
 <tr class="even">
 <td><p>1982</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동아대학교" title="wikilink">동아대학교</a></p></td>
+<td><p><a href="../Page/동아대학교.md" title="wikilink">동아대학교</a></p></td>
 <td><p>이동완(동아대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
 </tr>
@@ -493,37 +493,37 @@
 <tr class="odd">
 <td><p>1992</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이종범" title="wikilink">이종범</a>(건국대)</p></td>
+<td><p><a href="../Page/이종범.md" title="wikilink">이종범</a>(건국대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1993</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최창수" title="wikilink">최창수</a>(경희대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1994</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오중석" title="wikilink">오중석</a>(한양대)</p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/오중석.md" title="wikilink">오중석</a>(한양대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/홍익대학교" title="wikilink">홍익대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 <td><p>김석용(경희대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영남대학교" title="wikilink">영남대학교</a></p></td>
+<td><p><a href="../Page/영남대학교.md" title="wikilink">영남대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김창희_(야구인)" title="wikilink">김창희</a>(한양대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/단국대학교" title="wikilink">단국대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/김창희_(야구인).md" title="wikilink">김창희</a>(한양대)</p></td>
+<td><p><a href="../Page/단국대학교.md" title="wikilink">단국대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1997</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인하대학교" title="wikilink">인하대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이우석" title="wikilink">이우석</a>(인하대)</p></td>
+<td><p><a href="../Page/인하대학교.md" title="wikilink">인하대학교</a></p></td>
+<td><p><a href="../Page/이우석.md" title="wikilink">이우석</a>(인하대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 </tr>
 <tr class="odd">
@@ -540,85 +540,85 @@
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강철민" title="wikilink">강철민</a>(한양대)</p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/강철민.md" title="wikilink">강철민</a>(한양대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/탐라대학교" title="wikilink">탐라대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2001</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박용택" title="wikilink">박용택</a>(고려대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영남대학교" title="wikilink">영남대학교</a></p></td>
+<td><p><a href="../Page/박용택.md" title="wikilink">박용택</a>(고려대)</p></td>
+<td><p><a href="../Page/영남대학교.md" title="wikilink">영남대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연세대학교" title="wikilink">연세대학교</a></p></td>
 <td><p>문용민(연세대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조영훈" title="wikilink">조영훈</a>(건국대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/단국대학교" title="wikilink">단국대학교</a></p></td>
+<td><p><a href="../Page/단국대학교.md" title="wikilink">단국대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/단국대학교" title="wikilink">단국대학교</a></p></td>
+<td><p><a href="../Page/단국대학교.md" title="wikilink">단국대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오승환" title="wikilink">오승환</a>(단국대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김기표" title="wikilink">김기표</a>(경성대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/모창민" title="wikilink">모창민</a>(성균관대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/모창민.md" title="wikilink">모창민</a>(성균관대)</p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007[10]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한양대학교" title="wikilink">한양대학교</a></p></td>
+<td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박현_(야구_선수)" title="wikilink">박현</a>(한양대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상백_(야구_선수)" title="wikilink">이상백</a>(경성대)</p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/이상백_(야구_선수).md" title="wikilink">이상백</a>(경성대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동의대학교" title="wikilink">동의대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/문광은" title="wikilink">문광은</a>(동의대)</p></td>
+<td><p><a href="../Page/동의대학교.md" title="wikilink">동의대학교</a></p></td>
+<td><p><a href="../Page/문광은.md" title="wikilink">문광은</a>(동의대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안규영" title="wikilink">안규영</a>(경희대)</p></td>
+<td><p><a href="../Page/안규영.md" title="wikilink">안규영</a>(경희대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성균관대학교" title="wikilink">성균관대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윤명준" title="wikilink">윤명준</a>(고려대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원광대학교" title="wikilink">원광대학교</a></p></td>
+<td><p><a href="../Page/윤명준.md" title="wikilink">윤명준</a>(고려대)</p></td>
+<td><p><a href="../Page/원광대학교.md" title="wikilink">원광대학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인하대학교" title="wikilink">인하대학교</a></p></td>
+<td><p><a href="../Page/인하대학교.md" title="wikilink">인하대학교</a></p></td>
 <td><p><a href="../Page/박민호.md" title="wikilink">박민호</a>(인하대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경희대학교" title="wikilink">경희대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2013년_KBA회장기_전국대학야구대회_하계리그.md" title="wikilink">2013</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원광대학교" title="wikilink">원광대학교</a></p></td>
+<td><p><a href="../Page/원광대학교.md" title="wikilink">원광대학교</a></p></td>
 <td><p>김성재(원광대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
 </tr>
@@ -626,11 +626,11 @@
 <td><p>2014</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/홍익대학교" title="wikilink">홍익대학교</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김재영_(야구_선수)" title="wikilink">김재영</a>(홍익대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/단국대학교" title="wikilink">단국대학교</a></p></td>
+<td><p><a href="../Page/단국대학교.md" title="wikilink">단국대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년_KBA회장기_전국대학야구대회_추계리그" title="wikilink">2015</a>[11]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경성대학교" title="wikilink">경성대학교</a></p></td>
+<td><p><a href="../Page/경성대학교.md" title="wikilink">경성대학교</a></p></td>
 <td><p>이재욱(경성대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
 </tr>

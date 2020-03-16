@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A album](https://ko.wikipedia.org/wiki/A_album).
 
 
-《**A album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 데뷔 앨범이다. [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [7월 21일](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") 발매. 데뷔싱글인 "[硝子の少年](https://ko.wikipedia.org/wiki/가라스노쇼넨 "wikilink")"과 동시발매되었다. 밀리언셀러를 기록했으며 최고순위는 1위이다.
+《**A album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 데뷔 앨범이다. [1997년](../Page/1997년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") 발매. 데뷔싱글인 "[硝子の少年](https://ko.wikipedia.org/wiki/가라스노쇼넨 "wikilink")"과 동시발매되었다. 밀리언셀러를 기록했으며 최고순위는 1위이다.
 
 ## 수록곡
 
@@ -10,7 +10,7 @@
         작사: 相田毅(아이다 타케시) 작곡: 谷本新(타니모토 신) 편곡: 棚橋信仁(타나하시 노부히토)　
 2.  **Kissからはじまるミステリー**
       -
-        작사: 松本隆(마츠모토 타카시) 작곡・편곡: 山下達郎([야마시타 타츠로](https://ko.wikipedia.org/wiki/야마시타_타츠로 "wikilink"))
+        작사: 松本隆(마츠모토 타카시) 작곡・편곡: 山下達郎([야마시타 타츠로](../Page/야마시타_타츠로.md "wikilink"))
         [도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink") 주연「金田一少年の事件簿第2シーズン<small>(김전일소년의 사건부2기)</small>」(1996년) 주제곡
 3.  **Tell me**
       -
@@ -18,8 +18,8 @@
 4.  **僕は思う**
       -
         작사: 相田毅(아이다 타케시) 작곡: 谷本新(타니모토 신) 편곡: 船山基紀(후네야마 모토키)
-        [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 솔로곡
-        [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 주연「銀狼怪奇ファイル<small>(깅로괴기파일)</small>」(1996년) 주제곡
+        [도모토 코이치](../Page/도모토_코이치.md "wikilink") 솔로곡
+        [도모토 코이치](../Page/도모토_코이치.md "wikilink") 주연「銀狼怪奇ファイル<small>(깅로괴기파일)</small>」(1996년) 주제곡
 5.  **せつない恋に気づいて**
       -
         작사: MIZUE & HIDE 작곡: 寺田一郎(테라다 이치로)　편곡: 岩田雅之(이와타 마사유키)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ALTER \(SQL\)](https://ko.wikipedia.org/wiki/ALTER_\(SQL\)).
 
 
-SQL의 **ALTER**문은 [관계형 데이터베이스 관리 시스템](https://ko.wikipedia.org/wiki/관계형_데이터베이스_관리_시스템 "wikilink")(RDBMS)의 관리 하에 이미 존재하는 개체의 특성을 변경하는 [데이터 정의 언어](../Page/데이터_정의_언어.md "wikilink")(DDL) 명령이다. 사용하는 RDBMS의 구현을 통해 ALTER 문에 의해 변경될 수 있는 개체 유형(테이블, 컬럼)은 다르다. ALTER 구문은 주로 컬럼명을 바꾸는데 사용하며, 오라클, 큐브리드 등 대체로 테이블명 변경은 RENAME을 사용한다.
+SQL의 **ALTER**문은 [관계형 데이터베이스 관리 시스템](../Page/관계형_데이터베이스_관리_시스템.md "wikilink")(RDBMS)의 관리 하에 이미 존재하는 개체의 특성을 변경하는 [데이터 정의 언어](../Page/데이터_정의_언어.md "wikilink")(DDL) 명령이다. 사용하는 RDBMS의 구현을 통해 ALTER 문에 의해 변경될 수 있는 개체 유형(테이블, 컬럼)은 다르다. ALTER 구문은 주로 컬럼명을 바꾸는데 사용하며, 오라클, 큐브리드 등 대체로 테이블명 변경은 RENAME을 사용한다.
 
 ## 구문
 

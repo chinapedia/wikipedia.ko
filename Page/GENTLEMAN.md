@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [GENTLEMAN](https://ko.wikipedia.org/wiki/GENTLEMAN).
 
 
-〈**GENTLEMAN**〉(젠틀맨)은 대한민국의 가수 [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")의 싱글로, 2013년 4월 12일에 전 세계적으로 발매되었다. 뮤직비디오는 4월 13일 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")를 통해 공개되었다.
+〈**GENTLEMAN**〉(젠틀맨)은 대한민국의 가수 [싸이](../Page/싸이.md "wikilink")의 싱글로, 2013년 4월 12일에 전 세계적으로 발매되었다. 뮤직비디오는 4월 13일 [유튜브](../Page/유튜브.md "wikilink")를 통해 공개되었다.
 
 ## 뮤직비디오
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") [상암월드컵경기장](https://ko.wikipedia.org/wiki/상암월드컵경기장 "wikilink")에서 열린 [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")의 [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")를 통해 선공개 되었으며, 정식적으로 9시에 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")에 공개했다. 뮤직비디오에는 [가인](https://ko.wikipedia.org/wiki/가인 "wikilink")과 [무한도전](https://ko.wikipedia.org/wiki/무한도전 "wikilink") 멤버들([유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [박명수](https://ko.wikipedia.org/wiki/박명수 "wikilink"), [정준하](https://ko.wikipedia.org/wiki/정준하 "wikilink"), [정형돈](https://ko.wikipedia.org/wiki/정형돈 "wikilink"), [노홍철](https://ko.wikipedia.org/wiki/노홍철 "wikilink"), [하하](https://ko.wikipedia.org/wiki/하하 "wikilink"), [길](https://ko.wikipedia.org/wiki/길_\(가수\) "wikilink"))이 출연하였다. 6월 16일 현재, 유투브 조회수는 1,157,209,012건을 기록하고 있다.
+[2013년](../Page/2013년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") [상암월드컵경기장](https://ko.wikipedia.org/wiki/상암월드컵경기장 "wikilink")에서 열린 [싸이](../Page/싸이.md "wikilink")의 [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")를 통해 선공개 되었으며, 정식적으로 9시에 [유튜브](../Page/유튜브.md "wikilink")에 공개했다. 뮤직비디오에는 [가인](../Page/가인.md "wikilink")과 [무한도전](../Page/무한도전.md "wikilink") 멤버들([유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [박명수](../Page/박명수.md "wikilink"), [정준하](../Page/정준하.md "wikilink"), [정형돈](../Page/정형돈.md "wikilink"), [노홍철](../Page/노홍철.md "wikilink"), [하하](https://ko.wikipedia.org/wiki/하하 "wikilink"), [길](../Page/길_\(가수\).md "wikilink"))이 출연하였다. 6월 16일 현재, 유투브 조회수는 1,157,209,012건을 기록하고 있다.
 
 ## 차트 성적 및 인증
 
@@ -29,7 +29,7 @@
 <td><p>7</p></td>
 </tr>
 <tr class="odd">
-<td><p>캐나다 (<a href="https://ko.wikipedia.org/wiki/캐나디안_핫_100" title="wikilink">캐나디안 핫 100</a>)</p></td>
+<td><p>캐나다 (<a href="../Page/캐나디안_핫_100.md" title="wikilink">캐나디안 핫 100</a>)</p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="even">
@@ -65,11 +65,11 @@
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p>일본 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a> <a href="https://ko.wikipedia.org/wiki/재팬_핫_100" title="wikilink">재팬 핫 100</a>)[6]</p></td>
+<td><p>일본 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a> <a href="../Page/재팬_핫_100.md" title="wikilink">재팬 핫 100</a>)[6]</p></td>
 <td><p>51</p></td>
 </tr>
 <tr class="odd">
-<td><p>룩셈부르크 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[7]</p></td>
+<td><p>룩셈부르크 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[7]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -81,7 +81,7 @@
 <td><p>13</p></td>
 </tr>
 <tr class="even">
-<td><p>포르투갈 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[10]</p></td>
+<td><p>포르투갈 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[10]</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
@@ -101,7 +101,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a> <a href="https://ko.wikipedia.org/wiki/K-Pop_핫_100" title="wikilink">K-Pop 핫 100</a>)[12]</p></td>
+<td><p>대한민국 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a> <a href="https://ko.wikipedia.org/wiki/K-Pop_핫_100" title="wikilink">K-Pop 핫 100</a>)[12]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -117,19 +117,19 @@
 <td><p>10</p></td>
 </tr>
 <tr class="odd">
-<td><p>미국 (<a href="https://ko.wikipedia.org/wiki/빌보드_핫_100" title="wikilink">빌보드 핫 100</a>)</p></td>
+<td><p>미국 (<a href="../Page/빌보드_핫_100.md" title="wikilink">빌보드 핫 100</a>)</p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 랩 송 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)</p></td>
+<td><p>미국 랩 송 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p>미국 핫 댄스 클럽 송 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)</p></td>
+<td><p>미국 핫 댄스 클럽 송 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)</p></td>
 <td><p>34</p></td>
 </tr>
 <tr class="even">
-<td><p>미국 댄스/일렉트로닉 송 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)</p></td>
+<td><p>미국 댄스/일렉트로닉 송 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -160,7 +160,7 @@
 <tbody>
 <tr class="odd">
 <td><p>대한민국</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/YG_엔터테인먼트" title="wikilink">YG 엔터테인먼트</a></p></td>
+<td><p><a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a></p></td>
 <td><p>2013년 4월 13일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/디지털_음원" title="wikilink">디지털 다운로드</a></p></td>
 </tr>
@@ -213,7 +213,7 @@
 9.
 10.
 11.
-12. [Korea K-Pop Hot 100: April 27, 2013](http://www.billboard.com/charts/2013-04-27/k-pop-hot-100), *[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")*
+12. [Korea K-Pop Hot 100: April 27, 2013](http://www.billboard.com/charts/2013-04-27/k-pop-hot-100), *[빌보드](../Page/빌보드.md "wikilink")*
 13.
 14.
 15.

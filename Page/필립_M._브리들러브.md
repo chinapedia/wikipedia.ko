@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Gen_Philip_M._Breedlove_2012.jpg "wikilink")
 
-**필립 마크 브리들러브**(Philip Mark Breedlove, [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") \~ )\[1\]는 [유럽 미국 공군의](https://ko.wikipedia.org/wiki/유럽_미국_공군 "wikilink") 사령관이자 [아프리카 미국 공군의](https://ko.wikipedia.org/wiki/아프리카_미국_공군 "wikilink") 사령관\[2\]으로 복무하고 있는 [미국 공군의](https://ko.wikipedia.org/wiki/미국_공군 "wikilink") [4성 장군이다](https://ko.wikipedia.org/wiki/4성_장군 "wikilink").\[3\] 그는 2011년 1월 14일부터 2012년 7월 27일까지 미국 공군 참모차장으로 근무하였다. 2013년 3월 28일 [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink")의 [유럽 연합군 최고 사령부](https://ko.wikipedia.org/wiki/유럽_연합군_최고_사령부 "wikilink") 사령관으로 임명되었다.\[4\]
+**필립 마크 브리들러브**(Philip Mark Breedlove, [1955년](../Page/1955년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ )\[1\]는 [유럽 미국 공군의](https://ko.wikipedia.org/wiki/유럽_미국_공군 "wikilink") 사령관이자 [아프리카 미국 공군의](https://ko.wikipedia.org/wiki/아프리카_미국_공군 "wikilink") 사령관\[2\]으로 복무하고 있는 [미국 공군의](../Page/미국_공군.md "wikilink") [4성 장군이다](../Page/4성_장군.md "wikilink").\[3\] 그는 2011년 1월 14일부터 2012년 7월 27일까지 미국 공군 참모차장으로 근무하였다. 2013년 3월 28일 [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink")의 [유럽 연합군 최고 사령부](https://ko.wikipedia.org/wiki/유럽_연합군_최고_사령부 "wikilink") 사령관으로 임명되었다.\[4\]
 
 ## 각주
 

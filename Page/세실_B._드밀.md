@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
 
 
-**세실 B. 데밀**(Cecil B. DeMille, [1881년](https://ko.wikipedia.org/wiki/1881년 "wikilink") [8월 12일](https://ko.wikipedia.org/wiki/8월_12일 "wikilink") \~ [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") [1월 21일](https://ko.wikipedia.org/wiki/1월_21일 "wikilink"))은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [영화 감독이다](https://ko.wikipedia.org/wiki/영화_감독 "wikilink").
+**세실 B. 데밀**(Cecil B. DeMille, [1881년](../Page/1881년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") \~ [1959년](../Page/1959년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [영화 감독이다](../Page/영화_감독.md "wikilink").
 
-미국 펜실베니아 대학, 미국 연극아카데미를 졸업하였다. 연극활동을 하다가 1913년 《스코우만》을 감독, 무성시대부터 [할리우드](https://ko.wikipedia.org/wiki/할리우드 "wikilink")에서 활약하였다.\[1\]
+미국 펜실베니아 대학, 미국 연극아카데미를 졸업하였다. 연극활동을 하다가 1913년 《스코우만》을 감독, 무성시대부터 [할리우드](../Page/할리우드.md "wikilink")에서 활약하였다.\[1\]
 
 그의 작품은 호화 스펙터클 사극(史劇)을 중심으로 미국영화의 오락적 특성을 발휘하였다고 평가된다. 대표작으로 《남성 여성》, 《어리석은 자의 낙원》, 《폭군 네로》, 《평원아(平原兒)》, 《[대평원](https://ko.wikipedia.org/wiki/대평원_\(영화\) "wikilink")》, 《정복되지 않는 사람들》, 《[지상최대의 쇼](https://ko.wikipedia.org/wiki/지상최대의_쇼 "wikilink")》, 《[십계](https://ko.wikipedia.org/wiki/십계_\(1956년_영화\) "wikilink")》 등이 있다.\[2\]
 

@@ -3,7 +3,7 @@
 
 **선더 포스 II**(サンダーフォース II)는 [선더 포스 시리즈의](https://ko.wikipedia.org/wiki/선더_포스_시리즈 "wikilink") 두 번째 작품이다.
 
-[1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 10월에 [X68000](https://ko.wikipedia.org/wiki/X68000 "wikilink")([ja](https://ko.wikipedia.org/wiki/:ja:X68000 "wikilink"))으로 발매되었고 이듬해인 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [6월 15일에](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") **선더포스 IIMD**의 제목으로 메가드라이브로 이식되었다. 다만 미국과 유럽에서는 X68k판이 발매되지 않아 MD판이 그냥 **선더 포스 II**로써 발매되었다. 메가드라이브 최초의 서드 파티게임제의 게임이기도 했다.
+[1988년](../Page/1988년.md "wikilink") 10월에 [X68000](../Page/X68000.md "wikilink")([ja](https://ko.wikipedia.org/wiki/:ja:X68000 "wikilink"))으로 발매되었고 이듬해인 [1989년](../Page/1989년.md "wikilink") [6월 15일에](../Page/6월_15일.md "wikilink") **선더포스 IIMD**의 제목으로 메가드라이브로 이식되었다. 다만 미국과 유럽에서는 X68k판이 발매되지 않아 MD판이 그냥 **선더 포스 II**로써 발매되었다. 메가드라이브 최초의 서드 파티게임제의 게임이기도 했다.
 
 본작에서는 아이템에 의한 무기 장비가 시리즈 최초로 채용되어 기본 조작 시스템이 전작의 8방향 이동과 발사 외에 무기변경 버튼이 추가된 2버튼으로 바뀌었다. X68000 초기의 게임답지 않은 뛰어난 그래픽과 화려한 사운드로 주목을 받았다. 난이도는 전체적으로 높은 편이다.
 

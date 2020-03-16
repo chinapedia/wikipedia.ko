@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [\& RPG 4  ](https://ko.wikipedia.org/wiki/\&_RPG_4__).
 
 
-**마리오&루이지 RPG 4 드림 어드벤처**(Mario & Luigi: Dream Team)는 [닌텐도 3DS용](https://ko.wikipedia.org/wiki/닌텐도_3DS "wikilink") 게임으로, 유럽에서 2013년 7월 12일 발매했으며, 일본에서는 2013년 7월 18일에 발매하였다.
+**마리오&루이지 RPG 4 드림 어드벤처**(Mario & Luigi: Dream Team)는 [닌텐도 3DS용](../Page/닌텐도_3DS.md "wikilink") 게임으로, 유럽에서 2013년 7월 12일 발매했으며, 일본에서는 2013년 7월 18일에 발매하였다.
 
 ## 같이 보기
 

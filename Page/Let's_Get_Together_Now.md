@@ -12,15 +12,15 @@
 
   - [CHEMISTRY](https://ko.wikipedia.org/wiki/CHEMISTRY "wikilink")
   - [Sowelu](https://ko.wikipedia.org/wiki/Sowelu "wikilink")
-  - [박정현](https://ko.wikipedia.org/wiki/박정현 "wikilink")
-  - [브라운아이즈](https://ko.wikipedia.org/wiki/브라운아이즈 "wikilink") ([나얼](https://ko.wikipedia.org/wiki/나얼 "wikilink"), [윤건](https://ko.wikipedia.org/wiki/윤건 "wikilink"))
+  - [박정현](../Page/박정현.md "wikilink")
+  - [브라운아이즈](https://ko.wikipedia.org/wiki/브라운아이즈 "wikilink") ([나얼](../Page/나얼.md "wikilink"), [윤건](../Page/윤건.md "wikilink"))
 
 ## 수록곡
 
 1.  **Let's Get Together Now (JAPAN ver.)**
-      - 작사：사와모토 요시미쓰, 마쓰오 키요시 ／ 작곡：카와구치 다이스케, [김형석](https://ko.wikipedia.org/wiki/김형석_\(음악가\) "wikilink") ／ 편곡 : [김형석](https://ko.wikipedia.org/wiki/김형석_\(음악가\) "wikilink")
+      - 작사：사와모토 요시미쓰, 마쓰오 키요시 ／ 작곡：카와구치 다이스케, [김형석](../Page/김형석_\(음악가\).md "wikilink") ／ 편곡 : [김형석](../Page/김형석_\(음악가\).md "wikilink")
 2.  **Let's Get Together Now (KOREA ver.)**
-      - 작사：[박정현](https://ko.wikipedia.org/wiki/박정현 "wikilink"), [김형석](https://ko.wikipedia.org/wiki/김형석_\(음악가\) "wikilink") / 작곡 : 다이스케 가와구치, [김형석](https://ko.wikipedia.org/wiki/김형석_\(음악가\) "wikilink") ／ 편곡 : [김형석](https://ko.wikipedia.org/wiki/김형석_\(음악가\) "wikilink")
+      - 작사：[박정현](../Page/박정현.md "wikilink"), [김형석](../Page/김형석_\(음악가\).md "wikilink") / 작곡 : 다이스케 가와구치, [김형석](../Page/김형석_\(음악가\).md "wikilink") ／ 편곡 : [김형석](../Page/김형석_\(음악가\).md "wikilink")
 3.  **Let's Get Together Now (JAPAN ver.)～LESS VOCAL**
 4.  **Let's Get Together Now (KOREA ver.)～LESS VOCAL**
 
@@ -45,11 +45,11 @@
 ## 활동/방송
 
   - 2002년 03월 22일: 한ㆍ일 국민 교류의 해 기념의 밤 행사 (장소 - 대한민국 서울 하얏트 호텔)\[2\]
-  - 2002년 03월 23일: [KBS2](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") [연예가 중계](https://ko.wikipedia.org/wiki/연예가_중계 "wikilink") (인터뷰)
-  - 2002년 04월 05일: [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") [뮤직스테이션](https://ko.wikipedia.org/wiki/뮤직스테이션 "wikilink")
+  - 2002년 03월 23일: [KBS2](../Page/KBS_2TV.md "wikilink") [연예가 중계](https://ko.wikipedia.org/wiki/연예가_중계 "wikilink") (인터뷰)
+  - 2002년 04월 05일: [TV 아사히](../Page/TV_아사히.md "wikilink") [뮤직스테이션](https://ko.wikipedia.org/wiki/뮤직스테이션 "wikilink")
   - 2002년 05월 30일: 월드컵 전야제 (장소 - 대한민국 [서울 월드컵 경기장](https://ko.wikipedia.org/wiki/서울_월드컵_경기장 "wikilink") 앞 평화의 공원)
 
-2002 FIFA 월드컵 문화 큰잔치 경축 전야제 ([KBS2](https://ko.wikipedia.org/wiki/KBS2TV "wikilink"), [MBC](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"), [SBS](https://ko.wikipedia.org/wiki/SBS_TV "wikilink") 지상파 동시 방송)
+2002 FIFA 월드컵 문화 큰잔치 경축 전야제 ([KBS2](https://ko.wikipedia.org/wiki/KBS2TV "wikilink"), [MBC](../Page/MBC_TV.md "wikilink"), [SBS](../Page/SBS_TV.md "wikilink") 지상파 동시 방송)
 
   - 2002년 05월 31일: 월드컵 개막식 (장소 - 대한민국 [서울 월드컵 경기장](https://ko.wikipedia.org/wiki/서울_월드컵_경기장 "wikilink"))
   - 2002년 06월 28일: FIFA 한ㆍ일 월드컵 공식 콘서트 (장소 - 일본 도쿄 스타디움)
@@ -58,7 +58,7 @@
 ## 같이 보기
 
   - [Voices of KOREA/JAPAN](https://ko.wikipedia.org/wiki/Voices_of_KOREA/JAPAN "wikilink")
-  - [2002년 FIFA 월드컵 공식 음반](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_공식_음반 "wikilink")
+  - [2002년 FIFA 월드컵 공식 음반](../Page/2002년_FIFA_월드컵_공식_음반.md "wikilink")
 
 ## 참조
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SP  ](https://ko.wikipedia.org/wiki/SP__).
 
 
-**SP 트레 펜네**는 [산마리노를](https://ko.wikipedia.org/wiki/산마리노_\(도시\) "wikilink") 연고로 하는 [산마리노](https://ko.wikipedia.org/wiki/산마리노 "wikilink")의 축구팀이다. 1956년에 창단되었으며 현재 [캄피오나토 산마리노 디 칼초](https://ko.wikipedia.org/wiki/캄피오나토_산마리노_디_칼초 "wikilink") B조에 속해있다. 팀 색상은 하양과 파랑 (홈), 빨강 (원정)이다.
+**SP 트레 펜네**는 [산마리노를](https://ko.wikipedia.org/wiki/산마리노_\(도시\) "wikilink") 연고로 하는 [산마리노](../Page/산마리노.md "wikilink")의 축구팀이다. 1956년에 창단되었으며 현재 [캄피오나토 산마리노 디 칼초](https://ko.wikipedia.org/wiki/캄피오나토_산마리노_디_칼초 "wikilink") B조에 속해있다. 팀 색상은 하양과 파랑 (홈), 빨강 (원정)이다.
 
 ## 업적
 

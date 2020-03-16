@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CFOP ](https://ko.wikipedia.org/wiki/CFOP_).
 
 
-**CFOP 방법** (Cross – F2L – OLL – PLL)또는 **프리드리히 방법**(Fridrich method)은 3×3×3 [루빅스 큐브의](https://ko.wikipedia.org/wiki/루빅스_큐브 "wikilink") [스피드 큐빙에서](https://ko.wikipedia.org/wiki/스피드_큐빙 "wikilink") 가장 대중적으로 많이 쓰이는 방법이다. 이 방법은 1980년대 초에 처음으로 많은 스피드 큐버의 방법들을 결합해서 만들어졌다. 체코 스피드 큐버 [제시카 프리드리히](https://ko.wikipedia.org/wiki/제시카_프리드리히 "wikilink")(Jessica Fridrich)는 일반적으로 1997년에 이것을 온라인에 게시하여 대중화시킨 것으로 알려져 있다.\[1\]
+**CFOP 방법** (Cross – F2L – OLL – PLL)또는 **프리드리히 방법**(Fridrich method)은 3×3×3 [루빅스 큐브의](../Page/루빅스_큐브.md "wikilink") [스피드 큐빙에서](https://ko.wikipedia.org/wiki/스피드_큐빙 "wikilink") 가장 대중적으로 많이 쓰이는 방법이다. 이 방법은 1980년대 초에 처음으로 많은 스피드 큐버의 방법들을 결합해서 만들어졌다. 체코 스피드 큐버 [제시카 프리드리히](https://ko.wikipedia.org/wiki/제시카_프리드리히 "wikilink")(Jessica Fridrich)는 일반적으로 1997년에 이것을 온라인에 게시하여 대중화시킨 것으로 알려져 있다.\[1\]
 
 이 방법은 층층이 쌓아올리는 방법이다. 처음에는 바닥의 십자를 맞춘다, 처음 두 층(first two layers)을 맞춘다 (F2L), 마지막 층의 방향(orienting the last layer)를 맞춘다 (OLL), 그리고 마지막으로 마지막 층의 위치(permuting the last layer)를 맞춘다 (PLL).
 
@@ -28,7 +28,7 @@
 
 ## 대회 사용
 
-CFOP는 많이 사용되며 그 강한 [알고리즘](https://ko.wikipedia.org/wiki/알고리즘 "wikilink"), [패턴 인식](https://ko.wikipedia.org/wiki/패턴_인식 "wikilink") 그리고 [근육 기억에](https://ko.wikipedia.org/wiki/근육_기억 "wikilink") 대한 의존성 때문에 [Rowe Hessler](https://ko.wikipedia.org/wiki/Rowe_Hessler "wikilink"), [Mats Valk](https://ko.wikipedia.org/wiki/Mats_Valk "wikilink"), 그리고 [Feliks Zemdegs를](https://ko.wikipedia.org/wiki/Feliks_Zemdegs "wikilink") 포함하는 많은 [스피드 큐버이](https://ko.wikipedia.org/wiki/스피드_큐빙 "wikilink") 의존하는 방법이다; [루해법이나](https://ko.wikipedia.org/wiki/스피드_큐빙#루해법 "wikilink") [페트러스 해법과](https://ko.wikipedia.org/wiki/스피드_큐빙#페트러스_해법 "wikilink") 같은 더 직관적인 방법과는 대조적이다. WCA 랭킹 목록의 최고 스피드 큐버의 대부분은 CFOP를 사용한다.\[5\]
+CFOP는 많이 사용되며 그 강한 [알고리즘](../Page/알고리즘.md "wikilink"), [패턴 인식](../Page/패턴_인식.md "wikilink") 그리고 [근육 기억에](https://ko.wikipedia.org/wiki/근육_기억 "wikilink") 대한 의존성 때문에 [Rowe Hessler](https://ko.wikipedia.org/wiki/Rowe_Hessler "wikilink"), [Mats Valk](https://ko.wikipedia.org/wiki/Mats_Valk "wikilink"), 그리고 [Feliks Zemdegs를](https://ko.wikipedia.org/wiki/Feliks_Zemdegs "wikilink") 포함하는 많은 [스피드 큐버이](https://ko.wikipedia.org/wiki/스피드_큐빙 "wikilink") 의존하는 방법이다; [루해법이나](https://ko.wikipedia.org/wiki/스피드_큐빙#루해법 "wikilink") [페트러스 해법과](https://ko.wikipedia.org/wiki/스피드_큐빙#페트러스_해법 "wikilink") 같은 더 직관적인 방법과는 대조적이다. WCA 랭킹 목록의 최고 스피드 큐버의 대부분은 CFOP를 사용한다.\[5\]
 
 ## 참조
 

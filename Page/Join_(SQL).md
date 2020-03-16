@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Join \(SQL\)](https://ko.wikipedia.org/wiki/Join_\(SQL\)).
 
 
-**join(조인)** 또는 **결합 구문**은 한 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink") 내의 여러 [테이블의](https://ko.wikipedia.org/wiki/테이블_\(데이터베이스\) "wikilink") 레코드를 조합하여 하나의 열로 표현한 것이다. 따라서 조인은 테이블로서 저장되거나, 그 자체로 이용할 수 있는 결과 셋을 만들어 낸다. JOIN은 2개의 테이블에서 각각의 공통값을 이용함으로써 필드를 조합하는 수단이 된다. ANSI 표준 SQL은 네가지 유형의 JOIN을 규정한다.
+**join(조인)** 또는 **결합 구문**은 한 [데이터베이스](../Page/데이터베이스.md "wikilink") 내의 여러 [테이블의](https://ko.wikipedia.org/wiki/테이블_\(데이터베이스\) "wikilink") 레코드를 조합하여 하나의 열로 표현한 것이다. 따라서 조인은 테이블로서 저장되거나, 그 자체로 이용할 수 있는 결과 셋을 만들어 낸다. JOIN은 2개의 테이블에서 각각의 공통값을 이용함으로써 필드를 조합하는 수단이 된다. ANSI 표준 SQL은 네가지 유형의 JOIN을 규정한다.
 
   - INNER JOIN
   - OUTER JOIN
@@ -14,9 +14,9 @@
 
 ## 예제 테이블
 
-관계 데이터베이스는 종종 객체가 1 : 다의 관계를 가질 때, 정보의 중복을 제거하기 위해 [정규화](https://ko.wikipedia.org/wiki/정규화 "wikilink")시킨다. 예를 들어, 부서(Department)라는 것은 다수의 다른 직원(Employee)들과 연관되어 있다. 효과적으로 2개의 테이블을 결합시키는 것은 2개의 테이블 모두에서 결합된 정보를 가진 또 다른 테이블을 만든다. 이것은 결합을 계산하는데 소요되는 시간적 측면에서 어느 정도 자원을 소요한다. 속도가 중요하다면, 탈정규화된 테이블을 단순히 유지시키는 것이 가능하지만, 중복된 데이터가 이후에 변경된다면 중복된 정보는 추가 비용을 발생시켜, 비용을 증가시키고, [데이터 무결성을](https://ko.wikipedia.org/wiki/데이터_무결성 "wikilink") 유지하는데 있어서 복잡성을 야기한다.
+관계 데이터베이스는 종종 객체가 1 : 다의 관계를 가질 때, 정보의 중복을 제거하기 위해 [정규화](https://ko.wikipedia.org/wiki/정규화 "wikilink")시킨다. 예를 들어, 부서(Department)라는 것은 다수의 다른 직원(Employee)들과 연관되어 있다. 효과적으로 2개의 테이블을 결합시키는 것은 2개의 테이블 모두에서 결합된 정보를 가진 또 다른 테이블을 만든다. 이것은 결합을 계산하는데 소요되는 시간적 측면에서 어느 정도 자원을 소요한다. 속도가 중요하다면, 탈정규화된 테이블을 단순히 유지시키는 것이 가능하지만, 중복된 데이터가 이후에 변경된다면 중복된 정보는 추가 비용을 발생시켜, 비용을 증가시키고, [데이터 무결성을](../Page/데이터_무결성.md "wikilink") 유지하는데 있어서 복잡성을 야기한다.
 
-이 글에서 결합 형식에 대한 모든 부가적인 설명은 다음의 두 테이블을 예제로 이용한다. 이러한 테이블에서의 열은 다른 유형의 결합과 결합 서술문의 결과를 설명하는 역할을 할 것이다. 다음의 테이블에서 Department 테이블의 Department ID 컬럼(Department.Department ID로 표현할 수 있다.)이 [기본 키이며](../Page/기본_키.md "wikilink"), Employee.Department ID가 [외래 키이다](https://ko.wikipedia.org/wiki/외래_키 "wikilink").
+이 글에서 결합 형식에 대한 모든 부가적인 설명은 다음의 두 테이블을 예제로 이용한다. 이러한 테이블에서의 열은 다른 유형의 결합과 결합 서술문의 결과를 설명하는 역할을 할 것이다. 다음의 테이블에서 Department 테이블의 Department ID 컬럼(Department.Department ID로 표현할 수 있다.)이 [기본 키이며](../Page/기본_키.md "wikilink"), Employee.Department ID가 [외래 키이다](../Page/외래_키.md "wikilink").
 
 <table>
 <caption>Employee 테이블</caption>
@@ -96,7 +96,7 @@ INSERT INTO employee(LastName, DepartmentID) VALUES('John', NULL);
 
 ## 교차 조인
 
-`CROSS JOIN` 절은 조인되는 두 테이블에서 [곱집합](https://ko.wikipedia.org/wiki/곱집합 "wikilink")을 반환한다. 즉, 두 번째 테이블로부터 각 행과 첫 번째 테이블에서 각 행이 한번씩 결합된 열을 만들 것이다. 예를 들어 m행을 가진 테이블과 n행을 가진 테이블이 교차 조인되면 m\*n 개의 행을 생성한다.\[1\]
+`CROSS JOIN` 절은 조인되는 두 테이블에서 [곱집합](../Page/곱집합.md "wikilink")을 반환한다. 즉, 두 번째 테이블로부터 각 행과 첫 번째 테이블에서 각 행이 한번씩 결합된 열을 만들 것이다. 예를 들어 m행을 가진 테이블과 n행을 가진 테이블이 교차 조인되면 m\*n 개의 행을 생성한다.\[1\]
 
 교차 조인의 명시적 예는 다음과 같다:
 
@@ -716,7 +716,7 @@ Employee Table after Self-join by Country
 
 여러 줄을 하나의 열로 병합하기 위해서는 그룹 컨캣 표기법(group_concat notation)을 사용한다.
 
-[MySQL](https://ko.wikipedia.org/wiki/MySQL "wikilink") 과 [CUBRID](https://ko.wikipedia.org/wiki/CUBRID "wikilink")는 그러한 목표를 얻기 위해 `group_concat` 키워드를 사용하며, [PostgreSQL](https://ko.wikipedia.org/wiki/PostgreSQL "wikilink") 9.0은 `string_agg` 함수를 사용한다. 9.0 이전의 판은 다음과 같이 해야 한다.
+[MySQL](../Page/MySQL.md "wikilink") 과 [CUBRID](../Page/CUBRID.md "wikilink")는 그러한 목표를 얻기 위해 `group_concat` 키워드를 사용하며, [PostgreSQL](../Page/PostgreSQL.md "wikilink") 9.0은 `string_agg` 함수를 사용한다. 9.0 이전의 판은 다음과 같이 해야 한다.
 
 `array_to_string(array_agg(value),', ')`
 

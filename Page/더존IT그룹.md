@@ -5,9 +5,9 @@
 
 1997년 설립되어 세무회계 소프트웨어를 중심으로 성장했다. **더존비즈온**이 모태이며 **더존다스**를 지주회사로 하고 있다. 사명(社名)인 “더존”은 세무회계 소프트웨어의 대명사로도 사용된다. 대한민국 ERP 점유율 1위 기업으로, 2018년 대한민국 소프트웨어기업 최초로 2000억원대 매출을 기록했다.
 
-기업시장([B2B](https://ko.wikipedia.org/wiki/B2B "wikilink"))을 주요 고객군으로 하며 MIS([경영 정보 시스템](https://ko.wikipedia.org/wiki/경영_정보_시스템 "wikilink")), ERP([전사적 자원 관리](https://ko.wikipedia.org/wiki/전사적_자원_관리 "wikilink"))와 같은 주력 솔루션 외에도 [컴퓨터 포렌식을](https://ko.wikipedia.org/wiki/컴퓨터_포렌식 "wikilink") 비롯한 각종 보안서비스와 [공인전자문서센터](https://ko.wikipedia.org/wiki/공인전자문서센터 "wikilink"), [샵메일](https://ko.wikipedia.org/wiki/샵메일 "wikilink")서비스, 전자세금계산서, 간편결재시스템, [그룹웨어](https://ko.wikipedia.org/wiki/그룹웨어 "wikilink"), [인터넷 팩스](https://ko.wikipedia.org/wiki/인터넷_팩스 "wikilink") 시스템, [e러닝](https://ko.wikipedia.org/wiki/e러닝 "wikilink")등, ICT 전반에 대한 서비스를 제공한다.
+기업시장([B2B](../Page/B2B.md "wikilink"))을 주요 고객군으로 하며 MIS([경영 정보 시스템](../Page/경영_정보_시스템.md "wikilink")), ERP([전사적 자원 관리](https://ko.wikipedia.org/wiki/전사적_자원_관리 "wikilink"))와 같은 주력 솔루션 외에도 [컴퓨터 포렌식을](../Page/컴퓨터_포렌식.md "wikilink") 비롯한 각종 보안서비스와 [공인전자문서센터](https://ko.wikipedia.org/wiki/공인전자문서센터 "wikilink"), [샵메일](../Page/샵메일.md "wikilink")서비스, 전자세금계산서, 간편결재시스템, [그룹웨어](https://ko.wikipedia.org/wiki/그룹웨어 "wikilink"), [인터넷 팩스](../Page/인터넷_팩스.md "wikilink") 시스템, [e러닝](https://ko.wikipedia.org/wiki/e러닝 "wikilink")등, ICT 전반에 대한 서비스를 제공한다.
 
-2011년에 강원도 춘천시 남산면 수동리에 위치한 **더존 강촌캠퍼스**로 본사를 이전하고 데이터 센터를 개관하여 본격적인 **[클라우드 컴퓨팅](https://ko.wikipedia.org/wiki/클라우드_컴퓨팅 "wikilink")** 사업에 진출했다. **더존 강촌캠퍼스**는 SBS 드라마 《[보스를 지켜라](https://ko.wikipedia.org/wiki/보스를_지켜라 "wikilink")》(2011), 영화 《[동창생](../Page/동창생_\(2013년_영화\).md "wikilink")》(2013) 등의 촬영 장소로도 사용되었다.
+2011년에 강원도 춘천시 남산면 수동리에 위치한 **더존 강촌캠퍼스**로 본사를 이전하고 데이터 센터를 개관하여 본격적인 **[클라우드 컴퓨팅](../Page/클라우드_컴퓨팅.md "wikilink")** 사업에 진출했다. **더존 강촌캠퍼스**는 SBS 드라마 《[보스를 지켜라](../Page/보스를_지켜라.md "wikilink")》(2011), 영화 《[동창생](../Page/동창생_\(2013년_영화\).md "wikilink")》(2013) 등의 촬영 장소로도 사용되었다.
 
 ## 연혁
 

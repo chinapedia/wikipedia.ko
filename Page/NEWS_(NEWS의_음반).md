@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEWS \(NEWS \)](https://ko.wikipedia.org/wiki/NEWS_\(NEWS_\)).
 
 
-《**NEWS**》(뉴스)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 5번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**NEWS**》(뉴스)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 5번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -51,7 +51,7 @@
         작사·작곡·편곡: 히로이즘
 12. **** / **<small>풀 스윙</small>**
       -
-        작사·작곡: 히로이즘 / 편곡: [카메다 세이지](https://ko.wikipedia.org/wiki/카메다_세이지 "wikilink")
+        작사·작곡: 히로이즘 / 편곡: [카메다 세이지](../Page/카메다_세이지.md "wikilink")
 
 **DVD**
 
@@ -84,16 +84,16 @@
 
 <!-- end list -->
 
-1.  **Beautiful Rain** \[Vocal:[코야마 케이치로](https://ko.wikipedia.org/wiki/코야마_케이치로 "wikilink")\]
+1.  **Beautiful Rain** \[Vocal:[코야마 케이치로](../Page/코야마_케이치로.md "wikilink")\]
       -
         작사: 코야마 케이치로, SHOW / 작곡·편곡: SHOW
-2.  **Dreamcatcher** \[Vocal:[카토 시게아키](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink")\]
+2.  **Dreamcatcher** \[Vocal:[카토 시게아키](../Page/카토_시게아키.md "wikilink")\]
       -
         작사·작곡: 카토 시게아키 / 편곡: 나카니시 료스케
-3.  **Remedy** \[Vocal:[마스다 타카히사](https://ko.wikipedia.org/wiki/마스다_타카히사 "wikilink")\]
+3.  **Remedy** \[Vocal:[마스다 타카히사](../Page/마스다_타카히사.md "wikilink")\]
       -
         작사·작곡: Ryohei Yamamoto / 편곡: Suzuki
-4.  **Lovin' U** \[Vocal:[테고시 유야](https://ko.wikipedia.org/wiki/테고시_유야 "wikilink")\]
+4.  **Lovin' U** \[Vocal:[테고시 유야](../Page/테고시_유야.md "wikilink")\]
       -
         작사: Satomi / 작곡: 타이치, 이하시 세이야, 와타나베 타쿠야 / 편곡: 이시즈카 토모오
 

@@ -3,7 +3,7 @@
 
 **선더 포스 III**(サンダーフォース III)은 [선더 포스 시리즈의](https://ko.wikipedia.org/wiki/선더_포스_시리즈 "wikilink") 세 번째 작품이다.
 
-[1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [6월 8일에](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") 메가드라이브로 발매되었고, 같은 해에 일부 내용을 변경하여 *선더포스 AC*의 제목으로 업소용으로 이식되었다. 이듬해인 1991년에는 AC가 *선더 스피리츠*의 제목으로 [도시바](https://ko.wikipedia.org/wiki/도시바 "wikilink")EMI에 의해 [슈퍼 패미콤으로](https://ko.wikipedia.org/wiki/슈퍼패미콤 "wikilink") 이식되었다.
+[1990년](../Page/1990년.md "wikilink") [6월 8일에](../Page/6월_8일.md "wikilink") 메가드라이브로 발매되었고, 같은 해에 일부 내용을 변경하여 *선더포스 AC*의 제목으로 업소용으로 이식되었다. 이듬해인 1991년에는 AC가 *선더 스피리츠*의 제목으로 [도시바](../Page/도시바.md "wikilink")EMI에 의해 [슈퍼 패미콤으로](https://ko.wikipedia.org/wiki/슈퍼패미콤 "wikilink") 이식되었다.
 
 ## 시스템
 

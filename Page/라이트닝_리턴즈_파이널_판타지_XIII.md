@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [    XIII](https://ko.wikipedia.org/wiki/____XIII).
 
 
-『**라이트닝 리턴즈 파이널 판타지 XIII**』(ライトニング リターンズ ファイナルファンタジーサーティーン, LIGHTNING RETURNS FINAL FANTASY XIII, 약칭： **LRFFXIII**, **LRFF13**)은 [스퀘어 에닉스가](https://ko.wikipedia.org/wiki/스퀘어_에닉스 "wikilink") [플레이스테이션 3과](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") [엑스박스 360으로](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") 2013년에 발매한 게임이다. 『**[파이널 판타지 XIII](https://ko.wikipedia.org/wiki/파이널_판타지_XIII "wikilink")**』과 『**[파이널 판타지 XIII-2](../Page/파이널_판타지_XIII-2.md "wikilink")**』의 속편이다.
+『**라이트닝 리턴즈 파이널 판타지 XIII**』(ライトニング リターンズ ファイナルファンタジーサーティーン, LIGHTNING RETURNS FINAL FANTASY XIII, 약칭： **LRFFXIII**, **LRFF13**)은 [스퀘어 에닉스가](../Page/스퀘어_에닉스.md "wikilink") [플레이스테이션 3과](../Page/플레이스테이션_3.md "wikilink") [엑스박스 360으로](../Page/엑스박스_360.md "wikilink") 2013년에 발매한 게임이다. 『**[파이널 판타지 XIII](https://ko.wikipedia.org/wiki/파이널_판타지_XIII "wikilink")**』과 『**[파이널 판타지 XIII-2](../Page/파이널_판타지_XIII-2.md "wikilink")**』의 속편이다.
 
 ## 개요
 
@@ -10,7 +10,7 @@
   - 라이트닝 리턴즈（LIGHTNING RETURNS）
     예전 작품의 주인공인 라이트닝이 다시 주인공이 되었으며 본 작품이 「라이트닝 전설」의 완결편이 된다.
   - 월드 드리븐（WORLD DRIVEN）
-    월드 드리븐이란 4개의 대륙으로 구성된 세계를 플레이어가 밤낮으로 생활하고 체험하는 것을 의미한다. 현실 세계의 플레이어가 [페이스북](https://ko.wikipedia.org/wiki/페이스북 "wikilink")이나 공식 웹 사이트 등을 통해 교류할 수 있다.
+    월드 드리븐이란 4개의 대륙으로 구성된 세계를 플레이어가 밤낮으로 생활하고 체험하는 것을 의미한다. 현실 세계의 플레이어가 [페이스북](../Page/페이스북.md "wikilink")이나 공식 웹 사이트 등을 통해 교류할 수 있다.
 
 본 작품의 타이틀이 『파이널 판타지 XIII-3』가 아닌 이유는 「*“새로운 게임 체험”이 가능함을 알리기 위해서*」, 「*라이트닝의 전설이 완결됨을 강조하기 위해서*」라고 한다\[1\].
 
@@ -35,7 +35,7 @@
 
 ## 외부 링크
 
-  - [공식 사이트](http://www.square-enix.co.jp/fabula/LightningReturnsFFXIII)([인터넷 익스플로러 9](https://ko.wikipedia.org/wiki/인터넷_익스플로러_9 "wikilink"), [모질라 파이어폭스Ver](https://ko.wikipedia.org/wiki/모질라_파이어폭스 "wikilink").14, [구글 크롬Ver](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink").21보다 구 버전의 브라우저([인터넷 익스플로러 8등](https://ko.wikipedia.org/wiki/인터넷_익스플로러_8 "wikilink"))에서는 추천 브라우저로 봐달라는 메시지가 표시됨)
+  - [공식 사이트](http://www.square-enix.co.jp/fabula/LightningReturnsFFXIII)([인터넷 익스플로러 9](../Page/인터넷_익스플로러_9.md "wikilink"), [모질라 파이어폭스Ver](../Page/모질라_파이어폭스.md "wikilink").14, [구글 크롬Ver](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink").21보다 구 버전의 브라우저([인터넷 익스플로러 8등](../Page/인터넷_익스플로러_8.md "wikilink"))에서는 추천 브라우저로 봐달라는 메시지가 표시됨)
   - 2012년 9월 1일의 파이널 판타지 전시회에서 이루어진 프레젠테이션
       -
       -

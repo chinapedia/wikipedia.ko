@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [WebRTC](https://ko.wikipedia.org/wiki/WebRTC).
 
 
-**WebRTC** (Web Real-Time Communication)는 [웹 브라우저](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink") 간에 [플러그인](https://ko.wikipedia.org/wiki/플러그인 "wikilink")의 도움 없이 서로 통신할 수 있도록 설계된 [API](https://ko.wikipedia.org/wiki/API "wikilink")이다. [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")에서 제시된 초안이며, 음성 통화, 영상 통화, P2P 파일 공유 등으로 활용될 수 있다.
+**WebRTC** (Web Real-Time Communication)는 [웹 브라우저](../Page/웹_브라우저.md "wikilink") 간에 [플러그인](../Page/플러그인.md "wikilink")의 도움 없이 서로 통신할 수 있도록 설계된 [API](../Page/API.md "wikilink")이다. [W3C](../Page/W3C.md "wikilink")에서 제시된 초안이며, 음성 통화, 영상 통화, P2P 파일 공유 등으로 활용될 수 있다.
 
 ## 역사
 
-[웹 브라우저](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink") 기반의 통신 방식인 WebRTC는 [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")이 [오픈 소스화한](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 프로젝트에서 기원하였다.\[1\] 그 뒤로 [국제 인터넷 표준화 기구](https://ko.wikipedia.org/wiki/국제_인터넷_표준화_기구 "wikilink")\[2\]가 [프로토콜](https://ko.wikipedia.org/wiki/프로토콜 "wikilink") 표준화 작업을, [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")가 API 정의를 진행하였다.\[3\]
+[웹 브라우저](../Page/웹_브라우저.md "wikilink") 기반의 통신 방식인 WebRTC는 [구글](../Page/구글.md "wikilink")이 [오픈 소스화한](../Page/오픈_소스.md "wikilink") 프로젝트에서 기원하였다.\[1\] 그 뒤로 [국제 인터넷 표준화 기구](../Page/국제_인터넷_표준화_기구.md "wikilink")\[2\]가 [프로토콜](https://ko.wikipedia.org/wiki/프로토콜 "wikilink") 표준화 작업을, [W3C](../Page/W3C.md "wikilink")가 API 정의를 진행하였다.\[3\]
 
 WebRTC의 W3C 초안\[4\] 작업은 진행 중이며 [크롬과](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") [파이어폭스](https://ko.wikipedia.org/wiki/파이어폭스 "wikilink") 브라우저에서 먼저 구현되고 있다. API는 [WHATWG](../Page/WHATWG.md "wikilink")\[5\]과 [에릭슨](https://ko.wikipedia.org/wiki/에릭슨 "wikilink").\[6\]의 작업에 기반하여 정의되었다.
 
@@ -13,11 +13,11 @@ WebRTC의 W3C 초안\[4\] 작업은 진행 중이며 [크롬과](https://ko.wiki
 
 ### 설계
 
-WebRTC의 주요 구성 요소는 여러 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink") [API](https://ko.wikipedia.org/wiki/API "wikilink")를 포함하고 있다:
+WebRTC의 주요 구성 요소는 여러 [자바스크립트](../Page/자바스크립트.md "wikilink") [API](../Page/API.md "wikilink")를 포함하고 있다:
 
   - `getUserMedia`: 오디오와 비디오 미디어를 가져온다. (예: 장치의 카메라와 마이크로폰에 접근하여)\[7\]
-  - `RTCPeerConnection`: 피어 간 오디오, 비디오 통신을 활성화한다. [신호 처리](https://ko.wikipedia.org/wiki/신호_처리 "wikilink"), [코덱](https://ko.wikipedia.org/wiki/코덱 "wikilink") 관리, P2P 통신, 보안, [대역폭](https://ko.wikipedia.org/wiki/대역폭 "wikilink") 관리를 수행한다.\[8\]
-  - `RTCDataChannel`: 피어 간 양방향 임의 데이터 통신을 허용한다. [웹소켓](https://ko.wikipedia.org/wiki/웹소켓 "wikilink")과 동일한 API를 사용하며 매우 낮은 [레이턴시를](https://ko.wikipedia.org/wiki/네트워크_레이턴시 "wikilink") 보인다.\[9\]
+  - `RTCPeerConnection`: 피어 간 오디오, 비디오 통신을 활성화한다. [신호 처리](https://ko.wikipedia.org/wiki/신호_처리 "wikilink"), [코덱](../Page/코덱.md "wikilink") 관리, P2P 통신, 보안, [대역폭](https://ko.wikipedia.org/wiki/대역폭 "wikilink") 관리를 수행한다.\[8\]
+  - `RTCDataChannel`: 피어 간 양방향 임의 데이터 통신을 허용한다. [웹소켓](../Page/웹소켓.md "wikilink")과 동일한 API를 사용하며 매우 낮은 [레이턴시를](https://ko.wikipedia.org/wiki/네트워크_레이턴시 "wikilink") 보인다.\[9\]
 
 또, WebRTC API는 통계 함수를 포함한다:
 
@@ -30,22 +30,22 @@ WebRTC는 다음의 브라우저에서 지원된다:
   - 데스크톱 PC
       - [마이크로소프트 엣지](../Page/마이크로소프트_엣지.md "wikilink") 12+\[11\]
       - [구글 크롬](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") 28+
-      - [모질라 파이어폭스](https://ko.wikipedia.org/wiki/모질라_파이어폭스 "wikilink") 22+\[12\]
-      - [Safari](https://ko.wikipedia.org/wiki/사파리_\(웹_브라우저\) "wikilink") 11+\[13\]
-      - [Opera](https://ko.wikipedia.org/wiki/오페라_\(웹_브라우저\) "wikilink") 18+\[14\]
+      - [모질라 파이어폭스](../Page/모질라_파이어폭스.md "wikilink") 22+\[12\]
+      - [Safari](../Page/사파리_\(웹_브라우저\).md "wikilink") 11+\[13\]
+      - [Opera](../Page/오페라_\(웹_브라우저\).md "wikilink") 18+\[14\]
       - [Vivaldi](../Page/비발디_\(웹_브라우저\).md "wikilink") 1.9+
-  - [Android](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink")
+  - [Android](../Page/안드로이드_\(운영_체제\).md "wikilink")
       - Google Chrome 28+ (버전 29부터 기본으로 활성화됨)
       - Mozilla Firefox 24+\[15\]
       - Opera Mobile 12+
-  - [크롬 OS](https://ko.wikipedia.org/wiki/크롬_OS "wikilink")
-  - [파이어폭스 OS](https://ko.wikipedia.org/wiki/파이어폭스_OS "wikilink")
+  - [크롬 OS](../Page/크롬_OS.md "wikilink")
+  - [파이어폭스 OS](../Page/파이어폭스_OS.md "wikilink")
   - [블랙베리 10](../Page/블랙베리_10.md "wikilink")
-  - [IOS 11](https://ko.wikipedia.org/wiki/IOS_11 "wikilink")
+  - [IOS 11](../Page/IOS_11.md "wikilink")
       - MobileSafari/WebKit
-  - [타이젠](https://ko.wikipedia.org/wiki/타이젠 "wikilink") 3.0
+  - [타이젠](../Page/타이젠.md "wikilink") 3.0
 
-2013년 10월 마지막 기능 릴리스 이전의 [인터넷 익스플로러에서는](https://ko.wikipedia.org/wiki/인터넷_익스플로러 "wikilink") 지원되지 않으나,\[16\] 서드파티 플러그인을 사용하여 인터넷 익스플로러와 macOS용 사파리에서 WebRTC 지원을 추가할 수 있다.\[17\]\[18\] [WWDC](https://ko.wikipedia.org/wiki/애플_세계_개발자_회의 "wikilink") 2017에서, 애플은 사파리 11에서 WebRTC를 지원할 것이라고 발표했으며,\[19\] 사파리 테크놀로지 프리뷰 릴리스 32에서 사용 가능하게 되었다.\[20\]
+2013년 10월 마지막 기능 릴리스 이전의 [인터넷 익스플로러에서는](../Page/인터넷_익스플로러.md "wikilink") 지원되지 않으나,\[16\] 서드파티 플러그인을 사용하여 인터넷 익스플로러와 macOS용 사파리에서 WebRTC 지원을 추가할 수 있다.\[17\]\[18\] [WWDC](https://ko.wikipedia.org/wiki/애플_세계_개발자_회의 "wikilink") 2017에서, 애플은 사파리 11에서 WebRTC를 지원할 것이라고 발표했으며,\[19\] 사파리 테크놀로지 프리뷰 릴리스 32에서 사용 가능하게 되었다.\[20\]
 
 ## 참조
 

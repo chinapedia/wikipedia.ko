@@ -1,25 +1,25 @@
 > This article is converted from Wikipedia: [TAKE FIVE](https://ko.wikipedia.org/wiki/TAKE_FIVE).
 
 
-《**TAKE FIVE\~우리는 사랑을 훔칠 수 있을까\~**》()는, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 19일부터](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") [6월 22일까지](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") [계열의](https://ko.wikipedia.org/wiki/재팬_뉴스_네트워크 "wikilink") [금요드라마](https://ko.wikipedia.org/wiki/TBS_금요드라마 "wikilink") 시간대(매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 20:00 \~ 22:54 〈[JST](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink")〉)에서 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [카라사와 토시아키](https://ko.wikipedia.org/wiki/카라사와_토시아키 "wikilink").
+《**TAKE FIVE\~우리는 사랑을 훔칠 수 있을까\~**》()는, [2013년](../Page/2013년.md "wikilink") [4월 19일부터](../Page/4월_19일.md "wikilink") [6월 22일까지](../Page/6월_22일.md "wikilink") [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [계열의](../Page/재팬_뉴스_네트워크.md "wikilink") [금요드라마](../Page/TBS_금요드라마.md "wikilink") 시간대(매주 [금요일](../Page/금요일.md "wikilink") 20:00 \~ 22:54 〈[JST](../Page/일본_표준시.md "wikilink")〉)에서 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [카라사와 토시아키](../Page/카라사와_토시아키.md "wikilink").
 
 ## 줄거리
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:Leonardo_da_Vinci_\(attrib\)-_la_Belle_Ferroniere.jpg "wikilink") 〈루크레치아의 초상(밀라노의 귀부인의 초상)〉([루브르 박물관](https://ko.wikipedia.org/wiki/루브르_박물관 "wikilink") 소장)\]\] 〈TAKE FIVE〉라는 도둑단은, 나쁜 녀석들로부터 거금을 빼앗는 의적 집단이다. 20년 전까지 〈TAKE FIVE〉에서 아버지와 행동을 함께 했던 호무라 마사요시(카라사와 토시아키)는, 한 사건이 계기로 〈TAKE FIVE〉를 인퇴했다. 그 후는 도내의 대학에서, 범죄에 손을 대지 않고 교수로서 교편을 잡고 있었다.
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Leonardo_da_Vinci_\(attrib\)-_la_Belle_Ferroniere.jpg "wikilink") 〈루크레치아의 초상(밀라노의 귀부인의 초상)〉([루브르 박물관](../Page/루브르_박물관.md "wikilink") 소장)\]\] 〈TAKE FIVE〉라는 도둑단은, 나쁜 녀석들로부터 거금을 빼앗는 의적 집단이다. 20년 전까지 〈TAKE FIVE〉에서 아버지와 행동을 함께 했던 호무라 마사요시(카라사와 토시아키)는, 한 사건이 계기로 〈TAKE FIVE〉를 인퇴했다. 그 후는 도내의 대학에서, 범죄에 손을 대지 않고 교수로서 교편을 잡고 있었다.
 
 ## 등장인물
 
 ### TAKE FIVE
 
-  - 호무라 마사요시 - [카라사와 토시아키](https://ko.wikipedia.org/wiki/카라사와_토시아키 "wikilink")
-    죠쿄 대학 [심리학](https://ko.wikipedia.org/wiki/심리학 "wikilink")부 연구실 교수. 전공은 연애 심리학. 재즈 넘버 〈테이크 파이브〉를 애청하며, 재즈 바 〈SWING TIME〉의 오너를 하고 있지만, 술을 못한다.
-  - 니이미 하루토 (27) - [마츠자카 토리](https://ko.wikipedia.org/wiki/마츠자카_토리 "wikilink")
+  - 호무라 마사요시 - [카라사와 토시아키](../Page/카라사와_토시아키.md "wikilink")
+    죠쿄 대학 [심리학](../Page/심리학.md "wikilink")부 연구실 교수. 전공은 연애 심리학. 재즈 넘버 〈테이크 파이브〉를 애청하며, 재즈 바 〈SWING TIME〉의 오너를 하고 있지만, 술을 못한다.
+  - 니이미 하루토 (27) - [마츠자카 토리](../Page/마츠자카_토리.md "wikilink")
     경비 회사·제1보안 방범 시스템 개발부 직원. 동도 은행 보안 시스템의 설계자.
   - 미나미 신이치 (50) - 롯카쿠 세이지
     와카바 종합 병원 약제사. 호무라의 옛 친구의 동료. 현재는 쇼코와 결혼해 4살인 딸, 모모카가 있다.
   - 히오카 타모츠 (26) - [이리에 진기](../Page/이리에_진기.md "wikilink") (소년 시절:스다 에이토)
     1986년 10월 14일 출생. 고양이에 서투름. 중장비 메이커의 시험 주행 담당자. 할아버지는 원 TAKE FIVE의 멤버.
-  - 이와츠키 카이 - [이나가키 고로](https://ko.wikipedia.org/wiki/이나가키_고로 "wikilink") ([SMAP](https://ko.wikipedia.org/wiki/SMAP "wikilink"))
+  - 이와츠키 카이 - [이나가키 고로](../Page/이나가키_고로.md "wikilink") ([SMAP](../Page/SMAP.md "wikilink"))
     시바다이몬 경찰서 형사.
 
 #### 구 멤버
@@ -31,7 +31,7 @@
 
 #### 관계자
 
-  - 사사하라 루이 - [마츠유키 야스코](https://ko.wikipedia.org/wiki/마츠유키_야스코 "wikilink") (소녀 시절:[히로세 스즈](../Page/히로세_스즈.md "wikilink"))
+  - 사사하라 루이 - [마츠유키 야스코](../Page/마츠유키_야스코.md "wikilink") (소녀 시절:[히로세 스즈](../Page/히로세_스즈.md "wikilink"))
     시바다이몬 경찰서 도범 담당 형사. TAKE FIVE가 일으킨 사건으로 아버지를 여읜다.
   - 사사하라 사에 - 에다 유카
     루이의 동생. 죠쿄 대학 심리학부에 다니는 학생. 이전에는 경찰관을 지망했지만, 호무라의 강의의 영향으로 대학원을 진학하고 싶다고 생각하게 된다.
@@ -39,12 +39,12 @@
     루이·사에의 아버지. 전 형사. 〈루크레치아의 초상〉이 보관되어 있던 도쿄 미술관에서 누군가에게 살해된다.
   - 미나미 쇼코 - 히로나카 마키 / 미나미 모모카 (4) - 이노우에 미소라
     미나미의 가족.
-  - 홈리스 - [바이쇼 미츠코](https://ko.wikipedia.org/wiki/바이쇼_미츠코 "wikilink")
+  - 홈리스 - [바이쇼 미츠코](../Page/바이쇼_미츠코.md "wikilink")
     도둑을 그만둔 호무라에게 다가가 〈루크레치아의 초상〉의 정보를 흘린다.
 
 ### 경시청 시바다이몬 경찰서
 
-  - 마스다 코조 - [덴덴](https://ko.wikipedia.org/wiki/덴덴 "wikilink")
+  - 마스다 코조 - [덴덴](../Page/덴덴.md "wikilink")
     도범 담당 계장.
   - 야노 쇼타로 (23) - [치바 유다이](../Page/치바_유다이.md "wikilink")
     도범 담당.
@@ -75,13 +75,13 @@
   - 각본 - 후지이 키요미, 우시오 켄타로
   - 음악 - 칸노 유고
   - 연출 - 오카모토 싱고, 와타세 아키히코, 카와시마 류타로
-  - 제작 저작 - [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink")
+  - 제작 저작 - [TBS](../Page/도쿄_방송_홀딩스.md "wikilink")
 
 ## 악곡
 
 ### 주제가
 
-  - [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink") 〈GIVE ME LOVE〉 ([아리오라 재팬](https://ko.wikipedia.org/wiki/아리오라_재팬 "wikilink")/[JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink"))
+  - [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink") 〈GIVE ME LOVE〉 ([아리오라 재팬](https://ko.wikipedia.org/wiki/아리오라_재팬 "wikilink")/[JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink"))
 
 ### 삽입곡
 
@@ -172,7 +172,7 @@
 <td><p>11.1%</p></td>
 </tr>
 <tr class="odd">
-<td><p>평균 시청률 10.1% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>평균 시청률 10.1% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -185,15 +185,15 @@
 
 ## 무대
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 5월, [아카사카 ACT 시어터와](https://ko.wikipedia.org/wiki/아카사카_ACT_시어터 "wikilink") 우메다 예술 극장에서, 무대 《**TAKE FIVE**》가 상연되었다.
+[2015년](../Page/2015년.md "wikilink") 5월, [아카사카 ACT 시어터와](https://ko.wikipedia.org/wiki/아카사카_ACT_시어터 "wikilink") 우메다 예술 극장에서, 무대 《**TAKE FIVE**》가 상연되었다.
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 5월, 아카사카 ACT 시어터에서, 속편이 되는 무대 《**TAKE FIVE2**》가 상연되었다.
+[2016년](../Page/2016년.md "wikilink") 5월, 아카사카 ACT 시어터에서, 속편이 되는 무대 《**TAKE FIVE2**》가 상연되었다.
 
 ### TAKE FIVE
 
 #### 캐스트
 
-  - [후지가야 타이스케](https://ko.wikipedia.org/wiki/후지가야_타이스케 "wikilink")
+  - [후지가야 타이스케](../Page/후지가야_타이스케.md "wikilink")
   - 란쥬 토무
   - 야마모토 유스케
 
@@ -203,7 +203,7 @@
 
   - 후지가야 타이스케
   - 야마모토 유스케
-  - [신카와 유아](https://ko.wikipedia.org/wiki/신카와_유아 "wikilink")
+  - [신카와 유아](../Page/신카와_유아.md "wikilink")
   - 아란 케이
 
 ## 각주

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sad Freedom](https://ko.wikipedia.org/wiki/Sad_Freedom).
 
 
-《**Sad Freedom**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 박진영의 싱글이다.
+《**Sad Freedom**》은 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 박진영의 싱글이다.
 
 ## 수록곡
 

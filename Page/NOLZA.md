@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NOLZA](https://ko.wikipedia.org/wiki/NOLZA).
 
 
-**NOLZA**는 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 첫 번째 콘서트 투어이다.
+**NOLZA**는 [2NE1](../Page/2NE1.md "wikilink")의 첫 번째 콘서트 투어이다.
 
 ## 투어 일정
 
@@ -67,7 +67,7 @@
 </tr>
 <tr class="even">
 <td><p>2011년 10월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/지바현" title="wikilink">지바현</a></p></td>
+<td><p><a href="../Page/지바현.md" title="wikilink">지바현</a></p></td>
 <td><p>마쿠하리 멧세</p></td>
 <td><p>20,000</p></td>
 <td></td>
@@ -104,7 +104,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2011년 10월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임팩트 아레나 무앙 통 타니</p></td>
 <td><p>홍수로 인해 취소[3]</p></td>
@@ -116,9 +116,9 @@
 
 ## 게스트
 
-  - [GD\&TOP](https://ko.wikipedia.org/wiki/GD&TOP "wikilink")
-  - [태양](https://ko.wikipedia.org/wiki/태양_\(가수\) "wikilink")
-  - [박명수](https://ko.wikipedia.org/wiki/박명수 "wikilink")\[4\]
+  - [GD\&TOP](../Page/GD&TOP.md "wikilink")
+  - [태양](../Page/태양_\(가수\).md "wikilink")
+  - [박명수](../Page/박명수.md "wikilink")\[4\]
 
 ## 각주
 

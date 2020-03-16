@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rolling in the Deep](https://ko.wikipedia.org/wiki/Rolling_in_the_Deep).
 
 
-"**Rolling in the Deep**"은 영국의 가수 [아델](https://ko.wikipedia.org/wiki/아델 "wikilink")의 노래로, 음반 [21에](https://ko.wikipedia.org/wiki/21_\(아델의_음반\) "wikilink") 수록되어 있다
+"**Rolling in the Deep**"은 영국의 가수 [아델](../Page/아델.md "wikilink")의 노래로, 음반 [21에](../Page/21_\(아델의_음반\).md "wikilink") 수록되어 있다
 
 ## 트랙리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [C album](https://ko.wikipedia.org/wiki/C_album).
 
 
-《**C album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 3번째 앨범이다. [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") 발매. 최고순위는 1위이다.
+《**C album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 3번째 앨범이다. [1999년](../Page/1999년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 발매. 최고순위는 1위이다.
 
 ## 수록곡
 
@@ -16,15 +16,15 @@
         작사: 三井拓(미츠이 히로시)　작곡: 荒木真樹彦(아라키 마키히코)　편곡: 石塚知生(이즈시카 토모오)
 4.  **全部だきしめて**
       -
-        작사: 康珍化(강진화)　작곡: 吉田拓郎([요시다 타쿠로](https://ko.wikipedia.org/wiki/요시다_타쿠로 "wikilink"))　편곡: 武部聡志(다케베 사토시)
+        작사: 康珍化(강진화)　작곡: 吉田拓郎([요시다 타쿠로](../Page/요시다_타쿠로.md "wikilink"))　편곡: 武部聡志(다케베 사토시)
         [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 4번째 싱글
 5.  **あのときの空**
       -
         작사・작곡・편곡: 知野芳彦(치노 요시히코)
 6.  **Peaceful World**
       -
-        작사・작곡: 堂本光一([도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink"))　편곡: 石塚知生(이시즈카 토모오)
-        [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 솔로곡
+        작사・작곡: 堂本光一([도모토 코이치](../Page/도모토_코이치.md "wikilink"))　편곡: 石塚知生(이시즈카 토모오)
+        [도모토 코이치](../Page/도모토_코이치.md "wikilink") 솔로곡
 7.  **やめないで,PURE**
       -
         작사: 伊達歩(다테 아유미)　작곡: 筒美京平(츠츠미 쿄헤이)　편곡: WACKY KAKI

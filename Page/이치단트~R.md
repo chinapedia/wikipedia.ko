@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [\~R](https://ko.wikipedia.org/wiki/\~R).
 
 
-《**이치단트\~R**》(Puzzle & Action Ichidant-R, )은 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 발매한 퍼즐모음 게임이다.
+《**이치단트\~R**》(Puzzle & Action Ichidant-R, )은 [1994년](../Page/1994년.md "wikilink") [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 발매한 퍼즐모음 게임이다.
 
 ## 게임 설정
 

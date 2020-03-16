@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [USS  \(CVN-68\)](https://ko.wikipedia.org/wiki/USS__\(CVN-68\)).
 
 
-**미 해군 군함 니미츠**(USS Nimitz, CVN-68)는 [미국 해군의](https://ko.wikipedia.org/wiki/미국_해군 "wikilink") [항공모함](https://ko.wikipedia.org/wiki/항공모함 "wikilink")이다. [니미츠급 항공모함의](https://ko.wikipedia.org/wiki/니미츠급_항공모함 "wikilink") 네임십이다. 함명은 [체스터 니미츠](https://ko.wikipedia.org/wiki/체스터_니미츠 "wikilink") 제독의 이름을 따서 명명됐다. 영화 [파이널 카운트다운](https://ko.wikipedia.org/wiki/파이널_카운트다운 "wikilink")([The Final Countdown](https://ko.wikipedia.org/wiki/:en:The_Final_Countdown_\(film\) "wikilink"))에 등장한 바 있다. 해군의 소수정예화 계획에 따라 건조된 니미츠급 항공모함 중 최초이자 대표적인 항모이며, 1977년에는 [아이젠하워호가](https://ko.wikipedia.org/wiki/USS_드와이트_D._아이젠하워_\(CVN-69\) "wikilink") 니미츠급 중에서 취역한 두 번째 항모가 되었다.
+**미 해군 군함 니미츠**(USS Nimitz, CVN-68)는 [미국 해군의](../Page/미국_해군.md "wikilink") [항공모함](../Page/항공모함.md "wikilink")이다. [니미츠급 항공모함의](../Page/니미츠급_항공모함.md "wikilink") 네임십이다. 함명은 [체스터 니미츠](../Page/체스터_니미츠.md "wikilink") 제독의 이름을 따서 명명됐다. 영화 [파이널 카운트다운](https://ko.wikipedia.org/wiki/파이널_카운트다운 "wikilink")([The Final Countdown](https://ko.wikipedia.org/wiki/:en:The_Final_Countdown_\(film\) "wikilink"))에 등장한 바 있다. 해군의 소수정예화 계획에 따라 건조된 니미츠급 항공모함 중 최초이자 대표적인 항모이며, 1977년에는 [아이젠하워호가](https://ko.wikipedia.org/wiki/USS_드와이트_D._아이젠하워_\(CVN-69\) "wikilink") 니미츠급 중에서 취역한 두 번째 항모가 되었다.
 
 ## 역사
 
 ### 진수
 
-1968년 6월 22일 [버지니아주](https://ko.wikipedia.org/wiki/버지니아주 "wikilink") [뉴포트 뉴스의](https://ko.wikipedia.org/wiki/뉴포트_뉴스 "wikilink") [뉴포트 뉴스 조선소에서](https://ko.wikipedia.org/wiki/뉴포트_뉴스_조선소 "wikilink") 기공하여, 1972년 진수했다. 진수식의 샴페인은 사망한 [체스터 니미츠](https://ko.wikipedia.org/wiki/체스터_니미츠 "wikilink") 제독의 딸인 캐서린 니미츠 레이가 깼다. 1975년 해군에 인도되어 1975년 5월 3일 취역식을 가졌다.
+1968년 6월 22일 [버지니아주](../Page/버지니아주.md "wikilink") [뉴포트 뉴스의](https://ko.wikipedia.org/wiki/뉴포트_뉴스 "wikilink") [뉴포트 뉴스 조선소에서](https://ko.wikipedia.org/wiki/뉴포트_뉴스_조선소 "wikilink") 기공하여, 1972년 진수했다. 진수식의 샴페인은 사망한 [체스터 니미츠](../Page/체스터_니미츠.md "wikilink") 제독의 딸인 캐서린 니미츠 레이가 깼다. 1975년 해군에 인도되어 1975년 5월 3일 취역식을 가졌다.
 
 ## 대한민국과의 관련
 
@@ -35,7 +35,7 @@
 
 ### 11 항공모함 비행단
 
-니미츠 항공모함에는 11 항공모함 비행단이 주둔하며, 이는 9개의 [비행대대](https://ko.wikipedia.org/wiki/비행대대 "wikilink")로 구성된다.
+니미츠 항공모함에는 11 항공모함 비행단이 주둔하며, 이는 9개의 [비행대대](../Page/비행대대.md "wikilink")로 구성된다.
 
   - 154 전투비행대대 ([VFA-154](https://ko.wikipedia.org/wiki/VFA-154 "wikilink")) "Black Knights" with [F/A-18F 슈퍼호넷](https://ko.wikipedia.org/wiki/F/A-18F_슈퍼호넷 "wikilink"), [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 참전
   - 323 해병대 전투비행대대 ([VMFA-323](https://ko.wikipedia.org/wiki/VMFA-323 "wikilink")) "Death Rattlers" [F/A-18 호넷](https://ko.wikipedia.org/wiki/F/A-18_호넷 "wikilink"), [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 참전

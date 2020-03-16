@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ALONE \(EP\)](https://ko.wikipedia.org/wiki/ALONE_\(EP\)).
 
 
-《**ALONE**》은 대한민국의 음악 그룹 [씨스타](https://ko.wikipedia.org/wiki/씨스타 "wikilink")의 첫 번째 미니 앨범이다. 앨범은 2012년 4월 12일에 발매되었다. 타이틀곡은 〈나혼자 (Alone)〉이다.\[1\]
+《**ALONE**》은 대한민국의 음악 그룹 [씨스타](../Page/씨스타.md "wikilink")의 첫 번째 미니 앨범이다. 앨범은 2012년 4월 12일에 발매되었다. 타이틀곡은 〈나혼자 (Alone)〉이다.\[1\]
 
 ## 성적
 

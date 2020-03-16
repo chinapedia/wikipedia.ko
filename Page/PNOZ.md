@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PNOZ](https://ko.wikipedia.org/wiki/PNOZ).
 
 
-**PNOZ**는 [필츠](https://ko.wikipedia.org/wiki/필츠 "wikilink")가 만든 비상 정지 스위치 제품이다. 이 비상 정지 스위치는 1987년에 개발되었다. 이 안전 릴레이는 안전 기능을 수행하며 복잡하고 많은 시간이 소요되는 배선 접촉기의 공정을 대치한다.\[1\]
+**PNOZ**는 [필츠](../Page/필츠.md "wikilink")가 만든 비상 정지 스위치 제품이다. 이 비상 정지 스위치는 1987년에 개발되었다. 이 안전 릴레이는 안전 기능을 수행하며 복잡하고 많은 시간이 소요되는 배선 접촉기의 공정을 대치한다.\[1\]
 
 ## 제품 역사
 

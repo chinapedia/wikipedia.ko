@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \~R !!](https://ko.wikipedia.org/wiki/_\~R_!!).
 
 
-《**대전 탄트\~R 사싯스\!\!**》()는 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 출시한 갬블링 퍼즐모음 게임이다. 한국에서는 《**대전\! 산전수전**》으로 발매 1년 후인 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 수입하였다. 6명의 캐릭터가 돈을 걸고 12가지의 게임\[1\]에서 대결하는 설정이다.
+《**대전 탄트\~R 사싯스\!\!**》()는 [1998년](../Page/1998년.md "wikilink") [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 출시한 갬블링 퍼즐모음 게임이다. 한국에서는 《**대전\! 산전수전**》으로 발매 1년 후인 [1999년](../Page/1999년.md "wikilink")에 수입하였다. 6명의 캐릭터가 돈을 걸고 12가지의 게임\[1\]에서 대결하는 설정이다.
 
 ## 캐릭터
 
@@ -86,7 +86,7 @@
 <!-- end list -->
 
   -
-    [골프](https://ko.wikipedia.org/wiki/골프 "wikilink")에서 퍼팅을 성공시키는 게임.
+    [골프](../Page/골프.md "wikilink")에서 퍼팅을 성공시키는 게임.
 
 <!-- end list -->
 

@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [ICCV](https://ko.wikipedia.org/wiki/ICCV).
 
 
-**국제 컴퓨터 비전 학회**(International Conference on Computer Vision)는 격년제로 개최되는 학회로서 컴퓨터과학 분야 최고 수준의 학회중 하나이며 컴퓨터시신경([컴퓨터 비전](https://ko.wikipedia.org/wiki/컴퓨터_비전 "wikilink")) 및 [인공지능](https://ko.wikipedia.org/wiki/인공지능 "wikilink")-[패턴인식](https://ko.wikipedia.org/wiki/패턴인식 "wikilink") 분야에 있어 [CVPR](https://ko.wikipedia.org/wiki/CVPR "wikilink")(Conference on Computer Vision and Pattern Recognition)과 함께 최고권위의 학회이다.\[1\]
+**국제 컴퓨터 비전 학회**(International Conference on Computer Vision)는 격년제로 개최되는 학회로서 컴퓨터과학 분야 최고 수준의 학회중 하나이며 컴퓨터시신경([컴퓨터 비전](https://ko.wikipedia.org/wiki/컴퓨터_비전 "wikilink")) 및 [인공지능](../Page/인공지능.md "wikilink")-[패턴인식](https://ko.wikipedia.org/wiki/패턴인식 "wikilink") 분야에 있어 [CVPR](https://ko.wikipedia.org/wiki/CVPR "wikilink")(Conference on Computer Vision and Pattern Recognition)과 함께 최고권위의 학회이다.\[1\]
 
-[IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink") ([전기 전자 기술자 협회](https://ko.wikipedia.org/wiki/전기_전자_기술자_협회 "wikilink"))가 주최하는 학회로 회당 약 1200편의 논문이 투고되어 채택율은 약 20% 정도이며 구술발표에는 4% 정도가 초청된다.\[2\] 본 학술발표는 4일간 진행되며 전후로 2일씩 4일간 초청강연, 워크샵, 테마학습 등이 프로그램이 진행된다.
+[IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink") ([전기 전자 기술자 협회](../Page/전기_전자_기술자_협회.md "wikilink"))가 주최하는 학회로 회당 약 1200편의 논문이 투고되어 채택율은 약 20% 정도이며 구술발표에는 4% 정도가 초청된다.\[2\] 본 학술발표는 4일간 진행되며 전후로 2일씩 4일간 초청강연, 워크샵, 테마학습 등이 프로그램이 진행된다.
 
 ## 상
 
   - 마아 프라이즈(Marr Prize)
-    전산신경과학의 창시자인 영국의 신경과학자이자 심리학자 [데이비드 마아를](https://ko.wikipedia.org/wiki/데이비드_마아 "wikilink") 기리는 상이다.
+    전산신경과학의 창시자인 영국의 신경과학자이자 심리학자 [데이비드 마아를](../Page/데이비드_마아.md "wikilink") 기리는 상이다.
     당회 최고의 논문들에 수여되는 상으로 컴퓨터시신경(컴퓨터비전) 분야 연구자들에게 최고의 영예 중 하나이다.
     본상과 장려상(Honorable Mention)이 수여되며 장려상 수상 논문은 없을 때도 있다.
     본상 수상 논문과 저자는 다음과 같다.
@@ -63,18 +63,18 @@
 
   - ICCV 2019, 대한민국 서울
   - ICCV 2017, 이탈리아 베니스
-  - ICCV 2015, [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink") [산티아고](https://ko.wikipedia.org/wiki/산티아고 "wikilink")
-  - [ICCV 2013](https://web.archive.org/web/20130605085049/http://iccv2013.org/), [호주](https://ko.wikipedia.org/wiki/호주 "wikilink") [시드니](https://ko.wikipedia.org/wiki/시드니 "wikilink")\[3\]
-  - [ICCV 2011](https://web.archive.org/web/20130612231814/http://www.iccv2011.org/), [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")\[4\]
-  - [ICCV 2009](http://www.iccv2009.org/), [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [교토](https://ko.wikipedia.org/wiki/교토 "wikilink")\[5\]
-  - [ICCV 2007](https://web.archive.org/web/20140202114837/http://iccv2007.rutgers.edu/), [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") [리우데자네이로](https://ko.wikipedia.org/wiki/리우데자네이로 "wikilink")\[6\]
-  - ICCV 2005, [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink")
-  - ICCV 2003, [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink") [니스](https://ko.wikipedia.org/wiki/니스_\(프랑스\) "wikilink")
-  - ICCV 2001, [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [브리티시컬럼비아](https://ko.wikipedia.org/wiki/브리티시컬럼비아 "wikilink") [벤쿠버](https://ko.wikipedia.org/wiki/벤쿠버 "wikilink")
-  - ICCV 1999, [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink") [코르푸](https://ko.wikipedia.org/wiki/코르푸 "wikilink")
-  - ICCV 1998, [인도](https://ko.wikipedia.org/wiki/인도 "wikilink") [뭄바이](https://ko.wikipedia.org/wiki/뭄바이 "wikilink")
-  - ICCV 1995, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [매사추세츠](https://ko.wikipedia.org/wiki/매사추세츠 "wikilink") [보스톤](https://ko.wikipedia.org/wiki/보스톤 "wikilink")
-  - ICCV 1987, [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")
+  - ICCV 2015, [칠레](../Page/칠레.md "wikilink") [산티아고](../Page/산티아고.md "wikilink")
+  - [ICCV 2013](https://web.archive.org/web/20130605085049/http://iccv2013.org/), [호주](https://ko.wikipedia.org/wiki/호주 "wikilink") [시드니](../Page/시드니.md "wikilink")\[3\]
+  - [ICCV 2011](https://web.archive.org/web/20130612231814/http://www.iccv2011.org/), [스페인](../Page/스페인.md "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")\[4\]
+  - [ICCV 2009](http://www.iccv2009.org/), [일본](../Page/일본.md "wikilink") [교토](../Page/교토.md "wikilink")\[5\]
+  - [ICCV 2007](https://web.archive.org/web/20140202114837/http://iccv2007.rutgers.edu/), [브라질](../Page/브라질.md "wikilink") [리우데자네이로](https://ko.wikipedia.org/wiki/리우데자네이로 "wikilink")\[6\]
+  - ICCV 2005, [중국](../Page/중국.md "wikilink") [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink")
+  - ICCV 2003, [프랑스](../Page/프랑스.md "wikilink") [니스](../Page/니스_\(프랑스\).md "wikilink")
+  - ICCV 2001, [캐나다](../Page/캐나다.md "wikilink") [브리티시컬럼비아](https://ko.wikipedia.org/wiki/브리티시컬럼비아 "wikilink") [벤쿠버](https://ko.wikipedia.org/wiki/벤쿠버 "wikilink")
+  - ICCV 1999, [그리스](../Page/그리스.md "wikilink") [코르푸](https://ko.wikipedia.org/wiki/코르푸 "wikilink")
+  - ICCV 1998, [인도](../Page/인도.md "wikilink") [뭄바이](../Page/뭄바이.md "wikilink")
+  - ICCV 1995, [미국](../Page/미국.md "wikilink") [매사추세츠](https://ko.wikipedia.org/wiki/매사추세츠 "wikilink") [보스톤](https://ko.wikipedia.org/wiki/보스톤 "wikilink")
+  - ICCV 1987, [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")
 
 ## 참조
 

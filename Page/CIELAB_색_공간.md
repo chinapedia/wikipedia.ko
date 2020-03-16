@@ -3,13 +3,13 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Lab_color_space.png "wikilink") 에 해당하는 영역만을 보여주는 그림. 각 사각형은 -128에서 128까지의 영역을 나타낸다.\]\]
 
-**Lab 색 공간**은 인간 시각의 길항 이론에 의거하여, [CIE XYZ 색 공간을](https://ko.wikipedia.org/wiki/CIE_1931_색_공간 "wikilink") 비선형 변환하여 만들어진 [색 공간이다](https://ko.wikipedia.org/wiki/색_공간 "wikilink").
+**Lab 색 공간**은 인간 시각의 길항 이론에 의거하여, [CIE XYZ 색 공간을](../Page/CIE_1931_색_공간.md "wikilink") 비선형 변환하여 만들어진 [색 공간이다](../Page/색_공간.md "wikilink").
 
 원래 Lab 색 공간이라는 용어는 **Hunter 1948 Lab 색 공간**을 가리켰으나, 현대에 들어 **CIE 1976 L\*a\*b\* 색 공간**을 가리키게 되었다. 두 색 공간 모두 인간의 색채 지각에 대한 연구를 바탕으로 한 CIE XYZ 색 공간을 변환하여 만들어졌다. 두 색 공간의 차이는, Hunter 1948 색 공간은 2차함수를 바탕으로 한 변환이며, CIE 1976 색 공간은 3차함수를 바탕으로 한 변환이라는 차이가 있다. 또한, 양쪽 모두 [먼셀 색 체계에](https://ko.wikipedia.org/wiki/먼셀_색_체계 "wikilink") 영향을 받아, XYZ 색 공간보다 균일한 색 체계를 목표로 하였다. 여기서 균일한 색 체계는, 색 공간에서 같은 거리만큼 떨어진 색채가, 인간의 눈에 같은 크기만큼의 색 차이로 인지되는 것을 목표로 했다는 의미이다.
 
 Lab 색 공간은 XYZ에서 정의된 흰색에 대한 상대값으로 정의되어 있다. 따라서 흰색의 값에 따라 서로 다른 색을 가리킬 수 있다. 보통 [CIE 표준 광원인](https://ko.wikipedia.org/wiki/CIE_표준_광원 "wikilink") D50이 많이 쓰이지만, 환경에 따라 서로 다른 광원을 사용할 수 있다.
 
-L\*a\*b\* 색 공간은 [RGB나](https://ko.wikipedia.org/wiki/RGB_가산혼합 "wikilink") [CMYK가](https://ko.wikipedia.org/wiki/CMYK_감산혼합 "wikilink") 표현할 수 있는 모든 [색역](https://ko.wikipedia.org/wiki/색역 "wikilink")을 포함하며, 인간이 지각할 수 없는 색깔도 포함하고 있다.
+L\*a\*b\* 색 공간은 [RGB나](../Page/RGB_가산혼합.md "wikilink") [CMYK가](https://ko.wikipedia.org/wiki/CMYK_감산혼합 "wikilink") 표현할 수 있는 모든 [색역](../Page/색역.md "wikilink")을 포함하며, 인간이 지각할 수 없는 색깔도 포함하고 있다.
 
 ## 장점
 

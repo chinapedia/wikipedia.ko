@@ -5,7 +5,7 @@
 
 ## 리그기간
 
-  - 방송 및 리그 진행 날짜 : [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 11일](https://ko.wikipedia.org/wiki/5월_11일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink")
+  - 방송 및 리그 진행 날짜 : [2013년](../Page/2013년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink")
 
 ## 버전
 
@@ -31,7 +31,7 @@
 
 ## 진행
 
-  - 경기 진행, 해설 : [김의중](https://ko.wikipedia.org/wiki/김의중 "wikilink"), [박현규](../Page/박현규.md "wikilink")
+  - 경기 진행, 해설 : [김의중](../Page/김의중.md "wikilink"), [박현규](../Page/박현규.md "wikilink")
   - 선수 인터뷰 진행 : [김진](https://ko.wikipedia.org/wiki/김진_\(방송인\) "wikilink")\[1\], [김한울](https://ko.wikipedia.org/wiki/김한울 "wikilink")
 
 ## 예선 통과자
@@ -228,7 +228,7 @@
 ## 같이 보기
 
   - [TEKKEN STRIKE](../Page/TEKKEN_STRIKE.md "wikilink")
-  - [나이스 게임 TV](https://ko.wikipedia.org/wiki/나이스_게임_TV "wikilink")
+  - [나이스 게임 TV](../Page/나이스_게임_TV.md "wikilink")
 
 ## 각주
 

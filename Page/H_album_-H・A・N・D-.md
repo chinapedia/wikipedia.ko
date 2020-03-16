@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [H album -HAND-](https://ko.wikipedia.org/wiki/H_album_-HAND-).
 
 
-《**H album -H・A・N・D-**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 8번째 앨범이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") 발매. 최고순위는 1위이다.
+《**H album -H・A・N・D-**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 8번째 앨범이다. [2005년](../Page/2005년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") 발매. 최고순위는 1위이다.
 
 부제인 -H・A・N・D-는 영어의미 그대로 '손'을 나타내기도 하며 "Heart & Harmony & Happiness & Honey & Honey & Hope and more..."와 'Have A Nice Day' 두가지를 뜻하기도 한다.
 
@@ -16,7 +16,7 @@
         [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 20번째 싱글
 3.  **恋涙**
       -
-        작사: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink"))　작곡: 堂本光一([도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink"))　편곡: 石塚知生(이시즈카 토모오)
+        작사: 堂本剛([도모토 쯔요시](https://ko.wikipedia.org/wiki/도모토_쯔요시 "wikilink"))　작곡: 堂本光一([도모토 코이치](../Page/도모토_코이치.md "wikilink"))　편곡: 石塚知生(이시즈카 토모오)
         제목인 恋涙는 '사랑할때 흐르는 눈물'이라는 뜻
 4.  **【AOZORA】**
       -
@@ -27,7 +27,7 @@
 6.  **Love Me More**
       -
         작사: 白井裕紀(시라이 유우키)/新美香(아라타 미카)　작곡: Marcus Dernulf/Marit Woody　편곡: ha-j
-        [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 솔로곡
+        [도모토 코이치](../Page/도모토_코이치.md "wikilink") 솔로곡
 7.  **Breath**
       -
         작사・작곡: 河口恭吾(카와구치 케이코)　편곡: 武藤良明(무토 요시아키)

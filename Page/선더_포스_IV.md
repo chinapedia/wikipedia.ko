@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  IV](https://ko.wikipedia.org/wiki/__IV).
 
 
-《**선더 포스 IV**》(, )는 일본의 [테크노소프트](../Page/테크노소프트.md "wikilink")가 제작한 [메가 드라이브용](https://ko.wikipedia.org/wiki/메가_드라이브 "wikilink") [진행형 슈팅 게임이다](https://ko.wikipedia.org/wiki/진행형_슈팅_게임 "wikilink"). 《[선더 포스](https://ko.wikipedia.org/wiki/선더_포스 "wikilink")》 시리즈의 네번째 작품으로, 메가 드라이브로 제작된 시리즈 마지막 작품이다. 일본서 1992년 7월 24일 처음 출시됐다. 미국에서는 《**라이트닝 포스: 퀘스트 포 더 다크스타**》(Lightening Force: Quest for the Darkstar)라는 제목으로 발매됐다.
+《**선더 포스 IV**》(, )는 일본의 [테크노소프트](../Page/테크노소프트.md "wikilink")가 제작한 [메가 드라이브용](../Page/메가_드라이브.md "wikilink") [진행형 슈팅 게임이다](https://ko.wikipedia.org/wiki/진행형_슈팅_게임 "wikilink"). 《[선더 포스](../Page/선더_포스.md "wikilink")》 시리즈의 네번째 작품으로, 메가 드라이브로 제작된 시리즈 마지막 작품이다. 일본서 1992년 7월 24일 처음 출시됐다. 미국에서는 《**라이트닝 포스: 퀘스트 포 더 다크스타**》(Lightening Force: Quest for the Darkstar)라는 제목으로 발매됐다.
 
-발매 후 게임 언론으로부터 [패럴럭스 스크롤링를](https://ko.wikipedia.org/wiki/패럴럭스_스크롤링 "wikilink") 활용한 능동감 있는 그래픽과 인상깊은 메탈 위주의 음악 등을 이유로 들어 메가 드라이브 최고의 슈팅 게임으로 꼽혔다. 1996년 [세가 새턴용](https://ko.wikipedia.org/wiki/세가_새턴 "wikilink") 합본판에 수록됐고, 2018년에는 [M2가](https://ko.wikipedia.org/wiki/M2_\(기업\) "wikilink") 개발한 이식판이 [세가 에이지스](https://ko.wikipedia.org/wiki/세가_에이지스 "wikilink") 시리즈의 일환으로서 발매됐다.
+발매 후 게임 언론으로부터 [패럴럭스 스크롤링를](https://ko.wikipedia.org/wiki/패럴럭스_스크롤링 "wikilink") 활용한 능동감 있는 그래픽과 인상깊은 메탈 위주의 음악 등을 이유로 들어 메가 드라이브 최고의 슈팅 게임으로 꼽혔다. 1996년 [세가 새턴용](../Page/세가_새턴.md "wikilink") 합본판에 수록됐고, 2018년에는 [M2가](https://ko.wikipedia.org/wiki/M2_\(기업\) "wikilink") 개발한 이식판이 [세가 에이지스](https://ko.wikipedia.org/wiki/세가_에이지스 "wikilink") 시리즈의 일환으로서 발매됐다.
 
 ## 개요
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MySQL ](https://ko.wikipedia.org/wiki/MySQL_).
 
 
-**MySQL 워크벤치**(MySQL Workbench)는 SQL 개발과 관리, [데이터베이스 설계](https://ko.wikipedia.org/wiki/데이터베이스_설계 "wikilink"), 생성 그리고 유지를 위한 단일 개발 통합 환경을 제공하는 비주얼 [데이터베이스 설계 도구이다](https://ko.wikipedia.org/wiki/:en:Comparison_of_database_tools "wikilink"). fabFORCE.NET의 DBDesigner4의 후속 판이며, 이전 소프트웨어 패키지인 MySQL GUI 툴즈 번들을 대체한 것이다.
+**MySQL 워크벤치**(MySQL Workbench)는 SQL 개발과 관리, [데이터베이스 설계](../Page/데이터베이스_설계.md "wikilink"), 생성 그리고 유지를 위한 단일 개발 통합 환경을 제공하는 비주얼 [데이터베이스 설계 도구이다](https://ko.wikipedia.org/wiki/:en:Comparison_of_database_tools "wikilink"). fabFORCE.NET의 DBDesigner4의 후속 판이며, 이전 소프트웨어 패키지인 MySQL GUI 툴즈 번들을 대체한 것이다.
 
 ## 역사
 
@@ -9,11 +9,11 @@
 
 ### DBDesigner4
 
-**DBDesigner4**는 [GPL로](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 만들어진 MySQL 데이터베이스를 위한 오픈 소스 비주얼 데이테베이스 설계와 질의 도구이다.\[1\] 2002년/2003년에 fabFORCE.net 플랫폼을 위해 오스트리아의 프로그래머 마이클 G. 진너에 의해 델파이 7 / Kylix 3로 만들어진 것이다.\[2\]\[3\]
+**DBDesigner4**는 [GPL로](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 만들어진 MySQL 데이터베이스를 위한 오픈 소스 비주얼 데이테베이스 설계와 질의 도구이다.\[1\] 2002년/2003년에 fabFORCE.net 플랫폼을 위해 오스트리아의 프로그래머 마이클 G. 진너에 의해 델파이 7 / Kylix 3로 만들어진 것이다.\[2\]\[3\]
 
-단지 물리적인 모델링 도구일 뿐이었지만, DBDesigner4는 MySQL 데이터베이스의 리버스 엔지니어링과 모델-to-데이터베이스 동기화, 모델 포스터 출력, 스키마 모델의 기초적인 버전 관리 그리고 SQL 질의어 빌더 등의 편리한 종합적인 기능을 제공하였다.\[4\] 이 도구는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")와 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 운영 체제를 지원했다.\[5\]
+단지 물리적인 모델링 도구일 뿐이었지만, DBDesigner4는 MySQL 데이터베이스의 리버스 엔지니어링과 모델-to-데이터베이스 동기화, 모델 포스터 출력, 스키마 모델의 기초적인 버전 관리 그리고 SQL 질의어 빌더 등의 편리한 종합적인 기능을 제공하였다.\[4\] 이 도구는 [리눅스](../Page/리눅스.md "wikilink")와 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 운영 체제를 지원했다.\[5\]
 
-진너는 MySQL AB로부터 연락을 받아, 2003년 후반 그 회사에 입사를 하여 MySQL용 [그래픽 사용자 인터페이스](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink")(GUI) 도구들을 개발하여 [MySQL GUI 툴즈 번들을](https://ko.wikipedia.org/wiki/MySQL_GUI_툴즈_번들 "wikilink") 개발하기에 이러렀다.\[6\]
+진너는 MySQL AB로부터 연락을 받아, 2003년 후반 그 회사에 입사를 하여 MySQL용 [그래픽 사용자 인터페이스](../Page/그래픽_사용자_인터페이스.md "wikilink")(GUI) 도구들을 개발하여 [MySQL GUI 툴즈 번들을](https://ko.wikipedia.org/wiki/MySQL_GUI_툴즈_번들 "wikilink") 개발하기에 이러렀다.\[6\]
 
 ### MySQL GUI 도구 번들
 
@@ -42,7 +42,7 @@ MySQL 워크벤치 5.2부터, 애플리케이션은 종합 데이터베이스 GU
   - 종합
       - 데이터베이스 연결 & 인스턴스 관리
       - 위저드 위주의 동작 항목
-      - [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink"), [루아로](https://ko.wikipedia.org/wiki/루아_\(프로그래밍_언어\) "wikilink") 완전한 스크립트 가능
+      - [파이썬](../Page/파이썬.md "wikilink"), [루아로](../Page/루아_\(프로그래밍_언어\).md "wikilink") 완전한 스크립트 가능
       - 일반적인 플러그인 지원
   - SQL 편집기
       - 스키마 객체 탐색
@@ -68,7 +68,7 @@ MySQL 워크벤치 5.2부터, 애플리케이션은 종합 데이터베이스 GU
       - 데이터 덤프 내보내기/가져오기
   - 데이터베이스 마이그레이션(5.2.41판 기준)
       - 모든 ODBC 호환 데이터베이스
-      - 내장 지원: [마이크로소프트 SQL 서버](https://ko.wikipedia.org/wiki/마이크로소프트_SQL_서버 "wikilink"), [PostgreSQL](https://ko.wikipedia.org/wiki/PostgreSQL "wikilink"), [사이베이스](https://ko.wikipedia.org/wiki/사이베이스 "wikilink") ASE
+      - 내장 지원: [마이크로소프트 SQL 서버](../Page/마이크로소프트_SQL_서버.md "wikilink"), [PostgreSQL](../Page/PostgreSQL.md "wikilink"), [사이베이스](https://ko.wikipedia.org/wiki/사이베이스 "wikilink") ASE
 
 ## 각주
 

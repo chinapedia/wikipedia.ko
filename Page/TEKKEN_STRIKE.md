@@ -18,7 +18,7 @@
   - [TEKKEN STRIKE 2013 Season1](../Page/TEKKEN_STRIKE_2013_Season1.md "wikilink")
   - [TEKKEN STRIKE 2013 Season2](../Page/TEKKEN_STRIKE_2013_Season2.md "wikilink")
   - [TEKKEN STRIKE 2013 Season3](../Page/TEKKEN_STRIKE_2013_Season3.md "wikilink")
-  - [TEKKEN STRIKE 2016](https://ko.wikipedia.org/wiki/TEKKEN_STRIKE_2016 "wikilink")
+  - [TEKKEN STRIKE 2016](../Page/TEKKEN_STRIKE_2016.md "wikilink")
 
 ## TEKKEN STRIKE 2013 랠리포인트
 

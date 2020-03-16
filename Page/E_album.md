@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [E album](https://ko.wikipedia.org/wiki/E_album).
 
 
-《**E album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 5번째 앨범이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 발매. 최고순위는 1위이다. 전작 앨범인 '[D album](../Page/D_album.md "wikilink")'의 발매 후 7개월만에 발매되었다.
+《**E album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 5번째 앨범이다. [2001년](../Page/2001년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") 발매. 최고순위는 1위이다. 전작 앨범인 '[D album](../Page/D_album.md "wikilink")'의 발매 후 7개월만에 발매되었다.
 
 ## 수록곡
 
@@ -32,14 +32,14 @@
       -
         작사: Satomi　작곡: Boris Durdevic 편곡: 松本良喜(마츠모토 료키)
         [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 12번째 싱글
-        [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 주연 「ルーキー\!<small>(루키\!)</small>」(2001년) 주제가
+        [도모토 코이치](../Page/도모토_코이치.md "wikilink") 주연 「ルーキー\!<small>(루키\!)</small>」(2001년) 주제가
 9.  **Love U4 Good**
       -
         작사: double S　작곡: 松本良喜(마츠모토 료키)　편곡: 安部潤(아베 준)
 10. **-so young blues-**
       -
-        작사: 松岡充(마츠오카 미츠루)　작곡: 堂本光一([도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink"))　편곡: 鈴木雅也(스즈키 마사야)
-        [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 솔로곡
+        작사: 松岡充(마츠오카 미츠루)　작곡: 堂本光一([도모토 코이치](../Page/도모토_코이치.md "wikilink"))　편곡: 鈴木雅也(스즈키 마사야)
+        [도모토 코이치](../Page/도모토_코이치.md "wikilink") 솔로곡
 11. **HONEY RIDER**
       -
         작사: 相田毅(아이다 타케시)　작곡・편곡: 原一博(하라 카즈히로)

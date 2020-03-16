@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [D album](https://ko.wikipedia.org/wiki/D_album).
 
 
-《**D album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 4번째 앨범이다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") 발매. 최고순위는 1위이다. 본 앨범전에 '[KinKi Single Selection](https://ko.wikipedia.org/wiki/KinKi_Single_Selection "wikilink")'의 발매도 있어 [C album의](../Page/C_album.md "wikilink") 발매 후 정규앨범으로는 약 1년 4개월만의 발매이다. D album의 'D'는 앞서 발매한 A,B,C album과 함께 'Album Best Choise Dantotsu'을 나타내며 두 사람의 성인 '堂本(Domoto)＝D' 즉 우리의 앨범이란 뜻을 갖고있다.
+《**D album**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 4번째 앨범이다. [2000년](../Page/2000년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") 발매. 최고순위는 1위이다. 본 앨범전에 '[KinKi Single Selection](../Page/KinKi_Single_Selection.md "wikilink")'의 발매도 있어 [C album의](../Page/C_album.md "wikilink") 발매 후 정규앨범으로는 약 1년 4개월만의 발매이다. D album의 'D'는 앞서 발매한 A,B,C album과 함께 'Album Best Choise Dantotsu'을 나타내며 두 사람의 성인 '堂本(Domoto)＝D' 즉 우리의 앨범이란 뜻을 갖고있다.
 
 ## 수록곡
 
@@ -34,8 +34,8 @@
         작사・작곡・편곡: 堂島孝平(도지마 코헤이)
 9.  **永遠の日々…**
       -
-        작사・작곡: 堂本光一([도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink"))　편곡: 石塚知生(이시즈카 토모오)/鶴田海生(츠루타 카이오)
-        [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 솔로곡
+        작사・작곡: 堂本光一([도모토 코이치](../Page/도모토_코이치.md "wikilink"))　편곡: 石塚知生(이시즈카 토모오)/鶴田海生(츠루타 카이오)
+        [도모토 코이치](../Page/도모토_코이치.md "wikilink") 솔로곡
 10. **欲望のレイン**
       -
         작사: 戸沢暢美(도자와 노부미)　작곡: 宮崎歩(미야자키 아유미)　편곡: 鈴木雅也(스즈키 마사야)
@@ -46,7 +46,7 @@
       -
         작사・작곡: 周水(canna)　편곡: 重実徹(시게미 토오루)
         [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 10번째 싱글
-        [도모토 코이치](https://ko.wikipedia.org/wiki/도모토_코이치 "wikilink") 주연 「天使が消えた街<small>(천사가 사라진 거리)</small>」(2000년) 주제가
+        [도모토 코이치](../Page/도모토_코이치.md "wikilink") 주연 「天使が消えた街<small>(천사가 사라진 거리)</small>」(2000년) 주제가
 13. **Hey\!和**
       -
         작사・작곡: 永井真人(나가이 마사토)　편곡: CHOKKAKU

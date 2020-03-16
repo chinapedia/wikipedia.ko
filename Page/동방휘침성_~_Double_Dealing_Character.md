@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ \~ Double Dealing Character](https://ko.wikipedia.org/wiki/_\~_Double_Dealing_Character).
 
 
-《**동방휘침성 \~ Double Dealing Character**》()은 [동방 프로젝트의](https://ko.wikipedia.org/wiki/동방_프로젝트 "wikilink") 열네번째 시리즈 게임이다.
+《**동방휘침성 \~ Double Dealing Character**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 열네번째 시리즈 게임이다.
 
 ## 시스템
 
-전작에도 그렇듯이, 잔기조각을 모아서 잔기를 만들고, 스펠카드 조각을 모아서 [스펠 카드를](https://ko.wikipedia.org/wiki/스펠_카드 "wikilink") 만든다. 전작엔 없었던 시스템 하나가 추가되었는데, 특정량의 아이템을 동시에 모으면(스펠 카드를 사용하거나, Item Border Line 위로 이동) 보너스로 스펠 카드 조각을 하나 더 준다. 보너스 5번째는 잔기 조각도 준다. 또한, 탄막을 재대로 즐길수 있도록 복잡한 시스템을 제거했다고 한다.
+전작에도 그렇듯이, 잔기조각을 모아서 잔기를 만들고, 스펠카드 조각을 모아서 [스펠 카드를](../Page/스펠_카드.md "wikilink") 만든다. 전작엔 없었던 시스템 하나가 추가되었는데, 특정량의 아이템을 동시에 모으면(스펠 카드를 사용하거나, Item Border Line 위로 이동) 보너스로 스펠 카드 조각을 하나 더 준다. 보너스 5번째는 잔기 조각도 준다. 또한, 탄막을 재대로 즐길수 있도록 복잡한 시스템을 제거했다고 한다.
 
 ## 줄거리
 
-[환상향](https://ko.wikipedia.org/wiki/환상향 "wikilink")에서 얌전하던 요괴들이 갑자기 날뛰기 시작해 소란이 일어나고 있었다. 동시에, [도구](https://ko.wikipedia.org/wiki/도구 "wikilink")가 마음대로 움직이는 현상도 일어나기 시작했다. [하쿠레이 레이무가](https://ko.wikipedia.org/wiki/하쿠레이_레이무 "wikilink") 날뛰는 요괴들을 퇴치해 나가면, 하늘에 거꾸로 세워진 성 〈휘침성〉에 겨우 도착한다.
+[환상향](https://ko.wikipedia.org/wiki/환상향 "wikilink")에서 얌전하던 요괴들이 갑자기 날뛰기 시작해 소란이 일어나고 있었다. 동시에, [도구](../Page/도구.md "wikilink")가 마음대로 움직이는 현상도 일어나기 시작했다. [하쿠레이 레이무가](../Page/하쿠레이_레이무.md "wikilink") 날뛰는 요괴들을 퇴치해 나가면, 하늘에 거꾸로 세워진 성 〈휘침성〉에 겨우 도착한다.
 
 안에 있던 것은 아마노자쿠 키진 세이자와 난쟁이(소인) 스쿠나 신묘마루였다. 그녀들은 약자가 힘을 얻는 세상을 바라고 요술망치를 사용해 [환상향](https://ko.wikipedia.org/wiki/환상향 "wikilink")을 반대로 뒤집으려고 했다.
 
@@ -17,7 +17,7 @@
 
 ## 주인공 소개
 
-플레이어 기체는 [하쿠레이 레이무](https://ko.wikipedia.org/wiki/하쿠레이_레이무 "wikilink"), [키리사메 마리사](https://ko.wikipedia.org/wiki/키리사메_마리사 "wikilink") 외에 [이자요이 사쿠야도](../Page/이자요이_사쿠야.md "wikilink") 있다.
+플레이어 기체는 [하쿠레이 레이무](../Page/하쿠레이_레이무.md "wikilink"), [키리사메 마리사](../Page/키리사메_마리사.md "wikilink") 외에 [이자요이 사쿠야도](../Page/이자요이_사쿠야.md "wikilink") 있다.
 
 ### 하쿠레이 레이무
 
@@ -37,7 +37,7 @@
 
 #### 와카사기히메
 
-안개 호수에 사는 [인어](https://ko.wikipedia.org/wiki/인어 "wikilink"). 얌전한 요괴로 카게로우 가라사대 「소심하여 [벌레](https://ko.wikipedia.org/wiki/벌레 "wikilink")도 죽이지 않는 성격」 이라는 것. 인간에게 적대심은 가지고 있지 않다. 요술 망치의 [마력](https://ko.wikipedia.org/wiki/마력 "wikilink")에 의해 기세등등해져 날뛰기 시작했다.
+안개 호수에 사는 [인어](../Page/인어.md "wikilink"). 얌전한 요괴로 카게로우 가라사대 「소심하여 [벌레](https://ko.wikipedia.org/wiki/벌레 "wikilink")도 죽이지 않는 성격」 이라는 것. 인간에게 적대심은 가지고 있지 않다. 요술 망치의 [마력](https://ko.wikipedia.org/wiki/마력 "wikilink")에 의해 기세등등해져 날뛰기 시작했다.
 
 카게로는 "풀뿌리 요괴 네트워크"에서 알게 된 모양으로 그녀에게 먹을 뻔 한 일이 있는 것 같다.
 
@@ -45,15 +45,15 @@
 
 인간의 마을에서 인간들 가운데 섞여 살고 있는 [로쿠로쿠비](https://ko.wikipedia.org/wiki/로쿠로쿠비 "wikilink"). 평소에는 마을에서 인간들 사이에서 혼자 조용히 생활하고 있는 [요괴](https://ko.wikipedia.org/wiki/요괴 "wikilink")이며, [인간](https://ko.wikipedia.org/wiki/인간 "wikilink")도 [요괴](https://ko.wikipedia.org/wiki/요괴 "wikilink")와도 허물 수 없는 높은 자존심으로 사물을 삐딱하게 보는 성격의 소유자(그 성격이 중2를 만든다\<퍽). "심기루心綺楼"의 한 가지 사건을 부정적으로 보고 있었다. 요술 망치의 마력에 사로잡혀, 레이무를 습격하나 격퇴되었다.
 
-"[머리](https://ko.wikipedia.org/wiki/머리 "wikilink")를 날리는 정도의 능력 '을 가지고 있고, 작중에서는 몸통에서 머리를 분리하여 머리와 몸통에서 탄막을 발하거나 분리된 머리를 최대 9 개까지 분신 혹은 증식시켜 탄막을 발사하는 등의 공격을 한다(머리의 수는 난이도에 따라 변화). 늘어난 머리는 각개 격파 가능하다. 근데 어찌 된건지 마지막 3개는 격파가 힘들다.
+"[머리](../Page/머리.md "wikilink")를 날리는 정도의 능력 '을 가지고 있고, 작중에서는 몸통에서 머리를 분리하여 머리와 몸통에서 탄막을 발하거나 분리된 머리를 최대 9 개까지 분신 혹은 증식시켜 탄막을 발사하는 등의 공격을 한다(머리의 수는 난이도에 따라 변화). 늘어난 머리는 각개 격파 가능하다. 근데 어찌 된건지 마지막 3개는 격파가 힘들다.
 
 #### 이마이즈미 카게로
 
-동방휘침성 3면 보스. 미혹의 죽림에 사는 여자 [늑대인간](https://ko.wikipedia.org/wiki/늑대인간 "wikilink"). (1905년 멸종된) 일본늑대(니홍오오카미)로 [변신](../Page/변신.md "wikilink")할 수 있다.
+동방휘침성 3면 보스. 미혹의 죽림에 사는 여자 [늑대인간](../Page/늑대인간.md "wikilink"). (1905년 멸종된) 일본늑대(니홍오오카미)로 [변신](../Page/변신.md "wikilink")할 수 있다.
 
-차분한 성격으로, 그 성격은 변신도 다르지 않다. 본인은 "자신의 의사로 날뛰고 있다"고 주장했지만 실제로는 요술 망치의 마력에 의해 흉포하게 되어 있었다. 원래는 '털이 많이 난다 ","탈모 처리가 번잡하다 "등의 이유로 [보름달](https://ko.wikipedia.org/wiki/보름달 "wikilink") 밤, 적막하게 살고 있다. 싸움에 힘들 것 같은 (마리사의 말) 롱 타입의 [드레스](https://ko.wikipedia.org/wiki/드레스 "wikilink")를 입고 있지만, 이것은 [보름달](https://ko.wikipedia.org/wiki/보름달 "wikilink") [밤](https://ko.wikipedia.org/wiki/밤 "wikilink")에 나는 체모에 당황하여 그것을 감추기 위한 것.
+차분한 성격으로, 그 성격은 변신도 다르지 않다. 본인은 "자신의 의사로 날뛰고 있다"고 주장했지만 실제로는 요술 망치의 마력에 의해 흉포하게 되어 있었다. 원래는 '털이 많이 난다 ","탈모 처리가 번잡하다 "등의 이유로 [보름달](../Page/보름달.md "wikilink") 밤, 적막하게 살고 있다. 싸움에 힘들 것 같은 (마리사의 말) 롱 타입의 [드레스](https://ko.wikipedia.org/wiki/드레스 "wikilink")를 입고 있지만, 이것은 [보름달](../Page/보름달.md "wikilink") [밤](https://ko.wikipedia.org/wiki/밤 "wikilink")에 나는 체모에 당황하여 그것을 감추기 위한 것.
 
-본편 중 그림을 잘 보면 팔목에서 체모가 보일 듯 말 듯 하고 있다. 와카사기히메는 "풀뿌리 요괴 네트워크"에서 알게 된 모양으로, 본인에 따르면 실수로 그녀를 먹을 뻔한 일이 있다. [드레스](https://ko.wikipedia.org/wiki/드레스 "wikilink") 무늬가 [화투](https://ko.wikipedia.org/wiki/화투 "wikilink") "8광 芒に月"과 같은 무늬가 있으며, ZUN은 [화투](https://ko.wikipedia.org/wiki/화투 "wikilink")를 주제로 다룬 것에 대해서는 "3면뿐입니다」라고 코멘트하고 있다.
+본편 중 그림을 잘 보면 팔목에서 체모가 보일 듯 말 듯 하고 있다. 와카사기히메는 "풀뿌리 요괴 네트워크"에서 알게 된 모양으로, 본인에 따르면 실수로 그녀를 먹을 뻔한 일이 있다. [드레스](https://ko.wikipedia.org/wiki/드레스 "wikilink") 무늬가 [화투](../Page/화투.md "wikilink") "8광 芒に月"과 같은 무늬가 있으며, ZUN은 [화투](../Page/화투.md "wikilink")를 주제로 다룬 것에 대해서는 "3면뿐입니다」라고 코멘트하고 있다.
 
 #### 츠쿠모 벤벤
 

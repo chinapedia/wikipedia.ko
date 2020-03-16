@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [ R ](https://ko.wikipedia.org/wiki/_R_).
 
 
-''' 포드 R 시리즈 '''는 [현대](https://ko.wikipedia.org/wiki/현대 "wikilink")[자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink")가 포드 영국법인의 제휴로 제작한 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") 최초의 도시형[버스](https://ko.wikipedia.org/wiki/버스 "wikilink")형 대형[버스](https://ko.wikipedia.org/wiki/버스 "wikilink")이다. [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink")에 [R192](../Page/포드_R_시리즈.md "wikilink") 첫 출시 이후, [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 후속모델인 [HD160/HD170에게](https://ko.wikipedia.org/wiki/현대_HD "wikilink") 물려주고 단종된 프론트엔진 대형 버스 차종이다.
+''' 포드 R 시리즈 '''는 [현대](https://ko.wikipedia.org/wiki/현대 "wikilink")[자동차](../Page/자동차.md "wikilink")가 포드 영국법인의 제휴로 제작한 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") 최초의 도시형[버스](../Page/버스.md "wikilink")형 대형[버스](../Page/버스.md "wikilink")이다. [1969년](../Page/1969년.md "wikilink")에 [R192](../Page/포드_R_시리즈.md "wikilink") 첫 출시 이후, [1977년](../Page/1977년.md "wikilink") [4월](../Page/4월.md "wikilink")에 후속모델인 [HD160/HD170에게](../Page/현대_HD.md "wikilink") 물려주고 단종된 프론트엔진 대형 버스 차종이다.
 
 ## 특징
 
 전형적인 전방 엔진-후륜 구동(FR) 방식의 버스이다.
 
-[1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [R192](../Page/포드_R_시리즈.md "wikilink") 이 먼저 출시되었고, 이듬해인 [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [R182](../Page/포드_R_시리즈.md "wikilink") 이 출시되어 이 후로 2종류 차종으로 병행 생산하였다.
+[1969년](../Page/1969년.md "wikilink") [R192](../Page/포드_R_시리즈.md "wikilink") 이 먼저 출시되었고, 이듬해인 [1970년](../Page/1970년.md "wikilink") [R182](../Page/포드_R_시리즈.md "wikilink") 이 출시되어 이 후로 2종류 차종으로 병행 생산하였다.
 
 ## R
 
 ### R192
 
-현대 R192 는 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")의 역사상 최초의 대형 프런트엔진[버스](https://ko.wikipedia.org/wiki/버스 "wikilink")다. 포드 R192 기본형의 차대와, 영국 퍼킨스 사의 자연흡기 디젤 엔진(6기통 128마력/2,800 배기량)을 장착하였고, 차체는 현대가 개발한 차체를 기반으로 하였다. 형식은 자가용/직행/관광용의 전문형과/도시형/농어촌용/완행용/자가용의 중문형과 도시형의 중후문형이 있었으나 [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 도시형/농어촌용/전중문형과 출시 하여 1970년대 초에 중후문형은 단종되었다. 전문형의 경우 당시에는 현재와 같은 완전 자동문 형식이 아닌 운전기사석에서 인력으로 여닫는 반자동 형식이었다. [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink")말에 단종되었다. 영국식휠 전후륜휠 10홀 10핀 형식이다. 총 5,632량이다.
+현대 R192 는 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")의 역사상 최초의 대형 프런트엔진[버스](../Page/버스.md "wikilink")다. 포드 R192 기본형의 차대와, 영국 퍼킨스 사의 자연흡기 디젤 엔진(6기통 128마력/2,800 배기량)을 장착하였고, 차체는 현대가 개발한 차체를 기반으로 하였다. 형식은 자가용/직행/관광용의 전문형과/도시형/농어촌용/완행용/자가용의 중문형과 도시형의 중후문형이 있었으나 [1974년](../Page/1974년.md "wikilink") [9월](../Page/9월.md "wikilink") 도시형/농어촌용/전중문형과 출시 하여 1970년대 초에 중후문형은 단종되었다. 전문형의 경우 당시에는 현재와 같은 완전 자동문 형식이 아닌 운전기사석에서 인력으로 여닫는 반자동 형식이었다. [1976년](../Page/1976년.md "wikilink")말에 단종되었다. 영국식휠 전후륜휠 10홀 10핀 형식이다. 총 5,632량이다.
 
 ### R182 (DK182 또는 HD150)
 
-R192보다 상급의 대형 프런트엔진 버스 차종으로 포드 R192의 차대와, 영국 퍼킨스 사의 터보 디젤 엔진(6기통 150마력)을 장착하였고, 형식은 자가용/직행/관광용의 전문형과 완행용/자가용의 중문형과 도시형의 중후문형이 있었으나 [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 도시형/농어촌용/전중문형도 출시되었다. 1970년대 초에 중후문형은 단종되었고 전문형은 [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink")에 출시되었다. 전문형의 경우 당시에는 현재와 같은 완전 자동문 형식이 아닌 운전기사석에서 인력으로 여닫는 반자동 형식이었다. 출시 초기에는 측면 승객유리창이 7칸에 보조창이 승객유리창 7칸 앞뒤로 2개 있는 형태였고 전륜이 프론트 범퍼와의 거리가 가까이 있었으나 [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 6월에 승객유리창이 5칸 형식으로 진화하였고 전륜과 범퍼 사이가 벌어지면서 전문형이 추가되었다.\[1\] [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink")에는 엔진 국산화와 함께 출력이 155마력으로 업그레이드 되었으며, [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink")에 루프온 글라스가 추가되었고 전면부 형상이 약간 변형되었다가 [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 후속모델인 [HD160/HD170에게](https://ko.wikipedia.org/wiki/현대_HD "wikilink") 물려주고 단종되었다. 영국식휠 전후륜휠 10홀 10핀 형식이다. 총 5,102량이다.
+R192보다 상급의 대형 프런트엔진 버스 차종으로 포드 R192의 차대와, 영국 퍼킨스 사의 터보 디젤 엔진(6기통 150마력)을 장착하였고, 형식은 자가용/직행/관광용의 전문형과 완행용/자가용의 중문형과 도시형의 중후문형이 있었으나 [1974년](../Page/1974년.md "wikilink") [9월](../Page/9월.md "wikilink") 도시형/농어촌용/전중문형도 출시되었다. 1970년대 초에 중후문형은 단종되었고 전문형은 [1973년](../Page/1973년.md "wikilink")에 출시되었다. 전문형의 경우 당시에는 현재와 같은 완전 자동문 형식이 아닌 운전기사석에서 인력으로 여닫는 반자동 형식이었다. 출시 초기에는 측면 승객유리창이 7칸에 보조창이 승객유리창 7칸 앞뒤로 2개 있는 형태였고 전륜이 프론트 범퍼와의 거리가 가까이 있었으나 [1972년](../Page/1972년.md "wikilink") 6월에 승객유리창이 5칸 형식으로 진화하였고 전륜과 범퍼 사이가 벌어지면서 전문형이 추가되었다.\[1\] [1973년](../Page/1973년.md "wikilink")에는 엔진 국산화와 함께 출력이 155마력으로 업그레이드 되었으며, [1975년](../Page/1975년.md "wikilink")에 루프온 글라스가 추가되었고 전면부 형상이 약간 변형되었다가 [1977년](../Page/1977년.md "wikilink") [4월](../Page/4월.md "wikilink")에 후속모델인 [HD160/HD170에게](../Page/현대_HD.md "wikilink") 물려주고 단종되었다. 영국식휠 전후륜휠 10홀 10핀 형식이다. 총 5,102량이다.
 
 현대자동차의 두번째 프론트엔진 도시형버스 차종으로 모델이 총 3가지가 있는데, 다 합쳐서 1970년 6월에서 1977년 3월까지 생산되었으며 후속모델인 HD160이 출시되면서 단종되었다.
 
@@ -33,7 +33,7 @@ R-182 3번째 모델(HD150)서부터는 측면창문의 배열이 5창배열로 
 
 ### R226
 
-R266터보는 1970년에 국내최초의 고속버스로 출시됐다. 엔진, 샤시는 포드의 R266버스의 것을 그대로 사용했으나 차체, 브레이크등 나머지는 현대자동차가 직접 설계하여 국산화 55.7% 를 실현했다. 최고속도 120km/h이며 46인승이었으나 브레이크 계통의 결함이 생기자 그해 12월 단종되었다. 이후 현대자동차는 [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")부터 [메르세데스-벤츠](https://ko.wikipedia.org/wiki/메르세데스-벤츠 "wikilink")의 고속버스인 [O 302를](https://ko.wikipedia.org/wiki/메르세데스-벤츠_O_302 "wikilink") 면허 생산하였다. 영국식휠 전후륜휠 10홀 10핀 형식이다.
+R266터보는 1970년에 국내최초의 고속버스로 출시됐다. 엔진, 샤시는 포드의 R266버스의 것을 그대로 사용했으나 차체, 브레이크등 나머지는 현대자동차가 직접 설계하여 국산화 55.7% 를 실현했다. 최고속도 120km/h이며 46인승이었으나 브레이크 계통의 결함이 생기자 그해 12월 단종되었다. 이후 현대자동차는 [1972년](../Page/1972년.md "wikilink") [11월](../Page/11월.md "wikilink")부터 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 고속버스인 [O 302를](https://ko.wikipedia.org/wiki/메르세데스-벤츠_O_302 "wikilink") 면허 생산하였다. 영국식휠 전후륜휠 10홀 10핀 형식이다.
 
 ## 각주
 

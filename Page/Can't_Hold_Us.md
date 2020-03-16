@@ -11,7 +11,7 @@
 | 오스트리아 (Ö3 Austria Top 40)                                                                 | 3     |
 | 벨기에 (Ultratip Flanders)                                                                   | 2     |
 | 벨기에 (Ultratip Wallonia)                                                                   | 1     |
-| 캐나다 ([캐나디안 핫 100](https://ko.wikipedia.org/wiki/캐나디안_핫_100 "wikilink"))                   | 2     |
+| 캐나다 ([캐나디안 핫 100](../Page/캐나디안_핫_100.md "wikilink"))                                      | 2     |
 | 체코 ([IFPI](https://ko.wikipedia.org/wiki/국제_음반_산업_협회 "wikilink"))                         | 9     |
 | 덴마크 (Tracklisten)                                                                         | 4     |
 | 핀란드 (Suomen virallinen lista)                                                             | 3     |
@@ -36,7 +36,7 @@
 | 영국 싱글 차트 ([Official Charts Company](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink"))   | 3     |
 | 영국 R\&B 차트 ([Official Charts Company](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink")) | 1     |
 | 영국 인디 차트 ([Official Charts Company](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink"))   | 1     |
-| 미국 ([빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink"))                      | 1     |
+| 미국 ([빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink"))                                         | 1     |
 | 미국 빌보드 팝 차트                                                                               | 1     |
 | 미국 빌보드 R\&B/힙합 차트                                                                         | 1     |
 | 미국 빌보드 랩 차트                                                                               | 1     |

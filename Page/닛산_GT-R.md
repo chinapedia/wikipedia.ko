@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ GT-R](https://ko.wikipedia.org/wiki/_GT-R).
 
 
-**닛산 GT-R**(Nissan GT-R)은 [닛산의](https://ko.wikipedia.org/wiki/닛산_자동차 "wikilink") [스포츠카](https://ko.wikipedia.org/wiki/스포츠카 "wikilink")이다.
+**닛산 GT-R**(Nissan GT-R)은 [닛산의](../Page/닛산_자동차.md "wikilink") [스포츠카](../Page/스포츠카.md "wikilink")이다.
 
 {{-}}
 
@@ -9,7 +9,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:2009-2010_Nissan_GT-R_\(R35\)_coupe_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2009-2010_Nissan_GT-R_\(R35\)_coupe_02.jpg "wikilink")
 
-코드 네임은 CBA-R35이다. [스카이라인](https://ko.wikipedia.org/wiki/닛산_스카이라인 "wikilink") 시절에는 BNR이라는 코드 네임을 사용하였으나, [스카이라인과](https://ko.wikipedia.org/wiki/닛산_스카이라인 "wikilink") 독립함에 따라 CBA라는 별도의 명칭을 얻었다. 원래는 [스카이라인의](https://ko.wikipedia.org/wiki/닛산_스카이라인 "wikilink") 고성능 버전이었으나, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 새로 출시하면서 별도의 차종으로 독립했다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 개최된 [도쿄 모터쇼를](https://ko.wikipedia.org/wiki/도쿄_모터쇼 "wikilink") 통해 1차 프로토 타입 모델이 선보였고, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 개최된 [도쿄 모터쇼에서는](https://ko.wikipedia.org/wiki/도쿄_모터쇼 "wikilink") 2차 프로토 타입이 공개되었다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에는 고성능 버전인 스펙 V 트림이 선보였다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에는 부분 변경을 거쳤으며, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 LED 데이라이트를 장착한 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")형이 선보였다. 그 해에는 100대 한정 판매 트림이자, 짙은 보라색으로 치장한 미드나잇 오팔을 내놓았고, 이듬해인 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에 GT-R의 출시 45주년을 기념하여 45주년 기념 트림을 내놓기도 했다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 14일부터](https://ko.wikipedia.org/wiki/7월_14일 "wikilink") 정식으로 수입하기 시작하였으며, 연간 35대만 한정 판매된다. [우사인 볼트가](https://ko.wikipedia.org/wiki/우사인_볼트 "wikilink") 금색으로 특수 제작된 GT-R(볼트 골드 에디션)을 보유하고 있다.
+코드 네임은 CBA-R35이다. [스카이라인](../Page/닛산_스카이라인.md "wikilink") 시절에는 BNR이라는 코드 네임을 사용하였으나, [스카이라인과](../Page/닛산_스카이라인.md "wikilink") 독립함에 따라 CBA라는 별도의 명칭을 얻었다. 원래는 [스카이라인의](../Page/닛산_스카이라인.md "wikilink") 고성능 버전이었으나, [2007년](../Page/2007년.md "wikilink")에 새로 출시하면서 별도의 차종으로 독립했다. [2001년](../Page/2001년.md "wikilink")에 개최된 [도쿄 모터쇼를](https://ko.wikipedia.org/wiki/도쿄_모터쇼 "wikilink") 통해 1차 프로토 타입 모델이 선보였고, [2005년](../Page/2005년.md "wikilink")에 개최된 [도쿄 모터쇼에서는](https://ko.wikipedia.org/wiki/도쿄_모터쇼 "wikilink") 2차 프로토 타입이 공개되었다. [2009년](../Page/2009년.md "wikilink")에는 고성능 버전인 스펙 V 트림이 선보였다. [2010년](../Page/2010년.md "wikilink")에는 부분 변경을 거쳤으며, [2013년](../Page/2013년.md "wikilink")에 LED 데이라이트를 장착한 [2014년](../Page/2014년.md "wikilink")형이 선보였다. 그 해에는 100대 한정 판매 트림이자, 짙은 보라색으로 치장한 미드나잇 오팔을 내놓았고, 이듬해인 [2015년](../Page/2015년.md "wikilink")에 GT-R의 출시 45주년을 기념하여 45주년 기념 트림을 내놓기도 했다. [대한민국](../Page/대한민국.md "wikilink")에는 [2009년](../Page/2009년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") 정식으로 수입하기 시작하였으며, 연간 35대만 한정 판매된다. [우사인 볼트가](../Page/우사인_볼트.md "wikilink") 금색으로 특수 제작된 GT-R(볼트 골드 에디션)을 보유하고 있다.
 
 파일:2012 Nissan GT-R (R35; prototype) Premium Edition coupe (2012-10-26) 01.jpg|닛산 GT-R(후기형) 정측면 파일:2012 Nissan GT-R (R35; prototype) Premium Edition coupe (2012-10-26) 02.jpg|닛산 GT-R(후기형) 후측면
 

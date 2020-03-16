@@ -17,7 +17,7 @@
   - 다른 [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink")를 사용하는 다향성 구조
   - 입력과 출력을 계속적으로 시험한다
   - 사용자 데이터를 계속적으로 비교한다
-  - [전압](https://ko.wikipedia.org/wiki/전압 "wikilink") 및 시간 모니터링 기능
+  - [전압](../Page/전압.md "wikilink") 및 시간 모니터링 기능
   - 오류/위험이 발생하는 경우의 안전한 정지\[5\]
 
 ## 참고

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WHERE \(SQL\)](https://ko.wikipedia.org/wiki/WHERE_\(SQL\)).
 
 
-SQL에서 **WHERE** 구문은 [SQL](https://ko.wikipedia.org/wiki/SQL "wikilink") [데이터 조작 언어](../Page/데이터_조작_언어.md "wikilink")(DML)가 특정한 기준을 충족하는 행(row)에만 영향을 미치도록 지정한다. 기준은 구문의 형태로 표현된다. WHERE 구문은 SQL DML에서 의무 사항이 아니라, SQL DML 구문 또는 쿼리에 의해 반환된 결과물에 의해 영향을 받는 열의 수를 제한하도록 사용할 수 있다.
+SQL에서 **WHERE** 구문은 [SQL](../Page/SQL.md "wikilink") [데이터 조작 언어](../Page/데이터_조작_언어.md "wikilink")(DML)가 특정한 기준을 충족하는 행(row)에만 영향을 미치도록 지정한다. 기준은 구문의 형태로 표현된다. WHERE 구문은 SQL DML에서 의무 사항이 아니라, SQL DML 구문 또는 쿼리에 의해 반환된 결과물에 의해 영향을 받는 열의 수를 제한하도록 사용할 수 있다.
 
 ## 개요
 

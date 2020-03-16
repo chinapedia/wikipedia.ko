@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [RVR](https://ko.wikipedia.org/wiki/RVR).
 
 
-**RVR**은 Realm vs Realm 의 약자로, [다크 에이지 오브 카멜롯이](https://ko.wikipedia.org/wiki/다크_에이지_오브_카멜롯 "wikilink") 처음으로 개념을 정립하였다. 진영 대 진영 이라는 플레이 방식으로 흔히 진영간 싸움을 뜻한다. [PVP](https://ko.wikipedia.org/wiki/PVP "wikilink")의 확장개념으로, 자신의 진영을 선택하여 개개인의 간의 전투가 아닌 전쟁이라는 양상으로 게임을 진행하는 방식이다.
+**RVR**은 Realm vs Realm 의 약자로, [다크 에이지 오브 카멜롯이](../Page/다크_에이지_오브_카멜롯.md "wikilink") 처음으로 개념을 정립하였다. 진영 대 진영 이라는 플레이 방식으로 흔히 진영간 싸움을 뜻한다. [PVP](https://ko.wikipedia.org/wiki/PVP "wikilink")의 확장개념으로, 자신의 진영을 선택하여 개개인의 간의 전투가 아닌 전쟁이라는 양상으로 게임을 진행하는 방식이다.
 
 이 개념의 다른 방식으로는 그룹 대 그룹, 인종 대 인종, 국가 대 국가, 당파 대 당파 라는 형식으로 게임이 생성되었으며, 현재 출시되는 대부분의 MMORPG에 추가되는 요소입니다.
 
 ## 개요
 
-2001년 [미씩엔터테인먼트](https://ko.wikipedia.org/wiki/미씩엔터테인먼트 "wikilink")의 출시와 함께 새로운 기반의 시스템으로 만들어진 [다크 에이지 오브 카멜롯](https://ko.wikipedia.org/wiki/다크_에이지_오브_카멜롯 "wikilink") 에서 최초로 세력간의 전재을 모토로 게임을 제작하였습니다. [다크 에이지 오브 카멜롯은](https://ko.wikipedia.org/wiki/다크_에이지_오브_카멜롯 "wikilink") 각기 소속된 세력에서 서로간의 유물을 빼았는 방식으로 성을 공략하는 등의 방식으로 게임을 진행 하였습니다. RVR이라는 명칭은 [EA](https://ko.wikipedia.org/wiki/EA "wikilink")의 등록상표중 하나 입니다.
+2001년 [미씩엔터테인먼트](https://ko.wikipedia.org/wiki/미씩엔터테인먼트 "wikilink")의 출시와 함께 새로운 기반의 시스템으로 만들어진 [다크 에이지 오브 카멜롯](../Page/다크_에이지_오브_카멜롯.md "wikilink") 에서 최초로 세력간의 전재을 모토로 게임을 제작하였습니다. [다크 에이지 오브 카멜롯은](../Page/다크_에이지_오브_카멜롯.md "wikilink") 각기 소속된 세력에서 서로간의 유물을 빼았는 방식으로 성을 공략하는 등의 방식으로 게임을 진행 하였습니다. RVR이라는 명칭은 [EA](https://ko.wikipedia.org/wiki/EA "wikilink")의 등록상표중 하나 입니다.
 
 ## 게임들
 
-  - [아이모 The World of Magic](https://ko.wikipedia.org/wiki/아이모 "wikilink"):
+  - [아이모 The World of Magic](../Page/아이모.md "wikilink"):
 
 <!-- end list -->
 
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - [이브 온라인](https://ko.wikipedia.org/wiki/이브_온라인 "wikilink")
+  - [이브 온라인](../Page/이브_온라인.md "wikilink")
 
 <!-- end list -->
 
@@ -37,11 +37,11 @@
 
   -
     세계 대 세계의 전투.
-    3개의 서버가 서로 싸움을 하는 방식. [다크 에이지 오브 카멜롯과](https://ko.wikipedia.org/wiki/다크_에이지_오브_카멜롯 "wikilink") 비슷하다. [워해머 온라인도](https://ko.wikipedia.org/wiki/워해머_온라인 "wikilink") 이 시스템에 포함.
+    3개의 서버가 서로 싸움을 하는 방식. [다크 에이지 오브 카멜롯과](../Page/다크_에이지_오브_카멜롯.md "wikilink") 비슷하다. [워해머 온라인도](https://ko.wikipedia.org/wiki/워해머_온라인 "wikilink") 이 시스템에 포함.
 
 <!-- end list -->
 
-  - [월드 오브 워크래프트](https://ko.wikipedia.org/wiki/월드_오브_워크래프트 "wikilink")
+  - [월드 오브 워크래프트](../Page/월드_오브_워크래프트.md "wikilink")
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@
 
   -
     벨라토 연방, 아크레시아 제국, 코라 중 한개의 종족을 선택하여 자원을 위한 대규모 PVP시스템 지원.
-    [다크 에이지 오브 카멜롯과](https://ko.wikipedia.org/wiki/다크_에이지_오브_카멜롯 "wikilink") 유사한 시스템 구조를 지녔다.
+    [다크 에이지 오브 카멜롯과](../Page/다크_에이지_오브_카멜롯.md "wikilink") 유사한 시스템 구조를 지녔다.
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
 
 <!-- end list -->
 
-  - [블레이드 앤 소울](https://ko.wikipedia.org/wiki/블레이드_앤_소울 "wikilink")
+  - [블레이드 앤 소울](../Page/블레이드_앤_소울.md "wikilink")
 
 <!-- end list -->
 

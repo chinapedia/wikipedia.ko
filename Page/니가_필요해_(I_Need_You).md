@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(I Need You\)](https://ko.wikipedia.org/wiki/__\(I_Need_You\)).
 
 
-《**니가 필요해 (I Need You)**》는 [케이윌](https://ko.wikipedia.org/wiki/케이윌 "wikilink")의 세 번째 [미니앨범이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). 대한민국에서 2012년 2월 14일에 발매되었다.\[1\]
+《**니가 필요해 (I Need You)**》는 [케이윌](https://ko.wikipedia.org/wiki/케이윌 "wikilink")의 세 번째 [미니앨범이다](../Page/익스텐디드_플레이.md "wikilink"). 대한민국에서 2012년 2월 14일에 발매되었다.\[1\]
 
 ## 트랙리스트
 
