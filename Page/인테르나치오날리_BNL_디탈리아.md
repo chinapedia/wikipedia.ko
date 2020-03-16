@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ BNL ](https://ko.wikipedia.org/wiki/_BNL_).
 
 
-**인테르나치오날리 BNL 디탈리아**()는 매년 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [로마](https://ko.wikipedia.org/wiki/로마 "wikilink")에서 열리는 남녀 통합 [테니스](https://ko.wikipedia.org/wiki/테니스 "wikilink") 대회이다. 남자 경기는 [ATP 투어](../Page/프로_테니스_협회.md "wikilink") 분류상 [ATP 월드 투어 마스터스 1000에](../Page/ATP_월드_투어_마스터스_1000.md "wikilink") 속하며, 여자 경기는 [WTA 투어](../Page/여자_테니스_협회.md "wikilink") 분류상 [프리미어 5에](https://ko.wikipedia.org/wiki/WTA_프리미어_대회 "wikilink") 속한다. 남녀 부문은 5월의 서로 다른 주에 나누어 열린다. 코트 종류는 [클레이이다](../Page/클레이_코트.md "wikilink"). **로마 마스터스**(Rome Masters), 영어식 표현인 **이탈리아 오픈**(), 스폰서명을 뺀 **인테르나치오날리 디탈리아**()로 불리기도 한다.
+**인테르나치오날리 BNL 디탈리아**()는 매년 [이탈리아](../Page/이탈리아.md "wikilink") [로마](../Page/로마.md "wikilink")에서 열리는 남녀 통합 [테니스](../Page/테니스.md "wikilink") 대회이다. 남자 경기는 [ATP 투어](../Page/프로_테니스_협회.md "wikilink") 분류상 [ATP 월드 투어 마스터스 1000에](../Page/ATP_월드_투어_마스터스_1000.md "wikilink") 속하며, 여자 경기는 [WTA 투어](../Page/여자_테니스_협회.md "wikilink") 분류상 [프리미어 5에](https://ko.wikipedia.org/wiki/WTA_프리미어_대회 "wikilink") 속한다. 남녀 부문은 5월의 서로 다른 주에 나누어 열린다. 코트 종류는 [클레이이다](../Page/클레이_코트.md "wikilink"). **로마 마스터스**(Rome Masters), 영어식 표현인 **이탈리아 오픈**(), 스폰서명을 뺀 **인테르나치오날리 디탈리아**()로 불리기도 한다.
 
-이 대회의 전신인 이탈리아 테니스 챔피언십은 1930년 [밀라노](https://ko.wikipedia.org/wiki/밀라노 "wikilink")에서 최초로 개최되었으며, 이후 1935년에 로마의 [포로 이탈리코로](https://ko.wikipedia.org/wiki/:en:Foro_Italico "wikilink") 장소를 옮겼다. 1936년부터 1949년까지는 대회가 열리지 않았다가 1950년부터 다시 열리기 시작하였다. 1969년부터는 [오픈 대회가](https://ko.wikipedia.org/wiki/오픈_시대 "wikilink") 되어 모든 프로 선수들에게 출전 자격이 개방되었다.
+이 대회의 전신인 이탈리아 테니스 챔피언십은 1930년 [밀라노](../Page/밀라노.md "wikilink")에서 최초로 개최되었으며, 이후 1935년에 로마의 [포로 이탈리코로](https://ko.wikipedia.org/wiki/:en:Foro_Italico "wikilink") 장소를 옮겼다. 1936년부터 1949년까지는 대회가 열리지 않았다가 1950년부터 다시 열리기 시작하였다. 1969년부터는 [오픈 대회가](https://ko.wikipedia.org/wiki/오픈_시대 "wikilink") 되어 모든 프로 선수들에게 출전 자격이 개방되었다.
 
 ## 역대 결승 결과
 
@@ -40,7 +40,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2007_Internazionali_BNL_d&#39;Italia_–_Men&#39;s_Singles" title="wikilink">2007</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페르난도_곤살레스" title="wikilink">페르난도 곤살레스</a></p></td>
+<td><p><a href="../Page/페르난도_곤살레스.md" title="wikilink">페르난도 곤살레스</a></p></td>
 <td><p>6–2, 6–2</p></td>
 </tr>
 <tr class="odd">
@@ -58,7 +58,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2004_Internazionali_BNL_d&#39;Italia_-_Men&#39;s_Singles" title="wikilink">2004</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/카를로스_모야" title="wikilink">카를로스 모야</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다비드_날반디안" title="wikilink">다비드 날반디안</a></p></td>
+<td><p><a href="../Page/다비드_날반디안.md" title="wikilink">다비드 날반디안</a></p></td>
 <td><p>6–3, 6–3, 6–1</p></td>
 </tr>
 <tr class="even">
@@ -70,7 +70,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2002_Internazionali_BNL_d&#39;Italia_-_Men&#39;s_Singles" title="wikilink">2002</a></p></td>
 <td><p>'''<a href="../Page/앤드리_애거시.md" title="wikilink">앤드리 애거시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토미_하스" title="wikilink">토미 하스</a></p></td>
+<td><p><a href="../Page/토미_하스.md" title="wikilink">토미 하스</a></p></td>
 <td><p>6–3, 6–3, 6–0</p></td>
 </tr>
 <tr class="even">
@@ -267,7 +267,7 @@
 </tr>
 <tr class="even">
 <td><p>1969</p></td>
-<td><p>'''<a href="https://ko.wikipedia.org/wiki/존_뉴컴" title="wikilink">존 뉴컴</a></p></td>
+<td><p>'''<a href="../Page/존_뉴컴.md" title="wikilink">존 뉴컴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/토니_로체" title="wikilink">토니 로체</a></p></td>
 <td><p>6–3, 4–6, 6–2, 5–7, 6–3</p></td>
 </tr>
@@ -310,7 +310,7 @@
 <tr class="odd">
 <td><p>1962</p></td>
 <td><p>'''<a href="../Page/로드_레이버.md" title="wikilink">로드 레이버</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로이_에머슨" title="wikilink">로이 에머슨</a></p></td>
+<td><p><a href="../Page/로이_에머슨.md" title="wikilink">로이 에머슨</a></p></td>
 <td><p>6–2, 1–6, 3–6, 6–3, 6–1</p></td>
 </tr>
 <tr class="even">
@@ -345,7 +345,7 @@
 </tr>
 <tr class="odd">
 <td><p>1956</p></td>
-<td><p>'''<a href="https://ko.wikipedia.org/wiki/루_호드" title="wikilink">루 호드</a></p></td>
+<td><p>'''<a href="../Page/루_호드.md" title="wikilink">루 호드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스벤_다비드손" title="wikilink">스벤 다비드손</a></p></td>
 <td><p>7–5, 6–2, 6–0</p></td>
 </tr>
@@ -364,7 +364,7 @@
 <tr class="even">
 <td><p>1953</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/야로슬라프_드로브니" title="wikilink">야로슬라프 드로브니</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루_호드" title="wikilink">루 호드</a></p></td>
+<td><p><a href="../Page/루_호드.md" title="wikilink">루 호드</a></p></td>
 <td><p>6–2, 6–1, 6–2</p></td>
 </tr>
 <tr class="odd">
@@ -451,7 +451,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2009_Internazionali_BNL_d&#39;Italia_-_Women&#39;s_Singles" title="wikilink">2009</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/디나라_사피나" title="wikilink">디나라 사피나</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스베틀라나_쿠즈네초바" title="wikilink">스베틀라나 쿠즈네초바</a></p></td>
+<td><p><a href="../Page/스베틀라나_쿠즈네초바.md" title="wikilink">스베틀라나 쿠즈네초바</a></p></td>
 <td><p>6–3, 6–2</p></td>
 </tr>
 <tr class="odd">
@@ -463,7 +463,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2007_Internazionali_BNL_d&#39;Italia_-_Women&#39;s_Singles" title="wikilink">2007</a></p></td>
 <td><p><strong><a href="../Page/옐레나_얀코비치.md" title="wikilink">옐레나 얀코비치</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스베틀라나_쿠즈네초바" title="wikilink">스베틀라나 쿠즈네초바</a></p></td>
+<td><p><a href="../Page/스베틀라나_쿠즈네초바.md" title="wikilink">스베틀라나 쿠즈네초바</a></p></td>
 <td><p>7–5, 6–1</p></td>
 </tr>
 <tr class="odd">
@@ -474,20 +474,20 @@
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a></strong></p></td>
+<td><p><strong><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파티_슈나이더" title="wikilink">파티 슈나이더</a></p></td>
 <td><p>2–6, 6–3, 6–4</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a></strong></p></td>
+<td><p><strong><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/제니퍼_카프리아티" title="wikilink">제니퍼 카프리아티</a></p></td>
 <td><p>3–6, 6–3, 7–6(6)</p></td>
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
 <td><p><strong><a href="../Page/킴_클레이스터르스.md" title="wikilink">킴 클레이스터르스</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a></p></td>
+<td><p><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a></p></td>
 <td><p>3–6, 7–6(3), 6–0</p></td>
 </tr>
 <tr class="odd">
@@ -499,13 +499,13 @@
 <tr class="even">
 <td><p>2001</p></td>
 <td><p><strong><a href="../Page/옐레나_도키치.md" title="wikilink">옐레나 도키치</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a></p></td>
+<td><p><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a></p></td>
 <td><p>7–6(3), 6–1</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
 <td><p><strong><a href="../Page/모니카_셀레스.md" title="wikilink">모니카 셀레스</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a></p></td>
+<td><p><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a></p></td>
 <td><p>6–2, 7–6(4)</p></td>
 </tr>
 <tr class="even">
@@ -630,7 +630,7 @@
 </tr>
 <tr class="even">
 <td><p>1979</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/트레이시_오스틴" title="wikilink">트레이시 오스틴</a></strong></p></td>
+<td><p><strong><a href="../Page/트레이시_오스틴.md" title="wikilink">트레이시 오스틴</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/질비아_하니카" title="wikilink">질비아 하니카</a></p></td>
 <td><p>6–4, 1–6, 6–3</p></td>
 </tr>
@@ -666,7 +666,7 @@
 </tr>
 <tr class="even">
 <td><p>1973</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/이본_굴라공" title="wikilink">이본 굴라공</a></strong></p></td>
+<td><p><strong><a href="../Page/이본_굴라공.md" title="wikilink">이본 굴라공</a></strong></p></td>
 <td><p><a href="../Page/크리스_에버트.md" title="wikilink">크리스 에버트</a></p></td>
 <td><p>7–6, 6–0</p></td>
 </tr>
@@ -869,8 +869,8 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2010_Internazionali_BNL_d&#39;Italia_–_Men&#39;s_Doubles" title="wikilink">2010</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/밥_브라이언" title="wikilink">밥 브라이언</a></strong><br />
- <strong><a href="https://ko.wikipedia.org/wiki/마이크_브라이언" title="wikilink">마이크 브라이언</a></strong></p></td>
+<td><p><strong><a href="../Page/밥_브라이언.md" title="wikilink">밥 브라이언</a></strong><br />
+ <strong><a href="../Page/마이크_브라이언.md" title="wikilink">마이크 브라이언</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/존_이스너" title="wikilink">존 이스너</a><br />
  <a href="https://ko.wikipedia.org/wiki/샘_퀘리" title="wikilink">샘 퀘리</a></p></td>
 <td><p>6-2, 6-3</p></td>
@@ -879,14 +879,14 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2009_Internazionali_BNL_d&#39;Italia_-_Men&#39;s_Doubles" title="wikilink">2009</a></p></td>
 <td><p><strong> <a href="../Page/대니얼_네스터.md" title="wikilink">대니얼 네스터</a></strong><br />
 <strong> <a href="https://ko.wikipedia.org/wiki/네나드_지몬지치" title="wikilink">네나드 지몬지치</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/밥_브라이언" title="wikilink">밥 브라이언</a><br />
- <a href="https://ko.wikipedia.org/wiki/마이크_브라이언" title="wikilink">마이크 브라이언</a></p></td>
+<td><p><a href="../Page/밥_브라이언.md" title="wikilink">밥 브라이언</a><br />
+ <a href="../Page/마이크_브라이언.md" title="wikilink">마이크 브라이언</a></p></td>
 <td><p>7–6(5), 6–3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2008_Rome_Masters_-_Men&#39;s_Doubles" title="wikilink">2008</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/밥_브라이언" title="wikilink">밥 브라이언</a></strong><br />
- <strong><a href="https://ko.wikipedia.org/wiki/마이크_브라이언" title="wikilink">마이크 브라이언</a></strong></p></td>
+<td><p><strong><a href="../Page/밥_브라이언.md" title="wikilink">밥 브라이언</a></strong><br />
+ <strong><a href="../Page/마이크_브라이언.md" title="wikilink">마이크 브라이언</a></strong></p></td>
 <td><p><a href="../Page/대니얼_네스터.md" title="wikilink">대니얼 네스터</a><br />
  <a href="https://ko.wikipedia.org/wiki/네나드_지몬지치" title="wikilink">네나드 지몬지치</a></p></td>
 <td><p>3–6, 6–4, [10–8]</p></td>
@@ -895,8 +895,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2007_Rome_Masters" title="wikilink">2007</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파브리스_산토로" title="wikilink">파브리스 산토로</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/네나드_지몬지치" title="wikilink">네나드 지몬지치</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/밥_브라이언" title="wikilink">밥 브라이언</a><br />
- <a href="https://ko.wikipedia.org/wiki/마이크_브라이언" title="wikilink">마이크 브라이언</a></p></td>
+<td><p><a href="../Page/밥_브라이언.md" title="wikilink">밥 브라이언</a><br />
+ <a href="../Page/마이크_브라이언.md" title="wikilink">마이크 브라이언</a></p></td>
 <td><p>6–4, 6–7(4), [10–7]</p></td>
 </tr>
 <tr class="odd">
@@ -911,8 +911,8 @@
 <td><p>2005</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/미카엘_료드라" title="wikilink">미카엘 료드라</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/파브리스_산토로" title="wikilink">파브리스 산토로</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/밥_브라이언" title="wikilink">밥 브라이언</a><br />
- <a href="https://ko.wikipedia.org/wiki/마이크_브라이언" title="wikilink">마이크 브라이언</a></p></td>
+<td><p><a href="../Page/밥_브라이언.md" title="wikilink">밥 브라이언</a><br />
+ <a href="../Page/마이크_브라이언.md" title="wikilink">마이크 브라이언</a></p></td>
 <td><p>7–5, 6–4</p></td>
 </tr>
 <tr class="odd">
@@ -942,7 +942,7 @@
 <tr class="even">
 <td><p>2001</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/웨인_퍼레이라" title="wikilink">웨인 퍼레이라</a></strong><br />
- <strong><a href="https://ko.wikipedia.org/wiki/예브게니_카펠니코프" title="wikilink">예브게니 카펠니코프</a></strong></p></td>
+ <strong><a href="../Page/예브게니_카펠니코프.md" title="wikilink">예브게니 카펠니코프</a></strong></p></td>
 <td><p><a href="../Page/대니얼_네스터.md" title="wikilink">대니얼 네스터</a><br />
  <a href="https://ko.wikipedia.org/wiki/샌던_스톨" title="wikilink">샌던 스톨</a></p></td>
 <td><p>6–4, 7–6(6)</p></td>
@@ -952,7 +952,7 @@
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/마르틴_담" title="wikilink">마르틴 담</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/Dominik_Hrbatý" title="wikilink">Dominik Hrbatý</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/웨인_퍼레이라" title="wikilink">웨인 퍼레이라</a><br />
- <a href="https://ko.wikipedia.org/wiki/예브게니_카펠니코프" title="wikilink">예브게니 카펠니코프</a></p></td>
+ <a href="../Page/예브게니_카펠니코프.md" title="wikilink">예브게니 카펠니코프</a></p></td>
 <td><p>6–4, 4–6, 6–3</p></td>
 </tr>
 <tr class="even">
@@ -997,7 +997,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1994_Rome_Masters" title="wikilink">1994</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/예브게니_카펠니코프" title="wikilink">예브게니 카펠니코프</a></strong><br />
+<td><p><strong><a href="../Page/예브게니_카펠니코프.md" title="wikilink">예브게니 카펠니코프</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/다비드_리클" title="wikilink">다비드 리클</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/웨인_퍼레이라" title="wikilink">웨인 퍼레이라</a><br />
  <a href="https://ko.wikipedia.org/wiki/하비에르_산체스" title="wikilink">하비에르 산체스</a></p></td>
@@ -1144,7 +1144,7 @@
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/브라이언_곳프리드" title="wikilink">브라이언 곳프리드</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/라울_라미레스" title="wikilink">라울 라미레스</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/제프_마스터스" title="wikilink">제프 마스터스</a><br />
- <a href="https://ko.wikipedia.org/wiki/존_뉴컴" title="wikilink">존 뉴컴</a></p></td>
+ <a href="../Page/존_뉴컴.md" title="wikilink">존 뉴컴</a></p></td>
 <td><p>7–6, 5–7, 6–3, 3–6, 6–3</p></td>
 </tr>
 <tr class="even">
@@ -1165,7 +1165,7 @@
 </tr>
 <tr class="even">
 <td><p>1973</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/존_뉴컴" title="wikilink">존 뉴컴</a></strong><br />
+<td><p><strong><a href="../Page/존_뉴컴.md" title="wikilink">존 뉴컴</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/톰_오케르" title="wikilink">톰 오케르</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로스_케이스" title="wikilink">로스 케이스</a><br />
  <a href="https://ko.wikipedia.org/wiki/제프_마스터스" title="wikilink">제프 마스터스</a></p></td>
@@ -1175,16 +1175,16 @@
 <td><p>1972</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/일리에_나스타시" title="wikilink">일리에 나스타시</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/이온_치리아크" title="wikilink">이온 치리아크</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루_호드" title="wikilink">루 호드</a><br />
+<td><p><a href="../Page/루_호드.md" title="wikilink">루 호드</a><br />
  <a href="https://ko.wikipedia.org/wiki/프루_맥밀런" title="wikilink">프루 맥밀런</a></p></td>
 <td><p>3–6, 3–6, 6–4, 6–3, 5–3, RET.</p></td>
 </tr>
 <tr class="even">
 <td><p>1971</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/존_뉴컴" title="wikilink">존 뉴컴</a></strong><br />
+<td><p><strong><a href="../Page/존_뉴컴.md" title="wikilink">존 뉴컴</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/토니_로체" title="wikilink">토니 로체</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/앤드리스_히메노" title="wikilink">앤드리스 히메노</a><br />
- <a href="https://ko.wikipedia.org/wiki/로저_테일러" title="wikilink">로저 테일러</a></p></td>
+ <a href="../Page/로저_테일러.md" title="wikilink">로저 테일러</a></p></td>
 <td><p>6–4, 6–4</p></td>
 </tr>
 <tr class="odd">
@@ -1200,7 +1200,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/톰_오케르" title="wikilink">톰 오케르</a><br />
  <a href="https://ko.wikipedia.org/wiki/마티_리슨" title="wikilink">마티 리슨</a> vs.<br />
- <a href="https://ko.wikipedia.org/wiki/존_뉴컴" title="wikilink">존 뉴컴</a><br />
+ <a href="../Page/존_뉴컴.md" title="wikilink">존 뉴컴</a><br />
  <a href="https://ko.wikipedia.org/wiki/토니_로체" title="wikilink">토니 로체</a></p></td>
 <td><p>4–6, 6–1, SUS (우승자 없음)</p></td>
 </tr>
@@ -1266,7 +1266,7 @@
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/다니엘라_한투코바" title="wikilink">다니엘라 한투코바</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/스기야마_아이" title="wikilink">스기야마 아이</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크베타_페슈케" title="wikilink">크베타 페슈케</a><br />
- <a href="https://ko.wikipedia.org/wiki/프란체스카_스키아보네" title="wikilink">프란체스카 스키아보네</a></p></td>
+ <a href="../Page/프란체스카_스키아보네.md" title="wikilink">프란체스카 스키아보네</a></p></td>
 <td><p>3–6, 6–3, 6–1</p></td>
 </tr>
 <tr class="even">
@@ -1287,7 +1287,7 @@
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/스베틀라나_쿠즈네초바" title="wikilink">스베틀라나 쿠즈네초바</a></strong><br />
+<td><p><strong><a href="../Page/스베틀라나_쿠즈네초바.md" title="wikilink">스베틀라나 쿠즈네초바</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/마르티나_나브라틸로바" title="wikilink">마르티나 나브라틸로바</a></strong></p></td>
 <td><p><a href="../Page/옐레나_얀코비치.md" title="wikilink">옐레나 얀코비치</a><br />
  <a href="https://ko.wikipedia.org/wiki/나디아_페트로바" title="wikilink">나디아 페트로바</a></p></td>
@@ -1311,7 +1311,7 @@
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/리사_레이먼드" title="wikilink">리사 레이먼드</a></strong><br />
+<td><p><strong><a href="../Page/리사_레이먼드.md" title="wikilink">리사 레이먼드</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/러네이_스터브스" title="wikilink">러네이 스터브스</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아란차_산체스_비카리오" title="wikilink">아란차 산체스 비카리오</a><br />
  <a href="https://ko.wikipedia.org/wiki/마귀_세르나" title="wikilink">마귀 세르나</a></p></td>
@@ -1367,7 +1367,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1993_Rome_Masters" title="wikilink">1993</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/야나_노보트나" title="wikilink">야나 노보트나</a></strong><br />
+<td><p><strong><a href="../Page/야나_노보트나.md" title="wikilink">야나 노보트나</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/아란차_산체스_비카리오" title="wikilink">아란차 산체스 비카리오</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메리_조_퍼낸데즈" title="wikilink">메리 조 퍼낸데즈</a><br />
  <a href="https://ko.wikipedia.org/wiki/지나_개리슨_잭슨" title="wikilink">지나 개리슨 잭슨</a></p></td>
@@ -1407,7 +1407,7 @@
 </tr>
 <tr class="odd">
 <td><p>1988</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/야나_노보트나" title="wikilink">야나 노보트나</a></strong><br />
+<td><p><strong><a href="../Page/야나_노보트나.md" title="wikilink">야나 노보트나</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/Catherine_Suire" title="wikilink">Catherine Suire</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/제니_번" title="wikilink">제니 번</a><br />
  <a href="https://ko.wikipedia.org/wiki/Janine_Thompson" title="wikilink">Janine Thompson</a></p></td>

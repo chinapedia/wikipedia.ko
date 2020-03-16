@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JVC   ](https://ko.wikipedia.org/wiki/JVC___).
 
 
-**JVC 켄우드 빅터 엔터테인먼트 주식회사**(, )는 음악 소프트 발매·판매 업무를 하는 [JVC 켄우드의](../Page/JVC.md "wikilink") 음악 전문 자회사이다. [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") "빅터 음악 산업 주식회사"()로 설립되었고, [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")에 회사명을 **빅터 엔터테인먼트**로 이름을 변경하였고, 2014년 4월 1일 현재의 회사명으로 변경하였다.
+**JVC 켄우드 빅터 엔터테인먼트 주식회사**(, )는 음악 소프트 발매·판매 업무를 하는 [JVC 켄우드의](../Page/JVC.md "wikilink") 음악 전문 자회사이다. [1972년](../Page/1972년.md "wikilink") "빅터 음악 산업 주식회사"()로 설립되었고, [1993년](../Page/1993년.md "wikilink")에 회사명을 **빅터 엔터테인먼트**로 이름을 변경하였고, 2014년 4월 1일 현재의 회사명으로 변경하였다.
 
 ## 관련 회사 및 단체
 
@@ -15,7 +15,7 @@
 
 ## 주요 레이블
 
-  - 몹 스쿼드(Mob Squad): [드래곤 애쉬를](https://ko.wikipedia.org/wiki/드래곤_애쉬 "wikilink") 중심으로 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 설립되었다.
+  - 몹 스쿼드(Mob Squad): [드래곤 애쉬를](https://ko.wikipedia.org/wiki/드래곤_애쉬 "wikilink") 중심으로 [2003년](../Page/2003년.md "wikilink") 설립되었다.
   - [스피드스타 레코드](https://ko.wikipedia.org/wiki/스피드스타_레코드 "wikilink")
       - 타이시타: [사잔 오루 스타즈와](https://ko.wikipedia.org/wiki/사잔_오루_스타즈 "wikilink") 그 구성원들이 속한 레이블이다.
   - 3 Views
@@ -68,7 +68,7 @@
   - [코키아](https://ko.wikipedia.org/wiki/코키아 "wikilink")
   - [쿠루리](../Page/쿠루리.md "wikilink")
   - [이나가키 고로](../Page/이나가키_고로.md "wikilink")
-  - [쿠사나기 츠요시](https://ko.wikipedia.org/wiki/쿠사나기_츠요시 "wikilink")
+  - [쿠사나기 츠요시](../Page/쿠사나기_츠요시.md "wikilink")
   - [카토리 싱고](../Page/카토리_싱고.md "wikilink")
   - [키로로](https://ko.wikipedia.org/wiki/키로로 "wikilink")
   - 키토크

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAPPY Coming Century, 20th Century Forever](https://ko.wikipedia.org/wiki/HAPPY_Coming_Century,_20th_Century_Forever).
 
 
-《**"HAPPY" Coming Century, 20th Century Forever**》는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink") 발매한 V6의 5번째 정규 앨범이다.
+《**"HAPPY" Coming Century, 20th Century Forever**》는 [2000년](../Page/2000년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") 발매한 V6의 5번째 정규 앨범이다.
 
 ## 설명
 

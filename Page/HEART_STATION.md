@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HEART STATION](https://ko.wikipedia.org/wiki/HEART_STATION).
 
 
-《**HEART STATION**》(하트 스테이션)은, [우타다 히카루의](https://ko.wikipedia.org/wiki/우타다_히카루 "wikilink") 5번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**HEART STATION**》(하트 스테이션)은, [우타다 히카루의](../Page/우타다_히카루.md "wikilink") 5번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

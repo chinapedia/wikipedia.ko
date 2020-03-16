@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [4 Tomorrow](https://ko.wikipedia.org/wiki/4_Tomorrow).
 
 
-**4 Tomorrow**는 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")의 온라인 공익 캠페인 '[두근두근 Tomorrow](https://ko.wikipedia.org/wiki/두근두근_Tomorrow "wikilink")'의 일환으로서 프로젝트 앨범의 멤버는 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") [가인](../Page/가인.md "wikilink"), [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 [유이](https://ko.wikipedia.org/wiki/유이_\(가수\) "wikilink"), [카라의](../Page/카라_\(음악_그룹\).md "wikilink") [한승연](../Page/한승연.md "wikilink"), [포미닛](../Page/포미닛.md "wikilink")의 [김현아이다](../Page/현아.md "wikilink").
+**4 Tomorrow**는 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")의 온라인 공익 캠페인 '[두근두근 Tomorrow](../Page/두근두근_Tomorrow.md "wikilink")'의 일환으로서 프로젝트 앨범의 멤버는 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") [가인](../Page/가인.md "wikilink"), [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 [유이](https://ko.wikipedia.org/wiki/유이_\(가수\) "wikilink"), [카라의](../Page/카라_\(음악_그룹\).md "wikilink") [한승연](../Page/한승연.md "wikilink"), [포미닛](../Page/포미닛.md "wikilink")의 [김현아이다](../Page/현아.md "wikilink").
 
 ## 구성원
 
@@ -43,7 +43,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/10월_7일" title="wikilink">10월 7일</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/10월_7일.md" title="wikilink">10월 7일</a></p></td>
 <td style="text-align: left;"><p><strong>두근두근 Tomorrow</strong> (싱글)</p></td>
 <td style="text-align: left;"><ol>
 <li>두근두근 Tomorrow</li>
@@ -54,7 +54,7 @@
 
 ## 함께 보기
 
-  - [두근두근 Tomorrow](https://ko.wikipedia.org/wiki/두근두근_Tomorrow "wikilink")
+  - [두근두근 Tomorrow](../Page/두근두근_Tomorrow.md "wikilink")
 
 ## 외부 링크
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Musicmind](https://ko.wikipedia.org/wiki/Musicmind).
 
 
-《**musicmind**》는, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 발매된 V6의 9번째 정규 앨범이다.
+《**musicmind**》는, [2005년](../Page/2005년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 발매된 V6의 9번째 정규 앨범이다.
 
 ## 설명
 
-  - V6의 데뷔 10주년 되는 날인 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 1일에](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 발매되었다. 본래 일본은 매주 수요일마다 음반은 발매하지만, 데뷔 10주년이고, 데뷔일에 맞추기 위해서 화요일에 발매 하였다.
+  - V6의 데뷔 10주년 되는 날인 [2005년](../Page/2005년.md "wikilink") [11월 1일에](../Page/11월_1일.md "wikilink") 발매되었다. 본래 일본은 매주 수요일마다 음반은 발매하지만, 데뷔 10주년이고, 데뷔일에 맞추기 위해서 화요일에 발매 하였다.
   - 초회한정반 2 종류와 통상반이 발매되었다.
 
 ## 통상반

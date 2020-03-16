@@ -5,7 +5,7 @@
 
 ## 역사
 
-[한국 전쟁동안](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 수많은 비밀작전을 수행하며 무수히 많은 희생을 치렀지만 부대 특성상 지금까지도 많은 부분이 베일에 싸여있는 부대다. 부대원의 상당수는 한국전쟁 당시 미군에게 받은 독일군 군복을 입었다.
+[한국 전쟁동안](../Page/한국_전쟁.md "wikilink") 수많은 비밀작전을 수행하며 무수히 많은 희생을 치렀지만 부대 특성상 지금까지도 많은 부분이 베일에 싸여있는 부대다. 부대원의 상당수는 한국전쟁 당시 미군에게 받은 독일군 군복을 입었다.
 
 [찰스 A. 윌로우비](https://ko.wikipedia.org/wiki/찰스_A._윌로우비 "wikilink")()는 [극동 사령부의](https://ko.wikipedia.org/wiki/극동_사령부_\(미국\) "wikilink") 북한 내부에서의 [비밀 작전](https://ko.wikipedia.org/wiki/:en:Clandestine_operation "wikilink")()을 위해 북한 지역에서 활동하던 정의사(正義社)와 백의사(白衣社) 등의 민간 대북첩보조직을 1948년 8월 24일에 하나로 묶어 )를 조직하고 [반도호텔](https://ko.wikipedia.org/wiki/반도호텔 "wikilink") 2층 202호실에 본부를 설치하였다.\[1\] 1949년 6월 1일에 정식부대가 되었다.
 

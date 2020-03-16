@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [My Sweet and Free Day](https://ko.wikipedia.org/wiki/My_Sweet_and_Free_Day).
 
 
-《**My Sweet and Free Day**》는 [아이비의](https://ko.wikipedia.org/wiki/아이비_\(가수\) "wikilink") 첫 번째 정규 앨범으로 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 19일에](https://ko.wikipedia.org/wiki/7월_19일 "wikilink") 발매되었으며, 타이틀곡은 〈오늘밤 일〉이며 〈A-Ha〉, 〈바본가봐〉가 후속곡이다.
+《**My Sweet and Free Day**》는 [아이비의](https://ko.wikipedia.org/wiki/아이비_\(가수\) "wikilink") 첫 번째 정규 앨범으로 [2005년](../Page/2005년.md "wikilink") [7월 19일에](../Page/7월_19일.md "wikilink") 발매되었으며, 타이틀곡은 〈오늘밤 일〉이며 〈A-Ha〉, 〈바본가봐〉가 후속곡이다.
 
 ## 트랙리스트
 

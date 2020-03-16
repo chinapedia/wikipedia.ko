@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RNA \(\)](https://ko.wikipedia.org/wiki/RNA_\(\)).
 
 
-《**RNA**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [7월 10일부터](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [9월 5일까지](https://ko.wikipedia.org/wiki/9월_5일 "wikilink") 방송되었던 메디컬 [서스펜스](https://ko.wikipedia.org/wiki/서스펜스 "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.
+《**RNA**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [2000년](../Page/2000년.md "wikilink") [7월 10일부터](../Page/7월_10일.md "wikilink") [2000년](../Page/2000년.md "wikilink") [9월 5일까지](../Page/9월_5일.md "wikilink") 방송되었던 메디컬 [서스펜스](https://ko.wikipedia.org/wiki/서스펜스 "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.
 
 전기상 연출, 이홍구 작가의 메디컬 서스펜스 드라마를 표방한 공포물이다.
 
@@ -28,7 +28,7 @@
 
 ### 주요 인물
 
-  - [배두나](https://ko.wikipedia.org/wiki/배두나 "wikilink") : 박세미 역
+  - [배두나](../Page/배두나.md "wikilink") : 박세미 역
   - [김채연](../Page/김채연.md "wikilink") : 홍수지 역
   - [김효진](../Page/김효진_\(배우\).md "wikilink") : 김명숙 역
 
@@ -45,17 +45,17 @@
   - [김원준](../Page/김원준.md "wikilink") : 홍지훈 역 - 홍수지의 오빠
   - [신귀식](../Page/신귀식.md "wikilink") : 홍진필 역 - 홍지훈과 홍수지의 아버지
   - [남윤정](../Page/남윤정.md "wikilink") : 홍지훈과 홍수지의 어머니 역
-  - [김무생](https://ko.wikipedia.org/wiki/김무생 "wikilink") : 무라야마 박사 역
+  - [김무생](../Page/김무생.md "wikilink") : 무라야마 박사 역
   - [이세창](../Page/이세창.md "wikilink") : 깅시로, 겐지 역
-  - [이일웅](https://ko.wikipedia.org/wiki/이일웅 "wikilink") : 최원장 역
+  - [이일웅](../Page/이일웅.md "wikilink") : 최원장 역
   - [임유진](https://ko.wikipedia.org/wiki/임유진 "wikilink") : 원혜영 역
   - [송금식](../Page/송금식.md "wikilink") : 다카무라 역
-  - [권용운](https://ko.wikipedia.org/wiki/권용운 "wikilink") : 떼보 역
+  - [권용운](../Page/권용운.md "wikilink") : 떼보 역
   - [서동수](../Page/서동수_\(배우\).md "wikilink") : 준팔 역
-  - [김주영](https://ko.wikipedia.org/wiki/김주영_\(1952년\) "wikilink") : 경찰 1 역
+  - [김주영](../Page/김주영_\(1952년\).md "wikilink") : 경찰 1 역
   - [이재연](../Page/이재연.md "wikilink") : 경찰 2 역
   - [황정미](../Page/황정미.md "wikilink") : 박세영 역 - 박세미의 언니
-  - [강경헌](https://ko.wikipedia.org/wiki/강경헌 "wikilink") : 화자 역
+  - [강경헌](../Page/강경헌.md "wikilink") : 화자 역
   - [박현](https://ko.wikipedia.org/wiki/박현 "wikilink") : 하선재 역
   - [장기용](../Page/장기용_\(1956년\).md "wikilink") : 신 사장 역
 
@@ -65,12 +65,12 @@
 
 ## 수상 경력
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [KBS 연기대상](../Page/KBS_연기대상.md "wikilink") 여자 신인상 [김효진](../Page/김효진_\(배우\).md "wikilink")
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [KBS 연기대상](../Page/KBS_연기대상.md "wikilink") 여자 인기상 [배두나](https://ko.wikipedia.org/wiki/배두나 "wikilink")
+  - [2000년](../Page/2000년.md "wikilink") [KBS 연기대상](../Page/KBS_연기대상.md "wikilink") 여자 신인상 [김효진](../Page/김효진_\(배우\).md "wikilink")
+  - [2000년](../Page/2000년.md "wikilink") [KBS 연기대상](../Page/KBS_연기대상.md "wikilink") 여자 인기상 [배두나](../Page/배두나.md "wikilink")
 
 ## 참고 사항
 
-  - 당초 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") 첫 회가 나갈 예정이었으나 같은 날 MBC가 드라마 \<[허준](../Page/허준_\(드라마\).md "wikilink")\>의 특집쇼를 내보내자 그 시간에 특집 드라마 <유리구슬>을 편성할 계획이었다. <유리구슬>이 취소되자 특선외화 \<[오우삼의 미션 특급](https://ko.wikipedia.org/wiki/오우삼의_미션_특급 "wikilink")\>이 편성되었다.\[4\]
+  - 당초 [2000년](../Page/2000년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") 첫 회가 나갈 예정이었으나 같은 날 MBC가 드라마 \<[허준](../Page/허준_\(드라마\).md "wikilink")\>의 특집쇼를 내보내자 그 시간에 특집 드라마 <유리구슬>을 편성할 계획이었다. <유리구슬>이 취소되자 특선외화 \<[오우삼의 미션 특급](https://ko.wikipedia.org/wiki/오우삼의_미션_특급 "wikilink")\>이 편성되었다.\[4\]
   - 폭력성 짙은 묘사로 방송위원회(현 방송통신심의위원회)에서 시정 조치를 받은 바 있다.\[5\]
   - 작가 [이홍구는](../Page/이홍구_\(1947년\).md "wikilink") <무명천자>의 집필자였으나, 외주제작 형식을 취한 이 드라마가 협찬사가 제작비 지원문제를 미뤄오다 사안자체를 2000년 이후로 넘겨 무산되자, 해당 드라마를 선택하였다.
   - KBS 드라마본부의 전기상 PD는 당초 기획했던 야구드라마 <공주와 장군> 의 무산 후 해당 드라마를 차기작으로 선택했다.

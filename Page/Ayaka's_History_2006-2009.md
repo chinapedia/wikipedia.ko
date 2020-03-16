@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ayaka\'s History 2006-2009](https://ko.wikipedia.org/wiki/Ayaka\'s_History_2006-2009).
 
 
-《**ayaka's History 2006-2009**》는 [아야카](../Page/아야카.md "wikilink")가 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 23일에](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") 발매한 첫 번째 베스트 음반이다. 통상판인 CD버전과 두 가지 한정판(2CD+사진집, 2CD+DVD) 총 세 가지 버전으로 발매됐다.
+《**ayaka's History 2006-2009**》는 [아야카](../Page/아야카.md "wikilink")가 [2009년](../Page/2009년.md "wikilink") [9월 23일에](../Page/9월_23일.md "wikilink") 발매한 첫 번째 베스트 음반이다. 통상판인 CD버전과 두 가지 한정판(2CD+사진집, 2CD+DVD) 총 세 가지 버전으로 발매됐다.
 
 ## 수록곡
 

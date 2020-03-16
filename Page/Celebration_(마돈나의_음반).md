@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Celebration \( \)](https://ko.wikipedia.org/wiki/Celebration_\(_\)).
 
 
-***Celebration*** (셀러브레이션)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [마돈나](../Page/마돈나.md "wikilink")의 세 번째 베스트 음반이자 그녀가 1982년에 계약한 워너 뮤직에서 발매되는 마지막 음반이다\[1\]. 이전에 발매한 두 베스트 음반 *The Immaculate Collection*(1990년)과 *GHV2*(2001년)에 이어 발매되는 음반이며 9월 29일에는 뮤직 비디오 음반 *Celebration: The Video Collection*도 발매될 예정이다.
+***Celebration*** (셀러브레이션)은 [미국](../Page/미국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [마돈나](../Page/마돈나.md "wikilink")의 세 번째 베스트 음반이자 그녀가 1982년에 계약한 워너 뮤직에서 발매되는 마지막 음반이다\[1\]. 이전에 발매한 두 베스트 음반 *The Immaculate Collection*(1990년)과 *GHV2*(2001년)에 이어 발매되는 음반이며 9월 29일에는 뮤직 비디오 음반 *Celebration: The Video Collection*도 발매될 예정이다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Houses of the Holy](https://ko.wikipedia.org/wiki/Houses_of_the_Holy).
 
 
-《**Houses of the Holy**》는 1973년에 발표된 [레드 제플린의](https://ko.wikipedia.org/wiki/레드_제플린 "wikilink") 다섯 번째 정규 음반이다.
+《**Houses of the Holy**》는 1973년에 발표된 [레드 제플린의](../Page/레드_제플린.md "wikilink") 다섯 번째 정규 음반이다.
 
 ## 수록곡
 

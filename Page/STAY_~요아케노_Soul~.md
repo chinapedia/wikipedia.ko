@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [STAY \~ Soul\~](https://ko.wikipedia.org/wiki/STAY_\~_Soul\~).
 
 
-《**STAY \~요아케노 Soul\~**》()은 [가넷 크로우의](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink") 7번째 정규 음반이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 30일에](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") 발매됐으며 작사는 아즈키 나나, 작곡은 나카무라 유리, 편곡은 후루이 히로히토가 맡았다.
+《**STAY \~요아케노 Soul\~**》()은 [가넷 크로우의](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink") 7번째 정규 음반이다. [2009년](../Page/2009년.md "wikilink") [9월 30일에](../Page/9월_30일.md "wikilink") 발매됐으며 작사는 아즈키 나나, 작곡은 나카무라 유리, 편곡은 후루이 히로히토가 맡았다.
 
 이전 정규 음반 《[LOCKS](../Page/LOCKS.md "wikilink")》으로부터 1년 6개월 만에 발매되는 음반으로 음반 제목에 부제목이 붙는 것은 2003년에 발매한 3번째 정규 음반 《[Crystallize \~기미토이우히카리\~](../Page/Crystallize_~기미토이우히카리~.md "wikilink")》이래이다. 전작에 이어 세 가지 형태로 발매되며, 구성은 한정판 A(CD+DVD)와 한정판 B(CD+특전CD), 통상판(CD)이다. 또, CD의 내용은 동일하다.
 

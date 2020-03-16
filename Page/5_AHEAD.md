@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [5 AHEAD](https://ko.wikipedia.org/wiki/5_AHEAD).
 
 
-《**5 AHEAD**》는 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") 발매한 [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")의 7번째 정규 앨범.
+《**5 AHEAD**》는 [2001년](../Page/2001년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") 발매한 [TOKIO](../Page/TOKIO.md "wikilink")의 7번째 정규 앨범.
 
 ## 설명
 

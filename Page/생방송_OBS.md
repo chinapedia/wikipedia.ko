@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ OBS](https://ko.wikipedia.org/wiki/_OBS).
 
 
-**생방송 OBS**는 [OBS경인TV](../Page/OBS경인TV.md "wikilink")에서 평일 오전 6:00 \~ 7:25에 방송했던 오전 정보 프로그램이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 31일에](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") **생방송 5BS**라는 타이틀로 방송을 시작하여 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 3일에](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") 종영되었으나, 불과 2개월만인 [9월 21일부터](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 3일까지](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") 방송을 재개하였다.
+**생방송 OBS**는 [OBS경인TV](../Page/OBS경인TV.md "wikilink")에서 평일 오전 6:00 \~ 7:25에 방송했던 오전 정보 프로그램이다. [2007년](../Page/2007년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") **생방송 5BS**라는 타이틀로 방송을 시작하여 [2009년](../Page/2009년.md "wikilink") [7월 3일에](../Page/7월_3일.md "wikilink") 종영되었으나, 불과 2개월만인 [9월 21일부터](../Page/9월_21일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [10월 3일까지](../Page/10월_3일.md "wikilink") 방송을 재개하였다.
 
 ## 코너
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - [강성범](../Page/강성범.md "wikilink") : [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink")
+  - [강성범](../Page/강성범.md "wikilink") : [2007년](../Page/2007년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink")
 
 <!-- end list -->
 

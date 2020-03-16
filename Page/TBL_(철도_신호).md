@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBL \( \)](https://ko.wikipedia.org/wiki/TBL_\(_\)).
 
 
-**TBL** (Transmission balise-locomotive, 열차 지상자 신호)은 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")에서 사용되는 차상 신호 시스템이다. 발리스 및 궤도 회로를 통해서 연속 신호가 전송된다.\[1\].
+**TBL** (Transmission balise-locomotive, 열차 지상자 신호)은 [벨기에](../Page/벨기에.md "wikilink")에서 사용되는 차상 신호 시스템이다. 발리스 및 궤도 회로를 통해서 연속 신호가 전송된다.\[1\].
 
 ## 종류
 

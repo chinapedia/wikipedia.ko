@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Sugar \(TOKIO \)](https://ko.wikipedia.org/wiki/Sugar_\(TOKIO_\)).
 
 
-《**sugar**》는 TOKIO의 11번째 정규 앨범. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 20일에](https://ko.wikipedia.org/wiki/2월_20일 "wikilink") 발매하였고, 레이블인 유니버설 뮤직 재팬에서 발매한 마지막 앨범이다.
+《**sugar**》는 TOKIO의 11번째 정규 앨범. [2008년](../Page/2008년.md "wikilink") [2월 20일에](../Page/2월_20일.md "wikilink") 발매하였고, 레이블인 유니버설 뮤직 재팬에서 발매한 마지막 앨범이다.
 
 ## 설명
 
   - 전작 《[Harvest](https://ko.wikipedia.org/wiki/Harvest_\(TOKIO\) "wikilink")》발매 이후 약 1년 4개월만의 정규 앨범. 유니버설 뮤직 재팬에서 발매한 마지막 정규 앨범이기도 하다.
   - 2007년에 발매한 싱글 《[{{lang](https://ko.wikipedia.org/wiki/히카리노마치/란후리 "wikilink")》, 《[本日、未熟者/Over Drive](https://ko.wikipedia.org/wiki/혼지츠,_미조쿠모노/Over_Drive "wikilink")》, 《[青春 SEISYuN](https://ko.wikipedia.org/wiki/세이슌_SEISYuN "wikilink")》을 수록하였다.
-  - 앨범 타이틀 명이자, 수록곡인 〈sugar〉은 작사·작곡은 [나가세 토모야](../Page/나가세_토모야.md "wikilink"), 편곡은 [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink"). 일본 국민 그룹인 [사잔올스타즈](https://ko.wikipedia.org/wiki/사잔올스타즈 "wikilink")의 보컬 [쿠와타 케이스케가](https://ko.wikipedia.org/wiki/쿠와타_케이스케 "wikilink") 작곡한 일본 가수 [나카무라 마사토시의](https://ko.wikipedia.org/wiki/나카무라_마사토시 "wikilink") 1982년도 곡 〈恋人も濡れる街角〉을 리메이크하기도 하였다. 총 7곡 수록.
+  - 앨범 타이틀 명이자, 수록곡인 〈sugar〉은 작사·작곡은 [나가세 토모야](../Page/나가세_토모야.md "wikilink"), 편곡은 [TOKIO](../Page/TOKIO.md "wikilink"). 일본 국민 그룹인 [사잔올스타즈](https://ko.wikipedia.org/wiki/사잔올스타즈 "wikilink")의 보컬 [쿠와타 케이스케가](https://ko.wikipedia.org/wiki/쿠와타_케이스케 "wikilink") 작곡한 일본 가수 [나카무라 마사토시의](https://ko.wikipedia.org/wiki/나카무라_마사토시 "wikilink") 1982년도 곡 〈恋人も濡れる街角〉을 리메이크하기도 하였다. 총 7곡 수록.
   - 초회한정반A 타입은 자켓이 금색특수커버, 초회한정반B 타입은 자켓이 은색특수커버, 통상반 - 첫회반은 회색특수커버로 디자인 되어 있다.
 
 ## 수록곡

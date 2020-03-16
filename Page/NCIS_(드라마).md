@@ -110,7 +110,7 @@ NCIS는 현재 리언 밴스(Leon Vance) 국장이 이끌고 있다. 시즌 1부
 <td><p>애비게일 보린<br />
 (Abigail Borin)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/다이앤_닐" title="wikilink">다이앤 닐</a></p></td>
-<td><p>특수 요원, <a href="https://ko.wikipedia.org/wiki/미국_해안경비대" title="wikilink">CGIS</a></p></td>
+<td><p>특수 요원, <a href="../Page/미국_해안경비대.md" title="wikilink">CGIS</a></p></td>
 <td><p>(2010-2014)</p></td>
 </tr>
 <tr class="even">
@@ -215,23 +215,23 @@ NCIS 특수요원 // 아리에게 저격당함.</p></td>
 
 ## 방영 목록
 
-  - 프로모시즌 : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 29일](https://ko.wikipedia.org/wiki/4월_29일 "wikilink") (2개 에피소드)
-  - 시즌 1 : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") (23개 에피스드)
-  - 시즌 2 : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월 24일](https://ko.wikipedia.org/wiki/5월_24일 "wikilink") (23개 에피소드)
-  - 시즌 3 : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") (24개 에피소드)
-  - 시즌 4 : [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") \~ [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink") (24개 에피소드)
-  - 시즌 5 : [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") \~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 20일](https://ko.wikipedia.org/wiki/5월_20일 "wikilink") (19개 에피소드)\[1\]
-  - 시즌 6 : [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 19일](https://ko.wikipedia.org/wiki/5월_19일 "wikilink") (25개 에피소드)
-  - 시즌 7 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 22일](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink") (24개 에피소드)
-  - 시즌 8 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 17일](https://ko.wikipedia.org/wiki/5월_17일 "wikilink") (24개 에피소드)
-  - 시즌 9 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") (24개 에피소드)
-  - 시즌 10 : [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") (24개 에피소드)
-  - 시즌 11 : [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 13일](https://ko.wikipedia.org/wiki/5월_13일 "wikilink") (24개 에피소드)
-  - 시즌 12 : [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") (24개 에피소드)
-  - 시즌 13 : [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 22일](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [5월 17일](https://ko.wikipedia.org/wiki/5월_17일 "wikilink") (24개 에피소드)
-  - 시즌 14 : [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") (24개 에피소드)
-  - 시즌 15 : [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink") (24개 에피소드)
-  - 시즌 16 : [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") \~ 현재
+  - 프로모시즌 : [2003년](../Page/2003년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [4월 29일](../Page/4월_29일.md "wikilink") (2개 에피소드)
+  - 시즌 1 : [2003년](../Page/2003년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") (23개 에피스드)
+  - 시즌 2 : [2004년](../Page/2004년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") (23개 에피소드)
+  - 시즌 3 : [2005년](../Page/2005년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") (24개 에피소드)
+  - 시즌 4 : [2006년](../Page/2006년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") (24개 에피소드)
+  - 시즌 5 : [2007년](../Page/2007년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") (19개 에피소드)\[1\]
+  - 시즌 6 : [2008년](../Page/2008년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") (25개 에피소드)
+  - 시즌 7 : [2009년](../Page/2009년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") (24개 에피소드)
+  - 시즌 8 : [2010년](../Page/2010년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") (24개 에피소드)
+  - 시즌 9 : [2011년](../Page/2011년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") (24개 에피소드)
+  - 시즌 10 : [2012년](../Page/2012년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") (24개 에피소드)
+  - 시즌 11 : [2013년](../Page/2013년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") (24개 에피소드)
+  - 시즌 12 : [2014년](../Page/2014년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") (24개 에피소드)
+  - 시즌 13 : [2015년](../Page/2015년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") (24개 에피소드)
+  - 시즌 14 : [2016년](../Page/2016년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") (24개 에피소드)
+  - 시즌 15 : [2017년](../Page/2017년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") (24개 에피소드)
+  - 시즌 16 : [2018년](../Page/2018년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") \~ 현재
 
 ## 대한민국 내 방영 방송사
 

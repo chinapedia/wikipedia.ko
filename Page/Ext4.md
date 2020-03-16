@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Ext4](https://ko.wikipedia.org/wiki/Ext4).
 
 
-**ext4**(**ext**ended file system **4** , 확장된 파일 시스템 4)는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")의 [저널링 파일 시스템](../Page/저널링_파일_시스템.md "wikilink") 중 하나로, ext3 파일 시스템의 향상된 버전이다.
+**ext4**(**ext**ended file system **4** , 확장된 파일 시스템 4)는 [리눅스](../Page/리눅스.md "wikilink")의 [저널링 파일 시스템](../Page/저널링_파일_시스템.md "wikilink") 중 하나로, ext3 파일 시스템의 향상된 버전이다.
 
 ## 역사
 
-64비트 기억 공간 제한을 없애고 ext3의 성능을 향상시키며, [하위 호환성이](../Page/하위_호환성.md "wikilink") 있는 확장 버전으로서, 많은 부분이 본래, [러스터](https://ko.wikipedia.org/wiki/러스터_\(파일_시스템\) "wikilink") 파일시스템을 위해 [클러스터 파일 시스템스사에서](https://ko.wikipedia.org/wiki/클러스터_파일_시스템스 "wikilink") 개발되었다.\[1\] 그러나 다른 커널 개발자들은 안정성을 이유로 이를 반대했으며, 모든 개발에서 ext3 사용자에게는 영향을 주지 않으면서 ext3에서 fork하여 ext4로 이름을 변경하기를 제안했다. 이 제안이 받아들어져 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 28일](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") ext3를 유지 보수하던 [Theodore Ts'o는](https://ko.wikipedia.org/wiki/Theodore_Ts'o "wikilink") 새로운 ext 개발 계획을 발표하였다.
+64비트 기억 공간 제한을 없애고 ext3의 성능을 향상시키며, [하위 호환성이](../Page/하위_호환성.md "wikilink") 있는 확장 버전으로서, 많은 부분이 본래, [러스터](https://ko.wikipedia.org/wiki/러스터_\(파일_시스템\) "wikilink") 파일시스템을 위해 [클러스터 파일 시스템스사에서](https://ko.wikipedia.org/wiki/클러스터_파일_시스템스 "wikilink") 개발되었다.\[1\] 그러나 다른 커널 개발자들은 안정성을 이유로 이를 반대했으며, 모든 개발에서 ext3 사용자에게는 영향을 주지 않으면서 ext3에서 fork하여 ext4로 이름을 변경하기를 제안했다. 이 제안이 받아들어져 [2006년](../Page/2006년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink") ext3를 유지 보수하던 [Theodore Ts'o는](https://ko.wikipedia.org/wiki/Theodore_Ts'o "wikilink") 새로운 ext 개발 계획을 발표하였다.
 
-ext4의 초기 버전은 리눅스 커널 버전 2.6.19에 포함되었다. 2008년 10월 11일, ext4는 안정화된 코드로 리눅스 2.6.28 소스 코드 저장소에 추가되었고, 개발 과정 종료의 조짐과 ext4 채택 권장이 있었다. ext4 [파일 시스템을](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") 포함하는 커널 2.6.28은 마침내 2008년 12월 25일에 공개되었다. 2010년 1월 15일, 구글은 자사의 스토리지 인프라를 ext2에서 ext4로 업그레이드한다고 발표했다.
+ext4의 초기 버전은 리눅스 커널 버전 2.6.19에 포함되었다. 2008년 10월 11일, ext4는 안정화된 코드로 리눅스 2.6.28 소스 코드 저장소에 추가되었고, 개발 과정 종료의 조짐과 ext4 채택 권장이 있었다. ext4 [파일 시스템을](../Page/파일_시스템.md "wikilink") 포함하는 커널 2.6.28은 마침내 2008년 12월 25일에 공개되었다. 2010년 1월 15일, 구글은 자사의 스토리지 인프라를 ext2에서 ext4로 업그레이드한다고 발표했다.
 
 ## 특징
 

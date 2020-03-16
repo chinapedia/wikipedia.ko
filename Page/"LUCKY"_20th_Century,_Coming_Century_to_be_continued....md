@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LUCKY 20th Century, Coming Century to be continued...](https://ko.wikipedia.org/wiki/LUCKY_20th_Century,_Coming_Century_to_be_continued...).
 
 
-《**"LUCKY" 20th Century, Coming Century to be continued...**》는 V6가 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [8월 18일에](https://ko.wikipedia.org/wiki/8월_18일 "wikilink") 발매한 4번째 정규 앨범이다.
+《**"LUCKY" 20th Century, Coming Century to be continued...**》는 V6가 [1999년](../Page/1999년.md "wikilink") [8월 18일에](../Page/8월_18일.md "wikilink") 발매한 4번째 정규 앨범이다.
 
 ## 설명
 

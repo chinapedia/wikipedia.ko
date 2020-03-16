@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LF \(\)](https://ko.wikipedia.org/wiki/LF_\(\)).
 
 
-**LF**(LF; )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 기성복 및 패션 잡화 제조업체이다. 모기업은 [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 설립된 락희산업(현 LG상사)이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [LG상사](../Page/LG상사.md "wikilink")에서 분리되어 출범하였다. [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")까지는 반도패션이라는 사명을 사용하다가 [1995년 9월](https://ko.wikipedia.org/wiki/1995년_9월 "wikilink") LG패션으로 CI를 변경하였다.
+**LF**(LF; )은 [대한민국](../Page/대한민국.md "wikilink")의 기성복 및 패션 잡화 제조업체이다. 모기업은 [1953년](../Page/1953년.md "wikilink") [11월](../Page/11월.md "wikilink") 설립된 락희산업(현 LG상사)이다. [2006년](../Page/2006년.md "wikilink") [LG상사](../Page/LG상사.md "wikilink")에서 분리되어 출범하였다. [1995년](../Page/1995년.md "wikilink")까지는 반도패션이라는 사명을 사용하다가 [1995년 9월](https://ko.wikipedia.org/wiki/1995년_9월 "wikilink") LG패션으로 CI를 변경하였다.
 
 2006년 11월 1일 [LG그룹](../Page/LG그룹.md "wikilink")에서 분리 독립하였고, 2014년 4월에 현재의 사명으로 변경하였다. 사명인 LF는 'Life in Future'의 줄임말이다.\[1\]
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MF J](https://ko.wikipedia.org/wiki/MF_J).
 
 
-**MF문고 J**()는 일본 [미디어팩토리](https://ko.wikipedia.org/wiki/미디어팩토리 "wikilink") 계열의 [라이트 노벨](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink") 레이블이다. 원래 일본 국외영화를 소설로 번역하던 기존의 MF문고에 일본 (Japan)과 쥬브나일 (Juvenile)의 J를 붙여 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 새로이 창간되었다.
+**MF문고 J**()는 일본 [미디어팩토리](https://ko.wikipedia.org/wiki/미디어팩토리 "wikilink") 계열의 [라이트 노벨](../Page/라이트_노벨.md "wikilink") 레이블이다. 원래 일본 국외영화를 소설로 번역하던 기존의 MF문고에 일본 (Japan)과 쥬브나일 (Juvenile)의 J를 붙여 [2002년](../Page/2002년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") 새로이 창간되었다.
 
 창설 당시에는 대부분이 애니메이션, 게임 원작의 라이트 노벨화가 주된 목적이었지만 MF J수상자들이 데뷔하기 시작하며 평가가 급상승 하였다. 특히 제로의 사역마, 카노콘, 캠퍼 등 인기작이 대거 등장했으며 애니메이션화가 이루어졌다. 출간되는 모든 라이트 노벨의 표지색이 녹색으로 되어 있으며 라이트 노벨 출판사로서는 특이하게 전자출판을 하고 있다. 또 야마구치 노보루, 쿠와시마 요시카즈 등의 게임 시나리오 작가 출신들이 많은 것도 특징이다.
 
@@ -17,10 +17,10 @@
       - 《[타바사의 모험](https://ko.wikipedia.org/wiki/타바사의_모험 "wikilink")》 (외전)
       - 《[열풍의 기사공주](https://ko.wikipedia.org/wiki/열풍의_기사공주 "wikilink")》 (외전)
   - 《[덤벼\!](https://ko.wikipedia.org/wiki/덤벼! "wikilink")》 시리즈 - 미우라 이사오 / 루나
-  - 《[성검의 블랙스미스](https://ko.wikipedia.org/wiki/성검의_블랙스미스 "wikilink")》 - 미우라 이사오 / 루나
+  - 《[성검의 블랙스미스](../Page/성검의_블랙스미스.md "wikilink")》 - 미우라 이사오 / 루나
   - 《[우울한 소녀는 흑마법으로 사랑을 한다](https://ko.wikipedia.org/wiki/우울한_소녀는_흑마법으로_사랑을_한다 "wikilink")》 - 구마가이 마사토 / 에렛토
   - 《[카노콘](../Page/카노콘.md "wikilink")》 - 니시노 카츠미 / 코인
-  - 《[비탄의 아리아](https://ko.wikipedia.org/wiki/비탄의_아리아 "wikilink")》 - 아카마츠 츄가쿠 / 코부이치
+  - 《[비탄의 아리아](../Page/비탄의_아리아.md "wikilink")》 - 아카마츠 츄가쿠 / 코부이치
   - 《[큐, 큐, 큐트\!](https://ko.wikipedia.org/wiki/큐,_큐,_큐트! "wikilink")》 - 노지마 켄지 / 무토 쿠리히토
   - 《[헌티드\!](https://ko.wikipedia.org/wiki/헌티드! "wikilink")》 - [히라사카 요미](https://ko.wikipedia.org/wiki/히라사카_요미 "wikilink") / 카타세 유우
   - 《[Run & Shot\!](https://ko.wikipedia.org/wiki/Run_&_Shot! "wikilink")》 - 카미나 오키나 / refeia
@@ -43,18 +43,18 @@
   - 《풍수학원》- 나츠 미도리 / 나기
   - 《신족가족》- 쿠와시마 요시카즈 / 야스다 스즈히로
   - 《총희》 - 타카도노 마도카 / 에나미 카츠미
-  - 《[별의 목소리](https://ko.wikipedia.org/wiki/별의_목소리 "wikilink")》- 오오바 와쿠 / 야기누마 코우
+  - 《[별의 목소리](../Page/별의_목소리.md "wikilink")》- 오오바 와쿠 / 야기누마 코우
   - 《마법소녀☆임시면허》- 후유키 후유키 / H2SO4
   - 《T와 팬티의 좋은 이야기》- 모토무라 타이시 / 마에다 리소우
   - 《오버 이미지》- 유사 마히로 /
   - 《돼지는 날아도 그저 돼지일 뿐?》- 스즈키 코우 /
 
-### [익스트림 노벨](https://ko.wikipedia.org/wiki/익스트림_노벨 "wikilink")
+### [익스트림 노벨](../Page/익스트림_노벨.md "wikilink")
 
   - 《[마탄의 왕과 바나디스](../Page/마탄의_왕과_바나디스.md "wikilink")》- 카와구치 츠카사 / 요시☆오
   - 《[인피니트 스트라토스](https://ko.wikipedia.org/wiki/인피니트_스트라토스 "wikilink")》- 유미즈루 이즈루 / okiura
   - 《벌레와 눈알》 시리즈 - 아키라 / 미츠키 마우스
-  - 《[나는 친구가 적다](https://ko.wikipedia.org/wiki/나는_친구가_적다 "wikilink")》- 히라사가 요미 / [브리키](https://ko.wikipedia.org/wiki/브리키 "wikilink")
+  - 《[나는 친구가 적다](../Page/나는_친구가_적다.md "wikilink")》- 히라사가 요미 / [브리키](https://ko.wikipedia.org/wiki/브리키 "wikilink")
   - 《[엠엠\!](https://ko.wikipedia.org/wiki/엠엠! "wikilink")》- 마츠노 아키나리 / QP:flapper
   - 《04》시리즈 - 시미즈 마리코 / toi8
   - 《거짓말》시리즈 - 시미즈 마리코 / toi8

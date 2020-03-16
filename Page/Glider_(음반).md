@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Glider \(\)](https://ko.wikipedia.org/wiki/Glider_\(\)).
 
 
-《**glider**》는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") 발매 된 [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")의 8번째 정규 앨범이다.
+《**glider**》는 [2003년](../Page/2003년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") 발매 된 [TOKIO](../Page/TOKIO.md "wikilink")의 8번째 정규 앨범이다.
 
 ## 설명
 
-  - 전 앨범 《[5 AHEAD](https://ko.wikipedia.org/wiki/5_AHEAD "wikilink")》 발매 이후 1년 2개월만의 발매 된 정규 앨범.
+  - 전 앨범 《[5 AHEAD](../Page/5_AHEAD.md "wikilink")》 발매 이후 1년 2개월만의 발매 된 정규 앨범.
   - 싱글 《[メッセージ/ひとりぼっちのハブラシ](https://ko.wikipedia.org/wiki/메시지_/_히토리봇치노하브라시 "wikilink")》이후 오리콘 데일리 차트 1위를 기록한 《[ding-dong/glider](https://ko.wikipedia.org/wiki/Ding-dong_/_glider "wikilink")》의 두 곡을 포함해, 롱 세일즈로 화제가 된 《[花唄](https://ko.wikipedia.org/wiki/하나우타 "wikilink")》, 싱글 내에서 3부작 스토리 라인으로 만든 《[GREEN](../Page/GREEN_\(TOKIO의_싱글\).md "wikilink")》을 포함하였다.
   - 또, 멤버 전원이 작사, 작곡에 본격적으로 참여하여 편곡이나 트랙 다운하는 등 하였다. 멤버가 공동 작업을 하기도 하였다.
   - 초회한정반A, 초회한정반B, 통상반으로 3가지 타입. 초회한정A반 2 Disc에는 미발표곡을 편곡해 수록, 초회한정반B 2 Disc에는 수록곡 원곡 (데모버전)을 들을 수 있다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Best E.P Selection of TOKIO](https://ko.wikipedia.org/wiki/Best_E.P_Selection_of_TOKIO).
 
 
-《**Best E.P Selection of TOKIO**》는, [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") 발매한 [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")의 첫 베스트 앨범.
+《**Best E.P Selection of TOKIO**》는, [1996년](../Page/1996년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") 발매한 [TOKIO](../Page/TOKIO.md "wikilink")의 첫 베스트 앨범.
 
 ## 설명
 

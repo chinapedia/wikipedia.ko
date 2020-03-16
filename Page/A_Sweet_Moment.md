@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A Sweet Moment](https://ko.wikipedia.org/wiki/A_Sweet_Moment).
 
 
-《**A Sweet Moment**》는 [아이비의](https://ko.wikipedia.org/wiki/아이비_\(가수\) "wikilink") 두 번째 정규 음반이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 12일에](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") 발매됐으며, 대표곡으로는 〈CUPIDO〉, 〈유혹의 소나타〉, 〈이럴거면〉, 〈사랑아 어떻게〉 등이 있다. 이 앨범의 타이틀곡인 〈유혹의 소나타〉는 발표당시 지상파 방송2사의 음악 프로그램과 《[쇼 뮤직탱크](../Page/쇼_뮤직탱크.md "wikilink")》, 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》의 음악 차트에서 거의 매주 1위를 석권할 정도로 큰 인기를 끌었다. 그리고 10번트랙 〈사랑아 어떻게〉와 14번 트랙 〈I Know〉는 아이비의 출연작 [SBS](../Page/SBS_TV.md "wikilink") 《[도쿄 여우비](../Page/도쿄_여우비.md "wikilink")》 OST 수록곡으로 사용되기도 했다.
+《**A Sweet Moment**》는 [아이비의](https://ko.wikipedia.org/wiki/아이비_\(가수\) "wikilink") 두 번째 정규 음반이다. [2007년](../Page/2007년.md "wikilink") [2월 12일에](../Page/2월_12일.md "wikilink") 발매됐으며, 대표곡으로는 〈CUPIDO〉, 〈유혹의 소나타〉, 〈이럴거면〉, 〈사랑아 어떻게〉 등이 있다. 이 앨범의 타이틀곡인 〈유혹의 소나타〉는 발표당시 지상파 방송2사의 음악 프로그램과 《[쇼 뮤직탱크](../Page/쇼_뮤직탱크.md "wikilink")》, 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》의 음악 차트에서 거의 매주 1위를 석권할 정도로 큰 인기를 끌었다. 그리고 10번트랙 〈사랑아 어떻게〉와 14번 트랙 〈I Know〉는 아이비의 출연작 [SBS](../Page/SBS_TV.md "wikilink") 《[도쿄 여우비](../Page/도쿄_여우비.md "wikilink")》 OST 수록곡으로 사용되기도 했다.
 
 ## 수록곡
 

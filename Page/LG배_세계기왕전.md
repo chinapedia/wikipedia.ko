@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
 
 
-**LG배 조선일보 기왕전**, 약칭 **LG배**는 국제 [바둑 기전으로](../Page/바둑_기전.md "wikilink") 1996년에 시작되었다. [조선일보](https://ko.wikipedia.org/wiki/조선일보 "wikilink")와 [한국기원](../Page/한국기원.md "wikilink")이 주최하며, 주식회사 [LG](https://ko.wikipedia.org/wiki/LG "wikilink")의 협찬을 받는다.
+**LG배 조선일보 기왕전**, 약칭 **LG배**는 국제 [바둑 기전으로](../Page/바둑_기전.md "wikilink") 1996년에 시작되었다. [조선일보](../Page/조선일보.md "wikilink")와 [한국기원](../Page/한국기원.md "wikilink")이 주최하며, 주식회사 [LG](https://ko.wikipedia.org/wiki/LG "wikilink")의 협찬을 받는다.
 
 ## 대회 형식
 
@@ -62,7 +62,7 @@
 <td><p><a href="../Page/6회_LG배_세계기왕전.md" title="wikilink">2001-2002</a></p></td>
 <td><p><strong><a href="../Page/유창혁.md" title="wikilink">유창혁</a></strong> 九단</p></td>
 <td><p>3-2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조훈현" title="wikilink">조훈현</a> 九단</p></td>
+<td><p><a href="../Page/조훈현.md" title="wikilink">조훈현</a> 九단</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/7회_LG배_세계기왕전.md" title="wikilink">7</a></p></td>
@@ -114,8 +114,8 @@
 <td><p><a href="../Page/이세돌.md" title="wikilink">이세돌</a> 九단</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/14회_LG배_세계기왕전" title="wikilink">14</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/14회_LG배_세계기왕전" title="wikilink">2009-2010</a></p></td>
+<td><p><a href="../Page/14회_LG배_세계기왕전.md" title="wikilink">14</a></p></td>
+<td><p><a href="../Page/14회_LG배_세계기왕전.md" title="wikilink">2009-2010</a></p></td>
 <td><p><strong><a href="../Page/쿵제.md" title="wikilink">쿵제</a></strong> 九단</p></td>
 <td><p>2-0</p></td>
 <td><p><a href="../Page/이창호.md" title="wikilink">이창호</a> 九단</p></td>

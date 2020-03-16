@@ -5,7 +5,7 @@
 
 ## 리그기간
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink")
+  - [2009년](../Page/2009년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink")
 
 ## 대회 개요
 
@@ -38,12 +38,12 @@ MSL 후원은 처음이지만, 2002년 NATE 온게임넷 스타리그 후원 이
 
 ### 대회 일정
 
-  - 조지명식 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink")
-  - 32강 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") (매주 목요일 오후 5시와 7시 30분 2개조, 토요일 오후 6시 30분 1개조 진행)
-  - 16강 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") \~ [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") (매주 목요일 오후 6시 30분, 토요일 오후 5시 진행)
-  - 8강 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") (매주 목요일 오후 6시 30분, 토요일 오후 5시 진행)
-  - 4강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 14일](https://ko.wikipedia.org/wiki/1월_14일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") (목요일 오후 6시 30분, 토요일 오후 5시 진행)
-  - 결승전 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") (토요일 오후 5시)
+  - 조지명식 : [2009년](../Page/2009년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink")
+  - 32강 : [2009년](../Page/2009년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") (매주 목요일 오후 5시와 7시 30분 2개조, 토요일 오후 6시 30분 1개조 진행)
+  - 16강 : [2009년](../Page/2009년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") (매주 목요일 오후 6시 30분, 토요일 오후 5시 진행)
+  - 8강 : [2009년](../Page/2009년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") (매주 목요일 오후 6시 30분, 토요일 오후 5시 진행)
+  - 4강 : [2010년](../Page/2010년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") (목요일 오후 6시 30분, 토요일 오후 5시 진행)
+  - 결승전 : [2010년](../Page/2010년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") (토요일 오후 5시)
 
 ### 상금
 
@@ -95,7 +95,7 @@ MSL 후원은 처음이지만, 2002년 NATE 온게임넷 스타리그 후원 이
 | A조 | [김윤환](../Page/김윤환_\(1989년\).md "wikilink")              | **[도재욱](https://ko.wikipedia.org/wiki/도재욱 "wikilink")**           | [이재호](https://ko.wikipedia.org/wiki/이재호_\(프로게이머\) "wikilink") | **[박지수](https://ko.wikipedia.org/wiki/박지수 "wikilink")**           | **[도재욱](https://ko.wikipedia.org/wiki/도재욱 "wikilink")**       |
 | B조 | **[한상봉](../Page/한상봉_\(프로게이머\).md "wikilink")**          | [김상욱](https://ko.wikipedia.org/wiki/김상욱 "wikilink")               | [이영한](../Page/이영한.md "wikilink")                              | **[진영수](../Page/진영수.md "wikilink")**                              | **[한상봉](../Page/한상봉_\(프로게이머\).md "wikilink")**                |
 | C조 | [변형태](https://ko.wikipedia.org/wiki/변형태 "wikilink")     | **[김동현](https://ko.wikipedia.org/wiki/김동현_\(프로게이머\) "wikilink")** | [신대근](../Page/신대근.md "wikilink")                              | **[이영호](https://ko.wikipedia.org/wiki/이영호_\(1992년\) "wikilink")** | [김동현](https://ko.wikipedia.org/wiki/김동현_\(프로게이머\) "wikilink") |
-| D조 | **[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")** | [임정현](https://ko.wikipedia.org/wiki/임정현_\(프로게이머\) "wikilink")     | **[김대엽](../Page/김대엽.md "wikilink")**                          | [박성준](../Page/박성준_\(1986년\).md "wikilink")                        | **[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")**       |
+| D조 | **[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")** | [임정현](../Page/임정현_\(프로게이머\).md "wikilink")                        | **[김대엽](../Page/김대엽.md "wikilink")**                          | [박성준](../Page/박성준_\(1986년\).md "wikilink")                        | **[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")**       |
 | E조 | [고인규](../Page/고인규.md "wikilink")                        | **[조일장](../Page/조일장.md "wikilink")**                              | **[진영화](../Page/진영화_\(프로게이머\).md "wikilink")**                | [송병구](../Page/송병구.md "wikilink")                                  | **[조일장](../Page/조일장.md "wikilink")**                          |
 | F조 | [김택용](../Page/김택용.md "wikilink")                        | **[김승현](../Page/김승현_\(프로게이머\).md "wikilink")**                    | **[이신형](../Page/이신형.md "wikilink")**                          | [마재윤](../Page/마재윤.md "wikilink")                                  | **[김승현](../Page/김승현_\(프로게이머\).md "wikilink")**                |
 | G조 | [김명운](../Page/김명운.md "wikilink")                        | **[박재혁](../Page/박재혁_\(프로게이머\).md "wikilink")**                    | [문성진](../Page/문성진.md "wikilink")                              | **[김구현](../Page/김구현_\(프로게이머\).md "wikilink")**                    | [박재혁](../Page/박재혁_\(프로게이머\).md "wikilink")                    |

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [This Is The One](https://ko.wikipedia.org/wiki/This_Is_The_One).
 
 
-《**This Is the One**》(디스 이즈 더 원)은 일본계 미국인 [대중음악](../Page/대중음악.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [우타다 히카루의](https://ko.wikipedia.org/wiki/우타다_히카루 "wikilink") 세 번째 미국 정규 음반이다. 원래 2009년 3월 4일 일본에서 발매 예정이었지만 2009년 3월 14일로 연기됐다. 미국에선 2009년 3월 24일 디지털 다운로드로 발매됐으며, 2009년 5월 14일 [콤팩트 디스크로](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 발매됐다. 이 음반은 일본 [오리콘](../Page/오리콘.md "wikilink") 인터내셔널 음반 차트에서 1위를 차지했으며, 주간 차트에선 3위를 차지했다. 미국에선 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 69위를 기록했다.
+《**This Is the One**》(디스 이즈 더 원)은 일본계 미국인 [대중음악](../Page/대중음악.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [우타다 히카루의](../Page/우타다_히카루.md "wikilink") 세 번째 미국 정규 음반이다. 원래 2009년 3월 4일 일본에서 발매 예정이었지만 2009년 3월 14일로 연기됐다. 미국에선 2009년 3월 24일 디지털 다운로드로 발매됐으며, 2009년 5월 14일 [콤팩트 디스크로](../Page/콤팩트_디스크.md "wikilink") 발매됐다. 이 음반은 일본 [오리콘](../Page/오리콘.md "wikilink") 인터내셔널 음반 차트에서 1위를 차지했으며, 주간 차트에선 3위를 차지했다. 미국에선 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 69위를 기록했다.
 
 ## 배경
 
@@ -57,17 +57,17 @@
 
 ## 발매 기록
 
-| 국가                                                    | 발매일                |
-| ----------------------------------------------------- | ------------------ |
-| [일본](../Page/일본.md "wikilink")                        | 2009년 3월 14일       |
-| [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")   | 2009년 3월 24일 (디지털) |
-| 2009년 6월 23일 (CD)                                     |                    |
-| [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")     | 2009년 3월 24일       |
-| [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")     |                    |
-| [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink") |                    |
-| [타이](https://ko.wikipedia.org/wiki/타이 "wikilink")     | 2009년 4월 2일        |
-| [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")     | 2009년 3월 24일 (디지털) |
-| 2009년 5월 12일 (CD)                                     |                    |
+| 국가                                                | 발매일                |
+| ------------------------------------------------- | ------------------ |
+| [일본](../Page/일본.md "wikilink")                    | 2009년 3월 14일       |
+| [캐나다](../Page/캐나다.md "wikilink")                  | 2009년 3월 24일 (디지털) |
+| 2009년 6월 23일 (CD)                                 |                    |
+| [한국](../Page/한국.md "wikilink")                    | 2009년 3월 24일       |
+| [홍콩](../Page/홍콩.md "wikilink")                    |                    |
+| [중화민국](../Page/중화민국.md "wikilink")                |                    |
+| [타이](https://ko.wikipedia.org/wiki/타이 "wikilink") | 2009년 4월 2일        |
+| [미국](../Page/미국.md "wikilink")                    | 2009년 3월 24일 (디지털) |
+| 2009년 5월 12일 (CD)                                 |                    |
 
 ## 각주
 

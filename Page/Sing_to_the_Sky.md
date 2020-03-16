@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sing to the Sky](https://ko.wikipedia.org/wiki/Sing_to_the_Sky).
 
 
-《**Sing to the Sky** (싱 투 더 스카이)》는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [아야카](../Page/아야카.md "wikilink")의 두 번째 정규 음반이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 25일에](https://ko.wikipedia.org/wiki/6월_25일 "wikilink") 워너 뮤직 재팬을 통해 CD뿐인 통상판과 뮤직 비디오 DVD, 공연 DVD가 추가로 붙어있는 두 가지 한정판으로 발매됐다. 한국에는 통상판이 2009년 2월 12일에 발매됐다.
+《**Sing to the Sky** (싱 투 더 스카이)》는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [아야카](../Page/아야카.md "wikilink")의 두 번째 정규 음반이다. [2008년](../Page/2008년.md "wikilink") [6월 25일에](../Page/6월_25일.md "wikilink") 워너 뮤직 재팬을 통해 CD뿐인 통상판과 뮤직 비디오 DVD, 공연 DVD가 추가로 붙어있는 두 가지 한정판으로 발매됐다. 한국에는 통상판이 2009년 2월 12일에 발매됐다.
 
 ## 수록곡
 

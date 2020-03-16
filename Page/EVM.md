@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EVM](https://ko.wikipedia.org/wiki/EVM).
 
 
-**엘렉트로니쿠스 보나트메갈리토**()는 [헝가리](https://ko.wikipedia.org/wiki/헝가리 "wikilink")에서 사용하는 철도 신호 시스템이다. 철도 신호와 기관사 알림 장치가 결합되어 있다.
+**엘렉트로니쿠스 보나트메갈리토**()는 [헝가리](../Page/헝가리.md "wikilink")에서 사용하는 철도 신호 시스템이다. 철도 신호와 기관사 알림 장치가 결합되어 있다.
 
 ## 기술 사양
 

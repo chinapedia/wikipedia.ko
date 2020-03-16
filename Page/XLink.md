@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [XLink](https://ko.wikipedia.org/wiki/XLink).
 
 
-**XLink**(XML Linking Language, XML 링크 언어)는 [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 문서에서 사용되는 [하이퍼링크](https://ko.wikipedia.org/wiki/하이퍼링크 "wikilink")를 만들기 위한 XML [마크업 언어이다](https://ko.wikipedia.org/wiki/마크업_언어 "wikilink"). XLink 는 [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 문서에 속한 내부 혹은 외부 자원간의 링크를 표현하기 위해 [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")를 따른다.
+**XLink**(XML Linking Language, XML 링크 언어)는 [XML](../Page/XML.md "wikilink") 문서에서 사용되는 [하이퍼링크](../Page/하이퍼링크.md "wikilink")를 만들기 위한 XML [마크업 언어이다](../Page/마크업_언어.md "wikilink"). XLink 는 [XML](../Page/XML.md "wikilink") 문서에 속한 내부 혹은 외부 자원간의 링크를 표현하기 위해 [W3C](../Page/W3C.md "wikilink")를 따른다.
 
 ## XLink의 사용 의의
 
-XLink는 [하이퍼링크](https://ko.wikipedia.org/wiki/하이퍼링크 "wikilink")를 제공함에 있어 기존의 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink") 링크와 유사성을 가지나 다음과 같은 차이점을 가진다.
+XLink는 [하이퍼링크](../Page/하이퍼링크.md "wikilink")를 제공함에 있어 기존의 [HTML](../Page/HTML.md "wikilink") 링크와 유사성을 가지나 다음과 같은 차이점을 가진다.
 
-  - 기존 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")링크에서 지원하지 않았던 양방향 링크를 제공한다.
+  - 기존 [HTML](../Page/HTML.md "wikilink")링크에서 지원하지 않았던 양방향 링크를 제공한다.
   - 문자 단위의 문서 세부 위치 지정 링크가 가능하다.
   - 링크 정보만 따로 문서화 하여 관리할 수 있다.
   - 링크에 의미 부여가 가능하다
-  - [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 문서 중 일부분만 링크되도록 할 수 있다.
+  - [XML](../Page/XML.md "wikilink") 문서 중 일부분만 링크되도록 할 수 있다.
 
 ## XLink의 네임스페이스
 

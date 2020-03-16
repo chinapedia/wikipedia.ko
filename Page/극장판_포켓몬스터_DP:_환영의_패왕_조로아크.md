@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  DP:   ](https://ko.wikipedia.org/wiki/__DP:___).
 
 
-《**포켓몬스터 다이아몬드 & 펄 환영의 패왕 조로아크**》 ()는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 23일에](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") [CGV와](../Page/CJ_CGV.md "wikilink") [프리머스를](../Page/프리머스_\(영화관\).md "wikilink") 통하여 개봉된 [극장판 포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 13기의 명칭이다. [조로아](https://ko.wikipedia.org/wiki/조로아 "wikilink"), [조로아크](https://ko.wikipedia.org/wiki/조로아크 "wikilink"), [스이쿤](../Page/스이쿤.md "wikilink"), [앤테이](https://ko.wikipedia.org/wiki/앤테이 "wikilink"), [라이코](../Page/라이코.md "wikilink"), [세레비](../Page/세레비.md "wikilink") 등이 등장한다.
+《**포켓몬스터 다이아몬드 & 펄 환영의 패왕 조로아크**》 ()는 [2010년](../Page/2010년.md "wikilink") [12월 23일에](../Page/12월_23일.md "wikilink") [CGV와](../Page/CJ_CGV.md "wikilink") [프리머스를](../Page/프리머스_\(영화관\).md "wikilink") 통하여 개봉된 [극장판 포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 13기의 명칭이다. [조로아](https://ko.wikipedia.org/wiki/조로아 "wikilink"), [조로아크](https://ko.wikipedia.org/wiki/조로아크 "wikilink"), [스이쿤](../Page/스이쿤.md "wikilink"), [앤테이](https://ko.wikipedia.org/wiki/앤테이 "wikilink"), [라이코](../Page/라이코.md "wikilink"), [세레비](../Page/세레비.md "wikilink") 등이 등장한다.
 
 ## 개요
 
@@ -14,13 +14,13 @@
   - 예고편에는 [엔테이](https://ko.wikipedia.org/wiki/엔테이 "wikilink"), [라이코](../Page/라이코.md "wikilink"), [스이쿤](../Page/스이쿤.md "wikilink"), [세레비](../Page/세레비.md "wikilink")가 등장한다.
   - [오하스타](https://ko.wikipedia.org/wiki/오하스타 "wikilink"), [포켓몬스터 다이아몬드&펄에서](https://ko.wikipedia.org/wiki/포켓몬스터_다이아몬드&펄 "wikilink") 소개 영상이 방송되었다. 그 중에 또 한 사람의 지우가 나오는데 조로아크가 변신한 모습이다.
   - 이번 작에 등장하는 5세대 포켓몬인 "[조로아](https://ko.wikipedia.org/wiki/조로아 "wikilink")"와 "[조로아크](https://ko.wikipedia.org/wiki/조로아크 "wikilink")"가 등장함에 따라 공식 제목이 변경되었다.
-  - 본작의 무대 모델은 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")와 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")이다. 시계열은 DP 171 화부터 179 화까지이다.
+  - 본작의 무대 모델은 [네덜란드](../Page/네덜란드.md "wikilink")와 [벨기에](../Page/벨기에.md "wikilink")이다. 시계열은 DP 171 화부터 179 화까지이다.
 
 ## 주제가
 
   - 여는 곡: 《최고.에브리데이》
-  - 닫는 곡: 《[아이스크림 신드롬](https://ko.wikipedia.org/wiki/아이스크림_신드롬 "wikilink")》()
-  - 대한민국:[윤하](https://ko.wikipedia.org/wiki/윤하 "wikilink") - [꿈속에서](https://ko.wikipedia.org/wiki/꿈속에서 "wikilink")
+  - 닫는 곡: 《[아이스크림 신드롬](../Page/아이스크림_신드롬.md "wikilink")》()
+  - 대한민국:[윤하](../Page/윤하.md "wikilink") - [꿈속에서](https://ko.wikipedia.org/wiki/꿈속에서 "wikilink")
 
 ## 스토리
 
@@ -34,8 +34,8 @@
 
 ### 한국
 
-  - 한국에서는 라이코를 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 28일부터](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") [10월 24일까지](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") 전국 [CGV](../Page/CJ_CGV.md "wikilink")(일부관 제외)에서 배포하였다. 이후 [10월 30일부터](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") [11월 28일까지에는](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") 엔테이를 배포하였다.
-  - 극장에서는 [스이쿤](../Page/스이쿤.md "wikilink")을 [12월 16일부터](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 9일](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") 까지 한정예매한 사람들에게 배포하였다.\[2\]
+  - 한국에서는 라이코를 [2010년](../Page/2010년.md "wikilink") [9월 28일부터](../Page/9월_28일.md "wikilink") [10월 24일까지](../Page/10월_24일.md "wikilink") 전국 [CGV](../Page/CJ_CGV.md "wikilink")(일부관 제외)에서 배포하였다. 이후 [10월 30일부터](../Page/10월_30일.md "wikilink") [11월 28일까지에는](../Page/11월_28일.md "wikilink") 엔테이를 배포하였다.
+  - 극장에서는 [스이쿤](../Page/스이쿤.md "wikilink")을 [12월 16일부터](../Page/12월_16일.md "wikilink") [2011년](../Page/2011년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") 까지 한정예매한 사람들에게 배포하였다.\[2\]
   - 영화관 내부에서는 무선통신으로 [세레비](../Page/세레비.md "wikilink")를 받을 수 있었다.
 
 ## 등장 인물 · 캐스트
@@ -51,11 +51,11 @@
   - [웅](https://ko.wikipedia.org/wiki/웅 "wikilink")
       - 성우 - [우에다 유지](../Page/우에다_유지.md "wikilink")/ [변영희](../Page/변영희.md "wikilink")
   - [빛나](https://ko.wikipedia.org/wiki/빛나 "wikilink")
-      - 성우 - [토요구치 메구미](../Page/토요구치_메구미.md "wikilink")/ [정미숙](https://ko.wikipedia.org/wiki/정미숙 "wikilink")
+      - 성우 - [토요구치 메구미](../Page/토요구치_메구미.md "wikilink")/ [정미숙](../Page/정미숙.md "wikilink")
   - [팽도리](../Page/팽도리.md "wikilink")
       - 성우 - [코자쿠라 에츠코](https://ko.wikipedia.org/wiki/코자쿠라_에츠코 "wikilink")
   - [로사](https://ko.wikipedia.org/wiki/로사 "wikilink")
-      - 성우 - [하야시바라 메구미](../Page/하야시바라_메구미.md "wikilink")/ [우정신](https://ko.wikipedia.org/wiki/우정신 "wikilink")
+      - 성우 - [하야시바라 메구미](../Page/하야시바라_메구미.md "wikilink")/ [우정신](../Page/우정신.md "wikilink")
   - [로이](../Page/로이.md "wikilink")
       - 성우 - [미키 신이치로](../Page/미키_신이치로.md "wikilink")/ [김영선](https://ko.wikipedia.org/wiki/김영선 "wikilink")
   - [나옹](../Page/나옹_\(포켓몬\).md "wikilink")
@@ -78,7 +78,7 @@
 <!-- end list -->
 
   - 리오카
-      - 성우 : [카토 나츠키](https://ko.wikipedia.org/wiki/카토_나츠키 "wikilink")/ [김선혜](https://ko.wikipedia.org/wiki/김선혜 "wikilink")
+      - 성우 : [카토 나츠키](../Page/카토_나츠키.md "wikilink")/ [김선혜](https://ko.wikipedia.org/wiki/김선혜 "wikilink")
 
 <!-- end list -->
 
@@ -93,7 +93,7 @@
 <!-- end list -->
 
   - [조로아크](https://ko.wikipedia.org/wiki/조로아크 "wikilink")
-      - 성우 : [박로미](https://ko.wikipedia.org/wiki/박로미 "wikilink")
+      - 성우 : [박로미](../Page/박로미.md "wikilink")
 
 <!-- end list -->
 

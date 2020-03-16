@@ -3,17 +3,17 @@
 
 [후지TV](https://ko.wikipedia.org/wiki/후지TV "wikilink"){{·}} [도에이 애니메이션](../Page/도에이_애니메이션.md "wikilink") |전편=[드래곤볼 Z](../Page/드래곤볼_Z.md "wikilink") |후편=[드래곤볼 카이](../Page/드래곤볼_카이.md "wikilink") }}
 
-**드래곤볼 GT**(ドラゴンボールGT)는 [드래곤볼 Z의](../Page/드래곤볼_Z.md "wikilink") 후속편으로 애니메이션으로만 제작되었다. 64편의 에피소드가 있으며 대한민국에선 비디오로 총 30편으로 출시되었다. [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")는 일본 방영 연도로부터 13년 만에 2010년 1월 1일부터 방영이 시작되었다. 스페셜 **100년 후에**가 제작되기도 했다.
+**드래곤볼 GT**(ドラゴンボールGT)는 [드래곤볼 Z의](../Page/드래곤볼_Z.md "wikilink") 후속편으로 애니메이션으로만 제작되었다. 64편의 에피소드가 있으며 대한민국에선 비디오로 총 30편으로 출시되었다. [투니버스](../Page/투니버스.md "wikilink")는 일본 방영 연도로부터 13년 만에 2010년 1월 1일부터 방영이 시작되었다. 스페셜 **100년 후에**가 제작되기도 했다.
 
 ## 성우진
 
 일어&한국어 더빙판
 
-  - 손오공 : [노자와 마사코](../Page/노자와_마사코.md "wikilink"), [박영남](../Page/박영남.md "wikilink")/[김환진](https://ko.wikipedia.org/wiki/김환진 "wikilink")
-  - 트랭크스 : [쿠사오 타케시](https://ko.wikipedia.org/wiki/쿠사오_타케시 "wikilink"), [최원형](https://ko.wikipedia.org/wiki/최원형 "wikilink")
+  - 손오공 : [노자와 마사코](../Page/노자와_마사코.md "wikilink"), [박영남](../Page/박영남.md "wikilink")/[김환진](../Page/김환진.md "wikilink")
+  - 트랭크스 : [쿠사오 타케시](https://ko.wikipedia.org/wiki/쿠사오_타케시 "wikilink"), [최원형](../Page/최원형.md "wikilink")
   - 팡 : [미나구치 유코](../Page/미나구치_유코.md "wikilink"), [김현지](https://ko.wikipedia.org/wiki/김현지 "wikilink")
   - 치치 : [쇼 마유미](https://ko.wikipedia.org/wiki/쇼_마유미 "wikilink"), [윤여진](../Page/윤여진.md "wikilink")
-  - 부르마 : [츠루 히로미](../Page/츠루_히로미.md "wikilink"), [지미애](https://ko.wikipedia.org/wiki/지미애 "wikilink")
+  - 부르마 : [츠루 히로미](../Page/츠루_히로미.md "wikilink"), [지미애](../Page/지미애.md "wikilink")
   - 손오반 : [노자와 마사코](../Page/노자와_마사코.md "wikilink"), [김장](../Page/김장_\(성우\).md "wikilink")
   - 비델 : [미나구치 유코](../Page/미나구치_유코.md "wikilink"), [이용신](../Page/이용신.md "wikilink")
   - 손오천 : [노자와 마사코](../Page/노자와_마사코.md "wikilink"), [박성태](../Page/박성태.md "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cry \(  \)](https://ko.wikipedia.org/wiki/Cry_\(__\)).
 
 
-《**Cry**》는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 앨범 [Invincible에](../Page/Invincible_\(마이클_잭슨의_음반\).md "wikilink") 수록된 싱글이다.[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월 3일에](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") 발표됐으며, 이 곡은 전작에서 같이 작업했던 [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink")가수이자 프로듀서인 [알 켈리가](https://ko.wikipedia.org/wiki/알_켈리 "wikilink") 작곡했으며,백그라운드 보컬도 맡았다.전 세계에서 100위 안에 진입했다.
+《**Cry**》는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 앨범 [Invincible에](../Page/Invincible_\(마이클_잭슨의_음반\).md "wikilink") 수록된 싱글이다.[2001년](../Page/2001년.md "wikilink") [12월 3일에](../Page/12월_3일.md "wikilink") 발표됐으며, 이 곡은 전작에서 같이 작업했던 [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink")가수이자 프로듀서인 [알 켈리가](https://ko.wikipedia.org/wiki/알_켈리 "wikilink") 작곡했으며,백그라운드 보컬도 맡았다.전 세계에서 100위 안에 진입했다.
 
 ## 트랙 목록
 
@@ -12,7 +12,7 @@
 1.  "Cry" – 5:01
 2.  "Shout" – 4:17
 3.  "Streetwalker" – 5:49
-4.  "Cry" (short film in [MPEG](https://ko.wikipedia.org/wiki/MPEG "wikilink") and [QuickTime](https://ko.wikipedia.org/wiki/QuickTime "wikilink") formats) – 5:00
+4.  "Cry" (short film in [MPEG](../Page/MPEG.md "wikilink") and [QuickTime](https://ko.wikipedia.org/wiki/QuickTime "wikilink") formats) – 5:00
 
 <!-- end list -->
 

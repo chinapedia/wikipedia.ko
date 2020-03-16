@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Infinite Visions](https://ko.wikipedia.org/wiki/Infinite_Visions).
 
 
-**Infinite Visions**는 [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink") [파워 메탈밴드](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 첫 라이브 DVD이다. 완전한 라이브 앨범은 아니며, 공연 중의 몇몇 라이브 클립과 백스테이지 영상, [Episode](https://ko.wikipedia.org/wiki/Episode "wikilink")앨범과 [Infinite](https://ko.wikipedia.org/wiki/Infinite "wikilink")앨범의 녹음과정 등이 담겨있다. [Fright Night부터](https://ko.wikipedia.org/wiki/Fright_Night "wikilink") 시작된 12년간의 밴드 역사 연도순으로 정리했다. 또한 [소나타 아티카의](../Page/소나타_아티카.md "wikilink") [Black Diamond](../Page/Black_Diamond.md "wikilink") 커버 공연 영상도 30초가량 들어있다. 2시간 이상의 자료 영상과 6개의 뮤직비디오로 구성되어있다.
+**Infinite Visions**는 [핀란드](../Page/핀란드.md "wikilink") [파워 메탈밴드](../Page/파워_메탈.md "wikilink") [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 첫 라이브 DVD이다. 완전한 라이브 앨범은 아니며, 공연 중의 몇몇 라이브 클립과 백스테이지 영상, [Episode](https://ko.wikipedia.org/wiki/Episode "wikilink")앨범과 [Infinite](https://ko.wikipedia.org/wiki/Infinite "wikilink")앨범의 녹음과정 등이 담겨있다. [Fright Night부터](https://ko.wikipedia.org/wiki/Fright_Night "wikilink") 시작된 12년간의 밴드 역사 연도순으로 정리했다. 또한 [소나타 아티카의](../Page/소나타_아티카.md "wikilink") [Black Diamond](../Page/Black_Diamond.md "wikilink") 커버 공연 영상도 30초가량 들어있다. 2시간 이상의 자료 영상과 6개의 뮤직비디오로 구성되어있다.
 
 ## DVD 구성물
 

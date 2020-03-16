@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EOS 7D](https://ko.wikipedia.org/wiki/_EOS_7D).
 
 
-**캐논 EOS 7D**()는 [캐논](../Page/캐논.md "wikilink")이 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 9월 출시한 [디지털 SLR카메라이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 60프레임 HD동영상 촬영 기능과 초당 8연사, 시야율 약 98%, 19포인트 크로스 [AF센서](https://ko.wikipedia.org/wiki/자동_초점 "wikilink") 등 강력한 기능이 특징인 캐논사의 APS-C 플래그십 새로운 라인업의 첫 제품이다. 경쟁 모델로는 니콘에서 발매한 [D300S](https://ko.wikipedia.org/wiki/D300S "wikilink")가 있다.
+**캐논 EOS 7D**()는 [캐논](../Page/캐논.md "wikilink")이 [2009년](../Page/2009년.md "wikilink") 9월 출시한 [디지털 SLR카메라이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 60프레임 HD동영상 촬영 기능과 초당 8연사, 시야율 약 98%, 19포인트 크로스 [AF센서](../Page/자동_초점.md "wikilink") 등 강력한 기능이 특징인 캐논사의 APS-C 플래그십 새로운 라인업의 첫 제품이다. 경쟁 모델로는 니콘에서 발매한 [D300S](https://ko.wikipedia.org/wiki/D300S "wikilink")가 있다.
 
 ## 비판
 
@@ -11,7 +11,7 @@
 
 또한 캐논측은 구매자의 사인을 요구하거나, 구입일이 일정기간 지난 제품들에 대해서는 환불을 거부하기도 하였다.\[2\]\[3\]
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 4일](https://ko.wikipedia.org/wiki/5월_4일 "wikilink") 캐논측이 과장광고를 한 사실이 인정되어 공정거래위원회의 경고를 받았다.\[4\]
+[2010년](../Page/2010년.md "wikilink") [5월 4일](../Page/5월_4일.md "wikilink") 캐논측이 과장광고를 한 사실이 인정되어 공정거래위원회의 경고를 받았다.\[4\]
 
 ### 잔상
 

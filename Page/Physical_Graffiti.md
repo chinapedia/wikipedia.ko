@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Physical Graffiti](https://ko.wikipedia.org/wiki/Physical_Graffiti).
 
 
-**Physical Graffiti**는 [레드 제플린의](https://ko.wikipedia.org/wiki/레드_제플린 "wikilink") 여섯 번째 정규 음반이다.
+**Physical Graffiti**는 [레드 제플린의](../Page/레드_제플린.md "wikilink") 여섯 번째 정규 음반이다.
 
 ## 수록곡
 

@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [2003 CONCACAF ](https://ko.wikipedia.org/wiki/2003_CONCACAF_).
 
 
-**2003년 CONCACAF 골드컵** (2003 CONCACAF Gold Cup) 은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 7번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [7월 12일부터](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") [7월 27일까지](https://ko.wikipedia.org/wiki/7월_27일 "wikilink") 개최되었다.
+**2003년 CONCACAF 골드컵** (2003 CONCACAF Gold Cup) 은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 7번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [2003년](../Page/2003년.md "wikilink") [7월 12일부터](../Page/7월_12일.md "wikilink") [7월 27일까지](../Page/7월_27일.md "wikilink") 개최되었다.
 
-[미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")가 공동 개최했으며, 경기는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink")와 [폭스버러](../Page/폭스버러.md "wikilink"), [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")의 [멕시코시티](https://ko.wikipedia.org/wiki/멕시코시티 "wikilink")에서 펼쳐졌다. 대회에 출전한 12개국은 4개의 조로 나뉘어 각 조의 상위 2개국이 진출, 총 8개국이 8강전에 진출하는 방식이었다. 이 대회에는 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink") 소속이 아닌 콜롬비아와 브라질이 초청되었고, 결승전에서는 연장전 끝에 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") [브라질을](https://ko.wikipedia.org/wiki/브라질_축구_국가대표팀 "wikilink") 1-0으로 누르고, 통산 4번째 우승을 일궈냈다.
+[미국](../Page/미국.md "wikilink")과 [멕시코](../Page/멕시코.md "wikilink")가 공동 개최했으며, 경기는 [미국](../Page/미국.md "wikilink")의 [마이애미](../Page/마이애미.md "wikilink")와 [폭스버러](../Page/폭스버러.md "wikilink"), [멕시코](../Page/멕시코.md "wikilink")의 [멕시코시티](../Page/멕시코시티.md "wikilink")에서 펼쳐졌다. 대회에 출전한 12개국은 4개의 조로 나뉘어 각 조의 상위 2개국이 진출, 총 8개국이 8강전에 진출하는 방식이었다. 이 대회에는 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink") 소속이 아닌 콜롬비아와 브라질이 초청되었고, 결승전에서는 연장전 끝에 [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") [브라질을](../Page/브라질_축구_국가대표팀.md "wikilink") 1-0으로 누르고, 통산 4번째 우승을 일궈냈다.
 
 ## 경기장
 
-  -   - [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink") - [오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink")
+  -   - [마이애미](../Page/마이애미.md "wikilink") - [오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink")
       - [폭스버러](../Page/폭스버러.md "wikilink") - [질레트 스타디움](../Page/질레트_스타디움.md "wikilink")
 
-  -   - [멕시코시티](https://ko.wikipedia.org/wiki/멕시코시티 "wikilink") - [에스타디오 아스테카](../Page/에스타디오_아스테카.md "wikilink")
+  -   - [멕시코시티](../Page/멕시코시티.md "wikilink") - [에스타디오 아스테카](../Page/에스타디오_아스테카.md "wikilink")
 
 ## 예선
 
@@ -347,7 +347,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀" title="wikilink">멕시코</a></strong><br />
+<strong><a href="../Page/멕시코_축구_국가대표팀.md" title="wikilink">멕시코</a></strong><br />
 <strong>4번째 우승</strong></p></td>
 </tr>
 </tbody>
@@ -399,7 +399,7 @@
 **Reserves**
 
   - G -  [오델린 몰리나](https://ko.wikipedia.org/wiki/오델린_몰리나 "wikilink")
-  - D -  [보비 컨베이](https://ko.wikipedia.org/wiki/보비_컨베이 "wikilink")
+  - D -  [보비 컨베이](../Page/보비_컨베이.md "wikilink")
   - D -  [하이메 모랄레스](https://ko.wikipedia.org/wiki/하이메_모랄레스 "wikilink")
   - M -  [지에구](../Page/지에구_히바스_다_쿠냐.md "wikilink")
   - M -  [페르난도 살라사르](https://ko.wikipedia.org/wiki/페르난도_살라사르 "wikilink")

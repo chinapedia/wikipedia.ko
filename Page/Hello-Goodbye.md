@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hello-Goodbye](https://ko.wikipedia.org/wiki/Hello-Goodbye).
 
 
-《**Hello-Goodbye**》은, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink") 발매한 Coming Century의 첫 번째 미니 앨범이다.
+《**Hello-Goodbye**》은, [2009년](../Page/2009년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") 발매한 Coming Century의 첫 번째 미니 앨범이다.
 
 ## 설명
 
@@ -48,7 +48,7 @@
 7.  ファイト
       - **BONUS CD**
 8.  You are my everything / [Go Morita](../Page/모리타_고.md "wikilink")
-9.  4U / [Ken Miyake](https://ko.wikipedia.org/wiki/미야케_켄 "wikilink")
+9.  4U / [Ken Miyake](../Page/미야케_켄.md "wikilink")
 10. Shall we Love? / [Junichi Okada](https://ko.wikipedia.org/wiki/오카다_쥰이치 "wikilink")
 
 [분류:Coming Century의 음반](https://ko.wikipedia.org/wiki/분류:Coming_Century의_음반 "wikilink") [분류:2009년 오리콘 앨범 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2009년_오리콘_앨범_차트_1위_작품 "wikilink") [분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink")

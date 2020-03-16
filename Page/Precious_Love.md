@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Precious Love](https://ko.wikipedia.org/wiki/Precious_Love).
 
 
-《**Precious Love**》는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") 발매한 [20th Century의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 2번째 싱글 음반이다.
+《**Precious Love**》는 [2000년](../Page/2000년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") 발매한 [20th Century의](../Page/V6_\(음악_그룹\).md "wikilink") 2번째 싱글 음반이다.
 
 ## 설명
 

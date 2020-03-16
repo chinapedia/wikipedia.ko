@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Very best](https://ko.wikipedia.org/wiki/Very_best).
 
 
-《**Very best**》은, [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 발매한 V6의 첫 베스트 앨범이다. 대한민국에서는 정식 라이선스를 통해 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") 발매되었다.
+《**Very best**》은, [2001년](../Page/2001년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 발매한 V6의 첫 베스트 앨범이다. 대한민국에서는 정식 라이선스를 통해 [2004년](../Page/2004년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") 발매되었다.
 
 ## 설명
 

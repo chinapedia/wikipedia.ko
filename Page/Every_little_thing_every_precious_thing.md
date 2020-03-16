@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Every little thing every precious thing](https://ko.wikipedia.org/wiki/Every_little_thing_every_precious_thing).
 
 
-**every little thing every precious thing**은 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 발표된 [LINDBERG](https://ko.wikipedia.org/wiki/LINDBERG "wikilink")의 25번째 싱글이다.
+**every little thing every precious thing**은 [1996년](../Page/1996년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 발표된 [LINDBERG](https://ko.wikipedia.org/wiki/LINDBERG "wikilink")의 25번째 싱글이다.
 
 ## 해설
 
@@ -17,7 +17,7 @@
       -
         작사：[와타세 마키](https://ko.wikipedia.org/wiki/와타세_마키 "wikilink")　작곡：[가와조에 도모히사](https://ko.wikipedia.org/wiki/가와조에_도모히사 "wikilink")　편곡：LINDBERG, 神長弘一, [井上龍仁](https://ko.wikipedia.org/wiki/井上龍仁 "wikilink"), [사토 준](https://ko.wikipedia.org/wiki/사토_준 "wikilink")(스트리밍 어레인지)
         [니혼테레비](https://ko.wikipedia.org/wiki/니혼테레비 "wikilink")계《제16회 전국고등학교 퀴즈선수권》엔딩테마곡.
-        [파나소닉](https://ko.wikipedia.org/wiki/파나소닉 "wikilink")〈하이비전 요코즈나〉CF곡.
+        [파나소닉](../Page/파나소닉.md "wikilink")〈하이비전 요코즈나〉CF곡.
         [한신 타이거즈](https://ko.wikipedia.org/wiki/한신_타이거즈 "wikilink") [후지카와 규지의](../Page/후지카와_규지.md "wikilink") 등장 테마곡.
         [후쿠오카 소프트뱅크 호크스](../Page/후쿠오카_소프트뱅크_호크스.md "wikilink") [스기우치 도시야의](../Page/스기우치_도시야.md "wikilink") 옛 등장 테마곡.
 2.  **아지사이**

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
 
 
-**MBC 라이프**(MBC Life)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [MBC 플러스 미디어가](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") 운영했던 교양 정보 전문 채널이었다.
+**MBC 라이프**(MBC Life)는 [대한민국](../Page/대한민국.md "wikilink")의 [MBC 플러스 미디어가](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") 운영했던 교양 정보 전문 채널이었다.
 
 ## 개요
 
-[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") HEN으로 개국하였다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") 앨리스TV로 채널명 변경되었다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 26일에](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") [MBC 플러스 미디어가](../Page/MBC_플러스.md "wikilink") 인수하면서 , 그해 [10월 5일](https://ko.wikipedia.org/wiki/10월_5일 "wikilink") 교양 및 정보 전문 채널로 전환하고, 채널 명칭을 MBC 라이프로 변경하였다.\[1\] \[2\]. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 [HD](https://ko.wikipedia.org/wiki/HD "wikilink") 방송을 시작했으며, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 여성전문 채널인 [MBC 퀸으로](../Page/MBC_퀸.md "wikilink") 재개국하였다. 주로 자체 제작한 프로그램과 [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 및 [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")에서 방송된 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리_텔레비전_프로그램 "wikilink") 및 교양프로그램 등을 편성하였고, 2011년에는 드라마 위주의 편성을 하면서도 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 시즌에는 프로야구 중계도 하였다.
+[2001년](../Page/2001년.md "wikilink") HEN으로 개국하였다. [2005년](../Page/2005년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") 앨리스TV로 채널명 변경되었다. [2009년](../Page/2009년.md "wikilink") [7월 26일에](../Page/7월_26일.md "wikilink") [MBC 플러스 미디어가](../Page/MBC_플러스.md "wikilink") 인수하면서 , 그해 [10월 5일](../Page/10월_5일.md "wikilink") 교양 및 정보 전문 채널로 전환하고, 채널 명칭을 MBC 라이프로 변경하였다.\[1\] \[2\]. [2010년](../Page/2010년.md "wikilink")에 [HD](https://ko.wikipedia.org/wiki/HD "wikilink") 방송을 시작했으며, [2013년](../Page/2013년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 여성전문 채널인 [MBC 퀸으로](../Page/MBC_퀸.md "wikilink") 재개국하였다. 주로 자체 제작한 프로그램과 [문화방송](../Page/문화방송.md "wikilink") 및 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")에서 방송된 [다큐멘터리](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink") 및 교양프로그램 등을 편성하였고, 2011년에는 드라마 위주의 편성을 하면서도 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 시즌에는 프로야구 중계도 하였다.
 
 ## 방영 프로그램
 

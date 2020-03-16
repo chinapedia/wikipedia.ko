@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Minori](https://ko.wikipedia.org/wiki/Minori).
 
 
-**minori**()는 일본의 [에로게](https://ko.wikipedia.org/wiki/에로게 "wikilink") 제작 회사 또는 브랜드이다. [코믹스 웨이브의](https://ko.wikipedia.org/wiki/코믹스_웨이브 "wikilink") 소프트웨어 사업부였으나 2007년 3월에 실시된 코믹스 웨이브 회사 분할에 맞춰 같은 해 4월 주식회사 minori로써 분리되었다.
+**minori**()는 일본의 [에로게](../Page/에로게.md "wikilink") 제작 회사 또는 브랜드이다. [코믹스 웨이브의](https://ko.wikipedia.org/wiki/코믹스_웨이브 "wikilink") 소프트웨어 사업부였으나 2007년 3월에 실시된 코믹스 웨이브 회사 분할에 맞춰 같은 해 4월 주식회사 minori로써 분리되었다.
 
 ## 개요
 
@@ -9,23 +9,23 @@ minori의 이름은 브랜드의 캐치프레이즈인 "**We always keep minorit
 
 ## 작품 목록
 
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") - [BITTERSWEET FOOLS](https://ko.wikipedia.org/wiki/BITTERSWEET_FOOLS "wikilink")
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")
-      - [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") - [Wind -a breath of heart-](https://ko.wikipedia.org/wiki/Wind_-a_breath_of_heart- "wikilink")
-      - [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") - [미풍의 선물―Wind Pleasurable Box-](https://ko.wikipedia.org/wiki/미풍의_선물―Wind_Pleasurable_Box- "wikilink")
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")
-      - [7월 23일](https://ko.wikipedia.org/wiki/7월_23일 "wikilink") - [봄의 발소리](https://ko.wikipedia.org/wiki/봄의_발소리 "wikilink")
-      - [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") - [Wind -a breath of heart- Re: gratitude](https://ko.wikipedia.org/wiki/Wind_-a_breath_of_heart-_Re:_gratitude "wikilink")
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") - [ANGEL TYPE](https://ko.wikipedia.org/wiki/ANGEL_TYPE "wikilink")("minori feat. Aeris"로서 발매)
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") - [벚꽃의 울타리 근처 - 봄의 발소리 Pleasurable Box -](https://ko.wikipedia.org/wiki/벚꽃의_울타리_근처_-_봄의_발소리_Pleasurable_Box_- "wikilink")
+  - [2001년](../Page/2001년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") - [BITTERSWEET FOOLS](https://ko.wikipedia.org/wiki/BITTERSWEET_FOOLS "wikilink")
+  - [2002년](../Page/2002년.md "wikilink")
+      - [4월 19일](../Page/4월_19일.md "wikilink") - [Wind -a breath of heart-](https://ko.wikipedia.org/wiki/Wind_-a_breath_of_heart- "wikilink")
+      - [12월 27일](../Page/12월_27일.md "wikilink") - [미풍의 선물―Wind Pleasurable Box-](https://ko.wikipedia.org/wiki/미풍의_선물―Wind_Pleasurable_Box- "wikilink")
+  - [2004년](../Page/2004년.md "wikilink")
+      - [7월 23일](../Page/7월_23일.md "wikilink") - [봄의 발소리](https://ko.wikipedia.org/wiki/봄의_발소리 "wikilink")
+      - [11월 5일](../Page/11월_5일.md "wikilink") - [Wind -a breath of heart- Re: gratitude](https://ko.wikipedia.org/wiki/Wind_-a_breath_of_heart-_Re:_gratitude "wikilink")
+  - [2005년](../Page/2005년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink") - [ANGEL TYPE](https://ko.wikipedia.org/wiki/ANGEL_TYPE "wikilink")("minori feat. Aeris"로서 발매)
+  - [2006년](../Page/2006년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") - [벚꽃의 울타리 근처 - 봄의 발소리 Pleasurable Box -](https://ko.wikipedia.org/wiki/벚꽃의_울타리_근처_-_봄의_발소리_Pleasurable_Box_- "wikilink")
   - [ef - a fairy tale of the two.](https://ko.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")
       - ef - First Fan Disc（선행 팬 디스크）
-          - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")
-              - [8월 11](https://ko.wikipedia.org/wiki/8월_11일 "wikilink")\~[13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") [코믹 마켓 70에서](https://ko.wikipedia.org/wiki/코믹_마켓_70 "wikilink") 선행 발매
-              - [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") 일반 발매
-      - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") - [ef - the first tale.](https://ko.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink") (제1부)
-      - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 30일](https://ko.wikipedia.org/wiki/5월_30일 "wikilink") - [ef - the latter tale.](https://ko.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink") (제2부)
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 18일](https://ko.wikipedia.org/wiki/9월_18일 "wikilink") - [eden\*](https://ko.wikipedia.org/wiki/eden* "wikilink")
+          - [2006년](../Page/2006년.md "wikilink")
+              - [8월 11](../Page/8월_11일.md "wikilink")\~[13일](../Page/8월_13일.md "wikilink") [코믹 마켓 70에서](https://ko.wikipedia.org/wiki/코믹_마켓_70 "wikilink") 선행 발매
+              - [8월 25일](../Page/8월_25일.md "wikilink") 일반 발매
+      - [2006년](../Page/2006년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink") - [ef - the first tale.](https://ko.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink") (제1부)
+      - [2008년](../Page/2008년.md "wikilink") [5월 30일](../Page/5월_30일.md "wikilink") - [ef - the latter tale.](https://ko.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink") (제2부)
+  - [2009년](../Page/2009년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") - [eden\*](https://ko.wikipedia.org/wiki/eden* "wikilink")
 
 ## 외부 링크
 

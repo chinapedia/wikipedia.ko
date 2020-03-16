@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
 
 
-**DJ 쥬스**(DJ Juice, [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [힙합](../Page/힙합.md "wikilink") [DJ이다](../Page/디스크_자키.md "wikilink"). 과거 [Bust This의](../Page/버스트_디스.md "wikilink") 멤버였으며, 이후로는 솔로로 활동하였다. 소속 크루로는 [Elementree](https://ko.wikipedia.org/wiki/엘레멘트리 "wikilink"), 소속 레이블은 [브랜뉴뮤직](../Page/브랜뉴뮤직.md "wikilink")이다.
+**DJ 쥬스**(DJ Juice, [1983년](../Page/1983년.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") [DJ이다](../Page/디스크_자키.md "wikilink"). 과거 [Bust This의](../Page/버스트_디스.md "wikilink") 멤버였으며, 이후로는 솔로로 활동하였다. 소속 크루로는 [Elementree](../Page/엘레멘트리.md "wikilink"), 소속 레이블은 [브랜뉴뮤직](../Page/브랜뉴뮤직.md "wikilink")이다.
 
 ## 바이오그래피
 
@@ -11,7 +11,7 @@
 
 해체 후 2008년 2월부터 DJ Juice는 솔로 앨범 준비에 들어갔다.\[3\] 이 앨범은 2008년 6월 4일 발매되었는데, DJ로써의 그의 모습보다는 비트메이커로써의 모습에 초점이 맞춰진 앨범이었다. 인터뷰에서 그는 최대한 다양한 스타일을 추구하여, 자신이 표현할 수 있는 범위를 넓히면서 스타일의 깊이를 찾아가는 과정으로써 앨범을 작업하였다고 말하였다.\[4\] 앨범 작업은 특별한 소속사 없이 음악 작업부터 참여진 섭외, 녹음실 예약까지 모두 DJ Juice가 맡았다.
 
-2009년 말부터는 [Soul Dive](https://ko.wikipedia.org/wiki/소울_다이브 "wikilink"), [드렁큰 타이거](https://ko.wikipedia.org/wiki/드렁큰타이거 "wikilink"), [리쌍](../Page/리쌍.md "wikilink") 등의 메인 DJ를 맡아 공연 및 앨범 참여로 활동해왔으며, 개인 활동은 크게 없던 와중에 2011년 3월에는 [누자베스](https://ko.wikipedia.org/wiki/누자베스 "wikilink") 추모 Mixset인 [Luv Luv Mixset를](https://ko.wikipedia.org/wiki/Luv_Luv_Mixset "wikilink") 힙합플레이야에 무료배포하였다. 그리고 [강산여울](https://ko.wikipedia.org/wiki/강산여울 "wikilink")과 프로젝트 앨범을 발표한다는 소식을 알렸다.\[5\] 이 앨범은 *Page \#1*이란 이름으로 4월 말에 발매하였다.\[6\] 둘은 앞으로도 더 많은 앨범을 낼 예정이라 밝혔으나 2012년까지 *Page \#1*의 후속 앨범은 나오지 않았다.
+2009년 말부터는 [Soul Dive](https://ko.wikipedia.org/wiki/소울_다이브 "wikilink"), [드렁큰 타이거](https://ko.wikipedia.org/wiki/드렁큰타이거 "wikilink"), [리쌍](../Page/리쌍.md "wikilink") 등의 메인 DJ를 맡아 공연 및 앨범 참여로 활동해왔으며, 개인 활동은 크게 없던 와중에 2011년 3월에는 [누자베스](../Page/누자베스.md "wikilink") 추모 Mixset인 [Luv Luv Mixset를](https://ko.wikipedia.org/wiki/Luv_Luv_Mixset "wikilink") 힙합플레이야에 무료배포하였다. 그리고 [강산여울](https://ko.wikipedia.org/wiki/강산여울 "wikilink")과 프로젝트 앨범을 발표한다는 소식을 알렸다.\[5\] 이 앨범은 *Page \#1*이란 이름으로 4월 말에 발매하였다.\[6\] 둘은 앞으로도 더 많은 앨범을 낼 예정이라 밝혔으나 2012년까지 *Page \#1*의 후속 앨범은 나오지 않았다.
 
 2012년 들어 DJ Juice는 Soul Dive의 백업 DJ로써 무대에 같이 서고 수많은 곡들을 프로듀싱하고 있다.\[7\] 2013년에는 [지조](../Page/지조.md "wikilink")의 첫번째 솔로 싱글 《준비된 사수》에 참여하였다.\[8\]2년 뒤인 2015년에는 [라이머](../Page/라이머.md "wikilink")가 CEO로 있는 [브랜뉴뮤직](../Page/브랜뉴뮤직.md "wikilink")에 합류하였다.\[9\]
 

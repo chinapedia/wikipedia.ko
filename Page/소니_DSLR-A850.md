@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ DSLR-A850](https://ko.wikipedia.org/wiki/_DSLR-A850).
 
 
-**소니 알파 DSLR-A850**()은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 8월에 발매된 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")의 풀프레임 [디지털 SLR로서](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [DSLR-A900의](../Page/소니_DSLR-A900.md "wikilink") 보급형 기종이다. 35.9 x 24.0 mm 크기에 2460만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 소니 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며 시야율, 연사 등 몇가지 기능들이 DSLR-A900 보다 떨어지지만 상대적으로 저렴한 가격을 무기로 출시되었다.
+**소니 알파 DSLR-A850**()은 [2009년](../Page/2009년.md "wikilink") 8월에 발매된 [소니](../Page/소니.md "wikilink")의 풀프레임 [디지털 SLR로서](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [DSLR-A900의](../Page/소니_DSLR-A900.md "wikilink") 보급형 기종이다. 35.9 x 24.0 mm 크기에 2460만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 소니 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며 시야율, 연사 등 몇가지 기능들이 DSLR-A900 보다 떨어지지만 상대적으로 저렴한 가격을 무기로 출시되었다.
 
 ## 같이 보기
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Amaranth \(\)](https://ko.wikipedia.org/wiki/Amaranth_\(\)).
 
 
-《**Amaranth**》(아마란스)는 [다비치](../Page/다비치.md "wikilink")가 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 31일에](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") 발매된 첫 번째 정규 음반이다. 같은 해 [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") ***Vivid Summer Editon***라는 제목으로 리패키지 음반이 발매됐다.
+《**Amaranth**》(아마란스)는 [다비치](../Page/다비치.md "wikilink")가 [2008년](../Page/2008년.md "wikilink") [1월 31일에](../Page/1월_31일.md "wikilink") 발매된 첫 번째 정규 음반이다. 같은 해 [7월 7일](../Page/7월_7일.md "wikilink") ***Vivid Summer Editon***라는 제목으로 리패키지 음반이 발매됐다.
 
 ## 수록곡
 

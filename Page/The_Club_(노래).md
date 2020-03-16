@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Club \(\)](https://ko.wikipedia.org/wiki/The_Club_\(\)).
 
 
-**The Club**은 대한민국 가수 [천상지희 더 그레이스의](https://ko.wikipedia.org/wiki/천상지희_더_그레이스 "wikilink") 한일 동시 발매 두 번째 싱글 앨범이다. 2006년에 발매되었다. 타이틀곡은 《The Club》이다.
+**The Club**은 대한민국 가수 [천상지희 더 그레이스의](../Page/천상지희_더_그레이스.md "wikilink") 한일 동시 발매 두 번째 싱글 앨범이다. 2006년에 발매되었다. 타이틀곡은 《The Club》이다.
 
 ## 한국 수록곡
 

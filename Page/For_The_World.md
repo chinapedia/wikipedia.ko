@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [For The World](https://ko.wikipedia.org/wiki/For_The_World).
 
 
-《**For The World**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매한 첫 번째 EP 음반이다. 이 음반은 영어로 녹음 된 [Dance](https://ko.wikipedia.org/wiki/댄스_음악 "wikilink"), [Hip-hop](https://ko.wikipedia.org/wiki/힙합_음악 "wikilink"), [Soul](https://ko.wikipedia.org/wiki/솔_음악 "wikilink") 장르의 총 8곡이 수록 되어 있으며, 그룹의 멤버 [G-Dragon이](../Page/지드래곤.md "wikilink") 작사와 작곡, 프로듀싱을 맡았다. 오리콘 차트에서 10위를 기록했다.\[1\]
+《**For The World**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매한 첫 번째 EP 음반이다. 이 음반은 영어로 녹음 된 [Dance](https://ko.wikipedia.org/wiki/댄스_음악 "wikilink"), [Hip-hop](../Page/힙합_음악.md "wikilink"), [Soul](https://ko.wikipedia.org/wiki/솔_음악 "wikilink") 장르의 총 8곡이 수록 되어 있으며, 그룹의 멤버 [G-Dragon이](../Page/지드래곤.md "wikilink") 작사와 작곡, 프로듀싱을 맡았다. 오리콘 차트에서 10위를 기록했다.\[1\]
 
 ## 트랙 리스트
 

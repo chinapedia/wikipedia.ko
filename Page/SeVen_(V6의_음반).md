@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SeVen \(V6 \)](https://ko.wikipedia.org/wiki/SeVen_\(V6_\)).
 
 
-《**seVen**》은, [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") 발매 된 [V6의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 7번째 정규 앨범.
+《**seVen**》은, [2002년](../Page/2002년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") 발매 된 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 7번째 정규 앨범.
 
 ## 설명
 

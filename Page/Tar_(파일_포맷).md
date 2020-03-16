@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tar \( \)](https://ko.wikipedia.org/wiki/Tar_\(_\)).
 
 
-**타르**(tar)는 [컴퓨터](../Page/컴퓨터.md "wikilink")에서, 테입 아카이브(Tape Archive)를 위해 고안된 [파일 형식과](https://ko.wikipedia.org/wiki/파일_형식 "wikilink") 이런 형식의 파일을 다루는데 사용되는 프로그램을 의미한다. 파일 형식은 초기 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 시대에 만들어졌고 [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink").1-1988 과 POSIX.1-2001 에 의해 표준화되었다.
+**타르**(tar)는 [컴퓨터](../Page/컴퓨터.md "wikilink")에서, 테입 아카이브(Tape Archive)를 위해 고안된 [파일 형식과](https://ko.wikipedia.org/wiki/파일_형식 "wikilink") 이런 형식의 파일을 다루는데 사용되는 프로그램을 의미한다. 파일 형식은 초기 [유닉스](../Page/유닉스.md "wikilink") 시대에 만들어졌고 [POSIX](../Page/POSIX.md "wikilink").1-1988 과 POSIX.1-2001 에 의해 표준화되었다.
 
 초기에는 [테입](../Page/테이프_드라이브.md "wikilink") 백업 목적으로, 순차적 입출력 장치에 직접 쓰도록 개발되었으나, 현재는, [배포](https://ko.wikipedia.org/wiki/배포 "wikilink") 또는 [아카이브](../Page/아카이브.md "wikilink") 용도로 많은 파일을 디렉토리 구조, 파일 속성들을 보존하면서 하나의 큰 파일로 묶는 데 주로 사용된다.
 
@@ -43,7 +43,7 @@ tarpipe는 tar 유틸리티의 [stdout](https://ko.wikipedia.org/wiki/stdout "wi
 
 ### 소프트웨어 배포
 
-tar 포맷은 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [소프트웨어 배포용으로](https://ko.wikipedia.org/wiki/소프트웨어_배포 "wikilink") 광범위하게 사용되고 있다.
+tar 포맷은 [오픈 소스](../Page/오픈_소스.md "wikilink") [소프트웨어 배포용으로](https://ko.wikipedia.org/wiki/소프트웨어_배포 "wikilink") 광범위하게 사용되고 있다.
 
 ## 압축 파일의 확장자
 

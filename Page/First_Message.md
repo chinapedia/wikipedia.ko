@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [First Message](https://ko.wikipedia.org/wiki/First_Message).
 
 
-《**First Message** (퍼스트 메시지)》는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [아야카](../Page/아야카.md "wikilink")의 데뷔 음반이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 1일에](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 워너 뮤직 재팬을 통해 발매됐으며, 한국에는 같은 해 12월 5일에 발매됐다.
+《**First Message** (퍼스트 메시지)》는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [아야카](../Page/아야카.md "wikilink")의 데뷔 음반이다. [2006년](../Page/2006년.md "wikilink") [11월 1일에](../Page/11월_1일.md "wikilink") 워너 뮤직 재팬을 통해 발매됐으며, 한국에는 같은 해 12월 5일에 발매됐다.
 
 ## 수록곡
 

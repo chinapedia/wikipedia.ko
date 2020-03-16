@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KOffice](https://ko.wikipedia.org/wiki/KOffice).
 
 
-**케이오피스**(KOffice)는 [크로스 플랫폼을](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") 지원하는 [KDE](../Page/KDE.md "wikilink")의 [오피스 제품군이다](https://ko.wikipedia.org/wiki/오피스_제품군 "wikilink"). 모든 구성 요소들은 자유 소프트웨어/[오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 라이선스로 출시되며, [오픈 도큐먼트](https://ko.wikipedia.org/wiki/오픈_도큐먼트 "wikilink")(ODF)와 KOffice 본래의 파일 형식을 사용할 수 있다. 케이오피스(KOffice)는 [KDE](../Page/KDE.md "wikilink")와는 별도로 출시되며 케이오피스(KOffice) 홈페이지에서 내려받을 수 있다.
+**케이오피스**(KOffice)는 [크로스 플랫폼을](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") 지원하는 [KDE](../Page/KDE.md "wikilink")의 [오피스 제품군이다](https://ko.wikipedia.org/wiki/오피스_제품군 "wikilink"). 모든 구성 요소들은 자유 소프트웨어/[오픈 소스](../Page/오픈_소스.md "wikilink") 라이선스로 출시되며, [오픈 도큐먼트](https://ko.wikipedia.org/wiki/오픈_도큐먼트 "wikilink")(ODF)와 KOffice 본래의 파일 형식을 사용할 수 있다. 케이오피스(KOffice)는 [KDE](../Page/KDE.md "wikilink")와는 별도로 출시되며 케이오피스(KOffice) 홈페이지에서 내려받을 수 있다.
 
 ## KOffice의 구성요소
 
@@ -21,7 +21,7 @@
 
 ## 향후 목표
 
-  - [노키아](https://ko.wikipedia.org/wiki/노키아 "wikilink")는 Maemo summit 2009에서 KOffice 측에 MS OOXML 필터를 제공하기로 발표했다. 이에 따라 2010년 2분기를 목표로 개발중인 2.2 버전에서는 MS 2007 OOXML 포맷을 지원할 것으로 보인다.\[1\]
+  - [노키아](../Page/노키아.md "wikilink")는 Maemo summit 2009에서 KOffice 측에 MS OOXML 필터를 제공하기로 발표했다. 이에 따라 2010년 2분기를 목표로 개발중인 2.2 버전에서는 MS 2007 OOXML 포맷을 지원할 것으로 보인다.\[1\]
 
 ## 각주
 

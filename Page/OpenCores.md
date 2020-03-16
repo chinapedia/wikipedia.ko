@@ -7,21 +7,21 @@
 
 OpenCores 창립 멤버 중 한 명인 Damjan Lampret의 개인 홈페이지에는 OpenCores가 1999년에 시작된 것으로 기록되어 있다.\[1\] 또한 OpenCores 사이트와 OpenCores의 목표가 처음으로 언론에 오른 것은 2001년 CNET News 기사\[2\]를 통해서인 것으로 알려져 있으며 그 다음 해에는 Flextronics를 필두로 한 몇몇 기업들의 홍보 및 지원을 받기도 했다.\[3\]
 
-2007년 11월에는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")의 ORSoC AB에서 OpenCores 사이트의 관리를 담당하게 되었다.\[4\]
+2007년 11월에는 [스웨덴](../Page/스웨덴.md "wikilink")의 ORSoC AB에서 OpenCores 사이트의 관리를 담당하게 되었다.\[4\]
 
 ## 라이선싱
 
-OpenCores에서 개발하는 컴포넌트들은 [GNU 일반 공중 사용 허가서](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink"), [GNU 약소 일반 공중 사용 허가서](../Page/GNU_약소_일반_공중_사용_허가서.md "wikilink"), 3항 [BSD 사용 허가서](https://ko.wikipedia.org/wiki/BSD_사용_허가서 "wikilink") 등 오픈 소스 소프트웨어용 라이선스가 적용되어 릴리즈된다.
+OpenCores에서 개발하는 컴포넌트들은 [GNU 일반 공중 사용 허가서](../Page/GNU_일반_공중_사용_허가서.md "wikilink"), [GNU 약소 일반 공중 사용 허가서](../Page/GNU_약소_일반_공중_사용_허가서.md "wikilink"), 3항 [BSD 사용 허가서](https://ko.wikipedia.org/wiki/BSD_사용_허가서 "wikilink") 등 오픈 소스 소프트웨어용 라이선스가 적용되어 릴리즈된다.
 
 ## 프로젝트 목록
 
 다음은 OpenCores를 통해 개발되고 있거나 개발된 컴포넌트들이다.\[5\]
 
-  - [OpenRISC](https://ko.wikipedia.org/wiki/OpenRISC "wikilink"): [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") [중앙 처리 장치](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink")
+  - [OpenRISC](https://ko.wikipedia.org/wiki/OpenRISC "wikilink"): [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") [중앙 처리 장치](../Page/중앙_처리_장치.md "wikilink")
   - [Zilog Z80의](https://ko.wikipedia.org/wiki/Zilog_Z80 "wikilink") 클론
-  - [USB](https://ko.wikipedia.org/wiki/USB "wikilink") 2.0 컨트롤러
-  - 10/100/1000Mbit [이더넷](https://ko.wikipedia.org/wiki/이더넷 "wikilink") 컨트롤러
-  - [암호화](https://ko.wikipedia.org/wiki/암호화 "wikilink")([DES](https://ko.wikipedia.org/wiki/데이터_암호화_표준 "wikilink"), [AES](https://ko.wikipedia.org/wiki/고급_암호_표준 "wikilink"), [RSA](https://ko.wikipedia.org/wiki/RSA_암호 "wikilink") 등) 유닛
+  - [USB](../Page/USB.md "wikilink") 2.0 컨트롤러
+  - 10/100/1000Mbit [이더넷](../Page/이더넷.md "wikilink") 컨트롤러
+  - [암호화](../Page/암호화.md "wikilink")([DES](../Page/데이터_암호화_표준.md "wikilink"), [AES](https://ko.wikipedia.org/wiki/고급_암호_표준 "wikilink"), [RSA](../Page/RSA_암호.md "wikilink") 등) 유닛
   - [HyperTransport](https://ko.wikipedia.org/wiki/HyperTransport "wikilink") 터널
   - [Zet](https://ko.wikipedia.org/wiki/Zet "wikilink"): [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 호환 코어
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ROHC](https://ko.wikipedia.org/wiki/ROHC).
 
 
-**ROHC**()는 [IP](https://ko.wikipedia.org/wiki/인터넷_프로토콜 "wikilink"), [UDP](../Page/사용자_데이터그램_프로토콜.md "wikilink"), [RTP](https://ko.wikipedia.org/wiki/RTP "wikilink"), [TCP](https://ko.wikipedia.org/wiki/전송_제어_프로토콜 "wikilink") 헤더를 압축하는 표준화된 기법이다. 이 압축 기법은 IETF RFC 1144, RFC 2508에 기술된 기존의 압축 기법과 비교하여 패킷 유실이 많이 발생하는 무선 링크에서 높은 성능을 보여준다.
+**ROHC**()는 [IP](../Page/인터넷_프로토콜.md "wikilink"), [UDP](../Page/사용자_데이터그램_프로토콜.md "wikilink"), [RTP](https://ko.wikipedia.org/wiki/RTP "wikilink"), [TCP](../Page/전송_제어_프로토콜.md "wikilink") 헤더를 압축하는 표준화된 기법이다. 이 압축 기법은 IETF RFC 1144, RFC 2508에 기술된 기존의 압축 기법과 비교하여 패킷 유실이 많이 발생하는 무선 링크에서 높은 성능을 보여준다.
 
-스트리밍 애플리케이션에서 IP, UDP, RTP 헤더의 오버헤드는 [IPv4](https://ko.wikipedia.org/wiki/IPv4 "wikilink")의 경우 40 바이트이며, [IPv6](https://ko.wikipedia.org/wiki/IPv6 "wikilink")의 경우 60 바이트이다. [VoIP](https://ko.wikipedia.org/wiki/VoIP "wikilink")의 경우 이 수치는 전체 전송되는 데이터의 60%에 해당되는 양이다. 이러한 엄청난 오버헤드는 대역폭이 한정된 무선 시스템에서는 심각한 문제를 야기할 수 있다.
+스트리밍 애플리케이션에서 IP, UDP, RTP 헤더의 오버헤드는 [IPv4](../Page/IPv4.md "wikilink")의 경우 40 바이트이며, [IPv6](../Page/IPv6.md "wikilink")의 경우 60 바이트이다. [VoIP](https://ko.wikipedia.org/wiki/VoIP "wikilink")의 경우 이 수치는 전체 전송되는 데이터의 60%에 해당되는 양이다. 이러한 엄청난 오버헤드는 대역폭이 한정된 무선 시스템에서는 심각한 문제를 야기할 수 있다.
 
 ROHC를 통해 40 바이트 또는 60 바이트의 오버헤드는 1 또는 3 바이트로 압축되며 수신 측에 전달된 이후 압축이 해제된다.
 

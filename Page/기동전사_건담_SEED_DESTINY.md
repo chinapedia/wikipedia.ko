@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  SEED DESTINY](https://ko.wikipedia.org/wiki/__SEED_DESTINY).
 
 
-《**기동전사 건담 SEED DESTINY**》(,)는 [선라이즈에서](https://ko.wikipedia.org/wiki/선라이즈_\(스튜디오\) "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 TV 애니메이션이다. 《[기동전사 건담 SEED](../Page/기동전사_건담_SEED.md "wikilink")》의 속편으로 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 10월 9일부터 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 1일까지](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") [마이니치 방송과](../Page/마이니치_방송.md "wikilink") [도쿄 방송을](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 통해 방영되었다. 그러나 전작과는 달리 대한민국에서는 미방영.
+《**기동전사 건담 SEED DESTINY**》(,)는 [선라이즈에서](https://ko.wikipedia.org/wiki/선라이즈_\(스튜디오\) "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 TV 애니메이션이다. 《[기동전사 건담 SEED](../Page/기동전사_건담_SEED.md "wikilink")》의 속편으로 [2004년](../Page/2004년.md "wikilink") 10월 9일부터 [2005년](../Page/2005년.md "wikilink") [10월 1일까지](../Page/10월_1일.md "wikilink") [마이니치 방송과](../Page/마이니치_방송.md "wikilink") [도쿄 방송을](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 통해 방영되었다. 그러나 전작과는 달리 대한민국에서는 미방영.
 
 ## 개요
 
@@ -174,7 +174,7 @@ C.E(코즈믹 이러) 71년 6월 15일, 오브 연합 수장국의 오노고로 
 <!-- end list -->
 
   -
-    작사:石川智晶, 작곡·편곡: [카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), 노래:[See-Saw](../Page/See-Saw.md "wikilink")
+    작사:石川智晶, 작곡·편곡: [카지우라 유키](../Page/카지우라_유키.md "wikilink"), 노래:[See-Saw](../Page/See-Saw.md "wikilink")
 
 <!-- end list -->
 
@@ -211,7 +211,7 @@ C.E(코즈믹 이러) 71년 6월 15일, 오브 연합 수장국의 오노고로 
 <!-- end list -->
 
   -
-    작사·작곡·편곡:[카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), 노래:[FictionJunction YUUKA](https://ko.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")
+    작사·작곡·편곡:[카지우라 유키](../Page/카지우라_유키.md "wikilink"), 노래:[FictionJunction YUUKA](https://ko.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")
 
 <!-- end list -->
 
@@ -220,7 +220,7 @@ C.E(코즈믹 이러) 71년 6월 15일, 오브 연합 수장국의 오노고로 
 <!-- end list -->
 
   -
-    작사·작곡·편곡:[카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), 노래:라크스 클라인([타나카 리에](https://ko.wikipedia.org/wiki/타나카_리에 "wikilink"))
+    작사·작곡·편곡:[카지우라 유키](../Page/카지우라_유키.md "wikilink"), 노래:라크스 클라인([타나카 리에](https://ko.wikipedia.org/wiki/타나카_리에 "wikilink"))
 
 <!-- end list -->
 
@@ -229,16 +229,16 @@ C.E(코즈믹 이러) 71년 6월 15일, 오브 연합 수장국의 오노고로 
 <!-- end list -->
 
   -
-    작사·작곡·편곡:[카지우라 유키](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink"), 노래:[쿠와시마 호코](https://ko.wikipedia.org/wiki/쿠와시마_호코 "wikilink")
+    작사·작곡·편곡:[카지우라 유키](../Page/카지우라_유키.md "wikilink"), 노래:[쿠와시마 호코](https://ko.wikipedia.org/wiki/쿠와시마_호코 "wikilink")
 
 ## 스페셜 에디션(총집편)
 
 전작 《기동전사 건담 SEED》와 마찬가지로 〈DESTINY〉도 총집편이 제작되었다. 전체 4부작으로 아스란 시점에서 제작되었다. 전 편 모두 새로 애프터 레코딩을 실시하였으며, 새로운 컷이 추가되었고, 작화 감독은 캐릭터 디자인을 담당한 히라이 히사시가 맡았다. 3개월 주기로 텔레비전 방영 및 DVD가 발매되었다.
 
-  - 스페셜 에디션 \~부서진 세계\~ 〈PHASE-01\~PHASE-13〉 (방영·DVD 발매 시기: [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink"))
-  - 스페셜 에디션 II \~각각의 검\~ 〈PHASE-14\~PHASE-28〉 (방영·DVD 발매 시기: [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink"))
-  - 스페셜 에디션 III \~운명의 업화\~ 〈PHASE-29\~PHASE-42〉 (방영·DVD 발매 시기: [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink"))
-  - 스페셜 에디션 완결편 \~자유의 대가\~ 〈PHASE-43\~PHASE-50〉 (방영·DVD 발매 시기: [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink"))
+  - 스페셜 에디션 \~부서진 세계\~ 〈PHASE-01\~PHASE-13〉 (방영·DVD 발매 시기: [2006년](../Page/2006년.md "wikilink") [5월](../Page/5월.md "wikilink"))
+  - 스페셜 에디션 II \~각각의 검\~ 〈PHASE-14\~PHASE-28〉 (방영·DVD 발매 시기: [2006년](../Page/2006년.md "wikilink") [8월](../Page/8월.md "wikilink"))
+  - 스페셜 에디션 III \~운명의 업화\~ 〈PHASE-29\~PHASE-42〉 (방영·DVD 발매 시기: [2006년](../Page/2006년.md "wikilink") [11월](../Page/11월.md "wikilink"))
+  - 스페셜 에디션 완결편 \~자유의 대가\~ 〈PHASE-43\~PHASE-50〉 (방영·DVD 발매 시기: [2007년](../Page/2007년.md "wikilink") [2월](../Page/2월.md "wikilink"))
 
 ## 외부 링크
 

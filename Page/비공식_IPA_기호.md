@@ -16,21 +16,21 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/물음표" title="wikilink">물음표</a></p></td>
+<td><p><a href="../Page/물음표.md" title="wikilink">물음표</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성문_파열음" title="wikilink">성문 파열음</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>뒤집힌 <a href="https://ko.wikipedia.org/wiki/Δ" title="wikilink">델타</a></p></td>
+<td><p>뒤집힌 <a href="../Page/Δ.md" title="wikilink">델타</a></p></td>
 <td><p>양순음화 유성 치조음화 치경 마찰음</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>소문자 <a href="https://ko.wikipedia.org/wiki/Σ" title="wikilink">시그마</a></p></td>
+<td><p>소문자 <a href="../Page/Σ.md" title="wikilink">시그마</a></p></td>
 <td><p>양순음화 무성 치조음화 치경 마찰음</p></td>
 <td></td>
 <td></td>
@@ -51,7 +51,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>줄을 그은 <a href="https://ko.wikipedia.org/wiki/2" title="wikilink">2</a></p></td>
+<td><p>줄을 그은 <a href="../Page/2.md" title="wikilink">2</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_치경_파찰음" title="wikilink">유성 치경 파찰음</a></p></td>
 <td></td>
 <td><p>1976년 폐기됨</p></td>
@@ -66,7 +66,7 @@
 <tr class="even">
 <td></td>
 <td><p>오른쪽이 긴 <a href="https://ko.wikipedia.org/wiki/n" title="wikilink">n</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/음절" title="wikilink">음절</a> n</p></td>
+<td><p><a href="../Page/음절.md" title="wikilink">음절</a> n</p></td>
 <td></td>
 <td><p>1976년 폐기됨</p></td>
 </tr>
@@ -142,7 +142,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>줄을 그은 작은 대문자 I / <a href="https://ko.wikipedia.org/wiki/Υ" title="wikilink">입실론</a></p></td>
+<td><p>줄을 그은 작은 대문자 I / <a href="../Page/Υ.md" title="wikilink">입실론</a></p></td>
 <td><p>중설 <a href="https://ko.wikipedia.org/wiki/중설_비원순_근고모음" title="wikilink">비원순</a> / <a href="https://ko.wikipedia.org/wiki/중설_원순_근고모음" title="wikilink">원순</a> 근고모음</p></td>
 <td></td>
 <td></td>
@@ -184,10 +184,10 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>'비어 있음' 기호 또는 <a href="https://ko.wikipedia.org/wiki/공집합" title="wikilink">공집합</a> 기호</p></td>
+<td><p>'비어 있음' 기호 또는 <a href="../Page/공집합.md" title="wikilink">공집합</a> 기호</p></td>
 <td><p>없음</p></td>
 <td></td>
-<td><p>음가가 없음을 나타냄. <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a>의 <a href="https://ko.wikipedia.org/wiki/ㅇ" title="wikilink">ㅇ</a>(이응)을 나타내기 위해 생긴 기호.</p></td>
+<td><p>음가가 없음을 나타냄. <a href="https://ko.wikipedia.org/wiki/한글" title="wikilink">한글</a>의 <a href="../Page/ㅇ.md" title="wikilink">ㅇ</a>(이응)을 나타내기 위해 생긴 기호.</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -205,7 +205,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>늘어진 <a href="https://ko.wikipedia.org/wiki/C" title="wikilink">C</a></p></td>
+<td><p>늘어진 <a href="../Page/C.md" title="wikilink">C</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/치경_흡착음" title="wikilink">치경 흡착음</a></p></td>
 <td></td>
 <td><p>1989년에 공식 기호를 대신함</p></td>
@@ -219,7 +219,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>뒤집힌 <a href="https://ko.wikipedia.org/wiki/K" title="wikilink">K</a></p></td>
+<td><p>뒤집힌 <a href="../Page/K.md" title="wikilink">K</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연구개_흡착음" title="wikilink">연구개 흡착음</a></p></td>
 <td></td>
 <td><p>불가능한 발음이어서 1970년 폐기됨</p></td>
@@ -254,7 +254,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>뒤집힌  또는 <a href="https://ko.wikipedia.org/wiki/키릴_문자" title="wikilink">키릴 문자</a> я</p></td>
+<td><p>뒤집힌  또는 <a href="../Page/키릴_문자.md" title="wikilink">키릴 문자</a> я</p></td>
 <td><p>유성 <a href="https://ko.wikipedia.org/wiki/후두개_전동음" title="wikilink">후두개 전동음</a></p></td>
 <td></td>
 <td></td>
@@ -306,6 +306,6 @@
 
 ## 같이 보기
 
-  - [국제 음성 기호](https://ko.wikipedia.org/wiki/국제_음성_기호 "wikilink")(IPA)
+  - [국제 음성 기호](../Page/국제_음성_기호.md "wikilink")(IPA)
 
 [분류:음성 기호](https://ko.wikipedia.org/wiki/분류:음성_기호 "wikilink")

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ T. ](https://ko.wikipedia.org/wiki/_T._).
 
 
-[185px](https://ko.wikipedia.org/wiki/파일:BookerTWashington-Cheynes.LOC.jpg "wikilink") **부커 T. 워싱턴**(Booker T. Washington, [1856년](https://ko.wikipedia.org/wiki/1856년 "wikilink") [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") \~ [1915년](https://ko.wikipedia.org/wiki/1915년 "wikilink") [11월 14일](https://ko.wikipedia.org/wiki/11월_14일 "wikilink"))은 1890년부터 죽을 때까지 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 교육자이자 연설가, 흑인 사회의 대표적인 리더로서 활동을 했다.
+[185px](https://ko.wikipedia.org/wiki/파일:BookerTWashington-Cheynes.LOC.jpg "wikilink") **부커 T. 워싱턴**(Booker T. Washington, [1856년](../Page/1856년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") \~ [1915년](../Page/1915년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink"))은 1890년부터 죽을 때까지 [미국](../Page/미국.md "wikilink")의 교육자이자 연설가, 흑인 사회의 대표적인 리더로서 활동을 했다.
 
 그는 노예로 태어나 1865년의 [남북전쟁](https://ko.wikipedia.org/wiki/남북전쟁 "wikilink") 이후, 자유로운 몸이 되어 흑인의 경제 자립을 돕기 위해 앨라배마에 [터스키기 기술학교](https://ko.wikipedia.org/wiki/터스키기_기술학교 "wikilink")(Tuskegee Institute)를 설립하였다. 이것은 흑인들이 흑백 평등의 즉각 실현을 위한 투쟁을 포기하고, [백인 우월](https://ko.wikipedia.org/wiki/백인_우월 "wikilink") 체제를 받아들이는 데서 해결점을 찾으려는 타협적인 태도였다. 워싱턴의 타협 정신은 1895년의 애틀랜타 목화 박람회에서 행한 유명한 '손가락 연설'에서 나타난다. "흑인과 백인은 손가락처럼 갈라져 있다. 그는 그렇지만 서로의 발전을 위해 하나로 합쳐질 수 있다"고 그는 말하였다. 나중에 급진적인 흑인 민족주의자들은 그의 태도를 가리켜 백인에게 순순히 복종하는 '톰 아저씨의 생각(Uncle Tomism)'이라고 비판하였다. 하지만 그 당시 흑인들에게는 다른 방법이 없었다. 국민의 압도적 다수가 흑인을 제2급의 시민으로 깔보고 있는 사회에서 흑인들이 선택할 방법은 아무것도 없었던 것이다.
 
 ## 경력
 
-워싱턴은 [노예](https://ko.wikipedia.org/wiki/노예 "wikilink")로 태어났으며 어머니는 [버지니아주](https://ko.wikipedia.org/wiki/버지니아주 "wikilink") 남서부에 있던 버로우즈 농장(Burroughs Plantation)에서 일하던 흑인노예 제인(Jane)이었다. 그는 자신의 백인 남자인 그의 아버지의 신원은 끝까지 밝히지 못했다.
+워싱턴은 [노예](https://ko.wikipedia.org/wiki/노예 "wikilink")로 태어났으며 어머니는 [버지니아주](../Page/버지니아주.md "wikilink") 남서부에 있던 버로우즈 농장(Burroughs Plantation)에서 일하던 흑인노예 제인(Jane)이었다. 그는 자신의 백인 남자인 그의 아버지의 신원은 끝까지 밝히지 못했다.
 
-1865년에 [남북 전쟁이](https://ko.wikipedia.org/wiki/남북_전쟁 "wikilink") 끝나면서 그와 그의 모친은 자유를 얻었다. [웨스트버지니아에](https://ko.wikipedia.org/wiki/웨스트버지니아_주 "wikilink") 있는 식염제조공장과 탄광에서 5\~6년간 일한 뒤, 워싱턴은 해방된 흑인들을 교육시키기 위해 설립된 햄프턴 전문학교(Hampton Institute)를 찾아갔다. 그는 거기서 공부를 마친 후 교사가 되기 위한 준비를 하기 위해서 웨이랜드 신학교(Wayland Seminary)에 입학했다. 1881년에 햄프턴의 교장 사무엘 암스트롱(Samuel C. Armstrong)은 [앨라배마주](https://ko.wikipedia.org/wiki/앨라배마주 "wikilink")에 신설된 사범대학인 터스키기 전문학교의 초대 교장으로 워싱턴을 추천했다. 그는 여생을 그 전문학교를 터스키기 대학으로 키워내는 데 바쳤다.
+1865년에 [남북 전쟁이](https://ko.wikipedia.org/wiki/남북_전쟁 "wikilink") 끝나면서 그와 그의 모친은 자유를 얻었다. [웨스트버지니아에](https://ko.wikipedia.org/wiki/웨스트버지니아_주 "wikilink") 있는 식염제조공장과 탄광에서 5\~6년간 일한 뒤, 워싱턴은 해방된 흑인들을 교육시키기 위해 설립된 햄프턴 전문학교(Hampton Institute)를 찾아갔다. 그는 거기서 공부를 마친 후 교사가 되기 위한 준비를 하기 위해서 웨이랜드 신학교(Wayland Seminary)에 입학했다. 1881년에 햄프턴의 교장 사무엘 암스트롱(Samuel C. Armstrong)은 [앨라배마주](../Page/앨라배마주.md "wikilink")에 신설된 사범대학인 터스키기 전문학교의 초대 교장으로 워싱턴을 추천했다. 그는 여생을 그 전문학교를 터스키기 대학으로 키워내는 데 바쳤다.
 
 워싱턴은 1890년부터 1915년까지 미국 흑인사회의 지도적 인물이었는데, 특히 1895년의 아틀란타 연설로 유명해졌다. 많은 정치가들과 대중들에게 그는 아프리카계 미국 시민들의 인기있는 대변자로 여겨졌다.
 
@@ -29,7 +29,7 @@
 
 패니 스미스(Fannie N. Smith)는 웨스트버지니아 주의 몰던 출신인데, 워싱턴이 9세에서 16세까지 생활했던 카나와 강변에 있는 바로 그 마을이었다. 그는 평생 그곳과의 인연을 소중히 했다. 워싱턴과 스미스는 1882년 여름에 결혼했다. 그들은 슬하에 자식 한명을 두었는데, 포티아 워싱턴(Portia M. Washington)이었다. 패니는 1884년 5월에 사망했다.
 
-그 후 워싱턴은 1885년에 올리비아 데이빗슨(Olivia A. Davidson)과 재혼했다. 데이빗슨은 [오하이오주](https://ko.wikipedia.org/wiki/오하이오주 "wikilink")에서 태어났으며 햄프턴 전문학교와 프래밍엄에 있는 매사추세츠 주립 보통학교에서 공부했다. 그녀는 [미시시피주](https://ko.wikipedia.org/wiki/미시시피주 "wikilink")와 [테네시주](https://ko.wikipedia.org/wiki/테네시주 "wikilink")에서 교사생활을 하다가 터스키기로 옮겨왔다. 워싱턴은 데이빗슨이 터스키기의 교사였을 때 그녀를 처음 만났다. 그녀는 터스키기의 부교장이 되었다. 그들은 슬하에 부커 T. 워싱턴 주니어(Booker T. Washington Jr.)와 어네스트 데이빗슨 워싱턴(Ernest Davidson Washington)이라는 두명의 자식을 두었고, 그녀는 1889년에 사망했다.
+그 후 워싱턴은 1885년에 올리비아 데이빗슨(Olivia A. Davidson)과 재혼했다. 데이빗슨은 [오하이오주](../Page/오하이오주.md "wikilink")에서 태어났으며 햄프턴 전문학교와 프래밍엄에 있는 매사추세츠 주립 보통학교에서 공부했다. 그녀는 [미시시피주](../Page/미시시피주.md "wikilink")와 [테네시주](../Page/테네시주.md "wikilink")에서 교사생활을 하다가 터스키기로 옮겨왔다. 워싱턴은 데이빗슨이 터스키기의 교사였을 때 그녀를 처음 만났다. 그녀는 터스키기의 부교장이 되었다. 그들은 슬하에 부커 T. 워싱턴 주니어(Booker T. Washington Jr.)와 어네스트 데이빗슨 워싱턴(Ernest Davidson Washington)이라는 두명의 자식을 두었고, 그녀는 1889년에 사망했다.
 
 워싱턴의 3번째 결혼은 1893년에 마가렛 제임스 머레이(Margaret James Murray)라는 여성과 이루어졌다. 그녀는 미시시피 주 출신으로 역시 흑인대학이었던 피스크 대학의 졸업생이었다. 그들 사이에서 자식은 태어나지 않았지만 그녀는 워싱턴의 자식들을 기르는 일에 도움이 되었다. 머레이는 워싱턴보다 오래 살았으며 1925년에 사망했다.
 
@@ -56,27 +56,27 @@
 
 ## 죽음
 
-워싱턴은 자주 여행을 다니고 광범위한 일을 했지만, 터스키기의 교장직은 지속했다. 그는 급속도로 건강이 악화되어 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")에서 쓰러졌고, 터스키기 자택으로 실려와서, 1915년 11월 14일에 59세의 나이로 사망했다.
+워싱턴은 자주 여행을 다니고 광범위한 일을 했지만, 터스키기의 교장직은 지속했다. 그는 급속도로 건강이 악화되어 [뉴욕](../Page/뉴욕.md "wikilink")에서 쓰러졌고, 터스키기 자택으로 실려와서, 1915년 11월 14일에 59세의 나이로 사망했다.
 
-그의 사인은 명확하게 밝혀지지는 않았지만 아마도 신경쇠약과 [동맥경화증](https://ko.wikipedia.org/wiki/동맥경화증 "wikilink")이었을 것이다. 그는 터스키기 대학 부속 예배당 근처에 묻혔다.[오른쪽](https://ko.wikipedia.org/wiki/파일:Booker_T_Washington_burial_3c11868r.jpg "wikilink")
+그의 사인은 명확하게 밝혀지지는 않았지만 아마도 신경쇠약과 [동맥경화증](../Page/동맥경화증.md "wikilink")이었을 것이다. 그는 터스키기 대학 부속 예배당 근처에 묻혔다.[오른쪽](https://ko.wikipedia.org/wiki/파일:Booker_T_Washington_burial_3c11868r.jpg "wikilink")
 
-당시에 그의 죽음은 과로로 악화된 [울혈성 심부전](https://ko.wikipedia.org/wiki/심부전 "wikilink") 때문인 것으로 여겨졌다. 2006년 3월에 유족들의 동의하에 의료기록에 대한 조사가 이루어져서 그의 사인이 정상수치의 2배가 넘는 [고혈압](https://ko.wikipedia.org/wiki/고혈압 "wikilink") 탓인 것으로 밝혀졌다.
+당시에 그의 죽음은 과로로 악화된 [울혈성 심부전](../Page/심부전.md "wikilink") 때문인 것으로 여겨졌다. 2006년 3월에 유족들의 동의하에 의료기록에 대한 조사가 이루어져서 그의 사인이 정상수치의 2배가 넘는 [고혈압](https://ko.wikipedia.org/wiki/고혈압 "wikilink") 탓인 것으로 밝혀졌다.
 
 그가 사망하자 터스키기에 150만 달러가 넘는 기부금이 쇄도했다. 그의 인생 최대의 업적인 남부 흑인들을 위한 교육기관은 본궤도에 올랐으며 날로 확장되고 있었다.
 
 ## 명예학위와 기념비들
 
-워싱턴은 미국사회에 공헌한 대가로 1896년에 [하버드 대학으로부터](https://ko.wikipedia.org/wiki/하버드_대학 "wikilink") 명예석사학위를 받았고, 1901년에는 [다트머스 대학으로부터](https://ko.wikipedia.org/wiki/다트머스_대학 "wikilink") 명예 박사학위를 받았다. [왼쪽](https://ko.wikipedia.org/wiki/파일:Booker_T_Washington_1940_Issue-10c.jpg "wikilink") [우표](https://ko.wikipedia.org/wiki/우표 "wikilink")에 나온 워싱턴의 자화상\]\]
+워싱턴은 미국사회에 공헌한 대가로 1896년에 [하버드 대학으로부터](https://ko.wikipedia.org/wiki/하버드_대학 "wikilink") 명예석사학위를 받았고, 1901년에는 [다트머스 대학으로부터](https://ko.wikipedia.org/wiki/다트머스_대학 "wikilink") 명예 박사학위를 받았다. [왼쪽](https://ko.wikipedia.org/wiki/파일:Booker_T_Washington_1940_Issue-10c.jpg "wikilink") [우표](../Page/우표.md "wikilink")에 나온 워싱턴의 자화상\]\]
 
 1901년에 [시어도어 루즈벨트](https://ko.wikipedia.org/wiki/시어도어_루즈벨트 "wikilink") 대통령의 초대를 받고 백악관을 방문했던 최초의 흑인이었다. 2008년 대통령 선거 직후에 패배한 공화당 후보 [존 맥케인](https://ko.wikipedia.org/wiki/존_맥케인 "wikilink") 상원의원은 "한 세기 전의 워싱턴의 백악관 방문이 씨앗이 되어 최초의 흑인 대통령인 [버락 오바마로](../Page/버락_오바마.md "wikilink") 결실을 맺었다"고 말했다.
 
 1934년에 워싱턴의 후임으로 터스키기 대학의 학장이 된 로버트 루사 모턴(Robert Russa Moton)은 2명의 흑인 비행사를 위한 비행기 여행을 주선했으며, 이후에 그 비행기는 부커 T. 워싱턴으로 명명되었다.
 
-1940년 4월 7일에 워싱턴은 흑인으로서는 최초로 미국 우표에 등장하게 되었다. 흑인이 등장하는 최초의 동전은 50센트 짜리 부커 T. 워싱턴 기념주화였는데, 1946년부터 1951년에 걸쳐서 미국에서 주조되었다. 그는 또한 1951년부터 1954년에 걸쳐서 주조된 50센트짜리 미국 동전에도 등장했다. 워싱턴의 탄생 100주년 기념일인 1956년 4월 5일에 [버지니아주](https://ko.wikipedia.org/wiki/버지니아주 "wikilink") [프랭클린 카운티에](https://ko.wikipedia.org/wiki/프랭클린_군 "wikilink") 있는 그의 생가가 부커 T. 워싱턴 국립 기념물로 지정되었다. [테네시주](https://ko.wikipedia.org/wiki/테네시주 "wikilink")의 [채터누가](../Page/채터누가.md "wikilink")에 있는 주립 공원이 그의 이름을 따서 명명되었고, 그의 모교인 [햄프턴 대학](https://ko.wikipedia.org/wiki/햄프턴_대학 "wikilink") 근처의 [햄프턴 강을](https://ko.wikipedia.org/wiki/햄프턴_강 "wikilink") 가로지르는 다리도 그의 이름을 따서 명명되었다.
+1940년 4월 7일에 워싱턴은 흑인으로서는 최초로 미국 우표에 등장하게 되었다. 흑인이 등장하는 최초의 동전은 50센트 짜리 부커 T. 워싱턴 기념주화였는데, 1946년부터 1951년에 걸쳐서 미국에서 주조되었다. 그는 또한 1951년부터 1954년에 걸쳐서 주조된 50센트짜리 미국 동전에도 등장했다. 워싱턴의 탄생 100주년 기념일인 1956년 4월 5일에 [버지니아주](../Page/버지니아주.md "wikilink") [프랭클린 카운티에](https://ko.wikipedia.org/wiki/프랭클린_군 "wikilink") 있는 그의 생가가 부커 T. 워싱턴 국립 기념물로 지정되었다. [테네시주](../Page/테네시주.md "wikilink")의 [채터누가](../Page/채터누가.md "wikilink")에 있는 주립 공원이 그의 이름을 따서 명명되었고, 그의 모교인 [햄프턴 대학](https://ko.wikipedia.org/wiki/햄프턴_대학 "wikilink") 근처의 [햄프턴 강을](https://ko.wikipedia.org/wiki/햄프턴_강 "wikilink") 가로지르는 다리도 그의 이름을 따서 명명되었다.
 
 1942년에 [리버티 수송선](https://ko.wikipedia.org/wiki/리버티_수송선 "wikilink")(2차대전때 대량 건조한 약 1만톤급 수송선 - 역자주) 한 척이 부커 T. 워싱턴으로 명명되었는데, 대양항해선에 흑인의 이름이 붙여진 것은 이것이 최초였다. 배의 이름을 결정한 사람은 마리안 앤더슨(Marian Anderson)이었다.
 
-1984년에 햄프턴 대학은 캠퍼스 내에 있는 역사적으로 유명한 '노예해방 떡갈나무' 근처에 부커 T. 워싱턴 기념관을 헌정하여, 미국의 위대한 교육자들과 사회 운동가들 중 한 명과, 교육 분야에서의 흑인들의 성취의 상징과의 관계를 확립했다. 미국 전역에 걸쳐서 수많은 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")와 [중학교](https://ko.wikipedia.org/wiki/중학교 "wikilink") 및 [초등학교](https://ko.wikipedia.org/wiki/초등학교 "wikilink")들이 부커 T. 워싱턴의 이름을 따서 명명되었다.
+1984년에 햄프턴 대학은 캠퍼스 내에 있는 역사적으로 유명한 '노예해방 떡갈나무' 근처에 부커 T. 워싱턴 기념관을 헌정하여, 미국의 위대한 교육자들과 사회 운동가들 중 한 명과, 교육 분야에서의 흑인들의 성취의 상징과의 관계를 확립했다. 미국 전역에 걸쳐서 수많은 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")와 [중학교](../Page/중학교.md "wikilink") 및 [초등학교](../Page/초등학교.md "wikilink")들이 부커 T. 워싱턴의 이름을 따서 명명되었다.
 
 터스키기 대학 캠퍼스 중심부에 "장막 벗기기(Lifting the Veil)"라고 불리는 부커 T. 워싱턴 기념동상이 1922년에 헌정되었다. 동상 하단부에는 다음과 같은 글이 새겨져 있다:
 

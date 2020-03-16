@@ -8,8 +8,8 @@
 ## 구성원
 
   - 정동하 - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - 김태원 - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
-  - 서재혁 - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 김태원 - [기타](../Page/기타.md "wikilink")
+  - 서재혁 - [베이스](../Page/베이스_기타.md "wikilink")
   - 채제민 - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
 
 ## 각주

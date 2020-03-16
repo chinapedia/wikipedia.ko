@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ AVR](https://ko.wikipedia.org/wiki/_AVR).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:ATmega8_01_Pengo.jpg "wikilink").\]\] **아트멜 AVR**(Atmel AVR)은 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [아트멜](../Page/아트멜.md "wikilink") 사에서 개발된 [하버드 구조로](https://ko.wikipedia.org/wiki/하버드_구조 "wikilink") 수정한 8비트 [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") 단일칩 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink")이다. 출시 당시 AVR은 [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")을 저장하기 위해 이용한 [메모리](https://ko.wikipedia.org/wiki/메모리 "wikilink") 방식을 다른 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink") 처럼 [ROM](https://ko.wikipedia.org/wiki/ROM "wikilink"), [EPROM](../Page/EPROM.md "wikilink") 또는 [EEPROM](../Page/EEPROM.md "wikilink") 을 사용하지 않고, 단일칩 [플래시메모리](https://ko.wikipedia.org/wiki/플래시메모리 "wikilink")를 사용한 최초의 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink") 중 하나이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:ATmega8_01_Pengo.jpg "wikilink").\]\] **아트멜 AVR**(Atmel AVR)은 [1996년](../Page/1996년.md "wikilink") [아트멜](../Page/아트멜.md "wikilink") 사에서 개발된 [하버드 구조로](https://ko.wikipedia.org/wiki/하버드_구조 "wikilink") 수정한 8비트 [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") 단일칩 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink")이다. 출시 당시 AVR은 [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")을 저장하기 위해 이용한 [메모리](https://ko.wikipedia.org/wiki/메모리 "wikilink") 방식을 다른 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink") 처럼 [ROM](https://ko.wikipedia.org/wiki/ROM "wikilink"), [EPROM](../Page/EPROM.md "wikilink") 또는 [EEPROM](../Page/EEPROM.md "wikilink") 을 사용하지 않고, 단일칩 [플래시메모리](https://ko.wikipedia.org/wiki/플래시메모리 "wikilink")를 사용한 최초의 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink") 중 하나이다.
 
 ## AVR의 구성
 
@@ -69,7 +69,7 @@ AVR 칩에 프로그램 코드는 여러가지 방법으로 전송할 수 있다
 
 *Atmel AVR ISP mkII* 장치는 USB에 연결하고 Atmel의 ISP 프로그램에 의해 동작한다.
 
-AVRDUDE (AVR Downloader/UploaDEr)는 [Linux](https://ko.wikipedia.org/wiki/Linux "wikilink"), [FreeBSD](https://ko.wikipedia.org/wiki/FreeBSD "wikilink"), 윈도, [OS X에서](https://ko.wikipedia.org/wiki/OS_X "wikilink") 실행되며 다양한 하드웨어(Atmel AVR ISP mkII, Atmel JTAG ICE)로 프로그래밍을 할 수 있다.\[2\] AVR의 대표적 개발환경인 Atmel Studio는 현재 7.0 버전까지 나와있으며, Microsoft의 Visual Studio를 바탕으로 만들어져 UI가 매우 유사하다.
+AVRDUDE (AVR Downloader/UploaDEr)는 [Linux](https://ko.wikipedia.org/wiki/Linux "wikilink"), [FreeBSD](../Page/FreeBSD.md "wikilink"), 윈도, [OS X에서](https://ko.wikipedia.org/wiki/OS_X "wikilink") 실행되며 다양한 하드웨어(Atmel AVR ISP mkII, Atmel JTAG ICE)로 프로그래밍을 할 수 있다.\[2\] AVR의 대표적 개발환경인 Atmel Studio는 현재 7.0 버전까지 나와있으며, Microsoft의 Visual Studio를 바탕으로 만들어져 UI가 매우 유사하다.
 
 AVRISP MKII와 같은 툴 없이 아두이노를 ISP 툴로 만들어 사용할 수 있다.
 

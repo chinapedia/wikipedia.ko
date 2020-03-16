@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Volume 6](https://ko.wikipedia.org/wiki/Volume_6).
 
 
-《**Volume 6**》은, [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") 발매한 [V6의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 6번째 정규 앨범.
+《**Volume 6**》은, [2001년](../Page/2001년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") 발매한 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 6번째 정규 앨범.
 
 ## 설명
 

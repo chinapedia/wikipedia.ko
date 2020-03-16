@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RNA ](https://ko.wikipedia.org/wiki/RNA_).
 
 
-**RNA 바이러스**(RNA virus)는 [인플루엔자](https://ko.wikipedia.org/wiki/인플루엔자 "wikilink") 바이러스, [코로나 바이러스나](https://ko.wikipedia.org/wiki/코로나_바이러스 "wikilink") [레오바이러스](https://ko.wikipedia.org/wiki/레오바이러스 "wikilink") 및 [레트로바이러스](https://ko.wikipedia.org/wiki/레트로바이러스 "wikilink") 등 [RNA](https://ko.wikipedia.org/wiki/RNA "wikilink")를 유전자로 갖는 [바이러스](https://ko.wikipedia.org/wiki/바이러스 "wikilink")이다.\[1\]
+**RNA 바이러스**(RNA virus)는 [인플루엔자](../Page/인플루엔자.md "wikilink") 바이러스, [코로나 바이러스나](https://ko.wikipedia.org/wiki/코로나_바이러스 "wikilink") [레오바이러스](https://ko.wikipedia.org/wiki/레오바이러스 "wikilink") 및 [레트로바이러스](../Page/레트로바이러스.md "wikilink") 등 [RNA](../Page/RNA.md "wikilink")를 유전자로 갖는 [바이러스](../Page/바이러스.md "wikilink")이다.\[1\]
 
 ## 복제
 
@@ -9,7 +9,7 @@
   - 그룹 IV: 양성-극성 ssRNA 바이러스
   - 그룹 V: 음성-극성 ssRNA 바이러스
 
-[레트로바이러스](https://ko.wikipedia.org/wiki/레트로바이러스 "wikilink") (그룹 VI)은 단가닥 RNA 게놈을 지니고 있으나 일반적으로 RNA 바이러스로 여기지는 않는데, 그 까닭은 복제를 위해 DNA 중간물을 이용하기 때문이다. [역전사 효소는](https://ko.wikipedia.org/wiki/역전사_효소 "wikilink") 바이러스성 RNA를 상보적인 가닥의 DNA로 변환한다.
+[레트로바이러스](../Page/레트로바이러스.md "wikilink") (그룹 VI)은 단가닥 RNA 게놈을 지니고 있으나 일반적으로 RNA 바이러스로 여기지는 않는데, 그 까닭은 복제를 위해 DNA 중간물을 이용하기 때문이다. [역전사 효소는](https://ko.wikipedia.org/wiki/역전사_효소 "wikilink") 바이러스성 RNA를 상보적인 가닥의 DNA로 변환한다.
 
 ## 그룹 III - dsRNA 바이러스
 
@@ -143,7 +143,7 @@
 ## 같이 보기
 
   - [바이러스 분류](../Page/바이러스_분류.md "wikilink")
-  - [레트로바이러스](https://ko.wikipedia.org/wiki/레트로바이러스 "wikilink")
+  - [레트로바이러스](../Page/레트로바이러스.md "wikilink")
   - [DNA 바이러스](../Page/DNA_바이러스.md "wikilink")
 
 ## 참조

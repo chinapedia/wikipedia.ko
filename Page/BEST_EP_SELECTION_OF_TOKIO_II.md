@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BEST EP SELECTION OF TOKIO II](https://ko.wikipedia.org/wiki/BEST_EP_SELECTION_OF_TOKIO_II).
 
 
-《**BEST EP SELECTION OF TOKIO II**》은, [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [5월 9일에](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") 발매한 TOKIO의 두 번째 베스트 앨범이다.
+《**BEST EP SELECTION OF TOKIO II**》은, [2001년](../Page/2001년.md "wikilink") [5월 9일에](../Page/5월_9일.md "wikilink") 발매한 TOKIO의 두 번째 베스트 앨범이다.
 
 ## 설명
 

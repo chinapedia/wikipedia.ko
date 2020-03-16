@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Room Of King](https://ko.wikipedia.org/wiki/Room_Of_King).
 
 
-《**Room Of King**》은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") \~ [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 29일까지](../Page/11월_29일.md "wikilink") 후지TV 에서 방송된 드라마. 시간은 매주 토요일 밤 11시 10분 \~ 11시 55분까지, 총 9회. 주연은 [미즈시마 히로](../Page/미즈시마_히로.md "wikilink"), [스즈키 안](https://ko.wikipedia.org/wiki/스즈키_안 "wikilink")\[1\]. 평균 시청률 7.2%, 최고 시청률 10.4%를 기록하였다.
+《**Room Of King**》은 [2008년](../Page/2008년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [11월 29일까지](../Page/11월_29일.md "wikilink") 후지TV 에서 방송된 드라마. 시간은 매주 토요일 밤 11시 10분 \~ 11시 55분까지, 총 9회. 주연은 [미즈시마 히로](../Page/미즈시마_히로.md "wikilink"), [스즈키 안](../Page/스즈키_안.md "wikilink")\[1\]. 평균 시청률 7.2%, 최고 시청률 10.4%를 기록하였다.
 
 ## 개요
 
@@ -17,8 +17,8 @@
 
   - 모리 지로：[미즈시마 히로](../Page/미즈시마_히로.md "wikilink")
     낮에는 꽃가게 ‘nemus florist’, 밤에는 바(Bar)에서 아르바이트를 하고 있는 프리타\[3\]. 통칭 모지리. 꽃가레 아르바이트 하기 전에는 편의점에서 일하고 있었다. 엄마는 취직하기를 바라지만, 본인은 프리타에 만족. 케첩, 네리모노를 좋아한다.
-  - 아사다 아사코：[스즈키 안](https://ko.wikipedia.org/wiki/스즈키_안 "wikilink")
-    아오야마의 은행에 근무하고 있는 [OL](https://ko.wikipedia.org/wiki/오피스_레이디 "wikilink")(아빠는 같은 은행 큐슈 지점장). 통칭 아사짱. 밝은 성격이지만, 유행에 뒤떨어지는 말투 등으로 인기 없다. 우연찮은 기회로 OL에서 아이돌로 변신.
+  - 아사다 아사코：[스즈키 안](../Page/스즈키_안.md "wikilink")
+    아오야마의 은행에 근무하고 있는 [OL](../Page/오피스_레이디.md "wikilink")(아빠는 같은 은행 큐슈 지점장). 통칭 아사짱. 밝은 성격이지만, 유행에 뒤떨어지는 말투 등으로 인기 없다. 우연찮은 기회로 OL에서 아이돌로 변신.
   - 마지마 요헤이：[와타베 아츠로](../Page/와타베_아츠로.md "wikilink")
     샐러리맨으로부터 스타일리스트에 전업한 채식주의자. 통칭 마지마쿠스.
   - 히비키 쿄코：[이가와 하루카](../Page/이가와_하루카.md "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Svchost.exe](https://ko.wikipedia.org/wiki/Svchost.exe).
 
 
-[윈도우 NT](https://ko.wikipedia.org/wiki/윈도우_NT "wikilink") 계열의 [운영 체제에서](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") **svchost.exe**는 서비스를 관할하기 위한 [프로세스](../Page/프로세스.md "wikilink")의 이름이며 관련 이미지 (실행 파일)이다. 이 서비스들은 [동적 링크 라이브러리](https://ko.wikipedia.org/wiki/동적_링크_라이브러리 "wikilink")(DLL)에 포함되어 있다.
+[윈도우 NT](../Page/윈도우_NT.md "wikilink") 계열의 [운영 체제에서](../Page/운영_체제.md "wikilink") **svchost.exe**는 서비스를 관할하기 위한 [프로세스](../Page/프로세스.md "wikilink")의 이름이며 관련 이미지 (실행 파일)이다. 이 서비스들은 [동적 링크 라이브러리](../Page/동적_링크_라이브러리.md "wikilink")(DLL)에 포함되어 있다.
 
 ## 서비스 및 설정 나열
 

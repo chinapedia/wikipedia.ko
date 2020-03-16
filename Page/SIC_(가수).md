@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SIC \(\)](https://ko.wikipedia.org/wiki/SIC_\(\)).
 
 
-**SIC**( [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")이다.
+**SIC**( [1982년](../Page/1982년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")이다.
 
 ## 학력
 
-  - [전남전문대학](https://ko.wikipedia.org/wiki/전남과학대학교 "wikilink") 모델이벤트학과
+  - [전남전문대학](../Page/전남과학대학교.md "wikilink") 모델이벤트학과
   - [한국방송통신대학교](https://ko.wikipedia.org/wiki/한국방송통신대학교 "wikilink") 미디어영상학
 
 ## 음반

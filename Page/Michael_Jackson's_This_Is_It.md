@@ -21,7 +21,7 @@
 10. "[Beat It](https://ko.wikipedia.org/wiki/Beat_It "wikilink")" 4:18
 11. "[Black or White](https://ko.wikipedia.org/wiki/Black_or_White "wikilink")" 4:17
 12. "[Earth Song](https://ko.wikipedia.org/wiki/Earth_Song "wikilink")" 6:47
-13. "[Billie Jean](https://ko.wikipedia.org/wiki/Billie_Jean "wikilink")" 4:55
+13. "[Billie Jean](../Page/Billie_Jean.md "wikilink")" 4:55
 14. "Man in the Mirror" 5:20
 15. "This Is It" (album version) 3:38
 16. "This Is It" (orchestra version) 4:55

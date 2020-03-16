@@ -7,7 +7,7 @@
 
 《가정교사 히트맨 REBORN\!》에 나오는 조직의 이름이다. 작중 전개를 독자적으로 이끌어나가는 대표적인 패밀리이며 또한 전 세계의 마피아 조직 중에서도 가장 강력한 힘과 권력을 지닌 제 1순위의 막강한 패밀리이다.
 
-  - [사와다 츠나요시](https://ko.wikipedia.org/wiki/사와다_츠나요시 "wikilink")
+  - [사와다 츠나요시](../Page/사와다_츠나요시.md "wikilink")
   - [리본](https://ko.wikipedia.org/wiki/리본_\(등장인물\) "wikilink")
   - [고쿠데라 하야토](../Page/고쿠데라_하야토.md "wikilink")
   - [야마모토 타케시](https://ko.wikipedia.org/wiki/야마모토_타케시_\(가정교사_히트맨_REBORN!의_등장인물\) "wikilink")
@@ -81,7 +81,7 @@
 <!-- end list -->
 
   -
-    성우 : [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink") / [선호제](https://ko.wikipedia.org/wiki/선호제 "wikilink")
+    성우 : [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink") / [선호제](../Page/선호제.md "wikilink")
 
 <!-- end list -->
 
@@ -286,7 +286,7 @@
       - **혈액형** : A
       - **생일** : 10월 10일
       - **별자리** : 천칭자리
-      - **좋아하는 음식** : [테킬라](https://ko.wikipedia.org/wiki/테킬라 "wikilink") / [위스키](https://ko.wikipedia.org/wiki/위스키 "wikilink") / 고기\[5\]
+      - **좋아하는 음식** : [테킬라](https://ko.wikipedia.org/wiki/테킬라 "wikilink") / [위스키](../Page/위스키.md "wikilink") / 고기\[5\]
       - **취미** : 총 손질 / 스쿠알로 괴롭히기
       - **속성** : 하늘(大空)
       - **직책** : 바리아 보스
@@ -309,7 +309,7 @@
       - **루지토. 디. 치엘리(Luggito. Di. Cieli / 하늘의 포효)** - <베스타>의 기술, 하늘 필살염과 폭풍 필살염이 혼합된 포효를 내지른다. 포효를 맞은 상대는 하늘의 '조화'로 인해 돌이 되고 뒤에 엄습하는 폭풍의 '분해'로 인해 산산조각난다.
       - **아르마듀라. 디. 플라티노. 리글레 템페스타. 디. 치엘리(Armatula. Di. Platino. Rigre Tempesta. Di. Cieli / 백금갑옷의 하늘의 폭풍 라이거)** - <베스타>의 기술, 베스타가 전신에 백금으로 이루어진 강력한 갑옷을 두르는 기술
   - **주 대사** : 쓰레기, 개쓰레기
-  - **성우** : [이케다 마사노리](https://ko.wikipedia.org/wiki/이케다_마사노리 "wikilink") / [최한](https://ko.wikipedia.org/wiki/최한 "wikilink")
+  - **성우** : [이케다 마사노리](https://ko.wikipedia.org/wiki/이케다_마사노리 "wikilink") / [최한](../Page/최한.md "wikilink")
 
 <!-- end list -->
 
@@ -661,7 +661,7 @@
 <!-- end list -->
 
   -
-    성우 - [오오야마 타카노리](https://ko.wikipedia.org/wiki/오오야마_타카노리 "wikilink") / [강수진](https://ko.wikipedia.org/wiki/강수진_\(남자_성우\) "wikilink")
+    성우 - [오오야마 타카노리](https://ko.wikipedia.org/wiki/오오야마_타카노리 "wikilink") / [강수진](../Page/강수진_\(남자_성우\).md "wikilink")
 
 ### 리얼 6조화(眞6弔花)
 
@@ -687,7 +687,7 @@
 <!-- end list -->
 
   -
-    성우 - [야마기시 몬도](https://ko.wikipedia.org/wiki/야마기시_몬도 "wikilink") / [선호제](https://ko.wikipedia.org/wiki/선호제 "wikilink")
+    성우 - [야마기시 몬도](https://ko.wikipedia.org/wiki/야마기시_몬도 "wikilink") / [선호제](../Page/선호제.md "wikilink")
 
 <!-- end list -->
 
@@ -913,7 +913,7 @@
   - **기술**
       - **온데. 수페르. 피앙마(Onde. Super. Fiamma / 超炎波)** - 피피스트렐로. 템페스타의 기술, 초음파를 발산한다. 이 초음파는 폭풍 필살염으로 이 초음파는 상대의 몸 속에 90%가 흡수되면서 몸 속에서 '분해'로 인해 상대의 몸을 파괴시킨다.
       - **수캬레. 피앙마(Succhiare. Fiamma / 吸炎)** - 피피스트렐로. 템페스타의 기술, 상대의 필살염을 빨아마시는 기술.
-      - 성우 : [우에야마 류우시](https://ko.wikipedia.org/wiki/우에야마_류우시 "wikilink") / [방성준](https://ko.wikipedia.org/wiki/방성준 "wikilink")
+      - 성우 : [우에야마 류우시](https://ko.wikipedia.org/wiki/우에야마_류우시 "wikilink") / [방성준](../Page/방성준.md "wikilink")
 
 ### 그 외의 수하들
 
@@ -952,7 +952,7 @@
 
 <!-- end list -->
 
-  -   - 성우 : [홋타 마사루](https://ko.wikipedia.org/wiki/홋타_마사루 "wikilink") / [선호제](https://ko.wikipedia.org/wiki/선호제 "wikilink")
+  -   - 성우 : [홋타 마사루](https://ko.wikipedia.org/wiki/홋타_마사루 "wikilink") / [선호제](../Page/선호제.md "wikilink")
 
 <!-- end list -->
 
@@ -1264,7 +1264,7 @@
 
 666종류의 불치의 병원균을 가진 모기로 이를 통해 적을 병사(病死)시키는 능력이 있다.
 
-  - 성우 - [카츠야](https://ko.wikipedia.org/wiki/카츠야 "wikilink") / [이상범](https://ko.wikipedia.org/wiki/이상범_\(성우\) "wikilink")
+  - 성우 - [카츠야](https://ko.wikipedia.org/wiki/카츠야 "wikilink") / [이상범](../Page/이상범_\(성우\).md "wikilink")
 
 <!-- end list -->
 

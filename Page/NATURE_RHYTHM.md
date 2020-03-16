@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NATURE RHYTHM](https://ko.wikipedia.org/wiki/NATURE_RHYTHM).
 
 
-《**NATURE RHYTHM**》은 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") 발매한 V6의 2번째 정규 앨범이다.
+《**NATURE RHYTHM**》은 [1997년](../Page/1997년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") 발매한 V6의 2번째 정규 앨범이다.
 
 ## 설명
 

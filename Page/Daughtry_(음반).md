@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Daughtry \(\)](https://ko.wikipedia.org/wiki/Daughtry_\(\)).
 
 
-《**Daughtry**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 록 밴드 [도트리](../Page/도트리.md "wikilink")가 발매한 데뷔 앨범이다 [사운드스캔](https://ko.wikipedia.org/wiki/사운드스캔 "wikilink") 사상 가장 빨리 팔린 데뷔 앨범이다.
+《**Daughtry**》는 [미국](../Page/미국.md "wikilink")의 록 밴드 [도트리](../Page/도트리.md "wikilink")가 발매한 데뷔 앨범이다 [사운드스캔](https://ko.wikipedia.org/wiki/사운드스캔 "wikilink") 사상 가장 빨리 팔린 데뷔 앨범이다.
 
 ## 트랙 리스트
 
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-1.  "Sorry" - 3:41 - [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink") - <small>(크리스 도트리)</small>
+1.  "Sorry" - 3:41 - [아이튠즈](../Page/아이튠즈.md "wikilink") - <small>(크리스 도트리)</small>
 2.  "Home" (Acoustic) - 4:15 - [Wal-Mart](https://ko.wikipedia.org/wiki/Wal-Mart "wikilink")
 3.  "Crashed" (Acoustic) - 3:17 - [Wal-Mart](https://ko.wikipedia.org/wiki/Wal-Mart "wikilink")
 4.  "Wanted Dead or Alive" - 4:31 - American Idol.com Download Bonus

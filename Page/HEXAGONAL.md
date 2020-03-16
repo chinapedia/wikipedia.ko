@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [HEXAGONAL](https://ko.wikipedia.org/wiki/HEXAGONAL).
 
 
-《**HEXAGONAL**》은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 6일에](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") 발매한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 힙합 듀오 [리쌍](../Page/리쌍.md "wikilink")의 정규 6집 음반이다.
+《**HEXAGONAL**》은 [2009년](../Page/2009년.md "wikilink") [10월 6일에](../Page/10월_6일.md "wikilink") 발매한 [대한민국](../Page/대한민국.md "wikilink")의 힙합 듀오 [리쌍](../Page/리쌍.md "wikilink")의 정규 6집 음반이다.
 
 ## 발표
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 9월, 리쌍의 정규 6집 발매 소식이 언론을 통해 공개되었다\[1\]. 또한 타이틀 곡의 뮤직비디오는 영화감독 [류승완](../Page/류승완.md "wikilink")이 촬영하고 [류승범](https://ko.wikipedia.org/wiki/류승범 "wikilink")과 [이효리](https://ko.wikipedia.org/wiki/이효리 "wikilink")가 출연했다는 소식이 알려졌다. 그러나 전곡 재믹싱 작업이 결정되면서 실제 발표는 한 달 여 가량 늦은 10월 6일 이루어졌다\[2\].
+[2009년](../Page/2009년.md "wikilink") 9월, 리쌍의 정규 6집 발매 소식이 언론을 통해 공개되었다\[1\]. 또한 타이틀 곡의 뮤직비디오는 영화감독 [류승완](../Page/류승완.md "wikilink")이 촬영하고 [류승범](../Page/류승범.md "wikilink")과 [이효리](../Page/이효리.md "wikilink")가 출연했다는 소식이 알려졌다. 그러나 전곡 재믹싱 작업이 결정되면서 실제 발표는 한 달 여 가량 늦은 10월 6일 이루어졌다\[2\].
 
 ## 설명
 
-  - 'Enzo.B'는 [길의](../Page/길_\(가수\).md "wikilink") 전 여자친구이자 [쥬얼리](https://ko.wikipedia.org/wiki/쥬얼리 "wikilink")의 멤버였던 [박정아를](https://ko.wikipedia.org/wiki/박정아_\(1981년\) "wikilink") 의미한다. 길이 박정아를 부르는 애칭이 '멸치'인데, 멸치의 영어단어 'Anchovy'를 변형한 것이다\[3\]. 박정아는 "Hexagonal(Intro)" 와 "내 몸은 너를 지웠다" 등 두 곡에 참여하였다.
+  - 'Enzo.B'는 [길의](../Page/길_\(가수\).md "wikilink") 전 여자친구이자 [쥬얼리](../Page/쥬얼리.md "wikilink")의 멤버였던 [박정아를](https://ko.wikipedia.org/wiki/박정아_\(1981년\) "wikilink") 의미한다. 길이 박정아를 부르는 애칭이 '멸치'인데, 멸치의 영어단어 'Anchovy'를 변형한 것이다\[3\]. 박정아는 "Hexagonal(Intro)" 와 "내 몸은 너를 지웠다" 등 두 곡에 참여하였다.
   - "벌칙(Skit)"에 등장하는 대화에서 길의 상대방 남자 목소리의 주인공은 [김제동](../Page/김제동.md "wikilink")이다.
-  - 류승범과 이효리는 "헤어지지 못하는 여자, 떠나가지 못하는 남자"의 뮤직 비디오에 노개런티로 출연하였다. 배우 류승범은 평소 리쌍과의 친분, 가수 이효리는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 그녀의 첫 콘서트 '[이효리 1st Concert - 천하무적이효리](https://ko.wikipedia.org/wiki/이효리_1st_Concert_-_천하무적이효리 "wikilink")'에 게스트로 출연해 준 것이 인연이 되었다.
+  - 류승범과 이효리는 "헤어지지 못하는 여자, 떠나가지 못하는 남자"의 뮤직 비디오에 노개런티로 출연하였다. 배우 류승범은 평소 리쌍과의 친분, 가수 이효리는 [2008년](../Page/2008년.md "wikilink") 그녀의 첫 콘서트 '[이효리 1st Concert - 천하무적이효리](https://ko.wikipedia.org/wiki/이효리_1st_Concert_-_천하무적이효리 "wikilink")'에 게스트로 출연해 준 것이 인연이 되었다.
 
 ## 표절 시비
 
@@ -21,7 +21,7 @@
 
 ## 차트 성적
 
-### [가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")
+### [가온 차트](../Page/가온_차트.md "wikilink")
 
 
 \* 앨범 차트 : *Hexagonal* - 1위

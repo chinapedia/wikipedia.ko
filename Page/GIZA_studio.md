@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GIZA studio](https://ko.wikipedia.org/wiki/GIZA_studio).
 
 
-**GIZA studio**는 [일본](../Page/일본.md "wikilink") [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") [오사카 시에](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 위치한 [빙그룹](https://ko.wikipedia.org/wiki/빙_\(회사\) "wikilink") 산하의 음반사이다. 1998년 9월 1일 [오사카](https://ko.wikipedia.org/wiki/오사카 "wikilink") [신사이바시](https://ko.wikipedia.org/wiki/신사이바시 "wikilink")에 설립된 메이저 레이블이다.
+**GIZA studio**는 [일본](../Page/일본.md "wikilink") [오사카부](../Page/오사카부.md "wikilink") [오사카 시에](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 위치한 [빙그룹](https://ko.wikipedia.org/wiki/빙_\(회사\) "wikilink") 산하의 음반사이다. 1998년 9월 1일 [오사카](https://ko.wikipedia.org/wiki/오사카 "wikilink") [신사이바시](https://ko.wikipedia.org/wiki/신사이바시 "wikilink")에 설립된 메이저 레이블이다.
 
 ## 소속 음악가
 
@@ -20,10 +20,10 @@
   - [코마츠 미호](../Page/코마츠_미호.md "wikilink") (2009년 활동 중지)
   - 키타하라 아야코 (2011년 은퇴)
   - [이와타 사유리](https://ko.wikipedia.org/wiki/이와타_사유리 "wikilink") (2008년 활동 중지, 배우로 활동)
-  - [쥬얼리](https://ko.wikipedia.org/wiki/쥬얼리 "wikilink") (2005년 9월부로 일본 활동 중지, 2015년 해체)
+  - [쥬얼리](../Page/쥬얼리.md "wikilink") (2005년 9월부로 일본 활동 중지, 2015년 해체)
   - [가넷 크로우](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink") (2013년 해체)
   - [사에구사 유카 IN db](../Page/사에구사_유카_IN_db.md "wikilink") (2010년 해체)
-  - [아이우치 리나](https://ko.wikipedia.org/wiki/아이우치_리나 "wikilink")
+  - [아이우치 리나](../Page/아이우치_리나.md "wikilink")
   - Naifu (2009년 해체)
   - 핑크 잉크 (2009년 해체)
 

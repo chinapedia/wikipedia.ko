@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Replay\~Best of 20th Century\~](https://ko.wikipedia.org/wiki/Replay\~Best_of_20th_Century\~).
 
 
-《**Replay〜Best of 20th Century〜**》는, [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [2월 4일](https://ko.wikipedia.org/wiki/2월_4일 "wikilink") 발매한 20th Century의 베스트 앨범이다.
+《**Replay〜Best of 20th Century〜**》는, [2004년](../Page/2004년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") 발매한 20th Century의 베스트 앨범이다.
 
 ## 설명
 

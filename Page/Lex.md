@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Lex](https://ko.wikipedia.org/wiki/Lex).
 
 
-**Lex**는 [컴퓨터 과학](https://ko.wikipedia.org/wiki/컴퓨터_과학 "wikilink") 분야에서 [구문 분석을](https://ko.wikipedia.org/wiki/구문_분석 "wikilink") 위한 대표적인 프로그램이다.\[1\] Lex는 일반적으로 [파서](https://ko.wikipedia.org/wiki/파서 "wikilink")(Parser) 제작을 담당하는 [Yacc](https://ko.wikipedia.org/wiki/Yacc "wikilink")와 함께 사용된다. Lex는 [에릭 슈미트와](../Page/에릭_슈미트.md "wikilink") 마이크 레스크가 만든 것으로, 대부분의 [유닉스](../Page/유닉스_계열.md "wikilink") 시스템의 구문 분석 표준으로 사용되고 있고, 그 정의는 [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") 표준에 명시되어 있다.
+**Lex**는 [컴퓨터 과학](../Page/컴퓨터_과학.md "wikilink") 분야에서 [구문 분석을](../Page/구문_분석.md "wikilink") 위한 대표적인 프로그램이다.\[1\] Lex는 일반적으로 [파서](https://ko.wikipedia.org/wiki/파서 "wikilink")(Parser) 제작을 담당하는 [Yacc](../Page/Yacc.md "wikilink")와 함께 사용된다. Lex는 [에릭 슈미트와](../Page/에릭_슈미트.md "wikilink") 마이크 레스크가 만든 것으로, 대부분의 [유닉스](../Page/유닉스_계열.md "wikilink") 시스템의 구문 분석 표준으로 사용되고 있고, 그 정의는 [POSIX](../Page/POSIX.md "wikilink") 표준에 명시되어 있다.
 
 Lex는 구문 분석기를 읽어와서, Lexer를 만든 뒤 이를 C 언어로 만들어진 소스 코드의 형태로 출력한다.
 
-Lex는 저작권이 있는 소프트웨어로 시작했지만, [AT\&T](https://ko.wikipedia.org/wiki/AT&T "wikilink")의 소스 코드에 기반하는 버전은 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 정책을 따라 [오픈 솔라리스](https://ko.wikipedia.org/wiki/오픈_솔라리스 "wikilink") 등에서 사용된다. 이외에도 유명한 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 버전의 Lex로는 빠른 Lex(Fast Lex)라는 의미의 [flex가](https://ko.wikipedia.org/wiki/flex_\(어휘분석기\) "wikilink") 존재한다.
+Lex는 저작권이 있는 소프트웨어로 시작했지만, [AT\&T](../Page/AT&T.md "wikilink")의 소스 코드에 기반하는 버전은 [오픈 소스](../Page/오픈_소스.md "wikilink") 정책을 따라 [오픈 솔라리스](https://ko.wikipedia.org/wiki/오픈_솔라리스 "wikilink") 등에서 사용된다. 이외에도 유명한 [오픈 소스](../Page/오픈_소스.md "wikilink") 버전의 Lex로는 빠른 Lex(Fast Lex)라는 의미의 [flex가](https://ko.wikipedia.org/wiki/flex_\(어휘분석기\) "wikilink") 존재한다.
 
 ## Lex 파일의 예
 

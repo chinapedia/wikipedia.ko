@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  V](https://ko.wikipedia.org/wiki/__V).
 
 
-《**스페이스 건담 V**》는 [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink")경 제작된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")으로 [서울동화프로덕션](https://ko.wikipedia.org/wiki/서울동화프로덕션 "wikilink")에서 제작했다. 감독은 [김청기](../Page/김청기.md "wikilink")가 하였다. 등장하는 로봇은 《[초시공요새 마크로스](../Page/초시공요새_마크로스.md "wikilink")》에 등장하는 로봇으로 이를 표절한 것이다. 제작의 동기는 어느 장난감 회사 사장이 《초시공요새 마크로스》에 등장하는 로봇을 표절한 다른 로봇 애니메이션 제작을 의뢰했기 때문이다. 또한, 간담 V라는 명칭은 《[기동전사 건담](../Page/기동전사_건담.md "wikilink")》에서 따온 것이다.\[1\]
+《**스페이스 건담 V**》는 [1983년](../Page/1983년.md "wikilink")경 제작된 [대한민국](../Page/대한민국.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink")으로 [서울동화프로덕션](https://ko.wikipedia.org/wiki/서울동화프로덕션 "wikilink")에서 제작했다. 감독은 [김청기](../Page/김청기.md "wikilink")가 하였다. 등장하는 로봇은 《[초시공요새 마크로스](../Page/초시공요새_마크로스.md "wikilink")》에 등장하는 로봇으로 이를 표절한 것이다. 제작의 동기는 어느 장난감 회사 사장이 《초시공요새 마크로스》에 등장하는 로봇을 표절한 다른 로봇 애니메이션 제작을 의뢰했기 때문이다. 또한, 간담 V라는 명칭은 《[기동전사 건담](../Page/기동전사_건담.md "wikilink")》에서 따온 것이다.\[1\]
 
 ## 제작진
 

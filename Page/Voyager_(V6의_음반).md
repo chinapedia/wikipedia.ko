@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Voyager \(V6 \)](https://ko.wikipedia.org/wiki/Voyager_\(V6_\)).
 
 
-《**Voyager**》는, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink") 발매한 [V6의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 10번째 정규 앨범이다.
+《**Voyager**》는, [2007년](../Page/2007년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink") 발매한 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 10번째 정규 앨범이다.
 
 ## 설명
 
   - 초회 한정반 2종류와 통상판을 발매.
   - 오리콘 앨범 차트에서는 전 앨범과 이번 작품, 연속으로 1위를 기록. 오리콘 차트 통산 1000번째 1위한 음반이기도 하다.\[1\]
-  - V6 앨범 가운데는 통산 10번째 앨범 1위다. 정규 앨범은 2003년 8월 발매한 8번째 앨범 《[∞ INFINITY \~LOVE & LIFE\~](https://ko.wikipedia.org/wiki/∞_INFINITY_~LOVE_&_LIFE~ "wikilink")》 이후, 4년 1개월만의 1위.
+  - V6 앨범 가운데는 통산 10번째 앨범 1위다. 정규 앨범은 2003년 8월 발매한 8번째 앨범 《[∞ INFINITY \~LOVE & LIFE\~](../Page/∞_INFINITY_~LOVE_&_LIFE~.md "wikilink")》 이후, 4년 1개월만의 1위.
   - [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 싱글이 같은 날에 발매되었다. 역시 1위를 기록해서 이 주 오리콘 위클리 차트는 쟈니즈 소속 가수가 싱글과 앨범 모두 1위를 기록하였다.
   - 또 타이틀곡인, 〈Voyager \~보이저\~〉는 2007년 9월 15일 방송 《MUSIC FAIR 21》, 2007년 9월 24일 방송 《HEY\!HEY\!HEY\!MUSIC CHAMP 보세요\! 3시간 생방송 스페셜\!\!》에서 선보였다.
 

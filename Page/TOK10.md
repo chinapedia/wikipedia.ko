@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TOK10](https://ko.wikipedia.org/wiki/TOK10).
 
 
-《**TOK10**》는 [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")가 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 발매한 첫 커버 앨범이다.\[1\]
+《**TOK10**》는 [TOKIO](../Page/TOKIO.md "wikilink")가 [2004년](../Page/2004년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 발매한 첫 커버 앨범이다.\[1\]
 
 ## 설명
 

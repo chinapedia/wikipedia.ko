@@ -5,7 +5,7 @@
 
 ## 구성원
 
-  - 다지마 다카오 (, 1966년 4월 4일 \~) [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink"), [색소폰](../Page/색소폰.md "wikilink"), [프로그래밍](https://ko.wikipedia.org/wiki/프로그래밍 "wikilink")
+  - 다지마 다카오 (, 1966년 4월 4일 \~) [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink"), [피아노](../Page/피아노.md "wikilink"), [색소폰](../Page/색소폰.md "wikilink"), [프로그래밍](https://ko.wikipedia.org/wiki/프로그래밍 "wikilink")
       -
         지금까지 거의 모든 곡을 작사·작곡·편곡·프로그래밍했다.
 

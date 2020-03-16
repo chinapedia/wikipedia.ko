@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [With U \(EP\)](https://ko.wikipedia.org/wiki/With_U_\(EP\)).
 
 
-《**With U**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink") 두 번째 EP 음반이다.\[1\]\[2\]
+《**With U**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink") 두 번째 EP 음반이다.\[1\]\[2\]
 
 ## 트랙 리스트
 

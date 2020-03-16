@@ -25,7 +25,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/:en:Medibank_International_Sydney" title="wikilink">메디뱅크 인터내셔널</a></p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/시드니" title="wikilink">시드니</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/시드니.md" title="wikilink">시드니</a></p></td>
 <td style="text-align: center;"><p>하드</p></td>
 <td style="text-align: center;"><p>600,000</p></td>
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/엘레나_데멘티에바" title="wikilink">엘레나 데멘티에바</a></p></td>
@@ -35,11 +35,11 @@
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/파리_(도시)" title="wikilink">파리</a></p></td>
 <td style="text-align: center;"><p>하드 (i)</p></td>
 <td style="text-align: center;"><p>700,000</p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/:en:Barclays_Dubai_Tennis_Championships" title="wikilink">바클레이즈 두바이 챔피언십</a></p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/두바이" title="wikilink">두바이</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/두바이.md" title="wikilink">두바이</a></p></td>
 <td style="text-align: center;"><p>하드</p></td>
 <td style="text-align: center;"><p>2,000,000</p></td>
 <td style="text-align: center;"><p><a href="../Page/비너스_윌리엄스.md" title="wikilink">비너스 윌리엄스</a></p></td>
@@ -60,7 +60,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/:en:Family_Circle_Cup" title="wikilink">패밀리 써클 컵</a></p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/찰스턴_(사우스캐롤라이나주)" title="wikilink">찰스턴</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/찰스턴_(사우스캐롤라이나주).md" title="wikilink">찰스턴</a></p></td>
 <td style="text-align: center;"><p>클레이</p></td>
 <td style="text-align: center;"><p>1,000,000</p></td>
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/자비네_리지키" title="wikilink">자비네 리지키</a></p></td>
@@ -74,21 +74,21 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/로마_마스터스" title="wikilink">로마 마스터스</a></p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/로마" title="wikilink">로마</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/로마.md" title="wikilink">로마</a></p></td>
 <td style="text-align: center;"><p>클레이</p></td>
 <td style="text-align: center;"><p>2,000,000</p></td>
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/디나라_사피나" title="wikilink">디나라 사피나</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/마드리드_마스터스" title="wikilink">마드리드</a></p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/마드리드" title="wikilink">마드리드</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/마드리드.md" title="wikilink">마드리드</a></p></td>
 <td style="text-align: center;"><p>클레이</p></td>
 <td style="text-align: center;"><p>4,500,000</p></td>
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/디나라_사피나" title="wikilink">디나라 사피나</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/바르샤바_오픈" title="wikilink">바르샤바 오픈</a></p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/바르샤바" title="wikilink">바르샤바</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/바르샤바.md" title="wikilink">바르샤바</a></p></td>
 <td style="text-align: center;"><p>클레이</p></td>
 <td style="text-align: center;"><p>600,000</p></td>
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/알렉산드라_둘게루" title="wikilink">알렉산드라 둘게루</a></p></td>
@@ -123,7 +123,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/캐나다_마스터스" title="wikilink">캐나다 마스터스</a></p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a>/<a href="https://ko.wikipedia.org/wiki/몬트리얼" title="wikilink">몬트리얼</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/토론토.md" title="wikilink">토론토</a>/<a href="https://ko.wikipedia.org/wiki/몬트리얼" title="wikilink">몬트리얼</a></p></td>
 <td style="text-align: center;"><p>하드</p></td>
 <td style="text-align: center;"><p>2,000,000</p></td>
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/엘레나_데멘티에바" title="wikilink">엘레나 데멘티에바</a></p></td>
@@ -158,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/WTA_투어_챔피언십" title="wikilink">WTA 투어 챔피언십</a></p></td>
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/도하" title="wikilink">도하</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/도하.md" title="wikilink">도하</a></p></td>
 <td style="text-align: center;"><p>하드</p></td>
 <td style="text-align: center;"><p>4,450,000</p></td>
 <td style="text-align: center;"><p><a href="../Page/비너스_윌리엄스.md" title="wikilink">비너스 윌리엄스</a></p></td>
@@ -262,7 +262,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Open_GDF_Suez" title="wikilink">GDF 수에즈 오픈</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/아멜리_모레스모" title="wikilink">아멜리 모레스모</a></strong></p></td>
+<td><p><strong><a href="../Page/아멜리_모레스모.md" title="wikilink">아멜리 모레스모</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엘레나_데멘티에바" title="wikilink">엘레나 데멘티에바</a></p></td>
 <td><p>7–6(7), 2–6, 6–4</p></td>
 </tr>
@@ -299,7 +299,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:LA_Women&#39;s_Tennis_Championships" title="wikilink">LA 여자 테니스 챔피언십</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/플라비아_펜네타" title="wikilink">플라비아 펜네타</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서맨사_스토서" title="wikilink">서맨사 스토서</a></p></td>
+<td><p><a href="../Page/서맨사_스토서.md" title="wikilink">서맨사 스토서</a></p></td>
 <td><p>6–4, 6–3</p></td>
 </tr>
 <tr class="odd">

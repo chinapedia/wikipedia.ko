@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SINCE 1995 \~ FOREVER](https://ko.wikipedia.org/wiki/SINCE_1995_\~_FOREVER).
 
 
-《**SINCE 1995 〜 FOREVER**》은, [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [8월 5일](https://ko.wikipedia.org/wiki/8월_5일 "wikilink") 발매한 V6의 1번째 정규 앨범이다.
+《**SINCE 1995 〜 FOREVER**》은, [1996년](../Page/1996년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") 발매한 V6의 1번째 정규 앨범이다.
 
 ## 설명
 

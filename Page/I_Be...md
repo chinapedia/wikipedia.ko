@@ -24,7 +24,7 @@
 </ul>
 <hr /></td>
 <td><ul>
-<li>작사: <a href="https://ko.wikipedia.org/wiki/싸이" title="wikilink">싸이</a>(PSY)<br />
+<li>작사: <a href="../Page/싸이.md" title="wikilink">싸이</a>(PSY)<br />
 작곡: 싸이, 고한종<br />
 편곡: 고한종</li>
 </ul>
@@ -81,7 +81,7 @@
 </ul>
 <hr /></td>
 <td><ul>
-<li>작사: <a href="https://ko.wikipedia.org/wiki/김도훈_(작곡가)" title="wikilink">김도훈</a>(RBW), 최갑원<br />
+<li>작사: <a href="../Page/김도훈_(작곡가).md" title="wikilink">김도훈</a>(RBW), 최갑원<br />
 작곡: 김도훈(RBW)<br />
 편곡: 김진환</li>
 </ul>
@@ -146,7 +146,7 @@
 </tr>
 <tr class="odd">
 <td><ul>
-<li>Zoo <em>rap featuring <a href="https://ko.wikipedia.org/wiki/길미" title="wikilink">길미</a></em> (3:49)</li>
+<li>Zoo <em>rap featuring <a href="../Page/길미.md" title="wikilink">길미</a></em> (3:49)</li>
 </ul>
 <hr /></td>
 <td><ul>

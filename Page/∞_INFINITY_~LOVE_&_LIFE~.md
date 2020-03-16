@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ INFINITY \~LOVE \& LIFE\~](https://ko.wikipedia.org/wiki/_INFINITY_\~LOVE_\&_LIFE\~).
 
 
-《**∞ INFINITY 〜LOVE & LIFE〜**》은, [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink") 발매된 V6의 8번째 정규 앨범.
+《**∞ INFINITY 〜LOVE & LIFE〜**》은, [2003년](../Page/2003년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") 발매된 V6의 8번째 정규 앨범.
 
 ## 설명
 

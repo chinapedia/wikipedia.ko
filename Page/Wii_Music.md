@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Wii Music](https://ko.wikipedia.org/wiki/Wii_Music).
 
 
-**Wii Music**()은 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 개발한 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")용 게임 소프트웨어이다. [일본](../Page/일본.md "wikilink")에서 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") 발매했으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 10일에](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") 발매되었다.
+**Wii Music**()은 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어이다. [일본](../Page/일본.md "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") 발매했으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [2009년](../Page/2009년.md "wikilink") [12월 10일에](../Page/12월_10일.md "wikilink") 발매되었다.
 
 악기를 연주하는 것이 이 작품의 주 테마이다. 위 리모트와 눈차크를 이용하여 실제 악기를 연주하는 동작을 취함으로써 게임 속의 악기를 연주한다. 최대 4명까지 합주가 가능하며, 음악과 관련된 미니게임도 수록되어 있다.
 
@@ -53,12 +53,12 @@
 | 클래식                                                                                             |
 | ----------------------------------------------------------------------------------------------- |
 | 곡명                                                                                              |
-| 〈[환희의 송가](https://ko.wikipedia.org/wiki/교향곡_9번_\(베토벤\) "wikilink")〉                             |
+| 〈[환희의 송가](../Page/교향곡_9번_\(베토벤\).md "wikilink")〉                                                |
 | 〈결혼 행진곡〉                                                                                        |
 | 〈[백조의 호수](../Page/백조의_호수.md "wikilink")〉                                                        |
 | 〈꿈속의 고향〉                                                                                        |
 | 〈미뉴에트 사장조〉                                                                                      |
-| 〈[아이네 클라이네 나흐트무지크](https://ko.wikipedia.org/wiki/아이네_클라이네_나흐트무지크 "wikilink")〉                   |
+| 〈[아이네 클라이네 나흐트무지크](../Page/아이네_클라이네_나흐트무지크.md "wikilink")〉                                      |
 | 민요                                                                                              |
 | 곡명                                                                                              |
 | 〈Americal Patrol〉                                                                               |

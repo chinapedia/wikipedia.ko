@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Very best II](https://ko.wikipedia.org/wiki/Very_best_II).
 
 
-《**Very best II**》는, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 2일](https://ko.wikipedia.org/wiki/8월_2일 "wikilink") 발매한 V6의 2번째 베스트 앨범이다.
+《**Very best II**》는, [2006년](../Page/2006년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink") 발매한 V6의 2번째 베스트 앨범이다.
 
 ## 설명
 

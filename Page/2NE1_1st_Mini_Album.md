@@ -48,4 +48,4 @@
 
 1.  ["소니ATV, YG 에 표절 경고장 발송", 김성의, 일간스포츠 연예 2009년 9월 21일](http://isplus.joins.com/article/article.html?aid=1231246)
 2.  ["지드래곤·테디·쿠시 ‘YG 대표 작곡가’ 표절시비 불명예에 언제까지 침묵?", 김지윤, 뉴스엔 연예, 2009년 9월 23일](http://www.newsen.com/news_view.php?uid=200909221100171002)
-3.  《2NE1 1st Mini Album》. [2NE1](../Page/2NE1.md "wikilink"). [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink"). 2009.
+3.  《2NE1 1st Mini Album》. [2NE1](../Page/2NE1.md "wikilink"). [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink"). 2009.

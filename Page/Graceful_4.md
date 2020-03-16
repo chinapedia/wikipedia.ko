@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [Graceful 4](https://ko.wikipedia.org/wiki/Graceful_4).
 
 
-| 이 앨범에 수록된 싱글                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------- |
-| [2006](https://ko.wikipedia.org/wiki/2006년 "wikilink").[1.25](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") |
-| [2006](https://ko.wikipedia.org/wiki/2006년 "wikilink").[3.8](https://ko.wikipedia.org/wiki/3월_8일 "wikilink")   |
-| [2006](https://ko.wikipedia.org/wiki/2006년 "wikilink").[4.26](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") |
-| [2006](https://ko.wikipedia.org/wiki/2006년 "wikilink").[7.12](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") |
-| [2007](https://ko.wikipedia.org/wiki/2007년 "wikilink").[8.1](https://ko.wikipedia.org/wiki/8월_1일 "wikilink")   |
-|                                                                                                                |
+| 이 앨범에 수록된 싱글                                                             |
+| ------------------------------------------------------------------------ |
+| [2006](../Page/2006년.md "wikilink").[1.25](../Page/1월_25일.md "wikilink") |
+| [2006](../Page/2006년.md "wikilink").[3.8](../Page/3월_8일.md "wikilink")   |
+| [2006](../Page/2006년.md "wikilink").[4.26](../Page/4월_26일.md "wikilink") |
+| [2006](../Page/2006년.md "wikilink").[7.12](../Page/7월_12일.md "wikilink") |
+| [2007](../Page/2007년.md "wikilink").[8.1](../Page/8월_1일.md "wikilink")   |
+|                                                                          |
 
-**Graceful 4**는 대한민국 가수 [천상지희 더 그레이스의](https://ko.wikipedia.org/wiki/천상지희_더_그레이스 "wikilink") 첫 번째 일본 정규 앨범이다. 2007년에 발매되었다. 타이틀곡은 《One More Time, OK?》이다.
+**Graceful 4**는 대한민국 가수 [천상지희 더 그레이스의](../Page/천상지희_더_그레이스.md "wikilink") 첫 번째 일본 정규 앨범이다. 2007년에 발매되었다. 타이틀곡은 《One More Time, OK?》이다.
 
 ## 수록곡
 
@@ -23,7 +23,7 @@
 7.  5 cm
 8.  [Sweet Flower](https://ko.wikipedia.org/wiki/Sweet_Flower "wikilink")
 9.  Get on the floor (天上智喜 & DOGMA)
-10. [The Club](https://ko.wikipedia.org/wiki/The_Club_\(노래\) "wikilink") (feat.SEAMO)
+10. [The Club](../Page/The_Club_\(노래\).md "wikilink") (feat.SEAMO)
 11. [juicy LOVE](https://ko.wikipedia.org/wiki/juicy_LOVE "wikilink") (feat.CORN HEAD)
 12. [My Everything](https://ko.wikipedia.org/wiki/Piranha "wikilink")
 

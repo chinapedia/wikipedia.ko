@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Paint It Rock](https://ko.wikipedia.org/wiki/Paint_It_Rock).
 
 
-《**Paint It Rock**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악평론가](https://ko.wikipedia.org/wiki/음악평론가 "wikilink")인 [남무성](../Page/남무성.md "wikilink")이 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 발표한 책이다.
+《**Paint It Rock**》은 [대한민국](../Page/대한민국.md "wikilink")의 [음악평론가](https://ko.wikipedia.org/wiki/음악평론가 "wikilink")인 [남무성](../Page/남무성.md "wikilink")이 [2009년](../Page/2009년.md "wikilink")에 발표한 책이다.
 
 ## 주요내용
 
-한국 최초의 만화로 그려진 록음악의 역사서로서, 1950년대 로큰롤의 태동으로부터 시작하여 [척 베리](../Page/척_베리.md "wikilink"), [엘비스 프레슬리](https://ko.wikipedia.org/wiki/엘비스_프레슬리 "wikilink"), [밥 딜런](../Page/밥_딜런.md "wikilink"), [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")에서 [에릭 클랩튼](https://ko.wikipedia.org/wiki/에릭_클랩튼 "wikilink"), [레드 제플린에](https://ko.wikipedia.org/wiki/레드_제플린 "wikilink") 이르는 유명한 뮤지션들의 흥망성쇠와 주요작품들을 다루고 있다. 이 책은 총 세권으로 완성된 시리즈물이며 1권이 2009년 7월에 첫 출판되었다. 2014년 8월에는 일본으로 단행본 수출되어 아마존 재팬의 음악도서부문 베스트셀러에 오르기도 했다. 완간판인 2편과 3편은 2014년 11월에 출간되었다. 2편과 3편에서는 [블랙 사바스](https://ko.wikipedia.org/wiki/블랙_사바스 "wikilink"), [딥 퍼플](https://ko.wikipedia.org/wiki/딥_퍼플 "wikilink"), [퀸이](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 프롤로그를 장식하며 [데이빗 보위](https://ko.wikipedia.org/wiki/데이빗_보위 "wikilink"), [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")를 거쳐 [메탈리카](../Page/메탈리카.md "wikilink"), [너바나](../Page/너바나.md "wikilink"), [그린 데이](https://ko.wikipedia.org/wiki/그린_데이 "wikilink"), [오아시스](https://ko.wikipedia.org/wiki/오아시스_\(밴드\) "wikilink"), [라디오헤드](https://ko.wikipedia.org/wiki/라디오헤드 "wikilink")로 이어지는 숨 가쁜 록 스타들의 릴레이가 펼쳐진다. 거침없는 풍자와 비속어가 뒤섞여 읽는 재미를 더해주는가 하면 방대한 록의 역사와 장르의 흥망성쇠를 일목요연하게 접근하여 록 음악의 가이드 역할을 수행하고 있다.
+한국 최초의 만화로 그려진 록음악의 역사서로서, 1950년대 로큰롤의 태동으로부터 시작하여 [척 베리](../Page/척_베리.md "wikilink"), [엘비스 프레슬리](../Page/엘비스_프레슬리.md "wikilink"), [밥 딜런](../Page/밥_딜런.md "wikilink"), [비틀즈](../Page/비틀즈.md "wikilink")에서 [에릭 클랩튼](../Page/에릭_클랩튼.md "wikilink"), [레드 제플린에](../Page/레드_제플린.md "wikilink") 이르는 유명한 뮤지션들의 흥망성쇠와 주요작품들을 다루고 있다. 이 책은 총 세권으로 완성된 시리즈물이며 1권이 2009년 7월에 첫 출판되었다. 2014년 8월에는 일본으로 단행본 수출되어 아마존 재팬의 음악도서부문 베스트셀러에 오르기도 했다. 완간판인 2편과 3편은 2014년 11월에 출간되었다. 2편과 3편에서는 [블랙 사바스](../Page/블랙_사바스.md "wikilink"), [딥 퍼플](../Page/딥_퍼플.md "wikilink"), [퀸이](../Page/퀸_\(밴드\).md "wikilink") 프롤로그를 장식하며 [데이빗 보위](https://ko.wikipedia.org/wiki/데이빗_보위 "wikilink"), [이글스](../Page/이글스.md "wikilink")를 거쳐 [메탈리카](../Page/메탈리카.md "wikilink"), [너바나](../Page/너바나.md "wikilink"), [그린 데이](../Page/그린_데이.md "wikilink"), [오아시스](../Page/오아시스_\(밴드\).md "wikilink"), [라디오헤드](../Page/라디오헤드.md "wikilink")로 이어지는 숨 가쁜 록 스타들의 릴레이가 펼쳐진다. 거침없는 풍자와 비속어가 뒤섞여 읽는 재미를 더해주는가 하면 방대한 록의 역사와 장르의 흥망성쇠를 일목요연하게 접근하여 록 음악의 가이드 역할을 수행하고 있다.
 
 ## 참고 자료
 

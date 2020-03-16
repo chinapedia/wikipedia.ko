@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MAMBO A GO GO](https://ko.wikipedia.org/wiki/MAMBO_A_GO_GO).
 
 
-**MAMBO A GO GO** (**맘보어고고**)는 2001년 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")(현 코나미 디지털 엔터테인먼트)가 발매한 음악 시뮬레이션([BEMANI 시리즈](https://ko.wikipedia.org/wiki/비마니_시리즈 "wikilink"))의 아케이드 게임이다.
+**MAMBO A GO GO** (**맘보어고고**)는 2001년 [코나미](../Page/코나미.md "wikilink")(현 코나미 디지털 엔터테인먼트)가 발매한 음악 시뮬레이션([BEMANI 시리즈](../Page/비마니_시리즈.md "wikilink"))의 아케이드 게임이다.
 
 맘보어고고 전용의 대형 케이스에 탑재된 버전과 범용 비디오게임 케이스를 사용한 버전 2개가 있다(게임 내용은 같다). 또한 BEMANI시리즈중 범용 케이스판으로 발매된것은 이 작품뿐이다.
 
