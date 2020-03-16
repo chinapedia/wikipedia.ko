@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [QGIS](https://ko.wikipedia.org/wiki/QGIS).
 
 
-**QGIS**(과거 이름: Quantum GIS)는 데이터 뷰, 편집, 분석을 제공하는 크로스 플랫폼 [자유](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink")-[오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 데스크톱 [지리 정보 체계](https://ko.wikipedia.org/wiki/지리_정보_체계 "wikilink")(GIS) 응용 프로그램이다.\[1\]
+**QGIS**(과거 이름: Quantum GIS)는 데이터 뷰, 편집, 분석을 제공하는 크로스 플랫폼 [자유](../Page/자유_소프트웨어.md "wikilink")-[오픈 소스](../Page/오픈_소스.md "wikilink") 데스크톱 [지리 정보 체계](https://ko.wikipedia.org/wiki/지리_정보_체계 "wikilink")(GIS) 응용 프로그램이다.\[1\]
 
 ## 출시 역사
 
@@ -55,7 +55,7 @@
 
 ## 모바일 버전
 
-[300px](https://ko.wikipedia.org/wiki/파일:QGIS-Android_screenshot.png "wikilink") QGIS의 모바일 버전은 현재 [안드로이드용으로](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 개발되고 있다.\[2\] 이 버전은 터치, 멀티터치, 스타일러스 입력에 최적화되어 있다. 모바일 장치의 지리 위치 기능을 사용하여 사용자의 현재 위치에서 GIS 기능을 만들 수 있다.
+[300px](https://ko.wikipedia.org/wiki/파일:QGIS-Android_screenshot.png "wikilink") QGIS의 모바일 버전은 현재 [안드로이드용으로](../Page/안드로이드_\(운영_체제\).md "wikilink") 개발되고 있다.\[2\] 이 버전은 터치, 멀티터치, 스타일러스 입력에 최적화되어 있다. 모바일 장치의 지리 위치 기능을 사용하여 사용자의 현재 위치에서 GIS 기능을 만들 수 있다.
 
 ## 각주
 

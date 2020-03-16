@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NPO  1](https://ko.wikipedia.org/wiki/NPO__1).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:NPO_Radio_1_logo_2014.svg "wikilink") **NPO 라디오 1**(NPO Radio 1)은 [네덜란드 공영 방송](https://ko.wikipedia.org/wiki/네덜란드_공영_방송 "wikilink")(NPO)에서 운영되는 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 [라디오](https://ko.wikipedia.org/wiki/라디오 "wikilink") 방송 중 하나이다. 주로 [뉴스](https://ko.wikipedia.org/wiki/뉴스 "wikilink") 및 [시사](https://ko.wikipedia.org/wiki/시사 "wikilink"), [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 위주로 방송한다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:NPO_Radio_1_logo_2014.svg "wikilink") **NPO 라디오 1**(NPO Radio 1)은 [네덜란드 공영 방송](../Page/네덜란드_공영_방송.md "wikilink")(NPO)에서 운영되는 [네덜란드](../Page/네덜란드.md "wikilink")의 [라디오](../Page/라디오.md "wikilink") 방송 중 하나이다. 주로 [뉴스](../Page/뉴스.md "wikilink") 및 [시사](../Page/시사.md "wikilink"), [스포츠](../Page/스포츠.md "wikilink") 위주로 방송한다.
 
 ## 개요
 
@@ -26,8 +26,8 @@ NPO 라디오 1의 전신은 1947년에 개국한 **힐베르쉼 2**였다. 1985
 
 ## 방송 송출
 
-  - [FM 라디오](https://ko.wikipedia.org/wiki/FM_라디오 "wikilink") : 91.8\~105.3 MHz ([암스테르담](https://ko.wikipedia.org/wiki/암스테르담 "wikilink") 98.6 MHz)
-  - [디지털 오디오 방송](https://ko.wikipedia.org/wiki/디지털_오디오_방송 "wikilink")(DAB+) : 12C
+  - [FM 라디오](https://ko.wikipedia.org/wiki/FM_라디오 "wikilink") : 91.8\~105.3 MHz ([암스테르담](../Page/암스테르담.md "wikilink") 98.6 MHz)
+  - [디지털 오디오 방송](../Page/디지털_오디오_방송.md "wikilink")(DAB+) : 12C
   - [카날디지탈](https://ko.wikipedia.org/wiki/카날디지탈 "wikilink")(CanalDigitaal) : 700 <small>([Astra 19.2°E](https://ko.wikipedia.org/wiki/Astra_19.2°E "wikilink"))</small>, 701 <small>([Astra 23.5°E](https://ko.wikipedia.org/wiki/Astra_23.5°E "wikilink"))</small>
   - [Digitenne](https://ko.wikipedia.org/wiki/Digitenne "wikilink"): 101
   - [KPN](https://ko.wikipedia.org/wiki/KPN "wikilink"): 801
@@ -35,7 +35,7 @@ NPO 라디오 1의 전신은 1947년에 개국한 **힐베르쉼 2**였다. 1985
 
 ## 같이 보기
 
-  - [네덜란드 공영 방송](https://ko.wikipedia.org/wiki/네덜란드_공영_방송 "wikilink")
+  - [네덜란드 공영 방송](../Page/네덜란드_공영_방송.md "wikilink")
 
 ## 외부 링크
 

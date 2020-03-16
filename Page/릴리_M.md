@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ M](https://ko.wikipedia.org/wiki/_M).
 
 
-**릴리 머로우**(, [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [10월 17일](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") \~ )는 간단히 **릴리 M**으로 잘 알려진 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")의 가수이다.\[1\] 2014년 11월 《[K팝스타 4](../Page/K팝스타_4.md "wikilink")》에 참여하여 Top 4까지 올라갔었다. 2015년, [JYP 엔터테인먼트와](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트 "wikilink") 계약을 맺었다.
+**릴리 머로우**(, [2002년](../Page/2002년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") \~ )는 간단히 **릴리 M**으로 잘 알려진 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 가수이다.\[1\] 2014년 11월 《[K팝스타 4](../Page/K팝스타_4.md "wikilink")》에 참여하여 Top 4까지 올라갔었다. 2015년, [JYP 엔터테인먼트와](../Page/JYP_엔터테인먼트.md "wikilink") 계약을 맺었다.
 
 ## 성장
 

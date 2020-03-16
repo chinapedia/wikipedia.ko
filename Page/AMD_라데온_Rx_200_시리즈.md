@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AMD  Rx 200 ](https://ko.wikipedia.org/wiki/AMD__Rx_200_).
 
 
-**라데온 Rx 200 시리즈**는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 2013년 9월 26일 GPU 14 테크 데이에서 공개하고 2013년 10월에 출시한 [라데온](https://ko.wikipedia.org/wiki/라데온 "wikilink") [그래픽 카드](https://ko.wikipedia.org/wiki/그래픽_카드 "wikilink") 제품군이다.\[1\] 플래그십 포함 상위 기종은 새로운 칩인 하와이를 기반으로 했으며, 그 외의 메인스트림과 엔트리 기종은 전세대인 HD 5000, HD 6000, HD 7000 시리즈를 리프레시하여 출시되었다. 이 때부터 기존의 HD XXXX 네이밍에서 R 뒤에 숫자가 붙은 네이밍으로 변경되었다. 엔트리는 5, 메인스트림은 7, 하이엔드는 9가 뒤에 붙는다.\[2\]
+**라데온 Rx 200 시리즈**는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 2013년 9월 26일 GPU 14 테크 데이에서 공개하고 2013년 10월에 출시한 [라데온](../Page/라데온.md "wikilink") [그래픽 카드](../Page/그래픽_카드.md "wikilink") 제품군이다.\[1\] 플래그십 포함 상위 기종은 새로운 칩인 하와이를 기반으로 했으며, 그 외의 메인스트림과 엔트리 기종은 전세대인 HD 5000, HD 6000, HD 7000 시리즈를 리프레시하여 출시되었다. 이 때부터 기존의 HD XXXX 네이밍에서 R 뒤에 숫자가 붙은 네이밍으로 변경되었다. 엔트리는 5, 메인스트림은 7, 하이엔드는 9가 뒤에 붙는다.\[2\]
 
 ## 제품군 사양
 
@@ -28,21 +28,21 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>코어 (<a href="https://ko.wikipedia.org/wiki/헤르츠" title="wikilink">MHz</a>)</p></td>
-<td><p>부스트 (<a href="https://ko.wikipedia.org/wiki/헤르츠" title="wikilink">MHz</a>)</p></td>
+<td><p>코어 (<a href="../Page/헤르츠.md" title="wikilink">MHz</a>)</p></td>
+<td><p>부스트 (<a href="../Page/헤르츠.md" title="wikilink">MHz</a>)</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)<sup>2</sup></p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)<sup>3</sup></p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p>규격</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
-<td><p>속도 (<a href="https://ko.wikipedia.org/wiki/헤르츠" title="wikilink">MHz</a>)</p></td>
+<td><p>속도 (<a href="../Page/헤르츠.md" title="wikilink">MHz</a>)</p></td>
 <td><p>단정밀도</p></td>
 <td><p>배정밀도</p></td>
 <td><p>유휴</p></td>
 <td><p>최대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DirectX" title="wikilink">DirectX</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Mantle_(GPU_API)" title="wikilink">Mantle</a></p></td>
 </tr>
 <tr class="even">
@@ -394,7 +394,7 @@
 ## 같이 보기
 
   - [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")
-  - [라데온](https://ko.wikipedia.org/wiki/라데온 "wikilink")
+  - [라데온](../Page/라데온.md "wikilink")
 
 ## 각주
 

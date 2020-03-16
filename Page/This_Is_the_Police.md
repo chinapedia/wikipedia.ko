@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [This Is the Police](https://ko.wikipedia.org/wiki/This_Is_the_Police).
 
 
-**This Is the Police**는 [어드벤처](https://ko.wikipedia.org/wiki/어드벤처_게임 "wikilink") [전략](https://ko.wikipedia.org/wiki/전략_게임 "wikilink") [인디 게임으로](https://ko.wikipedia.org/wiki/인디_게임 "wikilink"), [벨라루스](https://ko.wikipedia.org/wiki/벨라루스 "wikilink")의 인디 게임 개발사인 Weappy Studio\[1\]가 개발하고, Nordic Games와 EuroVideo Meiden 에서 배급하는 인디 게임이다. This is the Police는 은퇴가 180일 남은 잭 보이드가 Freeburg의 경찰서장이 되어 도시를 범죄에서 청소하고, 50만 달러를 모으는 것을 목표로 진행된다.\[2\]
+**This Is the Police**는 [어드벤처](../Page/어드벤처_게임.md "wikilink") [전략](https://ko.wikipedia.org/wiki/전략_게임 "wikilink") [인디 게임으로](../Page/인디_게임.md "wikilink"), [벨라루스](../Page/벨라루스.md "wikilink")의 인디 게임 개발사인 Weappy Studio\[1\]가 개발하고, Nordic Games와 EuroVideo Meiden 에서 배급하는 인디 게임이다. This is the Police는 은퇴가 180일 남은 잭 보이드가 Freeburg의 경찰서장이 되어 도시를 범죄에서 청소하고, 50만 달러를 모으는 것을 목표로 진행된다.\[2\]
 
 ## 개발과 발매
 

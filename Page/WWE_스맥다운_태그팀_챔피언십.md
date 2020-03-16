@@ -44,15 +44,15 @@
 
 ## 같이 보기
 
-  - [트리플 크라운 챔피언십](https://ko.wikipedia.org/wiki/트리플_크라운_챔피언십 "wikilink")
-  - [그랜드 슬램 챔피언십](https://ko.wikipedia.org/wiki/그랜드_슬램_챔피언십 "wikilink")
-  - [WWE 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_월드_태그팀_챔피언십 "wikilink")
+  - [트리플 크라운 챔피언십](../Page/트리플_크라운_챔피언십.md "wikilink")
+  - [그랜드 슬램 챔피언십](../Page/그랜드_슬램_챔피언십.md "wikilink")
+  - [WWE 월드 태그팀 챔피언십](../Page/WWE_월드_태그팀_챔피언십.md "wikilink")
   - [WWE RAW 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_RAW_태그팀_챔피언십 "wikilink")
-  - [WWE NXT 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_태그팀_챔피언십 "wikilink")
-  - [WCW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_태그팀_챔피언십 "wikilink")
-  - [ECW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/ECW_월드_태그팀_챔피언십 "wikilink")
+  - [WWE NXT 태그팀 챔피언십](../Page/WWE_NXT_태그팀_챔피언십.md "wikilink")
+  - [WCW 월드 태그팀 챔피언십](../Page/WCW_월드_태그팀_챔피언십.md "wikilink")
+  - [ECW 월드 태그팀 챔피언십](../Page/ECW_월드_태그팀_챔피언십.md "wikilink")
   - [TNA 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/TNA_월드_태그팀_챔피언십 "wikilink")
-  - [RoH 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/RoH_월드_태그팀_챔피언십 "wikilink")
+  - [RoH 월드 태그팀 챔피언십](../Page/RoH_월드_태그팀_챔피언십.md "wikilink")
   - [GFW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/GFW_월드_태그팀_챔피언십 "wikilink")
 
 [분류:2016년 설립](https://ko.wikipedia.org/wiki/분류:2016년_설립 "wikilink") [분류:WWE 챔피언십](https://ko.wikipedia.org/wiki/분류:WWE_챔피언십 "wikilink") [분류:태그팀 프로레슬링 챔피언십](https://ko.wikipedia.org/wiki/분류:태그팀_프로레슬링_챔피언십 "wikilink") [태그팀 챔피언십](https://ko.wikipedia.org/wiki/분류:WWE_스맥다운 "wikilink")

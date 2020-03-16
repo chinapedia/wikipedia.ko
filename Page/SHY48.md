@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SHY48](https://ko.wikipedia.org/wiki/SHY48).
 
 
-**SHY48**(에스에이치와이포티에이트)는 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 [선양 시를](https://ko.wikipedia.org/wiki/선양_시 "wikilink") 중심으로 활동하는 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**SHY48**(에스에이치와이포티에이트)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [선양 시를](https://ko.wikipedia.org/wiki/선양_시 "wikilink") 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
-[SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 자매 그룹의 하나이다. 「SHY」라는 이름은 선양 시의 대표 지역의 선양(**Sh**en**y**ang)에서 유래했다.
+[SNH48](../Page/SNH48.md "wikilink")의 자매 그룹의 하나이다. 「SHY」라는 이름은 선양 시의 대표 지역의 선양(**Sh**en**y**ang)에서 유래했다.
 
 ## 약력
 
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - 1월 19일, "제5회 리퀘스트 타임 BEST 50"에서 [CKG48](https://ko.wikipedia.org/wiki/CKG48 "wikilink")와 함께 그룹 해산을 발표했다.
+  - 1월 19일, "제5회 리퀘스트 타임 BEST 50"에서 [CKG48](../Page/CKG48.md "wikilink")와 함께 그룹 해산을 발표했다.
 
 ## 멤버
 
@@ -310,7 +310,7 @@
 <td><p>3기</p></td>
 <td><p>HIII</p></td>
 <td><p>2019년 1월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀SⅡ 이적</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀SⅡ 이적</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -319,7 +319,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>SIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀NⅡ 이적</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀NⅡ 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -330,7 +330,7 @@
 <td><p>1기</p></td>
 <td><p>SIII</p></td>
 <td><p>전 팀SⅢ 부캡틴<br />
-<a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀NⅡ 이적</p></td>
+<a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀NⅡ 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -340,7 +340,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>SIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀NⅡ 이적</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀NⅡ 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -350,7 +350,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>HIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀X 이적</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀X 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -360,7 +360,7 @@
 <td><p>1월 27일</p></td>
 <td><p>2기</p></td>
 <td><p>HIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀X 이적</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀X 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -803,7 +803,7 @@
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2017년 9월 15일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/앞으로_나아가는_힘" title="wikilink">전행전력량(前行的力量)</a></strong></p></td>
+<td><p><strong><a href="../Page/앞으로_나아가는_힘.md" title="wikilink">전행전력량(前行的力量)</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>SHY77100166</p></td>
 <td><p>표준판</p></td>
@@ -843,10 +843,10 @@ SHY77100319</p></td>
 
 ## 관련 항목
 
-  - [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")
+  - [SNH48](../Page/SNH48.md "wikilink")
   - [BEJ48](https://ko.wikipedia.org/wiki/BEJ48 "wikilink")
   - [GNZ48](../Page/GNZ48.md "wikilink")
-  - [CKG48](https://ko.wikipedia.org/wiki/CKG48 "wikilink")
+  - [CKG48](../Page/CKG48.md "wikilink")
   - [CGT48](https://ko.wikipedia.org/wiki/CGT48 "wikilink")
   - [IDOLS Ft](https://ko.wikipedia.org/wiki/IDOLS_Ft "wikilink")
 

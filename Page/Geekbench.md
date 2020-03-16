@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Geekbench](https://ko.wikipedia.org/wiki/Geekbench).
 
 
-**Geekbench**는 실제 시나리오를 시뮬레이트하는 부하를 이용하여 싱글 코어와 [멀티 코어](https://ko.wikipedia.org/wiki/멀티_코어 "wikilink") 성능\[1\]\[2\]을 판별해내는 점수 시스템을 갖춘 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") [프로세서](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") [벤치마크](https://ko.wikipedia.org/wiki/벤치마크 "wikilink")이다.\[3\] 현재 버전은 Geekbench 5이며, Intel Core i5-2520M @ 2.50 GHz의 성능을 대표하는 기준 점수 2500으로 계산한다. 이 소프트웨어 벤치마크는 맥 OS, 윈도우, 리눅스, 안드로이드, iOS 플랫폼에서 이용할 수 있다.
+**Geekbench**는 실제 시나리오를 시뮬레이트하는 부하를 이용하여 싱글 코어와 [멀티 코어](../Page/멀티_코어.md "wikilink") 성능\[1\]\[2\]을 판별해내는 점수 시스템을 갖춘 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") [프로세서](../Page/중앙_처리_장치.md "wikilink") [벤치마크](https://ko.wikipedia.org/wiki/벤치마크 "wikilink")이다.\[3\] 현재 버전은 Geekbench 5이며, Intel Core i5-2520M @ 2.50 GHz의 성능을 대표하는 기준 점수 2500으로 계산한다. 이 소프트웨어 벤치마크는 맥 OS, 윈도우, 리눅스, 안드로이드, iOS 플랫폼에서 이용할 수 있다.
 
 ## 각주
 

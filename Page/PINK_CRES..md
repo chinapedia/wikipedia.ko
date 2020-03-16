@@ -1,56 +1,56 @@
 > This article is converted from Wikipedia: [PINK CRES.](https://ko.wikipedia.org/wiki/PINK_CRES.).
 
 
-**PINK CRES.**(핑크 크레스.)는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 결성된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 3인조 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [팝](https://ko.wikipedia.org/wiki/팝 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
+**PINK CRES.**(핑크 크레스.)는 [2016년](../Page/2016년.md "wikilink")에 결성된 [일본](../Page/일본.md "wikilink")의 3인조 [여성](../Page/여성.md "wikilink") [팝](https://ko.wikipedia.org/wiki/팝 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
 
 ## 멤버
 
-  - **[나츠야키 미야비](https://ko.wikipedia.org/wiki/나츠야키_미야비 "wikilink")** (夏焼雅, [지바현](https://ko.wikipedia.org/wiki/지바현 "wikilink")출생, [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink")출신, [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") \~ ) - 최연장자, 리더, 메인보컬, 센터
-  - [코바야시 히카루](https://ko.wikipedia.org/wiki/코바야시_히카루 "wikilink") (小林 ひかる, [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink")출신, [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") \~ ) - 메인래퍼
-  - [니헤이 유우카](https://ko.wikipedia.org/wiki/니헤이_유우카 "wikilink") (二瓶 有加, [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink")출신, [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") \~ ) - 리드보컬
+  - **[나츠야키 미야비](../Page/나츠야키_미야비.md "wikilink")** (夏焼雅, [지바현](../Page/지바현.md "wikilink")출생, [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink")출신, [1992년](../Page/1992년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ ) - 최연장자, 리더, 메인보컬, 센터
+  - [코바야시 히카루](https://ko.wikipedia.org/wiki/코바야시_히카루 "wikilink") (小林 ひかる, [도쿄도](../Page/도쿄도.md "wikilink")출신, [1994년](../Page/1994년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") \~ ) - 메인래퍼
+  - [니헤이 유우카](https://ko.wikipedia.org/wiki/니헤이_유우카 "wikilink") (二瓶 有加, [도쿄도](../Page/도쿄도.md "wikilink")출신, [1995년](../Page/1995년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ ) - 리드보컬
 
 ## 약력
 
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")
+  - [2015년](../Page/2015년.md "wikilink")
 
 <!-- end list -->
 
-  - 리더 [나츠야키 미야비는](https://ko.wikipedia.org/wiki/나츠야키_미야비 "wikilink") 향후 활동은 신그룹에서 열겠다는 의향을 나타냈다\[1\].
+  - 리더 [나츠야키 미야비는](../Page/나츠야키_미야비.md "wikilink") 향후 활동은 신그룹에서 열겠다는 의향을 나타냈다\[1\].
 
 <!-- end list -->
 
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")
+  - [2016년](../Page/2016년.md "wikilink")
 
 <!-- end list -->
 
-  - [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink"), 회원 모집 결과 오디션 최종 합격자는 [코바야시 히카루와](https://ko.wikipedia.org/wiki/코바야시_히카루 "wikilink") [니헤이 유우카가](https://ko.wikipedia.org/wiki/니헤이_유우카 "wikilink") 결정되었다\[2\].
-  - [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink"), [일본 무도관에서](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 행해진「[Buono\!](https://ko.wikipedia.org/wiki/Buono! "wikilink") Festa 2016」에서 그룹 이름이「**PINK CRES.**」(핑크 크레스.)로 결정했다고 발표되었다\[3\].
+  - [4월 1일](../Page/4월_1일.md "wikilink"), 회원 모집 결과 오디션 최종 합격자는 [코바야시 히카루와](https://ko.wikipedia.org/wiki/코바야시_히카루 "wikilink") [니헤이 유우카가](https://ko.wikipedia.org/wiki/니헤이_유우카 "wikilink") 결정되었다\[2\].
+  - [8월 25일](../Page/8월_25일.md "wikilink"), [일본 무도관에서](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 행해진「[Buono\!](../Page/Buono!.md "wikilink") Festa 2016」에서 그룹 이름이「**PINK CRES.**」(핑크 크레스.)로 결정했다고 발표되었다\[3\].
 
 <!-- end list -->
 
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")
+  - [2017년](../Page/2017년.md "wikilink")
 
 <!-- end list -->
 
-  - [6월 28일](https://ko.wikipedia.org/wiki/6월_28일 "wikilink"), 첫 음반 crescendo를 발매.
+  - [6월 28일](../Page/6월_28일.md "wikilink"), 첫 음반 crescendo를 발매.
 
 ## 음악
 
 ### 싱글
 
-1.  トウキョウ・コンフュージョン／宇宙の女は甘くない ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [5월 22일](https://ko.wikipedia.org/wiki/5월_22일 "wikilink"))
+1.  トウキョウ・コンフュージョン／宇宙の女は甘くない ([2019년](../Page/2019년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
-2.  ルーレット ([2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
+2.  ルーレット ([2020년](../Page/2020년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
       - 커플링 : エゴイスティック (초회생산한정반 · 통상반) / GIRLS PRIDE (통상반 A) / BLACK OUT (통상반 B) / Think over (통상반 C)
 
 ### 착신 한정
 
-1.  Sweet Girl's Night ([2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink"))
+1.  Sweet Girl's Night ([2017년](../Page/2017년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink"))
 
 ### 앨범
 
-1.  crescendo (2017년 [6월 28일](https://ko.wikipedia.org/wiki/6월_28일 "wikilink"))
-2.  えとせとら ([2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink"))
+1.  crescendo (2017년 [6월 28일](../Page/6월_28일.md "wikilink"))
+2.  えとせとら ([2018년](../Page/2018년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink"))
 3.  No Borders (미정)
 
 ## 출연
@@ -83,7 +83,7 @@
 
 ### 그 외
 
-  - [Buono\!](https://ko.wikipedia.org/wiki/Buono! "wikilink") Festa 2016 (2016년 8월 25일, 일본 무도관)
+  - [Buono\!](../Page/Buono!.md "wikilink") Festa 2016 (2016년 8월 25일, 일본 무도관)
 
 ## 각주
 

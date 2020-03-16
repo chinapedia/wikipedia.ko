@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [A](https://ko.wikipedia.org/wiki/A).
 
 
-**나인뮤지스A**(9MUSES A)는 [스타제국](https://ko.wikipedia.org/wiki/스타제국 "wikilink") 소속의 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 음악 그룹 [나인뮤지스](https://ko.wikipedia.org/wiki/나인뮤지스 "wikilink")의 4인조 유닛 그룹이다. 나인뮤지스A는 나인뮤지스와 어뮤즈(AMUSE)의 합성어를 의미한다. 나인뮤지스A는 멤버 [경리](https://ko.wikipedia.org/wiki/경리_\(가수\) "wikilink"), [혜미](https://ko.wikipedia.org/wiki/혜미_\(1991년\) "wikilink"), [소진](https://ko.wikipedia.org/wiki/소진_\(1991년\) "wikilink"), [금조로](../Page/금조_\(가수\).md "wikilink") 구성되었다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") 데뷔 싱글 《[MUSES DIARY](https://ko.wikipedia.org/wiki/MUSES_DIARY "wikilink")》를 발매하였다.
+**나인뮤지스A**(9MUSES A)는 [스타제국](../Page/스타제국.md "wikilink") 소속의 [대한민국](../Page/대한민국.md "wikilink") 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 4인조 유닛 그룹이다. 나인뮤지스A는 나인뮤지스와 어뮤즈(AMUSE)의 합성어를 의미한다. 나인뮤지스A는 멤버 [경리](../Page/경리_\(가수\).md "wikilink"), [혜미](../Page/혜미_\(1991년\).md "wikilink"), [소진](https://ko.wikipedia.org/wiki/소진_\(1991년\) "wikilink"), [금조로](../Page/금조_\(가수\).md "wikilink") 구성되었다. [2016년](../Page/2016년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 데뷔 싱글 《[MUSES DIARY](../Page/MUSES_DIARY.md "wikilink")》를 발매하였다.
 
 ## 활동
 
 ### 2016: MUSES DIARY
 
-[300px](https://ko.wikipedia.org/wiki/파일:160908_순천향대학교_축제_-_나인뮤지스A_05.jpg "wikilink") [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 소속사 [스타제국](https://ko.wikipedia.org/wiki/스타제국 "wikilink")은 나인뮤지스가 유닛 그룹으로 [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 중 컴백할 것을 밝혔다.<ref>[(ON+방송 View) ‘음악의 신2’ 종영 그 후… LTE 식구들은 이제 뭘 할까](http://www.etnews.com/20160715000297),
+[300px](https://ko.wikipedia.org/wiki/파일:160908_순천향대학교_축제_-_나인뮤지스A_05.jpg "wikilink") [2016년](../Page/2016년.md "wikilink") [7월](../Page/7월.md "wikilink") 소속사 [스타제국](../Page/스타제국.md "wikilink")은 나인뮤지스가 유닛 그룹으로 [8월](../Page/8월.md "wikilink") 중 컴백할 것을 밝혔다.<ref>[(ON+방송 View) ‘음악의 신2’ 종영 그 후… LTE 식구들은 이제 뭘 할까](http://www.etnews.com/20160715000297),
 
-`엔터온뉴스 최민영 기자.`</ref>` `[`7월``   ``21일`](https://ko.wikipedia.org/wiki/7월_21일 "wikilink")` 나인뮤지스는 공식 `[`유튜브`](https://ko.wikipedia.org/wiki/유튜브 "wikilink")` 채널을 통해서 유닛 그룹의 컴백 트레일러를 기습적으로 공개하였다. 또한 영상을 통해 나인뮤지스의 유닛 그룹명인 나인뮤지스A를 공개하였다.`\[1\]` 다음 날 `[`7월``   ``22일`](https://ko.wikipedia.org/wiki/7월_22일 "wikilink")` 나인뮤지스는 공식 SNS 채널을 통해 나인뮤지스A의 티저 이미지와 정보를 공개하였다. `[`나인뮤지스A`](../Page/나인뮤지스A.md "wikilink")의` 멤버는 `[`경리`](https://ko.wikipedia.org/wiki/경리_\(가수\) "wikilink")`, `[`혜미`](https://ko.wikipedia.org/wiki/혜미_\(1991년\) "wikilink")`, `[`소진`](https://ko.wikipedia.org/wiki/소진_\(1991년\) "wikilink")`, `[`금조로`](../Page/금조_\(가수\).md "wikilink")` 구성되어있으며, 그룹명은 'Nine Muses Amuse'에서 유래하였다고 밝혔다.`\[2\]` `[`7월``   ``26일`](https://ko.wikipedia.org/wiki/7월_26일 "wikilink")` 나인뮤지스A는  데뷔 싱글 《`[`MUSES``   ``DIARY`](https://ko.wikipedia.org/wiki/MUSES_DIARY "wikilink")`》의 트랙리스트를 공개하였다.`\[3\]` `[`7월``   ``27일`](https://ko.wikipedia.org/wiki/7월_27일 "wikilink")` 나인뮤지스A는 타이틀곡 〈`[`입술에``   ``입술``   ``(Lip``   ``2``   ``Lip)`](https://ko.wikipedia.org/wiki/입술에_입술_\(Lip_2_Lip\) "wikilink")`〉의 그룹 티저 이미지를 공개하였으며,`\[4\]` `[`네이버`](https://ko.wikipedia.org/wiki/네이버 "wikilink")` V앱을 통해 나인뮤지스A로서 첫 V라이브를 진행하였다.`\[5\]` `[`6월``   ``28일`](https://ko.wikipedia.org/wiki/6월_28일 "wikilink")` 멤버 `[`소진과`](https://ko.wikipedia.org/wiki/소진_\(1991년\) "wikilink")` `[`금조의`](../Page/금조_\(가수\).md "wikilink")` 개인 및 유닛 티저 이미지와 포지션을 공개하였으며,`\[6\]` `[`6월``   ``29일`](https://ko.wikipedia.org/wiki/6월_29일 "wikilink")` 멤버 `[`경리`](https://ko.wikipedia.org/wiki/경리_\(가수\) "wikilink")`, `[`혜미의`](https://ko.wikipedia.org/wiki/혜미_\(1991년\) "wikilink")` 티저 이미지 및 포지션도 공개되었다.`\[7\]` `[`8월``   ``2일`](https://ko.wikipedia.org/wiki/8월_2일 "wikilink")` 나인뮤지스A는 공식 `[`유튜브`](https://ko.wikipedia.org/wiki/유튜브 "wikilink")` 채널을 통해 데뷔 타이틀곡 〈`[`입술에``   ``입술``   ``(Lip``   ``2``   ``Lip)`](https://ko.wikipedia.org/wiki/입술에_입술_\(Lip_2_Lip\) "wikilink")`〉의 뮤직비디어 티저 영상을 공개하였다.`\[8\]` `[`8월``   ``3일`](https://ko.wikipedia.org/wiki/8월_3일 "wikilink")` 나인뮤지스A는 뮤직비디오 촬영 현장 비하인드컷을 공개하였다.`\[9\]` `[`8월``   ``4일`](https://ko.wikipedia.org/wiki/8월_4일 "wikilink")` 나인뮤지스A는 낮 12시 데뷔 싱글 공개에 앞서, `[`네이버`](https://ko.wikipedia.org/wiki/네이버 "wikilink")` V앱을 통해 데뷔 싱글 타이틀곡 〈`[`입술에``   ``입술``   ``(Lip``   ``2``   ``Lip)`](https://ko.wikipedia.org/wiki/입술에_입술_\(Lip_2_Lip\) "wikilink")`〉의 뮤직비디오를 자정 12시에 선공개하였다.`\[10\]` 같은 날 나인뮤지스A는 `[`서울특별시`](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")` `[`도봉구`](https://ko.wikipedia.org/wiki/도봉구 "wikilink")` 플랫폼창동61에서 데뷔 싱글 발매 기념 쇼케이스를 진행하였다.`\[11\]` 나인뮤지스는 유닛 그룹 나인뮤지스A 활동을 통해 데뷔 후 처음으로 음반 판매량 만 장 이상을 기록했으며, 이로 인해 `[`가온``   ``앨범``   ``차트의`](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink")` 4위를 기록하였다. 하지만 나인뮤지스가 2019년 2월 24일 팬미팅 끝으로 해체 되면서 나인뮤지스a도 같이 해체한다.`
+`엔터온뉴스 최민영 기자.`</ref>` `[`7월``   ``21일`](../Page/7월_21일.md "wikilink")` 나인뮤지스는 공식 `[`유튜브`](../Page/유튜브.md "wikilink")` 채널을 통해서 유닛 그룹의 컴백 트레일러를 기습적으로 공개하였다. 또한 영상을 통해 나인뮤지스의 유닛 그룹명인 나인뮤지스A를 공개하였다.`\[1\]` 다음 날 `[`7월``   ``22일`](../Page/7월_22일.md "wikilink")` 나인뮤지스는 공식 SNS 채널을 통해 나인뮤지스A의 티저 이미지와 정보를 공개하였다. `[`나인뮤지스A`](../Page/나인뮤지스A.md "wikilink")의` 멤버는 `[`경리`](../Page/경리_\(가수\).md "wikilink")`, `[`혜미`](../Page/혜미_\(1991년\).md "wikilink")`, `[`소진`](https://ko.wikipedia.org/wiki/소진_\(1991년\) "wikilink")`, `[`금조로`](../Page/금조_\(가수\).md "wikilink")` 구성되어있으며, 그룹명은 'Nine Muses Amuse'에서 유래하였다고 밝혔다.`\[2\]` `[`7월``   ``26일`](../Page/7월_26일.md "wikilink")` 나인뮤지스A는  데뷔 싱글 《`[`MUSES``   ``DIARY`](../Page/MUSES_DIARY.md "wikilink")`》의 트랙리스트를 공개하였다.`\[3\]` `[`7월``   ``27일`](../Page/7월_27일.md "wikilink")` 나인뮤지스A는 타이틀곡 〈`[`입술에``   ``입술``   ``(Lip``   ``2``   ``Lip)`](../Page/입술에_입술_\(Lip_2_Lip\).md "wikilink")`〉의 그룹 티저 이미지를 공개하였으며,`\[4\]` `[`네이버`](../Page/네이버.md "wikilink")` V앱을 통해 나인뮤지스A로서 첫 V라이브를 진행하였다.`\[5\]` `[`6월``   ``28일`](../Page/6월_28일.md "wikilink")` 멤버 `[`소진과`](https://ko.wikipedia.org/wiki/소진_\(1991년\) "wikilink")` `[`금조의`](../Page/금조_\(가수\).md "wikilink")` 개인 및 유닛 티저 이미지와 포지션을 공개하였으며,`\[6\]` `[`6월``   ``29일`](../Page/6월_29일.md "wikilink")` 멤버 `[`경리`](../Page/경리_\(가수\).md "wikilink")`, `[`혜미의`](../Page/혜미_\(1991년\).md "wikilink")` 티저 이미지 및 포지션도 공개되었다.`\[7\]` `[`8월``   ``2일`](../Page/8월_2일.md "wikilink")` 나인뮤지스A는 공식 `[`유튜브`](../Page/유튜브.md "wikilink")` 채널을 통해 데뷔 타이틀곡 〈`[`입술에``   ``입술``   ``(Lip``   ``2``   ``Lip)`](../Page/입술에_입술_\(Lip_2_Lip\).md "wikilink")`〉의 뮤직비디어 티저 영상을 공개하였다.`\[8\]` `[`8월``   ``3일`](../Page/8월_3일.md "wikilink")` 나인뮤지스A는 뮤직비디오 촬영 현장 비하인드컷을 공개하였다.`\[9\]` `[`8월``   ``4일`](../Page/8월_4일.md "wikilink")` 나인뮤지스A는 낮 12시 데뷔 싱글 공개에 앞서, `[`네이버`](../Page/네이버.md "wikilink")` V앱을 통해 데뷔 싱글 타이틀곡 〈`[`입술에``   ``입술``   ``(Lip``   ``2``   ``Lip)`](../Page/입술에_입술_\(Lip_2_Lip\).md "wikilink")`〉의 뮤직비디오를 자정 12시에 선공개하였다.`\[10\]` 같은 날 나인뮤지스A는 `[`서울특별시`](../Page/서울특별시.md "wikilink")` `[`도봉구`](../Page/도봉구.md "wikilink")` 플랫폼창동61에서 데뷔 싱글 발매 기념 쇼케이스를 진행하였다.`\[11\]` 나인뮤지스는 유닛 그룹 나인뮤지스A 활동을 통해 데뷔 후 처음으로 음반 판매량 만 장 이상을 기록했으며, 이로 인해 `[`가온``   ``앨범``   ``차트의`](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink")` 4위를 기록하였다. 하지만 나인뮤지스가 2019년 2월 24일 팬미팅 끝으로 해체 되면서 나인뮤지스a도 같이 해체한다.`
 
 ## 구성원
 
@@ -39,7 +39,7 @@
 <tbody>
 <tr class="odd">
 <td><p>주간<br />
-<ref><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 앨범 차트</a> (주간). <a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 차트</a>. 2017-07-02 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
+<ref><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 앨범 차트</a> (주간). <a href="../Page/가온_차트.md" title="wikilink">가온 차트</a>. 2017-07-02 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
 <ul>
 <li></li>
 </ul>
@@ -55,12 +55,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/MUSES_DIARY" title="wikilink">MUSES DIARY</a>》</p></td>
+<td><p>《<a href="../Page/MUSES_DIARY.md" title="wikilink">MUSES DIARY</a>》</p></td>
 <td><ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/8월_4일" title="wikilink">8월 4일</a></li>
+<li>발매일: <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/8월_4일.md" title="wikilink">8월 4일</a></li>
 <li>발매사: <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
-<li>기획사: <a href="https://ko.wikipedia.org/wiki/스타제국" title="wikilink">스타제국</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>기획사: <a href="../Page/스타제국.md" title="wikilink">스타제국</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>4</p></td>
 <td><p>16</p></td>
@@ -75,7 +75,7 @@
 <tr class="header">
 <th><p>연도</p></th>
 <th><p>제목</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a></p></th>
+<th><p><a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a></p></th>
 <th><p>다운로드</p></th>
 <th><p>음반</p></th>
 </tr>
@@ -107,7 +107,7 @@
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
-<td><p>"<a href="https://ko.wikipedia.org/wiki/입술에_입술_(Lip_2_Lip)" title="wikilink">입술에 입술 (Lip 2 Lip)</a>"</p></td>
+<td><p>"<a href="../Page/입술에_입술_(Lip_2_Lip).md" title="wikilink">입술에 입술 (Lip 2 Lip)</a>"</p></td>
 <td><p>48</p></td>
 <td><p>79</p></td>
 <td><p>-</p></td>
@@ -117,7 +117,7 @@
 
 ### 뮤직비디오
 
-  - 2016: 〈[입술에 입술 (Lip 2 Lip)](https://ko.wikipedia.org/wiki/입술에_입술_\(Lip_2_Lip\) "wikilink")〉
+  - 2016: 〈[입술에 입술 (Lip 2 Lip)](../Page/입술에_입술_\(Lip_2_Lip\).md "wikilink")〉
 
 ## 각주
 

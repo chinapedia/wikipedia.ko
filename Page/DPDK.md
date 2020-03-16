@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DPDK](https://ko.wikipedia.org/wiki/DPDK).
 
 
-**DPDK**(Data Plane Development Kit)는 고속 [패킷 처리를](https://ko.wikipedia.org/wiki/패킷_처리 "wikilink") 위한 [데이터 플레인](https://ko.wikipedia.org/wiki/데이터_플레인 "wikilink")(data plane) 라이브러리와 [네트워크 인터페이스 컨트롤러](https://ko.wikipedia.org/wiki/네트워크_인터페이스_컨트롤러 "wikilink")(NIC) 드라이버의 집합이다. DPDK는 [인텔 x86](https://ko.wikipedia.org/wiki/인텔_x86 "wikilink") 프로세서를 위한 프로그래밍 프레임워크를 제공하며 빠른 속도의 데이터 패킷 네트워킹 응용 프로그램을 빠르게 개발할 수 있게 한다.\[1\]\[2\] 범위는 [인텔 아톰](https://ko.wikipedia.org/wiki/인텔_아톰 "wikilink") 프로세서에서 [인텔 제온](https://ko.wikipedia.org/wiki/인텔_제온 "wikilink") 프로세서에 이르며 [IBM 파워 8과](https://ko.wikipedia.org/wiki/IBM_파워_8 "wikilink") 같은 다른 프로세서 아키텍처의 지원도 진행 중이다.\[3\] 오픈 소스인 [BSD 라이선스](https://ko.wikipedia.org/wiki/BSD_라이선스 "wikilink") 하에 제공, 지원된다\[4\].
+**DPDK**(Data Plane Development Kit)는 고속 [패킷 처리를](https://ko.wikipedia.org/wiki/패킷_처리 "wikilink") 위한 [데이터 플레인](https://ko.wikipedia.org/wiki/데이터_플레인 "wikilink")(data plane) 라이브러리와 [네트워크 인터페이스 컨트롤러](../Page/네트워크_인터페이스_컨트롤러.md "wikilink")(NIC) 드라이버의 집합이다. DPDK는 [인텔 x86](https://ko.wikipedia.org/wiki/인텔_x86 "wikilink") 프로세서를 위한 프로그래밍 프레임워크를 제공하며 빠른 속도의 데이터 패킷 네트워킹 응용 프로그램을 빠르게 개발할 수 있게 한다.\[1\]\[2\] 범위는 [인텔 아톰](../Page/인텔_아톰.md "wikilink") 프로세서에서 [인텔 제온](https://ko.wikipedia.org/wiki/인텔_제온 "wikilink") 프로세서에 이르며 [IBM 파워 8과](https://ko.wikipedia.org/wiki/IBM_파워_8 "wikilink") 같은 다른 프로세서 아키텍처의 지원도 진행 중이다.\[3\] 오픈 소스인 [BSD 라이선스](https://ko.wikipedia.org/wiki/BSD_라이선스 "wikilink") 하에 제공, 지원된다\[4\].
 
 ## 개요
 

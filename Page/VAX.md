@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [VAX](https://ko.wikipedia.org/wiki/VAX).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:VAX_11-780_intero.jpg "wikilink") **VAX**는 [디지털 이큅먼트 코퍼레이션](https://ko.wikipedia.org/wiki/디지털_이큅먼트_코퍼레이션 "wikilink")(DEC)가 1970년대 중반에 개발한 [명령어 집합 아키텍처](https://ko.wikipedia.org/wiki/명령어_집합 "wikilink")(ISA)이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:VAX_11-780_intero.jpg "wikilink") **VAX**는 [디지털 이큅먼트 코퍼레이션](../Page/디지털_이큅먼트_코퍼레이션.md "wikilink")(DEC)가 1970년대 중반에 개발한 [명령어 집합 아키텍처](../Page/명령어_집합.md "wikilink")(ISA)이다.
 
 ## 명칭
 
-"VAX"는 가상 주소 확장(virtual address extension)의 준말인데, 그 이유는 VAX가 오래된 16비트 [PDP-11](https://ko.wikipedia.org/wiki/PDP-11 "wikilink")의 32비트 확장으로 간주되었고 ([프라임 컴퓨터](https://ko.wikipedia.org/wiki/프라임_컴퓨터 "wikilink") 이후) [가상 메모리를](https://ko.wikipedia.org/wiki/가상_메모리 "wikilink") 처음 채택하여 더 넓은 주소 공간을 관리하였기 때문이다. 초기 버전의 VAX 프로세서는 호환성 모드를 구현하여 PDP-11 명령의 다수를 에뮬레이트하였기에 실제로 이러한 호환성을 강조하여 VAX-11로 불렸다.
+"VAX"는 가상 주소 확장(virtual address extension)의 준말인데, 그 이유는 VAX가 오래된 16비트 [PDP-11](../Page/PDP-11.md "wikilink")의 32비트 확장으로 간주되었고 ([프라임 컴퓨터](https://ko.wikipedia.org/wiki/프라임_컴퓨터 "wikilink") 이후) [가상 메모리를](../Page/가상_메모리.md "wikilink") 처음 채택하여 더 넓은 주소 공간을 관리하였기 때문이다. 초기 버전의 VAX 프로세서는 호환성 모드를 구현하여 PDP-11 명령의 다수를 에뮬레이트하였기에 실제로 이러한 호환성을 강조하여 VAX-11로 불렸다.
 
 ## 운영 체제
 
-네이티브 VAX [운영 체제는](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 디지털의 VAX/VMS였다. (1991년\~1992년 초반에 [OpenVMS](https://ko.wikipedia.org/wiki/OpenVMS "wikilink")로 이름이 바뀜. 당시 [알파에](https://ko.wikipedia.org/wiki/DEC_알파 "wikilink") 포팅되어 [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") 표준에 맞게 수정되어 [X/Open](https://ko.wikipedia.org/wiki/X/Open "wikilink") 컨소시엄의 [XPG4](https://ko.wikipedia.org/wiki/XPG4 "wikilink")와 호환된다고 하여 그렇게 정해짐.)\[1\]
+네이티브 VAX [운영 체제는](../Page/운영_체제.md "wikilink") 디지털의 VAX/VMS였다. (1991년\~1992년 초반에 [OpenVMS](../Page/OpenVMS.md "wikilink")로 이름이 바뀜. 당시 [알파에](../Page/DEC_알파.md "wikilink") 포팅되어 [POSIX](../Page/POSIX.md "wikilink") 표준에 맞게 수정되어 [X/Open](https://ko.wikipedia.org/wiki/X/Open "wikilink") 컨소시엄의 [XPG4](https://ko.wikipedia.org/wiki/XPG4 "wikilink")와 호환된다고 하여 그렇게 정해짐.)\[1\]
 
 ## 역사
 
-1977년 10월 25일에 [디지털 이큅먼트 코퍼레이션](https://ko.wikipedia.org/wiki/디지털_이큅먼트_코퍼레이션 "wikilink")(DEC)가 선보인 [VAX-11](https://ko.wikipedia.org/wiki/VAX-11 "wikilink")/780이 이 아키텍처를 구현한 영향력 있는 [컴퓨터](https://ko.wikipedia.org/wiki/컴퓨터 "wikilink")들 가운데 최초의 것이다.\[2\] [케임브리지 멜론 대학교의](https://ko.wikipedia.org/wiki/케임브리지_멜론_대학교 "wikilink") [C. 고든 벨의](https://ko.wikipedia.org/wiki/고든_벨 "wikilink") 박사 과정의 학생인 빌 스트레커(Bill Strecker)가 이 아키텍처를 맡았다.\[3\] 가격, 성능 수준, 용량이 각기 다른 수많은 모델들이 차후에 만들어졌다. VAX [슈퍼미니컴퓨터](https://ko.wikipedia.org/wiki/슈퍼미니컴퓨터 "wikilink")는 1980년대 초에 매우 인기를 끌었다.
+1977년 10월 25일에 [디지털 이큅먼트 코퍼레이션](../Page/디지털_이큅먼트_코퍼레이션.md "wikilink")(DEC)가 선보인 [VAX-11](https://ko.wikipedia.org/wiki/VAX-11 "wikilink")/780이 이 아키텍처를 구현한 영향력 있는 [컴퓨터](../Page/컴퓨터.md "wikilink")들 가운데 최초의 것이다.\[2\] [케임브리지 멜론 대학교의](https://ko.wikipedia.org/wiki/케임브리지_멜론_대학교 "wikilink") [C. 고든 벨의](https://ko.wikipedia.org/wiki/고든_벨 "wikilink") 박사 과정의 학생인 빌 스트레커(Bill Strecker)가 이 아키텍처를 맡았다.\[3\] 가격, 성능 수준, 용량이 각기 다른 수많은 모델들이 차후에 만들어졌다. VAX [슈퍼미니컴퓨터](https://ko.wikipedia.org/wiki/슈퍼미니컴퓨터 "wikilink")는 1980년대 초에 매우 인기를 끌었다.
 
 ## 프로세서 구조
 

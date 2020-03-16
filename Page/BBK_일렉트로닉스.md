@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [BBK ](https://ko.wikipedia.org/wiki/BBK_).
 
 
-**BBK 일렉트로닉스 코퍼레이션** ( )은 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 전자제품 기업이다. 주로 텔레비전 세트, MP3 플레이어, 디지털 카메라, 스마트폰 등을 제조 및 판매하며, [오포](https://ko.wikipedia.org/wiki/오포 "wikilink"), [원플러스](../Page/원플러스.md "wikilink") 등과 같은 여러 스마트폰 브랜드를 소유하고 있다.\[1\]\[2\] 특히, [오포 일렉트로닉스는](https://ko.wikipedia.org/wiki/오포_일렉트로닉스 "wikilink") [오포 디지탈을](https://ko.wikipedia.org/wiki/오포_디지탈 "wikilink") 자회사를 두어 스마트폰 뿐만 아니라, [Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink") 플레이어, 헤드폰 및 헤드폰 중폭기 등을 제조 및 판매한다.\[3\]\[4\] 본사 및 공장은 중국 [광둥 성](https://ko.wikipedia.org/wiki/광둥_성 "wikilink") [둥관 시에](https://ko.wikipedia.org/wiki/둥관_시 "wikilink") 위치한다.\[5\]
+**BBK 일렉트로닉스 코퍼레이션** ( )은 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 전자제품 기업이다. 주로 텔레비전 세트, MP3 플레이어, 디지털 카메라, 스마트폰 등을 제조 및 판매하며, [오포](https://ko.wikipedia.org/wiki/오포 "wikilink"), [원플러스](../Page/원플러스.md "wikilink") 등과 같은 여러 스마트폰 브랜드를 소유하고 있다.\[1\]\[2\] 특히, [오포 일렉트로닉스는](../Page/오포_일렉트로닉스.md "wikilink") [오포 디지탈을](https://ko.wikipedia.org/wiki/오포_디지탈 "wikilink") 자회사를 두어 스마트폰 뿐만 아니라, [Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink") 플레이어, 헤드폰 및 헤드폰 중폭기 등을 제조 및 판매한다.\[3\]\[4\] 본사 및 공장은 중국 [광둥 성](https://ko.wikipedia.org/wiki/광둥_성 "wikilink") [둥관 시에](https://ko.wikipedia.org/wiki/둥관_시 "wikilink") 위치한다.\[5\]
 
 또한, 'imoo'라는 또다른 스마트폰 자매 브랜드를 출시할 예정이다.\[6\]
 
-무엇보다, [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 'Memorex'와 'Philco'라는 브랜드로 생산 및 판매 활동을 하였다.\[7\]
+무엇보다, [2004년](../Page/2004년.md "wikilink")에 [미국](../Page/미국.md "wikilink")에서 'Memorex'와 'Philco'라는 브랜드로 생산 및 판매 활동을 하였다.\[7\]
 
 ## 각주
 

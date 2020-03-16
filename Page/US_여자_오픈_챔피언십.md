@@ -7,7 +7,7 @@
 
 1946년에 창설된 US 여자 오픈은 LPGA가 1950년에 설립된 이후 LPGA가 인정한 유일한 메이저 대회였다. 여자 프로 골프 선수 협회(Women's Professional Golfers Association; WPGA)가 처음 3년 동안 대회를 운영하였고, 다음 4년 동안 LPGA가 운영하다가 1953년에 USGA 대회가 되었다.\[1\] 일반적으로는 7월 초에 개최되며, LPGA 시즌의 세 번째 메이저 대회이다. 이 대회는 여자 골프에서 가장 높은 상금을 가지고 있다.
 
-[US 오픈과](https://ko.wikipedia.org/wiki/US_오픈_\(골프\) "wikilink") 달리 US 여자 오픈은 세계적으로 메이저 대회로 인정되지는 않는다. 레이디스 유러피언 투어(Ladies European Tour; LET)는 미국에서 열리는 세 개의 메이저 대회를 인정하지 않으며, JLPGA 투어는 자체적인 메이저 대회를 가지고 있다. 다만 LPGA 투어가 여자 골프에서 지배적인 투어이기 때문에 이러한 상황의 중요성은 제한적이다.
+[US 오픈과](../Page/US_오픈_\(골프\).md "wikilink") 달리 US 여자 오픈은 세계적으로 메이저 대회로 인정되지는 않는다. 레이디스 유러피언 투어(Ladies European Tour; LET)는 미국에서 열리는 세 개의 메이저 대회를 인정하지 않으며, JLPGA 투어는 자체적인 메이저 대회를 가지고 있다. 다만 LPGA 투어가 여자 골프에서 지배적인 투어이기 때문에 이러한 상황의 중요성은 제한적이다.
 
 2007년 외국인 선수의 숫자가 처음으로 미국인 선수를 넘었다.\[2\] 2008년 대회에서 19세의 대한민국의 골프 선수 [박인비](../Page/박인비.md "wikilink")가 우승하였으며, 박인비는 최연소 우승자가 되었다.
 
@@ -23,7 +23,7 @@
 <th><p>파</p></th>
 <th><p>2위와의 차이</p></th>
 <th><p>총상금<br />
-(<a href="https://ko.wikipedia.org/wiki/미국_달러" title="wikilink">$</a>)</p></th>
+(<a href="../Page/미국_달러.md" title="wikilink">$</a>)</p></th>
 <th><p>우승자<br />
 상금 ($)</p></th>
 </tr>
@@ -51,7 +51,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박성현_(골프_선수)" title="wikilink">박성현</a></p></td>
+<td><p><a href="../Page/박성현_(골프_선수).md" title="wikilink">박성현</a></p></td>
 <td></td>
 <td><p>277</p></td>
 <td><p>−11</p></td>
@@ -81,7 +81,7 @@
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미셸_위" title="wikilink">미셸 위</a></p></td>
+<td><p><a href="../Page/미셸_위.md" title="wikilink">미셸 위</a></p></td>
 <td></td>
 <td><p>278</p></td>
 <td><p>−2</p></td>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최나연" title="wikilink">최나연</a></p></td>
+<td><p><a href="../Page/최나연.md" title="wikilink">최나연</a></p></td>
 <td></td>
 <td><p>281</p></td>
 <td><p>−7</p></td>
@@ -111,7 +111,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유소연" title="wikilink">유소연</a></p></td>
+<td><p><a href="../Page/유소연.md" title="wikilink">유소연</a></p></td>
 <td></td>
 <td><p>281</p></td>
 <td><p>−3</p></td>
@@ -241,7 +241,7 @@
 </tr>
 <tr class="even">
 <td><p>1998</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박세리" title="wikilink">박세리</a></p></td>
+<td><p><a href="../Page/박세리.md" title="wikilink">박세리</a></p></td>
 <td></td>
 <td><p>290</p></td>
 <td><p>+6</p></td>
@@ -254,15 +254,15 @@
 
 ## 역대 한국인 챔피언\[3\]
 
-  - 1998년 [박세리](https://ko.wikipedia.org/wiki/박세리 "wikilink")
+  - 1998년 [박세리](../Page/박세리.md "wikilink")
   - 2005년 [김주연](https://ko.wikipedia.org/wiki/김주연 "wikilink")
   - 2008년 [박인비](../Page/박인비.md "wikilink")
   - 2009년 [지은희](https://ko.wikipedia.org/wiki/지은희 "wikilink")
-  - 2011년 [유소연](https://ko.wikipedia.org/wiki/유소연 "wikilink")
-  - 2012년 [최나연](https://ko.wikipedia.org/wiki/최나연 "wikilink")
+  - 2011년 [유소연](../Page/유소연.md "wikilink")
+  - 2012년 [최나연](../Page/최나연.md "wikilink")
   - 2013년 [박인비](../Page/박인비.md "wikilink")
   - 2015년 [전인지](../Page/전인지.md "wikilink")
-  - 2017년 [박성현](https://ko.wikipedia.org/wiki/박성현_\(골프_선수\) "wikilink")
+  - 2017년 [박성현](../Page/박성현_\(골프_선수\).md "wikilink")
   - 2019년 이정은
 
 ## 각주

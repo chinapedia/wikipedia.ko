@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AMD    ](https://ko.wikipedia.org/wiki/AMD____).
 
 
-이 문서는 [어드밴스트 마이크로 디바이시스](https://ko.wikipedia.org/wiki/어드밴스트_마이크로_디바이시스 "wikilink")(AMD)의 [GPU와](https://ko.wikipedia.org/wiki/그래픽_처리_장치 "wikilink") 그래픽 카드에 대한 일반적인 정포를 포함하고 있다. (2006년 이전의 [ATI 테크놀로지스](https://ko.wikipedia.org/wiki/ATI_테크놀로지스 "wikilink") 포함)
+이 문서는 [어드밴스트 마이크로 디바이시스](../Page/어드밴스트_마이크로_디바이시스.md "wikilink")(AMD)의 [GPU와](../Page/그래픽_처리_장치.md "wikilink") 그래픽 카드에 대한 일반적인 정포를 포함하고 있다. (2006년 이전의 [ATI 테크놀로지스](../Page/ATI_테크놀로지스.md "wikilink") 포함)
 
 ## 비교표: 데스크톱 GPU
 
@@ -12,18 +12,18 @@
 <tr class="header">
 <th><p>모델</p></th>
 <th><p>런치</p></th>
-<th><p>팹 (<a href="https://ko.wikipedia.org/wiki/마이크로미터" title="wikilink">μm</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p>팹 (<a href="../Page/마이크로미터.md" title="wikilink">μm</a>)</p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 구성</p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>크기 (<a href="https://ko.wikipedia.org/wiki/키비바이트" title="wikilink">KiB</a>)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -67,18 +67,18 @@
 <tr class="header">
 <th><p>모델</p></th>
 <th><p>런치</p></th>
-<th><p>팹 (<a href="https://ko.wikipedia.org/wiki/마이크로미터" title="wikilink">μm</a>)</p></th>
+<th><p>팹 (<a href="../Page/마이크로미터.md" title="wikilink">μm</a>)</p></th>
 <th><p>버스 인터페이스</p></th>
 <th><p>코어 구성</p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>크기 (<a href="https://ko.wikipedia.org/wiki/키비바이트" title="wikilink">KiB</a>)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -128,12 +128,12 @@ VRAM</p></td>
 <th><p>런치</p></th>
 <th><p>팹 (<a href="https://ko.wikipedia.org/wiki/나노미터" title="wikilink">nm</a>)</p></th>
 <th><p>버스 인터페이스</p></th>
-<th><p>코어 클럭 (<a href="https://ko.wikipedia.org/wiki/헤르츠" title="wikilink">MHz</a>)</p></th>
+<th><p>코어 클럭 (<a href="../Page/헤르츠.md" title="wikilink">MHz</a>)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환</p></th>
 </tr>
 </thead>
 <tbody>
@@ -142,12 +142,12 @@ VRAM</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메비바이트" title="wikilink">MiB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메비바이트.md" title="wikilink">MiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p>Direct3D</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|3D Rage</p></td>
@@ -267,7 +267,7 @@ VRAM</p></td>
 <tr class="header">
 <th><p>모델</p></th>
 <th><p>런치</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/암호명" title="wikilink">암호명</a></p></th>
+<th><p><a href="../Page/암호명.md" title="wikilink">암호명</a></p></th>
 <th><p>팹 (nm)</p></th>
 <th><p>버스 인터페이스</p></th>
 <th><p>코어 클럭 (MHz)</p></th>
@@ -283,10 +283,10 @@ VRAM</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메비바이트" title="wikilink">MiB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메비바이트.md" title="wikilink">MiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -435,10 +435,10 @@ VRAM</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메비바이트" title="wikilink">MiB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메비바이트.md" title="wikilink">MiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -499,10 +499,10 @@ VRAM</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메비바이트" title="wikilink">MiB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메비바이트.md" title="wikilink">MiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -618,10 +618,10 @@ VRAM</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메비바이트" title="wikilink">MiB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메비바이트.md" title="wikilink">MiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -685,10 +685,10 @@ VRAM</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메비바이트" title="wikilink">MiB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메비바이트.md" title="wikilink">MiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -933,10 +933,10 @@ VRAM</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메비바이트" title="wikilink">MiB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메비바이트.md" title="wikilink">MiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1053,10 +1053,10 @@ VRAM</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메비바이트" title="wikilink">MiB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메비바이트.md" title="wikilink">MiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1065,7 +1065,7 @@ VRAM</p></td>
 <td><p>2004년 11월 8일</p></td>
 <td><p>RS480 (metallo)</p></td>
 <td><p>130</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하이퍼트랜스포트" title="wikilink">HT</a></p></td>
+<td><p><a href="../Page/하이퍼트랜스포트.md" title="wikilink">HT</a></p></td>
 <td><p>300</p></td>
 <td><p>200-400 (DDR), 200 (사이드포트)</p></td>
 <td><p>4:2:2:2</p></td>
@@ -1123,10 +1123,10 @@ VRAM</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1297,10 +1297,10 @@ VRAM</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1560,10 +1560,10 @@ R430 (thor)</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍셀/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1616,14 +1616,14 @@ R430 (thor)</p></td>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
 <th><p>트랜지스터 (100만)</p></th>
-<th><p>다이 크기 (<a href="https://ko.wikipedia.org/wiki/제곱미터" title="wikilink">mm</a>)</p></th>
+<th><p>다이 크기 (<a href="../Page/제곱미터.md" title="wikilink">mm</a>)</p></th>
 <th><p>버스 인터페이스</p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>TDP (W)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 지원 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 지원 (버전)</p></th>
 <th><p>출시 가격 (USD)</p></th>
 </tr>
 </thead>
@@ -1634,13 +1634,13 @@ R430 (thor)</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>Vertex (<a href="https://ko.wikipedia.org/wiki/버텍스" title="wikilink">GV</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p>최대</p></td>
 <td><p>Direct3D</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2097,7 +2097,7 @@ PCI-E 1.0 x16</p></td>
 <td><p>코드명</p></td>
 <td><p>팹 (nm)</p></td>
 <td><p>트랜지스터 (100만)</p></td>
-<td><p>다이 크기 (<a href="https://ko.wikipedia.org/wiki/제곱미터" title="wikilink">mm</a>)</p></td>
+<td><p>다이 크기 (<a href="../Page/제곱미터.md" title="wikilink">mm</a>)</p></td>
 <td><p>버스 인터페이스</p></td>
 <td><p>코어 (MHz)</p></td>
 <td><p>메모리 (MHz)</p></td>
@@ -2105,14 +2105,14 @@ PCI-E 1.0 x16</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>Vertex (<a href="https://ko.wikipedia.org/wiki/버텍스" title="wikilink">GV</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>클럭 속도</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></td>
 <td><p>메모리</p></td>
 <td><p>TDP (W)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 지원 (버전)</p></td>
+<td><p><a href="../Page/API.md" title="wikilink">API</a> 지원 (버전)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2138,16 +2138,16 @@ PCI-E 1.0 x16</p></td>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
 <th><p>트랜지스터 (100만)</p></th>
-<th><p>다이 크기 (<a href="https://ko.wikipedia.org/wiki/제곱미터" title="wikilink">mm</a>)</p></th>
+<th><p>다이 크기 (<a href="../Page/제곱미터.md" title="wikilink">mm</a>)</p></th>
 <th><p>버스 인터페이스</p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>TDP (W)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 지원 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 지원 (버전)</p></th>
 <th><p>출시 가격 (USD)</p></th>
 </tr>
 </thead>
@@ -2157,17 +2157,17 @@ PCI-E 1.0 x16</p></td>
 <td><p>메모리 (MHz)</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
 <td><p>유휴</p></td>
 <td><p>최대</p></td>
 <td><p>Direct3D</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|라데온 HD 2350</p></td>
@@ -2350,16 +2350,16 @@ GDDR4</p></td>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
 <th><p>트랜지스터 (100만)</p></th>
-<th><p>다이 크기 (<a href="https://ko.wikipedia.org/wiki/제곱미터" title="wikilink">mm</a>)</p></th>
+<th><p>다이 크기 (<a href="../Page/제곱미터.md" title="wikilink">mm</a>)</p></th>
 <th><p>버스 인터페이스</p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>TDP (W)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 지원 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 지원 (버전)</p></th>
 <th><p>출시 가격 (USD)</p></th>
 </tr>
 </thead>
@@ -2369,17 +2369,17 @@ GDDR4</p></td>
 <td><p>메모리 (MHz)</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
 <td><p>유휴</p></td>
 <td><p>최대</p></td>
 <td><p>Direct3D</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a>, ATI 스트림</p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a>, ATI 스트림</p></td>
 </tr>
 <tr class="even">
 <td><p>|라데온 HD 3410</p></td>
@@ -2669,7 +2669,7 @@ GDDR4</p></td>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>기능 / 참고</p></th>
 </tr>
 </thead>
@@ -2678,11 +2678,11 @@ GDDR4</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
 <td><p>FP32 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
 <td><p>Effective 클럭 (MHz)</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2698,7 +2698,7 @@ GDDR4</p></td>
 <td><p>55</p></td>
 <td><p>205</p></td>
 <td><p>~73 (~9 × 8.05)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하이퍼트랜스포트" title="wikilink">HT 3.0</a></p></td>
+<td><p><a href="../Page/하이퍼트랜스포트.md" title="wikilink">HT 3.0</a></p></td>
 <td><p>350</p></td>
 <td><p>40:4:4</p></td>
 <td><p>1.4</p></td>
@@ -2733,11 +2733,11 @@ GDDR4</p></td>
 <td><p>1</p></td>
 <td><p>최대 512 시스템 + 선택적 128 사이드포트</p></td>
 <td><p>20.8 (시스템) + 2.6 (사이드포트)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하이퍼트랜스포트" title="wikilink">HT</a> (시스템) + <a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a>-1066 <a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a>-1333 (사이드포트)</p></td>
+<td><p><a href="../Page/하이퍼트랜스포트.md" title="wikilink">HT</a> (시스템) + <a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a>-1066 <a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a>-1333 (사이드포트)</p></td>
 <td><p>1333 (사이드포트)</p></td>
 <td><p>16 (사이드포트)</p></td>
 <td><p>40</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/통합_비디오_디코더" title="wikilink">통합 비디오 디코더</a>, 8x AA (wide-tent <a href="https://ko.wikipedia.org/wiki/Custom-Filter_Anti-Aliasing" title="wikilink">CFAA</a>)</p></td>
+<td><p><a href="../Page/통합_비디오_디코더.md" title="wikilink">통합 비디오 디코더</a>, 8x AA (wide-tent <a href="https://ko.wikipedia.org/wiki/Custom-Filter_Anti-Aliasing" title="wikilink">CFAA</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2749,9 +2749,9 @@ GDDR4</p></td>
 <td><p>2.8</p></td>
 <td><p>1.4</p></td>
 <td><p>최대 512 시스템 + 128 사이드포트</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하이퍼트랜스포트" title="wikilink">HT</a> (시스템) + <a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a>-1333 (사이드포트)</p></td>
+<td><p><a href="../Page/하이퍼트랜스포트.md" title="wikilink">HT</a> (시스템) + <a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a>-1333 (사이드포트)</p></td>
 <td><p>56</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/통합_비디오_디코더" title="wikilink">통합 비디오 디코더</a>, <a href="https://ko.wikipedia.org/wiki/ATI_파워플레이" title="wikilink">파워플레이</a></p></td>
+<td><p><a href="../Page/통합_비디오_디코더.md" title="wikilink">통합 비디오 디코더</a>, <a href="https://ko.wikipedia.org/wiki/ATI_파워플레이" title="wikilink">파워플레이</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2774,7 +2774,7 @@ GDDR4</p></td>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> (버전)</p></th>
 </tr>
 </thead>
 <tbody>
@@ -2782,12 +2782,12 @@ GDDR4</p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍스텔/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3091,16 +3091,16 @@ AGP 8X</p></td>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
 <th><p>트랜지스터 (100만)</p></th>
-<th><p>다이 크기 (<a href="https://ko.wikipedia.org/wiki/제곱미터" title="wikilink">mm</a>)</p></th>
+<th><p>다이 크기 (<a href="../Page/제곱미터.md" title="wikilink">mm</a>)</p></th>
 <th><p>버스 인터페이스</p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>TDP (W)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 지원 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 지원 (버전)</p></th>
 <th><p>출시 가격 (USD)</p></th>
 </tr>
 </thead>
@@ -3110,17 +3110,17 @@ AGP 8X</p></td>
 <td><p>메모리 (MHz)</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
 <td><p>유휴</p></td>
 <td><p>최대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|라데온 HD 4350</p></td>
@@ -3516,7 +3516,7 @@ GDDR4</p></td>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>기능 / 참고</p></th>
 </tr>
 </thead>
@@ -3525,11 +3525,11 @@ GDDR4</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
 <td><p>FP32 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
 <td><p>Effective 클럭 (MHz)</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3561,7 +3561,7 @@ GDDR4</p></td>
 <td><p>2.24</p></td>
 <td><p>2.24</p></td>
 <td><p>1.12</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하이퍼트랜스포트" title="wikilink">HT</a> (시스템) + <a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a>-1333 (사이드포트)</p></td>
+<td><p><a href="../Page/하이퍼트랜스포트.md" title="wikilink">HT</a> (시스템) + <a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a>-1333 (사이드포트)</p></td>
 <td><p>44.8</p></td>
 <td></td>
 <td></td>
@@ -3598,16 +3598,16 @@ GDDR4</p></td>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
 <th><p>트랜지스터 (100만)</p></th>
-<th><p>다이 크기 (<a href="https://ko.wikipedia.org/wiki/제곱미터" title="wikilink">mm</a>)</p></th>
+<th><p>다이 크기 (<a href="../Page/제곱미터.md" title="wikilink">mm</a>)</p></th>
 <th><p>버스 인터페이스</p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>TDP (W)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 지원 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 지원 (버전)</p></th>
 <th><p>출시 가격 (USD)</p></th>
 </tr>
 </thead>
@@ -3617,17 +3617,17 @@ GDDR4</p></td>
 <td><p>메모리 (MHz)</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
 <td><p>유휴</p></td>
 <td><p>최대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|라데온 HD 5450</p></td>
@@ -3889,14 +3889,14 @@ GDDR5</p></td>
 <td><p>코드명</p></td>
 <td><p>팹 (nm)</p></td>
 <td><p>트랜지스터 (100만)</p></td>
-<td><p>다이 크기 (<a href="https://ko.wikipedia.org/wiki/제곱미터" title="wikilink">mm</a>)</p></td>
+<td><p>다이 크기 (<a href="../Page/제곱미터.md" title="wikilink">mm</a>)</p></td>
 <td><p>버스 인터페이스</p></td>
 <td><p>코어 (MHz)</p></td>
 <td><p>메모리 (MHz)</p></td>
 <td><p>코어 구성</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
 </tr>
@@ -3905,9 +3905,9 @@ GDDR5</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></td>
 <td><p>메모리</p></td>
 <td><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></td>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></td>
 <td><p>TDP (W)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 지원 (버전)</p></td>
+<td><p><a href="../Page/API.md" title="wikilink">API</a> 지원 (버전)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3949,26 +3949,26 @@ GDDR5</p></td>
 <th><p>연산 능력 (단위: GFLOPS)</p></th>
 <th><p>TDP (W)</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>/<a href="https://ko.wikipedia.org/wiki/Watt" title="wikilink">W</a> 단정밀도</p></th>
-<th><p>지원하는 <a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a></p></th>
+<th><p>지원하는 <a href="../Page/API.md" title="wikilink">API</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/AMD_TrueAudio" title="wikilink">TrueAudio</a></p></th>
 <th><p>출시 가격 (USD)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>코어 (<a href="https://ko.wikipedia.org/wiki/헤르츠" title="wikilink">MHz</a>)</p></td>
-<td><p>부스트 (<a href="https://ko.wikipedia.org/wiki/헤르츠" title="wikilink">MHz</a>)</p></td>
+<td><p>코어 (<a href="../Page/헤르츠.md" title="wikilink">MHz</a>)</p></td>
+<td><p>부스트 (<a href="../Page/헤르츠.md" title="wikilink">MHz</a>)</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)<sup>2</sup></p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)<sup>3</sup></p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p>규격</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
-<td><p>속도 (<a href="https://ko.wikipedia.org/wiki/헤르츠" title="wikilink">MHz</a>) (부스트)</p></td>
+<td><p>속도 (<a href="../Page/헤르츠.md" title="wikilink">MHz</a>) (부스트)</p></td>
 <td><p>단정밀도</p></td>
 <td><p>배정밀도</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DirectX" title="wikilink">DirectX</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Mantle_(GPU_API)" title="wikilink">Mantle</a></p></td>
 <td></td>
 <td></td>
@@ -4360,26 +4360,26 @@ GDDR5</p></td>
 <th><p>메모리</p></th>
 <th><p>연산 능력 (단위: GFLOPS)</p></th>
 <th><p>TDP (W)</p></th>
-<th><p>지원하는 <a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> (버전)</p></th>
+<th><p>지원하는 <a href="../Page/API.md" title="wikilink">API</a> (버전)</p></th>
 <th><p>출시 가격 (USD)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>기본 (부스트) (단위:<a href="https://ko.wikipedia.org/wiki/헤르츠" title="wikilink">MHz</a>)</p></td>
+<td><p>기본 (부스트) (단위:<a href="../Page/헤르츠.md" title="wikilink">MHz</a>)</p></td>
 <td><p>메모리 (단위: MT/s)</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)<sup>2</sup></p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)<sup>3</sup></p></td>
 <td><p>크기 (MIB)</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p>규격</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>용량 (GB)</p></td>
 <td><p>단정밀도 (부스트)</p></td>
 <td><p>배정밀도 (부스트)</p></td>
 <td><p>반정밀도 (부스트)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DirectX" title="wikilink">DirectX</a> (피처 레벨)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a> (피처 레벨)</p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>라데온 R5 330</p></td>
@@ -4724,7 +4724,7 @@ GDDR5</p></td>
 <th><p>메모리</p></th>
 <th><p>연산 속도 (단위: GFLOPS)</p></th>
 <th><p>TDP (와트)</p></th>
-<th><p>지원하는 <a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> (버전)</p></th>
+<th><p>지원하는 <a href="../Page/API.md" title="wikilink">API</a> (버전)</p></th>
 <th><p>출시 가격 (USD)</p></th>
 </tr>
 </thead>
@@ -4737,15 +4737,15 @@ GDDR5</p></td>
 <td><p>텍스처 (부스트)</p>
 <p>(단위: <a href="https://ko.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
 <td><p>크기 (GiB)</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">bit</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">bit</a>)</p></td>
 <td><p>규격</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>용량 (GB)</p></td>
 <td><p>단정밀도 (부스트)</p></td>
 <td><p>배정밀도 (부스트)</p></td>
 <td><p>반정밀도 (부스트)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DirectX" title="wikilink">DirectX</a> (피처 레벨)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a> (피처 레벨)</p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>라데온 520</p></td>
@@ -4895,7 +4895,7 @@ GDDR5</p></td>
 <th><p>메모리</p></th>
 <th><p>연산 속도 (단위: GFLOPS)</p></th>
 <th><p>TDP (와트)</p></th>
-<th><p>지원하는 <a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> (버전)</p></th>
+<th><p>지원하는 <a href="../Page/API.md" title="wikilink">API</a> (버전)</p></th>
 <th><p>출시 가격 (USD)</p></th>
 </tr>
 </thead>
@@ -4908,15 +4908,15 @@ GDDR5</p></td>
 <td><p>텍스처 (부스트)</p>
 <p>(단위: <a href="https://ko.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
 <td><p>크기 (GiB)</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">bit</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">bit</a>)</p></td>
 <td><p>규격</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>단정밀도 (부스트)</p></td>
 <td><p>배정밀도 (부스트)</p></td>
 <td><p>반정밀도 (부스트)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DirectX" title="wikilink">DirectX</a> (피처 레벨)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a> (피처 레벨)</p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>라데온 RX 베가 56</p></td>
@@ -4981,14 +4981,14 @@ GDDR5</p></td>
 <th><p>모델</p></th>
 <th><p>런치</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>하드웨어 <a href="https://ko.wikipedia.org/wiki/T&amp;L" title="wikilink">T&amp;L</a></p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -4996,12 +4996,12 @@ GDDR5</p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5053,7 +5053,7 @@ GDDR5</p></td>
 <td><p>|레이지 모빌리티 M1 (레이지 128)</p></td>
 <td><p>1999년 2월</p></td>
 <td><p>250</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가속_그래픽_포트" title="wikilink">AGP</a>, <a href="https://ko.wikipedia.org/wiki/PCI_버스" title="wikilink">PCI</a></p></td>
+<td><p><a href="../Page/가속_그래픽_포트.md" title="wikilink">AGP</a>, <a href="../Page/PCI_버스.md" title="wikilink">PCI</a></p></td>
 <td><p>90</p></td>
 <td><p>90</p></td>
 <td><p>No</p></td>
@@ -5132,13 +5132,13 @@ GDDR5</p></td>
 <th><p>모델 번호</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -5146,12 +5146,12 @@ GDDR5</p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5337,13 +5337,13 @@ GDDR5</p></td>
 <th><p>모델 번호</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -5351,12 +5351,12 @@ GDDR5</p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5451,13 +5451,13 @@ GDDR5</p></td>
 <th><p>모델 번호</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -5465,12 +5465,12 @@ GDDR5</p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5632,15 +5632,15 @@ GDDR5</p></td>
 <th><p>모델 번호</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -5648,12 +5648,12 @@ GDDR5</p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5820,15 +5820,15 @@ GDDR3</p></td>
 <th><p>모델 번호</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -5836,12 +5836,12 @@ GDDR3</p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5864,7 +5864,7 @@ GDDR3</p></td>
 <td><p>1.2</p></td>
 <td><p>최대 512 (시스템 메모리)</p></td>
 <td><p>6.4/12.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 3200</p></td>
@@ -5881,7 +5881,7 @@ GDDR3</p></td>
 <td><p>2</p></td>
 <td><p>최대 512 (시스템 메모리)</p></td>
 <td><p>6.4/12.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 3410</p></td>
@@ -5897,7 +5897,7 @@ GDDR3</p></td>
 <td><p>1.6</p></td>
 <td><p>256, 512</p></td>
 <td><p>6.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 3430</p></td>
@@ -5913,7 +5913,7 @@ GDDR3</p></td>
 <td><p>1.8</p></td>
 <td><p>256</p></td>
 <td><p>6.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 3450</p></td>
@@ -5931,8 +5931,8 @@ GDDR3</p></td>
 <td><p>256</p></td>
 <td><p>6.4<br />
 11.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
+<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 3470</p></td>
@@ -5950,8 +5950,8 @@ GDDR3</p></td>
 <td><p>256</p></td>
 <td><p>6.4<br />
 12.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
+<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 3650</p></td>
@@ -5970,9 +5970,9 @@ GDDR3</p></td>
 1024</p></td>
 <td><p>16.0<br />
 22.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
+<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a><br />
+<a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 3670</p></td>
@@ -5989,9 +5989,9 @@ GDDR3</p></td>
 <td><p>512<br />
 1024</p></td>
 <td><p>25.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
+<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a><br />
+<a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 3850</p></td>
@@ -6007,7 +6007,7 @@ GDDR3</p></td>
 <td><p>9.28</p></td>
 <td><p>512</p></td>
 <td><p>48.0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 3870</p></td>
@@ -6023,7 +6023,7 @@ GDDR3</p></td>
 <td><p>10.56</p></td>
 <td><p>512</p></td>
 <td><p>54.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 3850 X2</p></td>
@@ -6039,7 +6039,7 @@ GDDR3</p></td>
 <td><p>2x 9.28</p></td>
 <td><p>2x 512</p></td>
 <td><p>2x 48.0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 3870 X2</p></td>
@@ -6055,7 +6055,7 @@ GDDR3</p></td>
 <td><p>2x 10.56</p></td>
 <td><p>2x 512</p></td>
 <td><p>2x 54.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -6070,15 +6070,15 @@ GDDR3</p></td>
 <th><p>모델 번호</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -6086,12 +6086,12 @@ GDDR3</p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6114,7 +6114,7 @@ GDDR3</p></td>
 <td><p>2</p></td>
 <td><p>최대 512 (시스템 메모리)</p></td>
 <td><p>6.4/12.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a> <a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 4225</p></td>
@@ -6131,7 +6131,7 @@ GDDR3</p></td>
 <td><p>1.52</p></td>
 <td><p>최대 512 (시스템 메모리)</p></td>
 <td><p>6.4/12.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a> <a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 4250</p></td>
@@ -6148,7 +6148,7 @@ GDDR3</p></td>
 <td><p>2</p></td>
 <td><p>최대 512 (시스템 메모리)</p></td>
 <td><p>6.4/12.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a> <a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 4270</p></td>
@@ -6165,7 +6165,7 @@ GDDR3</p></td>
 <td><p>2.36</p></td>
 <td><p>최대 512 (시스템 메모리)</p></td>
 <td><p>6.4/12.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a> <a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 4330</p></td>
@@ -6181,9 +6181,9 @@ GDDR3</p></td>
 <td><p>3.6</p></td>
 <td><p>512</p></td>
 <td><p>9.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a><br />
-<a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
+<a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a><br />
+<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 4530</p></td>
@@ -6199,9 +6199,9 @@ GDDR3</p></td>
 <td><p>4</p></td>
 <td><p>512</p></td>
 <td><p>11.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a><br />
-<a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
+<a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a><br />
+<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 4550</p></td>
@@ -6217,9 +6217,9 @@ GDDR3</p></td>
 <td><p>4.4</p></td>
 <td><p>512</p></td>
 <td><p>11.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a><br />
-<a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
+<a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a><br />
+<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 4570</p></td>
@@ -6235,9 +6235,9 @@ GDDR3</p></td>
 <td><p>5.44</p></td>
 <td><p>512</p></td>
 <td><p>12.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a><br />
-<a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
+<a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a><br />
+<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 4650</p></td>
@@ -6259,9 +6259,9 @@ GDDR3</p></td>
 1024</p></td>
 <td><p>19.2<br />
 25.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a><br />
-<a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
+<a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a><br />
+<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 4670</p></td>
@@ -6279,9 +6279,9 @@ GDDR3</p></td>
 1024</p></td>
 <td><p>12.8<br />
 25.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2</a><br />
-<a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
+<a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a><br />
+<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 4830</p></td>
@@ -6303,8 +6303,8 @@ GDDR3</p></td>
 1024</p></td>
 <td><p>25.6/28.8<br />
 25.6/28.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a><br />
-<a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a><br />
+<a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 4850</p></td>
@@ -6322,8 +6322,8 @@ GDDR3</p></td>
 <td><p>1024</p></td>
 <td><p>54.4<br />
 89.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a><br />
+<a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 4860</p></td>
@@ -6339,7 +6339,7 @@ GDDR3</p></td>
 <td><p>20.8</p></td>
 <td><p>1024</p></td>
 <td><p>64.0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|모빌리티 라데온 HD 4870</p></td>
@@ -6358,8 +6358,8 @@ GDDR3</p></td>
 1024</p></td>
 <td><p>56.832<br />
 89.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a><br />
-<a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a><br />
+<a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|모빌리티 라데온 HD 4870 X2</p></td>
@@ -6375,7 +6375,7 @@ GDDR3</p></td>
 <td><p>2x 22</p></td>
 <td><p>2048</p></td>
 <td><p>2x 89.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -6390,15 +6390,15 @@ GDDR3</p></td>
 <th><p>모델 번호</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>TDP (와트)</p></th>
 </tr>
 </thead>
@@ -6406,12 +6406,12 @@ GDDR3</p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6743,20 +6743,20 @@ GDDR5</p></td>
 <td><p>모델 번호</p></td>
 <td><p>코드명</p></td>
 <td><p>팹 (nm)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></td>
+<td><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></td>
 <td><p>코어 클럭 (MHz)</p></td>
 <td><p>메모리 클럭 (MHz)</p></td>
 <td><p>코어 구성</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></td>
 <td><p>메모리</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></td>
+<td><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6782,15 +6782,15 @@ GDDR5</p></td>
 <th><p>모델 번호</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>TDP (와트) GPU 전용</p></th>
 <th><p>기능</p></th>
 </tr>
@@ -6799,12 +6799,12 @@ GDDR5</p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7241,7 +7241,7 @@ DDR3</p></td>
 <td><p>코어 구성</p></td>
 <td><p>픽셀 (GP/s)</p></td>
 <td><p>텍스처 (GT/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (GB/s)</p></td>
 <td><p>버스 유형</p></td>
 <td><p>버스 폭 (비트)</p></td>
@@ -7282,9 +7282,9 @@ DDR3</p></td>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>공유 메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>최대 결합 TDP (W)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/AMD_가속_처리_장치" title="wikilink">퓨전_APU</a></p></th>
+<th><p><a href="../Page/AMD_가속_처리_장치.md" title="wikilink">퓨전_APU</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -7293,7 +7293,7 @@ DDR3</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7380,15 +7380,15 @@ DDR3</p></td>
 <th><p>마이크로아키텍처</p></th>
 <th><p>코어</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -7396,13 +7396,13 @@ DDR3</p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7415,7 +7415,7 @@ DDR3</p></td>
 <td><p>R200</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/라데온_R200" title="wikilink">라데온 8500</a></p></td>
 <td><p>150</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가속_그래픽_포트" title="wikilink">가속 그래픽 포트</a></p></td>
+<td><p><a href="../Page/가속_그래픽_포트.md" title="wikilink">가속 그래픽 포트</a></p></td>
 <td><p>250</p></td>
 <td><p>270</p></td>
 <td><p>2:4:8:4</p></td>
@@ -7511,7 +7511,7 @@ DDR3</p></td>
 <td><p>R300</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/라데온_R300" title="wikilink">라데온 9700 프로</a></p></td>
 <td><p>150</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가속_그래픽_포트" title="wikilink">AGP 프로</a></p></td>
+<td><p><a href="../Page/가속_그래픽_포트.md" title="wikilink">AGP 프로</a></p></td>
 <td><p>325</p></td>
 <td><p>310</p></td>
 <td><p>4:8:8:8</p></td>
@@ -7575,7 +7575,7 @@ DDR3</p></td>
 <td><p>R300</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/라데온_R300" title="wikilink">라데온 X300 XT</a></p></td>
 <td><p>110</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/PCI_익스프레스" title="wikilink">PCIe</a> x16</p></td>
+<td><p><a href="../Page/PCI_익스프레스.md" title="wikilink">PCIe</a> x16</p></td>
 <td><p>400</p></td>
 <td><p>200</p></td>
 <td><p>2:4:4:4</p></td>
@@ -7615,7 +7615,7 @@ DDR3</p></td>
 <td><p>2.4</p></td>
 <td><p>128</p></td>
 <td><p>6.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2 SDRAM</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2 SDRAM</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>파이어GL V3350</p></td>
@@ -7631,7 +7631,7 @@ DDR3</p></td>
 <td><p>2.4</p></td>
 <td><p>256</p></td>
 <td><p>6.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR2_SDRAM" title="wikilink">DDR2 SDRAM</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2 SDRAM</a></p></td>
 </tr>
 <tr class="even">
 <td><p>파이어GL V3400</p></td>
@@ -7647,7 +7647,7 @@ DDR3</p></td>
 <td><p>2</p></td>
 <td><p>128</p></td>
 <td><p>16</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>파이어GL V3600</p></td>
@@ -7663,7 +7663,7 @@ DDR3</p></td>
 <td><p>4.8</p></td>
 <td><p>256</p></td>
 <td><p>16.0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>파이어GL V5000</p></td>
@@ -7679,7 +7679,7 @@ DDR3</p></td>
 <td><p>3.4</p></td>
 <td><p>128</p></td>
 <td><p>13.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>파이어GL V5100</p></td>
@@ -7695,7 +7695,7 @@ DDR3</p></td>
 <td><p>5.4</p></td>
 <td><p>128</p></td>
 <td><p>22.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR_SDRAM" title="wikilink">DDR</a></p></td>
+<td><p><a href="../Page/DDR_SDRAM.md" title="wikilink">DDR</a></p></td>
 </tr>
 <tr class="even">
 <td><p>파이어GL V5200</p></td>
@@ -7711,7 +7711,7 @@ DDR3</p></td>
 <td><p>2.4</p></td>
 <td><p>256</p></td>
 <td><p>22.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>파이어GL V5600</p></td>
@@ -7727,7 +7727,7 @@ DDR3</p></td>
 <td><p>6.4</p></td>
 <td><p>512</p></td>
 <td><p>35.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
+<td><p><a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
 </tr>
 <tr class="even">
 <td><p>파이어GL V7100</p></td>
@@ -7743,7 +7743,7 @@ DDR3</p></td>
 <td><p>8</p></td>
 <td><p>256</p></td>
 <td><p>28.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>파이어GL V7200</p></td>
@@ -7759,7 +7759,7 @@ DDR3</p></td>
 <td><p>9.6</p></td>
 <td><p>256</p></td>
 <td><p>41.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>파이어GL V7300</p></td>
@@ -7775,7 +7775,7 @@ DDR3</p></td>
 <td><p>9.6</p></td>
 <td><p>512</p></td>
 <td><p>41.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>파이어GL V7350</p></td>
@@ -7791,7 +7791,7 @@ DDR3</p></td>
 <td><p>9.6</p></td>
 <td><p>1024</p></td>
 <td><p>41.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>파이어GL V7400</p></td>
@@ -7807,7 +7807,7 @@ DDR3</p></td>
 <td><p>19.8?</p></td>
 <td><p>512?</p></td>
 <td><p>41.6?</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>파이어GL V7600</p></td>
@@ -7823,7 +7823,7 @@ DDR3</p></td>
 <td><p>9.6</p></td>
 <td><p>512</p></td>
 <td><p>51.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>파이어GL V7700</p></td>
@@ -7839,7 +7839,7 @@ DDR3</p></td>
 <td><p>12.4</p></td>
 <td><p>512</p></td>
 <td><p>72</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
+<td><p><a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>파이어GL V8600</p></td>
@@ -7855,7 +7855,7 @@ DDR3</p></td>
 <td><p>11.008</p></td>
 <td><p>1024</p></td>
 <td><p>111.1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
+<td><p><a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
 </tr>
 <tr class="even">
 <td><p>파이어GL V8650</p></td>
@@ -7871,7 +7871,7 @@ DDR3</p></td>
 <td><p>11.008</p></td>
 <td><p>2048</p></td>
 <td><p>111.1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
+<td><p><a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -7887,15 +7887,15 @@ DDR3</p></td>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
 <th><p>트랜지스터 (100만)</p></th>
-<th><p>다이 크기 (<a href="https://ko.wikipedia.org/wiki/제곱미터" title="wikilink">mm</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p>다이 크기 (<a href="../Page/제곱미터.md" title="wikilink">mm</a>)</p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>TDP 와트</p></th>
 <th><p>참고</p></th>
 </tr>
@@ -7906,15 +7906,15 @@ DDR3</p></td>
 <td><p>메모리 (MHz)</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7935,7 +7935,7 @@ DDR3</p></td>
 <td><p>3.2</p></td>
 <td><p>256</p></td>
 <td><p>15.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 3D V3750</p></td>
@@ -7953,7 +7953,7 @@ DDR3</p></td>
 <td><p>17.6</p></td>
 <td><p>256</p></td>
 <td><p>24</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 3D V3800,</p></td>
@@ -7971,7 +7971,7 @@ DDR3</p></td>
 <td><p>13</p></td>
 <td><p>512</p></td>
 <td><p>14.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 3D V4800,</p></td>
@@ -7989,7 +7989,7 @@ DDR3</p></td>
 <td><p>15.5</p></td>
 <td><p>1024</p></td>
 <td><p>57.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 3D V5700</p></td>
@@ -8007,7 +8007,7 @@ DDR3</p></td>
 <td><p>22.4</p></td>
 <td><p>512</p></td>
 <td><p>28.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 3D V5800,</p></td>
@@ -8025,7 +8025,7 @@ DDR3</p></td>
 <td><p>28</p></td>
 <td><p>1024</p></td>
 <td><p>64</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 3D V7750</p></td>
@@ -8043,7 +8043,7 @@ DDR3</p></td>
 <td><p>25.6</p></td>
 <td><p>1024</p></td>
 <td><p>28.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 3D V7800,</p></td>
@@ -8061,7 +8061,7 @@ DDR3</p></td>
 <td><p>50.4</p></td>
 <td><p>2048</p></td>
 <td><p>128</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 3D V8700</p></td>
@@ -8079,7 +8079,7 @@ DDR3</p></td>
 <td><p>30</p></td>
 <td><p>1024</p></td>
 <td><p>108.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 3D V8750</p></td>
@@ -8097,7 +8097,7 @@ DDR3</p></td>
 <td><p>30</p></td>
 <td><p>2048</p></td>
 <td><p>115.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 3D V8800</p></td>
@@ -8115,7 +8115,7 @@ DDR3</p></td>
 <td><p>66</p></td>
 <td><p>2048</p></td>
 <td><p>147.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 3D V9800</p></td>
@@ -8133,7 +8133,7 @@ DDR3</p></td>
 <td><p>68</p></td>
 <td><p>4096</p></td>
 <td><p>147.2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -8148,14 +8148,14 @@ DDR3</p></td>
 <th><p>마이크로아키텍처</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>TDP 와트</p></th>
 <th><p>참고</p></th>
 </tr>
@@ -8169,12 +8169,12 @@ DDR3</p></td>
 <td><p>크기 (<a href="https://ko.wikipedia.org/wiki/기비바이트" title="wikilink">GiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">SP</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">DP</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct 3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">Open GL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">Open CL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct 3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">Open GL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">Open CL</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -8191,7 +8191,7 @@ DDR3</p></td>
 <td><p>15.6</p></td>
 <td><p>1</p></td>
 <td><p>28.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 V4900</p></td>
@@ -8207,7 +8207,7 @@ DDR3</p></td>
 <td><p>19.2</p></td>
 <td><p>1</p></td>
 <td><p>64</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 V5900</p></td>
@@ -8223,7 +8223,7 @@ DDR3</p></td>
 <td><p>19.2</p></td>
 <td><p>2</p></td>
 <td><p>64</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 V7900</p></td>
@@ -8239,7 +8239,7 @@ DDR3</p></td>
 <td><p>58</p></td>
 <td><p>2</p></td>
 <td><p>160</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -8254,14 +8254,14 @@ DDR3</p></td>
 <th><p>마이크로아키텍처</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>TDP 와트</p></th>
 <th><p>참고</p></th>
 </tr>
@@ -8275,12 +8275,12 @@ DDR3</p></td>
 <td><p>크기 (<a href="https://ko.wikipedia.org/wiki/기비바이트" title="wikilink">GiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -8297,7 +8297,7 @@ DDR3</p></td>
 <td><p>1000</p></td>
 <td><p>2</p></td>
 <td><p>64</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 W5000</p></td>
@@ -8313,7 +8313,7 @@ DDR3</p></td>
 <td><p>39.6</p></td>
 <td><p>2</p></td>
 <td><p>102.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 W7000</p></td>
@@ -8329,7 +8329,7 @@ DDR3</p></td>
 <td><p>76</p></td>
 <td><p>4</p></td>
 <td><p>153.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 W8000</p></td>
@@ -8345,7 +8345,7 @@ DDR3</p></td>
 <td><p>100.8</p></td>
 <td><p>4</p></td>
 <td><p>176</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 W9000</p></td>
@@ -8361,7 +8361,7 @@ DDR3</p></td>
 <td><p>124.8</p></td>
 <td><p>6</p></td>
 <td><p>264</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -8392,14 +8392,14 @@ DDR3</p></td>
 <th><p>마이크로아키텍처</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>TDP 와트</p></th>
 <th><p>참고</p></th>
 </tr>
@@ -8413,12 +8413,12 @@ DDR3</p></td>
 <td><p>크기 (<a href="https://ko.wikipedia.org/wiki/기비바이트" title="wikilink">GiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -8435,7 +8435,7 @@ DDR3</p></td>
 <td><p>12.6</p></td>
 <td><p>2</p></td>
 <td><p>28.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DDR3_SDRAM" title="wikilink">DDR3 SDRAM</a></p></td>
+<td><p><a href="../Page/DDR3_SDRAM.md" title="wikilink">DDR3 SDRAM</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 W4100</p></td>
@@ -8451,7 +8451,7 @@ DDR3</p></td>
 <td><p>20.16</p></td>
 <td><p>2</p></td>
 <td><p>72</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 W5100</p></td>
@@ -8467,7 +8467,7 @@ DDR3</p></td>
 <td><p>44.64</p></td>
 <td><p>4</p></td>
 <td><p>96</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 W7100</p></td>
@@ -8483,7 +8483,7 @@ DDR3</p></td>
 <td><p>103</p></td>
 <td><p>8</p></td>
 <td><p>160</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 W8100</p></td>
@@ -8499,7 +8499,7 @@ DDR3</p></td>
 <td><p>145</p></td>
 <td><p>8</p></td>
 <td><p>320</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 W9100</p></td>
@@ -8516,7 +8516,7 @@ DDR3</p></td>
 <td><p>16<br />
 32</p></td>
 <td><p>320</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -8530,14 +8530,14 @@ DDR3</p></td>
 <th><p>런치</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>TDP 와트</p></th>
 <th><p>참고</p></th>
 </tr>
@@ -8551,12 +8551,12 @@ DDR3</p></td>
 <td><p>크기 (<a href="https://ko.wikipedia.org/wiki/기비바이트" title="wikilink">GiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 W4300</p></td>
@@ -8571,7 +8571,7 @@ DDR3</p></td>
 <td><p>44.64</p></td>
 <td><p>4</p></td>
 <td><p>96</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -8586,15 +8586,15 @@ DDR3</p></td>
 <th><p>마이크로아키텍처</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">inter-<br />
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">inter-<br />
 face</a></p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>TDP 와트</p></th>
 <th><p>참고</p></th>
 </tr>
@@ -8608,13 +8608,13 @@ face</a></p></th>
 <td><p>크기 (<a href="https://ko.wikipedia.org/wiki/기비바이트" title="wikilink">GiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">SP</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">DP</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct<br />
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct<br />
 X</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">Open GL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">Open CL</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">Open GL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">Open CL</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -8631,7 +8631,7 @@ X</a></p></td>
 <td><p>29</p></td>
 <td><p>2</p></td>
 <td><p>72</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 S7000</p></td>
@@ -8647,7 +8647,7 @@ X</a></p></td>
 <td><p>76</p></td>
 <td><p>4</p></td>
 <td><p>153.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 S7100X</p></td>
@@ -8663,7 +8663,7 @@ X</a></p></td>
 <td><p>92.5</p></td>
 <td><p>8</p></td>
 <td><p>160</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 S7150</p></td>
@@ -8679,7 +8679,7 @@ X</a></p></td>
 <td><p>117.6</p></td>
 <td><p>8</p></td>
 <td><p>160</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 S7150 X2</p></td>
@@ -8695,7 +8695,7 @@ X</a></p></td>
 <td><p>117.6</p></td>
 <td><p>16</p></td>
 <td><p>2x 160</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 S9000</p></td>
@@ -8711,7 +8711,7 @@ X</a></p></td>
 <td><p>100.8</p></td>
 <td><p>6</p></td>
 <td><p>264</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 S9050</p></td>
@@ -8727,7 +8727,7 @@ X</a></p></td>
 <td><p>100.8</p></td>
 <td><p>12</p></td>
 <td><p>264</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|파이어프로 S9150</p></td>
@@ -8743,7 +8743,7 @@ X</a></p></td>
 <td><p>158.4</p></td>
 <td><p>16</p></td>
 <td><p>320</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 S9170</p></td>
@@ -8759,7 +8759,7 @@ X</a></p></td>
 <td><p>163.68</p></td>
 <td><p>32</p></td>
 <td><p>320</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -8807,7 +8807,7 @@ X</a></p></td>
 <td><p>184.8</p></td>
 <td><p>2× 3</p></td>
 <td><p>2× 240</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 S10000 패시브</p></td>
@@ -8823,7 +8823,7 @@ X</a></p></td>
 <td><p>184.8</p></td>
 <td><p>2× 3</p></td>
 <td><p>2× 240</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -8837,14 +8837,14 @@ X</a></p></td>
 <th><p>런치</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>TDP 와트</p></th>
 <th><p>참고</p></th>
 </tr>
@@ -8858,12 +8858,12 @@ X</a></p></td>
 <td><p>크기 (<a href="https://ko.wikipedia.org/wiki/기비바이트" title="wikilink">GiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|라데온 Sky 500</p></td>
@@ -8878,7 +8878,7 @@ X</a></p></td>
 <td><p>76</p></td>
 <td><p>4</p></td>
 <td><p>153.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|라데온 Sky 700</p></td>
@@ -8893,7 +8893,7 @@ X</a></p></td>
 <td><p>100.8</p></td>
 <td><p>6</p></td>
 <td><p>264</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|라데온 Sky 900</p></td>
@@ -8908,21 +8908,21 @@ X</a></p></td>
 <td><p>184.8</p></td>
 <td><p>2× 3</p></td>
 <td><p>2× 240</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ### FireMV (멀티뷰) 시리즈
 
-| 모델                                                        | 런치                                                           | 코어       | [버스](https://ko.wikipedia.org/wiki/버스_\(컴퓨팅\) "wikilink") [인터페이스](https://ko.wikipedia.org/wiki/입출력 "wikilink") | 코어 클럭 (MHz)                                                   | 메모리 클럭 (MHz)                                              | 코어 구성       | [필레이트](https://ko.wikipedia.org/wiki/필레이트 "wikilink") ([GT](https://ko.wikipedia.org/wiki/텍셀_\(그래픽\) "wikilink")/s) | 메모리 | [API](https://ko.wikipedia.org/wiki/API "wikilink") 호환 (버전) | [TDP](https://ko.wikipedia.org/wiki/열_설계_전력 "wikilink") / 유휴 (와트) | 참고  |
-| --------------------------------------------------------- | ------------------------------------------------------------ | -------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------- | --- | ----------------------------------------------------------- | ----------------------------------------------------------------- | --- |
-| 크기 ([MB](https://ko.wikipedia.org/wiki/메가바이트 "wikilink")) | 대역폭 ([GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink")/s) | 버스 유형    | 버스 폭 ([비트](https://ko.wikipedia.org/wiki/비트_\(단위\) "wikilink"))                                                 | [Direct3D](https://ko.wikipedia.org/wiki/Direct3D "wikilink") | [OpenGL](https://ko.wikipedia.org/wiki/OpenGL "wikilink") |             |                                                                                                                     |     |                                                             |                                                                   |     |
-| FireMV 2200 PCI.                                          | 2006년 1월                                                     | RV280 GL | [PCI](https://ko.wikipedia.org/wiki/PCI_버스 "wikilink")                                                          | 240                                                           | 200                                                       | 1:4:4:4     | 0.96                                                                                                                | 64  | 3.2                                                         | DDR                                                               | 64  |
-| FireMV 2200 PCIe.                                         | 2006년 1월                                                     | RV370    | [PCIe](https://ko.wikipedia.org/wiki/PCI_익스프레스 "wikilink") x16                                                  | 324                                                           | 196                                                       | 2:4:4:4     | 1.296                                                                                                               | 128 | 3.2                                                         | DDR                                                               | 64  |
-| FireMV 2260                                               | 2008년 1월                                                     | RV620    | [PCIe](https://ko.wikipedia.org/wiki/PCI_익스프레스 "wikilink") 2.0 x1/x16, PCI                                      | 600                                                           | 500                                                       | 40(8×5):4:4 | 2.4                                                                                                                 | 256 | 32                                                          | [DDR2](https://ko.wikipedia.org/wiki/DDR2_SDRAM "wikilink")       | 256 |
-| FireMV 2400 PCI.                                          | 2008년 1월                                                     | RV380    | [PCI](https://ko.wikipedia.org/wiki/PCI_버스 "wikilink")                                                          | 500                                                           | 500                                                       | 2:4:4:4     | 2.0                                                                                                                 | 128 | 16                                                          | DDR                                                               | 128 |
-| FireMV 2400 PCIe.                                         | 2008년 1월                                                     | RV380    | [PCIe](https://ko.wikipedia.org/wiki/PCI_익스프레스 "wikilink") x1                                                   | 500                                                           | 500                                                       | 2:4:4:4     | 2.0                                                                                                                 | 256 | 16                                                          | DDR3                                                              | 128 |
+| 모델                                     | 런치                                                           | 코어       | [버스](../Page/버스_\(컴퓨팅\).md "wikilink") [인터페이스](../Page/입출력.md "wikilink") | 코어 클럭 (MHz)                                | 메모리 클럭 (MHz)                           | 코어 구성       | [필레이트](https://ko.wikipedia.org/wiki/필레이트 "wikilink") ([GT](https://ko.wikipedia.org/wiki/텍셀_\(그래픽\) "wikilink")/s) | 메모리 | [API](../Page/API.md "wikilink") 호환 (버전) | [TDP](../Page/열_설계_전력.md "wikilink") / 유휴 (와트) | 참고  |
+| -------------------------------------- | ------------------------------------------------------------ | -------- | ------------------------------------------------------------------------- | ------------------------------------------ | -------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------- | --- | ---------------------------------------- | ---------------------------------------------- | --- |
+| 크기 ([MB](../Page/메가바이트.md "wikilink")) | 대역폭 ([GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink")/s) | 버스 유형    | 버스 폭 ([비트](../Page/비트_\(단위\).md "wikilink"))                              | [Direct3D](../Page/Direct3D.md "wikilink") | [OpenGL](../Page/OpenGL.md "wikilink") |             |                                                                                                                     |     |                                          |                                                |     |
+| FireMV 2200 PCI.                       | 2006년 1월                                                     | RV280 GL | [PCI](../Page/PCI_버스.md "wikilink")                                       | 240                                        | 200                                    | 1:4:4:4     | 0.96                                                                                                                | 64  | 3.2                                      | DDR                                            | 64  |
+| FireMV 2200 PCIe.                      | 2006년 1월                                                     | RV370    | [PCIe](../Page/PCI_익스프레스.md "wikilink") x16                               | 324                                        | 196                                    | 2:4:4:4     | 1.296                                                                                                               | 128 | 3.2                                      | DDR                                            | 64  |
+| FireMV 2260                            | 2008년 1월                                                     | RV620    | [PCIe](../Page/PCI_익스프레스.md "wikilink") 2.0 x1/x16, PCI                   | 600                                        | 500                                    | 40(8×5):4:4 | 2.4                                                                                                                 | 256 | 32                                       | [DDR2](../Page/DDR2_SDRAM.md "wikilink")       | 256 |
+| FireMV 2400 PCI.                       | 2008년 1월                                                     | RV380    | [PCI](../Page/PCI_버스.md "wikilink")                                       | 500                                        | 500                                    | 2:4:4:4     | 2.0                                                                                                                 | 128 | 16                                       | DDR                                            | 128 |
+| FireMV 2400 PCIe.                      | 2008년 1월                                                     | RV380    | [PCIe](../Page/PCI_익스프레스.md "wikilink") x1                                | 500                                        | 500                                    | 2:4:4:4     | 2.0                                                                                                                 | 256 | 16                                       | DDR3                                           | 128 |
 
 ### 파이어프로 (멀티뷰) 시리즈
 
@@ -8934,15 +8934,15 @@ X</a></p></td>
 <th><p>코어</p></th>
 <th><p>팹 (nm)</p></th>
 <th><p>트랜지스터 (100만)</p></th>
-<th><p>다이 크기 (<a href="https://ko.wikipedia.org/wiki/제곱미터" title="wikilink">mm</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p>다이 크기 (<a href="../Page/제곱미터.md" title="wikilink">mm</a>)</p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/열_설계_전력" title="wikilink">TDP</a> / 유휴 (와트)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/열_설계_전력.md" title="wikilink">TDP</a> / 유휴 (와트)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -8950,12 +8950,12 @@ X</a></p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a> (OpenCL)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a> (OpenCL)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8971,7 +8971,7 @@ X</a></p></td>
 <td><p>80</p></td>
 <td><p>107</p></td>
 <td><p>100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/PCI_익스프레스" title="wikilink">PCIe</a> x1/x16</p></td>
+<td><p><a href="../Page/PCI_익스프레스.md" title="wikilink">PCIe</a> x1/x16</p></td>
 <td><p>600</p></td>
 <td><p>500</p></td>
 <td><p>2:4:4:4</p></td>
@@ -8988,7 +8988,7 @@ X</a></p></td>
 <td><p>40</p></td>
 <td><p>292</p></td>
 <td><p>59</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/PCI_익스프레스" title="wikilink">PCIe 2.1</a> x1/x16</p></td>
+<td><p><a href="../Page/PCI_익스프레스.md" title="wikilink">PCIe 2.1</a> x1/x16</p></td>
 <td><p>600</p></td>
 <td><p>600</p></td>
 <td><p>80(16×5):8:4:1</p></td>
@@ -8997,7 +8997,7 @@ X</a></p></td>
 <td><p>512<br />
 1024</p></td>
 <td><p>9.6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>파이어프로 2450 멀티뷰</p></td>
@@ -9006,7 +9006,7 @@ X</a></p></td>
 <td><p>55</p></td>
 <td><p>2x 181</p></td>
 <td><p>2x 61</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/PCI_익스프레스" title="wikilink">PCIe</a> 2.0 x1/x16</p></td>
+<td><p><a href="../Page/PCI_익스프레스.md" title="wikilink">PCIe</a> 2.0 x1/x16</p></td>
 <td><p>600</p></td>
 <td><p>600</p></td>
 <td><p>2x 40(8×5):4:4:1</p></td>
@@ -9014,7 +9014,7 @@ X</a></p></td>
 <td><p>4.8</p></td>
 <td><p>512</p></td>
 <td><p>38.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>파이어프로 2460 멀티뷰,</p></td>
@@ -9023,7 +9023,7 @@ X</a></p></td>
 <td><p>40</p></td>
 <td><p>292</p></td>
 <td><p>59</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/PCI_익스프레스" title="wikilink">PCIe</a> 2.1 x16</p></td>
+<td><p><a href="../Page/PCI_익스프레스.md" title="wikilink">PCIe</a> 2.1 x16</p></td>
 <td><p>500</p></td>
 <td><p>500</p></td>
 <td><p>80(16×5):8:4:1</p></td>
@@ -9031,7 +9031,7 @@ X</a></p></td>
 <td><p>4.0</p></td>
 <td><p>512</p></td>
 <td><p>32</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -9045,23 +9045,23 @@ X</a></p></td>
 <th><p>런치</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>클럭 속도</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/스트림_프로세싱" title="wikilink">스트림 프로세서</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/랜덤_액세스_메모리" title="wikilink">메모리</a></p></th>
+<th><p><a href="../Page/랜덤_액세스_메모리.md" title="wikilink">메모리</a></p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/열_설계_전력" title="wikilink">TDP</a> <a href="https://ko.wikipedia.org/wiki/와트" title="wikilink">와트</a></p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/열_설계_전력.md" title="wikilink">TDP</a> <a href="../Page/와트.md" title="wikilink">와트</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/GPGPU" title="wikilink">GPGPU</a> (MHz)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랜덤_액세스_메모리" title="wikilink">RAM</a> (MHz)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p><a href="../Page/랜덤_액세스_메모리.md" title="wikilink">RAM</a> (MHz)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
 <td></td>
@@ -9139,14 +9139,14 @@ X</a></p></td>
 <th><p>런치</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>TDP 와트</p></th>
 <th><p>참고</p></th>
 </tr>
@@ -9157,22 +9157,22 @@ X</a></p></td>
 <td><p>메모리 (MHz)</p></td>
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct 3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">Open GL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">Open CL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct 3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">Open GL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">Open CL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|파이어프로 RG220</p></td>
 <td><p>2010년 5월</p></td>
 <td><p>RV711</p></td>
 <td><p>55</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/PCI_익스프레스" title="wikilink">PCIe</a> 2.0 x16</p></td>
+<td><p><a href="../Page/PCI_익스프레스.md" title="wikilink">PCIe</a> 2.0 x16</p></td>
 <td><p>500</p></td>
 <td><p>800</p></td>
 <td><p>80(16×5):8:4:1</p></td>
@@ -9180,7 +9180,7 @@ X</a></p></td>
 <td><p>4.0</p></td>
 <td><p>512</p></td>
 <td><p>12.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a> (GPU,<br />
+<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a> (GPU,<br />
 RDRAM for PCoIP용)</p></td>
 </tr>
 <tr class="odd">
@@ -9196,7 +9196,7 @@ RDRAM for PCoIP용)</p></td>
 <td><p>39.6</p></td>
 <td><p>2048</p></td>
 <td><p>102.4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -9211,14 +9211,14 @@ RDRAM for PCoIP용)</p></td>
 <th><p>마이크로아키텍처</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>클럭 속도</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>TDP 와트</p></th>
 <th><p>참고</p></th>
 </tr>
@@ -9232,13 +9232,13 @@ RDRAM for PCoIP용)</p></td>
 <td><p>크기 (<a href="https://ko.wikipedia.org/wiki/기비바이트" title="wikilink">GiB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">SP</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">DP</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct<br />
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct<br />
 X</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">Open GL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">Open CL</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">Open GL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">Open CL</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -9255,7 +9255,7 @@ X</a></p></td>
 <td></td>
 <td><p>4</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|라데온 프로 WX 5100</p></td>
@@ -9271,7 +9271,7 @@ X</a></p></td>
 <td></td>
 <td><p>8</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|라데온 프로 WX 7100</p></td>
@@ -9287,7 +9287,7 @@ X</a></p></td>
 <td></td>
 <td><p>8</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GDDR5" title="wikilink">GDDR5</a></p></td>
+<td><p><a href="../Page/GDDR5.md" title="wikilink">GDDR5</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -9304,15 +9304,15 @@ X</a></p></td>
 <th><p>모델 번호</p></th>
 <th><p>기반</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -9320,13 +9320,13 @@ X</a></p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct 3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">Open GL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct 3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">Open GL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9539,7 +9539,7 @@ X</a></p></td>
 <th><p>모델 번호</p></th>
 <th><p>기반</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>메모리 클럭 (MHz)</p></th>
 <th><p>코어<br />
@@ -9547,8 +9547,8 @@ X</a></p></td>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -9556,15 +9556,15 @@ X</a></p></td>
 <tr class="odd">
 <td><p>픽셀 (<a href="https://ko.wikipedia.org/wiki/화소" title="wikilink">GP</a>/s)</p></td>
 <td><p>텍스처 (<a href="https://ko.wikipedia.org/wiki/텍셀_(그래픽)" title="wikilink">GT</a>/s)</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메가바이트" title="wikilink">MB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메가바이트.md" title="wikilink">MB</a>)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>버스 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Single_precision_floating-point_format" title="wikilink">단일 정밀도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Double_precision_floating-point_format" title="wikilink">배정밀도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Direct3D" title="wikilink">Direct 3D</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">Open GL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenCL" title="wikilink">Open CL</a></p></td>
+<td><p><a href="../Page/Direct3D.md" title="wikilink">Direct 3D</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">Open GL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">Open CL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9927,14 +9927,14 @@ X</a></p></td>
 <th><p>런치</p></th>
 <th><p>코드명</p></th>
 <th><p>팹 (nm)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/버스_(컴퓨팅)" title="wikilink">버스</a> <a href="https://ko.wikipedia.org/wiki/입출력" title="wikilink">인터페이스</a></p></th>
+<th><p><a href="../Page/버스_(컴퓨팅).md" title="wikilink">버스</a> <a href="../Page/입출력.md" title="wikilink">인터페이스</a></p></th>
 <th><p>코어 클럭 (MHz)</p></th>
 <th><p>코어 구성</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/필레이트" title="wikilink">필레이트</a></p></th>
 <th><p>메모리</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/API" title="wikilink">API</a> 호환 (버전)</p></th>
+<th><p><a href="../Page/API.md" title="wikilink">API</a> 호환 (버전)</p></th>
 <th><p>처리 능력<br />
-(<a href="https://ko.wikipedia.org/wiki/플롭스" title="wikilink">플롭스</a>)</p></th>
+(<a href="../Page/플롭스.md" title="wikilink">플롭스</a>)</p></th>
 <th><p>참고</p></th>
 </tr>
 </thead>
@@ -9944,17 +9944,17 @@ X</a></p></td>
 <td><p>M픽셀/s</p></td>
 <td><p>M텍스텔/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>크기 (<a href="https://ko.wikipedia.org/wiki/메비바이트" title="wikilink">MiB</a>)</p></td>
+<td><p>크기 (<a href="../Page/메비바이트.md" title="wikilink">MiB</a>)</p></td>
 <td><p>클럭 (MHz)</p></td>
 <td><p>대역폭 (<a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a>/s)</p></td>
 <td><p>RAM 유형</p></td>
-<td><p>버스 폭 (<a href="https://ko.wikipedia.org/wiki/비트_(단위)" title="wikilink">비트</a>)</p></td>
+<td><p>버스 폭 (<a href="../Page/비트_(단위).md" title="wikilink">비트</a>)</p></td>
 <td><p>Direct3D</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/OpenGL" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p>기타</p></td>
 </tr>
 <tr class="even">
-<td><p>|<a href="https://ko.wikipedia.org/wiki/닌텐도_게임큐브_기술_사양" title="wikilink">플리퍼</a> (<a href="https://ko.wikipedia.org/wiki/닌텐도_게임큐브" title="wikilink">게임큐브</a>)</p></td>
+<td><p>|<a href="https://ko.wikipedia.org/wiki/닌텐도_게임큐브_기술_사양" title="wikilink">플리퍼</a> (<a href="../Page/닌텐도_게임큐브.md" title="wikilink">게임큐브</a>)</p></td>
 <td><p>2001년 9월 14일</p></td>
 <td></td>
 <td><p>180</p></td>
@@ -9970,7 +9970,7 @@ X</a></p></td>
 3 eDRAM</p></td>
 </tr>
 <tr class="odd">
-<td><p>|<a href="https://ko.wikipedia.org/wiki/제노스" title="wikilink">Xenos</a> (<a href="https://ko.wikipedia.org/wiki/엑스박스_360" title="wikilink">엑스박스 360</a>)</p></td>
+<td><p>|<a href="../Page/제노스.md" title="wikilink">Xenos</a> (<a href="../Page/엑스박스_360.md" title="wikilink">엑스박스 360</a>)</p></td>
 <td><p>2005년 11월 22일</p></td>
 <td><p>Xenon<br />
 Zephyr<br />
@@ -9997,7 +9997,7 @@ Corona</p></td>
 10 eDRAM</p></td>
 </tr>
 <tr class="even">
-<td><p>|<a href="https://ko.wikipedia.org/wiki/할리우드_(그래픽스_칩)" title="wikilink">할리우드</a> (<a href="https://ko.wikipedia.org/wiki/Wii" title="wikilink">Wii</a>)</p></td>
+<td><p>|<a href="https://ko.wikipedia.org/wiki/할리우드_(그래픽스_칩)" title="wikilink">할리우드</a> (<a href="../Page/Wii.md" title="wikilink">Wii</a>)</p></td>
 <td><p>2006년 11월 19일</p></td>
 <td><p>할리우드</p></td>
 <td><p>90</p></td>
@@ -10013,7 +10013,7 @@ Corona</p></td>
 3 eDRAM</p></td>
 </tr>
 <tr class="odd">
-<td><p>|<a href="https://ko.wikipedia.org/wiki/Wii_U" title="wikilink">라테</a> (<a href="https://ko.wikipedia.org/wiki/Wii_U" title="wikilink">Wii U</a>)</p></td>
+<td><p>|<a href="../Page/Wii_U.md" title="wikilink">라테</a> (<a href="../Page/Wii_U.md" title="wikilink">Wii U</a>)</p></td>
 <td><p>2012년 11월 18일</p></td>
 <td><p>라테</p></td>
 <td><p>45</p></td>
@@ -10028,7 +10028,7 @@ Corona</p></td>
 32 eDRAM</p></td>
 </tr>
 <tr class="even">
-<td><p>|리버풀 (<a href="https://ko.wikipedia.org/wiki/플레이스테이션_4" title="wikilink">플레이스테이션 4</a>)</p></td>
+<td><p>|리버풀 (<a href="../Page/플레이스테이션_4.md" title="wikilink">플레이스테이션 4</a>)</p></td>
 <td><p>2013년 11월 15일</p></td>
 <td><p>리버풀 (GCN 기반)</p></td>
 <td><p>28</p></td>

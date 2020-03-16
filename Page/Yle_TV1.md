@@ -3,13 +3,13 @@
 
 **YLE TV1**(yle TV Yksi)는 [핀란드 국영 방송](https://ko.wikipedia.org/wiki/핀란드_국영_방송 "wikilink")(YLE)에서 운영하는 텔레비전 채널이다.
 
-YLE TV1의 프로그램 중 70% 이상이 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink"), [뉴스](https://ko.wikipedia.org/wiki/뉴스 "wikilink") 및 교육 관련 프로그램으로 방송한다. 2011년 기준으로 23.3%,\[1\] 2014년 기준으로 26.4%의 시청률을 보유하였다.\[2\]
+YLE TV1의 프로그램 중 70% 이상이 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink"), [뉴스](../Page/뉴스.md "wikilink") 및 교육 관련 프로그램으로 방송한다. 2011년 기준으로 23.3%,\[1\] 2014년 기준으로 26.4%의 시청률을 보유하였다.\[2\]
 
 ## 역사
 
-YLE TV1은 [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [1월 1일에](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") **Suomen Televisio**란 이름으로 방송을 시작하였다. 1964년 TV-ohjelma 2 (현 YLE TV2)가 개국하면서 TV-ohjelma 1로 변경하였다. 1969년에 [컬러 텔레비전](https://ko.wikipedia.org/wiki/컬러_텔레비전 "wikilink") 방송을 실시하였고, [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")에 YLE TV1란 이름으로 변경하였다.
+YLE TV1은 [1958년](../Page/1958년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") **Suomen Televisio**란 이름으로 방송을 시작하였다. 1964년 TV-ohjelma 2 (현 YLE TV2)가 개국하면서 TV-ohjelma 1로 변경하였다. 1969년에 [컬러 텔레비전](../Page/컬러_텔레비전.md "wikilink") 방송을 실시하였고, [1971년](../Page/1971년.md "wikilink")에 YLE TV1란 이름으로 변경하였다.
 
-2014년 1월 28일에는 YLE TV1의 [HD](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 방송을 시작하였다.
+2014년 1월 28일에는 YLE TV1의 [HD](../Page/고선명_텔레비전.md "wikilink") 방송을 시작하였다.
 
 ## 주요 프로그램
 

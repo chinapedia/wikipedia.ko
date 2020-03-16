@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SATA ](https://ko.wikipedia.org/wiki/SATA_).
 
 
-**SATA 익스프레스**(SATA Express, Serial ATA Express의 준말, 가끔 비공식적으로 SATAe로 줄여서 언급)는 [시리얼 ATA](https://ko.wikipedia.org/wiki/SATA "wikilink")(SATA)와 [PCI 익스프레스](https://ko.wikipedia.org/wiki/PCI_익스프레스 "wikilink")(PCIe) 기억 장치들을 둘 다 지원하는 [컴퓨터 버스](https://ko.wikipedia.org/wiki/컴퓨터_버스 "wikilink") 인터페이스로서, 처음에 [SATA 3.2](https://ko.wikipedia.org/wiki/SATA "wikilink") 사양으로 표준화되었다.\[1\] 호스트 측의 SATA 익스프레스의 단자는 표준 [3.5인치 SATA 데이터 단자와](https://ko.wikipedia.org/wiki/3.5인치_SATA_데이터_단자 "wikilink") [하위 호환되며](https://ko.wikipedia.org/wiki/하위_호환성 "wikilink"),\[2\] 기억 장치에 대한 순수 PCI 익스프레스 연결로서 두 개의 [PCI 익스프레스 레인도](https://ko.wikipedia.org/wiki/PCI_익스프레스_레인 "wikilink") 제공한다.\[3\]
+**SATA 익스프레스**(SATA Express, Serial ATA Express의 준말, 가끔 비공식적으로 SATAe로 줄여서 언급)는 [시리얼 ATA](https://ko.wikipedia.org/wiki/SATA "wikilink")(SATA)와 [PCI 익스프레스](../Page/PCI_익스프레스.md "wikilink")(PCIe) 기억 장치들을 둘 다 지원하는 [컴퓨터 버스](https://ko.wikipedia.org/wiki/컴퓨터_버스 "wikilink") 인터페이스로서, 처음에 [SATA 3.2](https://ko.wikipedia.org/wiki/SATA "wikilink") 사양으로 표준화되었다.\[1\] 호스트 측의 SATA 익스프레스의 단자는 표준 [3.5인치 SATA 데이터 단자와](https://ko.wikipedia.org/wiki/3.5인치_SATA_데이터_단자 "wikilink") [하위 호환되며](../Page/하위_호환성.md "wikilink"),\[2\] 기억 장치에 대한 순수 PCI 익스프레스 연결로서 두 개의 [PCI 익스프레스 레인도](https://ko.wikipedia.org/wiki/PCI_익스프레스_레인 "wikilink") 제공한다.\[3\]
 
-각 주요 버전을 통해 SATA 인터페이스의 네티이브 속도를 두 배로 만들지 않는 대신, SATA 3.2 사양은 PCI 익스프레스 [버스를](https://ko.wikipedia.org/wiki/컴퓨터_버스 "wikilink") 포함하여 [SATA 3.0](https://ko.wikipedia.org/wiki/SATA_3.0 "wikilink") 속도 제한인 6 [Gbit/초](https://ko.wikipedia.org/wiki/Gbit/초 "wikilink") 보다 더 높은 데이터 전송 속도를 달성한다. SATA 인터페이스의 설계자는 네이티브 SATA 속도를 두 배로 만드는 것은 [솔리드 스테이트 드라이브](https://ko.wikipedia.org/wiki/솔리드_스테이트_드라이브 "wikilink")(SSD) 기술의 진보를 따라잡는데 너무 많은 시간이 걸리고,\[4\] SATA 표준에 너무 많은 변경이 필요하며 기존 PCI 익스프레스 버스에 비해 전력 소비량이 훨씬 더 커질 것이라고 결론내렸다.\[5\]\[6\] 널리 채택된 컴퓨터 버스인 PCI 익스프레스는 충분한 대역을 제공하면서도 더 빠른 추가 [레인을](https://ko.wikipedia.org/wiki/PCI_익스프레스_레인 "wikilink") 사용하여 쉬운 확장을 허용한다.\[7\]
+각 주요 버전을 통해 SATA 인터페이스의 네티이브 속도를 두 배로 만들지 않는 대신, SATA 3.2 사양은 PCI 익스프레스 [버스를](https://ko.wikipedia.org/wiki/컴퓨터_버스 "wikilink") 포함하여 [SATA 3.0](https://ko.wikipedia.org/wiki/SATA_3.0 "wikilink") 속도 제한인 6 [Gbit/초](https://ko.wikipedia.org/wiki/Gbit/초 "wikilink") 보다 더 높은 데이터 전송 속도를 달성한다. SATA 인터페이스의 설계자는 네이티브 SATA 속도를 두 배로 만드는 것은 [솔리드 스테이트 드라이브](../Page/솔리드_스테이트_드라이브.md "wikilink")(SSD) 기술의 진보를 따라잡는데 너무 많은 시간이 걸리고,\[4\] SATA 표준에 너무 많은 변경이 필요하며 기존 PCI 익스프레스 버스에 비해 전력 소비량이 훨씬 더 커질 것이라고 결론내렸다.\[5\]\[6\] 널리 채택된 컴퓨터 버스인 PCI 익스프레스는 충분한 대역을 제공하면서도 더 빠른 추가 [레인을](https://ko.wikipedia.org/wiki/PCI_익스프레스_레인 "wikilink") 사용하여 쉬운 확장을 허용한다.\[7\]
 
-논리 인터페이스 수준의 레거시 [AHCI](https://ko.wikipedia.org/wiki/AHCI "wikilink")를 지원할 뿐 아니라 SATA 익스프레스는 또한 PCI 익스프레스 부착 기억 장치에 대해 [NVM 익스프레스](../Page/NVM_익스프레스.md "wikilink")(NVMe)를 논리 장치 인터페이스로 지원한다. AHCI에 대한 지원이 레거시 SATA 장치와 레거시 [운영 체제와의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 소프트웨어 수준의 하위 호환성을 보장하지만, NVM 익스프레스는 [병렬로](https://ko.wikipedia.org/wiki/병렬화 "wikilink") 운영되는 수많은 [입출력](https://ko.wikipedia.org/wiki/입출력 "wikilink") 기능을 수행함으로써 고속의 PCI 익스프레스 기억 장치를 완전히 이용하도록 설계되어 있다.\[8\]
+논리 인터페이스 수준의 레거시 [AHCI](https://ko.wikipedia.org/wiki/AHCI "wikilink")를 지원할 뿐 아니라 SATA 익스프레스는 또한 PCI 익스프레스 부착 기억 장치에 대해 [NVM 익스프레스](../Page/NVM_익스프레스.md "wikilink")(NVMe)를 논리 장치 인터페이스로 지원한다. AHCI에 대한 지원이 레거시 SATA 장치와 레거시 [운영 체제와의](../Page/운영_체제.md "wikilink") 소프트웨어 수준의 하위 호환성을 보장하지만, NVM 익스프레스는 [병렬로](https://ko.wikipedia.org/wiki/병렬화 "wikilink") 운영되는 수많은 [입출력](../Page/입출력.md "wikilink") 기능을 수행함으로써 고속의 PCI 익스프레스 기억 장치를 완전히 이용하도록 설계되어 있다.\[8\]
 
 ## 역사
 
@@ -19,12 +19,12 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SATA_Express_interface.svg "wikilink") SATA 익스프레스 인터페이스는 동일한 호스트 측 SATA 익스프레스 단자를 통해 두 개의 PCI 익스프레스 2.0 또는 3.0 레인과 두 개의 SATA 3.0 (6 Gbit/초) 포트를 노출시킴으로써 PCI 익스프레스와 SATA 기억 장치를 둘 다 지원한다. 노출된 PCI 익스프레스 레인은 추가적인 버스 추상화 계층 없이 호스트와 기억 장치 간의 순수 PCI 익스프레스 연결을 제공한다.\[19\]\[20\] 2013년 8월 기준으로 골드 리비전에 있는 [SATA 리비전 3.2](https://ko.wikipedia.org/wiki/SATA_3.2 "wikilink") 사양은 SATA 익스프레스를 표준화하며 하드웨어 레이아웃과 전기적 매개변수를 규정한다.\[21\]\[22\]
 
-PCI 익스프레스를 선택하면 또한 여러 레인과 각기 다른 버전의 PCI 익스프레스를 사용하여 SATA 익스프레스 인터페이스의 성능을 확장할 수 있다. 더 자세히 설명하면, 두 개의 PCI 익스프레스 2.0 레인을 사용하면 총 1 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink")/초의 대역을 제공하며, 이론상 2 × 5 [GT](https://ko.wikipedia.org/wiki/기가트랜스퍼 "wikilink")/초의 순수 데이터 속도, 효율이 좋을 때의 실질적으로는 1000 [MB](https://ko.wikipedia.org/wiki/메가바이트 "wikilink")/초의 [8b/10b 인코딩과](https://ko.wikipedia.org/wiki/8b/10b_인코딩 "wikilink") 맞먹는 반면 두 개의 [PCI 익스프레스 3.0를](https://ko.wikipedia.org/wiki/PCI_익스프레스_3.0 "wikilink") 사용하면 2 GB/초에 가까운 성능을 제공하며 이론적으로 2 × 8 GT/초의 순수 데이터 속도를, 효율이 좋을 때의 실질적으로는 1969 MB/초와 맞먹는다.\[23\]\[24\]
+PCI 익스프레스를 선택하면 또한 여러 레인과 각기 다른 버전의 PCI 익스프레스를 사용하여 SATA 익스프레스 인터페이스의 성능을 확장할 수 있다. 더 자세히 설명하면, 두 개의 PCI 익스프레스 2.0 레인을 사용하면 총 1 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink")/초의 대역을 제공하며, 이론상 2 × 5 [GT](https://ko.wikipedia.org/wiki/기가트랜스퍼 "wikilink")/초의 순수 데이터 속도, 효율이 좋을 때의 실질적으로는 1000 [MB](../Page/메가바이트.md "wikilink")/초의 [8b/10b 인코딩과](https://ko.wikipedia.org/wiki/8b/10b_인코딩 "wikilink") 맞먹는 반면 두 개의 [PCI 익스프레스 3.0를](https://ko.wikipedia.org/wiki/PCI_익스프레스_3.0 "wikilink") 사용하면 2 GB/초에 가까운 성능을 제공하며 이론적으로 2 × 8 GT/초의 순수 데이터 속도를, 효율이 좋을 때의 실질적으로는 1969 MB/초와 맞먹는다.\[23\]\[24\]
 
 논리 장치 인터페이스의 경우 3가지 옵션이 지원되며 그 외에 SATA 익스프레스 컨트롤러에 연결되는 기억 장치와의 통신을 위한 명령 집합도 제공된다:\[25\]\[26\]
 
   - 레거시 SATA
-    레거시 SATA 장치와의 [하위 호환성을](https://ko.wikipedia.org/wiki/하위_호환성 "wikilink") 위해 사용되며 AHCI 드라이버 및 SATA 익스프레스 컨트롤러가 제공하는 레거시 SATA 3.0 (6 Gbit/초) 포트를 통해 통신한다.
+    레거시 SATA 장치와의 [하위 호환성을](../Page/하위_호환성.md "wikilink") 위해 사용되며 AHCI 드라이버 및 SATA 익스프레스 컨트롤러가 제공하는 레거시 SATA 3.0 (6 Gbit/초) 포트를 통해 통신한다.
 
 <!-- end list -->
 

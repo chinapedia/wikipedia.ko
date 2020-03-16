@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WDBJ](https://ko.wikipedia.org/wiki/WDBJ).
 
 
-**WDBJ**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [버지니아주](https://ko.wikipedia.org/wiki/버지니아주 "wikilink")의 [로어노크를](../Page/로어노크_\(버지니아주\).md "wikilink") 권역으로 하는 지역 방송국이다. 채널 번호는 7번으로 부채널인 7.1에는 [CBS](https://ko.wikipedia.org/wiki/CBS "wikilink")를, 7.2에는 [마이네트워크TV](https://ko.wikipedia.org/wiki/마이네트워크TV "wikilink")를 방송한다. 모회사는 "Schurz Communications"이다.
+**WDBJ**는 [미국](../Page/미국.md "wikilink") [버지니아주](../Page/버지니아주.md "wikilink")의 [로어노크를](../Page/로어노크_\(버지니아주\).md "wikilink") 권역으로 하는 지역 방송국이다. 채널 번호는 7번으로 부채널인 7.1에는 [CBS](https://ko.wikipedia.org/wiki/CBS "wikilink")를, 7.2에는 [마이네트워크TV](../Page/마이네트워크TV.md "wikilink")를 방송한다. 모회사는 "Schurz Communications"이다.
 
 ## 역사
 

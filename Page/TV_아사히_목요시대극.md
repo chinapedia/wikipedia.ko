@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
 
 
-**TV 아사히 목요일 시대극**은 1971년부터 2001년까지 [TV 아사히로](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 존재하는 [시대극](https://ko.wikipedia.org/wiki/시대극 "wikilink") 전문 방송 시간대. 19시 시간대와 20시 시간대 및 22시 시간대의 3종류 존재했다.
+**TV 아사히 목요일 시대극**은 1971년부터 2001년까지 [TV 아사히로](../Page/TV_아사히.md "wikilink") 존재하는 [시대극](https://ko.wikipedia.org/wiki/시대극 "wikilink") 전문 방송 시간대. 19시 시간대와 20시 시간대 및 22시 시간대의 3종류 존재했다.
 
 ## 방송된 작품
 
@@ -66,7 +66,7 @@
   - 1995년 9월 - 1996년 3월 - 명봉행 토야마의 킨 씨 (제7기)
   - 1996년 4월 - 1996년 9월 - [오에도 변호인 달린다\!](https://ko.wikipedia.org/wiki/오에도_변호인_달린다! "wikilink")
   - 1996년 10월 - 1997년 3월 - [쾌도\! 유메이치자 7변화](https://ko.wikipedia.org/wiki/쾌도!_유메이치자_7변화 "wikilink")
-  - 1997년 4월 - 1997년 6월 - [시바 료타로의](https://ko.wikipedia.org/wiki/시바_료타로 "wikilink") [공명의 갈림길](https://ko.wikipedia.org/wiki/공명의_갈림길 "wikilink")
+  - 1997년 4월 - 1997년 6월 - [시바 료타로의](../Page/시바_료타로.md "wikilink") [공명의 갈림길](https://ko.wikipedia.org/wiki/공명의_갈림길 "wikilink")
   - 1997년 7월 - 1997년 9월 - [후지사와 슈헤이의](https://ko.wikipedia.org/wiki/후지사와_슈헤이 "wikilink") [경호원 지츠게츠쇼](https://ko.wikipedia.org/wiki/경호원_지츠게츠쇼 "wikilink")
   - 1997년 10월 - 1998년 3월 - [신·온쥬쿠 카와세미](https://ko.wikipedia.org/wiki/온쥬쿠_카와세미 "wikilink")
   - 1998년 4월 - 1998년 6월 - [카게무샤 도쿠가와 이에야스](https://ko.wikipedia.org/wiki/카게무샤_도쿠가와_이에야스 "wikilink")

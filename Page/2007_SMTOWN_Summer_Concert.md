@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2007 SMTOWN Summer Concert](https://ko.wikipedia.org/wiki/2007_SMTOWN_Summer_Concert).
 
 
-《**2007 SMTOWN Summer Concert**》는 [SM 엔터테인먼트](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 소속 가수들의 첫 번째 합동 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**2007 SMTOWN Summer Concert**》는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속 가수들의 첫 번째 합동 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 라인업
 
@@ -28,7 +28,7 @@
 <tr class="even">
 <td><p>2007년 6월 30일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a></p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a></p></td>
 <td><p>통산 24,000명</p></td>
 <td></td>
 </tr>
@@ -60,7 +60,7 @@
 
 ## 제작
 
-  - 주최 : [SM 엔터테인먼트](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink")
+  - 주최 : [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink")
   - 주관 : 벤드빌리스, 엔이알 엔터테인먼트
   - 후원 : 티켓링크
 

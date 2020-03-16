@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JUNJIN 2015 ASIA TOUR REAL](https://ko.wikipedia.org/wiki/JUNJIN_2015_ASIA_TOUR_REAL).
 
 
-**JUNJIN 2015 ASIA TOUR \#REAL\#**은 [신화의](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") 멤버 [전진의](https://ko.wikipedia.org/wiki/전진_\(가수\) "wikilink") 세 번째 콘서트 투어이다.\[1\]
+**JUNJIN 2015 ASIA TOUR \#REAL\#**은 [신화의](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") 멤버 [전진의](../Page/전진_\(가수\).md "wikilink") 세 번째 콘서트 투어이다.\[1\]
 
 ## 투어 일정
 
@@ -70,12 +70,12 @@
 
 ## 요일별 게스트
 
-| 일정            | 게스트                                                      |
-| ------------- | -------------------------------------------------------- |
-| 2015년 10월 24일 | [에릭](https://ko.wikipedia.org/wiki/에릭_\(가수\) "wikilink") |
-| 2016년 2월 6일   | 황명흠                                                      |
-| 2016년 2월 7일   | [신혜성](https://ko.wikipedia.org/wiki/신혜성 "wikilink")      |
-|               |                                                          |
+| 일정            | 게스트                                   |
+| ------------- | ------------------------------------- |
+| 2015년 10월 24일 | [에릭](../Page/에릭_\(가수\).md "wikilink") |
+| 2016년 2월 6일   | 황명흠                                   |
+| 2016년 2월 7일   | [신혜성](../Page/신혜성.md "wikilink")      |
+|               |                                       |
 
 ## 제작
 

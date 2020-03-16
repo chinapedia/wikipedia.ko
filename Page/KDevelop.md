@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [KDevelop](https://ko.wikipedia.org/wiki/KDevelop).
 
 
-**KDevelop**은 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 컴퓨터 [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") [KDE 플랫폼을](https://ko.wikipedia.org/wiki/KDE_플랫폼 "wikilink") 위한 [자유 소프트웨어](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") [통합 개발 환경](https://ko.wikipedia.org/wiki/통합_개발_환경 "wikilink")(IDE)이다. KDevelop은 [컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink")가 포함되어 있지 않은 대신, [GCC나](https://ko.wikipedia.org/wiki/GNU_컴파일러_모음 "wikilink") [클랭](../Page/클랭.md "wikilink")과 같은 외부 컴파일러를 사용하여 [실행](https://ko.wikipedia.org/wiki/실행_파일 "wikilink") 이진 파일을 만들어낸다.
+**KDevelop**은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 컴퓨터 [운영 체제의](../Page/운영_체제.md "wikilink") [KDE 플랫폼을](https://ko.wikipedia.org/wiki/KDE_플랫폼 "wikilink") 위한 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") [통합 개발 환경](../Page/통합_개발_환경.md "wikilink")(IDE)이다. KDevelop은 [컴파일러](../Page/컴파일러.md "wikilink")가 포함되어 있지 않은 대신, [GCC나](../Page/GNU_컴파일러_모음.md "wikilink") [클랭](../Page/클랭.md "wikilink")과 같은 외부 컴파일러를 사용하여 [실행](../Page/실행_파일.md "wikilink") 이진 파일을 만들어낸다.
 
 ## 같이 보기
 
-  - [Code::Blocks](https://ko.wikipedia.org/wiki/Code::Blocks "wikilink")
+  - [Code::Blocks](../Page/Code::Blocks.md "wikilink")
   - [코드라이트](https://ko.wikipedia.org/wiki/코드라이트 "wikilink")
 
 ## 각주

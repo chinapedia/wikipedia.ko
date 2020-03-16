@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Crush \( \)](https://ko.wikipedia.org/wiki/Crush_\(_\)).
 
 
-〈**Crush**〉(크러쉬)는 [아이오아이](../Page/아이오아이.md "wikilink")의 싱글이다. 2016년 4월 5일에 [CJ E\&M에서](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink") 발매됐다.
+〈**Crush**〉(크러쉬)는 [아이오아이](../Page/아이오아이.md "wikilink")의 싱글이다. 2016년 4월 5일에 [CJ E\&M에서](../Page/CJ_E&M.md "wikilink") 발매됐다.
 
 ## 뮤직비디오 논란
 
@@ -21,7 +21,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 (<a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>)[3]</p></td>
+<td><p>대한민국 (<a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>)[3]</p></td>
 <td><p>12</p></td>
 </tr>
 <tr class="even">

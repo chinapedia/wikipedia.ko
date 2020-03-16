@@ -9,7 +9,7 @@
 
 ## 외부 링크
 
-  - [Angel, DABDAB](http://music.naver.com/album/index.nhn?albumId=659859) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
+  - [Angel, DABDAB](http://music.naver.com/album/index.nhn?albumId=659859) - [네이버](../Page/네이버.md "wikilink") 뮤직
 
   - [Angel, DABDAB](http://www.melon.com/album/detail.htm?albumId=2707925) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink")
 

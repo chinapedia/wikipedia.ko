@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Nowisee](https://ko.wikipedia.org/wiki/Nowisee).
 
 
-**nowisee**(노이즈, )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 음악 유닛이다.
+**nowisee**(노이즈, )는 [일본](../Page/일본.md "wikilink")의 음악 유닛이다.
 
 ## 개요
 
@@ -14,13 +14,13 @@
   - **Strange Octave** : [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
       -
         멤버 중에서 유일한 여성 멤버이다. 이름은 그녀 자신이 “자유분방한 괴짜”인 것에 유래한다.
-  - **Minimum Root** : [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - **Minimum Root** : [기타](../Page/기타.md "wikilink")
       -
         밴드 마스터, 멤버 중에서 가장 연장자이며, 가장 키가 작다. 이름도 작은 키에서 유래한다.
-  - **Add Fat** : [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - **Add Fat** : [기타](../Page/기타.md "wikilink")
       -
         이름은 “부가9화음(Add9th Chord)를 많이 사용하고 비만체형”인 것에서 유래한다.
-  - **Turtle 7th** : [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")
+  - **Turtle 7th** : [피아노](../Page/피아노.md "wikilink")
       -
         이름은 “7화음(7th Chord)을 많이 사용하며, [거북이](https://ko.wikipedia.org/wiki/거북이 "wikilink")를 기르고 있다”는 것에서 유래한다.
   - **Chotto Unison** : 베이스
@@ -38,36 +38,36 @@
 
 ### 디지털 싱글
 
-| 제목               | 공개일              | 비고                                                                                                              |
-| ---------------- | ---------------- | --------------------------------------------------------------------------------------------------------------- |
-| 일본어 제목           | 한국어 제목           | 애플리케이션                                                                                                          |
-| 일본               | 대한민국             |                                                                                                                 |
-| ****             | Vibration        | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") |
-| ****             | HardBoiled       | 2015년 [9월 8일](https://ko.wikipedia.org/wiki/9월_8일 "wikilink")                                                   |
-| **bluemoon**     | Bluemoon         | 2015년 [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink")                                                 |
-| ****             | 고독한 개            | 2015년 [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink")                                                 |
-| ****             | Platanas         | 2015년 [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink")                                                 |
-| ****             | Nano             | [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 8일](https://ko.wikipedia.org/wiki/1월_8일 "wikilink") |
-| **confusion**    | Confusion        | 2016년 [2월 8일](https://ko.wikipedia.org/wiki/2월_8일 "wikilink")                                                   |
-| ****             | 완전성 세계에 머무는 사각   | 2016년 [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink")                                                   |
-| ****             | 미학               | 2016년 [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink")                                                   |
-| **VIEWER**       | Viewer           | 2016년 [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink")                                                   |
-| ****             | Alternative Love | 2016년 [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink")                                                   |
-| ****             | 만나고 싶어           | 2016년 [7월 8일](https://ko.wikipedia.org/wiki/7월_8일 "wikilink")                                                   |
-| ****             |                  | 2016년 [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink")                                                   |
-| ****             | Lifeline         | 2016년 [9월 8일](https://ko.wikipedia.org/wiki/9월_8일 "wikilink")                                                   |
-| **EDGE**         | Edge             | 2016년 [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink")                                                 |
-| ****             |                  | 2016년 [11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink")                                                 |
-| ****             |                  | 2016년 [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink")                                                 |
-| ****             |                  | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월 8일](https://ko.wikipedia.org/wiki/1월_8일 "wikilink") |
-| ****             |                  | 2017년 [2월 8일](https://ko.wikipedia.org/wiki/2월_8일 "wikilink")                                                   |
-| **'**            |                  | 2017년 [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink")                                                   |
-| **Ego-Rhythm**   | Ego-Rhythm       | 2017년 [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink")                                                   |
-| **single track** | single track     | 2017년 [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink")                                                   |
-| **'**            |                  | 2017년 [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink")                                                   |
-| **re**           | re               | 2017년 [7월 8일](https://ko.wikipedia.org/wiki/7월_8일 "wikilink")                                                   |
-| **ALIVE**        | ALIVE            |                                                                                                                 |
-| **re/ALIVE**     | re/ALIVE         |                                                                                                                 |
+| 제목               | 공개일              | 비고                                                                        |
+| ---------------- | ---------------- | ------------------------------------------------------------------------- |
+| 일본어 제목           | 한국어 제목           | 애플리케이션                                                                    |
+| 일본               | 대한민국             |                                                                           |
+| ****             | Vibration        | [2015년](../Page/2015년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") |
+| ****             | HardBoiled       | 2015년 [9월 8일](../Page/9월_8일.md "wikilink")                                |
+| **bluemoon**     | Bluemoon         | 2015년 [10월 8일](../Page/10월_8일.md "wikilink")                              |
+| ****             | 고독한 개            | 2015년 [11월 8일](../Page/11월_8일.md "wikilink")                              |
+| ****             | Platanas         | 2015년 [12월 8일](../Page/12월_8일.md "wikilink")                              |
+| ****             | Nano             | [2016년](../Page/2016년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") |
+| **confusion**    | Confusion        | 2016년 [2월 8일](../Page/2월_8일.md "wikilink")                                |
+| ****             | 완전성 세계에 머무는 사각   | 2016년 [3월 8일](../Page/3월_8일.md "wikilink")                                |
+| ****             | 미학               | 2016년 [4월 8일](../Page/4월_8일.md "wikilink")                                |
+| **VIEWER**       | Viewer           | 2016년 [5월 8일](../Page/5월_8일.md "wikilink")                                |
+| ****             | Alternative Love | 2016년 [6월 8일](../Page/6월_8일.md "wikilink")                                |
+| ****             | 만나고 싶어           | 2016년 [7월 8일](../Page/7월_8일.md "wikilink")                                |
+| ****             |                  | 2016년 [8월 8일](../Page/8월_8일.md "wikilink")                                |
+| ****             | Lifeline         | 2016년 [9월 8일](../Page/9월_8일.md "wikilink")                                |
+| **EDGE**         | Edge             | 2016년 [10월 8일](../Page/10월_8일.md "wikilink")                              |
+| ****             |                  | 2016년 [11월 8일](../Page/11월_8일.md "wikilink")                              |
+| ****             |                  | 2016년 [12월 8일](../Page/12월_8일.md "wikilink")                              |
+| ****             |                  | [2017년](../Page/2017년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") |
+| ****             |                  | 2017년 [2월 8일](../Page/2월_8일.md "wikilink")                                |
+| **'**            |                  | 2017년 [3월 8일](../Page/3월_8일.md "wikilink")                                |
+| **Ego-Rhythm**   | Ego-Rhythm       | 2017년 [4월 8일](../Page/4월_8일.md "wikilink")                                |
+| **single track** | single track     | 2017년 [5월 8일](../Page/5월_8일.md "wikilink")                                |
+| **'**            |                  | 2017년 [6월 8일](../Page/6월_8일.md "wikilink")                                |
+| **re**           | re               | 2017년 [7월 8일](../Page/7월_8일.md "wikilink")                                |
+| **ALIVE**        | ALIVE            |                                                                           |
+| **re/ALIVE**     | re/ALIVE         |                                                                           |
 
 ### 정규 음반
 
@@ -90,13 +90,13 @@
 <tr class="even">
 <td><p><strong>손바닥 전쟁</strong><br />
 <small>()</small></p></td>
-<td><p>2016년 <a href="https://ko.wikipedia.org/wiki/8월_10일" title="wikilink">8월 10일</a></p></td>
+<td><p>2016년 <a href="../Page/8월_10일.md" title="wikilink">8월 10일</a></p></td>
 <td><p>2016년 11월 10일</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>reALIVE</strong></p></td>
-<td><p>2017년 <a href="https://ko.wikipedia.org/wiki/8월_30일" title="wikilink">8월 30일</a></p></td>
+<td><p>2017년 <a href="../Page/8월_30일.md" title="wikilink">8월 30일</a></p></td>
 <td></td>
 <td></td>
 </tr>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [\'PLAN A\' SECOND EPISODE](https://ko.wikipedia.org/wiki/\'PLAN_A\'_SECOND_EPISODE).
 
 
-〈**'PLAN A' SECOND EPISODE**〉(플랜에이 세컨드 에피소드)는 [빅톤과](https://ko.wikipedia.org/wiki/빅톤_\(음악_그룹\) "wikilink") [허각](https://ko.wikipedia.org/wiki/허각 "wikilink")의 싱글이다.
+〈**'PLAN A' SECOND EPISODE**〉(플랜에이 세컨드 에피소드)는 [빅톤과](../Page/빅톤_\(음악_그룹\).md "wikilink") [허각](../Page/허각.md "wikilink")의 싱글이다.
 
 ## 개요
 

@@ -13,9 +13,9 @@
 
 ## 뮤직비디오
 
-  - [Black Magic](https://www.youtube.com/watch?v=MkElfR_NPBI) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
-  - [Love Me Like You](https://www.youtube.com/watch?v=1WpoKRnoPRU) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
-  - [Secret Love Song](https://www.youtube.com/watch?v=qgy7vEje5-w) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
-  - [Hair](https://www.youtube.com/watch?v=kgUpRwMeRr4) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [Black Magic](https://www.youtube.com/watch?v=MkElfR_NPBI) - [유튜브](../Page/유튜브.md "wikilink")
+  - [Love Me Like You](https://www.youtube.com/watch?v=1WpoKRnoPRU) - [유튜브](../Page/유튜브.md "wikilink")
+  - [Secret Love Song](https://www.youtube.com/watch?v=qgy7vEje5-w) - [유튜브](../Page/유튜브.md "wikilink")
+  - [Hair](https://www.youtube.com/watch?v=kgUpRwMeRr4) - [유튜브](../Page/유튜브.md "wikilink")
 
 [분류:2015년 음반](https://ko.wikipedia.org/wiki/분류:2015년_음반 "wikilink") [분류:리틀 믹스의 음반](https://ko.wikipedia.org/wiki/분류:리틀_믹스의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink")

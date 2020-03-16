@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PAS  FC](https://ko.wikipedia.org/wiki/PAS__FC).
 
 
-**PAS 야니나 FC** () 는 [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink") [이피로스 주의](https://ko.wikipedia.org/wiki/이피로스_주 "wikilink") 주도 [이오아니나](https://ko.wikipedia.org/wiki/이오아니나 "wikilink")를 연고로 하는 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") AO 이오나니온 (AO Ioanninon)과 PAS 아베로프 (PAS Averof)가 합쳐지면서 창단되었고,\[1\] 엠블럼에 그려진 소는 [에피로테 연맹의](https://ko.wikipedia.org/wiki/에피로테_연맹 "wikilink") 고대 동전에서 따온 것이다.
+**PAS 야니나 FC** () 는 [그리스](../Page/그리스.md "wikilink") [이피로스 주의](https://ko.wikipedia.org/wiki/이피로스_주 "wikilink") 주도 [이오아니나](../Page/이오아니나.md "wikilink")를 연고로 하는 프로 [축구](../Page/축구.md "wikilink") 클럽이다. [1966년](../Page/1966년.md "wikilink") AO 이오나니온 (AO Ioanninon)과 PAS 아베로프 (PAS Averof)가 합쳐지면서 창단되었고,\[1\] 엠블럼에 그려진 소는 [에피로테 연맹의](https://ko.wikipedia.org/wiki/에피로테_연맹 "wikilink") 고대 동전에서 따온 것이다.
 
 ## 각주
 

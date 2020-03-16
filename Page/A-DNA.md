@@ -3,7 +3,7 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:Adna3.ogv "wikilink")
 
-**A-DNA** 또는 **A형 DNA**는 [DNA](https://ko.wikipedia.org/wiki/DNA "wikilink")의 형태 중 하나이다. [B-DNA](https://ko.wikipedia.org/wiki/B-DNA "wikilink")나 [Z-DNA](https://ko.wikipedia.org/wiki/Z-DNA "wikilink")와 함께 DNA의 세 형태 중 하나에 속한다. A-DNA는 B-DNA처럼 오른쪽으로 꼬여있으나, 더 짧고, [염기쌍](https://ko.wikipedia.org/wiki/염기쌍 "wikilink")들이 더 촘촘하게 배열되어 있다. A-DNA는 [로절린드 프랭클린에](https://ko.wikipedia.org/wiki/로절린드_프랭클린 "wikilink") 의해 발견되었으며, 이름도 그녀에 의해 붙여졌다. 그녀는 A-DNA가 건조한 상황에서 나타난다는 것을 발견하였다. 이 형태는 [RNA](https://ko.wikipedia.org/wiki/RNA "wikilink")와 [RNA-DNA 잡종에서도](https://ko.wikipedia.org/wiki/RNA-DNA_잡종 "wikilink") 나타나는 형태이다.
+**A-DNA** 또는 **A형 DNA**는 [DNA](../Page/DNA.md "wikilink")의 형태 중 하나이다. [B-DNA](https://ko.wikipedia.org/wiki/B-DNA "wikilink")나 [Z-DNA](https://ko.wikipedia.org/wiki/Z-DNA "wikilink")와 함께 DNA의 세 형태 중 하나에 속한다. A-DNA는 B-DNA처럼 오른쪽으로 꼬여있으나, 더 짧고, [염기쌍](https://ko.wikipedia.org/wiki/염기쌍 "wikilink")들이 더 촘촘하게 배열되어 있다. A-DNA는 [로절린드 프랭클린에](../Page/로절린드_프랭클린.md "wikilink") 의해 발견되었으며, 이름도 그녀에 의해 붙여졌다. 그녀는 A-DNA가 건조한 상황에서 나타난다는 것을 발견하였다. 이 형태는 [RNA](../Page/RNA.md "wikilink")와 [RNA-DNA 잡종에서도](https://ko.wikipedia.org/wiki/RNA-DNA_잡종 "wikilink") 나타나는 형태이다.
 
 ## 구조
 
@@ -89,11 +89,11 @@ G: 6.1 Å</p></td>
 
 ## 기능
 
-A-DNA는 극히 건조한 환경으로부터 박테리아를 보호하며, [간균](https://ko.wikipedia.org/wiki/간균 "wikilink")의 경우 단백질의 표면은 DNA의 용액을 벗겨내어 A-DNA의 형태로 바꿀 수 있다.
+A-DNA는 극히 건조한 환경으로부터 박테리아를 보호하며, [간균](../Page/간균.md "wikilink")의 경우 단백질의 표면은 DNA의 용액을 벗겨내어 A-DNA의 형태로 바꿀 수 있다.
 
 ## 같이 보기
 
-  - [DNA](https://ko.wikipedia.org/wiki/DNA "wikilink")
+  - [DNA](../Page/DNA.md "wikilink")
   - [B-DNA](https://ko.wikipedia.org/wiki/B-DNA "wikilink")
   - [Z-DNA](https://ko.wikipedia.org/wiki/Z-DNA "wikilink")
 

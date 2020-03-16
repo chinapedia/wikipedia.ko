@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UDOO](https://ko.wikipedia.org/wiki/UDOO).
 
 
-**UDOO**는 [아두이노 2](http://arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardDue) 호환 [마이크로컨트롤러](https://ko.wikipedia.org/wiki/마이크로컨트롤러 "wikilink")를 통합한 [단일 보드 컴퓨터로](../Page/단일_보드_컴퓨터.md "wikilink"), 컴퓨터 과학 교육, [메이커](https://ko.wikipedia.org/wiki/메이커_컬처 "wikilink") 세계, [사물 인터넷용으로](https://ko.wikipedia.org/wiki/사물_인터넷 "wikilink") 설계되었다.
+**UDOO**는 [아두이노 2](http://arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardDue) 호환 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink")를 통합한 [단일 보드 컴퓨터로](../Page/단일_보드_컴퓨터.md "wikilink"), 컴퓨터 과학 교육, [메이커](https://ko.wikipedia.org/wiki/메이커_컬처 "wikilink") 세계, [사물 인터넷용으로](https://ko.wikipedia.org/wiki/사물_인터넷 "wikilink") 설계되었다.
 
 ## 모델
 
@@ -21,8 +21,8 @@ UDDO 기판은 두 개의 CPU가 장착되어 있다. 프릐스케일 i.MX는 AR
 
 ## 같이 보기
 
-  - [아두이노](https://ko.wikipedia.org/wiki/아두이노 "wikilink")
-  - [라즈베리 파이](https://ko.wikipedia.org/wiki/라즈베리_파이 "wikilink")
+  - [아두이노](../Page/아두이노.md "wikilink")
+  - [라즈베리 파이](../Page/라즈베리_파이.md "wikilink")
 
 ## 각주
 

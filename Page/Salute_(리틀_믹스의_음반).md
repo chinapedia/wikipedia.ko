@@ -13,8 +13,8 @@
 
 ## 뮤직비디오
 
-  - [Move](https://www.youtube.com/watch?v=RwD4eJGxPc4) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
-  - [Little Me](https://www.youtube.com/watch?v=wXhMqDotfLk) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
-  - [Salute](https://www.youtube.com/watch?v=Kjpa0SMOug0) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [Move](https://www.youtube.com/watch?v=RwD4eJGxPc4) - [유튜브](../Page/유튜브.md "wikilink")
+  - [Little Me](https://www.youtube.com/watch?v=wXhMqDotfLk) - [유튜브](../Page/유튜브.md "wikilink")
+  - [Salute](https://www.youtube.com/watch?v=Kjpa0SMOug0) - [유튜브](../Page/유튜브.md "wikilink")
 
 [분류:2013년 음반](https://ko.wikipedia.org/wiki/분류:2013년_음반 "wikilink") [분류:리틀 믹스의 음반](https://ko.wikipedia.org/wiki/분류:리틀_믹스의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink")
