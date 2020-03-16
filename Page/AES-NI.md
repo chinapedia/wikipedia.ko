@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AES-NI](https://ko.wikipedia.org/wiki/AES-NI).
 
 
-**AES-NI** ()는 인텔이 2008년 3월에 제안한 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 명령어 집합의 확장으로서 [AES를](https://ko.wikipedia.org/wiki/고급_암호_표준 "wikilink") 사용하는 암호화와 복호화의 수행 성능을 향상시키기 위한 명령어 집합이다\[1\]. [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink") [웨스트미어](https://ko.wikipedia.org/wiki/웨스트미어 "wikilink") 프로세서부터 처음으로 지원하기 시작했으며 7개의 명령어로 이루어져 있다.
+**AES-NI** ()는 인텔이 2008년 3월에 제안한 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 명령어 집합의 확장으로서 [AES를](https://ko.wikipedia.org/wiki/고급_암호_표준 "wikilink") 사용하는 암호화와 복호화의 수행 성능을 향상시키기 위한 명령어 집합이다\[1\]. [인텔](../Page/인텔.md "wikilink") [웨스트미어](https://ko.wikipedia.org/wiki/웨스트미어 "wikilink") 프로세서부터 처음으로 지원하기 시작했으며 7개의 명령어로 이루어져 있다.
 
 ## 새 명령어
 
@@ -17,7 +17,7 @@
 
 ## AES-NI를 지원하는 CPU
 
-  - [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")\[3\]
+  - [인텔](../Page/인텔.md "wikilink")\[3\]
       - 인텔 [웨스트미어](https://ko.wikipedia.org/wiki/네할렘_\(마이크로아키텍처\)#웨스트미어 "wikilink") 기반 프로세서 중 일부
           - 웨스트미어-EP(제온 5600 시리즈)
           - 클락데일(코어 i3, 펜티엄, 셀러론 제외)
@@ -31,7 +31,7 @@
           - 코어 i3-4000M, 펜티엄, 셀러론 제외 모든 프로세서\[9\]
       - 인텔 [브로드웰](../Page/브로드웰_\(마이크로아키텍처\).md "wikilink") 기반 프로세서
           - 펜티엄 3xxxU, 셀러론 3xxxU 제외 모든 프로세서
-      - 인텔 [스카이레이크](https://ko.wikipedia.org/wiki/스카이레이크_\(마이크로아키텍처\) "wikilink") 기반 프로세서
+      - 인텔 [스카이레이크](../Page/스카이레이크_\(마이크로아키텍처\).md "wikilink") 기반 프로세서
           - 펜티엄 3xxxU, 셀러론 3xxxU 제외 모든 프로세서
   - [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")
       - AMD 불도저 기반 프로세서\[10\]
@@ -50,21 +50,21 @@ AES-NI 발표 이후 출시된 컴파일러 및 소프트웨어에서 해당 명
 
   - 마이크로소프트 Cryptography API: Next Generation (CNG)\[12\]
   - [리눅스 커널 암호화 API](../Page/크립토_API_\(리눅스\).md "wikilink")
-  - [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") 7 HotSpot
+  - [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink") 7 HotSpot
   - NSS 3.13 이상(파이어폭스와 크롬에서 사용함)\[13\]
   - 솔라리스 10 이상의 암호화 프레임워크\[14\]
-  - [FreeBSD](https://ko.wikipedia.org/wiki/FreeBSD "wikilink") OpenCrypto API(aesni(4) 드라이버)\[15\]
-  - [OpenSSL](https://ko.wikipedia.org/wiki/OpenSSL "wikilink") 1.0.1 이상\[16\]
+  - [FreeBSD](../Page/FreeBSD.md "wikilink") OpenCrypto API(aesni(4) 드라이버)\[15\]
+  - [OpenSSL](../Page/OpenSSL.md "wikilink") 1.0.1 이상\[16\]
 
 ## 같이 보기
 
   - [고급 암호 표준](https://ko.wikipedia.org/wiki/고급_암호_표준 "wikilink")
   - [SSE](https://ko.wikipedia.org/wiki/SSE "wikilink")
-  - [SSE2](https://ko.wikipedia.org/wiki/SSE2 "wikilink")
-  - [SSE3](https://ko.wikipedia.org/wiki/SSE3 "wikilink")
-  - [SSE4](https://ko.wikipedia.org/wiki/SSE4 "wikilink")
-  - [AVX](https://ko.wikipedia.org/wiki/고급_벡터_확장 "wikilink")
-  - [X86](https://ko.wikipedia.org/wiki/X86 "wikilink")
+  - [SSE2](../Page/SSE2.md "wikilink")
+  - [SSE3](../Page/SSE3.md "wikilink")
+  - [SSE4](../Page/SSE4.md "wikilink")
+  - [AVX](../Page/고급_벡터_확장.md "wikilink")
+  - [X86](../Page/X86.md "wikilink")
 
 ## 각주
 

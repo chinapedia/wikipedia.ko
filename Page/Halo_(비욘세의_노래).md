@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Halo \( \)](https://ko.wikipedia.org/wiki/Halo_\(_\)).
 
 
-"**Halo**"는 미국의 [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink") 가수 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 노래로 비욘세의 세 번째 정규 앨범 *[I Am... Sasha Fierce](https://ko.wikipedia.org/wiki/I_Am..._Sasha_Fierce "wikilink")*(2008)에 수록 되어있다.
+"**Halo**"는 미국의 [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink") 가수 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 노래로 비욘세의 세 번째 정규 앨범 *[I Am... Sasha Fierce](../Page/I_Am..._Sasha_Fierce.md "wikilink")*(2008)에 수록 되어있다.
 
 ## 트랙 리스트
 

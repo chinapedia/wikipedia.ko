@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
 
 
-**터프이너프**(Tough Enough)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 신인 레슬러 발굴 프로그램이며 많은 젊은 선수들이 이 프로그램을 통하여 WWE에 데뷔하였다. 2001년부터 2004년까지 방영되었으며, 2011년 다시 부활한 프로그램이다. 현재 방영되고 있는 [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink")와 비슷한 포맷이지만 [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink")는 수련단체 [FCW](https://ko.wikipedia.org/wiki/플로리다_챔피언십_레슬링 "wikilink") 선수로 이루어진 프로그램이며, 터프이너프는 순수 아마추어로 이루어진 프로그램이다. 우승자는 WWE에서 활약할 수 있다.
+**터프이너프**(Tough Enough)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 신인 레슬러 발굴 프로그램이며 많은 젊은 선수들이 이 프로그램을 통하여 WWE에 데뷔하였다. 2001년부터 2004년까지 방영되었으며, 2011년 다시 부활한 프로그램이다. 현재 방영되고 있는 [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink")와 비슷한 포맷이지만 [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink")는 수련단체 [FCW](../Page/플로리다_챔피언십_레슬링.md "wikilink") 선수로 이루어진 프로그램이며, 터프이너프는 순수 아마추어로 이루어진 프로그램이다. 우승자는 WWE에서 활약할 수 있다.
 
 ## 터프이너프 시즌 1 (2001년)
 
@@ -144,10 +144,10 @@
 
 ### 호스트
 
-  - [크리스 제리코](https://ko.wikipedia.org/wiki/크리스_제리코 "wikilink")
+  - [크리스 제리코](../Page/크리스_제리코.md "wikilink")
   - 르네 영
   - 바이런 색스턴
-  - [더 미즈](https://ko.wikipedia.org/wiki/더_미즈 "wikilink")
+  - [더 미즈](../Page/더_미즈.md "wikilink")
 
 ### 트레이너
 
@@ -160,8 +160,8 @@
   - [릭 플레어](../Page/릭_플레어.md "wikilink")
   - [다니엘 브라이언](https://ko.wikipedia.org/wiki/다니엘_브라이언 "wikilink")
   - 페이지
-  - [헐크 호건](https://ko.wikipedia.org/wiki/헐크_호건 "wikilink") (에피소드 1\~5)
-  - [더 미즈](https://ko.wikipedia.org/wiki/더_미즈 "wikilink") (에피소드 6\~10)
+  - [헐크 호건](../Page/헐크_호건.md "wikilink") (에피소드 1\~5)
+  - [더 미즈](../Page/더_미즈.md "wikilink") (에피소드 6\~10)
 
 ### 수련생
 

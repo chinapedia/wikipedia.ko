@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ABC ](https://ko.wikipedia.org/wiki/ABC_).
 
 
-**ABC 스튜디오**는 미국의 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") [드라마 제작](https://ko.wikipedia.org/wiki/영화_제작#제작 "wikilink") 회사로 디즈니-ABC 텔레비전 그룹의 자회사이다. 1985년 [터치스톤 텔레비전이란](https://ko.wikipedia.org/wiki/터치스톤_텔레비전 "wikilink") 이름으로 설립되었고 2007년 5월, 지금의 사명으로 개명되었다.
+**ABC 스튜디오**는 미국의 [텔레비전](../Page/텔레비전.md "wikilink") [드라마 제작](https://ko.wikipedia.org/wiki/영화_제작#제작 "wikilink") 회사로 디즈니-ABC 텔레비전 그룹의 자회사이다. 1985년 [터치스톤 텔레비전이란](https://ko.wikipedia.org/wiki/터치스톤_텔레비전 "wikilink") 이름으로 설립되었고 2007년 5월, 지금의 사명으로 개명되었다.
 
 2009-2010 초반 시즌 부터 ABC 스튜디오에서 제작한 모든 텔레비전 시리즈는 "An ABC Studios Production"라는 오프닝 로고를 보이게 되며 이런 시도는 미국의 기업 중 처음 시도되는 것이다. (이전에는 영국이 1960년대에 이런 시도를 이미 했었다)
 

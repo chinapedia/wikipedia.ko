@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KT-KTF ](https://ko.wikipedia.org/wiki/KT-KTF_).
 
 
-**KT-KTF 프리미어리그**(KT-KTF Premier League)는 대한민국의 [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink")리그이며, 2003년과 2004년 2시즌이 열렸다. KT와 KTF가 후원을 하였으며, 당시 스타크래프트 사상 최고의 상금을 자랑하는 유명한 대회였다.
+**KT-KTF 프리미어리그**(KT-KTF Premier League)는 대한민국의 [스타크래프트](../Page/스타크래프트.md "wikilink")리그이며, 2003년과 2004년 2시즌이 열렸다. KT와 KTF가 후원을 하였으며, 당시 스타크래프트 사상 최고의 상금을 자랑하는 유명한 대회였다.
 
 대회는 총 두 번 개최되으며 총 15명의 [KTF 매직엔스](https://ko.wikipedia.org/wiki/KTF_매직엔스 "wikilink") 선수가 출전 하였으나, 단 한 명도 우승을 못하였으며, 이를 '스폰서 저주'로 일컫는다.\[1\]
 
@@ -12,15 +12,15 @@
   - 기간 : 2003년 10월 5일 \~ 2004년 1월 13일
   - 사용 맵 : 플레인즈 투 힐 Desert, 짐 레이너스 메모리, 로스트 템플 Game TV, 엔터 더 드래곤
   - 인터리그 1차 투어 : [광주월드컵경기장](../Page/광주월드컵경기장.md "wikilink") 남문 광장([MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink") 주관)
-  - 인터리그 2차 투어 : 대전 [충무체육관](https://ko.wikipedia.org/wiki/충무체육관 "wikilink")([게임 TV](https://ko.wikipedia.org/wiki/게임_TV "wikilink") 주관)
+  - 인터리그 2차 투어 : 대전 [충무체육관](../Page/충무체육관.md "wikilink")([게임 TV](https://ko.wikipedia.org/wiki/게임_TV "wikilink") 주관)
   - 리그 플레이오프 장소 : [대구실내체육관](../Page/대구실내체육관.md "wikilink")([MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink"), [게임 TV](https://ko.wikipedia.org/wiki/게임_TV "wikilink") 공동주관)
-  - 리그 챔피언쉽 장소 : 부산 [사직실내체육관](https://ko.wikipedia.org/wiki/사직실내체육관 "wikilink")([MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink"), [게임 TV](https://ko.wikipedia.org/wiki/게임_TV "wikilink") 공동주관)
-  - 통합 챔피언쉽 장소 : 서울 [잠실실내체육관](https://ko.wikipedia.org/wiki/잠실실내체육관 "wikilink")([MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink"), [게임 TV](https://ko.wikipedia.org/wiki/게임_TV "wikilink") 공동주관)
-  - 통합 우승 : [이윤열](../Page/이윤열.md "wikilink"), 통합 준우승 : [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink"), 통합 3위 : [변길섭](../Page/변길섭.md "wikilink"), [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")
+  - 리그 챔피언쉽 장소 : 부산 [사직실내체육관](../Page/사직실내체육관.md "wikilink")([MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink"), [게임 TV](https://ko.wikipedia.org/wiki/게임_TV "wikilink") 공동주관)
+  - 통합 챔피언쉽 장소 : 서울 [잠실실내체육관](../Page/잠실실내체육관.md "wikilink")([MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink"), [게임 TV](https://ko.wikipedia.org/wiki/게임_TV "wikilink") 공동주관)
+  - 통합 우승 : [이윤열](../Page/이윤열.md "wikilink"), 통합 준우승 : [임요환](../Page/임요환.md "wikilink"), 통합 3위 : [변길섭](../Page/변길섭.md "wikilink"), [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")
 
 #### KT Megapass Nespot 프리미어 리그
 
-  - 리그 우승 : [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink"), 리그 준우승 :[변길섭](../Page/변길섭.md "wikilink"), 리그 3위 : [홍진호](../Page/홍진호.md "wikilink")
+  - 리그 우승 : [임요환](../Page/임요환.md "wikilink"), 리그 준우승 :[변길섭](../Page/변길섭.md "wikilink"), 리그 3위 : [홍진호](../Page/홍진호.md "wikilink")
   - 주관 방송사 : [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink")
 
 ##### 정규리그 순위
@@ -29,13 +29,13 @@
 | -- | --------------------------------------------------- | --- | - | -- | ----- | ------------ |
 | 1  | [변길섭](../Page/변길섭.md "wikilink")                    | 11  | 8 | 3  | 740만원 | **리그 결승**    |
 | 2  | [홍진호](../Page/홍진호.md "wikilink")                    | 11  | 8 | 3  | 740만원 | **리그 플레이오프** |
-| 3  | [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink") | 11  | 7 | 4  | 610만원 |              |
-| 4  | [김정민](https://ko.wikipedia.org/wiki/김정민 "wikilink") | 11  | 6 | 5  | 380만원 | **탈락**       |
+| 3  | [임요환](../Page/임요환.md "wikilink")                    | 11  | 7 | 4  | 610만원 |              |
+| 4  | [김정민](../Page/김정민.md "wikilink")                    | 11  | 6 | 5  | 380만원 | **탈락**       |
 | 5  | [박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink") | 11  | 5 | 6  | 450만원 |              |
-| 6  | [이재훈](https://ko.wikipedia.org/wiki/이재훈 "wikilink") | 11  | 5 | 6  | 350만원 |              |
+| 6  | [이재훈](../Page/이재훈.md "wikilink")                    | 11  | 5 | 6  | 350만원 |              |
 | 7  | [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink") | 11  | 4 | 7  | 220만원 |              |
 | 8  | [장진수](https://ko.wikipedia.org/wiki/장진수 "wikilink") | 11  | 4 | 7  | 120만원 |              |
-| 9  | [송병석](https://ko.wikipedia.org/wiki/송병석 "wikilink") | 11  | 2 | 9  | 60만원  |              |
+| 9  | [송병석](../Page/송병석.md "wikilink")                    | 11  | 2 | 9  | 60만원  |              |
 | 10 | [장진남](../Page/장진남.md "wikilink")                    | 11  | 1 | 10 | 30만원  |              |
 
 #### KTF Bigi 프리미어 리그
@@ -66,13 +66,13 @@
   - 사용 맵 : 노스탤지아, 레퀴엠, 루나, 애리조나
   - 인터리그 1차 투어 : 부산 [BEXCO](https://ko.wikipedia.org/wiki/BEXCO "wikilink")([MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink") 주관)
   - 인터리그 2차 투어 : 서울 시청 앞 잔디 광장([온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink") 주관)
-  - 리그 챔피언쉽 장소 : 광주 [염주종합체육관](https://ko.wikipedia.org/wiki/염주종합체육관 "wikilink")([MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink") 주관)
-  - 통합 챔피언쉽 장소 : 서울 [잠실실내체육관](https://ko.wikipedia.org/wiki/잠실실내체육관 "wikilink")([온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink") 주관)
+  - 리그 챔피언쉽 장소 : 광주 [염주종합체육관](../Page/염주종합체육관.md "wikilink")([MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink") 주관)
+  - 통합 챔피언쉽 장소 : 서울 [잠실실내체육관](../Page/잠실실내체육관.md "wikilink")([온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink") 주관)
   - 통합 우승 : [박성준](https://ko.wikipedia.org/wiki/박성준 "wikilink"), 통합 준우승 : [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink"), 통합 3위 : [이윤열](../Page/이윤열.md "wikilink"), 통합 4위 : [홍진호](../Page/홍진호.md "wikilink")
 
 #### KT Megapass 프리미어 리그
 
-  - 리그 우승 : [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink"), 리그 준우승 : [홍진호](../Page/홍진호.md "wikilink"), 리그 3위 : [차재욱](../Page/차재욱.md "wikilink"), 리그 4위 : [김정민](https://ko.wikipedia.org/wiki/김정민 "wikilink")
+  - 리그 우승 : [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink"), 리그 준우승 : [홍진호](../Page/홍진호.md "wikilink"), 리그 3위 : [차재욱](../Page/차재욱.md "wikilink"), 리그 4위 : [김정민](../Page/김정민.md "wikilink")
 
 ##### 정규리그 순위
 
@@ -81,7 +81,7 @@
 | 1  | [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink") | 11  | 8 | 3 | 640만원 | **리그 결승**     |
 | 2  | [홍진호](../Page/홍진호.md "wikilink")                    | 11  | 8 | 3 | 640만원 | **리그 플레이오프**  |
 | 3  | [차재욱](../Page/차재욱.md "wikilink")                    | 11  | 7 | 4 | 610만원 | **리그 준플레이오프** |
-| 4  | [김정민](https://ko.wikipedia.org/wiki/김정민 "wikilink") | 11  | 7 | 4 | 510만원 |               |
+| 4  | [김정민](../Page/김정민.md "wikilink")                    | 11  | 7 | 4 | 510만원 |               |
 | 5  | [변길섭](../Page/변길섭.md "wikilink")                    | 11  | 5 | 6 | 450만원 | **탈락**        |
 | 6  | [성학승](../Page/성학승.md "wikilink")                    | 11  | 5 | 6 | 250만원 |               |
 | 7  | [강민](https://ko.wikipedia.org/wiki/강민 "wikilink")   | 11  | 5 | 6 | 250만원 |               |
@@ -101,10 +101,10 @@
 | 2  | [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") | 11  | 8 | 3 | 840만원 | **리그 플레이오프**  |
 | 3  | [이윤열](../Page/이윤열.md "wikilink")                    | 11  | 7 | 4 | 610만원 | **리그 준플레이오프** |
 | 4  | [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink") | 11  | 7 | 4 | 410만원 |               |
-| 5  | [한웅렬](https://ko.wikipedia.org/wiki/한웅렬 "wikilink") | 11  | 5 | 6 | 450만원 | **탈락**        |
+| 5  | [한웅렬](../Page/한웅렬.md "wikilink")                    | 11  | 5 | 6 | 450만원 | **탈락**        |
 | 6  | [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink") | 11  | 5 | 6 | 250만원 |               |
 | 7  | [박용욱](../Page/박용욱.md "wikilink")                    | 11  | 4 | 7 | 220만원 |               |
-| 8  | [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink") | 11  | 4 | 7 | 220만원 |               |
+| 8  | [임요환](../Page/임요환.md "wikilink")                    | 11  | 4 | 7 | 220만원 |               |
 | 9  | [박정길](https://ko.wikipedia.org/wiki/박정길 "wikilink") | 11  | 3 | 8 | 290만원 |               |
 | 10 | [김환중](../Page/김환중.md "wikilink")                    | 11  | 3 | 8 | 190만원 |               |
 

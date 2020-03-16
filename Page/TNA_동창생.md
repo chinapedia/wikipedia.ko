@@ -39,7 +39,7 @@
   - 오즈고르 베어커
   - 제레미 배런
   - 더그 바샴
-  - [믹 폴리](https://ko.wikipedia.org/wiki/믹_폴리 "wikilink")
+  - [믹 폴리](../Page/믹_폴리.md "wikilink")
   - 레바 베이츠
   - 더글레스 베커
   - 빌 베헌스
@@ -50,14 +50,14 @@
   - 루써 비거스
   - 코디 로즈
   - 크리스챤 케이지
-  - [헐크 호건](https://ko.wikipedia.org/wiki/헐크_호건 "wikilink")
+  - [헐크 호건](../Page/헐크_호건.md "wikilink")
   - [릭 플레어](../Page/릭_플레어.md "wikilink")
-  - [랜디 새비지](https://ko.wikipedia.org/wiki/랜디_새비지 "wikilink")
+  - [랜디 새비지](../Page/랜디_새비지.md "wikilink")
   - 스팅
   - 커트 앵글
   - 제프 제럿
   - AJ 스타일스
-  - [사모아 조](https://ko.wikipedia.org/wiki/사모아_조 "wikilink")
+  - [사모아 조](../Page/사모아_조.md "wikilink")
   - 바비 루드
   - 제임스 스톰
   - 매트 하디

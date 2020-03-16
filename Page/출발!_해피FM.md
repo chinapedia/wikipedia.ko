@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [! FM](https://ko.wikipedia.org/wiki/!_FM).
 
 
-**출발\! 해피FM 김성은입니다**는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 라디오 채널 [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")(수도권 기준 FM 106.1㎒, AM 603㎑)에서 매일 새벽 5시부터 아침 6시까지 방송하는 라디오 방송이다. 기존 오전 5시부터 6시까지 방송하던 [활기찬 새아침 김성은입니다에서](https://ko.wikipedia.org/wiki/활기찬_새아침 "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") KBS 라디오 봄 개편으로 개편된 프로그램이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 방송하던 [출발\! 해피FM 이광용입니다와](https://ko.wikipedia.org/wiki/출발!_해피FM_이광용입니다 "wikilink") 이름이 같다.
+**출발\! 해피FM 김성은입니다**는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 라디오 채널 [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")(수도권 기준 FM 106.1㎒, AM 603㎑)에서 매일 새벽 5시부터 아침 6시까지 방송하는 라디오 방송이다. 기존 오전 5시부터 6시까지 방송하던 [활기찬 새아침 김성은입니다에서](../Page/활기찬_새아침.md "wikilink") [2013년](../Page/2013년.md "wikilink") KBS 라디오 봄 개편으로 개편된 프로그램이다. [2011년](../Page/2011년.md "wikilink") 방송하던 [출발\! 해피FM 이광용입니다와](https://ko.wikipedia.org/wiki/출발!_해피FM_이광용입니다 "wikilink") 이름이 같다.
 
 ## DJ
 
-  - [김성은](https://ko.wikipedia.org/wiki/김성은_\(아나운서\) "wikilink") 아나운서
+  - [김성은](../Page/김성은_\(아나운서\).md "wikilink") 아나운서
 
 ## 주요 코너
 
@@ -43,7 +43,7 @@
 
 ## 같이 보기
 
-  - [세상을 여는 아침 김초롱입니다](https://ko.wikipedia.org/wiki/세상을_여는_아침 "wikilink") (MBC FM4U)
+  - [세상을 여는 아침 김초롱입니다](../Page/세상을_여는_아침.md "wikilink") (MBC FM4U)
   - [생방송 톡\!톡\! 보니하니](https://ko.wikipedia.org/wiki/생방송_톡!톡!_보니하니 "wikilink") (EBS 1TV)
 
 ## 외부 링크

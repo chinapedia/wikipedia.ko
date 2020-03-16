@@ -33,7 +33,7 @@
 
 ## [WWE 스튜디오](../Page/WWE_스튜디오.md "wikilink")
 
-  - 2003년 WWE는 영화를 제작하기 시작했다. 스콜피온 킹 , 더 런다운, 워킹톨 등 [드웨인 존슨을](https://ko.wikipedia.org/wiki/드웨인_존슨 "wikilink") 주인공으로 한 영화가 제작되었다.
+  - 2003년 WWE는 영화를 제작하기 시작했다. 스콜피온 킹 , 더 런다운, 워킹톨 등 [드웨인 존슨을](../Page/드웨인_존슨.md "wikilink") 주인공으로 한 영화가 제작되었다.
 
 그 외에도 케인을 주인공으로 한 씨 노 이블 , 존 시나를 주인공으로 한 더 마린 , 스톤콜드 스티브 오스틴을 주인공으로 한 더 컨뎀드를 제작하였다.
 
@@ -67,7 +67,7 @@
 </tr>
 <tr class="odd">
 <td><p>3월/4월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레슬매니아" title="wikilink">레슬매니아</a></p></td>
+<td><p><a href="../Page/레슬매니아.md" title="wikilink">레슬매니아</a></p></td>
 <td><p>1985</p></td>
 <td></td>
 </tr>
@@ -110,13 +110,13 @@
 </tr>
 <tr class="even">
 <td><p>10월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/헬_인_어_셀" title="wikilink">헬 인 어 셀</a></p></td>
+<td><p><a href="../Page/헬_인_어_셀.md" title="wikilink">헬 인 어 셀</a></p></td>
 <td><p>2009</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서바이벌_시리즈" title="wikilink">서바이벌 시리즈</a></p></td>
+<td><p><a href="../Page/서바이벌_시리즈.md" title="wikilink">서바이벌 시리즈</a></p></td>
 <td><p>1987</p></td>
 <td></td>
 </tr>

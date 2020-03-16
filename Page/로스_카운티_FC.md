@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**로스 카운티 FC**(Ross County Football Club, Ross County F.C.)는 [1929년](https://ko.wikipedia.org/wiki/1929년 "wikilink")에 창단된 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink") [딩월](https://ko.wikipedia.org/wiki/딩월 "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 프리미어리그에서](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 활동하고 있다.
+**로스 카운티 FC**(Ross County Football Club, Ross County F.C.)는 [1929년](../Page/1929년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [딩월](https://ko.wikipedia.org/wiki/딩월 "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 프리미어리그에서](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 활동하고 있다.
 
 ## 성적
 

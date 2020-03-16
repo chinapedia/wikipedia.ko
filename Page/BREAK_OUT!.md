@@ -7,7 +7,7 @@
 
   - 〈[Stand by U](../Page/Stand_by_U.md "wikilink")〉이후 약 5개월 만에 발매한 싱글이다.
   - 베스트 앨범 〈[BEST SELECTION 2010](../Page/BEST_SELECTION_2010.md "wikilink")〉의 선행 싱글이다.
-  - 커플링곡인 〈XIAHTIC〉은 릴리즈에 앞서 동방신기의 4번째 일본 투어 〈[4th LIVE TOUR 2009 \~The Secret Code\~](../Page/4th_LIVE_TOUR_2009_~The_Secret_Code~.md "wikilink")〉에서 앞서 선보인 멤버 [시아준수의](https://ko.wikipedia.org/wiki/김준수_\(가수\) "wikilink") 솔로곡이다.
+  - 커플링곡인 〈XIAHTIC〉은 릴리즈에 앞서 동방신기의 4번째 일본 투어 〈[4th LIVE TOUR 2009 \~The Secret Code\~](../Page/4th_LIVE_TOUR_2009_~The_Secret_Code~.md "wikilink")〉에서 앞서 선보인 멤버 [시아준수의](../Page/김준수_\(가수\).md "wikilink") 솔로곡이다.
   - 사실상 5인 동방신기의 마지막 정식 싱글이다.
   - 〈**BREAK OUT \!**〉 PV에 멤버들의 단체 샷이 한 컷도 등장하지 않는다.
 

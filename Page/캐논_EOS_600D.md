@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EOS 600D](https://ko.wikipedia.org/wiki/_EOS_600D).
 
 
-**캐논 EOS 600D**()는 [캐논](../Page/캐논.md "wikilink")이 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 2월 7일 발표한 보급형 [디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). [캐논 EOS 550D의](https://ko.wikipedia.org/wiki/캐논_EOS_550D "wikilink") 후속모델이며, 550D와 마찬가지로 Full HD급 동영상까지 (1920 × 1080) 30fps로 촬영이 가능하다. 550D와, 60D, 7D에 탑재되었던 1800만 화소 APS-C CMOS 센서를 탑재하여 이들과 화질은 사실상 같다고 할 수 있다. 출시 초기 가격은 본체만 799.99달러이며, 새롭게 설계된 18-55mm f3.5-5.6 IS II 렌즈도 함께 출시되어 바디와 함께 셋트로 899.99달러에 구매가 가능하다. 검정색과, 붉은색 제품이 있다. 일본에서 판매되는 이름은 Canon EOS Kiss X5, 북미에서는 Canon EOS Rebel T3i이다. 경쟁 모델로는 소니의 [A55](https://ko.wikipedia.org/wiki/A55 "wikilink")와, 니콘의 [D5000](https://ko.wikipedia.org/wiki/D5000 "wikilink")등이 있다.
+**캐논 EOS 600D**()는 [캐논](../Page/캐논.md "wikilink")이 [2011년](../Page/2011년.md "wikilink") 2월 7일 발표한 보급형 [디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). [캐논 EOS 550D의](../Page/캐논_EOS_550D.md "wikilink") 후속모델이며, 550D와 마찬가지로 Full HD급 동영상까지 (1920 × 1080) 30fps로 촬영이 가능하다. 550D와, 60D, 7D에 탑재되었던 1800만 화소 APS-C CMOS 센서를 탑재하여 이들과 화질은 사실상 같다고 할 수 있다. 출시 초기 가격은 본체만 799.99달러이며, 새롭게 설계된 18-55mm f3.5-5.6 IS II 렌즈도 함께 출시되어 바디와 함께 셋트로 899.99달러에 구매가 가능하다. 검정색과, 붉은색 제품이 있다. 일본에서 판매되는 이름은 Canon EOS Kiss X5, 북미에서는 Canon EOS Rebel T3i이다. 경쟁 모델로는 소니의 [A55](https://ko.wikipedia.org/wiki/A55 "wikilink")와, 니콘의 [D5000](https://ko.wikipedia.org/wiki/D5000 "wikilink")등이 있다.
 
 ## 550D보다 향상된 기능
 

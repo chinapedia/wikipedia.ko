@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LASK ](https://ko.wikipedia.org/wiki/LASK_).
 
 
-**LASK 린츠**(LASK Linz)는 [1908년](https://ko.wikipedia.org/wiki/1908년 "wikilink") [8월 7일에](https://ko.wikipedia.org/wiki/8월_7일 "wikilink") 창단된 [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink") [린츠](https://ko.wikipedia.org/wiki/린츠 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [오스트리아 분데스리가에서](https://ko.wikipedia.org/wiki/오스트리아_분데스리가 "wikilink") 활동하고 있다.
+**LASK 린츠**(LASK Linz)는 [1908년](../Page/1908년.md "wikilink") [8월 7일에](../Page/8월_7일.md "wikilink") 창단된 [오스트리아](../Page/오스트리아.md "wikilink") [린츠](../Page/린츠.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [오스트리아 분데스리가에서](https://ko.wikipedia.org/wiki/오스트리아_분데스리가 "wikilink") 활동하고 있다.
 
 ## 성적
 

@@ -15,7 +15,7 @@
 
 **리그기간**
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink") \~ [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink")
+  - [2006년](../Page/2006년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink")
 
 **리그방식**
 
@@ -32,7 +32,7 @@
   - 김택용 역대 MSL 통산 3번째 로열로더 달성 (강민-최연성-김택용)
   - 결승전 장소 : [서울어린이대공원](https://ko.wikipedia.org/wiki/서울어린이대공원 "wikilink") 돔아트홀
   - 결승전 예고에서 김택용의 우승 확률을 2.69%로 책정하면서 사람들에게 화제를 불러일으킴
-  - 결승전 초대가수 : [천상지희 더 그레이스](https://ko.wikipedia.org/wiki/천상지희_더_그레이스 "wikilink")
+  - 결승전 초대가수 : [천상지희 더 그레이스](../Page/천상지희_더_그레이스.md "wikilink")
   - 마재윤 양대리그(OSL,MSL)우승 실패(OSL만 이윤열에게 이겨서 우승)
 
 ## 본선

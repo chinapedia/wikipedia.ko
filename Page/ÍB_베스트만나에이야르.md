@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [B ](https://ko.wikipedia.org/wiki/B_).
 
 
-**ÍB 베스트만나에이야르**(, 약칭 **ÍBV**)는 [1924년](https://ko.wikipedia.org/wiki/1924년 "wikilink")에 창단된 [아이슬란드](https://ko.wikipedia.org/wiki/아이슬란드 "wikilink") [베스트만나에이야르 제도의](https://ko.wikipedia.org/wiki/베스트만나에이야르_제도 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**ÍB 베스트만나에이야르**(, 약칭 **ÍBV**)는 [1924년](../Page/1924년.md "wikilink")에 창단된 [아이슬란드](../Page/아이슬란드.md "wikilink") [베스트만나에이야르 제도의](https://ko.wikipedia.org/wiki/베스트만나에이야르_제도 "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다.
 
 IB 베스트만나에이야르는 리그 우승 3회, 컵 대회 우승 4회의 기록을 갖고 있다.
 

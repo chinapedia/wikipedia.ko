@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [HP](https://ko.wikipedia.org/wiki/HP).
 
 
-**한국HP(휴렛팩커드)**(Hewlett-Packard Korea)는 1984년 설립된 [HP의](https://ko.wikipedia.org/wiki/휴렛팩커드 "wikilink") 한국 지사이다. 1984년 8월 삼성휴렛팩커드 주식회사로 설립, 1995년 3월 한국휴렛팩커드로 상호를 변경하였으며, 2002년 9월 [주식회사](https://ko.wikipedia.org/wiki/주식회사 "wikilink")에서 [유한회사](https://ko.wikipedia.org/wiki/유한회사 "wikilink")로 변경하였다. HP와 [컴팩](../Page/컴팩.md "wikilink")의 인수 합병에 따라 2002년 12월 컴팩코리아를 인수 합병하였다.
+**한국HP(휴렛팩커드)**(Hewlett-Packard Korea)는 1984년 설립된 [HP의](https://ko.wikipedia.org/wiki/휴렛팩커드 "wikilink") 한국 지사이다. 1984년 8월 삼성휴렛팩커드 주식회사로 설립, 1995년 3월 한국휴렛팩커드로 상호를 변경하였으며, 2002년 9월 [주식회사](../Page/주식회사.md "wikilink")에서 [유한회사](../Page/유한회사.md "wikilink")로 변경하였다. HP와 [컴팩](../Page/컴팩.md "wikilink")의 인수 합병에 따라 2002년 12월 컴팩코리아를 인수 합병하였다.
 
 ## 제품 및 서비스
 
   - [데스크톱 PC](../Page/데스크톱_컴퓨터.md "wikilink")
   - [노트북 PC](https://ko.wikipedia.org/wiki/노트북_컴퓨터 "wikilink")
-  - [프린터](https://ko.wikipedia.org/wiki/프린터 "wikilink") 및 [복합기](../Page/복합기.md "wikilink")
-  - [잉크](../Page/잉크_카트리지.md "wikilink"), [토너](https://ko.wikipedia.org/wiki/토너 "wikilink"), 종이
+  - [프린터](../Page/프린터.md "wikilink") 및 [복합기](../Page/복합기.md "wikilink")
+  - [잉크](../Page/잉크_카트리지.md "wikilink"), [토너](../Page/토너.md "wikilink"), 종이
   - [모니터](https://ko.wikipedia.org/wiki/컴퓨터_디스플레이 "wikilink")
   - [스캐너](https://ko.wikipedia.org/wiki/스캐너 "wikilink")
   - iPAQ 핸드헬드
-  - [워크스테이션](https://ko.wikipedia.org/wiki/워크스테이션 "wikilink")
-  - [서버](https://ko.wikipedia.org/wiki/서버 "wikilink")
+  - [워크스테이션](../Page/워크스테이션.md "wikilink")
+  - [서버](../Page/서버.md "wikilink")
   - 스토리지
   - 엔터프라이즈 솔루션
 

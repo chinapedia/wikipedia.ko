@@ -103,22 +103,22 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아르헨티나" title="wikilink">아르헨티나</a></p></td>
+<td><p><a href="../Page/아르헨티나.md" title="wikilink">아르헨티나</a></p></td>
 <td><p>4× 플래티넘[15]</p></td>
 <td><p>240,000x</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a></p></td>
+<td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p>4× 플래티넘[16]</p></td>
 <td><p>280,000^</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/브라질" title="wikilink">브라질</a></p></td>
+<td><p><a href="../Page/브라질.md" title="wikilink">브라질</a></p></td>
 <td><p>골드[17]</p></td>
 <td><p>1,000,000[18]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나다" title="wikilink">캐나다</a></p></td>
+<td><p><a href="../Page/캐나다.md" title="wikilink">캐나다</a></p></td>
 <td><p>다이아몬드[19]</p></td>
 <td><p>1,000,000</p></td>
 </tr>
@@ -133,7 +133,7 @@
 <td><p>1,353,500[22]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/독일" title="wikilink">독일</a></p></td>
+<td><p><a href="../Page/독일.md" title="wikilink">독일</a></p></td>
 <td><p>2× 플래티넘[23]</p></td>
 <td><p>1,000,000^</p></td>
 </tr>
@@ -143,7 +143,7 @@
 <td><p>15,000*</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/네덜란드" title="wikilink">네덜란드</a></p></td>
+<td><p><a href="../Page/네덜란드.md" title="wikilink">네덜란드</a></p></td>
 <td><p>7× 플래티넘[25]</p></td>
 <td><p>300,000^</p></td>
 </tr>
@@ -153,17 +153,17 @@
 <td><p>75,000^</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스페인" title="wikilink">스페인</a></p></td>
+<td><p><a href="../Page/스페인.md" title="wikilink">스페인</a></p></td>
 <td><p>3× 플래티넘[27]</p></td>
 <td><p>300,000^</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/영국" title="wikilink">영국</a></p></td>
+<td><p><a href="../Page/영국.md" title="wikilink">영국</a></p></td>
 <td><p>7× 플래티넘[28]</p></td>
 <td><p>2,100,000^</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미국_음반_산업_협회" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/미국_음반_산업_협회.md" title="wikilink">미국</a></p></td>
 <td><p>7× 플래티넘[29]</p></td>
 <td><p>7,000,000^</p></td>
 </tr>

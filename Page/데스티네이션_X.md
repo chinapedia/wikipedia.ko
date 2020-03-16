@@ -33,7 +33,7 @@
 <tr class="odd">
 <td><p>2007년 3월 11일</p></td>
 <td><p>900</p></td>
-<td><p><a href="../Page/크리스천_(프로레슬링_선수).md" title="wikilink">크리스천 케이지</a> vs. <a href="https://ko.wikipedia.org/wiki/사모아_조" title="wikilink">사모아 조</a> (NWA 월드 헤비웨이트 챔피언십)</p></td>
+<td><p><a href="../Page/크리스천_(프로레슬링_선수).md" title="wikilink">크리스천 케이지</a> vs. <a href="../Page/사모아_조.md" title="wikilink">사모아 조</a> (NWA 월드 헤비웨이트 챔피언십)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -42,19 +42,19 @@
 <td><p><a href="../Page/노퍽_(버지니아주).md" title="wikilink">노퍽</a></p></td>
 <td><p><a href="../Page/노퍽_스코프.md" title="wikilink">노퍽 스코프</a></p></td>
 <td><p>3,200</p></td>
-<td><p><a href="../Page/크리스천_(프로레슬링_선수).md" title="wikilink">크리스천 케이지</a> &amp; <a href="https://ko.wikipedia.org/wiki/케빈_내시" title="wikilink">케빈 내시</a> &amp; <a href="https://ko.wikipedia.org/wiki/사모아_조" title="wikilink">사모아 조</a> vs. 더 앵글 얼라이언스 (<a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> &amp; <a href="https://ko.wikipedia.org/wiki/A.J._스타일스" title="wikilink">A.J. 스타일스</a> &amp; <a href="https://ko.wikipedia.org/wiki/트래비스_톰코" title="wikilink">트래비스 톰코</a>) (식스맨 태그팀 매치)</p></td>
+<td><p><a href="../Page/크리스천_(프로레슬링_선수).md" title="wikilink">크리스천 케이지</a> &amp; <a href="https://ko.wikipedia.org/wiki/케빈_내시" title="wikilink">케빈 내시</a> &amp; <a href="../Page/사모아_조.md" title="wikilink">사모아 조</a> vs. 더 앵글 얼라이언스 (<a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> &amp; <a href="../Page/A.J._스타일스.md" title="wikilink">A.J. 스타일스</a> &amp; <a href="https://ko.wikipedia.org/wiki/트래비스_톰코" title="wikilink">트래비스 톰코</a>) (식스맨 태그팀 매치)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009년 3월 15일</p></td>
 <td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
 <td><p>임팩트 존</p></td>
 <td><p>1,100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스팅_(프로레슬링_선수)" title="wikilink">스팅</a> vs. <a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
+<td><p><a href="../Page/스팅_(프로레슬링_선수).md" title="wikilink">스팅</a> vs. <a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
 </tr>
 <tr class="even">
 <td><p>2010년 3월 21일</p></td>
 <td><p>1,100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/A.J._스타일스" title="wikilink">A.J. 스타일스</a> vs. <a href="https://ko.wikipedia.org/wiki/크리스_파크스" title="wikilink">어비스</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
+<td><p><a href="../Page/A.J._스타일스.md" title="wikilink">A.J. 스타일스</a> vs. <a href="../Page/크리스_파크스.md" title="wikilink">어비스</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -62,13 +62,13 @@
 <td><p>2011년 7월 10일</p></td>
 <td><p>임팩트 존</p></td>
 <td><p>1,100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/A.J._스타일스" title="wikilink">A.J. 스타일스</a> vs. <a href="https://ko.wikipedia.org/wiki/크리스토퍼_대니얼스" title="wikilink">크리스토퍼 대니얼스</a></p></td>
+<td><p><a href="../Page/A.J._스타일스.md" title="wikilink">A.J. 스타일스</a> vs. <a href="../Page/크리스토퍼_대니얼스.md" title="wikilink">크리스토퍼 대니얼스</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2012년 7월 8일</p></td>
 <td><p>1,100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오스틴_에리스" title="wikilink">오스틴 에리스</a> vs. <a href="https://ko.wikipedia.org/wiki/로버트_루드" title="wikilink">바비 루드</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
+<td><p><a href="../Page/오스틴_에리스.md" title="wikilink">오스틴 에리스</a> vs. <a href="../Page/로버트_루드.md" title="wikilink">바비 루드</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -93,26 +93,26 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/켄터키" title="wikilink">켄터키</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/브로드벤트_아레나" title="wikilink">브로드벤트 아레나</a></p></td>
 <td><p>3,200</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/크리스_세이빈" title="wikilink">크리스 세이빈</a> vs. <a href="https://ko.wikipedia.org/wiki/마크_로모나코" title="wikilink">불리 레이</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
+<td><p><a href="../Page/크리스_세이빈.md" title="wikilink">크리스 세이빈</a> vs. <a href="../Page/마크_로모나코.md" title="wikilink">불리 레이</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
 </tr>
 <tr class="even">
 <td><p>2014년 7월 31일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a></p></td>
+<td><p><a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
 <td><p>그랜드 볼룸</p></td>
 <td><p>1,000</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보비_래슐리" title="wikilink">래슐리</a> vs. <a href="https://ko.wikipedia.org/wiki/오스틴_에리스" title="wikilink">오스틴 에리스</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
+<td><p><a href="../Page/보비_래슐리.md" title="wikilink">래슐리</a> vs. <a href="../Page/오스틴_에리스.md" title="wikilink">오스틴 에리스</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015년 6월 10일</p></td>
 <td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
 <td><p>임팩트 존</p></td>
 <td><p>600</p></td>
-<td><p><a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> vs. <a href="https://ko.wikipedia.org/wiki/오스틴_에리스" title="wikilink">오스틴 에리스</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
+<td><p><a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> vs. <a href="../Page/오스틴_에리스.md" title="wikilink">오스틴 에리스</a> (TNA 월드 헤비웨이트 챔피언십)</p></td>
 </tr>
 <tr class="even">
 <td><p>2016년 7월 12일</p></td>
 <td><p>600</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보비_래슐리" title="wikilink">래슐리</a> vs. <a href="https://ko.wikipedia.org/wiki/에디_에드워즈_(프로레슬링_선수)" title="wikilink">에디 에드워즈</a> (TNA 월드 헤비웨이트 챔피언십 &amp; TNA X 디비전 챔피언십)</p></td>
+<td><p><a href="../Page/보비_래슐리.md" title="wikilink">래슐리</a> vs. <a href="https://ko.wikipedia.org/wiki/에디_에드워즈_(프로레슬링_선수)" title="wikilink">에디 에드워즈</a> (TNA 월드 헤비웨이트 챔피언십 &amp; TNA X 디비전 챔피언십)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -137,7 +137,7 @@
 <td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
 <td><p>임팩트존</p></td>
 <td><p>1100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알베르토_델_리오" title="wikilink">알베르토 엘 파트론</a> vs. <a href="https://ko.wikipedia.org/wiki/로우_키" title="wikilink">로우 키</a> (GFW 월드 헤비웨이트 챔피언십)</p></td>
+<td><p><a href="../Page/알베르토_델_리오.md" title="wikilink">알베르토 엘 파트론</a> vs. <a href="https://ko.wikipedia.org/wiki/로우_키" title="wikilink">로우 키</a> (GFW 월드 헤비웨이트 챔피언십)</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TIGER \& BUNNY](https://ko.wikipedia.org/wiki/TIGER_\&_BUNNY).
 
 
-《**TIGER & BUNNY**》(타이거 앤 버니)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 작품이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")까지 [마이니치 방송](../Page/마이니치_방송.md "wikilink") (MBS) 제작으로 방영.
+《**TIGER & BUNNY**》(타이거 앤 버니)는 [일본](../Page/일본.md "wikilink")의 [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 작품이다. [2011년](../Page/2011년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [9월](../Page/9월.md "wikilink")까지 [마이니치 방송](../Page/마이니치_방송.md "wikilink") (MBS) 제작으로 방영.
 
 제작사는 [선라이즈](https://ko.wikipedia.org/wiki/선라이즈 "wikilink").
 
@@ -39,7 +39,7 @@ MBS 제작 [독립 UHF국 계열 애니메이션은](https://ko.wikipedia.org/wi
 
 어디까지나 일은 일로 생각하고 있다. 외견은 아주 호청년이지만 보통은 쿨한 성격. 쓸데없는 것이 싫은 합리주의. "스마트하게 멋있게"가 모토 어떤 목적으로 히어로로 활동할때 유일하게 본명과 얼굴을 공개하고 있다.
 
-<big>**블루로즈(Blue Rose)**</big><sup>히어로계의 슈퍼 아이돌</sup> <big>**/카리나 라일(Karina Lyle)**</big> 성우-[코토부키 미나코](https://ko.wikipedia.org/wiki/코토부키_미나코 "wikilink")
+<big>**블루로즈(Blue Rose)**</big><sup>히어로계의 슈퍼 아이돌</sup> <big>**/카리나 라일(Karina Lyle)**</big> 성우-[코토부키 미나코](../Page/코토부키_미나코.md "wikilink")
 
 타이탄 인더스트리 소속의 아이돌 히어로. 얼음을 다루는 여왕님 캐릭으로 노래하고 춤추는 대인기 히어로. 곤란할때 특기인 \[큐티 에스케이프\]를 화려하게 피로한다
 
@@ -57,19 +57,19 @@ MBS 제작 [독립 UHF국 계열 애니메이션은](https://ko.wikipedia.org/wi
 
 상쾌한 풍모로 매일 노력을 게을리 하지 않는 엄정 성실한 호청년이다. 히어로들로부터의 신뢰도 두텁다. 통찰력이 있는거 같지만 사실은 그냥 순수한 캐릭.
 
-<big>**드래곤 키드(Dragon Kid)**</big> <sup>번개 쿵푸 마스터</sup> <big>**/황 파오린(Pao-Lin Huang)**</big> 성우-[이세 마리야](https://ko.wikipedia.org/wiki/이세_마리야 "wikilink")
+<big>**드래곤 키드(Dragon Kid)**</big> <sup>번개 쿵푸 마스터</sup> <big>**/황 파오린(Pao-Lin Huang)**</big> 성우-[이세 마리야](../Page/이세_마리야.md "wikilink")
 
 오디세우스 커뮤니케이션 소속의 히어로. 능력은 신체에서 번개(전격)을 발생할 수 있다. 쿵푸의 단련자이기도 하다.
 
 어린시절부터 격투가의 영재교육을 받아 히어로가 되기위해 슈테른 빌트로 보내진 밝고 건강한 소녀. 남자 말투를 쓴다.
 
-<big>**오리가미 사이클론(Origami Cyclone)**</big> <sup>지켜보는 장인</sup> <big>**/이반 카렐린(Ivan Karelin)**</big> 성우-[오카모토 노부히코](https://ko.wikipedia.org/wiki/오카모토_노부히코 "wikilink")
+<big>**오리가미 사이클론(Origami Cyclone)**</big> <sup>지켜보는 장인</sup> <big>**/이반 카렐린(Ivan Karelin)**</big> 성우-[오카모토 노부히코](../Page/오카모토_노부히코.md "wikilink")
 
 헬페리데스 파이낸스 소속의 닌자 히어로. 능력은 \[의태화\]. 히어로 TV의 중계에서는 지켜보기만할뿐 스폰서 로고를 어필하는 것에 열심인 히어로.
 
 히어로 양성 아카데미의 졸업생. 용모와는 정반대로 평소엔 얌전한 성격. 일본의 닌자를 좋아한다.
 
-<big>**파이어 엠블럼(Fire Emblem)**</big><sup>부루주아 직화구이</sup> <big>**/네이던 시모아(Nathan Seymour)**</big> 성우-[츠다 켄지로](https://ko.wikipedia.org/wiki/츠다_켄지로 "wikilink")
+<big>**파이어 엠블럼(Fire Emblem)**</big><sup>부루주아 직화구이</sup> <big>**/네이던 시모아(Nathan Seymour)**</big> 성우-[츠다 켄지로](../Page/츠다_켄지로.md "wikilink")
 
 헬리오스 에너지 소속의 히어로. 능력은 불을 다룬다. 누님 말투의 히어로.헬리오스 에너지의 오너이기도 하다.
 
@@ -137,11 +137,11 @@ MBS 제작 [독립 UHF국 계열 애니메이션은](https://ko.wikipedia.org/wi
 
 코테츠의 전 상사로 뒤에서 코테츠를 응원하는 좋은 이해자.
 
-**카부라기 카에데(Kaede Kaburagi)** 성우-[히다카 리나](https://ko.wikipedia.org/wiki/히다카_리나 "wikilink")
+**카부라기 카에데(Kaede Kaburagi)** 성우-[히다카 리나](../Page/히다카_리나.md "wikilink")
 
 코테츠의 외동딸. 코테츠의 엄마와 살고 있으며 코테츠가 히어로라는걸 모른다.
 
-**유리 페트로브(Yuri Petrov)** 성우-[유사 코지](https://ko.wikipedia.org/wiki/유사_코지 "wikilink")
+**유리 페트로브(Yuri Petrov)** 성우-[유사 코지](../Page/유사_코지.md "wikilink")
 
 슈테른빌트의 사법국 히어로 관리관 겸 재판관. \[히어로TV\]안에서 일어난 기물파손 같은 피해상황을 여러가지 사정을 고려해 배상금 판결을 내리던지해서 공평하게 재판하고 있다.
 

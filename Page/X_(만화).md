@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [X \(\)](https://ko.wikipedia.org/wiki/X_\(\)).
 
 
-《**X**》(엑스)는 [CLAMP](https://ko.wikipedia.org/wiki/CLAMP "wikilink")가 창작한 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")와 이를 원작으로 하는 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다.
+《**X**》(엑스)는 [CLAMP](https://ko.wikipedia.org/wiki/CLAMP "wikilink")가 창작한 [만화](../Page/만화.md "wikilink")와 이를 원작으로 하는 [애니메이션](../Page/애니메이션.md "wikilink")이다.
 
 ## 개요
 
@@ -26,7 +26,7 @@
 어릴 적 고아였지만 이세신궁의 무녀로 자라서 지구의 종말에 필요한 인물로 키워졌다. 기본적으로 냉정하고 감정을 잘 표현하지 않아서 소라타의 애정에 반응이 썰렁하기만 하다. 전투와 카무이를 지키는 천룡의 사명 이외에는 몹시 서툰 사람. 소라타를 사랑하게 된 이후로 중대한 결정을 내리게 되는데 그 예정된 운명이 큰 파란을 불러일으키게 된다. 손에서 검이 나오는 타입이고 피라미드 모양의 결계를 창조할 수 있다.
 
   - 아리스가와 소라타(有洙川空汰)
-    성우 : [마도노 미츠아키](https://ko.wikipedia.org/wiki/마도노_미츠아키 "wikilink")(眞殿光昭)
+    성우 : [마도노 미츠아키](../Page/마도노_미츠아키.md "wikilink")(眞殿光昭)
 
 3살 때 부모와 떨어져 고야산에서 고승들 손에 자랐다. 스승의 예지에 따라 카무이의 출현을 깨닫고 도쿄로 올라온다. 정사각형의 결계를 치고 뇌전을 사용할 줄 아는 지구의 종말에 준비된 천룡이다. 장난스러운 모습과 달리 천룡의 임무에 대해선 진지하고 아라시를 몹시 사랑한다. 천룡으로서 카무이를 위해 싸우지만 사랑하는 여자를 위해 목숨을 바치고 죽는다.
 

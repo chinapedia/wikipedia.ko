@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ FF](https://ko.wikipedia.org/wiki/_FF).
 
 
-**말뫼 FF**(, Malmö FF)는 [1910년](https://ko.wikipedia.org/wiki/1910년 "wikilink")에 창단된 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") [말뫼](https://ko.wikipedia.org/wiki/말뫼 "wikilink")를 연고지로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 리그 우승 16회와 컵 대회 우승 14회의 기록을 보유하고 있으며 스웨덴에서 가장 성공한 축구 클럽 가운데 하나로 평가받고 있다.
+**말뫼 FF**(, Malmö FF)는 [1910년](../Page/1910년.md "wikilink")에 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [말뫼](../Page/말뫼.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 리그 우승 16회와 컵 대회 우승 14회의 기록을 보유하고 있으며 스웨덴에서 가장 성공한 축구 클럽 가운데 하나로 평가받고 있다.
 
-[1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [유러피언컵](../Page/UEFA_챔피언스리그.md "wikilink") 결승전에서 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [노팅엄 포레스트에](https://ko.wikipedia.org/wiki/노팅엄_포레스트_FC "wikilink") 0-1로 패해 준우승을 차지했다. 스웨덴의 축구 클럽이 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 결승전에 진출한 것은 현재까지 말뫼 FF가 유일하다.
+[1979년](../Page/1979년.md "wikilink") [유러피언컵](../Page/UEFA_챔피언스리그.md "wikilink") 결승전에서 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [노팅엄 포레스트에](https://ko.wikipedia.org/wiki/노팅엄_포레스트_FC "wikilink") 0-1로 패해 준우승을 차지했다. 스웨덴의 축구 클럽이 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 결승전에 진출한 것은 현재까지 말뫼 FF가 유일하다.
 
 ## 성적
 
@@ -44,7 +44,7 @@
 
   - [마르쿠스 로센베리](../Page/마르쿠스_로센베리.md "wikilink")
 
-  - [파트리크 안데르손](https://ko.wikipedia.org/wiki/파트리크_안데르손 "wikilink")
+  - [파트리크 안데르손](../Page/파트리크_안데르손.md "wikilink")
 
   - [야리 리트마넨](../Page/야리_리트마넨.md "wikilink")
 

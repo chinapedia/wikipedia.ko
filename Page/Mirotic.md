@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mirotic](https://ko.wikipedia.org/wiki/Mirotic).
 
 
-《**Mirotic**》(미로틱)는 [동방신기](../Page/동방신기.md "wikilink")의 네 번째 정규 음반이다. 2008년 9월 26일에 발매되었다. 타이틀곡 〈주문 - MIROTIC〉의 뮤직비디오에는 모델 [김성희가](https://ko.wikipedia.org/wiki/김성희_\(1986년\) "wikilink"), 후속곡 Wrong Number 뮤직비디오에는 모델 [이솜](https://ko.wikipedia.org/wiki/이솜 "wikilink")이 각각 출연하였다.
+《**Mirotic**》(미로틱)는 [동방신기](../Page/동방신기.md "wikilink")의 네 번째 정규 음반이다. 2008년 9월 26일에 발매되었다. 타이틀곡 〈주문 - MIROTIC〉의 뮤직비디오에는 모델 [김성희가](https://ko.wikipedia.org/wiki/김성희_\(1986년\) "wikilink"), 후속곡 Wrong Number 뮤직비디오에는 모델 [이솜](../Page/이솜.md "wikilink")이 각각 출연하였다.
 
 ## 트랙 리스트
 

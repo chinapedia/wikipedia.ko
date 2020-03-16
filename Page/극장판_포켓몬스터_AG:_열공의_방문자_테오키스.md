@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  AG:   ](https://ko.wikipedia.org/wiki/__AG:___).
 
 
-〈**극장판 포켓몬스터 열공의 방문자 테오키스**〉(劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス)는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 17일에](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 개봉된 [TV 애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")〈[포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제7기이다.
+〈**극장판 포켓몬스터 열공의 방문자 테오키스**〉(劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス)는 [2004년](../Page/2004년.md "wikilink") [7월 17일에](../Page/7월_17일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink")〈[포켓몬스터](../Page/포켓몬스터.md "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제7기이다.
 
 ## 줄거리
 
@@ -10,13 +10,13 @@
 ## 등장인물
 
   - 하늘
-    성우 - [히다카 노리코](https://ko.wikipedia.org/wiki/히다카_노리코 "wikilink") / [김정애](https://ko.wikipedia.org/wiki/김정애 "wikilink")
+    성우 - [히다카 노리코](../Page/히다카_노리코.md "wikilink") / [김정애](https://ko.wikipedia.org/wiki/김정애 "wikilink")
     론도 박사의 아들. 4년 전에 병원에서 있었던 사건에 의해 포켓몬에 대한 강한 공포감을 가지게 되었다. 다만 온실에 있는 어떤 한 작은 빛덩어리와 친구를 맺은 모양이다.
 
 <!-- end list -->
 
   - 론도 박사
-    성우 - / [김관진](https://ko.wikipedia.org/wiki/김관진_\(성우\) "wikilink")
+    성우 - / [김관진](../Page/김관진_\(성우\).md "wikilink")
     하늘이의 아버지. 랄스시티 연구소의 과학자이다.
 
 <!-- end list -->
@@ -33,13 +33,13 @@
 <!-- end list -->
 
   - 류
-    성우 - [노지마 켄지](https://ko.wikipedia.org/wiki/노지마_켄지_\(성우\) "wikilink") / [엄상현](../Page/엄상현.md "wikilink")
+    성우 - [노지마 켄지](../Page/노지마_켄지_\(성우\).md "wikilink") / [엄상현](../Page/엄상현.md "wikilink")
     지우와 친구들이 만난 침착한 까도남 베테랑 포켓몬 트레이너. 파트너는 [번치코](../Page/번치코.md "wikilink"). 다만 여동생을 무지 좋아한다.
 
 <!-- end list -->
 
   - 정수
-    성우 - / [최석필](https://ko.wikipedia.org/wiki/최석필 "wikilink")
+    성우 - / [최석필](../Page/최석필.md "wikilink")
     류의 친구. 파트너는 [거북왕](../Page/거북왕.md "wikilink"). 봄이를 좋아한다.
 
 <!-- end list -->

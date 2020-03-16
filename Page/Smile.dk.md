@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Smile.dk](https://ko.wikipedia.org/wiki/Smile.dk).
 
 
-**Smile.dk**(**스마일.dk**)는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")의 여성 [댄스팝](https://ko.wikipedia.org/wiki/댄스팝 "wikilink") 그룹이다. 그룹 이름에 붙은 dk라는 글자는 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink")의 [국가 최상위 도메인이다](https://ko.wikipedia.org/wiki/국가_최상위_도메인 "wikilink"). 현재 Smile.dk의 유일한 구성원은 베로니카 알름크비스트이다.
+**Smile.dk**(**스마일.dk**)는 [스웨덴](../Page/스웨덴.md "wikilink")의 여성 [댄스팝](https://ko.wikipedia.org/wiki/댄스팝 "wikilink") 그룹이다. 그룹 이름에 붙은 dk라는 글자는 [덴마크](../Page/덴마크.md "wikilink")의 [국가 최상위 도메인이다](https://ko.wikipedia.org/wiki/국가_최상위_도메인 "wikilink"). 현재 Smile.dk의 유일한 구성원은 베로니카 알름크비스트이다.
 
 잘 알려진 노래는 [댄스 댄스 레볼루션을](../Page/댄스_댄스_레볼루션.md "wikilink") 통해 알려진 《Butterfly》를 비롯해 《Golden Sky》, 《Boys》, 《Mr. Wonderful》, 《Petit Love》, 《Koko Soko》, 《A Geisha's Dream》, 《Dancing All Alone》 등이 있다.
 

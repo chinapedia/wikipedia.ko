@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MIMD](https://ko.wikipedia.org/wiki/MIMD).
 
 
-[right](https://ko.wikipedia.org/wiki/파일:MIMD.svg "wikilink")  **복수명령-복수자료**()은 전산에서 병렬화의 한 기법이다. MIMD를 사용하는 기계는 비동기적이면서 독립적으로 동작하는 여러개의 프로세서가 있다. 언제든지 각각의 다른 프로세서들은 각기 다른 데이터를 이용하는 각기 다른 여러 명령어들이 실행할 수 있다. MIMD기계는 [공유 메모리이거나](https://ko.wikipedia.org/wiki/공유_메모리 "wikilink") [분산 메모리이며](https://ko.wikipedia.org/wiki/분산_메모리 "wikilink") 이러한 분류는 MIMD가 어떻게 메모리를 이용하느냐에 따라 나뉜다. 공유 메모리 기계는 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink")기반, 확장 또는 [계층](https://ko.wikipedia.org/wiki/계층 "wikilink")적인 형태일 수 있다. 분산 메모리 기계는 [하이퍼큐브](https://ko.wikipedia.org/wiki/하이퍼큐브 "wikilink")나 [메시](https://ko.wikipedia.org/wiki/메시_네트워킹 "wikilink") 상호연결 기법을 사용한다. MIMD 는 [플린의 분류학에서](https://ko.wikipedia.org/wiki/병렬_컴퓨팅#플린의_분류학 "wikilink") 정의된 4개 분류중의 하나이다.
+[right](https://ko.wikipedia.org/wiki/파일:MIMD.svg "wikilink")  **복수명령-복수자료**()은 전산에서 병렬화의 한 기법이다. MIMD를 사용하는 기계는 비동기적이면서 독립적으로 동작하는 여러개의 프로세서가 있다. 언제든지 각각의 다른 프로세서들은 각기 다른 데이터를 이용하는 각기 다른 여러 명령어들이 실행할 수 있다. MIMD기계는 [공유 메모리이거나](../Page/공유_메모리.md "wikilink") [분산 메모리이며](https://ko.wikipedia.org/wiki/분산_메모리 "wikilink") 이러한 분류는 MIMD가 어떻게 메모리를 이용하느냐에 따라 나뉜다. 공유 메모리 기계는 [버스](../Page/버스.md "wikilink")기반, 확장 또는 [계층](../Page/계층.md "wikilink")적인 형태일 수 있다. 분산 메모리 기계는 [하이퍼큐브](https://ko.wikipedia.org/wiki/하이퍼큐브 "wikilink")나 [메시](https://ko.wikipedia.org/wiki/메시_네트워킹 "wikilink") 상호연결 기법을 사용한다. MIMD 는 [플린의 분류학에서](https://ko.wikipedia.org/wiki/병렬_컴퓨팅#플린의_분류학 "wikilink") 정의된 4개 분류중의 하나이다.
 
 ## 공유 메모리 모델
 
-프로세서들은 모두 소프트웨어적으로 또는 하드웨어적으로 전역 가능한 메모리에 연결되어 있다. [운영 체제는](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") [메모리 일관성](https://ko.wikipedia.org/wiki/메모리_일관성 "wikilink")(Memory coherence)을 유지한다.\[1\] 프로그래머의 관점에서 이 메모리 모델은 분산 메모리 모델보다 이해하기가 쉬운 장점이 있다. 또 다른 장점은 메모리 일관성은 프로그램에 의해서가 아니라 OS에 의해서 관리된다. 두가지 알려진 단점은, 첫째는 서른두개 이상의 확장성이 어려우며, 둘째는 분산 메모리 모델보다 유연하지가 않다.\[2\] 기타 다른 공유 메모리 모델로는 UMA(Uniform Memory Access), COMA(Cached Only Memory Access) 와 [NUMA](https://ko.wikipedia.org/wiki/불균일_기억_장치_접근 "wikilink")()가 있다.\[3\]
+프로세서들은 모두 소프트웨어적으로 또는 하드웨어적으로 전역 가능한 메모리에 연결되어 있다. [운영 체제는](../Page/운영_체제.md "wikilink") [메모리 일관성](https://ko.wikipedia.org/wiki/메모리_일관성 "wikilink")(Memory coherence)을 유지한다.\[1\] 프로그래머의 관점에서 이 메모리 모델은 분산 메모리 모델보다 이해하기가 쉬운 장점이 있다. 또 다른 장점은 메모리 일관성은 프로그램에 의해서가 아니라 OS에 의해서 관리된다. 두가지 알려진 단점은, 첫째는 서른두개 이상의 확장성이 어려우며, 둘째는 분산 메모리 모델보다 유연하지가 않다.\[2\] 기타 다른 공유 메모리 모델로는 UMA(Uniform Memory Access), COMA(Cached Only Memory Access) 와 [NUMA](../Page/불균일_기억_장치_접근.md "wikilink")()가 있다.\[3\]
 
 ### 버스 기반
 
@@ -21,7 +21,7 @@
 
 ### 초입방체 상호연결 네트워크
 
-4차원 이상에서 모든 변의 길이가 같은 도형을 [초입방체](https://ko.wikipedia.org/wiki/초입방체 "wikilink")라고 한다. 네개의 프로세서가 [초입방체](https://ko.wikipedia.org/wiki/초입방체 "wikilink")로 연결되어있는 MIMD 분산 메모리 기계에서, 각 프로세서와 메모리 모듈은 각 정사각형의 꼭짓점에 위치해 있다. **시스템의 직경**은 하나의 프로세서가 가장 먼 곳에 있는 프로세서로 메시지를 전달하는 데 걸리는 최소 단계 수를 말한다. 예를 들면 2-초입방체의 직경은 1이다. 여덟개의 프로세서가 있는 초입방체에서는 각각의 프로세서와 메모리는 [정육면체](https://ko.wikipedia.org/wiki/정육면체 "wikilink")의 각 꼭짓점에 위치해 있으며 직경은 3이다. 일반적으로 2<sup>N</sup>개의 프로세서가 있는 시스템은 N개의 다른 프로세서들과 직접 연결되어 있으며 시스템의 직경은 N이다. 하나의 단점은 2의 제곱으로 구성되어야 한다는 것이다. 따라서 기계는 응용 프로그램이 실제로 필요한 프로세서 수보다 더 많은 프로세서로 구성되어야 하는 경우가 생긴다.
+4차원 이상에서 모든 변의 길이가 같은 도형을 [초입방체](https://ko.wikipedia.org/wiki/초입방체 "wikilink")라고 한다. 네개의 프로세서가 [초입방체](https://ko.wikipedia.org/wiki/초입방체 "wikilink")로 연결되어있는 MIMD 분산 메모리 기계에서, 각 프로세서와 메모리 모듈은 각 정사각형의 꼭짓점에 위치해 있다. **시스템의 직경**은 하나의 프로세서가 가장 먼 곳에 있는 프로세서로 메시지를 전달하는 데 걸리는 최소 단계 수를 말한다. 예를 들면 2-초입방체의 직경은 1이다. 여덟개의 프로세서가 있는 초입방체에서는 각각의 프로세서와 메모리는 [정육면체](../Page/정육면체.md "wikilink")의 각 꼭짓점에 위치해 있으며 직경은 3이다. 일반적으로 2<sup>N</sup>개의 프로세서가 있는 시스템은 N개의 다른 프로세서들과 직접 연결되어 있으며 시스템의 직경은 N이다. 하나의 단점은 2의 제곱으로 구성되어야 한다는 것이다. 따라서 기계는 응용 프로그램이 실제로 필요한 프로세서 수보다 더 많은 프로세서로 구성되어야 하는 경우가 생긴다.
 
 ### 메시 상호연결 네트워크
 
@@ -30,9 +30,9 @@
 ## 같이 보기
 
   - [SMP](https://ko.wikipedia.org/wiki/대칭형_다중_처리 "wikilink")
-  - [NUMA](https://ko.wikipedia.org/wiki/불균일_기억_장치_접근 "wikilink")
+  - [NUMA](../Page/불균일_기억_장치_접근.md "wikilink")
   - [멀티 코어](../Page/멀티_코어.md "wikilink")
-  - [슈퍼스칼라](https://ko.wikipedia.org/wiki/슈퍼스칼라 "wikilink")
+  - [슈퍼스칼라](../Page/슈퍼스칼라.md "wikilink")
   - [VLIW](https://ko.wikipedia.org/wiki/VLIW "wikilink")
 
 ## 각주

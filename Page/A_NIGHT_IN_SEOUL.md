@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [A NIGHT IN SEOUL](https://ko.wikipedia.org/wiki/A_NIGHT_IN_SEOUL).
 
 
-《**A Night in Seoul**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악인 [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")의 1인 프로젝트 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [토이의](https://ko.wikipedia.org/wiki/토이_\(대한민국의_음악_그룹\) "wikilink") 네 번째 음반이다.
+《**A Night in Seoul**》은 [대한민국](../Page/대한민국.md "wikilink")의 음악인 [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")의 1인 프로젝트 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [토이의](https://ko.wikipedia.org/wiki/토이_\(대한민국의_음악_그룹\) "wikilink") 네 번째 음반이다.
 
-1998년 12월 28일 발매되었으며, 타이틀 곡은 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [김연우](https://ko.wikipedia.org/wiki/김연우 "wikilink")가 부른 〈여전히 아름다운지〉였다. 이 당시 유희열은 [MBC FM의](https://ko.wikipedia.org/wiki/MBC_FM "wikilink") [라디오](https://ko.wikipedia.org/wiki/라디오 "wikilink") 프로그램 《유희열의 [FM 음악도시](https://ko.wikipedia.org/wiki/FM_음악도시 "wikilink")》진행을 병행하기도 했었다.\[1\] 2002년 1월에는 EnE Media 레이블에서 재발매된 바 있다.
+1998년 12월 28일 발매되었으며, 타이틀 곡은 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [김연우](../Page/김연우.md "wikilink")가 부른 〈여전히 아름다운지〉였다. 이 당시 유희열은 [MBC FM의](https://ko.wikipedia.org/wiki/MBC_FM "wikilink") [라디오](../Page/라디오.md "wikilink") 프로그램 《유희열의 [FM 음악도시](../Page/FM_음악도시.md "wikilink")》진행을 병행하기도 했었다.\[1\] 2002년 1월에는 EnE Media 레이블에서 재발매된 바 있다.
 
 ## 수록곡
 
@@ -23,35 +23,35 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/유희열" title="wikilink">유희열</a> - <a href="https://ko.wikipedia.org/wiki/음악_프로듀서" title="wikilink">프로듀서</a>, 디렉터, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반</a>(1, 2, 4~6, 8~11, 13) 컴퓨터 프로그래밍(1, 2, 4, 5, 8~11), rhodes <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>(4), 피아노(7, 9, 10, 12), <a href="https://ko.wikipedia.org/wiki/백_보컬" title="wikilink">백 보컬</a>(12), <a href="../Page/오르간.md" title="wikilink">오르간</a>(13)</li>
+<li><a href="https://ko.wikipedia.org/wiki/유희열" title="wikilink">유희열</a> - <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, 디렉터, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반</a>(1, 2, 4~6, 8~11, 13) 컴퓨터 프로그래밍(1, 2, 4, 5, 8~11), rhodes <a href="../Page/피아노.md" title="wikilink">피아노</a>(4), 피아노(7, 9, 10, 12), <a href="https://ko.wikipedia.org/wiki/백_보컬" title="wikilink">백 보컬</a>(12), <a href="../Page/오르간.md" title="wikilink">오르간</a>(13)</li>
 </ul>
 <dl>
 <dt>참여 음악인</dt>
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/함춘호" title="wikilink">함춘호</a> - 나일론 스틸 <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>(1), 전기기타(2, 8), 나일론 기타(3), 스틸 기타(4), 전기 스틸 기타(7, 12)</li>
+<li><a href="../Page/함춘호.md" title="wikilink">함춘호</a> - 나일론 스틸 <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>(1), 전기기타(2, 8), 나일론 기타(3), 스틸 기타(4), 전기 스틸 기타(7, 12)</li>
 <li>김원용 - <a href="../Page/색소폰.md" title="wikilink">색소폰</a>(1, 11, 13)</li>
 <li>김태훈 - 건반, 컴퓨터 프로그래밍(1, 2, 4, 5, 11)</li>
 <li>강성호 - 백 보컬(2, 7, 8)</li>
 <li>박영용 - <a href="https://ko.wikipedia.org/wiki/타악기" title="wikilink">타악기</a>(3, 7, 12)</li>
 <li><a href="../Page/이주한_(음악가).md" title="wikilink">이주한</a> - <a href="../Page/트럼펫.md" title="wikilink">트럼펫</a>(3, 10), Frugel horn(10)</li>
 <li><a href="https://ko.wikipedia.org/wiki/강수호_(드러머)" title="wikilink">강수호</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>(4, 7, 12), 브러시 드럼(6)</li>
-<li>이태윤 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>(4, 11)</li>
-<li>김지연 - <a href="https://ko.wikipedia.org/wiki/플루트" title="wikilink">플루트</a>(4)</li>
+<li>이태윤 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(4, 11)</li>
+<li>김지연 - <a href="../Page/플루트.md" title="wikilink">플루트</a>(4)</li>
 <li><a href="https://ko.wikipedia.org/wiki/Sam_Lee" title="wikilink">Sam Lee</a> - 전기 기타(5), 전기 나일론 기타(11)</li>
 <li>서영도 - 베이스 기타(7, 12)</li>
 <li>김유성 - 건반(8, 9), 컴퓨터 프로그래밍(8, 9, 10)</li>
-<li>이지연 - <a href="https://ko.wikipedia.org/wiki/바이올린" title="wikilink">바이올린</a>(9)</li>
-<li>김수연 - <a href="https://ko.wikipedia.org/wiki/첼로" title="wikilink">첼로</a>(9)</li>
-<li><a href="https://ko.wikipedia.org/wiki/하림_(가수)" title="wikilink">하림</a> - 백 보컬(11)</li>
+<li>이지연 - <a href="../Page/바이올린.md" title="wikilink">바이올린</a>(9)</li>
+<li>김수연 - <a href="../Page/첼로.md" title="wikilink">첼로</a>(9)</li>
+<li><a href="../Page/하림_(가수).md" title="wikilink">하림</a> - 백 보컬(11)</li>
 <li><a href="../Page/윤종신.md" title="wikilink">윤종신</a>, <a href="../Page/김장훈.md" title="wikilink">김장훈</a>, 정동인, 강성호, 이지연, 곽은정 - 백 보컬(12)</li>
 <li>전은영 - 목소리(14)</li>
 <li>현악(3, 4, 7, 14)
 <ul>
 <li>이지연, 이유정, 최은주, 유연주, 김수진, 김미정, 신혜정, 유주현 - 1st 바이올린</li>
 <li>남유경, 김지연, 김성연, 손영숙, 이미나, 김희경 - 2nd 바이올린</li>
-<li>박서진, 나혜경, 김은별, 김정임 - <a href="https://ko.wikipedia.org/wiki/비올라" title="wikilink">비올라</a></li>
+<li>박서진, 나혜경, 김은별, 김정임 - <a href="../Page/비올라.md" title="wikilink">비올라</a></li>
 <li>김소현, 윤현선, 장유진, 이예성 - 첼로</li>
 </ul></li>
 </ul></td>

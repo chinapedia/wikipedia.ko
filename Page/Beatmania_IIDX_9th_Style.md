@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Beatmania IIDX 9th Style](https://ko.wikipedia.org/wiki/Beatmania_IIDX_9th_Style).
 
 
-**beatmania IIDX 9th Style**는 [beatmania IIDX](https://ko.wikipedia.org/wiki/beatmania_IIDX "wikilink") 시리즈의 9번째 작품으로 2003년 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")를 통해 발매되었다. [e-Amusement](https://ko.wikipedia.org/wiki/e-Amusement "wikilink") 시스템이 최초로 채용된 작품이기도 하며 해금 곡 포함 신곡 50여 곡이 추가되었다.
+**beatmania IIDX 9th Style**는 [beatmania IIDX](https://ko.wikipedia.org/wiki/beatmania_IIDX "wikilink") 시리즈의 9번째 작품으로 2003년 [코나미](../Page/코나미.md "wikilink")를 통해 발매되었다. [e-Amusement](https://ko.wikipedia.org/wiki/e-Amusement "wikilink") 시스템이 최초로 채용된 작품이기도 하며 해금 곡 포함 신곡 50여 곡이 추가되었다.
 
 이번 작 부터는 하드웨어 기반이 PC용으로 교체되어 그래픽 능력이 향상되었으며 BGA 출력방식 또한 DVD 플레이어에서 따로 전송해주는 방식이 아닌 하드웨어 내부에서 재생되도록 변경되었다.
 

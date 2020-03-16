@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Let\'s Have A Party](https://ko.wikipedia.org/wiki/Let\'s_Have_A_Party).
 
 
-《**Let's Have A Party**》는 대한민국의 여성 음악 그룹 [나인뮤지스](https://ko.wikipedia.org/wiki/나인뮤지스 "wikilink")의 데뷔 싱글이다. 2010년 8월 12일에 발매되었다.
+《**Let's Have A Party**》는 대한민국의 여성 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 데뷔 싱글이다. 2010년 8월 12일에 발매되었다.
 
 2010 년 10 월과 2011 년 1 월에 그룹에서 탈퇴 한 재경, 비니,라나 회원을위한 유일한 석방입니다.
 

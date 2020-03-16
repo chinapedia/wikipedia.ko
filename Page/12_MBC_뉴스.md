@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [12 MBC ](https://ko.wikipedia.org/wiki/12_MBC_).
 
 
-《**12 MBC 뉴스**》()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [MBC에서](https://ko.wikipedia.org/wiki/문화방송 "wikilink") [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시에 방송되는 [문화방송의 낮 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/문화방송의_뉴스_프로그램 "wikilink").
+《**12 MBC 뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") [MBC에서](../Page/문화방송.md "wikilink") [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시에 방송되는 [문화방송의 낮 뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도 / 개요
 
@@ -10,23 +10,23 @@
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                      | 방송 기간                                                                                                                                                                                                                                  | 방송 시간                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink")                                                                                                                                                                                  | [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") \~ [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 50분 \~ 낮 12시 (10분) |
-| [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [1월 5일](https://ko.wikipedia.org/wiki/1월_5일 "wikilink") \~ [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink")       | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 10시 50분 \~ 11시 (10분)                                                                                                                                                              |                                                                             |
-| [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") \~ [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 55분 \~ 낮 12시 5분 (10분)                                                                                                                                                         |                                                                             |
-| [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 55분 \~ 낮 12시 15분 (20분)                                                                                                                                                        |                                                                             |
-| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 50분 (50분)                                                                                                                                                               |                                                                             |
-| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 40분 (40분)                                                                                                                                                               |                                                                             |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 27일](https://ko.wikipedia.org/wiki/5월_27일 "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 25분 (25분)                                                                                                                                                               |                                                                             |
-| [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink")     |                                                                                                                                                                                                                                        |                                                                             |
-| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 30일](https://ko.wikipedia.org/wiki/5월_30일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 5일](https://ko.wikipedia.org/wiki/10월_5일 "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 15분 (15분)                                                                                                                                                               |                                                                             |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 20분 (20분)                                                                                                                                                               |                                                                             |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink")     |                                                                                                                                                                                                                                        |                                                                             |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [7월 15일](https://ko.wikipedia.org/wiki/7월_15일 "wikilink") \~ **현재**                                                                                                                |                                                                                                                                                                                                                                        |                                                                             |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 10분 (10분)                                                                                                                                                               |                                                                             |
+| 방송 채널                                                                                                                                                          | 방송 기간                                                                                                                                                      | 방송 시간                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [MBC TV](../Page/MBC_TV.md "wikilink")                                                                                                                         | [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 50분 \~ 낮 12시 (10분) |
+| [1998년](../Page/1998년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink")       | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 10시 50분 \~ 11시 (10분)                                                                                  |                                                                             |
+| [2000년](../Page/2000년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 55분 \~ 낮 12시 5분 (10분)                                                                             |                                                                             |
+| [2001년](../Page/2001년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 55분 \~ 낮 12시 15분 (20분)                                                                            |                                                                             |
+| [2005년](../Page/2005년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 50분 (50분)                                                                                   |                                                                             |
+| [2007년](../Page/2007년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 40분 (40분)                                                                                   |                                                                             |
+| [2010년](../Page/2010년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 25분 (25분)                                                                                   |                                                                             |
+| [2018년](../Page/2018년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink")     |                                                                                                                                                            |                                                                             |
+| [2011년](../Page/2011년.md "wikilink") [5월 30일](../Page/5월_30일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 15분 (15분)                                                                                   |                                                                             |
+| [2012년](../Page/2012년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink")     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 20분 (20분)                                                                                   |                                                                             |
+| [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink")     |                                                                                                                                                            |                                                                             |
+| [2019년](../Page/2019년.md "wikilink") [7월 15일](../Page/7월_15일.md "wikilink") \~ **현재**                                                                          |                                                                                                                                                            |                                                                             |
+| [2017년](../Page/2017년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 10분 (10분)                                                                                   |                                                                             |
 
-※ [공휴일에는](https://ko.wikipedia.org/wiki/대한민국의_공휴일 "wikilink") 12를 빼고 10분 간 **MBC 뉴스**로 대체 편성된다.\[1\]
+※ [공휴일에는](../Page/대한민국의_공휴일.md "wikilink") 12를 빼고 10분 간 **MBC 뉴스**로 대체 편성된다.\[1\]
 
 ## 구성
 
@@ -50,63 +50,63 @@
 
 ### 현재 앵커
 
-현재 앵커는 [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 3일을](https://ko.wikipedia.org/wiki/2월_3일 "wikilink") 기준으로 한다.
+현재 앵커는 [2020년](../Page/2020년.md "wikilink") [2월 3일을](../Page/2월_3일.md "wikilink") 기준으로 한다.
 
-  - [박창현](../Page/박창현_\(아나운서\).md "wikilink") - (남) [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")의 아나운서
+  - [박창현](../Page/박창현_\(아나운서\).md "wikilink") - (남) [문화방송](../Page/문화방송.md "wikilink")의 아나운서
 
 ### 역대 앵커
 
 #### 남성
 
-| 대수  | 진행자                                                                        | 진행 기간                          | 비고         |
-| --- | -------------------------------------------------------------------------- | ------------------------------ | ---------- |
-| 1대  | [강재형](../Page/강재형_\(아나운서\).md "wikilink") 아나운서                             | 2001년 11월 5일 \~ 2005년 12월 2일   |            |
-| 2대  | [김연국](https://ko.wikipedia.org/wiki/김연국_\(기자\) "wikilink") 기자              | 2005년 12월 5일 \~ 2006년 8월 25일   |            |
-| 3대  | [황헌](../Page/황헌_\(1959년\).md "wikilink") 前 논설위원                            | 2006년 8월 25일 \~ 2008년 3월 28일   |            |
-| 4대  | [박광온](../Page/박광온.md "wikilink") 前 보도국장                                    | 2008년 3월 31일 \~ 2008년 9월 5일    | \[2\]      |
-| 5대  | [박승진](https://ko.wikipedia.org/wiki/박승진_\(기자\) "wikilink") 기자              | 2008년 9월 16일 \~ 2010년 10월 29일  |            |
-| 6대  | [신동진](https://ko.wikipedia.org/wiki/신동진_\(아나운서\) "wikilink") 아나운서국 아나운서1부장 | 2010년 11월 1일 \~ 2011년 5월 27일   |            |
-| 7대  | [최대현](https://ko.wikipedia.org/wiki/최대현 "wikilink") 前 아나운서                 | 2012년 5월 28일 \~ 2012년 6월 15일   | \[3\]      |
-| 8대  | [이성배](../Page/이성배_\(아나운서\).md "wikilink") 아나운서                             | 2012년 10월 8일 \~ 2013년 3월 15일   |            |
-| 9대  | [최대현](https://ko.wikipedia.org/wiki/최대현 "wikilink") 前 아나운서                 | 2013년 3월 18일 \~ 2015년 1월 2일    | \[4\]\[5\] |
-| 10대 | [이휘준](https://ko.wikipedia.org/wiki/이휘준 "wikilink") 前 아나운서                 | 2017년 12월 13일 \~ 2017년 12월 25일 |            |
-| 11대 | [김대호](../Page/김대호_\(아나운서\).md "wikilink") 아나운서                             | 2018년 7월 16일 \~ 2019년 2월 8일    | \[6\]      |
-| 12대 | [오승훈](../Page/오승훈_\(아나운서\).md "wikilink") 아나운서                             | 2019년 2월 11일 \~ 2020년 1월 31일   |            |
-| 13대 | [박창현](../Page/박창현_\(아나운서\).md "wikilink") 아나운서                             | 2020년 2월 3일 \~ **현재**          |            |
+| 대수  | 진행자                                                           | 진행 기간                          | 비고         |
+| --- | ------------------------------------------------------------- | ------------------------------ | ---------- |
+| 1대  | [강재형](../Page/강재형_\(아나운서\).md "wikilink") 아나운서                | 2001년 11월 5일 \~ 2005년 12월 2일   |            |
+| 2대  | [김연국](https://ko.wikipedia.org/wiki/김연국_\(기자\) "wikilink") 기자 | 2005년 12월 5일 \~ 2006년 8월 25일   |            |
+| 3대  | [황헌](../Page/황헌_\(1959년\).md "wikilink") 前 논설위원               | 2006년 8월 25일 \~ 2008년 3월 28일   |            |
+| 4대  | [박광온](../Page/박광온.md "wikilink") 前 보도국장                       | 2008년 3월 31일 \~ 2008년 9월 5일    | \[2\]      |
+| 5대  | [박승진](https://ko.wikipedia.org/wiki/박승진_\(기자\) "wikilink") 기자 | 2008년 9월 16일 \~ 2010년 10월 29일  |            |
+| 6대  | [신동진](../Page/신동진_\(아나운서\).md "wikilink") 아나운서국 아나운서1부장       | 2010년 11월 1일 \~ 2011년 5월 27일   |            |
+| 7대  | [최대현](../Page/최대현.md "wikilink") 前 아나운서                       | 2012년 5월 28일 \~ 2012년 6월 15일   | \[3\]      |
+| 8대  | [이성배](../Page/이성배_\(아나운서\).md "wikilink") 아나운서                | 2012년 10월 8일 \~ 2013년 3월 15일   |            |
+| 9대  | [최대현](../Page/최대현.md "wikilink") 前 아나운서                       | 2013년 3월 18일 \~ 2015년 1월 2일    | \[4\]\[5\] |
+| 10대 | [이휘준](https://ko.wikipedia.org/wiki/이휘준 "wikilink") 前 아나운서    | 2017년 12월 13일 \~ 2017년 12월 25일 |            |
+| 11대 | [김대호](../Page/김대호_\(아나운서\).md "wikilink") 아나운서                | 2018년 7월 16일 \~ 2019년 2월 8일    | \[6\]      |
+| 12대 | [오승훈](../Page/오승훈_\(아나운서\).md "wikilink") 아나운서                | 2019년 2월 11일 \~ 2020년 1월 31일   |            |
+| 13대 | [박창현](../Page/박창현_\(아나운서\).md "wikilink") 아나운서                | 2020년 2월 3일 \~ **현재**          |            |
 
 #### 여성
 
-| 대수  | 진행자                                                               | 진행 기간                         | 비고           |
-| --- | ----------------------------------------------------------------- | ----------------------------- | ------------ |
-| 1대  | [이주연](../Page/이주연_\(아나운서\).md "wikilink") 前 아나운서                  | 2005년 12월 5일 \~ 2006년 12월 29일 |              |
-| 2대  | [차미연](https://ko.wikipedia.org/wiki/차미연 "wikilink") 아나운서          | 2007년 1월 2일 \~ 2007년 11월 2일   |              |
-| 3대  | [손정은](../Page/손정은_\(아나운서\).md "wikilink") 아나운서                    | 2007년 11월 5일 \~ 2008년 3월 28일  |              |
-| 4대  | [김미정](https://ko.wikipedia.org/wiki/김미정 "wikilink") 아나운서          | 2008년 3월 31일 \~ 2008년 9월 12일  |              |
-| 5대  | [최율미](https://ko.wikipedia.org/wiki/최율미 "wikilink") 기획국 정책협력부장    | 2008년 9월 16일 \~ 2011년 11월 25일 |              |
-| 6대  | [차미연](https://ko.wikipedia.org/wiki/차미연 "wikilink") 아나운서          | 2011년 11월 28일 \~ 2012년 1월 27일 | \[7\]        |
-| 7대  | [김지은](https://ko.wikipedia.org/wiki/김지은_\(아나운서\) "wikilink") 편성국장 | 2012년 1월 30일 \~ 2012년 5월 25일  |              |
-| 8대  | [유선경](../Page/유선경.md "wikilink") 前 아나운서                           | 2012년 6월 25일 \~ 2012년 10월 5일  |              |
-| 9대  | [차미연](https://ko.wikipedia.org/wiki/차미연 "wikilink") 아나운서          | 2015년 1월 5일 \~ 2015년 7월 31일   | \[8\]        |
-| 10대 | [구은영](https://ko.wikipedia.org/wiki/구은영 "wikilink") 아나운서          | 2015년 8월 3일 \~ 2017년 6월 9일    | \[9\]        |
-| 11대 | [정다희](https://ko.wikipedia.org/wiki/정다희 "wikilink") 前 아나운서        | 2017년 6월 12일 \~ 2017년 9월 26일  |              |
-| 12대 | [구은영](https://ko.wikipedia.org/wiki/구은영 "wikilink") 아나운서          | 2017년 12월 26일 \~ 2018년 7월 13일 | \[10\]\[11\] |
+| 대수  | 진행자                                                            | 진행 기간                         | 비고           |
+| --- | -------------------------------------------------------------- | ----------------------------- | ------------ |
+| 1대  | [이주연](../Page/이주연_\(아나운서\).md "wikilink") 前 아나운서               | 2005년 12월 5일 \~ 2006년 12월 29일 |              |
+| 2대  | [차미연](../Page/차미연.md "wikilink") 아나운서                          | 2007년 1월 2일 \~ 2007년 11월 2일   |              |
+| 3대  | [손정은](../Page/손정은_\(아나운서\).md "wikilink") 아나운서                 | 2007년 11월 5일 \~ 2008년 3월 28일  |              |
+| 4대  | [김미정](https://ko.wikipedia.org/wiki/김미정 "wikilink") 아나운서       | 2008년 3월 31일 \~ 2008년 9월 12일  |              |
+| 5대  | [최율미](https://ko.wikipedia.org/wiki/최율미 "wikilink") 기획국 정책협력부장 | 2008년 9월 16일 \~ 2011년 11월 25일 |              |
+| 6대  | [차미연](../Page/차미연.md "wikilink") 아나운서                          | 2011년 11월 28일 \~ 2012년 1월 27일 | \[7\]        |
+| 7대  | [김지은](../Page/김지은_\(아나운서\).md "wikilink") 편성국장                 | 2012년 1월 30일 \~ 2012년 5월 25일  |              |
+| 8대  | [유선경](../Page/유선경.md "wikilink") 前 아나운서                        | 2012년 6월 25일 \~ 2012년 10월 5일  |              |
+| 9대  | [차미연](../Page/차미연.md "wikilink") 아나운서                          | 2015년 1월 5일 \~ 2015년 7월 31일   | \[8\]        |
+| 10대 | [구은영](../Page/구은영.md "wikilink") 아나운서                          | 2015년 8월 3일 \~ 2017년 6월 9일    | \[9\]        |
+| 11대 | [정다희](https://ko.wikipedia.org/wiki/정다희 "wikilink") 前 아나운서     | 2017년 6월 12일 \~ 2017년 9월 26일  |              |
+| 12대 | [구은영](../Page/구은영.md "wikilink") 아나운서                          | 2017년 12월 26일 \~ 2018년 7월 13일 | \[10\]\[11\] |
 
 ## 타이틀 변천사
 
-현재 타이틀은 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 26일을](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") 기준으로 한다.
+현재 타이틀은 [2017년](../Page/2017년.md "wikilink") [12월 26일을](../Page/12월_26일.md "wikilink") 기준으로 한다.
 
-| 기수  | 타이틀        | 방송 기간                                                                                                                                                                                                                                      |
-| --- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1기  | MBC 뉴스     | [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") \~ [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [10월 18일](https://ko.wikipedia.org/wiki/10월_18일 "wikilink")     |
-| 2기  | MBC 뉴스센터   | [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") \~ [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink")   |
-| 3기  | MBC 뉴스     | [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") \~ [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink")       |
-| 4기  | MBC 정오뉴스   | [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink")     |
-| 5기  | MBC 뉴스현장   | [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink")   |
-| 6기  | MBC 뉴스와 경제 | [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 4일](https://ko.wikipedia.org/wiki/1월_4일 "wikilink")         |
-| 7기  | MBC 12시 뉴스 | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 5일](https://ko.wikipedia.org/wiki/1월_5일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 5일](https://ko.wikipedia.org/wiki/10월_5일 "wikilink")       |
-| 8기  | MBC 정오뉴스   | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 8일](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink")     |
-| 9기  | MBC 뉴스     | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") |
-| 10기 | 12 MBC 뉴스  | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") \~ **현재**                                                                                                              |
+| 기수  | 타이틀        | 방송 기간                                                                                                                                                          |
+| --- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1기  | MBC 뉴스     | [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink")     |
+| 2기  | MBC 뉴스센터   | [1996년](../Page/1996년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink")   |
+| 3기  | MBC 뉴스     | [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink")       |
+| 4기  | MBC 정오뉴스   | [2001년](../Page/2001년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink")     |
+| 5기  | MBC 뉴스현장   | [2005년](../Page/2005년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink")   |
+| 6기  | MBC 뉴스와 경제 | [2007년](../Page/2007년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink")         |
+| 7기  | MBC 12시 뉴스 | [2011년](../Page/2011년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink")       |
+| 8기  | MBC 정오뉴스   | [2012년](../Page/2012년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink")     |
+| 9기  | MBC 뉴스     | [2017년](../Page/2017년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") |
+| 10기 | 12 MBC 뉴스  | [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ **현재**                                                                        |
 
 ## 동 시간대 프로그램
 
@@ -114,8 +114,8 @@
 
   - [KBS 뉴스 12](../Page/KBS_뉴스_12.md "wikilink") (KBS 1TV)
   - [EBS 정오 뉴스](https://ko.wikipedia.org/wiki/EBS_정오_뉴스 "wikilink") (EBS)
-  - [SBS 12 뉴스](https://ko.wikipedia.org/wiki/SBS_12_뉴스 "wikilink") (SBS)
-  - [OBS 경인투데이](https://ko.wikipedia.org/wiki/OBS_경인투데이 "wikilink") (OBS)
+  - [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink") (SBS)
+  - [OBS 경인투데이](../Page/OBS_경인투데이.md "wikilink") (OBS)
 
 ## 각주
 
@@ -125,12 +125,12 @@
 
 1.  단, 2019년 10월 3일(개천절)에는 낮 12시 30분에 10분간 그대로 방송되었다.
 2.  [박광온](../Page/박광온.md "wikilink") 前 보도국장은 2008년 9월 12일까지 [김미정](https://ko.wikipedia.org/wiki/김미정 "wikilink") 아나운서와 함께 MBC 뉴스와 경제를 진행할 예정이었으나, 2008년 9월 5일에 갑작스러운 사정으로 인해 MBC 뉴스와 경제에서 하차하게 되어, 2008년 9월 8일 \~ 2008년 9월 12일 방송분은 [김상호](../Page/김상호_\(1969년\).md "wikilink") 아나운서가 대신 진행했다.
-3.  [최대현](https://ko.wikipedia.org/wiki/최대현 "wikilink") 前 아나운서는 2012년 6월 22일까지 MBC 12시 뉴스를 진행할 예정이었으나, 2012년 6월 15일에 갑작스러운 사정으로 인해 MBC 12시 뉴스에서 하차하게 되어, 2012년 6월 18일 \~ 6월 22일 방송분은 당시 [MBC 뉴스 (1800)의](https://ko.wikipedia.org/wiki/MBC_뉴스_\(1800\) "wikilink") 진행을 맡고 있던 [김원경](https://ko.wikipedia.org/wiki/김원경 "wikilink") 前 아나운서가 대신 진행했다.
-4.  [최대현](https://ko.wikipedia.org/wiki/최대현 "wikilink") 前 아나운서는 MBC 12시 뉴스 진행한 지 1년 만에 MBC 정오뉴스 재진행.
-5.  [최대현](https://ko.wikipedia.org/wiki/최대현 "wikilink") 前 아나운서의 휴가 또는 해외 출장으로 인하여, 2013년 10월 7일 \~ 10월 11일 방송분은 [류수민](https://ko.wikipedia.org/wiki/류수민 "wikilink") 아나운서가 대신 진행했고, 2013년 10월 14일 \~ 10월 16일 방송분은 [임현주](https://ko.wikipedia.org/wiki/임현주 "wikilink") 아나운서가 대신 진행했다.
-6.  [김대호](../Page/김대호_\(아나운서\).md "wikilink") 아나운서의 휴가로 인하여 2018년 8월 13일 \~ 2018년 8월 14일 방송분은 당시 [930 MBC 뉴스의](https://ko.wikipedia.org/wiki/930_MBC_뉴스 "wikilink") 진행을 맡고 있던 [류수민](https://ko.wikipedia.org/wiki/류수민 "wikilink") 아나운서가 대신 진행했다.
-7.  [차미연](https://ko.wikipedia.org/wiki/차미연 "wikilink") 아나운서는 MBC 뉴스와 경제 진행한 지 3년 만에 MBC 12시 뉴스 재진행.
-8.  [차미연](https://ko.wikipedia.org/wiki/차미연 "wikilink") 아나운서는 MBC 12시 뉴스 진행한 지 3년 만에 MBC 정오뉴스 재진행.
-9.  [구은영](https://ko.wikipedia.org/wiki/구은영 "wikilink") 아나운서의 휴가 또는 해외 출장으로 인하여 2015년 10월 26일 방송분은 당시 [MBC 생활뉴스의](https://ko.wikipedia.org/wiki/930_MBC_뉴스 "wikilink") 진행을 맡고 있던 MBC 정오뉴스의 7, 9대 남성 앵커인 [최대현](https://ko.wikipedia.org/wiki/최대현 "wikilink") 前 아나운서가 대신 진행했고, 2015년 10월 27일 \~ 10월 30일 방송분은 당시 토요일 [MBC 뉴스투데이의](../Page/MBC_뉴스투데이.md "wikilink") 진행을 맡고 있던 [김나진](../Page/김나진.md "wikilink") 아나운서(現. 주말 [MBC 스포츠뉴스](../Page/MBC_스포츠뉴스.md "wikilink") 앵커)가 대신 진행했다.
-10. [구은영](https://ko.wikipedia.org/wiki/구은영 "wikilink") 아나운서는 MBC 정오뉴스 진행한 지 6개월 만에 12 MBC 뉴스 재진행.
-11. [구은영](https://ko.wikipedia.org/wiki/구은영 "wikilink") 아나운서의 휴가 또는 해외 출장으로 인하여 2018년 1월 26일 방송분은 당시 [5 MBC 뉴스의](https://ko.wikipedia.org/wiki/5_MBC_뉴스 "wikilink") 진행을 맡고 있던 12 MBC 뉴스의 2, 6, 9대 여성 앵커인 [차미연](https://ko.wikipedia.org/wiki/차미연 "wikilink") 아나운서가 대신 진행했다.
+3.  [최대현](../Page/최대현.md "wikilink") 前 아나운서는 2012년 6월 22일까지 MBC 12시 뉴스를 진행할 예정이었으나, 2012년 6월 15일에 갑작스러운 사정으로 인해 MBC 12시 뉴스에서 하차하게 되어, 2012년 6월 18일 \~ 6월 22일 방송분은 당시 [MBC 뉴스 (1800)의](https://ko.wikipedia.org/wiki/MBC_뉴스_\(1800\) "wikilink") 진행을 맡고 있던 [김원경](https://ko.wikipedia.org/wiki/김원경 "wikilink") 前 아나운서가 대신 진행했다.
+4.  [최대현](../Page/최대현.md "wikilink") 前 아나운서는 MBC 12시 뉴스 진행한 지 1년 만에 MBC 정오뉴스 재진행.
+5.  [최대현](../Page/최대현.md "wikilink") 前 아나운서의 휴가 또는 해외 출장으로 인하여, 2013년 10월 7일 \~ 10월 11일 방송분은 [류수민](../Page/류수민.md "wikilink") 아나운서가 대신 진행했고, 2013년 10월 14일 \~ 10월 16일 방송분은 [임현주](../Page/임현주.md "wikilink") 아나운서가 대신 진행했다.
+6.  [김대호](../Page/김대호_\(아나운서\).md "wikilink") 아나운서의 휴가로 인하여 2018년 8월 13일 \~ 2018년 8월 14일 방송분은 당시 [930 MBC 뉴스의](../Page/930_MBC_뉴스.md "wikilink") 진행을 맡고 있던 [류수민](../Page/류수민.md "wikilink") 아나운서가 대신 진행했다.
+7.  [차미연](../Page/차미연.md "wikilink") 아나운서는 MBC 뉴스와 경제 진행한 지 3년 만에 MBC 12시 뉴스 재진행.
+8.  [차미연](../Page/차미연.md "wikilink") 아나운서는 MBC 12시 뉴스 진행한 지 3년 만에 MBC 정오뉴스 재진행.
+9.  [구은영](../Page/구은영.md "wikilink") 아나운서의 휴가 또는 해외 출장으로 인하여 2015년 10월 26일 방송분은 당시 [MBC 생활뉴스의](../Page/930_MBC_뉴스.md "wikilink") 진행을 맡고 있던 MBC 정오뉴스의 7, 9대 남성 앵커인 [최대현](../Page/최대현.md "wikilink") 前 아나운서가 대신 진행했고, 2015년 10월 27일 \~ 10월 30일 방송분은 당시 토요일 [MBC 뉴스투데이의](../Page/MBC_뉴스투데이.md "wikilink") 진행을 맡고 있던 [김나진](../Page/김나진.md "wikilink") 아나운서(現. 주말 [MBC 스포츠뉴스](../Page/MBC_스포츠뉴스.md "wikilink") 앵커)가 대신 진행했다.
+10. [구은영](../Page/구은영.md "wikilink") 아나운서는 MBC 정오뉴스 진행한 지 6개월 만에 12 MBC 뉴스 재진행.
+11. [구은영](../Page/구은영.md "wikilink") 아나운서의 휴가 또는 해외 출장으로 인하여 2018년 1월 26일 방송분은 당시 [5 MBC 뉴스의](../Page/5_MBC_뉴스.md "wikilink") 진행을 맡고 있던 12 MBC 뉴스의 2, 6, 9대 여성 앵커인 [차미연](../Page/차미연.md "wikilink") 아나운서가 대신 진행했다.

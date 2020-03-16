@@ -3,7 +3,7 @@
 
 ***The Beyoncé Experience Live***는 미국의 알앤비 가수 [비욘세](../Page/비욘세.md "wikilink")의 비디오 DVD 음반으로 미국에서는 2007년 11월 20일 발매되었고,\[1\] 한국에서는 2007년 11월 23일 발매되었다. 이 DVD는 비욘세의 월드 투어인 [The Beyoncé Experience를](../Page/The_Beyoncé_Experience.md "wikilink") 2007년 9월 2일 로스앤젤레스에 위치한 스테이플 센터에서 녹음한 앨범이다. DVD에는 많은 게스트도 출연하는데, [제이-지](https://ko.wikipedia.org/wiki/제이-지 "wikilink")의 "Upgrade U" 그리고 [데스티니 차일드의](https://ko.wikipedia.org/wiki/데스티니_차일드 "wikilink") 전 맴버였던 미셸과 켈리 롤랜드가 출연해 "Survivor"을 불렀다.
 
-이 앨범은 [미국 음반 산업 협회로부터](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink") 플래티넘 인증을 받았다. 지금까지 이 DVD는 151주 동안이나 차트에 존재했었다.
+이 앨범은 [미국 음반 산업 협회로부터](../Page/미국_음반_산업_협회.md "wikilink") 플래티넘 인증을 받았다. 지금까지 이 DVD는 151주 동안이나 차트에 존재했었다.
 
 ## 트랙 리스트
 
@@ -41,7 +41,7 @@
 30. "[Get Me Bodied](../Page/Get_Me_Bodied.md "wikilink")" — 5:06
 31. "Welcome To Hollywood" — 2:28
 32. "[Deena/Dreamgirls](https://ko.wikipedia.org/wiki/드림걸즈_\(영화\) "wikilink")" — 1:56
-33. "[Listen](https://ko.wikipedia.org/wiki/Listen_\(노래\) "wikilink")" — 3:07
+33. "[Listen](../Page/Listen_\(노래\).md "wikilink")" — 3:07
 34. "[Irreplaceable](../Page/Irreplaceable.md "wikilink")" — 7:31
 35. Beyoncé B'Day Surprise — 5:03
 36. The Beyoncé Experience Credits <small>("Beautiful Liar" live instrumental)</small> — 4:05

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [   Genji](https://ko.wikipedia.org/wiki/___Genji).
 
 
-《**겐지 이야기 천년기 Genji**》()는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")부터 [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")까지 [후지테레비](https://ko.wikipedia.org/wiki/후지테레비 "wikilink") [노이타미나](../Page/노이타미나.md "wikilink")에서 방영된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다.
+《**겐지 이야기 천년기 Genji**》()는 [2009년](../Page/2009년.md "wikilink") [1월](../Page/1월.md "wikilink")부터 [3월](../Page/3월.md "wikilink")까지 [후지테레비](https://ko.wikipedia.org/wiki/후지테레비 "wikilink") [노이타미나](../Page/노이타미나.md "wikilink")에서 방영된 [일본](../Page/일본.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink")이다.
 
 ## 개요
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 8월, [노이타미나](../Page/노이타미나.md "wikilink")에서 《[겐지 이야기](https://ko.wikipedia.org/wiki/겐지_이야기 "wikilink")》를 소재로 한 만화 《아사키유메미시》의 애니메이션 제작을 발표하였으나, 감독인 데자키 오사무가 좀 더 원론적인 겐지 이야기를 그리고 싶다고 제안하면서 기획이 변경되었다.\[1\] [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 31일부터](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [애니플러스](https://ko.wikipedia.org/wiki/애니플러스 "wikilink")에서 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink") 원어에 한글자막을 덧붙여 '19세 이상 시청가' 등급을 받아 심야시간대에 방영하고 있다.
+[2008년](../Page/2008년.md "wikilink") 8월, [노이타미나](../Page/노이타미나.md "wikilink")에서 《[겐지 이야기](../Page/겐지_이야기.md "wikilink")》를 소재로 한 만화 《아사키유메미시》의 애니메이션 제작을 발표하였으나, 감독인 데자키 오사무가 좀 더 원론적인 겐지 이야기를 그리고 싶다고 제안하면서 기획이 변경되었다.\[1\] [대한민국](../Page/대한민국.md "wikilink")에서는 [2010년](../Page/2010년.md "wikilink") [12월 31일부터](../Page/12월_31일.md "wikilink") [애니플러스](../Page/애니플러스.md "wikilink")에서 [일본어](../Page/일본어.md "wikilink") 원어에 한글자막을 덧붙여 '19세 이상 시청가' 등급을 받아 심야시간대에 방영하고 있다.
 
 ## 줄거리
 
-시대는 [헤이안 시대](https://ko.wikipedia.org/wiki/헤이안_시대 "wikilink"). 키리츠보 황제와 그의 총애를 받은 키리츠보 고이 사이에, 빛처럼 빛나는 아름다운 황태자가 태어난다. 〈**히카루기미**〉라고 불리는 그는, 어릴 때부터 보기 드문 미모와 재능을 타고 났다. 이윽고 히카루기미는, 병으로 죽은 어머니와 꼭 닮은 왕비·후지츠보를 만나, 그녀를 따르게 된다. 하지만 그의 마음은 어느덧 사랑으로 바뀌고, 성인식을 치룬 히카루기미는 후지츠보와 만날 수 없게 된다. 이루어질 수 없는 사랑을 묻듯이, 그는 많은 여성들과 정을 나누게 된다…….
+시대는 [헤이안 시대](../Page/헤이안_시대.md "wikilink"). 키리츠보 황제와 그의 총애를 받은 키리츠보 고이 사이에, 빛처럼 빛나는 아름다운 황태자가 태어난다. 〈**히카루기미**〉라고 불리는 그는, 어릴 때부터 보기 드문 미모와 재능을 타고 났다. 이윽고 히카루기미는, 병으로 죽은 어머니와 꼭 닮은 왕비·후지츠보를 만나, 그녀를 따르게 된다. 하지만 그의 마음은 어느덧 사랑으로 바뀌고, 성인식을 치룬 히카루기미는 후지츠보와 만날 수 없게 된다. 이루어질 수 없는 사랑을 묻듯이, 그는 많은 여성들과 정을 나누게 된다…….
 
 ## 등장인물
 
@@ -43,7 +43,7 @@
   - 프로듀서: 나카지마 히로아키, 야마모토 코지, 미야모토 히데아키
   - 애니메이션 프로듀서: 우카이 코지, 하시모토 신타로
   - 애니메이션 제작: [TMS 엔터테인먼트](../Page/TMS_엔터테인먼트.md "wikilink"), 테즈카 프로덕션
-  - 제작: Genji 제작위원회([후지 테레비](https://ko.wikipedia.org/wiki/후지_테레비 "wikilink"), 아스믹 에이스 엔터테인먼트, 소니뮤직 엔터테인먼트, [덴쓰](https://ko.wikipedia.org/wiki/덴쓰 "wikilink"), [TMS 엔터테인먼트](../Page/TMS_엔터테인먼트.md "wikilink"), 테즈카 프로덕션)
+  - 제작: Genji 제작위원회([후지 테레비](https://ko.wikipedia.org/wiki/후지_테레비 "wikilink"), 아스믹 에이스 엔터테인먼트, 소니뮤직 엔터테인먼트, [덴쓰](../Page/덴쓰.md "wikilink"), [TMS 엔터테인먼트](../Page/TMS_엔터테인먼트.md "wikilink"), 테즈카 프로덕션)
 
 ## 주제가
 
@@ -65,7 +65,7 @@
 
 《미카도 라디오》 TV 애니메이션 공식 사이트에서 방송. 총 8회
 
-  - 방송기간: [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 21일](https://ko.wikipedia.org/wiki/1월_21일 "wikilink")\~
+  - 방송기간: [2009년](../Page/2009년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink")\~
   - 진행: [호리우치 켄유](../Page/호리우치_켄유.md "wikilink")（키리츠보 황제 역）
   - 게스트
 

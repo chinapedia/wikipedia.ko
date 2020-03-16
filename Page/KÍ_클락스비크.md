@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
 
 
-**KÍ 클락스비크**(KÍ Klaksvík)는 [1904년](https://ko.wikipedia.org/wiki/1904년 "wikilink")에 창단된 [페로 제도](https://ko.wikipedia.org/wiki/페로_제도 "wikilink") [클락스비크](https://ko.wikipedia.org/wiki/클락스비크 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [페로 제도 1부 리그에서](https://ko.wikipedia.org/wiki/페로_제도_1부_리그 "wikilink") 활동하고 있다.
+**KÍ 클락스비크**(KÍ Klaksvík)는 [1904년](../Page/1904년.md "wikilink")에 창단된 [페로 제도](../Page/페로_제도.md "wikilink") [클락스비크](https://ko.wikipedia.org/wiki/클락스비크 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [페로 제도 1부 리그에서](https://ko.wikipedia.org/wiki/페로_제도_1부_리그 "wikilink") 활동하고 있다.
 
 ## 성적
 

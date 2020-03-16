@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ BK](https://ko.wikipedia.org/wiki/_BK).
 
 
-**오드 그렌란**(Odd Grenland)은 [1894년](https://ko.wikipedia.org/wiki/1894년 "wikilink") [3월 31일에](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 창단된 [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink") [시엔](https://ko.wikipedia.org/wiki/시엔 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [티펠리겐](https://ko.wikipedia.org/wiki/티펠리겐 "wikilink")에서 활동하고 있다.
+**오드 그렌란**(Odd Grenland)은 [1894년](../Page/1894년.md "wikilink") [3월 31일에](../Page/3월_31일.md "wikilink") 창단된 [노르웨이](../Page/노르웨이.md "wikilink") [시엔](../Page/시엔.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [티펠리겐](https://ko.wikipedia.org/wiki/티펠리겐 "wikilink")에서 활동하고 있다.
 
 ## 성적
 
@@ -16,7 +16,7 @@
 
 ## 유명 선수
 
-  - [프로데 욘센](https://ko.wikipedia.org/wiki/프로데_욘센 "wikilink")
+  - [프로데 욘센](../Page/프로데_욘센.md "wikilink")
 
 ## 외부 링크
 

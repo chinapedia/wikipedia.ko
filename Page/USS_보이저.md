@@ -3,7 +3,7 @@
 
 **USS 보이저 (NCC-74656)**는 미국의 SF TV 드라마 [스타 트렉 보이저](https://ko.wikipedia.org/wiki/스타_트렉_보이저 "wikilink") 시리즈에 나오는 주된 배경의 우주선이다.
 
-보이저는 [인트레피드급 스타쉽으로서](https://ko.wikipedia.org/wiki/인트레피드급_스타쉽 "wikilink"), 배수량 70만 톤, 길이 344 m, 승무원 150명, [2371년](https://ko.wikipedia.org/wiki/2371년 "wikilink")에 진수되었다. 승무원 수 150명으로만 보면, 2010년 현재 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 배수량 2천톤급 [울산급 호위함과](https://ko.wikipedia.org/wiki/울산급_호위함 "wikilink") 규모가 같다. 보이저함의 함장은 여자인 [캐서린 제인웨이](https://ko.wikipedia.org/wiki/캐서린_제인웨이 "wikilink") 대령이며, 부함장은 [차코테](https://ko.wikipedia.org/wiki/차코테 "wikilink") 소령이다. 최고 속도는 워프 9.975이다.
+보이저는 [인트레피드급 스타쉽으로서](https://ko.wikipedia.org/wiki/인트레피드급_스타쉽 "wikilink"), 배수량 70만 톤, 길이 344 m, 승무원 150명, [2371년](https://ko.wikipedia.org/wiki/2371년 "wikilink")에 진수되었다. 승무원 수 150명으로만 보면, 2010년 현재 [대한민국](../Page/대한민국.md "wikilink")의 배수량 2천톤급 [울산급 호위함과](../Page/울산급_호위함.md "wikilink") 규모가 같다. 보이저함의 함장은 여자인 [캐서린 제인웨이](https://ko.wikipedia.org/wiki/캐서린_제인웨이 "wikilink") 대령이며, 부함장은 [차코테](https://ko.wikipedia.org/wiki/차코테 "wikilink") 소령이다. 최고 속도는 워프 9.975이다.
 
 ## 장교
 
@@ -32,7 +32,7 @@
 ## 더 보기
 
   - [USS 엔터프라이즈 (NCC-1701-D)](../Page/USS_엔터프라이즈_\(NCC-1701-D\).md "wikilink") - [2363년](https://ko.wikipedia.org/wiki/2363년 "wikilink") 진수, [쟝 룩 피카드](https://ko.wikipedia.org/wiki/쟝_룩_피카드 "wikilink") 함장, 길이 642.5 m, 승무원 430명, [2371년](https://ko.wikipedia.org/wiki/2371년 "wikilink") 파괴
-  - [USS 엔터프라이즈 (NCC-1701-E)](https://ko.wikipedia.org/wiki/USS_엔터프라이즈_\(NCC-1701-E\) "wikilink") - [2372년](https://ko.wikipedia.org/wiki/2372년 "wikilink") 진수, [쟝 룩 피카드](https://ko.wikipedia.org/wiki/쟝_룩_피카드 "wikilink") 함장, 배수량 325만 톤, 길이 685.7 m, 승무원 430명
+  - [USS 엔터프라이즈 (NCC-1701-E)](../Page/USS_엔터프라이즈_\(NCC-1701-E\).md "wikilink") - [2372년](https://ko.wikipedia.org/wiki/2372년 "wikilink") 진수, [쟝 룩 피카드](https://ko.wikipedia.org/wiki/쟝_룩_피카드 "wikilink") 함장, 배수량 325만 톤, 길이 685.7 m, 승무원 430명
   - USS 보이저 (NCC-74656) - [2371년](https://ko.wikipedia.org/wiki/2371년 "wikilink") 진수, [캐서린 제인웨이](https://ko.wikipedia.org/wiki/캐서린_제인웨이 "wikilink") 함장, 배수량 70만 톤, 길이 344 m, 승무원 150명
 
 [분류:스타 트렉의 우주선](https://ko.wikipedia.org/wiki/분류:스타_트렉의_우주선 "wikilink")

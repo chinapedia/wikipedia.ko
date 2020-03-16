@@ -5,16 +5,16 @@
 
 ## 리그기간
 
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink")
+  - [2005년](../Page/2005년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink")
 
 ## 특이사항
 
   - 24강 개막전이 6시에서 6시 30분으로 조정됨
-  - [11월 19일은](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") 대전투어 (메이저진출전), [12월 17일은](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") 광주투어 (리그결정전)를 진행
+  - [11월 19일은](../Page/11월_19일.md "wikilink") 대전투어 (메이저진출전), [12월 17일은](../Page/12월_17일.md "wikilink") 광주투어 (리그결정전)를 진행
 
 ## 진출자
 
-  - **오프라인 예선전** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink")
+  - **오프라인 예선전** : [2005년](../Page/2005년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink")
 
 | 1조  | 2조  | 3조  | 4조  | 5조  | 6조  | 7조  | 8조  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@
 
 ## 1Round
 
-  - **일정** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") *(재경기 : [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink"))*
+  - **일정** : [2005년](../Page/2005년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") *(재경기 : [10월 29일](../Page/10월_29일.md "wikilink"))*
 
 | A조                                                  | B조    | C조                                                  | D조    |
 | --------------------------------------------------- | ----- | --------------------------------------------------- | ----- |
@@ -49,14 +49,14 @@
 
 <div style="font-size:85%">
 
-1.  H조 재경기는 [11월 5일에](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") 일반 비공개로 진행하였다.
+1.  H조 재경기는 [11월 5일에](../Page/11월_5일.md "wikilink") 일반 비공개로 진행하였다.
 
 </div>
 
 ## 2Round
 
-  - **조별패자전** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink"), [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 12일](https://ko.wikipedia.org/wiki/11월_12일 "wikilink")
-  - **조별승자전** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink"), [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink")
+  - **조별패자전** : [2005년](../Page/2005년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink")
+  - **조별승자전** : [2005년](../Page/2005년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink")
 
 |        |                                                         |       |
 | ------ | ------------------------------------------------------- | ----- |
@@ -68,10 +68,10 @@
 
 ## 3Round
 
-  - **1주차** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink")
-  - **2주차** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink")
-  - **3주차** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink")
-  - **4주차** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink")
+  - **1주차** : [2005년](../Page/2005년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink")
+  - **2주차** : [2005년](../Page/2005년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink")
+  - **3주차** : [2005년](../Page/2005년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink")
+  - **4주차** : [2005년](../Page/2005년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink")
 
 |    |                                                         |       |
 | -- | ------------------------------------------------------- | ----- |

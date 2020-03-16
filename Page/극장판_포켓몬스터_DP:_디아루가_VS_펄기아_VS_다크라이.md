@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  DP:  VS  VS ](https://ko.wikipedia.org/wiki/__DP:__VS__VS_).
 
 
-〈**극장판 포켓몬스터 디아루가 VS 펄기아 VS 다크라이**〉()는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 14일에](https://ko.wikipedia.org/wiki/7월_14일 "wikilink") 개봉된 [TV 애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 《[포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")》의 10번째 극장판이다. (극장판을 보기전 다크라이GX 를 받을수 있다)
+〈**극장판 포켓몬스터 디아루가 VS 펄기아 VS 다크라이**〉()는 [2007년](../Page/2007년.md "wikilink") [7월 14일에](../Page/7월_14일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink") 《[포켓몬스터](../Page/포켓몬스터.md "wikilink")》의 10번째 극장판이다. (극장판을 보기전 다크라이GX 를 받을수 있다)
 
 ## 줄거리
 
@@ -12,7 +12,7 @@
 ## 등장인물
 
   - 앨리스
-    성우 - [노토 마미코](https://ko.wikipedia.org/wiki/노토_마미코 "wikilink"), [카토 로사](https://ko.wikipedia.org/wiki/카토_로사 "wikilink") / [정혜옥](https://ko.wikipedia.org/wiki/정혜옥 "wikilink")
+    성우 - [노토 마미코](https://ko.wikipedia.org/wiki/노토_마미코 "wikilink"), [카토 로사](../Page/카토_로사.md "wikilink") / [정혜옥](https://ko.wikipedia.org/wiki/정혜옥 "wikilink")
     음악을 좋아하고 풀피리를 굉장히 잘 부는 귀여운 여성 캐릭터. 어렸을 때부터 소꿉친구였던 과학자 토니오를 좋아한다. 파트너는 [불꽃숭이](../Page/불꽃숭이.md "wikilink").
 
 <!-- end list -->
@@ -34,7 +34,7 @@
 <!-- end list -->
 
   - 알베르트 남작
-    성우 - [야마데라 코이치](https://ko.wikipedia.org/wiki/야마데라_코이치 "wikilink") / [양석정](https://ko.wikipedia.org/wiki/양석정 "wikilink")
+    성우 - [야마데라 코이치](../Page/야마데라_코이치.md "wikilink") / [양석정](https://ko.wikipedia.org/wiki/양석정 "wikilink")
     앨리스를 지극히 좋아하여 김칫국 마시며 결혼까지 꿈꾸는 느끼남. 파트너는 [내룸벨트](https://ko.wikipedia.org/wiki/내룸벨트 "wikilink"). 마을의 괴현상을 다크라이 때문이라고 부득부득 우긴다.
 
 <!-- end list -->
@@ -50,13 +50,13 @@
 <!-- end list -->
 
   - 승리
-    성우 - [야마모토 히로시](https://ko.wikipedia.org/wiki/야마모토_히로시 "wikilink") / [전태열](https://ko.wikipedia.org/wiki/전태열 "wikilink")
+    성우 - [야마모토 히로시](https://ko.wikipedia.org/wiki/야마모토_히로시 "wikilink") / [전태열](../Page/전태열.md "wikilink")
     파트너는 [토대부기](../Page/토대부기.md "wikilink"). 지우 일행이 아라모스 마을에 도착하자 지우에게 맨 첫 번째로 포켓몬 시합을 한다.
 
 <!-- end list -->
 
   - [다크라이](https://ko.wikipedia.org/wiki/다크라이 "wikilink")
-    성우 - [이시자카 코지](https://ko.wikipedia.org/wiki/이시자카_코지 "wikilink") / [임채헌](https://ko.wikipedia.org/wiki/임채헌 "wikilink")
+    성우 - [이시자카 코지](https://ko.wikipedia.org/wiki/이시자카_코지 "wikilink") / [임채헌](../Page/임채헌.md "wikilink")
     과거 앨리시아로 인해 공원에서 살게 된 환상의 포켓몬. 주특기 '다크홀'은, 맞은 즉시 상대를 악몽의 잠에 빠뜨려버린다. 이 때문에 사람들이 별로 좋아하지 않았고, 사람들 앞에 잘 나타나는 일도 없었다. 그런데 다른 곳도 아닌 공원에서도 이상한 흔적이 발견되자 나타나 지우를 뭔가 예언하는 듯한 악몽에 빠뜨려버리고, 하늘에 빛이 났을 땐 광장에 나타나 포켓몬들을 악몽에 빠뜨려버렸다. 마을 밖에 괴이한 안개가 꼈을 때도, 자신을 방해하는 것으로 여긴 트레이너들의 포켓몬들을 악몽에 빠뜨렸다. 이 때, 펄기아가 이들 앞에 나타나자 비로소 펄기아를 향해 공격을 실시한다. 텔레파시를 통해 말을 할 수 있지만 엄연히 포켓몬이라 그런지, 대사가 그렇게 다양하지 않다. '여기서 나가\!'가 주요 대사이다.
 
 <!-- end list -->

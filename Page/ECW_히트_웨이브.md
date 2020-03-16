@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ECW  ](https://ko.wikipedia.org/wiki/ECW__).
 
 
-**히트 웨이브**(Heat Wave)는 [ECW에서](https://ko.wikipedia.org/wiki/익스트림_챔피언십_레슬링 "wikilink") 개최하였던 페이 퍼 뷰이다.
+**히트 웨이브**(Heat Wave)는 [ECW에서](../Page/익스트림_챔피언십_레슬링.md "wikilink") 개최하였던 페이 퍼 뷰이다.
 
 ## 히트 웨이브 개최한 곳
 
@@ -18,7 +18,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1994년 7월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a></p></td>
+<td><p><a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
 <td><p><a href="../Page/2300_아레나.md" title="wikilink">ECW 아레나</a></p></td>
 <td><p>850</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/더_퍼블릭_에너미" title="wikilink">더 퍼블릭 에너미</a> (<a href="https://ko.wikipedia.org/wiki/로코_락" title="wikilink">로코 락</a> &amp; <a href="https://ko.wikipedia.org/wiki/조니_그런지" title="wikilink">조니 그런지</a>) vs. <a href="https://ko.wikipedia.org/wiki/테리_펑크" title="wikilink">테리 펑크</a> &amp; <a href="https://ko.wikipedia.org/wiki/도라_펑크_주니어" title="wikilink">도라 펑크 주니어</a> (바브드 와이어 매치)</p></td>
@@ -46,10 +46,10 @@
 </tr>
 <tr class="odd">
 <td><p>1998년 8월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데이턴_(오하이오주)" title="wikilink">데이턴</a></p></td>
+<td><p><a href="../Page/데이턴_(오하이오주).md" title="wikilink">데이턴</a></p></td>
 <td><p><a href="../Page/하라_아레나.md" title="wikilink">하라 아레나</a></p></td>
 <td><p>4,400</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토미_드리머" title="wikilink">토미 드리머</a>, <a href="https://ko.wikipedia.org/wiki/샌드맨_(프로레슬링_선수)" title="wikilink">샌드맨</a>, <a href="../Page/맷_하이슨.md" title="wikilink">스파이크 더들리</a> vs. <a href="../Page/팀_3D.md" title="wikilink">더들리 보이즈</a> (<a href="https://ko.wikipedia.org/wiki/마크_로모나코" title="wikilink">버버레이 더들리</a> &amp; <a href="../Page/디본_휴스.md" title="wikilink">디본 더들리</a> &amp; <a href="https://ko.wikipedia.org/wiki/앨릭스_리조" title="wikilink">빅 딕 더들리</a>) (스트리트 파이트 매치)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/토미_드리머" title="wikilink">토미 드리머</a>, <a href="https://ko.wikipedia.org/wiki/샌드맨_(프로레슬링_선수)" title="wikilink">샌드맨</a>, <a href="../Page/맷_하이슨.md" title="wikilink">스파이크 더들리</a> vs. <a href="../Page/팀_3D.md" title="wikilink">더들리 보이즈</a> (<a href="../Page/마크_로모나코.md" title="wikilink">버버레이 더들리</a> &amp; <a href="../Page/디본_휴스.md" title="wikilink">디본 더들리</a> &amp; <a href="https://ko.wikipedia.org/wiki/앨릭스_리조" title="wikilink">빅 딕 더들리</a>) (스트리트 파이트 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>1999년 7월 18일</p></td>

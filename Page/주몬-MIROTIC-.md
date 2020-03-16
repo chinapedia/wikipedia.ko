@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [-MIROTIC-](https://ko.wikipedia.org/wiki/-MIROTIC-).
 
 
-**주문-MIROTIC-**(주문-미로틱-, )은 [아카펠라](https://ko.wikipedia.org/wiki/아카펠라 "wikilink") 댄스 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 24번째 싱글 음반이다.
+**주문-MIROTIC-**(주문-미로틱-, )은 [아카펠라](../Page/아카펠라.md "wikilink") 댄스 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 24번째 싱글 음반이다.
 
 ## 개요
 

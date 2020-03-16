@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ vs.  \( \)](https://ko.wikipedia.org/wiki/_vs.__\(_\)).
 
 
-'''에일리언 vs. 프레데터 '''(Alien vs. Predator)는 [캡콤](https://ko.wikipedia.org/wiki/캡콤 "wikilink")이 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")에 발매한 [아케이드](../Page/아케이드_게임.md "wikilink") [진행형 격투 게임이다](https://ko.wikipedia.org/wiki/진행형_격투_게임 "wikilink").
+'''에일리언 vs. 프레데터 '''(Alien vs. Predator)는 [캡콤](../Page/캡콤.md "wikilink")이 [1994년](../Page/1994년.md "wikilink")에 발매한 [아케이드](../Page/아케이드_게임.md "wikilink") [진행형 격투 게임이다](https://ko.wikipedia.org/wiki/진행형_격투_게임 "wikilink").
 
-20세기 폭스사에 의 SF영화의 간판 외계 생물체인 [에일리언과](../Page/에일리언_\(가공의_생물\).md "wikilink") [프레데터의](../Page/프레데터_\(가공의_생물\).md "wikilink") 크로스오버 작품으로, 다크호스 코믹스사가 발매한 아메리칸 코믹이 원작이다. 이 작품으로 원작으로 하여 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 영화 [에일리언 vs 프레데터](https://ko.wikipedia.org/wiki/에일리언_vs_프레데터 "wikilink"), [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 속편인 [AVP2 에일리언 vs 프레데터도](https://ko.wikipedia.org/wiki/AVP2_에일리언_vs_프레데터 "wikilink") 공개되었지만, 본작과는 직접적인 관계는 없다.
+20세기 폭스사에 의 SF영화의 간판 외계 생물체인 [에일리언과](../Page/에일리언_\(가공의_생물\).md "wikilink") [프레데터의](../Page/프레데터_\(가공의_생물\).md "wikilink") 크로스오버 작품으로, 다크호스 코믹스사가 발매한 아메리칸 코믹이 원작이다. 이 작품으로 원작으로 하여 [2004년](../Page/2004년.md "wikilink")에 영화 [에일리언 vs 프레데터](https://ko.wikipedia.org/wiki/에일리언_vs_프레데터 "wikilink"), [2008년](../Page/2008년.md "wikilink") 속편인 [AVP2 에일리언 vs 프레데터도](https://ko.wikipedia.org/wiki/AVP2_에일리언_vs_프레데터 "wikilink") 공개되었지만, 본작과는 직접적인 관계는 없다.
 
 ## 개요
 
@@ -11,7 +11,7 @@
 
 특징으로 지금까지의 시리즈와 달리, 어떠한 때라도 적에게 데미지를 줄 수 있는(비록 다운되어 쓰러져 있을때라도) 요소가 있다. 퍼니셔에도 비슷한 시스템이 있었지만, 쓰러진 적을 들어 올리는 것만 되었다.
 
-판권의 관계상, 이 작품은 가정용 게임기로 이식되지 않았다. 같은 제목의 게임은 다수 나와 있지만, 모두 다른 내용이다([에일리언 vs. 프레데터 (2010년 비디오 게임)](https://ko.wikipedia.org/wiki/에일리언_vs._프레데터_\(2010년_비디오_게임\) "wikilink")). 특히 PC의 FPS 게임 「Aliens Vs Predator2」는 일본에서 유통한 업체가 캡콤이었기 때문에, 단순히 「캡콤의 AVP」라고 할 때는 이 작품과 헷갈릴 수 있다. 실제로는 FPS판에 캡콤의 스탭이 참여 하지 않았다.
+판권의 관계상, 이 작품은 가정용 게임기로 이식되지 않았다. 같은 제목의 게임은 다수 나와 있지만, 모두 다른 내용이다([에일리언 vs. 프레데터 (2010년 비디오 게임)](../Page/에일리언_vs._프레데터_\(2010년_비디오_게임\).md "wikilink")). 특히 PC의 FPS 게임 「Aliens Vs Predator2」는 일본에서 유통한 업체가 캡콤이었기 때문에, 단순히 「캡콤의 AVP」라고 할 때는 이 작품과 헷갈릴 수 있다. 실제로는 FPS판에 캡콤의 스탭이 참여 하지 않았다.
 
 ## 스토리
 

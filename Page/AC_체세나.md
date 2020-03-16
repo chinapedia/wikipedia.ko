@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
 
 
-**AC 체세나**(Associazione Calcio Cesena)는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [로마냐 주](https://ko.wikipedia.org/wiki/로마냐_주 "wikilink") [체세나](https://ko.wikipedia.org/wiki/체세나 "wikilink")를 연고로 했던 프로 축구팀이다.
+**AC 체세나**(Associazione Calcio Cesena)는 [이탈리아](../Page/이탈리아.md "wikilink") [로마냐 주](https://ko.wikipedia.org/wiki/로마냐_주 "wikilink") [체세나](https://ko.wikipedia.org/wiki/체세나 "wikilink")를 연고로 했던 프로 축구팀이다.
 
-[1940년](https://ko.wikipedia.org/wiki/1940년 "wikilink")에 창단되었고, [1973년에](https://ko.wikipedia.org/wiki/세리에_A_1973-74 "wikilink") [세리에 A로](../Page/세리에_A.md "wikilink") 첫 승격을 하였다. 그 이후로 체세나는 세리에 A에 총 11시즌을 잔류했으며, 최고 성적은 [1976년에](https://ko.wikipedia.org/wiki/세리에_A_1975-76 "wikilink") 거둔 리그 6위이다. 그 순위를 기록한 다음 시즌에 짧은 [UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink") 경험을 하기도 했다. 최근까지 [세리에 B](../Page/세리에_B.md "wikilink") 소속으로 활동했으나, 2013-14 시즌에 승격 플레이오프에서 우승하며, [2014-15](../Page/세리에_A_2014-15.md "wikilink") 시즌에 세리에 A로 복귀하였다.
+[1940년](../Page/1940년.md "wikilink")에 창단되었고, [1973년에](https://ko.wikipedia.org/wiki/세리에_A_1973-74 "wikilink") [세리에 A로](../Page/세리에_A.md "wikilink") 첫 승격을 하였다. 그 이후로 체세나는 세리에 A에 총 11시즌을 잔류했으며, 최고 성적은 [1976년에](https://ko.wikipedia.org/wiki/세리에_A_1975-76 "wikilink") 거둔 리그 6위이다. 그 순위를 기록한 다음 시즌에 짧은 [UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink") 경험을 하기도 했다. 최근까지 [세리에 B](../Page/세리에_B.md "wikilink") 소속으로 활동했으나, 2013-14 시즌에 승격 플레이오프에서 우승하며, [2014-15](../Page/세리에_A_2014-15.md "wikilink") 시즌에 세리에 A로 복귀하였다.
 
 ## 선수 명단
 
 ### 1군 명단
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 기준.\[1\]
+[2014년](../Page/2014년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 기준.\[1\]
 
 ### 결번
 
@@ -58,19 +58,19 @@
 
   - [마시모 보니니](../Page/마시모_보니니.md "wikilink")
 
-  - [나가토모 유토](https://ko.wikipedia.org/wiki/나가토모_유토 "wikilink")
+  - [나가토모 유토](../Page/나가토모_유토.md "wikilink")
 
   - [스티븐 아피아](../Page/스티븐_아피아.md "wikilink")
 
   - [헤르만 데니스](../Page/헤르만_데니스.md "wikilink")
 
-  - [압델카데르 게잘](https://ko.wikipedia.org/wiki/압델카데르_게잘 "wikilink")
+  - [압델카데르 게잘](../Page/압델카데르_게잘.md "wikilink")
 
   - [이고르 부단](../Page/이고르_부단.md "wikilink")
 
-  - [루이스 안토니오 히메네스](https://ko.wikipedia.org/wiki/루이스_안토니오_히메네스 "wikilink")
+  - [루이스 안토니오 히메네스](../Page/루이스_안토니오_히메네스.md "wikilink")
 
-  - [우구 알메이다](https://ko.wikipedia.org/wiki/우구_알메이다 "wikilink")
+  - [우구 알메이다](../Page/우구_알메이다.md "wikilink")
 
 ## 유명 감독
 
@@ -123,7 +123,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_컵_1976-77" title="wikilink">1976–77</a></p></td>
 <td><p>1라운드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1._FC_마그데부르크" title="wikilink">마그데부르크</a></p></td>
+<td><p><a href="../Page/1._FC_마그데부르크.md" title="wikilink">마그데부르크</a></p></td>
 <td><p>3–1</p></td>
 <td><p>0–3</p></td>
 <td><p><strong>3–4</strong></p></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG KF700](https://ko.wikipedia.org/wiki/LG_KF700).
 
 
-**LG KF700**은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 2008년에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").\[1\]
+**LG KF700**은 [LG전자](../Page/LG전자.md "wikilink")가 2008년에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").\[1\]
 
 ## 각주
 

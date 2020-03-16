@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC DMB](https://ko.wikipedia.org/wiki/MBC_DMB).
 
 
-[200px](https://ko.wikipedia.org/wiki/파일:MBC_DMB_로고.png "wikilink") **MBC DMB**는 수도권을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 1일에](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 개국하였다. [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink")이 주 사업자로서 운영하고 있다. 현재 비디오 채널 2개와 비주얼 라디오 채널 1개를 송출하고 있다.수도권,강원를 제외한 나머지 지역(경상,충청,전라,제주)은 각지역국이 돌아가면서 방송을 하고있다.
+[200px](https://ko.wikipedia.org/wiki/파일:MBC_DMB_로고.png "wikilink") **MBC DMB**는 수도권을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2005년](../Page/2005년.md "wikilink") [12월 1일에](../Page/12월_1일.md "wikilink") 개국하였다. [문화방송](../Page/문화방송.md "wikilink")이 주 사업자로서 운영하고 있다. 현재 비디오 채널 2개와 비주얼 라디오 채널 1개를 송출하고 있다.수도권,강원를 제외한 나머지 지역(경상,충청,전라,제주)은 각지역국이 돌아가면서 방송을 하고있다.
 
 ## 채널 목록
 
@@ -14,7 +14,7 @@
 
 ### 로고송
 
-  - MY MBC [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") \~
+  - MY MBC [2005년](../Page/2005년.md "wikilink") \~
 
 ## 비디오 채널
 
@@ -23,7 +23,7 @@
 <!-- end list -->
 
   -
-    비디오 채널은 편성시간의 대부분을 [MBC TV를](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") 재전송하는데 사용하고 평일 오후 시간엔 MBC TV에서 방송되는 프로그램과 자체 제작 프로그램을 방송했었다. 자체 방송 시간은 [문화방송 홈페이지](http://guide.imbc.com/dmbTV/)를 참조하면 된다. 2017년 5월부터 DMB HD로 송출 하고 있다.
+    비디오 채널은 편성시간의 대부분을 [MBC TV를](../Page/MBC_TV.md "wikilink") 재전송하는데 사용하고 평일 오후 시간엔 MBC TV에서 방송되는 프로그램과 자체 제작 프로그램을 방송했었다. 자체 방송 시간은 [문화방송 홈페이지](http://guide.imbc.com/dmbTV/)를 참조하면 된다. 2017년 5월부터 DMB HD로 송출 하고 있다.
 
 ## 오디오 (V-Radio) 채널
 

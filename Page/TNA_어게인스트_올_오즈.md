@@ -49,19 +49,19 @@
 <td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/TNA_임팩트!_존" title="wikilink">TNA 임팩트! 존</a></p></td>
 <td><p>1,100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스팅_(프로레슬링_선수)" title="wikilink">스팅</a> vs. <a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> vs. <a href="https://ko.wikipedia.org/wiki/마크_로모나코" title="wikilink">브라더 레이</a> vs. <a href="../Page/디본_휴스.md" title="wikilink">브라더 디본</a> (TNA 월드 헤비웨이트 챔피언십, 포-웨이 매치)</p></td>
+<td><p><a href="../Page/스팅_(프로레슬링_선수).md" title="wikilink">스팅</a> vs. <a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> vs. <a href="../Page/마크_로모나코.md" title="wikilink">브라더 레이</a> vs. <a href="../Page/디본_휴스.md" title="wikilink">브라더 디본</a> (TNA 월드 헤비웨이트 챔피언십, 포-웨이 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2010년 2월 14일</p></td>
 <td><p>1,100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일라이저_버크" title="wikilink">디앤절로 디네로</a> vs. <a href="https://ko.wikipedia.org/wiki/켄_앤더슨" title="wikilink">미스터 앤더슨</a> (8 카드 스터드 토너먼드 결승전)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/일라이저_버크" title="wikilink">디앤절로 디네로</a> vs. <a href="../Page/켄_앤더슨.md" title="wikilink">미스터 앤더슨</a> (8 카드 스터드 토너먼드 결승전)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 2월 13일</p></td>
 <td><p>1,100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제프_하디" title="wikilink">제프 하디</a> vs. <a href="https://ko.wikipedia.org/wiki/켄_앤더슨" title="wikilink">미스터 앤더슨</a> (TNA 월드 헤비웨이트 챔피언십, 래더 매치)</p></td>
+<td><p><a href="../Page/제프_하디.md" title="wikilink">제프 하디</a> vs. <a href="../Page/켄_앤더슨.md" title="wikilink">미스터 앤더슨</a> (TNA 월드 헤비웨이트 챔피언십, 래더 매치)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -69,7 +69,7 @@
 <td><p>2012년 2월12일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/임팩트_레슬링_존" title="wikilink">임팩트 레슬링 존</a></p></td>
 <td><p>1,100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로버트_루드" title="wikilink">바비 루드</a> vs. <a href="https://ko.wikipedia.org/wiki/마크_로모나코" title="wikilink">불리 레이</a> vs. <a href="https://ko.wikipedia.org/wiki/제임스_스톰" title="wikilink">제임스 스톰</a> vs. <a href="https://ko.wikipedia.org/wiki/제프_하디" title="wikilink">제프 하디</a> (TNA 월드 헤비웨이트 챔피언십, 포-웨이 매치)</p></td>
+<td><p><a href="../Page/로버트_루드.md" title="wikilink">바비 루드</a> vs. <a href="../Page/마크_로모나코.md" title="wikilink">불리 레이</a> vs. <a href="../Page/제임스_스톰.md" title="wikilink">제임스 스톰</a> vs. <a href="../Page/제프_하디.md" title="wikilink">제프 하디</a> (TNA 월드 헤비웨이트 챔피언십, 포-웨이 매치)</p></td>
 <td></td>
 </tr>
 </tbody>

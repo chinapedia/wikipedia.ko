@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
 
 
-**존 캐벌 브레킨리지**(, [1821년](https://ko.wikipedia.org/wiki/1821년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") \~ [1875년](https://ko.wikipedia.org/wiki/1875년 "wikilink") [5월 17일](https://ko.wikipedia.org/wiki/5월_17일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 제14대 부통령이다. [1857년](https://ko.wikipedia.org/wiki/1857년 "wikilink")부터 [1861년](https://ko.wikipedia.org/wiki/1861년 "wikilink")까지 부통령직에 있었다.
+**존 캐벌 브레킨리지**(, [1821년](../Page/1821년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") \~ [1875년](../Page/1875년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 제14대 부통령이다. [1857년](../Page/1857년.md "wikilink")부터 [1861년](../Page/1861년.md "wikilink")까지 부통령직에 있었다.
 
 ## 외부 링크
 

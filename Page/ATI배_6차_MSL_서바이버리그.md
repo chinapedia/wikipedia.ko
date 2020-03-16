@@ -5,11 +5,11 @@
 
 ## 리그기간
 
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 23일](https://ko.wikipedia.org/wiki/7월_23일 "wikilink")
+  - [2005년](../Page/2005년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink")
 
 ## 특이사항
 
-  - [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink") 캐스터 [박상현의](https://ko.wikipedia.org/wiki/박상현_\(1981년\) "wikilink") 데뷔 첫 진행
+  - [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink") 캐스터 [박상현의](../Page/박상현_\(1981년\).md "wikilink") 데뷔 첫 진행
   - 서바이버 리그 최초로 지방투어 진행 (6주차) (국립한국해양대학교 특설무대)
 
 ## 예선최종전
@@ -18,7 +18,7 @@
 
 ### 본선
 
-  - **일정** : [1월 24일](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") \~ [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") *(오프라인 예선전 [1월 17일](https://ko.wikipedia.org/wiki/1월_17일 "wikilink"))*
+  - **일정** : [1월 24일](../Page/1월_24일.md "wikilink") \~ [3월 3일](../Page/3월_3일.md "wikilink") *(오프라인 예선전 [1월 17일](../Page/1월_17일.md "wikilink"))*
 
 |         |                                                                   |        |
 | ------- | ----------------------------------------------------------------- | ------ |
@@ -42,13 +42,13 @@
 
 ## 1Round
 
-  - **일정** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월 11일](https://ko.wikipedia.org/wiki/5월_11일 "wikilink") *(재경기 : [5월 21일](https://ko.wikipedia.org/wiki/5월_21일 "wikilink"))*
+  - **일정** : [2005년](../Page/2005년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") *(재경기 : [5월 21일](../Page/5월_21일.md "wikilink"))*
 
 | A조<small><sup>1</sup></small>                           | B조    | C조                                             | D조    |
 | ------------------------------------------------------- | ----- | ---------------------------------------------- | ----- |
 | **[성학승](../Page/성학승.md "wikilink")**                    | 2승    | **[이병민](../Page/이병민_\(프로게이머\).md "wikilink")** | 2승    |
 | **[한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink")** | 1승 1패 | [이주영](../Page/이주영_\(프로게이머\).md "wikilink")     | 2패    |
-| [피터](https://ko.wikipedia.org/wiki/피터 "wikilink")       | 2패    | **[김근백](../Page/김근백.md "wikilink")**           | 1승 1패 |
+| [피터](../Page/피터.md "wikilink")                          | 2패    | **[김근백](../Page/김근백.md "wikilink")**           | 1승 1패 |
 |                                                         |       |                                                |       |
 
 | E조                                                      | F조    | G조                                           | H조<small><sup>2</sup></small> |
@@ -59,7 +59,7 @@
 
 <div style="font-size:85%">
 
-1.  [피터](https://ko.wikipedia.org/wiki/피터 "wikilink")는 [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink")과의 경기에서 경기 시작 시간인 6시 30분보다 9분 늦게 도착하여 부전패 처리됐다.
+1.  [피터](../Page/피터.md "wikilink")는 [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink")과의 경기에서 경기 시작 시간인 6시 30분보다 9분 늦게 도착하여 부전패 처리됐다.
 2.  H조 [박신영은](../Page/박신영_\(프로게이머\).md "wikilink") 서바이버리그 진출 한 상태에서 은퇴를 선언하여, 박신영이 경기 예정이었던 H조 2, 3경기는 치르지 않으며, H조 1경기인 [김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink") vs [신정민](../Page/신정민.md "wikilink")의 경기만 치러진다. 승자는 H조 1위 ,패자는 H조 2위를 기록한다.
 
 </div>
@@ -74,8 +74,8 @@
 
 ## 2Round
 
-  - **순위결정전** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink"), [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink")
-  - **메이저진출전** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [6월 11일](https://ko.wikipedia.org/wiki/6월_11일 "wikilink"), [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [6월 18일](https://ko.wikipedia.org/wiki/6월_18일 "wikilink")
+  - **순위결정전** : [2005년](../Page/2005년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [6월 4일](../Page/6월_4일.md "wikilink")
+  - **메이저진출전** : [2005년](../Page/2005년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [6월 18일](../Page/6월_18일.md "wikilink")
 
 |        |                                                                   |        |
 | ------ | ----------------------------------------------------------------- | ------ |
@@ -87,10 +87,10 @@
 
 ## 3Round
 
-  - **1회차** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink")
-  - **2회차** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 2일](https://ko.wikipedia.org/wiki/7월_2일 "wikilink")
-  - **3회차** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink")
-  - **4회차** : [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 23일](https://ko.wikipedia.org/wiki/7월_23일 "wikilink")
+  - **1회차** : [2005년](../Page/2005년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink")
+  - **2회차** : [2005년](../Page/2005년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink")
+  - **3회차** : [2005년](../Page/2005년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink")
+  - **4회차** : [2005년](../Page/2005년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink")
 
 |    |                                                                                |       |
 | -- | ------------------------------------------------------------------------------ | ----- |

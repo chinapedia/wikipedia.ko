@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Xargs](https://ko.wikipedia.org/wiki/Xargs).
 
 
-**xargs**는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 명령어로 [표준 입력을](https://ko.wikipedia.org/wiki/표준_입력 "wikilink") 통해 명령 줄을 만들고 실행하는 데 사용한다. 버전 2.6.23 이전의 [리눅스 커널에서는](../Page/리눅스_커널.md "wikilink") 긴 목록의 매개변수가 명령어를 통해 이용하지 못하는 경우도 간혹 있으므로\[1\] xargs는 변수 목록을 여러 하부 목록으로 잘게 나누어서 받아들일 수 있게 한다.
+**xargs**는 [유닉스](../Page/유닉스.md "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제의](../Page/운영_체제.md "wikilink") 명령어로 [표준 입력을](https://ko.wikipedia.org/wiki/표준_입력 "wikilink") 통해 명령 줄을 만들고 실행하는 데 사용한다. 버전 2.6.23 이전의 [리눅스 커널에서는](../Page/리눅스_커널.md "wikilink") 긴 목록의 매개변수가 명령어를 통해 이용하지 못하는 경우도 간혹 있으므로\[1\] xargs는 변수 목록을 여러 하부 목록으로 잘게 나누어서 받아들일 수 있게 한다.
 
 예를 들면, 다음 명령어들은 /path 아래에 파일들이 너무 많이 있을 경우 "Argument list too long"이란 메시지를 내며 실행되지 않는다.
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [To LOVE](https://ko.wikipedia.org/wiki/To_LOVE).
 
 
-《**to LOVE**》(투 러브)는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 23일에](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") 발매된 [니시노 카나의](https://ko.wikipedia.org/wiki/니시노_카나 "wikilink") 두 번째 정규 앨범이다.
+《**to LOVE**》(투 러브)는 [2010년](../Page/2010년.md "wikilink") [6월 23일에](../Page/6월_23일.md "wikilink") 발매된 [니시노 카나의](../Page/니시노_카나.md "wikilink") 두 번째 정규 앨범이다.
 
 ## 개요
 
-첫 번째 앨범 《[LOVE one.](../Page/LOVE_one..md "wikilink")》 이후 1년만에 발매된 앨범. 전작 이후 발매 된 싱글 타이틀 5곡을 포함해 총15곡 수록. 초회생산한정반 부록으로 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")가 포함되어 있다.
+첫 번째 앨범 《[LOVE one.](../Page/LOVE_one..md "wikilink")》 이후 1년만에 발매된 앨범. 전작 이후 발매 된 싱글 타이틀 5곡을 포함해 총15곡 수록. 초회생산한정반 부록으로 [DVD](../Page/DVD.md "wikilink")가 포함되어 있다.
 
-2010년 7월 5일자 [오리콘](../Page/오리콘.md "wikilink") 주간 앨범 차트 초동 29만장을 기록하며 본인으로서는 처음으로 1위를 획득했다. [헤이세이](https://ko.wikipedia.org/wiki/헤이세이_시대 "wikilink")(1989년 - )에 태어난 솔로 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")가 차트 1위를 획득하는 것은 니시노 카나가 처음이다. 이 앨범은 4주 연속 TOP3에 들었으며, 발매일로부터 3주만에 50만장을 돌파했다.\[1\]
+2010년 7월 5일자 [오리콘](../Page/오리콘.md "wikilink") 주간 앨범 차트 초동 29만장을 기록하며 본인으로서는 처음으로 1위를 획득했다. [헤이세이](../Page/헤이세이_시대.md "wikilink")(1989년 - )에 태어난 솔로 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")가 차트 1위를 획득하는 것은 니시노 카나가 처음이다. 이 앨범은 4주 연속 TOP3에 들었으며, 발매일로부터 3주만에 50만장을 돌파했다.\[1\]
 
 ## 수록곡
 

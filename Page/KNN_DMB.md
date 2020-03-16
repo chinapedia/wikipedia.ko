@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [KNN DMB](https://ko.wikipedia.org/wiki/KNN_DMB).
 
 
-**KNN DMB**는 부산·울산·경남 등 동남권을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 6월 개국하였다. [KNN](../Page/KNN.md "wikilink") 부산경남방송이 사업자이며, [ubc울산방송과](../Page/울산방송.md "wikilink") 공동으로 운영하고 있다.
+**KNN DMB**는 부산·울산·경남 등 동남권을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") 6월 개국하였다. [KNN](../Page/KNN.md "wikilink") 부산경남방송이 사업자이며, [ubc울산방송과](../Page/울산방송.md "wikilink") 공동으로 운영하고 있다.
 
 2007년 11월 14일부터 [황령산](../Page/황령산.md "wikilink")송신소에서, 11월 15일부터는 불모산중계소에서 시험 방송에 들어가 2008년 7월 7일부터 본방송을 시작했다. 한편 진주 지역은 그동안 3사의 송신소 위치를 놓고 타 방송사와 함께 [망진산](https://ko.wikipedia.org/wiki/망진산 "wikilink")이냐, [장군대산](https://ko.wikipedia.org/wiki/장군대산 "wikilink")이냐에 갈등을 지속해오다가 [장군대산](https://ko.wikipedia.org/wiki/장군대산 "wikilink")으로 최종 결정되면서 2012년에 방송 송출이 확정되었다.
 
 ## 연혁
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 12월 : 지상파DMB 방송시설 구축 (연주소송출실, 황령산송신소, 무룡산송신소, 불모산중계소 완공)
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 6월 : 지상파DMB 방송국 **KNN DMB** 개국 (준공 검사, 방송국 허가완료)
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 8월 : 지상파DMB 본방송 개시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 1월 : 장군대산중계소, 감악산중계소, 양산중계소 완공
+  - [2007년](../Page/2007년.md "wikilink") 12월 : 지상파DMB 방송시설 구축 (연주소송출실, 황령산송신소, 무룡산송신소, 불모산중계소 완공)
+  - [2008년](../Page/2008년.md "wikilink") 6월 : 지상파DMB 방송국 **KNN DMB** 개국 (준공 검사, 방송국 허가완료)
+  - [2008년](../Page/2008년.md "wikilink") 8월 : 지상파DMB 본방송 개시
+  - [2012년](../Page/2012년.md "wikilink") 1월 : 장군대산중계소, 감악산중계소, 양산중계소 완공
 
 ## 채널 구성
 
@@ -88,7 +88,7 @@
 ## 관련 보기
 
   - [디지털 멀티미디어 방송](../Page/디지털_멀티미디어_방송.md "wikilink")
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
-  - [Busan MBC](https://ko.wikipedia.org/wiki/Busan_MBC "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
+  - [Busan MBC](../Page/Busan_MBC.md "wikilink")
 
 [분류:KNN](https://ko.wikipedia.org/wiki/분류:KNN "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink") [분류:2007년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2007년_설립된_텔레비전_방송국과_채널 "wikilink")

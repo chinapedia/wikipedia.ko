@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GAIS](https://ko.wikipedia.org/wiki/GAIS).
 
 
-**예테보리 선수 스포츠 연맹**(Göteborgs Atlet- och Idrottssällskap), 약칭 **GAIS**는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") [예테보리](../Page/예테보리.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다.
+**예테보리 선수 스포츠 연맹**(Göteborgs Atlet- och Idrottssällskap), 약칭 **GAIS**는 [스웨덴](../Page/스웨덴.md "wikilink") [예테보리](../Page/예테보리.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다.
 
 ## 성적
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MINMI](https://ko.wikipedia.org/wiki/MINMI).
 
 
-**MINMI**(민미, [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") - )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") 출신의 [여성](../Page/여성.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")다. [유니버설 뮤직](https://ko.wikipedia.org/wiki/유니버설_뮤직 "wikilink") 산하 마스터 뷰 소속. 남편은 [쇼난노카제](https://ko.wikipedia.org/wiki/쇼난노카제 "wikilink")의 와카단나.
+**MINMI**(민미, [1974년](../Page/1974년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") - )는 [일본](../Page/일본.md "wikilink") [오사카부](../Page/오사카부.md "wikilink") 출신의 [여성](../Page/여성.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")다. [유니버설 뮤직](https://ko.wikipedia.org/wiki/유니버설_뮤직 "wikilink") 산하 마스터 뷰 소속. 남편은 [쇼난노카제](https://ko.wikipedia.org/wiki/쇼난노카제 "wikilink")의 와카단나.
 
 ## 음반 목록
 
@@ -19,7 +19,7 @@
   - 아베마리아 *()* (2009년 6월 17일)
   - 내일 만약 그대가 없다면... *()* (2009년 11월 11일)
   - Hibiscus *()* (2010년 5월 26일)
-  - 꽃이 핀다 feat. [VERBAL](https://ko.wikipedia.org/wiki/VERBAL "wikilink") *()* (2010년 9월 8일)
+  - 꽃이 핀다 feat. [VERBAL](../Page/VERBAL.md "wikilink") *()* (2010년 9월 8일)
 
 ### 앨범
 
@@ -54,7 +54,7 @@
   - 테루테루babys 《기적》 (2007년 11월 28일)
       - 1\. 기적 (キセキ)
       - 2\. 기적 \~[instrumental](https://ko.wikipedia.org/wiki/instrumental "wikilink")\~
-  - [니시노 카나](https://ko.wikipedia.org/wiki/니시노_카나 "wikilink") 《[to LOVE](https://ko.wikipedia.org/wiki/to_LOVE "wikilink")》 (2010년 6월 23일)
+  - [니시노 카나](../Page/니시노_카나.md "wikilink") 《[to LOVE](https://ko.wikipedia.org/wiki/to_LOVE "wikilink")》 (2010년 6월 23일)
       - 3\. Summer Girl feat.MINMI
 
 ## 외부 링크

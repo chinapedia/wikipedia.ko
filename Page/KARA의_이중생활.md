@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [KARA ](https://ko.wikipedia.org/wiki/KARA_).
 
 
-《**URAKARA**》 (우라카라)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 14일부터](https://ko.wikipedia.org/wiki/1월_14일 "wikilink") 4월 8일까지 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink"). 매주 금요일 24시 12분부터 24시 53분까지 [TV 도쿄](../Page/TV_도쿄.md "wikilink") [드라마 24에서](https://ko.wikipedia.org/wiki/드라마_24 "wikilink") 방송됐다. 일본에서 2010년에 데뷔한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 아이돌 [카라가](../Page/카라_\(음악_그룹\).md "wikilink") 주연이며, 한국에는 CJ 미디어(현 [CJ E\&M](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink"))의 케이블 채널 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 《**KARA의 이중생활**》이라는 제목으로 방송됐다.
+《**URAKARA**》 (우라카라)는 [일본](../Page/일본.md "wikilink")에서 [2011년](../Page/2011년.md "wikilink") [1월 14일부터](../Page/1월_14일.md "wikilink") 4월 8일까지 방송된 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 매주 금요일 24시 12분부터 24시 53분까지 [TV 도쿄](../Page/TV_도쿄.md "wikilink") [드라마 24에서](../Page/드라마_24.md "wikilink") 방송됐다. 일본에서 2010년에 데뷔한 [대한민국](../Page/대한민국.md "wikilink")의 아이돌 [카라가](../Page/카라_\(음악_그룹\).md "wikilink") 주연이며, 한국에는 CJ 미디어(현 [CJ E\&M](../Page/CJ_E&M.md "wikilink"))의 케이블 채널 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 《**KARA의 이중생활**》이라는 제목으로 방송됐다.
 
 ## 등장 인물
 
   - 규리 역 - [박규리](../Page/박규리.md "wikilink")
   - 승연 역 - [한승연](../Page/한승연.md "wikilink")
   - 니콜 역 - [정니콜](../Page/니콜_\(1991년\).md "wikilink")
-  - 하라 역 - 故 [구하라](https://ko.wikipedia.org/wiki/구하라 "wikilink")
+  - 하라 역 - 故 [구하라](../Page/구하라.md "wikilink")
   - 지영 역 - [강지영](../Page/강지영.md "wikilink")
-  - 박사장 역 - [이호성](https://ko.wikipedia.org/wiki/이호성_\(배우\) "wikilink")
+  - 박사장 역 - [이호성](../Page/이호성_\(배우\).md "wikilink")
   - 박사장 2호 역 - 마이크 한 ([안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink"). 카라의 소속사 신임 사장이다.)
-  - 간사이 노조미 역 - [하마다 마리](https://ko.wikipedia.org/wiki/하마다_마리_\(배우\) "wikilink") (카라의 매니저이다.)
+  - 간사이 노조미 역 - [하마다 마리](../Page/하마다_마리_\(배우\).md "wikilink") (카라의 매니저이다.)
   - 수수께끼의 인물 - 누쿠미즈 요이치 (박사장 2호와 야마모토 등의 뒤에서 조종하며 카라에게 미녀스파이의 지령을 내리는 인물)
 
 ## 방송 목록

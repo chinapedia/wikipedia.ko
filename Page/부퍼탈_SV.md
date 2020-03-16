@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SV](https://ko.wikipedia.org/wiki/_SV).
 
 
-**부퍼탈 SV**()는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [노르트라인베스트팔렌주](https://ko.wikipedia.org/wiki/노르트라인베스트팔렌주 "wikilink")의 도시인 [부퍼탈](https://ko.wikipedia.org/wiki/부퍼탈 "wikilink")의 축구 클럽으로, 현재 [레기오날리가](../Page/레기오날리가.md "wikilink") 서부 리그에서 활동하고 있다. 부퍼탈 SV는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 외에도 [권투](../Page/권투.md "wikilink"), [체조](../Page/체조.md "wikilink"), [핸드볼](https://ko.wikipedia.org/wiki/핸드볼 "wikilink"), [육상](https://ko.wikipedia.org/wiki/육상_경기 "wikilink") 팀을 운영하고 있다.
+**부퍼탈 SV**()는 [독일](../Page/독일.md "wikilink") [노르트라인베스트팔렌주](../Page/노르트라인베스트팔렌주.md "wikilink")의 도시인 [부퍼탈](../Page/부퍼탈.md "wikilink")의 축구 클럽으로, 현재 [레기오날리가](../Page/레기오날리가.md "wikilink") 서부 리그에서 활동하고 있다. 부퍼탈 SV는 [축구](../Page/축구.md "wikilink") 외에도 [권투](../Page/권투.md "wikilink"), [체조](../Page/체조.md "wikilink"), [핸드볼](../Page/핸드볼.md "wikilink"), [육상](../Page/육상_경기.md "wikilink") 팀을 운영하고 있다.
 
 ## 성적
 

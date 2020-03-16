@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ W  ](https://ko.wikipedia.org/wiki/_W__).
 
 
-아래는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")의 [특수촬영 드라마](https://ko.wikipedia.org/wiki/특수촬영_드라마 "wikilink") **[가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 방영 방영 목록**이다.
+아래는 [일본](../Page/일본.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")의 [특수촬영 드라마](https://ko.wikipedia.org/wiki/특수촬영_드라마 "wikilink") **[가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 방영 방영 목록**이다.
 
   - 가면라이더 W의 에피소드는 2화 1편으로 이루어져 있으며 전편은 사건 발생을 담았고, 후편은 그 사건을 해결하는 형식을 갖추고 있다.
   - 사건편과 해결편에는 공통인 에피소드 타이틀이 있어, 해답편의 아방 타이틀에서는, 그 에피소드의 인물상관도가 나타난다.

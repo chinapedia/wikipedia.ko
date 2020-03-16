@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dream Within a Dream Tour](https://ko.wikipedia.org/wiki/Dream_Within_a_Dream_Tour).
 
 
-**Dream Within a Dream Tour**는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 브리트니의 세 번째 정규 음반 *[Britney](https://ko.wikipedia.org/wiki/Britney_\(음반\) "wikilink")*의 프로모션을 위해 북아메리카와 일본을 순회했다. Dream Within a Dream Tour는 대부분 매진돼 총 4천 3백만 달러의 수익을 남겼다.
+**Dream Within a Dream Tour**는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 브리트니의 세 번째 정규 음반 *[Britney](../Page/Britney_\(음반\).md "wikilink")*의 프로모션을 위해 북아메리카와 일본을 순회했다. Dream Within a Dream Tour는 대부분 매진돼 총 4천 3백만 달러의 수익을 남겼다.
 
 ## 오프닝 게스트
 
@@ -17,12 +17,12 @@
 ### 2001
 
 1.  "Dream Within a Dream" <small>(Video Introduction)</small>
-2.  "[Oops\!... I Did It Again](https://ko.wikipedia.org/wiki/Oops!..._I_Did_It_Again_\(노래\) "wikilink")"
+2.  "[Oops\!... I Did It Again](../Page/Oops!..._I_Did_It_Again_\(노래\).md "wikilink")"
 3.  "[(You Drive Me) Crazy](../Page/\(You_Drive_Me\)_Crazy.md "wikilink")"
 4.  "It Was All In Your Mind" <small>(Dance Interlude)</small>
 5.  "[Overprotected](../Page/Overprotected.md "wikilink")"
 6.  "Storytime" <small>(Video Interlude)</small> <small>(contains elements from "[From the Bottom of My Broken Heart](https://ko.wikipedia.org/wiki/From_the_Bottom_of_My_Broken_Heart "wikilink")" and "Born to Make You Happy")</small>
-7.  "[Born to Make You Happy](https://ko.wikipedia.org/wiki/Born_to_Make_You_Happy "wikilink")" / "[Lucky](https://ko.wikipedia.org/wiki/Lucky "wikilink")" / "[Sometimes](https://ko.wikipedia.org/wiki/Sometimes_\(Britney_Spears_song\) "wikilink")"
+7.  "[Born to Make You Happy](../Page/Born_to_Make_You_Happy.md "wikilink")" / "[Lucky](https://ko.wikipedia.org/wiki/Lucky "wikilink")" / "[Sometimes](https://ko.wikipedia.org/wiki/Sometimes_\(Britney_Spears_song\) "wikilink")"
 8.  "Storytime" (Reprise) <small>(Video Interlude)</small>
 9.  "[Boys](https://ko.wikipedia.org/wiki/Boys "wikilink")"
 10. "[Stronger](https://ko.wikipedia.org/wiki/Stronger "wikilink")"
@@ -42,12 +42,12 @@
 ### 2002
 
 1.  "Dream Within a Dream" <small>(Video Introduction)</small>
-2.  "[Oops\!... I Did It Again](https://ko.wikipedia.org/wiki/Oops!..._I_Did_It_Again_\(노래\) "wikilink")"
+2.  "[Oops\!... I Did It Again](../Page/Oops!..._I_Did_It_Again_\(노래\).md "wikilink")"
 3.  "[(You Drive Me) Crazy](../Page/\(You_Drive_Me\)_Crazy.md "wikilink")"
 4.  "It Was All In Your Mind" <small>(Dance Interlude)</small>
 5.  "[Overprotected](../Page/Overprotected.md "wikilink")" ([Darkchild](https://ko.wikipedia.org/wiki/Darkchild "wikilink") Remix)
 6.  "Storytime" <small>(Video Interlude)</small> <small>(contains elements from "[From the Bottom of My Broken Heart](https://ko.wikipedia.org/wiki/From_the_Bottom_of_My_Broken_Heart "wikilink")" and "Born to Make You Happy")</small>
-7.  "[Born to Make You Happy](https://ko.wikipedia.org/wiki/Born_to_Make_You_Happy "wikilink")" / "[Lucky](https://ko.wikipedia.org/wiki/Lucky "wikilink")" / "[Sometimes](https://ko.wikipedia.org/wiki/Sometimes "wikilink")"
+7.  "[Born to Make You Happy](../Page/Born_to_Make_You_Happy.md "wikilink")" / "[Lucky](https://ko.wikipedia.org/wiki/Lucky "wikilink")" / "[Sometimes](https://ko.wikipedia.org/wiki/Sometimes "wikilink")"
 8.  "Storytime" (Reprise) <small>(Video Interlude)</small>
 9.  "[Boys](https://ko.wikipedia.org/wiki/Boys "wikilink")" (The Co-Ed Remix)
 10. "[Stronger](https://ko.wikipedia.org/wiki/Stronger "wikilink")"

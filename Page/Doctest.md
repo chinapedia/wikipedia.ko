@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Doctest](https://ko.wikipedia.org/wiki/Doctest).
 
 
-**doctest**는 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") 언어의 표준 라이브러리로 표준 파이썬 인터프리터 셸 입출력을 [주석문자열](https://ko.wikipedia.org/wiki/주석문자열 "wikilink")에 복사 첨부함으로부써 간단하게 프로그램 시험예를 적용시킬 수 있게 해준다.
+**doctest**는 [파이썬](../Page/파이썬.md "wikilink") 언어의 표준 라이브러리로 표준 파이썬 인터프리터 셸 입출력을 [주석문자열](https://ko.wikipedia.org/wiki/주석문자열 "wikilink")에 복사 첨부함으로부써 간단하게 프로그램 시험예를 적용시킬 수 있게 해준다.
 
 ## 사용 예
 
@@ -40,7 +40,7 @@ if "__main__" == __name__ :
 
 ## 같이 보기
 
-  - [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink")
+  - [파이썬](../Page/파이썬.md "wikilink")
   - [소프트웨어 테스트](../Page/소프트웨어_테스트.md "wikilink")
   - [유닛 테스트](../Page/유닛_테스트.md "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ BK](https://ko.wikipedia.org/wiki/_BK).
 
 
-**할름스타드 BK**(Halmstads BK, 약칭 **HBK**)는 [1914년](https://ko.wikipedia.org/wiki/1914년 "wikilink") [3월 6일에](https://ko.wikipedia.org/wiki/3월_6일 "wikilink") 창단된 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") [할름스타드](https://ko.wikipedia.org/wiki/할름스타드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 리그 우승 4회와 컵 대회 우승 1회의 기록을 보유하고 있다. 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.
+**할름스타드 BK**(Halmstads BK, 약칭 **HBK**)는 [1914년](../Page/1914년.md "wikilink") [3월 6일에](../Page/3월_6일.md "wikilink") 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [할름스타드](../Page/할름스타드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 리그 우승 4회와 컵 대회 우승 1회의 기록을 보유하고 있다. 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.
 
 ## 성적
 
@@ -17,7 +17,7 @@
 
 ## 유명 선수
 
-  - [니클라스 알렉산데르손](https://ko.wikipedia.org/wiki/니클라스_알렉산데르손 "wikilink")
+  - [니클라스 알렉산데르손](../Page/니클라스_알렉산데르손.md "wikilink")
 
   - [페테르 한손](https://ko.wikipedia.org/wiki/페테르_한손 "wikilink")
 
@@ -33,7 +33,7 @@
 
 ## 유명 감독
 
-  - [로이 호지슨](https://ko.wikipedia.org/wiki/로이_호지슨 "wikilink")
+  - [로이 호지슨](../Page/로이_호지슨.md "wikilink")
 
   - [요나스 테른](https://ko.wikipedia.org/wiki/요나스_테른 "wikilink")
 

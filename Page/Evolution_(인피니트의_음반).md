@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Evolution \( \)](https://ko.wikipedia.org/wiki/Evolution_\(_\)).
 
 
-***Evolution***(에볼루션)은 대한민국의 음악 그룹 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")의 두 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 음반이다. 2011년 1월 6일, [엠넷미디어](../Page/엠넷미디어.md "wikilink")를 통해 발매되었다.
+***Evolution***(에볼루션)은 대한민국의 음악 그룹 [인피니트](../Page/인피니트.md "wikilink")의 두 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 음반이다. 2011년 1월 6일, [엠넷미디어](../Page/엠넷미디어.md "wikilink")를 통해 발매되었다.
 
 ## 수록곡
 

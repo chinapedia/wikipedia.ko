@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ BK](https://ko.wikipedia.org/wiki/_BK).
 
 
-**아카데미스크 BK**(Akademisk Boldklub)는 [1889년](https://ko.wikipedia.org/wiki/1889년 "wikilink")에 창단된 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink") [코펜하겐](https://ko.wikipedia.org/wiki/코펜하겐 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [덴마크 1부 리그에서](https://ko.wikipedia.org/wiki/덴마크_1부_리그 "wikilink") 활동하고 있다.
+**아카데미스크 BK**(Akademisk Boldklub)는 [1889년](../Page/1889년.md "wikilink")에 창단된 [덴마크](../Page/덴마크.md "wikilink") [코펜하겐](../Page/코펜하겐.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [덴마크 1부 리그에서](https://ko.wikipedia.org/wiki/덴마크_1부_리그 "wikilink") 활동하고 있다.
 
 ## 성적
 

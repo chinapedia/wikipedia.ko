@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  AG:     ](https://ko.wikipedia.org/wiki/__AG:_____).
 
 
-《**극장판 포켓몬스터 포켓몬 레인저와 바다의 왕자 마나피**》()는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 15일에](https://ko.wikipedia.org/wiki/7월_15일 "wikilink") 개봉된 [TV 애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제9기이다. 대한민국에서는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 20일에](https://ko.wikipedia.org/wiki/7월_20일 "wikilink") 개봉하였다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 22일에](https://ko.wikipedia.org/wiki/7월_22일 "wikilink") 재개봉하였다.
+《**극장판 포켓몬스터 포켓몬 레인저와 바다의 왕자 마나피**》()는 [2006년](../Page/2006년.md "wikilink") [7월 15일에](../Page/7월_15일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink") [포켓몬스터](../Page/포켓몬스터.md "wikilink")의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제9기이다. 대한민국에서는 [2006년](../Page/2006년.md "wikilink") [7월 20일에](../Page/7월_20일.md "wikilink") 개봉하였다. [2015년](../Page/2015년.md "wikilink") [7월 22일에](../Page/7월_22일.md "wikilink") 재개봉하였다.
 
 ## 주제가
 
@@ -14,7 +14,7 @@
 ## 등장인물
 
   - 잭 워커
-    성우 : [야마데라 코이치](https://ko.wikipedia.org/wiki/야마데라_코이치 "wikilink") / [엄상현](../Page/엄상현.md "wikilink")
+    성우 : [야마데라 코이치](../Page/야마데라_코이치.md "wikilink") / [엄상현](../Page/엄상현.md "wikilink")
     포켓몬 레인저로 등장한다. 일단 맡은 바에 대해서는 충실하게 하고 운동 신경이 매우 뛰어나고 진지할 땐 생각도 깊은 설정으로 등장한다. 일찍이 팬텀이 그토록 원했던 것물건을 얻자 그것에 대한 정체를 꿰뚫고 있었고, 팬텀의 부하로 변장하여 그것을 가로채기에 이른다. 이후 물의 일족 네 식구가 운영하는 수중 서커스단에 숨어들었고, 마실 물을 찾아온 지우 일행의 앞에 정체를 드러내어 합류한다.
 
 <!-- end list -->
@@ -32,13 +32,13 @@
 <!-- end list -->
 
   - 시프
-    성우 : / [온영삼](https://ko.wikipedia.org/wiki/온영삼 "wikilink")
+    성우 : / [온영삼](../Page/온영삼.md "wikilink")
     이자벨의 할아버지. 물의 일족이며 그 일족의 전설에 관해 해박하다.
 
 <!-- end list -->
 
   - 카엘
-    성우 / [김환진](https://ko.wikipedia.org/wiki/김환진 "wikilink")
+    성우 / [김환진](../Page/김환진.md "wikilink")
     이자벨의 아버지며 물의 일족이다.
 
 <!-- end list -->
@@ -50,13 +50,13 @@
 <!-- end list -->
 
   - 팬텀 톨프
-    성우 : [후지오카 히로시](https://ko.wikipedia.org/wiki/후지오카_히로시 "wikilink") / [최석필](https://ko.wikipedia.org/wiki/최석필 "wikilink")
+    성우 : [후지오카 히로시](https://ko.wikipedia.org/wiki/후지오카_히로시 "wikilink") / [최석필](../Page/최석필.md "wikilink")
     마나피와 함께 물의 신전에 있다는 '바다의 왕관'을 노리는 해적이며 매우 강하지만 무척이나 사악한 성격의 설정으로 등장한다.
 
 <!-- end list -->
 
   - [마나피](https://ko.wikipedia.org/wiki/마나피 "wikilink")
-    성우 : [시라토리 유리](https://ko.wikipedia.org/wiki/시라토리_유리 "wikilink")
+    성우 : [시라토리 유리](../Page/시라토리_유리.md "wikilink")
     '바다의 왕자'라고 불리는 환상의 포켓몬으로 등장한다.
 
 <!-- end list -->

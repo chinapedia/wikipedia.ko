@@ -3,7 +3,7 @@
 
 ## 리그기간
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") \~ [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 20일](https://ko.wikipedia.org/wiki/7월_20일 "wikilink")
+  - [2006년](../Page/2006년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [7월 20일](../Page/7월_20일.md "wikilink")
 
 ## 특이사항
 
@@ -12,7 +12,7 @@
 
 ## 진출자
 
-  - **오프라인 예선전** : [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink")
+  - **오프라인 예선전** : [2006년](../Page/2006년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink")
 
 | 1조  | 2조  | 3조  | 4조  | 5조  | 6조  | 7조  | 8조  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,13 +22,13 @@
 
 ## 1Round
 
-  - **일정** : [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 8일](https://ko.wikipedia.org/wiki/4월_8일 "wikilink") \~ [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink") *(E조 재경기 포함)*
+  - **일정** : [2006년](../Page/2006년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") \~ [5월 23일](../Page/5월_23일.md "wikilink") *(E조 재경기 포함)*
 
 | A조                                                      | B조    | C조                                                      | D조    |
 | ------------------------------------------------------- | ----- | ------------------------------------------------------- | ----- |
 | **[서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")** | 2승    | **[원종서](../Page/원종서.md "wikilink")**                    | 2승    |
 | 채지훈                                                     | 2패    | [김민구](../Page/김민구_\(프로게이머\).md "wikilink")              | 2패    |
-| **[주영달](https://ko.wikipedia.org/wiki/주영달 "wikilink")** | 1승 1패 | **[박성준](https://ko.wikipedia.org/wiki/박성준 "wikilink")** | 1승 1패 |
+| **[주영달](../Page/주영달.md "wikilink")**                    | 1승 1패 | **[박성준](https://ko.wikipedia.org/wiki/박성준 "wikilink")** | 1승 1패 |
 |                                                         |       |                                                         |       |
 
 | E조                                   | F조    | G조                                                            | H조    |
@@ -39,8 +39,8 @@
 
 ### MSL 진출전
 
-  - **1회차** : [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 30일](https://ko.wikipedia.org/wiki/5월_30일 "wikilink")
-  - **2회차** : [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink")
+  - **1회차** : [2006년](../Page/2006년.md "wikilink") [5월 30일](../Page/5월_30일.md "wikilink")
+  - **2회차** : [2006년](../Page/2006년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink")
 
 |     |                                                     |          |
 | --- | --------------------------------------------------- | -------- |

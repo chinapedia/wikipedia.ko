@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**파틱 시슬 FC**(Partick Thistle Football Club, Partick Thistle F.C.)는 [1876년](https://ko.wikipedia.org/wiki/1876년 "wikilink")에 창단된 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink") [글래스고](https://ko.wikipedia.org/wiki/글래스고 "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 프리미어리그에서](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 활동하고 있다.
+**파틱 시슬 FC**(Partick Thistle Football Club, Partick Thistle F.C.)는 [1876년](../Page/1876년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [글래스고](../Page/글래스고.md "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 프리미어리그에서](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 활동하고 있다.
 
 ## 유명 선수
 

@@ -17,7 +17,7 @@
 8.  〈Stiff Upper Lip〉 - 2:52
 9.  〈Central Park〉 (additional vocals: Joy Joseph) - 2:53
 10. 〈Anyone But Him〉 (feat. [Kanye West](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink")) - 3:10
-11. 〈Everything Is Broken〉 (feat. [Kid Cudi](https://ko.wikipedia.org/wiki/키드_커디 "wikilink")) - 2:44
+11. 〈Everything Is Broken〉 (feat. [Kid Cudi](../Page/키드_커디.md "wikilink")) - 2:44
 12. 〈Lift Your Head〉 (additional vocals: Joy Joseph) - 3:08
 13. 〈Time〉 (additional vocals: Joy Joseph) - 3:58
 14. 〈Supernova (Calvin Harris Remix)〉 (iTunes UK Bonus Track) - 5:41

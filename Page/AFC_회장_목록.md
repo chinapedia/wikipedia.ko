@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AFC  ](https://ko.wikipedia.org/wiki/AFC__).
 
 
-다음은 [아시아 축구 연맹](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink")(AFC)의 역대 회장 목록이다.
+다음은 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)의 역대 회장 목록이다.
 
 <table>
 <thead>
@@ -19,7 +19,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/로_만_캄" title="wikilink">로 만 캄</a></p></td>
 <td></td>
 <td><p>1954</p></td>
-<td><p>최초의 <a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a> 회장</p></td>
+<td><p>최초의 <a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a> 회장</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -47,21 +47,21 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/툰쿠_압둘_라만_푸트라_알_하지" title="wikilink">툰쿠 압둘 라만 푸트라 알 하지</a></p></td>
 <td></td>
 <td><p>1958 - 1977</p></td>
-<td><p>최장 기간 <a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a> 회장, 최초 <a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a> 국적 이외의 회장</p></td>
+<td><p>최장 기간 <a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a> 회장, 최초 <a href="../Page/홍콩.md" title="wikilink">홍콩</a> 국적 이외의 회장</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/캄비즈_아비아티" title="wikilink">캄비즈 아비아티</a></p></td>
 <td></td>
 <td><p>1977 - 1978</p></td>
-<td><p>최초 중동 출신 <a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a> 회장</p></td>
+<td><p>최초 중동 출신 <a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a> 회장</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/탄_스리_함자_아부_사마" title="wikilink">탄 스리 함자 아부 사마</a></p></td>
 <td></td>
 <td><p>1978 - 1994</p></td>
-<td><p>역대 2위 최장 기간 <a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a> 회장</p></td>
+<td><p>역대 2위 최장 기간 <a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a> 회장</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -101,7 +101,7 @@
 </tbody>
 </table>
 
-그리고 그 밑은 [AFC를](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") 배출한 나라들의 순위이다.
+그리고 그 밑은 [AFC를](../Page/아시아_축구_연맹.md "wikilink") 배출한 나라들의 순위이다.
 
 <table>
 <thead>

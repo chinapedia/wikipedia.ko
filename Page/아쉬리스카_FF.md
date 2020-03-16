@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ FF](https://ko.wikipedia.org/wiki/_FF).
 
 
-**아쉬리스카 FF**(Assyriska Fotbollsföreningen)는 [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink")에 창단된 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") [쇠데르텔리에](https://ko.wikipedia.org/wiki/쇠데르텔리에 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다.
+**아쉬리스카 FF**(Assyriska Fotbollsföreningen)는 [1974년](../Page/1974년.md "wikilink")에 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [쇠데르텔리에](../Page/쇠데르텔리에.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다.
 
-아쉬리스카 FF는 [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")에 [시리아 정교회를](../Page/시리아_정교회.md "wikilink") 믿는 [터키](https://ko.wikipedia.org/wiki/터키 "wikilink")계 [아시리아인](https://ko.wikipedia.org/wiki/아시리아인 "wikilink")들이 중심이 되어 창단되었으며 축구단은 [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink")에 창단되었다.
+아쉬리스카 FF는 [1971년](../Page/1971년.md "wikilink")에 [시리아 정교회를](../Page/시리아_정교회.md "wikilink") 믿는 [터키](../Page/터키.md "wikilink")계 [아시리아인](../Page/아시리아인.md "wikilink")들이 중심이 되어 창단되었으며 축구단은 [1974년](../Page/1974년.md "wikilink")에 창단되었다.
 
 ## 성적
 

@@ -5,26 +5,26 @@
 | ----------------------------------------------------------------------------------------- |
 | 1\. "[Hold It Against Me](../Page/Hold_It_Against_Me.md "wikilink")"                      |
 | 2\. "[Till The World Ends](https://ko.wikipedia.org/wiki/Till_The_World_Ends "wikilink")" |
-| 3\. "[I Wanna Go](https://ko.wikipedia.org/wiki/I_Wanna_Go "wikilink")"                   |
+| 3\. "[I Wanna Go](../Page/I_Wanna_Go.md "wikilink")"                                      |
 | 4\. "[Criminal](https://ko.wikipedia.org/wiki/Criminal "wikilink")"                       |
 
-***Femme Fatale***은 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 일곱 번째 정규 음반이다. 2011년 3월 25일 [자이브 레코드를](https://ko.wikipedia.org/wiki/자이브_레코드 "wikilink") 통해 발매되었다. 브리트니는 닥터 루크와 맥스 마틴이 전반적인 프로듀서를 맡아 2009년부터 2011년까지 공동 작업을 해왔다. 브리트니는 이번 앨범에는 전작들과 다르게 [덥스텝](https://ko.wikipedia.org/wiki/덥스텝 "wikilink")과 같은 댄스 음악 스타일의 실험적인 음악적 요소들을 많이 시도했다.\[1\] 또한 이례적으로 [윌 아이 엠](https://ko.wikipedia.org/wiki/윌_아이_엠 "wikilink"), 로드니 저킨스, 스타게이트와 같은 프로듀서들과도 작업했다.
+***Femme Fatale***은 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 일곱 번째 정규 음반이다. 2011년 3월 25일 [자이브 레코드를](../Page/자이브_레코드.md "wikilink") 통해 발매되었다. 브리트니는 닥터 루크와 맥스 마틴이 전반적인 프로듀서를 맡아 2009년부터 2011년까지 공동 작업을 해왔다. 브리트니는 이번 앨범에는 전작들과 다르게 [덥스텝](../Page/덥스텝.md "wikilink")과 같은 댄스 음악 스타일의 실험적인 음악적 요소들을 많이 시도했다.\[1\] 또한 이례적으로 [윌 아이 엠](https://ko.wikipedia.org/wiki/윌_아이_엠 "wikilink"), 로드니 저킨스, 스타게이트와 같은 프로듀서들과도 작업했다.
 
 브리트니가 새로운 정규 앨범 작업을 하고있다는 소문은 2009년 월드 투어 [The Circus Starring Britney Spears를](../Page/The_Circus_Starring_Britney_Spears.md "wikilink") 끝내고나서부터 돌았다. 그리고 프로듀서들도 역시 새로운 앨범 작업을 하고있다고 전했고, 그 결과 2011년 2월 2일 브리트니의 트위터를 통해 새로운 앨범 제목이 *Femme Fatale*이라고 밝혔다. 발매되기 3주 전에 앨범의 모든 수록곡은 온라인을 통해 유출되는 사고가 일어나기도 했다.
 
-*Femme Fatale*이 발매되자 비평가들은 브리트니가 앞으로도 계속 앨범을 낼 생각이 있는 것 같다며 긍정적인 평가를 받았다. 하지만, 일부의 비평가들은 아직도 스피어스의 보컬은 부족하다며 비판을 하기도 했다. 상업적으로는 발매 첫 주 미국에서 276,000만 장을 팔아치워 [빌보드 200](../Page/빌보드_200.md "wikilink") 1위로 데뷔하며 여섯 번째 빌보드 200 1위 앨범을 만들어냈다. 이 외에 여섯 개의 국가에서 1위로 데뷔했고 거의 모든 국가에서 10위권에 진입했다. "[Hold It Against Me](../Page/Hold_It_Against_Me.md "wikilink")"는 앨범의 리드 싱글로 발매되었고 미국과 캐나다를 포함한 7개의 나라에서 정상을 차지했다. 앨범의 두 번째 싱글 "[Till the World Ends](https://ko.wikipedia.org/wiki/Till_the_World_Ends "wikilink")"는 한국과 폴란드에서 1위를 차지했고 미국에서는 3위에 도달했으며, 이를 포함한 12개의 나라에서 10위권 진입을 했다. 스피어스는 앨범을 홍보하기 위해 텔레비전 출연을 했고, 2011년 6월부터는 [Femme Fatale Tour를](https://ko.wikipedia.org/wiki/Femme_Fatale_Tour "wikilink") 시작했다.
+*Femme Fatale*이 발매되자 비평가들은 브리트니가 앞으로도 계속 앨범을 낼 생각이 있는 것 같다며 긍정적인 평가를 받았다. 하지만, 일부의 비평가들은 아직도 스피어스의 보컬은 부족하다며 비판을 하기도 했다. 상업적으로는 발매 첫 주 미국에서 276,000만 장을 팔아치워 [빌보드 200](../Page/빌보드_200.md "wikilink") 1위로 데뷔하며 여섯 번째 빌보드 200 1위 앨범을 만들어냈다. 이 외에 여섯 개의 국가에서 1위로 데뷔했고 거의 모든 국가에서 10위권에 진입했다. "[Hold It Against Me](../Page/Hold_It_Against_Me.md "wikilink")"는 앨범의 리드 싱글로 발매되었고 미국과 캐나다를 포함한 7개의 나라에서 정상을 차지했다. 앨범의 두 번째 싱글 "[Till the World Ends](../Page/Till_the_World_Ends.md "wikilink")"는 한국과 폴란드에서 1위를 차지했고 미국에서는 3위에 도달했으며, 이를 포함한 12개의 나라에서 10위권 진입을 했다. 스피어스는 앨범을 홍보하기 위해 텔레비전 출연을 했고, 2011년 6월부터는 [Femme Fatale Tour를](../Page/Femme_Fatale_Tour.md "wikilink") 시작했다.
 
 ## 작곡
 
-앨범의 오픈곡은 [케샤](https://ko.wikipedia.org/wiki/케샤 "wikilink")가 공동 작곡으로 참여한 [댄스 팝](https://ko.wikipedia.org/wiki/댄스_팝 "wikilink"), [일렉트로팝](https://ko.wikipedia.org/wiki/신스팝 "wikilink") 장르와 일렉트로 비트에 기반을 둔 [트랜스](../Page/트랜스_음악.md "wikilink"), 유로댄스 노래인 "[Till The World Ends](https://ko.wikipedia.org/wiki/Till_The_World_Ends "wikilink")"이다.\[2\]\[3\]\[4\] 노래는 사이렌 소리와 "흥미진진한" 베이스라인으로 시작된다.\[5\]\[6\] 비평가들은 "힘찬 라인"과 "단조로운 후렴구"에 대한 칭찬을 했다.\[7\] 두 번째 수록곡으로는 리드 싱글인 "[Hold It Against Me](../Page/Hold_It_Against_Me.md "wikilink")"로, [덥스텝](https://ko.wikipedia.org/wiki/덥스텝 "wikilink") 장르를 수용한 [댄스 팝](https://ko.wikipedia.org/wiki/댄스_팝 "wikilink") 노래이다. 그리고 마지막 후렴구 부분에서는 레이브 장르도 수용했다.\[8\]\[9\] "Hold It Against Me"는 비평가들에게 "새로운 스텝 영토를 확장했고, 한번더 [댄스 팝](https://ko.wikipedia.org/wiki/댄스_팝 "wikilink") 장르의 경계를 넓혔다"며 호평을 받았다.\[10\] 세 번째 수록곡은 일렉트로팝 노래인 "Inside Out"이다. 이 노래는 [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink")와 덥스텝을 테마를 한 특색을 보였고, "세상을 놀라게 할 음성합성기"라며 칭찬을 받았다.\[11\]\[12\]
+앨범의 오픈곡은 [케샤](../Page/케샤.md "wikilink")가 공동 작곡으로 참여한 [댄스 팝](../Page/댄스_팝.md "wikilink"), [일렉트로팝](https://ko.wikipedia.org/wiki/신스팝 "wikilink") 장르와 일렉트로 비트에 기반을 둔 [트랜스](../Page/트랜스_음악.md "wikilink"), 유로댄스 노래인 "[Till The World Ends](https://ko.wikipedia.org/wiki/Till_The_World_Ends "wikilink")"이다.\[2\]\[3\]\[4\] 노래는 사이렌 소리와 "흥미진진한" 베이스라인으로 시작된다.\[5\]\[6\] 비평가들은 "힘찬 라인"과 "단조로운 후렴구"에 대한 칭찬을 했다.\[7\] 두 번째 수록곡으로는 리드 싱글인 "[Hold It Against Me](../Page/Hold_It_Against_Me.md "wikilink")"로, [덥스텝](../Page/덥스텝.md "wikilink") 장르를 수용한 [댄스 팝](../Page/댄스_팝.md "wikilink") 노래이다. 그리고 마지막 후렴구 부분에서는 레이브 장르도 수용했다.\[8\]\[9\] "Hold It Against Me"는 비평가들에게 "새로운 스텝 영토를 확장했고, 한번더 [댄스 팝](../Page/댄스_팝.md "wikilink") 장르의 경계를 넓혔다"며 호평을 받았다.\[10\] 세 번째 수록곡은 일렉트로팝 노래인 "Inside Out"이다. 이 노래는 [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink")와 덥스텝을 테마를 한 특색을 보였고, "세상을 놀라게 할 음성합성기"라며 칭찬을 받았다.\[11\]\[12\]
 
 ## 발매 및 프로모션
 
 ### 싱글
 
-"[Hold It Against Me](../Page/Hold_It_Against_Me.md "wikilink")"는 앨범의 리드 싱글로 발매되었다.\[13\] 이 노래의 작곡가였던 보니 맥키에 의해 데모 버전이 유출되었고 정식 버전은 2011년 1월 10일 공개되었다.\[14\]\[15\] 그 다음 날 디지털 다운로드로 발매되었다. 노래가 발매되자 일부에서는 가사의 내용을 비판했지만, 대부분 긍정적인 평을했다.\[16\] "Hold It Against Me"는 캐나다, 벨기에, 덴마크 그리고 뉴질랜드에서 1위로 데뷔했다. 뿐만아니라 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 1위로 데뷔 해 [머라이어 캐리](https://ko.wikipedia.org/wiki/머라이어_캐리 "wikilink") 이후 두 개의 노래가 핫샷 데뷔하는 두 번째 아티스트가 되었고, 스피어스의 네 번째 빌보드 핫 100 1위곡이 되었다.\[17\] 뮤직비디오는 두 주간 티저 영상을 차례로 공개하며 알렸다.
+"[Hold It Against Me](../Page/Hold_It_Against_Me.md "wikilink")"는 앨범의 리드 싱글로 발매되었다.\[13\] 이 노래의 작곡가였던 보니 맥키에 의해 데모 버전이 유출되었고 정식 버전은 2011년 1월 10일 공개되었다.\[14\]\[15\] 그 다음 날 디지털 다운로드로 발매되었다. 노래가 발매되자 일부에서는 가사의 내용을 비판했지만, 대부분 긍정적인 평을했다.\[16\] "Hold It Against Me"는 캐나다, 벨기에, 덴마크 그리고 뉴질랜드에서 1위로 데뷔했다. 뿐만아니라 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 1위로 데뷔 해 [머라이어 캐리](../Page/머라이어_캐리.md "wikilink") 이후 두 개의 노래가 핫샷 데뷔하는 두 번째 아티스트가 되었고, 스피어스의 네 번째 빌보드 핫 100 1위곡이 되었다.\[17\] 뮤직비디오는 두 주간 티저 영상을 차례로 공개하며 알렸다.
 
-두 번째 싱글은 "[Till the World Ends](https://ko.wikipedia.org/wiki/Till_the_World_Ends "wikilink")"로 2011년 3월 4일, 라이언 시크레스트의 라디오 쇼에서 처음 공개했다.\[18\] 세 번째 싱글로는 "[Big Fat Bass](https://ko.wikipedia.org/wiki/Big_Fat_Bass "wikilink")"가 된다는 소문이 있었으나, "[I Wanna Go](https://ko.wikipedia.org/wiki/I_Wanna_Go "wikilink")"가 결정되 2011년 5월 13일 세 번째 싱글로 발표되었다.\[19\] 노래의 후크는 비평가들에게 긍정적인 평가를 받았다. "I Wanna Go"는 한국에서 3주 동안 1위를 했고 미국과 캐나다에서 각각 9위와 8위에 올랐다. 이 외에 덴마크, 프랑스, 뉴질랜드, 오스트레일리아에서 40위권에 진입했다.\[20\]\[21\]
+두 번째 싱글은 "[Till the World Ends](../Page/Till_the_World_Ends.md "wikilink")"로 2011년 3월 4일, 라이언 시크레스트의 라디오 쇼에서 처음 공개했다.\[18\] 세 번째 싱글로는 "[Big Fat Bass](https://ko.wikipedia.org/wiki/Big_Fat_Bass "wikilink")"가 된다는 소문이 있었으나, "[I Wanna Go](../Page/I_Wanna_Go.md "wikilink")"가 결정되 2011년 5월 13일 세 번째 싱글로 발표되었다.\[19\] 노래의 후크는 비평가들에게 긍정적인 평가를 받았다. "I Wanna Go"는 한국에서 3주 동안 1위를 했고 미국과 캐나다에서 각각 9위와 8위에 올랐다. 이 외에 덴마크, 프랑스, 뉴질랜드, 오스트레일리아에서 40위권에 진입했다.\[20\]\[21\]
 
 ### 투어
 
@@ -120,7 +120,7 @@
 <td style="text-align: left;"><p>4</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드 재팬 앨범 차트</a>[54]</p></td>
+<td style="text-align: left;"><p><a href="../Page/빌보드.md" title="wikilink">빌보드 재팬 앨범 차트</a>[54]</p></td>
 <td style="text-align: left;"><p>9</p></td>
 </tr>
 <tr class="even">
@@ -184,15 +184,15 @@
 
 ### 인증
 
-| 국가                                                                | [음반 판매량 인증](../Page/음반_판매량_인증.md "wikilink") | 출하량       |
-| ----------------------------------------------------------------- | -------------------------------------------- | --------- |
-| [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")(ARIA) | 골드                                           | 35,000    |
-| 캐나다(뮤직 캐나다)                                                       | 플래티넘                                         | 80,000    |
-| 멕시코(AMPROFON)                                                     | 플래티넘                                         | 30,000    |
-| 한국([RIAK](https://ko.wikipedia.org/wiki/RIAK "wikilink"))\[69\]   | 골드                                           | 5,000     |
-| 러시아(NFPF)                                                         | 골드                                           | 5,000     |
-| 미국([RIAA](https://ko.wikipedia.org/wiki/RIAA "wikilink"))         | 플래티넘                                         | 1,000,000 |
-|                                                                   |                                              |           |
+| 국가                                                              | [음반 판매량 인증](../Page/음반_판매량_인증.md "wikilink") | 출하량       |
+| --------------------------------------------------------------- | -------------------------------------------- | --------- |
+| [오스트레일리아](../Page/오스트레일리아.md "wikilink")(ARIA)                  | 골드                                           | 35,000    |
+| 캐나다(뮤직 캐나다)                                                     | 플래티넘                                         | 80,000    |
+| 멕시코(AMPROFON)                                                   | 플래티넘                                         | 30,000    |
+| 한국([RIAK](https://ko.wikipedia.org/wiki/RIAK "wikilink"))\[69\] | 골드                                           | 5,000     |
+| 러시아(NFPF)                                                       | 골드                                           | 5,000     |
+| 미국([RIAA](https://ko.wikipedia.org/wiki/RIAA "wikilink"))       | 플래티넘                                         | 1,000,000 |
+|                                                                 |                                              |           |
 
 ## 각주
 

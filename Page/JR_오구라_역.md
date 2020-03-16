@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JR  ](https://ko.wikipedia.org/wiki/JR__).
 
 
-**JR 오구라 역**()은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [교토부](https://ko.wikipedia.org/wiki/교토부 "wikilink") [우지 시에](https://ko.wikipedia.org/wiki/우지_시 "wikilink") 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [철도역](https://ko.wikipedia.org/wiki/철도역 "wikilink")이다.
+**JR 오구라 역**()은 [일본](../Page/일본.md "wikilink") [교토부](../Page/교토부.md "wikilink") [우지 시에](https://ko.wikipedia.org/wiki/우지_시 "wikilink") 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [철도역](../Page/철도역.md "wikilink")이다.
 
 ## 역 구조
 
@@ -11,18 +11,18 @@
 
 ### 승강장
 
-| 1 | <span style="color: {{JR 노선색\|W-NARA}};">■</span> 나라 선 상행 | [우지](../Page/우지_역_\(서일본_여객철도\).md "wikilink") {{·}} [교토](../Page/교토_역.md "wikilink") 방면                                   |
-| - | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 2 | <span style="color: {{JR 노선색\|W-NARA}};">■</span> 나라 선    | [기즈](https://ko.wikipedia.org/wiki/기즈_역_\(교토_부\) "wikilink") {{·}} [나라](https://ko.wikipedia.org/wiki/나라_역 "wikilink") 방면 |
+| 1 | <span style="color: {{JR 노선색\|W-NARA}};">■</span> 나라 선 상행 | [우지](../Page/우지_역_\(서일본_여객철도\).md "wikilink") {{·}} [교토](../Page/교토_역.md "wikilink") 방면                |
+| - | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 2 | <span style="color: {{JR 노선색\|W-NARA}};">■</span> 나라 선    | [기즈](https://ko.wikipedia.org/wiki/기즈_역_\(교토_부\) "wikilink") {{·}} [나라](../Page/나라_역.md "wikilink") 방면 |
 
 ## 역세권 정보
 
-  - [긴테쓰](https://ko.wikipedia.org/wiki/긴키_닛폰_철도 "wikilink") [교토 선](https://ko.wikipedia.org/wiki/긴키_닛폰_철도_교토_선 "wikilink") [오구라 역](https://ko.wikipedia.org/wiki/오구라_역 "wikilink") (도보 7\~8분 거리)
+  - [긴테쓰](../Page/긴키_닛폰_철도.md "wikilink") [교토 선](https://ko.wikipedia.org/wiki/긴키_닛폰_철도_교토_선 "wikilink") [오구라 역](https://ko.wikipedia.org/wiki/오구라_역 "wikilink") (도보 7\~8분 거리)
 
 ## 역사
 
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") - 나라 선 우지 역 \~ 신덴 역 사이에 개업하였다.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") - [이코카](https://ko.wikipedia.org/wiki/이코카 "wikilink")의 사용이 개시되었다.
+  - [2001년](../Page/2001년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") - 나라 선 우지 역 \~ 신덴 역 사이에 개업하였다.
+  - [2003년](../Page/2003년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") - [이코카](https://ko.wikipedia.org/wiki/이코카 "wikilink")의 사용이 개시되었다.
 
 ## 인접역
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SSV  ](https://ko.wikipedia.org/wiki/SSV__).
 
 
-**SSV 얀 레겐스부르크**(SSV Jahn Regensburg)는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [바이에른주](https://ko.wikipedia.org/wiki/바이에른주 "wikilink")의 도시 [레겐스부르크](https://ko.wikipedia.org/wiki/레겐스부르크 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 팀으로, 11-12시즌까지 [3 리가에서](https://ko.wikipedia.org/wiki/3_리가 "wikilink") 활동했으나 12-13시즌에 승격하여 [2. 푸스발-분데스리가에서](https://ko.wikipedia.org/wiki/2._푸스발-분데스리가 "wikilink") 활동하고 있다.
+**SSV 얀 레겐스부르크**(SSV Jahn Regensburg)는 [독일](../Page/독일.md "wikilink") [바이에른주](../Page/바이에른주.md "wikilink")의 도시 [레겐스부르크](../Page/레겐스부르크.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 팀으로, 11-12시즌까지 [3 리가에서](https://ko.wikipedia.org/wiki/3_리가 "wikilink") 활동했으나 12-13시즌에 승격하여 [2. 푸스발-분데스리가에서](https://ko.wikipedia.org/wiki/2._푸스발-분데스리가 "wikilink") 활동하고 있다.
 
 ## 외부 링크
 

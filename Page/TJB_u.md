@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TJB u](https://ko.wikipedia.org/wiki/TJB_u).
 
 
-**TJB u**는 대전·충청을 가시청권으로하는 대한민국의 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 30일에](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 개국하였다. [대전방송](../Page/대전방송.md "wikilink")이 주사업자이며, [청주방송](../Page/청주방송.md "wikilink")과 공동으로 운영하고 있다. 현재 비디오채널 3개와 데이터채널 2개를 송출중이다.
+**TJB u**는 대전·충청을 가시청권으로하는 대한민국의 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") [6월 30일에](../Page/6월_30일.md "wikilink") 개국하였다. [대전방송](../Page/대전방송.md "wikilink")이 주사업자이며, [청주방송](../Page/청주방송.md "wikilink")과 공동으로 운영하고 있다. 현재 비디오채널 3개와 데이터채널 2개를 송출중이다.
 
 ## 개요
 
@@ -44,7 +44,7 @@
 
 ## 방송 송출 시설망
 
-식장산송신소를 방송국(주송신소)으로 하고 있으며, 대전, 세종, 충남, 충북과 남부3군 지역, 경기 남서부 일부, 전북 일부지역을 가시청권역으로서 방송중이다. [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")나 [MY MBC와는](https://ko.wikipedia.org/wiki/MY_MBC_\(충청권\) "wikilink") 달리 계룡산에 중계소가 없고 향적산중계소를 대신 활용하고 있으며, 이로 인해 청양이나 공주 부여 등 일부지역을 제대로 커버하지 못하고 있다.
+식장산송신소를 방송국(주송신소)으로 하고 있으며, 대전, 세종, 충남, 충북과 남부3군 지역, 경기 남서부 일부, 전북 일부지역을 가시청권역으로서 방송중이다. [U-KBS](../Page/U-KBS.md "wikilink")나 [MY MBC와는](../Page/MY_MBC_\(충청권\).md "wikilink") 달리 계룡산에 중계소가 없고 향적산중계소를 대신 활용하고 있으며, 이로 인해 청양이나 공주 부여 등 일부지역을 제대로 커버하지 못하고 있다.
 
   - 호출부호 : HLDF-TDMB
 
@@ -67,7 +67,7 @@
 ## 관련 보기
 
   - [디지털 멀티미디어 방송](../Page/디지털_멀티미디어_방송.md "wikilink")
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
-  - [MY MBC (충청권)](https://ko.wikipedia.org/wiki/MY_MBC_\(충청권\) "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
+  - [MY MBC (충청권)](../Page/MY_MBC_\(충청권\).md "wikilink")
 
 [분류:대전방송](https://ko.wikipedia.org/wiki/분류:대전방송 "wikilink") [분류:2007년 설립](https://ko.wikipedia.org/wiki/분류:2007년_설립 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink")

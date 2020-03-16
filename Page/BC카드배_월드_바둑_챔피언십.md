@@ -25,7 +25,7 @@
 <tr class="odd">
 <td><p><a href="../Page/1회_BC카드배_월드_바둑_챔피언십.md" title="wikilink">1</a></p></td>
 <td><p><a href="../Page/1회_BC카드배_월드_바둑_챔피언십.md" title="wikilink">2009</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/구리_(바둑_기사)" title="wikilink">구리</a></strong> 九단</p></td>
+<td><p><strong><a href="../Page/구리_(바둑_기사).md" title="wikilink">구리</a></strong> 九단</p></td>
 <td><p>3-1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조한승" title="wikilink">조한승</a> 九단</p></td>
 </tr>
@@ -41,7 +41,7 @@
 <td><p><a href="../Page/3회_BC카드배_월드_바둑_챔피언십.md" title="wikilink">2011</a></p></td>
 <td><p><strong><a href="../Page/이세돌.md" title="wikilink">이세돌</a></strong> 九단</p></td>
 <td><p>3-2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/구리_(바둑_기사)" title="wikilink">구리</a> 九단</p></td>
+<td><p><a href="../Page/구리_(바둑_기사).md" title="wikilink">구리</a> 九단</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/4회_BC카드배_월드_바둑_챔피언십.md" title="wikilink">4</a></p></td>

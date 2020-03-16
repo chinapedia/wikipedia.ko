@@ -25,7 +25,7 @@
 ## 더 보기
 
   - USS 엔터프라이즈 (NCC-1701-D) - [2363년](https://ko.wikipedia.org/wiki/2363년 "wikilink") 진수, [쟝 룩 피카드](https://ko.wikipedia.org/wiki/쟝_룩_피카드 "wikilink") 함장, 길이 642.5 m, 승무원 430명, [2371년](https://ko.wikipedia.org/wiki/2371년 "wikilink") 파괴
-  - [USS 엔터프라이즈 (NCC-1701-E)](https://ko.wikipedia.org/wiki/USS_엔터프라이즈_\(NCC-1701-E\) "wikilink") - [2372년](https://ko.wikipedia.org/wiki/2372년 "wikilink") 진수, [쟝 룩 피카드](https://ko.wikipedia.org/wiki/쟝_룩_피카드 "wikilink") 함장, 배수량 325만 톤, 길이 685.7 m, 승무원 430명
+  - [USS 엔터프라이즈 (NCC-1701-E)](../Page/USS_엔터프라이즈_\(NCC-1701-E\).md "wikilink") - [2372년](https://ko.wikipedia.org/wiki/2372년 "wikilink") 진수, [쟝 룩 피카드](https://ko.wikipedia.org/wiki/쟝_룩_피카드 "wikilink") 함장, 배수량 325만 톤, 길이 685.7 m, 승무원 430명
   - [USS 보이저 (NCC-74656)](https://ko.wikipedia.org/wiki/USS_보이저_\(NCC-74656\) "wikilink") - [2371년](https://ko.wikipedia.org/wiki/2371년 "wikilink") 진수, [캐서린 제인웨이](https://ko.wikipedia.org/wiki/캐서린_제인웨이 "wikilink") 함장, 배수량 70만 톤, 길이 344 m, 승무원 150명
 
 [분류:스타 트렉의 우주선](https://ko.wikipedia.org/wiki/분류:스타_트렉의_우주선 "wikilink")

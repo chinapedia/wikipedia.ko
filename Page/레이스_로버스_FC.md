@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**레이스 로버스 FC**(Raith Rovers Football Club, Raith Rovers F.C.)는 [1883년](https://ko.wikipedia.org/wiki/1883년 "wikilink")에 창단된 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink") [커콜디](https://ko.wikipedia.org/wiki/커콜디 "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 1부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 활동하고 있다.
+**레이스 로버스 FC**(Raith Rovers Football Club, Raith Rovers F.C.)는 [1883년](../Page/1883년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [커콜디](https://ko.wikipedia.org/wiki/커콜디 "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 1부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 활동하고 있다.
 
 ## 성적
 

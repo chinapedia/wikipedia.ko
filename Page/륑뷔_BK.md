@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ BK](https://ko.wikipedia.org/wiki/_BK).
 
 
-**륑뷔 BK**(Lyngby Boldklub, Lyngby BK)는 [1921년](https://ko.wikipedia.org/wiki/1921년 "wikilink")에 창단된 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink") [콘겐스 륑뷔의](https://ko.wikipedia.org/wiki/콘겐스_륑뷔 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [수페르리가에서](../Page/덴마크_수페르리가.md "wikilink") 활동하고 있다.
+**륑뷔 BK**(Lyngby Boldklub, Lyngby BK)는 [1921년](../Page/1921년.md "wikilink")에 창단된 [덴마크](../Page/덴마크.md "wikilink") [콘겐스 륑뷔의](https://ko.wikipedia.org/wiki/콘겐스_륑뷔 "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페르리가에서](../Page/덴마크_수페르리가.md "wikilink") 활동하고 있다.
 
 ## 성적
 

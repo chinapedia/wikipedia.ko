@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 카르타헤나**(Fútbol Club Cartagena)는 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") [무르시아 지방의](https://ko.wikipedia.org/wiki/무르시아_지방 "wikilink") 도시인 [카르타헤나](https://ko.wikipedia.org/wiki/카르타헤나 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 이 클럽은 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")에 창단되었으며 현재 [세군다 디비시온에서](https://ko.wikipedia.org/wiki/세군다_디비시온 "wikilink") 활동하고 있다.
+**FC 카르타헤나**(Fútbol Club Cartagena)는 [스페인](../Page/스페인.md "wikilink") [무르시아 지방의](https://ko.wikipedia.org/wiki/무르시아_지방 "wikilink") 도시인 [카르타헤나](https://ko.wikipedia.org/wiki/카르타헤나 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 클럽은 [1995년](../Page/1995년.md "wikilink")에 창단되었으며 현재 [세군다 디비시온에서](../Page/세군다_디비시온.md "wikilink") 활동하고 있다.
 
 ## 유명 선수
 

@@ -7,6 +7,6 @@
 
 ## 외부 링크
 
-  - [55위 다섯손가락 《다섯손가락 I》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200803131700535&code=900307&s_code=at031) [경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink")
+  - [55위 다섯손가락 《다섯손가락 I》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200803131700535&code=900307&s_code=at031) [경향신문](../Page/경향신문.md "wikilink")
 
 [분류:1985년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1985년_데뷔_음반 "wikilink") [분류:1985년 음반](https://ko.wikipedia.org/wiki/분류:1985년_음반 "wikilink")

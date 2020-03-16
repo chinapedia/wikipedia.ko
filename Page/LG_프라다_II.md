@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG  II](https://ko.wikipedia.org/wiki/LG__II).
 
 
-**LG 프라다 II**()는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 2008년 11월에 출시한 [피처폰](https://ko.wikipedia.org/wiki/피처폰 "wikilink")으로, [LG 프라다의](../Page/LG_프라다.md "wikilink") 후속 제품이다. 전화나 문자 수신을 진동으로 알려주는 손목시계 형태의 전용 [블루투스](https://ko.wikipedia.org/wiki/블루투스 "wikilink") 액세서리인 '프라다 링크'를 번들로 제공한다.
+**LG 프라다 II**()는 [LG전자](../Page/LG전자.md "wikilink")가 2008년 11월에 출시한 [피처폰](https://ko.wikipedia.org/wiki/피처폰 "wikilink")으로, [LG 프라다의](../Page/LG_프라다.md "wikilink") 후속 제품이다. 전화나 문자 수신을 진동으로 알려주는 손목시계 형태의 전용 [블루투스](../Page/블루투스.md "wikilink") 액세서리인 '프라다 링크'를 번들로 제공한다.
 
 ## 같이 보기
 

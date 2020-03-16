@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ IS](https://ko.wikipedia.org/wiki/_IS).
 
 
-**외리뤼테 IS**(Örgryte IS)는 [1887년](https://ko.wikipedia.org/wiki/1887년 "wikilink") [12월 4일에](https://ko.wikipedia.org/wiki/12월_4일 "wikilink") 창단된 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") [예테보리](../Page/예테보리.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 리그 우승 12회와 컵 대회 우승 1회의 기록을 보유하고 있다. 현재 스웨덴의 2부 축구 리그인 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다.
+**외리뤼테 IS**(Örgryte IS)는 [1887년](../Page/1887년.md "wikilink") [12월 4일에](../Page/12월_4일.md "wikilink") 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [예테보리](../Page/예테보리.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 리그 우승 12회와 컵 대회 우승 1회의 기록을 보유하고 있다. 현재 스웨덴의 2부 축구 리그인 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다.
 
 ## 성적
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [    FC](https://ko.wikipedia.org/wiki/____FC).
 
 
-**퀸 오브 더 사우스 FC**(Queen of the South Football Club, Queen of the South F.C.)는 [1919년](https://ko.wikipedia.org/wiki/1919년 "wikilink")에 창단된 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink") [덤프리스](https://ko.wikipedia.org/wiki/덤프리스 "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 1부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 활동하고 있다.
+**퀸 오브 더 사우스 FC**(Queen of the South Football Club, Queen of the South F.C.)는 [1919년](../Page/1919년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [덤프리스](../Page/덤프리스.md "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 1부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 활동하고 있다.
 
 ## 성적
 

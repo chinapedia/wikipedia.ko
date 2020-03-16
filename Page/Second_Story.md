@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Second Story](https://ko.wikipedia.org/wiki/Second_Story).
 
 
-《**Second Story**》는 [박효신](https://ko.wikipedia.org/wiki/박효신 "wikilink")의 2번째 정규음반으로써 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [1월 19일에](https://ko.wikipedia.org/wiki/1월_19일 "wikilink") 발매되었다. 주요곡으로는 〈동경〉과 〈먼곳에서〉가 있다.\[1\]
+《**Second Story**》는 [박효신](../Page/박효신.md "wikilink")의 2번째 정규음반으로써 [2001년](../Page/2001년.md "wikilink") [1월 19일에](../Page/1월_19일.md "wikilink") 발매되었다. 주요곡으로는 〈동경〉과 〈먼곳에서〉가 있다.\[1\]
 
 ## 트랙리스트
 

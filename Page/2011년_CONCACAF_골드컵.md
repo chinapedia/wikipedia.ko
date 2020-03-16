@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2011 CONCACAF ](https://ko.wikipedia.org/wiki/2011_CONCACAF_).
 
 
-**2011년 CONCACAF 골드컵**(2011 CONCACAF Gold Cup)은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 5일부터](https://ko.wikipedia.org/wiki/6월_5일 "wikilink") [6월 25일까지](https://ko.wikipedia.org/wiki/6월_25일 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 개최된 11번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink"). 결승전은 2011년 6월 25일 [캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아_주 "wikilink") [패서디나에서](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") 맞붙었으며, 이 대회에서 우승을 차지한 [멕시코는](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") [2013년 FIFA 컨페더레이션스컵](https://ko.wikipedia.org/wiki/2013년_FIFA_컨페더레이션스컵 "wikilink") 진출권을 획득하였다.
+**2011년 CONCACAF 골드컵**(2011 CONCACAF Gold Cup)은 [2011년](../Page/2011년.md "wikilink") [6월 5일부터](../Page/6월_5일.md "wikilink") [6월 25일까지](../Page/6월_25일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 개최된 11번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink"). 결승전은 2011년 6월 25일 [캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아_주 "wikilink") [패서디나에서](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") 맞붙었으며, 이 대회에서 우승을 차지한 [멕시코는](../Page/멕시코_축구_국가대표팀.md "wikilink") [2013년 FIFA 컨페더레이션스컵](https://ko.wikipedia.org/wiki/2013년_FIFA_컨페더레이션스컵 "wikilink") 진출권을 획득하였다.
 
 ## 예선 및 참가국
 
@@ -115,7 +115,7 @@
 (<a href="https://ko.wikipedia.org/wiki/로스엔젤레스" title="wikilink">로스엔젤레스</a>)</p></th>
 <th><p><a href="../Page/디트로이트.md" title="wikilink">디트로이트</a></p></th>
 <th><p><a href="../Page/샬럿.md" title="wikilink">샬럿</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/마이애미" title="wikilink">마이애미</a></p></th>
+<th><p><a href="../Page/마이애미.md" title="wikilink">마이애미</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -142,16 +142,16 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/탬파.md" title="wikilink">탬파</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/해리슨" title="wikilink">해리슨</a></p></td>
 <td><p><a href="../Page/캔자스시티_(캔자스주).md" title="wikilink">캔자스시티</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이스트러더퍼드" title="wikilink">이스트러더퍼드</a><br />
-(<a href="https://ko.wikipedia.org/wiki/뉴욕" title="wikilink">뉴욕</a>)</p></td>
+(<a href="../Page/뉴욕.md" title="wikilink">뉴욕</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/레이몬드_제임스_스타디움" title="wikilink">레이몬드 제임스 스타디움</a></p></td>
 <td><p><a href="../Page/솔저_필드.md" title="wikilink">솔저 필드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레드불_아레나_(뉴저지주)" title="wikilink">레드불 아레나</a></p></td>
+<td><p><a href="../Page/레드불_아레나_(뉴저지주).md" title="wikilink">레드불 아레나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/리브스트롱_스포팅_파크" title="wikilink">리브스트롱 스포팅 파크</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/멧라이프_경기장" title="wikilink">멧라이프 경기장</a></p></td>
 </tr>
@@ -170,7 +170,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Meadowlands_stadium_parking_lot.jpg" title="wikilink">150px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴_D.C." title="wikilink">워싱턴 D.C.</a></p></td>
+<td><p><a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a></p></td>
 <td><p><a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/패서디나_(캘리포니아주)" title="wikilink">패서디나</a><br />
 (<a href="https://ko.wikipedia.org/wiki/로스엔젤레스" title="wikilink">로스엔젤레스</a>)</p></td>
@@ -533,7 +533,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀" title="wikilink">멕시코</a></strong><br />
+<strong><a href="../Page/멕시코_축구_국가대표팀.md" title="wikilink">멕시코</a></strong><br />
 <strong>6번째 우승</strong></p></td>
 </tr>
 </tbody>

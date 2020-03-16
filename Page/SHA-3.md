@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHA-3](https://ko.wikipedia.org/wiki/SHA-3).
 
 
-**SHA-3**은 [SHA-2](https://ko.wikipedia.org/wiki/SHA-2 "wikilink")를 대체하기위해 [미국 국립표준기술연구소가](https://ko.wikipedia.org/wiki/미국_국립표준기술연구소 "wikilink") 2015년 8월에 발표한 [암호화 해시 함수의](https://ko.wikipedia.org/wiki/암호화_해시_함수 "wikilink") 이름이다. 이 함수는 [SHA-1](https://ko.wikipedia.org/wiki/SHA-1 "wikilink")과 [SHA-2](https://ko.wikipedia.org/wiki/SHA-2 "wikilink")를 대체하기 위해 기획되었다. 기존의 해시 함수와는 다르게, 미국 국립표준기술연구소에서 직접 함수를 디자인하는 것이 아니라, 공개적인 방식을 통해 후보를 모집한 다음 함수 안전성을 분석하여 몇 차례에 걸쳐 후보를 걸러내는 방식으로 진행되었다.
+**SHA-3**은 [SHA-2](../Page/SHA-2.md "wikilink")를 대체하기위해 [미국 국립표준기술연구소가](../Page/미국_국립표준기술연구소.md "wikilink") 2015년 8월에 발표한 [암호화 해시 함수의](../Page/암호화_해시_함수.md "wikilink") 이름이다. 이 함수는 [SHA-1](https://ko.wikipedia.org/wiki/SHA-1 "wikilink")과 [SHA-2](../Page/SHA-2.md "wikilink")를 대체하기 위해 기획되었다. 기존의 해시 함수와는 다르게, 미국 국립표준기술연구소에서 직접 함수를 디자인하는 것이 아니라, 공개적인 방식을 통해 후보를 모집한 다음 함수 안전성을 분석하여 몇 차례에 걸쳐 후보를 걸러내는 방식으로 진행되었다.
 
 2012년 10월 1일에 귀도 베르토니조앤 데먼, 질 반 아쉐, 마이클 피터스가 설계한 [Keccak](https://ko.wikipedia.org/wiki/Keccak "wikilink")이 SHA-3의 해시 알고리즘으로 선정되었다.\[1\]
 
@@ -9,7 +9,7 @@
 
 ## SHA-3 예제
 
-[미국 국립표준기술연구소가](https://ko.wikipedia.org/wiki/미국_국립표준기술연구소 "wikilink") 게시한 예제 해시 값\[3\]
+[미국 국립표준기술연구소가](../Page/미국_국립표준기술연구소.md "wikilink") 게시한 예제 해시 값\[3\]
 
 <span style="color: green;">`SHA3-224("")`</span>
 `6b4e03423667dbb73b6e15454f0eb1abd4597f9a1b078e3f5b5a6bc7`

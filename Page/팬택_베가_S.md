@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  S](https://ko.wikipedia.org/wiki/__S).
 
 
-**팬택 스카이 베가 S**()는 [팬택](../Page/팬택.md "wikilink")이 2011년 2월 27일에 출시한 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\] 기존의 [스카이 베가 X에서](https://ko.wikipedia.org/wiki/스카이_베가_엑스프레스 "wikilink") CPU 클럭을 좀 더 높이는 등 사양을 강화하여 출시한 기종이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 25일부터](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 안드로이드 2.3.4 운영체제 업그레이드가 시작되었다.
+**팬택 스카이 베가 S**()는 [팬택](../Page/팬택.md "wikilink")이 2011년 2월 27일에 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 기존의 [스카이 베가 X에서](https://ko.wikipedia.org/wiki/스카이_베가_엑스프레스 "wikilink") CPU 클럭을 좀 더 높이는 등 사양을 강화하여 출시한 기종이다. [2011년](../Page/2011년.md "wikilink") [11월 25일부터](../Page/11월_25일.md "wikilink") 안드로이드 2.3.4 운영체제 업그레이드가 시작되었다.
 
 ## 운영 체제/소프트웨어
 

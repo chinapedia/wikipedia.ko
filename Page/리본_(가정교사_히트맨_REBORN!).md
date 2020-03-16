@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(  REBORN!\)](https://ko.wikipedia.org/wiki/_\(__REBORN!\)).
 
 
-**리본**(リボーン)는 [가정교사 히트맨 REBORN\!의](https://ko.wikipedia.org/wiki/가정교사_히트맨_REBORN! "wikilink") 등장인물이다.
+**리본**(リボーン)는 [가정교사 히트맨 REBORN\!의](../Page/가정교사_히트맨_REBORN!.md "wikilink") 등장인물이다.
 
 ## 프로필
 
@@ -10,7 +10,7 @@
   - 생일: 10월 13일
   - 속성: 태양(아르꼬발레노)
   - 좋아하는 것 : 낮잠, 에스프레소 커피
-  - 성우: [니코](https://ko.wikipedia.org/wiki/니코_\(성우\) "wikilink")/[김서영](https://ko.wikipedia.org/wiki/김서영 "wikilink") 저주가 풀린 모습의 성우는 [나리타 켄](https://ko.wikipedia.org/wiki/나리타_켄 "wikilink")/[김승준](https://ko.wikipedia.org/wiki/김승준_\(성우\) "wikilink")
+  - 성우: [니코](https://ko.wikipedia.org/wiki/니코_\(성우\) "wikilink")/[김서영](https://ko.wikipedia.org/wiki/김서영 "wikilink") 저주가 풀린 모습의 성우는 [나리타 켄](https://ko.wikipedia.org/wiki/나리타_켄 "wikilink")/[김승준](../Page/김승준_\(성우\).md "wikilink")
 
 ## 개요
 

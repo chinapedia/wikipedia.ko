@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [2     II  March](https://ko.wikipedia.org/wiki/2_____II__March).
 
 
-**2세대 인텔 코어 글로벌 스타크래프트 II 리그 March**(2nd Generation Intel Core Global StarCraft II League March)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 세 번째 대회로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 21일에](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") 개막하였고 이대회를 시작으로 애니박스에서 GSL을 방영하기 시작했다.
+**2세대 인텔 코어 글로벌 스타크래프트 II 리그 March**(2nd Generation Intel Core Global StarCraft II League March)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 세 번째 대회로 [2011년](../Page/2011년.md "wikilink") [2월 21일에](../Page/2월_21일.md "wikilink") 개막하였고 이대회를 시작으로 애니박스에서 GSL을 방영하기 시작했다.
 
 ## CODE S
 
 ### 리그 일정
 
-  - **조지명식** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink")
-  - **32강** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") \~ [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink")
-  - **16강** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink"), [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink")
-  - **8강** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink"), [3월 10일](https://ko.wikipedia.org/wiki/3월_10일 "wikilink")
-  - **4강** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 12일](https://ko.wikipedia.org/wiki/3월_12일 "wikilink")
-  - **결승전** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink")
+  - **조지명식** : [2011년](../Page/2011년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink")
+  - **32강** : [2011년](../Page/2011년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") \~ [3월 1일](../Page/3월_1일.md "wikilink")
+  - **16강** : [2011년](../Page/2011년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink"), [3월 5일](../Page/3월_5일.md "wikilink")
+  - **8강** : [2011년](../Page/2011년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink"), [3월 10일](../Page/3월_10일.md "wikilink")
+  - **4강** : [2011년](../Page/2011년.md "wikilink") [3월 12일](../Page/3월_12일.md "wikilink")
+  - **결승전** : [2011년](../Page/2011년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink")
 
 ### 리그 방식
 
@@ -43,7 +43,7 @@
 
   - 곰TV (인터넷 방송 : 생방송, 다시 보기), (모바일 애플리케이션: 다시 보기)
   - [애니박스](../Page/애니박스.md "wikilink") ([케이블 방송](https://ko.wikipedia.org/wiki/케이블_방송 "wikilink") : 생방송)
-  - [챔프TV](https://ko.wikipedia.org/wiki/챔프TV "wikilink") ([케이블 방송](https://ko.wikipedia.org/wiki/케이블_방송 "wikilink") : 주요 경기 재방송)
+  - [챔프TV](../Page/챔프TV.md "wikilink") ([케이블 방송](https://ko.wikipedia.org/wiki/케이블_방송 "wikilink") : 주요 경기 재방송)
   - [olleh TV](https://ko.wikipedia.org/wiki/쿡TV "wikilink") ([IPTV](../Page/IPTV.md "wikilink") : 다시 보기)
 
 ### 중계진
@@ -123,10 +123,10 @@
 <td><p><a href="../Page/박성준_(1986년).md" title="wikilink">박성준</a> (Z)</p></td>
 <td><p>2</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/변현우_(1993년)" title="wikilink">변현우</a> (T)</p></td>
+<td><p><a href="../Page/변현우_(1993년).md" title="wikilink">변현우</a> (T)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/정종현" title="wikilink">정종현</a> (T)</p></td>
+<td><p><a href="../Page/정종현.md" title="wikilink">정종현</a> (T)</p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/최정민_(프로게이머).md" title="wikilink">최정민</a> (Z)</p></td>
@@ -135,18 +135,18 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/김유종" title="wikilink">김유종</a> (T)</p></td>
 <td><p>0</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/그렉_필즈" title="wikilink">Greg Fields</a> (Z)[3]</p></td>
+<td><p><a href="../Page/그렉_필즈.md" title="wikilink">Greg Fields</a> (Z)[3]</p></td>
 </tr>
 </tbody>
 </table>
 
-| E조 (2011.2.26)                                          | F조 (2011.2.26) | G조 (2011.3.1) | H조 (2011.3.1)                                                   |
-| ------------------------------------------------------- | -------------- | ------------- | --------------------------------------------------------------- |
-| **이름**                                                  | **승**          | **패**         | **이름**                                                          |
-| [강초원](https://ko.wikipedia.org/wiki/강초원 "wikilink") (P) | 3              | 0             | [박준](https://ko.wikipedia.org/wiki/박준_\(프로게이머\) "wikilink") (T) |
-| [김상철](https://ko.wikipedia.org/wiki/김상철 "wikilink") (T) | 2              | 1             | [박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink") (Z)         |
-| [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink") (Z) | 1              | 2             | [서명덕](../Page/서명덕.md "wikilink") (P)                            |
-| [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink") (T) | 0              | 3             | [이형섭](../Page/이형섭.md "wikilink") (P)                            |
+| E조 (2011.2.26)                                          | F조 (2011.2.26) | G조 (2011.3.1) | H조 (2011.3.1)                                           |
+| ------------------------------------------------------- | -------------- | ------------- | ------------------------------------------------------- |
+| **이름**                                                  | **승**          | **패**         | **이름**                                                  |
+| [강초원](../Page/강초원.md "wikilink") (P)                    | 3              | 0             | [박준](../Page/박준_\(프로게이머\).md "wikilink") (T)            |
+| [김상철](https://ko.wikipedia.org/wiki/김상철 "wikilink") (T) | 2              | 1             | [박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink") (Z) |
+| [임재덕](../Page/임재덕.md "wikilink") (Z)                    | 1              | 2             | [서명덕](../Page/서명덕.md "wikilink") (P)                    |
+| [임요환](../Page/임요환.md "wikilink") (T)                    | 0              | 3             | [이형섭](../Page/이형섭.md "wikilink") (P)                    |
 
 #### 16강 \~ 결승
 
@@ -159,11 +159,11 @@
 
 ### 리그 일정
 
-  - **32강** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") \~ [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink")
-  - **16강** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink"), [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink")
-  - **8강** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink")
-  - **4강** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink")
-  - **결승전** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink")
+  - **32강** : [2011년](../Page/2011년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") \~ [2월 28일](../Page/2월_28일.md "wikilink")
+  - **16강** : [2011년](../Page/2011년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink"), [3월 4일](../Page/3월_4일.md "wikilink")
+  - **8강** : [2011년](../Page/2011년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink")
+  - **4강** : [2011년](../Page/2011년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink")
+  - **결승전** : [2011년](../Page/2011년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink")
 
 ### 리그 방식
 
@@ -226,17 +226,17 @@
 
 ### 결과
 
-  - **우승 : [황강호](https://ko.wikipedia.org/wiki/황강호 "wikilink")**
-  - **준우승 : [김영진](https://ko.wikipedia.org/wiki/김영진_\(프로게이머\) "wikilink")**
+  - **우승 : [황강호](../Page/황강호.md "wikilink")**
+  - **준우승 : [김영진](../Page/김영진_\(프로게이머\).md "wikilink")**
 
 ## 승격/강등전
 
 ### 리그 일정
 
-  - **A조, B조** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink")
-  - **C조, D조** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink")
-  - **E조, F조** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 16일](https://ko.wikipedia.org/wiki/3월_16일 "wikilink")
-  - **G조, H조** : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink")
+  - **A조, B조** : [2011년](../Page/2011년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink")
+  - **C조, D조** : [2011년](../Page/2011년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink")
+  - **E조, F조** : [2011년](../Page/2011년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink")
+  - **G조, H조** : [2011년](../Page/2011년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink")
 
 ### 리그 방식
 
@@ -257,7 +257,7 @@
 
   - 곰TV (인터넷 방송 : 생방송, 다시 보기), (모바일 애플리케이션: 다시 보기)
   - [애니박스](../Page/애니박스.md "wikilink") ([케이블 방송](https://ko.wikipedia.org/wiki/케이블_방송 "wikilink") : 생방송)
-  - [챔프TV](https://ko.wikipedia.org/wiki/챔프TV "wikilink") ([케이블 방송](https://ko.wikipedia.org/wiki/케이블_방송 "wikilink") : 주요 경기 재방송)
+  - [챔프TV](../Page/챔프TV.md "wikilink") ([케이블 방송](https://ko.wikipedia.org/wiki/케이블_방송 "wikilink") : 주요 경기 재방송)
   - [olleh TV](https://ko.wikipedia.org/wiki/쿡TV "wikilink") ([IPTV](../Page/IPTV.md "wikilink") : 다시 보기)
 
 ### 중계진
@@ -278,7 +278,7 @@
   - 오프닝 음악3 : Serenity - Far From Home
   - 오프닝 음악4 : Boy Hits Car - Rhythmical Gestures
   - 풀CG 음악1 : His Statue Falls - Let's Get Crackin'
-  - 풀CG 음악2 : [Basshunter](https://ko.wikipedia.org/wiki/베이스헌터 "wikilink") - Bass Creator
+  - 풀CG 음악2 : [Basshunter](../Page/베이스헌터.md "wikilink") - Bass Creator
   - 풀CG 음악3 : BT - Suddenly (Celldweller Mix)
   - 선수 및 맵소개 음악1 : Power Quest - Crunching The Numbers
   - 선수 및 맵소개 음악2 : Sons Of Liberty - Don't Tread On Me
@@ -304,14 +304,14 @@
 ### CODE A 우승자/준우승자 선수 지명
 
   - 우승자 지명
-      - 우승자 : [황강호](https://ko.wikipedia.org/wiki/황강호 "wikilink")
+      - 우승자 : [황강호](../Page/황강호.md "wikilink")
       - 1차 지명 : [서명덕](../Page/서명덕.md "wikilink")
       - 2차 지명 : [김성제](../Page/김성제_\(프로게이머\).md "wikilink")
 
 <!-- end list -->
 
   - 준우승자 지명
-      - 준우승자 : [김영진](https://ko.wikipedia.org/wiki/김영진_\(프로게이머\) "wikilink")
+      - 준우승자 : [김영진](../Page/김영진_\(프로게이머\).md "wikilink")
       - 1차 지명 : [최성훈](https://ko.wikipedia.org/wiki/최성훈 "wikilink")
       - 2차 지명 : [김찬민](https://ko.wikipedia.org/wiki/김찬민 "wikilink")
 

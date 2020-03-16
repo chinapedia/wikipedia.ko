@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ fB](https://ko.wikipedia.org/wiki/_fB).
 
 
-**에스비에르 fB**(Esbjerg fB, 약칭 **EfB**)는 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink") [에스비에르](https://ko.wikipedia.org/wiki/에스비에르 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [수페르리가에서](../Page/덴마크_수페르리가.md "wikilink") 활동하고 있다.
+**에스비에르 fB**(Esbjerg fB, 약칭 **EfB**)는 [덴마크](../Page/덴마크.md "wikilink") [에스비에르](../Page/에스비에르.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페르리가에서](../Page/덴마크_수페르리가.md "wikilink") 활동하고 있다.
 
-이 팀은 [1924년](https://ko.wikipedia.org/wiki/1924년 "wikilink")에 에스비에르 볼클룹(Esbjerg Boldklub, 1898년 창단)과 에스비에르 아마퇴르클룹(Esbjerg Amatørklub, 1911년 창단)을 합병해서 창단된 클럽이다.
+이 팀은 [1924년](../Page/1924년.md "wikilink")에 에스비에르 볼클룹(Esbjerg Boldklub, 1898년 창단)과 에스비에르 아마퇴르클룹(Esbjerg Amatørklub, 1911년 창단)을 합병해서 창단된 클럽이다.
 
 ## 성적
 

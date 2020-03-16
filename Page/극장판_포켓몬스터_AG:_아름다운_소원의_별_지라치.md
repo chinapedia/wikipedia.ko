@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  AG:    ](https://ko.wikipedia.org/wiki/__AG:____).
 
 
-《**극장판 포켓몬스터 아름다운 소원의 별 지라치**》(劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ)는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [7월 19일에](https://ko.wikipedia.org/wiki/7월_19일 "wikilink") 개봉된 [TV 애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")《[포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")》의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제6기이다. 대한민국은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") 상영중이다.
+《**극장판 포켓몬스터 아름다운 소원의 별 지라치**》(劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ)는 [2003년](../Page/2003년.md "wikilink") [7월 19일에](../Page/7월_19일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink")《[포켓몬스터](../Page/포켓몬스터.md "wikilink")》의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제6기이다. 대한민국은 [2014년](../Page/2014년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") 상영중이다.
 
 ## 줄거리
 
@@ -14,7 +14,7 @@
 <!-- end list -->
 
   -
-    성우 - [야마데라 코이치](https://ko.wikipedia.org/wiki/야마데라_코이치 "wikilink") / [송준석](https://ko.wikipedia.org/wiki/송준석 "wikilink"), [김승준](https://ko.wikipedia.org/wiki/김승준 "wikilink")(재더빙)
+    성우 - [야마데라 코이치](../Page/야마데라_코이치.md "wikilink") / [송준석](https://ko.wikipedia.org/wiki/송준석 "wikilink"), [김승준](https://ko.wikipedia.org/wiki/김승준 "wikilink")(재더빙)
     포켓몬 놀이공원의 서커스 단장. 과거에 마그마단의 과학자였다. 마그마단원들을 불러놓고 전설의 포켓몬 '그란돈'을 부활시키려다 오히려 망신을 당하자 앙갚음을 하기 위해 음모를 꾸미게 된다.
 
 <!-- end list -->

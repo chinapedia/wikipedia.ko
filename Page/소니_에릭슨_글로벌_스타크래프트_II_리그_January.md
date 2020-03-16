@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [    II  January](https://ko.wikipedia.org/wiki/____II__January).
 
 
-**소니 에릭슨 글로벌 스타크래프트 II 리그 January**(Sony Ericsson Global StarCraft II League January)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 첫 번째 대회로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 2일에](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") 개막하였다.
+**소니 에릭슨 글로벌 스타크래프트 II 리그 January**(Sony Ericsson Global StarCraft II League January)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 첫 번째 대회로 [2011년](../Page/2011년.md "wikilink") [1월 2일에](../Page/1월_2일.md "wikilink") 개막하였다.
 
 ## CODE S
 
 ### 리그 일정
 
-  - 32강 조별리그 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") \~ [1월 11일](https://ko.wikipedia.org/wiki/1월_11일 "wikilink")
-  - 16강 조별리그 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 12일](https://ko.wikipedia.org/wiki/1월_12일 "wikilink") \~ [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink")
-  - 8강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 17일](https://ko.wikipedia.org/wiki/1월_17일 "wikilink"), [1월 19일](https://ko.wikipedia.org/wiki/1월_19일 "wikilink")
-  - 4강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink")
-  - 결승 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 29일](https://ko.wikipedia.org/wiki/1월_29일 "wikilink")
+  - 32강 조별리그 : [2011년](../Page/2011년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [1월 11일](../Page/1월_11일.md "wikilink")
+  - 16강 조별리그 : [2011년](../Page/2011년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink") \~ [1월 15일](../Page/1월_15일.md "wikilink")
+  - 8강 : [2011년](../Page/2011년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink"), [1월 19일](../Page/1월_19일.md "wikilink")
+  - 4강 : [2011년](../Page/2011년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink")
+  - 결승 : [2011년](../Page/2011년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink")
 
 ### 리그 방식
 
@@ -87,48 +87,48 @@
 
 #### 32강
 
-| A조 (2011. 1. 2 PM 6:00)                                 | B조 (2011. 1. 3 PM 8:00) | C조 (2011. 1. 4 PM 8:00) | D조 (2011. 1. 5 PM 8:00)                                           |
-| ------------------------------------------------------- | ----------------------- | ----------------------- | ----------------------------------------------------------------- |
-| **이름**                                                  | **승**                   | **패**                   | **이름**                                                            |
-| [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink") (Z) | 2                       | 0                       | [정종현](https://ko.wikipedia.org/wiki/정종현 "wikilink") (T)           |
-| [김찬민](https://ko.wikipedia.org/wiki/김찬민 "wikilink") (T) | 2                       | 1                       | [최정민](https://ko.wikipedia.org/wiki/최정민_\(프로게이머\) "wikilink") (Z) |
-| [최성훈](https://ko.wikipedia.org/wiki/최성훈 "wikilink") (T) | 1                       | 2                       | [김원기](../Page/김원기_\(프로게이머\).md "wikilink") (Z)                    |
-| [곽한얼](../Page/곽한얼.md "wikilink") (T)                    | 0                       | 2                       | [조만혁](../Page/조만혁.md "wikilink") (Z)                              |
+| A조 (2011. 1. 2 PM 6:00)                                 | B조 (2011. 1. 3 PM 8:00) | C조 (2011. 1. 4 PM 8:00) | D조 (2011. 1. 5 PM 8:00)                        |
+| ------------------------------------------------------- | ----------------------- | ----------------------- | ---------------------------------------------- |
+| **이름**                                                  | **승**                   | **패**                   | **이름**                                         |
+| [임재덕](../Page/임재덕.md "wikilink") (Z)                    | 2                       | 0                       | [정종현](../Page/정종현.md "wikilink") (T)           |
+| [김찬민](https://ko.wikipedia.org/wiki/김찬민 "wikilink") (T) | 2                       | 1                       | [최정민](../Page/최정민_\(프로게이머\).md "wikilink") (Z) |
+| [최성훈](https://ko.wikipedia.org/wiki/최성훈 "wikilink") (T) | 1                       | 2                       | [김원기](../Page/김원기_\(프로게이머\).md "wikilink") (Z) |
+| [곽한얼](../Page/곽한얼.md "wikilink") (T)                    | 0                       | 2                       | [조만혁](../Page/조만혁.md "wikilink") (Z)           |
 
-| E조 (2011.1.6 PM 8:00)                                             | F조 (2011.1.7 PM 8:00) | G조 (2011.1.10 PM 8:00) | H조 (2011.1.11 PM 8:00)                                  |
-| ----------------------------------------------------------------- | --------------------- | ---------------------- | ------------------------------------------------------- |
-| **이름**                                                            | **승**                 | **패**                  | **이름**                                                  |
-| [정민수](https://ko.wikipedia.org/wiki/정민수 "wikilink") (P)           | 2                     | 0                      | [장민철](../Page/장민철.md "wikilink") (P)                    |
-| [김성제](../Page/김성제_\(프로게이머\).md "wikilink") (T)                    | 2                     | 1                      | [이윤열](../Page/이윤열.md "wikilink") (T)                    |
-| [이동녕](https://ko.wikipedia.org/wiki/이동녕_\(프로게이머\) "wikilink") (Z) | 1                     | 2                      | [송준혁](../Page/송준혁.md "wikilink") (P)                    |
-| [이정환](https://ko.wikipedia.org/wiki/이정환 "wikilink") (P)           | 0                     | 2                      | [강초원](https://ko.wikipedia.org/wiki/강초원 "wikilink") (P) |
+| E조 (2011.1.6 PM 8:00)                                   | F조 (2011.1.7 PM 8:00) | G조 (2011.1.10 PM 8:00) | H조 (2011.1.11 PM 8:00)               |
+| ------------------------------------------------------- | --------------------- | ---------------------- | ------------------------------------ |
+| **이름**                                                  | **승**                 | **패**                  | **이름**                               |
+| [정민수](https://ko.wikipedia.org/wiki/정민수 "wikilink") (P) | 2                     | 0                      | [장민철](../Page/장민철.md "wikilink") (P) |
+| [김성제](../Page/김성제_\(프로게이머\).md "wikilink") (T)          | 2                     | 1                      | [이윤열](../Page/이윤열.md "wikilink") (T) |
+| [이동녕](../Page/이동녕_\(프로게이머\).md "wikilink") (Z)          | 1                     | 2                      | [송준혁](../Page/송준혁.md "wikilink") (P) |
+| [이정환](https://ko.wikipedia.org/wiki/이정환 "wikilink") (P) | 0                     | 2                      | [강초원](../Page/강초원.md "wikilink") (P) |
 
 #### 16강
 
-| A조 (2011. 1. 12 PM 8:00)                                          | B조 (2011. 1. 13 PM 8:00) | C조 (2011. 1. 14 PM 8:00) | D조 (2011. 1. 15 PM 4:00)                                |
-| ----------------------------------------------------------------- | ------------------------ | ------------------------ | ------------------------------------------------------- |
-| **이름**                                                            | **승**                    | **패**                    | **이름**                                                  |
-| [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink") (Z)           | 2                        | 0                        | [정종현](https://ko.wikipedia.org/wiki/정종현 "wikilink") (T) |
-| [서기수](../Page/서기수.md "wikilink") (P)                              | 2                        | 1                        | [이형섭](https://ko.wikipedia.org/wiki/이형섭 "wikilink") (P) |
-| [최정민](https://ko.wikipedia.org/wiki/최정민_\(프로게이머\) "wikilink") (Z) | 1                        | 2                        | [김유종](https://ko.wikipedia.org/wiki/김유종 "wikilink") (T) |
-| [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink") (T)           | 0                        | 2                        | [김찬민](https://ko.wikipedia.org/wiki/김찬민 "wikilink") (T) |
+| A조 (2011. 1. 12 PM 8:00)                       | B조 (2011. 1. 13 PM 8:00) | C조 (2011. 1. 14 PM 8:00) | D조 (2011. 1. 15 PM 4:00)                                |
+| ---------------------------------------------- | ------------------------ | ------------------------ | ------------------------------------------------------- |
+| **이름**                                         | **승**                    | **패**                    | **이름**                                                  |
+| [임재덕](../Page/임재덕.md "wikilink") (Z)           | 2                        | 0                        | [정종현](../Page/정종현.md "wikilink") (T)                    |
+| [서기수](../Page/서기수.md "wikilink") (P)           | 2                        | 1                        | [이형섭](../Page/이형섭.md "wikilink") (P)                    |
+| [최정민](../Page/최정민_\(프로게이머\).md "wikilink") (Z) | 1                        | 2                        | [김유종](https://ko.wikipedia.org/wiki/김유종 "wikilink") (T) |
+| [임요환](../Page/임요환.md "wikilink") (T)           | 0                        | 2                        | [김찬민](https://ko.wikipedia.org/wiki/김찬민 "wikilink") (T) |
 
 #### 8강 \~ 결승
 
 ### 결과
 
-  - **우승 : [정종현](https://ko.wikipedia.org/wiki/정종현 "wikilink")**
+  - **우승 : [정종현](../Page/정종현.md "wikilink")**
   - **준우승 : [이정훈](../Page/이정훈_\(프로게이머\).md "wikilink")**
 
 ## CODE A
 
 ### 리그 일정
 
-  - 32강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") \~ [1월 11일](https://ko.wikipedia.org/wiki/1월_11일 "wikilink")
-  - 16강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 12일](https://ko.wikipedia.org/wiki/1월_12일 "wikilink") \~ [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink")
-  - 8강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 18일](https://ko.wikipedia.org/wiki/1월_18일 "wikilink")
-  - 4강 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 20일](https://ko.wikipedia.org/wiki/1월_20일 "wikilink")
-  - 결승 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 21일](https://ko.wikipedia.org/wiki/1월_21일 "wikilink")
+  - 32강 : [2011년](../Page/2011년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ [1월 11일](../Page/1월_11일.md "wikilink")
+  - 16강 : [2011년](../Page/2011년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink") \~ [1월 15일](../Page/1월_15일.md "wikilink")
+  - 8강 : [2011년](../Page/2011년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink")
+  - 4강 : [2011년](../Page/2011년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink")
+  - 결승 : [2011년](../Page/2011년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink")
 
 ### 리그 방식
 
@@ -201,10 +201,10 @@
 
 ### 리그 일정
 
-  - A조, B조 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 24일](https://ko.wikipedia.org/wiki/1월_24일 "wikilink")
-  - C조, D조 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 25일](https://ko.wikipedia.org/wiki/1월_25일 "wikilink")
-  - E조, F조 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink")
-  - G조, H조 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink")
+  - A조, B조 : [2011년](../Page/2011년.md "wikilink") [1월 24일](../Page/1월_24일.md "wikilink")
+  - C조, D조 : [2011년](../Page/2011년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink")
+  - E조, F조 : [2011년](../Page/2011년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink")
+  - G조, H조 : [2011년](../Page/2011년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink")
 
 ### 리그 방식
 
@@ -269,13 +269,13 @@
   - 우승자 지명
       - 우승자 : [김정훈](https://ko.wikipedia.org/wiki/김정훈_\(프로게이머\) "wikilink")
       - 1차 지명 : [김경수](https://ko.wikipedia.org/wiki/김경수_\(프로게이머\) "wikilink")
-      - 2차 지명 : [강초원](https://ko.wikipedia.org/wiki/강초원 "wikilink")
+      - 2차 지명 : [강초원](../Page/강초원.md "wikilink")
 
 <!-- end list -->
 
   - 준우승자 지명
       - 준우승자 : [변현우](https://ko.wikipedia.org/wiki/변현우_\(프로게이머\) "wikilink")
-      - 1차 지명 : [이동녕](https://ko.wikipedia.org/wiki/이동녕_\(프로게이머\) "wikilink")
+      - 1차 지명 : [이동녕](../Page/이동녕_\(프로게이머\).md "wikilink")
       - 2차 지명 : [김태환](https://ko.wikipedia.org/wiki/김태환_\(프로게이머\) "wikilink")
 
 ### 대진표

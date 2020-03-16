@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I\'m a Slave 4 U](https://ko.wikipedia.org/wiki/I\'m_a_Slave_4_U).
 
 
-"**I'm a Slave 4 U**"는 미국의 팝 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 알앤비 풍의 노래이다. 세 번째 정규 음반 *[Britney](https://ko.wikipedia.org/wiki/Britney_\(음반\) "wikilink")*의 첫 싱글로 2001년 9월 24일 발매되었다. 2001년에 열렸던 [MTV 비디오 뮤직 어워드에서](https://ko.wikipedia.org/wiki/MTV_비디오_뮤직_어워드 "wikilink") 뱀을 몸에 감고 공연을 한 모습은 당시 신선한 충격으로 다가왔었다. 그리고 브리트니의 최고의 무대로 꼽히기도한다. 하지만, [PETA](https://ko.wikipedia.org/wiki/PETA "wikilink")로부터 동물 학대로 비판을 받기도 했었다.
+"**I'm a Slave 4 U**"는 미국의 팝 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 알앤비 풍의 노래이다. 세 번째 정규 음반 *[Britney](../Page/Britney_\(음반\).md "wikilink")*의 첫 싱글로 2001년 9월 24일 발매되었다. 2001년에 열렸던 [MTV 비디오 뮤직 어워드에서](../Page/MTV_비디오_뮤직_어워드.md "wikilink") 뱀을 몸에 감고 공연을 한 모습은 당시 신선한 충격으로 다가왔었다. 그리고 브리트니의 최고의 무대로 꼽히기도한다. 하지만, [PETA](../Page/PETA.md "wikilink")로부터 동물 학대로 비판을 받기도 했었다.
 
 ## 트랙 리스트
 
@@ -48,6 +48,6 @@
 ## 외부 링크
 
   - [브리트니 스피어스](http://www.britneyspears.com/) — 공식 웹사이트.
-  - [브리트니 스피어스](http://www.britney.com/) — [자이브 레코드](https://ko.wikipedia.org/wiki/자이브_레코드 "wikilink") 공식 웹사이트.
+  - [브리트니 스피어스](http://www.britney.com/) — [자이브 레코드](../Page/자이브_레코드.md "wikilink") 공식 웹사이트.
 
 [분류:2001년 싱글](https://ko.wikipedia.org/wiki/분류:2001년_싱글 "wikilink") [분류:브리트니 스피어스의 노래](https://ko.wikipedia.org/wiki/분류:브리트니_스피어스의_노래 "wikilink")

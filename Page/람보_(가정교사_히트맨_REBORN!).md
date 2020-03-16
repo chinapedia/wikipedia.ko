@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(  REBORN!\)](https://ko.wikipedia.org/wiki/_\(__REBORN!\)).
 
 
-**람보**(ランボ)는 [가정교사 히트맨 REBORN\!의](https://ko.wikipedia.org/wiki/가정교사_히트맨_REBORN! "wikilink") 등장인물이다.
+**람보**(ランボ)는 [가정교사 히트맨 REBORN\!의](../Page/가정교사_히트맨_REBORN!.md "wikilink") 등장인물이다.
 
 ## 프로필
 
@@ -19,7 +19,7 @@
   - **싫어하는 음식** : 매운 것, 쓴 것
   - 싫어하는 사람 : 리본
   - **꿈** : 세계정복
-  - **성우** : [타케우치 준코](https://ko.wikipedia.org/wiki/타케우치_준코 "wikilink") & [츠다 켄지로](https://ko.wikipedia.org/wiki/츠다_켄지로 "wikilink")(日) / [안영미](https://ko.wikipedia.org/wiki/안영미 "wikilink") & [박성태](https://ko.wikipedia.org/wiki/박성태 "wikilink")(韓)
+  - **성우** : [타케우치 준코](../Page/타케우치_준코.md "wikilink") & [츠다 켄지로](../Page/츠다_켄지로.md "wikilink")(日) / [안영미](https://ko.wikipedia.org/wiki/안영미 "wikilink") & [박성태](../Page/박성태.md "wikilink")(韓)
 
 ## 개요
 

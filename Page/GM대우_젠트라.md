@@ -9,7 +9,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20100801_daewoo_gentra_001.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:20100801_daewoo_gentra_002.jpg "wikilink")
 
-[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 21일에](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") [칼로스 4도어를](../Page/GM대우_칼로스.md "wikilink") 기반으로, 마이너 체인지를 거친 후속 차종인 젠트라가 출시되었다. 생산지는 인천광역시 부평구 청천동에 위치한 한국GM 부평공장이었다. 출시 당시 [다니엘 헤니가](https://ko.wikipedia.org/wiki/다니엘_헤니 "wikilink") 광고 모델로 등장해 화제를 낳기도 했다.\[1\] [2011년 2월에](https://ko.wikipedia.org/wiki/2011년_2월 "wikilink") 후속 차종인 [쉐보레 아베오가](https://ko.wikipedia.org/wiki/쉐보레_아베오 "wikilink") 출시되었으나, 병행 판매하다 그해 [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 [쉐보레 아베오의](https://ko.wikipedia.org/wiki/쉐보레_아베오 "wikilink") 판매가 시작됨에 따라 단종되었다. [쉐보레 아베오는](https://ko.wikipedia.org/wiki/쉐보레_아베오 "wikilink") [칼로스의](../Page/GM대우_칼로스.md "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")와 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") 등에서의 차명으로 쓰였으나, 젠트라는 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")을 포함한 좀 더 많은 국가에서 [쉐보레 아베오라는](https://ko.wikipedia.org/wiki/쉐보레_아베오 "wikilink") 차명으로 확대되었다.
+[2005년](../Page/2005년.md "wikilink") [9월 21일에](../Page/9월_21일.md "wikilink") [칼로스 4도어를](../Page/GM대우_칼로스.md "wikilink") 기반으로, 마이너 체인지를 거친 후속 차종인 젠트라가 출시되었다. 생산지는 인천광역시 부평구 청천동에 위치한 한국GM 부평공장이었다. 출시 당시 [다니엘 헤니가](../Page/다니엘_헤니.md "wikilink") 광고 모델로 등장해 화제를 낳기도 했다.\[1\] [2011년 2월에](../Page/2011년_2월.md "wikilink") 후속 차종인 [쉐보레 아베오가](../Page/쉐보레_아베오.md "wikilink") 출시되었으나, 병행 판매하다 그해 [3월](../Page/3월.md "wikilink")에 [쉐보레 아베오의](../Page/쉐보레_아베오.md "wikilink") 판매가 시작됨에 따라 단종되었다. [쉐보레 아베오는](../Page/쉐보레_아베오.md "wikilink") [칼로스의](../Page/GM대우_칼로스.md "wikilink") [미국](../Page/미국.md "wikilink")와 [캐나다](../Page/캐나다.md "wikilink") 등에서의 차명으로 쓰였으나, 젠트라는 [유럽](../Page/유럽.md "wikilink")을 포함한 좀 더 많은 국가에서 [쉐보레 아베오라는](../Page/쉐보레_아베오.md "wikilink") 차명으로 확대되었다.
 
   - 전장 (mm) : 4,310
   - 전폭 (mm) : 1,710
@@ -86,7 +86,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20100801_daewoo_gentra_x_1.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:20100801_daewoo_gentra_x_2.jpg "wikilink")
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 15일에](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") [칼로스 5도어의](../Page/GM대우_칼로스.md "wikilink") 페이스 리프트 차종이 젠트라 X라는 차명으로 출시되었다. 이와 함께 1,200cc DOHC 엔진이 추가되었다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 19일에는](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") 5도어만 있던 젠트라 X에 3도어도 선보였다.
+[2007년](../Page/2007년.md "wikilink") [10월 15일에](../Page/10월_15일.md "wikilink") [칼로스 5도어의](../Page/GM대우_칼로스.md "wikilink") 페이스 리프트 차종이 젠트라 X라는 차명으로 출시되었다. 이와 함께 1,200cc DOHC 엔진이 추가되었다. [2008년](../Page/2008년.md "wikilink") [2월 19일에는](../Page/2월_19일.md "wikilink") 5도어만 있던 젠트라 X에 3도어도 선보였다.
 
   - 전장 (mm) : 3,940
   - 전폭 (mm) : 1,680
@@ -169,4 +169,4 @@
 
 [젠트라](https://ko.wikipedia.org/wiki/분류:지엠대우의_차종 "wikilink") [젠트라](https://ko.wikipedia.org/wiki/분류:세단 "wikilink") [젠트라](https://ko.wikipedia.org/wiki/분류:해치백 "wikilink") [젠트라](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [젠트라](https://ko.wikipedia.org/wiki/분류:소형_승용차 "wikilink") [젠트라](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [젠트라](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink")
 
-1.  [자동차 광고 시장, 유명인 모델로 '스타마케팅'](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=076&aid=0000014428) [조선일보](https://ko.wikipedia.org/wiki/조선일보 "wikilink"), [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink")
+1.  [자동차 광고 시장, 유명인 모델로 '스타마케팅'](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=076&aid=0000014428) [조선일보](../Page/조선일보.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink")

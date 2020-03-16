@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FF](https://ko.wikipedia.org/wiki/_FF).
 
 
-**칼마르 FF**(Kalmar FF)는 [1910년](https://ko.wikipedia.org/wiki/1910년 "wikilink") [1월 10일에](https://ko.wikipedia.org/wiki/1월_10일 "wikilink") 창단된 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") [칼마르](https://ko.wikipedia.org/wiki/칼마르 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 리그 우승 1회와 컵 대회 우승 3회의 기록을 보유하고 있다. 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.
+**칼마르 FF**(Kalmar FF)는 [1910년](../Page/1910년.md "wikilink") [1월 10일에](../Page/1월_10일.md "wikilink") 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [칼마르](../Page/칼마르.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, 리그 우승 1회와 컵 대회 우승 3회의 기록을 보유하고 있다. 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.
 
 ## 성적
 
@@ -30,7 +30,7 @@
 
   - [다비드 엘름](https://ko.wikipedia.org/wiki/다비드_엘름 "wikilink")
 
-  - [빅토르 엘름](https://ko.wikipedia.org/wiki/빅토르_엘름 "wikilink")
+  - [빅토르 엘름](../Page/빅토르_엘름.md "wikilink")
 
   - [라스무스 엘름](../Page/라스무스_엘름.md "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PhpMyAdmin](https://ko.wikipedia.org/wiki/PhpMyAdmin).
 
 
-**phpMyAdmin**은 [MySQL](https://ko.wikipedia.org/wiki/MySQL "wikilink")을 월드 와이드 웹 상에서 관리할 목적으로 [PHP](https://ko.wikipedia.org/wiki/PHP "wikilink")로 작성한 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 도구이다. [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink"), [테이블](https://ko.wikipedia.org/wiki/테이블_\(데이터베이스\) "wikilink"), [필드](https://ko.wikipedia.org/wiki/필드_\(컴퓨터_과학\) "wikilink"), [열의](../Page/로우_\(데이터베이스\).md "wikilink") 작성, 수정, 삭제, 또 [SQL](../Page/SQL.md "wikilink") 상태 실행, 사용자 및 사용 권한 관리 등의 다양한 작업을 수행할 수 있다. 특히 [웹 호스팅 서비스를](https://ko.wikipedia.org/wiki/웹_호스팅_서비스 "wikilink") 위한 가장 대중적인 MySQL 관리 도구 가운데 하나가 되었다.\[1\]
+**phpMyAdmin**은 [MySQL](../Page/MySQL.md "wikilink")을 월드 와이드 웹 상에서 관리할 목적으로 [PHP](../Page/PHP.md "wikilink")로 작성한 [오픈 소스](../Page/오픈_소스.md "wikilink") 도구이다. [데이터베이스](../Page/데이터베이스.md "wikilink"), [테이블](https://ko.wikipedia.org/wiki/테이블_\(데이터베이스\) "wikilink"), [필드](https://ko.wikipedia.org/wiki/필드_\(컴퓨터_과학\) "wikilink"), [열의](../Page/로우_\(데이터베이스\).md "wikilink") 작성, 수정, 삭제, 또 [SQL](../Page/SQL.md "wikilink") 상태 실행, 사용자 및 사용 권한 관리 등의 다양한 작업을 수행할 수 있다. 특히 [웹 호스팅 서비스를](../Page/웹_호스팅_서비스.md "wikilink") 위한 가장 대중적인 MySQL 관리 도구 가운데 하나가 되었다.\[1\]
 
 ## 기능
 
@@ -10,7 +10,7 @@
 1.  웹 인터페이스
 2.  MySQL 데이터베이스 관리
 3.  [CSV](https://ko.wikipedia.org/wiki/CSV "wikilink")과 [SQL](../Page/SQL.md "wikilink")로부터 데이터 가져오기
-4.  데이터를 다양한 형식으로 내보내기: [CSV](https://ko.wikipedia.org/wiki/CSV "wikilink"), [SQL](../Page/SQL.md "wikilink"), [XML](https://ko.wikipedia.org/wiki/XML "wikilink"), [PDF](https://ko.wikipedia.org/wiki/PDF "wikilink") ([TCPDF](https://ko.wikipedia.org/wiki/TCPDF "wikilink") 라이브러리를 통해), ISO/IEC 26300 - 오픈도큐먼트 텍스트 및 [스프레드시트](https://ko.wikipedia.org/wiki/스프레드시트 "wikilink"), [워드](https://ko.wikipedia.org/wiki/마이크로소프트_워드 "wikilink"), [엑셀](https://ko.wikipedia.org/wiki/마이크로소프트_엑셀 "wikilink"), [LaTeX](https://ko.wikipedia.org/wiki/LaTeX "wikilink") 등
+4.  데이터를 다양한 형식으로 내보내기: [CSV](https://ko.wikipedia.org/wiki/CSV "wikilink"), [SQL](../Page/SQL.md "wikilink"), [XML](../Page/XML.md "wikilink"), [PDF](../Page/PDF.md "wikilink") ([TCPDF](https://ko.wikipedia.org/wiki/TCPDF "wikilink") 라이브러리를 통해), ISO/IEC 26300 - 오픈도큐먼트 텍스트 및 [스프레드시트](../Page/스프레드시트.md "wikilink"), [워드](../Page/마이크로소프트_워드.md "wikilink"), [엑셀](../Page/마이크로소프트_엑셀.md "wikilink"), [LaTeX](../Page/LaTeX.md "wikilink") 등
 5.  다중 서버 관리
 6.  데이터베이스 양식의 PDF 그래픽 작성
 7.  쿼리별 조회(QBE)를 이용한 복잡한 쿼리 작성

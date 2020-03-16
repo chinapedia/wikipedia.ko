@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Stdio.h](https://ko.wikipedia.org/wiki/Stdio.h).
 
 
-**stdio.h**은 Standard Input/Output library (표준입출력 라이브러리)의 약어로써, [C 언어의](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") [표준 라이브러리](https://ko.wikipedia.org/wiki/C_언어_표준_라이브러리 "wikilink") 함수의 [매크로](https://ko.wikipedia.org/wiki/매크로_\(컴퓨터_과학\) "wikilink") 정의, 상수, 여러 형의 입출력 함수가 포함된 헤더 파일이다. 1970년대, 벨 연구소의 [마크 레스크가](https://ko.wikipedia.org/wiki/마크_레스크 "wikilink") 쓴 "portable I/O package"\[1\]로부터 내려저 왔다. [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")에서는 호환성을 이유로 `stdio.h` 헤더 파일이 포함되어 있는 것과 마찬가지로 **cstdio**도 [std](../Page/C++_표준_라이브러리.md "wikilink") [이름공간](../Page/이름공간.md "wikilink")에서 `stdio.h`의 함수와 형식이 선언되어 있다.
+**stdio.h**은 Standard Input/Output library (표준입출력 라이브러리)의 약어로써, [C 언어의](../Page/C_\(프로그래밍_언어\).md "wikilink") [표준 라이브러리](https://ko.wikipedia.org/wiki/C_언어_표준_라이브러리 "wikilink") 함수의 [매크로](../Page/매크로_\(컴퓨터_과학\).md "wikilink") 정의, 상수, 여러 형의 입출력 함수가 포함된 헤더 파일이다. 1970년대, 벨 연구소의 [마크 레스크가](https://ko.wikipedia.org/wiki/마크_레스크 "wikilink") 쓴 "portable I/O package"\[1\]로부터 내려저 왔다. [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")에서는 호환성을 이유로 `stdio.h` 헤더 파일이 포함되어 있는 것과 마찬가지로 **cstdio**도 [std](../Page/C++_표준_라이브러리.md "wikilink") [이름공간](../Page/이름공간.md "wikilink")에서 `stdio.h`의 함수와 형식이 선언되어 있다.
 
 ## 예제
 
@@ -23,7 +23,7 @@ int main()
 }
 ```
 
-위의 [프로그램은](https://ko.wikipedia.org/wiki/컴퓨터_프로그램 "wikilink") 바이트에 의해 바이트로 표준 입력으로 입력하고, 표준 출력으로 출력한다. 그리고 출력의 끝에 [개행 문자를](https://ko.wikipedia.org/wiki/개행_문자 "wikilink") 추가한다.
+위의 [프로그램은](../Page/컴퓨터_프로그램.md "wikilink") 바이트에 의해 바이트로 표준 입력으로 입력하고, 표준 출력으로 출력한다. 그리고 출력의 끝에 [개행 문자를](https://ko.wikipedia.org/wiki/개행_문자 "wikilink") 추가한다.
 
 ## 멤버 함수
 
@@ -100,13 +100,13 @@ int main()
 `stdio.h` 헤더에 정의된 데이터 형식이 포함되어 있다:
 
   - `FILE` - 입출력 작동에 필요한 파일/텍스트 스트림에 대한 정보를 포함하는 구조다.
-      - [파일 서술자](https://ko.wikipedia.org/wiki/파일_서술자 "wikilink")
+      - [파일 서술자](../Page/파일_서술자.md "wikilink")
       - 현재 스트림 위치.
       - end-of-file 지시자
       - 오류 지시자
       - 적용 가능할 경우, 스트림의 버퍼에 대한 포인터.
   - `fpos_t` - 유일하게 파일의 바이트 위치를 식별할 수 있는 비 배열 형식.
-  - `size_t` - [`sizeof`](https://ko.wikipedia.org/wiki/sizeof "wikilink") 연산자의 결과값을 나타내는 형식의 양의 [정수](https://ko.wikipedia.org/wiki/정수 "wikilink")형.
+  - `size_t` - [`sizeof`](https://ko.wikipedia.org/wiki/sizeof "wikilink") 연산자의 결과값을 나타내는 형식의 양의 [정수](../Page/정수.md "wikilink")형.
 
 ## 참고
 

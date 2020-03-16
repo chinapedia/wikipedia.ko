@@ -7,9 +7,9 @@
 
 ## 구성원
 
-  - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") : [이승철](https://ko.wikipedia.org/wiki/이승철 "wikilink")
-  - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink") : [김태원](../Page/김태원_\(음악인\).md "wikilink"), 이지웅
-  - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink") : 김병찬
+  - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") : [이승철](../Page/이승철.md "wikilink")
+  - [기타](../Page/기타.md "wikilink") : [김태원](../Page/김태원_\(음악인\).md "wikilink"), 이지웅
+  - [베이스](../Page/베이스_기타.md "wikilink") : 김병찬
   - [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink") : 황태순
 
 [분류:1989년 음반](https://ko.wikipedia.org/wiki/분류:1989년_음반 "wikilink") [컴필01](https://ko.wikipedia.org/wiki/분류:부활의_음반 "wikilink") [부활01](https://ko.wikipedia.org/wiki/분류:컴필레이션_음반 "wikilink")

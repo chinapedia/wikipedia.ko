@@ -21,35 +21,35 @@
 <td><p><a href="../Page/샌안토니오.md" title="wikilink">샌안토니오</a></p></td>
 <td><p><a href="../Page/AT&amp;T_센터.md" title="wikilink">AT&amp;T 센터</a></p></td>
 <td><p>15,226</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/D-제너레이션_X" title="wikilink">D-제너레이션 X</a> (<a href="https://ko.wikipedia.org/wiki/트리플_H" title="wikilink">트리플 H</a> &amp; <a href="../Page/숀_마이클스.md" title="wikilink">숀 마이클스</a>) vs. 제리 쇼 (<a href="https://ko.wikipedia.org/wiki/크리스_제리코" title="wikilink">크리스 제리코</a> &amp; <a href="https://ko.wikipedia.org/wiki/빅_쇼" title="wikilink">빅 쇼</a>) (WWE 통합 태그팀 챔피언십, 테이블, 레더, 체어 매치)</p></td>
+<td><p><a href="../Page/D-제너레이션_X.md" title="wikilink">D-제너레이션 X</a> (<a href="../Page/트리플_H.md" title="wikilink">트리플 H</a> &amp; <a href="../Page/숀_마이클스.md" title="wikilink">숀 마이클스</a>) vs. 제리 쇼 (<a href="../Page/크리스_제리코.md" title="wikilink">크리스 제리코</a> &amp; <a href="../Page/빅_쇼.md" title="wikilink">빅 쇼</a>) (WWE 통합 태그팀 챔피언십, 테이블, 레더, 체어 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2010년 12월 19일</p></td>
 <td><p><a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
 <td><p><a href="../Page/도요타_센터.md" title="wikilink">도요타 센터</a></p></td>
 <td><p>11,500</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/존_시나" title="wikilink">존 시나</a> vs. <a href="https://ko.wikipedia.org/wiki/웨이드_배럿" title="wikilink">웨이드 배럿</a> (체어 매치)</p></td>
+<td><p><a href="../Page/존_시나.md" title="wikilink">존 시나</a> vs. <a href="../Page/웨이드_배럿.md" title="wikilink">웨이드 배럿</a> (체어 매치)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 12월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/볼티모어" title="wikilink">볼티모어</a></p></td>
+<td><p><a href="../Page/볼티모어.md" title="wikilink">볼티모어</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로얄_팜즈_아레나" title="wikilink">퍼스트 매리너 아레나</a></p></td>
 <td><p>9,000</p></td>
-<td><p><a href="../Page/CM_펑크.md" title="wikilink">CM 펑크</a> vs. <a href="https://ko.wikipedia.org/wiki/더_미즈" title="wikilink">더 미즈</a> vs. <a href="https://ko.wikipedia.org/wiki/알베르토_델_리오" title="wikilink">알베르토 델 리오</a> (WWE 챔피언십, 트리플 쓰렛 테이블, 레더, 체어 매치)</p></td>
+<td><p><a href="../Page/CM_펑크.md" title="wikilink">CM 펑크</a> vs. <a href="../Page/더_미즈.md" title="wikilink">더 미즈</a> vs. <a href="../Page/알베르토_델_리오.md" title="wikilink">알베르토 델 리오</a> (WWE 챔피언십, 트리플 쓰렛 테이블, 레더, 체어 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2012년 12월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브루클린" title="wikilink">브루클린</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바클레이스_센터" title="wikilink">바클레이스 센터</a></p></td>
+<td><p><a href="../Page/브루클린.md" title="wikilink">브루클린</a></p></td>
+<td><p><a href="../Page/바클레이스_센터.md" title="wikilink">바클레이스 센터</a></p></td>
 <td><p>15,748</p></td>
-<td><p><a href="../Page/돌프_지글러.md" title="wikilink">돌프 지글러</a> vs. <a href="https://ko.wikipedia.org/wiki/존_시나" title="wikilink">존 시나</a> (월드 헤비웨이트 챔피언십 머니 인 더 뱅크 레더 매치)</p></td>
+<td><p><a href="../Page/돌프_지글러.md" title="wikilink">돌프 지글러</a> vs. <a href="../Page/존_시나.md" title="wikilink">존 시나</a> (월드 헤비웨이트 챔피언십 머니 인 더 뱅크 레더 매치)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013년 12월 15일</p></td>
 <td><p><a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
 <td><p><a href="../Page/도요타_센터.md" title="wikilink">도요타 센터</a></p></td>
 <td><p>14,120</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랜디_오턴" title="wikilink">랜디 오턴</a> (WWE 챔피언) vs. <a href="https://ko.wikipedia.org/wiki/존_시나" title="wikilink">존 시나</a> (월드 헤비웨이트 챔피언) (WWE &amp; 월드 헤비웨이트 챔피언십, 테이블, 레더, 체어 매치)</p></td>
+<td><p><a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> (WWE 챔피언) vs. <a href="../Page/존_시나.md" title="wikilink">존 시나</a> (월드 헤비웨이트 챔피언) (WWE &amp; 월드 헤비웨이트 챔피언십, 테이블, 레더, 체어 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2014년 12월 14일</p></td>
@@ -60,7 +60,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 12월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a></p></td>
+<td><p><a href="../Page/보스턴.md" title="wikilink">보스턴</a></p></td>
 <td><p><a href="../Page/TD_가든.md" title="wikilink">TD 가든</a></p></td>
 <td><p>14,903</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/셰이머스_(프로레슬링_선수)" title="wikilink">셰이머스</a> vs. <a href="https://ko.wikipedia.org/wiki/로먼_레긴스" title="wikilink">로만 레인즈</a> (WWE 챔피언십, 테이블, 레더, 체어 매치)</p></td>
@@ -77,7 +77,7 @@
 <td><p><a href="../Page/미니애폴리스.md" title="wikilink">미니애폴리스</a></p></td>
 <td><p><a href="../Page/타깃_센터.md" title="wikilink">타깃 센터</a></p></td>
 <td><p>13,381</p></td>
-<td><p><a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> &amp; <a href="https://ko.wikipedia.org/wiki/세스_롤린스" title="wikilink">세스 롤린스</a> &amp; <a href="https://ko.wikipedia.org/wiki/딘_앰브로즈" title="wikilink">딘 앰브로즈</a> vs. <a href="https://ko.wikipedia.org/wiki/더_미즈" title="wikilink">더 미즈</a> &amp; <a href="https://ko.wikipedia.org/wiki/셰이머스_(프로레슬링_선수)" title="wikilink">셰이머스</a> &amp; <a href="https://ko.wikipedia.org/wiki/세자로" title="wikilink">세자로</a> &amp; <a href="https://ko.wikipedia.org/wiki/케인_(프로레슬링_선수)" title="wikilink">케인</a> &amp; <a href="../Page/브라운_스트로우먼.md" title="wikilink">브라운 스트로우먼</a> (핸디캡 테이블, 레더, 체어 매치)</p></td>
+<td><p><a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> &amp; <a href="https://ko.wikipedia.org/wiki/세스_롤린스" title="wikilink">세스 롤린스</a> &amp; <a href="https://ko.wikipedia.org/wiki/딘_앰브로즈" title="wikilink">딘 앰브로즈</a> vs. <a href="../Page/더_미즈.md" title="wikilink">더 미즈</a> &amp; <a href="https://ko.wikipedia.org/wiki/셰이머스_(프로레슬링_선수)" title="wikilink">셰이머스</a> &amp; <a href="https://ko.wikipedia.org/wiki/세자로" title="wikilink">세자로</a> &amp; <a href="../Page/케인_(프로레슬링_선수).md" title="wikilink">케인</a> &amp; <a href="../Page/브라운_스트로우먼.md" title="wikilink">브라운 스트로우먼</a> (핸디캡 테이블, 레더, 체어 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2018년 12월 16일</p></td>
@@ -139,7 +139,7 @@
 </tr>
 <tr class="even">
 <td><p>2002년 10월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라스베이거스" title="wikilink">라스베이거스</a></p></td>
+<td><p><a href="../Page/라스베이거스.md" title="wikilink">라스베이거스</a></p></td>
 <td><p>러</p></td>
 <td><p>케인 &amp; 허리케인</p></td>
 <td><p>크리스 제리코 &amp; 크리스챤<br />
@@ -157,7 +157,7 @@
 </tr>
 <tr class="even">
 <td><p>2006년 9월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></p></td>
+<td><p><a href="../Page/토론토.md" title="wikilink">토론토</a></p></td>
 <td><p>언포기븐</p></td>
 <td><p>존 시나</p></td>
 <td><p>에지</p></td>
@@ -189,7 +189,7 @@
 </tr>
 <tr class="even">
 <td><p>2010년 11월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a></p></td>
+<td><p><a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
 <td><p>러</p></td>
 <td><p>더 미즈</p></td>
 <td><p>제리 롤러</p></td>
@@ -207,7 +207,7 @@
 </tr>
 <tr class="even">
 <td><p>2011년 12월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/볼티모어" title="wikilink">볼티모어</a></p></td>
+<td><p><a href="../Page/볼티모어.md" title="wikilink">볼티모어</a></p></td>
 <td><p>CM 펑크</p></td>
 <td><p>알베르토 델 리오<br />
 더 미즈</p></td>
@@ -216,7 +216,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012년 12월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브루클린" title="wikilink">브루클린</a></p></td>
+<td><p><a href="../Page/브루클린.md" title="wikilink">브루클린</a></p></td>
 <td><p>더 쉴드 (로만 레인즈 &amp; 딘 엠브로스 &amp; 세스 롤린스)</p></td>
 <td><p>케인 &amp; 대니얼 브라이언 &amp; 라이백</p></td>
 <td></td>
@@ -256,7 +256,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 12월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a></p></td>
+<td><p><a href="../Page/보스턴.md" title="wikilink">보스턴</a></p></td>
 <td><p>셰이머스</p></td>
 <td><p>로만 레인즈</p></td>
 <td><p>WWE 챔피언십</p></td>

@@ -19,6 +19,6 @@ WLO(World Love Orgnazation)이라는 단체가 세계적 문제인 소 자녀화
 
 ## 제작진
 
-  - 원화 : [알파](https://ko.wikipedia.org/wiki/알파 "wikilink")(아루파)
+  - 원화 : [알파](../Page/알파.md "wikilink")(아루파)
 
 [분류:2009년 성인 비디오 게임](https://ko.wikipedia.org/wiki/분류:2009년_성인_비디오_게임 "wikilink") [분류:미소녀 게임](https://ko.wikipedia.org/wiki/분류:미소녀_게임 "wikilink") [분류:2009년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2009년_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:엑스박스 360 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_360_게임 "wikilink")

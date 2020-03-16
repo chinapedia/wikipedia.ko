@@ -7,36 +7,36 @@
 
 **math.h**는 여러 수학 함수들을 포함하는 [C 언어의](https://ko.wikipedia.org/wiki/C_언어 "wikilink") [표준 라이브러리이다](../Page/C_표준_라이브러리.md "wikilink"). 대부분의 함수들이 부동소수점을 다루며, 각도는 라디안을 사용한다.
 
-| 함수                                                                                           | 설명                                                           |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 삼각 함수                                                                                        |                                                              |
-| double **sin** ( double x );                                                                 | 사인 x를 구한다.                                                   |
-| double **cos** ( double x );                                                                 | 코사인 x를 구한다.                                                  |
-| double **tan** ( double x );                                                                 | 탄젠트 x를 구한다.                                                  |
-| 역 삼각 함수                                                                                      |                                                              |
-| double **asin** ( double x );                                                                | 아크 사인 x를 구한다.                                                |
-| double **acos** ( double x );                                                                | 아크 코사인 x를 구한다.                                               |
-| double **atan** ( double x );                                                                | 아크 탄젠트 x를 구한다.                                               |
-| double **atan2** ( double y, double x );                                                     | 아크 탄젠트 y/x를 구한다.                                             |
-| 쌍곡선 함수                                                                                       |                                                              |
-| double **sinh** ( double x );                                                                | 하이퍼볼릭 사인 x를 구한다.                                             |
-| double **cosh** ( double x );                                                                | 하이퍼볼릭 코사인 x를 구한다.                                            |
-| double **tanh** ( double x );                                                                | 하이퍼볼릭 탄젠트 x를 구한다.                                            |
-| 지수 · 대수 함수                                                                                   |                                                              |
-| double **exp** ( double x );                                                                 | e<sup>x</sup>를 구한다.                                          |
-| double **[frexp](https://ko.wikipedia.org/wiki/부동소수점 "wikilink")** ( double x, int \* exp ); | 지수를 exp가 가리키는 변수에 저장하고 가수를 반환한다.                             |
-| double **ldexp** ( double x, int exp );                                                      | x \* 2<sup>exp</sup>를 반환한다.                                  |
-| double **log** ( double x );                                                                 | log<sub>e</sub> x를 구한다.                                      |
-| double **log10** ( double x );                                                               | log<sub>10</sub> x를 구한다.                                     |
-| double **modf** ( double x, double \* intpart );                                             | 정수부를 intpart가 가리키는 변수에 저장하고 소수부를 반환한다.                       |
-| 거듭제곱 · 거듭제곱근 · 올림 · 내림 · 절댓값 · 나머지 함수                                                        |                                                              |
-| double **pow** ( double x, double y );                                                       | x<sup>y</sup>를 구한다.                                          |
-| double **sqrt** ( double x );                                                                | \(\sqrt{x}\)를 구한다.                                           |
-| double **ceil** ( double x );                                                                | x보다 작지 않은 가장 작은 정수를 구한다.                                     |
-| double **floor** ( double x );                                                               | x보다 크지 않은 가장 큰 정수를 구한다.                                      |
-| double **abs** ( double x );                                                                 | x의 [절댓값](https://ko.wikipedia.org/wiki/절댓값 "wikilink")을 구한다. |
-| double **fmod** ( double x, double y );                                                      | x를 y로 나눈 나머지를 구한다.                                           |
-|                                                                                              |                                                              |
+| 함수                                                                        | 설명                                        |
+| ------------------------------------------------------------------------- | ----------------------------------------- |
+| 삼각 함수                                                                     |                                           |
+| double **sin** ( double x );                                              | 사인 x를 구한다.                                |
+| double **cos** ( double x );                                              | 코사인 x를 구한다.                               |
+| double **tan** ( double x );                                              | 탄젠트 x를 구한다.                               |
+| 역 삼각 함수                                                                   |                                           |
+| double **asin** ( double x );                                             | 아크 사인 x를 구한다.                             |
+| double **acos** ( double x );                                             | 아크 코사인 x를 구한다.                            |
+| double **atan** ( double x );                                             | 아크 탄젠트 x를 구한다.                            |
+| double **atan2** ( double y, double x );                                  | 아크 탄젠트 y/x를 구한다.                          |
+| 쌍곡선 함수                                                                    |                                           |
+| double **sinh** ( double x );                                             | 하이퍼볼릭 사인 x를 구한다.                          |
+| double **cosh** ( double x );                                             | 하이퍼볼릭 코사인 x를 구한다.                         |
+| double **tanh** ( double x );                                             | 하이퍼볼릭 탄젠트 x를 구한다.                         |
+| 지수 · 대수 함수                                                                |                                           |
+| double **exp** ( double x );                                              | e<sup>x</sup>를 구한다.                       |
+| double **[frexp](../Page/부동소수점.md "wikilink")** ( double x, int \* exp ); | 지수를 exp가 가리키는 변수에 저장하고 가수를 반환한다.          |
+| double **ldexp** ( double x, int exp );                                   | x \* 2<sup>exp</sup>를 반환한다.               |
+| double **log** ( double x );                                              | log<sub>e</sub> x를 구한다.                   |
+| double **log10** ( double x );                                            | log<sub>10</sub> x를 구한다.                  |
+| double **modf** ( double x, double \* intpart );                          | 정수부를 intpart가 가리키는 변수에 저장하고 소수부를 반환한다.    |
+| 거듭제곱 · 거듭제곱근 · 올림 · 내림 · 절댓값 · 나머지 함수                                     |                                           |
+| double **pow** ( double x, double y );                                    | x<sup>y</sup>를 구한다.                       |
+| double **sqrt** ( double x );                                             | \(\sqrt{x}\)를 구한다.                        |
+| double **ceil** ( double x );                                             | x보다 작지 않은 가장 작은 정수를 구한다.                  |
+| double **floor** ( double x );                                            | x보다 크지 않은 가장 큰 정수를 구한다.                   |
+| double **abs** ( double x );                                              | x의 [절댓값](../Page/절댓값.md "wikilink")을 구한다. |
+| double **fmod** ( double x, double y );                                   | x를 y로 나눈 나머지를 구한다.                        |
+|                                                                           |                                           |
 
 ## XSI에서 추가된 것들
 

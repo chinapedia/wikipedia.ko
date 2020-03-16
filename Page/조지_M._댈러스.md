@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
 
 
-**조지 미플린 댈러스**(, [1792년](https://ko.wikipedia.org/wiki/1792년 "wikilink") [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") \~ [1864년](https://ko.wikipedia.org/wiki/1864년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 제11대 [부통령](../Page/미국의_부통령.md "wikilink")(1845\~49)이다.
+**조지 미플린 댈러스**(, [1792년](../Page/1792년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ [1864년](../Page/1864년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 제11대 [부통령](../Page/미국의_부통령.md "wikilink")(1845\~49)이다.
 
-[필라델피아](https://ko.wikipedia.org/wiki/필라델피아 "wikilink")에서 태어나 [프린스턴 대학교를](https://ko.wikipedia.org/wiki/프린스턴_대학교 "wikilink") 졸업하였으며, [펜실베이니아주](https://ko.wikipedia.org/wiki/펜실베이니아주 "wikilink") [상원](https://ko.wikipedia.org/wiki/상원 "wikilink")(1831\~33), [러시아](https://ko.wikipedia.org/wiki/러시아_제국 "wikilink") 주재 공사(1837\~39)를 지냈다. 그는 또한 [1812년 전쟁을](https://ko.wikipedia.org/wiki/1812년_전쟁 "wikilink") 끝내는 데 협상을 도운 외교관 [앨버트 갤러틴의](../Page/앨버트_갤러틴.md "wikilink") 서기를 지내기도 하였다.
+[필라델피아](../Page/필라델피아.md "wikilink")에서 태어나 [프린스턴 대학교를](../Page/프린스턴_대학교.md "wikilink") 졸업하였으며, [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [상원](https://ko.wikipedia.org/wiki/상원 "wikilink")(1831\~33), [러시아](../Page/러시아_제국.md "wikilink") 주재 공사(1837\~39)를 지냈다. 그는 또한 [1812년 전쟁을](../Page/1812년_전쟁.md "wikilink") 끝내는 데 협상을 도운 외교관 [앨버트 갤러틴의](../Page/앨버트_갤러틴.md "wikilink") 서기를 지내기도 하였다.
 
-[제임스 K. 포크](https://ko.wikipedia.org/wiki/제임스_K._포크 "wikilink") 대통령 아래에 부통령을 지내면서 포크 대통령의 정책들의 충성스러운 지지자였으며, [1846년](https://ko.wikipedia.org/wiki/1846년 "wikilink") 포크가 호의를 가진 저관세 법안의 호의에 자신의 균형을 깬 투표가 그의 고향 펜실베이니아에서 정치적으로 그를 훼손시켰다.
+[제임스 K. 포크](../Page/제임스_K._포크.md "wikilink") 대통령 아래에 부통령을 지내면서 포크 대통령의 정책들의 충성스러운 지지자였으며, [1846년](../Page/1846년.md "wikilink") 포크가 호의를 가진 저관세 법안의 호의에 자신의 균형을 깬 투표가 그의 고향 펜실베이니아에서 정치적으로 그를 훼손시켰다.
 
-[1856년](https://ko.wikipedia.org/wiki/1856년 "wikilink") [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 주재 공사로 임명되었으며, 영국에 있는 동안에 클레이턴-벌러 조약에 논쟁들을 진정시키는 데 도움을 주었다.
+[1856년](../Page/1856년.md "wikilink") [영국](../Page/영국.md "wikilink") 주재 공사로 임명되었으며, 영국에 있는 동안에 클레이턴-벌러 조약에 논쟁들을 진정시키는 데 도움을 주었다.
 
 또한 필라델피아 시장, 미국 지방 검사, 펜실베이니아 검찰 총장을 지내기도 하였다.
 

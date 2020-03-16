@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**그레트나 FC**(Gretna Football Club, Gretna F.C.)는 [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink")에 창단된 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink") [그레트나](https://ko.wikipedia.org/wiki/그레트나 "wikilink")의 축구 클럽이다.
+**그레트나 FC**(Gretna Football Club, Gretna F.C.)는 [1946년](../Page/1946년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [그레트나](https://ko.wikipedia.org/wiki/그레트나 "wikilink")의 축구 클럽이다.
 
-이 팀은 2006년 [스코틀랜드 컵에서](https://ko.wikipedia.org/wiki/스코틀랜드_컵 "wikilink") 준우승을 차지했고 2006-07 [스코틀랜드 풋볼 리그 1부](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 시즌에서 1위를 차지하여 [스코틀랜드 프리미어리그로](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 승격되기도 하였지만 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 구단이 파산되면서 해체되고 만다.
+이 팀은 2006년 [스코틀랜드 컵에서](https://ko.wikipedia.org/wiki/스코틀랜드_컵 "wikilink") 준우승을 차지했고 2006-07 [스코틀랜드 풋볼 리그 1부](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 시즌에서 1위를 차지하여 [스코틀랜드 프리미어리그로](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 승격되기도 하였지만 [2008년](../Page/2008년.md "wikilink") 구단이 파산되면서 해체되고 만다.
 
 ## 성적
 

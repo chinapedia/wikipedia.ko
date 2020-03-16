@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [skdar\'a Gider ken](https://ko.wikipedia.org/wiki/skdar\'a_Gider_ken).
 
 
-《**Üsküdar'a Gider İken**》(위스퀴다라 기데르 이켄, [위스퀴다르](https://ko.wikipedia.org/wiki/위스퀴다르 "wikilink") 가는 길에), 또는 《**Üsküdar'a**》(위스퀴다라), 《**Uska Dara**》는 [터키어](https://ko.wikipedia.org/wiki/터키어 "wikilink")로 된 곡으로, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 가수 [어사 키트의](https://ko.wikipedia.org/wiki/어사_키트 "wikilink") [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink") 곡을 포함한 여러 버전을 지칭한다. 이 곡은 [터키](https://ko.wikipedia.org/wiki/터키 "wikilink")의 [민요](https://ko.wikipedia.org/wiki/민요 "wikilink")인 《Kâtibim》(카티빔, '서기', '비서'라는 뜻의 'kâtip'\[1\]에 1인칭 소유어미 -(I)m이 접미된 형태로, 직역하면 '나의 서기' 라는 뜻) 을 개작한 것이다. [RCA 레코드에서](../Page/RCA_레코드.md "wikilink") 나온 어사 키트의 1953년 음반은 초판 12만 장이 팔렸다.\[2\]\[3\] 어사 키트의 버전 외에도 [사피예 아일라](https://ko.wikipedia.org/wiki/사피예_아일라 "wikilink")(Safiye Ayla) 등의 버전이 있다.
+《**Üsküdar'a Gider İken**》(위스퀴다라 기데르 이켄, [위스퀴다르](https://ko.wikipedia.org/wiki/위스퀴다르 "wikilink") 가는 길에), 또는 《**Üsküdar'a**》(위스퀴다라), 《**Uska Dara**》는 [터키어](../Page/터키어.md "wikilink")로 된 곡으로, [미국](../Page/미국.md "wikilink")의 가수 [어사 키트의](https://ko.wikipedia.org/wiki/어사_키트 "wikilink") [1953년](../Page/1953년.md "wikilink") 곡을 포함한 여러 버전을 지칭한다. 이 곡은 [터키](../Page/터키.md "wikilink")의 [민요](../Page/민요.md "wikilink")인 《Kâtibim》(카티빔, '서기', '비서'라는 뜻의 'kâtip'\[1\]에 1인칭 소유어미 -(I)m이 접미된 형태로, 직역하면 '나의 서기' 라는 뜻) 을 개작한 것이다. [RCA 레코드에서](../Page/RCA_레코드.md "wikilink") 나온 어사 키트의 1953년 음반은 초판 12만 장이 팔렸다.\[2\]\[3\] 어사 키트의 버전 외에도 [사피예 아일라](https://ko.wikipedia.org/wiki/사피예_아일라 "wikilink")(Safiye Ayla) 등의 버전이 있다.
 
 ## 가사
 

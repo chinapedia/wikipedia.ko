@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
 
 
-**외스테르스 IF**(Östers IF)는 [1930년](https://ko.wikipedia.org/wiki/1930년 "wikilink") [4월 20일에](https://ko.wikipedia.org/wiki/4월_20일 "wikilink") 창단된 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") [벡셰](https://ko.wikipedia.org/wiki/벡셰 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다.
+**외스테르스 IF**(Östers IF)는 [1930년](../Page/1930년.md "wikilink") [4월 20일에](../Page/4월_20일.md "wikilink") 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [벡셰](../Page/벡셰.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다.
 
 ## 성적
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Beyonc Experience](https://ko.wikipedia.org/wiki/The_Beyonc_Experience).
 
 
-**The Beyoncé Experience**는 미국의 싱어송라이터 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 세 번째 월드 투어로 비욘세의 두 번째 정규 음반 *[B'Day](https://ko.wikipedia.org/wiki/B'Day "wikilink")*의 프로모션을 위한 투어이다. 비욘세는 이 투어를 통해 2007년 11월 9일과 10일 양일간 첫 내한 공연도 펼쳤다.
+**The Beyoncé Experience**는 미국의 싱어송라이터 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 세 번째 월드 투어로 비욘세의 두 번째 정규 음반 *[B'Day](../Page/B'Day.md "wikilink")*의 프로모션을 위한 투어이다. 비욘세는 이 투어를 통해 2007년 11월 9일과 10일 양일간 첫 내한 공연도 펼쳤다.
 
 이 투어는 총 9,000만 달러의 수익을 올렸다.
 
@@ -9,9 +9,9 @@
 
 ## 오프닝 게스트
 
-  - [크리스 브라운](https://ko.wikipedia.org/wiki/크리스_브라운_\(가수\) "wikilink") <small>(오스트레일리아)</small>
+  - [크리스 브라운](../Page/크리스_브라운_\(가수\).md "wikilink") <small>(오스트레일리아)</small>
   - [르마](https://ko.wikipedia.org/wiki/르마 "wikilink") <small>(유럽)</small>
-  - [로빈 시크](https://ko.wikipedia.org/wiki/로빈_시크 "wikilink") <small> (북아메리카)</small>
+  - [로빈 시크](../Page/로빈_시크.md "wikilink") <small> (북아메리카)</small>
   - [션 킹스턴](https://ko.wikipedia.org/wiki/션_킹스턴 "wikilink") <small> (북아메리카)</small>
 
 [right](https://ko.wikipedia.org/wiki/파일:Beyonce_Independent.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:Beyonce_Naughty_Girl.JPG "wikilink")
@@ -22,7 +22,7 @@
 2.  "Freakum Dress"
 3.  "[Green Light](https://ko.wikipedia.org/wiki/Green_Light "wikilink")"
       - *Drummer break* <small>(Instrumental Interlude)</small>
-4.  "[Baby Boy](https://ko.wikipedia.org/wiki/Baby_Boy "wikilink")" <small>(contains a Reggae medley: "[Murder She Wrote](https://ko.wikipedia.org/wiki/Chaka_Demus_&_Pliers "wikilink")", "[Lost Ones](https://ko.wikipedia.org/wiki/Lost_Ones "wikilink")" and "[Ring the Alarm](https://ko.wikipedia.org/wiki/Tenor_Saw "wikilink")")</small>
+4.  "[Baby Boy](../Page/Baby_Boy.md "wikilink")" <small>(contains a Reggae medley: "[Murder She Wrote](https://ko.wikipedia.org/wiki/Chaka_Demus_&_Pliers "wikilink")", "[Lost Ones](https://ko.wikipedia.org/wiki/Lost_Ones "wikilink")" and "[Ring the Alarm](https://ko.wikipedia.org/wiki/Tenor_Saw "wikilink")")</small>
 5.  "Work It Out"
 6.  "[Naughty Girl](https://ko.wikipedia.org/wiki/Naughty_Girl "wikilink")"
 7.  "[Me Myself & I](https://ko.wikipedia.org/wiki/Me_Myself_&_I "wikilink")"
@@ -49,7 +49,7 @@
 17. "[Déjà Vu](https://ko.wikipedia.org/wiki/Déjà_Vu_\(Beyoncé_Knowles_song\) "wikilink")"
 18. "[Welcome to Hollywood](https://ko.wikipedia.org/wiki/Welcome_to_Hollywood "wikilink")" <small>(Video Interlude)</small>
 19. "Deena/[Dreamgirls](https://ko.wikipedia.org/wiki/드림걸즈_\(영화\) "wikilink") Medley"
-20. "[Listen](https://ko.wikipedia.org/wiki/Listen_\(노래\) "wikilink")"
+20. "[Listen](../Page/Listen_\(노래\).md "wikilink")"
 21. "[Irreplaceable](../Page/Irreplaceable.md "wikilink")"
 
 <!-- end list -->

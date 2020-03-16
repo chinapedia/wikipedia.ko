@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  DP:    ](https://ko.wikipedia.org/wiki/__DP:____).
 
 
-〈**극장판 포켓몬스터 기라티나와 하늘의 꽃다발 쉐이미**〉(劇場版ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ)는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 19일에](https://ko.wikipedia.org/wiki/7월_19일 "wikilink") 개봉된 [TV 애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")〈[포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제11기이다.
+〈**극장판 포켓몬스터 기라티나와 하늘의 꽃다발 쉐이미**〉(劇場版ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ)는 [2008년](../Page/2008년.md "wikilink") [7월 19일에](../Page/7월_19일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink")〈[포켓몬스터](../Page/포켓몬스터.md "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제11기이다.
 
 ## 줄거리
 
@@ -22,13 +22,13 @@
 <!-- end list -->
 
   - 인피
-    성우 - [나카가와 쇼코](https://ko.wikipedia.org/wiki/나카가와_쇼코 "wikilink") / [이영란](https://ko.wikipedia.org/wiki/이영란 "wikilink")
+    성우 - [나카가와 쇼코](../Page/나카가와_쇼코.md "wikilink") / [이영란](../Page/이영란.md "wikilink")
     제로가 타고 다니는 비행선의 홀로그램. 여성의 모습을 하고 있고 제로에게 충실히 대하며 바깥 상황의 정보, 데이터 수집, 비행선 조종 등의 일을 한다.
 
 <!-- end list -->
 
   - [쉐이미](https://ko.wikipedia.org/wiki/쉐이미 "wikilink")
-    성우 - [야마자키 바닐라](https://ko.wikipedia.org/wiki/야마자키_바닐라 "wikilink") / [임주현](https://ko.wikipedia.org/wiki/임주현 "wikilink")
+    성우 - [야마자키 바닐라](https://ko.wikipedia.org/wiki/야마자키_바닐라 "wikilink") / [임주현](../Page/임주현.md "wikilink")
     감사 포켓몬이라고 불리는 귀여운 포켓몬. 그러나 꽤나 명칭에 맞지 않게 건방지고 지나치게 여성적이어서(본래 암컷이기도 하지만) 지우의 분노를 사는 한편, 빛나를 자기 편으로 끌어버려 자신을 감싸게 한다. 기라티나와 디아루가의 싸움에 휘말려 반전 세계까지 들어가 독안개를 흡입하고 특기 '시드 플레어'로 디아루가가 탈출할 구멍을 만들어줘버렸다. 등에 나 있는 분홍색 꽃송이가 감사의 표현을 상대에게 전할 때 주는 '그라시데아 꽃'을 닮아 있다.
 
 <!-- end list -->

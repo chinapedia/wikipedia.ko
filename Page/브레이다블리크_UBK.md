@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ UBK](https://ko.wikipedia.org/wiki/_UBK).
 
 
-**브레이다블리크 UBK**()는 [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink")에 창단된 [아이슬란드](https://ko.wikipedia.org/wiki/아이슬란드 "wikilink") [코파보귀르](../Page/코파보귀르.md "wikilink")의 스포츠 클럽이다.
+**브레이다블리크 UBK**()는 [1950년](../Page/1950년.md "wikilink")에 창단된 [아이슬란드](../Page/아이슬란드.md "wikilink") [코파보귀르](../Page/코파보귀르.md "wikilink")의 스포츠 클럽이다.
 
-브레이다블리크 UBK는 남녀 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 팀과 [육상](https://ko.wikipedia.org/wiki/육상_경기 "wikilink"), [농구](https://ko.wikipedia.org/wiki/농구 "wikilink"), [공수도](../Page/공수도.md "wikilink"), [무용](../Page/춤.md "wikilink"), [스키](https://ko.wikipedia.org/wiki/스키 "wikilink"), [수영](https://ko.wikipedia.org/wiki/수영 "wikilink"), [핸드볼](https://ko.wikipedia.org/wiki/핸드볼 "wikilink") 팀을 운영하고 있으며 클럽 이름은 [북유럽 신화에](https://ko.wikipedia.org/wiki/북유럽_신화 "wikilink") 등장하는 [발드르](https://ko.wikipedia.org/wiki/발드르 "wikilink")의 집인 [브레이다블리크](https://ko.wikipedia.org/wiki/브레이다블리크 "wikilink")에서 유래된 것이다.
+브레이다블리크 UBK는 남녀 [축구](../Page/축구.md "wikilink") 팀과 [육상](../Page/육상_경기.md "wikilink"), [농구](../Page/농구.md "wikilink"), [공수도](../Page/공수도.md "wikilink"), [무용](../Page/춤.md "wikilink"), [스키](../Page/스키.md "wikilink"), [수영](../Page/수영.md "wikilink"), [핸드볼](../Page/핸드볼.md "wikilink") 팀을 운영하고 있으며 클럽 이름은 [북유럽 신화에](https://ko.wikipedia.org/wiki/북유럽_신화 "wikilink") 등장하는 [발드르](https://ko.wikipedia.org/wiki/발드르 "wikilink")의 집인 [브레이다블리크](https://ko.wikipedia.org/wiki/브레이다블리크 "wikilink")에서 유래된 것이다.
 
 ## 성적
 

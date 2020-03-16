@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SCO](https://ko.wikipedia.org/wiki/_SCO).
 
 
-**앙제 SCO**(Angers Sporting Club de l'Ouest, Angers SCO)는 [1919년](https://ko.wikipedia.org/wiki/1919년 "wikilink")에 창단된 [프랑스](../Page/프랑스.md "wikilink") [앙제](https://ko.wikipedia.org/wiki/앙제 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 2014-2015 시즌에 [리그 2에서](../Page/리그_2.md "wikilink") 3위를 차지하여 [리그 1으로](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 승격하였다. 현재는 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가하고 있다.
+**앙제 SCO**(Angers Sporting Club de l'Ouest, Angers SCO)는 [1919년](../Page/1919년.md "wikilink")에 창단된 [프랑스](../Page/프랑스.md "wikilink") [앙제](../Page/앙제.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 2014-2015 시즌에 [리그 2에서](../Page/리그_2.md "wikilink") 3위를 차지하여 [리그 1으로](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 승격하였다. 현재는 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가하고 있다.
 
 ## 성적
 
@@ -11,7 +11,7 @@
 
 ## 유명 선수
 
-  - [레몽 코파](https://ko.wikipedia.org/wiki/레몽_코파 "wikilink")
+  - [레몽 코파](../Page/레몽_코파.md "wikilink")
 
   - [울리히 라메](https://ko.wikipedia.org/wiki/울리히_라메 "wikilink")
 

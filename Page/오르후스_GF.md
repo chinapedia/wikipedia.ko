@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ GF](https://ko.wikipedia.org/wiki/_GF).
 
 
-**오르후스 GF**(Aarhus Gymnastikforening, AGF Aarhus, 약칭 **AGF**)는 [1880년](https://ko.wikipedia.org/wiki/1880년 "wikilink")에 창단된 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink") [오르후스](../Page/오르후스.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 덴마크에서 가장 오래된 스포츠 클럽 가운데 하나로 손꼽힌다.
+**오르후스 GF**(Aarhus Gymnastikforening, AGF Aarhus, 약칭 **AGF**)는 [1880년](../Page/1880년.md "wikilink")에 창단된 [덴마크](../Page/덴마크.md "wikilink") [오르후스](../Page/오르후스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 덴마크에서 가장 오래된 스포츠 클럽 가운데 하나로 손꼽힌다.
 
 ## 성적
 
@@ -23,7 +23,7 @@
 
   - [레온 안드레아센](https://ko.wikipedia.org/wiki/레온_안드레아센 "wikilink")
 
-  - [리엄 밀러](https://ko.wikipedia.org/wiki/리엄_밀러 "wikilink")
+  - [리엄 밀러](../Page/리엄_밀러.md "wikilink")
 
 ## 외부 링크
 

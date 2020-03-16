@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [First Invasion](https://ko.wikipedia.org/wiki/First_Invasion).
 
 
-***First Invasion***(퍼스트 인베이전)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")의 첫 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 음반이다. 2010년 6월 9일 [엠넷미디어](../Page/엠넷미디어.md "wikilink")를 통해 발매되었다.
+***First Invasion***(퍼스트 인베이전)은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [인피니트](../Page/인피니트.md "wikilink")의 첫 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 음반이다. 2010년 6월 9일 [엠넷미디어](../Page/엠넷미디어.md "wikilink")를 통해 발매되었다.
 
 ## 수록곡
 

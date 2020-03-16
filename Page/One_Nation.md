@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [One Nation](https://ko.wikipedia.org/wiki/One_Nation).
 
 
-《**One Nation**》은 [MC Sniper가](https://ko.wikipedia.org/wiki/MC_Sniper "wikilink") 프로듀스한 컴필레이션 음반이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월 2일에](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 발매되었다.
+《**One Nation**》은 [MC Sniper가](https://ko.wikipedia.org/wiki/MC_Sniper "wikilink") 프로듀스한 컴필레이션 음반이다. [2009년](../Page/2009년.md "wikilink") [3월 2일에](../Page/3월_2일.md "wikilink") 발매되었다.
 
 ## 수록곡
 
 ### CD1
 
-1\. **One Nation** (Feat. [배치기](https://ko.wikipedia.org/wiki/배치기 "wikilink"), [L.E.O.](https://ko.wikipedia.org/wiki/L.E.O. "wikilink"), [illinit](https://ko.wikipedia.org/wiki/일리닛 "wikilink"), [Outsider](https://ko.wikipedia.org/wiki/아웃사이더_\(가수\) "wikilink"), [취랩](https://ko.wikipedia.org/wiki/취랩 "wikilink"), [DJ R2](https://ko.wikipedia.org/wiki/DJ_R2 "wikilink"), [Bone Thugs-N-Harmony](https://ko.wikipedia.org/wiki/본_석스-엔-하모니 "wikilink")) - [MC Sniper](https://ko.wikipedia.org/wiki/MC_Sniper "wikilink")
+1\. **One Nation** (Feat. [배치기](../Page/배치기.md "wikilink"), [L.E.O.](https://ko.wikipedia.org/wiki/L.E.O. "wikilink"), [illinit](../Page/일리닛.md "wikilink"), [Outsider](https://ko.wikipedia.org/wiki/아웃사이더_\(가수\) "wikilink"), [취랩](../Page/취랩.md "wikilink"), [DJ R2](https://ko.wikipedia.org/wiki/DJ_R2 "wikilink"), [Bone Thugs-N-Harmony](https://ko.wikipedia.org/wiki/본_석스-엔-하모니 "wikilink")) - [MC Sniper](https://ko.wikipedia.org/wiki/MC_Sniper "wikilink")
 
 :\*작사 : MC Sniper, L.E.O., 배치기, illinit, Outsider, 취랩, DJ R2
 
-:\*Produced, Arranged & Composed by [이현도 a.k.a D.O](https://ko.wikipedia.org/wiki/이현도 "wikilink")
+:\*Produced, Arranged & Composed by [이현도 a.k.a D.O](../Page/이현도.md "wikilink")
 
 2\. **누구야? (떠버리가 돌아왔어)** (Feat. Monkey Stick) - L.E.O.
 
@@ -19,13 +19,13 @@
 
 :\*Produced, Arranged & Composed by chas
 
-3\. **불의 전차** - [뉴올리언스](https://ko.wikipedia.org/wiki/뉴올리언스_\(음악가\) "wikilink"), [가리온](../Page/가리온.md "wikilink")
+3\. **불의 전차** - [뉴올리언스](../Page/뉴올리언스_\(음악가\).md "wikilink"), [가리온](../Page/가리온.md "wikilink")
 
 :\*작사 : [MC Meta](https://ko.wikipedia.org/wiki/MC_Meta "wikilink"), [NaaChal](https://ko.wikipedia.org/wiki/나찰 "wikilink"), 뉴올리언스
 
 :\*Produced, Arranged & Composed by 뉴올리언스
 
-4\. **Breath Fire (Feat. 화영)** - [Minos](https://ko.wikipedia.org/wiki/마이노스 "wikilink")
+4\. **Breath Fire (Feat. 화영)** - [Minos](../Page/마이노스.md "wikilink")
 
 :\*작사 : Minos
 
@@ -37,7 +37,7 @@
 
 6\. **True Story (Feat. Kickaflo & Basick)** - [B-Free](../Page/비프리.md "wikilink")
 
-:\*작사 : B-Free, Kickaflo & [Basick](https://ko.wikipedia.org/wiki/베이식_\(가수\) "wikilink")
+:\*작사 : B-Free, Kickaflo & [Basick](../Page/베이식_\(가수\).md "wikilink")
 
 :\*Produced, Arranged & Composed by PeeJay
 
@@ -69,11 +69,11 @@
 
 11\. **B-Busterz (with Blockbuster Allstarz)** - Outsider
 
-:\*작사 : [Brown Sugar](https://ko.wikipedia.org/wiki/브라운_슈가_\(래퍼\) "wikilink"), [K-proud](https://ko.wikipedia.org/wiki/K-proud "wikilink"), [supmario](https://ko.wikipedia.org/wiki/supmario "wikilink"), [Carey D](https://ko.wikipedia.org/wiki/캐리_디 "wikilink"), [Lonie Jay](https://ko.wikipedia.org/wiki/로니_제이 "wikilink"), Outsider
+:\*작사 : [Brown Sugar](../Page/브라운_슈가_\(래퍼\).md "wikilink"), [K-proud](https://ko.wikipedia.org/wiki/K-proud "wikilink"), [supmario](https://ko.wikipedia.org/wiki/supmario "wikilink"), [Carey D](https://ko.wikipedia.org/wiki/캐리_디 "wikilink"), [Lonie Jay](https://ko.wikipedia.org/wiki/로니_제이 "wikilink"), Outsider
 
 :\*Produced, Arranged & Composed by Brown Sugar
 
-12\. **T.K.O (chorus by [무웅](https://ko.wikipedia.org/wiki/무웅 "wikilink") of 배치기)** - illinit
+12\. **T.K.O (chorus by [무웅](../Page/무웅.md "wikilink") of 배치기)** - illinit
 
 :\*작사 : illinit
 
@@ -81,9 +81,9 @@
 
 ### CD2
 
-1\. **Under Kids** - [Kebee](https://ko.wikipedia.org/wiki/Kebee "wikilink"), [배치기](https://ko.wikipedia.org/wiki/배치기 "wikilink"), [Loptimist](https://ko.wikipedia.org/wiki/랍티미스트 "wikilink"), [DJ Wegun](../Page/DJ_웨건.md "wikilink")
+1\. **Under Kids** - [Kebee](https://ko.wikipedia.org/wiki/Kebee "wikilink"), [배치기](../Page/배치기.md "wikilink"), [Loptimist](../Page/랍티미스트.md "wikilink"), [DJ Wegun](../Page/DJ_웨건.md "wikilink")
 
-:\*작사 : [Kebee](../Page/키비_\(가수\).md "wikilink"), [배치기](https://ko.wikipedia.org/wiki/배치기 "wikilink")
+:\*작사 : [Kebee](../Page/키비_\(가수\).md "wikilink"), [배치기](../Page/배치기.md "wikilink")
 
 :\*Produced, Arranged & Composed by Loptimist
 
@@ -115,7 +115,7 @@
 
 :\*Produced & Composed by 석재 of R.S.B
 
-6\. **If I (Feat. 개, Mark-k Vocal Ray Hill)** - [U.P.T. Maniac](https://ko.wikipedia.org/wiki/매니악_\(가수\) "wikilink")
+6\. **If I (Feat. 개, Mark-k Vocal Ray Hill)** - [U.P.T. Maniac](../Page/매니악_\(가수\).md "wikilink")
 
 :\*작사 : Maniac, 개, Mark-K, Ray Hill
 
@@ -151,7 +151,7 @@
 
 :\*Produced, Composed by 신경재
 
-12\. **I Don't Give A Fuck** - nastyz ([Dead'P](https://ko.wikipedia.org/wiki/데드피 "wikilink") & [Deepflow](https://ko.wikipedia.org/wiki/Deepflow "wikilink"))
+12\. **I Don't Give A Fuck** - nastyz ([Dead'P](../Page/데드피.md "wikilink") & [Deepflow](https://ko.wikipedia.org/wiki/Deepflow "wikilink"))
 
 :\*작사 : Dead'P, Deepflow
 

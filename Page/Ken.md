@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ken](https://ko.wikipedia.org/wiki/Ken).
 
 
-**ken** (*켄*, [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") \~ ) 은 일본 록 밴드 [라르크 앙 시엘의](https://ko.wikipedia.org/wiki/라르크_앙_시엘 "wikilink") 기타리스트이다. 1992년 [라르크 앙 시엘의](https://ko.wikipedia.org/wiki/라르크_앙_시엘 "wikilink") 오리지널 멤버인 hiro가 탈퇴한 후 가입해서 지금까지 활동. 2002년부터 활동한 SONS OF ALL PUSSYS에서는 보컬과 기타를 담당하고 있다. 그 후 2006년에 본격적으로 'Ken'이라는 이름으로 1st 싱글 'Speed'를 발매하면서 솔로 활동을 시작한다.
+**ken** (*켄*, [1968년](../Page/1968년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") \~ ) 은 일본 록 밴드 [라르크 앙 시엘의](https://ko.wikipedia.org/wiki/라르크_앙_시엘 "wikilink") 기타리스트이다. 1992년 [라르크 앙 시엘의](https://ko.wikipedia.org/wiki/라르크_앙_시엘 "wikilink") 오리지널 멤버인 hiro가 탈퇴한 후 가입해서 지금까지 활동. 2002년부터 활동한 SONS OF ALL PUSSYS에서는 보컬과 기타를 담당하고 있다. 그 후 2006년에 본격적으로 'Ken'이라는 이름으로 1st 싱글 'Speed'를 발매하면서 솔로 활동을 시작한다.
 
 ## 음반
 

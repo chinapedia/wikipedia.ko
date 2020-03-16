@@ -7,24 +7,24 @@
 
 ## 차트
 
-| 차트 (2009)                                                                                                      | 최고 순위 | [음반 판매량 인증](../Page/음반_판매량_인증.md "wikilink") |
-| :------------------------------------------------------------------------------------------------------------- | :---- | -------------------------------------------- |
-| ARIA 탑 40 뮤직 DVD 차트\[1\]                                                                                       | 11    | 플래티넘\[2\]                                    |
-| [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 탑 뮤직 비디오 | 1     | 2× 플래티넘\[3\]                                 |
-| Dutch Concert DVDs\[4\]                                                                                        | 4     |                                              |
-| [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink") DVD 차트                                                     | 9     |                                              |
-| 독일 음반 차트\[5\]                                                                                                  | 85    |                                              |
-| 독일 DVD 차트\[6\]                                                                                                 | 3     |                                              |
-| [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink") 음반 차트\[7\]                                                 | 23    |                                              |
-| [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") 음반 차트\[8\]                                                 | 58    |                                              |
-| 뉴질랜드[RIANZ](https://ko.wikipedia.org/wiki/RIANZ "wikilink") DVD 차트\[9\]                                        | 6     |                                              |
-| [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink") 음반 차트\[10\]                                              | 18    |                                              |
-| [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") 음반 차트\[11\]                                                | 8     |                                              |
-| [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink") DVD 차트                                                     | 7     |                                              |
-| [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") DVD 차트\[12\]                                               | 10    |                                              |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") DVD 차트                                                       | 66    |                                              |
-| [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") DVD 차트\[13\]                                               | 1     | 2× 플래티넘\[14\]                                |
-|                                                                                                                |       |                                              |
+| 차트 (2009)                                                                | 최고 순위 | [음반 판매량 인증](../Page/음반_판매량_인증.md "wikilink") |
+| :----------------------------------------------------------------------- | :---- | -------------------------------------------- |
+| ARIA 탑 40 뮤직 DVD 차트\[1\]                                                 | 11    | 플래티넘\[2\]                                    |
+| [미국](../Page/미국.md "wikilink") [빌보드](../Page/빌보드.md "wikilink") 탑 뮤직 비디오 | 1     | 2× 플래티넘\[3\]                                 |
+| Dutch Concert DVDs\[4\]                                                  | 4     |                                              |
+| [벨기에](../Page/벨기에.md "wikilink") DVD 차트                                  | 9     |                                              |
+| 독일 음반 차트\[5\]                                                            | 85    |                                              |
+| 독일 DVD 차트\[6\]                                                           | 3     |                                              |
+| [그리스](../Page/그리스.md "wikilink") 음반 차트\[7\]                              | 23    |                                              |
+| [멕시코](../Page/멕시코.md "wikilink") 음반 차트\[8\]                              | 58    |                                              |
+| 뉴질랜드[RIANZ](https://ko.wikipedia.org/wiki/RIANZ "wikilink") DVD 차트\[9\]  | 6     |                                              |
+| [포르투갈](../Page/포르투갈.md "wikilink") 음반 차트\[10\]                           | 18    |                                              |
+| [스페인](../Page/스페인.md "wikilink") 음반 차트\[11\]                             | 8     |                                              |
+| [스페인](../Page/스페인.md "wikilink") DVD 차트                                  | 7     |                                              |
+| [스웨덴](../Page/스웨덴.md "wikilink") DVD 차트\[12\]                            | 10    |                                              |
+| [일본](../Page/일본.md "wikilink") DVD 차트                                    | 66    |                                              |
+| [브라질](../Page/브라질.md "wikilink") DVD 차트\[13\]                            | 1     | 2× 플래티넘\[14\]                                |
+|                                                                          |       |                                              |
 
 ## 각주
 

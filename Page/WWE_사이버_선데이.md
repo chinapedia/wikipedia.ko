@@ -23,14 +23,14 @@
 <td><p><a href="../Page/밀워키.md" title="wikilink">밀워키</a></p></td>
 <td><p><a href="../Page/BMO_해리스_브래들리_센터.md" title="wikilink">브래들리 센터</a></p></td>
 <td><p>3,500</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랜디_오턴" title="wikilink">랜디 오턴</a> vs. <a href="../Page/릭_플레어.md" title="wikilink">릭 플레어</a> (스틸 케이지 매치)</p></td>
+<td><p><a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs. <a href="../Page/릭_플레어.md" title="wikilink">릭 플레어</a> (스틸 케이지 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2005년 11월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/샌디에이고" title="wikilink">샌디에이고</a></p></td>
 <td><p><a href="../Page/밸리뷰_카지노_센터.md" title="wikilink">아이페이원 센터</a></p></td>
 <td><p>6,000</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/존_시나" title="wikilink">존 시나</a> vs. <a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> vs. <a href="../Page/숀_마이클스.md" title="wikilink">숀 마이클스</a> (WWE 챔피언십, 트리플 쓰렛 매치)</p></td>
+<td><p><a href="../Page/존_시나.md" title="wikilink">존 시나</a> vs. <a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a> vs. <a href="../Page/숀_마이클스.md" title="wikilink">숀 마이클스</a> (WWE 챔피언십, 트리플 쓰렛 매치)</p></td>
 </tr>
 </tbody>
 </table>
@@ -53,21 +53,21 @@
 <td><p><a href="../Page/신시내티.md" title="wikilink">신시내티</a></p></td>
 <td><p><a href="../Page/U.S._뱅크_아레나.md" title="wikilink">U.S. 뱅크 아레나</a></p></td>
 <td><p>7,000</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부커_허프먼" title="wikilink">킹 부커</a> vs. <a href="https://ko.wikipedia.org/wiki/존_시나" title="wikilink">존 시나</a> vs. <a href="https://ko.wikipedia.org/wiki/빅_쇼" title="wikilink">빅 쇼</a> (월드 헤비웨이트 챔피언십, 트리플 쓰렛 매치)</p></td>
+<td><p><a href="../Page/부커_허프먼.md" title="wikilink">킹 부커</a> vs. <a href="../Page/존_시나.md" title="wikilink">존 시나</a> vs. <a href="../Page/빅_쇼.md" title="wikilink">빅 쇼</a> (월드 헤비웨이트 챔피언십, 트리플 쓰렛 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2007년 11월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴_D.C." title="wikilink">워싱턴 D.C.</a></p></td>
+<td><p><a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a></p></td>
 <td><p><a href="../Page/캐피털_원_아레나.md" title="wikilink">버라이즌 센터</a></p></td>
 <td><p>10,094</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데이브_바티스타" title="wikilink">바티스타</a> vs. <a href="https://ko.wikipedia.org/wiki/디_언더테이커" title="wikilink">디 언더테이커</a> (월드 헤비웨이트 챔피언십)</p></td>
+<td><p><a href="../Page/데이브_바티스타.md" title="wikilink">바티스타</a> vs. <a href="../Page/디_언더테이커.md" title="wikilink">디 언더테이커</a> (월드 헤비웨이트 챔피언십)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008년 11월 26일</p></td>
 <td><p><a href="../Page/피닉스_(애리조나주).md" title="wikilink">피닉스</a></p></td>
 <td><p><a href="../Page/토킹_스틱_리조트_아레나.md" title="wikilink">US 에어웨이스 센터</a></p></td>
 <td><p>7,981</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데이브_바티스타" title="wikilink">바티스타</a> vs. <a href="https://ko.wikipedia.org/wiki/크리스_제리코" title="wikilink">크리스 제리코</a> (월드 헤비웨이트 챔피언십)</p></td>
+<td><p><a href="../Page/데이브_바티스타.md" title="wikilink">바티스타</a> vs. <a href="../Page/크리스_제리코.md" title="wikilink">크리스 제리코</a> (월드 헤비웨이트 챔피언십)</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [LG  2X](https://ko.wikipedia.org/wiki/LG__2X).
 
 
-**LG 옵티머스 2X**()는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")에서 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 25일에](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") 출시한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\]
+**LG 옵티머스 2X**()는 [LG전자](../Page/LG전자.md "wikilink")에서 [2011년](../Page/2011년.md "wikilink") [1월 25일에](../Page/1월_25일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]
 
-세계 최초로 듀얼코어 AP를 장착한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")으로, 개발코드명은 스타인 제품으로 2X로 펫네임이 확정되었으며\[2\] [엔가젯](../Page/엔가젯.md "wikilink")을 통해 프리뷰가 소개되었다.\[3\] 사용자들에게는 옵티머스 두배라는 이름으로 불리곤 한다.
+세계 최초로 듀얼코어 AP를 장착한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, 개발코드명은 스타인 제품으로 2X로 펫네임이 확정되었으며\[2\] [엔가젯](../Page/엔가젯.md "wikilink")을 통해 프리뷰가 소개되었다.\[3\] 사용자들에게는 옵티머스 두배라는 이름으로 불리곤 한다.
 
 ## 운영 체제
 
@@ -49,21 +49,21 @@ Q메모를 어느화면에서나 보며 이중플레이 할 수 있는 겹쳐사
 
 #### LG-SU660
 
-[SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink") 전용으로 출시된 제품으로, 3버튼(홈키는 키버튼)이 적용되었다.
+[SK텔레콤](../Page/SK텔레콤.md "wikilink") 전용으로 출시된 제품으로, 3버튼(홈키는 키버튼)이 적용되었다.
 
 ## 경쟁 기종
 
   - [삼성 갤럭시 S2](https://ko.wikipedia.org/wiki/삼성_갤럭시_S2 "wikilink")
   - [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [아이폰 4s](https://ko.wikipedia.org/wiki/아이폰_4s "wikilink")
   - [팬택](../Page/팬택.md "wikilink") [베가 레이서](https://ko.wikipedia.org/wiki/베가_레이서 "wikilink")
-  - [모토로라 아트릭스](https://ko.wikipedia.org/wiki/모토로라_아트릭스 "wikilink")
+  - [모토로라 아트릭스](../Page/모토로라_아트릭스.md "wikilink")
 
 ## 같이 보기
 
-  - [엔비디아 테그라](https://ko.wikipedia.org/wiki/엔비디아_테그라 "wikilink")
-  - [LG 옵티머스 블랙](https://ko.wikipedia.org/wiki/LG_옵티머스_블랙 "wikilink")
-  - [LG 옵티머스 빅](https://ko.wikipedia.org/wiki/LG_옵티머스_빅 "wikilink")
-  - [LG 옵티머스 3D](https://ko.wikipedia.org/wiki/LG_옵티머스_3D "wikilink")
+  - [엔비디아 테그라](../Page/엔비디아_테그라.md "wikilink")
+  - [LG 옵티머스 블랙](../Page/LG_옵티머스_블랙.md "wikilink")
+  - [LG 옵티머스 빅](../Page/LG_옵티머스_빅.md "wikilink")
+  - [LG 옵티머스 3D](../Page/LG_옵티머스_3D.md "wikilink")
 
 ## 각주
 

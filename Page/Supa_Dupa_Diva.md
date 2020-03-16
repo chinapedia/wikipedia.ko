@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Supa Dupa Diva](https://ko.wikipedia.org/wiki/Supa_Dupa_Diva).
 
 
-***Supa Dupa Diva***은 대한민국의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [Dal★Shabet의](../Page/달샤벳.md "wikilink") 데뷔 음반이자 첫 EP 음반이다. 타이틀곡은 "Supa Dupa Diva"로 2011년 1월 4일 [소니 뮤직을](https://ko.wikipedia.org/wiki/소니_뮤직 "wikilink") 통해 발매되었다.
+***Supa Dupa Diva***은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [Dal★Shabet의](../Page/달샤벳.md "wikilink") 데뷔 음반이자 첫 EP 음반이다. 타이틀곡은 "Supa Dupa Diva"로 2011년 1월 4일 [소니 뮤직을](https://ko.wikipedia.org/wiki/소니_뮤직 "wikilink") 통해 발매되었다.
 
 ## 발매 과정및 활동
 

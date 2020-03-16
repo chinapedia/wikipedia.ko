@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**클라이드 FC**(Clyde Football Club, Clyde F.C.)는 [1877년](https://ko.wikipedia.org/wiki/1877년 "wikilink")에 창단된 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink") [컴버놀드](https://ko.wikipedia.org/wiki/컴버놀드 "wikilink")의 축구 클럽으로, 현재 [스코티시 리그 1에서](https://ko.wikipedia.org/wiki/스코티시_리그_1 "wikilink") 활동하고 있다.
+**클라이드 FC**(Clyde Football Club, Clyde F.C.)는 [1877년](../Page/1877년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [컴버놀드](https://ko.wikipedia.org/wiki/컴버놀드 "wikilink")의 축구 클럽으로, 현재 [스코티시 리그 1에서](https://ko.wikipedia.org/wiki/스코티시_리그_1 "wikilink") 활동하고 있다.
 
 ## 성적
 

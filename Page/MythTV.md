@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MythTV](https://ko.wikipedia.org/wiki/MythTV).
 
 
-**MythTV**는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")에서 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink")을 시청·녹화할 수 있는 소프트웨어이다.
+**MythTV**는 [리눅스](../Page/리눅스.md "wikilink")에서 [텔레비전](../Page/텔레비전.md "wikilink")을 시청·녹화할 수 있는 소프트웨어이다.
 
 ## 개요
 

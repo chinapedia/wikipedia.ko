@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SC ](https://ko.wikipedia.org/wiki/SC_).
 
 
-**SC 바스티아**(Sporting Club de Bastia, SC Bastia)는 [코르시카 섬의](https://ko.wikipedia.org/wiki/코르시카_섬 "wikilink") [바스티아](../Page/바스티아.md "wikilink")를 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 2017년 재정 문제로 인해 1부 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가한지 5 시즌만에 4개 단계 이하로 강등되어, 현재 [샹피오나 나시오날 3에](https://ko.wikipedia.org/wiki/샹피오나_나시오날_3 "wikilink") 참가중이다. 바스티아 내에 위치한 [스타드 아르망 세사리를](https://ko.wikipedia.org/wiki/스타드_아르망_세사리 "wikilink") 연고로 한다.
+**SC 바스티아**(Sporting Club de Bastia, SC Bastia)는 [코르시카 섬의](https://ko.wikipedia.org/wiki/코르시카_섬 "wikilink") [바스티아](../Page/바스티아.md "wikilink")를 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 2017년 재정 문제로 인해 1부 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가한지 5 시즌만에 4개 단계 이하로 강등되어, 현재 [샹피오나 나시오날 3에](https://ko.wikipedia.org/wiki/샹피오나_나시오날_3 "wikilink") 참가중이다. 바스티아 내에 위치한 [스타드 아르망 세사리를](https://ko.wikipedia.org/wiki/스타드_아르망_세사리 "wikilink") 연고로 한다.
 
-바스티아의 클럽 역사상 최고 성적은 [UEFA컵 1977-78](https://ko.wikipedia.org/wiki/UEFA컵_1977-78 "wikilink") 시즌 준결승에 오른 것이였다. 팀은 아쉽게도 네덜란드 클럽 [PSV 에인트호번에](https://ko.wikipedia.org/wiki/PSV_에인트호번 "wikilink") 지고 말았다(홈에서 0-0 무승부, 원정에서 3-0 패배). 국내에서는 [2부 리그를](../Page/리그_2.md "wikilink") 1968년과 2012년에 두 차례, [쿠프 드 프랑스를](../Page/쿠프_드_프랑스.md "wikilink") 1981년에 한 차례 우승한 바가 있다. 클럽 초창기 시절에는 "코르시카 리그"를 17 차례 우승했었다. 바스티아의 라이벌은 경쟁 상대는 [아작시오이고](../Page/AC_아작시오.md "wikilink") 그들 간의 더비 경기를 [코르시카 더비라고](https://ko.wikipedia.org/wiki/코르시카_더비 "wikilink") 부른다.
+바스티아의 클럽 역사상 최고 성적은 [UEFA컵 1977-78](https://ko.wikipedia.org/wiki/UEFA컵_1977-78 "wikilink") 시즌 준결승에 오른 것이였다. 팀은 아쉽게도 네덜란드 클럽 [PSV 에인트호번에](../Page/PSV_에인트호번.md "wikilink") 지고 말았다(홈에서 0-0 무승부, 원정에서 3-0 패배). 국내에서는 [2부 리그를](../Page/리그_2.md "wikilink") 1968년과 2012년에 두 차례, [쿠프 드 프랑스를](../Page/쿠프_드_프랑스.md "wikilink") 1981년에 한 차례 우승한 바가 있다. 클럽 초창기 시절에는 "코르시카 리그"를 17 차례 우승했었다. 바스티아의 라이벌은 경쟁 상대는 [아작시오이고](../Page/AC_아작시오.md "wikilink") 그들 간의 더비 경기를 [코르시카 더비라고](https://ko.wikipedia.org/wiki/코르시카_더비 "wikilink") 부른다.
 
 바스티아는 2001년 이후로 프랑스의 사업가 피에르마리 제로니미(Pierre-Marie Geronimi)가 소유하고 있다.
 

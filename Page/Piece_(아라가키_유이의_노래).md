@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Piece \(  \)](https://ko.wikipedia.org/wiki/Piece_\(__\)).
 
 
-**Piece**는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 25일에](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") 발매 된 [아라가키 유이의](../Page/아라가키_유이.md "wikilink") 세 번째 싱글이다.
+**Piece**는 [2009년](../Page/2009년.md "wikilink") [2월 25일에](../Page/2월_25일.md "wikilink") 발매 된 [아라가키 유이의](../Page/아라가키_유이.md "wikilink") 세 번째 싱글이다.
 
 ## 트랙 리스트
 

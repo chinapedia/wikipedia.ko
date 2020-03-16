@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 노르셸란**(FC Nordsjælland)은 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink") [파룸](https://ko.wikipedia.org/wiki/파룸 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [수페르리가에서](../Page/덴마크_수페르리가.md "wikilink") 활동하고 있다.
+**FC 노르셸란**(FC Nordsjælland)은 [덴마크](../Page/덴마크.md "wikilink") [파룸](https://ko.wikipedia.org/wiki/파룸 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페르리가에서](../Page/덴마크_수페르리가.md "wikilink") 활동하고 있다.
 
 ## 성적
 

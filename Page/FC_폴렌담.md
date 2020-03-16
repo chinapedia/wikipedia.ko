@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Kras_stadion.JPG "wikilink") **FC 폴렌담**(Football Club Volendam, FC Volendam)은 [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [6월 1일에](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") 창단된 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") [폴렌담](https://ko.wikipedia.org/wiki/폴렌담 "wikilink")의 축구 클럽으로, 현재 [에이르스터 디비시에서](https://ko.wikipedia.org/wiki/에이르스터_디비시 "wikilink") 활동하고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Kras_stadion.JPG "wikilink") **FC 폴렌담**(Football Club Volendam, FC Volendam)은 [1977년](../Page/1977년.md "wikilink") [6월 1일에](../Page/6월_1일.md "wikilink") 창단된 [네덜란드](../Page/네덜란드.md "wikilink") [폴렌담](https://ko.wikipedia.org/wiki/폴렌담 "wikilink")의 축구 클럽으로, 현재 [에이르스터 디비시에서](../Page/에이르스터_디비시.md "wikilink") 활동하고 있다.
 
 ## 성적
 
@@ -9,7 +9,7 @@
   -
 ## 유명 선수
 
-  - [안드레 오이여르](https://ko.wikipedia.org/wiki/안드레_오이여르 "wikilink")
+  - [안드레 오이여르](../Page/안드레_오이여르.md "wikilink")
 
   - [미하얼 레이지허르](https://ko.wikipedia.org/wiki/미하얼_레이지허르 "wikilink")
 

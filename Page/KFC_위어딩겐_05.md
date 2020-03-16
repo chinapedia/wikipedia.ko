@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KFC  05](https://ko.wikipedia.org/wiki/KFC__05).
 
 
-**KFC 위어딩엔 05**(KFC Uerdingen 05)는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [노르트라인베스트팔렌주](https://ko.wikipedia.org/wiki/노르트라인베스트팔렌주 "wikilink")의 도시 [크레펠트](https://ko.wikipedia.org/wiki/크레펠트 "wikilink")의 축구 클럽으로, 현재 독일 3.Liga에서 활동하고 있다.
+**KFC 위어딩엔 05**(KFC Uerdingen 05)는 [독일](../Page/독일.md "wikilink") [노르트라인베스트팔렌주](../Page/노르트라인베스트팔렌주.md "wikilink")의 도시 [크레펠트](../Page/크레펠트.md "wikilink")의 축구 클럽으로, 현재 독일 3.Liga에서 활동하고 있다.
 
 ## 성적
 
@@ -14,9 +14,9 @@
 
   - [토마시 쿠슈차크](../Page/토마시_쿠슈차크.md "wikilink")
 
-  - [브리안 라우드루프](https://ko.wikipedia.org/wiki/브리안_라우드루프 "wikilink")
+  - [브리안 라우드루프](../Page/브리안_라우드루프.md "wikilink")
 
-  - [스테판 샤퓌자](https://ko.wikipedia.org/wiki/스테판_샤퓌자 "wikilink")
+  - [스테판 샤퓌자](../Page/스테판_샤퓌자.md "wikilink")
 
   - [아일톤](https://ko.wikipedia.org/wiki/아일톤_곤살베스_다_시우바 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOVE one.](https://ko.wikipedia.org/wiki/LOVE_one.).
 
 
-**LOVE one.**(러브 원)은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 24일에](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") 발매 된 [니시노 카나의](https://ko.wikipedia.org/wiki/니시노_카나 "wikilink") 첫 번째 정규 음반이다. 초회반에는 이전에 발매된 6장의 싱글의 [뮤직 비디오](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")가 수록되어 있다.
+**LOVE one.**(러브 원)은 [2009년](../Page/2009년.md "wikilink") [6월 24일에](../Page/6월_24일.md "wikilink") 발매 된 [니시노 카나의](../Page/니시노_카나.md "wikilink") 첫 번째 정규 음반이다. 초회반에는 이전에 발매된 6장의 싱글의 [뮤직 비디오](../Page/뮤직_비디오.md "wikilink") [DVD](../Page/DVD.md "wikilink")가 수록되어 있다.
 
 ## 수록곡
 

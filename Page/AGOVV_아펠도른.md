@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [AGOVV ](https://ko.wikipedia.org/wiki/AGOVV_).
 
 
-**AGOVV 아펠도른**(AGOVV Apeldoorn)은 [1913년](https://ko.wikipedia.org/wiki/1913년 "wikilink") [2월 25일에](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") 창단된 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") [아펠도른](https://ko.wikipedia.org/wiki/아펠도른 "wikilink")의 축구 클럽이었다.
+**AGOVV 아펠도른**(AGOVV Apeldoorn)은 [1913년](../Page/1913년.md "wikilink") [2월 25일에](../Page/2월_25일.md "wikilink") 창단된 [네덜란드](../Page/네덜란드.md "wikilink") [아펠도른](../Page/아펠도른.md "wikilink")의 축구 클럽이었다.
 
-2012-13 [에이르스터 디비시에서](https://ko.wikipedia.org/wiki/에이르스터_디비시 "wikilink") 활동하였다.
+2012-13 [에이르스터 디비시에서](../Page/에이르스터_디비시.md "wikilink") 활동하였다.
 
 2013년 파산하면서, 팀은 분해되고, 당시 선수들은 모두 자유계약 선수로 풀려나게 되면서, 역사속으로 사라지게 된다.
 

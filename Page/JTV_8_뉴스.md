@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [JTV 8 ](https://ko.wikipedia.org/wiki/JTV_8_).
 
 
-**JTV 8 뉴스**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [JTV](https://ko.wikipedia.org/wiki/JTV "wikilink")에서 평일 저녁 8시 35분, 주말 저녁 8시 30분에 방송되는 [전주방송의 메인뉴스 프로그램이다](https://ko.wikipedia.org/wiki/전주방송의_뉴스_프로그램 "wikilink").
+**JTV 8 뉴스**는 [대한민국](../Page/대한민국.md "wikilink") [JTV](https://ko.wikipedia.org/wiki/JTV "wikilink")에서 평일 저녁 8시 35분, 주말 저녁 8시 30분에 방송되는 [전주방송의 메인뉴스 프로그램이다](https://ko.wikipedia.org/wiki/전주방송의_뉴스_프로그램 "wikilink").
 
 ## 타이틀
 
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") : JTV 뉴스 & 뉴스 (평일·주말)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") \~ 현재 : JTV 8 뉴스 (평일·주말)
+  - [1997년](../Page/1997년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") : JTV 뉴스 & 뉴스 (평일·주말)
+  - [2012년](../Page/2012년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ 현재 : JTV 8 뉴스 (평일·주말)
 
 ## 앵커
 
@@ -27,7 +27,7 @@
 ## 같이 보기
 
   - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 전북권 \<[KBS전주](../Page/KBS전주방송총국.md "wikilink")\>
-  - [MBC 뉴스데스크](https://ko.wikipedia.org/wiki/MBC_뉴스데스크 "wikilink") 전북권뉴스(전주MBC 뉴스데스크) \<[전주문화방송](../Page/전주문화방송.md "wikilink")\>
+  - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 전북권뉴스(전주MBC 뉴스데스크) \<[전주문화방송](../Page/전주문화방송.md "wikilink")\>
 
 ## 외부 링크
 

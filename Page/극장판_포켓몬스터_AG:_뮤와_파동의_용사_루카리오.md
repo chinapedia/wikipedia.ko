@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  AG:    ](https://ko.wikipedia.org/wiki/__AG:____).
 
 
-〈**뮤와 파도의 용사 루카리오**〉(劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ)는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 16일에](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") 개봉된 [TV 애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")〈[포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제8기이다.
+〈**뮤와 파도의 용사 루카리오**〉(劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ)는 [2005년](../Page/2005년.md "wikilink") [7월 16일에](../Page/7월_16일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink")〈[포켓몬스터](../Page/포켓몬스터.md "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제8기이다.
 
 ## 줄거리
 
@@ -10,13 +10,13 @@
 ## 등장인물
 
   - 아론
-    성우 - / [최원형](https://ko.wikipedia.org/wiki/최원형 "wikilink")
+    성우 - / [최원형](../Page/최원형.md "wikilink")
     올드렌 성을 지키는 파동의 힘을 부릴 줄 아는 파동술사. 루카리오를 파트너이자 제자로 두고 있었다. 성이 전쟁에 휘말려 멸망 위기에 처하자, 루카리오를 지팡이에 봉인하고 세계가 시작하는 나무의 힘을 이용하여 증오와 분노를 깨끗이 가라앉혔다.
 
 <!-- end list -->
 
   - [루카리오](../Page/루카리오.md "wikilink")
-    성우 - [나미카와 다이스케](https://ko.wikipedia.org/wiki/나미카와_다이스케 "wikilink") / [전광주](../Page/전광주.md "wikilink")
+    성우 - [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink") / [전광주](../Page/전광주.md "wikilink")
     파동술사 아론의 제자이자 파트너였다. 전쟁에 휘말릴 것을 알고 아론에게 보고하지만 결국 자신은 강제로 아론에 의해 봉인당해졌다. 지우에게서 아론과 같은 파동이 느껴진다고 깨어났지만 오랜 세월로 인하여 많이 바뀌어버린 올드렌 성과 세상에 혼란을 겪기도 한다. 아론의 대한 의심과 오해에서 생겨난 차갑고 냉소적인 성격 때문에 지우와 대립한다.
 
 <!-- end list -->
@@ -29,12 +29,12 @@
 
   - 키드 서머스
     성우 - [베키](https://ko.wikipedia.org/wiki/베키 "wikilink") / [유지원](https://ko.wikipedia.org/wiki/유지원 "wikilink")
-    아론 축제의 포켓몬 시합 토너먼트에 참가했으나 결승전에서 아쉽게도 지우와 [피카츄](https://ko.wikipedia.org/wiki/피카츄 "wikilink")에게 패배했다. 꽤나 오버하기를 좋아하고 촐랑거리는 [포푸니라](https://ko.wikipedia.org/wiki/포푸니라 "wikilink") 2마리를 파트너로 뒀다. 열기구 세계 일주 최다 기록, 1인용 잠수 탐사정 해저 탐사 최다 기록, 단독 우주 유영 최다 기록 등등 못하는 것이 없어뵈는 운동력이 뛰어나고 활발한 여자. 우주 도시에 살고 있는 방크스와 연락을 취하며 세계가 시작하는 나무에 대해 조사하기 위해 지우 일행과 모험을 동참한다.
+    아론 축제의 포켓몬 시합 토너먼트에 참가했으나 결승전에서 아쉽게도 지우와 [피카츄](../Page/피카츄.md "wikilink")에게 패배했다. 꽤나 오버하기를 좋아하고 촐랑거리는 [포푸니라](https://ko.wikipedia.org/wiki/포푸니라 "wikilink") 2마리를 파트너로 뒀다. 열기구 세계 일주 최다 기록, 1인용 잠수 탐사정 해저 탐사 최다 기록, 단독 우주 유영 최다 기록 등등 못하는 것이 없어뵈는 운동력이 뛰어나고 활발한 여자. 우주 도시에 살고 있는 방크스와 연락을 취하며 세계가 시작하는 나무에 대해 조사하기 위해 지우 일행과 모험을 동참한다.
 
 <!-- end list -->
 
   - 방크스
-    성우 - [아오노 다케시](https://ko.wikipedia.org/wiki/아오노_다케시_\(성우\) "wikilink") / [강구한](../Page/강구한.md "wikilink")
+    성우 - [아오노 다케시](../Page/아오노_다케시_\(성우\).md "wikilink") / [강구한](../Page/강구한.md "wikilink")
     우주 도시의 고층 빌딩에 살고 있으며 키드와 연락을 취한다. 느긋해 뵈며, 야채를 싫어하는 듯. 키드가 모르는 것을 영상으로 보내주면 빠르게 조사하여 응답해준다.
 
 [분류:2005년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2005년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink")

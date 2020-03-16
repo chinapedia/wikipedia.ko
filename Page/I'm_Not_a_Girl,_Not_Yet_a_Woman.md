@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I\'m Not a Girl, Not Yet a Woman](https://ko.wikipedia.org/wiki/I\'m_Not_a_Girl,_Not_Yet_a_Woman).
 
 
-"**I'm Not a Girl, Not Yet a Woman**"는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 세 번째 음반 *[Britney](https://ko.wikipedia.org/wiki/Britney_\(음반\) "wikilink")*의 싱글이다. 뮤직비디오는 [그랜드 캐니언에서](https://ko.wikipedia.org/wiki/그랜드_캐니언 "wikilink") 촬영하였다. 영화 [크로스로드의](https://ko.wikipedia.org/wiki/크로스로드_\(2002년_영화\) "wikilink") [삽입곡](https://ko.wikipedia.org/wiki/삽입곡 "wikilink")으로도 알려져 있다.
+"**I'm Not a Girl, Not Yet a Woman**"는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 세 번째 음반 *[Britney](../Page/Britney_\(음반\).md "wikilink")*의 싱글이다. 뮤직비디오는 [그랜드 캐니언에서](../Page/그랜드_캐니언.md "wikilink") 촬영하였다. 영화 [크로스로드의](../Page/크로스로드_\(2002년_영화\).md "wikilink") [삽입곡](https://ko.wikipedia.org/wiki/삽입곡 "wikilink")으로도 알려져 있다.
 
 ## 트랙리스트
 

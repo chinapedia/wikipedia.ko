@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  -Project DIVA-](https://ko.wikipedia.org/wiki/__-Project_DIVA-).
 
 
-《**하츠네 미쿠 -Project DIVA-**》 (하츠네 미쿠 프로젝트 디바, )는, [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 발매된 [리듬 게임이다](https://ko.wikipedia.org/wiki/리듬_게임 "wikilink"). 음원 합성 소프트웨어인〈[하츠네 미쿠](../Page/하츠네_미쿠.md "wikilink")〉에 설정된 버추얼 아이돌 캐릭터를 사용한 캐릭터 게임이기도 하다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 2일](https://ko.wikipedia.org/wiki/7월_2일 "wikilink")\[1\]에 [PlayStation Portable](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 전용 소프트웨어로 발매되었다. 또한, [아케이드 게임판](../Page/아케이드_게임.md "wikilink") 《**하츠네 미쿠 Project DIVA Arcade**》가 2010년 6월 23일부터 정식 기동되었다\[2\]. 또한, 2010년 7월 29일에는 속편인 《**하츠네 미쿠 -Project DIVA- 2nd**》가 발매되었다.
+《**하츠네 미쿠 -Project DIVA-**》 (하츠네 미쿠 프로젝트 디바, )는, [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 발매된 [리듬 게임이다](../Page/리듬_게임.md "wikilink"). 음원 합성 소프트웨어인〈[하츠네 미쿠](../Page/하츠네_미쿠.md "wikilink")〉에 설정된 버추얼 아이돌 캐릭터를 사용한 캐릭터 게임이기도 하다. [2009년](../Page/2009년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink")\[1\]에 [PlayStation Portable](../Page/플레이스테이션_포터블.md "wikilink") 전용 소프트웨어로 발매되었다. 또한, [아케이드 게임판](../Page/아케이드_게임.md "wikilink") 《**하츠네 미쿠 Project DIVA Arcade**》가 2010년 6월 23일부터 정식 기동되었다\[2\]. 또한, 2010년 7월 29일에는 속편인 《**하츠네 미쿠 -Project DIVA- 2nd**》가 발매되었다.
 
 앞으로 《하츠네 미쿠 -Project DIVA-》는 〈1st〉로, 《하츠네 미쿠 -Project DIVA- 2nd》는 〈2nd〉로 기술한다.
 
@@ -25,11 +25,11 @@
 
 ## 개요
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")에 [크립톤 퓨처 미디어에서](../Page/크립톤_퓨처_미디어.md "wikilink") 발매된 하츠네 미쿠는 합성음원에 의한 노랫소리를 사용하여 연주할 수 있는 [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")용 [신시사이저](https://ko.wikipedia.org/wiki/신시사이저 "wikilink") 소프트웨어로 소프트웨어 전용으로 작성된 악곡이나, 해당 목소리를 가졌다고 표현된 버추얼 아이돌 캐릭터가 큰 인기를 끌었다.(자세한 사항은 [하츠네 미쿠의](../Page/하츠네_미쿠.md "wikilink") 기사를 참고) 이 작품에서는 게임의 주요 인물로 하츠네 미쿠의 캐릭터가 등장하며, 〈하츠네 미쿠〉의 합성음원으로 만들어진 악곡을 사용한 리듬 액션 게임을 즐기거나, 미쿠 캐릭터의 복장을 갈아입히거나, 방에서 느긋하게 쉬고 있는 미쿠의 상태를 관찰한다는 것이 이 작품의 취지이다. 이 작품은 어디까지나 캐릭터를 사용한 게임으로, 음성합성 소프트웨어인 〈하츠네 미쿠〉의 이식작품이 아니기 때문에, 합성 음성으로 가사나 멜로디를 입히는 [DTM](https://ko.wikipedia.org/wiki/DTM "wikilink") 소프트웨어의 기능은 존재하지 않지만\[3\], 애당초 하츠네 미쿠는 작곡을 하기 위한 소프트웨어이기 때문에, 창작적인 행위를 할 수 있도록 하는 의도를 담아\[4\]\[5\], 모션을 짜맞춰 미쿠가 노래하고 춤추는 영상을 만든다든지\[6\]\[7\], 자신이 준비해둔 음원을 사용하여 독자적인 리듬게임을 만들 수 있는 모드가 준비되어 있다\[8\].
+[2007년](../Page/2007년.md "wikilink") [8월](../Page/8월.md "wikilink")에 [크립톤 퓨처 미디어에서](../Page/크립톤_퓨처_미디어.md "wikilink") 발매된 하츠네 미쿠는 합성음원에 의한 노랫소리를 사용하여 연주할 수 있는 [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")용 [신시사이저](../Page/신시사이저.md "wikilink") 소프트웨어로 소프트웨어 전용으로 작성된 악곡이나, 해당 목소리를 가졌다고 표현된 버추얼 아이돌 캐릭터가 큰 인기를 끌었다.(자세한 사항은 [하츠네 미쿠의](../Page/하츠네_미쿠.md "wikilink") 기사를 참고) 이 작품에서는 게임의 주요 인물로 하츠네 미쿠의 캐릭터가 등장하며, 〈하츠네 미쿠〉의 합성음원으로 만들어진 악곡을 사용한 리듬 액션 게임을 즐기거나, 미쿠 캐릭터의 복장을 갈아입히거나, 방에서 느긋하게 쉬고 있는 미쿠의 상태를 관찰한다는 것이 이 작품의 취지이다. 이 작품은 어디까지나 캐릭터를 사용한 게임으로, 음성합성 소프트웨어인 〈하츠네 미쿠〉의 이식작품이 아니기 때문에, 합성 음성으로 가사나 멜로디를 입히는 [DTM](https://ko.wikipedia.org/wiki/DTM "wikilink") 소프트웨어의 기능은 존재하지 않지만\[3\], 애당초 하츠네 미쿠는 작곡을 하기 위한 소프트웨어이기 때문에, 창작적인 행위를 할 수 있도록 하는 의도를 담아\[4\]\[5\], 모션을 짜맞춰 미쿠가 노래하고 춤추는 영상을 만든다든지\[6\]\[7\], 자신이 준비해둔 음원을 사용하여 독자적인 리듬게임을 만들 수 있는 모드가 준비되어 있다\[8\].
 
 표지는, 하츠네 미쿠의 캐릭터 디자인을 담당했던 [KEI](https://ko.wikipedia.org/wiki/KEI "wikilink")가 담당하였다.\[9\] 게임에는 미쿠의 대사도 있으며\[10\], 음성 합성 소프트웨어 하츠네 미쿠의 목소리 라이브러리를 담당한 성우, [후지타 사키가](../Page/후지타_사키.md "wikilink") 출연한다\[11\]. 하츠네 미쿠의 모션 액터는 [오구라 유이](../Page/오구라_유이.md "wikilink").
 
-이 작품에는, Web에서의 [CGM](https://ko.wikipedia.org/wiki/Consumer_Generated_Media "wikilink")(소비자 생산 미디어)가 중심역할을 하는 하츠네 미쿠의 붐을 반영해, [니코니코 동화를](../Page/니코니코_동화.md "wikilink") 통해 발표되어 화제가 되었던 악곡이나、팬의 창작에 의해 만들어진 설정이나 관련 캐릭터도 게임에 삽입되었다. 또한, 크립톤사가 운영하는 영상 업로드 사이트 〈[피아프로](https://ko.wikipedia.org/wiki/피아프로 "wikilink")〉와의 콜라보레이션을 기획하여, 이 게임을 위한 악곡이나 복장, 로딩 화면등에 사용된 일러스트의 모집을 받아, 게임에 사용하였다\[12\] 모집에는 총 2천명 이상의 사람이 참여했다\[13\].
+이 작품에는, Web에서의 [CGM](https://ko.wikipedia.org/wiki/Consumer_Generated_Media "wikilink")(소비자 생산 미디어)가 중심역할을 하는 하츠네 미쿠의 붐을 반영해, [니코니코 동화를](../Page/니코니코_동화.md "wikilink") 통해 발표되어 화제가 되었던 악곡이나、팬의 창작에 의해 만들어진 설정이나 관련 캐릭터도 게임에 삽입되었다. 또한, 크립톤사가 운영하는 영상 업로드 사이트 〈[피아프로](../Page/피아프로.md "wikilink")〉와의 콜라보레이션을 기획하여, 이 게임을 위한 악곡이나 복장, 로딩 화면등에 사용된 일러스트의 모집을 받아, 게임에 사용하였다\[12\] 모집에는 총 2천명 이상의 사람이 참여했다\[13\].
 
 《1st》가 발표된 후 1주일동안 10.1만장의 매출을 기록했으며, 미디어 크리에이트에서 조사한 전국 게임 소프트웨어 판매 랭킹에서 1주 랭킹 2위를 기록했다(PSP용 소프트웨어 부문에서는 주간 1위)\[14\]. 세가에서 이루어진 집계 결과에서는, 니코니코 동화나 공식 사이트에서 해당 소프트웨어를 알게 되었다는 답변이 주를 이루었다고 하며, 인터넷 상에서의 열풍이 반영되었다는 점이 커다란 의미가 있다\[15\].
 
@@ -43,9 +43,9 @@
 
 ### 코스튬이나 미쿠룸의 커스터마이즈
 
-이 작품에서는, 미쿠의 복장을 갈아입히거나, [플레이어 캐릭터의](../Page/플레이어_캐릭터.md "wikilink") 모습을 미쿠 이외의 캐릭터로 변경할 수 있다\[23\]\[24\]. 변경 가능한 캐릭터는, [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink") 기술을 사용한 크립톤 사의 상품인 〈[카가미네 린·렌](../Page/카가미네_린·렌.md "wikilink")〉〈[메구리네 루카](https://ko.wikipedia.org/wiki/메구리네_루카 "wikilink")〉〈[KAITO](../Page/KAITO.md "wikilink")〉〈[MEIKO](https://ko.wikipedia.org/wiki/MEIKO "wikilink")〉, 또한, 팬들의 창작 활동에 의해 생겨난 관련 캐릭터인 〈요와네 하쿠〉〈아키타 네루〉〈사키네 메이코〉(자세한 사항은 [VOCALOID의 파생 캐릭터를](https://ko.wikipedia.org/wiki/VOCALOID의_파생_캐릭터 "wikilink") 참고)가 있으며,\[25\] 미쿠 대신 위 캐릭터들을 조작할 수 있다.
+이 작품에서는, 미쿠의 복장을 갈아입히거나, [플레이어 캐릭터의](../Page/플레이어_캐릭터.md "wikilink") 모습을 미쿠 이외의 캐릭터로 변경할 수 있다\[23\]\[24\]. 변경 가능한 캐릭터는, [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink") 기술을 사용한 크립톤 사의 상품인 〈[카가미네 린·렌](../Page/카가미네_린·렌.md "wikilink")〉〈[메구리네 루카](../Page/메구리네_루카.md "wikilink")〉〈[KAITO](../Page/KAITO.md "wikilink")〉〈[MEIKO](../Page/MEIKO.md "wikilink")〉, 또한, 팬들의 창작 활동에 의해 생겨난 관련 캐릭터인 〈요와네 하쿠〉〈아키타 네루〉〈사키네 메이코〉(자세한 사항은 [VOCALOID의 파생 캐릭터를](https://ko.wikipedia.org/wiki/VOCALOID의_파생_캐릭터 "wikilink") 참고)가 있으며,\[25\] 미쿠 대신 위 캐릭터들을 조작할 수 있다.
 
-《1st》의 경우, 미쿠의 복장은 기본 복장 이외에 39가지가 있으며\[26\], 의상의 종류의 숫자는 〈39〉가 〈미쿠〉라고 읽힌다는 점에서 유래했다\[27\]. 이 의상들은 피아프로에서 위 작품에 사용하기 위해 공모된 작품에서 다수 수록되어있거나\[28\], 세가의 타 작품에서 등장하는 인물인, 《[스페이스 채널 5](https://ko.wikipedia.org/wiki/스페이스_채널_5 "wikilink")》의 우라라나 《[전장의 발큐리아](https://ko.wikipedia.org/wiki/전장의_발큐리아 "wikilink")》의 아리시아의 복장을 흉내낸 코스튬이 준비되어 있다\[29\].
+《1st》의 경우, 미쿠의 복장은 기본 복장 이외에 39가지가 있으며\[26\], 의상의 종류의 숫자는 〈39〉가 〈미쿠〉라고 읽힌다는 점에서 유래했다\[27\]. 이 의상들은 피아프로에서 위 작품에 사용하기 위해 공모된 작품에서 다수 수록되어있거나\[28\], 세가의 타 작품에서 등장하는 인물인, 《[스페이스 채널 5](https://ko.wikipedia.org/wiki/스페이스_채널_5 "wikilink")》의 우라라나 《[전장의 발큐리아](../Page/전장의_발큐리아.md "wikilink")》의 아리시아의 복장을 흉내낸 코스튬이 준비되어 있다\[29\].
 
 《2nd》에서는 《1st》에서 사용할 수 있던 복장과, 린, 렌, 루카, KAITO, MEIKO 의 복장도 준비되어 있어, 더더욱 VOCALOID에서 저명한 일러스트레이터들이 그린 모듈이 준비되어 있다. 또한, 세가의 타 게임에 등장하는 인물인, 《[엔드 오브 이터니티](https://ko.wikipedia.org/wiki/엔드_오브_이터니티 "wikilink")》의 린벨(카가미네 린 전용)이나 《[버추얼 파이터](https://ko.wikipedia.org/wiki/버추얼_파이터 "wikilink")》의 사라 브라이언트(메구리네 루카 전용)의 의상을 흉내낸 코스튬이 등장한다\[30\].
 
@@ -53,7 +53,7 @@
 
 ### 리듬 게임의 편집
 
-〈에디트 모드〉에서는, 준비된 안무나 배경등을 노래와 맞게 편집하여, 미쿠의 [프로모션 비디오를](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 만들 수 있으며, 만든 영상에 리듬 패턴을 더해 독자적인 리듬 게임을 만들 수 있다\[32\]\[33\]. 노래는 [게임에 기본적으로 수록되어 있는 곡](https://ko.wikipedia.org/wiki/#수록곡 "wikilink") 이외에도, [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")데이터로 저장된 곡을 사용할 수 있다\[34\]. 안무는 준비된 모션을 조합하여 사용한다\[35\].
+〈에디트 모드〉에서는, 준비된 안무나 배경등을 노래와 맞게 편집하여, 미쿠의 [프로모션 비디오를](../Page/뮤직_비디오.md "wikilink") 만들 수 있으며, 만든 영상에 리듬 패턴을 더해 독자적인 리듬 게임을 만들 수 있다\[32\]\[33\]. 노래는 [게임에 기본적으로 수록되어 있는 곡](https://ko.wikipedia.org/wiki/#수록곡 "wikilink") 이외에도, [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")데이터로 저장된 곡을 사용할 수 있다\[34\]. 안무는 준비된 모션을 조합하여 사용한다\[35\].
 
 이 모드에는, 자신이 만들어낸 영상을 공개하거나\[36\], 창작 툴로서의 기능이 준비되어 있으며\[37\]\[38\]\[39\], 게임을 완전히 플레이한 뒤에도 오랫동안 즐길 수 있도록 하려는 의도가 담겨있다\[40\]. 게다가, 〈2nd〉에서는, 모션의 개수가 늘어서 보다 긴 곡의 편집이 가능해졌다. 이 작품에서는 비공식적이지만, 배경을 [블루 백으로](https://ko.wikipedia.org/wiki/블루_백 "wikilink") 할 수 있으며, 일정 수준 이상의 영상 편집 기술이 있다면 게임 외의 영상과 조합하여 [크로마 키](../Page/크로마_키.md "wikilink") 합성의 소재로 사용할 수도 있다\[41\].
 
@@ -114,7 +114,7 @@
   - [캐릭터 게임](https://ko.wikipedia.org/wiki/캐릭터_게임 "wikilink")
   - [탤런트 게임](https://ko.wikipedia.org/wiki/탤런트_게임 "wikilink")
   - [케이온\! 방과후 라이브\!\!](../Page/케이온!_방과후_라이브!!.md "wikilink") - 같은 회사의 리듬 게임
-  - [LYNX 3D(SH-03C)](https://ko.wikipedia.org/wiki/SH-03C "wikilink") - 3D액정을 사용한, 하츠네 미쿠 -Project DIVA 3D- 의 애플리케이션이 설치되어 있다 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink").
+  - [LYNX 3D(SH-03C)](https://ko.wikipedia.org/wiki/SH-03C "wikilink") - 3D액정을 사용한, 하츠네 미쿠 -Project DIVA 3D- 의 애플리케이션이 설치되어 있다 [스마트폰](../Page/스마트폰.md "wikilink").
   - [하츠네 미쿠 and Future Stars Project mirai](../Page/하츠네_미쿠_and_Future_Stars_Project_mirai.md "wikilink")
 
 ## 주해

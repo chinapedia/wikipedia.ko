@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Forever Love \( \)](https://ko.wikipedia.org/wiki/Forever_Love_\(_\)).
 
 
-〈**Forever Love**〉(포에버 러브)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 아이돌 댄스 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 14번째 싱글 음반이다.
+〈**Forever Love**〉(포에버 러브)는 [대한민국](../Page/대한민국.md "wikilink")의 아이돌 댄스 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 14번째 싱글 음반이다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Process.h](https://ko.wikipedia.org/wiki/Process.h).
 
 
-**process.h**는 스레드와 프로세스 작업에 쓰이는 함수 정의와 매크로가 포함된 C 언어의 [헤더 파일이다](../Page/헤더_파일.md "wikilink"). [ANSI/ISO C나](../Page/ANSI_C.md "wikilink") [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") 표준에서는 헤더 파일 또는 함수가 구현되어 있지 않다. 수많은 C 컴파일러는 [도스](https://ko.wikipedia.org/wiki/도스 "wikilink"), [윈도 3.1x](https://ko.wikipedia.org/wiki/윈도_3.1x "wikilink"), [Win32](https://ko.wikipedia.org/wiki/윈도_API "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [넷웨어](../Page/넷웨어.md "wikilink"), [도스 익스텐더에](https://ko.wikipedia.org/wiki/도스_익스텐더 "wikilink") 적용할 자신의 라이브러리의 헤더 파일과 라이브러리 함수에 타겟이 맞춰져 있다.
+**process.h**는 스레드와 프로세스 작업에 쓰이는 함수 정의와 매크로가 포함된 C 언어의 [헤더 파일이다](../Page/헤더_파일.md "wikilink"). [ANSI/ISO C나](../Page/ANSI_C.md "wikilink") [POSIX](../Page/POSIX.md "wikilink") 표준에서는 헤더 파일 또는 함수가 구현되어 있지 않다. 수많은 C 컴파일러는 [도스](../Page/도스.md "wikilink"), [윈도 3.1x](https://ko.wikipedia.org/wiki/윈도_3.1x "wikilink"), [Win32](https://ko.wikipedia.org/wiki/윈도_API "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [넷웨어](../Page/넷웨어.md "wikilink"), [도스 익스텐더에](https://ko.wikipedia.org/wiki/도스_익스텐더 "wikilink") 적용할 자신의 라이브러리의 헤더 파일과 라이브러리 함수에 타겟이 맞춰져 있다.
 
 ## 역사
 

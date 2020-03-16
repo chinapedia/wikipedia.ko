@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DC ](https://ko.wikipedia.org/wiki/DC_).
 
 
-**DC 코믹스**()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink") 중심 관련 [출판사](https://ko.wikipedia.org/wiki/출판사 "wikilink")이며, [워너 브라더스의](../Page/워너_브라더스.md "wikilink") 자회사인 [DC 엔터테인먼트의](https://ko.wikipedia.org/wiki/DC_엔터테인먼트 "wikilink") 출판 부문으로 현재, [워너미디어](../Page/워너미디어.md "wikilink")가 소유하고 있다. [1934년](https://ko.wikipedia.org/wiki/1934년 "wikilink") 내셔널 얼라이드 퍼블리케이션스(National Allied Publications)로 설립되었으며 상호의 DC는 인기 시리즈인 《디텍티브 코믹스》(*Detective Comics*)에서 유래하였다. [슈퍼맨](https://ko.wikipedia.org/wiki/슈퍼맨 "wikilink"), [배트맨](https://ko.wikipedia.org/wiki/배트맨 "wikilink"), [원더 우먼](https://ko.wikipedia.org/wiki/원더_우먼 "wikilink"), [그린 랜턴](https://ko.wikipedia.org/wiki/그린_랜턴 "wikilink") 등의 유명 [캐릭터](https://ko.wikipedia.org/wiki/캐릭터 "wikilink")를 보유하고 있으며, 슈퍼맨의 숙적 [렉스 루터나](https://ko.wikipedia.org/wiki/렉스_루터 "wikilink") 배트맨의 숙적 [조커](https://ko.wikipedia.org/wiki/조커_\(DC_코믹스\) "wikilink") 등의 [빌런](https://ko.wikipedia.org/wiki/빌런 "wikilink") 캐릭터도 보유하고 있다. [DC 유니버스라고](https://ko.wikipedia.org/wiki/DC_유니버스 "wikilink") 불리는 세계관은 [저스티스 리그](https://ko.wikipedia.org/wiki/저스티스_리그 "wikilink"),[수어사이드 스쿼드](https://ko.wikipedia.org/wiki/수어사이드_스쿼드 "wikilink"), 저스티스 소사이어티 오브 아메리카, 틴 타이탄스 등의 수퍼히어로 팀을 포함하고 있다. 한편 대안 출판 브랜드인 [버티고에서](https://ko.wikipedia.org/wiki/버티고_\(DC_레코드\) "wikilink") DC 유니버스와 관련되지 않은 《[왓치맨](https://ko.wikipedia.org/wiki/왓치맨 "wikilink")》, 《[브이 포 벤데타](https://ko.wikipedia.org/wiki/브이_포_벤데타 "wikilink")》 등의 타이틀을 출판하고 있다.
+**DC 코믹스**()는 [미국](../Page/미국.md "wikilink")의 [만화](../Page/만화.md "wikilink") 중심 관련 [출판사](../Page/출판사.md "wikilink")이며, [워너 브라더스의](../Page/워너_브라더스.md "wikilink") 자회사인 [DC 엔터테인먼트의](https://ko.wikipedia.org/wiki/DC_엔터테인먼트 "wikilink") 출판 부문으로 현재, [워너미디어](../Page/워너미디어.md "wikilink")가 소유하고 있다. [1934년](../Page/1934년.md "wikilink") 내셔널 얼라이드 퍼블리케이션스(National Allied Publications)로 설립되었으며 상호의 DC는 인기 시리즈인 《디텍티브 코믹스》(*Detective Comics*)에서 유래하였다. [슈퍼맨](../Page/슈퍼맨.md "wikilink"), [배트맨](../Page/배트맨.md "wikilink"), [원더 우먼](https://ko.wikipedia.org/wiki/원더_우먼 "wikilink"), [그린 랜턴](https://ko.wikipedia.org/wiki/그린_랜턴 "wikilink") 등의 유명 [캐릭터](https://ko.wikipedia.org/wiki/캐릭터 "wikilink")를 보유하고 있으며, 슈퍼맨의 숙적 [렉스 루터나](https://ko.wikipedia.org/wiki/렉스_루터 "wikilink") 배트맨의 숙적 [조커](../Page/조커_\(DC_코믹스\).md "wikilink") 등의 [빌런](https://ko.wikipedia.org/wiki/빌런 "wikilink") 캐릭터도 보유하고 있다. [DC 유니버스라고](https://ko.wikipedia.org/wiki/DC_유니버스 "wikilink") 불리는 세계관은 [저스티스 리그](https://ko.wikipedia.org/wiki/저스티스_리그 "wikilink"),[수어사이드 스쿼드](https://ko.wikipedia.org/wiki/수어사이드_스쿼드 "wikilink"), 저스티스 소사이어티 오브 아메리카, 틴 타이탄스 등의 수퍼히어로 팀을 포함하고 있다. 한편 대안 출판 브랜드인 [버티고에서](https://ko.wikipedia.org/wiki/버티고_\(DC_레코드\) "wikilink") DC 유니버스와 관련되지 않은 《[왓치맨](../Page/왓치맨.md "wikilink")》, 《[브이 포 벤데타](../Page/브이_포_벤데타.md "wikilink")》 등의 타이틀을 출판하고 있다.
 
 [랜덤 하우스가](https://ko.wikipedia.org/wiki/랜덤_하우스 "wikilink") [서점](https://ko.wikipedia.org/wiki/서점 "wikilink")에 DC 코믹스의 만화책을, 다이아몬드 코믹 디스트리뷰터가 [코믹 숍에](https://ko.wikipedia.org/wiki/코믹_숍 "wikilink") 만화책을 공급하고 있다. [마블 코믹스와](../Page/마블_코믹스.md "wikilink") 함께 [미국 만화의](https://ko.wikipedia.org/wiki/미국의_만화 "wikilink") 양대 산맥으로서 2016년 현재를 기준으로 미국 만화 시장의 70% 이상을 점유하고 있다.
 
@@ -35,22 +35,22 @@
 <tr class="odd">
 <td><p>2005</p></td>
 <td><p>《<a href="../Page/배트맨_비긴즈.md" title="wikilink">배트맨 비긴즈</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/크리스토퍼_놀런" title="wikilink">크리스토퍼 놀런</a></p></td>
+<td><p><a href="../Page/크리스토퍼_놀런.md" title="wikilink">크리스토퍼 놀런</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/데이비드_S._고이어" title="wikilink">데이비드 S. 고이어</a> (원안)<br />
 크리스토퍼 놀런, 데이비드 S. 고이어 (각본)</p></td>
 <td><p>{{원작|<a href="https://ko.wikipedia.org/wiki/밥_케인" title="wikilink">밥 케인</a>, <a href="https://ko.wikipedia.org/wiki/빌_핑거" title="wikilink">빌 핑거</a></p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/배트맨" title="wikilink">배트맨</a>》}}</p></td>
+<td><p>《<a href="../Page/배트맨.md" title="wikilink">배트맨</a>》}}</p></td>
 <td><p><a href="../Page/워너_브라더스.md" title="wikilink">워너 브라더스</a> / <a href="https://ko.wikipedia.org/wiki/레전더리_픽처스" title="wikilink">레전더리 픽처스</a> / <a href="../Page/신카피.md" title="wikilink">신카피</a></p></td>
 <td><p>$150,000,000</p></td>
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/수퍼맨_리턴즈" title="wikilink">수퍼맨 리턴즈</a>》</p></td>
+<td><p>《<a href="../Page/수퍼맨_리턴즈.md" title="wikilink">수퍼맨 리턴즈</a>》</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/브라이언_싱어" title="wikilink">브라이언 싱어</a></p></td>
 <td><p>브라이언 싱어, <a href="https://ko.wikipedia.org/wiki/마이클_도허티" title="wikilink">마이클 도허티</a>, <a href="../Page/댄_해리스.md" title="wikilink">댄 해리스</a> (원안)<br />
 마이클 도허티, 댄 해리스 (각본)</p></td>
 <td><p>{{원작|<a href="https://ko.wikipedia.org/wiki/제리_시겔" title="wikilink">제리 시겔</a>, <a href="../Page/조_슈스터.md" title="wikilink">조 슈스터</a></p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/슈퍼맨" title="wikilink">슈퍼맨</a>》}}</p></td>
+<td><p>《<a href="../Page/슈퍼맨.md" title="wikilink">슈퍼맨</a>》}}</p></td>
 <td><p>워너 브라더스 / 레전더리 픽처스 / Bad Hat Harry Productions / Peters Entertainment</p></td>
 <td><p>$204,000,000</p></td>
 </tr>
@@ -67,11 +67,11 @@
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/왓치맨_(영화)" title="wikilink">왓치맨</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잭_스나이더" title="wikilink">잭 스나이더</a></p></td>
+<td><p>《<a href="../Page/왓치맨_(영화).md" title="wikilink">왓치맨</a>》</p></td>
+<td><p><a href="../Page/잭_스나이더.md" title="wikilink">잭 스나이더</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/데이비드_헤이터" title="wikilink">데이비드 헤이터</a>, <a href="https://ko.wikipedia.org/wiki/알렉스_테" title="wikilink">알렉스 테</a></p></td>
-<td><p>{{원작|<a href="https://ko.wikipedia.org/wiki/앨런_무어" title="wikilink">앨런 무어</a></p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/왓치맨" title="wikilink">왓치맨</a>》}}</p></td>
+<td><p>{{원작|<a href="../Page/앨런_무어.md" title="wikilink">앨런 무어</a></p></td>
+<td><p>《<a href="../Page/왓치맨.md" title="wikilink">왓치맨</a>》}}</p></td>
 <td><p>워너 브라더스 / <a href="https://ko.wikipedia.org/wiki/파라마운트_픽처스" title="wikilink">파라마운트 픽처스</a> / 레전더리 픽처스 / Lawrence Gordon Productions</p></td>
 <td><p>$130,000,000</p></td>
 </tr>
@@ -110,7 +110,7 @@
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/맨_오브_스틸" title="wikilink">맨 오브 스틸</a>》</p></td>
+<td><p>《<a href="../Page/맨_오브_스틸.md" title="wikilink">맨 오브 스틸</a>》</p></td>
 <td><p>잭 스나이더</p></td>
 <td><p>크리스토퍼 놀런, 데이비드 S. 고이어 (원안)<br />
 데이비드 S. 고이어 (각본)</p></td>
@@ -122,7 +122,7 @@
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p>《<a href="../Page/배트맨_대_슈퍼맨:_저스티스의_시작.md" title="wikilink">배트맨 대 슈퍼맨: 저스티스의 시작</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잭_스나이더" title="wikilink">잭 스나이더</a></p></td>
+<td><p><a href="../Page/잭_스나이더.md" title="wikilink">잭 스나이더</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크리스_테리오" title="wikilink">크리스 테리오</a>, <a href="https://ko.wikipedia.org/wiki/데이비드_S._고이어" title="wikilink">데이비드 S. 고이어</a></p></td>
 <td><p>{{원작|제리 시겔, 조 슈스터</p></td>
 <td><p>《슈퍼맨》}}<br />
@@ -163,7 +163,7 @@
 </tr>
 <tr class="odd">
 <td><p>《<a href="../Page/저스티스_리그_(영화).md" title="wikilink">저스티스 리그</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잭_스나이더" title="wikilink">잭 스나이더</a></p></td>
+<td><p><a href="../Page/잭_스나이더.md" title="wikilink">잭 스나이더</a></p></td>
 <td><p>''' 각본 ''' 잭 스나이더 and <a href="https://ko.wikipedia.org/wiki/크리스_테리오" title="wikilink">크리스 테리오</a><br />
 <strong>원안</strong> 크리스 테리오</p></td>
 <td><p>{{원작|개더 폭스</p></td>
@@ -175,7 +175,7 @@
 <tr class="even">
 <td><p>2018</p></td>
 <td><p>《<a href="../Page/아쿠아맨_(영화).md" title="wikilink">아쿠아맨</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제임스_완" title="wikilink">제임스 완</a></p></td>
+<td><p><a href="../Page/제임스_완.md" title="wikilink">제임스 완</a></p></td>
 <td><p>''' 각본 ''' 제임스 완 and 제프 존스<br />
 <strong>원안</strong> 제임스 완 and 제프 존스 and 윌 빌</p></td>
 <td><p>{{원작|모트 와이징어 and 폴 노리스</p></td>

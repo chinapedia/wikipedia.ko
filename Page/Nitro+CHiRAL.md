@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [Nitro+CHiRAL](https://ko.wikipedia.org/wiki/Nitro+CHiRAL).
 
 
-Nitro+CHiRAL(니트로 플러스 키럴)은 주식회사 [니트로 플러스가](https://ko.wikipedia.org/wiki/니트로_플러스 "wikilink") 설립한 [BL 게임](https://ko.wikipedia.org/wiki/BL_게임 "wikilink") 브랜드. 대표작은 《[토가이누의 피](https://ko.wikipedia.org/wiki/토가이누의_피 "wikilink")》. 주요 시나리오 라이터는 후치이 카부라, 원화가는 타타나 카나, 오니츠카 세이지.(타타나 카나는 2006년, 오니츠카 세이지는 2009년 퇴사).
+Nitro+CHiRAL(니트로 플러스 키럴)은 주식회사 [니트로 플러스가](https://ko.wikipedia.org/wiki/니트로_플러스 "wikilink") 설립한 [BL 게임](https://ko.wikipedia.org/wiki/BL_게임 "wikilink") 브랜드. 대표작은 《[토가이누의 피](../Page/토가이누의_피.md "wikilink")》. 주요 시나리오 라이터는 후치이 카부라, 원화가는 타타나 카나, 오니츠카 세이지.(타타나 카나는 2006년, 오니츠카 세이지는 2009년 퇴사).
 
 ## 발매 게임목록
 
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") - [토가이누의 피](https://ko.wikipedia.org/wiki/토가이누의_피 "wikilink")
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") - [Lamento -BEYOND THE VOID-](https://ko.wikipedia.org/wiki/Lamento_-BEYOND_THE_VOID- "wikilink")
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 25일](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") - キラル盛
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink") - 토가이누의 피 True Blood
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 19일](https://ko.wikipedia.org/wiki/12월_19일 "wikilink") - [sweet pool](https://ko.wikipedia.org/wiki/sweet_pool "wikilink")
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink") - 거짓의 아르카넷 (CHiRAL MOBiLE에서 서비스)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") - [DRAMAtical Murder](../Page/DRAMAtical_Murder.md "wikilink")
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") - [DRAMAtical Murder re : connect](../Page/DRAMAtical_Murder.md "wikilink")
+  - [2005년](../Page/2005년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") - [토가이누의 피](../Page/토가이누의_피.md "wikilink")
+  - [2006년](../Page/2006년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") - [Lamento -BEYOND THE VOID-](https://ko.wikipedia.org/wiki/Lamento_-BEYOND_THE_VOID- "wikilink")
+  - [2008년](../Page/2008년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink") - キラル盛
+  - [2008년](../Page/2008년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") - 토가이누의 피 True Blood
+  - [2008년](../Page/2008년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") - [sweet pool](https://ko.wikipedia.org/wiki/sweet_pool "wikilink")
+  - [2010년](../Page/2010년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") - 거짓의 아르카넷 (CHiRAL MOBiLE에서 서비스)
+  - [2012년](../Page/2012년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") - [DRAMAtical Murder](../Page/DRAMAtical_Murder.md "wikilink")
+  - [2013년](../Page/2013년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") - [DRAMAtical Murder re : connect](../Page/DRAMAtical_Murder.md "wikilink")
 
 ## 스탭
 

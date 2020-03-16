@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
 
 
-**유르고르덴 IF**(Djurgårdens IF Fotboll, Djurgårdens IF)는 흔히 **유르고르덴**(Djurgården)이라는 이름으로 알려져 있는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") [스톡홀름](https://ko.wikipedia.org/wiki/스톡홀름 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.
+**유르고르덴 IF**(Djurgårdens IF Fotboll, Djurgårdens IF)는 흔히 **유르고르덴**(Djurgården)이라는 이름으로 알려져 있는 [스웨덴](../Page/스웨덴.md "wikilink") [스톡홀름](../Page/스톡홀름.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.
 
-[1891년](https://ko.wikipedia.org/wiki/1891년 "wikilink") [유르고르덴](https://ko.wikipedia.org/wiki/유르고르덴 "wikilink")에서 창단된 유르고르덴 IF는 리그 우승 11회와 컵 대회 우승 4회의 기록을 보유하고 있으며 [AIK와](https://ko.wikipedia.org/wiki/AIK_솔나 "wikilink") [함마르비와는](https://ko.wikipedia.org/wiki/함마르비_IF "wikilink") 라이벌 관계에 있다.
+[1891년](../Page/1891년.md "wikilink") [유르고르덴](https://ko.wikipedia.org/wiki/유르고르덴 "wikilink")에서 창단된 유르고르덴 IF는 리그 우승 11회와 컵 대회 우승 4회의 기록을 보유하고 있으며 [AIK와](https://ko.wikipedia.org/wiki/AIK_솔나 "wikilink") [함마르비와는](https://ko.wikipedia.org/wiki/함마르비_IF "wikilink") 라이벌 관계에 있다.
 
 ## 성적
 

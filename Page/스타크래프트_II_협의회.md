@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ II ](https://ko.wikipedia.org/wiki/_II_).
 
 
-**스타크래프트 II 협의회**는 [스타크래프트 II 프로게임단과](https://ko.wikipedia.org/wiki/스타크래프트_II_프로게임단 "wikilink") [스타크래프트 II](../Page/스타크래프트_II:_자유의_날개.md "wikilink") [프로게이머](https://ko.wikipedia.org/wiki/프로게이머 "wikilink")들의 권익 보호 및 스타크래프트 II 게임단의 기업 - 리그 스폰서 영업과 게이머 게임단과 게이머간의 분쟁 중재, 스타크래프트 II 리그 활성화등을 위해 7개의 스타크래프트 II 게임단과 게이머, 리그 관계자등이 연합하여 만들어진 단체이다. 그러나 여러 가지 문제점이 드러나면서 팬들의 질타를 받게 되고, 결국 2011년 9월 24일 부로 해체를 선언했다.
+**스타크래프트 II 협의회**는 [스타크래프트 II 프로게임단과](https://ko.wikipedia.org/wiki/스타크래프트_II_프로게임단 "wikilink") [스타크래프트 II](../Page/스타크래프트_II:_자유의_날개.md "wikilink") [프로게이머](../Page/프로게이머.md "wikilink")들의 권익 보호 및 스타크래프트 II 게임단의 기업 - 리그 스폰서 영업과 게이머 게임단과 게이머간의 분쟁 중재, 스타크래프트 II 리그 활성화등을 위해 7개의 스타크래프트 II 게임단과 게이머, 리그 관계자등이 연합하여 만들어진 단체이다. 그러나 여러 가지 문제점이 드러나면서 팬들의 질타를 받게 되고, 결국 2011년 9월 24일 부로 해체를 선언했다.
 
 2012년 3월 28일 [e스포츠 연맹이](https://ko.wikipedia.org/wiki/e스포츠_연맹 "wikilink") 새롭게 창설되면서 기존 스타크래프트 II 협의회의 역할을 잇게 되었다.
 
@@ -50,19 +50,19 @@
       - [이형주](../Page/이형주_\(프로게이머\).md "wikilink") ([Prime](https://ko.wikipedia.org/wiki/프라임_\(프로게임단\) "wikilink"))
       - [김성제](../Page/김성제_\(프로게이머\).md "wikilink") ([STARTALE](https://ko.wikipedia.org/wiki/STARTALE "wikilink"))
       - [김원기](../Page/김원기_\(프로게이머\).md "wikilink") ([TSL](https://ko.wikipedia.org/wiki/TSL "wikilink"))
-      - [이형섭](https://ko.wikipedia.org/wiki/이형섭 "wikilink") ([fOu](https://ko.wikipedia.org/wiki/fOu "wikilink"))
-      - [김수호](https://ko.wikipedia.org/wiki/김수호 "wikilink") ([ZeNEX](https://ko.wikipedia.org/wiki/ZeNEX "wikilink"))
+      - [이형섭](../Page/이형섭.md "wikilink") ([fOu](https://ko.wikipedia.org/wiki/fOu "wikilink"))
+      - [김수호](../Page/김수호.md "wikilink") ([ZeNEX](https://ko.wikipedia.org/wiki/ZeNEX "wikilink"))
 
 ## 연혁
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 협의회 발족, 게이머 소양교육 실시\[1\]
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") 협의회 홈페이지 오픈
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 신규 제 8 게임단 [MvP](https://ko.wikipedia.org/wiki/MvP "wikilink") 협의회 가입 승인\[2\]
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 16일](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") 신규 자문위원으로 e스포츠 논객 박원기 선임\[3\]
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") 게이머 협의회장 [박경락](../Page/박경락.md "wikilink") 선출
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") 신규 제 9 게임단 [NS호서](https://ko.wikipedia.org/wiki/NS호서 "wikilink") 협의회 가입 승인
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") TSL, 협의회 공식 탈퇴
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") 협의회 해체 선언
+  - [2010년](../Page/2010년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") 협의회 발족, 게이머 소양교육 실시\[1\]
+  - [2010년](../Page/2010년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") 협의회 홈페이지 오픈
+  - [2010년](../Page/2010년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") 신규 제 8 게임단 [MvP](https://ko.wikipedia.org/wiki/MvP "wikilink") 협의회 가입 승인\[2\]
+  - [2010년](../Page/2010년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") 신규 자문위원으로 e스포츠 논객 박원기 선임\[3\]
+  - [2011년](../Page/2011년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") 게이머 협의회장 [박경락](../Page/박경락.md "wikilink") 선출
+  - [2011년](../Page/2011년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") 신규 제 9 게임단 [NS호서](../Page/NS호서.md "wikilink") 협의회 가입 승인
+  - [2011년](../Page/2011년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") TSL, 협의회 공식 탈퇴
+  - [2011년](../Page/2011년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") 협의회 해체 선언
 
 ## 논란
 
@@ -82,13 +82,13 @@
 
 ### NASL 출전 금지 논란
 
-미국의 스타크래프트 II 리그, [북미 스타 리그](https://ko.wikipedia.org/wiki/북미_스타_리그 "wikilink") (NASL) 측은 2011년 8월 12일, 스타크래프트 커뮤니티 [팀 리퀴드를](https://ko.wikipedia.org/wiki/팀_리퀴드 "wikilink") 통해, NASL측이 한국 팀에게 경비 지원, 보증금 제도 개선 등의 방안을 2차에 걸쳐 제안했으나, 스타크래프트 II 협의회의 이름으로 본선 개막이 얼마 남지 않았던 북미 스타 리그 시즌 2에 출전하지 않겠다고 통보하면서, 논란이 일었다.
+미국의 스타크래프트 II 리그, [북미 스타 리그](https://ko.wikipedia.org/wiki/북미_스타_리그 "wikilink") (NASL) 측은 2011년 8월 12일, 스타크래프트 커뮤니티 [팀 리퀴드를](../Page/팀_리퀴드.md "wikilink") 통해, NASL측이 한국 팀에게 경비 지원, 보증금 제도 개선 등의 방안을 2차에 걸쳐 제안했으나, 스타크래프트 II 협의회의 이름으로 본선 개막이 얼마 남지 않았던 북미 스타 리그 시즌 2에 출전하지 않겠다고 통보하면서, 논란이 일었다.
 
 이에 대해 협의회는 공식 홈페이지를 통해 이번 한국 선수 참가 불참에 대해 협의회와는 관계가 없다고 무관하다며, 불참으로 인해 발생된 분쟁은 각 게임단 자체적은 진행된 내용이라 해명했다. 또한, 협의회는 NASL 측으로 부터 이전부터 어떠한 협의도 없었음을 밝혔다.
 
 NASL 측은 한국에서 진행되는 일을 정확하게 알지 못하고 있으며 한국 팀들의 공통된 결정을 들었고 첫 입장표시 초안 (Draft) 에는 스타크래프트 II 협의회 (SC2 Korean Team Committee)라는 이름으로 작성되어 있었다며, 이후에도 이렇게 작성되어 협의회라 적은 것이라 설명했다. 이어 NASL 측은 스타크래프트 II 협의회가 아닌 소수 팀들의 결정이었으면 입장 전달 주체를 잘못 인지한 점에 대해 사과 입장을 내비쳤다.\[12\]\[13\]\[14\]
 
-하지만, 게임 전문 웹진 [게임메카](https://ko.wikipedia.org/wiki/게임메카 "wikilink")는 스타크래프트 II 협의회의 해명에 대해 "게임단 내에서 처리하기 버거운 분쟁을 조정하겠다는 주요 설립목적에 크게 어긋나는 행동이다."며 "비록 직접적으로 관련된 사항이 아니지만 좀 더 적극적으로 움직여 쌍방이 모두 만족할만한 결과를 일궈내는 것이 스타2 협의회가 진정으로 할 일이 아니었나 싶다."라 비판했다.\[15\]
+하지만, 게임 전문 웹진 [게임메카](../Page/게임메카.md "wikilink")는 스타크래프트 II 협의회의 해명에 대해 "게임단 내에서 처리하기 버거운 분쟁을 조정하겠다는 주요 설립목적에 크게 어긋나는 행동이다."며 "비록 직접적으로 관련된 사항이 아니지만 좀 더 적극적으로 움직여 쌍방이 모두 만족할만한 결과를 일궈내는 것이 스타2 협의회가 진정으로 할 일이 아니었나 싶다."라 비판했다.\[15\]
 
 ## 같이 보기
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [A ](https://ko.wikipedia.org/wiki/A_).
 
 
-**ÍA 아크라네스**()는 [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink")에 창단된 [아이슬란드](https://ko.wikipedia.org/wiki/아이슬란드 "wikilink") [아크라네스](https://ko.wikipedia.org/wiki/아크라네스 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**ÍA 아크라네스**()는 [1946년](../Page/1946년.md "wikilink")에 창단된 [아이슬란드](../Page/아이슬란드.md "wikilink") [아크라네스](https://ko.wikipedia.org/wiki/아크라네스 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
-ÍA 아크라네스는 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink")와 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink"), [골프](https://ko.wikipedia.org/wiki/골프 "wikilink"), [승마](https://ko.wikipedia.org/wiki/승마 "wikilink"), [체조](../Page/체조.md "wikilink"), [배구](https://ko.wikipedia.org/wiki/배구 "wikilink"), [볼링](https://ko.wikipedia.org/wiki/볼링 "wikilink"), [공수도](../Page/공수도.md "wikilink"), [배드민턴](../Page/배드민턴.md "wikilink"), [수영](https://ko.wikipedia.org/wiki/수영 "wikilink") 팀을 운영하고 있다.
+ÍA 아크라네스는 [농구](../Page/농구.md "wikilink")와 [축구](../Page/축구.md "wikilink"), [골프](../Page/골프.md "wikilink"), [승마](../Page/승마.md "wikilink"), [체조](../Page/체조.md "wikilink"), [배구](../Page/배구.md "wikilink"), [볼링](../Page/볼링.md "wikilink"), [공수도](../Page/공수도.md "wikilink"), [배드민턴](../Page/배드민턴.md "wikilink"), [수영](../Page/수영.md "wikilink") 팀을 운영하고 있다.
 
 ## 성적
 

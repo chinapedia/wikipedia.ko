@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
 
 
-**SK뷰**(SK VIEW)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [SK건설](../Page/SK건설.md "wikilink")이 짓는 복합 아파트 브랜드 이름이다.
+**SK뷰**(SK VIEW)는 [대한민국](../Page/대한민국.md "wikilink") [SK건설](../Page/SK건설.md "wikilink")이 짓는 복합 아파트 브랜드 이름이다.
 
 지역 또는 건물 특성에 따라 뷰를 앞(sk뷰park), 뒤에 붙이기도(sk리더스뷰, sk스카이뷰) 한다.
 
@@ -35,9 +35,9 @@
 
 ### 건설 예정인 단지
 
-  - [수영](https://ko.wikipedia.org/wiki/수영 "wikilink") SK뷰 ([부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [수영구](https://ko.wikipedia.org/wiki/수영구 "wikilink"))
-  - [시청역](https://ko.wikipedia.org/wiki/시청역_\(부산\) "wikilink") SK뷰 ([부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"))
-  - [서산](https://ko.wikipedia.org/wiki/서산 "wikilink") [예천](https://ko.wikipedia.org/wiki/예천 "wikilink") SK뷰 ([충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [서산시](https://ko.wikipedia.org/wiki/서산시 "wikilink"))
+  - [수영](../Page/수영.md "wikilink") SK뷰 ([부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [수영구](../Page/수영구.md "wikilink"))
+  - [시청역](../Page/시청역_\(부산\).md "wikilink") SK뷰 ([부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"))
+  - [서산](https://ko.wikipedia.org/wiki/서산 "wikilink") [예천](https://ko.wikipedia.org/wiki/예천 "wikilink") SK뷰 ([충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [서산시](../Page/서산시.md "wikilink"))
 
 ## 갤러리
 

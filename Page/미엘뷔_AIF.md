@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ AIF](https://ko.wikipedia.org/wiki/_AIF).
 
 
-**미엘뷔 AIF**(Mjällby AIF)는 [1939년](https://ko.wikipedia.org/wiki/1939년 "wikilink")에 창단된 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") [미엘뷔](https://ko.wikipedia.org/wiki/미엘뷔 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**미엘뷔 AIF**(Mjällby AIF)는 [1939년](../Page/1939년.md "wikilink")에 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [미엘뷔](https://ko.wikipedia.org/wiki/미엘뷔 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
 이 팀은 2009 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 우승을 차지, [알스벤스칸](../Page/알스벤스칸.md "wikilink")으로 승격되었다.
 
