@@ -6,8 +6,8 @@
 ## 진행
 
   - [정형돈](../Page/정형돈.md "wikilink")\[1\]
-  - [유상무](https://ko.wikipedia.org/wiki/유상무 "wikilink")
-  - [박지헌](https://ko.wikipedia.org/wiki/박지헌 "wikilink")
+  - [유상무](../Page/유상무.md "wikilink")
+  - [박지헌](../Page/박지헌.md "wikilink")
   - [정경미](https://ko.wikipedia.org/wiki/정경미 "wikilink") (2회부터 하차)
   - [김나영](https://ko.wikipedia.org/wiki/김나영 "wikilink") (2회부터 합류)
 

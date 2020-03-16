@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Danger Days: The True Lives of the Fabulous Killjoys](https://ko.wikipedia.org/wiki/Danger_Days:_The_True_Lives_of_the_Fabulous_Killjoys).
 
 
-***Danger Days: The True Lives of the Fabulous Killjoys***은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [마이 케미컬 로맨스의](../Page/마이_케미컬_로맨스.md "wikilink") 네 번째 정규 앨범이다.
+***Danger Days: The True Lives of the Fabulous Killjoys***은 [미국](../Page/미국.md "wikilink") [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [마이 케미컬 로맨스의](../Page/마이_케미컬_로맨스.md "wikilink") 네 번째 정규 앨범이다.
 
 ## 수록곡
 
@@ -28,7 +28,7 @@
   - [제라드 웨이](../Page/제라드_웨이.md "wikilink") : [리드 보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
   - [레이 토로](https://ko.wikipedia.org/wiki/레이_토로 "wikilink") : [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink"), 배킹 보컬
   - [프랭크 아이에로](../Page/프랭크_아이에로.md "wikilink") : [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink"), 배킹 보컬
-  - [마이키 웨이](../Page/마이키_웨이.md "wikilink") : [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [마이키 웨이](../Page/마이키_웨이.md "wikilink") : [베이스 기타](../Page/베이스_기타.md "wikilink")
 
 ## 참조
 

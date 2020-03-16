@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DuelJewel](https://ko.wikipedia.org/wiki/DuelJewel).
 
 
-**DuelJewel**()는 1997년 1월 슌, 바루와 사이에 의하여 결성된 일본의 [비주얼계](https://ko.wikipedia.org/wiki/비주얼계 "wikilink") [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 2002년 4월에 현재멤버로 활동개시했다.
+**DuelJewel**()는 1997년 1월 슌, 바루와 사이에 의하여 결성된 일본의 [비주얼계](../Page/비주얼계.md "wikilink") [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 2002년 4월에 현재멤버로 활동개시했다.
 
 ## 멤버
 
@@ -9,34 +9,34 @@
 
 <!-- end list -->
 
-  - [12월 29일생](https://ko.wikipedia.org/wiki/12월_29일 "wikilink"), B형
+  - [12월 29일생](../Page/12월_29일.md "wikilink"), B형
   - [도쿄](../Page/도쿄.md "wikilink") 출신
 
 <!-- end list -->
 
-  - 슌 () - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - 슌 () - [기타](../Page/기타.md "wikilink")
 
 <!-- end list -->
 
-  - [2월 3일생](https://ko.wikipedia.org/wiki/2월_3일 "wikilink"), O형
+  - [2월 3일생](../Page/2월_3일.md "wikilink"), O형
   - [도쿄](../Page/도쿄.md "wikilink") 출신
 
 <!-- end list -->
 
-  - 유야 () - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")
+  - 유야 () - [기타](../Page/기타.md "wikilink")
 
 <!-- end list -->
 
-  - [4월 29일생](https://ko.wikipedia.org/wiki/4월_29일 "wikilink"), A형
+  - [4월 29일생](../Page/4월_29일.md "wikilink"), A형
   - [도쿄](../Page/도쿄.md "wikilink") 출신
 
 <!-- end list -->
 
-  - 나츠키 () - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - 나츠키 () - [베이스](../Page/베이스_기타.md "wikilink")
 
 <!-- end list -->
 
-  - [9월 11일생](https://ko.wikipedia.org/wiki/9월_11일 "wikilink"), B형
+  - [9월 11일생](../Page/9월_11일.md "wikilink"), B형
   - [도쿄](../Page/도쿄.md "wikilink") 출신
   - Platina → hide and seek → DuelJewel
 
@@ -46,12 +46,12 @@
 
 <!-- end list -->
 
-  - [2월 4일생](https://ko.wikipedia.org/wiki/2월_4일 "wikilink"), A형
+  - [2월 4일생](../Page/2월_4일.md "wikilink"), A형
   - [도쿄](../Page/도쿄.md "wikilink") 출신
 
 ### 구멤버
 
-  - 사이 () - ([베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"))
+  - 사이 () - ([베이스](../Page/베이스_기타.md "wikilink"))
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - 타카시 () - ([기타](https://ko.wikipedia.org/wiki/기타 "wikilink"))
+  - 타카시 () - ([기타](../Page/기타.md "wikilink"))
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - 카논 () - ([베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"))
+  - 카논 () - ([베이스](../Page/베이스_기타.md "wikilink"))
 
 <!-- end list -->
 

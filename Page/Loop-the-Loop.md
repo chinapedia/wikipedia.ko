@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Loop-the-Loop](https://ko.wikipedia.org/wiki/Loop-the-Loop).
 
 
-〈**Loop-the-Loop**〉(루프 더 루프)는 [KOTOKO](../Page/KOTOKO.md "wikilink")의 16번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")로 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 20일에](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") [제네온 유니버설 엔터테인먼트 재팬을](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") 통해 발매되었다.
+〈**Loop-the-Loop**〉(루프 더 루프)는 [KOTOKO](../Page/KOTOKO.md "wikilink")의 16번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")로 [2010년](../Page/2010년.md "wikilink") [10월 20일에](../Page/10월_20일.md "wikilink") [제네온 유니버설 엔터테인먼트 재팬을](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") 통해 발매되었다.
 
 ## 해설
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-1.  Loop-the-Loop ([Music Clip](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink"))
+1.  Loop-the-Loop ([Music Clip](../Page/뮤직_비디오.md "wikilink"))
 
 ## 외부 링크
 

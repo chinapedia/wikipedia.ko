@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 5D\'s](https://ko.wikipedia.org/wiki/_5D\'s).
 
 
-**유희왕 5D's**(파이브디즈, 파이브 드래곤즈)는 [유희왕](https://ko.wikipedia.org/wiki/유희왕 "wikilink") 시리즈의 세 번째 작품이며, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 2일부터](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 30일까지](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 방영하였다. 현재 대한민국에서는 [애니원](https://ko.wikipedia.org/wiki/애니원 "wikilink"), [챔프TV](https://ko.wikipedia.org/wiki/챔프TV "wikilink")를 통해 방영되었으며 국내 최초로 방영 완료된 유희왕 시리즈이다. 전작은 [유희왕 GX이고](https://ko.wikipedia.org/wiki/유희왕_GX "wikilink"), 후속작은 [유희왕 ZEXAL이다](https://ko.wikipedia.org/wiki/유희왕_ZEXAL "wikilink").
+**유희왕 5D's**(파이브디즈, 파이브 드래곤즈)는 [유희왕](../Page/유희왕.md "wikilink") 시리즈의 세 번째 작품이며, [2008년](../Page/2008년.md "wikilink") [4월 2일부터](../Page/4월_2일.md "wikilink") [2011년](../Page/2011년.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 방영하였다. 현재 대한민국에서는 [애니원](../Page/애니원.md "wikilink"), [챔프TV](../Page/챔프TV.md "wikilink")를 통해 방영되었으며 국내 최초로 방영 완료된 유희왕 시리즈이다. 전작은 [유희왕 GX이고](../Page/유희왕_GX.md "wikilink"), 후속작은 [유희왕 ZEXAL이다](../Page/유희왕_ZEXAL.md "wikilink").
 
 ## 줄거리
 
@@ -19,7 +19,7 @@
 
   - 후도 유세이(한국명 - 유성)
     성우 - [미야시타 유야](https://ko.wikipedia.org/wiki/미야시타_유야 "wikilink") / [신용우](https://ko.wikipedia.org/wiki/신용우 "wikilink")
-    작품의 주인공. 새틀라이트 출신 인줄 알았지만 사실은 네오도미노 시티 상류층 출신의 18세 소년으로 싱크론+워리어 덱을 사용한다. 얼핏 보면 쿨한 성격으로 보이지만 사실 이전 [유희왕](https://ko.wikipedia.org/wiki/유희왕 "wikilink") 주인공 못지않은 열정을 가지고 있다. [고물](../Page/고물.md "wikilink")을 모아서 스스로 D-휠을 조립해 낼 정도로 손재주가 좋아 포츈 컵 이후 [기계](../Page/기계.md "wikilink")를 수리하는 일을 맡곤 하는 모습도 보인다. 원래 드래곤 테일의 반점을 지닌 시그너였으나 다크 시그너 고드윈과의 결전 후 드래곤 헤드의 반점을 지닌 시그너로 거듭나게 된다. 이후 일리야스텔에 맞서기 위한 클리어 마인드의 경지인 \[슈팅 스타 드래곤(shooting star dragon)\]을 얻었다. 에이스 카드는 레벨 8의 \[**스타더스트 드래곤**(stardust dragon:별가루용)\]과 다크 시그너와의 대결에서 나왔던 \[**세이비어 스타 드래곤**(savior star dragon:별 구세룡)\] 클리어 마인드의 경지인 레벨 10의 \[**슈팅 스타 드래곤**(shooting star dragon:유성 룡)\], 최강카드는 오버소울 클리어 마인드의 경지인 \[**슈팅퀘이서 드래곤**(shooting Quasar dragon:떨어지는 준성 용)\]이다.별명으로는 게, 게카닉이 있다.
+    작품의 주인공. 새틀라이트 출신 인줄 알았지만 사실은 네오도미노 시티 상류층 출신의 18세 소년으로 싱크론+워리어 덱을 사용한다. 얼핏 보면 쿨한 성격으로 보이지만 사실 이전 [유희왕](../Page/유희왕.md "wikilink") 주인공 못지않은 열정을 가지고 있다. [고물](../Page/고물.md "wikilink")을 모아서 스스로 D-휠을 조립해 낼 정도로 손재주가 좋아 포츈 컵 이후 [기계](../Page/기계.md "wikilink")를 수리하는 일을 맡곤 하는 모습도 보인다. 원래 드래곤 테일의 반점을 지닌 시그너였으나 다크 시그너 고드윈과의 결전 후 드래곤 헤드의 반점을 지닌 시그너로 거듭나게 된다. 이후 일리야스텔에 맞서기 위한 클리어 마인드의 경지인 \[슈팅 스타 드래곤(shooting star dragon)\]을 얻었다. 에이스 카드는 레벨 8의 \[**스타더스트 드래곤**(stardust dragon:별가루용)\]과 다크 시그너와의 대결에서 나왔던 \[**세이비어 스타 드래곤**(savior star dragon:별 구세룡)\] 클리어 마인드의 경지인 레벨 10의 \[**슈팅 스타 드래곤**(shooting star dragon:유성 룡)\], 최강카드는 오버소울 클리어 마인드의 경지인 \[**슈팅퀘이서 드래곤**(shooting Quasar dragon:떨어지는 준성 용)\]이다.별명으로는 게, 게카닉이 있다.
 
 <!-- end list -->
 
@@ -30,13 +30,13 @@
 <!-- end list -->
 
   - 이자요이 아키(한국명 - 아나트 아키)
-    성우 - [키노시타 아유미](https://ko.wikipedia.org/wiki/키노시타_아유미 "wikilink") / [김민정](https://ko.wikipedia.org/wiki/김민정 "wikilink")
+    성우 - [키노시타 아유미](../Page/키노시타_아유미.md "wikilink") / [김민정](https://ko.wikipedia.org/wiki/김민정 "wikilink")
     드래곤 레그의 반점을 지닌 시그너. 듀얼을 통해 상대에게 물리적 데미지를 입힐 수 있는 사이코 듀얼리스트로 흑장미의 마녀라 불리며 두려움을 샀으나 유세이와의 듀얼 이후로 자신에 대해 깨닫게 되고 동료들과 함께 지내면서 자신의 초능력이 점점 사라짐을 느낀다. 유세이와 쉐리의 듀얼을 지켜보며 라이딩 듀얼을 하고자 하는 의지를 보이게 되었으며 끝까지 포기하지 않는 열정을 보여 드디어 라이센스를 따는데 성공하였다. 크로우 호건이 부상당하자 대신 출전한 적이 있으며 현재는 팀 5D's의 서포터 중 한명으로 지내고 있다. 사용하는 덱은 식물 덱이며 에이스 카드는 \[**블랙 로즈 드래곤**(Black rose dragon:검은 장미룡)\]이다.
 
 <!-- end list -->
 
   - 루카
-    성우 - [테라사키 유카](https://ko.wikipedia.org/wiki/테라사키_유카 "wikilink") / [김성연](https://ko.wikipedia.org/wiki/김성연 "wikilink")
+    성우 - [테라사키 유카](https://ko.wikipedia.org/wiki/테라사키_유카 "wikilink") / [김성연](../Page/김성연.md "wikilink")
     드래곤 암즈의 반점을 지닌 시그너. 3살에 듀얼을 마스터한 천재이지만 본인은 그다지 신경쓰지 않고 있다. 루아의 쌍둥이 동생으로 유우기나 쥬다이가 그랬듯 듀얼 몬스터즈의 정령을 볼 수 있으며 크리보 시리즈 중 하나인 \[크리본\]을 가지고 있다. 참고로 1개월 동안 의식 불명 상태에 있다가 기적적으로 회생하게 되는데 그동안 듀얼 몬스터즈의 정령을 볼 수 있는 사실을 깨닫게 된 것으로 보인다. 에이스 카드는 \[에인션트 페어리 드래곤\]이지만, 원래 갖고 있지 않다가 디마크와의 듀얼로 되찾는데 성공한다. 나이에 비해 어른스러운 편으로 루아가 까불 때면 언제나 옆에서 핀잔을 준다. 현재는 팀 5D's의 서포터 중 한명으로 지내고 있다. 에이스 카드는 \[**에인션트 페어리 드래곤**(Ancient fairy dragon:고대 요정룡/한글판:고대 요정 드래곤)\].
 
 <!-- end list -->
@@ -54,13 +54,13 @@
 <!-- end list -->
 
   - 브루노(한국명 - 제이드)
-    성우 - [타나카 히로키](https://ko.wikipedia.org/wiki/타나카_히로키 "wikilink") / [이광수](https://ko.wikipedia.org/wiki/이광수 "wikilink")
+    성우 - [타나카 히로키](https://ko.wikipedia.org/wiki/타나카_히로키 "wikilink") / [이광수](../Page/이광수.md "wikilink")
     유세이에게 액셀 싱크로의 비밀을 가르쳐준 인물이지만 본인은 그 사실을 숨겨야만 했다. 유세이 못지 않은 기계 공돌이로 유세이와 함께 기적의 라이딩 프로그램을 제작하기도 하였지만 일리야스텔의 사주를 받은 예가에 의해 빼앗긴다. 기억을 되찾기 전까진 팀 5D's의 서포터 중 한명으로 지내오다 일리야스텔과의 결전에서 진짜 기억을 되찾아 유세이와 싸운다. 본명은 안티노미(Antinomy)로 Z-one의 부하였으며 Z-one에 의해 기억을 잃어버렸다. 하지만 유세이와의 결전에서 진 후 유세이와의 대화에서 팀 5d's와 같이 지냈을 때의 마음은 진짜라고 말하며 유세이를 살리기 위해 블랙홀 안에서 소멸하는 것을 선택한다. 최강 카드는 델타 엑셀 싱크로 몬스터인 \[**TG(테크지너스)-할버드 캐논**(T.G. Halberd Cannon)\].
 
 ### 주변 캐릭터
 
   - 우시오 테츠
-    성우 - [오치아이 코지](https://ko.wikipedia.org/wiki/오치아이_코지 "wikilink") / [양준건](https://ko.wikipedia.org/wiki/양준건 "wikilink")
+    성우 - [오치아이 코지](https://ko.wikipedia.org/wiki/오치아이_코지 "wikilink") / [양준건](../Page/양준건.md "wikilink")
     네오 도미노 시티의 경찰관으로 처음에는 새틀라이트에서 밀입국하려는 유세이를 막으려다가 오히려 유세이 일행을 도와 여러가지 사건들을 해결한다. 장관 비서인 사기리를 연모하고 있지만 고백도 못하고 바라만 보고 있으며, 유세이와의 결투로 인해 얼굴에 상처가 있다.
     다크 시그너가 사라진 후에는 유세이와 화해를 하고 착한 경찰관이 된다. 메인 카드로는 \[고요우 가디언\]이 있다.
 
@@ -73,19 +73,19 @@
 <!-- end list -->
 
   - 예가
-    성우 - [야나기하라 테츠야](https://ko.wikipedia.org/wiki/야나기하라_테츠야 "wikilink") / [구민선](https://ko.wikipedia.org/wiki/구민선 "wikilink")
+    성우 - [야나기하라 테츠야](https://ko.wikipedia.org/wiki/야나기하라_테츠야 "wikilink") / [구민선](../Page/구민선.md "wikilink")
     네오 도미노 시티의 장관. 원래는 광대였지만 일리야스텔에 의해 관리로서 행정을 담당하게 된다. 가족으로는 자신을 닮은 아내와 딸이 있다. 나중에는 통합 네오 도미노 시티의 시장으로 선출되어 시민들을 위한 행정 및 자치 활동을 지원하게 된다. 사용하는 덱은 제스타 덱.
 
 <!-- end list -->
 
   - 래리 도슨
-    성우 - [이토 미카](https://ko.wikipedia.org/wiki/이토_미카 "wikilink") / [이지현](https://ko.wikipedia.org/wiki/이지현_\(성우\) "wikilink")
+    성우 - [이토 미카](https://ko.wikipedia.org/wiki/이토_미카 "wikilink") / [이지현](../Page/이지현_\(성우\).md "wikilink")
     새틀라이트에 사는 유세이의 친구이며, 좌측 뺨에 마커가 있다. 여자 아이처럼 보이지만 실은 남자 아이로 유세이를 위해서 공장에서 D휠의 성능을 높여주는 칩(CPU)을 훔치고 자신의 부적과 같은 카드(\[원샷 부스터\])를 건네주는 등 유세이에게 헌신적인 인물이다. 원샷 덱을 사용한다.
 
 <!-- end list -->
 
   - 마사 이모
-    성우 - [사이토 키미코](https://ko.wikipedia.org/wiki/사이토_키미코 "wikilink") / [이미나](https://ko.wikipedia.org/wiki/이미나_\(성우\) "wikilink")
+    성우 - [사이토 키미코](https://ko.wikipedia.org/wiki/사이토_키미코 "wikilink") / [이미나](../Page/이미나_\(성우\).md "wikilink")
     새틀라이트에 살면서 유세이 일행의 보호자가 되는 중년 여성. 고아원을 운영하며 모든 고아들의 양엄마가 되어 준다. 나중에 유세이가 Z-one과 결전을 벌일 때, 사이가와 함께 아이들을 피난시키며 새틀라이트 고아들의 엄마로서 역할을 다한다.
 
 <!-- end list -->
@@ -103,14 +103,14 @@
 <!-- end list -->
 
   - 디마크
-    성우 - [노무라 켄지](https://ko.wikipedia.org/wiki/노무라_켄지 "wikilink") / [최낙윤](https://ko.wikipedia.org/wiki/최낙윤 "wikilink")
-    [사형](https://ko.wikipedia.org/wiki/사형 "wikilink") 선고를 받고 이송되던 보머를 다크 시그너로 끌어들이고, 루카의 에이스 카드 \[에인션트 페어리 드래곤\]을 가지고 있던 다크 시그너. 다크 시그너들 중에서 그 정체가 제대로 밝혀지지 않은 거의 유일한 인물이다. 사용하는 덱은 [원숭이](https://ko.wikipedia.org/wiki/원숭이 "wikilink") 덱을 사용하며 다크 시그너로써의 메인 카드는 \[**지박신 Cusillu**(쿠시루, 케츄아어:원숭이)\].
+    성우 - [노무라 켄지](https://ko.wikipedia.org/wiki/노무라_켄지 "wikilink") / [최낙윤](../Page/최낙윤.md "wikilink")
+    [사형](../Page/사형.md "wikilink") 선고를 받고 이송되던 보머를 다크 시그너로 끌어들이고, 루카의 에이스 카드 \[에인션트 페어리 드래곤\]을 가지고 있던 다크 시그너. 다크 시그너들 중에서 그 정체가 제대로 밝혀지지 않은 거의 유일한 인물이다. 사용하는 덱은 [원숭이](../Page/원숭이.md "wikilink") 덱을 사용하며 다크 시그너로써의 메인 카드는 \[**지박신 Cusillu**(쿠시루, 케츄아어:원숭이)\].
 
 <!-- end list -->
 
   - 보머
-    성우 - [히라이 케이지](https://ko.wikipedia.org/wiki/히라이_케이지 "wikilink") / [심승한](https://ko.wikipedia.org/wiki/심승한 "wikilink")
-    포츈 컵에 참가하여 고드윈 장관의 [암살](https://ko.wikipedia.org/wiki/암살 "wikilink")을 노렸으나 실패하고 사형 선고를 받은 후 이송되던 중에 디마크를 만나 다크 시그너로 [세뇌](https://ko.wikipedia.org/wiki/세뇌 "wikilink")되었다가 나중에 유세이 일행이 일리야스텔에 맞설 수 있도록 협력한다. 듀얼리스트로써의 메인 카드는 \[**자이언트 바머 AIRRADE**\]이며, 덱은 리액터 덱이다. 다크 시크너로써의 메인 카드는 \[**지박신 Chacu Challua**(챠크 챠루아, 케츄아어:범고래)\].
+    성우 - [히라이 케이지](https://ko.wikipedia.org/wiki/히라이_케이지 "wikilink") / [심승한](../Page/심승한.md "wikilink")
+    포츈 컵에 참가하여 고드윈 장관의 [암살](https://ko.wikipedia.org/wiki/암살 "wikilink")을 노렸으나 실패하고 사형 선고를 받은 후 이송되던 중에 디마크를 만나 다크 시그너로 [세뇌](../Page/세뇌.md "wikilink")되었다가 나중에 유세이 일행이 일리야스텔에 맞설 수 있도록 협력한다. 듀얼리스트로써의 메인 카드는 \[**자이언트 바머 AIRRADE**\]이며, 덱은 리액터 덱이다. 다크 시크너로써의 메인 카드는 \[**지박신 Chacu Challua**(챠크 챠루아, 케츄아어:범고래)\].
 
 <!-- end list -->
 
@@ -128,7 +128,7 @@
 
   - 루드거 고드윈
     성우 - [타케 토라](https://ko.wikipedia.org/wiki/타케_토라 "wikilink") / [한상덕](../Page/한상덕.md "wikilink")
-    다크 시그너의 보스라 할 수 있는 존재. 17년 전 [양자역학](https://ko.wikipedia.org/wiki/양자역학 "wikilink")의 최고 권위자이자 유세이의 아버지인 후도 박사의 조수로 일했으며 렉스 고드윈의 형이다. 제로 리버스를 일으킨 장본인이며 동생 렉스 고드윈과 함께 명계로 떠난다. 메인 카드는 \[**지박신 Uru**(우르, 케츄아어:거미)\].
+    다크 시그너의 보스라 할 수 있는 존재. 17년 전 [양자역학](../Page/양자역학.md "wikilink")의 최고 권위자이자 유세이의 아버지인 후도 박사의 조수로 일했으며 렉스 고드윈의 형이다. 제로 리버스를 일으킨 장본인이며 동생 렉스 고드윈과 함께 명계로 떠난다. 메인 카드는 \[**지박신 Uru**(우르, 케츄아어:거미)\].
 
 <!-- end list -->
 
@@ -162,13 +162,13 @@
 ### 일리야스텔
 
   - 클라크 스미스
-    성우 - [사카마키 마나부](https://ko.wikipedia.org/wiki/사카마키_마나부 "wikilink")/ [고구인](https://ko.wikipedia.org/wiki/고구인 "wikilink")
+    성우 - [사카마키 마나부](https://ko.wikipedia.org/wiki/사카마키_마나부 "wikilink")/ [고구인](../Page/고구인.md "wikilink")
     일리야스텔의 3장관을 보좌하기 위해 Enter-D Express 개발 회사의 이사로서 웜홀 생성을 도모할 수 있는 인피니티라는 계획을 이끌면서 일리야스텔에 관한 비밀 정보를 많이 알게 된 셰리의 부모를 비밀 정보의 누설을 막기 위해 죽인 인물로 묘사되고 있다.
 
 <!-- end list -->
 
   -
-    사용하는 덱은 [기하학](https://ko.wikipedia.org/wiki/기하학 "wikilink")과 관련된 [수학](https://ko.wikipedia.org/wiki/수학 "wikilink") 덱이다.
+    사용하는 덱은 [기하학](../Page/기하학.md "wikilink")과 관련된 [수학](../Page/수학.md "wikilink") 덱이다.
 
 <!-- end list -->
 
@@ -195,7 +195,7 @@
 <!-- end list -->
 
   - 호세
-    성우 - [스고 타카유키](https://ko.wikipedia.org/wiki/스고_타카유키 "wikilink") / [최낙윤](https://ko.wikipedia.org/wiki/최낙윤 "wikilink")
+    성우 - [스고 타카유키](https://ko.wikipedia.org/wiki/스고_타카유키 "wikilink") / [최낙윤](../Page/최낙윤.md "wikilink")
     현 일리야스텔의 3장관 중 한명. 노인의 모습을 하고 있다. \[기계황제 그란엘\]을 다루는 인물. 가장 연장자이며, 이론을 중시하고 신중한 성격. WR-GPX에 출전하여 유세이와 듀얼에서 \[그란엘\]이 파괴되자, 아포리아로 합체하여 라이프 4000으로 다시 듀얼을 시작한다.
 
 <!-- end list -->
@@ -217,13 +217,13 @@
 <!-- end list -->
 
   - 안티노미
-    성우 - [타나카 히로키](https://ko.wikipedia.org/wiki/타나카_히로키 "wikilink") / [이광수](https://ko.wikipedia.org/wiki/이광수_\(성우\) "wikilink")
+    성우 - [타나카 히로키](https://ko.wikipedia.org/wiki/타나카_히로키 "wikilink") / [이광수](../Page/이광수_\(성우\).md "wikilink")
     일리야스텔의 일원. 안티노미의 정체는 브루노이다. 이름의 모티브는 철학 용어 [안티노미](https://ko.wikipedia.org/wiki/안티노미 "wikilink")(Antinomy, 이율배반). 사용 덱은 테크지너스(TG) 덱. 에이스로는 최강의 델타 엑셀 싱크로 몬스터인 TG 할 버드 캐논이 있다,
 
 <!-- end list -->
 
   - Z-one
-    성우 - [이시카와 히데오](https://ko.wikipedia.org/wiki/이시카와_히데오 "wikilink") / [이재범](https://ko.wikipedia.org/wiki/이재범 "wikilink")
+    성우 - [이시카와 히데오](../Page/이시카와_히데오.md "wikilink") / [이재범](../Page/이재범.md "wikilink")
     패러독스(극장판인 시공을 초월한 우정편에 출연), 아포리아, 안티노미(브루노)를 현세로 보내 후도 유세이가 네오 도미노 시티를 구하는 것을 저지하는 인물. 원래는 세상을 구하려고 여러 방법을 사용하였지만 세상이 멸망하여 인류가 사라지는 현상을 목격하게 되자 네오 도미노 시티를 역사에서 말살시키는 것을 목표로 계획을 세워 진행하게 된다.
 
 ## 방영 리스트
@@ -258,7 +258,7 @@
 
 | 타이틀                   | 아티스트                                                        | 에피소드 \#     |
 | --------------------- | ----------------------------------------------------------- | ----------- |
-| **絆-キズナ-**            | [Kra](https://ko.wikipedia.org/wiki/Kra_\(밴드\) "wikilink")  | 1-26        |
+| **絆-キズナ-**            | [Kra](../Page/Kra_\(밴드\).md "wikilink")                     | 1-26        |
 | **LAST TRAIN -新しい朝-** | knotlamp                                                    | 27-64\[1\]  |
 | **FREEDOM**           | La-Vie.                                                     | 65-103\[2\] |
 | **BELIEVE IN NEXUS**  | [엔도 마사아키](https://ko.wikipedia.org/wiki/엔도_마사아키 "wikilink") | 104-129     |

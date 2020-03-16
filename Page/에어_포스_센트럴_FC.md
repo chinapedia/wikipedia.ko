@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
 
 
-**에어 포스 센트럴 FC**(, )는 [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")을 연고로 하는 [태국](../Page/태국.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [타이 리그 2에](../Page/타이_리그_2.md "wikilink") 참가하고 있다. [1937년](https://ko.wikipedia.org/wiki/1937년 "wikilink")부터 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")까지는 **태국 왕실 공군 FC**(Royal Thai Air Force)라는 명칭을 사용했다.
+**에어 포스 센트럴 FC**(, )는 [방콕](../Page/방콕.md "wikilink")을 연고로 하는 [태국](../Page/태국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [타이 리그 2에](../Page/타이_리그_2.md "wikilink") 참가하고 있다. [1937년](../Page/1937년.md "wikilink")부터 [2009년](../Page/2009년.md "wikilink")까지는 **태국 왕실 공군 FC**(Royal Thai Air Force)라는 명칭을 사용했다.
 
 ## 성적
 
@@ -17,7 +17,7 @@
 
   - [삐야뽕 쁘온](https://ko.wikipedia.org/wiki/삐야뽕_쁘온 "wikilink")
 
-  - [방승환](https://ko.wikipedia.org/wiki/방승환 "wikilink")
+  - [방승환](../Page/방승환.md "wikilink")
 
   - [이진호](https://ko.wikipedia.org/wiki/이진호_\(축구_선수\) "wikilink")
 

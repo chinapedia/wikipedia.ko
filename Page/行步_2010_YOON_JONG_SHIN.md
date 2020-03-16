@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 2010 YOON JONG SHIN](https://ko.wikipedia.org/wiki/_2010_YOON_JONG_SHIN).
 
 
-《**行步 2010 YOON JONG SHIN**》(행보 2010 윤종신)은 가수 [윤종신](../Page/윤종신.md "wikilink")의 정규 12집 음반이다. 정규 11집 음반 《[동네 한 바퀴](https://ko.wikipedia.org/wiki/동네_한_바퀴_\(윤종신의_음반\) "wikilink")》 이후에 약 1년 11개월만의 발매된 음반이다. 정규 음반 발매일은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 28일이다](https://ko.wikipedia.org/wiki/10월_28일 "wikilink"). 이번 음반은 금년 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》 프로젝트에 수록되었던 음반들을 합쳐서 정규 음반으로 발매되었다. 동시에 월간 윤종신의 11월과 12월에 수록될 곡과 1월에 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방송된 《[Director's Cut](https://ko.wikipedia.org/wiki/Director's_Cut "wikilink") 시즌 1》에서 나온 싱글들도 포함이 되어 동시에 발매가 되었다. 이번 음반의 타이틀 곡은 〈이별의 온도〉이다.
+《**行步 2010 YOON JONG SHIN**》(행보 2010 윤종신)은 가수 [윤종신](../Page/윤종신.md "wikilink")의 정규 12집 음반이다. 정규 11집 음반 《[동네 한 바퀴](../Page/동네_한_바퀴_\(윤종신의_음반\).md "wikilink")》 이후에 약 1년 11개월만의 발매된 음반이다. 정규 음반 발매일은 [2010년](../Page/2010년.md "wikilink") [10월 28일이다](../Page/10월_28일.md "wikilink"). 이번 음반은 금년 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》 프로젝트에 수록되었던 음반들을 합쳐서 정규 음반으로 발매되었다. 동시에 월간 윤종신의 11월과 12월에 수록될 곡과 1월에 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방송된 《[Director's Cut](https://ko.wikipedia.org/wiki/Director's_Cut "wikilink") 시즌 1》에서 나온 싱글들도 포함이 되어 동시에 발매가 되었다. 이번 음반의 타이틀 곡은 〈이별의 온도〉이다.
 
 ## 수록곡
 
@@ -40,7 +40,7 @@
 :\* 코러스 : 윤종신
 
 3\. 그대 없이는 못살아 (봄 Ver.)
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》 4월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》 4월호 수록곡\]</small>
 
 :\* 작곡/작사 : 윤종신
 
@@ -59,7 +59,7 @@
 :\* 하모니카 : 하림
 
 4\. 막걸리나
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》4월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》4월호 수록곡\]</small>
 
 :\* 작곡/작사 : 윤종신
 
@@ -73,8 +73,8 @@
 
 :\* 하모니카, 코러스 : 하림
 
-5\. 본능적으로 (Feat. [Swings](https://ko.wikipedia.org/wiki/스윙스 "wikilink"))
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》5월호 수록곡\]</small>
+5\. 본능적으로 (Feat. [Swings](../Page/스윙스.md "wikilink"))
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》5월호 수록곡\]</small>
 
 :\* 작곡/작사 : 윤종신
 
@@ -89,7 +89,7 @@
 :\* 코러스 : 강성호
 
 6\. 이성적으로
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》5월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》5월호 수록곡\]</small>
 
 :\* 작곡/작사 : 윤종신
 
@@ -100,7 +100,7 @@
 :\* 코러스 : 강성호
 
 7\. 넌 완성이었어
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》6월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》6월호 수록곡\]</small>
 
 :\* 작곡/작사 : 윤종신
 
@@ -113,7 +113,7 @@
 :\* 코러스 : 강성호
 
 8\. 치과에서 (Feat. 조정치)
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》6월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》6월호 수록곡\]</small>
 
 :\* 작곡/작사 : 윤종신
 
@@ -124,7 +124,7 @@
 :\* 탬버린, 코러스 : 강성호
 
 9\. 바래바래
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》7월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》7월호 수록곡\]</small>
 
 :\* 작곡/작사 : 윤종신
 
@@ -135,7 +135,7 @@
 :\* 기타 : 허석
 
 10\. 해변의 추억 (Day Ver.)
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》8월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》8월호 수록곡\]</small>
 
 :\* 작곡/작사/편곡 : 윤종신
 
@@ -144,7 +144,7 @@
 :\* 퍼커션, 코러스 : 강성호
 
 11\. 해변의 추억 (Night Ver.)
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》8월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》8월호 수록곡\]</small>
 
 :\* 작곡/작사/편곡 : 윤종신
 
@@ -155,7 +155,7 @@
 :\* 클라리넷 : 권병호
 
 12\. 후회 王 (Vocal. 김연우)
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》9월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》9월호 수록곡\]</small>
 
 :\* 작곡 : 윤종신 / 이근호
 
@@ -172,7 +172,7 @@
 :\* 코러스 : 강성호
 
 13\. 그대 없이는 못살아
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》10월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》10월호 수록곡\]</small>
 
 :\* 작곡 : 윤종신 / 이근호
 
@@ -191,7 +191,7 @@
 :\* 피아노 : 박용준
 
 14\. Walking Man
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》11월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》11월호 수록곡\]</small>
 
 :\* 작곡/작사 : 윤종신
 
@@ -208,7 +208,7 @@
 :\* 피아노 : 이근호
 
 15\. **이별의 온도**
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》11월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》11월호 수록곡\]</small>
 
 :\* 작곡/작사/편곡 : 윤종신
 
@@ -223,7 +223,7 @@
 :\* 피아노 : 박용준
 
 16\. 12月
-<small>\[2010 《[월간 윤종신](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink")》12월호 수록곡\]</small>
+<small>\[2010 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》12월호 수록곡\]</small>
 
 :\* 작곡 : 윤종신 / 이근호
 

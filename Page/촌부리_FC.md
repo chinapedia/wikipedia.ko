@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**촌부리 FC**(, )는 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 창단된 [촌부리 주의](https://ko.wikipedia.org/wiki/촌부리_주 "wikilink") [촌부리](https://ko.wikipedia.org/wiki/촌부리 "wikilink")를 연고로 하는 [태국](../Page/태국.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [타이 리그에](https://ko.wikipedia.org/wiki/타이_리그 "wikilink") 참가하고 있다.
+**촌부리 FC**(, )는 [1997년](../Page/1997년.md "wikilink")에 창단된 [촌부리 주의](https://ko.wikipedia.org/wiki/촌부리_주 "wikilink") [촌부리](https://ko.wikipedia.org/wiki/촌부리 "wikilink")를 연고로 하는 [태국](../Page/태국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [타이 리그에](https://ko.wikipedia.org/wiki/타이_리그 "wikilink") 참가하고 있다.
 
 ## 성적
 
@@ -18,7 +18,7 @@
 
 ## 유명한 선수
 
-  - [전광진](https://ko.wikipedia.org/wiki/전광진_\(축구_선수\) "wikilink")
+  - [전광진](../Page/전광진_\(축구_선수\).md "wikilink")
 
   - [김철호](../Page/김철호_\(1983년\).md "wikilink")
 

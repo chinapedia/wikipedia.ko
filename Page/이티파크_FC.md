@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**에티파크 FC**(, )는 [사우디아라비아](../Page/사우디아라비아.md "wikilink") [담맘](https://ko.wikipedia.org/wiki/담맘 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. "에티파크"는 [아랍어](https://ko.wikipedia.org/wiki/아랍어 "wikilink")로 "협동"을 뜻한다.
+**에티파크 FC**(, )는 [사우디아라비아](../Page/사우디아라비아.md "wikilink") [담맘](../Page/담맘.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. "에티파크"는 [아랍어](../Page/아랍어.md "wikilink")로 "협동"을 뜻한다.
 
 ## 성적
 

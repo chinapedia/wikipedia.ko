@@ -22,10 +22,10 @@
 <!-- end list -->
 
   - Britney Live From [Waikiki beach](https://ko.wikipedia.org/wiki/와이키키 "wikilink"), [Hawaii](https://ko.wikipedia.org/wiki/하와이 "wikilink"):
-    1.  "[(You Drive Me) Crazy](https://ko.wikipedia.org/wiki/\(You_Drive_Me\)_Crazy "wikilink")"
+    1.  "[(You Drive Me) Crazy](../Page/\(You_Drive_Me\)_Crazy.md "wikilink")"
     2.  "[Sometimes](https://ko.wikipedia.org/wiki/Sometimes "wikilink")"
     3.  "[From the Bottom of My Broken Heart](https://ko.wikipedia.org/wiki/From_the_Bottom_of_My_Broken_Heart "wikilink")"
-    4.  "[Born to Make You Happy](https://ko.wikipedia.org/wiki/Born_to_Make_You_Happy "wikilink")"
+    4.  "[Born to Make You Happy](../Page/Born_to_Make_You_Happy.md "wikilink")"
     5.  "[Oops\!... I Did It Again](https://ko.wikipedia.org/wiki/Oops!…_I_Did_It_Again_\(노래\) "wikilink")"
     6.  "[Don't Let Me Be the Last to Know](https://ko.wikipedia.org/wiki/Don't_Let_Me_Be_the_Last_to_Know "wikilink")"
     7.  "[The Beat Goes On](https://ko.wikipedia.org/wiki/The_Beat_Goes_On "wikilink")"

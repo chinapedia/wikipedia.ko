@@ -5,8 +5,8 @@
 
 ## 개요
 
-  - [제네온 엔터테인먼트를](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") 통해 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") 통상판과 초회한정판 2종류가 발매되었다
-  - 초회한정판에는 본인이 출현한 [뮤직 비디오를](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 수록한 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")가 동봉되어 있다.
+  - [제네온 엔터테인먼트를](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") 통해 [2007년](../Page/2007년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") 통상판과 초회한정판 2종류가 발매되었다
+  - 초회한정판에는 본인이 출현한 [뮤직 비디오를](../Page/뮤직_비디오.md "wikilink") 수록한 [DVD](../Page/DVD.md "wikilink")가 동봉되어 있다.
 
 ## 수록 곡
 

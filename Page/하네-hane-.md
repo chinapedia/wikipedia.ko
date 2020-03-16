@@ -49,7 +49,7 @@ KOTOKO의 메이저 데뷔 앨범. 데뷔 이전 데뷔 싱글을 발매한 바 
 
 ## 북미 판
 
-[북미에는](https://ko.wikipedia.org/wiki/미국 "wikilink") [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") **HANE**라는 제목으로 발매되었다.
+[북미에는](../Page/미국.md "wikilink") [2006년](../Page/2006년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") **HANE**라는 제목으로 발매되었다.
 
 ### 수록 곡
 

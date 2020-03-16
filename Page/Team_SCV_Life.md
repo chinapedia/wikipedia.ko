@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [Team SCV Life](https://ko.wikipedia.org/wiki/Team_SCV_Life).
 
 
-**TSL**(Team SCV Life)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 스타크래프트 II 프로게임단이었다.
+**TSL**(Team SCV Life)은 [대한민국](../Page/대한민국.md "wikilink")의 스타크래프트 II 프로게임단이었다.
 
 ## 역사
 
-TSL은 MBC게임 히어로 코치직을 사임한 [이운재가](https://ko.wikipedia.org/wiki/이운재_\(프로게이머\) "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") 창단한 스타크래프트 2 게임단이다. [2010](https://ko.wikipedia.org/wiki/2010 "wikilink")년 [10월 14일에](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") 용산 아이파크몰에서 정식 창단식을 가졌다. 스타크래프트 II 게임단으로는 이례적으로 메인스폰서로 '지.스킬', 실버 스폰서로 '이엠텍아이엔씨', '아수스 에스티컴', '스카이지털', '오리온정보통신', '에너맥스 씨엠코포레이션'등 수많은 컴퓨터 하드웨어 업체들의 후원을 받았다.
+TSL은 MBC게임 히어로 코치직을 사임한 [이운재가](https://ko.wikipedia.org/wiki/이운재_\(프로게이머\) "wikilink") [2010년](../Page/2010년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") 창단한 스타크래프트 2 게임단이다. [2010](https://ko.wikipedia.org/wiki/2010 "wikilink")년 [10월 14일에](../Page/10월_14일.md "wikilink") 용산 아이파크몰에서 정식 창단식을 가졌다. 스타크래프트 II 게임단으로는 이례적으로 메인스폰서로 '지.스킬', 실버 스폰서로 '이엠텍아이엔씨', '아수스 에스티컴', '스카이지털', '오리온정보통신', '에너맥스 씨엠코포레이션'등 수많은 컴퓨터 하드웨어 업체들의 후원을 받았다.
 
 2013년 1월 3일 스폰서들과의 재계약에 실패하여 해체되었다.\[1\]
 
 ## 게임단 연혁
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") TSL 비공식 창단
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 14일](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") TSL 공식 창단
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") TSL 공식 해체
+  - [2010년](../Page/2010년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") TSL 비공식 창단
+  - [2010년](../Page/2010년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") TSL 공식 창단
+  - [2013년](../Page/2013년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") TSL 공식 해체
 
 ## 역대 성적
 
@@ -24,7 +24,7 @@ TSL은 MBC게임 히어로 코치직을 사임한 [이운재가](https://ko.wiki
 
 ## 역대 팀 감독
 
-  - 1대 감독 : [이운재](https://ko.wikipedia.org/wiki/이운재_\(프로게이머\) "wikilink") ( 재임 기간:[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink"))
+  - 1대 감독 : [이운재](https://ko.wikipedia.org/wiki/이운재_\(프로게이머\) "wikilink") ( 재임 기간:[2010년](../Page/2010년.md "wikilink")-[2013년](../Page/2013년.md "wikilink"))
 
 ## 주요 종목
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love \~\~](https://ko.wikipedia.org/wiki/Love_\~\~).
 
 
-〈**Love \~이츠마데모언제까지나\~**〉()는[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 3인조 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 《***[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")***》가 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 6번째 싱글 음반이다. 대한민국 3집 타이틀 곡을 일본어로 번안하여 발표했다.
+〈**Love \~이츠마데모언제까지나\~**〉()는[대한민국](../Page/대한민국.md "wikilink")의 3인조 [걸 그룹](../Page/걸_그룹.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 《***[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")***》가 [일본](../Page/일본.md "wikilink")에서 발매한 6번째 싱글 음반이다. 대한민국 3집 타이틀 곡을 일본어로 번안하여 발표했다.
 
 ## 설명
 

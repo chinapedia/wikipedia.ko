@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [   II OPEN Season 2](https://ko.wikipedia.org/wiki/___II_OPEN_Season_2).
 
 
-**소니 에릭슨 스타크래프트 II OPEN Season 2**은 세계 최초의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 대회인 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 두 번째 리그이며 2011 GSL의 Code S 32명과 Code A 64명을 결정하기 위한 2010년의 3개 대회 중 두 번째 대회로 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 18일에](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") 개막하였다.
+**소니 에릭슨 스타크래프트 II OPEN Season 2**은 세계 최초의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 대회인 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 두 번째 리그이며 2011 GSL의 Code S 32명과 Code A 64명을 결정하기 위한 2010년의 3개 대회 중 두 번째 대회로 [2010년](../Page/2010년.md "wikilink") [10월 18일에](../Page/10월_18일.md "wikilink") 개막하였다.
 
 ## 리그 일정
 
-  - 참가 접수 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") \~ [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink")
-  - 오프라인 예선: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 9일](https://ko.wikipedia.org/wiki/10월_9일 "wikilink") \~ [10월 12일](https://ko.wikipedia.org/wiki/10월_12일 "wikilink")
-  - 64강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 18일](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") \~ [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink")
-  - 32강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink"), [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") \~ [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink")
-  - 16강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink")\~ [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink")
-  - 8강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") \~ [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink")
-  - 4강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") \~ [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink")
-  - 결승 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink")
+  - 참가 접수 : [2010년](../Page/2010년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") \~ [10월 3일](../Page/10월_3일.md "wikilink")
+  - 오프라인 예선: [2010년](../Page/2010년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink") \~ [10월 12일](../Page/10월_12일.md "wikilink")
+  - 64강 : [2010년](../Page/2010년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") \~ [10월 21일](../Page/10월_21일.md "wikilink")
+  - 32강 : [2010년](../Page/2010년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink"), [10월 25일](../Page/10월_25일.md "wikilink") \~ [10월 27일](../Page/10월_27일.md "wikilink")
+  - 16강 : [2010년](../Page/2010년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink")\~ [10월 29일](../Page/10월_29일.md "wikilink")
+  - 8강 : [2010년](../Page/2010년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") \~ [11월 2일](../Page/11월_2일.md "wikilink")
+  - 4강 : [2010년](../Page/2010년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ [11월 5일](../Page/11월_5일.md "wikilink")
+  - 결승 : [2010년](../Page/2010년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink")
 
 ## 리그 방식
 
@@ -52,7 +52,7 @@
   - 한국어
       - 1 캐스터, 2 해설 체재로 진행
       - 캐스터 : [이현주](../Page/이현주_\(방송인\).md "wikilink"), [조진성](https://ko.wikipedia.org/wiki/조진성 "wikilink")
-      - 해설 : [채정원](https://ko.wikipedia.org/wiki/채정원 "wikilink"), [안준영](https://ko.wikipedia.org/wiki/안준영_\(방송인\) "wikilink"), [이주영](../Page/이주영_\(프로게이머\).md "wikilink"), [박대만](../Page/박대만.md "wikilink")
+      - 해설 : [채정원](../Page/채정원.md "wikilink"), [안준영](../Page/안준영_\(방송인\).md "wikilink"), [이주영](../Page/이주영_\(프로게이머\).md "wikilink"), [박대만](../Page/박대만.md "wikilink")
   - 영어
       - 1 캐스터, 1 해설 체재로 진행
       - 캐스터 : [Nicholas Plott](https://ko.wikipedia.org/wiki/Nicholas_Plott "wikilink")
@@ -61,7 +61,7 @@
 ## 경기장
 
   - 오프라인 예선 : 신도림 테크노마트 인텔 e스타디움
-  - 본선 : [서울영상고등학교](https://ko.wikipedia.org/wiki/서울영상고등학교 "wikilink") 강당 곰TV 스튜디오
+  - 본선 : [서울영상고등학교](../Page/서울영상고등학교.md "wikilink") 강당 곰TV 스튜디오
   - 결승: 서울 [장충체육관](../Page/장충체육관.md "wikilink")
 
 ## 리그 BGM
@@ -184,7 +184,7 @@
 <td style="text-align: center;"><p><strong>직전 대회 성적</strong></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/곽한얼" title="wikilink">곽한얼</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/곽한얼.md" title="wikilink">곽한얼</a></p></td>
 <td style="text-align: center;"><p>MakaPrime</p></td>
 <td style="text-align: center;"><p>8강</p></td>
 </tr>
@@ -219,7 +219,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/박서용" title="wikilink">박서용</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/박서용.md" title="wikilink">박서용</a></p></td>
 <td style="text-align: center;"><p>TSL_Rain</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
@@ -229,7 +229,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/박준_(프로게이머)" title="wikilink">박준</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/박준_(프로게이머).md" title="wikilink">박준</a></p></td>
 <td style="text-align: center;"><p>Bless</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
@@ -269,17 +269,17 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/이정훈_(프로게이머)" title="wikilink">이정훈</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/이정훈_(프로게이머).md" title="wikilink">이정훈</a></p></td>
 <td style="text-align: center;"><p>BoxeR</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/임요환" title="wikilink">임요환</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/임요환.md" title="wikilink">임요환</a></p></td>
 <td style="text-align: center;"><p>SlayerSBoxeR</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/정종현" title="wikilink">정종현</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/정종현.md" title="wikilink">정종현</a></p></td>
 <td style="text-align: center;"><p>IMmvp</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
@@ -309,7 +309,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/한규종" title="wikilink">한규종</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/한규종.md" title="wikilink">한규종</a></p></td>
 <td style="text-align: center;"><p>TSL_Clide</p></td>
 <td style="text-align: center;"><p>16강</p></td>
 </tr>
@@ -341,7 +341,7 @@
 <td style="text-align: center;"><p><strong>직전 대회 성적</strong></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/김수호" title="wikilink">김수호</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/김수호.md" title="wikilink">김수호</a></p></td>
 <td style="text-align: center;"><p>NEX수호신</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
@@ -371,7 +371,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/이동녕_(프로게이머)" title="wikilink">이동녕</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/이동녕_(프로게이머).md" title="wikilink">이동녕</a></p></td>
 <td style="text-align: center;"><p>Leenock</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
@@ -381,7 +381,7 @@
 <td style="text-align: center;"><p>16강</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/임재덕" title="wikilink">임재덕</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/임재덕.md" title="wikilink">임재덕</a></p></td>
 <td style="text-align: center;"><p>NesTea</p></td>
 <td style="text-align: center;"><p>64강</p></td>
 </tr>
@@ -396,7 +396,7 @@
 <td style="text-align: center;"><p>32강</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/최정민_(프로게이머)" title="wikilink">최정민</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/최정민_(프로게이머).md" title="wikilink">최정민</a></p></td>
 <td style="text-align: center;"><p>oGsZenio</p></td>
 <td style="text-align: center;"><p>32강</p></td>
 </tr>
@@ -411,7 +411,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/그렉_필즈" title="wikilink">그렉 필즈</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/그렉_필즈.md" title="wikilink">그렉 필즈</a></p></td>
 <td style="text-align: center;"><p>EGIdrA</p></td>
 <td style="text-align: center;"><p>32강</p></td>
 </tr>
@@ -423,7 +423,7 @@
 |                                                               |                 |              |
 | :-----------------------------------------------------------: | :-------------: | :----------: |
 |                            **이름**                             |     **ID**      | **직전 대회 성적** |
-|      [강초원](https://ko.wikipedia.org/wiki/강초원 "wikilink")      |    sanZenith    |     16강      |
+|               [강초원](../Page/강초원.md "wikilink")                |    sanZenith    |     16강      |
 |      [공진세](https://ko.wikipedia.org/wiki/공진세 "wikilink")      |    NEXChief     |      \-      |
 |               [김경덕](../Page/김경덕.md "wikilink")                |    즐겨찢기WeRRa    |      \-      |
 | [김경수](https://ko.wikipedia.org/wiki/김경수\(프로게이머\) "wikilink")  | LegalMinDZenith |     16강      |
@@ -432,39 +432,39 @@
 | [박효종](https://ko.wikipedia.org/wiki/박효종_\(프로게이머\) "wikilink") |     삐삐Jung      |      \-      |
 | [변현우](https://ko.wikipedia.org/wiki/변현우_\(프로게이머\) "wikilink") |     NEX블리치      |      \-      |
 |               [서명덕](../Page/서명덕.md "wikilink")                |    반반쓰Zenith    |      \-      |
-|      [송준혁](https://ko.wikipedia.org/wiki/송준혁 "wikilink")      |     oGsInca     |      8강      |
+|               [송준혁](../Page/송준혁.md "wikilink")                |     oGsInca     |      8강      |
 |          [신상호](../Page/신상호_\(프로게이머\).md "wikilink")           | TSL_BabyByeBye |      \-      |
 |      [안정민](https://ko.wikipedia.org/wiki/안정민 "wikilink")      |       코어짱       |      \-      |
-|      [안홍욱](https://ko.wikipedia.org/wiki/안홍욱 "wikilink")      |   HongUnPrime   |      8강      |
+|               [안홍욱](../Page/안홍욱.md "wikilink")                |   HongUnPrime   |      8강      |
 |               [오창종](../Page/오창종.md "wikilink")                |   ReXZanDarke   |     32강      |
 |      [우경철](https://ko.wikipedia.org/wiki/우경철 "wikilink")      |  FreeDSLWeRRa   |      \-      |
 |      [우민규](https://ko.wikipedia.org/wiki/우민규 "wikilink")      |   Overthezero   |      \-      |
-|      [이형섭](https://ko.wikipedia.org/wiki/이형섭 "wikilink")      |    choyafOu     |      \-      |
+|               [이형섭](../Page/이형섭.md "wikilink")                |    choyafOu     |      \-      |
 |               [장민철](../Page/장민철.md "wikilink")                |      oGsMC      |     64강      |
 |      [정민수](https://ko.wikipedia.org/wiki/정민수 "wikilink")      |    NEXGenius    |     64강      |
-|      [정우서](https://ko.wikipedia.org/wiki/정우서 "wikilink")      |     St_Ace     |      \-      |
+|               [정우서](../Page/정우서.md "wikilink")                |     St_Ace     |      \-      |
 
 ## 본선 대진표
 
 ## 결과
 
-  - **우승 : [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink")**
-  - **준우승 : [이정훈](https://ko.wikipedia.org/wiki/이정훈_\(프로게이머\) "wikilink")**
+  - **우승 : [임재덕](../Page/임재덕.md "wikilink")**
+  - **준우승 : [이정훈](../Page/이정훈_\(프로게이머\).md "wikilink")**
   - **2011 GSL Code S 등급 확보자** (굵은 글씨는 중복 확보)
 
-|                                                               |                     |        |
-| :-----------------------------------------------------------: | :-----------------: | :----: |
-|                            **이름**                             |       **ID**        | **종족** |
-|        **[김성제](../Page/김성제_\(프로게이머\).md "wikilink")**         | **St_HopeTorture** | **테란** |
-|               [이윤열](../Page/이윤열.md "wikilink")                |       oGsNaDA       |   테란   |
-| [이정훈](https://ko.wikipedia.org/wiki/이정훈_\(프로게이머\) "wikilink") |        BoxeR        |   테란   |
-|      [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")      |    SlayerSBoxeR     |   테란   |
-|      [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink")      |       NesTea        |   저그   |
-|      [정민수](https://ko.wikipedia.org/wiki/정민수 "wikilink")      |      NEXGenius      |  프로토스  |
-| [최정민](https://ko.wikipedia.org/wiki/최정민_\(프로게이머\) "wikilink") |      oGsZenio       |   저그   |
-|       [한준](https://ko.wikipedia.org/wiki/한준 "wikilink")       |     KyrixZenith     |   저그   |
+|                                                     |                     |        |
+| :-------------------------------------------------: | :-----------------: | :----: |
+|                       **이름**                        |       **ID**        | **종족** |
+|   **[김성제](../Page/김성제_\(프로게이머\).md "wikilink")**    | **St_HopeTorture** | **테란** |
+|          [이윤열](../Page/이윤열.md "wikilink")           |       oGsNaDA       |   테란   |
+|     [이정훈](../Page/이정훈_\(프로게이머\).md "wikilink")      |        BoxeR        |   테란   |
+|          [임요환](../Page/임요환.md "wikilink")           |    SlayerSBoxeR     |   테란   |
+|          [임재덕](../Page/임재덕.md "wikilink")           |       NesTea        |   저그   |
+| [정민수](https://ko.wikipedia.org/wiki/정민수 "wikilink") |      NEXGenius      |  프로토스  |
+|     [최정민](../Page/최정민_\(프로게이머\).md "wikilink")      |      oGsZenio       |   저그   |
+|  [한준](https://ko.wikipedia.org/wiki/한준 "wikilink")  |     KyrixZenith     |   저그   |
 
-## 예선 참가한 [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink") 프로게이머 출신 선수 명단
+## 예선 참가한 [스타크래프트](../Page/스타크래프트.md "wikilink") 프로게이머 출신 선수 명단
 
   - **테란**
 
@@ -473,7 +473,7 @@
 |                       **이름**                        |
 | [박성준](https://ko.wikipedia.org/wiki/박성준 "wikilink") |
 |          [이윤열](../Page/이윤열.md "wikilink")           |
-| [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink") |
+|          [임요환](../Page/임요환.md "wikilink")           |
 |                                                     |
 
 ## 각주

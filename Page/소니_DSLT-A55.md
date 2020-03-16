@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [ DSLT-A55](https://ko.wikipedia.org/wiki/_DSLT-A55).
 
 
-**소니 DSLT-A55**(Sony Alpha DSLT-A55)는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 출시된 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")의 [DSLT](https://ko.wikipedia.org/wiki/DSLT "wikilink")(Digital Single Lens Translucent) 카메라이다.\[1\] 반투명 거울을 채용한 제품으로 동영상 촬영중에도 빠르고 정확한 위상차 [자동초점](https://ko.wikipedia.org/wiki/자동초점 "wikilink")을 사용할 수 있어 기존 [DSLR](https://ko.wikipedia.org/wiki/DSLR "wikilink")의 구조적 한계를 극복한 새로운 형태의 제품이다. 저가형인 a33도 존재한다.
+**소니 DSLT-A55**(Sony Alpha DSLT-A55)는 [2010년](../Page/2010년.md "wikilink")에 출시된 [소니](../Page/소니.md "wikilink")의 [DSLT](https://ko.wikipedia.org/wiki/DSLT "wikilink")(Digital Single Lens Translucent) 카메라이다.\[1\] 반투명 거울을 채용한 제품으로 동영상 촬영중에도 빠르고 정확한 위상차 [자동초점](https://ko.wikipedia.org/wiki/자동초점 "wikilink")을 사용할 수 있어 기존 [DSLR](https://ko.wikipedia.org/wiki/DSLR "wikilink")의 구조적 한계를 극복한 새로운 형태의 제품이다. 저가형인 a33도 존재한다.
 
 ## 특징
 
 ### 장점
 
-기존, DSLR(디지털 일안 반사식 카메라)와는 달리, 빛을 반사시키는 펜타미러(거울)을 반투명 소재로 바꾸어, [렌즈](https://ko.wikipedia.org/wiki/렌즈 "wikilink")로 들어오는 빛의 일정부분을 위상차 [AF](https://ko.wikipedia.org/wiki/자동_초점 "wikilink")(자동 초점) 센서로 보내고, 일정부분을 이미지 센서로 보내 화상을 촬영하는 방식을 사용한다.
+기존, DSLR(디지털 일안 반사식 카메라)와는 달리, 빛을 반사시키는 펜타미러(거울)을 반투명 소재로 바꾸어, [렌즈](../Page/렌즈.md "wikilink")로 들어오는 빛의 일정부분을 위상차 [AF](../Page/자동_초점.md "wikilink")(자동 초점) 센서로 보내고, 일정부분을 이미지 센서로 보내 화상을 촬영하는 방식을 사용한다.
 
-거울이 움직이지 않고, 항시 대기하고 있기 때문에 위상차 [AF](https://ko.wikipedia.org/wiki/자동_초점 "wikilink")(자동 초점)를 항상 사용할 수 있으며, [셔터](../Page/셔터.md "wikilink")만 빠르게 움직일 수 있기 때문에 저가형임에도 빠른속도로 연속촬영이 가능하다. 거울이 움직이는 충격인 '[미러쇼크](https://ko.wikipedia.org/wiki/미러쇼크 "wikilink")'도 거의 발생하지 않는다.
+거울이 움직이지 않고, 항시 대기하고 있기 때문에 위상차 [AF](../Page/자동_초점.md "wikilink")(자동 초점)를 항상 사용할 수 있으며, [셔터](../Page/셔터.md "wikilink")만 빠르게 움직일 수 있기 때문에 저가형임에도 빠른속도로 연속촬영이 가능하다. 거울이 움직이는 충격인 '[미러쇼크](https://ko.wikipedia.org/wiki/미러쇼크 "wikilink")'도 거의 발생하지 않는다.
 
 100% 반사율의 기존 펜타미러 방식을 사용하지 않게 때문에, 광학식 뷰파인더 대신 [EVF](../Page/뷰파인더.md "wikilink")(전자식 뷰파인더) 가 탑재되었다.
 
-[EVF](../Page/뷰파인더.md "wikilink")(전자식 뷰파인더)는 광학식 뷰파인더 (OVF) 대비, 사진의 노출과 심도가 바로 반영되어 보인다는 것이 특징이다. 또한, 동영상 촬영시 위상차 [AF](https://ko.wikipedia.org/wiki/자동_초점 "wikilink")(자동 초점)가 가능한 최초의 렌즈 교체형 반사식 카메라로, 기존의 렌즈 교체형 반사식 카메라가 사용했던 컨트라스트 AF (명암비 검출 AF) 보다 빠르고 정확한 초점 측거가 가능하다.
+[EVF](../Page/뷰파인더.md "wikilink")(전자식 뷰파인더)는 광학식 뷰파인더 (OVF) 대비, 사진의 노출과 심도가 바로 반영되어 보인다는 것이 특징이다. 또한, 동영상 촬영시 위상차 [AF](../Page/자동_초점.md "wikilink")(자동 초점)가 가능한 최초의 렌즈 교체형 반사식 카메라로, 기존의 렌즈 교체형 반사식 카메라가 사용했던 컨트라스트 AF (명암비 검출 AF) 보다 빠르고 정확한 초점 측거가 가능하다.
 
 이 외 기존 소니 DSLR 제품군에 탑재되었던 먼지제거 (Anti-Dust) 기능과 센서 쉬프트 (Sensor-Shift) 방식 손떨림 보정 기능, 암부와 명부의 손실을 보정해주는 HDR (High-Dynamic-Range) 기능을 비롯해 스윕 파노라마\[2\]\[3\] 기능과 다중 프레임 노이즈 감쇄 기능 역시 탑재되었다.
 
@@ -31,7 +31,7 @@ a55와 a33은 거울을 제거하고 반투명 거울을 채택하였다. 하지
 
 소니는 같은날 저가형인 a33도 발매했다. a55보다 일부 기능이 떨어지면서 가격은 20만원 가량 저렴하다. a55와의 차이점은 다음과 같다.
 
-  - [GPS](https://ko.wikipedia.org/wiki/GPS "wikilink") 기능 삭제
+  - [GPS](../Page/GPS.md "wikilink") 기능 삭제
   - 1420만 [화소](https://ko.wikipedia.org/wiki/화소 "wikilink")
   - 433g으로 더 작고 가벼운 무게
   - 초당 7연사
@@ -59,7 +59,7 @@ a55와 a33은 거울을 제거하고 반투명 거울을 채택하였다. 하지
 
 1.  소니측에서는 DSLT라고 설명한다.
 2.
-3.  셔터를 누른 상태에서 옆으로 밀면서 촬영하면 [파노라마](https://ko.wikipedia.org/wiki/파노라마 "wikilink")가 촬영되는 기능이다.
+3.  셔터를 누른 상태에서 옆으로 밀면서 촬영하면 [파노라마](../Page/파노라마.md "wikilink")가 촬영되는 기능이다.
 4.  [SLR클럽 리뷰](http://www.slrclub.com/bbs/vx2.php?id=slr_review&page=1&divpage=1&ss=on&keyword=55&select_arrange=headnum&desc=asc&no=187)
 5.  [한국 온라인 전기차, 영어교사 로봇 … 타임 선정 ‘올해의 50대 발명품’에](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=025&aid=0002107041) 중앙일보 2010년 11월 15일
 6.  업체 설명에 의하면 손떨림 방지 기능을 켤 경우 4분, 끌경우 9분 촬영이 가능하다

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MC ](https://ko.wikipedia.org/wiki/MC_).
 
 
-**물루디아 클뢰브 도랑**(, ) 또는 **MC 오랑**()은 [오랑](https://ko.wikipedia.org/wiki/오랑 "wikilink")을 연고로 하는 알제리의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**물루디아 클뢰브 도랑**(, ) 또는 **MC 오랑**()은 [오랑](https://ko.wikipedia.org/wiki/오랑 "wikilink")을 연고로 하는 알제리의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
 ## 주요 경력
 
@@ -14,7 +14,7 @@
 
 ### 국제 대회
 
-  - [CAF 챔피언스리그](https://ko.wikipedia.org/wiki/CAF_챔피언스리그 "wikilink"): 준우승 1회 (1989)
+  - [CAF 챔피언스리그](../Page/CAF_챔피언스리그.md "wikilink"): 준우승 1회 (1989)
   - 아랍 챔피언스리그: 준우승 1회 (2001)
   - 아랍 컵 위너스컵: 우승 2회 (1997, 1998)
   - 아랍 슈퍼컵: 우승 1회 (1999)

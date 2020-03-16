@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MC ](https://ko.wikipedia.org/wiki/MC_).
 
 
-**`МС``   ``엔터테인먼트`**`(``, ``)는 `[`일본`](https://ko.wikipedia.org/wiki/일본 "wikilink")`, `[`미국`](https://ko.wikipedia.org/wiki/미국 "wikilink")`, `[`독일`](https://ko.wikipedia.org/wiki/독일 "wikilink")`, `[`영국`](https://ko.wikipedia.org/wiki/영국 "wikilink")`, `[`중국`](https://ko.wikipedia.org/wiki/중국 "wikilink")`, `[`타이`](https://ko.wikipedia.org/wiki/타이 "wikilink")`, `[`대한민국`](https://ko.wikipedia.org/wiki/대한민국 "wikilink")과` 다른나라`\[1\]` 의 비디오제품과 허가영화—를 러시아에 내고 있고 보급시키고 있는 회사-`[`디스트리뷰터`](https://ko.wikipedia.org/wiki/디스트리뷰터 "wikilink")`(дистрибьютор)이다. `[`2000년`](https://ko.wikipedia.org/wiki/2000년 "wikilink")에` 설립했다. `[`2007년`](https://ko.wikipedia.org/wiki/2007년 "wikilink")에` 러시아에서 가장 큰 `[`아니메`](https://ko.wikipedia.org/wiki/아니메 "wikilink")` 출판인이다`\[2\]`.`
+**`МС``   ``엔터테인먼트`**`(``, ``)는 `[`일본`](../Page/일본.md "wikilink")`, `[`미국`](../Page/미국.md "wikilink")`, `[`독일`](../Page/독일.md "wikilink")`, `[`영국`](../Page/영국.md "wikilink")`, `[`중국`](../Page/중국.md "wikilink")`, `[`타이`](https://ko.wikipedia.org/wiki/타이 "wikilink")`, `[`대한민국`](../Page/대한민국.md "wikilink")과` 다른나라`\[1\]` 의 비디오제품과 허가영화—를 러시아에 내고 있고 보급시키고 있는 회사-`[`디스트리뷰터`](https://ko.wikipedia.org/wiki/디스트리뷰터 "wikilink")`(дистрибьютор)이다. `[`2000년`](../Page/2000년.md "wikilink")에` 설립했다. `[`2007년`](../Page/2007년.md "wikilink")에` 러시아에서 가장 큰 `[`아니메`](https://ko.wikipedia.org/wiki/아니메 "wikilink")` 출판인이다`\[2\]`.`
 
 ## 허가 목록
 
@@ -9,23 +9,23 @@
 
 바로 지금 다음 영화들과 시리즈 출판에 대해 낸 또는 준비하고 있다\[3\]:
 
-  - Aachi and Ssipak ([아치와 씨팍](https://ko.wikipedia.org/wiki/아치와_씨팍 "wikilink"))
+  - Aachi and Ssipak ([아치와 씨팍](../Page/아치와_씨팍.md "wikilink"))
   - Afro Samurai ([아프로사무라이](https://ko.wikipedia.org/wiki/아프로사무라이 "wikilink"))
-  - Ah\! My Goddess\! ([오\! 나의 여신님](https://ko.wikipedia.org/wiki/오!_나의_여신님 "wikilink"))
+  - Ah\! My Goddess\! ([오\! 나의 여신님](../Page/오!_나의_여신님.md "wikilink"))
   - Angelic Layer ([엔젤릭레이어](https://ko.wikipedia.org/wiki/엔젤릭레이어 "wikilink"))
   - Aquarion
   - Armitage III: Poly-Matrix
       - Armitage III: Dual Matrix
   - BALDR FORCE EXE Resolution
   - Bandit King Jing([왕도둑 징](https://ko.wikipedia.org/wiki/왕도둑_징 "wikilink"))
-  - Berserk([베르세르크](https://ko.wikipedia.org/wiki/베르세르크 "wikilink"))
+  - Berserk([베르세르크](../Page/베르세르크.md "wikilink"))
   - Black Blood Brothers
   - Black Lagoon([블랙 라군](../Page/블랙_라군.md "wikilink"))
   - Blue Submarine \#6
   - Boy Who Saw The Wind
   - Burn-Up\!
       - Burn-Up Scramble
-  - Chobits([쵸비츠](https://ko.wikipedia.org/wiki/쵸비츠 "wikilink"))
+  - Chobits([쵸비츠](../Page/쵸비츠.md "wikilink"))
   - Chrno Crusade ([크루노 크루세이드](https://ko.wikipedia.org/wiki/크루노_크루세이드 "wikilink"))
   - Coyote Ragtime Show
   - Cyborg 009 — The Cyborg Soldier
@@ -36,7 +36,7 @@
   - D.N.Angel([D.N.Angel](https://ko.wikipedia.org/wiki/D.N.Angel "wikilink"))
   - El-Hazard: The Wanderers
   - Elemental Gelade
-  - Elfen Lied([엘펜리트](https://ko.wikipedia.org/wiki/엘펜리트 "wikilink"))
+  - Elfen Lied([엘펜리트](../Page/엘펜리트.md "wikilink"))
   - Ergo Proxy
   - Evangelion([에반게리온](https://ko.wikipedia.org/wiki/에반게리온 "wikilink"))
   - Final Fantasy: Unlimited
@@ -45,7 +45,7 @@
   - Full Metal Panic\!([풀메탈 패닉](https://ko.wikipedia.org/wiki/풀메탈_패닉 "wikilink"))
       - Full Metal Panic Fumoffu
       - Full Metal Panic — The Second Raid
-  - Fushigi Yuugi([환상게임](https://ko.wikipedia.org/wiki/환상게임 "wikilink"))
+  - Fushigi Yuugi([환상게임](../Page/환상게임.md "wikilink"))
   - Ghost Hound ([고스트하운드](https://ko.wikipedia.org/wiki/고스트하운드 "wikilink"))
   - Ghost in the Shell 2: Innocence
       - Ghost in the Shell: Stand Alone Complex
@@ -74,7 +74,7 @@
   - King of Bandit Jing([왕도둑 징](https://ko.wikipedia.org/wiki/왕도둑_징 "wikilink"))
   - Kishin Corps: Alien Defender Geo-Armor
   - Kite
-  - Last Exile([라스트 엑자일](https://ko.wikipedia.org/wiki/라스트_엑자일 "wikilink"))
+  - Last Exile([라스트 엑자일](../Page/라스트_엑자일.md "wikilink"))
   - Lost Universe
   - Macross Plus
   - Mahoromatic — Automatic Maiden([마호로매틱](../Page/마호로매틱.md "wikilink"))
@@ -113,7 +113,7 @@
   - Shin Angyo Onshi
   - Shin Hokuto no Ken
   - Sin, the Movie
-  - Slayers([슬레이어즈](https://ko.wikipedia.org/wiki/슬레이어즈 "wikilink"))
+  - Slayers([슬레이어즈](../Page/슬레이어즈.md "wikilink"))
       - Slayers next ([슬레이어즈 Next](https://ko.wikipedia.org/wiki/슬레이어즈_Next "wikilink"))
       - Slayers try ([슬레이어즈 Try](https://ko.wikipedia.org/wiki/슬레이어즈_Try "wikilink"))
   - Sol Bianca: The Legacy
@@ -128,7 +128,7 @@
       - Shin chojin densetsu Urotsukidoji: Mataiden
       - Chojin densetsu Urotsukidoji 3: Kanketsu jigoku hen
       - Chojin densetsu Urotsukidoji: Horo hen
-  - Revolutionary Girl Utena ([소녀혁명 우테나](https://ko.wikipedia.org/wiki/소녀혁명_우테나 "wikilink"))
+  - Revolutionary Girl Utena ([소녀혁명 우테나](../Page/소녀혁명_우테나.md "wikilink"))
   - Vampire Hunter D
       - Vampire Hunter D: Bloodlust
   - Vandread([반드레드](https://ko.wikipedia.org/wiki/반드레드 "wikilink"))

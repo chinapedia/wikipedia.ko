@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
 
 
-**AC 벨린초나**()는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [벨린초나](https://ko.wikipedia.org/wiki/벨린초나 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [스위스 챌린지리그](https://ko.wikipedia.org/wiki/스위스_챌린지리그 "wikilink") 소속으로 활동하고 있다.
+**AC 벨린초나**()는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [벨린초나](https://ko.wikipedia.org/wiki/벨린초나 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [스위스 챌린지리그](../Page/스위스_챌린지리그.md "wikilink") 소속으로 활동하고 있다.
 
 ## 주요 경력
 
@@ -10,9 +10,9 @@
 
 ## 유명 선수
 
-  - [쿠빌라이 튀르킬마즈](https://ko.wikipedia.org/wiki/쿠빌라이_튀르킬마즈 "wikilink")
+  - [쿠빌라이 튀르킬마즈](../Page/쿠빌라이_튀르킬마즈.md "wikilink")
 
-  - [아마우리 카르발류 지 올리베이라](https://ko.wikipedia.org/wiki/아마우리_카르발류_지_올리베이라 "wikilink")
+  - [아마우리 카르발류 지 올리베이라](../Page/아마우리_카르발류_지_올리베이라.md "wikilink")
 
   - [존 멘사](../Page/존_멘사.md "wikilink")
 

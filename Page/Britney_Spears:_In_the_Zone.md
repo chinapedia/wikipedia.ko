@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Britney Spears: In the Zone](https://ko.wikipedia.org/wiki/Britney_Spears:_In_the_Zone).
 
 
-**Britney Spears: In the Zone**은 브리트니 스피어스의 5번째 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") 컬렉션이다.
+**Britney Spears: In the Zone**은 브리트니 스피어스의 5번째 [DVD](../Page/DVD.md "wikilink") 컬렉션이다.
 
 ## 내용
 
@@ -12,11 +12,11 @@
   - [ABC](https://ko.wikipedia.org/wiki/ABC_\(미국_방송사\) "wikilink") 공연:
       - "[Toxic](../Page/Toxic.md "wikilink")"
       - "Breathe on Me"
-      - "[Boys](https://ko.wikipedia.org/wiki/Boys "wikilink")"/"[I'm a Slave 4 U](https://ko.wikipedia.org/wiki/I'm_a_Slave_4_U "wikilink")
+      - "[Boys](https://ko.wikipedia.org/wiki/Boys "wikilink")"/"[I'm a Slave 4 U](../Page/I'm_a_Slave_4_U.md "wikilink")
       - "(I Got That) Boom Boom"
       - "[Everytime](../Page/Everytime.md "wikilink")"
-      - "[...Baby One More Time](https://ko.wikipedia.org/wiki/...Baby_One_More_Time "wikilink")"
-      - "[Me Against the Music](https://ko.wikipedia.org/wiki/Me_Against_the_Music "wikilink")"
+      - "[...Baby One More Time](../Page/...Baby_One_More_Time.md "wikilink")"
+      - "[Me Against the Music](../Page/Me_Against_the_Music.md "wikilink")"
 
 <!-- end list -->
 

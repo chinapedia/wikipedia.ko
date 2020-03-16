@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [Happy Pledis 1st Album](https://ko.wikipedia.org/wiki/Happy_Pledis_1st_Album).
 
 
-〈**Happy Pledis 1st Album**〉은 [애프터스쿨](https://ko.wikipedia.org/wiki/애프터스쿨 "wikilink")의 네 번째 싱글이자 소속사인 [플레디스 엔터테인먼트가](https://ko.wikipedia.org/wiki/플레디스_엔터테인먼트 "wikilink") 기획한 ‘해피 플레디스’의 첫 번째 앨범으로, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink") [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통하여 발매되었다.
+〈**Happy Pledis 1st Album**〉은 [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 네 번째 싱글이자 소속사인 [플레디스 엔터테인먼트가](../Page/플레디스_엔터테인먼트.md "wikilink") 기획한 ‘해피 플레디스’의 첫 번째 앨범으로, [2010년](../Page/2010년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통하여 발매되었다.
 
 ## 개요
 
   - 타이틀곡 **Love Love Love**는 애프터스쿨 멤버들이 작사에 참여해 화제가 되고 있으며 사랑하는 이에 대한 감정표현과 멜로디가 돋보인 곡으로 설레임, 그리움, 따스함을 표현해낸 캐롤송이다.
-  - 커플링곡 **Someone Is You**는 미디움 템포의 발라드 곡으로 리더 [가희](https://ko.wikipedia.org/wiki/가희 "wikilink")가 자신만의 소중하고 예쁜 추억을 가사에 담았다.
+  - 커플링곡 **Someone Is You**는 미디움 템포의 발라드 곡으로 리더 [가희](../Page/가희.md "wikilink")가 자신만의 소중하고 예쁜 추억을 가사에 담았다.
   - 앨범 판매 수익금의 일부는 [세이브 더 칠드런에](../Page/세이브_더_칠드런.md "wikilink") 기부될 예정이다.
-  - 멤버 [베카는](https://ko.wikipedia.org/wiki/베카_\(가수\) "wikilink") 휴가 차 [하와이](https://ko.wikipedia.org/wiki/하와이 "wikilink")에서 가족들과 머무르고 있어 참여하지 못하였다.
+  - 멤버 [베카는](../Page/베카_\(가수\).md "wikilink") 휴가 차 [하와이](https://ko.wikipedia.org/wiki/하와이 "wikilink")에서 가족들과 머무르고 있어 참여하지 못하였다.
 
 ## 수록곡
 
@@ -120,7 +120,7 @@
 
 ## 외부 링크
 
-  - [Happy Pledis 1st Album](http://music.naver.com/album/index.nhn?albumId=183938) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
+  - [Happy Pledis 1st Album](http://music.naver.com/album/index.nhn?albumId=183938) - [네이버](../Page/네이버.md "wikilink") 뮤직
 
   - [Happy Pledis 1st Album](http://www.melon.com/album/detail.htm?albumId=1093582) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink")
 

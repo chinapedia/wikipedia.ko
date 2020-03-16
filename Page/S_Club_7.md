@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S Club 7](https://ko.wikipedia.org/wiki/S_Club_7).
 
 
-**S Club 7** 또는 **S Club**, 투어 할때의 이름 **S Club 3**은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
+**S Club 7** 또는 **S Club**, 투어 할때의 이름 **S Club 3**은 [영국](../Page/영국.md "wikilink")의 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
 
 ## 음반
 

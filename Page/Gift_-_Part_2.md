@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gift - Part 2](https://ko.wikipedia.org/wiki/Gift_-_Part_2).
 
 
-《**Gift - Part 2**》는 박효신의 6번째 정규음반 2번째 파트로써 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 13일에](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") 발매되었다. 총 트랙수는 7개이며, 타이틀 곡은 〈**사랑이 고프다**〉이다.
+《**Gift - Part 2**》는 박효신의 6번째 정규음반 2번째 파트로써 [2010년](../Page/2010년.md "wikilink") [12월 13일에](../Page/12월_13일.md "wikilink") 발매되었다. 총 트랙수는 7개이며, 타이틀 곡은 〈**사랑이 고프다**〉이다.
 
 ## 개요
 

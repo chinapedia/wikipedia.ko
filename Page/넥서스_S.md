@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [ S](https://ko.wikipedia.org/wiki/_S).
 
 
-**구글 넥서스 S** (Google Nexus S)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 제조하고, [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")이 판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\] 모델명은 GT-i9020. 구글의 최고경영자 [에릭 슈미트가](https://ko.wikipedia.org/wiki/에릭_슈미트 "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 11월 15일에 [웹 2.0 회의에서](https://ko.wikipedia.org/wiki/웹_2.0_회의 "wikilink") 발표하였으며 [안드로이드 2.3 진저브레드를](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 채용하였다. 이 전화는 미국에서 2010년 12월 16일부터, 영국에서는 12월 20일부터 구매할 수 있다. 하드웨어와 소프트웨어 모두 [근거리 무선 통신](../Page/근거리_무선_통신.md "wikilink")(NFC)을 지원하는 최초의 안드로이드 기기이다.\[2\]\[3\]\[4\]
+**구글 넥서스 S** (Google Nexus S)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 제조하고, [구글](../Page/구글.md "wikilink")이 판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 모델명은 GT-i9020. 구글의 최고경영자 [에릭 슈미트가](../Page/에릭_슈미트.md "wikilink") [2010년](../Page/2010년.md "wikilink") 11월 15일에 [웹 2.0 회의에서](https://ko.wikipedia.org/wiki/웹_2.0_회의 "wikilink") 발표하였으며 [안드로이드 2.3 진저브레드를](../Page/안드로이드_\(운영_체제\).md "wikilink") 채용하였다. 이 전화는 미국에서 2010년 12월 16일부터, 영국에서는 12월 20일부터 구매할 수 있다. 하드웨어와 소프트웨어 모두 [근거리 무선 통신](../Page/근거리_무선_통신.md "wikilink")(NFC)을 지원하는 최초의 안드로이드 기기이다.\[2\]\[3\]\[4\]
 
 ## 출시 과정
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink"), 업계관계자를 통해 구글이 진저브레드를 탑재한 레퍼런스 폰을 11월말 경에 일반에게 공개한다는 사실이 알려졌다.\[5\]
+[2010년](../Page/2010년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink"), 업계관계자를 통해 구글이 진저브레드를 탑재한 레퍼런스 폰을 11월말 경에 일반에게 공개한다는 사실이 알려졌다.\[5\]
 
-## [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [2.3 진저브레드](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
+## [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [2.3 진저브레드](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
 넥서스 S는 [2.3.1 진저브레드를](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 탑재하여 출시했다.
 
 ## [4.0 아이스크림 샌드위치](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
-넥서스 S의 최신 OS 업그레이드판인 아이스크림 샌드위치 (IceCream Sandwich, ICS)는 본래 2012년 1월에 공개가 되었다. ICS를 탑재 출시한 [갤럭시 넥서스가](https://ko.wikipedia.org/wiki/갤럭시_넥서스 "wikilink") 출시된지 3개월만이었다. 본래 구글의 OTA 업그레이드 가이드라인은 **OTA 업그레이드 공개 후 즉시 업그레이드**이나, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [유럽 연합](https://ko.wikipedia.org/wiki/유럽_연합 "wikilink") 등 해외의 업데이트만 이루어졌고, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 ICS 업그레이드는 3개월이 조금 늦은 4월 28일부터 OTA 업그레이드를 실시하고 있다.
+넥서스 S의 최신 OS 업그레이드판인 아이스크림 샌드위치 (IceCream Sandwich, ICS)는 본래 2012년 1월에 공개가 되었다. ICS를 탑재 출시한 [갤럭시 넥서스가](../Page/갤럭시_넥서스.md "wikilink") 출시된지 3개월만이었다. 본래 구글의 OTA 업그레이드 가이드라인은 **OTA 업그레이드 공개 후 즉시 업그레이드**이나, [미국](../Page/미국.md "wikilink"), [유럽 연합](../Page/유럽_연합.md "wikilink") 등 해외의 업데이트만 이루어졌고, [대한민국](../Page/대한민국.md "wikilink")의 ICS 업그레이드는 3개월이 조금 늦은 4월 28일부터 OTA 업그레이드를 실시하고 있다.
 
 넥서스S는 구글에서 약 1년에 하나 정도 만드는 "레퍼런스" 휴대폰이기 때문에 구글에서 직접 OTA를 배포한다. 진저브레드 2.3.6에서 4.0.4로 업데이트 되는데 필요한 용량은 약 110MB가 필요하고, 통신사의 별도 승인 없이 아이스크림 샌드위치를 순정 상태로 사용할 수 있다. 기본 내장앱은 약 25개이고 볼륨▽버튼과 홀드 버튼을 함께 눌러 스크린 샷을 찍을 수도 있다.
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - 900 / 1700 / 2100 MHz [UMTS](https://ko.wikipedia.org/wiki/UMTS "wikilink"), [슈퍼 AMOLED](https://ko.wikipedia.org/wiki/슈퍼_AMOLED "wikilink")
+  - 900 / 1700 / 2100 MHz [UMTS](../Page/UMTS.md "wikilink"), [슈퍼 AMOLED](../Page/슈퍼_AMOLED.md "wikilink")
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - 900 / 1700 / 2100 MHz [UMTS](https://ko.wikipedia.org/wiki/UMTS "wikilink"), [슈퍼 AMOLED](https://ko.wikipedia.org/wiki/슈퍼_AMOLED "wikilink")
+  - 900 / 1700 / 2100 MHz [UMTS](../Page/UMTS.md "wikilink"), [슈퍼 AMOLED](../Page/슈퍼_AMOLED.md "wikilink")
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - 850 / 1900 / 2100 MHz [UMTS](https://ko.wikipedia.org/wiki/UMTS "wikilink"), [슈퍼 AMOLED](https://ko.wikipedia.org/wiki/슈퍼_AMOLED "wikilink")
+  - 850 / 1900 / 2100 MHz [UMTS](../Page/UMTS.md "wikilink"), [슈퍼 AMOLED](../Page/슈퍼_AMOLED.md "wikilink")
 
 <!-- end list -->
 
@@ -61,13 +61,13 @@
 
 <!-- end list -->
 
-  - [CDMA EV-DO 리비전 A](https://ko.wikipedia.org/wiki/EV-DO "wikilink"), [WiMax](https://ko.wikipedia.org/wiki/Wibro "wikilink")(와이브로), [슈퍼 AMOLED](https://ko.wikipedia.org/wiki/슈퍼_AMOLED "wikilink")
+  - [CDMA EV-DO 리비전 A](../Page/EV-DO.md "wikilink"), [WiMax](https://ko.wikipedia.org/wiki/Wibro "wikilink")(와이브로), [슈퍼 AMOLED](../Page/슈퍼_AMOLED.md "wikilink")
 
 ## 같이 보기
 
-  - [넥서스 원](https://ko.wikipedia.org/wiki/넥서스_원 "wikilink")
-  - [갤럭시 넥서스](https://ko.wikipedia.org/wiki/갤럭시_넥서스 "wikilink")
-  - [삼성 갤럭시 S](https://ko.wikipedia.org/wiki/삼성_갤럭시_S "wikilink")
+  - [넥서스 원](../Page/넥서스_원.md "wikilink")
+  - [갤럭시 넥서스](../Page/갤럭시_넥서스.md "wikilink")
+  - [삼성 갤럭시 S](../Page/삼성_갤럭시_S.md "wikilink")
 
 ## 각주
 

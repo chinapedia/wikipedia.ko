@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**마카비 하이파 FC**(, )는 [1913년](https://ko.wikipedia.org/wiki/1913년 "wikilink")에 창설된 [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink") [하이파](../Page/하이파.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**마카비 하이파 FC**(, )는 [1913년](../Page/1913년.md "wikilink")에 창설된 [이스라엘](../Page/이스라엘.md "wikilink") [하이파](../Page/하이파.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
 마카비 하이파는 리그 우승 11회, 스테이트컵 우승 5회, 토토컵 우승 4회의 기록을 갖고 있으며 이스라엘의 축구 클럽으로는 처음으로 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 조별 예선에 진출한 팀이기도 하다.
 
@@ -13,9 +13,9 @@
 
 ## 유명 선수
 
-  - [요시 베나윤](https://ko.wikipedia.org/wiki/요시_베나윤 "wikilink")
+  - [요시 베나윤](../Page/요시_베나윤.md "wikilink")
 
-  - [야쿠부 아이예그베니](https://ko.wikipedia.org/wiki/야쿠부_아이예그베니 "wikilink")
+  - [야쿠부 아이예그베니](../Page/야쿠부_아이예그베니.md "wikilink")
 
   - [체포 마실렐라](https://ko.wikipedia.org/wiki/체포_마실렐라 "wikilink")
 

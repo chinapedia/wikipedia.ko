@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YTN ](https://ko.wikipedia.org/wiki/YTN_).
 
 
-**YTN 사이언스**(YTN Science)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 뉴스채널 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")과 [미래창조과학부가](https://ko.wikipedia.org/wiki/대한민국_미래창조과학부 "wikilink") 합작하여 만든 최초의 [과학](../Page/과학.md "wikilink") 전문 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") [방송](https://ko.wikipedia.org/wiki/방송 "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
+**YTN 사이언스**(YTN Science)는 [대한민국](../Page/대한민국.md "wikilink")의 뉴스채널 [YTN](../Page/YTN.md "wikilink")과 [미래창조과학부가](../Page/대한민국_미래창조과학부.md "wikilink") 합작하여 만든 최초의 [과학](../Page/과학.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [방송](../Page/방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
 
 ## 연혁
 

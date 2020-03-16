@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I Me](https://ko.wikipedia.org/wiki/I_Me).
 
 
-**i Me**는 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 5인조 [걸 그룹이다](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink"). 다국적 음악그룹으로, 2010년 7월 2일 중국의 [카라라고](../Page/카라_\(음악_그룹\).md "wikilink") 표방을 하며 데뷔하였다. 멤버 중 [심현경](https://ko.wikipedia.org/wiki/심현경 "wikilink")은 [SM 엔터테인먼트의](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 연습생이였던 것으로 알려져 있다.\[1\] 그룹명 중 i는, international, idea, idol을 뜻한다.
+**i Me**는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 5인조 [걸 그룹이다](../Page/걸_그룹.md "wikilink"). 다국적 음악그룹으로, 2010년 7월 2일 중국의 [카라라고](../Page/카라_\(음악_그룹\).md "wikilink") 표방을 하며 데뷔하였다. 멤버 중 [심현경](https://ko.wikipedia.org/wiki/심현경 "wikilink")은 [SM 엔터테인먼트의](../Page/SM_엔터테인먼트.md "wikilink") 연습생이였던 것으로 알려져 있다.\[1\] 그룹명 중 i는, international, idea, idol을 뜻한다.
 
 ## 음반
 

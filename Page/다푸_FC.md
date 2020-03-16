@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**다푸 FC**() 또는 **다푸 축구회**()는 흔히 **신제 리얼티 워푸 타이포**(, )라는 이름으로 알려진 [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [홍콩 프리미어리그에](https://ko.wikipedia.org/wiki/홍콩_프리미어리그 "wikilink") 참가하고 있다.
+**다푸 FC**() 또는 **다푸 축구회**()는 흔히 **신제 리얼티 워푸 타이포**(, )라는 이름으로 알려진 [홍콩](../Page/홍콩.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [홍콩 프리미어리그에](../Page/홍콩_프리미어리그.md "wikilink") 참가하고 있다.
 
 ## 성적
 

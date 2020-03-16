@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2AM  ](https://ko.wikipedia.org/wiki/2AM__).
 
 
-다음은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 4인조 그룹 **[2AM](https://ko.wikipedia.org/wiki/2AM "wikilink")**이 발매한 **음반 목록**이다. 2008년부터 현재까지 2AM은 총 3장의 정규 음반과 3장의 미니 음반과 2장의 싱글 음반을 발매하였다.
+다음은 [대한민국](../Page/대한민국.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 4인조 그룹 **[2AM](https://ko.wikipedia.org/wiki/2AM "wikilink")**이 발매한 **음반 목록**이다. 2008년부터 현재까지 2AM은 총 3장의 정규 음반과 3장의 미니 음반과 2장의 싱글 음반을 발매하였다.
 
 ## 정규 앨범
 
@@ -204,7 +204,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/이_노래" title="wikilink">이 노래</a></strong>》</p>
+<td style="text-align: center;"><p>《<strong><a href="../Page/이_노래.md" title="wikilink">이 노래</a></strong>》</p>
 <ul>
 <li>발매일 : 2008년 7월 11일</li>
 <li>활동곡 : "이 노래"</li>
@@ -224,7 +224,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/Time_For_Confession" title="wikilink">Time For Confession</a></strong>》</p>
+<td style="text-align: center;"><p>《<strong><a href="../Page/Time_For_Confession.md" title="wikilink">Time For Confession</a></strong>》</p>
 <ul>
 <li>발매일 : 2009년 3월 19일</li>
 <li>활동곡 : "친구의 고백"</li>
@@ -259,11 +259,11 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/졸업" title="wikilink">졸업</a></strong>》</p>
+<td style="text-align: center;"><p>《<strong><a href="../Page/졸업.md" title="wikilink">졸업</a></strong>》</p>
 <ul>
 <li>발매일 : 2009년 2월 5일</li>
 <li>활동곡 : "졸업"</li>
-<li><a href="https://ko.wikipedia.org/wiki/조권" title="wikilink">조권</a>과 <a href="https://ko.wikipedia.org/wiki/이창민" title="wikilink">이창민</a>이 부른 노래</li>
+<li><a href="../Page/조권.md" title="wikilink">조권</a>과 <a href="https://ko.wikipedia.org/wiki/이창민" title="wikilink">이창민</a>이 부른 노래</li>
 </ul></td>
 <td style="text-align: center;"><ul>
 <li>1. <strong>졸업</strong></li>
@@ -291,34 +291,34 @@
 
 ## 멤버 솔로 앨범
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") … [이창민](https://ko.wikipedia.org/wiki/이창민 "wikilink") - 삼키지마 (텔레시네마 프로젝트 Vol. 5)
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") … [조권](https://ko.wikipedia.org/wiki/조권 "wikilink") - 고백하던 날
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") … [정진운](https://ko.wikipedia.org/wiki/정진운 "wikilink") - 걸어온다
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") … [정진운](https://ko.wikipedia.org/wiki/정진운 "wikilink") - 지금이아니면
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 25일](https://ko.wikipedia.org/wiki/6월_25일 "wikilink") … [조권](https://ko.wikipedia.org/wiki/조권 "wikilink") - I'm da one
+  - [2009년](../Page/2009년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") … [이창민](https://ko.wikipedia.org/wiki/이창민 "wikilink") - 삼키지마 (텔레시네마 프로젝트 Vol. 5)
+  - [2010년](../Page/2010년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") … [조권](../Page/조권.md "wikilink") - 고백하던 날
+  - [2011년](../Page/2011년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") … [정진운](../Page/정진운.md "wikilink") - 걸어온다
+  - [2011년](../Page/2011년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") … [정진운](../Page/정진운.md "wikilink") - 지금이아니면
+  - [2012년](../Page/2012년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink") … [조권](../Page/조권.md "wikilink") - I'm da one
 
 ## O.S.T
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 한일합작 텔레시네마 **[돌멩이의 꿈](../Page/돌멩이의_꿈.md "wikilink")** … [이창민](https://ko.wikipedia.org/wiki/이창민 "wikilink") - 삼키지마
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") 영화 **어쿠스틱** … [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink") - L.O.V.E
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 21일](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") MBC드라마 **개인의 취향** … [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink") - 바보처럼
+  - [2009년](../Page/2009년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") 한일합작 텔레시네마 **[돌멩이의 꿈](../Page/돌멩이의_꿈.md "wikilink")** … [이창민](https://ko.wikipedia.org/wiki/이창민 "wikilink") - 삼키지마
+  - [2010년](../Page/2010년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") 영화 **어쿠스틱** … [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink") - L.O.V.E
+  - [2010년](../Page/2010년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") MBC드라마 **개인의 취향** … [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink") - 바보처럼
 
 ## 참여 앨범
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") - 덩크슛 ([조권](https://ko.wikipedia.org/wiki/조권 "wikilink"))
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") - 우리 사랑하게 됐어요 ([조권](https://ko.wikipedia.org/wiki/조권 "wikilink"))
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월 3일](https://ko.wikipedia.org/wiki/6월_3일 "wikilink") - [잔소리](https://ko.wikipedia.org/wiki/잔소리 "wikilink") ([임슬옹](https://ko.wikipedia.org/wiki/임슬옹 "wikilink"))
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") - Group Of 20 ([이창민](https://ko.wikipedia.org/wiki/이창민 "wikilink"))
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") - Truth Or Dare ([조권](https://ko.wikipedia.org/wiki/조권 "wikilink"))
+  - [2009년](../Page/2009년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") - 덩크슛 ([조권](../Page/조권.md "wikilink"))
+  - [2009년](../Page/2009년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") - 우리 사랑하게 됐어요 ([조권](../Page/조권.md "wikilink"))
+  - [2010년](../Page/2010년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") - [잔소리](../Page/잔소리.md "wikilink") ([임슬옹](../Page/임슬옹.md "wikilink"))
+  - [2010년](../Page/2010년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink") - Group Of 20 ([이창민](https://ko.wikipedia.org/wiki/이창민 "wikilink"))
+  - [2014년](../Page/2014년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") - Truth Or Dare ([조권](../Page/조권.md "wikilink"))
 
 ### 피처링
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") … [백지영](https://ko.wikipedia.org/wiki/백지영 "wikilink") - 밤새도록 ([조권](https://ko.wikipedia.org/wiki/조권 "wikilink"))
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") … [마리오](https://ko.wikipedia.org/wiki/마리오_\(가수\) "wikilink") - 슈퍼맨 ([이창민](https://ko.wikipedia.org/wiki/이창민 "wikilink"))
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink") … [메이다니](https://ko.wikipedia.org/wiki/메이다니 "wikilink") - 몰라Ing ([조권](https://ko.wikipedia.org/wiki/조권 "wikilink"), [정진운](https://ko.wikipedia.org/wiki/정진운 "wikilink"))
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") … [왁스](https://ko.wikipedia.org/wiki/왁스_\(가수\) "wikilink") - 이별이야기 ([조권](https://ko.wikipedia.org/wiki/조권 "wikilink"))
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 11일](https://ko.wikipedia.org/wiki/5월_11일 "wikilink") … [에이트](https://ko.wikipedia.org/wiki/에이트 "wikilink") - Star ([이창민](https://ko.wikipedia.org/wiki/이창민 "wikilink"), [정진운](https://ko.wikipedia.org/wiki/정진운 "wikilink"))
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 15일](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") … [임정희](https://ko.wikipedia.org/wiki/임정희 "wikilink") - 헤어지러 가는 길 ([조권](https://ko.wikipedia.org/wiki/조권 "wikilink"))
+  - [2008년](../Page/2008년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink") … [백지영](../Page/백지영.md "wikilink") - 밤새도록 ([조권](../Page/조권.md "wikilink"))
+  - [2008년](../Page/2008년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink") … [마리오](https://ko.wikipedia.org/wiki/마리오_\(가수\) "wikilink") - 슈퍼맨 ([이창민](https://ko.wikipedia.org/wiki/이창민 "wikilink"))
+  - [2009년](../Page/2009년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") … [메이다니](https://ko.wikipedia.org/wiki/메이다니 "wikilink") - 몰라Ing ([조권](../Page/조권.md "wikilink"), [정진운](../Page/정진운.md "wikilink"))
+  - [2010년](../Page/2010년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") … [왁스](../Page/왁스_\(가수\).md "wikilink") - 이별이야기 ([조권](../Page/조권.md "wikilink"))
+  - [2010년](../Page/2010년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") … [에이트](https://ko.wikipedia.org/wiki/에이트 "wikilink") - Star ([이창민](https://ko.wikipedia.org/wiki/이창민 "wikilink"), [정진운](../Page/정진운.md "wikilink"))
+  - [2010년](../Page/2010년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") … [임정희](https://ko.wikipedia.org/wiki/임정희 "wikilink") - 헤어지러 가는 길 ([조권](../Page/조권.md "wikilink"))
 
 ## 해외 앨범
 
@@ -379,13 +379,13 @@
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/이_노래" title="wikilink">이 노래</a></strong></p></td>
+<td><p><strong><a href="../Page/이_노래.md" title="wikilink">이 노래</a></strong></p></td>
 <td><p>4</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Time_For_Confession" title="wikilink">친구의 고백</a></strong></p></td>
+<td><p><strong><a href="../Page/Time_For_Confession.md" title="wikilink">친구의 고백</a></strong></p></td>
 <td><p>11</p></td>
 <td><p>11</p></td>
 </tr>

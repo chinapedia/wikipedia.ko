@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SC ](https://ko.wikipedia.org/wiki/SC_).
 
 
-**스포르트 클루브 베이라마르**(Sport Clube Beira-Mar) 또는 **SC 베이라마르**(S.C. Beira-Mar)는 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink") [아베이루](https://ko.wikipedia.org/wiki/아베이루 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [포르투갈 리가](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 소속으로 활동하고 있다.
+**스포르트 클루브 베이라마르**(Sport Clube Beira-Mar) 또는 **SC 베이라마르**(S.C. Beira-Mar)는 [포르투갈](../Page/포르투갈.md "wikilink") [아베이루](https://ko.wikipedia.org/wiki/아베이루 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [포르투갈 리가](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 소속으로 활동하고 있다.
 
-SC 베이라마르는 축구 팀 외에도 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink"), [농구](https://ko.wikipedia.org/wiki/농구 "wikilink"), [권투](../Page/권투.md "wikilink") 팀도 운영하고 있으며 2009–10 [리가 드 온하에서](https://ko.wikipedia.org/wiki/리가_드_온하 "wikilink") 1위를 차지, [프리메이라 리가로](https://ko.wikipedia.org/wiki/프리메이라_리가 "wikilink") 승격되었다.
+SC 베이라마르는 축구 팀 외에도 [풋살](../Page/풋살.md "wikilink"), [농구](../Page/농구.md "wikilink"), [권투](../Page/권투.md "wikilink") 팀도 운영하고 있으며 2009–10 [리가 드 온하에서](https://ko.wikipedia.org/wiki/리가_드_온하 "wikilink") 1위를 차지, [프리메이라 리가로](https://ko.wikipedia.org/wiki/프리메이라_리가 "wikilink") 승격되었다.
 
-재정 문제로 인하여, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에 최하 리그로 강등되었다.
+재정 문제로 인하여, [2015년](../Page/2015년.md "wikilink")에 최하 리그로 강등되었다.
 
 ## 성적
 
@@ -24,7 +24,7 @@ SC 베이라마르는 축구 팀 외에도 [풋살](https://ko.wikipedia.org/wik
 
   - [마리오 론돈](../Page/마리오_론돈.md "wikilink")
 
-  - [안토니우 호제리우 시우바 올리베이라](https://ko.wikipedia.org/wiki/안토니우_호제리우_시우바_올리베이라 "wikilink")
+  - [안토니우 호제리우 시우바 올리베이라](../Page/안토니우_호제리우_시우바_올리베이라.md "wikilink")
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FT  ](https://ko.wikipedia.org/wiki/FT__).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:FT_Island_from_acrofan.jpg "wikilink") 다음은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 남성 그룹 **[FT아일랜드](../Page/FT아일랜드.md "wikilink")**가 발매한 **음반 목록**이다. 데뷔 후, 2007년부터 현재까지 총 6장의 정규 음반과 스페셜 음반 3장, 미니 음반(EP) 7장을 발매하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:FT_Island_from_acrofan.jpg "wikilink") 다음은 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹 **[FT아일랜드](../Page/FT아일랜드.md "wikilink")**가 발매한 **음반 목록**이다. 데뷔 후, 2007년부터 현재까지 총 6장의 정규 음반과 스페셜 음반 3장, 미니 음반(EP) 7장을 발매하였다.
 
 ## 한국
 
@@ -945,12 +945,12 @@
       - 4\. 요즘 나는 - [이홍기](https://ko.wikipedia.org/wiki/이홍기 "wikilink")
   - 2008년 3월 12일 SBS 수목드라마 《[온에어](https://ko.wikipedia.org/wiki/온에어 "wikilink")》
       - 1\. 한가지 말
-  - 2009년 10월 14일 SBS 수목드라마 《[미남이시네요](https://ko.wikipedia.org/wiki/미남이시네요 "wikilink")》
+  - 2009년 10월 14일 SBS 수목드라마 《[미남이시네요](../Page/미남이시네요.md "wikilink")》
       - 1.　여전히 - [이홍기](https://ko.wikipedia.org/wiki/이홍기 "wikilink")
       - 5.　약속 - [이홍기](https://ko.wikipedia.org/wiki/이홍기 "wikilink")
-  - 2010년 1월 25일 KBS 월화미니시리즈 《[공부의 신](https://ko.wikipedia.org/wiki/공부의_신 "wikilink")》
+  - 2010년 1월 25일 KBS 월화미니시리즈 《[공부의 신](../Page/공부의_신.md "wikilink")》
       - 2\. 모르시죠 - FT트리플
-  - 2011년 7월 20일 MBC 수목드라마 《[넌 내게 반했어](https://ko.wikipedia.org/wiki/넌_내게_반했어 "wikilink")》
+  - 2011년 7월 20일 MBC 수목드라마 《[넌 내게 반했어](../Page/넌_내게_반했어.md "wikilink")》
       - 2\. 꼭은 아니더라도
 
 ### 참여

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ARP ](https://ko.wikipedia.org/wiki/ARP_).
 
 
-[오른쪽을](https://ko.wikipedia.org/wiki/파일:ARP_Spoofing.svg "wikilink") 공격자가 바꿈으로서 효과적으로 [중간자 공격을](https://ko.wikipedia.org/wiki/중간자_공격 "wikilink") 수행할 수 있도록 한다.\]\]
+[오른쪽을](https://ko.wikipedia.org/wiki/파일:ARP_Spoofing.svg "wikilink") 공격자가 바꿈으로서 효과적으로 [중간자 공격을](../Page/중간자_공격.md "wikilink") 수행할 수 있도록 한다.\]\]
 
-**ARP 스푸핑**(ARP spoofing)은 [근거리 통신망](../Page/근거리_통신망.md "wikilink")(LAN) 하에서 [주소 결정 프로토콜](../Page/주소_결정_프로토콜.md "wikilink")(ARP) 메시지를 이용하여 상대방의 데이터 패킷을 중간에서 가로채는 [중간자 공격](https://ko.wikipedia.org/wiki/중간자_공격 "wikilink") 기법이다. 이 공격은 데이터 링크 상의 프로토콜인 ARP 프로토콜을 이용하기 때문에 근거리상의 통신에서만 사용할 수 있는 공격이다.
+**ARP 스푸핑**(ARP spoofing)은 [근거리 통신망](../Page/근거리_통신망.md "wikilink")(LAN) 하에서 [주소 결정 프로토콜](../Page/주소_결정_프로토콜.md "wikilink")(ARP) 메시지를 이용하여 상대방의 데이터 패킷을 중간에서 가로채는 [중간자 공격](../Page/중간자_공격.md "wikilink") 기법이다. 이 공격은 데이터 링크 상의 프로토콜인 ARP 프로토콜을 이용하기 때문에 근거리상의 통신에서만 사용할 수 있는 공격이다.
 
 이 기법을 사용한 공격의 경우 특별한 이상 증상이 쉽게 나타나지 않기 때문에 사용자는 특별한 도구를 사용하지 않는 이상 쉽게 자신이 공격당하고 있다는 사실을 확인하기 힘들다.
 
@@ -15,7 +15,7 @@
 
 ## 은닉성
 
-[와이어샤크](https://ko.wikipedia.org/wiki/와이어샤크 "wikilink")와 같은 패킷 감지 프로그램을 이용하면 주기적으로 자신의 주소가 아님에도 불구하고 ARP신호를 보내는 패킷을 확인할 수 있기 때문에 쉽게 감지할 수 있다.
+[와이어샤크](../Page/와이어샤크.md "wikilink")와 같은 패킷 감지 프로그램을 이용하면 주기적으로 자신의 주소가 아님에도 불구하고 ARP신호를 보내는 패킷을 확인할 수 있기 때문에 쉽게 감지할 수 있다.
 
 ## 방어 방법
 

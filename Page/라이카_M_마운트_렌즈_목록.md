@@ -84,7 +84,7 @@
 
   - Pan-Tachar 28mm F1.8
 
-## [Carl Zeiss](https://ko.wikipedia.org/wiki/칼자이스 "wikilink")
+## [Carl Zeiss](../Page/칼자이스.md "wikilink")
 
   - Distagon 15mm F2.8 Cosina
   - Distagon 18mm F4 Cosina

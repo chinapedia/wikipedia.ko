@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**데포르티보 톨루카 풋볼 클럽**(Deportivo Toluca Fútbol Club)은 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") [멕시코주](https://ko.wikipedia.org/wiki/멕시코주 "wikilink") [톨루카](https://ko.wikipedia.org/wiki/톨루카 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**데포르티보 톨루카 풋볼 클럽**(Deportivo Toluca Fútbol Club)은 [멕시코](../Page/멕시코.md "wikilink") [멕시코주](https://ko.wikipedia.org/wiki/멕시코주 "wikilink") [톨루카](../Page/톨루카.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
 ## 성적
 
@@ -18,15 +18,15 @@
 
 ## 유명 선수
 
-  - [안토니오 나엘손](https://ko.wikipedia.org/wiki/안토니오_나엘손 "wikilink")
+  - [안토니오 나엘손](../Page/안토니오_나엘손.md "wikilink")
 
   - [카를로스 파본](../Page/카를로스_파본.md "wikilink")
 
   - [다리오 로드리게스](https://ko.wikipedia.org/wiki/다리오_로드리게스 "wikilink")
 
-  - [파울로 다 실바](https://ko.wikipedia.org/wiki/파울로_다_실바 "wikilink")
+  - [파울로 다 실바](../Page/파울로_다_실바.md "wikilink")
 
-  - [호세 카르도소](https://ko.wikipedia.org/wiki/호세_카르도소 "wikilink")
+  - [호세 카르도소](../Page/호세_카르도소.md "wikilink")
 
 ## 외부 링크
 

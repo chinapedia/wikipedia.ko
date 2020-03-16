@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Boys \(  \)](https://ko.wikipedia.org/wiki/Boys_\(__\)).
 
 
-"**Boys**"는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 세 번째 음반 *[Britney](https://ko.wikipedia.org/wiki/Britney_\(음반\) "wikilink")*의 싱글이다. 영화 [오스틴 파워 골드멤버의](https://ko.wikipedia.org/wiki/오스틴_파워_골드멤버 "wikilink") 삽입곡으로도 알려져 있다.
+"**Boys**"는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 세 번째 음반 *[Britney](../Page/Britney_\(음반\).md "wikilink")*의 싱글이다. 영화 [오스틴 파워 골드멤버의](https://ko.wikipedia.org/wiki/오스틴_파워_골드멤버 "wikilink") 삽입곡으로도 알려져 있다.
 
 ## 트랙리스트
 
@@ -19,7 +19,7 @@
 
 1.  "Boys" (The Co-Ed Remix) — 3:45
 2.  "Boys" (The Co-Ed Remix - Instrumental) — 3:45
-3.  "[I'm a Slave 4 U](https://ko.wikipedia.org/wiki/I'm_a_Slave_4_U "wikilink")" — 3:23
+3.  "[I'm a Slave 4 U](../Page/I'm_a_Slave_4_U.md "wikilink")" — 3:23
 
 <!-- end list -->
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [SL X60](https://ko.wikipedia.org/wiki/SL_X60).
 
 
-**SL X60**은 대 스톡홀름 지역 교통(Storstockholms Lokaltrafik)에서 도입한 통근용 전동차로, [스톡홀름 통근 열차에](https://ko.wikipedia.org/wiki/스톡홀름_통근_열차 "wikilink") 사용된다. 기존에 사용되었던 [X1](https://ko.wikipedia.org/wiki/SL_X1 "wikilink"), [X10](https://ko.wikipedia.org/wiki/SL_X10 "wikilink") 차량을 대차하기 위하여 발주하였고, 2006년부터 단계적으로 반입되었다.
+**SL X60**은 대 스톡홀름 지역 교통(Storstockholms Lokaltrafik)에서 도입한 통근용 전동차로, [스톡홀름 통근 열차에](../Page/스톡홀름_통근_열차.md "wikilink") 사용된다. 기존에 사용되었던 [X1](../Page/SL_X1.md "wikilink"), [X10](../Page/SL_X10.md "wikilink") 차량을 대차하기 위하여 발주하였고, 2006년부터 단계적으로 반입되었다.
 
 ## 배경
 
-[스톡홀름 통근 열차](https://ko.wikipedia.org/wiki/스톡홀름_통근_열차 "wikilink") 개통 당시 사용하였던 [X1](https://ko.wikipedia.org/wiki/SL_X1 "wikilink") 차량은 1967년부터 1975년까지 반입되었다. 이후 반입된 새로운 [X10](https://ko.wikipedia.org/wiki/SL_X10 "wikilink") 차량은 1983년부터 1993년까지 제작되었다. 이 차량들은 1967년부터 2005년까지 스톡홀름 통근 열차의 주요 차량으로 사용되었다. 차량이 오래되면서 생기는 문제로 인하여 SL에서는 오래된 차량을 완전히 대차시킬 계획을 세웠다.
+[스톡홀름 통근 열차](../Page/스톡홀름_통근_열차.md "wikilink") 개통 당시 사용하였던 [X1](../Page/SL_X1.md "wikilink") 차량은 1967년부터 1975년까지 반입되었다. 이후 반입된 새로운 [X10](../Page/SL_X10.md "wikilink") 차량은 1983년부터 1993년까지 제작되었다. 이 차량들은 1967년부터 2005년까지 스톡홀름 통근 열차의 주요 차량으로 사용되었다. 차량이 오래되면서 생기는 문제로 인하여 SL에서는 오래된 차량을 완전히 대차시킬 계획을 세웠다.
 
 처음에는 스웨덴에서 개발한 [레지나](https://ko.wikipedia.org/wiki/봄바르디어_레지나 "wikilink") 차량을 사용하려고 하였고, 이를 위하여 SJ에서 레지나 차량을 대여하여 시험해 보았다. 그러나 가속 성능과 출입문 크기 때문에 통근용으로는 적합하지 않았다고 판단하여 새 차량을 발주하게 되었다. 새로운 차량의 조건은 전장품을 위로 배치하여 추위에 대비하고, 장애인 접근성을 향상시키기 위하여 저상 출입구를 설치해야 했다.
 
-2002년 SL에서는 [알스톰](https://ko.wikipedia.org/wiki/알스톰 "wikilink")에 55편성을 주문하였고, 추가로 50편성 옵션을 계약하였다. 첫 55편성의 가격은 약 40억 스웨덴 크로나였다. 차량 반입은 2005년부터 시작되었고, 2005년 8월 13일 영업 운행을 시작하였다. 2008년까지 71편성이 반입 완료되었고, X1과 X10 차량을 일부 대차하였다. 2010년 SL 측에서는 12편성을 추가로 주문하였고, 이는 2012년 반입 예정이다. 모든 차량은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [잘츠기터](https://ko.wikipedia.org/wiki/잘츠기터 "wikilink")에서 생산되었다.
+2002년 SL에서는 [알스톰](../Page/알스톰.md "wikilink")에 55편성을 주문하였고, 추가로 50편성 옵션을 계약하였다. 첫 55편성의 가격은 약 40억 스웨덴 크로나였다. 차량 반입은 2005년부터 시작되었고, 2005년 8월 13일 영업 운행을 시작하였다. 2008년까지 71편성이 반입 완료되었고, X1과 X10 차량을 일부 대차하였다. 2010년 SL 측에서는 12편성을 추가로 주문하였고, 이는 2012년 반입 예정이다. 모든 차량은 [독일](../Page/독일.md "wikilink") [잘츠기터](../Page/잘츠기터.md "wikilink")에서 생산되었다.
 
 ## 차량
 

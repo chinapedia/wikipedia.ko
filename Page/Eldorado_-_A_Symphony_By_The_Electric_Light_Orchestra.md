@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Eldorado - A Symphony By The Electric Light Orchestra](https://ko.wikipedia.org/wiki/Eldorado_-_A_Symphony_By_The_Electric_Light_Orchestra).
 
 
-Eldorado로 흔히 알려져 있는 **Eldorado - A Symphony By The Electric Light Orchestra**는 [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 발매된 [일렉트릭 라이트 오케스트라의](../Page/일렉트릭_라이트_오케스트라.md "wikilink") 4번째 정규앨범이자 컨셉 앨범이다.
+Eldorado로 흔히 알려져 있는 **Eldorado - A Symphony By The Electric Light Orchestra**는 [1974년](../Page/1974년.md "wikilink") 발매된 [일렉트릭 라이트 오케스트라의](../Page/일렉트릭_라이트_오케스트라.md "wikilink") 4번째 정규앨범이자 컨셉 앨범이다.
 
 ## 컨셉
 
@@ -40,7 +40,7 @@ Eldorado는 [일렉트릭 라이트 오케스트라의](../Page/일렉트릭_라
 
 ## 차트 순위
 
-  - 미국: \#16 [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 200, 32주
+  - 미국: \#16 [빌보드](../Page/빌보드.md "wikilink") 200, 32주
   - 영국: 첫 발매에서는 차트에 들지 못했으나, 3-LP 박스셋 <Three Light Years> 발매 후 1978년 \#38에 들었다.
   - 호주: \#40 ARIA 앨범 차트, 14주
   - 캐나다: \#7 RPM 앨범 차트, 28

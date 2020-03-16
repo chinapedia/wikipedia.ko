@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
 
 
-**FK 벨레주 모스타르**(FK Velež Mostar)는 [모스타르](https://ko.wikipedia.org/wiki/모스타르 "wikilink")를 연고로 하는 [보스니아 헤르체고비나의](https://ko.wikipedia.org/wiki/보스니아_헤르체고비나 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [보스니아 헤르체고비나 프리미어리그에](../Page/보스니아_헤르체고비나_프리미어리그.md "wikilink") 참가하고 있다. 클럽 이름은 모스타르 인근에 위치한 벨레주 산에서 유래된 것이다.
+**FK 벨레주 모스타르**(FK Velež Mostar)는 [모스타르](../Page/모스타르.md "wikilink")를 연고로 하는 [보스니아 헤르체고비나의](../Page/보스니아_헤르체고비나.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [보스니아 헤르체고비나 프리미어리그에](../Page/보스니아_헤르체고비나_프리미어리그.md "wikilink") 참가하고 있다. 클럽 이름은 모스타르 인근에 위치한 벨레주 산에서 유래된 것이다.
 
-보스니아 헤르체고비나에서 성공한 축구 클럽 가운데 하나로 꼽히고 있으며 [보스니아 헤르체고비나에서](https://ko.wikipedia.org/wiki/보스니아_헤르체고비나 "wikilink") 성공한 축구 클럽 가운데 하나이자 헤르체고비나에서 인기 높은 축구 클럽 가운데 하나로 꼽히고 있다. 클럽의 서포터는 [보스니아인](https://ko.wikipedia.org/wiki/보스니아인 "wikilink")과 [세르비아인](https://ko.wikipedia.org/wiki/세르비아인 "wikilink"), [크로아티아인](https://ko.wikipedia.org/wiki/크로아티아인 "wikilink") 서포터로 구성되어 있지만 현재는 보스니아인 서포터가 대부분이다.
+보스니아 헤르체고비나에서 성공한 축구 클럽 가운데 하나로 꼽히고 있으며 [보스니아 헤르체고비나에서](../Page/보스니아_헤르체고비나.md "wikilink") 성공한 축구 클럽 가운데 하나이자 헤르체고비나에서 인기 높은 축구 클럽 가운데 하나로 꼽히고 있다. 클럽의 서포터는 [보스니아인](../Page/보스니아인.md "wikilink")과 [세르비아인](https://ko.wikipedia.org/wiki/세르비아인 "wikilink"), [크로아티아인](https://ko.wikipedia.org/wiki/크로아티아인 "wikilink") 서포터로 구성되어 있지만 현재는 보스니아인 서포터가 대부분이다.
 
 ## 성적
 
@@ -17,7 +17,7 @@
 
   -  [바히드 할릴호지치](../Page/바히드_할릴호지치.md "wikilink")
 
-  - [알렉세이 프루드니코프](https://ko.wikipedia.org/wiki/알렉세이_프루드니코프 "wikilink")
+  - [알렉세이 프루드니코프](../Page/알렉세이_프루드니코프.md "wikilink")
 
 ## 유명 감독
 

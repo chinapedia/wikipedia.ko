@@ -1,35 +1,35 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**줌빠스리 유나이티드 풋볼 클럽**(, )는 [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink")에 창단된 [태국](../Page/태국.md "wikilink") [마하사라캄 주의](https://ko.wikipedia.org/wiki/마하사라캄_주 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재 [타이 리그 2에](../Page/타이_리그_2.md "wikilink") 참가하고 있다. 창단 당시에는 연고지가 [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")이었으며, **오솟스파 FC**라는 구단명을 사용했다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에는 [사라부리 주로](https://ko.wikipedia.org/wiki/사라부리_주 "wikilink") 연고지를 옮기며 **오솟스파 M-150 사라부리 FC**로 명칭을 변경했다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")에는 [사뭇쁘라깐 주로](https://ko.wikipedia.org/wiki/사뭇쁘라깐_주 "wikilink") 연고지를 옮기며, **오솟스파 M-150 사뭇쁘라깐 FC**으로 구단명을 변경했다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 태국 벤처 기업인 "수퍼 파워 풋볼 벤처"가 인수하면서, 구단명을**수퍼 파워 사뭇쁘라깐 FC**로 변경했다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 구단은 [마하사라캄 주로](https://ko.wikipedia.org/wiki/마하사라캄_주 "wikilink") 연고지를 이전하였고, 구단명을 현재의 명칭으로 변경하였다.
+**줌빠스리 유나이티드 풋볼 클럽**(, )는 [1977년](../Page/1977년.md "wikilink")에 창단된 [태국](../Page/태국.md "wikilink") [마하사라캄 주의](https://ko.wikipedia.org/wiki/마하사라캄_주 "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [타이 리그 2에](../Page/타이_리그_2.md "wikilink") 참가하고 있다. 창단 당시에는 연고지가 [방콕](../Page/방콕.md "wikilink")이었으며, **오솟스파 FC**라는 구단명을 사용했다. [2009년](../Page/2009년.md "wikilink")에는 [사라부리 주로](https://ko.wikipedia.org/wiki/사라부리_주 "wikilink") 연고지를 옮기며 **오솟스파 M-150 사라부리 FC**로 명칭을 변경했다. [2015년](../Page/2015년.md "wikilink")에는 [사뭇쁘라깐 주로](https://ko.wikipedia.org/wiki/사뭇쁘라깐_주 "wikilink") 연고지를 옮기며, **오솟스파 M-150 사뭇쁘라깐 FC**으로 구단명을 변경했다. [2016년](../Page/2016년.md "wikilink") 태국 벤처 기업인 "수퍼 파워 풋볼 벤처"가 인수하면서, 구단명을**수퍼 파워 사뭇쁘라깐 FC**로 변경했다. [2017년](../Page/2017년.md "wikilink") 구단은 [마하사라캄 주로](https://ko.wikipedia.org/wiki/마하사라캄_주 "wikilink") 연고지를 이전하였고, 구단명을 현재의 명칭으로 변경하였다.
 
 ## 역사
 
 ### 창단 초기
 
-[1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [태국](../Page/태국.md "wikilink") [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")에서 **오솟스파 FC**라는 이름으로 탄생했다. 오솟스파는 에너지 드링크를 만드는 회사며, 구단의 모기업이 되었다. 창단 당시 회사의 로고를 그대로 차용했다.
+[1977년](../Page/1977년.md "wikilink") [태국](../Page/태국.md "wikilink") [방콕](../Page/방콕.md "wikilink")에서 **오솟스파 FC**라는 이름으로 탄생했다. 오솟스파는 에너지 드링크를 만드는 회사며, 구단의 모기업이 되었다. 창단 당시 회사의 로고를 그대로 차용했다.
 
 ### 타이 리그 입성
 
-오솟스파 구단은 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 이후 찻차이 파폴팟 감독의 지휘 아래 역사를 써내려갔다. [타이 리그 1996-97](https://ko.wikipedia.org/wiki/타이_리그_1996-97 "wikilink") 시즌 때 [타이 리그1에](https://ko.wikipedia.org/wiki/타이_리그1 "wikilink") 첫 등장을 내딛었다. 그러나 타이 리그1에서 자리를 잡지 못하고 곧장 하부 리그로 강등되었다. 하지만 곧바로 다시 승격하는 데에 성공하였고, 꾸준하게 태국 최상위 리그에서 활약하게 되는 발판을 마련했다.
+오솟스파 구단은 [1996년](../Page/1996년.md "wikilink") 이후 찻차이 파폴팟 감독의 지휘 아래 역사를 써내려갔다. [타이 리그 1996-97](https://ko.wikipedia.org/wiki/타이_리그_1996-97 "wikilink") 시즌 때 [타이 리그1에](https://ko.wikipedia.org/wiki/타이_리그1 "wikilink") 첫 등장을 내딛었다. 그러나 타이 리그1에서 자리를 잡지 못하고 곧장 하부 리그로 강등되었다. 하지만 곧바로 다시 승격하는 데에 성공하였고, 꾸준하게 태국 최상위 리그에서 활약하게 되는 발판을 마련했다.
 
 ### 대륙 대회 진출
 
-[2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 오솟스파 FC는 [퀸스컵](../Page/퀸스컵.md "wikilink") 우승팀 자격으로 [AFC 챔피언스리그에](../Page/AFC_챔피언스리그.md "wikilink") 첫 출전을 하게 된다. 오솟스파는 [AFC 챔피언스리그 예선에서](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_예선 "wikilink") 좋은 활약을 펼치고 [AFC 챔피언스리그 2002-03](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2002-03 "wikilink") 본선 무대에 올랐으나, 본선에서는 참패를 거듭했다. 이는 이 구단의 처음이자 마지막은 AFC 챔피언스리그 도전기였다. 오솟스파 FC는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") AFC 컵 진출권을 획득하는 데 성공하기도 하였다.
+[2002년](../Page/2002년.md "wikilink") 오솟스파 FC는 [퀸스컵](../Page/퀸스컵.md "wikilink") 우승팀 자격으로 [AFC 챔피언스리그에](../Page/AFC_챔피언스리그.md "wikilink") 첫 출전을 하게 된다. 오솟스파는 [AFC 챔피언스리그 예선에서](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_예선 "wikilink") 좋은 활약을 펼치고 [AFC 챔피언스리그 2002-03](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2002-03 "wikilink") 본선 무대에 올랐으나, 본선에서는 참패를 거듭했다. 이는 이 구단의 처음이자 마지막은 AFC 챔피언스리그 도전기였다. 오솟스파 FC는 [2007년](../Page/2007년.md "wikilink") AFC 컵 진출권을 획득하는 데 성공하기도 하였다.
 
 ### 과도기
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 중반, 오솟스파 FC는 [사라부리 주로](https://ko.wikipedia.org/wiki/사라부리_주 "wikilink") 연고지를 옮겼고, 구단명을 "오솟스파 M-150 사라부리 FC"로 변경했다. 그러나 짧았던 사라부리 시절을 지나 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 방콕으로 돌아가게 되었고, 같은 연도 말에 방콕에서 다시 [사뭇쁘라깐 주으로](https://ko.wikipedia.org/wiki/사뭇쁘라깐_주 "wikilink") 연고지를 옮겼다. 구단명은 **오솟스파 M-150 사뭇쁘라깐 FC**로 변경되었다.
+[2009년](../Page/2009년.md "wikilink") 중반, 오솟스파 FC는 [사라부리 주로](https://ko.wikipedia.org/wiki/사라부리_주 "wikilink") 연고지를 옮겼고, 구단명을 "오솟스파 M-150 사라부리 FC"로 변경했다. 그러나 짧았던 사라부리 시절을 지나 [2015년](../Page/2015년.md "wikilink") 방콕으로 돌아가게 되었고, 같은 연도 말에 방콕에서 다시 [사뭇쁘라깐 주으로](https://ko.wikipedia.org/wiki/사뭇쁘라깐_주 "wikilink") 연고지를 옮겼다. 구단명은 **오솟스파 M-150 사뭇쁘라깐 FC**로 변경되었다.
 
 ### 현재
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 중반 기업 *오솟스파*는 기업 구조조정에 나섰고, 축구단 부서를 독립 부서로 변환하기로 결정한다. 그러면서 '수퍼 파워 풋볼 벤처'가 오솟스파 구단의 새로운 소유주가 되었다. 구단명은 "수퍼 파워 사뭇쁘라깐 FC"로 결정되었다. 2016년 말 현재의 이름으로 구단명이 다시 변경되었다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 구단은 [사뭇쁘라깐 주를](https://ko.wikipedia.org/wiki/사뭇쁘라깐_주 "wikilink") 떠나 [마하사라캄 주로](https://ko.wikipedia.org/wiki/마하사라캄_주 "wikilink") 연고지를 이전하였다. 구단명은 또다시 변경되어, "줌빠스리 유나이티드 FC"로 변경하였다.
+[2016년](../Page/2016년.md "wikilink") 중반 기업 *오솟스파*는 기업 구조조정에 나섰고, 축구단 부서를 독립 부서로 변환하기로 결정한다. 그러면서 '수퍼 파워 풋볼 벤처'가 오솟스파 구단의 새로운 소유주가 되었다. 구단명은 "수퍼 파워 사뭇쁘라깐 FC"로 결정되었다. 2016년 말 현재의 이름으로 구단명이 다시 변경되었다. [2017년](../Page/2017년.md "wikilink") 구단은 [사뭇쁘라깐 주를](https://ko.wikipedia.org/wiki/사뭇쁘라깐_주 "wikilink") 떠나 [마하사라캄 주로](https://ko.wikipedia.org/wiki/마하사라캄_주 "wikilink") 연고지를 이전하였다. 구단명은 또다시 변경되어, "줌빠스리 유나이티드 FC"로 변경하였다.
 
 ## 선수단 및 코칭 스태프
 
 ### 현재 선수단
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 기준
+[2016년](../Page/2016년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 기준
 
 ### 임대 및 군 복무 중인 선수
 

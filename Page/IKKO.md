@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [IKKO](https://ko.wikipedia.org/wiki/IKKO).
 
 
-**IKKO**(잇코, [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [1월 20일](https://ko.wikipedia.org/wiki/1월_20일 "wikilink") - )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 메이크업 아티스트 겸 [엔터테이너](https://ko.wikipedia.org/wiki/엔터테이너 "wikilink")이다.
+**IKKO**(잇코, [1962년](../Page/1962년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") - )는 [일본](../Page/일본.md "wikilink")의 메이크업 아티스트 겸 [엔터테이너](https://ko.wikipedia.org/wiki/엔터테이너 "wikilink")이다.
 
 본명은 도요다 가즈유키(豊田 一幸). *IKKO*라는 예명은 본명 의 음독 ‘’에서 유래하였다.
 
 ## 약력
 
-[후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink") [다가와 군](https://ko.wikipedia.org/wiki/다가와_군 "wikilink") [후쿠치 정](https://ko.wikipedia.org/wiki/후쿠치_정 "wikilink")(구 호조 정) 출신. [후쿠오카 현립 니시타가와 고등학교를](https://ko.wikipedia.org/wiki/:ja:福岡県立西田川高等学校 "wikilink") 거쳐, [기타규슈](https://ko.wikipedia.org/wiki/기타규슈 "wikilink") 미용전문학원(현 후쿠오카 미용 전문 학교 기타규슈교) 졸업.
+[후쿠오카현](../Page/후쿠오카현.md "wikilink") [다가와 군](https://ko.wikipedia.org/wiki/다가와_군 "wikilink") [후쿠치 정](https://ko.wikipedia.org/wiki/후쿠치_정 "wikilink")(구 호조 정) 출신. [후쿠오카 현립 니시타가와 고등학교를](https://ko.wikipedia.org/wiki/:ja:福岡県立西田川高等学校 "wikilink") 거쳐, [기타규슈](https://ko.wikipedia.org/wiki/기타규슈 "wikilink") 미용전문학원(현 후쿠오카 미용 전문 학교 기타규슈교) 졸업.
 
 고급 미용실 ‘미용실 사와이이’에서 8년간 미용사로 일했고, 헤어 메이크업 아티스트를 목표로 독립. 수많은 잡지 표지를 시작으로, 1992년에는 서른의 나이에 ‘아뜰리에IKKO’를 설립했다.
 
 일본 전통 헤어 메이크업에 능하며, 많은 여배우들의 지지를 받아 IKKO류 ‘여배우 메이크업’을 확립했다. 또한 프리랜서 가 된 직후 [이츠미 마사타카의](https://ko.wikipedia.org/wiki/이츠미_마사타카 "wikilink") 전속 메이크업 아티스트로 일했다. 이츠미가 사망했을 때 사화장\[1\] 도 맡았다.
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink"), 전국 각지에서 열리는 미용 & 패션 & 엔터테인먼트 이벤트 ‘IKKO WORLD’가 고향 후쿠오카 소재의 호텔 '뉴 오타니 하카타'에서 개최되었다. 진행, 음향, 조명, 무대, 출연 모델 오디션 등 전부 그녀의 손을 거쳤다.
+[2006년](../Page/2006년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink"), 전국 각지에서 열리는 미용 & 패션 & 엔터테인먼트 이벤트 ‘IKKO WORLD’가 고향 후쿠오카 소재의 호텔 '뉴 오타니 하카타'에서 개최되었다. 진행, 음향, 조명, 무대, 출연 모델 오디션 등 전부 그녀의 손을 거쳤다.
 
-[2006년 7월](https://ko.wikipedia.org/wiki/2006년_7월 "wikilink") 첫 [에세이](https://ko.wikipedia.org/wiki/에세이 "wikilink") ‘완전 여자를 갈고 닦다 \~미의 카리스마 IKKO의 행복을 부르는 골든 룰’ 출판.
+[2006년 7월](../Page/2006년_7월.md "wikilink") 첫 [에세이](https://ko.wikipedia.org/wiki/에세이 "wikilink") ‘완전 여자를 갈고 닦다 \~미의 카리스마 IKKO의 행복을 부르는 골든 룰’ 출판.
 
-[한국관광명예홍보대사](../Page/한국관광공사.md "wikilink") 외 [화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink") 회사 [아모레 퍼시픽](https://ko.wikipedia.org/wiki/아모레_퍼시픽 "wikilink") 에뛰드 하우스 광고 등, 대한민국에서도 활발한 활동을 펼치고 있다.\[2\]\[3\]\[4\]
+[한국관광명예홍보대사](../Page/한국관광공사.md "wikilink") 외 [화장품](../Page/화장품.md "wikilink") 회사 [아모레 퍼시픽](https://ko.wikipedia.org/wiki/아모레_퍼시픽 "wikilink") 에뛰드 하우스 광고 등, 대한민국에서도 활발한 활동을 펼치고 있다.\[2\]\[3\]\[4\]
 
 ## 인물
 
@@ -26,21 +26,21 @@
   - [성 정체성이](https://ko.wikipedia.org/wiki/성_정체성 "wikilink") 여성인지 아니면 상시 여장을 하지만 성 정체성이 남성인지 잘 알려지지 않아 '여장남자'로 불리기도 했으나, [믹시](https://ko.wikipedia.org/wiki/믹시 "wikilink")의 성별란에 여성으로 표기하여 성 정체성이 여성임을 밝혔다.
   - [트위터](../Page/트위터.md "wikilink") 주소는 LOVE_IKKO.
   - [2008년 5월](../Page/2008년_5월.md "wikilink"), 한국 여행 안내서 ‘IKKO의 아름다움을 갈고 닦다 in 한국’을 출판. 한국의 관광지나 먹을거리, 패션, 미용 등을 일본에 소개했다.
-  - [한류](https://ko.wikipedia.org/wiki/한류_\(문화\) "wikilink") 팬. 계기는 《[겨울연가](https://ko.wikipedia.org/wiki/겨울연가 "wikilink")》 이후 《[내 이름은 김삼순](https://ko.wikipedia.org/wiki/내_이름은_김삼순 "wikilink")》, 《[에덴의 동쪽](https://ko.wikipedia.org/wiki/에덴의_동쪽 "wikilink")》, 《[찬란한 유산](https://ko.wikipedia.org/wiki/찬란한_유산 "wikilink")》 등의 드라마가 마음에 들었기 때문.
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink"), 관광 활성화에 기여함으로써 대한민국 [서울시로부터](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") ‘2009 서울관광대상’을 수여했다.
-  - 2009년 [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink"), 한국 관광 명예 홍보 대사로 위촉되었다.
-  - [공황장애](https://ko.wikipedia.org/wiki/공황장애 "wikilink")가 있다.\[6\]
+  - [한류](../Page/한류_\(문화\).md "wikilink") 팬. 계기는 《[겨울연가](../Page/겨울연가.md "wikilink")》 이후 《[내 이름은 김삼순](../Page/내_이름은_김삼순.md "wikilink")》, 《[에덴의 동쪽](https://ko.wikipedia.org/wiki/에덴의_동쪽 "wikilink")》, 《[찬란한 유산](../Page/찬란한_유산.md "wikilink")》 등의 드라마가 마음에 들었기 때문.
+  - [2009년](../Page/2009년.md "wikilink") [6월 4일](../Page/6월_4일.md "wikilink"), 관광 활성화에 기여함으로써 대한민국 [서울시로부터](../Page/서울특별시.md "wikilink") ‘2009 서울관광대상’을 수여했다.
+  - 2009년 [2월 27일](../Page/2월_27일.md "wikilink"), 한국 관광 명예 홍보 대사로 위촉되었다.
+  - [공황장애](../Page/공황장애.md "wikilink")가 있다.\[6\]
   - 입버릇으로 자주 말하는 “얼마나\~?”()가 유행어다.
   - 요리 실력은 요리사를 능가할 정도. 때문에 방송 내의 요리 코너에 게스트로 초빙될 때가 많다.
   - [다카하시 히토미와](https://ko.wikipedia.org/wiki/다카하시_히토미_\(1961년\) "wikilink") 절친한 사이.
 
 ## 에피소드
 
-  - 《톤네루즈의 여러분 덕분이었습니다 - MONEY WARS 개런티 High\&Low》에 출연했을 때, [톤네루즈](https://ko.wikipedia.org/wiki/톤네루즈 "wikilink")의 [이시바시 타카아키에게서](https://ko.wikipedia.org/wiki/이시바시_다카아키 "wikilink") "등 완전 넓어\!"라는 말을 들었다.
+  - 《톤네루즈의 여러분 덕분이었습니다 - MONEY WARS 개런티 High\&Low》에 출연했을 때, [톤네루즈](https://ko.wikipedia.org/wiki/톤네루즈 "wikilink")의 [이시바시 타카아키에게서](../Page/이시바시_다카아키.md "wikilink") "등 완전 넓어\!"라는 말을 들었다.
   - 《나루토모\!》에 게스트로 출연했을 때, [진나이 토모나리에게서](https://ko.wikipedia.org/wiki/진나이_토모나리 "wikilink") [게리 굿리지를](https://ko.wikipedia.org/wiki/게리_굿리지 "wikilink") 닮았다는 말을 들었다.
   - [카토리 싱고와](../Page/카토리_싱고.md "wikilink") 함께 출연한 NTT 동일본 CF에서는 자신의 본명을 소재로 한 카피를 사용한다.
   - 《[오네★MANS](https://ko.wikipedia.org/wiki/:ja:おネエ★MANS "wikilink")》에 함께 출연했던 [우에마츠 코지](https://ko.wikipedia.org/wiki/우에마쓰_고지 "wikilink"), [야마구치 타츠야에게](https://ko.wikipedia.org/wiki/야마구치_다쓰야 "wikilink") 자주 구박 받았다.
-  - 이벤트 'VOGUE NIPPON & SEX AND THE CITY2 Premium Night with SKYY VODKA'에서 [도미나가 아이에게](https://ko.wikipedia.org/wiki/도미나가_아이 "wikilink") "일본의 [나오미 캠벨이네요](https://ko.wikipedia.org/wiki/나오미_캠벨 "wikilink")."라고 평가되었다.\[7\]
+  - 이벤트 'VOGUE NIPPON & SEX AND THE CITY2 Premium Night with SKYY VODKA'에서 [도미나가 아이에게](https://ko.wikipedia.org/wiki/도미나가_아이 "wikilink") "일본의 [나오미 캠벨이네요](../Page/나오미_캠벨.md "wikilink")."라고 평가되었다.\[7\]
 
 ## 발언
 
@@ -66,7 +66,7 @@
   - 비밀의 켄민SHOW ([요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV "wikilink"))
   - 나루토모\! (요미우리 TV)
   - SmaSTATION ([아사히 TV](https://ko.wikipedia.org/wiki/아사히_TV "wikilink"), 2007년 8월, 2008년 1월)
-  - VivaVivaV6 ([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"), 2008년 11월 '요코하마 스위츠', 2008년 4월 '[돌솥 비빔밥](https://ko.wikipedia.org/wiki/비빔밥 "wikilink")')
+  - VivaVivaV6 ([후지 TV](../Page/후지_TV.md "wikilink"), 2008년 11월 '요코하마 스위츠', 2008년 4월 '[돌솥 비빔밥](../Page/비빔밥.md "wikilink")')
 
 <!-- end list -->
 
@@ -111,7 +111,7 @@
       - 2010년 9월 23일
       - 2010년 11월 21일
   - 마지막 경고\! [타케시의](https://ko.wikipedia.org/wiki/기타노_다케시 "wikilink") 사실은 무서운 가정 의학 (ABC, 2009년 11월 10일)
-  - 라이온의 인사 ([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"), 2009년 11월 11일, 12일, 13일)
+  - 라이온의 인사 ([후지 TV](../Page/후지_TV.md "wikilink"), 2009년 11월 11일, 12일, 13일)
   - 톤네루즈의 여러분 덕분이었습니다 (후지 TV)
       - 2009년 11월 12일
       - 2010년 5월
@@ -138,7 +138,7 @@
 <!-- end list -->
 
   - 샤베쿠리007 (NTV, 2010년 1월 1일)
-  - [SMAP×SMAP](https://ko.wikipedia.org/wiki/SMAP×SMAP "wikilink") (간사이 TV·후지 TV, 2010년 1월 4일)
+  - [SMAP×SMAP](../Page/SMAP×SMAP.md "wikilink") (간사이 TV·후지 TV, 2010년 1월 4일)
   - 여신의 마르쉐 (NTV)
       - 2010년 1월 10일
       - 2010년 3월
@@ -211,7 +211,7 @@
   - [도요타 PASSO](https://ko.wikipedia.org/wiki/도요타_자동차 "wikilink")
   - GORGEOUS
   - 에뛰드 하우스
-  - [롯데면세점](https://ko.wikipedia.org/wiki/롯데면세점 "wikilink")
+  - [롯데면세점](../Page/롯데면세점.md "wikilink")
   - 영화 《[굿'바이](https://ko.wikipedia.org/wiki/굿'바이 "wikilink")》
   - 오르비스 화장품
 

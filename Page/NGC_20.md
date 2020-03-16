@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NGC 20](https://ko.wikipedia.org/wiki/NGC_20).
 
 
-**NGC 20**(또는 **NGC 6**)은 [안드로메다자리](https://ko.wikipedia.org/wiki/안드로메다자리 "wikilink") 방향에 위치하는 [렌즈상 은하이다](https://ko.wikipedia.org/wiki/렌즈상_은하 "wikilink").
+**NGC 20**(또는 **NGC 6**)은 [안드로메다자리](../Page/안드로메다자리.md "wikilink") 방향에 위치하는 [렌즈상 은하이다](https://ko.wikipedia.org/wiki/렌즈상_은하 "wikilink").
 
 ## 출처
 

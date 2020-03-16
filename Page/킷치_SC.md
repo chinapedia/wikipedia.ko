@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
 
 
-**킷치**() 또는 **킷치 체육회**, **걸지 체육회**()는 [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [홍콩 프리미어리그에](https://ko.wikipedia.org/wiki/홍콩_프리미어리그 "wikilink") 참가하고 있다.
+**킷치**() 또는 **킷치 체육회**, **걸지 체육회**()는 [홍콩](../Page/홍콩.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [홍콩 프리미어리그에](../Page/홍콩_프리미어리그.md "wikilink") 참가하고 있다.
 
 ## 선수단 및 코칭 스태프
 
@@ -15,7 +15,7 @@
 
 #### 리그
 
-  - **[홍콩 프리미어리그](https://ko.wikipedia.org/wiki/홍콩_프리미어리그 "wikilink")**
+  - **[홍콩 프리미어리그](../Page/홍콩_프리미어리그.md "wikilink")**
 
 <!-- end list -->
 
@@ -81,7 +81,7 @@
 
 ### 친선 대회
 
-  - **[구정컵](https://ko.wikipedia.org/wiki/구정컵 "wikilink")**
+  - **[구정컵](../Page/구정컵.md "wikilink")**
 
 <!-- end list -->
 

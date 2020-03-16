@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
 
 
-**인버네스 캘리도니언 시슬 FC**(Inverness Caledonian Thistle Football Club)는 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink") [인버네스](https://ko.wikipedia.org/wiki/인버네스 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 줄여서 **캘리 시슬**(Caley Thistle), **캘리 재그스**(Caley Jags) 또는 **ICT**라고 부르기도 한다.
+**인버네스 캘리도니언 시슬 FC**(Inverness Caledonian Thistle Football Club)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [인버네스](../Page/인버네스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 줄여서 **캘리 시슬**(Caley Thistle), **캘리 재그스**(Caley Jags) 또는 **ICT**라고 부르기도 한다.
 
 이 팀은 2016-17 [스코틀랜드 프리미어십에서](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어십 "wikilink") 12위를 차지, [스코티시 챔피언십로](https://ko.wikipedia.org/wiki/스코티시_챔피언십 "wikilink") 강등되었다.
 

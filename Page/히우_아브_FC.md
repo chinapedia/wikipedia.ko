@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**히우 아브 푸테볼 클루브**(Rio Ave Futebol Clube) 또는 **히우 아브 FC**(Rio Ave F.C.)는 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink") [빌라두콘드](https://ko.wikipedia.org/wiki/빌라두콘드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [포르투갈 리가](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 소속으로 활동하고 있다. 흔히 **히우 아브**(Rio Ave)라고 부르기도 한다.
+**히우 아브 푸테볼 클루브**(Rio Ave Futebol Clube) 또는 **히우 아브 FC**(Rio Ave F.C.)는 [포르투갈](../Page/포르투갈.md "wikilink") [빌라두콘드](https://ko.wikipedia.org/wiki/빌라두콘드 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [포르투갈 리가](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 소속으로 활동하고 있다. 흔히 **히우 아브**(Rio Ave)라고 부르기도 한다.
 
 ## 성적
 

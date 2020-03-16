@@ -5,11 +5,11 @@
 
 ## 개요
 
-  - [제네온 엔터테인먼트를](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") 통해 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 13일에](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") 발매된 싱글.
+  - [제네온 엔터테인먼트를](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") 통해 [2005년](../Page/2005년.md "wikilink") [10월 13일에](../Page/10월_13일.md "wikilink") 발매된 싱글.
   - 421-a will-은 2집 앨범 《[유리의 미풍](https://ko.wikipedia.org/wiki/유리의_미풍 "wikilink")》에서 싱글 컷된 곡이다.
-  - 秋爽는 3번째 앨범 《[UZU-MAKI](https://ko.wikipedia.org/wiki/UZU-MAKI "wikilink")》에 수록.
+  - 秋爽는 3번째 앨범 《[UZU-MAKI](../Page/UZU-MAKI.md "wikilink")》에 수록.
   - 초회한정판에는 421-a will-의 PV가 수록된 DVD가 동봉되어 있다.
-  - 〈421-a will-〉의 421이란 [KOTOKO](../Page/KOTOKO.md "wikilink")의 메이져 데뷔 날짜인 [4월 21일을](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") 말한다.
+  - 〈421-a will-〉의 421이란 [KOTOKO](../Page/KOTOKO.md "wikilink")의 메이져 데뷔 날짜인 [4월 21일을](../Page/4월_21일.md "wikilink") 말한다.
 
 ## 수록 곡
 

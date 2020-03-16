@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NGC 21](https://ko.wikipedia.org/wiki/NGC_21).
 
 
-**NGC 21**(또는 **NGC 29**)은 [안드로메다자리](https://ko.wikipedia.org/wiki/안드로메다자리 "wikilink")에 위치한 [나선 은하이다](https://ko.wikipedia.org/wiki/나선_은하 "wikilink").
+**NGC 21**(또는 **NGC 29**)은 [안드로메다자리](../Page/안드로메다자리.md "wikilink")에 위치한 [나선 은하이다](https://ko.wikipedia.org/wiki/나선_은하 "wikilink").
 
 ## 출처
 

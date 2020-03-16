@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:BEC-Tero_Sasana.JPG "wikilink") **폴리스 테로 FC**(, )는 [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")을 연고로 하는 [태국](../Page/태국.md "wikilink")의 축구 클럽이다. 현재는 [타이 리그에](https://ko.wikipedia.org/wiki/타이_리그 "wikilink") 참가하고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:BEC-Tero_Sasana.JPG "wikilink") **폴리스 테로 FC**(, )는 [방콕](../Page/방콕.md "wikilink")을 연고로 하는 [태국](../Page/태국.md "wikilink")의 축구 클럽이다. 현재는 [타이 리그에](https://ko.wikipedia.org/wiki/타이_리그 "wikilink") 참가하고 있다.
 
 ## 성적
 

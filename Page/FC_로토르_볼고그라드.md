@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 로토르 볼고그라드**(, )는 [러시아](../Page/러시아.md "wikilink") [볼고그라드](https://ko.wikipedia.org/wiki/볼고그라드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 팀이다.
+**FC 로토르 볼고그라드**(, )는 [러시아](../Page/러시아.md "wikilink") [볼고그라드](../Page/볼고그라드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀이다.
 
 ## 클럽 명칭 역사
 

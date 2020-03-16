@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Too Late](https://ko.wikipedia.org/wiki/Too_Late).
 
 
-**"Too Late"**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 10인조 혼성 그룹 [남녀공학의](../Page/남녀공학_\(음악_그룹\).md "wikilink") 첫 싱글이다. 2010년 9월 30일 발매 되었으며 [엠넷미디어](../Page/엠넷미디어.md "wikilink")가 레이블을 맡았고 작곡가 및 프로듀서는 [조영수](https://ko.wikipedia.org/wiki/조영수 "wikilink")가 맡았다.
+**"Too Late"**은 [대한민국](../Page/대한민국.md "wikilink")의 10인조 혼성 그룹 [남녀공학의](../Page/남녀공학_\(음악_그룹\).md "wikilink") 첫 싱글이다. 2010년 9월 30일 발매 되었으며 [엠넷미디어](../Page/엠넷미디어.md "wikilink")가 레이블을 맡았고 작곡가 및 프로듀서는 [조영수](https://ko.wikipedia.org/wiki/조영수 "wikilink")가 맡았다.
 
 ## 뮤직비디오
 
-[9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") 3D로 제작된 뮤직비디오를 공개하며 시사회및 기자회견을 열었다. 뮤직비디오 속에 각 맴버들은 특유의 개성이 돋보이는 헤어와 의상으로 눈길을 끌기도 했다.
+[9월 27일](../Page/9월_27일.md "wikilink") 3D로 제작된 뮤직비디오를 공개하며 시사회및 기자회견을 열었다. 뮤직비디오 속에 각 맴버들은 특유의 개성이 돋보이는 헤어와 의상으로 눈길을 끌기도 했다.
 
 ## 방송 활동
 
@@ -19,14 +19,14 @@
 
 ## 차트
 
-| 차트 (2010)                                                           | 최고 기록 |
-| ------------------------------------------------------------------- | ----- |
-| [가온 BGM차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")\[1\]     | 62    |
-| [가온 디지털 종합차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")\[2\]  | 13    |
-| [가온 모바일차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")\[3\]     | 39    |
-| [가온 온라인차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")\[4\]     | 13    |
-| [뮤직뱅크 K-차트](../Page/뮤직뱅크.md "wikilink")\[5\]                        | 28    |
-| [소리바다 종합 주간 차트](https://ko.wikipedia.org/wiki/소리바다 "wikilink")\[6\] | 33    |
+| 차트 (2010)                                        | 최고 기록 |
+| ------------------------------------------------ | ----- |
+| [가온 BGM차트](../Page/가온_차트.md "wikilink")\[1\]     | 62    |
+| [가온 디지털 종합차트](../Page/가온_차트.md "wikilink")\[2\]  | 13    |
+| [가온 모바일차트](../Page/가온_차트.md "wikilink")\[3\]     | 39    |
+| [가온 온라인차트](../Page/가온_차트.md "wikilink")\[4\]     | 13    |
+| [뮤직뱅크 K-차트](../Page/뮤직뱅크.md "wikilink")\[5\]     | 28    |
+| [소리바다 종합 주간 차트](../Page/소리바다.md "wikilink")\[6\] | 33    |
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A-GPS](https://ko.wikipedia.org/wiki/A-GPS).
 
 
-**Assisted GPS**(줄여서 **A-GPS**)는 특정 조건에서(주로 [서버](https://ko.wikipedia.org/wiki/서버 "wikilink")와 데이터 연결이 성립되었을 때) [GPS](https://ko.wikipedia.org/wiki/GPS "wikilink") 시작 속도를 향상시키고, TTFF(Time To First Fix, 처음 [인공위성](../Page/인공위성.md "wikilink")과 [데이터 링크가](https://ko.wikipedia.org/wiki/데이터_링크 "wikilink") 고정되기까지 소요된 [시간](https://ko.wikipedia.org/wiki/시간 "wikilink"))를 줄이기 위한 위성 기반 위치 획득 체계이다. A-GPS는 GPS가 내장된 [휴대 전화](https://ko.wikipedia.org/wiki/휴대_전화 "wikilink") 혹은 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")에서 주로 사용되며, [미](https://ko.wikipedia.org/wiki/미국 "wikilink") [연방 통신 위원회에](../Page/연방_통신_위원회.md "wikilink") 의해 911 응급 통화시 위치를 빠르게 전달하기 위한 목적으로 개발되었다.\[1\]
+**Assisted GPS**(줄여서 **A-GPS**)는 특정 조건에서(주로 [서버](../Page/서버.md "wikilink")와 데이터 연결이 성립되었을 때) [GPS](../Page/GPS.md "wikilink") 시작 속도를 향상시키고, TTFF(Time To First Fix, 처음 [인공위성](../Page/인공위성.md "wikilink")과 [데이터 링크가](https://ko.wikipedia.org/wiki/데이터_링크 "wikilink") 고정되기까지 소요된 [시간](../Page/시간.md "wikilink"))를 줄이기 위한 위성 기반 위치 획득 체계이다. A-GPS는 GPS가 내장된 [휴대 전화](../Page/휴대_전화.md "wikilink") 혹은 [스마트폰](../Page/스마트폰.md "wikilink")에서 주로 사용되며, [미](../Page/미국.md "wikilink") [연방 통신 위원회에](../Page/연방_통신_위원회.md "wikilink") 의해 911 응급 통화시 위치를 빠르게 전달하기 위한 목적으로 개발되었다.\[1\]
 
 ## 동작 원리
 
@@ -12,20 +12,20 @@ A-GPS는 다음의 수단을 이용하여 S-GPS의 문제점을 해결한다.
 GPS 보조의 수단은 두 가지로 분류된다.
 
 1.  위성의 위치를 보다 빨리 획득하기 위한 정보(A-GPS, MS(이동국)-Based)
-      - 이 정보를 이용하여 GPS의 [궤도](https://ko.wikipedia.org/wiki/궤도 "wikilink") 정보(Almanac)와 [천체력](../Page/천체력.md "wikilink") 데이터(Ephemeris)를 GPS [수신기](https://ko.wikipedia.org/wiki/수신기 "wikilink")에 제공할 수 있으며, 어떤 경우에는 GPS 수신기가 보다 빨리 위성과의 데이터 링크를 고정하도록 해준다.
+      - 이 정보를 이용하여 GPS의 [궤도](../Page/궤도.md "wikilink") 정보(Almanac)와 [천체력](../Page/천체력.md "wikilink") 데이터(Ephemeris)를 GPS [수신기](https://ko.wikipedia.org/wiki/수신기 "wikilink")에 제공할 수 있으며, 어떤 경우에는 GPS 수신기가 보다 빨리 위성과의 데이터 링크를 고정하도록 해준다.
       - 무선네트워크를 통해 정확한 시간을 얻을 수 있다.
 2.  GPS 수신기에 수신된 정보를 보조 서버에 전송하여 위치 계산을 수행(A-GPS, MS(이동국)-Assisted)
       - 차후 위치 정보 처리를 위해 대략적인 시간의 정보와 함께 GPS 신호의 스냅샷을 서버에 보관해 둘 수 있다.
       - 보조 서버는 양호한 위성 신호 수신이 가능하며, 많은 양의 계산을 수행할 수 있다. 따라서 GPS 수신기가 수신한 약한 신호들도 비교하여 분석 가능하다.
-      - [기지국](../Page/기지국.md "wikilink")을 통한 정확하고, 이미 확정되어 있는 좌표를 이용함으로써 해당 지역 [전리층](https://ko.wikipedia.org/wiki/전리층 "wikilink")의 상황과 같은 GPS 신호에 영향을 주는 정보를 GPS 수신기 단독으로 사용할 때보다 쉽게 획득할 수 있다. 이를 통해 보다 정확한 위치 계산이 가능하다.
+      - [기지국](../Page/기지국.md "wikilink")을 통한 정확하고, 이미 확정되어 있는 좌표를 이용함으로써 해당 지역 [전리층](../Page/전리층.md "wikilink")의 상황과 같은 GPS 신호에 영향을 주는 정보를 GPS 수신기 단독으로 사용할 때보다 쉽게 획득할 수 있다. 이를 통해 보다 정확한 위치 계산이 가능하다.
 
-추가적으로, 일부 "MS-Assisted"가 구현된 A-GPS 기기들은 대부분의 신호 계산을 보조 서버에 맡겨둠으로써 신호 처리에 필요한 [중앙 처리 장치와](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink") [로직](https://ko.wikipedia.org/wiki/로직 "wikilink") 부담을 줄일 수 있다는 장점이 있다. 반면 서버와의 [레이턴시](../Page/레이턴시.md "wikilink")에 영향을 받으므로 지속적인 추적에는 적당하지 않다.
+추가적으로, 일부 "MS-Assisted"가 구현된 A-GPS 기기들은 대부분의 신호 계산을 보조 서버에 맡겨둠으로써 신호 처리에 필요한 [중앙 처리 장치와](../Page/중앙_처리_장치.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink") [로직](https://ko.wikipedia.org/wiki/로직 "wikilink") 부담을 줄일 수 있다는 장점이 있다. 반면 서버와의 [레이턴시](../Page/레이턴시.md "wikilink")에 영향을 받으므로 지속적인 추적에는 적당하지 않다.
 
 이와 달리 "MS-Based"가 구현된 A-GPS 기기들은 구동 초기에 위성 정보를 얻기 위한 용도로 데이터 연결을 사용하며, 이후에는 S-GPS 처럼 동작하므로 내비게이션과 같이 빠른 위치 획득 응답을 요구하는 경우에 적당하다.
 
 일반적으로 A-GPS 수신기들은 보조 서버의 A-GPS 정보를 이용하기 위해 데이터 연결을 시도한다. ([인터넷](../Page/인터넷.md "wikilink")이나 다른 수단을 통해) S-GPS로도 동작이 가능한 경우, S-GPS를 사용하게 되며 이 경우 [위성과의 데이터 링크가 고정되기까지의 시간이](https://ko.wikipedia.org/wiki/:en:Time_to_first_fix "wikilink") 보다 더 오래 걸릴 수 있다. 하지만 네트워크 의존적이지 않으므로, 통신망의 범위를 벗어난 지역에서도 사용이 가능하며 데이터 이용료가 부과되지도 않는다.\[3\] 일부 A-GPS 기기들은 S-GPS동작 옵션을 제공하지 않기도 한다.
 
-많은 휴대 전화들이 A-GPS 뿐만 아니라 AP를 통한 [와이파이 위치 획득 체계](https://ko.wikipedia.org/wiki/와이파이_위치_획득_체계 "wikilink"), 이동 전화 기지국을 통한 [위치 획득과](https://ko.wikipedia.org/wiki/위치_획득 "wikilink") 같은 다른 위치 획득 서비스를 조합하여 사용하며, [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [아이폰](../Page/아이폰.md "wikilink")의 경우 [하이브리드 위치 획득 시스템을](https://ko.wikipedia.org/wiki/:en:hybrid_positioning_system "wikilink") 사용하기도 한다.\[4\]
+많은 휴대 전화들이 A-GPS 뿐만 아니라 AP를 통한 [와이파이 위치 획득 체계](../Page/와이파이_위치_획득_체계.md "wikilink"), 이동 전화 기지국을 통한 [위치 획득과](https://ko.wikipedia.org/wiki/위치_획득 "wikilink") 같은 다른 위치 획득 서비스를 조합하여 사용하며, [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [아이폰](../Page/아이폰.md "wikilink")의 경우 [하이브리드 위치 획득 시스템을](https://ko.wikipedia.org/wiki/:en:hybrid_positioning_system "wikilink") 사용하기도 한다.\[4\]
 
 [고감도 GPS는](https://ko.wikipedia.org/wiki/:en:High_Sensitivity_GPS "wikilink") 추가적인 [인프라](https://ko.wikipedia.org/wiki/인프라 "wikilink")를 필요로 하지 않도록 GPS의 수신 문제 해결을 위한 기술이다. 그러나 A-GPS와 달리, 고감도 GPS 역시 GPS가 오랜 기간동안 동작하지 않은 경우 즉각적인 위치 정보를 제공하지 못하는 단점을 가지고 있다.
 

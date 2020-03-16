@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  AA](https://ko.wikipedia.org/wiki/__AA).
 
 
-**사우스 차이나 AA**(, )는 [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 선수단으로, 현재 [홍콩 프리미어리그에서](https://ko.wikipedia.org/wiki/홍콩_프리미어리그 "wikilink") 활동하고 있다.
+**사우스 차이나 AA**(, )는 [홍콩](../Page/홍콩.md "wikilink")의 [축구](../Page/축구.md "wikilink") 선수단으로, 현재 [홍콩 프리미어리그에서](../Page/홍콩_프리미어리그.md "wikilink") 활동하고 있다.
 
 ## 클럽 명칭 역사
 

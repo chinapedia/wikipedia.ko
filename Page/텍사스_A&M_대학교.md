@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ A\&M ](https://ko.wikipedia.org/wiki/_A\&M_).
 
 
-**텍사스 A\&M 대학교** (Texas A\&M University)는 미국 [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") 칼리지스테이션(College Station)에 위치한 주립 대학으로 A\&M 또는 TAMU라고도 부른다. Commerce, Corpus Christi, Galvestone 및 San Antonio에 분교를 두고있는데, College Station 캠퍼스(휴스턴에서 2시간 거리)가 텍사스 A\&M 대학 시스템(Texas A\&M University System)의 주력기관이다. 미국에서 6번째로 큰 대학으로, 텍사스주를 대표하는 플랙십(flagship) 대학이면서 미국에서 가장 넓은 캠퍼스를 가지고 있다. 2016년 5월 학교 당국은 College Station 외곽지역에 2천 에이커 (여의도 면적의 3배)에 달하는 연구 단지를 짓는다는 계획을 발표했다. 학교 안에 공항과 철로 및 석유채굴시설이 있다.
+**텍사스 A\&M 대학교** (Texas A\&M University)는 미국 [텍사스주](../Page/텍사스주.md "wikilink") 칼리지스테이션(College Station)에 위치한 주립 대학으로 A\&M 또는 TAMU라고도 부른다. Commerce, Corpus Christi, Galvestone 및 San Antonio에 분교를 두고있는데, College Station 캠퍼스(휴스턴에서 2시간 거리)가 텍사스 A\&M 대학 시스템(Texas A\&M University System)의 주력기관이다. 미국에서 6번째로 큰 대학으로, 텍사스주를 대표하는 플랙십(flagship) 대학이면서 미국에서 가장 넓은 캠퍼스를 가지고 있다. 2016년 5월 학교 당국은 College Station 외곽지역에 2천 에이커 (여의도 면적의 3배)에 달하는 연구 단지를 짓는다는 계획을 발표했다. 학교 안에 공항과 철로 및 석유채굴시설이 있다.
 
 미국에서 6번째, 세계에선 9번째로 기부금을 많이 받는 부자 대학으로 1980년대 이래 미국에서 가장 빠르게 성장하는 대학이다. (College Station 캠퍼스 만을 놓고 보았을 때 2014년 105억 달러의 기부금을 받아 전국대학중 6위를 차지했다. College Station 캠퍼스 보다 기부금을 더 많이 받는 대학은 하버드, 예일, 스탠포드, 프린스턴, MIT 뿐이다.)
 
@@ -9,7 +9,7 @@
 
 텍사스 A\&M 대학은 10개의 단과 대학과 18개의 연구 기관을 통해 150개 이상의 과정을 제공하고 있으며, 학부보다는 연구중심의 대학원 과정이 강세를 보인다. 특히 농공대로 출발한 대학답게 농생명대학과 공과대학이 미국 최상위권에 속하며,1963년 종합대학으로 변경됨으로써 개설되기 시작한 인문사회계도 급성장하고 있다. 풍부한 재정으로 인한 우수한 교육시설과 연구업적을 바탕으로 52개국에서 130개가 넘는 학술기관과 공동연구, 교환교수, 교환학생 프로그램을 체결하는 등 전세계적으로 활발히 활동하고 있는 국제적인 대학이다. 또한, 텍사스 A\&M 대학교는 [미국의 시니어 학군사관(ROTC) 프로그램을 운용하는 6개의 대학교중](https://ko.wikipedia.org/wiki/:en:Senior_Military_College "wikilink") 하나이다.
 
-2017년 [U.S. News & World Report에](https://ko.wikipedia.org/wiki/U.S._News_&_World_Report "wikilink") 의한 학부 랭킹은 69위, 공립대학 순위에선 25위를 기록했다. Washington Monthly 2017 Best College Ranking에선 스탠포드, 하버드, MIT를 이어 4위에 올랐다. CWTS Leiden에 의해 2017년 리서치 중심 대학으로 미국에서 30위에 랭크되었다. 리서치에 강한 미국 60개, 캐나다 2개 대학만이 가입되어 있는 [미국 대학 협회(AAU, The Association of American Universities)의](https://ko.wikipedia.org/wiki/미국_대학_협회 "wikilink") 회원이다.
+2017년 [U.S. News & World Report에](https://ko.wikipedia.org/wiki/U.S._News_&_World_Report "wikilink") 의한 학부 랭킹은 69위, 공립대학 순위에선 25위를 기록했다. Washington Monthly 2017 Best College Ranking에선 스탠포드, 하버드, MIT를 이어 4위에 올랐다. CWTS Leiden에 의해 2017년 리서치 중심 대학으로 미국에서 30위에 랭크되었다. 리서치에 강한 미국 60개, 캐나다 2개 대학만이 가입되어 있는 [미국 대학 협회(AAU, The Association of American Universities)의](../Page/미국_대학_협회.md "wikilink") 회원이다.
 
 ## 역사
 

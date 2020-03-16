@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ AA](https://ko.wikipedia.org/wiki/_AA).
 
 
-**시티즌 AA**() 또는 **시티즌 체육회**, **공민 체육회**()는 [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [홍콩 1부 리그에서](../Page/홍콩_1부_리그.md "wikilink") 활동하고 있다.
+**시티즌 AA**() 또는 **시티즌 체육회**, **공민 체육회**()는 [홍콩](../Page/홍콩.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [홍콩 1부 리그에서](../Page/홍콩_1부_리그.md "wikilink") 활동하고 있다.
 
 ## 성적
 

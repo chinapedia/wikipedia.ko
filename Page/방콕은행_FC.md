@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**방콕은행 FC**(, )는 [태국](../Page/태국.md "wikilink") [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")을 연고로 하던 축구 선수단으로, [타이 프리미어리그에](https://ko.wikipedia.org/wiki/타이_프리미어리그 "wikilink") 참가했다.
+**방콕은행 FC**(, )는 [태국](../Page/태국.md "wikilink") [방콕](../Page/방콕.md "wikilink")을 연고로 하던 축구 선수단으로, [타이 프리미어리그에](https://ko.wikipedia.org/wiki/타이_프리미어리그 "wikilink") 참가했다.
 
-이 클럽은 [방콕은행](https://ko.wikipedia.org/wiki/방콕은행 "wikilink")이 운영하였으며 [1955년](https://ko.wikipedia.org/wiki/1955년 "wikilink")에 창단했으며 태국에서 가장 성공한 축구 팀이라는 평가를 받았다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [타이 디비전 1 리그로](https://ko.wikipedia.org/wiki/타이_디비전_1_리그 "wikilink") 강등되면서 해체되고 만다.
+이 클럽은 [방콕은행](https://ko.wikipedia.org/wiki/방콕은행 "wikilink")이 운영하였으며 [1955년](../Page/1955년.md "wikilink")에 창단했으며 태국에서 가장 성공한 축구 팀이라는 평가를 받았다. [2008년](../Page/2008년.md "wikilink") [타이 디비전 1 리그로](https://ko.wikipedia.org/wiki/타이_디비전_1_리그 "wikilink") 강등되면서 해체되고 만다.
 
 ## 성적
 

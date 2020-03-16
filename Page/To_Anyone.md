@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [To Anyone](https://ko.wikipedia.org/wiki/To_Anyone).
 
 
-《**To Anyone**》은 대한민국의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 첫 번째 정규 음반으로, [YG 엔터테인먼트에서](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink") 2010년 [9월 9일](https://ko.wikipedia.org/wiki/9월_9일 "wikilink") 발매하였다.\[1\] YG 엔터테인먼트의 CEO [양현석](../Page/양현석.md "wikilink"), [테디](https://ko.wikipedia.org/wiki/테디_박 "wikilink"), e.knock이 음반 제작에 참여하였다. 힙합, [팝](https://ko.wikipedia.org/wiki/팝_음악 "wikilink"), [알앤비](https://ko.wikipedia.org/wiki/컨템포러리_알앤비 "wikilink"), [댄스](https://ko.wikipedia.org/wiki/댄스_음악 "wikilink") 장르로 분류되는 노래들이 수록되었다.
+《**To Anyone**》은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [2NE1](../Page/2NE1.md "wikilink")의 첫 번째 정규 음반으로, [YG 엔터테인먼트에서](../Page/YG_엔터테인먼트.md "wikilink") 2010년 [9월 9일](../Page/9월_9일.md "wikilink") 발매하였다.\[1\] YG 엔터테인먼트의 CEO [양현석](../Page/양현석.md "wikilink"), [테디](https://ko.wikipedia.org/wiki/테디_박 "wikilink"), e.knock이 음반 제작에 참여하였다. 힙합, [팝](../Page/팝_음악.md "wikilink"), [알앤비](https://ko.wikipedia.org/wiki/컨템포러리_알앤비 "wikilink"), [댄스](https://ko.wikipedia.org/wiki/댄스_음악 "wikilink") 장르로 분류되는 노래들이 수록되었다.
 
-이 음반은 대부분 다양한 평가를 받았다. 음반의 제작 수준에는 높은 평가를 받았지만, [보코더](https://ko.wikipedia.org/wiki/보코더 "wikilink")나 [오토튠](https://ko.wikipedia.org/wiki/오토튠 "wikilink") 소프트웨어의 과도한 사용에 대해서는 지적을 받기도 하였다. 《To Anyone》은 발매 첫 주부터 [가온](https://ko.wikipedia.org/wiki/가온_차트 "wikilink") 음반 차트의 주간 차트에서 1위를 기록하였고, 월간 차트에서도 1위를 기록하였다. 음반은 총 100,000장이 판매되었다.
+이 음반은 대부분 다양한 평가를 받았다. 음반의 제작 수준에는 높은 평가를 받았지만, [보코더](../Page/보코더.md "wikilink")나 [오토튠](../Page/오토튠.md "wikilink") 소프트웨어의 과도한 사용에 대해서는 지적을 받기도 하였다. 《To Anyone》은 발매 첫 주부터 [가온](../Page/가온_차트.md "wikilink") 음반 차트의 주간 차트에서 1위를 기록하였고, 월간 차트에서도 1위를 기록하였다. 음반은 총 100,000장이 판매되었다.
 
-음반에는 앞서 발매되었던 아홉 싱글이 전체에 포함되어 있다. 음반에서 [레게](https://ko.wikipedia.org/wiki/레게 "wikilink") 리믹스로 수록된 〈I Don't Care〉는 첫 번째 싱글이었다. 멤버 [산다라 박이](https://ko.wikipedia.org/wiki/산다라_박 "wikilink") 부르고 [CL이](https://ko.wikipedia.org/wiki/CL_\(가수\) "wikilink") 피처링한 솔로 노래 〈Kiss〉가 다음으로 발매되었으며, [박봄](https://ko.wikipedia.org/wiki/박봄 "wikilink")의 솔로 〈You and I〉가 뒤를 이었다. 네번째로 발매된 싱글은 CL과 막내 멤버인 [공민지](https://ko.wikipedia.org/wiki/공민지 "wikilink")가 듀엣으로 부른 〈Please Don't Go〉이다. 이후 다시 그룹으로 활동을 시작하여 〈날 따라 해봐요〉를 발매하였고 가온 차트에서 상위권을 기록하였다. 2010년 9월 9일 〈박수쳐〉, 〈Can't Nobody〉, 〈Go Away〉를 타이틀 곡으로 정하여 활동을 시작하였고,\[2\] 뒤를 이어서 후속곡 〈아파 (Slow)〉로 활동을 하였다.
+음반에는 앞서 발매되었던 아홉 싱글이 전체에 포함되어 있다. 음반에서 [레게](../Page/레게.md "wikilink") 리믹스로 수록된 〈I Don't Care〉는 첫 번째 싱글이었다. 멤버 [산다라 박이](https://ko.wikipedia.org/wiki/산다라_박 "wikilink") 부르고 [CL이](../Page/CL_\(가수\).md "wikilink") 피처링한 솔로 노래 〈Kiss〉가 다음으로 발매되었으며, [박봄](../Page/박봄.md "wikilink")의 솔로 〈You and I〉가 뒤를 이었다. 네번째로 발매된 싱글은 CL과 막내 멤버인 [공민지](https://ko.wikipedia.org/wiki/공민지 "wikilink")가 듀엣으로 부른 〈Please Don't Go〉이다. 이후 다시 그룹으로 활동을 시작하여 〈날 따라 해봐요〉를 발매하였고 가온 차트에서 상위권을 기록하였다. 2010년 9월 9일 〈박수쳐〉, 〈Can't Nobody〉, 〈Go Away〉를 타이틀 곡으로 정하여 활동을 시작하였고,\[2\] 뒤를 이어서 후속곡 〈아파 (Slow)〉로 활동을 하였다.
 
 ## 특징
 
-  - [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")은 가요계 사상 최초로 트리플 타이틀곡으로 활동을 하였고, 타이틀곡 모두 음악프로그램 1위를 하는 기록을 남겼다.
+  - [2NE1](../Page/2NE1.md "wikilink")은 가요계 사상 최초로 트리플 타이틀곡으로 활동을 하였고, 타이틀곡 모두 음악프로그램 1위를 하는 기록을 남겼다.
   - 7번,8번,9번 트랙은 멤버들의 솔로 곡인 "You And I", "Please Don't Go", "Kiss"이다.
-  - [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")은 "Can't Nobody"와 "Go Away"로 [SBS](../Page/SBS.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink") 방송 사상 최초로 4주 연속 1위를 하는 기록을 남겼다.\[3\]
-  - 타이틀곡 2번 트랙 "Go Away" 뮤직비디오에는 모델 [송재림](https://ko.wikipedia.org/wiki/송재림 "wikilink")이 출연하였으며, 후속곡인 5번 트랙 "아파 (Slow)" 뮤직비디오에는 배우 [이수혁이](https://ko.wikipedia.org/wiki/이수혁_\(배우\) "wikilink") 출연하였다.
+  - [2NE1](../Page/2NE1.md "wikilink")은 "Can't Nobody"와 "Go Away"로 [SBS](../Page/SBS.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink") 방송 사상 최초로 4주 연속 1위를 하는 기록을 남겼다.\[3\]
+  - 타이틀곡 2번 트랙 "Go Away" 뮤직비디오에는 모델 [송재림](https://ko.wikipedia.org/wiki/송재림 "wikilink")이 출연하였으며, 후속곡인 5번 트랙 "아파 (Slow)" 뮤직비디오에는 배우 [이수혁이](../Page/이수혁_\(배우\).md "wikilink") 출연하였다.
 
 ## 제작과 발매
 
@@ -38,29 +38,29 @@
 ### 음악프로그램
 
   - '''박수쳐
-      - [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 1위
+      - [9월 16일](../Page/9월_16일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 1위
   - '''Can't Nobody
-      - [9월 17일](https://ko.wikipedia.org/wiki/9월_17일 "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위
-      - [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 뮤티즌송
-      - [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 1위
-      - [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 뮤티즌송
-      - [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 1위
-      - [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 뮤티즌송 (트리플 크라운)
-      - [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 1위 (트리플 크라운)
+      - [9월 17일](../Page/9월_17일.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위
+      - [9월 19일](../Page/9월_19일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 뮤티즌송
+      - [9월 23일](../Page/9월_23일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 1위
+      - [9월 26일](../Page/9월_26일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 뮤티즌송
+      - [9월 30일](../Page/9월_30일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 1위
+      - [10월 3일](../Page/10월_3일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 뮤티즌송 (트리플 크라운)
+      - [10월 7일](../Page/10월_7일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 1위 (트리플 크라운)
   - '''Go Away
-      - [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위
-      - [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위 (2주 연속)
-      - [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 뮤티즌송
+      - [9월 24일](../Page/9월_24일.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위
+      - [10월 1일](../Page/10월_1일.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 K-Chart 1위 (2주 연속)
+      - [10월 10일](../Page/10월_10일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 뮤티즌송
 
 ### 시상식
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") 《2010 [M.net Asian Music Awards](https://ko.wikipedia.org/wiki/M.net_아시안_뮤직_어워드 "wikilink")》 - 여자 그룹상
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") 《2010 [M.net Asian Music Awards](https://ko.wikipedia.org/wiki/M.net_아시안_뮤직_어워드 "wikilink")》 - 뮤직비디오 작품상
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") 《2010 [M.net Asian Music Awards](https://ko.wikipedia.org/wiki/M.net_아시안_뮤직_어워드 "wikilink")》 - '''올해의 가수상
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") 《2010 [M.net Asian Music Awards](https://ko.wikipedia.org/wiki/M.net_아시안_뮤직_어워드 "wikilink")》 - '''올해의 앨범상
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 《2010 [Melon Music Awards](https://ko.wikipedia.org/wiki/멜론_뮤직_어워드 "wikilink")》 - TOP 10 (본상)
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 《2010 [Melon Music Awards](https://ko.wikipedia.org/wiki/멜론_뮤직_어워드 "wikilink")》 - '''앨범상
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink") 《2011 [한국대중음악상](https://ko.wikipedia.org/wiki/한국대중음악상 "wikilink")》 - 최우수 댄스&일렉트로닉 음반 부문상
+  - [2010년](../Page/2010년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") 《2010 [M.net Asian Music Awards](https://ko.wikipedia.org/wiki/M.net_아시안_뮤직_어워드 "wikilink")》 - 여자 그룹상
+  - [2010년](../Page/2010년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") 《2010 [M.net Asian Music Awards](https://ko.wikipedia.org/wiki/M.net_아시안_뮤직_어워드 "wikilink")》 - 뮤직비디오 작품상
+  - [2010년](../Page/2010년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") 《2010 [M.net Asian Music Awards](https://ko.wikipedia.org/wiki/M.net_아시안_뮤직_어워드 "wikilink")》 - '''올해의 가수상
+  - [2010년](../Page/2010년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") 《2010 [M.net Asian Music Awards](https://ko.wikipedia.org/wiki/M.net_아시안_뮤직_어워드 "wikilink")》 - '''올해의 앨범상
+  - [2010년](../Page/2010년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") 《2010 [Melon Music Awards](../Page/멜론_뮤직_어워드.md "wikilink")》 - TOP 10 (본상)
+  - [2010년](../Page/2010년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") 《2010 [Melon Music Awards](../Page/멜론_뮤직_어워드.md "wikilink")》 - '''앨범상
+  - [2011년](../Page/2011년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") 《2011 [한국대중음악상](../Page/한국대중음악상.md "wikilink")》 - 최우수 댄스&일렉트로닉 음반 부문상
 
 ## 차트 순위
 

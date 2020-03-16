@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ XP ](https://ko.wikipedia.org/wiki/_XP_).
 
 
-**[윈도우 XP](../Page/윈도우_XP.md "wikilink")**는 2001년 10월에 출시되었다. 윈도우 XP는 다른 [윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 계열 운영 체제와 마찬가지로 다국어를 지원한다. 다만, 그 전의 [윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 계열 운영 체제와는 다르게 여러가지 에디션으로 나뉘었다. 그로 인해 윈도우 XP 이후로 출시되는 운영 체제는 여러 가지 에디션을 가지게 된다.
+**[윈도우 XP](../Page/윈도우_XP.md "wikilink")**는 2001년 10월에 출시되었다. 윈도우 XP는 다른 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 계열 운영 체제와 마찬가지로 다국어를 지원한다. 다만, 그 전의 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 계열 운영 체제와는 다르게 여러가지 에디션으로 나뉘었다. 그로 인해 윈도우 XP 이후로 출시되는 운영 체제는 여러 가지 에디션을 가지게 된다.
 
 ## 홈 에디션과 프로페셔널
 
@@ -33,19 +33,19 @@
 
 ## 스타터 에디션
 
-**윈도우 XP 스타터 에디션**은 [태국](../Page/태국.md "wikilink"), [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink"), [터키](https://ko.wikipedia.org/wiki/터키 "wikilink"), [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink"), [인도](https://ko.wikipedia.org/wiki/인도 "wikilink"), [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink"), [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink"), [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink"), [페루](https://ko.wikipedia.org/wiki/페루 "wikilink"), [볼리비아](https://ko.wikipedia.org/wiki/볼리비아 "wikilink"), [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink"), [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink"), [에콰도르](https://ko.wikipedia.org/wiki/에콰도르 "wikilink"), [우루과이](https://ko.wikipedia.org/wiki/우루과이 "wikilink") 및 [베네수엘라](https://ko.wikipedia.org/wiki/베네수엘라 "wikilink")에서 윈도우 XP를 사용하기 위해 가격을 내리게 한 버전이다. 하지만 홈 에디션과 달리 응용 프로그램을 3개까지만 실행할 수 있고, 다른 기능을 기본적으로 사용을 못 하게 하거나 삭제하였다. 출시보도에 따르면 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")에서 개발도상국을 위한 버전이라고 발표하였다.
+**윈도우 XP 스타터 에디션**은 [태국](../Page/태국.md "wikilink"), [베트남](../Page/베트남.md "wikilink"), [터키](../Page/터키.md "wikilink"), [인도네시아](../Page/인도네시아.md "wikilink"), [인도](../Page/인도.md "wikilink"), [콜롬비아](../Page/콜롬비아.md "wikilink"), [브라질](../Page/브라질.md "wikilink"), [아르헨티나](../Page/아르헨티나.md "wikilink"), [페루](../Page/페루.md "wikilink"), [볼리비아](../Page/볼리비아.md "wikilink"), [칠레](../Page/칠레.md "wikilink"), [멕시코](../Page/멕시코.md "wikilink"), [에콰도르](../Page/에콰도르.md "wikilink"), [우루과이](../Page/우루과이.md "wikilink") 및 [베네수엘라](../Page/베네수엘라.md "wikilink")에서 윈도우 XP를 사용하기 위해 가격을 내리게 한 버전이다. 하지만 홈 에디션과 달리 응용 프로그램을 3개까지만 실행할 수 있고, 다른 기능을 기본적으로 사용을 못 하게 하거나 삭제하였다. 출시보도에 따르면 [마이크로소프트](../Page/마이크로소프트.md "wikilink")에서 개발도상국을 위한 버전이라고 발표하였다.
 
 ### 특성화
 
-스타터 에디션은 윈도우 XP의 비싼 버전을 소비자들이 사도록 하기 위해 여러가지 제한이 있다. 실행할 수 있는 응용 프로그램을 최대 세 개로 제한을 두었고, 최대 화면 해상도는 1024x768로 제한했고, 도메인 네트워킹과 작업그룹이 지원되지 않는다. 또한 스타터 에디션이므로 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink") [셀러론](https://ko.wikipedia.org/wiki/셀러론 "wikilink")과 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink") 셈프론과 듀론 밖에 사용하지 못한다. 메모리는 512MB로 제한했고, 하드디스크는 120GB로 제한했다.
+스타터 에디션은 윈도우 XP의 비싼 버전을 소비자들이 사도록 하기 위해 여러가지 제한이 있다. 실행할 수 있는 응용 프로그램을 최대 세 개로 제한을 두었고, 최대 화면 해상도는 1024x768로 제한했고, 도메인 네트워킹과 작업그룹이 지원되지 않는다. 또한 스타터 에디션이므로 [인텔](../Page/인텔.md "wikilink") [셀러론](../Page/셀러론.md "wikilink")과 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink") 셈프론과 듀론 밖에 사용하지 못한다. 메모리는 512MB로 제한했고, 하드디스크는 120GB로 제한했다.
 
 ### 시장 채택
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 9일](https://ko.wikipedia.org/wiki/10월_9일 "wikilink"), 윈도우 XP 스타터 에디션이 백만 개가 팔렸다고 마이크로소프트사가 발표했다. 하지만 대중시장에서는 큰 성공을 거두지 못했다.
+[2006년](../Page/2006년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink"), 윈도우 XP 스타터 에디션이 백만 개가 팔렸다고 마이크로소프트사가 발표했다. 하지만 대중시장에서는 큰 성공을 거두지 못했다.
 
 ## 윈도우 XP 64비트 에디션
 
-윈도우 XP 64비트 에디션에는 순수 [IA-64](../Page/아이테니엄.md "wikilink") 모드의 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink") [아이테니엄](../Page/아이테니엄.md "wikilink") 계열의 [마이크로프로세서](https://ko.wikipedia.org/wiki/마이크로프로세서 "wikilink")에서 동작하도록 설계되었다.
+윈도우 XP 64비트 에디션에는 순수 [IA-64](../Page/아이테니엄.md "wikilink") 모드의 [인텔](../Page/인텔.md "wikilink") [아이테니엄](../Page/아이테니엄.md "wikilink") 계열의 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink")에서 동작하도록 설계되었다.
 
 윈도우 XP 64비트 에디션에는 두 가지 버전이 있다:
 

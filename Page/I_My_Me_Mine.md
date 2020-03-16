@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I My Me Mine](https://ko.wikipedia.org/wiki/I_My_Me_Mine).
 
 
-**"I My Me Mine"**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [포미닛](https://ko.wikipedia.org/wiki/포미닛 "wikilink")의 두 번째 일본 싱글이다. 대한민국에서는 2010년 5월 *[Hit Your Heart](https://ko.wikipedia.org/wiki/Hit_Your_Heart "wikilink")*에 수록곡으로 발매 되었으며, 2010년 7월 28일 일본에서 두 번째 싱글로 발매 되었다. 이 노래는 [가온 싱글 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink") 9위까지 올라갔다.
+**"I My Me Mine"**은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [포미닛](../Page/포미닛.md "wikilink")의 두 번째 일본 싱글이다. 대한민국에서는 2010년 5월 *[Hit Your Heart](../Page/Hit_Your_Heart.md "wikilink")*에 수록곡으로 발매 되었으며, 2010년 7월 28일 일본에서 두 번째 싱글로 발매 되었다. 이 노래는 [가온 싱글 차트](../Page/가온_차트.md "wikilink") 9위까지 올라갔다.
 
 ## 트랙 리스트
 

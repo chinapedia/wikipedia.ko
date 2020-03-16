@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Node.js](https://ko.wikipedia.org/wiki/Node.js).
 
 
-**Node.js**는 확장성 있는 네트워크 애플리케이션(특히 서버 사이드) 개발에 사용되는 소프트웨어 플랫폼이다. 작성 언어로 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")를 활용하며 Non-blocking I/O와 단일 스레드 이벤트 루프를 통한 높은 처리 성능을 가지고 있다.
+**Node.js**는 확장성 있는 네트워크 애플리케이션(특히 서버 사이드) 개발에 사용되는 소프트웨어 플랫폼이다. 작성 언어로 [자바스크립트](../Page/자바스크립트.md "wikilink")를 활용하며 Non-blocking I/O와 단일 스레드 이벤트 루프를 통한 높은 처리 성능을 가지고 있다.
 
 내장 HTTP 서버 라이브러리를 포함하고 있어 웹 서버에서 아파치 등의 별도의 소프트웨어 없이 동작하는 것이 가능하며 이를 통해 웹 서버의 동작에 있어 더 많은 통제를 가능케 한다.
 
 ## 개요
 
-[V8 (자바스크립트 엔진)으로](https://ko.wikipedia.org/wiki/V8_\(자바스크립트_엔진\) "wikilink") 빌드 된 [이벤트](https://ko.wikipedia.org/wiki/이벤트_기반_설계 "wikilink") 기반 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink") [런타임](../Page/런타임.md "wikilink")이다. [웹 서버와](../Page/웹_서버.md "wikilink") 같이 확장성 있는 네트워크 프로그램 제작을 위해 고안되었다.
+[V8 (자바스크립트 엔진)으로](https://ko.wikipedia.org/wiki/V8_\(자바스크립트_엔진\) "wikilink") 빌드 된 [이벤트](https://ko.wikipedia.org/wiki/이벤트_기반_설계 "wikilink") 기반 [자바스크립트](../Page/자바스크립트.md "wikilink") [런타임](../Page/런타임.md "wikilink")이다. [웹 서버와](../Page/웹_서버.md "wikilink") 같이 확장성 있는 네트워크 프로그램 제작을 위해 고안되었다.
 
-[파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink")으로 만든 [트위스티드](../Page/트위스티드_\(소프트웨어\).md "wikilink"), [펄](https://ko.wikipedia.org/wiki/펄 "wikilink")로 만든 [펄 객체 환경](https://ko.wikipedia.org/wiki/:en:Perl_Object_Environment "wikilink"), [루비로](https://ko.wikipedia.org/wiki/루비_\(프로그래밍_언어\) "wikilink") 만든 [이벤트머신](https://ko.wikipedia.org/wiki/이벤트머신 "wikilink")과 그 용도가 비슷하다. 대부분의 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")가 웹 브라우저에서 실행되는 것과는 달리, 서버 측에서 실행된다. 일부 [CommonJS](https://ko.wikipedia.org/wiki/CommonJS "wikilink") 명세\[1\]를 구현하고 있으며, 쌍방향 테스트를 위해 [REPL](https://ko.wikipedia.org/wiki/:en:Read-eval-print_loop "wikilink") 환경을 포함하고 있다.
+[파이썬](../Page/파이썬.md "wikilink")으로 만든 [트위스티드](../Page/트위스티드_\(소프트웨어\).md "wikilink"), [펄](../Page/펄.md "wikilink")로 만든 [펄 객체 환경](https://ko.wikipedia.org/wiki/:en:Perl_Object_Environment "wikilink"), [루비로](../Page/루비_\(프로그래밍_언어\).md "wikilink") 만든 [이벤트머신](https://ko.wikipedia.org/wiki/이벤트머신 "wikilink")과 그 용도가 비슷하다. 대부분의 [자바스크립트](../Page/자바스크립트.md "wikilink")가 웹 브라우저에서 실행되는 것과는 달리, 서버 측에서 실행된다. 일부 [CommonJS](../Page/CommonJS.md "wikilink") 명세\[1\]를 구현하고 있으며, 쌍방향 테스트를 위해 [REPL](https://ko.wikipedia.org/wiki/:en:Read-eval-print_loop "wikilink") 환경을 포함하고 있다.
 
 ## 역사
 
@@ -17,13 +17,13 @@
 
 최초 버전은 2009년 리눅스 기반으로 출시되었고, Inangural JSConf EU conference에서 Ryan Dahl의 발표\[4\] 직후 국제적인 관심을 끌기 시작했다.\[5\] 패키지 매니저인 [npm](https://ko.wikipedia.org/wiki/npm "wikilink")은 2011년에 처음 소개되었다.
 
-2011년 6월 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")는 Joyent와 파트너십을 맺고\[6\] 같은 해 7월 [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 최초 버전을 출시했다.
+2011년 6월 [마이크로소프트](../Page/마이크로소프트.md "wikilink")는 Joyent와 파트너십을 맺고\[6\] 같은 해 7월 [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 최초 버전을 출시했다.
 
 2014년 12월, Fedor Indutny는 Node.js의 포크인 io.js를 시작했다.
 
 2015년 9월, Node.js v0.12와 io.js v3.3은 병합되어 Node v4.0으로 합쳐졌다.\[7\]
 
-2019년 4월, Node.js v12 부터 [ECMA스크립트](https://ko.wikipedia.org/wiki/ECMA스크립트 "wikilink")의 공식 모듈 시스템 사용을 실험적으로 지원하기 시작했다. (그 이전까지는 서드파티인 [CommonJS](https://ko.wikipedia.org/wiki/CommonJS "wikilink") 모듈만을 사용해오고 있었다.)
+2019년 4월, Node.js v12 부터 [ECMA스크립트](../Page/ECMA스크립트.md "wikilink")의 공식 모듈 시스템 사용을 실험적으로 지원하기 시작했다. (그 이전까지는 서드파티인 [CommonJS](../Page/CommonJS.md "wikilink") 모듈만을 사용해오고 있었다.)
 
 ## 출시
 
@@ -62,7 +62,7 @@ http.createServer(function (request, response) {
 console.log('Server running at http://localhost:8000/');
 ```
 
-다른 예제, 7000번 [포트를](https://ko.wikipedia.org/wiki/포트_번호 "wikilink") 여는 간단한 [TCP](https://ko.wikipedia.org/wiki/전송_제어_프로토콜 "wikilink") [Echo](https://ko.wikipedia.org/wiki/Echo "wikilink") [서버](https://ko.wikipedia.org/wiki/서버 "wikilink"):
+다른 예제, 7000번 [포트를](https://ko.wikipedia.org/wiki/포트_번호 "wikilink") 여는 간단한 [TCP](../Page/전송_제어_프로토콜.md "wikilink") [Echo](https://ko.wikipedia.org/wiki/Echo "wikilink") [서버](../Page/서버.md "wikilink"):
 
 ``` javascript
 var net = require('net');
@@ -80,7 +80,7 @@ net.createServer(function (stream) {
 
 ## 같이 보기
 
-  - [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")
+  - [자바스크립트](../Page/자바스크립트.md "wikilink")
   - [V8 (자바스크립트 엔진)](https://ko.wikipedia.org/wiki/V8_\(자바스크립트_엔진\) "wikilink")
 
 ## 각주

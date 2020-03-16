@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**포트 FC**(, )는 [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink")에 창단된 [태국](../Page/태국.md "wikilink") [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [타이 리그1에](https://ko.wikipedia.org/wiki/타이_리그1 "wikilink") 참가하고 있다. 이전엔 **싱타루아 FC**라는 이름을 사용하였다.
+**포트 FC**(, )는 [1967년](../Page/1967년.md "wikilink")에 창단된 [태국](../Page/태국.md "wikilink") [방콕](../Page/방콕.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [타이 리그1에](https://ko.wikipedia.org/wiki/타이_리그1 "wikilink") 참가하고 있다. 이전엔 **싱타루아 FC**라는 이름을 사용하였다.
 
 ## 성적
 
@@ -11,11 +11,11 @@
 
 ## 유명한 선수
 
-  - [김근철](https://ko.wikipedia.org/wiki/김근철 "wikilink")
+  - [김근철](../Page/김근철.md "wikilink")
 
-  - [주성환](https://ko.wikipedia.org/wiki/주성환 "wikilink")
+  - [주성환](../Page/주성환.md "wikilink")
 
-  - [김성환](https://ko.wikipedia.org/wiki/김성환_\(축구_선수\) "wikilink")
+  - [김성환](../Page/김성환_\(축구_선수\).md "wikilink")
 
 ## 외부 링크
 

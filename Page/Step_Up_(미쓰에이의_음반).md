@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Step Up \( \)](https://ko.wikipedia.org/wiki/Step_Up_\(_\)).
 
 
-"**Step Up**"은 대한민국의 팝 댄스 음악 그룹 [미스에이](https://ko.wikipedia.org/wiki/미스에이 "wikilink")의 두 번째 [싱글 음반으로](../Page/싱글_\(음악\).md "wikilink"), [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다. 타이틀곡은 "Breathe"이다.
+"**Step Up**"은 대한민국의 팝 댄스 음악 그룹 [미스에이](https://ko.wikipedia.org/wiki/미스에이 "wikilink")의 두 번째 [싱글 음반으로](../Page/싱글_\(음악\).md "wikilink"), [2010년](../Page/2010년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다. 타이틀곡은 "Breathe"이다.
 
 ## 활동 사항
 
-미스에이는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") 두 번째 싱글 앨범 "Step Up"을 발매하였으며, [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》에서 컴백무대를 가졌다.\[1\] 타이틀곡은 "Breathe"로 미스에이는 이번 앨범에서 [레게톤](https://ko.wikipedia.org/wiki/레게톤 "wikilink") 리듬을 선보이며 큰 반응을 얻었다. "Breathe"는 공개 후 여러차트에서 1위를 하였으며, [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 차트에서 1위를 수상하였다.
+미스에이는 [2010년](../Page/2010년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") 두 번째 싱글 앨범 "Step Up"을 발매하였으며, [10월 7일](../Page/10월_7일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》에서 컴백무대를 가졌다.\[1\] 타이틀곡은 "Breathe"로 미스에이는 이번 앨범에서 [레게톤](../Page/레게톤.md "wikilink") 리듬을 선보이며 큰 반응을 얻었다. "Breathe"는 공개 후 여러차트에서 1위를 하였으며, [10월 21일](../Page/10월_21일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》 차트에서 1위를 수상하였다.
 
 ## 수록 곡 목록
 

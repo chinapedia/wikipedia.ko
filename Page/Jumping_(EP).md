@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jumping \(EP\)](https://ko.wikipedia.org/wiki/Jumping_\(EP\)).
 
 
-《**Jumping**》은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 4번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").
+《**Jumping**》은 [2010년](../Page/2010년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 4번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 트랙 리스트
 

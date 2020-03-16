@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [   II OPEN Season 3](https://ko.wikipedia.org/wiki/___II_OPEN_Season_3).
 
 
-**소니 에릭슨 스타크래프트 II OPEN Season 3**은 세계 최초의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 대회인 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 세 번째 리그이며 2011 GSL의 Code S 32명과 Code A 64명을 결정하기 위한 2010년의 3개 대회 중 마지막 대회로 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 22일에](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") 개막하였다.
+**소니 에릭슨 스타크래프트 II OPEN Season 3**은 세계 최초의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 대회인 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 세 번째 리그이며 2011 GSL의 Code S 32명과 Code A 64명을 결정하기 위한 2010년의 3개 대회 중 마지막 대회로 [2010년](../Page/2010년.md "wikilink") [11월 22일에](../Page/11월_22일.md "wikilink") 개막하였다.
 
 ## 리그 일정
 
-  - 참가 접수 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") \~ [11월 7일](https://ko.wikipedia.org/wiki/11월_7일 "wikilink")
-  - 오프라인 예선: [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink"), [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink")
-  - 64강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") \~ [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink")
-  - 32강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 26일](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") , [11월 29일](../Page/11월_29일.md "wikilink") \~ [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink")
-  - 16강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink"), [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink")
-  - 8강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink") \~ [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink")
-  - 4강 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink"), [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink")
-  - Code A 최종 결정전 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink"), [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink")
-  - 결승 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink")
+  - 참가 접수 : [2010년](../Page/2010년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") \~ [11월 7일](../Page/11월_7일.md "wikilink")
+  - 오프라인 예선: [2010년](../Page/2010년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink"), [11월 16일](../Page/11월_16일.md "wikilink")
+  - 64강 : [2010년](../Page/2010년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") \~ [11월 25일](../Page/11월_25일.md "wikilink")
+  - 32강 : [2010년](../Page/2010년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") , [11월 29일](../Page/11월_29일.md "wikilink") \~ [12월 1일](../Page/12월_1일.md "wikilink")
+  - 16강 : [2010년](../Page/2010년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink"), [12월 3일](../Page/12월_3일.md "wikilink")
+  - 8강 : [2010년](../Page/2010년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink") \~ [12월 7일](../Page/12월_7일.md "wikilink")
+  - 4강 : [2010년](../Page/2010년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink"), [12월 10일](../Page/12월_10일.md "wikilink")
+  - Code A 최종 결정전 : [2010년](../Page/2010년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink"), [12월 15일](../Page/12월_15일.md "wikilink")
+  - 결승 : [2010년](../Page/2010년.md "wikilink") [12월 18일](../Page/12월_18일.md "wikilink")
 
 ## 리그 방식
 
@@ -49,7 +49,7 @@
 
   - 한국어\[1\]
       - 캐스터 : [이현주](../Page/이현주_\(방송인\).md "wikilink")
-      - 해설 : [채정원](https://ko.wikipedia.org/wiki/채정원 "wikilink"), [안준영](https://ko.wikipedia.org/wiki/안준영_\(해설가\) "wikilink"), [이주영](../Page/이주영_\(프로게이머\).md "wikilink"), [박대만](../Page/박대만.md "wikilink")
+      - 해설 : [채정원](../Page/채정원.md "wikilink"), [안준영](https://ko.wikipedia.org/wiki/안준영_\(해설가\) "wikilink"), [이주영](../Page/이주영_\(프로게이머\).md "wikilink"), [박대만](../Page/박대만.md "wikilink")
   - 영어\[2\]
       - 캐스터 : [Nicholas Plott](https://ko.wikipedia.org/wiki/Nicholas_Plott "wikilink")
       - 해설 : [Daniel Stemkoski](https://ko.wikipedia.org/wiki/Daniel_Stemkoski "wikilink")
@@ -57,7 +57,7 @@
 ## 경기장
 
   - 오프라인 예선 : 신도림 테크노마트 인텔 e스타디움
-  - 본선 : [서울영상고등학교](https://ko.wikipedia.org/wiki/서울영상고등학교 "wikilink") 강당 곰TV 스튜디오
+  - 본선 : [서울영상고등학교](../Page/서울영상고등학교.md "wikilink") 강당 곰TV 스튜디오
   - 결승전 : 인천 [송도컨벤시아](../Page/송도컨벤시아.md "wikilink")
 
 ## 리그 BGM
@@ -183,7 +183,7 @@
 <td style="text-align: center;"><p><strong>직전 대회 성적</strong></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/곽한얼" title="wikilink">곽한얼</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/곽한얼.md" title="wikilink">곽한얼</a></p></td>
 <td style="text-align: center;"><p>MakaPrime.WE</p></td>
 <td style="text-align: center;"><p>32강</p></td>
 </tr>
@@ -198,12 +198,12 @@
 <td style="text-align: center;"><p>4강</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/김승철" title="wikilink">김승철</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/김승철.md" title="wikilink">김승철</a></p></td>
 <td style="text-align: center;"><p>sCfOu</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/김영일_(프로게이머)" title="wikilink">김영일</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/김영일_(프로게이머).md" title="wikilink">김영일</a></p></td>
 <td style="text-align: center;"><p>NEXON</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
@@ -228,12 +228,12 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/박서용" title="wikilink">박서용</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/박서용.md" title="wikilink">박서용</a></p></td>
 <td style="text-align: center;"><p>티에스엘레인</p></td>
 <td style="text-align: center;"><p>32강</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/박준_(프로게이머)" title="wikilink">박준</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/박준_(프로게이머).md" title="wikilink">박준</a></p></td>
 <td style="text-align: center;"><p>FOXLyn</p></td>
 <td style="text-align: center;"><p>64강</p></td>
 </tr>
@@ -258,12 +258,12 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/이정훈_(프로게이머)" title="wikilink">이정훈</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/이정훈_(프로게이머).md" title="wikilink">이정훈</a></p></td>
 <td style="text-align: center;"><p>해병왕프라임.WE</p></td>
 <td style="text-align: center;"><p>준우승</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/임요환" title="wikilink">임요환</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/임요환.md" title="wikilink">임요환</a></p></td>
 <td style="text-align: center;"><p>슬레이어스박서</p></td>
 <td style="text-align: center;"><p>4강</p></td>
 </tr>
@@ -273,7 +273,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/정종현" title="wikilink">정종현</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/정종현.md" title="wikilink">정종현</a></p></td>
 <td style="text-align: center;"><p>IMMVP</p></td>
 <td style="text-align: center;"><p>32강</p></td>
 </tr>
@@ -288,12 +288,12 @@
 <td style="text-align: center;"><p>64강</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/한규종" title="wikilink">한규종</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/한규종.md" title="wikilink">한규종</a></p></td>
 <td style="text-align: center;"><p>티에스엘클라이드</p></td>
 <td style="text-align: center;"><p>64강</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/한이석" title="wikilink">한이석</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/한이석.md" title="wikilink">한이석</a></p></td>
 <td style="text-align: center;"><p>aLivefOu</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
@@ -325,7 +325,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/김수호" title="wikilink">김수호</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/김수호.md" title="wikilink">김수호</a></p></td>
 <td style="text-align: center;"><p>NEXLine</p></td>
 <td style="text-align: center;"><p>32강</p></td>
 </tr>
@@ -370,7 +370,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/이동녕_(프로게이머)" title="wikilink">이동녕</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/이동녕_(프로게이머).md" title="wikilink">이동녕</a></p></td>
 <td style="text-align: center;"><p>LeenockfOu</p></td>
 <td style="text-align: center;"><p>16강</p></td>
 </tr>
@@ -390,7 +390,7 @@
 <td style="text-align: center;"><p>16강</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/임재덕" title="wikilink">임재덕</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/임재덕.md" title="wikilink">임재덕</a></p></td>
 <td style="text-align: center;"><p>IMNestea</p></td>
 <td style="text-align: center;"><p>우승</p></td>
 </tr>
@@ -400,7 +400,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/정승일" title="wikilink">정승일</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/정승일.md" title="wikilink">정승일</a></p></td>
 <td style="text-align: center;"><p>창조의아침</p></td>
 <td style="text-align: center;"><p>-</p></td>
 </tr>
@@ -415,7 +415,7 @@
 <td style="text-align: center;"><p>-</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/최정민_(프로게이머)" title="wikilink">최정민</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/최정민_(프로게이머).md" title="wikilink">최정민</a></p></td>
 <td style="text-align: center;"><p>oGsZenio</p></td>
 <td style="text-align: center;"><p>8강</p></td>
 </tr>
@@ -430,7 +430,7 @@
 <td style="text-align: center;"><p>8강</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://ko.wikipedia.org/wiki/그렉_필즈" title="wikilink">Greg Fields</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/그렉_필즈.md" title="wikilink">Greg Fields</a></p></td>
 <td style="text-align: center;"><p>EGIdra</p></td>
 <td style="text-align: center;"><p>16강</p></td>
 </tr>
@@ -463,26 +463,26 @@
 |               [서명덕](../Page/서명덕.md "wikilink")                |     반반쓰제니스     |     64강      |
 |      [심재용](https://ko.wikipedia.org/wiki/심재용 "wikilink")      |    NEXChoa     |      \-      |
 |      [안정민](https://ko.wikipedia.org/wiki/안정민 "wikilink")      |   cOreZenith   |     32강      |
-|      [안홍욱](https://ko.wikipedia.org/wiki/안홍욱 "wikilink")      | HongUnPrime.WE |     64강      |
+|               [안홍욱](../Page/안홍욱.md "wikilink")                | HongUnPrime.WE |     64강      |
 | [이상헌](https://ko.wikipedia.org/wiki/이상헌_\(프로게이머\) "wikilink") |    oGsVines    |      \-      |
 |      [이정환](https://ko.wikipedia.org/wiki/이정환 "wikilink")      | AnyproPrime.WE |      \-      |
-|      [이형섭](https://ko.wikipedia.org/wiki/이형섭 "wikilink")      |    choyafOu    |     64강      |
+|               [이형섭](../Page/이형섭.md "wikilink")                |    choyafOu    |     64강      |
 |               [장민철](../Page/장민철.md "wikilink")                |     oGsMC      |     32강      |
 |      [정민수](https://ko.wikipedia.org/wiki/정민수 "wikilink")      |    엔에스피지니어스    |      8강      |
 
   - **무작위 (1명, 1.5%)**
 
-|                                                     |           |              |
-| :-------------------------------------------------: | :-------: | :----------: |
-|                       **이름**                        |  **ID**   | **직전 대회 성적** |
-| [고병재](https://ko.wikipedia.org/wiki/고병재 "wikilink") | GuMihofOu |      \-      |
+|                                  |           |              |
+| :------------------------------: | :-------: | :----------: |
+|              **이름**              |  **ID**   | **직전 대회 성적** |
+| [고병재](../Page/고병재.md "wikilink") | GuMihofOu |      \-      |
 
 ## 본선 대진표
 
 ## 결과
 
   - **우승 : [장민철](../Page/장민철.md "wikilink")**
-  - **준우승 : [박서용](https://ko.wikipedia.org/wiki/박서용 "wikilink")**
+  - **준우승 : [박서용](../Page/박서용.md "wikilink")**
 
 ## 각주
 

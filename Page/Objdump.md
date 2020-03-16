@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Objdump](https://ko.wikipedia.org/wiki/Objdump).
 
 
-**objdump**는 [GNU 바이너리 유틸리티의](https://ko.wikipedia.org/wiki/GNU_바이너리_유틸리티 "wikilink") 일부로서, 라이브러리, 컴파일된 오브젝트 모듈, 공유 오브젝트 파일, 독립 실행파일등의 바이너리 파일들의 정보를 보여주는 프로그램이다. **objdump**는 [ELF](https://ko.wikipedia.org/wiki/ELF "wikilink") 파일을 [어셈블리어](https://ko.wikipedia.org/wiki/어셈블리어 "wikilink")로 보여주는 [역어셈블러](../Page/역어셈블러.md "wikilink")로 사용될 수 있다.
+**objdump**는 [GNU 바이너리 유틸리티의](../Page/GNU_바이너리_유틸리티.md "wikilink") 일부로서, 라이브러리, 컴파일된 오브젝트 모듈, 공유 오브젝트 파일, 독립 실행파일등의 바이너리 파일들의 정보를 보여주는 프로그램이다. **objdump**는 [ELF](https://ko.wikipedia.org/wiki/ELF "wikilink") 파일을 [어셈블리어](../Page/어셈블리어.md "wikilink")로 보여주는 [역어셈블러](../Page/역어셈블러.md "wikilink")로 사용될 수 있다.
 
 예를 들자면 오브젝트 파일을 [역어셈블](../Page/역어셈블러.md "wikilink") 하기 위해서 아래와 같이 쓴다:
 
@@ -9,7 +9,7 @@
 
 **objdump**는 오브젝트 파일들의 내용을 읽을때 [BFD](https://ko.wikipedia.org/wiki/Binary_File_Descriptor_library "wikilink") 라이브러리를 사용한다. readelf([GNU Binutils에](https://ko.wikipedia.org/wiki/GNU_Binutils "wikilink") 역시 포함되어 있다.)는 **objdump**처럼 [ELF](https://ko.wikipedia.org/wiki/ELF "wikilink") 파일들을 읽을 수 있지만 [BFD](https://ko.wikipedia.org/wiki/Binary_File_Descriptor_library "wikilink") 라이브러리를 사용하지 않는다.
 
-[GNU](https://ko.wikipedia.org/wiki/GNU "wikilink") 프로젝트는 높은 기능을 갖춘 **objdump** 프로그램을 [GNU Binutils](https://ko.wikipedia.org/wiki/GNU_Binutils "wikilink") 패키지에 포함시키고 있다.
+[GNU](../Page/GNU.md "wikilink") 프로젝트는 높은 기능을 갖춘 **objdump** 프로그램을 [GNU Binutils](https://ko.wikipedia.org/wiki/GNU_Binutils "wikilink") 패키지에 포함시키고 있다.
 
 ## 출력 예제
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**방콕 유나이티드 FC**(, )는 [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink")에 창단된 [태국](../Page/태국.md "wikilink") [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [타이 리그1에](https://ko.wikipedia.org/wiki/타이_리그1 "wikilink") 참가하고 있다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")까지는 **방콕 대학교 FC**()라는 이름으로 참가했다.
+**방콕 유나이티드 FC**(, )는 [1988년](../Page/1988년.md "wikilink")에 창단된 [태국](../Page/태국.md "wikilink") [방콕](../Page/방콕.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [타이 리그1에](https://ko.wikipedia.org/wiki/타이_리그1 "wikilink") 참가하고 있다. [2009년](../Page/2009년.md "wikilink")까지는 **방콕 대학교 FC**()라는 이름으로 참가했다.
 
 ## 성적
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 스파르타크 트르나바**(FC Spartak Trnava)는 [트르나바](https://ko.wikipedia.org/wiki/트르나바 "wikilink")를 연고로 하는 [슬로바키아](https://ko.wikipedia.org/wiki/슬로바키아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [슬로바키아 수페르리가에](../Page/슬로바키아_수페르리가.md "wikilink") 참가하고 있다. [체코슬로바키아 1부 리그에서](https://ko.wikipedia.org/wiki/체코슬로바키아_1부_리그 "wikilink") 5번, 체코슬로바키아 컵에서 5번 우승했으며 [유러피언컵에서](../Page/UEFA_챔피언스리그.md "wikilink") 준결승 진출 1회, 8강 진출 2회의 성적을 기록했다. [ŠK 슬로반 브라티슬라바와](../Page/ŠK_슬로반_브라티슬라바.md "wikilink") 라이벌 관계에 있다.
+**FC 스파르타크 트르나바**(FC Spartak Trnava)는 [트르나바](../Page/트르나바.md "wikilink")를 연고로 하는 [슬로바키아](../Page/슬로바키아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [슬로바키아 수페르리가에](../Page/슬로바키아_수페르리가.md "wikilink") 참가하고 있다. [체코슬로바키아 1부 리그에서](../Page/체코슬로바키아_1부_리그.md "wikilink") 5번, 체코슬로바키아 컵에서 5번 우승했으며 [유러피언컵에서](../Page/UEFA_챔피언스리그.md "wikilink") 준결승 진출 1회, 8강 진출 2회의 성적을 기록했다. [ŠK 슬로반 브라티슬라바와](../Page/ŠK_슬로반_브라티슬라바.md "wikilink") 라이벌 관계에 있다.
 
 ## 클럽 명칭 역사
 
@@ -18,7 +18,7 @@
 
 ### 슬로바키아 국내 대회 (체코슬로바키아 시대 포함)
 
-  - [체코슬로바키아 1부 리그](https://ko.wikipedia.org/wiki/체코슬로바키아_1부_리그 "wikilink") (1945–1993): 우승 5회 (1968, 1969, 1971, 1972, 1973)
+  - [체코슬로바키아 1부 리그](../Page/체코슬로바키아_1부_리그.md "wikilink") (1945–1993): 우승 5회 (1968, 1969, 1971, 1972, 1973)
   - [체코슬로바키아 컵](https://ko.wikipedia.org/wiki/체코슬로바키아_컵 "wikilink"): 우승 5회 (1951, 1967, 1971, 1975, 1986)
   - [슬로바키아 컵](https://ko.wikipedia.org/wiki/슬로바키아_컵 "wikilink"): 우승 5회 (1971, 1975, 1986, 1991, 1998)
   - [슬로바키아 슈퍼컵](https://ko.wikipedia.org/wiki/슬로바키아_슈퍼컵 "wikilink"): 우승 1회 (1998)
@@ -30,7 +30,7 @@
 
 ## 유명 선수
 
-  - [미로슬라우 카르한](https://ko.wikipedia.org/wiki/미로슬라우_카르한 "wikilink")
+  - [미로슬라우 카르한](../Page/미로슬라우_카르한.md "wikilink")
 
 ## 외부 링크
 

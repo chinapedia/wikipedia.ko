@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [16S  RNA](https://ko.wikipedia.org/wiki/16S__RNA).
 
 
-**16S 리보솜 RNA**(16S ribosomal RNA, 16S rRNA)는 [원핵생물](https://ko.wikipedia.org/wiki/원핵생물 "wikilink") [리보솜](https://ko.wikipedia.org/wiki/리보솜 "wikilink")의 30S 소단위체를 구성하고 있는 [rRNA로](https://ko.wikipedia.org/wiki/리보솜_RNA "wikilink"), 1,500 [뉴클레오타이드](https://ko.wikipedia.org/wiki/뉴클레오타이드 "wikilink") 정도의 길이를 갖는다.\[1\]
+**16S 리보솜 RNA**(16S ribosomal RNA, 16S rRNA)는 [원핵생물](../Page/원핵생물.md "wikilink") [리보솜](../Page/리보솜.md "wikilink")의 30S 소단위체를 구성하고 있는 [rRNA로](https://ko.wikipedia.org/wiki/리보솜_RNA "wikilink"), 1,500 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink") 정도의 길이를 갖는다.\[1\]
 
 ## 기능
 
 16S 리보솜 RNA는 다음과 같은 기능을 수행한다.\[2\]
 
   - 30S 소단위체가 [샤인-달가노 서열을](https://ko.wikipedia.org/wiki/샤인-달가노_서열 "wikilink") 인식하고 결합할 수 있도록 한다.
-  - 번역개시인자3(IF3) 및 [tRNA의](https://ko.wikipedia.org/wiki/운반_RNA "wikilink") 3' CCA 말단과 결합한다.
+  - 번역개시인자3(IF3) 및 [tRNA의](../Page/운반_RNA.md "wikilink") 3' CCA 말단과 결합한다.
   - 두 리보솜 소단위체가 결합할 때 50S 소단위체의 23S 리보솜 RNA와 상호작용한다.
 
 ## 16S rRNA의 생산

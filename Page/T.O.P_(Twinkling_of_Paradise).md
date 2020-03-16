@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [T.O.P \(Twinkling of Paradise\)](https://ko.wikipedia.org/wiki/T.O.P_\(Twinkling_of_Paradise\)).
 
 
-〈**T.O.P (Twinkling of Paradise)**〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 3인조 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 《***[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")***》가 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 4번째 싱글 음반이다. [신화](https://ko.wikipedia.org/wiki/신화 "wikilink")의 노래를 접한 [S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")의 일본 기획사 [스카이 플래닝에서](https://ko.wikipedia.org/wiki/스카이_플래닝 "wikilink") 계속적으로 [신화](https://ko.wikipedia.org/wiki/신화 "wikilink")의 곡을 리메이크 할 것을 권유하여 리메이크가 성사되었다.
+〈**T.O.P (Twinkling of Paradise)**〉는 [대한민국](../Page/대한민국.md "wikilink")의 3인조 [걸 그룹](../Page/걸_그룹.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 《***[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")***》가 [일본](../Page/일본.md "wikilink")에서 발매한 4번째 싱글 음반이다. [신화](../Page/신화.md "wikilink")의 노래를 접한 [S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")의 일본 기획사 [스카이 플래닝에서](https://ko.wikipedia.org/wiki/스카이_플래닝 "wikilink") 계속적으로 [신화](../Page/신화.md "wikilink")의 곡을 리메이크 할 것을 권유하여 리메이크가 성사되었다.
 
 ## 설명
 
@@ -19,8 +19,8 @@
 
 1.  **T.O.P. (Twinkling of paradise)**
       - 작사: 슈, 유영진 / 작곡: 유영진 / 편곡: 유영진
-      - 같은 소속사였던 6인조 남성그룹 [신화](https://ko.wikipedia.org/wiki/신화 "wikilink")의 한국 2집 타이틀 곡을 커버해서 가사를 일본어로 바껴서 발표했다.
-      - 일본 2인조 힙합그룹 [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink")의 한국계 멤버 [VERBAL](https://ko.wikipedia.org/wiki/VERBAL "wikilink")이 래퍼로 참여했다.
+      - 같은 소속사였던 6인조 남성그룹 [신화](../Page/신화.md "wikilink")의 한국 2집 타이틀 곡을 커버해서 가사를 일본어로 바껴서 발표했다.
+      - 일본 2인조 힙합그룹 [m-flo](https://ko.wikipedia.org/wiki/m-flo "wikilink")의 한국계 멤버 [VERBAL](../Page/VERBAL.md "wikilink")이 래퍼로 참여했다.
 2.  **Life - this is the power -**
       - 작사: TOMOHICO∞ / 작곡: 김형석 / 편곡: 김형석
 3.  **T.O.P. - MASTERS OF FUNK Remix -**

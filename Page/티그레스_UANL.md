@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ UANL](https://ko.wikipedia.org/wiki/_UANL).
 
 
-**티그레스 데 라 우니베르시다드 아우토노마 데 누에보레온**(), 약칭 **티그레스 데 라 우안**()은 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink") [누에보레온주](https://ko.wikipedia.org/wiki/누에보레온주 "wikilink") [몬테레이](https://ko.wikipedia.org/wiki/몬테레이 "wikilink")의 축구 클럽으로, 간단히 줄여서 **티그레스**() 또는 **UANL**이라고 부르기도 한다.
+**티그레스 데 라 우니베르시다드 아우토노마 데 누에보레온**(), 약칭 **티그레스 데 라 우안**()은 [멕시코](../Page/멕시코.md "wikilink") [누에보레온주](https://ko.wikipedia.org/wiki/누에보레온주 "wikilink") [몬테레이](../Page/몬테레이.md "wikilink")의 축구 클럽으로, 간단히 줄여서 **티그레스**() 또는 **UANL**이라고 부르기도 한다.
 
-티그레스 데 라 우안은 [누에보레온주](https://ko.wikipedia.org/wiki/누에보레온주 "wikilink") [몬테레이](https://ko.wikipedia.org/wiki/몬테레이 "wikilink")를 연고로 하는 축구 클럽인 [CF 몬테레이와](../Page/CF_몬테레이.md "wikilink") 라이벌 관계에 있으며 [누에보레온 자치 대학교가](https://ko.wikipedia.org/wiki/누에보레온_자치_대학교 "wikilink") 팀의 구단주를 맡고 있다.
+티그레스 데 라 우안은 [누에보레온주](https://ko.wikipedia.org/wiki/누에보레온주 "wikilink") [몬테레이](../Page/몬테레이.md "wikilink")를 연고로 하는 축구 클럽인 [CF 몬테레이와](../Page/CF_몬테레이.md "wikilink") 라이벌 관계에 있으며 [누에보레온 자치 대학교가](../Page/누에보레온_자치_대학교.md "wikilink") 팀의 구단주를 맡고 있다.
 
 ## 주요 성적
 

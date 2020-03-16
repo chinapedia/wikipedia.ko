@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Katy Hudson](https://ko.wikipedia.org/wiki/Katy_Hudson).
 
 
-**Katy Hudson**은 [가스펠](../Page/복음성가.md "wikilink"), [록](https://ko.wikipedia.org/wiki/록 "wikilink")의 장르로 미국의 싱어송라이터 [케이티 페리의](https://ko.wikipedia.org/wiki/케이티_페리 "wikilink") 데뷔 앨범이며, 이 때 당시에는 케이티 허드슨이라는 이름으로 앨범을 발매했었다. 앨범은 케이티가 15살 현재 팝 음악 활동 시작 전 기독교 음악으로 [레드 힐 레코드에](https://ko.wikipedia.org/wiki/레드_힐_레코드 "wikilink") 의해 2001년 미국에서 정식 발매 되었다. 수록곡중 "Trust in Me"가 이 앨범의 리드 싱글이다.
+**Katy Hudson**은 [가스펠](../Page/복음성가.md "wikilink"), [록](https://ko.wikipedia.org/wiki/록 "wikilink")의 장르로 미국의 싱어송라이터 [케이티 페리의](../Page/케이티_페리.md "wikilink") 데뷔 앨범이며, 이 때 당시에는 케이티 허드슨이라는 이름으로 앨범을 발매했었다. 앨범은 케이티가 15살 현재 팝 음악 활동 시작 전 기독교 음악으로 [레드 힐 레코드에](https://ko.wikipedia.org/wiki/레드_힐_레코드 "wikilink") 의해 2001년 미국에서 정식 발매 되었다. 수록곡중 "Trust in Me"가 이 앨범의 리드 싱글이다.
 
 당시 큰 인기를 끌지는 못했지만 미국의 종교 잡지 *[크리스처니티 투데이](../Page/크리스처니티_투데이.md "wikilink")*란 곳에서 주목할만한 신인이라며 좋은 평을 내리기도 했었다.\[1\]
 

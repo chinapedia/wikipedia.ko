@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
 
 
-**올리버 윌리엄슨**(Oliver E. Williamson, [1932년](https://ko.wikipedia.org/wiki/1932년 "wikilink") [9월 27일](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") \~ )은 미국의 경제학자로, 현재 [버클리대학교](https://ko.wikipedia.org/wiki/버클리대학교 "wikilink") 교수로 재직 중이다. 2009년 [엘리노어 오스트롬과](https://ko.wikipedia.org/wiki/엘리노어_오스트롬 "wikilink") 함께 [노벨 경제학상을](https://ko.wikipedia.org/wiki/노벨_경제학상 "wikilink") 수상했다.
+**올리버 윌리엄슨**(Oliver E. Williamson, [1932년](../Page/1932년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ )은 미국의 경제학자로, 현재 [버클리대학교](https://ko.wikipedia.org/wiki/버클리대학교 "wikilink") 교수로 재직 중이다. 2009년 [엘리노어 오스트롬과](https://ko.wikipedia.org/wiki/엘리노어_오스트롬 "wikilink") 함께 [노벨 경제학상을](../Page/노벨_경제학상.md "wikilink") 수상했다.
 
 ## 학력
 
   - 1946년\~1950년: 센트럴 고등학교 (졸업)
-  - 1950년\~1955년: [매사추세츠 공과대학교](https://ko.wikipedia.org/wiki/매사추세츠_공과대학교 "wikilink") (학사)
-  - 1955년\~1960년: [스탠퍼드 대학교](https://ko.wikipedia.org/wiki/스탠퍼드_대학교 "wikilink") (석사)
+  - 1950년\~1955년: [매사추세츠 공과대학교](../Page/매사추세츠_공과대학교.md "wikilink") (학사)
+  - 1955년\~1960년: [스탠퍼드 대학교](../Page/스탠퍼드_대학교.md "wikilink") (석사)
   - 1960년\~1963년: [카네기 멜론 대학교](https://ko.wikipedia.org/wiki/카네기_멜론_대학교 "wikilink") (박사)
 
 ## 외부 링크

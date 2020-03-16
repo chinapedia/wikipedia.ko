@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ OOO  ](https://ko.wikipedia.org/wiki/_OOO__).
 
 
-아래는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")의 특수 촬영 드라마 **[가면라이더 OOO](../Page/가면라이더_OOO.md "wikilink")**의 방영 방영 목록이다.
+아래는 [일본](../Page/일본.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")의 특수 촬영 드라마 **[가면라이더 OOO](../Page/가면라이더_OOO.md "wikilink")**의 방영 방영 목록이다.
 
   - 2010년 11월 7일에는 결방되었다.
 
@@ -22,8 +22,8 @@
 <td><p>1화</p></td>
 <td><p>메달과 팬츠와 수수께끼의 팔</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/사마귀" title="wikilink">카마키리</a> 여미<br />
-(성우 - <a href="https://ko.wikipedia.org/wiki/마에노_토모아키" title="wikilink">마에노 토모아키</a>)</li>
+<li><a href="../Page/사마귀.md" title="wikilink">카마키리</a> 여미<br />
+(성우 - <a href="../Page/마에노_토모아키.md" title="wikilink">마에노 토모아키</a>)</li>
 </ul></td>
 <td><p>코바야시 야스코</p></td>
 <td><p>타사키 류타</p></td>
@@ -33,7 +33,7 @@
 <td><p>2화</p></td>
 <td><p>욕망과 아이스크림과 선물</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/거위벌레" title="wikilink">오토시부미</a> 여미</li>
+<li><a href="../Page/거위벌레.md" title="wikilink">오토시부미</a> 여미</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -69,7 +69,7 @@
 <td><p>6화</p></td>
 <td><p>양복과 계약과 최강 콤보</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/피라냐" title="wikilink">피라냐</a> 여미</li>
+<li><a href="../Page/피라냐.md" title="wikilink">피라냐</a> 여미</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -97,7 +97,7 @@
 <td><p>9화</p></td>
 <td><p>흠뻑젖음과 과거와 작열 콤보</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/상어" title="wikilink">사메</a> 여미</li>
+<li><a href="../Page/상어.md" title="wikilink">사메</a> 여미</li>
 </ul></td>
 <td><p>시바사키 타카유키</p></td>
 <td></td>
@@ -116,7 +116,7 @@
 <td><p>여행자와 호랑나비와 유명인</p></td>
 <td><ul>
 <li><a href="../Page/호랑나비.md" title="wikilink">아게하</a> 여미<br />
-(성우 - <a href="https://ko.wikipedia.org/wiki/호소야_요시마사" title="wikilink">호소야 요시마사</a>)</li>
+(성우 - <a href="../Page/호소야_요시마사.md" title="wikilink">호소야 요시마사</a>)</li>
 </ul></td>
 <td><p>요네무라 쇼지</p></td>
 <td><p>가네다 오사무</p></td>
@@ -161,7 +161,7 @@
 <td><p>15화</p></td>
 <td><p>메달 쟁탈과 운송차과 기 (최종회)</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/땅거북과" title="wikilink">리크가메</a> 여미</li>
+<li><a href="../Page/땅거북과.md" title="wikilink">리크가메</a> 여미</li>
 </ul></td>
 <td><p>모로타 사토시</p></td>
 <td></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dream \( \)](https://ko.wikipedia.org/wiki/Dream_\(_\)).
 
 
-**Dream**(드림)은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성 3인조 음악 그룹이다. 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink"), 레이블은 [rhythm zone이다](https://ko.wikipedia.org/wiki/리듬존 "wikilink").
+**Dream**(드림)은 [일본](../Page/일본.md "wikilink")의 여성 3인조 음악 그룹이다. 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink"), 레이블은 [rhythm zone이다](../Page/리듬존.md "wikilink").
 
 2000년 1월 1일, **dream**으로서 데뷔. 2007년 6월 25일, **DRM**으로 개명. 2008년 7월 22일, **Dream**으로 개명해, 아티스트명을 이름의 영문자 표기로 변경.
 
@@ -26,7 +26,7 @@
 3.  Private Wars (2000/05/03)
 4.  Reality (2000/08/09)
 5.  Super Euro Beat Presents - NIGHT OF FIRE (2000/09/20)
-6.  My Will (2000/11/29) - [이누야샤](https://ko.wikipedia.org/wiki/이누야샤 "wikilink") 1기 엔딩곡
+6.  My Will (2000/11/29) - [이누야샤](../Page/이누야샤.md "wikilink") 1기 엔딩곡
 7.  Believe in you (2001/02/28)
 8.  Solve (2001/05/23)
 9.  Our Time (2001/08/08)

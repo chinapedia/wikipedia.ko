@@ -1,31 +1,31 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**빈즈엉 FC**()는 [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink") [빈즈엉 성](https://ko.wikipedia.org/wiki/빈즈엉_성 "wikilink") 투더우못 시의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 현재는 [V리그 1에](../Page/V리그_1.md "wikilink") 참가하고 있다. 스폰서인 [베카멕스가](https://ko.wikipedia.org/wiki/베카멕스_IDC "wikilink") 팀명 앞에 붙어 **베카멕스 빈즈엉 FC**라고도 불린다.
+**빈즈엉 FC**()는 [베트남](../Page/베트남.md "wikilink") [빈즈엉 성](https://ko.wikipedia.org/wiki/빈즈엉_성 "wikilink") 투더우못 시의 [축구](../Page/축구.md "wikilink") 클럽으로 현재는 [V리그 1에](../Page/V리그_1.md "wikilink") 참가하고 있다. 스폰서인 [베카멕스가](https://ko.wikipedia.org/wiki/베카멕스_IDC "wikilink") 팀명 앞에 붙어 **베카멕스 빈즈엉 FC**라고도 불린다.
 
 ## 역사
 
 ### 초창기
 
-[1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink") [송베 성에서](https://ko.wikipedia.org/wiki/송베_성 "wikilink") **송베 FC**라는 이름으로 창단되었다. '송베'는 [베트남어](https://ko.wikipedia.org/wiki/베트남어 "wikilink")로 '베 강'(Bé River)이라는 뜻이며, 현재 [빈즈엉 성의](https://ko.wikipedia.org/wiki/빈즈엉_성 "wikilink") 유명한 강의 이름이다. 초대 감독은 도토이빈이 선임되었다. 1978년 쏭베 지역에는 쏭베 FC를 포함해 두 팀이 경쟁하고 있었던 것을 당시 감독 응우옌김풍이 합병했다.
+[1976년](../Page/1976년.md "wikilink") [베트남](../Page/베트남.md "wikilink") [송베 성에서](https://ko.wikipedia.org/wiki/송베_성 "wikilink") **송베 FC**라는 이름으로 창단되었다. '송베'는 [베트남어](../Page/베트남어.md "wikilink")로 '베 강'(Bé River)이라는 뜻이며, 현재 [빈즈엉 성의](https://ko.wikipedia.org/wiki/빈즈엉_성 "wikilink") 유명한 강의 이름이다. 초대 감독은 도토이빈이 선임되었다. 1978년 쏭베 지역에는 쏭베 FC를 포함해 두 팀이 경쟁하고 있었던 것을 당시 감독 응우옌김풍이 합병했다.
 
 ### 90년대
 
 1994년 송베 FC는 [베트남 컵에서](https://ko.wikipedia.org/wiki/베트남_컵 "wikilink") 우승하면서 구단 역사상 최초로 트로피를 들어올렸다. 그러나 1년 뒤인 1995년 1부리그에서 강등되고 말았다. 강등 사유는 송베 FC를 포함한 3팀이 강등 플레이오프에 참가하는 것에 대해 거절 의사를 밝혔고, [베트남 축구 협회에](https://ko.wikipedia.org/wiki/베트남_축구_협회 "wikilink") 의해 처벌을 받았던 것이었다. 1996년 꺼오쑤빈롱 FC와 합병하였고, 다시 베트남 최상위 리그로 복귀하였다.
 
-[1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") [송베 성이](https://ko.wikipedia.org/wiki/송베_성 "wikilink") [빈즈엉 성과](https://ko.wikipedia.org/wiki/빈즈엉_성 "wikilink") [빈프억 성으로](https://ko.wikipedia.org/wiki/빈프억_성 "wikilink") 분리되었다. 이에 송베 FC는 **빈즈엉 FC**로 팀명을 변경하였다. 1998년 1부 리그에서 다시 강등되면서 수년간 올라오지 못했다.
+[1997년](../Page/1997년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") [송베 성이](https://ko.wikipedia.org/wiki/송베_성 "wikilink") [빈즈엉 성과](https://ko.wikipedia.org/wiki/빈즈엉_성 "wikilink") [빈프억 성으로](https://ko.wikipedia.org/wiki/빈프억_성 "wikilink") 분리되었다. 이에 송베 FC는 **빈즈엉 FC**로 팀명을 변경하였다. 1998년 1부 리그에서 다시 강등되면서 수년간 올라오지 못했다.
 
 ### 2000년대\~현재
 
-[2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 빈즈엉 FC는 [빈즈엉 성](https://ko.wikipedia.org/wiki/빈즈엉_성 "wikilink") 내에 가장 강력하고 부유한 기업인 [베카멕스 IDC와](https://ko.wikipedia.org/wiki/베카멕스_IDC "wikilink") 빈즈엉 지역 방송국 BTV에 의해 인수되었다. 베카멕스 IDC로 부터 받게 된 지원금 덕에 구단은 재정적으로 크게 부유해졌다. 베카멕스는 네이밍 스폰서 자격을 가졌고, 구단 명칭은 **베카멕스 빈즈엉 FC**로 변경되었다.
+[2002년](../Page/2002년.md "wikilink") 빈즈엉 FC는 [빈즈엉 성](https://ko.wikipedia.org/wiki/빈즈엉_성 "wikilink") 내에 가장 강력하고 부유한 기업인 [베카멕스 IDC와](https://ko.wikipedia.org/wiki/베카멕스_IDC "wikilink") 빈즈엉 지역 방송국 BTV에 의해 인수되었다. 베카멕스 IDC로 부터 받게 된 지원금 덕에 구단은 재정적으로 크게 부유해졌다. 베카멕스는 네이밍 스폰서 자격을 가졌고, 구단 명칭은 **베카멕스 빈즈엉 FC**로 변경되었다.
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 베카멕스 빈즈엉은 곧바로 [V리그로](../Page/V리그_1.md "wikilink") 승격하였고, 베트남 축구계의 새로운 패자로 등장하였다. 이후 베카멕스 빈즈엉의 부유함을 가리켜 '베트남의 첼시'라는 별칭이 붙었다.
+[2003년](../Page/2003년.md "wikilink") 베카멕스 빈즈엉은 곧바로 [V리그로](../Page/V리그_1.md "wikilink") 승격하였고, 베트남 축구계의 새로운 패자로 등장하였다. 이후 베카멕스 빈즈엉의 부유함을 가리켜 '베트남의 첼시'라는 별칭이 붙었다.
 
 ## 선수단 및 코칭 스태프
 
 ### 현재 선수단
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월 10일](https://ko.wikipedia.org/wiki/6월_10일 "wikilink") 기준
+[2016년](../Page/2016년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") 기준
 
 ### 현재 코칭 스태프
 
@@ -207,7 +207,7 @@
       - [2008](../Page/2008년_AFC_챔피언스리그.md "wikilink"): 조별 예선
       - [2015](https://ko.wikipedia.org/wiki/2015년_AFC_챔피언스리그 "wikilink"): 조별 예선
       - [2016](https://ko.wikipedia.org/wiki/2016년_AFC_챔피언스리그 "wikilink"): 조별 예선
-  - [AFC컵](https://ko.wikipedia.org/wiki/AFC컵 "wikilink"): **2회 출전**
+  - [AFC컵](../Page/AFC컵.md "wikilink"): **2회 출전**
       - [2009](../Page/2009년_AFC컵.md "wikilink"): 준결승
       - [2010](../Page/2010년_AFC컵.md "wikilink"): 16강
 
@@ -232,7 +232,7 @@
 <td><p>2-1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><p>1-4</p></td>
 <td><p>0-0</p></td>
 <td></td>
@@ -281,7 +281,7 @@
 </tr>
 <tr class="even">
 <td><p>8강</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/촌부리_FC" title="wikilink">촌부리</a></p></td>
+<td><p><a href="../Page/촌부리_FC.md" title="wikilink">촌부리</a></p></td>
 <td><p>2-0</p></td>
 <td><p>2-2</p></td>
 <td></td>

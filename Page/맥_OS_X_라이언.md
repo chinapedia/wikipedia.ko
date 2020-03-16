@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ OS X ](https://ko.wikipedia.org/wiki/_OS_X_).
 
 
-**맥 OS X 라이언** (Mac OS X Lion, 10.7)은 [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") 여덟번째 주요 릴리즈로 출시된 [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink"). 라이언은 2010년 10월 20일 애플의 "백 투 더 맥" 이벤트에서 공개되었다. 이 버전은 2011년 7월 20일에 출시되었다. 운영 체제로서는 처음으로 OS X 내 운영 프로그램인 앱스토어에서 구매, 다운로드하는 형태로 출시되었다.\[1\]\[2\] 후속 버전은 [OS X 마운틴 라이언이다](https://ko.wikipedia.org/wiki/OS_X_마운틴_라이언 "wikilink").
+**맥 OS X 라이언** (Mac OS X Lion, 10.7)은 [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") 여덟번째 주요 릴리즈로 출시된 [운영 체제이다](../Page/운영_체제.md "wikilink"). 라이언은 2010년 10월 20일 애플의 "백 투 더 맥" 이벤트에서 공개되었다. 이 버전은 2011년 7월 20일에 출시되었다. 운영 체제로서는 처음으로 OS X 내 운영 프로그램인 앱스토어에서 구매, 다운로드하는 형태로 출시되었다.\[1\]\[2\] 후속 버전은 [OS X 마운틴 라이언이다](../Page/OS_X_마운틴_라이언.md "wikilink").
 
 ## 새롭거나 바뀐 기능
 
 "백 투 더 맥" 키노트에서 몇 가지 새 기능들이 공개되었고, 이미 스노우 레퍼드에서 공개된 기능도 일부 있다.
 
-  - **맥 앱 스토어** — 이 기능은 Mac OS X 10.6.6부터 지원된 기능으로 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 앱 스토어와 비슷하게 만들어진 애플리케이션 스토어다. 이 프로그램은 [응용 소프트웨어를](https://ko.wikipedia.org/wiki/응용_소프트웨어 "wikilink") 찾고, 원 클릭으로 설치하고, 설치된 응용 소프트웨어를 원 클릭으로 업데이트할 수 있는 기능을 제공한다.\[3\]\[4\]
+  - **맥 앱 스토어** — 이 기능은 Mac OS X 10.6.6부터 지원된 기능으로 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 앱 스토어와 비슷하게 만들어진 애플리케이션 스토어다. 이 프로그램은 [응용 소프트웨어를](../Page/응용_소프트웨어.md "wikilink") 찾고, 원 클릭으로 설치하고, 설치된 응용 소프트웨어를 원 클릭으로 업데이트할 수 있는 기능을 제공한다.\[3\]\[4\]
   - **런치패드** — iOS와 비슷하게 만든 응용 프로그램 런처이다. 조작법도 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")의 홈 스크린과 비슷하다.
   - **풀 스크린 앱** — 풀 스크린 응용 프로그램을 네이티브로 지원한다.
   - **미션 컨트롤** — 작동 중인 응용 프로그램을 한 눈에 볼 수 있는 기능으로, 기존 [맥 OS X에](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 있던 익스포제, 스페이스, 대시보드 등의 기능을 통합한다.

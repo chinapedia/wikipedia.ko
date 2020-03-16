@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 로스토프**(, )는 [러시아](../Page/러시아.md "wikilink") [로스토프나도누](https://ko.wikipedia.org/wiki/로스토프나도누 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 팀으로, 현재 [러시아 프리미어리그에서](../Page/러시아_프리미어리그.md "wikilink") 활동하고 있다.
+**FC 로스토프**(, )는 [러시아](../Page/러시아.md "wikilink") [로스토프나도누](../Page/로스토프나도누.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀으로, 현재 [러시아 프리미어리그에서](../Page/러시아_프리미어리그.md "wikilink") 활동하고 있다.
 
 ## 클럽 명칭 역사
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Out of Control \( \)](https://ko.wikipedia.org/wiki/Out_of_Control_\(_\)).
 
 
-《**Out of Control**》은 [배치기](https://ko.wikipedia.org/wiki/배치기 "wikilink")의 세 번째 정규 앨범이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 9일에](https://ko.wikipedia.org/wiki/6월_9일 "wikilink") 발매 되었다.
+《**Out of Control**》은 [배치기](../Page/배치기.md "wikilink")의 세 번째 정규 앨범이다. [2008년](../Page/2008년.md "wikilink") [6월 9일에](../Page/6월_9일.md "wikilink") 발매 되었다.
 
 ## 수록곡
 
@@ -65,9 +65,9 @@
 13\. **일곱살 인생**
 
   -
-    작사 배치기 작곡 Jood of [Viva Soul](https://ko.wikipedia.org/wiki/비바소울 "wikilink") 편곡 Jood of Viva Soul
+    작사 배치기 작곡 Jood of [Viva Soul](../Page/비바소울.md "wikilink") 편곡 Jood of Viva Soul
 
-14\. **Skill race** feat. [Leo kekoa](https://ko.wikipedia.org/wiki/L.E.O. "wikilink") & [Double K](https://ko.wikipedia.org/wiki/더블_케이 "wikilink")⑲
+14\. **Skill race** feat. [Leo kekoa](https://ko.wikipedia.org/wiki/L.E.O. "wikilink") & [Double K](../Page/더블_케이.md "wikilink")⑲
 
   -
     작사 배치기, Leo kekoa, Double K 작곡 KEIKEI 편곡 KEIKEI
@@ -75,7 +75,7 @@
 ## 크레딧
 
   - Executive producer [MC Sniper](../Page/MC_스나이퍼.md "wikilink"), 김종하
-  - producer by [배치기](https://ko.wikipedia.org/wiki/배치기 "wikilink")
+  - producer by [배치기](../Page/배치기.md "wikilink")
   - Supervisor 김종하
   - Promotion E.M Company
   - Rexording Studio 토마토 Studio, t & f Studio, OK Studio

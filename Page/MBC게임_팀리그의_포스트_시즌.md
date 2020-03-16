@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC   ](https://ko.wikipedia.org/wiki/MBC___).
 
 
-**팀리그 역대 포스트시즌**은 [팀리그에서](https://ko.wikipedia.org/wiki/MBC게임_팀리그 "wikilink") 치러진 포스트시즌으로 결승전을 제외한 결승전으로 가기 위한 경기이다.
+**팀리그 역대 포스트시즌**은 [팀리그에서](../Page/MBC게임_팀리그.md "wikilink") 치러진 포스트시즌으로 결승전을 제외한 결승전으로 가기 위한 경기이다.
 
 ## 2003년 팀리그 포스트시즌
 

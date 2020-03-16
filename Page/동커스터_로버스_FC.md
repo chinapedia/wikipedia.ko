@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**동커스터 로버스 FC**(Doncaster Rovers Football Club)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [사우스요크셔주](https://ko.wikipedia.org/wiki/사우스요크셔주 "wikilink") [동커스터](https://ko.wikipedia.org/wiki/동커스터 "wikilink")를 연고로 하는 축구 클럽이다.
+**동커스터 로버스 FC**(Doncaster Rovers Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [사우스요크셔주](https://ko.wikipedia.org/wiki/사우스요크셔주 "wikilink") [동커스터](../Page/동커스터.md "wikilink")를 연고로 하는 축구 클럽이다.
 
 ## 성적
 

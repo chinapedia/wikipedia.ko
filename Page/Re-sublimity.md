@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - [제네온 엔터테인먼트에서](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [11월 17일에](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 초회한정판과 통상판 2종류를 발매했다.
+  - [제네온 엔터테인먼트에서](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") [2004년](../Page/2004년.md "wikilink") [11월 17일에](../Page/11월_17일.md "wikilink") 초회한정판과 통상판 2종류를 발매했다.
   - 초회한정판에는 《Re-sublimity》의 프로모션 비디오와 《[신무월의 무녀](https://ko.wikipedia.org/wiki/신무월의_무녀 "wikilink")》의 프로모션 비디오를 수록한 DVD가 동봉되어 있다.
   - 현재, 초회한정판은 유통이 중단되어 구하기 어렵다. 통상판은 현재까지 유통중.
   - [KOTOKO](../Page/KOTOKO.md "wikilink")의 2번째 앨범 〈[유리의 미풍](https://ko.wikipedia.org/wiki/유리의_미풍 "wikilink")〉에 《Re-sublimity》가 수록되어 있다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
 
 
-**네지메**(, )는 [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink")에 창단된 [레바논](https://ko.wikipedia.org/wiki/레바논 "wikilink") [베이루트](https://ko.wikipedia.org/wiki/베이루트 "wikilink")의 축구 클럽이다.
+**네지메**(, )는 [1945년](../Page/1945년.md "wikilink")에 창단된 [레바논](../Page/레바논.md "wikilink") [베이루트](../Page/베이루트.md "wikilink")의 축구 클럽이다.
 
 ## 성적
 
@@ -14,7 +14,7 @@
 
 ### AFC 주관 대회
 
-  - [AFC컵](https://ko.wikipedia.org/wiki/AFC컵 "wikilink"): 준우승 1회 (2005)
+  - [AFC컵](../Page/AFC컵.md "wikilink"): 준우승 1회 (2005)
 
 ## 유명 선수
 

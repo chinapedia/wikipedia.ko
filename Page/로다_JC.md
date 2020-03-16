@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ JC](https://ko.wikipedia.org/wiki/_JC).
 
 
-**로다 JC**(Roda JC)는 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") [케르크라더](https://ko.wikipedia.org/wiki/케르크라더 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [에레디비시](../Page/에레디비시.md "wikilink")에서 활동하고 있다.
+**로다 JC**(Roda JC)는 [네덜란드](../Page/네덜란드.md "wikilink") [케르크라더](https://ko.wikipedia.org/wiki/케르크라더 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [에레디비시](../Page/에레디비시.md "wikilink")에서 활동하고 있다.
 
-로다 JC는 **로다 스포르트**(Roda Sport)와 **라피드 JC**(Rapid JC)를 효시로 하고 있는데, 로다 스포르트는 [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink")에 SV 케르크라더(SV Kerkrade, 1926년 창단)와 SV 블레이예르헤이더(SV Bleijerheide, 1914년 창단)를 합병해서 창단한 팀이며 라피드 JC는 같은 해에 라피드 '54(Rapid '54, 1954년 창단)와 아마추어 클럽 율리아나(Juliana, 1910년 창단)를 합병해서 창단한 팀이다. 이후 [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [6월 27일에](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 로다 스포르트와 라피드 JC가 **로다 JC**(Roda JC)로 합병되어 오늘에 이르고 있다.
+로다 JC는 **로다 스포르트**(Roda Sport)와 **라피드 JC**(Rapid JC)를 효시로 하고 있는데, 로다 스포르트는 [1954년](../Page/1954년.md "wikilink")에 SV 케르크라더(SV Kerkrade, 1926년 창단)와 SV 블레이예르헤이더(SV Bleijerheide, 1914년 창단)를 합병해서 창단한 팀이며 라피드 JC는 같은 해에 라피드 '54(Rapid '54, 1954년 창단)와 아마추어 클럽 율리아나(Juliana, 1910년 창단)를 합병해서 창단한 팀이다. 이후 [1962년](../Page/1962년.md "wikilink") [6월 27일에](../Page/6월_27일.md "wikilink") 로다 스포르트와 라피드 JC가 **로다 JC**(Roda JC)로 합병되어 오늘에 이르고 있다.
 
 ## 성적
 
   - [에레디비시](../Page/에레디비시.md "wikilink"): 우승 1회 (1956) 준우승 2회 (1959, 1995)
-  - [에이르스터 디비시](https://ko.wikipedia.org/wiki/에이르스터_디비시 "wikilink"): 우승 1회 (1973)
-  - [KNVB컵](https://ko.wikipedia.org/wiki/KNVB컵 "wikilink"): 우승 2회 (1997, 2000), 준우승 4회 (1976, 1988, 1992, 2008)
+  - [에이르스터 디비시](../Page/에이르스터_디비시.md "wikilink"): 우승 1회 (1973)
+  - [KNVB컵](../Page/KNVB컵.md "wikilink"): 우승 2회 (1997, 2000), 준우승 4회 (1976, 1988, 1992, 2008)
   - [요한 크라위프 스할](https://ko.wikipedia.org/wiki/요한_크라위프_스할 "wikilink"): 준우승 2회 (1997, 2000)
 
 ## 외부 링크

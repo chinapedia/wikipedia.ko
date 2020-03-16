@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
 
 
-**AC 오모니아**(, )는 [키프로스](https://ko.wikipedia.org/wiki/키프로스 "wikilink") [니코시아](https://ko.wikipedia.org/wiki/니코시아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 20번의 리그 우승과 12번의 컵 대회 우승, 15번의 슈퍼컵 우승 기록을 갖고 있으며 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 외에도 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink"), [배구](https://ko.wikipedia.org/wiki/배구 "wikilink"), [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink"), [사이클](https://ko.wikipedia.org/wiki/사이클 "wikilink") 팀도 운영하고 있다. 오모니아는 [그리스어](https://ko.wikipedia.org/wiki/그리스어 "wikilink")로 "단결"을 뜻한다.
+**AC 오모니아**(, )는 [키프로스](../Page/키프로스.md "wikilink") [니코시아](../Page/니코시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 20번의 리그 우승과 12번의 컵 대회 우승, 15번의 슈퍼컵 우승 기록을 갖고 있으며 [축구](../Page/축구.md "wikilink") 외에도 [농구](../Page/농구.md "wikilink"), [배구](../Page/배구.md "wikilink"), [풋살](../Page/풋살.md "wikilink"), [사이클](https://ko.wikipedia.org/wiki/사이클 "wikilink") 팀도 운영하고 있다. 오모니아는 [그리스어](../Page/그리스어.md "wikilink")로 "단결"을 뜻한다.
 
 ## 외부 링크
 

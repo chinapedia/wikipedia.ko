@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**알와흐다 FC**(, )는 [아부다비](https://ko.wikipedia.org/wiki/아부다비 "wikilink")를 연고로 하는 [아랍에미리트](https://ko.wikipedia.org/wiki/아랍에미리트 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [UAE 아라비안 걸프 리그에](../Page/UAE_아라비안_걸프_리그.md "wikilink") 참가하고 있다.
+**알와흐다 FC**(, )는 [아부다비](../Page/아부다비.md "wikilink")를 연고로 하는 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [UAE 아라비안 걸프 리그에](../Page/UAE_아라비안_걸프_리그.md "wikilink") 참가하고 있다.
 
 ## 성적
 

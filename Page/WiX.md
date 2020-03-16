@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WiX](https://ko.wikipedia.org/wiki/WiX).
 
 
-**WiX**(윅스, Windows Installer XML)는 XML 선언형 코드로 MSI 인스톨러를 생성하는 도구이다. MSI팀 개발자인 Rob Mensching이 개발하여 오픈소스로 공개하였다. [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")의 일부 소프트웨어에서도 사용하고 있다.
+**WiX**(윅스, Windows Installer XML)는 XML 선언형 코드로 MSI 인스톨러를 생성하는 도구이다. MSI팀 개발자인 Rob Mensching이 개발하여 오픈소스로 공개하였다. [마이크로소프트](../Page/마이크로소프트.md "wikilink")의 일부 소프트웨어에서도 사용하고 있다.
 
 ## 특징
 

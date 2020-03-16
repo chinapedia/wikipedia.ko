@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [IEEE 802.11e-2005](https://ko.wikipedia.org/wiki/IEEE_802.11e-2005).
 
 
-**IEEE 802.11e-2005** 혹은 **IEEE 802.11e**는 [IEEE 802.11](https://ko.wikipedia.org/wiki/IEEE_802.11 "wikilink") 표준의 향상된 추가 개정판이다. 이 표준은 무선 랜에서의 [QoS](https://ko.wikipedia.org/wiki/QoS "wikilink") 기능 지원에 관한 내용을 담고있다. 이를 위해서 [무선 랜의](https://ko.wikipedia.org/wiki/무선_랜 "wikilink") [매체 접근 제어](https://ko.wikipedia.org/wiki/매체_접근_제어 "wikilink")(MAC) 계층에 해당하는 부분을 수정하였다. 이 표준은 [VoWLAN](https://ko.wikipedia.org/wiki/VoWLAN "wikilink")(Voice over Wireless LAN)나 [스트리밍 멀티미디어와](https://ko.wikipedia.org/wiki/스트리밍_멀티미디어 "wikilink") 같은 전송 지연에 민감한 애플리케이션을 위해 만들어졌다. 이 개정판은 [IEEE 802.11-2007](https://ko.wikipedia.org/wiki/IEEE_802.11-2007#802.11-2007 "wikilink") 표준에 통합되었다.
+**IEEE 802.11e-2005** 혹은 **IEEE 802.11e**는 [IEEE 802.11](../Page/IEEE_802.11.md "wikilink") 표준의 향상된 추가 개정판이다. 이 표준은 무선 랜에서의 [QoS](../Page/QoS.md "wikilink") 기능 지원에 관한 내용을 담고있다. 이를 위해서 [무선 랜의](https://ko.wikipedia.org/wiki/무선_랜 "wikilink") [매체 접근 제어](https://ko.wikipedia.org/wiki/매체_접근_제어 "wikilink")(MAC) 계층에 해당하는 부분을 수정하였다. 이 표준은 [VoWLAN](https://ko.wikipedia.org/wiki/VoWLAN "wikilink")(Voice over Wireless LAN)나 [스트리밍 멀티미디어와](https://ko.wikipedia.org/wiki/스트리밍_멀티미디어 "wikilink") 같은 전송 지연에 민감한 애플리케이션을 위해 만들어졌다. 이 개정판은 [IEEE 802.11-2007](https://ko.wikipedia.org/wiki/IEEE_802.11-2007#802.11-2007 "wikilink") 표준에 통합되었다.
 
-[802.11은](https://ko.wikipedia.org/wiki/IEEE_802.11 "wikilink") 노트북이나 핸드폰 같은 장비들을 가정, 사무실, 상업 시설들에서 널리 사용하는 무선 LAN에 접속하여 사용할 수 있도록 해주는 [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink") 표준이다.
+[802.11은](../Page/IEEE_802.11.md "wikilink") 노트북이나 핸드폰 같은 장비들을 가정, 사무실, 상업 시설들에서 널리 사용하는 무선 LAN에 접속하여 사용할 수 있도록 해주는 [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink") 표준이다.
 
 ## 기존의 802.11 MAC
 

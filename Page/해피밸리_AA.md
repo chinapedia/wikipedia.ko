@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ AA](https://ko.wikipedia.org/wiki/_AA).
 
 
-**해피밸리 AA**() 또는 **해피밸리 체육회**, **유원 체육회**()는 [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 현재는 [홍콩 2부 리그에](https://ko.wikipedia.org/wiki/홍콩_2부_리그 "wikilink") 참가하고 있다.
+**해피밸리 AA**() 또는 **해피밸리 체육회**, **유원 체육회**()는 [홍콩](../Page/홍콩.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 현재는 [홍콩 2부 리그에](https://ko.wikipedia.org/wiki/홍콩_2부_리그 "wikilink") 참가하고 있다.
 
 ## 성적
 
@@ -39,7 +39,7 @@
 
   - [토니 풀리스](https://ko.wikipedia.org/wiki/토니_풀리스 "wikilink")
 
-  - [키스 검스](https://ko.wikipedia.org/wiki/키스_검스 "wikilink")
+  - [키스 검스](../Page/키스_검스.md "wikilink")
 
 ## 외부 링크
 

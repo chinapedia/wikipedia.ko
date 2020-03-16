@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HERE \& THERE - S.E.S Single Collection](https://ko.wikipedia.org/wiki/HERE_\&_THERE_-_S.E.S_Single_Collection).
 
 
-《**HERE & THERE - S.E.S Single Collection**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 3인조 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 《***[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")***》가 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 2번째 베스트 음반이다.
+《**HERE & THERE - S.E.S Single Collection**》은 [대한민국](../Page/대한민국.md "wikilink")의 3인조 [걸 그룹](../Page/걸_그룹.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 《***[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")***》가 [일본](../Page/일본.md "wikilink")에서 발매한 2번째 베스트 음반이다.
 
 ## 설명
 

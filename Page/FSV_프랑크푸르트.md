@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FSV ](https://ko.wikipedia.org/wiki/FSV_).
 
 
-**FSV 프랑크푸르트**(FSV Frankfurt)는 [1899년](https://ko.wikipedia.org/wiki/1899년 "wikilink")에 창단된 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [헤센주](https://ko.wikipedia.org/wiki/헤센주 "wikilink") [프랑크푸르트](https://ko.wikipedia.org/wiki/프랑크푸르트 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, 현재 [2 분데스리가에서](https://ko.wikipedia.org/wiki/2_분데스리가 "wikilink") 활동하고 있다. FSV 프랑크푸르트는 축구 외에도 [육상](https://ko.wikipedia.org/wiki/육상_경기 "wikilink"), [권투](../Page/권투.md "wikilink"), [다트](https://ko.wikipedia.org/wiki/다트 "wikilink"), [핸드볼](https://ko.wikipedia.org/wiki/핸드볼 "wikilink"), [아이스 하키](https://ko.wikipedia.org/wiki/아이스_하키 "wikilink"), [테니스](https://ko.wikipedia.org/wiki/테니스 "wikilink") 팀도 운영하고 있으며 한때는 여자 축구팀도 운영하기도 했지만 여자 축구팀은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 재정난을 이유로 해체되었다.
+**FSV 프랑크푸르트**(FSV Frankfurt)는 [1899년](../Page/1899년.md "wikilink")에 창단된 [독일](../Page/독일.md "wikilink") [헤센주](https://ko.wikipedia.org/wiki/헤센주 "wikilink") [프랑크푸르트](https://ko.wikipedia.org/wiki/프랑크푸르트 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [2 분데스리가에서](https://ko.wikipedia.org/wiki/2_분데스리가 "wikilink") 활동하고 있다. FSV 프랑크푸르트는 축구 외에도 [육상](../Page/육상_경기.md "wikilink"), [권투](../Page/권투.md "wikilink"), [다트](../Page/다트.md "wikilink"), [핸드볼](../Page/핸드볼.md "wikilink"), [아이스 하키](https://ko.wikipedia.org/wiki/아이스_하키 "wikilink"), [테니스](../Page/테니스.md "wikilink") 팀도 운영하고 있으며 한때는 여자 축구팀도 운영하기도 했지만 여자 축구팀은 [2006년](../Page/2006년.md "wikilink")에 재정난을 이유로 해체되었다.
 
 ## 성적
 

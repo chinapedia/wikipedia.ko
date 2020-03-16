@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lovin\' You \(S.E.S. \)](https://ko.wikipedia.org/wiki/Lovin\'_You_\(S.E.S._\)).
 
 
-〈Lovin' you〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 3인조 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 《***[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")***》가 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 7번째 싱글 음반이자 마지막 싱글 음반이다.
+〈Lovin' you〉는 [대한민국](../Page/대한민국.md "wikilink")의 3인조 [걸 그룹](../Page/걸_그룹.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 《***[S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")***》가 [일본](../Page/일본.md "wikilink")에서 발매한 7번째 싱글 음반이자 마지막 싱글 음반이다.
 
 ## 설명
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [W3m](https://ko.wikipedia.org/wiki/W3m).
 
 
-**w3m**은 무료 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 텍스트 기반 [웹 브라우저다](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink"). 표, 프레임, SSL 연결, 터미널에 최적화된 색상 및 사진등을 지원한다. 이 프로그램은 최대한 기존 레이아웃처럼 페이지를 렌더링하게 설계되어 있다. "w3m"이라는 이름은 [WWW](https://ko.wikipedia.org/wiki/WWW "wikilink")를 본다라는 뜻의 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink")에서 유래했다.
+**w3m**은 무료 [오픈 소스](../Page/오픈_소스.md "wikilink") 텍스트 기반 [웹 브라우저다](../Page/웹_브라우저.md "wikilink"). 표, 프레임, SSL 연결, 터미널에 최적화된 색상 및 사진등을 지원한다. 이 프로그램은 최대한 기존 레이아웃처럼 페이지를 렌더링하게 설계되어 있다. "w3m"이라는 이름은 [WWW](https://ko.wikipedia.org/wiki/WWW "wikilink")를 본다라는 뜻의 [일본어](../Page/일본어.md "wikilink")에서 유래했다.
 
 w3m은 이맥스 텍스트 편집기에서도 "w3m.el"이라는 이맥스 리스프 모듈로 사용된다. 이 모듈은 이맥스 편집기 안에서도 빠른 로딩 속도를 보인다.
 

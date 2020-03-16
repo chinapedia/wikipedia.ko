@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Muzik](https://ko.wikipedia.org/wiki/Muzik).
 
 
-**"Muzik"**은 대한민국의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [포미닛](https://ko.wikipedia.org/wiki/포미닛 "wikilink")의 데뷔 싱글이다(일본에서). 원래 한국에서는 EP 음반 *[For Muzik](https://ko.wikipedia.org/wiki/For_Muzik "wikilink")*의 타이틀 곡이었지만 일본에선 일본어 버전으로 재편곡해 2010년 5월 5일 발매해 일본의 데뷔 싱글이 된다. 포미닛은 이 노래로 [오리콘 싱글 차트](../Page/오리콘.md "wikilink") 21위에 진입했다.
+**"Muzik"**은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [포미닛](../Page/포미닛.md "wikilink")의 데뷔 싱글이다(일본에서). 원래 한국에서는 EP 음반 *[For Muzik](../Page/For_Muzik.md "wikilink")*의 타이틀 곡이었지만 일본에선 일본어 버전으로 재편곡해 2010년 5월 5일 발매해 일본의 데뷔 싱글이 된다. 포미닛은 이 노래로 [오리콘 싱글 차트](../Page/오리콘.md "wikilink") 21위에 진입했다.
 
 ## 방송 및 프로모션 활동
 

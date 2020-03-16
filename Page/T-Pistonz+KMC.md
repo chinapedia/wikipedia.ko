@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [T-Pistonz+KMC](https://ko.wikipedia.org/wiki/T-Pistonz+KMC).
 
 
-**T-Pistonz**는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 4인조 유닛 음악 그룹이다. 소속사는 [타이트프로](https://ko.wikipedia.org/wiki/타이트프로 "wikilink")이며, 레코드 회사는 [업프런트 워크스](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink")→[에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink")(FRAME 명의)이다.
+**T-Pistonz**는 [일본](../Page/일본.md "wikilink")의 4인조 유닛 음악 그룹이다. 소속사는 [타이트프로](https://ko.wikipedia.org/wiki/타이트프로 "wikilink")이며, 레코드 회사는 [업프런트 워크스](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink")→[에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink")(FRAME 명의)이다.
 
 ## 개요
 
-주로, [이나즈마 일레븐의](https://ko.wikipedia.org/wiki/이나즈마_일레븐 "wikilink") 주제곡을 담당하고 있다.
+주로, [이나즈마 일레븐의](../Page/이나즈마_일레븐.md "wikilink") 주제곡을 담당하고 있다.
 
 ## 멤버
 
@@ -39,7 +39,7 @@
   - [우리들의 골\!/또 보자...의 계절](https://ko.wikipedia.org/wiki/우리들의_골!/또_보자...의_계절 "wikilink")
   - [슈퍼 일어서는 거야\!](https://ko.wikipedia.org/wiki/슈퍼_일어서는_거야! "wikilink")
   - [하늘까지 닿아랏\!/모두 모일 거야\!](https://ko.wikipedia.org/wiki/하늘까지_닿아랏!/모두_모일_거야! "wikilink")
-  - [이루면 완성되는 것 칠색알](https://ko.wikipedia.org/wiki/이루면_완성되는_것_칠색알 "wikilink")
+  - [이루면 완성되는 것 칠색알](../Page/이루면_완성되는_것_칠색알.md "wikilink")
   - [안녕\! 샤이닝 데이/쳐부순다크\!](https://ko.wikipedia.org/wiki/안녕!_샤이닝_데이/쳐부순다크! "wikilink")
   - [정열로 가슴이 뜨거워\!](https://ko.wikipedia.org/wiki/정열로_가슴이_뜨거워! "wikilink")
   - [감동 공유\!](https://ko.wikipedia.org/wiki/감동_공유! "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
 
 
-**레이숑이스 스포르트 클루브**(Leixões Sport Club) 또는 **레이숑이스**(Leixões)는 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink") [마토지뉴스](https://ko.wikipedia.org/wiki/마토지뉴스 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 레이숑이스는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")와 [권투](../Page/권투.md "wikilink"), [공수도](../Page/공수도.md "wikilink")와 [배구](https://ko.wikipedia.org/wiki/배구 "wikilink"), [수영](https://ko.wikipedia.org/wiki/수영 "wikilink")과 [당구](https://ko.wikipedia.org/wiki/당구 "wikilink") 팀도 운영하고 있지만, 그 중에서도 축구 팀이 가장 많이 알려져 있다.
+**레이숑이스 스포르트 클루브**(Leixões Sport Club) 또는 **레이숑이스**(Leixões)는 [포르투갈](../Page/포르투갈.md "wikilink") [마토지뉴스](https://ko.wikipedia.org/wiki/마토지뉴스 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 레이숑이스는 [축구](../Page/축구.md "wikilink")와 [권투](../Page/권투.md "wikilink"), [공수도](../Page/공수도.md "wikilink")와 [배구](../Page/배구.md "wikilink"), [수영](../Page/수영.md "wikilink")과 [당구](../Page/당구.md "wikilink") 팀도 운영하고 있지만, 그 중에서도 축구 팀이 가장 많이 알려져 있다.
 
 ## 성적
 

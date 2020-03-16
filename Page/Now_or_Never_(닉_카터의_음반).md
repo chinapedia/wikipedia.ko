@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Now or Never \(  \)](https://ko.wikipedia.org/wiki/Now_or_Never_\(__\)).
 
 
-***Now or Never***은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 발매된 [닉 카터의](https://ko.wikipedia.org/wiki/닉_카터 "wikilink") 솔로 음반이다. 발매 하자마자, 첫 주에 [빌보드 200에](../Page/빌보드_200.md "wikilink") 17위로 진입했으며,\[1\], 70,000장을 팔았다. 2002년 12월 [RIAA](https://ko.wikipedia.org/wiki/RIAA "wikilink")에서 골드를 받았다.\[2\] 이 음반에서 활동한 싱글로는 3개가 있는데, 첫 번째 싱글로는 "Help Me"가 있으며 최고 순위로는 캐나디안 싱글에서 9위를 했다.\[3\] "I Got You"는 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에서 마이너 히트를 했다.
+***Now or Never***은 [2002년](../Page/2002년.md "wikilink") 발매된 [닉 카터의](https://ko.wikipedia.org/wiki/닉_카터 "wikilink") 솔로 음반이다. 발매 하자마자, 첫 주에 [빌보드 200에](../Page/빌보드_200.md "wikilink") 17위로 진입했으며,\[1\], 70,000장을 팔았다. 2002년 12월 [RIAA](https://ko.wikipedia.org/wiki/RIAA "wikilink")에서 골드를 받았다.\[2\] 이 음반에서 활동한 싱글로는 3개가 있는데, 첫 번째 싱글로는 "Help Me"가 있으며 최고 순위로는 캐나디안 싱글에서 9위를 했다.\[3\] "I Got You"는 [유럽](../Page/유럽.md "wikilink")에서 마이너 히트를 했다.
 
 ## 트랙 리스트
 

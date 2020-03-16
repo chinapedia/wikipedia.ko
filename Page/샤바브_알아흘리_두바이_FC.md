@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
 
 
-**샤바브 알아흘리 두바이 FC**()는 [아랍에미리트](https://ko.wikipedia.org/wiki/아랍에미리트 "wikilink")의 프로 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [두바이](https://ko.wikipedia.org/wiki/두바이 "wikilink")를 연고로 하고 있다. [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink")에 창단되었으며 당시 3개의 지역 팀이 클럽을 형성하였다. [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") 또다른 지역 팀이 현재 아랍에미리트에서 가장 성공적인 축구 클럽 중 하나로 꼽힌다. 2017년 6월 까지 **알아흘리**라는 구단명을 사용했으며, [두바이 CSC와](https://ko.wikipedia.org/wiki/두바이_CSC "wikilink") [알샤바브를](https://ko.wikipedia.org/wiki/알샤바브_\(두바이\) "wikilink") 흡수 합병하며 현재의 구단명을 사용하기 시작했다.
+**샤바브 알아흘리 두바이 FC**()는 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽으로 [두바이](../Page/두바이.md "wikilink")를 연고로 하고 있다. [1970년](../Page/1970년.md "wikilink")에 창단되었으며 당시 3개의 지역 팀이 클럽을 형성하였다. [1974년](../Page/1974년.md "wikilink") 또다른 지역 팀이 현재 아랍에미리트에서 가장 성공적인 축구 클럽 중 하나로 꼽힌다. 2017년 6월 까지 **알아흘리**라는 구단명을 사용했으며, [두바이 CSC와](https://ko.wikipedia.org/wiki/두바이_CSC "wikilink") [알샤바브를](../Page/알샤바브_\(두바이\).md "wikilink") 흡수 합병하며 현재의 구단명을 사용하기 시작했다.
 
 ## 역사
 

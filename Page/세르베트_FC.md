@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**세르베트 FC**(Servette FC)는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [제네바](https://ko.wikipedia.org/wiki/제네바 "wikilink")의 축구 클럽 팀으로, 현재 스위스의 1부 리그인 [스위스 슈퍼리그에서](../Page/스위스_슈퍼리그.md "wikilink") 활동하고 있다.
+**세르베트 FC**(Servette FC)는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [제네바](../Page/제네바.md "wikilink")의 축구 클럽 팀으로, 현재 스위스의 1부 리그인 [스위스 슈퍼리그에서](../Page/스위스_슈퍼리그.md "wikilink") 활동하고 있다.
 
 ## 우승 경력
 
@@ -13,9 +13,9 @@
 
 ## 유명 선수
 
-  - [필리프 센데로스](https://ko.wikipedia.org/wiki/필리프_센데로스 "wikilink")
+  - [필리프 센데로스](../Page/필리프_센데로스.md "wikilink")
 
-  - [올리버 뇌빌](https://ko.wikipedia.org/wiki/올리버_뇌빌 "wikilink")
+  - [올리버 뇌빌](../Page/올리버_뇌빌.md "wikilink")
 
   - [마르틴 페트로프](../Page/마르틴_페트로프.md "wikilink")
 
@@ -23,11 +23,11 @@
 
   - [알렉산더 프라이](../Page/알렉산더_프라이.md "wikilink")
 
-  - [쿠빌라이 튀르킬마즈](https://ko.wikipedia.org/wiki/쿠빌라이_튀르킬마즈 "wikilink")
+  - [쿠빌라이 튀르킬마즈](../Page/쿠빌라이_튀르킬마즈.md "wikilink")
 
-  -  [이고리 도브로볼스키](https://ko.wikipedia.org/wiki/이고리_도브로볼스키 "wikilink")
+  -  [이고리 도브로볼스키](../Page/이고리_도브로볼스키.md "wikilink")
 
-  - [비오렐 몰도반](https://ko.wikipedia.org/wiki/비오렐_몰도반 "wikilink")
+  - [비오렐 몰도반](../Page/비오렐_몰도반.md "wikilink")
 
   - [베르나르 젱기니](https://ko.wikipedia.org/wiki/베르나르_젱기니 "wikilink")
 
@@ -35,13 +35,13 @@
 
   - [크리스티앙 카랑뵈](../Page/크리스티앙_카랑뵈.md "wikilink")
 
-  - [장 보세주르](https://ko.wikipedia.org/wiki/장_보세주르 "wikilink")
+  - [장 보세주르](../Page/장_보세주르.md "wikilink")
 
-  - [모하메드 카데르](https://ko.wikipedia.org/wiki/모하메드_카데르 "wikilink")
+  - [모하메드 카데르](../Page/모하메드_카데르.md "wikilink")
 
 ## 유명 감독
 
-  - [일리야 페트코비치](https://ko.wikipedia.org/wiki/일리야_페트코비치 "wikilink")
+  - [일리야 페트코비치](../Page/일리야_페트코비치.md "wikilink")
 
 ## 외부 링크
 

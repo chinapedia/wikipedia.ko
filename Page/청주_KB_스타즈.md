@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ KB ](https://ko.wikipedia.org/wiki/_KB_).
 
 
-**청주 KB 스타즈**(Cheongju KB Stars)는 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")(WKBL) 소속의 프로농구단으로 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](https://ko.wikipedia.org/wiki/청주시 "wikilink")를 연고지로 한다. [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink")에 '국민은행 여자농구단'이란 이름으로 창단되었으며, 구단은 당시 실업농구대회인 [농구대잔치](https://ko.wikipedia.org/wiki/농구대잔치 "wikilink")에 참가하였다. [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 [한국여자농구연맹](https://ko.wikipedia.org/wiki/한국여자농구연맹 "wikilink")의 출범으로 구단은 프로화를 거쳤으며, [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")부터 프로농구대회인 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")에 참가하고 있다. 프로화 이후 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 초까지는 [성남시](https://ko.wikipedia.org/wiki/성남시 "wikilink"), [천안시](https://ko.wikipedia.org/wiki/천안시 "wikilink")에서 활동하면서 2002년 겨울리그 및 2006년 여름리그에서 [WKBL 정규시즌](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") 우승을 차지했다. 구단은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 12일](https://ko.wikipedia.org/wiki/1월_12일 "wikilink") [청주시](https://ko.wikipedia.org/wiki/청주시 "wikilink")와 연고지 협약을 맺어 동년 [2월 20일부터](https://ko.wikipedia.org/wiki/2월_20일 "wikilink") [청주체육관](../Page/청주체육관.md "wikilink")을 홈 경기장으로 사용하고 있다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 4일에는](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") 구단의 새로운 공식명칭을 '청주 KB 스타즈'로 확정하였다.\[1\]
+**청주 KB 스타즈**(Cheongju KB Stars)는 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")(WKBL) 소속의 프로농구단으로 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink")를 연고지로 한다. [1963년](../Page/1963년.md "wikilink")에 '국민은행 여자농구단'이란 이름으로 창단되었으며, 구단은 당시 실업농구대회인 [농구대잔치](../Page/농구대잔치.md "wikilink")에 참가하였다. [1997년](../Page/1997년.md "wikilink")에 [한국여자농구연맹](../Page/한국여자농구연맹.md "wikilink")의 출범으로 구단은 프로화를 거쳤으며, [1998년](../Page/1998년.md "wikilink")부터 프로농구대회인 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")에 참가하고 있다. 프로화 이후 [2011년](../Page/2011년.md "wikilink") 초까지는 [성남시](../Page/성남시.md "wikilink"), [천안시](../Page/천안시.md "wikilink")에서 활동하면서 2002년 겨울리그 및 2006년 여름리그에서 [WKBL 정규시즌](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") 우승을 차지했다. 구단은 [2011년](../Page/2011년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink") [청주시](../Page/청주시.md "wikilink")와 연고지 협약을 맺어 동년 [2월 20일부터](../Page/2월_20일.md "wikilink") [청주체육관](../Page/청주체육관.md "wikilink")을 홈 경기장으로 사용하고 있다. [2011년](../Page/2011년.md "wikilink") [10월 4일에는](../Page/10월_4일.md "wikilink") 구단의 새로운 공식명칭을 '청주 KB 스타즈'로 확정하였다.\[1\]
 
-청주 KB 스타즈는 2018-2019 [WKBL 정규시즌에서](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") 우승하여 구단 역사상 세 번째 [WKBL 정규시즌](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") 우승을 차지했다. [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 21일부터](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") [3월 25일까지](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") 열린 [WKBL 챔피언 결정전에서는](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") [용인 삼성생명 블루밍스을](https://ko.wikipedia.org/wiki/용인_삼성생명_블루밍스 "wikilink") 상대로 스윕승을 거두며 구단의 첫 번째 WKBL 타이틀(V1)을 통합 우승으로 장식하였다.\[2\] 구단의 센터로 뛰었던 [박지수는](../Page/박지수_\(농구_선수\).md "wikilink") WKBL 역사상 6번째로 단일 시즌에 [WKBL 정규리그](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") MVP와 [WKBL 챔피언 결정전](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") MVP를 모두 석권하였으며, 최연소 [WKBL 챔피언 결정전](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") MVP 수상자로 기록되었다.\[3\]
+청주 KB 스타즈는 2018-2019 [WKBL 정규시즌에서](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") 우승하여 구단 역사상 세 번째 [WKBL 정규시즌](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") 우승을 차지했다. [2019년](../Page/2019년.md "wikilink") [3월 21일부터](../Page/3월_21일.md "wikilink") [3월 25일까지](../Page/3월_25일.md "wikilink") 열린 [WKBL 챔피언 결정전에서는](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") [용인 삼성생명 블루밍스을](https://ko.wikipedia.org/wiki/용인_삼성생명_블루밍스 "wikilink") 상대로 스윕승을 거두며 구단의 첫 번째 WKBL 타이틀(V1)을 통합 우승으로 장식하였다.\[2\] 구단의 센터로 뛰었던 [박지수는](../Page/박지수_\(농구_선수\).md "wikilink") WKBL 역사상 6번째로 단일 시즌에 [WKBL 정규리그](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") MVP와 [WKBL 챔피언 결정전](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") MVP를 모두 석권하였으며, 최연소 [WKBL 챔피언 결정전](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") MVP 수상자로 기록되었다.\[3\]
 
 ## 연혁
 
-### 구단 창단과 [농구대잔치](https://ko.wikipedia.org/wiki/농구대잔치 "wikilink") (1963\~1998)
+### 구단 창단과 [농구대잔치](../Page/농구대잔치.md "wikilink") (1963\~1998)
 
   - 1963년 05월:  창단
   - 1984-85년:
@@ -29,12 +29,12 @@
   - 2000년 07월: 바이코리아 2000 여름리그 정규시즌 4위
   - 2000년 12월:
   - 2001년 02월: 삼성생명 비추미배 2001 겨울리그 정규시즌 5위
-  - 2001년 05월: 연고지를 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](https://ko.wikipedia.org/wiki/성남시 "wikilink")로 확정
+  - 2001년 05월: 연고지를 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink")로 확정
   - 2001년 08월: 신세계·이마트배 2001 여름리그 정규시즌 5위
 
 ### 천안 시대 (2001\~2011)
 
-  - 2001년 12월: 연습 체육관 및 숙소 이전 (천안 연수원), 연고지를 [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [천안시](https://ko.wikipedia.org/wiki/천안시 "wikilink")로 이전
+  - 2001년 12월: 연습 체육관 및 숙소 이전 (천안 연수원), 연고지를 [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [천안시](../Page/천안시.md "wikilink")로 이전
   - 2002년 03월:  및 챔피언 결정전 준우승
   - 2002년 08월: NEW 국민은행배 2002 여름리그 정규시즌 5위
   - 2002년 12월:
@@ -54,7 +54,7 @@
 
 #### 정덕화 체제
 
-  - 2011년 02월: 연고지를 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](https://ko.wikipedia.org/wiki/청주시 "wikilink")로 이전
+  - 2011년 02월: 연고지를 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink")로 이전
   - 2011년 03월: 삼성생명 2010-11 여자프로농구 정규시즌 5위
   - 2011년 10월:
   - 2012년 04월: 신세계·이마트 2011-12 여자프로농구 정규시즌 3위, 플레이오프 승리 (vs.[구리 KDB생명 위너스](https://ko.wikipedia.org/wiki/구리_KDB생명_위너스 "wikilink"), 3승 1패), 챔피언 결정전 준우승 (vs.[안산 신한은행 에스버드](https://ko.wikipedia.org/wiki/안산_신한은행_에스버드 "wikilink"), 3패)
@@ -73,7 +73,7 @@
 #### [안덕수](../Page/안덕수_\(농구인\).md "wikilink") 체제
 
   - 2016년 07월:
-  - 2016년 10월 17일: 2017 신인선수 드래프트 전체 1순위 [박지수](../Page/박지수_\(농구_선수\).md "wikilink") 지명, [변연하](https://ko.wikipedia.org/wiki/변연하 "wikilink") 선수 은퇴식 (**10번** 영구 결번)
+  - 2016년 10월 17일: 2017 신인선수 드래프트 전체 1순위 [박지수](../Page/박지수_\(농구_선수\).md "wikilink") 지명, [변연하](../Page/변연하.md "wikilink") 선수 은퇴식 (**10번** 영구 결번)
   - 2017년 02월: 삼성생명 2016-17 퓨처스리그 준우승
   - 2017년 03월: 삼성생명 2016-17 여자프로농구 정규시즌 3위, 플레이오프 패배 (vs.[용인 삼성생명 블루밍스](https://ko.wikipedia.org/wiki/용인_삼성생명_블루밍스 "wikilink"), 2패)
   - 2017년 08월: 2017 박신자컵 서머리그 준우승
@@ -167,11 +167,11 @@
 
     **우승 (1)**: [2016](../Page/2016_박신자컵_서머리그.md "wikilink")
 
-    **준우승 (3)**: [2015](../Page/2015_박신자컵_서머리그.md "wikilink"), [2017](https://ko.wikipedia.org/wiki/2017_박신자컵_서머리그 "wikilink"), [2018](https://ko.wikipedia.org/wiki/2018_박신자컵_서머리그 "wikilink")
+    **준우승 (3)**: [2015](../Page/2015_박신자컵_서머리그.md "wikilink"), [2017](https://ko.wikipedia.org/wiki/2017_박신자컵_서머리그 "wikilink"), [2018](../Page/2018_박신자컵_서머리그.md "wikilink")
 
 ### 실업농구단 시대 (1963\~1998)
 
-  - **[농구대잔치](https://ko.wikipedia.org/wiki/농구대잔치 "wikilink")**
+  - **[농구대잔치](../Page/농구대잔치.md "wikilink")**
 
 <!-- end list -->
 

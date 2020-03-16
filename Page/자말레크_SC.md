@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
 
 
-**자말레크 스포팅 클럽**(, ) 또는 **자말레크 SC**()는 [이집트](https://ko.wikipedia.org/wiki/이집트 "wikilink") [카이로](https://ko.wikipedia.org/wiki/카이로 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽 팀이다. 카이로를 연고로 하는 [알아흘리와](../Page/알아흘리_\(카이로\).md "wikilink") 라이벌 관계에 있다.
+**자말레크 스포팅 클럽**(, ) 또는 **자말레크 SC**()는 [이집트](../Page/이집트.md "wikilink") [카이로](../Page/카이로.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽 팀이다. 카이로를 연고로 하는 [알아흘리와](../Page/알아흘리_\(카이로\).md "wikilink") 라이벌 관계에 있다.
 
 ## 클럽 명칭 역사
 
@@ -26,7 +26,7 @@
   -
 ## 유명 선수
 
-  - [미도](https://ko.wikipedia.org/wiki/미도 "wikilink")
+  - [미도](../Page/미도.md "wikilink")
 
   - [아므르 자키](../Page/아므르_자키.md "wikilink")
 
@@ -38,7 +38,7 @@
 
 ## 유명 감독
 
-  - [넬루 빙가다](https://ko.wikipedia.org/wiki/넬루_빙가다 "wikilink")
+  - [넬루 빙가다](../Page/넬루_빙가다.md "wikilink")
 
   - [뤼트 크롤](../Page/뤼트_크롤.md "wikilink")
 

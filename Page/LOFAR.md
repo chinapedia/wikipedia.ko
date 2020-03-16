@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOFAR](https://ko.wikipedia.org/wiki/LOFAR).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:LOFAR_Superterp.jpg "wikilink") **LOFAR**(**Lo**w-**F**requency **A**rray)는 직경이 1000km에 이르는 거대한 전파망원경이다. 2010년 6월 12일부터 유럽에서 가동에 들어갔다. [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink"), [영국](https://ko.wikipedia.org/wiki/영국 "wikilink"), [프랑스](../Page/프랑스.md "wikilink"), [독일](https://ko.wikipedia.org/wiki/독일 "wikilink"), [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") 등의 과학자들이 공동 참여해 약 2억 달러를 들여 각국에 설치한 망원경들의 연합체로, 높이 0.5∼2m인 안테나 2만5000여 개가 연결 되어있다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:LOFAR_Superterp.jpg "wikilink") **LOFAR**(**Lo**w-**F**requency **A**rray)는 직경이 1000km에 이르는 거대한 전파망원경이다. 2010년 6월 12일부터 유럽에서 가동에 들어갔다. [네덜란드](../Page/네덜란드.md "wikilink"), [영국](../Page/영국.md "wikilink"), [프랑스](../Page/프랑스.md "wikilink"), [독일](../Page/독일.md "wikilink"), [스웨덴](../Page/스웨덴.md "wikilink") 등의 과학자들이 공동 참여해 약 2억 달러를 들여 각국에 설치한 망원경들의 연합체로, 높이 0.5∼2m인 안테나 2만5000여 개가 연결 되어있다.\[1\]
 긴 파장의 전파 영상은 흐리기에, 선명하게 하기 위한 유일한 방법은 수백 km 이상에 걸쳐 분산된 안테나들을 만드는 것이다. 이에 따라 로파는 낮게는 30m(10MHz)에 이르는 파장의 전파까지 잡을 수 있다.\[2\]
 
 ## 각주

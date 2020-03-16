@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ames Room](https://ko.wikipedia.org/wiki/Ames_Room).
 
 
-***Ames Room***은 [슈프림팀](https://ko.wikipedia.org/wiki/슈프림팀 "wikilink")과 [브라운 아이드 소울의](../Page/브라운_아이드_소울.md "wikilink") [영준](https://ko.wikipedia.org/wiki/영준 "wikilink")이 2010년 [10월 5일에](https://ko.wikipedia.org/wiki/10월_5일 "wikilink") 발매한 Single이다. 타이틀 곡은 〈그땐 그땐 그땐〉이다. 수록곡 〈왜〉가 2010년 [9월 6일에](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") 선공개되었다.
+***Ames Room***은 [슈프림팀](../Page/슈프림팀.md "wikilink")과 [브라운 아이드 소울의](../Page/브라운_아이드_소울.md "wikilink") [영준](https://ko.wikipedia.org/wiki/영준 "wikilink")이 2010년 [10월 5일에](../Page/10월_5일.md "wikilink") 발매한 Single이다. 타이틀 곡은 〈그땐 그땐 그땐〉이다. 수록곡 〈왜〉가 2010년 [9월 6일에](../Page/9월_6일.md "wikilink") 선공개되었다.
 
 ## 수록곡
 

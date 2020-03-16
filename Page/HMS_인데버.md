@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HMS ](https://ko.wikipedia.org/wiki/HMS_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:HMS_Endeavour_off_the_coast_of_New_Holland,_by_Samuel_Atkins_c.1794.jpg "wikilink") **영국 왕의 군함 인데버**(*HMS Endeavor*)는 18세기 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 소형 범선이다. [제임스 쿡](../Page/제임스_쿡.md "wikilink") 대위(후에 해군 대령)가 이 배를 타고 [남태평양](https://ko.wikipedia.org/wiki/남태평양 "wikilink")을 탐사 항해한 선박으로 유명하다. 두 번째, 세 번째 항해한 그 다음 배는 [HMS 레절루션](https://ko.wikipedia.org/wiki/HMS_레절루션 "wikilink")(*HMS Resolution*)이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:HMS_Endeavour_off_the_coast_of_New_Holland,_by_Samuel_Atkins_c.1794.jpg "wikilink") **영국 왕의 군함 인데버**(*HMS Endeavor*)는 18세기 [영국](../Page/영국.md "wikilink")의 소형 범선이다. [제임스 쿡](../Page/제임스_쿡.md "wikilink") 대위(후에 해군 대령)가 이 배를 타고 [남태평양](https://ko.wikipedia.org/wiki/남태평양 "wikilink")을 탐사 항해한 선박으로 유명하다. 두 번째, 세 번째 항해한 그 다음 배는 [HMS 레절루션](https://ko.wikipedia.org/wiki/HMS_레절루션 "wikilink")(*HMS Resolution*)이다.
 
 ## 개요
 
@@ -17,7 +17,7 @@
 
 ## 쿡의 항해
 
-인데버 호는 1768년 8월 8일 플리머스를 출항하여, [마데이라 제도를](https://ko.wikipedia.org/wiki/마데이라_제도 "wikilink") 거쳐 아프리카 서해안을 따라 이동, 대서양을 건너, 남미를 향해 항해하여 1768년 11월 3일에 리오데자네이로에 도착했다. 따라서 혼 곶을 돌아 남태평양에 들어가 타히티로 가서 금성 일면통과 관측을 위해 3개월동안 그곳에 정박했다.
+인데버 호는 1768년 8월 8일 플리머스를 출항하여, [마데이라 제도를](../Page/마데이라_제도.md "wikilink") 거쳐 아프리카 서해안을 따라 이동, 대서양을 건너, 남미를 향해 항해하여 1768년 11월 3일에 리오데자네이로에 도착했다. 따라서 혼 곶을 돌아 남태평양에 들어가 타히티로 가서 금성 일면통과 관측을 위해 3개월동안 그곳에 정박했다.
 
 공식적인 지시는 완수되었고 인데버 호는 남반구를 항해하여 "비밀 임무"에 이어 종사했다. 인데버 호는 타히티에서 뉴질랜드로 건너갔으며, 뉴질랜드에서 방해를 받기는 했지만, 일대 해안 측량을 6개월 동안 지휘했다. 뉴질랜드에서 호주 해안을 향해 서쪽으로 항해하여 1770년 4월 19일 호주 대륙을 발견했다. 4월 29일 현재 커널로 알려진 지점에서 쿡 일행은 호주 대륙에 첫 상륙을 지휘했다. 당초 쿡이 많은 가오리를 보였기 때문에, 그곳을 가오리 만이라 명명했지만, 결국은 식물학자 조지프 뱅크스, 다니엘 솔랜더, 헤르만 스포링에 의해 채집된 많은 고유종을 따서 [보타니 만이라고](https://ko.wikipedia.org/wiki/보타니_만 "wikilink") 부르게 되었다.
 
@@ -25,7 +25,7 @@
 
 ## 같이 보기
 
-  - [인데버 우주왕복선](https://ko.wikipedia.org/wiki/인데버_우주왕복선 "wikilink")
+  - [인데버 우주왕복선](../Page/인데버_우주왕복선.md "wikilink")
 
 ## 외부 링크
 
