@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FM](https://ko.wikipedia.org/wiki/FM).
 
 
-**FM응접실**은 [안동MBC FM4U](https://ko.wikipedia.org/wiki/안동문화방송 "wikilink")(FM 91.3㎒)에서 매일 오후 4시부터 저녁 6시까지 방송되는 경상북도 북부지역의 대중음악 전문 라디오 프로그램이다.
+**FM응접실**은 [안동MBC FM4U](../Page/안동문화방송.md "wikilink")(FM 91.3㎒)에서 매일 오후 4시부터 저녁 6시까지 방송되는 경상북도 북부지역의 대중음악 전문 라디오 프로그램이다.
 
 ## 코너소개
 
@@ -25,9 +25,9 @@
 
 ## 같이 보기
 
-  - [안동문화방송](https://ko.wikipedia.org/wiki/안동문화방송 "wikilink")
-  - [MBC FM4U](https://ko.wikipedia.org/wiki/MBC_FM4U "wikilink")
-  - [오후의 발견 이지혜입니다](https://ko.wikipedia.org/wiki/오후의_발견 "wikilink")
+  - [안동문화방송](../Page/안동문화방송.md "wikilink")
+  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
+  - [오후의 발견 이지혜입니다](../Page/오후의_발견.md "wikilink")
 
 ## 외부 링크
 

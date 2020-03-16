@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ KBS ](https://ko.wikipedia.org/wiki/_KBS_).
 
 
-《**생방송 KBS 저널**》은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 3일부터](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월 1일까지](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [KBS 2TV에서](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 방송되었던 시사프로그램이다.
+《**생방송 KBS 저널**》은 [2002년](../Page/2002년.md "wikilink") [11월 3일부터](../Page/11월_3일.md "wikilink") [2005년](../Page/2005년.md "wikilink") [5월 1일까지](../Page/5월_1일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")의 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송되었던 시사프로그램이다.
 
 ## 기획 의도
 
@@ -20,16 +20,16 @@
 
 ## 방송 시간
 
-| 방송 채널                                                       | 방송 기간                                                                       | 방송 시간                                                                               |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") | 2002년 11월 3일 \~ 2004년 10월 31일                                               | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 오전 7시 \~ 오전 8시 30분 (1시간 30분) |
-| 2004년 11월 7일 \~ 2005년 5월 1일                                 | 매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 오전 6시 \~ 오전 8시 (2시간) |                                                                                     |
+| 방송 채널                                    | 방송 기간                                                    | 방송 시간                                                            |
+| ---------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------- |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink") | 2002년 11월 3일 \~ 2004년 10월 31일                            | 매주 [일요일](../Page/일요일.md "wikilink") 오전 7시 \~ 오전 8시 30분 (1시간 30분) |
+| 2004년 11월 7일 \~ 2005년 5월 1일              | 매주 [일요일](../Page/일요일.md "wikilink") 오전 6시 \~ 오전 8시 (2시간) |                                                                  |
 
 ## 역대 진행자
 
-  - 1대: [김준석](../Page/김준석.md "wikilink"), [정은승](https://ko.wikipedia.org/wiki/정은승 "wikilink")
-  - 2대: [김준석](../Page/김준석.md "wikilink"), [오유경](https://ko.wikipedia.org/wiki/오유경 "wikilink")
-  - 3대: [김준석](../Page/김준석.md "wikilink"), [백정원](https://ko.wikipedia.org/wiki/백정원 "wikilink")
+  - 1대: [김준석](../Page/김준석.md "wikilink"), [정은승](../Page/정은승.md "wikilink")
+  - 2대: [김준석](../Page/김준석.md "wikilink"), [오유경](../Page/오유경.md "wikilink")
+  - 3대: [김준석](../Page/김준석.md "wikilink"), [백정원](../Page/백정원.md "wikilink")
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOVE JAM](https://ko.wikipedia.org/wiki/LOVE_JAM).
 
 
-《**LOVE JAM**》(러브 잼)은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 가수 [오오츠카 아이의](https://ko.wikipedia.org/wiki/오오츠카_아이 "wikilink") 두 번째 정규 음반이다.
+《**LOVE JAM**》(러브 잼)은 [일본](../Page/일본.md "wikilink")의 가수 [오오츠카 아이의](../Page/오오츠카_아이.md "wikilink") 두 번째 정규 음반이다.
 
 ## 수록곡
 

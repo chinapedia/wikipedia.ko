@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [GSM  ](https://ko.wikipedia.org/wiki/GSM__).
 
 
-**GSM 주파수 대역** 또는 주파수 범위는 [GSM](https://ko.wikipedia.org/wiki/GSM "wikilink") [휴대 전화의](https://ko.wikipedia.org/wiki/휴대_전화 "wikilink") 동작을 위해 [ITU](https://ko.wikipedia.org/wiki/ITU "wikilink")에서 정한 휴대전화 주파수이다.
+**GSM 주파수 대역** 또는 주파수 범위는 [GSM](../Page/GSM.md "wikilink") [휴대 전화의](../Page/휴대_전화.md "wikilink") 동작을 위해 [ITU](https://ko.wikipedia.org/wiki/ITU "wikilink")에서 정한 휴대전화 주파수이다.
 
 <table>
 <thead>
 <tr class="header">
 <th><p>GSM 대역</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/진동수" title="wikilink">ƒ</a> (MHz)</p></th>
+<th><p><a href="../Page/진동수.md" title="wikilink">ƒ</a> (MHz)</p></th>
 <th><p>상향 (MHz)<br />
 <small>(휴대 전화에서 기지국 방향)</small></p></th>
 <th><p>하향 (MHz)<br />

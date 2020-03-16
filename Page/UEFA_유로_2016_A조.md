@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - [디미트리 파예트](https://ko.wikipedia.org/wiki/디미트리_파예트 "wikilink")
+  - [디미트리 파예트](../Page/디미트리_파예트.md "wikilink")
 
   - [보그단 스탄쿠](../Page/보그단_스탄쿠.md "wikilink")
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [올리비에 지루](https://ko.wikipedia.org/wiki/올리비에_지루 "wikilink")
+  - [올리비에 지루](../Page/올리비에_지루.md "wikilink")
 
   - [앙투안 그리즈만](../Page/앙투안_그리즈만.md "wikilink")
 
@@ -59,6 +59,6 @@
 
   - 는 와의 경기에서 2골을 넣었는데 모두 후반전 추가시간에 넣은 거다.
 
-  - 는 2경기를 [수도권에서](https://ko.wikipedia.org/wiki/일드프랑스 "wikilink") 경기했다. (와의 경기는 일드프랑스 생상드니 주에 있는 [생드니](https://ko.wikipedia.org/wiki/생드니 "wikilink")에서, 그 다음 경기인 와의 경기는 수도 [파리에서](https://ko.wikipedia.org/wiki/파리_\(프랑스\) "wikilink") 경기했다.)
+  - 는 2경기를 [수도권에서](../Page/일드프랑스.md "wikilink") 경기했다. (와의 경기는 일드프랑스 생상드니 주에 있는 [생드니](../Page/생드니.md "wikilink")에서, 그 다음 경기인 와의 경기는 수도 [파리에서](../Page/파리_\(프랑스\).md "wikilink") 경기했다.)
 
 [분류:UEFA 유로 2016](https://ko.wikipedia.org/wiki/분류:UEFA_유로_2016 "wikilink")

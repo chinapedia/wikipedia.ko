@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2003 UNCAF ](https://ko.wikipedia.org/wiki/2003_UNCAF_).
 
 
-**2003년 UNCAF 네이션스컵**(2003 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 7번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월 9일부터](https://ko.wikipedia.org/wiki/2월_9일 "wikilink") [2월 23일까지](https://ko.wikipedia.org/wiki/2월_23일 "wikilink") [파나마](https://ko.wikipedia.org/wiki/파나마 "wikilink")에서 개최되었다. 이 대회는 [2003년 CONCACAF 골드컵의](https://ko.wikipedia.org/wiki/2003년_CONCACAF_골드컵 "wikilink") 중앙아메리카 예선을 겸한다.
+**2003년 UNCAF 네이션스컵**(2003 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 7번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [2003년](../Page/2003년.md "wikilink") [2월 9일부터](../Page/2월_9일.md "wikilink") [2월 23일까지](../Page/2월_23일.md "wikilink") [파나마](../Page/파나마.md "wikilink")에서 개최되었다. 이 대회는 [2003년 CONCACAF 골드컵의](../Page/2003년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.
 
 우승 팀부터 3위 팀까지는 CONCACAF 골드컵 본선에 진출하며, 4위 팀은 [2003년 CONCACAF 골드컵 예선](../Page/2003년_CONCACAF_골드컵_예선.md "wikilink") 플레이오프 라운드에 진출한다. {{-}}
 
@@ -136,7 +136,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Costa_Rica_(state).svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/코스타리카_축구_국가대표팀" title="wikilink">코스타리카</a></strong><br />
+<strong><a href="../Page/코스타리카_축구_국가대표팀.md" title="wikilink">코스타리카</a></strong><br />
 <strong>4번째 우승</strong></p></td>
 </tr>
 </tbody>

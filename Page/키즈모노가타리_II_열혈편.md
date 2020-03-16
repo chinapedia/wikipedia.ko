@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ II ](https://ko.wikipedia.org/wiki/_II_).
 
 
-《**키즈모노가타리 II 열혈편**》(傷物語II 熱血篇, )은 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 19일](https://ko.wikipedia.org/wiki/8월_19일 "wikilink") 개봉한 일본의 [공포](https://ko.wikipedia.org/wiki/공포_영화 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 영화이다.
+《**키즈모노가타리 II 열혈편**》(傷物語II 熱血篇, )은 [2016년](../Page/2016년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") 개봉한 일본의 [공포](../Page/공포_영화.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink") 영화이다.
 
 ## 줄거리
 
@@ -15,9 +15,9 @@
 
 ## 출연진
 
-  - [카미야 히로시](https://ko.wikipedia.org/wiki/카미야_히로시 "wikilink") - 아라라기 코요미
-  - [사카모토 마아야](https://ko.wikipedia.org/wiki/사카모토_마아야 "wikilink") - 키스샷 아세롤라오리온 / 하트 언더 블레이드
-  - [사쿠라이 타카히로](https://ko.wikipedia.org/wiki/사쿠라이_타카히로 "wikilink") - 오시노 메메
+  - [카미야 히로시](../Page/카미야_히로시.md "wikilink") - 아라라기 코요미
+  - [사카모토 마아야](../Page/사카모토_마아야.md "wikilink") - 키스샷 아세롤라오리온 / 하트 언더 블레이드
+  - [사쿠라이 타카히로](../Page/사쿠라이_타카히로.md "wikilink") - 오시노 메메
   - [호시에 유이](https://ko.wikipedia.org/wiki/호시에_유이 "wikilink") - 하네카와 츠바사
   - [이리노 미유](https://ko.wikipedia.org/wiki/이리노_미유 "wikilink")
   - [에바라 마사시](https://ko.wikipedia.org/wiki/에바라_마사시 "wikilink")

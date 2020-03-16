@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [HP \(\)](https://ko.wikipedia.org/wiki/HP_\(\)).
 
 
-**HP 주식회사**()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 컴퓨터 제조및 판매 회사이다. 원래는 [휴렛 팩커드](https://ko.wikipedia.org/wiki/휴렛_팩커드 "wikilink") 주식회사로 컴퓨터 제조업으로 알려졌지만, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 1일에](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 클라우드 사업 분야와 컴퓨터 사업이 분할하여 없어지고, 새로 설립된 컴퓨터 회사이다. 이후, 클라우드 사업 분야는 [휴렛 팩커드 엔터프라이즈로](https://ko.wikipedia.org/wiki/휴렛_팩커드_엔터프라이즈 "wikilink") 새로 설립되어 이어진다.
+**HP 주식회사**()는 [미국](../Page/미국.md "wikilink")의 컴퓨터 제조및 판매 회사이다. 원래는 [휴렛 팩커드](../Page/휴렛_팩커드.md "wikilink") 주식회사로 컴퓨터 제조업으로 알려졌지만, [2015년](../Page/2015년.md "wikilink") [11월 1일에](../Page/11월_1일.md "wikilink") 클라우드 사업 분야와 컴퓨터 사업이 분할하여 없어지고, 새로 설립된 컴퓨터 회사이다. 이후, 클라우드 사업 분야는 [휴렛 팩커드 엔터프라이즈로](https://ko.wikipedia.org/wiki/휴렛_팩커드_엔터프라이즈 "wikilink") 새로 설립되어 이어진다.
 
 ## 현재의 사업
 
-HP는 [개인용 컴퓨터](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink")(PC), [프린터](https://ko.wikipedia.org/wiki/프린터 "wikilink"), [복합기](https://ko.wikipedia.org/wiki/복합기 "wikilink"), 그리고 3차원 인쇄 솔루션들을 개발한다.\[1\]\[2\]
+HP는 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink")(PC), [프린터](../Page/프린터.md "wikilink"), [복합기](../Page/복합기.md "wikilink"), 그리고 3차원 인쇄 솔루션들을 개발한다.\[1\]\[2\]
 
 [2017년 11월](https://ko.wikipedia.org/wiki/2017년_11월 "wikilink"), HP는 [삼성의](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") 프린터 부문을 인수하였다.\[3\]
 

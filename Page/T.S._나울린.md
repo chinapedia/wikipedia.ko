@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [T.S. ](https://ko.wikipedia.org/wiki/T.S._).
 
 
-**T. S. 나울린**()은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [영화 각본가로](https://ko.wikipedia.org/wiki/영화_각본가 "wikilink") [웨스 볼](https://ko.wikipedia.org/wiki/웨스_볼 "wikilink") 감독의 《[메이즈 러너](../Page/메이즈_러너_\(영화\).md "wikilink")》 영화 시리즈의 각본 담당으로 알려져 있다.
+**T. S. 나울린**()은 [미국](../Page/미국.md "wikilink")의 [영화 각본가로](https://ko.wikipedia.org/wiki/영화_각본가 "wikilink") [웨스 볼](https://ko.wikipedia.org/wiki/웨스_볼 "wikilink") 감독의 《[메이즈 러너](../Page/메이즈_러너_\(영화\).md "wikilink")》 영화 시리즈의 각본 담당으로 알려져 있다.
 
 ## 연출 작품 목록
 

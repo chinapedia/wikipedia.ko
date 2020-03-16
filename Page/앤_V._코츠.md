@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ V. ](https://ko.wikipedia.org/wiki/_V._).
 
 
-**앤 보스 코츠**(, [1925년](https://ko.wikipedia.org/wiki/1925년 "wikilink") [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink"))는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [영화 편집자이다](https://ko.wikipedia.org/wiki/영화_편집자 "wikilink"). 대표작은 [데이비드 린](https://ko.wikipedia.org/wiki/데이비드_린 "wikilink") 감독의 《[아라비아의 로렌스](https://ko.wikipedia.org/wiki/아라비아의_로렌스_\(영화\) "wikilink")》(1962)이며, 이외 《[엘리펀트 맨](https://ko.wikipedia.org/wiki/엘리펀트_맨 "wikilink")》(1980), 《오리엔트 특급 살인》(1974), 《[사선에서](https://ko.wikipedia.org/wiki/사선에서 "wikilink")》(1993), 《[에린 브로코비치](https://ko.wikipedia.org/wiki/에린_브로코비치_\(영화\) "wikilink")》(2000), 《[황금나침반](../Page/황금나침반_\(영화\).md "wikilink")》(2007), 《[그레이의 50가지 그림자](../Page/그레이의_50가지_그림자_\(영화\).md "wikilink")》(2015)가 있다. 《아라비아의 로렌스》로 [아카데미 편집상을](https://ko.wikipedia.org/wiki/아카데미_편집상 "wikilink") 수상했고, 이후 몇 번이나 더 후보가 되었으나 재차 수상하지는 못했다. 2017년에는 [아카데미 공로상을](https://ko.wikipedia.org/wiki/아카데미_공로상 "wikilink") 수상헀다.
+**앤 보스 코츠**(, [1925년](../Page/1925년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink"))는 [영국](../Page/영국.md "wikilink")의 [영화 편집자이다](https://ko.wikipedia.org/wiki/영화_편집자 "wikilink"). 대표작은 [데이비드 린](../Page/데이비드_린.md "wikilink") 감독의 《[아라비아의 로렌스](../Page/아라비아의_로렌스_\(영화\).md "wikilink")》(1962)이며, 이외 《[엘리펀트 맨](https://ko.wikipedia.org/wiki/엘리펀트_맨 "wikilink")》(1980), 《오리엔트 특급 살인》(1974), 《[사선에서](../Page/사선에서.md "wikilink")》(1993), 《[에린 브로코비치](../Page/에린_브로코비치_\(영화\).md "wikilink")》(2000), 《[황금나침반](../Page/황금나침반_\(영화\).md "wikilink")》(2007), 《[그레이의 50가지 그림자](../Page/그레이의_50가지_그림자_\(영화\).md "wikilink")》(2015)가 있다. 《아라비아의 로렌스》로 [아카데미 편집상을](https://ko.wikipedia.org/wiki/아카데미_편집상 "wikilink") 수상했고, 이후 몇 번이나 더 후보가 되었으나 재차 수상하지는 못했다. 2017년에는 [아카데미 공로상을](https://ko.wikipedia.org/wiki/아카데미_공로상 "wikilink") 수상헀다.
 
 2018년 5월 8일 92세를 일기로 숨졌다.\[1\]\[2\]
 
@@ -34,9 +34,9 @@
 </tr>
 <tr class="odd">
 <td><p>1962</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아라비아의_로렌스_(영화)" title="wikilink">아라비아의 로렌스</a></p></td>
+<td><p><a href="../Page/아라비아의_로렌스_(영화).md" title="wikilink">아라비아의 로렌스</a></p></td>
 <td><p>Lawrence of Arabia</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데이비드_린" title="wikilink">데이비드 린</a></p></td>
+<td><p><a href="../Page/데이비드_린.md" title="wikilink">데이비드 린</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아카데미_편집상" title="wikilink">아카데미 편집상</a> 수상</p></td>
 </tr>
 <tr class="even">
@@ -57,7 +57,7 @@
 <td><p>1980</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엘리펀트_맨" title="wikilink">엘리펀트 맨</a></p></td>
 <td><p>The Elephant Man</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데이비드_린치" title="wikilink">데이비드 린치</a></p></td>
+<td><p><a href="../Page/데이비드_린치.md" title="wikilink">데이비드 린치</a></p></td>
 <td><p>아카데미 편집상 후보<br />
 영국 아카데미상 편집상 후보</p></td>
 </tr>
@@ -93,12 +93,12 @@
 <td><p>1992</p></td>
 <td><p>채플린</p></td>
 <td><p>Chaplin</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리처드_애튼버러" title="wikilink">리처드 애튼버러</a></p></td>
+<td><p><a href="../Page/리처드_애튼버러.md" title="wikilink">리처드 애튼버러</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1993</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사선에서" title="wikilink">사선에서</a></p></td>
+<td><p><a href="../Page/사선에서.md" title="wikilink">사선에서</a></p></td>
 <td><p>In the Line of Fire</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/볼프강_페터젠" title="wikilink">볼프강 페터젠</a></p></td>
 <td><p>아카데미 편집상 후보<br />
@@ -129,12 +129,12 @@
 <td><p>1998</p></td>
 <td><p><a href="../Page/표적_(1998년_영화).md" title="wikilink">표적</a></p></td>
 <td><p>Out of Sight</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스티븐_소더버그" title="wikilink">스티븐 소더버그</a></p></td>
+<td><p><a href="../Page/스티븐_소더버그.md" title="wikilink">스티븐 소더버그</a></p></td>
 <td><p>아카데미 편집상 후보</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에린_브로코비치_(영화)" title="wikilink">에린 브로코비치</a></p></td>
+<td><p><a href="../Page/에린_브로코비치_(영화).md" title="wikilink">에린 브로코비치</a></p></td>
 <td><p>Erin Brockovich</p></td>
 <td><p>스티븐 소더버그</p></td>
 <td><p>영국 아카데미상 편집상 후보</p></td>
@@ -150,7 +150,7 @@
 <td><p>2002</p></td>
 <td><p>언페이스풀</p></td>
 <td><p>Unfaithful</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에이드리언_라인" title="wikilink">에이드리언 라인</a></p></td>
+<td><p><a href="../Page/에이드리언_라인.md" title="wikilink">에이드리언 라인</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

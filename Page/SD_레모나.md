@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SD ](https://ko.wikipedia.org/wiki/SD_).
 
 
-**SD 레모나**(Sociedad Deportiva Lemona)는 [레모아](https://ko.wikipedia.org/wiki/레모아 "wikilink")를 연고로 하는 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")의 축구 클럽이었다.
+**SD 레모나**(Sociedad Deportiva Lemona)는 [레모아](https://ko.wikipedia.org/wiki/레모아 "wikilink")를 연고로 하는 [스페인](../Page/스페인.md "wikilink")의 축구 클럽이었다.
 
 지난 2012년 SD 레모나는 재정적인 이유로 해체되었다.\[1\]
 
@@ -17,7 +17,7 @@
 <th><p><strong>단계</strong></p></th>
 <th><p><strong>리그</strong></p></th>
 <th><p><strong>순위</strong></p></th>
-<th><p><strong><a href="https://ko.wikipedia.org/wiki/코파_델_레이" title="wikilink">코파 델 레이</a></strong></p></th>
+<th><p><strong><a href="../Page/코파_델_레이.md" title="wikilink">코파 델 레이</a></strong></p></th>
 </tr>
 </thead>
 <tbody>
@@ -163,7 +163,7 @@
 <th><p><strong>단계</strong></p></th>
 <th><p><strong>리그</strong></p></th>
 <th><p><strong>순위</strong></p></th>
-<th><p><strong><a href="https://ko.wikipedia.org/wiki/코파_델_레이" title="wikilink">코파 델 레이</a></strong></p></th>
+<th><p><strong><a href="../Page/코파_델_레이.md" title="wikilink">코파 델 레이</a></strong></p></th>
 </tr>
 </thead>
 <tbody>

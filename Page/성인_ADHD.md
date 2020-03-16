@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ ADHD](https://ko.wikipedia.org/wiki/_ADHD).
 
 
-**성인 ADHD**(attention deficit hyperactivity disorder, adult ADHD, ADHD in adults, AADD)는 [성인](https://ko.wikipedia.org/wiki/성인 "wikilink")에게서 나타나는 [주의력결핍 과다행동장애](https://ko.wikipedia.org/wiki/주의력결핍_과다행동장애 "wikilink")(ADHD)의 신경생물학적 질병이다.
+**성인 ADHD**(attention deficit hyperactivity disorder, adult ADHD, ADHD in adults, AADD)는 [성인](https://ko.wikipedia.org/wiki/성인 "wikilink")에게서 나타나는 [주의력결핍 과다행동장애](../Page/주의력결핍_과다행동장애.md "wikilink")(ADHD)의 신경생물학적 질병이다.
 
 어렸을 때부터 [증후군](https://ko.wikipedia.org/wiki/증후군 "wikilink")이 있는 아이들 가운데 약 1/3\[1\]에서 2/3\[2\]가 일생에 걸쳐서 뚜렷한 ADHD 증상을 지속해서 나타내고 있다.
 

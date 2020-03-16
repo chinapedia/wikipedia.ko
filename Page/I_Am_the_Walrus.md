@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [I Am the Walrus](https://ko.wikipedia.org/wiki/I_Am_the_Walrus).
 
 
-〈**I Am the Walrus**〉는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")가 1967년 11월에 발표한 노래다. 그해 12월 방영한 비틀즈의 [텔레비전 영화](https://ko.wikipedia.org/wiki/텔레비전_영화 "wikilink") 《[매지컬 미스테리 투어](https://ko.wikipedia.org/wiki/매지컬_미스테리_투어 "wikilink")》에도 등장했다. 노래는 동명의 영국 더블 EP과 미국 LP에도 수록되었고, B면에 〈[Hello, Goodbye](https://ko.wikipedia.org/wiki/Hello,_Goodbye "wikilink")〉를 담고 발매한 싱글은 차트 1위를 기록하는 히트를 쳤다.
+〈**I Am the Walrus**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")가 1967년 11월에 발표한 노래다. 그해 12월 방영한 비틀즈의 [텔레비전 영화](https://ko.wikipedia.org/wiki/텔레비전_영화 "wikilink") 《[매지컬 미스테리 투어](https://ko.wikipedia.org/wiki/매지컬_미스테리_투어 "wikilink")》에도 등장했다. 노래는 동명의 영국 더블 EP과 미국 LP에도 수록되었고, B면에 〈[Hello, Goodbye](../Page/Hello,_Goodbye.md "wikilink")〉를 담고 발매한 싱글은 차트 1위를 기록하는 히트를 쳤다.
 
 ## 배경
 
-[브라이언 엡스타인이](https://ko.wikipedia.org/wiki/브라이언_엡스타인 "wikilink") 1967년 8월 27일 사망한 이후, 비틀즈는 창작열에 불타올랐다. 그러나 그 전 밴드는 며칠 간을 충격 속에 보냈고, [폴 매카트니는](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 그들의 비탄을 통제할 한 가지 묘수를 떠올린다. 바로 스튜디오로 돌아가는 것이었다. 9월 5일부터 시작된 작업에서, [존 레논은](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 자신이 졸업한 고등학교의 학생이 비틀즈의 가사에서 숨겨진 의미를 찾는 공부를 하고 있다는 편지에서 영감을 받은 새 일렉트릭 곡을 가져왔다. 레논은 〈I Am the Walrus〉의 솔로 어쿠스틱 버전을 연주했고, 당시 상황을 엔지니어 [제프 에머릭은](https://ko.wikipedia.org/wiki/제프_에머릭 "wikilink") 이렇게 회상했다. "모두가 어리둥절 해 있었다. 멜로디는 크게 두 개로 구성돼 있었는데, 가사는 꽤나 넌센스해 보였다."\[1\] 등장하는 해마는 [루이스 캐럴의](https://ko.wikipedia.org/wiki/루이스_캐럴 "wikilink") 시 〈해마와 목수〉 (《거울 나라의 앨리스》에서 등장)에서 가져왔다. 레논은 시에서 등장하는 해마가 실은 악당이었다는 사실을 뒤늦게 알고는 경악했다.
+[브라이언 엡스타인이](../Page/브라이언_엡스타인.md "wikilink") 1967년 8월 27일 사망한 이후, 비틀즈는 창작열에 불타올랐다. 그러나 그 전 밴드는 며칠 간을 충격 속에 보냈고, [폴 매카트니는](../Page/폴_매카트니.md "wikilink") 그들의 비탄을 통제할 한 가지 묘수를 떠올린다. 바로 스튜디오로 돌아가는 것이었다. 9월 5일부터 시작된 작업에서, [존 레논은](../Page/존_레논.md "wikilink") 자신이 졸업한 고등학교의 학생이 비틀즈의 가사에서 숨겨진 의미를 찾는 공부를 하고 있다는 편지에서 영감을 받은 새 일렉트릭 곡을 가져왔다. 레논은 〈I Am the Walrus〉의 솔로 어쿠스틱 버전을 연주했고, 당시 상황을 엔지니어 [제프 에머릭은](https://ko.wikipedia.org/wiki/제프_에머릭 "wikilink") 이렇게 회상했다. "모두가 어리둥절 해 있었다. 멜로디는 크게 두 개로 구성돼 있었는데, 가사는 꽤나 넌센스해 보였다."\[1\] 등장하는 해마는 [루이스 캐럴의](../Page/루이스_캐럴.md "wikilink") 시 〈해마와 목수〉 (《거울 나라의 앨리스》에서 등장)에서 가져왔다. 레논은 시에서 등장하는 해마가 실은 악당이었다는 사실을 뒤늦게 알고는 경악했다.
 
-[조지 마틴은](https://ko.wikipedia.org/wiki/조지_마틴 "wikilink") "날 제외하고 너희끼리 뭘 하려는 심산이지?"라고 말했다. 결국에는 모두가 트랙에 참여했다. 레논은 단순한 일렉트릭 형태의 반주를 붙였고, 매카트니는 스타가 박자를 지킬 수 있도록 탬버린를 흔들었다. 매카트니의 이러한 근면성실함은 밴드를 집중할 수 있도록 도왔고, 에머릭은 이 순간을 회상하며 "폴의 가장 멋진 순간"이라고 했다. 트랙은 후기 제작에서 강렬하며, 멍한 느낌을 가질 수 있었다. 초기에 받은 충격에도 아랑곳 않고, 마틴은 능수능란한 솜씨로 오케스트라 편곡을 작곡해 마치 어지럼증과 같은 느낌을 부여했다. 마치 달에서 온 사운드를 원했던 레논은, 자신의 목소리를 최대한 찌그려뜨려 달라는 부탁을 했다.\[2\]
+[조지 마틴은](../Page/조지_마틴.md "wikilink") "날 제외하고 너희끼리 뭘 하려는 심산이지?"라고 말했다. 결국에는 모두가 트랙에 참여했다. 레논은 단순한 일렉트릭 형태의 반주를 붙였고, 매카트니는 스타가 박자를 지킬 수 있도록 탬버린를 흔들었다. 매카트니의 이러한 근면성실함은 밴드를 집중할 수 있도록 도왔고, 에머릭은 이 순간을 회상하며 "폴의 가장 멋진 순간"이라고 했다. 트랙은 후기 제작에서 강렬하며, 멍한 느낌을 가질 수 있었다. 초기에 받은 충격에도 아랑곳 않고, 마틴은 능수능란한 솜씨로 오케스트라 편곡을 작곡해 마치 어지럼증과 같은 느낌을 부여했다. 마치 달에서 온 사운드를 원했던 레논은, 자신의 목소리를 최대한 찌그려뜨려 달라는 부탁을 했다.\[2\]
 
-레논은 "낱말들은 사실 별 의미가 없다"며 "사람들이 너무나 많은 추측을 했고, 그건 하나같이 말도 안 되는 것이었다. 'I am the Eggman?'의 진정한 뜻이 뭐냐고? 나도 잘 모른다. 그건 푸딩 그릇이 될 수도 있었다."고 말했다. 가사는 그 내부에 수많은 말장난이 포함돼 있다. "Semolina pilchard"는 런던의 마약계 경찰인 노먼 필처에 대한 언급이다. 그는 [믹 재거나](https://ko.wikipedia.org/wiki/믹_재거 "wikilink") [키스 리처즈와](https://ko.wikipedia.org/wiki/키스_리처즈 "wikilink") 같은 록 스타를 잡아들이곤 했다. 그리고 "The Eggman"은 캐롤의 험티 덤티와 레논이 [에릭 버든으로부터](https://ko.wikipedia.org/wiki/에릭_버든 "wikilink") 들은, 그 무렵 한 소녀가 [애니멀스](../Page/애니멀스.md "wikilink")의 프론트맨과 섹스 도중 그 위에서 달걀을 깨뜨렸다는 얘기에 기원이 있다. 이듬해의 화이트 앨범에서, 레논은 〈[Glass Onion](https://ko.wikipedia.org/wiki/Glass_Onion "wikilink")〉에 "해마는 폴이다(The walrus was Paul)"라는 곡의 언급을 했다. 이는 엡스타인의 죽음 이후 그룹을 규합할 수 있도록 도운 매카트니의 대한 그만의 감사 방법이었다.\[3\]
+레논은 "낱말들은 사실 별 의미가 없다"며 "사람들이 너무나 많은 추측을 했고, 그건 하나같이 말도 안 되는 것이었다. 'I am the Eggman?'의 진정한 뜻이 뭐냐고? 나도 잘 모른다. 그건 푸딩 그릇이 될 수도 있었다."고 말했다. 가사는 그 내부에 수많은 말장난이 포함돼 있다. "Semolina pilchard"는 런던의 마약계 경찰인 노먼 필처에 대한 언급이다. 그는 [믹 재거나](../Page/믹_재거.md "wikilink") [키스 리처즈와](../Page/키스_리처즈.md "wikilink") 같은 록 스타를 잡아들이곤 했다. 그리고 "The Eggman"은 캐롤의 험티 덤티와 레논이 [에릭 버든으로부터](https://ko.wikipedia.org/wiki/에릭_버든 "wikilink") 들은, 그 무렵 한 소녀가 [애니멀스](../Page/애니멀스.md "wikilink")의 프론트맨과 섹스 도중 그 위에서 달걀을 깨뜨렸다는 얘기에 기원이 있다. 이듬해의 화이트 앨범에서, 레논은 〈[Glass Onion](https://ko.wikipedia.org/wiki/Glass_Onion "wikilink")〉에 "해마는 폴이다(The walrus was Paul)"라는 곡의 언급을 했다. 이는 엡스타인의 죽음 이후 그룹을 규합할 수 있도록 도운 매카트니의 대한 그만의 감사 방법이었다.\[3\]
 
 ## 참여 인원
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 리드 보컬, 백 보컬, 월리처 전자 피아노, 멜로트론
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – 베이스 기타, 탬버린, 백 보컬
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") – 전기 기타, 백 보컬
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") – 드럼
-  - [조지 마틴](https://ko.wikipedia.org/wiki/조지_마틴 "wikilink") – 관현악 편곡, 감독 및 제작
+  - [존 레논](../Page/존_레논.md "wikilink") – 리드 보컬, 백 보컬, 월리처 전자 피아노, 멜로트론
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") – 베이스 기타, 탬버린, 백 보컬
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") – 전기 기타, 백 보컬
+  - [링고 스타](../Page/링고_스타.md "wikilink") – 드럼
+  - [조지 마틴](../Page/조지_마틴.md "wikilink") – 관현악 편곡, 감독 및 제작
   - 세션 음악가  – 현악기, 베이스, 그리고 목관악기
   - 마이클 새맨스 싱어스 – 백 보컬
   - 레이 토마스 – 백 보컬\[4\]

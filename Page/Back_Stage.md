@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Back Stage](https://ko.wikipedia.org/wiki/Back_Stage).
 
 
-〈**Back Stage**〉(백 스테이지)는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 31일에](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") 발매된 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 37번째 싱글이다.
+〈**Back Stage**〉(백 스테이지)는 [2016년](../Page/2016년.md "wikilink") [8월 31일에](../Page/8월_31일.md "wikilink") 발매된 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 37번째 싱글이다.
 
 ## 앨범 종류
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
 
 
-《**구급전대 고고파이브 vs. 긴가맨**》(救急戦隊ゴーゴーファイブVSギンガマン)은 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월 10일에](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") 발매된 오리지널 비디오 작품이다. 《[구급전대 고고파이브](https://ko.wikipedia.org/wiki/구급전대_고고파이브 "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 vs. 시리즈의 하나이다.
+《**구급전대 고고파이브 vs. 긴가맨**》(救急戦隊ゴーゴーファイブVSギンガマン)은 [2000년](../Page/2000년.md "wikilink") [3월 10일에](../Page/3월_10일.md "wikilink") 발매된 오리지널 비디오 작품이다. 《[구급전대 고고파이브](../Page/구급전대_고고파이브.md "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 vs. 시리즈의 하나이다.
 
 ## 개요
 
-《[구급전대 고고파이브](https://ko.wikipedia.org/wiki/구급전대_고고파이브 "wikilink")》와 《[성수전대 긴가맨](https://ko.wikipedia.org/wiki/성수전대_긴가맨 "wikilink")》의 크로스 오버 작품인 슈퍼 전대 V시네마 제6탄.
+《[구급전대 고고파이브](../Page/구급전대_고고파이브.md "wikilink")》와 《[성수전대 긴가맨](../Page/성수전대_긴가맨.md "wikilink")》의 크로스 오버 작품인 슈퍼 전대 V시네마 제6탄.
 
 그랜드 크로스로부터 3개월 후의 일로 사라망 데스가 무한 연쇄 카드에 의한 작전을 실패한 직후라는 설정했다. V시네마 오리지널의 거대 로봇(초장광 빅토리 마즈\[1\])이 첫 등장하고 본 작품 이후 손님 측 전대의 6번째의 전사도 등장하게 된다\[2\]. 또 본작 이후 OP의 영상이 V시네마 오리지널의 것으로 변경됐다. 전원이 모이다 몇가지 장면에서 긴가만 측의 배우의 일부가 더빙되어 있는 것 외, 하야테 역의 스에요시 코지, 사야 역의 미야자와 쥬리, 휴우가 역의 개울의 기회가 적다.
 
@@ -27,7 +27,7 @@
   - 고우키 / 긴가 블루 (음성) : [쇼에이](https://ko.wikipedia.org/wiki/쇼에이 "wikilink")
   - 히카루 / 긴가 옐로 (음성) : [다카하시 노부아키](https://ko.wikipedia.org/wiki/다카하시_노부아키 "wikilink")
   - 사야 / 긴가 핑크 (음성) : [미야자와 쥬리](https://ko.wikipedia.org/wiki/미야자와_쥬리 "wikilink")
-  - 휴우가 / 흑기사 (음성) : [오가와 테루아키](https://ko.wikipedia.org/wiki/오가와_테루아키 "wikilink")
+  - 휴우가 / 흑기사 (음성) : [오가와 테루아키](../Page/오가와_테루아키.md "wikilink")
   - 타츠미 몬도 : 마이크 마키
   - 아오야마 유타 : 하야카와 쇼고
 
@@ -50,9 +50,9 @@
 
 ## 관련 항목
 
-  - [해적전대 고카이저](https://ko.wikipedia.org/wiki/해적전대_고카이저 "wikilink") - 본작에서 등장한 《긴가맨 그림책》이 등장한다.
+  - [해적전대 고카이저](../Page/해적전대_고카이저.md "wikilink") - 본작에서 등장한 《긴가맨 그림책》이 등장한다.
 
 [분류:슈퍼 전대 V시네마](https://ko.wikipedia.org/wiki/분류:슈퍼_전대_V시네마 "wikilink") [분류:슈퍼 전대 시리즈의 크로스 오버 작품](https://ko.wikipedia.org/wiki/분류:슈퍼_전대_시리즈의_크로스_오버_작품 "wikilink")
 
-1.  또한 장난감은 두 작품의 로봇 부품이 다르기 때문 재현은 불가능하다. 거꾸로 《[허리켄저 vs. 가오레인저](https://ko.wikipedia.org/wiki/인풍전대_허리케인저_vs._가오레인저 "wikilink")》에서는 유일하게 두 작품의 장난감이 공통된다.
+1.  또한 장난감은 두 작품의 로봇 부품이 다르기 때문 재현은 불가능하다. 거꾸로 《[허리켄저 vs. 가오레인저](../Page/인풍전대_허리케인저_vs._가오레인저.md "wikilink")》에서는 유일하게 두 작품의 장난감이 공통된다.
 2.  다만 검은 기사로서 출연 차례는 적다.캐스트 신용도 OP이 아니라 ED였던 데다 몽드 박사 밑이다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
 
 
-**존 어니스트 워커** 경(, [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [1월 7일](https://ko.wikipedia.org/wiki/1월_7일 "wikilink") \~ )은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 화학자이며 1997년 [노벨 화학상](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상자이다.\[1\]
+**존 어니스트 워커** 경(, [1941년](../Page/1941년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") \~ )은 [영국](../Page/영국.md "wikilink")의 화학자이며 1997년 [노벨 화학상](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상자이다.\[1\]
 
 ## 각주
 

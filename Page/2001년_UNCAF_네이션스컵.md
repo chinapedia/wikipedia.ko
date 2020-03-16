@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [2001 UNCAF ](https://ko.wikipedia.org/wiki/2001_UNCAF_).
 
 
-**2001년 UNCAF 네이션스컵**(2001 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 6번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [5월 23일부터](https://ko.wikipedia.org/wiki/5월_23일 "wikilink") [6월 3일까지](https://ko.wikipedia.org/wiki/6월_3일 "wikilink") [온두라스](https://ko.wikipedia.org/wiki/온두라스 "wikilink")에서 개최되었다. 이 대회는 [2002년 CONCACAF 골드컵의](https://ko.wikipedia.org/wiki/2002년_CONCACAF_골드컵 "wikilink") 중앙아메리카 예선을 겸한다.
+**2001년 UNCAF 네이션스컵**(2001 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 6번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [2001년](../Page/2001년.md "wikilink") [5월 23일부터](../Page/5월_23일.md "wikilink") [6월 3일까지](../Page/6월_3일.md "wikilink") [온두라스](../Page/온두라스.md "wikilink")에서 개최되었다. 이 대회는 [2002년 CONCACAF 골드컵의](../Page/2002년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.
 
-우승 팀부터 3위 팀까지는 CONCACAF 골드컵 본선에 진출하며, 4위 팀은 [2001년 카리브컵](https://ko.wikipedia.org/wiki/2001년_카리브컵 "wikilink") 4위 팀과 플레이오프를 치러 CONCACAF 골드컵에 진출한다.
+우승 팀부터 3위 팀까지는 CONCACAF 골드컵 본선에 진출하며, 4위 팀은 [2001년 카리브컵](../Page/2001년_카리브컵.md "wikilink") 4위 팀과 플레이오프를 치러 CONCACAF 골드컵에 진출한다.
 
 ## 조별 리그
 
@@ -235,7 +235,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Guatemala.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/과테말라_축구_국가대표팀" title="wikilink">과테말라</a></strong><br />
+<strong><a href="../Page/과테말라_축구_국가대표팀.md" title="wikilink">과테말라</a></strong><br />
 <strong>1번째 우승</strong></p></td>
 </tr>
 </tbody>

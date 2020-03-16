@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [DIA TV](https://ko.wikipedia.org/wiki/DIA_TV).
 
 
-**DIA TV** (다이아 TV)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [CJ ENM에서](https://ko.wikipedia.org/wiki/CJ_ENM "wikilink") 운영하는 [크리에이터](https://ko.wikipedia.org/wiki/크리에이터 "wikilink") 전문 채널이다.
+**DIA TV** (다이아 TV)는 [대한민국](../Page/대한민국.md "wikilink")의 [CJ ENM에서](https://ko.wikipedia.org/wiki/CJ_ENM "wikilink") 운영하는 [크리에이터](../Page/크리에이터.md "wikilink") 전문 채널이다.
 
-## DIA TV 소속 [유튜버](https://ko.wikipedia.org/wiki/유튜버 "wikilink")
+## DIA TV 소속 [유튜버](../Page/유튜버.md "wikilink")
 
 ### 게임
 
-  - [보겸tv](https://ko.wikipedia.org/wiki/김보겸 "wikilink")
+  - [보겸tv](../Page/김보겸.md "wikilink")
   - 재넌
   - 감스트
   - 테스터훈Tester Hoon
@@ -62,7 +62,7 @@
   - 소근커플
   - 수상한 녀석들
   - [박막례](https://ko.wikipedia.org/wiki/박막례 "wikilink") 할머니
-  - [박미선](https://ko.wikipedia.org/wiki/박미선 "wikilink")
+  - [박미선](../Page/박미선.md "wikilink")
   - [윰댕](../Page/윰댕.md "wikilink")
   - 제니윤
   - 꽈뚜룹
@@ -76,7 +76,7 @@
   - 피아노 치는 이정환
   - 권민제
   - 김하나&변승주
-  - [펑티모](https://ko.wikipedia.org/wiki/펑티모 "wikilink")
+  - [펑티모](../Page/펑티모.md "wikilink")
   - 퇴경아 약먹자
 
 ### 푸드
@@ -131,7 +131,7 @@
   - 잠뜰TV part1
   - 소근커플
   - 달려라치킨 미니어쳐
-  - [수리노을](https://ko.wikipedia.org/wiki/수리노을 "wikilink") 탐묘생활
+  - [수리노을](../Page/수리노을.md "wikilink") 탐묘생활
   - 밴쯔로드
   - [꿀키](https://ko.wikipedia.org/wiki/꿀키 "wikilink") 심플레시피
   - Nado 먹을래
@@ -229,7 +229,7 @@
   - 씬X쑥 - 라이크를 환전하라
   - 쿡OR데드
   - 신채계약서
-  - [1MILLION Dance Studio](https://ko.wikipedia.org/wiki/원밀리언_댄스_스튜디오 "wikilink")
+  - [1MILLION Dance Studio](../Page/원밀리언_댄스_스튜디오.md "wikilink")
   - 소프 자취인 초간단 요리
   - DAL (DANA ASMR LIVE)
   - 대도서관 마인크래프트 실황
@@ -316,8 +316,8 @@
   - 대광이형(ULTIMATE SAVAGE WORKS)
   - 커튼콜 프로젝트
   - WE DANCE STUDIO TV
-  - [구해줘](https://ko.wikipedia.org/wiki/구해줘 "wikilink") (OCN에서 종영된 드라마)
-  - [듀얼](https://ko.wikipedia.org/wiki/듀얼_\(드라마\) "wikilink") (OCN에서 종영된 드라마)
+  - [구해줘](../Page/구해줘.md "wikilink") (OCN에서 종영된 드라마)
+  - [듀얼](../Page/듀얼_\(드라마\).md "wikilink") (OCN에서 종영된 드라마)
   - [또\! 오해영](../Page/또!_오해영.md "wikilink") (tvN 종영된 월화드라마)
   - 대도서관 토끼게임
   - 대도서관 골프공게임
@@ -333,7 +333,7 @@
   - DIA Travel 도쿄
   - DIA Travel 고효주
   - DIA Travel 블라디보스톡
-  - [로맨스가 필요해 2012](https://ko.wikipedia.org/wiki/로맨스가_필요해_2012 "wikilink")
+  - [로맨스가 필요해 2012](../Page/로맨스가_필요해_2012.md "wikilink")
   - 소프의 쓸고라면
   - 대신리뷰
   - 매력TV
@@ -356,7 +356,7 @@
   - 2 FACE 데이트
   - 홀스형 려권내라우
   - 오늘의 타로맨스
-  - [저, 운명의 사람입니다](https://ko.wikipedia.org/wiki/저,_운명의_사람입니다 "wikilink")
+  - [저, 운명의 사람입니다](../Page/저,_운명의_사람입니다.md "wikilink")
   - 공청회 (공정책 청년 회의소)
   - 리셋 프리스타일
   - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink") 디트로이드
@@ -364,20 +364,20 @@
   - 홀스형 좀비게임VR
   - 홀스형의 연예호러게임
   - 홀스형의 완다의 모험
-  - [켠김에 왕까지 2018](https://ko.wikipedia.org/wiki/켠김에_왕까지 "wikilink")
+  - [켠김에 왕까지 2018](../Page/켠김에_왕까지.md "wikilink")
   - 나의 개같은 연예
   - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink") 심해탐험 생존기
 
 ## 채널 번호
 
-  - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink")([올레 TV](https://ko.wikipedia.org/wiki/올레_TV "wikilink") 스카이라이프) 채널 160번
+  - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink")([올레 TV](../Page/올레_TV.md "wikilink") 스카이라이프) 채널 160번
   - [BTV](https://ko.wikipedia.org/wiki/BTV "wikilink")(IPTV) 채널 96번
-  - [올레 TV](https://ko.wikipedia.org/wiki/올레_TV "wikilink")(IPTV) 채널 72번
+  - [올레 TV](../Page/올레_TV.md "wikilink")(IPTV) 채널 72번
   - U+ TVG(IPTV) 채널 155번
   - 딜라이브(케이블) 채널 80번
   - 티브로드(케이블) 채널 76번
   - HCN(케이블) 채널 118번
-  - [LG헬로비전](https://ko.wikipedia.org/wiki/LG헬로비전 "wikilink")(케이블) 채널 58번
+  - [LG헬로비전](../Page/LG헬로비전.md "wikilink")(케이블) 채널 58번
 
 ## 외부 링크
 

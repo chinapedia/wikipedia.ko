@@ -3,7 +3,7 @@
 
 ## 리그기간
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") \~ [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 21일](https://ko.wikipedia.org/wiki/4월_21일 "wikilink")
+  - [2007년](../Page/2007년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink")
 
 ## 특이사항
 
@@ -11,7 +11,7 @@
 
 ## 진출자
 
-  - **오프라인 예선전** : [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 16일](https://ko.wikipedia.org/wiki/3월_16일 "wikilink"), [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink")
+  - **오프라인 예선전** : [2007년](../Page/2007년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink"), [3월 29일](../Page/3월_29일.md "wikilink")
 
 | 1조  | 2조  | 3조  | 4조  | 5조  | 6조  | 7조  | 8조  | 9조  | 10조 | 11조 | 12조 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,17 +21,17 @@
 
 ## 서바이버 토너먼트
 
-|    |                                                                   |                                                                   |                                                                   |                                                                   |                                                                   |
-| -- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 조  | 1경기                                                               | 2경기                                                               | 승자전                                                               | 패자전                                                               | 최종전                                                               |
-| A조 | **[박지호](https://ko.wikipedia.org/wiki/박지호_\(1985년\) "wikilink")** | [김성진](https://ko.wikipedia.org/wiki/김성진_\(1987년\) "wikilink")     | [최연성](https://ko.wikipedia.org/wiki/최연성 "wikilink")               | **[김남기](https://ko.wikipedia.org/wiki/김남기_\(프로게이머\) "wikilink")** | [박지호](https://ko.wikipedia.org/wiki/박지호_\(1985년\) "wikilink")     |
-| B조 | [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")               | **[박정욱](https://ko.wikipedia.org/wiki/박정욱_\(프로게이머\) "wikilink")** | [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink")               | **[박찬수](https://ko.wikipedia.org/wiki/박찬수 "wikilink")**           | **[박정욱](https://ko.wikipedia.org/wiki/박정욱_\(프로게이머\) "wikilink")** |
-| C조 | [심소명](https://ko.wikipedia.org/wiki/심소명 "wikilink")               | **[김창희](https://ko.wikipedia.org/wiki/김창희_\(1989년\) "wikilink")** | [김준영](https://ko.wikipedia.org/wiki/김준영_\(프로게이머\) "wikilink")     | **[박성훈](https://ko.wikipedia.org/wiki/박성훈_\(프로게이머\) "wikilink")** | **[김창희](https://ko.wikipedia.org/wiki/김창희_\(1989년\) "wikilink")** |
-| D조 | [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")               | **[서경종](https://ko.wikipedia.org/wiki/서경종 "wikilink")**           | **[이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")**           | [박종수](https://ko.wikipedia.org/wiki/박종수_\(1988년\) "wikilink")     | [서경종](https://ko.wikipedia.org/wiki/서경종 "wikilink")               |
-| E조 | **[신희승](https://ko.wikipedia.org/wiki/신희승 "wikilink")**           | [박세정](https://ko.wikipedia.org/wiki/박세정 "wikilink")               | [박태민](https://ko.wikipedia.org/wiki/박태민_\(해설자\) "wikilink")       | **[안상원](https://ko.wikipedia.org/wiki/안상원_\(1987년\) "wikilink")** | [신희승](https://ko.wikipedia.org/wiki/신희승 "wikilink")               |
-| F조 | [김성기](https://ko.wikipedia.org/wiki/김성기_\(프로게이머\) "wikilink")     | **[이승훈](https://ko.wikipedia.org/wiki/이승훈_\(프로게이머\) "wikilink")** | **[전상욱](https://ko.wikipedia.org/wiki/전상욱_\(프로게이머\) "wikilink")** | [정영철](https://ko.wikipedia.org/wiki/정영철 "wikilink")               | **[이승훈](https://ko.wikipedia.org/wiki/이승훈_\(프로게이머\) "wikilink")** |
-| G조 | **[임동혁](https://ko.wikipedia.org/wiki/임동혁_\(프로게이머\) "wikilink")** | [김동주](https://ko.wikipedia.org/wiki/김동주_\(프로게이머\) "wikilink")     | [변형태](https://ko.wikipedia.org/wiki/변형태 "wikilink")               | **[송병구](https://ko.wikipedia.org/wiki/송병구 "wikilink")**           | [임동혁](https://ko.wikipedia.org/wiki/임동혁_\(프로게이머\) "wikilink")     |
-| H조 | [김민구](https://ko.wikipedia.org/wiki/김민구_\(프로게이머\) "wikilink")     | **[장용석](https://ko.wikipedia.org/wiki/장용석_\(프로게이머\) "wikilink")** | [김윤환](https://ko.wikipedia.org/wiki/김윤환_\(1989년\) "wikilink")     | **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")**           | **[장용석](https://ko.wikipedia.org/wiki/장용석_\(프로게이머\) "wikilink")** |
+|    |                                                                   |                                                                   |                                                               |                                                                   |                                                                   |
+| -- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 조  | 1경기                                                               | 2경기                                                               | 승자전                                                           | 패자전                                                               | 최종전                                                               |
+| A조 | **[박지호](../Page/박지호_\(1985년\).md "wikilink")**                    | [김성진](https://ko.wikipedia.org/wiki/김성진_\(1987년\) "wikilink")     | [최연성](../Page/최연성.md "wikilink")                              | **[김남기](../Page/김남기_\(프로게이머\).md "wikilink")**                    | [박지호](../Page/박지호_\(1985년\).md "wikilink")                        |
+| B조 | [이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")               | **[박정욱](../Page/박정욱_\(프로게이머\).md "wikilink")**                    | [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink")           | **[박찬수](https://ko.wikipedia.org/wiki/박찬수 "wikilink")**           | **[박정욱](../Page/박정욱_\(프로게이머\).md "wikilink")**                    |
+| C조 | [심소명](../Page/심소명.md "wikilink")                                  | **[김창희](https://ko.wikipedia.org/wiki/김창희_\(1989년\) "wikilink")** | [김준영](https://ko.wikipedia.org/wiki/김준영_\(프로게이머\) "wikilink") | **[박성훈](../Page/박성훈_\(프로게이머\).md "wikilink")**                    | **[김창희](https://ko.wikipedia.org/wiki/김창희_\(1989년\) "wikilink")** |
+| D조 | [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")               | **[서경종](../Page/서경종.md "wikilink")**                              | **[이성은](https://ko.wikipedia.org/wiki/이성은 "wikilink")**       | [박종수](../Page/박종수_\(1988년\).md "wikilink")                        | [서경종](../Page/서경종.md "wikilink")                                  |
+| E조 | **[신희승](../Page/신희승.md "wikilink")**                              | [박세정](../Page/박세정.md "wikilink")                                  | [박태민](https://ko.wikipedia.org/wiki/박태민_\(해설자\) "wikilink")   | **[안상원](https://ko.wikipedia.org/wiki/안상원_\(1987년\) "wikilink")** | [신희승](../Page/신희승.md "wikilink")                                  |
+| F조 | [김성기](../Page/김성기_\(프로게이머\).md "wikilink")                        | **[이승훈](../Page/이승훈_\(프로게이머\).md "wikilink")**                    | **[전상욱](../Page/전상욱_\(프로게이머\).md "wikilink")**                | [정영철](../Page/정영철.md "wikilink")                                  | **[이승훈](../Page/이승훈_\(프로게이머\).md "wikilink")**                    |
+| G조 | **[임동혁](https://ko.wikipedia.org/wiki/임동혁_\(프로게이머\) "wikilink")** | [김동주](../Page/김동주_\(프로게이머\).md "wikilink")                        | [변형태](https://ko.wikipedia.org/wiki/변형태 "wikilink")           | **[송병구](../Page/송병구.md "wikilink")**                              | [임동혁](https://ko.wikipedia.org/wiki/임동혁_\(프로게이머\) "wikilink")     |
+| H조 | [김민구](../Page/김민구_\(프로게이머\).md "wikilink")                        | **[장용석](../Page/장용석_\(프로게이머\).md "wikilink")**                    | [김윤환](../Page/김윤환_\(1989년\).md "wikilink")                    | **[임요환](../Page/임요환.md "wikilink")**                              | **[장용석](../Page/장용석_\(프로게이머\).md "wikilink")**                    |
 
 ## MSL 진출자 목록
 

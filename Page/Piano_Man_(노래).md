@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Piano Man \(\)](https://ko.wikipedia.org/wiki/Piano_Man_\(\)).
 
 
-〈**Piano Man**〉은 [빌리 조엘의](https://ko.wikipedia.org/wiki/빌리_조엘 "wikilink") 첫 번째 싱글이다. 이 곡은 1973년 11월 2일에 발매 되었으며, 《[Piano Man](https://ko.wikipedia.org/wiki/Piano_Man_\(음반\) "wikilink")》을 비롯한 빌리 조엘의 많은 음반에 수록되어있다. 빌리 조엘의 첫 번째 히트곡이자 대표곡인 이 곡은 1974년 4월 [빌보드 핫 100에서](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 25위에 올랐다.\[1\]\[2\]
+〈**Piano Man**〉은 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 첫 번째 싱글이다. 이 곡은 1973년 11월 2일에 발매 되었으며, 《[Piano Man](https://ko.wikipedia.org/wiki/Piano_Man_\(음반\) "wikilink")》을 비롯한 빌리 조엘의 많은 음반에 수록되어있다. 빌리 조엘의 첫 번째 히트곡이자 대표곡인 이 곡은 1974년 4월 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 25위에 올랐다.\[1\]\[2\]
 
 ## 개요
 
@@ -9,13 +9,13 @@
 
 "Piano Man"은 빌리 조엘 자신의 실제 경험을 바탕으로 작곡된 곡이다.\[3\] 스튜디오 배우의 말에 따르면 빌리 조엘은 회사와의 불화로 인해 그의 첫째 아내와 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 3년간 살아야 했다고 한다. 당시 그는 계약상의 문제로 가명을 사용할 수 밖에 없었다. 그래서 그는 "Bill Martin"이라는 가명으로 피아노 바에서 피아노를 연주하며 돈을 벌고 있었다.\[4\]
 
-빌리 조엘은 이 노래에 나오는 등장인물들이 모두 실존하는 사람이라고 말했다.\[5\] "John at the bar"에서 존은 빌리 조엘이 피아노를 연주하던 바의 바텐더이고 "Paul is a real estate novelist"에서 폴은 스스로 위대한 미국 소설이 될 것이라고 여기며 매일 밤 바에서 술을 마시는 소설가이다. "The waitress is practicing politics"에서 웨이트리스는 빌리 조엘의 첫째 아내 엘리자베스 베버를 가리키며, 그녀는 1972년 뉴욕에서 로스 앤젤레스로 이주했고, 빌리 조엘이 피아노를 연주하던 바에서 일했다.\[6\] 빌리 조엘은 그의 첫 번째 음반 *[Cold Spring Harbor](https://ko.wikipedia.org/wiki/Cold_Spring_Harbor "wikilink")*을 작업하기 위해 뉴욕에서 로스앤젤레스로 이주했으나, 이 앨범은 프로듀서의 녹음 실수로 인해 실패하고 만다. 이번 일을 통해 빌리 조엘은 패밀리 레코드사와 계약을 끊고 [컬럼비아 레코드사와](https://ko.wikipedia.org/wiki/컬럼비아_레코드 "wikilink") 계약을 하고 싶었으나, 쉽게 계약을 파기할 수는 없었다. 급기야 그는 컬럼비아 레코드사와 계약을 하기 전 까지 **빌리 마틴**이란 가명으로 호텔 바에서 노래를 부르며 생활했다.
+빌리 조엘은 이 노래에 나오는 등장인물들이 모두 실존하는 사람이라고 말했다.\[5\] "John at the bar"에서 존은 빌리 조엘이 피아노를 연주하던 바의 바텐더이고 "Paul is a real estate novelist"에서 폴은 스스로 위대한 미국 소설이 될 것이라고 여기며 매일 밤 바에서 술을 마시는 소설가이다. "The waitress is practicing politics"에서 웨이트리스는 빌리 조엘의 첫째 아내 엘리자베스 베버를 가리키며, 그녀는 1972년 뉴욕에서 로스 앤젤레스로 이주했고, 빌리 조엘이 피아노를 연주하던 바에서 일했다.\[6\] 빌리 조엘은 그의 첫 번째 음반 *[Cold Spring Harbor](https://ko.wikipedia.org/wiki/Cold_Spring_Harbor "wikilink")*을 작업하기 위해 뉴욕에서 로스앤젤레스로 이주했으나, 이 앨범은 프로듀서의 녹음 실수로 인해 실패하고 만다. 이번 일을 통해 빌리 조엘은 패밀리 레코드사와 계약을 끊고 [컬럼비아 레코드사와](../Page/컬럼비아_레코드.md "wikilink") 계약을 하고 싶었으나, 쉽게 계약을 파기할 수는 없었다. 급기야 그는 컬럼비아 레코드사와 계약을 하기 전 까지 **빌리 마틴**이란 가명으로 호텔 바에서 노래를 부르며 생활했다.
 
 ### 발매
 
 이 곡은 처음에 1973년 11월 2일 싱글로서 발매되었고, 그 다음으로는 《[Piano Man](https://ko.wikipedia.org/wiki/Piano_Man_\(음반\) "wikilink")》의 2번 트랙으로, 나중에는 컴필레이션 앨범으로 여러번 재발매되었다.
 
-이 곡은 원래 5분 33초 분량인데 컬럼비아 레코드에서는 분량이 너무 길다고 여겨 빌리 조엘의 동의 없이 2절 반 이상을 편집하고 길이도 4분 33초 분량으로 줄여 발매되었다. 나중에 빌리 조엘이 〈[The Enteretainer](https://ko.wikipedia.org/wiki/The_Enteretainer "wikilink")〉에서 "It was a beautiful song, but it ran too long / If you're gonna have a hit, you gotta make it fit / So they cut it down to 3:05."라는 가사를 통해 그 당시 상황을 표현했다. 유럽에서 발매된 4분 33초짜리 싱글 믹스 버전의 Piano Man은 《[Piano Man: The Very Best of Billy Joel](https://ko.wikipedia.org/wiki/Piano_Man:_The_Very_Best_of_Billy_Joel "wikilink")》에만 수록되었다.
+이 곡은 원래 5분 33초 분량인데 컬럼비아 레코드에서는 분량이 너무 길다고 여겨 빌리 조엘의 동의 없이 2절 반 이상을 편집하고 길이도 4분 33초 분량으로 줄여 발매되었다. 나중에 빌리 조엘이 〈[The Enteretainer](https://ko.wikipedia.org/wiki/The_Enteretainer "wikilink")〉에서 "It was a beautiful song, but it ran too long / If you're gonna have a hit, you gotta make it fit / So they cut it down to 3:05."라는 가사를 통해 그 당시 상황을 표현했다. 유럽에서 발매된 4분 33초짜리 싱글 믹스 버전의 Piano Man은 《[Piano Man: The Very Best of Billy Joel](../Page/Piano_Man:_The_Very_Best_of_Billy_Joel.md "wikilink")》에만 수록되었다.
 
 ## 구성
 
@@ -52,7 +52,7 @@
 <td><p>10</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드_핫_100" title="wikilink">빌보드 핫 100</a></p></td>
+<td><p><a href="../Page/빌보드_핫_100.md" title="wikilink">빌보드 핫 100</a></p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="even">

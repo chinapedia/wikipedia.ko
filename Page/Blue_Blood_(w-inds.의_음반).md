@@ -23,8 +23,8 @@
 
 ## 차트 성적
 
-  - 오리콘 앨범 데일리 차트 9위를 기록하였다 ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")) ([7월 8일](https://ko.wikipedia.org/wiki/7월_8일 "wikilink"))
-  - 오리콘 앨범 위클리 차트 11위를 기록하였다. ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")) ([7월 20일](https://ko.wikipedia.org/wiki/7월_20일 "wikilink"))
+  - 오리콘 앨범 데일리 차트 9위를 기록하였다 ([2015년](../Page/2015년.md "wikilink")) ([7월 8일](../Page/7월_8일.md "wikilink"))
+  - 오리콘 앨범 위클리 차트 11위를 기록하였다. ([2015년](../Page/2015년.md "wikilink")) ([7월 20일](../Page/7월_20일.md "wikilink"))
 
 ## 타이업
 

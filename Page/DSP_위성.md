@@ -13,7 +13,7 @@
 
 [지구동기궤도](https://ko.wikipedia.org/wiki/지구동기궤도 "wikilink")([:en:Geosynchronous orbit](https://ko.wikipedia.org/wiki/:en:Geosynchronous_orbit "wikilink"), GSO) 적외선 탐지위성으로, 미사일, 우주발사체, 핵폭발을 적외선 카메라로 탐지한다. 1990년 [사막의 폭풍 작전에서](https://ko.wikipedia.org/wiki/사막의_폭풍_작전 "wikilink") DSP 위성은 이라크군의 [스커드 미사일](https://ko.wikipedia.org/wiki/스커드_미사일 "wikilink") 발사를 탐지해 이스라엘과 사우디아라비아에 즉시 알려주었다.
 
-23번째 마지막 DSP 위성은 2007년 [델타 IV 헤비](https://ko.wikipedia.org/wiki/델타_IV "wikilink") 로켓으로 발사되었다. 2005년 타이탄 4호가 퇴역해서 발사체를 변경했다. [노스롭 그루만](https://ko.wikipedia.org/wiki/노스롭_그루만 "wikilink")(예전의 [TRW](https://ko.wikipedia.org/wiki/TRW "wikilink"))에서 제작했다.
+23번째 마지막 DSP 위성은 2007년 [델타 IV 헤비](../Page/델타_IV.md "wikilink") 로켓으로 발사되었다. 2005년 타이탄 4호가 퇴역해서 발사체를 변경했다. [노스롭 그루만](https://ko.wikipedia.org/wiki/노스롭_그루만 "wikilink")(예전의 [TRW](https://ko.wikipedia.org/wiki/TRW "wikilink"))에서 제작했다.
 
 ## 개량형
 
@@ -27,7 +27,7 @@
 
   - [미다스 위성](https://ko.wikipedia.org/wiki/미다스_위성 "wikilink") - 1960년대 미국 최초의 조기경보위성, 12개 발사
   - DSP 위성 - 미다스를 대체하기 위해 개발된 1970년대 미국의 조기경보위성, 정지궤도 23개 발사
-  - [SBIRS 위성](https://ko.wikipedia.org/wiki/우주_적외선_시스템 "wikilink") - 2000년대 미국의 조기경보위성, 정지궤도 4개, 저궤도 24개로 구성
+  - [SBIRS 위성](../Page/우주_적외선_시스템.md "wikilink") - 2000년대 미국의 조기경보위성, 정지궤도 4개, 저궤도 24개로 구성
 
 ## 대한민국
 

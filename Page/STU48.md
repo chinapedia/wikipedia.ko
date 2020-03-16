@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [STU48](https://ko.wikipedia.org/wiki/STU48).
 
 
-**STU48**(에스티유포티에이트)는 [아키모토 야스시의](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 완전 프로듀스에 의해 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")에 탄생한 [세토우치 지방을](https://ko.wikipedia.org/wiki/세토우치_지방 "wikilink") 중심으로 활동하는 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
+**STU48**(에스티유포티에이트)는 [아키모토 야스시의](../Page/아키모토_야스시.md "wikilink") 완전 프로듀스에 의해 [2017년](../Page/2017년.md "wikilink")에 탄생한 [세토우치 지방을](https://ko.wikipedia.org/wiki/세토우치_지방 "wikilink") 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
 
 ## 개요
 
-  - [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") [치요다 구의](https://ko.wikipedia.org/wiki/치요다_구 "wikilink") 아키하바라를 거점으로 하는 [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")\[1\], [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink") [나고야 시의](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 사카에를 거점으로 하는 [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink"), [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") [오사카 시의](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 난바를 거점으로 하는 [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink"), [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink") [후쿠오카 시의](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 하카타에 거점으로 하는 [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink"), [니이가타 현](https://ko.wikipedia.org/wiki/니가타현 "wikilink") [니이가타 시를](https://ko.wikipedia.org/wiki/니가타_시 "wikilink") 검으로 하는 [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")에 이어 계속되는 전국 전개 제6탄으로서 [세토우치 지방](https://ko.wikipedia.org/wiki/세토우치_지방 "wikilink")([효고현](https://ko.wikipedia.org/wiki/효고현 "wikilink"), [오카야마현](https://ko.wikipedia.org/wiki/오카야마현 "wikilink"), [히로시마현](https://ko.wikipedia.org/wiki/히로시마현 "wikilink"), [야마구치현](https://ko.wikipedia.org/wiki/야마구치현 "wikilink"), [도쿠시마현](https://ko.wikipedia.org/wiki/도쿠시마현 "wikilink"), [가가와현](https://ko.wikipedia.org/wiki/가가와현 "wikilink"), [에히메현](https://ko.wikipedia.org/wiki/에히메현 "wikilink"))이 선택되었다. AKB48 그룹의 활동의 기둥인 극장은 "선상극장"이 된다.
+  - [도쿄도](../Page/도쿄도.md "wikilink") [치요다 구의](https://ko.wikipedia.org/wiki/치요다_구 "wikilink") 아키하바라를 거점으로 하는 [AKB48](../Page/AKB48.md "wikilink")\[1\], [아이치현](../Page/아이치현.md "wikilink") [나고야 시의](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 사카에를 거점으로 하는 [SKE48](../Page/SKE48.md "wikilink"), [오사카부](../Page/오사카부.md "wikilink") [오사카 시의](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 난바를 거점으로 하는 [NMB48](../Page/NMB48.md "wikilink"), [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카 시의](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 하카타에 거점으로 하는 [HKT48](../Page/HKT48.md "wikilink"), [니이가타 현](../Page/니가타현.md "wikilink") [니이가타 시를](https://ko.wikipedia.org/wiki/니가타_시 "wikilink") 검으로 하는 [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")에 이어 계속되는 전국 전개 제6탄으로서 [세토우치 지방](https://ko.wikipedia.org/wiki/세토우치_지방 "wikilink")([효고현](../Page/효고현.md "wikilink"), [오카야마현](../Page/오카야마현.md "wikilink"), [히로시마현](../Page/히로시마현.md "wikilink"), [야마구치현](../Page/야마구치현.md "wikilink"), [도쿠시마현](../Page/도쿠시마현.md "wikilink"), [가가와현](../Page/가가와현.md "wikilink"), [에히메현](../Page/에히메현.md "wikilink"))이 선택되었다. AKB48 그룹의 활동의 기둥인 극장은 "선상극장"이 된다.
   - 「STU」라는 이름은 [세토우치 지방](https://ko.wikipedia.org/wiki/세토우치_지방 "wikilink")(**S**e**T**o**U**chi)에 유래한다.
   - 운영 회사는 많은 AKB48 그룹이 소속 된 주식회사 AKS 대신 일반 사단 법인 ' 세토 우치 관광 추진기구」와 주식회사 「세토 우치 브랜드 코퍼레이션'로 구성된 「세토 우치 DMO "이 출자하는 주식회사 STU 이다
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink"), 〈AKB48 그룹 유닛 싱글 쟁탈 가위 바위보 대회 in [고베 월드 기념 홀](https://ko.wikipedia.org/wiki/고베_월드_기념_홀 "wikilink")〉에서 그 결성이 발표되었으며, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 중 오디션 개최 및 동년 [여름](https://ko.wikipedia.org/wiki/여름 "wikilink")에 활동할 예정이다\[2\].
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink"), [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink") 팀4 부캡틴 [오카다 나나가](../Page/오카다_나나.md "wikilink") STU48화 겸임함을 자신의 SHOWROOM에서 발표와 동시에 [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink") 방송의 〈[AKB48의 올나잇 닛폰](https://ko.wikipedia.org/wiki/AKB48의_올나잇_닛폰 "wikilink")〉([닛폰 방송](https://ko.wikipedia.org/wiki/닛폰_방송 "wikilink"))에서 캡틴으로 임명됐다. 같은 방송에서 [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink") 팀H 및 HKT48 극장 지배인 [사시하라 리노의](https://ko.wikipedia.org/wiki/사시하라_리노 "wikilink") STU48 겸임과 이 극장의 지배인으로 임명되는 것도 발표됐다\[3\]\[4\].
-  - 동년 [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink"), 1기생 멤버 오디션에서 44명이 최종 선발됐다\[5\].
-  - 동년 [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink"), 공식 홈페이지에서 1기생 31명의 프로필이 공개되었다.
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink"), [킹레코드로부터](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") 메이저 데뷔 싱글이 발매.
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 16일](https://ko.wikipedia.org/wiki/4월_16일 "wikilink"), 선상극장인 "STU48호"가 정식 출항. 히로시마항 히로시마 국제페리포트에서 첫 번째 선상공연 〈GO\! GO\! little SEABIRDS\!\!〉가 개최.
+  - [2016년](../Page/2016년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink"), 〈AKB48 그룹 유닛 싱글 쟁탈 가위 바위보 대회 in [고베 월드 기념 홀](https://ko.wikipedia.org/wiki/고베_월드_기념_홀 "wikilink")〉에서 그 결성이 발표되었으며, [2017년](../Page/2017년.md "wikilink") [1월](../Page/1월.md "wikilink") 중 오디션 개최 및 동년 [여름](../Page/여름.md "wikilink")에 활동할 예정이다\[2\].
+  - [2017년](../Page/2017년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink"), [AKB48](../Page/AKB48.md "wikilink") 팀4 부캡틴 [오카다 나나가](../Page/오카다_나나.md "wikilink") STU48화 겸임함을 자신의 SHOWROOM에서 발표와 동시에 [2월 23일](../Page/2월_23일.md "wikilink") 방송의 〈[AKB48의 올나잇 닛폰](https://ko.wikipedia.org/wiki/AKB48의_올나잇_닛폰 "wikilink")〉([닛폰 방송](../Page/닛폰_방송.md "wikilink"))에서 캡틴으로 임명됐다. 같은 방송에서 [HKT48](../Page/HKT48.md "wikilink") 팀H 및 HKT48 극장 지배인 [사시하라 리노의](../Page/사시하라_리노.md "wikilink") STU48 겸임과 이 극장의 지배인으로 임명되는 것도 발표됐다\[3\]\[4\].
+  - 동년 [3월 20일](../Page/3월_20일.md "wikilink"), 1기생 멤버 오디션에서 44명이 최종 선발됐다\[5\].
+  - 동년 [3월 31일](../Page/3월_31일.md "wikilink"), 공식 홈페이지에서 1기생 31명의 프로필이 공개되었다.
+  - [2018년](../Page/2018년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink"), [킹레코드로부터](../Page/킹레코드_\(일본\).md "wikilink") 메이저 데뷔 싱글이 발매.
+  - [2019년](../Page/2019년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink"), 선상극장인 "STU48호"가 정식 출항. 히로시마항 히로시마 국제페리포트에서 첫 번째 선상공연 〈GO\! GO\! little SEABIRDS\!\!〉가 개최.
 
 ## 멤버
 
@@ -51,7 +51,7 @@
 <td><p>いしだ ちほ</p></td>
 <td></td>
 <td><p>1기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/히로시마현" title="wikilink">히로시마현</a></p></td>
+<td><p><a href="../Page/히로시마현.md" title="wikilink">히로시마현</a></p></td>
 <td><p>STU</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -61,7 +61,7 @@
 <td><p>石田みなみ</p></td>
 <td><p>いしだ みなみ</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/효고현" title="wikilink">효고현</a></p></td>
+<td><p><a href="../Page/효고현.md" title="wikilink">효고현</a></p></td>
 <td><p>STU</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -72,7 +72,7 @@
 <td><p>磯貝花音</p></td>
 <td><p>いそがい かのん</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이치현" title="wikilink">아이치현</a></p></td>
+<td><p><a href="../Page/아이치현.md" title="wikilink">아이치현</a></p></td>
 <td><p>STU</p></td>
 <td><p>2020년 3월 25일 졸업예정</p></td>
 <td></td>
@@ -94,7 +94,7 @@
 <td><p>岩田陽菜</p></td>
 <td><p>いわた ひな</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/야마구치현" title="wikilink">야마구치현</a></p></td>
+<td><p><a href="../Page/야마구치현.md" title="wikilink">야마구치현</a></p></td>
 <td><p>STU</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -120,7 +120,7 @@
 <td><p>가나가와 현</p></td>
 <td><p>AKS</p></td>
 <td><p>초대 캡틴<br />
-<a href="https://ko.wikipedia.org/wiki/AKB48" title="wikilink">AKB48</a> 팀4</p></td>
+<a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀4</p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="odd">
@@ -183,7 +183,7 @@
 <td><p>田中皓子</p></td>
 <td><p>たなか こうこ</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사가현" title="wikilink">사가현</a></p></td>
+<td><p><a href="../Page/사가현.md" title="wikilink">사가현</a></p></td>
 <td><p>STU</p></td>
 <td><p>최연장자</p></td>
 <td></td>
@@ -227,7 +227,7 @@
 <td><p>藤原あずさ</p></td>
 <td><p>ふじわら あずさ</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오카야마현" title="wikilink">오카야마현</a></p></td>
+<td><p><a href="../Page/오카야마현.md" title="wikilink">오카야마현</a></p></td>
 <td><p>STU</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -273,7 +273,7 @@
 <td></td>
 <td><p>오사카 부</p></td>
 <td><p>STU</p></td>
-<td><p>언니는 <a href="../Page/야부시타_슈.md" title="wikilink">야부시타 슈</a> (전 <a href="https://ko.wikipedia.org/wiki/NMB48" title="wikilink">NMB48</a>)</p></td>
+<td><p>언니는 <a href="../Page/야부시타_슈.md" title="wikilink">야부시타 슈</a> (전 <a href="../Page/NMB48.md" title="wikilink">NMB48</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -697,18 +697,18 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사시하라_리노" title="wikilink">사시하라 리노</a></p></td>
+<td><p><a href="../Page/사시하라_리노.md" title="wikilink">사시하라 리노</a></p></td>
 <td><p>指原莉乃</p></td>
 <td><p>さしはら りの</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오이타현" title="wikilink">오이타현</a></p></td>
+<td><p><a href="../Page/오이타현.md" title="wikilink">오이타현</a></p></td>
 <td><p>2017년 11월 25일</p></td>
 <td><p>오오타 프로덕션</p></td>
-<td><p>2017년 2월 23일부터 겸임해제까지 <a href="https://ko.wikipedia.org/wiki/HKT48" title="wikilink">HKT48</a> 팀H 겸임<br />
+<td><p>2017년 2월 23일부터 겸임해제까지 <a href="../Page/HKT48.md" title="wikilink">HKT48</a> 팀H 겸임<br />
 전 STU48 극장 지배인<br />
 전 AKB48 팀B→A<br />
-<a href="https://ko.wikipedia.org/wiki/=LOVE" title="wikilink">=LOVE</a>, <a href="https://ko.wikipedia.org/wiki/≠ME" title="wikilink">≠ME</a>의 프로듀서</p></td>
+<a href="../Page/=LOVE.md" title="wikilink">=LOVE</a>, <a href="https://ko.wikipedia.org/wiki/≠ME" title="wikilink">≠ME</a>의 프로듀서</p></td>
 <td><p>1위</p></td>
 </tr>
 <tr class="odd">
@@ -731,7 +731,7 @@
 <td><p>오카야마 현</p></td>
 <td><p>2018년 4월 15일</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/중화인민공화국" title="wikilink">중국</a> 국적</p></td>
+<td><p><a href="../Page/중화인민공화국.md" title="wikilink">중국</a> 국적</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -740,7 +740,7 @@
 <td><p>塩井日奈子</p></td>
 <td><p>しおい ひなこ</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고치현" title="wikilink">고치현</a></p></td>
+<td><p><a href="../Page/고치현.md" title="wikilink">고치현</a></p></td>
 <td><p>2018년 7월 22일</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -752,7 +752,7 @@
 <td><p>佐野遥</p></td>
 <td><p>さの はるか</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카부" title="wikilink">오사카부</a></p></td>
+<td><p><a href="../Page/오사카부.md" title="wikilink">오사카부</a></p></td>
 <td><p>2019년 4월 13일</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -776,7 +776,7 @@
 <td><p>市岡愛弓</p></td>
 <td><p>いちおか あゆみ</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카현" title="wikilink">후쿠오카현</a></p></td>
+<td><p><a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카현</a></p></td>
 <td><p>2019년 8월 11일</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -788,7 +788,7 @@
 <td><p>門田桃奈</p></td>
 <td><p>かどた ももな</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에히메현" title="wikilink">에히메현</a></p></td>
+<td><p><a href="../Page/에히메현.md" title="wikilink">에히메현</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -824,7 +824,7 @@
 <td><p>森香穂</p></td>
 <td><p>もり かほ</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미에현" title="wikilink">미에현</a></p></td>
+<td><p><a href="../Page/미에현.md" title="wikilink">미에현</a></p></td>
 <td><p>2019년 12월 12일</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -929,7 +929,7 @@
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2018년 1월 31일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/어둠_(노래)" title="wikilink">暗闇</a></strong><br />
+<td><p><strong><a href="../Page/어둠_(노래).md" title="wikilink">暗闇</a></strong><br />
 <small>어둠</small></p></td>
 <td><p>1</p></td>
 </tr>
@@ -980,7 +980,7 @@
 <td><p>2017년 5월 31일</p></td>
 <td><p>瀬戸内の声<br />
 <small>세토우치의 소리</small></p></td>
-<td><p>AKB48 48th 싱글 〈<a href="https://ko.wikipedia.org/wiki/소원을_간직할_뿐" title="wikilink">소원을 간직할 뿐</a>〉 극장반 수록</p></td>
+<td><p>AKB48 48th 싱글 〈<a href="../Page/소원을_간직할_뿐.md" title="wikilink">소원을 간직할 뿐</a>〉 극장반 수록</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -1009,10 +1009,10 @@
 
 #### 콘서트
 
-| 순서 | 타이틀                   | 의미              | 발매일                                                                                                               |
-| -- | --------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1  | STU48 2nd Anniversary | STU48 2nd 애니버서리 | [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink") |
-|    |                       |                 |                                                                                                                   |
+| 순서 | 타이틀                   | 의미              | 발매일                                                                         |
+| -- | --------------------- | --------------- | --------------------------------------------------------------------------- |
+| 1  | STU48 2nd Anniversary | STU48 2nd 애니버서리 | [2019년](../Page/2019년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") |
+|    |                       |                 |                                                                             |
 
 ## 관련 항목
 
@@ -1020,10 +1020,10 @@
 
 <!-- end list -->
 
-  - [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")
-  - [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
-  - [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink")
-  - [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink")
+  - [AKB48](../Page/AKB48.md "wikilink")
+  - [SKE48](../Page/SKE48.md "wikilink")
+  - [NMB48](../Page/NMB48.md "wikilink")
+  - [HKT48](../Page/HKT48.md "wikilink")
   - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
 
 <!-- end list -->
@@ -1032,15 +1032,15 @@
 
 <!-- end list -->
 
-  - [JKT48](https://ko.wikipedia.org/wiki/JKT48 "wikilink")
+  - [JKT48](../Page/JKT48.md "wikilink")
   - [BNK48](../Page/BNK48.md "wikilink")
   - [MNL48](../Page/MNL48.md "wikilink")
-  - [AKB48 Team SH](https://ko.wikipedia.org/wiki/AKB48_Team_SH "wikilink")
-  - [AKB48 Team TP](https://ko.wikipedia.org/wiki/AKB48_Team_TP "wikilink")
-  - [SGO48](https://ko.wikipedia.org/wiki/SGO48 "wikilink")
+  - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
+  - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
+  - [SGO48](../Page/SGO48.md "wikilink")
   - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
   - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
-  - [MUB48](https://ko.wikipedia.org/wiki/MUB48 "wikilink")
+  - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주
 

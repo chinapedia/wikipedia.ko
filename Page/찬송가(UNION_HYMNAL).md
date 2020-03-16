@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [\(UNION HYMNAL\)](https://ko.wikipedia.org/wiki/\(UNION_HYMNAL\)).
 
 
-**찬송가(UNION HYMNAL)**는 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [동작구](https://ko.wikipedia.org/wiki/동작구 "wikilink") 상도로 369 [숭실대학교 한국기독교박물관에](https://ko.wikipedia.org/wiki/숭실대학교_한국기독교박물관 "wikilink") 있는 찬송가이다. 2016년 12월 15일 등록 예고\[1\]를 거쳐, 2017년 2월 15일 [대한민국의 국가등록문화재](https://ko.wikipedia.org/wiki/대한민국의_국가등록문화재 "wikilink") 제675호로 지정되었다.\[2\]
+**찬송가(UNION HYMNAL)**는 [서울특별시](../Page/서울특별시.md "wikilink") [동작구](https://ko.wikipedia.org/wiki/동작구 "wikilink") 상도로 369 [숭실대학교 한국기독교박물관에](https://ko.wikipedia.org/wiki/숭실대학교_한국기독교박물관 "wikilink") 있는 찬송가이다. 2016년 12월 15일 등록 예고\[1\]를 거쳐, 2017년 2월 15일 [대한민국의 국가등록문화재](https://ko.wikipedia.org/wiki/대한민국의_국가등록문화재 "wikilink") 제675호로 지정되었다.\[2\]
 
 ## 개요
 

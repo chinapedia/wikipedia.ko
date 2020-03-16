@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1997 UNCAF ](https://ko.wikipedia.org/wiki/1997_UNCAF_).
 
 
-**1997년 UNCAF 네이션스컵**(1997 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 4번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [4월 17일부터](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") [4월 27일까지](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") [과테말라](https://ko.wikipedia.org/wiki/과테말라 "wikilink")에서 개최되었다. 이 대회는 [1998년 CONCACAF 골드컵의](https://ko.wikipedia.org/wiki/1998년_CONCACAF_골드컵 "wikilink") 중앙아메리카 예선을 겸한다.
+**1997년 UNCAF 네이션스컵**(1997 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 4번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [1997년](../Page/1997년.md "wikilink") [4월 17일부터](../Page/4월_17일.md "wikilink") [4월 27일까지](../Page/4월_27일.md "wikilink") [과테말라](../Page/과테말라.md "wikilink")에서 개최되었다. 이 대회는 [1998년 CONCACAF 골드컵의](../Page/1998년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.
 
 우승 팀부터 4위 팀까지는 CONCACAF 골드컵 본선에 진출한다. {{-}}
 
@@ -228,7 +228,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:State_Flag_of_Costa_Rica_(1964-1998).svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/코스타리카_축구_국가대표팀" title="wikilink">코스타리카</a></strong><br />
+<strong><a href="../Page/코스타리카_축구_국가대표팀.md" title="wikilink">코스타리카</a></strong><br />
 <strong>2번째 우승</strong></p></td>
 </tr>
 </tbody>

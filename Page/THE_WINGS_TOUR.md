@@ -35,7 +35,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 3월 11일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/산티아고" title="wikilink">산티아고</a></strong></p></td>
+<td><p><strong><a href="../Page/산티아고.md" title="wikilink">산티아고</a></strong></p></td>
 <td></td>
 <td><p>모비스타 아레나</p></td>
 </tr>
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 3월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상파울루" title="wikilink">상파울루</a></p></td>
+<td><p><a href="../Page/상파울루.md" title="wikilink">상파울루</a></p></td>
 <td></td>
 <td><p>시티뱅크 홀</p></td>
 </tr>
@@ -71,13 +71,13 @@
 </tr>
 <tr class="even">
 <td><p>2017년 3월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고" title="wikilink">시카고</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올스테이트_아레나" title="wikilink">올스테이트 아레나</a></p></td>
+<td><p><a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
+<td><p><a href="../Page/올스테이트_아레나.md" title="wikilink">올스테이트 아레나</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017년 4월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애너하임" title="wikilink">애너하임</a></p></td>
+<td><p><a href="../Page/애너하임.md" title="wikilink">애너하임</a></p></td>
 <td><p><a href="../Page/혼다_센터.md" title="wikilink">혼다 센터</a></p></td>
 <td></td>
 </tr>
@@ -89,7 +89,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017년 4월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임팩트 아레나</p></td>
 </tr>
@@ -101,13 +101,13 @@
 </tr>
 <tr class="odd">
 <td><p>2017년 4월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자카르타" title="wikilink">자카르타</a></p></td>
+<td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
 <td><p>인도네시아 컨벤션 엑서비션</p></td>
 </tr>
 <tr class="even">
 <td><p>2017년 5월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<td><p><a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td></td>
 <td><p>몰 오브 아시아 아레나</p></td>
 </tr>
@@ -119,7 +119,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 5월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a></p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td></td>
 <td><p>아시아월드-엑스포, 아레나</p></td>
 </tr>
@@ -131,7 +131,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 5월 26일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시드니" title="wikilink">시드니</a></p></td>
+<td><p><a href="../Page/시드니.md" title="wikilink">시드니</a></p></td>
 <td></td>
 <td><p>쿠도스 뱅크 아레나</p></td>
 </tr>
@@ -216,7 +216,7 @@
 <tr class="even">
 <td><p>2017년 10월 14일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a></p></td>
+<td><p><a href="../Page/일본.md" title="wikilink">일본</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Kyocera_dome" title="wikilink">쿄세라 돔</a></p></td>
 </tr>
 <tr class="odd">
@@ -239,7 +239,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 11월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마카오" title="wikilink">마카오</a></p></td>
+<td><p><a href="../Page/마카오.md" title="wikilink">마카오</a></p></td>
 <td></td>
 <td><p>Cotai Arena</p></td>
 </tr>

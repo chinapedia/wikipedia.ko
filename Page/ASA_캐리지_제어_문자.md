@@ -3,7 +3,7 @@
 
 **ASA 제어 문자**(ASA carriage control characters)는 [라인 프린터를](https://ko.wikipedia.org/wiki/라인_프린터 "wikilink") 통해 용지의 이동을 제어하기 위해 사용되는 단순 인쇄 명령 문자이다. 이 명령들은 출력할 각 문자 줄의 첫 열에 특수 문자로 표현하며, 줄이 인쇄되기 전에 용지가 어떻게 앞당겨지는지에 영향을 미친다.
 
-"ASA"(아사)는 [미국 국립 표준 협회](https://ko.wikipedia.org/wiki/미국_국립_표준_협회 "wikilink")(ANSI)의 과거 명칭인 미국표준협회(American Standards Association)의 준말로, 이 단체는 이러한 제어 문자들을 *ANSI X3.78-1981(R1992) representation of vertical carriage positioning characters in information interchange*로 표준화해오고 있다. 이 문자는 포트란 제어 문자(FORTRAN control characters)라고 하는데, 그 이유는 1960년대 초에 [포트란 II](https://ko.wikipedia.org/wiki/포트란 "wikilink") 버전에 첫 등장하였기 때문이며\[1\] 그 뒤로 [코볼](https://ko.wikipedia.org/wiki/코볼 "wikilink")과 [PL/I](https://ko.wikipedia.org/wiki/PL/I "wikilink")과 같은 다른 프로그래밍 언어에도 사용되고 있다.
+"ASA"(아사)는 [미국 국립 표준 협회](https://ko.wikipedia.org/wiki/미국_국립_표준_협회 "wikilink")(ANSI)의 과거 명칭인 미국표준협회(American Standards Association)의 준말로, 이 단체는 이러한 제어 문자들을 *ANSI X3.78-1981(R1992) representation of vertical carriage positioning characters in information interchange*로 표준화해오고 있다. 이 문자는 포트란 제어 문자(FORTRAN control characters)라고 하는데, 그 이유는 1960년대 초에 [포트란 II](../Page/포트란.md "wikilink") 버전에 첫 등장하였기 때문이며\[1\] 그 뒤로 [코볼](../Page/코볼.md "wikilink")과 [PL/I](https://ko.wikipedia.org/wiki/PL/I "wikilink")과 같은 다른 프로그래밍 언어에도 사용되고 있다.
 
 ## 동작
 
@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/공백_문자" title="wikilink">공백</a></p></td>
+<td><p><a href="../Page/공백_문자.md" title="wikilink">공백</a></p></td>
 <td><p>1줄 앞당김 (싱글 스페이스)</p></td>
 <td><p><code>CR </code><a href="https://ko.wikipedia.org/wiki/라인_피드" title="wikilink"><code>LF</code></a></p></td>
 </tr>

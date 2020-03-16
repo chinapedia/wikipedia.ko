@@ -27,11 +27,11 @@
 
 <!-- end list -->
 
-  - [나니](https://ko.wikipedia.org/wiki/나니 "wikilink")
+  - [나니](../Page/나니.md "wikilink")
 
   - [크리스티아누 호날두](https://ko.wikipedia.org/wiki/크리스티아누_호날두 "wikilink")
 
-  - [주자크 벌라주](https://ko.wikipedia.org/wiki/주자크_벌라주 "wikilink")
+  - [주자크 벌라주](../Page/주자크_벌라주.md "wikilink")
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
   - [비르키르 비아르드나손](../Page/비르키르_비아르드나손.md "wikilink")
 
-  - [길비 시귀르드손](https://ko.wikipedia.org/wiki/길비_시귀르드손 "wikilink")
+  - [길비 시귀르드손](../Page/길비_시귀르드손.md "wikilink")
 
   - [욘 다디 뵈드바르손](../Page/욘_다디_뵈드바르손.md "wikilink")
 
@@ -49,11 +49,11 @@
 
   - [알레산드로 쇠프](../Page/알레산드로_쇠프.md "wikilink")
 
-  - [설러이 아담](https://ko.wikipedia.org/wiki/설러이_아담 "wikilink")
+  - [설러이 아담](../Page/설러이_아담.md "wikilink")
 
   - [슈티에베르 졸탄](../Page/슈티에베르_졸탄.md "wikilink")
 
-  - [게러 졸탄](https://ko.wikipedia.org/wiki/게러_졸탄 "wikilink")
+  - [게러 졸탄](../Page/게러_졸탄.md "wikilink")
 
 <!-- end list -->
 
@@ -71,8 +71,8 @@
 
   - 홈 복장이 빨강계열인 3팀 (, , )이 같은 조에서 만났다.
 
-  - 은 2경기를 프랑스 동부에서 했다. (와의 경기는 [생테티엔](https://ko.wikipedia.org/wiki/생테티엔 "wikilink")에서, 와의 경기는 [리옹](https://ko.wikipedia.org/wiki/리옹 "wikilink")에서 경기했다.)
+  - 은 2경기를 프랑스 동부에서 했다. (와의 경기는 [생테티엔](../Page/생테티엔.md "wikilink")에서, 와의 경기는 [리옹](../Page/리옹.md "wikilink")에서 경기했다.)
 
-  - 는 2경기를 [수도권에서](https://ko.wikipedia.org/wiki/일드프랑스 "wikilink") 했다. (과의 경기는 수도 [파리에서](https://ko.wikipedia.org/wiki/파리_\(프랑스\) "wikilink"), 와의 경기는 일드프랑스 생상드니 주 [생드니](https://ko.wikipedia.org/wiki/생드니 "wikilink")에서 했다.)
+  - 는 2경기를 [수도권에서](../Page/일드프랑스.md "wikilink") 했다. (과의 경기는 수도 [파리에서](../Page/파리_\(프랑스\).md "wikilink"), 와의 경기는 일드프랑스 생상드니 주 [생드니](../Page/생드니.md "wikilink")에서 했다.)
 
 [분류:UEFA 유로 2016](https://ko.wikipedia.org/wiki/분류:UEFA_유로_2016 "wikilink")

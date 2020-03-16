@@ -29,13 +29,13 @@
 
   - [슈코드란 무스타피](../Page/슈코드란_무스타피.md "wikilink")
 
-  - [바스티안 슈바인슈타이거](https://ko.wikipedia.org/wiki/바스티안_슈바인슈타이거 "wikilink")
+  - [바스티안 슈바인슈타이거](../Page/바스티안_슈바인슈타이거.md "wikilink")
 
-  - [마리오 고메스](https://ko.wikipedia.org/wiki/마리오_고메스 "wikilink")
+  - [마리오 고메스](../Page/마리오_고메스.md "wikilink")
 
   - [아르카디우시 밀리크](../Page/아르카디우시_밀리크.md "wikilink")
 
-  - [야쿠프 브와슈치코프스키](https://ko.wikipedia.org/wiki/야쿠프_브와슈치코프스키 "wikilink")
+  - [야쿠프 브와슈치코프스키](../Page/야쿠프_브와슈치코프스키.md "wikilink")
 
   - [개러스 매컬리](https://ko.wikipedia.org/wiki/개러스_매컬리 "wikilink")
 
@@ -51,8 +51,8 @@
 
   - 는 무득점에다 완패로 조별리그에서 탈락했으며 이는 순위에서 꼴찌를 기록하는 계기가 되었다.
 
-  - 은 3경기 모두 프랑스 북부에서 했다. (와의 경기는 북부 끝에 있는 [릴](https://ko.wikipedia.org/wiki/릴 "wikilink")에서 경기했고, 와의 경기는 일드프랑스 생상드니 주에 있는 [생드니](https://ko.wikipedia.org/wiki/생드니 "wikilink")에서, 와의 경기는 수도 [파리에서](https://ko.wikipedia.org/wiki/파리_\(프랑스\) "wikilink") 경기했다.)
+  - 은 3경기 모두 프랑스 북부에서 했다. (와의 경기는 북부 끝에 있는 [릴](../Page/릴.md "wikilink")에서 경기했고, 와의 경기는 일드프랑스 생상드니 주에 있는 [생드니](../Page/생드니.md "wikilink")에서, 와의 경기는 수도 [파리에서](../Page/파리_\(프랑스\).md "wikilink") 경기했다.)
 
-  - 는 2경기를 지중해 인근에서 경기했다. (와의 경기는 [니스에서](https://ko.wikipedia.org/wiki/니스_\(프랑스\) "wikilink"), 와의 경기는 [마르세유](https://ko.wikipedia.org/wiki/마르세유 "wikilink")에서 경기했다.)
+  - 는 2경기를 지중해 인근에서 경기했다. (와의 경기는 [니스에서](../Page/니스_\(프랑스\).md "wikilink"), 와의 경기는 [마르세유](../Page/마르세유.md "wikilink")에서 경기했다.)
 
 [분류:UEFA 유로 2016](https://ko.wikipedia.org/wiki/분류:UEFA_유로_2016 "wikilink")

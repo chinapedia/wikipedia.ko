@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE    ](https://ko.wikipedia.org/wiki/WWE____).
 
 
-**WWE 유나이티드 킹덤 챔피언십 토너먼트** (WWE United Kingdom Championship Tournament)는 [트리플 H가](https://ko.wikipedia.org/wiki/트리플_H "wikilink") 미들급 디비젼의 [부활](https://ko.wikipedia.org/wiki/부활 "wikilink")을 위해 시행하는 [토너먼트](https://ko.wikipedia.org/wiki/토너먼트 "wikilink")로 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 아닌 인디단체에서 활동 중인 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink"), [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink"), [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink"), [웨일스](https://ko.wikipedia.org/wiki/웨일스 "wikilink") 출신 프로레슬러들이 출전하다.
+**WWE 유나이티드 킹덤 챔피언십 토너먼트** (WWE United Kingdom Championship Tournament)는 [트리플 H가](../Page/트리플_H.md "wikilink") 미들급 디비젼의 [부활](https://ko.wikipedia.org/wiki/부활 "wikilink")을 위해 시행하는 [토너먼트](https://ko.wikipedia.org/wiki/토너먼트 "wikilink")로 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 아닌 인디단체에서 활동 중인 [잉글랜드](../Page/잉글랜드.md "wikilink"), [스코틀랜드](../Page/스코틀랜드.md "wikilink"), [아일랜드](../Page/아일랜드.md "wikilink"), [웨일스](../Page/웨일스.md "wikilink") 출신 프로레슬러들이 출전하다.
 
 ## 개최지
 
@@ -17,13 +17,13 @@
 <tbody>
 <tr class="odd">
 <td><p>2017년 1월 14일~15일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/블랙풀" title="wikilink">블랙풀</a></p></td>
+<td><p><a href="../Page/블랙풀.md" title="wikilink">블랙풀</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엠프레스_볼룸" title="wikilink">엠프레스 볼룸</a></p></td>
 <td><p>타일러 베이</p></td>
 </tr>
 <tr class="even">
 <td><p>2018년 6월 18일~19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/런던" title="wikilink">런던</a></p></td>
+<td><p><a href="../Page/런던.md" title="wikilink">런던</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로열_앨버트_홀" title="wikilink">로열 앨버트 홀</a></p></td>
 <td><p>잭 깁슨</p></td>
 </tr>
@@ -123,7 +123,7 @@
 
 ### 시즌2
 
-  - 16강전은  [플로리다주](https://ko.wikipedia.org/wiki/플로리다주 "wikilink") [윈터파크](https://ko.wikipedia.org/wiki/윈터파크_\(플로리다주\) "wikilink") 풀세일 유니버시티에서 개최된다.
+  - 16강전은  [플로리다주](../Page/플로리다주.md "wikilink") [윈터파크](../Page/윈터파크_\(플로리다주\).md "wikilink") 풀세일 유니버시티에서 개최된다.
 
 ## 각주
 

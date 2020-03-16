@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love, Still - Seohyun](https://ko.wikipedia.org/wiki/Love,_Still_-_Seohyun).
 
 
-[SM TOWN의](https://ko.wikipedia.org/wiki/SM_TOWN "wikilink") 소극장 콘서트 브랜드 〈[THE AGIT](https://ko.wikipedia.org/wiki/THE_AGIT "wikilink")〉의 일환으로 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 [서현의](https://ko.wikipedia.org/wiki/서현_\(가수\) "wikilink") 단독 콘서트 테마이다.\[1\]
+[SM TOWN의](../Page/SM_TOWN.md "wikilink") 소극장 콘서트 브랜드 〈[THE AGIT](https://ko.wikipedia.org/wiki/THE_AGIT "wikilink")〉의 일환으로 [소녀시대](../Page/소녀시대.md "wikilink")의 [서현의](../Page/서현_\(가수\).md "wikilink") 단독 콘서트 테마이다.\[1\]
 
 ## 일정
 

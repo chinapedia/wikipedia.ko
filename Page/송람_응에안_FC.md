@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**송람 응에안**()는 [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink") [응에안 성을](https://ko.wikipedia.org/wiki/응에안_성 "wikilink") 연고로 하는 축구 클럽이다. [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")에 창단되었으며, 현재 베트남 축구 최상위 리그 [V리그 1에](https://ko.wikipedia.org/wiki/V리그_1 "wikilink") 소속되어 있다.
+**송람 응에안**()는 [베트남](../Page/베트남.md "wikilink") [응에안 성을](https://ko.wikipedia.org/wiki/응에안_성 "wikilink") 연고로 하는 축구 클럽이다. [1979년](../Page/1979년.md "wikilink")에 창단되었으며, 현재 베트남 축구 최상위 리그 [V리그 1에](../Page/V리그_1.md "wikilink") 소속되어 있다.
 
 ## 현재 선수단
 
@@ -32,16 +32,16 @@
 
 ### 국제 대회 성적
 
-  - **[아시아 클럽 챔피언십](https://ko.wikipedia.org/wiki/AFC_챔피언스리그 "wikilink"): 2회 출전**
+  - **[아시아 클럽 챔피언십](../Page/AFC_챔피언스리그.md "wikilink"): 2회 출전**
       - [2000-01](https://ko.wikipedia.org/wiki/아시아_클럽_챔피언십_2000-01 "wikilink"): 1라운드
       - [2001-02](https://ko.wikipedia.org/wiki/아시아_클럽_챔피언십_2001-02 "wikilink"): 1라운드 *(기권)*
-  - **[AFC컵](https://ko.wikipedia.org/wiki/AFC컵 "wikilink"): 2회 출전**
+  - **[AFC컵](../Page/AFC컵.md "wikilink"): 2회 출전**
       - [2011](https://ko.wikipedia.org/wiki/AFC컵_2011 "wikilink"): 16강
       - [2012](https://ko.wikipedia.org/wiki/AFC컵_2012 "wikilink"): 조별 리그
 
 ## 수상 기록
 
-  - **[V리그 1](https://ko.wikipedia.org/wiki/V리그_1 "wikilink")**
+  - **[V리그 1](../Page/V리그_1.md "wikilink")**
       - **우승 3회**: [1999-00](https://ko.wikipedia.org/wiki/1999-00_V-리그 "wikilink"), [2000-01](https://ko.wikipedia.org/wiki/2000-01_V-리그 "wikilink"), [2010-11](https://ko.wikipedia.org/wiki/1999-00_V-리그 "wikilink")
   - **[베트남 슈퍼컵](https://ko.wikipedia.org/wiki/베트남_슈퍼컵 "wikilink")**
       - **우승 4회**: 2000, 2001, 2002, 2011

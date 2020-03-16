@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Flight Operations Quality Assurance](https://ko.wikipedia.org/wiki/Flight_Operations_Quality_Assurance).
 
 
-**Flight Operations Quality Assurance**\[1\](발음: FO-KA, 이하 FOQA )란 비행품질보증을 의미하며 비행자료 모니터링(Flight data monitoring) 또는 비행자료 분석(Flight data analysis)이라고 알려져있다. FOQA는 [항공기](https://ko.wikipedia.org/wiki/항공기 "wikilink") 운항 중 기록된 모든 비행자료를 포착, 분석 및 가시화하는 수단으로서 비행 중 조종사의 항공기 조작, 풍향 및 풍속, 지형, 조종석내의 음성녹음 내용 등을 재현한다. 국제민간항공기구(ICAO) 부속서 6에 따라 민간 항공사는 SMS(항공안전관리시스템)의 일환으로 FOQA를 의무적으로 실시하여야 한다. 미연방항공청(FAA)은 2004년 4월 12일 [Advisory Circular \#120-82](http://www.skybrary.aero/index.php/Flight_Data_Monitoring)에서 FOQA의 공식적 정의를 '비행 자료를 선제적으로 활용하여 항공안전을 증진하기 위한 자발적 안전프로그램'이라고 명시했다.
+**Flight Operations Quality Assurance**\[1\](발음: FO-KA, 이하 FOQA )란 비행품질보증을 의미하며 비행자료 모니터링(Flight data monitoring) 또는 비행자료 분석(Flight data analysis)이라고 알려져있다. FOQA는 [항공기](../Page/항공기.md "wikilink") 운항 중 기록된 모든 비행자료를 포착, 분석 및 가시화하는 수단으로서 비행 중 조종사의 항공기 조작, 풍향 및 풍속, 지형, 조종석내의 음성녹음 내용 등을 재현한다. 국제민간항공기구(ICAO) 부속서 6에 따라 민간 항공사는 SMS(항공안전관리시스템)의 일환으로 FOQA를 의무적으로 실시하여야 한다. 미연방항공청(FAA)은 2004년 4월 12일 [Advisory Circular \#120-82](http://www.skybrary.aero/index.php/Flight_Data_Monitoring)에서 FOQA의 공식적 정의를 '비행 자료를 선제적으로 활용하여 항공안전을 증진하기 위한 자발적 안전프로그램'이라고 명시했다.
 
 [가운데](https://ko.wikipedia.org/wiki/파일:CEFA_FAS_System.jpg "wikilink")
 

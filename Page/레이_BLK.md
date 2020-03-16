@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ BLK](https://ko.wikipedia.org/wiki/_BLK).
 
 
-**레이 BLK**(Ray BLK, [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [8월 2일](https://ko.wikipedia.org/wiki/8월_2일 "wikilink") \~ )는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink") [사운드 오브 2017](../Page/사운드_오브....md "wikilink") 우승자이다.
+**레이 BLK**(Ray BLK, [1993년](../Page/1993년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink") \~ )는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink") [사운드 오브 2017](../Page/사운드_오브....md "wikilink") 우승자이다.
 
 ## 음반 목록
 
@@ -14,7 +14,7 @@
 
   - [레이 BLK](https://www.youtube.com/channel/UCVVghZ7LcwncAWurOfq8ghg) - [VEVO](https://ko.wikipedia.org/wiki/VEVO "wikilink") 채널
 
-  - [레이 BLK](https://www.youtube.com/channel/UC-gtSBvnDPCZ7PuTJ6T-68Q) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [레이 BLK](https://www.youtube.com/channel/UC-gtSBvnDPCZ7PuTJ6T-68Q) - [유튜브](../Page/유튜브.md "wikilink")
 
   -
 

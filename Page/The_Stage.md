@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Stage](https://ko.wikipedia.org/wiki/The_Stage).
 
 
-**The Stage**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [헤비 메탈](https://ko.wikipedia.org/wiki/헤비_메탈 "wikilink") 밴드인 [어벤지드 세븐폴드의](https://ko.wikipedia.org/wiki/어벤지드_세븐폴드 "wikilink") 일곱 번째 정규 앨범이다. 이 앨범은 인공지능과 사회의 자멸에 대한 콘셉트의 앨범이다. The Stage는 밴드의 공식 [페이스북](https://ko.wikipedia.org/wiki/페이스북 "wikilink") 페이지의 이벤트 생방송 이후인, 2016년 10월 28일 출시됐다. 2015년 7월 에이린 일리제이가 밴드에서 탈퇴한 후 [브룩스 와커먼가](../Page/브룩스_와커먼.md "wikilink") [드러머](https://ko.wikipedia.org/wiki/드러머 "wikilink")로 어벤지드 세븐폴드에서 처음 녹음한 앨범이다. 또한, 처음으로 [캐피틀 레코드로](https://ko.wikipedia.org/wiki/캐피틀_레코드 "wikilink") 출시한 앨범이기도 하다. *The Stage*는 73분 35초로 [City of Evil를](../Page/City_of_Evil.md "wikilink") 따라 길이가 긴 앨범이다. 마지막 곡에 수록된 "Exist"는 15분 41초로 어벤지드 세븐폴드 노래 중에 제일 긴 곡이다.
+**The Stage**는 [미국](../Page/미국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드인 [어벤지드 세븐폴드의](../Page/어벤지드_세븐폴드.md "wikilink") 일곱 번째 정규 앨범이다. 이 앨범은 인공지능과 사회의 자멸에 대한 콘셉트의 앨범이다. The Stage는 밴드의 공식 [페이스북](../Page/페이스북.md "wikilink") 페이지의 이벤트 생방송 이후인, 2016년 10월 28일 출시됐다. 2015년 7월 에이린 일리제이가 밴드에서 탈퇴한 후 [브룩스 와커먼가](../Page/브룩스_와커먼.md "wikilink") [드러머](https://ko.wikipedia.org/wiki/드러머 "wikilink")로 어벤지드 세븐폴드에서 처음 녹음한 앨범이다. 또한, 처음으로 [캐피틀 레코드로](../Page/캐피틀_레코드.md "wikilink") 출시한 앨범이기도 하다. *The Stage*는 73분 35초로 [City of Evil를](../Page/City_of_Evil.md "wikilink") 따라 길이가 긴 앨범이다. 마지막 곡에 수록된 "Exist"는 15분 41초로 어벤지드 세븐폴드 노래 중에 제일 긴 곡이다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [From. ](https://ko.wikipedia.org/wiki/From._).
 
 
-《**From. 우주소녀**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [우주소녀](../Page/우주소녀.md "wikilink")의 3번째 [EP이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월 4일에](https://ko.wikipedia.org/wiki/1월_4일 "wikilink") 스타쉽엔터테인먼트를 통해 발매하였다.
+《**From. 우주소녀**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [우주소녀](../Page/우주소녀.md "wikilink")의 3번째 [EP이다](../Page/익스텐디드_플레이.md "wikilink"). [2017년](../Page/2017년.md "wikilink") [1월 4일에](../Page/1월_4일.md "wikilink") 스타쉽엔터테인먼트를 통해 발매하였다.
 
 ## 수록곡
 

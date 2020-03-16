@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**고스타레시 풀라드 타브리즈 FC**()는 짧게 **고스타레시 풀라드**라고도 불리며, [이란](https://ko.wikipedia.org/wiki/이란 "wikilink")의 [타브리즈](https://ko.wikipedia.org/wiki/타브리즈 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 이 팀은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 창단되었으며, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 현재 [페르시안 걸프 프로리그에](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 참가하고 있다.
+**고스타레시 풀라드 타브리즈 FC**()는 짧게 **고스타레시 풀라드**라고도 불리며, [이란](../Page/이란.md "wikilink")의 [타브리즈](../Page/타브리즈.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [2008년](../Page/2008년.md "wikilink")에 창단되었으며, [2017년](../Page/2017년.md "wikilink") 현재 [페르시안 걸프 프로리그에](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 참가하고 있다.
 
 ## 수상
 

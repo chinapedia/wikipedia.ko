@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OpenJDK](https://ko.wikipedia.org/wiki/OpenJDK).
 
 
-**OpenJDK**(Open Java Development Kit)는 [자바 플랫폼, 스탠더드 에디션 (자바 SE)의](https://ko.wikipedia.org/wiki/자바_플랫폼,_스탠더드_에디션 "wikilink") [자유-오픈 소스](https://ko.wikipedia.org/wiki/자유-오픈_소스_소프트웨어 "wikilink") 구현체이다.\[1\] 이것은 [썬 마이크로시스템즈가](https://ko.wikipedia.org/wiki/썬_마이크로시스템즈 "wikilink") 2006년에 시작한 노력의 산물이다. 구현체의 라이선스는 [링크 예외가](https://ko.wikipedia.org/wiki/GPL_링크_예외 "wikilink") 있는 [GNU GPL](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink") 버전 2이다. GPL 링크 예외가 없었다면 [자바 클래스 라이브러리에](https://ko.wikipedia.org/wiki/자바_클래스_라이브러리 "wikilink") 링크된 구성 요소들 또한 GPL 라이선스를 적용해야 했을 것이다. OpenJDK는 버전 7 이후로 자바 SE의 공식 레퍼런스 구현체이다.\[2\]\[3\]\[4\]
+**OpenJDK**(Open Java Development Kit)는 [자바 플랫폼, 스탠더드 에디션 (자바 SE)의](../Page/자바_플랫폼,_스탠더드_에디션.md "wikilink") [자유-오픈 소스](../Page/자유-오픈_소스_소프트웨어.md "wikilink") 구현체이다.\[1\] 이것은 [썬 마이크로시스템즈가](../Page/썬_마이크로시스템즈.md "wikilink") 2006년에 시작한 노력의 산물이다. 구현체의 라이선스는 [링크 예외가](https://ko.wikipedia.org/wiki/GPL_링크_예외 "wikilink") 있는 [GNU GPL](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink") 버전 2이다. GPL 링크 예외가 없었다면 [자바 클래스 라이브러리에](https://ko.wikipedia.org/wiki/자바_클래스_라이브러리 "wikilink") 링크된 구성 요소들 또한 GPL 라이선스를 적용해야 했을 것이다. OpenJDK는 버전 7 이후로 자바 SE의 공식 레퍼런스 구현체이다.\[2\]\[3\]\[4\]
 
 ## 지원 JDK 버전
 
@@ -18,7 +18,7 @@ OpenJDK는 처음에는 자바 플랫폼의 [JDK 7 버전에만](https://ko.wiki
 ## 함께보기
 
   - [GNU 클래스패스](https://ko.wikipedia.org/wiki/GNU_클래스패스 "wikilink")
-  - [GCJ](https://ko.wikipedia.org/wiki/GCJ "wikilink")
+  - [GCJ](../Page/GCJ.md "wikilink")
   - [아파치 하모니](https://ko.wikipedia.org/wiki/아파치_하모니 "wikilink")
 
 ## 각주

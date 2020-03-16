@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ W:  ](https://ko.wikipedia.org/wiki/_W:__).
 
 
-《**터닝메카드 W: 블랙미러의 부활**》은 2017년 1월 18일 개봉한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 첫 번째 작품이다.
+《**터닝메카드 W: 블랙미러의 부활**》은 2017년 1월 18일 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink") 첫 번째 작품이다.
 
 ## 줄거리
 
@@ -130,38 +130,38 @@
 
 ## 목소리 출연
 
-  - [소연](https://ko.wikipedia.org/wiki/소연_\(성우\) "wikilink"): 나찬
-  - [이현진](https://ko.wikipedia.org/wiki/이현진_\(성우\) "wikilink"): 반다인
-  - [윤미나](https://ko.wikipedia.org/wiki/윤미나 "wikilink"): 이소벨, 윙톡
-  - [김율](https://ko.wikipedia.org/wiki/김율 "wikilink"): 리안, 만타리
-  - [이지현](https://ko.wikipedia.org/wiki/이지현_\(성우\) "wikilink"): 다비, 공주희, 미리내
-  - [이재현](https://ko.wikipedia.org/wiki/이재현_\(성우\) "wikilink"): 다나, 천재형, 타돌, 가고토스G
+  - [소연](../Page/소연_\(성우\).md "wikilink"): 나찬
+  - [이현진](../Page/이현진_\(성우\).md "wikilink"): 반다인
+  - [윤미나](../Page/윤미나.md "wikilink"): 이소벨, 윙톡
+  - [김율](../Page/김율.md "wikilink"): 리안, 만타리
+  - [이지현](../Page/이지현_\(성우\).md "wikilink"): 다비, 공주희, 미리내
+  - [이재현](../Page/이재현_\(성우\).md "wikilink"): 다나, 천재형, 타돌, 가고토스G
   - [윤아영](../Page/윤아영.md "wikilink"): 류
   - [양정화](../Page/양정화_\(성우\).md "wikilink"): 데미안, 피코
   - [강시현](../Page/강시현.md "wikilink"): 카밀라, 카이온
-  - [안영미](https://ko.wikipedia.org/wiki/안영미_\(성우\) "wikilink")(극장판): 에디 오스틴
-  - [홍범기](https://ko.wikipedia.org/wiki/홍범기 "wikilink"): 기운찬, 테로, 모스톤, 카울
-  - [정승욱](https://ko.wikipedia.org/wiki/정승욱 "wikilink"): 블랙미러
-  - [신용우](https://ko.wikipedia.org/wiki/신용우_\(성우\) "wikilink"): 에반, 킹죠스, 메가에반
-  - [남도형](https://ko.wikipedia.org/wiki/남도형 "wikilink"): 타나토스, 알타, 옥타, 쿠루기, 윙라이온
-  - [정재헌](https://ko.wikipedia.org/wiki/정재헌_\(성우\) "wikilink"): 프랭클린 박사, 슈마, 나백작, 엑스
-  - [엄상현](https://ko.wikipedia.org/wiki/엄상현 "wikilink"): 피닉스, 캉시, 타이탄, 하이드론
-  - [위훈](https://ko.wikipedia.org/wiki/위훈 "wikilink"): 코카트
-  - [박성태](https://ko.wikipedia.org/wiki/박성태 "wikilink"): 베노사, 크랑, 투스코
-  - [현경수](https://ko.wikipedia.org/wiki/현경수 "wikilink"): 게리온
-  - [전태열](https://ko.wikipedia.org/wiki/전태열 "wikilink"): 무간, 크로키
-  - [류승곤](https://ko.wikipedia.org/wiki/류승곤 "wikilink"): 독꼬리
-  - [김영찬](https://ko.wikipedia.org/wiki/김영찬_\(성우\) "wikilink"): 파이온
-  - [이상범](https://ko.wikipedia.org/wiki/이상범_\(성우\) "wikilink"): 안드로매지션, 스핑크스, 데스퍼
-  - [최한](https://ko.wikipedia.org/wiki/최한 "wikilink"): 바벨, 센뿔, 프린스콩
-  - [최정호](https://ko.wikipedia.org/wiki/최정호_\(성우\) "wikilink"): 우르스
-  - [장광](https://ko.wikipedia.org/wiki/장광 "wikilink"): 메가
-  - [권혁수](https://ko.wikipedia.org/wiki/권혁수_\(성우\) "wikilink"): 메가드래곤
-  - [이호산](https://ko.wikipedia.org/wiki/이호산 "wikilink"): 그리폰, 다이크
-  - [전숙경](https://ko.wikipedia.org/wiki/전숙경 "wikilink"): 요타, 크라켄
-  - [이주창](https://ko.wikipedia.org/wiki/이주창 "wikilink"): 네오
-  - [최낙윤](https://ko.wikipedia.org/wiki/최낙윤 "wikilink"): 가고토스R
-  - [강호철](https://ko.wikipedia.org/wiki/강호철 "wikilink")(극장판): 디스크캐논
+  - [안영미](../Page/안영미_\(성우\).md "wikilink")(극장판): 에디 오스틴
+  - [홍범기](../Page/홍범기.md "wikilink"): 기운찬, 테로, 모스톤, 카울
+  - [정승욱](../Page/정승욱.md "wikilink"): 블랙미러
+  - [신용우](../Page/신용우_\(성우\).md "wikilink"): 에반, 킹죠스, 메가에반
+  - [남도형](../Page/남도형.md "wikilink"): 타나토스, 알타, 옥타, 쿠루기, 윙라이온
+  - [정재헌](../Page/정재헌_\(성우\).md "wikilink"): 프랭클린 박사, 슈마, 나백작, 엑스
+  - [엄상현](../Page/엄상현.md "wikilink"): 피닉스, 캉시, 타이탄, 하이드론
+  - [위훈](../Page/위훈.md "wikilink"): 코카트
+  - [박성태](../Page/박성태.md "wikilink"): 베노사, 크랑, 투스코
+  - [현경수](../Page/현경수.md "wikilink"): 게리온
+  - [전태열](../Page/전태열.md "wikilink"): 무간, 크로키
+  - [류승곤](../Page/류승곤.md "wikilink"): 독꼬리
+  - [김영찬](../Page/김영찬_\(성우\).md "wikilink"): 파이온
+  - [이상범](../Page/이상범_\(성우\).md "wikilink"): 안드로매지션, 스핑크스, 데스퍼
+  - [최한](../Page/최한.md "wikilink"): 바벨, 센뿔, 프린스콩
+  - [최정호](../Page/최정호_\(성우\).md "wikilink"): 우르스
+  - [장광](../Page/장광.md "wikilink"): 메가
+  - [권혁수](../Page/권혁수_\(성우\).md "wikilink"): 메가드래곤
+  - [이호산](../Page/이호산.md "wikilink"): 그리폰, 다이크
+  - [전숙경](../Page/전숙경.md "wikilink"): 요타, 크라켄
+  - [이주창](../Page/이주창.md "wikilink"): 네오
+  - [최낙윤](../Page/최낙윤.md "wikilink"): 가고토스R
+  - [강호철](../Page/강호철.md "wikilink")(극장판): 디스크캐논
 
 ## 제작진
 
@@ -175,10 +175,10 @@
   - 미술: 봉하권
   - 특수효과: 박환수, 김석원
   - 기타: 유봉현, 엄익현, 김영훈, 임채길, 김다인, 정미영, 지태욱, 김민준
-  - 기획: 이노션월드와이드, [손오공](https://ko.wikipedia.org/wiki/손오공_\(기업\) "wikilink")
+  - 기획: 이노션월드와이드, [손오공](../Page/손오공_\(기업\).md "wikilink")
   - 제작: ㈜희원엔터테인먼트
   - 배급: 씨네그루(주)키다리이엔티
-  - 제공: 조이앤시네마, ㈜희원엔터테인먼트, ㈜[초이락컨텐츠팩토리](https://ko.wikipedia.org/wiki/초이락컨텐츠팩토리 "wikilink")
+  - 제공: 조이앤시네마, ㈜희원엔터테인먼트, ㈜[초이락컨텐츠팩토리](../Page/초이락컨텐츠팩토리.md "wikilink")
   - 공동제공: (주)케이알씨지, 씨네그루(주)키다리이엔티
 
 ## 외부 링크

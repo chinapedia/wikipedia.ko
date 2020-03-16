@@ -47,7 +47,7 @@
 
   - [웨스 훌러핸](../Page/웨스_훌러핸.md "wikilink")
 
-  - [로비 브레이디](https://ko.wikipedia.org/wiki/로비_브레이디 "wikilink")
+  - [로비 브레이디](../Page/로비_브레이디.md "wikilink")
 
 <!-- end list -->
 
@@ -55,13 +55,13 @@
 
 <!-- end list -->
 
-  - [키어런 클라크](https://ko.wikipedia.org/wiki/키어런_클라크 "wikilink") (과의 경기에서 자책골)
+  - [키어런 클라크](../Page/키어런_클라크.md "wikilink") (과의 경기에서 자책골)
 
 ## 기타 기록
 
   - 와 는 승점이 동률을 이루어 [승자승 원칙에](https://ko.wikipedia.org/wiki/승자승_원칙 "wikilink") 따라 이탈리아가 1위, 벨기에가 2위가 되었다.
 
-  - 은 1골을 넣었는데 그 골은 상대팀의 자책골이었다. 따라서 사실상 [스웨덴이](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink") 넣은 골은 1골도 없었다.
+  - 은 1골을 넣었는데 그 골은 상대팀의 자책골이었다. 따라서 사실상 [스웨덴이](../Page/스웨덴_축구_국가대표팀.md "wikilink") 넣은 골은 1골도 없었다.
 
   - 는 [B조의](../Page/UEFA_유로_2016_B조.md "wikilink") 와 같이 1승 1무 1패로 16강에 진출했다.
 

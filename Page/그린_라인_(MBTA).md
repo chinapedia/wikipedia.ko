@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(MBTA\)](https://ko.wikipedia.org/wiki/__\(MBTA\)).
 
 
-**그린 라인**()은 [매사추세츠주](https://ko.wikipedia.org/wiki/매사추세츠주 "wikilink") [보스턴](https://ko.wikipedia.org/wiki/보스턴 "wikilink")의 [매사추세츠 만 교통공사](https://ko.wikipedia.org/wiki/매사추세츠_만_교통공사 "wikilink")(MBTA)에서 운영하는 [경전철](https://ko.wikipedia.org/wiki/경전철 "wikilink")([라이트 레일](../Page/라이트_레일.md "wikilink")) 노선이며, [1897년](https://ko.wikipedia.org/wiki/1897년 "wikilink") [9월 1일에](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 개통한 미국에서 가장 오래된 [지하철](https://ko.wikipedia.org/wiki/지하철 "wikilink") 노선이다.\[1\] 그린 라인은 다운타운 보스턴을 지하로 지나면서, 여러 반경을 통해 대로 및 내부 교외로 이어진다. 2015년 평일 232,000명 이상의 승객이 이용하여 미국에서 가장 많이 이용되는 경전철 시스템이다.\[2\] 보스턴의 [에메랄드 넥레이스](https://ko.wikipedia.org/wiki/에메랄드_넥레이스 "wikilink")(Emerald Necklace)구간을 통과하기 때문에 1967년 지하철 시스템 브랜드 개편 당시 이 노선을 녹색으로 지정하였다.\[3\]\[4\]\[5\]
+**그린 라인**()은 [매사추세츠주](../Page/매사추세츠주.md "wikilink") [보스턴](../Page/보스턴.md "wikilink")의 [매사추세츠 만 교통공사](https://ko.wikipedia.org/wiki/매사추세츠_만_교통공사 "wikilink")(MBTA)에서 운영하는 [경전철](../Page/경전철.md "wikilink")([라이트 레일](../Page/라이트_레일.md "wikilink")) 노선이며, [1897년](../Page/1897년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 개통한 미국에서 가장 오래된 [지하철](../Page/지하철.md "wikilink") 노선이다.\[1\] 그린 라인은 다운타운 보스턴을 지하로 지나면서, 여러 반경을 통해 대로 및 내부 교외로 이어진다. 2015년 평일 232,000명 이상의 승객이 이용하여 미국에서 가장 많이 이용되는 경전철 시스템이다.\[2\] 보스턴의 [에메랄드 넥레이스](https://ko.wikipedia.org/wiki/에메랄드_넥레이스 "wikilink")(Emerald Necklace)구간을 통과하기 때문에 1967년 지하철 시스템 브랜드 개편 당시 이 노선을 녹색으로 지정하였다.\[3\]\[4\]\[5\]
 
 4개 지점은 1856년에 [케임브리지 호스 철도](https://ko.wikipedia.org/wiki/케임브리지_호스_철도 "wikilink")(Cambridge Horse Railroad)로부터 시작되어, 수십 년 후에 [보스턴 고가 철도](https://ko.wikipedia.org/wiki/보스턴_고가_철도 "wikilink")(Boston Elevated Railway)로 통합된 대형 노면 전차 시스템의 잔재이다. [트리먼트 스트리트 지하철](https://ko.wikipedia.org/wiki/트리먼트_스트리트_지하철 "wikilink")북미에서 가장 오래된 지하철 터널은 혼잡한 시내 거리에서 노면전차를 운행하기 위해 1897년 9월 1일에 첫번째 구간이 개통하였으며, 이후 50년 동안 5번의 확장 이 있었다. 전차 시스템은 1930년 경에 정점에 이르렀고, 이후 점차적으로 노선을 폐선하고, 트랙이 없는 [트롤리](https://ko.wikipedia.org/wiki/보스턴의_트롤리버스 "wikilink") 및 [버스로](../Page/MBTA_버스.md "wikilink") 교체되는 작업이 1985년까지 이루어졌다. 과거 1959년에 개통되었던 커뮤테 레일의 노선을 활용한 그린 라인의 [새로운 구간](https://ko.wikipedia.org/wiki/그린_라인_D_지선 "wikilink") 건설인 [그린 라인 확장](https://ko.wikipedia.org/wiki/:en:Green_Line_Extension "wikilink") 계획이 시행되어 [서머빌과](https://ko.wikipedia.org/wiki/서머빌_\(매사추세츠주\) "wikilink") [메드퍼드의](https://ko.wikipedia.org/wiki/메드퍼드_\(매사추세츠주\) "wikilink") 두 지점을 2017년과 2020년 간으로 추가할 예정이다.\[6\]
 
@@ -13,7 +13,7 @@
 
 그린 라인은 [코플리 역에서](https://ko.wikipedia.org/wiki/코플리_역 "wikilink") [E 지선로](https://ko.wikipedia.org/wiki/그린_라인_E_지선 "wikilink") 나뉘고, [켄모어 역에서](https://ko.wikipedia.org/wiki/켄모어_역 "wikilink") [B 지선](https://ko.wikipedia.org/wiki/그린_라인_B_지선 "wikilink"),[C 지선](https://ko.wikipedia.org/wiki/그린_라인_C_지선 "wikilink"),[D 지선로](https://ko.wikipedia.org/wiki/그린_라인_D_지선 "wikilink") 각각 분리된다. 각 지선의 유형은 아래와 같다.
 
-  - **[그린 라인 B 지선](https://ko.wikipedia.org/wiki/그린_라인_B_지선 "wikilink")** (Green Line "B" Branch) 또는 "보스턴 칼리지(Boston College)", "커먼웰스 애비뉴(Commonwealth Avenue)" 지선 : 그린 라인 B지선은 지하의 [파크 스트리트에서](https://ko.wikipedia.org/wiki/파크_스트리트_역 "wikilink") 출발하여, [켄모어에서](https://ko.wikipedia.org/wiki/켄모어_역 "wikilink") 갈라져나와, 켄모어 스퀘어(Kenmore Square) 부근에서 지상으로 나와 [커먼웰스 애비뉴](https://ko.wikipedia.org/wiki/커먼웰스_애비뉴 "wikilink") 방면으로 간다. [보스턴 대학교을](https://ko.wikipedia.org/wiki/보스턴_대학교 "wikilink") 지나 체스넛 힐 애비뉴로 이어지는 [리저뷰어](https://ko.wikipedia.org/wiki/리저뷰어_역 "wikilink")(Reservoir)에서 0.25 마일 이내에 지나간 후 [보스턴 칼리지로](https://ko.wikipedia.org/wiki/보스턴_칼리지_역 "wikilink") 이어진다. 지상 구간은 모두 노면 중앙부의 전용궤도로 운용한다. 고밀도로 정차하는 빈도가 높아 그린 라인에서 가장 비판을 많이 받고 있다.
+  - **[그린 라인 B 지선](https://ko.wikipedia.org/wiki/그린_라인_B_지선 "wikilink")** (Green Line "B" Branch) 또는 "보스턴 칼리지(Boston College)", "커먼웰스 애비뉴(Commonwealth Avenue)" 지선 : 그린 라인 B지선은 지하의 [파크 스트리트에서](https://ko.wikipedia.org/wiki/파크_스트리트_역 "wikilink") 출발하여, [켄모어에서](https://ko.wikipedia.org/wiki/켄모어_역 "wikilink") 갈라져나와, 켄모어 스퀘어(Kenmore Square) 부근에서 지상으로 나와 [커먼웰스 애비뉴](https://ko.wikipedia.org/wiki/커먼웰스_애비뉴 "wikilink") 방면으로 간다. [보스턴 대학교을](../Page/보스턴_대학교.md "wikilink") 지나 체스넛 힐 애비뉴로 이어지는 [리저뷰어](https://ko.wikipedia.org/wiki/리저뷰어_역 "wikilink")(Reservoir)에서 0.25 마일 이내에 지나간 후 [보스턴 칼리지로](https://ko.wikipedia.org/wiki/보스턴_칼리지_역 "wikilink") 이어진다. 지상 구간은 모두 노면 중앙부의 전용궤도로 운용한다. 고밀도로 정차하는 빈도가 높아 그린 라인에서 가장 비판을 많이 받고 있다.
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Back_of_the_Hill_MBTA_station,_Boston_MA.jpg "wikilink")
 
-  - **[그린 라인 E 지선](https://ko.wikipedia.org/wiki/그린_라인_E_지선 "wikilink")** (Green Line "E" Branch) 또는 "히스 스트리트(Heath Street)" 지선 (이전의 "Arborway") : 그린 라인 E지선은 앞의 다른 3개 노선과 별도로 지선되는 노선이다. [레치미어 역에서](https://ko.wikipedia.org/wiki/레치미어_역 "wikilink") 출발하여 고가 및 지하에서 운용하다가 [코플리에서](https://ko.wikipedia.org/wiki/코플리_역 "wikilink") 갈라져 나와, [헌팅턴 애비뉴 지하철](https://ko.wikipedia.org/wiki/헌팅턴_애비뉴_지하철 "wikilink")(Huntington Avenue Subway)을 통하여 남서쪽으로 향한다. [보스턴 심포니 홀](https://ko.wikipedia.org/wiki/보스턴_심포니_홀 "wikilink") 및 [노스이스턴 대학교](https://ko.wikipedia.org/wiki/노스이스턴_대학교 "wikilink") 인근부터 지상으로 나와서 [헌팅턴 애비뉴](https://ko.wikipedia.org/wiki/헌팅턴_애비뉴 "wikilink") 중앙의 전용 선로를 따라서 [펜우드 로드 역에서](https://ko.wikipedia.org/wiki/펜우드_로드_역 "wikilink") 부터 자동차 차량과의 병용 궤도를 따른다. 이후 V.A. 매디컬 센터(V.A. Medical Center) 인근의 [히스 스트리트에서](https://ko.wikipedia.org/wiki/히스_스트리트_역 "wikilink") 종착한다. 과거에는 아버웨이(Arborway) 구간까지 이어졌으나, 1985년 히스 스트리트\~아버웨이 구간이 폐선되었다. E 지선은 자동차 차량과의 병용 궤도가 존재하는 유일한 노선이다.
+  - **[그린 라인 E 지선](https://ko.wikipedia.org/wiki/그린_라인_E_지선 "wikilink")** (Green Line "E" Branch) 또는 "히스 스트리트(Heath Street)" 지선 (이전의 "Arborway") : 그린 라인 E지선은 앞의 다른 3개 노선과 별도로 지선되는 노선이다. [레치미어 역에서](https://ko.wikipedia.org/wiki/레치미어_역 "wikilink") 출발하여 고가 및 지하에서 운용하다가 [코플리에서](https://ko.wikipedia.org/wiki/코플리_역 "wikilink") 갈라져 나와, [헌팅턴 애비뉴 지하철](https://ko.wikipedia.org/wiki/헌팅턴_애비뉴_지하철 "wikilink")(Huntington Avenue Subway)을 통하여 남서쪽으로 향한다. [보스턴 심포니 홀](https://ko.wikipedia.org/wiki/보스턴_심포니_홀 "wikilink") 및 [노스이스턴 대학교](../Page/노스이스턴_대학교.md "wikilink") 인근부터 지상으로 나와서 [헌팅턴 애비뉴](https://ko.wikipedia.org/wiki/헌팅턴_애비뉴 "wikilink") 중앙의 전용 선로를 따라서 [펜우드 로드 역에서](https://ko.wikipedia.org/wiki/펜우드_로드_역 "wikilink") 부터 자동차 차량과의 병용 궤도를 따른다. 이후 V.A. 매디컬 센터(V.A. Medical Center) 인근의 [히스 스트리트에서](https://ko.wikipedia.org/wiki/히스_스트리트_역 "wikilink") 종착한다. 과거에는 아버웨이(Arborway) 구간까지 이어졌으나, 1985년 히스 스트리트\~아버웨이 구간이 폐선되었다. E 지선은 자동차 차량과의 병용 궤도가 존재하는 유일한 노선이다.
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/레치미어_역" title="wikilink">레치미어</a><br />
 <a href="https://ko.wikipedia.org/wiki/파일:Wheelchair_symbol.svg" title="wikilink">10px</a> <a href="https://ko.wikipedia.org/wiki/:en:Lechmere_(MBTA_station)" title="wikilink">Lechmere</a></p></td>
-<td><p>Cambridge Street, <a href="https://ko.wikipedia.org/wiki/케임브리지_(매사추세츠주)" title="wikilink">(Cambridge)</a><br />
+<td><p>Cambridge Street, <a href="../Page/케임브리지_(매사추세츠주).md" title="wikilink">(Cambridge)</a><br />
 <a href="https://ko.wikipedia.org/wiki/:en:Lechmere_Square" title="wikilink">Lechmere Square</a></p></td>
 <td><p>13분<br />
 (표기상 12분)</p></td>
@@ -118,7 +118,7 @@
 <td><p>0분</p></td>
 <td><p>1897년 9월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/그린_라인_B_지선" title="wikilink">B 지선</a> 시·종착역<br />
- <a href="https://ko.wikipedia.org/wiki/레드_라인_(MBTA)" title="wikilink">레드</a>,  <a href="https://ko.wikipedia.org/wiki/오렌지_라인_(MBTA)" title="wikilink">오렌지</a>,  <a href="https://ko.wikipedia.org/wiki/실버_라인_(MBTA)" title="wikilink">실버 라인과</a> 환승 (실버 라인의 <a href="https://ko.wikipedia.org/wiki/운임_통제" title="wikilink">운임 통제</a> 구역을 나와야 함)</p></td>
+ <a href="https://ko.wikipedia.org/wiki/레드_라인_(MBTA)" title="wikilink">레드</a>,  <a href="https://ko.wikipedia.org/wiki/오렌지_라인_(MBTA)" title="wikilink">오렌지</a>,  <a href="../Page/실버_라인_(MBTA).md" title="wikilink">실버 라인과</a> 환승 (실버 라인의 <a href="https://ko.wikipedia.org/wiki/운임_통제" title="wikilink">운임 통제</a> 구역을 나와야 함)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/보일스턴_역" title="wikilink">보일스턴</a><br />
@@ -127,7 +127,7 @@
 Boston Common</p></td>
 <td><p>1분</p></td>
 <td><p>1897년 9월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/실버_라인_(MBTA)" title="wikilink">실버 라인과</a> 환승 (실버 라인의 <a href="https://ko.wikipedia.org/wiki/운임_통제" title="wikilink">운임 통제</a> 구역을 나와야 함)<br />
+<td><p><a href="../Page/실버_라인_(MBTA).md" title="wikilink">실버 라인과</a> 환승 (실버 라인의 <a href="https://ko.wikipedia.org/wiki/운임_통제" title="wikilink">운임 통제</a> 구역을 나와야 함)<br />
 버려진 트랙이 보일스턴에서 플레젠트 스트리트 방면으로 나뉘어졌음.</p></td>
 </tr>
 <tr class="odd">
@@ -164,7 +164,7 @@ Boston Common</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/켄모어_역" title="wikilink">켄모어</a><br />
 <a href="https://ko.wikipedia.org/wiki/파일:Wheelchair_symbol.svg" title="wikilink">10px</a><a href="https://ko.wikipedia.org/wiki/:en:Kenmore_(MBTA_station)" title="wikilink">Kenmore</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Kenmore_Square" title="wikilink">Kenmore Square</a> (Boston)<br />
-<a href="https://ko.wikipedia.org/wiki/펜웨이_파크" title="wikilink">Fenway Park</a></p></td>
+<a href="../Page/펜웨이_파크.md" title="wikilink">Fenway Park</a></p></td>
 <td><p>12분</p></td>
 <td><p>1932년 10월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/그린_라인_B_지선" title="wikilink">B</a>,<a href="https://ko.wikipedia.org/wiki/그린_라인_C_지선" title="wikilink">C</a>,<a href="https://ko.wikipedia.org/wiki/그린_라인_D_지선" title="wikilink">D 지선이</a> 분기하는 역</p></td>
@@ -205,7 +205,7 @@ Boston Common</p></td>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/리버사이드_역_(MBTA)" title="wikilink">리버사이드</a><br />
 <a href="https://ko.wikipedia.org/wiki/파일:Wheelchair_symbol.svg" title="wikilink">10px</a><a href="https://ko.wikipedia.org/wiki/:en:Riverside_(MBTA_station)" title="wikilink">Riverside</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오번데일_(매사추세츠주)" title="wikilink">Auburndale</a> in <a href="https://ko.wikipedia.org/wiki/뉴턴_(매사추세츠주)" title="wikilink">Newton, Massachusetts</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오번데일_(매사추세츠주)" title="wikilink">Auburndale</a> in <a href="../Page/뉴턴_(매사추세츠주).md" title="wikilink">Newton, Massachusetts</a></p></td>
 <td></td>
 <td><p>1959년 7월 4일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/그린_라인_D_지선" title="wikilink">D 지선</a> 시·종착역</p></td>
@@ -576,7 +576,7 @@ MBTA 주차시설 이용 불가</p></td>
 <td><p>1959년 7월 4일</p></td>
 <td><p>B 지선의 <a href="https://ko.wikipedia.org/wiki/체스넛_힐_애비뉴_역" title="wikilink">체스넛 힐 애비뉴에서</a> 도보 거리<br />
 C 지선의 <a href="https://ko.wikipedia.org/wiki/클리블랜드_스퀘어_역" title="wikilink">클리블랜드 스퀘어에서</a> 도보 거리<br />
-<a href="https://ko.wikipedia.org/wiki/보스턴_칼리지" title="wikilink">보스턴 칼리지</a> 셔틀 버스 환승 (9월~5월)<br />
+<a href="../Page/보스턴_칼리지.md" title="wikilink">보스턴 칼리지</a> 셔틀 버스 환승 (9월~5월)<br />
  버스 연결: 51, 86</p></td>
 <td></td>
 <td></td>
@@ -590,7 +590,7 @@ C 지선의 <a href="https://ko.wikipedia.org/wiki/클리블랜드_스퀘어_역
 <td><p>Hammond Street at Boylston Street, Newton</p></td>
 <td><p>30분</p></td>
 <td><p>1959년 7월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보스턴_칼리지" title="wikilink">보스턴 칼리지</a>, 체스넛 힐 쇼핑 에어리어에서 도보 거리<br />
+<td><p><a href="../Page/보스턴_칼리지.md" title="wikilink">보스턴 칼리지</a>, 체스넛 힐 쇼핑 에어리어에서 도보 거리<br />
 MBTA 주차 가능</p></td>
 <td></td>
 <td></td>
@@ -707,7 +707,7 @@ MBTA 주차 시설 이용 가능<br />
 <td><p>6분</p></td>
 <td><p>1941년 2월 16일</p></td>
 <td><p>1964년 12월 2일까지 "메커닉스(Mechanics)"으로 불림. 지하역.<br />
-역 인근: <a href="https://ko.wikipedia.org/wiki/프루덴셜_센터" title="wikilink">프루덴셜 센터</a></p></td>
+역 인근: <a href="../Page/프루덴셜_센터.md" title="wikilink">프루덴셜 센터</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/심포니_역" title="wikilink">심포니</a><br />
@@ -725,7 +725,7 @@ MBTA 주차 시설 이용 가능<br />
 <td><p>10분</p></td>
 <td></td>
 <td><p>원래 이름 "오페라 플레이스(Opera Place)"<br />
-역 인근: <a href="https://ko.wikipedia.org/wiki/노스이스턴_대학교" title="wikilink">노스이스턴 대학교</a></p></td>
+역 인근: <a href="../Page/노스이스턴_대학교.md" title="wikilink">노스이스턴 대학교</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/뮤지엄_오브_파인_아츠_역" title="wikilink">뮤지엄 오브 파인 아츠</a><br />
@@ -800,7 +800,7 @@ MBTA 주차 시설 이용 가능<br />
 
 ## 철도 차량
 
-다른 MBTA 지하철 3개 노선과 마찬가지로, 선로는 [표준궤](https://ko.wikipedia.org/wiki/표준궤 "wikilink")를 사용한다. 단, 중전철을 사용하는 다른 3개 노선과 달리, 그린 라인은 노면 전차(경전철 차량)을 사용한다. 이는 중전철이 수많은 [교차점이](https://ko.wikipedia.org/wiki/건널목 "wikilink") 있는 지상 지점에 적합하지 않기 때문이다.
+다른 MBTA 지하철 3개 노선과 마찬가지로, 선로는 [표준궤](../Page/표준궤.md "wikilink")를 사용한다. 단, 중전철을 사용하는 다른 3개 노선과 달리, 그린 라인은 노면 전차(경전철 차량)을 사용한다. 이는 중전철이 수많은 [교차점이](../Page/건널목.md "wikilink") 있는 지상 지점에 적합하지 않기 때문이다.
 
 ### 목록
 
@@ -926,7 +926,7 @@ MBTA가 운영하는 차량만을 포함하며, [보스턴 고가 철도](https:
 
 [레드 라인](https://ko.wikipedia.org/wiki/레드_라인_\(MBTA\) "wikilink"), [블루 라인](https://ko.wikipedia.org/wiki/블루_라인_\(MBTA\) "wikilink"), [오렌지 라인은](https://ko.wikipedia.org/wiki/오렌지_라인_\(MBTA\) "wikilink") 중전철 차량으로 운행하며, 전 역사가 고상 승강장을 사용하여 차량 바닥과 맞춰지기 때문에 장애인이 쉽게 접근할 수 있는 구조이다. 한편 그린 라인은 [노면 전차](https://ko.wikipedia.org/wiki/노면_전차 "wikilink") 선로이며, 다양한 전차를 사용하였다.
 
-원래 그린 라인의 모든 역은 궤도 수준 높이의 저상 승강장을 사용하기 때문에, 승객은 여러 계단을 올라 차량에 탑승해야 했다. 그래서 장애인을 위한 [접근성](https://ko.wikipedia.org/wiki/접근성 "wikilink")이 제한되어서, 이 문제를 해결하기 위해 연방 및 주법을 변경함에 따라 추가 시설을 넣었다.\[15\]
+원래 그린 라인의 모든 역은 궤도 수준 높이의 저상 승강장을 사용하기 때문에, 승객은 여러 계단을 올라 차량에 탑승해야 했다. 그래서 장애인을 위한 [접근성](../Page/접근성.md "wikilink")이 제한되어서, 이 문제를 해결하기 위해 연방 및 주법을 변경함에 따라 추가 시설을 넣었다.\[15\]
 
   - 휠체어 리프트는 일부 정거장에서 제공된다. 보통은 차문에 감겨 있고, 핸드 크랭크를 이용하여 승강기구를 작동시킨다. 가동 시간이 길어서 혼잡 시간대에 상당한 지연이 발생한다.
   - 일부 정거장에서는 경사로를 통하여 짧은 수준의 승강장을 차량 바닥에 놓는 형태의 방식이 설치되어 있다. 카 도어 시스템은 승강장과 차량 사이에 큰 간격을 필요로 했기 때문에 승강장에서 문이 닫히고 난 후 승강장을 올려 놓는 브리지 플레이트를 배치해야 했다.
@@ -934,7 +934,7 @@ MBTA가 운영하는 차량만을 포함하며, [보스턴 고가 철도](https:
 
 ## 같이 보기
 
-  - [MBTA 지하철](https://ko.wikipedia.org/wiki/MBTA_지하철 "wikilink")
+  - [MBTA 지하철](../Page/MBTA_지하철.md "wikilink")
   - [그린 라인 B 지선](https://ko.wikipedia.org/wiki/그린_라인_B_지선 "wikilink")
   - [그린 라인 C 지선](https://ko.wikipedia.org/wiki/그린_라인_C_지선 "wikilink")
   - [그린 라인 D 지선](https://ko.wikipedia.org/wiki/그린_라인_D_지선 "wikilink")

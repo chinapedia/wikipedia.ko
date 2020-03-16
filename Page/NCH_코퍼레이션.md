@@ -25,10 +25,10 @@
 
 ## 사업장
 
-  - 미국 본사: [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [달라스](https://ko.wikipedia.org/wiki/달라스 "wikilink")
-  - 한국지사: [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [서초구](https://ko.wikipedia.org/wiki/서초구 "wikilink") [반포대로](https://ko.wikipedia.org/wiki/반포대로 "wikilink") 306
-  - 부산사무소: [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [연제구](https://ko.wikipedia.org/wiki/연제구 "wikilink") [거제동](../Page/거제동.md "wikilink")
-  - 음성공장: [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [음성군](https://ko.wikipedia.org/wiki/음성군 "wikilink") [대소면](https://ko.wikipedia.org/wiki/대소면 "wikilink")
+  - 미국 본사: [미국](../Page/미국.md "wikilink") [달라스](https://ko.wikipedia.org/wiki/달라스 "wikilink")
+  - 한국지사: [서울특별시](../Page/서울특별시.md "wikilink") [서초구](../Page/서초구.md "wikilink") [반포대로](../Page/반포대로.md "wikilink") 306
+  - 부산사무소: [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [연제구](../Page/연제구.md "wikilink") [거제동](../Page/거제동.md "wikilink")
+  - 음성공장: [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [음성군](../Page/음성군.md "wikilink") [대소면](https://ko.wikipedia.org/wiki/대소면 "wikilink")
 
 ## 외부 링크
 

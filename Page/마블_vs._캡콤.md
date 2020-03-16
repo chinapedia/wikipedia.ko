@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ vs. ](https://ko.wikipedia.org/wiki/_vs._).
 
 
-**마블 vs. 캡콤**()은 [캡콤](https://ko.wikipedia.org/wiki/캡콤 "wikilink")의 프렌차이즈와 [마블 코믹스의](https://ko.wikipedia.org/wiki/마블_코믹스 "wikilink") 캐릭터들이 등장하는 [크로스오버](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink") [대전 격투 게임](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink") 시리즈이다. 이는 캡콤이 관여한 첫번째 Vs. 시리즈로, 그 후로 캡콤은 [SNK](https://ko.wikipedia.org/wiki/SNK "wikilink")([SNK vs. 캡콤](https://ko.wikipedia.org/wiki/SNK_vs._캡콤 "wikilink"))나 [다쓰노코 프로덕션](https://ko.wikipedia.org/wiki/다쓰노코_프로덕션 "wikilink")([타츠노코 vs. 캡콤](https://ko.wikipedia.org/wiki/타츠노코_vs._캡콤 "wikilink"))과도 협력해서 시리즈를 제작했다. 1996년부터 현재까지 7개의 비디오 게임들로 구성돼있다.
+**마블 vs. 캡콤**()은 [캡콤](../Page/캡콤.md "wikilink")의 프렌차이즈와 [마블 코믹스의](../Page/마블_코믹스.md "wikilink") 캐릭터들이 등장하는 [크로스오버](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink") [대전 격투 게임](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink") 시리즈이다. 이는 캡콤이 관여한 첫번째 Vs. 시리즈로, 그 후로 캡콤은 [SNK](../Page/SNK.md "wikilink")([SNK vs. 캡콤](../Page/SNK_vs._캡콤.md "wikilink"))나 [다쓰노코 프로덕션](https://ko.wikipedia.org/wiki/다쓰노코_프로덕션 "wikilink")([타츠노코 vs. 캡콤](https://ko.wikipedia.org/wiki/타츠노코_vs._캡콤 "wikilink"))과도 협력해서 시리즈를 제작했다. 1996년부터 현재까지 7개의 비디오 게임들로 구성돼있다.
 
-여기서 등장한 마블 등장인물들은 [엑스맨](https://ko.wikipedia.org/wiki/엑스맨 "wikilink") TV 시리즈와 같은 1990년대 애니메이션의 모습에 기반했고, 그 작품들과 같은 성우가 기용됐다. 마블 vs. 캡콤 3의 경우 [어벤저스](https://ko.wikipedia.org/wiki/어벤저스_\(애니메이션\) "wikilink"), [스펙테큘러 스파이더맨같은](https://ko.wikipedia.org/wiki/스펙테큘러_스파이더맨 "wikilink") 2000년대 후반 애니메이션들의 모습을 빌려왔다.
+여기서 등장한 마블 등장인물들은 [엑스맨](../Page/엑스맨.md "wikilink") TV 시리즈와 같은 1990년대 애니메이션의 모습에 기반했고, 그 작품들과 같은 성우가 기용됐다. 마블 vs. 캡콤 3의 경우 [어벤저스](https://ko.wikipedia.org/wiki/어벤저스_\(애니메이션\) "wikilink"), [스펙테큘러 스파이더맨같은](https://ko.wikipedia.org/wiki/스펙테큘러_스파이더맨 "wikilink") 2000년대 후반 애니메이션들의 모습을 빌려왔다.
 
 ## 게임플레이
 
@@ -11,23 +11,23 @@
 
 ## 목록
 
-| 제목                                                                                                | 발매연도 | 원 발매 플랫폼                                                                                                                       | 이식된 플랫폼                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [엑스맨 vs. 스트리트 파이터](https://ko.wikipedia.org/wiki/엑스맨_vs._스트리트_파이터 "wikilink")                     | 1996 | [아케이드](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink")                                                                       | [세가 새턴](https://ko.wikipedia.org/wiki/세가_새턴 "wikilink") (1997); [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink") (1998)                                                                                                                                        |
-| [마블 슈퍼 히어로즈 vs. 스트리트 파이터](https://ko.wikipedia.org/wiki/마블_슈퍼_히어로즈_vs._스트리트_파이터 "wikilink")       | 1997 | 아케이드                                                                                                                           | 세가 새턴 (1998); 플레이스테이션 (1999)                                                                                                                                                                                                                                              |
-| [마블 vs. 캡콤: 클래시 오브 슈퍼 히어로즈](../Page/마블_vs._캡콤:_클래시_오브_슈퍼_히어로즈.md "wikilink")                      | 1998 | 아케이드                                                                                                                           | [드림캐스트](https://ko.wikipedia.org/wiki/드림캐스트 "wikilink") (1999); 플레이스테이션 (2000); [PSN](https://ko.wikipedia.org/wiki/플레이스테이션_네트워크 "wikilink"), [XBLA](https://ko.wikipedia.org/wiki/XBLA "wikilink") (2012)                                                                |
-| [마블 vs. 캡콤 2: 뉴 에이지 오브 히어로즈](https://ko.wikipedia.org/wiki/마블_vs._캡콤_2:_뉴_에이지_오브_히어로즈 "wikilink") | 2000 | 아케이드                                                                                                                           | 드림캐스트 (2000); [플레이스테이션 2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") (2002); [엑스박스](https://ko.wikipedia.org/wiki/엑스박스 "wikilink") (2003); PSN, XBLA (2009); [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") (2012)                                          |
-| [마블 vs. 캡콤 3: 페이트 오브 투 월즈](https://ko.wikipedia.org/wiki/마블_vs._캡콤_3:_페이트_오브_투_월즈 "wikilink")     | 2011 | [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") |                                                                                                                                                                                                                                                                           |
-| [얼티밋 마블 vs. 캡콤 3](https://ko.wikipedia.org/wiki/얼티밋_마블_vs._캡콤_3 "wikilink")                       | 2011 | 플레이스테이션 3, 엑스박스 360                                                                                                            | [플레이스테이션 비타](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") (2011); [플레이스테이션 4](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink") (2016); [마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink") (2017)\[1\] |
-| [마블 vs. 캡콤 오리진스](https://ko.wikipedia.org/wiki/마블_vs._캡콤_오리진스 "wikilink")                         | 2012 | PSN, XBLA                                                                                                                      |                                                                                                                                                                                                                                                                           |
-| [마블 vs. 캡콤: 인피니트](https://ko.wikipedia.org/wiki/마블_vs._캡콤:_인피니트 "wikilink")                       | 2017 | 마이크로소프트 윈도우, 플레이스테이션 4, 엑스박스 원                                                                                                 |                                                                                                                                                                                                                                                                           |
-|                                                                                                   |      |                                                                                                                                |                                                                                                                                                                                                                                                                           |
+| 제목                                                                                                | 발매연도 | 원 발매 플랫폼                                                                                 | 이식된 플랫폼                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [엑스맨 vs. 스트리트 파이터](https://ko.wikipedia.org/wiki/엑스맨_vs._스트리트_파이터 "wikilink")                     | 1996 | [아케이드](../Page/아케이드_게임.md "wikilink")                                                    | [세가 새턴](../Page/세가_새턴.md "wikilink") (1997); [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink") (1998)                                                                                                                     |
+| [마블 슈퍼 히어로즈 vs. 스트리트 파이터](https://ko.wikipedia.org/wiki/마블_슈퍼_히어로즈_vs._스트리트_파이터 "wikilink")       | 1997 | 아케이드                                                                                     | 세가 새턴 (1998); 플레이스테이션 (1999)                                                                                                                                                                                                        |
+| [마블 vs. 캡콤: 클래시 오브 슈퍼 히어로즈](../Page/마블_vs._캡콤:_클래시_오브_슈퍼_히어로즈.md "wikilink")                      | 1998 | 아케이드                                                                                     | [드림캐스트](../Page/드림캐스트.md "wikilink") (1999); 플레이스테이션 (2000); [PSN](../Page/플레이스테이션_네트워크.md "wikilink"), [XBLA](https://ko.wikipedia.org/wiki/XBLA "wikilink") (2012)                                                                |
+| [마블 vs. 캡콤 2: 뉴 에이지 오브 히어로즈](https://ko.wikipedia.org/wiki/마블_vs._캡콤_2:_뉴_에이지_오브_히어로즈 "wikilink") | 2000 | 아케이드                                                                                     | 드림캐스트 (2000); [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink") (2002); [엑스박스](../Page/엑스박스.md "wikilink") (2003); PSN, XBLA (2009); [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") (2012)                                          |
+| [마블 vs. 캡콤 3: 페이트 오브 투 월즈](https://ko.wikipedia.org/wiki/마블_vs._캡콤_3:_페이트_오브_투_월즈 "wikilink")     | 2011 | [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [엑스박스 360](../Page/엑스박스_360.md "wikilink") |                                                                                                                                                                                                                                     |
+| [얼티밋 마블 vs. 캡콤 3](https://ko.wikipedia.org/wiki/얼티밋_마블_vs._캡콤_3 "wikilink")                       | 2011 | 플레이스테이션 3, 엑스박스 360                                                                      | [플레이스테이션 비타](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") (2011); [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink") (2016); [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink") (2017)\[1\] |
+| [마블 vs. 캡콤 오리진스](https://ko.wikipedia.org/wiki/마블_vs._캡콤_오리진스 "wikilink")                         | 2012 | PSN, XBLA                                                                                |                                                                                                                                                                                                                                     |
+| [마블 vs. 캡콤: 인피니트](https://ko.wikipedia.org/wiki/마블_vs._캡콤:_인피니트 "wikilink")                       | 2017 | 마이크로소프트 윈도우, 플레이스테이션 4, 엑스박스 원                                                           |                                                                                                                                                                                                                                     |
+|                                                                                                   |      |                                                                                          |                                                                                                                                                                                                                                     |
 
 마블 vs. 캡콤 비디오 게임 목록
 
 ## 등장인물
 
-마블 vs. 캡콤은 시리즈 동안 [마블 코믹스와](https://ko.wikipedia.org/wiki/마블_코믹스 "wikilink") [캡콤](https://ko.wikipedia.org/wiki/캡콤 "wikilink")의 프렌차이즈에 속한 90 명 이상의 인물들이 등장했다. 플레이 가능한 캐릭터들 외에도 마블과 캡콤 세계의 등장인물들은 여러 가지 형태로 출연해왔다.
+마블 vs. 캡콤은 시리즈 동안 [마블 코믹스와](../Page/마블_코믹스.md "wikilink") [캡콤](../Page/캡콤.md "wikilink")의 프렌차이즈에 속한 90 명 이상의 인물들이 등장했다. 플레이 가능한 캐릭터들 외에도 마블과 캡콤 세계의 등장인물들은 여러 가지 형태로 출연해왔다.
 
 ### 마블의 플레이어 캐릭터
 
@@ -58,7 +58,7 @@
 <td><p>어벤저스</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/X-23" title="wikilink">X-23</a></p></td>
+<td><p><a href="../Page/X-23.md" title="wikilink">X-23</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -91,7 +91,7 @@
 <td><p>엑스맨</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/고스트_라이더" title="wikilink">고스트 라이더</a></p></td>
+<td><p><a href="../Page/고스트_라이더.md" title="wikilink">고스트 라이더</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -165,7 +165,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고스트_라이더" title="wikilink">고스트 라이더</a></p></td>
+<td><p><a href="../Page/고스트_라이더.md" title="wikilink">고스트 라이더</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/로그_(마블_코믹스)" title="wikilink">로그</a></p></td>
@@ -267,7 +267,7 @@
 <td><p>엑스맨</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/쉬헐크" title="wikilink">쉬헐크</a></p></td>
+<td><p><a href="../Page/쉬헐크.md" title="wikilink">쉬헐크</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -278,7 +278,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/디_인크레더블_헐크" title="wikilink">디 인크레더블 헐크</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/울버린_(마블_코믹스)" title="wikilink">울버린</a></p></td>
+<td><p><a href="../Page/울버린_(마블_코믹스).md" title="wikilink">울버린</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -333,7 +333,7 @@
 <td><p>엑스맨</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스파이더맨" title="wikilink">스파이더맨</a></p></td>
+<td><p><a href="../Page/스파이더맨.md" title="wikilink">스파이더맨</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -377,7 +377,7 @@
 <td><p>엑스맨</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아이언맨" title="wikilink">아이언맨</a></p></td>
+<td><p><a href="../Page/아이언맨.md" title="wikilink">아이언맨</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -407,7 +407,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/엑스맨" title="wikilink">엑스맨</a></p></td>
+<td><p><a href="../Page/엑스맨.md" title="wikilink">엑스맨</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오메가_레드" title="wikilink">오메가 레드</a></p></td>
@@ -465,7 +465,7 @@
 <td><p>어벤저스</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캡틴_아메리카" title="wikilink">캡틴 아메리카</a></p></td>
+<td><p><a href="../Page/캡틴_아메리카.md" title="wikilink">캡틴 아메리카</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -473,10 +473,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/어벤저스_(마블_코믹스)" title="wikilink">어벤저스</a></p></td>
+<td><p><a href="../Page/어벤저스_(마블_코믹스).md" title="wikilink">어벤저스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/케이블" title="wikilink">케이블</a></p></td>
+<td><p><a href="../Page/케이블.md" title="wikilink">케이블</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -520,7 +520,7 @@
 <td><p>스파이더맨</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/토르_(마블_코믹스)" title="wikilink">토르</a></p></td>
+<td><p><a href="../Page/토르_(마블_코믹스).md" title="wikilink">토르</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -542,7 +542,7 @@
 <td><p>엑스맨</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/헐크" title="wikilink">헐크</a></p></td>
+<td><p><a href="../Page/헐크.md" title="wikilink">헐크</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -553,7 +553,7 @@
 <td><p>어벤저스</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호크아이_(마블_코믹스)" title="wikilink">호크아이</a></p></td>
+<td><p><a href="../Page/호크아이_(마블_코믹스).md" title="wikilink">호크아이</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -606,7 +606,7 @@
 <td><p>록맨</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나루호도_류이치" title="wikilink">나루호도 류이치</a></p></td>
+<td><p><a href="../Page/나루호도_류이치.md" title="wikilink">나루호도 류이치</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -614,7 +614,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/역전재판" title="wikilink">역전재판</a></p></td>
+<td><p><a href="../Page/역전재판.md" title="wikilink">역전재판</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/네메시스" title="wikilink">네메시스</a></p></td>
@@ -658,7 +658,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데빌_메이_크라이" title="wikilink">데빌 메이 크라이</a></p></td>
+<td><p><a href="../Page/데빌_메이_크라이.md" title="wikilink">데빌 메이 크라이</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/달심" title="wikilink">달심</a></p></td>
@@ -694,7 +694,7 @@
 <td><p>다크스토커즈</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/록맨" title="wikilink">록맨</a></p></td>
+<td><p><a href="../Page/록맨.md" title="wikilink">록맨</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -702,10 +702,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/록맨" title="wikilink">록맨</a></p></td>
+<td><p><a href="../Page/록맨.md" title="wikilink">록맨</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/록맨_X" title="wikilink">록맨 X</a></p></td>
+<td><p><a href="../Page/록맨_X.md" title="wikilink">록맨 X</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -782,7 +782,7 @@
 <td><p>다크스토커즈</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/베가" title="wikilink">베가</a></p></td>
+<td><p><a href="../Page/베가.md" title="wikilink">베가</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -878,7 +878,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오오카미" title="wikilink">오오카미</a></p></td>
+<td><p><a href="../Page/오오카미.md" title="wikilink">오오카미</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/아밍고" title="wikilink">아밍고</a></p></td>
@@ -892,7 +892,7 @@
 <td><p>마블 vs. 캡콤</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아서" title="wikilink">아서</a></p></td>
+<td><p><a href="../Page/아서.md" title="wikilink">아서</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -911,7 +911,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스트리트_파이터" title="wikilink">스트리트 파이터</a></p></td>
+<td><p><a href="../Page/스트리트_파이터.md" title="wikilink">스트리트 파이터</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/앨버트_웨스커" title="wikilink">앨버트 웨스커</a></p></td>
@@ -1098,7 +1098,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/데드_라이징" title="wikilink">데드 라이징</a></p></td>
+<td><p><a href="../Page/데드_라이징.md" title="wikilink">데드 라이징</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/히비키_단" title="wikilink">히비키 단</a></p></td>
@@ -1118,7 +1118,7 @@
 
 ## 같이 보기
 
-  - [스트리트 파이터 X 철권](https://ko.wikipedia.org/wiki/스트리트_파이터_X_철권 "wikilink")
+  - [스트리트 파이터 X 철권](../Page/스트리트_파이터_X_철권.md "wikilink")
 
 [분류:캡콤 게임](https://ko.wikipedia.org/wiki/분류:캡콤_게임 "wikilink") [분류:비디오 게임 시리즈](https://ko.wikipedia.org/wiki/분류:비디오_게임_시리즈 "wikilink") [분류:슈퍼히어로 게임](https://ko.wikipedia.org/wiki/분류:슈퍼히어로_게임 "wikilink") [분류:스트리트 파이터](https://ko.wikipedia.org/wiki/분류:스트리트_파이터 "wikilink") [분류:비디오 게임의 크로스오버 작품](https://ko.wikipedia.org/wiki/분류:비디오_게임의_크로스오버_작품 "wikilink") [분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink") [마블_vs._캡콤](https://ko.wikipedia.org/wiki/분류:마블_vs._캡콤 "wikilink")
 

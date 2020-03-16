@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FB-DIMM](https://ko.wikipedia.org/wiki/FB-DIMM).
 
 
-[right](https://ko.wikipedia.org/wiki/파일:FB-DIMM.JPG "wikilink") **FB-DIMM**(Fully Buffered DIMM)은 메모리 시스템의 신뢰성과 밀집도를 개선하는데 사용될 수 있는 메모리 기술의 하나이다. 전통적으로 [메모리 컨트롤러가의](https://ko.wikipedia.org/wiki/메모리_컨트롤러 "wikilink") 데이터 라인들은 모든 [DRAM](https://ko.wikipedia.org/wiki/DRAM "wikilink") 모듈의 데이터 라인에 연결되어야 한다. (예: [멀티드롭 버스](https://ko.wikipedia.org/wiki/멀티드롭_버스 "wikilink")) 메모리 폭이 접근 속도와 더불어 늘어날수록 버스와 장치 간 인터페이스의 신호는 감소한다. 이 경우 속도와 메모리 밀집도를 제한하므로 FB-[DIMM](https://ko.wikipedia.org/wiki/DIMM "wikilink")은 다른 접근을 취하여 이 문제를 해결한다.
+[right](https://ko.wikipedia.org/wiki/파일:FB-DIMM.JPG "wikilink") **FB-DIMM**(Fully Buffered DIMM)은 메모리 시스템의 신뢰성과 밀집도를 개선하는데 사용될 수 있는 메모리 기술의 하나이다. 전통적으로 [메모리 컨트롤러가의](../Page/메모리_컨트롤러.md "wikilink") 데이터 라인들은 모든 [DRAM](https://ko.wikipedia.org/wiki/DRAM "wikilink") 모듈의 데이터 라인에 연결되어야 한다. (예: [멀티드롭 버스](https://ko.wikipedia.org/wiki/멀티드롭_버스 "wikilink")) 메모리 폭이 접근 속도와 더불어 늘어날수록 버스와 장치 간 인터페이스의 신호는 감소한다. 이 경우 속도와 메모리 밀집도를 제한하므로 FB-[DIMM](../Page/DIMM.md "wikilink")은 다른 접근을 취하여 이 문제를 해결한다.
 
 240핀 DDR2 FB-DIMM은 전통적인 240핀 DDR2 DIMM과는 다르게 등급이 더 높다. 그 결과 이 두 개의 DIMM 타입은 기계적으로나 전기적으로 서로 호환성이 없다.
 
@@ -9,7 +9,7 @@
 
 ## 기술
 
-FB-DIMM 구조는 메모리 컨트롤러와 메모리 모듈 사이의 고급 메모리 버퍼(advanced memory buffer, AMB)를 도입하였다. 전통적인 DRAM의 [병렬](https://ko.wikipedia.org/wiki/병렬_통신 "wikilink") 버스 구조와 달리 FB-DIMM은 메모리 컨트롤러와 AMB 사이에 [직렬 인터페이스가](https://ko.wikipedia.org/wiki/직렬_통신 "wikilink") 있다. 이렇게 하면 실현가능한 수준 이상으로 메모리 컨트롤러의 핀 수를 늘리지 않더라도 메모리 대역을 증가시킬 수 있다. 이 구조를 통해 메모리 컨트롤러는 메모리 모듈에 직접 기록하지 않는다. 이 작업은 AMB에서 처리한다. 그러므로 AMB는 신호 버퍼링 및 재전송을 통해 신호 약화를 보완할 수 있게 된다.
+FB-DIMM 구조는 메모리 컨트롤러와 메모리 모듈 사이의 고급 메모리 버퍼(advanced memory buffer, AMB)를 도입하였다. 전통적인 DRAM의 [병렬](https://ko.wikipedia.org/wiki/병렬_통신 "wikilink") 버스 구조와 달리 FB-DIMM은 메모리 컨트롤러와 AMB 사이에 [직렬 인터페이스가](../Page/직렬_통신.md "wikilink") 있다. 이렇게 하면 실현가능한 수준 이상으로 메모리 컨트롤러의 핀 수를 늘리지 않더라도 메모리 대역을 증가시킬 수 있다. 이 구조를 통해 메모리 컨트롤러는 메모리 모듈에 직접 기록하지 않는다. 이 작업은 AMB에서 처리한다. 그러므로 AMB는 신호 버퍼링 및 재전송을 통해 신호 약화를 보완할 수 있게 된다.
 
 ## 프로토콜
 
