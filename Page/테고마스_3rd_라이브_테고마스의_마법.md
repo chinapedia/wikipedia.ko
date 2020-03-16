@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 3rd   ](https://ko.wikipedia.org/wiki/_3rd___).
 
 
-《**테고마스 3rd 라이브 테고마스의 마법★**》()은, [테고마스](https://ko.wikipedia.org/wiki/테고마스 "wikilink")의 3번째 라이브 비디오 음반이다.
+《**테고마스 3rd 라이브 테고마스의 마법★**》()은, [테고마스](../Page/테고마스.md "wikilink")의 3번째 라이브 비디오 음반이다.
 
 ## 개요
 

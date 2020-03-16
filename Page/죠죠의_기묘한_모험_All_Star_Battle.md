@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [   All Star Battle](https://ko.wikipedia.org/wiki/___All_Star_Battle).
 
 
-**죠죠의 기묘한 모험 All Star Battle**(ジョジョの奇妙な冒険 オールスターバトル)은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 29일에](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") [반다이 남코 게임스에서](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") 발매한 게임으로 만화 '[죠죠의 기묘한 모험](https://ko.wikipedia.org/wiki/죠죠의_기묘한_모험 "wikilink")'을 원작으로 한 [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 용 게임 소프트이다. 약칭은 "**죠죠 ASB**".
+**죠죠의 기묘한 모험 All Star Battle**(ジョジョの奇妙な冒険 オールスターバトル)은 [2013년](../Page/2013년.md "wikilink") [8월 29일에](../Page/8월_29일.md "wikilink") [반다이 남코 게임스에서](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") 발매한 게임으로 만화 '[죠죠의 기묘한 모험](../Page/죠죠의_기묘한_모험.md "wikilink")'을 원작으로 한 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink") 용 게임 소프트이다. 약칭은 "**죠죠 ASB**".
 
 ## 개요
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 5일에](https://ko.wikipedia.org/wiki/7월_5일 "wikilink") 행해진 저자 [아라키 히로히코의](https://ko.wikipedia.org/wiki/아라키_히로히코 "wikilink") 원화전인 '죠죠전(展)'의 기자 발표회에서 발매가 발표되었다. 장르는 [죠죠의 기묘한 모험의](https://ko.wikipedia.org/wiki/죠죠의_기묘한_모험 "wikilink") 1부부터 8부까지 등장한 주요 캐릭터들이 싸우는 [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink").
+[2012년](../Page/2012년.md "wikilink") [7월 5일에](../Page/7월_5일.md "wikilink") 행해진 저자 [아라키 히로히코의](https://ko.wikipedia.org/wiki/아라키_히로히코 "wikilink") 원화전인 '죠죠전(展)'의 기자 발표회에서 발매가 발표되었다. 장르는 [죠죠의 기묘한 모험의](../Page/죠죠의_기묘한_모험.md "wikilink") 1부부터 8부까지 등장한 주요 캐릭터들이 싸우는 [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink").
 
 총 참전 캐릭터는 34명으로 확정되었으며 기본 참전 캐릭터 32명에 DLC로 구입이 가능한 키라 요시카게와 얀구 시게키요가 추가된다. 8월 28일 열린 발매 전야제에서 추가 DLC 캐릭터로 이기와 판나코타 푸고, 아라키의 다른 작품인 《바오 내방자》의 바오가 발표되었다. 이후에도 지속적으로 추가 캐릭터를 공개할 예정이라고 한다.
 
@@ -71,7 +71,7 @@
     성우 - [시오야 요쿠](https://ko.wikipedia.org/wiki/시오야_요쿠 "wikilink")
     배틀 스타일 - 파문
   - 디오 브란도
-    성우 - [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+    성우 - [코야스 타케히토](../Page/코야스_타케히토.md "wikilink")
     배틀 스타일 - 흡혈
 
 #### 기타 캐릭터
@@ -88,7 +88,7 @@
 #### 참전 캐릭터
 
   - 죠셉 죠스타
-    성우 - [스기타 토모카즈](https://ko.wikipedia.org/wiki/스기타_토모카즈 "wikilink")
+    성우 - [스기타 토모카즈](../Page/스기타_토모카즈.md "wikilink")
     배틀 스타일 - 파문
   - 시저 안토니오 체펠리
     성우 - [사토 타쿠야](../Page/사토_타쿠야.md "wikilink")
@@ -97,13 +97,13 @@
     성우 - [오오츠카 아키오](../Page/오오츠카_아키오.md "wikilink")
     배틀 스타일 - 유법
   - 에시디시
-    성우 - [후지와라 케이지](https://ko.wikipedia.org/wiki/후지와라_케이지 "wikilink")
+    성우 - [후지와라 케이지](../Page/후지와라_케이지.md "wikilink")
     배틀 스타일- 유법
   - 카즈
     성우 - [이노우에 카즈히코](https://ko.wikipedia.org/wiki/이노우에_카즈히코 "wikilink")
     배틀 스타일 - 유법
   - 리사리사(DLC)
-    성우 - [타나카 아츠코](https://ko.wikipedia.org/wiki/타나카_아츠코 "wikilink")
+    성우 - [타나카 아츠코](../Page/타나카_아츠코.md "wikilink")
     배틀스타일 - 파문
 
 #### 기타 캐릭터
@@ -116,10 +116,10 @@
 #### 참전 캐릭터
 
   - 쿠죠 죠타로 & 스타 플래티나
-    성우 - [오노 다이스케](https://ko.wikipedia.org/wiki/오노_다이스케 "wikilink")
+    성우 - [오노 다이스케](../Page/오노_다이스케.md "wikilink")
     배틀 스타일 - 스탠드
   - 카쿄인 노리아키 & 하이어로팬트 그린
-    성우 - [유사 코지](https://ko.wikipedia.org/wiki/유사_코지 "wikilink")
+    성우 - [유사 코지](../Page/유사_코지.md "wikilink")
     배틀 스타일 - 스탠드
   - 장 피에르 폴나레프 & 실버 채리엇
     성우 - [히라타 히로아키](https://ko.wikipedia.org/wiki/히라타_히로아키 "wikilink")
@@ -127,20 +127,20 @@
   - 무함마드 압둘 & 매지션즈 레드
     성우 - [에바라 마사시](https://ko.wikipedia.org/wiki/에바라_마사시 "wikilink")
     배틀 스타일 - 스탠드
-  - 홀 호스 & 엠퍼러 + J. 가일 & 행드맨(성우-[타치키 후미히코](https://ko.wikipedia.org/wiki/타치키_후미히코 "wikilink"))
+  - 홀 호스 & 엠퍼러 + J. 가일 & 행드맨(성우-[타치키 후미히코](../Page/타치키_후미히코.md "wikilink"))
     성우 - [오오츠카 호우츄](https://ko.wikipedia.org/wiki/오오츠카_호우츄 "wikilink")
     배틀 스타일 - 스탠드
   - DIO & 더 월드
-    성우 - [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+    성우 - [코야스 타케히토](../Page/코야스_타케히토.md "wikilink")
     배틀 스타일 - 스탠드
   - 이기 & 더 풀(DLC)
     성우 - [치바 시게루](https://ko.wikipedia.org/wiki/치바_시게루 "wikilink")
     배틀 스타일 - 스탠드
   - 죠셉 죠스타 & 허밋 퍼플(DLC)
-    성우 - [스기타 토모카즈](https://ko.wikipedia.org/wiki/스기타_토모카즈 "wikilink")
+    성우 - [스기타 토모카즈](../Page/스기타_토모카즈.md "wikilink")
     배틀 스타일 - 스탠드+파문
   - 바닐라 아이스 & 크림(DLC)
-    성우 - [요시노 히로유키](https://ko.wikipedia.org/wiki/요시노_히로유키 "wikilink")
+    성우 - [요시노 히로유키](../Page/요시노_히로유키.md "wikilink")
     배틀 스타일 - 스탠드
 
 #### 기타 캐릭터
@@ -154,7 +154,7 @@
   - 다니엘 J. 다비 & 오시리스신
     성우 - [이시이 코우지](https://ko.wikipedia.org/wiki/이시이_코우지 "wikilink")
   - 테렌스 드렌트 다비 & 아툼신
-    성우 - [스와베 준이치](https://ko.wikipedia.org/wiki/스와베_준이치 "wikilink")
+    성우 - [스와베 준이치](../Page/스와베_준이치.md "wikilink")
   - 오잉고 & 크눔신
     성우 - [스가누마 히사요시](https://ko.wikipedia.org/wiki/스가누마_히사요시 "wikilink")
   - 보잉고 & 토트신
@@ -165,40 +165,40 @@
 #### 참전 캐릭터
 
   - [히가시카타 죠스케](../Page/히가시카타_죠스케.md "wikilink") & 크레이지 다이아몬드
-    성우 - [하타노 와타루](https://ko.wikipedia.org/wiki/하타노_와타루 "wikilink")
+    성우 - [하타노 와타루](../Page/하타노_와타루.md "wikilink")
     배틀 스타일 - 스탠드
   - 니지무라 오쿠야스 & 더 핸드
     성우 - [타카기 와타루](https://ko.wikipedia.org/wiki/타카기_와타루 "wikilink")
     배틀 스타일 - 스탠드
   - 히로세 코이치 & 에코즈 Act. 1 \~ 3
-    성우 - [박로미](https://ko.wikipedia.org/wiki/박로미 "wikilink")
+    성우 - [박로미](../Page/박로미.md "wikilink")
     배틀 스타일 - 스탠드
   - 오토이시 아키라 & 레드 핫 칠리 페퍼
-    성우 - [모리쿠보 쇼타로](https://ko.wikipedia.org/wiki/모리쿠보_쇼타로 "wikilink")
+    성우 - [모리쿠보 쇼타로](../Page/모리쿠보_쇼타로.md "wikilink")
     배틀 스타일 - 스탠드
   - 키시베 로한 & 헤븐즈 도어
-    성우 - [카미야 히로시](https://ko.wikipedia.org/wiki/카미야_히로시 "wikilink")
+    성우 - [카미야 히로시](../Page/카미야_히로시.md "wikilink")
     배틀 스타일 - 스탠드
   - 카와지리 코우사쿠 & 킬러 퀸 & 바이쳐 더스트 + 고양이풀 & 스트레이 캣
-    성우 - [코야마 리키야](https://ko.wikipedia.org/wiki/코야마_리키야 "wikilink")
+    성우 - [코야마 리키야](../Page/코야마_리키야.md "wikilink")
     배틀 스타일 - 스탠드
   - 키라 요시카게 & 킬러 퀸 & 시어 하트 어택(성우 - [카시와쿠라 츠토무](https://ko.wikipedia.org/wiki/카시와쿠라_츠토무 "wikilink"))(DLC)
-    성우 - [코야마 리키야](https://ko.wikipedia.org/wiki/코야마_리키야 "wikilink")
+    성우 - [코야마 리키야](../Page/코야마_리키야.md "wikilink")
     배틀 스타일 - 스탠드
   - 얀구 시게키요 & 하베스트(DLC)
-    성우 - [야마구치 캇페이](https://ko.wikipedia.org/wiki/야마구치_캇페이 "wikilink")
+    성우 - [야마구치 캇페이](../Page/야마구치_캇페이.md "wikilink")
     배틀 스타일 - 스탠드
 
 #### 기타 캐릭터
 
   - 키라 요시히로 & 아톰 하트 파더
-    성우 - [시마다 빈](https://ko.wikipedia.org/wiki/시마다_빈 "wikilink")
+    성우 - [시마다 빈](../Page/시마다_빈.md "wikilink")
     4부 스테이지인 '키라 요시카게의 저택'에서 스테이지 특수 효과로 등장한다.
   - 카와지리 하야토
     성우 - [사토 유코](https://ko.wikipedia.org/wiki/사토_유코 "wikilink")
     카와지리 코우사쿠의 스탠드 '바이쳐 더스트'의 연출에 등장한다.
   - 스기모토 레이미
-    성우 - [히로하시 료](https://ko.wikipedia.org/wiki/히로하시_료 "wikilink")
+    성우 - [히로하시 료](../Page/히로하시_료.md "wikilink")
     4부 스테이지인 '모리오쵸 마을'에서 시추에이션 마무리 연출로 등장한다.
 
 ### 5부 황금의 바람
@@ -206,21 +206,21 @@
 #### 참전 캐릭터
 
   - 죠르노 죠바나 & 골드 익스피리언스 & 골드 익스피리언스 레퀴엠(성우 - [와타나베 미사](https://ko.wikipedia.org/wiki/와타나베_미사 "wikilink"))
-    성우 - [나미카와 다이스케](https://ko.wikipedia.org/wiki/나미카와_다이스케 "wikilink")
+    성우 - [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")
     배틀 스타일 - 스탠드
-  - 귀도 미스타 & 섹스 피스톨즈(성우 - [이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))
+  - 귀도 미스타 & 섹스 피스톨즈(성우 - [이마이 아사미](../Page/이마이_아사미.md "wikilink"))
     성우 - [아카바네 겐지](https://ko.wikipedia.org/wiki/아카바네_겐지 "wikilink")
     배틀 스타일 - 스탠드
   - 블로노 부첼라티 & 스틱키 핑거즈
-    성우 - [스기야마 노리아키](https://ko.wikipedia.org/wiki/스기야마_노리아키 "wikilink")
+    성우 - [스기야마 노리아키](../Page/스기야마_노리아키.md "wikilink")
     배틀 스타일 - 스탠드
   - 나란챠 길가 & 에어로스미스
     성우 - [산페이 유코](https://ko.wikipedia.org/wiki/산페이_유코 "wikilink")
     배틀 스타일 - 스탠드
-  - [디아볼로](../Page/디아볼로_\(죠죠의_기묘한_모험\).md "wikilink") & 킹 크림슨 + 비네거 도피오(성우 - [이시다 아키라](https://ko.wikipedia.org/wiki/이시다_아키라 "wikilink"))
-    성우 - [모리카와 토시유키](https://ko.wikipedia.org/wiki/모리카와_토시유키 "wikilink")
+  - [디아볼로](../Page/디아볼로_\(죠죠의_기묘한_모험\).md "wikilink") & 킹 크림슨 + 비네거 도피오(성우 - [이시다 아키라](../Page/이시다_아키라.md "wikilink"))
+    성우 - [모리카와 토시유키](../Page/모리카와_토시유키.md "wikilink")
     배틀 스타일 - 스탠드
-  - 판나코타 푸고 & 퍼플 헤이즈(성우 - [에가와 히사오](https://ko.wikipedia.org/wiki/에가와_히사오 "wikilink"))(DLC)
+  - 판나코타 푸고 & 퍼플 헤이즈(성우 - [에가와 히사오](../Page/에가와_히사오.md "wikilink"))(DLC)
     성우 - [오다 히사후미](https://ko.wikipedia.org/wiki/오다_히사후미 "wikilink")
     배틀 스타일 - 스탠드
 
@@ -232,15 +232,15 @@
   - 메로네 & 베이비 페이스
     성우 - [노지마 켄지](https://ko.wikipedia.org/wiki/노지마_켄지 "wikilink")
   - 프로슈토 & 더 그레이트풀 데드
-    성우 - [테라시마 타쿠마](https://ko.wikipedia.org/wiki/테라시마_타쿠마 "wikilink")
+    성우 - [테라시마 타쿠마](../Page/테라시마_타쿠마.md "wikilink")
     5부의 스테이지인 '네아폴리스 역'의 스테이지 특수 효과 및 시추에이션 피니쉬의 연출에 등장한다.
   - 펫시 & 비치 보이
     성우 - [후쿠마츠 신야](https://ko.wikipedia.org/wiki/후쿠마츠_신야 "wikilink")
     5부의 스테이지인 '네아폴리스 역'의 스테이지 특수 효과 및 시추에이션 피니쉬의 연출에 등장한다.
   - 기앗쵸 & 화이트 앨범
-    성우 - [스즈키 타츠히사](https://ko.wikipedia.org/wiki/스즈키_타츠히사 "wikilink")
+    성우 - [스즈키 타츠히사](../Page/스즈키_타츠히사.md "wikilink")
   - 셋코 & 오아시스
-    성우 - [시모노 히로](https://ko.wikipedia.org/wiki/시모노_히로 "wikilink")
+    성우 - [시모노 히로](../Page/시모노_히로.md "wikilink")
     5부의 스테이지인 '로마 시내'에서 스테이지 특수 효과로 등장한다.
 
 ### 6부 스톤 오션
@@ -248,13 +248,13 @@
 #### 참전 캐릭터
 
   - 쿠죠 죠린 & 스톤 프리
-    성우 - [사와시로 미유키](https://ko.wikipedia.org/wiki/사와시로_미유키 "wikilink")
+    성우 - [사와시로 미유키](../Page/사와시로_미유키.md "wikilink")
     배틀 스타일 - 스탠드
   - 에르메스 코스텔로 & 키스
     성우 - [요네모토 치즈](https://ko.wikipedia.org/wiki/요네모토_치즈 "wikilink")
     배틀 스타일 - 스탠드
   - 엔리코 푸치 & 화이트스네이크(성우 - [키리모토 타쿠야](https://ko.wikipedia.org/wiki/키리모토_타쿠야 "wikilink")) & C-MOON & 메이드 인 헤븐
-    성우 - [하야미 쇼](https://ko.wikipedia.org/wiki/하야미_쇼 "wikilink")
+    성우 - [하야미 쇼](../Page/하야미_쇼.md "wikilink")
     배틀 스타일 - 스탠드
   - 나르시소 아나수이 & 다이버 다운(DLC)
     성우 - [나카무라 유이치](https://ko.wikipedia.org/wiki/나카무라_유이치 "wikilink")
@@ -274,10 +274,10 @@
 #### 참전 캐릭터
 
   - [죠니 죠스타](../Page/죠나단_죠스타.md "wikilink") & 터스크 Act. 1 \~ 4
-    성우 - [카지 유우키](https://ko.wikipedia.org/wiki/카지_유우키 "wikilink")
+    성우 - [카지 유우키](../Page/카지_유우키.md "wikilink")
     배틀 스타일 - 스탠드, 승마
   - 쟈이로 체펠리 & 볼 브레이커
-    성우 - [미키 신이치로](https://ko.wikipedia.org/wiki/미키_신이치로 "wikilink")
+    성우 - [미키 신이치로](../Page/미키_신이치로.md "wikilink")
     배틀 스타일 - 스탠드, 승마
   - 퍼니 발렌타인 & D4C
     성우 - [카세 야스유키](../Page/카세_야스유키.md "wikilink")
@@ -294,13 +294,13 @@
 #### 참전 캐릭터
 
   - [히가시카타 죠스케](../Page/히가시카타_죠스케.md "wikilink") & 소프트&웨트
-    성우 - [마도노 미츠아키](https://ko.wikipedia.org/wiki/마도노_미츠아키 "wikilink")
+    성우 - [마도노 미츠아키](../Page/마도노_미츠아키.md "wikilink")
     배틀 스타일 - 스탠드
 
 #### 기타 캐릭터
 
   - 히로세 야스호 & 페이즐리 파크
-    성우 - [키타무라 에리](https://ko.wikipedia.org/wiki/키타무라_에리 "wikilink")
+    성우 - [키타무라 에리](../Page/키타무라_에리.md "wikilink")
     8부의 무대인 '모리오쵸 시 벽의 눈'에서 스테이지 특수 효과 및 시추에이션 피니쉬의 연출로 등장한다.
   - 히가시카타 죠슈 & 넛 킹 콜
     성우 - [미우라 히로아키](https://ko.wikipedia.org/wiki/미우라_히로아키 "wikilink")
@@ -311,7 +311,7 @@
 #### 참전 캐릭터
 
   - 하시자와 이쿠로 = 바오(DLC)
-    성우 - [우치야마 코우키](https://ko.wikipedia.org/wiki/우치야마_코우키 "wikilink")
+    성우 - [우치야마 코우키](../Page/우치야마_코우키.md "wikilink")
     배틀 스타일 - 바오 암드 페노메논
 
 ## 등장 스테이지

@@ -1,30 +1,30 @@
 > This article is converted from Wikipedia: [The Best! \~Updated \~](https://ko.wikipedia.org/wiki/The_Best!_\~Updated_\~).
 
 
-**The Best\! \~Updated [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")\~**()는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 25일에](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") 발매되는 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 다섯 번째 베스트 앨범이다.
+**The Best\! \~Updated [모닝구무스메](../Page/모닝구무스메.md "wikilink")\~**()는 [2013년](../Page/2013년.md "wikilink") [9월 25일에](../Page/9월_25일.md "wikilink") 발매되는 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 다섯 번째 베스트 앨범이다.
 
 ## 개요
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 7일에](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") 발매 된 네 번째 베스트 앨범이자, 커플링 곡 베스트 앨범인 "[모닝구무스메 전 싱글 커플링 컬렉션](https://ko.wikipedia.org/wiki/모닝구무스메_전_싱글_커플링_컬렉션 "wikilink")"에 4년 만에 발매되는 베스트 앨범이다.
+  - [2009년](../Page/2009년.md "wikilink") [10월 7일에](../Page/10월_7일.md "wikilink") 발매 된 네 번째 베스트 앨범이자, 커플링 곡 베스트 앨범인 "[모닝구무스메 전 싱글 커플링 컬렉션](../Page/모닝구무스메_전_싱글_커플링_컬렉션.md "wikilink")"에 4년 만에 발매되는 베스트 앨범이다.
 
 ## 수록곡
 
-1.  '''[LOVEマシーン](https://ko.wikipedia.org/wiki/LOVE머신 "wikilink")(updated) '''
+1.  '''[LOVEマシーン](../Page/LOVE머신.md "wikilink")(updated) '''
       -
         작사, 작곡 : 층쿠 / 편곡 : 댄스☆맨
-2.  '''[I WISH](https://ko.wikipedia.org/wiki/I_WISH_\(모닝구무스메의_노래\) "wikilink")(updated) '''
+2.  '''[I WISH](../Page/I_WISH_\(모닝구무스메의_노래\).md "wikilink")(updated) '''
       -
         작사, 작곡 : 층쿠 / 편곡 : 고노 신
 3.  '''[恋愛レボリューション21](https://ko.wikipedia.org/wiki/렌아이_레볼루션21 "wikilink")(updated) '''
       -
         작사, 작곡 : 층쿠 / 편곡 : 댄스☆맨
-4.  '''[ザ☆ピ〜ス\!](https://ko.wikipedia.org/wiki/더☆피스! "wikilink")(updated) '''
+4.  '''[ザ☆ピ〜ス\!](../Page/더☆피스!.md "wikilink")(updated) '''
       -
         작사, 작곡 : 층쿠 / 편곡 : 댄스☆맨
 5.  **[そうだ\! We're ALIVE](https://ko.wikipedia.org/wiki/소다!_We're_ALIVE "wikilink")(updated)**
       -
         작사, 작곡 : 층쿠 / 편곡 : 댄스☆맨
-6.  **[THE マンパワー\!\!\!](https://ko.wikipedia.org/wiki/THE_맨파워!!! "wikilink")(updated)**
+6.  **[THE マンパワー\!\!\!](../Page/THE_맨파워!!!.md "wikilink")(updated)**
       -
         작사, 작곡 : 층쿠 / 편곡 : 마쓰바라 겐
 7.  **[歩いてる](https://ko.wikipedia.org/wiki/아루이테루 "wikilink")(updated)**
@@ -36,10 +36,10 @@
 9.  **[One・Two・Three](https://ko.wikipedia.org/wiki/One·Two·Three/The_마천루쇼 "wikilink")(updated)**
       -
         작사, 작곡 : 층쿠 / 편곡 : 오오쿠보 카오루
-10. **[ワクテカ Take a chance](https://ko.wikipedia.org/wiki/와쿠테카_Take_a_chance "wikilink")(updated)**
+10. **[ワクテカ Take a chance](../Page/와쿠테카_Take_a_chance.md "wikilink")(updated)**
       -
         작사, 작곡 : 층쿠 / 편곡 : 오오쿠보 카오루
-11. **[Help me\!\!](https://ko.wikipedia.org/wiki/Help_me!! "wikilink")(updated)**
+11. **[Help me\!\!](../Page/Help_me!!.md "wikilink")(updated)**
       -
         작사, 작곡 : 층쿠 / 편곡 : 오오쿠보 카오루
 12. **[ブレインストーミング](https://ko.wikipedia.org/wiki/브레인_스토밍/기미사에_아레바_나니모_이라나이 "wikilink")(updated)**

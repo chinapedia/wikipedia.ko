@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBM ](https://ko.wikipedia.org/wiki/IBM_).
 
 
-**IBM 노트**(이전 이름: 로터스 노트/Lotus Notes)와 **IBM 도미노**(이전 이름: 로터스 도미노/Lotus Domino\[1\])는 IBM사에서 출시된 협동 클라이언트 서버 소프트웨어 플랫폼 역할을 하는 [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")와 [서버](https://ko.wikipedia.org/wiki/서버 "wikilink")이다.
+**IBM 노트**(이전 이름: 로터스 노트/Lotus Notes)와 **IBM 도미노**(이전 이름: 로터스 도미노/Lotus Domino\[1\])는 IBM사에서 출시된 협동 클라이언트 서버 소프트웨어 플랫폼 역할을 하는 [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")와 [서버](../Page/서버.md "wikilink")이다.
 
 IBM 노트는 전자 메일, 달력, 할 일 목록, 연락처 관리, 팀룸(teamroom), 토론 포럼, 파일 공유, 마이크로블로그, 인스턴트 메신저, 블로그, 사용자 디렉터리를 포함한 비즈니스 협업 기능을 제공한다. 또, IBM 노트는 다른 IBM 도미노 응용 프로그램들 및 데이터베이스들과의 접근과 통합을 제공한다.
 
@@ -23,7 +23,7 @@ IBM 노트와 도미노는 [NoSQL](../Page/NoSQL.md "wikilink") 클라이언트/
 
 ### 데이터 복제
 
-IBM 노트의 최초 버전에는 일반화된 복제 기능이 포함되었다. 이 기능은 본연적으로 [유즈넷](https://ko.wikipedia.org/wiki/유즈넷 "wikilink")과 같은 전작과는 구별되며, IBM 노트를 현재 일부 형태의 동기화나 복제를 제공하는 다른 수많은 시스템들과 차별화하는 것을 계속하고 있다. IBM 노트와 도미노의 복제 기능은 이메일, 달력, 연락처에 국한되지 않는다. 노트 스토리지 기능(.nsf) 파일을 사용하는 모든 프로그램의 데이터에 사용이 가능하다.
+IBM 노트의 최초 버전에는 일반화된 복제 기능이 포함되었다. 이 기능은 본연적으로 [유즈넷](../Page/유즈넷.md "wikilink")과 같은 전작과는 구별되며, IBM 노트를 현재 일부 형태의 동기화나 복제를 제공하는 다른 수많은 시스템들과 차별화하는 것을 계속하고 있다. IBM 노트와 도미노의 복제 기능은 이메일, 달력, 연락처에 국한되지 않는다. 노트 스토리지 기능(.nsf) 파일을 사용하는 모든 프로그램의 데이터에 사용이 가능하다.
 
 ## 각주
 

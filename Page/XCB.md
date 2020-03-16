@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [XCB](https://ko.wikipedia.org/wiki/XCB).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Xlib_and_XCB_in_the_X_Window_System_graphics_stack.svg "wikilink") **XCB**(X protocol C-language Binding)는 [컴퓨팅](https://ko.wikipedia.org/wiki/컴퓨팅 "wikilink")에서 [X 윈도 시스템을](https://ko.wikipedia.org/wiki/X_윈도_시스템 "wikilink") 위한 [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") [언어 결합이다](https://ko.wikipedia.org/wiki/언어_결합 "wikilink"). [자유 소프트웨어로](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") 구현되어 있으며 [Xlib](../Page/Xlib.md "wikilink")을 대체하는 것을 목적으로 한다. 이 프로젝트는 2001년 Bart Massey가 시작하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Xlib_and_XCB_in_the_X_Window_System_graphics_stack.svg "wikilink") **XCB**(X protocol C-language Binding)는 [컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 [X 윈도 시스템을](../Page/X_윈도_시스템.md "wikilink") 위한 [C](../Page/C_\(프로그래밍_언어\).md "wikilink") [언어 결합이다](https://ko.wikipedia.org/wiki/언어_결합 "wikilink"). [자유 소프트웨어로](../Page/자유_소프트웨어.md "wikilink") 구현되어 있으며 [Xlib](../Page/Xlib.md "wikilink")을 대체하는 것을 목적으로 한다. 이 프로젝트는 2001년 Bart Massey가 시작하였다.
 
-**Xlib/XCB**는 점진적인 이식 경로를 통해 Xlib와 XCB에 대한 [응용 프로그램 이진 인터페이스](https://ko.wikipedia.org/wiki/응용_프로그램_이진_인터페이스 "wikilink") 호환성을 제공한다. Xlib/XCB는 Xlib 프로토콜 계층을 사용하지만 Xlib 전송 계층을 XCB로 대체하며 XCB를 직접 이용할 수 있도록 기반 XCB 연결로의 접근을 제공한다. 대부분의 운영 체제는 X11 구현을 위해 Xlib/XCB를 사용하는데, 그 까닭은 여러 라이브러리들을 통해 응용 프로그램이 [X 서버로의](https://ko.wikipedia.org/wiki/X_서버 "wikilink") 연결을 개시하여 XCB와 Xlib를 둘 다 사용할 수 있기 때문이다.\[1\]\[2\]
+**Xlib/XCB**는 점진적인 이식 경로를 통해 Xlib와 XCB에 대한 [응용 프로그램 이진 인터페이스](../Page/응용_프로그램_이진_인터페이스.md "wikilink") 호환성을 제공한다. Xlib/XCB는 Xlib 프로토콜 계층을 사용하지만 Xlib 전송 계층을 XCB로 대체하며 XCB를 직접 이용할 수 있도록 기반 XCB 연결로의 접근을 제공한다. 대부분의 운영 체제는 X11 구현을 위해 Xlib/XCB를 사용하는데, 그 까닭은 여러 라이브러리들을 통해 응용 프로그램이 [X 서버로의](https://ko.wikipedia.org/wiki/X_서버 "wikilink") 연결을 개시하여 XCB와 Xlib를 둘 다 사용할 수 있기 때문이다.\[1\]\[2\]
 
 ## 목적
 
@@ -90,7 +90,7 @@ int main(void) {
 
 ## 프로토콜 정의
 
-XCB 제작자들은 전문화된 [인터페이스 정의 언어를](https://ko.wikipedia.org/wiki/인터페이스_정의_언어 "wikilink") 만들어서 언어 중립적인 방식으로 X11 프로토콜을 모델링하고 다른 프로그래밍 언어들과의 바인딩을 쉽게 할 수 있게 하였다. libxcb 그 자체는 코드 발생기로서 구현되어 있다.
+XCB 제작자들은 전문화된 [인터페이스 정의 언어를](../Page/인터페이스_정의_언어.md "wikilink") 만들어서 언어 중립적인 방식으로 X11 프로토콜을 모델링하고 다른 프로그래밍 언어들과의 바인딩을 쉽게 할 수 있게 하였다. libxcb 그 자체는 코드 발생기로서 구현되어 있다.
 
 예:
 
@@ -110,11 +110,11 @@ XCB 제작자들은 전문화된 [인터페이스 정의 언어를](https://ko.w
 
 ## 로고
 
-XCB 로고는 Neko the Kitty [웹툰](https://ko.wikipedia.org/wiki/웹툰 "wikilink") 작가 Gearóid Molloy가 만들어 프로젝트에 기부한 것이다.\[3\]
+XCB 로고는 Neko the Kitty [웹툰](../Page/웹툰.md "wikilink") 작가 Gearóid Molloy가 만들어 프로젝트에 기부한 것이다.\[3\]
 
 ## 기타 언어 바인딩
 
-  - [xpyb](http://xcb.freedesktop.org/XcbPythonBinding/) - XCB를 이용한 X 윈도 시스템으로의 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") 바인딩. 2013년 6월 기준으로 python3를 지원하지 않는다. [freedesktop.org](https://ko.wikipedia.org/wiki/freedesktop.org "wikilink") 제공.
+  - [xpyb](http://xcb.freedesktop.org/XcbPythonBinding/) - XCB를 이용한 X 윈도 시스템으로의 [파이썬](../Page/파이썬.md "wikilink") 바인딩. 2013년 6월 기준으로 python3를 지원하지 않는다. [freedesktop.org](https://ko.wikipedia.org/wiki/freedesktop.org "wikilink") 제공.
 
 ## 참조
 

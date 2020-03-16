@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Long Road Out of Eden](https://ko.wikipedia.org/wiki/Long_Road_Out_of_Eden).
 
 
-***Long Road Out of Eden***은 미국의 록 밴드 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")의 일곱번째 정규음반이며, 마지막 정규음반이자 재결합 후 첫 정규음반이다. 2001년 음반 녹음을 시작하여 약 6년만에 앨범을 완성시켜 2007년 발매하였다. 이 앨범은 미국에서 차트 1위를 기록하였으며, "How Long"와 경음악 "I Dreamed There Was No War"로 그래미상을 수상하였다. 발매후 미국 내에서만 350만장이 팔렸다. 이 앨범을 발매하고 월드투어를 돌았다.
+***Long Road Out of Eden***은 미국의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 일곱번째 정규음반이며, 마지막 정규음반이자 재결합 후 첫 정규음반이다. 2001년 음반 녹음을 시작하여 약 6년만에 앨범을 완성시켜 2007년 발매하였다. 이 앨범은 미국에서 차트 1위를 기록하였으며, "How Long"와 경음악 "I Dreamed There Was No War"로 그래미상을 수상하였다. 발매후 미국 내에서만 350만장이 팔렸다. 이 앨범을 발매하고 월드투어를 돌았다.
 
 ## 트랙 리스트
 

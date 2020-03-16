@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [\~A.I.Knows LOVE\?\~](https://ko.wikipedia.org/wiki/\~A.I.Knows_LOVE\?\~).
 
 
-《**안도로이도\~A.I.Knows LOVE?\~**》()는 [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 계열의 〈[일요극장](https://ko.wikipedia.org/wiki/일요극장 "wikilink")〉 시간대(매주 [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 21:00 \~ 21:54〈[JST](https://ko.wikipedia.org/wiki/일본표준시 "wikilink")〉에 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 13일부터](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") [12월 15일까지](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](https://ko.wikipedia.org/wiki/기무라_타쿠야 "wikilink").
+《**안도로이도\~A.I.Knows LOVE?\~**》()는 [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 계열의 〈[일요극장](../Page/일요극장.md "wikilink")〉 시간대(매주 [일요일](../Page/일요일.md "wikilink") 21:00 \~ 21:54〈[JST](https://ko.wikipedia.org/wiki/일본표준시 "wikilink")〉에 [2013년](../Page/2013년.md "wikilink") [10월 13일부터](../Page/10월_13일.md "wikilink") [12월 15일까지](../Page/12월_15일.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink").
 
 [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**내가 죽어도, 널 절대로 지킬테니까・・・. 100년 후에도 계속 지킬테니까・・・.**〉.
 
@@ -13,25 +13,25 @@
 
 ### 주요 인물
 
-  - 안도 로이도 - [키무라 타쿠야](https://ko.wikipedia.org/wiki/기무라_타쿠야 "wikilink")
+  - 안도 로이도 - [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")
     2113년에서 온 안드로이드.
   - 마츠시마 레이지 \<38\> - 키무라 타쿠야 (2역)
     도쿄 제국 대학 차원물리학부 물리학과 우주이론학 교수. IQ는 245. 사망 시기:2013년 10월 7일 15:05 보소 반도 바다.
-  - 안도 아사히 - [시바사키 코우](https://ko.wikipedia.org/wiki/시바사키_코우 "wikilink")
+  - 안도 아사히 - [시바사키 코우](../Page/시바사키_코우.md "wikilink")
     레이지의 약혼자로, 규모가 큰 외국계 IT 기업 〈에니그마 엔진 소프트사〉의 젊은 홍보 실장. 미인으로 영어가 뛰어난 비즈니스 우먼.
   - 마츠시마 나나세 - [오오시마 유코](https://ko.wikipedia.org/wiki/오오시마_유코 "wikilink")
     레이지의 여동생으로, 오빠와 같은 연구실에 있는 준교수. 레이지와 마찬가지로 천재적인 두뇌를 갖고 있다.
 
 ### 에니그마 엔진 소프트사
 
-  - 호시 신조 - [키리타니 켄타](https://ko.wikipedia.org/wiki/키리타니_켄타 "wikilink")
+  - 호시 신조 - [키리타니 켄타](../Page/키리타니_켄타.md "wikilink")
     아사히의 부하로, 시스템 엔지니어 겸 홍보 담당.
   - 코마츠 사키코 \<30\> - 야마구치 사야카
     아사히의 부하로, 홍보실의 임시직 OL.
 
 ### 도쿄 제국 대학 마츠시마 연구실
 
-  - 에도가와 토무 - [제시](https://ko.wikipedia.org/wiki/제시_\(배우\) "wikilink") ([쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니스_주니어 "wikilink"))
+  - 에도가와 토무 - [제시](../Page/제시_\(배우\).md "wikilink") ([쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink"))
     레이지의 조수.
   - 쿠리야마 카오루 - [야마모토 미즈키](../Page/야마모토_미즈키.md "wikilink")
     레이지의 조수.
@@ -40,7 +40,7 @@
 
 ### 경시청
 
-  - 카도시로 하지메 - [히라오카 유타](https://ko.wikipedia.org/wiki/히라오카_유타 "wikilink")
+  - 카도시로 하지메 - [히라오카 유타](../Page/히라오카_유타.md "wikilink")
     공안부의 간부.
   - 아시모 이사쿠 - 엔도 켄이치
     공안부 제구과 특수수사반의 형사.
@@ -51,7 +51,7 @@
 
   - 사프리 - [혼다 츠바사](../Page/혼다_츠바사.md "wikilink")
     안도 로이도의 수리를 하는 서플라이어 안드로이드.
-  - 수수께끼의 미소녀 - [키리타니 미레이](https://ko.wikipedia.org/wiki/키리타니_미레이 "wikilink")
+  - 수수께끼의 미소녀 - [키리타니 미레이](../Page/키리타니_미레이.md "wikilink")
     하얀 세라복을 몸에 걸치고 있는 수수께끼의 여고생.
   - 안도 케이코 - 나토리 유코 (특별 출연)
     아사히의 어머니.
@@ -79,7 +79,7 @@
 #### 제3화
 
   - 볼타 ☆ - 미우라 리키
-    [파리형의](https://ko.wikipedia.org/wiki/파리_\(곤충\) "wikilink") 소형 로봇을 조종하는 카멜레온 타입의 안드로이드.
+    [파리형의](../Page/파리_\(곤충\).md "wikilink") 소형 로봇을 조종하는 카멜레온 타입의 안드로이드.
   - 간수 - 아쟈 콩
     아사히가 [구류](https://ko.wikipedia.org/wiki/구류 "wikilink")된 유치장의 여성 간수.
   - 경관1 - 스기우라 다이스케
@@ -164,7 +164,7 @@
 
 #### 제8화
 
-  - 거물 정치가 - [이노우에 마키오](https://ko.wikipedia.org/wiki/이노우에_마키오 "wikilink") (제9화)
+  - 거물 정치가 - [이노우에 마키오](../Page/이노우에_마키오.md "wikilink") (제9화)
 
   - 의사 - 시마다 큐사쿠
     입원한 나나세의 담당의.
@@ -183,11 +183,11 @@
 
   - 각본 - [니시오기 유미에](../Page/니시오기_유미에.md "wikilink"), 이즈미자와 요코
   - 음악 - 칸노 유고
-  - 주제가 - [타케우치 마리야](https://ko.wikipedia.org/wiki/다케우치_마리야 "wikilink") 〈Your Eyes〉 ([워너 뮤직 재팬](https://ko.wikipedia.org/wiki/워너_뮤직_재팬 "wikilink"))
+  - 주제가 - [타케우치 마리야](https://ko.wikipedia.org/wiki/다케우치_마리야 "wikilink") 〈Your Eyes〉 ([워너 뮤직 재팬](../Page/워너_뮤직_재팬.md "wikilink"))
   - 연출 - 하타노 타카후미, 키무라 히사시, 츠보이 토시오
   - 컨셉트·설정 협력 - 안노 히데아키, 츠루마키 카즈야, 마에다 마히로
   - 프로듀서 - 우에다 히로키, 츠보이 토시오, 하세가와 하루히코 ([ROBOT](https://ko.wikipedia.org/wiki/로봇_\(기업\) "wikilink")), 야스다 쿠니히로 (ROBOT)
-  - 제작 저작 - [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink")
+  - 제작 저작 - [TBS](../Page/도쿄_방송_홀딩스.md "wikilink")
 
 ## 방송 일자
 
@@ -285,7 +285,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>평균 시청률 12.8% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>평균 시청률 12.8% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -11,14 +11,14 @@
 
 ## 이용 가능 구간
 
-  - [하코다테 본선](https://ko.wikipedia.org/wiki/하코다테_본선 "wikilink")
-      - [오타루 역](https://ko.wikipedia.org/wiki/오타루_역 "wikilink") - [이와미자와 역](https://ko.wikipedia.org/wiki/이와미자와_역 "wikilink") 사이
-  - [지토세 선](https://ko.wikipedia.org/wiki/지토세_선 "wikilink")
+  - [하코다테 본선](../Page/하코다테_본선.md "wikilink")
+      - [오타루 역](../Page/오타루_역.md "wikilink") - [이와미자와 역](../Page/이와미자와_역.md "wikilink") 사이
+  - [지토세 선](../Page/지토세_선.md "wikilink")
       - 공항 지선을 포함한 전 구간
-  - [무로란 본선](https://ko.wikipedia.org/wiki/무로란_본선 "wikilink")
+  - [무로란 본선](../Page/무로란_본선.md "wikilink")
       - [누마노하타 역](../Page/누마노하타_역.md "wikilink") - [도마코마이 역](../Page/도마코마이_역.md "wikilink") 간
-  - [삿쇼 선](https://ko.wikipedia.org/wiki/삿쇼_선 "wikilink")
-      - [소엔 역](https://ko.wikipedia.org/wiki/소엔_역 "wikilink") - [홋카이도 의료 대학 역](https://ko.wikipedia.org/wiki/홋카이도_의료_대학_역 "wikilink") 간
+  - [삿쇼 선](../Page/삿쇼_선.md "wikilink")
+      - [소엔 역](../Page/소엔_역.md "wikilink") - [홋카이도 의료 대학 역](https://ko.wikipedia.org/wiki/홋카이도_의료_대학_역 "wikilink") 간
 
 ## 상호 이용
 
@@ -29,10 +29,10 @@
   - [PASMO](../Page/PASMO.md "wikilink")
   - [PiTaPa](https://ko.wikipedia.org/wiki/PiTaPa "wikilink")
   - [ICOCA](https://ko.wikipedia.org/wiki/ICOCA "wikilink")
-  - [Suica](https://ko.wikipedia.org/wiki/Suica "wikilink")
+  - [Suica](../Page/Suica.md "wikilink")
   - [TOICA](../Page/TOICA.md "wikilink")
-  - [SUGOCA](https://ko.wikipedia.org/wiki/SUGOCA "wikilink")
-  - [티머니](https://ko.wikipedia.org/wiki/티머니 "wikilink")
+  - [SUGOCA](../Page/SUGOCA.md "wikilink")
+  - [티머니](../Page/티머니.md "wikilink")
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Desperado \( \)](https://ko.wikipedia.org/wiki/Desperado_\(_\)).
 
 
-***Desperado***는 미국의 록 밴드 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")의 두 번째 정규음반이다. 영국의 아일랜드 스튜디오에서 녹음되었으며, 1973년 발매되었다. "[Tequila Sunrise](https://ko.wikipedia.org/wiki/Tequila_Sunrise_\(노래\) "wikilink")"와 "[Outlaw Man](../Page/Outlaw_Man.md "wikilink")"은 각각 차트 64위와 59위를 기록하였다. 앨범은 41위를 기록하였으며, 2백만 장이 팔렸다.
+***Desperado***는 미국의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 두 번째 정규음반이다. 영국의 아일랜드 스튜디오에서 녹음되었으며, 1973년 발매되었다. "[Tequila Sunrise](https://ko.wikipedia.org/wiki/Tequila_Sunrise_\(노래\) "wikilink")"와 "[Outlaw Man](../Page/Outlaw_Man.md "wikilink")"은 각각 차트 64위와 59위를 기록하였다. 앨범은 41위를 기록하였으며, 2백만 장이 팔렸다.
 
 ## 트랙 리스트
 
@@ -11,7 +11,7 @@
 2.  "Twenty-One" - 2:11
 3.  "Out of Control" - 3:04
 4.  "[Tequila Sunrise](https://ko.wikipedia.org/wiki/Tequila_Sunrise_\(노래\) "wikilink")" - 2:52
-5.  "[Desperado](https://ko.wikipedia.org/wiki/Desperado_\(이글스의_노래\) "wikilink")" - 3:36
+5.  "[Desperado](../Page/Desperado_\(이글스의_노래\).md "wikilink")" - 3:36
 
 ### 뒷면
 

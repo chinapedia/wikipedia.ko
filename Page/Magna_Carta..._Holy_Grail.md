@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Magna Carta... Holy Grail](https://ko.wikipedia.org/wiki/Magna_Carta..._Holy_Grail).
 
 
-***Magna Carta... Holy Grail***은 미국의 힙합 가수 [제이 지의](https://ko.wikipedia.org/wiki/제이_지 "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 발매한 앨범이다.
+***Magna Carta... Holy Grail***은 미국의 힙합 가수 [제이 지의](https://ko.wikipedia.org/wiki/제이_지 "wikilink") [2013년](../Page/2013년.md "wikilink") 발매한 앨범이다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The SHINee World](https://ko.wikipedia.org/wiki/The_SHINee_World).
 
 
-《**The SHINee World**》는 대한민국의 5인조 남성 그룹 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 첫 정규앨범이다.
+《**The SHINee World**》는 대한민국의 5인조 남성 그룹 [샤이니](../Page/샤이니.md "wikilink")의 첫 정규앨범이다.
 
 ## 트랙 리스트
 

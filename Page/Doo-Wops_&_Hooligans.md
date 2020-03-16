@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Doo-Wops \& Hooligans](https://ko.wikipedia.org/wiki/Doo-Wops_\&_Hooligans).
 
 
-***Doo-Wops & Hooligans***는 미국의 싱어송라이터 [브루노 마스의](https://ko.wikipedia.org/wiki/브루노_마스 "wikilink") 데뷔 음반이다. 2010년 10월 4일 발매되었으며, [스미징턴스](https://ko.wikipedia.org/wiki/스미징턴스 "wikilink")에 의해 모든곡이 프로듀싱되었다.
+***Doo-Wops & Hooligans***는 미국의 싱어송라이터 [브루노 마스의](../Page/브루노_마스.md "wikilink") 데뷔 음반이다. 2010년 10월 4일 발매되었으며, [스미징턴스](https://ko.wikipedia.org/wiki/스미징턴스 "wikilink")에 의해 모든곡이 프로듀싱되었다.
 
 ## 수록곡
 
@@ -14,7 +14,7 @@
 7.  "[Talking to the Moon](https://ko.wikipedia.org/wiki/Talking_to_the_Moon "wikilink")" - 3:37
 8.  "[Liquor Store Blues](https://ko.wikipedia.org/wiki/Liquor_Store_Blues "wikilink")" (featuring "[Damian Marley](https://ko.wikipedia.org/wiki/데이미언_말리 "wikilink")") - 3:49
 9.  "[Count on Me](https://ko.wikipedia.org/wiki/Count_on_Me "wikilink")" - 3:17
-10. "The Other Side" (featuring "[Cee Lo Green](https://ko.wikipedia.org/wiki/시_로_그린 "wikilink")" & "[B.o.B](https://ko.wikipedia.org/wiki/B.o.B "wikilink")") - 3:47
+10. "The Other Side" (featuring "[Cee Lo Green](https://ko.wikipedia.org/wiki/시_로_그린 "wikilink")" & "[B.o.B](../Page/B.o.B.md "wikilink")") - 3:47
 
 ## 외부 링크
 

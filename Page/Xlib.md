@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [Xlib](https://ko.wikipedia.org/wiki/Xlib).
 
 
-**Xlib**는 [C 프로그래밍 언어로](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") 작성된 [X 윈도 시스템](https://ko.wikipedia.org/wiki/X_윈도_시스템 "wikilink") 프로토콜 클라이언트 [라이브러리이다](https://ko.wikipedia.org/wiki/라이브러리_\(컴퓨팅\) "wikilink"). X [서버](https://ko.wikipedia.org/wiki/서버 "wikilink")와 상호 작용하는 [함수](https://ko.wikipedia.org/wiki/함수 "wikilink")들을 포함하고 있다. 이 함수들은 프로그래머들이 [통신 프로토콜을](https://ko.wikipedia.org/wiki/통신_프로토콜 "wikilink") 자세히 모르더라도 프로그램을 작성할 수 있게 도와 준다. Xlib을 직접 사용하는 응용 프로그램들은 드문 편이지만, 대개 [위젯 툴킷을](https://ko.wikipedia.org/wiki/위젯_툴킷 "wikilink") 제공하기 위해 Xlib 함수들을 사용하는 다른 라이브러리들을 이용하는 편이다:
+**Xlib**는 [C 프로그래밍 언어로](../Page/C_\(프로그래밍_언어\).md "wikilink") 작성된 [X 윈도 시스템](../Page/X_윈도_시스템.md "wikilink") 프로토콜 클라이언트 [라이브러리이다](../Page/라이브러리_\(컴퓨팅\).md "wikilink"). X [서버](../Page/서버.md "wikilink")와 상호 작용하는 [함수](../Page/함수.md "wikilink")들을 포함하고 있다. 이 함수들은 프로그래머들이 [통신 프로토콜을](../Page/통신_프로토콜.md "wikilink") 자세히 모르더라도 프로그램을 작성할 수 있게 도와 준다. Xlib을 직접 사용하는 응용 프로그램들은 드문 편이지만, 대개 [위젯 툴킷을](https://ko.wikipedia.org/wiki/위젯_툴킷 "wikilink") 제공하기 위해 Xlib 함수들을 사용하는 다른 라이브러리들을 이용하는 편이다:
 
 [frame](https://ko.wikipedia.org/wiki/파일:Xlib_and_XCB_in_the_X_Window_System_graphics_stack.svg "wikilink"), 그리고 이들을 사용하는 라이브러리들\]\]
 
   - [인트린식스](https://ko.wikipedia.org/wiki/X_툴킷_인트린식스 "wikilink") (Xt)
   - [아테나 위젯 집합](https://ko.wikipedia.org/wiki/X_아테나_위젯 "wikilink") (Xaw)
-  - [모티프](https://ko.wikipedia.org/wiki/모티프_\(위젯_툴킷\) "wikilink")
+  - [모티프](../Page/모티프_\(위젯_툴킷\).md "wikilink")
   - [FLTK](https://ko.wikipedia.org/wiki/FLTK "wikilink")
-  - [GTK+](https://ko.wikipedia.org/wiki/GTK+ "wikilink")
+  - [GTK+](../Page/GTK+.md "wikilink")
   - [Qt](https://ko.wikipedia.org/wiki/Qt_\(툴킷\) "wikilink") (X11 버전)
   - [Tk](https://ko.wikipedia.org/wiki/Tk_\(프레임워크\) "wikilink")
 
-Xlib은 1985년 즈음에 출현했으며 현재 수많은 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") [GUI에](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 사용된다. [XCB](../Page/XCB.md "wikilink") 라이브러리는 Xlib을 대체할 목적으로 만들어진 라이브러리이다. 아직까지 Xlib이 널리 쓰이고 있으나, 오늘날 Xlib에서 구현하는 것들은 낮은 수준의 전송 계층으로서 XCB를 대신 이용할 수 있다.
+Xlib은 1985년 즈음에 출현했으며 현재 수많은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제의](../Page/운영_체제.md "wikilink") [GUI에](../Page/그래픽_사용자_인터페이스.md "wikilink") 사용된다. [XCB](../Page/XCB.md "wikilink") 라이브러리는 Xlib을 대체할 목적으로 만들어진 라이브러리이다. 아직까지 Xlib이 널리 쓰이고 있으나, 오늘날 Xlib에서 구현하는 것들은 낮은 수준의 전송 계층으로서 XCB를 대신 이용할 수 있다.
 
 ## 자료형
 
@@ -91,7 +91,7 @@ int main() {
 
 ## 같이 보기
 
-  - [X 윈도 시스템](https://ko.wikipedia.org/wiki/X_윈도_시스템 "wikilink")
+  - [X 윈도 시스템](../Page/X_윈도_시스템.md "wikilink")
   - [X 윈도 시스템 프로토콜 및 아키텍처](https://ko.wikipedia.org/wiki/X_윈도_시스템_프로토콜_및_아키텍처 "wikilink")
 
 ## 외부 링크

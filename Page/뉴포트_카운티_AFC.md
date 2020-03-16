@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [  AFC](https://ko.wikipedia.org/wiki/__AFC).
 
 
-**뉴포트 카운티 AFC**(Newport County Association Football Club)는 [웨일스](https://ko.wikipedia.org/wiki/웨일스 "wikilink") [뉴포트를](https://ko.wikipedia.org/wiki/뉴포트_\(웨일스\) "wikilink") 연고로 하는 축구 클럽이다.
+**뉴포트 카운티 AFC**(Newport County Association Football Club)는 [웨일스](../Page/웨일스.md "wikilink") [뉴포트를](../Page/뉴포트_\(웨일스\).md "wikilink") 연고로 하는 축구 클럽이다.
 
 ## 성적
 
   - [풋볼 리그 3부](https://ko.wikipedia.org/wiki/풋볼_리그_3부 "wikilink") 남부 리그 우승 1회 (1939)
   - [콘퍼런스 내셔널](https://ko.wikipedia.org/wiki/콘퍼런스_내셔널 "wikilink") 플레이오프 우승 1회 (2013)
   - [콘퍼런스 사우스](https://ko.wikipedia.org/wiki/콘퍼런스_사우스 "wikilink") 우승 1회 (2010)
-  - [서던 풋볼 리그](https://ko.wikipedia.org/wiki/서던_풋볼_리그 "wikilink") 미들랜드 디비전 우승 1회 (1995), 준우승 1회 (1999)
+  - [서던 풋볼 리그](../Page/서던_풋볼_리그.md "wikilink") 미들랜드 디비전 우승 1회 (1995), 준우승 1회 (1999)
   - 헬레닉 리그(Hellenic League) 우승 1회 (1990)
   - [웰시 컵](https://ko.wikipedia.org/wiki/웰시_컵 "wikilink") 우승 1회 (1980), 준우승 2회 (1963, 1987)
-  - [FA 트로피](https://ko.wikipedia.org/wiki/FA_트로피 "wikilink") 준우승 1회 (2012)
+  - [FA 트로피](../Page/FA_트로피.md "wikilink") 준우승 1회 (2012)
   - 헬레닉 리그컵(Hellenic League Cup) 우승 1회 (1990)
   - 몬머스셔/권트 시니어컵(Monmouthshire/Gwent Senior Cup) 우승 25회 (1921, 1922, 1923, 1924, 1926, 1928, 1932, 1936, 1954, 1958, 1959, 1965, 1968, 1969, 1970, 1972, 1973, 1974, 1997, 1998, 1999, 2000, 2001, 2002, 2004, 2005, 2011, 2012), 준우승 1회 (1934)
   - 글로스터셔 시니어 챌린지컵(Gloucestershire Senior Challenge Cup) 우승 1회 (1994)

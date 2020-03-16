@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [One of These Nights](https://ko.wikipedia.org/wiki/One_of_These_Nights).
 
 
-***One of These Nights***는 미국의 록 밴드 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")의 네 번째 정규음반이다. 타이틀곡인 "One of These Nights"는 이글스 역사상 두 번째로 차트 1위를 기록하였으며, "Lyin' Eyes"와 "Take It to the Limit"는 각각 차트 2위와 4위를 기록하였다. 앨범은 4백만 장이 팔렸으며, "Lyin' Eyes"는 이글스 첫 번째로 그래미상을 수상하였다.
+***One of These Nights***는 미국의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 네 번째 정규음반이다. 타이틀곡인 "One of These Nights"는 이글스 역사상 두 번째로 차트 1위를 기록하였으며, "Lyin' Eyes"와 "Take It to the Limit"는 각각 차트 2위와 4위를 기록하였다. 앨범은 4백만 장이 팔렸으며, "Lyin' Eyes"는 이글스 첫 번째로 그래미상을 수상하였다.
 
 ## 트랙 리스트
 

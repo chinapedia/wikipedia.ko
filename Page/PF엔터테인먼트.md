@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PF](https://ko.wikipedia.org/wiki/PF).
 
 
-[**PF컴퍼니**는](http://pfcompany.kr/) [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [연예 기획사다](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink").
+[**PF컴퍼니**는](http://pfcompany.kr/) [대한민국](../Page/대한민국.md "wikilink")의 [연예 기획사다](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink").
 
 배우 매니지먼트사로서 입지를 다져온 [PF엔터테인먼트](../Page/PF엔터테인먼트.md "wikilink") 가 [PF컴퍼니](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=pf%EC%BB%B4%ED%8D%BC%EB%8B%88&oquery=%EB%B0%B1%EC%88%98%ED%9D%AC&tqi=UnOq4sp0J14ssSChPQwssssstxZ-463146) 로 최근 사명을 변경하고 새로운 도약에 나섰다.
 
@@ -19,7 +19,7 @@
 
 ## 드라마 제작
 
-  - [이별이 떠났다](https://ko.wikipedia.org/wiki/이별이_떠났다 "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"), 2018년) ([슈퍼문픽쳐스](https://ko.wikipedia.org/wiki/슈퍼문픽쳐스 "wikilink") 공동 제작)
+  - [이별이 떠났다](../Page/이별이_떠났다.md "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"), 2018년) ([슈퍼문픽쳐스](https://ko.wikipedia.org/wiki/슈퍼문픽쳐스 "wikilink") 공동 제작)
 
 ## 외부 링크
 

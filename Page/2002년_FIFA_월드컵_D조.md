@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2002 FIFA  D](https://ko.wikipedia.org/wiki/2002_FIFA__D).
 
 
-[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") D조**는 공동개최국 [대한민국과](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀 "wikilink") 유럽 대표 [폴란드](https://ko.wikipedia.org/wiki/폴란드_축구_국가대표팀 "wikilink"), [포르투갈](https://ko.wikipedia.org/wiki/포르투갈_축구_국가대표팀 "wikilink"), 그리고 북중미카리브 대표 [미국이](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") 들어간 조였다. D조의 일정은 2002년 6월 4일에 시작되어 2002년 6월 14일에 종료되었다. [대한민국이](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀 "wikilink") D조 선두로 조별 리그를 마무리하여 다음 라운드에 진출하였고, [미국](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") 또한 그 대열에 합류했다. 반면 [폴란드와](https://ko.wikipedia.org/wiki/폴란드_축구_국가대표팀 "wikilink") [포르투갈은](https://ko.wikipedia.org/wiki/포르투갈_축구_국가대표팀 "wikilink") 탈락하였다.
+[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") D조**는 공동개최국 [대한민국과](../Page/대한민국_축구_국가대표팀.md "wikilink") 유럽 대표 [폴란드](../Page/폴란드_축구_국가대표팀.md "wikilink"), [포르투갈](../Page/포르투갈_축구_국가대표팀.md "wikilink"), 그리고 북중미카리브 대표 [미국이](../Page/미국_축구_국가대표팀.md "wikilink") 들어간 조였다. D조의 일정은 2002년 6월 4일에 시작되어 2002년 6월 14일에 종료되었다. [대한민국이](../Page/대한민국_축구_국가대표팀.md "wikilink") D조 선두로 조별 리그를 마무리하여 다음 라운드에 진출하였고, [미국](../Page/미국_축구_국가대표팀.md "wikilink") 또한 그 대열에 합류했다. 반면 [폴란드와](../Page/폴란드_축구_국가대표팀.md "wikilink") [포르투갈은](../Page/포르투갈_축구_국가대표팀.md "wikilink") 탈락하였다.
 
 ## 팀
 
@@ -11,7 +11,7 @@
 <th><p>시드 배정</p></th>
 <th><p>팀</p></th>
 <th><p>연맹</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FIFA_랭킹" title="wikilink">FIFA 랭킹</a></p></th>
+<th><p><a href="../Page/FIFA_랭킹.md" title="wikilink">FIFA 랭킹</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -46,7 +46,7 @@
 
 |}
 
-  - *모든 시간은 [대한민국의](https://ko.wikipedia.org/wiki/한국_표준시 "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
+  - *모든 시간은 [대한민국의](../Page/한국_표준시.md "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
 
 ## 대한민국 vs 폴란드
 
@@ -129,7 +129,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/거스_히딩크" title="wikilink">휘스 히딩크</a></p></td>
+<td><p><a href="../Page/거스_히딩크.md" title="wikilink">휘스 히딩크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -215,12 +215,12 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/유상철" title="wikilink">유상철</a> (대한민국)</p>
+<a href="../Page/유상철.md" title="wikilink">유상철</a> (대한민국)</p>
 <p><strong>부심:</strong><br />
 엘리스 도리리 (<a href="https://ko.wikipedia.org/wiki/바누아투_축구_협회" title="wikilink">바누아투</a>)<br />
 레이프 린베리 (<a href="https://ko.wikipedia.org/wiki/스웨덴_축구_협회" title="wikilink">스웨덴</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/앙헬_산체스_(축구_심판)" title="wikilink">앙헬 산체스</a> (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)</p></td>
+<a href="https://ko.wikipedia.org/wiki/앙헬_산체스_(축구_심판)" title="wikilink">앙헬 산체스</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -306,7 +306,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/브루스_어리나" title="wikilink">브루스 어리나</a></p></td>
+<td><p><a href="../Page/브루스_어리나.md" title="wikilink">브루스 어리나</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -392,7 +392,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/브라이언_맥브라이드" title="wikilink">브라이언 맥브라이드</a> (미국)</p>
+<a href="../Page/브라이언_맥브라이드.md" title="wikilink">브라이언 맥브라이드</a> (미국)</p>
 <p><strong>부심:</strong><br />
 보메르 피에로 (<a href="https://ko.wikipedia.org/wiki/에콰도르_축구_협회" title="wikilink">에콰도르</a>)<br />
 아우니 하사우네 (<a href="https://ko.wikipedia.org/wiki/요르단_축구_협회" title="wikilink">요르단</a>)<br />
@@ -483,7 +483,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/거스_히딩크" title="wikilink">휘스 히딩크</a></p></td>
+<td><p><a href="../Page/거스_히딩크.md" title="wikilink">휘스 히딩크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -552,7 +552,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/브루스_어리나" title="wikilink">브루스 어리나</a></p></td>
+<td><p><a href="../Page/브루스_어리나.md" title="wikilink">브루스 어리나</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -742,12 +742,12 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/파울레타" title="wikilink">파울레타</a> (포르투갈)</p>
+<a href="../Page/파울레타.md" title="wikilink">파울레타</a> (포르투갈)</p>
 <p><strong>부심:</strong><br />
 이고르 슈람카 (<a href="https://ko.wikipedia.org/wiki/슬로바키아_축구_협회" title="wikilink">슬로바키아</a>)<br />
 와기 파라그 (<a href="https://ko.wikipedia.org/wiki/이집트_축구_협회" title="wikilink">이집트</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/카를로스_바트레스" title="wikilink">카를로스 바트레스</a> (<a href="https://ko.wikipedia.org/wiki/과테말라_축구_협회" title="wikilink">과테말라</a>)</p></td>
+<a href="../Page/카를로스_바트레스.md" title="wikilink">카를로스 바트레스</a> (<a href="https://ko.wikipedia.org/wiki/과테말라_축구_협회" title="wikilink">과테말라</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -898,7 +898,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/거스_히딩크" title="wikilink">휘스 히딩크</a></p></td>
+<td><p><a href="../Page/거스_히딩크.md" title="wikilink">휘스 히딩크</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1075,7 +1075,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/브루스_어리나" title="wikilink">브루스 어리나</a></p></td>
+<td><p><a href="../Page/브루스_어리나.md" title="wikilink">브루스 어리나</a></p></td>
 <td></td>
 </tr>
 </tbody>

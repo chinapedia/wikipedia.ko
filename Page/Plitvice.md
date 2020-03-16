@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [Plitvice](https://ko.wikipedia.org/wiki/Plitvice).
 
 
-**Plitvice**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 및 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 활동하는 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [윤하](https://ko.wikipedia.org/wiki/윤하 "wikilink")의 전국투어이다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink") 서울 공연을 시작으로 서울 3회, 부산 1회 등 총 4회의 공연을 가졌다. 서울에서는 총 예매율 98%를 달성하였고, 부산에서는 예매율 94%를 달성하였다. 콘서트 게스트로는 [홍대광](https://ko.wikipedia.org/wiki/홍대광 "wikilink"), [김보경](https://ko.wikipedia.org/wiki/김보경 "wikilink")이 초대되었다. 이 투어에서 일본 2집 [ひとつ空の下](https://ko.wikipedia.org/wiki/ひとつ空の下 "wikilink")의 수록곡 風을 한글 가사로 번안하여 불렀다.
+**Plitvice**는 [대한민국](../Page/대한민국.md "wikilink") 및 [일본](../Page/일본.md "wikilink")에서 활동하는 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [윤하](../Page/윤하.md "wikilink")의 전국투어이다. [2013년](../Page/2013년.md "wikilink") [6월 21일](../Page/6월_21일.md "wikilink") 서울 공연을 시작으로 서울 3회, 부산 1회 등 총 4회의 공연을 가졌다. 서울에서는 총 예매율 98%를 달성하였고, 부산에서는 예매율 94%를 달성하였다. 콘서트 게스트로는 [홍대광](../Page/홍대광.md "wikilink"), [김보경](https://ko.wikipedia.org/wiki/김보경 "wikilink")이 초대되었다. 이 투어에서 일본 2집 [ひとつ空の下](https://ko.wikipedia.org/wiki/ひとつ空の下 "wikilink")의 수록곡 風을 한글 가사로 번안하여 불렀다.
 
 ## 공연 일자
 
-| <big>날짜</big>                                                                                                     | <big>도시</big>                                     | <big>장소</big>                                                 |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------- |
-| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink") | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") | [블루스퀘어](https://ko.wikipedia.org/wiki/블루스퀘어 "wikilink") 삼성카드홀 |
-| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") | [블루스퀘어](https://ko.wikipedia.org/wiki/블루스퀘어 "wikilink") 삼성카드홀 |
-| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") | [블루스퀘어](https://ko.wikipedia.org/wiki/블루스퀘어 "wikilink") 삼성카드홀 |
-| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink") | [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") | [KBS 부산홀](https://ko.wikipedia.org/wiki/KBS부산방송총국 "wikilink") |
-|                                                                                                                   |                                                   |                                                               |
+| <big>날짜</big>                                                               | <big>도시</big>                                     | <big>장소</big>                              |
+| --------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------ |
+| [2013년](../Page/2013년.md "wikilink") [6월 21일](../Page/6월_21일.md "wikilink") | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") | [블루스퀘어](../Page/블루스퀘어.md "wikilink") 삼성카드홀 |
+| [2013년](../Page/2013년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") | [블루스퀘어](../Page/블루스퀘어.md "wikilink") 삼성카드홀 |
+| [2013년](../Page/2013년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink") | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") | [블루스퀘어](../Page/블루스퀘어.md "wikilink") 삼성카드홀 |
+| [2013년](../Page/2013년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") | [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") | [KBS 부산홀](../Page/KBS부산방송총국.md "wikilink") |
+|                                                                             |                                                   |                                            |
 
 ## 셋리스트
 

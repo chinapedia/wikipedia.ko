@@ -7,7 +7,7 @@
 
 | heading1 = | list1name = 1 | list1title = 2001년 이전 - 현재 | list1 =
 
-  - [에셜론](https://ko.wikipedia.org/wiki/에셜론 "wikilink")
+  - [에셜론](../Page/에셜론.md "wikilink")
 
 | heading2 = | list2name = 2 | list2title = 2001년 – 2007년 | list2 =
 
@@ -45,7 +45,7 @@
 
 | heading6 = | list6name = 소송 | list6title = 소송 | list6 = \* [NSA](https://ko.wikipedia.org/wiki/NSA "wikilink") vs [미국 시민 자유 연맹](https://ko.wikipedia.org/wiki/American_Civil_Liberties_Union "wikilink")
 
-  - [Hepting](https://ko.wikipedia.org/wiki/Hepting "wikilink") vs [AT\&T](https://ko.wikipedia.org/wiki/AT&T "wikilink")
+  - [Hepting](https://ko.wikipedia.org/wiki/Hepting "wikilink") vs [AT\&T](../Page/AT&T.md "wikilink")
   - [Jewel](https://ko.wikipedia.org/wiki/Jewel "wikilink") vs [NSA](https://ko.wikipedia.org/wiki/NSA "wikilink")
   - [Clapper](https://ko.wikipedia.org/wiki/Clapper "wikilink") vs [국제 엠네스티](https://ko.wikipedia.org/wiki/국제_엠네스티 "wikilink")
 

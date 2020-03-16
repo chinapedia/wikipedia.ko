@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ TV    ](https://ko.wikipedia.org/wiki/_TV____).
 
 
-〈**연속 TV 소설 〈아마짱〉 오리지널 사운드트랙**〉()은, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 19일에](https://ko.wikipedia.org/wiki/6월_19일 "wikilink") 발매된, 오오토모 요시히데에 의한 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 《[아마짱](../Page/아마짱.md "wikilink")》([NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink") 제작·[연속 TV 소설](https://ko.wikipedia.org/wiki/연속_TV_소설 "wikilink"))의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink") [음반](https://ko.wikipedia.org/wiki/음반 "wikilink")이다.
+〈**연속 TV 소설 〈아마짱〉 오리지널 사운드트랙**〉()은, [일본](../Page/일본.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [6월 19일에](../Page/6월_19일.md "wikilink") 발매된, 오오토모 요시히데에 의한 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 《[아마짱](../Page/아마짱.md "wikilink")》([NHK](../Page/일본방송협회.md "wikilink") 제작·[연속 TV 소설](../Page/연속_TV_소설.md "wikilink"))의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink") [음반](../Page/음반.md "wikilink")이다.
 
 ## 제작
 
-수록곡 대부분은 음악 담당인 오오토모 요시히데에 의한 것이다. 보통, TV 드라마는 방송 개시 전에 완성하고 있지만, 본작에서는 2013년 4월부터 드라마 방송 전에 130곡을 제작했으며\[1\], 방송 개시 후에도 200곡을 넘는 음악의 제작이 계속되고 있다\[2\]. 오프닝 테마 작곡이 시작된 것은 2012년 8월 말 경부터로, 드라마의 무대가 되는 [이와테현](https://ko.wikipedia.org/wiki/이와테현 "wikilink") [쿠지 시](https://ko.wikipedia.org/wiki/구지_시 "wikilink") 등에 대한 취재를 거쳐 데모를 제작해, 완성형을 이듬해 1월에 녹음하고 있었다\[3\]. 또, 연주는 오오토모 외, 현악기 연주자 22명을 포함한 50명을 넘는 아마짱 스페셜 빅 밴드에 의해 행해지고 있다.
+수록곡 대부분은 음악 담당인 오오토모 요시히데에 의한 것이다. 보통, TV 드라마는 방송 개시 전에 완성하고 있지만, 본작에서는 2013년 4월부터 드라마 방송 전에 130곡을 제작했으며\[1\], 방송 개시 후에도 200곡을 넘는 음악의 제작이 계속되고 있다\[2\]. 오프닝 테마 작곡이 시작된 것은 2012년 8월 말 경부터로, 드라마의 무대가 되는 [이와테현](../Page/이와테현.md "wikilink") [쿠지 시](https://ko.wikipedia.org/wiki/구지_시 "wikilink") 등에 대한 취재를 거쳐 데모를 제작해, 완성형을 이듬해 1월에 녹음하고 있었다\[3\]. 또, 연주는 오오토모 외, 현악기 연주자 22명을 포함한 50명을 넘는 아마짱 스페셜 빅 밴드에 의해 행해지고 있다.
 
 ## 수록곡
 

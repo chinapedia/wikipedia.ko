@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TONE](https://ko.wikipedia.org/wiki/TONE).
 
 
-《**TONE**》은 대한민국 음악 그룹 동방신기의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 5번째 정규 앨범으로 2인 재편 이후의 첫번째 정규 앨범이다.
+《**TONE**》은 대한민국 음악 그룹 동방신기의 [일본](../Page/일본.md "wikilink")에서 발매한 5번째 정규 앨범으로 2인 재편 이후의 첫번째 정규 앨범이다.
 
 빨간 색상의 A버전 (CD+DVD반), 국내에서는 정식 발매되지 않은 파란 색상의 B버전 (CD+DVD반), 그리고 일반판인 C버전 (CD반)으로 분류되어 있으며 본 앨범은 2인조 재편성의 여파로 발매 주기도 싱글 2장으로 단축되었다.
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [Why? (Keep Your Head Down)](https://ko.wikipedia.org/wiki/Why?_\(Keep_Your_Head_Down\) "wikilink") 싱글 릴리즈 이벤트 라이브 클립 (2011.02.08)
+  - [Why? (Keep Your Head Down)](../Page/Why?_\(Keep_Your_Head_Down\).md "wikilink") 싱글 릴리즈 이벤트 라이브 클립 (2011.02.08)
 
 <!-- end list -->
 
@@ -58,17 +58,17 @@
 
 ## 타이업
 
-| 곡                          | 타이업                                                                                                                                                                                                                                          |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| B.U.T (BE-AU-TY)           | 세븐넷 E-백화점 TV CM                                                                                                                                                                                                                              |
-| I Think U Know             | 위성방송 스카파 CM                                                                                                                                                                                                                                  |
-| Thank You My Girl          | 세븐넷쇼핑 CM                                                                                                                                                                                                                                     |
-| Back to Tomorrow           | 일본 화장품 브랜드 '메나드' CM                                                                                                                                                                                                                          |
-| Why? (Keep Your Head Down) | [간사이 TV](https://ko.wikipedia.org/wiki/간사이_TV_방송 "wikilink")·[후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") [TV 드라마](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink") "[아름다운 이웃](https://ko.wikipedia.org/wiki/아름다운_이웃 "wikilink")" |
-| I Don't Know               | 세이부 카드 CM                                                                                                                                                                                                                                    |
-| Superstar                  | 일본 세븐 일레븐 페어 TV CM                                                                                                                                                                                                                           |
-| シアワセ色の花                    | 후지TV 일본 드라마 '스위치 걸                                                                                                                                                                                                                           |
-| Easy Mind                  | 일본 의류 브랜드 'NISSEN' TV CM                                                                                                                                                                                                                     |
+| 곡                          | 타이업                                                                                                                                                                                 |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| B.U.T (BE-AU-TY)           | 세븐넷 E-백화점 TV CM                                                                                                                                                                     |
+| I Think U Know             | 위성방송 스카파 CM                                                                                                                                                                         |
+| Thank You My Girl          | 세븐넷쇼핑 CM                                                                                                                                                                            |
+| Back to Tomorrow           | 일본 화장품 브랜드 '메나드' CM                                                                                                                                                                 |
+| Why? (Keep Your Head Down) | [간사이 TV](../Page/간사이_TV_방송.md "wikilink")·[후지 TV](../Page/후지_TV.md "wikilink") [TV 드라마](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink") "[아름다운 이웃](../Page/아름다운_이웃.md "wikilink")" |
+| I Don't Know               | 세이부 카드 CM                                                                                                                                                                           |
+| Superstar                  | 일본 세븐 일레븐 페어 TV CM                                                                                                                                                                  |
+| シアワセ色の花                    | 후지TV 일본 드라마 '스위치 걸                                                                                                                                                                  |
+| Easy Mind                  | 일본 의류 브랜드 'NISSEN' TV CM                                                                                                                                                            |
 
 ## 차트 기록
 

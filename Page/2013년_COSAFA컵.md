@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [2013 COSAFA](https://ko.wikipedia.org/wiki/2013_COSAFA).
 
 
-**2013년 COSAFA컵**은 [남아프리카 축구 협의회의](https://ko.wikipedia.org/wiki/남아프리카_축구_협의회 "wikilink") 팀들이 모여 참가한 열네 번째 [COSAFA컵](../Page/COSAFA컵.md "wikilink") 대회이다. 본래 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 [앙골라](https://ko.wikipedia.org/wiki/앙골라 "wikilink")에서 개최될 예정이었으나 취소된 뒤 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")으로 연기되어 [잠비아](https://ko.wikipedia.org/wiki/잠비아 "wikilink")가 개최하게 되었다.
+**2013년 COSAFA컵**은 [남아프리카 축구 협의회의](https://ko.wikipedia.org/wiki/남아프리카_축구_협의회 "wikilink") 팀들이 모여 참가한 열네 번째 [COSAFA컵](../Page/COSAFA컵.md "wikilink") 대회이다. 본래 [2010년](../Page/2010년.md "wikilink")에 [앙골라](../Page/앙골라.md "wikilink")에서 개최될 예정이었으나 취소된 뒤 [2013년](../Page/2013년.md "wikilink")으로 연기되어 [잠비아](../Page/잠비아.md "wikilink")가 개최하게 되었다.
 
 ## 참가 팀 및 시드 배정
 
 [남아프리카 축구 협의회](https://ko.wikipedia.org/wiki/남아프리카_축구_협의회 "wikilink") 소속 국가대표팀과 초청 팀이 참가하였다.
 
-시드는 2013년 4월 [FIFA 랭킹을](https://ko.wikipedia.org/wiki/FIFA_랭킹 "wikilink") 기준으로 한다.
+시드는 2013년 4월 [FIFA 랭킹을](../Page/FIFA_랭킹.md "wikilink") 기준으로 한다.
 
 <table>
 <thead>
@@ -64,10 +64,10 @@
 
 ## 경기장
 
-  - 은콜로마 경기장 ([루사카](https://ko.wikipedia.org/wiki/루사카 "wikilink"))
+  - 은콜로마 경기장 ([루사카](../Page/루사카.md "wikilink"))
   - 은카나 경기장 ([키트웨](https://ko.wikipedia.org/wiki/키트웨 "wikilink"))
   - 아서 데이비스 경기장 ([키트웨](https://ko.wikipedia.org/wiki/키트웨 "wikilink"))
-  - 레비 므와나와사 경기장 ([은돌라](https://ko.wikipedia.org/wiki/은돌라 "wikilink"))
+  - 레비 므와나와사 경기장 ([은돌라](../Page/은돌라.md "wikilink"))
 
 ## 조별 예선
 
@@ -244,7 +244,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Zambia.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/잠비아_축구_국가대표팀" title="wikilink">잠비아</a></strong><br />
+<strong><a href="../Page/잠비아_축구_국가대표팀.md" title="wikilink">잠비아</a></strong><br />
 <strong>4 번째 우승</strong></p></td>
 </tr>
 </tbody>

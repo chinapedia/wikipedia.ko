@@ -93,7 +93,7 @@ MAN그룹의 연구 결과에 의하면 2006년 10월 1일부터 70%의 Eurex US
 
 ### 주가지수 파생상품
 
-Eurex의 주가지수 포트폴리오는 Dow Jones Global Titans 50 Index SM, EURO STOXX 50® Index (EURO STOXX 50), [DAX](https://ko.wikipedia.org/wiki/DAX "wikilink")®, SMI®와 같은 전 세계에서 가장 유동적인 유럽의 국가지수를 기반으로 하는 선물과 옵션 그리고 모든19개 EURO STOXX®/STOXX® Europe 600 Supersectors의 파생상품 그리고5개 Dow Jones Sector Titans Indexes SM 선물을 포함한다. 또한 MSCI지수, RDX® USD지수 그리고 인도 뭄바이주식거래소의 우량주 지수인 SENSEX도 포함하고 있다.
+Eurex의 주가지수 포트폴리오는 Dow Jones Global Titans 50 Index SM, EURO STOXX 50® Index (EURO STOXX 50), [DAX](../Page/DAX.md "wikilink")®, SMI®와 같은 전 세계에서 가장 유동적인 유럽의 국가지수를 기반으로 하는 선물과 옵션 그리고 모든19개 EURO STOXX®/STOXX® Europe 600 Supersectors의 파생상품 그리고5개 Dow Jones Sector Titans Indexes SM 선물을 포함한다. 또한 MSCI지수, RDX® USD지수 그리고 인도 뭄바이주식거래소의 우량주 지수인 SENSEX도 포함하고 있다.
 
 2010년 8월부터 Eurex는 한국거래소(KRX)와의 Eurex/KRX 연계시장 협력사업을 통해, 전 세계에서 가장 많이 거래되는 옵션 중 하나인 KOSPI 200 옵션에 대한한국 거래시간이 종료된 이후에도 거래할 수 있는 기회를 제공하고 있다. 이 협력사업을 통해 Eurex는 일일 만기 되는 선물 계약 형태의 KOSPI 200옵션을 Eurex시장에 상장하면서, 전 세계 시장 참가자들은 유럽 및 북아메리카의 주요 거래시간 동안 KOSPI 200옵션 시장에 참여할 수 있게 되었다.
 

@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [  Z ](https://ko.wikipedia.org/wiki/__Z_).
 
 
-**소니 엑스페리아 Z 울트라**(Sony Xperia Z Ultra), 줄여서 **엑스페리아 ZU**(Xperia ZU)는 [소니 모바일 커뮤니케이션스에서](https://ko.wikipedia.org/wiki/소니_모바일_커뮤니케이션스 "wikilink") [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 25일](https://ko.wikipedia.org/wiki/6월_25일 "wikilink") 중국에서 열린 **[모바일 아시아 엑스포](https://ko.wikipedia.org/wiki/모바일_아시아_엑스포 "wikilink") 2013** (Mobile Asia Expo 2013)에서 공개하여\[1\], [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 3일에](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") 출시한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [패블릿](https://ko.wikipedia.org/wiki/패블릿 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**소니 엑스페리아 Z 울트라**(Sony Xperia Z Ultra), 줄여서 **엑스페리아 ZU**(Xperia ZU)는 [소니 모바일 커뮤니케이션스에서](../Page/소니_모바일_커뮤니케이션스.md "wikilink") [2013년](../Page/2013년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink") 중국에서 열린 **[모바일 아시아 엑스포](https://ko.wikipedia.org/wiki/모바일_아시아_엑스포 "wikilink") 2013** (Mobile Asia Expo 2013)에서 공개하여\[1\], [2013년](../Page/2013년.md "wikilink") [7월 3일에](../Page/7월_3일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-출시 당시 가장 큰 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이었던 [삼성 갤럭시 메가 6.3를](../Page/삼성_갤럭시_메가_6.3.md "wikilink") 제치고 세계에서 가장 큰 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이 되었다.
+출시 당시 가장 큰 [스마트폰](../Page/스마트폰.md "wikilink")이었던 [삼성 갤럭시 메가 6.3를](../Page/삼성_갤럭시_메가_6.3.md "wikilink") 제치고 세계에서 가장 큰 [스마트폰](../Page/스마트폰.md "wikilink")이 되었다.
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 25일](https://ko.wikipedia.org/wiki/6월_25일 "wikilink") : **[모바일 아시아 엑스포](https://ko.wikipedia.org/wiki/모바일_아시아_엑스포 "wikilink") 2013** (Mobile Asia Expo 2013)에서 공개
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") : [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 출시\[2\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") : [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink") ([독일](https://ko.wikipedia.org/wiki/독일 "wikilink"))에서 출시\[3\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink") : LTE버전 출시
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") : **소니 Z 울트라 구글에디션**이 출시되었다.\[4\]
+  - [2013년](../Page/2013년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink") : **[모바일 아시아 엑스포](https://ko.wikipedia.org/wiki/모바일_아시아_엑스포 "wikilink") 2013** (Mobile Asia Expo 2013)에서 공개
+  - [2013년](../Page/2013년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") : [일본](../Page/일본.md "wikilink")에서 출시\[2\]
+  - [2013년](../Page/2013년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") : [유럽](../Page/유럽.md "wikilink") ([독일](../Page/독일.md "wikilink"))에서 출시\[3\]
+  - [2013년](../Page/2013년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink") : LTE버전 출시
+  - [2013년](../Page/2013년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") : **소니 Z 울트라 구글에디션**이 출시되었다.\[4\]
 
 ## 색상
 
@@ -64,7 +64,7 @@
   - [삼성 갤럭시 메가 6.3](../Page/삼성_갤럭시_메가_6.3.md "wikilink")
   - [LG G2](../Page/LG_G2.md "wikilink")
   - [삼성 갤럭시 노트3](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트3 "wikilink")
-  - [팬택 베가 넘버 6](https://ko.wikipedia.org/wiki/팬택_베가_넘버_6 "wikilink")
+  - [팬택 베가 넘버 6](../Page/팬택_베가_넘버_6.md "wikilink")
 
 ## 같이 보기
 

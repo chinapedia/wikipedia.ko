@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JW   ](https://ko.wikipedia.org/wiki/JW___).
 
 
-**JW 매리엇 마키스 두바이**()는 [아랍에미리트](https://ko.wikipedia.org/wiki/아랍에미리트 "wikilink") [두바이](https://ko.wikipedia.org/wiki/두바이 "wikilink")에 위치한 [초고층 호텔이다](https://ko.wikipedia.org/wiki/마천루 "wikilink"). [메리어트 호텔](https://ko.wikipedia.org/wiki/메리어트_호텔 "wikilink") 소속으로 세계에서 가장 호화로운 호텔 중 하나로 꼽힌다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 착공하여 타워 1이 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 완공하였고 타워 2가 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 완공하였다.
+**JW 매리엇 마키스 두바이**()는 [아랍에미리트](../Page/아랍에미리트.md "wikilink") [두바이](../Page/두바이.md "wikilink")에 위치한 [초고층 호텔이다](../Page/마천루.md "wikilink"). [메리어트 호텔](https://ko.wikipedia.org/wiki/메리어트_호텔 "wikilink") 소속으로 세계에서 가장 호화로운 호텔 중 하나로 꼽힌다. [2006년](../Page/2006년.md "wikilink")에 착공하여 타워 1이 [2012년](../Page/2012년.md "wikilink")에 완공하였고 타워 2가 [2013년](../Page/2013년.md "wikilink")에 완공하였다.
 
 ## 갤러리
 

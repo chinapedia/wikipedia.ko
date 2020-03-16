@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [SOS -   ](https://ko.wikipedia.org/wiki/SOS_-___).
 
 
-《**SOS**》는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 20일부터](https://ko.wikipedia.org/wiki/5월_20일 "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 27일까지](https://ko.wikipedia.org/wiki/5월_27일 "wikilink") 방영된 [KBS 드라마 스페셜 연작 시리즈](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜_연작_시리즈 "wikilink") 시즌2의 마지막 여덟 번째 [작품이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+《**SOS**》는 [2012년](../Page/2012년.md "wikilink") [5월 20일부터](../Page/5월_20일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [5월 27일까지](../Page/5월_27일.md "wikilink") 방영된 [KBS 드라마 스페셜 연작 시리즈](../Page/KBS_드라마_스페셜_연작_시리즈.md "wikilink") 시즌2의 마지막 여덟 번째 [작품이다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 등장 인물
 
 ### 주요 인물
 
-  - [정웅인](https://ko.wikipedia.org/wiki/정웅인 "wikilink") : 김은섭(45세) 역
+  - [정웅인](../Page/정웅인.md "wikilink") : 김은섭(45세) 역
 
 <!-- end list -->
 
@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - [서신애](https://ko.wikipedia.org/wiki/서신애 "wikilink") : 방시연(15세) 역
+  - [서신애](../Page/서신애.md "wikilink") : 방시연(15세) 역
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - [정인서](https://ko.wikipedia.org/wiki/정인서 "wikilink") : 김청나(15세) 역
+  - [정인서](../Page/정인서.md "wikilink") : 김청나(15세) 역
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@
 
 ### 주요 인물
 
-  - [김애란](https://ko.wikipedia.org/wiki/김애란_\(배우\) "wikilink") : 한선숙(38세) 역
+  - [김애란](../Page/김애란_\(배우\).md "wikilink") : 한선숙(38세) 역
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - [노태엽](https://ko.wikipedia.org/wiki/노태엽 "wikilink") : 오지만(15세) 역
+  - [노태엽](../Page/노태엽.md "wikilink") : 오지만(15세) 역
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@
 
 <!-- end list -->
 
-  - [민영원](https://ko.wikipedia.org/wiki/민영원 "wikilink") : 이유진(31세) 역
+  - [민영원](../Page/민영원.md "wikilink") : 이유진(31세) 역
 
 <!-- end list -->
 
@@ -97,7 +97,7 @@
 
 <!-- end list -->
 
-  - [강지원](https://ko.wikipedia.org/wiki/강지원 "wikilink") : 고진주(29세) 역
+  - [강지원](../Page/강지원.md "wikilink") : 고진주(29세) 역
 
 <!-- end list -->
 
@@ -109,21 +109,21 @@
   - [이석민](https://ko.wikipedia.org/wiki/이석민 "wikilink") : 일주 역
   - [이민수](https://ko.wikipedia.org/wiki/이민수 "wikilink") : 찬수 역
   - [오희영](https://ko.wikipedia.org/wiki/오희영 "wikilink") : 규희 역
-  - [홍성철](https://ko.wikipedia.org/wiki/홍성철 "wikilink") : 오광 역
+  - [홍성철](../Page/홍성철.md "wikilink") : 오광 역
   - [이태현](https://ko.wikipedia.org/wiki/이태현 "wikilink") : 한철 역
-  - [강지원](https://ko.wikipedia.org/wiki/강지원 "wikilink") : 진주 역
+  - [강지원](../Page/강지원.md "wikilink") : 진주 역
   - [조하석](../Page/조하석.md "wikilink") : 두창 역
   - [이선용](https://ko.wikipedia.org/wiki/이선용 "wikilink") : 검안의 역
-  - [박리나](https://ko.wikipedia.org/wiki/박리나 "wikilink") : 두창의 여자친구 역
+  - [박리나](../Page/박리나.md "wikilink") : 두창의 여자친구 역
   - [박삼녕](https://ko.wikipedia.org/wiki/박삼녕 "wikilink") : 소방대원 역
   - [이석민](https://ko.wikipedia.org/wiki/이석민 "wikilink") : 웅 역
 
 ### 우정출연
 
-  - [정의갑](https://ko.wikipedia.org/wiki/정의갑 "wikilink") : 장국천(48세) 역 - 민성의 아버지
-  - [나경민](https://ko.wikipedia.org/wiki/나경민_\(배우\) "wikilink") : 강력반 팀장(33세) 역
-  - [황동주](https://ko.wikipedia.org/wiki/황동주 "wikilink") : 윤문석(30세 역 - 경찰서 출입기자
-  - [한경선](https://ko.wikipedia.org/wiki/한경선 "wikilink") : 교장 역
+  - [정의갑](../Page/정의갑.md "wikilink") : 장국천(48세) 역 - 민성의 아버지
+  - [나경민](../Page/나경민_\(배우\).md "wikilink") : 강력반 팀장(33세) 역
+  - [황동주](../Page/황동주.md "wikilink") : 윤문석(30세 역 - 경찰서 출입기자
+  - [한경선](../Page/한경선.md "wikilink") : 교장 역
   - [김선영](https://ko.wikipedia.org/wiki/김선영 "wikilink") : 민성의 어머니 역
 
 ## 외부 링크

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SCP - Containment Breach](https://ko.wikipedia.org/wiki/SCP_-_Containment_Breach).
 
 
-《**SCP - Containment Breach**》는 핀란드의 [게임 개발자](https://ko.wikipedia.org/wiki/게임_개발자 "wikilink") 요나스 리코넨(Joonas Rikkonen; "Regalis")이 [SCP 재단웹사이트의](https://ko.wikipedia.org/wiki/SCP_재단 "wikilink") 이야기를 기반으로 개발한 [공포](https://ko.wikipedia.org/wiki/공포물 "wikilink") [비디오 게임이다](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink").
+《**SCP - Containment Breach**》는 핀란드의 [게임 개발자](https://ko.wikipedia.org/wiki/게임_개발자 "wikilink") 요나스 리코넨(Joonas Rikkonen; "Regalis")이 [SCP 재단웹사이트의](../Page/SCP_재단.md "wikilink") 이야기를 기반으로 개발한 [공포](../Page/공포물.md "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink").
 
 ## 게임 플레이
 

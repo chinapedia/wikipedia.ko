@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Demi](https://ko.wikipedia.org/wiki/Demi).
 
 
-***Demi***은 [데미 로바토의](https://ko.wikipedia.org/wiki/데미_로바토 "wikilink") 네 번째 정규앨범이다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") [할리우드 레코드를](https://ko.wikipedia.org/wiki/할리우드_레코드 "wikilink") 통해 발매되었다.
+***Demi***은 [데미 로바토의](../Page/데미_로바토.md "wikilink") 네 번째 정규앨범이다. [2013년](../Page/2013년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") [할리우드 레코드를](https://ko.wikipedia.org/wiki/할리우드_레코드 "wikilink") 통해 발매되었다.
 
 ## 곡 목록
 

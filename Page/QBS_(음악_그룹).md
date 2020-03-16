@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [QBS \( \)](https://ko.wikipedia.org/wiki/QBS_\(_\)).
 
 
-**QBS**는 대한민국의 걸 그룹 [티아라의](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink") 두 번째 유닛 그룹이다. [큐리](https://ko.wikipedia.org/wiki/큐리 "wikilink"), [보람](https://ko.wikipedia.org/wiki/보람 "wikilink"), [소연으로](https://ko.wikipedia.org/wiki/소연_\(가수\) "wikilink") 구성되어 있으며, 일본에서 활동하고, 그룹명인 QBS는 큐리, 보람, 소연의 영어 이니셜에서 따왔다.
+**QBS**는 대한민국의 걸 그룹 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 두 번째 유닛 그룹이다. [큐리](../Page/큐리.md "wikilink"), [보람](../Page/보람.md "wikilink"), [소연으로](https://ko.wikipedia.org/wiki/소연_\(가수\) "wikilink") 구성되어 있으며, 일본에서 활동하고, 그룹명인 QBS는 큐리, 보람, 소연의 영어 이니셜에서 따왔다.
 
 ## 이전 구성원
 
@@ -32,8 +32,8 @@
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p>〈<strong><a href="https://ko.wikipedia.org/wiki/風のように" title="wikilink">風のように</a></strong>〉</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/6월_26일" title="wikilink">6월 26일</a></li>
-<li>레이블 : <a href="https://ko.wikipedia.org/wiki/EMI_뮤직_재팬" title="wikilink">EMI 뮤직 재팬</a></li>
+<li>발매일 : <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/6월_26일.md" title="wikilink">6월 26일</a></li>
+<li>레이블 : <a href="../Page/EMI_뮤직_재팬.md" title="wikilink">EMI 뮤직 재팬</a></li>
 </ul></td>
 <td style="text-align: center;"><ul>
 <li>1. <strong>風のように</strong></li>

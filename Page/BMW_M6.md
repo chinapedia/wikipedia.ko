@@ -9,7 +9,7 @@
 
 [250px](https://ko.wikipedia.org/wiki/파일:BMW_M5_at_the_Oldtimerumzug_2012.JPG "wikilink")
 
-[유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에서는 M635CSi라는 트림으로 판매되었고, [북아메리카](https://ko.wikipedia.org/wiki/북아메리카 "wikilink")에서는 M6로 팔렸다. 새롭게 튜닝을 거친 섀시와 샤크 노즈라고 불리는 날렵한 디자인에 직렬 6기통 3.5ℓ 엔진을 장착해 최고 출력 286마력을 냈고, 5단 수동변속기만 장착되었다. 프론트 에어댐, 리어 스포일러, BBS 휠, 바디 컬러 아웃 사이드 미러, 라디에이터 그릴의에 M 엠블렘 등을 달아 베이스가 된 [1세대 6 시리즈와](https://ko.wikipedia.org/wiki/BMW_6_시리즈#1세대\(E24\) "wikilink") 차별화했다. [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")에 후속 차종 없이 단종될 때까지 5,859대가 판매되었다.
+[유럽](../Page/유럽.md "wikilink")에서는 M635CSi라는 트림으로 판매되었고, [북아메리카](../Page/북아메리카.md "wikilink")에서는 M6로 팔렸다. 새롭게 튜닝을 거친 섀시와 샤크 노즈라고 불리는 날렵한 디자인에 직렬 6기통 3.5ℓ 엔진을 장착해 최고 출력 286마력을 냈고, 5단 수동변속기만 장착되었다. 프론트 에어댐, 리어 스포일러, BBS 휠, 바디 컬러 아웃 사이드 미러, 라디에이터 그릴의에 M 엠블렘 등을 달아 베이스가 된 [1세대 6 시리즈와](https://ko.wikipedia.org/wiki/BMW_6_시리즈#1세대\(E24\) "wikilink") 차별화했다. [1989년](../Page/1989년.md "wikilink")에 후속 차종 없이 단종될 때까지 5,859대가 판매되었다.
 
 {{-}}
 
@@ -17,7 +17,7 @@
 
 [250px](https://ko.wikipedia.org/wiki/파일:2005-2010_BMW_M6_\(E63\)_coupe_\(2011-11-08\).jpg "wikilink")
 
-[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 개최된 [제네바 모터쇼에서](https://ko.wikipedia.org/wiki/제네바_모터쇼 "wikilink") 첫 선을 보였다. 알루미늄 후드, 카본 루프 등 경량 소재를 사용해 경량화와 이상적인 무게 배분을 실현했고, 듀얼 머플러 사시에 장착된 리어 디퓨저는 속도가 상승할 때마다 언더 바디의 공기 저항을 줄여준다. [M5에](https://ko.wikipedia.org/wiki/BMW_M5 "wikilink") 장착된 V형 10기통 5.0ℓ 엔진은 507마력의 최고 출력을 내며, 7단 시퀀셜 방식 자동변속기가 장착되었다.
+[2005년](../Page/2005년.md "wikilink")에 개최된 [제네바 모터쇼에서](../Page/제네바_모터쇼.md "wikilink") 첫 선을 보였다. 알루미늄 후드, 카본 루프 등 경량 소재를 사용해 경량화와 이상적인 무게 배분을 실현했고, 듀얼 머플러 사시에 장착된 리어 디퓨저는 속도가 상승할 때마다 언더 바디의 공기 저항을 줄여준다. [M5에](../Page/BMW_M5.md "wikilink") 장착된 V형 10기통 5.0ℓ 엔진은 507마력의 최고 출력을 내며, 7단 시퀀셜 방식 자동변속기가 장착되었다.
 
 파일:2007 BMW M6 Convertible E64 snow white.jpg|BMW M6 컨버터블 후측면
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ MiG-35](https://ko.wikipedia.org/wiki/_MiG-35).
 
 
-**미코얀 MiG-35**는 러시아 [미그29](https://ko.wikipedia.org/wiki/미그29 "wikilink")의 최신형이다. [나토](https://ko.wikipedia.org/wiki/나토 "wikilink")에서는 **풀크럼-F**라고 부른다. 2007년에 초도비행을 하였으며, 현재 개발 중이다. 미그29가 21톤인데 비해, 미그35는 29.7톤이며, [AESA](https://ko.wikipedia.org/wiki/AESA "wikilink") 레이다를 장착했다.
+**미코얀 MiG-35**는 러시아 [미그29](https://ko.wikipedia.org/wiki/미그29 "wikilink")의 최신형이다. [나토](https://ko.wikipedia.org/wiki/나토 "wikilink")에서는 **풀크럼-F**라고 부른다. 2007년에 초도비행을 하였으며, 현재 개발 중이다. 미그29가 21톤인데 비해, 미그35는 29.7톤이며, [AESA](../Page/AESA.md "wikilink") 레이다를 장착했다.
 
 아날로그 [미그29](https://ko.wikipedia.org/wiki/미그29 "wikilink")는 디지털 [미그29M](https://ko.wikipedia.org/wiki/미그29M "wikilink")과 항공모함용 [미그29K](https://ko.wikipedia.org/wiki/미그29K "wikilink")로 개량되었으며, [미그29M](https://ko.wikipedia.org/wiki/미그29M "wikilink")과 [미그29K](https://ko.wikipedia.org/wiki/미그29K "wikilink")을 업그레이드 한 것이 미그35이다.
 

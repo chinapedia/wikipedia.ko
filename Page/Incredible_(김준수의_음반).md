@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Incredible \( \)](https://ko.wikipedia.org/wiki/Incredible_\(_\)).
 
 
-《**Incredible**》은 [JYJ](https://ko.wikipedia.org/wiki/JYJ "wikilink") 멤버 [김준수의](https://ko.wikipedia.org/wiki/김준수_\(1986년\) "wikilink") 두 번째 정규 음반이다.\[1\]\[2\]
+《**Incredible**》은 [JYJ](../Page/JYJ.md "wikilink") 멤버 [김준수의](https://ko.wikipedia.org/wiki/김준수_\(1986년\) "wikilink") 두 번째 정규 음반이다.\[1\]\[2\]
 
 ## 수록곡
 

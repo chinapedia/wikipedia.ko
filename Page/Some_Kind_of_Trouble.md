@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Some Kind of Trouble](https://ko.wikipedia.org/wiki/Some_Kind_of_Trouble).
 
 
-***Some Kind of Trouble***(섬 카인드 오브 트러블)은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [제임스 블런트의](https://ko.wikipedia.org/wiki/제임스_블런트 "wikilink") 세 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). 2010년 11월 8일에 발매되었다.\[1\] 2011년 12월 6일에는 *Some Kind Of Trouble: Revisited*라는 딜럭스반이 발매되었다.\[2\]
+***Some Kind of Trouble***(섬 카인드 오브 트러블)은 [영국](../Page/영국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [제임스 블런트의](../Page/제임스_블런트.md "wikilink") 세 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 2010년 11월 8일에 발매되었다.\[1\] 2011년 12월 6일에는 *Some Kind Of Trouble: Revisited*라는 딜럭스반이 발매되었다.\[2\]
 
 ## 차트 성적
 

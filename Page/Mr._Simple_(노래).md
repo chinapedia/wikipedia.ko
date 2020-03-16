@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Mr. Simple \(\)](https://ko.wikipedia.org/wiki/Mr._Simple_\(\)).
 
 
-《**Mr. Simple**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 남성 그룹 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")가 일본에서 발매한 2번째 싱글이다.
+《**Mr. Simple**》은 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")가 일본에서 발매한 2번째 싱글이다.
 
 ## 개요
 
-  - [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink") 정규 5집 타이틀곡 〈[Mr. Simple](https://ko.wikipedia.org/wiki/Mr._Simple "wikilink")〉의 번안곡이다.
+  - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") 정규 5집 타이틀곡 〈[Mr. Simple](../Page/Mr._Simple.md "wikilink")〉의 번안곡이다.
   - 국내에서도 라이센스반 한정 발매 예정이었으나 무산되었다.
   - 커플링곡인〈Snow White〉는 슈퍼주니어의 최초의 일본 오리지널 곡이다.
 

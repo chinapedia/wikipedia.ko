@@ -27,7 +27,7 @@
 <td><p>2008년 3월 29일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a>[1]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[1]</p></td>
 <td><p>통산 22,000명</p></td>
 </tr>
 <tr class="even">
@@ -62,8 +62,8 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>SHINHWA MUST GO ON 10TH ANNIVERSARY LIVE IN SEOUL 《ORANGE EDITION》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/9월_26일" title="wikilink">9월 26일</a> (일본)</li>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/11월_6일" title="wikilink">11월 6일</a> (한국)</li>
+<li>발매일 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/9월_26일.md" title="wikilink">9월 26일</a> (일본)</li>
+<li>발매일 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> (한국)</li>
 </ul></td>
 </tr>
 </tbody>

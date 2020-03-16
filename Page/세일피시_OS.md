@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
 
 
-**세일피시 OS**(Sailfish OS)는 [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink")의 욜라(Jolla)와 세일피시 얼라이언스(Sailfish Alliance)에 의해 개발중인 모바일 운영체제이다. 세일피시 OS는 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")과 [노키아](https://ko.wikipedia.org/wiki/노키아 "wikilink")가 만들던 [미고](https://ko.wikipedia.org/wiki/미고 "wikilink")(MeeGo) 운영 체제에 기반한 머(Mer) 코어, 커스텀 빌드 사용자 환경, [HTML5](https://ko.wikipedia.org/wiki/HTML5 "wikilink"), [QML](https://ko.wikipedia.org/wiki/QML "wikilink"), [Qt로](https://ko.wikipedia.org/wiki/Qt_\(프레임워크\) "wikilink") 구성된다. 세일피시 OS를 탑재한 첫 스마트폰인 jolla smartphone은 2013년 5월 20일에 발표되었으며, 가격은 399[유로](https://ko.wikipedia.org/wiki/유로 "wikilink")로 책정되었다.\[1\] 2015년 9월 24일 Sailfish 2.0 Eineheminlampi 업데이트가 있었다.\[2\]
+**세일피시 OS**(Sailfish OS)는 [핀란드](../Page/핀란드.md "wikilink")의 욜라(Jolla)와 세일피시 얼라이언스(Sailfish Alliance)에 의해 개발중인 모바일 운영체제이다. 세일피시 OS는 [인텔](../Page/인텔.md "wikilink")과 [노키아](../Page/노키아.md "wikilink")가 만들던 [미고](https://ko.wikipedia.org/wiki/미고 "wikilink")(MeeGo) 운영 체제에 기반한 머(Mer) 코어, 커스텀 빌드 사용자 환경, [HTML5](../Page/HTML5.md "wikilink"), [QML](https://ko.wikipedia.org/wiki/QML "wikilink"), [Qt로](../Page/Qt_\(프레임워크\).md "wikilink") 구성된다. 세일피시 OS를 탑재한 첫 스마트폰인 jolla smartphone은 2013년 5월 20일에 발표되었으며, 가격은 399[유로](../Page/유로.md "wikilink")로 책정되었다.\[1\] 2015년 9월 24일 Sailfish 2.0 Eineheminlampi 업데이트가 있었다.\[2\]
 
 ## 호환성
 
-개발사인 욜라에 따르면 세일피시 OS 상에서 세일피시 OS용 애플리케이션을 포함하여 대부분의 [미고](https://ko.wikipedia.org/wiki/미고 "wikilink") 및 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 기반 애플리케이션이 구동 가능할 것으로 전망된다. 다만 커널상에서의 지원이 필요하므로 단순 포팅된 기기에서는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 앱의 실행을 지원하지 않는다.
+개발사인 욜라에 따르면 세일피시 OS 상에서 세일피시 OS용 애플리케이션을 포함하여 대부분의 [미고](https://ko.wikipedia.org/wiki/미고 "wikilink") 및 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 기반 애플리케이션이 구동 가능할 것으로 전망된다. 다만 커널상에서의 지원이 필요하므로 단순 포팅된 기기에서는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 앱의 실행을 지원하지 않는다.
 
 ## 지원 기기
 

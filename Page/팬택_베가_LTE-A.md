@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  LTE-A](https://ko.wikipedia.org/wiki/__LTE-A).
 
 
-**팬택 베가 LTE-A** (Pantech VEGA LTE-A)는 [팬택](https://ko.wikipedia.org/wiki/팬택 "wikilink")에서 2013년 8월 19일에 출시한 SK텔레콤 전용 모델 [구글 안드로이드](https://ko.wikipedia.org/wiki/구글_안드로이드 "wikilink") [패블릿](https://ko.wikipedia.org/wiki/패블릿 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. 원래는 베가 시크릿 업의 원형 모델로 출시될 예정이었으나 SK텔레콤의 요청으로 SK텔레콤 전용 모델로 출시되었다. [팬택](https://ko.wikipedia.org/wiki/팬택 "wikilink") 최초로 [LTE-A](https://ko.wikipedia.org/wiki/LTE_어드밴스트 "wikilink") 통신을 지원하는 스마트폰으로써 출시 당시 [LTE-A를](https://ko.wikipedia.org/wiki/LTE_어드밴스트 "wikilink") 지원하는 스마트폰들 중 디스플레이 크기가 가장 큰 Full HD 화면을 가지고 있었으며, [세계](https://ko.wikipedia.org/wiki/세계 "wikilink") 최초로 후면의 **시크릿 키**를 통해 지문인식 기능이 적용되었다. 또한 2Ah 급속충전으로 1시간 34분 만에 완전히 충전할 수 있으며, 이후 지문인식과 시크릿박스 등 베가 LTE-A에서 한 층 더 업그레이드 된 스마트폰인 [베가 시크릿 업이](https://ko.wikipedia.org/wiki/베가_시크릿_업 "wikilink") 출시되었다.\[1\].
+**팬택 베가 LTE-A** (Pantech VEGA LTE-A)는 [팬택](../Page/팬택.md "wikilink")에서 2013년 8월 19일에 출시한 SK텔레콤 전용 모델 [구글 안드로이드](https://ko.wikipedia.org/wiki/구글_안드로이드 "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 원래는 베가 시크릿 업의 원형 모델로 출시될 예정이었으나 SK텔레콤의 요청으로 SK텔레콤 전용 모델로 출시되었다. [팬택](../Page/팬택.md "wikilink") 최초로 [LTE-A](../Page/LTE_어드밴스트.md "wikilink") 통신을 지원하는 스마트폰으로써 출시 당시 [LTE-A를](../Page/LTE_어드밴스트.md "wikilink") 지원하는 스마트폰들 중 디스플레이 크기가 가장 큰 Full HD 화면을 가지고 있었으며, [세계](../Page/세계.md "wikilink") 최초로 후면의 **시크릿 키**를 통해 지문인식 기능이 적용되었다. 또한 2Ah 급속충전으로 1시간 34분 만에 완전히 충전할 수 있으며, 이후 지문인식과 시크릿박스 등 베가 LTE-A에서 한 층 더 업그레이드 된 스마트폰인 [베가 시크릿 업이](https://ko.wikipedia.org/wiki/베가_시크릿_업 "wikilink") 출시되었다.\[1\].
 
 ## 연혁
 
@@ -25,7 +25,7 @@
 
 ### 배터리
 
-경쟁 제품인 [삼성전자 갤럭시S4 LTE-A이나](https://ko.wikipedia.org/wiki/삼성_갤럭시S4_LTE-A "wikilink") [LG G2](../Page/LG_G2.md "wikilink")([대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 제품 기준) 보다 높은 용량인 3100mAh를 제공하고 있으며, 2 Ah 급속충전으로 1시간 33분 만에 완전히 충전할 수 있다.
+경쟁 제품인 [삼성전자 갤럭시S4 LTE-A이나](https://ko.wikipedia.org/wiki/삼성_갤럭시S4_LTE-A "wikilink") [LG G2](../Page/LG_G2.md "wikilink")([대한민국](../Page/대한민국.md "wikilink") 제품 기준) 보다 높은 용량인 3100mAh를 제공하고 있으며, 2 Ah 급속충전으로 1시간 33분 만에 완전히 충전할 수 있다.
 
 ### UX
 
@@ -34,7 +34,7 @@
 
 ### LTE-A 지원
 
-베가 LTE-A는 퀄컴 스냅드레곤800 프로세서\[2\]를 장착하여 [팬택](https://ko.wikipedia.org/wiki/팬택 "wikilink") 단말기 최초로 [LTE-A](https://ko.wikipedia.org/wiki/LTE-A "wikilink")dvanced를 지원, LTE의 2, 3G 대비 10배 빠른 약 150Mbps의 속도를 제공한다. 영화 한편 (1GB 기준)을 1분 이내에 다운로드 할 수 있으며, [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink")에서 제공하는 LTE-A 서비스를 이용할 수 있다.
+베가 LTE-A는 퀄컴 스냅드레곤800 프로세서\[2\]를 장착하여 [팬택](../Page/팬택.md "wikilink") 단말기 최초로 [LTE-A](https://ko.wikipedia.org/wiki/LTE-A "wikilink")dvanced를 지원, LTE의 2, 3G 대비 10배 빠른 약 150Mbps의 속도를 제공한다. 영화 한편 (1GB 기준)을 1분 이내에 다운로드 할 수 있으며, [SK텔레콤](../Page/SK텔레콤.md "wikilink")에서 제공하는 LTE-A 서비스를 이용할 수 있다.
 
 .
 
@@ -112,13 +112,13 @@
 
 #### V 프로텍션
 
-기기를 원격조정으로 제어하거나 초기화를 할 수 있으며 , SIM카드 변경시 비밀번호를 입력하게 하는 등 [팬택](https://ko.wikipedia.org/wiki/팬택 "wikilink")의 분실방지 기술이다.
+기기를 원격조정으로 제어하거나 초기화를 할 수 있으며 , SIM카드 변경시 비밀번호를 입력하게 하는 등 [팬택](../Page/팬택.md "wikilink")의 분실방지 기술이다.
 
 ## 특수 악세서리
 
 ### 프리미엄 스마트 플립
 
-[팬택](https://ko.wikipedia.org/wiki/팬택 "wikilink")에서 제공하는 정품 플립커버 케이스로 음악, 캘린더, 메시지 등의 알림을 확인할 수 있다. 블랙, 화이트, 실버, 핑크 색상을 제공한다.
+[팬택](../Page/팬택.md "wikilink")에서 제공하는 정품 플립커버 케이스로 음악, 캘린더, 메시지 등의 알림을 확인할 수 있다. 블랙, 화이트, 실버, 핑크 색상을 제공한다.
 
 ## 참고/각주
 

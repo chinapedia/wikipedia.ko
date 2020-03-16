@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [R.I.P.D.: ....](https://ko.wikipedia.org/wiki/R.I.P.D.:_....).
 
 
-**R.I.P.D.: 알.아이.피.디.**(R.I.P.D.)는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 영화이다.
+**R.I.P.D.: 알.아이.피.디.**(R.I.P.D.)는 [2013년](../Page/2013년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 영화이다.
 
 ## 줄거리
 
 ## 배역
 
-  - [제프 브리지스](https://ko.wikipedia.org/wiki/제프_브리지스 "wikilink") - 로이 펄시퍼 역
+  - [제프 브리지스](../Page/제프_브리지스.md "wikilink") - 로이 펄시퍼 역
   - [라이언 레이놀즈](https://ko.wikipedia.org/wiki/라이언_레이놀즈 "wikilink") - 닉 워커 역
-  - [케빈 베이컨](https://ko.wikipedia.org/wiki/케빈_베이컨 "wikilink") - 보비 헤이스 역
-  - [메리루이즈 파커](https://ko.wikipedia.org/wiki/메리루이즈_파커 "wikilink") - 밀드리드 프록터 역
+  - [케빈 베이컨](../Page/케빈_베이컨.md "wikilink") - 보비 헤이스 역
+  - [메리루이즈 파커](../Page/메리루이즈_파커.md "wikilink") - 밀드리드 프록터 역
   - [스테퍼니 쇼스택](https://ko.wikipedia.org/wiki/스테퍼니_쇼스택 "wikilink") - 줄리아 워커 역
   - [제임스 홍](https://ko.wikipedia.org/wiki/제임스_홍 "wikilink") - 제리 첸 역
-  - [머리사 밀러](https://ko.wikipedia.org/wiki/머리사_밀러 "wikilink") - 오팔 파블렌코 역
+  - [머리사 밀러](../Page/머리사_밀러.md "wikilink") - 오팔 파블렌코 역
   - [데빈 래트레이](https://ko.wikipedia.org/wiki/데빈_래트레이 "wikilink") - 풀라스키 역
   - [로버트 네퍼](https://ko.wikipedia.org/wiki/로버트_네퍼 "wikilink") - 스탠리 놀리키 역
   - [마이크 오맬리](https://ko.wikipedia.org/wiki/마이크_오맬리 "wikilink")

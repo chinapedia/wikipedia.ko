@@ -3,7 +3,7 @@
 
 미국에서 처음 쓰인 **jock**이라는 표현은 전형적인 남자 [운동선수를](https://ko.wikipedia.org/wiki/선수 "wikilink") 뜻하며,\[1\] 주로 청소년 하위문화에 속하는 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")나 [대학교](https://ko.wikipedia.org/wiki/대학교 "wikilink") 운동선수를 말한다. 사회학에서 작은 프레피와 아이비리거 같은 사교계 명사 하위문화에 속한다.\[2\] 작이라는 표현은 운동선수라는 뜻의 애슬리트(*athlete*)와 동의어인 포괄적 용어이기도 하다.\[3\]
 
-작과 비슷한 단어로는 메시드(*meathead*), 머슬브레인(*musclebrain*), 머슬헤드(*musclehead*)가 있는데, 이것은 작이 근육질의 몸을 가졌지만 똑똑하지는 않으며, [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink"), [운동](https://ko.wikipedia.org/wiki/운동_\(활동\) "wikilink"), [섹스](https://ko.wikipedia.org/wiki/섹스 "wikilink")와 관련된 주제 이외에는 대화를 하지 못하는 전형적인 모습을 빗대어 표현한 것이다.
+작과 비슷한 단어로는 메시드(*meathead*), 머슬브레인(*musclebrain*), 머슬헤드(*musclehead*)가 있는데, 이것은 작이 근육질의 몸을 가졌지만 똑똑하지는 않으며, [스포츠](../Page/스포츠.md "wikilink"), [운동](https://ko.wikipedia.org/wiki/운동_\(활동\) "wikilink"), [섹스](https://ko.wikipedia.org/wiki/섹스 "wikilink")와 관련된 주제 이외에는 대화를 하지 못하는 전형적인 모습을 빗대어 표현한 것이다.
 
 ## 유래
 
@@ -30,7 +30,7 @@
 ## 같이 보기
 
   - [너드](../Page/너드.md "wikilink")
-  - [아이비 리그](https://ko.wikipedia.org/wiki/아이비_리그 "wikilink")
+  - [아이비 리그](../Page/아이비_리그.md "wikilink")
 
 ## 각주
 

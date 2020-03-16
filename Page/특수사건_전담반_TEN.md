@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  TEN](https://ko.wikipedia.org/wiki/__TEN).
 
 
-《**특수사건 전담반 TEN**》은 [OCN에서](https://ko.wikipedia.org/wiki/OCN_\(방송\) "wikilink") [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 18일부터](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 13일까지](https://ko.wikipedia.org/wiki/1월_13일 "wikilink") 방영된 [드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+《**특수사건 전담반 TEN**》은 [OCN에서](https://ko.wikipedia.org/wiki/OCN_\(방송\) "wikilink") [2011년](../Page/2011년.md "wikilink") [11월 18일부터](../Page/11월_18일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [1월 13일까지](../Page/1월_13일.md "wikilink") 방영된 [드라마이다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 등장 인물
 
 ### 주요 인물
 
-  - [주상욱](https://ko.wikipedia.org/wiki/주상욱 "wikilink") : 여지훈 역 (30대 중반)
+  - [주상욱](../Page/주상욱.md "wikilink") : 여지훈 역 (30대 중반)
 
 <!-- end list -->
 
@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - [김상호](https://ko.wikipedia.org/wiki/김상호_\(배우\) "wikilink") : 백도식 역 (40대 중반)
+  - [김상호](../Page/김상호_\(배우\).md "wikilink") : 백도식 역 (40대 중반)
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - [조안](https://ko.wikipedia.org/wiki/조안_\(배우\) "wikilink") : 남예리 역 (20대 후반)
+  - [조안](../Page/조안_\(배우\).md "wikilink") : 남예리 역 (20대 후반)
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@
 
 <!-- end list -->
 
-  - [최우식](https://ko.wikipedia.org/wiki/최우식 "wikilink") : 박민호 역 (20대 초반)
+  - [최우식](../Page/최우식.md "wikilink") : 박민호 역 (20대 초반)
 
 <!-- end list -->
 
@@ -43,22 +43,22 @@
 
 <!-- end list -->
 
-  - [윤지혜](https://ko.wikipedia.org/wiki/윤지혜_\(배우\) "wikilink") : 서유림 역 - 국립과학수사연구원 부검의
+  - [윤지혜](../Page/윤지혜_\(배우\).md "wikilink") : 서유림 역 - 국립과학수사연구원 부검의
   - [최범호](../Page/최범호.md "wikilink") : 정우식 국장 역
 
 ### 그 외
 
-  - [김해인](https://ko.wikipedia.org/wiki/김해인 "wikilink") : 김은영/서은비 역
+  - [김해인](../Page/김해인.md "wikilink") : 김은영/서은비 역
   - [권민](https://ko.wikipedia.org/wiki/권민 "wikilink")
   - 하성광
   - [이원우](https://ko.wikipedia.org/wiki/이원우 "wikilink")
-  - [김문호](https://ko.wikipedia.org/wiki/김문호 "wikilink") : 살인자 역
+  - [김문호](../Page/김문호.md "wikilink") : 살인자 역
   - 김봉성
-  - [강현중](https://ko.wikipedia.org/wiki/강현중 "wikilink") : 보람흥신소 사장 역
+  - [강현중](../Page/강현중.md "wikilink") : 보람흥신소 사장 역
   - [소희정](../Page/소희정.md "wikilink") : 김순옥 역 - 사채업자
   - [장예원](https://ko.wikipedia.org/wiki/장예원 "wikilink")
   - [오창경](../Page/오창경.md "wikilink")
-  - [서진욱](https://ko.wikipedia.org/wiki/서진욱 "wikilink")
+  - [서진욱](../Page/서진욱.md "wikilink")
   - 심우창
   - 조이삼
   - 봉은선 : 봉은선 역 - 경찰
@@ -67,7 +67,7 @@
   - 표철환
   - 주부진
   - [오희준](../Page/오희준.md "wikilink")
-  - [전헌태](https://ko.wikipedia.org/wiki/전헌태 "wikilink") : 피해자 지원센터 센터장 역
+  - [전헌태](../Page/전헌태.md "wikilink") : 피해자 지원센터 센터장 역
   - 양근석
   - 조현진
   - [김나연](https://ko.wikipedia.org/wiki/김나연 "wikilink")
@@ -76,13 +76,13 @@
   - 원종선
   - 서지미
   - 장주연 : 대학교 도서관 사서 역
-  - [육미라](https://ko.wikipedia.org/wiki/육미라 "wikilink")
+  - [육미라](../Page/육미라.md "wikilink")
   - 이일섭
   - [이종구](https://ko.wikipedia.org/wiki/이종구 "wikilink")
-  - [강재은](https://ko.wikipedia.org/wiki/강재은 "wikilink")
+  - [강재은](../Page/강재은.md "wikilink")
   - [강철성](../Page/강철성.md "wikilink")
-  - [윤복성](https://ko.wikipedia.org/wiki/윤복성 "wikilink")
-  - [김소정](https://ko.wikipedia.org/wiki/김소정 "wikilink")
+  - [윤복성](../Page/윤복성.md "wikilink")
+  - [김소정](../Page/김소정.md "wikilink")
   - [이영은](../Page/이영은_\(2004년\).md "wikilink") : 어린 수진 역
   - 염혜아
   - [김재욱](https://ko.wikipedia.org/wiki/김재욱 "wikilink")
@@ -92,10 +92,10 @@
   - [문영동](../Page/문영동.md "wikilink") : 조복례 둘째아들 역
   - [임병욱](../Page/임병욱.md "wikilink")
   - 오정원
-  - [김수진](https://ko.wikipedia.org/wiki/연수진 "wikilink")
+  - [김수진](../Page/연수진.md "wikilink")
   - 조성한
-  - [이매리](https://ko.wikipedia.org/wiki/이매리 "wikilink") : 맞선 업체 상담가 역
-  - [전진기](https://ko.wikipedia.org/wiki/전진기 "wikilink")
+  - [이매리](../Page/이매리.md "wikilink") : 맞선 업체 상담가 역
+  - [전진기](../Page/전진기.md "wikilink")
   - [이설구](../Page/이설구.md "wikilink")
   - [민우기](https://ko.wikipedia.org/wiki/민우기 "wikilink") : 팬티남 역
   - 백성흠
@@ -106,10 +106,10 @@
   - [박태성](../Page/박태성_\(배우\).md "wikilink")
   - 이치형
   - 안장훈
-  - [김경룡](https://ko.wikipedia.org/wiki/김경룡 "wikilink") : 내사과장 역
+  - [김경룡](../Page/김경룡.md "wikilink") : 내사과장 역
   - 전현숙
   - [김경모](https://ko.wikipedia.org/wiki/김경모 "wikilink")
-  - [한동환](https://ko.wikipedia.org/wiki/한동환 "wikilink")
+  - [한동환](../Page/한동환.md "wikilink")
   - 신재도
   - [강민정](https://ko.wikipedia.org/wiki/강민정 "wikilink")
   - 신소현
@@ -117,7 +117,7 @@
   - 신선희
   - 강미애
   - 박고은
-  - [장문석](https://ko.wikipedia.org/wiki/장문석 "wikilink")
+  - [장문석](../Page/장문석.md "wikilink")
   - [이명헌](https://ko.wikipedia.org/wiki/이명헌 "wikilink")
   - 손화빈
   - 칼리드 타피아
@@ -130,8 +130,8 @@
 
 <!-- end list -->
 
-  - [고인범](https://ko.wikipedia.org/wiki/고인범 "wikilink") : 박중석 역 - 박민지의 아버지
-  - [양은용](https://ko.wikipedia.org/wiki/양은용 "wikilink") : 조수영 동생 역
+  - [고인범](../Page/고인범.md "wikilink") : 박중석 역 - 박민지의 아버지
+  - [양은용](../Page/양은용.md "wikilink") : 조수영 동생 역
   - 전희수 : 박민지 역
   - 차진혁
   - 서보익
@@ -145,7 +145,7 @@
 <!-- end list -->
 
   - [배민희](https://ko.wikipedia.org/wiki/배민희_\(배우\) "wikilink") : 정희연 역. 민채원 엄마
-  - [김기현](https://ko.wikipedia.org/wiki/김기현_\(성우\) "wikilink") : 민채원 할아버지 역
+  - [김기현](../Page/김기현_\(성우\).md "wikilink") : 민채원 할아버지 역
   - [장소연](../Page/장소연_\(배우\).md "wikilink") : 임유경 역. 민채원 생모
   - [김지영](https://ko.wikipedia.org/wiki/김지영_\(2005년\) "wikilink") : 민채원 역
   - [이현걸](../Page/이현걸.md "wikilink")
@@ -153,25 +153,25 @@
   - 박종상
   - 이병철
   - 김동화
-  - [유정호](https://ko.wikipedia.org/wiki/유정호 "wikilink")
+  - [유정호](../Page/유정호.md "wikilink")
 
 <!-- end list -->
 
   - [이소윤](../Page/이소윤.md "wikilink") : 정희주 역 - 여지훈의 여자친구
   - [정윤선](../Page/정윤선.md "wikilink")
-  - [손선근](https://ko.wikipedia.org/wiki/손선근 "wikilink") : 박민호 아버지 역
+  - [손선근](../Page/손선근.md "wikilink") : 박민호 아버지 역
   - [서우진](../Page/서우진.md "wikilink")
   - 김하민
   - 전호
-  - [이일웅](https://ko.wikipedia.org/wiki/이일웅 "wikilink") : 사진사 역
-  - [최민](https://ko.wikipedia.org/wiki/최민_\(1974년\) "wikilink")
+  - [이일웅](../Page/이일웅.md "wikilink") : 사진사 역
+  - [최민](../Page/최민_\(1974년\).md "wikilink")
   - [박진아](https://ko.wikipedia.org/wiki/박진아 "wikilink")
   - 최미영
   - 방현웅
   - [김봉수](https://ko.wikipedia.org/wiki/김봉수 "wikilink")
   - [한수현](https://ko.wikipedia.org/wiki/한수현 "wikilink")
   - 홍택근
-  - [박그리나](https://ko.wikipedia.org/wiki/박그리나 "wikilink") : 유현경 역
+  - [박그리나](../Page/박그리나.md "wikilink") : 유현경 역
   - [손종학](../Page/손종학.md "wikilink")
   - [정동규](https://ko.wikipedia.org/wiki/정동규 "wikilink")
   - [하수호](../Page/하수호.md "wikilink")
@@ -180,13 +180,13 @@
 
 ### 우정출연
 
-  - [정호빈](https://ko.wikipedia.org/wiki/정호빈 "wikilink") : 정의석 역 - 국회의원 (4화)
-  - [오민석](https://ko.wikipedia.org/wiki/오민석 "wikilink") : 김선우 역 - 호스트바 마담 (4화)
-  - [이재은](https://ko.wikipedia.org/wiki/이재은_\(1980년\) "wikilink") : 정의석의 아내 역 (4화)
+  - [정호빈](../Page/정호빈.md "wikilink") : 정의석 역 - 국회의원 (4화)
+  - [오민석](../Page/오민석.md "wikilink") : 김선우 역 - 호스트바 마담 (4화)
+  - [이재은](../Page/이재은_\(1980년\).md "wikilink") : 정의석의 아내 역 (4화)
 
 ### 특별출연
 
-  - [표창원](https://ko.wikipedia.org/wiki/표창원 "wikilink") (1화)
+  - [표창원](../Page/표창원.md "wikilink") (1화)
 
 ## 제작진
 
@@ -217,19 +217,19 @@
 
 ## 방영 목록
 
-| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") |
-| ------------------------------------------------------- |
-| 회차                                                      |
-| 1화                                                      |
-| 2화                                                      |
-| 3화                                                      |
-| 4화                                                      |
-| 5화                                                      |
-| 6화                                                      |
-| 7화                                                      |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") |
-| 8화                                                      |
-| 9화                                                      |
+| [2011년](../Page/2011년.md "wikilink") |
+| ------------------------------------ |
+| 회차                                   |
+| 1화                                   |
+| 2화                                   |
+| 3화                                   |
+| 4화                                   |
+| 5화                                   |
+| 6화                                   |
+| 7화                                   |
+| [2012년](../Page/2012년.md "wikilink") |
+| 8화                                   |
+| 9화                                   |
 
 ## 사운드 트랙
 

@@ -36,7 +36,7 @@ B   := tmp − Co;
 
 ### YCbCr 색상 모형
 
-YCgCo 모형은 [YCbCr](https://ko.wikipedia.org/wiki/YCbCr "wikilink") 색상 모형에 비해 계산이 더 간단하고 빠른 장점이 있으며 색상 계층 사이의 상관성도 더욱 낮다.\[4\]\[5\]
+YCgCo 모형은 [YCbCr](../Page/YCbCr.md "wikilink") 색상 모형에 비해 계산이 더 간단하고 빠른 장점이 있으며 색상 계층 사이의 상관성도 더욱 낮다.\[4\]\[5\]
 
 ## 문헌
 

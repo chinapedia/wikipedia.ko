@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIBA    ](https://ko.wikipedia.org/wiki/FIBA____).
 
 
-**FIBA 여자농구 아시아컵**은[FIBA](https://ko.wikipedia.org/wiki/FIBA "wikilink")에 가입된 아시아 지역 [여자 농구 대표팀들이](https://ko.wikipedia.org/wiki/여자_농구 "wikilink") 참여하는 여자 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink") 분야의 국제 대회이다.
+**FIBA 여자농구 아시아컵**은[FIBA](https://ko.wikipedia.org/wiki/FIBA "wikilink")에 가입된 아시아 지역 [여자 농구 대표팀들이](https://ko.wikipedia.org/wiki/여자_농구 "wikilink") 참여하는 여자 [농구](../Page/농구.md "wikilink") 분야의 국제 대회이다.
 
 ## 결과
 
@@ -37,7 +37,7 @@
 <td><p>1965<br />
 <em><a href="https://ko.wikipedia.org/wiki/1965_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울</a></p></td>
+<a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><span style="color:#A0A0A0;">-</span></p></td>
 <td></td>
@@ -57,7 +57,7 @@
 <td><p>1970<br />
 <em><a href="https://ko.wikipedia.org/wiki/1970_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><span style="color:#A0A0A0;">-</span></p></td>
 <td></td>
@@ -77,7 +77,7 @@
 <td><p>1974<br />
 <em><a href="https://ko.wikipedia.org/wiki/1974_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울</a></p></td>
+<a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><span style="color:#A0A0A0;">-</span></p></td>
 <td></td>
@@ -87,7 +87,7 @@
 <td><p>1976<br />
 <em><a href="https://ko.wikipedia.org/wiki/1976_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a></p></td>
+<a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><span style="color:#A0A0A0;">-</span></p></td>
 <td></td>
@@ -97,7 +97,7 @@
 <td><p>1978<br />
 <em><a href="https://ko.wikipedia.org/wiki/1978_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><span style="color:#A0A0A0;">-</span></p></td>
 <td></td>
@@ -107,7 +107,7 @@
 <td><p>1980<br />
 <em><a href="https://ko.wikipedia.org/wiki/1980_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a></p></td>
+<a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><span style="color:#A0A0A0;">-</span></p></td>
 <td></td>
@@ -117,7 +117,7 @@
 <td><p>1982<br />
 <em><a href="https://ko.wikipedia.org/wiki/1982_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/도쿄도" title="wikilink">도쿄</a></p></td>
+<a href="../Page/도쿄도.md" title="wikilink">도쿄</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><span style="color:#A0A0A0;">-</span></p></td>
 <td></td>
@@ -137,7 +137,7 @@
 <td><p>1986<br />
 <em><a href="https://ko.wikipedia.org/wiki/1986_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><span style="color:#A0A0A0;">-</span></p></td>
 <td></td>
@@ -147,7 +147,7 @@
 <td><p>1988<br />
 <em><a href="https://ko.wikipedia.org/wiki/1988_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a></p></td>
+<a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><span style="color:#A0A0A0;">-</span></p></td>
 <td></td>
@@ -157,7 +157,7 @@
 <td><p>1990<br />
 <em><a href="https://ko.wikipedia.org/wiki/1990_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/싱가포르" title="wikilink">싱가포르</a></p></td>
+<a href="../Page/싱가포르.md" title="wikilink">싱가포르</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><span style="color:#A0A0A0;">-</span></p></td>
 <td></td>
@@ -167,7 +167,7 @@
 <td><p>1992<br />
 <em><a href="https://ko.wikipedia.org/wiki/1992_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울</a></p></td>
+<a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>89–76</strong></p></td>
 <td></td>
@@ -197,7 +197,7 @@
 <td><p>1997<br />
 <em><a href="https://ko.wikipedia.org/wiki/1997_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>74–61</strong></p></td>
 <td></td>
@@ -217,7 +217,7 @@
 <td><p>2001<br />
 <em><a href="https://ko.wikipedia.org/wiki/2001_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>105–76</strong></p></td>
 <td></td>
@@ -257,7 +257,7 @@
 <td><p>2009<br />
 <em><a href="https://ko.wikipedia.org/wiki/2009_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/첸나이" title="wikilink">첸나이</a></p></td>
+<a href="../Page/첸나이.md" title="wikilink">첸나이</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>91–71</strong></p></td>
 <td></td>
@@ -277,7 +277,7 @@
 <td><p>2013<br />
 <em><a href="https://ko.wikipedia.org/wiki/2013_아시아_여자_농구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>65-43</strong></p></td>
 <td></td>

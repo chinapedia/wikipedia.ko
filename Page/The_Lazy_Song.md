@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Lazy Song](https://ko.wikipedia.org/wiki/The_Lazy_Song).
 
 
-"**The Lazy Song**"은 미국의 가수 [브루노 마스의](https://ko.wikipedia.org/wiki/브루노_마스 "wikilink") 노래로, *[Doo-Wops & Hooligans](../Page/Doo-Wops_&_Hooligans.md "wikilink")*에 수록되어 있다.
+"**The Lazy Song**"은 미국의 가수 [브루노 마스의](../Page/브루노_마스.md "wikilink") 노래로, *[Doo-Wops & Hooligans](../Page/Doo-Wops_&_Hooligans.md "wikilink")*에 수록되어 있다.
 
 ## 트랙리스트
 

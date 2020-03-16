@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [SBA ](https://ko.wikipedia.org/wiki/SBA_).
 
 
-**SBA 항공**()는 [베네수엘라](https://ko.wikipedia.org/wiki/베네수엘라 "wikilink")의 [항공사](https://ko.wikipedia.org/wiki/항공사 "wikilink")로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 설립되어\[1\] [카라카스](https://ko.wikipedia.org/wiki/카라카스 "wikilink")에 본사를 두고 있으며 [시몬 볼리바르 국제공항](https://ko.wikipedia.org/wiki/시몬_볼리바르_국제공항 "wikilink"), [라치나타 국제공항을](https://ko.wikipedia.org/wiki/라치나타_국제공항 "wikilink") 거점으로 운항하고 있다. 이전 명칭은 **산타바바라 항공**()이다.\[2\]
+**SBA 항공**()는 [베네수엘라](../Page/베네수엘라.md "wikilink")의 [항공사](https://ko.wikipedia.org/wiki/항공사 "wikilink")로 [2008년](../Page/2008년.md "wikilink") 설립되어\[1\] [카라카스](../Page/카라카스.md "wikilink")에 본사를 두고 있으며 [시몬 볼리바르 국제공항](https://ko.wikipedia.org/wiki/시몬_볼리바르_국제공항 "wikilink"), [라치나타 국제공항을](https://ko.wikipedia.org/wiki/라치나타_국제공항 "wikilink") 거점으로 운항하고 있다. 이전 명칭은 **산타바바라 항공**()이다.\[2\]
 
 ## 역사
 
-[1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [11월 1일에](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") **산타바바라 항공**()로 설립해 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 1일에](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 취항을 시작했다. 1996년 3월 1에 대한 작업을 시작했다. 당시 카나리아 아이슬란드 그룹이 소유 했지만 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") SOAC 그룹에 매각했다. 이후 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 [아스크라 항공에](../Page/아스크라_항공.md "wikilink") 인수해 현재의 사명으로 변경했다. 한편 [스마트룩스 항공으로](https://ko.wikipedia.org/wiki/스마트룩스_항공 "wikilink") 부터 [보잉 767-300ER을](https://ko.wikipedia.org/wiki/보잉_767 "wikilink") 발주해 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 20일에](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") 도입해 최초로 [마드리드](https://ko.wikipedia.org/wiki/마드리드 "wikilink")로 오가는 국제선 노선에 취항했다.
+[1995년](../Page/1995년.md "wikilink") [11월 1일에](../Page/11월_1일.md "wikilink") **산타바바라 항공**()로 설립해 [1996년](../Page/1996년.md "wikilink") [3월 1일에](../Page/3월_1일.md "wikilink") 취항을 시작했다. 1996년 3월 1에 대한 작업을 시작했다. 당시 카나리아 아이슬란드 그룹이 소유 했지만 [2006년](../Page/2006년.md "wikilink") [9월](../Page/9월.md "wikilink") SOAC 그룹에 매각했다. 이후 [2008년](../Page/2008년.md "wikilink")에 [아스크라 항공에](../Page/아스크라_항공.md "wikilink") 인수해 현재의 사명으로 변경했다. 한편 [스마트룩스 항공으로](https://ko.wikipedia.org/wiki/스마트룩스_항공 "wikilink") 부터 [보잉 767-300ER을](../Page/보잉_767.md "wikilink") 발주해 [2009년](../Page/2009년.md "wikilink") [6월 20일에](../Page/6월_20일.md "wikilink") 도입해 최초로 [마드리드](../Page/마드리드.md "wikilink")로 오가는 국제선 노선에 취항했다.
 
 ## 운항 노선
 
-  - **[스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")**
+  - **[스페인](../Page/스페인.md "wikilink")**
       - [테네리페](https://ko.wikipedia.org/wiki/테네리페 "wikilink") - [로스로데오스 공항](https://ko.wikipedia.org/wiki/로스로데오스_공항 "wikilink")
-  - **[파나마](https://ko.wikipedia.org/wiki/파나마 "wikilink")**
+  - **[파나마](../Page/파나마.md "wikilink")**
       - [파나마 시티](https://ko.wikipedia.org/wiki/파나마_시티 "wikilink") - [토쿠멘 국제공항](../Page/토쿠멘_국제공항.md "wikilink")
-  - **[베네수엘라](https://ko.wikipedia.org/wiki/베네수엘라 "wikilink")**
-      - [카라카스](https://ko.wikipedia.org/wiki/카라카스 "wikilink") - [시몬 볼리바르 국제공항](https://ko.wikipedia.org/wiki/시몬_볼리바르_국제공항 "wikilink") **허브**
-  - **[미국](https://ko.wikipedia.org/wiki/미국 "wikilink")**
-      - [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink") - [마이애미 국제공항](https://ko.wikipedia.org/wiki/마이애미_국제공항 "wikilink")
+  - **[베네수엘라](../Page/베네수엘라.md "wikilink")**
+      - [카라카스](../Page/카라카스.md "wikilink") - [시몬 볼리바르 국제공항](https://ko.wikipedia.org/wiki/시몬_볼리바르_국제공항 "wikilink") **허브**
+  - **[미국](../Page/미국.md "wikilink")**
+      - [마이애미](../Page/마이애미.md "wikilink") - [마이애미 국제공항](https://ko.wikipedia.org/wiki/마이애미_국제공항 "wikilink")
 
 ## 보유 기종\[3\]\[4\]
 
@@ -43,7 +43,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_757" title="wikilink">보잉 757-200</a></p></td>
+<td><p><a href="../Page/보잉_757.md" title="wikilink">보잉 757-200</a></p></td>
 <td><p>3</p></td>
 <td><p>0</p></td>
 <td><p>24</p></td>
@@ -51,7 +51,7 @@
 <td><p>188</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_767" title="wikilink">보잉 767-300ER</a></p></td>
+<td><p><a href="../Page/보잉_767.md" title="wikilink">보잉 767-300ER</a></p></td>
 <td><p>3</p></td>
 <td><p>0</p></td>
 <td><p>18</p></td>
@@ -103,7 +103,7 @@
 
 ## 사진
 
-파일:YV2242 B757 SBA (5594330087).jpg|SBA 항공의 [보잉 757-200](https://ko.wikipedia.org/wiki/보잉_757 "wikilink") 파일:SBA Santa Barbara Airlines Boeing 757; YV2242@UIO;22.06.2008 514dx (4276400840).jpg|SBA 항공의 [보잉 757-200](https://ko.wikipedia.org/wiki/보잉_757 "wikilink") 파일:YL-LCZ B767 Santa Barbera (4578441095).jpg|SBA 항공의 [보잉 767-300ER](https://ko.wikipedia.org/wiki/보잉_767 "wikilink") 파일:Santa Barbara Airlines Boeing 767-300ER Stegmeier.jpg|SBA 항공의 [보잉 767-300ER](https://ko.wikipedia.org/wiki/보잉_767 "wikilink") 파일:McDonnell Douglas MD-80 SBA Airlines.jpg|SBA 항공의 [맥도넬더글러스 MD-80](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink")
+파일:YV2242 B757 SBA (5594330087).jpg|SBA 항공의 [보잉 757-200](../Page/보잉_757.md "wikilink") 파일:SBA Santa Barbara Airlines Boeing 757; YV2242@UIO;22.06.2008 514dx (4276400840).jpg|SBA 항공의 [보잉 757-200](../Page/보잉_757.md "wikilink") 파일:YL-LCZ B767 Santa Barbera (4578441095).jpg|SBA 항공의 [보잉 767-300ER](../Page/보잉_767.md "wikilink") 파일:Santa Barbara Airlines Boeing 767-300ER Stegmeier.jpg|SBA 항공의 [보잉 767-300ER](../Page/보잉_767.md "wikilink") 파일:McDonnell Douglas MD-80 SBA Airlines.jpg|SBA 항공의 [맥도넬더글러스 MD-80](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink")
 
 ## 외부 링크
 

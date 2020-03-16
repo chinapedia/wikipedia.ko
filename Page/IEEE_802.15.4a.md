@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IEEE 802.15.4a](https://ko.wikipedia.org/wiki/IEEE_802.15.4a).
 
 
-**IEEE 802.15.4a**(공식적으로는 IEEE 802.15.4a-2007)는 부가적인 물리계층(PHYs)을 원래의 표준에 추가하는 [IEEE 802.15.4의](https://ko.wikipedia.org/wiki/IEEE_802.15.4 "wikilink") 수정판이다.\[1\] IEEE 802.15.4-2011로 합병 및 대체되었다.\[2\]
+**IEEE 802.15.4a**(공식적으로는 IEEE 802.15.4a-2007)는 부가적인 물리계층(PHYs)을 원래의 표준에 추가하는 [IEEE 802.15.4의](../Page/IEEE_802.15.4.md "wikilink") 수정판이다.\[1\] IEEE 802.15.4-2011로 합병 및 대체되었다.\[2\]
 
 ## 개요
 

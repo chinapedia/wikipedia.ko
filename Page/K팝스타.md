@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K](https://ko.wikipedia.org/wiki/K).
 
 
-《**K팝스타**》(K-POP STAR)는 [SBS의](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 오디션 프로그램이다.
+《**K팝스타**》(K-POP STAR)는 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 오디션 프로그램이다.
 
 ## 방송 시리즈
 
@@ -21,38 +21,38 @@
 <td><p>1기</p></td>
 <td><p>22부작</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/K팝스타_1" title="wikilink">K팝스타 시즌 1</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/12월_4일" title="wikilink">12월 4일</a> ~ <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/4월_29일" title="wikilink">4월 29일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윤도현" title="wikilink">윤도현</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/12월_4일.md" title="wikilink">12월 4일</a> ~ <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_29일.md" title="wikilink">4월 29일</a></p></td>
+<td><p><a href="../Page/윤도현.md" title="wikilink">윤도현</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/붐" title="wikilink">붐</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2기</p></td>
 <td><p>21부작</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/K팝스타_2" title="wikilink">K팝스타 시즌 2</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/11월_18일" title="wikilink">11월 18일</a> ~ <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/4월_7일" title="wikilink">4월 7일</a></p></td>
+<td><p><a href="../Page/K팝스타_2.md" title="wikilink">K팝스타 시즌 2</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/11월_18일.md" title="wikilink">11월 18일</a> ~ <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3기</p></td>
 <td><p><a href="../Page/K팝스타_3.md" title="wikilink">K팝스타 시즌 3</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/11월_24일" title="wikilink">11월 24일</a> ~ <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/4월_13일" title="wikilink">4월 13일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전현무" title="wikilink">전현무</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/11월_24일.md" title="wikilink">11월 24일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_13일.md" title="wikilink">4월 13일</a></p></td>
+<td><p><a href="../Page/전현무.md" title="wikilink">전현무</a></p></td>
 <td><p>-</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유희열" title="wikilink">유희열 (안테나)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4기</p></td>
 <td><p><a href="../Page/K팝스타_4.md" title="wikilink">K팝스타 시즌 4</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/11월_23일" title="wikilink">11월 23일</a> ~ <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/4월_12일" title="wikilink">4월 12일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유라" title="wikilink">유라</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/11월_23일.md" title="wikilink">11월 23일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/4월_12일.md" title="wikilink">4월 12일</a></p></td>
+<td><p><a href="../Page/유라.md" title="wikilink">유라</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5기</p></td>
 <td><p><a href="../Page/K팝스타_5.md" title="wikilink">K팝스타 시즌 5</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/11월_22일" title="wikilink">11월 22일</a> ~ <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/4월_10일" title="wikilink">4월 10일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/11월_22일.md" title="wikilink">11월 22일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_10일.md" title="wikilink">4월 10일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/붐" title="wikilink">붐</a></p></td>
 <td></td>
 <td></td>
@@ -62,7 +62,7 @@
 <td><p>40부작<br />
 (21부작)</p></td>
 <td><p><a href="../Page/K팝스타_6_더_라스트_찬스.md" title="wikilink">K팝스타 시즌 6</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/11월_20일" title="wikilink">11월 20일</a> ~ <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/4월_9일" title="wikilink">4월 9일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/11월_20일.md" title="wikilink">11월 20일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/4월_9일.md" title="wikilink">4월 9일</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -76,14 +76,14 @@
 <tr class="odd">
 <td><p>시즌1 (2011~2012)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박지민" title="wikilink">박지민</a> ()</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이하이" title="wikilink">이하이</a> ()</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/백아연" title="wikilink">백아연</a> ()</p></td>
+<td><p><a href="../Page/이하이.md" title="wikilink">이하이</a> ()</p></td>
+<td><p><a href="../Page/백아연.md" title="wikilink">백아연</a> ()</p></td>
 </tr>
 <tr class="even">
 <td><p>시즌2 (2012~2013)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/악동뮤지션" title="wikilink">악동뮤지션</a> (<a href="https://ko.wikipedia.org/wiki/이수현" title="wikilink">이수현</a>, <a href="../Page/이찬혁.md" title="wikilink">이찬혁</a>) ()</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/방예담" title="wikilink">방예담</a> ()</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/앤드류_최" title="wikilink">앤드류 최</a> ()</p></td>
+<td><p><a href="../Page/앤드류_최.md" title="wikilink">앤드류 최</a> ()</p></td>
 </tr>
 <tr class="odd">
 <td><p>시즌3 (2013~2014)</p></td>
@@ -110,11 +110,11 @@
 </tr>
 <tr class="even">
 <td><p>시즌6 (2016~2017)</p></td>
-<td><p>보이프렌드 (<a href="https://ko.wikipedia.org/wiki/김종섭" title="wikilink">김종섭</a>, <a href="https://ko.wikipedia.org/wiki/박현진_(음악가)" title="wikilink">박현진</a>) ()</p></td>
+<td><p>보이프렌드 (<a href="../Page/김종섭.md" title="wikilink">김종섭</a>, <a href="../Page/박현진_(음악가).md" title="wikilink">박현진</a>) ()</p></td>
 <td><p>퀸즈 (걸그룹)<br />
-<a href="https://ko.wikipedia.org/wiki/소희_(1999년)" title="wikilink">김소희 (엘리스)</a> ()<br />
+<a href="../Page/소희_(1999년).md" title="wikilink">김소희 (엘리스)</a> ()<br />
 김혜림 (라임소다) ()<br />
-<a href="https://ko.wikipedia.org/wiki/크리샤_츄" title="wikilink">크리샤 츄</a> ()</p></td>
+<a href="../Page/크리샤_츄.md" title="wikilink">크리샤 츄</a> ()</p></td>
 <td><p><a href="../Page/샤넌_(가수).md" title="wikilink">샤넌</a> () (솔로)<br />
 민아리 (걸그룹)<br />
 <a href="../Page/전민주.md" title="wikilink">전민주</a> ()<br />

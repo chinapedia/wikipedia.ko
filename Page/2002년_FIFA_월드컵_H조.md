@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2002 FIFA  H](https://ko.wikipedia.org/wiki/2002_FIFA__H).
 
 
-[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") H조**에는 [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink"), [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink"), [러시아](https://ko.wikipedia.org/wiki/러시아_축구_국가대표팀 "wikilink"), 그리고 [튀니지가](https://ko.wikipedia.org/wiki/튀니지_축구_국가대표팀 "wikilink") 편성되었다. H조의 경기는 2002년 6월 4일부터 2002년 6월 14일까지 치러졌다. [일본은](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 조 1위를 차지하여 [벨기에와](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink") 함께 다음 라운드에 진출하였다. 그러나, [러시아와](https://ko.wikipedia.org/wiki/러시아_축구_국가대표팀 "wikilink") [튀니지는](https://ko.wikipedia.org/wiki/튀니지_축구_국가대표팀 "wikilink") 그리하지 못하였다.
+[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") H조**에는 [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink"), [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink"), [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), 그리고 [튀니지가](../Page/튀니지_축구_국가대표팀.md "wikilink") 편성되었다. H조의 경기는 2002년 6월 4일부터 2002년 6월 14일까지 치러졌다. [일본은](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 조 1위를 차지하여 [벨기에와](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink") 함께 다음 라운드에 진출하였다. 그러나, [러시아와](../Page/러시아_축구_국가대표팀.md "wikilink") [튀니지는](../Page/튀니지_축구_국가대표팀.md "wikilink") 그리하지 못하였다.
 
 ## 팀
 
@@ -11,7 +11,7 @@
 <th><p>시드 배정</p></th>
 <th><p>팀</p></th>
 <th><p>연맹</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FIFA_랭킹" title="wikilink">FIFA 랭킹</a></p></th>
+<th><p><a href="../Page/FIFA_랭킹.md" title="wikilink">FIFA 랭킹</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -46,7 +46,7 @@
 
 |}
 
-  - *모든 시간은 [일본의](https://ko.wikipedia.org/wiki/일본_표준시 "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
+  - *모든 시간은 [일본의](../Page/일본_표준시.md "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
 
 ## 일본 vs 벨기에
 
@@ -129,7 +129,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/필리프_트루시에" title="wikilink">필리프 트루시에</a></p></td>
+<td><p><a href="../Page/필리프_트루시에.md" title="wikilink">필리프 트루시에</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -211,7 +211,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/이나모토_준이치" title="wikilink">이나모토 준이치</a> (일본)</p>
+<a href="../Page/이나모토_준이치.md" title="wikilink">이나모토 준이치</a> (일본)</p>
 <p><strong>부심:</strong><br />
 하이다르 콜레이트 (<a href="https://ko.wikipedia.org/wiki/레바논_축구_협회" title="wikilink">레바논</a>)<br />
 유리 두파노프 (<a href="https://ko.wikipedia.org/wiki/벨라루스_축구_협회" title="wikilink">벨라루스</a>)<br />
@@ -388,7 +388,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/유리_니키포로프" title="wikilink">유리 니키포로프</a> (러시아)</p>
+<a href="../Page/유리_니키포로프.md" title="wikilink">유리 니키포로프</a> (러시아)</p>
 <p><strong>부심:</strong><br />
 마이클 라구나트 (<a href="https://ko.wikipedia.org/wiki/트리니다드_토바고_축구_협회" title="wikilink">트리니다드 토바고</a>)<br />
 폴 스미스 (<a href="https://ko.wikipedia.org/wiki/뉴질랜드_축구_협회" title="wikilink">뉴질랜드</a>)<br />
@@ -479,7 +479,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/필리프_트루시에" title="wikilink">필리프 트루시에</a></p></td>
+<td><p><a href="../Page/필리프_트루시에.md" title="wikilink">필리프 트루시에</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -565,7 +565,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/이나모토_준이치" title="wikilink">이나모토 준이치</a> (일본)</p>
+<a href="../Page/이나모토_준이치.md" title="wikilink">이나모토 준이치</a> (일본)</p>
 <p><strong>부심:</strong><br />
 하이너 뮐러 (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)<br />
 에브젠 암러 (<a href="https://ko.wikipedia.org/wiki/체코_축구_협회" title="wikilink">체코</a>)<br />
@@ -906,7 +906,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/필리프_트루시에" title="wikilink">필리프 트루시에</a></p></td>
+<td><p><a href="../Page/필리프_트루시에.md" title="wikilink">필리프 트루시에</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1096,12 +1096,12 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/마르크_빌모츠" title="wikilink">마르크 빌모츠</a> (벨기에)</p>
+<a href="../Page/마르크_빌모츠.md" title="wikilink">마르크 빌모츠</a> (벨기에)</p>
 <p><strong>부심:</strong><br />
 필립 샤프 (<a href="https://ko.wikipedia.org/wiki/잉글랜드_축구_협회" title="wikilink">잉글랜드</a>)<br />
 코말레스와란 산카르 (<a href="https://ko.wikipedia.org/wiki/인도_축구_연맹" title="wikilink">인도</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/피에를루이지_콜리나" title="wikilink">피에를루이지 콜리나</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)</p></td>
+<a href="../Page/피에를루이지_콜리나.md" title="wikilink">피에를루이지 콜리나</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)</p></td>
 </tr>
 </tbody>
 </table>

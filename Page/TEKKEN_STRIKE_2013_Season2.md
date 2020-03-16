@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TEKKEN STRIKE 2013 Season2](https://ko.wikipedia.org/wiki/TEKKEN_STRIKE_2013_Season2).
 
 
-**TEKKEN STRIKE 2013 Season2**는 [격투 게임인](https://ko.wikipedia.org/wiki/격투_게임 "wikilink") [철권](https://ko.wikipedia.org/wiki/철권 "wikilink")을 종목으로하여 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 열렸던 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink") 대회였다.
+**TEKKEN STRIKE 2013 Season2**는 [격투 게임인](https://ko.wikipedia.org/wiki/격투_게임 "wikilink") [철권](../Page/철권.md "wikilink")을 종목으로하여 [대한민국](../Page/대한민국.md "wikilink")에서 열렸던 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink") 대회였다.
 
 ## 리그기간
 
-  - 방송 및 리그 진행 날짜 : [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 27일](https://ko.wikipedia.org/wiki/7월_27일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink")
+  - 방송 및 리그 진행 날짜 : [2013년](../Page/2013년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink")
 
 ## 버전
 
@@ -33,7 +33,7 @@
 
 ## 진행
 
-  - 경기 진행, 해설 : [김의중](https://ko.wikipedia.org/wiki/김의중 "wikilink"), [박현규](../Page/박현규.md "wikilink"), [박성준](https://ko.wikipedia.org/wiki/박성준_\(방송인\) "wikilink")
+  - 경기 진행, 해설 : [김의중](../Page/김의중.md "wikilink"), [박현규](../Page/박현규.md "wikilink"), [박성준](https://ko.wikipedia.org/wiki/박성준_\(방송인\) "wikilink")
   - 선수 인터뷰 진행 : [김진](https://ko.wikipedia.org/wiki/김진_\(방송인\) "wikilink"), [김한울](https://ko.wikipedia.org/wiki/김한울 "wikilink")
 
 ## 예선 통과자
@@ -233,7 +233,7 @@
 ## 같이 보기
 
   - [TEKKEN STRIKE](../Page/TEKKEN_STRIKE.md "wikilink")
-  - [나이스 게임 TV](https://ko.wikipedia.org/wiki/나이스_게임_TV "wikilink")
+  - [나이스 게임 TV](../Page/나이스_게임_TV.md "wikilink")
 
 ## 각주
 

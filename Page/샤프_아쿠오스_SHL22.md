@@ -1,20 +1,20 @@
 > This article is converted from Wikipedia: [  SHL22](https://ko.wikipedia.org/wiki/__SHL22).
 
 
-**아쿠오스 폰 SHL22**()는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") 하순, [샤프전자의](https://ko.wikipedia.org/wiki/샤프_\(기업\) "wikilink")[일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 국내용으로 출시되는 스마트폰이다.
+**아쿠오스 폰 SHL22**()는 [2013년](../Page/2013년.md "wikilink") [7월](../Page/7월.md "wikilink") 하순, [샤프전자의](../Page/샤프_\(기업\).md "wikilink")[일본](../Page/일본.md "wikilink") 국내용으로 출시되는 스마트폰이다.
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") : 제품 발표
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") : 제품 출시
+  - [2013년](../Page/2013년.md "wikilink") [6월](../Page/6월.md "wikilink") : 제품 발표
+  - [2013년](../Page/2013년.md "wikilink") [7월](../Page/7월.md "wikilink") : 제품 출시
 
 ## 경쟁 기종
 
   - [소니 엑스페리아 Z](../Page/소니_엑스페리아_Z.md "wikilink")
-  - [HTC J 버터플라이](https://ko.wikipedia.org/wiki/HTC_J_버터플라이 "wikilink")
+  - [HTC J 버터플라이](../Page/HTC_J_버터플라이.md "wikilink")
   - [삼성 갤럭시 S4](../Page/삼성_갤럭시_S4.md "wikilink")
   - [화웨이 어센드 P6](../Page/화웨이_어센드_P6.md "wikilink")
-  - [LG 옵티머스 G](https://ko.wikipedia.org/wiki/LG_옵티머스_G "wikilink")
+  - [LG 옵티머스 G](../Page/LG_옵티머스_G.md "wikilink")
 
 ### 관련 사이트
 

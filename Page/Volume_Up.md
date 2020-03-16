@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Volume Up](https://ko.wikipedia.org/wiki/Volume_Up).
 
 
-***Volume Up***는 대한민국의 음악 그룹 [포미닛](https://ko.wikipedia.org/wiki/포미닛 "wikilink")의 세 번째 미니 음반이다.
+***Volume Up***는 대한민국의 음악 그룹 [포미닛](../Page/포미닛.md "wikilink")의 세 번째 미니 음반이다.
 
 ## 수록곡
 

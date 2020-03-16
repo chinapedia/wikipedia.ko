@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [  E](https://ko.wikipedia.org/wiki/__E).
 
 
-**소니 엑스페리아 E**(Sony Xperia E)은 [소니 모바일 커뮤니케이션스에서](https://ko.wikipedia.org/wiki/소니_모바일_커뮤니케이션스 "wikilink") 출시한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**소니 엑스페리아 E**(Sony Xperia E)은 [소니 모바일 커뮤니케이션스에서](../Page/소니_모바일_커뮤니케이션스.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 ## 연혁
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") : **[베를린 국제가전박람회](../Page/베를린_국제가전박람회.md "wikilink") 2013** (IFA 2013)에서 공개
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") : 출시\[1\]
+  - [2013년](../Page/2013년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") : **[베를린 국제가전박람회](../Page/베를린_국제가전박람회.md "wikilink") 2013** (IFA 2013)에서 공개
+  - [2013년](../Page/2013년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") : 출시\[1\]
 
 ## 색상
 

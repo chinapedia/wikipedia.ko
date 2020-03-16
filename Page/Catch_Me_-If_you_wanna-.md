@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Catch Me -If you wanna-](https://ko.wikipedia.org/wiki/Catch_Me_-If_you_wanna-).
 
 
-〈**Catch Me -If you wanna-**〉(케치 미 이프 유 워너)는 일본에서 발매한 대한민국 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 36번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
+〈**Catch Me -If you wanna-**〉(케치 미 이프 유 워너)는 일본에서 발매한 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 36번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
 
 ## 개요
 
   - 〈[ANDROID](../Page/ANDROID_\(동방신기의_노래\).md "wikilink")〉이후 6개월 만에 발매한 싱글이다.
   - 정규 6집 〈[TIME](../Page/TIME_\(동방신기의_음반\).md "wikilink")〉의 선행 싱글이다.
-  - 제목으로 알 수 있다시피 동방신기의 국내 정규 6집 타이틀곡인 〈[Catch Me](https://ko.wikipedia.org/wiki/Catch_Me_\(동방신기의_음반\) "wikilink")〉의 일본어 버전이며 일본어 버전 한정으로 부제가 추가되었다.
+  - 제목으로 알 수 있다시피 동방신기의 국내 정규 6집 타이틀곡인 〈[Catch Me](../Page/Catch_Me_\(동방신기의_음반\).md "wikilink")〉의 일본어 버전이며 일본어 버전 한정으로 부제가 추가되었다.
 
 ## 수록곡
 

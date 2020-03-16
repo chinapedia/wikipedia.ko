@@ -1,24 +1,24 @@
 > This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
 
 
-**모토로라 모토 X** (Motorola Moto X) [모토로라 모빌리티에서](https://ko.wikipedia.org/wiki/모토로라_모빌리티 "wikilink") 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**모토로라 모토 X** (Motorola Moto X) [모토로라 모빌리티에서](../Page/모토로라_모빌리티.md "wikilink") 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 2013년 8월 1일에 공개되어, 2013년 8월 23일 출시되었다.\[1\]\[2\]
 
 ## 역사
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") : 제품 공개\[3\]\[4\]
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink") : 제품 출시
+  - [2013년](../Page/2013년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 제품 공개\[3\]\[4\]
+  - [2013년](../Page/2013년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") : 제품 출시
 
 ## 외형 및 판매 방식
 
-모토 X는 슬로건처럼 홈페이지에서 사용자가 앞면 색상, 뒷면 재질, 뒷면 색상, 버튼 및 카메라링의 색상, 기본 바탕화면, 내부메모리 저장용량등의 옵션을 선택하여 주문해서 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 조립하여 사용자에게 배송되는 방식이다.\[5\]\[6\]\[7\]
+모토 X는 슬로건처럼 홈페이지에서 사용자가 앞면 색상, 뒷면 재질, 뒷면 색상, 버튼 및 카메라링의 색상, 기본 바탕화면, 내부메모리 저장용량등의 옵션을 선택하여 주문해서 [미국](../Page/미국.md "wikilink")에서 조립하여 사용자에게 배송되는 방식이다.\[5\]\[6\]\[7\]
 
 이를통해 모토 X는 자신의 조합방식에따라 2000개 이상의 다른 디자인을 연출할 수 있다.\[8\]
 
 ### 에지 투 에지 (edge to edge)
 
-[모토로라 레이저 M에](https://ko.wikipedia.org/wiki/모토로라_레이저_M "wikilink") 처음 탑재되었던 기술을 적용하였다. 엣지투엣지는 모토로라가 레이저 M모델부터 적용한 기술이며 베젤을 없애는 기술, 즉 베젤리스 스마트폰을 만드는 기술이다. 이를통해 모토 X에는 베젤이 없다.
+[모토로라 레이저 M에](../Page/모토로라_레이저_M.md "wikilink") 처음 탑재되었던 기술을 적용하였다. 엣지투엣지는 모토로라가 레이저 M모델부터 적용한 기술이며 베젤을 없애는 기술, 즉 베젤리스 스마트폰을 만드는 기술이다. 이를통해 모토 X에는 베젤이 없다.
 
 ## 특수 기능
 
@@ -58,14 +58,14 @@
 
 모토 X는 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 혹은 [4G](https://ko.wikipedia.org/wiki/4G "wikilink") 네트워크 지원을 위해 다양한 변종모델을 가진다.
 
-| 모델 넘버  | FCC id    | 이동통신사 (Carriers)                                                                                                                                                                                                                                                                                                                                                                   | CDMA bands | GSM bands         | UMTS bands             | LTE bands  | 추가 정보                                                 |
-| ------ | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------- | ---------------------- | ---------- | ----------------------------------------------------- |
-| XT1053 | IHDT56PA2 | [T-모바일 US](https://ko.wikipedia.org/wiki/T-모바일 "wikilink")                                                                                                                                                                                                                                                                                                                         | N/A        | 850/900/1800/1900 | 850/900/1700/1900/2100 | 2/4/17     |                                                       |
-| XT1055 | IHDT56PB3 | [U.S. 셀룰러](https://ko.wikipedia.org/wiki/U.S._셀룰러 "wikilink")                                                                                                                                                                                                                                                                                                                      | 800/1900   | 850/900/1800/1900 | 850/900/1900/2100      | 4/5/12     |                                                       |
-| XT1056 | IHDT56PB2 | [스프린트 넥스텔](https://ko.wikipedia.org/wiki/스프린트_넥스텔 "wikilink")                                                                                                                                                                                                                                                                                                                      | 800/1900   | 850/900/1800/1900 | 850/1900/2100          | 25         | GSM/UMTS 통신은 펌웨어 설정에 의해 사용불가다. 또한, SIM카드는 잠겨있다.\[14\] |
-| XT1058 | IHDT56PA1 | [AT\&T 모빌리티](https://ko.wikipedia.org/wiki/AT&T_모빌리티 "wikilink"), [Rogers](https://ko.wikipedia.org/wiki/Rogers_Communications "wikilink"), [Vivo](https://ko.wikipedia.org/wiki/Vivo_\(telecommunications\) "wikilink"), [Claro (Puerto Rico)](https://ko.wikipedia.org/wiki/Claro_Puerto_Rico "wikilink"), [Movistar (Chile)](https://ko.wikipedia.org/wiki/Movistar "wikilink") | N/A        | 850/900/1800/1900 | 850/900/1900/2100      | 2/4/5/7/17 |                                                       |
-| XT1060 | IHDT56PB1 | [버라이즌 와이어리스](https://ko.wikipedia.org/wiki/버라이즌_와이어리스 "wikilink")                                                                                                                                                                                                                                                                                                                  | 850/1900   | 850/900/1800/1900 | 850/900/1900/2100      | 4/13       |                                                       |
-|        |           |                                                                                                                                                                                                                                                                                                                                                                                    |            |                   |                        |            |                                                       |
+| 모델 넘버  | FCC id    | 이동통신사 (Carriers)                                                                                                                                                                                                                                                                                                                                                | CDMA bands | GSM bands         | UMTS bands             | LTE bands  | 추가 정보                                                 |
+| ------ | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------- | ---------------------- | ---------- | ----------------------------------------------------- |
+| XT1053 | IHDT56PA2 | [T-모바일 US](../Page/T-모바일.md "wikilink")                                                                                                                                                                                                                                                                                                                         | N/A        | 850/900/1800/1900 | 850/900/1700/1900/2100 | 2/4/17     |                                                       |
+| XT1055 | IHDT56PB3 | [U.S. 셀룰러](../Page/U.S._셀룰러.md "wikilink")                                                                                                                                                                                                                                                                                                                      | 800/1900   | 850/900/1800/1900 | 850/900/1900/2100      | 4/5/12     |                                                       |
+| XT1056 | IHDT56PB2 | [스프린트 넥스텔](https://ko.wikipedia.org/wiki/스프린트_넥스텔 "wikilink")                                                                                                                                                                                                                                                                                                   | 800/1900   | 850/900/1800/1900 | 850/1900/2100          | 25         | GSM/UMTS 통신은 펌웨어 설정에 의해 사용불가다. 또한, SIM카드는 잠겨있다.\[14\] |
+| XT1058 | IHDT56PA1 | [AT\&T 모빌리티](../Page/AT&T_모빌리티.md "wikilink"), [Rogers](https://ko.wikipedia.org/wiki/Rogers_Communications "wikilink"), [Vivo](https://ko.wikipedia.org/wiki/Vivo_\(telecommunications\) "wikilink"), [Claro (Puerto Rico)](https://ko.wikipedia.org/wiki/Claro_Puerto_Rico "wikilink"), [Movistar (Chile)](https://ko.wikipedia.org/wiki/Movistar "wikilink") | N/A        | 850/900/1800/1900 | 850/900/1900/2100      | 2/4/5/7/17 |                                                       |
+| XT1060 | IHDT56PB1 | [버라이즌 와이어리스](../Page/버라이즌_와이어리스.md "wikilink")                                                                                                                                                                                                                                                                                                                  | 850/1900   | 850/900/1800/1900 | 850/900/1900/2100      | 4/13       |                                                       |
+|        |           |                                                                                                                                                                                                                                                                                                                                                                 |            |                   |                        |            |                                                       |
 
 ## 경쟁 기종
 
@@ -83,7 +83,7 @@
 
 ## 같이 보기
 
-  - [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")
+  - [구글](../Page/구글.md "wikilink")
 
 ## 각주
 

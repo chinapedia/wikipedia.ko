@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [FK AS ](https://ko.wikipedia.org/wiki/FK_AS_).
 
 
-**FK AS 트렌친**()은 [트렌친](https://ko.wikipedia.org/wiki/트렌친 "wikilink")을 연고로 하는 [슬로바키아](https://ko.wikipedia.org/wiki/슬로바키아 "wikilink")의 축구 클럽이다. 현재는 [슬로바키아 수페르리가에](https://ko.wikipedia.org/wiki/슬로바키아_수페르리가 "wikilink") 참가하고 있다.
+**FK AS 트렌친**()은 [트렌친](../Page/트렌친.md "wikilink")을 연고로 하는 [슬로바키아](../Page/슬로바키아.md "wikilink")의 축구 클럽이다. 현재는 [슬로바키아 수페르리가에](../Page/슬로바키아_수페르리가.md "wikilink") 참가하고 있다.
 
 ## 성적
 
-  - [슬로바키아 수페르리가](https://ko.wikipedia.org/wiki/슬로바키아_수페르리가 "wikilink"): 3위 1회 (2013)
+  - [슬로바키아 수페르리가](../Page/슬로바키아_수페르리가.md "wikilink"): 3위 1회 (2013)
   - [2. 리가](https://ko.wikipedia.org/wiki/2._리가 "wikilink"): 우승 1회 (2011), 준우승 3회 (1997, 2009, 2010)
 
 ## 유명 선수
 
-  - [마르틴 슈크르텔](https://ko.wikipedia.org/wiki/마르틴_슈크르텔 "wikilink")
+  - [마르틴 슈크르텔](../Page/마르틴_슈크르텔.md "wikilink")
 
-  - [필리프 홀로슈코](https://ko.wikipedia.org/wiki/필리프_홀로슈코 "wikilink")
+  - [필리프 홀로슈코](../Page/필리프_홀로슈코.md "wikilink")
 
 ## 외부 링크
 

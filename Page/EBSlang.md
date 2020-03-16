@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EBSlang](https://ko.wikipedia.org/wiki/EBSlang).
 
 
-**EBSlang**은 [한국교육방송공사](https://ko.wikipedia.org/wiki/한국교육방송공사 "wikilink")가 운영하는 외국어 교육 전문 사이트이다.
+**EBSlang**은 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")가 운영하는 외국어 교육 전문 사이트이다.
 
 ## 운영 목적
 

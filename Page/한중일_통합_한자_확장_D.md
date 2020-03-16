@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [    D](https://ko.wikipedia.org/wiki/____D).
 
 
-**한중일 통합 한자 확장 D**는 [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink")의 [한중일 통합 한자](https://ko.wikipedia.org/wiki/한중일_통합_한자 "wikilink") 일부를 포함하는 [유니코드 블록이다](https://ko.wikipedia.org/wiki/유니코드_블록 "wikilink").
+**한중일 통합 한자 확장 D**는 [유니코드](../Page/유니코드.md "wikilink")의 [한중일 통합 한자](../Page/한중일_통합_한자.md "wikilink") 일부를 포함하는 [유니코드 블록이다](https://ko.wikipedia.org/wiki/유니코드_블록 "wikilink").
 
 ## 문자표
 

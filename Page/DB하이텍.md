@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DB](https://ko.wikipedia.org/wiki/DB).
 
 
-**DB하이텍**은 [DB그룹](https://ko.wikipedia.org/wiki/DB그룹 "wikilink")에 속한 기업으로 [반도체 파운드리](https://ko.wikipedia.org/wiki/파운드리 "wikilink") 사업을 주력으로 영위하는 회사이다. 파운드리란 생산 시설을 갖추고, 고객사가 설계한 반도체를 위탁 생산하여 공급하는 것을 의미한다. '수탁 반도체 제조 사업'이라고도 한다.
+**DB하이텍**은 [DB그룹](../Page/DB그룹.md "wikilink")에 속한 기업으로 [반도체 파운드리](https://ko.wikipedia.org/wiki/파운드리 "wikilink") 사업을 주력으로 영위하는 회사이다. 파운드리란 생산 시설을 갖추고, 고객사가 설계한 반도체를 위탁 생산하여 공급하는 것을 의미한다. '수탁 반도체 제조 사업'이라고도 한다.
 
 ## 실적 및 매각
 

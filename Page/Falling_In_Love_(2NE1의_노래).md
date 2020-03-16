@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Falling In Love \(2NE1 \)](https://ko.wikipedia.org/wiki/Falling_In_Love_\(2NE1_\)).
 
 
-"**Falling In Love**"는 대한민국의 여성 음악그룹 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 노래이다. 2013년 7월 8일 [KT 뮤직을](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 통해 발매되었다. "Falling In Love"는 [가온 디지털 종합 차트](https://ko.wikipedia.org/wiki/가온_디지털_종합_차트 "wikilink") 7월 3추자에서 1위를 했고, [빌보드 K-Pop 핫 100에서는](https://ko.wikipedia.org/wiki/빌보드_K-Pop_핫_100 "wikilink") 2위를 했다.
+"**Falling In Love**"는 대한민국의 여성 음악그룹 [2NE1](../Page/2NE1.md "wikilink")의 노래이다. 2013년 7월 8일 [KT 뮤직을](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 통해 발매되었다. "Falling In Love"는 [가온 디지털 종합 차트](https://ko.wikipedia.org/wiki/가온_디지털_종합_차트 "wikilink") 7월 3추자에서 1위를 했고, [빌보드 K-Pop 핫 100에서는](https://ko.wikipedia.org/wiki/빌보드_K-Pop_핫_100 "wikilink") 2위를 했다.
 
 ## 뮤직비디오
 

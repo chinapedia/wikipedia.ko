@@ -9,11 +9,11 @@
 | "[Goodbye My Lover](https://ko.wikipedia.org/wiki/Goodbye_My_Lover "wikilink")" |
 | "[No Bravery](https://ko.wikipedia.org/wiki/No_Bravery "wikilink")"             |
 
-《**Back to Bedlam**》은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 싱어송라이터 [제임스 블런트의](https://ko.wikipedia.org/wiki/제임스_블런트 "wikilink") 데뷔 음반이다. 전세계적으로 1100만장의 판매고를 올렸으며\[1\], [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에만 236만장의 판매고를 올리며 [기네스북](https://ko.wikipedia.org/wiki/기네스북 "wikilink")에 '영국에서 가장 빨리 팔린 데뷔 음반'으로 등재되었으며, [2000년대 영국에서 가장 많이 팔린 음반](https://ko.wikipedia.org/wiki/:en:List_of_best-selling_albums_of_the_2000s_\(UK\) "wikilink") 중 하나이다.\[2\]
+《**Back to Bedlam**》은 [영국](../Page/영국.md "wikilink")의 싱어송라이터 [제임스 블런트의](../Page/제임스_블런트.md "wikilink") 데뷔 음반이다. 전세계적으로 1100만장의 판매고를 올렸으며\[1\], [2005년](../Page/2005년.md "wikilink")에만 236만장의 판매고를 올리며 [기네스북](https://ko.wikipedia.org/wiki/기네스북 "wikilink")에 '영국에서 가장 빨리 팔린 데뷔 음반'으로 등재되었으며, [2000년대 영국에서 가장 많이 팔린 음반](https://ko.wikipedia.org/wiki/:en:List_of_best-selling_albums_of_the_2000s_\(UK\) "wikilink") 중 하나이다.\[2\]
 
 ## 수록곡
 
-1.  "[High](https://ko.wikipedia.org/wiki/High "wikilink")" ([제임스 블런트](https://ko.wikipedia.org/wiki/제임스_블런트 "wikilink"), 리키 로스) 4:03
+1.  "[High](https://ko.wikipedia.org/wiki/High "wikilink")" ([제임스 블런트](../Page/제임스_블런트.md "wikilink"), 리키 로스) 4:03
 2.  "[You're Beautiful](https://ko.wikipedia.org/wiki/You're_Beautiful "wikilink")" (제임스 블런트, 세이처 스카벡, 아만다 고스트) 3:33
 3.  "[Wisemen](https://ko.wikipedia.org/wiki/Wisemen "wikilink")" (제임스 블런트, 세이처 스카벡, 지미 호가스) 3:42
 4.  "[Goodbye My Lover](https://ko.wikipedia.org/wiki/Goodbye_My_Lover "wikilink")" (제임스 블런트, 세이처 스카벡) 4:20
@@ -64,7 +64,7 @@
 
 <!-- end list -->
 
-  - [제임스 블런트](https://ko.wikipedia.org/wiki/제임스_블런트 "wikilink") – 리드 보컬 (전체), 기타 (1, 5, 6, 9), 오르간 (3, 4, 6, 9), 피아노 (1, 4, 5, 10), 전자 피아노 (5, 6, 7), 어쿠스틱 기타 (2, 7), Rhodes 피아노 (3, 4), 키보드 및 마림바 (1); 클래식 기타 (3), 12줄 기타 (4), 오르간 (5), 백 보컬 (6) 그랜드 피아노 (8), 멜로트론 (9)
+  - [제임스 블런트](../Page/제임스_블런트.md "wikilink") – 리드 보컬 (전체), 기타 (1, 5, 6, 9), 오르간 (3, 4, 6, 9), 피아노 (1, 4, 5, 10), 전자 피아노 (5, 6, 7), 어쿠스틱 기타 (2, 7), Rhodes 피아노 (3, 4), 키보드 및 마림바 (1); 클래식 기타 (3), 12줄 기타 (4), 오르간 (5), 백 보컬 (6) 그랜드 피아노 (8), 멜로트론 (9)
   - 사샤 크리스토브 – 베이스 기타 (전체; 4, 7, 10 제외), 백 보컬 (6)
   - Charlie Paxon – 드럼 (전체; 10 제외), 백 보컬 (6)
   - John Nau – 해먼드 오르간 (3, 5, 6, 7, 8), Wurlitzer 전자 피아노 (1, 3, 8, 9), 피아노 (2), 기타 sustain (4), 백 보컬 (6), 택 피아노 (8)

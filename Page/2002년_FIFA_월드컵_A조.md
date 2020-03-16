@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [2002 FIFA  A](https://ko.wikipedia.org/wiki/2002_FIFA__A).
 
 
-[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") A조**는 [1998년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 우승국 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 2회 우승국 [우루과이](https://ko.wikipedia.org/wiki/우루과이_축구_국가대표팀 "wikilink"), [덴마크](https://ko.wikipedia.org/wiki/덴마크_축구_국가대표팀 "wikilink"), 그리고 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 처녀 출전국 [세네갈이](https://ko.wikipedia.org/wiki/세네갈_축구_국가대표팀 "wikilink") 편성되었다. A조의 첫 경기는 2002년 5월 31일에 치러졌고, 최종전은 2002년 6월 11일에 거행되었다.
+[2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") A조**는 [1998년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 우승국 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 2회 우승국 [우루과이](../Page/우루과이_축구_국가대표팀.md "wikilink"), [덴마크](../Page/덴마크_축구_국가대표팀.md "wikilink"), 그리고 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 처녀 출전국 [세네갈이](../Page/세네갈_축구_국가대표팀.md "wikilink") 편성되었다. A조의 첫 경기는 2002년 5월 31일에 치러졌고, 최종전은 2002년 6월 11일에 거행되었다.
 
 ## 요약
 
-A조는 시작부터 뜻밖의 결과들이 속출하였는데, 세네갈은 대회 개막전부터 프랑스를 1-0으로 쓰러뜨렸다. 프랑스는 이어지는 우루과이와의 경기에서 주축 스트라이커 [티에리 앙리가](https://ko.wikipedia.org/wiki/티에리_앙리 "wikilink") 퇴장당한 후 비겼고, 덴마크와의 최종전에서 또다시 패하여 탈락하였다. 세네갈은 남은 두번의 조별 리그 경기에서 2무를 추가하였는데, 덴마크전에서 선방하여 1점을 추가하였고, 12명이 경고를 받은 우루과이와의 격렬한 경기에서도 비겼다.
+A조는 시작부터 뜻밖의 결과들이 속출하였는데, 세네갈은 대회 개막전부터 프랑스를 1-0으로 쓰러뜨렸다. 프랑스는 이어지는 우루과이와의 경기에서 주축 스트라이커 [티에리 앙리가](../Page/티에리_앙리.md "wikilink") 퇴장당한 후 비겼고, 덴마크와의 최종전에서 또다시 패하여 탈락하였다. 세네갈은 남은 두번의 조별 리그 경기에서 2무를 추가하였는데, 덴마크전에서 선방하여 1점을 추가하였고, 12명이 경고를 받은 우루과이와의 격렬한 경기에서도 비겼다.
 
-덴마크는 [울산에서](https://ko.wikipedia.org/wiki/울산문수축구경기장 "wikilink") 열린 우루과이전에서 첫 승리를 거두며 안정적으로 시작하였으나, [대구월드컵경기장에서](https://ko.wikipedia.org/wiki/대구_스타디움 "wikilink") 열린 세네갈과의 2차전에서 동점골을 허용해 2경기만에 16강 진출을 확정짓지 못하였다. 그 대신, 이들은 프랑스와의 최종전에서 비기기만 해도 다음 라운드 진출이 가능했다. 덴마크는 이 경기에서 2-0 완승을 거두었고, 세네갈과 우루과이가 비김에 따라 조 1위를 차지했다.
+덴마크는 [울산에서](../Page/울산문수축구경기장.md "wikilink") 열린 우루과이전에서 첫 승리를 거두며 안정적으로 시작하였으나, [대구월드컵경기장에서](https://ko.wikipedia.org/wiki/대구_스타디움 "wikilink") 열린 세네갈과의 2차전에서 동점골을 허용해 2경기만에 16강 진출을 확정짓지 못하였다. 그 대신, 이들은 프랑스와의 최종전에서 비기기만 해도 다음 라운드 진출이 가능했다. 덴마크는 이 경기에서 2-0 완승을 거두었고, 세네갈과 우루과이가 비김에 따라 조 1위를 차지했다.
 
 A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득점 없이 비기는 것 외에는 별다른 성과를 거두지 못했다. 그러나, 이들은 세네갈과의 다득점 무승부 경기에서 3골을 집어넣는데 성공했으나, 1차전에서 덴마크에 패한 것으로 발목이 잡혔고, 이는 16강 진출에 대한 희망의 불씨를 꺼뜨렸다.
 
@@ -15,7 +15,7 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 
 |}
 
-  - *모든 시간은 [대한민국의](https://ko.wikipedia.org/wiki/한국_표준시 "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
+  - *모든 시간은 [대한민국의](../Page/한국_표준시.md "wikilink") 동아시아 표준시를 따른다.* ([EAT/UTC+9](https://ko.wikipedia.org/wiki/UTC+9 "wikilink"))
 
 ## 프랑스 vs 세네갈
 
@@ -94,7 +94,7 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/로제_르메르" title="wikilink">로제 르메르</a></p></td>
+<td><p><a href="../Page/로제_르메르.md" title="wikilink">로제 르메르</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -164,10 +164,10 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/엘_하지_디우프" title="wikilink">엘 하지 디우프</a> (세네갈)</p>
+<a href="../Page/엘_하지_디우프.md" title="wikilink">엘 하지 디우프</a> (세네갈)</p>
 <p><strong>부심:</strong><br />
 알리 알-트라이피 (<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_연맹" title="wikilink">사우디아라비아</a>)<br />
-호르헤 라탈리노 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+호르헤 라탈리노 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/펠리페_라모스" title="wikilink">펠리페 라모스</a> (<a href="https://ko.wikipedia.org/wiki/멕시코_축구_협회" title="wikilink">멕시코</a>)</p></td>
 </tr>
@@ -328,7 +328,7 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/모르텐_올센" title="wikilink">모르텐 올센</a></p></td>
+<td><p><a href="../Page/모르텐_올센.md" title="wikilink">모르텐 올센</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -341,12 +341,12 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/욘_달_토마손" title="wikilink">욘 달 토마손</a> (덴마크)</p>
+<a href="../Page/욘_달_토마손.md" title="wikilink">욘 달 토마손</a> (덴마크)</p>
 <p><strong>부심:</strong><br />
 아우니 하사우네 (<a href="https://ko.wikipedia.org/wiki/요르단_축구_협회" title="wikilink">요르단</a>)<br />
 드라만 단테 (<a href="https://ko.wikipedia.org/wiki/말리_축구_협회" title="wikilink">말리</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/비론_모레노" title="wikilink">비론 모레노</a> (<a href="https://ko.wikipedia.org/wiki/에콰도르_축구_협회" title="wikilink">에콰도르</a>)</p></td>
+<a href="../Page/비론_모레노.md" title="wikilink">비론 모레노</a> (<a href="https://ko.wikipedia.org/wiki/에콰도르_축구_협회" title="wikilink">에콰도르</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -432,7 +432,7 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/모르텐_올센" title="wikilink">모르텐 올센</a></p></td>
+<td><p><a href="../Page/모르텐_올센.md" title="wikilink">모르텐 올센</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -518,12 +518,12 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/칼릴루_파디가" title="wikilink">칼릴루 파디가</a> (세네갈)</p>
+<a href="../Page/칼릴루_파디가.md" title="wikilink">칼릴루 파디가</a> (세네갈)</p>
 <p><strong>부심:</strong><br />
 셰켈리 페렌츠 (<a href="https://ko.wikipedia.org/wiki/헝가리_축구_협회" title="wikilink">헝가리</a>)<br />
 비스바 크리시난 (<a href="https://ko.wikipedia.org/wiki/싱가포르_축구_협회" title="wikilink">싱가포르</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/김영주_(축구인)" title="wikilink">김영주</a> (<a href="https://ko.wikipedia.org/wiki/대한축구협회" title="wikilink">대한민국</a>)</p></td>
+<a href="../Page/김영주_(축구인).md" title="wikilink">김영주</a> (<a href="../Page/대한축구협회.md" title="wikilink">대한민국</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -609,7 +609,7 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로제_르메르" title="wikilink">로제 르메르</a></p></td>
+<td><p><a href="../Page/로제_르메르.md" title="wikilink">로제 르메르</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -695,7 +695,7 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/파비앵_바르테즈" title="wikilink">파비앵 바르테즈</a> (프랑스)</p>
+<a href="../Page/파비앵_바르테즈.md" title="wikilink">파비앵 바르테즈</a> (프랑스)</p>
 <p><strong>부심:</strong><br />
 블라디미르 페르난데스 (<a href="https://ko.wikipedia.org/wiki/엘살바도르_축구_협회" title="wikilink">엘살바도르</a>)<br />
 커티스 찰스 (<a href="https://ko.wikipedia.org/wiki/앤티가_바부다_축구_협회" title="wikilink">앤티가 바부다</a>)<br />
@@ -786,7 +786,7 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/모르텐_올센" title="wikilink">모르텐 올센</a></p></td>
+<td><p><a href="../Page/모르텐_올센.md" title="wikilink">모르텐 올센</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -859,7 +859,7 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로제_르메르" title="wikilink">로제 르메르</a></p></td>
+<td><p><a href="../Page/로제_르메르.md" title="wikilink">로제 르메르</a></p></td>
 <td></td>
 </tr>
 </tbody>

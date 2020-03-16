@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ RPG](https://ko.wikipedia.org/wiki/_RPG).
 
 
-《**스틱 RPG**》(Stick RPG)는 [플래시 게임으로](https://ko.wikipedia.org/wiki/플래시_게임 "wikilink") [X겐 스튜디오스가](https://ko.wikipedia.org/wiki/Xgen_Studios "wikilink") 제작한 [RPG](https://ko.wikipedia.org/wiki/RPG "wikilink")형식의 게임이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 **졸라맨 키우기**나 **파란색 졸라맨 키우기**로 알려졌다.
+《**스틱 RPG**》(Stick RPG)는 [플래시 게임으로](https://ko.wikipedia.org/wiki/플래시_게임 "wikilink") [X겐 스튜디오스가](https://ko.wikipedia.org/wiki/Xgen_Studios "wikilink") 제작한 [RPG](https://ko.wikipedia.org/wiki/RPG "wikilink")형식의 게임이다. [대한민국](../Page/대한민국.md "wikilink")에서는 **졸라맨 키우기**나 **파란색 졸라맨 키우기**로 알려졌다.
 
 ## 개요
 
@@ -55,7 +55,7 @@
 
   - 맨션 : 주인공이 사는 집이다. 입구에 노란색 차가 있다.
   - 궁전 : 호화롭고 큰 궁전. 은행(부동산)에서 500000달러를 사면 그 궁전이 주인공의 집이 된다.
-  - 맥스틱스: [맥도날드](https://ko.wikipedia.org/wiki/맥도날드 "wikilink")를 패러디한 패스트푸드로 음료수,후렌치 후라이,햄버거등을 사고 먹을수 있다. 먹으면 체력이 증가된다.
+  - 맥스틱스: [맥도날드](../Page/맥도날드.md "wikilink")를 패러디한 패스트푸드로 음료수,후렌치 후라이,햄버거등을 사고 먹을수 있다. 먹으면 체력이 증가된다.
   - 편의점: 과자나 담배, 카페인을 살 수 있는 편의점.
   - 은행 : 돈을 저금하거나 받을수 있으며, 대출도 가능하다. 또한 그곳으로 집을 살 수도 있다. 총으로 이용해서 일정확률로 강도행위를 할 수도 있다.
   - 뉴 라인 회사: 주인공이 근무 할 수있는 회사. 안내원에게 지성수치마다 승진이 될 수있다. 연금을 위한 은퇴 이후 더이상 일을 안 해도 되는 경우도 있다.
@@ -66,7 +66,7 @@
       - 지성 180이상: 부장 (시급 50달러)
       - 지성 250이상: 대표 이사 ([CEO](https://ko.wikipedia.org/wiki/CEO "wikilink")) (시급 100달러)
   - 술집: 맥주를 마시거나,맥주병을 사거나,싸움을 하거나, 다트를 할 수 있다.
-  - 도박장: [룰렛](https://ko.wikipedia.org/wiki/룰렛 "wikilink")이나 [블랙잭](https://ko.wikipedia.org/wiki/블랙잭 "wikilink"), [슬롯머신](https://ko.wikipedia.org/wiki/슬롯머신 "wikilink")을 돈을 걸면서 할 수 있다.
+  - 도박장: [룰렛](https://ko.wikipedia.org/wiki/룰렛 "wikilink")이나 [블랙잭](../Page/블랙잭.md "wikilink"), [슬롯머신](https://ko.wikipedia.org/wiki/슬롯머신 "wikilink")을 돈을 걸면서 할 수 있다.
   - 버스정류장: 6개의 도시로 이동할 수 있다. 도시를 이동하면 마약을 거래할 수도 있다.
   - 할인매장: 가전제품이나 침대를 살 수 있다.
   - 폰 샵: 알람시계,총,칼,휴대폰을 살 수 있다.

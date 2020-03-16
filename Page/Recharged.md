@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Recharged](https://ko.wikipedia.org/wiki/Recharged).
 
 
-***Recharged***는 [린킨 파크의](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink") 두 번째 [리믹스 음반이다](https://ko.wikipedia.org/wiki/리믹스_음반 "wikilink"). 2013년 10월 29일에 발매되었다. 이 중 "A Light That Never Comes"는 발매 전에 미리 공개되었다.
+***Recharged***는 [린킨 파크의](../Page/린킨_파크.md "wikilink") 두 번째 [리믹스 음반이다](https://ko.wikipedia.org/wiki/리믹스_음반 "wikilink"). 2013년 10월 29일에 발매되었다. 이 중 "A Light That Never Comes"는 발매 전에 미리 공개되었다.
 
 ## 수록곡
 

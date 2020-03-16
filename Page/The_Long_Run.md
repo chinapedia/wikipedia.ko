@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [The Long Run](https://ko.wikipedia.org/wiki/The_Long_Run).
 
 
-《**The Long Run**》은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 록 밴드 [이글스](https://ko.wikipedia.org/wiki/이글스 "wikilink")의 여섯 번째 스튜디오 음반이다. 1979년 미국과 영국에서 [어사일럼 레코드로](https://ko.wikipedia.org/wiki/어사일럼_레코드 "wikilink") 발매되었다. 이 음반은 창립 멤버 [랜디 마이즈너를](https://ko.wikipedia.org/wiki/랜디_마이즈너 "wikilink") 대체한 [티머시 B. 슈밋과](https://ko.wikipedia.org/wiki/티머시_B._슈밋 "wikilink") 2001년 밴드에서 탈퇴하기 전에 [돈 펠더를](https://ko.wikipedia.org/wiki/돈_펠더 "wikilink") 참여시킨 마지막 스튜디오 음반이 수록된 첫 번째 이글스 음반이다.
+《**The Long Run**》은 [미국](../Page/미국.md "wikilink")의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 여섯 번째 스튜디오 음반이다. 1979년 미국과 영국에서 [어사일럼 레코드로](https://ko.wikipedia.org/wiki/어사일럼_레코드 "wikilink") 발매되었다. 이 음반은 창립 멤버 [랜디 마이즈너를](https://ko.wikipedia.org/wiki/랜디_마이즈너 "wikilink") 대체한 [티머시 B. 슈밋과](https://ko.wikipedia.org/wiki/티머시_B._슈밋 "wikilink") 2001년 밴드에서 탈퇴하기 전에 [돈 펠더를](https://ko.wikipedia.org/wiki/돈_펠더 "wikilink") 참여시킨 마지막 스튜디오 음반이 수록된 첫 번째 이글스 음반이다.
 
 이것은 이 밴드의 [어사일럼 레코드의](https://ko.wikipedia.org/wiki/어사일럼_레코드 "wikilink") 마지막 스튜디오 음반이었으며, 2007년 《[Long Road Out of Eden](../Page/Long_Road_Out_of_Eden.md "wikilink")》까지 그들의 마지막 스튜디오 음반으로 판명될 것이다.
 
-〈[Heartache Tonight](../Page/Heartache_Tonight.md "wikilink")〉, 〈[The Long Run](../Page/The_Long_Run_\(노래\).md "wikilink")〉, 그리고 〈[I Can't Tell You Why](https://ko.wikipedia.org/wiki/I_Can't_Tell_You_Why "wikilink")〉라는 음반에서 세 개의 싱글이 발매되었다. 〈Heartache Tonight〉은 싱글 차트 1위에 올라 그래미상을 수상했다. 이 음반은 [미국 음반 산업 협회에](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink") 의해 7x 플래티넘 인증을 받았으며 미국에서 8백만 장 이상이 팔렸다.
+〈[Heartache Tonight](../Page/Heartache_Tonight.md "wikilink")〉, 〈[The Long Run](../Page/The_Long_Run_\(노래\).md "wikilink")〉, 그리고 〈[I Can't Tell You Why](https://ko.wikipedia.org/wiki/I_Can't_Tell_You_Why "wikilink")〉라는 음반에서 세 개의 싱글이 발매되었다. 〈Heartache Tonight〉은 싱글 차트 1위에 올라 그래미상을 수상했다. 이 음반은 [미국 음반 산업 협회에](../Page/미국_음반_산업_협회.md "wikilink") 의해 7x 플래티넘 인증을 받았으며 미국에서 8백만 장 이상이 팔렸다.
 
 ## 곡 목록
 

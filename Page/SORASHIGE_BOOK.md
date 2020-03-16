@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SORASHIGE BOOK](https://ko.wikipedia.org/wiki/SORASHIGE_BOOK).
 
 
-《**SORASHIGE BOOK**》(소라시게 북)은, [FM 요코하마에서](https://ko.wikipedia.org/wiki/요코하마_FM_방송 "wikilink") [일요일](https://ko.wikipedia.org/wiki/일요일 "wikilink") 23:00 \~ 23:30에 방송되고 있는 라디오 프로그램이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") 방송 개시. DJ는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 [카토 시게아키이다](https://ko.wikipedia.org/wiki/카토_시게아키 "wikilink").
+《**SORASHIGE BOOK**》(소라시게 북)은, [FM 요코하마에서](../Page/요코하마_FM_방송.md "wikilink") [일요일](../Page/일요일.md "wikilink") 23:00 \~ 23:30에 방송되고 있는 라디오 프로그램이다. [2011년](../Page/2011년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") 방송 개시. DJ는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 [카토 시게아키이다](../Page/카토_시게아키.md "wikilink").
 
 ## 개요
 

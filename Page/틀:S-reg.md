@@ -18,9 +18,9 @@
 `|ie=`[`Peerage``   ``of``   ``Ireland`](https://ko.wikipedia.org/wiki/:en:Peerage_of_Ireland "wikilink")
 `|im=Head of State of the `[`Isle``   ``of``   ``Man`](https://ko.wikipedia.org/wiki/:en:Isle_of_Man "wikilink")
 `|it=`[`이탈리아``   ``귀족``   ``작위`](https://ko.wikipedia.org/wiki/:en:Italian_nobility "wikilink")
-`|jp=`[`일본``   ``왕실``   ``작위`](https://ko.wikipedia.org/wiki/일본_황실 "wikilink")
+`|jp=`[`일본``   ``왕실``   ``작위`](../Page/일본_황실.md "wikilink")
 `|leg=Legendary titles`
-`|nv=`[`나바라``   ``왕실``   ``작위`](https://ko.wikipedia.org/wiki/나바라_왕국 "wikilink")
+`|nv=`[`나바라``   ``왕실``   ``작위`](../Page/나바라_왕국.md "wikilink")
 `|nl=`[`Dutch``   ``nobility`](https://ko.wikipedia.org/wiki/:en:List_of_Dutch_noble_families "wikilink")
 `|pt=`[`Portuguese``   ``nobility`](https://ko.wikipedia.org/wiki/:en:Portuguese_nobility "wikilink")
 `|sct=`[`Peerage``   ``of``   ``Scotland`](https://ko.wikipedia.org/wiki/:en:Peerage_of_Scotland "wikilink")

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [TIME \( \)](https://ko.wikipedia.org/wiki/TIME_\(_\)).
 
 
-| 이 앨범에 수록된 싱글                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------- |
-| [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink")   |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink")   |
-| [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink")   |
-|                                                                                                                     |
+| 이 앨범에 수록된 싱글                                                                  |
+| ----------------------------------------------------------------------------- |
+| [2011년](../Page/2011년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") |
+| [2012년](../Page/2012년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink")   |
+| [2012년](../Page/2012년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink")   |
+| [2013년](../Page/2013년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink")   |
+|                                                                               |
 
-《**TIME**》은 대한민국 음악 그룹 동방신기의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 6번째 정규 앨범이다.
+《**TIME**》은 대한민국 음악 그룹 동방신기의 [일본](../Page/일본.md "wikilink")에서 발매한 6번째 정규 앨범이다.
 
 앨범 컨셉은 앨범 제목에 걸맞게 과거 (CD+DVD반), 현재 (CD+DVD반), 미래 (CD반)로 분류되어 있으며 2011년 정규 5집 〈[TONE](../Page/TONE.md "wikilink")〉이후에 발매된 〈[Winter \~Winter Rose / Duet-winter ver.-\~](https://ko.wikipedia.org/wiki/Winter_~Winter_Rose_/_Duet-winter_ver.-~ "wikilink")〉 부터 〈[Catch Me -If you wanna-](../Page/Catch_Me_-If_you_wanna-.md "wikilink")〉에 싱글되어 있는 수록곡들과 7곡의 신곡으로 구성되어 있다.
 

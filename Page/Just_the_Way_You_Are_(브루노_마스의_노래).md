@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Just the Way You Are \(  \)](https://ko.wikipedia.org/wiki/Just_the_Way_You_Are_\(__\)).
 
 
-"**Just the Way You Are**"는 미국의 가수 [브루노 마스의](https://ko.wikipedia.org/wiki/브루노_마스 "wikilink") 데뷔 싱글로, *[Doo-Wops & Hooligans](../Page/Doo-Wops_&_Hooligans.md "wikilink")*의 리드 싱글이다.
+"**Just the Way You Are**"는 미국의 가수 [브루노 마스의](../Page/브루노_마스.md "wikilink") 데뷔 싱글로, *[Doo-Wops & Hooligans](../Page/Doo-Wops_&_Hooligans.md "wikilink")*의 리드 싱글이다.
 
 ## 트랙리스트
 

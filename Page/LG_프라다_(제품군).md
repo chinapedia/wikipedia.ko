@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG  \(\)](https://ko.wikipedia.org/wiki/LG__\(\)).
 
 
-**프라다**(PRADA)는 [프라다](https://ko.wikipedia.org/wiki/프라다 "wikilink")가 설계하고 [LG 전자가](https://ko.wikipedia.org/wiki/LG_전자 "wikilink") 제조하고 출시하는 [휴대전화](https://ko.wikipedia.org/wiki/휴대전화 "wikilink") 시리즈이다.
+**프라다**(PRADA)는 [프라다](../Page/프라다.md "wikilink")가 설계하고 [LG 전자가](https://ko.wikipedia.org/wiki/LG_전자 "wikilink") 제조하고 출시하는 [휴대전화](https://ko.wikipedia.org/wiki/휴대전화 "wikilink") 시리즈이다.
 
 ## 특징
 
@@ -13,14 +13,14 @@
 
 ### [피처폰](https://ko.wikipedia.org/wiki/피처폰 "wikilink")
 
-  - [LG 프라다](https://ko.wikipedia.org/wiki/LG_프라다 "wikilink")
-  - [LG 프라다 II](https://ko.wikipedia.org/wiki/LG_프라다_II "wikilink")
-  - [싸이언 프라다](https://ko.wikipedia.org/wiki/싸이언_프라다 "wikilink")
-  - [싸이언 프라다 II](https://ko.wikipedia.org/wiki/싸이언_프라다_II "wikilink")
+  - [LG 프라다](../Page/LG_프라다.md "wikilink")
+  - [LG 프라다 II](../Page/LG_프라다_II.md "wikilink")
+  - [싸이언 프라다](../Page/싸이언_프라다.md "wikilink")
+  - [싸이언 프라다 II](../Page/싸이언_프라다_II.md "wikilink")
 
-### 안드로이드 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")
+### 안드로이드 [스마트폰](../Page/스마트폰.md "wikilink")
 
-  - [LG 프라다 3.0](https://ko.wikipedia.org/wiki/LG_프라다_3.0 "wikilink")
+  - [LG 프라다 3.0](../Page/LG_프라다_3.0.md "wikilink")
   - [싸이언 프라다 3.0](https://ko.wikipedia.org/wiki/싸이언_프라다_3.0 "wikilink")
 
 ## 외부 링크

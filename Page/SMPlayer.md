@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SMPlayer](https://ko.wikipedia.org/wiki/SMPlayer).
 
 
-**SMPlayer**는 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") 자유 오픈 소스 [미디어 재생기로](https://ko.wikipedia.org/wiki/미디어_재생기 "wikilink") [MPlayer](https://ko.wikipedia.org/wiki/MPlayer "wikilink")의 프런트엔드이다.\[1\] [GNU 일반 공중 사용 허가서에](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 따라 배포되는 SMPlayer는 [자유 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink").
+**SMPlayer**는 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") 자유 오픈 소스 [미디어 재생기로](https://ko.wikipedia.org/wiki/미디어_재생기 "wikilink") [MPlayer](https://ko.wikipedia.org/wiki/MPlayer "wikilink")의 프런트엔드이다.\[1\] [GNU 일반 공중 사용 허가서에](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 따라 배포되는 SMPlayer는 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
 
 ## 기능
 

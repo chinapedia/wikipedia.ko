@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [KCOMZ](https://ko.wikipedia.org/wiki/KCOMZ).
 
 
-****, 제8006부대는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 후방기지사령부, 후방관구사령부, 한국병참지대사령부, 한국병참관구 등으로 다양하게 부르던 [한국 전쟁](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 중에 설립된 [미국 육군의](https://ko.wikipedia.org/wiki/미국_육군 "wikilink") [한반도](https://ko.wikipedia.org/wiki/한반도 "wikilink") 전구 지원[사령부](https://ko.wikipedia.org/wiki/사령부 "wikilink")였다. 한반도에 배치된 [주한 미군](https://ko.wikipedia.org/wiki/주한_미군 "wikilink"), [유엔군](../Page/유엔사령부.md "wikilink"), [대한민국 국군에](https://ko.wikipedia.org/wiki/대한민국_국군 "wikilink") 대한 모든 군수지원을 도맡았으며, [거제도 포로수용소에](https://ko.wikipedia.org/wiki/거제도_포로수용소 "wikilink") 수용된 [전쟁 포로](https://ko.wikipedia.org/wiki/전쟁_포로 "wikilink") 또한 감독하였다.
+****, 제8006부대는 [대한민국](../Page/대한민국.md "wikilink")에서 후방기지사령부, 후방관구사령부, 한국병참지대사령부, 한국병참관구 등으로 다양하게 부르던 [한국 전쟁](../Page/한국_전쟁.md "wikilink") 중에 설립된 [미국 육군의](../Page/미국_육군.md "wikilink") [한반도](../Page/한반도.md "wikilink") 전구 지원[사령부](https://ko.wikipedia.org/wiki/사령부 "wikilink")였다. 한반도에 배치된 [주한 미군](../Page/주한_미군.md "wikilink"), [유엔군](../Page/유엔사령부.md "wikilink"), [대한민국 국군에](../Page/대한민국_국군.md "wikilink") 대한 모든 군수지원을 도맡았으며, [거제도 포로수용소에](../Page/거제도_포로수용소.md "wikilink") 수용된 [전쟁 포로](https://ko.wikipedia.org/wiki/전쟁_포로 "wikilink") 또한 감독하였다.
 
 ## 역사
 
-1952년, 미국 육군부는 [제2군수사령부](https://ko.wikipedia.org/wiki/제2군수사령부 "wikilink")와 [제3군수사령부의](https://ko.wikipedia.org/wiki/제3원정지원사령부 "wikilink") 임무와 기능을 병합하여 한반도 안의 하나로 통합된 전구지원사령부를 설립할 계획을 구상하였다. [토머스 W. 헤렌을](https://ko.wikipedia.org/wiki/토머스_W._헤렌 "wikilink") 사령관으로 임명하고, 7월 11일에 [대구시에](https://ko.wikipedia.org/wiki/대구광역시 "wikilink") KCOMZ를 창설하였고, 7월 21일부터 정상 운영을 시작하였다. 8월 1일에 제2군수사령부는 *한국기지구*()로 개명되고 [제8군](https://ko.wikipedia.org/wiki/제8군_\(미국\) "wikilink") 병참사령부에 예속되었다.
+1952년, 미국 육군부는 [제2군수사령부](../Page/제2군수사령부.md "wikilink")와 [제3군수사령부의](../Page/제3원정지원사령부.md "wikilink") 임무와 기능을 병합하여 한반도 안의 하나로 통합된 전구지원사령부를 설립할 계획을 구상하였다. [토머스 W. 헤렌을](https://ko.wikipedia.org/wiki/토머스_W._헤렌 "wikilink") 사령관으로 임명하고, 7월 11일에 [대구시에](../Page/대구광역시.md "wikilink") KCOMZ를 창설하였고, 7월 21일부터 정상 운영을 시작하였다. 8월 1일에 제2군수사령부는 *한국기지구*()로 개명되고 [제8군](../Page/제8군_\(미국\).md "wikilink") 병참사령부에 예속되었다.
 
-[제1기병사단의](https://ko.wikipedia.org/wiki/제1기병사단_\(미국\) "wikilink") 연대가 1953년 4월까지, 그 후로는 [제24보병사단의](https://ko.wikipedia.org/wiki/제24보병사단_미국\) "wikilink") 연대가 순환배속되었다.
+[제1기병사단의](../Page/제1기병사단_\(미국\).md "wikilink") 연대가 1953년 4월까지, 그 후로는 [제24보병사단의](https://ko.wikipedia.org/wiki/제24보병사단_미국\) "wikilink") 연대가 순환배속되었다.
 
 1953년 1월 16일에 [극동사령부에서](../Page/극동사령부_\(미국\).md "wikilink") [극동육군으로](../Page/미국_극동_육군.md "wikilink") 예속 전환되었다.
 
-이후, 1955년 7월에 *[제8군 지원사령부](https://ko.wikipedia.org/wiki/제8전구지원사령부 "wikilink")*, 1956년에 주한 미국 육군 지역사령부(), 1957년에 *[제7군수사령부](https://ko.wikipedia.org/wiki/제7지원사령부 "wikilink")*로 재편성되었다.
+이후, 1955년 7월에 *[제8군 지원사령부](../Page/제8전구지원사령부.md "wikilink")*, 1956년에 주한 미국 육군 지역사령부(), 1957년에 *[제7군수사령부](https://ko.wikipedia.org/wiki/제7지원사령부 "wikilink")*로 재편성되었다.
 
 ## 구조
 
@@ -19,7 +19,7 @@
 
   - [극동 사령부](../Page/극동사령부_\(미국\).md "wikilink"); 1952년 \~ 1953년
   - [미국 극동 육군](../Page/미국_극동_육군.md "wikilink"); 1953년 \~ 1956년
-  - [제8군](https://ko.wikipedia.org/wiki/제8군_\(미국\) "wikilink"); 1956년
+  - [제8군](../Page/제8군_\(미국\).md "wikilink"); 1956년
 
 ### 편성
 
@@ -27,16 +27,16 @@
 
       - 본부중대
 
-  - [제2군수사령부](https://ko.wikipedia.org/wiki/제2군수사령부 "wikilink"); 1952년 6월 11일 \~ 8월 1일
+  - [제2군수사령부](../Page/제2군수사령부.md "wikilink"); 1952년 6월 11일 \~ 8월 1일
 
-  - [제3군수사령부](https://ko.wikipedia.org/wiki/제3원정지원사령부 "wikilink"); 1952년 6월 11일 \~ 1953년 3월 20일
+  - [제3군수사령부](../Page/제3원정지원사령부.md "wikilink"); 1952년 6월 11일 \~ 1953년 3월 20일
 
   - 무덤등록사령부 (임시)
 
   -
-  - [제3군사철도근무대](https://ko.wikipedia.org/wiki/제3원정수송여단 "wikilink")
+  - [제3군사철도근무대](../Page/제3원정수송여단.md "wikilink")
 
-  - 제8007부대, 복구사령부 - [대구시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink")
+  - 제8007부대, 복구사령부 - [대구시](../Page/대구광역시.md "wikilink")
 
   - 제8077부대, 증강본부
 
@@ -67,7 +67,7 @@
 
   - [육군 보안국](https://ko.wikipedia.org/wiki/미국_육군_보안국 "wikilink")
       - 제352교신정찰중대, 5파견대
-      - [제8240부대, 극동사령부 주한 연락파견대](https://ko.wikipedia.org/wiki/KLO부대 "wikilink")
+      - [제8240부대, 극동사령부 주한 연락파견대](../Page/KLO부대.md "wikilink")
   - 부관대
       - 제110보충대대, 본부 및 본부파견대
           - 제510보충중대
@@ -139,7 +139,7 @@
           - 제2통신근무중대
           - 제3통신근무중대
   - 보병
-      - [제5기병연대](https://ko.wikipedia.org/wiki/제5기병연대_\(미국\) "wikilink") 전투대
+      - [제5기병연대](../Page/제5기병연대_\(미국\).md "wikilink") 전투대
           - A중대
           - 제8공병전투대대
       - 제6전차대대, C중대
@@ -150,7 +150,7 @@
           - 제8기병연대, 중전차중대
           - 제8공병전투대대, C중대
       - [제17보병연대](https://ko.wikipedia.org/wiki/제17보병연대_\(미국\) "wikilink")
-      - [제23보병연대](https://ko.wikipedia.org/wiki/제23보병연대_\(미국\) "wikilink")
+      - [제23보병연대](../Page/제23보병연대_\(미국\).md "wikilink")
       - [제24보병사단](https://ko.wikipedia.org/wiki/제24보병사단_\(미국\) "wikilink")
       - [제27보병연대](https://ko.wikipedia.org/wiki/제27보병연대_\(미국\) "wikilink"), M중대
       - [제34보병연대](https://ko.wikipedia.org/wiki/제34보병연대_\(미국\) "wikilink")

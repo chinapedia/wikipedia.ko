@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Show](https://ko.wikipedia.org/wiki/Show).
 
 
-《**달인Show**》()는 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 가수 [뤄즈샹](https://ko.wikipedia.org/wiki/뤄즈샹 "wikilink")의 두 번째 정규 앨범이다.
+《**달인Show**》()는 [중화민국](../Page/중화민국.md "wikilink")의 가수 [뤄즈샹](../Page/뤄즈샹.md "wikilink")의 두 번째 정규 앨범이다.
 
 ## 수록곡
 

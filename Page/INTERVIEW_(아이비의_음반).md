@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [INTERVIEW \( \)](https://ko.wikipedia.org/wiki/INTERVIEW_\(_\)).
 
 
-《**INTERVIEW**》(인터뷰)는 [아이비의](https://ko.wikipedia.org/wiki/아이비_\(가수\) "wikilink") 첫 번째 미니앨범이다. 2009년 정규 3집 [I Be..](https://ko.wikipedia.org/wiki/I_Be.. "wikilink") 이후 전 소속사와의 법정공방이 해결된 뒤 약 3년만에 내놓은 복귀작이기도 하다. 지금까지와는 달리 댄스 장르곡이 아닌 발라드 장르의 곡을 타이틀곡으로 내세웠으며, 대표곡은 〈찢긴 가슴〉이다. 수록곡 중 〈꽃〉은 아이비가 직접 작사・작곡에 참여했다.
+《**INTERVIEW**》(인터뷰)는 [아이비의](https://ko.wikipedia.org/wiki/아이비_\(가수\) "wikilink") 첫 번째 미니앨범이다. 2009년 정규 3집 [I Be..](../Page/I_Be...md "wikilink") 이후 전 소속사와의 법정공방이 해결된 뒤 약 3년만에 내놓은 복귀작이기도 하다. 지금까지와는 달리 댄스 장르곡이 아닌 발라드 장르의 곡을 타이틀곡으로 내세웠으며, 대표곡은 〈찢긴 가슴〉이다. 수록곡 중 〈꽃〉은 아이비가 직접 작사・작곡에 참여했다.
 
 ## 수록곡
 

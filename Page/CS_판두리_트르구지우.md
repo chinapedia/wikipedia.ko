@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CS  ](https://ko.wikipedia.org/wiki/CS__).
 
 
-**CS 판두리 트르구지우**()는 [트르구지우](https://ko.wikipedia.org/wiki/트르구지우 "wikilink")를 연고로 하는 [루마니아](https://ko.wikipedia.org/wiki/루마니아 "wikilink")의 축구 클럽이다. 현재는 [리가 I에](https://ko.wikipedia.org/wiki/리가_I "wikilink") 참가하고 있다.
+**CS 판두리 트르구지우**()는 [트르구지우](https://ko.wikipedia.org/wiki/트르구지우 "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 축구 클럽이다. 현재는 [리가 I에](../Page/리가_I.md "wikilink") 참가하고 있다.
 
 ## 성적
 
-  - [리가 I](https://ko.wikipedia.org/wiki/리가_I "wikilink"): 준우승 1회 (2012–13)
+  - [리가 I](../Page/리가_I.md "wikilink"): 준우승 1회 (2012–13)
   - [리가 II](https://ko.wikipedia.org/wiki/리가_II "wikilink"): 우승 1회 (2004–05), 준우승 1회 (2003–04)
   - [리가 III](https://ko.wikipedia.org/wiki/리가_III "wikilink"): 우승 4회 (1976–77, 1978–79, 1985–86, 1999–2000), 준우승 2회 (1975–76, 1983–84)
   - [쿠파 로므니에이](https://ko.wikipedia.org/wiki/쿠파_로므니에이 "wikilink"): 준결승 1회 (2006–07)

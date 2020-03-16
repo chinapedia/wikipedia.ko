@@ -1,30 +1,30 @@
 > This article is converted from Wikipedia: [Galneryus](https://ko.wikipedia.org/wiki/Galneryus).
 
 
-**Galneryus**(갈네리우스)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [오사카 시에서](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 결성된 [파워 메탈](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") 밴드이다.
+**Galneryus**(갈네리우스)는 [일본](../Page/일본.md "wikilink")의 [오사카 시에서](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 결성된 [파워 메탈](../Page/파워_메탈.md "wikilink") 밴드이다.
 
 ## 역사
 
 ### 1세대
 
-[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 당시 [비쥬얼계](https://ko.wikipedia.org/wiki/비쥬얼계 "wikilink") 밴드인 **발키리**(), **아우슈비츠**() [기타](https://ko.wikipedia.org/wiki/기타 "wikilink") 리스트인 슈와 [보컬인](https://ko.wikipedia.org/wiki/가창 "wikilink") 마사히로 야마구치를 중심으로 결성했다.\[1\]\[2\] 초창기 때 서포트 맴버와 함께 라이브 활동을 시작 했으며 같은 해 10월에 최초의 싱글 앨범이자 1000장 한정으로 판매한 UNITED FLAG를 출시했다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 8월에 IRON SHOCK 레이블에서 두 번째 싱글 앨범인 REBEL FLAG를 발표했다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 최초로 첫 번째 정규 앨범인 The Flag Of Punishment이 출시 되었다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 3월에 두 번째 앨범이자 첫회 한정판인 Advance To The Fall이 출시 되었고 같은 해 5월 최초로 전국 투어인 REVELATION FROM THE RED SKY를 시작했다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 7월에 세 번째 앨범인 Beyond the end of Despair...을 발표한데 이어 라이브 투어인 DIE FOR REBIRHT TOUR 2006 공연을 열었다. 같은 해 11월에 최초로 라이브 앨범인 LIVE FOR REBIRTH을 발표 했지만 같은 해 12월에 [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [코러스를](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink") 맡았던 마츠이 료스케가 탈퇴했다.
+[2001년](../Page/2001년.md "wikilink") 당시 [비쥬얼계](https://ko.wikipedia.org/wiki/비쥬얼계 "wikilink") 밴드인 **발키리**(), **아우슈비츠**() [기타](../Page/기타.md "wikilink") 리스트인 슈와 [보컬인](https://ko.wikipedia.org/wiki/가창 "wikilink") 마사히로 야마구치를 중심으로 결성했다.\[1\]\[2\] 초창기 때 서포트 맴버와 함께 라이브 활동을 시작 했으며 같은 해 10월에 최초의 싱글 앨범이자 1000장 한정으로 판매한 UNITED FLAG를 출시했다. [2002년](../Page/2002년.md "wikilink") 8월에 IRON SHOCK 레이블에서 두 번째 싱글 앨범인 REBEL FLAG를 발표했다. [2003년](../Page/2003년.md "wikilink")에 최초로 첫 번째 정규 앨범인 The Flag Of Punishment이 출시 되었다. [2005년](../Page/2005년.md "wikilink") 3월에 두 번째 앨범이자 첫회 한정판인 Advance To The Fall이 출시 되었고 같은 해 5월 최초로 전국 투어인 REVELATION FROM THE RED SKY를 시작했다. [2006년](../Page/2006년.md "wikilink") 7월에 세 번째 앨범인 Beyond the end of Despair...을 발표한데 이어 라이브 투어인 DIE FOR REBIRHT TOUR 2006 공연을 열었다. 같은 해 11월에 최초로 라이브 앨범인 LIVE FOR REBIRTH을 발표 했지만 같은 해 12월에 [베이스](../Page/베이스_기타.md "wikilink"), [코러스를](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink") 맡았던 마츠이 료스케가 탈퇴했다.
 
 ### 2세대
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 2월에 [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [코러스를](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink") 맡았던 유토 (현 레다\[3\])가 가입했으며 같은 해 8월에 네 번째 앨범인 ONE FOR ALL - ALL FOR ONE을 발표했다. 같은 해 10월에 라이브 투어인 ONE FOR ALL\! TOUR 2007를 시작했다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 3월에 라이브 DVD 앨범인 LIVE FOR ALL - LIVE FOR ONE을 발표했다. 그와 동시에 싱글 앨범인 ALSATIA/CAUSE DISARRAY을 발표했다. 이 두 노래의 경우 [애니](https://ko.wikipedia.org/wiki/애니 "wikilink")인 [므네모시네의 딸들의](https://ko.wikipedia.org/wiki/므네모시네의_딸들 "wikilink") 오프닝과 엔딩을 동시에 수록했다. 같은 해 5월에 다섯 번째 앨범인 REINCARNATION을 발표를 했지만 같은 해 10월에 라이브 투어인 TOUR 2008 BACK TO THE FLAG를 끝으로 [보컬인](https://ko.wikipedia.org/wiki/가창 "wikilink") 마사히로 야마구치가 탈퇴하게 되었다.
+[2007년](../Page/2007년.md "wikilink") 2월에 [베이스](../Page/베이스_기타.md "wikilink"), [코러스를](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink") 맡았던 유토 (현 레다\[3\])가 가입했으며 같은 해 8월에 네 번째 앨범인 ONE FOR ALL - ALL FOR ONE을 발표했다. 같은 해 10월에 라이브 투어인 ONE FOR ALL\! TOUR 2007를 시작했다. [2008년](../Page/2008년.md "wikilink") 3월에 라이브 DVD 앨범인 LIVE FOR ALL - LIVE FOR ONE을 발표했다. 그와 동시에 싱글 앨범인 ALSATIA/CAUSE DISARRAY을 발표했다. 이 두 노래의 경우 [애니](https://ko.wikipedia.org/wiki/애니 "wikilink")인 [므네모시네의 딸들의](https://ko.wikipedia.org/wiki/므네모시네의_딸들 "wikilink") 오프닝과 엔딩을 동시에 수록했다. 같은 해 5월에 다섯 번째 앨범인 REINCARNATION을 발표를 했지만 같은 해 10월에 라이브 투어인 TOUR 2008 BACK TO THE FLAG를 끝으로 [보컬인](https://ko.wikipedia.org/wiki/가창 "wikilink") 마사히로 야마구치가 탈퇴하게 되었다.
 
 ### 3세대
 
 [섬네일에서](https://ko.wikipedia.org/wiki/파일:Galneryus_in_Busan_Rock_Festival,_2012.jpg "wikilink") 공연 중인 모습\]\]
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 3월 최초로 베스트 앨범인 BEST OF THE BRAVING DAYS, BEST OF THE AWAKENING DAYS를 발표했다. 같은 해 5월에 PURE ROCK JAPAN LIVE 2009에 대역 가수로 [마사토시 오노가](https://ko.wikipedia.org/wiki/마사토시_오노 "wikilink") 참가하게 되었다. 같은 해 9월에 유토 (현 레다)가 탈퇴하면서 [마사토시 오노의](https://ko.wikipedia.org/wiki/마사토시_오노 "wikilink") 전 [베이스인](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink") 타카가 가입하게 되었다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 여섯 번째 앨범인 RESURRECTION을 발표 했는데 오리콘에서 35위를 기록하면서 매출 2만장을 돌파하게 되었다. 같은 해 12월에 최초로 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 내한 공연을 가지게 되었다.\[4\] [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 10월에 일곱 번 째 앨범인 PHOENIX RISING을 발표 했는데 발표했다. 오리콘 위클리에서 23위를 기록했다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 7월에 싱글 앨범인 HUNTING FOR YOUR DREAM를 발표했다. [TV](https://ko.wikipedia.org/wiki/TV "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")인 [헌터 X 헌터 리메이크의](https://ko.wikipedia.org/wiki/헌터_X_헌터 "wikilink") 엔딩 테마로 기용 되었다. 같은 해 8월에 두 번째로 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [홍익대학교](https://ko.wikipedia.org/wiki/홍익대학교 "wikilink")\[5\] 에서 내한 공연을 가진데 이어 [부산 국제 록 페스티벌](https://ko.wikipedia.org/wiki/부산_국제_록_페스티벌 "wikilink")\[6\] 에 참여했다. 같은 해 10월에 여덞 번째 앨범인 ANGEL OF SALVATION을 발표해 오리콘 데일리 차트에서 9위를 한데 이어 위클리 차트 17위로 과거 최고를 갱신했다. 같은 달 라이브 투어인 UNDER THE PROMISED FLAG TOUR를 시작하면서 사상 최대의 동원 수를 기록했다. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 2월에 메이저 데뷔 10주년 기념을 일환으로 아카사카 블리츠에서 티켓 대금 2000엔으로 라이브를 열었다.
+[2009년](../Page/2009년.md "wikilink") 3월 최초로 베스트 앨범인 BEST OF THE BRAVING DAYS, BEST OF THE AWAKENING DAYS를 발표했다. 같은 해 5월에 PURE ROCK JAPAN LIVE 2009에 대역 가수로 [마사토시 오노가](https://ko.wikipedia.org/wiki/마사토시_오노 "wikilink") 참가하게 되었다. 같은 해 9월에 유토 (현 레다)가 탈퇴하면서 [마사토시 오노의](https://ko.wikipedia.org/wiki/마사토시_오노 "wikilink") 전 [베이스인](../Page/베이스_기타.md "wikilink") 타카가 가입하게 되었다. [2010년](../Page/2010년.md "wikilink")에 여섯 번째 앨범인 RESURRECTION을 발표 했는데 오리콘에서 35위를 기록하면서 매출 2만장을 돌파하게 되었다. 같은 해 12월에 최초로 [대한민국](../Page/대한민국.md "wikilink")에서 내한 공연을 가지게 되었다.\[4\] [2011년](../Page/2011년.md "wikilink") 10월에 일곱 번 째 앨범인 PHOENIX RISING을 발표 했는데 발표했다. 오리콘 위클리에서 23위를 기록했다. [2012년](../Page/2012년.md "wikilink") 7월에 싱글 앨범인 HUNTING FOR YOUR DREAM를 발표했다. [TV](https://ko.wikipedia.org/wiki/TV "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")인 [헌터 X 헌터 리메이크의](https://ko.wikipedia.org/wiki/헌터_X_헌터 "wikilink") 엔딩 테마로 기용 되었다. 같은 해 8월에 두 번째로 [서울특별시](../Page/서울특별시.md "wikilink") [홍익대학교](https://ko.wikipedia.org/wiki/홍익대학교 "wikilink")\[5\] 에서 내한 공연을 가진데 이어 [부산 국제 록 페스티벌](https://ko.wikipedia.org/wiki/부산_국제_록_페스티벌 "wikilink")\[6\] 에 참여했다. 같은 해 10월에 여덞 번째 앨범인 ANGEL OF SALVATION을 발표해 오리콘 데일리 차트에서 9위를 한데 이어 위클리 차트 17위로 과거 최고를 갱신했다. 같은 달 라이브 투어인 UNDER THE PROMISED FLAG TOUR를 시작하면서 사상 최대의 동원 수를 기록했다. [2013년](../Page/2013년.md "wikilink") 2월에 메이저 데뷔 10주년 기념을 일환으로 아카사카 블리츠에서 티켓 대금 2000엔으로 라이브를 열었다.
 
 ## 구성원
 
-  - [슈](../Page/슈_\(1980년\).md "wikilink") ([기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 리더)
-  - 유키 ([키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), [숄더 키보드](https://ko.wikipedia.org/wiki/숄더_키보드 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
+  - [슈](../Page/슈_\(1980년\).md "wikilink") ([기타](../Page/기타.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 리더)
+  - 유키 ([키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), [숄더 키보드](../Page/숄더_키보드.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
   - [오노 마사토시](../Page/오노_마사토시.md "wikilink") ([보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"))
-  - 타카 ([베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"))
+  - 타카 ([베이스](../Page/베이스_기타.md "wikilink"))
   - 모리시타 후미야 ([드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"))
 
 파일:Galneryus Sho.jpg|
@@ -50,8 +50,8 @@
 Galneryus 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 
   - 야마구치 마사히로 ([보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"))
-  - 마츠이 료스케 ([베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
-  - 유토 (현 레다) ([베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
+  - 마츠이 료스케 ([베이스](../Page/베이스_기타.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
+  - 유토 (현 레다) ([베이스](../Page/베이스_기타.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
   - 사토 주니치 ([드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"))
 
 파일:Galneryus Junichi.jpg|
@@ -62,15 +62,15 @@ Galneryus 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 
 ## 음악 성향
 
-[파워 메탈의](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") 격렬한 선율 속에 정취적인 울음의 멜로디를 포함하여 복잡한 변박자를 가져온 [네오클래시컬 메탈적인](../Page/네오클래시컬_메탈.md "wikilink") 합창과 [교향곡](https://ko.wikipedia.org/wiki/교향곡 "wikilink")을 많이 쓰고 있다.
+[파워 메탈의](../Page/파워_메탈.md "wikilink") 격렬한 선율 속에 정취적인 울음의 멜로디를 포함하여 복잡한 변박자를 가져온 [네오클래시컬 메탈적인](../Page/네오클래시컬_메탈.md "wikilink") 합창과 [교향곡](../Page/교향곡.md "wikilink")을 많이 쓰고 있다.
 
-[바이올린 협주곡 (차이콥스키)](https://ko.wikipedia.org/wiki/바이올린_협주곡_\(차이콥스키\) "wikilink") Op.35를 모티브로 한 여덟 번째 앨범의 표제곡 ANGEL OF SALVATION과 앨범, REINCARNATION의 수록곡인 THE FLAG OF REINCARNATION, ADVANCE TO THE FALL 수록곡인 DREAM PLACE처럼 [클래식 음악의](../Page/클래식_음악.md "wikilink") 명곡 문구를 [기타](https://ko.wikipedia.org/wiki/기타 "wikilink") 솔로에 도입하는 등 많은 곡에 [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink") 소양을 살린 [네오클래시컬 메탈적인](../Page/네오클래시컬_메탈.md "wikilink") 요소도 보인다.
+[바이올린 협주곡 (차이콥스키)](../Page/바이올린_협주곡_\(차이콥스키\).md "wikilink") Op.35를 모티브로 한 여덟 번째 앨범의 표제곡 ANGEL OF SALVATION과 앨범, REINCARNATION의 수록곡인 THE FLAG OF REINCARNATION, ADVANCE TO THE FALL 수록곡인 DREAM PLACE처럼 [클래식 음악의](../Page/클래식_음악.md "wikilink") 명곡 문구를 [기타](../Page/기타.md "wikilink") 솔로에 도입하는 등 많은 곡에 [바이올린](../Page/바이올린.md "wikilink") 소양을 살린 [네오클래시컬 메탈적인](../Page/네오클래시컬_메탈.md "wikilink") 요소도 보인다.
 
 또한 연주 기술을 가지고 밴드 활동 외에 악기 세미나와 [유투브](https://ko.wikipedia.org/wiki/유투브 "wikilink") 동영상을 통해 국내외를 불문하고 많은 밴드 플레이어의 지지를 모으고 있다.
 
 맴버들간 교류가 넓고 많은 음악 잡지나 라이브 이벤트에서 국내외 아티스트와 공동 출연 하고 서포트 멤버로 다양한 스튜디오 음원이나 라이브에 참가하는 경우가 많다.
 
-첫 번째 앨범부터 다섯 번째 앨범까지 전직 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") 리스트인 야마구치 마사히로()가 맴버로 활약할 당시 [파워 메탈의](https://ko.wikipedia.org/wiki/파워_메탈 "wikilink") 요소를 내세운 곡에서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 가입한 [오노 마사토시가](../Page/오노_마사토시.md "wikilink") 등록한 여섯 번째 앨범에서 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")의 넓은 음역을 살려 질주감에 중점을 둔 [멜로딕 스피드 메탈의](https://ko.wikipedia.org/wiki/멜로딕_스피드_메탈 "wikilink") 요소를 내세운 곡이 인기를 모으고 있다. 이후 꾸준히 인기를 상승하면서 [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 탑 20위 안에 들어갔다. 또한 [방송](https://ko.wikipedia.org/wiki/방송 "wikilink") 출연 증가와 동시에 [라이브](https://ko.wikipedia.org/wiki/라이브 "wikilink") 공연도 점차 늘려갔다.
+첫 번째 앨범부터 다섯 번째 앨범까지 전직 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") 리스트인 야마구치 마사히로()가 맴버로 활약할 당시 [파워 메탈의](../Page/파워_메탈.md "wikilink") 요소를 내세운 곡에서 [2009년](../Page/2009년.md "wikilink")에 가입한 [오노 마사토시가](../Page/오노_마사토시.md "wikilink") 등록한 여섯 번째 앨범에서 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")의 넓은 음역을 살려 질주감에 중점을 둔 [멜로딕 스피드 메탈의](https://ko.wikipedia.org/wiki/멜로딕_스피드_메탈 "wikilink") 요소를 내세운 곡이 인기를 모으고 있다. 이후 꾸준히 인기를 상승하면서 [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 탑 20위 안에 들어갔다. 또한 [방송](../Page/방송.md "wikilink") 출연 증가와 동시에 [라이브](https://ko.wikipedia.org/wiki/라이브 "wikilink") 공연도 점차 늘려갔다.
 
 ## 음반
 
@@ -99,7 +99,7 @@ Galneryus 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>THE FLAG OF PUNISHMENT</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/10월_22일" title="wikilink">10월 22일</a></p></td>
+<td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/10월_22일.md" title="wikilink">10월 22일</a></p></td>
 <td><p>VPCC-81464</p></td>
 <td><p>01. MEDITATION FOR A SAGA<br />
 02. STRUGGLE FOR THE FREEDOM FLAG<br />
@@ -117,7 +117,7 @@ Galneryus 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>ADVANCE TO THE FALL</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a> <a href="https://ko.wikipedia.org/wiki/3월_23일" title="wikilink">3월 23일</a></p></td>
+<td><p><a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/3월_23일.md" title="wikilink">3월 23일</a></p></td>
 <td><p>VPCC-51509/10</p></td>
 <td><p>01. STILLNESS DAWN<br />
 02. SILENT REVELATION<br />
@@ -137,7 +137,7 @@ Galneryus 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>BEYOND THE END OF DESPAIR...</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a> <a href="https://ko.wikipedia.org/wiki/7월_12일" title="wikilink">7월 12일</a></p></td>
+<td><p><a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/7월_12일.md" title="wikilink">7월 12일</a></p></td>
 <td><p>VPCC-81542</p></td>
 <td><p>01. ARISE<br />
 02. SHRIEK OF THE VENGEANCE<br />
@@ -164,7 +164,7 @@ Galneryus 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>ONE FOR ALL - ALL FOR ONE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/8월_22일" title="wikilink">8월 22일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/8월_22일.md" title="wikilink">8월 22일</a></p></td>
 <td><p>VPCC-81576</p></td>
 <td><p>01. RED HORIZON<br />
 02. NEW LEGEND<br />
@@ -183,7 +183,7 @@ Galneryus 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>REINCARNATION</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/9월_10일" title="wikilink">9월 10일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/9월_10일.md" title="wikilink">9월 10일</a></p></td>
 <td><p>VPCC-81610</p></td>
 <td><p>01. 終わりなき、この詩<br />
 02. BLAST OF HELL<br />
@@ -210,7 +210,7 @@ Galneryus 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 <tr class="odd">
 <td><p>6th</p></td>
 <td><p>RESURRECTION</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/6월_23일" title="wikilink">6월 23일</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/6월_23일.md" title="wikilink">6월 23일</a></p></td>
 <td><p>VPCC-80653<br />
 VPCC-81664</p></td>
 <td><p>01. UNITED BLOOD<br />
@@ -229,7 +229,7 @@ VPCC-81664</p></td>
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>PHOENIX RISING</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/10월_5일" title="wikilink">10월 5일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/10월_5일.md" title="wikilink">10월 5일</a></p></td>
 <td><p>VPCC-81711</p></td>
 <td><p>01. THE RISING<br />
 02. TEAR OFF YOUR CHAIN<br />
@@ -247,7 +247,7 @@ VPCC-81664</p></td>
 <tr class="odd">
 <td><p>mini</p></td>
 <td><p>絆</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/1월_25일" title="wikilink">1월 25일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/1월_25일.md" title="wikilink">1월 25일</a></p></td>
 <td><p>VCPP-81723</p></td>
 <td><p>01. 絆<br />
 02. 終わりなき、この詩 (New Version)<br />
@@ -260,7 +260,7 @@ VPCC-81664</p></td>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>ANGEL OF SALVATION</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/10월_10일" title="wikilink">10월 10일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/10월_10일.md" title="wikilink">10월 10일</a></p></td>
 <td><p>VCPP-81749</p></td>
 <td><p>01. REACH TO THE SKY<br />
 02. THE PROMISED FLAG<br />
@@ -277,7 +277,7 @@ VPCC-81664</p></td>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>VETELGYUS</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/9월_24일" title="wikilink">9월 24일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/9월_24일.md" title="wikilink">9월 24일</a></p></td>
 <td><p>VPCC-80669<br />
 VPCC-81813</p></td>
 <td><p>01. REDSTAR RISING<br />
@@ -297,7 +297,7 @@ VPCC-81813</p></td>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>UNDER THE FORCE OF COURAGE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/12월_9일" title="wikilink">12월 9일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/12월_9일.md" title="wikilink">12월 9일</a></p></td>
 <td><p>VPCC-81852</p></td>
 <td><p>01.PREMONITION<br />
 -Suite First Movement-<br />
@@ -333,7 +333,7 @@ VPCC-81813</p></td>
 <tr class="even">
 <td><p>11th</p></td>
 <td><p>ULTIMATE SACRIFICE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/9월_27일" title="wikilink">9월 27일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_27일.md" title="wikilink">9월 27일</a></p></td>
 <td><p>WPCL-12714</p></td>
 <td><p>01.ENTER THE NEW AGE<br />
 02.HEAVENLY PUNISHMENT<br />
@@ -374,7 +374,7 @@ VPCC-81813</p></td>
 <tr class="odd">
 <td><p>Vol.1</p></td>
 <td><p>REGENERATION SIDE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/5월_22일" title="wikilink">5월 22일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/5월_22일.md" title="wikilink">5월 22일</a></p></td>
 <td><p>VPCC-80660</p></td>
 <td><p>01. BRAVING FLAG<br />
 02. REBEL FLAG<br />
@@ -391,7 +391,7 @@ VPCC-81813</p></td>
 <tr class="even">
 <td><p>Vol.2</p></td>
 <td><p>REFORMATION SIDE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/9월_4일" title="wikilink">9월 4일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/9월_4일.md" title="wikilink">9월 4일</a></p></td>
 <td><p>VPCC-80661</p></td>
 <td><p>01. RISE UP (THE LEGENDARY PANTHEON)<br />
 　→New Version of　”NEW LEGEND”<br />
@@ -443,7 +443,7 @@ VPCC-81813</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>BEST OF THE BRAVING DAYS</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/3월_25일" title="wikilink">3월 25일</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/3월_25일.md" title="wikilink">3월 25일</a></p></td>
 <td><p>VPCC-80635</p></td>
 <td><p>01. BRAVING FLAG<br />
 02. WHISPER IN THE RED SKY<br />
@@ -464,7 +464,7 @@ VPCC-81813</p></td>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>BEST OF THE AWAKENING DAYS</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/3월_25일" title="wikilink">3월 25일</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/3월_25일.md" title="wikilink">3월 25일</a></p></td>
 <td><p>VPCC-80636</p></td>
 <td><p>01.THE AWAKENING<br />
 02. NEW LEGEND<br />
@@ -510,7 +510,7 @@ VPCC-81813</p></td>
 <tr class="odd">
 <td><p>데모</p></td>
 <td><p>UNITED FLAG</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2001년" title="wikilink">2001년</a> <a href="https://ko.wikipedia.org/wiki/10월" title="wikilink">10월</a></p></td>
+<td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/10월.md" title="wikilink">10월</a></p></td>
 <td><p>SML-002</p></td>
 <td><p>01. United Flag<br />
 02. Beyone Of The Ground</p></td>
@@ -520,7 +520,7 @@ VPCC-81813</p></td>
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>REBEL FLAG</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/8월_23일" title="wikilink">8월 23일</a></p></td>
+<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/8월_23일.md" title="wikilink">8월 23일</a></p></td>
 <td><p>SHOCK-022</p></td>
 <td><p>01. REBEL FLAG<br />
 02. REQUIEM<br />
@@ -531,7 +531,7 @@ VPCC-81813</p></td>
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>EVERLASTING</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/6월_27일" title="wikilink">6월 27일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/6월_27일.md" title="wikilink">6월 27일</a></p></td>
 <td><p>VPCC-82220<br />
 VCPP-82610</p></td>
 <td><p>01. EVERLASTING<br />
@@ -543,7 +543,7 @@ VCPP-82610</p></td>
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>ALSATIA/CAUSE DISARRAY</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/3월_19일" title="wikilink">3월 19일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/3월_19일.md" title="wikilink">3월 19일</a></p></td>
 <td><p>VPCC-82250</p></td>
 <td><p>01. ALSATIA<br />
 02. WINGS<br />
@@ -555,7 +555,7 @@ VCPP-82610</p></td>
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p>SHINING MOMENTS</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/7월_30일" title="wikilink">7월 30일</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/7월_30일.md" title="wikilink">7월 30일</a></p></td>
 <td><p>Digital</p></td>
 <td><p>01. SHINING MOMENTS<br />
 02. RAIN<br />
@@ -566,7 +566,7 @@ VCPP-82610</p></td>
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>BEGINNING OF THE RESURRECTION</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/4월_21일" title="wikilink">4월 21일</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/4월_21일.md" title="wikilink">4월 21일</a></p></td>
 <td><p>Digital</p></td>
 <td><p>01. A FAR-OFF DISTANCE (Rainbow Mix)<br />
 02. DESTINY (MV Mix)<br />
@@ -577,7 +577,7 @@ VCPP-82610</p></td>
 <tr class="odd">
 <td><p>6th</p></td>
 <td><p>FUTURE NEVER DIES</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/9월_7일" title="wikilink">9월 7일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/9월_7일.md" title="wikilink">9월 7일</a></p></td>
 <td><p>Digital</p></td>
 <td><p>01. FUTURE NEVER DIES (Three-Arrows Mix)<br />
 02. THE AWAKENING (Live)<br />
@@ -588,7 +588,7 @@ VCPP-82610</p></td>
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>絆 FIST OF THE BLUE SKY</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/11월_30일" title="wikilink">11월 30일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/11월_30일.md" title="wikilink">11월 30일</a></p></td>
 <td><p>Digital</p></td>
 <td><p>01. 絆 FIST OF THE BLUE SKY</p></td>
 <td><p>-</p></td>
@@ -597,7 +597,7 @@ VCPP-82610</p></td>
 <tr class="odd">
 <td><p>8th</p></td>
 <td><p>HUNTING FOR YOUR DREAM</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/7월_18일" title="wikilink">7월 18일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/7월_18일.md" title="wikilink">7월 18일</a></p></td>
 <td><p>VPCC-83306/7</p></td>
 <td><p>01. HUNTING FOR YOUR DREAM (Single Version)<br />
 02. METAL TRIGGER<br />
@@ -610,7 +610,7 @@ VCPP-82610</p></td>
 <tr class="even">
 <td><p>9th</p></td>
 <td><p>ATTITUDE TO LIFE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/12월_3일" title="wikilink">12월 3일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/12월_3일.md" title="wikilink">12월 3일</a></p></td>
 <td><p>VPCC-82327<br />
 VPCC-82653</p></td>
 <td><p>01. ATTITUDE TO LIFE (SINGLE MIX)<br />
@@ -633,12 +633,12 @@ VPCC-82653</p></td>
 
 ### DVD
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") LIVE FOR REBIRTH
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") LIVE FOR ALL-LIVE FOR ONE
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") LIVE IN THE MOMENT OF THE RESURRECTION
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") PHOENIX LIVING IN THE RISING SUN
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") RELIVING THE IRONHEARTED FLAG
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") ATTITUDE TO LIVE
+  - [2006년](../Page/2006년.md "wikilink") LIVE FOR REBIRTH
+  - [2008년](../Page/2008년.md "wikilink") LIVE FOR ALL-LIVE FOR ONE
+  - [2010년](../Page/2010년.md "wikilink") LIVE IN THE MOMENT OF THE RESURRECTION
+  - [2012년](../Page/2012년.md "wikilink") PHOENIX LIVING IN THE RISING SUN
+  - [2014년](../Page/2014년.md "wikilink") RELIVING THE IRONHEARTED FLAG
+  - [2015년](../Page/2015년.md "wikilink") ATTITUDE TO LIVE
 
 ## 각주
 

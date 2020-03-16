@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I.MX](https://ko.wikipedia.org/wiki/I.MX).
 
 
-[섬네일|Freescale MCIMX507CVM8B ](https://ko.wikipedia.org/wiki/파일:Tolino_shine_-_controller_board_-_Freescale_MCIMX507CVM8B-1996.jpg "wikilink") **i.MX**는 [프리스케일 세미컨덕터에서](https://ko.wikipedia.org/wiki/프리스케일_세미컨덕터 "wikilink") 제작하는 [ARM 아키텍처](https://ko.wikipedia.org/wiki/ARM_아키텍처 "wikilink") 기반의 프로세서이다.\[1\] 최신버전은 i.MX6 이다.
+[섬네일|Freescale MCIMX507CVM8B ](https://ko.wikipedia.org/wiki/파일:Tolino_shine_-_controller_board_-_Freescale_MCIMX507CVM8B-1996.jpg "wikilink") **i.MX**는 [프리스케일 세미컨덕터에서](../Page/프리스케일_세미컨덕터.md "wikilink") 제작하는 [ARM 아키텍처](../Page/ARM_아키텍처.md "wikilink") 기반의 프로세서이다.\[1\] 최신버전은 i.MX6 이다.
 
 ## 제품 목록
 
@@ -130,11 +130,11 @@
 
 ## 비슷한 플랫폼
 
-  - [텍사스 인스트루먼트의](https://ko.wikipedia.org/wiki/텍사스_인스트루먼트 "wikilink") [OMAP](https://ko.wikipedia.org/wiki/OMAP "wikilink")
-  - [퀄컴](https://ko.wikipedia.org/wiki/퀄컴 "wikilink")의 [스냅드래곤](https://ko.wikipedia.org/wiki/스냅드래곤 "wikilink")
-  - [엔비디아 테그라](https://ko.wikipedia.org/wiki/엔비디아_테그라 "wikilink")
-  - [화웨이](https://ko.wikipedia.org/wiki/화웨이 "wikilink")의 [하이 실리콘](https://ko.wikipedia.org/wiki/하이_실리콘 "wikilink")
-  - [애플 A4](https://ko.wikipedia.org/wiki/애플_A4 "wikilink"), [애플 A5](https://ko.wikipedia.org/wiki/애플_A5 "wikilink")
+  - [텍사스 인스트루먼트의](../Page/텍사스_인스트루먼트.md "wikilink") [OMAP](../Page/OMAP.md "wikilink")
+  - [퀄컴](../Page/퀄컴.md "wikilink")의 [스냅드래곤](../Page/스냅드래곤.md "wikilink")
+  - [엔비디아 테그라](../Page/엔비디아_테그라.md "wikilink")
+  - [화웨이](../Page/화웨이.md "wikilink")의 [하이 실리콘](https://ko.wikipedia.org/wiki/하이_실리콘 "wikilink")
+  - [애플 A4](../Page/애플_A4.md "wikilink"), [애플 A5](../Page/애플_A5.md "wikilink")
 
 ## 각주
 

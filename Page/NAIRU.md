@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NAIRU](https://ko.wikipedia.org/wiki/NAIRU).
 
 
-**NAIRU**()는 [통화주의 경제학에서](https://ko.wikipedia.org/wiki/통화주의 "wikilink") [밀턴 프리드먼이](https://ko.wikipedia.org/wiki/밀턴_프리드먼 "wikilink") 제기하였으며, [인플레이션](https://ko.wikipedia.org/wiki/인플레이션 "wikilink")이 발생하지 않고 안정적일 때의 실업률을 가리킨다. [통화주의 경제학에서](https://ko.wikipedia.org/wiki/통화주의 "wikilink") [밀턴 프리드먼이](https://ko.wikipedia.org/wiki/밀턴_프리드먼 "wikilink") 제기하였다.\[1\]\[2\] 주류 경제학에서 널리 사용되며, 처음에는 [프랑코 모딜리아니](https://ko.wikipedia.org/wiki/프랑코_모딜리아니 "wikilink"), [루카스 파파디모스](https://ko.wikipedia.org/wiki/루카스_파파디모스 "wikilink")(1975)가 [자연실업률](https://ko.wikipedia.org/wiki/자연실업률 "wikilink")을 개선하여 **NIRU**(non-inflationary rate of unemployment)라고 소개하였다.\[3\]\[4\]\[5\]
+**NAIRU**()는 [통화주의 경제학에서](../Page/통화주의.md "wikilink") [밀턴 프리드먼이](../Page/밀턴_프리드먼.md "wikilink") 제기하였으며, [인플레이션](../Page/인플레이션.md "wikilink")이 발생하지 않고 안정적일 때의 실업률을 가리킨다. [통화주의 경제학에서](../Page/통화주의.md "wikilink") [밀턴 프리드먼이](../Page/밀턴_프리드먼.md "wikilink") 제기하였다.\[1\]\[2\] 주류 경제학에서 널리 사용되며, 처음에는 [프랑코 모딜리아니](https://ko.wikipedia.org/wiki/프랑코_모딜리아니 "wikilink"), [루카스 파파디모스](https://ko.wikipedia.org/wiki/루카스_파파디모스 "wikilink")(1975)가 [자연실업률](https://ko.wikipedia.org/wiki/자연실업률 "wikilink")을 개선하여 **NIRU**(non-inflationary rate of unemployment)라고 소개하였다.\[3\]\[4\]\[5\]
 
 ## 각주
 

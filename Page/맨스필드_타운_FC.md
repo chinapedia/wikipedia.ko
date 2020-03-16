@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**맨스필드 타운 FC**(Mansfield Town Football Club)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [노팅엄셔주](https://ko.wikipedia.org/wiki/노팅엄셔주 "wikilink") [맨스필드를](https://ko.wikipedia.org/wiki/맨스필드_\(노팅엄셔주\) "wikilink") 연고로 하는 축구 클럽이다. 1897년 **맨스필드 웨슬리언스**(Mansfield Wesleyans)라는 이름으로 창단되었으며 1906년 클럽 이름을 **맨스필드 웨슬리**(Mansfield Wesley)로 변경했다. 1910년에 현재와 같은 이름으로 변경되어 오늘에 이른다.
+**맨스필드 타운 FC**(Mansfield Town Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [노팅엄셔주](../Page/노팅엄셔주.md "wikilink") [맨스필드를](../Page/맨스필드_\(노팅엄셔주\).md "wikilink") 연고로 하는 축구 클럽이다. 1897년 **맨스필드 웨슬리언스**(Mansfield Wesleyans)라는 이름으로 창단되었으며 1906년 클럽 이름을 **맨스필드 웨슬리**(Mansfield Wesley)로 변경했다. 1910년에 현재와 같은 이름으로 변경되어 오늘에 이른다.
 
   - [콘퍼런스 내셔널](https://ko.wikipedia.org/wiki/콘퍼런스_내셔널 "wikilink") 우승 1회 (2012-13)
 

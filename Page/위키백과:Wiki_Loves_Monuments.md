@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [:Wiki Loves Monuments](https://ko.wikipedia.org/wiki/:Wiki_Loves_Monuments).
 
 
-[LUSITANA_WLM_2011_d.svg](https://ko.wikipedia.org/wiki/File:LUSITANA_WLM_2011_d.svg "fig:LUSITANA_WLM_2011_d.svg")  **위키는 문화유산을 사랑합니다**(**[Wiki Loves Monuments](https://ko.wikipedia.org/wiki/Wiki_Loves_Monuments "wikilink")**) 행사는 위키백과 공용에 인류의 문화유산에 대한 저작물을 풍성하게 할 목적으로 위키미디어 재단과 지역 협회에서 주관하는 국제 사진전으로 2013년에는 50개 이상의 나라에서 동시에 개최되는 세계 최대의 사진 경연 대회입니다.
+[LUSITANA_WLM_2011_d.svg](https://ko.wikipedia.org/wiki/File:LUSITANA_WLM_2011_d.svg "fig:LUSITANA_WLM_2011_d.svg")  **위키는 문화유산을 사랑합니다**(**[Wiki Loves Monuments](../Page/Wiki_Loves_Monuments.md "wikilink")**) 행사는 위키백과 공용에 인류의 문화유산에 대한 저작물을 풍성하게 할 목적으로 위키미디어 재단과 지역 협회에서 주관하는 국제 사진전으로 2013년에는 50개 이상의 나라에서 동시에 개최되는 세계 최대의 사진 경연 대회입니다.
 
 2012년에는 1만5천여명의 참가자들이 35만개의 사진을 출품하였습니다. 이중 33개의 나라에서 324개의 작품을 전세계 본선에 출품을 하였습니다. 이중 최우수상을 수상한 '사프다중 묘'는 빛의 효과를 이용하여 무덤안의 어두움과 관의 밝음을 교묘하게 대비시켜 드라마틱한 효과를 내는 작품입니다.
 
 전세계에서 가장 큰 규모의 사진 경연 대회의 한국 지역 예선을 조직하는데 참여할 위키 편집자들을 찾고 있습니다.
 
-현재 한국의 국보에 대한 사진자료는 1호에서 100호까지는 확보를 하였습니다만, 그 이후는 빠진 것들이 많습니다. [대한민국의 국보 (제101호 \~ 제200호)를](https://ko.wikipedia.org/wiki/대한민국의_국보_\(제101호_~_제200호\) "wikilink") 보시면 확인하실 수 있습니다. 먼저 각 유물의 위치를 파악하여 대상물의 정보를 수집하는 일을 해야합니다.
+현재 한국의 국보에 대한 사진자료는 1호에서 100호까지는 확보를 하였습니다만, 그 이후는 빠진 것들이 많습니다. [대한민국의 국보 (제101호 \~ 제200호)를](../Page/대한민국의_국보_\(제101호_~_제200호\).md "wikilink") 보시면 확인하실 수 있습니다. 먼저 각 유물의 위치를 파악하여 대상물의 정보를 수집하는 일을 해야합니다.
 
 ## 역대 수상작
 
@@ -21,7 +21,7 @@
 
 ## 같이 보기
 
-  - [Wiki Loves Monuments](https://ko.wikipedia.org/wiki/Wiki_Loves_Monuments "wikilink") (위키백과 문서)
+  - [Wiki Loves Monuments](../Page/Wiki_Loves_Monuments.md "wikilink") (위키백과 문서)
   - [위키백과:대한민국의 문화재 목록](https://ko.wikipedia.org/wiki/위키백과:대한민국의_문화재_목록 "wikilink")
 
 ## 외부 링크

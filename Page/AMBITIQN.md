@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AMBITIQN](https://ko.wikipedia.org/wiki/AMBITIQN).
 
 
-***AMBITIQN*** (의 변형 표기)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 힙합 아티스트 [더콰이엇](https://ko.wikipedia.org/wiki/더콰이엇 "wikilink")의 다섯 번째 정규 음반이다. 2013년 2월 14일, 믹스테이프 사이트인 [댓피프](https://ko.wikipedia.org/wiki/댓피프 "wikilink")를 통해 무료 배포 후 22일, 음반 및 디지털 다운로드로 발매하였다.\[1\] 더콰이엇과 프리마 비스타와 함께 프로듀싱을 하였으며 2013년 5월, 더콰이엇 복무 중 영리 활동 논란 후 음원 유통 중단되었다가\[2\] 이듬 해 9월 12일, 보너스 트랙 "Tomorrow Remix"를 수록하여 재발매하였다.\[3\] 원래 믹스테잎으로 발표되었으나 Millionaire Poetry가 정규 8집으로 발매되면서 정규 5집으로 바뀌었다.
+***AMBITIQN*** (의 변형 표기)은 [대한민국](../Page/대한민국.md "wikilink")의 힙합 아티스트 [더콰이엇](https://ko.wikipedia.org/wiki/더콰이엇 "wikilink")의 다섯 번째 정규 음반이다. 2013년 2월 14일, 믹스테이프 사이트인 [댓피프](https://ko.wikipedia.org/wiki/댓피프 "wikilink")를 통해 무료 배포 후 22일, 음반 및 디지털 다운로드로 발매하였다.\[1\] 더콰이엇과 프리마 비스타와 함께 프로듀싱을 하였으며 2013년 5월, 더콰이엇 복무 중 영리 활동 논란 후 음원 유통 중단되었다가\[2\] 이듬 해 9월 12일, 보너스 트랙 "Tomorrow Remix"를 수록하여 재발매하였다.\[3\] 원래 믹스테잎으로 발표되었으나 Millionaire Poetry가 정규 8집으로 발매되면서 정규 5집으로 바뀌었다.
 
 ## 수록곡
 

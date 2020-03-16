@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Destiny \( \)](https://ko.wikipedia.org/wiki/Destiny_\(_\)).
 
 
-***Destiny***(데스티니)는 대한민국의 음악 그룹 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")의 두 번째 싱글 음반이다. 타이틀곡은 "Destiny"로 2013년 7월 16일, [울림엔터테인먼트](https://ko.wikipedia.org/wiki/울림엔터테인먼트 "wikilink")를 통해 발매되었다.
+***Destiny***(데스티니)는 대한민국의 음악 그룹 [인피니트](../Page/인피니트.md "wikilink")의 두 번째 싱글 음반이다. 타이틀곡은 "Destiny"로 2013년 7월 16일, [울림엔터테인먼트](../Page/울림엔터테인먼트.md "wikilink")를 통해 발매되었다.
 
 ## 수록곡
 

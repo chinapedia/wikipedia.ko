@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ANDROID \( \)](https://ko.wikipedia.org/wiki/ANDROID_\(_\)).
 
 
-〈**ANDROID**〉(안드로이드)는 일본에서 발매한 대한민국 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 35번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
+〈**ANDROID**〉(안드로이드)는 일본에서 발매한 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 35번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
 
 ## 그 외
 

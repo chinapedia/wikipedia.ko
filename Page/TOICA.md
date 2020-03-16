@@ -11,26 +11,26 @@
 
 ## 이용 가능 구간
 
-JR 도카이에서는 다음의 노선·구간에서 이용 가능(TOICA 지역)하며, [나고야 철도](https://ko.wikipedia.org/wiki/나고야_철도 "wikilink")·[나고야 시 교통국](https://ko.wikipedia.org/wiki/나고야_시_교통국 "wikilink") 등 교통 사업자가 [manaca](https://ko.wikipedia.org/wiki/manaca "wikilink")를 도입한 철도 및 버스에서도 일부 구간을 제외한 이용 가능하다.
+JR 도카이에서는 다음의 노선·구간에서 이용 가능(TOICA 지역)하며, [나고야 철도](../Page/나고야_철도.md "wikilink")·[나고야 시 교통국](https://ko.wikipedia.org/wiki/나고야_시_교통국 "wikilink") 등 교통 사업자가 [manaca](https://ko.wikipedia.org/wiki/manaca "wikilink")를 도입한 철도 및 버스에서도 일부 구간을 제외한 이용 가능하다.
 
   - [간사이 본선](https://ko.wikipedia.org/wiki/간사이_본선 "wikilink")
-      - [나고야 역](https://ko.wikipedia.org/wiki/나고야_역 "wikilink") - [욧카이치 역](https://ko.wikipedia.org/wiki/욧카이치_역 "wikilink") 간
-  - [고텐바 선](https://ko.wikipedia.org/wiki/고텐바_선 "wikilink")
-      - [고텐바 역](https://ko.wikipedia.org/wiki/고텐바_역 "wikilink") - [누마즈 역](https://ko.wikipedia.org/wiki/누마즈_역 "wikilink") 간
-  - [다카야마 본선](https://ko.wikipedia.org/wiki/다카야마_본선 "wikilink")
-      - [기후 역](https://ko.wikipedia.org/wiki/기후_역 "wikilink") - [미노오타 역](https://ko.wikipedia.org/wiki/미노오타_역 "wikilink") 간
-  - [다케토요 선](https://ko.wikipedia.org/wiki/다케토요_선 "wikilink")
-      - [오부 역](https://ko.wikipedia.org/wiki/오부_역 "wikilink") - [다케토요 역](../Page/다케토요_역.md "wikilink") (전구간)
-  - [다이타 선](https://ko.wikipedia.org/wiki/다이타_선 "wikilink")
-      - [미노오타 역](https://ko.wikipedia.org/wiki/미노오타_역 "wikilink") - [다지미 역](https://ko.wikipedia.org/wiki/다지미_역 "wikilink") (전구간)
-  - [도카이도 본선](https://ko.wikipedia.org/wiki/도카이도_본선 "wikilink")
-      - [간나미 역](https://ko.wikipedia.org/wiki/간나미_역 "wikilink") - [세키가하라 역](https://ko.wikipedia.org/wiki/세키가하라_역 "wikilink") 간, [오가키 역](https://ko.wikipedia.org/wiki/오가키_역 "wikilink") - [미노아카사카 역](https://ko.wikipedia.org/wiki/미노아카사카_역 "wikilink") 간(미노아카사카 지선)에서는 이용할 수 없다. 또한 JR 그룹 타사와의 경계 부근의 [아타미 역](https://ko.wikipedia.org/wiki/아타미_역 "wikilink") - [간나미 역](https://ko.wikipedia.org/wiki/간나미_역 "wikilink")·[세키가하라 역](https://ko.wikipedia.org/wiki/세키가하라_역 "wikilink") - [마이바라 역](https://ko.wikipedia.org/wiki/마이바라_역 "wikilink") 사이도 이용할 수 없으므로 주의가 필요하다.
-  - [미노부 선](https://ko.wikipedia.org/wiki/미노부_선 "wikilink")
-      - [후지 역](https://ko.wikipedia.org/wiki/후지_역 "wikilink") - [니시후지노미야 역](https://ko.wikipedia.org/wiki/니시후지노미야_역 "wikilink") 간
-  - [이다 선](https://ko.wikipedia.org/wiki/이다_선 "wikilink")
-      - [도요하시 역](https://ko.wikipedia.org/wiki/도요하시_역 "wikilink") - [도요카와 역](https://ko.wikipedia.org/wiki/도요카와_역 "wikilink") 간
-  - [주오 본선](https://ko.wikipedia.org/wiki/주오_본선 "wikilink")
-      - [나고야 역](https://ko.wikipedia.org/wiki/나고야_역 "wikilink") - [나카쓰가와 역](https://ko.wikipedia.org/wiki/나카쓰가와_역 "wikilink") 간
+      - [나고야 역](../Page/나고야_역.md "wikilink") - [욧카이치 역](../Page/욧카이치_역.md "wikilink") 간
+  - [고텐바 선](../Page/고텐바_선.md "wikilink")
+      - [고텐바 역](../Page/고텐바_역.md "wikilink") - [누마즈 역](../Page/누마즈_역.md "wikilink") 간
+  - [다카야마 본선](../Page/다카야마_본선.md "wikilink")
+      - [기후 역](../Page/기후_역.md "wikilink") - [미노오타 역](../Page/미노오타_역.md "wikilink") 간
+  - [다케토요 선](../Page/다케토요_선.md "wikilink")
+      - [오부 역](../Page/오부_역.md "wikilink") - [다케토요 역](../Page/다케토요_역.md "wikilink") (전구간)
+  - [다이타 선](../Page/다이타_선.md "wikilink")
+      - [미노오타 역](../Page/미노오타_역.md "wikilink") - [다지미 역](../Page/다지미_역.md "wikilink") (전구간)
+  - [도카이도 본선](../Page/도카이도_본선.md "wikilink")
+      - [간나미 역](../Page/간나미_역.md "wikilink") - [세키가하라 역](../Page/세키가하라_역.md "wikilink") 간, [오가키 역](../Page/오가키_역.md "wikilink") - [미노아카사카 역](../Page/미노아카사카_역.md "wikilink") 간(미노아카사카 지선)에서는 이용할 수 없다. 또한 JR 그룹 타사와의 경계 부근의 [아타미 역](../Page/아타미_역.md "wikilink") - [간나미 역](../Page/간나미_역.md "wikilink")·[세키가하라 역](../Page/세키가하라_역.md "wikilink") - [마이바라 역](../Page/마이바라_역.md "wikilink") 사이도 이용할 수 없으므로 주의가 필요하다.
+  - [미노부 선](../Page/미노부_선.md "wikilink")
+      - [후지 역](../Page/후지_역.md "wikilink") - [니시후지노미야 역](../Page/니시후지노미야_역.md "wikilink") 간
+  - [이다 선](../Page/이다_선.md "wikilink")
+      - [도요하시 역](../Page/도요하시_역.md "wikilink") - [도요카와 역](https://ko.wikipedia.org/wiki/도요카와_역 "wikilink") 간
+  - [주오 본선](../Page/주오_본선.md "wikilink")
+      - [나고야 역](../Page/나고야_역.md "wikilink") - [나카쓰가와 역](../Page/나카쓰가와_역.md "wikilink") 간
 
 ## 상호 이용
 
@@ -40,12 +40,12 @@ JR 도카이에서는 다음의 노선·구간에서 이용 가능(TOICA 지역)
 
   - [manaca](https://ko.wikipedia.org/wiki/manaca "wikilink")
   - [PASMO](../Page/PASMO.md "wikilink")
-  - [Suica](https://ko.wikipedia.org/wiki/Suica "wikilink")
+  - [Suica](../Page/Suica.md "wikilink")
   - [ICOCA](https://ko.wikipedia.org/wiki/ICOCA "wikilink")
   - [PiTaPa](https://ko.wikipedia.org/wiki/PiTaPa "wikilink")
   - [Kitaca](../Page/Kitaca.md "wikilink")
-  - [SUGOCA](https://ko.wikipedia.org/wiki/SUGOCA "wikilink")
-  - [티머니](https://ko.wikipedia.org/wiki/티머니 "wikilink")
+  - [SUGOCA](../Page/SUGOCA.md "wikilink")
+  - [티머니](../Page/티머니.md "wikilink")
 
 ## 외부 링크
 

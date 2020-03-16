@@ -6,7 +6,7 @@
 | "[1973](https://ko.wikipedia.org/wiki/1973_\(노래\) "wikilink")" |
 |                                                                |
 
-***All the Lost Souls***은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 싱어송라이터 [제임스 블런트의](https://ko.wikipedia.org/wiki/제임스_블런트 "wikilink") 두 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+***All the Lost Souls***은 [영국](../Page/영국.md "wikilink")의 싱어송라이터 [제임스 블런트의](../Page/제임스_블런트.md "wikilink") 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 수록곡
 
@@ -158,7 +158,7 @@
 | Portuguese Albums Chart\[45\]                                              | [AFP](https://ko.wikipedia.org/wiki/Agence_France-Presse "wikilink")                                                                                                                 | 9     |                   |               |
 | 영국 음반 차트\[46\]                                                             | [BPI](https://ko.wikipedia.org/wiki/BPI "wikilink")                                                                                                                                  | 1     | 2x 플래티넘           | 633,000       |
 | 유럽 음반 차트\[47\]                                                             | [IFPI](https://ko.wikipedia.org/wiki/International_Federation_of_the_Phonographic_Industry "wikilink")                                                                               | 1     | 플래티넘\[48\]        | 1,000,000     |
-| 미국 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink")\[49\]       | [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")                                                                                                                                  | 7     | 골드                | 500,000\[50\] |
+| 미국 [빌보드 200](../Page/빌보드_200.md "wikilink")\[49\]                          | [빌보드](../Page/빌보드.md "wikilink")                                                                                                                                                     | 7     | 골드                | 500,000\[50\] |
 
 ### 연말 차트
 

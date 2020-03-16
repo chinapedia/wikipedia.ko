@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TOWN AGE](https://ko.wikipedia.org/wiki/TOWN_AGE).
 
 
-《**TOWN AGE**》는 2013년 7월 24일 미라이 레코드에서 발매된 [소타이세이리론](https://ko.wikipedia.org/wiki/소타이세이리론 "wikilink")의 다섯번째 앨범이다.
+《**TOWN AGE**》는 2013년 7월 24일 미라이 레코드에서 발매된 [소타이세이리론](../Page/소타이세이리론.md "wikilink")의 다섯번째 앨범이다.
 
 ## 수록곡
 

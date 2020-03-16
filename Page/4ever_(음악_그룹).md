@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [4ever \( \)](https://ko.wikipedia.org/wiki/4ever_\(_\)).
 
 
-**4ever**는 [주자 엔터테인먼트](https://ko.wikipedia.org/wiki/주자_엔터테인먼트 "wikilink") 소속의 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink") 4인조 남성 음악 그룹이다.
+**4ever**는 [주자 엔터테인먼트](https://ko.wikipedia.org/wiki/주자_엔터테인먼트 "wikilink") 소속의 [중화민국](../Page/중화민국.md "wikilink") 4인조 남성 음악 그룹이다.
 
 ## 구성원
 

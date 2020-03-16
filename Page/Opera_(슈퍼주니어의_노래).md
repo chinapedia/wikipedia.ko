@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Opera \( \)](https://ko.wikipedia.org/wiki/Opera_\(_\)).
 
 
-《**Opera**》는 그룹 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")가 일본에서 발매한 3번째 싱글이다.
+《**Opera**》는 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")가 일본에서 발매한 3번째 싱글이다.
 
 ## 개요
 
-  - [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink") 정규 5집 수록곡〈오페라 (Opera)〉의 번안곡이다.
+  - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") 정규 5집 수록곡〈오페라 (Opera)〉의 번안곡이다.
 
 ## 수록곡
 
