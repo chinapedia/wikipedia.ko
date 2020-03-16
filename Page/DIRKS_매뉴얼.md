@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DIRKS ](https://ko.wikipedia.org/wiki/DIRKS_).
 
 
-**DIRKS 매뉴얼**(, DIRKS manual)은 1996년 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink") [뉴사우스웨일스주](https://ko.wikipedia.org/wiki/뉴사우스웨일스주 "wikilink")의 보존기록담당부서가 진행한 전자기록관리프로젝트를 통해 개발되기 시작하였고, 이후 호주국립보존기록관(NAA)과 협력하여 2000년에 발표되었다.
+**DIRKS 매뉴얼**(, DIRKS manual)은 1996년 [오스트레일리아](../Page/오스트레일리아.md "wikilink") [뉴사우스웨일스주](../Page/뉴사우스웨일스주.md "wikilink")의 보존기록담당부서가 진행한 전자기록관리프로젝트를 통해 개발되기 시작하였고, 이후 호주국립보존기록관(NAA)과 협력하여 2000년에 발표되었다.
 
 기록관리시스템의 설계와 실행을 위한 구체적인 지침을 담고있다. 매뉴얼은 사용설명서가 나와있는 1부와 각각의 단계에 대한 상세한 내용을 다루고 있는 2부로 나누어진다. 그 외에 각 단계별 분석 결과를 도큐멘테이션 할 수 있는 템플릿을 포함하여 단계별 수행에 필요한 도구들이 상세하게 제시되고 있다.\[1\]
 

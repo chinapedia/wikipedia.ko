@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Kontsert](https://ko.wikipedia.org/wiki/Kontsert).
 
 
-《**Kontsert**》(러시아어: 《**Концерт**》, 일반적으로 《**Kohupt**》, 영어: Concert)는 [빌리 조엘이](https://ko.wikipedia.org/wiki/빌리_조엘 "wikilink") 1987년에 발매한 두 번째 라이브 음반이다. 이 음반은 조엘의 1987년 《[The Bridge](https://ko.wikipedia.org/wiki/The_Bridge "wikilink")》 투어의 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink") 구간에서 녹음되었다. 이 음반은 짐 보이어와 브라이언 러글스가 공동 프로듀싱했고, 짐 보이어도 함께 혼합되었다.
+《**Kontsert**》(러시아어: 《**Концерт**》, 일반적으로 《**Kohupt**》, 영어: Concert)는 [빌리 조엘이](../Page/빌리_조엘.md "wikilink") 1987년에 발매한 두 번째 라이브 음반이다. 이 음반은 조엘의 1987년 《[The Bridge](https://ko.wikipedia.org/wiki/The_Bridge "wikilink")》 투어의 [소련](../Page/소련.md "wikilink") 구간에서 녹음되었다. 이 음반은 짐 보이어와 브라이언 러글스가 공동 프로듀싱했고, 짐 보이어도 함께 혼합되었다.
 
 ## 배경
 
-[냉전](https://ko.wikipedia.org/wiki/냉전 "wikilink") 기간 동안 록 음악은 소련 문화로 간주되지 않았기 때문에 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")에서 허용되지 않았다. 그러나 1987년 [미하일 고르바초프가](https://ko.wikipedia.org/wiki/미하일_고르바초프 "wikilink") [글라스노스트](https://ko.wikipedia.org/wiki/글라스노스트 "wikilink")(소련의 개방 정책)를 실시하게 됨에 따라 [크렘린은](https://ko.wikipedia.org/wiki/모스크바_크렘린 "wikilink") 1986년 빌리 조엘을 소련에서 공연하도록 초청했다.\[1\] 빌리 조엘은 역사 애호가로서 이것이 냉전 역사에 영향을 미칠 것을 알고 이 기회를 이용했다.\[2\] 그는 "미국 '팝 스타'를 데려 오기 위한 좋고, 안전하고, 첫 번째 시도"로 여겨졌다."\[3\]
+[냉전](../Page/냉전.md "wikilink") 기간 동안 록 음악은 소련 문화로 간주되지 않았기 때문에 [소련](../Page/소련.md "wikilink")에서 허용되지 않았다. 그러나 1987년 [미하일 고르바초프가](../Page/미하일_고르바초프.md "wikilink") [글라스노스트](https://ko.wikipedia.org/wiki/글라스노스트 "wikilink")(소련의 개방 정책)를 실시하게 됨에 따라 [크렘린은](../Page/모스크바_크렘린.md "wikilink") 1986년 빌리 조엘을 소련에서 공연하도록 초청했다.\[1\] 빌리 조엘은 역사 애호가로서 이것이 냉전 역사에 영향을 미칠 것을 알고 이 기회를 이용했다.\[2\] 그는 "미국 '팝 스타'를 데려 오기 위한 좋고, 안전하고, 첫 번째 시도"로 여겨졌다."\[3\]
 
 ## 곡 목록
 
@@ -50,8 +50,8 @@
 7.  "[You May Be Right](https://ko.wikipedia.org/wiki/You_May_Be_Right "wikilink")" – 5:35
 8.  "[Uptown Girl](https://ko.wikipedia.org/wiki/Uptown_Girl "wikilink")" – 3:09
 9.  "[Big Shot](https://ko.wikipedia.org/wiki/Big_Shot_\(노래\) "wikilink")" – 4:54
-10. "[Back in the U.S.S.R.](https://ko.wikipedia.org/wiki/Back_in_the_U.S.S.R. "wikilink")" ([레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink")) – 2:55
-11. "The Times They Are A-Changin'" ([밥 딜런](https://ko.wikipedia.org/wiki/밥_딜런 "wikilink")) – 2:38
+10. "[Back in the U.S.S.R.](https://ko.wikipedia.org/wiki/Back_in_the_U.S.S.R. "wikilink")" ([레논-매카트니](../Page/레논-매카트니.md "wikilink")) – 2:55
+11. "The Times They Are A-Changin'" ([밥 딜런](../Page/밥_딜런.md "wikilink")) – 2:38
 12. "[She Loves You](../Page/She_Loves_You.md "wikilink")" (레논-매카트니) (Russian concerts rehearsal recording) – 2:24
 13. "[New York State of Mind](../Page/New_York_State_of_Mind.md "wikilink")" (Russian concerts rehearsal recording) – 6:22
 14. "[Piano Man](../Page/Piano_Man_\(노래\).md "wikilink")" – 4:25
@@ -85,11 +85,11 @@
 
 ## 곡에 참여한 사람들
 
-  - [빌리 조엘](https://ko.wikipedia.org/wiki/빌리_조엘 "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [전기 기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink")
+  - [빌리 조엘](../Page/빌리_조엘.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [전기 기타](../Page/전기_기타.md "wikilink")
   - 리버티 드비토 – [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")
-  - 도그 스테그메이어 – [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 전기 업라이트 베이스
+  - 도그 스테그메이어 – [베이스](../Page/베이스_기타.md "wikilink"), 전기 업라이트 베이스
   - 데이브 레볼트 – [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink")
-  - 러셀 자버스 – [어쿠스틱 기타](https://ko.wikipedia.org/wiki/통기타 "wikilink"), [전기 기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink"), 코러스
+  - 러셀 자버스 – [어쿠스틱 기타](../Page/통기타.md "wikilink"), [전기 기타](../Page/전기_기타.md "wikilink"), 코러스
   - 마크 리베라 – [바리톤 색소폰](https://ko.wikipedia.org/wiki/바리톤_색소폰 "wikilink"), [알토 색소폰](https://ko.wikipedia.org/wiki/알토_색소폰 "wikilink"), 코러스, 키보드, [탬버린](https://ko.wikipedia.org/wiki/탬버린 "wikilink"), 리리콘
   - 케빈 듀크스 – 전기 기타, 어쿠스틱 기타
   - 피터 휼렛 – 코러스, 퍼커션
@@ -101,10 +101,10 @@
 | -------------------------------------------------------------------- | -- |
 | [켄트 뮤직 리포트](https://ko.wikipedia.org/wiki/켄트_뮤직_리포트 "wikilink")\[5\] | 10 |
 | [메하하르츠](../Page/메하하르츠.md "wikilink")\[6\]                            | 39 |
-| [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink")\[7\]             | 16 |
+| [오리콘](../Page/오리콘.md "wikilink")\[7\]                                | 16 |
 | 뉴질랜드 음반 차트\[8\]                                                      | 13 |
 | [영국 음반 차트](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink")\[9\]   | 92 |
-| [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink")          | 38 |
+| [빌보드 200](../Page/빌보드_200.md "wikilink")                             | 38 |
 
 ### 인증
 

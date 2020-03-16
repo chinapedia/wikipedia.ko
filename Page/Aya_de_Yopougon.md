@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Aya de Yopougon](https://ko.wikipedia.org/wiki/Aya_de_Yopougon).
 
 
-**Aya de Yopougon**(요푸공의 아야)는 Marguerite Abouet, Clément Oubrerie 그리고 Gallimard가 각자 각본, 그림, 편집을 맡은 만화 시리즈 중 하나이다. 이 시리즈는 Aurochenille Production사에 의하여 긴 길이의 [애니매이션](https://ko.wikipedia.org/wiki/애니매이션 "wikilink")으로 각색되었다. Aya de Yopougon(요푸공의 아야, [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")에서는 ‘아야의 밤엔 사랑이 필요해’로 개봉되었다.), 2013년 7월 17일 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink") 개봉.
+**Aya de Yopougon**(요푸공의 아야)는 Marguerite Abouet, Clément Oubrerie 그리고 Gallimard가 각자 각본, 그림, 편집을 맡은 만화 시리즈 중 하나이다. 이 시리즈는 Aurochenille Production사에 의하여 긴 길이의 [애니매이션](https://ko.wikipedia.org/wiki/애니매이션 "wikilink")으로 각색되었다. Aya de Yopougon(요푸공의 아야, [한국](../Page/한국.md "wikilink")에서는 ‘아야의 밤엔 사랑이 필요해’로 개봉되었다.), 2013년 7월 17일 [프랑스](../Page/프랑스.md "wikilink") 개봉.
 
 ## 줄거리
 
-1978년대의 젊은이들의 성지였던 [코트디부아르](https://ko.wikipedia.org/wiki/코트디부아르 "wikilink")의 경제수도, [아비장](https://ko.wikipedia.org/wiki/아비장 "wikilink")에서 더운 지역인 요푸공에 사는 아야는 19살의 어린 소녀이지만 파란만장한 이야기의 여주인공이다. 
+1978년대의 젊은이들의 성지였던 [코트디부아르](../Page/코트디부아르.md "wikilink")의 경제수도, [아비장](../Page/아비장.md "wikilink")에서 더운 지역인 요푸공에 사는 아야는 19살의 어린 소녀이지만 파란만장한 이야기의 여주인공이다. 
 
-1970년대 말, 미국영화처럼 보이기 위해 Yop City라고 다시 이름 붙여진, 요푸공에는 Aya와 그녀의 두 친구들 아주아와 방투가 살고 있었다. 그녀들은 19살이다, 아야는 [의사](https://ko.wikipedia.org/wiki/의사 "wikilink")가 되기를 원하지만, 나머지 둘은 난잡한 파티만을 좋아하고 남자 쫓기에만 관심이 있다. 이 셋 주위에 각자 다른 다양한 운명이 드리우고 있다.  
+1970년대 말, 미국영화처럼 보이기 위해 Yop City라고 다시 이름 붙여진, 요푸공에는 Aya와 그녀의 두 친구들 아주아와 방투가 살고 있었다. 그녀들은 19살이다, 아야는 [의사](../Page/의사.md "wikilink")가 되기를 원하지만, 나머지 둘은 난잡한 파티만을 좋아하고 남자 쫓기에만 관심이 있다. 이 셋 주위에 각자 다른 다양한 운명이 드리우고 있다.  
 
 ## 등장인물
 

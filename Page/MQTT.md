@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MQTT](https://ko.wikipedia.org/wiki/MQTT).
 
 
-**MQTT**\[1\](메시지 큐잉 텔레메트리 트랜스포트, Message Queuing Telemetry Transport)는 [ISO 표준](https://ko.wikipedia.org/wiki/국제_표준화_기구 "wikilink")(ISO/IEC PRF 20922)\[2\] [발행-구독](https://ko.wikipedia.org/wiki/발행-구독_모델 "wikilink") 기반의 메시징 프로토콜이다. [TCP/IP 프로토콜](https://ko.wikipedia.org/wiki/인터넷_프로토콜_스위트 "wikilink") 위에서 동작한다. "작은 코드 공간"(small code footprint)이 필요하거나 네트워크 대역폭이 제한되는 원격 위치와의 연결을 위해 설계되어 있다. [발행-구독 메시징 패턴은](https://ko.wikipedia.org/wiki/발행-구독_모델 "wikilink") [메시지 브로커가](https://ko.wikipedia.org/wiki/메시지_브로커 "wikilink") 필요하다.
+**MQTT**\[1\](메시지 큐잉 텔레메트리 트랜스포트, Message Queuing Telemetry Transport)는 [ISO 표준](../Page/국제_표준화_기구.md "wikilink")(ISO/IEC PRF 20922)\[2\] [발행-구독](../Page/발행-구독_모델.md "wikilink") 기반의 메시징 프로토콜이다. [TCP/IP 프로토콜](../Page/인터넷_프로토콜_스위트.md "wikilink") 위에서 동작한다. "작은 코드 공간"(small code footprint)이 필요하거나 네트워크 대역폭이 제한되는 원격 위치와의 연결을 위해 설계되어 있다. [발행-구독 메시징 패턴은](../Page/발행-구독_모델.md "wikilink") [메시지 브로커가](https://ko.wikipedia.org/wiki/메시지_브로커 "wikilink") 필요하다.
 
-[IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")의 [앤디 스탠퍼드 클락과](https://ko.wikipedia.org/wiki/앤디_스탠퍼드_클락 "wikilink") 시러스 링크의 알렌 니퍼(Arlen Nipper)가 1999년 이 프로토콜의 최초 버전을 만들었다.\[3\]
+[IBM](../Page/IBM.md "wikilink")의 [앤디 스탠퍼드 클락과](https://ko.wikipedia.org/wiki/앤디_스탠퍼드_클락 "wikilink") 시러스 링크의 알렌 니퍼(Arlen Nipper)가 1999년 이 프로토콜의 최초 버전을 만들었다.\[3\]
 
-2013년, IBM은 MQTT v3.1을 [OASIS](../Page/OASIS_\(기관\).md "wikilink") 표준화 단체에 제출하였다.\[4\] MQTT-SN\[5\]은 [직비](https://ko.wikipedia.org/wiki/직비 "wikilink")와 같은 비 TCP/IP 네트워크의 임베디드 장치에 초점을 둔 메인 프로토콜의 일종이다.
+2013년, IBM은 MQTT v3.1을 [OASIS](../Page/OASIS_\(기관\).md "wikilink") 표준화 단체에 제출하였다.\[4\] MQTT-SN\[5\]은 [직비](../Page/직비.md "wikilink")와 같은 비 TCP/IP 네트워크의 임베디드 장치에 초점을 둔 메인 프로토콜의 일종이다.
 
 역사적으로, MQTT의 MQ는 [IBM 웹스피어 MQ](../Page/IBM_웹스피어_MQ.md "wikilink")(당시 'MQSeries') [메시지 큐](https://ko.wikipedia.org/wiki/메시지_큐 "wikilink") 제품 계열에서 비롯된 것이다.\[6\] 그러나 모든 상황에서 표준 기능으로서 큐잉 그 자체를 지원하는 것은 필수가 아니다.\[7\]
 
@@ -17,7 +17,7 @@
 
 ### 연결 끊기
 
-MQTT 클라이언트가 해야 할 일을 기다리고 [인터넷 프로토콜 스위트](https://ko.wikipedia.org/wiki/인터넷_프로토콜_스위트 "wikilink") 세션의 연결이 끊어지기를 기다린다.
+MQTT 클라이언트가 해야 할 일을 기다리고 [인터넷 프로토콜 스위트](../Page/인터넷_프로토콜_스위트.md "wikilink") 세션의 연결이 끊어지기를 기다린다.
 
 ### 발행하기
 

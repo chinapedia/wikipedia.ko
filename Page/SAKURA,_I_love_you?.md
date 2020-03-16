@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SAKURA, I love you\?](https://ko.wikipedia.org/wiki/SAKURA,_I_love_you\?).
 
 
-〈**SAKURA, I love you?**〉(사쿠라, 아이 러브 유?)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [니시노 카나의](https://ko.wikipedia.org/wiki/니시노_카나 "wikilink") 16번째 [싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"), [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 7일에](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") 발매되었다. 전작 〈[설령 그 아무리...](https://ko.wikipedia.org/wiki/설령_그_아무리... "wikilink")〉에서 약 4개월 만의 싱글이며, 표제곡 〈**SAKURA, I love you?**〉는 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink") [워크맨](https://ko.wikipedia.org/wiki/워크맨 "wikilink")의 광고 음악으로도 사용되었다.
+〈**SAKURA, I love you?**〉(사쿠라, 아이 러브 유?)는 [일본](../Page/일본.md "wikilink")의 여성 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [니시노 카나의](../Page/니시노_카나.md "wikilink") 16번째 [싱글로](../Page/싱글_\(음악\).md "wikilink"), [2012년](../Page/2012년.md "wikilink") [3월 7일에](../Page/3월_7일.md "wikilink") 발매되었다. 전작 〈[설령 그 아무리...](../Page/설령_그_아무리....md "wikilink")〉에서 약 4개월 만의 싱글이며, 표제곡 〈**SAKURA, I love you?**〉는 [소니](../Page/소니.md "wikilink") [워크맨](../Page/워크맨.md "wikilink")의 광고 음악으로도 사용되었다.
 
 ## 수록곡
 

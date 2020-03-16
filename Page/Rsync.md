@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Rsync](https://ko.wikipedia.org/wiki/Rsync).
 
 
-**rsync**는 컴퓨터 시스템 상에서 파일을 효율적으로 전송하고 동기화하기 위한 유틸리티의 하나로, 파일의 타임스탬프와 크기를 검사함으로써 이루어진다.\[1\] [파일 동기화와](https://ko.wikipedia.org/wiki/파일_동기화 "wikilink") [파일 전송](https://ko.wikipedia.org/wiki/파일_전송 "wikilink") 프로그램으로 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 시스템과 함수에서 흔히 볼 수 있다. rsync 알고리즘은 [델타 인코딩의](https://ko.wikipedia.org/wiki/델타_인코딩 "wikilink") 일종이며 네트워크 이용률을 최소화하기 위해 사용된다. [Zlib](https://ko.wikipedia.org/wiki/Zlib "wikilink")을 사용하여 추가적인 [데이터 압축을](https://ko.wikipedia.org/wiki/데이터_압축 "wikilink") 하는데 사용할 수 있으며,\[2\] [SSH이나](https://ko.wikipedia.org/wiki/시큐어_셸 "wikilink") [stunnel](https://ko.wikipedia.org/wiki/stunnel "wikilink")은 데이터 보안을 위해 사용할 수 있다.
+**rsync**는 컴퓨터 시스템 상에서 파일을 효율적으로 전송하고 동기화하기 위한 유틸리티의 하나로, 파일의 타임스탬프와 크기를 검사함으로써 이루어진다.\[1\] [파일 동기화와](https://ko.wikipedia.org/wiki/파일_동기화 "wikilink") [파일 전송](https://ko.wikipedia.org/wiki/파일_전송 "wikilink") 프로그램으로 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 시스템과 함수에서 흔히 볼 수 있다. rsync 알고리즘은 [델타 인코딩의](https://ko.wikipedia.org/wiki/델타_인코딩 "wikilink") 일종이며 네트워크 이용률을 최소화하기 위해 사용된다. [Zlib](../Page/Zlib.md "wikilink")을 사용하여 추가적인 [데이터 압축을](../Page/데이터_압축.md "wikilink") 하는데 사용할 수 있으며,\[2\] [SSH이나](../Page/시큐어_셸.md "wikilink") [stunnel](https://ko.wikipedia.org/wiki/stunnel "wikilink")은 데이터 보안을 위해 사용할 수 있다.
 
 Rsync는 일반적으로 서로 다른 두 개의 시스템 간에 파일과 디렉터리를 동기화하기 위해 사용된다. 이를테면 `rsync local-file user@remote-host:remote-file`를 사용하면 rsync는 SSH를 사용하여 `user` 자격으로 `remote-host`에 접속하게 된다.\[3\] 연결이 되면 원격 호스트의 rsync를 호출한 다음 두 개의 프로그램이 전송이 필요한 로컬 파일의 일부를 결정함으로써 원격 파일이 로컬 파일과 일치할 수 있게 된다.
 
-Rsync는 [데몬](https://ko.wikipedia.org/wiki/데몬_\(컴퓨팅\) "wikilink") 모드로도 동작이 가능하며 네이티브 rsync 프로토콜로 파일을 서비스하고 수신할 수 있다. ("<rsync://>" 문법 사용).
+Rsync는 [데몬](../Page/데몬_\(컴퓨팅\).md "wikilink") 모드로도 동작이 가능하며 네이티브 rsync 프로토콜로 파일을 서비스하고 수신할 수 있다. ("<rsync://>" 문법 사용).
 
-[GNU GPLv](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink")3로 배포되었다.\[4\]\[5\]\[6\]\[7\]
+[GNU GPLv](../Page/GNU_일반_공중_사용_허가서.md "wikilink")3로 배포되었다.\[4\]\[5\]\[6\]\[7\]
 
 ## rsync 응용 프로그램
 

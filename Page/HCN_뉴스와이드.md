@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HCN ](https://ko.wikipedia.org/wiki/HCN_).
 
 
-《**HCN 뉴스와이드**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 케이블 방송사인 [현대HCN](https://ko.wikipedia.org/wiki/현대HCN "wikilink")의 뉴스 프로그램이다.
+《**HCN 뉴스와이드**》는 [대한민국](../Page/대한민국.md "wikilink") 케이블 방송사인 [현대HCN](../Page/현대HCN.md "wikilink")의 뉴스 프로그램이다.
 
 ## 방송시간
 
@@ -94,7 +94,7 @@
 
 ## 관련 항목
 
-  - [현대HCN](https://ko.wikipedia.org/wiki/현대HCN "wikilink")
+  - [현대HCN](../Page/현대HCN.md "wikilink")
   - [뉴스와이드](https://ko.wikipedia.org/wiki/뉴스와이드 "wikilink")
 
 ## 외부 링크

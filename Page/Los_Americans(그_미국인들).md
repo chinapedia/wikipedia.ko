@@ -23,7 +23,7 @@ Los Americans(그 미국인들)은 [로스 엔젤레스에](https://ko.wikipedia
 
 ## 줄거리
 
-Valenzuela(발렌주엘라) 가족은 오늘날 실업, [문화적 정체성](../Page/문화적_정체성.md "wikilink"), [알코올중독](https://ko.wikipedia.org/wiki/알코올중독 "wikilink")을 포함하여 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 가정들이 직면하고 있는 많은 문제들을 다룹니다.\[2\]
+Valenzuela(발렌주엘라) 가족은 오늘날 실업, [문화적 정체성](../Page/문화적_정체성.md "wikilink"), [알코올중독](https://ko.wikipedia.org/wiki/알코올중독 "wikilink")을 포함하여 [미국](../Page/미국.md "wikilink") 가정들이 직면하고 있는 많은 문제들을 다룹니다.\[2\]
 
 <table>
 <thead>

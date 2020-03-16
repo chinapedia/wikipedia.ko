@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Unplugged \(  \)](https://ko.wikipedia.org/wiki/Unplugged_\(__\)).
 
 
-《**Unplugged**》는 1992년 [에릭 클랩튼의](https://ko.wikipedia.org/wiki/에릭_클랩튼 "wikilink") 음반으로, 영국 브레이 스튜디오에서 [MTV 언플러그드의](https://ko.wikipedia.org/wiki/MTV_언플러그드 "wikilink") 관객들 앞에서 녹음했다.\[1\] 1991년 싱글 〈[Tears in Heaven](../Page/Tears_in_Heaven.md "wikilink")〉과 어쿠스틱 버전인 〈[Layla](../Page/Layla.md "wikilink")〉를 포함한다. 1993년 제35회 그래미상 시상식에서 두 개의 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")을 수상했으며, 전 세계에서 2천6백만 장의 라이브 음반을 판매하며 클랩튼의 베스트셀러가 되었다.\[2\]\[3\]
+《**Unplugged**》는 1992년 [에릭 클랩튼의](../Page/에릭_클랩튼.md "wikilink") 음반으로, 영국 브레이 스튜디오에서 [MTV 언플러그드의](https://ko.wikipedia.org/wiki/MTV_언플러그드 "wikilink") 관객들 앞에서 녹음했다.\[1\] 1991년 싱글 〈[Tears in Heaven](../Page/Tears_in_Heaven.md "wikilink")〉과 어쿠스틱 버전인 〈[Layla](../Page/Layla.md "wikilink")〉를 포함한다. 1993년 제35회 그래미상 시상식에서 두 개의 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")을 수상했으며, 전 세계에서 2천6백만 장의 라이브 음반을 판매하며 클랩튼의 베스트셀러가 되었다.\[2\]\[3\]
 
 ## 녹음
 
@@ -11,7 +11,7 @@
 
 ## 상업 실적
 
-[독일](https://ko.wikipedia.org/wiki/독일 "wikilink")에서 이 음반은 [독일 음반 차트에서](https://ko.wikipedia.org/wiki/독일_음반_차트 "wikilink") 3위로 정점을 찍었고 총 125만 장이 팔리면서 [독일에서 가장 많이 팔린 음반](../Page/독일에서_가장_많이_팔린_음반_목록.md "wikilink") 중 하나가 되었다. [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")에서는 《Unpluged》가 [오스트리아 음반 차트에서](https://ko.wikipedia.org/wiki/오스트리아_음반_차트 "wikilink") 46주 동안 자체적으로 보유했으며, 총 10만 장 이상이 팔렸다. [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")에서도 이 음반은 그 나라의 차트에서 3위에 올랐다. 첫 2주 동안 6만장이 팔린 이 라이브 음반은 [영국 축음기 협회에](https://ko.wikipedia.org/wiki/영국_축음기_협회 "wikilink") 의해 실버로 인증되었다.\[8\] [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 그 음반은 1위로 정점을 찍었다.
+[독일](../Page/독일.md "wikilink")에서 이 음반은 [독일 음반 차트에서](https://ko.wikipedia.org/wiki/독일_음반_차트 "wikilink") 3위로 정점을 찍었고 총 125만 장이 팔리면서 [독일에서 가장 많이 팔린 음반](../Page/독일에서_가장_많이_팔린_음반_목록.md "wikilink") 중 하나가 되었다. [오스트리아](../Page/오스트리아.md "wikilink")에서는 《Unpluged》가 [오스트리아 음반 차트에서](https://ko.wikipedia.org/wiki/오스트리아_음반_차트 "wikilink") 46주 동안 자체적으로 보유했으며, 총 10만 장 이상이 팔렸다. [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")에서도 이 음반은 그 나라의 차트에서 3위에 올랐다. 첫 2주 동안 6만장이 팔린 이 라이브 음반은 [영국 축음기 협회에](https://ko.wikipedia.org/wiki/영국_축음기_협회 "wikilink") 의해 실버로 인증되었다.\[8\] [미국](../Page/미국.md "wikilink")에서 그 음반은 1위로 정점을 찍었다.
 
 ## 재발매
 

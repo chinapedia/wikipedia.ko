@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
 
 
-**UEFA 유로파 컨퍼런스리그**(UEFA Europa Conference League)는 2021년에 출범할 예정인 [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")(UEFA)의 축구 클럽 대회이다. 2021-22 시즌에 첫 시즌이 열릴 예정이며 [UEFA 챔피언스리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그 "wikilink"), [UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 다음으로 3번째에 해당하는 축구 클럽 대회가 될 예정이다.
+**UEFA 유로파 컨퍼런스리그**(UEFA Europa Conference League)는 2021년에 출범할 예정인 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)의 축구 클럽 대회이다. 2021-22 시즌에 첫 시즌이 열릴 예정이며 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink"), [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 다음으로 3번째에 해당하는 축구 클럽 대회가 될 예정이다.
 
 이 대회는 하위권 UEFA 회원국의 축구 클럽들에 중점을 맞춘 것이 특징이다. 각국 축구 협회의 리그, 컵 대회 성적에 따라 참가 팀이 결정되며 32개 클럽이 참가할 예정이다. UEFA 유로파 컨퍼런스리그가 출범하면 UEFA 유로파리그 조별 예선에 참가하는 팀 수가 48개 팀에서 32개 팀으로 축소된다.
 
@@ -17,7 +17,7 @@ UEFA는 2018년 12월 2일에 보다 많은 축구 클럽과 축구 협회들이
 
 UEFA 유로파 컨퍼런스리그의 예선은 UEFA 챔피언스리그와 마찬가지로 챔피언 경로와 리그 경로로 나뉜다. 챔피언스리그 예선과는 달리 챔피언 경로는 챔피언스리그 예선에서 패배한 팀들만 참가하며 결과적으로는 유로파 컨퍼런스리그로 강등된다.
 
-리그 경로는 UEFA 주관 클럽 대회에서 공통적으로 사용되는 [UEFA 계수에](https://ko.wikipedia.org/wiki/UEFA_계수 "wikilink") 따른다.\[2\] 각 축구 협회는 다음과 같은 경우를 제외하고 3개 클럽이 배정된다.
+리그 경로는 UEFA 주관 클럽 대회에서 공통적으로 사용되는 [UEFA 계수에](../Page/UEFA_계수.md "wikilink") 따른다.\[2\] 각 축구 협회는 다음과 같은 경우를 제외하고 3개 클럽이 배정된다.
 
   - UEFA 계수에서 1위부터 5위까지를 차지한 축구 협회는 1개 클럽이 배정된다.
   - UEFA 계수에서 6위부터 15위까지를 차지한 축구 협회는 2개 클럽이 배정된다.

@@ -21,12 +21,12 @@ PWR1은 미국 웨스팅하우스 S5W 원자로와 같은 78 MWt 열출력이다
 
 ## PWR2
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Image_of_HMS_Vengeance_returning_to_HMNB_Clyde,_after_completing_Operational_Sea_Training_MOD_45159434.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:HMS_Ambush_long.jpg "wikilink") PWR2는 현재 영국 해군의 최신형 핵잠수함 원자로이다. [뱅가드급 잠수함을](https://ko.wikipedia.org/wiki/뱅가드급_잠수함 "wikilink") 위해 PWR1을 개량하여 만들었다. 1985년 최초의 원자로가 제작되었다. 1987년 [불칸 해군 원자로 시험 시설에서](https://ko.wikipedia.org/wiki/불칸_해군_원자로_시험_시설 "wikilink") 시험가동을 시작했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Image_of_HMS_Vengeance_returning_to_HMNB_Clyde,_after_completing_Operational_Sea_Training_MOD_45159434.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:HMS_Ambush_long.jpg "wikilink") PWR2는 현재 영국 해군의 최신형 핵잠수함 원자로이다. [뱅가드급 잠수함을](../Page/뱅가드급_잠수함.md "wikilink") 위해 PWR1을 개량하여 만들었다. 1985년 최초의 원자로가 제작되었다. 1987년 [불칸 해군 원자로 시험 시설에서](https://ko.wikipedia.org/wiki/불칸_해군_원자로_시험_시설 "wikilink") 시험가동을 시작했다.
 
-145 MWt 열출력을 낸다. 2018년 현재 사용중인 [뱅가드급 잠수함](https://ko.wikipedia.org/wiki/뱅가드급_잠수함 "wikilink"), [어스튜트급 잠수함에](https://ko.wikipedia.org/wiki/어스튜트급_잠수함 "wikilink") PWR2 1기를 사용한다.
+145 MWt 열출력을 낸다. 2018년 현재 사용중인 [뱅가드급 잠수함](../Page/뱅가드급_잠수함.md "wikilink"), [어스튜트급 잠수함에](../Page/어스튜트급_잠수함.md "wikilink") PWR2 1기를 사용한다.
 
-  - [뱅가드급 잠수함](https://ko.wikipedia.org/wiki/뱅가드급_잠수함 "wikilink"), [전략원잠](https://ko.wikipedia.org/wiki/전략원잠 "wikilink")(SSBN), 수중배수량 16,000 톤. 145 MW 롤스로이스 PWR2 1기
-  - [어스튜트급 잠수함](https://ko.wikipedia.org/wiki/어스튜트급_잠수함 "wikilink"), [공격원잠](https://ko.wikipedia.org/wiki/공격원잠 "wikilink")(SSN), 수중배수량 8,000 톤, 145 MW 롤스로이스 PWR2 1기
+  - [뱅가드급 잠수함](../Page/뱅가드급_잠수함.md "wikilink"), [전략원잠](https://ko.wikipedia.org/wiki/전략원잠 "wikilink")(SSBN), 수중배수량 16,000 톤. 145 MW 롤스로이스 PWR2 1기
+  - [어스튜트급 잠수함](../Page/어스튜트급_잠수함.md "wikilink"), [공격원잠](https://ko.wikipedia.org/wiki/공격원잠 "wikilink")(SSN), 수중배수량 8,000 톤, 145 MW 롤스로이스 PWR2 1기
 
 ## PWR3
 

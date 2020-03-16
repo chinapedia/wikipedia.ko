@@ -8,7 +8,7 @@ IAST（International Alphabet of Sanskrit Transliteration）는 인도([범어](
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/모음" title="wikilink">모음</a>(母音)</p></th>
+<th><p><a href="../Page/모음.md" title="wikilink">모음</a>(母音)</p></th>
 <th><p> <br />
 </p></th>
 <th><p> <br />
@@ -73,17 +73,17 @@ IAST（International Alphabet of Sanskrit Transliteration）는 인도([범어](
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/자음" title="wikilink">자음</a>(子音)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/연구개음" title="wikilink">연구개음</a>(軟口蓋音)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/경구개음" title="wikilink">경구개음</a>(硬口蓋音)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/설음" title="wikilink">설음</a>(舌音)</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/치음" title="wikilink">치음</a>(歯音)</p></th>
+<th><p><a href="../Page/자음.md" title="wikilink">자음</a>(子音)</p></th>
+<th><p><a href="../Page/연구개음.md" title="wikilink">연구개음</a>(軟口蓋音)</p></th>
+<th><p><a href="../Page/경구개음.md" title="wikilink">경구개음</a>(硬口蓋音)</p></th>
+<th><p><a href="../Page/설음.md" title="wikilink">설음</a>(舌音)</p></th>
+<th><p><a href="../Page/치음.md" title="wikilink">치음</a>(歯音)</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/순음" title="wikilink">순음</a>(唇音)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>무성<a href="https://ko.wikipedia.org/wiki/파열음" title="wikilink">파열음</a>(無声破裂音)</p></td>
+<td><p>무성<a href="../Page/파열음.md" title="wikilink">파열음</a>(無声破裂音)</p></td>
 <td><p> <br />
 </p></td>
 <td><p> <br />
@@ -96,7 +96,7 @@ IAST（International Alphabet of Sanskrit Transliteration）는 인도([범어](
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유기음" title="wikilink">유기</a> 무성파열음(無声破裂音)</p></td>
+<td><p><a href="../Page/유기음.md" title="wikilink">유기</a> 무성파열음(無声破裂音)</p></td>
 <td><p> <br />
 </p></td>
 <td><p> <br />
@@ -109,7 +109,7 @@ IAST（International Alphabet of Sanskrit Transliteration）는 인도([범어](
 </p></td>
 </tr>
 <tr class="odd">
-<td><p>유성<a href="https://ko.wikipedia.org/wiki/파열음" title="wikilink">파열음</a>(有声破裂音)</p></td>
+<td><p>유성<a href="../Page/파열음.md" title="wikilink">파열음</a>(有声破裂音)</p></td>
 <td><p> <br />
 </p></td>
 <td><p> <br />
@@ -122,7 +122,7 @@ IAST（International Alphabet of Sanskrit Transliteration）는 인도([범어](
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유기음" title="wikilink">유기</a> 유성파열음(有声破裂音)</p></td>
+<td><p><a href="../Page/유기음.md" title="wikilink">유기</a> 유성파열음(有声破裂音)</p></td>
 <td><p> <br />
 </p></td>
 <td><p> <br />
@@ -177,7 +177,7 @@ IAST（International Alphabet of Sanskrit Transliteration）는 인도([범어](
 ## 함께보기
 
   - [로마자 표기법](https://ko.wikipedia.org/wiki/로마자_표기법 "wikilink")
-  - [국어의 로마자 표기법](https://ko.wikipedia.org/wiki/국어의_로마자_표기법 "wikilink")
+  - [국어의 로마자 표기법](../Page/국어의_로마자_표기법.md "wikilink")
 
 ## 참고
 

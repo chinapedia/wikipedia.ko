@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Vincent \(\)](https://ko.wikipedia.org/wiki/Vincent_\(\)).
 
 
-〈**Vincent**〉는 [빈센트 반 고흐를](https://ko.wikipedia.org/wiki/빈센트_반_고흐 "wikilink") 추모하기 위해 쓴 [돈 맥클린의](https://ko.wikipedia.org/wiki/돈_맥클린 "wikilink") 노래다. 이 곡은 또한 반 고흐의 1889년 작품인 《[별이 빛나는 밤](https://ko.wikipedia.org/wiki/별이_빛나는_밤 "wikilink")》을 가리키는 오프닝 라인인 〈**Starry Starry Night**〉로도 알려져 있다. 이 노래는 또한 이 화가의 다른 그림들도 묘사하고 있다. 그것은 반 고흐의 인생 100주년을 맞아 만들어졌다.
+〈**Vincent**〉는 [빈센트 반 고흐를](../Page/빈센트_반_고흐.md "wikilink") 추모하기 위해 쓴 [돈 맥클린의](../Page/돈_맥클린.md "wikilink") 노래다. 이 곡은 또한 반 고흐의 1889년 작품인 《[별이 빛나는 밤](../Page/별이_빛나는_밤.md "wikilink")》을 가리키는 오프닝 라인인 〈**Starry Starry Night**〉로도 알려져 있다. 이 노래는 또한 이 화가의 다른 그림들도 묘사하고 있다. 그것은 반 고흐의 인생 100주년을 맞아 만들어졌다.
 
 맥클린은 반 고흐의 삶에 관한 책을 읽은 후 1971년에 가사를 썼다.\[1\] 이듬해, 이 노래는 2주 동안 [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 1위에 올랐다.\[2\] 그리고 미국에서는 12위에 올랐다.\[3\] 이 노래는 핫 100에서 12주를 보냈다. 미국에서 〈Vincent〉는 또한 [이지 리스닝](https://ko.wikipedia.org/wiki/어덜트_컨템포러리 "wikilink") 차트에서 2위를 차지했다.\[4\] 《빌보드》는 이 곡을 1972년의 94위로 순위를 매겼다.
 
 이 노래는 주로 기타의 사용을 만들지만 아코디언, 마림바, 현도 포함하고 있다.
 
-2000년에 [PBS](https://ko.wikipedia.org/wiki/PBS "wikilink")는 [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [오스틴에서](https://ko.wikipedia.org/wiki/오스틴_\(텍사스주\) "wikilink") 촬영된 콘서트 스페셜인 《[Don McLean: Starry, Starry Night](https://ko.wikipedia.org/wiki/Starry,_Starry_Night_\(음반\) "wikilink")》를 방송했다.
+2000년에 [PBS](../Page/PBS.md "wikilink")는 [텍사스주](../Page/텍사스주.md "wikilink") [오스틴에서](../Page/오스틴_\(텍사스주\).md "wikilink") 촬영된 콘서트 스페셜인 《[Don McLean: Starry, Starry Night](https://ko.wikipedia.org/wiki/Starry,_Starry_Night_\(음반\) "wikilink")》를 방송했다.
 
 ## 각주
 

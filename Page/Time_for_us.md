@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Time for us](https://ko.wikipedia.org/wiki/Time_for_us).
 
 
-《**Time for us**》(타임 포 어스)는 대한민국의 걸 그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 두 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). 타이틀 곡은 〈[해야 (Sunrise)](https://ko.wikipedia.org/wiki/해야_\(Sunrise\) "wikilink")〉로, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 14일](https://ko.wikipedia.org/wiki/1월_14일 "wikilink") [카카오M에서](https://ko.wikipedia.org/wiki/카카오엠 "wikilink") 발매되었다.
+《**Time for us**》(타임 포 어스)는 대한민국의 걸 그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 타이틀 곡은 〈[해야 (Sunrise)](https://ko.wikipedia.org/wiki/해야_\(Sunrise\) "wikilink")〉로, [2019년](../Page/2019년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") [카카오M에서](../Page/카카오엠.md "wikilink") 발매되었다.
 
 ## 개요
 
@@ -49,14 +49,14 @@
 
 ### 음악 방송
 
-| 프로그램                                                                                                                          | 날짜           |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [SBS MTV](https://ko.wikipedia.org/wiki/SBS_MTV "wikilink") 《[더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink") 시즌 5》        | 2019년 1월 22일 |
-| [MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink") 《[쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")》     | 2019년 1월 23일 |
-| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》             | 2019년 1월 24일 |
-| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")》                 | 2019년 1월 25일 |
-| [MBC](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》         | 2019년 1월 26일 |
-| [SBS](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/SBS_인기가요 "wikilink")》 | 2019년 1월 27일 |
+| 프로그램                                                                                                                      | 날짜           |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [SBS MTV](../Page/SBS_MTV.md "wikilink") 《[더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink") 시즌 5》                       | 2019년 1월 22일 |
+| [MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink") 《[쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")》 | 2019년 1월 23일 |
+| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》         | 2019년 1월 24일 |
+| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》                                | 2019년 1월 25일 |
+| [MBC](../Page/MBC_TV.md "wikilink") 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》                        | 2019년 1월 26일 |
+| [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[인기가요](../Page/SBS_인기가요.md "wikilink")》                                   | 2019년 1월 27일 |
 
 ## 각주
 

@@ -19,7 +19,7 @@
 
   - [J/FPS-3](https://ko.wikipedia.org/wiki/J/FPS-3 "wikilink")
   - [J / FPS-7](https://ko.wikipedia.org/wiki/J_/_FPS-7 "wikilink")
-  - [그린파인 레이다](https://ko.wikipedia.org/wiki/그린파인_레이다 "wikilink")
+  - [그린파인 레이다](../Page/그린파인_레이다.md "wikilink")
   - [AN/TPY-2](https://ko.wikipedia.org/wiki/AN/TPY-2 "wikilink")
   - [보로네시 (레이다)](https://ko.wikipedia.org/wiki/보로네시_\(레이다\) "wikilink")
   - [JY-8 (레이다)](https://ko.wikipedia.org/wiki/JY-8_\(레이다\) "wikilink")

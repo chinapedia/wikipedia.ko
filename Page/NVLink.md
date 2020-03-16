@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NVLink](https://ko.wikipedia.org/wiki/NVLink).
 
 
-**NVLink**(NV링크)는 [엔비디아](https://ko.wikipedia.org/wiki/엔비디아 "wikilink")가 개발한 와이어 기반 [통신 프로토콜](https://ko.wikipedia.org/wiki/통신_프로토콜 "wikilink") 시리얼 멀티 레인 근범위 통신 링크이다. [PCI 익스프레스와](https://ko.wikipedia.org/wiki/PCI_익스프레스 "wikilink") 달리 장치는 여러 개의 NVLink로 구성할 수 있으며 장치는 중앙 [허브](https://ko.wikipedia.org/wiki/허브 "wikilink") 대신 [메시 네트워크를](../Page/메시_네트워크.md "wikilink") 사용하여 통신할 수 있다.
+**NVLink**(NV링크)는 [엔비디아](../Page/엔비디아.md "wikilink")가 개발한 와이어 기반 [통신 프로토콜](../Page/통신_프로토콜.md "wikilink") 시리얼 멀티 레인 근범위 통신 링크이다. [PCI 익스프레스와](../Page/PCI_익스프레스.md "wikilink") 달리 장치는 여러 개의 NVLink로 구성할 수 있으며 장치는 중앙 [허브](https://ko.wikipedia.org/wiki/허브 "wikilink") 대신 [메시 네트워크를](../Page/메시_네트워크.md "wikilink") 사용하여 통신할 수 있다.
 
 ## 성능
 

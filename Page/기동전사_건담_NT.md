@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  NT](https://ko.wikipedia.org/wiki/__NT).
 
 
-**《기동전사 건담 NT》**(, *MOBILE SUIT GUNDAM NARRATIVE*)는 [선라이즈에서](https://ko.wikipedia.org/wiki/선라이즈_\(애니메이션_스튜디오\) "wikilink") 제작한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink") 애니메이션 영화이다.
+**《기동전사 건담 NT》**(, *MOBILE SUIT GUNDAM NARRATIVE*)는 [선라이즈에서](https://ko.wikipedia.org/wiki/선라이즈_\(애니메이션_스튜디오\) "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 [로봇](../Page/로봇.md "wikilink") 애니메이션 영화이다.
 
 ## 개요
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JXTG ](https://ko.wikipedia.org/wiki/JXTG_).
 
 
-**JXTG 에너지 주식회사**()는 일본의 [석유](https://ko.wikipedia.org/wiki/석유 "wikilink") 회사이다. [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink") [JXTG 홀딩스의](../Page/JXTG_홀딩스.md "wikilink") 산하 기업이며 일본 내 최대 [석유 산업](https://ko.wikipedia.org/wiki/석유_산업 "wikilink") 기업이다. 약칭으로 **NOE**나 **JXTG**로 불린다.
+**JXTG 에너지 주식회사**()는 일본의 [석유](https://ko.wikipedia.org/wiki/석유 "wikilink") 회사이다. [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink") [JXTG 홀딩스의](../Page/JXTG_홀딩스.md "wikilink") 산하 기업이며 일본 내 최대 [석유 산업](../Page/석유_산업.md "wikilink") 기업이다. 약칭으로 **NOE**나 **JXTG**로 불린다.
 
 2010년 4월 [신일본석유](https://ko.wikipedia.org/wiki/신일본석유 "wikilink")와 업무 제휴 관계에 있던 [재팬 에너지의](https://ko.wikipedia.org/wiki/재팬_에너지 "wikilink") 지주회사인 [신닛코 홀딩스가](https://ko.wikipedia.org/wiki/신닛코_홀딩스 "wikilink") 신일본석유와 경영 통합을 선언하여 공동지주회사인 JX홀딩스가 출범했다.\[1\] 같은 해 7월엔 그룹 재편을 통해 신일본석유가 하던 자회사 관리 사업을 JX홀딩스에, 석유 개발 사업을 JX닛코일본석유개발(현 [JX석유개발](https://ko.wikipedia.org/wiki/JX석유개발 "wikilink"))로 넘김과 동시에 신일본석유가 [신일본석유정제](https://ko.wikipedia.org/wiki/신일본석유정제 "wikilink")와 재팬 에너지를 흡수 합병하여 JX닛코니혼닛세키에너지로 상호를 변경했다.\[2\]
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [What \( \)](https://ko.wikipedia.org/wiki/What_\(_\)).
 
 
-〈**What**〉(왓)은 대한민국의 걸 그룹 [드림캐쳐의](../Page/드림캐쳐_\(음악_그룹\).md "wikilink") 노래이자 일본 데뷔 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**What**〉(왓)은 대한민국의 걸 그룹 [드림캐쳐의](../Page/드림캐쳐_\(음악_그룹\).md "wikilink") 노래이자 일본 데뷔 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 수록 내용
 
@@ -54,7 +54,7 @@
 <td></td>
 <td><p>2018년 11월 21일</p></td>
 <td><p><a href="../Page/CD_싱글.md" title="wikilink">CD 싱글</a>, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포니_캐년" title="wikilink">포니 캐년</a></p></td>
+<td><p><a href="../Page/포니_캐년.md" title="wikilink">포니 캐년</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

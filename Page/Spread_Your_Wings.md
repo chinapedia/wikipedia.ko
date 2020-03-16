@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Spread Your Wings](https://ko.wikipedia.org/wiki/Spread_Your_Wings).
 
 
-〈**Spread Your Wings**〉는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [퀸의](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 1977년 음반 《[News of the World](https://ko.wikipedia.org/wiki/News_of_the_World "wikilink")》에 수록된 곡이다.\[1\] 베이시스트 [존 디콘이](https://ko.wikipedia.org/wiki/존_디콘 "wikilink") 쓴 이 노래는 1978년 싱글 〈Spread Your Wings〉/〈[Sheer Heart Attack](https://ko.wikipedia.org/wiki/Sheer_Heart_Attack_\(노래\) "wikilink")〉의 A-사이드로 발매되었다.
+〈**Spread Your Wings**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 1977년 음반 《[News of the World](../Page/News_of_the_World.md "wikilink")》에 수록된 곡이다.\[1\] 베이시스트 [존 디콘이](../Page/존_디콘.md "wikilink") 쓴 이 노래는 1978년 싱글 〈Spread Your Wings〉/〈[Sheer Heart Attack](https://ko.wikipedia.org/wiki/Sheer_Heart_Attack_\(노래\) "wikilink")〉의 A-사이드로 발매되었다.
 
 ## 각주
 

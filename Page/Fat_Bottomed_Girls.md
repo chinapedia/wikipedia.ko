@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Fat Bottomed Girls](https://ko.wikipedia.org/wiki/Fat_Bottomed_Girls).
 
 
-〈**Fat Bottomed Girls**〉는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [퀸의](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 곡이다. 기타리스트 [브라이언 메이가](https://ko.wikipedia.org/wiki/브라이언_메이 "wikilink") 쓴 이 곡은 1978년 음반 《[Jazz](https://ko.wikipedia.org/wiki/Jazz_\(음반\) "wikilink")》와 그 후 그들의 컴필레이션 음반 《[Greatest Hits](https://ko.wikipedia.org/wiki/Greatest_Hits_\(퀸의_음반\) "wikilink")》에 수록되었다.\[1\] 〈[Bicycle Race](../Page/Bicycle_Race.md "wikilink")〉로 싱글로 발매되었을 때 이 노래는 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 11위에 올랐고 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [빌보드 핫 100에서](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 24위에 올랐다.\[2\]\[3\]
+〈**Fat Bottomed Girls**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 곡이다. 기타리스트 [브라이언 메이가](../Page/브라이언_메이.md "wikilink") 쓴 이 곡은 1978년 음반 《[Jazz](../Page/Jazz_\(음반\).md "wikilink")》와 그 후 그들의 컴필레이션 음반 《[Greatest Hits](../Page/Greatest_Hits_\(퀸의_음반\).md "wikilink")》에 수록되었다.\[1\] 〈[Bicycle Race](../Page/Bicycle_Race.md "wikilink")〉로 싱글로 발매되었을 때 이 노래는 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 11위에 올랐고 [미국](../Page/미국.md "wikilink") [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 24위에 올랐다.\[2\]\[3\]
 
-이 노래는 열린 [블루스](https://ko.wikipedia.org/wiki/블루스 "wikilink"), 메탈 기타 튜닝을 중심으로 구성되며 합창으로 열린다.\[4\] 이 곡은 얼터너티브(드롭 D) 기타 튜닝에서 연주된 퀸 노래들 중 하나이다.\[5\] 이 곡의 뮤직 비디오는 1978년 10월 [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink")의 [달라스 컨벤션 센터에서](../Page/케이_배일리_허친슨_컨벤션_센터.md "wikilink") 촬영되었다.\[6\]
+이 노래는 열린 [블루스](../Page/블루스.md "wikilink"), 메탈 기타 튜닝을 중심으로 구성되며 합창으로 열린다.\[4\] 이 곡은 얼터너티브(드롭 D) 기타 튜닝에서 연주된 퀸 노래들 중 하나이다.\[5\] 이 곡의 뮤직 비디오는 1978년 10월 [텍사스주](../Page/텍사스주.md "wikilink")의 [달라스 컨벤션 센터에서](../Page/케이_배일리_허친슨_컨벤션_센터.md "wikilink") 촬영되었다.\[6\]
 
 ## 각주
 

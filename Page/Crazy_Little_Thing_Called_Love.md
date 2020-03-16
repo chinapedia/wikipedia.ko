@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Crazy Little Thing Called Love](https://ko.wikipedia.org/wiki/Crazy_Little_Thing_Called_Love).
 
 
-〈**Crazy Little Thing Called Love**〉는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [퀸의](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 노래다. 1979년에 [프레디 머큐리가](https://ko.wikipedia.org/wiki/프레디_머큐리 "wikilink") 쓴 이 곡은 1980년 음반 《[The Game](https://ko.wikipedia.org/wiki/The_Game_\(퀸의_음반\) "wikilink")》에 수록되며 1981년 이 밴드의 컴필레이션 음반 《[Greatest Hits](https://ko.wikipedia.org/wiki/Greatest_Hits_\(퀸의_음반\) "wikilink")》에도 나온다. 이 노래는 1979년 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 2위를 차지했고 1980년 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [빌보드 핫 100에서](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink")\[1\] 4주 연속 1위를 기록했다.\[2\]\[3\] 이 곡은 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink") [ARIA 차트에서](https://ko.wikipedia.org/wiki/ARIA_차트 "wikilink") 7주 동안 정상을 차지했다.\[4\]
+〈**Crazy Little Thing Called Love**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 노래다. 1979년에 [프레디 머큐리가](../Page/프레디_머큐리.md "wikilink") 쓴 이 곡은 1980년 음반 《[The Game](../Page/The_Game_\(퀸의_음반\).md "wikilink")》에 수록되며 1981년 이 밴드의 컴필레이션 음반 《[Greatest Hits](../Page/Greatest_Hits_\(퀸의_음반\).md "wikilink")》에도 나온다. 이 노래는 1979년 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 2위를 차지했고 1980년 [미국](../Page/미국.md "wikilink") [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink")\[1\] 4주 연속 1위를 기록했다.\[2\]\[3\] 이 곡은 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink") [ARIA 차트에서](https://ko.wikipedia.org/wiki/ARIA_차트 "wikilink") 7주 동안 정상을 차지했다.\[4\]
 
 ## 각주
 

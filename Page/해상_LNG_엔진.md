@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ LNG ](https://ko.wikipedia.org/wiki/_LNG_).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Tern_Ocean_\(ship,_2017\).jpg "wikilink") **해상 LNG 엔진**(Marine LNG Engine)은 [천연가스](https://ko.wikipedia.org/wiki/천연가스 "wikilink")나 석탄 연료를 [화학 에너지로](https://ko.wikipedia.org/wiki/화학_에너지 "wikilink") 전환하는 혼소 엔진이다. 천연가스 청정기가 적절하게 연소되기 때문에 상선 추진 공장에서의 천연가스를 사용하는 것은 IMO나 MARPOL의 환경 규정을 따르기 위하여 회사들에게 선택적인 사항이 되고 있다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Tern_Ocean_\(ship,_2017\).jpg "wikilink") **해상 LNG 엔진**(Marine LNG Engine)은 [천연가스](../Page/천연가스.md "wikilink")나 석탄 연료를 [화학 에너지로](https://ko.wikipedia.org/wiki/화학_에너지 "wikilink") 전환하는 혼소 엔진이다. 천연가스 청정기가 적절하게 연소되기 때문에 상선 추진 공장에서의 천연가스를 사용하는 것은 IMO나 MARPOL의 환경 규정을 따르기 위하여 회사들에게 선택적인 사항이 되고 있다.
 
 천연가스는 액화 상태(LNG)로 저장되어 있고, 두 개의 연료 엔진에 보일러를 연결하여 태워버린다. 선박 회사는 선단에 대한 추진 시스템을 선택할 때 조심스럽다. 증기 터빈 시스템은 수십년 동안 LNG 수송회사들의 주요 이동 수단으로서 주요한 선택이 되어 왔다. 추진된 증기를 사용하는 수 십 년 된 LNG 수송회사들은 BOG를 사용한다. [LNG](https://ko.wikipedia.org/wiki/LNG "wikilink") 수송회사들은 LNG를 액체 상태로 유지하기 위하여 영하 160도로 보관하여 단열이 잘 되도록 한다. 모든 단열재를 사용하더라도 LNG 원자로 건물 구역이 열에 의하여 관통되어 자연적으로 생성된 BOG가 발생한다.
 

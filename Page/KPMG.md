@@ -7,11 +7,11 @@
 
 KPMG는 1870년 영국에서 출범한 William Barclay Peat & Co.를 시작으로 154개국에 20만여명의 전문가를 두고, 회계와 경영컨설팅을 주력으로 하는 다국적 기업이다.
 
-[딜로이트](../Page/딜로이트.md "wikilink"), [프라이스워터하우스쿠퍼스](https://ko.wikipedia.org/wiki/프라이스워터하우스쿠퍼스 "wikilink"), [언스트 엔 영과](../Page/언스트_엔_영.md "wikilink") 함께 세계 4대 회계법인 (Big Four)를 이루고 있다.
+[딜로이트](../Page/딜로이트.md "wikilink"), [프라이스워터하우스쿠퍼스](../Page/프라이스워터하우스쿠퍼스.md "wikilink"), [언스트 엔 영과](../Page/언스트_엔_영.md "wikilink") 함께 세계 4대 회계법인 (Big Four)를 이루고 있다.
 
 법률적인 구조는 회원사들이 독립체로 운영되는 스위스 협동조합이며, 주요 업무는 기업의 회계감사, 경영컨설팅, 세무 관련 서비스, 인수·합병과 구조조정을 비롯한 자문 서비스 등이다.
 
-2012년에는 글로벌 리서치 회사인 유니버섬의 조사 결과 세계에서 가장 매력적인 기업에서 구글에 이어 2위에 올랐고\[1\], 2017년에는 [포춘에서](https://ko.wikipedia.org/wiki/포춘_\(잡지\) "wikilink") 선정한 [가장 일하기 좋은 100대 기업에서](https://ko.wikipedia.org/wiki/가장_일하기_좋은_100대_기업 "wikilink") 29위를 차지했다.\[2\]
+2012년에는 글로벌 리서치 회사인 유니버섬의 조사 결과 세계에서 가장 매력적인 기업에서 구글에 이어 2위에 올랐고\[1\], 2017년에는 [포춘에서](../Page/포춘_\(잡지\).md "wikilink") 선정한 [가장 일하기 좋은 100대 기업에서](https://ko.wikipedia.org/wiki/가장_일하기_좋은_100대_기업 "wikilink") 29위를 차지했다.\[2\]
 
 ## 명칭
 
@@ -22,7 +22,7 @@ KPMG라는 이름은 KPMG로 합병된 회계법인을 설립하거나 재적했
 <!-- end list -->
 
   -
-    Piet Klynveld의 K. 1917년 [암스테르담](https://ko.wikipedia.org/wiki/암스테르담 "wikilink")에서 Klynveld Kraayenhof & Co.를 설립한 인물.
+    Piet Klynveld의 K. 1917년 [암스테르담](../Page/암스테르담.md "wikilink")에서 Klynveld Kraayenhof & Co.를 설립한 인물.
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@ KPMG라는 이름은 KPMG로 합병된 회계법인을 설립하거나 재적했
 <!-- end list -->
 
   -
-    William Barclay Peat의 P. 1870년 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에서 William Barclay Peat & Co.를 설립한 인물.
+    William Barclay Peat의 P. 1870년 [런던](../Page/런던.md "wikilink")에서 William Barclay Peat & Co.를 설립한 인물.
 
 <!-- end list -->
 
@@ -40,7 +40,7 @@ KPMG라는 이름은 KPMG로 합병된 회계법인을 설립하거나 재적했
 <!-- end list -->
 
   -
-    James Marwick의 M. 1897년 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")에서 Marwick Mitchell & Co.를 설립한 인물.
+    James Marwick의 M. 1897년 [뉴욕](../Page/뉴욕.md "wikilink")에서 Marwick Mitchell & Co.를 설립한 인물.
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Just the Way You Are \(  \)](https://ko.wikipedia.org/wiki/Just_the_Way_You_Are_\(__\)).
 
 
-〈**Just the Way You Are**〉는 [빌리 조엘의](https://ko.wikipedia.org/wiki/빌리_조엘 "wikilink") 곡으로, 그의 음반 《[The Stranger](../Page/The_Stranger.md "wikilink")》(1977년)의 세 번째 곡이다. 이 곡은 조엘의 첫 번째 미국 톱 10과 영국 톱 20 싱글(각각 3위와 19위에 도달)과 조엘의 첫 번째 미국 [골드 싱글이](https://ko.wikipedia.org/wiki/음반_판매량_인증 "wikilink") 되었다. 이 노래는 또한 1978년 1월 내내 《[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")》 이지 리스닝 차트 1위를 차지했다.
+〈**Just the Way You Are**〉는 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 곡으로, 그의 음반 《[The Stranger](../Page/The_Stranger.md "wikilink")》(1977년)의 세 번째 곡이다. 이 곡은 조엘의 첫 번째 미국 톱 10과 영국 톱 20 싱글(각각 3위와 19위에 도달)과 조엘의 첫 번째 미국 [골드 싱글이](../Page/음반_판매량_인증.md "wikilink") 되었다. 이 노래는 또한 1978년 1월 내내 《[빌보드](../Page/빌보드.md "wikilink")》 이지 리스닝 차트 1위를 차지했다.
 
 〈Just the Way You Are〉는 1979년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")에서 올해의 레코드상과 올해의 노래상을 두 번 수상했다.\[1\]
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [D-CRUNCH](https://ko.wikipedia.org/wiki/D-CRUNCH).
 
 
-**디크런치** ()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 아이그랜드코리아 소속의 9인조 [보이 그룹이다](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"). 이 그룹은 현욱, 현호, O.V, 민혁, 현우, 현오, 찬영, 정승, Dylan으로 구성되어있다. D-CRUNCH 싱글 앨범 《0806》(2018)로 데뷔했다.
+**디크런치** ()는 [대한민국](../Page/대한민국.md "wikilink") 아이그랜드코리아 소속의 9인조 [보이 그룹이다](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"). 이 그룹은 현욱, 현호, O.V, 민혁, 현우, 현오, 찬영, 정승, Dylan으로 구성되어있다. D-CRUNCH 싱글 앨범 《0806》(2018)로 데뷔했다.
 
 ## 음반 목록
 
@@ -27,9 +27,9 @@
 <tr class="even">
 <td><p><strong><em>M1112 (4colors)</em></strong></p></td>
 <td><ul>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 <li>발매일자: 2018년 11월 12일</li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/카카오엠" title="wikilink">카카오엠</a></li>
+<li>레이블: <a href="../Page/카카오엠.md" title="wikilink">카카오엠</a></li>
 </ul></td>
 <td><p>39</p></td>
 <td><p>80</p></td>
@@ -69,9 +69,9 @@
 <tr class="even">
 <td><p><strong><em>0806</em></strong></p></td>
 <td><ul>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 <li>발매일자: 2018년 8월 6일</li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/카카오엠" title="wikilink">카카오엠</a></li>
+<li>레이블: <a href="../Page/카카오엠.md" title="wikilink">카카오엠</a></li>
 </ul></td>
 <td><p>46</p></td>
 <td><p>89</p></td>

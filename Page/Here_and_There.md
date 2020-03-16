@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Here and There](https://ko.wikipedia.org/wiki/Here_and_There).
 
 
-《**Here and There**》는 1976년에 발매된 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 싱어송라이터 [엘튼 존의](https://ko.wikipedia.org/wiki/엘튼_존 "wikilink") 라이브 음반으로, 그의 열네 번째 공식 음반이다. 제목은 음반에 수록된 두 개의 콘서트를 가리킨다. "Here"는 1974년 여름 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink") [로열 페스티벌 홀에서](https://ko.wikipedia.org/wiki/로열_페스티벌_홀 "wikilink") 녹음된 콘서트고, "There"는 1974년 11월 28일 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink") [매디슨 스퀘어 가든에서](https://ko.wikipedia.org/wiki/매디슨_스퀘어_가든 "wikilink") 녹음된 콘서트다.
+《**Here and There**》는 1976년에 발매된 [영국](../Page/영국.md "wikilink")의 싱어송라이터 [엘튼 존의](../Page/엘튼_존.md "wikilink") 라이브 음반으로, 그의 열네 번째 공식 음반이다. 제목은 음반에 수록된 두 개의 콘서트를 가리킨다. "Here"는 1974년 여름 [런던](../Page/런던.md "wikilink") [로열 페스티벌 홀에서](https://ko.wikipedia.org/wiki/로열_페스티벌_홀 "wikilink") 녹음된 콘서트고, "There"는 1974년 11월 28일 [뉴욕](../Page/뉴욕.md "wikilink") [매디슨 스퀘어 가든에서](../Page/매디슨_스퀘어_가든.md "wikilink") 녹음된 콘서트다.
 
 ## 곡 목록
 
-모든 곡들은 특별한 언급이 없는 한 [엘튼 존과](https://ko.wikipedia.org/wiki/엘튼_존 "wikilink") [버니 토핀에](https://ko.wikipedia.org/wiki/버니_토핀 "wikilink") 의해 작사/작곡하였다.
+모든 곡들은 특별한 언급이 없는 한 [엘튼 존과](../Page/엘튼_존.md "wikilink") [버니 토핀에](../Page/버니_토핀.md "wikilink") 의해 작사/작곡하였다.
 
 ### 오리지널 LP와 CD
 
@@ -62,8 +62,8 @@
 5.  "Grey Seal" – 5:27
 6.  "[Daniel](https://ko.wikipedia.org/wiki/Daniel_\(엘튼_존의_노래\) "wikilink")" – 4:06
 7.  "You're So Static" – 4:32
-8.  "[Whatever Gets You thru the Night](../Page/Whatever_Gets_You_thru_the_Night.md "wikilink")" (with [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink")) (레논) – 4:40
-9.  "[Lucy in the Sky with Diamonds](https://ko.wikipedia.org/wiki/Lucy_in_the_Sky_with_Diamonds "wikilink")" (with 존 레논) (레논, [매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink")) – 6:15
+8.  "[Whatever Gets You thru the Night](../Page/Whatever_Gets_You_thru_the_Night.md "wikilink")" (with [존 레논](../Page/존_레논.md "wikilink")) (레논) – 4:40
+9.  "[Lucy in the Sky with Diamonds](../Page/Lucy_in_the_Sky_with_Diamonds.md "wikilink")" (with 존 레논) (레논, [매카트니](../Page/폴_매카트니.md "wikilink")) – 6:15
 10. "[I Saw Her Standing There](https://ko.wikipedia.org/wiki/I_Saw_Her_Standing_There "wikilink")" (with 존 레논) (레논, 매카트니) – 3:17
 11. "[Don't Let the Sun Go Down on Me](../Page/Don't_Let_the_Sun_Go_Down_on_Me.md "wikilink")" – 5:57
 12. "Your Song" – 3:58

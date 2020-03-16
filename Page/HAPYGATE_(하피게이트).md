@@ -5,9 +5,9 @@
 
 ## 개요
 
-1995년 3월 7일 [서울에서](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") 태어났으며 [태권도](https://ko.wikipedia.org/wiki/태권도 "wikilink") [선수](https://ko.wikipedia.org/wiki/선수 "wikilink"), 사범 및 [음악프로듀서이다](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"). 2011년 첫 곡을 만드는걸 시작으로 2012년 중반부터는 [음악프로듀서로](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink") 활동하다가 2017년 [마스터링 전문 엔지니어로](https://ko.wikipedia.org/wiki/:en:Mastering_engineer "wikilink") 전향하였다.
+1995년 3월 7일 [서울에서](../Page/서울특별시.md "wikilink") 태어났으며 [태권도](../Page/태권도.md "wikilink") [선수](https://ko.wikipedia.org/wiki/선수 "wikilink"), 사범 및 [음악프로듀서이다](../Page/음악_프로듀서.md "wikilink"). 2011년 첫 곡을 만드는걸 시작으로 2012년 중반부터는 [음악프로듀서로](../Page/음악_프로듀서.md "wikilink") 활동하다가 2017년 [마스터링 전문 엔지니어로](https://ko.wikipedia.org/wiki/:en:Mastering_engineer "wikilink") 전향하였다.
 
-최근까지 ***ILIBEAU*** 라는 예명을 사용하였다. 예명 ***ILIBEAU***를 계속 사용 할 것이라는 예상과는 달리 2018년 9월 ***HAPYGATE***로 예명 변경을 하였다. ***HAPYGATE***의 어원은 [해피투게더 (텔레비전 프로그램)](https://ko.wikipedia.org/wiki/해피투게더_\(텔레비전_프로그램\) "wikilink") \[1\] Happy와 Together 이 두 개의 단어가 파생되어 만들어졌다고 한다.
+최근까지 ***ILIBEAU*** 라는 예명을 사용하였다. 예명 ***ILIBEAU***를 계속 사용 할 것이라는 예상과는 달리 2018년 9월 ***HAPYGATE***로 예명 변경을 하였다. ***HAPYGATE***의 어원은 [해피투게더 (텔레비전 프로그램)](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink") \[1\] Happy와 Together 이 두 개의 단어가 파생되어 만들어졌다고 한다.
 
 2014년에는 잠시 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink")로 활동하며 곡 작업과 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink")를 같이 활동했으나 곡에만 집중하고자 DJ는 그만두고 다시 곡 작업을 시작했다.
 

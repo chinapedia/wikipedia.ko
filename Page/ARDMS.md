@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ARDMS](https://ko.wikipedia.org/wiki/ARDMS).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:ARDMS_emblem.jpg "wikilink")\] **ARDMS®**(The American Registry for Diagnostic Medical Sonography®, 미국진단초음파협회)는 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 설립된 초음파 진단 분야의 시험 및 인증 자격을 관리하는 독립적인 국제적 비영리조직이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:ARDMS_emblem.jpg "wikilink")\] **ARDMS®**(The American Registry for Diagnostic Medical Sonography®, 미국진단초음파협회)는 [1975년](../Page/1975년.md "wikilink") [미국](../Page/미국.md "wikilink")에서 설립된 초음파 진단 분야의 시험 및 인증 자격을 관리하는 독립적인 국제적 비영리조직이다.
 
 전세계에 걸쳐 초음파를 시행하는 의사를 포함한 의료 종사자에게 시험을 통해서 인증, 자원 및 경력 정보를 제공하고 있다.\[1\] 여러 의료 초음파 관련 자격증 중에서 국제적으로 가장 공신력 있는 자격증으로 평가받는다.
 
@@ -9,11 +9,11 @@
 
 ## 조직 목표
 
-"ARDMS는 [초음파](https://ko.wikipedia.org/wiki/초음파 "wikilink") 전문가 인증과 지속적인 역량강화를 통해 질 관리와 환자 안전을 증진한다."\[3\]
+"ARDMS는 [초음파](../Page/초음파.md "wikilink") 전문가 인증과 지속적인 역량강화를 통해 질 관리와 환자 안전을 증진한다."\[3\]
 
 ## 조직 구조
 
-ARDMS는 [의사](https://ko.wikipedia.org/wiki/의사 "wikilink"), [과학자](https://ko.wikipedia.org/wiki/과학자 "wikilink"), sonographers, 공공 회원으로 구성된 이사회의 통제를 받는다.\[4\] 이사회는 정책을 수립하고 방향을 정의한다. 시험 개발 태스크 포스(EDTF)는 시험에 포함 된 자료를 지속적으로 평가한다.\[5\]
+ARDMS는 [의사](../Page/의사.md "wikilink"), [과학자](https://ko.wikipedia.org/wiki/과학자 "wikilink"), sonographers, 공공 회원으로 구성된 이사회의 통제를 받는다.\[4\] 이사회는 정책을 수립하고 방향을 정의한다. 시험 개발 태스크 포스(EDTF)는 시험에 포함 된 자료를 지속적으로 평가한다.\[5\]
 
 ## 시험 개발
 
