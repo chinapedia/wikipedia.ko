@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [His Ballad II](https://ko.wikipedia.org/wiki/His_Ballad_II).
 
 
-《**His Ballad II**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 싱어송라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 두 번째 베스트[앨범이다](../Page/음반.md "wikilink"). 전작인 [His Ballad와](../Page/His_Ballad.md "wikilink") 마찬가지로 [데이비드 캠벨이](https://ko.wikipedia.org/wiki/:en:David_Campbell_\(American_arranger/composer\) "wikilink") 편곡을 맡은 곡을 제외한 수록곡 전부를 새롭게 편곡했다. His Ballad에 수록되지 않았던 ‘내게’, ‘세상에 뿌려진 사랑만큼’이 수록되어 환영을 받았다.
+《**His Ballad II**》는 [대한민국](../Page/대한민국.md "wikilink")의 싱어송라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 두 번째 베스트[앨범이다](../Page/음반.md "wikilink"). 전작인 [His Ballad와](../Page/His_Ballad.md "wikilink") 마찬가지로 [데이비드 캠벨이](https://ko.wikipedia.org/wiki/:en:David_Campbell_\(American_arranger/composer\) "wikilink") 편곡을 맡은 곡을 제외한 수록곡 전부를 새롭게 편곡했다. His Ballad에 수록되지 않았던 ‘내게’, ‘세상에 뿌려진 사랑만큼’이 수록되어 환영을 받았다.
 
 발매 뒤 두 달동안 집계된 판매량은 7만7천장\[1\]이다. 《끝장》 DVD에도 부록으로 들어있다.
 
@@ -30,11 +30,11 @@
 
   - 꽃
 
-[드림팩토리](https://ko.wikipedia.org/wiki/드림팩토리 "wikilink") 소속 연기자인 [박신혜](https://ko.wikipedia.org/wiki/박신혜 "wikilink")가 이 뮤직비디오로 데뷔했다. 이 뮤직비디오는 우연히도 당시 미국의 이라크 침공과 맞물려 반전 분위기를 풍기기도 했다.
+[드림팩토리](https://ko.wikipedia.org/wiki/드림팩토리 "wikilink") 소속 연기자인 [박신혜](../Page/박신혜.md "wikilink")가 이 뮤직비디오로 데뷔했다. 이 뮤직비디오는 우연히도 당시 미국의 이라크 침공과 맞물려 반전 분위기를 풍기기도 했다.
 
   - 환생연
 
-[드림 팩토리](../Page/드림_팩토리.md "wikilink") 소속 첫 연기자였던 [김정화](https://ko.wikipedia.org/wiki/김정화 "wikilink")가 주연을 맡았다.
+[드림 팩토리](../Page/드림_팩토리.md "wikilink") 소속 첫 연기자였던 [김정화](../Page/김정화.md "wikilink")가 주연을 맡았다.
 
 ## 스태프
 

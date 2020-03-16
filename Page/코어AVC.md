@@ -9,11 +9,11 @@
 
 코어AVC는 [코어플레이어](https://ko.wikipedia.org/wiki/코어플레이어 "wikilink") 멀티미디어 프레임워크에도 포함되었다. 또한 코어AVC는 [주스트](https://ko.wikipedia.org/wiki/주스트 "wikilink")에서도 사용되고 있다.\[3\]
 
-구글 코드가 호스팅하고 있는 오픈소스 프로젝트가 하나 있다. 이름은 [CoreAVC-For-Linux](http://code.google.com/p/coreavc-for-linux/) 인데, [MPlayer](https://ko.wikipedia.org/wiki/MPlayer "wikilink")의 [다이렉트쇼](https://ko.wikipedia.org/wiki/다이렉트쇼 "wikilink") 로더 코드를 패치하여, win32 코어AVC 다이렉트 필터를 연결할 수 있게끔 해주는 것이다. 이 프로젝트는 코어AVC 바이너리 자체는 포함하지 않으며, 단순히 MPlayer가 코어AVC 바이너리를 이용할 수 있게끔 해주는 것이다. 이 프로젝트는 또한 [MythTV](https://ko.wikipedia.org/wiki/MythTV "wikilink")에 대한 패치를 포함하고 있다.
+구글 코드가 호스팅하고 있는 오픈소스 프로젝트가 하나 있다. 이름은 [CoreAVC-For-Linux](http://code.google.com/p/coreavc-for-linux/) 인데, [MPlayer](https://ko.wikipedia.org/wiki/MPlayer "wikilink")의 [다이렉트쇼](../Page/다이렉트쇼.md "wikilink") 로더 코드를 패치하여, win32 코어AVC 다이렉트 필터를 연결할 수 있게끔 해주는 것이다. 이 프로젝트는 코어AVC 바이너리 자체는 포함하지 않으며, 단순히 MPlayer가 코어AVC 바이너리를 이용할 수 있게끔 해주는 것이다. 이 프로젝트는 또한 [MythTV](../Page/MythTV.md "wikilink")에 대한 패치를 포함하고 있다.
 
 ## 엔비디아 쿠다 지원
 
-2009년 10월 2일에 코어코덱은 코어AVC에 [엔비디아](https://ko.wikipedia.org/wiki/엔비디아 "wikilink") [CUDA](https://ko.wikipedia.org/wiki/CUDA "wikilink") 지원에 대한 추가 업데이트를 공개하였다.\[4\] CUDA는 선정된 엔비디아 그래픽 카드들이 비디오 디코딩을 도와 줄 수 있게 한다.
+2009년 10월 2일에 코어코덱은 코어AVC에 [엔비디아](../Page/엔비디아.md "wikilink") [CUDA](../Page/CUDA.md "wikilink") 지원에 대한 추가 업데이트를 공개하였다.\[4\] CUDA는 선정된 엔비디아 그래픽 카드들이 비디오 디코딩을 도와 줄 수 있게 한다.
 
 ## 각주
 

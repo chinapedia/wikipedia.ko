@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [RF](https://ko.wikipedia.org/wiki/RF).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:JORF-yokohama.JPG "wikilink") 본사\]\] **RF라디오닛폰**은 [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink")에 본사를 두고 있는 중파 라디오 방송국이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:JORF-yokohama.JPG "wikilink") 본사\]\] **RF라디오닛폰**은 [가나가와현](../Page/가나가와현.md "wikilink")에 본사를 두고 있는 중파 라디오 방송국이다.
 
-[1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") 개국했으며 약칭은 콜사인 끝에서 따온 RF이다.
+[1958년](../Page/1958년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") 개국했으며 약칭은 콜사인 끝에서 따온 RF이다.
 
 ## 개요
 
@@ -14,39 +14,39 @@
 
 ## 연혁
 
-  - [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [8월 15일](https://ko.wikipedia.org/wiki/8월_15일 "wikilink") - **주식회사 라디오간토**설립(라디오 가나가와, 쇼난 방송, 가나가와방송이 신청한 면허 신청을 일원화해서 설립)
-  - [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") -일본 40번째 중파방송국으로 개국(1480kc, 1 kW)
-  - [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") - 10kW로 증력
-  - [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") - 라디오간토에서 주최한 공개 녹음회에서 압사사고가 발생해 사망자 12명, 중경상자 14명의 인명피해를 냈다.
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") - 도쿄지사를 옮기면서 실질적인 본사 기능을 요코하마에서 도쿄로 이전시킨다.
-  - [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") [9월 18일](https://ko.wikipedia.org/wiki/9월_18일 "wikilink") - 태풍 취재중이던 라디오카가 바다로 떨어지면서 기자·아나운서 6명 익사
-  - [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") - 주파수를 1420kc로 변경
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") - 30kW로 증력
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") - [요미우리 신문과](../Page/요미우리_신문.md "wikilink") 자이언츠전 라디오 중계 독점 계약을 체결
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") - 뉴스 제공처를 [마이니치 신문에서](../Page/마이니치_신문.md "wikilink") 요미우리 신문사로 변경
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") - ITU(국제 전기통신 연합) 의 결정으로 주파수가 오전 5시를 기해 주파수가 1422 kHz로 변경되었다.
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [7월 20일](https://ko.wikipedia.org/wiki/7월_20일 "wikilink") - 오다와라 방송국 방송 개시
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") - 50kW로 출력을 키우면서 현재의 회사명으로 변경
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") - 「사회의 목탁」선언(아이돌 라디오나 팝 프로그램이 줄어 들기 시작한다)
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") - 젊은 층을 겨냥한 프로그램을 완전히 폐지
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") - 「어른의 방송국」을 편성의 기본방침으로 정하고 50세 이상의 청취자를 중심으로 한다
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") - 사회의 목탁 선언을 한 도야마 회장 해임(이사회에 의한 쿠데타)
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") - 회장일가가 소유한 라디오닛폰 주식을 [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")가 매입하면서 니혼TV 관계회사가 된다.
+  - [1958년](../Page/1958년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") - **주식회사 라디오간토**설립(라디오 가나가와, 쇼난 방송, 가나가와방송이 신청한 면허 신청을 일원화해서 설립)
+  - [1958년](../Page/1958년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") -일본 40번째 중파방송국으로 개국(1480kc, 1 kW)
+  - [1959년](../Page/1959년.md "wikilink") - 10kW로 증력
+  - [1960년](../Page/1960년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") - 라디오간토에서 주최한 공개 녹음회에서 압사사고가 발생해 사망자 12명, 중경상자 14명의 인명피해를 냈다.
+  - [1964년](../Page/1964년.md "wikilink") - 도쿄지사를 옮기면서 실질적인 본사 기능을 요코하마에서 도쿄로 이전시킨다.
+  - [1965년](../Page/1965년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") - 태풍 취재중이던 라디오카가 바다로 떨어지면서 기자·아나운서 6명 익사
+  - [1968년](../Page/1968년.md "wikilink") - 주파수를 1420kc로 변경
+  - [1971년](../Page/1971년.md "wikilink") [11월](../Page/11월.md "wikilink") - 30kW로 증력
+  - [1977년](../Page/1977년.md "wikilink") [11월](../Page/11월.md "wikilink") - [요미우리 신문과](../Page/요미우리_신문.md "wikilink") 자이언츠전 라디오 중계 독점 계약을 체결
+  - [1978년](../Page/1978년.md "wikilink") [1월](../Page/1월.md "wikilink") - 뉴스 제공처를 [마이니치 신문에서](../Page/마이니치_신문.md "wikilink") 요미우리 신문사로 변경
+  - [1978년](../Page/1978년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") - ITU(국제 전기통신 연합) 의 결정으로 주파수가 오전 5시를 기해 주파수가 1422 kHz로 변경되었다.
+  - [1981년](../Page/1981년.md "wikilink") [7월 20일](../Page/7월_20일.md "wikilink") - 오다와라 방송국 방송 개시
+  - [1981년](../Page/1981년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - 50kW로 출력을 키우면서 현재의 회사명으로 변경
+  - [1982년](../Page/1982년.md "wikilink") [4월](../Page/4월.md "wikilink") - 「사회의 목탁」선언(아이돌 라디오나 팝 프로그램이 줄어 들기 시작한다)
+  - [1989년](../Page/1989년.md "wikilink") [4월](../Page/4월.md "wikilink") - 젊은 층을 겨냥한 프로그램을 완전히 폐지
+  - [1990년](../Page/1990년.md "wikilink") - 「어른의 방송국」을 편성의 기본방침으로 정하고 50세 이상의 청취자를 중심으로 한다
+  - [1993년](../Page/1993년.md "wikilink") [12월](../Page/12월.md "wikilink") - 사회의 목탁 선언을 한 도야마 회장 해임(이사회에 의한 쿠데타)
+  - [1994년](../Page/1994년.md "wikilink") - 회장일가가 소유한 라디오닛폰 주식을 [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")가 매입하면서 니혼TV 관계회사가 된다.
 
 ## 「사회의 목탁」선언
 
-「라디오 간토」시절에는 여성 아이돌 중심 프로그램을 방송하는 등 보통의 중파라디오 방송국과 다른점이 없었지만 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 당시 사장이었던 도야마 가게히사가 「사회의 목탁」선언을 실시하면서 프로그램 편성을 젊은 층을 겨냥한 프로그램에서 반공적인 논설 프로그램이나 엔카를 중심으로 샐러리맨·중고령층을 대상으로 한 편성으로 바꾸었고 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 4월에는 마침내 젊은 층을 겨냥한 프로그램을 완전히 중단하고 젊은 층을 겨냥한 음악도 방송하지 않게 되었다.그 결과 하루종일 RF를 듣는 택시·트럭 운전기사를 제외한 대부분의 젊은 청취자가 RF를 듣지 않게 되었고 이를 지켜본 스폰서가 RF에서 이탈하게 되어 방송국 경영을 악화시키고 말았다.
+「라디오 간토」시절에는 여성 아이돌 중심 프로그램을 방송하는 등 보통의 중파라디오 방송국과 다른점이 없었지만 [1982년](../Page/1982년.md "wikilink") 당시 사장이었던 도야마 가게히사가 「사회의 목탁」선언을 실시하면서 프로그램 편성을 젊은 층을 겨냥한 프로그램에서 반공적인 논설 프로그램이나 엔카를 중심으로 샐러리맨·중고령층을 대상으로 한 편성으로 바꾸었고 [1989년](../Page/1989년.md "wikilink") 4월에는 마침내 젊은 층을 겨냥한 프로그램을 완전히 중단하고 젊은 층을 겨냥한 음악도 방송하지 않게 되었다.그 결과 하루종일 RF를 듣는 택시·트럭 운전기사를 제외한 대부분의 젊은 청취자가 RF를 듣지 않게 되었고 이를 지켜본 스폰서가 RF에서 이탈하게 되어 방송국 경영을 악화시키고 말았다.
 
 거기에다가 시간이 지나면서 여러가지 극단적인 일이 일어났는데 RF에서 방송을 시작한 「하야시바라 메구미의 Heartful Station」이라는 라디오 방송이 방송을 시작한 지 얼마 되지 않은 상황에서 갑자기 중지되거나\[1\] 프로그램중에서 진행자가 「(방송국 지정 장르 곡 이외의)다른 곡도 틀고 싶다」는 취지의 발언을 했다고 프로그램을 중단시키는 등 도야마 사장 임기 말이었던 1993년에는 방송도중 중지된 프로그램이 21개에 달하는 등 청취자에게도 좋지 않은 상황으로 이어졌다.
 
-그러면서 도야마 사장은 방송국내에서 독단적인 경영을 시행하면서 자신의 경영방침에 반하는 사원을 추방하기 시작해 최전성기때 150명 이상 존재했던 사원이 50명 이하가 될정도로 철저히 자기중심 인사·노무 정책을 실시했지만,[1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") 도야마 사장의 독주에 불만을 품고있던 간부들중 일부가 이사회에서 도야마를 「공공의 전파를 맡는 방송회사 대표로 적합하지 못하다.」라는 이유로 도야마를 추방하면서 도야마 독주체제를 무너뜨렸다. 그 후 이사회는 후임 사장으로 [요미우리 신문](../Page/요미우리_신문.md "wikilink")·[니혼 TV출신](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 사장을 선임하게 되었고 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 도야마 사장측에 부당한 사업으로 회사에게 준 손해배상을 요구하는 등 도야마 경영 시대의 청산을 도모하였고 그 결과 도야마 사장측이 소유한 라디오닛폰 주식이 요미우리 신문의 산하에 있는 니혼 TV가 매입하면서 경영이 안정되기 시작했다.
+그러면서 도야마 사장은 방송국내에서 독단적인 경영을 시행하면서 자신의 경영방침에 반하는 사원을 추방하기 시작해 최전성기때 150명 이상 존재했던 사원이 50명 이하가 될정도로 철저히 자기중심 인사·노무 정책을 실시했지만,[1993년](../Page/1993년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") 도야마 사장의 독주에 불만을 품고있던 간부들중 일부가 이사회에서 도야마를 「공공의 전파를 맡는 방송회사 대표로 적합하지 못하다.」라는 이유로 도야마를 추방하면서 도야마 독주체제를 무너뜨렸다. 그 후 이사회는 후임 사장으로 [요미우리 신문](../Page/요미우리_신문.md "wikilink")·[니혼 TV출신](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 사장을 선임하게 되었고 [1994년](../Page/1994년.md "wikilink") [2월](../Page/2월.md "wikilink") 도야마 사장측에 부당한 사업으로 회사에게 준 손해배상을 요구하는 등 도야마 경영 시대의 청산을 도모하였고 그 결과 도야마 사장측이 소유한 라디오닛폰 주식이 요미우리 신문의 산하에 있는 니혼 TV가 매입하면서 경영이 안정되기 시작했다.
 
 ## 주파수
 
   - 가와사키 사이와이방송국 1422kHz 50kW JORF
   - 오다와라 방송국 1485kHz 100W JORL
 
-## [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [가나가와현](../Page/가나가와현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
   - [NHK 요코하마 방송국](https://ko.wikipedia.org/wiki/NHK_요코하마_방송국 "wikilink")
   - [TV 가나가와](../Page/TV_가나가와.md "wikilink")(tvk)(독립 텔레비전 방송국)

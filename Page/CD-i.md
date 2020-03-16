@@ -3,11 +3,11 @@
 
 **CD-i**(**Compact Disc Interactive**)는 [필립스](../Page/필립스.md "wikilink")에서 개발한 대화형 멀티미디어 CD 플레이어이다. 텍스트, 오디오, 애니메이션, 비디오 등을 기록하기 위해 1986년 필립스와 소니가 제안한 기술로 [그린북](https://ko.wikipedia.org/wiki/그린북_\(콤팩트_디스크\) "wikilink")(Green Book)이라는 표준 규격으로 제정되었다.
 
-최초의 CD-i 플레이어는 필립스에서 1991년 700달러에 발매하였으며 대화형 CD-i 디스크와 [오디오 CD](https://ko.wikipedia.org/wiki/오디오_CD "wikilink"), [CD+G](https://ko.wikipedia.org/wiki/CD+G "wikilink")(CD+Graphics), [가라오케 CD를](https://ko.wikipedia.org/wiki/가라오케_CD "wikilink") 기본으로 재생할 수 있었으며, 옵션인 *디지털 비디오 카드*를 추가하면 [비디오 CD](../Page/비디오_CD.md "wikilink")(VCD)를 재생할 수 있었다.
+최초의 CD-i 플레이어는 필립스에서 1991년 700달러에 발매하였으며 대화형 CD-i 디스크와 [오디오 CD](https://ko.wikipedia.org/wiki/오디오_CD "wikilink"), [CD+G](../Page/CD+G.md "wikilink")(CD+Graphics), [가라오케 CD를](https://ko.wikipedia.org/wiki/가라오케_CD "wikilink") 기본으로 재생할 수 있었으며, 옵션인 *디지털 비디오 카드*를 추가하면 [비디오 CD](../Page/비디오_CD.md "wikilink")(VCD)를 재생할 수 있었다.
 
 ## 세부 사항
 
-초기에는 주로 교육이나 음악, 자기 계발 소프트웨어가 발매되었으며 게임은 극히 적은 수의 보드나 퍼즐 게임이 발매되었다. 나중에 *7번째 손님*이나 *미스트*, *레밍스* 등과 같은 PC 게임 이식이나 필립스와 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")의 기술 협정으로 《[호텔 마리오](https://ko.wikipedia.org/wiki/호텔_마리오 "wikilink")》나 《[젤다의 전설](https://ko.wikipedia.org/wiki/젤다의_전설의_CD-i_게임_목록 "wikilink")》 등과 같은 전용 게임 발매로 게임 시장 진출의 발판을 마련하려고 했지만 이후 출시된 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")이나 [세가 새턴](https://ko.wikipedia.org/wiki/세가_새턴 "wikilink"), [닌텐도 64](https://ko.wikipedia.org/wiki/닌텐도_64 "wikilink") 같은 더 싸고 강력한 성능의 게임기로 인해 그러한 노력들은 무산되었다. 필립스의 다각도의 마케팅에도 불구하고 CD-i 타이틀에 대한 소비자의 관심은 낮았으며 1994년 CD-i의 판매는 둔화되었고 1998년에 제품 판매는 중단되었다. 1998년까지의 판매량은 57만 대다.
+초기에는 주로 교육이나 음악, 자기 계발 소프트웨어가 발매되었으며 게임은 극히 적은 수의 보드나 퍼즐 게임이 발매되었다. 나중에 *7번째 손님*이나 *미스트*, *레밍스* 등과 같은 PC 게임 이식이나 필립스와 [닌텐도](../Page/닌텐도.md "wikilink")의 기술 협정으로 《[호텔 마리오](../Page/호텔_마리오.md "wikilink")》나 《[젤다의 전설](../Page/젤다의_전설의_CD-i_게임_목록.md "wikilink")》 등과 같은 전용 게임 발매로 게임 시장 진출의 발판을 마련하려고 했지만 이후 출시된 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")이나 [세가 새턴](../Page/세가_새턴.md "wikilink"), [닌텐도 64](../Page/닌텐도_64.md "wikilink") 같은 더 싸고 강력한 성능의 게임기로 인해 그러한 노력들은 무산되었다. 필립스의 다각도의 마케팅에도 불구하고 CD-i 타이틀에 대한 소비자의 관심은 낮았으며 1994년 CD-i의 판매는 둔화되었고 1998년에 제품 판매는 중단되었다. 1998년까지의 판매량은 57만 대다.
 
 ## 제품
 
@@ -17,11 +17,11 @@
   - CD-i 600 시리즈(601, 602, 604, 605, 615, 660, 670 모델) : 응용 프로그램 및 소프트웨어 개발용. 플로피 디스크 드라이브나 키보드 등 컴퓨터 주변기기와 연결할 수 있다.
   - 이 밖에 미니 콤포넌트 오디오 FW380i이나 텔레비전에 내장된 21TCDI30 등이 있다.
 
-필립스 이외에 [마그나복스](../Page/마그나복스.md "wikilink"), 금성([LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")), [디지털 비디오 시스템](https://ko.wikipedia.org/wiki/디지털_비디오_시스템 "wikilink"), [메모렉스](https://ko.wikipedia.org/wiki/메모렉스 "wikilink"), [그룬딕](https://ko.wikipedia.org/wiki/그룬딕 "wikilink"), [소니](https://ko.wikipedia.org/wiki/소니 "wikilink"), [쿄세라](https://ko.wikipedia.org/wiki/쿄세라 "wikilink"), [NBS](https://ko.wikipedia.org/wiki/NBS "wikilink"), [하이스크린](https://ko.wikipedia.org/wiki/하이스크린 "wikilink"), [뱅 앤 올룹슨](../Page/뱅_앤_올룹슨.md "wikilink") 등과 같은 회사가 제조 판매하였다.
+필립스 이외에 [마그나복스](../Page/마그나복스.md "wikilink"), 금성([LG전자](../Page/LG전자.md "wikilink")), [디지털 비디오 시스템](https://ko.wikipedia.org/wiki/디지털_비디오_시스템 "wikilink"), [메모렉스](https://ko.wikipedia.org/wiki/메모렉스 "wikilink"), [그룬딕](https://ko.wikipedia.org/wiki/그룬딕 "wikilink"), [소니](../Page/소니.md "wikilink"), [쿄세라](https://ko.wikipedia.org/wiki/쿄세라 "wikilink"), [NBS](https://ko.wikipedia.org/wiki/NBS "wikilink"), [하이스크린](https://ko.wikipedia.org/wiki/하이스크린 "wikilink"), [뱅 앤 올룹슨](../Page/뱅_앤_올룹슨.md "wikilink") 등과 같은 회사가 제조 판매하였다.
 
 ## TeleCD-i
 
-1992년 필립스의 파트너인 CDMATICS는 TeleCD-i를 개발했는데 CD-i를 [PSTN](https://ko.wikipedia.org/wiki/PSTN "wikilink"), [인터넷](../Page/인터넷.md "wikilink") 등의 [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink")에 연결해 풍부한 미디어 제공과 데이터 통신을 가능하게 만들었다. [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink")의 잡화 체인점인 Albert Heijn와 통신판매회사인 Neckermann Shopping는 TeleCD-i를 도입해 [홈쇼핑](https://ko.wikipedia.org/wiki/홈쇼핑 "wikilink")에 이용했다.
+1992년 필립스의 파트너인 CDMATICS는 TeleCD-i를 개발했는데 CD-i를 [PSTN](https://ko.wikipedia.org/wiki/PSTN "wikilink"), [인터넷](../Page/인터넷.md "wikilink") 등의 [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink")에 연결해 풍부한 미디어 제공과 데이터 통신을 가능하게 만들었다. [네덜란드](../Page/네덜란드.md "wikilink")의 잡화 체인점인 Albert Heijn와 통신판매회사인 Neckermann Shopping는 TeleCD-i를 도입해 [홈쇼핑](https://ko.wikipedia.org/wiki/홈쇼핑 "wikilink")에 이용했다.
 
 ## 사양
 

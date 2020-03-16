@@ -7,7 +7,7 @@
 
 ## 이전 게임과 달라진 점
 
-  - 문명과 지도자의 추가: [바빌로니아](../Page/바빌로니아.md "wikilink")의 [함무라비 대왕](../Page/함무라비.md "wikilink"), [비잔티움 제국의](https://ko.wikipedia.org/wiki/비잔티움_제국 "wikilink") [유스티니아누스 1세와](../Page/유스티니아누스_1세.md "wikilink") 같은 10개의 새로운 문명이 추가되었다. 또 새로운 문명의 지도자 10명에 더해 [켈트](https://ko.wikipedia.org/wiki/켈트 "wikilink")의 [부디카](https://ko.wikipedia.org/wiki/부디카 "wikilink"), [페르시아 제국의](https://ko.wikipedia.org/wiki/페르시아_제국 "wikilink") [다리우스 1세와](../Page/다리우스_1세.md "wikilink") 같은 6명의 새로운 지도자도 추가되었다.
+  - 문명과 지도자의 추가: [바빌로니아](../Page/바빌로니아.md "wikilink")의 [함무라비 대왕](../Page/함무라비.md "wikilink"), [비잔티움 제국의](../Page/비잔티움_제국.md "wikilink") [유스티니아누스 1세와](../Page/유스티니아누스_1세.md "wikilink") 같은 10개의 새로운 문명이 추가되었다. 또 새로운 문명의 지도자 10명에 더해 [켈트](https://ko.wikipedia.org/wiki/켈트 "wikilink")의 [부디카](../Page/부디카.md "wikilink"), [페르시아 제국의](../Page/페르시아_제국.md "wikilink") [다리우스 1세와](../Page/다리우스_1세.md "wikilink") 같은 6명의 새로운 지도자도 추가되었다.
   - 시나리오의 추가: 12개의 새로운 시나리오가 추가되었으며, 그 중의 일부는 기존의 [모드의](https://ko.wikipedia.org/wiki/문명_IV#게임_개조\(모드\) "wikilink") 제작자가 참여하였다.
   - 불가사의의 추가: [쉐다곤 파야](https://ko.wikipedia.org/wiki/쉐다곤_파야 "wikilink"), [재림 예수상과](https://ko.wikipedia.org/wiki/재림_예수상 "wikilink") 같은 5개의 새로운 세계적 불가사의와 한 개의 국가적 불가사의인 [모아이 석상이](https://ko.wikipedia.org/wiki/모아이_석상 "wikilink") 추가되었다.
   - 교황청:새로운 불가사의인 [교황청](https://ko.wikipedia.org/wiki/교황청 "wikilink")은 현대의 [UN](https://ko.wikipedia.org/wiki/UN "wikilink")과 같이 여러 결의안을 통과시킬 수 있으며, [외교적 승리의](https://ko.wikipedia.org/wiki/외교적_승리 "wikilink") 기능도 가진다.

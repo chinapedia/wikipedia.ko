@@ -9,16 +9,16 @@
 
 **CD1**
 
-1.  **사랑을 외치다** (신인수 작곡, [양재선](https://ko.wikipedia.org/wiki/양재선 "wikilink") 작사, 신인수 편곡)
+1.  **사랑을 외치다** (신인수 작곡, [양재선](../Page/양재선.md "wikilink") 작사, 신인수 편곡)
 2.  Returns ([빈크](https://ko.wikipedia.org/wiki/빈크 "wikilink") 작곡, [안성일](../Page/안성일_\(프로듀서\).md "wikilink") 작사, 빈크 편곡)
-3.  가슴아 그만해 (신인수 작곡, [양재선](https://ko.wikipedia.org/wiki/양재선 "wikilink") 작사, 신인수 편곡)
+3.  가슴아 그만해 (신인수 작곡, [양재선](../Page/양재선.md "wikilink") 작사, 신인수 편곡)
 4.  사랑이 끝나면 (M/V Mix) ([제이 윤](../Page/제이_윤.md "wikilink") 작사·곡, 빈크 편곡)
 5.  사랑이 사랑을 버리다 (신인수 작곡, 양재선 작사, 신인수 편곡)
 6.  HOPE (빈크 작곡, [이수](../Page/이수_\(가수\).md "wikilink") 작사, 빈크 편곡)
 7.  모래시계 (표건수 작곡, 이원석 작사, 표건수 편곡)
 8.  너만 있으면… (신인수 작곡, 윤사라 작사, 최영호 편곡)
-9.  Oh\! Plz (제이 윤 작곡, 이수 작사, 표건수 편곡, [최진이](https://ko.wikipedia.org/wiki/최진이_\(가수\) "wikilink") 피쳐링)
-10. 눈을 감아도 (강우현 작곡, [레인](https://ko.wikipedia.org/wiki/레인 "wikilink") 작사, 안성일 편곡)
+9.  Oh\! Plz (제이 윤 작곡, 이수 작사, 표건수 편곡, [최진이](../Page/최진이_\(가수\).md "wikilink") 피쳐링)
+10. 눈을 감아도 (강우현 작곡, [레인](../Page/레인.md "wikilink") 작사, 안성일 편곡)
 11. Rain (제이 윤 작사·곡, 표건수 편곡, 멤버 전원 보컬 참여)
 12. Moment (이수 작사·곡, 표건수 편곡)
 13. What A Wonderful World (이수 작사, 곡, 표건수 편곡)

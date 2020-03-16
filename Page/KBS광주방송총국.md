@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
 
 
-**KBS광주방송총국**(KBS光州放送總局)은 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")와 [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 중북부지역을 대상으로 하는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")의 지역방송총국이다. 지역총국 중 하나로, 하부에 [KBS목포방송국](https://ko.wikipedia.org/wiki/KBS목포방송국 "wikilink")과 [KBS순천방송국](https://ko.wikipedia.org/wiki/KBS순천방송국 "wikilink")을 두고 있다.
+**KBS광주방송총국**(KBS光州放送總局)은 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")와 [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 중북부지역을 대상으로 하는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")의 지역방송총국이다. 지역총국 중 하나로, 하부에 [KBS목포방송국](../Page/KBS목포방송국.md "wikilink")과 [KBS순천방송국](../Page/KBS순천방송국.md "wikilink")을 두고 있다.
 
 ## 개요
 
-1942년 광주방송국으로 개국하여 1973년 [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 광주방송국으로 발족, 1982년 NHK후쿠오카방송국 자매결연. 1986년 12월 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공사 직제개편으로 KBS 광주방송총국으로 승격되었다. 1998년 광주상무지구에 신청사를 기공하여, 2000년 12월 준공했다. 2003년 11월 디지털TV를 개국했다.
+1942년 광주방송국으로 개국하여 1973년 [한국방송공사](../Page/한국방송공사.md "wikilink") 광주방송국으로 발족, 1982년 NHK후쿠오카방송국 자매결연. 1986년 12월 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공사 직제개편으로 KBS 광주방송총국으로 승격되었다. 1998년 광주상무지구에 신청사를 기공하여, 2000년 12월 준공했다. 2003년 11월 디지털TV를 개국했다.
 
 보도, 지역현안, 지역민 문제에 대한 시사교양적 프로그램을 자체제작하여 편성하며, 대부분의 프로그램은 KBS본사의 프로그램을 릴레이하여 편성한다.
 
@@ -29,9 +29,9 @@
 
 2003년 11월 28일 제1DTV, 제2DTV 방송이 개국하였다. 뒤이어 2005년 2월 18일에는 교육DTV방송이 개국되었으며, 2006년 6월 4일에는 실용화시험국으로서의 지상파DMB 송신기공사가 완료되었고, 2006년 11월 30일에는 제1라디오 영광중게소(1323KHz)가 폐소되었다. 이후 중계소 부지는 교회로 탈바꿈한 상태이다. 2007년 8월 1일 183.008MHz(DMB CH 8B), 출력 2kW로 지상파DMB방송을 개국하였다.
 
-2012년 10월 30일, 44년간 지속해왔던 지상파 아날로그 TV 방송이 폐지되었고, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 12일에는](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") 디지털TV방송 주파수 재배치를 완료했다.
+2012년 10월 30일, 44년간 지속해왔던 지상파 아날로그 TV 방송이 폐지되었고, [2013년](../Page/2013년.md "wikilink") [6월 12일에는](../Page/6월_12일.md "wikilink") 디지털TV방송 주파수 재배치를 완료했다.
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") KBS광주 1TV 와 KBS광주 2TV UHD 방송개국.
+[2017년](../Page/2017년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") KBS광주 1TV 와 KBS광주 2TV UHD 방송개국.
 
 ## 방송 송출 시설망
 
@@ -153,7 +153,7 @@ PC,모바일 MY K로 실시간 시청 가능
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스광장" title="wikilink">KBS 뉴스광장 광주·전남</a></p></td>
+<td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 광주·전남</a></p></td>
 <td><p>15분</p></td>
 <td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 45분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김한별_(아나운서)" title="wikilink">김한별</a></p></td>
@@ -171,7 +171,7 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="https://ko.wikipedia.org/wiki/박상훈" title="wikilink">박상훈</a>, 최혜진</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7" title="wikilink">KBS 뉴스 7 광주·전남</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 광주·전남</a></p></td>
 <td><p>5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/임진숙" title="wikilink">임진숙</a></p></td>
@@ -190,7 +190,7 @@ PC,모바일 MY K로 실시간 시청 가능
 
 #### TV 프로그램
 
-  - 모든방송은 HD기준인 동시에 지역총국은 DMB방송을 하지않으며 [6시 내고향은](https://ko.wikipedia.org/wiki/6시_내고향 "wikilink") 월\~목요일사이에 네트워크 제작을 한다.
+  - 모든방송은 HD기준인 동시에 지역총국은 DMB방송을 하지않으며 [6시 내고향은](../Page/6시_내고향.md "wikilink") 월\~목요일사이에 네트워크 제작을 한다.
 
 <table>
 <thead>
@@ -313,7 +313,7 @@ PC,모바일 MY K로 실시간 시청 가능
 
 ### 음악FM
 
-  - [오후의 풍경과 음악](http://program.kbs.co.kr/1fm/local/aftermusic/pc/) (음악, 평일, 16시\~17시)(진행 [정은아](https://ko.wikipedia.org/wiki/정은아 "wikilink"))(TV:동시 송출)
+  - [오후의 풍경과 음악](http://program.kbs.co.kr/1fm/local/aftermusic/pc/) (음악, 평일, 16시\~17시)(진행 [정은아](../Page/정은아.md "wikilink"))(TV:동시 송출)
   - 여기는 KBS 광주 음악FM (매일 오전 4시 54분 \~ 5시) (시보자 [임진숙](https://ko.wikipedia.org/wiki/임진숙 "wikilink"))(TV:동시 송출)
 
 ## 직원
@@ -321,23 +321,23 @@ PC,모바일 MY K로 실시간 시청 가능
 | [KBS광주방송총국 아나운서](http://gwangju.kbs.co.kr/about/announcer/index.html) |
 | --------------------------------------------------------------------- |
 | 입사연도                                                                  |
-| [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")               |
-| [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink")               |
-| [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")               |
-| [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink")               |
-| [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")               |
-| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")               |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")               |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink")               |
+| [1980년](../Page/1980년.md "wikilink")                                  |
+| [1982년](../Page/1982년.md "wikilink")                                  |
+| [1985년](../Page/1985년.md "wikilink")                                  |
+| [1986년](../Page/1986년.md "wikilink")                                  |
+| [1987년](../Page/1987년.md "wikilink")                                  |
+| [2004년](../Page/2004년.md "wikilink")                                  |
+| [2010년](../Page/2010년.md "wikilink")                                  |
+| [2019년](../Page/2019년.md "wikilink")                                  |
 
 ### 전직 아나운서
 
 #### 남성
 
-  - [김은성](https://ko.wikipedia.org/wiki/김은성_\(아나운서\) "wikilink")(1997\~1998, 현 KBS 서울본국)
-  - [장웅](https://ko.wikipedia.org/wiki/장웅_\(아나운서\) "wikilink")(2000\~2001, 현 KBS 서울본국)
-  - [김희수](https://ko.wikipedia.org/wiki/김희수_\(아나운서\) "wikilink")(2002\~2003, 현 KBS 서울본국)
-  - [이상호](https://ko.wikipedia.org/wiki/이상호_\(아나운서\) "wikilink")(2003\~2004, 현 KBS 서울본국)
+  - [김은성](../Page/김은성_\(아나운서\).md "wikilink")(1997\~1998, 현 KBS 서울본국)
+  - [장웅](../Page/장웅_\(아나운서\).md "wikilink")(2000\~2001, 현 KBS 서울본국)
+  - [김희수](../Page/김희수_\(아나운서\).md "wikilink")(2002\~2003, 현 KBS 서울본국)
+  - [이상호](../Page/이상호_\(아나운서\).md "wikilink")(2003\~2004, 현 KBS 서울본국)
   - [배성재](https://ko.wikipedia.org/wiki/배성재 "wikilink")(2005, 현 SBS 아나운서)
   - [김병욱](https://ko.wikipedia.org/wiki/김병욱_\(아나운서\) "wikilink")
   - 박대식 (정년퇴임)
@@ -345,8 +345,8 @@ PC,모바일 MY K로 실시간 시청 가능
 #### 여성
 
   - [양율희](https://ko.wikipedia.org/wiki/양율희 "wikilink") (퇴사)
-  - [홍소연](https://ko.wikipedia.org/wiki/홍소연 "wikilink") (현 KBS 서울본국)
-  - [임지현](https://ko.wikipedia.org/wiki/임지현 "wikilink") ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 전 KNN 아나운서, 전 청주MBC 아나운서, 현 MBC 라디오 뉴스캐스터)
+  - [홍소연](../Page/홍소연.md "wikilink") (현 KBS 서울본국)
+  - [임지현](https://ko.wikipedia.org/wiki/임지현 "wikilink") ([2006년](../Page/2006년.md "wikilink") 전 KNN 아나운서, 전 청주MBC 아나운서, 현 MBC 라디오 뉴스캐스터)
   - [이혜성](../Page/이혜성.md "wikilink") (2016\~2018, 현 KBS 서울본국)
   - [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") (현 KBS순천방송국)
 
@@ -362,7 +362,7 @@ PC,모바일 MY K로 실시간 시청 가능
 
   - [김강용](https://ko.wikipedia.org/wiki/김강용 "wikilink")
   - [김광상](https://ko.wikipedia.org/wiki/김광상 "wikilink")
-  - [김기중](https://ko.wikipedia.org/wiki/김기중 "wikilink")
+  - [김기중](../Page/김기중.md "wikilink")
   - [류성호](https://ko.wikipedia.org/wiki/류성호 "wikilink")
   - [박상훈](https://ko.wikipedia.org/wiki/박상훈_\(기자\) "wikilink")
   - [박지성](https://ko.wikipedia.org/wiki/박지성_\(기자\) "wikilink")
@@ -376,7 +376,7 @@ PC,모바일 MY K로 실시간 시청 가능
   - [김혜정](https://ko.wikipedia.org/wiki/김혜정 "wikilink")
   - [이성각](https://ko.wikipedia.org/wiki/이성각 "wikilink")
   - [박익원](https://ko.wikipedia.org/wiki/박익원 "wikilink")
-  - [박찬기](https://ko.wikipedia.org/wiki/박찬기 "wikilink")
+  - [박찬기](../Page/박찬기.md "wikilink")
   - [양창희](https://ko.wikipedia.org/wiki/양창희 "wikilink")
   - [최송현](https://ko.wikipedia.org/wiki/최송현_\(기자\) "wikilink")
   - [이인수](https://ko.wikipedia.org/wiki/이인수 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [C-Media](https://ko.wikipedia.org/wiki/C-Media).
 
 
-**C-Media Electronics Inc.**(씨-미디어 전자기업, )는 PC 오디오와 [USB 기억 장치](https://ko.wikipedia.org/wiki/USB_대용량_장치_계열 "wikilink"), 무선 오디오 장치를 위한 프로세서를 제조하는 [컴퓨터 하드웨어](https://ko.wikipedia.org/wiki/컴퓨터_하드웨어 "wikilink") 회사이다. 사운드 관련 프로세서 및 컨트롤러를 생산하고 보급형 제품부터 고급형 제품까지 골고루 출시하고 있다. 각종 무선 오디오장치 및 헤드폰 및 USB 스피커를 위한 전용 컨트롤러도 제조한다. [리얼텍](../Page/리얼텍.md "wikilink"), [크리에이티브](../Page/크리에이티브_테크놀로지.md "wikilink"), [비아](https://ko.wikipedia.org/wiki/비아_테크놀로지스 "wikilink"), [시러스 로직](https://ko.wikipedia.org/wiki/시러스_로직 "wikilink"), ESS 등과 같은 업체와 경쟁구도를 유지하고 있다.
+**C-Media Electronics Inc.**(씨-미디어 전자기업, )는 PC 오디오와 [USB 기억 장치](https://ko.wikipedia.org/wiki/USB_대용량_장치_계열 "wikilink"), 무선 오디오 장치를 위한 프로세서를 제조하는 [컴퓨터 하드웨어](../Page/컴퓨터_하드웨어.md "wikilink") 회사이다. 사운드 관련 프로세서 및 컨트롤러를 생산하고 보급형 제품부터 고급형 제품까지 골고루 출시하고 있다. 각종 무선 오디오장치 및 헤드폰 및 USB 스피커를 위한 전용 컨트롤러도 제조한다. [리얼텍](../Page/리얼텍.md "wikilink"), [크리에이티브](../Page/크리에이티브_테크놀로지.md "wikilink"), [비아](../Page/비아_테크놀로지스.md "wikilink"), [시러스 로직](../Page/시러스_로직.md "wikilink"), ESS 등과 같은 업체와 경쟁구도를 유지하고 있다.
 
 ## 제품
 

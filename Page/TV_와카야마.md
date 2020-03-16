@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-**TV 와카야마**는 [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") [와카야마현](https://ko.wikipedia.org/wiki/와카야마현 "wikilink")의 독립 UHF방송국으로 개국했다.
+**TV 와카야마**는 [1974년](../Page/1974년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [와카야마현](../Page/와카야마현.md "wikilink")의 독립 UHF방송국으로 개국했다.
 
 약칭은 WTV, 콜사인은 JOOM-DTV이다.
 
@@ -20,10 +20,10 @@
   - TV 와카야마를 수신할 수 있지만 [TV 오사카를](../Page/TV_오사카.md "wikilink") 볼 수 없는 지역에서는 실질적으로 TV도쿄 계열국과 같은 존재로 취급된다.\[1\]
   - TV 와카야마를 [TXN](https://ko.wikipedia.org/wiki/TV_도쿄_네트워크 "wikilink") 계열국이라고 생각하는 사람도 많지만 TV도쿄 및 그 계열국과는 자본 관계가 없으며 TXN 계열국이 아니라 일부 프로그램을 제외하면 대부분의 CM은 자체적으로 내보내고 있다.
 
-## [와카야마현](https://ko.wikipedia.org/wiki/와카야마현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [와카야마현](../Page/와카야마현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
-  - [NHK 와카야마 방송국](https://ko.wikipedia.org/wiki/NHK_와카야마_방송국 "wikilink")
-  - [와카야마 방송](https://ko.wikipedia.org/wiki/와카야마_방송 "wikilink")(WBS)([NRN](../Page/NRN.md "wikilink")&[JRN](https://ko.wikipedia.org/wiki/JRN "wikilink") 계열 라디오 방송국)
+  - [NHK 와카야마 방송국](../Page/NHK_와카야마_방송국.md "wikilink")
+  - [와카야마 방송](../Page/와카야마_방송.md "wikilink")(WBS)([NRN](../Page/NRN.md "wikilink")&[JRN](https://ko.wikipedia.org/wiki/JRN "wikilink") 계열 라디오 방송국)
 
 ## 각주
 

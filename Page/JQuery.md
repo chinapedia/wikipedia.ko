@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [JQuery](https://ko.wikipedia.org/wiki/JQuery).
 
 
-**jQuery**(제이쿼리)는 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")의 [클라이언트 사이드](https://ko.wikipedia.org/wiki/클라이언트_사이드 "wikilink") 조작을 단순화 하도록 설계된 [크로스 플랫폼의](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink") [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")다. [존 레식이](https://ko.wikipedia.org/wiki/존_레식 "wikilink") [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 뉴욕 시 [바캠프](../Page/바캠프.md "wikilink")(Barcamp NYC)에서 공식적으로 소개하였다. jQuery는 오늘날 가장 인기있는 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink") [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink") 중 하나이다.
+**jQuery**(제이쿼리)는 [HTML](../Page/HTML.md "wikilink")의 [클라이언트 사이드](../Page/클라이언트_사이드.md "wikilink") 조작을 단순화 하도록 설계된 [크로스 플랫폼의](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") [자바스크립트](../Page/자바스크립트.md "wikilink") [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")다. [존 레식이](../Page/존_레식.md "wikilink") [2006년](../Page/2006년.md "wikilink") 뉴욕 시 [바캠프](../Page/바캠프.md "wikilink")(Barcamp NYC)에서 공식적으로 소개하였다. jQuery는 오늘날 가장 인기있는 [자바스크립트](../Page/자바스크립트.md "wikilink") [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink") 중 하나이다.
 
-jQuery는 [MIT 라이선스와](https://ko.wikipedia.org/wiki/MIT_라이선스 "wikilink") [GNU 일반 공중 사용 허가서v](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink")2의 [듀얼 라이선스를](https://ko.wikipedia.org/wiki/듀얼_라이선스 "wikilink") 가진 [자유 오픈 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_오픈_소프트웨어 "wikilink"). jQuery의 문법은 코드 보기, [문서 객체 모델](https://ko.wikipedia.org/wiki/문서_객체_모델 "wikilink") 찾기, 애니메이션 만들기, 이벤트 제어, [Ajax](https://ko.wikipedia.org/wiki/Ajax "wikilink") 개발을 쉽게 할 수 있도록 디자인되었다. 또한, jQuery는 개발자가 [플러그인](https://ko.wikipedia.org/wiki/플러그인 "wikilink")을 개발할 수 있는 기능을 제공한다.
+jQuery는 [MIT 라이선스와](https://ko.wikipedia.org/wiki/MIT_라이선스 "wikilink") [GNU 일반 공중 사용 허가서v](../Page/GNU_일반_공중_사용_허가서.md "wikilink")2의 [듀얼 라이선스를](https://ko.wikipedia.org/wiki/듀얼_라이선스 "wikilink") 가진 [자유 오픈 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_오픈_소프트웨어 "wikilink"). jQuery의 문법은 코드 보기, [문서 객체 모델](../Page/문서_객체_모델.md "wikilink") 찾기, 애니메이션 만들기, 이벤트 제어, [Ajax](https://ko.wikipedia.org/wiki/Ajax "wikilink") 개발을 쉽게 할 수 있도록 디자인되었다. 또한, jQuery는 개발자가 [플러그인](../Page/플러그인.md "wikilink")을 개발할 수 있는 기능을 제공한다.
 
-[마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")와 [노키아](https://ko.wikipedia.org/wiki/노키아 "wikilink")는 자사 플랫폼에 jQuery를 포함하는 계획을 발표한 바 있다. [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")는 [비주얼스튜디오](https://ko.wikipedia.org/wiki/비주얼스튜디오 "wikilink")의 ASP.NET AJAX 프레임워크와 ASP.NET MVC 프레임워크에 적용했고, [노키아](https://ko.wikipedia.org/wiki/노키아 "wikilink")는 자사의 [런타임](https://ko.wikipedia.org/wiki/런타임 "wikilink") [웹](https://ko.wikipedia.org/wiki/웹 "wikilink") [위젯](https://ko.wikipedia.org/wiki/위젯 "wikilink") 개발 플랫폼에 통합하였다. 또한, jQuery는 [미디어위키](https://ko.wikipedia.org/wiki/미디어위키 "wikilink")에도 1.16 버전부터 사용되고 있다.
+[마이크로소프트](../Page/마이크로소프트.md "wikilink")와 [노키아](../Page/노키아.md "wikilink")는 자사 플랫폼에 jQuery를 포함하는 계획을 발표한 바 있다. [마이크로소프트](../Page/마이크로소프트.md "wikilink")는 [비주얼스튜디오](https://ko.wikipedia.org/wiki/비주얼스튜디오 "wikilink")의 ASP.NET AJAX 프레임워크와 ASP.NET MVC 프레임워크에 적용했고, [노키아](../Page/노키아.md "wikilink")는 자사의 [런타임](../Page/런타임.md "wikilink") [웹](https://ko.wikipedia.org/wiki/웹 "wikilink") [위젯](https://ko.wikipedia.org/wiki/위젯 "wikilink") 개발 플랫폼에 통합하였다. 또한, jQuery는 [미디어위키](../Page/미디어위키.md "wikilink")에도 1.16 버전부터 사용되고 있다.
 
 ## 기능
 
-  - [DOM](https://ko.wikipedia.org/wiki/문서_객체_모델 "wikilink") 요소 선택 기의 파생 프로젝트이다.\[1\]
+  - [DOM](../Page/문서_객체_모델.md "wikilink") 요소 선택 기의 파생 프로젝트이다.\[1\]
   - DOM 탐색 및 수정 (CSS 1-3 지원)
   - [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink") 셀렉터에 기반한 DOM 조작. 노드 요소 및 노드 속성(아이디 및 클래스)을 셀렉터 생성을 위한 기준으로 사용.
   - 이벤트
@@ -23,7 +23,7 @@ jQuery는 [MIT 라이선스와](https://ko.wikipedia.org/wiki/MIT_라이선스 "
 
 ### 브라우저 지원
 
-jQuery 1.x와 2.x는 모두 최신 안정화 버전 및 그 이후 버전의 [파이어폭스](https://ko.wikipedia.org/wiki/파이어폭스 "wikilink"), [구글 크롬](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink"), [사파리](https://ko.wikipedia.org/wiki/사파리_\(웹_브라우저\) "wikilink"), 그리고 [오페라를](https://ko.wikipedia.org/wiki/오페라_\(웹_브라우저\) "wikilink") 지원한다. 1.x 버전은 [인터넷 익스플로러](https://ko.wikipedia.org/wiki/인터넷_익스플로러 "wikilink") 6 및 그 이후 버전을 지원한다. 그러나 2.x 버전에서는 인터넷 익스플로러 6-8 버전이 지원되지 않으며 인터넷 익스플로러 9 또는 그 이후 버전을 지원한다.\[2\]
+jQuery 1.x와 2.x는 모두 최신 안정화 버전 및 그 이후 버전의 [파이어폭스](https://ko.wikipedia.org/wiki/파이어폭스 "wikilink"), [구글 크롬](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink"), [사파리](../Page/사파리_\(웹_브라우저\).md "wikilink"), 그리고 [오페라를](../Page/오페라_\(웹_브라우저\).md "wikilink") 지원한다. 1.x 버전은 [인터넷 익스플로러](../Page/인터넷_익스플로러.md "wikilink") 6 및 그 이후 버전을 지원한다. 그러나 2.x 버전에서는 인터넷 익스플로러 6-8 버전이 지원되지 않으며 인터넷 익스플로러 9 또는 그 이후 버전을 지원한다.\[2\]
 
 ## 사용법
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Trac](https://ko.wikipedia.org/wiki/Trac).
 
 
-**Trac**(보통 트랙이라고 발음함)은 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 웹 기반 [프로젝트 관리](https://ko.wikipedia.org/wiki/프로젝트_관리 "wikilink") 겸 [버그 추적](https://ko.wikipedia.org/wiki/버그_추적 "wikilink") 툴이다. [엣지월 소프트웨어가](https://ko.wikipedia.org/wiki/엣지월_소프트웨어 "wikilink") 개발하였다.
+**Trac**(보통 트랙이라고 발음함)은 [오픈 소스](../Page/오픈_소스.md "wikilink") 웹 기반 [프로젝트 관리](../Page/프로젝트_관리.md "wikilink") 겸 [버그 추적](https://ko.wikipedia.org/wiki/버그_추적 "wikilink") 툴이다. [엣지월 소프트웨어가](https://ko.wikipedia.org/wiki/엣지월_소프트웨어 "wikilink") 개발하였다.
 
-Trac은 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") 언어로 작성되어 있다. 2005년 중반까지는 [GNU 일반 공중 사용 허가서하에](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 라이선스되었으나, 0.9 버전부터는 [수정 BSD 라이선스하에](https://ko.wikipedia.org/wiki/수정_BSD_라이선스 "wikilink") 라이선스되고 있다.\[1\] 이 라이선스들은 [자유 소프트웨어](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") [라이선스](https://ko.wikipedia.org/wiki/라이선스 "wikilink")들이다.
+Trac은 [파이썬](../Page/파이썬.md "wikilink") 언어로 작성되어 있다. 2005년 중반까지는 [GNU 일반 공중 사용 허가서하에](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 라이선스되었으나, 0.9 버전부터는 [수정 BSD 라이선스하에](https://ko.wikipedia.org/wiki/수정_BSD_라이선스 "wikilink") 라이선스되고 있다.\[1\] 이 라이선스들은 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") [라이선스](https://ko.wikipedia.org/wiki/라이선스 "wikilink")들이다.
 
 ## 역사
 
@@ -11,7 +11,7 @@ Trac은 [CVSTrac](https://ko.wikipedia.org/wiki/CVSTrac "wikilink")의 영향을
 
 ## 기능
 
-Trac은 [버전 관리](../Page/버전_관리.md "wikilink") 소프트웨어의 [웹](../Page/월드_와이드_웹.md "wikilink") 인터페이스 제공, 각종 개선점과 [버그와](../Page/소프트웨어_버그.md "wikilink") 같은 프로젝트의 이슈 트래킹, 그리고 마지막으로 [위키](https://ko.wikipedia.org/wiki/위키 "wikilink")를 통한 문서 관리 및 각 리소스 연동을 주 기능으로 한다. Trac은 [서브버전](https://ko.wikipedia.org/wiki/서브버전 "wikilink"), [Git (소프트웨어)](https://ko.wikipedia.org/wiki/Git_\(소프트웨어\) "wikilink"), [머큐리얼](../Page/머큐리얼.md "wikilink"), [바자 (소프트웨어)와](https://ko.wikipedia.org/wiki/바자_\(소프트웨어\) "wikilink") 같은 [버전 관리](../Page/버전_관리.md "wikilink") 소프트웨어와 같이 연동될 수 있다. 기존 0.10 버전 이전의 Trac에서는, Trac의 웹 인터페이스의 구현이 [클리어실버](https://ko.wikipedia.org/wiki/클리어실버 "wikilink")를 통해 구현되었으나, 0.11 버전 이후로는, 자체 개발한 [겐시](https://ko.wikipedia.org/wiki/겐시 "wikilink")라는 이름의 템플릿 시스템을 사용하고 있다.\[2\]
+Trac은 [버전 관리](../Page/버전_관리.md "wikilink") 소프트웨어의 [웹](../Page/월드_와이드_웹.md "wikilink") 인터페이스 제공, 각종 개선점과 [버그와](../Page/소프트웨어_버그.md "wikilink") 같은 프로젝트의 이슈 트래킹, 그리고 마지막으로 [위키](../Page/위키.md "wikilink")를 통한 문서 관리 및 각 리소스 연동을 주 기능으로 한다. Trac은 [서브버전](../Page/서브버전.md "wikilink"), [Git (소프트웨어)](https://ko.wikipedia.org/wiki/Git_\(소프트웨어\) "wikilink"), [머큐리얼](../Page/머큐리얼.md "wikilink"), [바자 (소프트웨어)와](https://ko.wikipedia.org/wiki/바자_\(소프트웨어\) "wikilink") 같은 [버전 관리](../Page/버전_관리.md "wikilink") 소프트웨어와 같이 연동될 수 있다. 기존 0.10 버전 이전의 Trac에서는, Trac의 웹 인터페이스의 구현이 [클리어실버](https://ko.wikipedia.org/wiki/클리어실버 "wikilink")를 통해 구현되었으나, 0.11 버전 이후로는, 자체 개발한 [겐시](https://ko.wikipedia.org/wiki/겐시 "wikilink")라는 이름의 템플릿 시스템을 사용하고 있다.\[2\]
 
 ## Trac을 쓰는 이들
 

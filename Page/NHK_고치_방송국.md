@@ -1,32 +1,32 @@
 > This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:NHK-Kochi.png "wikilink") **NHK 고치 방송국**(高知 放送局)은 [고치현](https://ko.wikipedia.org/wiki/고치현 "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:NHK-Kochi.png "wikilink") **NHK 고치 방송국**(高知 放送局)은 [고치현](../Page/고치현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
 
 ## 연혁
 
-  - [1932년](https://ko.wikipedia.org/wiki/1932년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 시코쿠 최초의 방송국으로서 고치 방송국 라디오 방송을 개국
-  - [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 나카무라 라디오 중계국 개국
-  - [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") 고치 방송국 라디오 제2방송 개시
-  - [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 고치 방송국 텔레비전 방송 개시
-  - [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") 고치 방송국 텔레비전 지역 방송 개시
-  - [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 고치 방송국 교육 텔레비전 방송 개시
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 고치 방송국 종합 텔레비전 컬러 방송 개시
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 고치 방송국 FM본방송 개시
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 긴급 경보 방송 개시
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 텔레비전 음성 다중 개시
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") 교육 텔레비전 음성다중방송 개시
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") 지상파 디지털 텔레비전 방송 시험 전파 송신 개시
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 4일](https://ko.wikipedia.org/wiki/8월_4일 "wikilink") 지상파 디지털 텔레비전 방송 시험 방송 개시
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 지상파 디지털 텔레비전 본방송 개시
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 지상파 아날로그 텔레비전 방송 종료
+  - [1932년](../Page/1932년.md "wikilink") [3월](../Page/3월.md "wikilink") 시코쿠 최초의 방송국으로서 고치 방송국 라디오 방송을 개국
+  - [1946년](../Page/1946년.md "wikilink") [1월](../Page/1월.md "wikilink") 나카무라 라디오 중계국 개국
+  - [1948년](../Page/1948년.md "wikilink") [12월](../Page/12월.md "wikilink") 고치 방송국 라디오 제2방송 개시
+  - [1958년](../Page/1958년.md "wikilink") [11월](../Page/11월.md "wikilink") 고치 방송국 텔레비전 방송 개시
+  - [1960년](../Page/1960년.md "wikilink") [12월](../Page/12월.md "wikilink") 고치 방송국 텔레비전 지역 방송 개시
+  - [1961년](../Page/1961년.md "wikilink") [8월](../Page/8월.md "wikilink") 고치 방송국 교육 텔레비전 방송 개시
+  - [1964년](../Page/1964년.md "wikilink") [10월](../Page/10월.md "wikilink") 고치 방송국 종합 텔레비전 컬러 방송 개시
+  - [1969년](../Page/1969년.md "wikilink") [3월](../Page/3월.md "wikilink") 고치 방송국 FM본방송 개시
+  - [1985년](../Page/1985년.md "wikilink") [9월](../Page/9월.md "wikilink") 긴급 경보 방송 개시
+  - [1986년](../Page/1986년.md "wikilink") [8월](../Page/8월.md "wikilink") 텔레비전 음성 다중 개시
+  - [1990년](../Page/1990년.md "wikilink") [12월](../Page/12월.md "wikilink") 교육 텔레비전 음성다중방송 개시
+  - [2006년](../Page/2006년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") 지상파 디지털 텔레비전 방송 시험 전파 송신 개시
+  - [2006년](../Page/2006년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 지상파 디지털 텔레비전 방송 시험 방송 개시
+  - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 지상파 디지털 텔레비전 본방송 개시
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 지상파 아날로그 텔레비전 방송 종료
 
 ## 채널·주파수
 
 ### 텔레비전 방송
 
-  - [종합 텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 15ch(JORK-DTV)
-  - [교육 텔레비전](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 13ch(JORB-DTV)
+  - [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 15ch(JORK-DTV)
+  - [교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink") 13ch(JORB-DTV)
 
 ### 라디오 방송
 
@@ -77,14 +77,14 @@
 | 도요노네 중계국     | 87.8MHz | 1W   |              |
 | 모노노베 중계국     | 89.9MHz | 1W   |              |
 
-[FM방송](https://ko.wikipedia.org/wiki/NHK-FM방송 "wikilink")
+[FM방송](../Page/NHK-FM방송.md "wikilink")
 
-## [고치현](https://ko.wikipedia.org/wiki/고치현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [고치현](../Page/고치현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
   - [고치 방송](../Page/고치_방송.md "wikilink")(RKC)(TV는 니혼 TV 계열, 라디오는 JRN\&NRN계열)
   - [TV 고치](../Page/TV_고치.md "wikilink")(KUTV)([도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열)
-  - [고치 산산 TV](https://ko.wikipedia.org/wiki/고치_산산_TV "wikilink")(KSS)([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열)
-  - [FM고치](https://ko.wikipedia.org/wiki/FM고치 "wikilink")([JFN](https://ko.wikipedia.org/wiki/JFN "wikilink") 계열)
+  - [고치 산산 TV](https://ko.wikipedia.org/wiki/고치_산산_TV "wikilink")(KSS)([후지 TV](../Page/후지_TV.md "wikilink") 계열)
+  - [FM고치](https://ko.wikipedia.org/wiki/FM고치 "wikilink")([JFN](../Page/JFN.md "wikilink") 계열)
 
 ## 외부 링크
 

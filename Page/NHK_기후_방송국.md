@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:NHK-Gifu.JPG "wikilink") **NHK 기후 방송국**(岐阜 放送局)은 [기후현](https://ko.wikipedia.org/wiki/기후현 "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 FM라디오·텔레비전 방송을 담당하고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:NHK-Gifu.JPG "wikilink") **NHK 기후 방송국**(岐阜 放送局)은 [기후현](../Page/기후현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 FM라디오·텔레비전 방송을 담당하고 있다.
 
 ## 개요
 
@@ -10,23 +10,23 @@
 
 ## 연혁
 
-  - [1940년](https://ko.wikipedia.org/wiki/1940년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink")　개국
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink")　현역 FM 방송 개시. 이에 기후지역에 설치된 FM중계국의 관리권이 나고야 방송국에서 기후 방송국으로 이관되었다.
-  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [2월 17일](https://ko.wikipedia.org/wiki/2월_17일 "wikilink")　UHF 전파를 이용한 현역 종합 텔레비전 방송 개시. 이에 기후지역에 설치된 기후 현내의 TV중계국의 관리권이 나고야 방송국에서 기후 방송국으로 이관되었다.(교육 텔레비전은 계속 나고야 방송국 담당)
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink")　현역 지상파 디지털 텔레비전 방송 개시.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") - 지상파 아날로그 텔레비전 방송 종료
+  - [1940년](../Page/1940년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink")　개국
+  - [1971년](../Page/1971년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink")　현역 FM 방송 개시. 이에 기후지역에 설치된 FM중계국의 관리권이 나고야 방송국에서 기후 방송국으로 이관되었다.
+  - [1973년](../Page/1973년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink")　UHF 전파를 이용한 현역 종합 텔레비전 방송 개시. 이에 기후지역에 설치된 기후 현내의 TV중계국의 관리권이 나고야 방송국에서 기후 방송국으로 이관되었다.(교육 텔레비전은 계속 나고야 방송국 담당)
+  - [2004년](../Page/2004년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink")　현역 지상파 디지털 텔레비전 방송 개시.
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - 지상파 아날로그 텔레비전 방송 종료
 
 ## 채널·주파수
 
-  - [종합 텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 기후본국 29ch(JOOP-DTV)
-  - [FM방송](https://ko.wikipedia.org/wiki/NHK-FM방송 "wikilink") 기후본국 83.6MHz(JOOP-FM) 출력:1kW
+  - [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 기후본국 29ch(JOOP-DTV)
+  - [FM방송](../Page/NHK-FM방송.md "wikilink") 기후본국 83.6MHz(JOOP-FM) 출력:1kW
 
-※교육 텔레비전과 라디오 제1·제2 라디오 방송은 [NHK 나고야 방송국이](https://ko.wikipedia.org/wiki/NHK_나고야_방송국 "wikilink") 방송을 담당하고 있다.
+※교육 텔레비전과 라디오 제1·제2 라디오 방송은 [NHK 나고야 방송국이](../Page/NHK_나고야_방송국.md "wikilink") 방송을 담당하고 있다.
 
-## [기후현](https://ko.wikipedia.org/wiki/기후현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [기후현](../Page/기후현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
   - [기후 방송](../Page/기후_방송.md "wikilink")(GBS)(독립 텔레비전·라디오 방송국)
-  - [기후 FM방송](https://ko.wikipedia.org/wiki/기후_FM방송 "wikilink")([JFN](https://ko.wikipedia.org/wiki/JFN "wikilink") 계열)
+  - [기후 FM방송](https://ko.wikipedia.org/wiki/기후_FM방송 "wikilink")([JFN](../Page/JFN.md "wikilink") 계열)
 
 ## 외부 링크
 

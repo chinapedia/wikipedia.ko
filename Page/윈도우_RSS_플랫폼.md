@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ RSS ](https://ko.wikipedia.org/wiki/_RSS_).
 
 
-**윈도우 RSS 플랫폼**()은 [인터넷 익스플로러 7](../Page/인터넷_익스플로러_7.md "wikilink") 및 [윈도우 비스타에](../Page/윈도우_비스타.md "wikilink") 내장된 플랫폼으로서, 윈도우 응용 프로그램에게 피드(feed) 처리 및 관리 기능을 제공해주는 플랫폼이다. [인터넷 익스플로러 7의](../Page/인터넷_익스플로러_7.md "wikilink") [RSS](https://ko.wikipedia.org/wiki/RSS "wikilink") 지원 기능이 이 플랫폼에 기반한다.
+**윈도우 RSS 플랫폼**()은 [인터넷 익스플로러 7](../Page/인터넷_익스플로러_7.md "wikilink") 및 [윈도우 비스타에](../Page/윈도우_비스타.md "wikilink") 내장된 플랫폼으로서, 윈도우 응용 프로그램에게 피드(feed) 처리 및 관리 기능을 제공해주는 플랫폼이다. [인터넷 익스플로러 7의](../Page/인터넷_익스플로러_7.md "wikilink") [RSS](../Page/RSS.md "wikilink") 지원 기능이 이 플랫폼에 기반한다.
 
 ## 개요
 
@@ -15,12 +15,12 @@
 
 <!-- end list -->
 
-  - **공통 RSS 피드 목록**(**Common RSS Feed List**) - RSS 플랫폼 API가 노출해주는 가입한 피드들의 목록. [인터넷 익스플로러 7이나](../Page/인터넷_익스플로러_7.md "wikilink") [마이크로소프트 아웃룩](https://ko.wikipedia.org/wiki/마이크로소프트_아웃룩 "wikilink") 같은 모든 RSS 클라이언트들은 이 목록을 공유한다. 목록의 변경이 있었다면, 모든 RSS 리더들 사이에 그 변경이 공유되고 반영된다.
+  - **공통 RSS 피드 목록**(**Common RSS Feed List**) - RSS 플랫폼 API가 노출해주는 가입한 피드들의 목록. [인터넷 익스플로러 7이나](../Page/인터넷_익스플로러_7.md "wikilink") [마이크로소프트 아웃룩](../Page/마이크로소프트_아웃룩.md "wikilink") 같은 모든 RSS 클라이언트들은 이 목록을 공유한다. 목록의 변경이 있었다면, 모든 RSS 리더들 사이에 그 변경이 공유되고 반영된다.
 
 ## 같이 보기
 
-  - [인터넷 익스플로러](https://ko.wikipedia.org/wiki/인터넷_익스플로러 "wikilink") [7](../Page/인터넷_익스플로러_7.md "wikilink")
-  - [마이크로소프트 아웃룩](https://ko.wikipedia.org/wiki/마이크로소프트_아웃룩 "wikilink") [2007](https://ko.wikipedia.org/wiki/마이크로소프트_오피스_2007#마이크로소프트_오피스_아웃룩 "wikilink")
+  - [인터넷 익스플로러](../Page/인터넷_익스플로러.md "wikilink") [7](../Page/인터넷_익스플로러_7.md "wikilink")
+  - [마이크로소프트 아웃룩](../Page/마이크로소프트_아웃룩.md "wikilink") [2007](https://ko.wikipedia.org/wiki/마이크로소프트_오피스_2007#마이크로소프트_오피스_아웃룩 "wikilink")
 
 ## 외부 링크
 

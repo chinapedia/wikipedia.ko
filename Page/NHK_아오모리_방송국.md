@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
 
 
-**NHK 아오모리 방송국**(靑森 放送局)은 [아오모리현](https://ko.wikipedia.org/wiki/아오모리현 "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
+**NHK 아오모리 방송국**(靑森 放送局)은 [아오모리현](../Page/아오모리현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
 
 ## 채널·주파수
 
@@ -9,8 +9,8 @@
 
 ### 텔레비전 방송
 
-  - [종합 텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 아오모리본국 16ch(JOTG-DTV)
-  - [교육 텔레비전](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 아오모리본국 13ch(JOTC-DTV)
+  - [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 아오모리본국 16ch(JOTG-DTV)
+  - [교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink") 아오모리본국 13ch(JOTC-DTV)
 
 ### 라디오 방송
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [FM방송](https://ko.wikipedia.org/wiki/NHK-FM방송 "wikilink")(콜사인:JOTG-FM)
+  - [FM방송](../Page/NHK-FM방송.md "wikilink")(콜사인:JOTG-FM)
       - 아오모리 중계국 86.0MHz 3kW
       - 하치노헤 중계국 81.8MHz 500W
       - 무쓰 중계국 82.7MHz 100W
@@ -40,12 +40,12 @@
       - 에보시다케 중계국 83.4MHz 10W
       - 아지가사와 중계국 85.0MHz 10W
 
-## [아오모리현](https://ko.wikipedia.org/wiki/아오모리현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [아오모리현](../Page/아오모리현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
   - [아오모리 방송](../Page/아오모리_방송.md "wikilink")(RAB)(TV는 [니혼 TV](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 계열, 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")&[NRN](../Page/NRN.md "wikilink")계열)
   - [아오모리 TV](../Page/아오모리_TV.md "wikilink")(ATV)([도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열)
   - [아오모리 아사히 방송](../Page/아오모리_아사히_방송.md "wikilink")(ABA)([TV 아사히](../Page/TV_아사히.md "wikilink") 계열)
-  - [FM아오모리](https://ko.wikipedia.org/wiki/FM아오모리 "wikilink")([JFN](https://ko.wikipedia.org/wiki/JFN "wikilink")계열)
+  - [FM아오모리](https://ko.wikipedia.org/wiki/FM아오모리 "wikilink")([JFN](../Page/JFN.md "wikilink")계열)
 
 ## 외부 링크
 

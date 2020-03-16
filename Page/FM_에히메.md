@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
 
 
-**FM에히메**는 일본의 FM라디오 방송국으로 [에히메현](https://ko.wikipedia.org/wiki/에히메현 "wikilink")에서 방송을 실시하고 있다. TV 방송도 있다면 TV 도쿄와 계열했겠지.
+**FM에히메**는 일본의 FM라디오 방송국으로 [에히메현](../Page/에히메현.md "wikilink")에서 방송을 실시하고 있다. TV 방송도 있다면 TV 도쿄와 계열했겠지.
 
 [JFN](../Page/JFN.md "wikilink")에 가맹했으며 콜사인과 약칭 모두 JOEU-FM이다.
 
@@ -9,15 +9,15 @@
 
   - 시코구 지역 첫 번째 민영 FM방송국이자 일본에서 5번째로 개국한 민영 FM방송국이다.
   - JFN계열 방송국중에서 유일하게 매일 심야방송을 중단하고 있다.
-  - JFN중심 프로그램 공급체제가 이뤄지지 않을때 개국해서인지 자사 제작 프로그램 비율이 높다.(JFN을 중심으로 한 프로그램 공급은 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")부터 시작되었다.)
+  - JFN중심 프로그램 공급체제가 이뤄지지 않을때 개국해서인지 자사 제작 프로그램 비율이 높다.(JFN을 중심으로 한 프로그램 공급은 [1984년](../Page/1984년.md "wikilink")부터 시작되었다.)
 
 ## 연혁
 
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") : 예비 면허 취득
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") : 주식회사 FM에히메 설립
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink") : 개국(일본민영 FM 방송국중 5번째로 설립)
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") : FM 문자다중방송 개시
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") :FM 문자 다중 방송 폐지.
+  - [1981년](../Page/1981년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") : 예비 면허 취득
+  - [1981년](../Page/1981년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") : 주식회사 FM에히메 설립
+  - [1982년](../Page/1982년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") : 개국(일본민영 FM 방송국중 5번째로 설립)
+  - [1995년](../Page/1995년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") : FM 문자다중방송 개시
+  - [2014년](../Page/2014년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") :FM 문자 다중 방송 폐지.
 
 ## 주파수
 
@@ -31,13 +31,13 @@
   - 시로가와 중계국:80.2MHz(출력:3W)
   - 미나미우와지마 중계국:78.8MHz(출력:30W)
 
-## [에히메현](https://ko.wikipedia.org/wiki/에히메현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [에히메현](../Page/에히메현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
   - [NHK 마쓰야마 방송국](../Page/NHK_마쓰야마_방송국.md "wikilink")
   - [난카이 방송](../Page/난카이_방송.md "wikilink")(RNB)(TV는 [니혼 TV](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 계열국, 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")&[NRN](../Page/NRN.md "wikilink")계열국)
   - [에히메 아사히 TV](../Page/에히메_아사히_TV.md "wikilink")(eat)([TV 아사히](../Page/TV_아사히.md "wikilink") 계열)
   - [아이 TV](../Page/아이_TV.md "wikilink")(ITV)([도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열)
-  - [TV 에히메](../Page/TV_에히메.md "wikilink")(EBC)([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열)
+  - [TV 에히메](../Page/TV_에히메.md "wikilink")(EBC)([후지 TV](../Page/후지_TV.md "wikilink") 계열)
 
 ## 외부 링크
 

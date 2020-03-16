@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MPEG-1](https://ko.wikipedia.org/wiki/MPEG-1).
 
 
-**MPEG-1**(Moving Picture Experts Group Phase 1, 엠펙 원)은 [ISO/IEC JTC 1의](https://ko.wikipedia.org/wiki/ISO/IEC_JTC_1 "wikilink") [MPEG](https://ko.wikipedia.org/wiki/MPEG "wikilink") 그룹이 만든 표준 동영상 및 멀티미디어 규격 가운데 하나이다.
+**MPEG-1**(Moving Picture Experts Group Phase 1, 엠펙 원)은 [ISO/IEC JTC 1의](https://ko.wikipedia.org/wiki/ISO/IEC_JTC_1 "wikilink") [MPEG](../Page/MPEG.md "wikilink") 그룹이 만든 표준 동영상 및 멀티미디어 규격 가운데 하나이다.
 
-오디오/비디오 규격으로 세계적으로 가장 널리 쓰이는 형식 중 하나이며, [비디오 CD](https://ko.wikipedia.org/wiki/비디오_CD "wikilink"), [케이블](https://ko.wikipedia.org/wiki/케이블_텔레비전 "wikilink")/[위성](https://ko.wikipedia.org/wiki/위성_텔레비전 "wikilink") TV, [DAB](https://ko.wikipedia.org/wiki/디지털_오디오_방송 "wikilink") 등에서 이용되고 있다. 단지 MPEG 동영상이라고 하면, MPEG-1으로 압축된 것을 가리키는 경우가 많다. MPEG-1 규격 중 가장 알려진 것은 MP3 오디오 형식일 것이다.
+오디오/비디오 규격으로 세계적으로 가장 널리 쓰이는 형식 중 하나이며, [비디오 CD](../Page/비디오_CD.md "wikilink"), [케이블](../Page/케이블_텔레비전.md "wikilink")/[위성](https://ko.wikipedia.org/wiki/위성_텔레비전 "wikilink") TV, [DAB](../Page/디지털_오디오_방송.md "wikilink") 등에서 이용되고 있다. 단지 MPEG 동영상이라고 하면, MPEG-1으로 압축된 것을 가리키는 경우가 많다. MPEG-1 규격 중 가장 알려진 것은 MP3 오디오 형식일 것이다.
 
-[비디오](https://ko.wikipedia.org/wiki/비디오 "wikilink")와 [오디오](https://ko.wikipedia.org/wiki/소리 "wikilink") 두 가지를 합친 시스템에 대해 규격화되고 있다. 오디오의 규격에는 레이어 1, 레이어 2, 레이어 3이 있고, 각각 MP1, MP2, MP3 로 불리고 있다. 레이어 2와 호환되는 기기는 레이어 1도 재생할 수 있다. 이와 같이 레이어 3도 하위 1, 2 또한 모두 재생할 수 있다. 다시 말해, [상위 호환성을](https://ko.wikipedia.org/wiki/상위_호환성 "wikilink") 가진다. 비디오 CD의 경우, 레이어 2를 사용한다.
+[비디오](../Page/비디오.md "wikilink")와 [오디오](../Page/소리.md "wikilink") 두 가지를 합친 시스템에 대해 규격화되고 있다. 오디오의 규격에는 레이어 1, 레이어 2, 레이어 3이 있고, 각각 MP1, MP2, MP3 로 불리고 있다. 레이어 2와 호환되는 기기는 레이어 1도 재생할 수 있다. 이와 같이 레이어 3도 하위 1, 2 또한 모두 재생할 수 있다. 다시 말해, [상위 호환성을](../Page/상위_호환성.md "wikilink") 가진다. 비디오 CD의 경우, 레이어 2를 사용한다.
 
 MPEG-1 표준은 ISO/IEC-11172로 등재되어 있다.
 
@@ -19,11 +19,11 @@ MPEG-1 표준의 파트 1은 시스템에 대해서 다루며, **ISO/IEC-11172-1
 
 MPEG-1 시스템은 오디오, 비디오, 다른 다양한 데이터를 표준 비트스트림으로 인코딩하여 저장하고, 다양한 컨텐츠 사이의 동기화 상태를 유지하기 위하여 사용하는 논리적 레이아웃과 방법을 규정한다. 이 [파일 포맷은](https://ko.wikipedia.org/wiki/파일_형식 "wikilink") 미디어의 저장, [데이터 채널을](https://ko.wikipedia.org/wiki/데이터_채널 "wikilink") 통한 전송에 맞춰 설계되었다. 소수의 오류 보호만이 표준에 규정되어있고, 비트스트림의 작은 오류들은 상당한 결점을 유발할 수도 있다.
 
-이 구조는 나중에 [MPEG 프로그램 스트림이라는](https://ko.wikipedia.org/wiki/MPEG_프로그램_스트림 "wikilink") 이름을 갖게 된다.(MPEG-1 시스템 디자인은 본질적으로 MPEG-2 프로그램 스트림과 동일하다.) 이 용어는 더 유명하고 정확하며([MPEG 트랜스포트 스트림과는](https://ko.wikipedia.org/wiki/MPEG_트랜스포트_스트림 "wikilink") 구별된다.) 여기에 쓰인다.
+이 구조는 나중에 [MPEG 프로그램 스트림이라는](../Page/MPEG_프로그램_스트림.md "wikilink") 이름을 갖게 된다.(MPEG-1 시스템 디자인은 본질적으로 MPEG-2 프로그램 스트림과 동일하다.) 이 용어는 더 유명하고 정확하며([MPEG 트랜스포트 스트림과는](../Page/MPEG_트랜스포트_스트림.md "wikilink") 구별된다.) 여기에 쓰인다.
 
 **기초 스트림**(**ES**)은 MPEG-1 오디오와 영상의 인코딩된) 데이터의 원본 비트스트림이다. 이 파일은 MP3 파일처럼 그 자체로 배포할 수 있다.
 
-**패킷화 기초 스트림**(**PES**)은 가변 길이의 패킷으로 패킷화된 기초 스트림이다. 이것은 기초 스트림을 [순환 중복성 검사](https://ko.wikipedia.org/wiki/순환_중복성_검사 "wikilink")(CRC) [체크섬](https://ko.wikipedia.org/wiki/체크섬 "wikilink")이 오류 감지를 위해 각각의 패킷에 추가된 독립적인 덩어리로 나눈 것이다.
+**패킷화 기초 스트림**(**PES**)은 가변 길이의 패킷으로 패킷화된 기초 스트림이다. 이것은 기초 스트림을 [순환 중복성 검사](https://ko.wikipedia.org/wiki/순환_중복성_검사 "wikilink")(CRC) [체크섬](../Page/체크섬.md "wikilink")이 오류 감지를 위해 각각의 패킷에 추가된 독립적인 덩어리로 나눈 것이다.
 
 **시스템 클럭 참조값**(SCR)는 27MHz의 정확도로 추가적인 시간 데이터를 저장하는 9비트 확장과, 90kHz의 주파수/정확도로 각각의 패킷의 33비트 헤더 속에 저장된 시간 값이다. 이것들은 인코더가 삽입하며, 시스템 시간 클럭(STC)에서 얻어진다. 그러나 버퍼링, 인코딩,지터, 다른 지연 시간 때문에 동시에 인코딩된 오디오와 비디오 스트림은 동일한 SCR 값을 갖지 않는다.
 
@@ -56,20 +56,20 @@ MPEG-1 표준의 파트 5는 참조 소프트웨어에 대해서 다루며, **IS
 
 시뮬레이션: 참조 소프트웨어
 
-다중화와 역다중화와 마찬가지로, 오디오와 비디오의 인코딩과 디코딩을 위한 [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") 참조 구현을 제공한다.
+다중화와 역다중화와 마찬가지로, 오디오와 비디오의 인코딩과 디코딩을 위한 [C](../Page/C_\(프로그래밍_언어\).md "wikilink") 참조 구현을 제공한다.
 
 ## 파일 확장자
 
-.mpg는 MPEG-1과 MPEG-2 오디오, 비디오 압축을 위한 여러 가지 확장자 중 하나이다. MPEG-1 파트 2 비디오는 요즘에는 보기 힘들며, 이 확장자는 보통 [MPEG 프로그램 스트림](https://ko.wikipedia.org/wiki/MPEG_프로그램_스트림 "wikilink")(MPEG-1과 MPEG-2에서 정의하는) 또는 [MPEG 트랜스포트 스트림](https://ko.wikipedia.org/wiki/MPEG_트랜스포트_스트림 "wikilink")(MPEG-2에서 정의)을 가리킨다. .m2ts 같은 다른 확장자 또한 존재한다.
+.mpg는 MPEG-1과 MPEG-2 오디오, 비디오 압축을 위한 여러 가지 확장자 중 하나이다. MPEG-1 파트 2 비디오는 요즘에는 보기 힘들며, 이 확장자는 보통 [MPEG 프로그램 스트림](../Page/MPEG_프로그램_스트림.md "wikilink")(MPEG-1과 MPEG-2에서 정의하는) 또는 [MPEG 트랜스포트 스트림](../Page/MPEG_트랜스포트_스트림.md "wikilink")(MPEG-2에서 정의)을 가리킨다. .m2ts 같은 다른 확장자 또한 존재한다.
 
 ## 같이 보기
 
-  - [MPEG](https://ko.wikipedia.org/wiki/MPEG "wikilink")
+  - [MPEG](../Page/MPEG.md "wikilink")
   - [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")
-  - [MPEG-2](https://ko.wikipedia.org/wiki/MPEG-2 "wikilink")
-  - [JPEG](https://ko.wikipedia.org/wiki/JPEG "wikilink")
+  - [MPEG-2](../Page/MPEG-2.md "wikilink")
+  - [JPEG](../Page/JPEG.md "wikilink")
   - [JBIG](https://ko.wikipedia.org/wiki/JBIG "wikilink")
-  - [AAC](https://ko.wikipedia.org/wiki/고급_오디오_부호화 "wikilink")
+  - [AAC](../Page/고급_오디오_부호화.md "wikilink")
 
 ## 각주
 

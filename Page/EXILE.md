@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [EXILE](https://ko.wikipedia.org/wiki/EXILE).
 
 
-**EXILE**(에그자일)은, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [LDH](../Page/LDH_\(기업\).md "wikilink") 소속. 레이블은 [rhythm zone](https://ko.wikipedia.org/wiki/리듬존 "wikilink").
+**EXILE**(에그자일)은, [일본](../Page/일본.md "wikilink")의 [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [LDH](../Page/LDH_\(기업\).md "wikilink") 소속. 레이블은 [rhythm zone](../Page/리듬존.md "wikilink").
 
 ## 연보
 
 ### 그 이전
 
-  - 1991년, [HIRO가](https://ko.wikipedia.org/wiki/이가라시_히로유키 "wikilink") [보비 브라운에게](https://ko.wikipedia.org/wiki/보비_브라운 "wikilink") 이름이 지어진 댄스 팀 〈Japanese Soul Brothers〉를 결성.
-  - 1999년, HIRO·[MATSU](https://ko.wikipedia.org/wiki/마츠모토_토시오 "wikilink")·[USA](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")·[MAKIDAI](https://ko.wikipedia.org/wiki/마키_다이스케 "wikilink")·SASA로 〈[J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")〉를 결성.
-  - 2001년, SASA가 탈퇴. 새로운 보컬 [ATSUSHI](https://ko.wikipedia.org/wiki/ATSUSHI "wikilink")·[SHUN이](https://ko.wikipedia.org/wiki/키요키바_슌스케 "wikilink") 가입. 8월 24일부터 〈**EXILE**〉로 이름을 바꿔 재시동.
+  - 1991년, [HIRO가](../Page/이가라시_히로유키.md "wikilink") [보비 브라운에게](https://ko.wikipedia.org/wiki/보비_브라운 "wikilink") 이름이 지어진 댄스 팀 〈Japanese Soul Brothers〉를 결성.
+  - 1999년, HIRO·[MATSU](https://ko.wikipedia.org/wiki/마츠모토_토시오 "wikilink")·[USA](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")·[MAKIDAI](../Page/마키_다이스케.md "wikilink")·SASA로 〈[J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")〉를 결성.
+  - 2001년, SASA가 탈퇴. 새로운 보컬 [ATSUSHI](../Page/ATSUSHI.md "wikilink")·[SHUN이](https://ko.wikipedia.org/wiki/키요키바_슌스케 "wikilink") 가입. 8월 24일부터 〈**EXILE**〉로 이름을 바꿔 재시동.
 
 ### 2001년 \~ 2006년:제1장
 
@@ -21,18 +21,18 @@
   - 2004년 9월, 뮤지컬 《HEART of GOLD》를 기획, 연출. 아직 가입 전이었던 멤버가 다수 출연.
   - 2005년 1월 1일, 첫 베스트 앨범 《PERFECT BEST》를 발매. 밀리언 셀러를 달성.
   - 2006년 3월 29일, 보컬·SHUN이 솔로 활동 이행을 위해 탈퇴.
-  - 2006년 4월 21일, [MUSIC STATION에서](https://ko.wikipedia.org/wiki/뮤직_스테이션 "wikilink") 멤버 전원이 하룻밤만 재결집. 당시의 최신곡 〈YES\!〉와 데뷔 곡 〈Your eyes only \~희미한 나의 윤곽\~〉을 피로, 사실상 라스트 라이브를 실시했다.
+  - 2006년 4월 21일, [MUSIC STATION에서](../Page/뮤직_스테이션.md "wikilink") 멤버 전원이 하룻밤만 재결집. 당시의 최신곡 〈YES\!〉와 데뷔 곡 〈Your eyes only \~희미한 나의 윤곽\~〉을 피로, 사실상 라스트 라이브를 실시했다.
 
 ### 2006년 \~ 2009년:제2장
 
   - 2006년 6월 6일, RATHER UNIQUE의 [AKIRA가](https://ko.wikipedia.org/wiki/AKIRA_\(배우\) "wikilink") 가입.
-  - 2006년 9월 22일, [일본무도관](https://ko.wikipedia.org/wiki/일본무도관 "wikilink")에서 개최된 《EXILE VOCAL BATTLE AUDITION 2006 \~ASIAN DREAM\~》의 최종 결전에서 우승한 [TAKAHIRO](https://ko.wikipedia.org/wiki/TAKAHIRO "wikilink")가 새로운 보컬로서 가입.
+  - 2006년 9월 22일, [일본무도관](https://ko.wikipedia.org/wiki/일본무도관 "wikilink")에서 개최된 《EXILE VOCAL BATTLE AUDITION 2006 \~ASIAN DREAM\~》의 최종 결전에서 우승한 [TAKAHIRO](../Page/TAKAHIRO.md "wikilink")가 새로운 보컬로서 가입.
   - 2007년 2월 14일, 23rd 싱글 〈길〉을 발매.
   - 2007년 8월 5일, 《EXILE EVOLUTION \~SUMMER TIME LOVE\~》 공연에서 오카자일이 등장.
   - 2007년 12월 12일, 6th 앨범 《EXILE LOVE》를 발매.
   - 2008년 11월 \~ 12월, 첫 돔 투어 《EXILE PERFECT LIVE 2008》를 개최.
-  - 2008년 12월 30일, 28th 싱글 〈Ti Amo〉로 제50회 [일본 레코드 대상](https://ko.wikipedia.org/wiki/일본_레코드_대상 "wikilink") 수상.
-  - 2009년 1월 10일, [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열에서 첫 관 프로그램 《EXILE GENERATION》이 방송 개시.
+  - 2008년 12월 30일, 28th 싱글 〈Ti Amo〉로 제50회 [일본 레코드 대상](../Page/일본_레코드_대상.md "wikilink") 수상.
+  - 2009년 1월 10일, [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 계열에서 첫 관 프로그램 《EXILE GENERATION》이 방송 개시.
 
 ### 2009년 \~ 2013년:제3장
 
@@ -80,7 +80,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/이가라시_히로유키" title="wikilink">EXILE HIRO</a></strong></p></td>
+<td><p><strong><a href="../Page/이가라시_히로유키.md" title="wikilink">EXILE HIRO</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -95,12 +95,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/마키_다이스케" title="wikilink">EXILE MAKIDAI</a></strong></p></td>
+<td><p><strong><a href="../Page/마키_다이스케.md" title="wikilink">EXILE MAKIDAI</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/ATSUSHI" title="wikilink">EXILE ATSUSHI</a></strong></p></td>
+<td><p><strong><a href="../Page/ATSUSHI.md" title="wikilink">EXILE ATSUSHI</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -110,7 +110,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/TAKAHIRO" title="wikilink">EXILE TAKAHIRO</a></strong></p></td>
+<td><p><strong><a href="../Page/TAKAHIRO.md" title="wikilink">EXILE TAKAHIRO</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -836,90 +836,90 @@
 
 ## 수상
 
-|                                                                                            |
-| ------------------------------------------------------------------------------------------ |
-| 연도                                                                                         |
-| 2001                                                                                       |
-| 2003                                                                                       |
-| 제45회 [일본 레코드 대상](https://ko.wikipedia.org/wiki/일본_레코드_대상 "wikilink")                       |
-| 2004                                                                                       |
-| 제37회 일본 유선 대상                                                                              |
-| 유선 음악 우수상                                                                                  |
-| 제37회 베스트 히트 가요제                                                                            |
-| 제46회 일본 레코드 대상                                                                             |
-| 2005                                                                                       |
-| 제38회 베스트 히트 가요제                                                                            |
-| 2006                                                                                       |
-| PERFECT BEST                                                                               |
-| SONG OF THE YEAR                                                                           |
-| SCREAM                                                                                     |
-| 제48회 일본 레코드 대상                                                                             |
-| 2007                                                                                       |
-| 제49회 일본 레코드 대상                                                                             |
-| 금상                                                                                         |
-| [MTV Video Music Awards Japan](https://ko.wikipedia.org/wiki/MTV_비디오_뮤직_어워드_재팬 "wikilink") |
-| 2008                                                                                       |
-| ALBUM OF THE YEAR                                                                          |
-| THE BEST 10 ALBUMS                                                                         |
-| EXILE LOVE                                                                                 |
-| THE BEST MUSIC VIDEOS                                                                      |
-| 더 베스트 5 착신 노래 송                                                                            |
-| 더 베스트 5 착신 노래 풀 송                                                                          |
-| 더 베스트 5 PC 다운로드 송                                                                          |
-| 제41회 일본 유선 대상                                                                              |
-| 유선 음악 우수상                                                                                  |
-| 최다 리퀘스트 가수상                                                                                |
-| 제41회 베스트 히트 가요제                                                                            |
-| 제50회 일본 레코드 대상                                                                             |
-| 우수 작품상                                                                                     |
-| MTV Video Music Awards Japan                                                               |
-| Best Album of the Year                                                                     |
-| Best Karaokee\! song                                                                       |
-| 2009                                                                                       |
-| ALBUM OF THE YEAR                                                                          |
-| THE BEST 10 ALBUMS                                                                         |
-| EXILE CATCHY BEST                                                                          |
-| EXILE BALLAD BEST                                                                          |
-| 더 베스트 5 착신 노래 송                                                                            |
-| 더 베스트 5 착신 노래 풀 송                                                                          |
-| 제42회 베스트 히트 가요제                                                                            |
-| 제51회 일본 레코드 대상                                                                             |
-| 우수 작품상                                                                                     |
-| MTV Video Music Awards Japan                                                               |
-| Best Group Video                                                                           |
-| Best choreography award                                                                    |
-| Billboard JAPAN MUSIC AWARDS                                                               |
-| Artist of the Year                                                                         |
-| Top Pop Artist                                                                             |
-| SPACE SHOWER Music Video Awards                                                            |
-| 2010                                                                                       |
-| THE BEST 5 SONGS                                                                           |
-| THE BEST MUSIC VIDEOS                                                                      |
-| 제43회 베스트 히트 가요제                                                                            |
-| 제52회 일본 레코드 대상                                                                             |
-| 우수 작품상                                                                                     |
-| MTV Video Music Awards Japan                                                               |
-| Best Album of the Year                                                                     |
-| Asia Icon Award                                                                            |
-| Billboard JAPAN MUSIC AWARDS                                                               |
-| Artist of the Year                                                                         |
-| Top Pop Artist                                                                             |
-| SPACE SHOWER Music Video Awards                                                            |
-| 2011                                                                                       |
-| THE BEST 5 SONGS BY DOWNLOAD                                                               |
-| 2012                                                                                       |
-| MTV Video Music Awards Japan                                                               |
-| Billboard JAPAN MUSIC AWARDS                                                               |
-| 2013                                                                                       |
-| BEST MUSIC VIDEOS                                                                          |
-| EXILE LIVE TOUR 2011 TOWER OF WISH \~소원의 탑\~                                               |
-| MTV Video Music Awards Japan                                                               |
-| Billboard JAPAN MUSIC AWARDS                                                               |
-| 제55회 일본 레코드 대상                                                                             |
-| 우수 작품상                                                                                     |
-| 2014                                                                                       |
-| MTV Video Music Awards Japan                                                               |
-|                                                                                            |
+|                                                                         |
+| ----------------------------------------------------------------------- |
+| 연도                                                                      |
+| 2001                                                                    |
+| 2003                                                                    |
+| 제45회 [일본 레코드 대상](../Page/일본_레코드_대상.md "wikilink")                       |
+| 2004                                                                    |
+| 제37회 일본 유선 대상                                                           |
+| 유선 음악 우수상                                                               |
+| 제37회 베스트 히트 가요제                                                         |
+| 제46회 일본 레코드 대상                                                          |
+| 2005                                                                    |
+| 제38회 베스트 히트 가요제                                                         |
+| 2006                                                                    |
+| PERFECT BEST                                                            |
+| SONG OF THE YEAR                                                        |
+| SCREAM                                                                  |
+| 제48회 일본 레코드 대상                                                          |
+| 2007                                                                    |
+| 제49회 일본 레코드 대상                                                          |
+| 금상                                                                      |
+| [MTV Video Music Awards Japan](../Page/MTV_비디오_뮤직_어워드_재팬.md "wikilink") |
+| 2008                                                                    |
+| ALBUM OF THE YEAR                                                       |
+| THE BEST 10 ALBUMS                                                      |
+| EXILE LOVE                                                              |
+| THE BEST MUSIC VIDEOS                                                   |
+| 더 베스트 5 착신 노래 송                                                         |
+| 더 베스트 5 착신 노래 풀 송                                                       |
+| 더 베스트 5 PC 다운로드 송                                                       |
+| 제41회 일본 유선 대상                                                           |
+| 유선 음악 우수상                                                               |
+| 최다 리퀘스트 가수상                                                             |
+| 제41회 베스트 히트 가요제                                                         |
+| 제50회 일본 레코드 대상                                                          |
+| 우수 작품상                                                                  |
+| MTV Video Music Awards Japan                                            |
+| Best Album of the Year                                                  |
+| Best Karaokee\! song                                                    |
+| 2009                                                                    |
+| ALBUM OF THE YEAR                                                       |
+| THE BEST 10 ALBUMS                                                      |
+| EXILE CATCHY BEST                                                       |
+| EXILE BALLAD BEST                                                       |
+| 더 베스트 5 착신 노래 송                                                         |
+| 더 베스트 5 착신 노래 풀 송                                                       |
+| 제42회 베스트 히트 가요제                                                         |
+| 제51회 일본 레코드 대상                                                          |
+| 우수 작품상                                                                  |
+| MTV Video Music Awards Japan                                            |
+| Best Group Video                                                        |
+| Best choreography award                                                 |
+| Billboard JAPAN MUSIC AWARDS                                            |
+| Artist of the Year                                                      |
+| Top Pop Artist                                                          |
+| SPACE SHOWER Music Video Awards                                         |
+| 2010                                                                    |
+| THE BEST 5 SONGS                                                        |
+| THE BEST MUSIC VIDEOS                                                   |
+| 제43회 베스트 히트 가요제                                                         |
+| 제52회 일본 레코드 대상                                                          |
+| 우수 작품상                                                                  |
+| MTV Video Music Awards Japan                                            |
+| Best Album of the Year                                                  |
+| Asia Icon Award                                                         |
+| Billboard JAPAN MUSIC AWARDS                                            |
+| Artist of the Year                                                      |
+| Top Pop Artist                                                          |
+| SPACE SHOWER Music Video Awards                                         |
+| 2011                                                                    |
+| THE BEST 5 SONGS BY DOWNLOAD                                            |
+| 2012                                                                    |
+| MTV Video Music Awards Japan                                            |
+| Billboard JAPAN MUSIC AWARDS                                            |
+| 2013                                                                    |
+| BEST MUSIC VIDEOS                                                       |
+| EXILE LIVE TOUR 2011 TOWER OF WISH \~소원의 탑\~                            |
+| MTV Video Music Awards Japan                                            |
+| Billboard JAPAN MUSIC AWARDS                                            |
+| 제55회 일본 레코드 대상                                                          |
+| 우수 작품상                                                                  |
+| 2014                                                                    |
+| MTV Video Music Awards Japan                                            |
+|                                                                         |
 
 ## 각주
 

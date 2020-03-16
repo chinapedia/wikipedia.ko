@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:NHK_Educational_TV_logo.svg "wikilink") **NHK 교육 텔레비전**(NHK教育テレビジョン, NHK Eテレ)은 [일본방송협회](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink")에서 운영하는 텔레비전 방송국중 하나이다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:NHK_Educational_TV_logo.svg "wikilink") **NHK 교육 텔레비전**(NHK教育テレビジョン, NHK Eテレ)은 [일본방송협회](../Page/일본방송협회.md "wikilink")에서 운영하는 텔레비전 방송국중 하나이다.
 
 ## 개요
 
-  - [1959년](https://ko.wikipedia.org/wiki/1959년 "wikilink") [1월 10일에](https://ko.wikipedia.org/wiki/1월_10일 "wikilink") 일본 최초이자 세계 최초의 교육 방송국으로 개국했으며 호출부호는 [라디오 제2방송과](https://ko.wikipedia.org/wiki/NHK_라디오제2방송 "wikilink") 같다.
-  - 개국 초기에는 방송이 중단되는 시간대가 있었으나, 이후 방송시간이 점차 확대되어 [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") 4월을 기해 방송중단 시간 없이 아침부터 밤까지 방송을 할 수 있게 되었다.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 일본의 텔레비전 방송국 중에서 가장 늦게 프로그램 전면 컬러화가 이루어졌다.
+  - [1959년](../Page/1959년.md "wikilink") [1월 10일에](../Page/1월_10일.md "wikilink") 일본 최초이자 세계 최초의 교육 방송국으로 개국했으며 호출부호는 [라디오 제2방송과](https://ko.wikipedia.org/wiki/NHK_라디오제2방송 "wikilink") 같다.
+  - 개국 초기에는 방송이 중단되는 시간대가 있었으나, 이후 방송시간이 점차 확대되어 [1967년](../Page/1967년.md "wikilink") 4월을 기해 방송중단 시간 없이 아침부터 밤까지 방송을 할 수 있게 되었다.
+  - [1977년](../Page/1977년.md "wikilink") [10월](../Page/10월.md "wikilink")에 일본의 텔레비전 방송국 중에서 가장 늦게 프로그램 전면 컬러화가 이루어졌다.
   - 일본 전국방송으로 설립되었기 때문에 지역방송을 하지 않으며 한 방송국에서 여러 현을 방송구역으로 삼는 경우가 많아 종합 텔레비전보다 방송국 수가 적다.
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에 [닛폰 TV에서](../Page/닛폰_TV_방송망.md "wikilink") 방송하던 《EX 텔레비전 OSAKA》([요미우리 TV 방송](../Page/요미우리_TV_방송.md "wikilink") 제작)라는 버라이어티 프로그램에서 "시청률 조사기를 보유하고 있는 약 2600 가구에게만 방송할 프로그램"이라는 특집 프로그램을 방송하기로 했고 이때 이 프로그램의 사회자는 시청자에게 1분간 NHK 교육 텔레비전에 채널을 맞춰줄것을 부탁했다. 당시 NHK의 모든 지상파 텔레비전 방송국은 이 프로그램이 방송중인 오전 0시대에는 방송을 종료했음에도 불구하고 2%(비디오 리서치), 5.9%(AC닐슨)의 순간시청률을 기록했는데 이 때문에 시청률 조사회사인 비디오 리서치에서 요미우리 TV에 항의하는 해프닝이 있었지만 이 프로그램은 그 해 일본 민간방송연맹에서 부여한 TV 오락 프로그램 최우수 상을 수상했다.
+  - [1990년](../Page/1990년.md "wikilink")에 [닛폰 TV에서](../Page/닛폰_TV_방송망.md "wikilink") 방송하던 《EX 텔레비전 OSAKA》([요미우리 TV 방송](../Page/요미우리_TV_방송.md "wikilink") 제작)라는 버라이어티 프로그램에서 "시청률 조사기를 보유하고 있는 약 2600 가구에게만 방송할 프로그램"이라는 특집 프로그램을 방송하기로 했고 이때 이 프로그램의 사회자는 시청자에게 1분간 NHK 교육 텔레비전에 채널을 맞춰줄것을 부탁했다. 당시 NHK의 모든 지상파 텔레비전 방송국은 이 프로그램이 방송중인 오전 0시대에는 방송을 종료했음에도 불구하고 2%(비디오 리서치), 5.9%(AC닐슨)의 순간시청률을 기록했는데 이 때문에 시청률 조사회사인 비디오 리서치에서 요미우리 TV에 항의하는 해프닝이 있었지만 이 프로그램은 그 해 일본 민간방송연맹에서 부여한 TV 오락 프로그램 최우수 상을 수상했다.
 
 ## 프로그램 편성
 

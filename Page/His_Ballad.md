@@ -36,7 +36,7 @@
 
 ## 4th Edition
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") [His Ballad II가](https://ko.wikipedia.org/wiki/His_Ballad_II "wikilink") 발매되면서 His Ballad도 색깔만 바꾼 같은 디자인으로 리패키지되어 재발매되었다. 13번 트랙에 ‘슬픔에 관하여’가 추가되었다. 이 트랙은 [유치뽕](https://ko.wikipedia.org/wiki/유치뽕 "wikilink")에 수록된 버전이다.
+[2003년](../Page/2003년.md "wikilink") [3월](../Page/3월.md "wikilink") [His Ballad II가](../Page/His_Ballad_II.md "wikilink") 발매되면서 His Ballad도 색깔만 바꾼 같은 디자인으로 리패키지되어 재발매되었다. 13번 트랙에 ‘슬픔에 관하여’가 추가되었다. 이 트랙은 [유치뽕](../Page/유치뽕.md "wikilink")에 수록된 버전이다.
 
 ## 스태프
 
@@ -58,7 +58,7 @@
 ## 관련 항목
 
   - [이승환 디스코그래피](https://ko.wikipedia.org/wiki/이승환_디스코그래피 "wikilink")
-  - [His Ballad II](https://ko.wikipedia.org/wiki/His_Ballad_II "wikilink")
+  - [His Ballad II](../Page/His_Ballad_II.md "wikilink")
 
 ## 각주
 

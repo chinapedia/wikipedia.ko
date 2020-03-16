@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
 
 
-**SK하이닉스**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 메모리 반도체 제조사로 [SK그룹](https://ko.wikipedia.org/wiki/SK그룹 "wikilink")의 계열사다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](https://ko.wikipedia.org/wiki/이천시 "wikilink") [부발읍](../Page/부발읍.md "wikilink") 아미리에 있으며, 주요 제품은 [디램](https://ko.wikipedia.org/wiki/디램 "wikilink"), [플래시 메모리 칩이다](../Page/플래시_메모리.md "wikilink"). [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [영국](https://ko.wikipedia.org/wiki/영국 "wikilink"), [독일](https://ko.wikipedia.org/wiki/독일 "wikilink"), [일본](https://ko.wikipedia.org/wiki/일본 "wikilink"), [타이완](https://ko.wikipedia.org/wiki/중화민국 "wikilink"), [중국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [인도](https://ko.wikipedia.org/wiki/인도 "wikilink") 등에서 판매망을 운영한다. 제조 설비는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"), [중국에](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") 있다.
+**SK하이닉스**는 [대한민국](../Page/대한민국.md "wikilink")의 메모리 반도체 제조사로 [SK그룹](../Page/SK그룹.md "wikilink")의 계열사다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink") [부발읍](../Page/부발읍.md "wikilink") 아미리에 있으며, 주요 제품은 [디램](https://ko.wikipedia.org/wiki/디램 "wikilink"), [플래시 메모리 칩이다](../Page/플래시_메모리.md "wikilink"). [미국](../Page/미국.md "wikilink"), [영국](../Page/영국.md "wikilink"), [독일](../Page/독일.md "wikilink"), [일본](../Page/일본.md "wikilink"), [타이완](../Page/중화민국.md "wikilink"), [중국](../Page/중화인민공화국.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [인도](../Page/인도.md "wikilink") 등에서 판매망을 운영한다. 제조 설비는 [대한민국](../Page/대한민국.md "wikilink"), [중국에](../Page/중화인민공화국.md "wikilink") 있다.
 
-SK하이닉스의 주식은 [한국증권거래소](https://ko.wikipedia.org/wiki/한국증권거래소 "wikilink")에 상장되어 있으며, 동 상장주식을 원주로 하는 DR은 [룩셈부르크](https://ko.wikipedia.org/wiki/룩셈부르크 "wikilink") 증권거래소에도 상장되어 있다. 2015년 매출 규모 기준으로 세계 메모리 기업 중 2번째, 반도체 기업 중 3번째로 큰 기업이다.
+SK하이닉스의 주식은 [한국증권거래소](https://ko.wikipedia.org/wiki/한국증권거래소 "wikilink")에 상장되어 있으며, 동 상장주식을 원주로 하는 DR은 [룩셈부르크](../Page/룩셈부르크.md "wikilink") 증권거래소에도 상장되어 있다. 2015년 매출 규모 기준으로 세계 메모리 기업 중 2번째, 반도체 기업 중 3번째로 큰 기업이다.
 
 ## 상표
 
@@ -11,7 +11,7 @@ SK하이닉스의 주식은 [한국증권거래소](https://ko.wikipedia.org/wik
 
 ## 한국 사업장
 
-  - 이천캠퍼스(본사): [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](https://ko.wikipedia.org/wiki/이천시 "wikilink") [부발읍](../Page/부발읍.md "wikilink") 경충대로 2091
+  - 이천캠퍼스(본사): [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink") [부발읍](../Page/부발읍.md "wikilink") 경충대로 2091
   - 청주제1공장: 충청북도 청주시 흥덕구 대신로 215 (향정동)
   - 청주제2공장: 충청북도 청주시 흥덕구 2순환로 959 (향정동)
   - 청주제3공장: 충청북도 청주시 흥덕구 직지대로 337 (향정동)
@@ -28,10 +28,10 @@ SK하이닉스의 주식은 [한국증권거래소](https://ko.wikipedia.org/wik
   - 1999년 7월: LG반도체(주) 인수
   - 2001년 3월 8일: 주식회사 하이닉스반도체로 사명 변경
   - 2001년 8월: 현대그룹, 경영권 포기 각서 제출. 경영권 포기각서가 실패되고 현대그룹에서부터 반도체 전문 기업으로 분리됨
-  - 2002년 6월: 최대주주 [현대상선](https://ko.wikipedia.org/wiki/현대상선 "wikilink")에서 [외환은행으로](https://ko.wikipedia.org/wiki/하나은행 "wikilink") 변경. 현대계열지분(9.28%) 정리. 이로써 현대그룹과의 관계가 완전히 끝남.
+  - 2002년 6월: 최대주주 [현대상선](../Page/현대상선.md "wikilink")에서 [외환은행으로](../Page/하나은행.md "wikilink") 변경. 현대계열지분(9.28%) 정리. 이로써 현대그룹과의 관계가 완전히 끝남.
   - 2002년 11월: 하이디스(주) 매각
   - 2005년 7월: 채권금융기관 공동 관리 조기 종료
-  - 2011년 11월 10일: [SK그룹](https://ko.wikipedia.org/wiki/SK그룹 "wikilink")이 하이닉스반도체 매각에 참여
+  - 2011년 11월 10일: [SK그룹](../Page/SK그룹.md "wikilink")이 하이닉스반도체 매각에 참여
   - 2011년 11월 14일: SK그룹이 하이닉스 인수, 하이닉스 주식 20.01%를 취득하는 매매계약을 체결
   - 2011년 12월 27일: [공정거래위원회](https://ko.wikipedia.org/wiki/공정거래위원회 "wikilink"), SK텔레콤의 하이닉스 인수를 승인
   - 2012년 1월 31일: SK텔레콤이 인수가격 3조 4267억원에서 3조 3747억원으로 인하
@@ -52,11 +52,11 @@ SK하이닉스의 주식은 [한국증권거래소](https://ko.wikipedia.org/wik
 ## 같이 보기
 
   - [LG그룹](../Page/LG그룹.md "wikilink")
-  - [기아그룹](https://ko.wikipedia.org/wiki/기아그룹 "wikilink")
-  - [현대그룹](https://ko.wikipedia.org/wiki/현대그룹 "wikilink")
+  - [기아그룹](../Page/기아그룹.md "wikilink")
+  - [현대그룹](../Page/현대그룹.md "wikilink")
   - [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")
-  - [마이크론 테크놀로지](https://ko.wikipedia.org/wiki/마이크론_테크놀로지 "wikilink")
-  - [엘피다 메모리](https://ko.wikipedia.org/wiki/엘피다_메모리 "wikilink")
+  - [마이크론 테크놀로지](../Page/마이크론_테크놀로지.md "wikilink")
+  - [엘피다 메모리](../Page/엘피다_메모리.md "wikilink")
 
 ## 각주
 

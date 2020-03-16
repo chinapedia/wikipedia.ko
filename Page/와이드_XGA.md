@@ -11,7 +11,7 @@
 
 일반 와이드 XGA 해상도
 
-**와이드 XGA** (WXGA)는 [비표준](https://ko.wikipedia.org/wiki/디스플레이_표준 "wikilink") 해상도의 모임으로 [XGA](https://ko.wikipedia.org/wiki/XGA "wikilink") [디스플레이 표준을](https://ko.wikipedia.org/wiki/디스플레이_표준 "wikilink") [와이드스크린](https://ko.wikipedia.org/wiki/와이드스크린 "wikilink") [가로세로비에](../Page/가로세로비_\(영상\).md "wikilink") 맞춰 변경시킨 것이다. WXGA는 일반적으로 16:9 가로세로비의 **1366×768**의 해상도를 일컫는다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 [LCD](https://ko.wikipedia.org/wiki/LCD "wikilink") 텔레비전과 [HD 레디](https://ko.wikipedia.org/wiki/HD_레디 "wikilink") [플라즈마에서](https://ko.wikipedia.org/wiki/플라즈마_디스플레이 "wikilink") 가장 많이 쓰이는 해상도로 자리잡았다.
+**와이드 XGA** (WXGA)는 [비표준](https://ko.wikipedia.org/wiki/디스플레이_표준 "wikilink") 해상도의 모임으로 [XGA](https://ko.wikipedia.org/wiki/XGA "wikilink") [디스플레이 표준을](https://ko.wikipedia.org/wiki/디스플레이_표준 "wikilink") [와이드스크린](https://ko.wikipedia.org/wiki/와이드스크린 "wikilink") [가로세로비에](../Page/가로세로비_\(영상\).md "wikilink") 맞춰 변경시킨 것이다. WXGA는 일반적으로 16:9 가로세로비의 **1366×768**의 해상도를 일컫는다. [2006년](../Page/2006년.md "wikilink")에 [LCD](https://ko.wikipedia.org/wiki/LCD "wikilink") 텔레비전과 [HD 레디](../Page/HD_레디.md "wikilink") [플라즈마에서](https://ko.wikipedia.org/wiki/플라즈마_디스플레이 "wikilink") 가장 많이 쓰이는 해상도로 자리잡았다.
 
 다른 해상도들은 WGA라고 이름 붙기도 한다. 아래의 것들은 그러한 이름이 붙는 가장 일반적인 해상도들이다:
 

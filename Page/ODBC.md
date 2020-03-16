@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ODBC](https://ko.wikipedia.org/wiki/ODBC).
 
 
-**ODBC**(Open DataBase Connectivity)는 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")가 만든, [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink")에 접근하기 위한 소프트웨어의 표준 규격으로, 각 데이터베이스의 차이는 ODBC 드라이버에 흡수되기 때문에 사용자는 ODBC에 정해진 순서에 따라서 프로그램을 쓰면 접속처의 데이터베이스가 어떠한 데이터베이스 관리 시스템에 관리되고 있는지 의식할 필요 없이 접근할 수 있다.
+**ODBC**(Open DataBase Connectivity)는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 만든, [데이터베이스](../Page/데이터베이스.md "wikilink")에 접근하기 위한 소프트웨어의 표준 규격으로, 각 데이터베이스의 차이는 ODBC 드라이버에 흡수되기 때문에 사용자는 ODBC에 정해진 순서에 따라서 프로그램을 쓰면 접속처의 데이터베이스가 어떠한 데이터베이스 관리 시스템에 관리되고 있는지 의식할 필요 없이 접근할 수 있다.
 
-ODBC는 본래 1990년대 초 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")가 개발하였고, [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 및 [메인프레임](https://ko.wikipedia.org/wiki/메인프레임 "wikilink") 분야에서 [SQL 액세스 그룹이](https://ko.wikipedia.org/wiki/SQL_액세스_그룹 "wikilink") 표준화한 [호출 수준 인터페이스](../Page/호출_수준_인터페이스.md "wikilink")(CLI)를 위한 기초가 되었다. ODBC는 CLI의 노고 중 일부로서 제거되었던 일부 기능들을 보유하였다. 온전한 ODBC는 나중에 해당 플랫폼으로 다시 이식되었으며 CLI 보다 상당히 더 잘 알려진 [사실상의](https://ko.wikipedia.org/wiki/데_팍토 "wikilink") 표준이 되었다.
+ODBC는 본래 1990년대 초 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 개발하였고, [유닉스](../Page/유닉스.md "wikilink") 및 [메인프레임](../Page/메인프레임.md "wikilink") 분야에서 [SQL 액세스 그룹이](https://ko.wikipedia.org/wiki/SQL_액세스_그룹 "wikilink") 표준화한 [호출 수준 인터페이스](../Page/호출_수준_인터페이스.md "wikilink")(CLI)를 위한 기초가 되었다. ODBC는 CLI의 노고 중 일부로서 제거되었던 일부 기능들을 보유하였다. 온전한 ODBC는 나중에 해당 플랫폼으로 다시 이식되었으며 CLI 보다 상당히 더 잘 알려진 [사실상의](https://ko.wikipedia.org/wiki/데_팍토 "wikilink") 표준이 되었다.
 
 ## 버전 역사
 
@@ -19,7 +19,7 @@ ODBC는 본래 1990년대 초 [마이크로소프트](https://ko.wikipedia.org/w
 ## 같이 보기
 
   - [GNOME-DB](https://ko.wikipedia.org/wiki/GNOME-DB "wikilink")
-  - [ADO.NET](https://ko.wikipedia.org/wiki/ADO.NET "wikilink")
+  - [ADO.NET](../Page/ADO.NET.md "wikilink")
 
 ## 각주
 

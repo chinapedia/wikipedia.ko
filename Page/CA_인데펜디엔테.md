@@ -3,11 +3,11 @@
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Estádio_Libertadores_da_América_2.png "wikilink") 인데펜디엔테 팬들\]\]
 
-**클루브 아틀레티코 인데펜디엔테**()는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink") [부에노스아이레스주](https://ko.wikipedia.org/wiki/부에노스아이레스주 "wikilink")의 [아베야네다](https://ko.wikipedia.org/wiki/아베야네다 "wikilink") ()를 연고지로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. [아르헨티나 프리메라 디비시온에](../Page/아르헨티나_프리메라_디비시온.md "wikilink") 속해 있다.
+**클루브 아틀레티코 인데펜디엔테**()는 [아르헨티나](../Page/아르헨티나.md "wikilink") [부에노스아이레스주](../Page/부에노스아이레스주.md "wikilink")의 [아베야네다](../Page/아베야네다.md "wikilink") ()를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. [아르헨티나 프리메라 디비시온에](../Page/아르헨티나_프리메라_디비시온.md "wikilink") 속해 있다.
 
-붉은 유니폼에서 유래한 "붉은 악마"(los Diablos Rojos)라는 별명과 함께, "컵의 제왕"(Rey de Copas)이라는 별명도 가지고 있다. 이 별명은 수많은 우승 경력에서 비롯된 것이다. 인데펜디엔테는 [보카 주니어스와](https://ko.wikipedia.org/wiki/보카_주니어스 "wikilink") [리버 플레이트에](https://ko.wikipedia.org/wiki/리버_플레이트 "wikilink") 뒤이은 14회의 [아르헨티나 리그](../Page/아르헨티나_프리메라_디비시온.md "wikilink") 우승컵을 비롯해, 7회의 [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 우승컵 등 15개의 국제대회 우승 경험을 갖고 있다. [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 대회에서 우승컵을 가장 많이 들어 올린 클럽이다. 일곱 차례의 우승 중에는 [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") \~ [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") 4회 연속 우승이라는 대기록도 포함되어 있다.
+붉은 유니폼에서 유래한 "붉은 악마"(los Diablos Rojos)라는 별명과 함께, "컵의 제왕"(Rey de Copas)이라는 별명도 가지고 있다. 이 별명은 수많은 우승 경력에서 비롯된 것이다. 인데펜디엔테는 [보카 주니어스와](https://ko.wikipedia.org/wiki/보카_주니어스 "wikilink") [리버 플레이트에](https://ko.wikipedia.org/wiki/리버_플레이트 "wikilink") 뒤이은 14회의 [아르헨티나 리그](../Page/아르헨티나_프리메라_디비시온.md "wikilink") 우승컵을 비롯해, 7회의 [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 우승컵 등 15개의 국제대회 우승 경험을 갖고 있다. [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 대회에서 우승컵을 가장 많이 들어 올린 클럽이다. 일곱 차례의 우승 중에는 [1972년](../Page/1972년.md "wikilink") \~ [1975년](../Page/1975년.md "wikilink") 4회 연속 우승이라는 대기록도 포함되어 있다.
 
-홈구장은 라 도블레 비세라(La Doble Visera)라는 별칭으로 잘 알려진 [에스타디오 리베르타도레스 데 아메리카](https://ko.wikipedia.org/wiki/에스타디오_리베르타도레스_데_아메리카 "wikilink")()이며 같은 [아베야네다](https://ko.wikipedia.org/wiki/아베야네다 "wikilink")를 연고로 하는 [라싱 클럽의](https://ko.wikipedia.org/wiki/라싱_클럽 "wikilink") 홈구장([엘 실린드로](https://ko.wikipedia.org/wiki/후안_페론_경기장 "wikilink"))과 겨우 4백 [미터](https://ko.wikipedia.org/wiki/미터 "wikilink") 떨어져 있어, 두 팀은 매우 치열한 라이벌 관계를 형성하고 있다. 아르헨티나에서는 이들의 [더비 경기를](https://ko.wikipedia.org/wiki/더비_경기 "wikilink") [클라시코 데 아베야네다라](https://ko.wikipedia.org/wiki/클라시코_데_아베야네다 "wikilink") 부른다.
+홈구장은 라 도블레 비세라(La Doble Visera)라는 별칭으로 잘 알려진 [에스타디오 리베르타도레스 데 아메리카](../Page/에스타디오_리베르타도레스_데_아메리카.md "wikilink")()이며 같은 [아베야네다](../Page/아베야네다.md "wikilink")를 연고로 하는 [라싱 클럽의](https://ko.wikipedia.org/wiki/라싱_클럽 "wikilink") 홈구장([엘 실린드로](https://ko.wikipedia.org/wiki/후안_페론_경기장 "wikilink"))과 겨우 4백 [미터](../Page/미터.md "wikilink") 떨어져 있어, 두 팀은 매우 치열한 라이벌 관계를 형성하고 있다. 아르헨티나에서는 이들의 [더비 경기를](https://ko.wikipedia.org/wiki/더비_경기 "wikilink") [클라시코 데 아베야네다라](../Page/클라시코_데_아베야네다.md "wikilink") 부른다.
 
 ## 우승 기록
 
@@ -38,16 +38,16 @@
 
 #### 국제대회 : 15회
 
-  - [인터콘티넨털컵](https://ko.wikipedia.org/wiki/인터콘티넨털컵_\(축구\) "wikilink"): 2회 - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink"), [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")
-  - [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink"): 7회 - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink"), [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink"), [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink"), [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink"), [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink"), [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink"), [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")
-  - [수페르코파 수다메리카나](https://ko.wikipedia.org/wiki/수페르코파_수다메리카나 "wikilink"): 2회 - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink"), [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")
-  - [레코파 수다메리카나](../Page/레코파_수다메리카나.md "wikilink"): 1회 - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")
-  - [코파 인테라메리카나](https://ko.wikipedia.org/wiki/코파_인테라메리카나 "wikilink"): 1회 - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")
+  - [인터콘티넨털컵](../Page/인터콘티넨털컵_\(축구\).md "wikilink"): 2회 - [1973년](../Page/1973년.md "wikilink"), [1984년](../Page/1984년.md "wikilink")
+  - [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink"): 7회 - [1964년](../Page/1964년.md "wikilink"), [1965년](../Page/1965년.md "wikilink"), [1972년](../Page/1972년.md "wikilink"), [1973년](../Page/1973년.md "wikilink"), [1974년](../Page/1974년.md "wikilink"), [1975년](../Page/1975년.md "wikilink"), [1984년](../Page/1984년.md "wikilink")
+  - [수페르코파 수다메리카나](../Page/수페르코파_수다메리카나.md "wikilink"): 2회 - [1994년](../Page/1994년.md "wikilink"), [1995년](../Page/1995년.md "wikilink")
+  - [레코파 수다메리카나](../Page/레코파_수다메리카나.md "wikilink"): 1회 - [1994년](../Page/1994년.md "wikilink")
+  - [코파 인테라메리카나](../Page/코파_인테라메리카나.md "wikilink"): 1회 - [1992년](../Page/1992년.md "wikilink")
 
 ## 현재 선수 명단
 
   -
-    <small>[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 8일](https://ko.wikipedia.org/wiki/1월_8일 "wikilink") 기준, 국내대회 선수 명단.</small>
+    <small>[2008년](../Page/2008년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") 기준, 국내대회 선수 명단.</small>
 
 ## 과거 유명 선수
 
@@ -77,15 +77,15 @@
 
   - [리카르도 보치니](https://ko.wikipedia.org/wiki/리카르도_보치니 "wikilink") (1972-1991)
 
-  - [다니엘 베르토니](https://ko.wikipedia.org/wiki/다니엘_베르토니 "wikilink") (1973-1978)
+  - [다니엘 베르토니](../Page/다니엘_베르토니.md "wikilink") (1973-1978)
 
   - [엔소 트로세로](https://ko.wikipedia.org/wiki/엔소_트로세로 "wikilink") (1975-1979, 1981-1985)
 
-  - [오마르 라로사](https://ko.wikipedia.org/wiki/오마르_라로사 "wikilink") (1977-1980)
+  - [오마르 라로사](../Page/오마르_라로사.md "wikilink") (1977-1980)
 
-  - [안토니오 알사멘디](https://ko.wikipedia.org/wiki/안토니오_알사멘디 "wikilink") (1978-1982)
+  - [안토니오 알사멘디](../Page/안토니오_알사멘디.md "wikilink") (1978-1982)
 
-  - [호르헤 올긴](https://ko.wikipedia.org/wiki/호르헤_올긴 "wikilink") (1979-1983)
+  - [호르헤 올긴](../Page/호르헤_올긴.md "wikilink") (1979-1983)
 
   - [네스토르 클라우센](https://ko.wikipedia.org/wiki/네스토르_클라우센 "wikilink") (1980-1988, 1995-1996)
 
@@ -93,13 +93,13 @@
 
   - [카를로스 마누엘 모레테](https://ko.wikipedia.org/wiki/카를로스_마누엘_모레테 "wikilink") (1982-1983)
 
-  - [오스카르 알베르토 오르티스](https://ko.wikipedia.org/wiki/오스카르_알베르토_오르티스 "wikilink") (1982-1983)
+  - [오스카르 알베르토 오르티스](../Page/오스카르_알베르토_오르티스.md "wikilink") (1982-1983)
 
 <!-- end list -->
 
-  - [호르헤 부루차가](https://ko.wikipedia.org/wiki/호르헤_부루차가 "wikilink") (1982-1985, 1995-1998)
+  - [호르헤 부루차가](../Page/호르헤_부루차가.md "wikilink") (1982-1985, 1995-1998)
 
-  - [미겔 오비에도](https://ko.wikipedia.org/wiki/미겔_오비에도 "wikilink") (1983-1986)
+  - [미겔 오비에도](../Page/미겔_오비에도.md "wikilink") (1983-1986)
 
   - [루이스 알베르토 이슬라스](https://ko.wikipedia.org/wiki/루이스_알베르토_이슬라스 "wikilink") (1986-1995, 2003)
 
@@ -119,11 +119,11 @@
 
   - [파리드 몬드라곤](../Page/파리드_몬드라곤.md "wikilink") (1995-2000)
 
-  - [가브리엘 밀리토](https://ko.wikipedia.org/wiki/가브리엘_밀리토 "wikilink") (1997-2003)
+  - [가브리엘 밀리토](../Page/가브리엘_밀리토.md "wikilink") (1997-2003)
 
-  - [에스테반 캄비아소](https://ko.wikipedia.org/wiki/에스테반_캄비아소 "wikilink") (1998-2001)
+  - [에스테반 캄비아소](../Page/에스테반_캄비아소.md "wikilink") (1998-2001)
 
-  - [디에고 포를란](https://ko.wikipedia.org/wiki/디에고_포를란 "wikilink") (2000-2002)
+  - [디에고 포를란](../Page/디에고_포를란.md "wikilink") (2000-2002)
 
   - [페데리코 인수아](https://ko.wikipedia.org/wiki/페데리코_인수아 "wikilink") (2002-2003/2004-2005)
 

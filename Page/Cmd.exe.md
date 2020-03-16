@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cmd.exe](https://ko.wikipedia.org/wiki/Cmd.exe).
 
 
-**명령 프롬프트**(실행 파일이름: **`cmd.exe`**)는 [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [윈도우 임베디드 컴팩트](https://ko.wikipedia.org/wiki/윈도우_임베디드_컴팩트 "wikilink") 그리고 [윈도우 NT](https://ko.wikipedia.org/wiki/윈도우_NT "wikilink") 5.0 이상 기반 시스템의 [명령어 인터프리터이다](https://ko.wikipedia.org/wiki/명령어_인터프리터 "wikilink"). [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink")와 [윈도우 9x](../Page/윈도우_9x.md "wikilink") 시스템의 [`COMMAND.COM`](../Page/COMMAND.COM.md "wikilink") 또는 유닉스 시스템에서 쓰이던 [셸의](https://ko.wikipedia.org/wiki/유닉스_셸 "wikilink") 아날로그 형태이다.
+**명령 프롬프트**(실행 파일이름: **`cmd.exe`**)는 [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [윈도우 임베디드 컴팩트](../Page/윈도우_임베디드_컴팩트.md "wikilink") 그리고 [윈도우 NT](../Page/윈도우_NT.md "wikilink") 5.0 이상 기반 시스템의 [명령어 인터프리터이다](https://ko.wikipedia.org/wiki/명령어_인터프리터 "wikilink"). [MS-DOS](../Page/MS-DOS.md "wikilink")와 [윈도우 9x](../Page/윈도우_9x.md "wikilink") 시스템의 [`COMMAND.COM`](../Page/COMMAND.COM.md "wikilink") 또는 유닉스 시스템에서 쓰이던 [셸의](../Page/유닉스_셸.md "wikilink") 아날로그 형태이다.
 
 ## 확장
 
@@ -9,13 +9,13 @@
 
 OS/2와 윈도우 NT 버전의 `cmd.exe` 둘 다 `command.com`의 "명령 또는 파일 이름이 틀립니다(Bad command or file name)" 보다 더 자세한 오류 메시지를 제공한다. OS/2 버전의 `cmd.exe`에서는 오류가 현재의 시스템 언어가 무엇이든지 간에 보고된다. **help** 명령어는 오류 메시지의 번호와 함께 제공하여 더 자세한 정보를 얻을 수 있다.
 
-[도스](https://ko.wikipedia.org/wiki/도스 "wikilink") 프로그램인 `COMMAND.COM`와 달리 `cmd.exe`는 플랫폼에 기본으로 제공되는 프로그램이다. 도스 프로그램들에는 쓸 수 없으나 네이티브 프로그램들이 플랫폼에서 사용할 수 있는 장점을 허락한다. 예를 들어, `cmd.exe`는 OS/2에서 네이티브 텍스트 모드 응용 프로그램이기 때문에 명령 파이프 줄에서 실제 파이프를 사용할 수 있고, 이로써 파이프라인의 두 면이 동시에 실행될 수 있다. 그 결과, `cmd.exe`의 표준 오류를 `COMMAND.COM`과 달리 리다이렉트할 수 있다. (`COMMAND.COM`은 임시 파일을 사용하며 두 면을 직렬로 사용한다.)
+[도스](../Page/도스.md "wikilink") 프로그램인 `COMMAND.COM`와 달리 `cmd.exe`는 플랫폼에 기본으로 제공되는 프로그램이다. 도스 프로그램들에는 쓸 수 없으나 네이티브 프로그램들이 플랫폼에서 사용할 수 있는 장점을 허락한다. 예를 들어, `cmd.exe`는 OS/2에서 네이티브 텍스트 모드 응용 프로그램이기 때문에 명령 파이프 줄에서 실제 파이프를 사용할 수 있고, 이로써 파이프라인의 두 면이 동시에 실행될 수 있다. 그 결과, `cmd.exe`의 표준 오류를 `COMMAND.COM`과 달리 리다이렉트할 수 있다. (`COMMAND.COM`은 임시 파일을 사용하며 두 면을 직렬로 사용한다.)
 
 기술적으로, `cmd.exe`는 도스와 같은 명령 줄 해석기 역할을 하는 윈도우 프로그램이다. 일반적으로 호환되지만, `COMMAND.COM`에는 없었던 제한이 있는 확장을 제공한다:
 
   - `SETLOCAL`/`ENDLOCAL` 명령어들은 환경에 변화의 제약을 받는다
   - 내부 `CALL` 및 `GOTO` 레이블은 배치 파일이 작업의 일부를 수행할 필요를 줄여 준다.
-  - `SET` 명령어에 대한 파일 이름을 나누는 확장은 [C 셸과](https://ko.wikipedia.org/wiki/C_셸 "wikilink") 호환된다.
+  - `SET` 명령어에 대한 파일 이름을 나누는 확장은 [C 셸과](../Page/C_셸.md "wikilink") 호환된다.
   - 표현 평가 확장은 또한 `SET` 명령어에서 제공된다.
 
 이 확장들은 사용하지 않을 수도 있고, 강력한 호환성 모드를 제공하기도 한다.
@@ -131,7 +131,7 @@ OS/2와 윈도우 NT 버전의 `cmd.exe` 둘 다 `command.com`의 "명령 또는
 
 ## 같이 보기
 
-  - [셸](https://ko.wikipedia.org/wiki/셸 "wikilink")
+  - [셸](../Page/셸.md "wikilink")
   - [도스박스](../Page/도스박스.md "wikilink")
   - [COMMAND.COM](../Page/COMMAND.COM.md "wikilink")
 

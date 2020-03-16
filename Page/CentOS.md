@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [CentOS](https://ko.wikipedia.org/wiki/CentOS).
 
 
-**센트OS**()는 센트OS 프로젝트에서 [레드햇](https://ko.wikipedia.org/wiki/레드햇 "wikilink") 제휴로 개발한 컴퓨터 [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink"). 업스트림 소스인 [레드햇 엔터프라이즈 리눅스와](https://ko.wikipedia.org/wiki/레드햇_엔터프라이즈_리눅스 "wikilink") 완벽하게 호환되는 무료 [기업용](https://ko.wikipedia.org/wiki/전사적_소프트웨어 "wikilink") 컴퓨팅 플랫폼을 제공할 목적으로 만들어진 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")계 [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 가운데 하나다. 6.4 버전부터 베타 버전은 [파워PC](../Page/파워PC.md "wikilink")에서 사용가능할 것으로 예상되지만, 공식적으로 [물리 주소 확장](../Page/물리_주소_확장.md "wikilink") 기능을 가진 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink")과 [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink") 아키텍처를 지원한다.
+**센트OS**()는 센트OS 프로젝트에서 [레드햇](../Page/레드햇.md "wikilink") 제휴로 개발한 컴퓨터 [운영 체제이다](../Page/운영_체제.md "wikilink"). 업스트림 소스인 [레드햇 엔터프라이즈 리눅스와](../Page/레드햇_엔터프라이즈_리눅스.md "wikilink") 완벽하게 호환되는 무료 [기업용](../Page/전사적_소프트웨어.md "wikilink") 컴퓨팅 플랫폼을 제공할 목적으로 만들어진 [리눅스](../Page/리눅스.md "wikilink")계 [운영 체제](../Page/운영_체제.md "wikilink") 가운데 하나다. 6.4 버전부터 베타 버전은 [파워PC](../Page/파워PC.md "wikilink")에서 사용가능할 것으로 예상되지만, 공식적으로 [물리 주소 확장](../Page/물리_주소_확장.md "wikilink") 기능을 가진 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink")과 [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink") 아키텍처를 지원한다.
 
-레드햇 엔터프라이즈 리눅스의 소스 코드를 그대로 가져와 빌드해 내놓으며 이 과정에서 이루어지는 변형은 레드햇의 상표가 잘리고 그 자리에 CentOS의 상표가 붙는(상표권 분쟁을 피하기 위해) 정도뿐이다. 판수 또한 레드햇 엔터프라이즈 리눅스의 판수를 그대로 가져오며(소수점 아래 숫자는 업데이트 차수를 가리킨다) 오늘날에는 레드햇 엔터프라이즈 리눅스의 행보를 가장 잘 따라가는 운영 체제라고 알려져 있다. 사용하는 꾸러미 형식은 [RPM이다](https://ko.wikipedia.org/wiki/RPM_패키지_매니저 "wikilink").
+레드햇 엔터프라이즈 리눅스의 소스 코드를 그대로 가져와 빌드해 내놓으며 이 과정에서 이루어지는 변형은 레드햇의 상표가 잘리고 그 자리에 CentOS의 상표가 붙는(상표권 분쟁을 피하기 위해) 정도뿐이다. 판수 또한 레드햇 엔터프라이즈 리눅스의 판수를 그대로 가져오며(소수점 아래 숫자는 업데이트 차수를 가리킨다) 오늘날에는 레드햇 엔터프라이즈 리눅스의 행보를 가장 잘 따라가는 운영 체제라고 알려져 있다. 사용하는 꾸러미 형식은 [RPM이다](../Page/RPM_패키지_매니저.md "wikilink").
 
 ## 운영 체제 정보
 
   - 자체 커뮤니티에 의해 관리되는 운영 체제이다.
   - 기본적으로 포함되는 소프트웨어와 업데이트되는 소프트웨어를 아울러 이진 파일에 대해 상위판과 100%에 최대한 가까운 호환성을 유지하는 것이 원칙이며 이 원칙에서 최대한 벗어나지 않는 것 또한 원칙이다.
-  - 주로 [Yum](https://ko.wikipedia.org/wiki/Yum "wikilink")을 통해 소프트웨어를 업데이트할 수 있으며 [up2date](https://ko.wikipedia.org/wiki/up2date "wikilink")도 지원한다.
+  - 주로 [Yum](../Page/Yum.md "wikilink")을 통해 소프트웨어를 업데이트할 수 있으며 [up2date](https://ko.wikipedia.org/wiki/up2date "wikilink")도 지원한다.
   - 레드햇의 기술 지원은 받지 않는다.
 
 ## 역사
@@ -24,7 +24,7 @@
 
 ## 덧붙임
 
-  - CentOS를 쓰다 보면 PNAELV(Prominent North American Enterprise Linux Vendor)라는 단어를 볼 수 있는데 이것은 [레드햇](https://ko.wikipedia.org/wiki/레드햇 "wikilink")을 가리키는 단어로 레드햇에서 상표 문제에 대해 CentOS 제작진에게 보낸 편지가 그 유래라고 한다.\[1\]
+  - CentOS를 쓰다 보면 PNAELV(Prominent North American Enterprise Linux Vendor)라는 단어를 볼 수 있는데 이것은 [레드햇](../Page/레드햇.md "wikilink")을 가리키는 단어로 레드햇에서 상표 문제에 대해 CentOS 제작진에게 보낸 편지가 그 유래라고 한다.\[1\]
   - CentOS처럼 레드햇 엔터프라이즈 리눅스에서 갈라져 나온 **타오 리눅스**(Tao Linux)라는 운영 체제가 있었다. 2006년 6월 이 운영 체제의 주 개발자는 타오 리눅스 개발 중단 선언과 함께 앞으로는 CentOS 제작에 합류할 것이라고 밝혔다. 타오 리눅스 사용자들은 yum 업데이트를 통해 비교적 무리 없이 CentOS로 옮길 수 있었으며 이를 통해 타오 리눅스 안에 고립되는 것을 피할 수 있었다.
 
 ## 버전 내역
@@ -89,7 +89,7 @@
 
 ## 함께 보기
 
-  - [레드햇 엔터프라이즈 리눅스](https://ko.wikipedia.org/wiki/레드햇_엔터프라이즈_리눅스 "wikilink")
+  - [레드햇 엔터프라이즈 리눅스](../Page/레드햇_엔터프라이즈_리눅스.md "wikilink")
 
 ## 각주
 

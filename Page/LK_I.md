@@ -31,7 +31,7 @@
 | **장갑**                                                                                                           |
 |                                                                                                                  |
 
-**LK I**(, )는 [제1차 세계 대전](https://ko.wikipedia.org/wiki/제1차_세계_대전 "wikilink") 당시 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")이 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [중형 Mk.A 위핏](https://ko.wikipedia.org/wiki/중형_Mk.A_위핏 "wikilink")(Medium Mark A Whippet)을 참고하여 개발한 경전차다.
+**LK I**(, )는 [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 당시 [독일](../Page/독일.md "wikilink")이 [영국](../Page/영국.md "wikilink")의 [중형 Mk.A 위핏](https://ko.wikipedia.org/wiki/중형_Mk.A_위핏 "wikilink")(Medium Mark A Whippet)을 참고하여 개발한 경전차다.
 
 ## 역사
 

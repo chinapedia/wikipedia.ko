@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Be the one](https://ko.wikipedia.org/wiki/Be_the_one).
 
 
-〈**Be the one**〉은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 12번째 싱글이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink") 발매된 세 번째 정규 앨범 《[LOVE & HONESTY](https://ko.wikipedia.org/wiki/LOVE_&_HONESTY "wikilink")》의 6번째 곡으로 수록되었던 곡을 싱글로 발매한 리컷 싱글이다. 리컷 싱글 발매로는 〈[Don't start now](https://ko.wikipedia.org/wiki/Don't_start_now "wikilink")〉 이후 1년 9개월 만의 일이다.
+〈**Be the one**〉은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 12번째 싱글이다. [2004년](../Page/2004년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") 발매된 세 번째 정규 앨범 《[LOVE & HONESTY](../Page/LOVE_&_HONESTY.md "wikilink")》의 6번째 곡으로 수록되었던 곡을 싱글로 발매한 리컷 싱글이다. 리컷 싱글 발매로는 〈[Don't start now](../Page/Don't_start_now.md "wikilink")〉 이후 1년 9개월 만의 일이다.
 
-〈Be the one〉은 보아의 다른 곡들과 비슷한 댄스곡으로, 후렴 부분에 쉴 새 없이 몰아치는 멜로디가 인상적인 격렬한 곡이다. [PS2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 게임 《[전국무쌍](https://ko.wikipedia.org/wiki/전국무쌍 "wikilink")》의 이미지 송으로 선정되어 《[전국무쌍](https://ko.wikipedia.org/wiki/전국무쌍 "wikilink")》의 엔딩 장면에는 〈Be the one〉이 배경 음악으로 삽입되어 있다. 〈Be the one〉의 발매일 역시 《[전국무쌍](https://ko.wikipedia.org/wiki/전국무쌍 "wikilink")》의 발매일인 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [2월 11일에](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") 맞춰 발매되었다.
+〈Be the one〉은 보아의 다른 곡들과 비슷한 댄스곡으로, 후렴 부분에 쉴 새 없이 몰아치는 멜로디가 인상적인 격렬한 곡이다. [PS2](../Page/플레이스테이션_2.md "wikilink") 게임 《[전국무쌍](https://ko.wikipedia.org/wiki/전국무쌍 "wikilink")》의 이미지 송으로 선정되어 《[전국무쌍](https://ko.wikipedia.org/wiki/전국무쌍 "wikilink")》의 엔딩 장면에는 〈Be the one〉이 배경 음악으로 삽입되어 있다. 〈Be the one〉의 발매일 역시 《[전국무쌍](https://ko.wikipedia.org/wiki/전국무쌍 "wikilink")》의 발매일인 [2004년](../Page/2004년.md "wikilink") [2월 11일에](../Page/2월_11일.md "wikilink") 맞춰 발매되었다.
 
-정규 싱글이지만 보아의 첫 베스트 앨범 《[BEST OF SOUL](https://ko.wikipedia.org/wiki/BEST_OF_SOUL "wikilink")》에는 수록되지 못했다.
+정규 싱글이지만 보아의 첫 베스트 앨범 《[BEST OF SOUL](../Page/BEST_OF_SOUL.md "wikilink")》에는 수록되지 못했다.
 
 ## 트랙리스트
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [EXE](https://ko.wikipedia.org/wiki/EXE).
 
 
-**EXE**는 일반적인 [파일 확장자로](../Page/파일_확장자.md "wikilink") [컴퓨터 프로그램의](https://ko.wikipedia.org/wiki/컴퓨터_프로그램 "wikilink") [실행 파일을](https://ko.wikipedia.org/wiki/실행_파일 "wikilink") 가리킨다. [오픈VMS](https://ko.wikipedia.org/wiki/오픈VMS "wikilink"), [도스](https://ko.wikipedia.org/wiki/도스 "wikilink"), [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [리엑트오에스](https://ko.wikipedia.org/wiki/리엑트오에스 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") 운영 체제에서 사용할 수 있다.
+**EXE**는 일반적인 [파일 확장자로](../Page/파일_확장자.md "wikilink") [컴퓨터 프로그램의](../Page/컴퓨터_프로그램.md "wikilink") [실행 파일을](../Page/실행_파일.md "wikilink") 가리킨다. [오픈VMS](https://ko.wikipedia.org/wiki/오픈VMS "wikilink"), [도스](../Page/도스.md "wikilink"), [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [리엑트오에스](https://ko.wikipedia.org/wiki/리엑트오에스 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") 운영 체제에서 사용할 수 있다.
 
-실행 프로그램 자체뿐 아니라, 많은 EXE 파일들은 비트맵, 실행 프로그램이 [그래픽 사용자 인터페이스를](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 사용하는, 아이콘과 같은 [리소스라고](https://ko.wikipedia.org/wiki/리소스_\(컴퓨터_과학\) "wikilink") 불리는 다른 구성 요소들을 포함할 수 있다.
+실행 프로그램 자체뿐 아니라, 많은 EXE 파일들은 비트맵, 실행 프로그램이 [그래픽 사용자 인터페이스를](../Page/그래픽_사용자_인터페이스.md "wikilink") 사용하는, 아이콘과 같은 [리소스라고](https://ko.wikipedia.org/wiki/리소스_\(컴퓨터_과학\) "wikilink") 불리는 다른 구성 요소들을 포함할 수 있다.
 
-도스 실행 파일 포맷은 64 [킬로바이트](../Page/킬로바이트.md "wikilink")로 크기가 제한되는 [COM](https://ko.wikipedia.org/wiki/COM_파일 "wikilink") 실행 파일과 다르다. 도스 실행 파일 헤더는 여러 개의 세그먼트가 [DMA에서](https://ko.wikipedia.org/wiki/기억_직접_접근 "wikilink") 로드될 수 있으며 64 킬로바이트 이상의 실행 파일을 지원하는 리로케이션 정보를 포함하고 있다.
+도스 실행 파일 포맷은 64 [킬로바이트](../Page/킬로바이트.md "wikilink")로 크기가 제한되는 [COM](../Page/COM_파일.md "wikilink") 실행 파일과 다르다. 도스 실행 파일 헤더는 여러 개의 세그먼트가 [DMA에서](https://ko.wikipedia.org/wiki/기억_직접_접근 "wikilink") 로드될 수 있으며 64 킬로바이트 이상의 실행 파일을 지원하는 리로케이션 정보를 포함하고 있다.
 
 ## 파일 형식
 
@@ -37,10 +37,10 @@
 `|title=/STUB (MS-DOS Stub File Name)`
 `|url=`<http://msdn.microsoft.com/en-us/library/7z0585h5.aspx>
 `|work=MSDN`
-`|publisher=`[`마이크로소프트`](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")
+`|publisher=`[`마이크로소프트`](../Page/마이크로소프트.md "wikilink")
 `|accessdate=2016-02-12`
 
-}}</ref>\[1\] [도스](https://ko.wikipedia.org/wiki/도스 "wikilink")에서 실행되는 경우, 스텁 코드는 "This program cannot be run in DOS mode" 메시지를 표시하고 종료된다. [regedit](https://ko.wikipedia.org/wiki/윈도우_레지스트리 "wikilink")\[2\] 이나 오래된 WinZIP self extractors 같은 소수의 듀얼 모드 프로그램은 더 기능적인 DOS 섹션을 포함한다.\[3\]
+}}</ref>\[1\] [도스](../Page/도스.md "wikilink")에서 실행되는 경우, 스텁 코드는 "This program cannot be run in DOS mode" 메시지를 표시하고 종료된다. [regedit](../Page/윈도우_레지스트리.md "wikilink")\[2\] 이나 오래된 WinZIP self extractors 같은 소수의 듀얼 모드 프로그램은 더 기능적인 DOS 섹션을 포함한다.\[3\]
 
   - 32-bit Portable Executable:윈도우 NT에 도입되었으며, 아스키 코드 "PE"로 구별된다. (비록 시작 부분은 아니지만 이 파일도 "MZ"로 시작한다)<ref>{{웹 인용
 
@@ -54,7 +54,7 @@
 `|url=`<http://msdn.microsoft.com/en-us/magazine/cc301805.aspx>
 `|title=An In-Depth Look into the Win32 Portable Executable File Format`
 `|work=MSDN Magazine`
-`|publisher=`[`마이크로소프트`](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")
+`|publisher=`[`마이크로소프트`](../Page/마이크로소프트.md "wikilink")
 `|date=February 2002`
 `|first=Matt`
 `|last=Pietrek`
@@ -63,7 +63,7 @@
 
 ## 같이 보기
 
-  - [실행 파일](https://ko.wikipedia.org/wiki/실행_파일 "wikilink")
+  - [실행 파일](../Page/실행_파일.md "wikilink")
   - [MZ 실행 파일](../Page/MZ_실행_파일.md "wikilink")
   - [PE 포맷](../Page/PE_포맷.md "wikilink")
 

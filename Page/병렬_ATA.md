@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ ATA](https://ko.wikipedia.org/wiki/_ATA).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:ATA_cables.jpg "wikilink") **병렬 ATA**(Parallel ATA, , 이전 이름: 고급 기술 결합/Advanced Technology Attachment, ATA\[1\])은 [개인용 컴퓨터](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 안에서 [하드 디스크](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink"), [CD-ROM](../Page/CD-ROM.md "wikilink") 드라이브와 같은 [기억 장치를](https://ko.wikipedia.org/wiki/기억_장치 "wikilink") 연결하는 [표준](https://ko.wikipedia.org/wiki/표준 "wikilink") [인터페이스이다](https://ko.wikipedia.org/wiki/물리_인터페이스 "wikilink").
+[섬네일](https://ko.wikipedia.org/wiki/파일:ATA_cables.jpg "wikilink") **병렬 ATA**(Parallel ATA, , 이전 이름: 고급 기술 결합/Advanced Technology Attachment, ATA\[1\])은 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink") 안에서 [하드 디스크](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink"), [CD-ROM](../Page/CD-ROM.md "wikilink") 드라이브와 같은 [기억 장치를](../Page/기억_장치.md "wikilink") 연결하는 [표준](https://ko.wikipedia.org/wiki/표준 "wikilink") [인터페이스이다](https://ko.wikipedia.org/wiki/물리_인터페이스 "wikilink").
 
 병렬 ATA 케이블의 허용 가능한 최대 길이는 18 인치(457 밀리미터)이다.\[2\]\[3\] 이러한 제한으로 인해 이 기술은 일반적으로 내부 컴퓨터 스토리지 인터페이스로 등장한다. 수년 동안 ATA는 이러한 용도로 사용할 때 가장 일반적이면서 가장 값싼 인터페이스를 제공하였다. 더 새로운 시스템에서는 [직렬 ATA로](../Page/직렬_ATA.md "wikilink") 상당수 대체되고 있다.
 
 ## 역사
 
-PATA 표준은 원래 "PC/AT Attachment"로 고안되었는데, 주 기능이 [IBM PC/AT와](https://ko.wikipedia.org/wiki/IBM_PC/AT "wikilink") 함께 도입된 16비트 [ISA 버스에](../Page/ISA_버스.md "wikilink") 직접 연결하는 것이었기 때문이다.\[4\] "IBM PC/AT"에서 "AT"는 "Advanced Technology"를 가리키지만 ATA 사양은 단순히 이름을 "AT Attachment"로 사용함으로써 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")과의 잠재적인 상표 문제를 회피한다.
+PATA 표준은 원래 "PC/AT Attachment"로 고안되었는데, 주 기능이 [IBM PC/AT와](https://ko.wikipedia.org/wiki/IBM_PC/AT "wikilink") 함께 도입된 16비트 [ISA 버스에](../Page/ISA_버스.md "wikilink") 직접 연결하는 것이었기 때문이다.\[4\] "IBM PC/AT"에서 "AT"는 "Advanced Technology"를 가리키지만 ATA 사양은 단순히 이름을 "AT Attachment"로 사용함으로써 [IBM](../Page/IBM.md "wikilink")과의 잠재적인 상표 문제를 회피한다.
 
 ## PATA 인터페이스
 
@@ -38,7 +38,7 @@ SATA에서는 이러한 리본 케이블을 이용하지 않는다.
 <tr class="odd">
 <td><p>pre-ATA</p></td>
 <td><p>IDE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프로그램_입출력" title="wikilink">PIO</a> 0</p></td>
+<td><p><a href="../Page/프로그램_입출력.md" title="wikilink">PIO</a> 0</p></td>
 <td><p>2.1 <a href="https://ko.wikipedia.org/wiki/기가바이트" title="wikilink">GB</a></p></td>
 <td><p>22 비트 <a href="https://ko.wikipedia.org/wiki/LBA" title="wikilink">LBA</a></p></td>
 <td><p>-</p></td>
@@ -71,7 +71,7 @@ Multi-word DMA 1, 2 (13.3, 16.6)</p></td>
 <td></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/S.M.A.R.T." title="wikilink">S.M.A.R.T.</a>, 보안</p></td>
+<a href="../Page/S.M.A.R.T..md" title="wikilink">S.M.A.R.T.</a>, 보안</p></td>
 <td><p><a href="https://web.archive.org/web/20080406222052/http://www.t10.org/t13/project/d2008r7b-ATA-3.pdf">X3.298-1997</a><br />
 (2002년 이후로 쓰이지 않음)</p></td>
 </tr>
@@ -141,7 +141,7 @@ SATA/150</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/프로그램_입출력" title="wikilink">PIO</a></p></td>
+<td><p><a href="../Page/프로그램_입출력.md" title="wikilink">PIO</a></p></td>
 <td><p>0</p></td>
 <td><p>3.3</p></td>
 <td><p>600 ns</p></td>
@@ -287,6 +287,6 @@ SATA/150</p></td>
 2.
 3.
 4.
-5.  [콤팩트플래시](https://ko.wikipedia.org/wiki/콤팩트플래시 "wikilink") 2.1
+5.  [콤팩트플래시](../Page/콤팩트플래시.md "wikilink") 2.1
 6.
 7.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lucid Fall \(\)](https://ko.wikipedia.org/wiki/Lucid_Fall_\(\)).
 
 
-《**Lucid Fall**》은 [루시드 폴의](https://ko.wikipedia.org/wiki/루시드_폴 "wikilink") 셀프 타이틀 1집 정규 앨범이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink") 발매된 이 앨범은 라디오 뮤직이 제작하고 수도음반에서 배급했다.
+《**Lucid Fall**》은 [루시드 폴의](https://ko.wikipedia.org/wiki/루시드_폴 "wikilink") 셀프 타이틀 1집 정규 앨범이다. [2001년](../Page/2001년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") 발매된 이 앨범은 라디오 뮤직이 제작하고 수도음반에서 배급했다.
 
 ## 곡 목록
 
@@ -28,7 +28,7 @@
 ## 외부 링크
 
   - [루시드 폴 공식 홈페이지](http://www.mulgogi.net/)
-  - [49위 루시드 폴《Lucid Fall 1집》](http://news.khan.co.kr/section/khan_art_view.html?mode=view&artid=200802211737255&code=900307) [경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink")
-  - [마음의 저변을 건드리는 노래](http://music.naver.com/todayMusic/index.nhn?startDate=20080412) [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink")
+  - [49위 루시드 폴《Lucid Fall 1집》](http://news.khan.co.kr/section/khan_art_view.html?mode=view&artid=200802211737255&code=900307) [경향신문](../Page/경향신문.md "wikilink")
+  - [마음의 저변을 건드리는 노래](http://music.naver.com/todayMusic/index.nhn?startDate=20080412) [네이버](../Page/네이버.md "wikilink")
 
 [분류:2001년 음반](https://ko.wikipedia.org/wiki/분류:2001년_음반 "wikilink") [분류:루시드 폴의 음반](https://ko.wikipedia.org/wiki/분류:루시드_폴의_음반 "wikilink") [분류:2001년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:2001년_데뷔_음반 "wikilink")

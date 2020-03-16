@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ DSLR-A200](https://ko.wikipedia.org/wiki/_DSLR-A200).
 
 
-**소니 알파 DSLR-A200**()는 2008년 1월 10일에 발표된 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")의 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 이전 모델인 A100과 동일한 센서를 움직이는 형태의 [손떨림 방지](https://ko.wikipedia.org/wiki/손떨림_방지 "wikilink") 기능을 가지고 있다. [소니 DSLR-A100의](../Page/소니_DSLR-A100.md "wikilink") 후속기종으로 출시되었다.
+**소니 알파 DSLR-A200**()는 2008년 1월 10일에 발표된 [소니](../Page/소니.md "wikilink")의 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 이전 모델인 A100과 동일한 센서를 움직이는 형태의 [손떨림 방지](https://ko.wikipedia.org/wiki/손떨림_방지 "wikilink") 기능을 가지고 있다. [소니 DSLR-A100의](../Page/소니_DSLR-A100.md "wikilink") 후속기종으로 출시되었다.
 
 23.6 x 15.8 mm 크기에 1020만 유효 [화소](https://ko.wikipedia.org/wiki/화소 "wikilink")를 가지는 소니 [CCD](https://ko.wikipedia.org/wiki/CCD "wikilink") 센서를 가지고 있다. 이전 모델인 [A100과](../Page/소니_DSLR-A100.md "wikilink") 동일한 [CCD](https://ko.wikipedia.org/wiki/CCD "wikilink")센서를 사용하지만, BIONZ엔진이라는 다른 이미징프로세서를 장착하였기에, 컬러노이즈나 지원감도범위가 다르다.
 

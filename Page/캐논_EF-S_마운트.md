@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EF-S ](https://ko.wikipedia.org/wiki/_EF-S_).
 
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:Canon_EF-S_lens_mount.jpg "wikilink") 플라스틱 EF-S 렌즈 마운트. 대부분의 렌즈는 금속 마운트를 사용한다.\]\] [섬네일의](https://ko.wikipedia.org/wiki/파일:Canon_EF-S_camera_mount.jpg "wikilink") 마운트\]\] **캐논 EF-S 마운트**()는 [캐논 EF 마운트으로부터](../Page/캐논_EF_마운트.md "wikilink") 파생된 [렌즈 마운트로](https://ko.wikipedia.org/wiki/렌즈_마운트 "wikilink"), [APS-C](https://ko.wikipedia.org/wiki/APS-C "wikilink") 크기의 이미지 센서를 가지는 캐논 [DSLR](https://ko.wikipedia.org/wiki/DSLR "wikilink")들을 위해 제작되었다. EF-S 마운트를 가지고 있는 카메라는 모든 EF 렌즈를 사용할 수 있다. 하지만, EF 마운트만 지원되는 카메라에는 EF-S 렌즈를 사용할 수 없다.
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Canon_EF-S_lens_mount.jpg "wikilink") 플라스틱 EF-S 렌즈 마운트. 대부분의 렌즈는 금속 마운트를 사용한다.\]\] [섬네일의](https://ko.wikipedia.org/wiki/파일:Canon_EF-S_camera_mount.jpg "wikilink") 마운트\]\] **캐논 EF-S 마운트**()는 [캐논 EF 마운트으로부터](../Page/캐논_EF_마운트.md "wikilink") 파생된 [렌즈 마운트로](../Page/렌즈_마운트.md "wikilink"), [APS-C](https://ko.wikipedia.org/wiki/APS-C "wikilink") 크기의 이미지 센서를 가지는 캐논 [DSLR](https://ko.wikipedia.org/wiki/DSLR "wikilink")들을 위해 제작되었다. EF-S 마운트를 가지고 있는 카메라는 모든 EF 렌즈를 사용할 수 있다. 하지만, EF 마운트만 지원되는 카메라에는 EF-S 렌즈를 사용할 수 없다.
 
 EF-S의 S는 "short back focus"를 뜻한다.
 
@@ -48,7 +48,7 @@ EF-S의 S는 "short back focus"를 뜻한다.
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐논_EF-S_17-55mm_렌즈" title="wikilink">17–55 mm</a></p></td>
+<td><p><a href="../Page/캐논_EF-S_17-55mm_렌즈.md" title="wikilink">17–55 mm</a></p></td>
 <td><p>27.2–88 mm</p></td>
 <td><p>2.8</p></td>
 <td></td>
@@ -72,7 +72,7 @@ EF-S의 S는 "short back focus"를 뜻한다.
 <td><p>[1]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐논_EF-S_18-55mm_렌즈" title="wikilink">18–55 mm</a></p></td>
+<td><p><a href="../Page/캐논_EF-S_18-55mm_렌즈.md" title="wikilink">18–55 mm</a></p></td>
 <td><p>28.8–88 mm</p></td>
 <td><p>3.5–5.6</p></td>
 <td><p>I</p></td>
@@ -208,17 +208,17 @@ EF-S의 S는 "short back focus"를 뜻한다.
 
 ## EF-S 마운트를 가지고 있는 카메라들
 
-  - [캐논 EOS 1100D](https://ko.wikipedia.org/wiki/캐논_EOS_1100D "wikilink")
-  - [캐논 EOS 1000D](https://ko.wikipedia.org/wiki/캐논_EOS_1000D "wikilink")
+  - [캐논 EOS 1100D](../Page/캐논_EOS_1100D.md "wikilink")
+  - [캐논 EOS 1000D](../Page/캐논_EOS_1000D.md "wikilink")
   - [캐논 EOS 100D](../Page/캐논_EOS_100D.md "wikilink")
   - [캐논 EOS 300D](../Page/캐논_EOS_300D.md "wikilink")
   - [캐논 EOS 350D](../Page/캐논_EOS_350D.md "wikilink")
   - [캐논 EOS 400D](../Page/캐논_EOS_400D.md "wikilink")
-  - [캐논 EOS 450D](https://ko.wikipedia.org/wiki/캐논_EOS_450D "wikilink")
-  - [캐논 EOS 500D](https://ko.wikipedia.org/wiki/캐논_EOS_500D "wikilink")
-  - [캐논 EOS 550D](https://ko.wikipedia.org/wiki/캐논_EOS_550D "wikilink")
-  - [캐논 EOS 600D](https://ko.wikipedia.org/wiki/캐논_EOS_600D "wikilink")
-  - [캐논 EOS 650D](https://ko.wikipedia.org/wiki/캐논_EOS_650D "wikilink")
+  - [캐논 EOS 450D](../Page/캐논_EOS_450D.md "wikilink")
+  - [캐논 EOS 500D](../Page/캐논_EOS_500D.md "wikilink")
+  - [캐논 EOS 550D](../Page/캐논_EOS_550D.md "wikilink")
+  - [캐논 EOS 600D](../Page/캐논_EOS_600D.md "wikilink")
+  - [캐논 EOS 650D](../Page/캐논_EOS_650D.md "wikilink")
   - [캐논 EOS 700D](../Page/캐논_EOS_700D.md "wikilink")
   - [캐논 EOS 750D](https://ko.wikipedia.org/wiki/캐논_EOS_750D "wikilink")
   - [캐논 EOS 760D](https://ko.wikipedia.org/wiki/캐논_EOS_760D "wikilink")
@@ -226,12 +226,12 @@ EF-S의 S는 "short back focus"를 뜻한다.
   - [캐논 EOS 20Da](https://ko.wikipedia.org/wiki/캐논_EOS_20Da "wikilink")
   - [캐논 EOS 30D](../Page/캐논_EOS_30D.md "wikilink")
   - [캐논 EOS 40D](../Page/캐논_EOS_40D.md "wikilink")
-  - [캐논 EOS 50D](https://ko.wikipedia.org/wiki/캐논_EOS_50D "wikilink")
-  - [캐논 EOS 60D](https://ko.wikipedia.org/wiki/캐논_EOS_60D "wikilink")
+  - [캐논 EOS 50D](../Page/캐논_EOS_50D.md "wikilink")
+  - [캐논 EOS 60D](../Page/캐논_EOS_60D.md "wikilink")
   - [캐논 EOS 60Da](https://ko.wikipedia.org/wiki/캐논_EOS_60Da "wikilink")
   - [캐논 EOS 70D](../Page/캐논_EOS_70D.md "wikilink")
   - [캐논 EOS 80D](https://ko.wikipedia.org/wiki/캐논_EOS_80D "wikilink")
-  - [캐논 EOS 7D](https://ko.wikipedia.org/wiki/캐논_EOS_7D "wikilink")
+  - [캐논 EOS 7D](../Page/캐논_EOS_7D.md "wikilink")
   - [캐논 EOS 7D Mark II](../Page/캐논_EOS_7D_Mark_II.md "wikilink")
   - [캐논 EOS 800D](https://ko.wikipedia.org/wiki/캐논_EOS_800D "wikilink")
 
@@ -241,7 +241,7 @@ EF-S의 S는 "short back focus"를 뜻한다.
   - [캐논 EF 마운트](../Page/캐논_EF_마운트.md "wikilink")
   - [니콘 F 마운트](https://ko.wikipedia.org/wiki/니콘_F_마운트 "wikilink")
   - [펜탁스 K 마운트](https://ko.wikipedia.org/wiki/펜탁스_K_마운트 "wikilink")
-  - [캐논 EOS](https://ko.wikipedia.org/wiki/캐논_EOS "wikilink")
+  - [캐논 EOS](../Page/캐논_EOS.md "wikilink")
 
 ## 각주
 

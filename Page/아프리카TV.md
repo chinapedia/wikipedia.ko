@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**아프리카TV**(, )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [SNS](https://ko.wikipedia.org/wiki/소셜_네트워크_서비스 "wikilink") 미디어 플랫폼이다. [(주)아프리카TV에서](../Page/아프리카TV_\(기업\).md "wikilink") 운영하는 인터넷 개인 방송 서비스로서, 특별한 기술·장비·비용 없이도 누구나 쉽게 [PC나](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 모바일 기기([스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink"), [태블릿 컴퓨터](https://ko.wikipedia.org/wiki/태블릿_컴퓨터 "wikilink") 등)로 언제 어디서나 실시간 생방송을 할 수 있는 개인 1인 미디어이다. [웹캠](https://ko.wikipedia.org/wiki/웹캠 "wikilink") 방송은 물론 PC 모니터상의 화면을 방송할 수 있는 데스크탑 방송이 가능해 누구라도 다양한 소재로 방송할 수 있는 시스템이다. [채팅](https://ko.wikipedia.org/wiki/채팅 "wikilink") 화면이 있어 방송인과 시청자 사이에 실시간 소통이 가능하다. 시청자는 사이버 머니인 '별풍선'을 통해 인터넷 방송인에게 자발적으로 시청료를 낼 수도 있다. 또한 다양한 방송자들로 다양한 재미를 느낄수 있다\[1\]\[2\]\[3\] 2015년 12월 프로게임단 [아프리카 프릭스도](../Page/아프리카_프릭스.md "wikilink") 창단하였다.\[4\]\[5\]
+**아프리카TV**(, )는 [대한민국](../Page/대한민국.md "wikilink")의 [SNS](../Page/소셜_네트워크_서비스.md "wikilink") 미디어 플랫폼이다. [(주)아프리카TV에서](../Page/아프리카TV_\(기업\).md "wikilink") 운영하는 인터넷 개인 방송 서비스로서, 특별한 기술·장비·비용 없이도 누구나 쉽게 [PC나](../Page/개인용_컴퓨터.md "wikilink") 모바일 기기([스마트폰](../Page/스마트폰.md "wikilink"), [태블릿 컴퓨터](../Page/태블릿_컴퓨터.md "wikilink") 등)로 언제 어디서나 실시간 생방송을 할 수 있는 개인 1인 미디어이다. [웹캠](https://ko.wikipedia.org/wiki/웹캠 "wikilink") 방송은 물론 PC 모니터상의 화면을 방송할 수 있는 데스크탑 방송이 가능해 누구라도 다양한 소재로 방송할 수 있는 시스템이다. [채팅](https://ko.wikipedia.org/wiki/채팅 "wikilink") 화면이 있어 방송인과 시청자 사이에 실시간 소통이 가능하다. 시청자는 사이버 머니인 '별풍선'을 통해 인터넷 방송인에게 자발적으로 시청료를 낼 수도 있다. 또한 다양한 방송자들로 다양한 재미를 느낄수 있다\[1\]\[2\]\[3\] 2015년 12월 프로게임단 [아프리카 프릭스도](../Page/아프리카_프릭스.md "wikilink") 창단하였다.\[4\]\[5\]
 
 ## 개요
 
   - 아프리카TV BJ 랭킹산정 방식은 지난 7일간 받은 최고시청자의 평균 30%, 애청자지수 30%, UP 20%, 동영상지수 20%이다.
 
-2005년 5월에 **W (더블유)**라는 서비스명으로 클로즈 베타서비스로 시작하여 2005년 8월 오픈베타를 거쳐, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 아프리카(afreeca)란 이름으로 정식 오픈했다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 아프리카(afreeca)에서 아프리카TV(afreecaTV)로 사이트 이름이 변경되었다. 방송 및 시청 전용 프로그램과 채널 목록, 채팅 기능 등이 제공된다. 이용자는 방송을 '아프리카TV 플레이어' 또는 '아프리카TV 플레이어 2.0' 을 설치해서 [그리드 딜리버리](https://ko.wikipedia.org/wiki/그리드_컴퓨팅 "wikilink") 방식으로 서비스가 제공되었고,\[6\], 현재는 기본 일반 스트리밍 방식으로 서비스를 제공하고 있다.
+2005년 5월에 **W (더블유)**라는 서비스명으로 클로즈 베타서비스로 시작하여 2005년 8월 오픈베타를 거쳐, [2006년](../Page/2006년.md "wikilink") 아프리카(afreeca)란 이름으로 정식 오픈했다. [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink")에 아프리카(afreeca)에서 아프리카TV(afreecaTV)로 사이트 이름이 변경되었다. 방송 및 시청 전용 프로그램과 채널 목록, 채팅 기능 등이 제공된다. 이용자는 방송을 '아프리카TV 플레이어' 또는 '아프리카TV 플레이어 2.0' 을 설치해서 [그리드 딜리버리](../Page/그리드_컴퓨팅.md "wikilink") 방식으로 서비스가 제공되었고,\[6\], 현재는 기본 일반 스트리밍 방식으로 서비스를 제공하고 있다.
 
 [BJ](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink")(Broadcasting Jockey)라 불리는 방송 진행자가 동영상을 송출하면, 시청자는 전용 프로그램을 이용해 송출중인 채널의 목록 중에서 보고 싶은 채널을 선택해 접속하게 된다. 아프리카TV는 회원수가 1200만명을 넘어섰고, 하루 접속자는 350만명을 넘는다. 또 평균 동시 방송 수가 5000개 정도이고, 최고 동시 시청자 수가 50만에 달한다. 한 개의 채널에 동시에 접속한 최고 시청자수는 약 7만명일 정도로 규모가 상당히 큰 인터넷방송이 채 라는 유료 아이템을 시청자가 구매하여 본방에 접속할 수 있다. 또한, '중계방'이라고 불리는 본방과는 별도의 중계 채널을 시청함으로 동시 접속 제한을 회피할 수 있다. '중계 채널'은 채널 목록에서는 원 채널과 연동되어 관리되며, BJ와 채팅으로 소통이 불가능한 것이 단점이다.
 
@@ -15,7 +15,7 @@
 
 **2011년** **5월 31일** 에는 아프리카TV 플레이어 2.0이 오픈되었다. 아프리카TV 플레이어 2.0은 실버라이트 기반의 웹 플레이어로 인터넷 익스플로러 뿐만 아니라 크롬, 파이어폭스, 오페라, 사파리 등의 브라우저 등에서도 최소한의 설치만으로 이용이 가능하다.
 
-**2015년** **8월 1일**에는 E스포츠 방송에 대한 관심을 높여 사업을 강화하기 위해 [그래텍](https://ko.wikipedia.org/wiki/그래텍 "wikilink")과 E스포츠 사업부분을 인수계약 맺어 [곰TV](https://ko.wikipedia.org/wiki/곰TV "wikilink")가 운영하는 [곰eXP 스튜디오를](https://ko.wikipedia.org/wiki/곰eXP_스튜디오 "wikilink") 인수하여 **프릭 업 스튜디오**로 개명하여 10월 28일에 리뉴얼 개관되었고, 11월 1일에는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 운영권을 양도하였다.
+**2015년** **8월 1일**에는 E스포츠 방송에 대한 관심을 높여 사업을 강화하기 위해 [그래텍](https://ko.wikipedia.org/wiki/그래텍 "wikilink")과 E스포츠 사업부분을 인수계약 맺어 [곰TV](../Page/곰TV.md "wikilink")가 운영하는 [곰eXP 스튜디오를](https://ko.wikipedia.org/wiki/곰eXP_스튜디오 "wikilink") 인수하여 **프릭 업 스튜디오**로 개명하여 10월 28일에 리뉴얼 개관되었고, 11월 1일에는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 운영권을 양도하였다.
 
 **2015년** **9월 16일**에는 2014년 10월 16일에 베타서비스를 시작한 웹형 플래시 플레이어를 모든 데스크탑 시청 플랫폼의 기본 플레이어로 변경하여 기존 윈도우즈 뿐만 아니라 맥 환경에서도 아무런 설치 없이 시청이 가능하게 되었다.
 
@@ -25,15 +25,15 @@
 
 ### 브라우저
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") 전까지는 프로그램 런처가 홈페이지에서 실행되는 [ActiveX](https://ko.wikipedia.org/wiki/ActiveX "wikilink") 컨트롤이었기 때문에 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 외에선 전혀 실행하지 못하고 [인터넷 익스플로러를](https://ko.wikipedia.org/wiki/인터넷_익스플로러 "wikilink") 제외한 다른 브라우저에서 검색시 오류가 발생했으나, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") 후부터는 [마이크로소프트 실버라이트로](https://ko.wikipedia.org/wiki/마이크로소프트_실버라이트 "wikilink") 구현한 아프리카TV 2.0 베타 서비스를 시작하여 [인터넷 익스플로러](https://ko.wikipedia.org/wiki/인터넷_익스플로러 "wikilink") 외의 브라우저에서도 방송을 볼 수 있다. 또한 상기에 서술한대로 현재는 웹 브라우저와 OS에 상관없이 모든 플랫폼에서 플래시 플레이어가 설치된 PC에서 시청이 가능하다.
+[2010년](../Page/2010년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") 전까지는 프로그램 런처가 홈페이지에서 실행되는 [ActiveX](https://ko.wikipedia.org/wiki/ActiveX "wikilink") 컨트롤이었기 때문에 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [운영 체제](../Page/운영_체제.md "wikilink") 외에선 전혀 실행하지 못하고 [인터넷 익스플로러를](../Page/인터넷_익스플로러.md "wikilink") 제외한 다른 브라우저에서 검색시 오류가 발생했으나, [2010년](../Page/2010년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") 후부터는 [마이크로소프트 실버라이트로](https://ko.wikipedia.org/wiki/마이크로소프트_실버라이트 "wikilink") 구현한 아프리카TV 2.0 베타 서비스를 시작하여 [인터넷 익스플로러](../Page/인터넷_익스플로러.md "wikilink") 외의 브라우저에서도 방송을 볼 수 있다. 또한 상기에 서술한대로 현재는 웹 브라우저와 OS에 상관없이 모든 플랫폼에서 플래시 플레이어가 설치된 PC에서 시청이 가능하다.
 
 ### 모바일
 
-2009년 12월 9일, 아프리카TV는 모바일 앱을 오픈하였다. 먼저 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")용 모바일 플레이어를 개발, 공개한 뒤 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 버전의 플레이어를 공개했다. 하지만 안드로이드용 플레이어는 일부 기종에서 소리가 늦게 나오는 문제가 있었다. 패치를 거듭하다 마침내 영상과 소리의 싱크가 일치되었지만, 채팅기능이 추가되자 일부 기종에서 영상과 소리가 심하게 끊기는 현상이 발생하여 안드로이드 사용자들로부터 비난을 받기도 했다. 하지만 많은 패치끝에 이런 문제는 해결되고 아직도 남은 많은 문제들이 해결되고 있다.
+2009년 12월 9일, 아프리카TV는 모바일 앱을 오픈하였다. 먼저 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")용 모바일 플레이어를 개발, 공개한 뒤 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 버전의 플레이어를 공개했다. 하지만 안드로이드용 플레이어는 일부 기종에서 소리가 늦게 나오는 문제가 있었다. 패치를 거듭하다 마침내 영상과 소리의 싱크가 일치되었지만, 채팅기능이 추가되자 일부 기종에서 영상과 소리가 심하게 끊기는 현상이 발생하여 안드로이드 사용자들로부터 비난을 받기도 했다. 하지만 많은 패치끝에 이런 문제는 해결되고 아직도 남은 많은 문제들이 해결되고 있다.
 
 ### 시청 지역
 
-대한민국 이외의 해외 지역에서는 그리드 딜리버리 방식의 서비스에서는 해외 트래픽이 [P2P](https://ko.wikipedia.org/wiki/P2P "wikilink") 효율에 기여하기가 어려웠고, 해저케이블을 지나는 패킷에 대한 이용료가 회사 측에 부담이 되었기 때문에 1개월 당 해외망 이용료를 지불하면 영상을 무료로 시청할 수 있었으나, 서비스 제공 방식에서 그리드 딜리버리 방식을 포기하고, 서비스가 해외로 진출하면서 해외에서도 전면적으로 이용이 가능하게 되었다. 모바일 서비스는 모바일 디바이스에 적합한 [비트레이트](https://ko.wikipedia.org/wiki/비트레이트 "wikilink")로 서버측에서 실시간 [트랜스코딩](https://ko.wikipedia.org/wiki/트랜스코딩 "wikilink")이 이루어지는 형태로 출발하였으므로 애초에 해외에서도 시청이 가능하였다.
+대한민국 이외의 해외 지역에서는 그리드 딜리버리 방식의 서비스에서는 해외 트래픽이 [P2P](../Page/P2P.md "wikilink") 효율에 기여하기가 어려웠고, 해저케이블을 지나는 패킷에 대한 이용료가 회사 측에 부담이 되었기 때문에 1개월 당 해외망 이용료를 지불하면 영상을 무료로 시청할 수 있었으나, 서비스 제공 방식에서 그리드 딜리버리 방식을 포기하고, 서비스가 해외로 진출하면서 해외에서도 전면적으로 이용이 가능하게 되었다. 모바일 서비스는 모바일 디바이스에 적합한 [비트레이트](../Page/비트레이트.md "wikilink")로 서버측에서 실시간 [트랜스코딩](https://ko.wikipedia.org/wiki/트랜스코딩 "wikilink")이 이루어지는 형태로 출발하였으므로 애초에 해외에서도 시청이 가능하였다.
 
 ## e스포츠
 
@@ -61,9 +61,9 @@
 
 ## 스튜디오
 
-| 스튜디오                                             | 지역                                                                                                            | 개관일                                                                                                                 |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **[프릭 업 스튜디오](../Page/프릭_업_스튜디오.md "wikilink")** | [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink") |
+| 스튜디오                                             | 지역                                                                      | 개관일                                                                           |
+| ------------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **[프릭 업 스튜디오](../Page/프릭_업_스튜디오.md "wikilink")** | [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") | [2015년](../Page/2015년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") |
 
 ## 별풍선
 
@@ -73,15 +73,15 @@
 
 ### 일반인 BJ의 텔레비전 방송 진출
 
-[BJ들의](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") 방송 출연이 이어지고 있다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에는 오직 아프리카TV 출신 [BJ들이](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 진행하는 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 '[G맨 게임종결자](https://ko.wikipedia.org/wiki/G맨_게임종결자 "wikilink")'라는 프로그램이 방송되기 시작했다. G맨 게임종결자에는 [대정령](https://ko.wikipedia.org/wiki/대정령 "wikilink")과 로복과 뷜랑 등 많은 [BJ들이](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 등장했다.\[10\]
+[BJ들의](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") [텔레비전](../Page/텔레비전.md "wikilink") 방송 출연이 이어지고 있다. [2011년](../Page/2011년.md "wikilink")에는 오직 아프리카TV 출신 [BJ들이](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 진행하는 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 '[G맨 게임종결자](https://ko.wikipedia.org/wiki/G맨_게임종결자 "wikilink")'라는 프로그램이 방송되기 시작했다. G맨 게임종결자에는 [대정령](https://ko.wikipedia.org/wiki/대정령 "wikilink")과 로복과 뷜랑 등 많은 [BJ들이](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 등장했다.\[10\]
 
 ### 끼와 재능있는 인터넷방송 진행자들의 공중파, 케이블TV 출연
 
-인터넷방송 서비스인 아프리카TV에서 활동하며 인지도를 높이던 [최군](https://ko.wikipedia.org/wiki/최군 "wikilink")(MBC 16기 공채 개그맨, 거성엔터테인먼트 소속)은 아프리카TV를 통해 공중파에 진출한 개그맨이다. 아프리카TV에서 방송 중 그의 끼와 재능을 알아본 [박명수](https://ko.wikipedia.org/wiki/박명수 "wikilink")에 의해 발탁되어 공중파와 케이블TV에 출연 하게 되었다. 최군은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 아프리카TV 방송대상과 상금을 수상하였다.
+인터넷방송 서비스인 아프리카TV에서 활동하며 인지도를 높이던 [최군](../Page/최군.md "wikilink")(MBC 16기 공채 개그맨, 거성엔터테인먼트 소속)은 아프리카TV를 통해 공중파에 진출한 개그맨이다. 아프리카TV에서 방송 중 그의 끼와 재능을 알아본 [박명수](../Page/박명수.md "wikilink")에 의해 발탁되어 공중파와 케이블TV에 출연 하게 되었다. 최군은 [2011년](../Page/2011년.md "wikilink") 아프리카TV 방송대상과 상금을 수상하였다.
 
-그밖에 김마메, MC인진\[11\], 왕쥬, BJ쇼리, 돌+I [신동훈](https://ko.wikipedia.org/wiki/신동훈_\(희극인\) "wikilink"), 범프리카, 돌프, 대도서관 (데스페라지),더 디바 등의 끼와 재능 있는 [BJ들이](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") [화성인 바이러스](https://ko.wikipedia.org/wiki/화성인_바이러스 "wikilink"), [놀라운 대회 스타킹](https://ko.wikipedia.org/wiki/놀라운_대회_스타킹 "wikilink"), [세바퀴](https://ko.wikipedia.org/wiki/세상을_바꾸는_퀴즈 "wikilink"), [무한도전](../Page/무한도전.md "wikilink"), [화성인 X파일](https://ko.wikipedia.org/wiki/화성인_X파일 "wikilink"), [김국진의 현장박치기](../Page/김국진의_현장박치기.md "wikilink"), [생활의 달인](https://ko.wikipedia.org/wiki/생활의_달인 "wikilink"), 컬투의 베란다쇼, vj특공대,강용석의 고소한19 등에 출연하였다.
+그밖에 김마메, MC인진\[11\], 왕쥬, BJ쇼리, 돌+I [신동훈](https://ko.wikipedia.org/wiki/신동훈_\(희극인\) "wikilink"), 범프리카, 돌프, 대도서관 (데스페라지),더 디바 등의 끼와 재능 있는 [BJ들이](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") [화성인 바이러스](../Page/화성인_바이러스.md "wikilink"), [놀라운 대회 스타킹](https://ko.wikipedia.org/wiki/놀라운_대회_스타킹 "wikilink"), [세바퀴](../Page/세상을_바꾸는_퀴즈.md "wikilink"), [무한도전](../Page/무한도전.md "wikilink"), [화성인 X파일](https://ko.wikipedia.org/wiki/화성인_X파일 "wikilink"), [김국진의 현장박치기](../Page/김국진의_현장박치기.md "wikilink"), [생활의 달인](../Page/생활의_달인.md "wikilink"), 컬투의 베란다쇼, vj특공대,강용석의 고소한19 등에 출연하였다.
 
-반대로 [최강희](https://ko.wikipedia.org/wiki/최강희_\(배우\) "wikilink"), 개그맨 [이상구등의](https://ko.wikipedia.org/wiki/이상구_\(희극인\) "wikilink") 연예인들이 아프리카TV에서 [BJ로](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 활동 하였다.
+반대로 [최강희](../Page/최강희_\(배우\).md "wikilink"), 개그맨 [이상구등의](../Page/이상구_\(희극인\).md "wikilink") 연예인들이 아프리카TV에서 [BJ로](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 활동 하였다.
 
 ### 신인 가수 배출과 언더그라운드 가수의 방송 진행
 
@@ -93,7 +93,7 @@
 
 ### 선거 운동 활용
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 대한민국 [19대 총선](https://ko.wikipedia.org/wiki/대한민국_제19대_총선 "wikilink") 선거 운동이 [소셜 미디어를](../Page/소셜_미디어.md "wikilink") 활용하기 시작하면서 아프리카TV 등의 개인 방송도 실시간 선거 운동 방송으로 활용되고 있다. 유명 후보들의 방송 등장이 관심과 [토론](https://ko.wikipedia.org/wiki/토론 "wikilink")을 이끌어 냈다는 평가다. [19대 총선의](https://ko.wikipedia.org/wiki/대한민국_제19대_총선 "wikilink") 일 평균 아프리카TV 선거방송 누적시청자수는 10만 명에 이른다.\[14\]
+[2012년](../Page/2012년.md "wikilink") 대한민국 [19대 총선](https://ko.wikipedia.org/wiki/대한민국_제19대_총선 "wikilink") 선거 운동이 [소셜 미디어를](../Page/소셜_미디어.md "wikilink") 활용하기 시작하면서 아프리카TV 등의 개인 방송도 실시간 선거 운동 방송으로 활용되고 있다. 유명 후보들의 방송 등장이 관심과 [토론](../Page/토론.md "wikilink")을 이끌어 냈다는 평가다. [19대 총선의](https://ko.wikipedia.org/wiki/대한민국_제19대_총선 "wikilink") 일 평균 아프리카TV 선거방송 누적시청자수는 10만 명에 이른다.\[14\]
 
 ### 10·20대 미디어소통의 장
 
@@ -107,7 +107,7 @@
 
 두 살 짜리 어린아이와 술을 마시고 춤을 추게 해서 별풍선을 받아내는 등 문제가 KBS를 통해 지적 보도된 바 있다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 한 여성 [BJ의](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 알몸이 그대로 방송돼 물의를 빚었다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 리니지 관련 방송으로 인기를 모으던 남성 [BJ가](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 불특정 다수와 연락을 취할 수 있는 랜덤채팅을 중계하다 상대방이 성기를 노출한 사고가 발생했다. 이에 아프리카TV는 해당 [BJ를](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 영구 정지시켰지만, 곧 사면시켜줘 다시 방송에 복귀하면서 논란이 되었다. 이에 2011년 5월 선정성 문제가 공식 제기 되었고 [방송통신심의위원회](https://ko.wikipedia.org/wiki/방송통신심의위원회 "wikilink")가 실시간 인터넷 방송의 유해정보에 대한 집중 모니터링을 실시하였다. 한편 돈으로 환전 가능해 돈벌이 수단으로 악용되는 '별풍선'이 선정적 방송을 부추긴다는 비판도 나오고있다.\[17\]
+[2008년](../Page/2008년.md "wikilink") 한 여성 [BJ의](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 알몸이 그대로 방송돼 물의를 빚었다. [2011년](../Page/2011년.md "wikilink") [3월](../Page/3월.md "wikilink") 리니지 관련 방송으로 인기를 모으던 남성 [BJ가](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 불특정 다수와 연락을 취할 수 있는 랜덤채팅을 중계하다 상대방이 성기를 노출한 사고가 발생했다. 이에 아프리카TV는 해당 [BJ를](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 영구 정지시켰지만, 곧 사면시켜줘 다시 방송에 복귀하면서 논란이 되었다. 이에 2011년 5월 선정성 문제가 공식 제기 되었고 [방송통신심의위원회](https://ko.wikipedia.org/wiki/방송통신심의위원회 "wikilink")가 실시간 인터넷 방송의 유해정보에 대한 집중 모니터링을 실시하였다. 한편 돈으로 환전 가능해 돈벌이 수단으로 악용되는 '별풍선'이 선정적 방송을 부추긴다는 비판도 나오고있다.\[17\]
 
 ### 시청자 성폭행 사건
 
@@ -115,7 +115,7 @@
 
 ### 승부조작 전직 프로게이머들의 방송 진행 논란
 
-[2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") [스타크래프트 승부 조작 사건으로](https://ko.wikipedia.org/wiki/스타크래프트_승부_조작_사건 "wikilink") 영구제명이 된 [마재윤](../Page/마재윤.md "wikilink"), [박찬수](https://ko.wikipedia.org/wiki/박찬수 "wikilink")가 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")부터 집행유예기간 중에 개인방송을 열어 돈벌이를 하고 있어 논란이 되었다.\[18\] 또한 승부 조작에는 연루되지 않았지만, 전직 프로게이머 박지호 역시 프로게이머의 이미지를 해치는 방식으로 방송을 진행한다는 것에 지적을 받고 있다. 박지호는 승부조작 사건에 연루되지 않아 무관한 일이지만, 승부조작을 한 마재윤과 박찬수는 전혀 제재를 걸지 않고 그대로 방치해 두어서 문제가 되었다. 이에 대해 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")에서 승부조작 범죄자들에 대한 e스포츠 공식 종목 방송 금지를 인터넷 스트리밍 사이트들에 요청하였고, 아프리카TV측은 KeSPA의 요청에 따라 승부조작 게이머에 대한 공식 종목 방송을 금지하여\[19\] 현재 승부조작 가담자들은 [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink")나 [리그 오브 레전드](https://ko.wikipedia.org/wiki/리그_오브_레전드 "wikilink") 등의 KeSPA 지정 공식 종목으로 개인 방송을 진행할 수 없다.
+[2010년](../Page/2010년.md "wikilink") [5월](../Page/5월.md "wikilink") [스타크래프트 승부 조작 사건으로](https://ko.wikipedia.org/wiki/스타크래프트_승부_조작_사건 "wikilink") 영구제명이 된 [마재윤](../Page/마재윤.md "wikilink"), [박찬수](https://ko.wikipedia.org/wiki/박찬수 "wikilink")가 [2011년](../Page/2011년.md "wikilink") [6월](../Page/6월.md "wikilink")부터 집행유예기간 중에 개인방송을 열어 돈벌이를 하고 있어 논란이 되었다.\[18\] 또한 승부 조작에는 연루되지 않았지만, 전직 프로게이머 박지호 역시 프로게이머의 이미지를 해치는 방식으로 방송을 진행한다는 것에 지적을 받고 있다. 박지호는 승부조작 사건에 연루되지 않아 무관한 일이지만, 승부조작을 한 마재윤과 박찬수는 전혀 제재를 걸지 않고 그대로 방치해 두어서 문제가 되었다. 이에 대해 [2015년](../Page/2015년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")에서 승부조작 범죄자들에 대한 e스포츠 공식 종목 방송 금지를 인터넷 스트리밍 사이트들에 요청하였고, 아프리카TV측은 KeSPA의 요청에 따라 승부조작 게이머에 대한 공식 종목 방송을 금지하여\[19\] 현재 승부조작 가담자들은 [스타크래프트](../Page/스타크래프트.md "wikilink")나 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink") 등의 KeSPA 지정 공식 종목으로 개인 방송을 진행할 수 없다.
 
 ### BJ회훈의 허위사실 도포
 
@@ -123,11 +123,11 @@
 
 ### 난폭 운전 생중계
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink"), 서울 마포 경찰서는 서울 강변북로에서 고급 외제차를 타고 난폭운전을 한 혐의(도로교통법 위반)로 회사원이자 아프리카TV [BJ인](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 엄모(30)씨 등 3명을 불구속 입건했다. 경찰에 따르면 2015년 11월 29일 오전 1시경 고급 외제차 3대를 이용해 강변북로 마포구 난지 캠프장 부근에서 영동대교 북단까지 20km구간을 시속 180km로 과속운전하며 자동차들의 레이싱 장면을 영상으로 찍어 아프리카TV를 통해 생중계했다. 또한 이런 과정에서 차선 변경 깜빡이를 켜지 않는 등의 난폭운전도 서슴치 않았다. 한 시청자가 이를 문제가 있다고 여겨 자동차 커뮤니티에 해당 동영상을 올리자 경찰이 수사를 해 엄씨 등 3명을 검거했다. 엄씨는 사람들의 흥미를 유발해 별풍선을 얻기 위해 자동차 배틀 경기 영상을 방송했다며 혐의를 인정했다.
+[2016년](../Page/2016년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink"), 서울 마포 경찰서는 서울 강변북로에서 고급 외제차를 타고 난폭운전을 한 혐의(도로교통법 위반)로 회사원이자 아프리카TV [BJ인](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 엄모(30)씨 등 3명을 불구속 입건했다. 경찰에 따르면 2015년 11월 29일 오전 1시경 고급 외제차 3대를 이용해 강변북로 마포구 난지 캠프장 부근에서 영동대교 북단까지 20km구간을 시속 180km로 과속운전하며 자동차들의 레이싱 장면을 영상으로 찍어 아프리카TV를 통해 생중계했다. 또한 이런 과정에서 차선 변경 깜빡이를 켜지 않는 등의 난폭운전도 서슴치 않았다. 한 시청자가 이를 문제가 있다고 여겨 자동차 커뮤니티에 해당 동영상을 올리자 경찰이 수사를 해 엄씨 등 3명을 검거했다. 엄씨는 사람들의 흥미를 유발해 별풍선을 얻기 위해 자동차 배틀 경기 영상을 방송했다며 혐의를 인정했다.
 
 ### 서수길 대표 욕설 파문
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 29일에](https://ko.wikipedia.org/wiki/4월_29일 "wikilink") 있었던 아프리카TV 단합대회 때 대표 [서수길](https://ko.wikipedia.org/wiki/서수길 "wikilink")이 [PD수첩](https://ko.wikipedia.org/wiki/PD수첩 "wikilink")을 향해 욕설을 내뱉은 영상이 인터넷으로 생중계 되면서 논란이 되었다. 앞서 4월 12일에 [PD수첩](https://ko.wikipedia.org/wiki/PD수첩 "wikilink")에서 아프리카TV의 문제점에 대해 보도한바 있었다. 이 욕설 파문으로 [PD수첩](https://ko.wikipedia.org/wiki/PD수첩 "wikilink") 측은 법적대응을 검토하고 있다고 밝혔다.\[20\]
+[2016년](../Page/2016년.md "wikilink") [4월 29일에](../Page/4월_29일.md "wikilink") 있었던 아프리카TV 단합대회 때 대표 [서수길](https://ko.wikipedia.org/wiki/서수길 "wikilink")이 [PD수첩](../Page/PD수첩.md "wikilink")을 향해 욕설을 내뱉은 영상이 인터넷으로 생중계 되면서 논란이 되었다. 앞서 4월 12일에 [PD수첩](../Page/PD수첩.md "wikilink")에서 아프리카TV의 문제점에 대해 보도한바 있었다. 이 욕설 파문으로 [PD수첩](../Page/PD수첩.md "wikilink") 측은 법적대응을 검토하고 있다고 밝혔다.\[20\]
 
 ### 아프리카TV 갑질 논란
 
@@ -140,7 +140,7 @@
   - [아프리카TV BJ대상](../Page/아프리카TV_BJ대상.md "wikilink")
   - [유스트림](https://ko.wikipedia.org/wiki/유스트림 "wikilink")
   - [라이브스트림](https://ko.wikipedia.org/wiki/라이브스트림 "wikilink")
-  - [판도라TV](https://ko.wikipedia.org/wiki/판도라TV "wikilink")
+  - [판도라TV](../Page/판도라TV.md "wikilink")
   - [니코니코 생방송](https://ko.wikipedia.org/wiki/니코니코_생방송 "wikilink")
   - [Justin.tv](https://ko.wikipedia.org/wiki/Justin.tv "wikilink")
   - [아프리카 프릭스](../Page/아프리카_프릭스.md "wikilink")

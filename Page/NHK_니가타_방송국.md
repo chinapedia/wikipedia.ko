@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
 
 
-**NHK 니가타 방송국**(新潟 放送局)은 [니가타현](https://ko.wikipedia.org/wiki/니가타현 "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:JOQK.JPG "wikilink")
+**NHK 니가타 방송국**(新潟 放送局)은 [니가타현](../Page/니가타현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:JOQK.JPG "wikilink")
 
 ## 개요
 
@@ -10,39 +10,39 @@
 
 ## 연혁
 
-  - [1931년](https://ko.wikipedia.org/wiki/1931년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink")　[라디오 제1방송](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink") 시험 방송 개시(호출부호 JOQK)
-  - [1931년](https://ko.wikipedia.org/wiki/1931년 "wikilink") [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink")　니가타 방송국 개국, 라디오 제1방송 본방송 개시(일본 13번째).
-  - [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 중앙방송국 승격.
-  - [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") 중앙방송국에서 보통방송국으로 격하.
-  - [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink")　[라디오 제2방송](https://ko.wikipedia.org/wiki/NHK_라디오제2방송 "wikilink") 개시(지역 NHK 방송국 중 최초)
-  - [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 라디오 제2방송 호출 부호 JOQC로 변경.
-  - [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 라디오 제2방송 호출 부호 JOQB로 변경.
-  - [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 종합 텔레비전 방송 개시(당시 방송채널은 2ch)
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink")　아날로그 종합 텔레비전 채널이 8ch로 변경.
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink")　아날로그 교육 텔레비전 방송 개시
-  - [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [12월 16일](https://ko.wikipedia.org/wiki/12월_16일 "wikilink")　종합 텔레비전 컬러 방송 개시
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink")　교육 텔레비전 컬러 방송 개시
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink")　[FM방송](https://ko.wikipedia.org/wiki/NHK-FM방송 "wikilink") 개시(실용화 시험 방송).
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink")　FM본방송 개시(일본전국 동시시작).
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink")　지방뉴스 컬러제작 시작.
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink")　지역 프로그램 컬러화 완료.
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink")　오전 5시, 국제 전기통신 연합회의 주파수 변경 결정에 따라, 라디오 제1, 제2방송 주파수가 송신소, 중계국 모두 변경된다(라디오 제1：840KHz→837KHz, 라디오 제2：1590KHz→1593KHz).
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [3월 16일](https://ko.wikipedia.org/wiki/3월_16일 "wikilink")　PCM 디지털 스테레오 회선이 도입되어 FM방송 음질이 개선된다.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink")　종합 텔레비전 음성다중방송 면허 취득.다음날부터 시험 방송 개시.그리고 3일 후인 10일부터 본방송 개시.
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink")　교육 텔레비전 음성다중방송 실시
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink")　디지털 텔레비전 시험전파 발사.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink")　디지털 텔레비전 시험방송 실시.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 3일](https://ko.wikipedia.org/wiki/2월_3일 "wikilink")　디지털 텔레비전 아날로그 동시 시험방송개시([원세그](https://ko.wikipedia.org/wiki/원세그 "wikilink") 시험방송도 동시시작)
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink")　디지털 텔레비전 방송 개시.(동시에 [원세그](https://ko.wikipedia.org/wiki/원세그 "wikilink") 방송도 개시했지만 [원세그](https://ko.wikipedia.org/wiki/원세그 "wikilink")는 당분간,[NHK 방송 센터의](https://ko.wikipedia.org/wiki/NHK_방송_센터 "wikilink") 프로그램을 방송한다.)
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 18일](https://ko.wikipedia.org/wiki/3월_18일 "wikilink")　[원세그](https://ko.wikipedia.org/wiki/원세그 "wikilink")방송 송출을 NHK 니가타 방송국에서 담당하기 시작
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 지상파 아날로그 텔레비전 방송 종료
+  - [1931년](../Page/1931년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink")　[라디오 제1방송](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink") 시험 방송 개시(호출부호 JOQK)
+  - [1931년](../Page/1931년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink")　니가타 방송국 개국, 라디오 제1방송 본방송 개시(일본 13번째).
+  - [1945년](../Page/1945년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 중앙방송국 승격.
+  - [1945년](../Page/1945년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") 중앙방송국에서 보통방송국으로 격하.
+  - [1946년](../Page/1946년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink")　[라디오 제2방송](https://ko.wikipedia.org/wiki/NHK_라디오제2방송 "wikilink") 개시(지역 NHK 방송국 중 최초)
+  - [1948년](../Page/1948년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 라디오 제2방송 호출 부호 JOQC로 변경.
+  - [1949년](../Page/1949년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 라디오 제2방송 호출 부호 JOQB로 변경.
+  - [1958년](../Page/1958년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 종합 텔레비전 방송 개시(당시 방송채널은 2ch)
+  - [1962년](../Page/1962년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink")　아날로그 종합 텔레비전 채널이 8ch로 변경.
+  - [1962년](../Page/1962년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink")　아날로그 교육 텔레비전 방송 개시
+  - [1963년](../Page/1963년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink")　종합 텔레비전 컬러 방송 개시
+  - [1964년](../Page/1964년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink")　교육 텔레비전 컬러 방송 개시
+  - [1964년](../Page/1964년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink")　[FM방송](../Page/NHK-FM방송.md "wikilink") 개시(실용화 시험 방송).
+  - [1969년](../Page/1969년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink")　FM본방송 개시(일본전국 동시시작).
+  - [1970년](../Page/1970년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink")　지방뉴스 컬러제작 시작.
+  - [1972년](../Page/1972년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink")　지역 프로그램 컬러화 완료.
+  - [1978년](../Page/1978년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink")　오전 5시, 국제 전기통신 연합회의 주파수 변경 결정에 따라, 라디오 제1, 제2방송 주파수가 송신소, 중계국 모두 변경된다(라디오 제1：840KHz→837KHz, 라디오 제2：1590KHz→1593KHz).
+  - [1981년](../Page/1981년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink")　PCM 디지털 스테레오 회선이 도입되어 FM방송 음질이 개선된다.
+  - [1983년](../Page/1983년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink")　종합 텔레비전 음성다중방송 면허 취득.다음날부터 시험 방송 개시.그리고 3일 후인 10일부터 본방송 개시.
+  - [1991년](../Page/1991년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink")　교육 텔레비전 음성다중방송 실시
+  - [2005년](../Page/2005년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink")　디지털 텔레비전 시험전파 발사.
+  - [2005년](../Page/2005년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink")　디지털 텔레비전 시험방송 실시.
+  - [2006년](../Page/2006년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink")　디지털 텔레비전 아날로그 동시 시험방송개시([원세그](../Page/원세그.md "wikilink") 시험방송도 동시시작)
+  - [2006년](../Page/2006년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink")　디지털 텔레비전 방송 개시.(동시에 [원세그](../Page/원세그.md "wikilink") 방송도 개시했지만 [원세그](../Page/원세그.md "wikilink")는 당분간,[NHK 방송 센터의](../Page/NHK_방송_센터.md "wikilink") 프로그램을 방송한다.)
+  - [2007년](../Page/2007년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink")　[원세그](../Page/원세그.md "wikilink")방송 송출을 NHK 니가타 방송국에서 담당하기 시작
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 지상파 아날로그 텔레비전 방송 종료
 
 ## 콜사인·주파수
 
 ### 텔레비전 방송
 
-  - [종합 텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 니가타본국 15ch(JOQK-DTV)
-  - [교육 텔레비전](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 니가타본국 13ch(JOQB-DTV)
+  - [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 니가타본국 15ch(JOQK-DTV)
+  - [교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink") 니가타본국 13ch(JOQB-DTV)
 
 ### 라디오 주파수
 
@@ -85,15 +85,15 @@
 | 쓰가와 중계국     | 85.1MHz |                       |
 | 료우쓰 중계국     | 86.9MHz |                       |
 
-[FM방송](https://ko.wikipedia.org/wiki/NHK-FM방송 "wikilink")
+[FM방송](../Page/NHK-FM방송.md "wikilink")
 
-## [니가타현](https://ko.wikipedia.org/wiki/니가타현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [니가타현](../Page/니가타현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
   - [TV 니가타 방송망](../Page/TV_니가타_방송망.md "wikilink")(TeNY)([니혼 TV](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 계열)
   - [니가타 TV21](../Page/니가타_TV21.md "wikilink")(UX)([TV 아사히](../Page/TV_아사히.md "wikilink") 계열)
   - [니가타 방송](../Page/니가타_방송.md "wikilink")(BSN)(TV는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열, 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")&[NRN](../Page/NRN.md "wikilink")계열)
-  - [니가타 종합 TV](../Page/니가타_종합_TV.md "wikilink")(NST)([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열)
-  - [FM라디오니가타](https://ko.wikipedia.org/wiki/FM라디오니가타 "wikilink")([JFN](https://ko.wikipedia.org/wiki/JFN "wikilink") 계열)
+  - [니가타 종합 TV](../Page/니가타_종합_TV.md "wikilink")(NST)([후지 TV](../Page/후지_TV.md "wikilink") 계열)
+  - [FM라디오니가타](https://ko.wikipedia.org/wiki/FM라디오니가타 "wikilink")([JFN](../Page/JFN.md "wikilink") 계열)
   - [니가타현민 FM방송](https://ko.wikipedia.org/wiki/니가타현민_FM방송 "wikilink")(독립 라디오 방송국)
 
 ## 외부 링크

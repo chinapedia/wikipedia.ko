@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CMG  ](https://ko.wikipedia.org/wiki/CMG__).
 
 
-**CMG 본사 빌딩**(, , 메인 빌딩)은 [CMG의](https://ko.wikipedia.org/wiki/중국중앙방송하다텔레비전방송국 "wikilink") 신사옥으로 건설된 [마천루](https://ko.wikipedia.org/wiki/마천루 "wikilink")이다. 기공식은 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 22일에](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") 있었으며, [2008년 하계 올림픽에](https://ko.wikipedia.org/wiki/2008년_하계_올림픽 "wikilink") 맞추어 완공됐다. 건축거장 [렘 콜하스](https://ko.wikipedia.org/wiki/렘_콜하스 "wikilink") 및 건축가 [올레 스히렌이](https://ko.wikipedia.org/wiki/올레_스히렌 "wikilink") 이 건물을 설계했다. 234m 높이로 지어졌다.
+**CMG 본사 빌딩**(, , 메인 빌딩)은 [CMG의](https://ko.wikipedia.org/wiki/중국중앙방송하다텔레비전방송국 "wikilink") 신사옥으로 건설된 [마천루](../Page/마천루.md "wikilink")이다. 기공식은 [2004년](../Page/2004년.md "wikilink") [9월 22일에](../Page/9월_22일.md "wikilink") 있었으며, [2008년 하계 올림픽에](https://ko.wikipedia.org/wiki/2008년_하계_올림픽 "wikilink") 맞추어 완공됐다. 건축거장 [렘 콜하스](../Page/렘_콜하스.md "wikilink") 및 건축가 [올레 스히렌이](https://ko.wikipedia.org/wiki/올레_스히렌 "wikilink") 이 건물을 설계했다. 234m 높이로 지어졌다.
 
 ## 외관
 
-CCTV 본사 빌딩 주건물은 일반적인 타워 모양으로 지어지지 않는다: 두 개의 건축구조물이 공통의 프로덕션 플랫폼에서 시작해서 수직에서 약 15도 정도 기울어진 상태로 솟아오르고, 이 둘은 꼭대기 상층부에서 서로 만나 [외팔보](https://ko.wikipedia.org/wiki/외팔보 "wikilink")에 의해 지지된다.\[1\] 베이징 시민들 사이에서는 "큰 바지"라는 별명으로 부르기도 하고, 이외에 "중국판 [피사의 사탑](https://ko.wikipedia.org/wiki/피사의_사탑 "wikilink")"이라는 별명도 있다.
+CCTV 본사 빌딩 주건물은 일반적인 타워 모양으로 지어지지 않는다: 두 개의 건축구조물이 공통의 프로덕션 플랫폼에서 시작해서 수직에서 약 15도 정도 기울어진 상태로 솟아오르고, 이 둘은 꼭대기 상층부에서 서로 만나 [외팔보](https://ko.wikipedia.org/wiki/외팔보 "wikilink")에 의해 지지된다.\[1\] 베이징 시민들 사이에서는 "큰 바지"라는 별명으로 부르기도 하고, 이외에 "중국판 [피사의 사탑](../Page/피사의_사탑.md "wikilink")"이라는 별명도 있다.
 
 ## 갤러리
 

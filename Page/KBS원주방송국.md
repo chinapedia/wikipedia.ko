@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
 
 
-**KBS원주방송국**(KBS原州放送局)은 [강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink") 영서 남부지역을 대상으로 하는 [KBS 춘천방송총국](https://ko.wikipedia.org/wiki/KBS_춘천방송총국 "wikilink") 소속 산하의 지역국이다. 1964년 개국하여 1986년 12월 [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 공사 직제개편으로 KBS춘천방송총국 산하 원주방송국으로 개편되었다.
+**KBS원주방송국**(KBS原州放送局)은 [강원도](../Page/강원도.md "wikilink") 영서 남부지역을 대상으로 하는 [KBS 춘천방송총국](https://ko.wikipedia.org/wiki/KBS_춘천방송총국 "wikilink") 소속 산하의 지역국이다. 1964년 개국하여 1986년 12월 [한국방송공사](../Page/한국방송공사.md "wikilink") 공사 직제개편으로 KBS춘천방송총국 산하 원주방송국으로 개편되었다.
 
-2004년 11월 [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 지역국 기능조정으로 춘천총국 산하 [영월국](../Page/KBS영월방송국.md "wikilink") 폐지와 영월중계소, 평창중계소의 기능을 원주방송국으로 통합하였으며, 2005년 12월 디지털TV를 개국하였다. 대부분의 방송은 대부분 KBS본사의 프로그램을 릴레이 하여 편성하고 있고, 총국보다 한 단계 낮은 지역국으로 보도, 지역현안, 지역민 문제에 대한 프로그램을 자체 제작하고 있다. 1986년에 사옥을 준공하였다.
+2004년 11월 [한국방송공사](../Page/한국방송공사.md "wikilink") 지역국 기능조정으로 춘천총국 산하 [영월국](../Page/KBS영월방송국.md "wikilink") 폐지와 영월중계소, 평창중계소의 기능을 원주방송국으로 통합하였으며, 2005년 12월 디지털TV를 개국하였다. 대부분의 방송은 대부분 KBS본사의 프로그램을 릴레이 하여 편성하고 있고, 총국보다 한 단계 낮은 지역국으로 보도, 지역현안, 지역민 문제에 대한 프로그램을 자체 제작하고 있다. 1986년에 사옥을 준공하였다.
 
 ## 조직
 
@@ -14,39 +14,39 @@
 
 ## 연혁
 
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 원주방송국 개국
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") 백운산 송신소 개소
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") 태기산 중계소 개소
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 신림 TVR 송출
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") KBS원주 제1라디오 FM으로 수신가능, 잡음이 전혀 없는 표준FM(스테레오가 아닌 모노)으로도 동시에 방송
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") 연주소 신사옥 기공
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 연주소 신사옥 준공
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 백운산 송신소 1TV, 음악FM 로칼방송 실시
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") 문막 TVR 설치
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink") 원주송신소 자동화 완료(무인운용)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") AM/FM 주조 및 스튜디오 이전 (지하1층 -\> 지상2층)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") 연주소 별관 증축 준공
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 19일](https://ko.wikipedia.org/wiki/12월_19일 "wikilink") 태기산 중계소 자동화 및 송출운영센터 완료
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 태기산 중계소 무인운용
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 백운산 송신소 자동화 완료
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") 태기산 중계소 표준FM 로컬방송 실시
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월 16일](https://ko.wikipedia.org/wiki/4월_16일 "wikilink") 백운산 송신소 무인운용
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") 연주소 표준FM STEREO화 완료
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") 백운산 송신소 표준FM 시험방송
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink") 백운산 송신소 표준FM STEREO 방송 송출
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink") 태기산 중계소 표준FM STEREO 방송 송출
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 지역국 기능조정 시행으로 영월국 페지영월중계소와 평창중계소를 원주국으로 통합 정선중계소와 사북중계소는 강릉국으로 통합
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") 송출센터 장비 빛 인원 원주국으로 완전 철수
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 시청자 광장 오픈 및 TV주조 디지털 공사 준공
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") 디지털 TV 개국
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") DMB(백운산) 개국
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 21일](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") DMB(태기산) 개국
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 6개소 DTVR 개국 (문막, 신일, 미탄, 예미, 방제, 평창)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") 20102개소 DTVR 개국 (신림, 쌍용)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") 도권 지상파 아날로그 TV방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 2개소 DTVR 신설 개국 (대화, 마차)
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") 백운산송신소/태기산중계소 디지털 TV 채널 재배치
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") 윗도골 송신소 2R FM 100.5MHz 개국
+  - [1964년](../Page/1964년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 원주방송국 개국
+  - [1971년](../Page/1971년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") 백운산 송신소 개소
+  - [1978년](../Page/1978년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 태기산 중계소 개소
+  - [1982년](../Page/1982년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 신림 TVR 송출
+  - [1982년](../Page/1982년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") KBS원주 제1라디오 FM으로 수신가능, 잡음이 전혀 없는 표준FM(스테레오가 아닌 모노)으로도 동시에 방송
+  - [1985년](../Page/1985년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") 연주소 신사옥 기공
+  - [1986년](../Page/1986년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 연주소 신사옥 준공
+  - [1987년](../Page/1987년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") 백운산 송신소 1TV, 음악FM 로칼방송 실시
+  - [1993년](../Page/1993년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") 문막 TVR 설치
+  - [1994년](../Page/1994년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink") 원주송신소 자동화 완료(무인운용)
+  - [1997년](../Page/1997년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") AM/FM 주조 및 스튜디오 이전 (지하1층 -\> 지상2층)
+  - [1997년](../Page/1997년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink") 연주소 별관 증축 준공
+  - [1997년](../Page/1997년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") 태기산 중계소 자동화 및 송출운영센터 완료
+  - [1998년](../Page/1998년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 태기산 중계소 무인운용
+  - [2000년](../Page/2000년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") 백운산 송신소 자동화 완료
+  - [2000년](../Page/2000년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") 태기산 중계소 표준FM 로컬방송 실시
+  - [2001년](../Page/2001년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") 백운산 송신소 무인운용
+  - [2001년](../Page/2001년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") 연주소 표준FM STEREO화 완료
+  - [2001년](../Page/2001년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") 백운산 송신소 표준FM 시험방송
+  - [2002년](../Page/2002년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") 백운산 송신소 표준FM STEREO 방송 송출
+  - [2002년](../Page/2002년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") 태기산 중계소 표준FM STEREO 방송 송출
+  - [2004년](../Page/2004년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 지역국 기능조정 시행으로 영월국 페지영월중계소와 평창중계소를 원주국으로 통합 정선중계소와 사북중계소는 강릉국으로 통합
+  - [2004년](../Page/2004년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") 송출센터 장비 빛 인원 원주국으로 완전 철수
+  - [2005년](../Page/2005년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 시청자 광장 오픈 및 TV주조 디지털 공사 준공
+  - [2005년](../Page/2005년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") 디지털 TV 개국
+  - [2010년](../Page/2010년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink") DMB(백운산) 개국
+  - [2011년](../Page/2011년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") DMB(태기산) 개국
+  - [2011년](../Page/2011년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 6개소 DTVR 개국 (문막, 신일, 미탄, 예미, 방제, 평창)
+  - [2012년](../Page/2012년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") 20102개소 DTVR 개국 (신림, 쌍용)
+  - [2012년](../Page/2012년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") 도권 지상파 아날로그 TV방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 2개소 DTVR 신설 개국 (대화, 마차)
+  - [2013년](../Page/2013년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") 백운산송신소/태기산중계소 디지털 TV 채널 재배치
+  - [2016년](../Page/2016년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") 윗도골 송신소 2R FM 100.5MHz 개국
 
 ## 방송 송출 시설망
 
@@ -190,22 +190,22 @@
 | [KBS 원주 아나운서](http://office.kbs.co.kr/announcer/archives/category/kbs-announcer/announcer-wonju) |
 | ------------------------------------------------------------------------------------------------ |
 | 입사연도                                                                                             |
-| [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")                                          |
-| [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")                                          |
+| [1985년](../Page/1985년.md "wikilink")                                                             |
+| [1995년](../Page/1995년.md "wikilink")                                                             |
 |                                                                                                  |
 
 ### 전직 아나운서
 
   - [김병찬](../Page/김병찬.md "wikilink") (1993\~1994, 전 KBS서울본국/현 MC)
-  - [윤상범](https://ko.wikipedia.org/wiki/윤상범 "wikilink") (1998\~2005, 현 [제주MBC](https://ko.wikipedia.org/wiki/제주MBC "wikilink"))
+  - [윤상범](../Page/윤상범.md "wikilink") (1998\~2005, 현 [제주MBC](https://ko.wikipedia.org/wiki/제주MBC "wikilink"))
   - [김도휘](../Page/김도휘.md "wikilink") (1998\~2000, 현 [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))
   - [김윤한](https://ko.wikipedia.org/wiki/김윤한 "wikilink") (1999\~2001, 원주방송국장, 전 KBS 서울본국/[세명대학교](../Page/세명대학교.md "wikilink") 방송연예학과 교수)
-  - [박현선](https://ko.wikipedia.org/wiki/박현선 "wikilink") (2004\~2005, 전 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")서울본국)
+  - [박현선](../Page/박현선.md "wikilink") (2004\~2005, 전 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")서울본국)
   - [이창진](https://ko.wikipedia.org/wiki/이창진 "wikilink") (2002\~2004, 현 KBS서울본국)
   - [오순화](https://ko.wikipedia.org/wiki/오순화 "wikilink") (2003\~2004, 명예퇴직)
   - [김숙경](https://ko.wikipedia.org/wiki/김숙경 "wikilink") (2001\~2008, 현 KBS대전총국)
-  - [이계진](https://ko.wikipedia.org/wiki/이계진 "wikilink") (현 국회의원)
-  - [윤우리](https://ko.wikipedia.org/wiki/윤우리 "wikilink") (2008\~2011, 현 [TV조선](https://ko.wikipedia.org/wiki/TV조선 "wikilink"))
+  - [이계진](../Page/이계진.md "wikilink") (현 국회의원)
+  - [윤우리](https://ko.wikipedia.org/wiki/윤우리 "wikilink") (2008\~2011, 현 [TV조선](../Page/TV조선.md "wikilink"))
   - [권원태](https://ko.wikipedia.org/wiki/권원태 "wikilink") (2004\~2005, 명예퇴직)
   - [김지원](../Page/김지원_\(아나운서\).md "wikilink") (2011\~2012, 전 KBS 창원총국/현 KBS 서울본국)
   - [박주인](https://ko.wikipedia.org/wiki/박주인 "wikilink") (2012\~2014, 현 퇴사)

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [RPG ](https://ko.wikipedia.org/wiki/RPG_).
 
 
-**RPG 메이커**() 혹은 **RPG 만들기**()은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [ASCII](../Page/아스키_\(기업\).md "wikilink"), [엔터브레인](https://ko.wikipedia.org/wiki/엔터브레인 "wikilink")이 개발하고 [Agetec](https://ko.wikipedia.org/wiki/:en:Agetec "wikilink"), [Degica이](https://ko.wikipedia.org/wiki/:en:Degica "wikilink") 발매하는 [RPG](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink") 제작 [소프트웨어](https://ko.wikipedia.org/wiki/소프트웨어 "wikilink")이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 액션알피지 다이스, 토파즈와 같은 RPG 만들기 시리즈가 있지만 이를 이용하여 찍어낸 샘플게임만도 못한 게임이 넘쳐나는 문제가 있다.
+**RPG 메이커**() 혹은 **RPG 만들기**()은 [일본](../Page/일본.md "wikilink")의 [ASCII](../Page/아스키_\(기업\).md "wikilink"), [엔터브레인](https://ko.wikipedia.org/wiki/엔터브레인 "wikilink")이 개발하고 [Agetec](https://ko.wikipedia.org/wiki/:en:Agetec "wikilink"), [Degica이](https://ko.wikipedia.org/wiki/:en:Degica "wikilink") 발매하는 [RPG](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink") 제작 [소프트웨어](../Page/소프트웨어.md "wikilink")이다. [대한민국](../Page/대한민국.md "wikilink")에서는 액션알피지 다이스, 토파즈와 같은 RPG 만들기 시리즈가 있지만 이를 이용하여 찍어낸 샘플게임만도 못한 게임이 넘쳐나는 문제가 있다.
 
 프로그램의 시스템 요구사항은 시리즈마다 제각각인데 시리즈가 최신일수록 사양을 더 높이 요구한다. 예를 들어 RPG Maker XP는 펜티엄, 1.5GHZ를 요구하고있다.
 
 ## 시리즈
 
-[1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink")에 발매를 시작으로 [PC용](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink"), 콘솔용, 모바일용 등을 포함하여 2007년 기준으로 약 36개의 RPG 만들기 시리즈가 제작됐다. 한국에는 RPG 쯔꾸르 DANTE 98, RPG 만들기 95, RPG 만들기 2000만 정식 발매 되어있다.
+[1988년](../Page/1988년.md "wikilink")에 발매를 시작으로 [PC용](../Page/개인용_컴퓨터.md "wikilink"), 콘솔용, 모바일용 등을 포함하여 2007년 기준으로 약 36개의 RPG 만들기 시리즈가 제작됐다. 한국에는 RPG 쯔꾸르 DANTE 98, RPG 만들기 95, RPG 만들기 2000만 정식 발매 되어있다.
 
 ### 주요 시리즈
 
@@ -15,11 +15,11 @@
   - RPG 만들기 95
   - RPG 만들기 2000
   - RPG 만들기 2003
-  - RPG 만들기 XP ([2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")) - 2000 시리즈 이후에 나온 새 시리즈. 스크립트 기능이 추가되었다. 그리고 캐릭터크기는 자유이다. 대표작으로 아오오니, 투더문이 있다.
-  - RPG 만들기 VX ([2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")) - XP 이후 3년 만에 나온 새 시리즈. 2000 시리즈를 기반으로 XP의 특징을 덧붙였다. 기능상의 특징이나 그래픽적 요소의 발전은 없다. XP가 자유도를 외치는 버전이면, VX는 편리함을 강조하고 있다. (캐릭터 크기가 2등신으로 되어있다.)
-  - 액션게임 만들기 ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")) - VX발매 이후 2년 만에 완전히 새로운 방식의 제작도구로 발매되었다.
-  - RPG 만들기 VX Ace ([2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")) 유통을 카도카와 게임즈가 담당하며, vx보다 비교적 나은 전투밸런스를 조정할 수 있다. (VX Ace의 체험판 격인 VX Ace라이트 버전이 스팀에 무료로 풀려있다. 그런데 이벤트 내 스크립트 사용 제한과 이벤트 개수의 한계가 10개이다.)
-  - RPG 만들기 MV ([2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink"))
+  - RPG 만들기 XP ([2004년](../Page/2004년.md "wikilink") [7월](../Page/7월.md "wikilink")) - 2000 시리즈 이후에 나온 새 시리즈. 스크립트 기능이 추가되었다. 그리고 캐릭터크기는 자유이다. 대표작으로 아오오니, 투더문이 있다.
+  - RPG 만들기 VX ([2007년](../Page/2007년.md "wikilink") [12월](../Page/12월.md "wikilink")) - XP 이후 3년 만에 나온 새 시리즈. 2000 시리즈를 기반으로 XP의 특징을 덧붙였다. 기능상의 특징이나 그래픽적 요소의 발전은 없다. XP가 자유도를 외치는 버전이면, VX는 편리함을 강조하고 있다. (캐릭터 크기가 2등신으로 되어있다.)
+  - 액션게임 만들기 ([2009년](../Page/2009년.md "wikilink") [3월](../Page/3월.md "wikilink")) - VX발매 이후 2년 만에 완전히 새로운 방식의 제작도구로 발매되었다.
+  - RPG 만들기 VX Ace ([2011년](../Page/2011년.md "wikilink") [12월](../Page/12월.md "wikilink")) 유통을 카도카와 게임즈가 담당하며, vx보다 비교적 나은 전투밸런스를 조정할 수 있다. (VX Ace의 체험판 격인 VX Ace라이트 버전이 스팀에 무료로 풀려있다. 그런데 이벤트 내 스크립트 사용 제한과 이벤트 개수의 한계가 10개이다.)
+  - RPG 만들기 MV ([2015년](../Page/2015년.md "wikilink") [10월](../Page/10월.md "wikilink"))
 
 ## MV의 장점
 
@@ -91,7 +91,7 @@ Movies폴더 내부에 확장자가 WebM, MP4, OGV인 영상이 있어야 작동
 ## 외부 링크
 
   - [쓰쿠르 Web](https://web.archive.org/web/20110624000425/http://tkool.jp/) - RPG 만들기 시리즈의 공식 [웹 사이트](https://ko.wikipedia.org/wiki/웹_사이트 "wikilink")
-  - [니오팅](https://web.archive.org/web/20121025165100/http://nioting.com/) - RPG 만들기 시리즈 관련 게임 공유 및 게임 제작 정보를 취급하는 한국 커뮤니티 [웹사이트](https://ko.wikipedia.org/wiki/웹사이트 "wikilink").
+  - [니오팅](https://web.archive.org/web/20121025165100/http://nioting.com/) - RPG 만들기 시리즈 관련 게임 공유 및 게임 제작 정보를 취급하는 한국 커뮤니티 [웹사이트](../Page/웹사이트.md "wikilink").
   - [디벨러](http://cafe.naver.com/tubito) - 다양한 플랫폼의 게임 개발 및 RPG 만들기 시리즈의 게임 공유 및 게임 개발 정보를 취급하는 한국 카페.
   - [써니소프트](http://cafe.naver.com/sonnysoft2004) - RPG 만들기 시리즈 관련 게임 공유 및 게임 제작 정보를 취급하는 번역을 주로 전담하는 카페 [웹 사이트](https://ko.wikipedia.org/wiki/웹_사이트 "wikilink").
   - [아방스](https://avangs.info/) - 거의 쯔꾸르 게임만 올라오는 인디게임 저장소.

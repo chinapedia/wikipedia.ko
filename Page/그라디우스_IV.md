@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ IV](https://ko.wikipedia.org/wiki/_IV).
 
 
-《**그라디우스 IV**》(Gradius IV)는 일본 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")사의 [횡스크롤 슈팅 게임으로](https://ko.wikipedia.org/wiki/횡스크롤_슈팅_게임 "wikilink"), [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 [그라디우스 II의](https://ko.wikipedia.org/wiki/그라디우스_II "wikilink") 외전 형식으로 제작되었다. 부제는 ‘부활’이다.
+《**그라디우스 IV**》(Gradius IV)는 일본 [코나미](../Page/코나미.md "wikilink")사의 [횡스크롤 슈팅 게임으로](https://ko.wikipedia.org/wiki/횡스크롤_슈팅_게임 "wikilink"), [1999년](../Page/1999년.md "wikilink")에 [그라디우스 II의](https://ko.wikipedia.org/wiki/그라디우스_II "wikilink") 외전 형식으로 제작되었다. 부제는 ‘부활’이다.
 
 ## 줄거리
 
@@ -89,7 +89,7 @@ F. Field</small></p></td>
 </table>
 
   - Vertical Mine : Spread Bomb과 비슷한 속성을 가진 미사일로, 본체의 이동에 따라 궤도가 바뀐다.
-  - Flying Torpedo : 발사체의 위아래로 두 개의 미사일이 수평으로 나간다. 특이한 점은, 미사일 발사 버튼을 누르는 시간이 길면 그에 비례해서 양 미사일의 고저차가 벌어진다는 점이다. 마치 [그라디우스 III의](https://ko.wikipedia.org/wiki/그라디우스_III "wikilink") Energy Laser와 유사한 방식의 컨트롤이다.
+  - Flying Torpedo : 발사체의 위아래로 두 개의 미사일이 수평으로 나간다. 특이한 점은, 미사일 발사 버튼을 누르는 시간이 길면 그에 비례해서 양 미사일의 고저차가 벌어진다는 점이다. 마치 [그라디우스 III의](../Page/그라디우스_III.md "wikilink") Energy Laser와 유사한 방식의 컨트롤이다.
   - Armor Piercer : Laser와 비슷한 속성을 가진 포탄으로, 관통력이 좋다.
 
 그 이외의 무기는 전작과 같다.
@@ -101,8 +101,8 @@ F. Field</small></p></td>
   - 스테이지 1 : 액체금속
   - 스테이지 2 : 식물
   - 스테이지 3 : 물방울
-  - 스테이지 4 : [화산](https://ko.wikipedia.org/wiki/화산 "wikilink") + [용암](../Page/용암.md "wikilink")
-  - 스테이지 5 : [모아이](https://ko.wikipedia.org/wiki/모아이 "wikilink")
+  - 스테이지 4 : [화산](../Page/화산.md "wikilink") + [용암](../Page/용암.md "wikilink")
+  - 스테이지 5 : [모아이](../Page/모아이.md "wikilink")
   - 스테이지 6 : 생명체
   - 스테이지 7 : 고속기지
   - 스테이지 8 : 우주공간 (보스러쉬)

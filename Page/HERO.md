@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [HERO](https://ko.wikipedia.org/wiki/HERO).
 
 
-《**HERO**》(히어로)는, [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") [계열에서](https://ko.wikipedia.org/wiki/후지_네트워크 "wikilink") 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink").
+《**HERO**》(히어로)는, [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink") 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink").
 
-[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 〈[게츠9](https://ko.wikipedia.org/wiki/후지_TV_월요일_밤_9시_드라마 "wikilink")〉 시간대에 방송된 후, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 단발 드라마가 방송되어, 영화화도 되었다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 속편이 〈게츠9〉 시간대에서 방송되어, 영화화도 되었다.
+[2001년](../Page/2001년.md "wikilink")에 〈[게츠9](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink")〉 시간대에 방송된 후, [2006년](../Page/2006년.md "wikilink")에 단발 드라마가 방송되어, 영화화도 되었다. [2014년](../Page/2014년.md "wikilink")에 속편이 〈게츠9〉 시간대에서 방송되어, 영화화도 되었다.
 
 ## 개요
 
-[키무라 타쿠야가](../Page/기무라_타쿠야.md "wikilink") 연기하는 파격적이고 정의감이 강한 검사와, [마츠 타카코가](../Page/마츠_타카코.md "wikilink") 연기하는 고지식하지만 어딘가 얼빠진 사무관의 콤비 수사 활동과, 동료 검사들이 일으키는 코미디를 그린다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [1월 8일부터](https://ko.wikipedia.org/wiki/1월_8일 "wikilink") [3월 19일까지](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") 방송되어, 평균 시청률 36.8% (칸토 지구·비디오 리서치 조사)라는 높은 시청률을 기록했다.
+[키무라 타쿠야가](../Page/기무라_타쿠야.md "wikilink") 연기하는 파격적이고 정의감이 강한 검사와, [마츠 타카코가](../Page/마츠_타카코.md "wikilink") 연기하는 고지식하지만 어딘가 얼빠진 사무관의 콤비 수사 활동과, 동료 검사들이 일으키는 코미디를 그린다. [2001년](../Page/2001년.md "wikilink") [1월 8일부터](../Page/1월_8일.md "wikilink") [3월 19일까지](../Page/3월_19일.md "wikilink") 방송되어, 평균 시청률 36.8% (칸토 지구·비디오 리서치 조사)라는 높은 시청률을 기록했다.
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") (월요일 21:00 \~ 23:18)에는, 종료 후 5년 만에 특별편이 방송되었다. 하이비전 제작. 또 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 8일의](https://ko.wikipedia.org/wiki/9월_8일 "wikilink") 영화판 개봉에 맞춰, [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") \~ [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에 걸쳐 〈채널α〉 시간대에서 본편의 재방송이 (참고로, 본편의 재재방송이 2007년 10월 15일부터 〈채널α〉 시간대에서 행해진다, 그 외의 후지 TV 계열국에서도 차례차례 재재방송이 개시된다), [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") (일요일 21:00 \~ 23:29)에는 드라마 레전드 스페셜에서 이 특별편의 완전판(편집에 의해 영상 추가)이 방송되었다. 영화판에 대해서는 《[HERO (2007년 영화)](https://ko.wikipedia.org/wiki/HERO_\(2007년_영화\) "wikilink")》를 참조.
+[2006년](../Page/2006년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") (월요일 21:00 \~ 23:18)에는, 종료 후 5년 만에 특별편이 방송되었다. 하이비전 제작. 또 [2007년](../Page/2007년.md "wikilink") [9월 8일의](../Page/9월_8일.md "wikilink") 영화판 개봉에 맞춰, [8월](../Page/8월.md "wikilink") \~ [9월](../Page/9월.md "wikilink")에 걸쳐 〈채널α〉 시간대에서 본편의 재방송이 (참고로, 본편의 재재방송이 2007년 10월 15일부터 〈채널α〉 시간대에서 행해진다, 그 외의 후지 TV 계열국에서도 차례차례 재재방송이 개시된다), [9월 23일](../Page/9월_23일.md "wikilink") (일요일 21:00 \~ 23:29)에는 드라마 레전드 스페셜에서 이 특별편의 완전판(편집에 의해 영상 추가)이 방송되었다. 영화판에 대해서는 《[HERO (2007년 영화)](../Page/HERO_\(2007년_영화\).md "wikilink")》를 참조.
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 14일부터](https://ko.wikipedia.org/wiki/7월_14일 "wikilink") [9월 22일까지](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") 〈속편〉으로 13년 만에 연속 드라마가 제작되었다\[1\]. 속편은 후지 TV 개국 55주년 기념 프로그램으로서 제작.
+[2014년](../Page/2014년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") [9월 22일까지](../Page/9월_22일.md "wikilink") 〈속편〉으로 13년 만에 연속 드라마가 제작되었다\[1\]. 속편은 후지 TV 개국 55주년 기념 프로그램으로서 제작.
 
 ORICON STYLE에 의한 14년 7월기 연속 드라마 만족도 랭킹에서 만족도 63%를 획득해 1위가 되었다\[2\].
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink"), 영화화 작품이 개봉되었다. 제2기의 캐스트에 더해, 제1기에서 여주인공을 맡았던 마츠 타카코가 아마미야 마이코 역으로 출연했다. 게스트 출연으로 [사토 코이치를](https://ko.wikipedia.org/wiki/사토_코이치 "wikilink") 맞이했다\[3\]. 영화판에 대해서는 《[HERO (2015년 영화)](https://ko.wikipedia.org/wiki/HERO_\(2015년_영화\) "wikilink")》를 참조.
+[2015년](../Page/2015년.md "wikilink") [7월 18일](../Page/7월_18일.md "wikilink"), 영화화 작품이 개봉되었다. 제2기의 캐스트에 더해, 제1기에서 여주인공을 맡았던 마츠 타카코가 아마미야 마이코 역으로 출연했다. 게스트 출연으로 [사토 코이치를](https://ko.wikipedia.org/wiki/사토_코이치 "wikilink") 맞이했다\[3\]. 영화판에 대해서는 《[HERO (2015년 영화)](https://ko.wikipedia.org/wiki/HERO_\(2015년_영화\) "wikilink")》를 참조.
 
 ## 제1기
 
@@ -34,17 +34,17 @@ ORICON STYLE에 의한 14년 7월기 연속 드라마 만족도 랭킹에서 만
 
   - 나카무라 미스즈 (30) - 오오츠카 네네
     검사.
-  - 시바야마 미츠쿠 (36) - [아베 히로시](https://ko.wikipedia.org/wiki/아베_히로시 "wikilink")
+  - 시바야마 미츠쿠 (36) - [아베 히로시](../Page/아베_히로시.md "wikilink")
     주임 검사.
   - 엔도 켄지 (25) - 야시마 노리토
     사무관.
-  - 에가미 타츠오 (32) - [카츠무라 마사노부](https://ko.wikipedia.org/wiki/카츠무라_마사노부 "wikilink")
+  - 에가미 타츠오 (32) - [카츠무라 마사노부](../Page/카츠무라_마사노부.md "wikilink")
     검사.
-  - 스에츠구 타카유키 (40) - [코히나타 후미요](https://ko.wikipedia.org/wiki/코히나타_후미요 "wikilink")
+  - 스에츠구 타카유키 (40) - [코히나타 후미요](../Page/코히나타_후미요.md "wikilink")
     사무관.
   - 우시마루 타노조 (50) - 카도노 타쿠조
     죠사이 지부 검사 부장.
-  - 나베시마 토시미츠 (61) - [코다마 키요시](https://ko.wikipedia.org/wiki/코다마_키요시 "wikilink")
+  - 나베시마 토시미츠 (61) - [코다마 키요시](../Page/코다마_키요시.md "wikilink")
     도쿄 지검의 차석 검사.
 
 #### 그 외
@@ -69,45 +69,45 @@ ORICON STYLE에 의한 14년 7월기 연속 드라마 만족도 랭킹에서 만
   - 편성 - 오사베 소스케
   - 편집 - 타구치 타쿠야
   - 제작 협력 - 바스크, 시부야 비디오 스튜디오
-  - 제작 - [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink")
+  - 제작 - [후지 TV](../Page/후지_TV.md "wikilink")
 
 ### 주제가
 
-  - [우타다 히카루](https://ko.wikipedia.org/wiki/우타다_히카루 "wikilink") 〈Can You Keep A Secret?〉
+  - [우타다 히카루](../Page/우타다_히카루.md "wikilink") 〈Can You Keep A Secret?〉
 
 ### 방송 일자
 
-| 각 화                                                                                  | 방송일                                 | 부제                                  | 각본       | 연출                              | 시청률                            |
-| ------------------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------- | -------- | ------------------------------- | ------------------------------ |
-| 칸토                                                                                   | 칸사이                                 |                                     |          |                                 |                                |
-| 제1화                                                                                  | 2001년 1월 8일                         | 최악의 만남                              | 오오타케 마나부 | 스즈키 마사유키                        | 33.4%                          |
-| 제2화                                                                                  | 2001년 1월 15일                        | 돌아가지 못하는 두 사람                       | 후쿠다 야스시  | 32.7%                           | 24.6%                          |
-| 제3화                                                                                  | 2001년 1월 22일                        | 사랑이라고 하는 이름의 범죄                     | 히라노 신    | 30.8%                           | 21.7%                          |
-| 제4화                                                                                  | 2001년 1월 29일                        | 그에게 배운 것                            | 스즈키 마사유키 | <span style="color:blue;">30.7% | 24.2%                          |
-| 제5화                                                                                  | 2001년 2월 5일                         | 둘만의 밤                               | 하타 타케히코  | 히라노 신                           | 34.9%                          |
-| 제6화                                                                                  | 2001년 2월 12일                        | 그녀의 가장 소중한 것                        | 후쿠다 야스시  | 사와다 켄사쿠                         | 36.1%                          |
-| 제7화                                                                                  | 2001년 2월 19일                        | 널 만나서 다행이야                          | 스즈키 마사유키 | 34.5%                           | 22.1%                          |
-| 제8화                                                                                  | 2001년 2월 26일                        | 과거를 아는 여자                           | 타나베 미츠루  | 카몬 이쿠오                          | <span style="color:red;">36.8% |
-| 제9화                                                                                  | 2001년 3월 5일                         | 내가 언제나 곁에 있어                        | 후쿠다 야스시  | 스즈키 마사유키                        | 34.4%                          |
-| 제10화                                                                                 | 2001년 3월 12일                        | 이별의 예감                              | 타나베 미츠루  | 사와다 켄사쿠                         | 35.1%                          |
-| 최종화                                                                                  | 2001년 3월 19일                        | 마지막 사건                              | 후쿠다 야스시  | 스즈키 마사유키                        | <span style="color:red;">36.8% |
-| 펑균 시청률                                                                               | <span style="color:green;">'''34.3% | <span style="color:green;">'''24.6% |          |                                 |                                |
-| (시청률은 칸토 지구, 칸사이 지구 [비디오 리서치사](https://ko.wikipedia.org/wiki/비디오_리서치 "wikilink") 조사) |                                     |                                     |          |                                 |                                |
+| 각 화                                                               | 방송일                                 | 부제                                  | 각본       | 연출                              | 시청률                            |
+| ----------------------------------------------------------------- | ----------------------------------- | ----------------------------------- | -------- | ------------------------------- | ------------------------------ |
+| 칸토                                                                | 칸사이                                 |                                     |          |                                 |                                |
+| 제1화                                                               | 2001년 1월 8일                         | 최악의 만남                              | 오오타케 마나부 | 스즈키 마사유키                        | 33.4%                          |
+| 제2화                                                               | 2001년 1월 15일                        | 돌아가지 못하는 두 사람                       | 후쿠다 야스시  | 32.7%                           | 24.6%                          |
+| 제3화                                                               | 2001년 1월 22일                        | 사랑이라고 하는 이름의 범죄                     | 히라노 신    | 30.8%                           | 21.7%                          |
+| 제4화                                                               | 2001년 1월 29일                        | 그에게 배운 것                            | 스즈키 마사유키 | <span style="color:blue;">30.7% | 24.2%                          |
+| 제5화                                                               | 2001년 2월 5일                         | 둘만의 밤                               | 하타 타케히코  | 히라노 신                           | 34.9%                          |
+| 제6화                                                               | 2001년 2월 12일                        | 그녀의 가장 소중한 것                        | 후쿠다 야스시  | 사와다 켄사쿠                         | 36.1%                          |
+| 제7화                                                               | 2001년 2월 19일                        | 널 만나서 다행이야                          | 스즈키 마사유키 | 34.5%                           | 22.1%                          |
+| 제8화                                                               | 2001년 2월 26일                        | 과거를 아는 여자                           | 타나베 미츠루  | 카몬 이쿠오                          | <span style="color:red;">36.8% |
+| 제9화                                                               | 2001년 3월 5일                         | 내가 언제나 곁에 있어                        | 후쿠다 야스시  | 스즈키 마사유키                        | 34.4%                          |
+| 제10화                                                              | 2001년 3월 12일                        | 이별의 예감                              | 타나베 미츠루  | 사와다 켄사쿠                         | 35.1%                          |
+| 최종화                                                               | 2001년 3월 19일                        | 마지막 사건                              | 후쿠다 야스시  | 스즈키 마사유키                        | <span style="color:red;">36.8% |
+| 펑균 시청률                                                            | <span style="color:green;">'''34.3% | <span style="color:green;">'''24.6% |          |                                 |                                |
+| (시청률은 칸토 지구, 칸사이 지구 [비디오 리서치사](../Page/비디오_리서치.md "wikilink") 조사) |                                     |                                     |          |                                 |                                |
 
   - 제1화는 15분 확대 (21:00 \~ 22:09).
   - 최종화는 25분 확대 (21:00 \~ 22:19).
 
 ## 특별편
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 3일에](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") 단발 드라마로 5년 만에 부활했다.
+[2006년](../Page/2006년.md "wikilink") [7월 3일에](../Page/7월_3일.md "wikilink") 단발 드라마로 5년 만에 부활했다.
 
 ### 등장인물
 
   - 쿠리우 코헤이 - [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")
 
-  - 츠가루 타모츠 - [츠츠미 신이치](https://ko.wikipedia.org/wiki/츠츠미_신이치 "wikilink")
+  - 츠가루 타모츠 - [츠츠미 신이치](../Page/츠츠미_신이치.md "wikilink")
 
-  - 이즈미야 리리코 - [아야세 하루카](https://ko.wikipedia.org/wiki/아야세_하루카 "wikilink")
+  - 이즈미야 리리코 - [아야세 하루카](../Page/아야세_하루카.md "wikilink")
 
   - 코모리 타쿠로 - 벤가루
 
@@ -119,7 +119,7 @@ ORICON STYLE에 의한 14년 7월기 연속 드라마 만족도 랭킹에서 만
 
   - 오오야부 마사히로 - 이시바시 렌지
 
-  - 타츠미 에리코 - [이이지마 나오코](https://ko.wikipedia.org/wiki/이이지마_나오코 "wikilink")
+  - 타츠미 에리코 - [이이지마 나오코](../Page/이이지마_나오코.md "wikilink")
 
   - 야지마 - 무사카 나오마사
 
@@ -133,29 +133,29 @@ ORICON STYLE에 의한 14년 7월기 연속 드라마 만족도 랭킹에서 만
 
   - 실화 파라다이스의 관계자 - 오오타카 히로오
 
-  - 니와토리 도로보 - [사토 지로](https://ko.wikipedia.org/wiki/사토_지로 "wikilink")
+  - 니와토리 도로보 - [사토 지로](../Page/사토_지로.md "wikilink")
 
-  - 니시야마 고이치 - [시오미 산세이](https://ko.wikipedia.org/wiki/시오미_산세이 "wikilink")
+  - 니시야마 고이치 - [시오미 산세이](../Page/시오미_산세이.md "wikilink")
 
   - 후루코시 히로코 - 테즈카 사토미
 
-  - 타키타 아키히코 - [나카이 키이치](https://ko.wikipedia.org/wiki/나카이_키이치 "wikilink")
+  - 타키타 아키히코 - [나카이 키이치](../Page/나카이_키이치.md "wikilink")
 
   - 아마미야 마이코 - [마츠 타카코](../Page/마츠_타카코.md "wikilink")
 
   - 나카무라 미스즈 - 오오츠카 네네
 
-  - 시바야마 미츠쿠 - [아베 히로시](https://ko.wikipedia.org/wiki/아베_히로시 "wikilink")
+  - 시바야마 미츠쿠 - [아베 히로시](../Page/아베_히로시.md "wikilink")
 
-  - 에가미 타츠오 - [카츠무라 마사노부](https://ko.wikipedia.org/wiki/카츠무라_마사노부 "wikilink")
+  - 에가미 타츠오 - [카츠무라 마사노부](../Page/카츠무라_마사노부.md "wikilink")
 
-  - 스에츠구 타카유키 - [코히나타 후미요](https://ko.wikipedia.org/wiki/코히나타_후미요 "wikilink")
+  - 스에츠구 타카유키 - [코히나타 후미요](../Page/코히나타_후미요.md "wikilink")
 
   - 엔도 켄지 - 야시마 노리토
 
   - 우시마루 유타카 - 카도노 타쿠조
 
-  - 나베시마 토시미츠 - [코다마 키요시](https://ko.wikipedia.org/wiki/코다마_키요시 "wikilink")
+  - 나베시마 토시미츠 - [코다마 키요시](../Page/코다마_키요시.md "wikilink")
 
   - 이도 슈지 - 마사나 보쿠조
 
@@ -193,7 +193,7 @@ ORICON STYLE에 의한 14년 7월기 연속 드라마 만족도 랭킹에서 만
 
 #### 도쿄 지방 검찰청 죠사이 지부
 
-  - 카와지리 켄자부로 (55) - [마츠시게 유타카](https://ko.wikipedia.org/wiki/마츠시게_유타카 "wikilink")
+  - 카와지리 켄자부로 (55) - [마츠시게 유타카](../Page/마츠시게_유타카.md "wikilink")
     부장 검사.
   - 타무라 마사시 (44) - 스기모토 텟타
     검사.
@@ -201,7 +201,7 @@ ORICON STYLE에 의한 14년 7월기 연속 드라마 만족도 랭킹에서 만
     사무관.
   - 우노 다이스케 (31) - 하마다 가쿠
     검사.
-  - 스에츠구 타카유키 (53) - [코히나타 후미요](https://ko.wikipedia.org/wiki/코히나타_후미요 "wikilink")
+  - 스에츠구 타카유키 (53) - [코히나타 후미요](../Page/코히나타_후미요.md "wikilink")
     사무관.
   - 바바 레이코 (42) - 요시다 요
     검사.
@@ -321,7 +321,7 @@ ORICON STYLE에 의한 14년 7월기 연속 드라마 만족도 랭킹에서 만
 <td><p>22.9%</p></td>
 </tr>
 <tr class="even">
-<td><p>평균 시청률 21.3% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>평균 시청률 21.3% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -339,7 +339,7 @@ ORICON STYLE에 의한 14년 7월기 연속 드라마 만족도 랭킹에서 만
 **제1기**
 
   - 제38회 갤럭시 선장
-  - 제26회 [엘란도르상](https://ko.wikipedia.org/wiki/엘란도르상 "wikilink") (작품 부문, 프로듀서 부문)
+  - 제26회 [엘란도르상](../Page/엘란도르상.md "wikilink") (작품 부문, 프로듀서 부문)
   - TV LIFE (각켄) 드라마 대상
   - 제28회 더 텔레비전 드라마 아카데미상 (최우수 작품상, 주연 남우상, 주제가상, 베스트 드레서상, 감독상, 캐스팅상)
   - 제4회 닛칸 스포츠 드라마 그랑프리 주연 남우상

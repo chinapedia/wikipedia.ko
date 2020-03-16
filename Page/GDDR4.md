@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GDDR4](https://ko.wikipedia.org/wiki/GDDR4).
 
 
-**GDDR4**, **그래픽스 더블 데이터 레이트 4**(Graphics Double Data Rate 4, Graphics Double Data Rate version 4) **SDRAM**은 그래픽 카드에 쓰이는 [DRAM](https://ko.wikipedia.org/wiki/DRAM "wikilink")의 일종이다. 반도체 메모리 표준 단체인 [JEDEC](https://ko.wikipedia.org/wiki/JEDEC "wikilink")이 스펙을 정의하였다. GDDR4의 주요 경쟁 상대는 [램버스](https://ko.wikipedia.org/wiki/램버스 "wikilink")의 [XDR DRAM으로](https://ko.wikipedia.org/wiki/XDR_DRAM "wikilink") 간주된다. GDDR4는 [GDDR3](../Page/GDDR3.md "wikilink")의 후속 버전이다. GDDR3 및 GDDR4 모두 [JEDEC](https://ko.wikipedia.org/wiki/JEDEC "wikilink")의 [DDR3 SDRAM과는](https://ko.wikipedia.org/wiki/DDR3_SDRAM "wikilink") 관련이 없다.
+**GDDR4**, **그래픽스 더블 데이터 레이트 4**(Graphics Double Data Rate 4, Graphics Double Data Rate version 4) **SDRAM**은 그래픽 카드에 쓰이는 [DRAM](https://ko.wikipedia.org/wiki/DRAM "wikilink")의 일종이다. 반도체 메모리 표준 단체인 [JEDEC](https://ko.wikipedia.org/wiki/JEDEC "wikilink")이 스펙을 정의하였다. GDDR4의 주요 경쟁 상대는 [램버스](https://ko.wikipedia.org/wiki/램버스 "wikilink")의 [XDR DRAM으로](../Page/XDR_DRAM.md "wikilink") 간주된다. GDDR4는 [GDDR3](../Page/GDDR3.md "wikilink")의 후속 버전이다. GDDR3 및 GDDR4 모두 [JEDEC](https://ko.wikipedia.org/wiki/JEDEC "wikilink")의 [DDR3 SDRAM과는](../Page/DDR3_SDRAM.md "wikilink") 관련이 없다.
 
 ## 역사
 

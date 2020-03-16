@@ -1,27 +1,27 @@
 > This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
 
 
-**히로시마 홈TV**는 [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 히로시마현의 3번째 민영방송국으로 개국했다.
+**히로시마 홈TV**는 [1970년](../Page/1970년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 히로시마현의 3번째 민영방송국으로 개국했다.
 
 약칭은 HOME, 콜사인은 JOGM-DTV이다.
 
 ## 연혁
 
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 개국. 민방 텔레비전 방송국 개국은 히로시마현에서 3번째.
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") [ANN](https://ko.wikipedia.org/wiki/올_닛폰_뉴스_네트워크 "wikilink")(All-nippon News Network) 발족·가맹.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") [TV 신히로시마](https://ko.wikipedia.org/wiki/TV_신히로시마 "wikilink")(TSS) 개국에 따라 개국 당시부터 방송하고 있던 일부 [후지 TV계열](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 프로그램이 TSS로 이행하게 되어 일부 [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")계열 프로그램이 TSS의 개국에 의해 후지TV 제작 프로그램의 이행을 끝마친 [히로시마 TV 방송](https://ko.wikipedia.org/wiki/히로시마_TV_방송 "wikilink")(HTV)으로 이행한다. 여기서 적지만 [주고쿠 방송](https://ko.wikipedia.org/wiki/주고쿠_방송 "wikilink")(RCC)에서 방송되고 있던 NET-TV계 프로그램이 RCC에서 반환되었고 이를 통해 NET-TV계(ANN)완전가맹국화를 완료한다. ([민간방송 교육협회제작](https://ko.wikipedia.org/wiki/민간방송_교육협회 "wikilink") 프로그램은 계속해서 RCC가 방송하게된다).
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [11월 14일](https://ko.wikipedia.org/wiki/11월_14일 "wikilink") 음성다중방송 개시.
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 약칭을 **UHT**에서 **HOME**으로 변경.
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink") 대한민국 대구경북권 지역 민방인 [TBC](https://ko.wikipedia.org/wiki/TBC "wikilink") 대구방송 업무 제휴
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 지상파 디지털 텔레비전 방송 개시.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 지상파 아날로그 텔레비전 방송 완전 종료.
+  - [1970년](../Page/1970년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국. 민방 텔레비전 방송국 개국은 히로시마현에서 3번째.
+  - [1974년](../Page/1974년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [ANN](../Page/올_닛폰_뉴스_네트워크.md "wikilink")(All-nippon News Network) 발족·가맹.
+  - [1975년](../Page/1975년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") [TV 신히로시마](../Page/TV_신히로시마.md "wikilink")(TSS) 개국에 따라 개국 당시부터 방송하고 있던 일부 [후지 TV계열](../Page/후지_TV.md "wikilink") 프로그램이 TSS로 이행하게 되어 일부 [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")계열 프로그램이 TSS의 개국에 의해 후지TV 제작 프로그램의 이행을 끝마친 [히로시마 TV 방송](../Page/히로시마_TV_방송.md "wikilink")(HTV)으로 이행한다. 여기서 적지만 [주고쿠 방송](../Page/주고쿠_방송.md "wikilink")(RCC)에서 방송되고 있던 NET-TV계 프로그램이 RCC에서 반환되었고 이를 통해 NET-TV계(ANN)완전가맹국화를 완료한다. ([민간방송 교육협회제작](../Page/민간방송_교육협회.md "wikilink") 프로그램은 계속해서 RCC가 방송하게된다).
+  - [1985년](../Page/1985년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") 음성다중방송 개시.
+  - [1986년](../Page/1986년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 약칭을 **UHT**에서 **HOME**으로 변경.
+  - [1997년](../Page/1997년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") 대한민국 대구경북권 지역 민방인 [TBC](https://ko.wikipedia.org/wiki/TBC "wikilink") 대구방송 업무 제휴
+  - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 지상파 디지털 텔레비전 방송 개시.
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 지상파 아날로그 텔레비전 방송 완전 종료.
 
 ## 네트워크의 변천
 
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") [NET-TV계열국으로서](../Page/TV_아사히.md "wikilink") 개국. [ANN발족](https://ko.wikipedia.org/wiki/올_닛폰_뉴스_네트워크 "wikilink") 후 첫 번째로 개국한 방송국이기도 하다.개국 당시의 네트워크 준 중심방송국은 [마이니치 방송](../Page/마이니치_방송.md "wikilink").
-      - 개국시[주고쿠 방송에서](https://ko.wikipedia.org/wiki/주고쿠_방송 "wikilink") 대부분의 프로그램이 이행 된다. (※나머지는[히로시마 TV 방송에서](https://ko.wikipedia.org/wiki/히로시마_TV_방송 "wikilink") 이행) 그리고 히로시마 TV 방송에서 방송되지 못한 [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")·[후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 프로그램도 방송하기 시작했다.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 간사이지역 준 중심방송국 네트워크 교환에 의해 네트워크 준 중심방송국을 [마이니치 방송에서](../Page/마이니치_방송.md "wikilink") [아사히 방송으로](../Page/아사히_방송.md "wikilink") 변경하면서 주고쿠 방송과 간사이지역 방송국 제작 네트워크 프로그램을 교환.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") [TV 신히로시마](https://ko.wikipedia.org/wiki/TV_신히로시마 "wikilink") 개국에 의해 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 프로그램이 TSS에, [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink") 프로그램이 히로시마 TV 방송에 이행 되면서 중단되는 동시에 [주고쿠방송](https://ko.wikipedia.org/wiki/주고쿠방송 "wikilink")에서 [민간방송 교육협회제작분을](https://ko.wikipedia.org/wiki/민간방송_교육협회 "wikilink") 제외한 이행되지 않았던 프로그램들이 이행되어 [NET-TV→텔레비 아사히계열](../Page/TV_아사히.md "wikilink") 완전가맹국화 완료. (다만,[1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")경까지 일부 TV 아사히계열 프로그램을 주고쿠 방송에서 프로그램 판매형태로 계속 방송하고 있었기 때문에 완전히 이행된 것은[1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")경이다.)
+  - [1970년](../Page/1970년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [NET-TV계열국으로서](../Page/TV_아사히.md "wikilink") 개국. [ANN발족](../Page/올_닛폰_뉴스_네트워크.md "wikilink") 후 첫 번째로 개국한 방송국이기도 하다.개국 당시의 네트워크 준 중심방송국은 [마이니치 방송](../Page/마이니치_방송.md "wikilink").
+      - 개국시[주고쿠 방송에서](../Page/주고쿠_방송.md "wikilink") 대부분의 프로그램이 이행 된다. (※나머지는[히로시마 TV 방송에서](../Page/히로시마_TV_방송.md "wikilink") 이행) 그리고 히로시마 TV 방송에서 방송되지 못한 [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")·[후지 TV](../Page/후지_TV.md "wikilink") 프로그램도 방송하기 시작했다.
+  - [1975년](../Page/1975년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 간사이지역 준 중심방송국 네트워크 교환에 의해 네트워크 준 중심방송국을 [마이니치 방송에서](../Page/마이니치_방송.md "wikilink") [아사히 방송으로](../Page/아사히_방송.md "wikilink") 변경하면서 주고쿠 방송과 간사이지역 방송국 제작 네트워크 프로그램을 교환.
+  - [1975년](../Page/1975년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") [TV 신히로시마](../Page/TV_신히로시마.md "wikilink") 개국에 의해 [후지 TV](../Page/후지_TV.md "wikilink") 프로그램이 TSS에, [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink") 프로그램이 히로시마 TV 방송에 이행 되면서 중단되는 동시에 [주고쿠방송](https://ko.wikipedia.org/wiki/주고쿠방송 "wikilink")에서 [민간방송 교육협회제작분을](../Page/민간방송_교육협회.md "wikilink") 제외한 이행되지 않았던 프로그램들이 이행되어 [NET-TV→텔레비 아사히계열](../Page/TV_아사히.md "wikilink") 완전가맹국화 완료. (다만,[1979년](../Page/1979년.md "wikilink")경까지 일부 TV 아사히계열 프로그램을 주고쿠 방송에서 프로그램 판매형태로 계속 방송하고 있었기 때문에 완전히 이행된 것은[1980년](../Page/1980년.md "wikilink")경이다.)
 
 ### 신문 자본과 텔레비전 네트워크 관계
 
@@ -47,16 +47,16 @@ UHT=**NET·MBS→ABC**／NTV·YTV／CX·KTV
 
 ## 특징
 
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 약칭을 UHT에서 현재의 HOME로 바꾸었다.
-  - 개국 당시부터 오랫동안 인접지역에 NET-TV(현·TV 아사히) 계열국이 없었기 때문에 [야마구치현](https://ko.wikipedia.org/wiki/야마구치현 "wikilink")동부나 바다건너 [에히메현](https://ko.wikipedia.org/wiki/에히메현 "wikilink")에서 수신하고 있는 사람들도 있었다.
+  - [1986년](../Page/1986년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 약칭을 UHT에서 현재의 HOME로 바꾸었다.
+  - 개국 당시부터 오랫동안 인접지역에 NET-TV(현·TV 아사히) 계열국이 없었기 때문에 [야마구치현](../Page/야마구치현.md "wikilink")동부나 바다건너 [에히메현](../Page/에히메현.md "wikilink")에서 수신하고 있는 사람들도 있었다.
 
-## [히로시마현](https://ko.wikipedia.org/wiki/히로시마현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [히로시마현](../Page/히로시마현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
-  - [NHK 히로시마 방송국](https://ko.wikipedia.org/wiki/NHK_히로시마_방송국 "wikilink")
-  - [주고쿠 방송](https://ko.wikipedia.org/wiki/주고쿠_방송 "wikilink")(RCC)(TV는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열국, 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")&[NRN](../Page/NRN.md "wikilink")계열국)
-  - [히로시마 TV 방송](https://ko.wikipedia.org/wiki/히로시마_TV_방송 "wikilink")(HTV)([니혼 TV](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 계열)
-  - [TV 신히로시마](https://ko.wikipedia.org/wiki/TV_신히로시마 "wikilink")(tss)([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열)
-  - [히로시마 FM방송](https://ko.wikipedia.org/wiki/히로시마_FM방송 "wikilink")([JFN](https://ko.wikipedia.org/wiki/JFN "wikilink") 계열)
+  - [NHK 히로시마 방송국](../Page/NHK_히로시마_방송국.md "wikilink")
+  - [주고쿠 방송](../Page/주고쿠_방송.md "wikilink")(RCC)(TV는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열국, 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")&[NRN](../Page/NRN.md "wikilink")계열국)
+  - [히로시마 TV 방송](../Page/히로시마_TV_방송.md "wikilink")(HTV)([니혼 TV](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 계열)
+  - [TV 신히로시마](../Page/TV_신히로시마.md "wikilink")(tss)([후지 TV](../Page/후지_TV.md "wikilink") 계열)
+  - [히로시마 FM방송](https://ko.wikipedia.org/wiki/히로시마_FM방송 "wikilink")([JFN](../Page/JFN.md "wikilink") 계열)
 
 ## 외부 링크
 

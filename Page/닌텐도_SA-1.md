@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SA-1](https://ko.wikipedia.org/wiki/_SA-1).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:SA1_01.jpg "wikilink") **닌텐도 SA-1**(Super Accelerator 1)은 [슈퍼 패미컴의](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink") 고사양 게임 구동을 위해 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")에서 개발한 [CPU다](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink").
+[thumb](https://ko.wikipedia.org/wiki/파일:SA1_01.jpg "wikilink") **닌텐도 SA-1**(Super Accelerator 1)은 [슈퍼 패미컴의](../Page/슈퍼_패미컴.md "wikilink") 고사양 게임 구동을 위해 [닌텐도](../Page/닌텐도.md "wikilink")에서 개발한 [CPU다](../Page/중앙_처리_장치.md "wikilink").
 
 슈퍼 패미컴 CPU인 [리코 5A22와](https://ko.wikipedia.org/wiki/리코_5A22 "wikilink") 마찬가지로 [WDC 65816을](../Page/WDC_65816.md "wikilink") 기본으로 개발되었으며 게임 카트리지 안에 내장되어 사용된다. SA-1는 5A22과는 독립적으로 작동하며 인터럽트 사용이 가능하다.
 

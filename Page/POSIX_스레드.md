@@ -3,7 +3,7 @@
 
 **POSIX 스레드**(POSIX Threads, 약어: **PThread**)는 병렬적으로 작동하는 소프트웨어의 작성을 위해서 제공되는 표준 API다.
 
-Pthread는 모든 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") POSIX 시스템에서, 일반적으로 이용되는 라이브러리이다. 유닉스 계열 운영 체제라 하면 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"), [솔라리스](https://ko.wikipedia.org/wiki/솔라리스_\(운영_체제\) "wikilink") 등이 포함된다. Unix 시스템과는 다른 길을 걷고 있는 Windows 역시 여러가지 이유로 Pthread를 지원한다. 예를 들어 pthread-w32 를 이용하면 윈도 상에서도 Pthread API의 subset 함수를 이용할 수 있다. pthread-w32 는 [redhat.com](http://sources.redhat.com/pthreads-win32/) 에서 얻을 수 있다. (Pthread 에서 P는 항상 대문자로 쓰도록 약속되어 있다.)
+Pthread는 모든 [유닉스 계열](../Page/유닉스_계열.md "wikilink") POSIX 시스템에서, 일반적으로 이용되는 라이브러리이다. 유닉스 계열 운영 체제라 하면 [리눅스](../Page/리눅스.md "wikilink"), [솔라리스](../Page/솔라리스_\(운영_체제\).md "wikilink") 등이 포함된다. Unix 시스템과는 다른 길을 걷고 있는 Windows 역시 여러가지 이유로 Pthread를 지원한다. 예를 들어 pthread-w32 를 이용하면 윈도 상에서도 Pthread API의 subset 함수를 이용할 수 있다. pthread-w32 는 [redhat.com](http://sources.redhat.com/pthreads-win32/) 에서 얻을 수 있다. (Pthread 에서 P는 항상 대문자로 쓰도록 약속되어 있다.)
 
 ## 설명
 

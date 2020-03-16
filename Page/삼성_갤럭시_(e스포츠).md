@@ -1,56 +1,56 @@
 > This article is converted from Wikipedia: [  \(e\)](https://ko.wikipedia.org/wiki/__\(e\)).
 
 
-**삼성 갤럭시**(Samsung Galaxy)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이었다. 과거 [워크래프트 3](https://ko.wikipedia.org/wiki/워크래프트_3 "wikilink"), [피파](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink"), [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink"), [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink"), [리그 오브 레전드](https://ko.wikipedia.org/wiki/리그_오브_레전드 "wikilink") 종목을 운영하였었다.
+**삼성 갤럭시**(Samsung Galaxy)는 [대한민국](../Page/대한민국.md "wikilink")의 [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이었다. 과거 [워크래프트 3](https://ko.wikipedia.org/wiki/워크래프트_3 "wikilink"), [피파](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink"), [스타크래프트](../Page/스타크래프트.md "wikilink"), [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink"), [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink") 종목을 운영하였었다.
 
 ## 역사
 
-삼성 갤럭시는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [6월 9일](https://ko.wikipedia.org/wiki/6월_9일 "wikilink") **삼성전자 칸**이라는 이름으로 창단하였다. 팀 창단시에는 정수영 감독이 감독직을 수행했으나, 당시에는 프로리그 같은 팀단위 리그 개념이 전혀 없었던 시기였기 때문에 매니저의 인식이 강했다. 그 후 정수영 감독은 삼성전자와 결별하고 [2001년 4월부터](https://ko.wikipedia.org/wiki/2001년_4월 "wikilink") 팀 상황이 급격히 악화되어 감독이 없는 내부 직원의 관리 체제로 이 체제는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [7월 24일까지](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 이어진다.
+삼성 갤럭시는 [2000년](../Page/2000년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink") **삼성전자 칸**이라는 이름으로 창단하였다. 팀 창단시에는 정수영 감독이 감독직을 수행했으나, 당시에는 프로리그 같은 팀단위 리그 개념이 전혀 없었던 시기였기 때문에 매니저의 인식이 강했다. 그 후 정수영 감독은 삼성전자와 결별하고 [2001년 4월부터](https://ko.wikipedia.org/wiki/2001년_4월 "wikilink") 팀 상황이 급격히 악화되어 감독이 없는 내부 직원의 관리 체제로 이 체제는 [2003년](../Page/2003년.md "wikilink") [7월 24일까지](../Page/7월_24일.md "wikilink") 이어진다.
 
-강성욱 주임, 김선아 사원, 김태훈 사원, 허민구 사원이 약 2년간 순차적으로 실질적인 감독 겸 매니저 및 프런트의 역할을 수행했다. 그 후 [2003년 7월](../Page/2003년_7월.md "wikilink") 팀의 활성화와 더불어 감독과 프런트체제로 조직 개편과 더불어서 같은해 [7월 25일부터](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 최초의 [프로게이머](https://ko.wikipedia.org/wiki/프로게이머 "wikilink") 출신 감독이자 유일의 여성 감독인 [김가을](https://ko.wikipedia.org/wiki/김가을 "wikilink") 감독과 이주연 과장이 프런트를 맡아 진행했고 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")부터는 김가을 감독과 정상진 과장이, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")부터는 최윤상 감독(LOL), 오상택 코치(스타)와 허민구 과장이 프런트를 맡기도 했었다.
+강성욱 주임, 김선아 사원, 김태훈 사원, 허민구 사원이 약 2년간 순차적으로 실질적인 감독 겸 매니저 및 프런트의 역할을 수행했다. 그 후 [2003년 7월](../Page/2003년_7월.md "wikilink") 팀의 활성화와 더불어 감독과 프런트체제로 조직 개편과 더불어서 같은해 [7월 25일부터](../Page/7월_25일.md "wikilink") 최초의 [프로게이머](../Page/프로게이머.md "wikilink") 출신 감독이자 유일의 여성 감독인 [김가을](../Page/김가을.md "wikilink") 감독과 이주연 과장이 프런트를 맡아 진행했고 [2006년](../Page/2006년.md "wikilink")부터는 김가을 감독과 정상진 과장이, [2013년](../Page/2013년.md "wikilink")부터는 최윤상 감독(LOL), 오상택 코치(스타)와 허민구 과장이 프런트를 맡기도 했었다.
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [신한은행](https://ko.wikipedia.org/wiki/신한은행 "wikilink") 프로리그 전기리그와 2008년 신한은행 프로리그 에서 우승을 차지했다.
+[2007년](../Page/2007년.md "wikilink") [신한은행](../Page/신한은행.md "wikilink") 프로리그 전기리그와 2008년 신한은행 프로리그 에서 우승을 차지했다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 1일에는](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 인크루트 스타리그에서 [송병구](https://ko.wikipedia.org/wiki/송병구 "wikilink")가 우승, 창단 8년 5개월 이래 최초의 개인리그 우승자를 배출시켰다.
+[2008년](../Page/2008년.md "wikilink") [11월 1일에는](../Page/11월_1일.md "wikilink") 인크루트 스타리그에서 [송병구](../Page/송병구.md "wikilink")가 우승, 창단 8년 5개월 이래 최초의 개인리그 우승자를 배출시켰다.
 
-[신한은행 프로리그 10-11시즌에](https://ko.wikipedia.org/wiki/신한은행_프로리그_10-11 "wikilink") 들어선 삼성전자는 에이스 [송병구](https://ko.wikipedia.org/wiki/송병구 "wikilink")의 부활과, [박대호](https://ko.wikipedia.org/wiki/박대호 "wikilink"), [유준희](https://ko.wikipedia.org/wiki/유준희 "wikilink"), [김기현](https://ko.wikipedia.org/wiki/김기현 "wikilink"), [유병준](https://ko.wikipedia.org/wiki/유병준 "wikilink"), [임태규](https://ko.wikipedia.org/wiki/임태규 "wikilink")등 신인들의 활약으로 프로리그 성적을 상위권으로 기록한다.
+[신한은행 프로리그 10-11시즌에](https://ko.wikipedia.org/wiki/신한은행_프로리그_10-11 "wikilink") 들어선 삼성전자는 에이스 [송병구](../Page/송병구.md "wikilink")의 부활과, [박대호](../Page/박대호.md "wikilink"), [유준희](../Page/유준희.md "wikilink"), [김기현](https://ko.wikipedia.org/wiki/김기현 "wikilink"), [유병준](https://ko.wikipedia.org/wiki/유병준 "wikilink"), [임태규](../Page/임태규.md "wikilink")등 신인들의 활약으로 프로리그 성적을 상위권으로 기록한다.
 
-[2011년 11월](https://ko.wikipedia.org/wiki/2011년_11월 "wikilink") 해체된 3개의 게임단 공개 포스팅을 통해 [신노열](https://ko.wikipedia.org/wiki/신노열 "wikilink")을 영입하였고 이후 2차 협상을 통해 [이영한](https://ko.wikipedia.org/wiki/이영한 "wikilink")을 영입하였다. 또한 [화승 OZ에서](../Page/화승_OZ.md "wikilink") 코치직을 맡았던 [오상택](https://ko.wikipedia.org/wiki/오상택 "wikilink") 코치도 영입, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [변은종](https://ko.wikipedia.org/wiki/변은종 "wikilink"), [이창훈](https://ko.wikipedia.org/wiki/이창훈_\(프로게이머\) "wikilink"), [박성준을](https://ko.wikipedia.org/wiki/박성준_\(1984년\) "wikilink") 영입한 이래로 최대 전력 보강을 하였다.
+[2011년 11월](../Page/2011년_11월.md "wikilink") 해체된 3개의 게임단 공개 포스팅을 통해 [신노열](../Page/신노열.md "wikilink")을 영입하였고 이후 2차 협상을 통해 [이영한](../Page/이영한.md "wikilink")을 영입하였다. 또한 [화승 OZ에서](../Page/화승_OZ.md "wikilink") 코치직을 맡았던 [오상택](../Page/오상택.md "wikilink") 코치도 영입, [2005년](../Page/2005년.md "wikilink") [변은종](../Page/변은종.md "wikilink"), [이창훈](../Page/이창훈_\(프로게이머\).md "wikilink"), [박성준을](../Page/박성준_\(1984년\).md "wikilink") 영입한 이래로 최대 전력 보강을 하였다.
 
-[2012년 8월](https://ko.wikipedia.org/wiki/2012년_8월 "wikilink") [진에어 그린윙스를](https://ko.wikipedia.org/wiki/진에어_그린윙스 "wikilink") 상대로 승리하며, 4년 만에 정규시즌 우승과 결승진출을 확정지었으나 결승에서는 [CJ 엔투스에](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink") 패해서 준우승에 머물렀다.
+[2012년 8월](../Page/2012년_8월.md "wikilink") [진에어 그린윙스를](../Page/진에어_그린윙스.md "wikilink") 상대로 승리하며, 4년 만에 정규시즌 우승과 결승진출을 확정지었으나 결승에서는 [CJ 엔투스에](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink") 패해서 준우승에 머물렀다.
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") [MVP의](https://ko.wikipedia.org/wiki/MVP_\(e스포츠\) "wikilink") 리그 오브 레전드 팀인 MVP 오존과 MVP 블루를 인수, 팀 내 리그 오브 레전드 팀을 새로이 창단하며 팀명을 **삼성 갤럭시**로 변경하였다. 이후 오존 게이밍의 후원 종료로 인해 삼성 갤럭시 오존의 이름을 예전 이름인 화이트로 변경하였고 스타크래프트 II 종목은 '삼성 갤럭시 칸', 리그 오브 레전드 종목은 '삼성 갤럭시 블루', '삼성 갤럭시 화이트'의 2팀으로 활동했다. 2013년 이후 모기업의 체계적인 후원과 관리, 게이머 출신들로 구성된 사무국 등 타 프로게임단 대비 우수한 경쟁력으로 좋은 성적을 내고 있다.
+[2013년](../Page/2013년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") [MVP의](../Page/MVP_\(e스포츠\).md "wikilink") 리그 오브 레전드 팀인 MVP 오존과 MVP 블루를 인수, 팀 내 리그 오브 레전드 팀을 새로이 창단하며 팀명을 **삼성 갤럭시**로 변경하였다. 이후 오존 게이밍의 후원 종료로 인해 삼성 갤럭시 오존의 이름을 예전 이름인 화이트로 변경하였고 스타크래프트 II 종목은 '삼성 갤럭시 칸', 리그 오브 레전드 종목은 '삼성 갤럭시 블루', '삼성 갤럭시 화이트'의 2팀으로 활동했다. 2013년 이후 모기업의 체계적인 후원과 관리, 게이머 출신들로 구성된 사무국 등 타 프로게임단 대비 우수한 경쟁력으로 좋은 성적을 내고 있다.
 
-하지만 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink"), 리그 오브 레전드 월드 챔피언십이 끝난 후부터 몰아친 해외 러쉬로 인해 '삼성 갤럭시 화이트'와 '삼성 갤럭시 블루' 두 팀의 주전 10명과 대부분의 연습생, 코치 윤성영까지 모두 중국으로 이적했다. 그리고 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 아마추어 '큐배' 이성진, 'Mid Huni' 김지훈, 'Bell park' 박종원, 'errOr report' 서준철과 前 Prime 소속 'JetEnJin' 이진용, 前 SKT T1 K 소속 'Casper' 권지민을 영입한 로스터가 공개되며 삼성 갤럭시 [리그 오브 레전드](https://ko.wikipedia.org/wiki/리그_오브_레전드 "wikilink") 팀은 완전히 다른 팀이 되어버렸다.
+하지만 [2014년](../Page/2014년.md "wikilink") [10월](../Page/10월.md "wikilink"), 리그 오브 레전드 월드 챔피언십이 끝난 후부터 몰아친 해외 러쉬로 인해 '삼성 갤럭시 화이트'와 '삼성 갤럭시 블루' 두 팀의 주전 10명과 대부분의 연습생, 코치 윤성영까지 모두 중국으로 이적했다. 그리고 [2014년](../Page/2014년.md "wikilink") [11월](../Page/11월.md "wikilink") 아마추어 '큐배' 이성진, 'Mid Huni' 김지훈, 'Bell park' 박종원, 'errOr report' 서준철과 前 Prime 소속 'JetEnJin' 이진용, 前 SKT T1 K 소속 'Casper' 권지민을 영입한 로스터가 공개되며 삼성 갤럭시 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink") 팀은 완전히 다른 팀이 되어버렸다.
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") 리그 오브 레전드 챔피언스 서머 2015 개막과 동시에 'Kabum Shadow' 이민호, '루나어린이' 장경호를 영입했다.
+[2015년](../Page/2015년.md "wikilink") [5월](../Page/5월.md "wikilink") 리그 오브 레전드 챔피언스 서머 2015 개막과 동시에 'Kabum Shadow' 이민호, '루나어린이' 장경호를 영입했다.
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 스타크래프트 II 종목 팀 해체를 발표하였다.
+[2016년](../Page/2016년.md "wikilink") [10월](../Page/10월.md "wikilink") 스타크래프트 II 종목 팀 해체를 발표하였다.
 
 [리그 오브 레전드 월드 챔피언십 2017을](../Page/리그_오브_레전드_월드_챔피언십_2017.md "wikilink") 우승하였다.
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") 리그 오브 레전드 팀을 [Gen.G e스포츠에](../Page/Gen.G_e스포츠.md "wikilink") 매각하며 팀이 해체되었다.
+[2017년](../Page/2017년.md "wikilink") [12월](../Page/12월.md "wikilink") 리그 오브 레전드 팀을 [Gen.G e스포츠에](../Page/Gen.G_e스포츠.md "wikilink") 매각하며 팀이 해체되었다.
 
 ## 게임단 연혁
 
 #### 스타크래프트, 스타크래프트 II
 
   - [2000년 6월](https://ko.wikipedia.org/wiki/2000년_6월 "wikilink") 삼성 프로게임단 칸 창단
-  - [2005년 10월](https://ko.wikipedia.org/wiki/2005년_10월 "wikilink") **KTF bigi KOREA e-sports 2005 스타크래프트 부문 우승**
-  - [2006년 1월](https://ko.wikipedia.org/wiki/2006년_1월 "wikilink") SKY 프로리그 2005 후기리그 준우승
-  - [2006년 1월](https://ko.wikipedia.org/wiki/2006년_1월 "wikilink") SKY 프로리그 2005 그랜드파이널 4위
+  - [2005년 10월](../Page/2005년_10월.md "wikilink") **KTF bigi KOREA e-sports 2005 스타크래프트 부문 우승**
+  - [2006년 1월](../Page/2006년_1월.md "wikilink") SKY 프로리그 2005 후기리그 준우승
+  - [2006년 1월](../Page/2006년_1월.md "wikilink") SKY 프로리그 2005 그랜드파이널 4위
   - [2007년 6월](../Page/2007년_6월.md "wikilink") **신한은행 프로리그 2007 전기리그 우승**
   - [2008년 2월](../Page/2008년_2월.md "wikilink") 신한은행 프로리그 2007 통합챔피언전 준우승
   - [2008년 8월](../Page/2008년_8월.md "wikilink") **신한은행 프로리그 2008 우승**
   - [2008년 8월](../Page/2008년_8월.md "wikilink") 경남-STX컵 마스터즈 2008 4위
-  - [2009년 7월](https://ko.wikipedia.org/wiki/2009년_7월 "wikilink") 신한은행 프로리그 08-09 4위
-  - [2011년 7월](https://ko.wikipedia.org/wiki/2011년_7월 "wikilink") 신한은행 프로리그 10-11 6강
-  - [2012년 3월](https://ko.wikipedia.org/wiki/2012년_3월 "wikilink") SK플래닛 스타크래프트 프로리그 시즌1 3위
-  - [2012년 9월](https://ko.wikipedia.org/wiki/2012년_9월 "wikilink") SK플래닛 스타크래프트Ⅱ 프로리그 시즌2 정규시즌 우승
-  - [2012년 9월](https://ko.wikipedia.org/wiki/2012년_9월 "wikilink") SK플래닛 스타크래프트Ⅱ 프로리그 시즌2 준우승
-  - [2013년 9월](https://ko.wikipedia.org/wiki/2013년_9월 "wikilink") **삼성 갤럭시**로 팀명 변경
-  - [2014년 2월](https://ko.wikipedia.org/wiki/2014년_2월 "wikilink") SK텔레콤 스타크래프트 II 프로리그 2014 1라운드 3위
-  - [2014년 7월](https://ko.wikipedia.org/wiki/2014년_7월 "wikilink") SK텔레콤 스타크래프트 II 프로리그 2014 4라운드 4위
+  - [2009년 7월](../Page/2009년_7월.md "wikilink") 신한은행 프로리그 08-09 4위
+  - [2011년 7월](../Page/2011년_7월.md "wikilink") 신한은행 프로리그 10-11 6강
+  - [2012년 3월](../Page/2012년_3월.md "wikilink") SK플래닛 스타크래프트 프로리그 시즌1 3위
+  - [2012년 9월](../Page/2012년_9월.md "wikilink") SK플래닛 스타크래프트Ⅱ 프로리그 시즌2 정규시즌 우승
+  - [2012년 9월](../Page/2012년_9월.md "wikilink") SK플래닛 스타크래프트Ⅱ 프로리그 시즌2 준우승
+  - [2013년 9월](../Page/2013년_9월.md "wikilink") **삼성 갤럭시**로 팀명 변경
+  - [2014년 2월](../Page/2014년_2월.md "wikilink") SK텔레콤 스타크래프트 II 프로리그 2014 1라운드 3위
+  - [2014년 7월](../Page/2014년_7월.md "wikilink") SK텔레콤 스타크래프트 II 프로리그 2014 4라운드 4위
 
 #### 워크래프트 III
 
@@ -58,12 +58,12 @@
 
 #### 리그 오브 레전드
 
-  - [2013년 9월](https://ko.wikipedia.org/wiki/2013년_9월 "wikilink") 롤팀 창단 (허민구 사무국장)
-  - [2014년 1월](https://ko.wikipedia.org/wiki/2014년_1월 "wikilink") 롤챔스 윈터 준우승 (삼성 갤럭시 화이트)
-  - [2014년 6월](https://ko.wikipedia.org/wiki/2014년_6월 "wikilink") 롤챔스 스프링 우승 (삼성 갤럭시 블루), 3위 (삼성 갤럭시 화이트)
-  - [2014년 7월](https://ko.wikipedia.org/wiki/2014년_7월 "wikilink") LOL 클럽 마스터즈 초대 우승
-  - [2014년 8월](https://ko.wikipedia.org/wiki/2014년_8월 "wikilink") 롤챔스 서머 준우승 (삼성 갤럭시 블루), 3위 (삼성 갤럭시 화이트)
-  - [2014년 10월](https://ko.wikipedia.org/wiki/2014년_10월 "wikilink") LOL 월드 챔피언십 2014 우승 (삼성 갤럭시 화이트), 4강 (삼성 갤럭시 블루)
+  - [2013년 9월](../Page/2013년_9월.md "wikilink") 롤팀 창단 (허민구 사무국장)
+  - [2014년 1월](../Page/2014년_1월.md "wikilink") 롤챔스 윈터 준우승 (삼성 갤럭시 화이트)
+  - [2014년 6월](../Page/2014년_6월.md "wikilink") 롤챔스 스프링 우승 (삼성 갤럭시 블루), 3위 (삼성 갤럭시 화이트)
+  - [2014년 7월](../Page/2014년_7월.md "wikilink") LOL 클럽 마스터즈 초대 우승
+  - [2014년 8월](../Page/2014년_8월.md "wikilink") 롤챔스 서머 준우승 (삼성 갤럭시 블루), 3위 (삼성 갤럭시 화이트)
+  - [2014년 10월](../Page/2014년_10월.md "wikilink") LOL 월드 챔피언십 2014 우승 (삼성 갤럭시 화이트), 4강 (삼성 갤럭시 블루)
   - 2016년 10월 LOL 월드 챔피언십 2016 준우승
   - [2017년 11월](https://ko.wikipedia.org/wiki/2017년_11월 "wikilink") LOL 월드 챔피언십 2017 우승
 
@@ -94,21 +94,21 @@
 
 ### 팀리그
 
-| 연도                                                             | 스폰서                                                                         | 경기수                                                                                | 승 | 패 | 승점   | 승률    | 기타                        |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | - | - | ---- | ----- | ------------------------- |
-| 2003                                                           | [계몽사](https://ko.wikipedia.org/wiki/계몽사_KPGA_팀리그 "wikilink")                | **예선 탈락** ([KTF 매직엔스전](https://ko.wikipedia.org/wiki/KTF_매직엔스 "wikilink") 3 : 0 패) |   |   |      |       |                           |
-| [라이프존](https://ko.wikipedia.org/wiki/라이프존_KPGA_팀리그 "wikilink") | **예선 탈락** (2전 2패 - 개인전 1승 4패)                                               |                                                                                    |   |   |      |       |                           |
-| 2003-2004                                                      | [LG IBM](https://ko.wikipedia.org/wiki/LG_IBM_MBC게임_팀리그 "wikilink")         | 2                                                                                  | 0 | 2 | \-6  | 0%    | 8위                        |
-| 2004                                                           | [투싼](https://ko.wikipedia.org/wiki/현대자동차_투싼_MBC게임_팀리그 "wikilink")           | **예선 탈락** (3전 1승 2패 - 개인전 9승 10패)                                                  |   |   |      |       |                           |
-| 2004-2005                                                      | [MBC MOVIES](https://ko.wikipedia.org/wiki/MBC_MOVIES_MBC게임_팀리그 "wikilink") | 7                                                                                  | 1 | 6 | \-10 | 14.2% | 8위 |-bgcolor = "\#cccccc" |
+| 연도                                          | 스폰서                                                                         | 경기수                                                                                | 승 | 패 | 승점   | 승률    | 기타                        |
+| ------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | - | - | ---- | ----- | ------------------------- |
+| 2003                                        | [계몽사](../Page/계몽사_KPGA_팀리그.md "wikilink")                                   | **예선 탈락** ([KTF 매직엔스전](https://ko.wikipedia.org/wiki/KTF_매직엔스 "wikilink") 3 : 0 패) |   |   |      |       |                           |
+| [라이프존](../Page/라이프존_KPGA_팀리그.md "wikilink") | **예선 탈락** (2전 2패 - 개인전 1승 4패)                                               |                                                                                    |   |   |      |       |                           |
+| 2003-2004                                   | [LG IBM](../Page/LG_IBM_MBC게임_팀리그.md "wikilink")                            | 2                                                                                  | 0 | 2 | \-6  | 0%    | 8위                        |
+| 2004                                        | [투싼](../Page/현대자동차_투싼_MBC게임_팀리그.md "wikilink")                              | **예선 탈락** (3전 1승 2패 - 개인전 9승 10패)                                                  |   |   |      |       |                           |
+| 2004-2005                                   | [MBC MOVIES](https://ko.wikipedia.org/wiki/MBC_MOVIES_MBC게임_팀리그 "wikilink") | 7                                                                                  | 1 | 6 | \-10 | 14.2% | 8위 |-bgcolor = "\#cccccc" |
 
-| 연도                                                             | 스폰서                                                                         | 경기수       | 개인승 | 개인패 | 승률    | 올킬수                      | 기타       |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------- | --------- | --- | --- | ----- | ------------------------ | -------- |
-| 2003                                                           | [계몽사](https://ko.wikipedia.org/wiki/계몽사_KPGA_팀리그 "wikilink")                | **예선 탈락** |     |     |       |                          |          |
-| [라이프존](https://ko.wikipedia.org/wiki/라이프존_KPGA_팀리그 "wikilink") |                                                                             |           |     |     |       |                          |          |
-| 2003-2004                                                      | [LG IBM](https://ko.wikipedia.org/wiki/LG_IBM_MBC게임_팀리그 "wikilink")         | 10        | 2   | 8   | 20%   | \-                       |          |
-| 2004                                                           | [투싼](https://ko.wikipedia.org/wiki/현대자동차_투싼_MBC게임_팀리그 "wikilink")           | **예선 탈락** |     |     |       |                          |          |
-| 2004-2005                                                      | [MBC MOVIES](https://ko.wikipedia.org/wiki/MBC_MOVIES_MBC게임_팀리그 "wikilink") | 26        | 8   | 18  | 30.7% | 1 |-bgcolor = "\#cccccc" | **통산성적** |
+| 연도                                          | 스폰서                                                                         | 경기수       | 개인승 | 개인패 | 승률    | 올킬수                      | 기타       |
+| ------------------------------------------- | --------------------------------------------------------------------------- | --------- | --- | --- | ----- | ------------------------ | -------- |
+| 2003                                        | [계몽사](../Page/계몽사_KPGA_팀리그.md "wikilink")                                   | **예선 탈락** |     |     |       |                          |          |
+| [라이프존](../Page/라이프존_KPGA_팀리그.md "wikilink") |                                                                             |           |     |     |       |                          |          |
+| 2003-2004                                   | [LG IBM](../Page/LG_IBM_MBC게임_팀리그.md "wikilink")                            | 10        | 2   | 8   | 20%   | \-                       |          |
+| 2004                                        | [투싼](../Page/현대자동차_투싼_MBC게임_팀리그.md "wikilink")                              | **예선 탈락** |     |     |       |                          |          |
+| 2004-2005                                   | [MBC MOVIES](https://ko.wikipedia.org/wiki/MBC_MOVIES_MBC게임_팀리그 "wikilink") | 26        | 8   | 18  | 30.7% | 1 |-bgcolor = "\#cccccc" | **통산성적** |
 
 ### 리그 오브 레전드
 
@@ -137,8 +137,8 @@
 ## 역대 명칭
 
   - 스타크래프트, 스타크래프트 2
-      - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 삼성전자 칸
-      - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 삼성 갤럭시
+      - [2000년](../Page/2000년.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") 삼성전자 칸
+      - [2013년](../Page/2013년.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") 삼성 갤럭시
   - 리그 오브 레전드
       - MVP 블루 - 삼성 갤럭시 블루
       - MVP 화이트 - MVP 오존 - 삼성 갤럭시 오존 - 삼성 갤럭시 화이트
@@ -147,19 +147,19 @@
 ## 역대 감독
 
   - 스타크래프트, 스타크래프트 2
-      - 1대 감독 : 정수영 (재임 기간 : [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") \~ [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink"))
-      - 감독 대행 : 허민구 (재임 기간 : [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") \~ [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink"))
-      - 2대 감독 : [김가을](https://ko.wikipedia.org/wiki/김가을 "wikilink") (재임 기간 : [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink"))
+      - 1대 감독 : 정수영 (재임 기간 : [2000년](../Page/2000년.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink"))
+      - 감독 대행 : 허민구 (재임 기간 : [2002년](../Page/2002년.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink"))
+      - 2대 감독 : [김가을](../Page/김가을.md "wikilink") (재임 기간 : [2003년](../Page/2003년.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink"))
 
 <!-- end list -->
 
   - 리그 오브 레전드
-      - 1대 감독 : 최윤상 (재임 기간 : [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink"))
-      - 2대 감독 : 최우범 (재임 기간 : [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink"))
+      - 1대 감독 : 최윤상 (재임 기간 : [2013년](../Page/2013년.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink"))
+      - 2대 감독 : 최우범 (재임 기간 : [2014년](../Page/2014년.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink"))
 
 ## 주요 종목
 
-  - [리그 오브 레전드](https://ko.wikipedia.org/wiki/리그_오브_레전드 "wikilink")
+  - [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink")
 
 ## 우승 기록
 

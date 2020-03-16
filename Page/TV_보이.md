@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-**TV 보이**(TV Boy)는 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")에 Akor, NICS, SystemA 등에서 판매한 [아타리 2600](https://ko.wikipedia.org/wiki/아타리_2600 "wikilink") 호환 게임기이다.
+**TV 보이**(TV Boy)는 [1992년](../Page/1992년.md "wikilink")에 Akor, NICS, SystemA 등에서 판매한 [아타리 2600](../Page/아타리_2600.md "wikilink") 호환 게임기이다.
 
-[라이선스](https://ko.wikipedia.org/wiki/라이선스 "wikilink") 없이 불법 복제된 게임기로 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")과 [프랑스](../Page/프랑스.md "wikilink")등 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")지역에 주로 판매되었다. 전원은 6V 어댑터나 AA 배터리 4개로 동작되었고 게임기 안의 512KB의 롬에 127가지의 게임이 내장되어 있다. TV 보이 I 과 TV 보이 II 2종류가 있는데 TV 보이 I은 RF 단자, TV 보이 II는 컴포지트 단자가 있다는 게 다르다.
+[라이선스](https://ko.wikipedia.org/wiki/라이선스 "wikilink") 없이 불법 복제된 게임기로 [영국](../Page/영국.md "wikilink")과 [프랑스](../Page/프랑스.md "wikilink")등 [유럽](../Page/유럽.md "wikilink")지역에 주로 판매되었다. 전원은 6V 어댑터나 AA 배터리 4개로 동작되었고 게임기 안의 512KB의 롬에 127가지의 게임이 내장되어 있다. TV 보이 I 과 TV 보이 II 2종류가 있는데 TV 보이 I은 RF 단자, TV 보이 II는 컴포지트 단자가 있다는 게 다르다.
 
-1995년 외형과 내장 게임이 다른 [슈퍼 TV 보이](https://ko.wikipedia.org/wiki/슈퍼_TV_보이 "wikilink")(Super TV Boy)가 판매되었다.
+1995년 외형과 내장 게임이 다른 [슈퍼 TV 보이](../Page/슈퍼_TV_보이.md "wikilink")(Super TV Boy)가 판매되었다.
 
 ## 사양
 

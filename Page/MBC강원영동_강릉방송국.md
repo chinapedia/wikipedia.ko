@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
 
 
-**MBC강원영동 강릉방송국**(MBC江原嶺東江陵放送局)은 영동 중북부지역을 가시청권으로 하는 TV·라디오 방송국으로, [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [6월 22일에](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") 개국하였다. 본사는 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink") 포남동에 위치해 있으며, 1988년 포남동 신사옥으로 이전했다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") [삼척문화방송](https://ko.wikipedia.org/wiki/삼척문화방송 "wikilink")과의 통합이 확정되어, 2015년 1월 1일부터 MBC 강원영동으로 출범함에 따라 MBC강원영동 강릉방송국이 되었다.
+**MBC강원영동 강릉방송국**(MBC江原嶺東江陵放送局)은 영동 중북부지역을 가시청권으로 하는 TV·라디오 방송국으로, [1968년](../Page/1968년.md "wikilink") [6월 22일에](../Page/6월_22일.md "wikilink") 개국하였다. 본사는 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink") 포남동에 위치해 있으며, 1988년 포남동 신사옥으로 이전했다. [2014년](../Page/2014년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") [삼척문화방송](https://ko.wikipedia.org/wiki/삼척문화방송 "wikilink")과의 통합이 확정되어, 2015년 1월 1일부터 MBC 강원영동으로 출범함에 따라 MBC강원영동 강릉방송국이 되었다.
 
 ## 본사·지사 소재지
 
@@ -17,51 +17,51 @@
 
 <!-- end list -->
 
-  - 우24822 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [속초시](https://ko.wikipedia.org/wiki/속초시 "wikilink") 번영로 170
+  - 우24822 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [속초시](../Page/속초시.md "wikilink") 번영로 170
 
 ## 연혁
 
 ### 개국 초기
 
-  - [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") : **영동방송주식회사(YBC)** 설립등기
-  - [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") : 개국 (성내동 임시스튜디오)
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") : 사옥 준공 (임당동 스튜디오)
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [9월 15일](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") : 강릉문화방송주식회사로 상호변경
+  - [1968년](../Page/1968년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") : **영동방송주식회사(YBC)** 설립등기
+  - [1968년](../Page/1968년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") : 개국 (성내동 임시스튜디오)
+  - [1969년](../Page/1969년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") : 사옥 준공 (임당동 스튜디오)
+  - [1971년](../Page/1971년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") : 강릉문화방송주식회사로 상호변경
 
 ### 1980년대
 
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [10월 17일](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") : TV중계소 개소 (UHF CH 31, 출력 10㎾)
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") : TV방송 허가
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") : FM방송 개국
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [9월 6일](https://ko.wikipedia.org/wiki/9월_6일 "wikilink") : TV방송 개국
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink") : 속초TV중계소 개국 (CH 23, 출력 100W)
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") : 양양TV중계소(CH 33, 출력 100W), 옥계TV중계소(CH 41, 출력 100W) 개국
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [12월 17일](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") : 포남2동 신사옥으로 이전
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [1월 20일](https://ko.wikipedia.org/wiki/1월_20일 "wikilink") : 대관령TV중계소 개국 (CH 41, 출력 500W)
+  - [1983년](../Page/1983년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") : TV중계소 개소 (UHF CH 31, 출력 10㎾)
+  - [1984년](../Page/1984년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") : TV방송 허가
+  - [1985년](../Page/1985년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") : FM방송 개국
+  - [1985년](../Page/1985년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") : TV방송 개국
+  - [1986년](../Page/1986년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") : 속초TV중계소 개국 (CH 23, 출력 100W)
+  - [1986년](../Page/1986년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") : 양양TV중계소(CH 33, 출력 100W), 옥계TV중계소(CH 41, 출력 100W) 개국
+  - [1988년](../Page/1988년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") : 포남2동 신사옥으로 이전
+  - [1989년](../Page/1989년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") : 대관령TV중계소 개국 (CH 41, 출력 500W)
 
 ### 1990년대
 
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") : 일본 [아키타TV](https://ko.wikipedia.org/wiki/아키타TV "wikilink")(秋田テレビ)와 우호제휴 체결
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") : 청학기 전국여자 고교축구대회창설
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") : 고성TV중계소 개국 (CH 25, 출력 500W)
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") : 괘방산송신소 신축이전
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") : 경포송신소 신축 이전 준공
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") : 표준FM 개국 (FM 96.3㎒)
+  - [1991년](../Page/1991년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") : 일본 [아키타TV](https://ko.wikipedia.org/wiki/아키타TV "wikilink")(秋田テレビ)와 우호제휴 체결
+  - [1992년](../Page/1992년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") : 청학기 전국여자 고교축구대회창설
+  - [1993년](../Page/1993년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") : 고성TV중계소 개국 (CH 25, 출력 500W)
+  - [1998년](../Page/1998년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") : 괘방산송신소 신축이전
+  - [1999년](../Page/1999년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") : 경포송신소 신축 이전 준공
+  - [1999년](../Page/1999년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") : 표준FM 개국 (FM 96.3㎒)
 
 ### 디지털 시대
 
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") : 인터넷방송 개국 (TV·라디오 실시간 방송 및 VOD, AOD)
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") : 디지털TV 개국 (괘방산송신소, 물리채널 14, 출력 2.5㎾)
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") : 중국 닝보전시대()와 우호제휴체결
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") : 지상파DMB방송개시 (CH 13A, 출력 2㎾)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") : 지상파아날로그TV방송 종료
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") : [수도권](https://ko.wikipedia.org/wiki/수도권 "wikilink"), [강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink"), [충청권](https://ko.wikipedia.org/wiki/충청권 "wikilink") 디지털방송 재배치
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") : [삼척MBC](https://ko.wikipedia.org/wiki/삼척MBC "wikilink")와의 합병 승인.
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") : MBC강원영동으로 출범.
+  - [2001년](../Page/2001년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") : 인터넷방송 개국 (TV·라디오 실시간 방송 및 VOD, AOD)
+  - [2005년](../Page/2005년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") : 디지털TV 개국 (괘방산송신소, 물리채널 14, 출력 2.5㎾)
+  - [2006년](../Page/2006년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") : 중국 닝보전시대()와 우호제휴체결
+  - [2007년](../Page/2007년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") : 지상파DMB방송개시 (CH 13A, 출력 2㎾)
+  - [2012년](../Page/2012년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") : 지상파아날로그TV방송 종료
+  - [2013년](../Page/2013년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") : [수도권](../Page/수도권.md "wikilink"), [강원도](../Page/강원도.md "wikilink"), [충청권](https://ko.wikipedia.org/wiki/충청권 "wikilink") 디지털방송 재배치
+  - [2014년](../Page/2014년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") : [삼척MBC](https://ko.wikipedia.org/wiki/삼척MBC "wikilink")와의 합병 승인.
+  - [2015년](../Page/2015년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") : MBC강원영동으로 출범.
 
 ### UHD 시대
 
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") : MBC강원영동 강릉방송국 UHD 방송개시.
+  - [2017년](../Page/2017년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") : MBC강원영동 강릉방송국 UHD 방송개시.
 
 ## TV방송
 
@@ -74,7 +74,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/930_MBC_뉴스" title="wikilink">930 MBC 뉴스 강원영동</a></p></th>
+<th><p><a href="../Page/930_MBC_뉴스.md" title="wikilink">930 MBC 뉴스 강원영동</a></p></th>
 <th><p>월~금 10분</p></th>
 <th><p>월~금 오전 09:35 ~ 09:45</p></th>
 <th><p>민기원, 김서영</p></th>
@@ -82,13 +82,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/5_MBC_뉴스" title="wikilink">5 MBC 뉴스 강원영동</a></p></td>
+<td><p><a href="../Page/5_MBC_뉴스.md" title="wikilink">5 MBC 뉴스 강원영동</a></p></td>
 <td><p>월~금 10분</p></td>
 <td><p>월~금 오후 17:15 ~ 17:25</p></td>
 <td><p>민기원</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크" title="wikilink">MBC 뉴스데스크 강원</a></p></td>
+<td><p><a href="../Page/MBC_뉴스데스크.md" title="wikilink">MBC 뉴스데스크 강원</a></p></td>
 <td><p>월~금 20분<br />
 일 15분</p></td>
 <td><p>월~금 오후 20:25 ~ 20:45<br />

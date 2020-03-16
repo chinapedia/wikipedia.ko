@@ -30,11 +30,11 @@
 
 ## 사진
 
-파일:LG prada phone private picture.jpg|[싸이언 프라다의](https://ko.wikipedia.org/wiki/싸이언_프라다 "wikilink") 모습 파일:LG KE850 Prada.jpg|LG 프라다의 모습 파일:LG KE850 Prada Hauptmenü.jpg|LG 프라다의 모습
+파일:LG prada phone private picture.jpg|[싸이언 프라다의](../Page/싸이언_프라다.md "wikilink") 모습 파일:LG KE850 Prada.jpg|LG 프라다의 모습 파일:LG KE850 Prada Hauptmenü.jpg|LG 프라다의 모습
 
 ## 같이 보기
 
-  - [싸이언 프라다](https://ko.wikipedia.org/wiki/싸이언_프라다 "wikilink")
+  - [싸이언 프라다](../Page/싸이언_프라다.md "wikilink")
 
 ## 각주
 

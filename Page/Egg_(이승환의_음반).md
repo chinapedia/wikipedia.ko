@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Egg \( \)](https://ko.wikipedia.org/wiki/Egg_\(_\)).
 
 
-《**Egg**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 싱어송라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 7번째 정규 [앨범이다](../Page/음반.md "wikilink").
+《**Egg**》는 [대한민국](../Page/대한민국.md "wikilink")의 싱어송라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 7번째 정규 [앨범이다](../Page/음반.md "wikilink").
 
-1995년작 Human부터 한 앨범에 대중들이 좋아하는 음악과 자신이 추구하는 음악을 구분해서 수록하던 이승환은 Egg에 이르러 대중들이 생각하는 이승환식 음악이 들어있는 Sunny-side Up과 이승환 자신이 생각하는 이승환식 음악이 들어있는 Over Easy로 구성된 더블 앨범을 발매하기에 이른다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 12월에 발매된 이 앨범은 독특한 케이스 때문에 포장을 일일이 수작업으로 하는 탓에 예정보다 발매가 늦어지게 되어 Sunny-side Up만 먼저 따로 발매되기도 했다. 첫 싱글은 이전까지의 대작 발라드와는 약간 거리가 있는 깔끔한 발라드 '잘못'이었으나 기대만큼의 인기를 얻지 못했고 당시 연인 사이였던 [채림이](https://ko.wikipedia.org/wiki/:en:Park_Chae-rim "wikilink") 뮤직비디오에 함께 출연한 '사랑하나요'가 많은 사랑을 받았다.
+1995년작 Human부터 한 앨범에 대중들이 좋아하는 음악과 자신이 추구하는 음악을 구분해서 수록하던 이승환은 Egg에 이르러 대중들이 생각하는 이승환식 음악이 들어있는 Sunny-side Up과 이승환 자신이 생각하는 이승환식 음악이 들어있는 Over Easy로 구성된 더블 앨범을 발매하기에 이른다. [2001년](../Page/2001년.md "wikilink") 12월에 발매된 이 앨범은 독특한 케이스 때문에 포장을 일일이 수작업으로 하는 탓에 예정보다 발매가 늦어지게 되어 Sunny-side Up만 먼저 따로 발매되기도 했다. 첫 싱글은 이전까지의 대작 발라드와는 약간 거리가 있는 깔끔한 발라드 '잘못'이었으나 기대만큼의 인기를 얻지 못했고 당시 연인 사이였던 [채림이](https://ko.wikipedia.org/wiki/:en:Park_Chae-rim "wikilink") 뮤직비디오에 함께 출연한 '사랑하나요'가 많은 사랑을 받았다.
 
 이승환은 이 앨범을 통해 에그로보라는 캐릭터를 만들어 사업다각화를 꾀했으나 여의치 않았다. 이 앨범부터 이승환은 상업적으로 하향가도를 걷기 시작한다. 총 판매량은 25만장\[1\] 이다.
 

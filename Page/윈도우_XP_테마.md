@@ -23,7 +23,7 @@
 
 ## Royale 테마
 
-Royale 또는 에너지 블루는 2004년에 마이크로소프트가 만든 GUI 콘셉트로, [윈도우 미디어 센터](https://ko.wikipedia.org/wiki/윈도우_미디어_센터 "wikilink") 데스크톱과 윈도우 XP 태블릿 PC 에디션 [태블릿 PC를](https://ko.wikipedia.org/wiki/태블릿_PC "wikilink") 대상으로 한다.
+Royale 또는 에너지 블루는 2004년에 마이크로소프트가 만든 GUI 콘셉트로, [윈도우 미디어 센터](../Page/윈도우_미디어_센터.md "wikilink") 데스크톱과 윈도우 XP 태블릿 PC 에디션 [태블릿 PC를](../Page/태블릿_PC.md "wikilink") 대상으로 한다.
 
 ## Royale Noir 테마
 

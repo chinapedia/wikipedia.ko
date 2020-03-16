@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bush hid the facts](https://ko.wikipedia.org/wiki/Bush_hid_the_facts).
 
 
-****(“[부시가](https://ko.wikipedia.org/wiki/조지_W._부시 "wikilink") 사실을 숨겼다”)는 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), 특히 [윈도 2000](https://ko.wikipedia.org/wiki/윈도_2000 "wikilink") 이후에 포함된 [메모장의](https://ko.wikipedia.org/wiki/메모장_\(소프트웨어\) "wikilink") 오류를 흔히 부르는 이름이다. 이 오류는 다음과 같은 방법으로 재현할 수 있다.\[1\]
+****(“[부시가](../Page/조지_W._부시.md "wikilink") 사실을 숨겼다”)는 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), 특히 [윈도 2000](https://ko.wikipedia.org/wiki/윈도_2000 "wikilink") 이후에 포함된 [메모장의](../Page/메모장_\(소프트웨어\).md "wikilink") 오류를 흔히 부르는 이름이다. 이 오류는 다음과 같은 방법으로 재현할 수 있다.\[1\]
 
 1.  메모장에 라고 치고 ANSI 인코딩으로 저장한다.
 
@@ -9,13 +9,13 @@
 
 3.  대신 알아 볼 수 없는 한자들(이 경우 )로 바뀌어 있을 것이다. (올바른 언어팩이 설치되어 있지 않은 경우 사각형 모양의 도형이 대신 나타난다.)
 
-혹자는 이 오류를 [음모론](https://ko.wikipedia.org/wiki/음모론 "wikilink")으로 보기도 했지만,  말고도 다양한 문자열(예를 들어 )이 이 오류를 일으키기 때문에 설득력이 떨어진다. KBS에서 방영하는 [스펀지에서는](https://ko.wikipedia.org/wiki/스펀지_\(텔레비전\) "wikilink") 방송에서 이 오류를 다루면서, 위 과정에서 나타나는 한자가 ‘사실은 자기가 숨겨도 언젠가는 밝혀진다’라는 의미라고 해석하기도 하였다.
+혹자는 이 오류를 [음모론](../Page/음모론.md "wikilink")으로 보기도 했지만,  말고도 다양한 문자열(예를 들어 )이 이 오류를 일으키기 때문에 설득력이 떨어진다. KBS에서 방영하는 [스펀지에서는](https://ko.wikipedia.org/wiki/스펀지_\(텔레비전\) "wikilink") 방송에서 이 오류를 다루면서, 위 과정에서 나타나는 한자가 ‘사실은 자기가 숨겨도 언젠가는 밝혀진다’라는 의미라고 해석하기도 하였다.
 
 ## 오류의 원인
 
-이 오류는 메모장이 내부적으로 사용하는 [윈도 API](https://ko.wikipedia.org/wiki/윈도_API "wikilink") 함수 `IsTextUnicode`가 짧은 문자열에 대해 잘못된 [문자 인코딩을](https://ko.wikipedia.org/wiki/문자_인코딩 "wikilink") 반환해서 생기는 문제이다. 예를 들어서 는 사실 ANSI 인코딩으로 표현된 원래 문자열을 [엔디언](https://ko.wikipedia.org/wiki/리틀_엔디언 "wikilink") 형식으로 저장된 [UTF-16](https://ko.wikipedia.org/wiki/UTF-16 "wikilink") 문자열로 해석해서 나온 문자열이다.
+이 오류는 메모장이 내부적으로 사용하는 [윈도 API](https://ko.wikipedia.org/wiki/윈도_API "wikilink") 함수 `IsTextUnicode`가 짧은 문자열에 대해 잘못된 [문자 인코딩을](../Page/문자_인코딩.md "wikilink") 반환해서 생기는 문제이다. 예를 들어서 는 사실 ANSI 인코딩으로 표현된 원래 문자열을 [엔디언](https://ko.wikipedia.org/wiki/리틀_엔디언 "wikilink") 형식으로 저장된 [UTF-16](../Page/UTF-16.md "wikilink") 문자열로 해석해서 나온 문자열이다.
 
-구체적으로 ‘Xxxx xxx xxx xxxxx’ 형식으로 쓰인 여러 영어 문자열이 이 버그에 영향을 받을 수 있다. (하지만 와 같이 이 버그에 영향을 받지 않는 문자열도 있다.) 이 문자열들은 UTF-16으로 해석했을 때 보통 U+6100부터 U+7AFF에 이르는 영역의 문자로 해석되며, 이 문자들은 모두 [한자](https://ko.wikipedia.org/wiki/한자 "wikilink")에 속하기 때문에 알아 볼 수 없는 한자로 보이는 것이다.
+구체적으로 ‘Xxxx xxx xxx xxxxx’ 형식으로 쓰인 여러 영어 문자열이 이 버그에 영향을 받을 수 있다. (하지만 와 같이 이 버그에 영향을 받지 않는 문자열도 있다.) 이 문자열들은 UTF-16으로 해석했을 때 보통 U+6100부터 U+7AFF에 이르는 영역의 문자로 해석되며, 이 문자들은 모두 [한자](../Page/한자.md "wikilink")에 속하기 때문에 알아 볼 수 없는 한자로 보이는 것이다.
 
 [레이먼드 첸은](https://ko.wikipedia.org/wiki/레이먼드_첸 "wikilink") 이 문제에 대해 자신의 블로그에서 [바이트 순서 표식](../Page/바이트_순서_표식.md "wikilink")(BOM)이 없는 경우 UTF-16을 자동으로 선택하지 말 것을 제안했다.\[2\]
 

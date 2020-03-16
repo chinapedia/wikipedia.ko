@@ -1,40 +1,40 @@
 > This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
 
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:NHK_Okinawa_Broadcasting_Station.JPG "wikilink") **NHK 오키나와 방송국**(沖繩 放送局)은 [오키나와현](https://ko.wikipedia.org/wiki/오키나와현 "wikilink")을 방송국역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
+[썸네일](https://ko.wikipedia.org/wiki/파일:NHK_Okinawa_Broadcasting_Station.JPG "wikilink") **NHK 오키나와 방송국**(沖繩 放送局)은 [오키나와현](../Page/오키나와현.md "wikilink")을 방송국역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
 
 ## 개요
 
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") 오키나와 현이 일본에 반환되자 그 전까지 오키나와현에서 공영 방송국 역할을 수행한 [오키나와 방송협회로부터](https://ko.wikipedia.org/wiki/오키나와_방송협회 "wikilink") 업무를 위임받아 설립되었다.
-  - 스튜디오는 현청 소재지인 [나하 시가](https://ko.wikipedia.org/wiki/나하_시 "wikilink") 아닌 [도미구스쿠 시](https://ko.wikipedia.org/wiki/도미구스쿠_시 "wikilink")([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 5일까지](https://ko.wikipedia.org/wiki/3월_5일 "wikilink"))에 있었으며\[1\] NHK 방송국 중에서는 유일하게 **방송국 소재지 시명을 사용하지 않고** 현명을 사용한 방송국이다(다만 2차대전 이전 한때, 나하 방송국이라는 이름으로 개국준비중이었다.)
-  - [라디오 제1방송에서](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink") 사용하고 있는 JOAP는 일본의 2차 세계대전 참전 전 라디오 방송국에 할당되었지만, 1945년 종전과 오키나와의 미군지배로 인해 폐지되면서 전후에는 [NHK 마에바시 방송국의](https://ko.wikipedia.org/wiki/NHK_마에바시_방송국 "wikilink") FM 방송 콜사인으로 사용되었으나 오키나와가 일본로 반환되자 오킨나와 방송국에 이전 콜사인인 JOAP를 부여하는 것이 바람직하다는 의견에 따라 마에바시 방송국의 콜사인은 JOTP-FM으로 변경되었고 JOTP-FM을 쓰고 있던 [NHK 교토 방송국은](https://ko.wikipedia.org/wiki/NHK_교토_방송국 "wikilink") 콜사인을 JOOK-FM으로 바꾸었다.
+  - [1972년](../Page/1972년.md "wikilink") [5월](../Page/5월.md "wikilink") 오키나와 현이 일본에 반환되자 그 전까지 오키나와현에서 공영 방송국 역할을 수행한 [오키나와 방송협회로부터](https://ko.wikipedia.org/wiki/오키나와_방송협회 "wikilink") 업무를 위임받아 설립되었다.
+  - 스튜디오는 현청 소재지인 [나하 시가](https://ko.wikipedia.org/wiki/나하_시 "wikilink") 아닌 [도미구스쿠 시](https://ko.wikipedia.org/wiki/도미구스쿠_시 "wikilink")([2006년](../Page/2006년.md "wikilink") [3월 5일까지](../Page/3월_5일.md "wikilink"))에 있었으며\[1\] NHK 방송국 중에서는 유일하게 **방송국 소재지 시명을 사용하지 않고** 현명을 사용한 방송국이다(다만 2차대전 이전 한때, 나하 방송국이라는 이름으로 개국준비중이었다.)
+  - [라디오 제1방송에서](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink") 사용하고 있는 JOAP는 일본의 2차 세계대전 참전 전 라디오 방송국에 할당되었지만, 1945년 종전과 오키나와의 미군지배로 인해 폐지되면서 전후에는 [NHK 마에바시 방송국의](../Page/NHK_마에바시_방송국.md "wikilink") FM 방송 콜사인으로 사용되었으나 오키나와가 일본로 반환되자 오킨나와 방송국에 이전 콜사인인 JOAP를 부여하는 것이 바람직하다는 의견에 따라 마에바시 방송국의 콜사인은 JOTP-FM으로 변경되었고 JOTP-FM을 쓰고 있던 [NHK 교토 방송국은](../Page/NHK_교토_방송국.md "wikilink") 콜사인을 JOOK-FM으로 바꾸었다.
   - 2019년 현재 NHK 텔레비전 방송만을 위한 텔레비전 중계국이 존재하지 않는다.\[2\]
 
 ### 다이토제도 방송에 대해
 
-  - 텔레비전 방송의 경우 지리적·기술적 사정에 의해 지상파 중계국을 설치하지 못하다가 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") BS 위성방송을 통해 시험 방송을 할 때 부터 위성방송(BS1·BS2)을 통해 미나미다이토·키타다이토 양 섬에 방송했으며 BS아날로그 방송을 지상파 텔레비전 전파로 변환한 다음 방송하기 때문에 VHF안테나로 시청이 가능하였다. 이후 BS아날로그 방송이 종료하면서 BS위성 중계국은 폐지되었다.
-      - 그 후 1998년 4월, 위성을 통해 [오가사와라 제도용으로](../Page/오가사와라_제도.md "wikilink") 방송하는 [NHK 방송 센터](https://ko.wikipedia.org/wiki/NHK_방송_센터 "wikilink")\[3\] 전파를 수신해 지상파 형식으로 변환해 방송했으며 오키나와현의 정보는 전화 회선을 통한 자막형태로 전하고 있다가 2011년 7월 22일 해저 광케이블을 이용한 중계국이 개국하면서 현역 텔레비전 채널 시청이 가능해졌다.
-  - 라디오 방송의 경우 [라디오 제1방송은](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink") [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") FM 전파를 이용한 중계국을 설치하면서 안정적인 수신이 가능하지만 위성회선을 이용하는 관계로 악천후가 발생할 경우 수신할 수 없는 경우가 있다.
-      - 그리고 [라디오 제2방송은](https://ko.wikipedia.org/wiki/NHK_라디오제2방송 "wikilink") 낮에는 나하 방송국에서 송출한 방송을 수신 할 수 있지만 밤에는 다른 방송국과 혼신이 일어나 밤에는 다른 지역 제2방송을 들어야만 하며 [NHK-FM방송](https://ko.wikipedia.org/wiki/NHK-FM방송 "wikilink")은 5월\~8월을 제외하면 들을 수 없지만 2011년 9월 1일부터 시작된 일본방송협회의 인터넷 라디오 서비스 라지루★라지루를 통해서 일부 프로그램 청취가 가능해졌다.\[4\]
+  - 텔레비전 방송의 경우 지리적·기술적 사정에 의해 지상파 중계국을 설치하지 못하다가 [1984년](../Page/1984년.md "wikilink") [5월](../Page/5월.md "wikilink") BS 위성방송을 통해 시험 방송을 할 때 부터 위성방송(BS1·BS2)을 통해 미나미다이토·키타다이토 양 섬에 방송했으며 BS아날로그 방송을 지상파 텔레비전 전파로 변환한 다음 방송하기 때문에 VHF안테나로 시청이 가능하였다. 이후 BS아날로그 방송이 종료하면서 BS위성 중계국은 폐지되었다.
+      - 그 후 1998년 4월, 위성을 통해 [오가사와라 제도용으로](../Page/오가사와라_제도.md "wikilink") 방송하는 [NHK 방송 센터](../Page/NHK_방송_센터.md "wikilink")\[3\] 전파를 수신해 지상파 형식으로 변환해 방송했으며 오키나와현의 정보는 전화 회선을 통한 자막형태로 전하고 있다가 2011년 7월 22일 해저 광케이블을 이용한 중계국이 개국하면서 현역 텔레비전 채널 시청이 가능해졌다.
+  - 라디오 방송의 경우 [라디오 제1방송은](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink") [2007년](../Page/2007년.md "wikilink") FM 전파를 이용한 중계국을 설치하면서 안정적인 수신이 가능하지만 위성회선을 이용하는 관계로 악천후가 발생할 경우 수신할 수 없는 경우가 있다.
+      - 그리고 [라디오 제2방송은](https://ko.wikipedia.org/wiki/NHK_라디오제2방송 "wikilink") 낮에는 나하 방송국에서 송출한 방송을 수신 할 수 있지만 밤에는 다른 방송국과 혼신이 일어나 밤에는 다른 지역 제2방송을 들어야만 하며 [NHK-FM방송](../Page/NHK-FM방송.md "wikilink")은 5월\~8월을 제외하면 들을 수 없지만 2011년 9월 1일부터 시작된 일본방송협회의 인터넷 라디오 서비스 라지루★라지루를 통해서 일부 프로그램 청취가 가능해졌다.\[4\]
 
 ## 채널과 주파수
 
 ### 텔레비전 방송국
 
-  - [종합 텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 나하본국 17ch(JOAP-DTV)
-  - [교육 텔레비전](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 나하본국 13ch(JOAD-DTV)
+  - [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 나하본국 17ch(JOAP-DTV)
+  - [교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink") 나하본국 13ch(JOAD-DTV)
 
 ### 라디오 방송국
 
-| 방송국·중계국      | 주파수     | 출력   | 비고                                                                                                                                |
-| ------------ | ------- | ---- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 나하 방송국       | 549kHz  | 10kw | 콜사인은 JOAP                                                                                                                         |
-| 나고 중계국       | 531kHz  | 1KW  | 오키나와섬 북부 난청 해소를 위해 1986년 설치                                                                                                       |
-| 미야코 중계국      | 1368kHz | 100W |                                                                                                                                   |
-| 이시가키 중계국     | 540kHz  | 1KW  |                                                                                                                                   |
-| 이리오모테소나이 중계국 | 85.2MHz | 10W  | 중파혼신 해소와 방재방송 내실화를 위해 1991년 설치                                                                                                    |
-| 요나구니 중계국     | 83.5MHz | 10W  | 중파혼신 해소를 위해 2003년 설치                                                                                                              |
-| 미나미다이토 중계국   | 83.5MHz | 100W | 중파혼신 해소를 위해 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 방송 개시 |
+| 방송국·중계국      | 주파수     | 출력   | 비고                                                                                          |
+| ------------ | ------- | ---- | ------------------------------------------------------------------------------------------- |
+| 나하 방송국       | 549kHz  | 10kw | 콜사인은 JOAP                                                                                   |
+| 나고 중계국       | 531kHz  | 1KW  | 오키나와섬 북부 난청 해소를 위해 1986년 설치                                                                 |
+| 미야코 중계국      | 1368kHz | 100W |                                                                                             |
+| 이시가키 중계국     | 540kHz  | 1KW  |                                                                                             |
+| 이리오모테소나이 중계국 | 85.2MHz | 10W  | 중파혼신 해소와 방재방송 내실화를 위해 1991년 설치                                                              |
+| 요나구니 중계국     | 83.5MHz | 10W  | 중파혼신 해소를 위해 2003년 설치                                                                        |
+| 미나미다이토 중계국   | 83.5MHz | 100W | 중파혼신 해소를 위해 [2007년](../Page/2007년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 방송 개시 |
 
 [라디오 제1방송](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink")
 
@@ -59,7 +59,7 @@
 | 나키진 중계국  | 84.8MHz | 100W | 1976년 12월 본국과 동시 방송 개시.                          |
 | 요나구니 중계국 | 85.8MHz | 10W  | 1976년 12월 본국과 동시 방송 개시.                          |
 
-[FM방송](https://ko.wikipedia.org/wiki/NHK-FM방송 "wikilink")
+[FM방송](../Page/NHK-FM방송.md "wikilink")
 
 ## 연혁
 
@@ -67,55 +67,55 @@
 
 ### 1941년\~1972년 5월 14일
 
-  - [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") 체신성, 오키나와 방송국 설치를 허가(중파 방송국, 호출 부호 JOAP).
-  - [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") 중파 방송 시험 방송 개시.
-  - [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") 시험 방송중 태평양전쟁 개전 임시 뉴스를 방송([12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") 일본군통신대의명령에 의해 시험 방송을 일시중지).
-  - [1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") 시험 방송 개시.
-  - [1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") [3월 19일](https://ko.wikipedia.org/wiki/3월_19일 "wikilink") 방송 개시(호출부호 JOAP, 주파수 1000kc).
-  - [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") 공습 재해에 의해 방송 기능 정지([3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink"), 폐쇄).
-  - [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") - NHK 나하 통신국 개설\[5\]
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") - 류큐 전신 전화공사(지금의 NTT서일본 오키나와 지점) 서나하(西那覇) 전보전화국 에 NHK 제공 프로그램 수록소(収録所) 완성.
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") - 일본과 오키나와 사이에 해저 마이크로 회선이 정식으로 개통하면서 NHK가 오키나와에 본격적인 프로그램 제공 업무를 시작했으며 이때는 [오키나와 TV 방송](../Page/오키나와_TV_방송.md "wikilink")(OTV)과 [류큐 방송](../Page/류큐_방송.md "wikilink")(RBC)에서 광고방송이 첨부된 형태로 달고 방송되었다.
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") [9월 15일](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") - NHK가 나하 통신국을 폐지하고 오키나와 총국을 설치.
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink") 오키나와 방송협회(OHK) 설립(일본 방송협회의 전면적인 지원을 통해 설립).
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") OHK 미야코 방송국(호출부호 KSDY), 텔레비전 방송 개시.
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink")　OHK 야에야마 방송국(호출부호 KSGA), 텔레비전 방송 개시.
-  - [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") NHK와 오키나와 방송협회 사이에 "TV 방송 설비의 설치 및 무상 대여에 관한 계약"체결.
-  - [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") OHK 중앙 방송국(호출부호 KSGB-TV), 텔레비전 방송 개시.이때 민영 방송국에서 방송되던 NHK 프로그램이 OHK로 이양된다.
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") - OHK 텔레비전 수신료 징수 시작(1개월 80센트).
+  - [1941년](../Page/1941년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") 체신성, 오키나와 방송국 설치를 허가(중파 방송국, 호출 부호 JOAP).
+  - [1941년](../Page/1941년.md "wikilink") [12월](../Page/12월.md "wikilink") 중파 방송 시험 방송 개시.
+  - [1941년](../Page/1941년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") 시험 방송중 태평양전쟁 개전 임시 뉴스를 방송([12월 9일](../Page/12월_9일.md "wikilink") 일본군통신대의명령에 의해 시험 방송을 일시중지).
+  - [1942년](../Page/1942년.md "wikilink") [1월](../Page/1월.md "wikilink") 시험 방송 개시.
+  - [1942년](../Page/1942년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") 방송 개시(호출부호 JOAP, 주파수 1000kc).
+  - [1945년](../Page/1945년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") 공습 재해에 의해 방송 기능 정지([3월 26일](../Page/3월_26일.md "wikilink"), 폐쇄).
+  - [1961년](../Page/1961년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - NHK 나하 통신국 개설\[5\]
+  - [1964년](../Page/1964년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") - 류큐 전신 전화공사(지금의 NTT서일본 오키나와 지점) 서나하(西那覇) 전보전화국 에 NHK 제공 프로그램 수록소(収録所) 완성.
+  - [1964년](../Page/1964년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") - 일본과 오키나와 사이에 해저 마이크로 회선이 정식으로 개통하면서 NHK가 오키나와에 본격적인 프로그램 제공 업무를 시작했으며 이때는 [오키나와 TV 방송](../Page/오키나와_TV_방송.md "wikilink")(OTV)과 [류큐 방송](../Page/류큐_방송.md "wikilink")(RBC)에서 광고방송이 첨부된 형태로 달고 방송되었다.
+  - [1964년](../Page/1964년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") - NHK가 나하 통신국을 폐지하고 오키나와 총국을 설치.
+  - [1967년](../Page/1967년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") 오키나와 방송협회(OHK) 설립(일본 방송협회의 전면적인 지원을 통해 설립).
+  - [1967년](../Page/1967년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink") OHK 미야코 방송국(호출부호 KSDY), 텔레비전 방송 개시.
+  - [1967년](../Page/1967년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink")　OHK 야에야마 방송국(호출부호 KSGA), 텔레비전 방송 개시.
+  - [1968년](../Page/1968년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") NHK와 오키나와 방송협회 사이에 "TV 방송 설비의 설치 및 무상 대여에 관한 계약"체결.
+  - [1968년](../Page/1968년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink") OHK 중앙 방송국(호출부호 KSGB-TV), 텔레비전 방송 개시.이때 민영 방송국에서 방송되던 NHK 프로그램이 OHK로 이양된다.
+  - [1969년](../Page/1969년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") - OHK 텔레비전 수신료 징수 시작(1개월 80센트).
 
 ### 1972년 5월 15일 이후
 
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") 오키나와의 일본복귀에 따라 NHK 오키나와 방송국 개국, 종합텔레비전(호출부호 JOAP-TV), 교육텔레비전(JOAD-TV) 방송 개시.
+  - [1972년](../Page/1972년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") 오키나와의 일본복귀에 따라 NHK 오키나와 방송국 개국, 종합텔레비전(호출부호 JOAP-TV), 교육텔레비전(JOAD-TV) 방송 개시.
       - 또한 미야코·야에야마 지구는 야에야마국을 미야코국쪽으로 통합한 다음 계속 종합텔레비전만 방송을 계속한다(호출부호 JOVQ-TV).이 당시 미야코 방송국의 프로그램은 종합텔레비전과 교육텔레비전 혼합 편성으로 시간차 방송이었으며\[6\] 뉴스는 라디오 뉴스음성에 독자적으로 만든 자막이 붙은 파란 화면을 통해 방송했다.
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [6월 25일](https://ko.wikipedia.org/wiki/6월_25일 "wikilink") 1945년 3월 26일 이후 중단된 라디오 방송이 부활(호출 부호 JOAP).이 날 제2(JOAD)방송 개시\[7\]
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") FM방송(호출부호 JOAP-FM) 개시.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink")　텔레비전 방송 중계국이 없었던 [다이토 제도에](https://ko.wikipedia.org/wiki/다이토_제도 "wikilink") 시험 방송 개시\[8\]
+  - [1972년](../Page/1972년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink") 1945년 3월 26일 이후 중단된 라디오 방송이 부활(호출 부호 JOAP).이 날 제2(JOAD)방송 개시\[7\]
+  - [1974년](../Page/1974년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") FM방송(호출부호 JOAP-FM) 개시.
+  - [1975년](../Page/1975년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink")　텔레비전 방송 중계국이 없었던 [다이토 제도에](https://ko.wikipedia.org/wiki/다이토_제도 "wikilink") 시험 방송 개시\[8\]
   - 같은 해 해저 케이블 잠정 개통에 의해 미야코·야에야마 지역 텔레비전 뉴스가 오키나와 본국과 동시 방송이 가능해졌으나 흑백방송이었다.
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink")　해저 케이블 정식 개통에 의해 미야코·야에야마 지역 텔레비전 방송이 오키나와 본국과 동시 방송이 가능해졌다(미야코 방송국이 히라라 텔레비전 중계국이 되면서 호출부호 JOVQ-TV는 사용이 중단되었다).동시에 미야코·야에야마 지역에 교육텔레비전과 FM방송 개시.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") FM방송국이 지역방송에 한정해 스테레오 방송을 실시했다.
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink")　방송위성에 의한 위성 시험 방송이 시작되면서 남북 다이토지마에서 텔레비전 방송을 실시간으로 볼 수 있게 되었다(당초에는 [NHK 위성 제1텔레비전만](https://ko.wikipedia.org/wiki/NHK_위성_제1텔레비전 "wikilink") 방송되었고 오키나와 지역방송은 없었다).
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 스테레오 PCM 디지털 회선이 도입되어 FM방송이 완전히 스테레오화 되었다.
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink")　오키나와 섬 북부 [나고시](https://ko.wikipedia.org/wiki/나고_시 "wikilink") 야가섬에 라디오 제1방송 중계국 개설
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 다른 방송국과의 혼신에 의해 야간 라디오 수신이 곤란했던 이리오모테섬서부 소나이지역에 FM을 이용한 라디오 제1방송 중계국 개설(AM방송을 FM으로 방송하는 것은 일본 최초)
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")　구메섬에 있는 텔레비전 중계국 채널을[VHF](https://ko.wikipedia.org/wiki/VHF "wikilink")에서 [UHF로](https://ko.wikipedia.org/wiki/극초단파 "wikilink") 변경했다.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink")　[다이토 제도에서](https://ko.wikipedia.org/wiki/다이토_제도 "wikilink") 지상파(종합·교육) 텔레비전 방송 개시(통신위성을 이용한 방송으로 도쿄 본국의 프로그램을 방송.)
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [가을](https://ko.wikipedia.org/wiki/가을 "wikilink") 이리오모테섬\~요나구니섬간 텔레비전 송출전파가 SHF 방송으로 바뀌면서 요나구니 중계국 텔레비전 방송채널을 VHF에서 UHF로 변경하고 이리오모테소나이 중계국 텔레비전 방송 출력을 100W에서 30W로 줄인다.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 이리오모테소나이에 라디오 제2방송, 요나구니섬에 라디오 제1방송 2번째 중계국이 FM을 이용해 개국\[9\]
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") 디지털 종합 텔레비전에서 아날로그 동시방송개시.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 6일](https://ko.wikipedia.org/wiki/3월_6일 "wikilink") 신사옥으로 이전.([나하시](https://ko.wikipedia.org/wiki/나하_시 "wikilink"))
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 지상 디지털 방송(종합·교육) 개시(동시에 [원세그](https://ko.wikipedia.org/wiki/원세그 "wikilink") 방송 개시).
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink")　오키나와 방송국 독자적인 원세그 방송 개시.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink")　미나미다이토섬에 라디오 제1방송 중계국이 FM을 이용해 개국
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 지상파 아날로그 텔레비전 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") FM 방송국 카비라 중계국과 타라마 중계국 개국.
+  - [1976년](../Page/1976년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink")　해저 케이블 정식 개통에 의해 미야코·야에야마 지역 텔레비전 방송이 오키나와 본국과 동시 방송이 가능해졌다(미야코 방송국이 히라라 텔레비전 중계국이 되면서 호출부호 JOVQ-TV는 사용이 중단되었다).동시에 미야코·야에야마 지역에 교육텔레비전과 FM방송 개시.
+  - [1977년](../Page/1977년.md "wikilink") FM방송국이 지역방송에 한정해 스테레오 방송을 실시했다.
+  - [1984년](../Page/1984년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink")　방송위성에 의한 위성 시험 방송이 시작되면서 남북 다이토지마에서 텔레비전 방송을 실시간으로 볼 수 있게 되었다(당초에는 [NHK 위성 제1텔레비전만](../Page/NHK_위성_제1텔레비전.md "wikilink") 방송되었고 오키나와 지역방송은 없었다).
+  - [1984년](../Page/1984년.md "wikilink") 스테레오 PCM 디지털 회선이 도입되어 FM방송이 완전히 스테레오화 되었다.
+  - [1986년](../Page/1986년.md "wikilink")　오키나와 섬 북부 [나고시](https://ko.wikipedia.org/wiki/나고_시 "wikilink") 야가섬에 라디오 제1방송 중계국 개설
+  - [1991년](../Page/1991년.md "wikilink") [11월](../Page/11월.md "wikilink") 다른 방송국과의 혼신에 의해 야간 라디오 수신이 곤란했던 이리오모테섬서부 소나이지역에 FM을 이용한 라디오 제1방송 중계국 개설(AM방송을 FM으로 방송하는 것은 일본 최초)
+  - [1995년](../Page/1995년.md "wikilink") [2월](../Page/2월.md "wikilink")　구메섬에 있는 텔레비전 중계국 채널을[VHF](https://ko.wikipedia.org/wiki/VHF "wikilink")에서 [UHF로](../Page/극초단파.md "wikilink") 변경했다.
+  - [1998년](../Page/1998년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink")　[다이토 제도에서](https://ko.wikipedia.org/wiki/다이토_제도 "wikilink") 지상파(종합·교육) 텔레비전 방송 개시(통신위성을 이용한 방송으로 도쿄 본국의 프로그램을 방송.)
+  - [1998년](../Page/1998년.md "wikilink") [가을](../Page/가을.md "wikilink") 이리오모테섬\~요나구니섬간 텔레비전 송출전파가 SHF 방송으로 바뀌면서 요나구니 중계국 텔레비전 방송채널을 VHF에서 UHF로 변경하고 이리오모테소나이 중계국 텔레비전 방송 출력을 100W에서 30W로 줄인다.
+  - [2003년](../Page/2003년.md "wikilink") [10월](../Page/10월.md "wikilink") 이리오모테소나이에 라디오 제2방송, 요나구니섬에 라디오 제1방송 2번째 중계국이 FM을 이용해 개국\[9\]
+  - [2006년](../Page/2006년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") 디지털 종합 텔레비전에서 아날로그 동시방송개시.
+  - [2006년](../Page/2006년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") 신사옥으로 이전.([나하시](https://ko.wikipedia.org/wiki/나하_시 "wikilink"))
+  - [2006년](../Page/2006년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 지상 디지털 방송(종합·교육) 개시(동시에 [원세그](../Page/원세그.md "wikilink") 방송 개시).
+  - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink")　오키나와 방송국 독자적인 원세그 방송 개시.
+  - [2007년](../Page/2007년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink")　미나미다이토섬에 라디오 제1방송 중계국이 FM을 이용해 개국
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 지상파 아날로그 텔레비전 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") FM 방송국 카비라 중계국과 타라마 중계국 개국.
 
-## [오키나와현](https://ko.wikipedia.org/wiki/오키나와현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [오키나와현](../Page/오키나와현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
   - [류큐 방송](../Page/류큐_방송.md "wikilink")(RBC)(TV는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열,라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink") 계열이며 라디오 부문은 현재 분사화하여 **RBCi라디오**로 불림)
-  - [오키나와 TV 방송](../Page/오키나와_TV_방송.md "wikilink")(OTV) ([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열)
+  - [오키나와 TV 방송](../Page/오키나와_TV_방송.md "wikilink")(OTV) ([후지 TV](../Page/후지_TV.md "wikilink") 계열)
   - [류큐아사히 방송](https://ko.wikipedia.org/wiki/류큐아사히_방송 "wikilink")(QAB）([TV 아사히계열](../Page/TV_아사히.md "wikilink"))
-  - [FM오키나와](https://ko.wikipedia.org/wiki/FM오키나와 "wikilink") ([JFN](https://ko.wikipedia.org/wiki/JFN "wikilink")계열)
+  - [FM오키나와](https://ko.wikipedia.org/wiki/FM오키나와 "wikilink") ([JFN](../Page/JFN.md "wikilink")계열)
   - [라디오 오키나와](../Page/라디오_오키나와.md "wikilink")（ROK）([NRN](../Page/NRN.md "wikilink")계열)
 
 ## 각주
@@ -129,11 +129,11 @@
 [분류:NHK의 방송국](https://ko.wikipedia.org/wiki/분류:NHK의_방송국 "wikilink")
 
 1.  [도미구스쿠 시가](https://ko.wikipedia.org/wiki/도미구스쿠_시 "wikilink") 세워지기 전인 도미구스쿠 정 시대에는 NHK 방송국 중 유일하게 정단위 행정구역에 있는 방송국이었으나 [나하 시로](https://ko.wikipedia.org/wiki/나하_시 "wikilink") 이전한 지금 옛 사옥은 **NHK 도미구스쿠 방송소**라는 이름으로 송신기능만이 남아 있다.
-2.  오키나와섬의 경우 1984년 3월 17일 까지, [사키시마 제도에서는](https://ko.wikipedia.org/wiki/사키시마_제도 "wikilink") 1993년 12월 15일 까지 NHK 단독 텔레비전 중계국이 존재한 적이 있었다.
-3.  [NHK 종합 텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink")·JOAK-TV와 [NHK 교육 텔레비전](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink")·JOAB-TV
+2.  오키나와섬의 경우 1984년 3월 17일 까지, [사키시마 제도에서는](../Page/사키시마_제도.md "wikilink") 1993년 12월 15일 까지 NHK 단독 텔레비전 중계국이 존재한 적이 있었다.
+3.  [NHK 종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink")·JOAK-TV와 [NHK 교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink")·JOAB-TV
 4.  저작권 문제로 재전송이 불가능한 프로그램과 오키나와 방송국이나 규슈지역 방송국 제작 프로그램은 들을 수 없다.
 5.  당시에는 오키나와가 미군정 지배하에 있었기 때문에 1972년 5월 15일 전까지 해외지국 취급을 받았다.
-6.  (스모 대회나 고교야구는 하루 늦게, [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 방송하는 [홍백가합전](https://ko.wikipedia.org/wiki/홍백가합전 "wikilink")은 [1월 1일에](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 방송되고 있었으며 복귀 후 개국한 AM라디오는 오키나와 본방송국과 동시 방송이었다
+6.  (스모 대회나 고교야구는 하루 늦게, [12월 31일](../Page/12월_31일.md "wikilink") 방송하는 [홍백가합전](https://ko.wikipedia.org/wiki/홍백가합전 "wikilink")은 [1월 1일에](../Page/1월_1일.md "wikilink") 방송되고 있었으며 복귀 후 개국한 AM라디오는 오키나와 본방송국과 동시 방송이었다
 7.  미야코섬·이시가키섬에도 중계국을 개설해, 오키나와 본국과 동시 방송을 실시했다.
 8.  미나미다이토섬에 방송 시험국을 설치했으며(호출 부호 JO7D-TV) 당시 하루 2시간 오키나와섬에서 가져온 비디오를 방송했다.
 9.  라디오 제2방송 중계국은 1972년 오키나와 방송국이 오키나와 섬(중심국 소재지)·미야코섬·이시가키섬에 개설한 이래 31년 만에 설치된 중계국이다.

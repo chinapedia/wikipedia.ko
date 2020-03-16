@@ -14,7 +14,7 @@ LDAP의 현재 버전은 LDAPv3이다.
 클라이언트는 다음의 작업을 요청할 수 있다:
 
   - StartTLS — 보안 접속을 위해 LDAPv3 [TLS](https://ko.wikipedia.org/wiki/TLS "wikilink") 확장을 사용한다
-  - Bind — LDAP 프로토콜 버전의 [인증](https://ko.wikipedia.org/wiki/인증 "wikilink") 및 지정한다
+  - Bind — LDAP 프로토콜 버전의 [인증](../Page/인증.md "wikilink") 및 지정한다
   - Search — 디렉터리 엔트리의 검색 및 확인한다
   - Compare — 명명된 엔트리가 주어진 특성 값을 포함하는지 시험한다
   - 새로운 엔트리를 추가한다
@@ -27,14 +27,14 @@ LDAP의 현재 버전은 LDAPv3이다.
 
 ## URI 스킴
 
-클라이언트가 다양한 정도로 지원하는 LDAP [URI](https://ko.wikipedia.org/wiki/통합_자원_식별자 "wikilink") 스킴이 있으며 서버는 참조에 의거하여 반환한다. (RFC 4516 참고)
+클라이언트가 다양한 정도로 지원하는 LDAP [URI](../Page/통합_자원_식별자.md "wikilink") 스킴이 있으며 서버는 참조에 의거하여 반환한다. (RFC 4516 참고)
 
 <ldap://host:port/DN?attributes?scope?filter?extensions>
 
 ## 같이 보기
 
   - [디렉터리 서비스](https://ko.wikipedia.org/wiki/디렉터리_서비스 "wikilink")
-  - [X.500](https://ko.wikipedia.org/wiki/X.500 "wikilink")
+  - [X.500](../Page/X.500.md "wikilink")
 
 ## 더 읽기
 

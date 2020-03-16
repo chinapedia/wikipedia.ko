@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Big Fat Cat ](https://ko.wikipedia.org/wiki/Big_Fat_Cat_).
 
 
-**Big Fat Cat**, 줄여서 **BFC**는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [무코야마 아츠코가](https://ko.wikipedia.org/wiki/무코야마_아츠코 "wikilink") 개발한 영어공부법이며, 아울러 [무코야마 다카이코가](https://ko.wikipedia.org/wiki/무코야마_다카이코 "wikilink") 이 공부법을 바탕으로 쓴 영어 이야기를 말하기도 한다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 윌북에서 영어공부법 원리를 설명한 《Big Fat Cat의 세계에서 제일 간단한 영어책》이 출판되었고, [무코야마 다카이코가](https://ko.wikipedia.org/wiki/무코야마_다카이코 "wikilink") 쓴 이야기책도 같은 출판사에서 출판되었다. 공부법 책과 이야기책 모두 [다카시마 데츠오가](https://ko.wikipedia.org/wiki/다카시마_데츠오 "wikilink") 삽화를 그렸다.
+**Big Fat Cat**, 줄여서 **BFC**는 [일본](../Page/일본.md "wikilink")의 [무코야마 아츠코가](https://ko.wikipedia.org/wiki/무코야마_아츠코 "wikilink") 개발한 영어공부법이며, 아울러 [무코야마 다카이코가](https://ko.wikipedia.org/wiki/무코야마_다카이코 "wikilink") 이 공부법을 바탕으로 쓴 영어 이야기를 말하기도 한다. [대한민국](../Page/대한민국.md "wikilink")에서는 윌북에서 영어공부법 원리를 설명한 《Big Fat Cat의 세계에서 제일 간단한 영어책》이 출판되었고, [무코야마 다카이코가](https://ko.wikipedia.org/wiki/무코야마_다카이코 "wikilink") 쓴 이야기책도 같은 출판사에서 출판되었다. 공부법 책과 이야기책 모두 [다카시마 데츠오가](https://ko.wikipedia.org/wiki/다카시마_데츠오 "wikilink") 삽화를 그렸다.
 
 ## 이야기책
 

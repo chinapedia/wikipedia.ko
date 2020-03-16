@@ -1,54 +1,54 @@
 > This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
 
 
-**KBS대구방송총국**(KBS大邱放送總局)은 [대구광역시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink")·[경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 중서남부지역을 대상으로 하는 [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink")의 지역방송총국이다. [KBS안동방송국](https://ko.wikipedia.org/wiki/KBS안동방송국 "wikilink")과 [KBS포항방송국](https://ko.wikipedia.org/wiki/KBS포항방송국 "wikilink")을 하부에 두고 있다.
+**KBS대구방송총국**(KBS大邱放送總局)은 [대구광역시](../Page/대구광역시.md "wikilink")·[경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 중서남부지역을 대상으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. [KBS안동방송국](../Page/KBS안동방송국.md "wikilink")과 [KBS포항방송국](../Page/KBS포항방송국.md "wikilink")을 하부에 두고 있다.
 
 ## 개요
 
-1939년 조선방송협회 대구방송국으로 개국하였고, [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 12월 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공사 직제개편으로 KBS 대구방송총국으로 승격되었다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 12월에 동구 신천3동(현재의 솔렌스힐 아파트 자리)에서 [수성구](https://ko.wikipedia.org/wiki/수성구 "wikilink") 범어4동으로 이전하여 사옥을 준공했다. 보도, 지역 현안, 지역민 문제에 대한 시사·교양적 프로그램을 자체 제작하여 편성하고 있으며, 대부분의 방송은 KBS본사의 프로그램을 릴레이하여 편성한다.
+1939년 조선방송협회 대구방송국으로 개국하였고, [1986년](../Page/1986년.md "wikilink") 12월 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공사 직제개편으로 KBS 대구방송총국으로 승격되었다. [2002년](../Page/2002년.md "wikilink") 12월에 동구 신천3동(현재의 솔렌스힐 아파트 자리)에서 [수성구](../Page/수성구.md "wikilink") 범어4동으로 이전하여 사옥을 준공했다. 보도, 지역 현안, 지역민 문제에 대한 시사·교양적 프로그램을 자체 제작하여 편성하고 있으며, 대부분의 방송은 KBS본사의 프로그램을 릴레이하여 편성한다.
 
 ## 연혁
 
-  - [1939년](https://ko.wikipedia.org/wiki/1939년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") : 대구 출장소 개소
-  - [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") : 대구 방송국 승격
-  - [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") : 김천 중계소 개소
-  - [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") : 경산 송신소 개소
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [4월 28일](https://ko.wikipedia.org/wiki/4월_28일 "wikilink") : 팔공산 중계소 개소
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [9월 13일](https://ko.wikipedia.org/wiki/9월_13일 "wikilink") : 표준 FM방송 실시
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") : 신천동 사옥 준공
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [5월 9일](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") : 영일 송신소 개소
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [6월 2일](https://ko.wikipedia.org/wiki/6월_2일 "wikilink") : 구미 중계소 개소
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") : 1TV 로컬방송 실시
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") : 2TV 로컬방송 실시, [한국FM](https://ko.wikipedia.org/wiki/한국FM "wikilink")(HLCB, 89.7㎒) 인수 합병 이후, KBS 대구 FM(HLKG-FM)으로 개칭
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink") : 2TV 로컬방송 실시
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") : 2R 로컬방송 실시
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") : 대구 방송 총국으로 승격
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") : 김천(중) 자동화 완료
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink") : 구미 방송 센터 개소
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") : 대구 총국 신청사 기공식
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") : 2라디오 FM방송 개국(HLQH-SFM, 102.3㎒) 대구·경북 55분 KBS 교통정보 신설.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") : 대구방송총국 현사옥 준공(대구시 수성구 범어동 245번지)
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") : 구미중계소(95.9.30자동화) 철수
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink") : 대구방송총국 현사옥 준공식
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") : 팔공산 송신소 1,2DTV 방송 송출 개시
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") : 아나운서 지역순환근무제 실시
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 16일](https://ko.wikipedia.org/wiki/2월_16일 "wikilink") : 팔공산 송신소 교육DTV 방송 송출 개시
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") : 지상파 DMB 본방송 실시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 21일](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") : KBS대구 제2라디오 개편에 의해 대구·경북 55분 KBS 교통정보를 대구·경북 57분 교통정보로 변경.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") : DTV 부가서비스 실시 (자막방송, 데이터방송, 5.1ch방송)
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") : 오디오 파일시스템 구축
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : 앞산,구지,화양,하양,수륜 DTVR 방송송출 개시
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : TV제작시설 HD 전환 완료
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 9일](https://ko.wikipedia.org/wiki/5월_9일 "wikilink") : 김천 FMR 방송송출 개시(90.7㎒)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : 경주 DMBR 방송송출 개시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") : 대항 DTVR 방송송출 개시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink") : 김천 제1라디오 중계소 폐소
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink") : 아날로그TV 방송 송출 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : 김천TVR 2R 해피FM 방송시작
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") : 디지털TV 채널재배치 완료
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") : 앞산TVR DMB 방송시작
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") : KBS대구 1TV와 KBS대구 2TV UHD 방송개국.
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") : 달성군 KBS대구 2TV UHD 방송개시.
+  - [1939년](../Page/1939년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") : 대구 출장소 개소
+  - [1950년](../Page/1950년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") : 대구 방송국 승격
+  - [1965년](../Page/1965년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") : 김천 중계소 개소
+  - [1966년](../Page/1966년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") : 경산 송신소 개소
+  - [1971년](../Page/1971년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") : 팔공산 중계소 개소
+  - [1972년](../Page/1972년.md "wikilink") [9월 13일](../Page/9월_13일.md "wikilink") : 표준 FM방송 실시
+  - [1972년](../Page/1972년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") : 신천동 사옥 준공
+  - [1978년](../Page/1978년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") : 영일 송신소 개소
+  - [1978년](../Page/1978년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink") : 구미 중계소 개소
+  - [1978년](../Page/1978년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") : 1TV 로컬방송 실시
+  - [1980년](../Page/1980년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 2TV 로컬방송 실시, [한국FM](https://ko.wikipedia.org/wiki/한국FM "wikilink")(HLCB, 89.7㎒) 인수 합병 이후, KBS 대구 FM(HLKG-FM)으로 개칭
+  - [1983년](../Page/1983년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") : 2TV 로컬방송 실시
+  - [1985년](../Page/1985년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") : 2R 로컬방송 실시
+  - [1986년](../Page/1986년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") : 대구 방송 총국으로 승격
+  - [1995년](../Page/1995년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") : 김천(중) 자동화 완료
+  - [1997년](../Page/1997년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") : 구미 방송 센터 개소
+  - [1999년](../Page/1999년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") : 대구 총국 신청사 기공식
+  - [2001년](../Page/2001년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") : 2라디오 FM방송 개국(HLQH-SFM, 102.3㎒) 대구·경북 55분 KBS 교통정보 신설.
+  - [2002년](../Page/2002년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") : 대구방송총국 현사옥 준공(대구시 수성구 범어동 245번지)
+  - [2002년](../Page/2002년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 구미중계소(95.9.30자동화) 철수
+  - [2002년](../Page/2002년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") : 대구방송총국 현사옥 준공식
+  - [2004년](../Page/2004년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") : 팔공산 송신소 1,2DTV 방송 송출 개시
+  - [2005년](../Page/2005년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") : 아나운서 지역순환근무제 실시
+  - [2005년](../Page/2005년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") : 팔공산 송신소 교육DTV 방송 송출 개시
+  - [2007년](../Page/2007년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 지상파 DMB 본방송 실시
+  - [2008년](../Page/2008년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") : KBS대구 제2라디오 개편에 의해 대구·경북 55분 KBS 교통정보를 대구·경북 57분 교통정보로 변경.
+  - [2008년](../Page/2008년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") : DTV 부가서비스 실시 (자막방송, 데이터방송, 5.1ch방송)
+  - [2010년](../Page/2010년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 오디오 파일시스템 구축
+  - [2010년](../Page/2010년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : 앞산,구지,화양,하양,수륜 DTVR 방송송출 개시
+  - [2010년](../Page/2010년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : TV제작시설 HD 전환 완료
+  - [2011년](../Page/2011년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") : 김천 FMR 방송송출 개시(90.7㎒)
+  - [2012년](../Page/2012년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 경주 DMBR 방송송출 개시
+  - [2012년](../Page/2012년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") : 대항 DTVR 방송송출 개시
+  - [2012년](../Page/2012년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") : 김천 제1라디오 중계소 폐소
+  - [2012년](../Page/2012년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") : 아날로그TV 방송 송출 종료
+  - [2012년](../Page/2012년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : 김천TVR 2R 해피FM 방송시작
+  - [2013년](../Page/2013년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") : 디지털TV 채널재배치 완료
+  - [2013년](../Page/2013년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") : 앞산TVR DMB 방송시작
+  - [2017년](../Page/2017년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") : KBS대구 1TV와 KBS대구 2TV UHD 방송개국.
+  - [2018년](../Page/2018년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") : 달성군 KBS대구 2TV UHD 방송개시.
 
 ### 조직
 
@@ -170,7 +170,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스광장" title="wikilink">KBS 뉴스광장 대구·경북</a></p></td>
+<td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 대구·경북</a></p></td>
 <td><p>10분</p></td>
 <td><p>평일 오전 7시 35분 ~ 7시 45분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박은정" title="wikilink">박은정</a></p></td>
@@ -188,7 +188,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/김상배" title="wikilink">김상배</a>, 이윤정</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7" title="wikilink">KBS 뉴스 7 대구·경북</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 대구·경북</a></p></td>
 <td><p>5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이윤정" title="wikilink">이윤정</a></p></td>
@@ -207,7 +207,7 @@
 
 #### TV 프로그램
 
-  - 모든방송은 HD기준인 동시에 지역총국은 DMB방송을 하지않으며 [6시 내고향은](https://ko.wikipedia.org/wiki/6시_내고향 "wikilink") 월\~목요일사이에 네트워크 제작을 한다.
+  - 모든방송은 HD기준인 동시에 지역총국은 DMB방송을 하지않으며 [6시 내고향은](../Page/6시_내고향.md "wikilink") 월\~목요일사이에 네트워크 제작을 한다.
 
 <table>
 <thead>
@@ -289,15 +289,15 @@
 | [KBS대구 아나운서](http://daegu.kbs.co.kr/index.html?sname=localmain) |
 | --------------------------------------------------------------- |
 | 입사연도                                                            |
-| [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink")         |
-| [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")         |
-| [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink")         |
-| [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")         |
-| [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")         |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")         |
-| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")         |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink")         |
-| [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink")         |
+| [1981년](../Page/1981년.md "wikilink")                            |
+| [1985년](../Page/1985년.md "wikilink")                            |
+| [1988년](../Page/1988년.md "wikilink")                            |
+| [1994년](../Page/1994년.md "wikilink")                            |
+| [1998년](../Page/1998년.md "wikilink")                            |
+| [2010년](../Page/2010년.md "wikilink")                            |
+| [2014년](../Page/2014년.md "wikilink")                            |
+| [2019년](../Page/2019년.md "wikilink")                            |
+| [2020년](../Page/2020년.md "wikilink")                            |
 
 ## 전직 아나운서
 
@@ -308,12 +308,12 @@
   - [김세용](https://ko.wikipedia.org/wiki/김세용 "wikilink")(1983\~1985, 전 MBC 기자, 현 원주MBC사장)
   - [김흥수](https://ko.wikipedia.org/wiki/김흥수_\(아나운서\) "wikilink")(1985\~2000, 전 KBS 서울본국)
   - [김연선](https://ko.wikipedia.org/wiki/김연선 "wikilink")(1995\~1996, 현 KBS 대전총국)
-  - [서기철](https://ko.wikipedia.org/wiki/서기철 "wikilink")(2001\~2002, 현 KBS 서울본국)
+  - [서기철](../Page/서기철.md "wikilink")(2001\~2002, 현 KBS 서울본국)
   - [조우종](https://ko.wikipedia.org/wiki/조우종 "wikilink")(2005\~2006, 전 KBS 서울본국, 현 MC)
-  - [전현무](https://ko.wikipedia.org/wiki/전현무 "wikilink")(2006\~2007, 전 KBS 서울본국, 현 MC)
-  - [오언종](https://ko.wikipedia.org/wiki/오언종 "wikilink")(2007\~2008, 현 KBS 서울본국)
-  - [김승휘](https://ko.wikipedia.org/wiki/김승휘 "wikilink")(2008\~2009, 현 KBS 서울본국)
-  - [도경완](https://ko.wikipedia.org/wiki/도경완 "wikilink")(2009\~2010, 현 KBS 서울본국)
+  - [전현무](../Page/전현무.md "wikilink")(2006\~2007, 전 KBS 서울본국, 현 MC)
+  - [오언종](../Page/오언종.md "wikilink")(2007\~2008, 현 KBS 서울본국)
+  - [김승휘](../Page/김승휘.md "wikilink")(2008\~2009, 현 KBS 서울본국)
+  - [도경완](../Page/도경완.md "wikilink")(2009\~2010, 현 KBS 서울본국)
   - [강승화](../Page/강승화.md "wikilink")(2013\~2014, 현 KBS 서울본국)
   - [이종태](https://ko.wikipedia.org/wiki/이종태_\(아나운서\) "wikilink")(1987\~2010, 현 퇴사)
   - [정현조](https://ko.wikipedia.org/wiki/정현조_\(방송인\) "wikilink")(1987\~2010, 현 퇴사)
@@ -324,7 +324,7 @@
 
   - [문경자](https://ko.wikipedia.org/wiki/문경자 "wikilink")(1986\~2005, 현 퇴사)
   - [한효연](https://ko.wikipedia.org/wiki/한효연 "wikilink")(2005\~2011, 현 퇴사)
-  - [정세진](https://ko.wikipedia.org/wiki/정세진 "wikilink")(2017, 현 KBS 서울본국)
+  - [정세진](../Page/정세진.md "wikilink")(2017, 현 KBS 서울본국)
   - [박지원](../Page/박지원_\(아나운서\).md "wikilink")(2018\~2019, 현 KBS 서울본국)
 
 ## 리포터
@@ -351,9 +351,9 @@
   - [김도훈](https://ko.wikipedia.org/wiki/김도훈 "wikilink")
   - [류재현](https://ko.wikipedia.org/wiki/류재현 "wikilink")
   - [정혜미](https://ko.wikipedia.org/wiki/정혜미 "wikilink")
-  - [신주현](https://ko.wikipedia.org/wiki/신주현 "wikilink")
+  - [신주현](../Page/신주현.md "wikilink")
   - [오아영](https://ko.wikipedia.org/wiki/오아영 "wikilink")
-  - [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink")
+  - [박진영](../Page/박진영.md "wikilink")
   - [이지은](https://ko.wikipedia.org/wiki/이지은 "wikilink")
   - [김지홍](https://ko.wikipedia.org/wiki/김지홍 "wikilink")
 
@@ -365,7 +365,7 @@
 ## 현직 촬영 기자
 
   - [김익수](https://ko.wikipedia.org/wiki/김익수 "wikilink") 포항
-  - [이광호](https://ko.wikipedia.org/wiki/이광호 "wikilink")
+  - [이광호](../Page/이광호.md "wikilink")
   - [김석현](https://ko.wikipedia.org/wiki/김석현 "wikilink")
   - [박순고](https://ko.wikipedia.org/wiki/박순고 "wikilink")
   - [백창민](https://ko.wikipedia.org/wiki/백창민 "wikilink")
@@ -385,7 +385,7 @@
   - [cpbc대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink")
   - [BBS대구불교방송](../Page/대구불교방송.md "wikilink")
   - [WBS대구원음방송](../Page/대구원음방송.md "wikilink")
-  - [TBN대구교통방송](https://ko.wikipedia.org/wiki/대구교통방송 "wikilink")
+  - [TBN대구교통방송](../Page/대구교통방송.md "wikilink")
   - [대구CBS](https://ko.wikipedia.org/wiki/기독교방송 "wikilink")
   - [성서공동체FM](https://ko.wikipedia.org/wiki/성서공동체FM "wikilink")
   - [대구국악방송](../Page/국악방송.md "wikilink")

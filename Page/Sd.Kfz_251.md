@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Sd.Kfz 251](https://ko.wikipedia.org/wiki/Sd.Kfz_251).
 
 
-**251번 특수목적차량**()은 [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 중에 [나치 독일의](https://ko.wikipedia.org/wiki/나치_독일 "wikilink") [하노마크](https://ko.wikipedia.org/wiki/하노마크 "wikilink")사에서 설계하고 생산한 [장갑 전투 차량이다](https://ko.wikipedia.org/wiki/장갑_전투_차량 "wikilink"). 연합군과 독일군 모두 그냥 제조사 이름을 따서 "**하노마크**"()라고 불렀다.
+**251번 특수목적차량**()은 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 중에 [나치 독일의](../Page/나치_독일.md "wikilink") [하노마크](https://ko.wikipedia.org/wiki/하노마크 "wikilink")사에서 설계하고 생산한 [장갑 전투 차량이다](https://ko.wikipedia.org/wiki/장갑_전투_차량 "wikilink"). 연합군과 독일군 모두 그냥 제조사 이름을 따서 "**하노마크**"()라고 불렀다.
 
-초기형은 [1939년](https://ko.wikipedia.org/wiki/1939년 "wikilink") [1 기갑사단](https://ko.wikipedia.org/wiki/독일_1_기갑사단 "wikilink")(German 1st Panzer Division)에 배정되었다. 주 생산형은 A에서 D까지 네가지가 있었으며, 여기에서 다시 22가지로 갈라진다. 최초 고안 목적은 적의 소화기 공격과 포격으로부터 보호하면서 보병 부대를 전장으로 수송할 수 있는 차량이었다. 그러나 개방된 천정은 탑승원이 여전히 공격, 특히 고폭탄과 포탄의 파편에 취약함을 의미했다.
+초기형은 [1939년](../Page/1939년.md "wikilink") [1 기갑사단](https://ko.wikipedia.org/wiki/독일_1_기갑사단 "wikilink")(German 1st Panzer Division)에 배정되었다. 주 생산형은 A에서 D까지 네가지가 있었으며, 여기에서 다시 22가지로 갈라진다. 최초 고안 목적은 적의 소화기 공격과 포격으로부터 보호하면서 보병 부대를 전장으로 수송할 수 있는 차량이었다. 그러나 개방된 천정은 탑승원이 여전히 공격, 특히 고폭탄과 포탄의 파편에 취약함을 의미했다.
 
 초기 두 생산형은 소량만이 생산되었다. C형은 더 많은 수가 제작되었으나, 소총탄 보호를 위한 각진 금속판이 많이 쓰여 제작하기가 복잡했다. D형의 설계는 보다 단순하였으며 기울어진 뒷면으로 쉽게 식별된다.
 
@@ -21,12 +21,12 @@
 
   - **Sdkfz 251/1** - *Schutzenpanzerwagen*. 표준형 병력 수송 장갑차.
       - 251/1-I - 251/1과 똑같지만, 내부 통신장비를 갖췄다.
-      - 251/1-II - 로켓 발사기형이다. 일명 "걸어다니는 수투카"("Stuka zu Fuß") 또는 [부르프라멘 40이라](https://ko.wikipedia.org/wiki/부르프라멘_40 "wikilink") 불렸다. 이 차량은 280 mm 또는 320mm [부르크쾨퍼 로켓을](https://ko.wikipedia.org/wiki/부르크쾨퍼_로켓 "wikilink") 차체 측면에 6기를 장착했다.
+      - 251/1-II - 로켓 발사기형이다. 일명 "걸어다니는 수투카"("Stuka zu Fuß") 또는 [부르프라멘 40이라](../Page/부르프라멘_40.md "wikilink") 불렸다. 이 차량은 280 mm 또는 320mm [부르크쾨퍼 로켓을](https://ko.wikipedia.org/wiki/부르크쾨퍼_로켓 "wikilink") 차체 측면에 6기를 장착했다.
       - SdKfz 251/1 - *Falke* SdKfz 251/20 우후와 함께 작전했으며, 적외선 감지 장치를 장착했다.
 
 <!-- end list -->
 
-  - **Sdkfz 251/2** - *Schutzenpanzerwagen (Granatwerfer)*. 81 mm [박격포](https://ko.wikipedia.org/wiki/박격포 "wikilink") 장착 차량
+  - **Sdkfz 251/2** - *Schutzenpanzerwagen (Granatwerfer)*. 81 mm [박격포](../Page/박격포.md "wikilink") 장착 차량
 
 <!-- end list -->
 
@@ -121,7 +121,7 @@
 
 <!-- end list -->
 
-  - **OT-810** - [체코슬로바키아](https://ko.wikipedia.org/wiki/체코슬로바키아 "wikilink")에서 생산한 모델이다. 이 차량은 공랭식 디젤 엔진을 장비했으며 보병 탑승 공간에 장갑 지붕을 얹었다. 이 차량은 좋은 평가를 받지 못했으며, "히틀러의 복수"라는 별명이 붙었다. 생산은 [타트라](https://ko.wikipedia.org/wiki/타트라_\(자동차\) "wikilink") 사와 [프라가 호스티발](https://ko.wikipedia.org/wiki/프라가_호스티발 "wikilink") 사에서 이뤄졌다.
+  - **OT-810** - [체코슬로바키아](../Page/체코슬로바키아.md "wikilink")에서 생산한 모델이다. 이 차량은 공랭식 디젤 엔진을 장비했으며 보병 탑승 공간에 장갑 지붕을 얹었다. 이 차량은 좋은 평가를 받지 못했으며, "히틀러의 복수"라는 별명이 붙었다. 생산은 [타트라](https://ko.wikipedia.org/wiki/타트라_\(자동차\) "wikilink") 사와 [프라가 호스티발](https://ko.wikipedia.org/wiki/프라가_호스티발 "wikilink") 사에서 이뤄졌다.
 
 ## 외부 링크
 

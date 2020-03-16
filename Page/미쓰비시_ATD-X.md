@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ ATD-X](https://ko.wikipedia.org/wiki/_ATD-X).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Mitsubishi_Advanced_Technological_Demonstrator_X-2\(51-0001\)_cockpit_right_side_view_at_JASDF_Gifu_Air_Base_October_30,_2016.jpg "wikilink") **미쓰비시 ATD-X 신신**(, )은 일본 [미쓰비시 중공업](https://ko.wikipedia.org/wiki/미쓰비시_중공업 "wikilink")(三菱重工業)이 개발 중인 F-3 스텔스 전투기의 기술 실증기이다. 요즘엔 **미쓰비시 X-2**라고 부른다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Mitsubishi_Advanced_Technological_Demonstrator_X-2\(51-0001\)_cockpit_right_side_view_at_JASDF_Gifu_Air_Base_October_30,_2016.jpg "wikilink") **미쓰비시 ATD-X 신신**(, )은 일본 [미쓰비시 중공업](../Page/미쓰비시_중공업.md "wikilink")(三菱重工業)이 개발 중인 F-3 스텔스 전투기의 기술 실증기이다. 요즘엔 **미쓰비시 X-2**라고 부른다.
 
 ## 역사
 
-해당 기술연구본부에서 현재 **선진기술실증기**(先進技術實証機, Advanced Technological Demonstrator-X, **ATD-X**)라 칭하며 연구개발 중이며, 후에 실운용을 통하여 [5세대 전투기로](https://ko.wikipedia.org/wiki/5세대_전투기 "wikilink") 사용할 수 있는지의 여부를 일본 순수기술만을 바탕으로 실증 및 확인을 하기 위한 기체라고 할 수 있다. 5세대가 아닌, 6세대 전투기 개발을 목적으로 하고 있다.
+해당 기술연구본부에서 현재 **선진기술실증기**(先進技術實証機, Advanced Technological Demonstrator-X, **ATD-X**)라 칭하며 연구개발 중이며, 후에 실운용을 통하여 [5세대 전투기로](../Page/5세대_전투기.md "wikilink") 사용할 수 있는지의 여부를 일본 순수기술만을 바탕으로 실증 및 확인을 하기 위한 기체라고 할 수 있다. 5세대가 아닌, 6세대 전투기 개발을 목적으로 하고 있다.
 
-현재, 일본 방위성은 [중국 공군력을](https://ko.wikipedia.org/wiki/중국_공군 "wikilink") 비롯한 외부의 위협에 대처하기 위해 6년 내에 스텔스 전투기 개발을 완료하겠다는 목표를 세웠으며, '신신(心神)'이라는 비공식 명칭이 붙은 본 프로젝트는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 공식 출범하기로 예정되었다. 총 466억 엔이 들어갈 것으로 보이는 이 프로젝트를 위해 방위성은 2008년의 프로젝트 첫 해 예산으로 157억 엔을 청구한 상태이다. 전투기가 적군 레이다에는 포착되지 않으면서 더욱 강화된 탐지 기능과 기동성을 갖추기 위한 관건은 **XF5-1** 엔진 개발에 달린 것으로 알려져 있다. 일본의 독자 전투기 개발은 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")의 [미쓰비시 F-1](https://ko.wikipedia.org/wiki/미쓰비시_F-1 "wikilink") 지원전투기 이후 개발 중이다.
+현재, 일본 방위성은 [중국 공군력을](https://ko.wikipedia.org/wiki/중국_공군 "wikilink") 비롯한 외부의 위협에 대처하기 위해 6년 내에 스텔스 전투기 개발을 완료하겠다는 목표를 세웠으며, '신신(心神)'이라는 비공식 명칭이 붙은 본 프로젝트는 [2008년](../Page/2008년.md "wikilink") [4월](../Page/4월.md "wikilink") 공식 출범하기로 예정되었다. 총 466억 엔이 들어갈 것으로 보이는 이 프로젝트를 위해 방위성은 2008년의 프로젝트 첫 해 예산으로 157억 엔을 청구한 상태이다. 전투기가 적군 레이다에는 포착되지 않으면서 더욱 강화된 탐지 기능과 기동성을 갖추기 위한 관건은 **XF5-1** 엔진 개발에 달린 것으로 알려져 있다. 일본의 독자 전투기 개발은 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")의 [미쓰비시 F-1](../Page/미쓰비시_F-1.md "wikilink") 지원전투기 이후 개발 중이다.
 
 ### 형상
 
@@ -77,7 +77,7 @@ AESA 레이다가 탑재될 것으로 보인다. 첨단 4.5세대 전투기인 F
   - **날개폭:** 9.099 m (29 ft 10 in)
   - **높이:** 4.514 m (14 ft 10 in)
   - **체공중량:** 9,700 kg (21,385 lb)
-  - **엔진:** 2 × [IHI XF5-1](https://ko.wikipedia.org/wiki/IHI_XF5-1 "wikilink") low-bypass [터보팬](https://ko.wikipedia.org/wiki/터보팬 "wikilink") dry, 48.03 kN (11,023 lbf) [애프터버너](https://ko.wikipedia.org/wiki/애프터버너 "wikilink")
+  - **엔진:** 2 × [IHI XF5-1](https://ko.wikipedia.org/wiki/IHI_XF5-1 "wikilink") low-bypass [터보팬](../Page/터보팬.md "wikilink") dry, 48.03 kN (11,023 lbf) [애프터버너](https://ko.wikipedia.org/wiki/애프터버너 "wikilink")
   - **최대속도:** Mach 2.25 (Mach 1.82 [슈퍼크루즈](https://ko.wikipedia.org/wiki/슈퍼크루즈 "wikilink"))
   - **거리:** 2,900 km (1,802 mi; 1,566 nmi)
   - **전투반경:** 761 km (473 mi; 411 nmi)
@@ -88,7 +88,7 @@ AESA 레이다가 탑재될 것으로 보인다. 첨단 4.5세대 전투기인 F
   - [스텔스](https://ko.wikipedia.org/wiki/스텔스 "wikilink")
   - [일본 항공자위대](https://ko.wikipedia.org/wiki/일본_항공자위대 "wikilink")
   - [선양 J-XX](https://ko.wikipedia.org/wiki/선양_J-XX "wikilink")(Shenyang J-XX)
-  - [청두 J-20](https://ko.wikipedia.org/wiki/청두_J-20 "wikilink")(Chengdu J-20)
+  - [청두 J-20](../Page/청두_J-20.md "wikilink")(Chengdu J-20)
   - [대한민국 차세대전투기 사업](https://ko.wikipedia.org/wiki/대한민국_차세대전투기_사업 "wikilink")(KFX)
   - <http://www.geronimo.jp/sky/00_page/mani_05_sinsin.htm>
 

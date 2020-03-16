@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USB    ](https://ko.wikipedia.org/wiki/USB____).
 
 
-**USB 대용량 저장소 장치 유형**(USB mass-storage device class, USB MSC)은 [USB](https://ko.wikipedia.org/wiki/USB "wikilink")에 관련된 USB 인플리멘터스 포럼(Implementers Forum)이 규정한 컴퓨팅 [통신 프로토콜이다](https://ko.wikipedia.org/wiki/통신_프로토콜 "wikilink"). 이 표준은 다양한 저장매체에 대한 인터페이스를 제공한다. 이 표준을 지원하는 장치들을 대용량 저장소 유형(MSC) 장치라고 한다. MSC가 공식 머리글이지만, 온라인 은어로 UMS(Universal Mass Storage)라는 머리글을 사용하고 있다.
+**USB 대용량 저장소 장치 유형**(USB mass-storage device class, USB MSC)은 [USB](../Page/USB.md "wikilink")에 관련된 USB 인플리멘터스 포럼(Implementers Forum)이 규정한 컴퓨팅 [통신 프로토콜이다](../Page/통신_프로토콜.md "wikilink"). 이 표준은 다양한 저장매체에 대한 인터페이스를 제공한다. 이 표준을 지원하는 장치들을 대용량 저장소 유형(MSC) 장치라고 한다. MSC가 공식 머리글이지만, 온라인 은어로 UMS(Universal Mass Storage)라는 머리글을 사용하고 있다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:USB_flash_drive.jpg "wikilink") - USB 대용량 장치 계열 기능이 추가되어 있다.\]\]
 
@@ -20,7 +20,7 @@
 
 ## 장치 접근
 
-USB 대용량 저장소 장치 유형은 연결되는 장치에서 사용되는 [파일 시스템을](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") 특정하고 있지는 않고, 대신 하드 디스크의 낮은 수준의 인터페이스처럼 데이터를 섹터 단위로 읽고 쓰는 수준의 단순한 인터페이스만을 규정한다. 따라서 운영 체제는 USB 드라이브를 하드 드라이브처럼 다룰 수 있고 그들이 운영 체제에서 제공하는 파일 시스템으로 [포맷하는](../Page/디스크_포맷.md "wikilink") 것도 가능한다.
+USB 대용량 저장소 장치 유형은 연결되는 장치에서 사용되는 [파일 시스템을](../Page/파일_시스템.md "wikilink") 특정하고 있지는 않고, 대신 하드 디스크의 낮은 수준의 인터페이스처럼 데이터를 섹터 단위로 읽고 쓰는 수준의 단순한 인터페이스만을 규정한다. 따라서 운영 체제는 USB 드라이브를 하드 드라이브처럼 다룰 수 있고 그들이 운영 체제에서 제공하는 파일 시스템으로 [포맷하는](../Page/디스크_포맷.md "wikilink") 것도 가능한다.
 
 디지털 카메라나, MP3 플레이어와 같은 류의 장치들에서는 FAT 파일시스템이 장치 제조사에 의해 선호된다. 이동성이 좋고 상대적으로 편리하기 때문에 USB 플래시 드라이브, 디지털 카메라, 디지털 오디어 플레이어같은 임베디드 장치에서 가장 보편적인 파일 시스템은 마이크로소프트 사의 [FAT](https://ko.wikipedia.org/wiki/FAT "wikilink")이나 [FAT32이다](../Page/파일_할당_테이블.md "wikilink"). 이런 장치에서 파일 시스템을 변경하면 장치가 동작하지 않을 수도 있으므로, 포맷 방식을 바꾸지 않는 것이 좋다.
 
@@ -34,7 +34,7 @@ USB 대용량 저장소 장치 유형 [인터페이스](https://ko.wikipedia.org
 
 ## 같이 보기
 
-  - [미디어 전송 프로토콜](https://ko.wikipedia.org/wiki/미디어_전송_프로토콜 "wikilink")
+  - [미디어 전송 프로토콜](../Page/미디어_전송_프로토콜.md "wikilink")
   - [USB 플래시 드라이브](../Page/USB_플래시_드라이브.md "wikilink")
 
 ## 외부 링크

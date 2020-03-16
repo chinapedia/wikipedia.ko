@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [CETME](https://ko.wikipedia.org/wiki/CETME).
 
 
-**CETME**(, 세트메)는 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")의 [돌격소총](https://ko.wikipedia.org/wiki/돌격소총 "wikilink")으로, [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 독일의 기술자였던 루드윅 보그리밀러가 시제품만이 존재하는 [StG45를](https://ko.wikipedia.org/wiki/슈트룸게버_45 "wikilink") 기초로 설계하였다. [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [스페인군에](https://ko.wikipedia.org/wiki/스페인의_군사 "wikilink") 정식 채용되기 시작해서 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") G36로 대체될 때까지 쓰였다.
+**CETME**(, 세트메)는 [스페인](../Page/스페인.md "wikilink")의 [돌격소총](../Page/돌격소총.md "wikilink")으로, [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 독일의 기술자였던 루드윅 보그리밀러가 시제품만이 존재하는 [StG45를](https://ko.wikipedia.org/wiki/슈트룸게버_45 "wikilink") 기초로 설계하였다. [1958년](../Page/1958년.md "wikilink") [스페인군에](https://ko.wikipedia.org/wiki/스페인의_군사 "wikilink") 정식 채용되기 시작해서 [1982년](../Page/1982년.md "wikilink") G36로 대체될 때까지 쓰였다.
 
 CETME A 모델이 [헤클러&코흐](https://ko.wikipedia.org/wiki/헤클러&코흐 "wikilink")에서 [G3를](https://ko.wikipedia.org/wiki/헤클러&코흐_G3 "wikilink") 설계할 당시에 참고 모델이 되어, G3의 [탄창](https://ko.wikipedia.org/wiki/탄창 "wikilink")은 CETME와도 호환된다.
 
 ## 대중문화
 
-  - PC Game [폴아웃 3에](https://ko.wikipedia.org/wiki/폴아웃_3 "wikilink") 24발 장전되는 CETME C 소총이 등장한다.
+  - PC Game [폴아웃 3에](../Page/폴아웃_3.md "wikilink") 24발 장전되는 CETME C 소총이 등장한다.
 
 ## 같이 보기
 

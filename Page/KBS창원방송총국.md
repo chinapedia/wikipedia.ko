@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
 
 
-**KBS창원방송총국**(KBS昌原放送總局)은 [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink")의 지역총국 중 하나로 진주지역국 관리와 [경남](https://ko.wikipedia.org/wiki/경남 "wikilink")지역 KBS 방송을 총괄하고 있다. [1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") 사단법인 조선방송협회 마산간이방송소로 개국하여 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 12월 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공사 직제개편으로 KBS창원방송총국으로 승격되었으며, [KBS진주방송국](https://ko.wikipedia.org/wiki/KBS진주방송국 "wikilink")을 하부에 두고 있다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 7월에 사옥을 증축한 뒤 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 2월에 완공하였다.
+**KBS창원방송총국**(KBS昌原放送總局)은 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역총국 중 하나로 진주지역국 관리와 [경남](https://ko.wikipedia.org/wiki/경남 "wikilink")지역 KBS 방송을 총괄하고 있다. [1942년](../Page/1942년.md "wikilink") 사단법인 조선방송협회 마산간이방송소로 개국하여 [1986년](../Page/1986년.md "wikilink") 12월 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공사 직제개편으로 KBS창원방송총국으로 승격되었으며, [KBS진주방송국](../Page/KBS진주방송국.md "wikilink")을 하부에 두고 있다. [2011년](../Page/2011년.md "wikilink") 7월에 사옥을 증축한 뒤 [2013년](../Page/2013년.md "wikilink") 2월에 완공하였다.
 
 ## 개요
 
-[1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") 6월 현재 위치로 이전하였으며, [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 12월 고화질 디지털 방송(HDTV)을 개국하였다. 2011년 10월 10일부터 HD급 화질의 프로그램의 제작을 시작하였으며 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") 지상파 아날로그 방송의 송출을 중단하며 디지털TV방송 시대를 열었다.
+[1987년](../Page/1987년.md "wikilink") 6월 현재 위치로 이전하였으며, [2004년](../Page/2004년.md "wikilink") 12월 고화질 디지털 방송(HDTV)을 개국하였다. 2011년 10월 10일부터 HD급 화질의 프로그램의 제작을 시작하였으며 [2012년](../Page/2012년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") 지상파 아날로그 방송의 송출을 중단하며 디지털TV방송 시대를 열었다.
 
 대부분의 방송은 KBS 본사의 프로그램을 릴레이 하여 편성하고 있으나, 보도, 지역현안, 지역민 문제에 대한 시사교양적 프로그램은 자체제작 하고 있다.
 
@@ -36,7 +36,7 @@
   - 1986년 12월 8일: 공사 직제 개편에 따라 마산방송총국으로 승격
   - 1987년 6월 1일: 창원방송총국으로 명칭 변경. 현재 위치로 이전
   - 1987년 11월 20일: 창원 음악FM방송국 개국, HLAI-FM 93.9㎒ 1㎾
-  - 1990년 11월 16일: [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [NHK 야마구치 방송국과](../Page/NHK_야마구치_방송국.md "wikilink") 자매결연
+  - 1990년 11월 16일: [일본](../Page/일본.md "wikilink") [NHK 야마구치 방송국과](../Page/NHK_야마구치_방송국.md "wikilink") 자매결연
   - 1996년 7월 30일: TV중계차 도입(소형)
   - 1996년 12월 9일: 통영방송센터(TV) 개소
   - 1997년 2월 20일: 개국 55주년 기념 경남 근로자바둑큰잔치 성황리 개최
@@ -172,7 +172,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스광장" title="wikilink">KBS 뉴스광장 경남</a></p></td>
+<td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 경남</a></p></td>
 <td><p>15분</p></td>
 <td><p>평일 오전 7시 35분 ~ 7시 45분</p></td>
 <td><p>곽동휘</p></td>
@@ -184,7 +184,7 @@
 <td><p>신유진</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7" title="wikilink">KBS 뉴스 7 경남</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 경남</a></p></td>
 <td><p>월~목 40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
 <td><p>월~목 이아롬, 김진웅</p></td>
@@ -212,23 +212,23 @@
 </tbody>
 </table>
 
-  - 모든방송은 HD기준인 동시에 지역총국은 DMB방송을 하지않으며 [6시 내고향은](https://ko.wikipedia.org/wiki/6시_내고향 "wikilink") 월\~목요일사이에 네트워크 제작을 한다.
+  - 모든방송은 HD기준인 동시에 지역총국은 DMB방송을 하지않으며 [6시 내고향은](../Page/6시_내고향.md "wikilink") 월\~목요일사이에 네트워크 제작을 한다.
 
 <!-- end list -->
 
   - 프로그램
 
-| 방송 시간      | 프로그램                                                            |
-| ---------- | --------------------------------------------------------------- |
-| 14:10 (월)  | [KBS 창원스페셜](https://ko.wikipedia.org/wiki/KBS_창원스페셜 "wikilink") |
-| 17:30 (평일) | 전국을 달린다                                                         |
-| 17:40 (평일) | [생생투데이 사람과 세상](../Page/생생투데이_사람과_세상.md "wikilink")              |
-| 19:40 (화)  | [감시자들](../Page/감시자들_\(텔레비전_프로그램\).md "wikilink")                |
-| 19:40 (수)  | 고고씽                                                             |
-| 19:40 (수)  | 별의별 중계                                                          |
-| 20:10 (수)  | 우문현답                                                            |
-| 14:40 (금)  | [네트워크 참TV](https://ko.wikipedia.org/wiki/네트워크_참TV "wikilink")   |
-| 19:40 (금)  | 토론 경남                                                           |
+| 방송 시간      | 프로그램                                               |
+| ---------- | -------------------------------------------------- |
+| 14:10 (월)  | [KBS 창원스페셜](../Page/KBS_창원스페셜.md "wikilink")       |
+| 17:30 (평일) | 전국을 달린다                                            |
+| 17:40 (평일) | [생생투데이 사람과 세상](../Page/생생투데이_사람과_세상.md "wikilink") |
+| 19:40 (화)  | [감시자들](../Page/감시자들_\(텔레비전_프로그램\).md "wikilink")   |
+| 19:40 (수)  | 고고씽                                                |
+| 19:40 (수)  | 별의별 중계                                             |
+| 20:10 (수)  | 우문현답                                               |
+| 14:40 (금)  | [네트워크 참TV](../Page/네트워크_참TV.md "wikilink")         |
+| 19:40 (금)  | 토론 경남                                              |
 
 ### 라디오 프로그램
 
@@ -236,13 +236,13 @@
 
   - 뉴스
 
-| 프로그램명                                                      | 방송시간                | 편성시간                                                          | 진행                                                            |
-| ---------------------------------------------------------- | ------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
-| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                                | [곽동휘](https://ko.wikipedia.org/wiki/곽동휘 "wikilink")(TV:평일 제작) |
-| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | 김진웅(TV:평일 제작)                                                 |                                                               |
-| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [이아롬](https://ko.wikipedia.org/wiki/이아롬 "wikilink")(TV:평일 제작) |                                                               |
-| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 오후 6시 \~ 6시 5분                                                | 무작위(TV:주말 제작)                                                 |
-|                                                            |                     |                                                               |                                                               |
+| 프로그램명                                                      | 방송시간                | 편성시간                                       | 진행                                                            |
+| ---------------------------------------------------------- | ------------------- | ------------------------------------------ | ------------------------------------------------------------- |
+| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                             | [곽동휘](https://ko.wikipedia.org/wiki/곽동휘 "wikilink")(TV:평일 제작) |
+| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | 김진웅(TV:평일 제작)                              |                                                               |
+| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [이아롬](../Page/이아롬.md "wikilink")(TV:평일 제작) |                                                               |
+| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 오후 6시 \~ 6시 5분                             | 무작위(TV:주말 제작)                                                 |
+|                                                            |                     |                                            |                                                               |
 
   - 프로그램
 
@@ -256,8 +256,8 @@
 
 <!-- end list -->
 
-  - 즐거운 저녁길 김성수입니다 (평일 18:00\~18:57/19:00\~19:57)(진행 DJ [김성수](https://ko.wikipedia.org/wiki/김성수 "wikilink"))
-  - 프로야구 중계 (진행 [김진웅](https://ko.wikipedia.org/wiki/김진웅 "wikilink"))
+  - 즐거운 저녁길 김성수입니다 (평일 18:00\~18:57/19:00\~19:57)(진행 DJ [김성수](../Page/김성수.md "wikilink"))
+  - 프로야구 중계 (진행 [김진웅](../Page/김진웅.md "wikilink"))
 
 #### 음악FM
 
@@ -269,11 +269,11 @@
 | [KBS창원 아나운서](http://changwon.kbs.co.kr/index.html?sname=localmain) |
 | ------------------------------------------------------------------ |
 | 입사연도                                                               |
-| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")            |
-| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")            |
-| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")            |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink")            |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink")            |
+| [2005년](../Page/2005년.md "wikilink")                               |
+| [2008년](../Page/2008년.md "wikilink")                               |
+| [2014년](../Page/2014년.md "wikilink")                               |
+| [2019년](../Page/2019년.md "wikilink")                               |
+| [2019년](../Page/2019년.md "wikilink")                               |
 |                                                                    |
 
 ## 전직 아나운서
@@ -282,29 +282,29 @@
 
   - 조계식(1993\~1994, 아나운서부장, 전 KBS 부산총국)
   - [김동우](https://ko.wikipedia.org/wiki/김동우_\(아나운서\) "wikilink")(2000\~2001, 아나운서부장, 현 KBS 서울본국)
-  - [김재홍](https://ko.wikipedia.org/wiki/김재홍_\(아나운서\) "wikilink")(2005\~2007, 현 KBS 서울본국)
+  - [김재홍](../Page/김재홍_\(아나운서\).md "wikilink")(2005\~2007, 현 KBS 서울본국)
   - [차재환](https://ko.wikipedia.org/wiki/차재환 "wikilink")(2010\~2014, 현 KBS 부산총국)
   - [김선근](../Page/김선근.md "wikilink")(2014\~2015, 현 KBS 서울본국)
   - [노병무](https://ko.wikipedia.org/wiki/노병무 "wikilink")(1982\~2016, 정년퇴직)
   - [이재성](../Page/이재성_\(1987년\).md "wikilink")(2015\~2017, 현 KBS 서울본국)
-  - [이성민](https://ko.wikipedia.org/wiki/이성민_\(아나운서\) "wikilink")(2017\~2018, 현 KBS 서울본국)
+  - [이성민](../Page/이성민_\(아나운서\).md "wikilink")(2017\~2018, 현 KBS 서울본국)
   - [남현종](https://ko.wikipedia.org/wiki/남현종 "wikilink")(2018\~2019, 현 KBS 서울본국)
   - [신석진](https://ko.wikipedia.org/wiki/신석진 "wikilink")(1985\~2019, 정년퇴직)
 
 ### 여성
 
-  - [최은경](https://ko.wikipedia.org/wiki/최은경_\(방송인\) "wikilink")(1999\~2000, 전 KBS 서울본국, 방송인)
+  - [최은경](../Page/최은경_\(방송인\).md "wikilink")(1999\~2000, 전 KBS 서울본국, 방송인)
   - [문지숙](https://ko.wikipedia.org/wiki/문지숙 "wikilink")(1994\~2004, 퇴사)
   - [백승주](../Page/백승주_\(1976년\).md "wikilink")(2004\~2005, 현 KBS 서울본국)
-  - [고민정](../Page/고민정.md "wikilink")(2004\~2005, 전 KBS 서울본국, [청와대](https://ko.wikipedia.org/wiki/청와대 "wikilink") 대변인)
+  - [고민정](../Page/고민정.md "wikilink")(2004\~2005, 전 KBS 서울본국, [청와대](../Page/청와대.md "wikilink") 대변인)
   - [손윤희](https://ko.wikipedia.org/wiki/손윤희 "wikilink")(1987\~2005, 전 PD, 현 KBS 서울본국)
   - [이정민](../Page/이정민_\(1980년_5월\).md "wikilink")(2005\~2006, 현 KBS 서울본국)
   - [최송현](../Page/최송현.md "wikilink")(2006\~2007, 전 KBS 서울본국, [배우](../Page/배우.md "wikilink"))
-  - [박은영](https://ko.wikipedia.org/wiki/박은영_\(아나운서\) "wikilink")(2007\~2008, 현 KBS 서울본국)
-  - [엄지인](https://ko.wikipedia.org/wiki/엄지인 "wikilink")(2007\~2008, 현 KBS 서울본국)
-  - [정다은](https://ko.wikipedia.org/wiki/정다은_\(아나운서\) "wikilink")(2008\~2009, 현 KBS 서울본국)
+  - [박은영](../Page/박은영_\(아나운서\).md "wikilink")(2007\~2008, 현 KBS 서울본국)
+  - [엄지인](../Page/엄지인.md "wikilink")(2007\~2008, 현 KBS 서울본국)
+  - [정다은](../Page/정다은_\(아나운서\).md "wikilink")(2008\~2009, 현 KBS 서울본국)
   - [김승일](https://ko.wikipedia.org/wiki/김승일_\(아나운서\) "wikilink")(1985\~2009, 현 KBS 창원총국 PD)
-  - [차다혜](https://ko.wikipedia.org/wiki/차다혜 "wikilink")(2009\~2010, 전 KBS 서울본국)
+  - [차다혜](../Page/차다혜.md "wikilink")(2009\~2010, 전 KBS 서울본국)
   - [김지원](../Page/김지원_\(아나운서\).md "wikilink")(2012\~2014, 현 KBS 서울본국)
   - [이지인](https://ko.wikipedia.org/wiki/이지인 "wikilink")(2016\~2017, 현 퇴사)
   - [장예진](https://ko.wikipedia.org/wiki/장예진 "wikilink")(2018\~2019, 현 방송인)

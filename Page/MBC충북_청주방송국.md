@@ -1,55 +1,55 @@
 > This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
 
 
-**MBC충북 청주방송국**(MBC忠北 淸州放送局)은 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 중남부와 [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink"), [세종특별자치시](../Page/세종특별자치시.md "wikilink"), [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") 일부를 가시청권으로 하는 방송사로, [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [10월 23일에](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") 개국하였다. 본사는 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](https://ko.wikipedia.org/wiki/청주시 "wikilink") [흥덕구](https://ko.wikipedia.org/wiki/흥덕구 "wikilink") [가경동](https://ko.wikipedia.org/wiki/가경동 "wikilink")에 위치한다.
+**MBC충북 청주방송국**(MBC忠北 淸州放送局)은 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 중남부와 [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink"), [세종특별자치시](../Page/세종특별자치시.md "wikilink"), [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") 일부를 가시청권으로 하는 방송사로, [1970년](../Page/1970년.md "wikilink") [10월 23일에](../Page/10월_23일.md "wikilink") 개국하였다. 본사는 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink") [흥덕구](../Page/흥덕구.md "wikilink") [가경동](../Page/가경동.md "wikilink")에 위치한다.
 
 ## 연혁
 
 ### 1970년대
 
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") - **충청방송 주식회사** AM 방송 개국 (호출부호 HLAX, 1287㎑, 10㎾)
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") - 상호를 **충청방송 주식회사**에서 **청주문화방송 주식회사**로 상호변경.
+  - [1970년](../Page/1970년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") - **충청방송 주식회사** AM 방송 개국 (호출부호 HLAX, 1287㎑, 10㎾)
+  - [1971년](../Page/1971년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - 상호를 **충청방송 주식회사**에서 **청주문화방송 주식회사**로 상호변경.
 
 ### 1980년대
 
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") - TV 방송 개국 (CH33, 5㎾)
-  - 1983년 [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") - FM 방송 개국 (99.7㎒, 1㎾)
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [5월 6일](https://ko.wikipedia.org/wiki/5월_6일 "wikilink") - 금적산TV중계소 개국 (CH 46, 500W)
+  - [1983년](../Page/1983년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") - TV 방송 개국 (CH33, 5㎾)
+  - 1983년 [8월 1일](../Page/8월_1일.md "wikilink") - FM 방송 개국 (99.7㎒, 1㎾)
+  - [1986년](../Page/1986년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") - 금적산TV중계소 개국 (CH 46, 500W)
   - 1986년 5월 6일 - 속리TV중계소 개국 (CH 9, 10W)
-  - 1986년 [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") - 영동 TV중계소 개국 (CH 11, 100W)
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") - 미원TV중계소 개국 (CH 49, 100W)
+  - 1986년 [11월 4일](../Page/11월_4일.md "wikilink") - 영동 TV중계소 개국 (CH 11, 100W)
+  - [1988년](../Page/1988년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") - 미원TV중계소 개국 (CH 49, 100W)
 
 ### 1990년대
 
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") - 두타산TV중계소 개국 (CH 7, 500W)
+  - [1991년](../Page/1991년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") - 두타산TV중계소 개국 (CH 7, 500W)
   - 1991년 12월 29일 - 옥천TV중계소 개국 (CH 31, 100W)
   - 1991년 12월 29일 - 운동TV중계소 개국 (CH 31, 100W)
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") - 부강TV중계소 개국 (CH 26, 500W)
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") - 청천TV중계소 개국 (CH 34, 100W)
+  - [1992년](../Page/1992년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink") - 부강TV중계소 개국 (CH 26, 500W)
+  - [1993년](../Page/1993년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") - 청천TV중계소 개국 (CH 34, 100W)
   - 1993년 11월 23일 - 학산TV중계소 개국 (CH 38, 100W)
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") - 죽림동 라디오 송신소 준공 (10㎾)
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [4월 7일](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") - 우암TV송신소 출력증강 (5㎾ → 10㎾)
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") - 표준FM 개국 (107.1㎒, 1㎾)
+  - [1996년](../Page/1996년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") - 죽림동 라디오 송신소 준공 (10㎾)
+  - [1998년](../Page/1998년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") - 우암TV송신소 출력증강 (5㎾ → 10㎾)
+  - [1999년](../Page/1999년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") - 표준FM 개국 (107.1㎒, 1㎾)
 
 ### 2000년대
 
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") - 금적산 표준FM중계소(96.3㎒,500W)개국
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [7월 14일](https://ko.wikipedia.org/wiki/7월_14일 "wikilink") - 우암산송신소 TV,MFM,SFM 송신철탑 재건립(사각자립식 80M)
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink") - D-TV 방송국 허가 (물리채널 CH 20, 2㎾)
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") - 우암산송신소 D-TV 방송개국
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") - 금적산중계소 D-TV 방송개국 (물리채널 CH 43, 0.1㎾)
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") - 우암동(舊 [청주역](https://ko.wikipedia.org/wiki/청주역 "wikilink") 자리)에서 가경동 신사옥\[1\] 준공 이전
+  - [2001년](../Page/2001년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") - 금적산 표준FM중계소(96.3㎒,500W)개국
+  - [2001년](../Page/2001년.md "wikilink") [7월 14일](../Page/7월_14일.md "wikilink") - 우암산송신소 TV,MFM,SFM 송신철탑 재건립(사각자립식 80M)
+  - [2003년](../Page/2003년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink") - D-TV 방송국 허가 (물리채널 CH 20, 2㎾)
+  - [2005년](../Page/2005년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") - 우암산송신소 D-TV 방송개국
+  - [2006년](../Page/2006년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") - 금적산중계소 D-TV 방송개국 (물리채널 CH 43, 0.1㎾)
+  - [2006년](../Page/2006년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") - 우암동(舊 [청주역](../Page/청주역.md "wikilink") 자리)에서 가경동 신사옥\[1\] 준공 이전
 
 ### 2010년대
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") - 모바일 홈페이지 '모바일 청주MBC' 개통 (<http://m.mbccj.co.kr>)
-  - 2010년 [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 일 - 두태산 디지털TV중계소 개소 (물리채널 25, 90W)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") - 지상파 아날로그 TV방송 종료
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") - [수도권](https://ko.wikipedia.org/wiki/수도권 "wikilink"), [강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink"), [충청권](https://ko.wikipedia.org/wiki/충청권 "wikilink") 디지털방송 재배치
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") - 아포코와 협약을 맺었다
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") - [충주문화방송과](https://ko.wikipedia.org/wiki/MBC충북_충주방송국 "wikilink") 통합 후 [MBC충북](../Page/MBC충북.md "wikilink")으로 출범 하였다.
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") 사이트가 통합되었다.
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") - 영동군 MBC충북 청주방송국 UHD 방송개시.
+  - [2010년](../Page/2010년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") - 모바일 홈페이지 '모바일 청주MBC' 개통 (<http://m.mbccj.co.kr>)
+  - 2010년 [10월](../Page/10월.md "wikilink") 일 - 두태산 디지털TV중계소 개소 (물리채널 25, 90W)
+  - [2012년](../Page/2012년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") - 지상파 아날로그 TV방송 종료
+  - [2013년](../Page/2013년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") - [수도권](../Page/수도권.md "wikilink"), [강원도](../Page/강원도.md "wikilink"), [충청권](https://ko.wikipedia.org/wiki/충청권 "wikilink") 디지털방송 재배치
+  - [2016년](../Page/2016년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") - 아포코와 협약을 맺었다
+  - [2016년](../Page/2016년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - [충주문화방송과](../Page/MBC충북_충주방송국.md "wikilink") 통합 후 [MBC충북](../Page/MBC충북.md "wikilink")으로 출범 하였다.
+  - [2017년](../Page/2017년.md "wikilink") [5월](../Page/5월.md "wikilink") 사이트가 통합되었다.
+  - [2018년](../Page/2018년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") - 영동군 MBC충북 청주방송국 UHD 방송개시.
 
 ## TV방송
 
@@ -83,13 +83,13 @@ MBC충북 청주방송국의 보도 프로그램은 아래와 같다.
 <td><p>조혜선</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/930_MBC_뉴스" title="wikilink">930 MBC 뉴스 충북</a></p></td>
+<td><p><a href="../Page/930_MBC_뉴스.md" title="wikilink">930 MBC 뉴스 충북</a></p></td>
 <td><p>월~금 10분</p></td>
 <td><p>09:35~09:45</p></td>
 <td><p>구본상</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크" title="wikilink">MBC 뉴스데스크 충북</a></p></td>
+<td><p><a href="../Page/MBC_뉴스데스크.md" title="wikilink">MBC 뉴스데스크 충북</a></p></td>
 <td><p>월~금 20분<br />
 토~일 15분</p></td>
 <td><p>20:05~20:25<br />
@@ -110,19 +110,19 @@ MBC충북 청주방송국의 보도 프로그램은 아래와 같다.
 
 #### 시사교양,연예오락
 
-| 프로그램                                                                 | 시간               | 진행                                                  |
-| -------------------------------------------------------------------- | ---------------- | --------------------------------------------------- |
-| [생방송 아침N](../Page/생방송_아침N.md "wikilink")                             | 월-금 08:30\~09:30 | 구본상, 조혜선                                            |
-| [생방송 아침N](../Page/생방송_아침N.md "wikilink") 스폐셜                         | 일 08:00\~09:00   |                                                     |
-| 고향 생각                                                                | 토 07:30\~08:25   | 이병철, 김보원, 강수빈                                       |
-| TV특강                                                                 | 수 06:10\~07:15   | 오규익 연출                                              |
-| 테마기행 길 ([울산MBC](https://ko.wikipedia.org/wiki/울산문화방송 "wikilink") 제작) | 화 18:10\~19:15   | 조기완 연출                                              |
-| 프라임인터뷰                                                               | 일 06:30\~07:00   | 김지윤                                                 |
-| 스페셜 전국시대                                                             | 토 8:25\~9:30     | cg재작                                                |
-| [MBC가요베스트](https://ko.wikipedia.org/wiki/MBC가요베스트 "wikilink")        | 일 12:10\~13:10   | [조영구](https://ko.wikipedia.org/wiki/조영구 "wikilink") |
-| 굿잡, 굿스타트                                                             | 일 07:10\~08:00   | 조혜선                                                 |
-| 충북 시사토론 창                                                            | 목 오후 6:10        | 이영락                                                 |
-|                                                                      |                  |                                                     |
+| 프로그램                                              | 시간               | 진행                               |
+| ------------------------------------------------- | ---------------- | -------------------------------- |
+| [생방송 아침N](../Page/생방송_아침N.md "wikilink")          | 월-금 08:30\~09:30 | 구본상, 조혜선                         |
+| [생방송 아침N](../Page/생방송_아침N.md "wikilink") 스폐셜      | 일 08:00\~09:00   |                                  |
+| 고향 생각                                             | 토 07:30\~08:25   | 이병철, 김보원, 강수빈                    |
+| TV특강                                              | 수 06:10\~07:15   | 오규익 연출                           |
+| 테마기행 길 ([울산MBC](../Page/울산문화방송.md "wikilink") 제작) | 화 18:10\~19:15   | 조기완 연출                           |
+| 프라임인터뷰                                            | 일 06:30\~07:00   | 김지윤                              |
+| 스페셜 전국시대                                          | 토 8:25\~9:30     | cg재작                             |
+| [MBC가요베스트](../Page/MBC가요베스트.md "wikilink")        | 일 12:10\~13:10   | [조영구](../Page/조영구.md "wikilink") |
+| 굿잡, 굿스타트                                          | 일 07:10\~08:00   | 조혜선                              |
+| 충북 시사토론 창                                         | 목 오후 6:10        | 이영락                              |
+|                                                   |                  |                                  |
 
 ### 종영된 프로그램
 
@@ -230,17 +230,17 @@ MBC충북 청주방송국의 보도 프로그램은 아래와 같다.
 
 #### MBC충북 청주 라디오
 
-| 프로그램                                                               | 요일   | 시간   | 진행자                                                                              |
-| ------------------------------------------------------------------ | ---- | ---- | -------------------------------------------------------------------------------- |
-| [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink")                     | 평일   | 5분   | 조혜선                                                                              |
-| [즐거운 오후](../Page/즐거운_오후.md "wikilink")                             | 평일   | 105분 | [김동혁](https://ko.wikipedia.org/wiki/김동혁_\(방송인\) "wikilink"), 하미진 (MBC충북 충주 아나운서) |
-| 주말                                                                 | 110분 |      |                                                                                  |
-| MBC 15시 뉴스                                                         | 매일   | 5분   | 조혜선                                                                              |
-| MBC 17시 뉴스                                                         | 매일   | 5분   | 구본상(충주:오명신)                                                                      |
-| [임규호의 저녁N](https://ko.wikipedia.org/wiki/임규호의_저녁N "wikilink")      | 평일   | 115분 | 임규호                                                                              |
-| [MBC 뉴스포커스](https://ko.wikipedia.org/wiki/MBC_뉴스포커스 "wikilink") 충북 | 평일   | 5분   | 이영락                                                                              |
-| 일상을 바꾸는 라디오                                                        | 주말   | 115분 | 김병재                                                                              |
-|                                                                    |      |      |                                                                                  |
+| 프로그램                                                          | 요일   | 시간   | 진행자                                                           |
+| ------------------------------------------------------------- | ---- | ---- | ------------------------------------------------------------- |
+| [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink")                | 평일   | 5분   | 조혜선                                                           |
+| [즐거운 오후](../Page/즐거운_오후.md "wikilink")                        | 평일   | 105분 | [김동혁](../Page/김동혁_\(방송인\).md "wikilink"), 하미진 (MBC충북 충주 아나운서) |
+| 주말                                                            | 110분 |      |                                                               |
+| MBC 15시 뉴스                                                    | 매일   | 5분   | 조혜선                                                           |
+| MBC 17시 뉴스                                                    | 매일   | 5분   | 구본상(충주:오명신)                                                   |
+| [임규호의 저녁N](https://ko.wikipedia.org/wiki/임규호의_저녁N "wikilink") | 평일   | 115분 | 임규호                                                           |
+| [MBC 뉴스포커스](../Page/MBC_뉴스포커스.md "wikilink") 충북               | 평일   | 5분   | 이영락                                                           |
+| 일상을 바꾸는 라디오                                                   | 주말   | 115분 | 김병재                                                           |
+|                                                               |      |      |                                                               |
 
 #### MBC충북 청주 FM4U
 
@@ -273,7 +273,7 @@ MBC충북 청주방송국의 보도 프로그램은 아래와 같다.
 
   - 중파 1287 kHz 표준FM 107.1 / 96.3 MHz MBC충북입니다 (MBC충북 청주 라디오)
   - 음악의 또 다른 이름 MBC FM4U (MBC충북 청주 FM4U)
-  - (MBC충북 청주 [MBCFM4U](https://ko.wikipedia.org/wiki/MBC_FM4U "wikilink") 구멘트: 건강한 라디오 여러분의 문화방송입니다./FM 99.7Mhz 여러분의 MBC충북 청주FM 입니다.)
+  - (MBC충북 청주 [MBCFM4U](../Page/MBC_FM4U.md "wikilink") 구멘트: 건강한 라디오 여러분의 문화방송입니다./FM 99.7Mhz 여러분의 MBC충북 청주FM 입니다.)
   - FM 88.7 MHz MBC충북 FM4U입니다. HLAO(MBC충북 충주 FM4U, 홈페이지 온에어 듣기에 사용)
 
 ### 종영 프로그램

@@ -1,46 +1,46 @@
 > This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
 
 
-**KBS춘천방송총국**(KBS春川放送總局)은 강원도 영서 북부지역을 방송권역으로 하는 한국방송공사의 지역방송총국이다. 지역총국 중 하나로, [KBS원주방송국](https://ko.wikipedia.org/wiki/KBS원주방송국 "wikilink"), [KBS강릉방송국](https://ko.wikipedia.org/wiki/KBS강릉방송국 "wikilink")을 하부에 두고 있다.
+**KBS춘천방송총국**(KBS春川放送總局)은 강원도 영서 북부지역을 방송권역으로 하는 한국방송공사의 지역방송총국이다. 지역총국 중 하나로, [KBS원주방송국](../Page/KBS원주방송국.md "wikilink"), [KBS강릉방송국](../Page/KBS강릉방송국.md "wikilink")을 하부에 두고 있다.
 
 ## 개요
 
-[한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink")의 지역총국 중 하나로, 강원도 지역국인 [원주](https://ko.wikipedia.org/wiki/KBS원주 "wikilink")·[강릉국을](https://ko.wikipedia.org/wiki/KBS강릉 "wikilink") 관리하며 강원지역 KBS 방송을 총괄하고 있다. 1944년 사단법인 조선방송협회 춘천방송국으로 창설되어 1986년 12월 [KBS](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 공사 직제개편으로 KBS 춘천방송총국으로 승격되었다.
+[한국방송공사](../Page/한국방송공사.md "wikilink")의 지역총국 중 하나로, 강원도 지역국인 [원주](https://ko.wikipedia.org/wiki/KBS원주 "wikilink")·[강릉국을](https://ko.wikipedia.org/wiki/KBS강릉 "wikilink") 관리하며 강원지역 KBS 방송을 총괄하고 있다. 1944년 사단법인 조선방송협회 춘천방송국으로 창설되어 1986년 12월 [KBS](../Page/한국방송공사.md "wikilink") 공사 직제개편으로 KBS 춘천방송총국으로 승격되었다.
 
 2004년 11월 KBS 지역국조정으로 [영월국과](../Page/KBS영월방송국.md "wikilink") 태백,속초국이 각각 원주국과 강릉국으로 통합된 KBS춘천총국은 총국의 기능이 KBS 강원본부의 개념으로 확대돼 총국장 직급이 상향되었고, 종전 본사에서 맡던 인사·예산 집행권 등이 총국으로 이양 되었다.
 
 대부분의 방송은 KBS 본사의 프로그램을 릴레이 하여 편성하고 있으나, 보도, 지역현안, 지역민 문제에 대한 시사교양적 프로그램은 자체제작 하고 있다.
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 27일에](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink")부터 31년간 사용한 낙원동 사옥에서 퇴계동으로 사옥을 이전했고, 동시에 3일 뒤인 [11월 30일부터](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") 지방권 최초로 모든 로컬 방송 프로그램을 HD(고화질)로 제작, 송출하고 있다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 18일에](https://ko.wikipedia.org/wiki/12월_18일 "wikilink") 신사옥 준공식을 열었다.\[1\]\[2\]
+[2009년](../Page/2009년.md "wikilink") [11월 27일에](../Page/11월_27일.md "wikilink") [1978년](../Page/1978년.md "wikilink")부터 31년간 사용한 낙원동 사옥에서 퇴계동으로 사옥을 이전했고, 동시에 3일 뒤인 [11월 30일부터](../Page/11월_30일.md "wikilink") 지방권 최초로 모든 로컬 방송 프로그램을 HD(고화질)로 제작, 송출하고 있다. [2009년](../Page/2009년.md "wikilink") [12월 18일에](../Page/12월_18일.md "wikilink") 신사옥 준공식을 열었다.\[1\]\[2\]
 
 ## 연혁
 
-  - [1944년](https://ko.wikipedia.org/wiki/1944년 "wikilink") 12월 : 사단법인 조선방송협회 춘천방송국으로 창설
-  - [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") 10월 : 호출부호 HLKM으로 변경
-  - [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") 4월 : 춘천지방방송국으로 명칭변경
-  - [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") 2월 : 춘천방송국으로 명칭 변경
-  - [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") 4월 : 춘천방송국 이전(춘천시 옥천동 116번지)
-  - [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") 12월 : 화천중계소 개소
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") 5월 : 철원중계소 개소
-  - [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") 10월 : 인제, 양구 중계소 개소
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") 2월 : 사농송신소 신설
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 7월 : 춘천방송국 화악산 송신소 개소(1TV, 표준FM, 군FM)
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 10월 : 춘천방송국 신축, 이전(춘천시 낙원동 86-1 현청사)
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") 2월 : 교육TV 및 교육FM 방송개시
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 12월 : 봉의산 제2TV 방송 개시
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 5월 : 화악산 제2TV 방송 개시
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 8월 : 춘천 음악FM 방송 개국
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 10월 : 봉의산 1TV 방송 개시
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 12월 : 공사 직제 개편에 따라 춘천방송총국으로 승격
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 12월 : 청사증축(85평) 및 송출센타 설치
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 12월 : 개국기념일을 12월 20일로 확정
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") : 제2라디오 FM 방송 개국
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 12월 : 대룡산중계소 개소, 디지털TV 방송개시
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 6월 : DMB 방송개시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 11일](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") : 중파송신시설 폐소(홍천중계소, 화천중계소)
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink"): 신사옥 이전 준공
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") : 아날로그 TV 방송 종료
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink"): [수도권](https://ko.wikipedia.org/wiki/수도권 "wikilink"), [강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink"), [충청권](https://ko.wikipedia.org/wiki/충청권 "wikilink") 디지털방송 재배치
+  - [1944년](../Page/1944년.md "wikilink") 12월 : 사단법인 조선방송협회 춘천방송국으로 창설
+  - [1947년](../Page/1947년.md "wikilink") 10월 : 호출부호 HLKM으로 변경
+  - [1950년](../Page/1950년.md "wikilink") 4월 : 춘천지방방송국으로 명칭변경
+  - [1957년](../Page/1957년.md "wikilink") 2월 : 춘천방송국으로 명칭 변경
+  - [1958년](../Page/1958년.md "wikilink") 4월 : 춘천방송국 이전(춘천시 옥천동 116번지)
+  - [1961년](../Page/1961년.md "wikilink") 12월 : 화천중계소 개소
+  - [1962년](../Page/1962년.md "wikilink") 5월 : 철원중계소 개소
+  - [1965년](../Page/1965년.md "wikilink") 10월 : 인제, 양구 중계소 개소
+  - [1967년](../Page/1967년.md "wikilink") 2월 : 사농송신소 신설
+  - [1978년](../Page/1978년.md "wikilink") 7월 : 춘천방송국 화악산 송신소 개소(1TV, 표준FM, 군FM)
+  - [1978년](../Page/1978년.md "wikilink") 10월 : 춘천방송국 신축, 이전(춘천시 낙원동 86-1 현청사)
+  - [1981년](../Page/1981년.md "wikilink") 2월 : 교육TV 및 교육FM 방송개시
+  - [1982년](../Page/1982년.md "wikilink") 12월 : 봉의산 제2TV 방송 개시
+  - [1983년](../Page/1983년.md "wikilink") 5월 : 화악산 제2TV 방송 개시
+  - [1983년](../Page/1983년.md "wikilink") 8월 : 춘천 음악FM 방송 개국
+  - [1984년](../Page/1984년.md "wikilink") 10월 : 봉의산 1TV 방송 개시
+  - [1986년](../Page/1986년.md "wikilink") 12월 : 공사 직제 개편에 따라 춘천방송총국으로 승격
+  - [1993년](../Page/1993년.md "wikilink") 12월 : 청사증축(85평) 및 송출센타 설치
+  - [1996년](../Page/1996년.md "wikilink") 12월 : 개국기념일을 12월 20일로 확정
+  - [2001년](../Page/2001년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") : 제2라디오 FM 방송 개국
+  - [2005년](../Page/2005년.md "wikilink") 12월 : 대룡산중계소 개소, 디지털TV 방송개시
+  - [2006년](../Page/2006년.md "wikilink") 6월 : DMB 방송개시
+  - [2008년](../Page/2008년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") : 중파송신시설 폐소(홍천중계소, 화천중계소)
+  - [2009년](../Page/2009년.md "wikilink") [12월 18일](../Page/12월_18일.md "wikilink"): 신사옥 이전 준공
+  - [2012년](../Page/2012년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") : 아날로그 TV 방송 종료
+  - [2013년](../Page/2013년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink"): [수도권](../Page/수도권.md "wikilink"), [강원도](../Page/강원도.md "wikilink"), [충청권](https://ko.wikipedia.org/wiki/충청권 "wikilink") 디지털방송 재배치
 
 ## 방송 송출 시설망
 
@@ -137,7 +137,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스광장" title="wikilink">KBS 뉴스광장 강원</a></p></td>
+<td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 강원</a></p></td>
 <td><p>평일 15분</p></td>
 <td><p>월요일~금요일 오전 7시 35분 ~ 7시 45분</p></td>
 <td><p>송준규</p></td>
@@ -149,7 +149,7 @@
 <td><p>정은숙</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7" title="wikilink">KBS 뉴스 7</a> <a href="https://ko.wikipedia.org/wiki/7시_오늘_강원" title="wikilink">강원</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7</a> <a href="https://ko.wikipedia.org/wiki/7시_오늘_강원" title="wikilink">강원</a></p></td>
 <td><p>월~목 40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
 <td><p>윤석황, 김수연</p></td>
@@ -174,14 +174,14 @@
 
 #### TV 프로그램
 
-| 방송 시간        | 프로그램                                                  | 비고       |
-| ------------ | ----------------------------------------------------- | -------- |
-| 14:00 (월)    | 강원스페셜                                                 | (넷째주 방송) |
-| 17:30 (평일)   | 전국을 달린다                                               |          |
-| 17:40 (월\~목) | [강원도가 좋다](../Page/강원도가_좋다.md "wikilink")              |          |
-| 19:40 (수)    | 시사토크쇼 강냉이                                             |          |
-| 19:40 (화)    | 집중진단 강원                                               |          |
-| 16:00 (금)    | [올댓뮤직](https://ko.wikipedia.org/wiki/올댓뮤직 "wikilink") |          |
+| 방송 시간        | 프로그램                                     | 비고       |
+| ------------ | ---------------------------------------- | -------- |
+| 14:00 (월)    | 강원스페셜                                    | (넷째주 방송) |
+| 17:30 (평일)   | 전국을 달린다                                  |          |
+| 17:40 (월\~목) | [강원도가 좋다](../Page/강원도가_좋다.md "wikilink") |          |
+| 19:40 (수)    | 시사토크쇼 강냉이                                |          |
+| 19:40 (화)    | 집중진단 강원                                  |          |
+| 16:00 (금)    | [올댓뮤직](../Page/올댓뮤직.md "wikilink")       |          |
 
 ### 라디오
 
@@ -222,15 +222,15 @@
 
 ## 아나운서
 
-| KBS 춘천 아나운서                                             |
-| ------------------------------------------------------- |
-| 입사 연도                                                   |
-| [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") |
-| [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") |
-| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") |
-| 프리랜서                                                    |
+| KBS 춘천 아나운서                          |
+| ------------------------------------ |
+| 입사 연도                                |
+| [1982년](../Page/1982년.md "wikilink") |
+| [1995년](../Page/1995년.md "wikilink") |
+| [2004년](../Page/2004년.md "wikilink") |
+| [2010년](../Page/2010년.md "wikilink") |
+| [2019년](../Page/2019년.md "wikilink") |
+| 프리랜서                                 |
 
 　　
 
@@ -243,8 +243,8 @@
   - [정경래](https://ko.wikipedia.org/wiki/정경래 "wikilink") (퇴사)
   - [이길수](https://ko.wikipedia.org/wiki/이길수 "wikilink") (퇴사)
   - [김성수](https://ko.wikipedia.org/wiki/김성수_\(아나운서\) "wikilink") (1981년\~1994년, 전 KBS 서울본국)
-  - [전인석](https://ko.wikipedia.org/wiki/전인석 "wikilink") (1987년\~1990년, 현 KBS 제주총국)
-  - [표영준](https://ko.wikipedia.org/wiki/표영준 "wikilink") (1992년\~1993년 아나운서부장, 전 KBS 서울본국/현 KBS N 스포츠 아나운서)
+  - [전인석](../Page/전인석.md "wikilink") (1987년\~1990년, 현 KBS 제주총국)
+  - [표영준](../Page/표영준.md "wikilink") (1992년\~1993년 아나운서부장, 전 KBS 서울본국/현 KBS N 스포츠 아나운서)
   - [정우영](https://ko.wikipedia.org/wiki/정우영 "wikilink") (1994년\~2000년)
   - [이명용](https://ko.wikipedia.org/wiki/이명용 "wikilink") (2000년\~2001년, 아나운서부장, 전 KBS 서울본국)
   - [김관동](https://ko.wikipedia.org/wiki/김관동 "wikilink") (1987년\~1997년, 현 KBS 서울본국)
@@ -255,7 +255,7 @@
   - [권태근](https://ko.wikipedia.org/wiki/권태근 "wikilink") (1984년\~1993년, 현 대구MBC아나운서)
   - [최일지](https://ko.wikipedia.org/wiki/최일지 "wikilink") (2005년, 현 KBS청주방송총국 기자)
   - [한태호](https://ko.wikipedia.org/wiki/한태호 "wikilink") (원주국 전보, 현 KBS 원주)
-  - [이형걸](https://ko.wikipedia.org/wiki/이형걸 "wikilink") (2017년\~2018년, 2019년\~2020년, 현 KBS 서울본국)
+  - [이형걸](../Page/이형걸.md "wikilink") (2017년\~2018년, 2019년\~2020년, 현 KBS 서울본국)
   - [이의선](https://ko.wikipedia.org/wiki/이의선 "wikilink") (현 KBS 강릉방송국)
   - [윤만오](https://ko.wikipedia.org/wiki/윤만오 "wikilink") (정년퇴직)
 
@@ -263,21 +263,21 @@
 
   - [송경원](https://ko.wikipedia.org/wiki/송경원 "wikilink") (퇴사)
   - [주미영](https://ko.wikipedia.org/wiki/주미영 "wikilink") (퇴사)
-  - [이은경](https://ko.wikipedia.org/wiki/이은경 "wikilink") (퇴사)
+  - [이은경](../Page/이은경.md "wikilink") (퇴사)
   - [이공순](https://ko.wikipedia.org/wiki/이공순 "wikilink") (퇴사)
   - [성연미](https://ko.wikipedia.org/wiki/성연미 "wikilink") (1985년\~1991년, 전 BBS 아나운서/현 봄온 아나운서 아카데미 대표)
-  - [최원정](https://ko.wikipedia.org/wiki/최원정 "wikilink") (2000년\~2001년, 현 KBS 서울본국)
+  - [최원정](../Page/최원정.md "wikilink") (2000년\~2001년, 현 KBS 서울본국)
   - [김날해](https://ko.wikipedia.org/wiki/김날해 "wikilink") (2001년\~2009년, 현 SBS CNBC기자)
   - [김진경](https://ko.wikipedia.org/wiki/김진경_\(아나운서\) "wikilink") (퇴사)
   - [염정원](https://ko.wikipedia.org/wiki/염정원_\(아나운서\) "wikilink") (퇴사)
-  - [이지연](https://ko.wikipedia.org/wiki/이지연_\(1975년\) "wikilink") (2001년, 전 KBS 서울본국)
+  - [이지연](../Page/이지연_\(1975년\).md "wikilink") (2001년, 전 KBS 서울본국)
   - [강영은](https://ko.wikipedia.org/wiki/강영은 "wikilink") (2003년, 현 MBC 아나운서)
-  - [김진희](https://ko.wikipedia.org/wiki/김진희_\(아나운서\) "wikilink") (2004년\~2005년, 현 KBS 서울본국)
-  - [윤수영](https://ko.wikipedia.org/wiki/윤수영_\(아나운서\) "wikilink") (2005년\~2006년, 현 KBS 서울본국)
-  - [박지현](https://ko.wikipedia.org/wiki/박지현_\(1982년\) "wikilink") (2007년\~2008년, 현 KBS 서울본국)
-  - [유지원](https://ko.wikipedia.org/wiki/유지원_\(아나운서\) "wikilink") (2008년\~2009년, 현 KBS 서울본국)
-  - [김솔희](https://ko.wikipedia.org/wiki/김솔희 "wikilink") (2009년\~2010년, 현 KBS 서울본국)
-  - [이슬기](https://ko.wikipedia.org/wiki/이슬기_\(아나운서\) "wikilink") (2011년\~2013년, 현 KBS 서울본국)
+  - [김진희](../Page/김진희_\(아나운서\).md "wikilink") (2004년\~2005년, 현 KBS 서울본국)
+  - [윤수영](../Page/윤수영_\(아나운서\).md "wikilink") (2005년\~2006년, 현 KBS 서울본국)
+  - [박지현](../Page/박지현_\(1982년\).md "wikilink") (2007년\~2008년, 현 KBS 서울본국)
+  - [유지원](../Page/유지원_\(아나운서\).md "wikilink") (2008년\~2009년, 현 KBS 서울본국)
+  - [김솔희](../Page/김솔희.md "wikilink") (2009년\~2010년, 현 KBS 서울본국)
+  - [이슬기](../Page/이슬기_\(아나운서\).md "wikilink") (2011년\~2013년, 현 KBS 서울본국)
   - [강서은](../Page/강서은.md "wikilink") (2014년\~2015년, 현 KBS 서울본국)
   - [박소현](../Page/박소현_\(1992년\).md "wikilink") (2015년\~2017년, 현 KBS 서울본국)
   - [강지연](https://ko.wikipedia.org/wiki/강지연_\(아나운서\) "wikilink") (2017년\~2018년, 현 TBS 교통방송)

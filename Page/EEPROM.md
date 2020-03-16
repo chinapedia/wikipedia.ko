@@ -15,12 +15,12 @@ EEPROM은 인터페이스에 따라 직렬 버스와 병렬 버스로 나뉜다.
 
   - 직렬 버스
       - 보통 [SPI](https://ko.wikipedia.org/wiki/SPI "wikilink")나 [I²C](../Page/I²C.md "wikilink"), [1-Wire](https://ko.wikipedia.org/wiki/1-Wire "wikilink") [인터페이스로](https://ko.wikipedia.org/wiki/물리_인터페이스 "wikilink") 8핀 패키지로 구성된다.
-      - 동작에 [OP-Code](https://ko.wikipedia.org/wiki/OP-Code "wikilink"), [주소](https://ko.wikipedia.org/wiki/주소 "wikilink"), [데이터](https://ko.wikipedia.org/wiki/데이터 "wikilink")의 3 단계가 필요하다.
+      - 동작에 [OP-Code](https://ko.wikipedia.org/wiki/OP-Code "wikilink"), [주소](../Page/주소.md "wikilink"), [데이터](https://ko.wikipedia.org/wiki/데이터 "wikilink")의 3 단계가 필요하다.
   - 병렬 버스
       - 보통 8비트 데이터 버스로 칩 셀렉트와 쓰기 방지 핀을 가지고 있다.
       - 단순하고 빠르게 작동되지만 크기가 크고 핀 수(32개 이상)가 많다.
 
-EEPROM은 [모뎀](https://ko.wikipedia.org/wiki/모뎀 "wikilink")이나 [비디오 카드](https://ko.wikipedia.org/wiki/비디오_카드 "wikilink"), [메인보드](https://ko.wikipedia.org/wiki/메인보드 "wikilink"), [SCSI](../Page/SCSI.md "wikilink") 컨트롤러 등에서 사용된다. 모뎀의 경우에는 내부에 사용자가 AT명령을 통해서 설정한 상태가 전원을 껐다 켠 후에도 그대로 유지되는데. 이것은 EEPROM에서 그 상태를 저장해 놓기 때문이다. 대부분의 비디오카드, 메인보드, SCSI 컨트롤러 등에서 EEPROM을 사용해 [점퍼없이](https://ko.wikipedia.org/wiki/점퍼_\(컴퓨팅\) "wikilink") 설정상태를 저장한다.
+EEPROM은 [모뎀](../Page/모뎀.md "wikilink")이나 [비디오 카드](https://ko.wikipedia.org/wiki/비디오_카드 "wikilink"), [메인보드](../Page/메인보드.md "wikilink"), [SCSI](../Page/SCSI.md "wikilink") 컨트롤러 등에서 사용된다. 모뎀의 경우에는 내부에 사용자가 AT명령을 통해서 설정한 상태가 전원을 껐다 켠 후에도 그대로 유지되는데. 이것은 EEPROM에서 그 상태를 저장해 놓기 때문이다. 대부분의 비디오카드, 메인보드, SCSI 컨트롤러 등에서 EEPROM을 사용해 [점퍼없이](https://ko.wikipedia.org/wiki/점퍼_\(컴퓨팅\) "wikilink") 설정상태를 저장한다.
 
 ## 각주
 

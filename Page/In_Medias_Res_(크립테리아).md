@@ -22,7 +22,7 @@
 
 ## 기타
 
-[2006년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 때에 이 음반의 4번 트랙 *No More Lies*를 개사한 *Go Reds*가 [붉은악마](https://ko.wikipedia.org/wiki/붉은악마 "wikilink")의 공식 응원가 음반인 《Reds Go Together》에 수록되었다. [1](http://blog.naver.com/nix200?Redirect=Log&logNo=30007781688)
+[2006년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 때에 이 음반의 4번 트랙 *No More Lies*를 개사한 *Go Reds*가 [붉은악마](../Page/붉은악마.md "wikilink")의 공식 응원가 음반인 《Reds Go Together》에 수록되었다. [1](http://blog.naver.com/nix200?Redirect=Log&logNo=30007781688)
 
 ## 참고
 

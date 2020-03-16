@@ -1,29 +1,29 @@
 > This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
 
 
-**NHK 나가노 방송국**(長野 放送局)은 [나가노현](https://ko.wikipedia.org/wiki/나가노현 "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
+**NHK 나가노 방송국**(長野 放送局)은 [나가노현](../Page/나가노현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
 
 ## 연혁
 
-  - [1931년](https://ko.wikipedia.org/wiki/1931년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") 개국.라디오 방송을 개시
-  - [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink") [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") 라디오 제2 방송 개시
-  - [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") 텔레비전 방송 개시(종합 텔레비전만 실시.이 날 [신에츠방송](https://ko.wikipedia.org/wiki/신에츠방송 "wikilink") 텔레비전 방송이 정식으로 본방송을 시작했다.)
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 교육 텔레비전 본방송 실시.
-  - [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [12월 16일](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") 종합 텔레비전 컬러 방송 개시.
-  - [1964년](https://ko.wikipedia.org/wiki/1964년 "wikilink") FM방송 개시(FM스테레오 방송도 동시 시작).
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink")　현 내의 민영방송국 [신에츠 방송과](https://ko.wikipedia.org/wiki/신에츠_방송 "wikilink") 공동으로 [나가노현](https://ko.wikipedia.org/wiki/나가노현 "wikilink") 최초의 UHF 텔레비전 중계국인 「카루이자와 중계국」을 건설하였으며 이를 계기로 일부 VHF 중계국 채널을 UHF로 전환하였고 이 날 이후 새로 만드는 중계국은 모두 UHF 대역으로 방송을 송출하게 된다.
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") PCM 디지털 스테레오 회선이 도입되면서 FM방송 음질이 개선된다.
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 종합 텔레비전 음성다중방송 개시.
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink")　교육 텔레비전 음성다중방송 개시
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 지상 디지털 텔레비전 방송 개시.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 지상파 아날로그 텔레비전 방송 종료
+  - [1931년](../Page/1931년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") 개국.라디오 방송을 개시
+  - [1948년](../Page/1948년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") 라디오 제2 방송 개시
+  - [1958년](../Page/1958년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") 텔레비전 방송 개시(종합 텔레비전만 실시.이 날 [신에츠방송](https://ko.wikipedia.org/wiki/신에츠방송 "wikilink") 텔레비전 방송이 정식으로 본방송을 시작했다.)
+  - [1962년](../Page/1962년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 교육 텔레비전 본방송 실시.
+  - [1963년](../Page/1963년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") 종합 텔레비전 컬러 방송 개시.
+  - [1964년](../Page/1964년.md "wikilink") FM방송 개시(FM스테레오 방송도 동시 시작).
+  - [1967년](../Page/1967년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink")　현 내의 민영방송국 [신에츠 방송과](https://ko.wikipedia.org/wiki/신에츠_방송 "wikilink") 공동으로 [나가노현](../Page/나가노현.md "wikilink") 최초의 UHF 텔레비전 중계국인 「카루이자와 중계국」을 건설하였으며 이를 계기로 일부 VHF 중계국 채널을 UHF로 전환하였고 이 날 이후 새로 만드는 중계국은 모두 UHF 대역으로 방송을 송출하게 된다.
+  - [1980년](../Page/1980년.md "wikilink") PCM 디지털 스테레오 회선이 도입되면서 FM방송 음질이 개선된다.
+  - [1983년](../Page/1983년.md "wikilink") 종합 텔레비전 음성다중방송 개시.
+  - [1991년](../Page/1991년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink")　교육 텔레비전 음성다중방송 개시
+  - [2006년](../Page/2006년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 지상 디지털 텔레비전 방송 개시.
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 지상파 아날로그 텔레비전 방송 종료
 
 ## 채널·주파수
 
 ### 텔레비전 방송국
 
-  - [종합 텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 나가노본국 17ch(JONK-DTV)
-  - [교육 텔레비전](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 나가노본국 13ch(JONB-DTV)
+  - [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 나가노본국 17ch(JONK-DTV)
+  - [교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink") 나가노본국 13ch(JONB-DTV)
 
 ### 라디오 주파수
 
@@ -85,15 +85,15 @@
 | 우에마츠쿠라모토 중계국     | 85.6MHz | 출력 100W |
 | 오시카 중계국          | 85.0MHz | 출력 1W   |
 
-[FM방송](https://ko.wikipedia.org/wiki/NHK-FM방송 "wikilink")
+[FM방송](../Page/NHK-FM방송.md "wikilink")
 
-## [나가노현](https://ko.wikipedia.org/wiki/나가노현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [나가노현](../Page/나가노현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
   - [신에츠 방송](https://ko.wikipedia.org/wiki/신에츠_방송 "wikilink")(SBC)(TV는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열, 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")·[NRN](../Page/NRN.md "wikilink") 계열)
-  - [나가노 방송](../Page/나가노_방송.md "wikilink")(NBS)([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열)
+  - [나가노 방송](../Page/나가노_방송.md "wikilink")(NBS)([후지 TV](../Page/후지_TV.md "wikilink") 계열)
   - [TV 신슈](../Page/TV_신슈.md "wikilink")(TSB)([니혼 TV](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 계열)
   - [나가노 아사히 방송](../Page/나가노_아사히_방송.md "wikilink")(abn)([TV 아사히](../Page/TV_아사히.md "wikilink") 계열)
-  - [나가노 FM방송](https://ko.wikipedia.org/wiki/나가노_FM방송 "wikilink")([JFN](https://ko.wikipedia.org/wiki/JFN "wikilink") 계열)
+  - [나가노 FM방송](https://ko.wikipedia.org/wiki/나가노_FM방송 "wikilink")([JFN](../Page/JFN.md "wikilink") 계열)
 
 ## 외부 링크
 

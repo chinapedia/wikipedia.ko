@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ SCC](https://ko.wikipedia.org/wiki/_SCC).
 
 
-**코나미 SCC**(**Sound Custom Chip**, **Sound Creative Chip**)는 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")와 [야마하](https://ko.wikipedia.org/wiki/야마하 "wikilink")가 개발한 [사운드 칩으로](https://ko.wikipedia.org/wiki/사운드_칩 "wikilink") 주로 [MSX](https://ko.wikipedia.org/wiki/MSX "wikilink")의 빈약한 [PSG](https://ko.wikipedia.org/wiki/PSG "wikilink")사운드를 보강하기 위해 사용되었으며 정식이름은 **K051649**다.
+**코나미 SCC**(**Sound Custom Chip**, **Sound Creative Chip**)는 [코나미](../Page/코나미.md "wikilink")와 [야마하](../Page/야마하.md "wikilink")가 개발한 [사운드 칩으로](https://ko.wikipedia.org/wiki/사운드_칩 "wikilink") 주로 [MSX](../Page/MSX.md "wikilink")의 빈약한 [PSG](https://ko.wikipedia.org/wiki/PSG "wikilink")사운드를 보강하기 위해 사용되었으며 정식이름은 **K051649**다.
 
 1987년 발매된 MSX용 [그라디우스2](https://ko.wikipedia.org/wiki/그라디우스2 "wikilink")를 시작으로 많은 게임에서 사용되었으며 [악마성 드라큘라](https://ko.wikipedia.org/wiki/악마성_드라큘라 "wikilink"), [City Bomber](https://ko.wikipedia.org/wiki/City_Bomber "wikilink"), [Hexion](https://ko.wikipedia.org/wiki/Hexion "wikilink"), [Nyan Nyan Panic](https://ko.wikipedia.org/wiki/Nyan_Nyan_Panic "wikilink") 같은 오락실 게임에도 사용되었으며 칩 표면에 *KONAMI 051649 2212P003*로 표기되어 있다.
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [NTFS](https://ko.wikipedia.org/wiki/NTFS).
 
 
-**NTFS**(New Technology File System\[1\])는 [윈도우 NT](https://ko.wikipedia.org/wiki/윈도우_NT "wikilink") 계열 운영체제의 [파일 시스템으로](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") [윈도우 2000](../Page/윈도우_2000.md "wikilink"), [윈도우 XP](../Page/윈도우_XP.md "wikilink"), [윈도우 서버 2003](../Page/윈도우_서버_2003.md "wikilink"), [윈도우 서버 2008](../Page/윈도우_서버_2008.md "wikilink"), [윈도우 비스타](../Page/윈도우_비스타.md "wikilink"), [윈도우 7](https://ko.wikipedia.org/wiki/윈도우_7 "wikilink"), [윈도우 서버 2008 R2](https://ko.wikipedia.org/wiki/윈도우_서버_2008_R2 "wikilink") , [윈도우 8](https://ko.wikipedia.org/wiki/윈도우_8 "wikilink"), [윈도우 서버 2012](https://ko.wikipedia.org/wiki/윈도우_서버_2012 "wikilink"), [윈도우 8.1](../Page/윈도우_8.1.md "wikilink"), [윈도우 서버 2012 R2](https://ko.wikipedia.org/wiki/윈도우_서버_2012_R2 "wikilink") 등에도 포함되어 있다. NTFS의 NT는 윈도우 NT와 비슷하게 새로운 기술이라는 뜻의 New Technology의 준말이다. [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink")와 이전 버전의 윈도우에서 쓰였던 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")의 이전 [FAT](../Page/파일_할당_테이블.md "wikilink") 파일 시스템을 대체하였다. NTFS는 FAT와 HPFS([고성능 파일 시스템](https://ko.wikipedia.org/wiki/고성능_파일_시스템 "wikilink"))을 거쳐 몇 가지 개선이 있다. 이를테면, [메타데이터](../Page/메타데이터.md "wikilink")의 지원, 고급 데이터 구조의 사용으로 인한 성능 개선, 신뢰성, 추가 확장 기능을 더한 디스크 공간 활용을 들 수 있다.
+**NTFS**(New Technology File System\[1\])는 [윈도우 NT](../Page/윈도우_NT.md "wikilink") 계열 운영체제의 [파일 시스템으로](../Page/파일_시스템.md "wikilink") [윈도우 2000](../Page/윈도우_2000.md "wikilink"), [윈도우 XP](../Page/윈도우_XP.md "wikilink"), [윈도우 서버 2003](../Page/윈도우_서버_2003.md "wikilink"), [윈도우 서버 2008](../Page/윈도우_서버_2008.md "wikilink"), [윈도우 비스타](../Page/윈도우_비스타.md "wikilink"), [윈도우 7](https://ko.wikipedia.org/wiki/윈도우_7 "wikilink"), [윈도우 서버 2008 R2](../Page/윈도우_서버_2008_R2.md "wikilink") , [윈도우 8](../Page/윈도우_8.md "wikilink"), [윈도우 서버 2012](../Page/윈도우_서버_2012.md "wikilink"), [윈도우 8.1](../Page/윈도우_8.1.md "wikilink"), [윈도우 서버 2012 R2](https://ko.wikipedia.org/wiki/윈도우_서버_2012_R2 "wikilink") 등에도 포함되어 있다. NTFS의 NT는 윈도우 NT와 비슷하게 새로운 기술이라는 뜻의 New Technology의 준말이다. [MS-DOS](../Page/MS-DOS.md "wikilink")와 이전 버전의 윈도우에서 쓰였던 [마이크로소프트](../Page/마이크로소프트.md "wikilink")의 이전 [FAT](../Page/파일_할당_테이블.md "wikilink") 파일 시스템을 대체하였다. NTFS는 FAT와 HPFS([고성능 파일 시스템](https://ko.wikipedia.org/wiki/고성능_파일_시스템 "wikilink"))을 거쳐 몇 가지 개선이 있다. 이를테면, [메타데이터](../Page/메타데이터.md "wikilink")의 지원, 고급 데이터 구조의 사용으로 인한 성능 개선, 신뢰성, 추가 확장 기능을 더한 디스크 공간 활용을 들 수 있다.
 
 ## 역사
 
-1980년대 중순, 마이크로소프트와 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")은 차세대 그래픽 [운영 체제를](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 만들기 위해 조인트 프로젝트를 개설하였다. 프로젝트의 결과물은 [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink")였으나 마이크로소프트와 IBM은 수많은 중요 문제에 대해 합의에 이르지 못했고 마침내 분리되었다: OS/2는 IBM의 프로젝트로 남았고 마이크로소프트는 윈도우 NT를 작업하게 되었다.
+1980년대 중순, 마이크로소프트와 [IBM](../Page/IBM.md "wikilink")은 차세대 그래픽 [운영 체제를](../Page/운영_체제.md "wikilink") 만들기 위해 조인트 프로젝트를 개설하였다. 프로젝트의 결과물은 [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink")였으나 마이크로소프트와 IBM은 수많은 중요 문제에 대해 합의에 이르지 못했고 마침내 분리되었다: OS/2는 IBM의 프로젝트로 남았고 마이크로소프트는 윈도우 NT를 작업하게 되었다.
 
 OS/2 파일 시스템 [HPFS](../Page/HPFS.md "wikilink")는 여러 중요한 신기능을 포함하였다. 마이크로소프트가 새로운 운영 체제를 만들었을 때 이러한 개념들 중 다수를 NTFS로 가져왔다.\[2\] 혈통이 동일했던 덕분인지 HPFS와 NTFS는 동일한 [디스크 파티션](https://ko.wikipedia.org/wiki/디스크_파티션 "wikilink") 식별 유형 코드 (07)을 사용한다.
 
@@ -15,9 +15,9 @@ OS/2 파일 시스템 [HPFS](../Page/HPFS.md "wikilink")는 여러 중요한 신
 
 NTFS는 다음의 5 가지 버전을 가지고 있다:
 
-  - **v1.0**: 1993년 [윈도우 NT 3.1과](https://ko.wikipedia.org/wiki/윈도우_NT_3.1 "wikilink") 함께 출시되었다. v1.0은 1.1 이상과 호환되지 않는다: 윈도우 NT 3.5x가 만든 볼륨은 업데이트 설치 없이 윈도우 NT 3.1에서 읽을 수 없다. (NT 3.5x 설치 미디어에서 이용 가능)\[4\]
-  - **v1.1**: 1995년 [윈도우 NT 3.51과](https://ko.wikipedia.org/wiki/윈도우_NT_3.51 "wikilink") 함께 출시되었다. 압축 파일, 명명 스트림, [접근 제어 목록을](https://ko.wikipedia.org/wiki/접근_제어_목록 "wikilink") 지원한다.\[5\]
-  - **v1.2**: 1996년 [윈도우 NT 4.0과](https://ko.wikipedia.org/wiki/윈도우_NT_4.0 "wikilink") 함께 출시되었다. [보안 서술자를](https://ko.wikipedia.org/wiki/보안_서술자 "wikilink") 지원한다. OS 출시 이후 NTFS 4.0으로 흔히 부른다.
+  - **v1.0**: 1993년 [윈도우 NT 3.1과](../Page/윈도우_NT_3.1.md "wikilink") 함께 출시되었다. v1.0은 1.1 이상과 호환되지 않는다: 윈도우 NT 3.5x가 만든 볼륨은 업데이트 설치 없이 윈도우 NT 3.1에서 읽을 수 없다. (NT 3.5x 설치 미디어에서 이용 가능)\[4\]
+  - **v1.1**: 1995년 [윈도우 NT 3.51과](../Page/윈도우_NT_3.51.md "wikilink") 함께 출시되었다. 압축 파일, 명명 스트림, [접근 제어 목록을](../Page/접근_제어_목록.md "wikilink") 지원한다.\[5\]
+  - **v1.2**: 1996년 [윈도우 NT 4.0과](../Page/윈도우_NT_4.0.md "wikilink") 함께 출시되었다. [보안 서술자를](https://ko.wikipedia.org/wiki/보안_서술자 "wikilink") 지원한다. OS 출시 이후 NTFS 4.0으로 흔히 부른다.
   - **v3.0**: [윈도우 2000과](../Page/윈도우_2000.md "wikilink") 함께 출시되었다.\[6\] 디스크 쿼터, [암호화 파일 시스템](../Page/암호화_파일_시스템.md "wikilink"), [희소 파일](https://ko.wikipedia.org/wiki/희소_파일 "wikilink"), [리파스 포인트](https://ko.wikipedia.org/wiki/NTFS_리파스_포인트 "wikilink"), [업데이트 시퀀스 번호 (USN) 저널링](https://ko.wikipedia.org/wiki/USN_저널 "wikilink"), $Extend 폴더 및 파일을 지원한다. [보안 서술자를](https://ko.wikipedia.org/wiki/보안_서술자 "wikilink") 재정비하여 같은 보안 설정을 사용하는 여러 파일들이 같은 서술자를 공유할 수 있다.\[7\] OS 출시 이후 NTFS 5.0으로 흔히 부른다.
   - **v3.1**: 2001년 가을 [윈도우 XP와](../Page/윈도우_XP.md "wikilink") 함께 출시되었다. (윈도우 비스타, 윈도우 7에도 연이어 사용됨) 추가 MFT 레코드 번호(손상된 MFT 파일 복구에 유용)와 더불어 마스터 파일 테이블 (MFT) 엔트리를 확장하였다. OS 출시 이후로 NTFS 5.1로 흔히 부른다.
 
@@ -27,7 +27,7 @@ NTFS는 다음의 5 가지 버전을 가지고 있다:
 
 <!-- end list -->
 
-  - **보안성** : 보안을 위해 [윈도우 NT](https://ko.wikipedia.org/wiki/윈도우_NT "wikilink") 객체 모델이 적용되었다. 어떤 파일을 열면, 해당 파일은 파일의 보안 속성을 관장하는 보안 서술자를 가진 파일 객체로 구현된다.
+  - **보안성** : 보안을 위해 [윈도우 NT](../Page/윈도우_NT.md "wikilink") 객체 모델이 적용되었다. 어떤 파일을 열면, 해당 파일은 파일의 보안 속성을 관장하는 보안 서술자를 가진 파일 객체로 구현된다.
 
 ## 내부 구조
 
@@ -228,11 +228,11 @@ NTFS 메타파일의 목록
 
 NTFS에는 다음과 같은 몇 가지 제한이 있다.
 
-  - 파일 이름: 파일 이름은 255 [UTF-16](https://ko.wikipedia.org/wiki/UTF-16 "wikilink") 코드 워드로 그 수가 제한된다. 특정한 이름은 볼륨 루트 디렉터리에 남아 있으므로 파일에 사용하지 못한다. 이를테면 $MFT, $MFTMirr, $LogFile, $Volume, $AttrDef, . (점), $Bitmap, $Boot, $BadClus, $Secure, $Upcase, $Extend가 있다.\[9\] 점 (.)과 $Extend는 둘 다 디렉터리이며 그 밖의 것들은 파일들이다. NT 커널은 완전한 경로를 32,767 utf-16 코드 워드로 그 수를 제한한다.
+  - 파일 이름: 파일 이름은 255 [UTF-16](../Page/UTF-16.md "wikilink") 코드 워드로 그 수가 제한된다. 특정한 이름은 볼륨 루트 디렉터리에 남아 있으므로 파일에 사용하지 못한다. 이를테면 $MFT, $MFTMirr, $LogFile, $Volume, $AttrDef, . (점), $Bitmap, $Boot, $BadClus, $Secure, $Upcase, $Extend가 있다.\[9\] 점 (.)과 $Extend는 둘 다 디렉터리이며 그 밖의 것들은 파일들이다. NT 커널은 완전한 경로를 32,767 utf-16 코드 워드로 그 수를 제한한다.
 
 <!-- end list -->
 
-  - 최대 볼륨 크기: 이론적으로 최대 NTFS 볼륨 크기는 2<sup>64</sup>−1 클러스터이다. 그러나 윈도우 XP 프로페셔널에 제공되는 최대 NTFS 볼륨 크기는 2<sup>32</sup>−1 클러스터이다. 이를테면 최대 윈도우 XP NTFS 볼륨 크기인 64 KB () 클러스터는 256 TB () - 64 KB이다. 기본 클러스터 크기 (4 KB)를 사용하면 최대 NTFS 볼륨 크기는 16 16 TB - 4 KB로 된다. 둘 다 윈도우 XP 서비스팩 1에서 제한되었던 128 GB ()보다는 높은 수치이다. 마스터 부트 레코드 (MBR) 디스크 상의 파티션 테이블이 최대 2 TB의 파티션 크기를 지원하기 때문에 다이내믹 또는 [GPT](https://ko.wikipedia.org/wiki/GUID_파티션_테이블 "wikilink") 볼륨은 2 TB 이상의 NTFS 볼륨을 만드는 데 사용하여야 한다. GPT 볼륨에서 윈도우 환경으로 시동하는 경우 [EFI를](https://ko.wikipedia.org/wiki/확장_펌웨어_인터페이스 "wikilink") 채용한 시스템과 64비트 지원을 요구한다.\[10\]
+  - 최대 볼륨 크기: 이론적으로 최대 NTFS 볼륨 크기는 2<sup>64</sup>−1 클러스터이다. 그러나 윈도우 XP 프로페셔널에 제공되는 최대 NTFS 볼륨 크기는 2<sup>32</sup>−1 클러스터이다. 이를테면 최대 윈도우 XP NTFS 볼륨 크기인 64 KB () 클러스터는 256 TB () - 64 KB이다. 기본 클러스터 크기 (4 KB)를 사용하면 최대 NTFS 볼륨 크기는 16 16 TB - 4 KB로 된다. 둘 다 윈도우 XP 서비스팩 1에서 제한되었던 128 GB ()보다는 높은 수치이다. 마스터 부트 레코드 (MBR) 디스크 상의 파티션 테이블이 최대 2 TB의 파티션 크기를 지원하기 때문에 다이내믹 또는 [GPT](../Page/GUID_파티션_테이블.md "wikilink") 볼륨은 2 TB 이상의 NTFS 볼륨을 만드는 데 사용하여야 한다. GPT 볼륨에서 윈도우 환경으로 시동하는 경우 [EFI를](https://ko.wikipedia.org/wiki/확장_펌웨어_인터페이스 "wikilink") 채용한 시스템과 64비트 지원을 요구한다.\[10\]
 
 <!-- end list -->
 
@@ -244,14 +244,14 @@ NTFS에는 다음과 같은 몇 가지 제한이 있다.
 
 <!-- end list -->
 
-  - 운영 체제 호환성: [윈도우 NT](https://ko.wikipedia.org/wiki/윈도우_NT "wikilink") 기반 운영 체제는 이 파일 시스템을 이용한다. 사용자는 다른 운영 체제의 컴퓨터와의 전송을 위하여 [플래시 드라이브나](https://ko.wikipedia.org/wiki/플래시_드라이브 "wikilink") 외장 [하드 드라이브를](https://ko.wikipedia.org/wiki/하드_드라이브 "wikilink") [FAT32](https://ko.wikipedia.org/wiki/FAT32 "wikilink")로 포맷할 것을 권고 받는다.
+  - 운영 체제 호환성: [윈도우 NT](../Page/윈도우_NT.md "wikilink") 기반 운영 체제는 이 파일 시스템을 이용한다. 사용자는 다른 운영 체제의 컴퓨터와의 전송을 위하여 [플래시 드라이브나](https://ko.wikipedia.org/wiki/플래시_드라이브 "wikilink") 외장 [하드 드라이브를](https://ko.wikipedia.org/wiki/하드_드라이브 "wikilink") [FAT32](https://ko.wikipedia.org/wiki/FAT32 "wikilink")로 포맷할 것을 권고 받는다.
 
 ## 같이 보기
 
   - [FAT](../Page/파일_할당_테이블.md "wikilink")
   - [HPFS](../Page/HPFS.md "wikilink")
-  - [UFS](https://ko.wikipedia.org/wiki/유닉스_파일_시스템 "wikilink")
-  - [파일 시스템](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink")
+  - [UFS](../Page/유닉스_파일_시스템.md "wikilink")
+  - [파일 시스템](../Page/파일_시스템.md "wikilink")
 
 ## 각주
 

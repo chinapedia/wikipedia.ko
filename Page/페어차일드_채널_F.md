@@ -5,7 +5,7 @@
 
 ## 채널 F
 
-채널 F는 나중에 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")을 창립한 로버트(Robert Noyce)가 개발한 [Fairchild F8](https://ko.wikipedia.org/wiki/Fairchild_F8 "wikilink") [CPU를](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") 탑재하였고 아주 기초적인 그래픽 성능을 보여 주었으나 [퐁](../Page/퐁.md "wikilink")에 비하면 한 단계 더 발전한 것이었다. 그리고 사운드는 본체에 내장된 [스피커](../Page/스피커.md "wikilink")로 출력되었다.
+채널 F는 나중에 [인텔](../Page/인텔.md "wikilink")을 창립한 로버트(Robert Noyce)가 개발한 [Fairchild F8](https://ko.wikipedia.org/wiki/Fairchild_F8 "wikilink") [CPU를](../Page/중앙_처리_장치.md "wikilink") 탑재하였고 아주 기초적인 그래픽 성능을 보여 주었으나 [퐁](../Page/퐁.md "wikilink")에 비하면 한 단계 더 발전한 것이었다. 그리고 사운드는 본체에 내장된 [스피커](../Page/스피커.md "wikilink")로 출력되었다.
 
 채널 F의 게임은 총 26종의 카트리지가 발매되었는데 그 중에 몇 가지는 하나의 카트리지에 하나 이상의 게임이 있는 경우도 있었으며 보통 19.95 달러에 판매되었다.
 

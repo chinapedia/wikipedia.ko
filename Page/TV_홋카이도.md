@@ -5,30 +5,30 @@
 
 ## 개요
 
-  - 회사주주로 [니혼케이자이 신문](../Page/니혼케이자이_신문.md "wikilink"), 건축회사 [이토구미 토건](https://ko.wikipedia.org/wiki/:ja:伊藤組土建 "wikilink"), [홋카이도 신문](https://ko.wikipedia.org/wiki/홋카이도_신문 "wikilink"), [TV 도쿄](../Page/TV_도쿄.md "wikilink") 외에도 [TVQ 규슈 방송](https://ko.wikipedia.org/wiki/TVQ_규슈_방송 "wikilink"), [주니치 신문](https://ko.wikipedia.org/wiki/주니치_신문 "wikilink"), [아사히 신문](../Page/아사히_신문.md "wikilink"), [요미우리 신문](../Page/요미우리_신문.md "wikilink") 도쿄 본사, [후지 TV의](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 지주회사 후지·미디어·홀딩스, [홋카이도 전력](https://ko.wikipedia.org/wiki/:ja:北海道電力 "wikilink") 등이 주주로 있다.
-  - 홋카이도 지역 4개 민영 방송사인 [삿포로 TV 방송](https://ko.wikipedia.org/wiki/삿포로_TV_방송 "wikilink"), [홋카이도 방송](https://ko.wikipedia.org/wiki/홋카이도_방송 "wikilink"), [홋카이도 분카 방송](https://ko.wikipedia.org/wiki/홋카이도_분카_방송 "wikilink"), [홋카이도 TV 방송은](https://ko.wikipedia.org/wiki/홋카이도_TV_방송 "wikilink") 홋카이도 전역에서 지상파로 시청이 가능했으나 TV 홋카이도는 경영난 및 디지털 TV방송 전환 등을 이유로 1999년을 끝으로 아날로그 중계국 설치를 중단하였고 이 때문에 [아바시리 지청](https://ko.wikipedia.org/wiki/아바시리_지청 "wikilink"), [도카치 지청](../Page/도카치_지청.md "wikilink"), [구시로 지청](https://ko.wikipedia.org/wiki/구시로_지청 "wikilink") 관내 지역에서는 지상파 텔레비전을 통한 방송 시청이 불가능했다.
-  - 아날로그 방송 종료 이후 국가예산을 지원받아 구시로, 아바시리, 기타미 지역에 디지털TV 송신소 및 중계국을 설치 하였으나 [혼베쓰정](https://ko.wikipedia.org/wiki/혼베쓰정 "wikilink")에는 중계국을 설치하지 않았다.
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") 아사히카와 송신소 개국 당시 아사히카와 지역에만「아사히카와 송신소 방송 개시 인사」라는 5분짜리 프로그램이 방송되었다.\[1\]
+  - 회사주주로 [니혼케이자이 신문](../Page/니혼케이자이_신문.md "wikilink"), 건축회사 [이토구미 토건](https://ko.wikipedia.org/wiki/:ja:伊藤組土建 "wikilink"), [홋카이도 신문](https://ko.wikipedia.org/wiki/홋카이도_신문 "wikilink"), [TV 도쿄](../Page/TV_도쿄.md "wikilink") 외에도 [TVQ 규슈 방송](../Page/TVQ_규슈_방송.md "wikilink"), [주니치 신문](https://ko.wikipedia.org/wiki/주니치_신문 "wikilink"), [아사히 신문](../Page/아사히_신문.md "wikilink"), [요미우리 신문](../Page/요미우리_신문.md "wikilink") 도쿄 본사, [후지 TV의](../Page/후지_TV.md "wikilink") 지주회사 후지·미디어·홀딩스, [홋카이도 전력](https://ko.wikipedia.org/wiki/:ja:北海道電力 "wikilink") 등이 주주로 있다.
+  - 홋카이도 지역 4개 민영 방송사인 [삿포로 TV 방송](../Page/삿포로_TV_방송.md "wikilink"), [홋카이도 방송](../Page/홋카이도_방송.md "wikilink"), [홋카이도 분카 방송](https://ko.wikipedia.org/wiki/홋카이도_분카_방송 "wikilink"), [홋카이도 TV 방송은](../Page/홋카이도_TV_방송.md "wikilink") 홋카이도 전역에서 지상파로 시청이 가능했으나 TV 홋카이도는 경영난 및 디지털 TV방송 전환 등을 이유로 1999년을 끝으로 아날로그 중계국 설치를 중단하였고 이 때문에 [아바시리 지청](../Page/아바시리_지청.md "wikilink"), [도카치 지청](../Page/도카치_지청.md "wikilink"), [구시로 지청](../Page/구시로_지청.md "wikilink") 관내 지역에서는 지상파 텔레비전을 통한 방송 시청이 불가능했다.
+  - 아날로그 방송 종료 이후 국가예산을 지원받아 구시로, 아바시리, 기타미 지역에 디지털TV 송신소 및 중계국을 설치 하였으나 [혼베쓰정](../Page/혼베쓰정.md "wikilink")에는 중계국을 설치하지 않았다.
+  - [1991년](../Page/1991년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") 아사히카와 송신소 개국 당시 아사히카와 지역에만「아사히카와 송신소 방송 개시 인사」라는 5분짜리 프로그램이 방송되었다.\[1\]
   - 개국 이래 7시 시보, 10시 시보, 정오 시보, 오후 6시 시보 등을 내보내고 있었지만 지상파 디지털 방송을 위해 시보를 폐지했다.
 
 ## 연혁
 
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") - 삿포로 상공 회의소 부회장이 우정대신에게 텔레비전 주파수 할당을 요구한다.
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") - 삿포로 지역에 텔레비전 주파수(30kW 채널 17ch) 할당.
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") - 회사설립.
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") - [삿포로](https://ko.wikipedia.org/wiki/삿포로 "wikilink") 송신소 개국.텔레비전 본방송을 개시(동시에TXN에 가맹).
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink") - 아사히카와 송신소 개국.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [2월 19일](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") - 무로란 송신소 개국.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") - 하코다테 송신소 개국.
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") - 개국 5주년.
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") - 개국 10주년
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") - 삿포로 지역에서 지상파 디지털 텔레비전 방송 개시.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") - 하코다테·아사히카와·무로란 지역 지상파 디지털 텔레비전 방송 개시.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") - 아날로그 TV방송 종료
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") - 쿠시로 송신소 개국.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 7일](https://ko.wikipedia.org/wiki/11월_7일 "wikilink") - 오비히로 송신소 개국.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") - 아바시리 송신소, 키타미 중계국 개국.
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") - 개국 25 주년.
+  - [1985년](../Page/1985년.md "wikilink") [6월](../Page/6월.md "wikilink") - 삿포로 상공 회의소 부회장이 우정대신에게 텔레비전 주파수 할당을 요구한다.
+  - [1986년](../Page/1986년.md "wikilink") [2월](../Page/2월.md "wikilink") - 삿포로 지역에 텔레비전 주파수(30kW 채널 17ch) 할당.
+  - [1988년](../Page/1988년.md "wikilink") [6월](../Page/6월.md "wikilink") - 회사설립.
+  - [1989년](../Page/1989년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - [삿포로](https://ko.wikipedia.org/wiki/삿포로 "wikilink") 송신소 개국.텔레비전 본방송을 개시(동시에TXN에 가맹).
+  - [1991년](../Page/1991년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") - 아사히카와 송신소 개국.
+  - [1993년](../Page/1993년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") - 무로란 송신소 개국.
+  - [1993년](../Page/1993년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") - 하코다테 송신소 개국.
+  - [1994년](../Page/1994년.md "wikilink") [10월](../Page/10월.md "wikilink") - 개국 5주년.
+  - [1999년](../Page/1999년.md "wikilink") [10월](../Page/10월.md "wikilink") - 개국 10주년
+  - [2006년](../Page/2006년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") - 삿포로 지역에서 지상파 디지털 텔레비전 방송 개시.
+  - [2007년](../Page/2007년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - 하코다테·아사히카와·무로란 지역 지상파 디지털 텔레비전 방송 개시.
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - 아날로그 TV방송 종료
+  - [2011년](../Page/2011년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") - 쿠시로 송신소 개국.
+  - [2011년](../Page/2011년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") - 오비히로 송신소 개국.
+  - [2011년](../Page/2011년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") - 아바시리 송신소, 키타미 중계국 개국.
+  - [2014년](../Page/2014년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - 개국 25 주년.
 
 ## 편성의 특징
 
@@ -46,26 +46,26 @@
   - 뉴스 스튜디오 (17 평) : "TVh 道新 뉴스" 중계 처리 등의 마스터 서브
   - 뉴스 스튜디오의 후방 유리 너머로 마스터(주 조정)실이 있다.
 
-## [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [홋카이도](../Page/홋카이도.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
 ### 일본 방송 협회
 
-  - [NHK 삿포로 방송국](https://ko.wikipedia.org/wiki/NHK_삿포로_방송국 "wikilink")(홋카이도 지역 거점 방송국)
-  - [NHK 하코다테 방송국](https://ko.wikipedia.org/wiki/NHK_하코다테_방송국 "wikilink")
-  - [NHK 아사히카와 방송국](https://ko.wikipedia.org/wiki/NHK_아사히카와_방송국 "wikilink")
-  - [NHK 무로란 방송국](https://ko.wikipedia.org/wiki/NHK_무로란_방송국 "wikilink")
-  - [NHK 기타미 방송국](https://ko.wikipedia.org/wiki/NHK_기타미_방송국 "wikilink")
-  - [NHK 오비히로 방송국](https://ko.wikipedia.org/wiki/NHK_오비히로_방송국 "wikilink")
-  - [NHK 구시로 방송국](https://ko.wikipedia.org/wiki/NHK_구시로_방송국 "wikilink")
+  - [NHK 삿포로 방송국](../Page/NHK_삿포로_방송국.md "wikilink")(홋카이도 지역 거점 방송국)
+  - [NHK 하코다테 방송국](../Page/NHK_하코다테_방송국.md "wikilink")
+  - [NHK 아사히카와 방송국](../Page/NHK_아사히카와_방송국.md "wikilink")
+  - [NHK 무로란 방송국](../Page/NHK_무로란_방송국.md "wikilink")
+  - [NHK 기타미 방송국](../Page/NHK_기타미_방송국.md "wikilink")
+  - [NHK 오비히로 방송국](../Page/NHK_오비히로_방송국.md "wikilink")
+  - [NHK 구시로 방송국](../Page/NHK_구시로_방송국.md "wikilink")
 
 ### 지역 민영 방송국
 
-  - [삿포로 TV 방송](https://ko.wikipedia.org/wiki/삿포로_TV_방송 "wikilink")(STV)(TV는 [니혼 TV](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 계열, 라디오는 NRN 계열이며 라디오 부문은 현재 분사화하여 [STV라디오](https://ko.wikipedia.org/wiki/STV라디오 "wikilink")로 불림)
-  - [홋카이도 방송](https://ko.wikipedia.org/wiki/홋카이도_방송 "wikilink")(HBC)(TV는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열, 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")·[NRN](https://ko.wikipedia.org/wiki/NRN "wikilink")계열)
-  - [홋카이도 분카 방송](https://ko.wikipedia.org/wiki/홋카이도_문화_방송 "wikilink")(uhb)([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열)
-  - [홋카이도 TV 방송](https://ko.wikipedia.org/wiki/홋카이도_TV_방송 "wikilink")(HTB)([TV 아사히](../Page/TV_아사히.md "wikilink") 계열)
-  - [FM홋카이도](https://ko.wikipedia.org/wiki/FM홋카이도 "wikilink")([JAPAN FM NETWORK](https://ko.wikipedia.org/wiki/JFN "wikilink") 계열)
-  - [FM노스웨이브](https://ko.wikipedia.org/wiki/FM노스웨이브 "wikilink")([JAPAN FM LEAGUE](https://ko.wikipedia.org/wiki/JAPAN_FM_LEAGUE "wikilink") 계열)
+  - [삿포로 TV 방송](../Page/삿포로_TV_방송.md "wikilink")(STV)(TV는 [니혼 TV](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 계열, 라디오는 NRN 계열이며 라디오 부문은 현재 분사화하여 [STV라디오](https://ko.wikipedia.org/wiki/STV라디오 "wikilink")로 불림)
+  - [홋카이도 방송](../Page/홋카이도_방송.md "wikilink")(HBC)(TV는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열, 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")·[NRN](../Page/NRN.md "wikilink")계열)
+  - [홋카이도 분카 방송](../Page/홋카이도_문화_방송.md "wikilink")(uhb)([후지 TV](../Page/후지_TV.md "wikilink") 계열)
+  - [홋카이도 TV 방송](../Page/홋카이도_TV_방송.md "wikilink")(HTB)([TV 아사히](../Page/TV_아사히.md "wikilink") 계열)
+  - [FM홋카이도](https://ko.wikipedia.org/wiki/FM홋카이도 "wikilink")([JAPAN FM NETWORK](../Page/JFN.md "wikilink") 계열)
+  - [FM노스웨이브](https://ko.wikipedia.org/wiki/FM노스웨이브 "wikilink")([JAPAN FM LEAGUE](../Page/JAPAN_FM_LEAGUE.md "wikilink") 계열)
 
 ## 각주
 

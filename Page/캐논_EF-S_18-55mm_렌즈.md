@@ -24,7 +24,7 @@ EF-S 18-55mm IS
 
   - [DxOMark 시험 결과](http://dxomark.com/index.php/en/Lens-with-Camera/All-tested-lenses/Canon/EF-S-18-55mm-f-3.5-5.6-IS)
 
-  - [photozone.de 리뷰. [캐논 EOS 50D에](https://ko.wikipedia.org/wiki/캐논_EOS_50D "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/404-canon_1855_3556is_50d)
+  - [photozone.de 리뷰. [캐논 EOS 50D에](../Page/캐논_EOS_50D.md "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/404-canon_1855_3556is_50d)
 
   - [photozone.de 리뷰. [캐논 EOS 350D에](../Page/캐논_EOS_350D.md "wikilink") 마운트하여 테스트한 결과.](http://www.photozone.de/canon-eos/181-canon-ef-s-18-55mm-f35-56-is-test-report--review)
 

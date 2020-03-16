@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [Inotify](https://ko.wikipedia.org/wiki/Inotify).
 
 
-**inotify**는 파일 시스템 이벤트 통보 기능을 제공해 주는 [리눅스 커널](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 서브시스템 중 하나이다. inotify는 존 맥컷챈()이 개발하였는데, 로버트 러브(Robert Love) 및 뒤이어 애이미 그리피스(Amy Griffis)의 도움을 받았다. [dnotify](https://ko.wikipedia.org/wiki/dnotify "wikilink")를 대체한다. inotify는 메인라인 커널에 2.6.13 버전부터 포함되었다. 그 전에도 [소프트웨어 패치를](https://ko.wikipedia.org/wiki/소프트웨어_패치 "wikilink") 통해서 사용이 가능하였다. inotify는 [파일 시스템의](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") 변경 사항을 알아내고, 커널에 의해 직접 응용 프로그램에 이러한 변경 사항들을 보고하기 위한 것이다.
+**inotify**는 파일 시스템 이벤트 통보 기능을 제공해 주는 [리눅스 커널](../Page/리눅스_커널.md "wikilink") 서브시스템 중 하나이다. inotify는 존 맥컷챈()이 개발하였는데, 로버트 러브(Robert Love) 및 뒤이어 애이미 그리피스(Amy Griffis)의 도움을 받았다. [dnotify](https://ko.wikipedia.org/wiki/dnotify "wikilink")를 대체한다. inotify는 메인라인 커널에 2.6.13 버전부터 포함되었다. 그 전에도 [소프트웨어 패치를](https://ko.wikipedia.org/wiki/소프트웨어_패치 "wikilink") 통해서 사용이 가능하였다. inotify는 [파일 시스템의](../Page/파일_시스템.md "wikilink") 변경 사항을 알아내고, 커널에 의해 직접 응용 프로그램에 이러한 변경 사항들을 보고하기 위한 것이다.
 
-Inotify는 [비이글과](https://ko.wikipedia.org/wiki/비이글_\(소프트웨어\) "wikilink") 같은 [데스크톱 검색](../Page/데스크톱_검색.md "wikilink") 유틸리티에 자주 이용된다. inotify를 쓰면, [파일 시스템의](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") 변경을 탐지하기 위하여 일정 주기마다 반복하여 파일 시스템을 탐색할 필요가 없이 변경된 파일들을 [리인덱싱](https://ko.wikipedia.org/wiki/인덱스_\(정보_기술\) "wikilink") 할 수 있으며, 그 덕분에 프로그램은 짧은 시간의 "변경부터 리인덱싱까지의 시간"()을 가질 수 있다. inotify는 그러한 유틸리티들로 하여금 비교적 적은 [CPU 시간만을](https://ko.wikipedia.org/wiki/CPU_시간 "wikilink") 사용하도록 해주며, 결국 inotify는 이러한 프로그램들로 하여금 훨씬 효율적인 방식을 사용할 수 있도록 해 준다.
+Inotify는 [비이글과](https://ko.wikipedia.org/wiki/비이글_\(소프트웨어\) "wikilink") 같은 [데스크톱 검색](../Page/데스크톱_검색.md "wikilink") 유틸리티에 자주 이용된다. inotify를 쓰면, [파일 시스템의](../Page/파일_시스템.md "wikilink") 변경을 탐지하기 위하여 일정 주기마다 반복하여 파일 시스템을 탐색할 필요가 없이 변경된 파일들을 [리인덱싱](https://ko.wikipedia.org/wiki/인덱스_\(정보_기술\) "wikilink") 할 수 있으며, 그 덕분에 프로그램은 짧은 시간의 "변경부터 리인덱싱까지의 시간"()을 가질 수 있다. inotify는 그러한 유틸리티들로 하여금 비교적 적은 [CPU 시간만을](https://ko.wikipedia.org/wiki/CPU_시간 "wikilink") 사용하도록 해주며, 결국 inotify는 이러한 프로그램들로 하여금 훨씬 효율적인 방식을 사용할 수 있도록 해 준다.
 
 inotify는 또한 [파일 탐색기와](../Page/파일_탐색기.md "wikilink") 같이 디렉터리 목록을 자동적으로 갱신하는 일에 쓰일 수 있다. 또한 설정 파일을 다시 읽어 들이는 일이나, 로그 변경, 백업, 동기화, 업로드 같은 일에 쓰일 수 있다.
 
 ## 장점
 
-Inotify는 앞서 개발된 [dnotify](https://ko.wikipedia.org/wiki/dnotify "wikilink")에 비해 많은 장점을 가지고 있다. dnotify를 가지고서는 프로그램은 모니터링하는 각각의 디렉터리에 대해서 각각 하나씩의 [파일 서술자를](https://ko.wikipedia.org/wiki/파일_서술자 "wikilink") 사용했어야만 했다. 이 경우, 프로세스 당 파일 서술자의 개수가 한계에 다다를 수 있고, 또 그렇게 되면 일종의 [병목 (bottleneck)이](https://ko.wikipedia.org/wiki/병목_\(공학\) "wikilink") 되기 때문에 이것은 좋은 방법이 아니었다. dnotify는 제거 가능한 미디어(removable media)의 파일에 사용할 때에도 문제가 되었다. 파일 서술자 때문에 장치가 사용중(busy)인 상태가 되었으므로 장치가 해제(un-mount)될 수 없었다.
+Inotify는 앞서 개발된 [dnotify](https://ko.wikipedia.org/wiki/dnotify "wikilink")에 비해 많은 장점을 가지고 있다. dnotify를 가지고서는 프로그램은 모니터링하는 각각의 디렉터리에 대해서 각각 하나씩의 [파일 서술자를](../Page/파일_서술자.md "wikilink") 사용했어야만 했다. 이 경우, 프로세스 당 파일 서술자의 개수가 한계에 다다를 수 있고, 또 그렇게 되면 일종의 [병목 (bottleneck)이](https://ko.wikipedia.org/wiki/병목_\(공학\) "wikilink") 되기 때문에 이것은 좋은 방법이 아니었다. dnotify는 제거 가능한 미디어(removable media)의 파일에 사용할 때에도 문제가 되었다. 파일 서술자 때문에 장치가 사용중(busy)인 상태가 되었으므로 장치가 해제(un-mount)될 수 없었다.
 
-dnotify의 다른 단점은, 모니터(monitor)를 디렉터리 단위에서만 변경 가능하기 때문에, 세세한 제어가 불가능했다는 점이다. 프로그래머들은 Dnotify로부터 통지(notification)를 받았을 때, 무슨 일이 일어났는지 정확히 알기 위해서는 스태트(stat) 함수를 이용하고, 그 결과의 [캐시](https://ko.wikipedia.org/wiki/캐시 "wikilink")를 유지해야만 했으며, 디렉터리 안의 어떤 파일에서 변경이 일어났을 경우 새로운 스태트(stat) 스트럭쳐를 생성하고는 그것을 이미 캐시된 것과 비교해야만 했다.
+dnotify의 다른 단점은, 모니터(monitor)를 디렉터리 단위에서만 변경 가능하기 때문에, 세세한 제어가 불가능했다는 점이다. 프로그래머들은 Dnotify로부터 통지(notification)를 받았을 때, 무슨 일이 일어났는지 정확히 알기 위해서는 스태트(stat) 함수를 이용하고, 그 결과의 [캐시](../Page/캐시.md "wikilink")를 유지해야만 했으며, 디렉터리 안의 어떤 파일에서 변경이 일어났을 경우 새로운 스태트(stat) 스트럭쳐를 생성하고는 그것을 이미 캐시된 것과 비교해야만 했다.
 
 inotify는 최소한의 파일 서술자만 사용하는 API를 쓰고 있다. 프로그래머들은 이미 널리 쓰이고 있는 select 및 poll 인터페이스를 이용하여 이를 사용할 수 있다. 이는 시그널 통지 방식을 채용하였던 [dnotify](https://ko.wikipedia.org/wiki/dnotify "wikilink")와 상반된다. 이 덕분에 기존의 select나 poll 기반 라이브러리(예. [Glib](https://ko.wikipedia.org/wiki/Glib "wikilink"))와의 통합이 쉬워졌다.
 

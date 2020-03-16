@@ -5,12 +5,12 @@
 
 ## 연혁
 
-  - [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") 19시 FM방송 실험방송국 도쿄에서 개국
-  - [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [12월 16일](https://ko.wikipedia.org/wiki/12월_16일 "wikilink") 도쿄에서 스테레오 방송 시작.
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") FM방송 본 방송 시작.
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") 일본에 소재한 모든 NHK-FM 방송국에서 스테레오 방송이 가능해진다.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 24시간 방송 개시.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") NHK의 인터넷 라디오 서비스 라지루★라지루를 통해 인터넷 재전송 시작
+  - [1957년](../Page/1957년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") 19시 FM방송 실험방송국 도쿄에서 개국
+  - [1963년](../Page/1963년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") 도쿄에서 스테레오 방송 시작.
+  - [1969년](../Page/1969년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") FM방송 본 방송 시작.
+  - [1977년](../Page/1977년.md "wikilink") [11월](../Page/11월.md "wikilink") 일본에 소재한 모든 NHK-FM 방송국에서 스테레오 방송이 가능해진다.
+  - [1998년](../Page/1998년.md "wikilink") [4월](../Page/4월.md "wikilink") 24시간 방송 개시.
+  - [2011년](../Page/2011년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") NHK의 인터넷 라디오 서비스 라지루★라지루를 통해 인터넷 재전송 시작
 
 ## 특징
 

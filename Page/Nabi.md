@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Nabi](https://ko.wikipedia.org/wiki/Nabi).
 
 
-**Nabi**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink") [김연주의](https://ko.wikipedia.org/wiki/김연주_\(만화가\) "wikilink") [만화](https://ko.wikipedia.org/wiki/만화 "wikilink") 작품이다. 가상의 동양풍 국가인 수(水)국과 문(文)국을 배경으로, 어느 날 갑자기 세상 밖으로 뿔뿔이 흩어지게 된 아이들의 이야기를 다루고 있다.
+**Nabi**는 [대한민국](../Page/대한민국.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink") [김연주의](../Page/김연주_\(만화가\).md "wikilink") [만화](../Page/만화.md "wikilink") 작품이다. 가상의 동양풍 국가인 수(水)국과 문(文)국을 배경으로, 어느 날 갑자기 세상 밖으로 뿔뿔이 흩어지게 된 아이들의 이야기를 다루고 있다.
 
 2003년부터 2004년 동안에 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")의 격주간 만화잡지 〈이슈〉에서 연재된 '동일한 세계관의' 단편들을 바탕으로 출판한 단편집이 〈**NABI the proto type**〉이다. 총 6편의 단편이 수록되어 있다.
 
-그 후 동 잡지에 연재된 [소녀왕](https://ko.wikipedia.org/wiki/소녀왕 "wikilink")의 연재가 마무리되자, 이제는 월간지로 바뀐 〈이슈〉 2006년 12월호부터 〈Nabi〉라는 제목으로 연재를 시작하여, 현재도 연재중이며, 단행본은 2012년 기준 13권까지 발매되었다.
+그 후 동 잡지에 연재된 [소녀왕](../Page/소녀왕.md "wikilink")의 연재가 마무리되자, 이제는 월간지로 바뀐 〈이슈〉 2006년 12월호부터 〈Nabi〉라는 제목으로 연재를 시작하여, 현재도 연재중이며, 단행본은 2012년 기준 13권까지 발매되었다.
 
 ## 등장인물
 
@@ -81,42 +81,42 @@
 
 <!-- end list -->
 
-1.  NABI the proto type - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") ()
+1.  NABI the proto type - [2005년](../Page/2005년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") ()
 
 ### 본편
 
-1.  Nabi 1권 - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") ()
-2.  Nabi 2권 - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink") ()
-3.  Nabi 3권 - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") ()
-4.  Nabi 4권 - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") ()
-5.  Nabi 5권 - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") ()
-6.  Nabi 6권 - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") ()
-7.  Nabi 7권 - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") ()
-8.  Nabi 8권 - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") ()
-9.  Nabi 9권 - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 29일](https://ko.wikipedia.org/wiki/10월_29일 "wikilink") ()
-10. Nabi 10권 - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") ()
-11. Nabi 11권 - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") ()
-12. Nabi 12권 - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") ()
-13. Nabi 13권 - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") ()
-14. Nabi 14권 - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") ()
-15. Nabi 15권 - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 28일](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") ()
-16. Nabi 16권 - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 27일](https://ko.wikipedia.org/wiki/12월_27일 "wikilink") ()
-17. Nabi 17권 - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 24일](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") ()
-18. Nabi 18권 - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") ()
-19. Nabi 19권 - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") ()
-20. Nabi 20권 - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") ()
-21. Nabi 21권 - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") ()
-22. Nabi 22권 - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") ()
-23. Nabi 23권 - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") ()
-24. Nabi 24권 - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink") ()
+1.  Nabi 1권 - [2007년](../Page/2007년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") ()
+2.  Nabi 2권 - [2007년](../Page/2007년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") ()
+3.  Nabi 3권 - [2007년](../Page/2007년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") ()
+4.  Nabi 4권 - [2008년](../Page/2008년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") ()
+5.  Nabi 5권 - [2008년](../Page/2008년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") ()
+6.  Nabi 6권 - [2009년](../Page/2009년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") ()
+7.  Nabi 7권 - [2009년](../Page/2009년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") ()
+8.  Nabi 8권 - [2010년](../Page/2010년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") ()
+9.  Nabi 9권 - [2010년](../Page/2010년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") ()
+10. Nabi 10권 - [2011년](../Page/2011년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") ()
+11. Nabi 11권 - [2011년](../Page/2011년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") ()
+12. Nabi 12권 - [2012년](../Page/2012년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") ()
+13. Nabi 13권 - [2012년](../Page/2012년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") ()
+14. Nabi 14권 - [2012년](../Page/2012년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") ()
+15. Nabi 15권 - [2013년](../Page/2013년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink") ()
+16. Nabi 16권 - [2013년](../Page/2013년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") ()
+17. Nabi 17권 - [2014년](../Page/2014년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") ()
+18. Nabi 18권 - [2015년](../Page/2015년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") ()
+19. Nabi 19권 - [2015년](../Page/2015년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") ()
+20. Nabi 20권 - [2016년](../Page/2016년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") ()
+21. Nabi 21권 - [2016년](../Page/2016년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") ()
+22. Nabi 22권 - [2017년](../Page/2017년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") ()
+23. Nabi 23권 - [2017년](../Page/2017년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") ()
+24. Nabi 24권 - [2018년](../Page/2018년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink") ()
 
 ## 함께 보기
 
-  - [김연주](https://ko.wikipedia.org/wiki/김연주_\(만화가\) "wikilink")
-  - [소녀왕](https://ko.wikipedia.org/wiki/소녀왕 "wikilink")
+  - [김연주](../Page/김연주_\(만화가\).md "wikilink")
+  - [소녀왕](../Page/소녀왕.md "wikilink")
   - [Fly](https://ko.wikipedia.org/wiki/Fly "wikilink")
-  - [PLATINA](https://ko.wikipedia.org/wiki/PLATINA "wikilink")
-  - [순애보](https://ko.wikipedia.org/wiki/순애보 "wikilink")
+  - [PLATINA](../Page/PLATINA.md "wikilink")
+  - [순애보](../Page/순애보.md "wikilink")
   - [messenger](https://ko.wikipedia.org/wiki/messenger "wikilink")
   - [성도체스터 살인사건](https://ko.wikipedia.org/wiki/성도체스터_살인사건 "wikilink")
   - [윙크(만화출판사)](https://ko.wikipedia.org/wiki/윙크\(만화출판사\) "wikilink")

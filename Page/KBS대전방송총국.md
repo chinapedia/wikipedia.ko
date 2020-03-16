@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
 
 
-**KBS대전방송총국**(KBS大田放送總局)은 [대전세종충남](https://ko.wikipedia.org/wiki/대전충남 "wikilink") 지역을 방송구역으로 하는 [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink")의 지역방송총국이다. 지역총국 중 하나로, 하부에 속해있는 지역국은 없다.
+**KBS대전방송총국**(KBS大田放送總局)은 [대전세종충남](https://ko.wikipedia.org/wiki/대전충남 "wikilink") 지역을 방송구역으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. 지역총국 중 하나로, 하부에 속해있는 지역국은 없다.
 
 ## 개요
 
@@ -209,13 +209,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스광장" title="wikilink">KBS 뉴스광장 대전·세종·충남</a></p></td>
+<td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 대전·세종·충남</a></p></td>
 <td><p>평일 15분</p></td>
 <td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 50분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/손지화" title="wikilink">손지화</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_930_뉴스" title="wikilink">KBS 930 뉴스 대전·세종·충남</a></p></td>
+<td><p><a href="../Page/KBS_930_뉴스.md" title="wikilink">KBS 930 뉴스 대전·세종·충남</a></p></td>
 <td><p>평일 10분</p></td>
 <td><p>평일 오전 9시 50분 ~ 10시</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김연선" title="wikilink">김연선</a></p></td>
@@ -227,7 +227,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/손지화" title="wikilink">손지화</a>, <a href="https://ko.wikipedia.org/wiki/박해평" title="wikilink">박해평</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7" title="wikilink">KBS 뉴스 7 대전·세종·충남</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 대전·세종·충남</a></p></td>
 <td><p>금요일 5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성용희" title="wikilink">성용희</a></p></td>
@@ -246,17 +246,17 @@
 
 #### TV 프로그램
 
-  - 모든방송은 HD기준인 동시에 지역총국은 DMB방송을 하지않으며 [6시 내고향은](https://ko.wikipedia.org/wiki/6시_내고향 "wikilink") 월\~목요일사이에 네트워크 제작을 한다.
+  - 모든방송은 HD기준인 동시에 지역총국은 DMB방송을 하지않으며 [6시 내고향은](../Page/6시_내고향.md "wikilink") 월\~목요일사이에 네트워크 제작을 한다.
 
-| 방송 시간        | 방송 프로그램                                                    | 비고              |
-| ------------ | ---------------------------------------------------------- | --------------- |
-| 17:30 (월\~화) | 전국을 달린다                                                    | 스페셜은 금요일 11시 방송 |
-| 17:40 (수\~금) | TV이웃 다정다감                                                  |                 |
-| 19:40 (화)    | 인터뷰 스튜디오 담백                                                |                 |
-| 19:40 (수)    | 거북이늬우스                                                     |                 |
-| 08:25 (금)    | [아침마당](https://ko.wikipedia.org/wiki/아침마당 "wikilink") (대전) |                 |
-| 19:40 (금)    | KBS 대전 생생토론                                                | 생생토크            |
-| 17:30 (금)    | [이야기가 있는 풍경](../Page/이야기가_있는_풍경.md "wikilink")             |                 |
+| 방송 시간        | 방송 프로그램                                        | 비고              |
+| ------------ | ---------------------------------------------- | --------------- |
+| 17:30 (월\~화) | 전국을 달린다                                        | 스페셜은 금요일 11시 방송 |
+| 17:40 (수\~금) | TV이웃 다정다감                                      |                 |
+| 19:40 (화)    | 인터뷰 스튜디오 담백                                    |                 |
+| 19:40 (수)    | 거북이늬우스                                         |                 |
+| 08:25 (금)    | [아침마당](../Page/아침마당.md "wikilink") (대전)        |                 |
+| 19:40 (금)    | KBS 대전 생생토론                                    | 생생토크            |
+| 17:30 (금)    | [이야기가 있는 풍경](../Page/이야기가_있는_풍경.md "wikilink") |                 |
 
 ### 라디오
 
@@ -281,13 +281,13 @@
 | [KBS대전 아나운서](http://office.kbs.co.kr/announcer/archives/category/kbs-announcer/announcer-daejeon) |
 | ------------------------------------------------------------------------------------------------- |
 | 입사연도                                                                                              |
-| [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")                                           |
-| [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")                                           |
-| [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")                                           |
-| [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")                                           |
-| [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")                                           |
-| [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")                                           |
-| [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink")                                           |
+| [1995년](../Page/1995년.md "wikilink")                                                              |
+| [2001년](../Page/2001년.md "wikilink")                                                              |
+| [2004년](../Page/2004년.md "wikilink")                                                              |
+| [2005년](../Page/2005년.md "wikilink")                                                              |
+| [2007년](../Page/2007년.md "wikilink")                                                              |
+| [2008년](../Page/2008년.md "wikilink")                                                              |
+| [2020년](../Page/2020년.md "wikilink")                                                              |
 |                                                                                                   |
 
 ### 전직 아나운서
@@ -297,16 +297,16 @@
   - [김윤한](https://ko.wikipedia.org/wiki/김윤한 "wikilink")(1968\~1985, 전 KBS 서울본국)
   - [이종태](https://ko.wikipedia.org/wiki/이종태 "wikilink")(1981\~2008, 현 퇴사)
   - 박윤도(1985\~2010, 현 퇴사)
-  - [조건진](https://ko.wikipedia.org/wiki/조건진 "wikilink")(1987\~1988, 현 KBS 서울본국)
+  - [조건진](../Page/조건진.md "wikilink")(1987\~1988, 현 KBS 서울본국)
   - [윤성원](https://ko.wikipedia.org/wiki/윤성원_\(1949년\) "wikilink")(1993\~1994, 전 KBS 서울본국)
   - [박상규](https://ko.wikipedia.org/wiki/박상규 "wikilink")(1993\~1996, 전 SBS 기자/현 채널A 앵커)
   - [양민오](https://ko.wikipedia.org/wiki/양민오 "wikilink")(1995\~2004, 전 KBS 전주총국 기자/현 KBS 대전총국 보도국 편집부장)
   - [박장훈](https://ko.wikipedia.org/wiki/박장훈 "wikilink")(2004\~2005, 전 KBS 원주국 기자/현 KBS 대전총국 보도국 기자)
   - [송민석](https://ko.wikipedia.org/wiki/송민석 "wikilink")(2005\~2007, 전 KBS 원주국 기자/현 KBS 대전총국 보도국 기자)
-  - [유지철](https://ko.wikipedia.org/wiki/유지철 "wikilink")(1995\~1996, 현 KBS 서울본국)
+  - [유지철](../Page/유지철.md "wikilink")(1995\~1996, 현 KBS 서울본국)
   - [최시중](https://ko.wikipedia.org/wiki/최시중_\(아나운서\) "wikilink")(1996\~2003, 현 KBS 서울본국)
   - [박성준](https://ko.wikipedia.org/wiki/박성준 "wikilink")(1996\~2012, 현 JTBC 아나운서 팀장)
-  - [이재홍](https://ko.wikipedia.org/wiki/이재홍_\(아나운서\) "wikilink")(1998\~1999, 현 KBS 서울본국)
+  - [이재홍](../Page/이재홍_\(아나운서\).md "wikilink")(1998\~1999, 현 KBS 서울본국)
   - [이정헌](https://ko.wikipedia.org/wiki/이정헌 "wikilink")(1998\~1999, 전 JTV 기자/현 JTBC 기자, 앵커)
 
 #### 여성
@@ -314,13 +314,13 @@
   - [김이숙](https://ko.wikipedia.org/wiki/김이숙 "wikilink")(1990\~2003, 퇴사)
   - [지승현](../Page/지승현_\(방송인\).md "wikilink")(2000\~2001, 전 KBS 서울본국, 현 프리랜서 MC)
   - [배유선](https://ko.wikipedia.org/wiki/배유선 "wikilink")(1978\~2012, 퇴사)
-  - [변우영](https://ko.wikipedia.org/wiki/변우영 "wikilink")(1994\~1997, 현 KBS 서울본국)
-  - [윤지영](https://ko.wikipedia.org/wiki/윤지영_\(아나운서\) "wikilink")(1997\~1998, 현 KBS 서울본국)
+  - [변우영](../Page/변우영.md "wikilink")(1994\~1997, 현 KBS 서울본국)
+  - [윤지영](../Page/윤지영_\(아나운서\).md "wikilink")(1997\~1998, 현 KBS 서울본국)
   - [김여진](https://ko.wikipedia.org/wiki/김여진_\(아나운서\) "wikilink")(1998\~2004, 현 YTN 아나운서)
-  - [박주아](https://ko.wikipedia.org/wiki/박주아_\(아나운서\) "wikilink")(2000\~2001, 현 KBS 서울본국)
+  - [박주아](../Page/박주아_\(아나운서\).md "wikilink")(2000\~2001, 현 KBS 서울본국)
   - [주혜연](https://ko.wikipedia.org/wiki/주혜연 "wikilink")(2001\~2008, 현 퇴사/2009\~2010, 전 KFN 국군방송 아나운서)
   - [위서현](https://ko.wikipedia.org/wiki/위서현 "wikilink")(2003\~2004, 전 KBS 서울본국)
-  - [이승연](https://ko.wikipedia.org/wiki/이승연_\(1977년_11월\) "wikilink")(2004\~2005, 현 KBS 서울본국)
+  - [이승연](../Page/이승연_\(1977년_11월\).md "wikilink")(2004\~2005, 현 KBS 서울본국)
   - [김지연](https://ko.wikipedia.org/wiki/김지연_\(1984년\) "wikilink")(2010\~2016, 현 KBS 대전총국 심의실 사원)
 
 ## 기자
@@ -369,7 +369,7 @@
   - [이정두](https://ko.wikipedia.org/wiki/이정두 "wikilink")
   - [김택현](https://ko.wikipedia.org/wiki/김택현 "wikilink")
   - [김성우](../Page/김성우.md "wikilink")
-  - [이재희](https://ko.wikipedia.org/wiki/이재희 "wikilink")
+  - [이재희](../Page/이재희.md "wikilink")
 
 #### 여성
 

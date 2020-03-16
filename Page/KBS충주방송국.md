@@ -126,7 +126,7 @@
 
 ### 라디오
 
-충북 북부 지역과 경기 동남부 일부지역을 가청권으로 하고 있다. 2라디오와 Cool FM은 방송권역 내에 중계소가 없어 청취할 수가 없으며, 컴퓨터로 [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 홈페이지에 접속해서 KBS 콩 프로그램을 다운로드 받아 청취할 수 있다. AM방송은 2016년 11월 2일자로 송신소가 철거되어서 수신이되지않는다.
+충북 북부 지역과 경기 동남부 일부지역을 가청권으로 하고 있다. 2라디오와 Cool FM은 방송권역 내에 중계소가 없어 청취할 수가 없으며, 컴퓨터로 [한국방송공사](../Page/한국방송공사.md "wikilink") 홈페이지에 접속해서 KBS 콩 프로그램을 다운로드 받아 청취할 수 있다. AM방송은 2016년 11월 2일자로 송신소가 철거되어서 수신이되지않는다.
 
 | KBS충주 제1라디오 |
 | ----------- |
@@ -177,10 +177,10 @@
 
 ## 아나운서
 
-  - [진두연](https://ko.wikipedia.org/wiki/진두연 "wikilink"):[1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink")(9기) 입사
-  - [김경희](https://ko.wikipedia.org/wiki/김경희 "wikilink"):[1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink")(10기) 입사
-  - [정지성](../Page/정지성.md "wikilink"):[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")(프리랜서) 입사
-  - [박찬송](https://ko.wikipedia.org/wiki/박찬송 "wikilink"):[2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 6월 ([프리랜서](https://ko.wikipedia.org/wiki/프리랜서 "wikilink")) 입사
+  - [진두연](https://ko.wikipedia.org/wiki/진두연 "wikilink"):[1982년](../Page/1982년.md "wikilink")(9기) 입사
+  - [김경희](https://ko.wikipedia.org/wiki/김경희 "wikilink"):[1983년](../Page/1983년.md "wikilink")(10기) 입사
+  - [정지성](../Page/정지성.md "wikilink"):[2015년](../Page/2015년.md "wikilink")(프리랜서) 입사
+  - [박찬송](https://ko.wikipedia.org/wiki/박찬송 "wikilink"):[2019년](../Page/2019년.md "wikilink") 6월 ([프리랜서](https://ko.wikipedia.org/wiki/프리랜서 "wikilink")) 입사
 
 ## 전직 아나운서
 
@@ -188,27 +188,27 @@
 
   - [김관동](https://ko.wikipedia.org/wiki/김관동 "wikilink")(충주방송국장, 현 KBS전주총국)
   - [고광수](https://ko.wikipedia.org/wiki/고광수 "wikilink")(퇴사)
-  - [김호성](https://ko.wikipedia.org/wiki/김호성 "wikilink")(현 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
+  - [김호성](../Page/김호성.md "wikilink")(현 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
   - [김흥수](https://ko.wikipedia.org/wiki/김흥수_\(아나운서\) "wikilink")(현 1997년\~1999년 KBS 대구본국 [KBS 서울본국](https://ko.wikipedia.org/wiki/KBS_서울본국 "wikilink"))
   - [이영진](https://ko.wikipedia.org/wiki/이영진_\(아나운서\) "wikilink")(전 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
   - [김형신](https://ko.wikipedia.org/wiki/김형신_\(아나운서\) "wikilink")(현 [MBC경남 창원본부](https://ko.wikipedia.org/wiki/MBC경남_창원본부 "wikilink") 아나운서)
   - [강동일](https://ko.wikipedia.org/wiki/강동일 "wikilink") (현 kbc 기자)
-  - [조승학](https://ko.wikipedia.org/wiki/조승학 "wikilink") (현 [연합뉴스](https://ko.wikipedia.org/wiki/연합뉴스 "wikilink") 아나운서)
+  - [조승학](https://ko.wikipedia.org/wiki/조승학 "wikilink") (현 [연합뉴스](../Page/연합뉴스.md "wikilink") 아나운서)
 
 ### 여성
 
   - [김윤혜](https://ko.wikipedia.org/wiki/김윤혜_\(아나운서\) "wikilink")(현 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
-  - [원순식](https://ko.wikipedia.org/wiki/원순식 "wikilink"):[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")(프리랜서) 입사(전 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
-  - [임지윤](https://ko.wikipedia.org/wiki/임지윤 "wikilink"):[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")(프리랜서) 입사(현 퇴사)
-  - [강승희](https://ko.wikipedia.org/wiki/강승희_\(아나운서\) "wikilink"):[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")(프리랜서) 입사(현 [KBS 경인방송센터](https://ko.wikipedia.org/wiki/KBS_경인방송센터 "wikilink"))
-  - [최인희](https://ko.wikipedia.org/wiki/최인희 "wikilink"):[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")(프리랜서) 입사(현 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
-  - [김지원](https://ko.wikipedia.org/wiki/김지원_\(1988년_아나운서\) "wikilink"):[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")(프리랜서) 입사(현 [롯데홈쇼핑](https://ko.wikipedia.org/wiki/롯데홈쇼핑 "wikilink"))
-  - [조민경](https://ko.wikipedia.org/wiki/조민경 "wikilink"):[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")(프리랜서) 입사(현 [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink"))
-  - [김수연](https://ko.wikipedia.org/wiki/김수연_\(1990년\) "wikilink"):[2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")(프리랜서) 입사\~2019.5 (현 [KBS46기 춘천방송총국](https://ko.wikipedia.org/wiki/KBS46기_춘천방송총국 "wikilink") 아나운서)
+  - [원순식](https://ko.wikipedia.org/wiki/원순식 "wikilink"):[2011년](../Page/2011년.md "wikilink")(프리랜서) 입사(전 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
+  - [임지윤](https://ko.wikipedia.org/wiki/임지윤 "wikilink"):[2011년](../Page/2011년.md "wikilink")(프리랜서) 입사(현 퇴사)
+  - [강승희](https://ko.wikipedia.org/wiki/강승희_\(아나운서\) "wikilink"):[2013년](../Page/2013년.md "wikilink")(프리랜서) 입사(현 [KBS 경인방송센터](https://ko.wikipedia.org/wiki/KBS_경인방송센터 "wikilink"))
+  - [최인희](../Page/최인희.md "wikilink"):[2013년](../Page/2013년.md "wikilink")(프리랜서) 입사(현 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
+  - [김지원](https://ko.wikipedia.org/wiki/김지원_\(1988년_아나운서\) "wikilink"):[2015년](../Page/2015년.md "wikilink")(프리랜서) 입사(현 [롯데홈쇼핑](https://ko.wikipedia.org/wiki/롯데홈쇼핑 "wikilink"))
+  - [조민경](https://ko.wikipedia.org/wiki/조민경 "wikilink"):[2017년](../Page/2017년.md "wikilink")(프리랜서) 입사(현 [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink"))
+  - [김수연](https://ko.wikipedia.org/wiki/김수연_\(1990년\) "wikilink"):[2018년](../Page/2018년.md "wikilink")(프리랜서) 입사\~2019.5 (현 [KBS46기 춘천방송총국](https://ko.wikipedia.org/wiki/KBS46기_춘천방송총국 "wikilink") 아나운서)
 
 ## 인근의 타 방송사
 
-  - [MBC충북 충주방송국](https://ko.wikipedia.org/wiki/MBC충북_충주방송국 "wikilink")
+  - [MBC충북 충주방송국](../Page/MBC충북_충주방송국.md "wikilink")
   - [CJB](../Page/청주방송.md "wikilink")
 
 ## 외부 링크

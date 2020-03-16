@@ -1,24 +1,24 @@
 > This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
 
 
-**NHK 나가사키 방송국**(長崎 放送局)은 [나가사키현](https://ko.wikipedia.org/wiki/나가사키현 "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
+**NHK 나가사키 방송국**(長崎 放送局)은 [나가사키현](../Page/나가사키현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
 
 ## 연혁
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Nagasaki.JPG "wikilink")
 
-  - [1933년](https://ko.wikipedia.org/wiki/1933년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink") 개국
-  - [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink") [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink") 원자폭탄 투하에 의해 3일간 방송국의 기능이 정지된다.
-  - [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") [종합 텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 방송 개시
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 지상파 디지털 텔레비전 방송 개시
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 지상파 아날로그 텔레비전 방송 종료
+  - [1933년](../Page/1933년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") 개국
+  - [1945년](../Page/1945년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") 원자폭탄 투하에 의해 3일간 방송국의 기능이 정지된다.
+  - [1958년](../Page/1958년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink") [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 방송 개시
+  - [2006년](../Page/2006년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 지상파 디지털 텔레비전 방송 개시
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 지상파 아날로그 텔레비전 방송 종료
 
 ## 채널·주파수
 
 ### 종합·교육 텔레비전
 
-  - [종합텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 나가사키본국 15ch(JOAG-DTV)
-  - [교육텔레비전](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 나가사키본국 13ch(JOAC-DTV)
+  - [종합텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 나가사키본국 15ch(JOAG-DTV)
+  - [교육텔레비전](../Page/NHK_교육_텔레비전.md "wikilink") 나가사키본국 13ch(JOAC-DTV)
 
 ### 라디오 제1방송
 
@@ -31,7 +31,7 @@
 | 시마바라 중계국                                                    | 1584kHz | 100W |           |
 | 이사하야 중계국                                                    | 927kHz  | 100W |           |
 
-[라디오 제1방송](https://ko.wikipedia.org/wiki/NHK_라디오_제1방송 "wikilink")
+[라디오 제1방송](../Page/NHK_라디오_제1방송.md "wikilink")
 
   -
 ### 라디오 제2 방송
@@ -41,12 +41,12 @@
 | [나가사키](https://ko.wikipedia.org/wiki/나가사키_시 "wikilink") 방송국 | 1377kHz | 1kW  | 콜사인은 JOAC |
 | 사세보 중계국                                                     | 1512kHz | 500W |           |
 
-[라디오 제2방송](https://ko.wikipedia.org/wiki/NHK_라디오_제2방송 "wikilink")
+[라디오 제2방송](../Page/NHK_라디오_제2방송.md "wikilink")
 
 ### FM방송
 
 <table>
-<caption><a href="https://ko.wikipedia.org/wiki/NHK-FM방송" title="wikilink">FM방송</a></caption>
+<caption><a href="../Page/NHK-FM방송.md" title="wikilink">FM방송</a></caption>
 <thead>
 <tr class="header">
 <th><p>중계국·방송국</p></th>
@@ -149,16 +149,16 @@
 
   - 이키·대마도에는 라디오 제1방송 중계국이 없기 때문에 후쿠오카 방송국을 통해 1라디오를 듣는다고 한다.
   - 라디오 제2방송의 경우, 나가사키현의 많은 지역에서 구마모토 방송국이나 후쿠오카 방송국을 통해 청취 할 수 있다.(단, 고토·이키·대마도에서는 듣지 못하는 곳도 많다.)
-  - 나가사키 현 북부지역 방송은 [NHK 사세보 방송국에서](https://ko.wikipedia.org/wiki/NHK_사세보_지국 "wikilink") 담당했지만 [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 경영합리화 조치에 따라 대부분의 기능이 나가사키 방송국으로 이관되었다.
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [마쓰우라 시와](https://ko.wikipedia.org/wiki/마쓰우라_시 "wikilink") [이키 섬](https://ko.wikipedia.org/wiki/이키_섬 "wikilink") 사이에 고정무선회선(FPU)가 설치되기 전까지 이키 섬과 [대마도](https://ko.wikipedia.org/wiki/대마도 "wikilink")의 NHK 텔레비전 방송과 FM 방송은 [NHK 후쿠오카 방송국에서](https://ko.wikipedia.org/wiki/NHK_후쿠오카_방송국 "wikilink") 관리하고 있었다.
+  - 나가사키 현 북부지역 방송은 [NHK 사세보 방송국에서](https://ko.wikipedia.org/wiki/NHK_사세보_지국 "wikilink") 담당했지만 [1988년](../Page/1988년.md "wikilink") 경영합리화 조치에 따라 대부분의 기능이 나가사키 방송국으로 이관되었다.
+  - [1990년](../Page/1990년.md "wikilink") [마쓰우라 시와](https://ko.wikipedia.org/wiki/마쓰우라_시 "wikilink") [이키 섬](https://ko.wikipedia.org/wiki/이키_섬 "wikilink") 사이에 고정무선회선(FPU)가 설치되기 전까지 이키 섬과 [대마도](https://ko.wikipedia.org/wiki/대마도 "wikilink")의 NHK 텔레비전 방송과 FM 방송은 [NHK 후쿠오카 방송국에서](../Page/NHK_후쿠오카_방송국.md "wikilink") 관리하고 있었다.
 
-## [나가사키현](https://ko.wikipedia.org/wiki/나가사키현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [나가사키현](../Page/나가사키현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
   - [나가사키 방송](../Page/나가사키_방송.md "wikilink")(NBC)(TV는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열국, 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")&[NRN](../Page/NRN.md "wikilink")계열국)
   - [나가사키 국제 TV](../Page/나가사키_국제_TV.md "wikilink")(NIB)([니혼 TV계열](https://ko.wikipedia.org/wiki/니혼_TV "wikilink"))
   - [나가사키 문화방송](https://ko.wikipedia.org/wiki/나가사키_문화방송 "wikilink")(NCC)([TV 아사히계열](../Page/TV_아사히.md "wikilink"))
-  - [TV 나가사키](../Page/TV_나가사키.md "wikilink")(KTN)([후지 TV계열](https://ko.wikipedia.org/wiki/후지_TV "wikilink"))
-  - [FM나가사키](https://ko.wikipedia.org/wiki/FM나가사키 "wikilink")([JFN](https://ko.wikipedia.org/wiki/JFN "wikilink") 계열)
+  - [TV 나가사키](../Page/TV_나가사키.md "wikilink")(KTN)([후지 TV계열](../Page/후지_TV.md "wikilink"))
+  - [FM나가사키](https://ko.wikipedia.org/wiki/FM나가사키 "wikilink")([JFN](../Page/JFN.md "wikilink") 계열)
 
 ## 외부 링크
 

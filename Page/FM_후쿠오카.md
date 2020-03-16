@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
 
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:Fmfukuoka_openstudio.jpg "wikilink") **FM후쿠오카**는 일본의 FM라디오 방송국으로 [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink")에서 방송을 실시하고 있다.
+[썸네일](https://ko.wikipedia.org/wiki/파일:Fmfukuoka_openstudio.jpg "wikilink") **FM후쿠오카**는 일본의 FM라디오 방송국으로 [후쿠오카현](../Page/후쿠오카현.md "wikilink")에서 방송을 실시하고 있다.
 
 JFN에 가맹했으며 애칭은 fm fukuoka(혹은 FM福岡), 콜사인은 JODU-FM이다.
 
@@ -12,11 +12,11 @@ JFN에 가맹했으며 애칭은 fm fukuoka(혹은 FM福岡), 콜사인은 JODU-
 
 ## 연혁
 
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 라디오 예비 면허 교부
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink") 후쿠오카 FM 음악 방송(주) 설립
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [7월 15일](https://ko.wikipedia.org/wiki/7월_15일 "wikilink") 일본 4번째 민영FM방송국으로 개국
-  - [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") (주)FM후쿠오카로 회사명 변경
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") - 신사옥에서 방송 개시.
+  - [1969년](../Page/1969년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 라디오 예비 면허 교부
+  - [1969년](../Page/1969년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink") 후쿠오카 FM 음악 방송(주) 설립
+  - [1970년](../Page/1970년.md "wikilink") [7월 15일](../Page/7월_15일.md "wikilink") 일본 4번째 민영FM방송국으로 개국
+  - [1974년](../Page/1974년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") (주)FM후쿠오카로 회사명 변경
+  - [2008년](../Page/2008년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") - 신사옥에서 방송 개시.
 
 ## 주파수
 
@@ -28,7 +28,7 @@ JFN에 가맹했으며 애칭은 fm fukuoka(혹은 FM福岡), 콜사인은 JODU-
   - 이토시마 중계국:81.3MHz(출력:10W)
   - 무나가타 중계국:84.1MHz(출력:20W)
 
-## [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink")에 있는 다른 방송국
+## [후쿠오카현](../Page/후쿠오카현.md "wikilink")에 있는 다른 방송국
 
 ### 텔레비전 방송국
 
@@ -38,11 +38,11 @@ JFN에 가맹했으며 애칭은 fm fukuoka(혹은 FM福岡), 콜사인은 JODU-
   - [RKB 마이니치 방송](../Page/RKB_마이니치_방송.md "wikilink")(RKB)(라디오 방송국 겸영, TV는 [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열국, 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")계열국)
   - [후쿠오카 방송](../Page/후쿠오카_방송.md "wikilink")(FBS)([니혼 TV](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 계열)
   - [TVQ규슈방송](https://ko.wikipedia.org/wiki/TVQ규슈방송 "wikilink")(TVQ)([TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열)
-  - [TV 니시닛폰](../Page/TV_니시닛폰.md "wikilink")(TNC)([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열)
+  - [TV 니시닛폰](../Page/TV_니시닛폰.md "wikilink")(TNC)([후지 TV](../Page/후지_TV.md "wikilink") 계열)
 
 ### 라디오 방송국
 
-  - [CROSS FM](https://ko.wikipedia.org/wiki/크로스_FM "wikilink")([재팬 FM 리그계열](../Page/JAPAN_FM_LEAGUE.md "wikilink"), 기타큐슈 시내에 본사가 있음.)
+  - [CROSS FM](../Page/크로스_FM.md "wikilink")([재팬 FM 리그계열](../Page/JAPAN_FM_LEAGUE.md "wikilink"), 기타큐슈 시내에 본사가 있음.)
   - [규슈국제FM](https://ko.wikipedia.org/wiki/규슈국제FM "wikilink")([메가네트](../Page/MegaNet.md "wikilink") 계열)
 
 ## 외부 링크

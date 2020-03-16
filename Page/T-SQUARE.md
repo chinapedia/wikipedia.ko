@@ -1,20 +1,20 @@
 > This article is converted from Wikipedia: [T-SQUARE](https://ko.wikipedia.org/wiki/T-SQUARE).
 
 
-**티스퀘어**(, )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 퓨전[재즈](https://ko.wikipedia.org/wiki/재즈 "wikilink") 밴드이다.
+**티스퀘어**(, )는 [일본](../Page/일본.md "wikilink")의 퓨전[재즈](../Page/재즈.md "wikilink") 밴드이다.
 
 ## 역사
 
-[1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") [안도 마사히로를](https://ko.wikipedia.org/wiki/안도_마사히로 "wikilink") 주축으로 **더 스퀘어**(THE SQUARE)라는 이름으로 결성되었으며, [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")에서 데뷔하였다.
+[1976년](../Page/1976년.md "wikilink") [11월](../Page/11월.md "wikilink") [안도 마사히로를](https://ko.wikipedia.org/wiki/안도_마사히로 "wikilink") 주축으로 **더 스퀘어**(THE SQUARE)라는 이름으로 결성되었으며, [1978년](../Page/1978년.md "wikilink") [9월](../Page/9월.md "wikilink")에서 데뷔하였다.
 
-[1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")에서 **티스퀘어**(T-SQUARE)로 이름을 바꾸었다. [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink")에서 색소포니스트인 [마사토 혼다가](https://ko.wikipedia.org/wiki/마사토_혼다 "wikilink") 가입하였다.
+[1989년](../Page/1989년.md "wikilink")에서 **티스퀘어**(T-SQUARE)로 이름을 바꾸었다. [1991년](../Page/1991년.md "wikilink")에서 색소포니스트인 [마사토 혼다가](https://ko.wikipedia.org/wiki/마사토_혼다 "wikilink") 가입하였다.
 
 ## 현재 구성원
 
-  - [안도 마사히로](https://ko.wikipedia.org/wiki/안도_마사히로 "wikilink") (리더) : [기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink") - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") \~ 현재
-  - [이토 다케시](https://ko.wikipedia.org/wiki/이토_다케시 "wikilink") : [색소폰](../Page/색소폰.md "wikilink"), [EWI](https://ko.wikipedia.org/wiki/EWI "wikilink"), [플루트](https://ko.wikipedia.org/wiki/플루트 "wikilink") - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") \~ 현재
-  - [가와노 게이조](https://ko.wikipedia.org/wiki/가와노_게이조 "wikilink") : [키보드](https://ko.wikipedia.org/wiki/전자_키보드 "wikilink") - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") \~ 현재
-  - [반도 사토시](https://ko.wikipedia.org/wiki/반도_사토시 "wikilink") : [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink") - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") \~ 현재
+  - [안도 마사히로](https://ko.wikipedia.org/wiki/안도_마사히로 "wikilink") (리더) : [기타](../Page/전기_기타.md "wikilink") - [1976년](../Page/1976년.md "wikilink") [11월](../Page/11월.md "wikilink") \~ 현재
+  - [이토 다케시](https://ko.wikipedia.org/wiki/이토_다케시 "wikilink") : [색소폰](../Page/색소폰.md "wikilink"), [EWI](https://ko.wikipedia.org/wiki/EWI "wikilink"), [플루트](../Page/플루트.md "wikilink") - [1978년](../Page/1978년.md "wikilink") \~ 현재
+  - [가와노 게이조](https://ko.wikipedia.org/wiki/가와노_게이조 "wikilink") : [키보드](https://ko.wikipedia.org/wiki/전자_키보드 "wikilink") - [2000년](../Page/2000년.md "wikilink") \~ 현재
+  - [반도 사토시](https://ko.wikipedia.org/wiki/반도_사토시 "wikilink") : [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink") - [2005년](../Page/2005년.md "wikilink") \~ 현재
 
 ## 음반
 
@@ -73,7 +73,7 @@
 ## 같이 보기
 
   - [디멘션](https://ko.wikipedia.org/wiki/디멘션 "wikilink")
-  - [카시오페아](https://ko.wikipedia.org/wiki/카시오페아 "wikilink")
+  - [카시오페아](../Page/카시오페아.md "wikilink")
   - [TRIX](https://ko.wikipedia.org/wiki/TRIX "wikilink")
 
 ## 외부 링크

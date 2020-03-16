@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
 
 
-**NHK 후쿠야마 지국**(福山 支局)은 [히로시마현](https://ko.wikipedia.org/wiki/히로시마현 "wikilink") 동부 지역 수신료 수납 업무나 보도 업무를 중심으로 한 영업 거점으로서의 역할을 맡는 [NHK 히로시마 방송국의](https://ko.wikipedia.org/wiki/NHK_히로시마_방송국 "wikilink") 지국이다.
+**NHK 후쿠야마 지국**(福山 支局)은 [히로시마현](../Page/히로시마현.md "wikilink") 동부 지역 수신료 수납 업무나 보도 업무를 중심으로 한 영업 거점으로서의 역할을 맡는 [NHK 히로시마 방송국의](../Page/NHK_히로시마_방송국.md "wikilink") 지국이다.
 
-[1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 이전에는 NHK 후쿠야마 방송국이었다.
+[1988년](../Page/1988년.md "wikilink") 이전에는 NHK 후쿠야마 방송국이었다.
 
 ## 연혁
 
-  - [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink") - NHK 오노미치 방송국으로 개국.[라디오 제1방송개시](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink").
-  - [1951년](https://ko.wikipedia.org/wiki/1951년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") - [라디오 제2방송개시](https://ko.wikipedia.org/wiki/NHK_라디오제2방송 "wikilink").
-  - [1960년](https://ko.wikipedia.org/wiki/1960년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") - [종합 텔레비전방송](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 개시.
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") - [교육 텔레비전방송](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 개시.
-  - [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink") - [FM라디오 방송개시](https://ko.wikipedia.org/wiki/NHK-FM방송 "wikilink").
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") - NHK 오노미치 방송국을 폐쇄하고 후쿠야마 시로 이전하면서 방송국 이름을 NHK 후쿠야마 방송국으로 개칭.
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") - NHK 조직 개혁에 의해 NHK 후쿠야마 방송국에서 NHK 후쿠야마 지국으로 격하.
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") - 호출 부호 JODP · JODD 폐지.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") - 후쿠야마 지구에서 지상 디지털 방송 개시.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") - 지상파 아날로그 텔레비전 방송 종료
+  - [1941년](../Page/1941년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") - NHK 오노미치 방송국으로 개국.[라디오 제1방송개시](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink").
+  - [1951년](../Page/1951년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") - [라디오 제2방송개시](https://ko.wikipedia.org/wiki/NHK_라디오제2방송 "wikilink").
+  - [1960년](../Page/1960년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") - [종합 텔레비전방송](../Page/NHK_종합_텔레비전.md "wikilink") 개시.
+  - [1962년](../Page/1962년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") - [교육 텔레비전방송](../Page/NHK_교육_텔레비전.md "wikilink") 개시.
+  - [1965년](../Page/1965년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") - [FM라디오 방송개시](../Page/NHK-FM방송.md "wikilink").
+  - [1967년](../Page/1967년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") - NHK 오노미치 방송국을 폐쇄하고 후쿠야마 시로 이전하면서 방송국 이름을 NHK 후쿠야마 방송국으로 개칭.
+  - [1988년](../Page/1988년.md "wikilink") - NHK 조직 개혁에 의해 NHK 후쿠야마 방송국에서 NHK 후쿠야마 지국으로 격하.
+  - [2003년](../Page/2003년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") - 호출 부호 JODP · JODD 폐지.
+  - [2007년](../Page/2007년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") - 후쿠야마 지구에서 지상 디지털 방송 개시.
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - 지상파 아날로그 텔레비전 방송 종료
 
 ## 주된 중계국
 
@@ -29,9 +29,9 @@
 
 **후쿠야마 텔레비전 중계국(오노미치시)**
 
-  - [종합 텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") 1ch, 출력 1kW( 구JODP-TV→현재는 호출 부호 없음,2011년 7월 24일 종료)
-  - [교육 텔레비전](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 7ch, 출력 1kW( 구JODD-TV→현재는 호출 부호 없음,2011년 7월 24일 종료)
-  - [FM 방송](https://ko.wikipedia.org/wiki/NHK-FM방송 "wikilink") 84.8 MHz, 출력 250W
+  - [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 1ch, 출력 1kW( 구JODP-TV→현재는 호출 부호 없음,2011년 7월 24일 종료)
+  - [교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink") 7ch, 출력 1kW( 구JODD-TV→현재는 호출 부호 없음,2011년 7월 24일 종료)
+  - [FM 방송](../Page/NHK-FM방송.md "wikilink") 84.8 MHz, 출력 250W
 
 **후쿠야마 디지털 텔레비전 중계국(후쿠야마시)**
 

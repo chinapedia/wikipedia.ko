@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Come To Where I Am](https://ko.wikipedia.org/wiki/Come_To_Where_I_Am).
 
 
-《**Come To Where I Am**》은 [박정현](https://ko.wikipedia.org/wiki/박정현 "wikilink")의 한국 여섯 번째 정규 앨범이다.
+《**Come To Where I Am**》은 [박정현](../Page/박정현.md "wikilink")의 한국 여섯 번째 정규 앨범이다.
 
 ## 개요
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Serious Day](https://ko.wikipedia.org/wiki/Serious_Day).
 
 
-《**Serious Day**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 싱어송라이터 [이승환이](../Page/이승환_\(가수\).md "wikilink") 발매한 편집 [앨범이다](../Page/음반.md "wikilink"). 전작 [Egg의](../Page/Egg_\(이승환의_음반\).md "wikilink") Over Easy에 이어서 완전한 록 앨범을 내겠다며 발매했으나 여전히 이승환의 발라드를 선호하는 대중들에게서는 뜨거운 반응을 얻지는 못했다. 신곡도 4곡으로 적은 편이었고 기존에 발표했던 곡들도 원곡과 거의 차이가 없어 아쉬움을 주었다.
+《**Serious Day**》는 [대한민국](../Page/대한민국.md "wikilink")의 싱어송라이터 [이승환이](../Page/이승환_\(가수\).md "wikilink") 발매한 편집 [앨범이다](../Page/음반.md "wikilink"). 전작 [Egg의](../Page/Egg_\(이승환의_음반\).md "wikilink") Over Easy에 이어서 완전한 록 앨범을 내겠다며 발매했으나 여전히 이승환의 발라드를 선호하는 대중들에게서는 뜨거운 반응을 얻지는 못했다. 신곡도 4곡으로 적은 편이었고 기존에 발표했던 곡들도 원곡과 거의 차이가 없어 아쉬움을 주었다.
 
-이승환의 정규 앨범에서 볼 수 없었던 '어둠 그 별빛'은 [김현식](../Page/김현식.md "wikilink") 헌정 앨범, '사랑일 뿐이야'는 [들국화](https://ko.wikipedia.org/wiki/들국화_\(음악_그룹\) "wikilink") 헌정 앨범에 수록되었던 곡이다. 또한 《[The War in Life](https://ko.wikipedia.org/wiki/The_War_in_Life "wikilink")》의 히든트랙이었던 ‘새대가리’가 정식으로 수록되었다.
+이승환의 정규 앨범에서 볼 수 없었던 '어둠 그 별빛'은 [김현식](../Page/김현식.md "wikilink") 헌정 앨범, '사랑일 뿐이야'는 [들국화](https://ko.wikipedia.org/wiki/들국화_\(음악_그룹\) "wikilink") 헌정 앨범에 수록되었던 곡이다. 또한 《[The War in Life](../Page/The_War_in_Life.md "wikilink")》의 히든트랙이었던 ‘새대가리’가 정식으로 수록되었다.
 
 앨범 발매 직후 Play 전국 순회 콘서트를 열었다. 앨범 판매량은 65,724장\[1\]이다.
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   - 1, 2, 8, 10번 트랙이 신곡이다.
-  - 6, 7, 9번 트랙은 [Cycle](https://ko.wikipedia.org/wiki/Cycle "wikilink") ; 12, 14, 15번 트랙은 [The War in Life](https://ko.wikipedia.org/wiki/The_War_in_Life "wikilink") ; 3, 11, 13번 트랙은 [Egg의](../Page/Egg_\(이승환의_음반\).md "wikilink") Over Easy에 수록되었던 곡이다.
+  - 6, 7, 9번 트랙은 [Cycle](https://ko.wikipedia.org/wiki/Cycle "wikilink") ; 12, 14, 15번 트랙은 [The War in Life](../Page/The_War_in_Life.md "wikilink") ; 3, 11, 13번 트랙은 [Egg의](../Page/Egg_\(이승환의_음반\).md "wikilink") Over Easy에 수록되었던 곡이다.
 
 ## 스태프
 

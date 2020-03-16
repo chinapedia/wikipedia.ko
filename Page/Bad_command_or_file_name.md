@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bad command or file name](https://ko.wikipedia.org/wiki/Bad_command_or_file_name).
 
 
-**Bad command or file name**은 [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink")에서 유효하지 않은 명령을 내릴 경우에 나타나는 오류 메시지이다. [구문 오류](https://ko.wikipedia.org/wiki/구문_오류 "wikilink") 메시지이며 [1980년대](https://ko.wikipedia.org/wiki/1980년대 "wikilink") [베이직](https://ko.wikipedia.org/wiki/베이직 "wikilink") [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink")가 그 기원이다. [COMMAND.COM](../Page/COMMAND.COM.md "wikilink") 파일에 내장된 내부 명령어가 아니면서 디렉터리에 해당 실행파일이 존재하지 않을 경우\[1\] 이 메시지가 출력된다.
+**Bad command or file name**은 [MS-DOS](../Page/MS-DOS.md "wikilink")에서 유효하지 않은 명령을 내릴 경우에 나타나는 오류 메시지이다. [구문 오류](https://ko.wikipedia.org/wiki/구문_오류 "wikilink") 메시지이며 [1980년대](../Page/1980년대.md "wikilink") [베이직](../Page/베이직.md "wikilink") [인터프리터](../Page/인터프리터.md "wikilink")가 그 기원이다. [COMMAND.COM](../Page/COMMAND.COM.md "wikilink") 파일에 내장된 내부 명령어가 아니면서 디렉터리에 해당 실행파일이 존재하지 않을 경우\[1\] 이 메시지가 출력된다.
 
     C:₩>abc
     Bad command or file name.
@@ -16,7 +16,7 @@
 
   - 옛날의 한국어판 MS-DOS 기준으로 다음과 같은 메시지가 출력된다.:
 
-  - [GUI를](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 사용하는 OS/2와 최근의 윈도 NT 계열(윈도 XP, 비스타, 7 등)의 가상 도스에서는 다음과 같은 메시지가 출력된다.:
+  - [GUI를](../Page/그래픽_사용자_인터페이스.md "wikilink") 사용하는 OS/2와 최근의 윈도 NT 계열(윈도 XP, 비스타, 7 등)의 가상 도스에서는 다음과 같은 메시지가 출력된다.:
 
 
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Black Swan Songs](https://ko.wikipedia.org/wiki/Black_Swan_Songs).
 
 
-**Black Swan Songs**는 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink") 정규 3집 음반 [Swan Songs의](https://ko.wikipedia.org/wiki/Swan_Songs "wikilink") 리패키지 음반이다. 1CD에는 정규 3집인 **Swan Songs**가 수록되어 있으며 2CD에는 신곡 1곡, [타이거 JK](https://ko.wikipedia.org/wiki/타이거_JK "wikilink"), [MC 메타](https://ko.wikipedia.org/wiki/MC_메타 "wikilink") 등이 참여한 리믹스 버전, 그리고 인스트루멘탈이 수록되어 있다.
+**Black Swan Songs**는 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink") 정규 3집 음반 [Swan Songs의](https://ko.wikipedia.org/wiki/Swan_Songs "wikilink") 리패키지 음반이다. 1CD에는 정규 3집인 **Swan Songs**가 수록되어 있으며 2CD에는 신곡 1곡, [타이거 JK](../Page/타이거_JK.md "wikilink"), [MC 메타](../Page/MC_메타.md "wikilink") 등이 참여한 리믹스 버전, 그리고 인스트루멘탈이 수록되어 있다.
 
 ## 수록곡
 

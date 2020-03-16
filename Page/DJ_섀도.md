@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
 
 
-**DJ 섀도**(, **조시 데이비스**, Joshua Paul "Josh" Davis, [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink")\~ )\[1\] 는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [디스크자키](https://ko.wikipedia.org/wiki/디스크자키 "wikilink")이자, 턴테이블리스트, 음악 제작자 겸 작곡가이다. 그는 [인스트루멘탈](https://ko.wikipedia.org/wiki/인스트루멘탈 "wikilink") 힙합의 성장에 있어 중요한 인물로 고려된다 . 첫 앨범 *Endtroducing.....* 발매로 처음 주목 받았다. 여러 앨범의 샘플을 믹스하여 완전히 다른 음악으로 만들어낸 획기적인 앨범으로 대단한 평가를 받았다.\[2\]"Let it be a soundtrack to your life for a while, you'll look back on it with warmth one day in the future, trust me. Y.Misdaq aka Yoshi, 22 Nov 2003".</ref>
+**DJ 섀도**(, **조시 데이비스**, Joshua Paul "Josh" Davis, [1972년](../Page/1972년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink")\~ )\[1\] 는 [미국](../Page/미국.md "wikilink")의 [디스크자키](https://ko.wikipedia.org/wiki/디스크자키 "wikilink")이자, 턴테이블리스트, 음악 제작자 겸 작곡가이다. 그는 [인스트루멘탈](https://ko.wikipedia.org/wiki/인스트루멘탈 "wikilink") 힙합의 성장에 있어 중요한 인물로 고려된다 . 첫 앨범 *Endtroducing.....* 발매로 처음 주목 받았다. 여러 앨범의 샘플을 믹스하여 완전히 다른 음악으로 만들어낸 획기적인 앨범으로 대단한 평가를 받았다.\[2\]"Let it be a soundtrack to your life for a while, you'll look back on it with warmth one day in the future, trust me. Y.Misdaq aka Yoshi, 22 Nov 2003".</ref>
 
 ## 생애
 
@@ -88,7 +88,7 @@ DJ Shadow가 1996년에 완성한 작품, *[Endtroducing.....](https://en.wikipe
 
 ### 믹스
 
-  - [2000](https://ko.wikipedia.org/wiki/2000 "wikilink") - *Schoolhouse Funk*
+  - [2000](../Page/2000.md "wikilink") - *Schoolhouse Funk*
   - [2003](https://ko.wikipedia.org/wiki/2003 "wikilink") - *Diminishing Returns*
   - [2005](https://ko.wikipedia.org/wiki/2005 "wikilink") - *Schoolhouse Funk II*
   - [2005](https://ko.wikipedia.org/wiki/2005 "wikilink") - *Funky Skunk*
@@ -101,7 +101,7 @@ DJ Shadow가 1996년에 완성한 작품, *[Endtroducing.....](https://en.wikipe
   - 1996 - *Dr. Octagonecologyst* (by Kool Keith/Dr. Octagon, Shadow featured on *Waiting List (DJ Shadow / Automator Mix)*)
   - [1999](https://ko.wikipedia.org/wiki/1999 "wikilink") - *Quannum Spectrum* (various artists, DJ Shadow on *Divine Intervention* and *Storm Warning*)
   - [1999](https://ko.wikipedia.org/wiki/1999 "wikilink") - *So... How's Your Girl?* (Handsome Boy Modeling School, DJ Shadow features on *Holy Calamity (Bear Witness II)* with DJ Quest)
-  - [2000](https://ko.wikipedia.org/wiki/2000 "wikilink") - *Solesides Greatest Bumps* (various artists, Shadow contributes 3 tracks and produces 6 more)
+  - [2000](../Page/2000.md "wikilink") - *Solesides Greatest Bumps* (various artists, Shadow contributes 3 tracks and produces 6 more)
   - [2002](https://ko.wikipedia.org/wiki/2002 "wikilink") - *The Ultimate Lessons* (various artists bootleg, Shadow on *Lesson 4*, *Live Lesson B*, and *Live Lesson C*)
   - [2004](https://ko.wikipedia.org/wiki/2004 "wikilink") - *Damage* (by Jon Spencer Blues Explosion produces the track *Fed Up And Low Down*).
   - [2004](https://ko.wikipedia.org/wiki/2004 "wikilink") - *Brothers from the Mother* (by Zimbabwe Legit, DJ Shadow's remix called *Shadow's Legitimate Mix*)
@@ -120,7 +120,7 @@ DJ Shadow가 1996년에 완성한 작품, *[Endtroducing.....](https://en.wikipe
   - 1996 - *Midnight in a Perfect World*
   - 1996 - *Stem* CD/7" (His only top 10 hit-it reached number 9 in the Republic of Ireland singles chart.)
   - 1997 - *High Noon* CD/12"/7"
-  - [2000](https://ko.wikipedia.org/wiki/2000 "wikilink") - *Dark Days* (Music from Dark Days Documentary Soundtrack) CD/7"
+  - [2000](../Page/2000.md "wikilink") - *Dark Days* (Music from Dark Days Documentary Soundtrack) CD/7"
   - [2002](https://ko.wikipedia.org/wiki/2002 "wikilink") - *You Can't Go Home Again* CD/12"
   - [2002](https://ko.wikipedia.org/wiki/2002 "wikilink") - *Six Days* CD/DVD/12"
   - [2003](https://ko.wikipedia.org/wiki/2003 "wikilink") - *Mashin' on the Motorway / Walkie Talkie* CD/DVD
@@ -133,7 +133,7 @@ DJ Shadow가 1996년에 완성한 작품, *[Endtroducing.....](https://en.wikipe
 
 ### 라이브 DVDs
 
-  - [2000](https://ko.wikipedia.org/wiki/2000 "wikilink") - *Freeze* VHS/DVD
+  - [2000](../Page/2000.md "wikilink") - *Freeze* VHS/DVD
   - [2004](https://ko.wikipedia.org/wiki/2004 "wikilink") - *Product Placement on Tour* CD/DVD
   - [2004](https://ko.wikipedia.org/wiki/2004 "wikilink") - *In Tune and On Time* CD/DVD
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fuck](https://ko.wikipedia.org/wiki/Fuck).
 
 
-**Fuck**(퍽)은 직역하면 [성교](https://ko.wikipedia.org/wiki/성교 "wikilink")하는 행위를 가리키지만, 주로 의미를 강조하거나 불쾌한 상황에 많이 쓰이며, 일반적으로는 불경스럽게 취급되는 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink") 낱말이다. [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")로 취급할 수도 있으나 어떠한 것을 강조하거나 부정적으로 묘사하는 데 사용되기도 한다. 전세계적으로 통용되는 낱말이며, 보통 비난과 공격의 목적으로 사용되지만 친한 사람끼리나 특정 상황에서는 공격성이 낮은, 더러는 친밀한 의미로 흔히 쓰인다.
+**Fuck**(퍽)은 직역하면 [성교](../Page/성교.md "wikilink")하는 행위를 가리키지만, 주로 의미를 강조하거나 불쾌한 상황에 많이 쓰이며, 일반적으로는 불경스럽게 취급되는 [영어](../Page/영어.md "wikilink") 낱말이다. [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")로 취급할 수도 있으나 어떠한 것을 강조하거나 부정적으로 묘사하는 데 사용되기도 한다. 전세계적으로 통용되는 낱말이며, 보통 비난과 공격의 목적으로 사용되지만 친한 사람끼리나 특정 상황에서는 공격성이 낮은, 더러는 친밀한 의미로 흔히 쓰인다.
 
 ## 공격성
 
@@ -25,7 +25,7 @@
 
 ## 이차적 의미
 
-다른 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")과 금기시되는 낱말과 같이 Fuck는 "[성교](https://ko.wikipedia.org/wiki/성교 "wikilink")하다"라는 본래 뜻으로만 쓰이는 것은 아니다. 화자의 주관적인 감정을 강하게 하려는 강조 표현에 이용된다. (꼭 부정적인 뜻으로만 쓰이는 것이 아니다. 이를테면 "fucking good"는 "very good"를 저속하게 말하는 것과 같다.) *Practical English Usage* 책에 따르면 다음의 문장으로 이 낱말의 두 가지 뜻을 분명하게 나타낸다.\[3\]
+다른 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")과 금기시되는 낱말과 같이 Fuck는 "[성교](../Page/성교.md "wikilink")하다"라는 본래 뜻으로만 쓰이는 것은 아니다. 화자의 주관적인 감정을 강하게 하려는 강조 표현에 이용된다. (꼭 부정적인 뜻으로만 쓰이는 것이 아니다. 이를테면 "fucking good"는 "very good"를 저속하게 말하는 것과 같다.) *Practical English Usage* 책에 따르면 다음의 문장으로 이 낱말의 두 가지 뜻을 분명하게 나타낸다.\[3\]
 
   -
     Why are you fucking on my bed?
@@ -40,35 +40,35 @@
 
 ## 언어별 발음과 쓰임
 
-### [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink")
+### [한국어](../Page/한국어.md "wikilink")
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 영어와 달리 Fuck 으로만 쓰이는 경우는 극히 드물며 공식적으로 국어사전에 등재된 표현도 아니다.\[4\] 또한 공식적인 한글 표기도 정해지지 않았다. Fuck으로 쓰이는 대신 뒤에 You를 붙여서 **퍽큐**, **퍼크유**, **퍽유**, **뻑큐**, **뻐크유**, **뻑유**, **뻐큐**, **빡큐**, **빡유**, **빠큐**, **빠크유**, **박규**, **법규** 등으로 부르는 것이 일반적이다. 약한 표현으로는 ‘엿 먹이다’를 사용하며, 인터넷 문화에서는 '[ㅗ](https://ko.wikipedia.org/wiki/ㅗ#인터넷_은어 "wikilink")', '凸', '昌'과 그에 따른 변형 [이모티콘](../Page/이모티콘.md "wikilink")이나, 특수 문자가 쓰인다. 그리고 유사한 표현으로 씨발이 있다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 영어와 달리 Fuck 으로만 쓰이는 경우는 극히 드물며 공식적으로 국어사전에 등재된 표현도 아니다.\[4\] 또한 공식적인 한글 표기도 정해지지 않았다. Fuck으로 쓰이는 대신 뒤에 You를 붙여서 **퍽큐**, **퍼크유**, **퍽유**, **뻑큐**, **뻐크유**, **뻑유**, **뻐큐**, **빡큐**, **빡유**, **빠큐**, **빠크유**, **박규**, **법규** 등으로 부르는 것이 일반적이다. 약한 표현으로는 ‘엿 먹이다’를 사용하며, 인터넷 문화에서는 '[ㅗ](https://ko.wikipedia.org/wiki/ㅗ#인터넷_은어 "wikilink")', '凸', '昌'과 그에 따른 변형 [이모티콘](../Page/이모티콘.md "wikilink")이나, 특수 문자가 쓰인다. 그리고 유사한 표현으로 씨발이 있다.
 
-### [프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink")
+### [프랑스어](../Page/프랑스어.md "wikilink")
 
 foc
 
-### [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink")
+### [독일어](../Page/독일어.md "wikilink")
 
 ficken: 실제로 영어에서 그대로 옮긴 ficken이라는 표현은 잘 쓰이지 않으며, ‘제길’이라는 뜻의 , ‘헛소리’라는 뜻의 가 대신 쓰인다. 와 Mist는 모두 본래 ‘[대변](../Page/똥.md "wikilink")(大便)’이라는 뜻이다.
 
-### [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink")
+### [일본어](../Page/일본어.md "wikilink")
 
 ファック
 
-### [노르웨이어](https://ko.wikipedia.org/wiki/노르웨이어 "wikilink")
+### [노르웨이어](../Page/노르웨이어.md "wikilink")
 
 faen
 
-### [스웨덴어](https://ko.wikipedia.org/wiki/스웨덴어 "wikilink")
+### [스웨덴어](../Page/스웨덴어.md "wikilink")
 
 fack
 
-### [웨일스어](https://ko.wikipedia.org/wiki/웨일스어 "wikilink")
+### [웨일스어](../Page/웨일스어.md "wikilink")
 
 ffwc, ffwcio
 
-### [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink")
+### [스페인어](../Page/스페인어.md "wikilink")
 
 mierda, cabron
 
@@ -76,7 +76,7 @@ mierda, cabron
 
 ### 마더퍼커
 
-**마더퍼커**([Motherfucker](https://ko.wikipedia.org/wiki/Motherfucker "wikilink"))는 Fuck과 비슷한 의미로 쓰이는 영어의 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")이다. 성교한다는 뜻은 아니지만 망할 놈, 후레자식 등의 뜻을 가지고 있다.\[5\]
+**마더퍼커**([Motherfucker](../Page/Motherfucker.md "wikilink"))는 Fuck과 비슷한 의미로 쓰이는 영어의 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")이다. 성교한다는 뜻은 아니지만 망할 놈, 후레자식 등의 뜻을 가지고 있다.\[5\]
 
 ### 왓더퍽
 

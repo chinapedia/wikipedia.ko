@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LZW](https://ko.wikipedia.org/wiki/LZW).
 
 
-**LZW**(Lempel-Ziv-Welch)는 [아브라함 렘펠과](https://ko.wikipedia.org/wiki/아브라함_렘펠 "wikilink") [제콥 지브](https://ko.wikipedia.org/wiki/제콥_지브 "wikilink"), [테리 웰치가](https://ko.wikipedia.org/wiki/테리_웰치 "wikilink") 만든 공통 [비손실 데이터 압축](https://ko.wikipedia.org/wiki/비손실_데이터_압축 "wikilink") [알고리즘](https://ko.wikipedia.org/wiki/알고리즘 "wikilink")이다. [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink")에 렘펠과 지브가 공개한 [LZ78](https://ko.wikipedia.org/wiki/LZ78 "wikilink") 알고리즘의 개선판을 웰치에 의해 1984년에 공개하였다. 이 알고리즘은 빠른 이식을 위해 고안되었지만 데이터의 제한된 분석만 수행하기 때문에 그리 최적으로 동작하지는 않는다. Huffman의 아이디어에서 조금 더 응용된 형태이다.
+**LZW**(Lempel-Ziv-Welch)는 [아브라함 렘펠과](https://ko.wikipedia.org/wiki/아브라함_렘펠 "wikilink") [제콥 지브](https://ko.wikipedia.org/wiki/제콥_지브 "wikilink"), [테리 웰치가](https://ko.wikipedia.org/wiki/테리_웰치 "wikilink") 만든 공통 [비손실 데이터 압축](https://ko.wikipedia.org/wiki/비손실_데이터_압축 "wikilink") [알고리즘](../Page/알고리즘.md "wikilink")이다. [1978년](../Page/1978년.md "wikilink")에 렘펠과 지브가 공개한 [LZ78](https://ko.wikipedia.org/wiki/LZ78 "wikilink") 알고리즘의 개선판을 웰치에 의해 1984년에 공개하였다. 이 알고리즘은 빠른 이식을 위해 고안되었지만 데이터의 제한된 분석만 수행하기 때문에 그리 최적으로 동작하지는 않는다. Huffman의 아이디어에서 조금 더 응용된 형태이다.
 
 ## 알고리즘
 
@@ -54,7 +54,7 @@
 ## 같이 보기
 
   - [LZ77과 LZ78](https://ko.wikipedia.org/wiki/LZ77과_LZ78 "wikilink")
-  - [LZMA](https://ko.wikipedia.org/wiki/LZMA "wikilink")
+  - [LZMA](../Page/LZMA.md "wikilink")
   - [LZSS](https://ko.wikipedia.org/wiki/LZSS "wikilink")
   - [LZJB](https://ko.wikipedia.org/wiki/LZJB "wikilink")
 

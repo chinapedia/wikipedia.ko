@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  X-Fi](https://ko.wikipedia.org/wiki/__X-Fi).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Creative_SB_X-Fi_Fatal1ty-AB.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:CirrusLogicCS4282-AB.jpg "wikilink") [시러스 로직](https://ko.wikipedia.org/wiki/시러스_로직 "wikilink") **CS4382** 칩\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:WM_WM8775SEDS-AB.jpg "wikilink") 울프슨 마이크로일렉트로닉스 **WM8775SEDS** 칩\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Micron_48LC32M8A2-AB.jpg "wikilink") (두 개의 [마이크론](../Page/마이크론_테크놀로지.md "wikilink") 48LC32M8A2-75 C [SDRAM](https://ko.wikipedia.org/wiki/SDRAM "wikilink") 칩\]\] **사운드 블라스터 X-Fi**는 [크리에이티브 테크놀로지가](https://ko.wikipedia.org/wiki/크리에이티브_테크놀로지 "wikilink") 개발한 [PCI](../Page/PCI_버스.md "wikilink") [사운드 카드이다](../Page/사운드_카드.md "wikilink"). [PC의](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 확장 카드이다. X-Fi는 Extreme Fidelity의 준말로 2005년 8월에 처음 공개되었고, 지금은 XtremeMusic부터 Platinum, Fatal1ty FPS, Elite Pro 구성까지 자리잡았다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Creative_SB_X-Fi_Fatal1ty-AB.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:CirrusLogicCS4282-AB.jpg "wikilink") [시러스 로직](../Page/시러스_로직.md "wikilink") **CS4382** 칩\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:WM_WM8775SEDS-AB.jpg "wikilink") 울프슨 마이크로일렉트로닉스 **WM8775SEDS** 칩\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Micron_48LC32M8A2-AB.jpg "wikilink") (두 개의 [마이크론](../Page/마이크론_테크놀로지.md "wikilink") 48LC32M8A2-75 C [SDRAM](../Page/SDRAM.md "wikilink") 칩\]\] **사운드 블라스터 X-Fi**는 [크리에이티브 테크놀로지가](../Page/크리에이티브_테크놀로지.md "wikilink") 개발한 [PCI](../Page/PCI_버스.md "wikilink") [사운드 카드이다](../Page/사운드_카드.md "wikilink"). [PC의](../Page/개인용_컴퓨터.md "wikilink") 확장 카드이다. X-Fi는 Extreme Fidelity의 준말로 2005년 8월에 처음 공개되었고, 지금은 XtremeMusic부터 Platinum, Fatal1ty FPS, Elite Pro 구성까지 자리잡았다.
 
 ## X-Fi 기능
 
@@ -38,7 +38,7 @@
 
 ## 같이 보기
 
-  - [크리에이티브 테크놀로지](https://ko.wikipedia.org/wiki/크리에이티브_테크놀로지 "wikilink")
+  - [크리에이티브 테크놀로지](../Page/크리에이티브_테크놀로지.md "wikilink")
   - [사운드 블라스터](../Page/사운드_블라스터.md "wikilink")
   - [사운드 카드](../Page/사운드_카드.md "wikilink")
 

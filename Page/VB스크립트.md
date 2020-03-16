@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [VB](https://ko.wikipedia.org/wiki/VB).
 
 
-**VB스크립트**(VBScript)는 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")가 개발한 [액티브 스크립트](https://ko.wikipedia.org/wiki/액티브_스크립트 "wikilink") 언어이다. 이 언어의 구문은 마이크로소프트의 [비주얼 베이직](https://ko.wikipedia.org/wiki/비주얼_베이직 "wikilink") 프로그래밍 언어 계통의 일부를 반영한다.
+**VB스크립트**(VBScript)는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 개발한 [액티브 스크립트](https://ko.wikipedia.org/wiki/액티브_스크립트 "wikilink") 언어이다. 이 언어의 구문은 마이크로소프트의 [비주얼 베이직](../Page/비주얼_베이직.md "wikilink") 프로그래밍 언어 계통의 일부를 반영한다.
 
-VB스크립트는 [윈도우 98](../Page/윈도우_98.md "wikilink") 이후의 여러 윈도우 운영 체제에서 기본으로 설치되어 있으며\[1\], [윈도우 서버](../Page/윈도우_서버.md "wikilink") 운영 체제의 경우 [윈도우 NT 4.0](https://ko.wikipedia.org/wiki/윈도우_NT_4.0 "wikilink") 옵션 팩 이후로 이용이 가능하다.\[2\] 또, 실행 중인 장치의 목적과 구성에 따라 [윈도우 CE에서도](https://ko.wikipedia.org/wiki/윈도우_CE "wikilink") 선택적으로 이용이 가능하다.
+VB스크립트는 [윈도우 98](../Page/윈도우_98.md "wikilink") 이후의 여러 윈도우 운영 체제에서 기본으로 설치되어 있으며\[1\], [윈도우 서버](../Page/윈도우_서버.md "wikilink") 운영 체제의 경우 [윈도우 NT 4.0](../Page/윈도우_NT_4.0.md "wikilink") 옵션 팩 이후로 이용이 가능하다.\[2\] 또, 실행 중인 장치의 목적과 구성에 따라 [윈도우 CE에서도](https://ko.wikipedia.org/wiki/윈도우_CE "wikilink") 선택적으로 이용이 가능하다.
 
-초기에는 1970년대 말에 처음 개발된 배치 언어보다 더 강력한 자동화 도구 검색에 대한 지원을 윈도우 관리자로부터 받았다. VB스크립트는 호스트 환경 안에서 실행되어야 하며, 어떠한 환경에서는 마이크로소프트 윈도우의 표준 설치([윈도우 스크립트 호스트](https://ko.wikipedia.org/wiki/윈도우_스크립트_호스트 "wikilink"), [윈도우 인터넷 익스플로러](https://ko.wikipedia.org/wiki/인터넷_익스플로러 "wikilink")) 위에 제공된다. 게다가 VB스크립트 호스트 환경은 마이크로소프트 스크립트 컨트롤(*msscript.ocx*)과 같은 기술을 통해 다른 프로그램에 이식되는 경우가 있다.
+초기에는 1970년대 말에 처음 개발된 배치 언어보다 더 강력한 자동화 도구 검색에 대한 지원을 윈도우 관리자로부터 받았다. VB스크립트는 호스트 환경 안에서 실행되어야 하며, 어떠한 환경에서는 마이크로소프트 윈도우의 표준 설치([윈도우 스크립트 호스트](../Page/윈도우_스크립트_호스트.md "wikilink"), [윈도우 인터넷 익스플로러](../Page/인터넷_익스플로러.md "wikilink")) 위에 제공된다. 게다가 VB스크립트 호스트 환경은 마이크로소프트 스크립트 컨트롤(*msscript.ocx*)과 같은 기술을 통해 다른 프로그램에 이식되는 경우가 있다.
 
 ## 예제
 
@@ -51,10 +51,10 @@ Set oWMI = Nothing
 ## 같이 보기
 
   - [액티브 스크립트](https://ko.wikipedia.org/wiki/액티브_스크립트 "wikilink")
-  - [J스크립트](https://ko.wikipedia.org/wiki/J스크립트 "wikilink")
+  - [J스크립트](../Page/J스크립트.md "wikilink")
   - [J스크립트 닷 넷](https://ko.wikipedia.org/wiki/J스크립트_닷_넷 "wikilink")
   - [윈도우 스크립트 파일](https://ko.wikipedia.org/wiki/윈도우_스크립트_파일 "wikilink")
-  - [윈도우 스크립트 호스트](https://ko.wikipedia.org/wiki/윈도우_스크립트_호스트 "wikilink")
+  - [윈도우 스크립트 호스트](../Page/윈도우_스크립트_호스트.md "wikilink")
   - [HTML 구성 요소](https://ko.wikipedia.org/wiki/HTML_구성_요소 "wikilink")
 
 ## 각주

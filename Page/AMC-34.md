@@ -33,7 +33,7 @@
 | **장갑**        |
 |               |
 
-**AMC 34**는 [프랑스 육군](https://ko.wikipedia.org/wiki/프랑스_육군 "wikilink") [기병대](https://ko.wikipedia.org/wiki/기병대 "wikilink")용으로 [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 전에 개발된 [프랑스](../Page/프랑스.md "wikilink")제 경전차였다. 이 차량은 본격적으로 생산되기 전에 중단되었고, 생산된 소수의 차량은 [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 당시 [프랑스 전투가](https://ko.wikipedia.org/wiki/프랑스_전투 "wikilink") 벌어질 즈음에는 운용이 중지되었다.
+**AMC 34**는 [프랑스 육군](https://ko.wikipedia.org/wiki/프랑스_육군 "wikilink") [기병대](https://ko.wikipedia.org/wiki/기병대 "wikilink")용으로 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 전에 개발된 [프랑스](../Page/프랑스.md "wikilink")제 경전차였다. 이 차량은 본격적으로 생산되기 전에 중단되었고, 생산된 소수의 차량은 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 [프랑스 전투가](https://ko.wikipedia.org/wiki/프랑스_전투 "wikilink") 벌어질 즈음에는 운용이 중지되었다.
 
 ## 상세 사항
 

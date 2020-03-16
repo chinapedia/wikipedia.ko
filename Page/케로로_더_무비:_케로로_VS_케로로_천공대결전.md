@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  :  VS  ](https://ko.wikipedia.org/wiki/__:__VS__).
 
 
-**케로로 더 무비: 케로로 vs 케로로 천공대결전** (, ) 은 [요시자키 미네의](https://ko.wikipedia.org/wiki/요시자키_미네 "wikilink") 동명만화 원작 [케로로 중사의](https://ko.wikipedia.org/wiki/케로로_중사 "wikilink") 세 번째 극장판 애니메이션이다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") 개봉되었으며, 케로로 대 케로로라는 묘한 타이틀을 걸고 있다. 한편 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 3기가 아닌 2기로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 7일](https://ko.wikipedia.org/wiki/8월_7일 "wikilink") 극장 개봉을 했다. 또 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 이번 극장판부터 ‘케로로 극장판’을 ‘케로로 더 무비’라는 표현으로 바꾸어 사용하였다. 동시 상영 작품은 《[무사 케로 전국란성 대 배틀](https://ko.wikipedia.org/wiki/케로로_중사_극장판_3기_동시상영_-_무사_케로_전국란성_대_배틀 "wikilink")》이다.
+**케로로 더 무비: 케로로 vs 케로로 천공대결전** (, ) 은 [요시자키 미네의](https://ko.wikipedia.org/wiki/요시자키_미네 "wikilink") 동명만화 원작 [케로로 중사의](https://ko.wikipedia.org/wiki/케로로_중사 "wikilink") 세 번째 극장판 애니메이션이다. [2008년](../Page/2008년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 개봉되었으며, 케로로 대 케로로라는 묘한 타이틀을 걸고 있다. 한편 [대한민국](../Page/대한민국.md "wikilink")에서는 3기가 아닌 2기로 [2008년](../Page/2008년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") 극장 개봉을 했다. 또 [대한민국](../Page/대한민국.md "wikilink")에서는 이번 극장판부터 ‘케로로 극장판’을 ‘케로로 더 무비’라는 표현으로 바꾸어 사용하였다. 동시 상영 작품은 《[무사 케로 전국란성 대 배틀](https://ko.wikipedia.org/wiki/케로로_중사_극장판_3기_동시상영_-_무사_케로_전국란성_대_배틀 "wikilink")》이다.
 
 이번 극장판 메인 주인공 '다크 케로로'는 원판과 더빙판 모두 별도의 게스트 성우를 쓰지 않고 기존 케로로 성우(와타나베 쿠미코, 양정화)가 맡았다. 더빙판 성우 양정화는 깜찍하고 발랄한 케로로와 차분하면서도 냉소적인 다크 케로로 목소리를 자유롭게 소화해내 호평을 받았다.
 
@@ -15,7 +15,7 @@
 
 ## 스페셜 등장인물
 
-  - **다크 케로로** (성우: [와타나베 쿠미코](https://ko.wikipedia.org/wiki/와타나베_쿠미코 "wikilink") / [양정화](https://ko.wikipedia.org/wiki/양정화 "wikilink"))
+  - **다크 케로로** (성우: [와타나베 쿠미코](../Page/와타나베_쿠미코.md "wikilink") / [양정화](https://ko.wikipedia.org/wiki/양정화 "wikilink"))
 
 <!-- end list -->
 
@@ -24,16 +24,16 @@
 
 <!-- end list -->
 
-  - **시바바** (성우: [타카야마 미나미](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink") / [김현심](https://ko.wikipedia.org/wiki/김현심 "wikilink"))
+  - **시바바** (성우: [타카야마 미나미](../Page/타카야마_미나미.md "wikilink") / [김현심](../Page/김현심.md "wikilink"))
 
 <!-- end list -->
 
   -
-    다크 케로로의 부하 1. [손오공](https://ko.wikipedia.org/wiki/손오공 "wikilink")을 케론인화시킨 모양이다. 등장할때마다 호탕한 웃음소리와 함께 큰소리를 내는것이 특징인 소위 까불이 이미지. 타마마 임팩트를 단숨에 피해버리고 그를 역공시키는 뛰어난 전투력을 가졌으나 후반부, 타마마와 모모카의 연합공격만믄 당해내지 못한다. 처음에는 다크 케로로를 극진히 '대장'으로 모셨지만 나중가서는 반말은 기본이고 말대꾸까지 서슴치 않는다. 쉴새없이 일을 시키는데다 목표물을 전부 흩어지게 하는 바람에 애를 먹은 모양.
+    다크 케로로의 부하 1. [손오공](../Page/손오공.md "wikilink")을 케론인화시킨 모양이다. 등장할때마다 호탕한 웃음소리와 함께 큰소리를 내는것이 특징인 소위 까불이 이미지. 타마마 임팩트를 단숨에 피해버리고 그를 역공시키는 뛰어난 전투력을 가졌으나 후반부, 타마마와 모모카의 연합공격만믄 당해내지 못한다. 처음에는 다크 케로로를 극진히 '대장'으로 모셨지만 나중가서는 반말은 기본이고 말대꾸까지 서슴치 않는다. 쉴새없이 일을 시키는데다 목표물을 전부 흩어지게 하는 바람에 애를 먹은 모양.
 
 <!-- end list -->
 
-  - **도루루** (성우: 루 오시바(배우) / [김영찬](https://ko.wikipedia.org/wiki/김영찬_\(성우\) "wikilink"))
+  - **도루루** (성우: 루 오시바(배우) / [김영찬](../Page/김영찬_\(성우\).md "wikilink"))
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - **미루루** (성우: [호리에 유이](../Page/호리에_유이.md "wikilink") / [여민정](https://ko.wikipedia.org/wiki/여민정_\(성우\) "wikilink"))
+  - **미루루** (성우: [호리에 유이](../Page/호리에_유이.md "wikilink") / [여민정](../Page/여민정_\(성우\).md "wikilink"))
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - **나스카** (성우: [후쿠다 사키](https://ko.wikipedia.org/wiki/후쿠다_사키 "wikilink") / [여민정](https://ko.wikipedia.org/wiki/여민정_\(성우\) "wikilink"))
+  - **나스카** (성우: [후쿠다 사키](../Page/후쿠다_사키.md "wikilink") / [여민정](../Page/여민정_\(성우\).md "wikilink"))
 
 <!-- end list -->
 

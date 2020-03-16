@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SIG SG 510](https://ko.wikipedia.org/wiki/SIG_SG_510).
 
 
-**SIG SG 510**은 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 SAN SA(현 [스위스 암즈](https://ko.wikipedia.org/wiki/스위스_암즈 "wikilink"))에서 1950년대 [돌격소총](https://ko.wikipedia.org/wiki/돌격소총 "wikilink") 개발에 참여하면서 만든 소총이다. SG 510은 먼저 개발되었던 [세트메](https://ko.wikipedia.org/wiki/세트메 "wikilink") 사의 [CETME](https://ko.wikipedia.org/wiki/CETME "wikilink")와 [H\&K](https://ko.wikipedia.org/wiki/H&K "wikilink")사의 [G3에서](https://ko.wikipedia.org/wiki/헤클러&코흐_G3 "wikilink") 효과를 인정받은 "롤러 지연 방식의 블로우백"을 채택해 제작되었다. 초기에 만들어진 돌격소총으로서는 꽤 인정받은 총기이다.
+**SIG SG 510**은 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 SAN SA(현 [스위스 암즈](https://ko.wikipedia.org/wiki/스위스_암즈 "wikilink"))에서 1950년대 [돌격소총](../Page/돌격소총.md "wikilink") 개발에 참여하면서 만든 소총이다. SG 510은 먼저 개발되었던 [세트메](https://ko.wikipedia.org/wiki/세트메 "wikilink") 사의 [CETME](../Page/CETME.md "wikilink")와 [H\&K](https://ko.wikipedia.org/wiki/H&K "wikilink")사의 [G3에서](https://ko.wikipedia.org/wiki/헤클러&코흐_G3 "wikilink") 효과를 인정받은 "롤러 지연 방식의 블로우백"을 채택해 제작되었다. 초기에 만들어진 돌격소총으로서는 꽤 인정받은 총기이다.
 
 ## 장점과 단점
 

@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [BHP](https://ko.wikipedia.org/wiki/BHP).
 
 
-**BHP**는 세계 최대의 [광산](https://ko.wikipedia.org/wiki/광산 "wikilink") 업체이다. 2001년 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")의 Broken Hill Proprietary Company사와 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 Billiton사가 합병되어 생긴 회사이다.
+**BHP**는 세계 최대의 [광산](https://ko.wikipedia.org/wiki/광산 "wikilink") 업체이다. 2001년 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 Broken Hill Proprietary Company사와 [영국](../Page/영국.md "wikilink")의 Billiton사가 합병되어 생긴 회사이다.
 
 ## 경쟁사
 
   - [발리](https://ko.wikipedia.org/wiki/발리_\(기업\) "wikilink")
-  - [리오 틴토](https://ko.wikipedia.org/wiki/리오_틴토 "wikilink")
+  - [리오 틴토](../Page/리오_틴토.md "wikilink")
 
 ## 각주
 

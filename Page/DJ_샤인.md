@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
 
 
-**DJ 샤인** (DJ Shine, , [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [6월 11일](https://ko.wikipedia.org/wiki/6월_11일 "wikilink") \~ )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink") 및 [음악 프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink") 겸 [DJ이다](https://ko.wikipedia.org/wiki/디스크_자키 "wikilink").
+**DJ 샤인** (DJ Shine, , [1974년](../Page/1974년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink") 및 [음악 프로듀서](../Page/음악_프로듀서.md "wikilink") 겸 [DJ이다](../Page/디스크_자키.md "wikilink").
 
-[1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")에 C2K(Coast 2 Koast)로 데뷔하였으나 1집 활동 이후 개인 사정으로 탈퇴를 하고, [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 [타이거 JK와](https://ko.wikipedia.org/wiki/타이거_JK "wikilink") 함께 힙합 그룹 [드렁큰 타이거를](https://ko.wikipedia.org/wiki/드렁큰_타이거 "wikilink") 창단하였으나, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 5집을 끝으로 탈퇴하고 솔로로 활동 중이다.
+[1995년](../Page/1995년.md "wikilink")에 C2K(Coast 2 Koast)로 데뷔하였으나 1집 활동 이후 개인 사정으로 탈퇴를 하고, [1999년](../Page/1999년.md "wikilink")에 [타이거 JK와](../Page/타이거_JK.md "wikilink") 함께 힙합 그룹 [드렁큰 타이거를](../Page/드렁큰_타이거.md "wikilink") 창단하였으나, [2005년](../Page/2005년.md "wikilink")에 5집을 끝으로 탈퇴하고 솔로로 활동 중이다.
 
 ## 음악 활동
 
 ### 디지털 싱글
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 5월 - Digital Single 《[Right Round](https://ko.wikipedia.org/wiki/Right_Round "wikilink")》
+  - [2009년](../Page/2009년.md "wikilink") 5월 - Digital Single 《[Right Round](https://ko.wikipedia.org/wiki/Right_Round "wikilink")》
 
 ### 정규 앨범
 
@@ -20,7 +20,7 @@
 | 2     | [위대한 탄생](https://ko.wikipedia.org/wiki/위대한_탄생_\(드렁큰타이거의_음반\) "wikilink")        | 2000년 4월  | "       |
 | 3     | [The Legend of...](https://ko.wikipedia.org/wiki/The_Legend_of... "wikilink")   | 2001년 3월  | "       |
 | 4     | [뿌리](https://ko.wikipedia.org/wiki/뿌리_\(음반\) "wikilink")                        | 2003년 2월  | "       |
-| 5     | [하나하면 너와 나](https://ko.wikipedia.org/wiki/하나하면_너와_나 "wikilink")                 | 2004년 8월  | "       |
+| 5     | [하나하면 너와 나](../Page/하나하면_너와_나.md "wikilink")                                    | 2004년 8월  | "       |
 
 ### 참여 앨범
 

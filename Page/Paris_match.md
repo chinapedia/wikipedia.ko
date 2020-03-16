@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Paris match](https://ko.wikipedia.org/wiki/Paris_match).
 
 
-**paris match**(일본어: パリス・マッチ)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 3인조 음악 그룹이다. 그룹의 이름은 영국 그룹 [The Style Council의](https://ko.wikipedia.org/wiki/The_Style_Council "wikilink") 앨범인 *Café Bleu*의 수록곡 "The Paris Match"에서 유래 하였다.
+**paris match**(일본어: パリス・マッチ)는 [일본](../Page/일본.md "wikilink")의 3인조 음악 그룹이다. 그룹의 이름은 영국 그룹 [The Style Council의](https://ko.wikipedia.org/wiki/The_Style_Council "wikilink") 앨범인 *Café Bleu*의 수록곡 "The Paris Match"에서 유래 하였다.
 
 ## 구성 멤버
 

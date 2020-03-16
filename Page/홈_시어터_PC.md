@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [  PC](https://ko.wikipedia.org/wiki/__PC).
 
 
-**홈 시어터 PC**() 또는 **미디어 PC**()는 [개인용 컴퓨터와](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") [디지털 비디오 레코더의](https://ko.wikipedia.org/wiki/디지털_비디오_레코더 "wikilink") 기능을 합친 기기이다. [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink")이나 텔레비전 크기의 [컴퓨터 디스플레이에](https://ko.wikipedia.org/wiki/컴퓨터_디스플레이 "wikilink") 연결할 수 있으며 디지털 사진, 음악, 비디오 재생기, TV 수상기, 디지털 비디오 레코더로 사용하기도 한다. 홈 시어터 PC는 또한 [미디어 센터](https://ko.wikipedia.org/wiki/미디어_센터 "wikilink") 시스템이나 [미디어 서버로](https://ko.wikipedia.org/wiki/미디어_서버 "wikilink") 불리기도 한다.
+**홈 시어터 PC**() 또는 **미디어 PC**()는 [개인용 컴퓨터와](../Page/개인용_컴퓨터.md "wikilink") [디지털 비디오 레코더의](../Page/디지털_비디오_레코더.md "wikilink") 기능을 합친 기기이다. [텔레비전](../Page/텔레비전.md "wikilink")이나 텔레비전 크기의 [컴퓨터 디스플레이에](https://ko.wikipedia.org/wiki/컴퓨터_디스플레이 "wikilink") 연결할 수 있으며 디지털 사진, 음악, 비디오 재생기, TV 수상기, 디지털 비디오 레코더로 사용하기도 한다. 홈 시어터 PC는 또한 [미디어 센터](../Page/미디어_센터.md "wikilink") 시스템이나 [미디어 서버로](https://ko.wikipedia.org/wiki/미디어_서버 "wikilink") 불리기도 한다.
 
-HTPC의 일반 목표는 일반적으로 [홈 시어터의](https://ko.wikipedia.org/wiki/홈_시어터 "wikilink") 모든 구성 요소를 상자 하나로 통합하는 것이다. 텔레비전 프로그래밍을 PC에 추가하는 데에 필요한 소프트웨어와 하드웨어를 미리 구입해야 할 수도 있으며 [GB-PVR](https://ko.wikipedia.org/wiki/GB-PVR "wikilink"), [SageTV](https://ko.wikipedia.org/wiki/SageTV "wikilink"), [리눅스MCE](https://ko.wikipedia.org/wiki/리눅스MCE "wikilink")로 동작되는 구별된 구성 요소로 함께 맞춰 나갈 수도 있다.
+HTPC의 일반 목표는 일반적으로 [홈 시어터의](../Page/홈_시어터.md "wikilink") 모든 구성 요소를 상자 하나로 통합하는 것이다. 텔레비전 프로그래밍을 PC에 추가하는 데에 필요한 소프트웨어와 하드웨어를 미리 구입해야 할 수도 있으며 [GB-PVR](https://ko.wikipedia.org/wiki/GB-PVR "wikilink"), [SageTV](https://ko.wikipedia.org/wiki/SageTV "wikilink"), [리눅스MCE](https://ko.wikipedia.org/wiki/리눅스MCE "wikilink")로 동작되는 구별된 구성 요소로 함께 맞춰 나갈 수도 있다.
 
 ## HTPC의 특징
 
 표준 PC로서의 기능과 더불어, 모든 HTPC는 다음과 같은 공통 기능이 추가된다:
 
-  - [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") 연결
+  - [텔레비전](../Page/텔레비전.md "wikilink") 연결
   - 동작 중에 조용하고 소음이 낮음
   - 저장 공간이 큼
 
@@ -47,7 +47,7 @@ HTPC의 일반 목표는 일반적으로 [홈 시어터의](https://ko.wikipedia
 
 ## 같이 보기
 
-  - [미디어 센터](https://ko.wikipedia.org/wiki/미디어_센터 "wikilink")
+  - [미디어 센터](../Page/미디어_센터.md "wikilink")
   - [온라인 미디어 센터](https://ko.wikipedia.org/wiki/온라인_미디어_센터 "wikilink")
   - [조용한 PC](https://ko.wikipedia.org/wiki/조용한_PC "wikilink")
   - [크롬캐스트](../Page/크롬캐스트.md "wikilink")

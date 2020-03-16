@@ -9,7 +9,7 @@
   - [Z80](https://ko.wikipedia.org/wiki/Z80 "wikilink") 명령어 호환
       - 16비트 [ALU](https://ko.wikipedia.org/wiki/ALU "wikilink")로 기존 Z80에 비해 연산 속도 향상
       - MULUB(8비트), MULUW (16비트)의 2개의 곱셈 명령어 추가
-      - IX, IY [레지스터를](https://ko.wikipedia.org/wiki/프로세서_레지스터 "wikilink") 8비트(IXh, IXl, IYh, IYl)로 사용하는 등의 은폐 명령어를 정식 지원
+      - IX, IY [레지스터를](../Page/프로세서_레지스터.md "wikilink") 8비트(IXh, IXl, IYh, IYl)로 사용하는 등의 은폐 명령어를 정식 지원
       - 몇몇 명령어를 최고 1클럭에 실행할 수 있는 등의 고속화.
 
 예를 들어, ADD HL, BC 같이 기존의 11클럭 걸리던 명령어를 1클럭에 실행할 수 있었다.
@@ -26,7 +26,7 @@
 4.  Z80, 사이클 4: 리프레시, 파트 1
 5.  Z80, 사이클 5: 리프레시, 파트 2
 
-위와 같이 [MSX](https://ko.wikipedia.org/wiki/MSX "wikilink")는 명령어와 데이터를 256×256바이트 블록의 메모리에 배치하여 수행하는데 R800 마지막으로 수행한 상위 8비트의 상태를 저장하였다가 다음 명령이 같은 256바이트 영역을 이용하는 경우 상위 8비트 어드레스를 생략하는 수법으로 사이클을 절약할 수 있다.
+위와 같이 [MSX](../Page/MSX.md "wikilink")는 명령어와 데이터를 256×256바이트 블록의 메모리에 배치하여 수행하는데 R800 마지막으로 수행한 상위 8비트의 상태를 저장하였다가 다음 명령이 같은 256바이트 영역을 이용하는 경우 상위 8비트 어드레스를 생략하는 수법으로 사이클을 절약할 수 있다.
 
   - [DRAM](https://ko.wikipedia.org/wiki/DRAM "wikilink") 인터페이스, 클락 제너레이터를 내장
   - 기존 Z80 인터럽트 모드에 추가로 7개의 인터럽트 모드를 추가했다.
@@ -41,6 +41,6 @@
 
 ## 기타 사항
 
-[MSX turbo-R에서는](https://ko.wikipedia.org/wiki/MSX_turbo-R "wikilink") 기존 [MSX](https://ko.wikipedia.org/wiki/MSX "wikilink")와 호환성 문제로 DMA, MMU를 사용하지 않았고 어드레스 확장도 뱅크 교환의 메모리 맵핑으로 구현했다. 또한 [MSX2+](https://ko.wikipedia.org/wiki/MSX2+ "wikilink")까지와의 상위 호환성을 위해 추가로 [Z80](https://ko.wikipedia.org/wiki/Z80 "wikilink")을 탑재하였다.
+[MSX turbo-R에서는](https://ko.wikipedia.org/wiki/MSX_turbo-R "wikilink") 기존 [MSX](../Page/MSX.md "wikilink")와 호환성 문제로 DMA, MMU를 사용하지 않았고 어드레스 확장도 뱅크 교환의 메모리 맵핑으로 구현했다. 또한 [MSX2+](https://ko.wikipedia.org/wiki/MSX2+ "wikilink")까지와의 상위 호환성을 위해 추가로 [Z80](https://ko.wikipedia.org/wiki/Z80 "wikilink")을 탑재하였다.
 
 [분류:마이크로프로세서](https://ko.wikipedia.org/wiki/분류:마이크로프로세서 "wikilink") [분류:MSX](https://ko.wikipedia.org/wiki/분류:MSX "wikilink")

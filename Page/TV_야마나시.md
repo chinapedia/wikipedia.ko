@@ -1,25 +1,25 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:UTY-TVYmanashi.JPG "wikilink") **TV 야마나시**(()는[1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") [야마나시현](https://ko.wikipedia.org/wiki/야마나시현 "wikilink")의 2번째이자 마지막 민영방송국으로 개국했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:UTY-TVYmanashi.JPG "wikilink") **TV 야마나시**(()는[1970년](../Page/1970년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [야마나시현](../Page/야마나시현.md "wikilink")의 2번째이자 마지막 민영방송국으로 개국했다.
 
 약칭은 UTY, 콜사인은 JOGI-DTV이다.
 
 ## 연혁
 
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [2월 8일](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") 설립.
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 야마나시현 2번째 민영 텔레비전 방송국으로서 개국.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [1월 16일](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") 지상 디지털 텔레비전 방송 시험 전파 발사
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 10일](https://ko.wikipedia.org/wiki/2월_10일 "wikilink") 지상 디지털 텔레비전 방송 시험 방송 개시.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") 지상 디지털 텔레비전 방송 서비스 방송 개시.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 지상 디지털 텔레비전 방송본방송을 개시(하이비전·[원세그](https://ko.wikipedia.org/wiki/원세그 "wikilink")동시 ).
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 자정을 기해 지상파 아날로그 텔레비전 방송 종료.
+  - [1969년](../Page/1969년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink") 설립.
+  - [1970년](../Page/1970년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 야마나시현 2번째 민영 텔레비전 방송국으로서 개국.
+  - [2006년](../Page/2006년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") 지상 디지털 텔레비전 방송 시험 전파 발사
+  - [2006년](../Page/2006년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") 지상 디지털 텔레비전 방송 시험 방송 개시.
+  - [2006년](../Page/2006년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") 지상 디지털 텔레비전 방송 서비스 방송 개시.
+  - [2006년](../Page/2006년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 지상 디지털 텔레비전 방송본방송을 개시(하이비전·[원세그](../Page/원세그.md "wikilink")동시 ).
+  - [2011년](../Page/2011년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") 자정을 기해 지상파 아날로그 텔레비전 방송 종료.
 
 ## 네트워크의 변천
 
-  - [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열국으로서 개국하면서 [JNN](https://ko.wikipedia.org/wiki/JNN "wikilink")에 가맹하였다.
-    개국 당시 [야마나시 방송에서](https://ko.wikipedia.org/wiki/야마나시_방송 "wikilink") [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink")·[NET TV→TV 아사히](../Page/TV_아사히.md "wikilink") 프로그램의 일부를 양도받았으며 현재는 [TV 도쿄의](../Page/TV_도쿄.md "wikilink") 프로그램도 방송하고 있다.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 준 중심방송국 네트워크 교환에 따라 그동안 방송하던 준중심방송국 프로그램이 [아사히 방송](../Page/아사히_방송.md "wikilink") 제작 프로그램에서 [마이니치 방송](../Page/마이니치_방송.md "wikilink") 프로그램으로 변경되었으나 NET TV(몇 년후 TV 아사히로 명칭변경)에서 방송하기로 한 아사히 방송 제작 프로그램은 야마나시 방송과 병행해 방송된 것도 있다.
+  - [1970년](../Page/1970년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열국으로서 개국하면서 [JNN](https://ko.wikipedia.org/wiki/JNN "wikilink")에 가맹하였다.
+    개국 당시 [야마나시 방송에서](../Page/야마나시_방송.md "wikilink") [후지 TV](../Page/후지_TV.md "wikilink")·[NET TV→TV 아사히](../Page/TV_아사히.md "wikilink") 프로그램의 일부를 양도받았으며 현재는 [TV 도쿄의](../Page/TV_도쿄.md "wikilink") 프로그램도 방송하고 있다.
+  - [1975년](../Page/1975년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 준 중심방송국 네트워크 교환에 따라 그동안 방송하던 준중심방송국 프로그램이 [아사히 방송](../Page/아사히_방송.md "wikilink") 제작 프로그램에서 [마이니치 방송](../Page/마이니치_방송.md "wikilink") 프로그램으로 변경되었으나 NET TV(몇 년후 TV 아사히로 명칭변경)에서 방송하기로 한 아사히 방송 제작 프로그램은 야마나시 방송과 병행해 방송된 것도 있다.
 
 ## 특징
 
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - 야마나시 현의 일부 케이블 방송(아날로그 방송)은 5계열 민방 모두가 시청 가능하다는 점에서 동일한 프로그램을 두 방송국에서 동시에 또는 시차를 두고 중복 방송하는 경우는 있지만, 기본적으로 TV 야마나시의 키 방송국 인 [TBS와](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 야마나시 방송의 키 국인 [NTV의](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 재전송은 실시되고 있지 않다. 디지털 방송은 [TBS와](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") [NTV의](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 재전송은 전체 케이블 TV에서 실시되고 있지 않음에도 가와구치 유선 텔레비전 방송은 TBS TV의 디지털 재전송을 실시하고 있다.
+  - 야마나시 현의 일부 케이블 방송(아날로그 방송)은 5계열 민방 모두가 시청 가능하다는 점에서 동일한 프로그램을 두 방송국에서 동시에 또는 시차를 두고 중복 방송하는 경우는 있지만, 기본적으로 TV 야마나시의 키 방송국 인 [TBS와](../Page/도쿄_방송_홀딩스.md "wikilink") 야마나시 방송의 키 국인 [NTV의](../Page/닛폰_TV_방송망.md "wikilink") 재전송은 실시되고 있지 않다. 디지털 방송은 [TBS와](../Page/도쿄_방송_홀딩스.md "wikilink") [NTV의](../Page/닛폰_TV_방송망.md "wikilink") 재전송은 전체 케이블 TV에서 실시되고 있지 않음에도 가와구치 유선 텔레비전 방송은 TBS TV의 디지털 재전송을 실시하고 있다.
 
 ## 제작 프로그램
 
@@ -72,7 +72,7 @@
 ## 현내 방송국
 
   - [NHK 고후 방송국](https://ko.wikipedia.org/wiki/NHK_고후_방송국 "wikilink")
-  - [야마나시 방송](https://ko.wikipedia.org/wiki/야마나시_방송 "wikilink")(TV는 [니혼 TV계열](https://ko.wikipedia.org/wiki/니혼_TV "wikilink"), 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")&[NRN](../Page/NRN.md "wikilink")계열)
+  - [야마나시 방송](../Page/야마나시_방송.md "wikilink")(TV는 [니혼 TV계열](https://ko.wikipedia.org/wiki/니혼_TV "wikilink"), 라디오는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")&[NRN](../Page/NRN.md "wikilink")계열)
   - [FM 후지](https://ko.wikipedia.org/wiki/FM_후지 "wikilink")(독립방송국)
 
 ## 외부 링크

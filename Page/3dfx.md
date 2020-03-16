@@ -3,11 +3,11 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:3dfxvoodoo1diamond.jpg "wikilink")
 
-**3dfx 인터랙티브**()는 최첨단 [3D](https://ko.wikipedia.org/wiki/3차원_그래픽스 "wikilink") [그래픽 처리 장치를](https://ko.wikipedia.org/wiki/그래픽_처리_장치 "wikilink") 생산하다가, 나중에 [그래픽 카드](../Page/그래픽_카드.md "wikilink") 생산을 전문으로 하는 회사였다. 1990년대 말부터 여러 해 동안 이 분야를 지배해온 회사였다.
+**3dfx 인터랙티브**()는 최첨단 [3D](https://ko.wikipedia.org/wiki/3차원_그래픽스 "wikilink") [그래픽 처리 장치를](../Page/그래픽_처리_장치.md "wikilink") 생산하다가, 나중에 [그래픽 카드](../Page/그래픽_카드.md "wikilink") 생산을 전문으로 하는 회사였다. 1990년대 말부터 여러 해 동안 이 분야를 지배해온 회사였다.
 
-파산 직전에는 캘리포니아에 본사를 두고 있었고, [지적 재산의](https://ko.wikipedia.org/wiki/지적_재산 "wikilink") 상당수가 그의 라이벌인 [엔비디아](https://ko.wikipedia.org/wiki/엔비디아 "wikilink")사에 인수되었다. 3dfx 인터엑티브는 2002년 10월 15일에 파산했다.\[1\]
+파산 직전에는 캘리포니아에 본사를 두고 있었고, [지적 재산의](https://ko.wikipedia.org/wiki/지적_재산 "wikilink") 상당수가 그의 라이벌인 [엔비디아](../Page/엔비디아.md "wikilink")사에 인수되었다. 3dfx 인터엑티브는 2002년 10월 15일에 파산했다.\[1\]
 
-[마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")의 [다이렉트3D](https://ko.wikipedia.org/wiki/다이렉트3D "wikilink")의 성격과 비슷한 독자적인 API인 [글라이드](https://ko.wikipedia.org/wiki/글라이드 "wikilink")를 가지고 있기도 했다. 그러나 현재는 글라이드를 지원하는 게임을 생산하고 있지 않고 있으며, 일반 그래픽 카드에서 글라이드를 지원하기 위해 오픈글라이드와 같은, 글라이드를 [오픈지엘](https://ko.wikipedia.org/wiki/오픈지엘 "wikilink")로 변환해 주는 [에뮬레이터](../Page/에뮬레이터.md "wikilink")를 설치해야 한다.
+[마이크로소프트](../Page/마이크로소프트.md "wikilink")의 [다이렉트3D](https://ko.wikipedia.org/wiki/다이렉트3D "wikilink")의 성격과 비슷한 독자적인 API인 [글라이드](../Page/글라이드.md "wikilink")를 가지고 있기도 했다. 그러나 현재는 글라이드를 지원하는 게임을 생산하고 있지 않고 있으며, 일반 그래픽 카드에서 글라이드를 지원하기 위해 오픈글라이드와 같은, 글라이드를 [오픈지엘](https://ko.wikipedia.org/wiki/오픈지엘 "wikilink")로 변환해 주는 [에뮬레이터](../Page/에뮬레이터.md "wikilink")를 설치해야 한다.
 
 ## 칩셋 표
 
@@ -73,7 +73,7 @@
 <td><p>110</p></td>
 <td><p>100/100</p></td>
 <td><p>128 비트</p></td>
-<td><p>8/16 <a href="https://ko.wikipedia.org/wiki/SDRAM" title="wikilink">SD</a>/<a href="https://ko.wikipedia.org/wiki/SGRAM" title="wikilink">SG</a></p></td>
+<td><p>8/16 <a href="../Page/SDRAM.md" title="wikilink">SD</a>/<a href="https://ko.wikipedia.org/wiki/SGRAM" title="wikilink">SG</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/AGP" title="wikilink">AGP</a> 1x/PCI</p></td>
 </tr>
 <tr class="odd">
@@ -150,7 +150,7 @@
 <td><p>183</p></td>
 <td><p>366/366</p></td>
 <td><p>64 비트</p></td>
-<td><p>32 <a href="https://ko.wikipedia.org/wiki/DDR_SDRAM" title="wikilink">DDR</a></p></td>
+<td><p>32 <a href="../Page/DDR_SDRAM.md" title="wikilink">DDR</a></p></td>
 <td><p>AGP 4x/PCI</p></td>
 </tr>
 <tr class="even">
@@ -251,7 +251,7 @@
 ## 같이 보기
 
   - [그래픽 카드](../Page/그래픽_카드.md "wikilink")
-  - [컴퓨터 그래픽스](https://ko.wikipedia.org/wiki/컴퓨터_그래픽스 "wikilink")
+  - [컴퓨터 그래픽스](../Page/컴퓨터_그래픽스.md "wikilink")
 
 [분류:1994년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1994년_설립된_기업 "wikilink") [분류:2002년 폐지](https://ko.wikipedia.org/wiki/분류:2002년_폐지 "wikilink") [분류:미국의 기업](https://ko.wikipedia.org/wiki/분류:미국의_기업 "wikilink") [분류:엔비디아](https://ko.wikipedia.org/wiki/분류:엔비디아 "wikilink") [분류:없어진 기업](https://ko.wikipedia.org/wiki/분류:없어진_기업 "wikilink") [분류:산호세 (캘리포니아주)의 기업](https://ko.wikipedia.org/wiki/분류:산호세_\(캘리포니아주\)의_기업 "wikilink")
 

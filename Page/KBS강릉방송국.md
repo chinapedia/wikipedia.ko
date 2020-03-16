@@ -5,41 +5,41 @@
 
 ## 연혁
 
-  - [1941년](https://ko.wikipedia.org/wiki/1941년 "wikilink") [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink") : 조선방송협회 강릉이동방송중계소로 개국
-  - [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") : 대한방송협회 강릉방송국으로 승격
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") : 삼척중계소 개소
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [3월 27일](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") : 괘방산중계소 개소
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") : 괘방산 국군FM 방송개시
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") : 강릉방송국 신축청사 준공
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") : 제1TV 자체방송 실시
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : KBS강릉 제1라디오 FM으로 수신가능, 잡음이 전혀 없는 표준FM(스테레오가 아닌 모노)으로도 동시에 방송
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink") : 괘방산 2TV 방송개시
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink") : 괘방산 스테레오 음악FM 방송개시
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [2월 4일](https://ko.wikipedia.org/wiki/2월_4일 "wikilink") : 진부중계소 자체방송 실시
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") : 동해 방송 스튜디오 개소
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") : 연곡TVR 폐소 및 영월국 임계 TVR 편입
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : 직제개편으로 재원관리부 폐지, 총무부와 통합
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") : 삼척중계소 자동화사업 완료
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") : 진부중계소 자체방송 중단
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [9월 25일](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") : 동해오픈스튜디오 폐소 및 방송시설 삼척중계소로 이전
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") : 삼척지국 TV방송개시
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : 진부중계소 자동화사업 완료
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") : 경포대송신소 자동화사업 완료
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") : 괘방산송신소 2R·FM 스테레오 방송 개시(102.1MHz)
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") : 괘방산송신소 자동화 사업 완료
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월 19일](https://ko.wikipedia.org/wiki/10월_19일 "wikilink") : 표준FM(98.9MHz) 스테레오 방송 개시
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") : 지역국 기능조정으로 속초, 태백방송국 폐지
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 4일](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") : DTV 개국
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") : 진부중계소 폐지
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") : 괘방산송신소 DMB개국
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : 태백산중계소 폐소
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") : 사북중계소 폐소
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") : 태백송출센터 강릉으로 통합
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") : 함백산중계소 DMB 방송 개시
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") : 초록봉중계소 DMB 방송 개시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink") : 지상파 아날로그 TV방송 종료
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") : [수도권](https://ko.wikipedia.org/wiki/수도권_\(대한민국\) "wikilink"), [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink"), [충청권](https://ko.wikipedia.org/wiki/호서_지방 "wikilink") 디지털방송 재배치
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") : KBS 강릉방송국 신사옥 신축 이전 확정 (용강동 62-5 → 유천동 754)
+  - [1941년](../Page/1941년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink") : 조선방송협회 강릉이동방송중계소로 개국
+  - [1947년](../Page/1947년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 대한방송협회 강릉방송국으로 승격
+  - [1962년](../Page/1962년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") : 삼척중계소 개소
+  - [1971년](../Page/1971년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") : 괘방산중계소 개소
+  - [1979년](../Page/1979년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") : 괘방산 국군FM 방송개시
+  - [1980년](../Page/1980년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") : 강릉방송국 신축청사 준공
+  - [1981년](../Page/1981년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") : 제1TV 자체방송 실시
+  - [1982년](../Page/1982년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : KBS강릉 제1라디오 FM으로 수신가능, 잡음이 전혀 없는 표준FM(스테레오가 아닌 모노)으로도 동시에 방송
+  - [1983년](../Page/1983년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") : 괘방산 2TV 방송개시
+  - [1983년](../Page/1983년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink") : 괘방산 스테레오 음악FM 방송개시
+  - [1985년](../Page/1985년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") : 진부중계소 자체방송 실시
+  - [1987년](../Page/1987년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") : 동해 방송 스튜디오 개소
+  - [1988년](../Page/1988년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") : 연곡TVR 폐소 및 영월국 임계 TVR 편입
+  - [1988년](../Page/1988년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : 직제개편으로 재원관리부 폐지, 총무부와 통합
+  - [1991년](../Page/1991년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") : 삼척중계소 자동화사업 완료
+  - [1991년](../Page/1991년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") : 진부중계소 자체방송 중단
+  - [1993년](../Page/1993년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") : 동해오픈스튜디오 폐소 및 방송시설 삼척중계소로 이전
+  - [1996년](../Page/1996년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") : 삼척지국 TV방송개시
+  - [1996년](../Page/1996년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : 진부중계소 자동화사업 완료
+  - [1997년](../Page/1997년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") : 경포대송신소 자동화사업 완료
+  - [2000년](../Page/2000년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 괘방산송신소 2R·FM 스테레오 방송 개시(102.1MHz)
+  - [2001년](../Page/2001년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") : 괘방산송신소 자동화 사업 완료
+  - [2003년](../Page/2003년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") : 표준FM(98.9MHz) 스테레오 방송 개시
+  - [2004년](../Page/2004년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 지역국 기능조정으로 속초, 태백방송국 폐지
+  - [2006년](../Page/2006년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") : DTV 개국
+  - [2006년](../Page/2006년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 진부중계소 폐지
+  - [2007년](../Page/2007년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") : 괘방산송신소 DMB개국
+  - [2008년](../Page/2008년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 태백산중계소 폐소
+  - [2008년](../Page/2008년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") : 사북중계소 폐소
+  - [2009년](../Page/2009년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") : 태백송출센터 강릉으로 통합
+  - [2011년](../Page/2011년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") : 함백산중계소 DMB 방송 개시
+  - [2011년](../Page/2011년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : 초록봉중계소 DMB 방송 개시
+  - [2012년](../Page/2012년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") : 지상파 아날로그 TV방송 종료
+  - [2013년](../Page/2013년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") : [수도권](https://ko.wikipedia.org/wiki/수도권_\(대한민국\) "wikilink"), [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink"), [충청권](https://ko.wikipedia.org/wiki/호서_지방 "wikilink") 디지털방송 재배치
+  - [2015년](../Page/2015년.md "wikilink") [7월](../Page/7월.md "wikilink") : KBS 강릉방송국 신사옥 신축 이전 확정 (용강동 62-5 → 유천동 754)
 
 ## 방송 송출 시설망
 
@@ -310,7 +310,7 @@
 | 프로그램명                                                                      | 방송시간          | 편성시간                | 진행  |
 | -------------------------------------------------------------------------- | ------------- | ------------------- | --- |
 | [KBS 뉴스 (930) 강릉](https://ko.wikipedia.org/wiki/KBS_뉴스_\(930\) "wikilink") | 평일 10분        | 오전 9시 50분 \~ 9시 55분 | 강유미 |
-| [KBS 뉴스 7 강릉](https://ko.wikipedia.org/wiki/KBS_뉴스_7 "wikilink")           | 평일 5분(목요일 제외) | 저녁 7시 20분 \~ 7시 25분 | 박민정 |
+| [KBS 뉴스 7 강릉](../Page/KBS_뉴스_7.md "wikilink")                              | 평일 5분(목요일 제외) | 저녁 7시 20분 \~ 7시 25분 | 박민정 |
 | [KBS 뉴스 9 강릉](../Page/KBS_뉴스_9.md "wikilink")                              | 평일 10분        | 밤 9시 35분 \~ 9시 45분  | 박민정 |
 
 #### 교양
@@ -343,9 +343,9 @@
 
 ### 현직 아나운서
 
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") (17기) 입사 : [김경미](https://ko.wikipedia.org/wiki/김경미 "wikilink")
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") (30기) 입사 : [이의선](https://ko.wikipedia.org/wiki/이의선 "wikilink")
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") (프리랜서) 입사 : [박민정](https://ko.wikipedia.org/wiki/박민정 "wikilink")
+  - [1990년](../Page/1990년.md "wikilink") (17기) 입사 : [김경미](https://ko.wikipedia.org/wiki/김경미 "wikilink")
+  - [2004년](../Page/2004년.md "wikilink") (30기) 입사 : [이의선](https://ko.wikipedia.org/wiki/이의선 "wikilink")
+  - [2019년](../Page/2019년.md "wikilink") (프리랜서) 입사 : [박민정](https://ko.wikipedia.org/wiki/박민정 "wikilink")
   - [2019년 4월](https://ko.wikipedia.org/wiki/2019년_4월 "wikilink") (프리랜서) 입사 : [강유미](../Page/강유미.md "wikilink")
 
 ### 전직 아나운서
@@ -354,8 +354,8 @@
 
 <!-- end list -->
 
-  - [전인석](https://ko.wikipedia.org/wiki/전인석 "wikilink") (1987\~1991, 현 KBS 제주 총국)
-  - [김기만](https://ko.wikipedia.org/wiki/김기만_\(아나운서\) "wikilink") (2002\~2003, 현 KBS 서울 본국)
+  - [전인석](../Page/전인석.md "wikilink") (1987\~1991, 현 KBS 제주 총국)
+  - [김기만](../Page/김기만_\(아나운서\).md "wikilink") (2002\~2003, 현 KBS 서울 본국)
   - [윤석황](https://ko.wikipedia.org/wiki/윤석황 "wikilink") (2008\~2019, 현 KBS 춘천 아나운서)
   - [이영락](https://ko.wikipedia.org/wiki/이영락 "wikilink") (2000\~2002, 현 MBC 충북 아나운서)
   - [김기영](https://ko.wikipedia.org/wiki/김기영 "wikilink") (2003\~2005, 현 포항 MBC 기자)
@@ -371,11 +371,11 @@
 <!-- end list -->
 
   - [김숙경](https://ko.wikipedia.org/wiki/김숙경 "wikilink") (2008\~2009, 현 KBS 대전 아나운서)
-  - [정은아](https://ko.wikipedia.org/wiki/정은아 "wikilink") (2002\~2004, 전 KBS 순천 아나운서, 현 KBS 광주 아나운서)
-  - [이지연](https://ko.wikipedia.org/wiki/이지연_\(1975년\) "wikilink") (2000\~2001, 현 퇴사)
+  - [정은아](../Page/정은아.md "wikilink") (2002\~2004, 전 KBS 순천 아나운서, 현 KBS 광주 아나운서)
+  - [이지연](../Page/이지연_\(1975년\).md "wikilink") (2000\~2001, 현 퇴사)
   - [정소희](../Page/정소희.md "wikilink") (2009\~2012, 현 KTV 한국 정책 방송 아나운서)
   - [조수빈](../Page/조수빈.md "wikilink") (2005\~2006, 현 퇴사)
-  - [이지애](https://ko.wikipedia.org/wiki/이지애 "wikilink") (2006\~2007, 현 퇴사)
+  - [이지애](../Page/이지애.md "wikilink") (2006\~2007, 현 퇴사)
   - [원순식](https://ko.wikipedia.org/wiki/원순식 "wikilink") (2001\~2004, 전 KBS 청주 아나운서)
   - [오혜원](https://ko.wikipedia.org/wiki/오혜원 "wikilink") (2008\~2009, 현 퇴사)
   - [김서련](https://ko.wikipedia.org/wiki/김서련 "wikilink") (2010\~2012, 현 KBS 춘천 아나운서)
@@ -384,7 +384,7 @@
   - [강아랑](../Page/강아랑.md "wikilink") (2013\~2014, 현 KBS 기상 캐스터)
   - [허보혜](https://ko.wikipedia.org/wiki/허보혜 "wikilink") (1985\~2008, 현 퇴사)
   - [윤상아](https://ko.wikipedia.org/wiki/윤상아 "wikilink") (2013\~2015, 현 퇴사)
-  - [김소은](https://ko.wikipedia.org/wiki/김소은 "wikilink") (2015\~2016.12.7, 현 퇴사)
+  - [김소은](../Page/김소은.md "wikilink") (2015\~2016.12.7, 현 퇴사)
   - [정은지](https://ko.wikipedia.org/wiki/정은지_\(아나운서\) "wikilink") (2015\~2017 현 퇴사)
   - 이은주 (2016\~2018, 현 프리랜서)
   - [윤소희](../Page/윤소희.md "wikilink") (2016.9.\~2019.3.29, 현 퇴사)
@@ -401,7 +401,7 @@
   - [정면구](https://ko.wikipedia.org/wiki/정면구 "wikilink")
   - [박상용](https://ko.wikipedia.org/wiki/박상용 "wikilink")
   - [정창환](https://ko.wikipedia.org/wiki/정창환 "wikilink")
-  - [박상희](https://ko.wikipedia.org/wiki/박상희 "wikilink")
+  - [박상희](../Page/박상희.md "wikilink")
   - [김보람](https://ko.wikipedia.org/wiki/김보람 "wikilink")
   - [조연주](https://ko.wikipedia.org/wiki/조연주 "wikilink")
 
