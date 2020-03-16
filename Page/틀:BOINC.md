@@ -1,34 +1,34 @@
 > This article is converted from Wikipedia: [:BOINC](https://ko.wikipedia.org/wiki/:BOINC).
 
 
-[UC 버클리](https://ko.wikipedia.org/wiki/캘리포니아_대학교_버클리 "wikilink")
+[UC 버클리](../Page/캘리포니아_대학교_버클리.md "wikilink")
 
 |묶음1 = 진행중인 프로젝트 |내용1 =
 
   - [ABC@Home](https://ko.wikipedia.org/wiki/ABC@Home "wikilink")
-  - [Climateprediction.net](https://ko.wikipedia.org/wiki/Climateprediction.net "wikilink")
+  - [Climateprediction.net](../Page/Climateprediction.net.md "wikilink")
   - [DistrRTgen](https://ko.wikipedia.org/wiki/DistrRTgen "wikilink")
-  - [Einstein@Home](https://ko.wikipedia.org/wiki/Einstein@Home "wikilink")
+  - [Einstein@Home](../Page/Einstein@Home.md "wikilink")
   - [FreeHAL](https://ko.wikipedia.org/wiki/FreeHAL "wikilink")
   - [Ibercivis](https://ko.wikipedia.org/wiki/Ibercivis "wikilink")
   - [The Lattice Project](https://ko.wikipedia.org/wiki/The_Lattice_Project "wikilink")
   - [Leiden Classical](https://ko.wikipedia.org/wiki/Leiden_Classical "wikilink")
-  - [LHC@home](https://ko.wikipedia.org/wiki/LHC@home "wikilink")
+  - [LHC@home](../Page/LHC@home.md "wikilink")
   - [Malaria Control Project](https://ko.wikipedia.org/wiki/Malaria_Control_Project "wikilink")
-  - [MilkyWay@home](https://ko.wikipedia.org/wiki/Milkyway@home "wikilink")
+  - [MilkyWay@home](../Page/Milkyway@home.md "wikilink")
   - [PrimeGrid](https://ko.wikipedia.org/wiki/PrimeGrid "wikilink")
   - [Quake-Catcher Network](https://ko.wikipedia.org/wiki/Quake-Catcher_Network "wikilink")
-  - [Rosetta@home](https://ko.wikipedia.org/wiki/Rosetta@home "wikilink")
-  - [SETI@home](https://ko.wikipedia.org/wiki/SETI@home "wikilink")
+  - [Rosetta@home](../Page/Rosetta@home.md "wikilink")
+  - [SETI@home](../Page/SETI@home.md "wikilink")
       - [Astropulse](https://ko.wikipedia.org/wiki/Astropulse "wikilink")
   - [SIMAP](https://ko.wikipedia.org/wiki/SIMAP "wikilink")
   - [SZTAKI Desktop Grid](https://ko.wikipedia.org/wiki/SZTAKI_Desktop_Grid "wikilink")
-  - [World Community Grid](https://ko.wikipedia.org/wiki/월드_커뮤니티_그리드 "wikilink")
+  - [World Community Grid](../Page/월드_커뮤니티_그리드.md "wikilink")
 
 |묶음2 = 베타 프로젝트 |내용2 =
 
-  - [BURP](https://ko.wikipedia.org/wiki/Big_and_Ugly_Rendering_Project "wikilink")
-  - [Climateprediction.net](https://ko.wikipedia.org/wiki/Climateprediction.net "wikilink")
+  - [BURP](../Page/Big_and_Ugly_Rendering_Project.md "wikilink")
+  - [Climateprediction.net](../Page/Climateprediction.net.md "wikilink")
   - [Cosmology@Home](https://ko.wikipedia.org/wiki/Cosmology@Home "wikilink")
   - [GPUGRID.net](https://ko.wikipedia.org/wiki/GPUGRID.net "wikilink")
   - [Ibercivis](https://ko.wikipedia.org/wiki/Ibercivis "wikilink")
@@ -75,6 +75,6 @@
   - [TANPAKU](https://ko.wikipedia.org/wiki/TANPAKU "wikilink")
   - [XtremLab](https://ko.wikipedia.org/wiki/XtremLab "wikilink")
 
-|아랫글 = [미들웨어](../Page/미들웨어.md "wikilink") {{·}} [CPU](https://ko.wikipedia.org/wiki/CPU "wikilink") {{·}} [GPU](https://ko.wikipedia.org/wiki/GPU "wikilink") {{·}} [PS3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") {{·}} [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink")
+|아랫글 = [미들웨어](../Page/미들웨어.md "wikilink") {{·}} [CPU](https://ko.wikipedia.org/wiki/CPU "wikilink") {{·}} [GPU](https://ko.wikipedia.org/wiki/GPU "wikilink") {{·}} [PS3](../Page/플레이스테이션_3.md "wikilink") {{·}} [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink")
 
 }}<noinclude> [분류:컴퓨터에 관한 둘러보기 틀](https://ko.wikipedia.org/wiki/분류:컴퓨터에_관한_둘러보기_틀 "wikilink") </noinclude>

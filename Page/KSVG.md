@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [KSVG](https://ko.wikipedia.org/wiki/KSVG).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:KSVG_Example_in_Konqueror.png "wikilink") **KSVG**는 [KHTML](../Page/KHTML.md "wikilink") 기반의 브라우저를 위한 [SVG](https://ko.wikipedia.org/wiki/SVG "wikilink") 솔루션이다. [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")의 표준인 [SVG](https://ko.wikipedia.org/wiki/SVG "wikilink")를 구현한다.\[1\] 현재 SVG 1.1 버전 스펙과 호환되는 SVG 파일을 디스플레이해주는 뷰어(viewer)를 개발하는 것을 목표로 하고 있다. KSVG에는 SVG 1.0/1.1 버전 스펙에 들어 있는 기능이 많이 들어가 있다. 애니메이션, 필터, CSS 기능이 들어갔다.
+[thumb](https://ko.wikipedia.org/wiki/파일:KSVG_Example_in_Konqueror.png "wikilink") **KSVG**는 [KHTML](../Page/KHTML.md "wikilink") 기반의 브라우저를 위한 [SVG](https://ko.wikipedia.org/wiki/SVG "wikilink") 솔루션이다. [W3C](../Page/W3C.md "wikilink")의 표준인 [SVG](https://ko.wikipedia.org/wiki/SVG "wikilink")를 구현한다.\[1\] 현재 SVG 1.1 버전 스펙과 호환되는 SVG 파일을 디스플레이해주는 뷰어(viewer)를 개발하는 것을 목표로 하고 있다. KSVG에는 SVG 1.0/1.1 버전 스펙에 들어 있는 기능이 많이 들어가 있다. 애니메이션, 필터, CSS 기능이 들어갔다.
 
-[컨커러](https://ko.wikipedia.org/wiki/컨커러 "wikilink") 브라우저에 [KPart](https://ko.wikipedia.org/wiki/KPart "wikilink") 중 하나로서 [KDE](https://ko.wikipedia.org/wiki/KDE "wikilink") 안에 포함되어 있다.
+[컨커러](https://ko.wikipedia.org/wiki/컨커러 "wikilink") 브라우저에 [KPart](https://ko.wikipedia.org/wiki/KPart "wikilink") 중 하나로서 [KDE](../Page/KDE.md "wikilink") 안에 포함되어 있다.
 
 KSVG2의 아키텍처는 [컨커러](https://ko.wikipedia.org/wiki/컨커러 "wikilink") 브라우저의 HTML 렌더러 (khtml) 부분의 아키텍처와 매우 유사하다.\[2\]
 

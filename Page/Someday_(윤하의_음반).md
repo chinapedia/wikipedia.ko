@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Someday \( \)](https://ko.wikipedia.org/wiki/Someday_\(_\)).
 
 
-《**Someday**》는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") 발매된 가수 [윤하](https://ko.wikipedia.org/wiki/윤하 "wikilink")의 정규 2집 음반이다.
+《**Someday**》는 [2008년](../Page/2008년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") 발매된 가수 [윤하](../Page/윤하.md "wikilink")의 정규 2집 음반이다.
 
 ## 2집 음반 발표 예고 및 트랙리스트 공개
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink"), 소속사 [스탐](https://ko.wikipedia.org/wiki/스탐 "wikilink")은 가수 [윤하](https://ko.wikipedia.org/wiki/윤하 "wikilink")의 정규 2집 음반 발표를 알렸다.\[1\] 음반명은 《Someday》로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") 발매되었다. 에픽하이의 타블로, 싱어송 라이터 조규찬, 재즈피아니스트 송영주 등이 음반에 참여하였고, 윤하 자신이 직접 작곡과 연주를 맡은 트랙도 수록되었다. 타이틀 곡은 '텔레파시'로 정해졌다. 윤하의 소속사 측은 이번 음반에 대해 "팝 발라드, 모던 록, 프로그레시브 록, 일렉트로니카, 재즈 등 다양한 장르를 담아냈으며, 상당한 음악적인 성장을 느낄 수 있을 만큼 웰 메이드 된 음반으로 들을 만한 곡들이 많은 ‘좋은 음반’으로 기대된다"고 밝혔다.
+[2008년](../Page/2008년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink"), 소속사 [스탐](https://ko.wikipedia.org/wiki/스탐 "wikilink")은 가수 [윤하](../Page/윤하.md "wikilink")의 정규 2집 음반 발표를 알렸다.\[1\] 음반명은 《Someday》로, [2008년](../Page/2008년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") 발매되었다. 에픽하이의 타블로, 싱어송 라이터 조규찬, 재즈피아니스트 송영주 등이 음반에 참여하였고, 윤하 자신이 직접 작곡과 연주를 맡은 트랙도 수록되었다. 타이틀 곡은 '텔레파시'로 정해졌다. 윤하의 소속사 측은 이번 음반에 대해 "팝 발라드, 모던 록, 프로그레시브 록, 일렉트로니카, 재즈 등 다양한 장르를 담아냈으며, 상당한 음악적인 성장을 느낄 수 있을 만큼 웰 메이드 된 음반으로 들을 만한 곡들이 많은 ‘좋은 음반’으로 기대된다"고 밝혔다.
 
 ## 주요 활동 곡
 

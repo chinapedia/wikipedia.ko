@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [COROT-5b](https://ko.wikipedia.org/wiki/COROT-5b).
 
 
-**COROT-Exo-5b**는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink") [Corot-Exo-5](https://ko.wikipedia.org/wiki/Corot-Exo-5 "wikilink")를 돌고 있는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink").\[1\]\[2\] 이 행성은 2008년 [COROT](https://ko.wikipedia.org/wiki/COROT "wikilink") 미션 수행 중 발견되었다.
+**COROT-Exo-5b**는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink") [Corot-Exo-5](https://ko.wikipedia.org/wiki/Corot-Exo-5 "wikilink")를 돌고 있는 [외계 행성이다](../Page/외계_행성.md "wikilink").\[1\]\[2\] 이 행성은 2008년 [COROT](https://ko.wikipedia.org/wiki/COROT "wikilink") 미션 수행 중 발견되었다.
 
 ## 물리적 특징
 
@@ -9,8 +9,8 @@
 
 ## 같이 보기
 
-  - [COROT](https://ko.wikipedia.org/wiki/COROT "wikilink") - 2006년에 발사된, [프랑스 국립 우주 연구 센터와](https://ko.wikipedia.org/wiki/프랑스_국립_우주_연구_센터 "wikilink") [유럽 우주국이](https://ko.wikipedia.org/wiki/유럽_우주국 "wikilink") 구상하는 외계행성 탐사 계획인 [COROT](https://ko.wikipedia.org/wiki/COROT "wikilink")의 우주선(spacecraft)
-  - [COROT-6b](https://ko.wikipedia.org/wiki/COROT-6b "wikilink")
+  - [COROT](https://ko.wikipedia.org/wiki/COROT "wikilink") - 2006년에 발사된, [프랑스 국립 우주 연구 센터와](../Page/프랑스_국립_우주_연구_센터.md "wikilink") [유럽 우주국이](../Page/유럽_우주국.md "wikilink") 구상하는 외계행성 탐사 계획인 [COROT](https://ko.wikipedia.org/wiki/COROT "wikilink")의 우주선(spacecraft)
+  - [COROT-6b](../Page/COROT-6b.md "wikilink")
 
 ## 참고 문헌
 

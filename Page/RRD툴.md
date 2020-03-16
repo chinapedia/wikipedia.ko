@@ -5,7 +5,7 @@
 
 [MRTG](https://ko.wikipedia.org/wiki/MRTG "wikilink")를 모방해 일반화 하여 개발한 도구이며 자료 수집에 관한 일부분이 빠져 완전한 대체물은 아니지만, 네트워크 모니터링 분야에서 매우 인기있는 도구이다.
 
-[펄](https://ko.wikipedia.org/wiki/펄 "wikilink"), [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink"), [루비](https://ko.wikipedia.org/wiki/루비_\(프로그래밍_언어\) "wikilink"), [Tcl](../Page/Tcl.md "wikilink"), [PHP](https://ko.wikipedia.org/wiki/PHP "wikilink")를 지원한다.
+[펄](../Page/펄.md "wikilink"), [파이썬](../Page/파이썬.md "wikilink"), [루비](../Page/루비_\(프로그래밍_언어\).md "wikilink"), [Tcl](../Page/Tcl.md "wikilink"), [PHP](../Page/PHP.md "wikilink")를 지원한다.
 
 기본적으로 유닉스/리눅스에서 작동하지만 윈도용도 일부 버전을 지원한다. 공식적으로는 이진파일 없이 소스코드만 배포한다.
 

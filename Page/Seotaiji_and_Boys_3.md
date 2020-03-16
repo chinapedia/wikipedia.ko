@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Seotaiji and Boys 3](https://ko.wikipedia.org/wiki/Seotaiji_and_Boys_3).
 
 
-《**''Seotaiji and Boys 3**''》(**서태지와 아이들 III**)는 [서태지와 아이들의](https://ko.wikipedia.org/wiki/서태지와_아이들 "wikilink") 세 번째 정규 음반이다.\[1\]\[2\]\[3\]\[4\] 사회성이 짙은 가사로 논란이 되었다. 또한, [서태지](https://ko.wikipedia.org/wiki/서태지 "wikilink")의 본래 음악적 지향인 [헤비 메탈적](../Page/헤비_메탈.md "wikilink") 요소가 두드러진 앨범이다. 2집에 비해 판매량은 떨어졌지만 당시 [MBC 뉴스데스크에서](https://ko.wikipedia.org/wiki/MBC_뉴스데스크 "wikilink") 보름만에 130만장 나갔다고 보도되며, 총 150만 장 이상 판매되었다.
+《**''Seotaiji and Boys 3**''》(**서태지와 아이들 III**)는 [서태지와 아이들의](../Page/서태지와_아이들.md "wikilink") 세 번째 정규 음반이다.\[1\]\[2\]\[3\]\[4\] 사회성이 짙은 가사로 논란이 되었다. 또한, [서태지](../Page/서태지.md "wikilink")의 본래 음악적 지향인 [헤비 메탈적](../Page/헤비_메탈.md "wikilink") 요소가 두드러진 앨범이다. 2집에 비해 판매량은 떨어졌지만 당시 [MBC 뉴스데스크에서](../Page/MBC_뉴스데스크.md "wikilink") 보름만에 130만장 나갔다고 보도되며, 총 150만 장 이상 판매되었다.
 
 ## 음반 정보
 
@@ -9,10 +9,10 @@
 
 ### 수록곡 소개
 
-1.  발해를 꿈꾸며 : 3집의 타이틀 곡, [분단과](../Page/분단국가.md "wikilink") [남북통일](https://ko.wikipedia.org/wiki/남북통일 "wikilink")을 주제로 다루었으며, 뮤직비디오로 제작되었다.
+1.  발해를 꿈꾸며 : 3집의 타이틀 곡, [분단과](../Page/분단국가.md "wikilink") [남북통일](../Page/남북통일.md "wikilink")을 주제로 다루었으며, 뮤직비디오로 제작되었다.
 2.  아이들의 눈으로 : 제목 그대로 아이들의 마음, 즉 동심을 노래한 곡, [태지의 화에도](https://ko.wikipedia.org/wiki/태지의_화 "wikilink") 수록되어 있다.
 3.  교실 이데아 : 대한민국 교육의 문제를 날카롭게 꼬집었다. [크래쉬의](https://ko.wikipedia.org/wiki/크래쉬_\(대한민국의_음악_그룹\) "wikilink") [안흥찬](https://ko.wikipedia.org/wiki/안흥찬 "wikilink")이 참여한 이 곡은 당시 10대 청소년들의 전폭적인 지지를 받았다. 2007년 리믹스되어 15주년 기념음반에 수록되었으며, 2013년에는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")의 드라마 《[응답하라 1994](../Page/응답하라_1994.md "wikilink")》에서 [교실이데아 소동이](https://ko.wikipedia.org/wiki/교실이데아_소동 "wikilink") 그려지는 부분에 삽입되었다.
-4.  내 맘이야 : [펑크적인](https://ko.wikipedia.org/wiki/펑크_록 "wikilink") 색채가 농후하다.
+4.  내 맘이야 : [펑크적인](../Page/펑크_록.md "wikilink") 색채가 농후하다.
 5.  제킬 박사와 하이드: 2집의 〈죽음의 늪〉에 이어 다시 한번 마약 문제를 다루었다.
 6.  영원 : 현악 반주로 구성된 발라드이며, 후에 가수 [김동률](../Page/김동률.md "wikilink")이 극찬한 곡
 7.  널 지우려 해 : 서태지와 아이들 멤버 양현석이 작사를 하였다. [ETPFEST](../Page/ETPFEST.md "wikilink") 2002 전야공연때 서태지가 깜짝출연하여 그룹 [넬과](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 함께 불렀다.
@@ -23,7 +23,7 @@
 
 ### 재발매판
 
-2007년 발매된 서태지 15주년 기념 박스세트에 포함된 버전이 2009년에 또 다시 개별적으로 재발매 되었다. 앨범의 히든트랙으로는 《[다른 하늘이 열리고](https://ko.wikipedia.org/wiki/다른_하늘이_열리고 "wikilink")》의 라이브 음원과 2007년에 새롭게 리믹스 한 버전의 〈교실 이데아〉가 수록되었다.
+2007년 발매된 서태지 15주년 기념 박스세트에 포함된 버전이 2009년에 또 다시 개별적으로 재발매 되었다. 앨범의 히든트랙으로는 《[다른 하늘이 열리고](../Page/다른_하늘이_열리고.md "wikilink")》의 라이브 음원과 2007년에 새롭게 리믹스 한 버전의 〈교실 이데아〉가 수록되었다.
 
 ## 갖가지 괴담
 
@@ -57,9 +57,9 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/서태지" title="wikilink">서태지</a>: <a href="https://ko.wikipedia.org/wiki/음악_프로듀서" title="wikilink">프로듀서</a>, 녹음(Techno Taiji Studio - 3, 4, 6, 9), <a href="https://ko.wikipedia.org/wiki/메인_보컬" title="wikilink">메인 보컬</a>, <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>(트랙 9 제외)·<a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>·<a href="https://ko.wikipedia.org/wiki/편곡" title="wikilink">편곡</a>, <a href="https://ko.wikipedia.org/wiki/건반" title="wikilink">건반</a>(2~5, 8, 9), 컴퓨터 프로그래밍(3, 9), <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>(4, 6), <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>(4~6), <a href="https://ko.wikipedia.org/wiki/드럼셋" title="wikilink">드럼</a> 프로그래밍(5)</li>
+<li><a href="../Page/서태지.md" title="wikilink">서태지</a>: <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, 녹음(Techno Taiji Studio - 3, 4, 6, 9), <a href="https://ko.wikipedia.org/wiki/메인_보컬" title="wikilink">메인 보컬</a>, <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>(트랙 9 제외)·<a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>·<a href="../Page/편곡.md" title="wikilink">편곡</a>, <a href="https://ko.wikipedia.org/wiki/건반" title="wikilink">건반</a>(2~5, 8, 9), 컴퓨터 프로그래밍(3, 9), <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>(4, 6), <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(4~6), <a href="https://ko.wikipedia.org/wiki/드럼셋" title="wikilink">드럼</a> 프로그래밍(5)</li>
 <li><a href="../Page/양현석.md" title="wikilink">양현석</a>: 작사(트랙 9), 랩, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, 백킹보컬, 안무</li>
-<li><a href="https://ko.wikipedia.org/wiki/이주노" title="wikilink">이주노</a>: 랩, 보컬, 백킹보컬, 안무</li>
+<li><a href="../Page/이주노.md" title="wikilink">이주노</a>: 랩, 보컬, 백킹보컬, 안무</li>
 </ul>
 <dl>
 <dt>참여 음악인</dt>
@@ -71,11 +71,11 @@
 <li><a href="https://ko.wikipedia.org/wiki/조시_프리스" title="wikilink">조시 프리스</a>: 드럼(4, 6, 9)</li>
 <li>Denny Fongheiser: 드럼(2, 8)</li>
 <li><a href="https://ko.wikipedia.org/wiki/안흥찬" title="wikilink">안흥찬</a>(<a href="https://ko.wikipedia.org/wiki/크래쉬_(대한민국의_음악_그룹)" title="wikilink">크래쉬</a>): 백킹보컬(4, 5)</li>
-<li>권선미: <a href="https://ko.wikipedia.org/wiki/첼로" title="wikilink">첼로</a>(2, 8)</li>
+<li>권선미: <a href="../Page/첼로.md" title="wikilink">첼로</a>(2, 8)</li>
 <li>The Japan King Orchestra: 현악 연주(7)</li>
-<li>최태완: 어쿠스틱 <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>(3)</li>
+<li>최태완: 어쿠스틱 <a href="../Page/피아노.md" title="wikilink">피아노</a>(3)</li>
 <li><a href="https://ko.wikipedia.org/wiki/DJ_큐버트" title="wikilink">DJ Q-BERT</a>: <a href="../Page/디스크_자키.md" title="wikilink">스크래치</a>(4, 5)</li>
-<li>홍승호, 동성완, <a href="https://ko.wikipedia.org/wiki/김재기" title="wikilink">김재기</a>, 우정주: 백킹보컬(2, 5, 6)</li>
+<li>홍승호, 동성완, <a href="../Page/김재기.md" title="wikilink">김재기</a>, 우정주: 백킹보컬(2, 5, 6)</li>
 <li>서보경, 하정윤, 이수정, 최정미, 김경화, 정원식, 김훈, 이주영: 백킹보컬(4)
 <ul>
 <li>이민석 - <a href="https://ko.wikipedia.org/wiki/감독" title="wikilink">디렉터</a></li>
@@ -122,14 +122,14 @@
 
 ## 외부 링크
 
-  - [57위 서태지와 아이들 《서태지와 아이들 III》](http://news.khan.co.kr/section/khan_art_view.html?artid=200803201700045&code=900307&s_code=at031&mode=view) [경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink")
+  - [57위 서태지와 아이들 《서태지와 아이들 III》](http://news.khan.co.kr/section/khan_art_view.html?artid=200803201700045&code=900307&s_code=at031&mode=view) [경향신문](../Page/경향신문.md "wikilink")
 
 [분류:팝 록 음반](https://ko.wikipedia.org/wiki/분류:팝_록_음반 "wikilink") [분류:랩 록 음반](https://ko.wikipedia.org/wiki/분류:랩_록_음반 "wikilink") [분류:서태지와 아이들의 음반](https://ko.wikipedia.org/wiki/분류:서태지와_아이들의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:1994년 음반](https://ko.wikipedia.org/wiki/분류:1994년_음반 "wikilink")
 
 1.  [매니아디비](https://ko.wikipedia.org/wiki/매니아디비 "wikilink") - ["서태지와 아이들 - 서태지와 아이들 3집"](http://www.maniadb.com/album.asp?a=121481)
-2.  [다음](https://ko.wikipedia.org/wiki/다음 "wikilink") 뮤직 - ["서태지와 아이들 - 서태지와 아이들 3집"](http://music.daum.net/album/album.do?albumId=3954)
-3.  [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직 - ["서태지와 아이들 - 서태지와 아이들 3집"](http://music.naver.com/album/index.nhn?albumId=1901)
-4.  [싸이월드](https://ko.wikipedia.org/wiki/싸이월드 "wikilink") BGM - ["서태지와 아이들 - 서태지와 아이들 3집"](http://music.cyworld.com/album.asp?aid=13794)
+2.  [다음](../Page/다음.md "wikilink") 뮤직 - ["서태지와 아이들 - 서태지와 아이들 3집"](http://music.daum.net/album/album.do?albumId=3954)
+3.  [네이버](../Page/네이버.md "wikilink") 뮤직 - ["서태지와 아이들 - 서태지와 아이들 3집"](http://music.naver.com/album/index.nhn?albumId=1901)
+4.  [싸이월드](../Page/싸이월드.md "wikilink") BGM - ["서태지와 아이들 - 서태지와 아이들 3집"](http://music.cyworld.com/album.asp?aid=13794)
 5.
 6.  이후 8집 싱글 2 활동에서 출연한 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") "[배철수의 음악캠프](../Page/배철수의_음악캠프.md "wikilink")"에서는 처음에는 우리나라에도 이런 논란([백마스킹](../Page/백마스킹.md "wikilink"))이 있을 수 있다는 점에 놀라기도 했고 재밌기도 했지만 수그러 들지 않자 심각하다는 걸 느꼈다고 함.
 7.  《Seotaiji and Boys III》 [라이너 노츠](https://ko.wikipedia.org/wiki/라이너_노츠 "wikilink")

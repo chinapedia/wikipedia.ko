@@ -1890,12 +1890,12 @@ ROC (1972–1976)</p></td>
 <tr class="odd">
 <td><p>ANZ</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽_오스트레일리아_선수단" title="wikilink">오스트레일리아과</a> <a href="https://ko.wikipedia.org/wiki/올림픽_뉴질랜드_선수단" title="wikilink">뉴질랜드의</a> 단일 선수단</p></td>
+<td><p><a href="../Page/올림픽_오스트레일리아_선수단.md" title="wikilink">오스트레일리아과</a> <a href="../Page/올림픽_뉴질랜드_선수단.md" title="wikilink">뉴질랜드의</a> 단일 선수단</p></td>
 </tr>
 <tr class="even">
 <td><p>COR</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽_대한민국_선수단" title="wikilink">대한민국과</a> <a href="https://ko.wikipedia.org/wiki/올림픽_조선민주주의인민공화국_선수단" title="wikilink">조선민주주의인민공화국의</a> 단일 선수단</p></td>
+<td><p><a href="../Page/올림픽_대한민국_선수단.md" title="wikilink">대한민국과</a> <a href="https://ko.wikipedia.org/wiki/올림픽_조선민주주의인민공화국_선수단" title="wikilink">조선민주주의인민공화국의</a> 단일 선수단</p></td>
 </tr>
 <tr class="odd">
 <td><p>EUA</p></td>
@@ -1905,7 +1905,7 @@ ROC (1972–1976)</p></td>
 <tr class="even">
 <td><p>EUN</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/소련" title="wikilink">소련</a>이 해체된 후 연합하여 참가한 선수단</p></td>
+<td><p><a href="../Page/소련.md" title="wikilink">소련</a>이 해체된 후 연합하여 참가한 선수단</p></td>
 </tr>
 <tr class="odd">
 <td><p>IOA</p></td>
@@ -1913,32 +1913,32 @@ ROC (1972–1976)</p></td>
 <br />
 <br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2000년_하계_올림픽" title="wikilink">2000년 하계 올림픽에서</a> <a href="../Page/국가_올림픽_위원회.md" title="wikilink">국가 올림픽 위원회가</a> 구성되기 이전 상태인 <a href="https://ko.wikipedia.org/wiki/동티모르" title="wikilink">동티모르</a> 출신 선수단<br />
-<a href="https://ko.wikipedia.org/wiki/2012년_하계_올림픽" title="wikilink">2012년 하계 올림픽에서</a> <a href="../Page/국가_올림픽_위원회.md" title="wikilink">국가 올림픽 위원회가</a> 해체된 <a href="https://ko.wikipedia.org/wiki/네덜란드령_안틸레스" title="wikilink">네덜란드령 안틸레스</a> 선수와 <a href="../Page/국가_올림픽_위원회.md" title="wikilink">국가 올림픽 위원회가</a> 구성되기 이전 상태인 <a href="https://ko.wikipedia.org/wiki/남수단" title="wikilink">남수단</a> 출신 선수단<br />
-<a href="https://ko.wikipedia.org/wiki/2014년_하계_청소년_올림픽" title="wikilink">2014년 하계 청소년 올림픽에서</a> <a href="../Page/국가_올림픽_위원회.md" title="wikilink">국가 올림픽 위원회가</a> 구성되기 이전 상태인 <a href="https://ko.wikipedia.org/wiki/남수단" title="wikilink">남수단</a> 출신 선수단<br />
-<a href="https://ko.wikipedia.org/wiki/2016년_하계_올림픽" title="wikilink">2016년 하계 올림픽에서</a> <a href="https://ko.wikipedia.org/wiki/쿠웨이트_올림픽_위원회" title="wikilink">쿠웨이트 올림픽 위원회가</a> <a href="https://ko.wikipedia.org/wiki/국제_올림픽_위원회" title="wikilink">국제 올림픽 위원회로부터</a> 회원국 자격이 정지된 상태에서 참가한 <a href="https://ko.wikipedia.org/wiki/쿠웨이트" title="wikilink">쿠웨이트</a> 출신 선수단</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2000년_하계_올림픽" title="wikilink">2000년 하계 올림픽에서</a> <a href="../Page/국가_올림픽_위원회.md" title="wikilink">국가 올림픽 위원회가</a> 구성되기 이전 상태인 <a href="../Page/동티모르.md" title="wikilink">동티모르</a> 출신 선수단<br />
+<a href="https://ko.wikipedia.org/wiki/2012년_하계_올림픽" title="wikilink">2012년 하계 올림픽에서</a> <a href="../Page/국가_올림픽_위원회.md" title="wikilink">국가 올림픽 위원회가</a> 해체된 <a href="../Page/네덜란드령_안틸레스.md" title="wikilink">네덜란드령 안틸레스</a> 선수와 <a href="../Page/국가_올림픽_위원회.md" title="wikilink">국가 올림픽 위원회가</a> 구성되기 이전 상태인 <a href="../Page/남수단.md" title="wikilink">남수단</a> 출신 선수단<br />
+<a href="https://ko.wikipedia.org/wiki/2014년_하계_청소년_올림픽" title="wikilink">2014년 하계 청소년 올림픽에서</a> <a href="../Page/국가_올림픽_위원회.md" title="wikilink">국가 올림픽 위원회가</a> 구성되기 이전 상태인 <a href="../Page/남수단.md" title="wikilink">남수단</a> 출신 선수단<br />
+<a href="https://ko.wikipedia.org/wiki/2016년_하계_올림픽" title="wikilink">2016년 하계 올림픽에서</a> <a href="../Page/쿠웨이트_올림픽_위원회.md" title="wikilink">쿠웨이트 올림픽 위원회가</a> <a href="../Page/국제_올림픽_위원회.md" title="wikilink">국제 올림픽 위원회로부터</a> 회원국 자격이 정지된 상태에서 참가한 <a href="../Page/쿠웨이트.md" title="wikilink">쿠웨이트</a> 출신 선수단</p></td>
 </tr>
 <tr class="even">
 <td><p>IOC</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠웨이트_올림픽_위원회" title="wikilink">쿠웨이트 올림픽 위원회에</a> 대한 제재 하에 참가한 <a href="https://ko.wikipedia.org/wiki/쿠웨이트" title="wikilink">쿠웨이트</a> 출신 선수단</p></td>
+<td><p><a href="../Page/쿠웨이트_올림픽_위원회.md" title="wikilink">쿠웨이트 올림픽 위원회에</a> 대한 제재 하에 참가한 <a href="../Page/쿠웨이트.md" title="wikilink">쿠웨이트</a> 출신 선수단</p></td>
 </tr>
 <tr class="odd">
 <td><p>IOP</p></td>
 <td><p><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1992년_하계_올림픽" title="wikilink">1992년 하계 올림픽에서</a> <a href="https://ko.wikipedia.org/wiki/유고슬라비아_전쟁" title="wikilink">유고슬라비아 전쟁과</a> 관련된 <a href="https://ko.wikipedia.org/wiki/유엔_안전_보장_이사회" title="wikilink">유엔 안전 보장 이사회의</a> 제재로 인해 대표 선수단으로 참가할 수 없었던 <a href="../Page/유고슬라비아_연방_공화국.md" title="wikilink">유고슬라비아 연방 공화국</a>, <a href="https://ko.wikipedia.org/wiki/마케도니아_공화국" title="wikilink">마케도니아 공화국</a> 출신 선수단<br />
-<a href="https://ko.wikipedia.org/wiki/2014년_동계_올림픽" title="wikilink">2014년 동계 올림픽에서</a> <a href="https://ko.wikipedia.org/wiki/인도_올림픽_협회" title="wikilink">인도 올림픽 협회가</a> <a href="https://ko.wikipedia.org/wiki/국제_올림픽_위원회" title="wikilink">국제 올림픽 위원회로부터</a> 자격 정지 처분을 받은 상태에서 참가한 <a href="https://ko.wikipedia.org/wiki/인도" title="wikilink">인도</a> 출신 선수단</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/1992년_하계_올림픽" title="wikilink">1992년 하계 올림픽에서</a> <a href="../Page/유고슬라비아_전쟁.md" title="wikilink">유고슬라비아 전쟁과</a> 관련된 <a href="../Page/유엔_안전_보장_이사회.md" title="wikilink">유엔 안전 보장 이사회의</a> 제재로 인해 대표 선수단으로 참가할 수 없었던 <a href="../Page/유고슬라비아_연방_공화국.md" title="wikilink">유고슬라비아 연방 공화국</a>, <a href="https://ko.wikipedia.org/wiki/마케도니아_공화국" title="wikilink">마케도니아 공화국</a> 출신 선수단<br />
+<a href="https://ko.wikipedia.org/wiki/2014년_동계_올림픽" title="wikilink">2014년 동계 올림픽에서</a> <a href="https://ko.wikipedia.org/wiki/인도_올림픽_협회" title="wikilink">인도 올림픽 협회가</a> <a href="../Page/국제_올림픽_위원회.md" title="wikilink">국제 올림픽 위원회로부터</a> 자격 정지 처분을 받은 상태에서 참가한 <a href="../Page/인도.md" title="wikilink">인도</a> 출신 선수단</p></td>
 </tr>
 <tr class="even">
 <td><p>MIX</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/청소년_올림픽" title="wikilink">청소년 올림픽에서의</a> 'Mixed-NOCs'에 대응하는 코드</p></td>
+<td><p><a href="../Page/청소년_올림픽.md" title="wikilink">청소년 올림픽에서의</a> 'Mixed-NOCs'에 대응하는 코드</p></td>
 </tr>
 <tr class="odd">
 <td><p>OAR</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/러시아_올림픽_위원회" title="wikilink">러시아 올림픽 위원회가</a> <a href="https://ko.wikipedia.org/wiki/국제_올림픽_위원회" title="wikilink">국제 올림픽 위원회로부터</a> 자격 정지 처분을 받은 상태에서 <a href="https://ko.wikipedia.org/wiki/2018년_동계_올림픽" title="wikilink">2018년 동계 올림픽에</a> 참가한 <a href="../Page/러시아.md" title="wikilink">러시아</a> 출신 선수단[5]</p></td>
+<td><p><a href="../Page/러시아_올림픽_위원회.md" title="wikilink">러시아 올림픽 위원회가</a> <a href="../Page/국제_올림픽_위원회.md" title="wikilink">국제 올림픽 위원회로부터</a> 자격 정지 처분을 받은 상태에서 <a href="../Page/2018년_동계_올림픽.md" title="wikilink">2018년 동계 올림픽에</a> 참가한 <a href="../Page/러시아.md" title="wikilink">러시아</a> 출신 선수단[5]</p></td>
 </tr>
 <tr class="even">
 <td><p>ROT</p></td>
@@ -1967,27 +1967,27 @@ ROC (1972–1976)</p></td>
 <tr class="odd">
 <td><p>FRO</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/국제_패럴림픽_위원회" title="wikilink">국제 패럴림픽 위원회에서</a> 사용하는 코드</p></td>
+<td><p><a href="../Page/국제_패럴림픽_위원회.md" title="wikilink">국제 패럴림픽 위원회에서</a> 사용하는 코드</p></td>
 </tr>
 <tr class="even">
 <td><p>IPP</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1992년_하계_패럴림픽" title="wikilink">1992년 하계 패럴림픽에서</a> <a href="https://ko.wikipedia.org/wiki/유엔" title="wikilink">유엔</a>의 제재로 인해 대표 선수단으로 참가할 수 없었던 <a href="https://ko.wikipedia.org/wiki/유고슬라비아" title="wikilink">유고슬라비아</a>와 <a href="https://ko.wikipedia.org/wiki/마케도니아_공화국" title="wikilink">마케도니아 공화국</a> 출신 선수단</p></td>
+<td><p><a href="../Page/1992년_하계_패럴림픽.md" title="wikilink">1992년 하계 패럴림픽에서</a> <a href="../Page/유엔.md" title="wikilink">유엔</a>의 제재로 인해 대표 선수단으로 참가할 수 없었던 <a href="../Page/유고슬라비아.md" title="wikilink">유고슬라비아</a>와 <a href="https://ko.wikipedia.org/wiki/마케도니아_공화국" title="wikilink">마케도니아 공화국</a> 출신 선수단</p></td>
 </tr>
 <tr class="odd">
 <td><p>IPA</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/국가_패럴림픽_위원회" title="wikilink">국가 패럴림픽 위원회가</a> 구성되기 이전의 상태에서 참가한 <a href="https://ko.wikipedia.org/wiki/동티모르" title="wikilink">동티모르</a> 선수단, <a href="https://ko.wikipedia.org/wiki/2016년_하계_패럴림픽" title="wikilink">2016년 하계 패럴림픽에서</a> 참가한 <a href="https://ko.wikipedia.org/wiki/난민" title="wikilink">난민</a> 선수단</p></td>
+<td><p><a href="../Page/국가_패럴림픽_위원회.md" title="wikilink">국가 패럴림픽 위원회가</a> 구성되기 이전의 상태에서 참가한 <a href="../Page/동티모르.md" title="wikilink">동티모르</a> 선수단, <a href="../Page/2016년_하계_패럴림픽.md" title="wikilink">2016년 하계 패럴림픽에서</a> 참가한 <a href="https://ko.wikipedia.org/wiki/난민" title="wikilink">난민</a> 선수단</p></td>
 </tr>
 <tr class="even">
 <td><p>NPA</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_동계_패럴림픽" title="wikilink">2018년 동계 패럴림픽에</a> 참가한 <a href="../Page/러시아.md" title="wikilink">러시아</a> 출신 선수단[6]</p></td>
+<td><p><a href="../Page/2018년_동계_패럴림픽.md" title="wikilink">2018년 동계 패럴림픽에</a> 참가한 <a href="../Page/러시아.md" title="wikilink">러시아</a> 출신 선수단[6]</p></td>
 </tr>
 <tr class="odd">
 <td><p>MAC</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/국제_패럴림픽_위원회" title="wikilink">국제 패럴림픽 위원회</a>, <a href="../Page/아시아_올림픽_평의회.md" title="wikilink">아시아 올림픽 평의회에서</a> 사용하는 코드</p></td>
+<td><p><a href="../Page/국제_패럴림픽_위원회.md" title="wikilink">국제 패럴림픽 위원회</a>, <a href="../Page/아시아_올림픽_평의회.md" title="wikilink">아시아 올림픽 평의회에서</a> 사용하는 코드</p></td>
 </tr>
 </tbody>
 </table>
@@ -2011,7 +2011,7 @@ ROC (1972–1976)</p></td>
 <tr class="even">
 <td><p>MAC</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/국제_패럴림픽_위원회" title="wikilink">국제 패럴림픽 위원회</a>, <a href="../Page/아시아_올림픽_평의회.md" title="wikilink">아시아 올림픽 평의회에서</a> 사용하는 코드</p></td>
+<td><p><a href="../Page/국제_패럴림픽_위원회.md" title="wikilink">국제 패럴림픽 위원회</a>, <a href="../Page/아시아_올림픽_평의회.md" title="wikilink">아시아 올림픽 평의회에서</a> 사용하는 코드</p></td>
 </tr>
 <tr class="odd">
 <td><p>NBO</p></td>
@@ -2035,7 +2035,7 @@ ROC (1972–1976)</p></td>
 
 [분류:올림픽 관련 목록](https://ko.wikipedia.org/wiki/분류:올림픽_관련_목록 "wikilink") [분류:국가 코드 목록](https://ko.wikipedia.org/wiki/분류:국가_코드_목록 "wikilink") [분류:국제 올림픽 위원회](https://ko.wikipedia.org/wiki/분류:국제_올림픽_위원회 "wikilink")
 
-1.  [중화 타이베이는](https://ko.wikipedia.org/wiki/중화_타이베이 "wikilink") [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 공식 올림픽 참가 이름이다.
+1.  [중화 타이베이는](../Page/중화_타이베이.md "wikilink") [중화민국](../Page/중화민국.md "wikilink")의 공식 올림픽 참가 이름이다.
 2.  비공식 IOC 코드이다.
 3.
 4.

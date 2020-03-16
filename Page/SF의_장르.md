@@ -10,11 +10,11 @@
 현재까지(2009년도) 국내에 장편소설이 번역된 작가는 다음과 같다.
 
   - [핼 클레먼트](https://ko.wikipedia.org/wiki/핼_클레먼트 "wikilink")
-  - [아이작 아시모프](https://ko.wikipedia.org/wiki/아이작_아시모프 "wikilink")
+  - [아이작 아시모프](../Page/아이작_아시모프.md "wikilink")
   - [래리 니븐](https://ko.wikipedia.org/wiki/래리_니븐 "wikilink")
   - [그레고리 벤퍼드](https://ko.wikipedia.org/wiki/그레고리_벤퍼드 "wikilink")
   - [루디 러커](https://ko.wikipedia.org/wiki/루디_러커 "wikilink")
-  - [그레그 이건](https://ko.wikipedia.org/wiki/그레그_이건 "wikilink")
+  - [그레그 이건](../Page/그레그_이건.md "wikilink")
   - [스티븐 백스터](https://ko.wikipedia.org/wiki/스티븐_백스터 "wikilink")
   - [아서 찰스 클라크](https://ko.wikipedia.org/wiki/아서_찰스_클라크 "wikilink")
 
@@ -30,7 +30,7 @@
   - [해밀턴의](https://ko.wikipedia.org/wiki/에드먼드_해밀턴 "wikilink") 《[캡틴 퓨처](https://ko.wikipedia.org/wiki/캡틴_퓨처 "wikilink")》시리즈
   - [밴보트의](https://ko.wikipedia.org/wiki/A._E._밴보트 "wikilink") 《[비글호의 모험](https://ko.wikipedia.org/wiki/비글호의_모험 "wikilink")》
   - [돌레찰의](https://ko.wikipedia.org/wiki/에리히_돌레찰 "wikilink") 《[우주 순찰정 X호](https://ko.wikipedia.org/wiki/우주_순찰정_X호 "wikilink")》
-  - [로이스 맥마스터 부졸드의](https://ko.wikipedia.org/wiki/로이스_맥마스터_부졸드 "wikilink") 《[마일즈 보르코시건 시리즈](https://ko.wikipedia.org/wiki/마일즈_보르코시건_시리즈 "wikilink")》
+  - [로이스 맥마스터 부졸드의](https://ko.wikipedia.org/wiki/로이스_맥마스터_부졸드 "wikilink") 《[마일즈 보르코시건 시리즈](../Page/마일즈_보르코시건_시리즈.md "wikilink")》
 
 <!-- end list -->
 
@@ -39,10 +39,10 @@
 <!-- end list -->
 
   - 《[스타게이트](https://ko.wikipedia.org/wiki/스타게이트 "wikilink")》
-  - 《[스타워즈](https://ko.wikipedia.org/wiki/스타워즈 "wikilink")》
+  - 《[스타워즈](../Page/스타워즈.md "wikilink")》
   - 《[스타트렉](https://ko.wikipedia.org/wiki/스타트렉 "wikilink")》
   - 《[에일리언](https://ko.wikipedia.org/wiki/에일리언 "wikilink")》
-  - 《[프레데터](https://ko.wikipedia.org/wiki/프레데터_\(영화\) "wikilink")》
+  - 《[프레데터](../Page/프레데터_\(영화\).md "wikilink")》
   - 《[배틀스타 갈락티카](../Page/배틀스타_갈락티카.md "wikilink")》
 
 <!-- end list -->
@@ -140,13 +140,13 @@
 
 ## 인조인간
 
-인조인간에서는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink")나 [사이보그](../Page/사이보그.md "wikilink"), [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink") 등을 다룬다. 주요 작가로는 [차페크](https://ko.wikipedia.org/wiki/차페크 "wikilink"), [아시모프](https://ko.wikipedia.org/wiki/아시모프 "wikilink"), [레스터 델 레이](https://ko.wikipedia.org/wiki/레스터_델_레이 "wikilink") 등이 있다.
+인조인간에서는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink")나 [사이보그](../Page/사이보그.md "wikilink"), [로봇](../Page/로봇.md "wikilink") 등을 다룬다. 주요 작가로는 [차페크](https://ko.wikipedia.org/wiki/차페크 "wikilink"), [아시모프](https://ko.wikipedia.org/wiki/아시모프 "wikilink"), [레스터 델 레이](https://ko.wikipedia.org/wiki/레스터_델_레이 "wikilink") 등이 있다.
 
   - 소설
 
 <!-- end list -->
 
-  - [아이작 아시모프의](https://ko.wikipedia.org/wiki/아이작_아시모프 "wikilink") 《[아이 로봇](https://ko.wikipedia.org/wiki/아이_로봇 "wikilink")》, 《[나는 로봇](https://ko.wikipedia.org/wiki/나는_로봇 "wikilink")》, 《[바이센테니얼 맨](https://ko.wikipedia.org/wiki/바이센테니얼_맨 "wikilink")》
+  - [아이작 아시모프의](../Page/아이작_아시모프.md "wikilink") 《[아이 로봇](https://ko.wikipedia.org/wiki/아이_로봇 "wikilink")》, 《[나는 로봇](https://ko.wikipedia.org/wiki/나는_로봇 "wikilink")》, 《[바이센테니얼 맨](https://ko.wikipedia.org/wiki/바이센테니얼_맨 "wikilink")》
   - [레스터 델 레이의](https://ko.wikipedia.org/wiki/레스터_델_레이 "wikilink") 《[도망친 로봇](https://ko.wikipedia.org/wiki/도망친_로봇 "wikilink")》
 
 ## 평행 우주
@@ -158,25 +158,25 @@
 <!-- end list -->
 
   - 《[유령섬](https://ko.wikipedia.org/wiki/유령섬_\(소설\) "wikilink")》
-  - [베르나르 베르베르의](https://ko.wikipedia.org/wiki/베르나르_베르베르 "wikilink") 《[나무](https://ko.wikipedia.org/wiki/나무_\(소설\) "wikilink")》
+  - [베르나르 베르베르의](../Page/베르나르_베르베르.md "wikilink") 《[나무](https://ko.wikipedia.org/wiki/나무_\(소설\) "wikilink")》
   - [에리히 돌레찰의](https://ko.wikipedia.org/wiki/에리히_돌레찰 "wikilink") 《[인공 우주의 공포](https://ko.wikipedia.org/wiki/인공_우주의_공포 "wikilink")》
 
-## [유토피아](https://ko.wikipedia.org/wiki/유토피아 "wikilink")
+## [유토피아](../Page/유토피아.md "wikilink")
 
 유토피아는 현실에 있을 수 없는 이상 세계에 대한 제시이다.
 
-  - [토머스 모어](https://ko.wikipedia.org/wiki/토머스_모어 "wikilink") 《[유토피아](https://ko.wikipedia.org/wiki/유토피아 "wikilink")》
+  - [토머스 모어](../Page/토머스_모어.md "wikilink") 《[유토피아](../Page/유토피아.md "wikilink")》
 
 ## 디스토피아
 
-디스토피아는 유토피아에 반대되는 개념으로, 암울하고 어두운 인류의 미래를 예고한다. 대표적인 작가로 [올더스 헉슬리](../Page/올더스_헉슬리.md "wikilink"), [조지 오웰이](https://ko.wikipedia.org/wiki/조지_오웰 "wikilink") 있다.
+디스토피아는 유토피아에 반대되는 개념으로, 암울하고 어두운 인류의 미래를 예고한다. 대표적인 작가로 [올더스 헉슬리](../Page/올더스_헉슬리.md "wikilink"), [조지 오웰이](../Page/조지_오웰.md "wikilink") 있다.
 
   - 소설
 
 <!-- end list -->
 
-  - [올더스 헉슬리](../Page/올더스_헉슬리.md "wikilink") 《[멋진 신세계](https://ko.wikipedia.org/wiki/멋진_신세계 "wikilink")》
-  - [조지 오웰](https://ko.wikipedia.org/wiki/조지_오웰 "wikilink") 《[1984년](https://ko.wikipedia.org/wiki/1984년_\(소설\) "wikilink")》, 《[동물 농장](https://ko.wikipedia.org/wiki/동물_농장 "wikilink")》
+  - [올더스 헉슬리](../Page/올더스_헉슬리.md "wikilink") 《[멋진 신세계](../Page/멋진_신세계.md "wikilink")》
+  - [조지 오웰](../Page/조지_오웰.md "wikilink") 《[1984년](../Page/1984년_\(소설\).md "wikilink")》, 《[동물 농장](../Page/동물_농장.md "wikilink")》
 
 <!-- end list -->
 
@@ -184,9 +184,9 @@
 
 <!-- end list -->
 
-  - 《[브이 포 벤데타](https://ko.wikipedia.org/wiki/브이_포_벤데타_\(영화\) "wikilink")》
+  - 《[브이 포 벤데타](../Page/브이_포_벤데타_\(영화\).md "wikilink")》
   - 《[가타카](https://ko.wikipedia.org/wiki/가타카 "wikilink")》
-  - 《[트루먼 쇼](https://ko.wikipedia.org/wiki/트루먼_쇼 "wikilink")》
+  - 《[트루먼 쇼](../Page/트루먼_쇼.md "wikilink")》
   - 《[마이너리티 리포트](https://ko.wikipedia.org/wiki/마이너리티_리포트 "wikilink")》
   - 《[혹성 탈출](https://ko.wikipedia.org/wiki/혹성_탈출 "wikilink")》
   - 《[매트릭스](https://ko.wikipedia.org/wiki/매트릭스_시리즈 "wikilink")》
@@ -197,7 +197,7 @@
 
 <!-- end list -->
 
-  - 《[브이 포 벤데타](https://ko.wikipedia.org/wiki/브이_포_벤데타 "wikilink")》
+  - 《[브이 포 벤데타](../Page/브이_포_벤데타.md "wikilink")》
 
 <!-- end list -->
 

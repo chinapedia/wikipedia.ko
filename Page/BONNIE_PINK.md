@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [BONNIE PINK](https://ko.wikipedia.org/wiki/BONNIE_PINK).
 
 
-**보니 핑크**() 또는 **아사다 가오리**(, [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [4월 16일](https://ko.wikipedia.org/wiki/4월_16일 "wikilink") - )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [교토 시](https://ko.wikipedia.org/wiki/교토_시 "wikilink") 출신\[1\]의 여성 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.
+**보니 핑크**() 또는 **아사다 가오리**(, [1973년](../Page/1973년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") - )는 [일본](../Page/일본.md "wikilink") [교토 시](https://ko.wikipedia.org/wiki/교토_시 "wikilink") 출신\[1\]의 여성 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.
 
 소속사는 타이스케이며, 레이블은 워너 뮤직 재팬이다 (예전엔 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에 소속). 공식 팬클럽 이름은 ‘Bonnie Link’이다.
 
 ## 내력
 
   - 1995년, 앨범 《BLUE JAM》으로 데뷔했다.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 〈A Perfect Sky〉가 [시세이도](../Page/시세이도.md "wikilink")의 브랜드 '아넷사' CM주제가에 사용되었다. 연말에는 이 노래로 [NHK 홍백가합전에](../Page/NHK_홍백가합전.md "wikilink") 첫 줄전했다.
+  - [2006년](../Page/2006년.md "wikilink")에 〈A Perfect Sky〉가 [시세이도](../Page/시세이도.md "wikilink")의 브랜드 '아넷사' CM주제가에 사용되었다. 연말에는 이 노래로 [NHK 홍백가합전에](../Page/NHK_홍백가합전.md "wikilink") 첫 줄전했다.
 
 ## 음반 목록
 
@@ -41,7 +41,7 @@
 6.
 ## 출연
 
-  - [혐오스런 마츠코의 일생](https://ko.wikipedia.org/wiki/혐오스런_마츠코의_일생_\(영화\) "wikilink") (2006년)
+  - [혐오스런 마츠코의 일생](../Page/혐오스런_마츠코의_일생_\(영화\).md "wikilink") (2006년)
 
 ## 참조
 

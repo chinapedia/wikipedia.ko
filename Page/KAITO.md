@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [KAITO](https://ko.wikipedia.org/wiki/KAITO).
 
 
-**KAITO**(, 카이토)는 [크립톤 퓨처 미디어가](https://ko.wikipedia.org/wiki/크립톤_퓨처_미디어 "wikilink") [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 17일](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") 발매한, [야마하](../Page/야마하.md "wikilink")의 보컬 [음성 합성](../Page/음성_합성.md "wikilink") 엔진 [보컬로이드](../Page/보컬로이드.md "wikilink")를 기반으로 한 소프트웨어 및 소프트웨어의 이미지 캐릭터이다.
+**KAITO**(, 카이토)는 [크립톤 퓨처 미디어가](../Page/크립톤_퓨처_미디어.md "wikilink") [2006년](../Page/2006년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") 발매한, [야마하](../Page/야마하.md "wikilink")의 보컬 [음성 합성](../Page/음성_합성.md "wikilink") 엔진 [보컬로이드](../Page/보컬로이드.md "wikilink")를 기반으로 한 소프트웨어 및 소프트웨어의 이미지 캐릭터이다.
 
 ## 개요
 
-[MEIKO](https://ko.wikipedia.org/wiki/MEIKO "wikilink") 다음으로 나온 일본어 [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink")로서 2006년 2월 17일에 발매되었다고 “[크립톤 퓨처 미디어사](https://ko.wikipedia.org/wiki/크립톤_퓨처_미디어 "wikilink") [블로그](https://web.archive.org/web/20091013200329/http://blog.crypton.co.jp/mp/software/vocaloid/)”에 기록되어 있으나, “[야마하](../Page/야마하.md "wikilink") [VOCALOID 공식 사이트](https://web.archive.org/web/20090906113914/http://www.vocaloid.com/vocaloid1index.html)” 에서는 2006년 2월 14일자에 발매되었다고 적혀있다. 하지만 2월 14일은 KAITO가 발매 예정 날짜이므로, 2월 17일에 발매된 것이 맞다.
+[MEIKO](../Page/MEIKO.md "wikilink") 다음으로 나온 일본어 [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink")로서 2006년 2월 17일에 발매되었다고 “[크립톤 퓨처 미디어사](../Page/크립톤_퓨처_미디어.md "wikilink") [블로그](https://web.archive.org/web/20091013200329/http://blog.crypton.co.jp/mp/software/vocaloid/)”에 기록되어 있으나, “[야마하](../Page/야마하.md "wikilink") [VOCALOID 공식 사이트](https://web.archive.org/web/20090906113914/http://www.vocaloid.com/vocaloid1index.html)” 에서는 2006년 2월 14일자에 발매되었다고 적혀있다. 하지만 2월 14일은 KAITO가 발매 예정 날짜이므로, 2월 17일에 발매된 것이 맞다.
 
 스튜디오 뮤지션인 [후우가 나오토](../Page/후우가_나오토.md "wikilink")()의 목소리를 가성 라이브러리로 채용. 음계와 가사를 입력하는 것으로 보컬 파트나 백 코러스를 작성할 수 있다. 크립톤의 KAITO 제품 상세 페이지에는 “소리의 질이 평안하고 청량감이 있어, POPS를 비롯한 가요곡 전반, 동요, ROCK, R\&B 등 본격적인 보컬 라인을 실현 가능”이라고 소개되어 있다.
 
-KAITO의 이름은 모델이 된 가수의 이름을 채용한 것이 아닌, [가타가나](https://ko.wikipedia.org/wiki/가타가나 "wikilink") 10자 이내 채용자로부터 추첨을 통해 10명에게 “보컬로이드 일본어 남성판”을 선물하는 응모 조건에서 일반 공모 되었다\[1\]. 외국인도 발음하기 쉬운 이름으로, MEIKO와 함께 그림면이 좋다는 이유로 선정\[2\]</ref>. [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 15일](https://ko.wikipedia.org/wiki/2월_15일 "wikilink") VOCALOID3를 채용한 라이브러리를 수록 한 “KAITO V3”가 발매 되었고\[3\], 라이브러리는 일본어인 “STRAIGHT(스트레이트)”, “SOFT(소프트)”, “WHISPER(위스퍼)” 가 있으며, 영어 라이브러리는 “ENGLISH(잉글리시)”로 총 4개가 수록되어 있으며, 자사의 보컬 에디터와 PerSouns사의 DAW·PreSonus Studio One도 포함 되었다\[4\]. 패키지 일러스트는 머플러를 두른 젊은 남성의 모습이 그려져 있으며, MEIKO와 마찬가지로 애니메이션 풍. 이것은 MEIKO가 캐릭터 일러스트의 채용으로 성공했다는 것을 감안한 것으로, 노래를 만드는 제품임을 어필하기 위해서이다\[5\]. 패키지 일러스트는 캐릭터화를 의도한 것은 아니였으나, “피아프로 캐릭터 라이센스”에서는 KAITO도 캐릭터로 취급된다\[6\]. KAITO V3의 일러스트는 하츠네 미쿠 V3와 MEIKO V3의 일러스트를 담당한 일러스트레이터 iXima가 담당하고 있다.
+KAITO의 이름은 모델이 된 가수의 이름을 채용한 것이 아닌, [가타가나](https://ko.wikipedia.org/wiki/가타가나 "wikilink") 10자 이내 채용자로부터 추첨을 통해 10명에게 “보컬로이드 일본어 남성판”을 선물하는 응모 조건에서 일반 공모 되었다\[1\]. 외국인도 발음하기 쉬운 이름으로, MEIKO와 함께 그림면이 좋다는 이유로 선정\[2\]</ref>. [2013년](../Page/2013년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") VOCALOID3를 채용한 라이브러리를 수록 한 “KAITO V3”가 발매 되었고\[3\], 라이브러리는 일본어인 “STRAIGHT(스트레이트)”, “SOFT(소프트)”, “WHISPER(위스퍼)” 가 있으며, 영어 라이브러리는 “ENGLISH(잉글리시)”로 총 4개가 수록되어 있으며, 자사의 보컬 에디터와 PerSouns사의 DAW·PreSonus Studio One도 포함 되었다\[4\]. 패키지 일러스트는 머플러를 두른 젊은 남성의 모습이 그려져 있으며, MEIKO와 마찬가지로 애니메이션 풍. 이것은 MEIKO가 캐릭터 일러스트의 채용으로 성공했다는 것을 감안한 것으로, 노래를 만드는 제품임을 어필하기 위해서이다\[5\]. 패키지 일러스트는 캐릭터화를 의도한 것은 아니였으나, “피아프로 캐릭터 라이센스”에서는 KAITO도 캐릭터로 취급된다\[6\]. KAITO V3의 일러스트는 하츠네 미쿠 V3와 MEIKO V3의 일러스트를 담당한 일러스트레이터 iXima가 담당하고 있다.
 
 ## 반응
 
 ### 발매 당시
 
-KAITO는 [MEIKO](https://ko.wikipedia.org/wiki/MEIKO "wikilink") 정도보다 팔리지 않을 것이라 예상했지만, 그 예상 미만으로 발매 당시 MEIKO의 판매량은 3000개인 반면 KAITO의 판매량은 500개 정도 밖에 팔리지 않아서 ITmedia와의 인터뷰에서는 “남자라서 안된 것이라 생각된다”라는 발언이 나오기도 했다\[7\]</ref>. 그 이후의 크립톤사 VOCALOID인 [캐릭터 보컬 시리즈는](https://ko.wikipedia.org/wiki/캐릭터_보컬_시리즈 "wikilink") 여성 중심의 상품 구성으로 되어 있다. 크립톤사 VOCALOID 외에도 타사 VOCALOID도 여성 중심으로 되어 있다는 것을 알 수 있다.
+KAITO는 [MEIKO](../Page/MEIKO.md "wikilink") 정도보다 팔리지 않을 것이라 예상했지만, 그 예상 미만으로 발매 당시 MEIKO의 판매량은 3000개인 반면 KAITO의 판매량은 500개 정도 밖에 팔리지 않아서 ITmedia와의 인터뷰에서는 “남자라서 안된 것이라 생각된다”라는 발언이 나오기도 했다\[7\]</ref>. 그 이후의 크립톤사 VOCALOID인 [캐릭터 보컬 시리즈는](../Page/캐릭터_보컬_시리즈.md "wikilink") 여성 중심의 상품 구성으로 되어 있다. 크립톤사 VOCALOID 외에도 타사 VOCALOID도 여성 중심으로 되어 있다는 것을 알 수 있다.
 
 ### 2007년 이후
 
@@ -90,7 +90,7 @@ KAITO V3의 음성라이브러리의 특징, 자신있는 장르, 템포, 음역
 </tr>
 <tr class="odd">
 <td><p>네가 있는 풍경(君のいる景色)</p></td>
-<td><p>presents feat. <a href="https://ko.wikipedia.org/wiki/메구리네_루카" title="wikilink">메구리네 루카</a></p></td>
+<td><p>presents feat. <a href="../Page/메구리네_루카.md" title="wikilink">메구리네 루카</a></p></td>
 <td></td>
 <td><p>2009년 9월 2일</p></td>
 </tr>
@@ -340,27 +340,27 @@ KAITO V3의 음성라이브러리의 특징, 자신있는 장르, 템포, 음역
 
 ### 게임
 
-  - [팡야](https://ko.wikipedia.org/wiki/팡야 "wikilink") (게임 포트)
-    [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월 25일부터](https://ko.wikipedia.org/wiki/6월_25일 "wikilink") 기간 한정으로 게임 내에서 KAITO의 의상을 판매\[13\].
-  - [하츠네 미쿠 -Project DIVA-](https://ko.wikipedia.org/wiki/하츠네_미쿠_-Project_DIVA- "wikilink") ([세가](https://ko.wikipedia.org/wiki/세가 "wikilink"))
-    하츠네 미쿠를 주역으로 하는 [플레이스테이션 포터블용](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 게임 소프트웨어이다. 제1탄에서 KAITO도 캐릭터로 등장하며 2010년 7월 29일 발매된 《하츠네 미쿠 -Project DIVA- 2nd》에는 KAITO를 이용한 악곡도 수록되어 있다.
+  - [팡야](../Page/팡야.md "wikilink") (게임 포트)
+    [2009년](../Page/2009년.md "wikilink") [6월 25일부터](../Page/6월_25일.md "wikilink") 기간 한정으로 게임 내에서 KAITO의 의상을 판매\[13\].
+  - [하츠네 미쿠 -Project DIVA-](../Page/하츠네_미쿠_-Project_DIVA-.md "wikilink") ([세가](https://ko.wikipedia.org/wiki/세가 "wikilink"))
+    하츠네 미쿠를 주역으로 하는 [플레이스테이션 포터블용](../Page/플레이스테이션_포터블.md "wikilink") 게임 소프트웨어이다. 제1탄에서 KAITO도 캐릭터로 등장하며 2010년 7월 29일 발매된 《하츠네 미쿠 -Project DIVA- 2nd》에는 KAITO를 이용한 악곡도 수록되어 있다.
   - [라테일](https://ko.wikipedia.org/wiki/라테일 "wikilink") (게임 포트)
     2009년 12월 넨드로이드 푸치 MEIKO·KAITO가 구현됨\[14\].
-  - 하츠네 미쿠 보카로×라이브\! ([크립톤](https://ko.wikipedia.org/wiki/크립톤_퓨처_미디어 "wikilink"))
+  - 하츠네 미쿠 보카로×라이브\! ([크립톤](../Page/크립톤_퓨처_미디어.md "wikilink"))
     VOCALOID 캐릭터를 프로듀서로 육성하는 휴대전화의 육성형 시뮬레이션 게임\[15\].
   - TinierMe, 앳 게임즈 (지 크레스트)
     영어판 TinierMe에서는 2010년 7월 20일부터\[16\], 일본어판 앳 게임에서는 8월 3일부터\[17\] 기간 한정으로 KAITO의 아이템을 판매.
   - [하츠네 미쿠 and Future Stars Project mirai](../Page/하츠네_미쿠_and_Future_Stars_Project_mirai.md "wikilink") (세가)
-    [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") 3DS 전용 소프트 《하츠네 미쿠 and Future Stars Project mirai》가 발매되었으며, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 28일에](https://ko.wikipedia.org/wiki/11월_28일 "wikilink")《하츠네 미쿠 Project mirai 2》가 발매, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") 《하츠네 미쿠 Project mirai 디럭스》가 한국과 일본에 동시 발매 되었다 . 북미판은 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 9일](https://ko.wikipedia.org/wiki/9월_9일 "wikilink"), 유럽판은 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [9월 11일에](https://ko.wikipedia.org/wiki/9월_11일 "wikilink") 발매예정. KAITO도 등장.
-  - [마비노기](https://ko.wikipedia.org/wiki/마비노기 "wikilink") ([넥슨](https://ko.wikipedia.org/wiki/넥슨 "wikilink"))
-    [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 12월 넥슨은 일본 크립톤 퓨처 미디어와 제휴를 맺고 자사의 인기 MMORPG “마비노기”에 캐릭터 보컬 시리즈 “하츠네 미쿠” 프로모션을 진행한다. 하츠네 미쿠를 비롯해 KAITO와 [카가미네 린·렌도](../Page/카가미네_린·렌.md "wikilink") 등장한다\[18\].
+    [2012년](../Page/2012년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") 3DS 전용 소프트 《하츠네 미쿠 and Future Stars Project mirai》가 발매되었으며, [2013년](../Page/2013년.md "wikilink") [11월 28일에](../Page/11월_28일.md "wikilink")《하츠네 미쿠 Project mirai 2》가 발매, [2015년](../Page/2015년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") 《하츠네 미쿠 Project mirai 디럭스》가 한국과 일본에 동시 발매 되었다 . 북미판은 [2015년](../Page/2015년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink"), 유럽판은 [2015년](../Page/2015년.md "wikilink") [9월 11일에](../Page/9월_11일.md "wikilink") 발매예정. KAITO도 등장.
+  - [마비노기](../Page/마비노기.md "wikilink") ([넥슨](../Page/넥슨.md "wikilink"))
+    [2013년](../Page/2013년.md "wikilink") 12월 넥슨은 일본 크립톤 퓨처 미디어와 제휴를 맺고 자사의 인기 MMORPG “마비노기”에 캐릭터 보컬 시리즈 “하츠네 미쿠” 프로모션을 진행한다. 하츠네 미쿠를 비롯해 KAITO와 [카가미네 린·렌도](../Page/카가미네_린·렌.md "wikilink") 등장한다\[18\].
   - 공성전기◆바하무트 그리드(攻城戦記◆バハムートグリード) (코어 엣지)
-    [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 19일부터](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") [9월 22일까지](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") 콜라보레이션 이벤트가 진행되었다.
+    [2013년](../Page/2013년.md "wikilink") [9월 19일부터](../Page/9월_19일.md "wikilink") [9월 22일까지](../Page/9월_22일.md "wikilink") 콜라보레이션 이벤트가 진행되었다.
 
 ### 상품
 
   - [넨드로이드](https://ko.wikipedia.org/wiki/넨드로이드 "wikilink") KAITO ([굿 스마일 컴퍼니](../Page/굿_스마일_컴퍼니.md "wikilink"))
-    [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink") 발매. 데포 가동 피겨. 아이스크림 등의 “팬이라면 아실 즐거운 소품이나 부품\[19\]”이 부속된다.
+    [2009년](../Page/2009년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") 발매. 데포 가동 피겨. 아이스크림 등의 “팬이라면 아실 즐거운 소품이나 부품\[19\]”이 부속된다.
   - 넨드로이드 플러스 봉제 인형 시리즈 03 〈KAITO〉(제조·발매: Gift, 판매: 굿 스마일 컴퍼니)
     2009년 11월 발매. 간이 인형.
   - 넨드로이드 푸치 보컬로이드 \#01 (굿 스마일 컴퍼니)
@@ -375,11 +375,11 @@ KAITO V3의 음성라이브러리의 특징, 자신있는 장르, 템포, 음역
   - [음성 합성](../Page/음성_합성.md "wikilink")
   - [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink")
   - [후우가 나오토](../Page/후우가_나오토.md "wikilink")
-  - [크립톤 퓨처 미디어](https://ko.wikipedia.org/wiki/크립톤_퓨처_미디어 "wikilink")
-      - [MEIKO](https://ko.wikipedia.org/wiki/MEIKO "wikilink")
+  - [크립톤 퓨처 미디어](../Page/크립톤_퓨처_미디어.md "wikilink")
+      - [MEIKO](../Page/MEIKO.md "wikilink")
       - [하츠네 미쿠](../Page/하츠네_미쿠.md "wikilink")
       - [카가미네 린·렌](../Page/카가미네_린·렌.md "wikilink")
-      - [메구리네 루카](https://ko.wikipedia.org/wiki/메구리네_루카 "wikilink")
+      - [메구리네 루카](../Page/메구리네_루카.md "wikilink")
 
 ## 각주
 

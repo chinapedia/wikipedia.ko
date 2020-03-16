@@ -1,48 +1,48 @@
 > This article is converted from Wikipedia: [NANA](https://ko.wikipedia.org/wiki/NANA).
 
 
-《**NANA**》는 [야자와 아이의](https://ko.wikipedia.org/wiki/야자와_아이 "wikilink") [순정만화](../Page/순정만화.md "wikilink")이다. 원작을 바탕으로 한 [영화](../Page/영화.md "wikilink"), [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 등으로 제작되었다. 제48회 ([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")) [쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink") 만화상 수상작. 원작 만화는 현재 "Cookie"([슈에이샤](../Page/슈에이샤.md "wikilink"))에서 연재 중이다.
+《**NANA**》는 [야자와 아이의](https://ko.wikipedia.org/wiki/야자와_아이 "wikilink") [순정만화](../Page/순정만화.md "wikilink")이다. 원작을 바탕으로 한 [영화](../Page/영화.md "wikilink"), [애니메이션](../Page/애니메이션.md "wikilink") 등으로 제작되었다. 제48회 ([2002년](../Page/2002년.md "wikilink")) [쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink") 만화상 수상작. 원작 만화는 현재 "Cookie"([슈에이샤](../Page/슈에이샤.md "wikilink"))에서 연재 중이다.
 
 ## 개요
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [학산문화사](../Page/학산문화사.md "wikilink")에서 [박세라](https://ko.wikipedia.org/wiki/박세라 "wikilink")가 번역하여 "NANA -나나- 1"이라는 제목으로 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [2월 28일에](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") 1권을 발행한 이후 21권까지 단행본이 나왔다. 그리고 저자의 사정으로 완결되지 않은 채 지금까지 휴재 중이며 언제 재연재를 할지는 미지수다. [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") 시리즈 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")은 만화책 번역본 출판사인 [학산문화사](../Page/학산문화사.md "wikilink")의 모기업인 [대원미디어](https://ko.wikipedia.org/wiki/대원미디어 "wikilink")에서 수입하여 계열사인 [대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink")에 공급하였고, 대원방송이 프로그램 공급을 맡는 [챔프](https://ko.wikipedia.org/wiki/챔프 "wikilink")와 [애니박스](../Page/애니박스.md "wikilink") 등에서 [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink") 더빙으로 방영되었다. 실사화된 [영화](../Page/영화.md "wikilink")는 대원미디어의 계열사인 대원디지털 엔터테인먼트에서 수입하여, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 30일에](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") 극장 개봉하였다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 [학산문화사](../Page/학산문화사.md "wikilink")에서 [박세라](https://ko.wikipedia.org/wiki/박세라 "wikilink")가 번역하여 "NANA -나나- 1"이라는 제목으로 [2001년](../Page/2001년.md "wikilink") [2월 28일에](../Page/2월_28일.md "wikilink") 1권을 발행한 이후 21권까지 단행본이 나왔다. 그리고 저자의 사정으로 완결되지 않은 채 지금까지 휴재 중이며 언제 재연재를 할지는 미지수다. [텔레비전](../Page/텔레비전.md "wikilink") 시리즈 [애니메이션](../Page/애니메이션.md "wikilink")은 만화책 번역본 출판사인 [학산문화사](../Page/학산문화사.md "wikilink")의 모기업인 [대원미디어](../Page/대원미디어.md "wikilink")에서 수입하여 계열사인 [대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink")에 공급하였고, 대원방송이 프로그램 공급을 맡는 [챔프](https://ko.wikipedia.org/wiki/챔프 "wikilink")와 [애니박스](../Page/애니박스.md "wikilink") 등에서 [한국어](../Page/한국어.md "wikilink") 더빙으로 방영되었다. 실사화된 [영화](../Page/영화.md "wikilink")는 대원미디어의 계열사인 대원디지털 엔터테인먼트에서 수입하여, [2006년](../Page/2006년.md "wikilink") [3월 30일에](../Page/3월_30일.md "wikilink") 극장 개봉하였다.
 
 ## 만화
 
-[1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 만화잡지 "Cookie"에서 연재되었고, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 만화 잡지 [쥬티](https://ko.wikipedia.org/wiki/쥬티 "wikilink")의 창간과 함께 첫 연재를 시작하였다. 그러나 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 잡지의 휴간으로 현재는 [쥬티코믹스](https://ko.wikipedia.org/wiki/쥬티코믹스 "wikilink")를 통해 발행되고 있다. 주요 내용은 이름이 같은 '나나'라는 두 소녀의 이야기를 다루고 있다.
+[1999년](../Page/1999년.md "wikilink")에 [일본](../Page/일본.md "wikilink") 만화잡지 "Cookie"에서 연재되었고, [2000년](../Page/2000년.md "wikilink")에 만화 잡지 [쥬티](https://ko.wikipedia.org/wiki/쥬티 "wikilink")의 창간과 함께 첫 연재를 시작하였다. 그러나 [2002년](../Page/2002년.md "wikilink") 잡지의 휴간으로 현재는 [쥬티코믹스](https://ko.wikipedia.org/wiki/쥬티코믹스 "wikilink")를 통해 발행되고 있다. 주요 내용은 이름이 같은 '나나'라는 두 소녀의 이야기를 다루고 있다.
 
 ## 애니메이션
 
 ### 더빙
 
-  - 오사키 나나 — [박로미](https://ko.wikipedia.org/wiki/박로미 "wikilink") / [서혜정](../Page/서혜정.md "wikilink")
-  - 코마츠 나나 — [KAORI](https://ko.wikipedia.org/wiki/KAORI "wikilink") / [정미숙](https://ko.wikipedia.org/wiki/정미숙 "wikilink")
-  - 렌 — [키우치 히데노부](https://ko.wikipedia.org/wiki/키우치_히데노부 "wikilink") / [표영재](https://ko.wikipedia.org/wiki/표영재 "wikilink")
-  - 야스 — [카와하라 요시히사](https://ko.wikipedia.org/wiki/카와하라_요시히사 "wikilink") / [구자형](https://ko.wikipedia.org/wiki/구자형 "wikilink")
-  - 이치노세 타쿠미 — [모리카와 토시유키](../Page/모리카와_토시유키.md "wikilink") / [최한](https://ko.wikipedia.org/wiki/최한 "wikilink")
+  - 오사키 나나 — [박로미](../Page/박로미.md "wikilink") / [서혜정](../Page/서혜정.md "wikilink")
+  - 코마츠 나나 — [KAORI](https://ko.wikipedia.org/wiki/KAORI "wikilink") / [정미숙](../Page/정미숙.md "wikilink")
+  - 렌 — [키우치 히데노부](../Page/키우치_히데노부.md "wikilink") / [표영재](../Page/표영재.md "wikilink")
+  - 야스 — [카와하라 요시히사](https://ko.wikipedia.org/wiki/카와하라_요시히사 "wikilink") / [구자형](../Page/구자형.md "wikilink")
+  - 이치노세 타쿠미 — [모리카와 토시유키](../Page/모리카와_토시유키.md "wikilink") / [최한](../Page/최한.md "wikilink")
   - 노부 — [세키 토모카즈](../Page/세키_토모카즈.md "wikilink") / [전광주](../Page/전광주.md "wikilink")
   - 신 — [이시다 아키라](../Page/이시다_아키라.md "wikilink") / [신용우](https://ko.wikipedia.org/wiki/신용우 "wikilink")
   - 레이라 — [히라노 아야](../Page/히라노_아야.md "wikilink") / [정윤정](https://ko.wikipedia.org/wiki/정윤정 "wikilink")
-  - 쥰코 — [혼다 타카코](https://ko.wikipedia.org/wiki/혼다_타카코 "wikilink") / [배정민](https://ko.wikipedia.org/wiki/배정민 "wikilink")
-  - 타카쿠라 쿄스케 — [스와베 쥰이치](https://ko.wikipedia.org/wiki/스와베_쥰이치 "wikilink") / [장성호](https://ko.wikipedia.org/wiki/장성호_\(성우\) "wikilink")
-  - 엔도 쇼지 — [타카하시 히로키](../Page/타카하시_히로키.md "wikilink") / [안용욱](https://ko.wikipedia.org/wiki/안용욱 "wikilink")
-  - 카와무라 사치코 — [코지마 메구미](https://ko.wikipedia.org/wiki/코지마_메구미 "wikilink") / [하미경](https://ko.wikipedia.org/wiki/하미경 "wikilink")
-  - 우에하라 미사토 — [카나이 미카](../Page/카나이_미카.md "wikilink") / [윤현정](https://ko.wikipedia.org/wiki/윤현정 "wikilink")
-  - 후지에다 나오키 — [카츠 안리](https://ko.wikipedia.org/wiki/카츠_안리 "wikilink") / [박찬희](https://ko.wikipedia.org/wiki/박찬희_\(성우\) "wikilink")
-  - 모로보시 긴페이 — [타치키 후미히코](../Page/타치키_후미히코.md "wikilink") / [사성웅](https://ko.wikipedia.org/wiki/사성웅 "wikilink")
+  - 쥰코 — [혼다 타카코](https://ko.wikipedia.org/wiki/혼다_타카코 "wikilink") / [배정민](../Page/배정민.md "wikilink")
+  - 타카쿠라 쿄스케 — [스와베 쥰이치](https://ko.wikipedia.org/wiki/스와베_쥰이치 "wikilink") / [장성호](../Page/장성호_\(성우\).md "wikilink")
+  - 엔도 쇼지 — [타카하시 히로키](../Page/타카하시_히로키.md "wikilink") / [안용욱](../Page/안용욱.md "wikilink")
+  - 카와무라 사치코 — [코지마 메구미](https://ko.wikipedia.org/wiki/코지마_메구미 "wikilink") / [하미경](../Page/하미경.md "wikilink")
+  - 우에하라 미사토 — [카나이 미카](../Page/카나이_미카.md "wikilink") / [윤현정](../Page/윤현정.md "wikilink")
+  - 후지에다 나오키 — [카츠 안리](https://ko.wikipedia.org/wiki/카츠_안리 "wikilink") / [박찬희](../Page/박찬희_\(성우\).md "wikilink")
+  - 모로보시 긴페이 — [타치키 후미히코](../Page/타치키_후미히코.md "wikilink") / [사성웅](../Page/사성웅.md "wikilink")
   - 미즈코시 세이이치 — [하마다 켄지](https://ko.wikipedia.org/wiki/하마다_켄지 "wikilink") / [홍승표](https://ko.wikipedia.org/wiki/홍승표 "wikilink")
-  - 시노다 미우 — [치바 사에코](../Page/치바_사에코.md "wikilink") / [유상우](https://ko.wikipedia.org/wiki/유상우_\(성우\) "wikilink")
+  - 시노다 미우 — [치바 사에코](../Page/치바_사에코.md "wikilink") / [유상우](../Page/유상우_\(성우\).md "wikilink")
   - 코우사카 유리 — [스호우 레이코](https://ko.wikipedia.org/wiki/스호우_레이코 "wikilink") / [김은아](https://ko.wikipedia.org/wiki/김은아_\(KBS\) "wikilink")
 
 ## 영화
 
 ### 나나
 
-《**나나**》(NANA)는 [야자와 아이의](https://ko.wikipedia.org/wiki/야자와_아이 "wikilink") 원작 만화를 실사화한 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink") 개봉한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [영화](../Page/영화.md "wikilink")이다. [도호](https://ko.wikipedia.org/wiki/도호 "wikilink") 배급으로 공개되었고, 만화의 단행본 5권까지를 영화화하였다.
+《**나나**》(NANA)는 [야자와 아이의](https://ko.wikipedia.org/wiki/야자와_아이 "wikilink") 원작 만화를 실사화한 [2005년](../Page/2005년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") 개봉한 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다. [도호](../Page/도호.md "wikilink") 배급으로 공개되었고, 만화의 단행본 5권까지를 영화화하였다.
 
 ### 개요
 
-[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 3일](https://ko.wikipedia.org/wiki/9월_3일 "wikilink") 개봉. 흥행 통신사 조사에 의한 영화 랭킹에서 첫 등장 1위를 기록. 최종 관객수는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서만 300만 명을 넘어 사회 현상을 일으키는 대히트를 기록했다(흥행 수입 40.3억엔). 결과적으로, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")의 방화 4위라는 기록적인 대히트를 하였다. 나나 역에는 [나카시마 미카와](../Page/나카시마_미카.md "wikilink") 하치 역의 [미야자키 아오이가](../Page/미야자키_아오이.md "wikilink") 주연. 레이라 역의 [이토 유나는](https://ko.wikipedia.org/wiki/이토_유나 "wikilink") 극중 삽입곡을 불러, 이를 계기로 그 해 음악상의 주요 신인상을 수상하며, 유명세를 타게 되었다.
+[2005년](../Page/2005년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") 개봉. 흥행 통신사 조사에 의한 영화 랭킹에서 첫 등장 1위를 기록. 최종 관객수는 [일본](../Page/일본.md "wikilink")에서만 300만 명을 넘어 사회 현상을 일으키는 대히트를 기록했다(흥행 수입 40.3억엔). 결과적으로, [2005년](../Page/2005년.md "wikilink")의 방화 4위라는 기록적인 대히트를 하였다. 나나 역에는 [나카시마 미카와](../Page/나카시마_미카.md "wikilink") 하치 역의 [미야자키 아오이가](../Page/미야자키_아오이.md "wikilink") 주연. 레이라 역의 [이토 유나는](https://ko.wikipedia.org/wiki/이토_유나 "wikilink") 극중 삽입곡을 불러, 이를 계기로 그 해 음악상의 주요 신인상을 수상하며, 유명세를 타게 되었다.
 
 #### 출연진
 
@@ -50,9 +50,9 @@
   - **코마츠 나나** (하치) : [미야자키 아오이](../Page/미야자키_아오이.md "wikilink")
   - **혼죠 렌** (렌 : BLACK STONES → TRAPNEST) : [마츠다 류헤이](../Page/마츠다_류헤이.md "wikilink")
   - **타카기 야스시** (야스 : BLACK STONES) : [마루야마 토모미](https://ko.wikipedia.org/wiki/마루야마_토모미 "wikilink")
-  - **테라시마 노부오** (노브 BLACK STONES) : [나리미야 히로키](https://ko.wikipedia.org/wiki/나리미야_히로키 "wikilink")
+  - **테라시마 노부오** (노브 BLACK STONES) : [나리미야 히로키](../Page/나리미야_히로키.md "wikilink")
   - **오카자키 신이치** (신 : BLACK STONES) : [마츠야마 켄이치](../Page/마츠야마_켄이치.md "wikilink")
-  - **이치​노세 타쿠미** (타쿠미 : TRAPNEST) : [타마야마 테츠지](https://ko.wikipedia.org/wiki/타마야마_테츠지 "wikilink")
+  - **이치​노세 타쿠미** (타쿠미 : TRAPNEST) : [타마야마 테츠지](../Page/타마야마_테츠지.md "wikilink")
   - **세리자와 레이라** (레이라 : TRAPNEST) : [이토 유나](https://ko.wikipedia.org/wiki/이토_유나 "wikilink")
   - **후지에다 나오키** (나오키 : TRAPNEST) : [미즈타니 모모스케](https://ko.wikipedia.org/wiki/미즈타니_모모스케 "wikilink")
 
@@ -79,7 +79,7 @@
 
 ### 나나 2
 
-《**나나 2**》(NANA)는 영화 《나나》의 속편으로, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 9일](https://ko.wikipedia.org/wiki/12월_9일 "wikilink") 개봉한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [영화](../Page/영화.md "wikilink")이다.
+《**나나 2**》(NANA)는 영화 《나나》의 속편으로, [2006년](../Page/2006년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") 개봉한 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다.
 
 #### 개요
 

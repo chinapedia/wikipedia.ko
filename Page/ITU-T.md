@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ITU-T](https://ko.wikipedia.org/wiki/ITU-T).
 
 
-**ITU-T**(국제전기통신연합 전기통신표준화부문, International Telecommunication Union Telecommunication Standardization Sector) 은 [국제 전기 통신 연합](https://ko.wikipedia.org/wiki/국제_전기_통신_연합 "wikilink") 부문의 하나로 통신 분야의 표준을 책정하며 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [제네바](https://ko.wikipedia.org/wiki/제네바 "wikilink") 시에 위치해 있다. ITU의 표준화 작업은 국제 전신 연합의 탄생과 더불어 1865년으로 거슬러 올라간다. 1947년에 이 부문은 [국제 연합의](https://ko.wikipedia.org/wiki/국제_연합 "wikilink") 전문 부서가 되었으며 국제 전신과([CCITT](https://ko.wikipedia.org/wiki/CCITT "wikilink"))는 1956년에 창설되었다. 이것이 1993년에 ITU-T라는 이름으로 바뀌었다.\[1\]
+**ITU-T**(국제전기통신연합 전기통신표준화부문, International Telecommunication Union Telecommunication Standardization Sector) 은 [국제 전기 통신 연합](https://ko.wikipedia.org/wiki/국제_전기_통신_연합 "wikilink") 부문의 하나로 통신 분야의 표준을 책정하며 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [제네바](../Page/제네바.md "wikilink") 시에 위치해 있다. ITU의 표준화 작업은 국제 전신 연합의 탄생과 더불어 1865년으로 거슬러 올라간다. 1947년에 이 부문은 [국제 연합의](https://ko.wikipedia.org/wiki/국제_연합 "wikilink") 전문 부서가 되었으며 국제 전신과([CCITT](https://ko.wikipedia.org/wiki/CCITT "wikilink"))는 1956년에 창설되었다. 이것이 1993년에 ITU-T라는 이름으로 바뀌었다.\[1\]
 
 ## 주요 기능
 

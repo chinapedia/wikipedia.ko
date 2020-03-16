@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [   B](https://ko.wikipedia.org/wiki/___B).
 
 
-**캄페오나투 브라질레이루 세리이 B** ()는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")의 전국 2부 리그이다. [브라질 축구협회에서](https://ko.wikipedia.org/wiki/브라질_축구협회 "wikilink") 주관하며 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 현재 20개의 팀으로 구성되어 있다. 하지만, 경기 방식과 팀 수는 [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 리그가 시작된 후 매년 바뀌어왔다.
+**캄페오나투 브라질레이루 세리이 B** ()는 [브라질](../Page/브라질.md "wikilink") [축구](../Page/축구.md "wikilink")의 전국 2부 리그이다. [브라질 축구협회에서](https://ko.wikipedia.org/wiki/브라질_축구협회 "wikilink") 주관하며 [2006년](../Page/2006년.md "wikilink") 현재 20개의 팀으로 구성되어 있다. 하지만, 경기 방식과 팀 수는 [1971년](../Page/1971년.md "wikilink") 리그가 시작된 후 매년 바뀌어왔다.
 
-출범 당시에는 1부 리그와 2부 리그 팀의 구분이 제대로 이루어지지 않았고, 승강제 역시 시도할 수 없었다. 게다가 [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink")부터 [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")까지는 실질적인 세리이 B 경기가 열리지 않았다. 대부분의 팀이 1부 리그에 초청되어 경기를 치렀고, [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")엔 무려 94개 팀이 1부 리그 대회에 참가했다. [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") 세리이 A 팀의 수를 40개로 줄이면서 나머지 팀들은 세리이 B 경기에 참가하게 되었지만, 세리이 A부터 세리이 C까지 승강제가 제대로 이루어지기 시작한 것은 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") 시즌 이후부터이다.
+출범 당시에는 1부 리그와 2부 리그 팀의 구분이 제대로 이루어지지 않았고, 승강제 역시 시도할 수 없었다. 게다가 [1973년](../Page/1973년.md "wikilink")부터 [1979년](../Page/1979년.md "wikilink")까지는 실질적인 세리이 B 경기가 열리지 않았다. 대부분의 팀이 1부 리그에 초청되어 경기를 치렀고, [1979년](../Page/1979년.md "wikilink")엔 무려 94개 팀이 1부 리그 대회에 참가했다. [1980년](../Page/1980년.md "wikilink") 세리이 A 팀의 수를 40개로 줄이면서 나머지 팀들은 세리이 B 경기에 참가하게 되었지만, 세리이 A부터 세리이 C까지 승강제가 제대로 이루어지기 시작한 것은 [1985년](../Page/1985년.md "wikilink") 시즌 이후부터이다.
 
-[1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")부터 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")까지는 토너먼트 방식으로 대회가 치러졌으나, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")부터 [리그전](../Page/리그전.md "wikilink") 형태로 운영되고 있다.
+[1971년](../Page/1971년.md "wikilink")부터 [2005년](../Page/2005년.md "wikilink")까지는 토너먼트 방식으로 대회가 치러졌으나, [2006년](../Page/2006년.md "wikilink")부터 [리그전](../Page/리그전.md "wikilink") 형태로 운영되고 있다.
 
 ## 승격과 강등
 
@@ -24,12 +24,12 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/고이아스_EC" title="wikilink">고이아스</a> (Goiás Esporte Clube)</p></td>
+<td><p><a href="../Page/고이아스_EC.md" title="wikilink">고이아스</a> (Goiás Esporte Clube)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고이아니아" title="wikilink">고이아니아</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/구아라니_FC.md" title="wikilink">구아라니</a> (Guarani Futebol Clube)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캄피나스" title="wikilink">캄피나스</a></p></td>
+<td><p><a href="../Page/캄피나스.md" title="wikilink">캄피나스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/론드리나_EC" title="wikilink">론드리나</a> (Londrina Esporte Clube)</p></td>
@@ -41,7 +41,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/GE_브라지우.md" title="wikilink">브라지우 지 펠로타스</a> (Brasil de Pelotas)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/펠로타스" title="wikilink">펠로타스</a></p></td>
+<td><p><a href="../Page/펠로타스.md" title="wikilink">펠로타스</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/빌라_노바_FC.md" title="wikilink">빌라 노바</a> (Vila Nova Futebol Clube)</p></td>
@@ -49,11 +49,11 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/삼파이우_코헤아_FC.md" title="wikilink">삼파이우 코헤아</a> (Sampaio Corrêa Futebol Clube)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상루이스" title="wikilink">상루이스</a></p></td>
+<td><p><a href="../Page/상루이스.md" title="wikilink">상루이스</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/EC_상벤투" title="wikilink">상벤투</a> (Esporte Clube São Bento)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/소로카바" title="wikilink">소로카바</a></p></td>
+<td><p><a href="../Page/소로카바.md" title="wikilink">소로카바</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/아바이_FC.md" title="wikilink">아바이</a> (Avaí Futebol Clube)</p></td>
@@ -72,7 +72,7 @@
 <td><p><a href="../Page/카시아스두술.md" title="wikilink">카시아스두술</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코리치바_FC" title="wikilink">코리치바</a> (Coritiba Futebol Clube)</p></td>
+<td><p><a href="../Page/코리치바_FC.md" title="wikilink">코리치바</a> (Coritiba Futebol Clube)</p></td>
 <td><p><a href="../Page/쿠리치바.md" title="wikilink">쿠리치바</a></p></td>
 </tr>
 <tr class="even">
@@ -89,10 +89,10 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/AA_폰치_프레타.md" title="wikilink">폰치 프레타</a> (Associação Atlética Ponte Preta)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캄피나스" title="wikilink">캄피나스</a></p></td>
+<td><p><a href="../Page/캄피나스.md" title="wikilink">캄피나스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/피게이렌시_FC" title="wikilink">피게이렌시</a> (Figueirense Futebol Clube)</p></td>
+<td><p><a href="../Page/피게이렌시_FC.md" title="wikilink">피게이렌시</a> (Figueirense Futebol Clube)</p></td>
 <td><p><a href="../Page/플로리아노폴리스.md" title="wikilink">플로리아노폴리스</a></p></td>
 </tr>
 <tr class="odd">
@@ -140,70 +140,70 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2006" title="wikilink">2006</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/아틀레치쿠_미네이루" title="wikilink">아틀레치쿠 미네이루</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스포르트_헤시피" title="wikilink">스포르트 헤시피</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나우치쿠_카피바리비" title="wikilink">나우치쿠</a></p></td>
+<td><p><strong><a href="../Page/아틀레치쿠_미네이루.md" title="wikilink">아틀레치쿠 미네이루</a></strong></p></td>
+<td><p><a href="../Page/스포르트_헤시피.md" title="wikilink">스포르트 헤시피</a></p></td>
+<td><p><a href="../Page/나우치쿠_카피바리비.md" title="wikilink">나우치쿠</a></p></td>
 <td><p><a href="../Page/아메리카_FC_(히우그란지두노르치주).md" title="wikilink">아메리카 지 나타우</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2007" title="wikilink">2007</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/코리치바_FC" title="wikilink">코리치바</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이파칭가_FC" title="wikilink">이파칭가</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아소시아상_포르투게자_지_데스포르투스" title="wikilink">포르투게자</a></p></td>
+<td><p><strong><a href="../Page/코리치바_FC.md" title="wikilink">코리치바</a></strong></p></td>
+<td><p><a href="../Page/이파칭가_FC.md" title="wikilink">이파칭가</a></p></td>
+<td><p><a href="../Page/아소시아상_포르투게자_지_데스포르투스.md" title="wikilink">포르투게자</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/EC_비토리아" title="wikilink">비토리아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2008" title="wikilink">2008</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/SC_코린치앙스_파울리스타" title="wikilink">코린치앙스</a></strong></p></td>
+<td><p><strong><a href="../Page/SC_코린치앙스_파울리스타.md" title="wikilink">코린치앙스</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/EC_산투_안드레" title="wikilink">산투 안드레</a></p></td>
 <td><p><a href="../Page/아바이_FC.md" title="wikilink">아바이</a></p></td>
 <td><p><a href="../Page/그레미우_바루에리.md" title="wikilink">그레미우 바루에리</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2009" title="wikilink">2009</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/CR_바스쿠_다_가마" title="wikilink">바스쿠 다 가마</a></strong></p></td>
+<td><p><strong><a href="../Page/CR_바스쿠_다_가마.md" title="wikilink">바스쿠 다 가마</a></strong></p></td>
 <td><p><a href="../Page/구아라니_FC.md" title="wikilink">구아라니</a></p></td>
 <td><p><a href="../Page/세아라_SC.md" title="wikilink">세아라</a></p></td>
 <td><p><a href="../Page/아틀레치쿠_고이아니엔시.md" title="wikilink">아틀레치쿠 고이아니엔시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2010" title="wikilink">2010</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/코리치바_FC" title="wikilink">코리치바</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피게이렌시_FC" title="wikilink">피게이렌시</a></p></td>
+<td><p><strong><a href="../Page/코리치바_FC.md" title="wikilink">코리치바</a></strong></p></td>
+<td><p><a href="../Page/피게이렌시_FC.md" title="wikilink">피게이렌시</a></p></td>
 <td><p><a href="../Page/EC_바이아.md" title="wikilink">바이아</a></p></td>
 <td><p><a href="../Page/아메리카_FC_(벨루오리존치).md" title="wikilink">아메리카 미네이루</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2011" title="wikilink">2011</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/아소시아상_포르투게자_지_데스포르투스" title="wikilink">포르투게자</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나우치쿠_카피바리비" title="wikilink">나우치쿠</a></p></td>
+<td><p><strong><a href="../Page/아소시아상_포르투게자_지_데스포르투스.md" title="wikilink">포르투게자</a></strong></p></td>
+<td><p><a href="../Page/나우치쿠_카피바리비.md" title="wikilink">나우치쿠</a></p></td>
 <td><p><a href="../Page/AA_폰치_프레타.md" title="wikilink">폰치 프레타</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스포르트_헤시피" title="wikilink">스포르트 헤시피</a></p></td>
+<td><p><a href="../Page/스포르트_헤시피.md" title="wikilink">스포르트 헤시피</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2012" title="wikilink">2012</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/고이아스_EC" title="wikilink">고이아스</a></strong></p></td>
+<td><p><strong><a href="../Page/고이아스_EC.md" title="wikilink">고이아스</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크리시우마_EC" title="wikilink">크리시우마</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아틀레치쿠_파라나엔시" title="wikilink">아틀레치쿠 파라나엔시</a></p></td>
+<td><p><a href="../Page/아틀레치쿠_파라나엔시.md" title="wikilink">아틀레치쿠 파라나엔시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/EC_비토리아" title="wikilink">비토리아</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2013" title="wikilink">2013</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/SE_파우메이라스" title="wikilink">파우메이라스</a></strong></p></td>
+<td><p><strong><a href="../Page/SE_파우메이라스.md" title="wikilink">파우메이라스</a></strong></p></td>
 <td><p><a href="../Page/아소시아상_샤페코엔시_지_푸테보우.md" title="wikilink">샤페코엔시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스포르트_헤시피" title="wikilink">스포르트 헤시피</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피게이렌시_FC" title="wikilink">피게이렌시</a></p></td>
+<td><p><a href="../Page/스포르트_헤시피.md" title="wikilink">스포르트 헤시피</a></p></td>
+<td><p><a href="../Page/피게이렌시_FC.md" title="wikilink">피게이렌시</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2014" title="wikilink">2014</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/조인빌리_EC" title="wikilink">조인빌리</a></strong></p></td>
 <td><p><a href="../Page/AA_폰치_프레타.md" title="wikilink">폰치 프레타</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CR_바스쿠_다_가마" title="wikilink">바스쿠 다 가마</a></p></td>
+<td><p><a href="../Page/CR_바스쿠_다_가마.md" title="wikilink">바스쿠 다 가마</a></p></td>
 <td><p><a href="../Page/아바이_FC.md" title="wikilink">아바이</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/캄페오나투_브라질레이루_세리이_B_2015.md" title="wikilink">2015</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/보타포구_FR" title="wikilink">보타포구</a></strong></p></td>
+<td><p><strong><a href="../Page/보타포구_FR.md" title="wikilink">보타포구</a></strong></p></td>
 <td><p><a href="../Page/산타크루스_FC.md" title="wikilink">산타크루스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/EC_비토리아" title="wikilink">비토리아</a></p></td>
 <td><p><a href="../Page/아메리카_FC_(벨루오리존치).md" title="wikilink">아메리카 미네이루</a></p></td>
@@ -212,15 +212,15 @@
 <td><p><a href="../Page/캄페오나투_브라질레이루_세리이_B_2016.md" title="wikilink">2016</a></p></td>
 <td><p><strong><a href="../Page/아틀레치쿠_고이아니엔시.md" title="wikilink">아틀레치쿠 고이아니엔시</a></strong></p></td>
 <td><p><a href="../Page/아바이_FC.md" title="wikilink">아바이</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CR_바스쿠_다_가마" title="wikilink">바스쿠 다 가마</a></p></td>
+<td><p><a href="../Page/CR_바스쿠_다_가마.md" title="wikilink">바스쿠 다 가마</a></p></td>
 <td><p><a href="../Page/EC_바이아.md" title="wikilink">바이아</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/캄페오나투_브라질레이루_세리이_B_2017.md" title="wikilink">2017</a></p></td>
 <td><p><strong><a href="../Page/아메리카_FC_(벨루오리존치).md" title="wikilink">아메리카 미네이루</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SC_인테르나시오나우" title="wikilink">인테르나시오나우</a></p></td>
+<td><p><a href="../Page/SC_인테르나시오나우.md" title="wikilink">인테르나시오나우</a></p></td>
 <td><p><a href="../Page/세아라_SC.md" title="wikilink">세아라</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파라나_클루비" title="wikilink">파라나</a></p></td>
+<td><p><a href="../Page/파라나_클루비.md" title="wikilink">파라나</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -250,7 +250,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2007" title="wikilink">2007</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알레산드루_누니스" title="wikilink">알레산드루</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이파칭가_FC" title="wikilink">이파칭가</a></p></td>
+<td><p><a href="../Page/이파칭가_FC.md" title="wikilink">이파칭가</a></p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2009" title="wikilink">2009</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이우통_호드리게스_브란당" title="wikilink">이우통</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/CR_바스쿠_다_가마" title="wikilink">바스쿠 다 가마</a></p></td>
+<td><p><a href="../Page/CR_바스쿠_다_가마.md" title="wikilink">바스쿠 다 가마</a></p></td>
 <td><p>17</p></td>
 </tr>
 <tr class="odd">
@@ -273,20 +273,20 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/하파에우_코엘류" title="wikilink">하파에우 코엘류</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피게이렌시_FC" title="wikilink">피게이렌시</a></p></td>
+<td><p><a href="../Page/피게이렌시_FC.md" title="wikilink">피게이렌시</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2010" title="wikilink">2010</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알레산드루_누니스" title="wikilink">알레산드루</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이파칭가_FC" title="wikilink">이파칭가</a></p></td>
+<td><p><a href="../Page/이파칭가_FC.md" title="wikilink">이파칭가</a></p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2011" title="wikilink">2011</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/웨우케르_마르사우_지_아우메이다" title="wikilink">키에자</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나우치쿠_카피바리비" title="wikilink">나우치쿠</a></p></td>
+<td><p><a href="../Page/나우치쿠_카피바리비.md" title="wikilink">나우치쿠</a></p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="odd">
@@ -303,7 +303,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B_2014" title="wikilink">2014</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마그누_아우베스" title="wikilink">마그누 아우베스</a></p></td>
+<td><p><a href="../Page/마그누_아우베스.md" title="wikilink">마그누 아우베스</a></p></td>
 <td><p><a href="../Page/세아라_SC.md" title="wikilink">세아라</a></p></td>
 <td><p>18</p></td>
 </tr>
@@ -321,7 +321,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/캄페오나투_브라질레이루_세리이_B_2017.md" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/베르그송_구스타부_시우베이라_다_시우바" title="wikilink">베르그송</a></p></td>
+<td><p><a href="../Page/베르그송_구스타부_시우베이라_다_시우바.md" title="wikilink">베르그송</a></p></td>
 <td><p><a href="../Page/파이산두_SC.md" title="wikilink">파이산두</a></p></td>
 <td><p>16</p></td>
 </tr>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AIK ](https://ko.wikipedia.org/wiki/AIK_).
 
 
-**AIK**는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")의 [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 클럽인 Allmänna Idrottsklubben의 약자로 보통 AIK는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽을 의미한다. 이 클럽은 [스톡홀름주](https://ko.wikipedia.org/wiki/스톡홀름주 "wikilink")의 자치시인 [솔나에](https://ko.wikipedia.org/wiki/솔나_시 "wikilink") 위치한 [프렌즈 아레나를](https://ko.wikipedia.org/wiki/프렌즈_아레나 "wikilink") 홈구장으로 하고 있다. 클럽은 1891년에 창단되었지만, 축구 부분은 1896년에 창단되었다. AIK는 현재 스웨덴의 최상위 리그인 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.
+**AIK**는 [스웨덴](../Page/스웨덴.md "wikilink")의 [스포츠](../Page/스포츠.md "wikilink") 클럽인 Allmänna Idrottsklubben의 약자로 보통 AIK는 [축구](../Page/축구.md "wikilink") 클럽을 의미한다. 이 클럽은 [스톡홀름주](../Page/스톡홀름주.md "wikilink")의 자치시인 [솔나에](../Page/솔나_시.md "wikilink") 위치한 [프렌즈 아레나를](../Page/프렌즈_아레나.md "wikilink") 홈구장으로 하고 있다. 클럽은 1891년에 창단되었지만, 축구 부분은 1896년에 창단되었다. AIK는 현재 스웨덴의 최상위 리그인 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.
 
 ## 선수단
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**아노르토시스 파마구스타 FC**()는 [키프로스](https://ko.wikipedia.org/wiki/키프로스 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [1911년](https://ko.wikipedia.org/wiki/1911년 "wikilink")에 창단되었다. 연고지는 [파마구스타](https://ko.wikipedia.org/wiki/파마구스타 "wikilink")이지만, 현재는 [라르나카](https://ko.wikipedia.org/wiki/라르나카 "wikilink")에 임시 연고를 두고 있다. 아노르토시스는 축구팀 외에도 배구팀과 핸드볼팀을 보유하고 있다.
+**아노르토시스 파마구스타 FC**()는 [키프로스](../Page/키프로스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1911년](../Page/1911년.md "wikilink")에 창단되었다. 연고지는 [파마구스타](../Page/파마구스타.md "wikilink")이지만, 현재는 [라르나카](../Page/라르나카.md "wikilink")에 임시 연고를 두고 있다. 아노르토시스는 축구팀 외에도 배구팀과 핸드볼팀을 보유하고 있다.
 
 ## 역사
 
-클럽은 [1911년](https://ko.wikipedia.org/wiki/1911년 "wikilink") [1월 30일에](https://ko.wikipedia.org/wiki/1월_30일 "wikilink") 창단되었다. [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [터키의 키프로스 침공](https://ko.wikipedia.org/wiki/터키의_키프로스_침공 "wikilink") 이후에 연고지를 잃고 임시로 [라르나카](https://ko.wikipedia.org/wiki/라르나카 "wikilink")의 [안토니스 파파도풀로스 스타디움을](https://ko.wikipedia.org/wiki/안토니스_파파도풀로스_스타디움 "wikilink") 사용하고 있다. 아노르토시스의 홈구장은 [GSE 경기장이지만](https://ko.wikipedia.org/wiki/GSE_경기장 "wikilink") 1974년 이후 사용하지 못하고 있다. 아노르토시스는 리그 우승 13회, 컵 대회 우승 10회를 기록하고 있다. 그리고 슈퍼컵 6회 우승 기록도 있다.
+클럽은 [1911년](../Page/1911년.md "wikilink") [1월 30일에](../Page/1월_30일.md "wikilink") 창단되었다. [1974년](../Page/1974년.md "wikilink") [터키의 키프로스 침공](../Page/터키의_키프로스_침공.md "wikilink") 이후에 연고지를 잃고 임시로 [라르나카](../Page/라르나카.md "wikilink")의 [안토니스 파파도풀로스 스타디움을](https://ko.wikipedia.org/wiki/안토니스_파파도풀로스_스타디움 "wikilink") 사용하고 있다. 아노르토시스의 홈구장은 [GSE 경기장이지만](https://ko.wikipedia.org/wiki/GSE_경기장 "wikilink") 1974년 이후 사용하지 못하고 있다. 아노르토시스는 리그 우승 13회, 컵 대회 우승 10회를 기록하고 있다. 그리고 슈퍼컵 6회 우승 기록도 있다.
 
 ## 현재 선수 명단
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") 기준.
+[2017년](../Page/2017년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") 기준.
 
 ## 역대 성적
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SSX ](https://ko.wikipedia.org/wiki/SSX_).
 
 
-《**SSX 블러**》()는 [일렉트로닉 아츠가](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 개발한 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")용 게임 소프트웨어이다.
+《**SSX 블러**》()는 [일렉트로닉 아츠가](../Page/일렉트로닉_아츠.md "wikilink") 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어이다.
 
 ## 각주
 

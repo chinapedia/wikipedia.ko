@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [XO-1b](https://ko.wikipedia.org/wiki/XO-1b).
 
 
-**XO-1 b** 또는 **GSC 02041-01657 b**는 [북쪽왕관자리](https://ko.wikipedia.org/wiki/북쪽왕관자리 "wikilink")에 있는, 지구에서 약 600광년 떨어져 있는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink"). 이 행성은 2006년 [황색 왜성](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink") [XO-1](../Page/XO-1_\(항성\).md "wikilink") 주위에서 발견되었다.
+**XO-1 b** 또는 **GSC 02041-01657 b**는 [북쪽왕관자리](../Page/북쪽왕관자리.md "wikilink")에 있는, 지구에서 약 600광년 떨어져 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 이 행성은 2006년 [황색 왜성](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink") [XO-1](../Page/XO-1_\(항성\).md "wikilink") 주위에서 발견되었다.
 
 ## 발견
 
 2006년 프로 및 아마추어 천문가들로 이루어진 천체관측팀이 목성 정도 질량을 지닌 행성 XO-1 b를 XO-1 주위에서 찾아냈다. 볼티모어 우주망원경과학재단의 피터 맥컬로프가 이 팀을 지휘했으며, 이 팀에는 북아메리카와 유럽에서 온 네 명의 아마추어 천문가들이 포함되어 있었다.
 
-맥컬로프와 연구진들은 고가의 [XO 망원경을](https://ko.wikipedia.org/wiki/XO_망원경 "wikilink") 이용하여 관측 활동을 수행했다. XO 망원경은 두 개의 200밀리미터 구경 [망원렌즈](https://ko.wikipedia.org/wiki/망원렌즈 "wikilink")로 구성되어 있으며, 겉모양은 [쌍안경](../Page/쌍안경.md "wikilink")과 닮았다. XO 망원경은 [하와이주](https://ko.wikipedia.org/wiki/하와이주 "wikilink") [할레아칼라 산](https://ko.wikipedia.org/wiki/할레아칼라_산 "wikilink") 정상에 있다.
+맥컬로프와 연구진들은 고가의 [XO 망원경을](https://ko.wikipedia.org/wiki/XO_망원경 "wikilink") 이용하여 관측 활동을 수행했다. XO 망원경은 두 개의 200밀리미터 구경 [망원렌즈](https://ko.wikipedia.org/wiki/망원렌즈 "wikilink")로 구성되어 있으며, 겉모양은 [쌍안경](../Page/쌍안경.md "wikilink")과 닮았다. XO 망원경은 [하와이주](../Page/하와이주.md "wikilink") [할레아칼라 산](https://ko.wikipedia.org/wiki/할레아칼라_산 "wikilink") 정상에 있다.
 
 2003년 9월에서 2005년 9월까지 XO 망원경은 수만 개의 밝은 별들을 감지해 냈다. 당시 맥컬로프 팀의 아마추어 천문가들은 외계 행성들을 거느리고 있다고 이전부터 후보로 점찍어 두었던 열 개 정도의 항성들을 연구했다. 2005년 6월 XO-1이 행성을 거느리는 유력한 후보로 지목되었다. 아마추어 천문가들은 이 별을 2005년 6월에서 7월까지 관측했고, 행성급 규모의 천체가 모항성을 가리는 것을 발견했다. 맥컬로프 팀은 텍사스 소재 [맥도널드 천문대로](https://ko.wikipedia.org/wiki/맥도널드_천문대 "wikilink") 돌아가서, 이 천체의 질량과, 행성인지 아닌지의 여부를 확인하였다.
 
@@ -15,7 +15,7 @@
 
 맥컬로프 팀은 천체가 모항성의 앞을 지나가면서 밝기가 근소하게 줄어드는 것을 이용하여 행성의 존재를 입증했다. XO-1b는 항성 앞을 지나가면서 항성이 뿜는 빛의 약 2퍼센트를 감소시켰다. 이들은 XO-1b가 모항성을 4일 주기로 공전하고 있음을 알아냈다.
 
-당시 180개의 외계 행성들이 발견된 상태였는데, XO-1b는 [통과 현상을](../Page/통과_\(천문학\).md "wikilink") 이용하여 발견된 10번째 행성이었으며, 망원렌즈를 사용하여 발견된 두 번째 행성이기도 했다. 망원렌즈로 발견된 첫 번째 행성은 [거문고자리](https://ko.wikipedia.org/wiki/거문고자리 "wikilink")에 있는 [TrES-1](https://ko.wikipedia.org/wiki/TrES-1 "wikilink")으로, 2004년 발견되었다. 통과법을 통해 행성의 질량과 반지름을 정확히 알 수 있으며, 여기서 행성의 여러 가지 제원들([밀도](https://ko.wikipedia.org/wiki/밀도 "wikilink") 포함)을 알아낼 수 있다.
+당시 180개의 외계 행성들이 발견된 상태였는데, XO-1b는 [통과 현상을](../Page/통과_\(천문학\).md "wikilink") 이용하여 발견된 10번째 행성이었으며, 망원렌즈를 사용하여 발견된 두 번째 행성이기도 했다. 망원렌즈로 발견된 첫 번째 행성은 [거문고자리](../Page/거문고자리.md "wikilink")에 있는 [TrES-1](https://ko.wikipedia.org/wiki/TrES-1 "wikilink")으로, 2004년 발견되었다. 통과법을 통해 행성의 질량과 반지름을 정확히 알 수 있으며, 여기서 행성의 여러 가지 제원들([밀도](../Page/밀도.md "wikilink") 포함)을 알아낼 수 있다.
 
 ### 시선속도
 
@@ -29,7 +29,7 @@
 
 ## 물리적 특징
 
-XO-1 b는 목성과 질량은 비슷하나 어머니 항성에는 훨씬 더 가까이 붙어 있기 때문에 뜨거운 목성으로 분류할 수 있다. [HD 209458 b나](../Page/HD_209458_b.md "wikilink") [TrES-1](https://ko.wikipedia.org/wiki/TrES-1 "wikilink")과 같은 다른 ‘일면통과 외계행성’들처럼, XO-1 b의 밀도는 낮으며 여기에서 이 행성의 조성물이 대부분 [수소](https://ko.wikipedia.org/wiki/수소 "wikilink")와 [헬륨](https://ko.wikipedia.org/wiki/헬륨 "wikilink")임을 알 수 있다.
+XO-1 b는 목성과 질량은 비슷하나 어머니 항성에는 훨씬 더 가까이 붙어 있기 때문에 뜨거운 목성으로 분류할 수 있다. [HD 209458 b나](../Page/HD_209458_b.md "wikilink") [TrES-1](https://ko.wikipedia.org/wiki/TrES-1 "wikilink")과 같은 다른 ‘일면통과 외계행성’들처럼, XO-1 b의 밀도는 낮으며 여기에서 이 행성의 조성물이 대부분 [수소](../Page/수소.md "wikilink")와 [헬륨](../Page/헬륨.md "wikilink")임을 알 수 있다.
 
 ## 함께 읽기
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [B TV](https://ko.wikipedia.org/wiki/B_TV).
 
 
-**B tv**는 [SK브로드밴드](https://ko.wikipedia.org/wiki/SK브로드밴드 "wikilink")에서 제공하는 [IPTV](../Page/IPTV.md "wikilink") 서비스이다.
+**B tv**는 [SK브로드밴드](../Page/SK브로드밴드.md "wikilink")에서 제공하는 [IPTV](../Page/IPTV.md "wikilink") 서비스이다.
 
-**B tv**는 [VOD](https://ko.wikipedia.org/wiki/주문형_비디오 "wikilink")(Video On Demand) 중심의 TV-Portal 서비스만을 제공해오다가 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 12일](https://ko.wikipedia.org/wiki/1월_12일 "wikilink") 서울에서 실시간방송을 시작하였다. 가입자는 2014년 11월 기준 268만 명으로, [KT](https://ko.wikipedia.org/wiki/KT "wikilink")의 [올레 TV의](https://ko.wikipedia.org/wiki/올레_TV "wikilink") 절반수준이므로,\[1\] 2016년 11월에 모든 채널 번호가 장르별로 재배치되어, 100% HD채널로 전환하였다.
+**B tv**는 [VOD](../Page/주문형_비디오.md "wikilink")(Video On Demand) 중심의 TV-Portal 서비스만을 제공해오다가 [2009년](../Page/2009년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink") 서울에서 실시간방송을 시작하였다. 가입자는 2014년 11월 기준 268만 명으로, [KT](../Page/KT.md "wikilink")의 [올레 TV의](../Page/올레_TV.md "wikilink") 절반수준이므로,\[1\] 2016년 11월에 모든 채널 번호가 장르별로 재배치되어, 100% HD채널로 전환하였다.
 
 ## 연혁
 
@@ -60,8 +60,8 @@ HD-TV 튜너 & HDD 내장
 
 ## 대한민국의 다른 IPTV 서비스
 
-  - [KT](https://ko.wikipedia.org/wiki/KT "wikilink") - [올레 TV](https://ko.wikipedia.org/wiki/올레_TV "wikilink")
-  - [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink") - [U+ TV](https://ko.wikipedia.org/wiki/U+_TV "wikilink")
+  - [KT](../Page/KT.md "wikilink") - [올레 TV](../Page/올레_TV.md "wikilink")
+  - [LG유플러스](../Page/LG유플러스.md "wikilink") - [U+ TV](../Page/U+_TV.md "wikilink")
 
 ## 외부 링크
 

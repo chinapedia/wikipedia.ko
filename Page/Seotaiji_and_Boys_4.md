@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Seotaiji and Boys 4](https://ko.wikipedia.org/wiki/Seotaiji_and_Boys_4).
 
 
-《**''Seotaiji and Boys 4**''》(**서태지와 아이들 IV**)는 [서태지와 아이들의](https://ko.wikipedia.org/wiki/서태지와_아이들 "wikilink") 네 번째 정규 음반이다.\[1\]\[2\]\[3\]\[4\] 200만 장 이상 판매되면서 대한민국의 가요 앨범으로는 3번째로 더블 밀리언셀러를 기록하였다.
+《**''Seotaiji and Boys 4**''》(**서태지와 아이들 IV**)는 [서태지와 아이들의](../Page/서태지와_아이들.md "wikilink") 네 번째 정규 음반이다.\[1\]\[2\]\[3\]\[4\] 200만 장 이상 판매되면서 대한민국의 가요 앨범으로는 3번째로 더블 밀리언셀러를 기록하였다.
 
 ## 개요
 
@@ -13,7 +13,7 @@
 
 ### 재발매판
 
-2007년 발매된 [서태지](https://ko.wikipedia.org/wiki/서태지 "wikilink") 15주년 기념 박스세트에 포함된 버전이 2009년에 또 다시 개별적으로 재발매 되었다. 초판에서 연주곡만 수록됐던 〈시대유감〉과 〈Good Bye〉는 서태지의 보컬이 삽입된 버전으로 교체되었고, 앨범의 히든트랙으로는 2004년 제로 투어 앨범의 라이브 음원과 2007년에 새롭게 리믹스 한 〈컴백홈〉이 수록되었다.
+2007년 발매된 [서태지](../Page/서태지.md "wikilink") 15주년 기념 박스세트에 포함된 버전이 2009년에 또 다시 개별적으로 재발매 되었다. 초판에서 연주곡만 수록됐던 〈시대유감〉과 〈Good Bye〉는 서태지의 보컬이 삽입된 버전으로 교체되었고, 앨범의 히든트랙으로는 2004년 제로 투어 앨범의 라이브 음원과 2007년에 새롭게 리믹스 한 〈컴백홈〉이 수록되었다.
 
 ## 사전심의제도와 마찰
 
@@ -37,7 +37,7 @@
 4.  [시대유감](https://ko.wikipedia.org/wiki/시대유감_\(노래\) "wikilink")(時代遺憾) : 가사문제로 심의를 통과하지 못해 연주곡으로 수록되었으나 사전심의제도 폐지후 가사버전이 싱글로 발매되었다.
 5.  1996, 그들이 지구를 지배했을때 : 2004년 KBS 교감 콘서트에서 Rock 버전으로 편곡하여 불렀다.
 6.  Good Bye : 연주곡이지만 Good Bye 베스트 앨범에 가사가 삽입되어 수록된다.
-7.  [Free Style](https://ko.wikipedia.org/wiki/Free_Style "wikilink"): [김종서와](https://ko.wikipedia.org/wiki/김종서_\(가수\) "wikilink") 함께 부른 곡으로, 김종서의 4집앨범 <THERMAL ISLAND>에도 수록되었다. 당시 뮤직비디오에 등장한 스노 보드 패션이 화제가 되었다. 2000 - 2001 태지의 화 공연에서 김종서와 함께 라이브를 선보였다. 김종서 5집\<1996 KIM JONG SEO V\>에는 Free Style 2라는 이름의 이 곡의 신버전이 수록되어 있다.
+7.  [Free Style](https://ko.wikipedia.org/wiki/Free_Style "wikilink"): [김종서와](../Page/김종서_\(가수\).md "wikilink") 함께 부른 곡으로, 김종서의 4집앨범 <THERMAL ISLAND>에도 수록되었다. 당시 뮤직비디오에 등장한 스노 보드 패션이 화제가 되었다. 2000 - 2001 태지의 화 공연에서 김종서와 함께 라이브를 선보였다. 김종서 5집\<1996 KIM JONG SEO V\>에는 Free Style 2라는 이름의 이 곡의 신버전이 수록되어 있다.
 
 ## 제작진
 
@@ -55,20 +55,20 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/서태지" title="wikilink">서태지</a>: <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>·<a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>(트랙 9 공동작곡)·<a href="https://ko.wikipedia.org/wiki/편곡" title="wikilink">편곡</a>, <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>(2, 3, 7, 10), <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>(9)</li>
+<li><a href="../Page/서태지.md" title="wikilink">서태지</a>: <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>·<a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>(트랙 9 공동작곡)·<a href="../Page/편곡.md" title="wikilink">편곡</a>, <a href="../Page/기타.md" title="wikilink">기타</a>(2, 3, 7, 10), <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(9)</li>
 <li><a href="../Page/양현석.md" title="wikilink">양현석</a>: 랩, 보컬, <a href="https://ko.wikipedia.org/wiki/안무" title="wikilink">안무</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/이주노" title="wikilink">이주노</a>: 랩, 보컬, 안무</li>
+<li><a href="../Page/이주노.md" title="wikilink">이주노</a>: 랩, 보컬, 안무</li>
 </ul>
 <dl>
 <dt>참여 음악인</dt>
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/김종서_(가수)" title="wikilink">김종서</a>: 작곡(트랙 9 공동작곡), 보컬(9)</li>
+<li><a href="../Page/김종서_(가수).md" title="wikilink">김종서</a>: 작곡(트랙 9 공동작곡), 보컬(9)</li>
 <li>Michael Landau: 기타(1, 5)</li>
 <li>Tim Pierce: 기타(2, 3, 9)</li>
 <li><a href="https://ko.wikipedia.org/wiki/조시_프리스" title="wikilink">조시 프리스</a>: <a href="https://ko.wikipedia.org/wiki/드럼_세트" title="wikilink">드럼</a>(1, 2, 3, 5)</li>
-<li>Neil Stubenhaus: <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스</a>(1, 2, 3, 5)</li>
+<li>Neil Stubenhaus: <a href="../Page/베이스_기타.md" title="wikilink">베이스</a>(1, 2, 3, 5)</li>
 <li>DJ Ralph M: <a href="../Page/디스크_자키.md" title="wikilink">스크래치</a>(4, 9)</li>
 <li><a href="https://ko.wikipedia.org/wiki/이정식_(음악가)" title="wikilink">이정식</a>: <a href="../Page/색소폰.md" title="wikilink">색소폰</a>(트랙 8)</li>
 </ul></td>
@@ -77,10 +77,10 @@
 
 </dl>
 <ul>
-<li>서태지: <a href="https://ko.wikipedia.org/wiki/음악_프로듀서" title="wikilink">프로듀서</a>, 녹음 기술자, 믹싱 기술자(7, 10)</li>
+<li>서태지: <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, 녹음 기술자, 믹싱 기술자(7, 10)</li>
 <li>김국: 공동 프로듀서, 녹음 기술자, 믹싱 기술자(7, 10)</li>
 <li>Jason Robert: 녹음 기술자</li>
-<li>Capital Record Tower Mastering(<a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">LA</a>), 사운드 비전(<a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a>): <a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a> 스튜디오
+<li>Capital Record Tower Mastering(<a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">LA</a>), 사운드 비전(<a href="../Page/서울특별시.md" title="wikilink">서울특별시</a>): <a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a> 스튜디오
 <ul>
 <li>Jason Arnold, 김호정: 마스터링 기술자</li>
 </ul></li>
@@ -109,14 +109,14 @@
 
 ## 외부 링크
 
-  - [36위 서태지와 아이들 《서태지와 아이들Ⅳ》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200712270922101&code=900307&s_code=at031) [경향신문](https://ko.wikipedia.org/wiki/경향신문 "wikilink")
+  - [36위 서태지와 아이들 《서태지와 아이들Ⅳ》](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200712270922101&code=900307&s_code=at031) [경향신문](../Page/경향신문.md "wikilink")
 
 [분류:팝 음반](https://ko.wikipedia.org/wiki/분류:팝_음반 "wikilink") [분류:랩 록 음반](https://ko.wikipedia.org/wiki/분류:랩_록_음반 "wikilink") [분류:힙합 음반](https://ko.wikipedia.org/wiki/분류:힙합_음반 "wikilink") [분류:서태지와 아이들의 음반](https://ko.wikipedia.org/wiki/분류:서태지와_아이들의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:1995년 음반](https://ko.wikipedia.org/wiki/분류:1995년_음반 "wikilink")
 
 1.  [매니아디비](https://ko.wikipedia.org/wiki/매니아디비 "wikilink") - ["서태지와 아이들 - 서태지와 아이들 4집"](http://www.maniadb.com/album.asp?a=121485)
-2.  [다음](https://ko.wikipedia.org/wiki/다음 "wikilink") 뮤직 - ["서태지와 아이들 - 서태지와 아이들 4집"](http://music.daum.net/album/album.do?albumId=3962)
-3.  [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직 - ["서태지와 아이들 - 서태지와 아이들 4집"](http://music.naver.com/album/index.nhn?albumId=2058)
-4.  [싸이월드](https://ko.wikipedia.org/wiki/싸이월드 "wikilink") BGM - ["서태지와 아이들 - 서태지와 아이들 4집"](http://music.cyworld.com/album.asp?aid=13798)
+2.  [다음](../Page/다음.md "wikilink") 뮤직 - ["서태지와 아이들 - 서태지와 아이들 4집"](http://music.daum.net/album/album.do?albumId=3962)
+3.  [네이버](../Page/네이버.md "wikilink") 뮤직 - ["서태지와 아이들 - 서태지와 아이들 4집"](http://music.naver.com/album/index.nhn?albumId=2058)
+4.  [싸이월드](../Page/싸이월드.md "wikilink") BGM - ["서태지와 아이들 - 서태지와 아이들 4집"](http://music.cyworld.com/album.asp?aid=13798)
 5.
 6.
 7.  《Seotaiji and Boys IV》 [라이너 노츠](https://ko.wikipedia.org/wiki/라이너_노츠 "wikilink")

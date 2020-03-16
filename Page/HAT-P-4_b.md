@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAT-P-4 b](https://ko.wikipedia.org/wiki/HAT-P-4_b).
 
 
-**HAT-P-4b**는 [목동자리](https://ko.wikipedia.org/wiki/목동자리 "wikilink")에 있는, [지구](../Page/지구.md "wikilink")에서 1,000광년 이상 떨어져 있는 [BD+36º2593](https://ko.wikipedia.org/wiki/BD+36º2593 "wikilink") 주위를 공전하는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink"). 2007년 10월 2일 통과법을 이용하여 발견되었다. 이 행성은 [HATNet 프로젝트를](https://ko.wikipedia.org/wiki/HATNet_프로젝트 "wikilink") 통해 존재가 밝혀진 네 번째 외계 행성이다.
+**HAT-P-4b**는 [목동자리](../Page/목동자리.md "wikilink")에 있는, [지구](../Page/지구.md "wikilink")에서 1,000광년 이상 떨어져 있는 [BD+36º2593](https://ko.wikipedia.org/wiki/BD+36º2593 "wikilink") 주위를 공전하는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 2007년 10월 2일 통과법을 이용하여 발견되었다. 이 행성은 [HATNet 프로젝트를](https://ko.wikipedia.org/wiki/HATNet_프로젝트 "wikilink") 통해 존재가 밝혀진 네 번째 외계 행성이다.
 
 이 항성은 전형적인 [뜨거운 목성으로](../Page/뜨거운_목성.md "wikilink"), 질량은 목성의 68퍼센트이며 반지름은 127퍼센트이다. 밀도는 물의 41퍼센트, 목성 밀도의 31퍼센트에 불과하다. 통과법 관측을 통해 [궤도경사각](https://ko.wikipedia.org/wiki/궤도경사각 "wikilink")이 밝혀졌기 때문에, 위 질량값은 정확하다.
 

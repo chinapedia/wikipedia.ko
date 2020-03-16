@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WASP-3b](https://ko.wikipedia.org/wiki/WASP-3b).
 
 
-**WASP-3b**는 [거문고자리](https://ko.wikipedia.org/wiki/거문고자리 "wikilink")에 있는, [지구](../Page/지구.md "wikilink")에서 727[광년](https://ko.wikipedia.org/wiki/광년 "wikilink") 떨어진 별 [WASP-3](../Page/WASP-3.md "wikilink")의 주위를 돌고 있는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink"). 질량과 반지름으로 미루어 보아 WASP-3b는 [목성](../Page/목성.md "wikilink")과 조성이 비슷한 [가스 행성으로](https://ko.wikipedia.org/wiki/가스_행성 "wikilink") 보인다. WASP-3b는 어머니 항성에 가까이 붙어 있기 때문에 [뜨거운 목성으로](../Page/뜨거운_목성.md "wikilink") 분류될 수 있으며, 표면 온도는 약 1983[켈빈](https://ko.wikipedia.org/wiki/켈빈 "wikilink")에 이른다.
+**WASP-3b**는 [거문고자리](../Page/거문고자리.md "wikilink")에 있는, [지구](../Page/지구.md "wikilink")에서 727[광년](../Page/광년.md "wikilink") 떨어진 별 [WASP-3](../Page/WASP-3.md "wikilink")의 주위를 돌고 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 질량과 반지름으로 미루어 보아 WASP-3b는 [목성](../Page/목성.md "wikilink")과 조성이 비슷한 [가스 행성으로](https://ko.wikipedia.org/wiki/가스_행성 "wikilink") 보인다. WASP-3b는 어머니 항성에 가까이 붙어 있기 때문에 [뜨거운 목성으로](../Page/뜨거운_목성.md "wikilink") 분류될 수 있으며, 표면 온도는 약 1983[켈빈](../Page/켈빈.md "wikilink")에 이른다.
 
 ## 함께 보기
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WASP-2](https://ko.wikipedia.org/wiki/WASP-2).
 
 
-**WASP-2**는 [돌고래자리](https://ko.wikipedia.org/wiki/돌고래자리 "wikilink")에 있는 [분광형 K의 항성이다](https://ko.wikipedia.org/wiki/K_V형_항성 "wikilink"). 이 별은 [WASP-2b](../Page/WASP-2b.md "wikilink")로 불리는 [외계 행성](https://ko.wikipedia.org/wiki/외계_행성 "wikilink") 한 개를 거느리고 있는 것으로 밝혀졌다.
+**WASP-2**는 [돌고래자리](../Page/돌고래자리.md "wikilink")에 있는 [분광형 K의 항성이다](https://ko.wikipedia.org/wiki/K_V형_항성 "wikilink"). 이 별은 [WASP-2b](../Page/WASP-2b.md "wikilink")로 불리는 [외계 행성](../Page/외계_행성.md "wikilink") 한 개를 거느리고 있는 것으로 밝혀졌다.
 
 ## 참고 문헌
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [CTV  ](https://ko.wikipedia.org/wiki/CTV__).
 
 
-**CTV 텔레비전 네트워크**는 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서 가장 큰 민영 방송국이다.
+**CTV 텔레비전 네트워크**는 [캐나다](../Page/캐나다.md "wikilink")에서 가장 큰 민영 방송국이다.
 
-CTV가 소유한 방송국 중에 CTV 글로브 미디어는 캐나다에서 가장 큰 복합 방송 기업으로 알려져 있다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 이후로 캐나다에서 가장 인기있는 케이블 방송사로 자리를 굳혔다. CTV는 한번도 정식 명칭을 사용한적이 없지만 많은 사람들이 1990년대 CTV의 광고 문구인 "캐네디안 텔레비전"(Canadian Television)으로 주로 부른다.
+CTV가 소유한 방송국 중에 CTV 글로브 미디어는 캐나다에서 가장 큰 복합 방송 기업으로 알려져 있다. [2002년](../Page/2002년.md "wikilink") 이후로 캐나다에서 가장 인기있는 케이블 방송사로 자리를 굳혔다. CTV는 한번도 정식 명칭을 사용한적이 없지만 많은 사람들이 1990년대 CTV의 광고 문구인 "캐네디안 텔레비전"(Canadian Television)으로 주로 부른다.
 
 ## 외부 링크
 

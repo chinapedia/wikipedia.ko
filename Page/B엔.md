@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [B](https://ko.wikipedia.org/wiki/B).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Various_types_of_B_Notes_1945_1958.jpg "wikilink") **B형 군표**(, ) 또는 **B엔**(, )은 [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink")부터 [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")까지 미군 점령 하의 [오키나와에서](https://ko.wikipedia.org/wiki/오키나와현 "wikilink") [통화](https://ko.wikipedia.org/wiki/통화 "wikilink")로서 유통된 미군 발행의 [군표](https://ko.wikipedia.org/wiki/군표 "wikilink")이다. [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink")부터 1958년까지는 오키나와에서 유일한 정식 통화이었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Various_types_of_B_Notes_1945_1958.jpg "wikilink") **B형 군표**(, ) 또는 **B엔**(, )은 [1945년](../Page/1945년.md "wikilink")부터 [1958년](../Page/1958년.md "wikilink") [9월](../Page/9월.md "wikilink")까지 미군 점령 하의 [오키나와에서](../Page/오키나와현.md "wikilink") [통화](https://ko.wikipedia.org/wiki/통화 "wikilink")로서 유통된 미군 발행의 [군표](../Page/군표.md "wikilink")이다. [1948년](../Page/1948년.md "wikilink")부터 1958년까지는 오키나와에서 유일한 정식 통화이었다.
 
 ## 개요
 
-정확히는 [연합국](https://ko.wikipedia.org/wiki/연합국 "wikilink")의 공동 군표인 AMC(Allied forces Military Currency) 군표의 한 종류로서, 다른 연합국에도 발행권이 있었지만 일본에 주둔한 점령군은 미군이 주체였기 때문에 다른 나라의 군대는 엔 단위의 군표는 발행되지 않았다. 당초 B엔은 미국 내에서 인쇄되었지만, 말기에는 일본 내에서 인쇄되었다. 동전은 없고 모두 지폐이었다.
+정확히는 [연합국](../Page/연합국.md "wikilink")의 공동 군표인 AMC(Allied forces Military Currency) 군표의 한 종류로서, 다른 연합국에도 발행권이 있었지만 일본에 주둔한 점령군은 미군이 주체였기 때문에 다른 나라의 군대는 엔 단위의 군표는 발행되지 않았다. 당초 B엔은 미국 내에서 인쇄되었지만, 말기에는 일본 내에서 인쇄되었다. 동전은 없고 모두 지폐이었다.
 
 ### 규격
 
@@ -24,7 +24,7 @@
 
 미국이 오키나와를 점령한 직후에는 어떤 통화도 유통되지 않았으며, 거래는 물물 [교환](https://ko.wikipedia.org/wiki/교환 "wikilink")으로 이루어졌다. 1946년 4월 15일, 미군은 직접 발행하는 B엔을 공식 통화로 지정하였다. 이후 1946년 8월 5일부터는 일정 조건하에 신·구 일본 엔의 유통을 인정하였다. 종전 직후의 오키나와에서는 이들 통화가 섞여 유통되었다.
 
-그러나, 미군이 오키나와를 항구적으로 통치하게 되자 [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink") [7월 21일부터](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") 신·구 일본 엔의 유통은 금지되었고, B엔이 오키나와에서 유통되는 유일한 통화가 되었다. 이때 7월 16일부터 21일에 걸쳐 일본 엔과 B엔의 교환이 이루어졌다.
+그러나, 미군이 오키나와를 항구적으로 통치하게 되자 [1948년](../Page/1948년.md "wikilink") [7월 21일부터](../Page/7월_21일.md "wikilink") 신·구 일본 엔의 유통은 금지되었고, B엔이 오키나와에서 유통되는 유일한 통화가 되었다. 이때 7월 16일부터 21일에 걸쳐 일본 엔과 B엔의 교환이 이루어졌다.
 
 당초에는 일본 엔 1엔 = 1 B엔이 공식 교환 비율이었지만, 1950년 4월 12일에 일본 엔 3엔 = 1 B엔(1달러 = 120 B엔)으로 변경되어 B엔이 폐지될 때까지 교환은 이 비율로 이루어졌다.
 
@@ -40,14 +40,14 @@ B엔만을 사용하게 됨으로써 [류큐 열도 미국 민정부는](https:/
 
 ## 역사
 
-  - [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink") 6월: 오키나와에서 B엔이 처음으로 유통. 비율은 1달러=10 B엔.
+  - [1945년](../Page/1945년.md "wikilink") 6월: 오키나와에서 B엔이 처음으로 유통. 비율은 1달러=10 B엔.
   - 1945년 9월: 1달러=15 B엔.
-  - [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") 4월 15일: 제1차 통화 교환. B엔이 오키나와의 공식 통화가 됨.
+  - [1946년](../Page/1946년.md "wikilink") 4월 15일: 제1차 통화 교환. B엔이 오키나와의 공식 통화가 됨.
   - 1946년 8월 5일: 제2차 통화 교환. 신·구 일본엔과 병용됨.
-  - [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") 3월 1달러=50 B엔.
-  - [1948년](https://ko.wikipedia.org/wiki/1948년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink")\~21일: 제3차 통화 교환. 일본 엔。구 B엔의 유통이 금지되고 신 B엔으로 교환.
-  - [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink"): 1달러=120 B엔. 이후 폐지될 때까지 이 비율이 사용됨.
-  - [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink")\~20일: 제4차 통화 교환. B엔이 폐지되고 120 B엔을 1달러로 하는 교환이 이루어짐.
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink"): 오키나와가 본토로 귀속됨. 제5차 통화 교환. 1달러를 305엔으로 하는 교환이 이루어짐. 단, [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")에 실시된 변동 환율 상장제의 이행에 따라 달러의 가치가 하락하였고 이 영향에 대해 1972년 2월에 통화 파업이 발생하는 등 혼란이 보였기 때문에, 1971년에 확인되었던 개인의 현금 달러 보유분에 대해서는 정부가 보상하여 360엔으로 하였다. 또한, 5월 20일까지는 달러의 병용이 인정되었다.
+  - [1947년](../Page/1947년.md "wikilink") 3월 1달러=50 B엔.
+  - [1948년](../Page/1948년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink")\~21일: 제3차 통화 교환. 일본 엔。구 B엔의 유통이 금지되고 신 B엔으로 교환.
+  - [1950년](../Page/1950년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink"): 1달러=120 B엔. 이후 폐지될 때까지 이 비율이 사용됨.
+  - [1958년](../Page/1958년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink")\~20일: 제4차 통화 교환. B엔이 폐지되고 120 B엔을 1달러로 하는 교환이 이루어짐.
+  - [1972년](../Page/1972년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink"): 오키나와가 본토로 귀속됨. 제5차 통화 교환. 1달러를 305엔으로 하는 교환이 이루어짐. 단, [1971년](../Page/1971년.md "wikilink")에 실시된 변동 환율 상장제의 이행에 따라 달러의 가치가 하락하였고 이 영향에 대해 1972년 2월에 통화 파업이 발생하는 등 혼란이 보였기 때문에, 1971년에 확인되었던 개인의 현금 달러 보유분에 대해서는 정부가 보상하여 360엔으로 하였다. 또한, 5월 20일까지는 달러의 병용이 인정되었다.
 
 [분류:일본 엔](https://ko.wikipedia.org/wiki/분류:일본_엔 "wikilink")

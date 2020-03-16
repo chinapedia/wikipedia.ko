@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OGLE-TR-182](https://ko.wikipedia.org/wiki/OGLE-TR-182).
 
 
-**OGLE-TR-182**는 [용골자리](https://ko.wikipedia.org/wiki/용골자리 "wikilink")에 있는 [황색 왜성으로](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink"), 지구에서 약 12,700 [광년](https://ko.wikipedia.org/wiki/광년 "wikilink") 떨어진 곳에 있다. 이 별 주위에는 천이법에 의해 발견된 [외계 행성이](https://ko.wikipedia.org/wiki/외계_행성 "wikilink") 존재하며, 이 행성은 2007년 10월에 발견되었다.
+**OGLE-TR-182**는 [용골자리](../Page/용골자리.md "wikilink")에 있는 [황색 왜성으로](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink"), 지구에서 약 12,700 [광년](../Page/광년.md "wikilink") 떨어진 곳에 있다. 이 별 주위에는 천이법에 의해 발견된 [외계 행성이](../Page/외계_행성.md "wikilink") 존재하며, 이 행성은 2007년 10월에 발견되었다.
 
 ## OGLE-TR-182 b
 

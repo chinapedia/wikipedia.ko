@@ -5,13 +5,13 @@
 
 이 별은 또 다른 밝은 별 [용골자리 에타](../Page/용골자리_에타.md "wikilink")(19세기에 밤하늘에서 두 번째로 밝아진 적도 있다)보다는 조금 더 어둡다.
 
-WR 102ka와 용골자리 에타의 밝기 모두 별 주변을 둘러싸고 있는 먼지들 때문에 정확하게 알려져 있지 않다. 이 별들의 실제 밝기를 계산하기 위해서는 이들 먼지로 인해 차단되는 복사 에너지의 양을 고려해야 한다.\[1\] WR 102ka은 수백만 년 이내로 [초신성](https://ko.wikipedia.org/wiki/초신성 "wikilink") 폭발로 일생을 마칠 것으로 보인다.
+WR 102ka와 용골자리 에타의 밝기 모두 별 주변을 둘러싸고 있는 먼지들 때문에 정확하게 알려져 있지 않다. 이 별들의 실제 밝기를 계산하기 위해서는 이들 먼지로 인해 차단되는 복사 에너지의 양을 고려해야 한다.\[1\] WR 102ka은 수백만 년 이내로 [초신성](../Page/초신성.md "wikilink") 폭발로 일생을 마칠 것으로 보인다.
 
 WR 102ka는 [질량](https://ko.wikipedia.org/wiki/질량 "wikilink")이 매우 크기 때문에 처음 가지고 있던 물질의 상당량을 우주 공간으로 [항성풍](../Page/항성풍.md "wikilink") 형태로 날려 보내고 있다.
 
-WR 102ka은 지구에서 봤을 때 [은하핵](https://ko.wikipedia.org/wiki/은하핵 "wikilink") 근처에 있기 때문에 [가시광선](https://ko.wikipedia.org/wiki/가시광선 "wikilink") 영역에서 나오는 빛은 대부분 성간 물질에 의해 차단되어 잘 보이지 않는다. 따라서 이 별을 관측하려면 먼지를 관통할 수 있는 [적외선](../Page/적외선.md "wikilink") 파장을 이용해야 한다.
+WR 102ka은 지구에서 봤을 때 [은하핵](https://ko.wikipedia.org/wiki/은하핵 "wikilink") 근처에 있기 때문에 [가시광선](../Page/가시광선.md "wikilink") 영역에서 나오는 빛은 대부분 성간 물질에 의해 차단되어 잘 보이지 않는다. 따라서 이 별을 관측하려면 먼지를 관통할 수 있는 [적외선](../Page/적외선.md "wikilink") 파장을 이용해야 한다.
 
-[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink") 독일 [포츠담 대학교의](https://ko.wikipedia.org/wiki/포츠담_대학교 "wikilink") L. 오스키노바, W. R. 하만, A. 바니스케는 [스피처 우주 망원경을](https://ko.wikipedia.org/wiki/스피처_우주_망원경 "wikilink") 사용하여 WR 102ka를 3.6, 8, 24 마이크로미터 파장으로 관측했다. WR 102ka는 스피처 망원경 외에도 [2MASS](https://ko.wikipedia.org/wiki/2MASS "wikilink") 프로젝트를 통해 근적외선 J. H 및 K<sub>s</sub> 띠 영역에서 1.2, 1.58, 2.2 마이크로미터 파장으로 관측된 적이 있다.\[2\]
+[2005년](../Page/2005년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") 독일 [포츠담 대학교의](https://ko.wikipedia.org/wiki/포츠담_대학교 "wikilink") L. 오스키노바, W. R. 하만, A. 바니스케는 [스피처 우주 망원경을](https://ko.wikipedia.org/wiki/스피처_우주_망원경 "wikilink") 사용하여 WR 102ka를 3.6, 8, 24 마이크로미터 파장으로 관측했다. WR 102ka는 스피처 망원경 외에도 [2MASS](https://ko.wikipedia.org/wiki/2MASS "wikilink") 프로젝트를 통해 근적외선 J. H 및 K<sub>s</sub> 띠 영역에서 1.2, 1.58, 2.2 마이크로미터 파장으로 관측된 적이 있다.\[2\]
 
 ## 함께 보기
 

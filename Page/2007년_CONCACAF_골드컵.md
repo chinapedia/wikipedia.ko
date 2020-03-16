@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [2007 CONCACAF ](https://ko.wikipedia.org/wiki/2007_CONCACAF_).
 
 
-**2007년 CONCACAF 골드컵**(2007 CONCACAF Gold Cup)은 9번째로 개최된 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [북중미카리브 축구 연맹에](../Page/북중미카리브_축구_연맹.md "wikilink") 소속되어 있는 회원국들이 서로의 실력을 겨루는 축구 대회이다. 결승전에선 [미국이](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") [멕시코를](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") 누르고 우승하였으며, 이 대회는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [6월 6일부터](https://ko.wikipedia.org/wiki/6월_6일 "wikilink") [6월 24일까지](https://ko.wikipedia.org/wiki/6월_24일 "wikilink") 개최되었다.
+**2007년 CONCACAF 골드컵**(2007 CONCACAF Gold Cup)은 9번째로 개최된 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [북중미카리브 축구 연맹에](../Page/북중미카리브_축구_연맹.md "wikilink") 소속되어 있는 회원국들이 서로의 실력을 겨루는 축구 대회이다. 결승전에선 [미국이](../Page/미국_축구_국가대표팀.md "wikilink") [멕시코를](../Page/멕시코_축구_국가대표팀.md "wikilink") 누르고 우승하였으며, 이 대회는 [미국](../Page/미국.md "wikilink")에서 [2007년](../Page/2007년.md "wikilink") [6월 6일부터](../Page/6월_6일.md "wikilink") [6월 24일까지](../Page/6월_24일.md "wikilink") 개최되었다.
 
-이 대회부터 초청제를 폐지하여 다른 대륙 국가를 초청하지 않고, 3개의 조로 나뉘어 치러졌으며, [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink") 회원국이 아닌 [프랑스](../Page/프랑스.md "wikilink")령의 [과들루프 축구 국가대표팀이](../Page/과들루프_축구_국가대표팀.md "wikilink") 준결승전에 진출하는 돌풍을 연출했다. 우승 팀인 [미국은](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 열리는 [2009년 FIFA 컨페더레이션스컵에](../Page/2009년_FIFA_컨페더레이션스컵.md "wikilink") 북중미 대표로 출전한다.
+이 대회부터 초청제를 폐지하여 다른 대륙 국가를 초청하지 않고, 3개의 조로 나뉘어 치러졌으며, [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink") 회원국이 아닌 [프랑스](../Page/프랑스.md "wikilink")령의 [과들루프 축구 국가대표팀이](../Page/과들루프_축구_국가대표팀.md "wikilink") 준결승전에 진출하는 돌풍을 연출했다. 우승 팀인 [미국은](../Page/미국_축구_국가대표팀.md "wikilink") [2009년](../Page/2009년.md "wikilink")에 열리는 [2009년 FIFA 컨페더레이션스컵에](../Page/2009년_FIFA_컨페더레이션스컵.md "wikilink") 북중미 대표로 출전한다.
 
 ## 개최 도시 및 경기장
 
-  - [일리노이주](https://ko.wikipedia.org/wiki/일리노이주 "wikilink"), [시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink") - [솔저 필드](../Page/솔저_필드.md "wikilink") (6월 21일부터 6월 24일까지 준결승전 두 경기와 결승전이 열렸다.)
-  - [매사추세츠주](https://ko.wikipedia.org/wiki/매사추세츠주 "wikilink"), [폭스버러](https://ko.wikipedia.org/wiki/폭스버러 "wikilink") - [질레트 스타디움](https://ko.wikipedia.org/wiki/질레트_스타디움 "wikilink") (B조의 마지막 두 경기와 준준결승전 두 경기가 열렸다.)
-  - [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink"), [휴스턴](../Page/휴스턴.md "wikilink") - [릴라이언트 스타디움](https://ko.wikipedia.org/wiki/릴라이언트_스타디움 "wikilink") (C조의 마지막 두 경기와 준준결승전 두 경기가 열렸다.)
-  - [플로리다주](https://ko.wikipedia.org/wiki/플로리다주 "wikilink"), [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink") - [마이애미 오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink") (A조의 모든 경기가 열렸다.)
-  - [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink"), [이스트러더퍼드](https://ko.wikipedia.org/wiki/이스트러더퍼드 "wikilink") - [자이언츠 스타디움](https://ko.wikipedia.org/wiki/자이언츠_스타디움 "wikilink") (C조의 첫 네 경기가 열렸다.)
-  - [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink"), [카슨](https://ko.wikipedia.org/wiki/카슨_\(캘리포니아주\) "wikilink") - [홈 디포 센터](https://ko.wikipedia.org/wiki/홈_디포_센터 "wikilink") (B조의 첫 네 경기가 열렸다.)
+  - [일리노이주](../Page/일리노이주.md "wikilink"), [시카고](../Page/시카고.md "wikilink") - [솔저 필드](../Page/솔저_필드.md "wikilink") (6월 21일부터 6월 24일까지 준결승전 두 경기와 결승전이 열렸다.)
+  - [매사추세츠주](../Page/매사추세츠주.md "wikilink"), [폭스버러](../Page/폭스버러.md "wikilink") - [질레트 스타디움](../Page/질레트_스타디움.md "wikilink") (B조의 마지막 두 경기와 준준결승전 두 경기가 열렸다.)
+  - [텍사스주](../Page/텍사스주.md "wikilink"), [휴스턴](../Page/휴스턴.md "wikilink") - [릴라이언트 스타디움](https://ko.wikipedia.org/wiki/릴라이언트_스타디움 "wikilink") (C조의 마지막 두 경기와 준준결승전 두 경기가 열렸다.)
+  - [플로리다주](../Page/플로리다주.md "wikilink"), [마이애미](../Page/마이애미.md "wikilink") - [마이애미 오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink") (A조의 모든 경기가 열렸다.)
+  - [뉴저지주](../Page/뉴저지주.md "wikilink"), [이스트러더퍼드](https://ko.wikipedia.org/wiki/이스트러더퍼드 "wikilink") - [자이언츠 스타디움](../Page/자이언츠_스타디움.md "wikilink") (C조의 첫 네 경기가 열렸다.)
+  - [캘리포니아주](../Page/캘리포니아주.md "wikilink"), [카슨](https://ko.wikipedia.org/wiki/카슨_\(캘리포니아주\) "wikilink") - [홈 디포 센터](https://ko.wikipedia.org/wiki/홈_디포_센터 "wikilink") (B조의 첫 네 경기가 열렸다.)
 
 ## 예선
 
@@ -47,7 +47,7 @@
 
 ### A조
 
-[플로리다주](https://ko.wikipedia.org/wiki/플로리다주 "wikilink") [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink")에 위치한 [오렌지 볼에서](../Page/마이애미_오렌지_볼.md "wikilink") 열렸다.
+[플로리다주](../Page/플로리다주.md "wikilink") [마이애미](../Page/마이애미.md "wikilink")에 위치한 [오렌지 볼에서](../Page/마이애미_오렌지_볼.md "wikilink") 열렸다.
 
 <table>
 <thead>
@@ -129,7 +129,7 @@
 
 ### B조
 
-[캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [카슨의](https://ko.wikipedia.org/wiki/카슨_\(캘리포니아주\) "wikilink") [홈 디포 센터와](https://ko.wikipedia.org/wiki/홈_디포_센터 "wikilink") [매사추세츠주](https://ko.wikipedia.org/wiki/매사추세츠주 "wikilink") [폭스버러](https://ko.wikipedia.org/wiki/폭스버러 "wikilink")의 [질레트 스타디움에서](https://ko.wikipedia.org/wiki/질레트_스타디움 "wikilink") 열렸다.
+[캘리포니아주](../Page/캘리포니아주.md "wikilink") [카슨의](https://ko.wikipedia.org/wiki/카슨_\(캘리포니아주\) "wikilink") [홈 디포 센터와](https://ko.wikipedia.org/wiki/홈_디포_센터 "wikilink") [매사추세츠주](../Page/매사추세츠주.md "wikilink") [폭스버러](../Page/폭스버러.md "wikilink")의 [질레트 스타디움에서](../Page/질레트_스타디움.md "wikilink") 열렸다.
 
 <table>
 <thead>
@@ -209,7 +209,7 @@
 
 ### C조
 
-[뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink") [이스트러더퍼드](https://ko.wikipedia.org/wiki/이스트러더퍼드 "wikilink")의 [자이언츠 스타디움과](https://ko.wikipedia.org/wiki/자이언츠_스타디움 "wikilink") [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink") [휴스턴](../Page/휴스턴.md "wikilink")의 [릴라이언트 스타디움에서](https://ko.wikipedia.org/wiki/릴라이언트_스타디움 "wikilink") 열렸다.
+[뉴저지주](../Page/뉴저지주.md "wikilink") [이스트러더퍼드](https://ko.wikipedia.org/wiki/이스트러더퍼드 "wikilink")의 [자이언츠 스타디움과](../Page/자이언츠_스타디움.md "wikilink") [텍사스주](../Page/텍사스주.md "wikilink") [휴스턴](../Page/휴스턴.md "wikilink")의 [릴라이언트 스타디움에서](https://ko.wikipedia.org/wiki/릴라이언트_스타디움 "wikilink") 열렸다.
 
 <table>
 <thead>
@@ -387,7 +387,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_축구_국가대표팀" title="wikilink">미국</a></strong><br />
+<strong><a href="../Page/미국_축구_국가대표팀.md" title="wikilink">미국</a></strong><br />
 <strong>4번째 우승</strong></p></td>
 </tr>
 </tbody>
@@ -406,7 +406,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카를로스_파본" title="wikilink">카를로스 파본</a><br />
+<td><p><a href="../Page/카를로스_파본.md" title="wikilink">카를로스 파본</a><br />
 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/줄리안_데_구즈만" title="wikilink">줄리안 데 구즈만</a><br />
 </p></td>
@@ -442,7 +442,7 @@
 |align=left valign=top|  [사무엘 카바예로](https://ko.wikipedia.org/wiki/사무엘_카바예로 "wikilink")
  [폴 스톨테리](https://ko.wikipedia.org/wiki/폴_스톨테리 "wikilink")
 |align=left valign=top|  [다마커스 비즐리](../Page/다마커스_비즐리.md "wikilink")
- [안드레스 과르다도](https://ko.wikipedia.org/wiki/안드레스_과르다도 "wikilink")
+ [안드레스 과르다도](../Page/안드레스_과르다도.md "wikilink")
 |align=left valign=top|  [조슬랭 앙글로마](https://ko.wikipedia.org/wiki/조슬랭_앙글로마 "wikilink")
  [랜던 도너번](../Page/랜던_도너번.md "wikilink")
 |}
@@ -453,7 +453,7 @@
 
 <!-- end list -->
 
-  - [카를로스 파본](https://ko.wikipedia.org/wiki/카를로스_파본 "wikilink")
+  - [카를로스 파본](../Page/카를로스_파본.md "wikilink")
 
 <!-- end list -->
 
@@ -543,11 +543,11 @@
 
   - [네리 카스티요](https://ko.wikipedia.org/wiki/네리_카스티요 "wikilink")
 
-  - [안드레스 과르다도](https://ko.wikipedia.org/wiki/안드레스_과르다도 "wikilink")
+  - [안드레스 과르다도](../Page/안드레스_과르다도.md "wikilink")
 
-  - [파벨 파르도](https://ko.wikipedia.org/wiki/파벨_파르도 "wikilink")
+  - [파벨 파르도](../Page/파벨_파르도.md "wikilink")
 
-  - [카를로스 살시도](https://ko.wikipedia.org/wiki/카를로스_살시도 "wikilink")
+  - [카를로스 살시도](../Page/카를로스_살시도.md "wikilink")
 
   - [카를로스 리베라](https://ko.wikipedia.org/wiki/카를로스_리베라_\(파나마\) "wikilink")
 
@@ -555,11 +555,11 @@
 
   - [에롤 맥팔레인](https://ko.wikipedia.org/wiki/에롤_맥팔레인 "wikilink")
 
-  - [베니 페일하버](https://ko.wikipedia.org/wiki/베니_페일하버 "wikilink")
+  - [베니 페일하버](../Page/베니_페일하버.md "wikilink")
 
-  - [카를로스 보카네그라](https://ko.wikipedia.org/wiki/카를로스_보카네그라 "wikilink")
+  - [카를로스 보카네그라](../Page/카를로스_보카네그라.md "wikilink")
 
-  - [브라이언 칭](https://ko.wikipedia.org/wiki/브라이언_칭 "wikilink")
+  - [브라이언 칭](../Page/브라이언_칭.md "wikilink")
 
   - [클린트 뎀프시](../Page/클린트_뎀프시.md "wikilink")
 
@@ -573,7 +573,7 @@
 
 ### 쿠바 선수들의 팀 이탈
 
-쿠바 대표팀의 [공격수](https://ko.wikipedia.org/wiki/공격수 "wikilink") [레스테르 모레와](https://ko.wikipedia.org/wiki/레스테르_모레 "wikilink") [미드필더](../Page/미드필더.md "wikilink") [오스발도 알론소가](https://ko.wikipedia.org/wiki/오스발도_알론소 "wikilink") 팀을 이탈해, [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink")의 [이스트러더퍼드](https://ko.wikipedia.org/wiki/이스트러더퍼드 "wikilink")에서 쇼핑을 한 것으로 드러났다.
+쿠바 대표팀의 [공격수](../Page/공격수.md "wikilink") [레스테르 모레와](https://ko.wikipedia.org/wiki/레스테르_모레 "wikilink") [미드필더](../Page/미드필더.md "wikilink") [오스발도 알론소가](https://ko.wikipedia.org/wiki/오스발도_알론소 "wikilink") 팀을 이탈해, [뉴저지주](../Page/뉴저지주.md "wikilink")의 [이스트러더퍼드](https://ko.wikipedia.org/wiki/이스트러더퍼드 "wikilink")에서 쇼핑을 한 것으로 드러났다.
 
 ## 최종 순위
 

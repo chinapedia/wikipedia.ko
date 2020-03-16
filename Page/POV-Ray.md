@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [POV-Ray](https://ko.wikipedia.org/wiki/POV-Ray).
 
 
-**POV-Ray**는 다양한 컴퓨터 플랫폼에서 사용할 수 있는 [레이 트레이싱](https://ko.wikipedia.org/wiki/레이_트레이싱 "wikilink") 프로그램이다. 원래는 David Kirk Buck와 Aaron A. Collins가 작성한 [DKBTrace](https://ko.wikipedia.org/wiki/DKBTrace "wikilink") 기반이었다. 만든이 Alexander Enzmann가 공헌하였던 초기 Polyray 레이트레이서로부터의 영향도 있었다. POV-Ray는 소스 코드가 공개되어 있는 [자유 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink").
+**POV-Ray**는 다양한 컴퓨터 플랫폼에서 사용할 수 있는 [레이 트레이싱](https://ko.wikipedia.org/wiki/레이_트레이싱 "wikilink") 프로그램이다. 원래는 David Kirk Buck와 Aaron A. Collins가 작성한 [DKBTrace](https://ko.wikipedia.org/wiki/DKBTrace "wikilink") 기반이었다. 만든이 Alexander Enzmann가 공헌하였던 초기 Polyray 레이트레이서로부터의 영향도 있었다. POV-Ray는 소스 코드가 공개되어 있는 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
 
 ## 기능
 
@@ -10,12 +10,12 @@
   - 매크로와 루프를 지원하는 [튜링 완전](https://ko.wikipedia.org/wiki/튜링_완전 "wikilink") 장면 서술 언어 (SDL)\[1\]
   - 미리 준비된 장면, 텍스처, 객체
   - 수많은 기하학 원시 데이터와 [CSG](https://ko.wikipedia.org/wiki/CSG "wikilink")(구조적 고체 기하학) 지원
-  - 여러 종류의 [광원](https://ko.wikipedia.org/wiki/빛 "wikilink")
-  - [안개](../Page/안개.md "wikilink"), 매체([연기](https://ko.wikipedia.org/wiki/연기_\(화학\) "wikilink"), [구름](https://ko.wikipedia.org/wiki/구름 "wikilink"))와 같은 대기 효과
+  - 여러 종류의 [광원](../Page/빛.md "wikilink")
+  - [안개](../Page/안개.md "wikilink"), 매체([연기](https://ko.wikipedia.org/wiki/연기_\(화학\) "wikilink"), [구름](../Page/구름.md "wikilink"))와 같은 대기 효과
   - [포톤 매핑을](https://ko.wikipedia.org/wiki/포톤_매핑 "wikilink") 사용한 [반사](https://ko.wikipedia.org/wiki/반사 "wikilink"), [굴절](../Page/굴절.md "wikilink"), [화선](../Page/화선.md "wikilink")
   - [라디오시티](https://ko.wikipedia.org/wiki/라디오시티 "wikilink") (radiosity)
-  - [주름](https://ko.wikipedia.org/wiki/주름 "wikilink"), 울퉁불퉁한 모습, 물결과 같은 표면 패턴 ([절차적 텍스처와](https://ko.wikipedia.org/wiki/절차적_텍스처 "wikilink") [범프 매핑](https://ko.wikipedia.org/wiki/범프_매핑 "wikilink") 사용)
-  - [TGA](https://ko.wikipedia.org/wiki/TGA "wikilink"), [PNG](https://ko.wikipedia.org/wiki/PNG "wikilink"), [JPEG](https://ko.wikipedia.org/wiki/JPEG "wikilink") (입력만)로 [텍스처](https://ko.wikipedia.org/wiki/텍스처 "wikilink"), 랜더 출력 지원
+  - [주름](https://ko.wikipedia.org/wiki/주름 "wikilink"), 울퉁불퉁한 모습, 물결과 같은 표면 패턴 ([절차적 텍스처와](https://ko.wikipedia.org/wiki/절차적_텍스처 "wikilink") [범프 매핑](../Page/범프_매핑.md "wikilink") 사용)
+  - [TGA](https://ko.wikipedia.org/wiki/TGA "wikilink"), [PNG](../Page/PNG.md "wikilink"), [JPEG](../Page/JPEG.md "wikilink") (입력만)로 [텍스처](https://ko.wikipedia.org/wiki/텍스처 "wikilink"), 랜더 출력 지원
   - 확장된 사용자 문서
 
 ## SDL로 작성한 프로그래밍 예

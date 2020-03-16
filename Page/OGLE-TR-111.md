@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [OGLE-TR-111](https://ko.wikipedia.org/wiki/OGLE-TR-111).
 
 
-**OGLE-TR-111**은 [분광형](https://ko.wikipedia.org/wiki/분광형 "wikilink")이 불분명한 항성([오렌지색 왜성](https://ko.wikipedia.org/wiki/오렌지색_왜성 "wikilink") 또는 [황색 왜성](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink") 둘 중 하나일 것으로 생각된다)으로, [용골자리](https://ko.wikipedia.org/wiki/용골자리 "wikilink")에 있으며, 지구에서 약 5,000[광년](https://ko.wikipedia.org/wiki/광년 "wikilink") 떨어져 있다. 이 별의 [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 15.55로 종전의 어떤 [성표](https://ko.wikipedia.org/wiki/성표 "wikilink")에도 실려 있지 않았다.
+**OGLE-TR-111**은 [분광형](https://ko.wikipedia.org/wiki/분광형 "wikilink")이 불분명한 항성([오렌지색 왜성](https://ko.wikipedia.org/wiki/오렌지색_왜성 "wikilink") 또는 [황색 왜성](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink") 둘 중 하나일 것으로 생각된다)으로, [용골자리](../Page/용골자리.md "wikilink")에 있으며, 지구에서 약 5,000[광년](../Page/광년.md "wikilink") 떨어져 있다. 이 별의 [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 15.55로 종전의 어떤 [성표](../Page/성표.md "wikilink")에도 실려 있지 않았다.
 
-2007년 기준으로 두 개의 [외계 행성이](https://ko.wikipedia.org/wiki/외계_행성 "wikilink") 이 별을 돌고 있는 것으로 확인되었는데, 추가적인 행성들의 존재를 입증하려면 자료의 확보가 필요하다. 두 행성 모두 통과법을 이용하여 발견되었다.
+2007년 기준으로 두 개의 [외계 행성이](../Page/외계_행성.md "wikilink") 이 별을 돌고 있는 것으로 확인되었는데, 추가적인 행성들의 존재를 입증하려면 자료의 확보가 필요하다. 두 행성 모두 통과법을 이용하여 발견되었다.
 
 ## 행성계
 
@@ -16,7 +16,7 @@
 ## 함께 보기
 
   - [OGLE](https://ko.wikipedia.org/wiki/OGLE "wikilink")
-  - [OGLE-2005-BLG-390L](https://ko.wikipedia.org/wiki/OGLE-2005-BLG-390L "wikilink")
+  - [OGLE-2005-BLG-390L](../Page/OGLE-2005-BLG-390L.md "wikilink")
 
 ## 외부 링크
 

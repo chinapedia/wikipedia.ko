@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OGLE-TR-10 b](https://ko.wikipedia.org/wiki/OGLE-TR-10_b).
 
 
-**OGLE-TR-10 b**는 [OGLE-TR-10](../Page/OGLE-TR-10.md "wikilink") 주위를 돌고 있는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink").
+**OGLE-TR-10 b**는 [OGLE-TR-10](../Page/OGLE-TR-10.md "wikilink") 주위를 돌고 있는 [외계 행성이다](../Page/외계_행성.md "wikilink").
 
 이 행성은 [OGLE](https://ko.wikipedia.org/wiki/OGLE "wikilink") 연구를 통해 2002년 처음으로 발견되었다. 어머니 항성 [OGLE-TR-10](../Page/OGLE-TR-10.md "wikilink")은 3일 주기로 약간씩 어두워지고 있었다. 광도곡선은 통과법을 통해 최초로 발견되었던 [HD 209458b과](https://ko.wikipedia.org/wiki/HD_209458b "wikilink") 비슷했다. 그러나 [적색 왜성이나](https://ko.wikipedia.org/wiki/적색_왜성 "wikilink") [갈색 왜성이](https://ko.wikipedia.org/wiki/갈색_왜성 "wikilink") 행성처럼 보일 수도 있었기 때문에 [시선 속도법을](https://ko.wikipedia.org/wiki/시선_속도법 "wikilink") 이용해서 질량을 측정할 필요가 있었다. 2004년 말 OGLE-TR-10b는 OGLE이 발견한 다섯 번째 행성이 되었다.
 

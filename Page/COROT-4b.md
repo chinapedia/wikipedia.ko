@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [COROT-4b](https://ko.wikipedia.org/wiki/COROT-4b).
 
 
-**COROT-Exo-4b**는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink") [COROT-Exo-4](https://ko.wikipedia.org/wiki/COROT-Exo-4 "wikilink")를 돌고 있는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink").\[1\]\[2\] 이 행성은 2008년 COROT 미션 수행 중 발견되었다.
+**COROT-Exo-4b**는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink") [COROT-Exo-4](https://ko.wikipedia.org/wiki/COROT-Exo-4 "wikilink")를 돌고 있는 [외계 행성이다](../Page/외계_행성.md "wikilink").\[1\]\[2\] 이 행성은 2008년 COROT 미션 수행 중 발견되었다.
 
 ## 물리적 특징
 

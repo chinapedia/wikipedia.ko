@@ -5,7 +5,7 @@
 
 ## 개요
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 1일부터](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") [니켈로디언 코리아와](../Page/니켈로디언_\(대한민국\).md "wikilink") 함께 [SBS 미디어넷에](https://ko.wikipedia.org/wiki/SBS_미디어넷 "wikilink") 속하게 되어 채널명이 SBS MTV로 변경되었다. SBS MTV의 편성은 MTV에서 만든 외국 프로그램, SBS MTV에서 만든 프로그램, 음악 프로그램(The Show, The Stage) 등으로 편성된다. 그 외에도 [SBS 플러스의](../Page/SBS_플러스.md "wikilink") 자체 편성 프로그램도 물론 편성되고 있다.
+[2011년](../Page/2011년.md "wikilink") [11월 1일부터](../Page/11월_1일.md "wikilink") [니켈로디언 코리아와](../Page/니켈로디언_\(대한민국\).md "wikilink") 함께 [SBS 미디어넷에](../Page/SBS_미디어넷.md "wikilink") 속하게 되어 채널명이 SBS MTV로 변경되었다. SBS MTV의 편성은 MTV에서 만든 외국 프로그램, SBS MTV에서 만든 프로그램, 음악 프로그램(The Show, The Stage) 등으로 편성된다. 그 외에도 [SBS 플러스의](../Page/SBS_플러스.md "wikilink") 자체 편성 프로그램도 물론 편성되고 있다.
 
 ## 연혁
 
@@ -14,8 +14,8 @@
   -
   -
   -
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") : 한국 SBS 와 미국 Viacom이 합작하여 SBS Viacom 설립 및 SBS MTV로 채널명 변경 재개국.\[1\]
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") : HD 방송 개시.
+  - [2011년](../Page/2011년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 한국 SBS 와 미국 Viacom이 합작하여 SBS Viacom 설립 및 SBS MTV로 채널명 변경 재개국.\[1\]
+  - [2012년](../Page/2012년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") : HD 방송 개시.
 
 ## 프로그램
 
@@ -25,7 +25,7 @@
 
 [SBS](../Page/SBS.md "wikilink")와 SBS 미디어넷 채널의 프로그램 교차 편성
 
-  - [SBS 인기가요](https://ko.wikipedia.org/wiki/SBS_인기가요 "wikilink") - [SBS](https://ko.wikipedia.org/wiki/SBS_TV "wikilink")
+  - [SBS 인기가요](../Page/SBS_인기가요.md "wikilink") - [SBS](../Page/SBS_TV.md "wikilink")
   - 당신에게 유리한밤 야간개장 - [SBS Plus](https://ko.wikipedia.org/wiki/SBS_Plus "wikilink")
   - 외식하는 날 - [SBS Plus](https://ko.wikipedia.org/wiki/SBS_Plus "wikilink")
   - 슈퍼모델 서바이벌 - [SBS Plus](https://ko.wikipedia.org/wiki/SBS_Plus "wikilink")
@@ -139,4 +139,4 @@
   -
 [분류:SBS의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_네트워크 "wikilink") [분류:MTV](https://ko.wikipedia.org/wiki/분류:MTV "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:음악 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:음악_텔레비전_네트워크 "wikilink") [분류:SBS 미디어넷](https://ko.wikipedia.org/wiki/분류:SBS_미디어넷 "wikilink") [분류:2011년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2011년_설립된_텔레비전_방송국과_채널 "wikilink")
 
-1.  기존 MTV 코리아, 니켈로디언 코리아 소속 직원들은 해고없이 그대로 [SBS 미디어넷로](https://ko.wikipedia.org/wiki/SBS_미디어넷 "wikilink") 이적하여 계열사로 소속하게 된다.
+1.  기존 MTV 코리아, 니켈로디언 코리아 소속 직원들은 해고없이 그대로 [SBS 미디어넷로](../Page/SBS_미디어넷.md "wikilink") 이적하여 계열사로 소속하게 된다.

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ ! DS  ](https://ko.wikipedia.org/wiki/_!_DS__).
 
 
-《**매일매일 더욱더\! DS 두뇌 트레이닝**》(, )은 [닌텐도 DS를](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 위해 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")에서 개발, 배포한 두뇌 게임으로 [매일매일 DS 두뇌 트레이닝](../Page/매일매일_DS_두뇌_트레이닝.md "wikilink") 후속 소프트웨어이다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 가장 먼저 발매되었고, 그 뒤 [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink"), [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink"), [북미에](https://ko.wikipedia.org/wiki/북아메리카 "wikilink") 발매 된 후 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 2008년 8월 2일에 발매되었으며, 가격은 28,000원이다.\[1\]
+《**매일매일 더욱더\! DS 두뇌 트레이닝**》(, )은 [닌텐도 DS를](../Page/닌텐도_DS.md "wikilink") 위해 [닌텐도](../Page/닌텐도.md "wikilink")에서 개발, 배포한 두뇌 게임으로 [매일매일 DS 두뇌 트레이닝](../Page/매일매일_DS_두뇌_트레이닝.md "wikilink") 후속 소프트웨어이다. [일본](../Page/일본.md "wikilink")에서 가장 먼저 발매되었고, 그 뒤 [유럽](../Page/유럽.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [북미에](../Page/북아메리카.md "wikilink") 발매 된 후 [대한민국](../Page/대한민국.md "wikilink")에서 2008년 8월 2일에 발매되었으며, 가격은 28,000원이다.\[1\]
 
-매일매일 DS 더욱 더\! 두뇌 트레이닝 한글판\[2\]은 소프트웨어는 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink")판과 큰 차이가 없으나, ‘한자 기억하기’나 ‘한자 받아쓰기’, ‘사자성어’ 등의 한자 관련 트레이닝은 한글판에서 아예 빠지기도 하였다.\[3\]
+매일매일 DS 더욱 더\! 두뇌 트레이닝 한글판\[2\]은 소프트웨어는 [일본어](../Page/일본어.md "wikilink")판과 큰 차이가 없으나, ‘한자 기억하기’나 ‘한자 받아쓰기’, ‘사자성어’ 등의 한자 관련 트레이닝은 한글판에서 아예 빠지기도 하였다.\[3\]
 
 ## 트레이닝과 뇌연령 항목
 

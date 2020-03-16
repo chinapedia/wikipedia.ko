@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ AM3](https://ko.wikipedia.org/wiki/_AM3).
 
 
-**소켓 AM3**()는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")의 [소켓 AM2+를](../Page/소켓_AM2+.md "wikilink") 잇는 [마이크로프로세서](https://ko.wikipedia.org/wiki/마이크로프로세서 "wikilink") 소켓으로 AM2+에서 [DDR3 SDRAM을](../Page/DDR3_SDRAM.md "wikilink") 지원하도록 강화된 소켓이다.
+**소켓 AM3**()는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")의 [소켓 AM2+를](../Page/소켓_AM2+.md "wikilink") 잇는 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink") 소켓으로 AM2+에서 [DDR3 SDRAM을](../Page/DDR3_SDRAM.md "wikilink") 지원하도록 강화된 소켓이다.
 
 ## 하위 소켓과의 호환성
 
@@ -17,7 +17,7 @@
 ### 지원 프로세서
 
   - [DDR3](https://ko.wikipedia.org/wiki/DDR3 "wikilink") 지원 [페넘II](https://ko.wikipedia.org/wiki/페넘II "wikilink") 시리즈
-  - [애슬론 II](https://ko.wikipedia.org/wiki/애슬론_II "wikilink") 시리즈
+  - [애슬론 II](../Page/애슬론_II.md "wikilink") 시리즈
   - [옵테론](../Page/옵테론.md "wikilink") (1P 서버용)
 
 ## 소켓 AM3+

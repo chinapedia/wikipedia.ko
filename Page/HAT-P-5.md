@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAT-P-5](https://ko.wikipedia.org/wiki/HAT-P-5).
 
 
-**HAT-P-5**는 [거문고자리](https://ko.wikipedia.org/wiki/거문고자리 "wikilink")에 있는, 지구에서 약 1,100광년 떨어져 있는 [겉보기 등급](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 12등성의 항성이다. 분광형은 G이고 질량은 태양의 116퍼센트, 반지름은 태양보다 근소하게 더 크며 표면 온도는 200켈빈 더 뜨겁다. 나이는 26억 년 정도이다.\[1\]\[2\]
+**HAT-P-5**는 [거문고자리](../Page/거문고자리.md "wikilink")에 있는, 지구에서 약 1,100광년 떨어져 있는 [겉보기 등급](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 12등성의 항성이다. 분광형은 G이고 질량은 태양의 116퍼센트, 반지름은 태양보다 근소하게 더 크며 표면 온도는 200켈빈 더 뜨겁다. 나이는 26억 년 정도이다.\[1\]\[2\]
 
 ## 행성계
 

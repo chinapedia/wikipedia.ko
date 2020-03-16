@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OGLE-TR-111b](https://ko.wikipedia.org/wiki/OGLE-TR-111b).
 
 
-**OGLE-TR-111b**는 [용골자리](https://ko.wikipedia.org/wiki/용골자리 "wikilink") 방향으로 지구로부터 약 5,000광년 떨어진 곳에 있는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink"). 어머니 항성은 [OGLE-TR-111](../Page/OGLE-TR-111.md "wikilink")로, 지금까지 이 별을 도는 것으로 확인된 행성은 b 하나뿐이다(그러나 두 번째 행성이 있을 확률이 높다).
+**OGLE-TR-111b**는 [용골자리](../Page/용골자리.md "wikilink") 방향으로 지구로부터 약 5,000광년 떨어진 곳에 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 어머니 항성은 [OGLE-TR-111](../Page/OGLE-TR-111.md "wikilink")로, 지금까지 이 별을 도는 것으로 확인된 행성은 b 하나뿐이다(그러나 두 번째 행성이 있을 확률이 높다).
 
 2002년 OGLE 연구 프로젝트는 항성 OGLE-TR-111의 빛이 4일 주기로 조금씩 약해지는 현상을 발견했다. 이는 행성 크기 천체가 별과 우리 사이 시야를 가려 별에서 나오는 빛 일부를 차단하기 때문이었다. 그러나 행성체의 질량을 구할 수 없었기 때문에 이 천체가 행성인지 아니면 더 무거운 [갈색 왜성이나](https://ko.wikipedia.org/wiki/갈색_왜성 "wikilink") [적색 왜성인지를](https://ko.wikipedia.org/wiki/적색_왜성 "wikilink") 판별할 수 없었다.\[1\] 2004년, [도플러 분광법을](../Page/도플러_효과.md "wikilink") 통해 이 천체는 갈색 왜성이나 적색 왜성이 아닌, 가스 행성임을 밝혀냈다.\[2\]
 

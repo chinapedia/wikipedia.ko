@@ -29,11 +29,11 @@
 
 <!-- end list -->
 
-  - 우사미 하루 () - 성우 - [카와시마 리노](https://ko.wikipedia.org/wiki/미즈사와_케이 "wikilink") / 미즈사와 케이 (PC판, 드라마CD, WEB라디오판 동일)
+  - 우사미 하루 () - 성우 - [카와시마 리노](../Page/미즈사와_케이.md "wikilink") / 미즈사와 케이 (PC판, 드라마CD, WEB라디오판 동일)
 
 <!-- end list -->
 
-  - 아자이 곤조 () - 성우 - [居口伝衛門](https://ko.wikipedia.org/wiki/이나다_테츠 "wikilink")
+  - 아자이 곤조 () - 성우 - [居口伝衛門](../Page/이나다_테츠.md "wikilink")
 
 <!-- end list -->
 

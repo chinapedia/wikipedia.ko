@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA  20 ](https://ko.wikipedia.org/wiki/FIFA__20_).
 
 
-**FIFA 선정 20세기 클럽**은 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에서 선정한 [20세기](https://ko.wikipedia.org/wiki/20세기 "wikilink")를 대표하는 최고의 클럽팀에서 주어지는 상이다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") [로마](https://ko.wikipedia.org/wiki/로마 "wikilink")에서 열렸다.
+**FIFA 선정 20세기 클럽**은 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에서 선정한 [20세기](../Page/20세기.md "wikilink")를 대표하는 최고의 클럽팀에서 주어지는 상이다. [2000년](../Page/2000년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") [로마](../Page/로마.md "wikilink")에서 열렸다.
 
 ## 목록
 
@@ -23,13 +23,13 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td></td>
 <td><p>45.35 %</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 <td></td>
 <td><p>9.69 %</p></td>
 </tr>
@@ -47,7 +47,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/AFC_아약스" title="wikilink">아약스 암스테르담</a></p></td>
+<td><p><a href="../Page/AFC_아약스.md" title="wikilink">아약스 암스테르담</a></p></td>
 <td></td>
 <td><p>5.10 %</p></td>
 </tr>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td></td>
 <td><p>2.55 %</p></td>
 </tr>
@@ -89,7 +89,7 @@
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아스널_FC" title="wikilink">아스널</a></p></td>
+<td><p><a href="../Page/아스널_FC.md" title="wikilink">아스널</a></p></td>
 <td></td>
 <td><p>1.02 %</p></td>
 </tr>
@@ -125,7 +125,7 @@
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리버풀_FC" title="wikilink">리버풀 FC</a></p></td>
+<td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀 FC</a></p></td>
 <td></td>
 <td><p>1.02 %</p></td>
 </tr>

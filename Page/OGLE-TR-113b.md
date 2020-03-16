@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OGLE-TR-113b](https://ko.wikipedia.org/wiki/OGLE-TR-113b).
 
 
-**OGLE-TR-113b**는 [용골자리](https://ko.wikipedia.org/wiki/용골자리 "wikilink") 방향으로 지구로부터 약 5,000광년 떨어진 곳에 있는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink"). 이 행성은 분광형 K로 추정되는 별 [OGLE-TR-113](../Page/OGLE-TR-113.md "wikilink") 주위를 돌고 있다.
+**OGLE-TR-113b**는 [용골자리](../Page/용골자리.md "wikilink") 방향으로 지구로부터 약 5,000광년 떨어진 곳에 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 이 행성은 분광형 K로 추정되는 별 [OGLE-TR-113](../Page/OGLE-TR-113.md "wikilink") 주위를 돌고 있다.
 
 2002년 OGLE은 OGLE-TR-113이 1.4일 주기로 어두워지는 것을 감지해냈으며, 여기서 행성급 천체가 항성 앞을 지나가면서 빛을 가린다는 사실을 알아냈다.\[1\] [시선 속도법으로는](https://ko.wikipedia.org/wiki/시선속도 "wikilink") 행성의 궤도경사각을 알 수 없기 때문에, 이 천체가 실제 행성인지 아니면 갈색 왜성 또는 질량 작은 적색 왜성인지를 정확히 알 수 없다. 그러나 2004년 이 천체는 항성 앞을 지나가는 행성임이 입증되었다.\[2\]
 

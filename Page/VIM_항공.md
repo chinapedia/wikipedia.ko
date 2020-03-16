@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [VIM ](https://ko.wikipedia.org/wiki/VIM_).
 
 
-**VIM 항공** (2000-2017) 은 [러시아](../Page/러시아.md "wikilink")의 항공 회사로 현재 운영하고 있는 것은 임대 계약과 국제선 전세기 스케줄 뿐만 아니라 여객 및 화물 서비스를 취급한다. [허브 공항은](../Page/허브_공항.md "wikilink") [모스크바](https://ko.wikipedia.org/wiki/모스크바 "wikilink") [도모데도보 국제공항을](https://ko.wikipedia.org/wiki/도모데도보_국제공항 "wikilink") 사용한다.
+**VIM 항공** (2000-2017) 은 [러시아](../Page/러시아.md "wikilink")의 항공 회사로 현재 운영하고 있는 것은 임대 계약과 국제선 전세기 스케줄 뿐만 아니라 여객 및 화물 서비스를 취급한다. [허브 공항은](../Page/허브_공항.md "wikilink") [모스크바](../Page/모스크바.md "wikilink") [도모데도보 국제공항을](https://ko.wikipedia.org/wiki/도모데도보_국제공항 "wikilink") 사용한다.
 
 ## 역사
 
-[2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 설립해 운영을 시작했다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 말에 [차티비아 항공과](https://ko.wikipedia.org/wiki/차티비아_항공 "wikilink") [아에로 브레트스크를](https://ko.wikipedia.org/wiki/아에로_브레트스크 "wikilink") 인수한데 이어 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [러시아 스카이 항공을](https://ko.wikipedia.org/wiki/러시아_스카이_항공 "wikilink") 인수했다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 새로운 주주가 12대의 항공기를 구매 했는데 [보잉 757-200를](https://ko.wikipedia.org/wiki/보잉_757 "wikilink") 도입했다. 현재 VIM 항공은 전세 항공편을 주력으로 하는 항공사로 알려졌다.
+[2000년](../Page/2000년.md "wikilink")에 설립해 운영을 시작했다. [2004년](../Page/2004년.md "wikilink") 말에 [차티비아 항공과](https://ko.wikipedia.org/wiki/차티비아_항공 "wikilink") [아에로 브레트스크를](https://ko.wikipedia.org/wiki/아에로_브레트스크 "wikilink") 인수한데 이어 [2005년](../Page/2005년.md "wikilink") [러시아 스카이 항공을](../Page/러시아_스카이_항공.md "wikilink") 인수했다. [2004년](../Page/2004년.md "wikilink")에 새로운 주주가 12대의 항공기를 구매 했는데 [보잉 757-200를](../Page/보잉_757.md "wikilink") 도입했다. 현재 VIM 항공은 전세 항공편을 주력으로 하는 항공사로 알려졌다.
 
 ## 운항 노선
 
 ## 보유 기종
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 기준으로 VIM 항공은 다음과 같은 기종을 보유하고 있으며 평균 기령은 18.5년이다.\[1\]\[2\]\[3\]
+  - [2012년](../Page/2012년.md "wikilink") [8월](../Page/8월.md "wikilink") 기준으로 VIM 항공은 다음과 같은 기종을 보유하고 있으며 평균 기령은 18.5년이다.\[1\]\[2\]\[3\]
 
 <table>
 <caption><strong>VIM 항공의 보유기종</strong></caption>
@@ -47,28 +47,28 @@
 <td><p>228</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_737" title="wikilink">보잉 737-500</a></p></td>
+<td><p><a href="../Page/보잉_737.md" title="wikilink">보잉 737-500</a></p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>126</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_757" title="wikilink">보잉 757-200</a>[4]</p></td>
+<td><p><a href="../Page/보잉_757.md" title="wikilink">보잉 757-200</a>[4]</p></td>
 <td><p>7</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>220</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_767" title="wikilink">보잉 767-300ER</a></p></td>
+<td><p><a href="../Page/보잉_767.md" title="wikilink">보잉 767-300ER</a></p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>12</p></td>
 <td><p>259</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_777" title="wikilink">보잉 777-200ER</a></p></td>
+<td><p><a href="../Page/보잉_777.md" title="wikilink">보잉 777-200ER</a></p></td>
 <td><p>10</p></td>
 <td><p>0</p></td>
 <td><p>35</p></td>
@@ -82,7 +82,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/보잉_777" title="wikilink">보잉 777-300ER</a></p></td>
+<td><p><a href="../Page/보잉_777.md" title="wikilink">보잉 777-300ER</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>42</p></td>
@@ -115,7 +115,7 @@
 
 ## 사진
 
-파일:VIM Airlines Boeing 757-200 Maksimov.jpg|VIM 항공의 [보잉 757-200](https://ko.wikipedia.org/wiki/보잉_757 "wikilink") 파일:VIM 757-200 RA-73014 @DME 17-Aug-2010.jpg|VIM 항공의 [보잉 757-200](https://ko.wikipedia.org/wiki/보잉_757 "wikilink") 파일:VIM Airlines Boeing 757.jpg|VIM 항공의 [보잉 757-200](https://ko.wikipedia.org/wiki/보잉_757 "wikilink")
+파일:VIM Airlines Boeing 757-200 Maksimov.jpg|VIM 항공의 [보잉 757-200](../Page/보잉_757.md "wikilink") 파일:VIM 757-200 RA-73014 @DME 17-Aug-2010.jpg|VIM 항공의 [보잉 757-200](../Page/보잉_757.md "wikilink") 파일:VIM Airlines Boeing 757.jpg|VIM 항공의 [보잉 757-200](../Page/보잉_757.md "wikilink")
 
 ## 외부 링크
 

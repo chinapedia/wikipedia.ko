@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
 
 
-**FC 사투른 모스크바 오블라스티** ()는 [러시아](../Page/러시아.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 1946년에 설립되었다. [모스크바주](https://ko.wikipedia.org/wiki/모스크바주 "wikilink")의 [라멘스코예](https://ko.wikipedia.org/wiki/라멘스코예 "wikilink")를 연고지로 삼고 있다. 이 때문에 **FC 사투른 라멘스코예**라고도 불린다.
+**FC 사투른 모스크바 오블라스티** ()는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 1946년에 설립되었다. [모스크바주](../Page/모스크바주.md "wikilink")의 [라멘스코예](https://ko.wikipedia.org/wiki/라멘스코예 "wikilink")를 연고지로 삼고 있다. 이 때문에 **FC 사투른 라멘스코예**라고도 불린다.
 
 팀의 리그 최고 성적은 2007시즌의 [러시아 프리미어리그](../Page/러시아_프리미어리그.md "wikilink") 5위이다.
 

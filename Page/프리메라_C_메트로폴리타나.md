@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [ C ](https://ko.wikipedia.org/wiki/_C_).
 
 
-**프리메라 C 메트로폴리타나** (, 또는 **프리메라 C** )는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")의 4부 [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). [아르헨티나 축구협회](https://ko.wikipedia.org/wiki/아르헨티나_축구협회 "wikilink")(AFA)에 직접 가맹된 [수도권의](https://ko.wikipedia.org/wiki/그란_부에노스아이레스 "wikilink") 20개의 팀이 참여하고 있다.
+**프리메라 C 메트로폴리타나** (, 또는 **프리메라 C** )는 [아르헨티나](../Page/아르헨티나.md "wikilink") [축구](../Page/축구.md "wikilink")의 4부 [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). [아르헨티나 축구협회](https://ko.wikipedia.org/wiki/아르헨티나_축구협회 "wikilink")(AFA)에 직접 가맹된 [수도권의](https://ko.wikipedia.org/wiki/그란_부에노스아이레스 "wikilink") 20개의 팀이 참여하고 있다.
 
 ## 역사
 
-| 기간                                                                                                               | 리그 명칭                                              | 디비시온 |
-| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---- |
-| [1935년](https://ko.wikipedia.org/wiki/1935년 "wikilink")\~[1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink") | 테르세라 디비시온 (Tercera División)                       | 3부   |
-| [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink")\~[1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") | 프리메라 디비시온 아마추어 (Primera División Amateur)          |      |
-| [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink")\~[1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") | 세군다 디비시온 데 아센소 (Segunda División de Ascenso)       |      |
-| [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink")\~[1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") | 프리메라 디비시온 C (Primera División C)                   |      |
-| [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink")\~                                                        | 프리메라 C 메트로 폴리타나 (Primera División C Metropolitana) | 4부   |
+| 기간                                                                         | 리그 명칭                                              | 디비시온 |
+| -------------------------------------------------------------------------- | -------------------------------------------------- | ---- |
+| [1935년](../Page/1935년.md "wikilink")\~[1949년](../Page/1949년.md "wikilink") | 테르세라 디비시온 (Tercera División)                       | 3부   |
+| [1950년](../Page/1950년.md "wikilink")\~[1961년](../Page/1961년.md "wikilink") | 프리메라 디비시온 아마추어 (Primera División Amateur)          |      |
+| [1962년](../Page/1962년.md "wikilink")\~[1973년](../Page/1973년.md "wikilink") | 세군다 디비시온 데 아센소 (Segunda División de Ascenso)       |      |
+| [1974년](../Page/1974년.md "wikilink")\~[1986년](../Page/1986년.md "wikilink") | 프리메라 디비시온 C (Primera División C)                   |      |
+| [1986년](../Page/1986년.md "wikilink")\~                                     | 프리메라 C 메트로 폴리타나 (Primera División C Metropolitana) | 4부   |
 
 ## 리그 진행 방식
 
@@ -21,7 +21,7 @@
 
 매 시즌 종료후 우승 팀은 3부 리그인 [프리메라 B 메트로폴리타나로](../Page/프리메라_B_메트로폴리타나.md "wikilink") 바로 승격하고, 2위부터 9위팀까지 여덟 개 팀은 3부 리그 팀과의 프로모시온(Promoción)에 진출할 팀을 결정하기 위한 [플레이오프](../Page/플레이오프.md "wikilink"), 레두시도(Torneo Reducido)를 펼친다.
 
-최하위(20위) 팀은 5부 리그인 [프리메라 D 메트로폴리타나로](https://ko.wikipedia.org/wiki/프리메라_D_메트로폴리타나 "wikilink") 바로 강등되며, 바로 윗 순위(19위) 팀은 5부 리그 레두시도(Torneo Reducido) 승리팀과 프로모시온을 갖는다.
+최하위(20위) 팀은 5부 리그인 [프리메라 D 메트로폴리타나로](../Page/프리메라_D_메트로폴리타나.md "wikilink") 바로 강등되며, 바로 윗 순위(19위) 팀은 5부 리그 레두시도(Torneo Reducido) 승리팀과 프로모시온을 갖는다.
 
 ## 같이 보기
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WASP-5b](https://ko.wikipedia.org/wiki/WASP-5b).
 
 
-**WASP-5b**는 [봉황자리](https://ko.wikipedia.org/wiki/봉황자리 "wikilink") 방향으로 지구에서 967광년 떨어져 있는 항성 [WASP-5](../Page/WASP-5.md "wikilink")을 도는 [외계 행성이다](https://ko.wikipedia.org/wiki/외계_행성 "wikilink"). 이 행성의 질량과 반지름으로 미루어 보아 [목성](../Page/목성.md "wikilink")과 비슷한 부피와 조성을 보이는 [가스 행성임을](https://ko.wikipedia.org/wiki/가스_행성 "wikilink") 알 수 있다. WASP-5b는 항성을 가까이서 돌고 있기 때문에 [뜨거운 목성으로](../Page/뜨거운_목성.md "wikilink") 분류할 수 있으며, 대기 온도는 약 1717 [켈빈](https://ko.wikipedia.org/wiki/켈빈 "wikilink")이다.
+**WASP-5b**는 [봉황자리](../Page/봉황자리.md "wikilink") 방향으로 지구에서 967광년 떨어져 있는 항성 [WASP-5](../Page/WASP-5.md "wikilink")을 도는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 이 행성의 질량과 반지름으로 미루어 보아 [목성](../Page/목성.md "wikilink")과 비슷한 부피와 조성을 보이는 [가스 행성임을](https://ko.wikipedia.org/wiki/가스_행성 "wikilink") 알 수 있다. WASP-5b는 항성을 가까이서 돌고 있기 때문에 [뜨거운 목성으로](../Page/뜨거운_목성.md "wikilink") 분류할 수 있으며, 대기 온도는 약 1717 [켈빈](../Page/켈빈.md "wikilink")이다.
 
 ## 함께 읽기
 

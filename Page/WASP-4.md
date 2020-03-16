@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WASP-4](https://ko.wikipedia.org/wiki/WASP-4).
 
 
-**WASP-4**는 [봉황자리](https://ko.wikipedia.org/wiki/봉황자리 "wikilink") 방향으로 지구에서 1,000광년 정도 떨어진 [황색 왜성이다](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink").\[1\] 2007년 이 항성 주위를 도는 [외계 행성](https://ko.wikipedia.org/wiki/외계_행성 "wikilink") [WASP-4b](https://ko.wikipedia.org/wiki/WASP-4b "wikilink")가 발견되었다.\[2\]
+**WASP-4**는 [봉황자리](../Page/봉황자리.md "wikilink") 방향으로 지구에서 1,000광년 정도 떨어진 [황색 왜성이다](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink").\[1\] 2007년 이 항성 주위를 도는 [외계 행성](../Page/외계_행성.md "wikilink") [WASP-4b](../Page/WASP-4b.md "wikilink")가 발견되었다.\[2\]
 
 ## 물리적 특징
 

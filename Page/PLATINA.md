@@ -87,20 +87,20 @@
 
 단행본
 
-1.  Platina 1권 - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") ()
-2.  Platina 2권 - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") ()
-3.  Platina 3권 - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") ()
-4.  Platina 4권 - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") ()
-5.  Platina 5권 - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") ()
-6.  Platina 6권 - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") ()
-7.  Platina 7권 - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") ()
-8.  Platina 8권 - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 14일](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") ()
-9.  Platina 9권 - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") ()
-10. Platina 10권 - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") ()
-11. Platina 11권 - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") ()
-12. Platina 12권 - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 30일](https://ko.wikipedia.org/wiki/1월_30일 "wikilink") ()
-13. Platina 13권 - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink") ()
-14. Platina 14권 - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") ()
+1.  Platina 1권 - [2004년](../Page/2004년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") ()
+2.  Platina 2권 - [2004년](../Page/2004년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") ()
+3.  Platina 3권 - [2004년](../Page/2004년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") ()
+4.  Platina 4권 - [2005년](../Page/2005년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") ()
+5.  Platina 5권 - [2005년](../Page/2005년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") ()
+6.  Platina 6권 - [2006년](../Page/2006년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") ()
+7.  Platina 7권 - [2006년](../Page/2006년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") ()
+8.  Platina 8권 - [2007년](../Page/2007년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") ()
+9.  Platina 9권 - [2007년](../Page/2007년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") ()
+10. Platina 10권 - [2008년](../Page/2008년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") ()
+11. Platina 11권 - [2008년](../Page/2008년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") ()
+12. Platina 12권 - [2009년](../Page/2009년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") ()
+13. Platina 13권 - [2009년](../Page/2009년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") ()
+14. Platina 14권 - [2010년](../Page/2010년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") ()
 
 ## 함께 보기
 
@@ -108,7 +108,7 @@
   - [소녀왕](../Page/소녀왕.md "wikilink")
   - [Fly](https://ko.wikipedia.org/wiki/Fly "wikilink")
   - [Nabi](../Page/Nabi.md "wikilink")
-  - [순애보](https://ko.wikipedia.org/wiki/순애보 "wikilink")
+  - [순애보](../Page/순애보.md "wikilink")
   - [messenger](https://ko.wikipedia.org/wiki/messenger "wikilink")
   - [성도체스터 살인사건](https://ko.wikipedia.org/wiki/성도체스터_살인사건 "wikilink")
   - [윙크 (만화출판사)](https://ko.wikipedia.org/wiki/윙크_\(만화출판사\) "wikilink")

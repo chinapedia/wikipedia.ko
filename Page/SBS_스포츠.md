@@ -22,7 +22,7 @@
   - [이재형](https://ko.wikipedia.org/wiki/이재형_\(아나운서\) "wikilink")
   - [안현준](https://ko.wikipedia.org/wiki/안현준 "wikilink")
   - [김세연](https://ko.wikipedia.org/wiki/김세연_\(1991년\) "wikilink")
-  - [김민아](https://ko.wikipedia.org/wiki/김민아 "wikilink") (프리랜서 계약직)
+  - [김민아](../Page/김민아.md "wikilink") (프리랜서 계약직)
   - [유희종](https://ko.wikipedia.org/wiki/유희종 "wikilink")
   - [김세희](../Page/김세희.md "wikilink")
   - [장유례](https://ko.wikipedia.org/wiki/장유례 "wikilink")
@@ -40,28 +40,28 @@
 <tbody>
 <tr class="odd">
 <td><p>축구</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김동완_(축구인)" title="wikilink">김동완</a>, <a href="https://ko.wikipedia.org/wiki/장지현" title="wikilink">장지현</a>, <a href="https://ko.wikipedia.org/wiki/이황재" title="wikilink">이황재</a>,</p></td>
+<td><p><a href="../Page/김동완_(축구인).md" title="wikilink">김동완</a>, <a href="../Page/장지현.md" title="wikilink">장지현</a>, <a href="https://ko.wikipedia.org/wiki/이황재" title="wikilink">이황재</a>,</p></td>
 <td><p>SBS TV/RADIO<br />
 <a href="https://ko.wikipedia.org/wiki/프리미어리그" title="wikilink">프리미어리그</a>, <a href="https://ko.wikipedia.org/wiki/FA컵_(잉글랜드)" title="wikilink">FA컵</a>, <a href="https://ko.wikipedia.org/wiki/리그_1" title="wikilink">리그 1</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/피겨스케이팅" title="wikilink">피겨스케이팅</a></p></td>
-<td><p>방상아,<a href="https://ko.wikipedia.org/wiki/이호정_(피겨스케이팅_선수)" title="wikilink">이호정</a></p></td>
+<td><p><a href="../Page/피겨스케이팅.md" title="wikilink">피겨스케이팅</a></p></td>
+<td><p>방상아,<a href="../Page/이호정_(피겨스케이팅_선수).md" title="wikilink">이호정</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/국제빙상경기연맹" title="wikilink">빙상</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/쇼트트랙" title="wikilink">쇼트트랙</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조해리" title="wikilink">조해리</a></p></td>
+<td><p><a href="../Page/쇼트트랙.md" title="wikilink">쇼트트랙</a></p></td>
+<td><p><a href="../Page/조해리.md" title="wikilink">조해리</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBO_리그" title="wikilink">KBO 리그</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이순철" title="wikilink">이순철</a>, <a href="https://ko.wikipedia.org/wiki/안경현" title="wikilink">안경현</a>, <a href="../Page/이종열.md" title="wikilink">이종열</a>, <a href="https://ko.wikipedia.org/wiki/최원호_(야구인)" title="wikilink">최원호</a>, <a href="https://ko.wikipedia.org/wiki/이승엽" title="wikilink">이승엽</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이순철" title="wikilink">이순철</a>, <a href="../Page/안경현.md" title="wikilink">안경현</a>, <a href="../Page/이종열.md" title="wikilink">이종열</a>, <a href="../Page/최원호_(야구인).md" title="wikilink">최원호</a>, <a href="https://ko.wikipedia.org/wiki/이승엽" title="wikilink">이승엽</a></p></td>
 <td><p>SBS TV/RADIO</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/고교야구" title="wikilink">고교야구</a>, <a href="https://ko.wikipedia.org/wiki/대학야구" title="wikilink">대학야구</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이광권" title="wikilink">이광권</a></p></td>
+<td><p><a href="../Page/이광권.md" title="wikilink">이광권</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -70,12 +70,12 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/아시아리그_아이스하키" title="wikilink">아시아리그 아이스하키</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/볼링" title="wikilink">볼링</a></p></td>
+<td><p><a href="../Page/볼링.md" title="wikilink">볼링</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오일수" title="wikilink">오일수</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/배구" title="wikilink">배구</a></p></td>
+<td><p><a href="../Page/배구.md" title="wikilink">배구</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최천식" title="wikilink">최천식</a>, <a href="https://ko.wikipedia.org/wiki/이상열_(배구_선수)" title="wikilink">이상열</a>, <a href="https://ko.wikipedia.org/wiki/이종경" title="wikilink">이종경</a>, <a href="../Page/장소연_(배구인).md" title="wikilink">장소연</a>, <a href="../Page/김사니.md" title="wikilink">김사니</a></p></td>
 <td></td>
 </tr>
@@ -85,7 +85,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/테니스" title="wikilink">테니스</a></p></td>
+<td><p><a href="../Page/테니스.md" title="wikilink">테니스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유진선" title="wikilink">유진선</a></p></td>
 <td></td>
 </tr>
@@ -95,7 +95,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/농구" title="wikilink">농구</a></p></td>
+<td><p><a href="../Page/농구.md" title="wikilink">농구</a></p></td>
 <td><p><a href="../Page/박수교.md" title="wikilink">박수교</a></p></td>
 <td></td>
 </tr>
@@ -114,13 +114,13 @@
 
 ## 같이 보기
 
-  - [SBS 러브FM](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink")
+  - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
   - [KBS N 스포츠](../Page/KBS_N_스포츠.md "wikilink")
   - [MBC 스포츠+](https://ko.wikipedia.org/wiki/MBC_스포츠+ "wikilink")
   - [JTBC3 Fox Sports](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink")
-  - [SPOTV](https://ko.wikipedia.org/wiki/SPOTV "wikilink")
+  - [SPOTV](../Page/SPOTV.md "wikilink")
   - [IB 스포츠](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink")
-  - [스카이 스포츠 (대한민국)](https://ko.wikipedia.org/wiki/스카이_스포츠_\(대한민국\) "wikilink")
+  - [스카이 스포츠 (대한민국)](../Page/스카이_스포츠_\(대한민국\).md "wikilink")
 
 ## 외부 링크
 

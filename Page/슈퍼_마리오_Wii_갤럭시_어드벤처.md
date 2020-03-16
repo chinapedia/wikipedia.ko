@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  Wii  ](https://ko.wikipedia.org/wiki/__Wii__).
 
 
-《**슈퍼 마리오 갤럭시**》(, )는 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")가 개발한 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")용 게임 소프트웨어로, [슈퍼 마리오 64와](https://ko.wikipedia.org/wiki/슈퍼_마리오_64 "wikilink") [슈퍼 마리오 선샤인의](https://ko.wikipedia.org/wiki/슈퍼_마리오_선샤인 "wikilink") 후속작이다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 먼저 발매했으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 4일에](https://ko.wikipedia.org/wiki/9월_4일 "wikilink") 발매되었는데 [삼성 갤럭시와](https://ko.wikipedia.org/wiki/삼성_갤럭시 "wikilink") 유사한 [상표권](https://ko.wikipedia.org/wiki/상표권 "wikilink") 충돌([표절](https://ko.wikipedia.org/wiki/표절 "wikilink")) 문제가 있어 《**슈퍼 마리오 Wii 갤럭시 어드벤처**》로 바뀌어 발매되었다.
+《**슈퍼 마리오 갤럭시**》(, )는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어로, [슈퍼 마리오 64와](../Page/슈퍼_마리오_64.md "wikilink") [슈퍼 마리오 선샤인의](../Page/슈퍼_마리오_선샤인.md "wikilink") 후속작이다. [일본](../Page/일본.md "wikilink")에서 [2007년](../Page/2007년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 먼저 발매했으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [2008년](../Page/2008년.md "wikilink") [9월 4일에](../Page/9월_4일.md "wikilink") 발매되었는데 [삼성 갤럭시와](../Page/삼성_갤럭시.md "wikilink") 유사한 [상표권](https://ko.wikipedia.org/wiki/상표권 "wikilink") 충돌([표절](../Page/표절.md "wikilink")) 문제가 있어 《**슈퍼 마리오 Wii 갤럭시 어드벤처**》로 바뀌어 발매되었다.
 
 ## 스토리
 
-백 년에 '푸른 별'로 한 번 찾아온다는 커다란 '별똥별'이 찾아오고, 수많은 별의 파편들이 떨어지며, 버섯 왕국에서는 이것을 기념하기 위해 축제를 연다. 별의 축제 날 밤, [피치 공주는](https://ko.wikipedia.org/wiki/피치_공주 "wikilink") [마리오](../Page/마리오.md "wikilink")에게 줄 선물이 있다며 초대한다. 그러나, 마리오가 도착할 때쯤, [쿠파의](https://ko.wikipedia.org/wiki/쿠파_\(게임_캐릭터\) "wikilink") 함대가 피치의 성을 습격, 피치 공주를 성과 함께 통째로 납치하여 우주로 데리고 나간다. 가까스로 마리오가 쫓아가지만, 마귀의 습격을 받아 우주 공간으로 튕겨 나간다.
+백 년에 '푸른 별'로 한 번 찾아온다는 커다란 '별똥별'이 찾아오고, 수많은 별의 파편들이 떨어지며, 버섯 왕국에서는 이것을 기념하기 위해 축제를 연다. 별의 축제 날 밤, [피치 공주는](../Page/피치_공주.md "wikilink") [마리오](../Page/마리오.md "wikilink")에게 줄 선물이 있다며 초대한다. 그러나, 마리오가 도착할 때쯤, [쿠파의](https://ko.wikipedia.org/wiki/쿠파_\(게임_캐릭터\) "wikilink") 함대가 피치의 성을 습격, 피치 공주를 성과 함께 통째로 납치하여 우주로 데리고 나간다. 가까스로 마리오가 쫓아가지만, 마귀의 습격을 받아 우주 공간으로 튕겨 나간다.
 
-어느 작은 혹성에 떨어졌다가 정신이 든 마리오는 토끼의 모습을 한 치코(별의 아기)를 만난다. 그리고 [로젤리나](https://ko.wikipedia.org/wiki/로젤리나 "wikilink")라는, '별똥별 천문대'의 주인이자, '모든 치코들의 엄마'를 만난다. 로젤리나는 쿠파가 별똥별 천문대의 힘, 즉 파워 스타를 되찾아 '별똥별 천문대'가 움직일 수 있는 힘을 충분히 얻은 다음, '은하의 중심'으로 가서 쿠파의 야망을 저지하고 피치공주를 구해야 함을 이야기한다.
+어느 작은 혹성에 떨어졌다가 정신이 든 마리오는 토끼의 모습을 한 치코(별의 아기)를 만난다. 그리고 [로젤리나](../Page/로젤리나.md "wikilink")라는, '별똥별 천문대'의 주인이자, '모든 치코들의 엄마'를 만난다. 로젤리나는 쿠파가 별똥별 천문대의 힘, 즉 파워 스타를 되찾아 '별똥별 천문대'가 움직일 수 있는 힘을 충분히 얻은 다음, '은하의 중심'으로 가서 쿠파의 야망을 저지하고 피치공주를 구해야 함을 이야기한다.
 
 마리오는 로젤리나에게 받은 치코의 힘을 빌려, '스핀 어택'(별의 힘)을 할 수 있게 된다. 그 후, 마리오는 파워 스타를 찾고 피치 공주를 향한 모험이 시작된다.
 

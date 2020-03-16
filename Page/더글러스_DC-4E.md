@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ DC-4E](https://ko.wikipedia.org/wiki/_DC-4E).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Douglas_DC-4E_Oakland.jpg "wikilink") **더글러스 DC-4E**는 [제 2차 세계대전](https://ko.wikipedia.org/wiki/제_2차_세계대전 "wikilink") 이전에 개발된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 시험 여객기로, 실패작으로 평가받아 양산되지는 않았다. 이후 제작된 [더글러스 DC-4는](https://ko.wikipedia.org/wiki/더글러스_DC-4 "wikilink") 완전히 새롭게 설계되어 상업상의 성공을 거두었다. 한편, 본 기체는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에 매각되어 [나카지마 G5N 신잔을](https://ko.wikipedia.org/wiki/나카지마_G5N_신잔 "wikilink") 설계하는 것에 활용되었다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Douglas_DC-4E_Oakland.jpg "wikilink") **더글러스 DC-4E**는 [제 2차 세계대전](https://ko.wikipedia.org/wiki/제_2차_세계대전 "wikilink") 이전에 개발된 [미국](../Page/미국.md "wikilink")의 시험 여객기로, 실패작으로 평가받아 양산되지는 않았다. 이후 제작된 [더글러스 DC-4는](https://ko.wikipedia.org/wiki/더글러스_DC-4 "wikilink") 완전히 새롭게 설계되어 상업상의 성공을 거두었다. 한편, 본 기체는 [일본](../Page/일본.md "wikilink")에 매각되어 [나카지마 G5N 신잔을](../Page/나카지마_G5N_신잔.md "wikilink") 설계하는 것에 활용되었다.\[1\]
 
 ## 설계과정
 
-본 기체의 설계는 [1935년](https://ko.wikipedia.org/wiki/1935년 "wikilink") [유나이티드 항공의](../Page/유나이티드_항공.md "wikilink") 항공기 요구사항에서 시작되었다.\[2\] 이는 [더글러스 DC-3에](https://ko.wikipedia.org/wiki/더글러스_DC-3 "wikilink") 비해 훨씬 큰 신형의 여객기를 요구한 것인데 당시에 DC-3은 아직 초도비행을 하지도 않은 상태였다.\[3\] 이 의뢰안에 [아메리칸 항공](https://ko.wikipedia.org/wiki/아메리칸_항공 "wikilink"), [이스턴 항공](https://ko.wikipedia.org/wiki/이스턴_항공 "wikilink"), [팬 아메리칸 항공](https://ko.wikipedia.org/wiki/팬_아메리칸_항공 "wikilink"), [트랜스콘티넨탈 앤 웨스턴 항공이](https://ko.wikipedia.org/wiki/TWA_항공 "wikilink") 함께 100,000씩을 출자하여 새로운 항공기를 개발하기로 하였다. 그러나 개발과정에서 비용의 상승과 기술의 복잡도가 발목을 잡아 팬 아메리칸과 TWA는 개발비용 지원을 철회하여 이보다 저렴한 [보잉 307을](https://ko.wikipedia.org/wiki/보잉_307 "wikilink") 구입하였다.\[4\]
+본 기체의 설계는 [1935년](../Page/1935년.md "wikilink") [유나이티드 항공의](../Page/유나이티드_항공.md "wikilink") 항공기 요구사항에서 시작되었다.\[2\] 이는 [더글러스 DC-3에](https://ko.wikipedia.org/wiki/더글러스_DC-3 "wikilink") 비해 훨씬 큰 신형의 여객기를 요구한 것인데 당시에 DC-3은 아직 초도비행을 하지도 않은 상태였다.\[3\] 이 의뢰안에 [아메리칸 항공](../Page/아메리칸_항공.md "wikilink"), [이스턴 항공](../Page/이스턴_항공.md "wikilink"), [팬 아메리칸 항공](https://ko.wikipedia.org/wiki/팬_아메리칸_항공 "wikilink"), [트랜스콘티넨탈 앤 웨스턴 항공이](https://ko.wikipedia.org/wiki/TWA_항공 "wikilink") 함께 100,000씩을 출자하여 새로운 항공기를 개발하기로 하였다. 그러나 개발과정에서 비용의 상승과 기술의 복잡도가 발목을 잡아 팬 아메리칸과 TWA는 개발비용 지원을 철회하여 이보다 저렴한 [보잉 307을](https://ko.wikipedia.org/wiki/보잉_307 "wikilink") 구입하였다.\[4\]
 
 본 기체의 설계는 1935년 유나이티드 항공사가 DC-3기보다 크고 멀리 나는 대형의 장거리 여객기를 설계해 달라고 의뢰한 것이었으며, 그 의뢰는 TWA, 이스턴 항공사, 팬 아메리칸 항공사가 관심을 가지게 되어 유나이티드 항공사와 함께 10만 달러를 모아서 더글러스 사에게 제공하였다. 그러나 나중에 TWA와 팬 아메리칸 항공사는 지원금액을 다시 돌려받고 보잉사의 보잉 307여객기를 사용하였다. 이 기체는 주간에 42명의 승객을 수송하고 야간에는 침대로 30명의 승객-동사의 DST형처럼 야간운행이 가능하게 개조될 수 있었다. 이 기체는 동사의 [더글러스 DC-3의](https://ko.wikipedia.org/wiki/DC-3 "wikilink") 두 배의 승객을 수송할 수가 있었으며, 대형기 중에서는 최초로 앞바퀴 착륙장치를 장비한 기체였다. 생산형에서는 유압객실도 장비될 예정이었으며 미익설계는 이미 존재하는 격납고에 충분히 수납할 수 있게 설계되었다. 4기의 프랫&휘트니 트윈 호넷 14기통 공랭식 엔진은 각 기마다 1,450마력의 출력을 제공하였다.\[5\]
 
@@ -18,7 +18,7 @@
 ## 관련 개발기
 
   - [더글러스 DC-4](https://ko.wikipedia.org/wiki/더글러스_DC-4 "wikilink")
-  - [나카지마 G5N 신잔](https://ko.wikipedia.org/wiki/나카지마_G5N_신잔 "wikilink")
+  - [나카지마 G5N 신잔](../Page/나카지마_G5N_신잔.md "wikilink")
 
 ## 출처
 

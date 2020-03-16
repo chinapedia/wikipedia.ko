@@ -3,7 +3,7 @@
 
 <div style="background-color: #d7e1f2; border: 1px solid #abd5f5; padding: 1em;">
 
-<big style="font-size: 120%; line-height: 140%;">만일 <u>**여러분이 그림에 대한 저작권을 소유하고 있고**</u>(예를 들어 직접 찍거나 그린 경우) 이를 위키백과에서 사용하게 하고 싶다면, 해당 그림을 [GNU 자유 문서 사용 허가서나](https://ko.wikipedia.org/wiki/GNU_자유_문서_사용_허가서 "wikilink") [크리에이티브 커먼즈](https://ko.wikipedia.org/wiki/크리에이티브_커먼즈 "wikilink") [저작자표시](http://creativecommons.org/licenses/by/2.0/deed.ko) 혹은 [저작자표시-동일조건변경허락](http://creativecommons.org/licenses/by-sa/2.0/deed.ko)과 같은 **공개 라이선스**로 배포하실 수 있습니다. 이 라이선스로 배포하게 되면 다른 사람이 상업적 목적을 포함한 어떤 목적으로도 **사용**, **변형**, **재배포**할 수 있습니다.
+<big style="font-size: 120%; line-height: 140%;">만일 <u>**여러분이 그림에 대한 저작권을 소유하고 있고**</u>(예를 들어 직접 찍거나 그린 경우) 이를 위키백과에서 사용하게 하고 싶다면, 해당 그림을 [GNU 자유 문서 사용 허가서나](../Page/GNU_자유_문서_사용_허가서.md "wikilink") [크리에이티브 커먼즈](../Page/크리에이티브_커먼즈.md "wikilink") [저작자표시](http://creativecommons.org/licenses/by/2.0/deed.ko) 혹은 [저작자표시-동일조건변경허락](http://creativecommons.org/licenses/by-sa/2.0/deed.ko)과 같은 **공개 라이선스**로 배포하실 수 있습니다. 이 라이선스로 배포하게 되면 다른 사람이 상업적 목적을 포함한 어떤 목적으로도 **사용**, **변형**, **재배포**할 수 있습니다.
 
 **인터넷에서 떠돌아다니거나 다른 누군가에 의해 만들어진 그림은 대부분 올릴 수 없습니다.**
 

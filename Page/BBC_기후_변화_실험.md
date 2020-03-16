@@ -3,7 +3,7 @@
 
 [thumb](https://ko.wikipedia.org/wiki/파일:CPDN-Client.png "wikilink")
 
-**BBC 기후 변화 실험** (BBC Climate Change Experiment)는 [옥스퍼드 대학교](https://ko.wikipedia.org/wiki/옥스퍼드_대학교 "wikilink") 등\[1\] 이 운영했던 [BOINC](../Page/BOINC.md "wikilink") 프로젝트이다. Climateprediction.net 프로젝트의 [단기 기후 시뮬레이션을](https://ko.wikipedia.org/wiki/단기_기후_시뮬레이션 "wikilink") 이용했다.
+**BBC 기후 변화 실험** (BBC Climate Change Experiment)는 [옥스퍼드 대학교](../Page/옥스퍼드_대학교.md "wikilink") 등\[1\] 이 운영했던 [BOINC](../Page/BOINC.md "wikilink") 프로젝트이다. Climateprediction.net 프로젝트의 [단기 기후 시뮬레이션을](https://ko.wikipedia.org/wiki/단기_기후_시뮬레이션 "wikilink") 이용했다.
 
 결과를 토대로 제작한 TV 프로그램은 [2007년 1월](../Page/2007년_1월.md "wikilink") 말 무렵에 방영되었다.
 
@@ -21,7 +21,7 @@
 
   - [BOINC 위키](https://web.archive.org/web/20060614215220/http://boinc-wiki.ath.cx/index.php?title=Climateprediction.net)
 
-  - [BBC News story](http://news.bbc.co.uk/1/hi/sci/tech/4702636.stm) ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 14일에](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") 읽어봄)
+  - [BBC News story](http://news.bbc.co.uk/1/hi/sci/tech/4702636.stm) ([2006년](../Page/2006년.md "wikilink") [2월 14일에](../Page/2월_14일.md "wikilink") 읽어봄)
 
 [분류:기후학](https://ko.wikipedia.org/wiki/분류:기후학 "wikilink") [기후 변화 실험](https://ko.wikipedia.org/wiki/분류:BBC의_텔레비전_프로그램 "wikilink") [분류:2007년 영국](https://ko.wikipedia.org/wiki/분류:2007년_영국 "wikilink")
 

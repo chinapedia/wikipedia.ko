@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [2005 CONCACAF ](https://ko.wikipedia.org/wiki/2005_CONCACAF_).
 
 
-**2005년 CONCACAF 골드컵**()은 [CONCACAF가](../Page/북중미카리브_축구_연맹.md "wikilink") 개최한 8번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink"). 이 대회는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 [7월 6일부터](https://ko.wikipedia.org/wiki/7월_6일 "wikilink") [7월 24일까지](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") 개최되었다. [미국은](https://ko.wikipedia.org/wiki/미국_축구_국가대표팀 "wikilink") [파나마와의](../Page/파나마_축구_국가대표팀.md "wikilink") 경기에서 승부차기에서 3 – 1로 승리함으로써 3번째 우승컵을 들어올렸다.
+**2005년 CONCACAF 골드컵**()은 [CONCACAF가](../Page/북중미카리브_축구_연맹.md "wikilink") 개최한 8번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink"). 이 대회는 [미국](../Page/미국.md "wikilink")에서 [7월 6일부터](../Page/7월_6일.md "wikilink") [7월 24일까지](../Page/7월_24일.md "wikilink") 개최되었다. [미국은](../Page/미국_축구_국가대표팀.md "wikilink") [파나마와의](../Page/파나마_축구_국가대표팀.md "wikilink") 경기에서 승부차기에서 3 – 1로 승리함으로써 3번째 우승컵을 들어올렸다.
 
 이 대회에서는 [남아프리카 공화국과](../Page/남아프리카_공화국_축구_국가대표팀.md "wikilink") [콜롬비아가](../Page/콜롬비아_축구_국가대표팀.md "wikilink") 초청팀으로 초대되었으며, A조는 [허리케인 데니스](https://ko.wikipedia.org/wiki/허리케인_데니스 "wikilink") 때문에 경기 일정이 모두 다 바뀌게 되었다. 이 대회를 끝으로 초청팀 제도가 폐지되었다.
 
 ## 개최 도시 및 경기장
 
-  - [질레트 스타디움](https://ko.wikipedia.org/wiki/질레트_스타디움 "wikilink") - [매사추세츠주](https://ko.wikipedia.org/wiki/매사추세츠주 "wikilink"), [폭스버러](https://ko.wikipedia.org/wiki/폭스버러 "wikilink")
-  - [자이언츠 스타디움](https://ko.wikipedia.org/wiki/자이언츠_스타디움 "wikilink") - [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink"), [이스트러더퍼드](https://ko.wikipedia.org/wiki/이스트러더퍼드 "wikilink")
-  - [홈 디포 센터](https://ko.wikipedia.org/wiki/홈_디포_센터 "wikilink") - [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink"), [카슨](https://ko.wikipedia.org/wiki/카슨_\(캘리포니아주\) "wikilink")
-  - [로스앤젤레스 메모리얼 콜리세움](https://ko.wikipedia.org/wiki/로스앤젤레스_메모리얼_콜리세움 "wikilink") - [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink"), [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")
-  - [오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink") - [플로리다주](https://ko.wikipedia.org/wiki/플로리다주 "wikilink"), [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink")
-  - [퀘스트 필드](https://ko.wikipedia.org/wiki/센추리링크_필드 "wikilink") - [워싱턴주](https://ko.wikipedia.org/wiki/워싱턴주 "wikilink"), [시애틀](https://ko.wikipedia.org/wiki/시애틀 "wikilink")
-  - [릴라이언트 스타디움](https://ko.wikipedia.org/wiki/릴라이언트_스타디움 "wikilink") - [텍사스주](https://ko.wikipedia.org/wiki/텍사스주 "wikilink"), [휴스턴](../Page/휴스턴.md "wikilink")
+  - [질레트 스타디움](../Page/질레트_스타디움.md "wikilink") - [매사추세츠주](../Page/매사추세츠주.md "wikilink"), [폭스버러](../Page/폭스버러.md "wikilink")
+  - [자이언츠 스타디움](../Page/자이언츠_스타디움.md "wikilink") - [뉴저지주](../Page/뉴저지주.md "wikilink"), [이스트러더퍼드](https://ko.wikipedia.org/wiki/이스트러더퍼드 "wikilink")
+  - [홈 디포 센터](https://ko.wikipedia.org/wiki/홈_디포_센터 "wikilink") - [캘리포니아주](../Page/캘리포니아주.md "wikilink"), [카슨](https://ko.wikipedia.org/wiki/카슨_\(캘리포니아주\) "wikilink")
+  - [로스앤젤레스 메모리얼 콜리세움](../Page/로스앤젤레스_메모리얼_콜리세움.md "wikilink") - [캘리포니아주](../Page/캘리포니아주.md "wikilink"), [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")
+  - [오렌지 볼](../Page/마이애미_오렌지_볼.md "wikilink") - [플로리다주](../Page/플로리다주.md "wikilink"), [마이애미](../Page/마이애미.md "wikilink")
+  - [퀘스트 필드](../Page/센추리링크_필드.md "wikilink") - [워싱턴주](../Page/워싱턴주.md "wikilink"), [시애틀](../Page/시애틀.md "wikilink")
+  - [릴라이언트 스타디움](https://ko.wikipedia.org/wiki/릴라이언트_스타디움 "wikilink") - [텍사스주](../Page/텍사스주.md "wikilink"), [휴스턴](../Page/휴스턴.md "wikilink")
 
 ## 예선
 
@@ -377,7 +377,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_축구_국가대표팀" title="wikilink">미국</a></strong><br />
+<strong><a href="../Page/미국_축구_국가대표팀.md" title="wikilink">미국</a></strong><br />
 <strong>3번째 우승</strong></p></td>
 </tr>
 </tbody>
@@ -400,13 +400,13 @@
 
 **2골**
 
-  - [아벨 아길라르](https://ko.wikipedia.org/wiki/아벨_아길라르 "wikilink")
+  - [아벨 아길라르](../Page/아벨_아길라르.md "wikilink")
 
   - [하이로 파티뇨](https://ko.wikipedia.org/wiki/하이로_파티뇨 "wikilink")
 
   - [랜달 브레네스](https://ko.wikipedia.org/wiki/랜달_브레네스 "wikilink")
 
-  - [리카르도 풀러](https://ko.wikipedia.org/wiki/리카르도_풀러 "wikilink")
+  - [리카르도 풀러](../Page/리카르도_풀러.md "wikilink")
 
   - [저메인 휴](https://ko.wikipedia.org/wiki/저메인_휴 "wikilink")
 
@@ -431,7 +431,7 @@
 
   - [트레소르 모레노](https://ko.wikipedia.org/wiki/트레소르_모레노 "wikilink")
 
-  - [크리스티안 볼라뇨스](https://ko.wikipedia.org/wiki/크리스티안_볼라뇨스 "wikilink")
+  - [크리스티안 볼라뇨스](../Page/크리스티안_볼라뇨스.md "wikilink")
 
   - [브리안 루이스](https://ko.wikipedia.org/wiki/브리안_루이스 "wikilink")
 
@@ -449,7 +449,7 @@
 
   - [마리오 이반 게레로](https://ko.wikipedia.org/wiki/마리오_이반_게레로 "wikilink")
 
-  - [마이노르 피게로아](https://ko.wikipedia.org/wiki/마이노르_피게로아 "wikilink")
+  - [마이노르 피게로아](../Page/마이노르_피게로아.md "wikilink")
 
   - [밀톤 누녜스](https://ko.wikipedia.org/wiki/밀톤_누녜스 "wikilink")
 
@@ -467,7 +467,7 @@
 
   - [알베르토 메디나](https://ko.wikipedia.org/wiki/알베르토_메디나 "wikilink")
 
-  - [프란시스코 로드리게스](https://ko.wikipedia.org/wiki/프란시스코_하비에르_로드리게스 "wikilink")
+  - [프란시스코 로드리게스](../Page/프란시스코_하비에르_로드리게스.md "wikilink")
 
   - [에번스](https://ko.wikipedia.org/wiki/필립_에번스 "wikilink")
 
@@ -489,7 +489,7 @@
 
   - [존 오브라이언](https://ko.wikipedia.org/wiki/존_오브라이언 "wikilink")
 
-  - [오구치 오니예우](https://ko.wikipedia.org/wiki/오구치_오니예우 "wikilink")
+  - [오구치 오니예우](../Page/오구치_오니예우.md "wikilink")
 
   - [조시 울프](https://ko.wikipedia.org/wiki/조시_울프 "wikilink")
 
@@ -512,7 +512,7 @@
   - GK -  [하이메 페네도](../Page/하이메_페네도.md "wikilink")
   - DF -  [펠리페 발로이](../Page/펠리페_발로이.md "wikilink")
   - DF -  [사무엘 카바예로](https://ko.wikipedia.org/wiki/사무엘_카바예로 "wikilink")
-  - DF -  [오구치 오니예우](https://ko.wikipedia.org/wiki/오구치_오니예우 "wikilink")
+  - DF -  [오구치 오니예우](../Page/오구치_오니예우.md "wikilink")
   - MF -  [다마커스 비즐리](../Page/다마커스_비즐리.md "wikilink")
   - MF -  [랜던 도너번](../Page/랜던_도너번.md "wikilink")
   - MF -  [하이로 파티뇨](https://ko.wikipedia.org/wiki/하이로_파티뇨 "wikilink")

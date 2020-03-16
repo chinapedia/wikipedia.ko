@@ -27,12 +27,12 @@
   - [디제이맥스 테크니카](https://ko.wikipedia.org/wiki/디제이맥스_테크니카 "wikilink") / 2008 [펜타비전](../Page/펜타비전.md "wikilink")
   - [디제이맥스 포터블 2](https://ko.wikipedia.org/wiki/디제이맥스_포터블_2 "wikilink") / 2007 [펜타비전](../Page/펜타비전.md "wikilink")
   - [디제이맥스 포터블](https://ko.wikipedia.org/wiki/디제이맥스_포터블 "wikilink") / 2006 [펜타비전](../Page/펜타비전.md "wikilink")
-  - [디제이맥스](https://ko.wikipedia.org/wiki/디제이맥스 "wikilink") / 2004\~2008 [펜타비전](../Page/펜타비전.md "wikilink")
-  - [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 4th Trax / 2002 [어뮤즈월드](https://ko.wikipedia.org/wiki/어뮤즈월드 "wikilink")
-  - [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 3rd Trax / 2001 [어뮤즈월드](https://ko.wikipedia.org/wiki/어뮤즈월드 "wikilink")
-  - [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 2nd Trax / 2000 [어뮤즈월드](https://ko.wikipedia.org/wiki/어뮤즈월드 "wikilink")
-  - [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 1st Tracks SE / 1999 [어뮤즈월드](https://ko.wikipedia.org/wiki/어뮤즈월드 "wikilink")
-  - [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 1st Tracks / 1999 [어뮤즈월드](https://ko.wikipedia.org/wiki/어뮤즈월드 "wikilink")
+  - [디제이맥스](../Page/디제이맥스.md "wikilink") / 2004\~2008 [펜타비전](../Page/펜타비전.md "wikilink")
+  - [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 4th Trax / 2002 [어뮤즈월드](../Page/어뮤즈월드.md "wikilink")
+  - [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 3rd Trax / 2001 [어뮤즈월드](../Page/어뮤즈월드.md "wikilink")
+  - [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 2nd Trax / 2000 [어뮤즈월드](../Page/어뮤즈월드.md "wikilink")
+  - [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 1st Tracks SE / 1999 [어뮤즈월드](../Page/어뮤즈월드.md "wikilink")
+  - [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 1st Tracks / 1999 [어뮤즈월드](../Page/어뮤즈월드.md "wikilink")
 
 ## 작곡 목록
 
