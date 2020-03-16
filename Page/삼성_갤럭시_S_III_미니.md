@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [  S III ](https://ko.wikipedia.org/wiki/__S_III_).
 
 
-**삼성 갤럭시 S III 미니**(Samsung GALAXY S III Mini)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**삼성 갤럭시 S III 미니**(Samsung GALAXY S III Mini)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 2012년 11월에 출시했다.
 
 ## 연혁
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") : 제품 발표\[1\]
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") : 제품 출시
+  - [2012년](../Page/2012년.md "wikilink") [10월](../Page/10월.md "wikilink") : 제품 발표\[1\]
+  - [2012년](../Page/2012년.md "wikilink") [11월](../Page/11월.md "wikilink") : 제품 출시
 
 ## 색상
 

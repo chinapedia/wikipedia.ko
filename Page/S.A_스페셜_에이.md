@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [S.A  ](https://ko.wikipedia.org/wiki/S.A__).
 
 
-**S.A 스페셜 에이**(S·A スペシャル·エー)는 하쿠센사의 잡지 격주간 만화지 '[하나토유메](https://ko.wikipedia.org/wiki/하나토유메 "wikilink")'에서 '[미나미 마키가](https://ko.wikipedia.org/wiki/미나미_마키 "wikilink") 연재한 만화 'S·A' 및 그 만화를 바탕으로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 제작된 텔레비전 애니메이션이다. 이야기는 머리도 좋고 집안도 좋은 엘리트들만이 모이는 학교인 '사립 하쿠센관 학원 고교'에 다니는 여고생 '하나조노 히카리'를 중심으로, S·A반(극 중 학교는 성적 순으로 A\~F반까지 반을 나누며, A반 중 1학년부터 3학년을 통틀어 가장 뛰어난 학생들만 모인 반이 S·A반이다.) 친구들이 벌이는 유쾌한 학원생활 및 사랑을 담고 있다. 원작인 만화는 이후 하쿠센사에서 따로 단행본이 발간되어 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")부터 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")까지 총 17권으로 완결이 났고, 국내에서도 [서울문화사](../Page/서울문화사.md "wikilink")에서 정식 번역판이 발매되어 일본판과 같은 해인 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 완결이 났다. 애니메이션은 원작의 내용을 가지고서, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")부터 [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")까지 방영되었고 총 24화로 완결되었다. 한국에선, [애니맥스](../Page/애니맥스.md "wikilink")를 통해 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 첫 방영되었다.
+**S.A 스페셜 에이**(S·A スペシャル·エー)는 하쿠센사의 잡지 격주간 만화지 '[하나토유메](https://ko.wikipedia.org/wiki/하나토유메 "wikilink")'에서 '[미나미 마키가](https://ko.wikipedia.org/wiki/미나미_마키 "wikilink") 연재한 만화 'S·A' 및 그 만화를 바탕으로 [2008년](../Page/2008년.md "wikilink")에 제작된 텔레비전 애니메이션이다. 이야기는 머리도 좋고 집안도 좋은 엘리트들만이 모이는 학교인 '사립 하쿠센관 학원 고교'에 다니는 여고생 '하나조노 히카리'를 중심으로, S·A반(극 중 학교는 성적 순으로 A\~F반까지 반을 나누며, A반 중 1학년부터 3학년을 통틀어 가장 뛰어난 학생들만 모인 반이 S·A반이다.) 친구들이 벌이는 유쾌한 학원생활 및 사랑을 담고 있다. 원작인 만화는 이후 하쿠센사에서 따로 단행본이 발간되어 [2004년](../Page/2004년.md "wikilink")부터 [2009년](../Page/2009년.md "wikilink")까지 총 17권으로 완결이 났고, 국내에서도 [서울문화사](../Page/서울문화사.md "wikilink")에서 정식 번역판이 발매되어 일본판과 같은 해인 [2009년](../Page/2009년.md "wikilink")에 완결이 났다. 애니메이션은 원작의 내용을 가지고서, [2008년](../Page/2008년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [9월](../Page/9월.md "wikilink")까지 방영되었고 총 24화로 완결되었다. 한국에선, [애니맥스](../Page/애니맥스.md "wikilink")를 통해 [2008년](../Page/2008년.md "wikilink") [10월](../Page/10월.md "wikilink") 첫 방영되었다.
 
 ## 등장 인물
 
 (※인물에 대한 설명은 원작과 애니,그리고 인터넷에 나온 내용들을 바탕으로 저술되었다.)
 
   - 하나조노 히카리
-    성우: [고토 유코](https://ko.wikipedia.org/wiki/고토_유코 "wikilink")/[우정신](https://ko.wikipedia.org/wiki/우정신 "wikilink")
+    성우: [고토 유코](https://ko.wikipedia.org/wiki/고토_유코 "wikilink")/[우정신](../Page/우정신.md "wikilink")
 
 <!-- end list -->
 
   - 타키시마 케이
-    성우: [후쿠야마 쥰](https://ko.wikipedia.org/wiki/후쿠야마_쥰 "wikilink")/[최원형](https://ko.wikipedia.org/wiki/최원형 "wikilink")
+    성우: [후쿠야마 쥰](https://ko.wikipedia.org/wiki/후쿠야마_쥰 "wikilink")/[최원형](../Page/최원형.md "wikilink")
 
 <!-- end list -->
 
@@ -28,12 +28,12 @@
 <!-- end list -->
 
   - 야마모토 메구미
-    성우: [타카가키 아야히](https://ko.wikipedia.org/wiki/타카가키_아야히 "wikilink")/[하미경](https://ko.wikipedia.org/wiki/하미경 "wikilink")
+    성우: [타카가키 아야히](../Page/타카가키_아야히.md "wikilink")/[하미경](../Page/하미경.md "wikilink")
 
 <!-- end list -->
 
   - 야마모토 쥰
-    성우: [요나가 츠바사](../Page/요나가_츠바사.md "wikilink")/[임주현](https://ko.wikipedia.org/wiki/임주현 "wikilink")
+    성우: [요나가 츠바사](../Page/요나가_츠바사.md "wikilink")/[임주현](../Page/임주현.md "wikilink")
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@
 <!-- end list -->
 
   - 카리노 스미레
-    성우: [타나카 아츠코](https://ko.wikipedia.org/wiki/타나카_아츠코 "wikilink")
+    성우: [타나카 아츠코](../Page/타나카_아츠코.md "wikilink")
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 <!-- end list -->
 
   - 오가타 아오이
-    성우: [유사 코지](https://ko.wikipedia.org/wiki/유사_코지 "wikilink")
+    성우: [유사 코지](../Page/유사_코지.md "wikilink")
 
 <!-- end list -->
 

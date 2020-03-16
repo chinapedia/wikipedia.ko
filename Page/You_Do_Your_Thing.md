@@ -5,12 +5,12 @@
 
 ## 트랙리스트
 
-1.  "[Something to Be Proud Of](https://ko.wikipedia.org/wiki/Something_to_Be_Proud_Of "wikilink")" (Jeffrey Steele, Chris Wallin) - 4:16
+1.  "[Something to Be Proud Of](../Page/Something_to_Be_Proud_Of.md "wikilink")" (Jeffrey Steele, Chris Wallin) - 4:16
 2.  "You Do Your Thing" (Casey Beathard, Ed Hill) - 3:43
-3.  "[If You Ever Stop Loving Me](https://ko.wikipedia.org/wiki/If_You_Ever_Stop_Loving_Me "wikilink")" (Bob DiPiero, Rivers Rutherford, Tom Shapiro) - 3:24
+3.  "[If You Ever Stop Loving Me](../Page/If_You_Ever_Stop_Loving_Me.md "wikilink")" (Bob DiPiero, Rivers Rutherford, Tom Shapiro) - 3:24
 4.  "If It's the Last Thing I Do" (David Lee Murphy, Kim Tribble) - 4:02
 5.  "She Loved Me" (Steele, Craig Wiseman) - 3:58
-6.  "[Gone](https://ko.wikipedia.org/wiki/Gone_\(몽고메리_젠트리의_노래\) "wikilink")" (DiPiero, Steele) - 4:11
+6.  "[Gone](../Page/Gone_\(몽고메리_젠트리의_노래\).md "wikilink")" (DiPiero, Steele) - 4:11
 7.  "All I Know About Mexico" (Steele, Wallin) - 4:10
 8.  "I Got Drunk" (\[\[David Grissom, Chris Stapleton) - 4:14
 9.  "It's All Good" (Bryan Campbell, Matt Hendrix, Diana Hendrix) - 3:58

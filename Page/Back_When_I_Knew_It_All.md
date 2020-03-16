@@ -8,9 +8,9 @@
 1.  "The Big Revival" (Dennis Linde) – 4:02
 2.  "[Long Line of Losers](https://ko.wikipedia.org/wiki/Long_Line_of_Losers "wikilink")" (Kevin Fowler, Kim Tribble) – 3:48
 3.  "Now You're Talkin'" (Ira Dean, David Lee Murphy, Tribble) – 3:24
-4.  "[Back When I Knew It All](https://ko.wikipedia.org/wiki/Back_When_I_Knew_It_All_\(노래\) "wikilink")" (Gary Hannan, Phil O'Donnell, Trent Willmon) – 3:59
-5.  "[Roll with Me](https://ko.wikipedia.org/wiki/Roll_with_Me "wikilink")" (Clint Daniels, Tommy Karlas) – 3:53
-6.  "[One in Every Crowd](https://ko.wikipedia.org/wiki/One_in_Every_Crowd "wikilink")" (Dean, Tribble, Eddie Montgomery) – 3:31
+4.  "[Back When I Knew It All](../Page/Back_When_I_Knew_It_All_\(노래\).md "wikilink")" (Gary Hannan, Phil O'Donnell, Trent Willmon) – 3:59
+5.  "[Roll with Me](../Page/Roll_with_Me.md "wikilink")" (Clint Daniels, Tommy Karlas) – 3:53
+6.  "[One in Every Crowd](../Page/One_in_Every_Crowd.md "wikilink")" (Dean, Tribble, Eddie Montgomery) – 3:31
 7.  "Look Some More" (Tony Martin, Wendell Mobley, Neil Thrasher) – 2:58
 8.  "I Pick My Parties" (Terri Clark, Murphy, Tom Shapiro) – 3:22
 9.  "One Trip" (Brett James, Angelo Petraglia) – 4:01

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Painkiller \( \)](https://ko.wikipedia.org/wiki/Painkiller_\(_\)).
 
 
-**Painkiller**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 첫 번째 [미니 앨범](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink") 리패키지이자 [타이틀곡이다](https://ko.wikipedia.org/wiki/노래 "wikilink"). 신곡 **Painkiller**와 새로운 쟈켓으로 리패키지를 구성하였다.
+**Painkiller**는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 첫 번째 [미니 앨범](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink") 리패키지이자 [타이틀곡이다](https://ko.wikipedia.org/wiki/노래 "wikilink"). 신곡 **Painkiller**와 새로운 쟈켓으로 리패키지를 구성하였다.
 
 ## 수록곡
 

@@ -5,11 +5,11 @@
 
 ## 트랙리스트
 
-1.  "[Hillbilly Shoes](https://ko.wikipedia.org/wiki/Hillbilly_Shoes "wikilink")" (Bobby Taylor, Mike Geiger, Woody Mullis) - 3:13
+1.  "[Hillbilly Shoes](../Page/Hillbilly_Shoes.md "wikilink")" (Bobby Taylor, Mike Geiger, Woody Mullis) - 3:13
 2.  "Trying to Survive" (Stephony Smith, Kevin Brandt) - 3:50
-3.  "[Lonely and Gone](https://ko.wikipedia.org/wiki/Lonely_and_Gone "wikilink")" (Bill McCorvey, Dave Gibson, Greg Crowe) - 3:19
+3.  "[Lonely and Gone](../Page/Lonely_and_Gone.md "wikilink")" (Bill McCorvey, Dave Gibson, Greg Crowe) - 3:19
 4.  "Self Made Man" (Wynn Varble, Jay Knowles) - 3:35
-5.  "[Daddy Won't Sell the Farm](https://ko.wikipedia.org/wiki/Daddy_Won't_Sell_the_Farm "wikilink")" (Robin Branda, Steve Fox) - 4:18
+5.  "[Daddy Won't Sell the Farm](../Page/Daddy_Won't_Sell_the_Farm.md "wikilink")" (Robin Branda, Steve Fox) - 4:18
 6.  "If a Broken Heart Could Kill" (Rick Ferrell, Steve Clark) - 3:19
 7.  "I've Loved a Lot More Than I've Hurt" (Max D. Barnes) - 3:14
 8.  "Didn't Your Mama Tell Ya" (Stewart Harris, Clay Davidson) - 3:26

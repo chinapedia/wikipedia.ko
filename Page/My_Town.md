@@ -6,12 +6,12 @@
 ## 트랙리스트
 
 1.  "My Town (Piano Intro)" - 0:21
-2.  "[My Town](https://ko.wikipedia.org/wiki/My_Town_\(몽고메리_젠트리의_노래\) "wikilink")" (Reed Nielsen, Jeffrey Steele) - 4:25
+2.  "[My Town](../Page/My_Town_\(몽고메리_젠트리의_노래\).md "wikilink")" (Reed Nielsen, Jeffrey Steele) - 4:25
 3.  "Break My Heart Again" (Tim Owens, Kenny Beard, Jeff Bates) - 4:02
 4.  "Scarecrow" (Matt Hendrix, Doug Powell) - 3:21
 5.  "Bad for Good" (Brett Beavers, Troy VonHoefen, Jim Beavers) - 3:00
-6.  "[Speed](https://ko.wikipedia.org/wiki/Speed_\(몽고메리_젠트리의_노래\) "wikilink")" (Steele, Chris Wallin) - 4:01
-7.  "[Hell Yeah](https://ko.wikipedia.org/wiki/Hell_Yeah "wikilink")" (Craig Wiseman, Steele) - 4:50
+6.  "[Speed](../Page/Speed_\(몽고메리_젠트리의_노래\).md "wikilink")" (Steele, Chris Wallin) - 4:01
+7.  "[Hell Yeah](../Page/Hell_Yeah.md "wikilink")" (Craig Wiseman, Steele) - 4:50
 8.  "Lonesome" (Beard, Casey Beathard, Frank Rogers) - 4:22
 9.  "Why Do I Feel Like Running" (Al Anderson, Rivers Rutherford) - 4:00
 10. "Free Fall" (Chuck Jones, Wes Hightower, Jimmy Ritchey) - 3:54

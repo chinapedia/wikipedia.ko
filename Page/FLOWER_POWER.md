@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FLOWER POWER](https://ko.wikipedia.org/wiki/FLOWER_POWER).
 
 
-〈**Flower power**〉는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 여섯 번 째 일본 싱글이다. 이 곡은 본래 2012년 [11월 14일에](https://ko.wikipedia.org/wiki/11월_14일 "wikilink") 발매할 예정이었으나, 일주일 뒤인 [11월 21일로](https://ko.wikipedia.org/wiki/11월_21일 "wikilink") 발매일이 연기되었다. Flower Power는 또한 두 번째 일본 스튜디오 앨범인 *Girls' Generation II \~Girls & Peace\~*의 3번째 곡이기도 하다.
+〈**Flower power**〉는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 여섯 번 째 일본 싱글이다. 이 곡은 본래 2012년 [11월 14일에](../Page/11월_14일.md "wikilink") 발매할 예정이었으나, 일주일 뒤인 [11월 21일로](../Page/11월_21일.md "wikilink") 발매일이 연기되었다. Flower Power는 또한 두 번째 일본 스튜디오 앨범인 *Girls' Generation II \~Girls & Peace\~*의 3번째 곡이기도 하다.
 
 ## 배경
 
@@ -13,7 +13,7 @@ Flower Power는 일렉트로닉으로 빠른 비트와 후렴구가 특징이다
 
 ## 뮤직비디오
 
-소녀시대는 [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") [유투브](https://ko.wikipedia.org/wiki/유투브 "wikilink")의 공식 채널을 통해 뮤직비디오를 공개했다\[6\]. 뮤직비디오의 컨셉은 'GG 에어라인'에 근무하는 [승무원](https://ko.wikipedia.org/wiki/승무원 "wikilink")으로\[7\], 근미래적인 코스프레 슈트가 특징이다\[8\].
+소녀시대는 [10월 31일](../Page/10월_31일.md "wikilink") [유투브](https://ko.wikipedia.org/wiki/유투브 "wikilink")의 공식 채널을 통해 뮤직비디오를 공개했다\[6\]. 뮤직비디오의 컨셉은 'GG 에어라인'에 근무하는 [승무원](https://ko.wikipedia.org/wiki/승무원 "wikilink")으로\[7\], 근미래적인 코스프레 슈트가 특징이다\[8\].
 
 ## 차트 성적
 

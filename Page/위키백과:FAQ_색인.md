@@ -22,7 +22,7 @@
 
   - [퍼가기 FAQ](https://ko.wikipedia.org/wiki/위키백과:FAQ/퍼가기 "wikilink") – 위키백과의 컨텐츠와 소프트웨어를 다운받거나 위키백과의 컨텐츠를 가져다가 다른 저작물을 만들고 싶을 때
   - [책 FAQ](https://ko.wikipedia.org/wiki/위키백과:책/FAQ "wikilink") – 책으로 만들기.
-  - [분류 FAQ](https://ko.wikipedia.org/wiki/위키백과:FAQ/분류 "wikilink") – [분류에](https://ko.wikipedia.org/wiki/위키백과:분류 "wikilink") 대해서
+  - [분류 FAQ](https://ko.wikipedia.org/wiki/위키백과:FAQ/분류 "wikilink") – [분류에](../Page/위키백과:분류.md "wikilink") 대해서
   - [틀 FAQ](https://ko.wikipedia.org/wiki/위키백과:FAQ/틀 "wikilink") – [틀에](https://ko.wikipedia.org/wiki/위키백과:틀 "wikilink") 대해서
 
 ## 비슷한 문서
@@ -34,12 +34,12 @@
 
 ## 같이 보기
 
-  - [도움말](https://ko.wikipedia.org/wiki/위키백과:도움말 "wikilink") – 위키백과에 대한 도움말의 색인 페이지.
+  - [도움말](../Page/위키백과:도움말.md "wikilink") – 위키백과에 대한 도움말의 색인 페이지.
   - [질문방](https://ko.wikipedia.org/wiki/위키백과:질문방 "wikilink") – 위키백과를 사용하는 법에 대한 질문.
   - [수리소](https://ko.wikipedia.org/wiki/위키백과:수리소 "wikilink") – 위키백과 접속 및 편집에 관한 여러 기술적인 문제와 관련된 도움말
-  - [위키백과의 편집 지침](https://ko.wikipedia.org/wiki/위키백과:편집_지침 "wikilink") – 위키백과 문서들의 일관성을 유지하는 데 필요한 문서 구성 지침
+  - [위키백과의 편집 지침](../Page/위키백과:편집_지침.md "wikilink") – 위키백과 문서들의 일관성을 유지하는 데 필요한 문서 구성 지침
   - [자주 있는 비판에 대해](https://ko.wikipedia.org/wiki/위키백과:자주_있는_비판에_대해 "wikilink") – 위키백과에 대한 주요 비판에 대한 답변.
-  - [위키백과:보도 자료](https://ko.wikipedia.org/wiki/위키백과:보도_자료 "wikilink") – 위키백과에서 배포한 보도 자료.<noinclude>
+  - [위키백과:보도 자료](../Page/위키백과:보도_자료.md "wikilink") – 위키백과에서 배포한 보도 자료.<noinclude>
 
 {{-}}
 

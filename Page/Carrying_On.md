@@ -5,7 +5,7 @@
 
 ## 트랙리스트
 
-1.  "[She Couldn't Change Me](https://ko.wikipedia.org/wiki/She_Couldn't_Change_Me "wikilink")" (Gary Nicholson, Chris Knight) - 4:20
+1.  "[She Couldn't Change Me](../Page/She_Couldn't_Change_Me.md "wikilink")" (Gary Nicholson, Chris Knight) - 4:20
 2.  "My Father's Son" (Scooter Carusoe, Dan Colehour) - 4:45
 3.  "The Fine Line" (Anthony L. Smith, Rick Tiger) - 3:51
 4.  "Cold One Comin' On" (Michael Huffman, Mike Geiger, Woody Mullis) - 5:10

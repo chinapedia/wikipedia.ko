@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Z](https://ko.wikipedia.org/wiki/Z).
 
 
-**월드워Z**()은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 개봉된 종말 공포 영화이다. [맥스 브룩스의](../Page/맥스_브룩스.md "wikilink") 소설 《[세계 대전 Z](../Page/세계_대전_Z.md "wikilink")》를 원작으로 하며, [마르크 포르스터가](https://ko.wikipedia.org/wiki/마르크_포르스터 "wikilink") 감독하고 [매슈 마이클 카너핸](https://ko.wikipedia.org/wiki/매슈_마이클_카너핸 "wikilink"), [드루 고더드](../Page/드루_고더드.md "wikilink"), [데이먼 린들로프가](https://ko.wikipedia.org/wiki/데이먼_린들로프 "wikilink") 각본을 썼다. [브래드 피트는](../Page/브래드_피트.md "wikilink") 주연인 제리 레인 역을 맡으면서 제작에도 참여했다. 이외에 [미레유 에노스](https://ko.wikipedia.org/wiki/미레유_에노스 "wikilink"), [제임스 배지 데일이](https://ko.wikipedia.org/wiki/제임스_배지_데일 "wikilink") 출연했다.
+**월드워Z**()은 [2013년](../Page/2013년.md "wikilink") 개봉된 종말 공포 영화이다. [맥스 브룩스의](../Page/맥스_브룩스.md "wikilink") 소설 《[세계 대전 Z](../Page/세계_대전_Z.md "wikilink")》를 원작으로 하며, [마르크 포르스터가](https://ko.wikipedia.org/wiki/마르크_포르스터 "wikilink") 감독하고 [매슈 마이클 카너핸](https://ko.wikipedia.org/wiki/매슈_마이클_카너핸 "wikilink"), [드루 고더드](../Page/드루_고더드.md "wikilink"), [데이먼 린들로프가](https://ko.wikipedia.org/wiki/데이먼_린들로프 "wikilink") 각본을 썼다. [브래드 피트는](../Page/브래드_피트.md "wikilink") 주연인 제리 레인 역을 맡으면서 제작에도 참여했다. 이외에 [미레유 에노스](https://ko.wikipedia.org/wiki/미레유_에노스 "wikilink"), [제임스 배지 데일이](https://ko.wikipedia.org/wiki/제임스_배지_데일 "wikilink") 출연했다.
 
 ## 출연
 

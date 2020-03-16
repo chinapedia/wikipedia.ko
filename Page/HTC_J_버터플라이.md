@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [HTC J ](https://ko.wikipedia.org/wiki/HTC_J_).
 
 
-**HTC J 버터플라이**()는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 12월에 출시한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이며, 세계 최초로 [1080p](../Page/1080p.md "wikilink") [HD](../Page/고선명_비디오.md "wikilink") 해상도를 표현하는 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**HTC J 버터플라이**()는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") [2012년](../Page/2012년.md "wikilink") 12월에 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이며, 세계 최초로 [1080p](../Page/1080p.md "wikilink") [HD](../Page/고선명_비디오.md "wikilink") 해상도를 표현하는 [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 ## 연혁
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 10월 : 제품 발표
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 12월 : 제품 출시
+  - [2012년](../Page/2012년.md "wikilink") 10월 : 제품 발표
+  - [2012년](../Page/2012년.md "wikilink") 12월 : 제품 출시
 
 ## 경쟁 기종
 
@@ -14,7 +14,7 @@
   - [ZTE 누비아 Z5](../Page/ZTE_누비아_Z5.md "wikilink")
   - [ZTE 그랜드 S](https://ko.wikipedia.org/wiki/ZTE_그랜드_S "wikilink")
   - [화웨이 어센드 P6](../Page/화웨이_어센드_P6.md "wikilink")
-  - [LG 옵티머스 G 프로](https://ko.wikipedia.org/wiki/LG_옵티머스_G_프로 "wikilink")
+  - [LG 옵티머스 G 프로](../Page/LG_옵티머스_G_프로.md "wikilink")
   - [소니 엑스페리아 Z](../Page/소니_엑스페리아_Z.md "wikilink")
   - [샤프 아쿠오스 Sh930w](../Page/샤프_아쿠오스_Sh930w.md "wikilink")
 

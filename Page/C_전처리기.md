@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [C ](https://ko.wikipedia.org/wiki/C_).
 
 
-[매크로는](https://ko.wikipedia.org/wiki/매크로_\(컴퓨터_과학\) "wikilink") 컴퍼일러에게 코드의 특성을 알려주는 [키워드](https://ko.wikipedia.org/wiki/키워드 "wikilink")이다. 따라서 기계어로 컴파일 과정에서 필요한 요소이고, 매크로 자체가 기계어 코드로 생성되지는 않지만 특정 코드를 제어하는데 사용한다.
+[매크로는](../Page/매크로_\(컴퓨터_과학\).md "wikilink") 컴퍼일러에게 코드의 특성을 알려주는 [키워드](https://ko.wikipedia.org/wiki/키워드 "wikilink")이다. 따라서 기계어로 컴파일 과정에서 필요한 요소이고, 매크로 자체가 기계어 코드로 생성되지는 않지만 특정 코드를 제어하는데 사용한다.
 
 ## 파일 포함하기
 
@@ -47,7 +47,7 @@ VERBOSE가 정의 된 값에 따라 print 함수를 제거할 수 있다. 조건
 #endif
 ```
 
-이 경우 OS가 [UNIX](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 또는 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 환경에 따라 다른 파일을 포함 시킬 수 있다. __unix__가 정의되어 있다면, unistd.h 파일을 첨부하고 그렇지 않고 _WIN32가 정의되어 있다면 windows.h 파일을 첨부한다. __unix__나 _WIN32의 정의는 다양한 방식으로 정의 할 수 있다.
+이 경우 OS가 [UNIX](../Page/유닉스.md "wikilink") 또는 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 환경에 따라 다른 파일을 포함 시킬 수 있다. __unix__가 정의되어 있다면, unistd.h 파일을 첨부하고 그렇지 않고 _WIN32가 정의되어 있다면 windows.h 파일을 첨부한다. __unix__나 _WIN32의 정의는 다양한 방식으로 정의 할 수 있다.
 
 매크로 `#if`와 `defined`와 연결하면 다음과 같이 복잡한 조건부 컴파일이 가능하다.
 

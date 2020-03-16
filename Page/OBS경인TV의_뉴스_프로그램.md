@@ -49,7 +49,7 @@
 <a href="https://ko.wikipedia.org/wiki/김준우" title="wikilink">김준우</a> (주말)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오늘의_월드뉴스" title="wikilink">오늘의 월드뉴스</a></p></td>
+<td><p><a href="../Page/오늘의_월드뉴스.md" title="wikilink">오늘의 월드뉴스</a></p></td>
 <td><p>평일 30분</p></td>
 <td><p>20:20 ~ 20:50</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김용재" title="wikilink">김용재</a></p></td>
@@ -64,7 +64,7 @@
 <td><p><a href="../Page/OBS_뉴스_(주말).md" title="wikilink">OBS 뉴스 (주말)</a></p></td>
 <td><p>주말 10분</p></td>
 <td><p>14:30 ~ 14:40</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상희_(아나운서)" title="wikilink">이상희</a></p></td>
+<td><p><a href="../Page/이상희_(아나운서).md" title="wikilink">이상희</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/OBS_뉴스특보" title="wikilink">OBS 뉴스특보</a></p></td>
@@ -88,8 +88,8 @@
 <!-- end list -->
 
   - [한국방송공사의 뉴스 프로그램](../Page/한국방송공사의_뉴스_프로그램.md "wikilink")
-  - [문화방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/문화방송의_뉴스_프로그램 "wikilink")
-  - [SBS의 뉴스 프로그램](https://ko.wikipedia.org/wiki/SBS의_뉴스_프로그램 "wikilink")
+  - [문화방송의 뉴스 프로그램](../Page/문화방송의_뉴스_프로그램.md "wikilink")
+  - [SBS의 뉴스 프로그램](../Page/SBS의_뉴스_프로그램.md "wikilink")
   - [한국교육방송공사의 뉴스 프로그램](https://ko.wikipedia.org/wiki/한국교육방송공사의_뉴스_프로그램 "wikilink")
 
 <!-- end list -->

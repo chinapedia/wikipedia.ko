@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  HD](https://ko.wikipedia.org/wiki/__HD).
 
 
-**모토로라 아트릭스 HD**()는 [모토로라 모빌리티에서](../Page/모토로라_모빌리티.md "wikilink") 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. 출시당시 안드로이드 4.0.4 아이스크림샌드위치를 탑재하였다.
+**모토로라 아트릭스 HD**()는 [모토로라 모빌리티에서](../Page/모토로라_모빌리티.md "wikilink") 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 출시당시 안드로이드 4.0.4 아이스크림샌드위치를 탑재하였다.
 
 ## 출시국가
 

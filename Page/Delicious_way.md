@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Delicious way](https://ko.wikipedia.org/wiki/Delicious_way).
 
 
-《**delicious way**》(딜리셔스 웨이)는 일본의 가수 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [6월 28일에](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") 발매되었다.
+《**delicious way**》(딜리셔스 웨이)는 일본의 가수 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [2000년](../Page/2000년.md "wikilink") [6월 28일에](../Page/6월_28일.md "wikilink") 발매되었다.
 
 ## 개요
 
@@ -23,7 +23,7 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
     <!-- end list -->
       -
-        3번째 싱글. [요미우리 TV](../Page/요미우리_TV_방송.md "wikilink") [닛폰 TV계](../Page/닛폰_TV_방송망.md "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 엔딩 테마.
+        3번째 싱글. [요미우리 TV](../Page/요미우리_TV_방송.md "wikilink") [닛폰 TV계](../Page/닛폰_TV_방송망.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink") 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 엔딩 테마.
         데뷔 당시, 자신이 쿠라키 마이인 것을 친구에게 털어놓지 않고 있었을 때를 부른 곡이다.
 4.  **Stepping ∞ Out** (4:37)
       - 작사: 쿠라키 마이, 작곡 · 편곡: [Yoko B. Stone](https://ko.wikipedia.org/wiki/YOKO_Black._Stone "wikilink")

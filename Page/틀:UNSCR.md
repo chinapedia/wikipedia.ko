@@ -13,7 +13,7 @@
 <a href="http://www.un.org/Docs/sc/">유엔안전보장이사회</a>{{·}} <a href="http://unbisnet.un.org/">UNBISnet</a></small></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유엔_안전_보장_이사회_결의_제1_~_100호_목록" title="wikilink">1 ~ 100</a> (1946–1953년)</p></td>
+<td><p><a href="../Page/유엔_안전_보장_이사회_결의_제1_~_100호_목록.md" title="wikilink">1 ~ 100</a> (1946–1953년)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/유엔_안전_보장_이사회_결의_제101_~_200호_목록.md" title="wikilink">101 ~ 200</a> (1953–1965년)</p></td>

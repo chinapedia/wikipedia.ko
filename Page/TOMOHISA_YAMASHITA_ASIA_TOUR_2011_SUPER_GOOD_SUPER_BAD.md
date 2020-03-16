@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TOMOHISA YAMASHITA ASIA TOUR 2011 SUPER GOOD SUPER BAD](https://ko.wikipedia.org/wiki/TOMOHISA_YAMASHITA_ASIA_TOUR_2011_SUPER_GOOD_SUPER_BAD).
 
 
-《**TOMOHISA YAMASHITA ASIA TOUR 2011 SUPER GOOD SUPER BAD**》()는, [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 1번째 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")이다.
+《**TOMOHISA YAMASHITA ASIA TOUR 2011 SUPER GOOD SUPER BAD**》()는, [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 1번째 [DVD](../Page/DVD.md "wikilink")이다.
 
 ## 개요
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink")부터 [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")까지 개최된 [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 첫 아시아 투어 "TOMOHISA YAMASHITA ASIA TOUR 2011 Super good Super bad"의 [도쿄](../Page/도쿄.md "wikilink") [국립 요요기 경기장에서](https://ko.wikipedia.org/wiki/국립_요요기_경기장 "wikilink") [5월 10일의](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") 공연을 수록하였다. DVD 초회 반, DVD 통상 반, Blu-ray의 3 형태로의 발매되었다. 초회 반은 스페셜 패키지로 64P 소책자 봉입. 통상 반, Blu-ray와 함께, 16P 소책자가 봉입되어 있다. 각종 DISC1과 DISC2에는 일반적인 내용이 수록되어 있다. 하지만 DVD 초회에만 〈[하다칸보](../Page/하다칸보.md "wikilink")〉의 MUSIC CLIP이 수록되어 있다.
+[2011년](../Page/2011년.md "wikilink") [1월](../Page/1월.md "wikilink")부터 [5월](../Page/5월.md "wikilink")까지 개최된 [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 첫 아시아 투어 "TOMOHISA YAMASHITA ASIA TOUR 2011 Super good Super bad"의 [도쿄](../Page/도쿄.md "wikilink") [국립 요요기 경기장에서](../Page/국립_요요기_경기장.md "wikilink") [5월 10일의](../Page/5월_10일.md "wikilink") 공연을 수록하였다. DVD 초회 반, DVD 통상 반, Blu-ray의 3 형태로의 발매되었다. 초회 반은 스페셜 패키지로 64P 소책자 봉입. 통상 반, Blu-ray와 함께, 16P 소책자가 봉입되어 있다. 각종 DISC1과 DISC2에는 일반적인 내용이 수록되어 있다. 하지만 DVD 초회에만 〈[하다칸보](../Page/하다칸보.md "wikilink")〉의 MUSIC CLIP이 수록되어 있다.
 
 ## 수록 내용
 

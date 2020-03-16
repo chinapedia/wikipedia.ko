@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Drama Montage](https://ko.wikipedia.org/wiki/Drama_Montage).
 
 
-**Drama Montage**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [강인원](https://ko.wikipedia.org/wiki/강인원_\(가수\) "wikilink") 의 프로젝트 앨범이다.
+**Drama Montage**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [강인원](../Page/강인원_\(가수\).md "wikilink") 의 프로젝트 앨범이다.
 
 ## 앨범의 특징
 

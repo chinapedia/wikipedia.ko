@@ -1,29 +1,29 @@
 > This article is converted from Wikipedia: [ MSS](https://ko.wikipedia.org/wiki/_MSS).
 
 
-《**특별수사대 MSS**》는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [1월 2일부터](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") 2011년 [1월 23일까지](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") 방영된 [KBS 드라마 스페셜 연작 시리즈의](../Page/KBS_드라마_스페셜_연작_시리즈.md "wikilink") 두 번째 [작품이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+《**특별수사대 MSS**》는 [2011년](../Page/2011년.md "wikilink") [1월 2일부터](../Page/1월_2일.md "wikilink") 2011년 [1월 23일까지](../Page/1월_23일.md "wikilink") 방영된 [KBS 드라마 스페셜 연작 시리즈의](../Page/KBS_드라마_스페셜_연작_시리즈.md "wikilink") 두 번째 [작품이다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 등장 인물
 
 ### 주요 인물
 
   - [오만석](../Page/오만석_\(1974년\).md "wikilink") : 노철기 역
-  - [손현주](https://ko.wikipedia.org/wiki/손현주 "wikilink") : 황준성 역
+  - [손현주](../Page/손현주.md "wikilink") : 황준성 역
   - [윤해영](https://ko.wikipedia.org/wiki/윤해영 "wikilink") : 비비안 역
-  - [이경진](https://ko.wikipedia.org/wiki/이경진 "wikilink") : 강경희 역
-  - [안석환](https://ko.wikipedia.org/wiki/안석환 "wikilink") : 최두일 역
+  - [이경진](../Page/이경진.md "wikilink") : 강경희 역
+  - [안석환](../Page/안석환.md "wikilink") : 최두일 역
   - [김영재](https://ko.wikipedia.org/wiki/김영재 "wikilink") : 조용석 역
   - [윤주상](../Page/윤주상.md "wikilink") : 영등포 경찰서장 역
-  - [고명환](https://ko.wikipedia.org/wiki/고명환 "wikilink") : 박충 역
+  - [고명환](../Page/고명환.md "wikilink") : 박충 역
   - [민지아](../Page/민지아.md "wikilink") : 최영아 역
-  - [이철민](https://ko.wikipedia.org/wiki/이철민 "wikilink") : 지병기 역
-  - [이정용](https://ko.wikipedia.org/wiki/이정용 "wikilink") : 한순식 역
+  - [이철민](../Page/이철민.md "wikilink") : 지병기 역
+  - [이정용](../Page/이정용.md "wikilink") : 한순식 역
 
 ### 그 외 인물
 
   - [한태일](../Page/한태일.md "wikilink") : 이기백 역
   - [이보현](https://ko.wikipedia.org/wiki/이보현 "wikilink") : 문정규 역
-  - [방중현](https://ko.wikipedia.org/wiki/방중현 "wikilink")
+  - [방중현](../Page/방중현.md "wikilink")
   - 한춘일
   - 고진명
   - 전해룡

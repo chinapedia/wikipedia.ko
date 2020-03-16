@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1st The Blue - New Release](https://ko.wikipedia.org/wiki/1st_The_Blue_-_New_Release).
 
 
-《**1st The Blue - New Release**》는 [The Blue의](https://ko.wikipedia.org/wiki/The_Blue "wikilink") 1집 정규 앨범이자, 데뷔 앨범이며 동명의 노래 타이틀곡이 쓰여 있다.
+《**1st The Blue - New Release**》는 [The Blue의](../Page/The_Blue.md "wikilink") 1집 정규 앨범이자, 데뷔 앨범이며 동명의 노래 타이틀곡이 쓰여 있다.
 
 ## 수록곡
 

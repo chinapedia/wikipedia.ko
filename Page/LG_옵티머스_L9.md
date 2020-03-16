@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [LG  L9](https://ko.wikipedia.org/wiki/LG__L9).
 
 
-**LG 옵티머스 L9**(LG Optimus L9)은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")에서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 31일에](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") 출시한 보급형 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**LG 옵티머스 L9**(LG Optimus L9)은 [LG전자](../Page/LG전자.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [10월 31일에](../Page/10월_31일.md "wikilink") 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-[LG 옵티머스 시리즈의](https://ko.wikipedia.org/wiki/LG_옵티머스_\(제품군\) "wikilink") G/뷰/L/F 라인 중 L라인으로 보급형 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 모델이며, 그중 하이엔드급 모델로 하드웨어의 성능은 [프라다 3.0과](https://ko.wikipedia.org/wiki/프라다_3.0 "wikilink") 비슷하다.
+[LG 옵티머스 시리즈의](../Page/LG_옵티머스_\(제품군\).md "wikilink") G/뷰/L/F 라인 중 L라인으로 보급형 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 모델이며, 그중 하이엔드급 모델로 하드웨어의 성능은 [프라다 3.0과](https://ko.wikipedia.org/wiki/프라다_3.0 "wikilink") 비슷하다.
 
 ## 운영체제 업그레이드
 
-### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.1.2 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
+### [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.2 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.1.2 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[1\]
+[2013년](../Page/2013년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.2 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[1\]
 
 주요 개선점은 다음과 같다.
 
@@ -48,7 +48,7 @@ Q메모를 어느화면에서나 보며 이중플레이 할 수 있는 겹쳐사
   - [LG 프라다 3.0](../Page/LG_프라다_3.0.md "wikilink")
   - [LG 옵티머스 4X HD](../Page/LG_옵티머스_4X_HD.md "wikilink")
   - [LG 옵티머스 L3](../Page/LG_옵티머스_L3.md "wikilink")
-  - [LG 옵티머스 L5](https://ko.wikipedia.org/wiki/LG_옵티머스_L5 "wikilink")
+  - [LG 옵티머스 L5](../Page/LG_옵티머스_L5.md "wikilink")
   - [LG 옵티머스 L7](../Page/LG_옵티머스_L7.md "wikilink")
   - [LG 옵티머스 F5](../Page/LG_옵티머스_F5.md "wikilink")
 

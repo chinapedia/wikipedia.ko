@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
 
 
-**파이어폭스 OS**(프로젝트 이름: Boot to Gecko, B2G)\[1\]는 [모질라](../Page/모질라.md "wikilink")가 개발한 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink") 및 [태블릿 컴퓨터용](../Page/태블릿_컴퓨터.md "wikilink") [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink"). [HTML5](https://ko.wikipedia.org/wiki/HTML5 "wikilink") 응용 프로그램들이 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")를 이용하여 기기의 하드웨어를 통합할 수 있게 구현한다.\[2\] [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 호환 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink") 및 [라즈베리파이](https://ko.wikipedia.org/wiki/라즈베리파이 "wikilink")에서도 시연되었다.\[3\]\[4\] 2.6 버전을 끝으로 스마트폰을 대상으로 2016년 5월 개발을 종료할 예정이다.
+**파이어폭스 OS**(프로젝트 이름: Boot to Gecko, B2G)\[1\]는 [모질라](../Page/모질라.md "wikilink")가 개발한 [스마트폰](../Page/스마트폰.md "wikilink") 및 [태블릿 컴퓨터용](../Page/태블릿_컴퓨터.md "wikilink") [오픈 소스](../Page/오픈_소스.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink"). [HTML5](../Page/HTML5.md "wikilink") 응용 프로그램들이 [자바스크립트](../Page/자바스크립트.md "wikilink")를 이용하여 기기의 하드웨어를 통합할 수 있게 구현한다.\[2\] [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 호환 [스마트폰](../Page/스마트폰.md "wikilink") 및 [라즈베리파이](https://ko.wikipedia.org/wiki/라즈베리파이 "wikilink")에서도 시연되었다.\[3\]\[4\] 2.6 버전을 끝으로 스마트폰을 대상으로 2016년 5월 개발을 종료할 예정이다.
 
 ## 단말기
 
-파이어폭스 OS(Firefox OS)는 중남미, 동유럽 등의 중진국 이하 신흥시장을 겨냥하고 있으며, 이에 따라 합리적 가격대의 중저가 단말기 출시를 목표로 하고 있다. 2013년 2월에 스페인 바르셀로나에서 열린 모바일 월드 콩그레스(Mobile World Congress)에서 처음으로 [ZTE](https://ko.wikipedia.org/wiki/ZTE "wikilink")의 오픈(Open)\[5\]과 알카텔(Alcatel)의 원터치 파이어(One Touch Fire)\[6\]가 발표되었으며, 이 중 [ZTE](https://ko.wikipedia.org/wiki/ZTE "wikilink")의 오픈(Open)은 2013년 7월 스페인 통신사업자인 [텔레포니카](https://ko.wikipedia.org/wiki/텔레포니카 "wikilink")를 통해 69[유로](https://ko.wikipedia.org/wiki/유로 "wikilink")에 출시되었다.\[7\]
+파이어폭스 OS(Firefox OS)는 중남미, 동유럽 등의 중진국 이하 신흥시장을 겨냥하고 있으며, 이에 따라 합리적 가격대의 중저가 단말기 출시를 목표로 하고 있다. 2013년 2월에 스페인 바르셀로나에서 열린 모바일 월드 콩그레스(Mobile World Congress)에서 처음으로 [ZTE](../Page/ZTE.md "wikilink")의 오픈(Open)\[5\]과 알카텔(Alcatel)의 원터치 파이어(One Touch Fire)\[6\]가 발표되었으며, 이 중 [ZTE](../Page/ZTE.md "wikilink")의 오픈(Open)은 2013년 7월 스페인 통신사업자인 [텔레포니카](../Page/텔레포니카.md "wikilink")를 통해 69[유로](../Page/유로.md "wikilink")에 출시되었다.\[7\]
 
 ## 코어 기술
 
@@ -13,13 +13,13 @@
 
 세 가지의 주요 소프트웨어 기술 계층으로 이루어져 있다.
 
-:\* *Gonk* –[리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 기반 커널과 하드웨어 추상화 계층
+:\* *Gonk* –[리눅스](../Page/리눅스.md "wikilink") 기반 커널과 하드웨어 추상화 계층
 
 :\* *[Gecko](../Page/게코_\(레이아웃_엔진\).md "wikilink")* – 레이아웃 엔진과 애플리케이션 런타임 서비스 계층
 
 :\* *[XULRunner](https://ko.wikipedia.org/wiki/XULRunner "wikilink")* - [모질라](../Page/모질라.md "wikilink")의 [XUL](../Page/XUL.md "wikilink")을 구동하기 위한 런타임 시스템
 
-:\* *Gaia* – [HTML5](https://ko.wikipedia.org/wiki/HTML5 "wikilink") 계층과 사용자 인터페이스 시스템
+:\* *Gaia* – [HTML5](../Page/HTML5.md "wikilink") 계층과 사용자 인터페이스 시스템
 
 ## 버전 변천사
 
@@ -42,24 +42,24 @@
 
   - [퀄컴](../Page/퀄컴.md "wikilink")
   - [알카텔](https://ko.wikipedia.org/wiki/알카텔 "wikilink")
-  - [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")
-  - [ZTE](https://ko.wikipedia.org/wiki/ZTE "wikilink")
-  - [화웨이](https://ko.wikipedia.org/wiki/화웨이 "wikilink")
+  - [LG전자](../Page/LG전자.md "wikilink")
+  - [ZTE](../Page/ZTE.md "wikilink")
+  - [화웨이](../Page/화웨이.md "wikilink")
   - SPREADTRUM
   - [VIA](https://ko.wikipedia.org/wiki/VIA "wikilink")
   - ARM(CPU)
-  - [파나소닉](https://ko.wikipedia.org/wiki/파나소닉 "wikilink")
+  - [파나소닉](../Page/파나소닉.md "wikilink")
 
 ### 통신사 파트너
 
   - Sprint
   - T-mobile
-  - [KDDI](https://ko.wikipedia.org/wiki/KDDI "wikilink")
-  - [KT](https://ko.wikipedia.org/wiki/KT "wikilink")
+  - [KDDI](../Page/KDDI.md "wikilink")
+  - [KT](../Page/KT.md "wikilink")
   - [차이나유니콤](https://ko.wikipedia.org/wiki/차이나유니콤 "wikilink")
   - [메가폰](https://ko.wikipedia.org/wiki/메가폰 "wikilink")
   - 텔레노르
-  - [텔레포니카](https://ko.wikipedia.org/wiki/텔레포니카 "wikilink")
+  - [텔레포니카](../Page/텔레포니카.md "wikilink")
   - [VEVO](https://ko.wikipedia.org/wiki/VEVO "wikilink")
   - movistar
   - 텔레콤 이탈리아
@@ -76,7 +76,7 @@
 ### 서비스 파트너
 
   - [트위터](../Page/트위터.md "wikilink")
-  - [위키백과](https://ko.wikipedia.org/wiki/위키백과 "wikilink")
+  - [위키백과](../Page/위키백과.md "wikilink")
   - [디즈니](https://ko.wikipedia.org/wiki/디즈니 "wikilink")
   - 사운드클라우드
   - [라인 (기업)](https://ko.wikipedia.org/wiki/라인_\(기업\) "wikilink")
@@ -94,23 +94,23 @@
 #### 통신사
 
   - T-mobile
-  - [KDDI](https://ko.wikipedia.org/wiki/KDDI "wikilink")
-  - [텔레포니카](https://ko.wikipedia.org/wiki/텔레포니카 "wikilink")
+  - [KDDI](../Page/KDDI.md "wikilink")
+  - [텔레포니카](../Page/텔레포니카.md "wikilink")
   - [텔레노르](https://ko.wikipedia.org/wiki/텔레노르 "wikilink")
 
 #### 제조사
 
-  - [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")
+  - [LG전자](../Page/LG전자.md "wikilink")
   - [모질라](../Page/모질라.md "wikilink")
   - [퀄컴](../Page/퀄컴.md "wikilink")
   - [소니 모바일](https://ko.wikipedia.org/wiki/소니_모바일 "wikilink")
   - SPREADTRUM
   - [TCL](https://ko.wikipedia.org/wiki/TCL "wikilink")
-  - [ZTE](https://ko.wikipedia.org/wiki/ZTE "wikilink")
+  - [ZTE](../Page/ZTE.md "wikilink")
 
 ## 경쟁 운영체제
 
-파이어폭스 OS의 주요한 경쟁 모바일 운영체제로는 [노키아](https://ko.wikipedia.org/wiki/노키아 "wikilink")의 저가단말기용 운영체제인 아샤(Asha)와 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 자바 기반 REX 플랫폼 등이 거론된다.
+파이어폭스 OS의 주요한 경쟁 모바일 운영체제로는 [노키아](../Page/노키아.md "wikilink")의 저가단말기용 운영체제인 아샤(Asha)와 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 자바 기반 REX 플랫폼 등이 거론된다.
 
 ## 참조
 

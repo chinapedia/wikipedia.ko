@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J  ](https://ko.wikipedia.org/wiki/J__).
 
 
-**J리그 승격 플레이오프**()는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")부터 [J리그 디비전 2의](https://ko.wikipedia.org/wiki/J리그_디비전_2 "wikilink") 규모가 22개 팀으로 확대되면서 도입한 방식으로, [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [풋볼 리그 챔피언십과](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 비슷하게 [J리그 디비전 1으로](https://ko.wikipedia.org/wiki/J리그_디비전_1 "wikilink") 승격할 3개 팀 중 1개 팀을 가리는 플레이오프이다.
+**J리그 승격 플레이오프**()는 [2012년](../Page/2012년.md "wikilink")부터 [J리그 디비전 2의](https://ko.wikipedia.org/wiki/J리그_디비전_2 "wikilink") 규모가 22개 팀으로 확대되면서 도입한 방식으로, [잉글랜드](../Page/잉글랜드.md "wikilink")의 [풋볼 리그 챔피언십과](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 비슷하게 [J리그 디비전 1으로](https://ko.wikipedia.org/wiki/J리그_디비전_1 "wikilink") 승격할 3개 팀 중 1개 팀을 가리는 플레이오프이다.
 
 ## 방식
 

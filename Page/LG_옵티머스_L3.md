@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [LG  L3](https://ko.wikipedia.org/wiki/LG__L3).
 
 
-**LG 옵티머스 L3**(LG Optimus L3)는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")에서 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink")에 출시한 보급형 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**LG 옵티머스 L3**(LG Optimus L3)는 [LG전자](../Page/LG전자.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [2월](../Page/2월.md "wikilink")에 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-[LG 옵티머스 시리즈의](https://ko.wikipedia.org/wiki/LG_옵티머스_\(제품군\) "wikilink") G/뷰/L/F 라인 중 L라인으로 보급형 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 모델이며, 그중 최하위급 모델이다.
+[LG 옵티머스 시리즈의](../Page/LG_옵티머스_\(제품군\).md "wikilink") G/뷰/L/F 라인 중 L라인으로 보급형 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 모델이며, 그중 최하위급 모델이다.
 
 ## 같이 보기
 
   - [삼성 갤럭시 Y](../Page/삼성_갤럭시_Y.md "wikilink")
-  - [LG 옵티머스 L5](https://ko.wikipedia.org/wiki/LG_옵티머스_L5 "wikilink")
+  - [LG 옵티머스 L5](../Page/LG_옵티머스_L5.md "wikilink")
   - [LG 옵티머스 L7](../Page/LG_옵티머스_L7.md "wikilink")
-  - [LG 옵티머스 L9](https://ko.wikipedia.org/wiki/LG_옵티머스_L9 "wikilink")
+  - [LG 옵티머스 L9](../Page/LG_옵티머스_L9.md "wikilink")
 
 ## 외부 링크
 

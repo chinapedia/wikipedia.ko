@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [HTC  X +](https://ko.wikipedia.org/wiki/HTC__X_+).
 
 
-**HTC 원 X +** ()는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 출시한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")으로, [원 X의](https://ko.wikipedia.org/wiki/원_X "wikilink") 업그레이드 버전이며, [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.1.1젤리빈을](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 탑재하여 출시했다.
+**HTC 원 X +** ()는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [원 X의](https://ko.wikipedia.org/wiki/원_X "wikilink") 업그레이드 버전이며, [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.1젤리빈을](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 탑재하여 출시했다.
 
-## [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [4.1 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
+## [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
 **원 X +**는 [4.1.1 젤리빈을](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 탑재하여 출시했다.
 

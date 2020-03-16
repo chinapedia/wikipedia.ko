@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [I  U](https://ko.wikipedia.org/wiki/I__U).
 
 
-《**I ♥ U**》 (아이 러브 유)는 일본의 록 밴드 [Mr.Children](https://ko.wikipedia.org/wiki/Mr.Children "wikilink")의 11번째 [스튜디오 음반이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 2005년 9월 21일 [토이즈 팩토리를](https://ko.wikipedia.org/wiki/토이즈_팩토리 "wikilink") 통해 발매되었다.
+《**I ♥ U**》 (아이 러브 유)는 일본의 록 밴드 [Mr.Children](../Page/Mr.Children.md "wikilink")의 11번째 [스튜디오 음반이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 2005년 9월 21일 [토이즈 팩토리를](https://ko.wikipedia.org/wiki/토이즈_팩토리 "wikilink") 통해 발매되었다.
 
 ## 발매
 
-이전 음반 《[시후쿠노오토](https://ko.wikipedia.org/wiki/시후쿠노오토 "wikilink")》 이후 1년 반 만에 발매된 음반이다. 음반 제목인 'I Love U'의 'Love' 표기는 정확히는 하트 마크가 사용된다.
+이전 음반 《[시후쿠노오토](../Page/시후쿠노오토.md "wikilink")》 이후 1년 반 만에 발매된 음반이다. 음반 제목인 'I Love U'의 'Love' 표기는 정확히는 하트 마크가 사용된다.
 
 테마는 이전 음반과는 정반대로 〈죽음의 향기〉. 〈충동〉, 〈정열〉 등이다. 제작 초기 음반 제목은 《DOORS》였으나 어둡다는 이유로 《I ♥ U》로 변경되었다.
 

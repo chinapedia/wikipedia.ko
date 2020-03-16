@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  LTE M](https://ko.wikipedia.org/wiki/__LTE_M).
 
 
-**팬택 스카이 베가 LTE M**(Pantech SKY VEGA LTE M)은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 12일에](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") 출시된 [팬택](../Page/팬택.md "wikilink")의 스마트폰이다. [스카이 베가 LTE의](https://ko.wikipedia.org/wiki/스카이_베가_LTE "wikilink") 후속 기종이다.[SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink"), [KT](https://ko.wikipedia.org/wiki/KT "wikilink") 전용 모델로 출시되었다.
+**팬택 스카이 베가 LTE M**(Pantech SKY VEGA LTE M)은 [2011년](../Page/2011년.md "wikilink") [12월 12일에](../Page/12월_12일.md "wikilink") 출시된 [팬택](../Page/팬택.md "wikilink")의 스마트폰이다. [스카이 베가 LTE의](https://ko.wikipedia.org/wiki/스카이_베가_LTE "wikilink") 후속 기종이다.[SK텔레콤](../Page/SK텔레콤.md "wikilink"), [KT](../Page/KT.md "wikilink") 전용 모델로 출시되었다.
 
 ## 운영 체제/소프트웨어
 

@@ -12,7 +12,7 @@
 5.  "Your Tears Are Comin'" (Steele, Tom Hambridge) - 4:04
 6.  "Clouds" (Steele, Eddie Montgomery, Tony Mullins) - 3:45
 7.  "Twenty Years Ago" (Steele, Gary Nicholson, Rivers Rutherford) - 4:21
-8.  "[What Do Ya Think About That](https://ko.wikipedia.org/wiki/What_Do_Ya_Think_About_That "wikilink")" (Anthony Smith, Brett Jones) - 3:40
+8.  "[What Do Ya Think About That](../Page/What_Do_Ya_Think_About_That.md "wikilink")" (Anthony Smith, Brett Jones) - 3:40
 9.  "Redder Than That" (George Teren, Rutherford) - 4:18
 10. "A Man's Job" (Montgomery, Gary Hannan, Phil O'Donnell) - 4:11
 11. "If You Wanna Keep an Angel" (Tom Shapiro, Rutherford, Gentry) - 4:28

@@ -6,12 +6,12 @@
 ## 제작 영화
 
   - [트로이](../Page/트로이_\(영화\).md "wikilink")(2004)
-  - [찰리와 초콜릿 공장](https://ko.wikipedia.org/wiki/찰리와_초콜릿_공장_\(영화\) "wikilink")(2005)
+  - [찰리와 초콜릿 공장](../Page/찰리와_초콜릿_공장_\(영화\).md "wikilink")(2005)
   - [디파티드](../Page/디파티드.md "wikilink")(2006)
   - [비겁한 로버트 포드의 제시 제임스 암살](../Page/비겁한_로버트_포드의_제시_제임스_암살.md "wikilink")(2007)
   - [시간 여행자의 아내](../Page/시간_여행자의_아내_\(영화\).md "wikilink")(2009)
   - [킥 애스: 영웅의 탄생](../Page/킥_애스:_영웅의_탄생.md "wikilink")(2010)
-  - [트리 오브 라이프](https://ko.wikipedia.org/wiki/트리_오브_라이프 "wikilink")(2011)
+  - [트리 오브 라이프](../Page/트리_오브_라이프.md "wikilink")(2011)
   - [머니볼](../Page/머니볼_\(영화\).md "wikilink")(2011)
   - [월드워 Z](https://ko.wikipedia.org/wiki/월드워_Z "wikilink")(2013)
   - [킥 애스 2: 겁 없는 녀석들](../Page/킥_애스_2:_겁_없는_녀석들.md "wikilink")(2013)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AKB48 ](https://ko.wikipedia.org/wiki/AKB48_).
 
 
-**AKB48 그룹**(, )은 [아키모토 야스시가](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 제작한 여성 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink")과 자매 그룹에서 형성되는 아이돌 프로젝트 브랜드로, AKB48과 자매 그룹의 총칭이다.
+**AKB48 그룹**(, )은 [아키모토 야스시가](../Page/아키모토_야스시.md "wikilink") 제작한 여성 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink")과 자매 그룹에서 형성되는 아이돌 프로젝트 브랜드로, AKB48과 자매 그룹의 총칭이다.
 
 **AKB 그룹**, **48 그룹**, **AKB48 프로젝트**, **AKB48 패밀리**, **AKB48G**, **AKBG**, **48G**로 불리기도 하며, 단순히 **48**로 표기되기도 한다.
 
@@ -24,34 +24,34 @@
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>2005년 12월 -</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄도_구부" title="wikilink">도쿄</a> <a href="https://ko.wikipedia.org/wiki/아키하바라" title="wikilink">아키하바라</a></p></td>
+<td><p><a href="../Page/도쿄도_구부.md" title="wikilink">도쿄</a> <a href="../Page/아키하바라.md" title="wikilink">아키하바라</a></p></td>
 <td><p>분홍</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a></p></td>
+<td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>2008년 8월 -</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야시" title="wikilink">나고야시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야시</a></p></td>
 <td><p>오렌지</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>2010년 10월 -</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카시" title="wikilink">오사카시</a> <a href="https://ko.wikipedia.org/wiki/난바" title="wikilink">난바</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카시</a> <a href="../Page/난바.md" title="wikilink">난바</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>2011년 10월 -</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카시" title="wikilink">후쿠오카시</a> (<a href="https://ko.wikipedia.org/wiki/하카타" title="wikilink">하카타</a>)</p></td>
+<td><p><a href="../Page/후쿠오카시.md" title="wikilink">후쿠오카시</a> (<a href="https://ko.wikipedia.org/wiki/하카타" title="wikilink">하카타</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a></p></td>
 <td><p>2015년 6월 -</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/니가타시" title="wikilink">니가타시</a></p></td>
+<td><p><a href="../Page/니가타시.md" title="wikilink">니가타시</a></p></td>
 <td><p>흰색과  빨간색</p></td>
 <td></td>
 </tr>
@@ -66,35 +66,35 @@
 <td><p><a href="../Page/JKT48.md" title="wikilink">JKT48</a></p></td>
 <td><p>2011년 11월 -</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자카르타" title="wikilink">자카르타</a></p></td>
+<td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/BNK48.md" title="wikilink">BNK48</a></p></td>
 <td><p>2017년 2월 -</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td><p>난초</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/MNL48.md" title="wikilink">MNL48</a></p></td>
 <td><p>2018년 4월 -</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<td><p><a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/AKB48_Team_SH.md" title="wikilink">AKB48 Team SH</a></p></td>
 <td><p>2018년 8월 -</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상하이시" title="wikilink">상하이시</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상하이시</a></p></td>
 <td><p>흰색과  분홍색</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/AKB48_Team_TP.md" title="wikilink">AKB48 Team TP</a></p></td>
 <td><p>2018년 8월 -</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이시" title="wikilink">타이베이시</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이시</a></p></td>
 <td><p>망고 (그라데이션)</p></td>
 </tr>
 <tr class="even">
@@ -108,14 +108,14 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/CGM48" title="wikilink">CGM48</a></p></td>
 <td><p>2019년 10월 -</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/치앙마이" title="wikilink">치앙마이</a></p></td>
+<td><p><a href="../Page/치앙마이.md" title="wikilink">치앙마이</a></p></td>
 <td><p>청록</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/DEL48" title="wikilink">DEL48</a></p></td>
 <td><p>2019년 12월 -</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/델리" title="wikilink">델리</a></p></td>
+<td><p><a href="../Page/델리.md" title="wikilink">델리</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -145,7 +145,7 @@
 <td><p><a href="../Page/MUB48.md" title="wikilink">MUB48</a></p></td>
 <td><p>미정</p></td>
 <td><p>|</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뭄바이" title="wikilink">뭄바이</a></p></td>
+<td><p><a href="../Page/뭄바이.md" title="wikilink">뭄바이</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -172,17 +172,17 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/SDN48" title="wikilink">SDN48</a></p></td>
+<td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a></p></td>
 <td><p>2009년 8월 - 2012년 3월</p></td>
 <td></td>
-<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a> <a href="https://ko.wikipedia.org/wiki/아키하바라" title="wikilink">아키하바라</a></p></td>
+<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a> <a href="../Page/아키하바라.md" title="wikilink">아키하바라</a></p></td>
 <td><p>실버</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/AKB48_Team_TP.md" title="wikilink">TPE48</a></p></td>
 <td><p>2018년 3월 - 7월</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이시" title="wikilink">타이베이시</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이시</a></p></td>
 <td><p>망고 (그라데이션)</p></td>
 </tr>
 <tr class="odd">
@@ -235,7 +235,7 @@
   - [SNH48 그룹](../Page/SNH48_그룹.md "wikilink")
   - [아이즈원](../Page/아이즈원.md "wikilink")
   - [=LOVE](../Page/=LOVE.md "wikilink")
-  - [≠ME](https://ko.wikipedia.org/wiki/≠ME "wikilink")
+  - [≠ME](../Page/≠ME.md "wikilink")
 
 ## 외부 링크
 
@@ -263,13 +263,13 @@
   - [AKB48 그룹 LIVE\!\! ON DEMAND](http://www.dmm.com/lod/) - [DMM.com](../Page/DMM.com.md "wikilink")
   - [AKB48 그룹 영상 창고](https://akb48group-eizo.jp/) - [레코쵸쿠](https://ko.wikipedia.org/wiki/레코쵸쿠 "wikilink")
   - [AKB48 그룹×SHOWROOM 멤버 개인 방송](https://www.showroom-live.com/campaign/akb48_sr) - [SHOWROOM](https://ko.wikipedia.org/wiki/SHOWROOM "wikilink")
-  - [AKB48 그룹 공식 생방송 정리](https://web.archive.org/web/20180816195150/http://ch.nicovideo.jp/AKB48-niconama) - [니코니코 채널](https://ko.wikipedia.org/wiki/니코니코_채널 "wikilink")
+  - [AKB48 그룹 공식 생방송 정리](https://web.archive.org/web/20180816195150/http://ch.nicovideo.jp/AKB48-niconama) - [니코니코 채널](../Page/니코니코_채널.md "wikilink")
   - [AKB48 그룹](https://live.line.me/channels/26) - [LINE LIVE](https://ko.wikipedia.org/wiki/LINE_LIVE "wikilink")
   - [AKB48 그룹](https://timeline.line.me/user/_dSm-ZCnt8ud3tL0CQuPBRRcR8icmz-p3P9FkuGk) - [라인 타임라인](../Page/라인_\(소프트웨어\).md "wikilink")
 
 [AKB48_그룹](https://ko.wikipedia.org/wiki/분류:AKB48_그룹 "wikilink")
 
-1.  대양 ([세토 내해](https://ko.wikipedia.org/wiki/세토_내해 "wikilink")), 7개 현 ([효고현](https://ko.wikipedia.org/wiki/효고현 "wikilink") · [오카야마현](https://ko.wikipedia.org/wiki/오카야마현 "wikilink") · [히로시마현](https://ko.wikipedia.org/wiki/히로시마현 "wikilink") · [야마구치현](https://ko.wikipedia.org/wiki/야마구치현 "wikilink") · [에히메현](https://ko.wikipedia.org/wiki/에히메현 "wikilink") · [가가와현](https://ko.wikipedia.org/wiki/가가와현 "wikilink") · [도쿠시마현](https://ko.wikipedia.org/wiki/도쿠시마현 "wikilink"))을 두루 활동하며, 멤버의 활동 거점은 [히로시마 시이다](https://ko.wikipedia.org/wiki/히로시마_시 "wikilink").
+1.  대양 ([세토 내해](https://ko.wikipedia.org/wiki/세토_내해 "wikilink")), 7개 현 ([효고현](../Page/효고현.md "wikilink") · [오카야마현](../Page/오카야마현.md "wikilink") · [히로시마현](../Page/히로시마현.md "wikilink") · [야마구치현](../Page/야마구치현.md "wikilink") · [에히메현](../Page/에히메현.md "wikilink") · [가가와현](../Page/가가와현.md "wikilink") · [도쿠시마현](../Page/도쿠시마현.md "wikilink"))을 두루 활동하며, 멤버의 활동 거점은 [히로시마 시이다](https://ko.wikipedia.org/wiki/히로시마_시 "wikilink").
 2.
 3.
 4.

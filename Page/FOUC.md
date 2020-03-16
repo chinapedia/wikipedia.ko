@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FOUC](https://ko.wikipedia.org/wiki/FOUC).
 
 
-**FOUC**(Flash Of Unstyled Content)는 외부의 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink")가 불러오기 전에 잠시 스타일이 적용되지 않은 웹 페이지가 나타나는 현상이다. 이 현상은 스타일이 적용되지 않은 웹 페이지가 스타일이 적용된 웹 페이지로 변화하는 것이다. [웹 브라우저가](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink") 웹 페이지에 스타일 정의를 부르고 적용할 때 보여지는 부분을 최대한 빨리 수정하지만, 이 변화는 짧지 않은 시간 동안 나타나므로 사용자는 페이지에 오류가 있다는 생각을 하게된다.
+**FOUC**(Flash Of Unstyled Content)는 외부의 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink")가 불러오기 전에 잠시 스타일이 적용되지 않은 웹 페이지가 나타나는 현상이다. 이 현상은 스타일이 적용되지 않은 웹 페이지가 스타일이 적용된 웹 페이지로 변화하는 것이다. [웹 브라우저가](../Page/웹_브라우저.md "wikilink") 웹 페이지에 스타일 정의를 부르고 적용할 때 보여지는 부분을 최대한 빨리 수정하지만, 이 변화는 짧지 않은 시간 동안 나타나므로 사용자는 페이지에 오류가 있다는 생각을 하게된다.
 
-FOUC는 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink")와 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")의 버전 변화와는 관계가 없으며, 이것은 브라우저의 문제로 보인다. 하지만 이 문제는 브라우저에서 큰 문제가 아닌 것으로 보이는데, 브라우저 내에 프로그램된 우선 사항들이 페이지를 보여줄 때 아래와 같은 방식으로 처리하기 때문이다.
+FOUC는 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink")와 [HTML](../Page/HTML.md "wikilink")의 버전 변화와는 관계가 없으며, 이것은 브라우저의 문제로 보인다. 하지만 이 문제는 브라우저에서 큰 문제가 아닌 것으로 보이는데, 브라우저 내에 프로그램된 우선 사항들이 페이지를 보여줄 때 아래와 같은 방식으로 처리하기 때문이다.
 
   - 브라우저는 웹 페이지의 마크업에서 참조된 모든 부수적인 파일들을 모아 그 즉시 DOM을 빌드한다.
   - 브라우저는 처음으로 표시할 가장 빠르게 분석할 수 있는, 즉 글의 내용을 골라 먼저 화면에 표시한다.

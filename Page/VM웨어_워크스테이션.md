@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VM ](https://ko.wikipedia.org/wiki/VM_).
 
 
-**VM웨어 워크스테이션**(VMware Workstation)은 [VM웨어](../Page/VM웨어.md "wikilink")사가 만든 [하이퍼바이저](../Page/하이퍼바이저.md "wikilink") 기반 [가상머신](https://ko.wikipedia.org/wiki/가상머신 "wikilink") [소프트웨어](https://ko.wikipedia.org/wiki/소프트웨어 "wikilink")이다. 현재는 [x64](https://ko.wikipedia.org/wiki/x64 "wikilink") 버전의 윈도우와 리눅스 운영 체제에서 구동되는 [하이퍼바이저](../Page/하이퍼바이저.md "wikilink")이지만\[1\], [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 버전의 과거 릴리스도 이용이 가능했다.\[2\]
+**VM웨어 워크스테이션**(VMware Workstation)은 [VM웨어](../Page/VM웨어.md "wikilink")사가 만든 [하이퍼바이저](../Page/하이퍼바이저.md "wikilink") 기반 [가상머신](https://ko.wikipedia.org/wiki/가상머신 "wikilink") [소프트웨어](../Page/소프트웨어.md "wikilink")이다. 현재는 [x64](https://ko.wikipedia.org/wiki/x64 "wikilink") 버전의 윈도우와 리눅스 운영 체제에서 구동되는 [하이퍼바이저](../Page/하이퍼바이저.md "wikilink")이지만\[1\], [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 버전의 과거 릴리스도 이용이 가능했다.\[2\]
 
 VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이션과 별개로 [VM웨어 플레이어라는](https://ko.wikipedia.org/wiki/VM웨어_플레이어 "wikilink") 무료 제품이 있었다. 2015년에 두 개의 패키지가 VM웨어 워크스테이션 12로 통합되었으며, 비상업적인 목적으로 **VM웨어 워크스테이션 플레이어**라는 무료 제품을 사용하다가 라이선스 코드를 구매시 VM웨어 워크스테이션 프로라는 상위 사양으로 갱신할 수 있다.\[3\]
 
@@ -101,7 +101,7 @@ VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이
 <li>새 운영 체제 지원
 <ul>
 <li><a href="https://ko.wikipedia.org/wiki/우분투_버전_역사" title="wikilink">우분투 12.04</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/윈도우_8" title="wikilink">윈도우 8</a></li>
+<li><a href="../Page/윈도우_8.md" title="wikilink">윈도우 8</a></li>
 <li><a href="../Page/윈도우_서버_2012.md" title="wikilink">윈도우 서버 2012</a></li>
 </ul></li>
 </ul></td>
@@ -121,7 +121,7 @@ VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이
 <li>16개 <a href="https://ko.wikipedia.org/wiki/vCPU" title="wikilink">vCPU</a></li>
 <li>8 <a href="https://ko.wikipedia.org/wiki/테라바이트" title="wikilink">TB</a> 디스크</li>
 <li>새 가상 <a href="https://ko.wikipedia.org/wiki/시리얼_ATA" title="wikilink">SATA</a> 디스크 컨트롤러</li>
-<li><a href="https://ko.wikipedia.org/wiki/USB_3.0" title="wikilink">USB 3.0</a> 스트림 지원</li>
+<li><a href="../Page/USB_3.0.md" title="wikilink">USB 3.0</a> 스트림 지원</li>
 <li><a href="https://ko.wikipedia.org/wiki/솔리드_스테이트_디스크" title="wikilink">SSD</a> 패스스루</li>
 </ul></li>
 <li>기간 만료 가상 머신</li>
@@ -129,12 +129,12 @@ VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이
 <ul>
 <li><a href="https://ko.wikipedia.org/wiki/가속도계" title="wikilink">가속도계</a></li>
 <li><a href="../Page/자이로스코프.md" title="wikilink">자이로스코프</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/나침반" title="wikilink">나침반</a></li>
+<li><a href="../Page/나침반.md" title="wikilink">나침반</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/조도_센서" title="wikilink">조도 센서</a></li>
 </ul></li>
-<li><a href="https://ko.wikipedia.org/wiki/사용자_인터페이스" title="wikilink">사용자 인터페이스</a> 개선</li>
+<li><a href="../Page/사용자_인터페이스.md" title="wikilink">사용자 인터페이스</a> 개선</li>
 <li>클라우드 관리 도구</li>
-<li>VMware <a href="https://ko.wikipedia.org/wiki/KVM_스위치" title="wikilink">KVM</a></li>
+<li>VMware <a href="../Page/KVM_스위치.md" title="wikilink">KVM</a></li>
 <li>WSX 1.1</li>
 </ul></td>
 </tr>
@@ -226,10 +226,10 @@ VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이
 <ul>
 <li><a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/우분투_버전_역사#1410" title="wikilink">우분투 14.10</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/레드햇_엔터프라이즈_리눅스" title="wikilink">RHEL 7</a></li>
+<li><a href="../Page/레드햇_엔터프라이즈_리눅스.md" title="wikilink">RHEL 7</a></li>
 <li><a href="../Page/CentOS.md" title="wikilink">CentOS 7</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/페도라_20" title="wikilink">페도라 20</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/데비안" title="wikilink">데비안 7.6</a></li>
+<li><a href="../Page/데비안.md" title="wikilink">데비안 7.6</a></li>
 </ul></li>
 <li>VMware 하드웨어 버전 11
 <ul>
@@ -408,8 +408,8 @@ VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이
 <td><p>2017년 9월 26일</p></td>
 <td><p>이 주요 버전 릴리스는 다음의 강조사항을 포함함:</p>
 <ul>
-<li>최신 버전의 <a href="https://ko.wikipedia.org/wiki/마이크로소프트" title="wikilink">마이크로소프트</a> <a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a>(엔터프라이즈 포함), <a href="../Page/윈도우_서버_2016.md" title="wikilink">윈도우 서버</a> 에디션, 다양한 <a href="https://ko.wikipedia.org/wiki/리눅스" title="wikilink">리눅스</a> 배포판을 지원하도록 업데이트됨</li>
-<li>최신 <a href="https://ko.wikipedia.org/wiki/인텔" title="wikilink">인텔</a>, <a href="https://ko.wikipedia.org/wiki/AMD" title="wikilink">AMD</a> 프로세서 지원 업데이트, 2011년 이전 CPU의 경우 지원에 제한이 있거나 지원하지 않음</li>
+<li>최신 버전의 <a href="../Page/마이크로소프트.md" title="wikilink">마이크로소프트</a> <a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a>(엔터프라이즈 포함), <a href="../Page/윈도우_서버_2016.md" title="wikilink">윈도우 서버</a> 에디션, 다양한 <a href="../Page/리눅스.md" title="wikilink">리눅스</a> 배포판을 지원하도록 업데이트됨</li>
+<li>최신 <a href="../Page/인텔.md" title="wikilink">인텔</a>, <a href="https://ko.wikipedia.org/wiki/AMD" title="wikilink">AMD</a> 프로세서 지원 업데이트, 2011년 이전 CPU의 경우 지원에 제한이 있거나 지원하지 않음</li>
 <li><a href="https://ko.wikipedia.org/wiki/UEFI" title="wikilink">UEFI</a> 등의 가상 펌웨어 지원 개선 및 새 시큐어 부트(Secure Boot) 지원</li>
 <li>VBS(Virtualization Based Security) 지원</li>
 <li>가상 네트워크 개선</li>
@@ -452,8 +452,8 @@ VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이
 <td><p>2018년 9월 24일</p></td>
 <td><p>이 주요 버전 릴리스는 다음의 강조사항을 포함함:</p>
 <ul>
-<li>최신 버전의 <a href="https://ko.wikipedia.org/wiki/마이크로소프트" title="wikilink">마이크로소프트</a> <a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a>(엔터프라이즈 포함), 다양한 <a href="https://ko.wikipedia.org/wiki/리눅스" title="wikilink">리눅스</a> 배포판을 지원하도록 업데이트됨</li>
-<li>이 버전은 <a href="https://ko.wikipedia.org/wiki/4K_해상도" title="wikilink">4K 해상도를</a> 지원함.</li>
+<li>최신 버전의 <a href="../Page/마이크로소프트.md" title="wikilink">마이크로소프트</a> <a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a>(엔터프라이즈 포함), 다양한 <a href="../Page/리눅스.md" title="wikilink">리눅스</a> 배포판을 지원하도록 업데이트됨</li>
+<li>이 버전은 <a href="../Page/4K_해상도.md" title="wikilink">4K 해상도를</a> 지원함.</li>
 <li>이 버전은 <a href="../Page/Direct3D.md" title="wikilink">DirectX 10.1을</a> 지원함.</li>
 <li>이 버전은 공유 그래픽스 메모리 제한을 3GB로 증가시킴.</li>
 <li>이 버전은 HTTP/HTTPS를 경유하는 표준 JSON을 사용하여 공통 가상 머신 작업을 자동화하기 위한 새로운 RESTful API를 추가함.</li>
@@ -469,7 +469,7 @@ VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이
 <td><p>15.0.1[46]</p></td>
 <td><p>2018년 11월 9일</p></td>
 <td><ul>
-<li>이 버전은 최신 버전의 다양한 <a href="https://ko.wikipedia.org/wiki/리눅스" title="wikilink">리눅스</a> 배포판의 지원을 추가함.</li>
+<li>이 버전은 최신 버전의 다양한 <a href="../Page/리눅스.md" title="wikilink">리눅스</a> 배포판의 지원을 추가함.</li>
 <li>버그 수정 및 보안 업데이트.</li>
 </ul></td>
 </tr>
@@ -477,7 +477,7 @@ VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이
 <td><p>15.0.2[47]</p></td>
 <td><p>2018년 11월 22일</p></td>
 <td><ul>
-<li>최신 버전의 <a href="https://ko.wikipedia.org/wiki/마이크로소프트" title="wikilink">마이크로소프트</a> <a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a>(엔터프라이즈 포함) 및 <a href="../Page/윈도우_서버_2019.md" title="wikilink">윈도우 서버 2019를</a> 지원하도록 업데이트됨.</li>
+<li>최신 버전의 <a href="../Page/마이크로소프트.md" title="wikilink">마이크로소프트</a> <a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a>(엔터프라이즈 포함) 및 <a href="../Page/윈도우_서버_2019.md" title="wikilink">윈도우 서버 2019를</a> 지원하도록 업데이트됨.</li>
 <li>버그 수정 및 보안 업데이트.</li>
 </ul></td>
 </tr>
@@ -501,9 +501,9 @@ VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이
 <td><ul>
 <li>이 버전은 새로운 게스트 운영 체제 지원을 추가함
 <ul>
-<li>최신 버전의 <a href="https://ko.wikipedia.org/wiki/마이크로소프트" title="wikilink">마이크로소프트</a> <a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a> (엔터프라이즈 포함)</li>
+<li>최신 버전의 <a href="../Page/마이크로소프트.md" title="wikilink">마이크로소프트</a> <a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a> (엔터프라이즈 포함)</li>
 <li><a href="https://ko.wikipedia.org/wiki/우분투_버전_역사#1904" title="wikilink">우분투 19.04</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/레드햇_엔터프라이즈_리눅스" title="wikilink">RHEL 8</a></li>
+<li><a href="../Page/레드햇_엔터프라이즈_리눅스.md" title="wikilink">RHEL 8</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/페도라_버전_역사" title="wikilink">페도라 30</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/VMware_ESXi" title="wikilink">VMware ESXi 6.7 업데이트 2</a></li>
 </ul></li>
@@ -517,11 +517,11 @@ VM웨어 플레이어 v7, 워크스테이션 v11까지만 해도 워크스테이
 <td><ul>
 <li>이 버전은 새로운 게스트 운영 체제의 지원을 추가함
 <ul>
-<li>최신 버전의 <a href="https://ko.wikipedia.org/wiki/마이크로소프트" title="wikilink">마이크로소프트</a> <a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a> (엔터프라이즈 포함)</li>
+<li>최신 버전의 <a href="../Page/마이크로소프트.md" title="wikilink">마이크로소프트</a> <a href="../Page/윈도우_10.md" title="wikilink">윈도우 10</a> (엔터프라이즈 포함)</li>
 <li><a href="https://ko.wikipedia.org/wiki/데비안_버전_역사" title="wikilink">데비안 9.11</a> &amp; <a href="https://ko.wikipedia.org/wiki/데비안_버전_역사" title="wikilink">10</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/오라클_리눅스" title="wikilink">오라클 리눅스 8.0</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/SUSE_리눅스_엔터프라이즈" title="wikilink">SUSE 리눅스 엔터프라이즈 서버 15 SP1</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/FreeBSD" title="wikilink">FreeBSD 12.0</a></li>
+<li><a href="../Page/FreeBSD.md" title="wikilink">FreeBSD 12.0</a></li>
 <li>PhotonOS 3.0</li>
 </ul></li>
 <li>MTU를 최대 9,000 바이트까지 구성할 수 있는 가상 네트워크 지원 추가</li>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tagtrume \(\)](https://ko.wikipedia.org/wiki/Tagtrume_\(\)).
 
 
-**Tagträume 콘서트**는 [국카스텐](https://ko.wikipedia.org/wiki/국카스텐 "wikilink")의 EP《[Tagträume](../Page/Tagträume.md "wikilink")》발매기념 콘서트이다. 2011년 1월 22일을 시작으로 서울, 인천, 부산, 대구등 총4회의 공연을 가졌다. 부산 공연에서는 핑거스타일 기타리스트 김종걸이 오프닝공연으로 참여하였다.
+**Tagträume 콘서트**는 [국카스텐](../Page/국카스텐.md "wikilink")의 EP《[Tagträume](../Page/Tagträume.md "wikilink")》발매기념 콘서트이다. 2011년 1월 22일을 시작으로 서울, 인천, 부산, 대구등 총4회의 공연을 가졌다. 부산 공연에서는 핑거스타일 기타리스트 김종걸이 오프닝공연으로 참여하였다.
 
 ## 공연 일정
 
@@ -17,7 +17,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2011년 1월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p>롤링홀</p></td>
 </tr>
@@ -35,7 +35,7 @@
 </tr>
 <tr class="even">
 <td><p>2011년 4월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대구광역시" title="wikilink">대구</a></p></td>
+<td><p><a href="../Page/대구광역시.md" title="wikilink">대구</a></p></td>
 <td><p>대백프라자 프라임홀</p></td>
 <td></td>
 </tr>
@@ -47,9 +47,9 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/1월_22일" title="wikilink">1월 22일</a> (Electric set)<br />
+<th><p><a href="../Page/1월_22일.md" title="wikilink">1월 22일</a> (Electric set)<br />
 서울</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/1월_23일" title="wikilink">1월 23일</a> (Acoustic set)<br />
+<th><p><a href="../Page/1월_23일.md" title="wikilink">1월 23일</a> (Acoustic set)<br />
 인천</p></th>
 </tr>
 </thead>
@@ -84,7 +84,7 @@
 <li>Alcoholic (원곡:<a href="https://ko.wikipedia.org/wiki/스타세일러" title="wikilink">Starsailor</a>)</li>
 <li>Faust</li>
 <li>Gavial</li>
-<li>이정길 솔로 - Thinking About You (원곡:<a href="https://ko.wikipedia.org/wiki/라디오헤드" title="wikilink">Radiohead</a>)</li>
+<li>이정길 솔로 - Thinking About You (원곡:<a href="../Page/라디오헤드.md" title="wikilink">Radiohead</a>)</li>
 <li>깃털</li>
 <li>붉은 밭 (With 탭퍼J(지은성))</li>
 <li>지렁이</li>
@@ -94,9 +94,9 @@
 </ol></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_16일" title="wikilink">4월 16일</a> (Electric set)<br />
+<td><p><a href="../Page/4월_16일.md" title="wikilink">4월 16일</a> (Electric set)<br />
 부산</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_17일" title="wikilink">4월 17일</a> (Acoustic set)<br />
+<td><p><a href="../Page/4월_17일.md" title="wikilink">4월 17일</a> (Acoustic set)<br />
 대구</p></td>
 </tr>
 <tr class="odd">

@@ -5,7 +5,7 @@
 
 ## 역사
 
-2012년 6월 WWE 산하단체 [FCW와](../Page/플로리다_챔피언십_레슬링.md "wikilink") 신인 발굴 프로그램 [NXT가](https://ko.wikipedia.org/wiki/WWE_NXT_\(텔레비전_프로그램\) "wikilink") 통합되어 새롭게 출범한 WWE 산하 단체이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [6월 20일부터](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 11일까지는](https://ko.wikipedia.org/wiki/9월_11일 "wikilink") [WWE 네트워크에서](../Page/WWE_네트워크.md "wikilink") 1시간 분량으로 녹화방송되었고, [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 18일부터](https://ko.wikipedia.org/wiki/9월_18일 "wikilink") USA 네트워크에서 2시간 생방송으로 방송예정이다.
+2012년 6월 WWE 산하단체 [FCW와](../Page/플로리다_챔피언십_레슬링.md "wikilink") 신인 발굴 프로그램 [NXT가](../Page/WWE_NXT_\(텔레비전_프로그램\).md "wikilink") 통합되어 새롭게 출범한 WWE 산하 단체이다. [2012년](../Page/2012년.md "wikilink") [6월 20일부터](../Page/6월_20일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [9월 11일까지는](../Page/9월_11일.md "wikilink") [WWE 네트워크에서](../Page/WWE_네트워크.md "wikilink") 1시간 분량으로 녹화방송되었고, [2019년](../Page/2019년.md "wikilink") [9월 18일부터](../Page/9월_18일.md "wikilink") USA 네트워크에서 2시간 생방송으로 방송예정이다.
 
 ## 역대 제너럴 매니저
 
@@ -139,18 +139,18 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/WWE_NXT_노스_아메리칸_챔피언십" title="wikilink">NXT 노스 아메리칸 챔피언</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/케에빈_페에인" title="wikilink">키스 리</a></p></td>
 <td><p>2020년 1월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/WWE_NXT" title="wikilink">WWE NXT</a></p></td>
+<td><p><a href="../Page/WWE_NXT.md" title="wikilink">WWE NXT</a></p></td>
 <td><p><a href="../Page/로더릭_스트롱.md" title="wikilink">로더릭 스트롱</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/WWE_NXT_위민스_챔피언십" title="wikilink">NXT 위민스 챔피언</a></p></td>
 <td><p>리아 리플리</p></td>
 <td><p>2019년 12월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/WWE_NXT" title="wikilink">WWE NXT</a></p></td>
+<td><p><a href="../Page/WWE_NXT.md" title="wikilink">WWE NXT</a></p></td>
 <td><p>셰이나 배즐러</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/WWE_NXT_태그팀_챔피언십" title="wikilink">NXT 태그팀 챔피언</a></p></td>
+<td><p><a href="../Page/WWE_NXT_태그팀_챔피언십.md" title="wikilink">NXT 태그팀 챔피언</a></p></td>
 <td><p>브로저웨이트<br />
 (맷 리들 &amp; 피트 던)</p></td>
 <td><p>2020년 2월 16일</p></td>

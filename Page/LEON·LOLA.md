@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [LEONLOLA](https://ko.wikipedia.org/wiki/LEONLOLA).
 
 
-**LEON**() 및 **LOLA**()는 영국의 [ZERO-G](https://ko.wikipedia.org/wiki/ZERO-G "wikilink")​​에서 발매 된 영어 음성 합성, 보컬 신디사이저 소프트웨어이다. 멜로디와 가사를 입력하면 컴퓨터에서 노래를 합성 할 수 있다. [야마하](../Page/야마하.md "wikilink")가 개발 한 음성 합성 시스템 [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink")를 채용한 첫 제품 NAMM 2004 Winter ([2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [1월 15일](https://ko.wikipedia.org/wiki/1월_15일 "wikilink") \~ [18일](https://ko.wikipedia.org/wiki/1월_18일 "wikilink"))에서 동시 발매 되었다. 일본 내에서는 [크립톤 퓨처 미디어가](../Page/크립톤_퓨처_미디어.md "wikilink") [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [3월 3일부터](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") 판매를 시작하였다.
+**LEON**() 및 **LOLA**()는 영국의 [ZERO-G](https://ko.wikipedia.org/wiki/ZERO-G "wikilink")​​에서 발매 된 영어 음성 합성, 보컬 신디사이저 소프트웨어이다. 멜로디와 가사를 입력하면 컴퓨터에서 노래를 합성 할 수 있다. [야마하](../Page/야마하.md "wikilink")가 개발 한 음성 합성 시스템 [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink")를 채용한 첫 제품 NAMM 2004 Winter ([2004년](../Page/2004년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") \~ [18일](../Page/1월_18일.md "wikilink"))에서 동시 발매 되었다. 일본 내에서는 [크립톤 퓨처 미디어가](../Page/크립톤_퓨처_미디어.md "wikilink") [2004년](../Page/2004년.md "wikilink") [3월 3일부터](../Page/3월_3일.md "wikilink") 판매를 시작하였다.
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 이후로는 ZERO-G사와 크립톤 퓨처 미디어가 LEON과 LOLA의 판매를 중지했다.
+[2014년](../Page/2014년.md "wikilink") 이후로는 ZERO-G사와 크립톤 퓨처 미디어가 LEON과 LOLA의 판매를 중지했다.
 
 ## 개요
 
