@@ -173,7 +173,7 @@
 
 ### 1963년부터의 감독
 
-분데스리가 이전의 감독 목록과 달리, [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") 이후의 감독은 바이에른 뮌헨 공식 웹사이트에서 모두 확인 가능하다.\[2\] [펠릭스 마가트](../Page/펠릭스_마가트.md "wikilink") (2005년), [오트마어 히츠펠트](https://ko.wikipedia.org/wiki/오트마어_히츠펠트 "wikilink") (2008년), 그리고 [루이스 판 할](https://ko.wikipedia.org/wiki/루이스_판_할 "wikilink") (2010년) 은 바이에른 뮌헨 소속으로 독일 올해의 감독상을 수상하였다. 히츠펠트는 또한 2001년에 UEFA 올해의 감독과 세계 올해의 감독으로 선정되었다.
+분데스리가 이전의 감독 목록과 달리, [1963년](../Page/1963년.md "wikilink") 이후의 감독은 바이에른 뮌헨 공식 웹사이트에서 모두 확인 가능하다.\[2\] [펠릭스 마가트](../Page/펠릭스_마가트.md "wikilink") (2005년), [오트마어 히츠펠트](../Page/오트마어_히츠펠트.md "wikilink") (2008년), 그리고 [루이스 판 할](https://ko.wikipedia.org/wiki/루이스_판_할 "wikilink") (2010년) 은 바이에른 뮌헨 소속으로 독일 올해의 감독상을 수상하였다. 히츠펠트는 또한 2001년에 UEFA 올해의 감독과 세계 올해의 감독으로 선정되었다.
 
 <table>
 <thead>
@@ -197,7 +197,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/즐라트코_차이코브스키" title="wikilink">즐라트코 차이코브스키</a></p></td>
+<td><p><a href="../Page/즐라트코_차이코브스키.md" title="wikilink">즐라트코 차이코브스키</a></p></td>
 <td><p>1963년 7월 1일</p></td>
 <td><p>1968년 6월 30일</p></td>
 <td><p>1096일</p></td>
@@ -205,7 +205,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브란코_제베츠" title="wikilink">브란코 제베츠</a></p></td>
+<td><p><a href="../Page/브란코_제베츠.md" title="wikilink">브란코 제베츠</a></p></td>
 <td><p>1968년 7월 1일</p></td>
 <td><p>1970년 3월 13일</p></td>
 <td><p>621일</p></td>
@@ -229,7 +229,7 @@
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로란트_줄러" title="wikilink">로란트 줄러</a></p></td>
+<td><p><a href="../Page/로란트_줄러.md" title="wikilink">로란트 줄러</a></p></td>
 <td><p>1977년 12월 2일</p></td>
 <td><p>1979년 2월 28일</p></td>
 <td><p>454일</p></td>
@@ -237,7 +237,7 @@
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/체르너이_팔" title="wikilink">체르너이 팔</a></p></td>
+<td><p><a href="../Page/체르너이_팔.md" title="wikilink">체르너이 팔</a></p></td>
 <td><p>1979년 3월 1일</p></td>
 <td><p>1983년 5월 16일</p></td>
 <td><p>1538일</p></td>
@@ -245,7 +245,7 @@
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라인하르트_자프티히" title="wikilink">라인하르트 자프티히</a></p></td>
+<td><p><a href="../Page/라인하르트_자프티히.md" title="wikilink">라인하르트 자프티히</a></p></td>
 <td><p>1983년 5월 17일</p></td>
 <td><p>1983년 6월 30일</p></td>
 <td><p>45일</p></td>
@@ -269,7 +269,7 @@
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쇠렌_레르뷔" title="wikilink">쇠렌 레르뷔</a></p></td>
+<td><p><a href="../Page/쇠렌_레르뷔.md" title="wikilink">쇠렌 레르뷔</a></p></td>
 <td><p>1991년 10월 9일</p></td>
 <td><p>1992년 3월 11일</p></td>
 <td><p>155일</p></td>
@@ -277,7 +277,7 @@
 </tr>
 <tr class="even">
 <td><p>11</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에리히_리베크" title="wikilink">에리히 리베크</a></p></td>
+<td><p><a href="../Page/에리히_리베크.md" title="wikilink">에리히 리베크</a></p></td>
 <td><p>1992년 3월 12일</p></td>
 <td><p>1993년 12월 27일</p></td>
 <td><p>656일</p></td>
@@ -325,7 +325,7 @@
 </tr>
 <tr class="even">
 <td><p>17</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오트마어_히츠펠트" title="wikilink">오트마어 히츠펠트</a></p></td>
+<td><p><a href="../Page/오트마어_히츠펠트.md" title="wikilink">오트마어 히츠펠트</a></p></td>
 <td><p>1998년 7월 1일</p></td>
 <td><p>2004년 6월 30일</p></td>
 <td><p>2192일</p></td>
@@ -341,7 +341,7 @@
 </tr>
 <tr class="even">
 <td><p>19</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오트마어_히츠펠트" title="wikilink">오트마어 히츠펠트</a></p></td>
+<td><p><a href="../Page/오트마어_히츠펠트.md" title="wikilink">오트마어 히츠펠트</a></p></td>
 <td><p>2007년 2월 1일</p></td>
 <td><p>2008년 6월 30일</p></td>
 <td><p>516일</p></td>
@@ -349,7 +349,7 @@
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/위르겐_클린스만" title="wikilink">위르겐 클린스만</a></p></td>
+<td><p><a href="../Page/위르겐_클린스만.md" title="wikilink">위르겐 클린스만</a></p></td>
 <td><p>2008년 7월 1일</p></td>
 <td><p>2009년 4월 27일</p></td>
 <td><p>302일</p></td>
@@ -567,7 +567,7 @@
 
 ### 국제 대회 (8)
 
-바이에른 뮌헨은 [AFC 아약스와](https://ko.wikipedia.org/wiki/AFC_아약스 "wikilink") [유벤투스 FC와](https://ko.wikipedia.org/wiki/유벤투스_FC "wikilink") 더불어 3가지 UEFA 유럽대항전 대회 타이틀을 모두 가지고 있는 클럽이며 [유러피언 컵](../Page/UEFA_챔피언스리그.md "wikilink") 3연패를 달성한 마지막 클럽으로, [레알 마드리드 CF](https://ko.wikipedia.org/wiki/레알_마드리드_CF "wikilink"), [AC 밀란](../Page/AC_밀란.md "wikilink"), [리버풀 FC](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink"), [AFC 아약스와](https://ko.wikipedia.org/wiki/AFC_아약스 "wikilink") 더불어 UEFA 명예의 뱃지를 사용하는 클럽이다.
+바이에른 뮌헨은 [AFC 아약스와](../Page/AFC_아약스.md "wikilink") [유벤투스 FC와](../Page/유벤투스_FC.md "wikilink") 더불어 3가지 UEFA 유럽대항전 대회 타이틀을 모두 가지고 있는 클럽이며 [유러피언 컵](../Page/UEFA_챔피언스리그.md "wikilink") 3연패를 달성한 마지막 클럽으로, [레알 마드리드 CF](../Page/레알_마드리드_CF.md "wikilink"), [AC 밀란](../Page/AC_밀란.md "wikilink"), [리버풀 FC](../Page/리버풀_FC.md "wikilink"), [AFC 아약스와](../Page/AFC_아약스.md "wikilink") 더불어 UEFA 명예의 뱃지를 사용하는 클럽이다.
 
   - **[FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink") / [인터콘티넨털컵](../Page/인터콘티넨털컵_\(축구\).md "wikilink")**
       - **우승 2회** (독일 기록): 1976, 2001
@@ -585,7 +585,7 @@
 
 <!-- end list -->
 
-  - **[UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") / UEFA 컵**
+  - **[UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") / UEFA 컵**
       - **우승 1회**: [1995-96](https://ko.wikipedia.org/wiki/UEFA컵_1995-96 "wikilink")
 
 <!-- end list -->
@@ -824,12 +824,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/파울_브라이트너" title="wikilink">파울 브라이트너</a></p></td>
+<td><p><a href="../Page/파울_브라이트너.md" title="wikilink">파울 브라이트너</a></p></td>
 <td><p>1981</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/위르겐_클린스만" title="wikilink">위르겐 클린스만</a></p></td>
+<td><p><a href="../Page/위르겐_클린스만.md" title="wikilink">위르겐 클린스만</a></p></td>
 <td><p>1995</p></td>
 <td></td>
 </tr>
@@ -845,12 +845,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td><p>2001, 2002</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/옹즈도르" title="wikilink">옹즈도르</a><br />
+<td><p><a href="../Page/옹즈도르.md" title="wikilink">옹즈도르</a><br />
 <small>1976년부터 수상</small></p></td>
 <td><p><a href="../Page/카를하인츠_루메니게.md" title="wikilink">카를하인츠 루메니게</a></p></td>
 <td><p>1980, 1981</p></td>
@@ -862,7 +862,7 @@
 <td><p>1987</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td><p>1999, 2001, 2002</p></td>
 <td></td>
 </tr>
@@ -873,27 +873,27 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/FIFA_올해의_선수" title="wikilink">FIFA 올해의 선수</a> 수상<br />
+<td><p><a href="../Page/FIFA_올해의_선수.md" title="wikilink">FIFA 올해의 선수</a> 수상<br />
 <small>1991년부터 수상</small></p></td>
 <td><p><a href="../Page/로타어_마테우스.md" title="wikilink">로타어 마테우스</a></p></td>
 <td><p>1991</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/FIFA_올해의_선수" title="wikilink">FIFA 올해의 선수</a> 2위<br />
+<td><p><a href="../Page/FIFA_올해의_선수.md" title="wikilink">FIFA 올해의 선수</a> 2위<br />
 <small>1991년부터 수상</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td><p>2002</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/FIFA_올해의_선수" title="wikilink">FIFA 올해의 선수</a> 3위<br />
+<td><p><a href="../Page/FIFA_올해의_선수.md" title="wikilink">FIFA 올해의 선수</a> 3위<br />
 <small>1991년부터 수상</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/위르겐_클린스만" title="wikilink">위르겐 클린스만</a></p></td>
+<td><p><a href="../Page/위르겐_클린스만.md" title="wikilink">위르겐 클린스만</a></p></td>
 <td><p>1995</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/UEFA_클럽_풋볼_어워드.md" title="wikilink">UEFA 최우수 골키퍼상</a><br />
 <small>1998년부터 수상</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td><p>1999, 2000, 2001, 2002</p></td>
 </tr>
 <tr class="even">
@@ -918,7 +918,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/파울_브라이트너" title="wikilink">파울 브라이트너</a></p></td>
+<td><p><a href="../Page/파울_브라이트너.md" title="wikilink">파울 브라이트너</a></p></td>
 <td><p>1981</p></td>
 <td></td>
 </tr>
@@ -928,12 +928,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td><p>2000, 2001</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미하엘_발라크" title="wikilink">미하엘 발라크</a></p></td>
+<td><p><a href="../Page/미하엘_발라크.md" title="wikilink">미하엘 발라크</a></p></td>
 <td><p>2003, 2005</p></td>
 <td></td>
 </tr>
@@ -950,7 +950,7 @@
 <tr class="even">
 <td><p>덴마크 올해의 축구 선수<br />
 <small>1963년부터 수상</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브리안_라우드루프" title="wikilink">브리안 라우드루프</a></p></td>
+<td><p><a href="../Page/브리안_라우드루프.md" title="wikilink">브리안 라우드루프</a></p></td>
 <td><p>1992</p></td>
 </tr>
 <tr class="odd">
@@ -1006,7 +1006,7 @@
 <td><p>2001</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/토마스_뮐러" title="wikilink">토마스 뮐러</a></p></td>
+<td><p><a href="../Page/토마스_뮐러.md" title="wikilink">토마스 뮐러</a></p></td>
 <td><p>2010</p></td>
 <td></td>
 </tr>
@@ -1024,29 +1024,29 @@
 | [게르트 뮐러](../Page/게르트_뮐러.md "wikilink")                                    |
 | [카를하인츠 루메니게](../Page/카를하인츠_루메니게.md "wikilink")                            |
 | [디터 회네스](../Page/디터_회네스.md "wikilink")                                    |
-| [UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 득점왕     |
+| [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 득점왕                        |
 | 선수                                                                        |
 | [디터 회네스](../Page/디터_회네스.md "wikilink")                                    |
-| [위르겐 클린스만](https://ko.wikipedia.org/wiki/위르겐_클린스만 "wikilink")             |
+| [위르겐 클린스만](../Page/위르겐_클린스만.md "wikilink")                                |
 | [루카 토니](../Page/루카_토니.md "wikilink")                                      |
 | [분데스리가](https://ko.wikipedia.org/wiki/푸스볼-분데스리가 "wikilink") 득점왕           |
 | 선수                                                                        |
 | [게르트 뮐러](../Page/게르트_뮐러.md "wikilink")                                    |
 | [카를하인츠 루메니게](../Page/카를하인츠_루메니게.md "wikilink")                            |
 | [롤란트 볼파르트](../Page/롤란트_볼파르트.md "wikilink")                                |
-| [지오바니 에우베르](https://ko.wikipedia.org/wiki/지오바니_에우베르 "wikilink")           |
+| [지오바니 에우베르](../Page/지오바니_에우베르.md "wikilink")                              |
 | [루카 토니](../Page/루카_토니.md "wikilink")                                      |
 | [마리오 고메스](../Page/마리오_고메스.md "wikilink")                                  |
 | **참고**                                                                    |
 | [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 골든슈         |
 | 선수                                                                        |
 | [게르트 뮐러](../Page/게르트_뮐러.md "wikilink")                                    |
-| [미로슬라프 클로제](https://ko.wikipedia.org/wiki/미로슬라프_클로제 "wikilink")           |
-| [토마스 뮐러](https://ko.wikipedia.org/wiki/토마스_뮐러 "wikilink")                 |
+| [미로슬라프 클로제](../Page/미로슬라프_클로제.md "wikilink")                              |
+| [토마스 뮐러](../Page/토마스_뮐러.md "wikilink")                                    |
 | [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 역대 최다 득점 2위 |
 | 선수                                                                        |
 | [게르트 뮐러](../Page/게르트_뮐러.md "wikilink")                                    |
-| [미로슬라프 클로제](https://ko.wikipedia.org/wiki/미로슬라프_클로제 "wikilink")           |
+| [미로슬라프 클로제](../Page/미로슬라프_클로제.md "wikilink")                              |
 
 #### 월드컵 우승
 
@@ -1056,7 +1056,7 @@
 
   - **[프란츠 베켄바우어](https://ko.wikipedia.org/wiki/프란츠_베켄바우어 "wikilink") ([서독 1974](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink"))**<sup>\*</sup>
 
-  - **[파울 브라이트너](https://ko.wikipedia.org/wiki/파울_브라이트너 "wikilink") ([서독 1974](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink"))**
+  - **[파울 브라이트너](../Page/파울_브라이트너.md "wikilink") ([서독 1974](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink"))**
 
   - [유프 하인케스](../Page/유프_하인케스.md "wikilink") ([서독 1974](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink"))<sup>\*\*</sup>
 
@@ -1070,29 +1070,29 @@
 
   - **[한스게오르크 슈바르첸베크](../Page/한스게오르크_슈바르첸베크.md "wikilink") ([서독 1974](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink"))**
 
-  - **[라이몬트 아우만](https://ko.wikipedia.org/wiki/라이몬트_아우만 "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))**
+  - **[라이몬트 아우만](../Page/라이몬트_아우만.md "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))**
 
   - **[클라우스 아우겐탈러](../Page/클라우스_아우겐탈러.md "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))**
 
   - [토마스 베르톨트](../Page/토마스_베르톨트.md "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))
 
-  - [안드레아스 브레메](https://ko.wikipedia.org/wiki/안드레아스_브레메 "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))
+  - [안드레아스 브레메](../Page/안드레아스_브레메.md "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))
 
-  - [위르겐 클린스만](https://ko.wikipedia.org/wiki/위르겐_클린스만 "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))
+  - [위르겐 클린스만](../Page/위르겐_클린스만.md "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))
 
-  - **[위르겐 콜러](https://ko.wikipedia.org/wiki/위르겐_콜러 "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))**
+  - **[위르겐 콜러](../Page/위르겐_콜러.md "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))**
 
   - [로타어 마테우스](../Page/로타어_마테우스.md "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))
 
   - **[한스 플뤼글러](https://ko.wikipedia.org/wiki/한스_플뤼글러 "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))**
 
-  - **[슈테판 로이터](https://ko.wikipedia.org/wiki/슈테판_로이터 "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))**
+  - **[슈테판 로이터](../Page/슈테판_로이터.md "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))**
 
-  - **[올라프 톤](https://ko.wikipedia.org/wiki/올라프_톤 "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))**
+  - **[올라프 톤](../Page/올라프_톤.md "wikilink") ([이탈리아 1990](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink"))**
 
-  - **[조르지뉴](https://ko.wikipedia.org/wiki/조르지뉴 "wikilink") ([미국 1994](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink"))**
+  - **[조르지뉴](../Page/조르지뉴.md "wikilink") ([미국 1994](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink"))**
 
-  - [파울루 세르지우](https://ko.wikipedia.org/wiki/파울루_세르지우_시우베스트레_두_나시멘투 "wikilink") ([미국 1994](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink"))
+  - [파울루 세르지우](../Page/파울루_세르지우_시우베스트레_두_나시멘투.md "wikilink") ([미국 1994](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink"))
 
   - **[빅상트 리자라쥐](../Page/빅상트_리자라쥐.md "wikilink") ([프랑스 1998](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink"))**
 
@@ -1106,27 +1106,27 @@
 
   - [하비 마르티네스](../Page/하비_마르티네스.md "wikilink") ([남아공 2010](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink"))
 
-  - [페페 레이나](https://ko.wikipedia.org/wiki/페페_레이나 "wikilink") ([남아공 2010](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink"))
+  - [페페 레이나](../Page/페페_레이나.md "wikilink") ([남아공 2010](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink"))
 
   - **[마누엘 노이어](../Page/마누엘_노이어.md "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))**
 
   - **[바스티안 슈바인슈타이거](../Page/바스티안_슈바인슈타이거.md "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))**
 
-  - **[토마스 뮐러](https://ko.wikipedia.org/wiki/토마스_뮐러 "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))**
+  - **[토마스 뮐러](../Page/토마스_뮐러.md "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))**
 
-  - **[필리프 람](https://ko.wikipedia.org/wiki/필리프_람 "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))**
+  - **[필리프 람](../Page/필리프_람.md "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))**
 
   - **[토니 크로스](../Page/토니_크로스.md "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))**
 
   - **[마리오 괴체](../Page/마리오_괴체.md "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))**
 
-  - **[제롬 보아텡](https://ko.wikipedia.org/wiki/제롬_보아텡 "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))**
+  - **[제롬 보아텡](../Page/제롬_보아텡.md "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))**
 
   - [마츠 후멜스](../Page/마츠_후멜스.md "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))
 
   - [루카스 포돌스키](../Page/루카스_포돌스키.md "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))
 
-  - [미로슬라프 클로제](https://ko.wikipedia.org/wiki/미로슬라프_클로제 "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))
+  - [미로슬라프 클로제](../Page/미로슬라프_클로제.md "wikilink") ([브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink"))
 
 <!-- end list -->
 
@@ -1168,14 +1168,14 @@
 
 ### 국제 기록
 
-  - 최단시간 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 득점: [로이 마카이](../Page/로이_마카이.md "wikilink") (10초, 2007년 3월 7일 [레알 마드리드 CF](https://ko.wikipedia.org/wiki/레알_마드리드_CF "wikilink") 16강 2차전)
+  - 최단시간 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 득점: [로이 마카이](../Page/로이_마카이.md "wikilink") (10초, 2007년 3월 7일 [레알 마드리드 CF](../Page/레알_마드리드_CF.md "wikilink") 16강 2차전)
   - UEFA 챔피언스리그 / 유러피언 컵 마지막 3연패: [1973-74 시즌](https://ko.wikipedia.org/wiki/유러피언컵_1973-74 "wikilink"), [1974-75 시즌](https://ko.wikipedia.org/wiki/유러피언컵_1974-75 "wikilink"), [1975-76 시즌](https://ko.wikipedia.org/wiki/유러피언컵_1975-76 "wikilink")
   - UEFA 챔피언스리그 2라운드 최다 점수차 경기: 12-1 ([스포르팅 CP와의](../Page/스포르팅_CP.md "wikilink") [2008-09 시즌](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2008-09 "wikilink") 16강, 2009년 2월 24일 1차전 (5-0), 2009년 3월 11일 2차전 (7-1)
 
 ### 개인 기록
 
-  - 최다 리그 우승: 8회 ([올리버 칸](https://ko.wikipedia.org/wiki/올리버_칸 "wikilink"), [메멧 숄](https://ko.wikipedia.org/wiki/메멧_숄 "wikilink"))
-  - 최다 포칼 우승: 6회 ([올리버 칸](https://ko.wikipedia.org/wiki/올리버_칸 "wikilink"), [바스티안 슈바인슈타이거](../Page/바스티안_슈바인슈타이거.md "wikilink"))
+  - 최다 리그 우승: 8회 ([올리버 칸](../Page/올리버_칸.md "wikilink"), [메멧 숄](../Page/메멧_숄.md "wikilink"))
+  - 최다 포칼 우승: 6회 ([올리버 칸](../Page/올리버_칸.md "wikilink"), [바스티안 슈바인슈타이거](../Page/바스티안_슈바인슈타이거.md "wikilink"))
   - 분데스리가 한 시즌 최다 득점: 40득점 ([게르트 뮐러](../Page/게르트_뮐러.md "wikilink"), [1971-72 시즌](https://ko.wikipedia.org/wiki/푸스볼-분데스리가_1971-72 "wikilink"))
   - 유럽대항전 최다 득점: 69득점 ([게르트 뮐러](../Page/게르트_뮐러.md "wikilink"))
   - 분데스리가 최다 득점: 365득점 ([게르트 뮐러](../Page/게르트_뮐러.md "wikilink"))

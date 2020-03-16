@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [QuinRose](https://ko.wikipedia.org/wiki/QuinRose).
 
 
-**QuinRose**()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 주식회사 아트무브() 산하의 [여성향](https://ko.wikipedia.org/wiki/여성향 "wikilink") 게임 브랜드이다. 대표작으로는 《아라비안즈 로스트》, 《하트 나라의 앨리스》 등이 있다.
+**QuinRose**()는 [일본](../Page/일본.md "wikilink")의 주식회사 아트무브() 산하의 [여성향](https://ko.wikipedia.org/wiki/여성향 "wikilink") 게임 브랜드이다. 대표작으로는 《아라비안즈 로스트》, 《하트 나라의 앨리스》 등이 있다.
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 정확히는 QuinRose 레이블과 QuinRose UnderGarden 레이블로 나뉘어 있으나 제작 스텝과 홈페이지는 동일하다.
 
-2005년부터 PC(Windows) 게임을 만들기 시작하였으며, 초기에는 이식판은 [프로토타입에](https://ko.wikipedia.org/wiki/프로토타입_\(기업\) "wikilink") 외주했으나 2010년부터는 자사에서 이식하기 시작했으며 PSP 게임도 발매하고 있다. 그 외 자사 게임의 사운드 드라마 및 드라마 CD 제작도 맡고 있다. 2010년부터는 타 메이커에서 발매한 게임의 PSP 이식판 개발 및 발매도 담당하고 있다.
+2005년부터 PC(Windows) 게임을 만들기 시작하였으며, 초기에는 이식판은 [프로토타입에](../Page/프로토타입_\(기업\).md "wikilink") 외주했으나 2010년부터는 자사에서 이식하기 시작했으며 PSP 게임도 발매하고 있다. 그 외 자사 게임의 사운드 드라마 및 드라마 CD 제작도 맡고 있다. 2010년부터는 타 메이커에서 발매한 게임의 PSP 이식판 개발 및 발매도 담당하고 있다.
 
 ## 발매 게임 일람
 

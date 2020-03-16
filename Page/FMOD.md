@@ -15,18 +15,18 @@
 
   - [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink")
   - [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink")
-  - [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")
-  - [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink")
-  - [플레이스테이션 2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink")
-  - [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink")
-  - [PSP](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink")
+  - [리눅스](../Page/리눅스.md "wikilink")
+  - [엑스박스 360](../Page/엑스박스_360.md "wikilink")
+  - [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink")
+  - [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink")
+  - [PSP](../Page/플레이스테이션_포터블.md "wikilink")
   - [NGP](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink")
-  - [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink")
-  - [3DS](https://ko.wikipedia.org/wiki/닌텐도_3DS "wikilink")
+  - [Wii](../Page/Wii.md "wikilink")
+  - [3DS](../Page/닌텐도_3DS.md "wikilink")
   - [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")
-  - [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink")
+  - [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink")
 
-FMOD는 현재 [AIFF](../Page/AIFF.md "wikilink"), [ASF](https://ko.wikipedia.org/wiki/능동_스트리밍_포맷 "wikilink"), [ASX](https://ko.wikipedia.org/wiki/능동_스트리밍_리다이렉터 "wikilink"), [DLS](https://ko.wikipedia.org/wiki/DLS_\(포맷\) "wikilink"), [FLAC](../Page/FLAC.md "wikilink"), FSB (FMOD 샘플 뱅크 포맷), [IT](https://ko.wikipedia.org/wiki/Impulse_Tracker#IT_file_format "wikilink"), [M3U](../Page/M3U.md "wikilink"), [MIDI](../Page/MIDI.md "wikilink"), [MOD](https://ko.wikipedia.org/wiki/MOD_\(포맷\) "wikilink"), [MP2](https://ko.wikipedia.org/wiki/MPEG-1_오디오_레이어_II "wikilink"), [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink"), [Vorbis](../Page/Vorbis.md "wikilink"), [PLS](https://ko.wikipedia.org/wiki/PLS_\(포맷\) "wikilink"), [S3M](https://ko.wikipedia.org/wiki/S3M_\(포맷\) "wikilink"), VAG ([PS2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink")/[PSP용](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 포맷), [WAV](../Page/WAV.md "wikilink"), WAX (윈도 미디어 오디오 리다이렉터), [WMA](https://ko.wikipedia.org/wiki/윈도_미디어_오디오 "wikilink"), [XM](https://ko.wikipedia.org/wiki/XM_\(포맷\) "wikilink"), [XMA](https://ko.wikipedia.org/wiki/XMA_\(포맷\) "wikilink") (Xbox 360 전용)등 RAW 오디오 데이터를 지원한다.
+FMOD는 현재 [AIFF](../Page/AIFF.md "wikilink"), [ASF](https://ko.wikipedia.org/wiki/능동_스트리밍_포맷 "wikilink"), [ASX](https://ko.wikipedia.org/wiki/능동_스트리밍_리다이렉터 "wikilink"), [DLS](https://ko.wikipedia.org/wiki/DLS_\(포맷\) "wikilink"), [FLAC](../Page/FLAC.md "wikilink"), FSB (FMOD 샘플 뱅크 포맷), [IT](https://ko.wikipedia.org/wiki/Impulse_Tracker#IT_file_format "wikilink"), [M3U](../Page/M3U.md "wikilink"), [MIDI](../Page/MIDI.md "wikilink"), [MOD](https://ko.wikipedia.org/wiki/MOD_\(포맷\) "wikilink"), [MP2](../Page/MPEG-1_오디오_레이어_II.md "wikilink"), [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink"), [Vorbis](../Page/Vorbis.md "wikilink"), [PLS](https://ko.wikipedia.org/wiki/PLS_\(포맷\) "wikilink"), [S3M](https://ko.wikipedia.org/wiki/S3M_\(포맷\) "wikilink"), VAG ([PS2](../Page/플레이스테이션_2.md "wikilink")/[PSP용](../Page/플레이스테이션_포터블.md "wikilink") 포맷), [WAV](../Page/WAV.md "wikilink"), WAX (윈도 미디어 오디오 리다이렉터), [WMA](https://ko.wikipedia.org/wiki/윈도_미디어_오디오 "wikilink"), [XM](https://ko.wikipedia.org/wiki/XM_\(포맷\) "wikilink"), [XMA](https://ko.wikipedia.org/wiki/XMA_\(포맷\) "wikilink") (Xbox 360 전용)등 RAW 오디오 데이터를 지원한다.
 
 ## 라이선스
 
@@ -34,7 +34,7 @@ FMOD는 현재 [AIFF](../Page/AIFF.md "wikilink"), [ASF](https://ko.wikipedia.or
 
   - FMOD 비상업 라이선스(, FMOD를 이용하여 비상업적인 용도로 소프트웨어를 개발되었고 앞으로도 상업적인 용도로 판매되지 않으면 라이선스 계약비용을 제외하여 무료로 제공된다.
   - FMOD 상업 라이선스(, 상업적인 소프트웨어나 게임에 FMOD를 이용한다면 플랫폼 개수에 맞게 라이선스 계약비용을 지불해야 한다.
-  - FMOD 캐주얼 라이선스(, 상업적인 소프트웨어나 게임으로 개발되어 [엑스박스 아케이드](https://ko.wikipedia.org/wiki/엑스박스_아케이드 "wikilink"), [플레이스테이션 네트워크](https://ko.wikipedia.org/wiki/플레이스테이션_네트워크 "wikilink"), [WiiWare](https://ko.wikipedia.org/wiki/WiiWare "wikilink"), 윈도 및 맥 OS X에서 [다운로드식으로](https://ko.wikipedia.org/wiki/전자_소프트웨어_배급 "wikilink") 제공되는 경우, 이 라이선스가 적용되어 계약비용이 부가된다.
+  - FMOD 캐주얼 라이선스(, 상업적인 소프트웨어나 게임으로 개발되어 [엑스박스 아케이드](https://ko.wikipedia.org/wiki/엑스박스_아케이드 "wikilink"), [플레이스테이션 네트워크](../Page/플레이스테이션_네트워크.md "wikilink"), [WiiWare](https://ko.wikipedia.org/wiki/WiiWare "wikilink"), 윈도 및 맥 OS X에서 [다운로드식으로](https://ko.wikipedia.org/wiki/전자_소프트웨어_배급 "wikilink") 제공되는 경우, 이 라이선스가 적용되어 계약비용이 부가된다.
 
 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink") 라이선스를 포함하고 있지 않으며, MP3를 사용하여 개발할 경우에는 톰슨 회사와 접촉하여 따로 라이선스를 계약해야만 한다. PS3 개발자는 소니에서 라이선스를 취득하여 제공하는 "셀 SDK MP3 디코더"를 사용하면 되므로 4.27.00 이후 버전에서 MP3 사용권한은 무료로 제공된다.\[1\]
 
@@ -48,7 +48,7 @@ FMOD는 현재 [AIFF](../Page/AIFF.md "wikilink"), [ASF](https://ko.wikipedia.or
   - 스케일폼 코퍼레이션 - [스케일폼](https://ko.wikipedia.org/wiki/스케일폼 "wikilink")\[4\]
   - 아이디어 파브릭크 Plc. - [히어로엔진](../Page/히어로엔진.md "wikilink")\[5\]
   - [에픽 게임스](https://ko.wikipedia.org/wiki/에픽_게임스 "wikilink") - [언리얼 엔진 3](https://ko.wikipedia.org/wiki/언리얼_엔진_3 "wikilink")\[6\]
-  - 유니티 테크놀로지스 - [유니티](https://ko.wikipedia.org/wiki/유니티_\(게임_엔진\) "wikilink")
+  - 유니티 테크놀로지스 - [유니티](../Page/유니티_\(게임_엔진\).md "wikilink")
   - [하복](https://ko.wikipedia.org/wiki/하복 "wikilink")/[트리니지](https://ko.wikipedia.org/wiki/트리니지 "wikilink") - [비전](../Page/비전_\(게임_엔진\).md "wikilink")\[7\]
 
 ## 같이 보기

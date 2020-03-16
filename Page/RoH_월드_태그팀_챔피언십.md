@@ -53,7 +53,7 @@
   - 디 에딕션
   - 더 킹덤
   - 영벅스 (현재 챔피언)
-  - [하디 보이즈](../Page/하디_보이즈.md "wikilink") ([매트 하디](https://ko.wikipedia.org/wiki/매트_하디 "wikilink") & [제프 하디](https://ko.wikipedia.org/wiki/제프_하디 "wikilink"))
+  - [하디 보이즈](../Page/하디_보이즈.md "wikilink") ([매트 하디](https://ko.wikipedia.org/wiki/매트_하디 "wikilink") & [제프 하디](../Page/제프_하디.md "wikilink"))
 
 ## 같이 보기
 
@@ -61,9 +61,9 @@
   - [WWE RAW 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_RAW_태그팀_챔피언십 "wikilink")
   - [WWE 스맥다운 태그팀 챔피언십](../Page/WWE_스맥다운_태그팀_챔피언십.md "wikilink")
   - [WWE 월드 태그팀 챔피언십](../Page/WWE_월드_태그팀_챔피언십.md "wikilink")
-  - [WWE NXT 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_태그팀_챔피언십 "wikilink")
-  - [WCW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_태그팀_챔피언십 "wikilink")
-  - [ECW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/ECW_월드_태그팀_챔피언십 "wikilink")
+  - [WWE NXT 태그팀 챔피언십](../Page/WWE_NXT_태그팀_챔피언십.md "wikilink")
+  - [WCW 월드 태그팀 챔피언십](../Page/WCW_월드_태그팀_챔피언십.md "wikilink")
+  - [ECW 월드 태그팀 챔피언십](../Page/ECW_월드_태그팀_챔피언십.md "wikilink")
   - [TNA 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/TNA_월드_태그팀_챔피언십 "wikilink")
   - [GFW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/GFW_월드_태그팀_챔피언십 "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## 수록곡
 
-1.  [손담비](../Page/손담비.md "wikilink"), [애프터스쿨](https://ko.wikipedia.org/wiki/애프터스쿨 "wikilink") - **Love Letter (Feat. [아라](https://ko.wikipedia.org/wiki/유아라 "wikilink"), [혜림](https://ko.wikipedia.org/wiki/헬로비너스 "wikilink"), 정현, 민현, 동호)**
+1.  [손담비](../Page/손담비.md "wikilink"), [애프터스쿨](../Page/애프터스쿨.md "wikilink") - **Love Letter (Feat. [아라](../Page/유아라.md "wikilink"), [혜림](../Page/헬로비너스.md "wikilink"), 정현, 민현, 동호)**
 2.  손담비, 애프터스쿨 - 겨울 이야기
 3.  [오렌지 캬라멜](https://ko.wikipedia.org/wiki/오렌지_캬라멜 "wikilink") - 어떤가요
 4.  애프터스쿨 - LOVE LOVE LOVE Remix

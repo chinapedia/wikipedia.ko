@@ -56,7 +56,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/김종석" title="wikilink">김종석</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스A" title="wikilink">뉴스A</a></p></td>
+<td><p><a href="../Page/뉴스A.md" title="wikilink">뉴스A</a></p></td>
 <td><p>평일 1시간 10분<br />
 주말 50분</p></td>
 <td><p>19:30 ~ 20:40</p>
@@ -89,10 +89,10 @@
 <!-- end list -->
 
   - [한국방송공사의 뉴스 프로그램](../Page/한국방송공사의_뉴스_프로그램.md "wikilink")
-  - [문화방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/문화방송의_뉴스_프로그램 "wikilink")
-  - [SBS의 뉴스 프로그램](https://ko.wikipedia.org/wiki/SBS의_뉴스_프로그램 "wikilink")
+  - [문화방송의 뉴스 프로그램](../Page/문화방송의_뉴스_프로그램.md "wikilink")
+  - [SBS의 뉴스 프로그램](../Page/SBS의_뉴스_프로그램.md "wikilink")
   - [한국교육방송공사의 뉴스 프로그램](https://ko.wikipedia.org/wiki/한국교육방송공사의_뉴스_프로그램 "wikilink")
-  - [OBS경인TV의 뉴스 프로그램](https://ko.wikipedia.org/wiki/OBS경인TV의_뉴스_프로그램 "wikilink")
+  - [OBS경인TV의 뉴스 프로그램](../Page/OBS경인TV의_뉴스_프로그램.md "wikilink")
 
 <!-- end list -->
 
@@ -100,9 +100,9 @@
 
 <!-- end list -->
 
-  - [매일방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/매일방송의_뉴스_프로그램 "wikilink")
-  - [TV조선의 뉴스 프로그램](https://ko.wikipedia.org/wiki/TV조선의_뉴스_프로그램 "wikilink")
-  - [JTBC의 뉴스 프로그램](https://ko.wikipedia.org/wiki/JTBC의_뉴스_프로그램 "wikilink")
+  - [매일방송의 뉴스 프로그램](../Page/매일방송의_뉴스_프로그램.md "wikilink")
+  - [TV조선의 뉴스 프로그램](../Page/TV조선의_뉴스_프로그램.md "wikilink")
+  - [JTBC의 뉴스 프로그램](../Page/JTBC의_뉴스_프로그램.md "wikilink")
 
 ## 각주
 
@@ -113,4 +113,4 @@
 
 [\*](https://ko.wikipedia.org/wiki/분류:채널A의_뉴스_텔레비전_프로그램 "wikilink")
 
-1.  [MBN과](https://ko.wikipedia.org/wiki/매일방송의_뉴스_프로그램 "wikilink") 함께 종편에서 뒤에 뉴스를 붙여서 멘트를 쓴다, [TV조선](https://ko.wikipedia.org/wiki/TV조선의_뉴스_프로그램 "wikilink"), [JTBC의](https://ko.wikipedia.org/wiki/JTBC의_뉴스_프로그램 "wikilink") 뒤에 뉴스를 붙히지 않고 달리 구별하여 코멘트를 쓰게 된다.
+1.  [MBN과](../Page/매일방송의_뉴스_프로그램.md "wikilink") 함께 종편에서 뒤에 뉴스를 붙여서 멘트를 쓴다, [TV조선](../Page/TV조선의_뉴스_프로그램.md "wikilink"), [JTBC의](../Page/JTBC의_뉴스_프로그램.md "wikilink") 뒤에 뉴스를 붙히지 않고 달리 구별하여 코멘트를 쓰게 된다.

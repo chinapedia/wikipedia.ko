@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Songs About Jane](https://ko.wikipedia.org/wiki/Songs_About_Jane).
 
 
-***Songs About Jane***(《송스 어바웃 제인》\[1\], SAJ)은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [6월 25일에](https://ko.wikipedia.org/wiki/6월_25일 "wikilink") [J 레코드와](https://ko.wikipedia.org/wiki/J_레코드 "wikilink") [옥톤 레코드를](https://ko.wikipedia.org/wiki/옥톤_레코드 "wikilink") 통해 발매된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") [데뷔 음반이다](../Page/정규_음반.md "wikilink"). 전세계적으로 차트에서 성공한 "[Harder To Breathe](https://ko.wikipedia.org/wiki/Harder_To_Breathe "wikilink")", "[This Love](https://ko.wikipedia.org/wiki/This_Love_\(마룬_5의_노래\) "wikilink")"와 "[She Will Be Loved](https://ko.wikipedia.org/wiki/She_Will_Be_Loved "wikilink")" 등 다섯 개의 싱글이 히트를 쳤다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 14일에](https://ko.wikipedia.org/wiki/8월_14일 "wikilink") 재발매되었으며, [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 말에 미국 [빌보드 200의](../Page/빌보드_200.md "wikilink") 10위권 안에 들었다. 이 음반은 전세계 여러 나라에서 멀티 플래티넘이라는 기록을 세웠다.\[2\]
+***Songs About Jane***(《송스 어바웃 제인》\[1\], SAJ)은 [2002년](../Page/2002년.md "wikilink") [6월 25일에](../Page/6월_25일.md "wikilink") [J 레코드와](https://ko.wikipedia.org/wiki/J_레코드 "wikilink") [옥톤 레코드를](https://ko.wikipedia.org/wiki/옥톤_레코드 "wikilink") 통해 발매된 [미국](../Page/미국.md "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") [데뷔 음반이다](../Page/정규_음반.md "wikilink"). 전세계적으로 차트에서 성공한 "[Harder To Breathe](https://ko.wikipedia.org/wiki/Harder_To_Breathe "wikilink")", "[This Love](https://ko.wikipedia.org/wiki/This_Love_\(마룬_5의_노래\) "wikilink")"와 "[She Will Be Loved](https://ko.wikipedia.org/wiki/She_Will_Be_Loved "wikilink")" 등 다섯 개의 싱글이 히트를 쳤다. [2003년](../Page/2003년.md "wikilink") [8월 14일에](../Page/8월_14일.md "wikilink") 재발매되었으며, [2004년](../Page/2004년.md "wikilink") 말에 미국 [빌보드 200의](../Page/빌보드_200.md "wikilink") 10위권 안에 들었다. 이 음반은 전세계 여러 나라에서 멀티 플래티넘이라는 기록을 세웠다.\[2\]
 
 2012년에는 음반 발매 10주년을 맞아, *Songs About Jane: 10th Anniversary Edition*(《송스 어바웃 제인: 10주년 기념반》)이 발매되었다.
 
@@ -9,11 +9,11 @@
 
 ## 배경
 
-한 명을 제외한 모든 마룬 5의 [구성원들은](https://ko.wikipedia.org/wiki/마룬_5의_구성원_목록 "wikilink") 과거 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") 출신의 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [카라스 플라워스의](https://ko.wikipedia.org/wiki/카라스_플라워스 "wikilink") 구성원이었다. 카라스 플라워스는 [리프라이즈 레코드와](https://ko.wikipedia.org/wiki/리프라이즈_레코드 "wikilink") 1997년 중반에 [데뷔 음반](../Page/정규_음반.md "wikilink") *[The Fourth World](https://ko.wikipedia.org/wiki/The_Fourth_World "wikilink")*를 발매한다. *The Fourth World*가 소규모의 성공을 거둔 후 1999년, 그들은 리프라이즈 레코드와의 관계를 정리하고, 2001년 기타리스트 [제임스 밸런타인을](https://ko.wikipedia.org/wiki/제임스_밸런타인 "wikilink") 영입해 이름을 [마룬 5로](../Page/마룬_5.md "wikilink") 바꾼다.
+한 명을 제외한 모든 마룬 5의 [구성원들은](../Page/마룬_5의_구성원_목록.md "wikilink") 과거 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") 출신의 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [카라스 플라워스의](https://ko.wikipedia.org/wiki/카라스_플라워스 "wikilink") 구성원이었다. 카라스 플라워스는 [리프라이즈 레코드와](https://ko.wikipedia.org/wiki/리프라이즈_레코드 "wikilink") 1997년 중반에 [데뷔 음반](../Page/정규_음반.md "wikilink") *[The Fourth World](../Page/The_Fourth_World.md "wikilink")*를 발매한다. *The Fourth World*가 소규모의 성공을 거둔 후 1999년, 그들은 리프라이즈 레코드와의 관계를 정리하고, 2001년 기타리스트 [제임스 밸런타인을](../Page/제임스_밸런타인.md "wikilink") 영입해 이름을 [마룬 5로](../Page/마룬_5.md "wikilink") 바꾼다.
 
 리드 보컬리스트이자 기타리스트인 [애덤 리바인은](../Page/애덤_리바인.md "wikilink") [VH1](../Page/VH1.md "wikilink")과의 인터뷰에서 밴드의 새로운 음악 스타일에 대해서 밝혔다. "저는 뉴욕에 있을 때 로스앤젤레스에서는 상상도 할 수 없었던 어반과 힙합을 경험하게 되었다. 이는 제가 곡 쓸 때 새로운 방향을 잡게해주었죠."
 
-그들은 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")에 위치한 음악 레이블인 [옥톤 레코드와](https://ko.wikipedia.org/wiki/옥톤_레코드 "wikilink") 계약을 한 뒤, 프로듀서 맷 월리스(Matt Wallace)와 함께 로스앤젤레스에 위치한 럼보 레코더(Rumbo Recorders)에서 *Songs About Jane*의 녹음을 시작하였다.\[3\] 또한 마크 엔더트(Mark Endert)는 "This Love"의 믹싱과 추가적 프로듀싱을 담당하였다.
+그들은 [뉴욕](../Page/뉴욕.md "wikilink")에 위치한 음악 레이블인 [옥톤 레코드와](https://ko.wikipedia.org/wiki/옥톤_레코드 "wikilink") 계약을 한 뒤, 프로듀서 맷 월리스(Matt Wallace)와 함께 로스앤젤레스에 위치한 럼보 레코더(Rumbo Recorders)에서 *Songs About Jane*의 녹음을 시작하였다.\[3\] 또한 마크 엔더트(Mark Endert)는 "This Love"의 믹싱과 추가적 프로듀싱을 담당하였다.
 
 모든 음반 수록곡들은 애덤 리바인이 뉴욕에서 작사작곡하였거나, 다른 멤버들과 함께 썼다. 대부분의 가사들은 애덤 리바인과 그의 전 여자친구인 제인 허먼(Jane Herman)의 관계에서 감명을 받았다. 그가 말하길 모든 곡들에 그녀에 대한 이야기가 최소 한 줄 이상은 포함되어 있다고 한다.\[4\]
 
@@ -28,16 +28,16 @@
 ## 싱글
 
   - 음반 발매 한 달 후 발매된 첫 번째 싱글 "[Harder To Breathe](https://ko.wikipedia.org/wiki/Harder_To_Breathe "wikilink")"는 서서히 에어플레이 차트에서 상승하며 음반 판매에 박차를 가하였고, 미국 [빌보드 핫 100와](../Page/빌보드_핫_100.md "wikilink") [영국](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink"), 오스트레일리아, [뉴질랜드](https://ko.wikipedia.org/wiki/RIANZ "wikilink") 에서 20위권 안에 들었다.\[7\]
-  - 두 번째 싱글은 "[This Love](https://ko.wikipedia.org/wiki/This_Love "wikilink")"로, 마룬 5는 이 곡으로 2006년 제 48회 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")에서 최우수 팝 보컬 퍼포먼스 듀오/그룹 부문을 수상한다. 대한민국의 [가온 차트에서는](https://ko.wikipedia.org/wiki/가온_차트 "wikilink") 48위의 성적을 보여주었으며, [지드래곤](https://ko.wikipedia.org/wiki/지드래곤 "wikilink")과 [이승기](../Page/이승기.md "wikilink")의 곡("This Love", "가면")이 이 곡을 표절했다는 논란이 있었다.
+  - 두 번째 싱글은 "[This Love](https://ko.wikipedia.org/wiki/This_Love "wikilink")"로, 마룬 5는 이 곡으로 2006년 제 48회 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")에서 최우수 팝 보컬 퍼포먼스 듀오/그룹 부문을 수상한다. 대한민국의 [가온 차트에서는](../Page/가온_차트.md "wikilink") 48위의 성적을 보여주었으며, [지드래곤](../Page/지드래곤.md "wikilink")과 [이승기](../Page/이승기.md "wikilink")의 곡("This Love", "가면")이 이 곡을 표절했다는 논란이 있었다.
   - 세 번째 싱글 "[She Will Be Loved](https://ko.wikipedia.org/wiki/She_Will_Be_Loved "wikilink")" 역시 좋은 차트 성적을 거두었다. 오스트레일리아와 벨기에의 차트에서 1위를 하였고, 미국에서는 5위를 기록하였다.\[8\] 대한민국의 가온 차트에서는 51위의 성적을 보여주었다.
   - 네 번째 싱글 "[Sunday Morning](https://ko.wikipedia.org/wiki/Sunday_Morning "wikilink")"은 좋은 평가를 받음에도 불구하고 전작들에 비해 높은 차트 성적을 보이지만 않았다. 이 곡은 [옥톤 레코드의](https://ko.wikipedia.org/wiki/옥톤_레코드 "wikilink") 임원 벤 버크맨(Ben Berkman)이 "천재적"이라고 극찬하며 마룬 5와 계약하게 된 계기가 된 곡이기도 하다.\[9\] 대한민국의 가온 차트에서는 27위의 성적을 보여주었으며, [GM](https://ko.wikipedia.org/wiki/GM "wikilink") [쉐보레](../Page/쉐보레.md "wikilink") [말리부](https://ko.wikipedia.org/wiki/말리부 "wikilink") 광고에 쓰였다.
-  - 다섯 번째이자 마지막 싱글 "[Must Get Out](https://ko.wikipedia.org/wiki/Must_Get_Out "wikilink")"은 미국에서는 차트 진입에 실패하였지만, 영국, 아일랜드, 뉴질랜드 등의 국가에서 30위권 안에 들었다.
+  - 다섯 번째이자 마지막 싱글 "[Must Get Out](../Page/Must_Get_Out.md "wikilink")"은 미국에서는 차트 진입에 실패하였지만, 영국, 아일랜드, 뉴질랜드 등의 국가에서 30위권 안에 들었다.
 
 ### 그 외의 곡들
 
   - "Sweetest Goodbye"는 2003년 영국의 로맨틱 코미디 영화 《[러브 액추얼리](https://ko.wikipedia.org/wiki/러브_액추얼리 "wikilink")》에 쓰였다.
   - "Secret"은 2005년 미국의 로맨틱 코미디 영화 《[웨딩 데이트](https://ko.wikipedia.org/wiki/웨딩_데이트 "wikilink")》에 쓰였다.
-  - "Woman"은 2004년 미국의 슈퍼 히어로 영화 《[스파이더맨 2](https://ko.wikipedia.org/wiki/스파이더맨_2 "wikilink")》에 쓰였으며, 2008년엔 [샘 패러가](https://ko.wikipedia.org/wiki/샘_패러 "wikilink") 리믹스 버전을 공개하였다.
+  - "Woman"은 2004년 미국의 슈퍼 히어로 영화 《[스파이더맨 2](../Page/스파이더맨_2.md "wikilink")》에 쓰였으며, 2008년엔 [샘 패러가](../Page/샘_패러.md "wikilink") 리믹스 버전을 공개하였다.
 
 ## 수록곡 목록
 
@@ -45,7 +45,7 @@
 
 ### 10주년 기념반
 
-2012년 마룬 5의 네 번째 정규 음반 *[Overexposed](https://ko.wikipedia.org/wiki/Overexposed "wikilink")*의 발매와 함께 10주년을 맞은 *Songs About Jane*의 10주년 기념반이 발매되었다.\[10\]\[11\]\[12\] CD 1에 수록된 "She Will Be Loved"는 라디오 믹스 버전이며, 보너스 CD를 컴퓨터에 넣은 후 *Songs About Jane* 10주년 기념 홈페이지에 들어가면 데뷔 초반의 미공개 동영상들을 볼 수 있다.\[13\]
+2012년 마룬 5의 네 번째 정규 음반 *[Overexposed](../Page/Overexposed.md "wikilink")*의 발매와 함께 10주년을 맞은 *Songs About Jane*의 10주년 기념반이 발매되었다.\[10\]\[11\]\[12\] CD 1에 수록된 "She Will Be Loved"는 라디오 믹스 버전이며, 보너스 CD를 컴퓨터에 넣은 후 *Songs About Jane* 10주년 기념 홈페이지에 들어가면 데뷔 초반의 미공개 동영상들을 볼 수 있다.\[13\]
 
 ## 제작
 
@@ -54,8 +54,8 @@
   - 그레그 고든(Gregg Gorden) – 일러스트레이션
   - 네일 즐로조워(Neil Zlozower) – 사진
   - 대니 라이트(Danny Wright) – 보조 엔지니어
-  - [라시다 존스](https://ko.wikipedia.org/wiki/라시다_존스 "wikilink") – 백 보컬 ("Tangled", "Secret" and "Not Coming Home")
-  - [라이언 두식](https://ko.wikipedia.org/wiki/라이언_두식 "wikilink") – 드럼, 보컬, 마룬 5의 구성원
+  - [라시다 존스](../Page/라시다_존스.md "wikilink") – 백 보컬 ("Tangled", "Secret" and "Not Coming Home")
+  - [라이언 두식](../Page/라이언_두식.md "wikilink") – 드럼, 보컬, 마룬 5의 구성원
   - 레온 저보스(Leon Zervos) – 마스터링
   - 마이크 랜돌트(Mike Landolt) – 엔지니어
   - 마이클 바비어로(Michael Barbiero)– 믹싱
@@ -65,13 +65,13 @@
 <!-- end list -->
 
   - [미스틱](https://ko.wikipedia.org/wiki/미스틱 "wikilink") – 백 보컬
-  - [미키 매든](https://ko.wikipedia.org/wiki/미키_매든 "wikilink") – 베이스 기타, 마룬 5의 구성원
+  - [미키 매든](../Page/미키_매든.md "wikilink") – 베이스 기타, 마룬 5의 구성원
   - [밥 카마이클](http://www.bobcarmichael.com/)(Bobby Carmichael) - 사진
   - 시 애덤스(Cey Adams) – 아트 디렉터
   - [애덤 리바인](../Page/애덤_리바인.md "wikilink") – 보컬, 기타, 마룬 5의 구성원
   - 앨런 요시다(Alan Yoshida) – 마스터링
   - [제시 카마이클](../Page/제시_카마이클.md "wikilink") – 키보드, 마룬 5의 구성원
-  - [제임스 밸런타인](https://ko.wikipedia.org/wiki/제임스_밸런타인 "wikilink") – 기타, 마룬 5의 구성원
+  - [제임스 밸런타인](../Page/제임스_밸런타인.md "wikilink") – 기타, 마룬 5의 구성원
   - 크리스 맥케인(Chris McCann) – 사진
   - 포시 물리아디(Posie Muliadi) – 보조 엔지니어
 
@@ -148,7 +148,7 @@
 <p><a href="https://ko.wikipedia.org/wiki/J_레코드" title="wikilink">J</a>, <a href="https://ko.wikipedia.org/wiki/옥톤_레코드" title="wikilink">옥톤</a></p>
 </div></td>
 <td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a></p>
+<p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a></p>
 </div></td>
 </tr>
 <tr class="even">
@@ -168,7 +168,7 @@
 <p>2003년 9월 6일</p>
 </div></td>
 <td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트" title="wikilink">소니 뮤직 코리아</a>, <a href="https://ko.wikipedia.org/wiki/유니버설_뮤직_코리아" title="wikilink">유니버설 뮤직 코리아</a></p>
+<p><a href="../Page/소니_뮤직_엔터테인먼트.md" title="wikilink">소니 뮤직 코리아</a>, <a href="https://ko.wikipedia.org/wiki/유니버설_뮤직_코리아" title="wikilink">유니버설 뮤직 코리아</a></p>
 </div></td>
 <td></td>
 <td></td>

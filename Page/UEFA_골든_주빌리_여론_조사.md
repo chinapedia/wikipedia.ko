@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UEFA    ](https://ko.wikipedia.org/wiki/UEFA____).
 
 
-**UEFA 골든 주빌리 여론 조사**는 2004년 [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")(UEFA)이 창립 50주년을 기념하기 위한 행사 차원에서 실시한 [여론 조사이다](../Page/여론_조사.md "wikilink"). 1954년부터 2003년까지 지난 50년 동안 최고의 활약을 보여준 유럽의 축구 선수를 묻는 여론 조사였으며 UEFA 공식 홈페이지를 통해 진행되었다. 여론 조사에 언급된 선수 50명은 전체 후보 명단 250명 중에서 선정되었으며 10년 단위를 기준으로 하였다. 여론 조사에 참가한 전체 인원 수는 134,796명이었으며 전체 득표 수는 6,739,800표였다.
+**UEFA 골든 주빌리 여론 조사**는 2004년 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 창립 50주년을 기념하기 위한 행사 차원에서 실시한 [여론 조사이다](../Page/여론_조사.md "wikilink"). 1954년부터 2003년까지 지난 50년 동안 최고의 활약을 보여준 유럽의 축구 선수를 묻는 여론 조사였으며 UEFA 공식 홈페이지를 통해 진행되었다. 여론 조사에 언급된 선수 50명은 전체 후보 명단 250명 중에서 선정되었으며 10년 단위를 기준으로 하였다. 여론 조사에 참가한 전체 인원 수는 134,796명이었으며 전체 득표 수는 6,739,800표였다.
 
 여론 조사 결과 1위를 기록한 [지네딘 지단이](https://ko.wikipedia.org/wiki/지네딘_지단 "wikilink") 2위를 기록한 [프란츠 베켄바워를](../Page/프란츠_베켄바워.md "wikilink") 누르고 지난 50년 동안 최고의 활약을 보여준 유럽의 축구 선수로 선정되었다.
 
@@ -31,19 +31,19 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요한_크라위프" title="wikilink">요한 크라위프</a></p></td>
+<td><p><a href="../Page/요한_크라위프.md" title="wikilink">요한 크라위프</a></p></td>
 <td></td>
 <td><p>119,332</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마르코_판_바스턴" title="wikilink">마르코 판 바스턴</a></p></td>
+<td><p><a href="../Page/마르코_판_바스턴.md" title="wikilink">마르코 판 바스턴</a></p></td>
 <td></td>
 <td><p>117,987</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/디노_초프" title="wikilink">디노 초프</a></p></td>
+<td><p><a href="../Page/디노_초프.md" title="wikilink">디노 초프</a></p></td>
 <td></td>
 <td><p>114,529</p></td>
 </tr>
@@ -61,7 +61,7 @@
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레프_야신" title="wikilink">레프 야신</a></p></td>
+<td><p><a href="../Page/레프_야신.md" title="wikilink">레프 야신</a></p></td>
 <td></td>
 <td><p>101,862</p></td>
 </tr>
@@ -91,7 +91,7 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뤼트_휠릿" title="wikilink">뤼트 휠릿</a></p></td>
+<td><p><a href="../Page/뤼트_휠릿.md" title="wikilink">뤼트 휠릿</a></p></td>
 <td></td>
 <td><p>91,001</p></td>
 </tr>
@@ -139,7 +139,7 @@
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프랑크_레이카르트" title="wikilink">프랑크 레이카르트</a></p></td>
+<td><p><a href="../Page/프랑크_레이카르트.md" title="wikilink">프랑크 레이카르트</a></p></td>
 <td></td>
 <td><p>71,333</p></td>
 </tr>
@@ -151,13 +151,13 @@
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보비_무어" title="wikilink">보비 무어</a></p></td>
+<td><p><a href="../Page/보비_무어.md" title="wikilink">보비 무어</a></p></td>
 <td></td>
 <td><p>70,884</p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로베르토_바조" title="wikilink">로베르토 바조</a></p></td>
+<td><p><a href="../Page/로베르토_바조.md" title="wikilink">로베르토 바조</a></p></td>
 <td></td>
 <td><p>68,239</p></td>
 </tr>
@@ -169,7 +169,7 @@
 </tr>
 <tr class="even">
 <td><p>26</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로날트_쿠만" title="wikilink">로날트 쿠만</a></p></td>
+<td><p><a href="../Page/로날트_쿠만.md" title="wikilink">로날트 쿠만</a></p></td>
 <td></td>
 <td><p>66,661</p></td>
 </tr>
@@ -193,13 +193,13 @@
 </tr>
 <tr class="even">
 <td><p>30</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td></td>
 <td><p>58,151</p></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다보르_슈케르" title="wikilink">다보르 슈케르</a></p></td>
+<td><p><a href="../Page/다보르_슈케르.md" title="wikilink">다보르 슈케르</a></p></td>
 <td></td>
 <td><p>58,078</p></td>
 </tr>
@@ -217,13 +217,13 @@
 </tr>
 <tr class="even">
 <td><p>34</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요한_네이스컨스" title="wikilink">요한 네이스컨스</a></p></td>
+<td><p><a href="../Page/요한_네이스컨스.md" title="wikilink">요한 네이스컨스</a></p></td>
 <td></td>
 <td><p>54,796</p></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잔니_리베라" title="wikilink">잔니 리베라</a></p></td>
+<td><p><a href="../Page/잔니_리베라.md" title="wikilink">잔니 리베라</a></p></td>
 <td></td>
 <td><p>53,874</p></td>
 </tr>
@@ -265,31 +265,31 @@
 </tr>
 <tr class="even">
 <td><p>42</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에리크_캉토나" title="wikilink">에리크 캉토나</a></p></td>
+<td><p><a href="../Page/에리크_캉토나.md" title="wikilink">에리크 캉토나</a></p></td>
 <td></td>
 <td><p>48,436</p></td>
 </tr>
 <tr class="odd">
 <td><p>43</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스탠리_매슈스" title="wikilink">스탠리 매슈스</a></p></td>
+<td><p><a href="../Page/스탠리_매슈스.md" title="wikilink">스탠리 매슈스</a></p></td>
 <td></td>
 <td><p>47,915</p></td>
 </tr>
 <tr class="even">
 <td><p>44</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뤼트_판_니스텔로이" title="wikilink">뤼트 판 니스텔로이</a></p></td>
+<td><p><a href="../Page/뤼트_판_니스텔로이.md" title="wikilink">뤼트 판 니스텔로이</a></p></td>
 <td></td>
 <td><p>47,398</p></td>
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/발렌틴_코지미치_이바노프" title="wikilink">발렌틴 코지미치 이바노프</a></p></td>
+<td><p><a href="../Page/발렌틴_코지미치_이바노프.md" title="wikilink">발렌틴 코지미치 이바노프</a></p></td>
 <td></td>
 <td><p>46,022</p></td>
 </tr>
 <tr class="even">
 <td><p>46</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/게리_리네커" title="wikilink">게리 리네커</a></p></td>
+<td><p><a href="../Page/게리_리네커.md" title="wikilink">게리 리네커</a></p></td>
 <td></td>
 <td><p>44,787</p></td>
 </tr>
@@ -307,7 +307,7 @@
 </tr>
 <tr class="odd">
 <td><p>49</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알레산드로_델_피에로" title="wikilink">알레산드로 델 피에로</a></p></td>
+<td><p><a href="../Page/알레산드로_델_피에로.md" title="wikilink">알레산드로 델 피에로</a></p></td>
 <td></td>
 <td><p>43,227</p></td>
 </tr>

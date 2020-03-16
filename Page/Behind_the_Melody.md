@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Behind the Melody](https://ko.wikipedia.org/wiki/Behind_the_Melody).
 
 
-《**Behind the Melody**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [김사랑의](../Page/김사랑_\(가수\).md "wikilink") [EP이다](../Page/익스텐디드_플레이.md "wikilink").
+《**Behind the Melody**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [김사랑의](../Page/김사랑_\(가수\).md "wikilink") [EP이다](../Page/익스텐디드_플레이.md "wikilink").
 
 세 번째 정규앨범 《[U－TURN](../Page/U－TURN.md "wikilink")》이후 발표한 작품으로, 새롭게 선 보이는 곡 〈취중괴담〉과 그 데모버전, 리메이크 곡, 여러 사정상 수록되지 못했던 곡 등 총 5트랙으로 구성되어 있다.
 
@@ -23,7 +23,7 @@
 
 이 목록은 해당 앨범의 부클릿에서 발췌하였다.\[2\]
 
-  - [김사랑](../Page/김사랑_\(가수\).md "wikilink") - [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [악기](https://ko.wikipedia.org/wiki/악기 "wikilink") 연주, 믹싱
+  - [김사랑](../Page/김사랑_\(가수\).md "wikilink") - [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [악기](../Page/악기.md "wikilink") 연주, 믹싱
   - 김정일 - [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink"), 매니저
   - 전훈 - [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")
   - 김민혁 - [아트 디렉터](https://ko.wikipedia.org/wiki/아트_디렉터 "wikilink"), 디자이너, [사진](../Page/사진.md "wikilink")

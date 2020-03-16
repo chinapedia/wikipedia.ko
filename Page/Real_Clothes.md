@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Real Clothes](https://ko.wikipedia.org/wiki/Real_Clothes).
 
 
-**리얼 클로즈**(Real Clothes, )는, [마키무라 사토루의](https://ko.wikipedia.org/wiki/마키무라_사토루 "wikilink") [동명 만화를](https://ko.wikipedia.org/wiki/리얼_클로즈_\(만화\) "wikilink") 원작으로 제작되어, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [9월 16일에](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") 스페셜이, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 13일부터](https://ko.wikipedia.org/wiki/10월_13일 "wikilink") 같은 해 [12월 22일에](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") 연속극이 방송된 [카리나](https://ko.wikipedia.org/wiki/가리나 "wikilink") 주연의 드라마이다.
+**리얼 클로즈**(Real Clothes, )는, [마키무라 사토루의](https://ko.wikipedia.org/wiki/마키무라_사토루 "wikilink") [동명 만화를](https://ko.wikipedia.org/wiki/리얼_클로즈_\(만화\) "wikilink") 원작으로 제작되어, [2008년](../Page/2008년.md "wikilink") [9월 16일에](../Page/9월_16일.md "wikilink") 스페셜이, [2009년](../Page/2009년.md "wikilink") [10월 13일부터](../Page/10월_13일.md "wikilink") 같은 해 [12월 22일에](../Page/12월_22일.md "wikilink") 연속극이 방송된 [카리나](https://ko.wikipedia.org/wiki/가리나 "wikilink") 주연의 드라마이다.
 
 ## 개요
 
-[칸사이 TV](../Page/간사이_TV_방송.md "wikilink") 기획·제작, [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열([TV 미야자키](../Page/TV_미야자키.md "wikilink") 제외)에서 2008년 9월 16일 (화요일) 22시 00분 \~ 23시 24분([JST](https://ko.wikipedia.org/wiki/일본표준시 "wikilink"))에 카리나 주연으로 방송되었다. 시청률은 12.8%.
+[칸사이 TV](../Page/간사이_TV_방송.md "wikilink") 기획·제작, [후지 TV](../Page/후지_TV.md "wikilink") 계열([TV 미야자키](../Page/TV_미야자키.md "wikilink") 제외)에서 2008년 9월 16일 (화요일) 22시 00분 \~ 23시 24분([JST](https://ko.wikipedia.org/wiki/일본표준시 "wikilink"))에 카리나 주연으로 방송되었다. 시청률은 12.8%.
 
 2009년 10월 13일부터 12월 22일까지 매주 화요일 22시 00분 \~ 22시 54분(JST)에 연속극화되었고, 연속극판은 스페셜 드라마 속편이 아니다. 첫회는 22시 10분 \~ 23시 14분에 방송.
 
@@ -43,7 +43,7 @@
 <!-- end list -->
 
   -
-    에치젠야 백화점 여성복 통괄부장. 추정 연령 55세, 前 모델이라는 등 소문이 무성한 의문스러운 인물. 지각, 변명, 맨얼굴을 싫어한다. 살롱 안 쪽의 집무실 겸 VIP 전용 피팅룸(페셰미뇽, 프랑스어로 작은 벌)을 책임지고 관리하며, 단 몇 시간만에 1,000만 [엔을](https://ko.wikipedia.org/wiki/일본_엔 "wikilink") 벌어들이는 자칭 마술사.
+    에치젠야 백화점 여성복 통괄부장. 추정 연령 55세, 前 모델이라는 등 소문이 무성한 의문스러운 인물. 지각, 변명, 맨얼굴을 싫어한다. 살롱 안 쪽의 집무실 겸 VIP 전용 피팅룸(페셰미뇽, 프랑스어로 작은 벌)을 책임지고 관리하며, 단 몇 시간만에 1,000만 [엔을](../Page/일본_엔.md "wikilink") 벌어들이는 자칭 마술사.
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - **타부치 유사쿠 / ** - [니시지마 히데토시](https://ko.wikipedia.org/wiki/니시지마_히데토시 "wikilink")
+  - **타부치 유사쿠 / ** - [니시지마 히데토시](../Page/니시지마_히데토시.md "wikilink")
 
 <!-- end list -->
 
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   -
-    상품부 어시스턴트 바이어. [모로코](https://ko.wikipedia.org/wiki/모로코 "wikilink")에서 태어난 [일](https://ko.wikipedia.org/wiki/일본 "wikilink")[불](../Page/프랑스.md "wikilink") 혼혈.
+    상품부 어시스턴트 바이어. [모로코](../Page/모로코.md "wikilink")에서 태어난 [일](../Page/일본.md "wikilink")[불](../Page/프랑스.md "wikilink") 혼혈.
 
 <!-- end list -->
 
@@ -115,7 +115,7 @@
 
 <!-- end list -->
 
-  - **모리 나츠코 ** - [아시나 세이](https://ko.wikipedia.org/wiki/아시나_세이 "wikilink")
+  - **모리 나츠코 ** - [아시나 세이](../Page/아시나_세이.md "wikilink")
 
 <!-- end list -->
 
@@ -188,7 +188,7 @@
 <!-- end list -->
 
   - **후쿠다 / ** - [사사이 에이스케](https://ko.wikipedia.org/wiki/사사이_에이스케 "wikilink")
-  - 점장 - [사토 지로](https://ko.wikipedia.org/wiki/사토_지로 "wikilink")
+  - 점장 - [사토 지로](../Page/사토_지로.md "wikilink")
   - **우에노 / ** - [구제 세이카](https://ko.wikipedia.org/wiki/구제_세이카 "wikilink")
   - **혼고 회장** /  - [니시오카 도쿠마](https://ko.wikipedia.org/wiki/니시오카_도쿠마 "wikilink") (특별 출연)
 
@@ -246,7 +246,7 @@
   - 아마노 키누에 역 - [카리나](https://ko.wikipedia.org/wiki/카리나 "wikilink")
   - 진보 미키 - [구로키 히토미](https://ko.wikipedia.org/wiki/구로키_히토미 "wikilink")
   - 야마우치 다쓰야 - [다카오카 소스케](https://ko.wikipedia.org/wiki/다카오카_소스케 "wikilink")
-  - 다부치 유사쿠 - [니시지마 히데토시](https://ko.wikipedia.org/wiki/니시지마_히데토시 "wikilink")
+  - 다부치 유사쿠 - [니시지마 히데토시](../Page/니시지마_히데토시.md "wikilink")
   - 하치야 히데아키 /  - [코이즈미 코타로](https://ko.wikipedia.org/wiki/고이즈미_고타로 "wikilink")
 
 <!-- end list -->
@@ -269,12 +269,12 @@
 <!-- end list -->
 
   - 모리 나쓰코 - [미나미 아키나](https://ko.wikipedia.org/wiki/미나미_아키나 "wikilink")
-  - 아마노 마유 /  - [IMALU](https://ko.wikipedia.org/wiki/IMALU "wikilink")
+  - 아마노 마유 /  - [IMALU](../Page/IMALU.md "wikilink")
 
 <!-- end list -->
 
   -
-    키누에의 동생. 언니와는 대조적으로 멋부리기 좋아하는 여고생. 쇼핑을 하기 위해 [도치기에서](https://ko.wikipedia.org/wiki/도치기현 "wikilink") 상경한다. 디자이너 지망생.
+    키누에의 동생. 언니와는 대조적으로 멋부리기 좋아하는 여고생. 쇼핑을 하기 위해 [도치기에서](../Page/도치기현.md "wikilink") 상경한다. 디자이너 지망생.
 
 <!-- end list -->
 
@@ -491,7 +491,7 @@
   - 각본 - 오시마 사토미
   - 연출 - 시라키 케이치로 (칸사이 TV), 모토하시 케이타 (애즈버드)
   - 책임 프로듀서 - 시게마츠 케이치로 (칸사이 TV)
-  - 프로듀서 - 사토 타쿠미 (칸사이 TV), 히라베 타카아키 ([호리프로](https://ko.wikipedia.org/wiki/호리프로 "wikilink"))
+  - 프로듀서 - 사토 타쿠미 (칸사이 TV), 히라베 타카아키 ([호리프로](../Page/호리프로.md "wikilink"))
   - 음악 - 노자키 료타 (Jazztronik)
   - 주제가 - 사카즈미 미사코 / 분명 괜찮을 거야 ()
   - 제작협력 - 호리프로덕션
@@ -600,7 +600,7 @@
 <td><p>9.3%</p></td>
 </tr>
 <tr class="even">
-<td><p>평균 시청률 9.96% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">간토 지구</a> 비디오 리서치 조사)</p></td>
+<td><p>평균 시청률 9.96% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">간토 지구</a> 비디오 리서치 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [  A  ](https://ko.wikipedia.org/wiki/__A__).
 
 
-**마터스 메모리얼 A 디비전 리그**()는 [네팔](https://ko.wikipedia.org/wiki/네팔 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 최상위 리그이다. 18개 클럽으로 구성되어 있으며 [마터스 메모리얼 B 디비전 리그와](https://ko.wikipedia.org/wiki/마터스_메모리얼_B_디비전_리그 "wikilink") 승강제를 이루고 있다.
+**마터스 메모리얼 A 디비전 리그**()는 [네팔](../Page/네팔.md "wikilink")의 [축구](../Page/축구.md "wikilink") 최상위 리그이다. 18개 클럽으로 구성되어 있으며 [마터스 메모리얼 B 디비전 리그와](https://ko.wikipedia.org/wiki/마터스_메모리얼_B_디비전_리그 "wikilink") 승강제를 이루고 있다.
 
 ## 역사
 
 1947년 네팔의 수상인 파담 샴세르는 축구에 대한 관심도가 높아지자 람 자나키 풋볼 토너먼트를 개최하였다. 1950년 민주화 운동 이후 네팔 폴리스 포스는 3연속 우승을 차지하여 트로피를 영구 소유하는 등 성공적인 시간을 보냈다. 이후 폴리스 포스는 희생자를 기리며 대회가 계속되기를 원하며 네팔 축구협회에 트로피를 넘겼다. 이 트로피는 지금까지 대회 이름에 남겨져 전해지고 있다.
 
-대회의 역사는 명확히 기록된 것이 없다. 하지만 역사의 중요 부분들은 전해져 내려오고 있다. [라니포카리 코너 팀이](https://ko.wikipedia.org/wiki/라니포카리_코너_팀 "wikilink") [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink")부터 [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink")까지 3년 연속 우승을 하였다. [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") 전네팔 축구 협회(ANFA)가 설립되었고, 대회 역시 크게 변하게 된다. 대회는 재정 문제로 인해 때때로 중단되기도 했다.
+대회의 역사는 명확히 기록된 것이 없다. 하지만 역사의 중요 부분들은 전해져 내려오고 있다. [라니포카리 코너 팀이](https://ko.wikipedia.org/wiki/라니포카리_코너_팀 "wikilink") [1971년](../Page/1971년.md "wikilink")부터 [1973년](../Page/1973년.md "wikilink")까지 3년 연속 우승을 하였다. [1973년](../Page/1973년.md "wikilink") 전네팔 축구 협회(ANFA)가 설립되었고, 대회 역시 크게 변하게 된다. 대회는 재정 문제로 인해 때때로 중단되기도 했다.
 
-[1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")에는 네팔의 정치적 혼란과 이에 수반한 경제적 몰락, 그리고 정치적 간섭 때문에 대회는 다시 중단되었다. 전네팔 축구 협회는 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")에 대회를 다시 개최했지만 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")을 마지막으로 다시 중단되었다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 전네팔 축구 협회 주도 하에 대회가 재개되었다.
+[1990년](../Page/1990년.md "wikilink")에는 네팔의 정치적 혼란과 이에 수반한 경제적 몰락, 그리고 정치적 간섭 때문에 대회는 다시 중단되었다. 전네팔 축구 협회는 [1995년](../Page/1995년.md "wikilink")에 대회를 다시 개최했지만 [2006년](../Page/2006년.md "wikilink")을 마지막으로 다시 중단되었다. [2009년](../Page/2009년.md "wikilink") 전네팔 축구 협회 주도 하에 대회가 재개되었다.
 
 ## 마터스 메모리얼 A 디비전 리그 2011
 

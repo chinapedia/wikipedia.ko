@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**타운십 롤러스**(Township Rollers)는 [보츠와나](https://ko.wikipedia.org/wiki/보츠와나 "wikilink")의 프로 축구 클럽 중 하나로, [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink")에 창설되었으며 [보츠와나 프리미어리그에서](../Page/보츠와나_프리미어리그.md "wikilink") 최다 우승 기록을 보유하고 있는 보츠와나의 명문 클럽이다. [가보로네](https://ko.wikipedia.org/wiki/가보로네 "wikilink")를 연고로 하고 있으며 [보츠와나 국립 경기장을](https://ko.wikipedia.org/wiki/보츠와나_국립_경기장 "wikilink") 함께 쓰는 [가보로네 유나이티드와](https://ko.wikipedia.org/wiki/가보로네_유나이티드 "wikilink") 라이벌 관계를 형성하고 있다.
+**타운십 롤러스**(Township Rollers)는 [보츠와나](../Page/보츠와나.md "wikilink")의 프로 축구 클럽 중 하나로, [1961년](../Page/1961년.md "wikilink")에 창설되었으며 [보츠와나 프리미어리그에서](../Page/보츠와나_프리미어리그.md "wikilink") 최다 우승 기록을 보유하고 있는 보츠와나의 명문 클럽이다. [가보로네](../Page/가보로네.md "wikilink")를 연고로 하고 있으며 [보츠와나 국립 경기장을](https://ko.wikipedia.org/wiki/보츠와나_국립_경기장 "wikilink") 함께 쓰는 [가보로네 유나이티드와](https://ko.wikipedia.org/wiki/가보로네_유나이티드 "wikilink") 라이벌 관계를 형성하고 있다.
 
 ## 우승 기록
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [OD](https://ko.wikipedia.org/wiki/OD).
 
 
-**(주)오디뮤지컬컴퍼니**(OD MUSICAL COMPANY)는 [뮤지컬](../Page/뮤지컬.md "wikilink"), [연극](https://ko.wikipedia.org/wiki/연극 "wikilink") 등의 공연예술작품을 기획, 제작하는 대한민국의 프로듀싱 컴퍼니이다.
+**(주)오디뮤지컬컴퍼니**(OD MUSICAL COMPANY)는 [뮤지컬](../Page/뮤지컬.md "wikilink"), [연극](../Page/연극.md "wikilink") 등의 공연예술작품을 기획, 제작하는 대한민국의 프로듀싱 컴퍼니이다.
 
-대표작으로는 뮤지컬 [지킬앤하이드](../Page/지킬_앤드_하이드_\(뮤지컬\).md "wikilink")(JEKYLL & HYDE), [그리스](https://ko.wikipedia.org/wiki/그리스_\(뮤지컬\) "wikilink"), [드림걸즈](https://ko.wikipedia.org/wiki/드림걸즈 "wikilink")([en](https://ko.wikipedia.org/wiki/:en:Dreamgirls "wikilink")), [맨오브라만차](https://ko.wikipedia.org/wiki/맨오브라만차 "wikilink")([en](https://ko.wikipedia.org/wiki/:en:Man_of_La_Mancha "wikilink")), [닥터 지바고](https://ko.wikipedia.org/wiki/닥터_지바고 "wikilink") 등이 있다.
+대표작으로는 뮤지컬 [지킬앤하이드](../Page/지킬_앤드_하이드_\(뮤지컬\).md "wikilink")(JEKYLL & HYDE), [그리스](https://ko.wikipedia.org/wiki/그리스_\(뮤지컬\) "wikilink"), [드림걸즈](https://ko.wikipedia.org/wiki/드림걸즈 "wikilink")([en](https://ko.wikipedia.org/wiki/:en:Dreamgirls "wikilink")), [맨오브라만차](https://ko.wikipedia.org/wiki/맨오브라만차 "wikilink")([en](https://ko.wikipedia.org/wiki/:en:Man_of_La_Mancha "wikilink")), [닥터 지바고](../Page/닥터_지바고.md "wikilink") 등이 있다.
 
-2001년에 설립되었으며 지난 10년간 총 34개의 창작뮤지컬 및 [브로드웨이 연극](https://ko.wikipedia.org/wiki/브로드웨이_연극 "wikilink") 라이선스 프로덕션을 선보였다.
+2001년에 설립되었으며 지난 10년간 총 34개의 창작뮤지컬 및 [브로드웨이 연극](../Page/브로드웨이_연극.md "wikilink") 라이선스 프로덕션을 선보였다.
 
-2010년 11월 30일부터 2011년 8월 28일까지 9개월간 [샤롯데씨어터](https://ko.wikipedia.org/wiki/샤롯데씨어터 "wikilink")에서 공연된 뮤지컬 [지킬앤드하이드](https://ko.wikipedia.org/wiki/지킬앤드하이드 "wikilink")는 단일 시즌 공연 매출 275억원, 관객수 35만명의 한국 신기록을 수립하였다.\[1\]
+2010년 11월 30일부터 2011년 8월 28일까지 9개월간 [샤롯데씨어터](../Page/샤롯데씨어터.md "wikilink")에서 공연된 뮤지컬 [지킬앤드하이드](https://ko.wikipedia.org/wiki/지킬앤드하이드 "wikilink")는 단일 시즌 공연 매출 275억원, 관객수 35만명의 한국 신기록을 수립하였다.\[1\]
 
 ## 연혁
 
@@ -160,13 +160,13 @@
 
 2004
 
-  - 제11회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 기술상 그리스(김미경)
-  - 제11회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 남우주연상 지킬앤하이드([조승우](https://ko.wikipedia.org/wiki/조승우 "wikilink"))
-  - 제11회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 여우신인상 지킬앤하이드(소냐)
+  - 제11회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 기술상 그리스(김미경)
+  - 제11회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 남우주연상 지킬앤하이드([조승우](https://ko.wikipedia.org/wiki/조승우 "wikilink"))
+  - 제11회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 여우신인상 지킬앤하이드(소냐)
 
 2005
 
-  - 제12회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 남우조연상 돈키호테(김재만)
+  - 제12회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 남우조연상 돈키호테(김재만)
   - [인터파크](../Page/인터파크.md "wikilink") 골든티켓어워즈 최고의 라이센스 뮤지컬 지킬앤하이드
 
 2007
@@ -180,7 +180,7 @@
 
 2008
 
-  - 제14회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 여우주연상 마이페어레이디(김소현)
+  - 제14회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 여우주연상 마이페어레이디(김소현)
   - 제2회 더뮤지컬어워즈 최우수재공연상 맨오브라만차
   - 제2회 더뮤지컬어워즈 남우주연상 맨오브라만차(조승우)
   - 제2회 더뮤지컬어워즈 여우조연상 나인(정선아)
@@ -190,12 +190,12 @@
 
 2009
 
-  - 제15회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 최우수외국뮤지컬상 드림걸즈
-  - 제15회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 프로듀서상 대표 신춘수
-  - 제15회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 여우주연상 드림걸즈([홍지민](../Page/홍지민.md "wikilink"))
-  - 제15회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 음악상 드림걸즈(원미솔)
-  - 제15회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 무대미술상 드림걸즈(Robin Wagner)
-  - 제15회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 기술상 드림걸즈(노병우)
+  - 제15회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 최우수외국뮤지컬상 드림걸즈
+  - 제15회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 프로듀서상 대표 신춘수
+  - 제15회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 여우주연상 드림걸즈([홍지민](../Page/홍지민.md "wikilink"))
+  - 제15회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 음악상 드림걸즈(원미솔)
+  - 제15회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 무대미술상 드림걸즈(Robin Wagner)
+  - 제15회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 기술상 드림걸즈(노병우)
   - 제3회 더뮤지컬어워즈 최우수외국뮤지컬상 드림걸즈
   - 제3회 더뮤지컬어워즈 남우조연상 드림걸즈(최민철)
   - 제3회 더뮤지컬어워즈 여우조연상 드림걸즈(정선아)
@@ -210,7 +210,7 @@
 
 2011
 
-  - 제17회 [한국뮤지컬대상](https://ko.wikipedia.org/wiki/한국뮤지컬대상 "wikilink") 베스트외국뮤지컬상 스팸어랏
+  - 제17회 [한국뮤지컬대상](../Page/한국뮤지컬대상.md "wikilink") 베스트외국뮤지컬상 스팸어랏
   - 제5회 더뮤지컬어워즈 남우주연상 지킬앤하이드([조승우](https://ko.wikipedia.org/wiki/조승우 "wikilink"))
   - 제6회 공연관광축제 코리아인모션어워즈 챌리저상 뮤지컬부문 지킬앤하이드
   - [인터파크](../Page/인터파크.md "wikilink") 골든티켓어워즈 최고의 작품대상 지킬앤하이드

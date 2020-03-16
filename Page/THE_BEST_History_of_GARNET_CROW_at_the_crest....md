@@ -5,9 +5,9 @@
 
 ### 수록곡
 
-  - 전체 작사: [아즈키 나나](https://ko.wikipedia.org/wiki/아즈키_나나 "wikilink")
+  - 전체 작사: [아즈키 나나](../Page/아즈키_나나.md "wikilink")
   - 전체 작곡: [나카무라 유리](../Page/나카무라_유리_\(가수\).md "wikilink")
-  - 전체 편곡: [후루이 히로히토](https://ko.wikipedia.org/wiki/후루이_히로히토 "wikilink")(disc3의 〈Float World〉만 후루이 히로히토, [미구엘 사 페소아](https://ko.wikipedia.org/wiki/미구엘_사_페소아 "wikilink"))
+  - 전체 편곡: [후루이 히로히토](../Page/후루이_히로히토.md "wikilink")(disc3의 〈Float World〉만 후루이 히로히토, [미구엘 사 페소아](https://ko.wikipedia.org/wiki/미구엘_사_페소아 "wikilink"))
 
 #### Disc 1
 
@@ -18,16 +18,16 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
 <small>2010년 2월 6일 (565화) ~ 2010년 7월 31일 (582화)</small></p></td>
 </tr>
 <tr class="even">
 <td><p>이전 곡:<br />
-<a href="https://ko.wikipedia.org/wiki/아이우치_리나" title="wikilink">아이우치 리나</a><br />
+<a href="../Page/아이우치_리나.md" title="wikilink">아이우치 리나</a><br />
 〈<a href="../Page/MAGIC_(아이우치_리나의_노래).md" title="wikilink">MAGIC</a>〉</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/매직_쾌두" title="wikilink"><span style="color:#fff"><strong>매직 쾌두</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/매직_쾌두.md" title="wikilink"><span style="color:#fff"><strong>매직 쾌두</strong></span></a>》 여는 곡<br />
 <small>2010년 4월 24일 (1기 1화)</small></p></td>
 </tr>
 <tr class="even">

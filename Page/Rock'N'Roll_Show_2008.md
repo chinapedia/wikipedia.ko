@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rock\'N\'Roll Show 2008](https://ko.wikipedia.org/wiki/Rock\'N\'Roll_Show_2008).
 
 
-《**Rock'N'Roll Show 2008**》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")가 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 발매한 DVD 라이브 음반이다. 2008년 동안의 공연 실황을 2장의 CD에 담았다.
+《**Rock'N'Roll Show 2008**》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")가 [2009년](../Page/2009년.md "wikilink")에 발매한 DVD 라이브 음반이다. 2008년 동안의 공연 실황을 2장의 CD에 담았다.
 
 ## 수록곡
 

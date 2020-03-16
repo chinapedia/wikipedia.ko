@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [N.EX.T Concert Album - The First Fan Service](https://ko.wikipedia.org/wiki/N.EX.T_Concert_Album_-_The_First_Fan_Service).
 
 
-**《N.EX.T Concert Album》**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [N.EX.T](https://ko.wikipedia.org/wiki/N.EX.T "wikilink")의 라이브 실황앨범이다. 부제는 'The First Fan Service'와 유일하게 수록된 신곡의 제목인 'R. U. READY?'이다. 1997년 연말에 넥스트가 공식적으로 해체되면서 2004년 밴드가 재결성되기 전까지 넥스트의 마지막 라이브 앨범이 되었다.
+**《N.EX.T Concert Album》**은 [대한민국](../Page/대한민국.md "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [N.EX.T](../Page/N.EX.T.md "wikilink")의 라이브 실황앨범이다. 부제는 'The First Fan Service'와 유일하게 수록된 신곡의 제목인 'R. U. READY?'이다. 1997년 연말에 넥스트가 공식적으로 해체되면서 2004년 밴드가 재결성되기 전까지 넥스트의 마지막 라이브 앨범이 되었다.
 
 ## 앨범
 
-1997년 4월 18일 부터 20일까지 열었던 서울공연과 같은 해 5월 11일 전북대 노천극장에서의 콘서트 실황을 수록한 라이브 앨범으로, 넥스트의 히트곡과 [에릭 클랩튼의](https://ko.wikipedia.org/wiki/에릭_클랩튼 "wikilink") 〈[Wonderful Tonight](https://ko.wikipedia.org/wiki/Wonderful_Tonight "wikilink")〉, [반 헤일런의](https://ko.wikipedia.org/wiki/반_헤일런 "wikilink") 〈Jump〉, [김영석이](https://ko.wikipedia.org/wiki/김영석_\(가수\) "wikilink") 작곡한 가수 [이지훈의](https://ko.wikipedia.org/wiki/이지훈_\(1979년\) "wikilink") 데뷔곡 〈왜 하늘은〉 등 넥스트 음악이 아닌 곡의 라이브도 포함되었다.
+1997년 4월 18일 부터 20일까지 열었던 서울공연과 같은 해 5월 11일 전북대 노천극장에서의 콘서트 실황을 수록한 라이브 앨범으로, 넥스트의 히트곡과 [에릭 클랩튼의](../Page/에릭_클랩튼.md "wikilink") 〈[Wonderful Tonight](../Page/Wonderful_Tonight.md "wikilink")〉, [반 헤일런의](../Page/반_헤일런.md "wikilink") 〈Jump〉, [김영석이](https://ko.wikipedia.org/wiki/김영석_\(가수\) "wikilink") 작곡한 가수 [이지훈의](https://ko.wikipedia.org/wiki/이지훈_\(1979년\) "wikilink") 데뷔곡 〈왜 하늘은〉 등 넥스트 음악이 아닌 곡의 라이브도 포함되었다.
 
 2006년에는 새로운 멤버들과 이 당시 멤버들이 모두 참여하여 후속 시리즈라 할 수 있는《[The 2nd fan service: Regame?](https://ko.wikipedia.org/wiki/Regame? "wikilink")》앨범을 발매했는데, 라이브 앨범이 아닌 신해철이 만들었던 기존의 여러곡들을 오케스트라와 같이 다시 녹음하는 방식으로 제작됐다.
 
@@ -27,8 +27,8 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/신해철" title="wikilink">신해철</a> - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a>, 보컬, 리듬 <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>(아리랑, 영원히), 드럼(Wonderful Tonight), <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>(마징가Z)</li>
-<li><a href="../Page/김세황.md" title="wikilink">김세황</a> - 리드/리듬 기타, 전기 <a href="https://ko.wikipedia.org/wiki/시타르" title="wikilink">시타르</a>, 백 보컬, 보컬(Jump), <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>(마징가Z)</li>
+<li><a href="../Page/신해철.md" title="wikilink">신해철</a> - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a>, 보컬, 리듬 <a href="../Page/기타.md" title="wikilink">기타</a>(아리랑, 영원히), 드럼(Wonderful Tonight), <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(마징가Z)</li>
+<li><a href="../Page/김세황.md" title="wikilink">김세황</a> - 리드/리듬 기타, 전기 <a href="../Page/시타르.md" title="wikilink">시타르</a>, 백 보컬, 보컬(Jump), <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>(마징가Z)</li>
 <li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - 베이스, 백 보컬, 보컬(마징가Z, 왜 하늘은)</li>
 <li><a href="../Page/이수용_(드러머).md" title="wikilink">이수용</a> - 드럼, 리드 기타(마징가Z), 보컬(Wonderful Tonight)</li>
 </ul>
@@ -37,9 +37,9 @@
 
 </dl>
 <ul>
-<li>김유성 - <a href="https://ko.wikipedia.org/wiki/신시사이저" title="wikilink">신시사이저</a>, 리듬기타</li>
+<li>김유성 - <a href="../Page/신시사이저.md" title="wikilink">신시사이저</a>, 리듬기타</li>
 <li>장기순 - 신시사이저, 피아노, 오르간</li>
-<li><a href="https://ko.wikipedia.org/wiki/남궁연" title="wikilink">남궁연</a> - <a href="https://ko.wikipedia.org/wiki/타악기" title="wikilink">타악기</a>, 스페셜 댄스</li>
+<li><a href="../Page/남궁연.md" title="wikilink">남궁연</a> - <a href="https://ko.wikipedia.org/wiki/타악기" title="wikilink">타악기</a>, 스페셜 댄스</li>
 <li>민영치, 장재효, 김응식, 이봉훈 - 사물놀이</li>
 </ul>
 <dl>
@@ -62,7 +62,7 @@
 <li>성우, 오페라 - 무대 설치(대구)</li>
 <li>이정무 - 무대 설치(부산)</li>
 <li>예향 - 무대 설치(전주)</li>
-<li>김운환 외(아시아테크) - <a href="https://ko.wikipedia.org/wiki/레이저" title="wikilink">레이저</a> 효과</li>
+<li>김운환 외(아시아테크) - <a href="../Page/레이저.md" title="wikilink">레이저</a> 효과</li>
 <li>정광식 외(SUN 악기) - 악기 세팅</li>
 <li>강수진, 윤봉운 외(Music Line) - 라이브 녹음 팀</li>
 <li>김덕수 - 기타 테크니션</li>

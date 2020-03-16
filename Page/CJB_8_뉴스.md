@@ -9,9 +9,9 @@
 
 ## 타이틀
 
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") \~ [2011](https://ko.wikipedia.org/wiki/2011 "wikilink")년 [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") : CJB 종합뉴스 (평일), CJB 뉴스 (주말)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 15일](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") : CJB 8 뉴스 (평일), CJB 뉴스 (주말)
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") \~ **현재** : CJB 8 뉴스
+  - [1997년](../Page/1997년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ [2011](https://ko.wikipedia.org/wiki/2011 "wikilink")년 [12월 30일](../Page/12월_30일.md "wikilink") : CJB 종합뉴스 (평일), CJB 뉴스 (주말)
+  - [2012년](../Page/2012년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink") : CJB 8 뉴스 (평일), CJB 뉴스 (주말)
+  - [2017년](../Page/2017년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") \~ **현재** : CJB 8 뉴스
 
 ## 시보 광고
 
@@ -32,15 +32,15 @@
 ## 청주방송의 다른 뉴스 프로그램
 
   - [CJB 7 뉴스](https://ko.wikipedia.org/wiki/CJB_7_뉴스 "wikilink")
-  - [CJB 뉴스 (1020)](https://ko.wikipedia.org/wiki/CJB_뉴스_\(1020\) "wikilink")
+  - [CJB 뉴스 (1020)](../Page/CJB_뉴스_\(1020\).md "wikilink")
   - [CJB 뉴스 (1750)](https://ko.wikipedia.org/wiki/CJB_뉴스_\(1750\) "wikilink")
 
 ## 같이 보기
 
   - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 청주 \<[KBS청주](../Page/KBS청주방송총국.md "wikilink")·[KBS충주](../Page/KBS충주방송국.md "wikilink")(평일)\>
   - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 충주 \<[KBS충주](../Page/KBS충주방송국.md "wikilink")(평일)\>
-  - [MBC 뉴스데스크](https://ko.wikipedia.org/wiki/MBC_뉴스데스크 "wikilink") 충북 \<[MBC충북 청주방송국](../Page/MBC충북_청주방송국.md "wikilink")\>
-  - [MBC 뉴스데스크](https://ko.wikipedia.org/wiki/MBC_뉴스데스크 "wikilink") 충북 \<[MBC충북 충주방송국](../Page/MBC충북_충주방송국.md "wikilink")\>
+  - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 충북 \<[MBC충북 청주방송국](../Page/MBC충북_청주방송국.md "wikilink")\>
+  - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 충북 \<[MBC충북 충주방송국](../Page/MBC충북_충주방송국.md "wikilink")\>
 
 ## 각주
 

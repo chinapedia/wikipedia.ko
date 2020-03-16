@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PubChem](https://ko.wikipedia.org/wiki/PubChem).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Pubchemlogo.png "wikilink") **PubChem**은 [화학](https://ko.wikipedia.org/wiki/화학 "wikilink") [분자](https://ko.wikipedia.org/wiki/분자 "wikilink") 및 생물학 논문에 대한 활동의 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink")이다. 이 체계는 [미국 국립 보건원](https://ko.wikipedia.org/wiki/미국_국립_보건원 "wikilink")(NIH)의 일부인 [미국 의학 도서관](https://ko.wikipedia.org/wiki/미국_의학_도서관 "wikilink")(NLM)의 한 구성 요소인 [미국 국립생물공학정보센터](../Page/미국_국립생물공학정보센터.md "wikilink")(NCBI)가 관리하고 있다. PumChem은 [웹 사용자 인터페이스를](https://ko.wikipedia.org/wiki/사용자_인터페이스 "wikilink") 통해 무료로 접근할 수 있다. [FTP](http://pubchem.ncbi.nlm.nih.gov/pc_fetch/pc_fetch-help.html)를 통하여 수백만 가지의 화합물 구조와 설명 자료를 내려받을 수 있다. 80군데가 넘는 업체들이 PubChem 데이터베이스의 성장에 기여하고 있다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Pubchemlogo.png "wikilink") **PubChem**은 [화학](../Page/화학.md "wikilink") [분자](../Page/분자.md "wikilink") 및 생물학 논문에 대한 활동의 [데이터베이스](../Page/데이터베이스.md "wikilink")이다. 이 체계는 [미국 국립 보건원](https://ko.wikipedia.org/wiki/미국_국립_보건원 "wikilink")(NIH)의 일부인 [미국 의학 도서관](https://ko.wikipedia.org/wiki/미국_의학_도서관 "wikilink")(NLM)의 한 구성 요소인 [미국 국립생물공학정보센터](../Page/미국_국립생물공학정보센터.md "wikilink")(NCBI)가 관리하고 있다. PumChem은 [웹 사용자 인터페이스를](../Page/사용자_인터페이스.md "wikilink") 통해 무료로 접근할 수 있다. [FTP](http://pubchem.ncbi.nlm.nih.gov/pc_fetch/pc_fetch-help.html)를 통하여 수백만 가지의 화합물 구조와 설명 자료를 내려받을 수 있다. 80군데가 넘는 업체들이 PubChem 데이터베이스의 성장에 기여하고 있다.\[1\]
 
 ## 데이터베이스
 

@@ -7,13 +7,13 @@
 
   - 2016: [더스틴 존슨](https://ko.wikipedia.org/wiki/더스틴_존슨 "wikilink")
   - 2015: [조던 스피스](https://ko.wikipedia.org/wiki/조던_스피스 "wikilink")
-  - 2014: [마르틴 카이머](https://ko.wikipedia.org/wiki/마르틴_카이머 "wikilink")
+  - 2014: [마르틴 카이머](../Page/마르틴_카이머.md "wikilink")
   - 2013: [저스틴 로즈](../Page/저스틴_로즈.md "wikilink")
   - 2012: [웹 심슨](https://ko.wikipedia.org/wiki/웹_심슨 "wikilink")
   - 2011: [로리 매킬로이](../Page/로리_매킬로이.md "wikilink")
   - 2010: [그레임 맥다월](https://ko.wikipedia.org/wiki/그레임_맥다월 "wikilink")
   - 2009: [루카스 글로버](https://ko.wikipedia.org/wiki/루카스_글로버 "wikilink")
-  - 2008: [타이거 우즈](https://ko.wikipedia.org/wiki/타이거_우즈 "wikilink")
+  - 2008: [타이거 우즈](../Page/타이거_우즈.md "wikilink")
   - 2007: 앙헬 카브레라
   - 2006: [제프 오길비](https://ko.wikipedia.org/wiki/제프_오길비 "wikilink")
   - 2005: 마이클 캠벨

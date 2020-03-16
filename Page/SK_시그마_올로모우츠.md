@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SK  ](https://ko.wikipedia.org/wiki/SK__).
 
 
-**SK 시그마 올로모우츠**()는 [올로모우츠](https://ko.wikipedia.org/wiki/올로모우츠 "wikilink")를 연고로 하는 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink")의 축구 클럽으로, 현재 [감브리누스리가](https://ko.wikipedia.org/wiki/감브리누스리가 "wikilink")에서 활동하고 있다.
+**SK 시그마 올로모우츠**()는 [올로모우츠](https://ko.wikipedia.org/wiki/올로모우츠 "wikilink")를 연고로 하는 [체코](../Page/체코.md "wikilink")의 축구 클럽으로, 현재 [감브리누스리가](https://ko.wikipedia.org/wiki/감브리누스리가 "wikilink")에서 활동하고 있다.
 
 ## 역대 명칭
 

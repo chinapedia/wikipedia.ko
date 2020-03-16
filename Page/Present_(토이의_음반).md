@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Present \( \)](https://ko.wikipedia.org/wiki/Present_\(_\)).
 
 
-《**Present**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 1인 프로젝트 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [토이의](https://ko.wikipedia.org/wiki/토이_\(대한민국의_음악_그룹\) "wikilink") 세 번째 정규앨범으로, 가난한 남자가 사랑하는 여자를 위해 열심히 일을 해서 선물을 마련하지만 결국 그녀가 그의 곁을 떠난다는 이야기를 담은 컨셉앨범이다.
+《**Present**》는 [대한민국](../Page/대한민국.md "wikilink")의 1인 프로젝트 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [토이의](https://ko.wikipedia.org/wiki/토이_\(대한민국의_음악_그룹\) "wikilink") 세 번째 정규앨범으로, 가난한 남자가 사랑하는 여자를 위해 열심히 일을 해서 선물을 마련하지만 결국 그녀가 그의 곁을 떠난다는 이야기를 담은 컨셉앨범이다.
 
 ## 수록곡
 
@@ -21,19 +21,19 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/유희열" title="wikilink">유희열</a> - <a href="https://ko.wikipedia.org/wiki/음악_프로듀서" title="wikilink">프로듀서</a>, 디렉터, <a href="../Page/편곡.md" title="wikilink">편곡</a>(1~12), <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>(9, 12), <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>(3, 5, 6, 12), <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반</a>(3, 4, 6~10, 12), 리듬 프로그래밍(4, 8), 큰 <a href="https://ko.wikipedia.org/wiki/북" title="wikilink">북</a>/작은 북/<a href="https://ko.wikipedia.org/wiki/캐스터네츠" title="wikilink">캐스터네츠</a>/<a href="https://ko.wikipedia.org/wiki/트라이앵글" title="wikilink">트라이앵글</a>/<a href="https://ko.wikipedia.org/wiki/탬버린" title="wikilink">탬버린</a>/<a href="https://ko.wikipedia.org/wiki/심벌즈" title="wikilink">심벌즈</a>(5), 백 보컬(9), <a href="https://ko.wikipedia.org/wiki/멜로디언" title="wikilink">멜로디언</a>(12)</li>
+<li><a href="https://ko.wikipedia.org/wiki/유희열" title="wikilink">유희열</a> - <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, 디렉터, <a href="../Page/편곡.md" title="wikilink">편곡</a>(1~12), <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>(9, 12), <a href="../Page/피아노.md" title="wikilink">피아노</a>(3, 5, 6, 12), <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반</a>(3, 4, 6~10, 12), 리듬 프로그래밍(4, 8), 큰 <a href="https://ko.wikipedia.org/wiki/북" title="wikilink">북</a>/작은 북/<a href="https://ko.wikipedia.org/wiki/캐스터네츠" title="wikilink">캐스터네츠</a>/<a href="https://ko.wikipedia.org/wiki/트라이앵글" title="wikilink">트라이앵글</a>/<a href="https://ko.wikipedia.org/wiki/탬버린" title="wikilink">탬버린</a>/<a href="../Page/심벌즈.md" title="wikilink">심벌즈</a>(5), 백 보컬(9), <a href="https://ko.wikipedia.org/wiki/멜로디언" title="wikilink">멜로디언</a>(12)</li>
 </ul>
 <dl>
 <dt>참여 음악인</dt>
 
 </dl>
 <ul>
-<li><a href="../Page/함춘호.md" title="wikilink">함춘호</a> - 스틸 <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>(2, 7), 스틸 <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>(3), 나일론 기타(4, 10), 기타(6), 전기 기타(7)</li>
+<li><a href="../Page/함춘호.md" title="wikilink">함춘호</a> - 스틸 <a href="../Page/기타.md" title="wikilink">기타</a>(2, 7), 스틸 <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>(3), 나일론 기타(4, 10), 기타(6), 전기 기타(7)</li>
 <li>박영용 - <a href="https://ko.wikipedia.org/wiki/타악기" title="wikilink">타악기</a>(2, 3, 6, 7)</li>
 <li>김영석 - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>(3, 6, 7)</li>
-<li>신현권 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>(3, 6)</li>
+<li>신현권 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(3, 6)</li>
 <li>김원용 - <a href="../Page/색소폰.md" title="wikilink">색소폰</a>(3, 4, 10)</li>
-<li>이지연 - <a href="https://ko.wikipedia.org/wiki/보코더" title="wikilink">보코더</a> 목소리(3), <a href="https://ko.wikipedia.org/wiki/바이올린" title="wikilink">바이올린</a>(5)</li>
+<li>이지연 - <a href="../Page/보코더.md" title="wikilink">보코더</a> 목소리(3), <a href="../Page/바이올린.md" title="wikilink">바이올린</a>(5)</li>
 <li><a href="../Page/정원영.md" title="wikilink">정원영</a> - 보코더(3), 피아노(10), <a href="../Page/오르간.md" title="wikilink">오르간</a>(10)</li>
 <li><a href="../Page/조규찬.md" title="wikilink">조규찬</a> - 백 보컬(3, 4, 6, 8, 10)</li>
 <li>이태윤 - 베이스 기타(4, 7, 9)</li>
@@ -50,14 +50,14 @@
 <li>Grahame Maclean - <a href="../Page/지휘.md" title="wikilink">지휘</a>, 음악 디렉터, <a href="../Page/편곡.md" title="wikilink">편곡</a></li>
 <li>Diana Cummings, Tina Gruenberg, Ctherine Craig, Geoffret Lynn, Robert Pool, Andrew Thurgood, Ashley Stevens, Bjorn Petersen - 1st 바이올린</li>
 <li>Gina Beukes, Geoffrey Price, Joseph Maher, Fiona Higham, David McLaren, Peter Mayers - 2nd 바이올린</li>
-<li>Nobert Brown, Robert Duncan, Naomi Brown, Stephen Gorringe - <a href="https://ko.wikipedia.org/wiki/비올라" title="wikilink">비올라</a></li>
-<li>Robert Truman, Bridgen Evans, Laura Donoghue, Susan Sutherley - <a href="https://ko.wikipedia.org/wiki/첼로" title="wikilink">첼로</a></li>
+<li>Nobert Brown, Robert Duncan, Naomi Brown, Stephen Gorringe - <a href="../Page/비올라.md" title="wikilink">비올라</a></li>
+<li>Robert Truman, Bridgen Evans, Laura Donoghue, Susan Sutherley - <a href="../Page/첼로.md" title="wikilink">첼로</a></li>
 <li>Richard Lewis, Laurence Lovelle - <a href="https://ko.wikipedia.org/wiki/더블_베이스" title="wikilink">더블 베이스</a></li>
-<li>Celia Chambers - <a href="https://ko.wikipedia.org/wiki/플루트" title="wikilink">플루트</a></li>
-<li>Ian Hardwick - <a href="https://ko.wikipedia.org/wiki/오보에" title="wikilink">오보에</a></li>
-<li>Robert Hil - <a href="https://ko.wikipedia.org/wiki/클라리넷" title="wikilink">클라리넷</a></li>
-<li>Nicholas Busch, Gareth Mollinson - <a href="https://ko.wikipedia.org/wiki/호른" title="wikilink">호른</a></li>
-<li>Rachel Masters - <a href="https://ko.wikipedia.org/wiki/하프" title="wikilink">하프</a></li>
+<li>Celia Chambers - <a href="../Page/플루트.md" title="wikilink">플루트</a></li>
+<li>Ian Hardwick - <a href="../Page/오보에.md" title="wikilink">오보에</a></li>
+<li>Robert Hil - <a href="../Page/클라리넷.md" title="wikilink">클라리넷</a></li>
+<li>Nicholas Busch, Gareth Mollinson - <a href="../Page/호른.md" title="wikilink">호른</a></li>
+<li>Rachel Masters - <a href="../Page/하프.md" title="wikilink">하프</a></li>
 <li>Simon Hale - 피아노</li>
 <li>John Parricelli - 기타</li>
 <li>Phil Mulford - 베이스</li>
@@ -74,7 +74,7 @@
 <li>이재형(8월 11일)</li>
 <li>조삼희(8월 11일)</li>
 <li><a href="../Page/이승환_(가수).md" title="wikilink">이철민</a>(9월 16일)</li>
-<li><a href="https://ko.wikipedia.org/wiki/신해철" title="wikilink">신해철</a>(7월 25일)</li>
+<li><a href="../Page/신해철.md" title="wikilink">신해철</a>(7월 25일)</li>
 <li>박용준(9월 26일)</li>
 <li><a href="../Page/변재원.md" title="wikilink">변재원</a>(10월 2일, 3일)</li>
 </ul>

@@ -23,7 +23,7 @@
 
 ### V07AS 인공 항문 및 방광 장치
 
-### V07AT [화장품](https://ko.wikipedia.org/wiki/화장품 "wikilink")
+### V07AT [화장품](../Page/화장품.md "wikilink")
 
 ### V07AV 기술적 살균제
 

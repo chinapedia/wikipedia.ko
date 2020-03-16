@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
 
 
-**알두하일 SC** ()은 [카타르](https://ko.wikipedia.org/wiki/카타르 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 홈구장은 [도하](https://ko.wikipedia.org/wiki/도하 "wikilink")에 위치한 [압둘라 빈 할리파 경기장이다](https://ko.wikipedia.org/wiki/압둘라_빈_할리파_경기장 "wikilink").
+**알두하일 SC** ()은 [카타르](../Page/카타르.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 홈구장은 [도하](../Page/도하.md "wikilink")에 위치한 [압둘라 빈 할리파 경기장이다](https://ko.wikipedia.org/wiki/압둘라_빈_할리파_경기장 "wikilink").
 
 ## 역사
 
 레크위야는 1938년 알슈르타라는 이름으로 창단되었고, 2010년 1월 레크위야로 이름을 변경하였다.\[1\] 레크위야는 카타르 클럽 중 재정 규모가 가장 크다.
 
-2009-10 시즌 카타르 2부 리그에서 우승을 한 뒤 [카타르 스타스 리그에서의](https://ko.wikipedia.org/wiki/카타르_스타스_리그 "wikilink") 첫 시즌에 레크위야는 우승을 차지하였다.\[2\] 이는 클럽 역사상 첫 우승이었다. 2010년 [카타르 셰이크 자셈 컵에서는](https://ko.wikipedia.org/wiki/카타르_셰이크_자셈_컵 "wikilink") 결승전에 진출하였지만 결승전에서 [알아라비에](https://ko.wikipedia.org/wiki/알아라비_스포츠_클럽 "wikilink") 패하며 준우승에 머물렀다.\[3\]
+2009-10 시즌 카타르 2부 리그에서 우승을 한 뒤 [카타르 스타스 리그에서의](../Page/카타르_스타스_리그.md "wikilink") 첫 시즌에 레크위야는 우승을 차지하였다.\[2\] 이는 클럽 역사상 첫 우승이었다. 2010년 [카타르 셰이크 자셈 컵에서는](https://ko.wikipedia.org/wiki/카타르_셰이크_자셈_컵 "wikilink") 결승전에 진출하였지만 결승전에서 [알아라비에](https://ko.wikipedia.org/wiki/알아라비_스포츠_클럽 "wikilink") 패하며 준우승에 머물렀다.\[3\]
 
 2017년 4월 [엘자이시 SC와의](../Page/엘자이시_SC.md "wikilink") 전격 통합이 발표되었고, [카타르 스타스 리그 2017-18](https://ko.wikipedia.org/wiki/카타르_스타스_리그_2017-18 "wikilink") 시즌부터 알두하일 SC라는 이름으로 새롭게 출발한다.\[4\]
 
@@ -64,7 +64,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/남태희" title="wikilink">남태희</a></strong></p></td>
+<td><p><strong><a href="../Page/남태희.md" title="wikilink">남태희</a></strong></p></td>
 <td><p>2012–</p></td>
 <td><p>177</p></td>
 </tr>
@@ -94,7 +94,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/남태희" title="wikilink">남태희</a></strong></p></td>
+<td><p><strong><a href="../Page/남태희.md" title="wikilink">남태희</a></strong></p></td>
 <td><p>2012–</p></td>
 <td><p>66</p></td>
 </tr>
@@ -115,7 +115,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/유세프_엘아라비" title="wikilink">유세프 엘아라비</a></strong></p></td>
+<td><p><strong><a href="../Page/유세프_엘아라비.md" title="wikilink">유세프 엘아라비</a></strong></p></td>
 <td><p>2016–</p></td>
 <td><p>32</p></td>
 </tr>
@@ -131,7 +131,7 @@
 
 ## 우승 기록
 
-  - **[카타르 스타스 리그](https://ko.wikipedia.org/wiki/카타르_스타스_리그 "wikilink"): 1**
+  - **[카타르 스타스 리그](../Page/카타르_스타스_리그.md "wikilink"): 1**
 
 <!-- end list -->
 

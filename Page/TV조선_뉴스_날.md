@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
 
 
-**TV조선 뉴스 날**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 평일 오후 8시\~오후 8시 40분, 주말 오후 8시 \~ 8시 30분에 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink")으로 방송된 [TV조선](../Page/TV조선.md "wikilink")의 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다. 매일 40분으로 방송분량이 나갔다.
+**TV조선 뉴스 날**은 [대한민국](../Page/대한민국.md "wikilink")에서 평일 오후 8시\~오후 8시 40분, 주말 오후 8시 \~ 8시 30분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송된 [TV조선](../Page/TV조선.md "wikilink")의 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다. 매일 40분으로 방송분량이 나갔다.
 
 ## 방송 시간 변경
 
@@ -10,21 +10,21 @@
 
 ## 방송 시간
 
-매일 밤 9시에 [TV와](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") [라디오](https://ko.wikipedia.org/wiki/라디오 "wikilink")를 통해서 동시에 생방송되었다.
+매일 밤 9시에 [TV와](../Page/텔레비전.md "wikilink") [라디오](../Page/라디오.md "wikilink")를 통해서 동시에 생방송되었다.
 
-※ 현재 방송 시간은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink") 이후의 기준임
+※ 현재 방송 시간은 [2014년](../Page/2014년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") 이후의 기준임
 
 ### 평일
 
-| 방송 채널                                                   | 방송 기간                                                                                                                                                                                                                                  | 방송 시간                                                                      |
-| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [TV 조선](https://ko.wikipedia.org/wiki/TV_조선 "wikilink") | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") | 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 밤 8:00 \~ 08:40 (40분) |
+| 방송 채널                                                   | 방송 기간                                                                                                                                                      | 방송 시간                                                                      |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [TV 조선](https://ko.wikipedia.org/wiki/TV_조선 "wikilink") | [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") | 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 밤 8:00 \~ 08:40 (40분) |
 
 ### 주말
 
-| 방송 채널                                                   | 방송 기간                                                                                                                                                                                                                                  | 방송 시간                                                                     |
-| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [TV 조선](https://ko.wikipedia.org/wiki/TV_조선 "wikilink") | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") | 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 밤 8:00 \~ 8:20 (20분) |
+| 방송 채널                                                   | 방송 기간                                                                                                                                                      | 방송 시간                                                                     |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [TV 조선](https://ko.wikipedia.org/wiki/TV_조선 "wikilink") | [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") | 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 밤 8:00 \~ 8:20 (20분) |
 
 ## 현재 앵커
 
@@ -42,28 +42,28 @@
 <!-- end list -->
 
   - [윤정호](https://ko.wikipedia.org/wiki/윤정호 "wikilink")
-  - [이승연](https://ko.wikipedia.org/wiki/이승연 "wikilink")
+  - [이승연](../Page/이승연.md "wikilink")
 
 ## 역대 앵커
 
   - 평일
 
-| 대수 | 앵커                                                  | 진행 기간                                                                                                                                                                                                                                |
-| -- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 남성 | 여성                                                  |                                                                                                                                                                                                                                      |
-| 1대 | [김진우](https://ko.wikipedia.org/wiki/김진우 "wikilink") | [이하정](../Page/이하정.md "wikilink")                                                                                                                                                                                                     |
-|    |                                                     |                                                                                                                                                                                                                                      |
-| 2대 | [김기성](https://ko.wikipedia.org/wiki/김기성 "wikilink") | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") |
+| 대수 | 앵커                                                  | 진행 기간                                                                                                                                                    |
+| -- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 남성 | 여성                                                  |                                                                                                                                                          |
+| 1대 | [김진우](https://ko.wikipedia.org/wiki/김진우 "wikilink") | [이하정](../Page/이하정.md "wikilink")                                                                                                                         |
+|    |                                                     |                                                                                                                                                          |
+| 2대 | [김기성](https://ko.wikipedia.org/wiki/김기성 "wikilink") | [2012년](../Page/2012년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") |
 
   - 주말
 
-| 대수 | 앵커                                                  | 진행 기간                                                                                                                                                                                                                                  |
-| -- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 남성 | 여성                                                  |                                                                                                                                                                                                                                        |
-| 1대 | [최희준](https://ko.wikipedia.org/wiki/최희준 "wikilink") | [김지언](https://ko.wikipedia.org/wiki/김지언 "wikilink")                                                                                                                                                                                    |
-| 2대 | [윤정호](https://ko.wikipedia.org/wiki/윤정호 "wikilink") | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink")   |
-| 3대 | [이승연](https://ko.wikipedia.org/wiki/이승연 "wikilink") | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 16일](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") |
-|    |                                                     |                                                                                                                                                                                                                                        |
+| 대수 | 앵커                                                  | 진행 기간                                                                                                                                                      |
+| -- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 남성 | 여성                                                  |                                                                                                                                                            |
+| 1대 | [최희준](https://ko.wikipedia.org/wiki/최희준 "wikilink") | [김지언](https://ko.wikipedia.org/wiki/김지언 "wikilink")                                                                                                        |
+| 2대 | [윤정호](https://ko.wikipedia.org/wiki/윤정호 "wikilink") | [2012년](../Page/2012년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink")   |
+| 3대 | [이승연](../Page/이승연.md "wikilink")                    | [2012년](../Page/2012년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") |
+|    |                                                     |                                                                                                                                                            |
 
 ## 그 외 TV조선 뉴스 프로그램
 

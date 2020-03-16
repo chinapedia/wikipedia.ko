@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
 
 
-**카를로스 폴리스티코 가르시아**(, [1896년](https://ko.wikipedia.org/wiki/1896년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") \~ [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink"))는 [필리핀](../Page/필리핀.md "wikilink")의 교사, 시인, 웅변가, 법률가, 정치인으로, [필리핀](../Page/필리핀.md "wikilink")의 제8대 대통령이기도 했다. 그는 [필리핀](../Page/필리핀.md "wikilink") 내의 외국인들에게 권리를 부여하였다.
+**카를로스 폴리스티코 가르시아**(, [1896년](../Page/1896년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ [1971년](../Page/1971년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink"))는 [필리핀](../Page/필리핀.md "wikilink")의 교사, 시인, 웅변가, 법률가, 정치인으로, [필리핀](../Page/필리핀.md "wikilink")의 제8대 대통령이기도 했다. 그는 [필리핀](../Page/필리핀.md "wikilink") 내의 외국인들에게 권리를 부여하였다.
 
 ## 일생
 
-가르시아는 [1896년](https://ko.wikipedia.org/wiki/1896년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") [보홀 섬의](https://ko.wikipedia.org/wiki/보홀_섬 "wikilink") [탈리본](https://ko.wikipedia.org/wiki/탈리본 "wikilink")에서 둘 다 [아브라 주](https://ko.wikipedia.org/wiki/아브라_주 "wikilink") 출신이었던 아버지 폴로크로니오 가르시아와 어머니 암브로시아 폴레스티코의 사이에서 태어났다.
+가르시아는 [1896년](../Page/1896년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") [보홀 섬의](https://ko.wikipedia.org/wiki/보홀_섬 "wikilink") [탈리본](https://ko.wikipedia.org/wiki/탈리본 "wikilink")에서 둘 다 [아브라 주](https://ko.wikipedia.org/wiki/아브라_주 "wikilink") 출신이었던 아버지 폴로크로니오 가르시아와 어머니 암브로시아 폴레스티코의 사이에서 태어났다.
 
 가르시아는 4년 임기의 시장이었던 아버지를 두었고, 정치와 함께 자랐다. 초등 교육은 그가 태어난 탈리본에서 교육을 받았고, 이후 중고등 교육은 세부의 지방 고등학교에서 마쳤으며, 모두 우수한 성적을 기록했다. 처음에는 대학교육을 [동네그로스 주의](https://ko.wikipedia.org/wiki/동네그로스_주 "wikilink") 두마구에타 시에 있는 [실리만 대학교를](https://ko.wikipedia.org/wiki/실리만_대학교 "wikilink") 다니다가, 이후 필리핀 법대에서 공부를 했으며 이곳에서 1923년 법학사 자격증을 취득했다. 그는 변호사 시험에서 상위 10위 안에 드는 성적을 기록했다.\[1\]
 
@@ -15,7 +15,7 @@
 
 ### 갑작스런 취임
 
-[라몬 막사이사이가](../Page/라몬_막사이사이.md "wikilink") 갑작스레 사망하자, 가르시아는 대통령직을 맡게 된다. 하지만 정식 임기는 [6월 17일부터](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") 시작되었다\[2\].
+[라몬 막사이사이가](../Page/라몬_막사이사이.md "wikilink") 갑작스레 사망하자, 가르시아는 대통령직을 맡게 된다. 하지만 정식 임기는 [6월 17일부터](../Page/6월_17일.md "wikilink") 시작되었다\[2\].
 
 ### 첫 번째 정책
 
@@ -23,7 +23,7 @@
 
 ## 죽음
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Carlos_garcia_grave.jpg "wikilink") [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 심장병으로 숨을 거두고 말았다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Carlos_garcia_grave.jpg "wikilink") [1971년](../Page/1971년.md "wikilink") 심장병으로 숨을 거두고 말았다.
 
 ## 각주
 

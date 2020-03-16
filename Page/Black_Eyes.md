@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Black Eyes](https://ko.wikipedia.org/wiki/Black_Eyes).
 
 
-《**Black Eyes**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 걸 그룹 [티아라의](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink") 세 번째 미니 앨범이다.
+《**Black Eyes**》는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 세 번째 미니 앨범이다.
 
 ## 트랙 목록
 

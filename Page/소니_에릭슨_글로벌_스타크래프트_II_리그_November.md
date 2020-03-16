@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [    II  November](https://ko.wikipedia.org/wiki/____II__November).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Gsl_nov_grand_final.jpg "wikilink") **소니 에릭슨 글로벌 스타크래프트 II 리그 November**(Sony Ericsson Global StarCraft II League November)는 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 13번째 정규 시즌으로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") 개막했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Gsl_nov_grand_final.jpg "wikilink") **소니 에릭슨 글로벌 스타크래프트 II 리그 November**(Sony Ericsson Global StarCraft II League November)는 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 13번째 정규 시즌으로 [2011년](../Page/2011년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 개막했다.
 
 ## 리그 일정
 
@@ -35,31 +35,31 @@ Code A에서는 기본적으로 24강에서 승리한 선수는 바로 Code S에
 
 ### 32강
 
-| A조                                                                | B조    | C조    | D조                                                      |
-| ----------------------------------------------------------------- | ----- | ----- | ------------------------------------------------------- |
-| **이름**                                                            | **승** | **패** | **이름**                                                  |
-| [문성원](../Page/문성원.md "wikilink") (T)                              | 2     | 0     | [김승철](https://ko.wikipedia.org/wiki/김승철 "wikilink") (T) |
-| [장민철](../Page/장민철.md "wikilink") (P)                              | 2     | 1     | [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink") (Z) |
-| [김동원](https://ko.wikipedia.org/wiki/김동원_\(프로게이머\) "wikilink") (T) | 1     | 2     | [황강호](../Page/황강호.md "wikilink") (Z)                    |
-| [정승일](https://ko.wikipedia.org/wiki/정승일 "wikilink") (Z)           | 0     | 2     | [이대진](../Page/이대진_\(프로게이머\).md "wikilink") (T)          |
+| A조                                             | B조    | C조    | D조                                             |
+| ---------------------------------------------- | ----- | ----- | ---------------------------------------------- |
+| **이름**                                         | **승** | **패** | **이름**                                         |
+| [문성원](../Page/문성원.md "wikilink") (T)           | 2     | 0     | [김승철](../Page/김승철.md "wikilink") (T)           |
+| [장민철](../Page/장민철.md "wikilink") (P)           | 2     | 1     | [임재덕](../Page/임재덕.md "wikilink") (Z)           |
+| [김동원](../Page/김동원_\(프로게이머\).md "wikilink") (T) | 1     | 2     | [황강호](../Page/황강호.md "wikilink") (Z)           |
+| [정승일](../Page/정승일.md "wikilink") (Z)           | 0     | 2     | [이대진](../Page/이대진_\(프로게이머\).md "wikilink") (T) |
 
-| E조                                                      | F조    | G조    | H조                                                      |
-| ------------------------------------------------------- | ----- | ----- | ------------------------------------------------------- |
-| **이름**                                                  | **승** | **패** | **이름**                                                  |
-| [안호진](https://ko.wikipedia.org/wiki/안호진 "wikilink") (T) | 2     | 0     | [최종환](../Page/최종환_\(프로게이머\).md "wikilink") (Z)          |
-| [고병재](https://ko.wikipedia.org/wiki/고병재 "wikilink") (T) | 2     | 1     | [김학수](../Page/김학수_\(프로게이머\).md "wikilink") (P)          |
-| [박수호](https://ko.wikipedia.org/wiki/박수호 "wikilink") (Z) | 1     | 2     | [윤영서](https://ko.wikipedia.org/wiki/윤영서 "wikilink") (T) |
-| [최지성](../Page/최지성_\(1988년\).md "wikilink") (T)          | 0     | 2     | [이윤열](../Page/이윤열.md "wikilink") (T)                    |
+| E조                                                      | F조    | G조    | H조                                             |
+| ------------------------------------------------------- | ----- | ----- | ---------------------------------------------- |
+| **이름**                                                  | **승** | **패** | **이름**                                         |
+| [안호진](../Page/안호진.md "wikilink") (T)                    | 2     | 0     | [최종환](../Page/최종환_\(프로게이머\).md "wikilink") (Z) |
+| [고병재](../Page/고병재.md "wikilink") (T)                    | 2     | 1     | [김학수](../Page/김학수_\(프로게이머\).md "wikilink") (P) |
+| [박수호](https://ko.wikipedia.org/wiki/박수호 "wikilink") (Z) | 1     | 2     | [윤영서](../Page/윤영서.md "wikilink") (T)           |
+| [최지성](../Page/최지성_\(1988년\).md "wikilink") (T)          | 0     | 2     | [이윤열](../Page/이윤열.md "wikilink") (T)           |
 
 #### 16강
 
-| A조                                                                     | B조    | C조    | D조                                                      |
-| ---------------------------------------------------------------------- | ----- | ----- | ------------------------------------------------------- |
-| **이름**                                                                 | **승** | **패** | **이름**                                                  |
-| [문성원](../Page/문성원.md "wikilink") (T)                                   | 2     | 0     | [한이석](https://ko.wikipedia.org/wiki/한이석 "wikilink") (T) |
-| [이동녕](../Page/이동녕_\(프로게이머\).md "wikilink") (Z)                         | 2     | 1     | [김학수](../Page/김학수_\(프로게이머\).md "wikilink") (P)          |
-| [Chirs Loranger](https://ko.wikipedia.org/wiki/크리스_로란줴 "wikilink") (P) | 1     | 2     | [신상호](../Page/신상호_\(프로게이머\).md "wikilink") (P)          |
-| [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink") (Z)                | 0     | 2     | [안호진](https://ko.wikipedia.org/wiki/안호진 "wikilink") (T) |
+| A조                                                                     | B조    | C조    | D조                                             |
+| ---------------------------------------------------------------------- | ----- | ----- | ---------------------------------------------- |
+| **이름**                                                                 | **승** | **패** | **이름**                                         |
+| [문성원](../Page/문성원.md "wikilink") (T)                                   | 2     | 0     | [한이석](../Page/한이석.md "wikilink") (T)           |
+| [이동녕](../Page/이동녕_\(프로게이머\).md "wikilink") (Z)                         | 2     | 1     | [김학수](../Page/김학수_\(프로게이머\).md "wikilink") (P) |
+| [Chirs Loranger](https://ko.wikipedia.org/wiki/크리스_로란줴 "wikilink") (P) | 1     | 2     | [신상호](../Page/신상호_\(프로게이머\).md "wikilink") (P) |
+| [임재덕](../Page/임재덕.md "wikilink") (Z)                                   | 0     | 2     | [안호진](../Page/안호진.md "wikilink") (T)           |
 
 #### 8강 \~
 
@@ -73,7 +73,7 @@ Code A에서는 기본적으로 24강에서 승리한 선수는 바로 Code S에
 | ----------------------------------------------------------------------------- | ----- | ----- |
 | **이름**                                                                        | **승** | **패** |
 | [이윤열](../Page/이윤열.md "wikilink") (T)                                          | 3     | 1     |
-| **[이인수](https://ko.wikipedia.org/wiki/이인수_\(프로게이머\) "wikilink") (Z)**         | 3     | 1     |
+| **[이인수](../Page/이인수_\(프로게이머\).md "wikilink") (Z)**                            | 3     | 1     |
 | **[탁현승](https://ko.wikipedia.org/wiki/탁현승 "wikilink") (Z)**                   | 2     | 2     |
 | [Chris Loranger](https://ko.wikipedia.org/wiki/Chris_Loranger "wikilink") (P) | 1     | 3     |
 | **[양준식](https://ko.wikipedia.org/wiki/양준식 "wikilink") (Z)**                   | 1     | 3     |
@@ -83,8 +83,8 @@ Code A에서는 기본적으로 24강에서 승리한 선수는 바로 Code S에
 | ----------------------------------------------------------- | ----- |
 | **이름**                                                      | **승** |
 | **[정민수](https://ko.wikipedia.org/wiki/정민수 "wikilink") (P)** | 4     |
-| **[임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink") (T)** | 3     |
-| [윤영서](https://ko.wikipedia.org/wiki/윤영서 "wikilink") (T)     | 3     |
+| **[임요환](../Page/임요환.md "wikilink") (T)**                    | 3     |
+| [윤영서](../Page/윤영서.md "wikilink") (T)                        | 3     |
 | [이대진](../Page/이대진_\(프로게이머\).md "wikilink") (T)              | 2     |
 | **[박현우](https://ko.wikipedia.org/wiki/박현우 "wikilink") (P)** | 1     |
 | **[김정환](../Page/김정환_\(1984년_9월\).md "wikilink") (Z)**       | 1     |

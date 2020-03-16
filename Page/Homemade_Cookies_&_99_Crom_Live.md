@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Homemade Cookies \& 99 Crom Live](https://ko.wikipedia.org/wiki/Homemade_Cookies_\&_99_Crom_Live).
 
 
-《**Homemade Cookies & 99 Crom Live**》는 [신해철](https://ko.wikipedia.org/wiki/신해철 "wikilink")의 솔로 두 번째 라이브 앨범으로, 공연은 [크리스 샹그리디](https://ko.wikipedia.org/wiki/:en:Chris_Tsangarides "wikilink")(Chris Tsangarides)와 신해철의 프로젝트 팀 모노크롬의 라이브 성격을 띠고 있기도 하다.
+《**Homemade Cookies & 99 Crom Live**》는 [신해철](../Page/신해철.md "wikilink")의 솔로 두 번째 라이브 앨범으로, 공연은 [크리스 샹그리디](https://ko.wikipedia.org/wiki/:en:Chris_Tsangarides "wikilink")(Chris Tsangarides)와 신해철의 프로젝트 팀 모노크롬의 라이브 성격을 띠고 있기도 하다.
 
 앨범은 라이브 실황 CD 두 장과 7곡의 미발표된 신곡이 담긴 CD 한 장으로 구성되어 있다.
 
@@ -9,19 +9,19 @@
 
 (앨범 부클릿에서 발췌)
 
-  - , 17일 - [대구광역시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink")
+  - , 17일 - [대구광역시](../Page/대구광역시.md "wikilink")
 
   - , 25일 - [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")
 
   - , 5월 1일 - [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink")
 
-  - \- [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")
+  - \- [서울특별시](../Page/서울특별시.md "wikilink")
 
   - \- [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink")
 
   - , 16일 - [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")
 
-  - \- [창원시](https://ko.wikipedia.org/wiki/창원시 "wikilink")
+  - \- [창원시](../Page/창원시.md "wikilink")
 
   - \- [경주시](https://ko.wikipedia.org/wiki/경주시 "wikilink")
 
@@ -37,8 +37,8 @@
 
 <!-- end list -->
 
-  - [신해철](https://ko.wikipedia.org/wiki/신해철 "wikilink")(CROM) - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 악기
-  - [Chris Tsangarides](https://ko.wikipedia.org/wiki/:en:Chris_Tsangarides "wikilink") - [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [신해철](../Page/신해철.md "wikilink")(CROM) - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 악기
+  - [Chris Tsangarides](https://ko.wikipedia.org/wiki/:en:Chris_Tsangarides "wikilink") - [기타](../Page/기타.md "wikilink"), [베이스 기타](../Page/베이스_기타.md "wikilink")
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
   - [이자람](../Page/이자람.md "wikilink") - 창(唱), 백 보컬, [랩](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink")
   - Energizer(고지용), Duracell(장효리) - 댄스, 랩
   - [임형빈](https://ko.wikipedia.org/wiki/임형빈 "wikilink") - 건반
-  - [남궁연](https://ko.wikipedia.org/wiki/남궁연 "wikilink") - 드럼, 건반(안녕)
+  - [남궁연](../Page/남궁연.md "wikilink") - 드럼, 건반(안녕)
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - 모노크롬 - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), [퍼포먼스](https://ko.wikipedia.org/wiki/퍼포먼스_아트 "wikilink")
+  - 모노크롬 - [프로듀서](../Page/음악_프로듀서.md "wikilink"), [퍼포먼스](https://ko.wikipedia.org/wiki/퍼포먼스_아트 "wikilink")
   - 성지훈 - 믹싱
 
 <!-- end list -->

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
 
 
-**FC 유나이티드 오브 맨체스터**()는 [그레이터맨체스터주](https://ko.wikipedia.org/wiki/그레이터맨체스터주 "wikilink")에 있는 긱 레인 경기장을 근거지로 하는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**FC 유나이티드 오브 맨체스터**()는 [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink")에 있는 긱 레인 경기장을 근거지로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
 ## 역사
 
-축구 클럽 유나이티드 오브 맨체스터는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월 12일](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") [맬컴 글레이저가](../Page/맬컴_글레이저.md "wikilink") [맨체스터 유나이티드를](https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC "wikilink") 인수하고 구단주로 취임하자 일부 맨체스터 유나이티드 팬들은 거대 자본이 순수한 축구 구단을 잠식하는 것은 부당하다며 맬컴의 구단 인수를 반대하던 중 2005년 설립한 축구 클럽으로 이들 서포터들은 클럽을 소유하며 투표를 통해 클럽을 운영하고있다.
+축구 클럽 유나이티드 오브 맨체스터는 [2005년](../Page/2005년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") [맬컴 글레이저가](../Page/맬컴_글레이저.md "wikilink") [맨체스터 유나이티드를](../Page/맨체스터_유나이티드_FC.md "wikilink") 인수하고 구단주로 취임하자 일부 맨체스터 유나이티드 팬들은 거대 자본이 순수한 축구 구단을 잠식하는 것은 부당하다며 맬컴의 구단 인수를 반대하던 중 2005년 설립한 축구 클럽으로 이들 서포터들은 클럽을 소유하며 투표를 통해 클럽을 운영하고있다.
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 18일에는](https://ko.wikipedia.org/wiki/7월_18일 "wikilink") [부천 FC 1995의](https://ko.wikipedia.org/wiki/부천_FC_1995 "wikilink") 초청으로 대한민국을 방문해 '월드 풋볼 드림 매치 2009'를 가졌으며 팀은 0-3으로 패배하였다.\[1\]
+[2009년](../Page/2009년.md "wikilink") [7월 18일에는](../Page/7월_18일.md "wikilink") [부천 FC 1995의](https://ko.wikipedia.org/wiki/부천_FC_1995 "wikilink") 초청으로 대한민국을 방문해 '월드 풋볼 드림 매치 2009'를 가졌으며 팀은 0-3으로 패배하였다.\[1\]
 
 ## 기록
 
@@ -33,7 +33,7 @@
 
 ## 같이 보기
 
-  - [AFC 리버풀](https://ko.wikipedia.org/wiki/AFC_리버풀 "wikilink")
+  - [AFC 리버풀](../Page/AFC_리버풀.md "wikilink")
 
 ## 외부 링크
 

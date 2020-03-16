@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [Seven Springs Of Apink](https://ko.wikipedia.org/wiki/Seven_Springs_Of_Apink).
 
 
-《**Seven Springs Of Apink**》(세븐 스프링스 오브 에이핑크)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악그룹 [에이핑크](../Page/에이핑크.md "wikilink")의 첫 번째 [미니 앨범이자](../Page/익스텐디드_플레이.md "wikilink") 데뷔 앨범이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") [CJ E\&M에](https://ko.wikipedia.org/wiki/CJ_E&M_음악공연사업부문 "wikilink") 의해 발매되었다. 타이틀곡은 〈몰라요〉이다.
+《**Seven Springs Of Apink**》(세븐 스프링스 오브 에이핑크)는 [대한민국](../Page/대한민국.md "wikilink")의 음악그룹 [에이핑크](../Page/에이핑크.md "wikilink")의 첫 번째 [미니 앨범이자](../Page/익스텐디드_플레이.md "wikilink") 데뷔 앨범이다. [2011년](../Page/2011년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") [CJ E\&M에](https://ko.wikipedia.org/wiki/CJ_E&M_음악공연사업부문 "wikilink") 의해 발매되었다. 타이틀곡은 〈몰라요〉이다.
 
 ## 발매과정
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") 앨범 메인 자켓 사진이 공개되고,\[1\] 다음 날인 [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") 티저영상이 공개되었다.\[2\] [4월 15일에는](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") [비스트의](https://ko.wikipedia.org/wiki/비스트_\(음악_그룹\) "wikilink") 멤버 [이기광](https://ko.wikipedia.org/wiki/이기광 "wikilink")이 출연한 타이틀곡 〈몰라요〉의 티저영상이 공개되었다.\[3\] [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") 〈몰라요〉의 뮤직비디오가 공개와 동시에 에이핑크의 데뷔 앨범 《Seven Springs Of Apink》가 발매되었다.\[4\] [6월 23일에는](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") 후속곡 〈[It Girl](../Page/It_Girl.md "wikilink")〉을 발매해 〈It Girl (Remix Ver.)〉로 활동하였다.
+[2011년](../Page/2011년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") 앨범 메인 자켓 사진이 공개되고,\[1\] 다음 날인 [4월 13일](../Page/4월_13일.md "wikilink") 티저영상이 공개되었다.\[2\] [4월 15일에는](../Page/4월_15일.md "wikilink") [비스트의](../Page/비스트_\(음악_그룹\).md "wikilink") 멤버 [이기광](https://ko.wikipedia.org/wiki/이기광 "wikilink")이 출연한 타이틀곡 〈몰라요〉의 티저영상이 공개되었다.\[3\] [4월 19일](../Page/4월_19일.md "wikilink") 〈몰라요〉의 뮤직비디오가 공개와 동시에 에이핑크의 데뷔 앨범 《Seven Springs Of Apink》가 발매되었다.\[4\] [6월 23일에는](../Page/6월_23일.md "wikilink") 후속곡 〈[It Girl](../Page/It_Girl.md "wikilink")〉을 발매해 〈It Girl (Remix Ver.)〉로 활동하였다.
 
 ## 방송 활동
 
-에이핑크는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 21일](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》에서 "Wishlist"와 〈몰라요〉를 부르며 데뷔 무대를 가졌다. 이어 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》와 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》, 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서도 데뷔 무대를 가졌다.
+에이핑크는 [2011년](../Page/2011년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》에서 "Wishlist"와 〈몰라요〉를 부르며 데뷔 무대를 가졌다. 이어 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》와 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》, 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서도 데뷔 무대를 가졌다.
 
-[6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 〈몰라요〉 활동을 마무리하고, [6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》에서 후속곡 〈It Girl〉 무대를 펼치며 활동을 재개했다. 그 후 [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 〈몰라요〉와 〈It Girl〉을 부르며 데뷔 앨범 활동을 공식 마무리했다.
+[6월 12일](../Page/6월_12일.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 〈몰라요〉 활동을 마무리하고, [6월 23일](../Page/6월_23일.md "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》에서 후속곡 〈It Girl〉 무대를 펼치며 활동을 재개했다. 그 후 [7월 17일](../Page/7월_17일.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 〈몰라요〉와 〈It Girl〉을 부르며 데뷔 앨범 활동을 공식 마무리했다.
 
 ## 상업적 성과
 

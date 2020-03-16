@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NS](https://ko.wikipedia.org/wiki/NS).
 
 
-**NS호서**(New Star Hoseo)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이었다.
+**NS호서**(New Star Hoseo)는 [대한민국](../Page/대한민국.md "wikilink")의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이었다.
 
 [서울호서전문학교](https://ko.wikipedia.org/wiki/서울호서전문학교 "wikilink")의 지원을 받아 2011년 2월 25일 팀을 창단했으며, 2013년 7월 31일 해체되었다.
 
@@ -29,7 +29,7 @@
 | [정지훈](https://ko.wikipedia.org/wiki/정지훈_\(1994년\) "wikilink") | Terran   | MYinsanity                                                      |
 | 신기훈                                                           | Protoss  | DuSt Gaming                                                     |
 | 김태균                                                           | Zerg     | [SouL](https://ko.wikipedia.org/wiki/SouL_\(프로게임단\) "wikilink") |
-| [김정훈](https://ko.wikipedia.org/wiki/김정훈_\(1993년\) "wikilink") | Protoss  | [인크레더블 미라클](https://ko.wikipedia.org/wiki/인크레더블_미라클 "wikilink") |
+| [김정훈](../Page/김정훈_\(1993년\).md "wikilink")                    | Protoss  | [인크레더블 미라클](https://ko.wikipedia.org/wiki/인크레더블_미라클 "wikilink") |
 | 이상민                                                           | Protoss  | [FXOpen](https://ko.wikipedia.org/wiki/FXOpen "wikilink")       |
 | [김기용](../Page/김기용_\(프로게이머\).md "wikilink")                    | Terran   | [스타테일](https://ko.wikipedia.org/wiki/스타테일 "wikilink")           |
 | 권혁재                                                           | Zerg     | [MVP](https://ko.wikipedia.org/wiki/MVP_\(프로게임단\) "wikilink")   |

@@ -16,12 +16,12 @@
 
   -
     V04CA01 [톨부타미드](https://ko.wikipedia.org/wiki/톨부타미드 "wikilink")
-    V04CA02 [글루코스](https://ko.wikipedia.org/wiki/글루코스 "wikilink")
+    V04CA02 [글루코스](../Page/글루코스.md "wikilink")
 
 ### V04CB 지방흡수 진단시약
 
   -
-    V04CB01 [비타민 A](https://ko.wikipedia.org/wiki/비타민_A "wikilink") 농축액
+    V04CB01 [비타민 A](../Page/비타민_A.md "wikilink") 농축액
 
 ### V04CC 담관 개방성 진단시약
 

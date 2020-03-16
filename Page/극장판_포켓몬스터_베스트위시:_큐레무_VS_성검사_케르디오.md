@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  :  VS  ](https://ko.wikipedia.org/wiki/__:__VS__).
 
 
-《**극장판 포켓몬스터 베스트위시 큐레무 VS 성검사 케르디오**》()는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 개봉했던 [TV](https://ko.wikipedia.org/wiki/TV "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")의 극장판 제 15번째 작품이다. [대한민국에서는](https://ko.wikipedia.org/wiki/한국 "wikilink") 6번째로 개봉하는 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink") 영화이다.
+《**극장판 포켓몬스터 베스트위시 큐레무 VS 성검사 케르디오**》()는 [2012년](../Page/2012년.md "wikilink")에 개봉했던 [TV](https://ko.wikipedia.org/wiki/TV "wikilink") [애니메이션](../Page/애니메이션.md "wikilink") [포켓몬스터](../Page/포켓몬스터.md "wikilink")의 극장판 제 15번째 작품이다. [대한민국에서는](../Page/한국.md "wikilink") 6번째로 개봉하는 [포켓몬](../Page/포켓몬스터.md "wikilink") 영화이다.
 
 ## 개요
 
@@ -10,7 +10,7 @@
 ## 등장 인물 캐스팅
 
   - [지우](https://ko.wikipedia.org/wiki/지우 "wikilink")
-  - [아이리스](https://ko.wikipedia.org/wiki/아이리스 "wikilink")
+  - [아이리스](../Page/아이리스.md "wikilink")
   - [덴트](https://ko.wikipedia.org/wiki/덴트 "wikilink")
   - [코바르온](https://ko.wikipedia.org/wiki/코바르온 "wikilink")
   - [테라키온](https://ko.wikipedia.org/wiki/테라키온 "wikilink")
@@ -23,8 +23,8 @@
 
 ## 같이 보기
 
-  - [포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터 "wikilink")
-  - [포켓몬스터 베스트위시](https://ko.wikipedia.org/wiki/포켓몬스터_베스트위시 "wikilink")
+  - [포켓몬스터](../Page/포켓몬스터.md "wikilink")
+  - [포켓몬스터 베스트위시](../Page/포켓몬스터_베스트위시.md "wikilink")
 
 ## 외부 링크
 

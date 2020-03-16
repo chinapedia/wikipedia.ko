@@ -47,7 +47,7 @@
 <ul>
 <li><strong>주말편성조정</strong> : <strong>토~일</strong> (11:55 ~ 12:00)</li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/송민교" title="wikilink">송민교</a></p></td>
+<td><p><a href="../Page/송민교.md" title="wikilink">송민교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/JTBC_뉴스룸.md" title="wikilink">JTBC 뉴스룸</a></p></td>
@@ -76,10 +76,10 @@
 <!-- end list -->
 
   - [한국방송공사의 뉴스 프로그램](../Page/한국방송공사의_뉴스_프로그램.md "wikilink")
-  - [문화방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/문화방송의_뉴스_프로그램 "wikilink")
-  - [SBS의 뉴스 프로그램](https://ko.wikipedia.org/wiki/SBS의_뉴스_프로그램 "wikilink")
+  - [문화방송의 뉴스 프로그램](../Page/문화방송의_뉴스_프로그램.md "wikilink")
+  - [SBS의 뉴스 프로그램](../Page/SBS의_뉴스_프로그램.md "wikilink")
   - [한국교육방송공사의 뉴스 프로그램](https://ko.wikipedia.org/wiki/한국교육방송공사의_뉴스_프로그램 "wikilink")
-  - [OBS경인TV의 뉴스 프로그램](https://ko.wikipedia.org/wiki/OBS경인TV의_뉴스_프로그램 "wikilink")
+  - [OBS경인TV의 뉴스 프로그램](../Page/OBS경인TV의_뉴스_프로그램.md "wikilink")
 
 <!-- end list -->
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [UEFA   ](https://ko.wikipedia.org/wiki/UEFA___).
 
 
-**UEFA 클럽 풋볼 어워드**(UEFA Club Football Awards)는 [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")(UEFA)이 수여하는 축구상 가운데 하나이다. 1998년부터 매년 유럽 클럽에서 뛰고 있는 선수 가운데 최고의 활약을 보여준 선수에게 수여하고 있다. 매년 8월에 시상식이 개최된다.
+**UEFA 클럽 풋볼 어워드**(UEFA Club Football Awards)는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 수여하는 축구상 가운데 하나이다. 1998년부터 매년 유럽 클럽에서 뛰고 있는 선수 가운데 최고의 활약을 보여준 선수에게 수여하고 있다. 매년 8월에 시상식이 개최된다.
 
-처음에는 [모나코](https://ko.wikipedia.org/wiki/모나코 "wikilink")에서 열리는 [UEFA 슈퍼컵](../Page/UEFA_슈퍼컵.md "wikilink") 특설 무대에서 개최되었지만 현재는 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 조별 예선 추첨 행사와 함께 시상식이 개최되고 있다. 2009-10 시즌을 끝으로 한동안 폐지되었고 2010-11 시즌부터는 [UEFA 올해의 선수가](../Page/UEFA_올해의_선수.md "wikilink") 대신했다. 2016-17 시즌부터 각 포지션별 최우수 선수에게 다시 수여하고 있다.
+처음에는 [모나코](../Page/모나코.md "wikilink")에서 열리는 [UEFA 슈퍼컵](../Page/UEFA_슈퍼컵.md "wikilink") 특설 무대에서 개최되었지만 현재는 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 조별 예선 추첨 행사와 함께 시상식이 개최되고 있다. 2009-10 시즌을 끝으로 한동안 폐지되었고 2010-11 시즌부터는 [UEFA 올해의 선수가](../Page/UEFA_올해의_선수.md "wikilink") 대신했다. 2016-17 시즌부터 각 포지션별 최우수 선수에게 다시 수여하고 있다.
 
 ## 분야별 수상자
 
@@ -23,32 +23,32 @@
 <tr class="odd">
 <td><p>1997-98</p></td>
 <td><p><a href="../Page/페테르_슈마이켈.md" title="wikilink">페테르 슈마이켈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999-2000</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2000-01</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001-02</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올리버_칸" title="wikilink">올리버 칸</a></p></td>
+<td><p><a href="../Page/올리버_칸.md" title="wikilink">올리버 칸</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002-03</p></td>
 <td><p><a href="../Page/잔루이지_부폰.md" title="wikilink">잔루이지 부폰</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2003-04</p></td>
@@ -62,8 +62,8 @@
 </tr>
 <tr class="odd">
 <td><p>2005-06</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/옌스_레만" title="wikilink">옌스 레만</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아스널_FC" title="wikilink">아스널</a></p></td>
+<td><p><a href="../Page/옌스_레만.md" title="wikilink">옌스 레만</a></p></td>
+<td><p><a href="../Page/아스널_FC.md" title="wikilink">아스널</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2006-07</p></td>
@@ -78,22 +78,22 @@
 <tr class="even">
 <td><p>2008-09</p></td>
 <td><p><a href="../Page/에드빈_판_데르_사르.md" title="wikilink">에드빈 판 데르 사르</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009-10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/줄리우_세자르_소아리스_이스핀돌라" title="wikilink">줄리우 세자르</a></p></td>
+<td><p><a href="../Page/줄리우_세자르_소아리스_이스핀돌라.md" title="wikilink">줄리우 세자르</a></p></td>
 <td><p><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016-17</p></td>
 <td><p><a href="../Page/잔루이지_부폰.md" title="wikilink">잔루이지 부폰</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017-18</p></td>
 <td><p><a href="../Page/케일러_나바스.md" title="wikilink">케일러 나바스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -112,17 +112,17 @@
 <tr class="odd">
 <td><p>1997-98</p></td>
 <td><p><a href="../Page/페르난도_이에로.md" title="wikilink">페르난도 이에로</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
 <td><p><a href="../Page/야프_스탐.md" title="wikilink">야프 스탐</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999-2000</p></td>
 <td><p><a href="../Page/야프_스탐.md" title="wikilink">야프 스탐</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2000-01</p></td>
@@ -131,13 +131,13 @@
 </tr>
 <tr class="odd">
 <td><p>2001-02</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/호베르투_카를루스" title="wikilink">호베르투 카를루스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/호베르투_카를루스.md" title="wikilink">호베르투 카를루스</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002-03</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/호베르투_카를루스" title="wikilink">호베르투 카를루스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/호베르투_카를루스.md" title="wikilink">호베르투 카를루스</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2003-04</p></td>
@@ -171,18 +171,18 @@
 </tr>
 <tr class="odd">
 <td><p>2009-10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마이콩_도글라스_시제난두" title="wikilink">마이콩</a></p></td>
+<td><p><a href="../Page/마이콩_도글라스_시제난두.md" title="wikilink">마이콩</a></p></td>
 <td><p><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016-17</p></td>
 <td><p><a href="../Page/세르히오_라모스.md" title="wikilink">세르히오 라모스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017-18</p></td>
 <td><p><a href="../Page/세르히오_라모스.md" title="wikilink">세르히오 라모스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -201,12 +201,12 @@
 <tr class="odd">
 <td><p>1997-98</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/지네딘_지단" title="wikilink">지네딘 지단</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/데이비드_베컴" title="wikilink">데이비드 베컴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999-2000</p></td>
@@ -220,13 +220,13 @@
 </tr>
 <tr class="odd">
 <td><p>2001-02</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미하엘_발라크" title="wikilink">미하엘 발라크</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바이어_04_레버쿠젠" title="wikilink">레버쿠젠</a></p></td>
+<td><p><a href="../Page/미하엘_발라크.md" title="wikilink">미하엘 발라크</a></p></td>
+<td><p><a href="../Page/바이어_04_레버쿠젠.md" title="wikilink">레버쿠젠</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002-03</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파벨_네드베트" title="wikilink">파벨 네드베트</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/파벨_네드베트.md" title="wikilink">파벨 네드베트</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2003-04</p></td>
@@ -266,12 +266,12 @@
 <tr class="even">
 <td><p>2016-17</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/루카_모드리치" title="wikilink">루카 모드리치</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017-18</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/루카_모드리치" title="wikilink">루카 모드리치</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -294,28 +294,28 @@
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안드리_솁첸코" title="wikilink">안드리 솁첸코</a></p></td>
+<td><p><a href="../Page/안드리_솁첸코.md" title="wikilink">안드리 솁첸코</a></p></td>
 <td><p><a href="../Page/FC_디나모_키예프.md" title="wikilink">디나모 키예프</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999-2000</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/라울_곤살레스" title="wikilink">라울 곤살레스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2000-01</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/라울_곤살레스" title="wikilink">라울 곤살레스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001-02</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/라울_곤살레스" title="wikilink">라울 곤살레스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002-03</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뤼트_판_니스텔로이" title="wikilink">뤼트 판 니스텔로이</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/뤼트_판_니스텔로이.md" title="wikilink">뤼트 판 니스텔로이</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2003-04</p></td>
@@ -340,11 +340,11 @@
 <tr class="odd">
 <td><p>2007-08</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크리스티아누_호날두" title="wikilink">크리스티아누 호날두</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008-09</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 </tr>
 <tr class="odd">
@@ -355,12 +355,12 @@
 <tr class="even">
 <td><p>2016-17</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크리스티아누_호날두" title="wikilink">크리스티아누 호날두</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017-18</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크리스티아누_호날두" title="wikilink">크리스티아누 호날두</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -379,31 +379,31 @@
 <tr class="odd">
 <td><p>1997-98</p></td>
 <td><p><a href="../Page/마르첼로_리피.md" title="wikilink">마르첼로 리피</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알렉스_퍼거슨" title="wikilink">알렉스 퍼거슨</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/알렉스_퍼거슨.md" title="wikilink">알렉스 퍼거슨</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999-2000</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/비센테_델_보스케" title="wikilink">비센테 델 보스케</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/비센테_델_보스케.md" title="wikilink">비센테 델 보스케</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2000-01</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오트마어_히츠펠트" title="wikilink">오트마어 히츠펠트</a></p></td>
+<td><p><a href="../Page/오트마어_히츠펠트.md" title="wikilink">오트마어 히츠펠트</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001-02</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/비센테_델_보스케" title="wikilink">비센테 델 보스케</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/비센테_델_보스케.md" title="wikilink">비센테 델 보스케</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002-03</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카를로_안첼로티" title="wikilink">카를로 안첼로티</a><br />
+<td><p><a href="../Page/카를로_안첼로티.md" title="wikilink">카를로 안첼로티</a><br />
  <a href="../Page/조제_모리뉴.md" title="wikilink">조제 모리뉴</a></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">AC 밀란</a><br />
  <a href="../Page/FC_포르투.md" title="wikilink">포르투</a></p></td>
@@ -411,20 +411,20 @@
 <tr class="odd">
 <td><p>2003-04</p></td>
 <td><p><a href="../Page/조제_모리뉴.md" title="wikilink">조제 모리뉴</a><br />
- <a href="https://ko.wikipedia.org/wiki/라파엘_베니테스" title="wikilink">라파엘 베니테스</a></p></td>
+ <a href="../Page/라파엘_베니테스.md" title="wikilink">라파엘 베니테스</a></p></td>
 <td><p><a href="../Page/FC_포르투.md" title="wikilink">포르투</a><br />
  <a href="../Page/발렌시아_CF.md" title="wikilink">발렌시아</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2004-05</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라파엘_베니테스" title="wikilink">라파엘 베니테스</a><br />
+<td><p><a href="../Page/라파엘_베니테스.md" title="wikilink">라파엘 베니테스</a><br />
  <a href="../Page/발레리_가자예프.md" title="wikilink">발레리 가자예프</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리버풀_FC" title="wikilink">리버풀</a><br />
+<td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a><br />
  <a href="../Page/PFC_CSKA_모스크바.md" title="wikilink">CSKA 모스크바</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005-06</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프랑크_레이카르트" title="wikilink">프랑크 레이카르트</a><br />
+<td><p><a href="../Page/프랑크_레이카르트.md" title="wikilink">프랑크 레이카르트</a><br />
  <a href="../Page/후안데_라모스.md" title="wikilink">후안데 라모스</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a><br />
  <a href="https://ko.wikipedia.org/wiki/세비야_FC" title="wikilink">세비야</a></p></td>
@@ -437,7 +437,7 @@
 ## 같이 보기
 
   - [UEFA 올해의 팀](../Page/UEFA_올해의_팀.md "wikilink")
-  - [UEFA 올해의 클럽 축구 선수](https://ko.wikipedia.org/wiki/UEFA_올해의_클럽_축구_선수 "wikilink")
+  - [UEFA 올해의 클럽 축구 선수](../Page/UEFA_올해의_클럽_축구_선수.md "wikilink")
   - [UEFA 올해의 선수](../Page/UEFA_올해의_선수.md "wikilink")
 
 ## 외부 링크

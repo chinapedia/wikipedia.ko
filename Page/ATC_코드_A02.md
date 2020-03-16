@@ -62,7 +62,7 @@
 ### A02BA H2-수용체 차단제
 
   -
-    A02BA01 [시메티딘](https://ko.wikipedia.org/wiki/시메티딘 "wikilink")(Cimetidine)
+    A02BA01 [시메티딘](../Page/시메티딘.md "wikilink")(Cimetidine)
     A02BA02 [라니티딘](../Page/라니티딘.md "wikilink")(Ranitidine)
     A02BA03 [파모티딘](../Page/파모티딘.md "wikilink")(Famotidine)
     A02BA04 [니자티딘](../Page/니자티딘.md "wikilink")(Nizatidine)

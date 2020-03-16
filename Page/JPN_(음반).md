@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JPN \(\)](https://ko.wikipedia.org/wiki/JPN_\(\)).
 
 
-《**JPN**》은 [퍼퓸의](https://ko.wikipedia.org/wiki/퍼퓸_\(음악_그룹\) "wikilink") 네 번째 정규 음반이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 11월 30일, 도쿠마 재팬 커뮤니케이션즈를 통해 발매되었다. 이전 음반인 《[트라이앵글](https://ko.wikipedia.org/wiki/트라이앵글_\(음반\) "wikilink")》 이후 2년 4개월 만에 발매됐으며 2주 간의 판매량으로 2011년 오리콘 연간 차트에서 24위를 차지했다\[1\].
+《**JPN**》은 [퍼퓸의](https://ko.wikipedia.org/wiki/퍼퓸_\(음악_그룹\) "wikilink") 네 번째 정규 음반이다. [2011년](../Page/2011년.md "wikilink") 11월 30일, 도쿠마 재팬 커뮤니케이션즈를 통해 발매되었다. 이전 음반인 《[트라이앵글](https://ko.wikipedia.org/wiki/트라이앵글_\(음반\) "wikilink")》 이후 2년 4개월 만에 발매됐으며 2주 간의 판매량으로 2011년 오리콘 연간 차트에서 24위를 차지했다\[1\].
 
 2012년 2월 28일 유니버설 뮤직으로 이적하기 전, 토쿠마 재팬 커뮤니케이션에서 발매된 마지막 음반으로, 2012년 3월 6일 50개 국가에서 [아이튠스](https://ko.wikipedia.org/wiki/아이튠스 "wikilink")를 통해 발매됐으며\[2\], 대한민국을 비롯한 아시아 6개국에서 라이센스 CD로 발매됐다\[3\].
 
@@ -39,7 +39,7 @@
 <td><p>226,858</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a> 재팬 주간 음반[5]</p></td>
+<td><p><a href="../Page/빌보드.md" title="wikilink">빌보드</a> 재팬 주간 음반[5]</p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>

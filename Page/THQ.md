@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [THQ](https://ko.wikipedia.org/wiki/THQ).
 
 
-**THQ 주식회사**()는 사라진 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 비디오 게임회사였다. [LJN](../Page/LJN.md "wikilink")이 전신이며, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 기준으로 종업원이 2,000명 이상으로 구성된 세계 게임회사 종업원 수 5위권에 들었던 회사였다. 주로, [비디오 게임 콘솔](../Page/비디오_게임_콘솔.md "wikilink"), [휴대용 게임기](../Page/휴대용_게임기.md "wikilink") 그리고 [개인용 컴퓨터와](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") [무선 통신](https://ko.wikipedia.org/wiki/무선_통신 "wikilink") 기구용 소프트웨어를 개발하였으며, [북아메리카](https://ko.wikipedia.org/wiki/북아메리카 "wikilink"), [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink"), [아시아 태평양](../Page/아시아_태평양.md "wikilink") 등지에 기점을 두었다. 하지만, 이 회사에서 만들어진 비디오 게임이 부정적인 평가가 많았고, 게임 사업에 대한 비판이 만만치 않았다. 결국, 인지도가 크게 추락하여, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 23일에](https://ko.wikipedia.org/wiki/1월_23일 "wikilink") 몰락하였다. 이후, 이 회사의 자회사및 각 게임 지적 재산권은 여러 게임 회사에 각각 매각되었다. 현재 THQ는 노르딕에 매각되어 THQ 노르딕으로 회사가 운영되고 있다.
+**THQ 주식회사**()는 사라진 [미국](../Page/미국.md "wikilink")의 비디오 게임회사였다. [LJN](../Page/LJN.md "wikilink")이 전신이며, [2010년](../Page/2010년.md "wikilink") 기준으로 종업원이 2,000명 이상으로 구성된 세계 게임회사 종업원 수 5위권에 들었던 회사였다. 주로, [비디오 게임 콘솔](../Page/비디오_게임_콘솔.md "wikilink"), [휴대용 게임기](../Page/휴대용_게임기.md "wikilink") 그리고 [개인용 컴퓨터와](../Page/개인용_컴퓨터.md "wikilink") [무선 통신](../Page/무선_통신.md "wikilink") 기구용 소프트웨어를 개발하였으며, [북아메리카](../Page/북아메리카.md "wikilink"), [유럽](../Page/유럽.md "wikilink"), [아시아 태평양](../Page/아시아_태평양.md "wikilink") 등지에 기점을 두었다. 하지만, 이 회사에서 만들어진 비디오 게임이 부정적인 평가가 많았고, 게임 사업에 대한 비판이 만만치 않았다. 결국, 인지도가 크게 추락하여, [2013년](../Page/2013년.md "wikilink") [1월 23일에](../Page/1월_23일.md "wikilink") 몰락하였다. 이후, 이 회사의 자회사및 각 게임 지적 재산권은 여러 게임 회사에 각각 매각되었다. 현재 THQ는 노르딕에 매각되어 THQ 노르딕으로 회사가 운영되고 있다.
 
 ## 파산 당시의 자회사 및 게임 목록
 
 게임은 **☆**로 표기, 자회사는 **○**로 표기한다.
 
-  - **○**[렐릭 엔터테인먼트](https://ko.wikipedia.org/wiki/렐릭_엔터테인먼트 "wikilink") - [세가 게임즈에](https://ko.wikipedia.org/wiki/세가_게임즈 "wikilink") 매각
+  - **○**[렐릭 엔터테인먼트](../Page/렐릭_엔터테인먼트.md "wikilink") - [세가 게임즈에](https://ko.wikipedia.org/wiki/세가_게임즈 "wikilink") 매각
   - **☆**[메트로 2033](../Page/메트로_2033.md "wikilink") 게임 시리즈 - [딥 실버에](../Page/딥_실버.md "wikilink") 매각
   - **○**ValuSoft - Cosmi Corperation에 매각
   - **☆**볼리션 - [딥 실버에](../Page/딥_실버.md "wikilink") 매각

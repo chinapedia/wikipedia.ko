@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [B.N.R.](https://ko.wikipedia.org/wiki/B.N.R.).
 
 
-**B.N.R.**은 [허인창](https://ko.wikipedia.org/wiki/허인창 "wikilink")과 MasterKey로 이루어진 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 2인조 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 팀이다. 2010년 결성되었으며 10월 〈그저 그런 얘기〉로 데뷔하였다. 현재 [브랜뉴 뮤직](https://ko.wikipedia.org/wiki/브랜뉴_뮤직 "wikilink") 소속이다. B.N.R.은 Brand New Radio를 뜻한다.
+**B.N.R.**은 [허인창](../Page/허인창.md "wikilink")과 MasterKey로 이루어진 [대한민국](../Page/대한민국.md "wikilink")의 2인조 [힙합](../Page/힙합.md "wikilink") 팀이다. 2010년 결성되었으며 10월 〈그저 그런 얘기〉로 데뷔하였다. 현재 [브랜뉴 뮤직](https://ko.wikipedia.org/wiki/브랜뉴_뮤직 "wikilink") 소속이다. B.N.R.은 Brand New Radio를 뜻한다.
 
 ## 역사
 
-1997년 [X-Teen의](https://ko.wikipedia.org/wiki/엑스틴 "wikilink") 멤버로 데뷔한 [허인창](https://ko.wikipedia.org/wiki/허인창 "wikilink")은 2000년 X-Teen의 해체 이후 가요계에서 랩 피쳐링 활동 및 [Hoony Hoon과의](https://ko.wikipedia.org/wiki/후니훈 "wikilink") 프로젝트 팀 **Soul-A-Beat** 활동, 2005년 솔로 싱글 발표를 거쳐 2008년 자신의 레이블 **그레이트5레코드**를 설립하고 솔로 앨범 *Again*을 발표하였다. 그러나 이 앨범은 큰 성공을 거두지는 못하였다. 이후 허인창은 [브랜뉴 스타덤으로](https://ko.wikipedia.org/wiki/브랜뉴_스타덤 "wikilink") 거처를 옮겼으며 여기서 솔로 앨범을 준비하였다.
+1997년 [X-Teen의](../Page/엑스틴.md "wikilink") 멤버로 데뷔한 [허인창](../Page/허인창.md "wikilink")은 2000년 X-Teen의 해체 이후 가요계에서 랩 피쳐링 활동 및 [Hoony Hoon과의](../Page/후니훈.md "wikilink") 프로젝트 팀 **Soul-A-Beat** 활동, 2005년 솔로 싱글 발표를 거쳐 2008년 자신의 레이블 **그레이트5레코드**를 설립하고 솔로 앨범 *Again*을 발표하였다. 그러나 이 앨범은 큰 성공을 거두지는 못하였다. 이후 허인창은 [브랜뉴 스타덤으로](https://ko.wikipedia.org/wiki/브랜뉴_스타덤 "wikilink") 거처를 옮겼으며 여기서 솔로 앨범을 준비하였다.
 
-한편 브랜뉴 스타덤의 초창기부터 대표 프로듀서 중 한 명으로 활동해온 MasterKey는 이전부터 [서인영](../Page/서인영.md "wikilink"), [솔비](../Page/솔비.md "wikilink")의 음반에 도움을 주면서 경력을 쌓아갔으며,\[1\] 허인창의 입단과 함께 그와 인연을 처음 맺었다. 이들의 눈에 띄는 [콜라보는](https://ko.wikipedia.org/wiki/협업 "wikilink") 없었으나, 2010년 6월 [MTV](../Page/MTV.md "wikilink") [락엠하드](https://ko.wikipedia.org/wiki/락엠하드 "wikilink") 시즌 2를 통해 브랜뉴 프로덕션이 소개될 때 둘의 그룹 "B.N.R."이 처음 소개되었다. 이들의 첫 공식 데뷔는 〈그저 그런 얘기〉로 2010년 10월 발표되었는데, 원래 [조PD](https://ko.wikipedia.org/wiki/조PD "wikilink")가 작업하려던 곡을 허인창이 작업하게 된 것으로 화제가 되기도 하였다.\[2\]
+한편 브랜뉴 스타덤의 초창기부터 대표 프로듀서 중 한 명으로 활동해온 MasterKey는 이전부터 [서인영](../Page/서인영.md "wikilink"), [솔비](../Page/솔비.md "wikilink")의 음반에 도움을 주면서 경력을 쌓아갔으며,\[1\] 허인창의 입단과 함께 그와 인연을 처음 맺었다. 이들의 눈에 띄는 [콜라보는](https://ko.wikipedia.org/wiki/협업 "wikilink") 없었으나, 2010년 6월 [MTV](../Page/MTV.md "wikilink") [락엠하드](https://ko.wikipedia.org/wiki/락엠하드 "wikilink") 시즌 2를 통해 브랜뉴 프로덕션이 소개될 때 둘의 그룹 "B.N.R."이 처음 소개되었다. 이들의 첫 공식 데뷔는 〈그저 그런 얘기〉로 2010년 10월 발표되었는데, 원래 [조PD](../Page/조PD.md "wikilink")가 작업하려던 곡을 허인창이 작업하게 된 것으로 화제가 되기도 하였다.\[2\]
 
-이후 2011년 10월 미니 앨범을 한 장 발표하였으며, 타이틀곡 〈사랑을 글로 배워서〉로 활동하였다. 이 곡의 뮤직비디오에는 가수 [Lyn이](https://ko.wikipedia.org/wiki/린_\(가수\) "wikilink") 처음으로 연기를 선보여서 약간의 이슈가 되었다.
+이후 2011년 10월 미니 앨범을 한 장 발표하였으며, 타이틀곡 〈사랑을 글로 배워서〉로 활동하였다. 이 곡의 뮤직비디오에는 가수 [Lyn이](../Page/린_\(가수\).md "wikilink") 처음으로 연기를 선보여서 약간의 이슈가 되었다.
 
 2013년에는 두번째 미니 앨범 《돌이킬 수 없는》의 타이틀곡 〈아무 말도 없었다〉에서는 2009년 이후 국내 공식 활동이 없었던 [앤이](https://ko.wikipedia.org/wiki/앤_\(가수\) "wikilink") 피쳐링으로 참여하여 다시 한 번 이슈가 되었다.\[3\]
 

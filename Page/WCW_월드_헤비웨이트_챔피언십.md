@@ -30,7 +30,7 @@
   - 빅 밴 베이더
   - 론 시몬스 (프로레슬링 역사상 최초의 흑인 월드 헤비웨이트 챔피언)
   - 헐크 호건 (최장수 챔피언)
-  - 더 자이언트 (**[빅 쇼](https://ko.wikipedia.org/wiki/빅_쇼 "wikilink")**)(최중량급/최연소 챔피언 (이는 [랜디 오턴보다도](../Page/랜디_오턴.md "wikilink") 더 젊은 나이로 획득하였다.))
+  - 더 자이언트 (**[빅 쇼](../Page/빅_쇼.md "wikilink")**)(최중량급/최연소 챔피언 (이는 [랜디 오턴보다도](../Page/랜디_오턴.md "wikilink") 더 젊은 나이로 획득하였다.))
   - 랜디 새비지
   - 빌 골드버그
   - 케빈 내쉬
@@ -53,11 +53,11 @@
   - [WWE 챔피언십](../Page/WWE_챔피언십.md "wikilink")
   - [WWE 유니버셜 챔피언십](../Page/WWE_유니버셜_챔피언십.md "wikilink")
   - [월드 헤비웨이트 챔피언십 (WWE)](../Page/월드_헤비웨이트_챔피언십_\(WWE\).md "wikilink")
-  - [WWE NXT 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_챔피언십 "wikilink")
+  - [WWE NXT 챔피언십](../Page/WWE_NXT_챔피언십.md "wikilink")
   - [AEW 월드 챔피언십](https://ko.wikipedia.org/wiki/AEW_월드_챔피언십 "wikilink")
   - [ECW 월드 헤비웨이트 챔피언십](../Page/ECW_월드_헤비웨이트_챔피언십.md "wikilink")
   - [TNA 월드 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/TNA_월드_헤비웨이트_챔피언십 "wikilink")
-  - [RoH 월드 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/RoH_월드_헤비웨이트_챔피언십 "wikilink")
+  - [RoH 월드 헤비웨이트 챔피언십](../Page/RoH_월드_헤비웨이트_챔피언십.md "wikilink")
   - [GFW 글로벌 챔피언십](https://ko.wikipedia.org/wiki/GFW_글로벌_챔피언십 "wikilink")
 
 [분류:WCW 챔피언십](https://ko.wikipedia.org/wiki/분류:WCW_챔피언십 "wikilink") [분류:헤비급 프로레슬링 챔피언십](https://ko.wikipedia.org/wiki/분류:헤비급_프로레슬링_챔피언십 "wikilink")

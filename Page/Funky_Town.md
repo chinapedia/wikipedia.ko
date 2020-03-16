@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [Funky Town](https://ko.wikipedia.org/wiki/Funky_Town).
 
 
-***Funky Town***는 대한민국의 음악 그룹 [티아라의](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink") 네 번째 미니 앨범이다.
+***Funky Town***는 대한민국의 음악 그룹 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 네 번째 미니 앨범이다.
 
 ## 트랙 목록
 
 1\. Lovey-Dovey
 
   -
-    작곡 : [신사동 호랭이](https://ko.wikipedia.org/wiki/신사동_호랭이 "wikilink"), [최규성](https://ko.wikipedia.org/wiki/최규성 "wikilink")
+    작곡 : [신사동 호랭이](https://ko.wikipedia.org/wiki/신사동_호랭이 "wikilink"), [최규성](../Page/최규성.md "wikilink")
     작사 : 신사동 호랭이, 최규성
     편곡 : 신사동 호랭이, 최규성
 

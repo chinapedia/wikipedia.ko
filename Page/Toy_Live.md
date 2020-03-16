@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Toy Live](https://ko.wikipedia.org/wiki/Toy_Live).
 
 
-《**Toy Live**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")의 1인 프로젝트 그룹 [토이의](https://ko.wikipedia.org/wiki/토이_\(대한민국의_음악_그룹\) "wikilink") 라이브 음반으로, 2001년 8월 10일부터 12일까지 LG아트센터에서 많은 객원 보컬들이 참여했던 토이의 콘서트실황을 담았다. 2007년 11월에는 [엠넷미디어](../Page/엠넷미디어.md "wikilink")에서 재발매되기도 했다.
+《**Toy Live**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")의 1인 프로젝트 그룹 [토이의](https://ko.wikipedia.org/wiki/토이_\(대한민국의_음악_그룹\) "wikilink") 라이브 음반으로, 2001년 8월 10일부터 12일까지 LG아트센터에서 많은 객원 보컬들이 참여했던 토이의 콘서트실황을 담았다. 2007년 11월에는 [엠넷미디어](../Page/엠넷미디어.md "wikilink")에서 재발매되기도 했다.
 
 ## 수록곡
 
@@ -12,10 +12,10 @@
 3.  내가 남자친구라면 <small>(Vocal : [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink"))</small>
 4.  우리는 어쩌면, 만약에 <small>(Vocal : 유희열)</small>
 5.  선물 Part 2 <small>(Vocal : 유희열)</small>
-6.  내가 너의 곁에 잠시 살았다는 걸 <small>(Vocal : [김연우](https://ko.wikipedia.org/wiki/김연우 "wikilink"))</small>
+6.  내가 너의 곁에 잠시 살았다는 걸 <small>(Vocal : [김연우](../Page/김연우.md "wikilink"))</small>
 7.  여전히 아름다운지 <small>(Vocal : 김연우)</small>
 8.  거짓말 같은 시간 <small>(Vocal : 김연우)</small>
-9.  슬픈 이야기 <small>(Vocal : [이장우](https://ko.wikipedia.org/wiki/이장우_\(가수\) "wikilink"))</small>
+9.  슬픈 이야기 <small>(Vocal : [이장우](../Page/이장우_\(가수\).md "wikilink"))</small>
 10. 내 마음 속에 & 이 밤의 끝을 잡고 <small>(Vocal : 유희열)</small>
 11. 스케치북 <small>(Vocal : 유희열, [윤종신](../Page/윤종신.md "wikilink"))</small>
 12. Intermission (영화 《봄산에》 OST Main theme)
@@ -28,8 +28,8 @@
 4.  애주가 <small>(Vocal : [이승환](../Page/이승환_\(가수\).md "wikilink"))</small>
 5.  변해가는 그대 <small>(Vocal : 이승환)</small>
 6.  난 남자다 <small>(Vocal : 유희열)</small>
-7.  좋은 사람 <small>(Vocal : [김형중](https://ko.wikipedia.org/wiki/김형중 "wikilink"))</small>
-8.  모두 어디로 간걸까? <small>(Vocal : [이적](https://ko.wikipedia.org/wiki/이적_\(가수\) "wikilink"))</small>
+7.  좋은 사람 <small>(Vocal : [김형중](../Page/김형중.md "wikilink"))</small>
+8.  모두 어디로 간걸까? <small>(Vocal : [이적](../Page/이적_\(가수\).md "wikilink"))</small>
 9.  그럴때마다 <small>(Vocal : 김연우, 김형중, 유희열)</small>
 10. 언젠가 우리 다시 만나면 <small>(Vocal : 김연우)</small>
 11. A Night in Seoul
@@ -48,14 +48,14 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/유희열" title="wikilink">유희열</a> - <a href="https://ko.wikipedia.org/wiki/음악_프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반 악기</a>, <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a></li>
-<li><a href="../Page/함춘호.md" title="wikilink">함춘호</a> - <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>, 나일론 기타, 스틸 기타</li>
+<li><a href="https://ko.wikipedia.org/wiki/유희열" title="wikilink">유희열</a> - <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반 악기</a>, <a href="../Page/피아노.md" title="wikilink">피아노</a></li>
+<li><a href="../Page/함춘호.md" title="wikilink">함춘호</a> - <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>, 나일론 기타, 스틸 기타</li>
 <li>이성렬 - 전기 기타, 스틸 기타</li>
 <li><a href="../Page/신석철.md" title="wikilink">신석철</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
-<li>김정렬 - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>, <a href="https://ko.wikipedia.org/wiki/콘트라_베이스" title="wikilink">콘트라 베이스</a></li>
+<li>김정렬 - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>, <a href="https://ko.wikipedia.org/wiki/콘트라_베이스" title="wikilink">콘트라 베이스</a></li>
 <li><a href="../Page/채제민.md" title="wikilink">채제민</a> - <a href="https://ko.wikipedia.org/wiki/타악기" title="wikilink">타악기</a></li>
 <li>박용준 - 건반 악기, 피아노, <a href="https://ko.wikipedia.org/wiki/멜로디언" title="wikilink">멜로디언</a></li>
-<li>박인영 - 건반 악기, <a href="https://ko.wikipedia.org/wiki/바이올린" title="wikilink">바이올린</a></li>
+<li>박인영 - 건반 악기, <a href="../Page/바이올린.md" title="wikilink">바이올린</a></li>
 <li>김지혜, 신예원 - <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a></li>
 </ul></td>
 <td><ul>

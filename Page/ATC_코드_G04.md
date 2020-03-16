@@ -39,7 +39,7 @@
   -
     G04BE01 [Alprostadil](https://ko.wikipedia.org/wiki/Alprostadil "wikilink")
     G04BE02 [Papaverine](https://ko.wikipedia.org/wiki/Papaverine "wikilink")
-    G04BE03 [실데나필](https://ko.wikipedia.org/wiki/실데나필 "wikilink")(Sildenafil)
+    G04BE03 [실데나필](../Page/실데나필.md "wikilink")(Sildenafil)
     G04BE04 [Yohimbin](https://ko.wikipedia.org/wiki/Yohimbin "wikilink")
     G04BE06 [Moxisylyte](https://ko.wikipedia.org/wiki/Moxisylyte "wikilink")
     G04BE07 [Apomorphine](https://ko.wikipedia.org/wiki/Apomorphine "wikilink")

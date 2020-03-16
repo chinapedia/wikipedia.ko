@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [It Won\'t Be Soon Before Long](https://ko.wikipedia.org/wiki/It_Won\'t_Be_Soon_Before_Long).
 
 
-《***It Won't Be Soon Before Long***》(잇 원트 비 순 비포 롱\[1\])은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 2007년 5월 22일에 발매되었으며, 음반의 이름은 투어 중 그들 스스로 동기부여를 하기 위해서 지은 것에서 유래 된다. 이 음반은 미국 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 1위로 데뷔하였으며, 첫 주에만 430,000장의 판매를 하였다.\[2\] 2011년 기준, 전세계적으로 약 5,000,000장의 판매고를 올렸으며, 전 멤버 [라이언 두식이](https://ko.wikipedia.org/wiki/라이언_두식 "wikilink") 음악 감독으로서 참여하였다.\[3\]
+《***It Won't Be Soon Before Long***》(잇 원트 비 순 비포 롱\[1\])은 [미국](../Page/미국.md "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 2007년 5월 22일에 발매되었으며, 음반의 이름은 투어 중 그들 스스로 동기부여를 하기 위해서 지은 것에서 유래 된다. 이 음반은 미국 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 1위로 데뷔하였으며, 첫 주에만 430,000장의 판매를 하였다.\[2\] 2011년 기준, 전세계적으로 약 5,000,000장의 판매고를 올렸으며, 전 멤버 [라이언 두식이](../Page/라이언_두식.md "wikilink") 음악 감독으로서 참여하였다.\[3\]
 
 대한민국과 오스트레일라아에만 한정으로 대한민국/오스트레일리아 한정 딜럭스반(*It Won't Be Soon Before Long:Korean/Australian Limited Deluxe Edition*)이 발매되었으며, 내용물을 간소화해 가격을 낮춘 대한민국 특별반(*It Won't Be Soon Before Long:Special Korea Edition*)이 같이 발매되었다.
 
 ## 배경
 
-*It Won't Be Soon Before Long*은 12곡의 기본 곡들과 6개의 보너스 곡들을 수록하고 있다. 마룬 5가 밝히길 이 음반은 *[Songs About Jane](../Page/Songs_About_Jane.md "wikilink")*과 다른 느낌이라고 하였다. 음반 수록곡들은 전작처럼 개인적인 사적 관계에 관한 곡들이 아니며, 첫 번째 음반과는 다르게 전자음과 [토킹 헤즈](https://ko.wikipedia.org/wiki/토킹_헤즈 "wikilink"), [마이클 잭슨](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink"), [프린스](https://ko.wikipedia.org/wiki/프린스 "wikilink")의 영감을 받았다. 음반 발매 후 [레트로](https://ko.wikipedia.org/wiki/레트로 "wikilink")풍이라는 평가가 있었다.\[4\] [애덤 리바인이](../Page/애덤_리바인.md "wikilink") 설명하길 이 음반은 조금 더 자신감 있으며, 가사적으로도 강력하다고 하였다.\[5\]
+*It Won't Be Soon Before Long*은 12곡의 기본 곡들과 6개의 보너스 곡들을 수록하고 있다. 마룬 5가 밝히길 이 음반은 *[Songs About Jane](../Page/Songs_About_Jane.md "wikilink")*과 다른 느낌이라고 하였다. 음반 수록곡들은 전작처럼 개인적인 사적 관계에 관한 곡들이 아니며, 첫 번째 음반과는 다르게 전자음과 [토킹 헤즈](../Page/토킹_헤즈.md "wikilink"), [마이클 잭슨](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink"), [프린스](../Page/프린스.md "wikilink")의 영감을 받았다. 음반 발매 후 [레트로](https://ko.wikipedia.org/wiki/레트로 "wikilink")풍이라는 평가가 있었다.\[4\] [애덤 리바인이](../Page/애덤_리바인.md "wikilink") 설명하길 이 음반은 조금 더 자신감 있으며, 가사적으로도 강력하다고 하였다.\[5\]
 
-그에 따르면 다른 음악가들과 작업한 것이 이 음반에 영향을 주었다고 한다. 덧붙이길, "[카니예 웨스트와](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink") [앨리샤 키스는](https://ko.wikipedia.org/wiki/앨리샤_키스 "wikilink") 각기 다른 분야에서 엄청 뛰어나요. 스튜디오에서 그들 같이 엄청난 이들이 작업하는 것을 보았죠. 저는 그들에게서 얻은 것들이 있어요."\[6\]
+그에 따르면 다른 음악가들과 작업한 것이 이 음반에 영향을 주었다고 한다. 덧붙이길, "[카니예 웨스트와](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink") [앨리샤 키스는](../Page/앨리샤_키스.md "wikilink") 각기 다른 분야에서 엄청 뛰어나요. 스튜디오에서 그들 같이 엄청난 이들이 작업하는 것을 보았죠. 저는 그들에게서 얻은 것들이 있어요."\[6\]
 
 "Nothing Lasts Forever"의 코러스는 애덤 리바인이 피처링한 카니예 웨스트의 싱글 "[Heard 'Em Say](https://ko.wikipedia.org/wiki/Heard_'Em_Say "wikilink")"에서도 사용되었다.\[7\] 또한 이 곡은 영화 《[나의 특별한 사랑이야기](https://ko.wikipedia.org/wiki/:en:Definitely,_Maybe "wikilink")》의 트레일러에 사용되었다.
 
@@ -19,9 +19,9 @@
 
 ## 음반 프로모션
 
-  - 마룬 5는 6월에 6일동안 클럽 투어를 하였다. ([보스턴](https://ko.wikipedia.org/wiki/보스턴 "wikilink") (5월 30일), [샌프란시스코](https://ko.wikipedia.org/wiki/샌프란시스코 "wikilink") (6월 1일), [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") (6월 2일), [미네아폴리스](https://ko.wikipedia.org/wiki/미네아폴리스 "wikilink") (6월 7일), [마이애미](https://ko.wikipedia.org/wiki/마이애미 "wikilink") (6월 9일), [뉴욕](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") (6월 11일))\[9\]
+  - 마룬 5는 6월에 6일동안 클럽 투어를 하였다. ([보스턴](../Page/보스턴.md "wikilink") (5월 30일), [샌프란시스코](../Page/샌프란시스코.md "wikilink") (6월 1일), [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") (6월 2일), [미네아폴리스](https://ko.wikipedia.org/wiki/미네아폴리스 "wikilink") (6월 7일), [마이애미](../Page/마이애미.md "wikilink") (6월 9일), [뉴욕](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") (6월 11일))\[9\]
   - 3월 31일 - [2007년 키즈 초이스 어워드에서](https://ko.wikipedia.org/wiki/닉_키즈_초이스_어워드 "wikilink") 첫 싱글 "Makes Me Wonder"를 발표하였다. 어린 연령대의 관객들을 위해서 가사가 약간 수정된 버전으로 라이브 무대를 가졌다.
-  - 5월 16일 – 《[아메리칸 아이돌](https://ko.wikipedia.org/wiki/아메리칸_아이돌 "wikilink")》
+  - 5월 16일 – 《[아메리칸 아이돌](../Page/아메리칸_아이돌.md "wikilink")》
   - 5월 18일 – [나소 베테랑스 메모리얼 콜리세움](https://ko.wikipedia.org/wiki/나소_베테랑스_메모리얼_콜리세움 "wikilink")
   - 5월 19일 – 《[새러데이 나이트 라이브](https://ko.wikipedia.org/wiki/새러데이_나이트_라이브 "wikilink")》에서 "Makes Me Wonder"와 "Won't Go Home Without You" 공연
   - 5월 21일 – 《제이 레노 쇼》에서 "Makes Me Wonder"와 "This Love" 공연
@@ -39,7 +39,7 @@
 
 ## 재발매
 
-*It Won't Be Soon Before Long*은 2008년 6월 29일에 오스트레일리아에서 재발매되었고, 2008년 7월 8일에 전세계에 발매되었다. 재발매반은 4개의 뮤직 비디오와 2007년 6월 13일에 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [퀘벡주](https://ko.wikipedia.org/wiki/퀘벡주 "wikilink") [몬트리올](https://ko.wikipedia.org/wiki/몬트리올 "wikilink")에서 녹화된 콘서트 영상이 포함되어있다. 또한 재발매반은 기존의 12곡과 5곡의 [B-사이드](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 곡들을 포함한다. ("Infatuation", "Miss You Love You", "Until You're Over Me", "Story"와 "Losing My Mind") 또한 [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink")가 피처링한 "If I Never See Your Face Again"도 수록되었다.\[10\] 오스트레일리아와 영국 발매반은 한 곡의 보너스 트랙이 더 수록되었다. ([메리 J. 블라이즈가](https://ko.wikipedia.org/wiki/메리_J._블라이즈 "wikilink") 피처링한 "Wake Up Call"의 마크 론슨(Mark Ronson) 리믹스 버전)
+*It Won't Be Soon Before Long*은 2008년 6월 29일에 오스트레일리아에서 재발매되었고, 2008년 7월 8일에 전세계에 발매되었다. 재발매반은 4개의 뮤직 비디오와 2007년 6월 13일에 [캐나다](../Page/캐나다.md "wikilink") [퀘벡주](../Page/퀘벡주.md "wikilink") [몬트리올](../Page/몬트리올.md "wikilink")에서 녹화된 콘서트 영상이 포함되어있다. 또한 재발매반은 기존의 12곡과 5곡의 [B-사이드](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 곡들을 포함한다. ("Infatuation", "Miss You Love You", "Until You're Over Me", "Story"와 "Losing My Mind") 또한 [리한나](../Page/리한나.md "wikilink")가 피처링한 "If I Never See Your Face Again"도 수록되었다.\[10\] 오스트레일리아와 영국 발매반은 한 곡의 보너스 트랙이 더 수록되었다. ([메리 J. 블라이즈가](../Page/메리_J._블라이즈.md "wikilink") 피처링한 "Wake Up Call"의 마크 론슨(Mark Ronson) 리믹스 버전)
 
 오스트레일리아 발매반의 CD는 "스페셜 에디션"만 구매 가능하였고, 한정판 딜럭스반에 DVD가 이미 있기 때문에 DVD가 포함되지 않았다. 영국 발매반 역시 DVD 미포함이다.
 
@@ -53,7 +53,7 @@
 
   - 전 세계 발매반
 
-13\. "If I Never See Your Face Again" (Feat. [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink")) 3:18
+13\. "If I Never See Your Face Again" (Feat. [리한나](../Page/리한나.md "wikilink")) 3:18
 14\. "Infatuation" 4:25
 15\. "Miss You Love You" 3:11
 16\. "Until You're Over Me" 3:17
@@ -65,7 +65,7 @@
 13\. "Until You're Over Me" 3:17
 14\. "Infatuation" 4:25
 15\. "If I Never See Your Face Again" (Feat. 리한나) 3:18
-16\. "Wake Up Call" (마크 론슨(Mark Ronson) 리믹스 Feat. [메리 J. 블라이즈](https://ko.wikipedia.org/wiki/메리_J._블라이즈 "wikilink")) 3:13
+16\. "Wake Up Call" (마크 론슨(Mark Ronson) 리믹스 Feat. [메리 J. 블라이즈](../Page/메리_J._블라이즈.md "wikilink")) 3:13
 17\. "Story" 4:33
 18\. "Losing My Mind" 3:21
 19\. "Miss You Love You" 3:11
@@ -120,7 +120,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>"<a href="https://ko.wikipedia.org/wiki/Won&#39;t_Go_Home_Without_You" title="wikilink">Won't Go Home Without You</a>"</p>
+<td><p>"<a href="../Page/Won&#39;t_Go_Home_Without_You.md" title="wikilink">Won't Go Home Without You</a>"</p>
 <ul>
 <li>발매일: 2007년 11월 29일</li>
 </ul></td>
@@ -128,11 +128,11 @@
 <tr class="even">
 <td><p>"<a href="../Page/If_I_Never_See_Your_Face_Again.md" title="wikilink">If I Never See Your Face Again</a>"</p>
 <ul>
-<li>발매일: 2008년 5월 2일 (<a href="https://ko.wikipedia.org/wiki/아이튠즈" title="wikilink">아이튠즈</a>), 2008년 5월 13일 (라디오)</li>
+<li>발매일: 2008년 5월 2일 (<a href="../Page/아이튠즈.md" title="wikilink">아이튠즈</a>), 2008년 5월 13일 (라디오)</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>"<a href="https://ko.wikipedia.org/wiki/Goodnight_Goodnight" title="wikilink">Goodnight Goodnight</a>"</p>
+<td><p>"<a href="../Page/Goodnight_Goodnight.md" title="wikilink">Goodnight Goodnight</a>"</p>
 <ul>
 <li>발매일: 2008년 8월 21일 (비디오), 2008년 11월 3일 (브라질)</li>
 </ul></td>
@@ -293,8 +293,8 @@
 
   - [애덤 리바인](../Page/애덤_리바인.md "wikilink") - 리드 보컬, 기타
   - [제시 카마이클](../Page/제시_카마이클.md "wikilink") - 건반, 피아노, 보컬
-  - [미키 매든](https://ko.wikipedia.org/wiki/미키_매든 "wikilink") - 베이스 기타, 보컬
-  - [제임스 밸런타인](https://ko.wikipedia.org/wiki/제임스_밸런타인 "wikilink") - 기타, 보컬
+  - [미키 매든](../Page/미키_매든.md "wikilink") - 베이스 기타, 보컬
+  - [제임스 밸런타인](../Page/제임스_밸런타인.md "wikilink") - 기타, 보컬
   - [맷 플린](https://ko.wikipedia.org/wiki/맷_플린 "wikilink") - 드럼, 타악기
 
 <!-- end list -->
@@ -303,7 +303,7 @@
 
 <!-- end list -->
 
-  - [라이언 두식](https://ko.wikipedia.org/wiki/라이언_두식 "wikilink") - 음악 감독
+  - [라이언 두식](../Page/라이언_두식.md "wikilink") - 음악 감독
   - David Campbell – 현악기, 호른 (작곡 및 지휘)
   - 마이크 엘리존도(Mike Elizondo) – 추가적인 건반, 피아노, 베이스 기타
   - Lenny Castro – 타악기
@@ -311,11 +311,11 @@
   - Daniel Higgins – 호른
   - Gary Grant – 호른
   - Jerry Hey – 호른
-  - [라시다 존스](https://ko.wikipedia.org/wiki/라시다_존스 "wikilink") – 추가적인 보컬
+  - [라시다 존스](../Page/라시다_존스.md "wikilink") – 추가적인 보컬
   - Adam MacDougall – 추가적인 건반
   - Matt Teal – 추가적인 건반
   - 마크 엔더트(Mark Endert) – 추가적인 건반, 믹싱, 작곡
-  - [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink") - 보컬
+  - [리한나](../Page/리한나.md "wikilink") - 보컬
   - [메리 제이 블라이즈](https://ko.wikipedia.org/wiki/메리_제이_블라이즈 "wikilink") - 보컬
 
 ## 투어

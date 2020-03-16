@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 2 \(PART 1\)](https://ko.wikipedia.org/wiki/_2_\(PART_1\)).
 
 
-《**윤상 2 (PART 1)**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [작곡가 겸 가수](https://ko.wikipedia.org/wiki/작곡가_겸_가수 "wikilink") [윤상](../Page/윤상.md "wikilink")의 두 번째 앨범의 Part 1이다. 더블앨범으로 제작되어 [Part 2가](https://ko.wikipedia.org/wiki/윤상_2_\(PART_2\) "wikilink") 1년의 시차를 두고 따로 발매되었다.
+《**윤상 2 (PART 1)**》은 [대한민국](../Page/대한민국.md "wikilink")의 [작곡가 겸 가수](https://ko.wikipedia.org/wiki/작곡가_겸_가수 "wikilink") [윤상](../Page/윤상.md "wikilink")의 두 번째 앨범의 Part 1이다. 더블앨범으로 제작되어 [Part 2가](../Page/윤상_2_\(PART_2\).md "wikilink") 1년의 시차를 두고 따로 발매되었다.
 
 ## 앨범
 
@@ -13,18 +13,18 @@
 
 이 목록은 해당 앨범의 부클릿 〈staff〉목록에서 발췌하였다.\[3\]
 
-  - [윤상](../Page/윤상.md "wikilink") - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), [편곡](../Page/편곡.md "wikilink")
+  - [윤상](../Page/윤상.md "wikilink") - [프로듀서](../Page/음악_프로듀서.md "wikilink"), [편곡](../Page/편곡.md "wikilink")
   - 박창학 - 프로듀서
   - 김국현 - 녹음, 믹싱
   - 김동인, 김종욱, 한제석 - 녹음
-  - 이영경 - [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")
-  - 유대연 - [첼로](https://ko.wikipedia.org/wiki/첼로 "wikilink")(7)
+  - 이영경 - [피아노](../Page/피아노.md "wikilink")
+  - 유대연 - [첼로](../Page/첼로.md "wikilink")(7)
   - 최태완 - 전자 피아노, 무그(1, 4)
   - 김원용 - [색소폰](../Page/색소폰.md "wikilink")(2)
-  - 심상원 - [바이올린](https://ko.wikipedia.org/wiki/바이올린 "wikilink"), 전자 피아노, 현악, 무그 베이스, 무그(1, 5)
+  - 심상원 - [바이올린](../Page/바이올린.md "wikilink"), 전자 피아노, 현악, 무그 베이스, 무그(1, 5)
   - [장혜진](https://ko.wikipedia.org/wiki/장혜진 "wikilink"), 신윤미 - [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink")
   - 조세현 - [사진](../Page/사진.md "wikilink")
-  - [김광수](https://ko.wikipedia.org/wiki/김광수_\(1961년\) "wikilink")(EOS sound) - [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink")
+  - [김광수](../Page/김광수_\(1961년\).md "wikilink")(EOS sound) - [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink")
 
 ## 각주
 

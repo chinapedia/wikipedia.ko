@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG  Q2](https://ko.wikipedia.org/wiki/LG__Q2).
 
 
-**LG 옵티머스 Q2**()는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 24일에](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") 출시한 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\] 전작 옵티머스 Q와는 달리 [구글 플레이에서](https://ko.wikipedia.org/wiki/구글_플레이 "wikilink") 내려받을 수 있는 앱들을 최대한 제거하고 출시하였으며 [NVIDIA](https://ko.wikipedia.org/wiki/NVIDIA "wikilink")의 AP25 1.2 GHz [CPU를](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") 장착하였으며, [QWERTY 자판을](https://ko.wikipedia.org/wiki/QWERTY_자판 "wikilink") 탑재하였다. 옵티머스 Q2는 안드로이드 애플리케이션뿐만 아니라 OZ 애플리케이션, LG 애플리케이션 등을 다운로드할 수 있다. 전작 [싸이언 옵티머스 Q가](../Page/싸이언_옵티머스_Q.md "wikilink") 있다.
+**LG 옵티머스 Q2**()는 [LG전자](../Page/LG전자.md "wikilink")가 [2011년](../Page/2011년.md "wikilink") [9월 24일에](../Page/9월_24일.md "wikilink") 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 전작 옵티머스 Q와는 달리 [구글 플레이에서](../Page/구글_플레이.md "wikilink") 내려받을 수 있는 앱들을 최대한 제거하고 출시하였으며 [NVIDIA](https://ko.wikipedia.org/wiki/NVIDIA "wikilink")의 AP25 1.2 GHz [CPU를](../Page/중앙_처리_장치.md "wikilink") 장착하였으며, [QWERTY 자판을](../Page/QWERTY_자판.md "wikilink") 탑재하였다. 옵티머스 Q2는 안드로이드 애플리케이션뿐만 아니라 OZ 애플리케이션, LG 애플리케이션 등을 다운로드할 수 있다. 전작 [싸이언 옵티머스 Q가](../Page/싸이언_옵티머스_Q.md "wikilink") 있다.
 
 ## 제품의 결함
 
@@ -11,7 +11,7 @@
 
 ## 업그레이드 논란
 
-위와 같이 3G망을 잡지 못하는 문제로 인해 기존의 126펌웨어를 개선한 128펌웨어를 내놓았으나 별효과가 없고 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")는 이 문제의 해결을 이후 ICS(아이스크림 샌드위치) 업그레이드를 통해 해결해 주겠다고 언급한다. 하지만 현재 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 3분기 예정이었던 ICS 업그레이드가 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 에서야 되었다. 그 이전에 한차례 유출 펌웨어인 131펌웨어가 나왔고 마침내 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 18일](https://ko.wikipedia.org/wiki/1월_18일 "wikilink") 금요일 오후 4시 50분경 정식 아이스크림 샌드위치 펌웨어인 137 펌웨어가 출시되었다.
+위와 같이 3G망을 잡지 못하는 문제로 인해 기존의 126펌웨어를 개선한 128펌웨어를 내놓았으나 별효과가 없고 [LG전자](../Page/LG전자.md "wikilink")는 이 문제의 해결을 이후 ICS(아이스크림 샌드위치) 업그레이드를 통해 해결해 주겠다고 언급한다. 하지만 현재 [2012년](../Page/2012년.md "wikilink") 3분기 예정이었던 ICS 업그레이드가 [2013년](../Page/2013년.md "wikilink") 에서야 되었다. 그 이전에 한차례 유출 펌웨어인 131펌웨어가 나왔고 마침내 [2013년](../Page/2013년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") 금요일 오후 4시 50분경 정식 아이스크림 샌드위치 펌웨어인 137 펌웨어가 출시되었다.
 
 UI개선과 여러 최적화가 진행되었다.
 
@@ -19,17 +19,17 @@ UI개선과 여러 최적화가 진행되었다.
 
 ### 안드로이드 4.0.4아이스크림 샌드위치 업그레이드
 
-[LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 18일](https://ko.wikipedia.org/wiki/1월_18일 "wikilink") 공식적으로 [아이스크림 샌드위치](https://ko.wikipedia.org/wiki/아이스크림_샌드위치 "wikilink") 업그레이드를 진행하였다. 펌웨어 버전은 137펌웨어이다. 옵티머스UI 3.0으로 업데이트되었으며, [퀵메모](https://ko.wikipedia.org/wiki/퀵메모 "wikilink")가 추가 탑재되었으나 타 기기의 주력 기능인 [Q보이스](https://ko.wikipedia.org/wiki/Q보이스 "wikilink"), [Q슬라이드](https://ko.wikipedia.org/wiki/Q슬라이드 "wikilink") 등은 추가되지 않았다. [옵티머스 Q2의](https://ko.wikipedia.org/wiki/옵티머스_Q2 "wikilink") 쿼티키보드를 사용하여 앱을 실행할 수 있는 "빠른 실행" 기능이 제거되었다.
+[LG전자](../Page/LG전자.md "wikilink")는 [2013년](../Page/2013년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") 공식적으로 [아이스크림 샌드위치](https://ko.wikipedia.org/wiki/아이스크림_샌드위치 "wikilink") 업그레이드를 진행하였다. 펌웨어 버전은 137펌웨어이다. 옵티머스UI 3.0으로 업데이트되었으며, [퀵메모](https://ko.wikipedia.org/wiki/퀵메모 "wikilink")가 추가 탑재되었으나 타 기기의 주력 기능인 [Q보이스](https://ko.wikipedia.org/wiki/Q보이스 "wikilink"), [Q슬라이드](https://ko.wikipedia.org/wiki/Q슬라이드 "wikilink") 등은 추가되지 않았다. [옵티머스 Q2의](https://ko.wikipedia.org/wiki/옵티머스_Q2 "wikilink") 쿼티키보드를 사용하여 앱을 실행할 수 있는 "빠른 실행" 기능이 제거되었다.
 
 ## 기타 업그레이드
 
 ## LG전자 최초의 진저브레드 OS 탑재
 
-옵티머스 Q2의 운영 체제는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 2.3 [진저브레드](https://ko.wikipedia.org/wiki/진저브레드 "wikilink")으로 출시되어 LG전자 최초의 진저브레드 OS 탑재 스마트폰 및 LG전자 스마트폰이 변하고 있음을 증명하였다. 하지만 전작 옵티머스Q는 진저브레드 OS 업그레이드 대상 기종에서 빠져 옵티머스Q 사용자에게 높은 원성을 샀다.
+옵티머스 Q2의 운영 체제는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 2.3 [진저브레드](https://ko.wikipedia.org/wiki/진저브레드 "wikilink")으로 출시되어 LG전자 최초의 진저브레드 OS 탑재 스마트폰 및 LG전자 스마트폰이 변하고 있음을 증명하였다. 하지만 전작 옵티머스Q는 진저브레드 OS 업그레이드 대상 기종에서 빠져 옵티머스Q 사용자에게 높은 원성을 샀다.
 
 ## 커스텀 커널 및 펌웨어 개발
 
-[네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 카페 안드로이더스를 주축으로 개발이 되었다. 하지만 광고와 관리의 부재로 따른 불편함으로 옵티머스 Q2만을 전문적으로 다루는 카페 Q2포럼으로 대체로 이동되었다.
+[네이버](../Page/네이버.md "wikilink") 카페 안드로이더스를 주축으로 개발이 되었다. 하지만 광고와 관리의 부재로 따른 불편함으로 옵티머스 Q2만을 전문적으로 다루는 카페 Q2포럼으로 대체로 이동되었다.
 
 [아이스크림샌드위치](https://ko.wikipedia.org/wiki/아이스크림샌드위치 "wikilink") 첫 정식 펌웨어가 나온지 겨우 2시간도 되지 않아 부트로더 크랙, [루팅](https://ko.wikipedia.org/wiki/루팅 "wikilink")에 성공한 유저가 나왔다.
 
@@ -55,7 +55,7 @@ LG 137펌웨어 (2013년 8월 18일 기준 최신 펌웨어)를 기반으로 제
 
 <!-- end list -->
 
-  - [mpeg4](https://ko.wikipedia.org/wiki/MPEG-4 "wikilink")
+  - [mpeg4](../Page/MPEG-4.md "wikilink")
   - [H.264](https://ko.wikipedia.org/wiki/H.264 "wikilink")
   - [H.263](../Page/H.263.md "wikilink")
   - [DivX HD](https://ko.wikipedia.org/wiki/DivX_HD "wikilink")/ [XviD](https://ko.wikipedia.org/wiki/XviD "wikilink")
@@ -66,7 +66,7 @@ LG 137펌웨어 (2013년 8월 18일 기준 최신 펌웨어)를 기반으로 제
 
 <!-- end list -->
 
-  - [MPEG-4](https://ko.wikipedia.org/wiki/MPEG-4 "wikilink")
+  - [MPEG-4](../Page/MPEG-4.md "wikilink")
   - [WMV](https://ko.wikipedia.org/wiki/윈도_미디어_비디오 "wikilink") ([ASF](https://ko.wikipedia.org/wiki/능동_스트리밍_포맷 "wikilink"))
   - [AVI](https://ko.wikipedia.org/wiki/오디오_비디오_인터리빙 "wikilink") ([divx](https://ko.wikipedia.org/wiki/divx "wikilink"))
   - [MKV](https://ko.wikipedia.org/wiki/MKV "wikilink")

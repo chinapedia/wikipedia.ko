@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PGA ](https://ko.wikipedia.org/wiki/PGA_).
 
 
-**PGA 투어**(PGA TOUR)는 미국 [프로 골프 투어의](https://ko.wikipedia.org/wiki/프로_골프_투어 "wikilink") 주관 단체이다. 본사는 [잭슨빌](../Page/잭슨빌.md "wikilink")의 근교 [플로리다주](https://ko.wikipedia.org/wiki/플로리다주 "wikilink") [폰테 베드라 비치에](https://ko.wikipedia.org/wiki/폰테_베드라_비치 "wikilink") 위치해 있다.
+**PGA 투어**(PGA TOUR)는 미국 [프로 골프 투어의](https://ko.wikipedia.org/wiki/프로_골프_투어 "wikilink") 주관 단체이다. 본사는 [잭슨빌](../Page/잭슨빌.md "wikilink")의 근교 [플로리다주](../Page/플로리다주.md "wikilink") [폰테 베드라 비치에](https://ko.wikipedia.org/wiki/폰테_베드라_비치 "wikilink") 위치해 있다.
 
 본래는 [미국 프로 골퍼 협회가](https://ko.wikipedia.org/wiki/미국_프로_골퍼_협회 "wikilink") 설립하였으나 1968년에 토너먼트 골프 선수를 위한 별개의 조직으로 분리되었다.
 

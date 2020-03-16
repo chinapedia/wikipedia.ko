@@ -7,7 +7,7 @@
 
 ### 창단 시기
 
-AFC 리버풀은 2008년 3월 초에 잉글랜드 최상위 리그인 [프리미어 리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 소속 구단 [리버풀 FC](https://ko.wikipedia.org/wiki/리버풀_FC "wikilink") (Liverpool Football Club)의 팬 약 1,000명이 모여 창립한 구단이다.
+AFC 리버풀은 2008년 3월 초에 잉글랜드 최상위 리그인 [프리미어 리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 소속 구단 [리버풀 FC](../Page/리버풀_FC.md "wikilink") (Liverpool Football Club)의 팬 약 1,000명이 모여 창립한 구단이다.
 
 리버풀 FC의 팬들은 계속해서 인상되던 경기 관람 입장권을 구매하는데 여력이 되지 않아 경기 직관의 어려움을 느끼고 그에 대한 좌절감을 느끼던 중 현실의 돌파구로써 구단 창립의 목적을 갖게 되었다. 구단의 창립에 있어서 리버풀 FC에 대항하는 것이 아님을 명확히 하였다.\[3\] (리버풀 FC를 부모, 큰형과 같은 존재라고 생각하며 팬들은 여전히 Liverpool FC를 응원하는 팬들로 이루어져 있다.)
 

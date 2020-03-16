@@ -15,13 +15,13 @@
 
 ### 평일
 
-  - [김승련](https://ko.wikipedia.org/wiki/김승련_\(1967년\) "wikilink") 뉴스이노베이션팀장, 여인선 뉴스이노베이션팀 기자 ( \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink"))
-  - [동정민](https://ko.wikipedia.org/wiki/동정민 "wikilink") 탐사보도팀장, 여인선 뉴스이노베이션팀 기자 ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 23일](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") \~ **현재**)
+  - [김승련](https://ko.wikipedia.org/wiki/김승련_\(1967년\) "wikilink") 뉴스이노베이션팀장, 여인선 뉴스이노베이션팀 기자 ( \~ [2019년](../Page/2019년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink"))
+  - [동정민](https://ko.wikipedia.org/wiki/동정민 "wikilink") 탐사보도팀장, 여인선 뉴스이노베이션팀 기자 ([2019년](../Page/2019년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ **현재**)
 
 ### 주말
 
-  - [김윤수](https://ko.wikipedia.org/wiki/김윤수 "wikilink") 경제산업부 기자, [정하니](https://ko.wikipedia.org/wiki/정하니 "wikilink") 보도제작팀 기자 ( \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 22일](https://ko.wikipedia.org/wiki/9월_22일 "wikilink"))
-  - [조수빈](../Page/조수빈.md "wikilink") 아나운서 ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") \~ **현재**)
+  - [김윤수](https://ko.wikipedia.org/wiki/김윤수 "wikilink") 경제산업부 기자, [정하니](https://ko.wikipedia.org/wiki/정하니 "wikilink") 보도제작팀 기자 ( \~ [2019년](../Page/2019년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink"))
+  - [조수빈](../Page/조수빈.md "wikilink") 아나운서 ([2019년](../Page/2019년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") \~ **현재**)
 
 ## 스포츠A
 

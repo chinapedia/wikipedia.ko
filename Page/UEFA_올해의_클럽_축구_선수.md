@@ -22,12 +22,12 @@
 <tr class="even">
 <td><p>1998-99</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/데이비드_베컴" title="wikilink">데이비드 베컴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999-00</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페르난도_레돈도" title="wikilink">페르난도 레돈도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/페르난도_레돈도.md" title="wikilink">페르난도 레돈도</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2000-01</p></td>
@@ -37,12 +37,12 @@
 <tr class="odd">
 <td><p>2001-02</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/지네딘_지단" title="wikilink">지네딘 지단</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_마드리드_CF" title="wikilink">레알 마드리드</a></p></td>
+<td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002-03</p></td>
 <td><p><a href="../Page/잔루이지_부폰.md" title="wikilink">잔루이지 부폰</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2003-04</p></td>
@@ -52,7 +52,7 @@
 <tr class="even">
 <td><p>2004-05</p></td>
 <td><p><a href="../Page/스티븐_제라드.md" title="wikilink">스티븐 제라드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리버풀_FC" title="wikilink">리버풀</a></p></td>
+<td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005-06</p></td>
@@ -67,11 +67,11 @@
 <tr class="odd">
 <td><p>2007-08</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크리스티아누_호날두" title="wikilink">크리스티아누 호날두</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC" title="wikilink">맨체스터 유나이티드</a></p></td>
+<td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008-09</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 </tr>
 <tr class="odd">

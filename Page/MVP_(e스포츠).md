@@ -1,37 +1,37 @@
 > This article is converted from Wikipedia: [MVP \(e\)](https://ko.wikipedia.org/wiki/MVP_\(e\)).
 
 
-**MVP**(Most Valuable Player)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [카운터-스트라이크: 글로벌 오펜시브](../Page/카운터-스트라이크:_글로벌_오펜시브.md "wikilink"), 왕자영요, APEX 레전드 프로게임단이다. 이전에는 [스타크래프트 II와](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [히어로즈 오브 더 스톰](../Page/히어로즈_오브_더_스톰.md "wikilink"), [오버워치](../Page/오버워치.md "wikilink"), [도타 2](../Page/도타_2.md "wikilink"), [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") 프로게임단을 운영했다.
+**MVP**(Most Valuable Player)는 [대한민국](../Page/대한민국.md "wikilink")의 [카운터-스트라이크: 글로벌 오펜시브](../Page/카운터-스트라이크:_글로벌_오펜시브.md "wikilink"), 왕자영요, APEX 레전드 프로게임단이다. 이전에는 [스타크래프트 II와](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [히어로즈 오브 더 스톰](../Page/히어로즈_오브_더_스톰.md "wikilink"), [오버워치](../Page/오버워치.md "wikilink"), [도타 2](../Page/도타_2.md "wikilink"), [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") 프로게임단을 운영했다.
 
 ## 역사
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink") 스타크래프트 II 프로게임단인 MVP 팀을 창단하였다.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 스타크래프트 II 협의회에 정식 승인을 받았다.
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [5월 7일](https://ko.wikipedia.org/wiki/5월_7일 "wikilink") 리그 오브 레전드 팀을 창단하였다. Blue, White, Red 세 팀으로 팀을 만들었으나 이후 국내 대회 규정 문제로 2012년 9월 3일 MVP Red를 해체하게 된다.
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink") OZONE GAMING과의 스폰서 계약을 체결, MVP White는 이후의 대회에 MVP Ozone이라는 이름으로 활동하게 되었다.
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") [e스포츠연맹](https://ko.wikipedia.org/wiki/e스포츠연맹 "wikilink")을 탈퇴했다.
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 도타 2 팀을 창단하였다. (MVP 피닉스, MVP HOT6)
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") [삼성 갤럭시에](../Page/삼성_갤럭시_\(e스포츠\).md "wikilink") 리그 오브 레전드 팀인 MVP 오존과 MVP 블루를 매각했다. 기존의 MVP팀 감독이었던 최윤상이 삼성 갤럭시의 리그 오브 레전드 종목의 감독을 맡게 되면서 팀을 떠나게 되었으며, 이전까지 MVP의 리그 오브 레전드 및 도타2 종목 감독이었던 임현석이 MVP 팀의 총감독을 맡게 되었다.
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") [스베누 코리아](https://ko.wikipedia.org/wiki/스베누_코리아 "wikilink"), [킹존 드래곤X](https://ko.wikipedia.org/wiki/킹존_드래곤X "wikilink"), [브리온 블레이드와](https://ko.wikipedia.org/wiki/브리온_블레이드 "wikilink") 함께 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")에 가입했다.
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") MVP 피닉스(도타2) NSL 시즌2 우승
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") MVP 피닉스(도타2) 코리아 도타2 리그 시즌1 준우승
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink") MVP 피닉스(도타2) 코리아 도타2 리그 시즌2 우승
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") MVP 게임단 스타크래프트 II 종목 대규모 리빌딩 진행. 기존 선수들과 모두 결별하고 [이형섭](../Page/이형섭.md "wikilink")을 감독으로, [최재성](https://ko.wikipedia.org/wiki/최재성_\(프로게이머\) "wikilink"), [강동현](https://ko.wikipedia.org/wiki/강동현 "wikilink"), [황강호](../Page/황강호.md "wikilink"), [최용화](https://ko.wikipedia.org/wiki/최용화 "wikilink")를 선수로 영입.\[1\]
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 히어로즈 오브 더 스톰 팀을 창단하였다. (MVP 블랙, MVP 브라운. 이후 MVP 브라운이 MVP SKY로 팀명 변경)
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") MVP HOT6, 도타2 디 인터내셔널 2015(TI5) 본선 진출 성공. (대한민국 프로게임단 최초)
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 27일](https://ko.wikipedia.org/wiki/7월_27일 "wikilink") MVP 피닉스, 도타2 디 인터내셔널 2015(TI5) 본선 진출 성공.
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink") 리그 오브 레전드 팀 재창단 발표.
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") [IB 스포츠와](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink") 업무계약 체결.
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") MVP 스타크래프트 II 팀, 치킨마루와 네이밍 스폰서 계약 체결. (MVP 치킨마루)
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 카운터-스트라이크: 글로벌 오펜시브 팀 창단 발표 (MVP Project)
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink") 2015 대한민국 e스포츠 대상 우수 해외 활동상 수상 (MVP 피닉스)
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") DXRACER와 게이밍 체어 스폰서쉽 체결
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 23일](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") 중국 최대 게임-토너먼트 콘텐츠 제작사 ImbaTV와 MOU 체결
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 카운터-스트라이크: 글로벌 오펜시브 2팀 창단 발표 (MVP PK)
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 19일](https://ko.wikipedia.org/wiki/10월_19일 "wikilink") MVP 스타크래프트 II 팀 해체
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") MVP 히어로즈 오브 더 스톰 프로게임단 [Gen.G e스포츠에](../Page/Gen.G_e스포츠.md "wikilink") 인수되면서 해체
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") MVP 리그 오브 레전드 프로게임단 해체
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") MVP 배틀그라운드 프로게임단 해체
+  - [2010년](../Page/2010년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") 스타크래프트 II 프로게임단인 MVP 팀을 창단하였다.
+  - [2010년](../Page/2010년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") 스타크래프트 II 협의회에 정식 승인을 받았다.
+  - [2012년](../Page/2012년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink") 리그 오브 레전드 팀을 창단하였다. Blue, White, Red 세 팀으로 팀을 만들었으나 이후 국내 대회 규정 문제로 2012년 9월 3일 MVP Red를 해체하게 된다.
+  - [2013년](../Page/2013년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") OZONE GAMING과의 스폰서 계약을 체결, MVP White는 이후의 대회에 MVP Ozone이라는 이름으로 활동하게 되었다.
+  - [2013년](../Page/2013년.md "wikilink") [8월](../Page/8월.md "wikilink") [e스포츠연맹](https://ko.wikipedia.org/wiki/e스포츠연맹 "wikilink")을 탈퇴했다.
+  - [2013년](../Page/2013년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 도타 2 팀을 창단하였다. (MVP 피닉스, MVP HOT6)
+  - [2013년](../Page/2013년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") [삼성 갤럭시에](../Page/삼성_갤럭시_\(e스포츠\).md "wikilink") 리그 오브 레전드 팀인 MVP 오존과 MVP 블루를 매각했다. 기존의 MVP팀 감독이었던 최윤상이 삼성 갤럭시의 리그 오브 레전드 종목의 감독을 맡게 되면서 팀을 떠나게 되었으며, 이전까지 MVP의 리그 오브 레전드 및 도타2 종목 감독이었던 임현석이 MVP 팀의 총감독을 맡게 되었다.
+  - [2013년](../Page/2013년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") [스베누 코리아](https://ko.wikipedia.org/wiki/스베누_코리아 "wikilink"), [킹존 드래곤X](https://ko.wikipedia.org/wiki/킹존_드래곤X "wikilink"), [브리온 블레이드와](../Page/브리온_블레이드.md "wikilink") 함께 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")에 가입했다.
+  - [2013년](../Page/2013년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") MVP 피닉스(도타2) NSL 시즌2 우승
+  - [2014년](../Page/2014년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") MVP 피닉스(도타2) 코리아 도타2 리그 시즌1 준우승
+  - [2014년](../Page/2014년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") MVP 피닉스(도타2) 코리아 도타2 리그 시즌2 우승
+  - [2014년](../Page/2014년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") MVP 게임단 스타크래프트 II 종목 대규모 리빌딩 진행. 기존 선수들과 모두 결별하고 [이형섭](../Page/이형섭.md "wikilink")을 감독으로, [최재성](https://ko.wikipedia.org/wiki/최재성_\(프로게이머\) "wikilink"), [강동현](../Page/강동현.md "wikilink"), [황강호](../Page/황강호.md "wikilink"), [최용화](../Page/최용화.md "wikilink")를 선수로 영입.\[1\]
+  - [2015년](../Page/2015년.md "wikilink") [4월](../Page/4월.md "wikilink") 히어로즈 오브 더 스톰 팀을 창단하였다. (MVP 블랙, MVP 브라운. 이후 MVP 브라운이 MVP SKY로 팀명 변경)
+  - [2015년](../Page/2015년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") MVP HOT6, 도타2 디 인터내셔널 2015(TI5) 본선 진출 성공. (대한민국 프로게임단 최초)
+  - [2015년](../Page/2015년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") MVP 피닉스, 도타2 디 인터내셔널 2015(TI5) 본선 진출 성공.
+  - [2015년](../Page/2015년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") 리그 오브 레전드 팀 재창단 발표.
+  - [2015년](../Page/2015년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") [IB 스포츠와](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink") 업무계약 체결.
+  - [2015년](../Page/2015년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") MVP 스타크래프트 II 팀, 치킨마루와 네이밍 스폰서 계약 체결. (MVP 치킨마루)
+  - [2015년](../Page/2015년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") 카운터-스트라이크: 글로벌 오펜시브 팀 창단 발표 (MVP Project)
+  - [2015년](../Page/2015년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink") 2015 대한민국 e스포츠 대상 우수 해외 활동상 수상 (MVP 피닉스)
+  - [2016년](../Page/2016년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") DXRACER와 게이밍 체어 스폰서쉽 체결
+  - [2016년](../Page/2016년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") 중국 최대 게임-토너먼트 콘텐츠 제작사 ImbaTV와 MOU 체결
+  - [2016년](../Page/2016년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") 카운터-스트라이크: 글로벌 오펜시브 2팀 창단 발표 (MVP PK)
+  - [2016년](../Page/2016년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") MVP 스타크래프트 II 팀 해체
+  - [2017년](../Page/2017년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") MVP 히어로즈 오브 더 스톰 프로게임단 [Gen.G e스포츠에](../Page/Gen.G_e스포츠.md "wikilink") 인수되면서 해체
+  - [2019년](../Page/2019년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") MVP 리그 오브 레전드 프로게임단 해체
+  - [2019년](../Page/2019년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") MVP 배틀그라운드 프로게임단 해체
 
 ## 주요 종목
 
@@ -43,18 +43,18 @@
 
 ### 스타크래프트 II
 
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink") [글로벌 스타크래프트 II 팀 리그 May](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_팀_리그_May "wikilink") 준우승
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") IPL Team Arena Challenge 1 3위
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") **[2011 글로벌 스타크래프트 II 팀 리그 시즌 1](../Page/2011_글로벌_스타크래프트_II_팀_리그_시즌_1.md "wikilink") 우승**
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") IPL Team Arena Challenge 3 6강
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") IPTL Season 1 4강
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") [핫식스 글로벌 스타크래프트 II 팀 리그 시즌 3](https://ko.wikipedia.org/wiki/핫식스_글로벌_스타크래프트_II_팀_리그_시즌_3 "wikilink") 준우승
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 2013 IPTL Season 1 우승
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") [2013 벤큐 글로벌 스타크래프트 II 팀 리그 시즌 1](https://ko.wikipedia.org/wiki/2013_벤큐_글로벌_스타크래프트_II_팀_리그_시즌_1 "wikilink") 준우승
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") Acer TeamStory Cup 우승
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [SK텔레콤 스타크래프트 II 프로리그 2014](../Page/SK텔레콤_스타크래프트_II_프로리그_2014.md "wikilink") 7위
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [SK텔레콤 스타크래프트 II 프로리그 2015](../Page/SK텔레콤_스타크래프트_II_프로리그_2015.md "wikilink") 7위
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [SK텔레콤 스타크래프트 II 프로리그 2016](../Page/SK텔레콤_스타크래프트_II_프로리그_2016.md "wikilink") 7위
+  - [2011년](../Page/2011년.md "wikilink") [5월](../Page/5월.md "wikilink") [글로벌 스타크래프트 II 팀 리그 May](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_팀_리그_May "wikilink") 준우승
+  - [2011년](../Page/2011년.md "wikilink") [12월](../Page/12월.md "wikilink") IPL Team Arena Challenge 1 3위
+  - [2011년](../Page/2011년.md "wikilink") [10월](../Page/10월.md "wikilink") **[2011 글로벌 스타크래프트 II 팀 리그 시즌 1](../Page/2011_글로벌_스타크래프트_II_팀_리그_시즌_1.md "wikilink") 우승**
+  - [2012년](../Page/2012년.md "wikilink") [8월](../Page/8월.md "wikilink") IPL Team Arena Challenge 3 6강
+  - [2012년](../Page/2012년.md "wikilink") [11월](../Page/11월.md "wikilink") IPTL Season 1 4강
+  - [2012년](../Page/2012년.md "wikilink") [12월](../Page/12월.md "wikilink") [핫식스 글로벌 스타크래프트 II 팀 리그 시즌 3](../Page/핫식스_글로벌_스타크래프트_II_팀_리그_시즌_3.md "wikilink") 준우승
+  - [2013년](../Page/2013년.md "wikilink") [3월](../Page/3월.md "wikilink") 2013 IPTL Season 1 우승
+  - [2013년](../Page/2013년.md "wikilink") [7월](../Page/7월.md "wikilink") [2013 벤큐 글로벌 스타크래프트 II 팀 리그 시즌 1](https://ko.wikipedia.org/wiki/2013_벤큐_글로벌_스타크래프트_II_팀_리그_시즌_1 "wikilink") 준우승
+  - [2013년](../Page/2013년.md "wikilink") [8월](../Page/8월.md "wikilink") Acer TeamStory Cup 우승
+  - [2014년](../Page/2014년.md "wikilink") [SK텔레콤 스타크래프트 II 프로리그 2014](../Page/SK텔레콤_스타크래프트_II_프로리그_2014.md "wikilink") 7위
+  - [2015년](../Page/2015년.md "wikilink") [SK텔레콤 스타크래프트 II 프로리그 2015](../Page/SK텔레콤_스타크래프트_II_프로리그_2015.md "wikilink") 7위
+  - [2016년](../Page/2016년.md "wikilink") [SK텔레콤 스타크래프트 II 프로리그 2016](../Page/SK텔레콤_스타크래프트_II_프로리그_2016.md "wikilink") 7위
 
 ### 리그 오브 레전드
 

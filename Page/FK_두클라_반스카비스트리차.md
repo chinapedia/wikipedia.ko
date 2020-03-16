@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
 
 
-**FK 두클라 반스카비스트리차**()는 [반스카비스트리차](https://ko.wikipedia.org/wiki/반스카비스트리차 "wikilink")를 연고로 하는 [슬로바키아](https://ko.wikipedia.org/wiki/슬로바키아 "wikilink")의 축구 클럽이다.
+**FK 두클라 반스카비스트리차**()는 [반스카비스트리차](../Page/반스카비스트리차.md "wikilink")를 연고로 하는 [슬로바키아](../Page/슬로바키아.md "wikilink")의 축구 클럽이다.
 
 ## 역사
 

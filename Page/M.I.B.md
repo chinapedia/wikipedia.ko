@@ -11,7 +11,7 @@
 | **너부터 잘해**            |
 | **치사 Bounce**         |
 
-**M.I.B**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 남성 4인조 힙합그룹으로 [정글엔터테인먼트](https://ko.wikipedia.org/wiki/정글엔터테인먼트 "wikilink") 소속이었다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 을 통해 싱글 "[Most Incredible Busters](https://ko.wikipedia.org/wiki/Most_Incredible_Busters "wikilink")"를 발매하여 데뷔했다. 이후 M.I.B는 2011년과 2012년에 걸쳐 "[Most Incredible Busters](https://ko.wikipedia.org/wiki/Most_Incredible_Busters "wikilink")" 히트를 기록했다. 2013년 4월 10일에 "[Money In the Buliding](https://ko.wikipedia.org/wiki/Money_In_the_Buliding "wikilink")"을 발매했고, 같은해 7월 5일 "[Men In Back](https://ko.wikipedia.org/wiki/Men_In_Back "wikilink")"를 발매했다. 2017년 1월 4일, 소속사에서 해체를 발표하였다.\[1\]
+**M.I.B**는 [대한민국](../Page/대한민국.md "wikilink")의 남성 4인조 힙합그룹으로 [정글엔터테인먼트](https://ko.wikipedia.org/wiki/정글엔터테인먼트 "wikilink") 소속이었다. [2011년](../Page/2011년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 을 통해 싱글 "[Most Incredible Busters](https://ko.wikipedia.org/wiki/Most_Incredible_Busters "wikilink")"를 발매하여 데뷔했다. 이후 M.I.B는 2011년과 2012년에 걸쳐 "[Most Incredible Busters](https://ko.wikipedia.org/wiki/Most_Incredible_Busters "wikilink")" 히트를 기록했다. 2013년 4월 10일에 "[Money In the Buliding](https://ko.wikipedia.org/wiki/Money_In_the_Buliding "wikilink")"을 발매했고, 같은해 7월 5일 "[Men In Back](https://ko.wikipedia.org/wiki/Men_In_Back "wikilink")"를 발매했다. 2017년 1월 4일, 소속사에서 해체를 발표하였다.\[1\]
 
 ## 활동 내용
 
@@ -19,7 +19,7 @@
 
 ### 데뷔와 *GDM*
 
-M.I.B는 데뷔 전부터 각 멤버들의 이력과 실력들이 온라인 상에서 화제가 되며 실시간 검색어 1위까지 오르고, 미국에서 미니 공연으로 독특한 실력을 뽐냈다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 27일에는](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")에서 데뷔 무대를 가졌다. MIB는 데뷔 무대 이후 "GDM"의 뮤직 비디오도 공개하였는데 조회수가 10만건 넘었다. 이는 신인 힙합가수로서는 매우 폭발적인 수치였다. MIB는 음악방송에 출연할 때마다 실시간 검색어 순위에 1위에 오르는 등 신인답지 않은 무대매너와 랩으로 많은 관심을 받았으며, 이후 멤버들이 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 음악 프로그램인 [MUST](https://ko.wikipedia.org/wiki/MUST "wikilink")에 출연하게 되어 소위 '강한남자' 컨셉으로 많은 인기를 얻게 된다.
+M.I.B는 데뷔 전부터 각 멤버들의 이력과 실력들이 온라인 상에서 화제가 되며 실시간 검색어 1위까지 오르고, 미국에서 미니 공연으로 독특한 실력을 뽐냈다. [2011년](../Page/2011년.md "wikilink") [10월 27일에는](../Page/10월_27일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")에서 데뷔 무대를 가졌다. MIB는 데뷔 무대 이후 "GDM"의 뮤직 비디오도 공개하였는데 조회수가 10만건 넘었다. 이는 신인 힙합가수로서는 매우 폭발적인 수치였다. MIB는 음악방송에 출연할 때마다 실시간 검색어 순위에 1위에 오르는 등 신인답지 않은 무대매너와 랩으로 많은 관심을 받았으며, 이후 멤버들이 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 음악 프로그램인 [MUST](https://ko.wikipedia.org/wiki/MUST "wikilink")에 출연하게 되어 소위 '강한남자' 컨셉으로 많은 인기를 얻게 된다.
 
 ## 이전 구성원
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [91 Myself Tour](https://ko.wikipedia.org/wiki/91_Myself_Tour).
 
 
-**《'91 SHIN HAE CHUL Myself Tour》**는 [신해철](https://ko.wikipedia.org/wiki/신해철 "wikilink")의 첫 라이브 앨범으로, 1991년 전국 투어 공연인 〈Myself〉투어의 라이브를 수록했다.
+**《'91 SHIN HAE CHUL Myself Tour》**는 [신해철](../Page/신해철.md "wikilink")의 첫 라이브 앨범으로, 1991년 전국 투어 공연인 〈Myself〉투어의 라이브를 수록했다.
 
 ## 수록곡
 
@@ -17,11 +17,11 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/신해철" title="wikilink">신해철</a> - <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>, 컴퓨터 프로그래밍, <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a></li>
+<li><a href="../Page/신해철.md" title="wikilink">신해철</a> - <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>, 컴퓨터 프로그래밍, <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a></li>
 <li>정기송 - 전기 기타</li>
-<li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
+<li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
 <li>이동규 - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
-<li>장기순 - <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>, <a href="https://ko.wikipedia.org/wiki/신시사이저" title="wikilink">신시사이저</a></li>
+<li>장기순 - <a href="../Page/피아노.md" title="wikilink">피아노</a>, <a href="../Page/신시사이저.md" title="wikilink">신시사이저</a></li>
 <li>박진원 - 신시사이저</li>
 <li>이정식 - <a href="https://ko.wikipedia.org/wiki/섹소폰" title="wikilink">섹소폰</a></li>
 <li>성지훈 - 공동 프로듀서, 녹음, 컴퓨터 프로그래밍, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a></li>
@@ -43,7 +43,7 @@
 <li>Little 조 헤어클럽 - 헤어스타일</li>
 <li>Caruso(장광효) - 패션 스타일리스트</li>
 <li>구용범 - 커버 사진</li>
-<li>TAG, 김정원 - <a href="https://ko.wikipedia.org/wiki/디자인" title="wikilink">디자인</a></li>
+<li>TAG, 김정원 - <a href="../Page/디자인.md" title="wikilink">디자인</a></li>
 </ul></td>
 </tr>
 </tbody>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UTURN](https://ko.wikipedia.org/wiki/UTURN).
 
 
-《**U－TURN**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [김사랑의](../Page/김사랑_\(가수\).md "wikilink") 세 번째 정규앨범이다. 군 제대후 발표한 복귀작이기도 하다.
+《**U－TURN**》은 [대한민국](../Page/대한민국.md "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [김사랑의](../Page/김사랑_\(가수\).md "wikilink") 세 번째 정규앨범이다. 군 제대후 발표한 복귀작이기도 하다.
 
 ## 수록곡
 

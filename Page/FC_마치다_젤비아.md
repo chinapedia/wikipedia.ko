@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**풋볼 클럽 마치다 젤비아**()는 [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink"), [마치다 시에](https://ko.wikipedia.org/wiki/마치다_시 "wikilink") 위치한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 팀명은 마치다 시의 상징인 [느티나무](https://ko.wikipedia.org/wiki/느티나무 "wikilink")를 뜻하는 'zelkova'와 [샐비어](https://ko.wikipedia.org/wiki/샐비어 "wikilink")를 뜻하는 'salvia'의 합성어이다.
+**풋볼 클럽 마치다 젤비아**()는 [도쿄도](../Page/도쿄도.md "wikilink"), [마치다 시에](https://ko.wikipedia.org/wiki/마치다_시 "wikilink") 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 팀명은 마치다 시의 상징인 [느티나무](../Page/느티나무.md "wikilink")를 뜻하는 'zelkova'와 [샐비어](../Page/샐비어.md "wikilink")를 뜻하는 'salvia'의 합성어이다.
 
 ## 우승 기록
 
@@ -15,7 +15,7 @@
 
   - [정한철](https://ko.wikipedia.org/wiki/정한철_\(축구_선수\) "wikilink")
 
-  - [리한재](https://ko.wikipedia.org/wiki/리한재 "wikilink")
+  - [리한재](../Page/리한재.md "wikilink")
 
 ## 외부 링크
 

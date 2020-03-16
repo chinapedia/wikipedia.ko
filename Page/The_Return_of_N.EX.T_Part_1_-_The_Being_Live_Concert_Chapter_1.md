@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Return of N.EX.T Part 1 - The Being Live Concert Chapter 1](https://ko.wikipedia.org/wiki/The_Return_of_N.EX.T_Part_1_-_The_Being_Live_Concert_Chapter_1).
 
 
-**《The Return of N.EX.T Part 1 - The Being Live Concert Chapter 1》**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [N.EX.T](https://ko.wikipedia.org/wiki/N.EX.T "wikilink")의 첫 라이브 실황 더블앨범 중 첫 번째 파트인 앨범이다.
+**《The Return of N.EX.T Part 1 - The Being Live Concert Chapter 1》**은 [대한민국](../Page/대한민국.md "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [N.EX.T](../Page/N.EX.T.md "wikilink")의 첫 라이브 실황 더블앨범 중 첫 번째 파트인 앨범이다.
 
 1995년 2월 4일 서울 한국종합전시장과 3월 12일 부산 구덕체육관에서 있었던 공연 실황을 담았으며, [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink") [김세황](../Page/김세황.md "wikilink")과 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink") [김영석이](../Page/김영석_\(음악가\).md "wikilink") 넥스트의 멤버가 된 이후의 첫 라이브 음반이다.
 
@@ -23,17 +23,17 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/신해철" title="wikilink">신해철</a> - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">키보드</a></li>
+<li><a href="../Page/신해철.md" title="wikilink">신해철</a> - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">키보드</a></li>
 <li><a href="../Page/이수용_(드러머).md" title="wikilink">이수용</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
-<li><a href="../Page/김세황.md" title="wikilink">김세황</a> - <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a></li>
-<li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
+<li><a href="../Page/김세황.md" title="wikilink">김세황</a> - <a href="../Page/기타.md" title="wikilink">기타</a></li>
+<li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
 </ul>
 <dl>
 <dt>무대 스탭</dt>
 
 </dl>
 <ul>
-<li>최광일, 두비컴 - 공연 연출(<a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a>)</li>
+<li>최광일, 두비컴 - 공연 연출(<a href="../Page/서울특별시.md" title="wikilink">서울특별시</a>)</li>
 <li>이성민, 김영훈 - 공연 연출(<a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산광역시</a>)</li>
 <li>김창환, 김현숙(5세기 고구려) - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, 일정</li>
 <li>나병철, 이용갑, 박상교, 이한교, 유해승(대원개발) - 무대 설치(서울)</li>
@@ -46,7 +46,7 @@
 <li>이상용, 조규범 - 무대 녹음</li>
 <li>문승욱, 정찬우, 우길택, 고경주, 최용을, 김홍규(프러그) - 특수 효과(서울)</li>
 <li>장복만(Q) - 특수 효과(부산)</li>
-<li>김운환, 김종군(아시아테크) - <a href="https://ko.wikipedia.org/wiki/레이저" title="wikilink">레이저</a> 효과</li>
+<li>김운환, 김종군(아시아테크) - <a href="../Page/레이저.md" title="wikilink">레이저</a> 효과</li>
 <li>정광식, 정명종, 정동현(SUN 악기) - 악기 세팅</li>
 <li>정순용 - 기타 테크니션</li>
 <li>정중한 - 베이스 테크니션</li>

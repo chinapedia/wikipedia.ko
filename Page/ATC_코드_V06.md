@@ -20,7 +20,7 @@
 
 ## V06D 기타 영양소
 
-### V06DA [탄수화물](https://ko.wikipedia.org/wiki/탄수화물 "wikilink")/[단백질](https://ko.wikipedia.org/wiki/단백질 "wikilink")/[무기질](https://ko.wikipedia.org/wiki/무기질 "wikilink")/[비타민](https://ko.wikipedia.org/wiki/비타민 "wikilink")의 조합
+### V06DA [탄수화물](../Page/탄수화물.md "wikilink")/[단백질](../Page/단백질.md "wikilink")/[무기질](../Page/무기질.md "wikilink")/[비타민](../Page/비타민.md "wikilink")의 조합
 
 ### V06DB 지방/탄수화물/단백질/무기질/비타민의 조합
 

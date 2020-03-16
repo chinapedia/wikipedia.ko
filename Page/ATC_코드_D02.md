@@ -25,7 +25,7 @@
 
 ### D02AX 기타 피부 연화제 및 보호제
 
-## D02B [자외선](https://ko.wikipedia.org/wiki/자외선 "wikilink") 차단제
+## D02B [자외선](../Page/자외선.md "wikilink") 차단제
 
 ### D02BA 국소사용 자외선 차단제
 

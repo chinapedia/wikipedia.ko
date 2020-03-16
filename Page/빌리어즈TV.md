@@ -9,13 +9,13 @@
 
 ## 연혁
 
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink"): IPTV 최초 스포츠 채널 스포츠원으로 개국.
+  - [2009년](../Page/2009년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink"): IPTV 최초 스포츠 채널 스포츠원으로 개국.
   - [2010\~11년](https://ko.wikipedia.org/wiki/2010~11년 "wikilink") [분데스리가](../Page/분데스리가.md "wikilink") 맨유티비에 이어 분데스리가 생중계 시작.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") : [KBO리그](https://ko.wikipedia.org/wiki/KBO리그 "wikilink") 생중계 시작.
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink"): [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") 최고의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회 '브라질리그' 중계 시작.
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink"): e스포츠 리그 중계 ([GSL](https://ko.wikipedia.org/wiki/GSL "wikilink"),[GSTL](https://ko.wikipedia.org/wiki/GSTL "wikilink")).
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink"): [당구](https://ko.wikipedia.org/wiki/당구 "wikilink")전문채널 **Billiards TV**로 채널성격과 채널명 변경
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink"): [대한당구연맹 국내 주요 당구대회 중계권 계약](https://ko.wikipedia.org/wiki/대한당구연맹_국내_주요_당구대회_중계권_계약 "wikilink"), [UMB 주요 해외 대회 중계권 계약](https://ko.wikipedia.org/wiki/UMB_주요_해외_대회_중계권_계약 "wikilink")
+  - [2011년](../Page/2011년.md "wikilink") : [KBO리그](https://ko.wikipedia.org/wiki/KBO리그 "wikilink") 생중계 시작.
+  - [2012년](../Page/2012년.md "wikilink"): [브라질](../Page/브라질.md "wikilink") 최고의 [축구](../Page/축구.md "wikilink") 대회 '브라질리그' 중계 시작.
+  - [2013년](../Page/2013년.md "wikilink"): e스포츠 리그 중계 ([GSL](https://ko.wikipedia.org/wiki/GSL "wikilink"),[GSTL](https://ko.wikipedia.org/wiki/GSTL "wikilink")).
+  - [2014년](../Page/2014년.md "wikilink"): [당구](../Page/당구.md "wikilink")전문채널 **Billiards TV**로 채널성격과 채널명 변경
+  - [2015년](../Page/2015년.md "wikilink"): [대한당구연맹 국내 주요 당구대회 중계권 계약](https://ko.wikipedia.org/wiki/대한당구연맹_국내_주요_당구대회_중계권_계약 "wikilink"), [UMB 주요 해외 대회 중계권 계약](https://ko.wikipedia.org/wiki/UMB_주요_해외_대회_중계권_계약 "wikilink")
 
 ## 채널 번호
 

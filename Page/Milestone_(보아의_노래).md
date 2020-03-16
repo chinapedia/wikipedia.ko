@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Milestone \( \)](https://ko.wikipedia.org/wiki/Milestone_\(_\)).
 
 
-《**Milestone**》은 [한국](https://ko.wikipedia.org/wiki/한국 "wikilink") 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 31번째 싱글이자 첫번째 DVD싱글이다. [WOO WEEKEND](../Page/WOO_WEEKEND.md "wikilink") 이후 1년만에 발표한 싱글로, 뿐만 아니라 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 일본데뷔 10주년을 기념하는 첫 번째 공식적 활동이 되는 싱글이다. 타이틀곡인 Milestone은 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 모델로 활동하는 [오디오 테크니카의](https://ko.wikipedia.org/wiki/오디오_테크니카 "wikilink") CM송으로도 사용되었다. 뿐만 아니라 이전에 [오디오 테크니카의](https://ko.wikipedia.org/wiki/오디오_테크니카 "wikilink") CM송으로 채용된 적이 있는 두 곡, 전자음원 [I SEE ME와](https://ko.wikipedia.org/wiki/I_SEE_ME "wikilink") [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 넘버원 겨울 싱글인 [メリクリ의](../Page/메리크리.md "wikilink") [BEST\&USA](https://ko.wikipedia.org/wiki/BEST&USA "wikilink") 편곡 버전을 함께 수록하였다.
+《**Milestone**》은 [한국](../Page/한국.md "wikilink") 가수 [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 31번째 싱글이자 첫번째 DVD싱글이다. [WOO WEEKEND](../Page/WOO_WEEKEND.md "wikilink") 이후 1년만에 발표한 싱글로, 뿐만 아니라 [보아](../Page/보아.md "wikilink")의 일본데뷔 10주년을 기념하는 첫 번째 공식적 활동이 되는 싱글이다. 타이틀곡인 Milestone은 [보아](../Page/보아.md "wikilink")가 모델로 활동하는 [오디오 테크니카의](https://ko.wikipedia.org/wiki/오디오_테크니카 "wikilink") CM송으로도 사용되었다. 뿐만 아니라 이전에 [오디오 테크니카의](https://ko.wikipedia.org/wiki/오디오_테크니카 "wikilink") CM송으로 채용된 적이 있는 두 곡, 전자음원 [I SEE ME와](https://ko.wikipedia.org/wiki/I_SEE_ME "wikilink") [보아](../Page/보아.md "wikilink")의 넘버원 겨울 싱글인 [メリクリ의](../Page/메리크리.md "wikilink") [BEST\&USA](../Page/BEST&USA.md "wikilink") 편곡 버전을 함께 수록하였다.
 
 ## 수록곡
 

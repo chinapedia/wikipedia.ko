@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ EARLY SINGLE BOX](https://ko.wikipedia.org/wiki/_EARLY_SINGLE_BOX).
 
 
-**모닝구무스메 EARLY SINGLE BOX**(, 모닝구무스메 얼리 싱글 박스)는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 15일에](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")의 첫 번째 CD-BOX이다.
+**모닝구무스메 EARLY SINGLE BOX**(, 모닝구무스메 얼리 싱글 박스)는 [2004년](../Page/2004년.md "wikilink") [12월 15일에](../Page/12월_15일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 첫 번째 CD-BOX이다.
 
 ## 개요
 
-인디즈 싱글 [사랑의 씨앗부터](https://ko.wikipedia.org/wiki/아이노_다네 "wikilink") 8번째 싱글 [사랑의 댄스 사이트까지의](https://ko.wikipedia.org/wiki/고이노_댄스사이트 "wikilink") 8[cm](https://ko.wikipedia.org/wiki/센티미터 "wikilink") [CD로](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 발매 한 싱글을 12cm CD(맥시 싱글)의 BOX 형태로 바꾸어 재발매한 것이다. 재발매 즈음하여 각 싱글에 미발표 음원과 북클릿 첨부.
+인디즈 싱글 [사랑의 씨앗부터](https://ko.wikipedia.org/wiki/아이노_다네 "wikilink") 8번째 싱글 [사랑의 댄스 사이트까지의](https://ko.wikipedia.org/wiki/고이노_댄스사이트 "wikilink") 8[cm](https://ko.wikipedia.org/wiki/센티미터 "wikilink") [CD로](../Page/콤팩트_디스크.md "wikilink") 발매 한 싱글을 12cm CD(맥시 싱글)의 BOX 형태로 바꾸어 재발매한 것이다. 재발매 즈음하여 각 싱글에 미발표 음원과 북클릿 첨부.
 
 ## 내용
 

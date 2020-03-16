@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  AFC](https://ko.wikipedia.org/wiki/__AFC).
 
 
-**올덤 애슬레틱 AFC**(Oldham Athletic A.F.C.)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [그레이터맨체스터주](https://ko.wikipedia.org/wiki/그레이터맨체스터주 "wikilink") [올덤](https://ko.wikipedia.org/wiki/올덤 "wikilink")을 연고로 하는 축구 클럽으로, 바운더리 파크를 홈 구장으로 한다.
+**올덤 애슬레틱 AFC**(Oldham Athletic A.F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink") [올덤](https://ko.wikipedia.org/wiki/올덤 "wikilink")을 연고로 하는 축구 클럽으로, 바운더리 파크를 홈 구장으로 한다.
 
 ## 유명 선수
 

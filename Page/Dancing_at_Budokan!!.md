@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Dancing at Budokan!!](https://ko.wikipedia.org/wiki/Dancing_at_Budokan!!).
 
 
-《**Dancing at Budokan\!\!** (댄싱 앳 부도칸)》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")의 2번째 DVD 작품. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 28일에](https://ko.wikipedia.org/wiki/4월_28일 "wikilink") 발매되었다. 전작에서 거의 1년만의 릴리스가된다. DVD 2매조와 CD 2매조의 첫회 완전 생산 한정반, DVD 2매조의 통상반, Blu-ray의 통상반, 3형태로 발매.
+《**Dancing at Budokan\!\!** (댄싱 앳 부도칸)》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")의 2번째 DVD 작품. [2010년](../Page/2010년.md "wikilink") [4월 28일에](../Page/4월_28일.md "wikilink") 발매되었다. 전작에서 거의 1년만의 릴리스가된다. DVD 2매조와 CD 2매조의 첫회 완전 생산 한정반, DVD 2매조의 통상반, Blu-ray의 통상반, 3형태로 발매.
 
 ## 수록곡
 
 ### DISC 1
 
-[2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink") 열린 무도관 라이브 "Superfly 2009 Dancing at Budokan\!\!"의 영상을수록.
+[2009년](../Page/2009년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") 열린 무도관 라이브 "Superfly 2009 Dancing at Budokan\!\!"의 영상을수록.
 
 |    | 곡명                                                                                        |
 | -- | ----------------------------------------------------------------------------------------- |

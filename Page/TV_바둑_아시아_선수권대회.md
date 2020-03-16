@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
 
 
-**TV 바둑 아시아 선수권대회**(TV 바둑 亞細亞 選手權大會,  , 는 [KBS](https://ko.wikipedia.org/wiki/KBS_바둑왕전 "wikilink"), [NHK](https://ko.wikipedia.org/wiki/NHK배 "wikilink") ,[CCTV가](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 삼국이 번갈아가며 교대로 개최하는 [바둑](https://ko.wikipedia.org/wiki/바둑 "wikilink") 국제기전 TV속기 대회이다. 제1회 TV 바둑아시아선수권대회는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") (한국) [NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink")(일본), [CCTV](https://ko.wikipedia.org/wiki/중국중앙방송 "wikilink")(중국) 3개 방송사 공동 주최로 1989년 8월 13일부터 18일까지 일본NHK 스튜디오에서 열렸으며 한중일 3개국 대표로 6명이 출전했다.
+**TV 바둑 아시아 선수권대회**(TV 바둑 亞細亞 選手權大會,  , 는 [KBS](../Page/KBS_바둑왕전.md "wikilink"), [NHK](https://ko.wikipedia.org/wiki/NHK배 "wikilink") ,[CCTV가](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 삼국이 번갈아가며 교대로 개최하는 [바둑](../Page/바둑.md "wikilink") 국제기전 TV속기 대회이다. 제1회 TV 바둑아시아선수권대회는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") (한국) [NHK](../Page/일본방송협회.md "wikilink")(일본), [CCTV](https://ko.wikipedia.org/wiki/중국중앙방송 "wikilink")(중국) 3개 방송사 공동 주최로 1989년 8월 13일부터 18일까지 일본NHK 스튜디오에서 열렸으며 한중일 3개국 대표로 6명이 출전했다.
 
 ## 국제 속기 대국
 
@@ -40,7 +40,7 @@
 <tr class="odd">
 <td><p><a href="../Page/1회_TV_바둑_아시아_선수권대회.md" title="wikilink">1</a></p></td>
 <td><p><a href="../Page/1회_TV_바둑_아시아_선수권대회.md" title="wikilink">1989</a></p></td>
-<td><p>도쿄 <a href="https://ko.wikipedia.org/wiki/일본방송협회" title="wikilink">NHK</a> 방송국</p></td>
+<td><p>도쿄 <a href="../Page/일본방송협회.md" title="wikilink">NHK</a> 방송국</p></td>
 <td><p><strong><a href="../Page/다케미야_마사키.md" title="wikilink">다케미야 마사키</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
 <td><p><a href="../Page/고바야시_사토루.md" title="wikilink">고바야시 사토루</a> 九단</p></td>
@@ -48,7 +48,7 @@
 <tr class="even">
 <td><p><a href="../Page/2회_TV_바둑_아시아_선수권대회.md" title="wikilink">2</a></p></td>
 <td><p><a href="../Page/2회_TV_바둑_아시아_선수권대회.md" title="wikilink">1990</a></p></td>
-<td><p>도쿄 <a href="https://ko.wikipedia.org/wiki/일본방송협회" title="wikilink">NHK</a> 방송국</p></td>
+<td><p>도쿄 <a href="../Page/일본방송협회.md" title="wikilink">NHK</a> 방송국</p></td>
 <td><p><strong><a href="../Page/다케미야_마사키.md" title="wikilink">다케미야 마사키</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이창호_(바둑_기사)" title="wikilink">이창호</a> 四단</p></td>
@@ -64,10 +64,10 @@
 <tr class="even">
 <td><p><a href="../Page/4회_TV_바둑_아시아_선수권대회.md" title="wikilink">4</a></p></td>
 <td><p><a href="../Page/4회_TV_바둑_아시아_선수권대회.md" title="wikilink">1992</a></p></td>
-<td><p>도쿄 <a href="https://ko.wikipedia.org/wiki/일본방송협회" title="wikilink">NHK</a> 방송국</p></td>
+<td><p>도쿄 <a href="../Page/일본방송협회.md" title="wikilink">NHK</a> 방송국</p></td>
 <td><p><strong><a href="../Page/다케미야_마사키.md" title="wikilink">다케미야 마사키</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조훈현" title="wikilink">조훈현</a> 九단</p></td>
+<td><p><a href="../Page/조훈현.md" title="wikilink">조훈현</a> 九단</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/5회_TV_바둑_아시아_선수권대회.md" title="wikilink">5</a></p></td>
@@ -91,7 +91,7 @@
 <td><p>지바시 쉐라톤 그랜드 호텔</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/이창호_(바둑_기사)" title="wikilink">이창호</a></strong> 七단</p></td>
 <td><p>1-0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조훈현" title="wikilink">조훈현</a> 九단</p></td>
+<td><p><a href="../Page/조훈현.md" title="wikilink">조훈현</a> 九단</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/8회_TV_바둑_아시아_선수권대회.md" title="wikilink">8</a></p></td>
@@ -129,7 +129,7 @@
 <td><p><a href="../Page/12회_TV_바둑_아시아_선수권대회.md" title="wikilink">12</a></p></td>
 <td><p><a href="../Page/12회_TV_바둑_아시아_선수권대회.md" title="wikilink">2000</a></p></td>
 <td><p>경상북도 경주시 경주현대호텔</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/조훈현" title="wikilink">조훈현</a></strong> 九단</p></td>
+<td><p><strong><a href="../Page/조훈현.md" title="wikilink">조훈현</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이창호_(바둑_기사)" title="wikilink">이창호</a> 九단</p></td>
 </tr>
@@ -137,7 +137,7 @@
 <td><p><a href="../Page/13회_TV_바둑_아시아_선수권대회.md" title="wikilink">13</a></p></td>
 <td><p><a href="../Page/13회_TV_바둑_아시아_선수권대회.md" title="wikilink">2001</a></p></td>
 <td><p>시즈오카현 경제단체연합회 게스트 하우스</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/조훈현" title="wikilink">조훈현</a></strong> 九단</p></td>
+<td><p><strong><a href="../Page/조훈현.md" title="wikilink">조훈현</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
 <td><p><a href="../Page/목진석.md" title="wikilink">목진석</a> 五단</p></td>
 </tr>
@@ -147,7 +147,7 @@
 <td><p>베이징 화룬(華潤) 호텔</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/이창호_(바둑_기사)" title="wikilink">이창호</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조훈현" title="wikilink">조훈현</a> 九단</p></td>
+<td><p><a href="../Page/조훈현.md" title="wikilink">조훈현</a> 九단</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/15회_TV_바둑_아시아_선수권대회.md" title="wikilink">15</a></p></td>
@@ -160,7 +160,7 @@
 <tr class="even">
 <td><p><a href="../Page/16회_TV_바둑_아시아_선수권대회.md" title="wikilink">16</a></p></td>
 <td><p><a href="../Page/16회_TV_바둑_아시아_선수권대회.md" title="wikilink">2004</a></p></td>
-<td><p>도쿄 <a href="https://ko.wikipedia.org/wiki/일본방송협회" title="wikilink">NHK</a> 방송국</p></td>
+<td><p>도쿄 <a href="../Page/일본방송협회.md" title="wikilink">NHK</a> 방송국</p></td>
 <td><p><strong><a href="../Page/위빈_(바둑_기사).md" title="wikilink">위빈</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/송태곤" title="wikilink">송태곤</a> 七단</p></td>
@@ -184,7 +184,7 @@
 <tr class="odd">
 <td><p><a href="../Page/19회_TV_바둑_아시아_선수권대회.md" title="wikilink">19</a></p></td>
 <td><p><a href="../Page/19회_TV_바둑_아시아_선수권대회.md" title="wikilink">2007</a></p></td>
-<td><p>도쿄 <a href="https://ko.wikipedia.org/wiki/일본방송협회" title="wikilink">NHK</a> 방송국</p></td>
+<td><p>도쿄 <a href="../Page/일본방송협회.md" title="wikilink">NHK</a> 방송국</p></td>
 <td><p><strong><a href="../Page/이세돌.md" title="wikilink">이세돌</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
 <td><p><a href="../Page/천야오예.md" title="wikilink">천야오예</a> 五단</p></td>
@@ -201,7 +201,7 @@
 <td><p><a href="../Page/21회_TV_바둑_아시아_선수권대회.md" title="wikilink">21</a></p></td>
 <td><p><a href="../Page/21회_TV_바둑_아시아_선수권대회.md" title="wikilink">2009</a></p></td>
 <td><p>서울 강서구 외발산동 메이필드호텔</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/쿵제" title="wikilink">콩지에</a></strong> 七단</p></td>
+<td><p><strong><a href="../Page/쿵제.md" title="wikilink">콩지에</a></strong> 七단</p></td>
 <td><p>1-0</p></td>
 <td><p><a href="../Page/이세돌.md" title="wikilink">이세돌</a> 九단</p></td>
 </tr>
@@ -209,7 +209,7 @@
 <td><p><a href="../Page/22회_TV_바둑_아시아_선수권대회.md" title="wikilink">22</a></p></td>
 <td><p><a href="../Page/22회_TV_바둑_아시아_선수권대회.md" title="wikilink">2010</a></p></td>
 <td><p>교토 교토호텔 오쿠라 별장</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/쿵제" title="wikilink">콩지에</a></strong> 九단</p></td>
+<td><p><strong><a href="../Page/쿵제.md" title="wikilink">콩지에</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
 <td><p><a href="../Page/유키_사토시.md" title="wikilink">유키 사토시</a> 九단</p></td>
 </tr>
@@ -217,7 +217,7 @@
 <td><p><a href="../Page/23회_TV_바둑_아시아_선수권대회.md" title="wikilink">23</a></p></td>
 <td><p><a href="../Page/23회_TV_바둑_아시아_선수권대회.md" title="wikilink">2011</a></p></td>
 <td><p>베이징 창안(長安) 그랜드 호텔</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/쿵제" title="wikilink">콩지에</a></strong> 九단</p></td>
+<td><p><strong><a href="../Page/쿵제.md" title="wikilink">콩지에</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/백홍석" title="wikilink">백홍석</a> 八단</p></td>
 </tr>
@@ -227,7 +227,7 @@
 <td><p>서울 강서구 외발산동 메이필드호텔</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/백홍석_(바둑_기사)" title="wikilink">백홍석</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿵제" title="wikilink">콩지에</a> 九단</p></td>
+<td><p><a href="../Page/쿵제.md" title="wikilink">콩지에</a> 九단</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/25회_TV_바둑_아시아_선수권대회.md" title="wikilink">25</a></p></td>
@@ -264,7 +264,7 @@
 <tr class="odd">
 <td><p><a href="../Page/29회_TV_바둑_아시아_선수권대회.md" title="wikilink">29</a></p></td>
 <td><p><a href="../Page/29회_TV_바둑_아시아_선수권대회.md" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/저장성" title="wikilink">저장성</a> 핑호(平湖)시 경제개발구 세인트레이크 호텔</p></td>
+<td><p><a href="../Page/저장성.md" title="wikilink">저장성</a> 핑호(平湖)시 경제개발구 세인트레이크 호텔</p></td>
 <td><p>| <strong><a href="../Page/나현_(바둑_기사).md" title="wikilink">나현</a></strong> 八단</p></td>
 <td><p>1-0</p></td>
 <td><p><strong><a href="../Page/이세돌.md" title="wikilink">이세돌</a></strong> 九단</p></td>
@@ -272,14 +272,14 @@
 <tr class="even">
 <td><p><a href="../Page/30회_TV_바둑_아시아_선수권대회.md" title="wikilink">30</a></p></td>
 <td><p><a href="../Page/30회_TV_바둑_아시아_선수권대회.md" title="wikilink">2018</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울</a> <a href="https://ko.wikipedia.org/wiki/강서구_(서울특별시)" title="wikilink">강서구</a> 외발산동 메이필드호텔</p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a> <a href="https://ko.wikipedia.org/wiki/강서구_(서울특별시)" title="wikilink">강서구</a> 외발산동 메이필드호텔</p></td>
 <td><p>| <strong><a href="../Page/김지석_(바둑_기사).md" title="wikilink">김지석</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
 <td><p><strong><a href="../Page/나현_(바둑_기사).md" title="wikilink">나현</a></strong> 九단</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/31회_TV_바둑_아시아_선수권대회" title="wikilink">31</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/31회_TV_바둑_아시아_선수권대회" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/31회_TV_바둑_아시아_선수권대회.md" title="wikilink">31</a></p></td>
+<td><p><a href="../Page/31회_TV_바둑_아시아_선수권대회.md" title="wikilink">2019</a></p></td>
 <td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a> 호텔 친잔소</p></td>
 <td><p>| <strong><a href="../Page/신진서.md" title="wikilink">신진서</a></strong> 九단</p></td>
 <td><p>1-0</p></td>

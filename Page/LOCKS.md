@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOCKS](https://ko.wikipedia.org/wiki/LOCKS).
 
 
-{{음반 정보 | 음반명 = LOCKS | 가수명 = [가넷 크로우](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink") | 사진 = | 설명 = | 발매년월일 = [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 12일](https://ko.wikipedia.org/wiki/3월_12일 "wikilink") | 구성 = | 음반종류 = 정규 음반 | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 프로듀서 = | 전앨범 = [THE TWILIGHT VALLEY](../Page/THE_TWILIGHT_VALLEY.md "wikilink")
+{{음반 정보 | 음반명 = LOCKS | 가수명 = [가넷 크로우](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink") | 사진 = | 설명 = | 발매년월일 = [2008년](../Page/2008년.md "wikilink") [3월 12일](../Page/3월_12일.md "wikilink") | 구성 = | 음반종류 = 정규 음반 | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 프로듀서 = | 전앨범 = [THE TWILIGHT VALLEY](../Page/THE_TWILIGHT_VALLEY.md "wikilink")
 (2006년) | 후앨범 = \[\[STAY_\~요아케노_Soul\~|
 
 《**LOCKS**》는 [가넷 크로우의](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink") 6번째 정규 음반이다. 2008년 3월 12일에 발매됐으며 작사는 아즈키 나나, 작곡은 나카무라 유리, 편곡은 후루이 히로히토가 맡았다.

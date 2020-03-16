@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  MY ASIA](https://ko.wikipedia.org/wiki/__MY_ASIA).
 
 
-〈**우리가 살아가는 MY ASIA**〉()는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 24일에](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") 발매 된 [모닝구무스메 탄생 10년 기념대의](../Page/모닝구무스메_탄생_10년_기념대.md "wikilink") 첫 번째 싱글이다.
+〈**우리가 살아가는 MY ASIA**〉()는 [2007년](../Page/2007년.md "wikilink") [1월 24일에](../Page/1월_24일.md "wikilink") 발매 된 [모닝구무스메 탄생 10년 기념대의](../Page/모닝구무스메_탄생_10년_기념대.md "wikilink") 첫 번째 싱글이다.
 
 ## 개요
 
-《[다이하쓰](https://ko.wikipedia.org/wiki/다이하쓰 "wikilink") 태양의 서커스》 일본 공연 제2탄의 이미지송.
+《[다이하쓰](../Page/다이하쓰.md "wikilink") 태양의 서커스》 일본 공연 제2탄의 이미지송.
 
 ### 십년애의 가사
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
 
 
-**애플 TV**()는 [Apple Inc.에서](https://ko.wikipedia.org/wiki/애플 "wikilink") 개발 및 판매중인 디지털 미디어 플레이어이자 마이크로콘솔이다. 본 제품은 여러 소스에서 데이터를 수신하여 텔레비전으로 스트리밍하는 소형 네트워크 장비이자 엔터테인먼트 장치이다.
+**애플 TV**()는 [Apple Inc.에서](../Page/애플.md "wikilink") 개발 및 판매중인 디지털 미디어 플레이어이자 마이크로콘솔이다. 본 제품은 여러 소스에서 데이터를 수신하여 텔레비전으로 스트리밍하는 소형 네트워크 장비이자 엔터테인먼트 장치이다.
 
 본 제품은 HDMI 사용 장치이다. 따라서 본 제품을 사용하려면 HDMI 케이블로 고화질 와이드 스크린 TV에 연결해야 한다. 본 제품에는 통합 제어 장치가 없으며 따라서 적외선 Bluetooth 기능을 사용하는 Apple Remote 컨트롤 장치(iOS의 App Store에서 다운로드 가능)를 통해 외부(iPhone, iPad, iPod touch, Apple Watch)에서 제어할 수 있다. 또한 일부 모델은 타사의 적외선 리모컨도 사용 가능하다.\[1\]
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Be My Baby](https://ko.wikipedia.org/wiki/Be_My_Baby).
 
 
-**"Be My Baby"**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 걸 그룹 [원더걸스](../Page/원더걸스.md "wikilink")의 두 번째 정규음반인 [Wonder World의](../Page/Wonder_World.md "wikilink") 타이틀 곡이다. 이 노래는 원더걸스의 음악적 뿌리인 소울 음악을 현대식 Up tempo로 재해석 한 곡으로, 원더걸스의 미국 TV드라마 ‘WonderGirls at the Apollo’의 OST곡이기도 하다. "Be My Baby"는 발매가 이루어지자 각종 음원 사이트와 가요프로그램에서 1위를 차지하였다. 또한, 네티즌이 뽑은 11월 멜론 최고 인기곡으로 선정되기도 하였다.
+**"Be My Baby"**는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [원더걸스](../Page/원더걸스.md "wikilink")의 두 번째 정규음반인 [Wonder World의](../Page/Wonder_World.md "wikilink") 타이틀 곡이다. 이 노래는 원더걸스의 음악적 뿌리인 소울 음악을 현대식 Up tempo로 재해석 한 곡으로, 원더걸스의 미국 TV드라마 ‘WonderGirls at the Apollo’의 OST곡이기도 하다. "Be My Baby"는 발매가 이루어지자 각종 음원 사이트와 가요프로그램에서 1위를 차지하였다. 또한, 네티즌이 뽑은 11월 멜론 최고 인기곡으로 선정되기도 하였다.
 
 ## 가사
 
@@ -9,25 +9,25 @@
 
 ## 순위 및 수상 기록
 
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 11월 - 네티즌 선정 [멜론](https://ko.wikipedia.org/wiki/웹사이트 "wikilink") 최고 인기곡
+  - [2011년](../Page/2011년.md "wikilink") 11월 - 네티즌 선정 [멜론](../Page/웹사이트.md "wikilink") 최고 인기곡
 
 <!-- end list -->
 
   - [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink") 《[M\! Countdown](https://ko.wikipedia.org/wiki/M!_Countdown "wikilink")》
-      - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 1위
-      - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink") 1위 (2주 연속)
+      - [2011년](../Page/2011년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") 1위
+      - [2011년](../Page/2011년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink") 1위 (2주 연속)
 
 <!-- end list -->
 
   - [SBS](../Page/SBS.md "wikilink") 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 ‘뮤티즌 송’\[1\]
-      - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") 수상
-      - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink") 수상
-      - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") 수상
+      - [2011년](../Page/2011년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") 수상
+      - [2011년](../Page/2011년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") 수상
+      - [2011년](../Page/2011년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") 수상
 
 <!-- end list -->
 
   - [채널 A](https://ko.wikipedia.org/wiki/채널_A "wikilink") 《[K POPCON](https://ko.wikipedia.org/wiki/K_POPCON "wikilink")》
-      - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") 1위
+      - [2011년](../Page/2011년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") 1위
 
 ## 각주
 

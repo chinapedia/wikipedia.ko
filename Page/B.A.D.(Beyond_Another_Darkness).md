@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [B.A.D.\(Beyond Another Darkness\)](https://ko.wikipedia.org/wiki/B.A.D.\(Beyond_Another_Darkness\)).
 
 
-**《B.A.D.(Beyond Another Darkness)》**는 [아야사토 케이시가](https://ko.wikipedia.org/wiki/아야사토_케이시 "wikilink") 쓴 [라이트 노벨이다](https://ko.wikipedia.org/wiki/라이트_노벨 "wikilink"). 일러스트는 [kona](https://ko.wikipedia.org/wiki/kona "wikilink"). [패미통 문고에서](../Page/패미통_문고.md "wikilink") 발행되었다.
+**《B.A.D.(Beyond Another Darkness)》**는 [아야사토 케이시가](https://ko.wikipedia.org/wiki/아야사토_케이시 "wikilink") 쓴 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). 일러스트는 [kona](https://ko.wikipedia.org/wiki/kona "wikilink"). [패미통 문고에서](../Page/패미통_문고.md "wikilink") 발행되었다.
 
 ## 스토리
 

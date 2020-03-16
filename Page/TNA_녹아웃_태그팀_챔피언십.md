@@ -44,7 +44,7 @@
   - [WWE 스맥다운 위민스 챔피언십](../Page/WWE_스맥다운_위민스_챔피언십.md "wikilink")
   - [WWE 디바스 챔피언십](../Page/WWE_디바스_챔피언십.md "wikilink")
   - [WWF 위민스 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWF_위민스_태그팀_챔피언십 "wikilink")
-  - [WWE 위민스 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_위민스_태그팀_챔피언십 "wikilink")
+  - [WWE 위민스 태그팀 챔피언십](../Page/WWE_위민스_태그팀_챔피언십.md "wikilink")
   - [WWE NXT 위민스 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_위민스_챔피언십 "wikilink")
   - [TNA 녹아웃 챔피언십](https://ko.wikipedia.org/wiki/TNA_녹아웃_챔피언십 "wikilink")
   - [GFW 위민스 챔피언십](https://ko.wikipedia.org/wiki/GFW_위민스_챔피언십 "wikilink")

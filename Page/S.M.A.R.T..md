@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.M.A.R.T.](https://ko.wikipedia.org/wiki/S.M.A.R.T.).
 
 
-**S.M.A.R.T.**(, "자가 진단, 분석, 보고 기술", 간단히 SMART)는 [컴퓨터](../Page/컴퓨터.md "wikilink") [하드 디스크 드라이브의](https://ko.wikipedia.org/wiki/하드_디스크_드라이브 "wikilink") 신뢰성을 검사하여 잠재적인 실패 가능성을 진단, 보고하는 감시 체계이다.
+**S.M.A.R.T.**(, "자가 진단, 분석, 보고 기술", 간단히 SMART)는 [컴퓨터](../Page/컴퓨터.md "wikilink") [하드 디스크 드라이브의](../Page/하드_디스크_드라이브.md "wikilink") 신뢰성을 검사하여 잠재적인 실패 가능성을 진단, 보고하는 감시 체계이다.
 
 S.M.A.R.T가 실패를 예측할 때 사용자는 드라이브를 교체하여 예기치 않은 과전압 문제나 데이터 손실을 막을 수 있다. 제조업체는 S.M.A.R.T. 데이터를 이용하여 문제 여부를 발견하고 추후의 드라이브 설계시 참고하여 이를 예방할 수 있다.
 

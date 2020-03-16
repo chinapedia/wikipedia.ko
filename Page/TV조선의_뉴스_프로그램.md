@@ -56,7 +56,7 @@
 주말 : <a href="https://ko.wikipedia.org/wiki/이상목" title="wikilink">이상목</a>, <a href="https://ko.wikipedia.org/wiki/오현주_(기자)" title="wikilink">오현주</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/TV조선_뉴스_(주말)" title="wikilink">TV조선 뉴스 (주말)</a></p></td>
+<td><p><a href="../Page/TV조선_뉴스_(주말).md" title="wikilink">TV조선 뉴스 (주말)</a></p></td>
 <td><p>토요일 10분<br />
 일요일 20분</p></td>
 <td><p>토 09:40 ~ 09:50<br />
@@ -69,7 +69,7 @@
 <td><p>주말 1시간 20분</p></td>
 <td><p>14:00 ~ 15:20</p></td>
 <td><p>토요일 : <a href="../Page/엄성섭.md" title="wikilink">엄성섭</a>, <a href="https://ko.wikipedia.org/wiki/최원희" title="wikilink">최원희</a><br />
-일요일 : <a href="https://ko.wikipedia.org/wiki/강동원" title="wikilink">강동원</a>, <a href="https://ko.wikipedia.org/wiki/유슬기" title="wikilink">유슬기</a></p></td>
+일요일 : <a href="../Page/강동원.md" title="wikilink">강동원</a>, <a href="https://ko.wikipedia.org/wiki/유슬기" title="wikilink">유슬기</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/TV조선_뉴스특보" title="wikilink">TV조선 뉴스특보</a></p></td>
@@ -93,10 +93,10 @@
 <!-- end list -->
 
   - [한국방송공사의 뉴스 프로그램](../Page/한국방송공사의_뉴스_프로그램.md "wikilink")
-  - [문화방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/문화방송의_뉴스_프로그램 "wikilink")
-  - [SBS의 뉴스 프로그램](https://ko.wikipedia.org/wiki/SBS의_뉴스_프로그램 "wikilink")
+  - [문화방송의 뉴스 프로그램](../Page/문화방송의_뉴스_프로그램.md "wikilink")
+  - [SBS의 뉴스 프로그램](../Page/SBS의_뉴스_프로그램.md "wikilink")
   - [한국교육방송공사의 뉴스 프로그램](https://ko.wikipedia.org/wiki/한국교육방송공사의_뉴스_프로그램 "wikilink")
-  - [OBS경인TV의 뉴스 프로그램](https://ko.wikipedia.org/wiki/OBS경인TV의_뉴스_프로그램 "wikilink")
+  - [OBS경인TV의 뉴스 프로그램](../Page/OBS경인TV의_뉴스_프로그램.md "wikilink")
 
 <!-- end list -->
 
@@ -104,9 +104,9 @@
 
 <!-- end list -->
 
-  - [매일방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/매일방송의_뉴스_프로그램 "wikilink")
+  - [매일방송의 뉴스 프로그램](../Page/매일방송의_뉴스_프로그램.md "wikilink")
   - [채널A의 뉴스 프로그램](../Page/채널A의_뉴스_프로그램.md "wikilink")
-  - [JTBC의 뉴스 프로그램](https://ko.wikipedia.org/wiki/JTBC의_뉴스_프로그램 "wikilink")
+  - [JTBC의 뉴스 프로그램](../Page/JTBC의_뉴스_프로그램.md "wikilink")
 
 ## 각주
 

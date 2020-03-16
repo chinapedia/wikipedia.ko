@@ -1,24 +1,24 @@
 > This article is converted from Wikipedia: [AKB !!!](https://ko.wikipedia.org/wiki/AKB_!!!).
 
 
-**AKB 아이돌링\!\!\!**()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [그룹이며](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"), [아이돌링\!\!\!](https://ko.wikipedia.org/wiki/아이돌링!!! "wikilink")과 [AKB48](../Page/AKB48.md "wikilink")의 콜라보레이션 유닛이다.
+**AKB 아이돌링\!\!\!**()는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [그룹이며](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"), [아이돌링\!\!\!](../Page/아이돌링!!!.md "wikilink")과 [AKB48](../Page/AKB48.md "wikilink")의 콜라보레이션 유닛이다.
 
 ## 개요
 
-아이돌 선수권 「Push★1」의 PR 때문에, [아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") 프로듀스 아래 양그룹이 콜라보레이션을 실시했다.
+아이돌 선수권 「Push★1」의 PR 때문에, [아키모토 야스시](../Page/아키모토_야스시.md "wikilink") 프로듀스 아래 양그룹이 콜라보레이션을 실시했다.
 
-쌍방의 그룹에서 멤버를 선출하고 악곡을 발표한 것 외에 「[아이돌링](https://ko.wikipedia.org/wiki/아이돌링_\(프로그램\) "wikilink")」과 「[AKBINGO\!](https://ko.wikipedia.org/wiki/AKBINGO! "wikilink")」의 상호 출연이나 양그룹에서 프로그램 출연도 갔다.
+쌍방의 그룹에서 멤버를 선출하고 악곡을 발표한 것 외에 「[아이돌링](https://ko.wikipedia.org/wiki/아이돌링_\(프로그램\) "wikilink")」과 「[AKBINGO\!](../Page/AKBINGO!.md "wikilink")」의 상호 출연이나 양그룹에서 프로그램 출연도 갔다.
 
 ## 멤버
 
-  - [아이돌링\!\!\!](https://ko.wikipedia.org/wiki/아이돌링!!! "wikilink")
+  - [아이돌링\!\!\!](../Page/아이돌링!!!.md "wikilink")
 
 <!-- end list -->
 
-  - [엔도 마이](https://ko.wikipedia.org/wiki/엔도_마이 "wikilink") (3호)
-  - [토노오카 에리카](https://ko.wikipedia.org/wiki/토노오카_에리카 "wikilink") (6호)
-  - [야자와 에리카](https://ko.wikipedia.org/wiki/야자와_에리카 "wikilink") (7호)
-  - [요코야마 루리카](https://ko.wikipedia.org/wiki/요코야마_루리카 "wikilink") (9호)※ 이상 1기생.
+  - [엔도 마이](../Page/엔도_마이.md "wikilink") (3호)
+  - [토노오카 에리카](../Page/토노오카_에리카.md "wikilink") (6호)
+  - [야자와 에리카](../Page/야자와_에리카.md "wikilink") (7호)
+  - [요코야마 루리카](../Page/요코야마_루리카.md "wikilink") (9호)※ 이상 1기생.
   - [사카이 히토미](https://ko.wikipedia.org/wiki/사카이_히토미 "wikilink") (14호)
   - [아사히 나오](https://ko.wikipedia.org/wiki/아사히_나오 "wikilink") (15호)
   - [키쿠치 아미](https://ko.wikipedia.org/wiki/키쿠치_아미 "wikilink") (16호)
@@ -30,20 +30,20 @@
 
 <!-- end list -->
 
-  - [이타노 토모미](https://ko.wikipedia.org/wiki/이타노_토모미 "wikilink")
-  - [오오시마 마이](https://ko.wikipedia.org/wiki/오오시마_마이 "wikilink")\[1\]
-  - [코지마 하루나](https://ko.wikipedia.org/wiki/코지마_하루나 "wikilink")
-  - [마에다 아츠코](https://ko.wikipedia.org/wiki/마에다_아츠코 "wikilink")※ 이상 팀A.
+  - [이타노 토모미](../Page/이타노_토모미.md "wikilink")
+  - [오오시마 마이](../Page/오오시마_마이.md "wikilink")\[1\]
+  - [코지마 하루나](../Page/코지마_하루나.md "wikilink")
+  - [마에다 아츠코](../Page/마에다_아츠코.md "wikilink")※ 이상 팀A.
   - [오오시마 유코](https://ko.wikipedia.org/wiki/오오시마_유코 "wikilink")
   - [오노 에레나](https://ko.wikipedia.org/wiki/오노_에레나 "wikilink")
-  - [카사이 토모미](https://ko.wikipedia.org/wiki/카사이_토모미 "wikilink")※ 이상 팀K.
-  - [마츠이 쥬리나](https://ko.wikipedia.org/wiki/마츠이_쥬리나 "wikilink") ([SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")\[2\])
+  - [카사이 토모미](../Page/카사이_토모미.md "wikilink")※ 이상 팀K.
+  - [마츠이 쥬리나](../Page/마츠이_쥬리나.md "wikilink") ([SKE48](../Page/SKE48.md "wikilink")\[2\])
 
 ## 음반
 
 ### 싱글
 
-1.  チューしようぜ\! (츄-하자구\!) ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink"))
+1.  チューしようぜ\! (츄-하자구\!) ([2009년](../Page/2009년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink"))
 
 ## 각주
 

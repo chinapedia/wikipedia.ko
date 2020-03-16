@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [N.EX.T Is Alive - The World Tour](https://ko.wikipedia.org/wiki/N.EX.T_Is_Alive_-_The_World_Tour).
 
 
-**《N.EX.T Is Alive》**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [N.EX.T](https://ko.wikipedia.org/wiki/N.EX.T "wikilink")의 'The World'투어 실황을 담은 라이브 앨범이다. 공연은 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink"), [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [대구광역시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink")에서 열렸다.
+**《N.EX.T Is Alive》**는 [대한민국](../Page/대한민국.md "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [N.EX.T](../Page/N.EX.T.md "wikilink")의 'The World'투어 실황을 담은 라이브 앨범이다. 공연은 [서울특별시](../Page/서울특별시.md "wikilink"), [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [대구광역시](../Page/대구광역시.md "wikilink")에서 열렸다.
 
 ## 수록곡
 
@@ -21,9 +21,9 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/신해철" title="wikilink">신해철</a> - <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a></li>
-<li><a href="../Page/김세황.md" title="wikilink">김세황</a> - <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>, 백 보컬</li>
-<li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>, 백 보컬</li>
+<li><a href="../Page/신해철.md" title="wikilink">신해철</a> - <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a></li>
+<li><a href="../Page/김세황.md" title="wikilink">김세황</a> - <a href="../Page/기타.md" title="wikilink">기타</a>, 백 보컬</li>
+<li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>, 백 보컬</li>
 <li><a href="../Page/이수용_(드러머).md" title="wikilink">이수용</a> - <a href="https://ko.wikipedia.org/wiki/드럼셋" title="wikilink">드럼</a></li>
 </ul>
 <dl>
@@ -32,7 +32,7 @@
 </dl>
 <ul>
 <li>강석훈, 김유성(디지털 아시아) - <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">건반 악기</a></li>
-<li>서울 풍물단(최익환, 김광수, 임원식, 김영준, 이병관) - <a href="https://ko.wikipedia.org/wiki/사물놀이" title="wikilink">사물놀이</a></li>
+<li>서울 풍물단(최익환, 김광수, 임원식, 김영준, 이병관) - <a href="../Page/사물놀이.md" title="wikilink">사물놀이</a></li>
 <li>남궁정애 - 창, 구음</li>
 <li><a href="https://ko.wikipedia.org/wiki/이정식_(음악가)" title="wikilink">이정식</a>, 신영환, Chris Mccabe, David Edge - <a href="https://ko.wikipedia.org/wiki/금관_악기" title="wikilink">금관 악기</a></li>
 <li>Stress(최희경, 신영주, 박윤희) - 코러스</li>
@@ -73,7 +73,7 @@
 <li>박준우(한백) - 무대 설치, 조명 감독(대구)</li>
 <li>서유정, 이성중, 공홍표, 한기호(조연, 일류라이트) - 조명 감독(서울)</li>
 <li>김경진(문화) - 조명 감독(부산)</li>
-<li>김운환, 김종군(아시아테크) - <a href="https://ko.wikipedia.org/wiki/레이저" title="wikilink">레이저</a> 효과(서울)</li>
+<li>김운환, 김종군(아시아테크) - <a href="../Page/레이저.md" title="wikilink">레이저</a> 효과(서울)</li>
 <li>문승욱, 정찬우, 우길택, 박희권(프러그) - 특수 효과(서울)</li>
 <li>장삼복, 김복만(Q특수) - 특수 효과(대구, 부산)</li>
 <li>한진수(제일비젼) - 멀티비전(부산)</li>

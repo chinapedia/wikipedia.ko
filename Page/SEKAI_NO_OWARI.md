@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [SEKAI NO OWARI](https://ko.wikipedia.org/wiki/SEKAI_NO_OWARI).
 
 
-**SEKAI NO OWARI**(세카이노 오와리)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 4인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 줄여서 세카오와라고도 불린다. 2006년에 현재의 편성을 갖추었으며, 2008년에 1대 DJ LOVE가 탈퇴한후 2대 DJ LOVE가 들어옴으로 현재의 멤버를 갖추게 되었다. 2010년 인디즈 앨범 《Earth》를 발매하여 정식으로 인디즈레이블에 데뷔하였다.
+**SEKAI NO OWARI**(세카이노 오와리)는 [일본](../Page/일본.md "wikilink")의 4인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 줄여서 세카오와라고도 불린다. 2006년에 현재의 편성을 갖추었으며, 2008년에 1대 DJ LOVE가 탈퇴한후 2대 DJ LOVE가 들어옴으로 현재의 멤버를 갖추게 되었다. 2010년 인디즈 앨범 《Earth》를 발매하여 정식으로 인디즈레이블에 데뷔하였다.
 
 일본어 표기인 ''로 활동하다가, 2011년 8월부터 [알파벳](https://ko.wikipedia.org/wiki/알파벳 "wikilink") 표기인 'SEKAI NO OWARI'로 변경하면서 메이저데뷔를 하게된다.
 
 ## 구성원
 
-  - FUKASE (후카세 사토시) () [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 작사, 작곡, 연출, 디자인 담당.
+  - FUKASE (후카세 사토시) () [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink"), 작사, 작곡, 연출, 디자인 담당.
   - NAKAJIN (나카지마 신이치) () 기타, 보컬, [코러스](https://ko.wikipedia.org/wiki/코러스 "wikilink"), 엔지니어링 담당.
-  - SAORI (후지사키 사오리) () [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink"), [건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 무대연출 담당.
+  - SAORI (후지사키 사오리) () [피아노](../Page/피아노.md "wikilink"), [건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 무대연출 담당.
   - DJ LOVE [DJ](../Page/디스크_자키.md "wikilink") 담당.
 
 ## 음반 목록
@@ -21,7 +21,7 @@
   - 〈Inori〉 (2011년)
   - 〈스타라이트 퍼레이드〉 (, 2011년)
   - 〈네무리히메〉 (, 2012년)
-  - 〈[RPG](https://ko.wikipedia.org/wiki/RPG_\(세카이노_오와리의_노래\) "wikilink")\> (2013년) \#1 - 영화 [짱구는 못말려 극장판: 엄청 맛있어\! B급 음식 서바이벌\!](https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_엄청_맛있어!_B급_음식_서바이벌! "wikilink") 주제가
+  - 〈[RPG](https://ko.wikipedia.org/wiki/RPG_\(세카이노_오와리의_노래\) "wikilink")\> (2013년) \#1 - 영화 [짱구는 못말려 극장판: 엄청 맛있어\! B급 음식 서바이벌\!](../Page/짱구는_못말려_극장판:_엄청_맛있어!_B급_음식_서바이벌!.md "wikilink") 주제가
   - 〈스노우매직판타지〉 (, 2014년)
   - 〈호노우토모리노카니발〉 (, 2014년)
   - 〈Dragon Night〉 (2014년)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Renacimiento](https://ko.wikipedia.org/wiki/Renacimiento).
 
 
-《**Renacimiento**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [작곡가 겸 가수](https://ko.wikipedia.org/wiki/작곡가_겸_가수 "wikilink") [윤상](../Page/윤상.md "wikilink")이 군 제대 후 1996년에 발표한 [EP이다](../Page/익스텐디드_플레이.md "wikilink").
+《**Renacimiento**》는 [대한민국](../Page/대한민국.md "wikilink")의 [작곡가 겸 가수](https://ko.wikipedia.org/wiki/작곡가_겸_가수 "wikilink") [윤상](../Page/윤상.md "wikilink")이 군 제대 후 1996년에 발표한 [EP이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 앨범
 
@@ -18,7 +18,7 @@
 
 ## 참여
 
-  - [윤상](../Page/윤상.md "wikilink") - [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink"), [편곡](../Page/편곡.md "wikilink")
+  - [윤상](../Page/윤상.md "wikilink") - [프로듀서](../Page/음악_프로듀서.md "wikilink"), [편곡](../Page/편곡.md "wikilink")
   - 박창학 - 프로듀서
   - Shohei narabe - 편곡, [사진](../Page/사진.md "wikilink")
   - Mark coblin, 조규범 - 믹싱
