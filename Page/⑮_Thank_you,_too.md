@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Thank you, too](https://ko.wikipedia.org/wiki/_Thank_you,_too).
 
 
-**⑮ Thank you, too**(쥬고 땡큐, 투)는 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 6일에](https://ko.wikipedia.org/wiki/12월_6일 "wikilink") 발매 된 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")'17의 열다섯 번째 정규 앨범이다.
+**⑮ Thank you, too**(쥬고 땡큐, 투)는 [2017년](../Page/2017년.md "wikilink") [12월 6일에](../Page/12월_6일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")'17의 열다섯 번째 정규 앨범이다.
 
 ## 개요
 
@@ -26,7 +26,7 @@
 5.  **[邪魔しないで Here We Go\!](https://ko.wikipedia.org/wiki/자마시나이데_Here_We_Go!/도큐노코사인/와카인다시! "wikilink")**
       -
         작사, 작곡 : 층쿠 / 편곡 : 오오쿠보 카오루
-6.  **Style of my love** (노래 : [이이쿠보 하루나](https://ko.wikipedia.org/wiki/이이쿠보_하루나 "wikilink"), [오다 사쿠라](https://ko.wikipedia.org/wiki/오다_사쿠라 "wikilink"), [마키노 마리아](../Page/마키노_마리아.md "wikilink"))
+6.  **Style of my love** (노래 : [이이쿠보 하루나](../Page/이이쿠보_하루나.md "wikilink"), [오다 사쿠라](../Page/오다_사쿠라.md "wikilink"), [마키노 마리아](../Page/마키노_마리아.md "wikilink"))
       -
         작사, 작곡 : 층쿠 / 편곡 : 오오쿠보 카오루
 7.  **ナルシス カマってちゃん協奏曲第5番**
@@ -44,16 +44,16 @@
 11. **[弩級のゴーサイン](https://ko.wikipedia.org/wiki/자마시나이데_Here_We_Go!/도큐노코사인/와카인다시! "wikilink")**
       -
         작사 : 코다마 아메코 / 작곡 : 호시베 쇼우 / 편곡 : Yocke
-12. **恋は時に** (노래 : [후쿠무라 미즈키](https://ko.wikipedia.org/wiki/후쿠무라_미즈키 "wikilink"), [이쿠타 에리나](https://ko.wikipedia.org/wiki/이쿠타_에리나 "wikilink"), [이시다 아유미](https://ko.wikipedia.org/wiki/이시다_아유미_\(1997년\) "wikilink"), [사토 마사키](https://ko.wikipedia.org/wiki/사토_마사키 "wikilink"), [쿠도 하루카](https://ko.wikipedia.org/wiki/쿠도_하루카 "wikilink"), [노나카 미키](../Page/노나카_미키.md "wikilink"), [모리토 치사키](../Page/모리토_치사키.md "wikilink"))
+12. **恋は時に** (노래 : [후쿠무라 미즈키](../Page/후쿠무라_미즈키.md "wikilink"), [이쿠타 에리나](../Page/이쿠타_에리나.md "wikilink"), [이시다 아유미](../Page/이시다_아유미_\(1997년\).md "wikilink"), [사토 마사키](../Page/사토_마사키.md "wikilink"), [쿠도 하루카](../Page/쿠도_하루카.md "wikilink"), [노나카 미키](../Page/노나카_미키.md "wikilink"), [모리토 치사키](../Page/모리토_치사키.md "wikilink"))
       -
         작사, 작곡 : 층쿠 / 편곡 : 오오쿠보 카오루
-13. '''[女子かしまし物語](https://ko.wikipedia.org/wiki/조시카시마시모노가타리 "wikilink") (モーニング娘。'17 Ver.)
+13. '''[女子かしまし物語](../Page/조시카시마시모노가타리.md "wikilink") (モーニング娘。'17 Ver.)
       -
         작사, 작곡 : 층쿠 / 편곡 : 스즈키Daichi히데유키
 14. **[BRAND NEW MORNING](https://ko.wikipedia.org/wiki/BRAND_NEW_MORNING/제라시_제라시 "wikilink")**
       -
         작사 : 호시베 쇼우 / 작곡 : Jean Luc Ponpon, 호시베 쇼우 / 편곡 : Jean Luc Ponpon
-15. **[愛の種](https://ko.wikipedia.org/wiki/사랑의_씨앗 "wikilink") (20th Anniversary Ver.)【Additional Track】**
+15. **[愛の種](../Page/사랑의_씨앗.md "wikilink") (20th Anniversary Ver.)【Additional Track】**
       -
         작사 : 사에키 켄조 / 작곡, 편곡 : 사쿠라이 테츠타로
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Twicetagram](https://ko.wikipedia.org/wiki/Twicetagram).
 
 
-《**twicetagram**》(트와이스타그램)은 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 첫 번째 정규 음반으로 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 30일에](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") 발매하였다.
+《**twicetagram**》(트와이스타그램)은 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 첫 번째 정규 음반으로 [2017년](../Page/2017년.md "wikilink") [10월 30일에](../Page/10월_30일.md "wikilink") 발매하였다.
 
 ## 수록곡
 

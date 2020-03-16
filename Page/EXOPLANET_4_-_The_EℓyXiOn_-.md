@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [EXOPLANET 4 - The EyXiOn -](https://ko.wikipedia.org/wiki/EXOPLANET_4_-_The_EyXiOn_-).
 
 
-《**EXOPLANET \#4 - The EℓyXiOn -**》은 대한민국의 음악 그룹 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 네 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 공연 타이틀인 'The EℓyXiOn'은 선택받은 자들만이 갈 수 있는 낙원을 의미하며, 이상향을 찾아가는 EXO의 스토리와 컨셉으로 담았다.
+《**EXOPLANET \#4 - The EℓyXiOn -**》은 대한민국의 음악 그룹 [EXO](../Page/EXO.md "wikilink")의 네 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 공연 타이틀인 'The EℓyXiOn'은 선택받은 자들만이 갈 수 있는 낙원을 의미하며, 이상향을 찾아가는 EXO의 스토리와 컨셉으로 담았다.
 
 ## 개요
 
-2017년 10월 19일, SM 엔터테인먼트는 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") 공식 홈페이지를 통해 EXO의 네 번째 단독 콘서트 일정을 발표하였으며,\[1\] 티켓 예매는 10월 25일에 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 진행되었다. EXO는 본 콘서트 투어를 통해 3회에 걸쳐 고척 스카이돔 무대에 오르는 위업을 달성하게 되었으며 25회의 공연과 함께 492,950명의 누적 관객을 동원하였다.
+2017년 10월 19일, SM 엔터테인먼트는 [EXO](../Page/EXO.md "wikilink") 공식 홈페이지를 통해 EXO의 네 번째 단독 콘서트 일정을 발표하였으며,\[1\] 티켓 예매는 10월 25일에 [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다. EXO는 본 콘서트 투어를 통해 3회에 걸쳐 고척 스카이돔 무대에 오르는 위업을 달성하게 되었으며 25회의 공연과 함께 492,950명의 누적 관객을 동원하였다.
 
 ## The EℓyXiOn \[dot\]
 
-2018년 6월 4일, SM 엔터테인먼트는 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") 공식 홈페이지를 통해 [고척스카이돔](https://ko.wikipedia.org/wiki/고척스카이돔 "wikilink")에서의 3일 간의 《EXOPLANET \#4 - The EℓyXiOn \[dot\] -》 일정을 발표하였으며 예매는 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 6월 12일에 진행되었다. 앙코르 콘서트로서는 이례적으로 해외에서 동일한 구성의 투어로 방점을 찍게 되었으며 투어의 대미를 장식하는 의미로 이전 앙코르 콘서트 투어와 마찬가지로 공연 타이틀에 마침표를 의미하는 \[dot\]을 추가하였다.\[2\]
+2018년 6월 4일, SM 엔터테인먼트는 [EXO](../Page/EXO.md "wikilink") 공식 홈페이지를 통해 [고척스카이돔](../Page/고척스카이돔.md "wikilink")에서의 3일 간의 《EXOPLANET \#4 - The EℓyXiOn \[dot\] -》 일정을 발표하였으며 예매는 [YES24](../Page/YES24.md "wikilink")를 통해 6월 12일에 진행되었다. 앙코르 콘서트로서는 이례적으로 해외에서 동일한 구성의 투어로 방점을 찍게 되었으며 투어의 대미를 장식하는 의미로 이전 앙코르 콘서트 투어와 마찬가지로 공연 타이틀에 마침표를 의미하는 \[dot\]을 추가하였다.\[2\]
 
 ## 투어 일정
 
@@ -28,7 +28,7 @@
 <td><p>2017년 11월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고척스카이돔" title="wikilink">고척스카이돔</a>[3]</p></td>
+<td><p><a href="../Page/고척스카이돔.md" title="wikilink">고척스카이돔</a>[3]</p></td>
 <td><p>통산 74,686명</p></td>
 </tr>
 <tr class="even">
@@ -69,7 +69,7 @@
 <tr class="odd">
 <td><p>2018년 1월 27일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사이타마" title="wikilink">사이타마</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사이타마_슈퍼_아레나" title="wikilink">사이타마 슈퍼 아레나</a> 스타디움 모드[4]</p></td>
+<td><p><a href="../Page/사이타마_슈퍼_아레나.md" title="wikilink">사이타마 슈퍼 아레나</a> 스타디움 모드[4]</p></td>
 <td><p>통산 55,632명</p></td>
 <td></td>
 </tr>
@@ -98,7 +98,7 @@
 <td><p>2018년 2월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카_돔" title="wikilink">쿄세라 돔 오사카</a></p></td>
+<td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a></p></td>
 <td><p>통산 90,586명</p></td>
 </tr>
 <tr class="even">
@@ -117,7 +117,7 @@
 </tr>
 <tr class="even">
 <td><p>2018년 3월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임팩트 아레나 무앙 통 타니[6]</p></td>
 <td><p>통산 38,658명</p></td>
@@ -138,7 +138,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 4월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<td><p><a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td></td>
 <td><p>몰 오브 아시아 아레나[7]</p></td>
 <td><p>13,362명</p></td>
@@ -159,7 +159,7 @@
 </tr>
 <tr class="even">
 <td><p>2018년 7월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<td><p><a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td></td>
 <td><p>푸트라 인도어 스타디움[9]</p></td>
 <td><p>15,652명</p></td>
@@ -168,7 +168,7 @@
 <td><p>2018년 7월 13일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고척스카이돔" title="wikilink">고척스카이돔</a>[10]<small>[dot]</small></p></td>
+<td><p><a href="../Page/고척스카이돔.md" title="wikilink">고척스카이돔</a>[10]<small>[dot]</small></p></td>
 <td><p>통산 75,562명</p></td>
 </tr>
 <tr class="even">
@@ -224,7 +224,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>《EXOPLANET #4 - The EℓyXiOn - in SEOUL》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/9월_21일" title="wikilink">9월 21일</a></li>
+<li>발매일 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/9월_21일.md" title="wikilink">9월 21일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -248,7 +248,7 @@
 <td style="text-align: left;"><p>라이브앨범</p></td>
 <td style="text-align: left;"><p>《EXOPLANET #4 - The EℓyXiOn [dot] - in SEOUL》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/1월_30일" title="wikilink">1월 30일</a></li>
+<li>발매일 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/1월_30일.md" title="wikilink">1월 30일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -256,10 +256,10 @@
 
 ## 제작
 
-  - [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") ([디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [찬열](../Page/찬열.md "wikilink"), [세훈](../Page/세훈.md "wikilink"), [수호](https://ko.wikipedia.org/wiki/수호_\(1991년\) "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(1992년\) "wikilink"))
+  - [EXO](../Page/EXO.md "wikilink") ([디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [찬열](../Page/찬열.md "wikilink"), [세훈](../Page/세훈.md "wikilink"), [수호](https://ko.wikipedia.org/wiki/수호_\(1991년\) "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(1992년\) "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
   - 총연출 : [심재원](https://ko.wikipedia.org/wiki/심재원_\(가수\) "wikilink")
 
 ## 각주

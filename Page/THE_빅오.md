@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE ](https://ko.wikipedia.org/wiki/THE_).
 
 
-《**THE 빅오**》(, The Big O)는 디자이너 사토 케이치와 감독 카타야마 카즈요시가 개발한 [선라이즈의](https://ko.wikipedia.org/wiki/선라이즈_\(기업\) "wikilink") [일본의 애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") [텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink").
+《**THE 빅오**》(, The Big O)는 디자이너 사토 케이치와 감독 카타야마 카즈요시가 개발한 [선라이즈의](../Page/선라이즈_\(기업\).md "wikilink") [일본의 애니메이션](../Page/일본의_애니메이션.md "wikilink") [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 반응
 

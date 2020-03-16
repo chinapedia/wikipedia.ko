@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Orion \(Apink \)](https://ko.wikipedia.org/wiki/Orion_\(Apink_\)).
 
 
-〈**Orion**〉(오리온)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 걸 그룹 [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서의 아홉 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [11월 8일에](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") [유니버설 뮤직 재팬에서](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") 발매됐다.
+〈**Orion**〉(오리온)은 [대한민국](../Page/대한민국.md "wikilink") 걸 그룹 [에이핑크](../Page/에이핑크.md "wikilink")의 [일본](../Page/일본.md "wikilink")에서의 아홉 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2017년](../Page/2017년.md "wikilink") [11월 8일에](../Page/11월_8일.md "wikilink") [유니버설 뮤직 재팬에서](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") 발매됐다.
 
 ## 수록 내용
 

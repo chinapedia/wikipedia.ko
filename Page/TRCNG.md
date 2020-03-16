@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [TRCNG](https://ko.wikipedia.org/wiki/TRCNG).
 
 
-**TRCNG**(**T**een **R**ising **C**hampion In A **N**ew **G**eneration)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 8인조 남성 그룹으로, 소속사는 [TS 엔터테인먼트이다](https://ko.wikipedia.org/wiki/TS_엔터테인먼트 "wikilink"). [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") 첫 미니 음반 *NEW GENERATION*을 발매하였다.
+**TRCNG**(**T**een **R**ising **C**hampion In A **N**ew **G**eneration)는 [대한민국](../Page/대한민국.md "wikilink")의 8인조 남성 그룹으로, 소속사는 [TS 엔터테인먼트이다](../Page/TS_엔터테인먼트.md "wikilink"). [2017년](../Page/2017년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") 첫 미니 음반 *NEW GENERATION*을 발매하였다.
 
-[2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") 멤버 [태선](https://ko.wikipedia.org/wiki/태선_\(가수\) "wikilink"), 우엽은 소속사인 [TS 엔터테인먼트와](https://ko.wikipedia.org/wiki/TS_엔터테인먼트 "wikilink") 법적분쟁으로 팀을 탈퇴하였다.
+[2019년](../Page/2019년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") 멤버 [태선](https://ko.wikipedia.org/wiki/태선_\(가수\) "wikilink"), 우엽은 소속사인 [TS 엔터테인먼트와](../Page/TS_엔터테인먼트.md "wikilink") 법적분쟁으로 팀을 탈퇴하였다.
 
 ## 구성원
 
@@ -44,7 +44,7 @@
 <tr class="odd">
 <td style="text-align: left;"><p>《<strong><em>NEW GENERATION</em></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/10월_10일" title="wikilink">10월 10일</a></li>
+<li>발매일 : <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/10월_10일.md" title="wikilink">10월 10일</a></li>
 </ul></td>
 <td style="text-align: left;"><ul>
 <li>Ray Of Light</li>
@@ -71,7 +71,7 @@
 <tr class="odd">
 <td style="text-align: left;"><p>《<strong><em>WHO AM I</em></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/1월_2일" title="wikilink">1월 2일</a></li>
+<li>발매일 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/1월_2일.md" title="wikilink">1월 2일</a></li>
 </ul></td>
 <td style="text-align: left;"><ul>
 <li>I AM</li>
@@ -82,7 +82,7 @@
 <tr class="even">
 <td style="text-align: left;"><p>《<strong><em>RISING</em></strong>》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/8월_5일" title="wikilink">8월 5일</a></li>
+<li>발매일 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/8월_5일.md" title="wikilink">8월 5일</a></li>
 </ul></td>
 <td style="text-align: left;"><ul>
 <li>Paradise</li>
@@ -108,7 +108,7 @@
 <tr class="odd">
 <td style="text-align: left;"><p>《<strong>Paradise</strong>》[1]</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/5월_17일" title="wikilink">5월 17일</a></li>
+<li>발매일 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_17일.md" title="wikilink">5월 17일</a></li>
 </ul></td>
 <td style="text-align: left;"><ul>
 <li><strong>Paradise</strong></li>
@@ -122,7 +122,7 @@
 
 ### 예능
 
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [10월 17일](https://ko.wikipedia.org/wiki/10월_17일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") : [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink") MC - 호현
+  - [2017년](../Page/2017년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink") : [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink") MC - 호현
 
 ## 수상
 

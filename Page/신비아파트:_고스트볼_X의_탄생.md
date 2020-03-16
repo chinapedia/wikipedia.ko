@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [:  X ](https://ko.wikipedia.org/wiki/:__X_).
 
 
-《**신비아파트: 고스트볼 X의 탄생**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink"). [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")가 제작해 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [11월 9일부터](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 15일까지](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") 매주 목요일 밤 저녁 8시에 방영했으며, 같은 해 [11월 8일부터](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [1월 24일까지](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") 매주 목요일 밤 저녁 8시에 방영했다.
+《**신비아파트: 고스트볼 X의 탄생**》은 [대한민국](../Page/대한민국.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink"). [투니버스](../Page/투니버스.md "wikilink")가 제작해 [2017년](../Page/2017년.md "wikilink") [11월 9일부터](../Page/11월_9일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [3월 15일까지](../Page/3월_15일.md "wikilink") 매주 목요일 밤 저녁 8시에 방영했으며, 같은 해 [11월 8일부터](../Page/11월_8일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [1월 24일까지](../Page/1월_24일.md "wikilink") 매주 목요일 밤 저녁 8시에 방영했다.
 
 ## 개요
 
@@ -11,26 +11,26 @@
 
 ### 주역
 
-  - **[신비](https://ko.wikipedia.org/wiki/신비_\(신비아파트\) "wikilink")** (성우: [조현정](https://ko.wikipedia.org/wiki/조현정_\(성우\) "wikilink"))
+  - **[신비](https://ko.wikipedia.org/wiki/신비_\(신비아파트\) "wikilink")** (성우: [조현정](../Page/조현정_\(성우\).md "wikilink"))
   - **[금비](https://ko.wikipedia.org/wiki/금비 "wikilink")** (성우: [양정화](../Page/양정화_\(성우\).md "wikilink"))
-  - **[구하리](https://ko.wikipedia.org/wiki/구하리_\(신비아파트\) "wikilink")** (성우:[김영은](https://ko.wikipedia.org/wiki/김영은_\(성우\) "wikilink"))
-  - **[구두리](https://ko.wikipedia.org/wiki/구두리 "wikilink")** (성우: [김채하](https://ko.wikipedia.org/wiki/김채하 "wikilink"))
+  - **[구하리](https://ko.wikipedia.org/wiki/구하리_\(신비아파트\) "wikilink")** (성우:[김영은](../Page/김영은_\(성우\).md "wikilink"))
+  - **[구두리](https://ko.wikipedia.org/wiki/구두리 "wikilink")** (성우: [김채하](../Page/김채하.md "wikilink"))
 
 ### 하리의 친구들
 
-  - **[김현우](https://ko.wikipedia.org/wiki/김현우_\(신비아파트\) "wikilink")** (성우: [심규혁](https://ko.wikipedia.org/wiki/심규혁 "wikilink"))
-  - **[이가은](https://ko.wikipedia.org/wiki/이가은_\(신비아파트\) "wikilink")** (성우: [여민정](https://ko.wikipedia.org/wiki/여민정_\(성우\) "wikilink"))
-  - **[최강림](https://ko.wikipedia.org/wiki/최강림 "wikilink")** (성우: [신용우](https://ko.wikipedia.org/wiki/신용우_\(성우\) "wikilink"))
-  - **[리온](https://ko.wikipedia.org/wiki/리온_\(신비아파트\) "wikilink")** (성우: [김명준](https://ko.wikipedia.org/wiki/김명준_\(성우\) "wikilink"))
+  - **[김현우](https://ko.wikipedia.org/wiki/김현우_\(신비아파트\) "wikilink")** (성우: [심규혁](../Page/심규혁.md "wikilink"))
+  - **[이가은](https://ko.wikipedia.org/wiki/이가은_\(신비아파트\) "wikilink")** (성우: [여민정](../Page/여민정_\(성우\).md "wikilink"))
+  - **[최강림](https://ko.wikipedia.org/wiki/최강림 "wikilink")** (성우: [신용우](../Page/신용우_\(성우\).md "wikilink"))
+  - **[리온](https://ko.wikipedia.org/wiki/리온_\(신비아파트\) "wikilink")** (성우: [김명준](../Page/김명준_\(성우\).md "wikilink"))
   - **[희원](https://ko.wikipedia.org/wiki/희원_\(신비아파트\) "wikilink")** (성우: [김하루](../Page/김하루.md "wikilink"))
-  - **[이안](https://ko.wikipedia.org/wiki/이안_\(신비아파트\) "wikilink")** (성우: [최승훈](https://ko.wikipedia.org/wiki/최승훈 "wikilink"))
+  - **[이안](https://ko.wikipedia.org/wiki/이안_\(신비아파트\) "wikilink")** (성우: [최승훈](../Page/최승훈.md "wikilink"))
 
 ### 그 밖
 
-  - 구인남(하리와 두리 아빠) (성우: [최재호](https://ko.wikipedia.org/wiki/최재호_\(성우\) "wikilink"))
-  - 유지미(하리와 두리 엄마) (성우: [이소은](https://ko.wikipedia.org/wiki/이소은_\(성우\) "wikilink"))
-  - 강림이 엄마 (성우: [박선영](https://ko.wikipedia.org/wiki/박선영_\(성우\) "wikilink"))
-  - 대장 퇴마사 (성우: [권혁수](https://ko.wikipedia.org/wiki/권혁수_\(성우\) "wikilink"))
+  - 구인남(하리와 두리 아빠) (성우: [최재호](../Page/최재호_\(성우\).md "wikilink"))
+  - 유지미(하리와 두리 엄마) (성우: [이소은](../Page/이소은_\(성우\).md "wikilink"))
+  - 강림이 엄마 (성우: [박선영](../Page/박선영_\(성우\).md "wikilink"))
+  - 대장 퇴마사 (성우: [권혁수](../Page/권혁수_\(성우\).md "wikilink"))
 
 <!-- end list -->
 
@@ -48,16 +48,16 @@
 
 ### 단역
 
-  - [이종혁](https://ko.wikipedia.org/wiki/이종혁_\(성우\) "wikilink"): 원장(4화)
-  - [이자명](https://ko.wikipedia.org/wiki/이자명 "wikilink"): 새 엄마(4화)
-  - [김보영](https://ko.wikipedia.org/wiki/김보영_\(성우\) "wikilink"): 엄마 친구(가은)
-  - [정혜원](https://ko.wikipedia.org/wiki/정혜원 "wikilink"): 유하
-  - [박리나](https://ko.wikipedia.org/wiki/박리나 "wikilink"): 인애(두 번째 이야기 6화)
+  - [이종혁](../Page/이종혁_\(성우\).md "wikilink"): 원장(4화)
+  - [이자명](../Page/이자명.md "wikilink"): 새 엄마(4화)
+  - [김보영](../Page/김보영_\(성우\).md "wikilink"): 엄마 친구(가은)
+  - [정혜원](../Page/정혜원.md "wikilink"): 유하
+  - [박리나](../Page/박리나.md "wikilink"): 인애(두 번째 이야기 6화)
   - [김지율](../Page/김지율_\(성우\).md "wikilink"): 동찬
-  - [한신](https://ko.wikipedia.org/wiki/한신_\(성우\) "wikilink"): 태훈(두 번째 이야기 4화)
+  - [한신](../Page/한신_\(성우\).md "wikilink"): 태훈(두 번째 이야기 4화)
   - [사문영](../Page/사문영.md "wikilink"): 연지 엄마(두 번째 이야기 8화)
-  - [김영찬](https://ko.wikipedia.org/wiki/김영찬_\(성우\) "wikilink"): 연지 아빠(두 번쨰 이야기 8화)
-  - 그 밖: [유영](https://ko.wikipedia.org/wiki/유영_\(성우\) "wikilink"), [김다올](https://ko.wikipedia.org/wiki/김다올 "wikilink"), [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"), 강성우, 박시윤, 강새봄, 이상호, 김도희
+  - [김영찬](../Page/김영찬_\(성우\).md "wikilink"): 연지 아빠(두 번쨰 이야기 8화)
+  - 그 밖: [유영](../Page/유영_\(성우\).md "wikilink"), [김다올](https://ko.wikipedia.org/wiki/김다올 "wikilink"), [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"), 강성우, 박시윤, 강새봄, 이상호, 김도희
 
 ## 등장 귀신
 
@@ -74,7 +74,7 @@
 
 #### 악귀
 
-  - 인큐버스(성우: [박영화](https://ko.wikipedia.org/wiki/박영화_\(성우\) "wikilink"))
+  - 인큐버스(성우: [박영화](../Page/박영화_\(성우\).md "wikilink"))
   - 만티코어(성우: [김지율](../Page/김지율_\(성우\).md "wikilink"))
   - 슬랜더맨(성우: [김신우](https://ko.wikipedia.org/wiki/김현구_\(성우\) "wikilink"))
   - 바알제붑(성우: [김지율](../Page/김지율_\(성우\).md "wikilink"))
@@ -85,24 +85,24 @@
 #### 선귀
 
   - 양괭이(성우: [조민수](../Page/조민수_\(성우\).md "wikilink"))
-  - 금돼지(성우: [김정훈](https://ko.wikipedia.org/wiki/김정훈_\(성우\) "wikilink"))
-  - 입질쟁이(성우: [유영](https://ko.wikipedia.org/wiki/유영_\(성우\) "wikilink"), [김다올](https://ko.wikipedia.org/wiki/김다올 "wikilink"), [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"), 강성우, 강새봄, 이상호, 김도희, 박시윤)
-  - 취생(성우: [이선주](https://ko.wikipedia.org/wiki/이선주 "wikilink"))
+  - 금돼지(성우: [김정훈](../Page/김정훈_\(성우\).md "wikilink"))
+  - 입질쟁이(성우: [유영](../Page/유영_\(성우\).md "wikilink"), [김다올](https://ko.wikipedia.org/wiki/김다올 "wikilink"), [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"), 강성우, 강새봄, 이상호, 김도희, 박시윤)
+  - 취생(성우: [이선주](../Page/이선주.md "wikilink"))
 
 #### 두억시니의 부하들
 
-  - 인형술사(성우: [김기흥](https://ko.wikipedia.org/wiki/김기흥_\(성우\) "wikilink"))
+  - 인형술사(성우: [김기흥](../Page/김기흥_\(성우\).md "wikilink"))
   - 각귀(성우: 강성우)
   - 우사첩(성우: 이상호)
   - 지네귀신(성우: [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"))
-  - 당목귀(성우: [현경수](https://ko.wikipedia.org/wiki/현경수 "wikilink"))
+  - 당목귀(성우: [현경수](../Page/현경수.md "wikilink"))
   - 청목형형(성우: [양정화](../Page/양정화_\(성우\).md "wikilink"))
 
 ### 그 밖
 
-  - 도한(성우: [송준석](https://ko.wikipedia.org/wiki/송준석_\(성우\) "wikilink"))
-  - 두억시니(성우: [유해무](https://ko.wikipedia.org/wiki/유해무 "wikilink"))
-  - 진명(성우: [민응식](https://ko.wikipedia.org/wiki/민응식 "wikilink"))
+  - 도한(성우: [송준석](../Page/송준석_\(성우\).md "wikilink"))
+  - 두억시니(성우: [유해무](../Page/유해무.md "wikilink"))
+  - 진명(성우: [민응식](../Page/민응식.md "wikilink"))
 
 ## 아이기스 및 기타 아이템
 

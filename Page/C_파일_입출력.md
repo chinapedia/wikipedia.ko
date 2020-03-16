@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [C  ](https://ko.wikipedia.org/wiki/C__).
 
 
-프로그래밍 언어 [C는](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") [파일](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink") [입출력](https://ko.wikipedia.org/wiki/입출력 "wikilink")을 위한 많은 [표준 라이브러리](https://ko.wikipedia.org/wiki/표준_라이브러리 "wikilink") [기능들을](https://ko.wikipedia.org/wiki/서브루틴 "wikilink") 제공한다. 이 기능들은 대부분 [C 표준 라이브러리](https://ko.wikipedia.org/wiki/C_표준_라이브러리 "wikilink") [헤더 파일](https://ko.wikipedia.org/wiki/헤더_파일 "wikilink") 로부터 구성된다.\[1\] 이 기능들은 1970년대 초반 벨 연구소의 [마이크 레스크가](https://ko.wikipedia.org/wiki/마이크_레스크 "wikilink") 작성한 "휴대용 입출력 패키지"에서 왔으며,\[2\] [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") [버전 7에서](https://ko.wikipedia.org/wiki/버전_7_유닉스 "wikilink") 정식으로 운영체제의 한 부분이 되었다.\[3\]
+프로그래밍 언어 [C는](../Page/C_\(프로그래밍_언어\).md "wikilink") [파일](../Page/컴퓨터_파일.md "wikilink") [입출력](../Page/입출력.md "wikilink")을 위한 많은 [표준 라이브러리](../Page/표준_라이브러리.md "wikilink") [기능들을](https://ko.wikipedia.org/wiki/서브루틴 "wikilink") 제공한다. 이 기능들은 대부분 [C 표준 라이브러리](../Page/C_표준_라이브러리.md "wikilink") [헤더 파일](../Page/헤더_파일.md "wikilink") 로부터 구성된다.\[1\] 이 기능들은 1970년대 초반 벨 연구소의 [마이크 레스크가](https://ko.wikipedia.org/wiki/마이크_레스크 "wikilink") 작성한 "휴대용 입출력 패키지"에서 왔으며,\[2\] [유닉스](../Page/유닉스.md "wikilink") [버전 7에서](https://ko.wikipedia.org/wiki/버전_7_유닉스 "wikilink") 정식으로 운영체제의 한 부분이 되었다.\[3\]
 
-C의 입출력 기능은 현대의 표준의 기준으로 하면 상당이 낮은 수준이다. C는 입력 스트림이나 출력 스트림과 같은 파일에 대한 모든 작업들을 [바이트](https://ko.wikipedia.org/wiki/바이트 "wikilink") 단위의 흐름으로 추상화한다. 과거의 다른 프로그래밍 언어와는 달리 C는 데이터 파일에 [임의 액세스를](https://ko.wikipedia.org/wiki/임의_액세스 "wikilink") 하는 기능을 제공하지 않고 대신, 파일 매체 저장소를 읽기 위해 프로그래머가 스트림을 생성해줘야 한다. 파일 매체를 찾고, 스트림에서 바이트 단위로 연속으로 읽는다.
+C의 입출력 기능은 현대의 표준의 기준으로 하면 상당이 낮은 수준이다. C는 입력 스트림이나 출력 스트림과 같은 파일에 대한 모든 작업들을 [바이트](../Page/바이트.md "wikilink") 단위의 흐름으로 추상화한다. 과거의 다른 프로그래밍 언어와는 달리 C는 데이터 파일에 [임의 액세스를](https://ko.wikipedia.org/wiki/임의_액세스 "wikilink") 하는 기능을 제공하지 않고 대신, 파일 매체 저장소를 읽기 위해 프로그래머가 스트림을 생성해줘야 한다. 파일 매체를 찾고, 스트림에서 바이트 단위로 연속으로 읽는다.
 
-파일 입출력의 스트림 모델은 C 프로그래밍 언어가 개발되었을 때 같이 개발되던 유닉스를 통해 대중화되었다. 수많은 현대 운영체제는 유닉스로부터 스트림을 물려받았으며, [C 프로그래밍 언어군의](https://ko.wikipedia.org/wiki/:분류:C_프로그래밍_언어군 "wikilink") 많은 언어들도 C의 파일 입출력 인터페이스를 약간의 수정을 거쳐 물려받았다. (예시 - [PHP](https://ko.wikipedia.org/wiki/PHP "wikilink")).
+파일 입출력의 스트림 모델은 C 프로그래밍 언어가 개발되었을 때 같이 개발되던 유닉스를 통해 대중화되었다. 수많은 현대 운영체제는 유닉스로부터 스트림을 물려받았으며, [C 프로그래밍 언어군의](https://ko.wikipedia.org/wiki/:분류:C_프로그래밍_언어군 "wikilink") 많은 언어들도 C의 파일 입출력 인터페이스를 약간의 수정을 거쳐 물려받았다. (예시 - [PHP](../Page/PHP.md "wikilink")).
 
 ## 개요
 
 ### 기능
 
-C 파일 입출력 기능의 대부분은 [C 표준 라이브러리](https://ko.wikipedia.org/wiki/C_표준_라이브러리 "wikilink") [헤더 파일](https://ko.wikipedia.org/wiki/헤더_파일 "wikilink")\<stdio.h\> 에 정의되어 있다. (C++의 경우 표준 C 기능을 포함한 헤더 cstdio에 있으며 std 이름공간을 포함해야 함.)
+C 파일 입출력 기능의 대부분은 [C 표준 라이브러리](../Page/C_표준_라이브러리.md "wikilink") [헤더 파일](../Page/헤더_파일.md "wikilink")\<stdio.h\> 에 정의되어 있다. (C++의 경우 표준 C 기능을 포함한 헤더 cstdio에 있으며 std 이름공간을 포함해야 함.)
 
 <table>
 <thead>
@@ -362,7 +362,7 @@ fseeko</p></td>
 
 ### 확장
 
-[POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") 표준은 메모리를 할당하는  함수와,  객체와 [파일 식별자간](https://ko.wikipedia.org/wiki/파일_식별자 "wikilink") 링크를 만드는 ,  함수와, 메모리 내 버퍼를 가리키는  객체를 생성하는 함수 그룹 등  기능들로 구성된 몇가지 확장 기능을 정의한다.\[4\]
+[POSIX](../Page/POSIX.md "wikilink") 표준은 메모리를 할당하는  함수와,  객체와 [파일 식별자간](https://ko.wikipedia.org/wiki/파일_식별자 "wikilink") 링크를 만드는 ,  함수와, 메모리 내 버퍼를 가리키는  객체를 생성하는 함수 그룹 등  기능들로 구성된 몇가지 확장 기능을 정의한다.\[4\]
 
 ## 예시
 

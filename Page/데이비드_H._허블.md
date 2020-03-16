@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
 
 
-**데이비드 헌터 허블**(, [FRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink"), [1926년](https://ko.wikipedia.org/wiki/1926년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 22일](https://ko.wikipedia.org/wiki/9월_22일 "wikilink"))은 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") 출신의 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [신경생리학](https://ko.wikipedia.org/wiki/신경생리학 "wikilink")자이다. 1981년에 대뇌반구의 기능과 시각정보화 과정에 관한 연구로 [토르스텐 비셀과](https://ko.wikipedia.org/wiki/토르스텐_비셀 "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.\[1\]\[2\]\[3\]
+**데이비드 헌터 허블**(, [FRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink"), [1926년](../Page/1926년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink"))은 [캐나다](../Page/캐나다.md "wikilink") 출신의 [미국](../Page/미국.md "wikilink")의 [신경생리학](https://ko.wikipedia.org/wiki/신경생리학 "wikilink")자이다. 1981년에 대뇌반구의 기능과 시각정보화 과정에 관한 연구로 [토르스텐 비셀과](../Page/토르스텐_비셀.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[1\]\[2\]\[3\]
 
 ## 수상 경력
 
@@ -11,7 +11,7 @@
 
 ## 회원
 
-  - 1982년 : [왕립학회](https://ko.wikipedia.org/wiki/왕립학회 "wikilink") 외국인 회원\[4\]\[5\]
+  - 1982년 : [왕립학회](../Page/왕립학회.md "wikilink") 외국인 회원\[4\]\[5\]
 
 ## 각주
 

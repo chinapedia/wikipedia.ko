@@ -11,8 +11,8 @@
 
   - [스케치](https://ko.wikipedia.org/wiki/스케치_\(응용_프로그램\) "wikilink")
   - 피그마(Figma)
-  - [어도비 포토샵](https://ko.wikipedia.org/wiki/어도비_포토샵 "wikilink")
-  - [어도비 일러스트레이터](https://ko.wikipedia.org/wiki/어도비_일러스트레이터 "wikilink")
+  - [어도비 포토샵](../Page/어도비_포토샵.md "wikilink")
+  - [어도비 일러스트레이터](../Page/어도비_일러스트레이터.md "wikilink")
   - [어피니티 디자이너](../Page/어피니티_디자이너.md "wikilink")
 
 ## 각주

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
 
 
-**제임스 M. 로빈슨** (James McConkey Robinson, 1924년 6월 30일 -2016 년 3월 22\[1\])은 미국의 신학자이며 캘리포니아 클래아먼트 대학원에서 교수를 하였다. 그는 [예수 세미나](https://ko.wikipedia.org/wiki/예수_세미나 "wikilink") 회원이었고 [Q](https://ko.wikipedia.org/wiki/Q자료 "wikilink") 다큐와 [나그함마디 문서의](https://ko.wikipedia.org/wiki/나그함마디_문서 "wikilink") 권위자이다. 그의 중요한 기여는 국제 [Q](https://ko.wikipedia.org/wiki/Q자료 "wikilink") 프로젝트 편집위원이었다.
+**제임스 M. 로빈슨** (James McConkey Robinson, 1924년 6월 30일 -2016 년 3월 22\[1\])은 미국의 신학자이며 캘리포니아 클래아먼트 대학원에서 교수를 하였다. 그는 [예수 세미나](../Page/예수_세미나.md "wikilink") 회원이었고 [Q](../Page/Q자료.md "wikilink") 다큐와 [나그함마디 문서의](../Page/나그함마디_문서.md "wikilink") 권위자이다. 그의 중요한 기여는 국제 [Q](../Page/Q자료.md "wikilink") 프로젝트 편집위원이었다.
 
 ## 참고문헌
 

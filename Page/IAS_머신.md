@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IAS ](https://ko.wikipedia.org/wiki/IAS_).
 
 
-**IAS 머신**(IAS machine)은 미국 [뉴저지 주 프린스턴의](https://ko.wikipedia.org/wiki/프린스턴_\(뉴저지_주\) "wikilink") [프린스턴 고등연구소](https://ko.wikipedia.org/wiki/프린스턴_고등연구소 "wikilink")(IAS)에서 개발된 초기 전자 [컴퓨터](https://ko.wikipedia.org/wiki/컴퓨터 "wikilink")이다. 폰 노이만 머신(von Neumann machine)이라고도 하는데, 그 이유는 이 설계를 기술하는 논문을 프린스턴 대학교 및 IAS의 수학 교수 [존 폰 노이만이](https://ko.wikipedia.org/wiki/존_폰_노이만 "wikilink") 편집했기 때문이다. 이 컴퓨터는 1945년부터 1951년까지 그의 감독 하에 개발되었다.\[1\] 다른 사람들에 의해 착안, 구현되었긴 했지만 전반적인 구성은 [폰 노이만 구조이다](https://ko.wikipedia.org/wiki/폰_노이만_구조 "wikilink").\[2\]
+**IAS 머신**(IAS machine)은 미국 [뉴저지 주 프린스턴의](https://ko.wikipedia.org/wiki/프린스턴_\(뉴저지_주\) "wikilink") [프린스턴 고등연구소](../Page/프린스턴_고등연구소.md "wikilink")(IAS)에서 개발된 초기 전자 [컴퓨터](../Page/컴퓨터.md "wikilink")이다. 폰 노이만 머신(von Neumann machine)이라고도 하는데, 그 이유는 이 설계를 기술하는 논문을 프린스턴 대학교 및 IAS의 수학 교수 [존 폰 노이만이](../Page/존_폰_노이만.md "wikilink") 편집했기 때문이다. 이 컴퓨터는 1945년부터 1951년까지 그의 감독 하에 개발되었다.\[1\] 다른 사람들에 의해 착안, 구현되었긴 했지만 전반적인 구성은 [폰 노이만 구조이다](../Page/폰_노이만_구조.md "wikilink").\[2\]
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 ## 개요
 
-IAS 머신은 40비트 [워드를](https://ko.wikipedia.org/wiki/정수형 "wikilink") 갖춘 [이진 방식의](https://ko.wikipedia.org/wiki/이진법 "wikilink") 컴퓨터의 하나로서, 워드 하나에 두 개의 20비트 명령이 저장된다. 이 메모리는 1024개의 워드(5.1 킬로바이트)로 이루어진다. 음의 정수는 [2의 보수로](https://ko.wikipedia.org/wiki/2의_보수 "wikilink") 표현되었다. 2개의 범용 [프로세서 레지스터를](https://ko.wikipedia.org/wiki/프로세서_레지스터 "wikilink") 사용할 수 있었다: AC(누산기), MQ(Multiplier/Quotient). 1,700개의 진공관을 사용하였다.(3극관 타입: 6J6, 5670, 5687, 일부 2극관: 타입 6AL5, 메모리 CRT 구동을 위한 150개의 5극관, 40개의 메모리 CRT).\[7\] 이 메모리는 원래 약 2,300개의 [RCA](https://ko.wikipedia.org/wiki/RCA_\(기업\) "wikilink") [셀렉트론](https://ko.wikipedia.org/wiki/셀렉트론_튜브 "wikilink") [진공관](https://ko.wikipedia.org/wiki/진공관 "wikilink")을 대상으로 설계되었다. 이 복잡한 관의 개발의 문제로 인해 어쩔 수 없이 [윌리엄스 진공관으로](https://ko.wikipedia.org/wiki/윌리엄스_진공관 "wikilink") 전환되었다.
+IAS 머신은 40비트 [워드를](../Page/정수형.md "wikilink") 갖춘 [이진 방식의](../Page/이진법.md "wikilink") 컴퓨터의 하나로서, 워드 하나에 두 개의 20비트 명령이 저장된다. 이 메모리는 1024개의 워드(5.1 킬로바이트)로 이루어진다. 음의 정수는 [2의 보수로](../Page/2의_보수.md "wikilink") 표현되었다. 2개의 범용 [프로세서 레지스터를](../Page/프로세서_레지스터.md "wikilink") 사용할 수 있었다: AC(누산기), MQ(Multiplier/Quotient). 1,700개의 진공관을 사용하였다.(3극관 타입: 6J6, 5670, 5687, 일부 2극관: 타입 6AL5, 메모리 CRT 구동을 위한 150개의 5극관, 40개의 메모리 CRT).\[7\] 이 메모리는 원래 약 2,300개의 [RCA](../Page/RCA_\(기업\).md "wikilink") [셀렉트론](https://ko.wikipedia.org/wiki/셀렉트론_튜브 "wikilink") [진공관](../Page/진공관.md "wikilink")을 대상으로 설계되었다. 이 복잡한 관의 개발의 문제로 인해 어쩔 수 없이 [윌리엄스 진공관으로](https://ko.wikipedia.org/wiki/윌리엄스_진공관 "wikilink") 전환되었다.
 
 ## IAS 머신의 파생
 
@@ -20,27 +20,27 @@ IAS 머신 계획은 컴퓨팅 머신에 관심이 있는 학교, 비즈니스, 
   - [AVIDAC](https://ko.wikipedia.org/wiki/AVIDAC "wikilink") ([아르곤 국립 연구소](https://ko.wikipedia.org/wiki/아르곤_국립_연구소 "wikilink"))
   - [BESK](https://ko.wikipedia.org/wiki/BESK "wikilink") (스톡홀름)
   - [BESM](https://ko.wikipedia.org/wiki/BESM "wikilink") (모스크바)\[9\]
-  - [CYCLONE](https://ko.wikipedia.org/wiki/CYCLONE "wikilink") ([아이오와 주립 대학교](https://ko.wikipedia.org/wiki/아이오와_주립_대학교 "wikilink"))
+  - [CYCLONE](https://ko.wikipedia.org/wiki/CYCLONE "wikilink") ([아이오와 주립 대학교](../Page/아이오와_주립_대학교.md "wikilink"))
   - [DASK](https://ko.wikipedia.org/wiki/DASK "wikilink") (1958년 코펜하겐 Regnecentralen)
   - [GEORGE](https://ko.wikipedia.org/wiki/GEORGE "wikilink") (아르곤 국립 연구소)
   - [IBM 701](https://ko.wikipedia.org/wiki/IBM_701 "wikilink") (19곳 설치)
-  - [ILLIAC I](https://ko.wikipedia.org/wiki/ILLIAC_I "wikilink") ([일리노이 대학교 어배너-섐페인](https://ko.wikipedia.org/wiki/일리노이_대학교_어배너-섐페인 "wikilink"))
-      - [MUSASINO-1](https://ko.wikipedia.org/wiki/MUSASINO-1 "wikilink") ([무사시노 시](https://ko.wikipedia.org/wiki/무사시노_시 "wikilink"), [일본](https://ko.wikipedia.org/wiki/일본 "wikilink"))
+  - [ILLIAC I](https://ko.wikipedia.org/wiki/ILLIAC_I "wikilink") ([일리노이 대학교 어배너-섐페인](../Page/일리노이_대학교_어배너-섐페인.md "wikilink"))
+      - [MUSASINO-1](https://ko.wikipedia.org/wiki/MUSASINO-1 "wikilink") ([무사시노 시](https://ko.wikipedia.org/wiki/무사시노_시 "wikilink"), [일본](../Page/일본.md "wikilink"))
   - [JOHNNIAC](https://ko.wikipedia.org/wiki/JOHNNIAC "wikilink") ([랜드 연구소](https://ko.wikipedia.org/wiki/랜드_연구소 "wikilink"))
-  - [MANIAC I](https://ko.wikipedia.org/wiki/MANIAC_I "wikilink") ([로스앨러모스 국립 연구소](https://ko.wikipedia.org/wiki/로스앨러모스_국립_연구소 "wikilink"))
+  - [MANIAC I](https://ko.wikipedia.org/wiki/MANIAC_I "wikilink") ([로스앨러모스 국립 연구소](../Page/로스앨러모스_국립_연구소.md "wikilink"))
   - [MISTIC](https://ko.wikipedia.org/wiki/MISTIC "wikilink") ([미시간 주립 대학교](https://ko.wikipedia.org/wiki/미시간_주립_대학교 "wikilink"))
   - [ORACLE](https://ko.wikipedia.org/wiki/오라클_\(컴퓨터\) "wikilink") ([오크리지 국립연구소](../Page/오크리지_국립연구소.md "wikilink"))
   - [ORDVAC](https://ko.wikipedia.org/wiki/ORDVAC "wikilink") ([Aberdeen Proving Ground](https://ko.wikipedia.org/wiki/Aberdeen_Proving_Ground "wikilink"))
   - [PERM](https://ko.wikipedia.org/wiki/PERM "wikilink") (Munich)\[10\]
-  - [SARA](https://ko.wikipedia.org/wiki/SARA "wikilink") ([SAAB](https://ko.wikipedia.org/wiki/사브 "wikilink"))
+  - [SARA](https://ko.wikipedia.org/wiki/SARA "wikilink") ([SAAB](../Page/사브.md "wikilink"))
   - [SEAC](https://ko.wikipedia.org/wiki/SEAC "wikilink") (워싱턴 DC)\[11\]
-  - [SILLIAC](https://ko.wikipedia.org/wiki/SILLIAC "wikilink") ([시드니 대학교](https://ko.wikipedia.org/wiki/시드니_대학교 "wikilink"))
-  - [SMIL](https://ko.wikipedia.org/wiki/Siffermaskinen_i_Lund "wikilink") ([룬드 대학교](https://ko.wikipedia.org/wiki/룬드_대학교 "wikilink"))
+  - [SILLIAC](https://ko.wikipedia.org/wiki/SILLIAC "wikilink") ([시드니 대학교](../Page/시드니_대학교.md "wikilink"))
+  - [SMIL](https://ko.wikipedia.org/wiki/Siffermaskinen_i_Lund "wikilink") ([룬드 대학교](../Page/룬드_대학교.md "wikilink"))
   - [WEIZAC](https://ko.wikipedia.org/wiki/WEIZAC "wikilink") ([바이츠만 과학 연구소](https://ko.wikipedia.org/wiki/바이츠만_과학_연구소 "wikilink"))
 
 ## 같이 보기
 
-  - [폰 노이만 구조](https://ko.wikipedia.org/wiki/폰_노이만_구조 "wikilink")
+  - [폰 노이만 구조](../Page/폰_노이만_구조.md "wikilink")
   - [진공관 컴퓨터 목록](https://ko.wikipedia.org/wiki/진공관_컴퓨터_목록 "wikilink")
 
 ## 각주
@@ -55,7 +55,7 @@ IAS 머신 계획은 컴퓨팅 머신에 관심이 있는 학교, 비즈니스, 
   - [Oral history interviews concerning the Institute for Advanced Study](http://conservancy.umn.edu/handle/11299/59493/browse?type=subject&order=ASC&rpp=20&value=Institute+for+Advanced+Study+%28Princeton%2C+N.J.%29)-see also individual interviews with [Willis H. Ware](http://purl.umn.edu/107699), [Arthur Burks](http://purl.umn.edu/107206), [Herman Goldstine](http://purl.umn.edu/107333), [Martin Schwarzschild](http://purl.umn.edu/107629), and others. [Charles Babbage Institute](https://ko.wikipedia.org/wiki/Charles_Babbage_Institute "wikilink"), University of Minnesota.
 
   -
-  - [First Draft of a Report on the EDVAC](https://web.archive.org/web/20120207162256/http://cva.stanford.edu/classes/cs99s/papers/vonneumann-firstdraftedvac.pdf) - Copy of the original draft by [존 폰 노이만](https://ko.wikipedia.org/wiki/존_폰_노이만 "wikilink")
+  - [First Draft of a Report on the EDVAC](https://web.archive.org/web/20120207162256/http://cva.stanford.edu/classes/cs99s/papers/vonneumann-firstdraftedvac.pdf) - Copy of the original draft by [존 폰 노이만](../Page/존_폰_노이만.md "wikilink")
 
   - [The Manchester Small Scale Experimental Machine "The Baby"](https://web.archive.org/web/20120604211339/http://www.computer50.org/mark1/new.baby.html) - The first operational stored programme computer.
 

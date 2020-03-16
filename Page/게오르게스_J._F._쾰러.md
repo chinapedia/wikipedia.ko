@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ J. F. ](https://ko.wikipedia.org/wiki/_J._F._).
 
 
-**게오르게스 잔 프란츠 쾰러**(, [1946년](https://ko.wikipedia.org/wiki/1946년 "wikilink") [4월 17일](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") \~ [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink"))는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 [생물학](https://ko.wikipedia.org/wiki/생물학 "wikilink")자이다. 1984년에 면역체계의 특이적 발달과 조절 이론, [단일클론항체](https://ko.wikipedia.org/wiki/단일클론항체 "wikilink") 생산 원리에 대한 연구로 [닐스 카이 예르네](../Page/닐스_카이_예르네.md "wikilink"), [세사르 밀스테인과](https://ko.wikipedia.org/wiki/세사르_밀스테인 "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.
+**게오르게스 잔 프란츠 쾰러**(, [1946년](../Page/1946년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink"))는 [독일](../Page/독일.md "wikilink")의 [생물학](../Page/생물학.md "wikilink")자이다. 1984년에 면역체계의 특이적 발달과 조절 이론, [단일클론항체](https://ko.wikipedia.org/wiki/단일클론항체 "wikilink") 생산 원리에 대한 연구로 [닐스 카이 예르네](../Page/닐스_카이_예르네.md "wikilink"), [세사르 밀스테인과](../Page/세사르_밀스테인.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.
 
 ## 수상 경력
 

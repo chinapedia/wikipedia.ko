@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ 6mm ](https://ko.wikipedia.org/wiki/_6mm_).
 
 
-《**출동 6mm 현장속으로**》는 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전에 [MBC TV에서](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 방송되는 시사교양 정보 프로그램이다.
+《**출동 6mm 현장속으로**》는 매주 [토요일](../Page/토요일.md "wikilink") 오전에 [MBC TV에서](../Page/문화방송.md "wikilink") 방송되는 시사교양 정보 프로그램이다.
 
 ## 프로그램 소개
 
@@ -9,15 +9,15 @@
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                    | 방송 기간                                                                                                                                                                                                                                | 방송 시간                                                                        | 방송 분량 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ----- |
-| [MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink")                                                                                                                                                                                | [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 3일](https://ko.wikipedia.org/wiki/11월_3일 "wikilink") | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 10시 35분 \~ 11시 15분 | 40분   |
-| [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 10일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink") \~ [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 10시 25분 \~ 11시 15분                                                                                                                                                         | 50분                                                                          |       |
-| [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") \~ [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [10월 19일](https://ko.wikipedia.org/wiki/10월_19일 "wikilink")   | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 8시 \~ 9시                                                                                                                                                                   | 1시간                                                                          |       |
+| 방송 채널                                                                                                                                                        | 방송 기간                                                                                                                                                    | 방송 시간                                                     | 방송 분량 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----- |
+| [MBC TV](../Page/MBC_TV.md "wikilink")                                                                                                                       | [2001년](../Page/2001년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 오전 10시 35분 \~ 11시 15분 | 40분   |
+| [2001년](../Page/2001년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 오전 10시 25분 \~ 11시 15분                                                                                                | 50분                                                       |       |
+| [2002년](../Page/2002년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink")   | 매주 [토요일](../Page/토요일.md "wikilink") 오전 8시 \~ 9시                                                                                                          | 1시간                                                       |       |
 
 ## 진행자
 
-  - [정혜정](https://ko.wikipedia.org/wiki/정혜정 "wikilink") 前 MBC 아나운서
+  - [정혜정](../Page/정혜정.md "wikilink") 前 MBC 아나운서
 
 ## 외부 링크
 

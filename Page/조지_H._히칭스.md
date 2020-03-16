@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
 
 
-**조지 허버트 히칭스**(, [ForMemRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink")\[1\], [1905년](https://ko.wikipedia.org/wiki/1905년 "wikilink") [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") \~ [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [약리학](https://ko.wikipedia.org/wiki/약리학 "wikilink")자이다. 1988년에 약물 치료의 중요한 원칙을 발견한 공로로 [제임스 화이트 블랙](../Page/제임스_화이트_블랙.md "wikilink"), [거트루드 B. 엘리언과](../Page/거트루드_B._엘리언.md "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.\[2\]\[3\]\[4\]\[5\]\[6\]
+**조지 허버트 히칭스**(, [ForMemRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink")\[1\], [1905년](../Page/1905년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [약리학](../Page/약리학.md "wikilink")자이다. 1988년에 약물 치료의 중요한 원칙을 발견한 공로로 [제임스 화이트 블랙](../Page/제임스_화이트_블랙.md "wikilink"), [거트루드 B. 엘리언과](../Page/거트루드_B._엘리언.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 학력
 
@@ -17,7 +17,7 @@
 
 ## 회원
 
-  - 1974년 : [왕립학회](https://ko.wikipedia.org/wiki/왕립학회 "wikilink") 외국인 회원\[7\]
+  - 1974년 : [왕립학회](../Page/왕립학회.md "wikilink") 외국인 회원\[7\]
 
 ## 각주
 

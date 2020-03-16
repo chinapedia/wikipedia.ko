@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Survivor \( \)](https://ko.wikipedia.org/wiki/Survivor_\(_\)).
 
 
-〈**Survivor**〉(서바이버)는 [아카펠라](https://ko.wikipedia.org/wiki/아카펠라 "wikilink") 댄스 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 일본에서의 통산 26번째 싱글 음반이다.
+〈**Survivor**〉(서바이버)는 [아카펠라](../Page/아카펠라.md "wikilink") 댄스 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 26번째 싱글 음반이다.
 
 ## 개요
 
-  - 일본 정규 4집 〈[The Secret Code](https://ko.wikipedia.org/wiki/The_Secret_Code "wikilink")〉의 선행 싱글이다.
+  - 일본 정규 4집 〈[The Secret Code](../Page/The_Secret_Code.md "wikilink")〉의 선행 싱글이다.
 
 ## 수록곡
 

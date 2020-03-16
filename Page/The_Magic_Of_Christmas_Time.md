@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Magic Of Christmas Time](https://ko.wikipedia.org/wiki/The_Magic_Of_Christmas_Time).
 
 
-《**TAEYEON SPECIAL LIVE "The Magic Of Christmas Time"**》는 대한민국의 음악 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 멤버 [태연](https://ko.wikipedia.org/wiki/태연 "wikilink")의 크리스마스 시즌 기념 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
+《**TAEYEON SPECIAL LIVE "The Magic Of Christmas Time"**》는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 멤버 [태연](../Page/태연.md "wikilink")의 크리스마스 시즌 기념 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
 
 ## 투어 일정
 
@@ -44,10 +44,10 @@
 
 ## 게스트
 
-| 일정            | 게스트                                                      |
-| ------------- | -------------------------------------------------------- |
-| 2017년 12월 23일 | [서현](https://ko.wikipedia.org/wiki/서현_\(가수\) "wikilink") |
-| 2017년 12월 24일 |                                                          |
+| 일정            | 게스트                                   |
+| ------------- | ------------------------------------- |
+| 2017년 12월 23일 | [서현](../Page/서현_\(가수\).md "wikilink") |
+| 2017년 12월 24일 |                                       |
 
 ## 관련 디스코그래피
 
@@ -69,7 +69,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>TAEYEON SPECIAL LIVE 《The Magic Of Christmas Time》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/3월_15일" title="wikilink">3월 15일</a></li>
+<li>발매일 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_15일.md" title="wikilink">3월 15일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -79,7 +79,7 @@
 
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
 
 ## 각주
 

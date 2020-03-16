@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Samsung Experience](https://ko.wikipedia.org/wiki/Samsung_Experience).
 
 
-**Samsung Experience**(**SAMSUNG Experience**, 삼성 익스피리언스, 삼성 익스피어리언스)는 [삼성이](https://ko.wikipedia.org/wiki/삼성그룹 "wikilink") 자사의 안드로이드 기반 갤럭시 브랜드 전화에 사용하는 사용자 인터페이스이다. 원래 이름은 [터치위즈](https://ko.wikipedia.org/wiki/터치위즈 "wikilink")였으며, 2016년 말 [삼성 갤럭시 S7의](../Page/삼성_갤럭시_S7.md "wikilink") [안드로이드 누가의](https://ko.wikipedia.org/wiki/안드로이드_누가 "wikilink") 베타 빌드에서 현재의 명칭으로 변경되었다.\[1\]
+**Samsung Experience**(**SAMSUNG Experience**, 삼성 익스피리언스, 삼성 익스피어리언스)는 [삼성이](../Page/삼성그룹.md "wikilink") 자사의 안드로이드 기반 갤럭시 브랜드 전화에 사용하는 사용자 인터페이스이다. 원래 이름은 [터치위즈](../Page/터치위즈.md "wikilink")였으며, 2016년 말 [삼성 갤럭시 S7의](../Page/삼성_갤럭시_S7.md "wikilink") [안드로이드 누가의](https://ko.wikipedia.org/wiki/안드로이드_누가 "wikilink") 베타 빌드에서 현재의 명칭으로 변경되었다.\[1\]
 
 ## 역사
 
 ### 터치위즈
 
-[터치위즈](https://ko.wikipedia.org/wiki/터치위즈 "wikilink")는 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")이 자사의 [UI](https://ko.wikipedia.org/wiki/UI "wikilink")와 아이콘에 사용했던 이전 명칭이었다. 2010년 6월 4일 [갤럭시 S](https://ko.wikipedia.org/wiki/삼성_갤럭시_S "wikilink") 스마트폰용으로 처음 출시되었다.터치위즈가 가장 먼저 탑재된 피쳐폰은 [햅틱](https://ko.wikipedia.org/wiki/햅틱 "wikilink")이다. 평론가들은 특히 [갤럭시 S4에](../Page/삼성_갤럭시_S4.md "wikilink") 수많은 기능과 [블롯을](https://ko.wikipedia.org/wiki/블롯웨어 "wikilink") 포함한 것에 대해 비평하였다.\[2\] 그러나 그 이후 여러 해 동안 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")은 [터치위즈](https://ko.wikipedia.org/wiki/터치위즈 "wikilink")가 더 이상 [터치위즈](https://ko.wikipedia.org/wiki/터치위즈 "wikilink")로 인식되지 않을 때까지 점진적으로 블롯웨어와 부가 기능들을 제거하다가 이름이 변경되기에 이르렀다.\[3\]
+[터치위즈](../Page/터치위즈.md "wikilink")는 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")이 자사의 [UI](https://ko.wikipedia.org/wiki/UI "wikilink")와 아이콘에 사용했던 이전 명칭이었다. 2010년 6월 4일 [갤럭시 S](../Page/삼성_갤럭시_S.md "wikilink") 스마트폰용으로 처음 출시되었다.터치위즈가 가장 먼저 탑재된 피쳐폰은 [햅틱](https://ko.wikipedia.org/wiki/햅틱 "wikilink")이다. 평론가들은 특히 [갤럭시 S4에](../Page/삼성_갤럭시_S4.md "wikilink") 수많은 기능과 [블롯을](https://ko.wikipedia.org/wiki/블롯웨어 "wikilink") 포함한 것에 대해 비평하였다.\[2\] 그러나 그 이후 여러 해 동안 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")은 [터치위즈](../Page/터치위즈.md "wikilink")가 더 이상 [터치위즈](../Page/터치위즈.md "wikilink")로 인식되지 않을 때까지 점진적으로 블롯웨어와 부가 기능들을 제거하다가 이름이 변경되기에 이르렀다.\[3\]
 
 ### 상표
 
@@ -24,7 +24,7 @@
       - 퀵 툴
       - 엣지 피드
   - 그레이스 UX
-  - [Always-On Display](https://ko.wikipedia.org/wiki/Always_on_Display "wikilink")
+  - [Always-On Display](../Page/Always_on_Display.md "wikilink")
   - 파일 관리자
   - 게임 런처
       - 게임 툴즈
@@ -227,7 +227,7 @@
 
   - Samsung Experience 9
       - Samsung Experience 9.0 기반
-          - [삼성 갤럭시 S9](https://ko.wikipedia.org/wiki/삼성_갤럭시_S9 "wikilink") 계열 단말기
+          - [삼성 갤럭시 S9](../Page/삼성_갤럭시_S9.md "wikilink") 계열 단말기
           - 삼성 [갤럭시 S8](https://ko.wikipedia.org/wiki/갤럭시_S8 "wikilink") 계열 단말기 오레오 업데이트로 적용
           - 삼성 [갤럭시 노트 8](https://ko.wikipedia.org/wiki/갤럭시_노트_8 "wikilink") 오래오 업데이트로 적용
           - 삼성 갤럭시 노트 FE 오레오 업데이트로 적용
@@ -240,16 +240,16 @@
           - [삼성 갤럭시 A6 (2018)](https://ko.wikipedia.org/wiki/삼성_갤럭시_A6_\(2018\) "wikilink") 오레오 기본 탑재
           - [삼성 갤럭시 진(A6+) (2018)](https://ko.wikipedia.org/wiki/삼성_갤럭시_진\(A6+\)_\(2018\) "wikilink") 오레오 기본 탑재
           - [삼성 갤럭시 J6 (2018)](https://ko.wikipedia.org/wiki/삼성_갤럭시_J6_\(2018\) "wikilink") 오레오 기본 탑재
-          - [삼성 갤럭시 A9 (2018)](https://ko.wikipedia.org/wiki/삼성_갤럭시_A9_\(2018\) "wikilink") 오레오 기본탑재
+          - [삼성 갤럭시 A9 (2018)](../Page/삼성_갤럭시_A9_\(2018\).md "wikilink") 오레오 기본탑재
 
 <!-- end list -->
 
   -   - Samsung Experience 9.5 기반
           - [삼성 갤럭시 노트 9](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_9 "wikilink")
-          - [삼성 갤럭시 탭 S4](https://ko.wikipedia.org/wiki/삼성_갤럭시_탭_S4 "wikilink")
+          - [삼성 갤럭시 탭 S4](../Page/삼성_갤럭시_탭_S4.md "wikilink")
           - [삼성 갤럭시 탭 S 10.5](../Page/삼성_갤럭시_탭_S_10.5.md "wikilink")
-          - [삼성 갤럭시 J5 (2017)](https://ko.wikipedia.org/wiki/삼성_갤럭시_J5_\(2017\) "wikilink") 오레오 업데이트로 적용
-          - [삼성 갤럭시 와이드2](https://ko.wikipedia.org/wiki/삼성_갤럭시_와이드2 "wikilink") 2018 11월 29일 업데이트
+          - [삼성 갤럭시 J5 (2017)](../Page/삼성_갤럭시_J5_\(2017\).md "wikilink") 오레오 업데이트로 적용
+          - [삼성 갤럭시 와이드2](../Page/삼성_갤럭시_와이드2.md "wikilink") 2018 11월 29일 업데이트
           - [삼성 갤럭시 J7 (2017)](../Page/삼성_갤럭시_J7_\(2017\).md "wikilink") 오레오 업데이트로 적용
           - [삼성 갤럭시 A9 Pro (2019)](https://ko.wikipedia.org/wiki/삼성_갤럭시_A9_Pro_\(2019\) "wikilink") 오레오 기본 탑재
 
@@ -267,7 +267,7 @@
           - [삼성 갤럭시 A5 (2016)](../Page/삼성_갤럭시_A5_\(2016\).md "wikilink")
           - [삼성 갤럭시 A7 (2016)](../Page/삼성_갤럭시_A7_\(2016\).md "wikilink")
           - [삼성 갤럭시 탭 S2](https://ko.wikipedia.org/wiki/삼성_갤럭시_탭_S2 "wikilink")
-          - [삼성 갤럭시 탭 S3](https://ko.wikipedia.org/wiki/삼성_갤럭시_탭_S3 "wikilink")
+          - [삼성 갤럭시 탭 S3](../Page/삼성_갤럭시_탭_S3.md "wikilink")
           - [삼성 갤럭시 탭 A 10.1 2016](https://ko.wikipedia.org/wiki/삼성_갤럭시_탭_A_10.1_2016 "wikilink")
           - [삼성 갤럭시 탭 A 10.1 2016 with S Pen](https://ko.wikipedia.org/wiki/삼성_갤럭시_탭_A_10.1_2016_with_S_Pen "wikilink")
 
@@ -278,7 +278,7 @@
           - [삼성 갤럭시 S8 플러스](../Page/삼성_갤럭시_S8_플러스.md "wikilink")
           - [삼성 갤럭시 노트 FE](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_FE "wikilink")
           - [삼성 갤럭시 A7 (2017)](../Page/삼성_갤럭시_A7_\(2017\).md "wikilink") (한국 모델)
-          - [삼성 갤럭시 J5 (2017)](https://ko.wikipedia.org/wiki/삼성_갤럭시_J5_\(2017\) "wikilink")
+          - [삼성 갤럭시 J5 (2017)](../Page/삼성_갤럭시_J5_\(2017\).md "wikilink")
           - [삼성 갤럭시 J7 (2017)](../Page/삼성_갤럭시_J7_\(2017\).md "wikilink")
           - [삼성 갤럭시 A8 (2016)](../Page/삼성_갤럭시_A8_\(2016\).md "wikilink")
           - [삼성 갤럭시 A3 (2017)](https://ko.wikipedia.org/wiki/삼성_갤럭시_A3_\(2017\) "wikilink")
@@ -289,14 +289,14 @@
           - [삼성 갤럭시 A8 (2015)](https://ko.wikipedia.org/wiki/삼성_갤럭시_a8_\(2015\) "wikilink") (누가 업데이트 후)
       - Samsung Experience 8.5 기반
           - [삼성 갤럭시 노트 8](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_8 "wikilink")
-          - [삼성 갤럭시 A8 (2018)](https://ko.wikipedia.org/wiki/삼성_갤럭시_A8_\(2018\) "wikilink")
-          - [삼성 갤럭시 J5 (2016)](https://ko.wikipedia.org/wiki/삼성_갤럭시_J5_\(2016\) "wikilink") 누가 업데이트로 적용
+          - [삼성 갤럭시 A8 (2018)](../Page/삼성_갤럭시_A8_\(2018\).md "wikilink")
+          - [삼성 갤럭시 J5 (2016)](../Page/삼성_갤럭시_J5_\(2016\).md "wikilink") 누가 업데이트로 적용
           - [삼성 갤럭시 WIDE 1세대 (2016)](https://ko.wikipedia.org/wiki/삼성_갤럭시_WIDE_1세대_\(2016\) "wikilink") 누가 업데이트로 적용
           - [삼성 갤럭시 J2 Pro (2018, 공신폰)](https://ko.wikipedia.org/wiki/삼성_갤럭시_J2_Pro_\(2018,_공신폰\) "wikilink") 누가 기본탑재
 
 ## 같이 보기
 
-  - [터치위즈](https://ko.wikipedia.org/wiki/터치위즈 "wikilink")
+  - [터치위즈](../Page/터치위즈.md "wikilink")
 
 ## 각주
 

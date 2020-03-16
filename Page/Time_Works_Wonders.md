@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Time Works Wonders](https://ko.wikipedia.org/wiki/Time_Works_Wonders).
 
 
-〈**Time Works Wonders**〉(타임 워크 원더스)는 일본에서 발매한 대한민국 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 42번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
+〈**Time Works Wonders**〉(타임 워크 원더스)는 일본에서 발매한 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 42번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.
 
 ## 개요
 

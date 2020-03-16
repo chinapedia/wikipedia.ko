@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  vs.     ](https://ko.wikipedia.org/wiki/__vs._____).
 
 
-《**수전전대 쿄류저 VS 고버스터즈 공룡대결전 안녕히 영원한 친구여**》(Zyuden Sentai Kyoryuger vs. Go-Busters: The Great Dinosaur Battle\! Farewell Our Eternal Friends)는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 18일부터](https://ko.wikipedia.org/wiki/1월_18일 "wikilink") 도에이 계열에서 공개 영화이다. 특촬 히어로 작품 「슈퍼 전대 시리즈」 《[수전전대 쿄류저](https://ko.wikipedia.org/wiki/수전전대_쿄류저 "wikilink")》의 영화 작품이며, 슈퍼 전대 VS 시리즈의 하나이다.
+《**수전전대 쿄류저 VS 고버스터즈 공룡대결전 안녕히 영원한 친구여**》(Zyuden Sentai Kyoryuger vs. Go-Busters: The Great Dinosaur Battle\! Farewell Our Eternal Friends)는 [2014년](../Page/2014년.md "wikilink") [1월 18일부터](../Page/1월_18일.md "wikilink") 도에이 계열에서 공개 영화이다. 특촬 히어로 작품 「슈퍼 전대 시리즈」 《[수전전대 쿄류저](../Page/수전전대_쿄류저.md "wikilink")》의 영화 작품이며, 슈퍼 전대 VS 시리즈의 하나이다.
 
 ## 개요
 
-《[수전전대 쿄류저](https://ko.wikipedia.org/wiki/수전전대_쿄류저 "wikilink")》와 《[특명전대 고버스터즈](https://ko.wikipedia.org/wiki/특명전대_고버스터즈 "wikilink")》의 크로스 오버 작품으로 《[극장판 염신전대 고온저 vs. 게키레인저](../Page/극장판_염신전대_고온저_vs._게키레인저.md "wikilink")》부터 계속된 슈퍼 전대제 제6탄. VS시리즈에서는 처음 정식 부제가 달렸다\[1\]. 레드 버스터와 공룡 레드가 대면하는 장면에서는 전작 《[특명전대 고버스터즈 vs. 해적전대 고카이저 THE MOVIE](../Page/특명전대_고버스터즈_vs._해적전대_고카이저_THE_MOVIE.md "wikilink")》의 속편이 강조되어 있다.
+《[수전전대 쿄류저](../Page/수전전대_쿄류저.md "wikilink")》와 《[특명전대 고버스터즈](../Page/특명전대_고버스터즈.md "wikilink")》의 크로스 오버 작품으로 《[극장판 염신전대 고온저 vs. 게키레인저](../Page/극장판_염신전대_고온저_vs._게키레인저.md "wikilink")》부터 계속된 슈퍼 전대제 제6탄. VS시리즈에서는 처음 정식 부제가 달렸다\[1\]. 레드 버스터와 공룡 레드가 대면하는 장면에서는 전작 《[특명전대 고버스터즈 vs. 해적전대 고카이저 THE MOVIE](../Page/특명전대_고버스터즈_vs._해적전대_고카이저_THE_MOVIE.md "wikilink")》의 속편이 강조되어 있다.
 
-본 작품에서는 타이틀의 2작품 외에 과거의 슈퍼 전대 속에서 쿄류저와 같이 공룡을 모티브로 한 《[공룡전대 주레인저](https://ko.wikipedia.org/wiki/공룡전대_주레인저 "wikilink")》의 초기 멤버와 《[폭룡전대 아바레인저](https://ko.wikipedia.org/wiki/폭룡전대_아바레인저 "wikilink")》의 아바레 블랙/아스카를 들여다보다 초기 멤버와도 협연하고 있다\[2\]. 이미 배우를 은퇴한 모치즈키 유타 하시모토 타쿠미, 치바 레이코, 논 신용이지만 후지와라 히데키도 이 촬영 때문에 한때 복귀. 이 공연에서 공룡의 설정이 부활하고 있다.
+본 작품에서는 타이틀의 2작품 외에 과거의 슈퍼 전대 속에서 쿄류저와 같이 공룡을 모티브로 한 《[공룡전대 주레인저](../Page/공룡전대_주레인저.md "wikilink")》의 초기 멤버와 《[폭룡전대 아바레인저](../Page/폭룡전대_아바레인저.md "wikilink")》의 아바레 블랙/아스카를 들여다보다 초기 멤버와도 협연하고 있다\[2\]. 이미 배우를 은퇴한 모치즈키 유타 하시모토 타쿠미, 치바 레이코, 논 신용이지만 후지와라 히데키도 이 촬영 때문에 한때 복귀. 이 공연에서 공룡의 설정이 부활하고 있다.
 
 《버스터즈》본편에서 사망한 비트 버스터/진 마사토가 1차례의 부활을 이루고 있다. 포스터 등에서는 함께 비치고 있지만 《쿄류저》과 캐스트의 준수와의 관련은 없다.
 
@@ -46,8 +46,8 @@
 
 <!-- end list -->
 
-  - 게키(티라노렌쟈) : [모치즈키 유우타](https://ko.wikipedia.org/wiki/모치즈키_유우타 "wikilink")([공룡전대 주레인저](https://ko.wikipedia.org/wiki/공룡전대_주레인저 "wikilink"))
-  - 하루가 료유가(아바 레드) : 니시 코이치로([폭룡전대 아바레인저](https://ko.wikipedia.org/wiki/폭룡전대_아바레인저 "wikilink"))
+  - 게키(티라노렌쟈) : [모치즈키 유우타](https://ko.wikipedia.org/wiki/모치즈키_유우타 "wikilink")([공룡전대 주레인저](../Page/공룡전대_주레인저.md "wikilink"))
+  - 하루가 료유가(아바 레드) : 니시 코이치로([폭룡전대 아바레인저](../Page/폭룡전대_아바레인저.md "wikilink"))
   - 산죠 유키토(아바레 블루) (음성) : [토미타 쇼](https://ko.wikipedia.org/wiki/토미타_쇼 "wikilink")(폭룡전대 아바레인저)
 
 ### 주조연

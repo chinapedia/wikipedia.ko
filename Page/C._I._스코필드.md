@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [C. I. ](https://ko.wikipedia.org/wiki/C._I._).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:ScofieldCI.jpg "wikilink") **사이러스 인거선 스코필드**(Cyrus Ingerson Scofield, 1843년 8월 19일 \~ 1921년 7월 24일)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 신학자, 목회자, 그리고  [근본주의 기독교인들](https://ko.wikipedia.org/wiki/기독교_근본주의 "wikilink") 가운데서 [종말론](https://ko.wikipedia.org/wiki/종말론 "wikilink")과 [세대주의](../Page/세대주의.md "wikilink")를 대중화시킨 그의 베스트 셀러 [스코필드 관주성경의](../Page/스코필드_관주성경.md "wikilink") 저자이다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:ScofieldCI.jpg "wikilink") **사이러스 인거선 스코필드**(Cyrus Ingerson Scofield, 1843년 8월 19일 \~ 1921년 7월 24일)는 [미국](../Page/미국.md "wikilink")의 신학자, 목회자, 그리고  [근본주의 기독교인들](../Page/기독교_근본주의.md "wikilink") 가운데서 [종말론](../Page/종말론.md "wikilink")과 [세대주의](../Page/세대주의.md "wikilink")를 대중화시킨 그의 베스트 셀러 [스코필드 관주성경의](../Page/스코필드_관주성경.md "wikilink") 저자이다.
 
 [창조론](https://ko.wikipedia.org/wiki/창조론 "wikilink")자였으며 간격 이론(파괴/회복 이론)\[1\]을 지지했다.\[2\]
 

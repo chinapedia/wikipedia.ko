@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
 
 
-**조지프 레너드 골드스타인**(\[1\], [ForMemRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink")\[2\], [1940년](https://ko.wikipedia.org/wiki/1940년 "wikilink") [4월 18일](https://ko.wikipedia.org/wiki/4월_18일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자, [유전학](https://ko.wikipedia.org/wiki/유전학 "wikilink")자이다. 1985년에 [콜레스테롤](https://ko.wikipedia.org/wiki/콜레스테롤 "wikilink") 신진 [대사](https://ko.wikipedia.org/wiki/물질대사 "wikilink") 과정에 관한 연구로 [마이클 스튜어트 브라운과](../Page/마이클_스튜어트_브라운.md "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.\[3\]
+**조지프 레너드 골드스타인**(\[1\], [ForMemRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink")\[2\], [1940년](../Page/1940년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자, [유전학](../Page/유전학.md "wikilink")자이다. 1985년에 [콜레스테롤](../Page/콜레스테롤.md "wikilink") 신진 [대사](../Page/물질대사.md "wikilink") 과정에 관한 연구로 [마이클 스튜어트 브라운과](../Page/마이클_스튜어트_브라운.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[3\]
 
 ## 수상 경력
 
@@ -10,14 +10,14 @@
   - 1981년 : [가드너 국제상](https://ko.wikipedia.org/wiki/가드너_국제상 "wikilink")
   - 1984년 : [루이자 그로스 호르위츠상](https://ko.wikipedia.org/wiki/루이자_그로스_호르위츠상 "wikilink")
   - 1985년 : [앨버트 래스커 기초 의학 연구상](https://ko.wikipedia.org/wiki/앨버트_래스커_기초_의학_연구상 "wikilink")
-  - 1985년 : [노벨 생리학·의학상](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink")
+  - 1985년 : [노벨 생리학·의학상](../Page/노벨_생리학·의학상.md "wikilink")
   - 1985년 : 윌리엄 앨런상
   - 1988년 : [미국 국가 과학상](https://ko.wikipedia.org/wiki/미국_국가_과학상 "wikilink")
   - 2003년 : [올버니 의료센터 상](https://ko.wikipedia.org/wiki/올버니_의료센터_상 "wikilink")
 
 ## 회원
 
-  - 1991년 : [왕립학회](https://ko.wikipedia.org/wiki/왕립학회 "wikilink") 외국인 회원\[4\]
+  - 1991년 : [왕립학회](../Page/왕립학회.md "wikilink") 외국인 회원\[4\]
 
 ## 조사 논문
 

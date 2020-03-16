@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
 
 
-**메인 매리너스**(Maine Mariners)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [메인주](https://ko.wikipedia.org/wiki/메인주 "wikilink") [포틀랜드를](https://ko.wikipedia.org/wiki/포틀랜드_\(메인주\) "wikilink") 연고지로 하는 2018\~2019시즌부터 [ECHL](../Page/ECHL.md "wikilink")에 참가할 예정이다.
+**메인 매리너스**(Maine Mariners)는 [미국](../Page/미국.md "wikilink") [메인주](../Page/메인주.md "wikilink") [포틀랜드를](../Page/포틀랜드_\(메인주\).md "wikilink") 연고지로 하는 2018\~2019시즌부터 [ECHL](../Page/ECHL.md "wikilink")에 참가할 예정이다.
 
 ## 역대 홈경기장
 
@@ -27,7 +27,7 @@
 <td><p><a href="../Page/크로스_인슈어런스_아레나.md" title="wikilink">크로스 인슈어런스 아레나</a></p></td>
 <td><p>2018년~미래</p></td>
 <td><p>9,500명</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/메인주" title="wikilink">메인주</a> <a href="https://ko.wikipedia.org/wiki/포틀랜드_(메인주)" title="wikilink">포틀랜드</a></p></td>
+<td><p><a href="../Page/메인주.md" title="wikilink">메인주</a> <a href="../Page/포틀랜드_(메인주).md" title="wikilink">포틀랜드</a></p></td>
 <td></td>
 </tr>
 </tbody>

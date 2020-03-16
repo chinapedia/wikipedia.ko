@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [RPCS3](https://ko.wikipedia.org/wiki/RPCS3).
 
 
-**RPCS3**는 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink") [플레이스테이션 3를](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 위한 [자유-오픈 소스의](https://ko.wikipedia.org/wiki/자유-오픈_소스_소프트웨어 "wikilink") 개발 중인 [비디오 게임 콘솔 에뮬레이터이자](https://ko.wikipedia.org/wiki/비디오_게임_콘솔_에뮬레이터 "wikilink") [디버거](https://ko.wikipedia.org/wiki/디버거 "wikilink")이다. C++ 프로그래밍 언어로 개발되었으며 그 외에 백엔드 렌더러로서 OpenGL, 벌컨, DirectX 12를 사용하고 있다. 이 에뮬레이터는 현재 [마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 운영 체제에서 실행되며 플레이스테이션 3 게임들과 소프트웨어가 [개인용 컴퓨터에서](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 플레이 및 디버깅될 수 있게 한다.
+**RPCS3**는 [소니](../Page/소니.md "wikilink") [플레이스테이션 3를](../Page/플레이스테이션_3.md "wikilink") 위한 [자유-오픈 소스의](../Page/자유-오픈_소스_소프트웨어.md "wikilink") 개발 중인 [비디오 게임 콘솔 에뮬레이터이자](../Page/비디오_게임_콘솔_에뮬레이터.md "wikilink") [디버거](../Page/디버거.md "wikilink")이다. C++ 프로그래밍 언어로 개발되었으며 그 외에 백엔드 렌더러로서 OpenGL, 벌컨, DirectX 12를 사용하고 있다. 이 에뮬레이터는 현재 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink") 운영 체제에서 실행되며 플레이스테이션 3 게임들과 소프트웨어가 [개인용 컴퓨터에서](../Page/개인용_컴퓨터.md "wikilink") 플레이 및 디버깅될 수 있게 한다.
 
 2017년 10월 3일 기준으로 개발자의 호환성 목록은 447개의 게임이 플레이가 가능하며 2851개의 게임 중 838개의 게임이 진입이 가능하다고 표시하고 있다.\[1\]
 
 ## 개발
 
-처음에 RPCS3는 2011년 5월 23일 프로그래머 DH와 Hykem에 의해 개발되었다.\[2\] 개발자들은 처음에 [구글 디벨로퍼스에](https://ko.wikipedia.org/wiki/구글_디벨로퍼스 "wikilink") 프로젝트를 호스팅하였으며 2013년 8월 27일 최종적으로 [깃허브](https://ko.wikipedia.org/wiki/깃허브 "wikilink")로 이동하였다. 이 에뮬레이터는 2011년 9월 단순한 [Homebrew](https://ko.wikipedia.org/wiki/Homebrew "wikilink") 프로젝트를 성공적으로 구동할 수 있었으며\[3\] 나중에 2012년 6월 v0.0.0.2로 출시되었고,\[4\] 2013년 8월에는 v0.0.0.4,\[5\] 2014년 6월에는 v0.0.0.5,\[6\] 2015년 10월에는 v0.0.0.6\[7\], 2016년 4월에는 v0.0.0.9가 출시되었다.\[8\]
+처음에 RPCS3는 2011년 5월 23일 프로그래머 DH와 Hykem에 의해 개발되었다.\[2\] 개발자들은 처음에 [구글 디벨로퍼스에](../Page/구글_디벨로퍼스.md "wikilink") 프로젝트를 호스팅하였으며 2013년 8월 27일 최종적으로 [깃허브](../Page/깃허브.md "wikilink")로 이동하였다. 이 에뮬레이터는 2011년 9월 단순한 [Homebrew](https://ko.wikipedia.org/wiki/Homebrew "wikilink") 프로젝트를 성공적으로 구동할 수 있었으며\[3\] 나중에 2012년 6월 v0.0.0.2로 출시되었고,\[4\] 2013년 8월에는 v0.0.0.4,\[5\] 2014년 6월에는 v0.0.0.5,\[6\] 2015년 10월에는 v0.0.0.6\[7\], 2016년 4월에는 v0.0.0.9가 출시되었다.\[8\]
 
 ## 요구사항
 
@@ -23,12 +23,12 @@
 
 ### ATLUS DMCA 사건
 
-RPCS3는 2017년 4월 [페르소나 5이](../Page/페르소나_5.md "wikilink") 서부 국가에 출시되기 이전에 이 게임을 에뮬레이트할 수 있다는 것으로 인해 상당한 미디어 집중을 받았다.\[15\]\[16\]\[17\]\[18\] 2017년 9월, [페르소나의](https://ko.wikipedia.org/wiki/Revelations:_Persona "wikilink") 개발사 [ATLUS](https://ko.wikipedia.org/wiki/ATLUS "wikilink")의 DMCA는 RPCS3의 [Patreon](https://ko.wikipedia.org/wiki/Patreon "wikilink") 페이지 삭제를 요청하였다. 이 조치는 Patreon 페이지가 이 에뮬레이터가 "페르소나 5"의 에뮬레이션 진행을 자주 언급하고 있다는 것에서 기인하였다. 그러나 이 요구는 페이지에서 페르소나 5 참조 내용을 제거하는 것에서 일단락되었다.\[19\]
+RPCS3는 2017년 4월 [페르소나 5이](../Page/페르소나_5.md "wikilink") 서부 국가에 출시되기 이전에 이 게임을 에뮬레이트할 수 있다는 것으로 인해 상당한 미디어 집중을 받았다.\[15\]\[16\]\[17\]\[18\] 2017년 9월, [페르소나의](https://ko.wikipedia.org/wiki/Revelations:_Persona "wikilink") 개발사 [ATLUS](../Page/ATLUS.md "wikilink")의 DMCA는 RPCS3의 [Patreon](https://ko.wikipedia.org/wiki/Patreon "wikilink") 페이지 삭제를 요청하였다. 이 조치는 Patreon 페이지가 이 에뮬레이터가 "페르소나 5"의 에뮬레이션 진행을 자주 언급하고 있다는 것에서 기인하였다. 그러나 이 요구는 페이지에서 페르소나 5 참조 내용을 제거하는 것에서 일단락되었다.\[19\]
 
 ## 같이 보기
 
   - [제니아](../Page/제니아_\(에뮬레이터\).md "wikilink"): 최초의 엑스박스 360 에뮬레이터
-  - [Cemu](https://ko.wikipedia.org/wiki/Cemu "wikilink"): 최초의 Wii U 에뮬레이터
+  - [Cemu](../Page/Cemu.md "wikilink"): 최초의 Wii U 에뮬레이터
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MARGINAL4](https://ko.wikipedia.org/wiki/MARGINAL4).
 
 
-《**MARGINAL＃4**》(매지컬 넘버 포)는 [Rejet](https://ko.wikipedia.org/wiki/Rejet "wikilink")가 "은하의 끝까지 Kiss를 전달하는 아이돌"을 컨셉으로 결성시킨 가공의 [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 17일에](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") 개최한 「Rejet Fes 2013」에 최초로 "Rejet Fes에서만 만날 수 없는 아이돌"로 발표됐다. 가공의 사무실인 피타고라스 프로덕션 소속이다.
+《**MARGINAL＃4**》(매지컬 넘버 포)는 [Rejet](https://ko.wikipedia.org/wiki/Rejet "wikilink")가 "은하의 끝까지 Kiss를 전달하는 아이돌"을 컨셉으로 결성시킨 가공의 [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). [2013년](../Page/2013년.md "wikilink") [2월 17일에](../Page/2월_17일.md "wikilink") 개최한 「Rejet Fes 2013」에 최초로 "Rejet Fes에서만 만날 수 없는 아이돌"로 발표됐다. 가공의 사무실인 피타고라스 프로덕션 소속이다.
 
 프로듀서는 [이와사키 다이스케](https://ko.wikipedia.org/wiki/이와사키_다이스케 "wikilink"). 일러스트레이터는 [키리시마 소우](https://ko.wikipedia.org/wiki/키리시마_소우 "wikilink"). 사운드 디렉터는 [타카이 레이](https://ko.wikipedia.org/wiki/타카이_레이 "wikilink"). 악곡에 관해서는 모든 작사를 이와사키 다이스케가 작곡을 MIKOTO가 가고 있다.
 
@@ -14,14 +14,14 @@
   - 아이바 루이 ()
     성우 : [타카하시 나오즈미](https://ko.wikipedia.org/wiki/타카하시_나오즈미 "wikilink"), [타나카 아이미](https://ko.wikipedia.org/wiki/타나카_아이미 "wikilink") (유년 시절)
   - 노무라 엘 ()
-    성우 : [KENN](https://ko.wikipedia.org/wiki/KENN "wikilink")
+    성우 : [KENN](../Page/KENN.md "wikilink")
   - 노무라 알 ()
     성우 : [스즈키 유우토](https://ko.wikipedia.org/wiki/스즈키_유우토 "wikilink")
 
 ### LAGRANGE POINT (라그렌지 포인트)
 
   - 마키시마 샤이 ()
-    성우 : [토요나가 토시유키](https://ko.wikipedia.org/wiki/토요나가_토시유키 "wikilink")
+    성우 : [토요나가 토시유키](../Page/토요나가_토시유키.md "wikilink")
   - 히무로 키라 ()
     성우 : [오오카와 겐키](https://ko.wikipedia.org/wiki/오오카와_겐키 "wikilink")
 

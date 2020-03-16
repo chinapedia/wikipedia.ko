@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [12 Gardens Live](https://ko.wikipedia.org/wiki/12_Gardens_Live).
 
 
-《**12 Gardens Live**》는 2006년 초 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink") [매디슨 스퀘어 가든에서](https://ko.wikipedia.org/wiki/매디슨_스퀘어_가든 "wikilink") 열린 미국의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [빌리 조엘의](https://ko.wikipedia.org/wiki/빌리_조엘 "wikilink") 공연을 담은 [라이브 음반이다](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink"). [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink") 발매되었다.
+《**12 Gardens Live**》는 2006년 초 [뉴욕](../Page/뉴욕.md "wikilink") [매디슨 스퀘어 가든에서](../Page/매디슨_스퀘어_가든.md "wikilink") 열린 미국의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 공연을 담은 [라이브 음반이다](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink"). [2006년](../Page/2006년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") 발매되었다.
 
 빌리 조엘의 잘 알려진 히트 곡들이 이 음반에 일부 수록되어 있지만, 그의 목소리가 굵어진 탓에 대부분의 곡들의 음정이 낮아졌다. 또한 빌리 조엘의 명곡인 〈[Piano Man](../Page/Piano_Man_\(노래\).md "wikilink")〉이 수록된 첫 번째 라이브 음반이다.
 
@@ -14,7 +14,7 @@
 3.  〈[Everybody Loves You Now](https://ko.wikipedia.org/wiki/Everybody_Loves_You_Now "wikilink")〉 – 3:04
 4.  〈[The Ballad of Billy the Kid](https://ko.wikipedia.org/wiki/The_Ballad_of_Billy_the_Kid "wikilink")〉 – 5:30
 5.  〈[The Entertainer](https://ko.wikipedia.org/wiki/The_Entertainer "wikilink")〉 – 4:01
-6.  〈[Vienna](https://ko.wikipedia.org/wiki/Vienna_\(빌리_조엘의_노래\) "wikilink")〉 – 3:35
+6.  〈[Vienna](../Page/Vienna_\(빌리_조엘의_노래\).md "wikilink")〉 – 3:35
 7.  〈[New York State of Mind](../Page/New_York_State_of_Mind.md "wikilink")〉 – 7:05
 8.  〈[The Night Is Still Young](https://ko.wikipedia.org/wiki/The_Night_Is_Still_Young "wikilink")〉 – 5:13
 9.  〈[Zanzibar](https://ko.wikipedia.org/wiki/Zanzibar_\(빌리_조엘의_노래\) "wikilink")〉 – 5:57
@@ -54,7 +54,7 @@
 | 호주 앨범([ARIA](https://ko.wikipedia.org/wiki/ARIA_차트 "wikilink"))\[1\]                    | 22 |
 | 오스트리아의 앨범([Ö3 오스트리아 탑 40](https://ko.wikipedia.org/wiki/Ö3_오스트리아_탑_40 "wikilink"))\[2\] | 11 |
 | 독일 앨범([GfK 엔터테인먼트 차트](https://ko.wikipedia.org/wiki/GfK_엔터테인먼트_차트 "wikilink"))\[3\]     | 80 |
-| 일본 앨범([오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))\[4\]                         | 52 |
+| 일본 앨범([오리콘](../Page/오리콘.md "wikilink"))\[4\]                                            | 52 |
 | UK 앨범([OCC](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink"))\[5\]                    | 95 |
 
 ## 각주

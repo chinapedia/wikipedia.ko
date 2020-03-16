@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TAG \(\)](https://ko.wikipedia.org/wiki/TAG_\(\)).
 
 
-**TAG**(, [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [골든차일드의](../Page/골든차일드_\(음악_그룹\).md "wikilink") 메인래퍼를 맡고 있다.\[1\]
+**TAG**(, [1998년](../Page/1998년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [골든차일드의](../Page/골든차일드_\(음악_그룹\).md "wikilink") 메인래퍼를 맡고 있다.\[1\]
 
 ## 학력
 
@@ -17,16 +17,16 @@
 
 ### 작사
 
-| 일시            | 기간     | 가수                                             | 음반명                                                             | 곡명             |
-| ------------- | ------ | ---------------------------------------------- | --------------------------------------------------------------- | -------------- |
-| 2017년         | 8월 28일 | [골든차일드](../Page/골든차일드_\(음악_그룹\).md "wikilink") | 《[Gol-Cha\!](../Page/Gol-Cha!.md "wikilink")》                   | 〈담다디〉          |
-| 〈네가 너무 좋아〉    |        |                                                |                                                                 |                |
-| 〈SEA〉         |        |                                                |                                                                 |                |
-| 2018년         | 1월 29일 | [골든차일드](../Page/골든차일드_\(음악_그룹\).md "wikilink") | 《[기적 (奇跡)](https://ko.wikipedia.org/wiki/기적_\(奇跡\) "wikilink")》 | 〈너라고 (It's U)〉 |
-| 〈LADY〉        |        |                                                |                                                                 |                |
-| 〈Crush〉       |        |                                                |                                                                 |                |
-| 〈모든 날〉        |        |                                                |                                                                 |                |
-| 〈I'm Falling〉 |        |                                                |                                                                 |                |
+| 일시            | 기간     | 가수                                             | 음반명                                           | 곡명             |
+| ------------- | ------ | ---------------------------------------------- | --------------------------------------------- | -------------- |
+| 2017년         | 8월 28일 | [골든차일드](../Page/골든차일드_\(음악_그룹\).md "wikilink") | 《[Gol-Cha\!](../Page/Gol-Cha!.md "wikilink")》 | 〈담다디〉          |
+| 〈네가 너무 좋아〉    |        |                                                |                                               |                |
+| 〈SEA〉         |        |                                                |                                               |                |
+| 2018년         | 1월 29일 | [골든차일드](../Page/골든차일드_\(음악_그룹\).md "wikilink") | 《[기적 (奇跡)](../Page/기적_\(奇跡\).md "wikilink")》  | 〈너라고 (It's U)〉 |
+| 〈LADY〉        |        |                                                |                                               |                |
+| 〈Crush〉       |        |                                                |                                               |                |
+| 〈모든 날〉        |        |                                                |                                               |                |
+| 〈I'm Falling〉 |        |                                                |                                               |                |
 
 ## 음반 외 활동 목록
 
@@ -36,7 +36,7 @@
 
 | 일시     | 기간                                                          | 방송사                                                                       | 프로그램명       |
 | ------ | ----------------------------------------------------------- | ------------------------------------------------------------------------- | ----------- |
-| 2018년  | 2월 8일                                                       | [아리랑 라디오](https://ko.wikipedia.org/wiki/아리랑_라디오 "wikilink")               | 《K-Poppin'》 |
+| 2018년  | 2월 8일                                                       | [아리랑 라디오](../Page/아리랑_라디오.md "wikilink")                                  | 《K-Poppin'》 |
 | 2월 14일 | [KBS 쿨FM](https://ko.wikipedia.org/wiki/KBS_쿨FM "wikilink") | 《[이홍기의 키스 더 라디오](https://ko.wikipedia.org/wiki/이홍기의_키스_더_라디오 "wikilink")》 |             |
 
 ## 각주

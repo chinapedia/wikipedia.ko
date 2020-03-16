@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MY ONLY ONE](https://ko.wikipedia.org/wiki/MY_ONLY_ONE).
 
 
-〈**MY ONLY ONE**〉 (마이 온리 원)은 [9nine](https://ko.wikipedia.org/wiki/9nine "wikilink")의 18번째 싱글이며 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 26일에](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") **SME Records**로 부터 발매되었다.
+〈**MY ONLY ONE**〉 (마이 온리 원)은 [9nine](../Page/9nine.md "wikilink")의 18번째 싱글이며 [2015년](../Page/2015년.md "wikilink") [8월 26일에](../Page/8월_26일.md "wikilink") **SME Records**로 부터 발매되었다.
 
 ## 개요
 
@@ -43,10 +43,10 @@
 
 ## 타이업
 
-| 곡명          | 타이업                                                                                                                                                                        |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| MY ONLY ONE | [YTV](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink")・[NTV계](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 애니메이션 『[전파교사](../Page/전파교사.md "wikilink")』의 7월 엔딩 테마 |
-|             |                                                                                                                                                                            |
+| 곡명          | 타이업                                                                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| MY ONLY ONE | [YTV](../Page/요미우리_TV_방송.md "wikilink")・[NTV계](../Page/닛폰_TV_방송망.md "wikilink") 애니메이션 『[전파교사](../Page/전파교사.md "wikilink")』의 7월 엔딩 테마 |
+|             |                                                                                                                                      |
 
 ## 외부 링크
 

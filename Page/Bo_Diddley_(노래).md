@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bo Diddley \(\)](https://ko.wikipedia.org/wiki/Bo_Diddley_\(\)).
 
 
-〈**Bo Diddley**〉는 [보 디들리가](../Page/보_디들리.md "wikilink") 시카코 [유니버셜 레코딩 스튜디오에서](https://ko.wikipedia.org/wiki/유니버셜_레코딩_스튜디오 "wikilink") 녹음한 [리듬 앤 블루스](https://ko.wikipedia.org/wiki/리듬_앤_블루스 "wikilink") 및 [로큰롤](https://ko.wikipedia.org/wiki/로큰롤 "wikilink") 노래다. 1955년 [체스 레코드의](../Page/체스_레코드.md "wikilink") 자회사 [체커 레코드에서](https://ko.wikipedia.org/wiki/체커_레코드 "wikilink") 발매했다. 나온 즉시 히트 싱글이 되었고 R\&B 차트에서 통산 18주 머물렀다. 이 중 2주는 1위를 달성했으며, 차트에서 뒷면 〈I'm a Man〉 보다 7주간 더 머물렀다.\[1\] 이 노래는 [두들기는 주바](https://ko.wikipedia.org/wiki/주바_댄스 "wikilink") 비트가 사용된, 아프리카 리듬이 로큰롤에 적용된 최초의 사례다. 보 디들리가 처음으로 한 녹음이자 그의 첫 히트 싱글이었다.\[2\] 노래는 《[His Best](https://ko.wikipedia.org/wiki/His_Best_\(보_디들리의_음반\) "wikilink")》 등 디들리의 컴필레이션 음반에 자주 수록된다.
+〈**Bo Diddley**〉는 [보 디들리가](../Page/보_디들리.md "wikilink") 시카코 [유니버셜 레코딩 스튜디오에서](https://ko.wikipedia.org/wiki/유니버셜_레코딩_스튜디오 "wikilink") 녹음한 [리듬 앤 블루스](https://ko.wikipedia.org/wiki/리듬_앤_블루스 "wikilink") 및 [로큰롤](../Page/로큰롤.md "wikilink") 노래다. 1955년 [체스 레코드의](../Page/체스_레코드.md "wikilink") 자회사 [체커 레코드에서](https://ko.wikipedia.org/wiki/체커_레코드 "wikilink") 발매했다. 나온 즉시 히트 싱글이 되었고 R\&B 차트에서 통산 18주 머물렀다. 이 중 2주는 1위를 달성했으며, 차트에서 뒷면 〈I'm a Man〉 보다 7주간 더 머물렀다.\[1\] 이 노래는 [두들기는 주바](https://ko.wikipedia.org/wiki/주바_댄스 "wikilink") 비트가 사용된, 아프리카 리듬이 로큰롤에 적용된 최초의 사례다. 보 디들리가 처음으로 한 녹음이자 그의 첫 히트 싱글이었다.\[2\] 노래는 《[His Best](https://ko.wikipedia.org/wiki/His_Best_\(보_디들리의_음반\) "wikilink")》 등 디들리의 컴필레이션 음반에 자주 수록된다.
 
 2012년 A면 B면 모두 [미의회도서관](https://ko.wikipedia.org/wiki/미의회도서관 "wikilink") [국립 녹음 등재 목록에](https://ko.wikipedia.org/wiki/국립_녹음_등재_목록 "wikilink") "문화적, 역사적, 또는 미학적 중요성"이 있는 미국 음향 녹음으로 인정되어 등록되었다.\[3\]
 
@@ -15,7 +15,7 @@
 
 ## 유산 및 수상
 
-이 싱글은 [올뮤직](https://ko.wikipedia.org/wiki/올뮤직 "wikilink") 평론가 리치 언터베르거에게 "양면의 괴물"이라는 평가를 얻었다.\[10\] 〈Bo Diddley〉는 트레몰로 기타 열풍을 불러일으켜, 아동 성가에 쓰이기 시작했다. 〈I'm a Man〉은 덜컹거리고 삐걱거리는 셔플이 강력한 블루스 리프와 만나 곡 전체에서 이리저리 움직이는 모양을 한다. 결과적으로 곡은 새로운 유형의 기타 기반의, 블루스 및 R\&B에 흠뻑 젖은 로큰롤을 탄생시켰다.\[11\] 곡은 《[롤링 스톤](https://ko.wikipedia.org/wiki/롤링_스톤 "wikilink")》 "역대 가장 위대한 500곡"에서 62위로 선출되었다. 또한 [로큰롤 명예의 전당](https://ko.wikipedia.org/wiki/로큰롤_명예의_전당 "wikilink") "로큰롤을 형성한 노래 500곡" 가운데 하나다.\[12\] 1988년 [그래미 명예의 전당상을](https://ko.wikipedia.org/wiki/그래미_명예의_전당 "wikilink") 수여받았다.\[13\]
+이 싱글은 [올뮤직](../Page/올뮤직.md "wikilink") 평론가 리치 언터베르거에게 "양면의 괴물"이라는 평가를 얻었다.\[10\] 〈Bo Diddley〉는 트레몰로 기타 열풍을 불러일으켜, 아동 성가에 쓰이기 시작했다. 〈I'm a Man〉은 덜컹거리고 삐걱거리는 셔플이 강력한 블루스 리프와 만나 곡 전체에서 이리저리 움직이는 모양을 한다. 결과적으로 곡은 새로운 유형의 기타 기반의, 블루스 및 R\&B에 흠뻑 젖은 로큰롤을 탄생시켰다.\[11\] 곡은 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》 "역대 가장 위대한 500곡"에서 62위로 선출되었다. 또한 [로큰롤 명예의 전당](../Page/로큰롤_명예의_전당.md "wikilink") "로큰롤을 형성한 노래 500곡" 가운데 하나다.\[12\] 1988년 [그래미 명예의 전당상을](https://ko.wikipedia.org/wiki/그래미_명예의_전당 "wikilink") 수여받았다.\[13\]
 
 ## 각주
 

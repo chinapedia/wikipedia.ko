@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cemu](https://ko.wikipedia.org/wiki/Cemu).
 
 
-**Cemu**는 [마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 기반 개인용 컴퓨터용 [Wii U](https://ko.wikipedia.org/wiki/Wii_U "wikilink") [비디오 게임 콘솔 에뮬레이터이다](https://ko.wikipedia.org/wiki/비디오_게임_콘솔_에뮬레이터 "wikilink").\[1\] 2명에 의해서 개발되었으며 2015년 10월 13일 첫 출시되었다.\[2\]\[3\]\[4\] 일반적으로 이 에뮬레이터는 2\~4주에 한 번씩 업데이트되며 [Patreon](https://ko.wikipedia.org/wiki/Patreon "wikilink") 지원자들은 공식 출시일보다 한 주 더 일찍 업데이트를 받을 수 있다.\[5\] 현재 개발이 진행 중이기는 하지만 특정 게임들은 부드럽게 구동할 수 있다.\[6\]\[7\] 2017년 기준으로, Wii U용 오픈 소스 Decaf 에뮬레이터와 더불어 유일한 [8세대 비디오 게임 콘솔](https://ko.wikipedia.org/wiki/8세대_비디오_게임_콘솔 "wikilink") 에뮬레이터들 가운데 하나이며 [플레이스테이션 4](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink"), [닌텐도 스위치는](../Page/닌텐도_스위치.md "wikilink") 아직까지 충분히 리버스 엔지니어링되지 않았다.\[8\]
+**Cemu**는 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 기반 개인용 컴퓨터용 [Wii U](../Page/Wii_U.md "wikilink") [비디오 게임 콘솔 에뮬레이터이다](../Page/비디오_게임_콘솔_에뮬레이터.md "wikilink").\[1\] 2명에 의해서 개발되었으며 2015년 10월 13일 첫 출시되었다.\[2\]\[3\]\[4\] 일반적으로 이 에뮬레이터는 2\~4주에 한 번씩 업데이트되며 [Patreon](https://ko.wikipedia.org/wiki/Patreon "wikilink") 지원자들은 공식 출시일보다 한 주 더 일찍 업데이트를 받을 수 있다.\[5\] 현재 개발이 진행 중이기는 하지만 특정 게임들은 부드럽게 구동할 수 있다.\[6\]\[7\] 2017년 기준으로, Wii U용 오픈 소스 Decaf 에뮬레이터와 더불어 유일한 [8세대 비디오 게임 콘솔](https://ko.wikipedia.org/wiki/8세대_비디오_게임_콘솔 "wikilink") 에뮬레이터들 가운데 하나이며 [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink"), [닌텐도 스위치는](../Page/닌텐도_스위치.md "wikilink") 아직까지 충분히 리버스 엔지니어링되지 않았다.\[8\]
 
 ## 개발
 

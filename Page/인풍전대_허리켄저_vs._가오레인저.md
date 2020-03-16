@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
 
 
-《**인풍전대 허리켄저 vs. 가오레인저**》(忍風戦隊ハリケンジャーVSガオレンジャー)는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [3월 12일에](https://ko.wikipedia.org/wiki/3월_12일 "wikilink") 발매된 오리지널 비디오 작품이다. 《[인풍전대 허리켄저](https://ko.wikipedia.org/wiki/인풍전대_허리켄저 "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 vs. 시리즈의 하나이다.
+《**인풍전대 허리켄저 vs. 가오레인저**》(忍風戦隊ハリケンジャーVSガオレンジャー)는 [2003년](../Page/2003년.md "wikilink") [3월 12일에](../Page/3월_12일.md "wikilink") 발매된 오리지널 비디오 작품이다. 《[인풍전대 허리켄저](https://ko.wikipedia.org/wiki/인풍전대_허리켄저 "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 vs. 시리즈의 하나이다.
 
 ## 개요
 
-《[인풍전대 허리켄저](https://ko.wikipedia.org/wiki/인풍전대_허리켄저 "wikilink")》와 《[백수전대 가오레인저](https://ko.wikipedia.org/wiki/백수전대_가오레인저 "wikilink")》의 크로스 오버 작품인 슈퍼 전대 V시네마 제9작. 본작에서 처음 동봉 특전이 붙게 됐다.
+《[인풍전대 허리켄저](https://ko.wikipedia.org/wiki/인풍전대_허리켄저 "wikilink")》와 《[백수전대 가오레인저](../Page/백수전대_가오레인저.md "wikilink")》의 크로스 오버 작품인 슈퍼 전대 V시네마 제9작. 본작에서 처음 동봉 특전이 붙게 됐다.
 
-제작상은 《인풍전대 허리켄저》 텔레비전 시리즈 본편의 권의 이십오서 읽노 이십육 사이의 여름의 일로 자리 매김되고 있는데\<ref name = "HN2\>《토에이 히어로 인터넷 타케 모토 노보루 감독 인터뷰》. 2013년 12월 24일 열람.</ref>, 후에 제작된 《[굉굉전대 보우켄저 vs. 슈퍼전대](https://ko.wikipedia.org/wiki/굉굉전대_보우켄저_vs._슈퍼전대 "wikilink")》에서는 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 일어난 사건으로 설정되어 있다\[1\].
+제작상은 《인풍전대 허리켄저》 텔레비전 시리즈 본편의 권의 이십오서 읽노 이십육 사이의 여름의 일로 자리 매김되고 있는데\<ref name = "HN2\>《토에이 히어로 인터넷 타케 모토 노보루 감독 인터뷰》. 2013년 12월 24일 열람.</ref>, 후에 제작된 《[굉굉전대 보우켄저 vs. 슈퍼전대](https://ko.wikipedia.org/wiki/굉굉전대_보우켄저_vs._슈퍼전대 "wikilink")》에서는 [2002년](../Page/2002년.md "wikilink") [10월](../Page/10월.md "wikilink")에 일어난 사건으로 설정되어 있다\[1\].
 
 그것까지 VS시리즈에서는 실제로 전대끼리 맞붙는 장면은 적어 본작에서는 《[허리켄저](https://ko.wikipedia.org/wiki/허리켄저 "wikilink")》의 자칸쟈 암흑 나나 모르는 5명(츄우즈보과 선달 이외)이 "적조직의 간부가 전대(가오레인저)의 변신 아이템을 빼앗아 가짜 가오레인저로 변신하다는 식으로 전개되어 두 전대가 싸우는 장면도 많다\[2\].
 

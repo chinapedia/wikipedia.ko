@@ -22,12 +22,12 @@
 
   - [구텐베르크 은하계](https://ko.wikipedia.org/wiki/구텐베르크_은하계 "wikilink")
   - [마샬 맥루한](https://ko.wikipedia.org/wiki/마샬_맥루한 "wikilink")
-  - [갈맷길](https://ko.wikipedia.org/wiki/갈맷길 "wikilink")
-  - [공공 데이터](https://ko.wikipedia.org/wiki/공공_데이터 "wikilink")
+  - [갈맷길](../Page/갈맷길.md "wikilink")
+  - [공공 데이터](../Page/공공_데이터.md "wikilink")
   - [공공데이터포털](../Page/공공데이터포털.md "wikilink")
   - [하브루타](../Page/하브루타.md "wikilink")
-  - [로스앤젤레스 다저스](https://ko.wikipedia.org/wiki/로스앤젤레스_다저스 "wikilink")
-  - [에어버스 A350 XWB](https://ko.wikipedia.org/wiki/에어버스_A350_XWB "wikilink")
+  - [로스앤젤레스 다저스](../Page/로스앤젤레스_다저스.md "wikilink")
+  - [에어버스 A350 XWB](../Page/에어버스_A350_XWB.md "wikilink")
 
 ## 사진
 

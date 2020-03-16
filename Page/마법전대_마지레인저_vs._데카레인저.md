@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
 
 
-《**마법전대 마지레인저 vs. 데카레인저**》 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 10일에](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") 발매된 오리지널 비디오 작품이다. 《[마법전대 마지레인저](https://ko.wikipedia.org/wiki/마법전대_마지레인저 "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 VS시리즈의 하나이다.
+《**마법전대 마지레인저 vs. 데카레인저**》 [2006년](../Page/2006년.md "wikilink") [3월 10일에](../Page/3월_10일.md "wikilink") 발매된 오리지널 비디오 작품이다. 《[마법전대 마지레인저](https://ko.wikipedia.org/wiki/마법전대_마지레인저 "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 VS시리즈의 하나이다.
 
 ## 출연진
 
@@ -17,7 +17,7 @@
   - 토마스 호지/데카 블루(음성) - 하야시 츠요시
   - 에나리 센이치/데카 그린(음성) - 이토 요스케
   - 레이몬 마리카/데카 옐로(음성) - 키노시타 아유미
-  - 코도우 코도메/데카 핑크(음성) - [키쿠치 미카](https://ko.wikipedia.org/wiki/키쿠치_미카 "wikilink")
+  - 코도우 코도메/데카 핑크(음성) - [키쿠치 미카](../Page/키쿠치_미카.md "wikilink")
   - 아이라 텟칸/데카 브레이크(음성) - [요시다 토모카즈](https://ko.wikipedia.org/wiki/요시다_토모카즈 "wikilink")
   - 도기 크루거/데카 마스터(음성) - 이나다 테츠
 

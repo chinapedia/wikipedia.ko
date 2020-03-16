@@ -102,8 +102,8 @@
 
 ## 같이 보기
 
-  - [틀:8TeamBracket-Compact-NoSeeds-Byes](https://ko.wikipedia.org/wiki/틀:8TeamBracket-Compact-NoSeeds-Byes "wikilink")
-  - [틀:16TeamBracket-Compact-NoSeeds-Byes](https://ko.wikipedia.org/wiki/틀:16TeamBracket-Compact-NoSeeds-Byes "wikilink")
+  - [틀:8TeamBracket-Compact-NoSeeds-Byes](../Page/틀:8TeamBracket-Compact-NoSeeds-Byes.md "wikilink")
+  - [틀:16TeamBracket-Compact-NoSeeds-Byes](../Page/틀:16TeamBracket-Compact-NoSeeds-Byes.md "wikilink")
   - [틀:32TeamBracket](https://ko.wikipedia.org/wiki/틀:32TeamBracket "wikilink")
 
 [](https://ko.wikipedia.org/wiki/분류:4강_틀 "wikilink") </noinclude>

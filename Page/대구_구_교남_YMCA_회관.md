@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   YMCA ](https://ko.wikipedia.org/wiki/___YMCA_).
 
 
-**대구 구 교남 YMCA 회관**은 [대구광역시](https://ko.wikipedia.org/wiki/대구광역시 "wikilink") [중구에](https://ko.wikipedia.org/wiki/중구_\(대구광역시\) "wikilink") 있는 [일제강점기](https://ko.wikipedia.org/wiki/일제강점기 "wikilink")의 건축물이다. 2013년 10월 29일 [대한민국의 국가등록문화재](https://ko.wikipedia.org/wiki/대한민국의_국가등록문화재 "wikilink") 제570호로 지정되었다.
+**대구 구 교남 YMCA 회관**은 [대구광역시](../Page/대구광역시.md "wikilink") [중구에](../Page/중구_\(대구광역시\).md "wikilink") 있는 [일제강점기](https://ko.wikipedia.org/wiki/일제강점기 "wikilink")의 건축물이다. 2013년 10월 29일 [대한민국의 국가등록문화재](https://ko.wikipedia.org/wiki/대한민국의_국가등록문화재 "wikilink") 제570호로 지정되었다.
 
 ## 개요
 

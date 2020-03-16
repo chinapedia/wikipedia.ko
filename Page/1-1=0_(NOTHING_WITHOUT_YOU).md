@@ -13,7 +13,7 @@
 | ------------------------------------------------------------------------- | ---- |
 | 대한민국 ([가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink"))\[2\] | 1    |
 | 미국 ([빌보드 월드 앨범 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))\[3\] | 12   |
-| 일본 ([오리콘 앨범 차트](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))\[4\]       | 8    |
+| 일본 ([오리콘 앨범 차트](../Page/오리콘.md "wikilink"))\[4\]                          | 8    |
 
 ### 월간 차트
 
@@ -33,7 +33,7 @@
 | -------------------------------------------------------------------- | -------- |
 | 대한민국 ([가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink")) | 642,518+ |
 | 중국 ([QQ 차트](https://ko.wikipedia.org/wiki/QQ "wikilink"))            | 90,000+  |
-| 일본 ([오리콘 차트](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))          | 32,833+  |
+| 일본 ([오리콘 차트](../Page/오리콘.md "wikilink"))                             | 32,833+  |
 
 ## 각주
 

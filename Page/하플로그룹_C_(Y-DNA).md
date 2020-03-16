@@ -3,13 +3,13 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Haplogroup_C_\(Y-DNA\)_migration.png "wikilink") **하플로그룹 C** 또는 **하플로그룹 C-M130**는 주요 [인류 Y-염색체 DNA 하플로그룹](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 중 하나로, [SNP 돌연변이](https://ko.wikipedia.org/wiki/단일염기_다형성 "wikilink") UEPs M130/RPS4Y711, P184, P255, 그리고 P260의 유무로 결정된다. [하플로그룹 F와](https://ko.wikipedia.org/wiki/하플로그룹_F_\(Y-DNA\) "wikilink") 함께 [하플로그룹 CF의](https://ko.wikipedia.org/wiki/하플로그룹_CF_\(Y-DNA\) "wikilink") 처음의 두 분파 중 하나이다. 아프리카를 제외한 모든 대륙의 고대 인구에게서 발견된다.
 
-[동아시아](https://ko.wikipedia.org/wiki/동아시아 "wikilink"), [중앙아시아](https://ko.wikipedia.org/wiki/중앙아시아 "wikilink"), [시베리아](https://ko.wikipedia.org/wiki/시베리아 "wikilink"), [북아메리카](https://ko.wikipedia.org/wiki/북아메리카 "wikilink"), [오세아니아](https://ko.wikipedia.org/wiki/오세아니아 "wikilink")의 원주민들이 주로 이 하플로그룹에 분류되며, [남아시아](https://ko.wikipedia.org/wiki/남아시아 "wikilink")와 [동남아시아](https://ko.wikipedia.org/wiki/동남아시아 "wikilink")에서도 중간 정도의 비율로, [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에서도 적은 비율로 찾아진다. 하플로그룹 C는 [하플로그룹 C1과](https://ko.wikipedia.org/wiki/하플로그룹_C1_\(Y-DNA\) "wikilink") [하플로그룹 C2로](https://ko.wikipedia.org/wiki/하플로그룹_C2_\(Y-DNA\) "wikilink") 다시 자세히 분류되기도 한다.
+[동아시아](https://ko.wikipedia.org/wiki/동아시아 "wikilink"), [중앙아시아](../Page/중앙아시아.md "wikilink"), [시베리아](../Page/시베리아.md "wikilink"), [북아메리카](../Page/북아메리카.md "wikilink"), [오세아니아](../Page/오세아니아.md "wikilink")의 원주민들이 주로 이 하플로그룹에 분류되며, [남아시아](../Page/남아시아.md "wikilink")와 [동남아시아](../Page/동남아시아.md "wikilink")에서도 중간 정도의 비율로, [유럽](../Page/유럽.md "wikilink")에서도 적은 비율로 찾아진다. 하플로그룹 C는 [하플로그룹 C1과](../Page/하플로그룹_C1_\(Y-DNA\).md "wikilink") [하플로그룹 C2로](../Page/하플로그룹_C2_\(Y-DNA\).md "wikilink") 다시 자세히 분류되기도 한다.
 
 ## 계통수
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Geographic_distributions_of_Y_chromosome_haplogroups_C_in_East_Asia.png "wikilink") **C\* (M130/Page51/RPS4Y711, M216)**
 
-  - **[C1](https://ko.wikipedia.org/wiki/하플로그룹_C1_\(Y-DNA\) "wikilink") (F3393)**
+  - **[C1](../Page/하플로그룹_C1_\(Y-DNA\).md "wikilink") (F3393)**
       - **C1a (CTS11043)**
           - **[C1a1](https://ko.wikipedia.org/wiki/Haplogroup_C-M8 "wikilink") M8**
               - **C1a1a P121**
@@ -30,7 +30,7 @@
                       - **C1b2a1b P54**
               - **C1b2b (전 C4) M347**
                   - **C1b2b1 M210**
-  - **[C2](https://ko.wikipedia.org/wiki/하플로그룹_C2_\(Y-DNA\) "wikilink") (전 C3) M217**
+  - **[C2](../Page/하플로그룹_C2_\(Y-DNA\).md "wikilink") (전 C3) M217**
       - **C2a M93**
       - **C2b L1373, F1396**
           - **C2b1**

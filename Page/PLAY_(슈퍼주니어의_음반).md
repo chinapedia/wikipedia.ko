@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [PLAY \( \)](https://ko.wikipedia.org/wiki/PLAY_\(_\)).
 
 
-《**PLAY**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 남성 그룹 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 8번째 정규 앨범으로, 2017년 11월 6일 발매되었다. 2015년 7월 발표된 데뷔 10주년 스페셜 앨범 《[Devil](../Page/Devil_\(슈퍼주니어의_음반\).md "wikilink")》 이후 2년 2개월 만에 발표된 앨범으로, 본 앨범에는 [이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink"), [희철](https://ko.wikipedia.org/wiki/김희철_\(가수\) "wikilink"), [예성](https://ko.wikipedia.org/wiki/예성 "wikilink"), [신동](https://ko.wikipedia.org/wiki/신동_\(가수\) "wikilink"), [은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink"), [시원](../Page/시원_\(가수\).md "wikilink"), [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink") 등 총 7명의 멤버가 참여하였다.\[1\] 타이틀곡 〈Black Suit〉는 자유분방한 스윙 계열 브라스 리듬 위에 절제된 멜로디를 주축으로 한 마이너 댄스 팝 장르곡으로, 어둠 속 찰나의 순간, 마음을 훔치기 위해 'Black Suit'를 차려 입은 자신감 넘치는 남자의 모습을 '루팡'에 비유한 가사가 특징.
+《**PLAY**》는 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 8번째 정규 앨범으로, 2017년 11월 6일 발매되었다. 2015년 7월 발표된 데뷔 10주년 스페셜 앨범 《[Devil](../Page/Devil_\(슈퍼주니어의_음반\).md "wikilink")》 이후 2년 2개월 만에 발표된 앨범으로, 본 앨범에는 [이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink"), [희철](../Page/김희철_\(가수\).md "wikilink"), [예성](../Page/예성.md "wikilink"), [신동](../Page/신동_\(가수\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [시원](../Page/시원_\(가수\).md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink") 등 총 7명의 멤버가 참여하였다.\[1\] 타이틀곡 〈Black Suit〉는 자유분방한 스윙 계열 브라스 리듬 위에 절제된 멜로디를 주축으로 한 마이너 댄스 팝 장르곡으로, 어둠 속 찰나의 순간, 마음을 훔치기 위해 'Black Suit'를 차려 입은 자신감 넘치는 남자의 모습을 '루팡'에 비유한 가사가 특징.
 
 ## 앨범 구성
 
   - 일반판 : 어두운 색조의 블랙수트 차림새 컨셉의 'Black Suit' 버전과 캐주얼미가 돋보이는 'One More Chance' 버전 등 두 종류로 커버되어 있다.
-  - Pause 버전 : 'Black Suit' 버전과 'One More Chance' 버전의 앨범 작업 과정을 담은 2종의 프라이빗 자켓 북클립과 [려욱](https://ko.wikipedia.org/wiki/려욱 "wikilink"), [규현](https://ko.wikipedia.org/wiki/규현 "wikilink")의 손편지로 인쇄된 포토카드, 그리고 CD 한정으로 수록된 [슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink")의 곡 〈愛,태우다 (Shadowless)〉가 수록되어 있다.
+  - Pause 버전 : 'Black Suit' 버전과 'One More Chance' 버전의 앨범 작업 과정을 담은 2종의 프라이빗 자켓 북클립과 [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink")의 손편지로 인쇄된 포토카드, 그리고 CD 한정으로 수록된 [슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink")의 곡 〈愛,태우다 (Shadowless)〉가 수록되어 있다.
 
 ## 수록곡
 
@@ -35,22 +35,22 @@
 </tr>
 <tr class="odd">
 <td><p>2017년 11월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a> <a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a></p></td>
+<td><p><a href="../Page/KBS_2TV.md" title="wikilink">KBS 2TV</a> <a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a></p></td>
 <td><p>비처럼 가지 마요 (One More Chance) + Black Suit</p></td>
 </tr>
 <tr class="even">
 <td><p>2017년 11월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SBS_인기가요" title="wikilink">SBS 인기가요</a></p></td>
+<td><p><a href="../Page/SBS_인기가요.md" title="wikilink">SBS 인기가요</a></p></td>
 <td><p>인터뷰 + 비처럼 가지 마요 (One More Chance) + Black Suit</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017년 11월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a> <a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a></p></td>
+<td><p><a href="../Page/KBS_2TV.md" title="wikilink">KBS 2TV</a> <a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a></p></td>
 <td><p>Black Suit</p></td>
 </tr>
 <tr class="even">
 <td><p>2017년 11월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SBS_인기가요" title="wikilink">SBS 인기가요</a></p></td>
+<td><p><a href="../Page/SBS_인기가요.md" title="wikilink">SBS 인기가요</a></p></td>
 <td><p>Black Suit</p></td>
 </tr>
 <tr class="odd">
@@ -61,25 +61,25 @@
 <tr class="even">
 <td><p>2017년 2월 11일<br />
 <small>(2일 녹화)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JTBC" title="wikilink">JTBC</a> <a href="../Page/아는_형님.md" title="wikilink">아는 형님</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이특_(가수)" title="wikilink">이특</a>, <a href="https://ko.wikipedia.org/wiki/신동_(가수)" title="wikilink">신동</a></p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a> <a href="../Page/아는_형님.md" title="wikilink">아는 형님</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이특_(가수)" title="wikilink">이특</a>, <a href="../Page/신동_(가수).md" title="wikilink">신동</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017년 4월 20일<br />
 <small>(12일 녹화)</small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> <a href="https://ko.wikipedia.org/wiki/너의_목소리가_보여_(대한민국의_텔레비전_프로그램)" title="wikilink">너의 목소리가 보여</a> 시즌4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김희철_(가수)" title="wikilink">희철</a>, <a href="https://ko.wikipedia.org/wiki/예성" title="wikilink">예성</a>, <a href="https://ko.wikipedia.org/wiki/신동_(가수)" title="wikilink">신동</a></p></td>
+<td><p><a href="../Page/김희철_(가수).md" title="wikilink">희철</a>, <a href="../Page/예성.md" title="wikilink">예성</a>, <a href="../Page/신동_(가수).md" title="wikilink">신동</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017년 11월 4일<br />
 <small>(10월 26일 녹화)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/JTBC" title="wikilink">JTBC</a> <a href="../Page/아는_형님.md" title="wikilink">아는 형님</a> 100회 특집</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a> <a href="../Page/아는_형님.md" title="wikilink">아는 형님</a> 100회 특집</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017년 11월 8일<br />
 <small>(2일 녹화)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_에브리원" title="wikilink">MBC 에브리원</a> <a href="https://ko.wikipedia.org/wiki/주간_아이돌" title="wikilink">주간 아이돌</a></p></td>
+<td><p><a href="../Page/MBC_에브리원.md" title="wikilink">MBC 에브리원</a> <a href="../Page/주간_아이돌.md" title="wikilink">주간 아이돌</a></p></td>
 <td><p>2주간 방영</p></td>
 </tr>
 <tr class="even">
@@ -92,7 +92,7 @@
 <td><p>2017년 11월 9일<br />
 <small>(1일 녹화)</small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a> <a href="../Page/인생술집.md" title="wikilink">인생술집</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신동_(가수)" title="wikilink">신동</a>, <a href="https://ko.wikipedia.org/wiki/은혁" title="wikilink">은혁</a>, <a href="https://ko.wikipedia.org/wiki/동해_(가수)" title="wikilink">동해</a></p></td>
+<td><p><a href="../Page/신동_(가수).md" title="wikilink">신동</a>, <a href="../Page/은혁.md" title="wikilink">은혁</a>, <a href="../Page/동해_(가수).md" title="wikilink">동해</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017년 11월 12일</p></td>
@@ -102,19 +102,19 @@
 <tr class="odd">
 <td><p>2017년 11월 12일<br />
 <small>(10월 23일 녹화)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SBS_TV" title="wikilink">SBS</a> <a href="https://ko.wikipedia.org/wiki/일요일이_좋다" title="wikilink">일요일이 좋다</a> <a href="https://ko.wikipedia.org/wiki/런닝맨" title="wikilink">런닝맨</a> - 스파이를 찾아라</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이특_(가수)" title="wikilink">이특</a>, <a href="https://ko.wikipedia.org/wiki/예성" title="wikilink">예성</a>, <a href="https://ko.wikipedia.org/wiki/은혁" title="wikilink">은혁</a>, <a href="https://ko.wikipedia.org/wiki/동해_(가수)" title="wikilink">동해</a></p></td>
+<td><p><a href="../Page/SBS_TV.md" title="wikilink">SBS</a> <a href="../Page/일요일이_좋다.md" title="wikilink">일요일이 좋다</a> <a href="https://ko.wikipedia.org/wiki/런닝맨" title="wikilink">런닝맨</a> - 스파이를 찾아라</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이특_(가수)" title="wikilink">이특</a>, <a href="../Page/예성.md" title="wikilink">예성</a>, <a href="../Page/은혁.md" title="wikilink">은혁</a>, <a href="../Page/동해_(가수).md" title="wikilink">동해</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017년 11월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a> <a href="https://ko.wikipedia.org/wiki/연예가중계" title="wikilink">연예가중계</a></p></td>
+<td><p><a href="../Page/KBS_2TV.md" title="wikilink">KBS 2TV</a> <a href="../Page/연예가중계.md" title="wikilink">연예가중계</a></p></td>
 <td><p>스쿨 어택</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018년 1월 22일<br />
 <small>(10월 29일 녹화)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a> <a href="https://ko.wikipedia.org/wiki/대국민_토크쇼_안녕하세요" title="wikilink">대국민 토크쇼 안녕하세요</a>[2]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/예성" title="wikilink">예성</a>, <a href="https://ko.wikipedia.org/wiki/신동_(가수)" title="wikilink">신동</a>, <a href="https://ko.wikipedia.org/wiki/은혁" title="wikilink">은혁</a>, <a href="https://ko.wikipedia.org/wiki/동해_(가수)" title="wikilink">동해</a></p></td>
+<td><p><a href="../Page/KBS_2TV.md" title="wikilink">KBS 2TV</a> <a href="../Page/대국민_토크쇼_안녕하세요.md" title="wikilink">대국민 토크쇼 안녕하세요</a>[2]</p></td>
+<td><p><a href="../Page/예성.md" title="wikilink">예성</a>, <a href="../Page/신동_(가수).md" title="wikilink">신동</a>, <a href="../Page/은혁.md" title="wikilink">은혁</a>, <a href="../Page/동해_(가수).md" title="wikilink">동해</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>라디오 출연</strong></p></td>
@@ -123,7 +123,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017년 11월 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SBS_파워FM" title="wikilink">SBS 파워FM</a> <a href="https://ko.wikipedia.org/wiki/두시탈출_컬투쇼" title="wikilink">두시탈출 컬투쇼</a></p></td>
+<td><p><a href="../Page/SBS_파워FM.md" title="wikilink">SBS 파워FM</a> <a href="../Page/두시탈출_컬투쇼.md" title="wikilink">두시탈출 컬투쇼</a></p></td>
 <td><p>특선 라이브</p></td>
 </tr>
 <tr class="even">
@@ -148,7 +148,7 @@
 </tr>
 <tr class="even">
 <td><p>2018년 1월 25일</p></td>
-<td><p>2017 <a href="https://ko.wikipedia.org/wiki/하이원_서울가요대상" title="wikilink">하이원 서울가요대상</a></p></td>
+<td><p>2017 <a href="../Page/하이원_서울가요대상.md" title="wikilink">하이원 서울가요대상</a></p></td>
 <td><p>본상 + Black Suit</p></td>
 </tr>
 <tr class="odd">

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ O. ](https://ko.wikipedia.org/wiki/_O._).
 
 
-**해밀턴 오서널 스미스**(, [1931년](https://ko.wikipedia.org/wiki/1931년 "wikilink") [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [미생물학](https://ko.wikipedia.org/wiki/미생물학 "wikilink")자이다. 1978년에 [제한 효소의](https://ko.wikipedia.org/wiki/제한_효소 "wikilink") 발견과 분자유전학에 이를 응용한 공로를 인정받아 [베르너 아르버](../Page/베르너_아르버.md "wikilink"), [다니엘 네이선스와](../Page/다니엘_네이선스.md "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+**해밀턴 오서널 스미스**(, [1931년](../Page/1931년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [미생물학](../Page/미생물학.md "wikilink")자이다. 1978년에 [제한 효소의](../Page/제한_효소.md "wikilink") 발견과 분자유전학에 이를 응용한 공로를 인정받아 [베르너 아르버](../Page/베르너_아르버.md "wikilink"), [다니엘 네이선스와](../Page/다니엘_네이선스.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 수상 경력
 

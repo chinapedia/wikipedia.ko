@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Live at Shea Stadium: The Concert](https://ko.wikipedia.org/wiki/Live_at_Shea_Stadium:_The_Concert).
 
 
-**《Live at Shea Stadium: The Concert》**는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [7월 16일과](https://ko.wikipedia.org/wiki/7월_16일 "wikilink") [18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink"), [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink") [셰이 스타디움에서](https://ko.wikipedia.org/wiki/셰이_스타디움 "wikilink") 열린 미국의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [빌리 조엘의](https://ko.wikipedia.org/wiki/빌리_조엘 "wikilink") 두 차례 공연을 담은 라이브 음반이다. 공연 영상은 빌리 조엘의 첫째 아내의 전 남편이자 The Hassles와 Attila에서 같이 활동했던 존 스몰이 제작했다.
+**《Live at Shea Stadium: The Concert》**는 [2008년](../Page/2008년.md "wikilink") [7월 16일과](../Page/7월_16일.md "wikilink") [18일](../Page/7월_18일.md "wikilink"), [뉴욕](../Page/뉴욕.md "wikilink") [셰이 스타디움에서](../Page/셰이_스타디움.md "wikilink") 열린 미국의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 두 차례 공연을 담은 라이브 음반이다. 공연 영상은 빌리 조엘의 첫째 아내의 전 남편이자 The Hassles와 Attila에서 같이 활동했던 존 스몰이 제작했다.
 
-두 차례 콘서트는 [시티 필드로](https://ko.wikipedia.org/wiki/시티_필드 "wikilink") 가는 길을 만들기 위해 셰이 스타디움을 철거하기 전 열린 마지막 공연이다. [토니 베넷](../Page/토니_베넷.md "wikilink"), [가스 브룩스](https://ko.wikipedia.org/wiki/가스_브룩스 "wikilink"), [존 메이어](https://ko.wikipedia.org/wiki/존_메이어 "wikilink"), [스티븐 타일러](https://ko.wikipedia.org/wiki/스티븐_타일러 "wikilink"), [로저 돌트리](https://ko.wikipedia.org/wiki/로저_돌트리 "wikilink"), [존 멜런캠프](../Page/존_멜런캠프.md "wikilink"), 마크 우드, [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 등이 게스트로 출연했다.
+두 차례 콘서트는 [시티 필드로](../Page/시티_필드.md "wikilink") 가는 길을 만들기 위해 셰이 스타디움을 철거하기 전 열린 마지막 공연이다. [토니 베넷](../Page/토니_베넷.md "wikilink"), [가스 브룩스](https://ko.wikipedia.org/wiki/가스_브룩스 "wikilink"), [존 메이어](https://ko.wikipedia.org/wiki/존_메이어 "wikilink"), [스티븐 타일러](../Page/스티븐_타일러.md "wikilink"), [로저 돌트리](../Page/로저_돌트리.md "wikilink"), [존 멜런캠프](../Page/존_멜런캠프.md "wikilink"), 마크 우드, [폴 매카트니](../Page/폴_매카트니.md "wikilink") 등이 게스트로 출연했다.
 
 ## 수록곡
 
@@ -39,10 +39,10 @@
 5.  "[You May Be Right](https://ko.wikipedia.org/wiki/You_May_Be_Right "wikilink")" - 4:53
 6.  "[Scenes from an Italian Restaurant](https://ko.wikipedia.org/wiki/Scenes_from_an_Italian_Restaurant "wikilink")" - 7:40
 7.  "[Only The Good Die Young](https://ko.wikipedia.org/wiki/Only_The_Good_Die_Young "wikilink")" - 4:13 §
-8.  "[I Saw Her Standing There](https://ko.wikipedia.org/wiki/I_Saw_Her_Standing_There "wikilink")" <small>([폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink"))</small> - 4:06
+8.  "[I Saw Her Standing There](https://ko.wikipedia.org/wiki/I_Saw_Her_Standing_There "wikilink")" <small>([폴 매카트니](../Page/폴_매카트니.md "wikilink"))</small> - 4:06
 9.  "[Take Me Out to the Ball Game](https://ko.wikipedia.org/wiki/Take_Me_Out_to_the_Ball_Game "wikilink")" - 0:45
 10. "[Piano Man](../Page/Piano_Man_\(노래\).md "wikilink")" - 5:53 §
-11. "[Let It Be](https://ko.wikipedia.org/wiki/Let_It_Be_\(노래\) "wikilink")" <small>(폴 매카트니)</small> - 5:11
+11. "[Let It Be](../Page/Let_It_Be_\(노래\).md "wikilink")" <small>(폴 매카트니)</small> - 5:11
 
 ### DVD
 

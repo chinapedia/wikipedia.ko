@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JONGHYUN SOLO CONCERT INSPIRED](https://ko.wikipedia.org/wiki/JONGHYUN_SOLO_CONCERT_INSPIRED).
 
 
-《**JONGHYUN SOLO CONCERT "INSPIRED"**》는 대한민국의 음악 그룹 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 멤버 [종현](https://ko.wikipedia.org/wiki/종현 "wikilink")의 두 번째 [콘서트 투어로](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink")\[1\] 생전 마지막 콘서트 투어로 기록되었다.
+《**JONGHYUN SOLO CONCERT "INSPIRED"**》는 대한민국의 음악 그룹 [샤이니](../Page/샤이니.md "wikilink")의 멤버 [종현](../Page/종현.md "wikilink")의 두 번째 [콘서트 투어로](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink")\[1\] 생전 마지막 콘서트 투어로 기록되었다.
 
 ## 투어 일정
 
@@ -20,7 +20,7 @@
 <td><p>2017년 12월 9일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SK올림픽핸드볼경기장" title="wikilink">SK올림픽핸드볼경기장</a>[2]</p></td>
+<td><p><a href="../Page/SK올림픽핸드볼경기장.md" title="wikilink">SK올림픽핸드볼경기장</a>[2]</p></td>
 <td><p>통산 10,000명</p></td>
 </tr>
 <tr class="even">
@@ -46,7 +46,7 @@
 
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
 
 ## 각주
 

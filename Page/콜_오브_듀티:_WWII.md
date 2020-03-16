@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  : WWII](https://ko.wikipedia.org/wiki/__:_WWII).
 
 
-《**콜 오브 듀티: WWII**》(Call of Duty: WWII)는 슬레지해머게임즈에서 개발하고 [액티비전](https://ko.wikipedia.org/wiki/액티비전 "wikilink")에서 배급한 [1인칭 슈팅 게임이다](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink"). [콜 오브 듀티 시리즈의](https://ko.wikipedia.org/wiki/콜_오브_듀티_시리즈 "wikilink") 14번째 주요 작품으로 [제2차 세계 대전을](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 배경으로 하고 있으며 2017년 11월 3일 [마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [플레이스테이션 4](https://ko.wikipedia.org/wiki/플레이스테이션_4 "wikilink"), [엑스박스 원으로](../Page/엑스박스_원.md "wikilink") 출시되었다.
+《**콜 오브 듀티: WWII**》(Call of Duty: WWII)는 슬레지해머게임즈에서 개발하고 [액티비전](../Page/액티비전.md "wikilink")에서 배급한 [1인칭 슈팅 게임이다](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink"). [콜 오브 듀티 시리즈의](https://ko.wikipedia.org/wiki/콜_오브_듀티_시리즈 "wikilink") 14번째 주요 작품으로 [제2차 세계 대전을](../Page/제2차_세계_대전.md "wikilink") 배경으로 하고 있으며 2017년 11월 3일 [마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [엑스박스 원으로](../Page/엑스박스_원.md "wikilink") 출시되었다.
 
 ## 게임 플레이
 
