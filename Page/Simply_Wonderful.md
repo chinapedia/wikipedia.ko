@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Simply Wonderful](https://ko.wikipedia.org/wiki/Simply_Wonderful).
 
 
-〈**Simply Wonderful**〉(심플리 원더풀)는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [9월 27일에](https://ko.wikipedia.org/wiki/9월_27일 "wikilink") 발매된, 일본의 여성 가수 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 5번째 싱글이다.
+〈**Simply Wonderful**〉(심플리 원더풀)는 [2000년](../Page/2000년.md "wikilink") [9월 27일에](../Page/9월_27일.md "wikilink") 발매된, 일본의 여성 가수 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 5번째 싱글이다.
 
 ## 개요
 

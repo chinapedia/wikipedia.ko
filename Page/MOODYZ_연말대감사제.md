@@ -5,7 +5,7 @@
 
 ## 2001년
 
-2001년 12월 27일 [시부야](https://ko.wikipedia.org/wiki/시부야 "wikilink")의 "네프시스" 레스토랑에서 열렸으며, 총 217명이 참여했다.\[1\] 수상(受賞)한 사람은 아래와 같다.\[2\]
+2001년 12월 27일 [시부야](../Page/시부야.md "wikilink")의 "네프시스" 레스토랑에서 열렸으며, 총 217명이 참여했다.\[1\] 수상(受賞)한 사람은 아래와 같다.\[2\]
 
   - **무디즈상**
       - *드림 학원2*()
@@ -34,7 +34,7 @@
 
 ## 2002년
 
-2002년 12월 18일 [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink") [에비스에서](https://ko.wikipedia.org/wiki/에비스_\(도쿄_도\) "wikilink") 열렸다. 2002년에는 400명이 참석했다.\[3\] 수상한 사람은 아래와 같다.\[4\]
+2002년 12월 18일 [도쿄](../Page/도쿄.md "wikilink") [에비스에서](https://ko.wikipedia.org/wiki/에비스_\(도쿄_도\) "wikilink") 열렸다. 2002년에는 400명이 참석했다.\[3\] 수상한 사람은 아래와 같다.\[4\]
 
   - **무디즈상**
       - *드림 학원5* ()
@@ -64,7 +64,7 @@
 
 ## 2003년
 
-2003년 12월 17일 [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink") [에비스에서](https://ko.wikipedia.org/wiki/에비스_\(도쿄_도\) "wikilink") 열렸으며, 배우, 매니저, 친구, 감독 및 스태프를 포함 700명 이상의 사람들이 모였다.\[5\] 수상한 사람은 아래와 같다.\[6\]
+2003년 12월 17일 [도쿄](../Page/도쿄.md "wikilink") [에비스에서](https://ko.wikipedia.org/wiki/에비스_\(도쿄_도\) "wikilink") 열렸으며, 배우, 매니저, 친구, 감독 및 스태프를 포함 700명 이상의 사람들이 모였다.\[5\] 수상한 사람은 아래와 같다.\[6\]
 
   - **무디즈상**
       - *디지털 모자이크 Vol. 011*()
@@ -105,7 +105,7 @@
 
 ## 2004년
 
-2004년 12월 22일 [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink") [신주쿠](https://ko.wikipedia.org/wiki/신주쿠 "wikilink")의 호텔에서 열렸고 120명의 AV 여배우가 참석했다. 이 해에는 다른 제작사인 [어태커즈](https://ko.wikipedia.org/wiki/어태커즈 "wikilink"), [마돈나](https://ko.wikipedia.org/wiki/마돈나_\(스튜디오\) "wikilink"), [아이디어포켓](https://ko.wikipedia.org/wiki/아이디어포켓 "wikilink")도 참여해, 각 스튜디오 별로 시상을 했다.\[7\]\[8\] 수상한 사람은 아래와 같다.\[9\]
+2004년 12월 22일 [도쿄](../Page/도쿄.md "wikilink") [신주쿠](https://ko.wikipedia.org/wiki/신주쿠 "wikilink")의 호텔에서 열렸고 120명의 AV 여배우가 참석했다. 이 해에는 다른 제작사인 [어태커즈](https://ko.wikipedia.org/wiki/어태커즈 "wikilink"), [마돈나](https://ko.wikipedia.org/wiki/마돈나_\(스튜디오\) "wikilink"), [아이디어포켓](https://ko.wikipedia.org/wiki/아이디어포켓 "wikilink")도 참여해, 각 스튜디오 별로 시상을 했다.\[7\]\[8\] 수상한 사람은 아래와 같다.\[9\]
 
 ### 무디즈
 
@@ -194,7 +194,7 @@
   -
     **S1상**
       - *셀 데뷔* ()
-          - 출연 : [아오이 소라](https://ko.wikipedia.org/wiki/아오이_소라 "wikilink")
+          - 출연 : [아오이 소라](../Page/아오이_소라.md "wikilink")
           - 감독 : 아키 히데토
 
 **[어태커즈](https://ko.wikipedia.org/wiki/어태커즈 "wikilink")상**
@@ -247,18 +247,18 @@
 ### S1 No.1 Style
 
   - **최우수여배우상**
-      - [아오이 소라](https://ko.wikipedia.org/wiki/아오이_소라 "wikilink")
+      - [아오이 소라](../Page/아오이_소라.md "wikilink")
 
 <!-- end list -->
 
   - **최우수신인상**
-      - [오자와 마리아](https://ko.wikipedia.org/wiki/오자와_마리아 "wikilink")
+      - [오자와 마리아](../Page/오자와_마리아.md "wikilink")
 
 <!-- end list -->
 
   - **S1상**
       - *아슬아슬 모자이크 : 아이다 유아* ()
-      - 출연 : [아이다 유아](https://ko.wikipedia.org/wiki/아이다_유아 "wikilink")
+      - 출연 : [아이다 유아](../Page/아이다_유아.md "wikilink")
       - 감독 : 아키 히데토
 
 ### 아이디어포켓
@@ -317,7 +317,7 @@
 2006년은 무디즈 단독이 아니라 S1 No.1 Style, 아이디어포켓, 어태커즈, 마돈나, 크로스, 프리미엄, 오페라, 옐로우, 키카쿠 하지메, 타메이케 고로 등의 스튜디오가 연합한 형태로 열렸다. 모두 주식회사 CA(당시 호쿠토) 산하의 제작사이며, 제작사들의 유통은 [DMM](https://ko.wikipedia.org/wiki/DMM "wikilink") 웹사이트를 통해 이루어졌다.\[12\]
 
   - **최우수여배우상**
-      - [아사미 유마](https://ko.wikipedia.org/wiki/아사미_유마 "wikilink") (1위)
+      - [아사미 유마](../Page/아사미_유마.md "wikilink") (1위)
       - [호노카](../Page/시모무라_아이.md "wikilink") (2위)
       - [아오키 린](https://ko.wikipedia.org/wiki/아오키_린 "wikilink") (3위)
       - [미네 나유카](https://ko.wikipedia.org/wiki/미네_나유카 "wikilink") (4위)
@@ -343,13 +343,13 @@
 
 ## 2007년
 
-2007년은 무디즈에서 스폰서를 받았으며, 주식회사 CA(당시 호쿠토)에 속한 DMM을 통해 작품을 유통하는 22개의 제작사들이 참여했다. 시상식은 2007년 12월 17일 [네바다주](https://ko.wikipedia.org/wiki/네바다주 "wikilink")의 [라스베이거스](https://ko.wikipedia.org/wiki/라스베이거스 "wikilink")에서 열렸으며, 이 해의 대회명은 "베가스 나이트"로 변경되었다.\[13\]\[14\]
+2007년은 무디즈에서 스폰서를 받았으며, 주식회사 CA(당시 호쿠토)에 속한 DMM을 통해 작품을 유통하는 22개의 제작사들이 참여했다. 시상식은 2007년 12월 17일 [네바다주](../Page/네바다주.md "wikilink")의 [라스베이거스](../Page/라스베이거스.md "wikilink")에서 열렸으며, 이 해의 대회명은 "베가스 나이트"로 변경되었다.\[13\]\[14\]
 
   - **최우수여배우상**
-      - [요시자와 아키호](https://ko.wikipedia.org/wiki/요시자와_아키호 "wikilink") (1위)
-      - [미히로](https://ko.wikipedia.org/wiki/미히로 "wikilink") (2위)
+      - [요시자와 아키호](../Page/요시자와_아키호.md "wikilink") (1위)
+      - [미히로](../Page/미히로.md "wikilink") (2위)
       - [호노카](../Page/시모무라_아이.md "wikilink") (3위)
-      - [아사미 유마](https://ko.wikipedia.org/wiki/아사미_유마 "wikilink") (4위)
+      - [아사미 유마](../Page/아사미_유마.md "wikilink") (4위)
       - 타나카 아야 (5위)
 
 <!-- end list -->
@@ -376,7 +376,7 @@
 
   - **최우수여배우상**
       - 하츠미 리온 (1위)
-      - [요시자와 아키호](https://ko.wikipedia.org/wiki/요시자와_아키호 "wikilink") (2위)
+      - [요시자와 아키호](../Page/요시자와_아키호.md "wikilink") (2위)
       - [Rio](../Page/Rio.md "wikilink") (유즈키 티나) (3위)
       - [호노카](../Page/시모무라_아이.md "wikilink") (4위)
 

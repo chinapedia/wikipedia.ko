@@ -1,8 +1,8 @@
 > This article is converted from Wikipedia: [Crying Nut Best Wild Wild Live](https://ko.wikipedia.org/wiki/Crying_Nut_Best_Wild_Wild_Live).
 
 
-《**Crying Nut Best Wild Wild Live** 》는 대한민국 록 밴드 **[크라잉넛](https://ko.wikipedia.org/wiki/크라잉넛 "wikilink")**의 라이브 앨범이다.\[1\] 2002년 12월 7일 서울 [올림픽 공원](https://ko.wikipedia.org/wiki/올림픽_공원 "wikilink") 펜싱 경기장에서 열린 Good Bye Concert“**지킬 건 지킨다**” 공연실황을 녹음하여 제작되었다. 이 공연을 끝으로 박윤식,이상면,이상혁,한경록 네 멤버는 같은 해 12월 31일 동반 군입대를 하여 군악대에 배치 받고 군복무를 마친 후 2005년 1월 제대하여 올림픽 공원 올림픽 홀에서 '록큰롤 파티' 콘서트를 시작으로 다시 음악 활동을 재개한다.\[2\] WILD.1 , WILD.2 의 2장의 CD로 구성되어 있다.
-CD 속지에 수록된 앨범 추천사에서 음악 평론가 [임진모](https://ko.wikipedia.org/wiki/임진모 "wikilink")는 "...그들과 동격이나 다름없는 키워드가 라이브이기 때문에 이 앨범은 독립적 가치를 띤다. 그래서 이 앨범은 딴 정규작들보다 '더 크라잉 넛적'이며 나아가 '진짜 크라잉 넛'이다."라고 평가했다.
+《**Crying Nut Best Wild Wild Live** 》는 대한민국 록 밴드 **[크라잉넛](../Page/크라잉넛.md "wikilink")**의 라이브 앨범이다.\[1\] 2002년 12월 7일 서울 [올림픽 공원](https://ko.wikipedia.org/wiki/올림픽_공원 "wikilink") 펜싱 경기장에서 열린 Good Bye Concert“**지킬 건 지킨다**” 공연실황을 녹음하여 제작되었다. 이 공연을 끝으로 박윤식,이상면,이상혁,한경록 네 멤버는 같은 해 12월 31일 동반 군입대를 하여 군악대에 배치 받고 군복무를 마친 후 2005년 1월 제대하여 올림픽 공원 올림픽 홀에서 '록큰롤 파티' 콘서트를 시작으로 다시 음악 활동을 재개한다.\[2\] WILD.1 , WILD.2 의 2장의 CD로 구성되어 있다.
+CD 속지에 수록된 앨범 추천사에서 음악 평론가 [임진모](../Page/임진모.md "wikilink")는 "...그들과 동격이나 다름없는 키워드가 라이브이기 때문에 이 앨범은 독립적 가치를 띤다. 그래서 이 앨범은 딴 정규작들보다 '더 크라잉 넛적'이며 나아가 '진짜 크라잉 넛'이다."라고 평가했다.
 
 ## 트랙 정보
 

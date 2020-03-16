@@ -2,14 +2,14 @@
 
 
 {{음반 정보 | 음반명 = 코마츠 미호 베스트: once more
- | 음반종류 = [베스트 음반](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") | 가수명 = [코마츠 미호](https://ko.wikipedia.org/wiki/코마츠_미호 "wikilink") | 발매년월일 = [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") | 녹음 = [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이= Disc 1 : 62분 23초
+ | 음반종류 = [베스트 음반](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") | 가수명 = [코마츠 미호](../Page/코마츠_미호.md "wikilink") | 발매년월일 = [2006년](../Page/2006년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") | 녹음 = [2006년](../Page/2006년.md "wikilink") | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이= Disc 1 : 62분 23초
 Disc 2 : 56분 46초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 프로듀서 = ROCKAKU, 코마츠 미호 | 전앨범 = \[\[코마츠_미호_8_\~a_piece_of_cake\~|
 
-《**코마츠 미호 베스트: once more**》()는 [코마츠 미호의](https://ko.wikipedia.org/wiki/코마츠_미호 "wikilink") [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
+《**코마츠 미호 베스트: once more**》()는 [코마츠 미호의](../Page/코마츠_미호.md "wikilink") [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
 
 ## 내용
 
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 22일에](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") 발매된 코마츠 미호의 첫 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
+  - [2006년](../Page/2006년.md "wikilink") [11월 22일에](../Page/11월_22일.md "wikilink") 발매된 코마츠 미호의 첫 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
   - 데뷔곡 〈[수수께끼](https://ko.wikipedia.org/wiki/나조_\(코마츠_미호의_노래\) "wikilink")〉()에서 〈[소원은 단 하나](https://ko.wikipedia.org/wiki/네가이고토히토츠다케 "wikilink")〉() 〈[찬스](../Page/찬스_\(코마츠_미호의_노래\).md "wikilink")〉() 〈[얼음 위에 서 있는 것처럼](https://ko.wikipedia.org/wiki/코리노우에니타츠요니 "wikilink")〉() 등의 히트작, 그리고 최신 싱글 〈[사랑이 되어라](../Page/코이니나레....md "wikilink")〉()까지의 전 싱글 외에, 신곡 〈happy ending〉도 수록되어있다. 전싱글곡을 수록했기 때문에 디스크 2장으로 구성되어있다.
   - 또, 엣세이집 제2탄 《이상한 잣대2.》()도 이 작품과 동시 발뫼하고 있다.
   - 수록곡 〈[두 사람의 소원](https://ko.wikipedia.org/wiki/후타리노네가이 "wikilink")〉()에 있어서는 싱글에 수록되어있던 것은 스트레오 수록이다. 하지만, 본 음반에 있어서는 모노로 수록되어있다. 작품 중에 주석은 일절 없으며, 발매 직후에 공식 사이트에서 작게 발표가 있었던 것 뿐이다.
@@ -22,7 +22,7 @@ Disc 2 : 56분 46초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.or
 ### Disc 1
 
 1.  **[수수께끼](https://ko.wikipedia.org/wiki/나조_\(코마츠_미호의_노래\) "wikilink")** ()
-      - [작사](https://ko.wikipedia.org/wiki/작사 "wikilink") · [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"): 코마츠 미호, 편곡: [후루이 히로히토](https://ko.wikipedia.org/wiki/후루이_히로히토 "wikilink")
+      - [작사](https://ko.wikipedia.org/wiki/작사 "wikilink") · [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"): 코마츠 미호, 편곡: [후루이 히로히토](../Page/후루이_히로히토.md "wikilink")
     <!-- end list -->
       -
         1번째 싱글

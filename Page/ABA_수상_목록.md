@@ -202,6 +202,6 @@
 
 ## 함께 보기
 
-  - [NBA 수상 목록](https://ko.wikipedia.org/wiki/NBA_수상_목록 "wikilink")
+  - [NBA 수상 목록](../Page/NBA_수상_목록.md "wikilink")
 
 [분류:아메리칸 농구 협회](https://ko.wikipedia.org/wiki/분류:아메리칸_농구_협회 "wikilink")

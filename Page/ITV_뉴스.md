@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ITV ](https://ko.wikipedia.org/wiki/ITV_).
 
 
-**ITV 뉴스**(ITV News)는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [ITN](https://ko.wikipedia.org/wiki/ITN "wikilink")에서 제작하고 [ITV](https://ko.wikipedia.org/wiki/ITV "wikilink")에서 방송하는 보도 프로그램의 총칭이다.
+**ITV 뉴스**(ITV News)는 [영국](../Page/영국.md "wikilink")의 [ITN](../Page/ITN.md "wikilink")에서 제작하고 [ITV](https://ko.wikipedia.org/wiki/ITV "wikilink")에서 방송하는 보도 프로그램의 총칭이다.
 
 ## 현재 방송중인 프로그램들
 
@@ -12,10 +12,10 @@
 
 ## 같이 보기
 
-  - [ITV (영국)](https://ko.wikipedia.org/wiki/ITV_\(영국\) "wikilink")
-  - [ITN](https://ko.wikipedia.org/wiki/ITN "wikilink")
-  - [채널 4 뉴스](https://ko.wikipedia.org/wiki/채널_4_뉴스 "wikilink")
-  - [BBC 뉴스](https://ko.wikipedia.org/wiki/BBC_뉴스 "wikilink")
+  - [ITV (영국)](../Page/ITV_\(영국\).md "wikilink")
+  - [ITN](../Page/ITN.md "wikilink")
+  - [채널 4 뉴스](../Page/채널_4_뉴스.md "wikilink")
+  - [BBC 뉴스](../Page/BBC_뉴스.md "wikilink")
 
 ## 외부 링크
 

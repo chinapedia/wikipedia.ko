@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Rai 1](https://ko.wikipedia.org/wiki/Rai_1).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Rai_1_-_Logo_2016.svg "wikilink") **Rai 1**(라이 우노)는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 [공영 방송인](https://ko.wikipedia.org/wiki/공영_방송 "wikilink") [이탈리아 방송 협회](https://ko.wikipedia.org/wiki/이탈리아_방송_협회 "wikilink")(RAI)의 텔레비전 채널이다. [1954년](https://ko.wikipedia.org/wiki/1954년 "wikilink") [1월 3일에](https://ko.wikipedia.org/wiki/1월_3일 "wikilink") 방송을 시작하였다. 주로 방송되는 프로그램은 뉴스와 오락, 음악, 스포츠 프로그램 등이다. [메디아셋](../Page/메디아셋.md "wikilink")의 [카날레 5와](https://ko.wikipedia.org/wiki/카날레_5 "wikilink") 직접적인 경쟁 관계에 있다. 2014년 5월 기준으로 16.26%의 시청률을 보유하였다.\[1\]
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Rai_1_-_Logo_2016.svg "wikilink") **Rai 1**(라이 우노)는 [이탈리아](../Page/이탈리아.md "wikilink")의 [공영 방송인](../Page/공영_방송.md "wikilink") [이탈리아 방송 협회](../Page/이탈리아_방송_협회.md "wikilink")(RAI)의 텔레비전 채널이다. [1954년](../Page/1954년.md "wikilink") [1월 3일에](../Page/1월_3일.md "wikilink") 방송을 시작하였다. 주로 방송되는 프로그램은 뉴스와 오락, 음악, 스포츠 프로그램 등이다. [메디아셋](../Page/메디아셋.md "wikilink")의 [카날레 5와](https://ko.wikipedia.org/wiki/카날레_5 "wikilink") 직접적인 경쟁 관계에 있다. 2014년 5월 기준으로 16.26%의 시청률을 보유하였다.\[1\]
 
-개국 당시에는 Programma Nazionale라는 명칭이었으나, 1976년에 Rete 1 o TV1를 거쳐 1983년부터 2010년까지 Rai Uno라는 명칭을 사용하였다. 2010년부터 현재의 Rai 1란 이름으로 바뀌었다. 2013년 9월 부터 Rai 1의 [HD 방송을](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 시작하였다.
+개국 당시에는 Programma Nazionale라는 명칭이었으나, 1976년에 Rete 1 o TV1를 거쳐 1983년부터 2010년까지 Rai Uno라는 명칭을 사용하였다. 2010년부터 현재의 Rai 1란 이름으로 바뀌었다. 2013년 9월 부터 Rai 1의 [HD 방송을](../Page/고선명_텔레비전.md "wikilink") 시작하였다.
 
-Rai 1는 주요 [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 경기, 특히 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 및 [포뮬러 원의](https://ko.wikipedia.org/wiki/포뮬러_원 "wikilink") 대부분 경기를 중계 방송하며, [이탈리아 축구 국가대표팀의](https://ko.wikipedia.org/wiki/이탈리아_축구_국가대표팀 "wikilink") 중요한 축구 경기 외에 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 및 [UEFA 유럽 축구 선수권 대회의](https://ko.wikipedia.org/wiki/UEFA_유럽_축구_선수권_대회 "wikilink") 경기를 중계 방송하고 있다. 2006년부터 [UEFA 챔피언스 리그에](https://ko.wikipedia.org/wiki/UEFA_챔피언스_리그 "wikilink") 대한 권리를 구입하였다.
+Rai 1는 주요 [스포츠](../Page/스포츠.md "wikilink") 경기, 특히 [축구](../Page/축구.md "wikilink") 및 [포뮬러 원의](../Page/포뮬러_원.md "wikilink") 대부분 경기를 중계 방송하며, [이탈리아 축구 국가대표팀의](../Page/이탈리아_축구_국가대표팀.md "wikilink") 중요한 축구 경기 외에 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 및 [UEFA 유럽 축구 선수권 대회의](https://ko.wikipedia.org/wiki/UEFA_유럽_축구_선수권_대회 "wikilink") 경기를 중계 방송하고 있다. 2006년부터 [UEFA 챔피언스 리그에](https://ko.wikipedia.org/wiki/UEFA_챔피언스_리그 "wikilink") 대한 권리를 구입하였다.
 
 ## 주요 프로그램
 
@@ -37,7 +37,7 @@ Rai 1는 주요 [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 
 
 ## 같이 보기
 
-  - [이탈리아 방송 협회](https://ko.wikipedia.org/wiki/이탈리아_방송_협회 "wikilink")(RAI)
+  - [이탈리아 방송 협회](../Page/이탈리아_방송_협회.md "wikilink")(RAI)
   - [Rai 2](https://ko.wikipedia.org/wiki/Rai_2 "wikilink")
   - [Rai 3](https://ko.wikipedia.org/wiki/Rai_3 "wikilink")
 

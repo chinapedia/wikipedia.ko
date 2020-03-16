@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEVER GONNA GIVE YOU UP](https://ko.wikipedia.org/wiki/NEVER_GONNA_GIVE_YOU_UP).
 
 
-〈**NEVER GONNA GIVE YOU UP**〉(네버 고너 기브 유 업)은 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [6월 7일에](https://ko.wikipedia.org/wiki/6월_7일 "wikilink") 발매된, 일본의 여성 가수 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 4번째 [싱글곡이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**NEVER GONNA GIVE YOU UP**〉(네버 고너 기브 유 업)은 [2000년](../Page/2000년.md "wikilink") [6월 7일에](../Page/6월_7일.md "wikilink") 발매된, 일본의 여성 가수 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 4번째 [싱글곡이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -11,7 +11,7 @@
 
 사운드 프로듀스에 더불어, 작곡 · 편곡도 페리 게이어, 미구엘 사 페소아, 마이클 어프릭에 의한 것. 가사는 영어와 일본어가 반반으로 되어있으며, 어느쪽으로도 뜻이 통하게 되어있다. 마이클 어프릭과 번갈아가며 하는 랩 중에서는 전미 데뷔 싱글 〈[Baby I Like](../Page/Baby_I_Like.md "wikilink")〉의 이름도 등장한다. PV는 녹음 영상이다.
 
-[하마사키 아유미의](https://ko.wikipedia.org/wiki/하마사키_아유미 "wikilink") 〈[SEASONS](https://ko.wikipedia.org/wiki/SEASONS_\(하마사키_아유미의_노래\) "wikilink")〉가 동시 발매되며, 발매 당시 매스컴으로부터는 ‘가희대결’로 주목되었다. 결과로는 [오리콘 싱글 차트에서](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 제2위가 되며 근소한 차이로 패배하는 형태가 되었다. 2000년 6월자 FM라디오국 온에어 차트에서는 제1위를 기록.
+[하마사키 아유미의](../Page/하마사키_아유미.md "wikilink") 〈[SEASONS](https://ko.wikipedia.org/wiki/SEASONS_\(하마사키_아유미의_노래\) "wikilink")〉가 동시 발매되며, 발매 당시 매스컴으로부터는 ‘가희대결’로 주목되었다. 결과로는 [오리콘 싱글 차트에서](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 제2위가 되며 근소한 차이로 패배하는 형태가 되었다. 2000년 6월자 FM라디오국 온에어 차트에서는 제1위를 기록.
 
 ## 수록곡
 

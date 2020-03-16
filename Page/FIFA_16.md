@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA 16](https://ko.wikipedia.org/wiki/FIFA_16).
 
 
-《**FIFA 16**》는 [일렉트로닉 아츠에서](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 제작한 23번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 게임이다. FIFA 시리즈 역사상 처음으로 [여자 축구가](https://ko.wikipedia.org/wiki/여자_축구 "wikilink") 나온 버전이기도 하다.
+《**FIFA 16**》는 [일렉트로닉 아츠에서](../Page/일렉트로닉_아츠.md "wikilink") 제작한 23번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 게임이다. FIFA 시리즈 역사상 처음으로 [여자 축구가](../Page/여자_축구.md "wikilink") 나온 버전이기도 하다.
 
 ## 각주
 

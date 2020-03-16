@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
 
 
-**시간을 달리는 TV**는 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오전 9시 40분부터 10시 40분에 [KBS 2TV로](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램_목록 "wikilink").
+**시간을 달리는 TV**는 매주 [금요일](../Page/금요일.md "wikilink") 오전 9시 40분부터 10시 40분에 [KBS 2TV로](../Page/KBS_2TV.md "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](../Page/한국방송공사의_텔레비전_프로그램_목록.md "wikilink").
 
 ## 기획 의도
 
-[KBS의](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink"), [예능](https://ko.wikipedia.org/wiki/예능 "wikilink"), [교양](https://ko.wikipedia.org/wiki/교양 "wikilink"), [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink") 등 방송을 통해 시청자들에 선보인 프로그램을 단순한 다시보기가 아닌, 새로운 관점으로 재구성해 보는 예능 프로그램.
+[KBS의](../Page/한국방송공사.md "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink"), [예능](https://ko.wikipedia.org/wiki/예능 "wikilink"), [교양](../Page/교양.md "wikilink"), [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink") 등 방송을 통해 시청자들에 선보인 프로그램을 단순한 다시보기가 아닌, 새로운 관점으로 재구성해 보는 예능 프로그램.
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                  | 방송 기간                                                                                                                                                                                                                                | 방송 시간                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink")                                                                                                                                                                            | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") | 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 밤 8:55 \~ 10:00 (65분) |
-| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") | 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오전 9:40 \~ 10:40 (60분)                                                                                                                                                        |                                                                              |
+| 방송 채널                                                                                                                                                      | 방송 기간                                                                                                                                                    | 방송 시간                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                                                                                                                   | [2015년](../Page/2015년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") | 매주 [목요일](../Page/목요일.md "wikilink") 밤 8:55 \~ 10:00 (65분) |
+| [2015년](../Page/2015년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 오전 9:40 \~ 10:40 (60분)                                                                                               |                                                           |
 
 ## 구성
 
-  - [서기철](https://ko.wikipedia.org/wiki/서기철 "wikilink")의 스타 프로파일링
+  - [서기철](../Page/서기철.md "wikilink")의 스타 프로파일링
   - 명예의 전당 : 명장면, 명대사를 시청자들이 투표해서 뽑는다.
 
 ## 종영 코너
@@ -27,13 +27,13 @@
 
 ## 역대 진행자
 
-현재 진행자는 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 16일을](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") 기준으로 한다.
+현재 진행자는 [2015년](../Page/2015년.md "wikilink") [10월 16일을](../Page/10월_16일.md "wikilink") 기준으로 한다.
 
-| 기수 | 진행자                                                                                                                                                                                                                                   | 진행 기간                                                                                                                                                                                                                                    |
-| -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1기 | [김병찬](https://ko.wikipedia.org/wiki/김병찬 "wikilink"), [이훈](https://ko.wikipedia.org/wiki/이훈_\(배우\) "wikilink"), [박은영](https://ko.wikipedia.org/wiki/박은영_\(아나운서\) "wikilink"), [서유리](https://ko.wikipedia.org/wiki/서유리 "wikilink")      | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink")     |
-| 2기 | [김병찬](https://ko.wikipedia.org/wiki/김병찬 "wikilink"), [이훈](https://ko.wikipedia.org/wiki/이훈_\(배우\) "wikilink"), [박은영](https://ko.wikipedia.org/wiki/박은영_\(아나운서\) "wikilink"), [금보라](https://ko.wikipedia.org/wiki/금보라 "wikilink")      | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 28일](https://ko.wikipedia.org/wiki/8월_28일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 2일](https://ko.wikipedia.org/wiki/10월_2일 "wikilink")   |
-| 3기 | [김병찬](https://ko.wikipedia.org/wiki/김병찬 "wikilink"), [이훈](https://ko.wikipedia.org/wiki/이훈_\(배우\) "wikilink"), [이승연](https://ko.wikipedia.org/wiki/이승연_\(1977년_11월\) "wikilink"), [금보라](https://ko.wikipedia.org/wiki/금보라 "wikilink") | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 16일](https://ko.wikipedia.org/wiki/10월_16일 "wikilink") \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [2월 12일](https://ko.wikipedia.org/wiki/2월_12일 "wikilink") |
+| 기수 | 진행자                                                                                                                                                       | 진행 기간                                                                                                                                                        |
+| -- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1기 | [김병찬](../Page/김병찬.md "wikilink"), [이훈](../Page/이훈_\(배우\).md "wikilink"), [박은영](../Page/박은영_\(아나운서\).md "wikilink"), [서유리](../Page/서유리.md "wikilink")      | [2015년](../Page/2015년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink")     |
+| 2기 | [김병찬](../Page/김병찬.md "wikilink"), [이훈](../Page/이훈_\(배우\).md "wikilink"), [박은영](../Page/박은영_\(아나운서\).md "wikilink"), [금보라](../Page/금보라.md "wikilink")      | [2015년](../Page/2015년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink")   |
+| 3기 | [김병찬](../Page/김병찬.md "wikilink"), [이훈](../Page/이훈_\(배우\).md "wikilink"), [이승연](../Page/이승연_\(1977년_11월\).md "wikilink"), [금보라](../Page/금보라.md "wikilink") | [2015년](../Page/2015년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") |
 
 ## 시청률
 

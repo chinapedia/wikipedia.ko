@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2-OPT](https://ko.wikipedia.org/wiki/2-OPT).
 
 
-[수학적 최적화에서](https://ko.wikipedia.org/wiki/수학적_최적화 "wikilink") **2-OPT**는 [외판원 문제를](https://ko.wikipedia.org/wiki/외판원_문제 "wikilink") 해결하기 위해 1958 년 Croes가 제안한 간단한 지역 탐색(Local Search) 알고리즘이다.
+[수학적 최적화에서](../Page/수학적_최적화.md "wikilink") **2-OPT**는 [외판원 문제를](../Page/외판원_문제.md "wikilink") 해결하기 위해 1958 년 Croes가 제안한 간단한 지역 탐색(Local Search) 알고리즘이다.
 
 2-OPT를 통해 경로(Route)가 꼬인(Cross over itself) 노선을 재정렬(순서 변경)하여 풀어주고, 이를 통해 비용(Traveling Cost)을 개선할 수 있다는 게 주요 아이디어이다.
 

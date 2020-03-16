@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Debut E.P.](https://ko.wikipedia.org/wiki/Debut_E.P.).
 
 
-**《Debut E.P.》**는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 발매된 [불독맨션](https://ko.wikipedia.org/wiki/불독맨션 "wikilink")의 데뷔 [EP앨범이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+**《Debut E.P.》**는 [2000년](../Page/2000년.md "wikilink")에 발매된 [불독맨션](../Page/불독맨션.md "wikilink")의 데뷔 [EP앨범이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 수록곡
 

@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [Stay by my side](https://ko.wikipedia.org/wiki/Stay_by_my_side).
 
 
-〈**Stay by my side**〉(스테이 바이 마이 사이드)는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월 15일에](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") 발매된, 일본의 여성 가수 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 2번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Stay by my side**〉(스테이 바이 마이 사이드)는 [2000년](../Page/2000년.md "wikilink") [3월 15일에](../Page/3월_15일.md "wikilink") 발매된, 일본의 여성 가수 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
   - 첫 [오리콘 싱글 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 수위를 획득하고, 전작에 이어서 이 작품도 타이업에 관계되지 않으며, 출하매수 100만장을 넘었다(쿠라키의 역대 싱글 매상장수 제3위).
   - 전작에 이어서 사운드 프로듀스는 페리 게이어, 믹스는 미구엘 사 페소아가 맡았다. 커플링곡의 〈Just Like You Smile Baby〉와 전작 커플링곡의 〈This is your life〉도 본작의 후보 곡으로 제작되고 있었다.
   - PV에서는 교회에서 본인이 복음 가수와 함께 부르고 있다. 촬영장소는 시나가와 교회이다.
-  - 표제곡은 후에 첫 출연한 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")의 《[제54회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제54회_NHK_홍백가합전 "wikilink")》에서 [쿄토](https://ko.wikipedia.org/wiki/쿄토 "wikilink")의 [도지](https://ko.wikipedia.org/wiki/도지 "wikilink")에서 불렸다.
+  - 표제곡은 후에 첫 출연한 [2003년](../Page/2003년.md "wikilink")의 《[제54회 NHK 홍백가합전](../Page/제54회_NHK_홍백가합전.md "wikilink")》에서 [쿄토](https://ko.wikipedia.org/wiki/쿄토 "wikilink")의 [도지](../Page/도지.md "wikilink")에서 불렸다.
 
 ## 수록곡
 

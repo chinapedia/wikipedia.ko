@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [-AMG](https://ko.wikipedia.org/wiki/-AMG).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg "wikilink") **메르세데스-AMG**()는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [아팔터바흐](https://ko.wikipedia.org/wiki/아팔터바흐 "wikilink")에 본사를 둔 [자동차](https://ko.wikipedia.org/wiki/자동차 "wikilink") 및 [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink") 제조 회사이다. 모회사는 [다임러 AG이며](https://ko.wikipedia.org/wiki/다임러_AG "wikilink"), 대표 모델로는 [AMG GT가](https://ko.wikipedia.org/wiki/AMG_GT "wikilink") 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg "wikilink") **메르세데스-AMG**()는 [독일](../Page/독일.md "wikilink") [아팔터바흐](https://ko.wikipedia.org/wiki/아팔터바흐 "wikilink")에 본사를 둔 [자동차](../Page/자동차.md "wikilink") 및 [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink") 제조 회사이다. 모회사는 [다임러 AG이며](../Page/다임러_AG.md "wikilink"), 대표 모델로는 [AMG GT가](https://ko.wikipedia.org/wiki/AMG_GT "wikilink") 있다.
 
 사명인 **AMG**는 [한스-베르너 아우프레흐트](https://ko.wikipedia.org/wiki/:en:Hans-Werner_Aufrecht "wikilink")(**A**ufrecht), [에어하트 멜허](https://ko.wikipedia.org/wiki/:en:Erhard_Melcher "wikilink")(**M**elcher), [그로사스파흐](https://ko.wikipedia.org/wiki/:en:Großaspach "wikilink")(**G**roßaspach, 아우프레흐트의 고향)의 머릿글자를 따서 지어진 이름이다.
 
-메르세데스-AMG는 [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink")에 **AMG Motorenbau und Entwicklungsgesellschaft mbH** (AMG Engine Production and Development, Ltd. , 아엠게 모토렌바우 운트 엔트비클룽스게젤샤프트)라는 사명의 레이싱 엔진 제조 회사로서 다임러 벤츠의 엔지니어인 한스-베르너 아우프레흐트와 에어하트 멜허가 [슈투트가르트](https://ko.wikipedia.org/wiki/슈투트가르트 "wikilink") 근처에 있는 [렘즈-무어르-크라이스](https://ko.wikipedia.org/wiki/렘즈-무어르-크라이스 "wikilink")의 [부르크슈테텐](https://ko.wikipedia.org/wiki/부르크슈테텐 "wikilink")에서 시작하였다.
+메르세데스-AMG는 [1967년](../Page/1967년.md "wikilink")에 **AMG Motorenbau und Entwicklungsgesellschaft mbH** (AMG Engine Production and Development, Ltd. , 아엠게 모토렌바우 운트 엔트비클룽스게젤샤프트)라는 사명의 레이싱 엔진 제조 회사로서 다임러 벤츠의 엔지니어인 한스-베르너 아우프레흐트와 에어하트 멜허가 [슈투트가르트](../Page/슈투트가르트.md "wikilink") 근처에 있는 [렘즈-무어르-크라이스](https://ko.wikipedia.org/wiki/렘즈-무어르-크라이스 "wikilink")의 [부르크슈테텐](https://ko.wikipedia.org/wiki/부르크슈테텐 "wikilink")에서 시작하였다.
 
-[1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink"), AMG의 대부분이 [아팔터바흐](https://ko.wikipedia.org/wiki/아팔터바흐 "wikilink")로 이동하였으며, 레이싱 엔진 개발 분야만이 기존 지역에 남았다.
+[1976년](../Page/1976년.md "wikilink"), AMG의 대부분이 [아팔터바흐](https://ko.wikipedia.org/wiki/아팔터바흐 "wikilink")로 이동하였으며, 레이싱 엔진 개발 분야만이 기존 지역에 남았다.
 
 메르세데스-AMG는 '한 사람이 하나의 엔진을 담당한다'(One Man, One Engine)라는 철학을 바탕으로, 하나의 엔진을 한 명의 엔지니어가 처음부터 끝까지 혼자 제작하는 품질 보증 시스템을 가지고 있다.[섬네일](https://ko.wikipedia.org/wiki/파일:Mercedes-AMG_M279_Plakette_Michael_Kuebler.jpg "wikilink")
 

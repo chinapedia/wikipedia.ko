@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
 
 
-**CD 팔레스티노**(CD Palestino)는 [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink")의 수도 [산티아고](https://ko.wikipedia.org/wiki/산티아고 "wikilink")를 연고로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")팀이다. 1920년 [팔레스타인](https://ko.wikipedia.org/wiki/팔레스타인 "wikilink") 출신 이민자들에 의해 창단되었으며 클럽 이름은 여기서 유래된 이름이다.
+**CD 팔레스티노**(CD Palestino)는 [칠레](../Page/칠레.md "wikilink")의 수도 [산티아고](../Page/산티아고.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. 1920년 [팔레스타인](../Page/팔레스타인.md "wikilink") 출신 이민자들에 의해 창단되었으며 클럽 이름은 여기서 유래된 이름이다.
 
 ## 수상 경력
 

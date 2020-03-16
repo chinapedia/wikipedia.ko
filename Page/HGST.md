@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HGST](https://ko.wikipedia.org/wiki/HGST).
 
 
-**HGST, Inc.** (Hitachi Global Storage Technologies)는 [하드 디스크 드라이브](https://ko.wikipedia.org/wiki/하드_디스크_드라이브 "wikilink")(HDD), [솔리드 스테이트 드라이브](https://ko.wikipedia.org/wiki/솔리드_스테이트_드라이브 "wikilink")(SSD), 외부 스토리지 제품을 판매하는 [웨스턴 디지털의](https://ko.wikipedia.org/wiki/웨스턴_디지털 "wikilink") [자회사](https://ko.wikipedia.org/wiki/자회사 "wikilink")였으며 2018년 10월에 웨스턴 디지털과 합병되어 사라졌다.\[1\]
+**HGST, Inc.** (Hitachi Global Storage Technologies)는 [하드 디스크 드라이브](../Page/하드_디스크_드라이브.md "wikilink")(HDD), [솔리드 스테이트 드라이브](../Page/솔리드_스테이트_드라이브.md "wikilink")(SSD), 외부 스토리지 제품을 판매하는 [웨스턴 디지털의](../Page/웨스턴_디지털.md "wikilink") [자회사](https://ko.wikipedia.org/wiki/자회사 "wikilink")였으며 2018년 10월에 웨스턴 디지털과 합병되어 사라졌다.\[1\]
 
 ## 참고
 

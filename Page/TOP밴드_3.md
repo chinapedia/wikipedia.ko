@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [TOP 3](https://ko.wikipedia.org/wiki/TOP_3).
 
 
-《**TOP밴드 3**》(탑밴드 3)는 밴드 서바이벌 프로그램 《[TOP밴드 2](https://ko.wikipedia.org/wiki/TOP밴드_2 "wikilink")》의 후속으로, 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 오후 10시 50분에 [KBS 2TV로](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 방송된 [밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [서바이벌](https://ko.wikipedia.org/wiki/서바이벌 "wikilink") [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
+《**TOP밴드 3**》(탑밴드 3)는 밴드 서바이벌 프로그램 《[TOP밴드 2](https://ko.wikipedia.org/wiki/TOP밴드_2 "wikilink")》의 후속으로, 매주 [금요일](../Page/금요일.md "wikilink") 오후 10시 50분에 [KBS 2TV로](../Page/KBS_2TV.md "wikilink") 방송된 [밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [서바이벌](https://ko.wikipedia.org/wiki/서바이벌 "wikilink") [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
 
 ## 시즌 목록
 
-  - [TOP밴드 시즌 1](https://ko.wikipedia.org/wiki/TOP밴드_\(시즌_1\) "wikilink") - 우승 [톡식](https://ko.wikipedia.org/wiki/톡식 "wikilink")
+  - [TOP밴드 시즌 1](https://ko.wikipedia.org/wiki/TOP밴드_\(시즌_1\) "wikilink") - 우승 [톡식](../Page/톡식.md "wikilink")
   - [TOP밴드 시즌 2](https://ko.wikipedia.org/wiki/TOP밴드_2 "wikilink") - 우승 [피아](https://ko.wikipedia.org/wiki/피아 "wikilink")
   - [TOP밴드 시즌 3](../Page/TOP밴드_3.md "wikilink") - 우승 아시안체어샷
 
 ## 기획 의도
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 최고의 [밴드를](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") 가리는 [서바이벌](https://ko.wikipedia.org/wiki/서바이벌 "wikilink") [음악 프로그램](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink")
+[대한민국](../Page/대한민국.md "wikilink") 최고의 [밴드를](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") 가리는 [서바이벌](https://ko.wikipedia.org/wiki/서바이벌 "wikilink") [음악 프로그램](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink")
 
 ## 특징
 
@@ -19,16 +19,16 @@
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                | 방송 기간                                                                                                                                                                                  | 방송 시간                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink")                                                                          | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") \~ 2015년 [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 오전 11:30 \~ 12:40 (70분) |
-| 2015년 [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink") \~ 2015년 [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") | 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 밤 10:50 \~ 12:10 (80분)                                                                                                          |                                                                                |
+| 방송 채널                                                                                          | 방송 기간                                                                                                                         | 방송 시간                                                       |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                                                       | [2015년](../Page/2015년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ 2015년 [11월 28일](../Page/11월_28일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 오전 11:30 \~ 12:40 (70분) |
+| 2015년 [12월 4일](../Page/12월_4일.md "wikilink") \~ 2015년 [12월 11일](../Page/12월_11일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 밤 10:50 \~ 12:10 (80분)                                                                    |                                                             |
 
 ## 출연자
 
-  - 진행 : [정지원](https://ko.wikipedia.org/wiki/정지원_\(1985년\) "wikilink")
-  - 코치 : [신대철](https://ko.wikipedia.org/wiki/신대철 "wikilink"), [윤일상](https://ko.wikipedia.org/wiki/윤일상 "wikilink"), [장미여관](https://ko.wikipedia.org/wiki/장미여관 "wikilink")\[1\]
-  - 특별출연 : 요리연구가 [이혜정](https://ko.wikipedia.org/wiki/이혜정 "wikilink")
+  - 진행 : [정지원](../Page/정지원_\(1985년\).md "wikilink")
+  - 코치 : [신대철](../Page/신대철.md "wikilink"), [윤일상](../Page/윤일상.md "wikilink"), [장미여관](https://ko.wikipedia.org/wiki/장미여관 "wikilink")\[1\]
+  - 특별출연 : 요리연구가 [이혜정](../Page/이혜정.md "wikilink")
 
 ## 시청률
 
@@ -149,17 +149,17 @@ AGB 닐슨 미디어리서치가 집계한 시청률
   - 애프니어
   - 오리엔탈쇼커스
 
-[KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 서울 [여의도](https://ko.wikipedia.org/wiki/여의도 "wikilink") 별관 D스튜디오에서 방청객이 참석한 가운데 공개 녹화로 진행되었다.
+[KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 서울 [여의도](../Page/여의도.md "wikilink") 별관 D스튜디오에서 방청객이 참석한 가운데 공개 녹화로 진행되었다.
 
 ## 4강전
 
-서울 여의도, [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 별관 D스튜디오에서 [생방송](https://ko.wikipedia.org/wiki/생방송 "wikilink")으로 진행된다. 방송 시간대가 금요일 오후 10시 50분으로 변경된다.
+서울 여의도, [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 별관 D스튜디오에서 [생방송](../Page/생방송.md "wikilink")으로 진행된다. 방송 시간대가 금요일 오후 10시 50분으로 변경된다.
 
   - 방송일시 : 12월 4일 금요일 오후 10시 50분 (금) 생방송
 
 ## 결승전
 
-[생방송](https://ko.wikipedia.org/wiki/생방송 "wikilink")으로 진행된다.
+[생방송](../Page/생방송.md "wikilink")으로 진행된다.
 
   - 아시안체어샷
   - 와러써커스

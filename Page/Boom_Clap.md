@@ -29,7 +29,7 @@
 <td><p>35</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나디안_핫_100" title="wikilink">캐나디안 핫 100</a>[1]</p></td>
+<td><p><a href="../Page/캐나디안_핫_100.md" title="wikilink">캐나디안 핫 100</a>[1]</p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="odd">
@@ -63,7 +63,7 @@
 
 ## 뮤직비디오
 
-  - [Boom Clap](https://www.youtube.com/watch?v=AOPMlIIg_38) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [Boom Clap](https://www.youtube.com/watch?v=AOPMlIIg_38) - [유튜브](../Page/유튜브.md "wikilink")
 
 [분류:2015년 싱글](https://ko.wikipedia.org/wiki/분류:2015년_싱글 "wikilink") [분류:찰리 XCX의 노래](https://ko.wikipedia.org/wiki/분류:찰리_XCX의_노래 "wikilink") [분류:2015년 노래](https://ko.wikipedia.org/wiki/분류:2015년_노래 "wikilink") [분류:영화 삽입곡](https://ko.wikipedia.org/wiki/분류:영화_삽입곡 "wikilink") [분류:2014년 노래](https://ko.wikipedia.org/wiki/분류:2014년_노래 "wikilink") [분류:2014년 싱글](https://ko.wikipedia.org/wiki/분류:2014년_싱글 "wikilink")
 

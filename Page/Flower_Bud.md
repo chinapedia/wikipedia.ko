@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Flower Bud](https://ko.wikipedia.org/wiki/Flower_Bud).
 
 
-《**Flower Bud**》(플라워 버드)는 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 2번째 [미니 앨범이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+《**Flower Bud**》(플라워 버드)는 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 2번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 개요
 

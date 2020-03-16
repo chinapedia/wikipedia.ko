@@ -197,7 +197,7 @@
 
 <!-- end list -->
 
-  - [마르쿠스 베리](https://ko.wikipedia.org/wiki/마르쿠스_베리 "wikilink")
+  - [마르쿠스 베리](../Page/마르쿠스_베리.md "wikilink")
 
 <!-- end list -->
 
@@ -221,7 +221,7 @@
 
 <!-- end list -->
 
-  - [올리비에 지루](https://ko.wikipedia.org/wiki/올리비에_지루 "wikilink")
+  - [올리비에 지루](../Page/올리비에_지루.md "wikilink")
 
   - [퀸시 프로머스](https://ko.wikipedia.org/wiki/퀸시_프로머스 "wikilink")
 
@@ -239,13 +239,13 @@
 
   - [이벨린 포포프](../Page/이벨린_포포프.md "wikilink")
 
-  - [케뱅 가메이로](https://ko.wikipedia.org/wiki/케뱅_가메이로 "wikilink")
+  - [케뱅 가메이로](../Page/케뱅_가메이로.md "wikilink")
 
   - [앙투안 그리즈만](../Page/앙투안_그리즈만.md "wikilink")
 
-  - [디미트리 파예트](https://ko.wikipedia.org/wiki/디미트리_파예트 "wikilink")
+  - [디미트리 파예트](../Page/디미트리_파예트.md "wikilink")
 
-  - [폴 포그바](https://ko.wikipedia.org/wiki/폴_포그바 "wikilink")
+  - [폴 포그바](../Page/폴_포그바.md "wikilink")
 
   - [멤피스 데파이](../Page/멤피스_데파이.md "wikilink")
 
@@ -253,7 +253,7 @@
 
   - [베슬레이 스네이더르](https://ko.wikipedia.org/wiki/베슬레이_스네이더르 "wikilink")
 
-  - [올라 토이보넨](https://ko.wikipedia.org/wiki/올라_토이보넨 "wikilink")
+  - [올라 토이보넨](../Page/올라_토이보넨.md "wikilink")
 
 <!-- end list -->
 
@@ -289,7 +289,7 @@
 
   - [빅토르 린델뢰프](../Page/빅토르_린델뢰프.md "wikilink")
 
-  - [미카엘 루스티그](https://ko.wikipedia.org/wiki/미카엘_루스티그 "wikilink")
+  - [미카엘 루스티그](../Page/미카엘_루스티그.md "wikilink")
 
 ## 같이 보기
 

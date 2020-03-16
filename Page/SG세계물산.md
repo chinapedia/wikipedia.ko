@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SG](https://ko.wikipedia.org/wiki/SG).
 
 
-**SG세계물산**은 의류 제조 및 판매 사업을 영위하는 코스피 상장 기업이다. 대형 바이어들에게 대한 [OEM](https://ko.wikipedia.org/wiki/OEM "wikilink") 방식 판매와 자체 브랜드를 통한 판매를 병행하고 있다.
+**SG세계물산**은 의류 제조 및 판매 사업을 영위하는 코스피 상장 기업이다. 대형 바이어들에게 대한 [OEM](../Page/OEM.md "wikilink") 방식 판매와 자체 브랜드를 통한 판매를 병행하고 있다.
 
 ## 사업
 
-의류 수출은 GAP그룹(GAP, OLD NAVY, BANANA REPUBLIC), Target, FOREVER21 등 미국의 대형 바이어들에게 [OEM](https://ko.wikipedia.org/wiki/OEM "wikilink")방식으로 판매하고 있다. 수출 물량 중 북미의 비중이 커서 약 93%를 차지한다.
+의류 수출은 GAP그룹(GAP, OLD NAVY, BANANA REPUBLIC), Target, FOREVER21 등 미국의 대형 바이어들에게 [OEM](../Page/OEM.md "wikilink")방식으로 판매하고 있다. 수출 물량 중 북미의 비중이 커서 약 93%를 차지한다.
 
 자체 브랜드로는 남성정장 BASSO, BASSO homme, 여성복 ab.f.z, ab.plus 총 4개의 브랜드를 보유하고 있어, 전국의 백화점, 대리점, 할인점 및 직영점을 통해 판매된다.
 
@@ -19,8 +19,8 @@
 
   - [동전주](../Page/동전주.md "wikilink")
   - [동전주 테마](https://ko.wikipedia.org/wiki/테마주#동전주_테마 "wikilink")
-  - [테마주](https://ko.wikipedia.org/wiki/테마주 "wikilink")
-  - [OEM](https://ko.wikipedia.org/wiki/OEM "wikilink")
+  - [테마주](../Page/테마주.md "wikilink")
+  - [OEM](../Page/OEM.md "wikilink")
 
 ## 참고문헌
 

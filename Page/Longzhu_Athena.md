@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Longzhu Athena](https://ko.wikipedia.org/wiki/Longzhu_Athena).
 
 
-**Longzhu Athena**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [리그 오브 레전드](https://ko.wikipedia.org/wiki/리그_오브_레전드 "wikilink") 여성 [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 기존에 운영되던 [LongZhu-IM](https://ko.wikipedia.org/wiki/LongZhu-IM "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")에서 여성부 대회를 위하여 신설했으며, 기존엔 IM\#Athena라는 팀명을 사용했으나 2015년 4월 13일 중국의 스트리밍 회사인 Longzhu TV의 후원을 받으면서 Longzhu Athena로 팀명을 변경했다.
+**Longzhu Athena**는 [대한민국](../Page/대한민국.md "wikilink")의 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink") 여성 [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 기존에 운영되던 [LongZhu-IM](https://ko.wikipedia.org/wiki/LongZhu-IM "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")에서 여성부 대회를 위하여 신설했으며, 기존엔 IM\#Athena라는 팀명을 사용했으나 2015년 4월 13일 중국의 스트리밍 회사인 Longzhu TV의 후원을 받으면서 Longzhu Athena로 팀명을 변경했다.
 
 팀원들은 아프리카TV lol 레이디스배틀 윈터 2013-2014의 우승팀인 [MVP PURE와](https://ko.wikipedia.org/wiki/MVP_PURE "wikilink") 온게임넷 lol 레이디스리그 2013-2014의 우승팀인 Grace 선수들로 구성되었으며, 창단부터 최고의 여성 프로게임단이라는 찬사를 받았다.
 

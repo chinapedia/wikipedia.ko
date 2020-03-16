@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PVRIS](https://ko.wikipedia.org/wiki/PVRIS).
 
 
-**PVRIS**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [얼터너티브 록](https://ko.wikipedia.org/wiki/얼터너티브_록 "wikilink") 밴드이다. 2013년 여름, 법적인 문제로 인해 밴드명을 "Paris"에서 "PVRIS"로 개명했다.\[1\] 셀프타이틀 EP, 어쿠스틱 EP를 각각 발매한 뒤 2014년에 데뷔 싱글 "St. Patrick"을 뮤직비디오와 함께 발매했다. 2014년에는 데뷔 앨범 *White Noise* 를 발매하고 2016년에는 해당 앨범의 디럭스 버전을 발매했다.
+**PVRIS**는 [미국](../Page/미국.md "wikilink")의 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") 밴드이다. 2013년 여름, 법적인 문제로 인해 밴드명을 "Paris"에서 "PVRIS"로 개명했다.\[1\] 셀프타이틀 EP, 어쿠스틱 EP를 각각 발매한 뒤 2014년에 데뷔 싱글 "St. Patrick"을 뮤직비디오와 함께 발매했다. 2014년에는 데뷔 앨범 *White Noise* 를 발매하고 2016년에는 해당 앨범의 디럭스 버전을 발매했다.
 
 ## 음악 스타일
 

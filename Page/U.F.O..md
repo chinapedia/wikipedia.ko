@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [U.F.O.](https://ko.wikipedia.org/wiki/U.F.O.).
 
 
-《**U.F.O.**》는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 개봉한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 영화이다.
+《**U.F.O.**》는 [2012년](../Page/2012년.md "wikilink")에 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 영화이다.
 
 ## 캐스팅
 

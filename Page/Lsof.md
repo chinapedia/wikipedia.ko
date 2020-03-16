@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lsof](https://ko.wikipedia.org/wiki/Lsof).
 
 
-**lsof**는 list open files(열려있는 파일 나열)을 뜻하는 명령으로, 수많은 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 운영 체제에서 열려있는 모든 파일과, 그 파일들을 열고 있는 프로세스들의 목록을 출력한다. 이 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 유틸리티는 [퍼듀 대학교](https://ko.wikipedia.org/wiki/퍼듀_대학교 "wikilink") 컴퓨팅 센터의 부소장으로 은퇴한 빅터 A. 아벨이 개발·지원하였다. 일부 유닉스 계열에서 동작하며 지원한다.\[1\]
+**lsof**는 list open files(열려있는 파일 나열)을 뜻하는 명령으로, 수많은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제에서 열려있는 모든 파일과, 그 파일들을 열고 있는 프로세스들의 목록을 출력한다. 이 [오픈 소스](../Page/오픈_소스.md "wikilink") 유틸리티는 [퍼듀 대학교](../Page/퍼듀_대학교.md "wikilink") 컴퓨팅 센터의 부소장으로 은퇴한 빅터 A. 아벨이 개발·지원하였다. 일부 유닉스 계열에서 동작하며 지원한다.\[1\]
 
 ## 예
 

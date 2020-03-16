@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [XFS](https://ko.wikipedia.org/wiki/XFS).
 
 
-**XFS**는 1993년 [실리콘 그래픽스](https://ko.wikipedia.org/wiki/실리콘_그래픽스 "wikilink")(SGI)가 만든 고성능 64비트 [저널링 파일 시스템이다](https://ko.wikipedia.org/wiki/저널링_파일_시스템 "wikilink").\[1\] 버전 5.3을 기점으로 SGI의 [IRIX](https://ko.wikipedia.org/wiki/IRIX "wikilink") 운영 체제의 기본 파일 시스템이었고, 2001년에는 [리눅스 커널로](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 포팅되었다. 2014년 6월 기준으로 XFS는 대부분의 [리눅스 배포판에서](https://ko.wikipedia.org/wiki/리눅스_배포판 "wikilink") 지원되며, 그중 일부는 기본 파일 시스템으로 채택하고 있다.
+**XFS**는 1993년 [실리콘 그래픽스](../Page/실리콘_그래픽스.md "wikilink")(SGI)가 만든 고성능 64비트 [저널링 파일 시스템이다](../Page/저널링_파일_시스템.md "wikilink").\[1\] 버전 5.3을 기점으로 SGI의 [IRIX](../Page/IRIX.md "wikilink") 운영 체제의 기본 파일 시스템이었고, 2001년에는 [리눅스 커널로](../Page/리눅스_커널.md "wikilink") 포팅되었다. 2014년 6월 기준으로 XFS는 대부분의 [리눅스 배포판에서](../Page/리눅스_배포판.md "wikilink") 지원되며, 그중 일부는 기본 파일 시스템으로 채택하고 있다.
 
 ## 역사
 
-실리콘 그래픽스는 1993년 XFS에 대한 개발을 시작하였으며\[2\]\[3\], 이를 1994년 [IRIX](https://ko.wikipedia.org/wiki/IRIX "wikilink") 버전 5.3에 처음으로 포함시켰다. 이 파일 시스템은 2000년 5월 [GNU GPL](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink") 하에 출시되었다. 스티브 로드 주도의 SGI 팀이 리눅스로 포팅했으며\[4\] 2001년에 [리눅스 배포판에](https://ko.wikipedia.org/wiki/리눅스_배포판 "wikilink") 의해 처음 지원된다.
+실리콘 그래픽스는 1993년 XFS에 대한 개발을 시작하였으며\[2\]\[3\], 이를 1994년 [IRIX](../Page/IRIX.md "wikilink") 버전 5.3에 처음으로 포함시켰다. 이 파일 시스템은 2000년 5월 [GNU GPL](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink") 하에 출시되었다. 스티브 로드 주도의 SGI 팀이 리눅스로 포팅했으며\[4\] 2001년에 [리눅스 배포판에](../Page/리눅스_배포판.md "wikilink") 의해 처음 지원된다.
 
 ## 기능
 
 ### 용량
 
-XFS는 [64비트](https://ko.wikipedia.org/wiki/64비트 "wikilink") 파일 시스템\[5\]으로, 파일 시스템 크기는 최대 8 [엑스비바이트](https://ko.wikipedia.org/wiki/엑스비바이트 "wikilink") - 1 바이트 (2<sup>63</sup> - 1 바이트)이지만, 호스트 운영 체제의 제한에 따라 이 제한은 감소될 수 있다. [32비트](https://ko.wikipedia.org/wiki/32비트 "wikilink") 리눅스 시스템은 파일과 파일 시스템의 크기를 16 [테비바이트](https://ko.wikipedia.org/wiki/테비바이트 "wikilink")로 제한한다.
+XFS는 [64비트](../Page/64비트.md "wikilink") 파일 시스템\[5\]으로, 파일 시스템 크기는 최대 8 [엑스비바이트](https://ko.wikipedia.org/wiki/엑스비바이트 "wikilink") - 1 바이트 (2<sup>63</sup> - 1 바이트)이지만, 호스트 운영 체제의 제한에 따라 이 제한은 감소될 수 있다. [32비트](../Page/32비트.md "wikilink") 리눅스 시스템은 파일과 파일 시스템의 크기를 16 [테비바이트](https://ko.wikipedia.org/wiki/테비바이트 "wikilink")로 제한한다.
 
 ### 저널링
 

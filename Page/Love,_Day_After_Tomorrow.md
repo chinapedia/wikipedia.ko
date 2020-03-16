@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Love, Day After Tomorrow](https://ko.wikipedia.org/wiki/Love,_Day_After_Tomorrow).
 
 
-〈**Love, Day After Tomorrow**〉(러브 데이 애프터 투모로)는 일본의 여성 가수 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 일본 데뷔 싱글이다. [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 8일에](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.
+〈**Love, Day After Tomorrow**〉(러브 데이 애프터 투모로)는 일본의 여성 가수 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 일본 데뷔 싱글이다. [1999년](../Page/1999년.md "wikilink") [12월 8일에](../Page/12월_8일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.
 
 ## 개요
 
-사운드 프로듀스를 페리 게이어, 믹스를 미구엘 사 페소아로 한 Cybersound의 멤버가 맡고 있다. 녹음은 1999년 여름 쯤부터 진행해오고 있었다. [싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") 외에 표제곡의 리믹스를 더한 [아날로그반이](https://ko.wikipedia.org/wiki/축음기_음반 "wikilink") 존재한다.
+사운드 프로듀스를 페리 게이어, 믹스를 미구엘 사 페소아로 한 Cybersound의 멤버가 맡고 있다. 녹음은 1999년 여름 쯤부터 진행해오고 있었다. [싱글](../Page/싱글_\(음악\).md "wikilink") 외에 표제곡의 리믹스를 더한 [아날로그반이](../Page/축음기_음반.md "wikilink") 존재한다.
 
 데뷔 직후에 프로모션 비디오의 교체가 행해지고 있었으며, 이 시기만 온에어되고 있던 PV가 존재한다. 내용은 대부분은 그 후 《FIRST CUT》에 수록된 보통 사양의 PV이지만, 일부 얼굴이 업되는 장면이 있었으며, 교체로 이 장면이 모두 제거됐다.
 

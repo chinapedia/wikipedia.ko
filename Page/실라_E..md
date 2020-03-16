@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [ E.](https://ko.wikipedia.org/wiki/_E.).
 
 
-**실라 E.**(Sheila E., [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") [12월 12일](https://ko.wikipedia.org/wiki/12월_12일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.
+**실라 E.**(Sheila E., [1957년](../Page/1957년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.
 
 ## 외부 링크
 
   -
   -
-  - [실라 E.](https://www.youtube.com/channel/UCxzFnt_2NfIyvtYOyVOOSng) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [실라 E.](https://www.youtube.com/channel/UCxzFnt_2NfIyvtYOyVOOSng) - [유튜브](../Page/유튜브.md "wikilink")
 
-  - [실라 E.](https://instagram.com/sheilaedrummer/) - [인스타그램](https://ko.wikipedia.org/wiki/인스타그램 "wikilink")
+  - [실라 E.](https://instagram.com/sheilaedrummer/) - [인스타그램](../Page/인스타그램.md "wikilink")
 
-  - [실라 E.](https://twitter.com/sheilaedrummer) - [트위터](https://ko.wikipedia.org/wiki/트위터 "wikilink")
+  - [실라 E.](https://twitter.com/sheilaedrummer) - [트위터](../Page/트위터.md "wikilink")
 
-  - [실라 E.](https://www.facebook.com/SheilaEDrummer) - [페이스북](https://ko.wikipedia.org/wiki/페이스북 "wikilink")
+  - [실라 E.](https://www.facebook.com/SheilaEDrummer) - [페이스북](../Page/페이스북.md "wikilink")
 
   - [실라 E.](https://web.archive.org/web/20150923141312/http://community.sheilae.com/) - [텀블러](https://ko.wikipedia.org/wiki/텀블러 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBM  MQ](https://ko.wikipedia.org/wiki/IBM__MQ).
 
 
-**IBM MQ**는 1992년 3월 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")이 착수한 [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink") 소프트웨어 제품의 한 계열이다. 원래 이름은 **MQSeries**였으며 2002년에 [웹스피어](https://ko.wikipedia.org/wiki/웹스피어 "wikilink") 제품군과 병합하면서 **웹스피어 MQ**로 이름이 바뀌었다. 2014년 4월 **IBM MQ**로 이름이 최종 변경되었다.
+**IBM MQ**는 1992년 3월 [IBM](../Page/IBM.md "wikilink")이 착수한 [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink") 소프트웨어 제품의 한 계열이다. 원래 이름은 **MQSeries**였으며 2002년에 [웹스피어](https://ko.wikipedia.org/wiki/웹스피어 "wikilink") 제품군과 병합하면서 **웹스피어 MQ**로 이름이 바뀌었다. 2014년 4월 **IBM MQ**로 이름이 최종 변경되었다.
 
 ## 메시지 지향 미들웨어
 
@@ -18,17 +18,17 @@ IBM MQ 기능에 접근하는 방법은 다양하다.
 
 IBM이 직접 지원하는 API 중 일부는 다음과 같다:
 
-  - IBM 메시지 큐 인터페이스 (MQI): [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink"), [COBOL](https://ko.wikipedia.org/wiki/COBOL "wikilink"), [PL/I](https://ko.wikipedia.org/wiki/PL/I "wikilink"), [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink"), [Rexx](https://ko.wikipedia.org/wiki/Rexx "wikilink"),\[2\] [RPG](https://ko.wikipedia.org/wiki/IBM_RPG "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")용
-  - [자바 메시지 서비스](https://ko.wikipedia.org/wiki/자바_메시지_서비스 "wikilink") (JMS)
+  - IBM 메시지 큐 인터페이스 (MQI): [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [COBOL](https://ko.wikipedia.org/wiki/COBOL "wikilink"), [PL/I](https://ko.wikipedia.org/wiki/PL/I "wikilink"), [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [Rexx](https://ko.wikipedia.org/wiki/Rexx "wikilink"),\[2\] [RPG](https://ko.wikipedia.org/wiki/IBM_RPG "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")용
+  - [자바 메시지 서비스](../Page/자바_메시지_서비스.md "wikilink") (JMS)
   - C/C++, 닷넷용 XMS\[3\]
   - .NET
-  - [REST](https://ko.wikipedia.org/wiki/REST "wikilink")
-  - [SOAP](https://ko.wikipedia.org/wiki/SOAP "wikilink")
+  - [REST](../Page/REST.md "wikilink")
+  - [SOAP](../Page/SOAP.md "wikilink")
 
 공식적으로 지원되지는 않지만 타사에 의해 추가적으로 지원되는 API는 이를테면 다음과 같다:
 
-  - [펄](https://ko.wikipedia.org/wiki/펄 "wikilink") 인터페이스 (Hildo Biersma가 개발): [CPAN](https://ko.wikipedia.org/wiki/CPAN "wikilink")을 통해 이용 가능\[4\]
-  - [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") 인터페이스 *PyMQI*: [PyPI](https://ko.wikipedia.org/wiki/PyPI "wikilink")를 통해 이용 가능\[5\]
+  - [펄](../Page/펄.md "wikilink") 인터페이스 (Hildo Biersma가 개발): [CPAN](../Page/CPAN.md "wikilink")을 통해 이용 가능\[4\]
+  - [파이썬](../Page/파이썬.md "wikilink") 인터페이스 *PyMQI*: [PyPI](https://ko.wikipedia.org/wiki/PyPI "wikilink")를 통해 이용 가능\[5\]
   - [윈도 파워셸](https://ko.wikipedia.org/wiki/윈도_파워셸 "wikilink")\[6\]
 
 ## 각주

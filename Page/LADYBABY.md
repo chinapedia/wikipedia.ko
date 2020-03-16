@@ -9,13 +9,13 @@
 
 ## 역사
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 7월, 그룹은 첫 싱글 "Nippon Manju"를 발표하였다.
+[2015년](../Page/2015년.md "wikilink") 7월, 그룹은 첫 싱글 "Nippon Manju"를 발표하였다.
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 2월, 그룹은 두 번째 싱글 "Age-Age Money"를 발표하였다.
+[2016년](../Page/2016년.md "wikilink") 2월, 그룹은 두 번째 싱글 "Age-Age Money"를 발표하였다.
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 4월, 그룹은 세 번째 싱글 "Renge Chance"를 발표하였다.
+[2016년](../Page/2016년.md "wikilink") 4월, 그룹은 세 번째 싱글 "Renge Chance"를 발표하였다.
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 8월 1일, [레이디비어드](https://ko.wikipedia.org/wiki/레이디비어드 "wikilink")가 그룹을 탈퇴하고, 그룹은 이후 2인 체제로 "The Idol Formerly Known As LADYBABY"라는 이름으로 활동을 계속해나간다.\[1\]
+[2016년](../Page/2016년.md "wikilink") 8월 1일, [레이디비어드](https://ko.wikipedia.org/wiki/레이디비어드 "wikilink")가 그룹을 탈퇴하고, 그룹은 이후 2인 체제로 "The Idol Formerly Known As LADYBABY"라는 이름으로 활동을 계속해나간다.\[1\]
 
 ## 각주
 

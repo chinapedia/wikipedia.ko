@@ -5,7 +5,7 @@
 
 ## 개요
 
-성인용 상품을 전문으로 판매하는 일본 최대 규모의 [전자 상거래](https://ko.wikipedia.org/wiki/전자_상거래 "wikilink") 사이트인 DMM.R18을 운영하는 [DMM.com](../Page/DMM.com.md "wikilink")이 주최하는 상이다. 2014년 2월 3일에 처음 개최가 언급되었다.\[1\] 이 상은 2008년과 2009년에 개최되었다가 중단된 [AV 그랑프리를](../Page/AV_그랑프리.md "wikilink") 계승한 것이다. 2015년에는 상의 명칭이 《**DMM.R18성인상**》으로 변경되었다.
+성인용 상품을 전문으로 판매하는 일본 최대 규모의 [전자 상거래](../Page/전자_상거래.md "wikilink") 사이트인 DMM.R18을 운영하는 [DMM.com](../Page/DMM.com.md "wikilink")이 주최하는 상이다. 2014년 2월 3일에 처음 개최가 언급되었다.\[1\] 이 상은 2008년과 2009년에 개최되었다가 중단된 [AV 그랑프리를](../Page/AV_그랑프리.md "wikilink") 계승한 것이다. 2015년에는 상의 명칭이 《**DMM.R18성인상**》으로 변경되었다.
 
 후보에 오르는 작품은 DMM.R18에서 판매되고 있는 모든 작품이며, 개최 전년도에 발표한 작품이다. 여기에 데이터를 바탕으로 [인터넷 투표를](https://ko.wikipedia.org/wiki/인터넷_투표 "wikilink") 통해 인기 순위를 매겨 수상작을 결정한다. 투표에는 DMM 회원 ID 한 개당 한 번씩 참여할 수 있다.\[2\]\[3\]
 
@@ -26,7 +26,7 @@
 
 ## 주요 출연자
 
-  - 사회 : [아사미 유마](https://ko.wikipedia.org/wiki/아사미_유마 "wikilink") (홍보 및 발표자),\[4\] [이데 다이스케](https://ko.wikipedia.org/wiki/이데_다이스케 "wikilink")
+  - 사회 : [아사미 유마](../Page/아사미_유마.md "wikilink") (홍보 및 발표자),\[4\] [이데 다이스케](https://ko.wikipedia.org/wiki/이데_다이스케 "wikilink")
   - 발표자 : [마츠에 타츠야](https://ko.wikipedia.org/wiki/마츠에_타츠야 "wikilink") (작품상)
 
 ### 2014년
@@ -37,7 +37,7 @@
 
 ### 2015년
 
-  - 발표자 : [우에하라 아이](../Page/우에하라_아이.md "wikilink") (최우수여배우상), [아야미 슌카](https://ko.wikipedia.org/wiki/아야미_슌카 "wikilink") (우수여배우상), [릴리 프랭키](https://ko.wikipedia.org/wiki/릴리_프랭키 "wikilink") (최우수여배우상), [시라이시 마리나](https://ko.wikipedia.org/wiki/시라이시_마리나 "wikilink") (최우수신인여배우상), [요시자와 아키호](https://ko.wikipedia.org/wiki/요시자와_아키호 "wikilink") (화제상), 노모토 에이스케 (미디어상)
+  - 발표자 : [우에하라 아이](../Page/우에하라_아이.md "wikilink") (최우수여배우상), [아야미 슌카](https://ko.wikipedia.org/wiki/아야미_슌카 "wikilink") (우수여배우상), [릴리 프랭키](../Page/릴리_프랭키.md "wikilink") (최우수여배우상), [시라이시 마리나](https://ko.wikipedia.org/wiki/시라이시_마리나 "wikilink") (최우수신인여배우상), [요시자와 아키호](../Page/요시자와_아키호.md "wikilink") (화제상), 노모토 에이스케 (미디어상)
   - 특별발표자 : [스이도바시 하카세](https://ko.wikipedia.org/wiki/스이도바시_하카세 "wikilink")
   - 출연가수\[6\] : [color-code](https://ko.wikipedia.org/wiki/color-code "wikilink"), [카멘죠시](https://ko.wikipedia.org/wiki/카멘죠시 "wikilink") ([스팀걸즈](https://ko.wikipedia.org/wiki/스팀걸즈 "wikilink")), [Charisma.com](https://ko.wikipedia.org/wiki/Charisma.com "wikilink"), [키요시 류진25](https://ko.wikipedia.org/wiki/키요시_류진25 "wikilink")
 
@@ -81,7 +81,7 @@
 | [스노하라 미키](https://ko.wikipedia.org/wiki/스노하라_미키 "wikilink")       |
 | [츠보미](https://ko.wikipedia.org/wiki/츠보미 "wikilink")               |
 | MOODYZ                                                            |
-| [요시자와 아키호](https://ko.wikipedia.org/wiki/요시자와_아키호 "wikilink")     |
+| [요시자와 아키호](../Page/요시자와_아키호.md "wikilink")                        |
 | S1                                                                |
 | [Rio](../Page/Rio.md "wikilink")                                  |
 | AV 30 인기투표 10위                                                    |
@@ -106,7 +106,7 @@
 | AV 30 인기투표 85위                                                                   |
 | [미나토 리쿠](https://ko.wikipedia.org/wiki/미나토_리쿠 "wikilink")                        |
 | [모모타니 에리카](https://ko.wikipedia.org/wiki/모모타니_에리카 "wikilink")                    |
-| [유메 카나](https://ko.wikipedia.org/wiki/유메_카나 "wikilink")                          |
+| [유메 카나](../Page/유메_카나.md "wikilink")                                             |
 | AV 30 인기투표 20위                                                                   |
 | 요시자와 아키호                                                                         |
 | S1                                                                               |

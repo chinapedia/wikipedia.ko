@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ABTB](https://ko.wikipedia.org/wiki/ABTB).
 
 
-**ABTB**(Attraction Between Two Bodies)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 1970\~1980년대 하드 록-메틀 밴드와 1990년대 시애틀 그런지 밴드들, 그리고 2000년대 이후 영국 모던 록 밴드들의 영향을 받았으며, 록이라는 범주 안에서 여러 음악적 시도를 하는 중이다.
+**ABTB**(Attraction Between Two Bodies)는 [대한민국](../Page/대한민국.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 1970\~1980년대 하드 록-메틀 밴드와 1990년대 시애틀 그런지 밴드들, 그리고 2000년대 이후 영국 모던 록 밴드들의 영향을 받았으며, 록이라는 범주 안에서 여러 음악적 시도를 하는 중이다.
 
 ## 구성원
 

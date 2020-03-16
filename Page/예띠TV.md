@@ -1,27 +1,27 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-《**예띠TV**》는 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink") 밤 1시 30분 부터 [KBS 2TV로](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
+《**예띠TV**》는 매주 [금요일](../Page/금요일.md "wikilink") 밤 1시 30분 부터 [KBS 2TV로](../Page/KBS_2TV.md "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
 
 ## 기획 의도
 
-디지털미디어를 주도할 새로운 스타들을 발굴하고 키워내는 [인큐베이터](https://ko.wikipedia.org/wiki/인큐베이터 "wikilink")의 역할을 하는 [텔레비전 프로그램](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink")
+디지털미디어를 주도할 새로운 스타들을 발굴하고 키워내는 [인큐베이터](https://ko.wikipedia.org/wiki/인큐베이터 "wikilink")의 역할을 하는 [텔레비전 프로그램](../Page/텔레비전_프로그램.md "wikilink")
 
 ## 방송 시간
 
-본 방송 시간은 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 7일](https://ko.wikipedia.org/wiki/8월_7일 "wikilink") 방송 시간을 기준으로 한다.
+본 방송 시간은 [2015년](../Page/2015년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") 방송 시간을 기준으로 한다.
 
-| 방송 채널                                                       | 방송 기간                                                                                                                                                                                                                                  | 방송 시간                                                                     |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") | [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 26일](https://ko.wikipedia.org/wiki/12월_26일 "wikilink") | 매주 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink") 밤 1시 30분 \~ 2시 10분 |
+| 방송 채널                                    | 방송 기간                                                                                                                                                      | 방송 시간                                                  |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink") | [2015년](../Page/2015년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 밤 1시 30분 \~ 2시 10분 |
 
 ## 방송 회차
 
 ### 2015년
 
-| 회차 | 방송일                                                     | 출연자                                                                                                                                                             |
-| -- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1  | [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") | [틴탑](https://ko.wikipedia.org/wiki/틴탑 "wikilink"), [에이나이브](https://ko.wikipedia.org/wiki/에이나이브 "wikilink"), [전태익](https://ko.wikipedia.org/wiki/전태익 "wikilink") |
+| 회차 | 방송일                                  | 출연자                                                                                                                                          |
+| -- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | [8월 8일](../Page/8월_8일.md "wikilink") | [틴탑](../Page/틴탑.md "wikilink"), [에이나이브](https://ko.wikipedia.org/wiki/에이나이브 "wikilink"), [전태익](https://ko.wikipedia.org/wiki/전태익 "wikilink") |
 
 ## 시청률
 

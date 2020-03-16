@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
 
 
-**LG 밴드플레이**(LG Band Play)는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 25일에](https://ko.wikipedia.org/wiki/6월_25일 "wikilink") 출시한 보급형 스마트폰이다.\[1\] [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink")의 요청으로 출시된 [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink") 전용 기종이며, 이전의 보급형들과 다르게 멀티미디어 기능을 강화했다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink"), 케이스가 유출되어 디자인이 처음 공개되었다.\[2\]
+**LG 밴드플레이**(LG Band Play)는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [6월 25일에](../Page/6월_25일.md "wikilink") 출시한 보급형 스마트폰이다.\[1\] [SK텔레콤](../Page/SK텔레콤.md "wikilink")의 요청으로 출시된 [SK텔레콤](../Page/SK텔레콤.md "wikilink") 전용 기종이며, 이전의 보급형들과 다르게 멀티미디어 기능을 강화했다. [2015년](../Page/2015년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink"), 케이스가 유출되어 디자인이 처음 공개되었다.\[2\]
 
 ## 운영체제 / 소프트웨어
 
@@ -11,7 +11,7 @@
 
 ### 안드로이드 6.0 마시멜로
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink"), 밴드플레이에 [6.0 마시멜로가](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 배포되었다. [5.1 롤리팝과](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 크게 달라진 점은 없지만 최적화가 진행되고 4자리만 지원하던 노크 코드를 6자리에서 8자리까지 선택할 수 있도록 변경되었다.\[3\]
+[2016년](../Page/2016년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink"), 밴드플레이에 [6.0 마시멜로가](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 배포되었다. [5.1 롤리팝과](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 크게 달라진 점은 없지만 최적화가 진행되고 4자리만 지원하던 노크 코드를 6자리에서 8자리까지 선택할 수 있도록 변경되었다.\[3\]
 
 ## 특수 기능
 
@@ -27,7 +27,7 @@
 ## 색상
 
   - [블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
+  - [화이트](../Page/하양.md "wikilink")
 
 ## 각주
 

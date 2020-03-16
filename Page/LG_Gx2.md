@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG Gx2](https://ko.wikipedia.org/wiki/LG_Gx2).
 
 
-**LG GX2**는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 27일에](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") 출시된 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")의 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\] 해외에서는 **G 비스타**라는 이름으로 판매되고 있으며, [LG G3의](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 파생 모델 중 하나이다. 네이밍은 [LG GX의](https://ko.wikipedia.org/wiki/LG_GX "wikilink") 후속작이나, 전체적인 성능은 [GX에](https://ko.wikipedia.org/wiki/LG_GX "wikilink") 비해 떨어진다.
+**LG GX2**는 [2014년](../Page/2014년.md "wikilink") [8월 27일에](../Page/8월_27일.md "wikilink") 출시된 [LG전자](../Page/LG전자.md "wikilink")의 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 해외에서는 **G 비스타**라는 이름으로 판매되고 있으며, [LG G3의](../Page/LG_G3.md "wikilink") 파생 모델 중 하나이다. 네이밍은 [LG GX의](https://ko.wikipedia.org/wiki/LG_GX "wikilink") 후속작이나, 전체적인 성능은 [GX에](https://ko.wikipedia.org/wiki/LG_GX "wikilink") 비해 떨어진다.
 
 ## 운영 체제
 
@@ -11,7 +11,7 @@ LG Gx2는 [4.4.2 킷캣으로](https://ko.wikipedia.org/wiki/안드로이드_버
 
 ### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [5.0.2 롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
 
-[LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")는 GX2에 [롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 계획이 없다고 밝혔다. 비슷한 사양의 [LG G3 비트와](../Page/LG_G3_비트.md "wikilink") [LG G 스타일로](../Page/LG_G_스타일로.md "wikilink"), 그리고 전작인 [LG Gx는](../Page/LG_Gx.md "wikilink") [롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시행되었고, 블루투스 인증까지 되었기 때문에 GX2 유저들은 배신감을 느끼고 있다.
+[LG전자](../Page/LG전자.md "wikilink")는 GX2에 [롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 계획이 없다고 밝혔다. 비슷한 사양의 [LG G3 비트와](../Page/LG_G3_비트.md "wikilink") [LG G 스타일로](../Page/LG_G_스타일로.md "wikilink"), 그리고 전작인 [LG Gx는](../Page/LG_Gx.md "wikilink") [롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시행되었고, 블루투스 인증까지 되었기 때문에 GX2 유저들은 배신감을 느끼고 있다.
 
 ## 특수 기능
 
@@ -25,16 +25,16 @@ LG Gx2는 [4.4.2 킷캣으로](https://ko.wikipedia.org/wiki/안드로이드_버
 
 ### 유플릭스
 
-[LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink")에서 만든 서비스로, 12,000편의 영화를 볼 수 있다.
+[LG유플러스](../Page/LG유플러스.md "wikilink")에서 만든 서비스로, 12,000편의 영화를 볼 수 있다.
 
 ### U 스푼
 
-[LG GX에서](https://ko.wikipedia.org/wiki/LG_GX "wikilink") 처음 시작된 서비스로, [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink")에서 개발하였다. 자기 주변 맛집 정보를 자동으로 검색해서 맛집 추천과 교통, 날씨, 일정 등을 소개해 준다.
+[LG GX에서](https://ko.wikipedia.org/wiki/LG_GX "wikilink") 처음 시작된 서비스로, [LG유플러스](../Page/LG유플러스.md "wikilink")에서 개발하였다. 자기 주변 맛집 정보를 자동으로 검색해서 맛집 추천과 교통, 날씨, 일정 등을 소개해 준다.
 
 ## 같이 보기
 
   - [LG Gx](../Page/LG_Gx.md "wikilink")
-  - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
+  - [LG G3](../Page/LG_G3.md "wikilink")
   - [LG G3 비트](../Page/LG_G3_비트.md "wikilink")
   - [LG G3 A](../Page/LG_G3_A.md "wikilink")
   - [LG G3 Cat.6](../Page/LG_G3_카테고리_6.md "wikilink")

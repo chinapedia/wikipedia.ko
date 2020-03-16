@@ -16,8 +16,8 @@
 
 <!-- end list -->
 
-1.  "당신만을 사랑해 (혜은이)" ([길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작사 / [길옥윤](https://ko.wikipedia.org/wiki/길옥윤 "wikilink") 작곡) ***- 최우수 작품상, 최우수 인기상***
-2.  "나그네 (윤항기)" ([윤항기](https://ko.wikipedia.org/wiki/윤항기 "wikilink") 작사 / [윤항기](https://ko.wikipedia.org/wiki/윤항기 "wikilink") 작곡)
+1.  "당신만을 사랑해 (혜은이)" ([길옥윤](../Page/길옥윤.md "wikilink") 작사 / [길옥윤](../Page/길옥윤.md "wikilink") 작곡) ***- 최우수 작품상, 최우수 인기상***
+2.  "나그네 (윤항기)" ([윤항기](../Page/윤항기.md "wikilink") 작사 / [윤항기](../Page/윤항기.md "wikilink") 작곡)
 3.  "나의 품으로 (이승연)" ([안진석](https://ko.wikipedia.org/wiki/안진석 "wikilink") 작사 / [안진석](https://ko.wikipedia.org/wiki/안진석 "wikilink") 작곡)
 4.  "다시 만난 날 (김영애)" ([김기웅](../Page/김기웅.md "wikilink") 작사 / [김기웅](../Page/김기웅.md "wikilink") 작곡) ***- 우수 작품상***
 5.  "향수 (이성애)" ([정민섭](https://ko.wikipedia.org/wiki/정민섭 "wikilink") 작사 / [정민섭](https://ko.wikipedia.org/wiki/정민섭 "wikilink") 작곡) ***- 우수 작품상, 최우수 가창상***

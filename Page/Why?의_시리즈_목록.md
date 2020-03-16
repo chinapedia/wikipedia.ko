@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Why\?  ](https://ko.wikipedia.org/wiki/Why\?__).
 
 
-아래는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 학습만화인 [Why?](https://ko.wikipedia.org/wiki/Why? "wikilink")의 **시리즈 목록**이다.
+아래는 [대한민국](../Page/대한민국.md "wikilink")의 학습만화인 [Why?](https://ko.wikipedia.org/wiki/Why? "wikilink")의 **시리즈 목록**이다.
 
 ## 과학, 수학
 
@@ -212,19 +212,19 @@
 10. 무력 시대와 제국주의 팽창
 11. 세계대전과 전후의 세계
 12. 현대사회의 변화
-13. 나라별 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")
-14. 나라별 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")
-15. 나라별 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")
-16. 나라별 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")
-17. 나라별 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")
-18. 나라별 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")
-19. 나라별 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")
-20. 나라별 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")
-21. 나라별 [러시아](https://ko.wikipedia.org/wiki/러시아 "wikilink")
-22. 나라별 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")
-23. 나라별 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")
-24. 나라별 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")
-25. 나라별 [이집트](https://ko.wikipedia.org/wiki/이집트 "wikilink")
+13. 나라별 [미국](../Page/미국.md "wikilink")
+14. 나라별 [일본](../Page/일본.md "wikilink")
+15. 나라별 [독일](../Page/독일.md "wikilink")
+16. 나라별 [이탈리아](../Page/이탈리아.md "wikilink")
+17. 나라별 [프랑스](../Page/프랑스.md "wikilink")
+18. 나라별 [중국](../Page/중국.md "wikilink")
+19. 나라별 [인도](../Page/인도.md "wikilink")
+20. 나라별 [브라질](../Page/브라질.md "wikilink")
+21. 나라별 [러시아](../Page/러시아.md "wikilink")
+22. 나라별 [캐나다](../Page/캐나다.md "wikilink")
+23. 나라별 [영국](../Page/영국.md "wikilink")
+24. 나라별 [스페인](../Page/스페인.md "wikilink")
+25. 나라별 [이집트](../Page/이집트.md "wikilink")
 
 ## 기타
 

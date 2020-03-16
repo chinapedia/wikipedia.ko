@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [J.  ](https://ko.wikipedia.org/wiki/J.__).
 
 
-**J. 캐런 토머스**(, [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink"))는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 [배우](https://ko.wikipedia.org/wiki/배우 "wikilink")이다. [테네시주](https://ko.wikipedia.org/wiki/테네시주 "wikilink") [내슈빌](https://ko.wikipedia.org/wiki/내슈빌 "wikilink") 토박이로서 [멤피스 대학교를](https://ko.wikipedia.org/wiki/멤피스_대학교 "wikilink") 졸업한 뒤 [배우](https://ko.wikipedia.org/wiki/배우 "wikilink"), [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") 등으로 활동을 계속하였다. 배우로서의 대표 출연작으로 《[내슈빌](https://ko.wikipedia.org/wiki/내슈빌_\(드라마\) "wikilink")》, 《[블러바드](../Page/블러바드_\(영화\).md "wikilink")》가 있다.\[1\]
+**J. 캐런 토머스**(, [1965년](../Page/1965년.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink"))는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다. [테네시주](../Page/테네시주.md "wikilink") [내슈빌](../Page/내슈빌.md "wikilink") 토박이로서 [멤피스 대학교를](https://ko.wikipedia.org/wiki/멤피스_대학교 "wikilink") 졸업한 뒤 [배우](../Page/배우.md "wikilink"), [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") 등으로 활동을 계속하였다. 배우로서의 대표 출연작으로 《[내슈빌](../Page/내슈빌_\(드라마\).md "wikilink")》, 《[블러바드](../Page/블러바드_\(영화\).md "wikilink")》가 있다.\[1\]
 
-토머스는 2015년 1월 다발성 [골수암](https://ko.wikipedia.org/wiki/골수암 "wikilink")(Multiple Myeloma) 진단을 받은 뒤 병상에 누운 후, 그해 [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") 향년 51세의 나이로 사망하였다. 그녀의 옆에는 20여년간의 동반자 콜렛 디바인(Colette Divine)이 함께했다.\[2\]
+토머스는 2015년 1월 다발성 [골수암](https://ko.wikipedia.org/wiki/골수암 "wikilink")(Multiple Myeloma) 진단을 받은 뒤 병상에 누운 후, 그해 [3월 26일](../Page/3월_26일.md "wikilink") 향년 51세의 나이로 사망하였다. 그녀의 옆에는 20여년간의 동반자 콜렛 디바인(Colette Divine)이 함께했다.\[2\]
 
 ## 각주
 

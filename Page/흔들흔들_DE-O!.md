@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [ DE-O!](https://ko.wikipedia.org/wiki/_DE-O!).
 
 
-〈**흔들흔들 DE-O\!**〉()는 《[크레용 신짱](https://ko.wikipedia.org/wiki/짱구는_못말려_\(애니메이션\) "wikilink")》(짱구는 못말려)의 주인공, [노하라 신노스케](https://ko.wikipedia.org/wiki/노하라_신노스케 "wikilink")(신짱구)(CD 자켓의 표기는 ‘노하라 신노스케’. 성우: [야지마 아키코](https://ko.wikipedia.org/wiki/야지마_아키코 "wikilink"))의 싱글이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [1월 19일에](https://ko.wikipedia.org/wiki/1월_19일 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 [컬럼비아 뮤직 엔터테인먼트에서](../Page/일본_컬럼비아.md "wikilink") 발매됐다.
+〈**흔들흔들 DE-O\!**〉()는 《[크레용 신짱](../Page/짱구는_못말려_\(애니메이션\).md "wikilink")》(짱구는 못말려)의 주인공, [노하라 신노스케](../Page/노하라_신노스케.md "wikilink")(신짱구)(CD 자켓의 표기는 ‘노하라 신노스케’. 성우: [야지마 아키코](../Page/야지마_아키코.md "wikilink"))의 싱글이다. [2005년](../Page/2005년.md "wikilink") [1월 19일에](../Page/1월_19일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 [컬럼비아 뮤직 엔터테인먼트에서](../Page/일본_컬럼비아.md "wikilink") 발매됐다.
 
 ## 개요
 
-《[크레용 신짱](https://ko.wikipedia.org/wiki/짱구는_못말려_\(애니메이션\) "wikilink")》의 9번째 [오프닝 테마이다](https://ko.wikipedia.org/wiki/주제가 "wikilink"). [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 22일부터](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") 2009년 10월 16일 방송분까지 사용됐다. 역대 오프닝 테마 중에서는 약 5년이라는 오랜 기간 사용된 곡이다. 노래를 부르는 사람은 당시에는 [노하라 신노스케](https://ko.wikipedia.org/wiki/노하라_신노스케 "wikilink")(신짱구) 1명 뿐이였지만, 후에 《[크레용 신짱 폭풍을 부르는 노래하는 엉덩이 폭탄\!](https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_태풍을_부르는_노래하는_엉덩이_폭탄! "wikilink")》(짱구는 못말려: 태풍을 부르는 노래하는 엉덩이 폭탄\!)의 개봉에 따라서, [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink")의 멤버가 ‘크레용 프렌드’로 등장하며, 그것에 맞춘 가사와 [애니메이션으로](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 제작됐다. 그 후, 2007년 6월 22일 방송분만, 부르는 사람은 바뀌지 않았지만, 가사와 애니메이션은 원래대로 되돌려졌다(음반 《[크레용 신짱 TV · 영화 주제가집이라고](https://ko.wikipedia.org/wiki/크레용_신짱_TV_·_영화_주제가집이라고 "wikilink")》에 수록). 2007년 7월 6일 방송분부터는, 이전의 형태로 신노스케 1명의 버전으로 돌아갔다.
+《[크레용 신짱](../Page/짱구는_못말려_\(애니메이션\).md "wikilink")》의 9번째 [오프닝 테마이다](https://ko.wikipedia.org/wiki/주제가 "wikilink"). [2004년](../Page/2004년.md "wikilink") [10월 22일부터](../Page/10월_22일.md "wikilink") 2009년 10월 16일 방송분까지 사용됐다. 역대 오프닝 테마 중에서는 약 5년이라는 오랜 기간 사용된 곡이다. 노래를 부르는 사람은 당시에는 [노하라 신노스케](../Page/노하라_신노스케.md "wikilink")(신짱구) 1명 뿐이였지만, 후에 《[크레용 신짱 폭풍을 부르는 노래하는 엉덩이 폭탄\!](../Page/짱구는_못말려_극장판:_태풍을_부르는_노래하는_엉덩이_폭탄!.md "wikilink")》(짱구는 못말려: 태풍을 부르는 노래하는 엉덩이 폭탄\!)의 개봉에 따라서, [AKB48](../Page/AKB48.md "wikilink")의 멤버가 ‘크레용 프렌드’로 등장하며, 그것에 맞춘 가사와 [애니메이션으로](../Page/일본의_애니메이션.md "wikilink") 제작됐다. 그 후, 2007년 6월 22일 방송분만, 부르는 사람은 바뀌지 않았지만, 가사와 애니메이션은 원래대로 되돌려졌다(음반 《[크레용 신짱 TV · 영화 주제가집이라고](https://ko.wikipedia.org/wiki/크레용_신짱_TV_·_영화_주제가집이라고 "wikilink")》에 수록). 2007년 7월 6일 방송분부터는, 이전의 형태로 신노스케 1명의 버전으로 돌아갔다.
 
-오리지널 버전의 애니메이션은 [바다](https://ko.wikipedia.org/wiki/바다 "wikilink") 위를 통나무로 표류하고 힜는 신노스케가 노래의 시작과 함께 올라가서 춤추며, 같은 바다 위에서 신노스케 이외의 래릭터가 통나무나 보트를 노로 젓고 있다는 내용이다. 마지막으로 신노스케가 거대한 [인어](https://ko.wikipedia.org/wiki/인어 "wikilink")로 변장한 나나코 (이슬이) 누나에게 맞닥뜨려서 곡이 끝난다. 덧붙여서, CD판의 마지막 대사는 “아항”()이지만, TV 사이즈에서는 그 후 두번째 대사 “이게 결국 어려워\~”()가 추가된다.
+오리지널 버전의 애니메이션은 [바다](../Page/바다.md "wikilink") 위를 통나무로 표류하고 힜는 신노스케가 노래의 시작과 함께 올라가서 춤추며, 같은 바다 위에서 신노스케 이외의 래릭터가 통나무나 보트를 노로 젓고 있다는 내용이다. 마지막으로 신노스케가 거대한 [인어](../Page/인어.md "wikilink")로 변장한 나나코 (이슬이) 누나에게 맞닥뜨려서 곡이 끝난다. 덧붙여서, CD판의 마지막 대사는 “아항”()이지만, TV 사이즈에서는 그 후 두번째 대사 “이게 결국 어려워\~”()가 추가된다.
 
-영화의 오프닝으로는 오리지널 버전이 《[전설을 부르는 부리부리 딱 3분 뿐인 대진격](https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_부리부리_3분_대작전 "wikilink")》(부리부리 3분 대작전) 《[전설을 부르는 춤을 춰라, 아미고\!](https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_전설을_부르는_춤을_춰라,_아미고! "wikilink")》《[엄청난 폭풍을 부르는 금창의 용사](https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_엄청난_태풍을_부르는_금창의_용사 "wikilink")》(엄청난 태풍을 부르는 금창의 용사) 《[포효하라\! 카스카베 야생왕국](https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_포효하라!_떡잎_야생왕국 "wikilink")》(포효하라\! 떡잎 야생왕국)에서 사용됐다. 또, 위에서 표기한 대로 AKB48와의 듀엣 버전이 《[크레용 신짱 폭풍을 부르는 노래하는 엉덩이 폭탄\!](https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_태풍을_부르는_노래하는_엉덩이_폭탄! "wikilink")》에서 사용됐다.
+영화의 오프닝으로는 오리지널 버전이 《[전설을 부르는 부리부리 딱 3분 뿐인 대진격](../Page/짱구는_못말려_극장판:_부리부리_3분_대작전.md "wikilink")》(부리부리 3분 대작전) 《[전설을 부르는 춤을 춰라, 아미고\!](../Page/짱구는_못말려_극장판:_전설을_부르는_춤을_춰라,_아미고!.md "wikilink")》《[엄청난 폭풍을 부르는 금창의 용사](../Page/짱구는_못말려_극장판:_엄청난_태풍을_부르는_금창의_용사.md "wikilink")》(엄청난 태풍을 부르는 금창의 용사) 《[포효하라\! 카스카베 야생왕국](../Page/짱구는_못말려_극장판:_포효하라!_떡잎_야생왕국.md "wikilink")》(포효하라\! 떡잎 야생왕국)에서 사용됐다. 또, 위에서 표기한 대로 AKB48와의 듀엣 버전이 《[크레용 신짱 폭풍을 부르는 노래하는 엉덩이 폭탄\!](../Page/짱구는_못말려_극장판:_태풍을_부르는_노래하는_엉덩이_폭탄!.md "wikilink")》에서 사용됐다.
 
-한국어 더빙판에서는 짱구는 못말려 10\~14기, 재더빙 7기 오프닝으로〈흔들흔들 에\~오〉라는 제목으로 [신짱구](https://ko.wikipedia.org/wiki/신짱구 "wikilink") 목소리를 맡고 있는 [박영남](https://ko.wikipedia.org/wiki/박영남 "wikilink")이 불렀으며, 코러스는 선호제, 김국진, 소정환, 강호철이 불렀다. 그러나 음원화되지는 않았다.
+한국어 더빙판에서는 짱구는 못말려 10\~14기, 재더빙 7기 오프닝으로〈흔들흔들 에\~오〉라는 제목으로 [신짱구](https://ko.wikipedia.org/wiki/신짱구 "wikilink") 목소리를 맡고 있는 [박영남](../Page/박영남.md "wikilink")이 불렀으며, 코러스는 선호제, 김국진, 소정환, 강호철이 불렀다. 그러나 음원화되지는 않았다.
 
 ## 수록곡
 
 1.  **흔들흔들 DE-O\!** ()
-      - 작사: [무토 유지](https://ko.wikipedia.org/wiki/무토_유지 "wikilink"), 작곡 · 편곡: 나카무라 야스나리, 노래: [노하라 신노스케](https://ko.wikipedia.org/wiki/노하라_신노스케 "wikilink")(성우: [야지마 아키코](https://ko.wikipedia.org/wiki/야지마_아키코 "wikilink")）
+      - 작사: [무토 유지](https://ko.wikipedia.org/wiki/무토_유지 "wikilink"), 작곡 · 편곡: 나카무라 야스나리, 노래: [노하라 신노스케](../Page/노하라_신노스케.md "wikilink")(성우: [야지마 아키코](../Page/야지마_아키코.md "wikilink")）
 2.  **화내고 혼내고 다이어트** ()
       - 작사: 사이토 도리, 작곡: 오가와 신지, 노래: [이노우에 노조미](https://ko.wikipedia.org/wiki/이노우에_노조미 "wikilink") with Dee Jay dory
 3.  **흔들흔들 DE-O\!** (카라오케)

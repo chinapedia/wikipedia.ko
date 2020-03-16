@@ -13,7 +13,7 @@
 
   - [동전주](../Page/동전주.md "wikilink")
   - [동전주 테마](https://ko.wikipedia.org/wiki/테마주#동전주_테마 "wikilink")
-  - [테마주](https://ko.wikipedia.org/wiki/테마주 "wikilink")
+  - [테마주](../Page/테마주.md "wikilink")
   - [제미니투자](https://ko.wikipedia.org/wiki/제미니투자 "wikilink")
   - [우리기술투자](https://ko.wikipedia.org/wiki/우리기술투자 "wikilink")
   - [에이티넘인베스트먼트](https://ko.wikipedia.org/wiki/에이티넘인베스트먼트 "wikilink")

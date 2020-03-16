@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [Kbc \(DMB\)](https://ko.wikipedia.org/wiki/Kbc_\(DMB\)).
 
 
-**kbc**는 광주·전남·전북을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 30일에](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 개국하였다. [kbc광주방송이](https://ko.wikipedia.org/wiki/광주방송 "wikilink") 사업자이며, [JTV전주방송과](https://ko.wikipedia.org/wiki/전주방송 "wikilink") 공동으로 운영하고 있다. 현재 비디오채널 2개와 데이터채널 2개를 송출중이다.
+**kbc**는 광주·전남·전북을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") [6월 30일에](../Page/6월_30일.md "wikilink") 개국하였다. [kbc광주방송이](../Page/광주방송.md "wikilink") 사업자이며, [JTV전주방송과](../Page/전주방송.md "wikilink") 공동으로 운영하고 있다. 현재 비디오채널 2개와 데이터채널 2개를 송출중이다.
 
 ## 연혁
 
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") : 지상파DMB방송국 **kbc** 개국 (무등산송신소)
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월 27일](https://ko.wikipedia.org/wiki/8월_27일 "wikilink") : 모악산중계소 개국
+  - [2008년](../Page/2008년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") : 지상파DMB방송국 **kbc** 개국 (무등산송신소)
+  - [2008년](../Page/2008년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") : 모악산중계소 개국
 
 ## 채널 구성
 
@@ -77,15 +77,15 @@
 
 ## 관련 보기
 
-  - [디지털 멀티미디어 방송](https://ko.wikipedia.org/wiki/디지털_멀티미디어_방송 "wikilink")
+  - [디지털 멀티미디어 방송](../Page/디지털_멀티미디어_방송.md "wikilink")
   - [SBS u](https://ko.wikipedia.org/wiki/SBS_u "wikilink")
-  - [YTN DMB](https://ko.wikipedia.org/wiki/YTN_DMB "wikilink")
-  - [G1 DMB](https://ko.wikipedia.org/wiki/G1_DMB "wikilink")
-  - [TJB u](https://ko.wikipedia.org/wiki/TJB_u "wikilink")
-  - [U-KBS](https://ko.wikipedia.org/wiki/U-KBS "wikilink")
-  - [KNN DMB](https://ko.wikipedia.org/wiki/KNN_DMB "wikilink")
-  - [TBC DMB](https://ko.wikipedia.org/wiki/TBC_DMB "wikilink")
-  - [JIBS (DMB)](https://ko.wikipedia.org/wiki/JIBS_\(DMB\) "wikilink")
+  - [YTN DMB](../Page/YTN_DMB.md "wikilink")
+  - [G1 DMB](../Page/G1_DMB.md "wikilink")
+  - [TJB u](../Page/TJB_u.md "wikilink")
+  - [U-KBS](../Page/U-KBS.md "wikilink")
+  - [KNN DMB](../Page/KNN_DMB.md "wikilink")
+  - [TBC DMB](../Page/TBC_DMB.md "wikilink")
+  - [JIBS (DMB)](../Page/JIBS_\(DMB\).md "wikilink")
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ M.  ](https://ko.wikipedia.org/wiki/_M.__).
 
 
-**조지 M. 스타인브레너 필드**(George M. Steinbrenner Field)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [플로리다주](https://ko.wikipedia.org/wiki/플로리다주 "wikilink") [탬파](https://ko.wikipedia.org/wiki/탬파 "wikilink")에 위치한 야구장이다. [MLB](https://ko.wikipedia.org/wiki/메이저_리그_베이스볼 "wikilink") [뉴욕 양키스의](https://ko.wikipedia.org/wiki/뉴욕_양키스 "wikilink") 스프링 트레이닝 장소이다.
+**조지 M. 스타인브레너 필드**(George M. Steinbrenner Field)는 [미국](../Page/미국.md "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") [탬파](../Page/탬파.md "wikilink")에 위치한 야구장이다. [MLB](../Page/메이저_리그_베이스볼.md "wikilink") [뉴욕 양키스의](../Page/뉴욕_양키스.md "wikilink") 스프링 트레이닝 장소이다.
 
 ## 같이 보기
 

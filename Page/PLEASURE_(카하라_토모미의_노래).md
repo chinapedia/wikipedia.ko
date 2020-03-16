@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [PLEASURE \(  \)](https://ko.wikipedia.org/wiki/PLEASURE_\(__\)).
 
 
-〈**PLEASURE**〉(프레저)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [카하라 토모미의](https://ko.wikipedia.org/wiki/카하라_토모미 "wikilink") 22번째 싱글이다. 카하라 작품에서 유일한 [CCCD이다](https://ko.wikipedia.org/wiki/카피_컨트롤_CD "wikilink").
+〈**PLEASURE**〉(프레저)는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [카하라 토모미의](../Page/카하라_토모미.md "wikilink") 22번째 싱글이다. 카하라 작품에서 유일한 [CCCD이다](https://ko.wikipedia.org/wiki/카피_컨트롤_CD "wikilink").
 
 ## 해설
 
-  - 애니메이션 《[크레용 신짱](https://ko.wikipedia.org/wiki/짱구는_못말려_\(애니메이션\) "wikilink")》(짱구는 못말려)의 원작자인 [우스이 요시토에](https://ko.wikipedia.org/wiki/우스이_요시토 "wikilink") 의한, 오리지널 일러스트 자켓이며, 서로 팬이였기 때문에 [노하라 신노스케](https://ko.wikipedia.org/wiki/노하라_신노스케 "wikilink")(신짱구)와 카하라의 컬래버레이션이 실현되고 있다. 그 때, 카하라는 [단행본](https://ko.wikipedia.org/wiki/짱구는_못말려 "wikilink") 36권에 등장하는 토모미(통칭: 토모미짱)에 비슷하게 그려져있다. 화면은 노하라 가의 하루의 일상을 표현하고 있다.
+  - 애니메이션 《[크레용 신짱](../Page/짱구는_못말려_\(애니메이션\).md "wikilink")》(짱구는 못말려)의 원작자인 [우스이 요시토에](../Page/우스이_요시토.md "wikilink") 의한, 오리지널 일러스트 자켓이며, 서로 팬이였기 때문에 [노하라 신노스케](../Page/노하라_신노스케.md "wikilink")(신짱구)와 카하라의 컬래버레이션이 실현되고 있다. 그 때, 카하라는 [단행본](../Page/짱구는_못말려.md "wikilink") 36권에 등장하는 토모미(통칭: 토모미짱)에 비슷하게 그려져있다. 화면은 노하라 가의 하루의 일상을 표현하고 있다.
   - M-2 〈미래색의 별빛들〉() (작사 · 작곡: Yori)는 [일본 작곡가 협회](https://ko.wikipedia.org/wiki/일본_작곡가_협회 "wikilink") 주최 ‘새로운 일본의 노래 페스티벌’그랑프리 8작품 중에 크리스탈 뮤직상을 수상한 노래이기도 하다.
-  - 처음에는 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 가을에 발매 예정이 4개월 정도 연기된 후에, 프로모션 활동은 발매로 부터 2\~3개월 후에 행해졌기 때문에 매상은 단독명의로는 과거 최저가 돼버렸다.
-  - [워너 뮤직 재팬](https://ko.wikipedia.org/wiki/워너_뮤직_재팬 "wikilink") 재적시의 마지막 작품이다.
+  - 처음에는 [2002년](../Page/2002년.md "wikilink") 가을에 발매 예정이 4개월 정도 연기된 후에, 프로모션 활동은 발매로 부터 2\~3개월 후에 행해졌기 때문에 매상은 단독명의로는 과거 최저가 돼버렸다.
+  - [워너 뮤직 재팬](../Page/워너_뮤직_재팬.md "wikilink") 재적시의 마지막 작품이다.
 
 ## 수록곡
 
@@ -25,8 +25,8 @@
 
 <!-- end list -->
 
-  - [TV 아사히계](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 애니메이션 《[크레용 신짱](https://ko.wikipedia.org/wiki/짱구는_못말려_\(애니메이션\) "wikilink")》(짱구는 못말려) 오프닝 테마
-  - [도호](https://ko.wikipedia.org/wiki/도호 "wikilink") 배급 애니메이션 영화 《[크레용 신짱 폭풍을 부르는 영광의 불고기 로드](https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_태풍을_부르는_영광의_불고기_로드 "wikilink")(짱구는 못말려: 태풍을 부르는 영광의 불고기 로드) 오프닝 테마
+  - [TV 아사히계](../Page/TV_아사히.md "wikilink") 애니메이션 《[크레용 신짱](../Page/짱구는_못말려_\(애니메이션\).md "wikilink")》(짱구는 못말려) 오프닝 테마
+  - [도호](../Page/도호.md "wikilink") 배급 애니메이션 영화 《[크레용 신짱 폭풍을 부르는 영광의 불고기 로드](../Page/짱구는_못말려_극장판:_태풍을_부르는_영광의_불고기_로드.md "wikilink")(짱구는 못말려: 태풍을 부르는 영광의 불고기 로드) 오프닝 테마
 
 <!-- end list -->
 

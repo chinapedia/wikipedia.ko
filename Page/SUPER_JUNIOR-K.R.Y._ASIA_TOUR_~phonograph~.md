@@ -5,7 +5,7 @@
 
 ## 개요
 
-슈퍼주니어-K.R.Y는 2015년 7월 11일부터 12일 양일간 열린 〈[SUPER SHOW 6](../Page/SUPER_SHOW_6.md "wikilink")〉 서울 앙코르 공연에서 슈퍼주니어-K.R.Y의 국내 앨범 발표 계획 및 단독 콘서트 계획을 알렸고 5일 뒤인 7월 17일, 공식 홈페이지를 통해 공연 일정을 공개하였다. 예매는 7월 22일, [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 진행되었다.
+슈퍼주니어-K.R.Y는 2015년 7월 11일부터 12일 양일간 열린 〈[SUPER SHOW 6](../Page/SUPER_SHOW_6.md "wikilink")〉 서울 앙코르 공연에서 슈퍼주니어-K.R.Y의 국내 앨범 발표 계획 및 단독 콘서트 계획을 알렸고 5일 뒤인 7월 17일, 공식 홈페이지를 통해 공연 일정을 공개하였다. 예매는 7월 22일, [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다.
 
 ## SUPER JUNIOR-K.R.Y. JAPAN TOUR 2015 \~phonograph\~
 
@@ -52,7 +52,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 12월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>썬더 돔</p></td>
 <td><p>통산 10,000명</p></td>
@@ -80,7 +80,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016년 1월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자카르타" title="wikilink">자카르타</a></p></td>
+<td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
 <td><p>자카르타 컨벤션 센터[4]</p></td>
 <td><p>12,000명</p></td>
@@ -99,11 +99,11 @@
 
 ## 게스트
 
-| 일정           | 게스트                                                                                                   |
-| ------------ | ----------------------------------------------------------------------------------------------------- |
-| 2015년 8월 23일 | [은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink"), [시원](https://ko.wikipedia.org/wiki/최시원 "wikilink") |
-| 2016년 1월 3일  | [이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink")                                              |
-|              |                                                                                                       |
+| 일정           | 게스트                                                                                |
+| ------------ | ---------------------------------------------------------------------------------- |
+| 2015년 8월 23일 | [은혁](../Page/은혁.md "wikilink"), [시원](https://ko.wikipedia.org/wiki/최시원 "wikilink") |
+| 2016년 1월 3일  | [이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink")                           |
+|              |                                                                                    |
 
 ## 관련 디스코그래피
 
@@ -125,7 +125,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>SUPER JUNIOR-K.R.Y. Asia Tour 《PHONOGRAPH》 In Seoul DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/9월_23일" title="wikilink">9월 23일</a></li>
+<li>발매일 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/9월_23일.md" title="wikilink">9월 23일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -133,10 +133,10 @@
 
 ## 제작
 
-  - [슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink") ([예성](https://ko.wikipedia.org/wiki/예성 "wikilink"), [려욱](https://ko.wikipedia.org/wiki/려욱 "wikilink"), [규현](https://ko.wikipedia.org/wiki/규현 "wikilink"))
+  - [슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink") ([예성](../Page/예성.md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
 
 ## 외부 링크
 

@@ -68,7 +68,7 @@
   - 모에 부문
       - 최우수상 : *아스카2* (, 아스카, 무구)
   - 옴니버스 부문
-      - 최우수상 : *시미켄의 7명의 여자와 사적인 섹스* (, [하라 치히로](https://ko.wikipedia.org/wiki/하라_치히로 "wikilink") / [아이다 유아](https://ko.wikipedia.org/wiki/아이다_유아 "wikilink") / [사쿠라가와 미츠키](https://ko.wikipedia.org/wiki/사쿠라가와_미츠키 "wikilink") / [네네](https://ko.wikipedia.org/wiki/네네_\(AV_배우\) "wikilink") / [아키나 카에데](https://ko.wikipedia.org/wiki/아키나_카에데 "wikilink") / [스기사키 나츠키](https://ko.wikipedia.org/wiki/스기사키_나츠키 "wikilink") / [Marin](https://ko.wikipedia.org/wiki/Marin_\(AV_배우\) "wikilink"), 아이디어 포켓)
+      - 최우수상 : *시미켄의 7명의 여자와 사적인 섹스* (, [하라 치히로](https://ko.wikipedia.org/wiki/하라_치히로 "wikilink") / [아이다 유아](../Page/아이다_유아.md "wikilink") / [사쿠라가와 미츠키](https://ko.wikipedia.org/wiki/사쿠라가와_미츠키 "wikilink") / [네네](https://ko.wikipedia.org/wiki/네네_\(AV_배우\) "wikilink") / [아키나 카에데](https://ko.wikipedia.org/wiki/아키나_카에데 "wikilink") / [스기사키 나츠키](https://ko.wikipedia.org/wiki/스기사키_나츠키 "wikilink") / [Marin](https://ko.wikipedia.org/wiki/Marin_\(AV_배우\) "wikilink"), 아이디어 포켓)
   - 레즈비언 부문
       - 최우수상 : *능욕 레즈비언 조교* (, [쇼다 치사토](https://ko.wikipedia.org/wiki/쇼다_치사토 "wikilink") / [히토미 렌](https://ko.wikipedia.org/wiki/히토미_렌 "wikilink") / [나카야마 리오](https://ko.wikipedia.org/wiki/나카야마_리오 "wikilink") / [아조 미사키](https://ko.wikipedia.org/wiki/아조_미사키 "wikilink"), U\&K)
 
@@ -89,7 +89,7 @@
 
 #### 대상
 
-  - AV 그랑프리 최우수작품상 : *더블 아슬아슬 모자이크 Rio와 유마* (, [Rio](../Page/Rio.md "wikilink") / [아사미 유마](https://ko.wikipedia.org/wiki/아사미_유마 "wikilink"), S1 No.1 Style)
+  - AV 그랑프리 최우수작품상 : *더블 아슬아슬 모자이크 Rio와 유마* (, [Rio](../Page/Rio.md "wikilink") / [아사미 유마](../Page/아사미_유마.md "wikilink"), S1 No.1 Style)
 
 #### 매출 부문상
 
@@ -104,7 +104,7 @@
 #### 부문상
 
   - SM · 능욕 부문
-      - 최우수상 : *THE QUEEN OF DAS\!* (, [오자와 마리아](https://ko.wikipedia.org/wiki/오자와_마리아 "wikilink"), 다스)
+      - 최우수상 : *THE QUEEN OF DAS\!* (, [오자와 마리아](../Page/오자와_마리아.md "wikilink"), 다스)
       - 우수상
         1.  *격정 M 음란포박조교* (, 아트 비디오)
         2.  *전동 마사지기 퇴마의식* (, ZONE (켄신 아트))

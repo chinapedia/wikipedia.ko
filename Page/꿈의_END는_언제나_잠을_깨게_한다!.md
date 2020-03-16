@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ END    !](https://ko.wikipedia.org/wiki/_END____!).
 
 
-〈**꿈의 END는 언제나 잠을 깨게 한다\!**〉()는 [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")(헤이세이 4년) [11월 26일에](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") 발매된 [B.B.퀸즈](https://ko.wikipedia.org/wiki/B.B.퀸즈 "wikilink")의 6번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**꿈의 END는 언제나 잠을 깨게 한다\!**〉()는 [1992년](../Page/1992년.md "wikilink")(헤이세이 4년) [11월 26일에](../Page/11월_26일.md "wikilink") 발매된 [B.B.퀸즈](https://ko.wikipedia.org/wiki/B.B.퀸즈 "wikilink")의 6번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 해설
 
-전작보다 약 11개월 만의 싱글. [애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[크레용 신짱](https://ko.wikipedia.org/wiki/짱구는_못말려_\(애니메이션\) "wikilink")》의 2번째 오프닝 테마이다.
+전작보다 약 11개월 만의 싱글. [애니메이션](../Page/일본의_애니메이션.md "wikilink") 《[크레용 신짱](../Page/짱구는_못말려_\(애니메이션\).md "wikilink")》의 2번째 오프닝 테마이다.
 
 커플링곡의 〈네게는 사랑이 넘치고 있어〉()는 음반 미수록. 카세트 테이프 판에만 오리지널 카라오케가 수록되어있다.
 
@@ -19,7 +19,7 @@
       - 작사 · 작곡: [카츠 세이지](https://ko.wikipedia.org/wiki/카츠_세이지 "wikilink"), 편곡: 하야마 타케시
 3.  꿈의 END는 언제나 잠을 깨게 한다\! (오리지널 카라오케)
 
-**[카세트 테이프](https://ko.wikipedia.org/wiki/콤팩트_카세트 "wikilink")**
+**[카세트 테이프](../Page/콤팩트_카세트.md "wikilink")**
 
   - A면
 

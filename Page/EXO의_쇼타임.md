@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [EXO ](https://ko.wikipedia.org/wiki/EXO_).
 
 
-《**EXO의 쇼타임**》은 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 28일부터](https://ko.wikipedia.org/wiki/11월_28일 "wikilink") 2014년 [2월 13일까지](https://ko.wikipedia.org/wiki/2월_13일 "wikilink") [MBC every1에서](https://ko.wikipedia.org/wiki/MBC_every1 "wikilink") 방송된 리얼 버라이어티 프로그램이다.
+《**EXO의 쇼타임**》은 [2013년](../Page/2013년.md "wikilink") [11월 28일부터](../Page/11월_28일.md "wikilink") 2014년 [2월 13일까지](../Page/2월_13일.md "wikilink") [MBC every1에서](https://ko.wikipedia.org/wiki/MBC_every1 "wikilink") 방송된 리얼 버라이어티 프로그램이다.
 
 ## 소개
 
-  - [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")에 대한 시청자들의 궁금증을 바탕으로 만들어가는 프로그램
+  - [EXO](../Page/EXO.md "wikilink")에 대한 시청자들의 궁금증을 바탕으로 만들어가는 프로그램
 
 ## 출연
 
@@ -13,7 +13,7 @@
   - [백현](https://ko.wikipedia.org/wiki/백현 "wikilink")
   - [디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink")
   - [레이](../Page/레이_\(가수\).md "wikilink")
-  - [카이](https://ko.wikipedia.org/wiki/카이 "wikilink")
+  - [카이](../Page/카이.md "wikilink")
   - [세훈](../Page/세훈.md "wikilink")
   - [시우민](../Page/시우민.md "wikilink")
   - [찬열](../Page/찬열.md "wikilink")

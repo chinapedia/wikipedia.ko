@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [J.  ](https://ko.wikipedia.org/wiki/J.__).
 
 
-*' 조셉 "라이트닝 조" 로턴 콜린스*' (Joseph "Lightning Joe" Lawton Collins, 1896년 5월 1일 – 1987년 9월 12일)는 [한국 전쟁](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 당시 [미국의 육군 참모총장이며](https://ko.wikipedia.org/wiki/미국의_육군_참모총장 "wikilink"), [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 당시에는 육군 장교로 [태평양 전쟁과](https://ko.wikipedia.org/wiki/태평양_전쟁 "wikilink") [유럽 전구에서](../Page/유럽_전구_\(제2차_세계_대전\).md "wikilink") 전투한 전력이 있다.\[1\] 그의 형인 제임스 로턴 콜린스 또한 미국의 장교였으며, 그의 사촌 마이클 콜린스는 1969년 [아폴로 11호](https://ko.wikipedia.org/wiki/아폴로_11호 "wikilink") 임무에서 모듈을 비행한 사령관이기도 했다.
+*' 조셉 "라이트닝 조" 로턴 콜린스*' (Joseph "Lightning Joe" Lawton Collins, 1896년 5월 1일 – 1987년 9월 12일)는 [한국 전쟁](../Page/한국_전쟁.md "wikilink") 당시 [미국의 육군 참모총장이며](https://ko.wikipedia.org/wiki/미국의_육군_참모총장 "wikilink"), [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시에는 육군 장교로 [태평양 전쟁과](../Page/태평양_전쟁.md "wikilink") [유럽 전구에서](../Page/유럽_전구_\(제2차_세계_대전\).md "wikilink") 전투한 전력이 있다.\[1\] 그의 형인 제임스 로턴 콜린스 또한 미국의 장교였으며, 그의 사촌 마이클 콜린스는 1969년 [아폴로 11호](../Page/아폴로_11호.md "wikilink") 임무에서 모듈을 비행한 사령관이기도 했다.
 
 ## 초기 경력
 
-콜린스는 [뉴올리언스](https://ko.wikipedia.org/wiki/뉴올리언스 "wikilink")의 [아일랜드 가톨릭을](https://ko.wikipedia.org/wiki/아일랜드_가톨릭 "wikilink") 믿는 가족에게서 태어났다. 그는 [미국 육군사관학교를](https://ko.wikipedia.org/wiki/미국_육군사관학교 "wikilink") 1917년 졸업했으며, [소위](https://ko.wikipedia.org/wiki/소위 "wikilink")에 임명되어 [제22보병사단에](https://ko.wikipedia.org/wiki/제22보병사단_\(미국\) "wikilink") 배치되었다. 이후 동년 5월에는 [중위](https://ko.wikipedia.org/wiki/중위 "wikilink")로, 8월에는 [대위](https://ko.wikipedia.org/wiki/대위 "wikilink")로 승진했다. 그는 [암스 보병학교에](https://ko.wikipedia.org/wiki/암스_보병학교 "wikilink") 입학하여 그의 다양한 직무를 1917년부터 1919년까지 수행했다. 1918년 9월에 일시적으로 [소령](https://ko.wikipedia.org/wiki/소령 "wikilink")으로 진급하여 제3군단의 제22보병사단을 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink")에서 지휘했다. 1920년부터 1921년까지 독일 주둔 미군에 있으면서 그는 [바이마르 공화국에](https://ko.wikipedia.org/wiki/바이마르_공화국 "wikilink") 주둔하였다.\[2\]
+콜린스는 [뉴올리언스](../Page/뉴올리언스.md "wikilink")의 [아일랜드 가톨릭을](https://ko.wikipedia.org/wiki/아일랜드_가톨릭 "wikilink") 믿는 가족에게서 태어났다. 그는 [미국 육군사관학교를](https://ko.wikipedia.org/wiki/미국_육군사관학교 "wikilink") 1917년 졸업했으며, [소위](https://ko.wikipedia.org/wiki/소위 "wikilink")에 임명되어 [제22보병사단에](https://ko.wikipedia.org/wiki/제22보병사단_\(미국\) "wikilink") 배치되었다. 이후 동년 5월에는 [중위](https://ko.wikipedia.org/wiki/중위 "wikilink")로, 8월에는 [대위](https://ko.wikipedia.org/wiki/대위 "wikilink")로 승진했다. 그는 [암스 보병학교에](https://ko.wikipedia.org/wiki/암스_보병학교 "wikilink") 입학하여 그의 다양한 직무를 1917년부터 1919년까지 수행했다. 1918년 9월에 일시적으로 [소령](https://ko.wikipedia.org/wiki/소령 "wikilink")으로 진급하여 제3군단의 제22보병사단을 [프랑스](../Page/프랑스.md "wikilink")에서 지휘했다. 1920년부터 1921년까지 독일 주둔 미군에 있으면서 그는 [바이마르 공화국에](../Page/바이마르_공화국.md "wikilink") 주둔하였다.\[2\]
 
 ## 진급
 
-콜린스는 대위로 복귀한 후 글래디스 이스터브룩과 혼인하였다. 이후 그는 1921년부터 1925년까지 웨스트포인트 사관학교에서 [화학](https://ko.wikipedia.org/wiki/화학 "wikilink")을 전공했다. 이후 1926년 보병사관학교를 졸업했고, 1927년 야전포병학교에서 더 나은 코스를 밟았다. 이후 그는 1927년부터 1931년까지 보병학교에서 무기 및 전략에 관한 강사가 되었고, 1932년 8월에 소령으로 진급했으며 1933년부터 1934년까지는 [마닐라](https://ko.wikipedia.org/wiki/마닐라 "wikilink")에 주둔하며 미국 제23여단의 실무관이 되었다그는 보병산업대학과 미국 육군전쟁대학을 각각 1937년과 1938년에 졸업했으며, 1940년 6월에는 육군 중령이, 1941년에는 미국 제7군단의 참모총장이 되었다.
+콜린스는 대위로 복귀한 후 글래디스 이스터브룩과 혼인하였다. 이후 그는 1921년부터 1925년까지 웨스트포인트 사관학교에서 [화학](../Page/화학.md "wikilink")을 전공했다. 이후 1926년 보병사관학교를 졸업했고, 1927년 야전포병학교에서 더 나은 코스를 밟았다. 이후 그는 1927년부터 1931년까지 보병학교에서 무기 및 전략에 관한 강사가 되었고, 1932년 8월에 소령으로 진급했으며 1933년부터 1934년까지는 [마닐라](../Page/마닐라.md "wikilink")에 주둔하며 미국 제23여단의 실무관이 되었다그는 보병산업대학과 미국 육군전쟁대학을 각각 1937년과 1938년에 졸업했으며, 1940년 6월에는 육군 중령이, 1941년에는 미국 제7군단의 참모총장이 되었다.
 
 ## 제2차 대전
 
@@ -19,19 +19,19 @@
 
 ## 전후 시대
 
-그는 1945년 8월부터 12월까지 육군 지상 병력의 사령관이자 참모총장이었고, 1945년 말부터 1947년까지는 육군 정보합참의장이기도 했다. 이후 1947년부터 1949년까지 미국 육군의 참모총장이었다가, 후에 부참모총장이 된다. 1948년 1월에는 일시적으로 장군으로, 그리고 영구적으로 대령으로 승진한다. [섬네일](https://ko.wikipedia.org/wiki/파일:Walker_Church_Collins.jpg "wikilink"), [존 H. 처치와](https://ko.wikipedia.org/wiki/존_H._처치 "wikilink") [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")에 있는 콜린스\]\]
+그는 1945년 8월부터 12월까지 육군 지상 병력의 사령관이자 참모총장이었고, 1945년 말부터 1947년까지는 육군 정보합참의장이기도 했다. 이후 1947년부터 1949년까지 미국 육군의 참모총장이었다가, 후에 부참모총장이 된다. 1948년 1월에는 일시적으로 장군으로, 그리고 영구적으로 대령으로 승진한다. [섬네일](https://ko.wikipedia.org/wiki/파일:Walker_Church_Collins.jpg "wikilink"), [존 H. 처치와](../Page/존_H._처치.md "wikilink") [한국](../Page/한국.md "wikilink")에 있는 콜린스\]\]
 
 ## 육군 참모 총장
 
-콜린스는 1949년 8월 16일부터 1953년 8월 15일까지 미국의 육군 참모총장으로 있었으며 [한국 전쟁](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 당시에는 육군의 주요 장교로 남았다. 전쟁 기간에 그의 주요 목표는 적절히 훈련되고 무장된 병사들을 대한민국으로 보내는 것이었다. 그는 육군에게 첫 특수부대를 데리고 올 수 있는 철도 작전을 수행하라 지시했으며, 이것은 [북대서양 조약 기구에서](https://ko.wikipedia.org/wiki/북대서양_조약_기구 "wikilink") 그의 직무와 연관이 전혀 없는 것은 아니었다.
+콜린스는 1949년 8월 16일부터 1953년 8월 15일까지 미국의 육군 참모총장으로 있었으며 [한국 전쟁](../Page/한국_전쟁.md "wikilink") 당시에는 육군의 주요 장교로 남았다. 전쟁 기간에 그의 주요 목표는 적절히 훈련되고 무장된 병사들을 대한민국으로 보내는 것이었다. 그는 육군에게 첫 특수부대를 데리고 올 수 있는 철도 작전을 수행하라 지시했으며, 이것은 [북대서양 조약 기구에서](../Page/북대서양_조약_기구.md "wikilink") 그의 직무와 연관이 전혀 없는 것은 아니었다.
 
 ## 후기 경력
 
-콜린스 소장은 1953년부터 1954년까지 [북대서양 조약기구의](https://ko.wikipedia.org/wiki/북대서양_조약기구 "wikilink") 군사위원회 및 의회에서 미국을 대표하였고, 1954년부터 1955년까지는 [베트남](https://ko.wikipedia.org/wiki/베트남 "wikilink")에서 대사관 역할을 맡았다가 그의 나토 직위로 복귀한다. 1956년 3월, 그는 육군에서 퇴직한다.
+콜린스 소장은 1953년부터 1954년까지 [북대서양 조약기구의](https://ko.wikipedia.org/wiki/북대서양_조약기구 "wikilink") 군사위원회 및 의회에서 미국을 대표하였고, 1954년부터 1955년까지는 [베트남](../Page/베트남.md "wikilink")에서 대사관 역할을 맡았다가 그의 나토 직위로 복귀한다. 1956년 3월, 그는 육군에서 퇴직한다.
 
 ## 죽음
 
-콜린스는 [워싱턴 D.C.에서](https://ko.wikipedia.org/wiki/워싱턴_D.C. "wikilink") 1987년 9월 12일 사망했다. 그는 아를링턴 국립 묘지에 묻혔다.\[4\]
+콜린스는 [워싱턴 D.C.에서](../Page/워싱턴_D.C..md "wikilink") 1987년 9월 12일 사망했다. 그는 아를링턴 국립 묘지에 묻혔다.\[4\]
 
 ## 각주
 

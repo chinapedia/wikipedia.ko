@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  TOP ](https://ko.wikipedia.org/wiki/__TOP_).
 
 
-《**이은결 김원준의 TOP 매직**》은 2012년 [채널A](https://ko.wikipedia.org/wiki/채널A "wikilink")에서 방영한 대한민국의 예능 프로그램이다.
+《**이은결 김원준의 TOP 매직**》은 2012년 [채널A](../Page/채널A.md "wikilink")에서 방영한 대한민국의 예능 프로그램이다.
 
 ## 출연진
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - [이은결](https://ko.wikipedia.org/wiki/이은결 "wikilink"), [김원준](https://ko.wikipedia.org/wiki/김원준 "wikilink")
+  - [이은결](../Page/이은결.md "wikilink"), [김원준](../Page/김원준.md "wikilink")
 
 <!-- end list -->
 
