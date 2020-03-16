@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(GO\)](https://ko.wikipedia.org/wiki/__\(GO\)).
 
 
-**요크 유니버시티역** (York University Station) 은 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink")에 있는 [GO 트랜싯의](https://ko.wikipedia.org/wiki/GO_트랜싯 "wikilink") 통근 열차 노선인 [배리 선의](https://ko.wikipedia.org/wiki/배리_선 "wikilink") 정차역이다. 이 역은 [요크 대학교에서](https://ko.wikipedia.org/wiki/요크_대학교_\(캐나다\) "wikilink") 1.6km 가량 떨어져있는 공업지구에 위치해있으며 역에서 캠퍼스까지는 요크 대학교에서 운행하는 셔틀 버스가 운행한다.\[1\] 이 역은 평일에만 운행하며, 토론토 방면 열차는 아침 러시 아워에, 배리 방면은 오후 러시 아워에 운행한다. 나머지 시간대에는 [다운즈뷰파크역](../Page/다운즈뷰파크역.md "wikilink")에서 통근 열차를 이용할 수 있다.
+**요크 유니버시티역** (York University Station) 은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")에 있는 [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") 통근 열차 노선인 [배리 선의](https://ko.wikipedia.org/wiki/배리_선 "wikilink") 정차역이다. 이 역은 [요크 대학교에서](../Page/요크_대학교_\(캐나다\).md "wikilink") 1.6km 가량 떨어져있는 공업지구에 위치해있으며 역에서 캠퍼스까지는 요크 대학교에서 운행하는 셔틀 버스가 운행한다.\[1\] 이 역은 평일에만 운행하며, 토론토 방면 열차는 아침 러시 아워에, 배리 방면은 오후 러시 아워에 운행한다. 나머지 시간대에는 [다운즈뷰파크역](../Page/다운즈뷰파크역.md "wikilink")에서 통근 열차를 이용할 수 있다.
 
 ## 역사
 
@@ -15,11 +15,11 @@
 
 ## 운행 계통
 
-2018년 7월 기준, 평일 아침 러시 아워에 토론토 유니언역 방면 열차가 8대 정차하며 오후 러시 아워에는 [앨런데일 워터프론트](https://ko.wikipedia.org/wiki/앨런데일_워터프론트역 "wikilink") 방면 열차가 7대, [브래드퍼드](https://ko.wikipedia.org/wiki/브래드퍼드역_\(온타리오주\) "wikilink") 방면 열차가 1대 정차한다. 주말에는 열차가 정차하지 않는다.\[5\]
+2018년 7월 기준, 평일 아침 러시 아워에 토론토 유니언역 방면 열차가 8대 정차하며 오후 러시 아워에는 [앨런데일 워터프론트](../Page/앨런데일_워터프론트역.md "wikilink") 방면 열차가 7대, [브래드퍼드](../Page/브래드퍼드역_\(온타리오주\).md "wikilink") 방면 열차가 1대 정차한다. 주말에는 열차가 정차하지 않는다.\[5\]
 
 ## 버스 연결편
 
-이 역 앞에서 바로 이용할 수 있는 버스는 요크 대학교 셔틀 버스로, 요크 대학교 학생과 임직원들만 이용할 수 있다.\[6\] 한편 [토론토 교통국의](https://ko.wikipedia.org/wiki/토론토_교통국 "wikilink") 107번 세인트레지스 버스는 페트롤리아 로드에서 이용할 수 있다.
+이 역 앞에서 바로 이용할 수 있는 버스는 요크 대학교 셔틀 버스로, 요크 대학교 학생과 임직원들만 이용할 수 있다.\[6\] 한편 [토론토 교통국의](../Page/토론토_교통국.md "wikilink") 107번 세인트레지스 버스는 페트롤리아 로드에서 이용할 수 있다.
 
 | 노선  | 종점     | 경유지       | 비고                                           |
 | --- | ------ | --------- | -------------------------------------------- |

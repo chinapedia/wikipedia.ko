@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
 
 
-**정오의 희망곡 정유진입니다**는 [제주MBC FM4U](https://ko.wikipedia.org/wiki/제주문화방송 "wikilink")([제주시](https://ko.wikipedia.org/wiki/제주시 "wikilink") FM 90.1㎒, [서귀포시](https://ko.wikipedia.org/wiki/서귀포시 "wikilink") FM 102.9㎒)에서 매일 낮 12시부터 오후 2시까지 방송되는 [제주](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 전지역의 대중가요 전문 라디오 프로그램이다.
+**정오의 희망곡 정유진입니다**는 [제주MBC FM4U](../Page/제주문화방송.md "wikilink")([제주시](../Page/제주시.md "wikilink") FM 90.1㎒, [서귀포시](https://ko.wikipedia.org/wiki/서귀포시 "wikilink") FM 102.9㎒)에서 매일 낮 12시부터 오후 2시까지 방송되는 [제주](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 전지역의 대중가요 전문 라디오 프로그램이다.
 
 ## 코너소개
 
@@ -55,27 +55,27 @@
 
 ### FM방송 (제주MBC FM4U 포함)
 
-  - [최화정의 파워타임](https://ko.wikipedia.org/wiki/최화정의_파워타임 "wikilink") ([JIBS New Power FM](https://ko.wikipedia.org/wiki/제주국제자유도시방송 "wikilink"))
-  - [생생 클래식](https://ko.wikipedia.org/wiki/생생_클래식 "wikilink") ([KBS제주 음악FM](https://ko.wikipedia.org/wiki/KBS제주방송총국 "wikilink"))
+  - [최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink") ([JIBS New Power FM](../Page/제주국제자유도시방송.md "wikilink"))
+  - [생생 클래식](https://ko.wikipedia.org/wiki/생생_클래식 "wikilink") ([KBS제주 음악FM](../Page/KBS제주방송총국.md "wikilink"))
   - [BBS 정오종합뉴스](https://ko.wikipedia.org/wiki/BBS_정오종합뉴스 "wikilink") (평일) ([BBS 제주불교방송](../Page/제주불교방송.md "wikilink"))
   - 한낮의 휴식, 장수연입니다 ([BBS 제주불교방송](../Page/제주불교방송.md "wikilink"))
   - [TBN 차차차](https://ko.wikipedia.org/wiki/TBN_차차차_\(제주\) "wikilink") ([TBN 제주교통방송](https://ko.wikipedia.org/wiki/제주교통방송 "wikilink"))
 
 ### AM방송
 
-  - [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") ([KBS제주 제1라디오](https://ko.wikipedia.org/wiki/KBS제주방송총국 "wikilink"))
-  - [오태훈의 시사본부](../Page/시사본부.md "wikilink") (평일) ([KBS제주 제1라디오](https://ko.wikipedia.org/wiki/KBS제주방송총국 "wikilink"))
-  - [서기철의 시사본부](../Page/시사본부.md "wikilink") (주말) ([KBS제주 제1라디오](https://ko.wikipedia.org/wiki/KBS제주방송총국 "wikilink"))
-  - [정은지의 가요광장](https://ko.wikipedia.org/wiki/가요광장 "wikilink") ([KBS제주 해피FM](https://ko.wikipedia.org/wiki/KBS제주방송총국 "wikilink"))
-  - [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink") ([제주MBC 표준FM](https://ko.wikipedia.org/wiki/제주문화방송 "wikilink"))
-  - [강석, 김혜영의 싱글벙글쇼](https://ko.wikipedia.org/wiki/싱글벙글쇼 "wikilink") ([제주MBC 표준FM](https://ko.wikipedia.org/wiki/제주문화방송 "wikilink"))
+  - [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") ([KBS제주 제1라디오](../Page/KBS제주방송총국.md "wikilink"))
+  - [오태훈의 시사본부](../Page/시사본부.md "wikilink") (평일) ([KBS제주 제1라디오](../Page/KBS제주방송총국.md "wikilink"))
+  - [서기철의 시사본부](../Page/시사본부.md "wikilink") (주말) ([KBS제주 제1라디오](../Page/KBS제주방송총국.md "wikilink"))
+  - [정은지의 가요광장](../Page/가요광장.md "wikilink") ([KBS제주 해피FM](../Page/KBS제주방송총국.md "wikilink"))
+  - [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink") ([제주MBC 표준FM](../Page/제주문화방송.md "wikilink"))
+  - [강석, 김혜영의 싱글벙글쇼](https://ko.wikipedia.org/wiki/싱글벙글쇼 "wikilink") ([제주MBC 표준FM](../Page/제주문화방송.md "wikilink"))
   - 찬양이 있는 숲길 ([제주CBS 표준FM](../Page/기독교제주방송.md "wikilink"))
 
 ## 같이 보기
 
-  - [제주문화방송](https://ko.wikipedia.org/wiki/제주문화방송 "wikilink")
-  - [MBC FM4U](https://ko.wikipedia.org/wiki/MBC_FM4U "wikilink")
-  - [정오의 희망곡 김신영입니다](https://ko.wikipedia.org/wiki/정오의_희망곡 "wikilink")
+  - [제주문화방송](../Page/제주문화방송.md "wikilink")
+  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
+  - [정오의 희망곡 김신영입니다](../Page/정오의_희망곡.md "wikilink")
 
 ## 외부 링크
 

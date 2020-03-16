@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IMAP \(\)](https://ko.wikipedia.org/wiki/IMAP_\(\)).
 
 
-**IMAP (Interstellar Mapping and Acceleration Probe)**는 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")의 [태양권](https://ko.wikipedia.org/wiki/태양권 "wikilink") 탐사선이다. [TIMED](https://ko.wikipedia.org/wiki/TIMED_\(우주선\) "wikilink"), [히노데](https://ko.wikipedia.org/wiki/히노데 "wikilink"), [STEREO](https://ko.wikipedia.org/wiki/STEREO "wikilink"), 그리고 [자기장 멀티 스케일 임무가](https://ko.wikipedia.org/wiki/자기장_멀티_스케일_임무 "wikilink") 소속되어 있는 [솔러 테레설 프로브 미션의](https://ko.wikipedia.org/wiki/솔러_테레설_프로브_미션 "wikilink") 일환으로,\[1\] 목적은 [라그랑주 점](https://ko.wikipedia.org/wiki/라그랑주_점 "wikilink") 1에 위치해서 [태양권](https://ko.wikipedia.org/wiki/태양권 "wikilink"), [우주선](https://ko.wikipedia.org/wiki/우주선_\(물리\) "wikilink") 등을 더 잘 알려주는 것이 목표이다.\[2\]
+**IMAP (Interstellar Mapping and Acceleration Probe)**는 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")의 [태양권](../Page/태양권.md "wikilink") 탐사선이다. [TIMED](https://ko.wikipedia.org/wiki/TIMED_\(우주선\) "wikilink"), [히노데](https://ko.wikipedia.org/wiki/히노데 "wikilink"), [STEREO](https://ko.wikipedia.org/wiki/STEREO "wikilink"), 그리고 [자기장 멀티 스케일 임무가](https://ko.wikipedia.org/wiki/자기장_멀티_스케일_임무 "wikilink") 소속되어 있는 [솔러 테레설 프로브 미션의](https://ko.wikipedia.org/wiki/솔러_테레설_프로브_미션 "wikilink") 일환으로,\[1\] 목적은 [라그랑주 점](../Page/라그랑주_점.md "wikilink") 1에 위치해서 [태양권](../Page/태양권.md "wikilink"), [우주선](../Page/우주선_\(물리\).md "wikilink") 등을 더 잘 알려주는 것이 목표이다.\[2\]
 
 ## 역사
 
@@ -16,8 +16,8 @@
   - [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")
   - [GSFC](https://ko.wikipedia.org/wiki/GSFC "wikilink")
   - [SwRI](https://ko.wikipedia.org/wiki/SwRI "wikilink")
-  - [존스 홉킨스 대학교](https://ko.wikipedia.org/wiki/존스_홉킨스_대학교 "wikilink")
-  - [프린스턴 대학교](https://ko.wikipedia.org/wiki/프린스턴_대학교 "wikilink")
+  - [존스 홉킨스 대학교](../Page/존스_홉킨스_대학교.md "wikilink")
+  - [프린스턴 대학교](../Page/프린스턴_대학교.md "wikilink")
 
 ## 각주
 

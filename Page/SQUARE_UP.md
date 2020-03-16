@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SQUARE UP](https://ko.wikipedia.org/wiki/SQUARE_UP).
 
 
-《**SQUARE UP**》은 [블랙핑크](../Page/블랙핑크.md "wikilink")의 첫 번째 미니 음반으로 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 15일에](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") 발매되었다. 타이틀곡은 〈뚜두뚜두 (DDU-DU DDU-DU)〉이다.\[1\]
+《**SQUARE UP**》은 [블랙핑크](../Page/블랙핑크.md "wikilink")의 첫 번째 미니 음반으로 [2018년](../Page/2018년.md "wikilink") [6월 15일에](../Page/6월_15일.md "wikilink") 발매되었다. 타이틀곡은 〈뚜두뚜두 (DDU-DU DDU-DU)〉이다.\[1\]
 
 ## 수록곡
 

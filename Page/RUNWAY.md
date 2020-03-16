@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RUNWAY](https://ko.wikipedia.org/wiki/RUNWAY).
 
 
-《**RUNWAY**》는 [AOA의](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") 일본에서의 두 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). 2016년 11월 30일에 [유니버설 뮤직 재팬의](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") 산하 레이블 [Virgin Music에서](../Page/Virgin_Music.md "wikilink") 발매됐다\[1\].
+《**RUNWAY**》는 [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 일본에서의 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 2016년 11월 30일에 [유니버설 뮤직 재팬의](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") 산하 레이블 [Virgin Music에서](../Page/Virgin_Music.md "wikilink") 발매됐다\[1\].
 
 ## 수록 내용
 

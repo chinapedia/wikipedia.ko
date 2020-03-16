@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ V  ](https://ko.wikipedia.org/wiki/_V__).
 
 
-다음은 《[스페셜 V](https://ko.wikipedia.org/wiki/스페셜_V "wikilink")》의 에피소드 목록이다.
+다음은 《[스페셜 V](../Page/스페셜_V.md "wikilink")》의 에피소드 목록이다.
 
 ## 2006-07
 
@@ -27,7 +27,7 @@
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김세진_(배구인)" title="wikilink">김세진</a></p></td>
+<td><p><a href="../Page/김세진_(배구인).md" title="wikilink">김세진</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -52,7 +52,7 @@
 <tr class="even">
 <td></td>
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김요한_(배구_선수)" title="wikilink">김요한</a>, <a href="https://ko.wikipedia.org/wiki/배유나" title="wikilink">배유나</a></p></td>
+<td><p><a href="../Page/김요한_(배구_선수).md" title="wikilink">김요한</a>, <a href="../Page/배유나.md" title="wikilink">배유나</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -76,47 +76,47 @@
 <tr class="even">
 <td></td>
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/화성_IBK기업은행_알토스" title="wikilink">화성 IBK기업은행 알토스</a> 1부</p></td>
+<td><p><a href="../Page/화성_IBK기업은행_알토스.md" title="wikilink">화성 IBK기업은행 알토스</a> 1부</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/화성_IBK기업은행_알토스" title="wikilink">화성 IBK기업은행 알토스</a> 2부</p></td>
+<td><p><a href="../Page/화성_IBK기업은행_알토스.md" title="wikilink">화성 IBK기업은행 알토스</a> 2부</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_한국전력_빅스톰" title="wikilink">수원 한국전력 빅스톰</a> 1부</p></td>
+<td><p><a href="../Page/수원_한국전력_빅스톰.md" title="wikilink">수원 한국전력 빅스톰</a> 1부</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_한국전력_빅스톰" title="wikilink">수원 한국전력 빅스톰</a> 2부</p></td>
+<td><p><a href="../Page/수원_한국전력_빅스톰.md" title="wikilink">수원 한국전력 빅스톰</a> 2부</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_흥국생명_핑크스파이더스" title="wikilink">인천 흥국생명 핑크스파이더스</a> 1부</p></td>
+<td><p><a href="../Page/인천_흥국생명_핑크스파이더스.md" title="wikilink">인천 흥국생명 핑크스파이더스</a> 1부</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_흥국생명_핑크스파이더스" title="wikilink">인천 흥국생명 핑크스파이더스</a> 2부</p></td>
+<td><p><a href="../Page/인천_흥국생명_핑크스파이더스.md" title="wikilink">인천 흥국생명 핑크스파이더스</a> 2부</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경북_김천_하이패스" title="wikilink">한국도로공사</a> 1부</p></td>
+<td><p><a href="../Page/경북_김천_하이패스.md" title="wikilink">한국도로공사</a> 1부</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경북_김천_하이패스" title="wikilink">한국도로공사</a> 2부</p></td>
+<td><p><a href="../Page/경북_김천_하이패스.md" title="wikilink">한국도로공사</a> 2부</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>9</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_대한항공_점보스" title="wikilink">인천 대한항공 점보스</a> 1부</p></td>
+<td><p><a href="../Page/인천_대한항공_점보스.md" title="wikilink">인천 대한항공 점보스</a> 1부</p></td>
 </tr>
 <tr class="odd">
 <td><p>방송일</p></td>
@@ -126,7 +126,7 @@
 <tr class="even">
 <td></td>
 <td><p>10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_대한항공_점보스" title="wikilink">인천 대한항공 점보스</a> 2부</p></td>
+<td><p><a href="../Page/인천_대한항공_점보스.md" title="wikilink">인천 대한항공 점보스</a> 2부</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -175,12 +175,12 @@
 <tr class="even">
 <td></td>
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_한국전력_빅스톰" title="wikilink">수원 한국전력 빅스톰</a> 1편</p></td>
+<td><p><a href="../Page/수원_한국전력_빅스톰.md" title="wikilink">수원 한국전력 빅스톰</a> 1편</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_한국전력_빅스톰" title="wikilink">수원 한국전력 빅스톰</a> 2편</p></td>
+<td><p><a href="../Page/수원_한국전력_빅스톰.md" title="wikilink">수원 한국전력 빅스톰</a> 2편</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -205,12 +205,12 @@
 <tr class="even">
 <td></td>
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GS칼텍스_서울_KIXX" title="wikilink">GS칼텍스 서울 KIXX</a> 1편</p></td>
+<td><p><a href="../Page/GS칼텍스_서울_KIXX.md" title="wikilink">GS칼텍스 서울 KIXX</a> 1편</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GS칼텍스_서울_KIXX" title="wikilink">GS칼텍스 서울 KIXX</a> 2편</p></td>
+<td><p><a href="../Page/GS칼텍스_서울_KIXX.md" title="wikilink">GS칼텍스 서울 KIXX</a> 2편</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -230,22 +230,22 @@
 <tr class="odd">
 <td></td>
 <td><p>11</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/천안_현대캐피탈_스카이워커스" title="wikilink">천안 현대캐피탈 스카이워커스</a> 1편</p></td>
+<td><p><a href="../Page/천안_현대캐피탈_스카이워커스.md" title="wikilink">천안 현대캐피탈 스카이워커스</a> 1편</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>12</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/천안_현대캐피탈_스카이워커스" title="wikilink">천안 현대캐피탈 스카이워커스</a> 2편</p></td>
+<td><p><a href="../Page/천안_현대캐피탈_스카이워커스.md" title="wikilink">천안 현대캐피탈 스카이워커스</a> 2편</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>13</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_흥국생명_핑크스파이더스" title="wikilink">인천 흥국생명 핑크스파이더스</a> 1편</p></td>
+<td><p><a href="../Page/인천_흥국생명_핑크스파이더스.md" title="wikilink">인천 흥국생명 핑크스파이더스</a> 1편</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>14</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_흥국생명_핑크스파이더스" title="wikilink">인천 흥국생명 핑크스파이더스</a> 2편</p></td>
+<td><p><a href="../Page/인천_흥국생명_핑크스파이더스.md" title="wikilink">인천 흥국생명 핑크스파이더스</a> 2편</p></td>
 </tr>
 <tr class="odd">
 <td><p>방송일</p></td>
@@ -265,12 +265,12 @@
 <tr class="even">
 <td></td>
 <td><p>17</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울_우리카드_위비" title="wikilink">서울 우리카드 위비</a> 1편</p></td>
+<td><p><a href="../Page/서울_우리카드_위비.md" title="wikilink">서울 우리카드 위비</a> 1편</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>18</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울_우리카드_위비" title="wikilink">서울 우리카드 위비</a> 2편</p></td>
+<td><p><a href="../Page/서울_우리카드_위비.md" title="wikilink">서울 우리카드 위비</a> 2편</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -285,22 +285,22 @@
 <tr class="even">
 <td></td>
 <td><p>21</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/화성_IBK기업은행_알토스" title="wikilink">화성 IBK기업은행 알토스</a> 1편</p></td>
+<td><p><a href="../Page/화성_IBK기업은행_알토스.md" title="wikilink">화성 IBK기업은행 알토스</a> 1편</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>22</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/화성_IBK기업은행_알토스" title="wikilink">화성 IBK기업은행 알토스</a> 2편</p></td>
+<td><p><a href="../Page/화성_IBK기업은행_알토스.md" title="wikilink">화성 IBK기업은행 알토스</a> 2편</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>23</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_대한항공_점보스" title="wikilink">인천 대한항공 점보스</a> 1편</p></td>
+<td><p><a href="../Page/인천_대한항공_점보스.md" title="wikilink">인천 대한항공 점보스</a> 1편</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>24</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_대한항공_점보스" title="wikilink">인천 대한항공 점보스</a> 2편</p></td>
+<td><p><a href="../Page/인천_대한항공_점보스.md" title="wikilink">인천 대한항공 점보스</a> 2편</p></td>
 </tr>
 </tbody>
 </table>
@@ -337,22 +337,22 @@
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GS칼텍스_서울_KIXX" title="wikilink">GS칼텍스 서울 KIXX</a></p></td>
+<td><p><a href="../Page/GS칼텍스_서울_KIXX.md" title="wikilink">GS칼텍스 서울 KIXX</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/화성_IBK기업은행_알토스" title="wikilink">화성 IBK기업은행 알토스</a> 1부</p></td>
+<td><p><a href="../Page/화성_IBK기업은행_알토스.md" title="wikilink">화성 IBK기업은행 알토스</a> 1부</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/화성_IBK기업은행_알토스" title="wikilink">화성 IBK기업은행 알토스</a> 2부</p></td>
+<td><p><a href="../Page/화성_IBK기업은행_알토스.md" title="wikilink">화성 IBK기업은행 알토스</a> 2부</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/천안_현대캐피탈_스카이워커스" title="wikilink">천안 현대캐피탈 스카이워커스</a></p></td>
+<td><p><a href="../Page/천안_현대캐피탈_스카이워커스.md" title="wikilink">천안 현대캐피탈 스카이워커스</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -392,7 +392,7 @@
 <tr class="even">
 <td></td>
 <td><p>13</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_한국전력_빅스톰" title="wikilink">수원 한국전력 빅스톰</a></p></td>
+<td><p><a href="../Page/수원_한국전력_빅스톰.md" title="wikilink">수원 한국전력 빅스톰</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -402,7 +402,7 @@
 <tr class="even">
 <td></td>
 <td><p>15</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경북_김천_하이패스" title="wikilink">경북 김천 하이패스</a></p></td>
+<td><p><a href="../Page/경북_김천_하이패스.md" title="wikilink">경북 김천 하이패스</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -412,17 +412,17 @@
 <tr class="even">
 <td></td>
 <td><p>17</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_흥국생명_핑크스파이더스" title="wikilink">인천 흥국생명 핑크스파이더스</a> 1부</p></td>
+<td><p><a href="../Page/인천_흥국생명_핑크스파이더스.md" title="wikilink">인천 흥국생명 핑크스파이더스</a> 1부</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>18</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_흥국생명_핑크스파이더스" title="wikilink">인천 흥국생명 핑크스파이더스</a> 2부</p></td>
+<td><p><a href="../Page/인천_흥국생명_핑크스파이더스.md" title="wikilink">인천 흥국생명 핑크스파이더스</a> 2부</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>19</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_대한항공_점보스" title="wikilink">인천 대한항공 점보스</a></p></td>
+<td><p><a href="../Page/인천_대한항공_점보스.md" title="wikilink">인천 대한항공 점보스</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -437,7 +437,7 @@
 <tr class="odd">
 <td></td>
 <td><p>22</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/의정부_KB손해보험_스타즈" title="wikilink">의정부 KB손해보험 스타즈</a></p></td>
+<td><p><a href="../Page/의정부_KB손해보험_스타즈.md" title="wikilink">의정부 KB손해보험 스타즈</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -478,22 +478,22 @@
 <tr class="even">
 <td></td>
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/화성_IBK기업은행_알토스" title="wikilink">화성 IBK기업은행 알토스</a>{{·}}<a href="https://ko.wikipedia.org/wiki/김희진_(배구_선수)" title="wikilink">김희진</a>, <a href="https://ko.wikipedia.org/wiki/이나연" title="wikilink">이나연</a></p></td>
+<td><p><a href="../Page/화성_IBK기업은행_알토스.md" title="wikilink">화성 IBK기업은행 알토스</a>{{·}}<a href="../Page/김희진_(배구_선수).md" title="wikilink">김희진</a>, <a href="https://ko.wikipedia.org/wiki/이나연" title="wikilink">이나연</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/GS칼텍스_서울_KIXX" title="wikilink">GS칼텍스 서울 KIXX</a>{{·}}<a href="https://ko.wikipedia.org/wiki/안혜진" title="wikilink">안혜진</a>, <a href="../Page/이소영_(배구_선수).md" title="wikilink">이소영</a></p></td>
+<td><p><a href="../Page/GS칼텍스_서울_KIXX.md" title="wikilink">GS칼텍스 서울 KIXX</a>{{·}}<a href="https://ko.wikipedia.org/wiki/안혜진" title="wikilink">안혜진</a>, <a href="../Page/이소영_(배구_선수).md" title="wikilink">이소영</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울_우리카드_위비" title="wikilink">서울 우리카드 위비</a>{{·}}<a href="https://ko.wikipedia.org/wiki/나경복" title="wikilink">나경복</a>, <a href="https://ko.wikipedia.org/wiki/유광우" title="wikilink">유광우</a></p></td>
+<td><p><a href="../Page/서울_우리카드_위비.md" title="wikilink">서울 우리카드 위비</a>{{·}}<a href="https://ko.wikipedia.org/wiki/나경복" title="wikilink">나경복</a>, <a href="../Page/유광우.md" title="wikilink">유광우</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_KGC인삼공사_배구단" title="wikilink">대전 KGC인삼공사 배구단</a>{{·}}<a href="../Page/채선아_(배구_선수).md" title="wikilink">채선아</a>, <a href="https://ko.wikipedia.org/wiki/최은지_(배구_선수)" title="wikilink">최은지</a></p></td>
+<td><p><a href="../Page/대전_KGC인삼공사_배구단.md" title="wikilink">대전 KGC인삼공사 배구단</a>{{·}}<a href="../Page/채선아_(배구_선수).md" title="wikilink">채선아</a>, <a href="https://ko.wikipedia.org/wiki/최은지_(배구_선수)" title="wikilink">최은지</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -503,27 +503,27 @@
 <tr class="odd">
 <td></td>
 <td><p>6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_흥국생명_핑크스파이더스" title="wikilink">인천 흥국생명 핑크스파이더스</a>{{·}}<a href="../Page/김미연_(1993년).md" title="wikilink">김미연</a>, <a href="../Page/이재영_(배구_선수).md" title="wikilink">이재영</a></p></td>
+<td><p><a href="../Page/인천_흥국생명_핑크스파이더스.md" title="wikilink">인천 흥국생명 핑크스파이더스</a>{{·}}<a href="../Page/김미연_(1993년).md" title="wikilink">김미연</a>, <a href="../Page/이재영_(배구_선수).md" title="wikilink">이재영</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_현대건설" title="wikilink">수원 현대건설</a>{{·}}<a href="https://ko.wikipedia.org/wiki/양효진" title="wikilink">양효진</a>, <a href="https://ko.wikipedia.org/wiki/황연주" title="wikilink">황연주</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/수원_현대건설" title="wikilink">수원 현대건설</a>{{·}}<a href="../Page/양효진.md" title="wikilink">양효진</a>, <a href="../Page/황연주.md" title="wikilink">황연주</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_삼성화재_블루팡스" title="wikilink">대전 삼성화재 블루팡스</a>{{·}}<a href="../Page/박상하.md" title="wikilink">박상하</a>, <a href="https://ko.wikipedia.org/wiki/박철우_(배구_선수)" title="wikilink">박철우</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대전_삼성화재_블루팡스" title="wikilink">대전 삼성화재 블루팡스</a>{{·}}<a href="../Page/박상하.md" title="wikilink">박상하</a>, <a href="../Page/박철우_(배구_선수).md" title="wikilink">박철우</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>9</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_한국전력_빅스톰" title="wikilink">수원 한국전력 빅스톰</a>{{·}}<a href="../Page/서재덕.md" title="wikilink">서재덕</a>, <a href="../Page/최홍석.md" title="wikilink">최홍석</a></p></td>
+<td><p><a href="../Page/수원_한국전력_빅스톰.md" title="wikilink">수원 한국전력 빅스톰</a>{{·}}<a href="../Page/서재덕.md" title="wikilink">서재덕</a>, <a href="../Page/최홍석.md" title="wikilink">최홍석</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천_대한항공_점보스" title="wikilink">인천 대한항공 점보스</a>{{·}}<a href="../Page/곽승석.md" title="wikilink">곽승석</a>, <a href="https://ko.wikipedia.org/wiki/정지석" title="wikilink">정지석</a></p></td>
+<td><p><a href="../Page/인천_대한항공_점보스.md" title="wikilink">인천 대한항공 점보스</a>{{·}}<a href="../Page/곽승석.md" title="wikilink">곽승석</a>, <a href="../Page/정지석.md" title="wikilink">정지석</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

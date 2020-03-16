@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ SK](https://ko.wikipedia.org/wiki/_SK).
 
 
-<mapframe latitude="35.163204" longitude="129.171105" zoom="16" width="250" height="250" align="right" /> **해운대 SK뷰**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](https://ko.wikipedia.org/wiki/해운대구 "wikilink") [중동에](../Page/중동_\(부산\).md "wikilink") 위치한 초고층 아파트 단지이다.
+<mapframe latitude="35.163204" longitude="129.171105" zoom="16" width="250" height="250" align="right" /> **해운대 SK뷰**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](../Page/해운대구.md "wikilink") [중동에](../Page/중동_\(부산\).md "wikilink") 위치한 초고층 아파트 단지이다.
 
 ## 같이 보기
 
-  - [SK뷰](https://ko.wikipedia.org/wiki/SK뷰 "wikilink")
+  - [SK뷰](../Page/SK뷰.md "wikilink")
 
 ## 외부 링크
 

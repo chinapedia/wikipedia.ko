@@ -27,7 +27,7 @@
 <td style="text-align: left;"><p>키노 비디오</p></td>
 <td style="text-align: left;"><p>《REDMARE》 Kihno Video</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/4월_18일" title="wikilink">4월 18일</a></li>
+<li>발매일 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_18일.md" title="wikilink">4월 18일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -38,7 +38,7 @@
   - [레드벨벳](https://ko.wikipedia.org/wiki/레드벨벳 "wikilink") ([아이린](../Page/아이린_\(1991년\).md "wikilink"), [슬기](../Page/슬기.md "wikilink"), [웬디](../Page/웬디_\(가수\).md "wikilink"), [조이](../Page/조이_\(가수\).md "wikilink"), [예리](../Page/예리_\(가수\).md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
   - 총연출 : [심재원](https://ko.wikipedia.org/wiki/심재원_\(가수\) "wikilink")
   - 영상감독 : [권순욱](../Page/권순욱.md "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BreakTudo ](https://ko.wikipedia.org/wiki/BreakTudo_).
 
 
-**BreakTudo 어워드**(, 약칭 BTDAs)\[1\] 은 BreakTudo 의 주최로 진행되는 시상식으로 2010 년브라질 처음으로 개최하였다. 이미 수여 된 예술가 : [방탄소년단](../Page/방탄소년단.md "wikilink"), [아니타](https://ko.wikipedia.org/wiki/아니타 "wikilink"), [셀레나 고메즈](https://ko.wikipedia.org/wiki/셀레나_고메즈 "wikilink"), [데미 로바토](https://ko.wikipedia.org/wiki/데미_로바토 "wikilink"), [데미 로바토](https://ko.wikipedia.org/wiki/데미_로바토 "wikilink"), [이베치 상갈루](../Page/이베치_상갈루.md "wikilink") 및 루이스 톰린슨. 이상은 Revotec과 협력하여 [BreakTudo](https://ko.wikipedia.org/wiki/:es:_Premios_BreakTudo "wikilink") 가 매년 음악, TV 및 디지털 영향력 자의 아티스트에게 수여하는 상입니다.\[2\]\[3\]\[4\]
+**BreakTudo 어워드**(, 약칭 BTDAs)\[1\] 은 BreakTudo 의 주최로 진행되는 시상식으로 2010 년브라질 처음으로 개최하였다. 이미 수여 된 예술가 : [방탄소년단](../Page/방탄소년단.md "wikilink"), [아니타](https://ko.wikipedia.org/wiki/아니타 "wikilink"), [셀레나 고메즈](../Page/셀레나_고메즈.md "wikilink"), [데미 로바토](../Page/데미_로바토.md "wikilink"), [데미 로바토](../Page/데미_로바토.md "wikilink"), [이베치 상갈루](../Page/이베치_상갈루.md "wikilink") 및 루이스 톰린슨. 이상은 Revotec과 협력하여 [BreakTudo](https://ko.wikipedia.org/wiki/:es:_Premios_BreakTudo "wikilink") 가 매년 음악, TV 및 디지털 영향력 자의 아티스트에게 수여하는 상입니다.\[2\]\[3\]\[4\]
 
 ## BreakTudo 어워드 2018
 
@@ -159,7 +159,7 @@
 
 ### K-pop Female Artist
 
-  - [BoA](https://ko.wikipedia.org/wiki/BoA "wikilink") ([보아](https://ko.wikipedia.org/wiki/보아 "wikilink"))
+  - [BoA](https://ko.wikipedia.org/wiki/BoA "wikilink") ([보아](../Page/보아.md "wikilink"))
 
 <!-- end list -->
 
@@ -167,7 +167,7 @@
 
 <!-- end list -->
 
-  - Hyuna ([현아](https://ko.wikipedia.org/wiki/현아 "wikilink"))
+  - Hyuna ([현아](../Page/현아.md "wikilink"))
 
 <!-- end list -->
 
@@ -175,17 +175,17 @@
 
 <!-- end list -->
 
-  - Suzy [수지](https://ko.wikipedia.org/wiki/수지_\(대한민국의_가수\) "wikilink")
+  - Suzy [수지](../Page/수지_\(대한민국의_가수\).md "wikilink")
 
 <!-- end list -->
 
-  - Tiffany Young([티파니 영](https://ko.wikipedia.org/wiki/티파니_영 "wikilink"))
+  - Tiffany Young([티파니 영](../Page/티파니_영.md "wikilink"))
 
 ### K-pop Male Group
 
 **\*BTS ([방탄소년단](../Page/방탄소년단.md "wikilink"))**
 
-  - [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")
+  - [EXO](../Page/EXO.md "wikilink")
 
 <!-- end list -->
 
@@ -197,7 +197,7 @@
 
 <!-- end list -->
 
-  - SHINee ([샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink"))
+  - SHINee ([샤이니](../Page/샤이니.md "wikilink"))
 
 <!-- end list -->
 
@@ -205,7 +205,7 @@
 
 ### K-pop Female Group
 
-  - Apink ([에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink"))
+  - Apink ([에이핑크](../Page/에이핑크.md "wikilink"))
 
 <!-- end list -->
 
@@ -933,7 +933,7 @@ International Instagrammer
 <td><p>Female Artist International (여성 아티스트 인터내셔널)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Selena_Gomez" title="wikilink">Selena Gomez</a></p></td>
 <td><ul>
-<li>Beyoncé (<a href="https://ko.wikipedia.org/wiki/비욘세" title="wikilink">비욘세</a>)</li>
+<li>Beyoncé (<a href="../Page/비욘세.md" title="wikilink">비욘세</a>)</li>
 <li>Katy Perry</li>
 <li>Miley Cyrus</li>
 <li>Selena Gomez</li>
@@ -947,7 +947,7 @@ International Instagrammer
 <li>Fifth Harmony (피프스 하모니)</li>
 <li>Little Mix (리틀 믹스)</li>
 <li>Maroon 5 (카라스 플라워스)</li>
-<li>One Direction (<a href="https://ko.wikipedia.org/wiki/원_디렉션" title="wikilink">원 디렉션</a>)</li>
+<li>One Direction (<a href="../Page/원_디렉션.md" title="wikilink">원 디렉션</a>)</li>
 <li>The Vamps (더 뱀프스)</li>
 </ul></td>
 </tr>
@@ -964,10 +964,10 @@ International Instagrammer
 </tr>
 <tr class="odd">
 <td><p>Best EDM International (최고의 DJ)</p></td>
-<td><p>Calvin Harris (<a href="https://ko.wikipedia.org/wiki/캘빈_해리스" title="wikilink">캘빈 해리스</a>)</p></td>
+<td><p>Calvin Harris (<a href="../Page/캘빈_해리스.md" title="wikilink">캘빈 해리스</a>)</p></td>
 <td><ul>
-<li>Calvin Harris (<a href="https://ko.wikipedia.org/wiki/캘빈_해리스" title="wikilink">캘빈 해리스</a>)</li>
-<li>David Guetta (<a href="https://ko.wikipedia.org/wiki/다비드_게타" title="wikilink">다비드 게타</a>)</li>
+<li>Calvin Harris (<a href="../Page/캘빈_해리스.md" title="wikilink">캘빈 해리스</a>)</li>
+<li>David Guetta (<a href="../Page/다비드_게타.md" title="wikilink">다비드 게타</a>)</li>
 <li>Diplo (디플로)</li>
 <li>Lost Frequencies (<a href="../Page/로스트_프리퀀시스.md" title="wikilink">로스트 프리퀀시스</a>)</li>
 <li>Martin Garrix (<a href="../Page/마틴_게릭스.md" title="wikilink">마틴 게릭스</a>)</li>
@@ -1134,7 +1134,7 @@ International Instagrammer
 <td><p>Male Artist International (남자 아티스트 인터내셔널)</p></td>
 <td><p>Shawn Mendes (숀 멘데스)[68]</p></td>
 <td><ul>
-<li>Bruno Mars (<a href="https://ko.wikipedia.org/wiki/브루노_마스" title="wikilink">브루노 마스</a>)</li>
+<li>Bruno Mars (<a href="../Page/브루노_마스.md" title="wikilink">브루노 마스</a>)</li>
 <li>Charlie Puth[69]</li>
 <li>Ed Sheeran[70]</li>
 <li>Justin Bieber</li>
@@ -1146,10 +1146,10 @@ International Instagrammer
 <td><p>Demi Lovato (데미 로바토)[72]</p></td>
 <td><ul>
 <li>Demi Lovato (데미 로바토)</li>
-<li>Katy Perry (<a href="https://ko.wikipedia.org/wiki/케이티_페리" title="wikilink">케이티 페리</a>)</li>
+<li>Katy Perry (<a href="../Page/케이티_페리.md" title="wikilink">케이티 페리</a>)</li>
 <li>Miley Cyrus (마일리 사이러스)</li>
-<li>Selena Gomez (<a href="https://ko.wikipedia.org/wiki/셀레나_고메즈" title="wikilink">셀레나 고메즈</a>)[73]</li>
-<li>Taylor Swift (<a href="https://ko.wikipedia.org/wiki/테일러_스위프트" title="wikilink">테일러 스위프트</a>)</li>
+<li>Selena Gomez (<a href="../Page/셀레나_고메즈.md" title="wikilink">셀레나 고메즈</a>)[73]</li>
+<li>Taylor Swift (<a href="../Page/테일러_스위프트.md" title="wikilink">테일러 스위프트</a>)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -1175,7 +1175,7 @@ International Instagrammer
 <td><p>New Artist International (새로운 아티스트 인터내셔널)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Louis_Tomlinson" title="wikilink">Louis Tomlinson</a></p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/Dua_Lipa" title="wikilink">Dua Lipa</a></li>
+<li><a href="../Page/Dua_Lipa.md" title="wikilink">Dua Lipa</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/Hailee_Steinfeld" title="wikilink">Hailee Steinfeld</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/Julia_Michaels" title="wikilink">Julia Michaels</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/Louis_Tomlinson" title="wikilink">Louis Tomlinson</a></li>

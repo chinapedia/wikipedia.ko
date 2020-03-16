@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ \(GO\)](https://ko.wikipedia.org/wiki/_\(GO\)).
 
 
-**블루어역** (Bloor Station) 은 [GO 트랜싯](https://ko.wikipedia.org/wiki/GO_트랜싯 "wikilink") [키치너 선과](https://ko.wikipedia.org/wiki/키치너_선 "wikilink") [유니언 피어슨 급행](https://ko.wikipedia.org/wiki/유니언_피어슨_급행 "wikilink") 열차가 정차하는 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink")의 통근 열차 역이다. 이 역은 또한 [토론토 교통국](https://ko.wikipedia.org/wiki/토론토_교통국 "wikilink") [블루어-댄포스 선의](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") 지하철역인 [던다스 웨스트 역이](https://ko.wikipedia.org/wiki/던다스_웨스트_역 "wikilink") 인접해있으나 환승 통로로 이어져있지 않다. 이 역은 [블루어 스트리트 웨스트](https://ko.wikipedia.org/wiki/블루어_가 "wikilink") 및 랜즈다운 애비뉴와 던다스 스트리트 사이에 위치해있으며 블루어 스트리트는 선로 바로 위에 고가 도로로 지나가며, 역 출입구는 블루어 북쪽 인도에서 계단으로 이어진다.
+**블루어역** (Bloor Station) 은 [GO 트랜싯](../Page/GO_트랜싯.md "wikilink") [키치너 선과](https://ko.wikipedia.org/wiki/키치너_선 "wikilink") [유니언 피어슨 급행](https://ko.wikipedia.org/wiki/유니언_피어슨_급행 "wikilink") 열차가 정차하는 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")의 통근 열차 역이다. 이 역은 또한 [토론토 교통국](../Page/토론토_교통국.md "wikilink") [블루어-댄포스 선의](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") 지하철역인 [던다스 웨스트 역이](https://ko.wikipedia.org/wiki/던다스_웨스트_역 "wikilink") 인접해있으나 환승 통로로 이어져있지 않다. 이 역은 [블루어 스트리트 웨스트](https://ko.wikipedia.org/wiki/블루어_가 "wikilink") 및 랜즈다운 애비뉴와 던다스 스트리트 사이에 위치해있으며 블루어 스트리트는 선로 바로 위에 고가 도로로 지나가며, 역 출입구는 블루어 북쪽 인도에서 계단으로 이어진다.
 
 ## 운행 계통
 
-블루어역은 [키치너와](https://ko.wikipedia.org/wiki/키치너역 "wikilink") 토론토 유니언역 방면 키치너 선과 [토론토 피어슨 국제공항과](https://ko.wikipedia.org/wiki/토론토_피어슨_국제공항 "wikilink") 유니언역 방면 유니언 피어슨 급행 (UP Express) 열차가 웨스턴 선을 따라 정차한다. 2015년 조지타운 남쪽 선로 확장 공사에 따라 웨스턴 선은 2면 4선으로 확장되었다. 이에 따라 유니언 피어슨 급행은 고상 승강장을 이용하게 되었고, 키치너 선 열차는 저상 승강장을 이용하게 되었다. 웨스턴 선 남서쪽에는 [캐나다 태평양 철도의](https://ko.wikipedia.org/wiki/캐나다_태평양_철도 "wikilink") 골트 선이 나란히 달리는데 이 노선을 따라 GO 트랜싯의 [밀턴 선이](https://ko.wikipedia.org/wiki/밀턴_선 "wikilink") 운행한다. 하지만 블루어역에는 밀턴 선 승강장이 없는 관계로 무정차 통과한다.
+블루어역은 [키치너와](../Page/키치너역.md "wikilink") 토론토 유니언역 방면 키치너 선과 [토론토 피어슨 국제공항과](https://ko.wikipedia.org/wiki/토론토_피어슨_국제공항 "wikilink") 유니언역 방면 유니언 피어슨 급행 (UP Express) 열차가 웨스턴 선을 따라 정차한다. 2015년 조지타운 남쪽 선로 확장 공사에 따라 웨스턴 선은 2면 4선으로 확장되었다. 이에 따라 유니언 피어슨 급행은 고상 승강장을 이용하게 되었고, 키치너 선 열차는 저상 승강장을 이용하게 되었다. 웨스턴 선 남서쪽에는 [캐나다 태평양 철도의](../Page/캐나다_태평양_철도.md "wikilink") 골트 선이 나란히 달리는데 이 노선을 따라 GO 트랜싯의 [밀턴 선이](https://ko.wikipedia.org/wiki/밀턴_선 "wikilink") 운행한다. 하지만 블루어역에는 밀턴 선 승강장이 없는 관계로 무정차 통과한다.
 
 ## 대중교통 연결편
 
-블루어역에서는 [토론토 교통국의](https://ko.wikipedia.org/wiki/토론토_교통국 "wikilink") 지하철, 버스 및 노면 전차로 갈아탈 수 있다. GO 트랜싯이나 유니언-피어슨 급행에서 토론토 교통국의 지하철, 버스 및 노면 전차로 환승할 때 [프레스토 카드로](https://ko.wikipedia.org/wiki/프레스토_카드 "wikilink") 지불하면 1달러 50센트의 환승 할인을 받게 된다.\[1\] 자세한 노선 목록은 [던다스 웨스트 역\#대중교통 연결편을](https://ko.wikipedia.org/wiki/던다스_웨스트_역#대중교통_연결편 "wikilink") 참조한다.
+블루어역에서는 [토론토 교통국의](../Page/토론토_교통국.md "wikilink") 지하철, 버스 및 노면 전차로 갈아탈 수 있다. GO 트랜싯이나 유니언-피어슨 급행에서 토론토 교통국의 지하철, 버스 및 노면 전차로 환승할 때 [프레스토 카드로](https://ko.wikipedia.org/wiki/프레스토_카드 "wikilink") 지불하면 1달러 50센트의 환승 할인을 받게 된다.\[1\] 자세한 노선 목록은 [던다스 웨스트 역\#대중교통 연결편을](https://ko.wikipedia.org/wiki/던다스_웨스트_역#대중교통_연결편 "wikilink") 참조한다.
 
 ## 각주
 

@@ -3,9 +3,9 @@
 
 **릴랴와 전쟁의 그림자**(Lilya and shadows of war)는 개발자 라시드 아부에이데(Rasheed Abueideh)가 만든 어드벤처 게임이다. 그림과 일러스트는 ​웨다드 일샤이드(Wedad Irshaid)가 맡았으며 애니메이션은 사라 샤와(Sarah Shawwa)가 음악은 조르게 멘데크(Jorge Méndez)가 맡았다.
 
-개발자 라시드 아부에이가 [가자 지구에서](https://ko.wikipedia.org/wiki/가자_지구 "wikilink") 일어난 전쟁 사진을 보게 되면서 게임을 만들었다고 한다.
+개발자 라시드 아부에이가 [가자 지구에서](../Page/가자_지구.md "wikilink") 일어난 전쟁 사진을 보게 되면서 게임을 만들었다고 한다.
 
-2016년 5월 18일에 [Google Play Store](https://play.google.com/store) 에 출시되었으며 실제 2014년에 [팔레스타인](https://ko.wikipedia.org/wiki/팔레스타인 "wikilink") [가자 지구에서](https://ko.wikipedia.org/wiki/가자_지구 "wikilink") 발생한 [전쟁](https://ko.wikipedia.org/wiki/전쟁 "wikilink")을 배경으로 하였으며 스토리는 릴랴(Lilya)의 가족들이 전쟁터를 벗어나는 이야기이다.
+2016년 5월 18일에 [Google Play Store](https://play.google.com/store) 에 출시되었으며 실제 2014년에 [팔레스타인](../Page/팔레스타인.md "wikilink") [가자 지구에서](../Page/가자_지구.md "wikilink") 발생한 [전쟁](../Page/전쟁.md "wikilink")을 배경으로 하였으며 스토리는 릴랴(Lilya)의 가족들이 전쟁터를 벗어나는 이야기이다.
 
 ## 게임 플레이
 
@@ -21,7 +21,7 @@
 
 이밖에도 개발자 사이트에서 여러 전문가들의 평이 써져 있다.
 
-[카네기멜론대학의](https://ko.wikipedia.org/wiki/카네기_멜런_대학교 "wikilink") 교수 제스 쉘(Jesse Schell)은 "I was really impressed, I was definitely emotionally moved by it, it was beautiful and engaging. After a few interactions I was intrigued and it won me over."\[1\]라고 평했다.
+[카네기멜론대학의](../Page/카네기_멜런_대학교.md "wikilink") 교수 제스 쉘(Jesse Schell)은 "I was really impressed, I was definitely emotionally moved by it, it was beautiful and engaging. After a few interactions I was intrigued and it won me over."\[1\]라고 평했다.
 
 [Vlambeer](http://www.vlambeer.com/)의 공동 설립자 라미 이스마일(Rami Ismail)은 "Liyla is a brave personal game about the invasion of Gaza, both an exploration of what games can communicate and a plea for help from someone actually affected by the reality the game sketches."\[2\]라고 평했다.
 
@@ -63,7 +63,7 @@ Game Happens: Official Selection.\[6\]
 
 ## 같이 보기
 
-  - [가자 전쟁](https://ko.wikipedia.org/wiki/가자_전쟁 "wikilink")
+  - [가자 전쟁](../Page/가자_전쟁.md "wikilink")
   - [개발자 사이트](http://www.liyla.org/)
 
 ## 인용 출처

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Heavy Rotation \(\)](https://ko.wikipedia.org/wiki/Heavy_Rotation_\(\)).
 
 
-《**Heavy Rotation**》은 [JKT48](https://ko.wikipedia.org/wiki/JKT48 "wikilink")의 첫 번째 [오리지널 앨범이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 16일에](https://ko.wikipedia.org/wiki/2월_16일 "wikilink") [Hits Records에서](https://ko.wikipedia.org/wiki/:id:Hits_Records "wikilink") 발매되었다. JKT48로서는, 각 팀이 행하는 극장공연에서의 악곡을 수록한 앨범을 판매하고 있지 않기 때문에 첫 앨범이 되었다.
+《**Heavy Rotation**》은 [JKT48](../Page/JKT48.md "wikilink")의 첫 번째 [오리지널 앨범이다](../Page/정규_음반.md "wikilink"). [2013년](../Page/2013년.md "wikilink") [2월 16일에](../Page/2월_16일.md "wikilink") [Hits Records에서](https://ko.wikipedia.org/wiki/:id:Hits_Records "wikilink") 발매되었다. JKT48로서는, 각 팀이 행하는 극장공연에서의 악곡을 수록한 앨범을 판매하고 있지 않기 때문에 첫 앨범이 되었다.
 
 Type-A에 대해서는, 인도네시아에서의 발매후에 일본용 특별반이 발매된 것이 있고, 2013년 4월 27일, 28일의 「AKB48グループ臨時総会〜白黒つけようじゃないか！」 물품 판매 코너에서 선행 판매된 후, 2013년 6월 12일에 발매(완전 예약주문 판매)되었다\[1\].
 

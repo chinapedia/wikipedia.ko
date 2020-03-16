@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   OECD  ](https://ko.wikipedia.org/wiki/___OECD__).
 
 
-아래는 [OECD가](https://ko.wikipedia.org/wiki/경제협력개발기구 "wikilink") 출판한 **[장기 실업률에](https://ko.wikipedia.org/wiki/실업 "wikilink") 따른 OECD 나라 목록**이다. 이 지표는 [노동](https://ko.wikipedia.org/wiki/노동 "wikilink")(취업 인구과 실업 인구의 합) 비율로서 1년 이상 실업 상태인 인원 수를 가리킨다. 실업 인구는 현재 일을 하고 있지 않으나 일할 의지가 있으며 활발이 구직을 하고 있는 사람으로 정의된다.
+아래는 [OECD가](../Page/경제협력개발기구.md "wikilink") 출판한 **[장기 실업률에](../Page/실업.md "wikilink") 따른 OECD 나라 목록**이다. 이 지표는 [노동](../Page/노동.md "wikilink")(취업 인구과 실업 인구의 합) 비율로서 1년 이상 실업 상태인 인원 수를 가리킨다. 실업 인구는 현재 일을 하고 있지 않으나 일할 의지가 있으며 활발이 구직을 하고 있는 사람으로 정의된다.
 
 ## 순위
 
@@ -204,11 +204,11 @@
 
 ## 같이 보기
 
-  - [기본소득](https://ko.wikipedia.org/wiki/기본소득 "wikilink")
+  - [기본소득](../Page/기본소득.md "wikilink")
   - [업무위탁](../Page/업무위탁.md "wikilink")
   - [실업률에 따른 나라 목록](../Page/실업률에_따른_나라_목록.md "wikilink")
-  - [자원봉사](https://ko.wikipedia.org/wiki/자원봉사 "wikilink")
-  - [청년 실업](https://ko.wikipedia.org/wiki/청년_실업 "wikilink")
+  - [자원봉사](../Page/자원봉사.md "wikilink")
+  - [청년 실업](../Page/청년_실업.md "wikilink")
 
 ## 각주
 

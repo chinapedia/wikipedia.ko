@@ -11,7 +11,7 @@
 
 [독도함](https://ko.wikipedia.org/wiki/독도함 "wikilink") 처럼 상부 전체가 비행갑판이 아니라, 절반 정도 함미쪽만 비행갑판이 있으며, [치누크](https://ko.wikipedia.org/wiki/치누크 "wikilink") 헬기 2대가 동시에 이착륙할 수 있다.
 
-자매함인 [HMS 불워크 (L15)](https://ko.wikipedia.org/wiki/HMS_불워크_\(L15\) "wikilink"), [헬기항모](https://ko.wikipedia.org/wiki/헬기항모 "wikilink")인 [HMS 오션 (L12)와](https://ko.wikipedia.org/wiki/HMS_오션_\(L12\) "wikilink") 함께, 알비온함은 영국 해군 상륙작전의 주축인 군함이다. 평소에는 256명의 해병을 수송할 수 있다. 내부격납고는 탱크도 탑재할 수 있으며, 4대의 [상륙용 주정 장비](https://ko.wikipedia.org/wiki/상륙용_주정_장비 "wikilink")(LCU)를 이용해 함미의 도크로 내보내 탱크를 상륙시킬 수 있다. 해병대는 LCU 보다 작은 4대의 [LCVP](https://ko.wikipedia.org/wiki/LCVP "wikilink")(Landing Craft Vehicle and Personnel)를 이용해 상륙시킬 수도 있다.
+자매함인 [HMS 불워크 (L15)](https://ko.wikipedia.org/wiki/HMS_불워크_\(L15\) "wikilink"), [헬기항모](https://ko.wikipedia.org/wiki/헬기항모 "wikilink")인 [HMS 오션 (L12)와](../Page/HMS_오션_\(L12\).md "wikilink") 함께, 알비온함은 영국 해군 상륙작전의 주축인 군함이다. 평소에는 256명의 해병을 수송할 수 있다. 내부격납고는 탱크도 탑재할 수 있으며, 4대의 [상륙용 주정 장비](https://ko.wikipedia.org/wiki/상륙용_주정_장비 "wikilink")(LCU)를 이용해 함미의 도크로 내보내 탱크를 상륙시킬 수 있다. 해병대는 LCU 보다 작은 4대의 [LCVP](https://ko.wikipedia.org/wiki/LCVP "wikilink")(Landing Craft Vehicle and Personnel)를 이용해 상륙시킬 수도 있다.
 
 2018년 6월 22일, 부산 해군작전사령부 부산작전기지에 입항했다.
 

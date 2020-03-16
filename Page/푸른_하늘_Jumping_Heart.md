@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  Jumping Heart](https://ko.wikipedia.org/wiki/__Jumping_Heart).
 
 
-**푸른 하늘 Jumping Heart**(, 푸른 하늘 점핑 하트)는 [Aqours](../Page/Aqours.md "wikilink")(아쿠아)의 싱글이다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 20일에](https://ko.wikipedia.org/wiki/7월_20일 "wikilink") [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")에서 발매되었다.
+**푸른 하늘 Jumping Heart**(, 푸른 하늘 점핑 하트)는 [Aqours](../Page/Aqours.md "wikilink")(아쿠아)의 싱글이다. [2016년](../Page/2016년.md "wikilink") [7월 20일에](../Page/7월_20일.md "wikilink") [란티스](../Page/란티스.md "wikilink")에서 발매되었다.
 
 ## 개요
 

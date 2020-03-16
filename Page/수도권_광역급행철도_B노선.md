@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  B](https://ko.wikipedia.org/wiki/__B).
 
 
-**수도권 광역급행철도 B선**(首都圈 廣域急行鐵道 B線)은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [남양주시](https://ko.wikipedia.org/wiki/남양주시 "wikilink")의 [마석역](https://ko.wikipedia.org/wiki/마석역 "wikilink")과 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](https://ko.wikipedia.org/wiki/연수구 "wikilink") [송도국제도시](https://ko.wikipedia.org/wiki/송도국제도시 "wikilink")의 [송도역을](https://ko.wikipedia.org/wiki/인천대입구역 "wikilink") 이을 예정인 [수도권 광역급행철도](../Page/수도권_광역급행철도.md "wikilink") 노선이다. [마석](https://ko.wikipedia.org/wiki/마석역 "wikilink") \~ [청량리](https://ko.wikipedia.org/wiki/청량리역 "wikilink") 구간은 [경춘선](https://ko.wikipedia.org/wiki/경춘선 "wikilink"), [중앙선](https://ko.wikipedia.org/wiki/중앙선 "wikilink")과 공용한다.
+**수도권 광역급행철도 B선**(首都圈 廣域急行鐵道 B線)은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [남양주시](../Page/남양주시.md "wikilink")의 [마석역](../Page/마석역.md "wikilink")과 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](../Page/연수구.md "wikilink") [송도국제도시](../Page/송도국제도시.md "wikilink")의 [송도역을](../Page/인천대입구역.md "wikilink") 이을 예정인 [수도권 광역급행철도](../Page/수도권_광역급행철도.md "wikilink") 노선이다. [마석](../Page/마석역.md "wikilink") \~ [청량리](../Page/청량리역.md "wikilink") 구간은 [경춘선](https://ko.wikipedia.org/wiki/경춘선 "wikilink"), [중앙선](../Page/중앙선.md "wikilink")과 공용한다.
 
 ## 노선 정보
 
@@ -9,7 +9,7 @@
   - 노선번호 : 미정
   - 노선 거리 : 48.7km
   - 운영 기관 : 미정
-  - 궤간 : 1,435mm ([표준궤](https://ko.wikipedia.org/wiki/표준궤 "wikilink"))
+  - 궤간 : 1,435mm ([표준궤](../Page/표준궤.md "wikilink"))
   - 통행방식 : [좌측 통행](https://ko.wikipedia.org/wiki/좌측_통행 "wikilink")
   - 역 수 : 13개
   - 보안 장치 : [ATP](https://ko.wikipedia.org/wiki/자동_열차_방호_장치 "wikilink")
@@ -17,8 +17,8 @@
 
 ## 연혁
 
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") : 예비타당성 조사 착수
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") : 예비타당성 조사 통과
+  - [2017년](../Page/2017년.md "wikilink") : 예비타당성 조사 착수
+  - [2019년](../Page/2019년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") : 예비타당성 조사 통과
   - [2022년 말](https://ko.wikipedia.org/wiki/2022년_말 "wikilink") : 기본설계 및 착공
   - [2027년 말](https://ko.wikipedia.org/wiki/2027년_말 "wikilink") : 준공
 
@@ -49,11 +49,11 @@
 춘<br />
 선</a><br />
 ·<br />
-<a href="https://ko.wikipedia.org/wiki/중앙선" title="wikilink">중<br />
+<a href="../Page/중앙선.md" title="wikilink">중<br />
 앙<br />
 선</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마석역" title="wikilink">마석</a></p></td>
+<td><p><a href="../Page/마석역.md" title="wikilink">마석</a></p></td>
 <td><p>Maseok</p></td>
 <td><p>磨石</p></td>
 <td></td>
@@ -63,7 +63,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/평내호평역" title="wikilink">평내호평</a></p></td>
+<td><p><a href="../Page/평내호평역.md" title="wikilink">평내호평</a></p></td>
 <td><p>Pyeongnae―Hopyeong</p></td>
 <td><p>坪內好坪</p></td>
 <td></td>
@@ -74,7 +74,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/별내역" title="wikilink">별내</a></p></td>
+<td><p><a href="../Page/별내역.md" title="wikilink">별내</a></p></td>
 <td><p>Byeollae</p></td>
 <td><p>別內</p></td>
 <td><p></br>(예정)</p></td>
@@ -85,21 +85,21 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/망우역" title="wikilink">망우</a></p></td>
+<td><p><a href="../Page/망우역.md" title="wikilink">망우</a></p></td>
 <td><p>Mangu</p></td>
 <td><p>忘憂</p></td>
 <td><p><br />
 </p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울특별시" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/중랑구" title="wikilink">중랑구</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>신<br />
 설</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/청량리역" title="wikilink">청량리</a></p></td>
+<td><p><a href="../Page/청량리역.md" title="wikilink">청량리</a></p></td>
 <td><p>Cheongnyangni</p></td>
 <td><p>淸凉里</p></td>
 <td><p><br />
@@ -112,7 +112,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울역" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울역.md" title="wikilink">서울</a></p></td>
 <td><p>Seoul</p></td>
 <td></td>
 <td><p><br />
@@ -120,15 +120,15 @@
 <br />
 <br />
 <a href="https://ko.wikipedia.org/wiki/수도권_광역급행철도_A선" title="wikilink">수도권 광역급행철도 A선</a> (예정)<br />
-<span style="color: {{한국 철도 노선색|NT|SN}};">■</span> <a href="https://ko.wikipedia.org/wiki/신안산선" title="wikilink">신안산선</a>(예정)</p></td>
+<span style="color: {{한국 철도 노선색|NT|SN}};">■</span> <a href="../Page/신안산선.md" title="wikilink">신안산선</a>(예정)</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/중구_(서울특별시)" title="wikilink">중구</a></p></td>
+<td><p><a href="../Page/중구_(서울특별시).md" title="wikilink">중구</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/용산역" title="wikilink">용산</a></p></td>
+<td><p><a href="../Page/용산역.md" title="wikilink">용산</a></p></td>
 <td><p>Yongsan</p></td>
 <td><p>龍山</p></td>
 <td><p><br />
@@ -145,15 +145,15 @@
 <td><p>汝矣島</p></td>
 <td><p><br />
 <br />
-<span style="color: {{한국 철도 노선색|NT|SN}};">■</span> <a href="https://ko.wikipedia.org/wiki/신안산선" title="wikilink">신안산선</a>(예정)</p></td>
+<span style="color: {{한국 철도 노선색|NT|SN}};">■</span> <a href="../Page/신안산선.md" title="wikilink">신안산선</a>(예정)</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영등포구" title="wikilink">영등포구</a></p></td>
+<td><p><a href="../Page/영등포구.md" title="wikilink">영등포구</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신도림역" title="wikilink">신도림</a></p></td>
+<td><p><a href="../Page/신도림역.md" title="wikilink">신도림</a></p></td>
 <td><p>Sindorim</p></td>
 <td><p>新道林</p></td>
 <td><p><br />
@@ -184,18 +184,18 @@
 <td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천광역시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부평구" title="wikilink">부평구</a></p></td>
+<td><p><a href="../Page/부평구.md" title="wikilink">부평구</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인천시청역" title="wikilink">인천시청</a></p></td>
+<td><p><a href="../Page/인천시청역.md" title="wikilink">인천시청</a></p></td>
 <td><p>Incheon City Hall</p></td>
 <td><p>仁川市廳</p></td>
 <td><p><br />
 </p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남동구" title="wikilink">남동구</a></p></td>
+<td><p><a href="../Page/남동구.md" title="wikilink">남동구</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -203,10 +203,10 @@
 <td><p>송도</p></td>
 <td><p>Songdo</p></td>
 <td><p>松島</p></td>
-<td><p><small>(<a href="https://ko.wikipedia.org/wiki/인천대입구역" title="wikilink">인천대입구역</a>)</small></p></td>
+<td><p><small>(<a href="../Page/인천대입구역.md" title="wikilink">인천대입구역</a>)</small></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/연수구" title="wikilink">연수구</a></p></td>
+<td><p><a href="../Page/연수구.md" title="wikilink">연수구</a></p></td>
 <td></td>
 </tr>
 </tbody>

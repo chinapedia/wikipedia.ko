@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BINGLE BANGLE](https://ko.wikipedia.org/wiki/BINGLE_BANGLE).
 
 
-《**BINGLE BANGLE**》(빙글뱅글)은 [AOA의](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") 다섯 번째 [미니음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+《**BINGLE BANGLE**》(빙글뱅글)은 [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 다섯 번째 [미니음반이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 수록곡
 

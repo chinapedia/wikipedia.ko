@@ -25,9 +25,9 @@ VT-4 전차의 기동력은 아직 공개된게 극히 미미하다. 그러나 1
 
   - \- [99식 전차](../Page/99식_전차.md "wikilink") 850대
 
-  - \- [96식 전차](https://ko.wikipedia.org/wiki/96식_전차 "wikilink") 2,500대
+  - \- [96식 전차](../Page/96식_전차.md "wikilink") 2,500대
 
-  - \- [59식 전차](https://ko.wikipedia.org/wiki/59식_전차 "wikilink") 2,000대
+  - \- [59식 전차](../Page/59식_전차.md "wikilink") 2,000대
 
   - \- VT-4 100대
 
@@ -45,7 +45,7 @@ VT-4 전차의 기동력은 아직 공개된게 극히 미미하다. 그러나 1
 
   - [MBT-2000](../Page/MBT-2000.md "wikilink")
   - [99식 전차](../Page/99식_전차.md "wikilink")
-  - [10식 전차](https://ko.wikipedia.org/wiki/10식_전차 "wikilink")
-  - [96식 전차](https://ko.wikipedia.org/wiki/96식_전차 "wikilink")
+  - [10식 전차](../Page/10식_전차.md "wikilink")
+  - [96식 전차](../Page/96식_전차.md "wikilink")
 
 [분류:중화인민공화국의 전차](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_전차 "wikilink") [분류:주력전차](https://ko.wikipedia.org/wiki/분류:주력전차 "wikilink")

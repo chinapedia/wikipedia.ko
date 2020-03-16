@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Eleanor Rigby](https://ko.wikipedia.org/wiki/Eleanor_Rigby).
 
 
-〈**Eleanor Rigby**〉는 1966년 음반 《[Revolver](https://ko.wikipedia.org/wiki/Revolver "wikilink")》에서 45rpm싱글로 발매된 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 노래이다. 이 곡은 주로 [폴 매카트니가](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 쓴 것으로, [레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink")가 쓴 것으로 되어 있다.
+〈**Eleanor Rigby**〉는 1966년 음반 《[Revolver](../Page/Revolver.md "wikilink")》에서 45rpm싱글로 발매된 [비틀즈](../Page/비틀즈.md "wikilink")의 노래이다. 이 곡은 주로 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 쓴 것으로, [레논-매카트니](../Page/레논-매카트니.md "wikilink")가 쓴 것으로 되어 있다.
 
-이 노래는 주로 [로큰롤](https://ko.wikipedia.org/wiki/로큰롤 "wikilink")과 [팝](https://ko.wikipedia.org/wiki/팝_음악 "wikilink") 중심의 행동에서 좀 더 실험적인 스튜디오에 기반을 둔 밴드로 비틀즈를 계속해서 변화시켰다. [조지 마틴의](https://ko.wikipedia.org/wiki/조지_마틴 "wikilink") 이중 현악 사중주곡과 외로움에 대한 인상적인 가사로, 〈Eleanor Rigby〉는 음악적으로나 서정적으로나 [대중 음악](https://ko.wikipedia.org/wiki/대중_음악 "wikilink") 컨벤션과 첨예하게 결별했다.\[1\]
+이 노래는 주로 [로큰롤](../Page/로큰롤.md "wikilink")과 [팝](../Page/팝_음악.md "wikilink") 중심의 행동에서 좀 더 실험적인 스튜디오에 기반을 둔 밴드로 비틀즈를 계속해서 변화시켰다. [조지 마틴의](../Page/조지_마틴.md "wikilink") 이중 현악 사중주곡과 외로움에 대한 인상적인 가사로, 〈Eleanor Rigby〉는 음악적으로나 서정적으로나 [대중 음악](https://ko.wikipedia.org/wiki/대중_음악 "wikilink") 컨벤션과 첨예하게 결별했다.\[1\]
 
 ## 각주
 

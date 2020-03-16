@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AJ](https://ko.wikipedia.org/wiki/AJ).
 
 
-**AJ**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [기업집단](https://ko.wikipedia.org/wiki/기업집단 "wikilink")이다. [아주그룹](https://ko.wikipedia.org/wiki/아주그룹 "wikilink")에서 계열 분리된 아주렌탈이 주측이 되어 출범하게 되었다.
+**AJ**는 [대한민국](../Page/대한민국.md "wikilink")의 [기업집단](https://ko.wikipedia.org/wiki/기업집단 "wikilink")이다. [아주그룹](../Page/아주그룹.md "wikilink")에서 계열 분리된 아주렌탈이 주측이 되어 출범하게 되었다.
 
 故문태식 선대 회장(출생:1928\~2014)이 1960년 설립한 [아주산업](https://ko.wikipedia.org/wiki/아주산업 "wikilink")(주)을 전신으로 한다. 그 후 여러 계열사를 설립하여 아주그룹을 형성하였고, 2007년 렌탈 부분과 오토, 금융부분이 계열 분리가 되었다. 2016년부터 AJ가족이라는 명칭을 각 계열사를 대표해 사용했다.
 

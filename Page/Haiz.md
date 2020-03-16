@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Haiz](https://ko.wikipedia.org/wiki/Haiz).
 
 
-《**Haiz**》(앨범 표기는 **HΔIZ**)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [여배우이자](https://ko.wikipedia.org/wiki/배우 "wikilink") 가수 [헤일리 스타인펠드의](../Page/헤일리_스타인펠드.md "wikilink") 데뷔 EP 음반이다. 이 음반은 2015년 11월 13일에 발매 되었다.\[1\] 이 EP의 선행 싱글 "Love Myself"는 여러 해외 싱글 차트에서 상위 40위를 차지했다. 밴드 [DNCE](../Page/DNCE.md "wikilink")가 피처링한 두 번째 싱글 "Rock Bottom"은 2016년 2월 27일에 발매되었다. EP는 발매와 동시에 긍정적인 평가를 받았으며 북미 지역에서 상업적으로 성공을 거두었다.\[2\]\[3\]
+《**Haiz**》(앨범 표기는 **HΔIZ**)는 [미국](../Page/미국.md "wikilink")의 [여배우이자](../Page/배우.md "wikilink") 가수 [헤일리 스타인펠드의](../Page/헤일리_스타인펠드.md "wikilink") 데뷔 EP 음반이다. 이 음반은 2015년 11월 13일에 발매 되었다.\[1\] 이 EP의 선행 싱글 "Love Myself"는 여러 해외 싱글 차트에서 상위 40위를 차지했다. 밴드 [DNCE](../Page/DNCE.md "wikilink")가 피처링한 두 번째 싱글 "Rock Bottom"은 2016년 2월 27일에 발매되었다. EP는 발매와 동시에 긍정적인 평가를 받았으며 북미 지역에서 상업적으로 성공을 거두었다.\[2\]\[3\]
 
-[캐나디안 앨범 차트에서](https://ko.wikipedia.org/wiki/캐나디안_앨범_차트 "wikilink") 38위와 미국의 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 차트에서 57위로 첫 진입했다. 일본에서만 발표 된 디럭스 에디션은 2016년 [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink") 앨범 차트에서 76위에 데뷔했다.
+[캐나디안 앨범 차트에서](https://ko.wikipedia.org/wiki/캐나디안_앨범_차트 "wikilink") 38위와 미국의 [빌보드 200](../Page/빌보드_200.md "wikilink") 차트에서 57위로 첫 진입했다. 일본에서만 발표 된 디럭스 에디션은 2016년 [오리콘](../Page/오리콘.md "wikilink") 앨범 차트에서 76위에 데뷔했다.
 
 ## 배경
 
@@ -13,7 +13,7 @@
 
 ## 싱글
 
-2015년 8월 7일 *Haiz*의 싱글 앨범과 곧 출시 될 정규 앨범으로 "Love Myself"가 발매 되었다.\[11\] 이 노래는 힘을 실어주는 메시지와 자위를 연상시키는 가사로 미디어의 주목을 받았다.\[12\]\[13\]\[14\] 빌보드 팝송 차트에서 27위로 데뷔한 이 앨범은 "[Torn](https://ko.wikipedia.org/wiki/Torn_\(에드나스왑의_노래\) "wikilink")"이 1998년 26위를 차지한 이후 솔로 여성 아티스트의 가장 높은 데뷔 기록을 세우며 최고 15위를 차지했다.\[15\]\[16\] 또한 [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 차트에서 30위를 차지했으며, 캐나다, 뉴질랜드, 스웨덴 등 6개국의 싱글 차트에서 TOP 40위에 올랐다. EP의 두 번째 싱글인 "Rock Bottom"은 2016년 2월 27일 DNCE가 리믹스한 곡으로 발매되었다.\[17\] EP가 발매 되기 몇 주 전에 "Hell Nos and Headphones"가 컬렉션의 두 번째 싱글으로 선택 되었지만,\[18\]\[19\] "You 're Such A"가 대신 선택되었다.
+2015년 8월 7일 *Haiz*의 싱글 앨범과 곧 출시 될 정규 앨범으로 "Love Myself"가 발매 되었다.\[11\] 이 노래는 힘을 실어주는 메시지와 자위를 연상시키는 가사로 미디어의 주목을 받았다.\[12\]\[13\]\[14\] 빌보드 팝송 차트에서 27위로 데뷔한 이 앨범은 "[Torn](../Page/Torn_\(에드나스왑의_노래\).md "wikilink")"이 1998년 26위를 차지한 이후 솔로 여성 아티스트의 가장 높은 데뷔 기록을 세우며 최고 15위를 차지했다.\[15\]\[16\] 또한 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 30위를 차지했으며, 캐나다, 뉴질랜드, 스웨덴 등 6개국의 싱글 차트에서 TOP 40위에 올랐다. EP의 두 번째 싱글인 "Rock Bottom"은 2016년 2월 27일 DNCE가 리믹스한 곡으로 발매되었다.\[17\] EP가 발매 되기 몇 주 전에 "Hell Nos and Headphones"가 컬렉션의 두 번째 싱글으로 선택 되었지만,\[18\]\[19\] "You 're Such A"가 대신 선택되었다.
 
 ## 트랙 리스트
 
@@ -33,11 +33,11 @@
 <td><p>38</p></td>
 </tr>
 <tr class="even">
-<td><p>일본 앨범 차트(<a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a>)</p></td>
+<td><p>일본 앨범 차트(<a href="../Page/오리콘.md" title="wikilink">오리콘</a>)</p></td>
 <td><p>76</p></td>
 </tr>
 <tr class="odd">
-<td><p>미국 <a href="https://ko.wikipedia.org/wiki/빌보드_200" title="wikilink">빌보드 200</a></p></td>
+<td><p>미국 <a href="../Page/빌보드_200.md" title="wikilink">빌보드 200</a></p></td>
 <td><p>57</p></td>
 </tr>
 <tr class="even">
@@ -84,7 +84,7 @@
 <tr class="even">
 <td><p>필리핀</p></td>
 <td><p>2016년 8월 8일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a></p></td>
 <td></td>
 <td></td>
 </tr>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Don\'t Let Me Down](https://ko.wikipedia.org/wiki/Don\'t_Let_Me_Down).
 
 
-〈**Don't Let Me Down**〉(돈 렛 미 다운)는 1969년 4월 11일 발표된 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink") (with [빌리 프레스턴](https://ko.wikipedia.org/wiki/빌리_프레스턴 "wikilink"))의 싱글 〈Get Back〉의 B 사이드 수록곡이다. [존 레논에](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 의해 작사 · 작곡 됐지만 [레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink")의 명의로 크레디트 되어 발표됐다.
+〈**Don't Let Me Down**〉(돈 렛 미 다운)는 1969년 4월 11일 발표된 [비틀즈](../Page/비틀즈.md "wikilink") (with [빌리 프레스턴](../Page/빌리_프레스턴.md "wikilink"))의 싱글 〈Get Back〉의 B 사이드 수록곡이다. [존 레논에](../Page/존_레논.md "wikilink") 의해 작사 · 작곡 됐지만 [레논-매카트니](../Page/레논-매카트니.md "wikilink")의 명의로 크레디트 되어 발표됐다.
 
 ## 배경 및 작곡
 
@@ -19,11 +19,11 @@
 
 애비로드 스튜디오에서 행해진, 통칭 *Get Back* 세션에서 비틀즈는 이 곡의 여러 버전을 녹음했다. 이 중 1969년 1월 28일 녹음된 버전은 그해 4월과 5월, 차례로 영국과 미국에서 싱글 《Get Back》의 B면 트랙으로 발표됐고, US 차트 최고 35위를 기록했다. 이후 이 버전은 비틀즈의 편집 앨범들 《Hey Jude》, 《1967-1970》, 그리고 《[Past Masters Volume 2](../Page/Past_Masters.md "wikilink")》, 그리고 《Mono Masters》에 포함됐으며 1988년 개봉된 다큐멘터리 영화 《[존 레논의 이메진](../Page/존_레논의_이메진.md "wikilink")》의 사운드 트랙 《[Imagine: John Lennon](../Page/Imagine:_John_Lennon_\(사운드트랙\).md "wikilink")》에도 수록되게 된다.
 
-*Get Back* 셰션 음원들은 [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink") 3월 미국인 프로듀서 [필 스펙터에게](https://ko.wikipedia.org/wiki/필_스펙터 "wikilink") 건네져 다듬어졌고, 《[Let it be](https://ko.wikipedia.org/wiki/Let_It_Be "wikilink")》 라는 이름의 앨범으로 1970년 5월 발표됐다. 하지만 〈Do not Let Me Down〉은 《[Let It Be](https://ko.wikipedia.org/wiki/Let_It_Be "wikilink")》 앨범에서 제외됐다. 원래 〈Do not Let Me Down〉도 《[Let it be](https://ko.wikipedia.org/wiki/Let_It_Be "wikilink")》 앨범에 포함될 예정의 곡이었으나, *Get Back* 세션이 재검토 되면서 필 스펙터에 의해 제외됐다. 2003년 발표된 앨범 《[Let It Be... Naked](https://ko.wikipedia.org/wiki/Let_It_Be..._Naked "wikilink")》에는 《[Let it be](https://ko.wikipedia.org/wiki/Let_It_Be "wikilink")》 앨범에서 제외됐던 〈Do not Let Me Down〉이 1969년 1월 30일 애플 본사에서 행해진 옥상 라이브 공연 버전으로 수록되어 있다. 1970년 5월 개봉된 마이클 린드세이-호그 감독의 영화 《[Let It Be](https://ko.wikipedia.org/wiki/Let_It_Be_\(영화\) "wikilink")》에서도 볼 수 있지만, 옥상 라이브 1회 째의 연주 중 존이 도중에 가사를 잊어버려 순간 재치를 발휘해 틀린 가사를 붙혀 노래 부르고 있기 때문에, 그 부분을 2회째의 연주로 바꿔 편집했다고 한다. (영화 《[Let It Be](https://ko.wikipedia.org/wiki/Let_It_Be_\(영화\) "wikilink")》는 비틀즈의 *Get Back* 세션과 마지막 라이브 공연을 기록하고 있는 다큐멘터리 영화이다.)
+*Get Back* 셰션 음원들은 [1970년](../Page/1970년.md "wikilink") 3월 미국인 프로듀서 [필 스펙터에게](../Page/필_스펙터.md "wikilink") 건네져 다듬어졌고, 《[Let it be](../Page/Let_It_Be.md "wikilink")》 라는 이름의 앨범으로 1970년 5월 발표됐다. 하지만 〈Do not Let Me Down〉은 《[Let It Be](../Page/Let_It_Be.md "wikilink")》 앨범에서 제외됐다. 원래 〈Do not Let Me Down〉도 《[Let it be](../Page/Let_It_Be.md "wikilink")》 앨범에 포함될 예정의 곡이었으나, *Get Back* 세션이 재검토 되면서 필 스펙터에 의해 제외됐다. 2003년 발표된 앨범 《[Let It Be... Naked](../Page/Let_It_Be..._Naked.md "wikilink")》에는 《[Let it be](../Page/Let_It_Be.md "wikilink")》 앨범에서 제외됐던 〈Do not Let Me Down〉이 1969년 1월 30일 애플 본사에서 행해진 옥상 라이브 공연 버전으로 수록되어 있다. 1970년 5월 개봉된 마이클 린드세이-호그 감독의 영화 《[Let It Be](https://ko.wikipedia.org/wiki/Let_It_Be_\(영화\) "wikilink")》에서도 볼 수 있지만, 옥상 라이브 1회 째의 연주 중 존이 도중에 가사를 잊어버려 순간 재치를 발휘해 틀린 가사를 붙혀 노래 부르고 있기 때문에, 그 부분을 2회째의 연주로 바꿔 편집했다고 한다. (영화 《[Let It Be](https://ko.wikipedia.org/wiki/Let_It_Be_\(영화\) "wikilink")》는 비틀즈의 *Get Back* 세션과 마지막 라이브 공연을 기록하고 있는 다큐멘터리 영화이다.)
 
 ## 수용 및 유산
 
-[올뮤직](https://ko.wikipedia.org/wiki/올뮤직 "wikilink")의 리치 언터베르거는 이 곡에 대해 "레논과 요코의 사랑을 구현하고 있으며 영혼의 [엑스터시에](https://ko.wikipedia.org/wiki/황홀감 "wikilink") 도달한 레논의 목소리로 인해 비틀즈의 가장 강력한 사랑 노래들 중 하나로 평가된다"라며 칭찬했다. 올뮤직의 [스티븐 토마스 얼와인은](../Page/스티븐_토마스_얼와인.md "wikilink") 이 곡을 가리켜 "찢어지게 아픈 소울"로서 표현했다. 로이 카와 토니 타일러는 이 곡에 대해 "고통 전문가 존 레논의 훌륭한 울부짐과 비참한 시선이 느껴지는 곡으로 여전히 가장 과소평가된 비틀즈의 노래"라며 칭찬했다. [음악평론가](https://ko.wikipedia.org/wiki/음악평론가 "wikilink") [이언 맥도널드는](../Page/이언_맥도널드.md "wikilink") 이 곡에 대해 "존의 최신 스타일 비틀즈 음반 중 최고의 노래"라며 칭찬했다. 미국의 음악 학자 앨런 W. 폴랙은 이 곡에 대해 "베이스와 리드 기타에 의한 대체 절 사이 옥타브로 연주되는 [대위법](https://ko.wikipedia.org/wiki/대위법 "wikilink") 멜로디는 비틀즈의 어느 곡에서나 볼 수 있는 신기하고 특이한 악기 터치"라며 칭찬했다.\[4\]
+[올뮤직](../Page/올뮤직.md "wikilink")의 리치 언터베르거는 이 곡에 대해 "레논과 요코의 사랑을 구현하고 있으며 영혼의 [엑스터시에](https://ko.wikipedia.org/wiki/황홀감 "wikilink") 도달한 레논의 목소리로 인해 비틀즈의 가장 강력한 사랑 노래들 중 하나로 평가된다"라며 칭찬했다. 올뮤직의 [스티븐 토마스 얼와인은](../Page/스티븐_토마스_얼와인.md "wikilink") 이 곡을 가리켜 "찢어지게 아픈 소울"로서 표현했다. 로이 카와 토니 타일러는 이 곡에 대해 "고통 전문가 존 레논의 훌륭한 울부짐과 비참한 시선이 느껴지는 곡으로 여전히 가장 과소평가된 비틀즈의 노래"라며 칭찬했다. [음악평론가](https://ko.wikipedia.org/wiki/음악평론가 "wikilink") [이언 맥도널드는](../Page/이언_맥도널드.md "wikilink") 이 곡에 대해 "존의 최신 스타일 비틀즈 음반 중 최고의 노래"라며 칭찬했다. 미국의 음악 학자 앨런 W. 폴랙은 이 곡에 대해 "베이스와 리드 기타에 의한 대체 절 사이 옥타브로 연주되는 [대위법](../Page/대위법.md "wikilink") 멜로디는 비틀즈의 어느 곡에서나 볼 수 있는 신기하고 특이한 악기 터치"라며 칭찬했다.\[4\]
 
 ## 수록 앨범
 
@@ -41,25 +41,25 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/Hey_Jude_(비틀즈의_음반)" title="wikilink">Hey Jude</a></p></td>
 <td><p>1970</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애플_레코드" title="wikilink">애플</a></p></td>
+<td><p><a href="../Page/애플_레코드.md" title="wikilink">애플</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1967-1970" title="wikilink">1967-1970</a></p></td>
 <td><p>1973</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애플_레코드" title="wikilink">애플</a></p></td>
+<td><p><a href="../Page/애플_레코드.md" title="wikilink">애플</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Past_Masters.md" title="wikilink">Past Masters Volume 2</a></p>
 <td>
 <p>1988</p>
 </td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐피틀_레코드" title="wikilink">캐피틀</a>/<a href="https://ko.wikipedia.org/wiki/EMI" title="wikilink">EMI</a></p></td>
+<td><p><a href="../Page/캐피틀_레코드.md" title="wikilink">캐피틀</a>/<a href="../Page/EMI.md" title="wikilink">EMI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Past_Masters.md" title="wikilink">Past Masters</a></p></td>
 <td><p>1988</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐피틀_레코드" title="wikilink">캐피틀</a>/<a href="https://ko.wikipedia.org/wiki/EMI" title="wikilink">EMI</a></p></td>
+<td><p><a href="../Page/캐피틀_레코드.md" title="wikilink">캐피틀</a>/<a href="../Page/EMI.md" title="wikilink">EMI</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/Get_Back_and_22_Other_Songs" title="wikilink">Get Back and 22 Other Songs</a> (부트렉)</p></td>
@@ -73,7 +73,7 @@
 <p>1993</p>
 </td>
 <td href="분류:블루스 록">
-<p><a href="https://ko.wikipedia.org/wiki/EMI" title="wikilink">EMI</a></p>
+<p><a href="../Page/EMI.md" title="wikilink">EMI</a></p>
 </td>
 </tr></td>
 </tr>
@@ -85,7 +85,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/The_Ultimate_Box_Set" title="wikilink">The Ultimate Box Set</a></p></td>
 <td><p>1995</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐피틀_레코드" title="wikilink">캐피틀</a></p></td>
+<td><p><a href="../Page/캐피틀_레코드.md" title="wikilink">캐피틀</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/The_Get_Back_Journals_II" title="wikilink">The Get Back Journals II</a> (부트렉)</p></td>
@@ -93,14 +93,14 @@
 <td><p>비고톤</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/Let_It_Be..._Naked" title="wikilink">Let It Be... Naked</a></p></td>
+<td><p><a href="../Page/Let_It_Be..._Naked.md" title="wikilink">Let It Be... Naked</a></p></td>
 <td><p>2003</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애플_레코드" title="wikilink">애플/</a><a href="https://ko.wikipedia.org/wiki/EMI" title="wikilink">EMI</a></p></td>
+<td><p><a href="../Page/애플_레코드.md" title="wikilink">애플/</a><a href="../Page/EMI.md" title="wikilink">EMI</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/The_Beatles_Stereo_Box_Set" title="wikilink">The Beatles Stereo Box Set</a></p></td>
 <td><p>2009</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애플_레코드" title="wikilink">애플/</a><a href="https://ko.wikipedia.org/wiki/EMI" title="wikilink">EMI</a></p></td>
+<td><p><a href="../Page/애플_레코드.md" title="wikilink">애플/</a><a href="../Page/EMI.md" title="wikilink">EMI</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -118,24 +118,24 @@
   - 1974년, [배드 컴퍼니](https://ko.wikipedia.org/wiki/배드_컴퍼니 "wikilink")
   - 1976년, 피비 스노우
   - 1987년, [프리텐더스](https://ko.wikipedia.org/wiki/프리텐더스 "wikilink")
-  - 1988년, [이마와노 키요시로](https://ko.wikipedia.org/wiki/이마와노_키요시로 "wikilink") & [나카이도 레이치](https://ko.wikipedia.org/wiki/나카이도_레이치 "wikilink")
+  - 1988년, [이마와노 키요시로](../Page/이마와노_키요시로.md "wikilink") & [나카이도 레이치](https://ko.wikipedia.org/wiki/나카이도_레이치 "wikilink")
   - 1990년, 레 지노상
   - 1990년, [홀 & 오츠](https://ko.wikipedia.org/wiki/홀_&_오츠 "wikilink")
-  - 1992년, [애니 레녹스](https://ko.wikipedia.org/wiki/애니_레녹스 "wikilink")
+  - 1992년, [애니 레녹스](../Page/애니_레녹스.md "wikilink")
   - 1992년, 샌드맨
   - 1996년, 더 블랙 크로우스
   - 1993년, 라이언 패리스
   - 1998년, 리드
   - 1996년, 리카도 캘리언트
-  - 1999년, [가비지](https://ko.wikipedia.org/wiki/가비지 "wikilink")
+  - 1999년, [가비지](../Page/가비지.md "wikilink")
   - 1999년, 진
 
 </div>
 
 <div style="float:left; width:33%">
 
-  - 2000년, [매치박스 트웬티](https://ko.wikipedia.org/wiki/매치박스_트웬티 "wikilink")
-  - 2001년, [스테레오포닉스](https://ko.wikipedia.org/wiki/스테레오포닉스 "wikilink")
+  - 2000년, [매치박스 트웬티](../Page/매치박스_트웬티.md "wikilink")
+  - 2001년, [스테레오포닉스](../Page/스테레오포닉스.md "wikilink")
   - 2001년, [즈완](https://ko.wikipedia.org/wiki/즈완 "wikilink")
   - 2003년, [폴 웰러](https://ko.wikipedia.org/wiki/폴_웰러 "wikilink")
   - 2004년, [그렉 브라운](https://ko.wikipedia.org/wiki/그렉_브라운 "wikilink")
@@ -147,12 +147,12 @@
   - 2007년, 데이너 푸치스 & 마틴 루더 맥코이
   - 2007년, 자포니칸스
   - 2007년, 토니 사르노
-  - 2008년, [마룬 5](https://ko.wikipedia.org/wiki/마룬_5 "wikilink")
+  - 2008년, [마룬 5](../Page/마룬_5.md "wikilink")
   - 2009년, 수잔 마샬
   - 2011년, 애그로라이츠
   - 2012년, 캐리어 피진스
   - 2012년, 마이클 오치핀티 & 샤인어스
-  - 2012년, [애덤 리바인](https://ko.wikipedia.org/wiki/애덤_리바인 "wikilink")
+  - 2012년, [애덤 리바인](../Page/애덤_리바인.md "wikilink")
   - 2012년, ST
 
 </div>
@@ -166,7 +166,7 @@
   - 2014년, [파올로 누티니](https://ko.wikipedia.org/wiki/파올로_누티니 "wikilink")
   - 2015년, 메간 린제이 & 폴 파우
   - 2015년, 하일리 라인하르트 & 앤더스 그랜
-  - 2015년, [크리스 스테이플턴](https://ko.wikipedia.org/wiki/크리스_스테이플턴 "wikilink") & [쉐릴 크로 &](https://ko.wikipedia.org/wiki/셰릴_크로 "wikilink") [브랜든 플라워스](https://ko.wikipedia.org/wiki/브랜던_플라워스 "wikilink")
+  - 2015년, [크리스 스테이플턴](https://ko.wikipedia.org/wiki/크리스_스테이플턴 "wikilink") & [쉐릴 크로 &](../Page/셰릴_크로.md "wikilink") [브랜든 플라워스](https://ko.wikipedia.org/wiki/브랜던_플라워스 "wikilink")
   - 2015년, 블루스 테이프
   - 2015년, 패서노우머
   - 2016년, 헬멧헤즈
@@ -178,11 +178,11 @@
 
 ## 참여 인원
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink")
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink")
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") – [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink")
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")
-  - [빌리 프레스턴](https://ko.wikipedia.org/wiki/빌리_프레스턴 "wikilink") - [전자 피아노](https://ko.wikipedia.org/wiki/전자_피아노 "wikilink")
+  - [존 레논](../Page/존_레논.md "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink")
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink")
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") – [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink")
+  - [링고 스타](../Page/링고_스타.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")
+  - [빌리 프레스턴](../Page/빌리_프레스턴.md "wikilink") - [전자 피아노](https://ko.wikipedia.org/wiki/전자_피아노 "wikilink")
 
 <!-- end list -->
 

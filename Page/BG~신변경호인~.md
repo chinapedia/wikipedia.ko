@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [BG\~\~](https://ko.wikipedia.org/wiki/BG\~\~).
 
 
-《**BG \~ 신변경호인 \~**》()은, [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 18일부터](https://ko.wikipedia.org/wiki/1월_18일 "wikilink") [3월 15일까지](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 21:00 \~ 21:54에, [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열의 〈[목요드라마](../Page/TV_아사히_목요일_밤_9시_드라마.md "wikilink")〉 시간대에서 방송된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [기무라 타쿠야](https://ko.wikipedia.org/wiki/기무라_타쿠야 "wikilink").
+《**BG \~ 신변경호인 \~**》()은, [2018년](../Page/2018년.md "wikilink") [1월 18일부터](../Page/1월_18일.md "wikilink") [3월 15일까지](../Page/3월_15일.md "wikilink") 매주 [목요일](../Page/목요일.md "wikilink") 21:00 \~ 21:54에, [TV 아사히](../Page/TV_아사히.md "wikilink") 계열의 〈[목요드라마](../Page/TV_아사히_목요일_밤_9시_드라마.md "wikilink")〉 시간대에서 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [기무라 타쿠야](../Page/기무라_타쿠야.md "wikilink").
 
 ## 개요
 
-민간 경비업체 직원이 한 사건을 계기로 공사 현장 [경비원](https://ko.wikipedia.org/wiki/경비원 "wikilink")에서 [보디가드가](https://ko.wikipedia.org/wiki/경호원 "wikilink") 되는 이야기를 그린 드라마.
+민간 경비업체 직원이 한 사건을 계기로 공사 현장 [경비원](../Page/경비원.md "wikilink")에서 [보디가드가](https://ko.wikipedia.org/wiki/경호원 "wikilink") 되는 이야기를 그린 드라마.
 
 ## 캐스트
 
-  - 시마자키 아키라 - [기무라 타쿠야](https://ko.wikipedia.org/wiki/기무라_타쿠야 "wikilink")
-  - 오치아이 요시아키 - [에구치 요스케](https://ko.wikipedia.org/wiki/에구치_요스케 "wikilink")
-  - 타카나시 마사야 - [사이토 타쿠미](https://ko.wikipedia.org/wiki/사이토_타쿠미 "wikilink")
+  - 시마자키 아키라 - [기무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")
+  - 오치아이 요시아키 - [에구치 요스케](../Page/에구치_요스케.md "wikilink")
+  - 타카나시 마사야 - [사이토 타쿠미](../Page/사이토_타쿠미.md "wikilink")
   - 사와구치 세이타로 - [마미야 쇼타로](../Page/마미야_쇼타로.md "wikilink")
   - 무라타 고로 - [카미카와 타카야](https://ko.wikipedia.org/wiki/카미카와_타카야 "wikilink")
   - 히카와 오사무 - [우카지 타카시](https://ko.wikipedia.org/wiki/우카지_타카시 "wikilink")
@@ -21,7 +21,7 @@
   - 각본 - 이노우에 유미코
   - 음악 - 타카미 유
   - 제작 협력 - 5학년D구미
-  - 제작 - [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink")
+  - 제작 - [TV 아사히](../Page/TV_아사히.md "wikilink")
 
 ## 방송 일자
 
@@ -135,7 +135,7 @@
 
 ## 관련 항목
 
-  - [신변 경호인](https://ko.wikipedia.org/wiki/경호 "wikilink")
+  - [신변 경호인](../Page/경호.md "wikilink")
 
 ## 외부 링크
 

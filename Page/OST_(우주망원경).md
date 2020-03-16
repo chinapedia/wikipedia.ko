@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OST \(\)](https://ko.wikipedia.org/wiki/OST_\(\)).
 
 
-**OST**는 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")가 2016년부터 설계를 시작한 적외선 우주망원경이다.\[1\] 목적은 적외선으로 [우리은하](https://ko.wikipedia.org/wiki/우리은하 "wikilink") 관측, [적외선](https://ko.wikipedia.org/wiki/적외선 "wikilink")으로 넓은 우주 관측, [항성 형성과정](https://ko.wikipedia.org/wiki/항성_형성 "wikilink") 등을 밝혀내는 것이 목적이다.\[2\] 현재 [플래그쉽 프로그램에](https://ko.wikipedia.org/wiki/플래그쉽_프로그램 "wikilink") 편입되어 연구가 진행되고 있으며,\[3\] [GSFC](https://ko.wikipedia.org/wiki/GSFC "wikilink")의 연구원들이 연구를 진행하고 있다.\[4\]
+**OST**는 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")가 2016년부터 설계를 시작한 적외선 우주망원경이다.\[1\] 목적은 적외선으로 [우리은하](../Page/우리은하.md "wikilink") 관측, [적외선](../Page/적외선.md "wikilink")으로 넓은 우주 관측, [항성 형성과정](../Page/항성_형성.md "wikilink") 등을 밝혀내는 것이 목적이다.\[2\] 현재 [플래그쉽 프로그램에](https://ko.wikipedia.org/wiki/플래그쉽_프로그램 "wikilink") 편입되어 연구가 진행되고 있으며,\[3\] [GSFC](https://ko.wikipedia.org/wiki/GSFC "wikilink")의 연구원들이 연구를 진행하고 있다.\[4\]
 
 ## 역사와 제작 배경
 
@@ -13,7 +13,7 @@
 
 부경:주경이 반사한 것을 다시 카메라로 찍을 수 있게 도와주는 것이 목적이다.
 
-차광판:[적외선](https://ko.wikipedia.org/wiki/적외선 "wikilink")을 관측해여 온도에 따라 관측 사진이 영향을 많이 받아서 정확한 관측을 하게 도와주는 것이 목적이다.
+차광판:[적외선](../Page/적외선.md "wikilink")을 관측해여 온도에 따라 관측 사진이 영향을 많이 받아서 정확한 관측을 하게 도와주는 것이 목적이다.
 
 ## 발사
 

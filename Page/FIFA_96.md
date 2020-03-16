@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA 96](https://ko.wikipedia.org/wiki/FIFA_96).
 
 
-《**FIFA 96**》은 [일렉트로닉 아츠가](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 개발한 3번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 축구 게임이다.
+《**FIFA 96**》은 [일렉트로닉 아츠가](../Page/일렉트로닉_아츠.md "wikilink") 개발한 3번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 축구 게임이다.
 
 ## 같이 보기
 

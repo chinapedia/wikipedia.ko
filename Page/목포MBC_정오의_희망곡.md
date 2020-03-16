@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
 
 
-**정오의 희망곡 나정희입니다**는 [목포MBC FM4U](https://ko.wikipedia.org/wiki/목포문화방송 "wikilink")(FM 102.3㎒)에서 [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [7월 1일부터](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 현재까지 매일 낮 12시부터 오후 2시까지 방송되는 목포 등 전남 서남부 지역의 대중가요 전문 라디오 프로그램이다.
+**정오의 희망곡 나정희입니다**는 [목포MBC FM4U](../Page/목포문화방송.md "wikilink")(FM 102.3㎒)에서 [1986년](../Page/1986년.md "wikilink") [7월 1일부터](../Page/7월_1일.md "wikilink") 현재까지 매일 낮 12시부터 오후 2시까지 방송되는 목포 등 전남 서남부 지역의 대중가요 전문 라디오 프로그램이다.
 
 ## 코너소개
 
@@ -52,9 +52,9 @@
 
 ### FM방송 (목포MBC FM4U 포함)
 
-  - [생생 클래식](https://ko.wikipedia.org/wiki/생생_클래식 "wikilink") ([KBS목포 음악FM](https://ko.wikipedia.org/wiki/KBS목포방송국 "wikilink"))
-  - [최화정의 파워타임](https://ko.wikipedia.org/wiki/최화정의_파워타임 "wikilink") ([kbc My FM](https://ko.wikipedia.org/wiki/광주방송 "wikilink"))
-  - [TBN 차차차](https://ko.wikipedia.org/wiki/TBN_차차차_\(광주\) "wikilink") ([TBN 광주교통방송](https://ko.wikipedia.org/wiki/광주교통방송 "wikilink"))
+  - [생생 클래식](https://ko.wikipedia.org/wiki/생생_클래식 "wikilink") ([KBS목포 음악FM](../Page/KBS목포방송국.md "wikilink"))
+  - [최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink") ([kbc My FM](../Page/광주방송.md "wikilink"))
+  - [TBN 차차차](https://ko.wikipedia.org/wiki/TBN_차차차_\(광주\) "wikilink") ([TBN 광주교통방송](../Page/광주교통방송.md "wikilink"))
   - 한낮의 휴식, 장수연입니다 ([BBS 광주불교방송](../Page/광주불교방송.md "wikilink"))
   - [광주cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
   - [신부님 신부님 우리 신부님](https://ko.wikipedia.org/wiki/신부님_신부님_우리_신부님 "wikilink") ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
@@ -62,17 +62,17 @@
 
 ### AM방송
 
-  - [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") ([KBS목포 제1라디오](https://ko.wikipedia.org/wiki/KBS목포방송국 "wikilink"))
-  - [오태훈의 시사본부](../Page/시사본부.md "wikilink") ([KBS목포 제1라디오](https://ko.wikipedia.org/wiki/KBS목포방송국 "wikilink"))
-  - [정은지의 가요광장](https://ko.wikipedia.org/wiki/가요광장 "wikilink") ([KBS광주 해피FM](https://ko.wikipedia.org/wiki/KBS광주방송총국 "wikilink"))
-  - [강석, 김혜영의 싱글벙글쇼](https://ko.wikipedia.org/wiki/싱글벙글쇼 "wikilink") ([목포MBC 표준FM](https://ko.wikipedia.org/wiki/목포문화방송 "wikilink"))
+  - [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") ([KBS목포 제1라디오](../Page/KBS목포방송국.md "wikilink"))
+  - [오태훈의 시사본부](../Page/시사본부.md "wikilink") ([KBS목포 제1라디오](../Page/KBS목포방송국.md "wikilink"))
+  - [정은지의 가요광장](../Page/가요광장.md "wikilink") ([KBS광주 해피FM](../Page/KBS광주방송총국.md "wikilink"))
+  - [강석, 김혜영의 싱글벙글쇼](https://ko.wikipedia.org/wiki/싱글벙글쇼 "wikilink") ([목포MBC 표준FM](../Page/목포문화방송.md "wikilink"))
   - [찬양의 꽃다발](https://ko.wikipedia.org/wiki/찬양의_꽃다발 "wikilink") ([광주CBS 표준FM](../Page/기독교광주방송.md "wikilink"))
 
 ## 같이 보기
 
-  - [목포문화방송](https://ko.wikipedia.org/wiki/목포문화방송 "wikilink")
-  - [MBC FM4U](https://ko.wikipedia.org/wiki/MBC_FM4U "wikilink")
-  - [정오의 희망곡 김신영입니다](https://ko.wikipedia.org/wiki/정오의_희망곡 "wikilink")
+  - [목포문화방송](../Page/목포문화방송.md "wikilink")
+  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
+  - [정오의 희망곡 김신영입니다](../Page/정오의_희망곡.md "wikilink")
 
 ## 외부 링크
 

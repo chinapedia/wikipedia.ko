@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
 
 
-[K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink")는 1998년부터 독점 공식 경기구 시대가 시작되었다.\[1\]
+[K리그](../Page/K리그.md "wikilink")는 1998년부터 독점 공식 경기구 시대가 시작되었다.\[1\]
 
 ## 역대 공식 경기구
 
@@ -87,7 +87,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아디다스" title="wikilink">아디다스</a> - <a href="https://ko.wikipedia.org/wiki/리그컵_(대한민국)" title="wikilink">리그컵</a></p></td>
+<td><p><a href="../Page/아디다스.md" title="wikilink">아디다스</a> - <a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></td>
 <td><p>?</p></td>
 <td></td>
 <td></td>
@@ -101,7 +101,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아디다스" title="wikilink">아디다스</a> - <a href="https://ko.wikipedia.org/wiki/리그컵_(대한민국)" title="wikilink">리그컵</a></p></td>
+<td><p><a href="../Page/아디다스.md" title="wikilink">아디다스</a> - <a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></td>
 <td><p>?</p></td>
 <td></td>
 <td></td>
@@ -115,7 +115,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아디다스" title="wikilink">아디다스</a> - <a href="https://ko.wikipedia.org/wiki/리그컵_(대한민국)" title="wikilink">리그컵</a></p></td>
+<td><p><a href="../Page/아디다스.md" title="wikilink">아디다스</a> - <a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아디다스_퀘스트라" title="wikilink">퀘스트라</a> (Questra)</p></td>
 <td><p>[6]</p></td>
 <td></td>
@@ -129,7 +129,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아디다스" title="wikilink">아디다스</a> - <a href="https://ko.wikipedia.org/wiki/리그컵_(대한민국)" title="wikilink">리그컵</a></p></td>
+<td><p><a href="../Page/아디다스.md" title="wikilink">아디다스</a> - <a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></td>
 <td><p>?</p></td>
 <td><p>[8]</p></td>
 <td></td>
@@ -144,7 +144,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아디다스" title="wikilink">아디다스</a> - <a href="https://ko.wikipedia.org/wiki/리그컵_(대한민국)" title="wikilink">리그컵</a></p></td>
+<td><p><a href="../Page/아디다스.md" title="wikilink">아디다스</a> - <a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></td>
 <td><p>?</p></td>
 <td></td>
 <td></td>
@@ -158,7 +158,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아디다스" title="wikilink">아디다스</a> - <a href="https://ko.wikipedia.org/wiki/리그컵_(대한민국)" title="wikilink">리그컵</a></p></td>
+<td><p><a href="../Page/아디다스.md" title="wikilink">아디다스</a> - <a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></td>
 <td><p>?</p></td>
 <td></td>
 <td></td>
@@ -166,7 +166,7 @@
 </tr>
 <tr class="even">
 <td><p>1998</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나이키" title="wikilink">나이키</a></p></td>
+<td><p><a href="../Page/나이키.md" title="wikilink">나이키</a></p></td>
 <td><p>?</p></td>
 <td></td>
 <td></td>
@@ -264,7 +264,7 @@
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아디다스" title="wikilink">아디다스</a></p></td>
+<td><p><a href="../Page/아디다스.md" title="wikilink">아디다스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아디다스_탱고_12" title="wikilink">탱고 12</a> (Tango 12)</p></td>
 <td><p>[11]</p></td>
 <td></td>
@@ -278,7 +278,7 @@
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아디다스_브라주카" title="wikilink">브라주카</a> (Brazuca)</p></td>
+<td><p><a href="../Page/아디다스_브라주카.md" title="wikilink">브라주카</a> (Brazuca)</p></td>
 <td><p>[13]</p></td>
 <td></td>
 <td></td>

@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - 수록곡 중에서 〈\#Cookie Jar〉와 〈’Cause it’s you〉는 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 13일에](https://ko.wikipedia.org/wiki/6월_13일 "wikilink") 선공개되었다\[1\].
+  - 수록곡 중에서 〈\#Cookie Jar〉와 〈’Cause it’s you〉는 [2018년](../Page/2018년.md "wikilink") [6월 13일에](../Page/6월_13일.md "wikilink") 선공개되었다\[1\].
 
 ## 수록 내용
 

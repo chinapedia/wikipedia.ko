@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
 
 
-**정오의 희망곡 정아름입니다**는 [울산MBC FM4U](https://ko.wikipedia.org/wiki/울산문화방송 "wikilink")(FM 98.7㎒)에서 평일 낮 12시부터 오후 2시까지 방송되는 울산 전지역, 양산, 경주 일부 지역의 대중가요 전문 라디오 프로그램이다. [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [9월 1일에](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") [울산MBC FM4U가](https://ko.wikipedia.org/wiki/울산문화방송 "wikilink") 개국하면서 첫방송을 시작한 [울산MBC FM4U의](https://ko.wikipedia.org/wiki/울산문화방송 "wikilink") 최장수 라디오 프로그램이다.
+**정오의 희망곡 정아름입니다**는 [울산MBC FM4U](../Page/울산문화방송.md "wikilink")(FM 98.7㎒)에서 평일 낮 12시부터 오후 2시까지 방송되는 울산 전지역, 양산, 경주 일부 지역의 대중가요 전문 라디오 프로그램이다. [1983년](../Page/1983년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") [울산MBC FM4U가](../Page/울산문화방송.md "wikilink") 개국하면서 첫방송을 시작한 [울산MBC FM4U의](../Page/울산문화방송.md "wikilink") 최장수 라디오 프로그램이다.
 
 ## 코너 소개
 
@@ -54,9 +54,9 @@
   -   -
 ## 같이 보기
 
-  - [울산문화방송](https://ko.wikipedia.org/wiki/울산문화방송 "wikilink")
-  - [MBC FM4U](https://ko.wikipedia.org/wiki/MBC_FM4U "wikilink")
-  - [정오의 희망곡 김신영입니다](https://ko.wikipedia.org/wiki/정오의_희망곡 "wikilink")
+  - [울산문화방송](../Page/울산문화방송.md "wikilink")
+  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
+  - [정오의 희망곡 김신영입니다](../Page/정오의_희망곡.md "wikilink")
 
 ## 외부 링크
 

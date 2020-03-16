@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA 97](https://ko.wikipedia.org/wiki/FIFA_97).
 
 
-《**FIFA 97**》은 [일렉트로닉 아츠가](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 개발한 4번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 축구 게임이다. [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink") [도스](https://ko.wikipedia.org/wiki/도스 "wikilink") 마지막 버전이었다.
+《**FIFA 97**》은 [일렉트로닉 아츠가](../Page/일렉트로닉_아츠.md "wikilink") 개발한 4번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 축구 게임이다. [마이크로소프트](../Page/마이크로소프트.md "wikilink") [도스](../Page/도스.md "wikilink") 마지막 버전이었다.
 
 ## 같이 보기
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SF Express](https://ko.wikipedia.org/wiki/SF_Express).
 
 
-**SF Express**(顺丰速运 이하 순풍)는 중국 최대 규모의 택배 회사이며, [선전증권거래소](https://ko.wikipedia.org/wiki/선전증권거래소 "wikilink") 상장 기업의 이름이다.\[1\] 본사는 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") [선전 시에](https://ko.wikipedia.org/wiki/선전_시 "wikilink") 있다.
+**SF Express**(顺丰速运 이하 순풍)는 중국 최대 규모의 택배 회사이며, [선전증권거래소](https://ko.wikipedia.org/wiki/선전증권거래소 "wikilink") 상장 기업의 이름이다.\[1\] 본사는 [중화인민공화국](../Page/중화인민공화국.md "wikilink") [선전 시에](https://ko.wikipedia.org/wiki/선전_시 "wikilink") 있다.
 
 순풍은 [B2C](https://ko.wikipedia.org/wiki/B2C "wikilink") 택배 사업을 영위하며, 중국내 최다 항공기 보유 택배 회사이다. 소비자 만족도 또한 다른 택배 회사들 보다 높아서 업계 1위에 위치하고 있다. 중국 택배업계 최초로 무인항공기(드론)의 사업 운영권을 따냈으며, 2017년 6월 시범운행을 하였다. 2017년 2월 1일 정태희토신소재(정태신재)(딩타이신차이(鼎泰新材)와의 인수합병을 통해 우회상장 하였다.
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
 
 
-**SBS 금토드라마**는 [SBS에서](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\) "wikilink") 매주 [금요일](https://ko.wikipedia.org/wiki/금요일 "wikilink")과 [토요일](https://ko.wikipedia.org/wiki/토요일 "wikilink")에 밤 10시에 방송되는 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+**SBS 금토드라마**는 [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 매주 [금요일](../Page/금요일.md "wikilink")과 [토요일](../Page/토요일.md "wikilink")에 밤 10시에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").
 
-이후 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [2월 15일부터](https://ko.wikipedia.org/wiki/2월_15일 "wikilink") 첫 작품인 《[열혈사제](https://ko.wikipedia.org/wiki/열혈사제 "wikilink")》의 당초 [SBS 월화드라마에](https://ko.wikipedia.org/wiki/SBS_월화드라마 "wikilink") 편성됐지만 금토드라마를 신설하였다.\[1\] SBS가 토요일 4회 연속 편성된 《[운명과 분노](https://ko.wikipedia.org/wiki/운명과_분노_\(2018년_드라마\) "wikilink")》의 \[2\] 끝으로 [SBS 주말 특별기획 드라마가](https://ko.wikipedia.org/wiki/SBS_주말_특별기획_드라마 "wikilink") 막을 내렸다.
+이후 [2019년](../Page/2019년.md "wikilink") [2월 15일부터](../Page/2월_15일.md "wikilink") 첫 작품인 《[열혈사제](../Page/열혈사제.md "wikilink")》의 당초 [SBS 월화드라마에](../Page/SBS_월화드라마.md "wikilink") 편성됐지만 금토드라마를 신설하였다.\[1\] SBS가 토요일 4회 연속 편성된 《[운명과 분노](../Page/운명과_분노_\(2018년_드라마\).md "wikilink")》의 \[2\] 끝으로 [SBS 주말 특별기획 드라마가](../Page/SBS_주말_특별기획_드라마.md "wikilink") 막을 내렸다.
 
-이전에도 SBS는 2004년부터 2008년까지 2회 연속방송으로, 2011년 주 1회 방송으로 [금요드라마를](https://ko.wikipedia.org/wiki/SBS_금요드라마 "wikilink") 편성한 적이 있었는데, 금요일 시간대만 놓고 보면 약 7년만에 [금요드라마가](https://ko.wikipedia.org/wiki/SBS_금요드라마 "wikilink") 부활한 셈이라고 볼 수 있다.
+이전에도 SBS는 2004년부터 2008년까지 2회 연속방송으로, 2011년 주 1회 방송으로 [금요드라마를](../Page/SBS_금요드라마.md "wikilink") 편성한 적이 있었는데, 금요일 시간대만 놓고 보면 약 7년만에 [금요드라마가](../Page/SBS_금요드라마.md "wikilink") 부활한 셈이라고 볼 수 있다.
 
 ## 방송 시간
 
-현재 방송 시간은 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [12월 13일을](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") 기준으로 한다.
+현재 방송 시간은 [2019년](../Page/2019년.md "wikilink") [12월 13일을](../Page/12월_13일.md "wikilink") 기준으로 한다.
 
 <table>
 <thead>
@@ -69,10 +69,10 @@
 
 | 작품명                                                             | 방송 기간                         | 방송 횟수 | 비고                                   |
 | --------------------------------------------------------------- | ----------------------------- | ----- | ------------------------------------ |
-| [열혈사제](https://ko.wikipedia.org/wiki/열혈사제 "wikilink")           | 2019년 2월 15일 \~ 2019년 4월 20일  | 40부작  | 이 작품부터 **1회당 35분 2회 분할** 편성          |
+| [열혈사제](../Page/열혈사제.md "wikilink")                              | 2019년 2월 15일 \~ 2019년 4월 20일  | 40부작  | 이 작품부터 **1회당 35분 2회 분할** 편성          |
 | [녹두꽃](https://ko.wikipedia.org/wiki/녹두꽃_\(드라마\) "wikilink")     | 2019년 4월 26일 \~ 2019년 7월 13일  | 48부작  | 이 작품까지 **1회당 35분 2회 분할** 편성          |
 | [의사요한](https://ko.wikipedia.org/wiki/의사요한 "wikilink")           | 2019년 7월 19일 \~ 2019년 9월 7일   | 16부작  | 이 작품부터 **1부 40분, 2부 30분 분할** 편성      |
-| [배가본드](https://ko.wikipedia.org/wiki/배가본드_\(드라마\) "wikilink")   | 2019년 9월 20일 \~ 2019년 11월 23일 | 16부작  | 이 작품부터 **1부 및 2부 20분, 3부 30분 분할** 편성 |
+| [배가본드](../Page/배가본드_\(드라마\).md "wikilink")                      | 2019년 9월 20일 \~ 2019년 11월 23일 | 16부작  | 이 작품부터 **1부 및 2부 20분, 3부 30분 분할** 편성 |
 | [스토브리그](https://ko.wikipedia.org/wiki/스토브리그_\(드라마\) "wikilink") | 2019년 12월 13일 \~ 2020년 2월 14일 | 16부작  |                                      |
 |                                                                 |                               |       |                                      |
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Martin_Marty_Shimer_College_2013.jpg "wikilink") **마틴 에밀 마티**(, [1928년](https://ko.wikipedia.org/wiki/1928년 "wikilink") [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [네브래스카](https://ko.wikipedia.org/wiki/네브래스카 "wikilink") 웨스트포인트에서 출생한 [루터란](https://ko.wikipedia.org/wiki/루터란 "wikilink") 신학자이다. 그는 미국에 있는 [종교](https://ko.wikipedia.org/wiki/종교 "wikilink")에 관하여 광범위한 저서들을 출판한 종교학자이다. 그는 [시민 종교에](https://ko.wikipedia.org/wiki/시민_종교 "wikilink") 반대하는 [공적 신학이라는](https://ko.wikipedia.org/wiki/공적_신학 "wikilink") 말을 처음으로 만든 종교학자이다. 컨콜디아 대학교와 [컨콜디아 신학교](https://ko.wikipedia.org/wiki/컨콜디아_신학교 "wikilink") 그리고 [시카코 대학교에서](https://ko.wikipedia.org/wiki/시카고_대학교 "wikilink") 공부하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Martin_Marty_Shimer_College_2013.jpg "wikilink") **마틴 에밀 마티**(, [1928년](../Page/1928년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink") [네브래스카](https://ko.wikipedia.org/wiki/네브래스카 "wikilink") 웨스트포인트에서 출생한 [루터란](https://ko.wikipedia.org/wiki/루터란 "wikilink") 신학자이다. 그는 미국에 있는 [종교](../Page/종교.md "wikilink")에 관하여 광범위한 저서들을 출판한 종교학자이다. 그는 [시민 종교에](../Page/시민_종교.md "wikilink") 반대하는 [공적 신학이라는](https://ko.wikipedia.org/wiki/공적_신학 "wikilink") 말을 처음으로 만든 종교학자이다. 컨콜디아 대학교와 [컨콜디아 신학교](https://ko.wikipedia.org/wiki/컨콜디아_신학교 "wikilink") 그리고 [시카코 대학교에서](../Page/시카고_대학교.md "wikilink") 공부하였다.
 
 ## 참고문헌
 

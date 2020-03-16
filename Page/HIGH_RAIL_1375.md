@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HIGH RAIL 1375](https://ko.wikipedia.org/wiki/HIGH_RAIL_1375).
 
 
-**HIGH RAIL 1375**()는 [동일본여객철도](https://ko.wikipedia.org/wiki/동일본여객철도 "wikilink")(JR 동일본)가 2017년 7월 1일부터 [고우미 선에서](https://ko.wikipedia.org/wiki/고우미_선 "wikilink") 운행하고 있는 임시 쾌속열차이다.
+**HIGH RAIL 1375**()는 [동일본여객철도](../Page/동일본여객철도.md "wikilink")(JR 동일본)가 2017년 7월 1일부터 [고우미 선에서](../Page/고우미_선.md "wikilink") 운행하고 있는 임시 쾌속열차이다.
 
 ## 개요
 
@@ -11,7 +11,7 @@
 
 ## 운행 현황
 
-일반적으로 금요일, 주말, 공휴일에, 여름방학 기간에는 화요일을 제외한 모든 날에 운행된다. [고우미 선의](https://ko.wikipedia.org/wiki/고우미_선 "wikilink") [고부치자와 역](https://ko.wikipedia.org/wiki/고부치자와_역 "wikilink") \~ [고모로 역](../Page/고모로_역.md "wikilink") 사이를 1일 1.5왕복 운전한다. 열차 이름은 낮에 운행되는 1왕복편의 상행이 'HIGH RAIL 2호'(HIGH RAIL 2号), 하행은 'HIGH RAIL 1호'(HIGH RAIL 1号), 야간에 운행되는 하행은 'HIGH RAIL 호시조라'(HIGH RAIL 星空)로, 애칭의 '1375'는 생략된다.
+일반적으로 금요일, 주말, 공휴일에, 여름방학 기간에는 화요일을 제외한 모든 날에 운행된다. [고우미 선의](../Page/고우미_선.md "wikilink") [고부치자와 역](../Page/고부치자와_역.md "wikilink") \~ [고모로 역](../Page/고모로_역.md "wikilink") 사이를 1일 1.5왕복 운전한다. 열차 이름은 낮에 운행되는 1왕복편의 상행이 'HIGH RAIL 2호'(HIGH RAIL 2号), 하행은 'HIGH RAIL 1호'(HIGH RAIL 1号), 야간에 운행되는 하행은 'HIGH RAIL 호시조라'(HIGH RAIL 星空)로, 애칭의 '1375'는 생략된다.
 
 겨울철에는 주말 및 공휴일을 중심으로 고부치자와 역 \~ 고모로 역 간을 1일 1왕복 운전(HIGH RAIL 2호 및 HIGH RAIL 호시조라만 운행됨)하며, 시각도 별도로 마련된 겨울 [다이어그램에](../Page/다이어그램_\(교통\).md "wikilink") 맞추어 변경된다.
 
@@ -23,9 +23,9 @@
 
 ### 정차역
 
-[고부치자와 역](https://ko.wikipedia.org/wiki/고부치자와_역 "wikilink") - [기요사토 역](../Page/기요사토_역.md "wikilink") - [노베야마 역](../Page/노베야마_역.md "wikilink") - [시나노카와카미 역](../Page/시나노카와카미_역.md "wikilink") - [고우미 역](../Page/고우미_역.md "wikilink") - [야치호 역](../Page/야치호_역.md "wikilink") - [우스다 역](../Page/우스다_역.md "wikilink") - [나카고미 역](../Page/나카고미_역.md "wikilink") - [이와무라다 역](../Page/이와무라다_역.md "wikilink") - [사쿠다이라 역](https://ko.wikipedia.org/wiki/사쿠다이라_역 "wikilink") - [고모로 역](../Page/고모로_역.md "wikilink")
+[고부치자와 역](../Page/고부치자와_역.md "wikilink") - [기요사토 역](../Page/기요사토_역.md "wikilink") - [노베야마 역](../Page/노베야마_역.md "wikilink") - [시나노카와카미 역](../Page/시나노카와카미_역.md "wikilink") - [고우미 역](../Page/고우미_역.md "wikilink") - [야치호 역](../Page/야치호_역.md "wikilink") - [우스다 역](../Page/우스다_역.md "wikilink") - [나카고미 역](../Page/나카고미_역.md "wikilink") - [이와무라다 역](../Page/이와무라다_역.md "wikilink") - [사쿠다이라 역](../Page/사쿠다이라_역.md "wikilink") - [고모로 역](../Page/고모로_역.md "wikilink")
 
-  - [고우미 선의](https://ko.wikipedia.org/wiki/고우미_선 "wikilink") [가이오이즈미 역과](../Page/가이오이즈미_역.md "wikilink") [하구로시타 역을](../Page/하구로시타_역.md "wikilink") 제외한 모든 유인역에 정차한다.
+  - [고우미 선의](../Page/고우미_선.md "wikilink") [가이오이즈미 역과](../Page/가이오이즈미_역.md "wikilink") [하구로시타 역을](../Page/하구로시타_역.md "wikilink") 제외한 모든 유인역에 정차한다.
 
 ## 각주
 

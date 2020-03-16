@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA:    98](https://ko.wikipedia.org/wiki/FIFA:____98).
 
 
-《**FIFA 로드 투 월드컵 98**》(FIFA: Road to World Cup 98)은 [일렉트로닉 아츠가](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 개발한 5번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 축구 게임이다. [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink") [윈도우](https://ko.wikipedia.org/wiki/윈도우 "wikilink") 버전 시작하였다.
+《**FIFA 로드 투 월드컵 98**》(FIFA: Road to World Cup 98)은 [일렉트로닉 아츠가](../Page/일렉트로닉_아츠.md "wikilink") 개발한 5번째 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") 축구 게임이다. [마이크로소프트](../Page/마이크로소프트.md "wikilink") [윈도우](https://ko.wikipedia.org/wiki/윈도우 "wikilink") 버전 시작하였다.
 
 ## 같이 보기
 

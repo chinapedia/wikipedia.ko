@@ -3,17 +3,17 @@
 
 |- \! colspan="2" | 오버워치 프로게임팀 |-    |- |}
 
-**Runaway**(러너웨이)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [오버워치](../Page/오버워치.md "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다.
+**Runaway**(러너웨이)은 [대한민국](../Page/대한민국.md "wikilink")의 [오버워치](../Page/오버워치.md "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다.
 
 ## 개요
 
-트위치 스트리머인 러너(윤대훈)가 창단한 [오버워치](../Page/오버워치.md "wikilink") 게임단이다. 현재 공동 소유주는 러너(윤대훈)와 꽃빈(이현아)이다. 원래는 러너(윤대훈)이었으나, [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 19일에](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") 군대를 가게 되면서 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 19일부터](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [10월 19일까지](https://ko.wikipedia.org/wiki/10월_19일 "wikilink") 꽃빈(이현아)가 1년 8개월 동안에 구단주에서 하려다가 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [10월 19일에](https://ko.wikipedia.org/wiki/10월_19일 "wikilink") 꽃빈(이현아)는 Runaway 구단주에서 내려오게 되며, 하지만 러너(윤대훈)가 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [2월 19일부터](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [10월 19일까지](https://ko.wikipedia.org/wiki/10월_19일 "wikilink") 1년 8개월 동안에 [육군](https://ko.wikipedia.org/wiki/육군 "wikilink") 52사단에 있는 예하 동대 상근예비역으로 전역을 하면서부터 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [11월 23일부터](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") **현재**까지 Runaway의 러너(윤대훈)과 꽃빈(이현아)가 러너웨이의 現 공동 소유주가 되었다.
+트위치 스트리머인 러너(윤대훈)가 창단한 [오버워치](../Page/오버워치.md "wikilink") 게임단이다. 현재 공동 소유주는 러너(윤대훈)와 꽃빈(이현아)이다. 원래는 러너(윤대훈)이었으나, [2018년](../Page/2018년.md "wikilink") [2월 19일에](../Page/2월_19일.md "wikilink") 군대를 가게 되면서 [2018년](../Page/2018년.md "wikilink") [2월 19일부터](../Page/2월_19일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [10월 19일까지](../Page/10월_19일.md "wikilink") 꽃빈(이현아)가 1년 8개월 동안에 구단주에서 하려다가 [2019년](../Page/2019년.md "wikilink") [10월 19일에](../Page/10월_19일.md "wikilink") 꽃빈(이현아)는 Runaway 구단주에서 내려오게 되며, 하지만 러너(윤대훈)가 [2018년](../Page/2018년.md "wikilink") [2월 19일부터](../Page/2월_19일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [10월 19일까지](../Page/10월_19일.md "wikilink") 1년 8개월 동안에 [육군](../Page/육군.md "wikilink") 52사단에 있는 예하 동대 상근예비역으로 전역을 하면서부터 [2019년](../Page/2019년.md "wikilink") [11월 23일부터](../Page/11월_23일.md "wikilink") **현재**까지 Runaway의 러너(윤대훈)과 꽃빈(이현아)가 러너웨이의 現 공동 소유주가 되었다.
 
-Runaway의 공식 데뷔전은 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 10일이다](https://ko.wikipedia.org/wiki/10월_10일 "wikilink").
+Runaway의 공식 데뷔전은 [2016년](../Page/2016년.md "wikilink") [10월 10일이다](../Page/10월_10일.md "wikilink").
 
-팀의 색깔은 핑크와 흰색이지만 현재 코치로는 nOrU (김재동) ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [11월 12일](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") \~ )으로 꽃빈(이현아), 러너(윤대훈)([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") \~) Runaway의 공동 소유주를 의한 임명을 받은 코칭스태프이다.
+팀의 색깔은 핑크와 흰색이지만 현재 코치로는 nOrU (김재동) ([2019년](../Page/2019년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") \~ )으로 꽃빈(이현아), 러너(윤대훈)([2019년](../Page/2019년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") \~) Runaway의 공동 소유주를 의한 임명을 받은 코칭스태프이다.
 
-우승 이후에는 서브 스폰서로 [로지텍](https://ko.wikipedia.org/wiki/로지텍 "wikilink")의 후원을 받았다. 또한 스폰서가 아닌 제닉스 크리에이티브에게 게이밍 의자를 기증받았다.
+우승 이후에는 서브 스폰서로 [로지텍](../Page/로지텍.md "wikilink")의 후원을 받았다. 또한 스폰서가 아닌 제닉스 크리에이티브에게 게이밍 의자를 기증받았다.
 
 인텔 APEX 시즌 1때 학살, 퀴드(뜨뜨), 카이저, 모노, 러너, 샤인이 경기에 출전하였다. LW Red를 조별 예선에서 꺾고, 예선에서 1등으로 본선으로 진출하였으나 본선에서 D조 4위로 16강에서 탈락했다.
 

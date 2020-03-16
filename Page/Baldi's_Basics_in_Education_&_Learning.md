@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Baldi\'s Basics in Education \& Learning](https://ko.wikipedia.org/wiki/Baldi\'s_Basics_in_Education_\&_Learning).
 
 
-《**Baldi's Basics in Education & Learning**》은 [인디 게임](https://ko.wikipedia.org/wiki/인디_게임 "wikilink") 개발자 Mystman12(Micah McGonigal)이 제작한 호러 게임이다. 한국에서는 《발디의 수학교실》이라는 팬이름으로도 알려져 있다.
+《**Baldi's Basics in Education & Learning**》은 [인디 게임](../Page/인디_게임.md "wikilink") 개발자 Mystman12(Micah McGonigal)이 제작한 호러 게임이다. 한국에서는 《발디의 수학교실》이라는 팬이름으로도 알려져 있다.
 
 이 게임에서 플레이어는 친구를 대신해 학교에 있는 7공책을 가지러 간 어느 학생을 조종한다. 플레이어는 7공책을 다 찾아야 하는데, 그러기 위해선 우선 You Can Thinkpad에 나오는 수학 문제 3개를 풀어야 한다. 문제를 한개 이상 틀려도 공책은 가져갈 수 있다. 이 선택(문제를 틀리는 횟수)은 게임 난이도에 큰 영향을 미친다. (발디의 자치는속도가 빨라지고 오는속도 도 빨라 진다.)
 
 이 게임은 1인 개발게임이란점이 특이점중 하나이다.
 
-이 게임은 itch.io에 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 공개되었다. 출시되자마자 이 게임은 글, 주제소재, 캐릭터, 악곡, 독창성, 게임방식에 대한 극찬을 받았다.
+이 게임은 itch.io에 [2018년](../Page/2018년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 공개되었다. 출시되자마자 이 게임은 글, 주제소재, 캐릭터, 악곡, 독창성, 게임방식에 대한 극찬을 받았다.
 
 ## 게임 방식
 

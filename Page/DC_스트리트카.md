@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DC ](https://ko.wikipedia.org/wiki/DC_).
 
 
-**DC 스트리트카**(DC Streetcar)는 [워싱턴 D.C.에서](https://ko.wikipedia.org/wiki/워싱턴_D.C. "wikilink") 운행되고 있는 [노면전차](https://ko.wikipedia.org/wiki/노면전차 "wikilink")망이다.  [H 스트리트](https://ko.wikipedia.org/wiki/H_스트리트 "wikilink")(H Street)와 [베닝 로드](https://ko.wikipedia.org/wiki/베닝_로드 "wikilink")(Benning Road) 간을 2.2 마일에 잇는 노선이다.
+**DC 스트리트카**(DC Streetcar)는 [워싱턴 D.C.에서](../Page/워싱턴_D.C..md "wikilink") 운행되고 있는 [노면전차](../Page/노면전차.md "wikilink")망이다.  [H 스트리트](https://ko.wikipedia.org/wiki/H_스트리트 "wikilink")(H Street)와 [베닝 로드](https://ko.wikipedia.org/wiki/베닝_로드 "wikilink")(Benning Road) 간을 2.2 마일에 잇는 노선이다.
 
 현대 전차는 워싱턴 D.C.의 [1962년 이전 옛 전차](https://ko.wikipedia.org/wiki/워싱턴_D.C.의_노면전차 "wikilink") 체계의 해체 이후 최초로 운행되었다. 워싱턴 D.C.는 2009년 [애너코스티어](https://ko.wikipedia.org/wiki/애너코스티어 "wikilink")(Anacostia)와 [베닝](https://ko.wikipedia.org/wiki/베닝_\(워싱턴_D.C.\) "wikilink")(Benning)의 2개 노선이\[1\]\[2\] 노후 상업 지구를 재활성화하기 위해 선정되기 시작했다.\[3\] 이 시스템은 [콜롬비아 특별행정구 교통부](https://ko.wikipedia.org/wiki/콜롬비아_특별행정구_교통부 "wikilink")(DDOT)가 소유하고 있으며, 프랑스 운송회사인 [RATP 그룹이](../Page/파리_교통공단.md "wikilink") 첫 운영 업체로 선정되었다.\[4\]\[5\]\[6\]
 
@@ -15,7 +15,7 @@
 
 D.C. 정부는 이 노선에서 운행하는 여섯 대의 전차를 소유하고 있으며, 두 제조업체가 비슷한 설계를 한 것이다.
 
-101에서 103까지 번호가 매겨진 첫 번째 3대의 노면 전차는 2005년에 주문되었으며 2007년에 애너코스티어 선 대응으로 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink")의 [이네콘](https://ko.wikipedia.org/wiki/이네콘 "wikilink")(Inekon)에서 제조되었으나,\[8\] 워싱턴에 노선 건설이 지연됨에 따라 2009년 12월까지 체코에 머물렀다.\[9\] 이들 모델 12 트리오(model 12 Trio)이다.\[10\]\[11\] 초기 13-001부터 13-003까지 번호가 매겨진(이후 201-203으로 번호가 다시 매겨짐) 두 번째 전차는 이네콘과 [슈코다](https://ko.wikipedia.org/wiki/슈코다_교통 "wikilink")(Škoda)가 공동 개발한 슈코다 디자인([슈코다 10T](https://ko.wikipedia.org/wiki/슈코다_10T "wikilink") 모델)을 기반으로 2013년 미국의 [오리건주](https://ko.wikipedia.org/wiki/오리건주 "wikilink")의 [유나이티드 스트리트카](https://ko.wikipedia.org/wiki/유나이티드_스트리트카 "wikilink")(United Streetcar)\[12\]에서 제조했으며, 공유된 설계 이력은 두 설계간의 유사성을 말해주고 있다.\[13\] 이 모델은 유나이티드 스트리트카 모델 100이다. 첫 번째 유나이티드 차량은 2014년 1월에,\[14\] 2014년 6월에는 3번째로 DC 스트리트카에 전달되었다.\[15\] 시각적으로, 유나이티드 차량은 다른 섬유유리 운전석 칸과 [카울링](https://ko.wikipedia.org/wiki/카울링 "wikilink")이 있는 외관의 이네콘 차량과 다르다. 그러나 총체적인 치수는 동일하다.
+101에서 103까지 번호가 매겨진 첫 번째 3대의 노면 전차는 2005년에 주문되었으며 2007년에 애너코스티어 선 대응으로 [체코](../Page/체코.md "wikilink")의 [이네콘](https://ko.wikipedia.org/wiki/이네콘 "wikilink")(Inekon)에서 제조되었으나,\[8\] 워싱턴에 노선 건설이 지연됨에 따라 2009년 12월까지 체코에 머물렀다.\[9\] 이들 모델 12 트리오(model 12 Trio)이다.\[10\]\[11\] 초기 13-001부터 13-003까지 번호가 매겨진(이후 201-203으로 번호가 다시 매겨짐) 두 번째 전차는 이네콘과 [슈코다](https://ko.wikipedia.org/wiki/슈코다_교통 "wikilink")(Škoda)가 공동 개발한 슈코다 디자인([슈코다 10T](https://ko.wikipedia.org/wiki/슈코다_10T "wikilink") 모델)을 기반으로 2013년 미국의 [오리건주](../Page/오리건주.md "wikilink")의 [유나이티드 스트리트카](https://ko.wikipedia.org/wiki/유나이티드_스트리트카 "wikilink")(United Streetcar)\[12\]에서 제조했으며, 공유된 설계 이력은 두 설계간의 유사성을 말해주고 있다.\[13\] 이 모델은 유나이티드 스트리트카 모델 100이다. 첫 번째 유나이티드 차량은 2014년 1월에,\[14\] 2014년 6월에는 3번째로 DC 스트리트카에 전달되었다.\[15\] 시각적으로, 유나이티드 차량은 다른 섬유유리 운전석 칸과 [카울링](https://ko.wikipedia.org/wiki/카울링 "wikilink")이 있는 외관의 이네콘 차량과 다르다. 그러나 총체적인 치수는 동일하다.
 
 2009년 12월 이후로, 3대의 이네콘 트램 차량이 [메트로의](https://ko.wikipedia.org/wiki/워싱턴_도시권_교통국 "wikilink") 그린벨트 레일 야드(Greenbelt Rail Yard)에 주박했다.\[16\] 각 차량은 폭이 이고 길이가 이며, 각 차량은 3개의 연결부로 1편성을 구성하여,\[17\] [굴절](https://ko.wikipedia.org/wiki/굴절형_차량 "wikilink") 트램으로 알려진 디자인이다.
 
@@ -27,7 +27,7 @@ DDOT가 유나이티드 스트리트카와 2011년 중반 H 스트리트/베닝 
 
 DC 스트리트카에서 제공되는 8곳의 정거장은 아래와 같다.\[23\]
 
-  - [유니언 역](https://ko.wikipedia.org/wiki/유니언_역_\(워싱턴_D.C.\) "wikilink")(Union Station) : [암트랙](https://ko.wikipedia.org/wiki/암트랙 "wikilink"), [MARC 트레인](../Page/MARC_트레인.md "wikilink"), [VRE](https://ko.wikipedia.org/wiki/버지니아_레일웨이_익스프레스 "wikilink"), [메트로](https://ko.wikipedia.org/wiki/워싱턴_메트로 "wikilink") [빨간선과](../Page/레드_라인_\(워싱턴_메트로\).md "wikilink") 환승<small>([메트로 유니언 역](https://ko.wikipedia.org/wiki/유니언_역_\(워싱턴_메트로\) "wikilink"))</small>
+  - [유니언 역](https://ko.wikipedia.org/wiki/유니언_역_\(워싱턴_D.C.\) "wikilink")(Union Station) : [암트랙](../Page/암트랙.md "wikilink"), [MARC 트레인](../Page/MARC_트레인.md "wikilink"), [VRE](https://ko.wikipedia.org/wiki/버지니아_레일웨이_익스프레스 "wikilink"), [메트로](../Page/워싱턴_메트로.md "wikilink") [빨간선과](../Page/레드_라인_\(워싱턴_메트로\).md "wikilink") 환승<small>([메트로 유니언 역](https://ko.wikipedia.org/wiki/유니언_역_\(워싱턴_메트로\) "wikilink"))</small>
   - [3번가](https://ko.wikipedia.org/wiki/3번가_역_\(DC_스트리트카\) "wikilink")(3rd Street)
   - [5번가](https://ko.wikipedia.org/wiki/5번가_역_\(DC_스트리트카\) "wikilink")(5th Street)
   - [8번가](https://ko.wikipedia.org/wiki/8번가_역_\(DC_스트리트카\) "wikilink")(8th Street)
@@ -42,11 +42,11 @@ DC 스트리트카에서 제공되는 8곳의 정거장은 아래와 같다.\[23
   - 34번가(34th Street)
   - 39번가(39th Street)
   - 42번가(42nd Street)
-  - [베닝 로드](https://ko.wikipedia.org/wiki/베닝_로드_역 "wikilink")(Benning Road) : [메트로](https://ko.wikipedia.org/wiki/워싱턴_메트로 "wikilink") [파란선](https://ko.wikipedia.org/wiki/블루_라인_\(워싱턴_메트로\) "wikilink") 및 [은선과](https://ko.wikipedia.org/wiki/실버_라인_\(워싱턴_메트로\) "wikilink") 환승
+  - [베닝 로드](https://ko.wikipedia.org/wiki/베닝_로드_역 "wikilink")(Benning Road) : [메트로](../Page/워싱턴_메트로.md "wikilink") [파란선](https://ko.wikipedia.org/wiki/블루_라인_\(워싱턴_메트로\) "wikilink") 및 [은선과](https://ko.wikipedia.org/wiki/실버_라인_\(워싱턴_메트로\) "wikilink") 환승
 
 ## 같이 보기
 
-  - [노면전차](https://ko.wikipedia.org/wiki/노면전차 "wikilink")
+  - [노면전차](../Page/노면전차.md "wikilink")
 
 ## 각주
 

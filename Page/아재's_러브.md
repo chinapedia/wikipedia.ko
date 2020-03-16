@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [\'s ](https://ko.wikipedia.org/wiki/\'s_).
 
 
-《**아재's 러브**》()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열의 드라마이다. [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")부터 방송되고 있는 텔레비전 드라마 시리즈이다.
+《**아재's 러브**》()는 [일본](../Page/일본.md "wikilink")의 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열의 드라마이다. [2018년](../Page/2018년.md "wikilink")부터 방송되고 있는 텔레비전 드라마 시리즈이다.
 
 ## 개요
 
@@ -27,7 +27,7 @@ SP드라마를 시작으로 점점 이야기를 넓혀가고 있는 아재's 러
 
 ### *주인공 및 히로인*
 
-**하루타 소이치(33→35) - [다나카 케이](https://ko.wikipedia.org/wiki/다나카_케이 "wikilink")**
+**하루타 소이치(33→35) - [다나카 케이](../Page/다나카_케이.md "wikilink")**
 
   -
     인기없는 인생 30년, 갑자기 찾아온 인기의 절정기 하지만 그 상대는 아재?\!
@@ -54,7 +54,7 @@ SP드라마를 시작으로 점점 이야기를 넓혀가고 있는 아재's 러
     보우문방구회사 디자인부 소속
     가사일에 만능이며 하루타와 룸쉐어중. 하루타에게 짝사랑의 마음을 품고 있음.
 
-**미나토 아스카(33) - [미야자와 사에](https://ko.wikipedia.org/wiki/미야자와_사에 "wikilink")**
+**미나토 아스카(33) - [미야자와 사에](../Page/미야자와_사에.md "wikilink")**
 
   -
     하루타와 입사동기
@@ -66,7 +66,7 @@ SP드라마를 시작으로 점점 이야기를 넓혀가고 있는 아재's 러
 
 중심무대 역시 문방구회사에서 텐구부동산으로 바뀌었다.
 
-**마키 료타(25) - [하야시 켄토](https://ko.wikipedia.org/wiki/하야시_켄토 "wikilink")**
+**마키 료타(25) - [하야시 켄토](../Page/하야시_켄토.md "wikilink")**
 
   -
     텐구부동산 본사 개발사업부에서 하루타가 소속된 도쿄 제2영업소로 발령받음
@@ -112,7 +112,7 @@ SP드라마를 시작으로 점점 이야기를 넓혀가고 있는 아재's 러
 
 **2019년 4월 22일**에 극장개봉을 하였으며, 연속드라마 시즌1의 무대와 등장인물을 그대로 가지고 오면서 세계관을 보다 확장시켜 새로운 캐릭터를 투입하였다
 
-**마미아나 진 - [사와무라 잇키](https://ko.wikipedia.org/wiki/사와무라_잇키 "wikilink")**
+**마미아나 진 - [사와무라 잇키](../Page/사와무라_잇키.md "wikilink")**
 
   -
     텐구부동산 본사근무. 신프로젝트 "Genius7"의 리더
@@ -158,7 +158,7 @@ SP드라마를 시작으로 점점 이야기를 넓혀가고 있는 아재's 러
 
   - 각본 - 토쿠오 코지
   - 음악 - 코노 신
-  - 주제가 - [스키마스위치](https://ko.wikipedia.org/wiki/스키마스위치 "wikilink")「Revival」(AUGUSTA RECORDS / UNIVERSAL MUSIC LLC)
+  - 주제가 - [스키마스위치](../Page/스키마스위치.md "wikilink")「Revival」(AUGUSTA RECORDS / UNIVERSAL MUSIC LLC)
   - 기술협력 - 비디오 포커스
   - 제작협력 - as birds
   - 총괄책임자 - 미와 유미코(TV 아사히)
@@ -254,7 +254,7 @@ episode</p></td>
 </tr>
 <tr class="even">
 <td><p>평균시청률 <strong>4.0%</strong><br />
-(시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">간토 지방</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+(시청률은 <a href="../Page/간토_지방.md" title="wikilink">간토 지방</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -343,7 +343,7 @@ episode</p></td>
 </tr>
 <tr class="odd">
 <td><p>평균시청률 4.6%<br />
-(시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">간토 지방</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+(시청률은 <a href="../Page/간토_지방.md" title="wikilink">간토 지방</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>

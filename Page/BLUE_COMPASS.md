@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BLUE COMPASS](https://ko.wikipedia.org/wiki/BLUE_COMPASS).
 
 
-《**BLUE COMPASS**》(블루 콤파스, )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [성우](https://ko.wikipedia.org/wiki/성우 "wikilink")이자 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")인 [미나세 이노리의](../Page/미나세_이노리.md "wikilink") 두 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). ​
+《**BLUE COMPASS**》(블루 콤파스, )는 [일본](../Page/일본.md "wikilink")의 [성우](../Page/성우.md "wikilink")이자 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")인 [미나세 이노리의](../Page/미나세_이노리.md "wikilink") 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). ​
 
 ## 제작, 구성
 
@@ -9,7 +9,7 @@
 
 ## 발매, 프로모션
 
-2018년 5월 23일에 KING AMUSEMENT CREATIVE에서 발매됐다\[2\]. 발매 형태는 초도 한정판 [CD](https://ko.wikipedia.org/wiki/컴팩트_디스크 "wikilink")+[Blu-ray](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink")(KICS-93710), 일반판 CD(KICS-3710)의 두 종류이며 Blu-ray에는 4번째 싱글과 5번째 싱글, 신곡 1곡의 [뮤직 비디오가](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 수록되어 있다\[3\]. 초도 봉입 특전으로 특제 트레이딩 카드가 봉입되어 있는 것 외에 특정 구입처에서 구입한 경우에는 선착순으로 각 체인점마다 [포스터](https://ko.wikipedia.org/wiki/포스터 "wikilink")나 [클리어 파일](https://ko.wikipedia.org/wiki/서류철#클리어_파일_폴더 "wikilink"), [캔배지](https://ko.wikipedia.org/wiki/배지_\(장신구\) "wikilink") 등의 특전이 배포됐다\[4\]. 또, [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")판이 2018년 5월 25일에 워너 뮤직 타이완에서 발매됐다\[5\]. ​
+2018년 5월 23일에 KING AMUSEMENT CREATIVE에서 발매됐다\[2\]. 발매 형태는 초도 한정판 [CD](https://ko.wikipedia.org/wiki/컴팩트_디스크 "wikilink")+[Blu-ray](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink")(KICS-93710), 일반판 CD(KICS-3710)의 두 종류이며 Blu-ray에는 4번째 싱글과 5번째 싱글, 신곡 1곡의 [뮤직 비디오가](../Page/뮤직_비디오.md "wikilink") 수록되어 있다\[3\]. 초도 봉입 특전으로 특제 트레이딩 카드가 봉입되어 있는 것 외에 특정 구입처에서 구입한 경우에는 선착순으로 각 체인점마다 [포스터](https://ko.wikipedia.org/wiki/포스터 "wikilink")나 [클리어 파일](https://ko.wikipedia.org/wiki/서류철#클리어_파일_폴더 "wikilink"), [캔배지](../Page/배지_\(장신구\).md "wikilink") 등의 특전이 배포됐다\[4\]. 또, [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")판이 2018년 5월 25일에 워너 뮤직 타이완에서 발매됐다\[5\]. ​
 
 ## 아트 워크
 
@@ -25,12 +25,12 @@
 
 ## 미디어에서의 사용
 
-| 곡명                                                                                                                                            | [사용된 곳](https://ko.wikipedia.org/wiki/타이_인 "wikilink")                                                                                  | 비고     |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [Ready Steady Go\!](../Page/Ready_Steady_Go!.md "wikilink")                                                                                   | [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열 《[music루 TV](https://ko.wikipedia.org/wiki/music루_TV "wikilink")》 12월 닫는 곡 | \[9\]  |
-| [인터넷 방송](https://ko.wikipedia.org/wiki/인터넷_방송 "wikilink") 《[간간 GA 채널](https://ko.wikipedia.org/wiki/간간_ONLINE#간간_GA_채널 "wikilink")》 제44회 닫는 곡 | \[10\]\[11\]                                                                                                                            |        |
-| [애매모호](https://ko.wikipedia.org/wiki/아이마이모코 "wikilink")                                                                                       | TV 애니메이션 《[심심한 칠드런](https://ko.wikipedia.org/wiki/심심한_칠드런 "wikilink")》 여는 곡                                                             | \[12\] |
-| Million Futures                                                                                                                               | [모바일 게임](https://ko.wikipedia.org/wiki/모바일_게임 "wikilink") 《[괴리성 밀리언아서](https://ko.wikipedia.org/wiki/확산성_밀리언아서 "wikilink")》 신장 주제가      | \[13\] |
+| 곡명                                                                                                                                            | [사용된 곳](https://ko.wikipedia.org/wiki/타이_인 "wikilink")                                                               | 비고     |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------ |
+| [Ready Steady Go\!](../Page/Ready_Steady_Go!.md "wikilink")                                                                                   | [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 《[music루 TV](https://ko.wikipedia.org/wiki/music루_TV "wikilink")》 12월 닫는 곡 | \[9\]  |
+| [인터넷 방송](https://ko.wikipedia.org/wiki/인터넷_방송 "wikilink") 《[간간 GA 채널](https://ko.wikipedia.org/wiki/간간_ONLINE#간간_GA_채널 "wikilink")》 제44회 닫는 곡 | \[10\]\[11\]                                                                                                         |        |
+| [애매모호](https://ko.wikipedia.org/wiki/아이마이모코 "wikilink")                                                                                       | TV 애니메이션 《[심심한 칠드런](https://ko.wikipedia.org/wiki/심심한_칠드런 "wikilink")》 여는 곡                                          | \[12\] |
+| Million Futures                                                                                                                               | [모바일 게임](../Page/모바일_게임.md "wikilink") 《[괴리성 밀리언아서](../Page/확산성_밀리언아서.md "wikilink")》 신장 주제가                         | \[13\] |
 
 ​
 
@@ -66,7 +66,7 @@
 <td></td>
 <td></td>
 <td><p>워너 뮤직 타이완</p></td>
-<td><p>CD+<a href="https://ko.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></p></td>
+<td><p>CD+<a href="../Page/DVD.md" title="wikilink">DVD</a></p></td>
 <td><p>포토북 부록</p></td>
 </tr>
 <tr class="even">
