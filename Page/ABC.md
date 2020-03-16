@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [ABC](https://ko.wikipedia.org/wiki/ABC).
 
 
-**ABC**는 [로마자](https://ko.wikipedia.org/wiki/로마자 "wikilink")의 첫 세 글자로, 다른 뜻으로는 다음이 있다.
+**ABC**는 [로마자](../Page/로마자.md "wikilink")의 첫 세 글자로, 다른 뜻으로는 다음이 있다.
 
 ## 방송
 
-  - [ABC](https://ko.wikipedia.org/wiki/ABC_\(미국의_방송사\) "wikilink")()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 방송사이다.
-  - [ABC](https://ko.wikipedia.org/wiki/오스트레일리아_방송_협회 "wikilink")()는 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")의 방송사이다.
-  - [ABC](https://ko.wikipedia.org/wiki/TV5_\(필리핀\) "wikilink")()는 [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink")의 방송사이며 TV5라고도 불린다.
-  - [ABC](https://ko.wikipedia.org/wiki/아사히_방송 "wikilink")(Asahi Broadcasting Corporation)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 방송사인 [아사히 방송 주식회사](https://ko.wikipedia.org/wiki/아사히_방송 "wikilink")()의 약자이다.
+  - [ABC](../Page/ABC_\(미국의_방송사\).md "wikilink")()는 [미국](../Page/미국.md "wikilink")의 방송사이다.
+  - [ABC](../Page/오스트레일리아_방송_협회.md "wikilink")()는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 방송사이다.
+  - [ABC](https://ko.wikipedia.org/wiki/TV5_\(필리핀\) "wikilink")()는 [필리핀](../Page/필리핀.md "wikilink")의 방송사이며 TV5라고도 불린다.
+  - [ABC](../Page/아사히_방송.md "wikilink")(Asahi Broadcasting Corporation)는 [일본](../Page/일본.md "wikilink")의 방송사인 [아사히 방송 주식회사](../Page/아사히_방송.md "wikilink")()의 약자이다.
 
 ## 음악
 
@@ -27,9 +27,9 @@
 
   - [ABC 3국은](https://ko.wikipedia.org/wiki/ABC_3국 "wikilink") 남아메리카에 위치한 아르헨티나와 브라질, 칠레를 가리키는 용어이다.
   - [ABC 제도는](https://ko.wikipedia.org/wiki/ABC_제도 "wikilink") 카리브 해에 위치한 네덜란드령의 섬인 아루바, 보네르 섬, 퀴라소의 총칭이다.
-  - [ABC는](https://ko.wikipedia.org/wiki/ABC_\(프로그래밍_언어\) "wikilink") 프로그래밍 언어로 뒷날 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink")에 큰 영향을 끼쳤다.
+  - [ABC는](../Page/ABC_\(프로그래밍_언어\).md "wikilink") 프로그래밍 언어로 뒷날 [파이썬](../Page/파이썬.md "wikilink")에 큰 영향을 끼쳤다.
   - ABC(Abstract Base Class)는 추상 기본 클래스로, 모든 하위 클래스의 공통 부분을 정의한 클래스다. 보통 직접 인스턴스화되지 않고 임의 파생 클래스의 인스턴스를 참조한다.
-  - [ABC](https://ko.wikipedia.org/wiki/활동기준_원가계산 "wikilink")(Activity-Based Costing)는 [활동기준 원가계산의](https://ko.wikipedia.org/wiki/활동기준_원가계산 "wikilink") 약어이다.
+  - [ABC](../Page/활동기준_원가계산.md "wikilink")(Activity-Based Costing)는 [활동기준 원가계산의](../Page/활동기준_원가계산.md "wikilink") 약어이다.
   - [ABC](https://ko.wikipedia.org/wiki/아타나소프-베리_컴퓨터 "wikilink")(Atanasoff–Berry Computer)는 세계 최초의 전자식 컴퓨터 [아타나소프-베리 컴퓨터의](https://ko.wikipedia.org/wiki/아타나소프-베리_컴퓨터 "wikilink") 약어이다.
   - [화생방 무기](https://ko.wikipedia.org/wiki/대량_살상_무기 "wikilink")(ABC)는 국지전에서 대량 학살을 동반하는 무기를 일컬으며, 주로 전술 및 전략적 목적으로 사용된다.
   - [ABC](https://ko.wikipedia.org/wiki/ABC_\(매체량공사기구\) "wikilink")()는 매체량공사기구이다.

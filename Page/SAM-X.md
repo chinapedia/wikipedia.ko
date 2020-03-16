@@ -57,7 +57,7 @@ KAMD 체계는 다음과 같이 구성될 것이다.\[9\]
 ## 관련 항목
 
   - [KM-SAM](https://ko.wikipedia.org/wiki/KM-SAM "wikilink")
-  - [S-300](https://ko.wikipedia.org/wiki/S-300 "wikilink")
+  - [S-300](../Page/S-300.md "wikilink")
   - [패트리어트 미사일](https://ko.wikipedia.org/wiki/패트리어트_미사일 "wikilink")
 
 [분류:대한민국의 지대공유도탄](https://ko.wikipedia.org/wiki/분류:대한민국의_지대공유도탄 "wikilink") [분류:탄도탄 요격유도탄](https://ko.wikipedia.org/wiki/분류:탄도탄_요격유도탄 "wikilink")

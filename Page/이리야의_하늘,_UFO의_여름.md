@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ , UFO ](https://ko.wikipedia.org/wiki/_,_UFO_).
 
 
-《**이리야의 하늘, UFO의 여름**》()은 [아키야마 미즈히토의](https://ko.wikipedia.org/wiki/아키야마_미즈히토 "wikilink") 작품으로 이야기는 전형적인 “Boy Meet Girl(소녀, 소년을 만나다)”식의 내용을 내세우고 있지만, 전체적으로는 학원 [SF](https://ko.wikipedia.org/wiki/과학_소설 "wikilink") [미스테리](https://ko.wikipedia.org/wiki/미스테리 "wikilink")물이다. 원작인 소설은 전 4권으로 완결을 맺었고, 애니메이션(OVA)는 전 6화로 완결되었다. 또한 라디오 드라마나 게임으로서도 방송/발매되어 있다. [세카이계](https://ko.wikipedia.org/wiki/세카이계 "wikilink")의 대표작으로 손꼽히는 작품이다.
+《**이리야의 하늘, UFO의 여름**》()은 [아키야마 미즈히토의](https://ko.wikipedia.org/wiki/아키야마_미즈히토 "wikilink") 작품으로 이야기는 전형적인 “Boy Meet Girl(소녀, 소년을 만나다)”식의 내용을 내세우고 있지만, 전체적으로는 학원 [SF](https://ko.wikipedia.org/wiki/과학_소설 "wikilink") [미스테리](https://ko.wikipedia.org/wiki/미스테리 "wikilink")물이다. 원작인 소설은 전 4권으로 완결을 맺었고, 애니메이션(OVA)는 전 6화로 완결되었다. 또한 라디오 드라마나 게임으로서도 방송/발매되어 있다. [세카이계](../Page/세카이계.md "wikilink")의 대표작으로 손꼽히는 작품이다.
 
 ## 줄거리
 
@@ -14,13 +14,13 @@
 ※ 성우는 OVA의 성우
 
   - 아사바 나오유키()
-    성우 - [나미카와 다이스케](https://ko.wikipedia.org/wiki/나미카와_다이스케 "wikilink")
+    성우 - [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")
     소노하라 중학교 2학년 4반 1번이며 소노하라 전파신문부원. 유우부단하고 주변 상황에 잘 흘려가는 성격으로 부장인 스이센지에게 항상 휘둘리는 나날을 보내고 있다. 소노하라 기지를 관찰했던 여름방학의 마지막 날, 이리야와 만난 것을 계기로 비일상에 접어들기 시작한다. 집이 이발소인 관계로 항상 이발도구를 가지고 다니며, 운동부원들에게 이발을 해주기도 한다.
 
 <!-- end list -->
 
   - 이리야 카나()
-    성우 - [노나카 아이](https://ko.wikipedia.org/wiki/노나카_아이 "wikilink")
+    성우 - [노나카 아이](../Page/노나카_아이.md "wikilink")
     여름방학 마지막 날, 아사바가 학교 수영장에서 만난 양 팔목에 금속구가 박혀있는 신비한 소녀로, 개학 후 아사바의 반에 전학오지만 "저리 가" 사건으로 인해 고립되고 말았다. 전학오기 전에는 항공자위대 소속의 오빠와 타 기지에 있었다고 한다. 그 외 코피를 자주 흘리거나 의식을 잃기도 하고, 커다란 스포츠백에 많은 약과 [권총](https://ko.wikipedia.org/wiki/권총 "wikilink")을 넣어 다니는 등, 여러가지 수수께끼를 안고 있다.
 
 <!-- end list -->
@@ -32,7 +32,7 @@
 <!-- end list -->
 
   - 스이센지 쿠니히로()
-    성우 - [카미야 히로시](https://ko.wikipedia.org/wiki/카미야_히로시 "wikilink")
+    성우 - [카미야 히로시](../Page/카미야_히로시.md "wikilink")
     소노하라 전파신문부의 부장을 맡고 있는 소노하라 중학교 3학년 2반 12번. 장래희망에 당당히 [CIA를](https://ko.wikipedia.org/wiki/미국_중앙정보국 "wikilink") 적을 정도로 별난 인물이다. 전자기기의 취급에 재주가 있다. 무언가의 진실을 파헤치는 일에 흥미를 두고 있으며, 그 흥미거리는 매번 바뀐다. 현재(소설의 배경이 되고있는 여름)의 흥미거리는 [UFO이며](https://ko.wikipedia.org/wiki/미확인_비행_물체 "wikilink"), 그 전의 봄에는 심령 현상이었으며, 그 전의 겨울에는 초능력(ESP)였다고 한다. 집안이 넓은 땅을 가진 대지주이다.
 
 <!-- end list -->
@@ -79,7 +79,7 @@
 
 ## 출판 정보
 
-본 작품은 미디어웍스(Media Works)의 전격 문고(電撃文庫)에서 출간된 작품이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 대원씨아이의 [NT 노벨](https://ko.wikipedia.org/wiki/NT_노벨 "wikilink") 브랜드를 통해 출간되었으며, 이후 소장을 위한 묶음판이 발매되기도 하였다.
+본 작품은 미디어웍스(Media Works)의 전격 문고(電撃文庫)에서 출간된 작품이다. [대한민국](../Page/대한민국.md "wikilink")에서는 대원씨아이의 [NT 노벨](../Page/NT_노벨.md "wikilink") 브랜드를 통해 출간되었으며, 이후 소장을 위한 묶음판이 발매되기도 하였다.
 
   - 지음: [아키야마 미즈히토](https://ko.wikipedia.org/wiki/아키야마_미즈히토 "wikilink")
   - 그림: [고마쓰 에지](https://ko.wikipedia.org/wiki/고마쓰_에지 "wikilink")
@@ -87,14 +87,14 @@
 
 <!-- end list -->
 
-  - 이리야의 하늘, UFO의 여름 - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") ()
-  - 이리야의 하늘, UFO의 여름 - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") ()
-  - 이리야의 하늘, UFO의 여름 - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [7월 15일](https://ko.wikipedia.org/wiki/7월_15일 "wikilink") ()
-  - 이리야의 하늘, UFO의 여름 - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") ()
+  - 이리야의 하늘, UFO의 여름 - [2002년](../Page/2002년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") ()
+  - 이리야의 하늘, UFO의 여름 - [2003년](../Page/2003년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") ()
+  - 이리야의 하늘, UFO의 여름 - [2003년](../Page/2003년.md "wikilink") [7월 15일](../Page/7월_15일.md "wikilink") ()
+  - 이리야의 하늘, UFO의 여름 - [2004년](../Page/2004년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") ()
 
 ## OVA
 
-[소설](https://ko.wikipedia.org/wiki/소설 "wikilink")의 내용 전체를 정리하여 6개를 뽑아 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")화 하였다. 제작사는 [도에이 애니메이션](https://ko.wikipedia.org/wiki/도에이_애니메이션 "wikilink")
+[소설](../Page/소설.md "wikilink")의 내용 전체를 정리하여 6개를 뽑아 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")화 하였다. 제작사는 [도에이 애니메이션](../Page/도에이_애니메이션.md "wikilink")
 
 ### 부제목
 
@@ -117,7 +117,7 @@
 
 ## 같이 보기
 
-  - [NT 노벨](https://ko.wikipedia.org/wiki/NT_노벨 "wikilink")
+  - [NT 노벨](../Page/NT_노벨.md "wikilink")
   - [고양이의 지구의](https://ko.wikipedia.org/wiki/고양이의_지구의 "wikilink")
 
 ## 외부 링크

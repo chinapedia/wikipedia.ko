@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AMX-13](https://ko.wikipedia.org/wiki/AMX-13).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:AMX-13-latrun-2.jpg "wikilink") **AMX-13**은 [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 후에 [프랑스 육군용으로](https://ko.wikipedia.org/wiki/프랑스_육군 "wikilink") [1953년](https://ko.wikipedia.org/wiki/1953년 "wikilink")부터 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")까지 생산된 경전차로, 프랑스 외에 25개국에서 사용되었다. 시험형 및 수출용을 포함하여, [자주포](https://ko.wikipedia.org/wiki/자주포 "wikilink"), [자주대공포](../Page/자주대공포.md "wikilink"), [병력수송장갑차](https://ko.wikipedia.org/wiki/병력수송장갑차 "wikilink"), [TOW](https://ko.wikipedia.org/wiki/TOW "wikilink") 및 [대전차미사일](https://ko.wikipedia.org/wiki/대전차미사일 "wikilink") 탑재차량 등의 파생형이 있다. AMX-13 시리즈의 총 생산량은 7,700여대이며, 그중 3,400여대가 수출되었다.
+[thumb](https://ko.wikipedia.org/wiki/파일:AMX-13-latrun-2.jpg "wikilink") **AMX-13**은 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 후에 [프랑스 육군용으로](https://ko.wikipedia.org/wiki/프랑스_육군 "wikilink") [1953년](../Page/1953년.md "wikilink")부터 [1985년](../Page/1985년.md "wikilink")까지 생산된 경전차로, 프랑스 외에 25개국에서 사용되었다. 시험형 및 수출용을 포함하여, [자주포](../Page/자주포.md "wikilink"), [자주대공포](../Page/자주대공포.md "wikilink"), [병력수송장갑차](../Page/병력수송장갑차.md "wikilink"), [TOW](https://ko.wikipedia.org/wiki/TOW "wikilink") 및 [대전차미사일](https://ko.wikipedia.org/wiki/대전차미사일 "wikilink") 탑재차량 등의 파생형이 있다. AMX-13 시리즈의 총 생산량은 7,700여대이며, 그중 3,400여대가 수출되었다.
 
 ## 제원
 
@@ -23,7 +23,7 @@
   - 참호 통과 능력 : 1.6 m
   - 경사도 : 60 %
   - 측면 경사 : 60 %
-  - [NBC](https://ko.wikipedia.org/wiki/NBC "wikilink") 시스템: 없음
+  - [NBC](../Page/NBC.md "wikilink") 시스템: 없음
   - 야시경 : 선택 사양
 
 ## 파생형
@@ -43,7 +43,7 @@
 
 ### 국가별
 
-  - AMX-13/FL-12 - 네덜란드군용 버전. [서치라이트](https://ko.wikipedia.org/wiki/서치라이트 "wikilink")와 [FN MAG](https://ko.wikipedia.org/wiki/FN_MAG "wikilink") 기관총 장착
+  - AMX-13/FL-12 - 네덜란드군용 버전. [서치라이트](https://ko.wikipedia.org/wiki/서치라이트 "wikilink")와 [FN MAG](../Page/FN_MAG.md "wikilink") 기관총 장착
   - AMX-13/FL-15 - 네덜란드군의 FL12에 FL-15 포탑을 장착한 것
   - AMX-13S - 싱가포르군용 버전. SM-1으로 업그레이드하기 전의 생산형이다.
   - AMX-13 SM1 - 싱가포르군이 현대화 개수를 한 AMX13.

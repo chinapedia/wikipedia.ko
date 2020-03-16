@@ -7,10 +7,10 @@
 
 ## 제원
 
-원래는 [AGM-78 스탠더드 ARM](https://ko.wikipedia.org/wiki/AGM-78_스탠더드_ARM "wikilink") 시스템을 교체하기 위해 개발하였다.
+원래는 [AGM-78 스탠더드 ARM](../Page/AGM-78_스탠더드_ARM.md "wikilink") 시스템을 교체하기 위해 개발하였다.
 
   - **기능**: 공대지 대레이다 미사일 (적의 레이다를 찾아내고 공격하는 미사일)
-  - **계약자**: [텍사스 인스트루먼츠](https://ko.wikipedia.org/wiki/텍사스_인스트루먼츠 "wikilink") 개발. [레이시온](https://ko.wikipedia.org/wiki/레이시온 "wikilink")에서 회사 인수 후 생산.
+  - **계약자**: [텍사스 인스트루먼츠](https://ko.wikipedia.org/wiki/텍사스_인스트루먼츠 "wikilink") 개발. [레이시온](../Page/레이시온.md "wikilink")에서 회사 인수 후 생산.
   - **엔진**: [Thiokol](https://ko.wikipedia.org/wiki/Thiokol "wikilink") dual-thrust, solid-propellant [rocket engine](https://ko.wikipedia.org/wiki/rocket_engine "wikilink")
   - **길이**: 4.1m (13 ft 8 in)
   - **발사중량**: 360 kg (800 lb)
@@ -21,7 +21,7 @@
   - **유도방식**: 레이다 유도방식
   - **탄두**: Blast fragmentation; warhead weight 68 kg (150 lb)
   - **단가**: US$284,000
-  - **실전배치일**: [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")
+  - **실전배치일**: [1985년](../Page/1985년.md "wikilink")
 
 ## 더 보기
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAAN ](https://ko.wikipedia.org/wiki/HAAN_).
 
 
-《**HAAN 한길수**》는 [태평양 전쟁](https://ko.wikipedia.org/wiki/태평양_전쟁 "wikilink") 발발 직전, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [진주만 공격을](https://ko.wikipedia.org/wiki/진주만_공격 "wikilink") 미국에 알리려고 했던 한국인 독립운동가 [한길수](https://ko.wikipedia.org/wiki/한길수 "wikilink")를 다룬 영화로, [안재모](https://ko.wikipedia.org/wiki/안재모 "wikilink")가 한길수 역을 맡았다. 이 영화는 영화 구성의 허술함으로 인해 흥행 성적은 저조하다.
+《**HAAN 한길수**》는 [태평양 전쟁](../Page/태평양_전쟁.md "wikilink") 발발 직전, [일본](../Page/일본.md "wikilink")의 [진주만 공격을](../Page/진주만_공격.md "wikilink") 미국에 알리려고 했던 한국인 독립운동가 [한길수](../Page/한길수.md "wikilink")를 다룬 영화로, [안재모](../Page/안재모.md "wikilink")가 한길수 역을 맡았다. 이 영화는 영화 구성의 허술함으로 인해 흥행 성적은 저조하다.
 
 ## 줄거리
 
@@ -9,8 +9,8 @@
 
 ## 등장인물
 
-  - [안재모](https://ko.wikipedia.org/wiki/안재모 "wikilink") : 한길수 역
-  - [임유진](https://ko.wikipedia.org/wiki/임유진_\(1981년\) "wikilink") : 나나미 / 윤지인 역
+  - [안재모](../Page/안재모.md "wikilink") : 한길수 역
+  - [임유진](../Page/임유진_\(1981년\).md "wikilink") : 나나미 / 윤지인 역
   - [고정일](../Page/고정일.md "wikilink") : 요시카와 역
   - [서미영](../Page/서미영.md "wikilink") : 미에코 역
   - [이영석](https://ko.wikipedia.org/wiki/이영석 "wikilink") : 카페모토 역
@@ -18,7 +18,7 @@
   - [신우철](https://ko.wikipedia.org/wiki/신우철_\(배우\) "wikilink") : 김동석 역
   - [정민성](../Page/정민성_\(배우\).md "wikilink") : 김동지 역
   - [송승용](https://ko.wikipedia.org/wiki/송승용 "wikilink") : 박동지 역
-  - [정종렬](https://ko.wikipedia.org/wiki/정종렬 "wikilink") : 와타나베 역
+  - [정종렬](../Page/정종렬.md "wikilink") : 와타나베 역
   - [박영](https://ko.wikipedia.org/wiki/박영_\(배우\) "wikilink") : 외무장관 역
   - [지상민](https://ko.wikipedia.org/wiki/지상민 "wikilink") : 다케오 역
   - [신국](https://ko.wikipedia.org/wiki/신국_\(1947년\) "wikilink") : 50대 한인교인 역
@@ -34,9 +34,9 @@
 
 ## 더 읽어보기
 
-  - [한길수](https://ko.wikipedia.org/wiki/한길수 "wikilink")
-  - [진주만 공격](https://ko.wikipedia.org/wiki/진주만_공격 "wikilink")
+  - [한길수](../Page/한길수.md "wikilink")
+  - [진주만 공격](../Page/진주만_공격.md "wikilink")
 
 [분류:2005년 영화](https://ko.wikipedia.org/wiki/분류:2005년_영화 "wikilink") [분류:대한민국의 영화 작품](https://ko.wikipedia.org/wiki/분류:대한민국의_영화_작품 "wikilink") [분류:한국어 영화 작품](https://ko.wikipedia.org/wiki/분류:한국어_영화_작품 "wikilink") [분류:대한민국의 액션 영화](https://ko.wikipedia.org/wiki/분류:대한민국의_액션_영화 "wikilink") [분류:대한민국의 드라마 영화](https://ko.wikipedia.org/wiki/분류:대한민국의_드라마_영화 "wikilink") [분류:액션 영화](https://ko.wikipedia.org/wiki/분류:액션_영화 "wikilink") [분류:드라마 영화](https://ko.wikipedia.org/wiki/분류:드라마_영화 "wikilink") [분류:태평양 전쟁 영화](https://ko.wikipedia.org/wiki/분류:태평양_전쟁_영화 "wikilink") [분류:전기 영화](https://ko.wikipedia.org/wiki/분류:전기_영화 "wikilink") [분류:역사 영화](https://ko.wikipedia.org/wiki/분류:역사_영화 "wikilink") [분류:실화에 바탕한 영화](https://ko.wikipedia.org/wiki/분류:실화에_바탕한_영화 "wikilink")
 
-1.  [첩보액션 한길수](http://media.daum.net/entertain/enews/view?cateid=1034&newsid=20050923003017413&p=segye) [세계일보](https://ko.wikipedia.org/wiki/세계일보 "wikilink") 2005년 9월 23일
+1.  [첩보액션 한길수](http://media.daum.net/entertain/enews/view?cateid=1034&newsid=20050923003017413&p=segye) [세계일보](../Page/세계일보.md "wikilink") 2005년 9월 23일

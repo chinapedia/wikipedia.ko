@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ctypes](https://ko.wikipedia.org/wiki/Ctypes).
 
 
-**ctypes**는 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink")의 [외부 함수 인터페이스](../Page/외부_함수_인터페이스.md "wikilink")(FFI) 라이브러리로, 파이썬 2.5부터 기본으로 포함되어 있다. [윈도의](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [DLL](https://ko.wikipedia.org/wiki/DLL "wikilink")과 같은 [동적 라이브러리에](https://ko.wikipedia.org/wiki/동적_라이브러리 "wikilink") 있는 함수를 직접 호출할 수 있으며, 다양한 C 자료형을 다루기 위한 인터페이스를 제공한다. 이를 사용해 순수 파이썬 코드만으로 확장 모듈을 구현할 수도 있다.
+**ctypes**는 [파이썬](../Page/파이썬.md "wikilink")의 [외부 함수 인터페이스](../Page/외부_함수_인터페이스.md "wikilink")(FFI) 라이브러리로, 파이썬 2.5부터 기본으로 포함되어 있다. [윈도의](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [DLL](https://ko.wikipedia.org/wiki/DLL "wikilink")과 같은 [동적 라이브러리에](https://ko.wikipedia.org/wiki/동적_라이브러리 "wikilink") 있는 함수를 직접 호출할 수 있으며, 다양한 C 자료형을 다루기 위한 인터페이스를 제공한다. 이를 사용해 순수 파이썬 코드만으로 확장 모듈을 구현할 수도 있다.
 
 ## 예제
 
@@ -18,7 +18,7 @@ hello world
 hello world
 ```
 
-ctypes는 별도로 함수 원형을 지정하지 않아도 내부적으로 스택을 조사하여 함수의 원형을 확인하려 시도하며, 윈도 같은 환경에서는 [세그먼트 위반](https://ko.wikipedia.org/wiki/세그멘테이션_오류 "wikilink") 같은 치명적인 오류를 예외로 처리해 준다.
+ctypes는 별도로 함수 원형을 지정하지 않아도 내부적으로 스택을 조사하여 함수의 원형을 확인하려 시도하며, 윈도 같은 환경에서는 [세그먼트 위반](../Page/세그멘테이션_오류.md "wikilink") 같은 치명적인 오류를 예외로 처리해 준다.
 
 ``` python
 >>> cdll.msvcrt.strlen(None)

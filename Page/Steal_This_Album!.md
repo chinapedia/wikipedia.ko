@@ -3,7 +3,7 @@
 
 《**Steal This Album\!**》은 [시스템 오브 어 다운의](../Page/시스템_오브_어_다운.md "wikilink") 음반이다. 빌보드 200 차트에서 15위에 올랐다.
 
-《[Toxicity](https://ko.wikipedia.org/wiki/Toxicity "wikilink")》가 발매되고 얼마 후, 시스템 오브 어 다운의 미공개 곡들이 《Toxicity II》라는 이름으로 인터넷을 통해 유출되었다. 《Steal This Album\!》은 《Toxicity II》에 들어 있던 곡들의 최종 버전과 몇몇 새로운 곡들을 수록한 음반이다. 《Toxicity II》에 들어있던 곡 중 제외된 곡도 있으며, 대부분의 곡들이 제목과 멜로디, 가사 등에서 변화가 있었다.
+《[Toxicity](../Page/Toxicity.md "wikilink")》가 발매되고 얼마 후, 시스템 오브 어 다운의 미공개 곡들이 《Toxicity II》라는 이름으로 인터넷을 통해 유출되었다. 《Steal This Album\!》은 《Toxicity II》에 들어 있던 곡들의 최종 버전과 몇몇 새로운 곡들을 수록한 음반이다. 《Toxicity II》에 들어있던 곡 중 제외된 곡도 있으며, 대부분의 곡들이 제목과 멜로디, 가사 등에서 변화가 있었다.
 
 ## 트랙 목록
 

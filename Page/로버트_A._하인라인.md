@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Heinlein-face.jpg "wikilink") **로버트 앤슨 하인라인**(, [1907년](https://ko.wikipedia.org/wiki/1907년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") \~ [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink"))은 미국의 작가이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Heinlein-face.jpg "wikilink") **로버트 앤슨 하인라인**(, [1907년](../Page/1907년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") \~ [1988년](../Page/1988년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink"))은 미국의 작가이다.
 
-하인라인은 가장 유명하고 영향력 있는 동시에 논쟁적인 [하드 SF](https://ko.wikipedia.org/wiki/하드_SF "wikilink") 작가였다. 그의 작품은 동시대 작가들이 거의 충족시키지 못했던 높은 과학적·공학적 개연성을 갖추고 있었고, 장르의 문학적 수준을 끌어올리는 데도 크게 기여했다. 그는 순수한 [과학 소설로](https://ko.wikipedia.org/wiki/과학_소설 "wikilink") 1940년대 후반에 새터데이 이브닝 포스트 같은 일반 주류잡지에 글을 실었던 최초의 작가이기도 했다. 그는 지금과 같은 매스마켓 시대에서 장편 길이의 과학소설로 베스트셀러를 기록한 초기 작가들 가운데 한 사람으로서, [아이작 아시모프](https://ko.wikipedia.org/wiki/아이작_아시모프 "wikilink"), [아서 C. 클라크와](https://ko.wikipedia.org/wiki/아서_C._클라크 "wikilink") 함께 SF문학계의 "삼대 거물 Big Three"로 통한다.
+하인라인은 가장 유명하고 영향력 있는 동시에 논쟁적인 [하드 SF](https://ko.wikipedia.org/wiki/하드_SF "wikilink") 작가였다. 그의 작품은 동시대 작가들이 거의 충족시키지 못했던 높은 과학적·공학적 개연성을 갖추고 있었고, 장르의 문학적 수준을 끌어올리는 데도 크게 기여했다. 그는 순수한 [과학 소설로](https://ko.wikipedia.org/wiki/과학_소설 "wikilink") 1940년대 후반에 새터데이 이브닝 포스트 같은 일반 주류잡지에 글을 실었던 최초의 작가이기도 했다. 그는 지금과 같은 매스마켓 시대에서 장편 길이의 과학소설로 베스트셀러를 기록한 초기 작가들 가운데 한 사람으로서, [아이작 아시모프](../Page/아이작_아시모프.md "wikilink"), [아서 C. 클라크와](../Page/아서_C._클라크.md "wikilink") 함께 SF문학계의 "삼대 거물 Big Three"로 통한다.
 
 ## 생애
 
-로버트 A. 하인라인은 미국 중서부의 [미주리주](https://ko.wikipedia.org/wiki/미주리주 "wikilink")에서 회계사인 아버지 렉스 이바 하인라인과 어머니 뱀 라일 하인라인 사이에서 1907년 7월 7일에 태어났다. '바이블 벨트'라고 불리는 지역의 일부로서 종교적으로 경직된 [캔자스시티](https://ko.wikipedia.org/wiki/캔자스시티 "wikilink")에서 보낸 유년시절은 그의 작품 세계와 사생활에 두루 영향을 미쳤다.
+로버트 A. 하인라인은 미국 중서부의 [미주리주](../Page/미주리주.md "wikilink")에서 회계사인 아버지 렉스 이바 하인라인과 어머니 뱀 라일 하인라인 사이에서 1907년 7월 7일에 태어났다. '바이블 벨트'라고 불리는 지역의 일부로서 종교적으로 경직된 [캔자스시티](https://ko.wikipedia.org/wiki/캔자스시티 "wikilink")에서 보낸 유년시절은 그의 작품 세계와 사생활에 두루 영향을 미쳤다.
 
 그의 작품과 인생관에 역시 큰 영향을 끼친 것은 군인으로서의 경력이다. [직업군인](https://ko.wikipedia.org/wiki/직업군인 "wikilink")의 길을 선택하여 1929년 [해군사관학교](https://ko.wikipedia.org/wiki/해군사관학교 "wikilink")를 우수한 성적으로 졸업한 그는 해군 장교로서 1931년에는 항공모함 [USS 렉싱턴](https://ko.wikipedia.org/wiki/USS_렉싱턴 "wikilink") 호에서 무선 통신 장교로 복무했다. 1934년에 [폐결핵](https://ko.wikipedia.org/wiki/폐결핵 "wikilink")으로 제대한 하인라인은 [UCLA](https://ko.wikipedia.org/wiki/UCLA "wikilink")에서 수학과 물리학 수업을 들었으나 건강상의 이유 혹은 정치입문을 위해 학업을 중단했다. 부동산 중개업 및 은광 사업을 전전하다가 정치에도 뛰어들었지만 뚜렷한 성과를 보지는 못했다. 정치활동 이후 해군에서 나오는 연금만으로는 경제적으로 부족함을 느낀 하인라인은 생애 처음 쓴 SF 단편 '생명선'이 1939년 \<[어스타운딩](https://ko.wikipedia.org/wiki/어스타운딩 "wikilink") 과학 소설 잡지\>에 실리는 것으로 SF 창작을 시작한다.
 
-2차 대전이 발발하자 그는 해군의 항공 공학 관련 연구원으로 근무한다. 고고도 압력복과 레이다 연구가 주요분야였는데 《[스타십 트루퍼스](https://ko.wikipedia.org/wiki/스타십_트루퍼스 "wikilink")》의 파워드 슈트를 비롯해 작품 속에서 과학이나 및 기계 관련한 세밀하고 전문적인 묘사가 가능했던 것은 이런 경력 덕이다. 그리고 [필라델피아](https://ko.wikipedia.org/wiki/필라델피아 "wikilink")의 해군 군수공장에 동료 SF작가인 [아이작 아시모프와](https://ko.wikipedia.org/wiki/아이작_아시모프 "wikilink") [L. 스프레이그 디 캠프를](https://ko.wikipedia.org/wiki/L._스프레이그_디_캠프 "wikilink") 민간 연구자로 영입한다. 아시모프의 과학소설 창작백과에서 아시모프는 '원고는 한 번에 써내고 퇴고 같은 것은 하지 않는다.'는 하인라인의 말에 충격을 받았다고 적고 있다.
+2차 대전이 발발하자 그는 해군의 항공 공학 관련 연구원으로 근무한다. 고고도 압력복과 레이다 연구가 주요분야였는데 《[스타십 트루퍼스](https://ko.wikipedia.org/wiki/스타십_트루퍼스 "wikilink")》의 파워드 슈트를 비롯해 작품 속에서 과학이나 및 기계 관련한 세밀하고 전문적인 묘사가 가능했던 것은 이런 경력 덕이다. 그리고 [필라델피아](../Page/필라델피아.md "wikilink")의 해군 군수공장에 동료 SF작가인 [아이작 아시모프와](../Page/아이작_아시모프.md "wikilink") [L. 스프레이그 디 캠프를](https://ko.wikipedia.org/wiki/L._스프레이그_디_캠프 "wikilink") 민간 연구자로 영입한다. 아시모프의 과학소설 창작백과에서 아시모프는 '원고는 한 번에 써내고 퇴고 같은 것은 하지 않는다.'는 하인라인의 말에 충격을 받았다고 적고 있다.
 
 ## 작품 세계
 
 ### 작품 평가
 
-  - 하인라인이 쓴 대부분의 작품은 급진적 [개인주의](https://ko.wikipedia.org/wiki/개인주의 "wikilink"), [자유주의](https://ko.wikipedia.org/wiki/자유주의 "wikilink"), [종교](https://ko.wikipedia.org/wiki/종교 "wikilink"), 육체적인 사랑과 정신적인 사랑 사이의 관계, 그리고 탈인습적 가족관계에 대한 고찰 같은 사회적인 문제를 다루고 있다. 이런 주제들에 대한 그의 파격적인 접근방식 때문에 많은 사람들이 그의 작품에 대해 엇갈린 평가를 내리곤 했다.
+  - 하인라인이 쓴 대부분의 작품은 급진적 [개인주의](../Page/개인주의.md "wikilink"), [자유주의](../Page/자유주의.md "wikilink"), [종교](../Page/종교.md "wikilink"), 육체적인 사랑과 정신적인 사랑 사이의 관계, 그리고 탈인습적 가족관계에 대한 고찰 같은 사회적인 문제를 다루고 있다. 이런 주제들에 대한 그의 파격적인 접근방식 때문에 많은 사람들이 그의 작품에 대해 엇갈린 평가를 내리곤 했다.
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - 《여름으로 가는 문》은 1957년에 쓰인 작품이지만 소설 속 현재 시점은 1970년이다. 주인공이 1970년에 냉동 수면을 시작해 2000년에 깨어나고, 그후로 다시 시간 여행을 통해 1970년으로 되돌아오는 설정이니 작가 하인라인은 50년대에 이미 70년대를 예견하는 것에서 나아가 21세기까지 내다보며 소설 구상을 한 셈이다. ‘냉동 수면, 사람의 일을 전자동으로 처리하는 만능 [로봇](https://ko.wikipedia.org/wiki/로봇 "wikilink"), 말하는 [고양이](https://ko.wikipedia.org/wiki/고양이 "wikilink"), 시간 여행’ 등은 2010년을 살아가는 우리에게도 여전히 낯설고 새롭기만한 소재들이다. 또 흥미로운 점은, SF의 고전적인 소재를 활용하면서도 여러 다양한 요소를 함께 지니고 있다는 것이다. '[로맨스](https://ko.wikipedia.org/wiki/로맨스 "wikilink")'와 '[복수](https://ko.wikipedia.org/wiki/복수 "wikilink")'가 등장하는가 하면 고양이가 결정적인 역할을 담당해 ‘애묘 소설’로 분류되기도 하고, 소녀를 사랑하는 주인공의 심상은 이 소설에 ‘[롤리타](https://ko.wikipedia.org/wiki/롤리타 "wikilink") SF'라는 별명을 붙여주기도 했다. 이런 다양한 스토리 전개에 힘입어서인지 하인라인의 많은 작품들 가운데 ‘여성에게 가장 인기가 높다’는 평가를 받기도 한다.
+  - 《여름으로 가는 문》은 1957년에 쓰인 작품이지만 소설 속 현재 시점은 1970년이다. 주인공이 1970년에 냉동 수면을 시작해 2000년에 깨어나고, 그후로 다시 시간 여행을 통해 1970년으로 되돌아오는 설정이니 작가 하인라인은 50년대에 이미 70년대를 예견하는 것에서 나아가 21세기까지 내다보며 소설 구상을 한 셈이다. ‘냉동 수면, 사람의 일을 전자동으로 처리하는 만능 [로봇](../Page/로봇.md "wikilink"), 말하는 [고양이](../Page/고양이.md "wikilink"), 시간 여행’ 등은 2010년을 살아가는 우리에게도 여전히 낯설고 새롭기만한 소재들이다. 또 흥미로운 점은, SF의 고전적인 소재를 활용하면서도 여러 다양한 요소를 함께 지니고 있다는 것이다. '[로맨스](https://ko.wikipedia.org/wiki/로맨스 "wikilink")'와 '[복수](https://ko.wikipedia.org/wiki/복수 "wikilink")'가 등장하는가 하면 고양이가 결정적인 역할을 담당해 ‘애묘 소설’로 분류되기도 하고, 소녀를 사랑하는 주인공의 심상은 이 소설에 ‘[롤리타](../Page/롤리타.md "wikilink") SF'라는 별명을 붙여주기도 했다. 이런 다양한 스토리 전개에 힘입어서인지 하인라인의 많은 작품들 가운데 ‘여성에게 가장 인기가 높다’는 평가를 받기도 한다.
 
 <!-- end list -->
 
@@ -309,8 +309,8 @@
 
 ## 같이 보기
 
-  - [아서 C. 클라크](https://ko.wikipedia.org/wiki/아서_C._클라크 "wikilink")
-  - [아이작 아시모프](https://ko.wikipedia.org/wiki/아이작_아시모프 "wikilink")
+  - [아서 C. 클라크](../Page/아서_C._클라크.md "wikilink")
+  - [아이작 아시모프](../Page/아이작_아시모프.md "wikilink")
 
 ## 외부 링크
 

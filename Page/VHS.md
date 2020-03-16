@@ -5,9 +5,9 @@
 
 ## 역사
 
-[JVC](https://ko.wikipedia.org/wiki/JVC "wikilink")사가 [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink") 발표하였다. 발표 초기에는 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")사의 [베타맥스](https://ko.wikipedia.org/wiki/베타맥스 "wikilink") 규격과 [경쟁하였으나](https://ko.wikipedia.org/wiki/비디오테이프_표준_전쟁 "wikilink"), 이 후 대부분의 가정에서 VHS 규격만 사용하였다. 베타맥스 방식에 비해 테이프의 움직임이 간단하고 기록 시간이 길다는 장점이 있다.
+[JVC](../Page/JVC.md "wikilink")사가 [1976년](../Page/1976년.md "wikilink") [9월](../Page/9월.md "wikilink") 발표하였다. 발표 초기에는 [소니](../Page/소니.md "wikilink")사의 [베타맥스](../Page/베타맥스.md "wikilink") 규격과 [경쟁하였으나](../Page/비디오테이프_표준_전쟁.md "wikilink"), 이 후 대부분의 가정에서 VHS 규격만 사용하였다. 베타맥스 방식에 비해 테이프의 움직임이 간단하고 기록 시간이 길다는 장점이 있다.
 
-VHS를 대체하는 동영상 저장 방식으로는 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")가 있으며 현재 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 등 선진국은 물론이고 세계 대부분의 나라의 경우, 정부 차원의 디지털 방송 전환 정책의 일환으로, VHS 방식 영화 카세트를 더 이상 출시하지 않고 있다.
+VHS를 대체하는 동영상 저장 방식으로는 [DVD](../Page/DVD.md "wikilink")가 있으며 현재 [미국](../Page/미국.md "wikilink") 등 선진국은 물론이고 세계 대부분의 나라의 경우, 정부 차원의 디지털 방송 전환 정책의 일환으로, VHS 방식 영화 카세트를 더 이상 출시하지 않고 있다.
 
 대한민국에서는 더이상 VHS 방식 영화 카세트를 출시하지 않고 있으며 또한 VHS 전용 장치는 이미 생산이 중단된 상태이고 현재는 DVD 콤보 장치에 장착되어 판매되고 있을 뿐이다.
 
@@ -15,7 +15,7 @@ VHS를 대체하는 동영상 저장 방식으로는 [DVD](https://ko.wikipedia.
 
 ## 기술 규격
 
-VHS 카세트 안에는 12.7mm의 넓이를 갖는 자기 테이프가 들어있다. 일반적으로 재생할 때는 [NTSC](https://ko.wikipedia.org/wiki/NTSC "wikilink") 방식의 경우 초당 3.335cm, [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink") 방식의 경우 초당 2.339cm의 속도로 테이프가 움직인다.
+VHS 카세트 안에는 12.7mm의 넓이를 갖는 자기 테이프가 들어있다. 일반적으로 재생할 때는 [NTSC](../Page/NTSC.md "wikilink") 방식의 경우 초당 3.335cm, [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink") 방식의 경우 초당 2.339cm의 속도로 테이프가 움직인다.
 
 카세트 안의 자기 테이프의 길이는 테이프의 두께를 얇게 했을 때 최대 430m 까지 가능하며 표준속도(SP) 재생시 NTSC는 3.5시간, PAL은 5시간을 기록할 수 있는 분량이다.
 
@@ -54,7 +54,7 @@ VHS 카세트 안에는 12.7mm의 넓이를 갖는 자기 테이프가 들어있
   - [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink")/576/25 (대부분의 서부 유럽, 오스트레일리아, 아시아의 많은 지역 (중국, 인도 등), 남아메리카의 일부 지역 (아르헨티나, 우루과이 등), 아프리카)
   - [SECAM](https://ko.wikipedia.org/wiki/SECAM "wikilink")/625/25 (SECAM)
   - [MESECAM](https://ko.wikipedia.org/wiki/SECAM "wikilink")/625/25 (대부분의 다른 SECAM 국가, 보통 구 소비에트 연방, 중동)
-  - [NTSC](https://ko.wikipedia.org/wiki/NTSC "wikilink")/525/30 (북아메리카, 남아메리카의 대부분 지역, 일본, 대한민국)
+  - [NTSC](../Page/NTSC.md "wikilink")/525/30 (북아메리카, 남아메리카의 대부분 지역, 일본, 대한민국)
   - [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink")/525/30 (이를테면, PAL-M, 브라질)
 
 ## 테이프 길이
@@ -102,8 +102,8 @@ NTSC, PAL/SECAM VHS 카세트 모두 물리적으로 동일하다. (테이프에
 
 ## 같이 보기
 
-  - [비디오테이프 표준 전쟁](https://ko.wikipedia.org/wiki/비디오테이프_표준_전쟁 "wikilink")
-  - [베타맥스](https://ko.wikipedia.org/wiki/베타맥스 "wikilink")
+  - [비디오테이프 표준 전쟁](../Page/비디오테이프_표준_전쟁.md "wikilink")
+  - [베타맥스](../Page/베타맥스.md "wikilink")
 
 [분류:비디오테이프](https://ko.wikipedia.org/wiki/분류:비디오테이프 "wikilink") [분류:영상 저장 매체](https://ko.wikipedia.org/wiki/분류:영상_저장_매체 "wikilink") [분류:일본의 발명품](https://ko.wikipedia.org/wiki/분류:일본의_발명품 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Foobar2000](https://ko.wikipedia.org/wiki/Foobar2000).
 
 
-**foobar2000**은 피터 파블롭스키가 개발한 [마이크로소프트 윈도우용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") [프리웨어](https://ko.wikipedia.org/wiki/프리웨어 "wikilink") 오디오 플레이어이다. 최소주의적인 [인터페이스를](https://ko.wikipedia.org/wiki/사용자_인터페이스 "wikilink") 지니고 있으며, [메타데이터](https://ko.wikipedia.org/wiki/메타데이터 "wikilink")와 고품질 오디오 출력을 위한 다양한 기능을 갖추고 있다. 공식 및 제3자 [플러그인](https://ko.wikipedia.org/wiki/플러그인 "wikilink")을 통한 광범위한 확장이 가능하고, 프로그램 자체의 소스 코드는 공개되어 있지 않으나 플러그인 개발을 위한 [SDK](https://ko.wikipedia.org/wiki/SDK "wikilink")는 [BSD 허가서에](https://ko.wikipedia.org/wiki/BSD_허가서 "wikilink") 따라 소스가 공개되어 있다. 0.9버전부터 [윈도우 9x](https://ko.wikipedia.org/wiki/윈도우_9x "wikilink") 계열의 지원이 중단되고, 0.9.5 버전부터는 [윈도우 2000을](https://ko.wikipedia.org/wiki/윈도우_2000 "wikilink") 지원하지 않는다.
+**foobar2000**은 피터 파블롭스키가 개발한 [마이크로소프트 윈도우용](../Page/마이크로소프트_윈도우.md "wikilink") [프리웨어](../Page/프리웨어.md "wikilink") 오디오 플레이어이다. 최소주의적인 [인터페이스를](../Page/사용자_인터페이스.md "wikilink") 지니고 있으며, [메타데이터](../Page/메타데이터.md "wikilink")와 고품질 오디오 출력을 위한 다양한 기능을 갖추고 있다. 공식 및 제3자 [플러그인](../Page/플러그인.md "wikilink")을 통한 광범위한 확장이 가능하고, 프로그램 자체의 소스 코드는 공개되어 있지 않으나 플러그인 개발을 위한 [SDK](https://ko.wikipedia.org/wiki/SDK "wikilink")는 [BSD 허가서에](../Page/BSD_허가서.md "wikilink") 따라 소스가 공개되어 있다. 0.9버전부터 [윈도우 9x](../Page/윈도우_9x.md "wikilink") 계열의 지원이 중단되고, 0.9.5 버전부터는 [윈도우 2000을](../Page/윈도우_2000.md "wikilink") 지원하지 않는다.
 
 ## 특징
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - [리플레이게인](https://ko.wikipedia.org/wiki/리플레이게인 "wikilink")을 지원
+  - [리플레이게인](../Page/리플레이게인.md "wikilink")을 지원
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@
 <!-- end list -->
 
   -
-    최근 버전에서는 파일의 태그를 foobar2000이 관리하는 데이터베이스에 [캐시](https://ko.wikipedia.org/wiki/캐시 "wikilink")한다. 이를 통해 재생 목록에 빠르게 파일을 추가할 수 있게 하며, 캐시 데이터를 활용하여 앨범 목록 등을 이용하는 플러그인을 사용할 수 있다. 0.8 버전까지는 음악 파일의 태그를 변경하지 않고 자체 데이터베이스만 변경하는 것도 가능하였다.
+    최근 버전에서는 파일의 태그를 foobar2000이 관리하는 데이터베이스에 [캐시](../Page/캐시.md "wikilink")한다. 이를 통해 재생 목록에 빠르게 파일을 추가할 수 있게 하며, 캐시 데이터를 활용하여 앨범 목록 등을 이용하는 플러그인을 사용할 수 있다. 0.8 버전까지는 음악 파일의 태그를 변경하지 않고 자체 데이터베이스만 변경하는 것도 가능하였다.
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
 
 ## 같이 보기
 
-  - [AIMP](https://ko.wikipedia.org/wiki/AIMP "wikilink")
+  - [AIMP](../Page/AIMP.md "wikilink")
 
 ## 외부 링크
 

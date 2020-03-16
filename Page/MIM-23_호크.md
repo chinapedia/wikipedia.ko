@@ -29,21 +29,21 @@
 
 호크는 처음에는 항공기 요격용으로 개발되었으나, 후에는 [탄도탄 요격 미사일](https://ko.wikipedia.org/wiki/탄도탄_요격_미사일 "wikilink")(ABM, MIM-23K/J)로도 개발되었다.
 
-1960년 실전배치되었으며, 1994년 [미국 육군은](https://ko.wikipedia.org/wiki/미국_육군 "wikilink") [패트리어트 미사일로](https://ko.wikipedia.org/wiki/패트리어트_미사일 "wikilink") 대체했다. 2002년 마지막 사용자인 [미국 해병대는](https://ko.wikipedia.org/wiki/미국_해병대 "wikilink") 호크를 [FIM-92 스팅어로](https://ko.wikipedia.org/wiki/FIM-92_스팅어 "wikilink") 교체했다.\[1\]
+1960년 실전배치되었으며, 1994년 [미국 육군은](../Page/미국_육군.md "wikilink") [패트리어트 미사일로](https://ko.wikipedia.org/wiki/패트리어트_미사일 "wikilink") 대체했다. 2002년 마지막 사용자인 [미국 해병대는](../Page/미국_해병대.md "wikilink") 호크를 [FIM-92 스팅어로](../Page/FIM-92_스팅어.md "wikilink") 교체했다.\[1\]
 
-비록 미국은 호크를 실전에 사용한 적이 전혀 없지만, 수많은 국가들에 판매되었다. 약 4만발의 미사일이 생산되었다. [제인스](https://ko.wikipedia.org/wiki/제인스 "wikilink")에 따르면, 최초 버전의 명중률은 56%, 개량형인 I-Hawk는 85%이다.\[2\] [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")은 호크에 대응하여 [S-125](https://ko.wikipedia.org/wiki/S-125 "wikilink") Neva/Pechora(SA-3 Goa), [SA-6](https://ko.wikipedia.org/wiki/SA-6 "wikilink")을 보유하고 있다.
+비록 미국은 호크를 실전에 사용한 적이 전혀 없지만, 수많은 국가들에 판매되었다. 약 4만발의 미사일이 생산되었다. [제인스](https://ko.wikipedia.org/wiki/제인스 "wikilink")에 따르면, 최초 버전의 명중률은 56%, 개량형인 I-Hawk는 85%이다.\[2\] [소련](../Page/소련.md "wikilink")은 호크에 대응하여 [S-125](../Page/S-125.md "wikilink") Neva/Pechora(SA-3 Goa), [SA-6](https://ko.wikipedia.org/wiki/SA-6 "wikilink")을 보유하고 있다.
 
 ## 시스템
 
 호크 시스템은 6가지가 출시되었다. Basic Hawk(1959), Improved Hawk(1971), PIP Phase I(1979), PIP Phase II(1983), PIP Phase III(1989), Hawk 21
 
-1968년 6월 27일 [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink") 제38대공방어포병여단(여단장 존 W 딘 준장)은 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")의 대공 방어를 맡은 7개 대공 미사일 기지 가운데 하나인, [우면산](https://ko.wikipedia.org/wiki/우면산 "wikilink")의 델타사격장을 언론에 공개했다. 사거리 30 km인 MIM-23 호크 미사일이 5초에 1발씩 발사되며, 30 m\~13 km 고도의 항공기를 요격할 수 있다. 기지당 50발 정도가 배치되어 있다.\[3\]
+1968년 6월 27일 [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink") 제38대공방어포병여단(여단장 존 W 딘 준장)은 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")의 대공 방어를 맡은 7개 대공 미사일 기지 가운데 하나인, [우면산](../Page/우면산.md "wikilink")의 델타사격장을 언론에 공개했다. 사거리 30 km인 MIM-23 호크 미사일이 5초에 1발씩 발사되며, 30 m\~13 km 고도의 항공기를 요격할 수 있다. 기지당 50발 정도가 배치되어 있다.\[3\]
 
-1960년대 주한미군이 호크미사일을 배치한 이래, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")은 계속 개량사업을 하여, 현재는 90년대 초반에 개량한 PIP2 을 사용중이며 점차적으로 천궁으로 대체 중에 있다.
+1960년대 주한미군이 호크미사일을 배치한 이래, [대한민국](../Page/대한민국.md "wikilink")은 계속 개량사업을 하여, 현재는 90년대 초반에 개량한 PIP2 을 사용중이며 점차적으로 천궁으로 대체 중에 있다.
 
 1960년대의 B-Hawk는 4개의 레이다로 구성되어 있었다. 탐지레이다(PAR, CWAR), 추적레이다(CWAR, HPIR), 조준레이다(HPIR, ROR)
 
-[미국 육군은](https://ko.wikipedia.org/wiki/미국_육군 "wikilink") 호크를 [패트리어트 미사일로](https://ko.wikipedia.org/wiki/패트리어트_미사일 "wikilink") 대체 완료하였으며, [한국 공군은](https://ko.wikipedia.org/wiki/한국_공군 "wikilink") 호크를 [KM-SAM](https://ko.wikipedia.org/wiki/KM-SAM "wikilink")(러시아 S-300/400 기술 도입)로 대체할 계획이다.
+[미국 육군은](../Page/미국_육군.md "wikilink") 호크를 [패트리어트 미사일로](https://ko.wikipedia.org/wiki/패트리어트_미사일 "wikilink") 대체 완료하였으며, [한국 공군은](https://ko.wikipedia.org/wiki/한국_공군 "wikilink") 호크를 [KM-SAM](https://ko.wikipedia.org/wiki/KM-SAM "wikilink")(러시아 S-300/400 기술 도입)로 대체할 계획이다.
 
 ## 호크 21
 
@@ -92,7 +92,7 @@
 [섬네일](https://ko.wikipedia.org/wiki/파일:Hawk-radar-hatzerim-1-1.jpg "wikilink")
 
   - [지대공 미사일](https://ko.wikipedia.org/wiki/지대공_미사일 "wikilink")
-  - [SA-3](https://ko.wikipedia.org/wiki/SA-3 "wikilink") 소련의 저고도 미사일 시스템
+  - [SA-3](../Page/SA-3.md "wikilink") 소련의 저고도 미사일 시스템
   - [SA-6](https://ko.wikipedia.org/wiki/SA-6 "wikilink") 발전된 소련의 이동식 저고도 미사일 시스템
 
 ## 각주 및 참고자료

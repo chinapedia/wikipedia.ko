@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Splinter \( \)](https://ko.wikipedia.org/wiki/Splinter_\(_\)).
 
 
-《**Splinter**》는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 발매된 [오프스프링](../Page/오프스프링.md "wikilink")의 일곱 번째 정규 음반이다. [론 웰티의](https://ko.wikipedia.org/wiki/론_웰티 "wikilink") 탈퇴로 비어있던 드러머의 자리를 [조시 프리즈가](https://ko.wikipedia.org/wiki/조시_프리즈 "wikilink") 맡아 녹음하였다.
+《**Splinter**》는 [2003년](../Page/2003년.md "wikilink") 발매된 [오프스프링](../Page/오프스프링.md "wikilink")의 일곱 번째 정규 음반이다. [론 웰티의](https://ko.wikipedia.org/wiki/론_웰티 "wikilink") 탈퇴로 비어있던 드러머의 자리를 [조시 프리즈가](https://ko.wikipedia.org/wiki/조시_프리즈 "wikilink") 맡아 녹음하였다.
 
 ## 트랙 목록
 

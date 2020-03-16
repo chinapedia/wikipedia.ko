@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Speechless \( \)](https://ko.wikipedia.org/wiki/Speechless_\(_\)).
 
 
-《**Speechless**》는 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [9월 26일에](https://ko.wikipedia.org/wiki/9월_26일 "wikilink") 발표된 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 두 번째 언더그라운드 앨범이다.
+《**Speechless**》는 [2001년](../Page/2001년.md "wikilink") [9월 26일에](../Page/9월_26일.md "wikilink") 발표된 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 두 번째 언더그라운드 앨범이다.
 
 수록곡 중 〈Minus〉는 빠른 템포와 강한 디스토션 기타 소리가 특징인 곡으로 라이브 공연 중 굉장히 자주 연주되는 곡이다.
 

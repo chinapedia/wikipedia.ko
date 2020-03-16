@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CD-ROM](https://ko.wikipedia.org/wiki/CD-ROM).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:CD-ROM.png "wikilink") **CD-ROM**(, ) 또는 **시디롬**은 많은 양의 자료가 디지털 형태로 저장되는 [콤팩트 디스크이다](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink").
+[섬네일](https://ko.wikipedia.org/wiki/파일:CD-ROM.png "wikilink") **CD-ROM**(, ) 또는 **시디롬**은 많은 양의 자료가 디지털 형태로 저장되는 [콤팩트 디스크이다](../Page/콤팩트_디스크.md "wikilink").
 
 컴퓨터에 소프트웨어를 보급할 때 널리 사용되는 저장장치이다.\[1\] 게임기에서도 많이 이용되고 있으나 게임기용 CD-ROM의 경우 기종별로 독자적인 규격을 사용하고 있는 경우도 있다.
 
@@ -9,17 +9,17 @@
 
 ‘시디롬(CD-ROM)’이라는 명칭은 ‘저장된 내용만 읽는 콤팩트 디스크(Compact Disk-Read Only Memory)’라는 영어 표현이 줄어서 된 것이다. 여기서 ‘읽기전용기억장치’라는 의미를 지닌 롬(ROM)은 시디롬에 데이터가 영구히 들어 있다는 뜻이다. 따라서, 컴퓨터로 시디롬 안의 데이터를 지우거나 바꾸거나 새로운 내용을 더 삽입할 수는 없다.\[2\]
 
-시디롬은 오디오용 콤팩트 디스크와 크기도 같고 작동 방식도 같다. 시디롬의 한쪽 면은 평평한 면에 0과 1을 나타내는 미세한 구멍들이 있다. [레이저](https://ko.wikipedia.org/wiki/레이저 "wikilink") 장치로 레이저 광선을 쏘아 시디롬 디스크의 구멍들을 읽어서 [비트](https://ko.wikipedia.org/wiki/비트_\(단위\) "wikilink") 신호를 만든다. 표준 규격의 시디롬은 약 650메가바이트의 용량을 저장할 수 있는데, 이것은 대략 양면으로 타자한 문서 32만 5,000페이지에 이르는 분량이다. 이렇게 용량이 크기 때문에 시디롬은 동영상, 음향 등으로 용량이 큰 멀티미디어 프로그램들을 보급하는 주요 수단으로 쓰인다.\[3\]
+시디롬은 오디오용 콤팩트 디스크와 크기도 같고 작동 방식도 같다. 시디롬의 한쪽 면은 평평한 면에 0과 1을 나타내는 미세한 구멍들이 있다. [레이저](../Page/레이저.md "wikilink") 장치로 레이저 광선을 쏘아 시디롬 디스크의 구멍들을 읽어서 [비트](../Page/비트_\(단위\).md "wikilink") 신호를 만든다. 표준 규격의 시디롬은 약 650메가바이트의 용량을 저장할 수 있는데, 이것은 대략 양면으로 타자한 문서 32만 5,000페이지에 이르는 분량이다. 이렇게 용량이 크기 때문에 시디롬은 동영상, 음향 등으로 용량이 큰 멀티미디어 프로그램들을 보급하는 주요 수단으로 쓰인다.\[3\]
 
 ## 규격
 
 CD-ROM은 규격서 (옐로 북)에 의해 라이선스화되었다.
 
-CD-ROM은 원래 CD가 그렇듯이 프레스 비용이 비교적 싸며, 특히 제품 등을 대량으로 배포하기 위해 만든 읽기 전용 미디어이다. 규격발표 당시에는 용량이 540 MB(메가바이트)라 전해졌는데, 현재는 650\~700 MB정도까지가 주류를 차지하며 그보다 더욱 용량이 많은 것도 있다. CD-ROM의 포맷은 표준적인 [ISO 9660](https://ko.wikipedia.org/wiki/ISO_9660 "wikilink") 등이 있다.
+CD-ROM은 원래 CD가 그렇듯이 프레스 비용이 비교적 싸며, 특히 제품 등을 대량으로 배포하기 위해 만든 읽기 전용 미디어이다. 규격발표 당시에는 용량이 540 MB(메가바이트)라 전해졌는데, 현재는 650\~700 MB정도까지가 주류를 차지하며 그보다 더욱 용량이 많은 것도 있다. CD-ROM의 포맷은 표준적인 [ISO 9660](../Page/ISO_9660.md "wikilink") 등이 있다.
 
 1990년대 중반에는 [하드 디스크보다](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 많은 데이터를 저장할 수 있었다. 2016년 2월 기준으로 하드 디스크는 8.0 TB가 넘는 것도 시중에서 판매되고 있으나 출시 당시에는 300\~500 MB 정도였다.
 
-CD-ROM을 확장한 것으로는 [CD-ROM XA](https://ko.wikipedia.org/wiki/CD-ROM_XA "wikilink"), [CD-I](https://ko.wikipedia.org/wiki/CD-I "wikilink"), [GD-ROM](https://ko.wikipedia.org/wiki/GD-ROM "wikilink") 등이 있다.
+CD-ROM을 확장한 것으로는 [CD-ROM XA](https://ko.wikipedia.org/wiki/CD-ROM_XA "wikilink"), [CD-I](https://ko.wikipedia.org/wiki/CD-I "wikilink"), [GD-ROM](../Page/GD-ROM.md "wikilink") 등이 있다.
 
 ## 종류
 
@@ -27,16 +27,16 @@ CD-ROM을 확장한 것으로는 [CD-ROM XA](https://ko.wikipedia.org/wiki/CD-RO
 
 ## 용량
 
-| 유형                                                                 | 섹터                                                         | 데이터 최대 크기 | | 오디오 최대 크기                                              | 시간        |
-| ------------------------------------------------------------------ | ---------------------------------------------------------- | --------- | -------------------------------------------------------- | --------- |
-| ([MB](https://ko.wikipedia.org/wiki/메가바이트 "wikilink"))             | 대략 ([MiB](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")) | (MB)      | ([분](https://ko.wikipedia.org/wiki/분_\(시간\) "wikilink")) |           |
-| 8 cm                                                               | 94,500                                                     | 193.536   | 184.570                                                  | 222.264   |
-|                                                                    | 283,500                                                    | 580.608   | 553.711                                                  | 666.792   |
-| 650 MB                                                             | 333,000                                                    | 681.984   | 650.391                                                  | 783.216   |
-| 700 MB                                                             | 360,000                                                    | 737.280   | 703.125                                                  | 846.720   |
-| 800 MB                                                             | 405,000                                                    | 829.440   | 791.016                                                  | 952.560   |
-| 900 MB                                                             | 445,500                                                    | 912.384   | 870.117                                                  | 1,047.816 |
-| <small>참고: 메가바이트 (MB)와 분 단위 값은 절대적인 값이다. MiB의 값은 대략적인 값이다.</small> |                                                            |           |                                                          |           |
+| 유형                                                                 | 섹터                                      | 데이터 최대 크기 | | 오디오 최대 크기                                              | 시간        |
+| ------------------------------------------------------------------ | --------------------------------------- | --------- | -------------------------------------------------------- | --------- |
+| ([MB](../Page/메가바이트.md "wikilink"))                                | 대략 ([MiB](../Page/메비바이트.md "wikilink")) | (MB)      | ([분](https://ko.wikipedia.org/wiki/분_\(시간\) "wikilink")) |           |
+| 8 cm                                                               | 94,500                                  | 193.536   | 184.570                                                  | 222.264   |
+|                                                                    | 283,500                                 | 580.608   | 553.711                                                  | 666.792   |
+| 650 MB                                                             | 333,000                                 | 681.984   | 650.391                                                  | 783.216   |
+| 700 MB                                                             | 360,000                                 | 737.280   | 703.125                                                  | 846.720   |
+| 800 MB                                                             | 405,000                                 | 829.440   | 791.016                                                  | 952.560   |
+| 900 MB                                                             | 445,500                                 | 912.384   | 870.117                                                  | 1,047.816 |
+| <small>참고: 메가바이트 (MB)와 분 단위 값은 절대적인 값이다. MiB의 값은 대략적인 값이다.</small> |                                         |           |                                                          |           |
 
 CD의 용량 (90, 99분 디스크는 표준이 아님)
 
@@ -70,19 +70,19 @@ CD-ROM 드라이브의 일반적인 데이터 전송 속도
 ## CD-ROM을 채용한 게임기
 
   - [PC 엔진의](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") [CD-ROM²](https://ko.wikipedia.org/wiki/CD-ROM² "wikilink")
-  - [메가 드라이브의](https://ko.wikipedia.org/wiki/메가_드라이브 "wikilink") [메가 CD](https://ko.wikipedia.org/wiki/메가_CD "wikilink")
+  - [메가 드라이브의](../Page/메가_드라이브.md "wikilink") [메가 CD](../Page/메가_CD.md "wikilink")
   - [네오지오 CD](../Page/네오지오_CD.md "wikilink")
-  - [플레이디아](https://ko.wikipedia.org/wiki/플레이디아 "wikilink")
+  - [플레이디아](../Page/플레이디아.md "wikilink")
   - [3DO](https://ko.wikipedia.org/wiki/3DO_인터렉티브_멀티플레이어 "wikilink")
-  - [PC-FX](https://ko.wikipedia.org/wiki/PC-FX "wikilink")
-  - [세가 새턴](https://ko.wikipedia.org/wiki/세가_새턴 "wikilink")
+  - [PC-FX](../Page/PC-FX.md "wikilink")
+  - [세가 새턴](../Page/세가_새턴.md "wikilink")
   - [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")
-  - [플레이스테이션 2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") ([DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")를 지원하지만 CD를 통해서도 소프트웨어를 판매하였다)
+  - [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink") ([DVD](../Page/DVD.md "wikilink")를 지원하지만 CD를 통해서도 소프트웨어를 판매하였다)
 
 ## 같이 보기
 
-  - [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink")
-  - [CD-R](https://ko.wikipedia.org/wiki/CD-R "wikilink")
+  - [CD](../Page/콤팩트_디스크.md "wikilink")
+  - [CD-R](../Page/CD-R.md "wikilink")
   - [CD-RW](https://ko.wikipedia.org/wiki/CD-RW "wikilink")
 
 ## 각주

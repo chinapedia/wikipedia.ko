@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [IAI ](https://ko.wikipedia.org/wiki/IAI_).
 
 
-**IAI 하피**(Harpy)는 [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink")의 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")가 생산하는 무인항공기(UAV)로, 레이다 시스템을 자폭 공격하기 위해 설계되었다.
+**IAI 하피**(Harpy)는 [이스라엘](../Page/이스라엘.md "wikilink")의 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")가 생산하는 무인항공기(UAV)로, 레이다 시스템을 자폭 공격하기 위해 설계되었다.
 
 ## 개요
 
-IAI는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"), [터키](https://ko.wikipedia.org/wiki/터키 "wikilink"), [인도](https://ko.wikipedia.org/wiki/인도 "wikilink"), [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") 등의 국가에 하피를 수출하였다. 대한민국은 이스라엘에 이어 2번째로 실전배치를 하였다.
+IAI는 [대한민국](../Page/대한민국.md "wikilink"), [터키](../Page/터키.md "wikilink"), [인도](../Page/인도.md "wikilink"), [중국](../Page/중국.md "wikilink") 등의 국가에 하피를 수출하였다. 대한민국은 이스라엘에 이어 2번째로 실전배치를 하였다.
 
-[1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 대한민국은 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")부터 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")까지 2백50여억원 규모로 하피를 도입하기로 했다가,\[1\] 규모를 두 배 늘려서 500억원을 들여 하피 100여대를 구입했다.\[2\] [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [대한민국 국방부는](https://ko.wikipedia.org/wiki/대한민국_국방부 "wikilink") 하피 100여기 도입에 600억원을 사용하기로 확정했다.\[3\]
+[1995년](../Page/1995년.md "wikilink") 대한민국은 [1997년](../Page/1997년.md "wikilink")부터 [2000년](../Page/2000년.md "wikilink")까지 2백50여억원 규모로 하피를 도입하기로 했다가,\[1\] 규모를 두 배 늘려서 500억원을 들여 하피 100여대를 구입했다.\[2\] [2000년](../Page/2000년.md "wikilink") [대한민국 국방부는](../Page/대한민국_국방부.md "wikilink") 하피 100여기 도입에 600억원을 사용하기로 확정했다.\[3\]
 
-[1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")은 5천 5백만 달러 규모로 하피를 도입하였다가 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 업그레이드를 목적으로 이스라엘에 반환되었다.\[4\] 그러나 미국은 이스라엘에 반환된 하피 무인기의 압류 및 거래 취소를 요구하였다.\[5\] 결국 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 이스라엘은 업그레이드를 하지 않고 중국에 하피를 반납하였다. 이로 인해 미국과 이스라엘의 관계가 냉각되었다.
+[1994년](../Page/1994년.md "wikilink") [중화인민공화국](../Page/중화인민공화국.md "wikilink")은 5천 5백만 달러 규모로 하피를 도입하였다가 [2004년](../Page/2004년.md "wikilink") 업그레이드를 목적으로 이스라엘에 반환되었다.\[4\] 그러나 미국은 이스라엘에 반환된 하피 무인기의 압류 및 거래 취소를 요구하였다.\[5\] 결국 [2005년](../Page/2005년.md "wikilink") 이스라엘은 업그레이드를 하지 않고 중국에 하피를 반납하였다. 이로 인해 미국과 이스라엘의 관계가 냉각되었다.
 
-[대한민국 공군은](https://ko.wikipedia.org/wiki/대한민국_공군 "wikilink") [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 운영대대를 [대한민국 8 전투비행단에](https://ko.wikipedia.org/wiki/대한민국_8전투비행단 "wikilink") 창설해서 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 1월까지 120대 도입을 완료했다.
+[대한민국 공군은](../Page/대한민국_공군.md "wikilink") [1999년](../Page/1999년.md "wikilink")에 운영대대를 [대한민국 8 전투비행단에](https://ko.wikipedia.org/wiki/대한민국_8전투비행단 "wikilink") 창설해서 [2001년](../Page/2001년.md "wikilink") 1월까지 120대 도입을 완료했다.
 
 ## 관련 항목
 

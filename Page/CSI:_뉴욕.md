@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CSI: ](https://ko.wikipedia.org/wiki/CSI:_).
 
 
-《**CSI: 뉴욕**》()은 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월 22일에](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") 시작해 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [2월 22일에](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") 종영된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 과학수사 드라마이다. 본작 [CSI 과학수사대로부터의](https://ko.wikipedia.org/wiki/CSI_과학수사대 "wikilink") 2번째 스핀오프 작품으로, [CSI 마이애미에서](https://ko.wikipedia.org/wiki/CSI_마이애미 "wikilink") 호레이쇼 케인이 마이애미에서 [뉴욕으로](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 살인 사건의 수사를 위해 방문한 에피소드에서부터 탄생하였다. CSI뉴욕은 다른 두 CSI 작품들보다 참혹하다. 시즌 1 동안 파란색을 키 컬러로 사용했으나, [CBS](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 사장 레스 문베스의 요구에 따라 드라마가 덜 차갑게 보이도록 시즌 2부터 파란 색을 키 컬러로 사용하지 않았다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 7일의](https://ko.wikipedia.org/wiki/11월_7일 "wikilink") [CSI 마이애미](https://ko.wikipedia.org/wiki/CSI_마이애미 "wikilink") (시즌 4 제7화)와 [11월 9일의](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") CSI 뉴욕 (시즌 2 제7화)에서는 크로스오버가 기획돼, 추락한 비행기와 도주한 연속살인범을 둘러싼 쌍방의 캐스트가 함께 연기했다. 그리고 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") [CSI 마이애미](https://ko.wikipedia.org/wiki/CSI_마이애미 "wikilink") (시즌 8 제7화)와 [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink") CSI 뉴욕 (시즌 6 제7화), [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink") [CSI: 과학수사대](https://ko.wikipedia.org/wiki/CSI:_과학수사대 "wikilink") (혹은 라스베이거스) (시즌 10 제7화)에서는 최초로 트리플 크로스오버가 기획되었다. 주제가는 다른 CSI 작품과 같이 [더 후의](https://ko.wikipedia.org/wiki/더_후 "wikilink") 노래가 사용되었다. 이 작품에는 〈Teenage Wasteland〉로 잘못 알려져 있는 〈Baba O'Riley〉를 주제가로 사용하고 있다. 미국에서는 뉴욕을 무대로 한 [NBC](https://ko.wikipedia.org/wiki/NBC "wikilink")의 범죄 드라마 [로 앤 오더와](https://ko.wikipedia.org/wiki/로_앤_오더 "wikilink") 같은 시간대에 방송되고 있다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [OCN에서](https://ko.wikipedia.org/wiki/오리온_시네마_네트워크 "wikilink") 방영하였고, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 15일부터](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 8일까지](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 시즌 4까지 [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink") 더빙 버전을 방영 하였다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 시즌 9를 마지막으로 종영을 하였다.
+《**CSI: 뉴욕**》()은 [2004년](../Page/2004년.md "wikilink") [9월 22일에](../Page/9월_22일.md "wikilink") 시작해 [2013년](../Page/2013년.md "wikilink") [2월 22일에](../Page/2월_22일.md "wikilink") 종영된 [미국](../Page/미국.md "wikilink")의 과학수사 드라마이다. 본작 [CSI 과학수사대로부터의](https://ko.wikipedia.org/wiki/CSI_과학수사대 "wikilink") 2번째 스핀오프 작품으로, [CSI 마이애미에서](https://ko.wikipedia.org/wiki/CSI_마이애미 "wikilink") 호레이쇼 케인이 마이애미에서 [뉴욕으로](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 살인 사건의 수사를 위해 방문한 에피소드에서부터 탄생하였다. CSI뉴욕은 다른 두 CSI 작품들보다 참혹하다. 시즌 1 동안 파란색을 키 컬러로 사용했으나, [CBS](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 사장 레스 문베스의 요구에 따라 드라마가 덜 차갑게 보이도록 시즌 2부터 파란 색을 키 컬러로 사용하지 않았다. [2005년](../Page/2005년.md "wikilink") [11월 7일의](../Page/11월_7일.md "wikilink") [CSI 마이애미](https://ko.wikipedia.org/wiki/CSI_마이애미 "wikilink") (시즌 4 제7화)와 [11월 9일의](../Page/11월_9일.md "wikilink") CSI 뉴욕 (시즌 2 제7화)에서는 크로스오버가 기획돼, 추락한 비행기와 도주한 연속살인범을 둘러싼 쌍방의 캐스트가 함께 연기했다. 그리고 [2009년](../Page/2009년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") [CSI 마이애미](https://ko.wikipedia.org/wiki/CSI_마이애미 "wikilink") (시즌 8 제7화)와 [11월 11일](../Page/11월_11일.md "wikilink") CSI 뉴욕 (시즌 6 제7화), [11월 13일](../Page/11월_13일.md "wikilink") [CSI: 과학수사대](../Page/CSI:_과학수사대.md "wikilink") (혹은 라스베이거스) (시즌 10 제7화)에서는 최초로 트리플 크로스오버가 기획되었다. 주제가는 다른 CSI 작품과 같이 [더 후의](../Page/더_후.md "wikilink") 노래가 사용되었다. 이 작품에는 〈Teenage Wasteland〉로 잘못 알려져 있는 〈Baba O'Riley〉를 주제가로 사용하고 있다. 미국에서는 뉴욕을 무대로 한 [NBC](../Page/NBC.md "wikilink")의 범죄 드라마 [로 앤 오더와](https://ko.wikipedia.org/wiki/로_앤_오더 "wikilink") 같은 시간대에 방송되고 있다. [대한민국](../Page/대한민국.md "wikilink")에서는 [OCN에서](https://ko.wikipedia.org/wiki/오리온_시네마_네트워크 "wikilink") 방영하였고, [2007년](../Page/2007년.md "wikilink") [9월 15일부터](../Page/9월_15일.md "wikilink") [2009년](../Page/2009년.md "wikilink") [11월 8일까지](../Page/11월_8일.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 시즌 4까지 [한국어](../Page/한국어.md "wikilink") 더빙 버전을 방영 하였다. [2012년](../Page/2012년.md "wikilink") 시즌 9를 마지막으로 종영을 하였다.
 
 ## 제작
 
@@ -9,13 +9,13 @@
 
 ## 등장인물
 
-  - [게리 시니스](https://ko.wikipedia.org/wiki/게리_시니스 "wikilink") ([Gary Sinise](https://ko.wikipedia.org/wiki/:en:Gary_Sinise "wikilink")) - **맥 테일러** (Mac Taylor), CSI Level 3 (반장)
+  - [게리 시니스](../Page/게리_시니스.md "wikilink") ([Gary Sinise](https://ko.wikipedia.org/wiki/:en:Gary_Sinise "wikilink")) - **맥 테일러** (Mac Taylor), CSI Level 3 (반장)
 
 <!-- end list -->
 
   -
-    전문분야는 전문자료 수집 / 분석이며 [시카고](https://ko.wikipedia.org/wiki/시카고 "wikilink") 출신의 [해병대](https://ko.wikipedia.org/wiki/해병대 "wikilink") 출신으로 [9.11 테러로](https://ko.wikipedia.org/wiki/9.11_테러 "wikilink") 아내를 잃었다. 이로 인하여 전쟁의 상흔을 늘 안고 사는 인물이다. 일 이외는 말을 않고 불면증을 앓고 있다. 다소 까칠하나 마음은 따뜻한 일 중독자이다. 언론재벌의 비리에 맞서는 소신있는 수사관이며, 침착하고 논리적인 심문으로 진실을 밝혀낸다.
-    실례로 맥은 나치독일 시절에 유대인들을 도망하게 해 준다고 속이고 나서 보물을 가로챈뒤 [아우슈비츠](https://ko.wikipedia.org/wiki/아우슈비츠 "wikilink") [강제수용소](https://ko.wikipedia.org/wiki/강제수용소 "wikilink")에 넘기던 죄를 지은 과거를 [나치부역자에 대한 처벌을](https://ko.wikipedia.org/wiki/탈나치화 "wikilink") 면하려고 [유대인](https://ko.wikipedia.org/wiki/유대인 "wikilink") 행세를 함으로써 숨겨온 [히틀러 유겐트](https://ko.wikipedia.org/wiki/히틀러_유겐트 "wikilink") 출신 할아버지를 심문하는데, 유대인 단체의 도움으로 수집한 유대인 학살관련 사료에 근거한 추리로써 진실을 밝혀낸다. 물론 할아버지는 기소되었고, 아들은 아버지의 사악한 과거를 알고 용서하지 않았다. [유대인 학살에서](https://ko.wikipedia.org/wiki/유대인_학살 "wikilink") 겨우 살아남은 [유대인](https://ko.wikipedia.org/wiki/유대인 "wikilink")에게 [음식](https://ko.wikipedia.org/wiki/음식 "wikilink")을 제공하여 삶의 희망과 믿음을 갖게 한 부친의 영향과 [9.11 테러로](https://ko.wikipedia.org/wiki/9.11_테러 "wikilink") 아내를 잃은 경험으로 사람들의 고통을 외면하지 않는다. 실례로 맥 반장은 위 사건의 할아버지 때문에 친척을 잃은 유대인 할머니를 찾아가 나치부역자 출신 할아버지가 가로챈 [다이아몬드](https://ko.wikipedia.org/wiki/다이아몬드 "wikilink") 브로치를 돌려주며 고통을 같이 나눈다.
+    전문분야는 전문자료 수집 / 분석이며 [시카고](../Page/시카고.md "wikilink") 출신의 [해병대](../Page/해병대.md "wikilink") 출신으로 [9.11 테러로](https://ko.wikipedia.org/wiki/9.11_테러 "wikilink") 아내를 잃었다. 이로 인하여 전쟁의 상흔을 늘 안고 사는 인물이다. 일 이외는 말을 않고 불면증을 앓고 있다. 다소 까칠하나 마음은 따뜻한 일 중독자이다. 언론재벌의 비리에 맞서는 소신있는 수사관이며, 침착하고 논리적인 심문으로 진실을 밝혀낸다.
+    실례로 맥은 나치독일 시절에 유대인들을 도망하게 해 준다고 속이고 나서 보물을 가로챈뒤 [아우슈비츠](https://ko.wikipedia.org/wiki/아우슈비츠 "wikilink") [강제수용소](https://ko.wikipedia.org/wiki/강제수용소 "wikilink")에 넘기던 죄를 지은 과거를 [나치부역자에 대한 처벌을](../Page/탈나치화.md "wikilink") 면하려고 [유대인](../Page/유대인.md "wikilink") 행세를 함으로써 숨겨온 [히틀러 유겐트](https://ko.wikipedia.org/wiki/히틀러_유겐트 "wikilink") 출신 할아버지를 심문하는데, 유대인 단체의 도움으로 수집한 유대인 학살관련 사료에 근거한 추리로써 진실을 밝혀낸다. 물론 할아버지는 기소되었고, 아들은 아버지의 사악한 과거를 알고 용서하지 않았다. [유대인 학살에서](https://ko.wikipedia.org/wiki/유대인_학살 "wikilink") 겨우 살아남은 [유대인](../Page/유대인.md "wikilink")에게 [음식](../Page/음식.md "wikilink")을 제공하여 삶의 희망과 믿음을 갖게 한 부친의 영향과 [9.11 테러로](https://ko.wikipedia.org/wiki/9.11_테러 "wikilink") 아내를 잃은 경험으로 사람들의 고통을 외면하지 않는다. 실례로 맥 반장은 위 사건의 할아버지 때문에 친척을 잃은 유대인 할머니를 찾아가 나치부역자 출신 할아버지가 가로챈 [다이아몬드](../Page/다이아몬드.md "wikilink") 브로치를 돌려주며 고통을 같이 나눈다.
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@
 <!-- end list -->
 
   -
-    전문분야는 총기류이며 그리스에서 이민했다. 마이애미의 켈리가 호레시오 반장을 협사, 보좌하는 부반장이면 이곳 뉴욕에서는 스텔라가 맥 반장을 협사, 보좌하는 부반장이라고 이해하면 되겠다. 하지만 시즌 6 마지막에서 스텔라 보나세라는 [뉴올리언스](https://ko.wikipedia.org/wiki/뉴올리언스 "wikilink") 과학 수사대의 반장직을 맡게 되면서 뉴욕을 떠나게 된다. 후임으로 조 댄빌이 합류하게 된다.
+    전문분야는 총기류이며 그리스에서 이민했다. 마이애미의 켈리가 호레시오 반장을 협사, 보좌하는 부반장이면 이곳 뉴욕에서는 스텔라가 맥 반장을 협사, 보좌하는 부반장이라고 이해하면 되겠다. 하지만 시즌 6 마지막에서 스텔라 보나세라는 [뉴올리언스](../Page/뉴올리언스.md "wikilink") 과학 수사대의 반장직을 맡게 되면서 뉴욕을 떠나게 된다. 후임으로 조 댄빌이 합류하게 된다.
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
 <!-- end list -->
 
   -
-    전문 분야는 디지털 기기 및 기술을 활용한 증거 분석이며 [애리조나주](https://ko.wikipedia.org/wiki/애리조나주 "wikilink") [피닉스](https://ko.wikipedia.org/wiki/피닉스 "wikilink") 출신 수사관으로 유년기에 괴로운 경험을 겪어서 그런지 강박 장애를 가지고 있다.
+    전문 분야는 디지털 기기 및 기술을 활용한 증거 분석이며 [애리조나주](../Page/애리조나주.md "wikilink") [피닉스](https://ko.wikipedia.org/wiki/피닉스 "wikilink") 출신 수사관으로 유년기에 괴로운 경험을 겪어서 그런지 강박 장애를 가지고 있다.
 
 <!-- end list -->
 
@@ -139,25 +139,25 @@
 
 ## 한국판 방송
 
-### [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink") CSI 뉴욕
+### [문화방송](../Page/문화방송.md "wikilink") CSI 뉴욕
 
-  - CSI 뉴욕 시즌 1 : [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 9월 15일 - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 12월 8일
-  - CSI 뉴욕 시즌 2 : [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 12월 15일 - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 3월 22일
-  - CSI 뉴욕 시즌 3 : [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 10월 5일 - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 12월 28일
-  - CSI 뉴욕 시즌 4 : [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 6월 7일 - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 11월 8일
+  - CSI 뉴욕 시즌 1 : [2007년](../Page/2007년.md "wikilink") 9월 15일 - [2007년](../Page/2007년.md "wikilink") 12월 8일
+  - CSI 뉴욕 시즌 2 : [2007년](../Page/2007년.md "wikilink") 12월 15일 - [2008년](../Page/2008년.md "wikilink") 3월 22일
+  - CSI 뉴욕 시즌 3 : [2008년](../Page/2008년.md "wikilink") 10월 5일 - [2008년](../Page/2008년.md "wikilink") 12월 28일
+  - CSI 뉴욕 시즌 4 : [2009년](../Page/2009년.md "wikilink") 6월 7일 - [2009년](../Page/2009년.md "wikilink") 11월 8일
 
 ### CSI:NY 한국어판 성우진
 
   - [이정구](https://ko.wikipedia.org/wiki/이정구_\(성우\) "wikilink") (Mac Taylor 맥 테일러 役)
-  - [윤소라](https://ko.wikipedia.org/wiki/윤소라 "wikilink") (Stella Bonasera 스텔라 보나세라 役)
-  - [안지환](https://ko.wikipedia.org/wiki/안지환 "wikilink") (Danny Messer 대니 메서 役)
-  - [최수진](https://ko.wikipedia.org/wiki/최수진_\(성우\) "wikilink") (Lindsay Monroe 린지 먼로 役)
-  - [김태훈](https://ko.wikipedia.org/wiki/김태훈_\(성우\) "wikilink") (Sid Hammerback 시드 해머백 役)
-  - [이상범](https://ko.wikipedia.org/wiki/이상범_\(성우\) "wikilink") (Sheldon Hawkes 셸던 헉스 役)
-  - [최원형](https://ko.wikipedia.org/wiki/최원형 "wikilink") (Don Flack 던 플랙 役)
+  - [윤소라](../Page/윤소라.md "wikilink") (Stella Bonasera 스텔라 보나세라 役)
+  - [안지환](../Page/안지환.md "wikilink") (Danny Messer 대니 메서 役)
+  - [최수진](../Page/최수진_\(성우\).md "wikilink") (Lindsay Monroe 린지 먼로 役)
+  - [김태훈](../Page/김태훈_\(성우\).md "wikilink") (Sid Hammerback 시드 해머백 役)
+  - [이상범](../Page/이상범_\(성우\).md "wikilink") (Sheldon Hawkes 셸던 헉스 役)
+  - [최원형](../Page/최원형.md "wikilink") (Don Flack 던 플랙 役)
   - [김서영](https://ko.wikipedia.org/wiki/김서영 "wikilink") (Jess Angel 제스 앤젤役)
-  - [기경옥](https://ko.wikipedia.org/wiki/기경옥 "wikilink") (Peyton Driscoll 페이튼 드리스콜 役)
-  - [양지운](https://ko.wikipedia.org/wiki/양지운 "wikilink") (Horatio Caine 호레이쇼 케인役) - 시즌2에서 [마이애미와](https://ko.wikipedia.org/wiki/CSI:_마이애미 "wikilink") 크로스에피에 출연
+  - [기경옥](../Page/기경옥.md "wikilink") (Peyton Driscoll 페이튼 드리스콜 役)
+  - [양지운](../Page/양지운.md "wikilink") (Horatio Caine 호레이쇼 케인役) - 시즌2에서 [마이애미와](../Page/CSI:_마이애미.md "wikilink") 크로스에피에 출연
 
 ## CSI 관련 시리즈
 
@@ -167,7 +167,7 @@
 
 ## 함께 보기
 
-  - [뉴욕경찰 24시](https://ko.wikipedia.org/wiki/:en:NYPD_Blue "wikilink") (NYPD Blue) ([1990년대](https://ko.wikipedia.org/wiki/1990년대 "wikilink") \~ [2000년대](https://ko.wikipedia.org/wiki/2000년대 "wikilink") TV 드라마 시리즈)
+  - [뉴욕경찰 24시](https://ko.wikipedia.org/wiki/:en:NYPD_Blue "wikilink") (NYPD Blue) ([1990년대](../Page/1990년대.md "wikilink") \~ [2000년대](../Page/2000년대.md "wikilink") TV 드라마 시리즈)
 
 ## 외부 링크
 

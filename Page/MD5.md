@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [MD5](https://ko.wikipedia.org/wiki/MD5).
 
 
-**MD5**()는 128비트 [암호화 해시 함수이다](https://ko.wikipedia.org/wiki/암호화_해시_함수 "wikilink"). [RFC](https://ko.wikipedia.org/wiki/RFC "wikilink") 1321로 지정되어 있으며, 주로 프로그램이나 파일이 원본 그대로인지를 확인하는 무결성 검사 등에 사용된다. [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink")에 [로널드 라이베스트가](https://ko.wikipedia.org/wiki/로널드_라이베스트 "wikilink") 예전에 쓰이던 [MD4](../Page/MD4.md "wikilink")를 대체하기 위해 고안했다.
+**MD5**()는 128비트 [암호화 해시 함수이다](../Page/암호화_해시_함수.md "wikilink"). [RFC](../Page/RFC.md "wikilink") 1321로 지정되어 있으며, 주로 프로그램이나 파일이 원본 그대로인지를 확인하는 무결성 검사 등에 사용된다. [1991년](../Page/1991년.md "wikilink")에 [로널드 라이베스트가](../Page/로널드_라이베스트.md "wikilink") 예전에 쓰이던 [MD4](../Page/MD4.md "wikilink")를 대체하기 위해 고안했다.
 
-[1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에 MD5의 설계상 결함이 발견되었다. 이것은 매우 치명적인 결함은 아니었지만, 암호학자들은 해시 용도로 [SHA](https://ko.wikipedia.org/wiki/SHA "wikilink")-1과 같이 다른 안전한 알고리즘을 사용할 것을 권장하기 시작했다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에는 더욱 심한 암호화 결함\[[http://eprint.iacr.org/2005/067\]이](http://eprint.iacr.org/2005/067%5D이) 발견되었고. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에는 노트북 컴퓨터 한 대의 계산 능력으로 1분 내에 해시 충돌을 찾을 정도로 빠른 알고리즘이 발표\[[http://eprint.iacr.org/2006/105\]되기도](http://eprint.iacr.org/2006/105%5D되기도) 하였다. 현재는 MD5 알고리즘을 보안 관련 용도로 쓰는 것은 권장하지 않으며, 심각한 보안 문제를 야기할 수도 있다. 2008년 12월에는 MD5의 결함을 이용해 [SSL](https://ko.wikipedia.org/wiki/SSL "wikilink") 인증서를 변조하는 것이 가능하다는 것이 발표되었다\[1\].
+[1996년](../Page/1996년.md "wikilink")에 MD5의 설계상 결함이 발견되었다. 이것은 매우 치명적인 결함은 아니었지만, 암호학자들은 해시 용도로 [SHA](../Page/SHA.md "wikilink")-1과 같이 다른 안전한 알고리즘을 사용할 것을 권장하기 시작했다. [2004년](../Page/2004년.md "wikilink")에는 더욱 심한 암호화 결함\[[http://eprint.iacr.org/2005/067\]이](http://eprint.iacr.org/2005/067%5D이) 발견되었고. [2006년](../Page/2006년.md "wikilink")에는 노트북 컴퓨터 한 대의 계산 능력으로 1분 내에 해시 충돌을 찾을 정도로 빠른 알고리즘이 발표\[[http://eprint.iacr.org/2006/105\]되기도](http://eprint.iacr.org/2006/105%5D되기도) 하였다. 현재는 MD5 알고리즘을 보안 관련 용도로 쓰는 것은 권장하지 않으며, 심각한 보안 문제를 야기할 수도 있다. 2008년 12월에는 MD5의 결함을 이용해 [SSL](https://ko.wikipedia.org/wiki/SSL "wikilink") 인증서를 변조하는 것이 가능하다는 것이 발표되었다\[1\].
 
 ## 알고리즘
 
@@ -33,7 +33,7 @@ MD5는 임의의 길이의 메시지(variable-length message)를 입력받아, 1
 
 ### 의사코드
 
-MD5 알고리즘의 [의사코드](https://ko.wikipedia.org/wiki/의사코드 "wikilink")는 다음과 같다:
+MD5 알고리즘의 [의사코드](../Page/의사코드.md "wikilink")는 다음과 같다:
 
 <span style="color:green;">`//`*`Note:``   ``All``   ``variables``   ``are``   ``unsigned``   ``32``   ``bits``   ``and``   ``wrap``   ``modulo``   ``2^32``   ``when``   ``calculating`*</span>
 **`var`**` `*`int`*`[64] r, k`

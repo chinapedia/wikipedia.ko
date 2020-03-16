@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [DHL](https://ko.wikipedia.org/wiki/DHL).
 
 
-**DHL 인터내셔널**(, )은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [도이체 포스트의](https://ko.wikipedia.org/wiki/도이체_포스트 "wikilink") 국제 운송 사업 부문이자 브랜드이다. 본래 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 국제 운송 기업이었으나, [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 [도이체 포스트가](https://ko.wikipedia.org/wiki/도이체_포스트 "wikilink") 지분을 인수하여 현재는 독일로 국적과 본사를 옮겼다.
+**DHL 인터내셔널**(, )은 [독일](../Page/독일.md "wikilink") [도이체 포스트의](../Page/도이체_포스트.md "wikilink") 국제 운송 사업 부문이자 브랜드이다. 본래 [미국](../Page/미국.md "wikilink")의 국제 운송 기업이었으나, [독일](../Page/독일.md "wikilink")의 [도이체 포스트가](../Page/도이체_포스트.md "wikilink") 지분을 인수하여 현재는 독일로 국적과 본사를 옮겼다.
 
 ## 역사
 
-[1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [샌프란시스코](https://ko.wikipedia.org/wiki/샌프란시스코 "wikilink")에서 창립되었다. DHL의 회사명의 유래는 창업자들인 애드리언 댈시(Adrian **D**alsey), 래리 힐블롬(Larry **H**illblom), 로버트 린(Robert **L**ynn)의 머리 글자에서 유래한 것이다.
+[1969년](../Page/1969년.md "wikilink") [미국](../Page/미국.md "wikilink") [샌프란시스코](../Page/샌프란시스코.md "wikilink")에서 창립되었다. DHL의 회사명의 유래는 창업자들인 애드리언 댈시(Adrian **D**alsey), 래리 힐블롬(Larry **H**illblom), 로버트 린(Robert **L**ynn)의 머리 글자에서 유래한 것이다.
 
-우선 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 본토와 [하와이주](https://ko.wikipedia.org/wiki/하와이주 "wikilink")의 [호놀룰루](https://ko.wikipedia.org/wiki/호놀룰루 "wikilink")를 오가는 택배 운송 서비스부터 시작하여, 서비스를 확대해 국제 택배물을 취급하는 기업으로 성장하였으며, 특히 미국과 [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink") 지역을 연결하는 화물 운송 서비스로 유명해졌다.
+우선 [미국](../Page/미국.md "wikilink") 본토와 [하와이주](../Page/하와이주.md "wikilink")의 [호놀룰루](../Page/호놀룰루.md "wikilink")를 오가는 택배 운송 서비스부터 시작하여, 서비스를 확대해 국제 택배물을 취급하는 기업으로 성장하였으며, 특히 미국과 [아시아](../Page/아시아.md "wikilink") 지역을 연결하는 화물 운송 서비스로 유명해졌다.
 
-[1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에 [도이체 포스트가](https://ko.wikipedia.org/wiki/도이체_포스트 "wikilink") DHL의 주식의 22.5%를 매수하였고, [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에는 [도이체 포스트가](https://ko.wikipedia.org/wiki/도이체_포스트 "wikilink") 지분을 모두 매수하면서 [도이체 포스트의](https://ko.wikipedia.org/wiki/도이체_포스트 "wikilink") 자회사가 되었다.
+[1998년](../Page/1998년.md "wikilink")에 [도이체 포스트가](../Page/도이체_포스트.md "wikilink") DHL의 주식의 22.5%를 매수하였고, [2002년](../Page/2002년.md "wikilink")에는 [도이체 포스트가](../Page/도이체_포스트.md "wikilink") 지분을 모두 매수하면서 [도이체 포스트의](../Page/도이체_포스트.md "wikilink") 자회사가 되었다.
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에는 [도이체 포스트의](https://ko.wikipedia.org/wiki/도이체_포스트 "wikilink") 국제 영업 부문인 도이체 포스트 월드넷과 합병하였고, 같은 해 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 기업인 단자스와 합병, 세계 최대의 국제 택배 물류 회사가 되었다.
+[2003년](../Page/2003년.md "wikilink")에는 [도이체 포스트의](../Page/도이체_포스트.md "wikilink") 국제 영업 부문인 도이체 포스트 월드넷과 합병하였고, 같은 해 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 기업인 단자스와 합병, 세계 최대의 국제 택배 물류 회사가 되었다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") 주식회사 일양해운과의 계약으로 대리점 형태의 시작으로 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에는 본사와의 합작투자로 설립된 한국 지사인 **DHL Express Korea**(DHL 코리아)를 출범하였다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 [1977년](../Page/1977년.md "wikilink") 주식회사 일양해운과의 계약으로 대리점 형태의 시작으로 [2001년](../Page/2001년.md "wikilink")에는 본사와의 합작투자로 설립된 한국 지사인 **DHL Express Korea**(DHL 코리아)를 출범하였다.
 
 ## 현황
 
-DHL은 380,000명의 직원과 약 6,500개의 사무소, 420대 이상의 [항공기](https://ko.wikipedia.org/wiki/항공기 "wikilink"), 76,200대의 차량으로 220여 개국, 12만이 넘는 도시에 연간 15억 개 이상의 화물을 취급하고 있다. 또한 세계에서 가장 빠른 배송을 자랑한다.\[1\]
+DHL은 380,000명의 직원과 약 6,500개의 사무소, 420대 이상의 [항공기](../Page/항공기.md "wikilink"), 76,200대의 차량으로 220여 개국, 12만이 넘는 도시에 연간 15억 개 이상의 화물을 취급하고 있다. 또한 세계에서 가장 빠른 배송을 자랑한다.\[1\]
 
 ## 사진
 

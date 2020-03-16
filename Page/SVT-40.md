@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SVT-40](https://ko.wikipedia.org/wiki/SVT-40).
 
 
-**SVT-40**(는 2차 세계대전에 널리 쓰였던 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")의 [반자동 소총이다](https://ko.wikipedia.org/wiki/반자동_소총 "wikilink").
+**SVT-40**(는 2차 세계대전에 널리 쓰였던 [소련](../Page/소련.md "wikilink")의 [반자동 소총이다](https://ko.wikipedia.org/wiki/반자동_소총 "wikilink").
 
-[반자동 소총에](https://ko.wikipedia.org/wiki/반자동_소총 "wikilink") 관심이 많았던 [이오시프 스탈린의](https://ko.wikipedia.org/wiki/이오시프_스탈린 "wikilink") 후원을 받아 개발된 SVT-38을 개량한 모델이다. 1940년에 채용된 후, 전쟁 중 160만 정이 생산되어 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [M1 카빈과](https://ko.wikipedia.org/wiki/M1_카빈 "wikilink") [M1 개런드에](https://ko.wikipedia.org/wiki/M1_개런드 "wikilink") 이어 많이 생산되고 널리 쓰인 반자동 소총의 하나다. 또 2차대전 당시 많은수의 SVT-38/40을 노획한 추축군도 이 총을 썼었다고 한다
+[반자동 소총에](https://ko.wikipedia.org/wiki/반자동_소총 "wikilink") 관심이 많았던 [이오시프 스탈린의](../Page/이오시프_스탈린.md "wikilink") 후원을 받아 개발된 SVT-38을 개량한 모델이다. 1940년에 채용된 후, 전쟁 중 160만 정이 생산되어 [미국](../Page/미국.md "wikilink")의 [M1 카빈과](../Page/M1_카빈.md "wikilink") [M1 개런드에](../Page/M1_개런드.md "wikilink") 이어 많이 생산되고 널리 쓰인 반자동 소총의 하나다. 또 2차대전 당시 많은수의 SVT-38/40을 노획한 추축군도 이 총을 썼었다고 한다
 
-SVT-40은 1955년 소련군에서 정식으로 퇴역을 했으며, 남은 SVT들은 핀란드나 쿠바, 베트남에 지급이 되었고, 이 총은 나중에 [SKS](https://ko.wikipedia.org/wiki/SKS "wikilink")45, AG-42나 G43, FN-49([FN-FAL](https://ko.wikipedia.org/wiki/FN-FAL "wikilink")의 프로토타입)같은 반자동 소총을 개발하는 데 많은 참고가 되었었다고 한다
+SVT-40은 1955년 소련군에서 정식으로 퇴역을 했으며, 남은 SVT들은 핀란드나 쿠바, 베트남에 지급이 되었고, 이 총은 나중에 [SKS](../Page/SKS.md "wikilink")45, AG-42나 G43, FN-49([FN-FAL](https://ko.wikipedia.org/wiki/FN-FAL "wikilink")의 프로토타입)같은 반자동 소총을 개발하는 데 많은 참고가 되었었다고 한다
 
 ## 바리에이션
 

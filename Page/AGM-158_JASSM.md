@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [AGM-158 JASSM](https://ko.wikipedia.org/wiki/AGM-158_JASSM).
 
 
-**AGM-158 JASSM**(Joint Air-to-Surface Standoff Missile: 합동 공대지 장거리 미사일)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [록히드 마틴에서](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink") 개발한 공대지 [순항 미사일이다](https://ko.wikipedia.org/wiki/순항_미사일 "wikilink").
+**AGM-158 JASSM**(Joint Air-to-Surface Standoff Missile: 합동 공대지 장거리 미사일)은 [미국](../Page/미국.md "wikilink") [록히드 마틴에서](../Page/록히드_마틴.md "wikilink") 개발한 공대지 [순항 미사일이다](https://ko.wikipedia.org/wiki/순항_미사일 "wikilink").
 
 ## 개요
 
 JASSM(Joint Air-to-Surface Standoff Missile) 프로젝트는 [AGM-137 TSSAM](https://ko.wikipedia.org/wiki/AGM-137_TSSAM "wikilink") 미사일 프로젝트가 취소된 후인 1995년에 시작되었다.
 
-TSSAM은 장거리(Stand off)의 사거리를 가지는, 고정밀 스텔스 미사일로 설계되었었다. 그러나 부실한 프로젝트 관리는 비용상승을 수용불가능한 상태까지 이르게 했다. 이러한 무기에 대한 필요성은 여전히 존재했으므로, 군 당국은 곧 뒤따르는 유사한 프로젝트를 발표하였다. [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink"), 초기에 경쟁할 두 회사로 [맥도널 더글라스와](https://ko.wikipedia.org/wiki/맥도널_더글라스 "wikilink") [록히드 마틴사가](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink") 선정되었고, 각각 AGM-158A와 AGM-159A로 명명되었다. 록히드 마틴사의 AGM-158A가 승리하여 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")에는 추후 개발을 위한 계약이 이루어졌다.
+TSSAM은 장거리(Stand off)의 사거리를 가지는, 고정밀 스텔스 미사일로 설계되었었다. 그러나 부실한 프로젝트 관리는 비용상승을 수용불가능한 상태까지 이르게 했다. 이러한 무기에 대한 필요성은 여전히 존재했으므로, 군 당국은 곧 뒤따르는 유사한 프로젝트를 발표하였다. [1996년](../Page/1996년.md "wikilink"), 초기에 경쟁할 두 회사로 [맥도널 더글라스와](https://ko.wikipedia.org/wiki/맥도널_더글라스 "wikilink") [록히드 마틴사가](../Page/록히드_마틴.md "wikilink") 선정되었고, 각각 AGM-158A와 AGM-159A로 명명되었다. 록히드 마틴사의 AGM-158A가 승리하여 [1998년](../Page/1998년.md "wikilink")에는 추후 개발을 위한 계약이 이루어졌다.
 
-[1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에는 미사일의 추진 비행 테스트가 시작되었다. 테스트는 성공적이었고, JASSM의 생산이 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 12월에 시작되었다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에는 운용 테스트에 들어갔다. 그 해 말에는 탄두의 문제로 두 건의 실패가 있었으며, 프로젝트는 3개월간 연기되어 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 4월에 개발을 마치게 되었다. 이후 발사 장치와 엔진의 결함으로 두 건의 실패가 있었다.
+[1999년](../Page/1999년.md "wikilink")에는 미사일의 추진 비행 테스트가 시작되었다. 테스트는 성공적이었고, JASSM의 생산이 [2001년](../Page/2001년.md "wikilink") 12월에 시작되었다. [2002년](../Page/2002년.md "wikilink")에는 운용 테스트에 들어갔다. 그 해 말에는 탄두의 문제로 두 건의 실패가 있었으며, 프로젝트는 3개월간 연기되어 [2003년](../Page/2003년.md "wikilink") 4월에 개발을 마치게 되었다. 이후 발사 장치와 엔진의 결함으로 두 건의 실패가 있었다.
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 7월, [펜타곤](https://ko.wikipedia.org/wiki/펜타곤 "wikilink")은 JASSM의 신뢰도를 높이고 성능을 재확인하기 위한 6,800만 달러의 프로젝트를 승인하였다.\[1\] 이 프로그램이 계속될 것인가에 대한 결정은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 봄으로 미루어졌다.\[2\]
+[2007년](../Page/2007년.md "wikilink") 7월, [펜타곤](../Page/펜타곤.md "wikilink")은 JASSM의 신뢰도를 높이고 성능을 재확인하기 위한 6,800만 달러의 프로젝트를 승인하였다.\[1\] 이 프로그램이 계속될 것인가에 대한 결정은 [2008년](../Page/2008년.md "wikilink") 봄으로 미루어졌다.\[2\]
 
 JASSM은 [F-15E](https://ko.wikipedia.org/wiki/F-15E "wikilink"), [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink"), [F/A-18](https://ko.wikipedia.org/wiki/F/A-18 "wikilink"), [F-35](https://ko.wikipedia.org/wiki/F-35 "wikilink"), [B-1B](https://ko.wikipedia.org/wiki/B-1_랜서 "wikilink"), [B-2](https://ko.wikipedia.org/wiki/B-2_스피릿 "wikilink"), [B-52](https://ko.wikipedia.org/wiki/B-52 "wikilink") 등 폭넓은 비행기에 장착될 것이다. 미공군은 3,700기의 JASSM 미사일을 구매할 계획이다.
 
@@ -23,7 +23,7 @@ JASSM은 [F-15E](https://ko.wikipedia.org/wiki/F-15E "wikilink"), [F-16](https:/
 
 ## JASSM-ER
 
-[섬네일에서](https://ko.wikipedia.org/wiki/파일:Long_Range_Anti-Ship_Missile_\(LRASM\)_launches_from_an_Air_Force_B-1B_Lancer.jpg "wikilink") 시험발사중인 [AGM-158C LRASM](https://ko.wikipedia.org/wiki/AGM-158C_LRASM "wikilink")\]\] [미공군](https://ko.wikipedia.org/wiki/미공군 "wikilink")은 AGM-158을 개량하기 위해 다양한 연구를 하였다. JASSM-ER(JASSM-Extended Range)은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에 **AGM-158B**로 제식번호를 부여받았다. 같은 외관상 디자인이지만, 더 효율적인 엔진과 더 큰 연료통을 장착하여 사거리를 500 nm (925 km) 이상으로 늘렸다. 기존형의 사거리는 대략 200 nm 였다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 18일](https://ko.wikipedia.org/wiki/5월_18일 "wikilink"), [뉴멕시코주](https://ko.wikipedia.org/wiki/뉴멕시코주 "wikilink") [화이트 샌드 미사일 시험장에서](https://ko.wikipedia.org/wiki/화이트_샌드_미사일_시험장 "wikilink") [미공군](https://ko.wikipedia.org/wiki/미공군 "wikilink") [B-1B 폭격기에](https://ko.wikipedia.org/wiki/B-1_랜서 "wikilink") 의해 첫 시험발사가 있었다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 현재, JASSM-ER은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")까지 실전배치될 것으로 계획되어 있다.
+[섬네일에서](https://ko.wikipedia.org/wiki/파일:Long_Range_Anti-Ship_Missile_\(LRASM\)_launches_from_an_Air_Force_B-1B_Lancer.jpg "wikilink") 시험발사중인 [AGM-158C LRASM](https://ko.wikipedia.org/wiki/AGM-158C_LRASM "wikilink")\]\] [미공군](https://ko.wikipedia.org/wiki/미공군 "wikilink")은 AGM-158을 개량하기 위해 다양한 연구를 하였다. JASSM-ER(JASSM-Extended Range)은 [2002년](../Page/2002년.md "wikilink")에 **AGM-158B**로 제식번호를 부여받았다. 같은 외관상 디자인이지만, 더 효율적인 엔진과 더 큰 연료통을 장착하여 사거리를 500 nm (925 km) 이상으로 늘렸다. 기존형의 사거리는 대략 200 nm 였다. [2006년](../Page/2006년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink"), [뉴멕시코주](../Page/뉴멕시코주.md "wikilink") [화이트 샌드 미사일 시험장에서](https://ko.wikipedia.org/wiki/화이트_샌드_미사일_시험장 "wikilink") [미공군](https://ko.wikipedia.org/wiki/미공군 "wikilink") [B-1B 폭격기에](https://ko.wikipedia.org/wiki/B-1_랜서 "wikilink") 의해 첫 시험발사가 있었다. [2006년](../Page/2006년.md "wikilink") 현재, JASSM-ER은 [2009년](../Page/2009년.md "wikilink")까지 실전배치될 것으로 계획되어 있다.
 
 [미해군](https://ko.wikipedia.org/wiki/미해군 "wikilink")은 미공군 AGM-158B JASSM-ER 공대지 순항미사일을 공대함 순항미사일로 개량하여, 사거리는 동일하게 930 km인 [AGM-158C LRASM을](https://ko.wikipedia.org/wiki/AGM-158C_LRASM "wikilink") 개발했다.
 
@@ -34,9 +34,9 @@ JASSM은 [F-15E](https://ko.wikipedia.org/wiki/F-15E "wikilink"), [F-16](https:/
 
 ## 구입
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 2월 28일, 호주 정부는 [록히드 마틴의](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink") JASSM을 [오스트레일리아 공군의](https://ko.wikipedia.org/wiki/오스트레일리아_공군 "wikilink") [F/A-18 호넷에](https://ko.wikipedia.org/wiki/F/A-18_호넷 "wikilink") 장착하기로 결정했다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")까지 도입할 JASSM은 사거리 370 km 이상으로 현재 오스트레일리아 공군이 보유한 기존 미사일 사거리의 4배 이상이다. 경쟁했던 제품으로는 [SLAM-ER](https://ko.wikipedia.org/wiki/SLAM-ER "wikilink"), [KEPD 350이었다](https://ko.wikipedia.org/wiki/KEPD_350 "wikilink").\[3\]
+[2006년](../Page/2006년.md "wikilink") 2월 28일, 호주 정부는 [록히드 마틴의](../Page/록히드_마틴.md "wikilink") JASSM을 [오스트레일리아 공군의](https://ko.wikipedia.org/wiki/오스트레일리아_공군 "wikilink") [F/A-18 호넷에](https://ko.wikipedia.org/wiki/F/A-18_호넷 "wikilink") 장착하기로 결정했다. [2010년](../Page/2010년.md "wikilink")까지 도입할 JASSM은 사거리 370 km 이상으로 현재 오스트레일리아 공군이 보유한 기존 미사일 사거리의 4배 이상이다. 경쟁했던 제품으로는 [SLAM-ER](https://ko.wikipedia.org/wiki/SLAM-ER "wikilink"), [KEPD 350이었다](../Page/KEPD_350.md "wikilink").\[3\]
 
-2017년, [미국 공군이](https://ko.wikipedia.org/wiki/미국_공군 "wikilink") 최근 사거리 1,000 km AGM-158B JASSM-ER 4천발을 구매한 것으로 알려졌다.\[4\]
+2017년, [미국 공군이](../Page/미국_공군.md "wikilink") 최근 사거리 1,000 km AGM-158B JASSM-ER 4천발을 구매한 것으로 알려졌다.\[4\]
 
 [한국 공군은](https://ko.wikipedia.org/wiki/한국_공군 "wikilink") 중장기 국방계획에서 2010년 이전에 JASSM 도입사업에 착수하기로 결정하였다.\[5\] 그러나 미국 정부는 재즘 수출을 금지했다. 그래서 한국은 독일에서 [타우루스 미사일](https://ko.wikipedia.org/wiki/타우루스_미사일 "wikilink") 177발을 개당 20억원에 수입하여 [F-15K](https://ko.wikipedia.org/wiki/F-15K "wikilink") 전투기에 장착하기로 하였다.
 

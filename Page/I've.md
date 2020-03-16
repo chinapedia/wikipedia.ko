@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I\'ve](https://ko.wikipedia.org/wiki/I\'ve).
 
 
-**I've(아이브)**는 [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink") [삿포로 시에](https://ko.wikipedia.org/wiki/삿포로_시 "wikilink") 스튜디오를 가지고 있는 음악 제작 그룹이다. 타카세 카즈야가 트랜스 음악을 제작하던 퍽토리 레코드와는 밀접한 관계가 있다.</br> 1999년 2월에 발매된 게임《吐溜》의 주제가 "FUCK ME"가 최초의 곡이다. 이후 [카논의](https://ko.wikipedia.org/wiki/카논_\(비디오_게임\) "wikilink") 주제가 〈Last regrets〉〈風のたどり着く場所〉, [에어의](https://ko.wikipedia.org/wiki/에어_\(비디오_게임\) "wikilink") 주제가 〈鳥の詩〉의 곡 제작에 참여하면서 이름을 알리기 시작했다.</br> 2002년부터 애니메이션의 주제가를 담당하기 시작하였으며, 2005년에는 무도관에서 첫 라이브 공연을 했다.</br> 다양한 장르의 곡을 만들지만 [트랜스가](https://ko.wikipedia.org/wiki/트랜스_\(음악\) "wikilink") 대부분이다. 또한 여러 명의 가수가 소속되어 곡의 분위기에 따라 그에 맞는 음색을 제공하고 있다.
+**I've(아이브)**는 [홋카이도](../Page/홋카이도.md "wikilink") [삿포로 시에](https://ko.wikipedia.org/wiki/삿포로_시 "wikilink") 스튜디오를 가지고 있는 음악 제작 그룹이다. 타카세 카즈야가 트랜스 음악을 제작하던 퍽토리 레코드와는 밀접한 관계가 있다.</br> 1999년 2월에 발매된 게임《吐溜》의 주제가 "FUCK ME"가 최초의 곡이다. 이후 [카논의](../Page/카논_\(비디오_게임\).md "wikilink") 주제가 〈Last regrets〉〈風のたどり着く場所〉, [에어의](../Page/에어_\(비디오_게임\).md "wikilink") 주제가 〈鳥の詩〉의 곡 제작에 참여하면서 이름을 알리기 시작했다.</br> 2002년부터 애니메이션의 주제가를 담당하기 시작하였으며, 2005년에는 무도관에서 첫 라이브 공연을 했다.</br> 다양한 장르의 곡을 만들지만 [트랜스가](https://ko.wikipedia.org/wiki/트랜스_\(음악\) "wikilink") 대부분이다. 또한 여러 명의 가수가 소속되어 곡의 분위기에 따라 그에 맞는 음색을 제공하고 있다.
 
 ## 스탭
 
@@ -28,7 +28,7 @@
 
 ### 현재 소속 가수
 
-  - [카와다 마미](https://ko.wikipedia.org/wiki/카와다_마미 "wikilink")
+  - [카와다 마미](../Page/카와다_마미.md "wikilink")
   - [C.G mix](https://ko.wikipedia.org/wiki/C.G_mix "wikilink")
   - 키리시마 아이리
   - 마이자키 나미
@@ -55,7 +55,7 @@
   - [AKI](https://ko.wikipedia.org/wiki/AKI "wikilink")
   - [SHIHO](https://ko.wikipedia.org/wiki/SHIHO "wikilink")
   - [MOMO](https://ko.wikipedia.org/wiki/MOMO "wikilink")
-  - [시마미야 에이코](https://ko.wikipedia.org/wiki/시마미야_에이코 "wikilink")
+  - [시마미야 에이코](../Page/시마미야_에이코.md "wikilink")
   - [KOTOKO](../Page/KOTOKO.md "wikilink")
   - [MELL](https://ko.wikipedia.org/wiki/MELL "wikilink")
   - [우타츠키 카오리](https://ko.wikipedia.org/wiki/우타츠키_카오리 "wikilink")
@@ -63,7 +63,7 @@
 ### 참여 가수
 
   - [IKU](https://ko.wikipedia.org/wiki/IKU "wikilink")
-  - [Lia](https://ko.wikipedia.org/wiki/Lia "wikilink")
+  - [Lia](../Page/Lia.md "wikilink")
   - Rita
   - MAKO
   - MIKI

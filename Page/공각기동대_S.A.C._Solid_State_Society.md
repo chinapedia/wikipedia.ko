@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ S.A.C. Solid State Society](https://ko.wikipedia.org/wiki/_S.A.C._Solid_State_Society).
 
 
-**공각기동대 S.A.C. Solid State Society**(攻殻機動隊 S.A.C. Solid State Society)는 [시로 마사무네의](https://ko.wikipedia.org/wiki/시로_마사무네 "wikilink") [공각기동대](https://ko.wikipedia.org/wiki/공각기동대_\(만화\) "wikilink") 세계관에 기초한 2006년 [포스트사이버펑크](https://ko.wikipedia.org/wiki/포스트사이버펑크 "wikilink") [재패니메이션](https://ko.wikipedia.org/wiki/재패니메이션 "wikilink")이다. [프로덕션 I.G가](https://ko.wikipedia.org/wiki/프로덕션_I.G "wikilink") 제작하고 [가미야마 겐지가](https://ko.wikipedia.org/wiki/가미야마_겐지 "wikilink") 감독했으며 2006년 [도쿄](https://ko.wikipedia.org/wiki/도쿄 "wikilink") 애니메 페어에서 처음 발표되었다. 약 3억 6천만 [엔](https://ko.wikipedia.org/wiki/엔 "wikilink")의 예산이 투자되었다.
+**공각기동대 S.A.C. Solid State Society**(攻殻機動隊 S.A.C. Solid State Society)는 [시로 마사무네의](../Page/시로_마사무네.md "wikilink") [공각기동대](../Page/공각기동대_\(만화\).md "wikilink") 세계관에 기초한 2006년 [포스트사이버펑크](https://ko.wikipedia.org/wiki/포스트사이버펑크 "wikilink") [재패니메이션](https://ko.wikipedia.org/wiki/재패니메이션 "wikilink")이다. [프로덕션 I.G가](../Page/프로덕션_I.G.md "wikilink") 제작하고 [가미야마 겐지가](https://ko.wikipedia.org/wiki/가미야마_겐지 "wikilink") 감독했으며 2006년 [도쿄](../Page/도쿄.md "wikilink") 애니메 페어에서 처음 발표되었다. 약 3억 6천만 [엔](https://ko.wikipedia.org/wiki/엔 "wikilink")의 예산이 투자되었다.
 
-전작인 《[공각기동대 Solid State Society](https://ko.wikipedia.org/wiki/공각기동대_Solid_State_Society "wikilink")》나 《[공각기동대 S.A.C. 2nd GIG](https://ko.wikipedia.org/wiki/공각기동대_S.A.C._2nd_GIG "wikilink")》와 마찬가지로 고품질 영상을 만들어내기 위해 [페이퍼뷰](https://ko.wikipedia.org/wiki/페이퍼뷰 "wikilink") 방식으로 방영했다.\[1\] 2006년 [아니메 엑스포에서는](https://ko.wikipedia.org/wiki/아니메_엑스포 "wikilink") 이 작품을 마지막으로 SAC 시리즈를 끝맺기로 결정한 것은 아니라는 발표가 있었다.
+전작인 《[공각기동대 Solid State Society](https://ko.wikipedia.org/wiki/공각기동대_Solid_State_Society "wikilink")》나 《[공각기동대 S.A.C. 2nd GIG](../Page/공각기동대_S.A.C._2nd_GIG.md "wikilink")》와 마찬가지로 고품질 영상을 만들어내기 위해 [페이퍼뷰](https://ko.wikipedia.org/wiki/페이퍼뷰 "wikilink") 방식으로 방영했다.\[1\] 2006년 [아니메 엑스포에서는](https://ko.wikipedia.org/wiki/아니메_엑스포 "wikilink") 이 작품을 마지막으로 SAC 시리즈를 끝맺기로 결정한 것은 아니라는 발표가 있었다.
 
 ## 줄거리
 

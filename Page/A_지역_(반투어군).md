@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A  \(\)](https://ko.wikipedia.org/wiki/A__\(\)).
 
 
-[반투어군](../Page/반투어군.md "wikilink")의 지리적 분류에서 **A 지역**(Zone A)은 [적도기니](https://ko.wikipedia.org/wiki/적도기니 "wikilink"), [중앙 아프리카 공화국](https://ko.wikipedia.org/wiki/중앙_아프리카_공화국 "wikilink"), [카메룬](https://ko.wikipedia.org/wiki/카메룬 "wikilink")의 언어들을 포괄한다.
+[반투어군](../Page/반투어군.md "wikilink")의 지리적 분류에서 **A 지역**(Zone A)은 [적도기니](https://ko.wikipedia.org/wiki/적도기니 "wikilink"), [중앙 아프리카 공화국](https://ko.wikipedia.org/wiki/중앙_아프리카_공화국 "wikilink"), [카메룬](../Page/카메룬.md "wikilink")의 언어들을 포괄한다.
 
 ## 지역별 분류
 
@@ -23,7 +23,7 @@
 | 음피에모어  | Mpiemo  | [mcx](http://www.sil.org/iso639-3/documentation.asp?id=mcx) |
 | 우퀘조어   | Ukhwejo | [ukh](http://www.sil.org/iso639-3/documentation.asp?id=ukh) |
 
-### [카메룬](https://ko.wikipedia.org/wiki/카메룬 "wikilink") 지역 언어
+### [카메룬](../Page/카메룬.md "wikilink") 지역 언어
 
 | 한국어 명칭 | 영어 명칭        | ISO/DIS 639-3                                               |
 | ------ | ------------ | ----------------------------------------------------------- |

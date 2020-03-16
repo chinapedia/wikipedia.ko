@@ -3,7 +3,7 @@
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Quick_brown.png "wikilink")
 
-"**The quick brown fox jumps over the lazy dog**"는 [팬그램](../Page/팬그램.md "wikilink")의 하나로, 조리있고 짧지만 [로마자](https://ko.wikipedia.org/wiki/로마자 "wikilink") 26글자 모두를 포함하기 때문에 [타자기](https://ko.wikipedia.org/wiki/타자기 "wikilink"), [컴퓨터 자판](https://ko.wikipedia.org/wiki/컴퓨터_자판 "wikilink"), [폰트](https://ko.wikipedia.org/wiki/컴퓨터_글꼴 "wikilink") 등을 테스트하는 용도로 많이 사용되는 문구이다.
+"**The quick brown fox jumps over the lazy dog**"는 [팬그램](../Page/팬그램.md "wikilink")의 하나로, 조리있고 짧지만 [로마자](../Page/로마자.md "wikilink") 26글자 모두를 포함하기 때문에 [타자기](../Page/타자기.md "wikilink"), [컴퓨터 자판](../Page/컴퓨터_자판.md "wikilink"), [폰트](../Page/컴퓨터_글꼴.md "wikilink") 등을 테스트하는 용도로 많이 사용되는 문구이다.
 
 [텔레타이프](https://ko.wikipedia.org/wiki/텔레타이프 "wikilink")를 사용하던 시절에는 일명 팍싱(foxing)이라고 불리는 과정으로 이 문장을 테스팅용으로 자주 사용되기도 하였다고 한다. 컴퓨터 분야에서는 폰트를 선택하고 보여주는 상황 등에서 샘플 문장으로 자주 사용된다.
 
@@ -13,7 +13,7 @@
 
 ### [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink")
 
-[윈도 3.1](https://ko.wikipedia.org/wiki/윈도_3.1 "wikilink") 또는 그 이상의 버전에서는 숫자도 테스트하는 "**The quick brown fox jumps over the lazy dog. 1234567890**"를 사용한다. [윈도 XP의](https://ko.wikipedia.org/wiki/윈도_XP "wikilink") 기본 글꼴 보기에서는 글꼴의 종류에 따라 "**The quick brown fox jumps over the lazy dog. 1234567890**" 또는 "**Jackdaws love my big sphinx of quartz. 123456890**" 문구가 나온다. 사실은 [트루타입](https://ko.wikipedia.org/wiki/트루타입 "wikilink") 폰트에서는 샘플 테스트 메시지를 폰트 파일이 지정할 수 있는데 특별한 지정이 없으면 윈도 기본 샘플 메시지를 사용하는 것이다.
+[윈도 3.1](https://ko.wikipedia.org/wiki/윈도_3.1 "wikilink") 또는 그 이상의 버전에서는 숫자도 테스트하는 "**The quick brown fox jumps over the lazy dog. 1234567890**"를 사용한다. [윈도 XP의](https://ko.wikipedia.org/wiki/윈도_XP "wikilink") 기본 글꼴 보기에서는 글꼴의 종류에 따라 "**The quick brown fox jumps over the lazy dog. 1234567890**" 또는 "**Jackdaws love my big sphinx of quartz. 123456890**" 문구가 나온다. 사실은 [트루타입](../Page/트루타입.md "wikilink") 폰트에서는 샘플 테스트 메시지를 폰트 파일이 지정할 수 있는데 특별한 지정이 없으면 윈도 기본 샘플 메시지를 사용하는 것이다.
 
 지역화된 버전들은 글꼴 보기 프로그램에서 각 언어별 글꼴에 따라 제각각 다양한 샘플 문장을 이용한다.
 
@@ -118,7 +118,7 @@
 </tbody>
 </table>
 
-### [마이크로소프트 워드](https://ko.wikipedia.org/wiki/마이크로소프트_워드 "wikilink")
+### [마이크로소프트 워드](../Page/마이크로소프트_워드.md "wikilink")
 
 영문판 마이크로소프트 워드에서는 `=rand()`라고 입력하고 엔터키를 누르면 "The quick brown fox jumps over the lazy dog" 문구가 15번 출력된다. M개의 문구로 구성된 N개의 문단을 생성하려면 `=rand(N,M)`를 입력하고 엔터키를 누르면 된다. N, M은 원하는 만큼의 숫자를 사용하면 되는데 최댓값은 140이다. 예를 들어 `=rand(2,3)`을 입력하면 이 문구를 3번 반복하는 두 개의 문단이 생성된다.
 
@@ -131,22 +131,22 @@
 ### 기타
 
   - "**Now is the time for all good men to come to the aid of their country**"란 문구도 타이피스트의 실력을 가늠하는 용도로 사용되어 왔으나 팬그램은 아니다.
-  - [그놈](https://ko.wikipedia.org/wiki/그놈 "wikilink") 데스크톱의 글꼴 정보 프로그램 gnome-font-properties에서는 **키스의 고유 조건은 입술끼리 만나야 하고 특별한 기술은 필요치 않다.**라는 문장을 쓰며 이 문장은 자음과 모음 모두 팬그램이다. [GTK+ Font Manager](http://fontmanager.github.io/)는 윈도와 동일하게 "다람쥐 헌 쳇바퀴에 타고파"를 사용한다.
+  - [그놈](../Page/그놈.md "wikilink") 데스크톱의 글꼴 정보 프로그램 gnome-font-properties에서는 **키스의 고유 조건은 입술끼리 만나야 하고 특별한 기술은 필요치 않다.**라는 문장을 쓰며 이 문장은 자음과 모음 모두 팬그램이다. [GTK+ Font Manager](http://fontmanager.github.io/)는 윈도와 동일하게 "다람쥐 헌 쳇바퀴에 타고파"를 사용한다.
   - [구글 크롬의](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") 고급 글꼴 설정에서는 **정 참판 양반댁 규수 큰 교자 타고 혼례 치른 날.**이라는 문장을 쓰며 마찬가지로 자음과 모음 모두 팬그램이다.
 
 ## 그밖의 사소한 것들
 
   - [마크 던의](https://ko.wikipedia.org/wiki/마크_던 "wikilink") 소설 《엘라 미노 피》(Ella Minnow Pea)에서는 이 문구의 창안자가 남 캘리포니아 해안의 상상의 섬 놀로프(Nollop)에 사는 것으로 나온다. 이 문구는 소설의 줄거리에 주요 수단이 된다.
-  - [스티븐 킹의](https://ko.wikipedia.org/wiki/스티븐_킹 "wikilink") 소설《[다크 하프](https://ko.wikipedia.org/wiki/다크_하프 "wikilink")》(*The Dark Half*)에서 사이코 작가 조지 스타크는, 공공 도서관의 타이핑 실에서 자신이 팬그램만 입력하게 되는 작가 슬럼프 증상(writer's block)에 빠진 것을 알고 도서관을 거의 미친듯이 날뛰며 돌아다닌다. 그는 어떤 걸 타이핑하려고 해도 그의 손가락은 이 문구만 계속 반복해서 치게 된 것이다.
+  - [스티븐 킹의](../Page/스티븐_킹.md "wikilink") 소설《[다크 하프](../Page/다크_하프.md "wikilink")》(*The Dark Half*)에서 사이코 작가 조지 스타크는, 공공 도서관의 타이핑 실에서 자신이 팬그램만 입력하게 되는 작가 슬럼프 증상(writer's block)에 빠진 것을 알고 도서관을 거의 미친듯이 날뛰며 돌아다닌다. 그는 어떤 걸 타이핑하려고 해도 그의 손가락은 이 문구만 계속 반복해서 치게 된 것이다.
   - 카드 게임 [매직 더 게더링에서는](https://ko.wikipedia.org/wiki/매직_더_게더링 "wikilink") "The quick onyx goblin jumps over the lazy dwarf"(이 또한 팬그램)라고 적힌 카드가 있다. 이 카드는 "Now I know my ABC's"라고도 부르는데 이것 자체가 매직스 언힌지드(Magic's Unhinged) 시리즈의 조크 카드이다. 매직스 언힌지드 시리즈는 이 카드처럼 게임 진행에 별 상관없이 재미를 부여하기 위해 만든 의미없는 카드들을 모은 것이다.
-  - [뮤지컬](https://ko.wikipedia.org/wiki/뮤지컬 "wikilink") 《정말로 노력하지 않고도 사업에서 성공하기》(How to Succeed in Business Without Really Trying)의 한 노래에서 이 문구가 등장한다.
-  - [찰스 M. 슐츠의](https://ko.wikipedia.org/wiki/찰스_M._슐츠 "wikilink") [피너츠](https://ko.wikipedia.org/wiki/피너츠 "wikilink") 만화에서 [스누피](https://ko.wikipedia.org/wiki/스누피 "wikilink")가 유명 작가 행세를 할 때 이 문구를 자주 타이핑한다. 게으른 [스누피](https://ko.wikipedia.org/wiki/스누피 "wikilink")와 정신 사나운 [찰리 브라운의](../Page/찰리_브라운.md "wikilink") 캐릭터 성격과 일치하는 중의적 표현이기도 하다.
-  - [아서 C. 클라크의](https://ko.wikipedia.org/wiki/아서_C._클라크 "wikilink") 《[2001 스페이스 오디세이](https://ko.wikipedia.org/wiki/2001_스페이스_오디세이 "wikilink")》에서 인공 지능 컴퓨터 [HAL9000](https://ko.wikipedia.org/wiki/HAL9000 "wikilink")이 종료될 때 이 문구를 말한다.
+  - [뮤지컬](../Page/뮤지컬.md "wikilink") 《정말로 노력하지 않고도 사업에서 성공하기》(How to Succeed in Business Without Really Trying)의 한 노래에서 이 문구가 등장한다.
+  - [찰스 M. 슐츠의](../Page/찰스_M._슐츠.md "wikilink") [피너츠](../Page/피너츠.md "wikilink") 만화에서 [스누피](../Page/스누피.md "wikilink")가 유명 작가 행세를 할 때 이 문구를 자주 타이핑한다. 게으른 [스누피](../Page/스누피.md "wikilink")와 정신 사나운 [찰리 브라운의](../Page/찰리_브라운.md "wikilink") 캐릭터 성격과 일치하는 중의적 표현이기도 하다.
+  - [아서 C. 클라크의](../Page/아서_C._클라크.md "wikilink") 《[2001 스페이스 오디세이](https://ko.wikipedia.org/wiki/2001_스페이스_오디세이 "wikilink")》에서 인공 지능 컴퓨터 [HAL9000](https://ko.wikipedia.org/wiki/HAL9000 "wikilink")이 종료될 때 이 문구를 말한다.
 
 ## 같이 보기
 
   - [팬그램](../Page/팬그램.md "wikilink")
-  - [로렘 입숨](https://ko.wikipedia.org/wiki/로렘_입숨 "wikilink")
+  - [로렘 입숨](../Page/로렘_입숨.md "wikilink")
   - [ETAOIN SHRDLU](../Page/ETAOIN_SHRDLU.md "wikilink")
 
 ## 외부 링크

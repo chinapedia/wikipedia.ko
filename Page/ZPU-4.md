@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ZPU-4](https://ko.wikipedia.org/wiki/ZPU-4).
 
 
-[250px](https://ko.wikipedia.org/wiki/파일:ZPU-4-batey-haosef-1.jpg "wikilink") **ZPU-4**는 구 소련에서 1949년에 14.5mm [KPV 중기관총](https://ko.wikipedia.org/wiki/KPV_중기관총 "wikilink") 4정을 묶어 만든 대공포다. 1949년부터 [소비에트 연방이](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") 채용하여 사용하기 시작한 이래 전 세계적으로 50여 개국 이상에서 채용되었다. [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")과 [베트남 전쟁에서도](https://ko.wikipedia.org/wiki/베트남_전쟁 "wikilink") 사용되었으며, 특히 [베트남 전쟁](https://ko.wikipedia.org/wiki/베트남_전쟁 "wikilink") 중에는 미국의 [헬리본 부대와](https://ko.wikipedia.org/wiki/헬리본_부대 "wikilink") 중고고도에서 대공미사일을 피해 저속 침투하는 [미국 해군](https://ko.wikipedia.org/wiki/미국_해군 "wikilink") 및 [미국 공군의](../Page/미국_공군.md "wikilink") 공격기 편대에 많은 피해를 입혔다. 2연장 대공포는 ZPU-2라 부르며, 1정만 대공마운트 장착한 것을 ZPU-1로 부른다. [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink")도 대량으로 장비하고 있어 유사시 [한국군](https://ko.wikipedia.org/wiki/대한민국의_군사 "wikilink") 및 [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink")의 작전에 큰 위협요소가 되고 있다.
+[250px](https://ko.wikipedia.org/wiki/파일:ZPU-4-batey-haosef-1.jpg "wikilink") **ZPU-4**는 구 소련에서 1949년에 14.5mm [KPV 중기관총](https://ko.wikipedia.org/wiki/KPV_중기관총 "wikilink") 4정을 묶어 만든 대공포다. 1949년부터 [소비에트 연방이](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") 채용하여 사용하기 시작한 이래 전 세계적으로 50여 개국 이상에서 채용되었다. [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")과 [베트남 전쟁에서도](../Page/베트남_전쟁.md "wikilink") 사용되었으며, 특히 [베트남 전쟁](../Page/베트남_전쟁.md "wikilink") 중에는 미국의 [헬리본 부대와](https://ko.wikipedia.org/wiki/헬리본_부대 "wikilink") 중고고도에서 대공미사일을 피해 저속 침투하는 [미국 해군](../Page/미국_해군.md "wikilink") 및 [미국 공군의](../Page/미국_공군.md "wikilink") 공격기 편대에 많은 피해를 입혔다. 2연장 대공포는 ZPU-2라 부르며, 1정만 대공마운트 장착한 것을 ZPU-1로 부른다. [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")도 대량으로 장비하고 있어 유사시 [한국군](https://ko.wikipedia.org/wiki/대한민국의_군사 "wikilink") 및 [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink")의 작전에 큰 위협요소가 되고 있다.
 
 ## 상세사항
 
-ZPU-2와 ZPU-4의 개발은 [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink")에 시작되었고, ZPU-1 개발은 [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink")에 시작되었다. 이 3가지 형은 모두 1949년부터 배치되었다. 1950년대에는 조준경이 향상되었다.
+ZPU-2와 ZPU-4의 개발은 [1945년](../Page/1945년.md "wikilink")에 시작되었고, ZPU-1 개발은 [1947년](../Page/1947년.md "wikilink")에 시작되었다. 이 3가지 형은 모두 1949년부터 배치되었다. 1950년대에는 조준경이 향상되었다.
 
 ZPU 시리즈는 모두 공랭식 신속교환총열을 가졌고, API (BS.41), API-T (BZT), I-T (ZP) 등의 다양한 탄종을 쏠 수 있었다. 각각 총열은 분당 600발로 사격이 가능했지만, 실제로는 150 발 정도로 제한되었다.
 
@@ -17,7 +17,7 @@ ZPU 시리즈는 모두 공랭식 신속교환총열을 가졌고, API (BS.41), 
 
 ## 역사
 
-[한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 당시 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")과 [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink")이 사용했고, [베트남 전쟁](https://ko.wikipedia.org/wiki/베트남_전쟁 "wikilink") 당시 미군의 [헬리콥터](https://ko.wikipedia.org/wiki/헬리콥터 "wikilink")에 가장 큰 위협이 되었다. [사막의 폭풍 작전](https://ko.wikipedia.org/wiki/사막의_폭풍_작전 "wikilink") 기간 중에도 [이라크군에](https://ko.wikipedia.org/wiki/이라크의_군사 "wikilink") 의해서 사용되었다. 더 강력하고 새로운 2연장 23mm 기관포 체계인 [ZU-23](https://ko.wikipedia.org/wiki/ZU-23 "wikilink") 대공포로 교체되고 있다. 참고로, ZU-23은 23mm 대공포라는 의미이며, [ZSU-23-4](https://ko.wikipedia.org/wiki/ZSU-23-4 "wikilink")는 23mm 4연장 대공자주포란 의미다.
+[한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 당시 [중화인민공화국](../Page/중화인민공화국.md "wikilink")과 [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")이 사용했고, [베트남 전쟁](../Page/베트남_전쟁.md "wikilink") 당시 미군의 [헬리콥터](../Page/헬리콥터.md "wikilink")에 가장 큰 위협이 되었다. [사막의 폭풍 작전](https://ko.wikipedia.org/wiki/사막의_폭풍_작전 "wikilink") 기간 중에도 [이라크군에](https://ko.wikipedia.org/wiki/이라크의_군사 "wikilink") 의해서 사용되었다. 더 강력하고 새로운 2연장 23mm 기관포 체계인 [ZU-23](https://ko.wikipedia.org/wiki/ZU-23 "wikilink") 대공포로 교체되고 있다. 참고로, ZU-23은 23mm 대공포라는 의미이며, [ZSU-23-4](https://ko.wikipedia.org/wiki/ZSU-23-4 "wikilink")는 23mm 4연장 대공자주포란 의미다.
 
 ## 사용 탄종
 
@@ -27,7 +27,7 @@ ZPU 시리즈는 모두 공랭식 신속교환총열을 가졌고, API (BS.41), 
   - API-T (BZT) - 강철 탄자를 가진 전금속제탄피의 총알. 발사 무게는 59.56 g이고, 발사 속도는 초당 1,005m다.
   - I-T (ZP)
 
-탄약은 [불가리아](https://ko.wikipedia.org/wiki/불가리아 "wikilink"), [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink"), [이집트](https://ko.wikipedia.org/wiki/이집트 "wikilink"), [폴란드](https://ko.wikipedia.org/wiki/폴란드 "wikilink"), [루마니아](https://ko.wikipedia.org/wiki/루마니아 "wikilink") 등에서도 생산되었다.
+탄약은 [불가리아](../Page/불가리아.md "wikilink"), [중화인민공화국](../Page/중화인민공화국.md "wikilink"), [이집트](../Page/이집트.md "wikilink"), [폴란드](../Page/폴란드.md "wikilink"), [루마니아](../Page/루마니아.md "wikilink") 등에서도 생산되었다.
 
 ## 변형
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [The Offspring](https://ko.wikipedia.org/wiki/The_Offspring).
 
 
-《**The Offspring**》은 미국의 밴드 [오프스프링](../Page/오프스프링.md "wikilink")의 데뷔 음반이다. [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [6월 15일](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") 네메시스 레코드를 통해 레코드판으로 발매되었다. [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink"), 오프스프링의 보컬 [덱스터 홀랜드가](../Page/덱스터_홀랜드.md "wikilink") 소유한 [니트로 레코드에서](https://ko.wikipedia.org/wiki/니트로_레코드 "wikilink") 새로운 커버와 함께 [CD로](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 재발매되었다.
+《**The Offspring**》은 미국의 밴드 [오프스프링](../Page/오프스프링.md "wikilink")의 데뷔 음반이다. [1989년](../Page/1989년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") 네메시스 레코드를 통해 레코드판으로 발매되었다. [1995년](../Page/1995년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink"), 오프스프링의 보컬 [덱스터 홀랜드가](../Page/덱스터_홀랜드.md "wikilink") 소유한 [니트로 레코드에서](../Page/니트로_레코드.md "wikilink") 새로운 커버와 함께 [CD로](../Page/콤팩트_디스크.md "wikilink") 재발매되었다.
 
-[2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink") 이후에 생산된 음반에는 〈Kill the President〉가 수록되어 있지 않다.
+[2001년](../Page/2001년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink") 이후에 생산된 음반에는 〈Kill the President〉가 수록되어 있지 않다.
 
 ## 트랙 목록
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Naturally \( \)](https://ko.wikipedia.org/wiki/Naturally_\(_\)).
 
 
-《**Naturally**》는 [박정현](https://ko.wikipedia.org/wiki/박정현 "wikilink")의 세 번째 정규 음반으로 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 10월에 발매되었다.
+《**Naturally**》는 [박정현](../Page/박정현.md "wikilink")의 세 번째 정규 음반으로 [2000년](../Page/2000년.md "wikilink") 10월에 발매되었다.
 
 ## 개요
 

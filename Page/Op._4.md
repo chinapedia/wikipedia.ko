@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Op. 4](https://ko.wikipedia.org/wiki/Op._4).
 
 
-《**[Op.](https://ko.wikipedia.org/wiki/작품번호 "wikilink") 4**》는 [박정현](https://ko.wikipedia.org/wiki/박정현 "wikilink")의 네 번째 정규 음반이다.
+《**[Op.](https://ko.wikipedia.org/wiki/작품번호 "wikilink") 4**》는 [박정현](../Page/박정현.md "wikilink")의 네 번째 정규 음반이다.
 
 ## 개요
 
-[015B](https://ko.wikipedia.org/wiki/015B "wikilink")의 [정석원이](https://ko.wikipedia.org/wiki/정석원_\(음악인\) "wikilink") 전체적인 프로듀싱을 맡았으며 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [6월 15일에](https://ko.wikipedia.org/wiki/6월_15일 "wikilink") 출시되었다.
+[015B](../Page/015B.md "wikilink")의 [정석원이](https://ko.wikipedia.org/wiki/정석원_\(음악인\) "wikilink") 전체적인 프로듀싱을 맡았으며 [2002년](../Page/2002년.md "wikilink") [6월 15일에](../Page/6월_15일.md "wikilink") 출시되었다.
 
 앨범 제목의 Op.는 [서양 고전 음악의](https://ko.wikipedia.org/wiki/서양_고전_음악 "wikilink") 용어로 [작품 번호를](https://ko.wikipedia.org/wiki/작품_번호 "wikilink") 뜻하는데, 따라서 Op. 4라는 이름은 앨범 전체를 통째의 네 번째 음악 작품으로 해석하도록 유도하기 위해 붙인 것이다.
 

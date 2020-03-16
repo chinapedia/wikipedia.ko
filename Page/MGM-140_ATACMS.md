@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MGM-140 ATACMS](https://ko.wikipedia.org/wiki/MGM-140_ATACMS).
 
 
-**MGM-140 ATACMS는**(육군 전술 미사일 시스템, Army Tactical Missile System, ATACMS, 에이태킴스)는 미국 [록히드 마틴사가](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink") 개발한 육군 전술용 단거리 지대지 미사일이다. 발사대는 227mm 다연장 로켓포시스템을 이용하여 사용할 수 있다. 다연장 로켓 6발 발사대에서 ATACMS 1발을 발사할 수 있다. 기존의 미 육군 [랜스 미사일을](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") 대체하기 위해 개발되었다.
+**MGM-140 ATACMS는**(육군 전술 미사일 시스템, Army Tactical Missile System, ATACMS, 에이태킴스)는 미국 [록히드 마틴사가](../Page/록히드_마틴.md "wikilink") 개발한 육군 전술용 단거리 지대지 미사일이다. 발사대는 227mm 다연장 로켓포시스템을 이용하여 사용할 수 있다. 다연장 로켓 6발 발사대에서 ATACMS 1발을 발사할 수 있다. 기존의 미 육군 [랜스 미사일을](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") 대체하기 위해 개발되었다.
 
 ## 파생형
 
@@ -79,9 +79,9 @@
 
 ## 대한민국의 ATACMS 도입
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")이 1999년부터 도입하려고 했던 에이태킴스 도입사업을 1998년부터 도입하기로 하여\[3\], 미국 록히드 마틴사로부터 사거리 1백65km인 ATACMS 블록1형 1백10기와 구경 227 mm인 사거리 40 km의 다연장 로켓 2백79기 및 발사대 29대를 2000년까지 도입하였다.\[4\]
+[대한민국](../Page/대한민국.md "wikilink")이 1999년부터 도입하려고 했던 에이태킴스 도입사업을 1998년부터 도입하기로 하여\[3\], 미국 록히드 마틴사로부터 사거리 1백65km인 ATACMS 블록1형 1백10기와 구경 227 mm인 사거리 40 km의 다연장 로켓 2백79기 및 발사대 29대를 2000년까지 도입하였다.\[4\]
 
-[대한민국 국방부는](https://ko.wikipedia.org/wiki/대한민국_국방부 "wikilink") 4일 “미국 [록히드 마틴사로부터](https://ko.wikipedia.org/wiki/록히드_마틴 "wikilink") 사정거리 300km의 중거리 지대지 미사일인 에이태킴스(ATACMS) 블록1A 110발과 발사대 29문을 올해부터 오는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")까지 3,900억원의 예산을 들여 도입하기로 했다”고 밝혔다. 길이 3.98ｍ, 지름 61cm이며 1발 당 가격은 13억원이다.\[5\]
+[대한민국 국방부는](../Page/대한민국_국방부.md "wikilink") 4일 “미국 [록히드 마틴사로부터](../Page/록히드_마틴.md "wikilink") 사정거리 300km의 중거리 지대지 미사일인 에이태킴스(ATACMS) 블록1A 110발과 발사대 29문을 올해부터 오는 [2004년](../Page/2004년.md "wikilink")까지 3,900억원의 예산을 들여 도입하기로 했다”고 밝혔다. 길이 3.98ｍ, 지름 61cm이며 1발 당 가격은 13억원이다.\[5\]
 
 대한민국 국방부의 고위소식통은 5일 “미 록히드마틴사가 제작한 사정 300km의 전술 지대지 미사일인 ‘에이태킴스(ATACMS) 블록 1A’ 미사일이 빠르면 연내에 동부전선에 실전 배치될 예정”이라며 “내년 말까지 110발이 도입될 것”이라고 말했다.\[6\]
 
@@ -89,7 +89,7 @@
 
 ## 비교되는 미사일
 
-  - [LORA](https://ko.wikipedia.org/wiki/LORA "wikilink"): 이스라엘판 에이태킴스 미사일
+  - [LORA](../Page/LORA.md "wikilink"): 이스라엘판 에이태킴스 미사일
   - [랜스 미사일](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink"): 에이태킴스 이전에 실전배치된 미사일
   - [SS-21](https://ko.wikipedia.org/wiki/SS-21 "wikilink"): 러시아판 [랜스 미사일](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink")
   - [플루톤 미사일](https://ko.wikipedia.org/wiki/:en:Pluton_\(missile\) "wikilink")
@@ -110,9 +110,9 @@
 
 [분류:미국의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:미국의_지대지유도탄 "wikilink") [분류:대한민국의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:대한민국의_지대지유도탄 "wikilink") [분류:고체연료 로켓](https://ko.wikipedia.org/wiki/분류:고체연료_로켓 "wikilink")
 
-1.  움직이는 목표물 찾아 '족집게 공격'…美 '子彈미사일' 한반도 배치 [조선일보](https://ko.wikipedia.org/wiki/조선일보 "wikilink") 2005-03-07
+1.  움직이는 목표물 찾아 '족집게 공격'…美 '子彈미사일' 한반도 배치 [조선일보](../Page/조선일보.md "wikilink") 2005-03-07
 2.  KRIS OSBORN, Army Pushes To Upgrade Missile Defense Systems, 2013년 10월 23일
-3.  북 장거리포 공격 응전능력 향상/지대지미사일 조기도입 의미 [문화일보](https://ko.wikipedia.org/wiki/문화일보 "wikilink") 1997-07-30
-4.  전술지대지 미사일 다연장로켓포/내년 상반기 실전배치 [문화일보](https://ko.wikipedia.org/wiki/문화일보 "wikilink") 1997-07-14
-5.  사정300km 미사일 첫 도입 [조선일보](https://ko.wikipedia.org/wiki/조선일보 "wikilink") 2002-01-05
-6.  300km 지대지미사일 동부전선 연내 배치 [서울신문](https://ko.wikipedia.org/wiki/서울신문 "wikilink") 2003-11-06
+3.  북 장거리포 공격 응전능력 향상/지대지미사일 조기도입 의미 [문화일보](../Page/문화일보.md "wikilink") 1997-07-30
+4.  전술지대지 미사일 다연장로켓포/내년 상반기 실전배치 [문화일보](../Page/문화일보.md "wikilink") 1997-07-14
+5.  사정300km 미사일 첫 도입 [조선일보](../Page/조선일보.md "wikilink") 2002-01-05
+6.  300km 지대지미사일 동부전선 연내 배치 [서울신문](../Page/서울신문.md "wikilink") 2003-11-06

@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [Bohemian Rhapsody](https://ko.wikipedia.org/wiki/Bohemian_Rhapsody).
 
 
-〈**Bohemian Rhapsody**〉는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 록 밴드 [퀸의](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 대표곡 중 하나다. [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") 발표한 네 번째 정규 앨범 《[A Night at the Opera](https://ko.wikipedia.org/wiki/A_Night_at_the_Opera "wikilink")》의 수록곡으로, 앨범 발매 전 싱글로 선발매되어 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 9주 연속 1위를 차지하며 3개월 만에 100만 장 이상의 판매고를 올렸다. [프레디 머큐리가](https://ko.wikipedia.org/wiki/프레디_머큐리 "wikilink") 작사/작곡한 이 곡은 [아카펠라](https://ko.wikipedia.org/wiki/아카펠라 "wikilink"), [발라드](https://ko.wikipedia.org/wiki/발라드_\(대중_음악\) "wikilink"), [오페라](https://ko.wikipedia.org/wiki/오페라 "wikilink"), [하드 록](https://ko.wikipedia.org/wiki/하드_록 "wikilink") 등 전혀 다른 [장르](https://ko.wikipedia.org/wiki/장르 "wikilink")들을 조합한 실험적 구성에도 불구하고 대중적으로 엄청난 성공을 거두었고, [퀸이](https://ko.wikipedia.org/wiki/퀸_\(밴드\) "wikilink") 세계적인 밴드의 반열에 오르는 데 결정적 역할을 했다.
+〈**Bohemian Rhapsody**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 대표곡 중 하나다. [1975년](../Page/1975년.md "wikilink") 발표한 네 번째 정규 앨범 《[A Night at the Opera](../Page/A_Night_at_the_Opera.md "wikilink")》의 수록곡으로, 앨범 발매 전 싱글로 선발매되어 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 9주 연속 1위를 차지하며 3개월 만에 100만 장 이상의 판매고를 올렸다. [프레디 머큐리가](../Page/프레디_머큐리.md "wikilink") 작사/작곡한 이 곡은 [아카펠라](../Page/아카펠라.md "wikilink"), [발라드](https://ko.wikipedia.org/wiki/발라드_\(대중_음악\) "wikilink"), [오페라](../Page/오페라.md "wikilink"), [하드 록](../Page/하드_록.md "wikilink") 등 전혀 다른 [장르](https://ko.wikipedia.org/wiki/장르 "wikilink")들을 조합한 실험적 구성에도 불구하고 대중적으로 엄청난 성공을 거두었고, [퀸이](../Page/퀸_\(밴드\).md "wikilink") 세계적인 밴드의 반열에 오르는 데 결정적 역할을 했다.
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 "Mama, just killed a man(엄마, 사람을 죽였어요)" 이라는 가사때문에 1989년까지 금지곡으로 지정되어 있었던걸로 알고있었지만, 당시 Bohemia라는 국가가 공산권 국가라는 이유로 인해 금지되었었다. 또한, [이슬람](https://ko.wikipedia.org/wiki/이슬람 "wikilink") 국가인 [이란](https://ko.wikipedia.org/wiki/이란 "wikilink")에서는 아랍어로 "알라(하느님)의 이름으로"를 뜻하는 "Bismillah" 라는 가사 때문에 몇 안되는 방송허용된 서양악곡이 되었다. 또, 이 곡에서 세계 최초로 도입된 선구적인 홍보 영상(promotional video)은 현대 뮤직 비디오의 지평을 열었다고 평가받는다. 이 곡은 이후 퀸의 모든 공연에서 빠지지 않는 레퍼토리로 들어갔으며 현재까지도 전 세계에서 매우 사랑받는 노래 중 하나이다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 "Mama, just killed a man(엄마, 사람을 죽였어요)" 이라는 가사때문에 1989년까지 금지곡으로 지정되어 있었던걸로 알고있었지만, 당시 Bohemia라는 국가가 공산권 국가라는 이유로 인해 금지되었었다. 또한, [이슬람](https://ko.wikipedia.org/wiki/이슬람 "wikilink") 국가인 [이란](../Page/이란.md "wikilink")에서는 아랍어로 "알라(하느님)의 이름으로"를 뜻하는 "Bismillah" 라는 가사 때문에 몇 안되는 방송허용된 서양악곡이 되었다. 또, 이 곡에서 세계 최초로 도입된 선구적인 홍보 영상(promotional video)은 현대 뮤직 비디오의 지평을 열었다고 평가받는다. 이 곡은 이후 퀸의 모든 공연에서 빠지지 않는 레퍼토리로 들어갔으며 현재까지도 전 세계에서 매우 사랑받는 노래 중 하나이다.
 
 ## 작업
 
-이 곡은 퀸과 프로듀서 로이 토마스 베이커가 3주가 넘는 기간 동안 녹음했다. 녹음 작업은 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink") [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [헤리퍼드셔](https://ko.wikipedia.org/wiki/헤리퍼드셔 "wikilink") 몬머스에 위치한 록필드 스튜디오 1에서 시작했다.\[1\] 녹음 작업은 이 록필드 스튜디오 1 외에도 라운드하우스, SARM, 스콜피온, 웨섹스 등의 스튜디오에서도 진행했다. 퀸의 멤버들에 따르면, 프레디 머큐리는 이 노래의 전체를 만들었고, 작업 전반에 걸쳐 밴드 멤버들을 감독했다고 한다
+이 곡은 퀸과 프로듀서 로이 토마스 베이커가 3주가 넘는 기간 동안 녹음했다. 녹음 작업은 [1975년](../Page/1975년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") [영국](../Page/영국.md "wikilink") [헤리퍼드셔](https://ko.wikipedia.org/wiki/헤리퍼드셔 "wikilink") 몬머스에 위치한 록필드 스튜디오 1에서 시작했다.\[1\] 녹음 작업은 이 록필드 스튜디오 1 외에도 라운드하우스, SARM, 스콜피온, 웨섹스 등의 스튜디오에서도 진행했다. 퀸의 멤버들에 따르면, 프레디 머큐리는 이 노래의 전체를 만들었고, 작업 전반에 걸쳐 밴드 멤버들을 감독했다고 한다
 
 브라이언, 프레디, 로저는 보컬 파트를 매일 10\~12시간에 걸쳐 녹음했는데\[2\], 그 결과로 180개의 서로 다른 오버더빙이 탄생했다. 록필드 스튜디오 1은 한번에 24개의 아날로그 테이프 더빙이 가능했기 때문에, 세 멤버들은 수 차례 오버더빙을 해야 했다. 결국 8번째 테이프에서야 작업은 끝이 났는데, 이 작업 후에는 테이프의 산화철 부분이 거의 완전히 닳아서 없어질 정도였다고 한다.\[3\] 곡 전체의 다양한 부분들은 면도칼로 잘라 합쳐진 것이다.
 
 그랜드 피아노(프레디), 베이스 기타(존), 드럼(로저)의 배킹 트랙을 가장 먼저 녹음했다.
 
-퀸은 아주 독창적인 악기들로 이 곡을 연주했는데, 펜더 프리시전 일렉트릭 베이스, [레드 스페셜](https://ko.wikipedia.org/wiki/레드_스페셜 "wikilink"), 러드윅 드럼, 팀파니, 파이스테 공 등이 그러한 것이다. 피아노는 베흐슈타인 콘서트 그랜드 피아노를 사용했으며, 이는 영국 투어 및 홍보 비디오에서도 사용했다.
+퀸은 아주 독창적인 악기들로 이 곡을 연주했는데, 펜더 프리시전 일렉트릭 베이스, [레드 스페셜](../Page/레드_스페셜.md "wikilink"), 러드윅 드럼, 팀파니, 파이스테 공 등이 그러한 것이다. 피아노는 베흐슈타인 콘서트 그랜드 피아노를 사용했으며, 이는 영국 투어 및 홍보 비디오에서도 사용했다.
 
 녹음 작업이 끝난 후, 이 곡은 가장 비싸고, 가장 공들여 만든 곡으로 남게 됐다.
 
@@ -21,7 +21,7 @@
 
 프레디 머큐리가 1975년에 이 곡의 싱글을 발표하려는 당시, 사람들은 5분 55초나 되는 이 곡은 너무 길어서 성공하기 힘들 것이라 했었다. 하지만 프레디는 이 말을 무시했다.
 
-곡의 싱글이 발매되기 전, 프레디는 런던에서 DJ를 하는 자신의 친구 [케니 에버릿에게](https://ko.wikipedia.org/wiki/케니_에버릿 "wikilink") "결코 방송에 내보내지 말라"는 말과 함께 선물했다. 에버릿은 이 노래를 하루에 14번 이상 방송에 내보냈다. 이때부터 모든 대형 라디오 방송사에서 이 노래를 자르지 않고 틀었고, 이 곡은 엄청난 인기를 끌게 되었다. 이후 〈[I'm in Love with My Car](https://ko.wikipedia.org/wiki/I'm_in_Love_with_My_Car "wikilink")〉를 B 사이드로 하여 이 곡의 싱글 앨범이 발매되었고, 이 싱글은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")외에 [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink"), [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink"), [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink"), [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 싱글 차트에서 1위를 기록했고, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서는 2위, [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")와 [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink")에서는 4위, [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")에서는 5위 등을 기록하였다.
+곡의 싱글이 발매되기 전, 프레디는 런던에서 DJ를 하는 자신의 친구 [케니 에버릿에게](https://ko.wikipedia.org/wiki/케니_에버릿 "wikilink") "결코 방송에 내보내지 말라"는 말과 함께 선물했다. 에버릿은 이 노래를 하루에 14번 이상 방송에 내보냈다. 이때부터 모든 대형 라디오 방송사에서 이 노래를 자르지 않고 틀었고, 이 곡은 엄청난 인기를 끌게 되었다. 이후 〈[I'm in Love with My Car](https://ko.wikipedia.org/wiki/I'm_in_Love_with_My_Car "wikilink")〉를 B 사이드로 하여 이 곡의 싱글 앨범이 발매되었고, 이 싱글은 [영국](../Page/영국.md "wikilink")외에 [아일랜드](../Page/아일랜드.md "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [독일](../Page/독일.md "wikilink")의 싱글 차트에서 1위를 기록했고, [미국](../Page/미국.md "wikilink")에서는 2위, [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")와 [노르웨이](../Page/노르웨이.md "wikilink")에서는 4위, [오스트레일리아](../Page/오스트레일리아.md "wikilink")에서는 5위 등을 기록하였다.
 
 ## 분석
 
@@ -30,7 +30,7 @@
 1.  도입(Intro)
 2.  [발라드](https://ko.wikipedia.org/wiki/발라드 "wikilink")
 3.  [기타 솔로](https://ko.wikipedia.org/wiki/기타_솔로 "wikilink")
-4.  [오페라](https://ko.wikipedia.org/wiki/오페라 "wikilink")
+4.  [오페라](../Page/오페라.md "wikilink")
 5.  [하드 락](https://ko.wikipedia.org/wiki/하드_락 "wikilink")
 6.  마침(Outro)
 
@@ -46,7 +46,7 @@
 
 ### 발라드 (0:49 – 2:37)
 
-이 노래의 전개가 되는 부분으로, [존 디콘의](https://ko.wikipedia.org/wiki/존_디콘 "wikilink") 베이스와 함께 피아노가 B<sup>♭</sup>장조에서 즉석반주를 시작한다. 반주가 두 번을 반복하면 머큐리의 보컬이 시작된다. 이 구간이 진행되면서 처음에는 부드러운 화음으로 시작되던 보컬은 조금씩 간절한 독무대로 바뀌어간다. 보컬 속 화자는 어머니 (mama)에게 "사람을 죽였다" (just killed a man)는 고백을 시작으로, "머리에 겨눈 총구" (a gun against his hed)로 방아쇠를 당기어 죽었다면서 자신의 인생은 끝장났다고 밝힌다. 이 같이 '어머니'에게 고하는 부분에 대해 음악전문가 휘틀리는 "여성에게는 양육하고 생명을 부여하는 힘이 있으므로, 그에게 용서를 구할 필요가 있다고 확언하는 것"이라 평했다.
+이 노래의 전개가 되는 부분으로, [존 디콘의](../Page/존_디콘.md "wikilink") 베이스와 함께 피아노가 B<sup>♭</sup>장조에서 즉석반주를 시작한다. 반주가 두 번을 반복하면 머큐리의 보컬이 시작된다. 이 구간이 진행되면서 처음에는 부드러운 화음으로 시작되던 보컬은 조금씩 간절한 독무대로 바뀌어간다. 보컬 속 화자는 어머니 (mama)에게 "사람을 죽였다" (just killed a man)는 고백을 시작으로, "머리에 겨눈 총구" (a gun against his hed)로 방아쇠를 당기어 죽었다면서 자신의 인생은 끝장났다고 밝힌다. 이 같이 '어머니'에게 고하는 부분에 대해 음악전문가 휘틀리는 "여성에게는 양육하고 생명을 부여하는 힘이 있으므로, 그에게 용서를 구할 필요가 있다고 확언하는 것"이라 평했다.
 
 첫 소절 중반 (1분 17초)부터는 테일러의 드럼연주가 시작되고, 내려가는 반음계 반주에서 잠시 E장조 변주로 이어진다. 이후 화자는 반주는 유지한 채 장조를 바꾸어 "mama"를 두번째로 부르짖기 시작한다. "당신을 울리려던 것" (make you cry)은 아니었다고 후회하면서도, 어머니에게 "아무 문제 없는 것처럼 계속 지내달라" (carry on as if nothing really matters)고 정한다. 그 직후 피아노 반주가 반복 하강하는 것으로 짤막하게 바뀌다가 머지않아 두번째 소절로 연결된다.
 
@@ -78,7 +78,7 @@
 
 <!-- end list -->
 
-  - 이 곡은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") MBC 라디오에서 실시한 "2006년, 한국인이 좋아하는 팝송"에서 17위를 차지했다.\[5\]
+  - 이 곡은 [2006년](../Page/2006년.md "wikilink") MBC 라디오에서 실시한 "2006년, 한국인이 좋아하는 팝송"에서 17위를 차지했다.\[5\]
 
 <!-- end list -->
 
@@ -94,15 +94,15 @@
 
 <!-- end list -->
 
-  - [아바](https://ko.wikipedia.org/wiki/아바 "wikilink")의 〈[맘마미아](https://ko.wikipedia.org/wiki/맘마미아_\(노래\) "wikilink")〉는 [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink"), 영국 차트 정상에 머물던 이 곡을 물러나게 만들었다. 그런데 "Mamma Mia"라는 아바의 곡 제목은 이 곡의 가사에서 등장한다. 이는 음악사에서 몇 안되는 사건이며, 이 경우가 최초였다.
+  - [아바](https://ko.wikipedia.org/wiki/아바 "wikilink")의 〈[맘마미아](https://ko.wikipedia.org/wiki/맘마미아_\(노래\) "wikilink")〉는 [1976년](../Page/1976년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink"), 영국 차트 정상에 머물던 이 곡을 물러나게 만들었다. 그런데 "Mamma Mia"라는 아바의 곡 제목은 이 곡의 가사에서 등장한다. 이는 음악사에서 몇 안되는 사건이며, 이 경우가 최초였다.
 
 <!-- end list -->
 
-  - 이 곡 가사에서, 아랍어인 "Bis millah"(아랍어:بسم الله)가 등장한다. "[Bis millah](https://ko.wikipedia.org/wiki/:en:Basmala "wikilink")"는 "알라의 이름으로"라는 의미다. 가사에 이 단어가 사용됨으로써 [이란](https://ko.wikipedia.org/wiki/이란 "wikilink")에서 2004년에 허용된 몇 안되는 서양 음악 중 하나에 속할 수 있었던 이유가 되었다.\[6\]
+  - 이 곡 가사에서, 아랍어인 "Bis millah"(아랍어:بسم الله)가 등장한다. "[Bis millah](https://ko.wikipedia.org/wiki/:en:Basmala "wikilink")"는 "알라의 이름으로"라는 의미다. 가사에 이 단어가 사용됨으로써 [이란](../Page/이란.md "wikilink")에서 2004년에 허용된 몇 안되는 서양 음악 중 하나에 속할 수 있었던 이유가 되었다.\[6\]
 
 <!-- end list -->
 
-  - 가사에 등장하는 "[Beelzebub](https://ko.wikipedia.org/wiki/베엘제붑 "wikilink")"은 [팔레스타인](https://ko.wikipedia.org/wiki/팔레스타인 "wikilink")의 에크론이란 지역에서 숭상받은 신 이름이다. 그러나 이 단어는 기독교적 관점에서는 "악마"나 "사탄"의 대체어이다.
+  - 가사에 등장하는 "[Beelzebub](../Page/베엘제붑.md "wikilink")"은 [팔레스타인](../Page/팔레스타인.md "wikilink")의 에크론이란 지역에서 숭상받은 신 이름이다. 그러나 이 단어는 기독교적 관점에서는 "악마"나 "사탄"의 대체어이다.
 
 <!-- end list -->
 
@@ -110,11 +110,11 @@
 
 <!-- end list -->
 
-  - [로큰롤 명예의 전당에](https://ko.wikipedia.org/wiki/로큰롤_명예의_전당 "wikilink") 따르면, 이 곡은 "로큰롤을 있게 한 500곡" 중 하나라고 한다.\[7\]
+  - [로큰롤 명예의 전당에](../Page/로큰롤_명예의_전당.md "wikilink") 따르면, 이 곡은 "로큰롤을 있게 한 500곡" 중 하나라고 한다.\[7\]
 
 <!-- end list -->
 
-  - 이 곡은 《[롤링 스톤](https://ko.wikipedia.org/wiki/롤링_스톤 "wikilink")》지(紙)의 "역사상 가장 위대한 500곡" 중 166위에 올라 있다.
+  - 이 곡은 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》지(紙)의 "역사상 가장 위대한 500곡" 중 166위에 올라 있다.
 
 <!-- end list -->
 

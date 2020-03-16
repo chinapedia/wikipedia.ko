@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  W](https://ko.wikipedia.org/wiki/__W).
 
 
-《**신기동전기 건담W**》(신기동전기 건담 윙, )은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 TV [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")으로, [선라이즈가](https://ko.wikipedia.org/wiki/선라이즈_\(스튜디오\) "wikilink") 제작하였다. [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [4월 7일부터](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 29일까지](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") 전 49화로, [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열 방송사에서 방송되었다. 건담 시리즈 중 최초로 일본 외의 나라에서 방송된 작품이기도 하다.
+《**신기동전기 건담W**》(신기동전기 건담 윙, )은 [일본](../Page/일본.md "wikilink")의 TV [애니메이션](../Page/애니메이션.md "wikilink")으로, [선라이즈가](https://ko.wikipedia.org/wiki/선라이즈_\(스튜디오\) "wikilink") 제작하였다. [1995년](../Page/1995년.md "wikilink") [4월 7일부터](../Page/4월_7일.md "wikilink") [1996년](../Page/1996년.md "wikilink") [3월 29일까지](../Page/3월_29일.md "wikilink") 전 49화로, [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 방송사에서 방송되었다. 건담 시리즈 중 최초로 일본 외의 나라에서 방송된 작품이기도 하다.
 
 __TOC__
 
@@ -55,19 +55,19 @@ OZ군의 2급특좌로, 트레이즈의 충실한 부하. 트레이즈를 너무
 
 ## 출연 성우진
 
-  - [미도리카와 히카루](https://ko.wikipedia.org/wiki/미도리카와_히카루 "wikilink") / [김장](https://ko.wikipedia.org/wiki/김장_\(성우\) "wikilink") ([히이로 유이](https://ko.wikipedia.org/wiki/히이로_유이 "wikilink") 역)
-  - [세키 토시히코](https://ko.wikipedia.org/wiki/세키_토시히코 "wikilink") / [최원형](https://ko.wikipedia.org/wiki/최원형 "wikilink") ([듀오 맥스웰](../Page/듀오_맥스웰.md "wikilink") 역)
+  - [미도리카와 히카루](../Page/미도리카와_히카루.md "wikilink") / [김장](../Page/김장_\(성우\).md "wikilink") ([히이로 유이](https://ko.wikipedia.org/wiki/히이로_유이 "wikilink") 역)
+  - [세키 토시히코](../Page/세키_토시히코.md "wikilink") / [최원형](../Page/최원형.md "wikilink") ([듀오 맥스웰](../Page/듀오_맥스웰.md "wikilink") 역)
   - [나카하라 시게루](https://ko.wikipedia.org/wiki/나카하라_시게루 "wikilink") / [최재호](https://ko.wikipedia.org/wiki/최재호 "wikilink") ([트로와 바톤](https://ko.wikipedia.org/wiki/트로와_바톤 "wikilink") 역)
   - 오리카사 아이 / [양정화](https://ko.wikipedia.org/wiki/양정화 "wikilink") ([카트르 라버바 위너](https://ko.wikipedia.org/wiki/카트르_라버바_위너 "wikilink") 역)
-  - 이시노 류조 / [이주창](https://ko.wikipedia.org/wiki/이주창 "wikilink") ([창 우페이](https://ko.wikipedia.org/wiki/창_우페이 "wikilink") 역)
-  - [야지마 아키코](https://ko.wikipedia.org/wiki/야지마_아키코 "wikilink") / [이현진](https://ko.wikipedia.org/wiki/이현진_\(성우\) "wikilink") ([리리나 도리안](https://ko.wikipedia.org/wiki/리리나_도리안 "wikilink") 역)
-  - [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink") ([젝스 마키스](https://ko.wikipedia.org/wiki/젝스_마키스 "wikilink") 역)
-  - [오키아유 료타로](https://ko.wikipedia.org/wiki/오키아유_료타로 "wikilink") (트레즈 크슈리나다 역)
-  - [요코야마 치사](https://ko.wikipedia.org/wiki/요코야마_치사 "wikilink") ([루크레치아 노인](https://ko.wikipedia.org/wiki/루크레치아_노인 "wikilink") 역)
+  - 이시노 류조 / [이주창](../Page/이주창.md "wikilink") ([창 우페이](https://ko.wikipedia.org/wiki/창_우페이 "wikilink") 역)
+  - [야지마 아키코](../Page/야지마_아키코.md "wikilink") / [이현진](../Page/이현진_\(성우\).md "wikilink") ([리리나 도리안](https://ko.wikipedia.org/wiki/리리나_도리안 "wikilink") 역)
+  - [코야스 타케히토](../Page/코야스_타케히토.md "wikilink") ([젝스 마키스](https://ko.wikipedia.org/wiki/젝스_마키스 "wikilink") 역)
+  - [오키아유 료타로](../Page/오키아유_료타로.md "wikilink") (트레즈 크슈리나다 역)
+  - [요코야마 치사](../Page/요코야마_치사.md "wikilink") ([루크레치아 노인](https://ko.wikipedia.org/wiki/루크레치아_노인 "wikilink") 역)
   - [사유리](https://ko.wikipedia.org/wiki/사유리 "wikilink") (레이디 언 역)
   - 스기모토 사오리 (캐서린 볼륨 역)
-  - [토우마 유미](https://ko.wikipedia.org/wiki/토우마_유미 "wikilink") (샐리 포 역)
-  - [마츠이 나오코](https://ko.wikipedia.org/wiki/마츠이_나오코 "wikilink") (도로시 카탈로니아 역)
+  - [토우마 유미](../Page/토우마_유미.md "wikilink") (샐리 포 역)
+  - [마츠이 나오코](../Page/마츠이_나오코.md "wikilink") (도로시 카탈로니아 역)
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ixnay on the Hombre](https://ko.wikipedia.org/wiki/Ixnay_on_the_Hombre).
 
 
-《**Ixnay on the Hombre**》는 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 발매된 [오프스프링](../Page/오프스프링.md "wikilink")의 네 번째 정규 음반이다. [컬럼비아 레코드를](https://ko.wikipedia.org/wiki/컬럼비아_레코드 "wikilink") 통해 발매된 오프스프링의 첫 음반이다. 하지만 유럽에서는 [에피타프 레코드를](https://ko.wikipedia.org/wiki/에피타프_레코드 "wikilink") 통해 발매되었다. 이 음반에는 [AFI의](https://ko.wikipedia.org/wiki/AFI_\(밴드\) "wikilink") 보컬인 [데이비 하보크가](https://ko.wikipedia.org/wiki/데이비_하보크 "wikilink") 배킹 보컬로 참여하기도 하였다. 지난 음반인 《[Smash](https://ko.wikipedia.org/wiki/Smash_\(오프스프링의_음반\) "wikilink")》만큼의 성공을 거두지는 못 했지만, 플래티넘을 인증받았다.
+《**Ixnay on the Hombre**》는 [1997년](../Page/1997년.md "wikilink") 발매된 [오프스프링](../Page/오프스프링.md "wikilink")의 네 번째 정규 음반이다. [컬럼비아 레코드를](../Page/컬럼비아_레코드.md "wikilink") 통해 발매된 오프스프링의 첫 음반이다. 하지만 유럽에서는 [에피타프 레코드를](../Page/에피타프_레코드.md "wikilink") 통해 발매되었다. 이 음반에는 [AFI의](../Page/AFI_\(밴드\).md "wikilink") 보컬인 [데이비 하보크가](https://ko.wikipedia.org/wiki/데이비_하보크 "wikilink") 배킹 보컬로 참여하기도 하였다. 지난 음반인 《[Smash](https://ko.wikipedia.org/wiki/Smash_\(오프스프링의_음반\) "wikilink")》만큼의 성공을 거두지는 못 했지만, 플래티넘을 인증받았다.
 
 ## 트랙 목록
 

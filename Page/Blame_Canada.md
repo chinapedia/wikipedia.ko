@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Blame Canada](https://ko.wikipedia.org/wiki/Blame_Canada).
 
 
-〈**Blame Canada**〉는 [극장판 사우스 파크에서](https://ko.wikipedia.org/wiki/극장판_사우스_파크 "wikilink") [트레이 파커와](https://ko.wikipedia.org/wiki/트레이_파커 "wikilink") 마크 사이먼이 부르는 노래이다. 이 노래는 [쉴라 브로플로프스키가](https://ko.wikipedia.org/wiki/제랄드와_쉴라_브로플로프스키_부부 "wikilink") 지도하는 [사우스 파크의](../Page/사우스_파크.md "wikilink") 부모들이 그들의 아이들이 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")에서 만들어진 [테렌스와 필립의](https://ko.wikipedia.org/wiki/테렌스와_필립 "wikilink") '불타는 엉덩이'를 보고 피우는 말성을 보고 [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink")를 비난하는 것을 결정한다. 부모들은 먼저 테란스와 필립 영화를 막지 못하고, 자기 자식들의 행동을 비난한다. 따라서 [극장판 사우스 파크는](https://ko.wikipedia.org/wiki/극장판_사우스_파크 "wikilink") 희생양 만들기를 풍자하고 있다.
+〈**Blame Canada**〉는 [극장판 사우스 파크에서](https://ko.wikipedia.org/wiki/극장판_사우스_파크 "wikilink") [트레이 파커와](../Page/트레이_파커.md "wikilink") 마크 사이먼이 부르는 노래이다. 이 노래는 [쉴라 브로플로프스키가](https://ko.wikipedia.org/wiki/제랄드와_쉴라_브로플로프스키_부부 "wikilink") 지도하는 [사우스 파크의](../Page/사우스_파크.md "wikilink") 부모들이 그들의 아이들이 [캐나다](../Page/캐나다.md "wikilink")에서 만들어진 [테렌스와 필립의](../Page/테렌스와_필립.md "wikilink") '불타는 엉덩이'를 보고 피우는 말성을 보고 [캐나다](../Page/캐나다.md "wikilink")를 비난하는 것을 결정한다. 부모들은 먼저 테란스와 필립 영화를 막지 못하고, 자기 자식들의 행동을 비난한다. 따라서 [극장판 사우스 파크는](https://ko.wikipedia.org/wiki/극장판_사우스_파크 "wikilink") 희생양 만들기를 풍자하고 있다.
 
 ## 반응
 

@@ -33,7 +33,7 @@ gearwhone - passion(harely mix)
 
 전자음악, 팝등의 음악이 적절히 들어가있다.
 
-[robbie williams](https://ko.wikipedia.org/wiki/로비_윌리엄스 "wikilink") - it's only us(메인)
+[robbie williams](../Page/로비_윌리엄스.md "wikilink") - it's only us(메인)
 
 reel big fish - sell out
 
@@ -51,7 +51,7 @@ sniper - crossfader dominator
 
 ## 피파 2001 사운드트랙
 
-[moby](https://ko.wikipedia.org/wiki/모비 "wikilink") - bodyrock(메인)
+[moby](../Page/모비.md "wikilink") - bodyrock(메인)
 
 utah saints - power to the beats, funky music(levent's funk-o-rama short edit)
 
@@ -65,7 +65,7 @@ the source - fly away
 
 아직까지는 다양성이 확보되지 않았다.
 
-[gorillaz](https://ko.wikipedia.org/wiki/고릴라즈 "wikilink") - 19 - 2000(soulchild remix)(메인)
+[gorillaz](../Page/고릴라즈.md "wikilink") - 19 - 2000(soulchild remix)(메인)
 
 bt - never gonna come back down(hybrid's echoplex dub)
 
@@ -93,7 +93,7 @@ conjure one - redemption(max graham's dead sea mix)
 
 ## 피파 06 사운드트랙
 
-피파 06의 사운드트랙이다. 이 사운드트랙의 곡들은 대한민국에서 [EA와](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") [피망](https://ko.wikipedia.org/wiki/피망 "wikilink")이 공동으로 제작하고 서비스하는 [피파 온라인의](https://ko.wikipedia.org/wiki/피파_온라인 "wikilink") 배경음악으로도 사용되고 있다. 특징으로 레게,삼바등의 라틴풍 댄스와 유럽 쪽으로 음악을 조화시켰다.
+피파 06의 사운드트랙이다. 이 사운드트랙의 곡들은 대한민국에서 [EA와](../Page/일렉트로닉_아츠.md "wikilink") [피망](https://ko.wikipedia.org/wiki/피망 "wikilink")이 공동으로 제작하고 서비스하는 [피파 온라인의](https://ko.wikipedia.org/wiki/피파_온라인 "wikilink") 배경음악으로도 사용되고 있다. 특징으로 레게,삼바등의 라틴풍 댄스와 유럽 쪽으로 음악을 조화시켰다.
 
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Spain.svg "wikilink") [3D Voz](https://ko.wikipedia.org/wiki/3D_Voz "wikilink") - "Fiesta"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Germany.svg "wikilink") [AK4711](https://ko.wikipedia.org/wiki/AK4711 "wikilink") - "Rock"
@@ -120,7 +120,7 @@ conjure one - redemption(max graham's dead sea mix)
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Turkey.svg "wikilink") [Manga](https://ko.wikipedia.org/wiki/망가_\(밴드\) "wikilink") - "Bir Kadin Cizeceksin"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg "wikilink") [Marcelinho da Lua](https://ko.wikipedia.org/wiki/Marcelinho_da_Lua "wikilink") - "Tranqüilo"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") [Nine Black Alps](https://ko.wikipedia.org/wiki/Nine_Black_Alps "wikilink") - "Cosmopolitan"
-  - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") [Oasis](https://ko.wikipedia.org/wiki/오아시스_\(밴드\) "wikilink") - "Lyla"
+  - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") [Oasis](../Page/오아시스_\(밴드\).md "wikilink") - "Lyla"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") *[Paul Oakenfold](https://ko.wikipedia.org/wiki/Paul_Oakenfold "wikilink") - "Beautiful Goal"*
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Norway.svg "wikilink") [Röyksopp](https://ko.wikipedia.org/wiki/Röyksopp "wikilink") - "Follow My Ruin"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Ghana.svg "wikilink") [Selasee](https://ko.wikipedia.org/wiki/Selasee "wikilink") - "Run"
@@ -137,7 +137,7 @@ conjure one - redemption(max graham's dead sea mix)
 
 ## 피파 07 사운드트랙
 
-피파 07에서 주목할 만한 점은 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 3집 *[Swan Songs](https://ko.wikipedia.org/wiki/Swan_Songs "wikilink")*의 타이틀곡이자, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 대한민국에서 큰 인기를 끈 "Fly"가 삽입되었다는 것이다. 일부 곡은 [피파 온라인 2에](https://ko.wikipedia.org/wiki/피파_온라인_2 "wikilink") 삽입되기도 했다.
+피파 07에서 주목할 만한 점은 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 3집 *[Swan Songs](https://ko.wikipedia.org/wiki/Swan_Songs "wikilink")*의 타이틀곡이자, [2005년](../Page/2005년.md "wikilink") 대한민국에서 큰 인기를 끈 "Fly"가 삽입되었다는 것이다. 일부 곡은 [피파 온라인 2에](https://ko.wikipedia.org/wiki/피파_온라인_2 "wikilink") 삽입되기도 했다.
 
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Benin.svg "wikilink") [Angélique Kidjo](https://ko.wikipedia.org/wiki/Angélique_Kidjo "wikilink") - "Wele Wele"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") [Belasco](https://ko.wikipedia.org/wiki/Belasco_\(band\) "wikilink") - "Chloroform"
@@ -157,7 +157,7 @@ conjure one - redemption(max graham's dead sea mix)
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg "wikilink") [Mellowdrone](https://ko.wikipedia.org/wiki/Mellowdrone "wikilink") - "Oh My"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Canada.svg "wikilink") [Mobile](https://ko.wikipedia.org/wiki/Mobile_\(band\) "wikilink") - "New York Minute"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") [Morning Runner](https://ko.wikipedia.org/wiki/Morning_Runner "wikilink") - "Gone Up In Flames"
-  - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") [Muse](https://ko.wikipedia.org/wiki/뮤즈_\(밴드\) "wikilink") - "Supermassive Black Hole"
+  - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") [Muse](../Page/뮤즈_\(밴드\).md "wikilink") - "Supermassive Black Hole"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg "wikilink") [Nightmare of You](https://ko.wikipedia.org/wiki/Nightmare_of_You "wikilink") - "Dear Scene, I Wish I Were Deaf"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Denmark.svg "wikilink") [Outlandish](https://ko.wikipedia.org/wiki/Outlandish "wikilink") - "Kom Igen"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") *[Paul Oakenfold](https://ko.wikipedia.org/wiki/Paul_Oakenfold "wikilink") - "Beautiful Goal"*
@@ -170,7 +170,7 @@ conjure one - redemption(max graham's dead sea mix)
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg "wikilink") [Shiny Toy Guns](https://ko.wikipedia.org/wiki/샤이니_토이_건스 "wikilink") - "You Are The One"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Belgium.svg "wikilink") [Stijn](https://ko.wikipedia.org/wiki/Stijn "wikilink") - "Gasoline & Matches"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Norway.svg "wikilink") [Suferosa](https://ko.wikipedia.org/wiki/Suferosa "wikilink") - "Royal Uniform"
-  - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_France.svg "wikilink") [Tahiti 80](https://ko.wikipedia.org/wiki/타히티_80 "wikilink") - "Big Day"
+  - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_France.svg "wikilink") [Tahiti 80](../Page/타히티_80.md "wikilink") - "Big Day"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") [The Feeling](https://ko.wikipedia.org/wiki/필링 "wikilink") - "Sewn"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_Spain.svg "wikilink") [The Pinker Tones](https://ko.wikipedia.org/wiki/The_Pinker_Tones "wikilink") - "TMCr Grand Finale"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_Netherlands.svg "wikilink") [The Sheer](https://ko.wikipedia.org/wiki/The_Sheer "wikilink") - "Understand"
@@ -182,7 +182,7 @@ conjure one - redemption(max graham's dead sea mix)
 
 ## 피파 08 사운드트랙
 
-피파 08에는 27개국 50곡이 실렸으며 이는 전작인 피파 07보다 10곡이 늘어난 것이다. 유럽 음악 위주로 구성된 가운데 [알제리](https://ko.wikipedia.org/wiki/알제리 "wikilink"), [에티오피아](https://ko.wikipedia.org/wiki/에티오피아 "wikilink"), [남아공](https://ko.wikipedia.org/wiki/남아공 "wikilink"), [가나](https://ko.wikipedia.org/wiki/가나 "wikilink") 등 아프리카 지역 곡들이 늘어난 것이 눈에 띈다. [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") [Junkie XL의](https://ko.wikipedia.org/wiki/Junkie_XL "wikilink") 곡은 [유로 2004의](https://ko.wikipedia.org/wiki/유로_2004 "wikilink") "**Billy club**"에 이어 두 번째로 들어갔으며, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [Tigarah](https://ko.wikipedia.org/wiki/Tigarah "wikilink")의 곡도 피파 07의 "**Girl Fight**"에 이어 두 시리즈 연속으로 들어가게 되었다.
+피파 08에는 27개국 50곡이 실렸으며 이는 전작인 피파 07보다 10곡이 늘어난 것이다. 유럽 음악 위주로 구성된 가운데 [알제리](../Page/알제리.md "wikilink"), [에티오피아](../Page/에티오피아.md "wikilink"), [남아공](https://ko.wikipedia.org/wiki/남아공 "wikilink"), [가나](../Page/가나.md "wikilink") 등 아프리카 지역 곡들이 늘어난 것이 눈에 띈다. [네덜란드](../Page/네덜란드.md "wikilink") [Junkie XL의](https://ko.wikipedia.org/wiki/Junkie_XL "wikilink") 곡은 [유로 2004의](https://ko.wikipedia.org/wiki/유로_2004 "wikilink") "**Billy club**"에 이어 두 번째로 들어갔으며, [일본](../Page/일본.md "wikilink") [Tigarah](https://ko.wikipedia.org/wiki/Tigarah "wikilink")의 곡도 피파 07의 "**Girl Fight**"에 이어 두 시리즈 연속으로 들어가게 되었다.
 
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg "wikilink") [\!\!\!](https://ko.wikipedia.org/wiki/!!!_\(음악_그룹\) "wikilink") - "All My Heroes Are Weirdos"
   - [border](https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Kingdom.svg "wikilink") [Apartment](https://ko.wikipedia.org/wiki/Apartment "wikilink") - "Fall Into Place"
@@ -258,7 +258,7 @@ conjure one - redemption(max graham's dead sea mix)
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/블록_파티" title="wikilink">Bloc Party</a></p></td>
+<td><p><a href="../Page/블록_파티.md" title="wikilink">Bloc Party</a></p></td>
 <td><p>Ratchet</p></td>
 </tr>
 <tr class="even">
@@ -353,7 +353,7 @@ conjure one - redemption(max graham's dead sea mix)
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나인_인치_네일스" title="wikilink">Nine Inch Nails</a></p></td>
+<td><p><a href="../Page/나인_인치_네일스.md" title="wikilink">Nine Inch Nails</a></p></td>
 <td><p>Copy Of A</p></td>
 </tr>
 <tr class="odd">
@@ -418,7 +418,7 @@ conjure one - redemption(max graham's dead sea mix)
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뱀파이어_위켄드" title="wikilink">Vampire Weekend</a></p></td>
+<td><p><a href="../Page/뱀파이어_위켄드.md" title="wikilink">Vampire Weekend</a></p></td>
 <td><p>Worship You</p></td>
 </tr>
 <tr class="even">

@@ -1,31 +1,31 @@
 > This article is converted from Wikipedia: [TMS ](https://ko.wikipedia.org/wiki/TMS_).
 
 
-**주식회사 TMS 엔터테인먼트**(, )은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 제작사이다.
+**주식회사 TMS 엔터테인먼트**(, )은 [일본](../Page/일본.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink") 제작사이다.
 
 ## 제작 작품
 
 ### 애니메이션 시리즈
 
   - 2001 밤의 이야기
-  - [에이스를 노려라\!](https://ko.wikipedia.org/wiki/에이스를_노려라! "wikilink")
+  - [에이스를 노려라\!](../Page/에이스를_노려라!.md "wikilink")
   - [아키라](../Page/아키라_\(영화\).md "wikilink")
   - Big X
   - 캣츠 아이
-  - [명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난 "wikilink")
+  - [명탐정 코난](../Page/명탐정_코난.md "wikilink")
   - 데빌맨 레이디
-  - [디 그레이맨](https://ko.wikipedia.org/wiki/디_그레이맨 "wikilink")
+  - [디 그레이맨](../Page/디_그레이맨.md "wikilink")
   - [플란다스의 개](https://ko.wikipedia.org/wiki/플란다스의_개 "wikilink")
-  - [도라에몽](https://ko.wikipedia.org/wiki/도라에몽 "wikilink") ([1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink")사이 방영된 최초의 26개의 에피소드만 제작, [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink")\~[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")의 에피소드들은 [신에이 동화](../Page/신에이_동화.md "wikilink") 제작, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 현재는 [ADK](https://ko.wikipedia.org/wiki/ADK "wikilink")에서 제작)
-  - [고르고13](https://ko.wikipedia.org/wiki/고르고13 "wikilink")
-  - [방가방가 햄토리](https://ko.wikipedia.org/wiki/방가방가_햄토리 "wikilink")
+  - [도라에몽](../Page/도라에몽.md "wikilink") ([1973년](../Page/1973년.md "wikilink")사이 방영된 최초의 26개의 에피소드만 제작, [1979년](../Page/1979년.md "wikilink")\~[2005년](../Page/2005년.md "wikilink")의 에피소드들은 [신에이 동화](../Page/신에이_동화.md "wikilink") 제작, [2006년](../Page/2006년.md "wikilink") 현재는 [ADK](https://ko.wikipedia.org/wiki/ADK "wikilink")에서 제작)
+  - [고르고13](../Page/고르고13.md "wikilink")
+  - [방가방가 햄토리](../Page/방가방가_햄토리.md "wikilink")
   - [태양의 사자 철인 28호](https://ko.wikipedia.org/wiki/태양의_사자_철인_28호 "wikilink")
   - [철인 28호 FX](https://ko.wikipedia.org/wiki/철인_28호_FX "wikilink")
   - 리틀 네모
   - [루팡 3세](https://ko.wikipedia.org/wiki/루팡_3세 "wikilink")
   - MAPS
-  - [마법기사 레이어스](https://ko.wikipedia.org/wiki/마법기사_레이어스 "wikilink")
-  - [인어 시리즈](https://ko.wikipedia.org/wiki/인어_시리즈 "wikilink")
+  - [마법기사 레이어스](../Page/마법기사_레이어스.md "wikilink")
+  - [인어 시리즈](../Page/인어_시리즈.md "wikilink")
   - 몬스터 팜
   - 포포로크로이스 (2기)
   - 레드바론
@@ -33,21 +33,21 @@
   - 교고쿠 나츠히코 항설백물어
   - [베르사유의 장미](https://ko.wikipedia.org/wiki/베르사유의_장미 "wikilink")
   - [천사소녀 네티](https://ko.wikipedia.org/wiki/천사소녀_네티 "wikilink")
-  - [명탐정 번개](https://ko.wikipedia.org/wiki/명탐정_번개 "wikilink")
+  - [명탐정 번개](../Page/명탐정_번개.md "wikilink")
   - 사상 최강의 제자 켄이치
   - Soccer Fever
   - 바람돌이 소닉
   - 우주해적 코브라
-  - [건방진 천사](https://ko.wikipedia.org/wiki/건방진_천사 "wikilink")
+  - [건방진 천사](../Page/건방진_천사.md "wikilink")
   - 초시공세기 오거스
   - 보물섬
-  - [내일의 죠](https://ko.wikipedia.org/wiki/내일의_죠 "wikilink")
+  - [내일의 죠](../Page/내일의_죠.md "wikilink")
   - 우주선장 율리시스 (프랑스의 DIC엔터테인먼트와 합작)
   - 버추어 파이터 애니메이션
-  - [모래요정 바람돌이](https://ko.wikipedia.org/wiki/모래요정_바람돌이 "wikilink")
-  - [겐지 이야기 천년기 Genji](https://ko.wikipedia.org/wiki/겐지_이야기_천년기_Genji "wikilink")
-  - [쿄고쿠 나츠히코 항간에 떠도는 100가지 이야기](https://ko.wikipedia.org/wiki/항설백물어 "wikilink")
-  - [소닉 X](https://ko.wikipedia.org/wiki/소닉_X "wikilink")
+  - [모래요정 바람돌이](../Page/모래요정_바람돌이.md "wikilink")
+  - [겐지 이야기 천년기 Genji](../Page/겐지_이야기_천년기_Genji.md "wikilink")
+  - [쿄고쿠 나츠히코 항간에 떠도는 100가지 이야기](../Page/항설백물어.md "wikilink")
+  - [소닉 X](../Page/소닉_X.md "wikilink")
 
 ### 미국 애니메이션
 
@@ -59,7 +59,7 @@
   - 출동\! 바이오 용사
   - 다람쥐 구조대
   - Cybersix (일본과 캐나다의 합작)
-  - 요술곰의 모험나라 ([디즈니 만화동산에](https://ko.wikipedia.org/wiki/디즈니_만화동산 "wikilink") 방영된 만화.)
+  - 요술곰의 모험나라 ([디즈니 만화동산에](../Page/디즈니_만화동산.md "wikilink") 방영된 만화.)
   - [개구쟁이 데니스](https://ko.wikipedia.org/wiki/개구쟁이_데니스 "wikilink")
   - 욕심쟁이 오리 아저씨
   - Fox's Peter Pan & the Pirates (13개의 에피소드, 다른 에피소드는 몇몇 한국 회사에서 제작됨)
@@ -77,10 +77,10 @@
   - Sweet Sea
   - The Sylvester and Tweety Mysteries
   - [말괄량이 뱁스](https://ko.wikipedia.org/wiki/말괄량이_뱁스 "wikilink")(타이니 툰)
-  - [트랜스포머](../Page/트랜스포머_\(애니메이션\).md "wikilink") (**Call of the Primitives** 단 한편만 제작, 다른 에피소드는 일본의 [도에이](https://ko.wikipedia.org/wiki/도에이 "wikilink")와 한국의 에이콤 프로덕션에서 제작)
+  - [트랜스포머](../Page/트랜스포머_\(애니메이션\).md "wikilink") (**Call of the Primitives** 단 한편만 제작, 다른 에피소드는 일본의 [도에이](../Page/도에이.md "wikilink")와 한국의 에이콤 프로덕션에서 제작)
   - Visionaries: Knights of the Magical Light
   - Wuzzles
-  - [쾌걸 조로](https://ko.wikipedia.org/wiki/쾌걸_조로_\(애니메이션\) "wikilink")
+  - [쾌걸 조로](../Page/쾌걸_조로_\(애니메이션\).md "wikilink")
 
 ## 외부 링크
 
