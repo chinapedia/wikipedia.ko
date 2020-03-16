@@ -30,15 +30,15 @@
 
 ## 뮤직비디오
 
-<Hoppípolla>의 프로모션 영상은 [아르니 & 킨스키가](https://ko.wikipedia.org/wiki/아르니_&_킨스키 "wikilink") 감독을 맡았으며 2005년 11월에 촬영되었다. 뮤직비디오의 내용은 두 무리의 노인들이 [레이캬비크](https://ko.wikipedia.org/wiki/레이캬비크 "wikilink") 교외 지역을 거닐며 애들처럼 행동하고 다니는 장면들을 담은 것으로, 사람들에게 장난질을 하고 다니다 어느 [공동묘지](https://ko.wikipedia.org/wiki/공동묘지 "wikilink") 근처에서 물풍선과 나무칼로 서로 전투를 벌이는 모습이다. 이때 한 할아버지가 다쳐서 (가사에 나오는 것처럼) [코피](https://ko.wikipedia.org/wiki/코피 "wikilink")를 흘리자 상대편이 겁을 먹고 도망치고, 나머지 노인들은 승리를 자축한다. 영상 중간중간에는 노래의 제목을 상징하듯 길가의 '웅덩이에 첨벙첨벙 뛰어드는' 장면들이 다수 등장한다.
+<Hoppípolla>의 프로모션 영상은 [아르니 & 킨스키가](https://ko.wikipedia.org/wiki/아르니_&_킨스키 "wikilink") 감독을 맡았으며 2005년 11월에 촬영되었다. 뮤직비디오의 내용은 두 무리의 노인들이 [레이캬비크](../Page/레이캬비크.md "wikilink") 교외 지역을 거닐며 애들처럼 행동하고 다니는 장면들을 담은 것으로, 사람들에게 장난질을 하고 다니다 어느 [공동묘지](https://ko.wikipedia.org/wiki/공동묘지 "wikilink") 근처에서 물풍선과 나무칼로 서로 전투를 벌이는 모습이다. 이때 한 할아버지가 다쳐서 (가사에 나오는 것처럼) [코피](../Page/코피.md "wikilink")를 흘리자 상대편이 겁을 먹고 도망치고, 나머지 노인들은 승리를 자축한다. 영상 중간중간에는 노래의 제목을 상징하듯 길가의 '웅덩이에 첨벙첨벙 뛰어드는' 장면들이 다수 등장한다.
 
 뮤직비디오 내에는 밴드 멤버들도 등장한다. 키보드를 맡는 [키아르탄 스베인손은](https://ko.wikipedia.org/wiki/키아르탄_스베인손 "wikilink") [초인종 장난을](https://ko.wikipedia.org/wiki/초인종_장난 "wikilink") 당하는 사람으로, 기타와 보컬을 맡는 [욘 소우르 비르기손은](https://ko.wikipedia.org/wiki/욘_소우르_비르기손 "wikilink") 노인들이 배를 훔쳐 먹을 때 가게에서 계산을 보는 직원으로, 드럼을 맡는 [오리 파우들 디라손은](https://ko.wikipedia.org/wiki/오리_파우들_디라손 "wikilink") 자기 자전거를 수리하는 사람으로, 베이스를 맡는 [게오르그 홀름은](https://ko.wikipedia.org/wiki/게오르그_홀름 "wikilink") 거리를 청소하는 사람으로 등장한다.\[1\]
 
 ## 일반 매체에서의 등장
 
-"Hoppípolla"는 2006년 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 다큐멘터리 대작 \<[플래닛 어스](../Page/플래닛_어스.md "wikilink")\>의 TV 예고편 배경음악으로 사용되어, 밴드로 하여금 대중의 폭발적인 인지도를 갖게 만들었다. 이때 싱글 음반 수요가 급격히 증가하면서 2006년 5월에 [EMI](https://ko.wikipedia.org/wiki/EMI "wikilink")에서 해당 싱글을 재발매하기도 했다. 그리고 재발매판 앨범으로 시규어 로스는 주류 음반시장의 평론가들로부터 큰 호평을 받았다.
+"Hoppípolla"는 2006년 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 다큐멘터리 대작 \<[플래닛 어스](../Page/플래닛_어스.md "wikilink")\>의 TV 예고편 배경음악으로 사용되어, 밴드로 하여금 대중의 폭발적인 인지도를 갖게 만들었다. 이때 싱글 음반 수요가 급격히 증가하면서 2006년 5월에 [EMI](../Page/EMI.md "wikilink")에서 해당 싱글을 재발매하기도 했다. 그리고 재발매판 앨범으로 시규어 로스는 주류 음반시장의 평론가들로부터 큰 호평을 받았다.
 
-이밖에도 드라마, 다큐멘터리, 2006년 축구 경기에 이르기까지 BBC 프로그램에서 이 곡이 자주 사용되었다. 영화 《[칠드런 오브 맨](https://ko.wikipedia.org/wiki/칠드런_오브_맨 "wikilink")》, 《[슬럼독 밀리어네어](https://ko.wikipedia.org/wiki/슬럼독_밀리어네어 "wikilink")》의 예고편에도 등장하였으며, 2006년 영화 《[페넬로피](https://ko.wikipedia.org/wiki/페넬로피_\(2008년_영화\) "wikilink")》와 2011년 영화 《[우리는 동물원을 샀다](../Page/우리는_동물원을_샀다.md "wikilink")》의 사운드트랙에도 수록되었다. [톰슨 로이터](../Page/톰슨_로이터.md "wikilink"), [옥스팜](https://ko.wikipedia.org/wiki/옥스팜 "wikilink"), [비어샛](https://ko.wikipedia.org/wiki/비어샛 "wikilink") 등의 기업 광고에도 삽입되었으며, 대한민국에서는 《[무한도전](https://ko.wikipedia.org/wiki/무한도전 "wikilink")》 알래스카 특집과 레슬링 특집\[2\]에 등장해 인지도를 올린 바 있다.
+이밖에도 드라마, 다큐멘터리, 2006년 축구 경기에 이르기까지 BBC 프로그램에서 이 곡이 자주 사용되었다. 영화 《[칠드런 오브 맨](../Page/칠드런_오브_맨.md "wikilink")》, 《[슬럼독 밀리어네어](../Page/슬럼독_밀리어네어.md "wikilink")》의 예고편에도 등장하였으며, 2006년 영화 《[페넬로피](../Page/페넬로피_\(2008년_영화\).md "wikilink")》와 2011년 영화 《[우리는 동물원을 샀다](../Page/우리는_동물원을_샀다.md "wikilink")》의 사운드트랙에도 수록되었다. [톰슨 로이터](../Page/톰슨_로이터.md "wikilink"), [옥스팜](../Page/옥스팜.md "wikilink"), [비어샛](https://ko.wikipedia.org/wiki/비어샛 "wikilink") 등의 기업 광고에도 삽입되었으며, 대한민국에서는 《[무한도전](../Page/무한도전.md "wikilink")》 알래스카 특집과 레슬링 특집\[2\]에 등장해 인지도를 올린 바 있다.
 
 최근(2019) JTBC의 슈퍼밴드라는 밴드음악 프로그램에서 결승 라운드에 '[호피폴라](https://ko.wikipedia.org/wiki/호피폴라 "wikilink")'팀이 편곡하고 연주하여 사람들에게 인지도를 올리고있다.
 

@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [VEB ](https://ko.wikipedia.org/wiki/VEB_).
 
 
-**VEB 아레나**()또는 **아레나 CSKA**는 [러시아](https://ko.wikipedia.org/wiki/러시아 "wikilink") [모스크바](https://ko.wikipedia.org/wiki/모스크바 "wikilink")에 있는 다목적 경기장이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 착공하여, [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 공식적으로 개장하였다. [CSKA가](https://ko.wikipedia.org/wiki/PFC_CSKA_모스크바 "wikilink") 소유·사용 중이다. 경기장은 버치 그 로브 공원 (Park of Birch Grove)의 Khodynka Field 근처에 위치하고 있다.
+**VEB 아레나**()또는 **아레나 CSKA**는 [러시아](../Page/러시아.md "wikilink") [모스크바](../Page/모스크바.md "wikilink")에 있는 다목적 경기장이다. [2007년](../Page/2007년.md "wikilink")에 착공하여, [2016년](../Page/2016년.md "wikilink")에 공식적으로 개장하였다. [CSKA가](../Page/PFC_CSKA_모스크바.md "wikilink") 소유·사용 중이다. 경기장은 버치 그 로브 공원 (Park of Birch Grove)의 Khodynka Field 근처에 위치하고 있다.
 
 건설 과정은 2007년에 시작되어 여러 번 중단되었으며, 가장 긴 일시 중지 기간은 16개월 (2009년에서 2011년 사이)이다.
 
-경기장은 30,000명의 수용할 수 있다. UEFA 컵을 닮은 초고층 건물이 2005년 처음으로 [CSKA가](https://ko.wikipedia.org/wiki/PFC_CSKA_모스크바 "wikilink") Sporting CP를 물리 치고 러시아 클럽에서 우승 한 유럽 트로피를 획득했다. 높이 142m의 초고층 건물은 구석에 세워져 있지만, 나머지 3구도 일반 스탠드 대신 사무 공간과 스카이 박스가 있다. 1,400자리의 주차장 공간이 있다.
+경기장은 30,000명의 수용할 수 있다. UEFA 컵을 닮은 초고층 건물이 2005년 처음으로 [CSKA가](../Page/PFC_CSKA_모스크바.md "wikilink") Sporting CP를 물리 치고 러시아 클럽에서 우승 한 유럽 트로피를 획득했다. 높이 142m의 초고층 건물은 구석에 세워져 있지만, 나머지 3구도 일반 스탠드 대신 사무 공간과 스카이 박스가 있다. 1,400자리의 주차장 공간이 있다.
 
-친선 경기[첼시는](https://ko.wikipedia.org/wiki/첼시_FC "wikilink") [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 7일](https://ko.wikipedia.org/wiki/8월_7일 "wikilink") [CSKA의](https://ko.wikipedia.org/wiki/PFC_CSKA_모스크바 "wikilink") 새로운 경기장을 공식적으로 발표 할 예정 이었으나 경기는하지 않았다.\[1\]
+친선 경기[첼시는](../Page/첼시_FC.md "wikilink") [2016년](../Page/2016년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") [CSKA의](../Page/PFC_CSKA_모스크바.md "wikilink") 새로운 경기장을 공식적으로 발표 할 예정 이었으나 경기는하지 않았다.\[1\]
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink"),아레나 CSKA을 개장하였다.\[2\]
+[2016년](../Page/2016년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink"),아레나 CSKA을 개장하였다.\[2\]
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink"), 아레나 CSKA은 VEB 아레나로 러시아 은행에 VEB 아레나로 지정한다고 발표했다.\[3\]
+[2017년](../Page/2017년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink"), 아레나 CSKA은 VEB 아레나로 러시아 은행에 VEB 아레나로 지정한다고 발표했다.\[3\]
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USB-C](https://ko.wikipedia.org/wiki/USB-C).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:LeTV_X600_USB_Type_C_port.jpg "wikilink") **USB-C**, 또는 **USB 타입-C**(USB Type-C)는 데이터와 전력의 전송을 허용하는 24핀 [USB](https://ko.wikipedia.org/wiki/USB "wikilink") 단자 시스템이다. 상하 대칭 형태인 리버서블 커넥터와는 구별한다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:LeTV_X600_USB_Type_C_port.jpg "wikilink") **USB-C**, 또는 **USB 타입-C**(USB Type-C)는 데이터와 전력의 전송을 허용하는 24핀 [USB](../Page/USB.md "wikilink") 단자 시스템이다. 상하 대칭 형태인 리버서블 커넥터와는 구별한다.\[1\]
 
 USB 타입-C 사양 1.0은 [USB-IF](https://ko.wikipedia.org/wiki/USB-IF "wikilink")에 의해 출판되어 2014년 8월 완성되었다.\[2\] [USB 3.1](https://ko.wikipedia.org/wiki/USB_3.1 "wikilink") 사양과 거의 동일한 시간에 개발되었다.
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
 
 
-**아마존 파이어 OS**(Amazon Fire OS)는 [파이어 폰과](https://ko.wikipedia.org/wiki/파이어_폰 "wikilink") [킨들 파이어](https://ko.wikipedia.org/wiki/킨들_파이어 "wikilink") 계열의 [태블릿](https://ko.wikipedia.org/wiki/태블릿_컴퓨터 "wikilink"), 에코(Echo), 에코 닷(Echo Dot), 또 [파이어 TV와](https://ko.wikipedia.org/wiki/아마존_파이어_TV "wikilink") 같은 기타 콘텐츠 배급 장치를 대상으로 [아마존닷컴](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink")이 개발한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 기반 [모바일 운영 체제이다](https://ko.wikipedia.org/wiki/모바일_운영_체제 "wikilink"). 태블릿 버전의 [킨들](https://ko.wikipedia.org/wiki/아마존_킨들 "wikilink") 전자책 단말기들은 파이어 계열에 속한다. 이는 [안드로이드로부터](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [분기된](../Page/포크_\(소프트웨어_개발\).md "wikilink") 것이다. 파이어 OS는 주로 사용자 맞춤식 [사용자 인터페이스](https://ko.wikipedia.org/wiki/사용자_인터페이스 "wikilink") 및 아마존 자체 상점 및 서비스에서 이용 가능한 콘텐츠와 상당 부분 연계한 콘텐츠 소비에 핵심을 두고 있다.
+**아마존 파이어 OS**(Amazon Fire OS)는 [파이어 폰과](https://ko.wikipedia.org/wiki/파이어_폰 "wikilink") [킨들 파이어](https://ko.wikipedia.org/wiki/킨들_파이어 "wikilink") 계열의 [태블릿](../Page/태블릿_컴퓨터.md "wikilink"), 에코(Echo), 에코 닷(Echo Dot), 또 [파이어 TV와](https://ko.wikipedia.org/wiki/아마존_파이어_TV "wikilink") 같은 기타 콘텐츠 배급 장치를 대상으로 [아마존닷컴](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink")이 개발한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 기반 [모바일 운영 체제이다](../Page/모바일_운영_체제.md "wikilink"). 태블릿 버전의 [킨들](../Page/아마존_킨들.md "wikilink") 전자책 단말기들은 파이어 계열에 속한다. 이는 [안드로이드로부터](../Page/안드로이드_\(운영_체제\).md "wikilink") [분기된](../Page/포크_\(소프트웨어_개발\).md "wikilink") 것이다. 파이어 OS는 주로 사용자 맞춤식 [사용자 인터페이스](../Page/사용자_인터페이스.md "wikilink") 및 아마존 자체 상점 및 서비스에서 이용 가능한 콘텐츠와 상당 부분 연계한 콘텐츠 소비에 핵심을 두고 있다.
 
-킨들 파이어가 특히 2.3.3 (API 레벨 10) (킨들 파이어) 및 4.0.3 (AP 레벨 15) ([파이어 HD](https://ko.wikipedia.org/wiki/파이어_HD "wikilink"))에서 안드로이드의 맞춤식 배포판을 무조건 사용해 온 반면, 아마존은 파이어 HD 2세대와 [파이어 HDX](https://ko.wikipedia.org/wiki/파이어_HDX "wikilink") 모델을 포함하는 킨들 파이어 태블릿의 3번째 판부터 해당 배포판을 파이어 OS로 이야기하기 시작했다. 운영 체제가 안드로이드로 언급되는 과거의 킨들 파이어 모델과 달리 파이어 HDX "파이어 OS 3.0" 운영 체제는 안드로이드와 "호환"된다고 언급된다. 파이어 OS 3는 안드로이드 4.2.2 (API 레벨 17)에서 분기되었다.\[1\]\[2\]\[3\] 파이어 HD(3세대)와 파이어 HDX(2세대) 태블릿에서 파이어 OS 4는 안드로이드 4.4.2 (API 레벨 19)에서 분기되었다.\[4\]\[5\] 파이어 OS 4.5.1은 안드로이드 4.4.3에 기반을 두고 있다.\[6\]\[7\] 파이어 OS 5.0은 안드로이드 5.0 (API 레벨 22)에 기반을 두고 있다.\[8\]
+킨들 파이어가 특히 2.3.3 (API 레벨 10) (킨들 파이어) 및 4.0.3 (AP 레벨 15) ([파이어 HD](https://ko.wikipedia.org/wiki/파이어_HD "wikilink"))에서 안드로이드의 맞춤식 배포판을 무조건 사용해 온 반면, 아마존은 파이어 HD 2세대와 [파이어 HDX](../Page/파이어_HDX.md "wikilink") 모델을 포함하는 킨들 파이어 태블릿의 3번째 판부터 해당 배포판을 파이어 OS로 이야기하기 시작했다. 운영 체제가 안드로이드로 언급되는 과거의 킨들 파이어 모델과 달리 파이어 HDX "파이어 OS 3.0" 운영 체제는 안드로이드와 "호환"된다고 언급된다. 파이어 OS 3는 안드로이드 4.2.2 (API 레벨 17)에서 분기되었다.\[1\]\[2\]\[3\] 파이어 HD(3세대)와 파이어 HDX(2세대) 태블릿에서 파이어 OS 4는 안드로이드 4.4.2 (API 레벨 19)에서 분기되었다.\[4\]\[5\] 파이어 OS 4.5.1은 안드로이드 4.4.3에 기반을 두고 있다.\[6\]\[7\] 파이어 OS 5.0은 안드로이드 5.0 (API 레벨 22)에 기반을 두고 있다.\[8\]
 
 ## 파이어 OS 버전 목록
 
@@ -62,14 +62,14 @@
 
   - [킨들 파이어](https://ko.wikipedia.org/wiki/킨들_파이어 "wikilink")
       - [파이어 HD](https://ko.wikipedia.org/wiki/파이어_HD "wikilink")
-      - [파이어 HDX](https://ko.wikipedia.org/wiki/파이어_HDX "wikilink")
+      - [파이어 HDX](../Page/파이어_HDX.md "wikilink")
   - [아마존 파이어 TV](https://ko.wikipedia.org/wiki/아마존_파이어_TV "wikilink")
       - [파이어 TV 스틱](https://ko.wikipedia.org/wiki/아마존_파이어_TV "wikilink")
   - [파이어 폰](https://ko.wikipedia.org/wiki/파이어_폰 "wikilink")
 
 ## 같이 보기
 
-  - [타이젠](https://ko.wikipedia.org/wiki/타이젠 "wikilink")
+  - [타이젠](../Page/타이젠.md "wikilink")
   - [세일피시 OS](../Page/세일피시_OS.md "wikilink")
   - [블랙베리 10](../Page/블랙베리_10.md "wikilink")
 

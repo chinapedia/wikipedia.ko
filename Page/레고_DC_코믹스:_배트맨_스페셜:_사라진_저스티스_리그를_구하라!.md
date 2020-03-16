@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [ DC :  :    !](https://ko.wikipedia.org/wiki/_DC_:__:____!).
 
 
-《**레고 DC 코믹스: 배트맨 스페셜: 사라진 저스티스 리그를 구하라\!**》()은 2014년 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [카툰 네트워크](https://ko.wikipedia.org/wiki/카툰_네트워크 "wikilink") 채널에서 방영된 [레고 배트맨](https://ko.wikipedia.org/wiki/레고_배트맨 "wikilink") 스페셜 에피소드이다. [배트맨](https://ko.wikipedia.org/wiki/배트맨 "wikilink")이 자신에게 가입을 권유하러 온 [저스티스 리그가](https://ko.wikipedia.org/wiki/저스티스_리그 "wikilink") 행방불명되자 이들을 구출하러 간다는 내용이다.
+《**레고 DC 코믹스: 배트맨 스페셜: 사라진 저스티스 리그를 구하라\!**》()은 2014년 [미국](../Page/미국.md "wikilink") [카툰 네트워크](../Page/카툰_네트워크.md "wikilink") 채널에서 방영된 [레고 배트맨](https://ko.wikipedia.org/wiki/레고_배트맨 "wikilink") 스페셜 에피소드이다. [배트맨](../Page/배트맨.md "wikilink")이 자신에게 가입을 권유하러 온 [저스티스 리그가](https://ko.wikipedia.org/wiki/저스티스_리그 "wikilink") 행방불명되자 이들을 구출하러 간다는 내용이다.
 
 ## 성우진
 
-  - [트로이 베이커](https://ko.wikipedia.org/wiki/트로이_베이커 "wikilink") - [배트맨](https://ko.wikipedia.org/wiki/배트맨 "wikilink")
-  - [디 브래들리 베이커](https://ko.wikipedia.org/wiki/디_브래들리_베이커 "wikilink") - [아쿠아맨](https://ko.wikipedia.org/wiki/아쿠아맨 "wikilink"), [맨배트](https://ko.wikipedia.org/wiki/맨배트 "wikilink")
-  - [그레이 딜라일](https://ko.wikipedia.org/wiki/그레이_딜라일 "wikilink") - [로이스 레인](https://ko.wikipedia.org/wiki/로이스_레인 "wikilink"), [원더우먼](https://ko.wikipedia.org/wiki/원더우먼 "wikilink")
-  - [존 디마지오](https://ko.wikipedia.org/wiki/존_디마지오 "wikilink") - [조커](https://ko.wikipedia.org/wiki/조커_\(DC_코믹스\) "wikilink"), [렉스 루터](https://ko.wikipedia.org/wiki/렉스_루터 "wikilink")
-  - [톰 케니](https://ko.wikipedia.org/wiki/톰_케니 "wikilink") - [펭귄](../Page/펭귄_\(DC_코믹스\).md "wikilink")
-  - [놀런 노스](https://ko.wikipedia.org/wiki/놀런_노스 "wikilink") - [슈퍼맨](https://ko.wikipedia.org/wiki/슈퍼맨 "wikilink"), [앨프리드 페니워스](https://ko.wikipedia.org/wiki/앨프리드_페니워스 "wikilink")
+  - [트로이 베이커](../Page/트로이_베이커.md "wikilink") - [배트맨](../Page/배트맨.md "wikilink")
+  - [디 브래들리 베이커](../Page/디_브래들리_베이커.md "wikilink") - [아쿠아맨](https://ko.wikipedia.org/wiki/아쿠아맨 "wikilink"), [맨배트](https://ko.wikipedia.org/wiki/맨배트 "wikilink")
+  - [그레이 딜라일](https://ko.wikipedia.org/wiki/그레이_딜라일 "wikilink") - [로이스 레인](../Page/로이스_레인.md "wikilink"), [원더우먼](../Page/원더우먼.md "wikilink")
+  - [존 디마지오](../Page/존_디마지오.md "wikilink") - [조커](../Page/조커_\(DC_코믹스\).md "wikilink"), [렉스 루터](https://ko.wikipedia.org/wiki/렉스_루터 "wikilink")
+  - [톰 케니](../Page/톰_케니.md "wikilink") - [펭귄](../Page/펭귄_\(DC_코믹스\).md "wikilink")
+  - [놀런 노스](https://ko.wikipedia.org/wiki/놀런_노스 "wikilink") - [슈퍼맨](../Page/슈퍼맨.md "wikilink"), [앨프리드 페니워스](https://ko.wikipedia.org/wiki/앨프리드_페니워스 "wikilink")
   - [카리 페이턴](https://ko.wikipedia.org/wiki/카리_페이턴 "wikilink") - [사이보그](https://ko.wikipedia.org/wiki/사이보그_\(DC_코믹스\) "wikilink")
   - [폴 루번스](https://ko.wikipedia.org/wiki/폴_루번스 "wikilink") - [배트마이트](https://ko.wikipedia.org/wiki/배트마이트 "wikilink")
   - [케빈 마이클 리처드슨](https://ko.wikipedia.org/wiki/케빈_마이클_리처드슨 "wikilink") - [블랙 만타](../Page/블랙_만타.md "wikilink"), [캡틴 콜드](../Page/캡틴_콜드.md "wikilink")

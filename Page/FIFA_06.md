@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [FIFA 06](https://ko.wikipedia.org/wiki/FIFA_06).
 
 
-《**FIFA 06**》은 [EA 캐나다가](https://ko.wikipedia.org/wiki/EA_캐나다 "wikilink") 개발하고 [일렉트로닉 아츠가](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 배급한 [비디오 게임의](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink") 하나로, [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 경기를 기반으로 한다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서는 2005년 10월 4일에 [플레이스테이션 2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink"), [엑스박스](https://ko.wikipedia.org/wiki/엑스박스 "wikilink"), [게임큐브](https://ko.wikipedia.org/wiki/닌텐도_게임큐브 "wikilink"), [마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink"), [닌텐도 DS용으로](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 출시되었다. 나중에 [플레이스테이션 포터블](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"), [게임보이 어드밴스](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink"), [휴대 전화용으로](https://ko.wikipedia.org/wiki/휴대_전화 "wikilink") 출시되었다.
+《**FIFA 06**》은 [EA 캐나다가](https://ko.wikipedia.org/wiki/EA_캐나다 "wikilink") 개발하고 [일렉트로닉 아츠가](../Page/일렉트로닉_아츠.md "wikilink") 배급한 [비디오 게임의](../Page/비디오_게임.md "wikilink") 하나로, [축구](../Page/축구.md "wikilink") 경기를 기반으로 한다. [미국](../Page/미국.md "wikilink")에서는 2005년 10월 4일에 [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink"), [엑스박스](../Page/엑스박스.md "wikilink"), [게임큐브](../Page/닌텐도_게임큐브.md "wikilink"), [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [닌텐도 DS용으로](../Page/닌텐도_DS.md "wikilink") 출시되었다. 나중에 [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink"), [게임보이 어드밴스](../Page/게임보이_어드밴스.md "wikilink"), [휴대 전화용으로](../Page/휴대_전화.md "wikilink") 출시되었다.
 
-이 게임은 6세대 콘솔의 마지막 FIFA 에디션이다. FIFA 06은 [FIFA 시리즈](https://ko.wikipedia.org/wiki/FIFA_\(비디오_게임_시리즈\) "wikilink") 중 13번째 게임이며 [3D의](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스 "wikilink") 경우 10번째 게임이다.
+이 게임은 6세대 콘솔의 마지막 FIFA 에디션이다. FIFA 06은 [FIFA 시리즈](../Page/FIFA_\(비디오_게임_시리즈\).md "wikilink") 중 13번째 게임이며 [3D의](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 경우 10번째 게임이다.
 
-[호나우지뉴](https://ko.wikipedia.org/wiki/호나우지뉴 "wikilink")와 [웨인 루니가](https://ko.wikipedia.org/wiki/웨인_루니 "wikilink") 유럽, 오스트레일리아, 브라질, 미국 시장의 게임 커버에 등장한다. [프레디 아두](https://ko.wikipedia.org/wiki/프레디_아두 "wikilink"), [호나우지뉴](https://ko.wikipedia.org/wiki/호나우지뉴 "wikilink"), [오마르 브라보는](../Page/오마르_브라보.md "wikilink") 북아메리카 커버에 등장하는 한편, 이 게임의 독일판에서는 [루카스 포돌스키가](https://ko.wikipedia.org/wiki/루카스_포돌스키 "wikilink") 호나우지뉴와 파트너십을 맺었고 대한민국 커버에는 [박주영](https://ko.wikipedia.org/wiki/박주영 "wikilink")이 등장한다.
+[호나우지뉴](../Page/호나우지뉴.md "wikilink")와 [웨인 루니가](../Page/웨인_루니.md "wikilink") 유럽, 오스트레일리아, 브라질, 미국 시장의 게임 커버에 등장한다. [프레디 아두](../Page/프레디_아두.md "wikilink"), [호나우지뉴](../Page/호나우지뉴.md "wikilink"), [오마르 브라보는](../Page/오마르_브라보.md "wikilink") 북아메리카 커버에 등장하는 한편, 이 게임의 독일판에서는 [루카스 포돌스키가](../Page/루카스_포돌스키.md "wikilink") 호나우지뉴와 파트너십을 맺었고 대한민국 커버에는 [박주영](../Page/박주영.md "wikilink")이 등장한다.
 
 ## 각주
 

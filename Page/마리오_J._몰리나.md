@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
 
 
-**마리오 호세 몰리나-파스칼 엔리케스**(, [1933년](https://ko.wikipedia.org/wiki/1933년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") \~ )는 [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")의 [화학](https://ko.wikipedia.org/wiki/화학 "wikilink")자이다. 1995년에 [오존층](https://ko.wikipedia.org/wiki/오존층 "wikilink") 파괴의 화학적 메커니즘을 규명한 공로로 [파울 크뤼천](https://ko.wikipedia.org/wiki/파울_크뤼천 "wikilink"), [프랭크 셔우드 롤런드와](https://ko.wikipedia.org/wiki/프랭크_셔우드_롤런드 "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.\[1\]
+**마리오 호세 몰리나-파스칼 엔리케스**(, [1933년](../Page/1933년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") \~ )는 [멕시코](../Page/멕시코.md "wikilink")의 [화학](../Page/화학.md "wikilink")자이다. 1995년에 [오존층](../Page/오존층.md "wikilink") 파괴의 화학적 메커니즘을 규명한 공로로 [파울 크뤼천](../Page/파울_크뤼천.md "wikilink"), [프랭크 셔우드 롤런드와](../Page/프랭크_셔우드_롤런드.md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.\[1\]
 
 ## 수상 경력
 
@@ -16,8 +16,8 @@
 
 ## 저서·논문
 
-  - Molina, Luisa T., Molina, Mario J. and Renyi Zhang. "[Laboratory Investigation of Organic Aerosol Formation from Aromatic Hydrocarbons,](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0463&numPages=6&fp=N)" [Massachusetts Institute of Technology](https://ko.wikipedia.org/wiki/매사추세츠_공과대학교 "wikilink") (MIT), [United States Department of Energy](https://ko.wikipedia.org/wiki/미국_에너지부 "wikilink"), (August 2006).
-  - Molina, Luisa T., Molina, Mario J., et al. "[Characterization of Fine Particulate Matter (PM) and Secondary PM Precursor Gases in the Mexico City Metropolitan Area,](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0464&numPages=37&fp=N)" [Massachusetts Institute of Technology](https://ko.wikipedia.org/wiki/매사추세츠_공과대학교 "wikilink") (MIT), [United States Department of Energy](https://ko.wikipedia.org/wiki/미국_에너지부 "wikilink"), (October 2008).
+  - Molina, Luisa T., Molina, Mario J. and Renyi Zhang. "[Laboratory Investigation of Organic Aerosol Formation from Aromatic Hydrocarbons,](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0463&numPages=6&fp=N)" [Massachusetts Institute of Technology](../Page/매사추세츠_공과대학교.md "wikilink") (MIT), [United States Department of Energy](../Page/미국_에너지부.md "wikilink"), (August 2006).
+  - Molina, Luisa T., Molina, Mario J., et al. "[Characterization of Fine Particulate Matter (PM) and Secondary PM Precursor Gases in the Mexico City Metropolitan Area,](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0464&numPages=37&fp=N)" [Massachusetts Institute of Technology](../Page/매사추세츠_공과대학교.md "wikilink") (MIT), [United States Department of Energy](../Page/미국_에너지부.md "wikilink"), (October 2008).
 
 ## 각주
 

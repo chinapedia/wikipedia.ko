@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
 
 
-**마이클 워런 영**(, [1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink") [3월 28일](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [생물학](https://ko.wikipedia.org/wiki/생물학 "wikilink")자, [시간생물학](https://ko.wikipedia.org/wiki/시간생물학 "wikilink")자이다. 2017년에 생체시계를 통제하는 분자 메커니즘을 발견한 공로로 [제프리 C. 홀](../Page/제프리_C._홀.md "wikilink"), [마이클 로스배시와](../Page/마이클_로스배시.md "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.\[1\]\[2\]
+**마이클 워런 영**(, [1949년](../Page/1949년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [생물학](../Page/생물학.md "wikilink")자, [시간생물학](https://ko.wikipedia.org/wiki/시간생물학 "wikilink")자이다. 2017년에 생체시계를 통제하는 분자 메커니즘을 발견한 공로로 [제프리 C. 홀](../Page/제프리_C._홀.md "wikilink"), [마이클 로스배시와](../Page/마이클_로스배시.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[1\]\[2\]
 
 ## 수상 경력
 
@@ -15,7 +15,7 @@
 
 ## 관련 항목
 
-  - [활동일 주기](https://ko.wikipedia.org/wiki/활동일_주기 "wikilink")
+  - [활동일 주기](../Page/활동일_주기.md "wikilink")
 
 ## 각주
 

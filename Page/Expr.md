@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Expr](https://ko.wikipedia.org/wiki/Expr).
 
 
-**expr**은 [명령 줄](https://ko.wikipedia.org/wiki/명령_줄_인터페이스 "wikilink") [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 유틸리티의 하나로, [식을](https://ko.wikipedia.org/wiki/수식 "wikilink") 평가하고 일치하는 값을 출력한다. [유닉스 v7에](https://ko.wikipedia.org/wiki/버전_7_유닉스 "wikilink") 처음 등장하였다.
+**expr**은 [명령 줄](../Page/명령_줄_인터페이스.md "wikilink") [유닉스](../Page/유닉스.md "wikilink") 유틸리티의 하나로, [식을](../Page/수식.md "wikilink") 평가하고 일치하는 값을 출력한다. [유닉스 v7에](https://ko.wikipedia.org/wiki/버전_7_유닉스 "wikilink") 처음 등장하였다.
 
 문법: `expr (식)`
 
-expr은 패턴 일치 [정규 표현식을](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink") 포함하여 [정수](https://ko.wikipedia.org/wiki/정수 "wikilink")나 [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink") 식을 평가한다.
+expr은 패턴 일치 [정규 표현식을](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink") 포함하여 [정수](../Page/정수.md "wikilink")나 [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink") 식을 평가한다.
 
 사용 가능한 연산자는 다음과 같다.
 

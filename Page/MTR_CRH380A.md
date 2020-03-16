@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MTR CRH380A](https://ko.wikipedia.org/wiki/MTR_CRH380A).
 
 
-**항철공사 CRH380A**()는 [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")의 [항철공사](https://ko.wikipedia.org/wiki/항철공사 "wikilink")에서 운영하는 [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink")로 [광선강 고속철도](https://ko.wikipedia.org/wiki/광선강_고속철도 "wikilink") 노선에 도입을 위해 생산된 고속철도 차량으로 오는 [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")부터 운행에 들어갈 예정이다. 9편성이 제작될 예정으로 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")부터 3편성이 생산되었고 현재 시범 운행에 들어갔다.\[1\]\[2\]
+**항철공사 CRH380A**()는 [홍콩](../Page/홍콩.md "wikilink")의 [항철공사](https://ko.wikipedia.org/wiki/항철공사 "wikilink")에서 운영하는 [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink")로 [광선강 고속철도](../Page/광선강_고속철도.md "wikilink") 노선에 도입을 위해 생산된 고속철도 차량으로 오는 [2018년](../Page/2018년.md "wikilink")부터 운행에 들어갈 예정이다. 9편성이 제작될 예정으로 [2014년](../Page/2014년.md "wikilink")부터 3편성이 생산되었고 현재 시범 운행에 들어갔다.\[1\]\[2\]
 
 ## 개요
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink")의 [항철공사](https://ko.wikipedia.org/wiki/항철공사 "wikilink")가 [광선강 고속철도](https://ko.wikipedia.org/wiki/광선강_고속철도 "wikilink") 노선에 열차를 도입하기 위해 [CRRC 청두 시팡과](https://ko.wikipedia.org/wiki/CRRC_청두_시팡 "wikilink") 계약을 체결했다.\[3\] [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")에 첫 편성이 조립이 완료되었다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 시범 운행에 들어갔다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 3편성이 최초로 열차 번호가 부여되었다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 [광선강 고속철도](https://ko.wikipedia.org/wiki/광선강_고속철도 "wikilink") 노선에 시범 운행을 시작했다.\[4\]
+[2012년](../Page/2012년.md "wikilink") [홍콩](../Page/홍콩.md "wikilink")의 [항철공사](https://ko.wikipedia.org/wiki/항철공사 "wikilink")가 [광선강 고속철도](../Page/광선강_고속철도.md "wikilink") 노선에 열차를 도입하기 위해 [CRRC 청두 시팡과](https://ko.wikipedia.org/wiki/CRRC_청두_시팡 "wikilink") 계약을 체결했다.\[3\] [2013년](../Page/2013년.md "wikilink") [11월](../Page/11월.md "wikilink")에 첫 편성이 조립이 완료되었다. [2014년](../Page/2014년.md "wikilink") [3월](../Page/3월.md "wikilink")에 시범 운행에 들어갔다. [2016년](../Page/2016년.md "wikilink") [6월](../Page/6월.md "wikilink")에 3편성이 최초로 열차 번호가 부여되었다. [2017년](../Page/2017년.md "wikilink") [6월](../Page/6월.md "wikilink")에 [광선강 고속철도](../Page/광선강_고속철도.md "wikilink") 노선에 시범 운행을 시작했다.\[4\]
 
 ## 객차 구성
 
@@ -119,18 +119,18 @@ ZY 025x00</p></td>
 
 ## 현황
 
-| 소속                                                    | 편성 | 차량 번호        | 운행 노선                                                          | 비고         |
-| ----------------------------------------------------- | -- | ------------ | -------------------------------------------------------------- | ---------- |
-| colspan = 6 | ****\[6\]                               |    |              |                                                                |            |
-| [항철공사](https://ko.wikipedia.org/wiki/항철공사 "wikilink") | 9  | 0251 \~ 0259 | |[광선강 고속철도](https://ko.wikipedia.org/wiki/광선강_고속철도 "wikilink") | 전 차량 시험 운행 |
-|                                                       |    |              |                                                                |            |
+| 소속                                                    | 편성 | 차량 번호        | 운행 노선                                       | 비고         |
+| ----------------------------------------------------- | -- | ------------ | ------------------------------------------- | ---------- |
+| colspan = 6 | ****\[6\]                               |    |              |                                             |            |
+| [항철공사](https://ko.wikipedia.org/wiki/항철공사 "wikilink") | 9  | 0251 \~ 0259 | |[광선강 고속철도](../Page/광선강_고속철도.md "wikilink") | 전 차량 시험 운행 |
+|                                                       |    |              |                                             |            |
 
 ## 관련 항목
 
-  - [CRH380A](https://ko.wikipedia.org/wiki/CRH380A "wikilink")
-  - [CRH380B](https://ko.wikipedia.org/wiki/CRH380B "wikilink")
-  - [CRH380C](https://ko.wikipedia.org/wiki/CRH380C "wikilink")
-  - [CRH380D](https://ko.wikipedia.org/wiki/CRH380D "wikilink")
+  - [CRH380A](../Page/CRH380A.md "wikilink")
+  - [CRH380B](../Page/CRH380B.md "wikilink")
+  - [CRH380C](../Page/CRH380C.md "wikilink")
+  - [CRH380D](../Page/CRH380D.md "wikilink")
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FS ](https://ko.wikipedia.org/wiki/_FS_).
 
 
-**스타치오네 FS** (Stazione FS) 역은 이탈리아 북부 [브레시아](https://ko.wikipedia.org/wiki/브레시아 "wikilink")의 [브레시아 지하철에](../Page/브레시아_지하철.md "wikilink") 속한 역이다.\[1\] 브레시아 도심 부근의 [브레시아 철도역](https://ko.wikipedia.org/wiki/브레시아_역 "wikilink") 바로 옆에 위치해 있으며, 역 근처에는 장/단거리 버스 터미널이 여러 곳 있다.
+**스타치오네 FS** (Stazione FS) 역은 이탈리아 북부 [브레시아](../Page/브레시아.md "wikilink")의 [브레시아 지하철에](../Page/브레시아_지하철.md "wikilink") 속한 역이다.\[1\] 브레시아 도심 부근의 [브레시아 철도역](https://ko.wikipedia.org/wiki/브레시아_역 "wikilink") 바로 옆에 위치해 있으며, 역 근처에는 장/단거리 버스 터미널이 여러 곳 있다.
 
 브레시아의 여러 대중교통 노선과 환승되는 편리한 위치에 있기 때문에 브레시아 지하철에서 가장 크고 붐비는 역이다. 이에 따라 역 건물 자체도 승객 규모를 크게 감안하여 설계되었다.
 

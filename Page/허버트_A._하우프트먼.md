@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
 
 
-**허버트 애런 하우프트먼**(, [1917년](https://ko.wikipedia.org/wiki/1917년 "wikilink") [2월 14일](https://ko.wikipedia.org/wiki/2월_14일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink")\[1\])은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [수학](https://ko.wikipedia.org/wiki/수학 "wikilink")자이다. 1985년 [분자](https://ko.wikipedia.org/wiki/분자 "wikilink")의 결정구조를 직접 알아내는 방법을 개발한 공로로 [제롬 칼](https://ko.wikipedia.org/wiki/제롬_칼 "wikilink") 박사와 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
+**허버트 애런 하우프트먼**(, [1917년](../Page/1917년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink")\[1\])은 [미국](../Page/미국.md "wikilink")의 [수학](../Page/수학.md "wikilink")자이다. 1985년 [분자](../Page/분자.md "wikilink")의 결정구조를 직접 알아내는 방법을 개발한 공로로 [제롬 칼](../Page/제롬_칼.md "wikilink") 박사와 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
 
 ## 학력
 
   - 1929년\~1933년: 타운센드 해리스 고등학교 (졸업)
   - 1933년\~1937년: [뉴욕 시립대학교](https://ko.wikipedia.org/wiki/뉴욕_시립대학교 "wikilink") (학사)
-  - 1937년\~1939년: [컬럼비아 대학교](https://ko.wikipedia.org/wiki/컬럼비아_대학교 "wikilink") (석사)
-  - [메릴랜드 대학교](https://ko.wikipedia.org/wiki/메릴랜드_대학교 "wikilink") (박사)
+  - 1937년\~1939년: [컬럼비아 대학교](../Page/컬럼비아_대학교.md "wikilink") (석사)
+  - [메릴랜드 대학교](../Page/메릴랜드_대학교.md "wikilink") (박사)
 
 ## 수상 경력
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Something Special](https://ko.wikipedia.org/wiki/Something_Special).
 
 
-《**Something Special**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [장연주](https://ko.wikipedia.org/wiki/장연주 "wikilink")의 첫 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").  [right](https://ko.wikipedia.org/wiki/파일:Something_special_b.jpg "wikilink")
+《**Something Special**》은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [장연주](../Page/장연주.md "wikilink")의 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").  [right](https://ko.wikipedia.org/wiki/파일:Something_special_b.jpg "wikilink")
 
 ## 수록곡
 

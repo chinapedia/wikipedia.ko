@@ -5,11 +5,11 @@
 
 ## 역사
 
-[섬네일에](https://ko.wikipedia.org/wiki/파일:Jimmy_Carter_Library_and_Museum_26.JPG "wikilink") 전시된 지미 카터함의 모형\]\] 1998년 12월 5일 기공해 2004년 5월 13일 진수했다. 이후 미국 해군에 인도되어 2005년 2월 19일 취역했다. [지미 카터는](https://ko.wikipedia.org/wiki/지미_카터 "wikilink") [미국 민주당](https://ko.wikipedia.org/wiki/미국_민주당 "wikilink") 출신의 제39대 미국 대통령이다.
+[섬네일에](https://ko.wikipedia.org/wiki/파일:Jimmy_Carter_Library_and_Museum_26.JPG "wikilink") 전시된 지미 카터함의 모형\]\] 1998년 12월 5일 기공해 2004년 5월 13일 진수했다. 이후 미국 해군에 인도되어 2005년 2월 19일 취역했다. [지미 카터는](../Page/지미_카터.md "wikilink") [미국 민주당](https://ko.wikipedia.org/wiki/미국_민주당 "wikilink") 출신의 제39대 미국 대통령이다.
 
 경하 배수량 7,568톤, 만재배수량 12,139톤이며, 열출력 216 MWt의 [S6W 원자로](https://ko.wikipedia.org/wiki/S6W_원자로 "wikilink") 1개를 탑재했다. 저소음 최대속도는 수중 20노트(37 km/h), 소음이 큰 최대속도는 35노트(65 km/h)이다. 모항인 워싱턴 주 [키쌉 해군기지에서](https://ko.wikipedia.org/wiki/키쌉_해군기지 "wikilink") 북한 동해안까지는 8300 km로서, 20노트 속도로 10일이면 도착한다.
 
-건조비가 35억 달러(4조원)나 들었다. 시울프급 3척 중에서 가장 비싸다. 이전의 2척과 달리 [네이비 실](https://ko.wikipedia.org/wiki/네이비_실 "wikilink") 특수부대와 [ROV](https://ko.wikipedia.org/wiki/ROV "wikilink")가 출입하는 2500톤 무게의 공간을 위해 잠수함 길이가 30 m나 늘어났다.
+건조비가 35억 달러(4조원)나 들었다. 시울프급 3척 중에서 가장 비싸다. 이전의 2척과 달리 [네이비 실](../Page/네이비_실.md "wikilink") 특수부대와 [ROV](https://ko.wikipedia.org/wiki/ROV "wikilink")가 출입하는 2500톤 무게의 공간을 위해 잠수함 길이가 30 m나 늘어났다.
 
 한국 노무현 정부 국방부는 지미 카터함 처럼 [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink") 미탑재의 [공격원잠](https://ko.wikipedia.org/wiki/공격원잠 "wikilink")(SSN) 1대 건조 비용을 1조 3000억원으로 추산했으며, 문재인 대통령은 공격원잠(SSN) 건조를 대선공약으로 당선되었다. 같은 공격원잠(SSN)이지만 지미 카터함은 4조원으로 3배나 비싸다.
 

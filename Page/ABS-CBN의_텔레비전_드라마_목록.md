@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ABS-CBN   ](https://ko.wikipedia.org/wiki/ABS-CBN___).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:ABS-CBN_\(2013\).svg "wikilink") 이것은 [ABS-CBN](https://ko.wikipedia.org/wiki/ABS-CBN "wikilink")에서 제작 한 텔레비전 드라마 목록입니다. 타이틀은 출시 10년과 연도별로 정렬됩니다. 드라마 선집은 제외됩니다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:ABS-CBN_\(2013\).svg "wikilink") 이것은 [ABS-CBN](../Page/ABS-CBN.md "wikilink")에서 제작 한 텔레비전 드라마 목록입니다. 타이틀은 출시 10년과 연도별로 정렬됩니다. 드라마 선집은 제외됩니다.
 
 ## 1960년대
 
@@ -393,7 +393,7 @@
 
 ## 같이 보기
 
-  - [ABS-CBN](https://ko.wikipedia.org/wiki/ABS-CBN "wikilink")
+  - [ABS-CBN](../Page/ABS-CBN.md "wikilink")
 
 ## 각주
 

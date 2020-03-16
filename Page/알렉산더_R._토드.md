@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ R. ](https://ko.wikipedia.org/wiki/_R._).
 
 
-**알렉산더 로버투스 토드**, **토드 남작**(, [OM](https://ko.wikipedia.org/wiki/메리트_훈장 "wikilink") [PRS](https://ko.wikipedia.org/wiki/:en:List_of_presidents_of_the_Royal_Society "wikilink") [FRSE](https://ko.wikipedia.org/wiki/:en:Fellow_of_the_Royal_Society_of_Edinburgh "wikilink")\[1\], [1897년](https://ko.wikipedia.org/wiki/1897년 "wikilink") [11월 9일](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") \~ [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink"))은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1957년 [뉴클레오타이드](https://ko.wikipedia.org/wiki/뉴클레오타이드 "wikilink")류와 그 [보조 효소에](https://ko.wikipedia.org/wiki/보조_효소 "wikilink") 대한 연구로 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
+**알렉산더 로버투스 토드**, **토드 남작**(, [OM](https://ko.wikipedia.org/wiki/메리트_훈장 "wikilink") [PRS](https://ko.wikipedia.org/wiki/:en:List_of_presidents_of_the_Royal_Society "wikilink") [FRSE](https://ko.wikipedia.org/wiki/:en:Fellow_of_the_Royal_Society_of_Edinburgh "wikilink")\[1\], [1897년](../Page/1897년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") \~ [1978년](../Page/1978년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink"))은 [영국](../Page/영국.md "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1957년 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")류와 그 [보조 효소에](https://ko.wikipedia.org/wiki/보조_효소 "wikilink") 대한 연구로 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
 
 ## 수상 경력
 
   - 1949년 : [데비 메달](https://ko.wikipedia.org/wiki/데비_메달 "wikilink")
-  - 1955년 : [로열 메달](https://ko.wikipedia.org/wiki/로열_메달 "wikilink")
+  - 1955년 : [로열 메달](../Page/로열_메달.md "wikilink")
   - 1957년 : 노벨 화학상
   - 1963년 : [파울 카러 황금 메달](https://ko.wikipedia.org/wiki/파울_카러_황금_메달 "wikilink")
-  - 1970년 : [코플리 메달](https://ko.wikipedia.org/wiki/코플리_메달 "wikilink")
+  - 1970년 : [코플리 메달](../Page/코플리_메달.md "wikilink")
   - 1978년 : [로모노소프 황금 메달](https://ko.wikipedia.org/wiki/로모노소프_황금_메달 "wikilink")
 
 ## 각주

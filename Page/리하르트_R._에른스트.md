@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ R. ](https://ko.wikipedia.org/wiki/_R._).
 
 
-**리하르트 로베르트 에른스트**(Richard Robert Ernst, [1933년](https://ko.wikipedia.org/wiki/1933년 "wikilink") [8월 14일](https://ko.wikipedia.org/wiki/8월_14일 "wikilink") \~ )는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [화학](https://ko.wikipedia.org/wiki/화학 "wikilink")자이다. 1991년에 고해상도의 [NMR](https://ko.wikipedia.org/wiki/핵자기_공명 "wikilink") 분광법을 개발한 공로로 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
+**리하르트 로베르트 에른스트**(Richard Robert Ernst, [1933년](../Page/1933년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") \~ )는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [화학](../Page/화학.md "wikilink")자이다. 1991년에 고해상도의 [NMR](../Page/핵자기_공명.md "wikilink") 분광법을 개발한 공로로 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.
 
 ## 수상 경력
 

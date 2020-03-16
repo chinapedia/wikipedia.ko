@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SCHXXL OUT](https://ko.wikipedia.org/wiki/SCHXXL_OUT).
 
 
-《**SCHXXL OUT**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [프리스틴](https://ko.wikipedia.org/wiki/프리스틴 "wikilink")의 두 번째 미니 앨범이다.
+《**SCHXXL OUT**》은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [프리스틴](https://ko.wikipedia.org/wiki/프리스틴 "wikilink")의 두 번째 미니 앨범이다.
 
 ## 수록곡
 

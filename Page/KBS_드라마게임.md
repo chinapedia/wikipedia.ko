@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
 
 
-《**드라마게임**》은 [KBS 2TV에서](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [4월 6일부터](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 2일까지](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 단막극 형식의 드라마 시리즈이다.
+《**드라마게임**》은 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [1984년](../Page/1984년.md "wikilink") [4월 6일부터](../Page/4월_6일.md "wikilink") [1997년](../Page/1997년.md "wikilink") [3월 2일까지](../Page/3월_2일.md "wikilink") 단막극 형식의 드라마 시리즈이다.
 
 ## KBS 단막극의 역사
 
 ### 개요
 
-**드라마게임**은 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [4월 6일](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") 〈달리는 부부〉를 시작으로 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")까지 방영하면서 수많은 작가를 발굴하여 발판을 마련하고, 다양한 소재를 다루면서 한층 더 드라마가 발전할 수 있는 계기를 만들어 주었다. 하지만 오랜 기간을 방영한 만큼 점차 소재의 고갈이나 시청률의 저조로 인해 종영을 맞이하게 되었다. 그 이후 새로운 모습으로 단장한 단막극 시리즈가 여러 차례 만들졌으나, 2000년부터 시작된 **[드라마시티](https://ko.wikipedia.org/wiki/KBS_드라마시티 "wikilink")** 전까지는 오래 지속되지 못하고 짧은 기간내에 종영하는 악순환을 반복했다.
+**드라마게임**은 [1984년](../Page/1984년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") 〈달리는 부부〉를 시작으로 [1997년](../Page/1997년.md "wikilink")까지 방영하면서 수많은 작가를 발굴하여 발판을 마련하고, 다양한 소재를 다루면서 한층 더 드라마가 발전할 수 있는 계기를 만들어 주었다. 하지만 오랜 기간을 방영한 만큼 점차 소재의 고갈이나 시청률의 저조로 인해 종영을 맞이하게 되었다. 그 이후 새로운 모습으로 단장한 단막극 시리즈가 여러 차례 만들졌으나, 2000년부터 시작된 **[드라마시티](../Page/KBS_드라마시티.md "wikilink")** 전까지는 오래 지속되지 못하고 짧은 기간내에 종영하는 악순환을 반복했다.
 
-**[드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜#1997년 "wikilink")**은 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") 〈[아직은 사랑할 시간](../Page/아직은_사랑할_시간.md "wikilink")〉을 첫 방송되었으나 결국 같은 해 [6월 8일](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") 〈다른 시간, 다른 장소〉을 마지막으로 14편만을 만들고 폐지되었다. 뒤이어 시작한 **[테마 드라마](../Page/KBS_테마_드라마.md "wikilink")**는 한 테마당 2부작으로 구성되어 방영하였으나 4편만이 방영되었을 뿐이다. 이는 SBS 《[꿈의 궁전](https://ko.wikipedia.org/wiki/꿈의_궁전 "wikilink")》으로 인해 시청률의 부진을 면치 못하자 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [7월 6일](https://ko.wikipedia.org/wiki/7월_6일 "wikilink") 이후 잠정 중단하고 《[전설의 고향](https://ko.wikipedia.org/wiki/전설의_고향 "wikilink")》을 제작 편성하였다.\[1\] 하지만 《[전설의 고향](https://ko.wikipedia.org/wiki/전설의_고향 "wikilink")》이 끝난 뒤 재개될 예정이었으나 《[아씨](../Page/아씨_\(1997년_드라마\).md "wikilink")》가 후속으로 대체 편성되면서 사실상 **테마 드라마**는 종영을 맞이했다.\[2\]
+**[드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜#1997년 "wikilink")**은 [1997년](../Page/1997년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") 〈[아직은 사랑할 시간](../Page/아직은_사랑할_시간.md "wikilink")〉을 첫 방송되었으나 결국 같은 해 [6월 8일](../Page/6월_8일.md "wikilink") 〈다른 시간, 다른 장소〉을 마지막으로 14편만을 만들고 폐지되었다. 뒤이어 시작한 **[테마 드라마](../Page/KBS_테마_드라마.md "wikilink")**는 한 테마당 2부작으로 구성되어 방영하였으나 4편만이 방영되었을 뿐이다. 이는 SBS 《[꿈의 궁전](../Page/꿈의_궁전.md "wikilink")》으로 인해 시청률의 부진을 면치 못하자 [1997년](../Page/1997년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") 이후 잠정 중단하고 《[전설의 고향](../Page/전설의_고향.md "wikilink")》을 제작 편성하였다.\[1\] 하지만 《[전설의 고향](../Page/전설의_고향.md "wikilink")》이 끝난 뒤 재개될 예정이었으나 《[아씨](../Page/아씨_\(1997년_드라마\).md "wikilink")》가 후속으로 대체 편성되면서 사실상 **테마 드라마**는 종영을 맞이했다.\[2\]
 
-**[금요극장](../Page/KBS_금요극장.md "wikilink")**은 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink") 가을 개편으로 첫 방송을 실시하였으나, 당시 [MBC 베스트극장과의](https://ko.wikipedia.org/wiki/MBC_베스트극장 "wikilink") 겹치기 편성 논란으로 이어져 4회 만에 폐지되었다. 참고로, [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") 첫 회가 나갈 예정이었으나 준비 미비로 인해 특선영화 《[가을의 전설](../Page/가을의_전설.md "wikilink")》을 편성하고 첫 방영일도 10월 31일로 변경된 바 있다.
+**[금요극장](../Page/KBS_금요극장.md "wikilink")**은 [1997년](../Page/1997년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") 가을 개편으로 첫 방송을 실시하였으나, 당시 [MBC 베스트극장과의](../Page/MBC_베스트극장.md "wikilink") 겹치기 편성 논란으로 이어져 4회 만에 폐지되었다. 참고로, [1997년](../Page/1997년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") 첫 회가 나갈 예정이었으나 준비 미비로 인해 특선영화 《[가을의 전설](../Page/가을의_전설.md "wikilink")》을 편성하고 첫 방영일도 10월 31일로 변경된 바 있다.
 
-**[일요베스트](https://ko.wikipedia.org/wiki/KBS_일요베스트 "wikilink")**는 [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") 〈[남매](https://ko.wikipedia.org/wiki/남매_\(1997년_드라마\) "wikilink")〉를 시작으로 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") 〈[나의 사소한 연애의 역사](https://ko.wikipedia.org/wiki/나의_사소한_연애의_역사 "wikilink")〉까지 112편에 이르는 편수로 끝을 맺었다. 이는 **드라마게임** 이후 지금까지 짧게 끝난 앞 시리즈와 달리 그나마 근 3년에 걸친 시리즈였다. 한편, 일요일 밤 11시에 하던 것을 시청률 난조에 시달린 일요아침드라마 《[세 여자](https://ko.wikipedia.org/wiki/세_여자 "wikilink")》을 끝내고 [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [1월 25일부터](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") 그 자리에 편성할 예정이었으나 무산된 바 있다.\[3\]
+**[일요베스트](../Page/KBS_일요베스트.md "wikilink")**는 [1997년](../Page/1997년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") 〈[남매](https://ko.wikipedia.org/wiki/남매_\(1997년_드라마\) "wikilink")〉를 시작으로 [2000년](../Page/2000년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") 〈[나의 사소한 연애의 역사](https://ko.wikipedia.org/wiki/나의_사소한_연애의_역사 "wikilink")〉까지 112편에 이르는 편수로 끝을 맺었다. 이는 **드라마게임** 이후 지금까지 짧게 끝난 앞 시리즈와 달리 그나마 근 3년에 걸친 시리즈였다. 한편, 일요일 밤 11시에 하던 것을 시청률 난조에 시달린 일요아침드라마 《[세 여자](../Page/세_여자.md "wikilink")》을 끝내고 [1998년](../Page/1998년.md "wikilink") [1월 25일부터](../Page/1월_25일.md "wikilink") 그 자리에 편성할 예정이었으나 무산된 바 있다.\[3\]
 
-**[드라마시티](https://ko.wikipedia.org/wiki/드라마시티 "wikilink")**는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") 〈[벚꽃나무 아래서](https://ko.wikipedia.org/wiki/벚꽃나무_아래서 "wikilink")〉 편을 시작으로 새롭게 시리즈를 출발하였다. 이후 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에 [MBC가](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 장수 단막극인 [MBC 베스트극장을](https://ko.wikipedia.org/wiki/MBC_베스트극장 "wikilink") 방영 중지한 데 이어 [KBS 1TV도](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") [KBS TV 문학관을](https://ko.wikipedia.org/wiki/KBS_TV_문학관 "wikilink") 잠정 폐지하여 지상파 방송에서 유일무이하게 남아 있는 단막극 시리즈가 되었다. 그러나 단막극은 실험적인 소재와 형식을 시험할 수 있는 무대이며 신인 작가와 연출자를 발굴할 수 있는 좋은 시스템이었지만, 시청률과 광고 수익면에서 고전을 면치 못하며 경영 적자를 이유로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") 봄 개편에서 폐지 대상 프로그램으로 결정되었다.\[4\] 연출자와 작가 등 각계각층이 폐지 결정에 반발했으나, 결국 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") 〈[돈꽃](https://ko.wikipedia.org/wiki/돈꽃_\(2008년_드라마\) "wikilink")〉 편을 마지막으로 8년에 걸쳐 365편에 달하는 작품을 방영했던 이 시리즈마저 종영하게 되었다.\[5\]
+**[드라마시티](https://ko.wikipedia.org/wiki/드라마시티 "wikilink")**는 [2000년](../Page/2000년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") 〈[벚꽃나무 아래서](https://ko.wikipedia.org/wiki/벚꽃나무_아래서 "wikilink")〉 편을 시작으로 새롭게 시리즈를 출발하였다. 이후 [2007년](../Page/2007년.md "wikilink")에 [MBC가](../Page/문화방송.md "wikilink") 장수 단막극인 [MBC 베스트극장을](../Page/MBC_베스트극장.md "wikilink") 방영 중지한 데 이어 [KBS 1TV도](../Page/한국방송공사.md "wikilink") [KBS TV 문학관을](../Page/KBS_TV_문학관.md "wikilink") 잠정 폐지하여 지상파 방송에서 유일무이하게 남아 있는 단막극 시리즈가 되었다. 그러나 단막극은 실험적인 소재와 형식을 시험할 수 있는 무대이며 신인 작가와 연출자를 발굴할 수 있는 좋은 시스템이었지만, 시청률과 광고 수익면에서 고전을 면치 못하며 경영 적자를 이유로 [2008년](../Page/2008년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") 봄 개편에서 폐지 대상 프로그램으로 결정되었다.\[4\] 연출자와 작가 등 각계각층이 폐지 결정에 반발했으나, 결국 [2008년](../Page/2008년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") 〈[돈꽃](../Page/돈꽃_\(2008년_드라마\).md "wikilink")〉 편을 마지막으로 8년에 걸쳐 365편에 달하는 작품을 방영했던 이 시리즈마저 종영하게 되었다.\[5\]
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 29일에](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") 종영된 [KBS 드라마시티](https://ko.wikipedia.org/wiki/KBS_드라마시티 "wikilink") 이후로 명맥이 끊긴 단막극이 2년 2개월 만에 각계각층의 요구에 따라 작가와 연출가가 합심하여 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") 〈[빨강사탕](https://ko.wikipedia.org/wiki/빨강사탕 "wikilink")〉를 시작으로 **[KBS 드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜 "wikilink")**이라는 타이틀로 현재까지 방송하고 있다.
+[2008년](../Page/2008년.md "wikilink") [3월 29일에](../Page/3월_29일.md "wikilink") 종영된 [KBS 드라마시티](../Page/KBS_드라마시티.md "wikilink") 이후로 명맥이 끊긴 단막극이 2년 2개월 만에 각계각층의 요구에 따라 작가와 연출가가 합심하여 [2010년](../Page/2010년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") 〈[빨강사탕](https://ko.wikipedia.org/wiki/빨강사탕 "wikilink")〉를 시작으로 **[KBS 드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜 "wikilink")**이라는 타이틀로 현재까지 방송하고 있다.
 
 ### 참고자료
 
@@ -32,8 +32,8 @@
 | **[드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜#1997년 "wikilink")** | 1997년 3월 9일 \~ 1997년 6월 8일     | <sup>주1)</sup> |
 | **[테마 드라마](../Page/KBS_테마_드라마.md "wikilink")**                            | 1997년 6월 14일 \~ 1997년 7월 6일    | <sup>주2)</sup> |
 | **[금요극장](../Page/KBS_금요극장.md "wikilink")**                                | 1997년 10월 31일 \~ 1997년 11월 21일 |                |
-| **[일요베스트](https://ko.wikipedia.org/wiki/KBS_일요베스트 "wikilink")**           | 1997년 11월 30일 \~ 2000년 4월 30일  | <sup>주3)</sup> |
-| **[드라마시티](https://ko.wikipedia.org/wiki/KBS_드라마시티 "wikilink")**           | 2000년 5월 3일 \~ 2008년 3월 29일    |                |
+| **[일요베스트](../Page/KBS_일요베스트.md "wikilink")**                              | 1997년 11월 30일 \~ 2000년 4월 30일  | <sup>주3)</sup> |
+| **[드라마시티](../Page/KBS_드라마시티.md "wikilink")**                              | 2000년 5월 3일 \~ 2008년 3월 29일    |                |
 | **[드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜 "wikilink")**       | 2010년 5월 15일 \~ **현재**         |                |
 |                                                                           |                                |                |
 
@@ -1169,59 +1169,59 @@
 
 #### 1991년
 
-| 회차 | 방영일     | 부제          | 출연자 | 각본                                                        | 연출 |
-| -- | ------- | ----------- | --- | --------------------------------------------------------- | -- |
-|    | 1월 4일   | 우리는 모두가 식구  |     |                                                           |    |
-|    | 1월 11일  | 겨울무지개       |     |                                                           |    |
-|    | 1월 18일  | 작은 사랑의 노래   |     |                                                           |    |
-|    | 1월 25일  | 섬           |     |                                                           |    |
-|    | 2월 1일   | 내일          |     |                                                           |    |
-|    | 2월 8일   | 어머니의 그림자    |     |                                                           |    |
-|    | 2월 22일  | 서울총각        |     |                                                           |    |
-|    | 3월 1일   | 가물치         |     |                                                           |    |
-|    | 3월 8일   | 나의 이브       |     |                                                           |    |
-|    | 3월 15일  | 엄마 아내 그리고 나 |     |                                                           |    |
-|    | 3월 22일  | 처마밑 철새      |     |                                                           |    |
-|    | 3월 29일  | 잊혀진 사람      |     |                                                           |    |
-|    | 4월 5일   | 개나리 꽃이 피면   |     |                                                           |    |
-|    | 4월 12일  | 문 밖의 행복     |     |                                                           |    |
-|    | 4월 19일  | 결혼 그 7년째... |     |                                                           |    |
-|    | 4월 26일  | 머무는 바람      |     |                                                           |    |
-|    | 5월 3일   | 바람과 날개      |     |                                                           |    |
-|    | 5월 10일  | 회색모자        |     |                                                           |    |
-|    | 5월 17일  | 웅선생         |     |                                                           |    |
-|    | 5월 24일  | 창 밖의 내일     |     |                                                           |    |
-|    | 5월 31일  | 보고 싶은 얼굴    |     |                                                           |    |
-|    | 6월 7일   | 메기의 추억      |     |                                                           |    |
-|    | 6월 14일  | 나비와 그물(재)   |     |                                                           |    |
-|    | 6월 21일  | 남편의 일기      |     |                                                           |    |
-|    | 6월 28일  | 세사람         |     |                                                           |    |
-|    | 7월 5일   | 낯익은 함정      |     | [전산](https://ko.wikipedia.org/wiki/전산_\(연출가\) "wikilink") |    |
-|    | 7월 12일  | 먼여행         |     |                                                           |    |
-|    | 7월 19일  | 서른 여섯살의 수채화 |     |                                                           |    |
-|    | 7월 26일  | 사랑의 이중주     |     |                                                           |    |
-|    | 8월 2일   | 당신의 아내      |     |                                                           |    |
-|    | 8월 9일   | 미운오리새끼      |     |                                                           |    |
-|    | 8월 16일  | 건너야 할 강     |     |                                                           |    |
-|    | 8월 23일  | 해바라기가 있는 정물 |     |                                                           |    |
-|    | 8월 30일  | 시작, 그리고 마지막 |     |                                                           |    |
-|    | 9월 6일   | 그리움을 향하여    |     |                                                           |    |
-|    | 9월 13일  | 소           |     |                                                           |    |
-|    | 9월 20일  | 가난한 사랑      |     |                                                           |    |
-|    | 9월 27일  | 현악사중주       |     |                                                           |    |
-|    | 10월 4일  | 어떤 외출       |     |                                                           |    |
-|    | 10월 11일 | 일회용 시대      |     |                                                           |    |
-|    | 10월 18일 | 계절풍         |     |                                                           |    |
-|    | 10월 25일 | 열쇠 없는 자물쇠   |     |                                                           |    |
-|    | 11월 1일  | 행복의 주소      |     |                                                           |    |
-|    | 11월 8일  | 지금은 가을      |     |                                                           |    |
-|    | 11월 15일 | 흐르지 않는 세월   |     |                                                           |    |
-|    | 11월 22일 | 아버지의 모자     |     |                                                           |    |
-|    | 11월 29일 | 축대          |     |                                                           |    |
-|    | 12월 6일  | 내일은 또 다른 날  |     |                                                           |    |
-|    | 12월 13일 | 따뜻한 손       |     |                                                           |    |
-|    | 12월 20일 | 그해 12월      |     |                                                           |    |
-|    | 12월 27일 | 흘러간 노래      |     |                                                           |    |
+| 회차 | 방영일     | 부제          | 출연자 | 각본                                     | 연출 |
+| -- | ------- | ----------- | --- | -------------------------------------- | -- |
+|    | 1월 4일   | 우리는 모두가 식구  |     |                                        |    |
+|    | 1월 11일  | 겨울무지개       |     |                                        |    |
+|    | 1월 18일  | 작은 사랑의 노래   |     |                                        |    |
+|    | 1월 25일  | 섬           |     |                                        |    |
+|    | 2월 1일   | 내일          |     |                                        |    |
+|    | 2월 8일   | 어머니의 그림자    |     |                                        |    |
+|    | 2월 22일  | 서울총각        |     |                                        |    |
+|    | 3월 1일   | 가물치         |     |                                        |    |
+|    | 3월 8일   | 나의 이브       |     |                                        |    |
+|    | 3월 15일  | 엄마 아내 그리고 나 |     |                                        |    |
+|    | 3월 22일  | 처마밑 철새      |     |                                        |    |
+|    | 3월 29일  | 잊혀진 사람      |     |                                        |    |
+|    | 4월 5일   | 개나리 꽃이 피면   |     |                                        |    |
+|    | 4월 12일  | 문 밖의 행복     |     |                                        |    |
+|    | 4월 19일  | 결혼 그 7년째... |     |                                        |    |
+|    | 4월 26일  | 머무는 바람      |     |                                        |    |
+|    | 5월 3일   | 바람과 날개      |     |                                        |    |
+|    | 5월 10일  | 회색모자        |     |                                        |    |
+|    | 5월 17일  | 웅선생         |     |                                        |    |
+|    | 5월 24일  | 창 밖의 내일     |     |                                        |    |
+|    | 5월 31일  | 보고 싶은 얼굴    |     |                                        |    |
+|    | 6월 7일   | 메기의 추억      |     |                                        |    |
+|    | 6월 14일  | 나비와 그물(재)   |     |                                        |    |
+|    | 6월 21일  | 남편의 일기      |     |                                        |    |
+|    | 6월 28일  | 세사람         |     |                                        |    |
+|    | 7월 5일   | 낯익은 함정      |     | [전산](../Page/전산_\(연출가\).md "wikilink") |    |
+|    | 7월 12일  | 먼여행         |     |                                        |    |
+|    | 7월 19일  | 서른 여섯살의 수채화 |     |                                        |    |
+|    | 7월 26일  | 사랑의 이중주     |     |                                        |    |
+|    | 8월 2일   | 당신의 아내      |     |                                        |    |
+|    | 8월 9일   | 미운오리새끼      |     |                                        |    |
+|    | 8월 16일  | 건너야 할 강     |     |                                        |    |
+|    | 8월 23일  | 해바라기가 있는 정물 |     |                                        |    |
+|    | 8월 30일  | 시작, 그리고 마지막 |     |                                        |    |
+|    | 9월 6일   | 그리움을 향하여    |     |                                        |    |
+|    | 9월 13일  | 소           |     |                                        |    |
+|    | 9월 20일  | 가난한 사랑      |     |                                        |    |
+|    | 9월 27일  | 현악사중주       |     |                                        |    |
+|    | 10월 4일  | 어떤 외출       |     |                                        |    |
+|    | 10월 11일 | 일회용 시대      |     |                                        |    |
+|    | 10월 18일 | 계절풍         |     |                                        |    |
+|    | 10월 25일 | 열쇠 없는 자물쇠   |     |                                        |    |
+|    | 11월 1일  | 행복의 주소      |     |                                        |    |
+|    | 11월 8일  | 지금은 가을      |     |                                        |    |
+|    | 11월 15일 | 흐르지 않는 세월   |     |                                        |    |
+|    | 11월 22일 | 아버지의 모자     |     |                                        |    |
+|    | 11월 29일 | 축대          |     |                                        |    |
+|    | 12월 6일  | 내일은 또 다른 날  |     |                                        |    |
+|    | 12월 13일 | 따뜻한 손       |     |                                        |    |
+|    | 12월 20일 | 그해 12월      |     |                                        |    |
+|    | 12월 27일 | 흘러간 노래      |     |                                        |    |
 
 #### 1992년
 
@@ -1409,7 +1409,7 @@
 <td></td>
 <td><p>1월 8일</p></td>
 <td><p>결혼이 아름다운 몇가지 이유</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김현아" title="wikilink">김정난</a>, <a href="https://ko.wikipedia.org/wiki/윤다훈" title="wikilink">윤다훈</a>, <a href="https://ko.wikipedia.org/wiki/오미희" title="wikilink">오미희</a>, <a href="../Page/홍륜의.md" title="wikilink">홍륜의</a>,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/김현아" title="wikilink">김정난</a>, <a href="../Page/윤다훈.md" title="wikilink">윤다훈</a>, <a href="../Page/오미희.md" title="wikilink">오미희</a>, <a href="../Page/홍륜의.md" title="wikilink">홍륜의</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/조은덕" title="wikilink">조은덕</a>, <a href="https://ko.wikipedia.org/wiki/곽정희" title="wikilink">곽정희</a></p></td>
 <td><p>조연경</p></td>
 <td><p>전세권</p></td>
@@ -1458,7 +1458,7 @@
 <td></td>
 <td><p>2월 19일</p></td>
 <td><p>운명이라는 커플</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김명수_(배우)" title="wikilink">김명수</a>, <a href="https://ko.wikipedia.org/wiki/김정난" title="wikilink">김현아</a>, <a href="https://ko.wikipedia.org/wiki/김인문_(배우)" title="wikilink">김인문</a>, <a href="https://ko.wikipedia.org/wiki/나문희" title="wikilink">나문희</a>, <a href="https://ko.wikipedia.org/wiki/이미경_(1960년)" title="wikilink">이미경</a>, <a href="../Page/이동신.md" title="wikilink">이동신</a>, <a href="https://ko.wikipedia.org/wiki/여운계" title="wikilink">여운계</a></p></td>
+<td><p><a href="../Page/김명수_(배우).md" title="wikilink">김명수</a>, <a href="../Page/김정난.md" title="wikilink">김현아</a>, <a href="../Page/김인문_(배우).md" title="wikilink">김인문</a>, <a href="../Page/나문희.md" title="wikilink">나문희</a>, <a href="https://ko.wikipedia.org/wiki/이미경_(1960년)" title="wikilink">이미경</a>, <a href="../Page/이동신.md" title="wikilink">이동신</a>, <a href="../Page/여운계.md" title="wikilink">여운계</a></p></td>
 <td><p>김혜정</p></td>
 <td><p>이성주</p></td>
 </tr>
@@ -1466,7 +1466,7 @@
 <td></td>
 <td><p>2월 26일</p></td>
 <td><p>불란서 영화처럼</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하재영" title="wikilink">하재영</a>, <a href="https://ko.wikipedia.org/wiki/옥소리" title="wikilink">옥소리</a>, <a href="https://ko.wikipedia.org/wiki/금보라" title="wikilink">금보라</a>, <a href="https://ko.wikipedia.org/wiki/박현" title="wikilink">박현</a>, <a href="https://ko.wikipedia.org/wiki/조은덕" title="wikilink">조은덕</a></p></td>
+<td><p><a href="../Page/하재영.md" title="wikilink">하재영</a>, <a href="../Page/옥소리.md" title="wikilink">옥소리</a>, <a href="../Page/금보라.md" title="wikilink">금보라</a>, <a href="https://ko.wikipedia.org/wiki/박현" title="wikilink">박현</a>, <a href="https://ko.wikipedia.org/wiki/조은덕" title="wikilink">조은덕</a></p></td>
 <td><p>최호연</p></td>
 <td><p>윤석호</p></td>
 </tr>
@@ -1482,7 +1482,7 @@
 <td></td>
 <td><p>3월 12일</p></td>
 <td><p>남과 여</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김나운" title="wikilink">김나운</a>, <a href="https://ko.wikipedia.org/wiki/박상규" title="wikilink">박상규</a>, <a href="https://ko.wikipedia.org/wiki/윤예희" title="wikilink">윤예희</a>, <a href="https://ko.wikipedia.org/wiki/임찬호" title="wikilink">임찬호</a> , <a href="https://ko.wikipedia.org/wiki/허윤정_(배우)" title="wikilink">허윤정</a>, <a href="https://ko.wikipedia.org/wiki/송영창" title="wikilink">송영창</a>, <a href="https://ko.wikipedia.org/wiki/정미숙" title="wikilink">정미숙</a></p></td>
+<td><p><a href="../Page/김나운.md" title="wikilink">김나운</a>, <a href="https://ko.wikipedia.org/wiki/박상규" title="wikilink">박상규</a>, <a href="../Page/윤예희.md" title="wikilink">윤예희</a>, <a href="https://ko.wikipedia.org/wiki/임찬호" title="wikilink">임찬호</a> , <a href="../Page/허윤정_(배우).md" title="wikilink">허윤정</a>, <a href="../Page/송영창.md" title="wikilink">송영창</a>, <a href="../Page/정미숙.md" title="wikilink">정미숙</a></p></td>
 <td><p>김혜린</p></td>
 <td><p>전성홍</p></td>
 </tr>
@@ -1490,7 +1490,7 @@
 <td></td>
 <td><p>3월 19일</p></td>
 <td><p>늪</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박진성" title="wikilink">박진성</a>, <a href="https://ko.wikipedia.org/wiki/김미라" title="wikilink">김미라</a>, <a href="https://ko.wikipedia.org/wiki/김미현_(배우)" title="wikilink">김미현</a>, <a href="https://ko.wikipedia.org/wiki/나문희" title="wikilink">나문희</a>, <a href="https://ko.wikipedia.org/wiki/임병기" title="wikilink">임병기</a>, <a href="https://ko.wikipedia.org/wiki/황범식" title="wikilink">황범식</a>, <a href="https://ko.wikipedia.org/wiki/손종범" title="wikilink">손종범</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박진성" title="wikilink">박진성</a>, <a href="../Page/김미라.md" title="wikilink">김미라</a>, <a href="https://ko.wikipedia.org/wiki/김미현_(배우)" title="wikilink">김미현</a>, <a href="../Page/나문희.md" title="wikilink">나문희</a>, <a href="../Page/임병기.md" title="wikilink">임병기</a>, <a href="../Page/황범식.md" title="wikilink">황범식</a>, <a href="../Page/손종범.md" title="wikilink">손종범</a></p></td>
 <td><p>이명화</p></td>
 <td><p>이재영</p></td>
 </tr>
@@ -1506,7 +1506,7 @@
 <td></td>
 <td><p>4월 2일</p></td>
 <td><p>효자 구합니다</p></td>
-<td><p><a href="../Page/권오현_(배우).md" title="wikilink">권오현</a>, <a href="https://ko.wikipedia.org/wiki/엄수진" title="wikilink">엄수진</a>, <a href="https://ko.wikipedia.org/wiki/홍성민" title="wikilink">홍성민</a>, <a href="https://ko.wikipedia.org/wiki/최정훈" title="wikilink">최정훈</a>, <a href="https://ko.wikipedia.org/wiki/김선영" title="wikilink">김선영</a>, <a href="https://ko.wikipedia.org/wiki/문미봉" title="wikilink">문미봉</a>, <a href="https://ko.wikipedia.org/wiki/고희준" title="wikilink">고희준</a>, <a href="https://ko.wikipedia.org/wiki/김동완" title="wikilink">김동완</a></p></td>
+<td><p><a href="../Page/권오현_(배우).md" title="wikilink">권오현</a>, <a href="https://ko.wikipedia.org/wiki/엄수진" title="wikilink">엄수진</a>, <a href="https://ko.wikipedia.org/wiki/홍성민" title="wikilink">홍성민</a>, <a href="../Page/최정훈.md" title="wikilink">최정훈</a>, <a href="https://ko.wikipedia.org/wiki/김선영" title="wikilink">김선영</a>, <a href="../Page/문미봉.md" title="wikilink">문미봉</a>, <a href="../Page/고희준.md" title="wikilink">고희준</a>, <a href="https://ko.wikipedia.org/wiki/김동완" title="wikilink">김동완</a></p></td>
 <td><p>김지요</p></td>
 <td><p>이덕건</p></td>
 </tr>
@@ -1514,7 +1514,7 @@
 <td></td>
 <td><p>4월 9일</p></td>
 <td><p>알파와 오메가</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이승신" title="wikilink">이승신</a>, <a href="https://ko.wikipedia.org/wiki/신구_(배우)" title="wikilink">신구</a>, <a href="../Page/정명환.md" title="wikilink">정명환</a>, <a href="https://ko.wikipedia.org/wiki/명로진" title="wikilink">명로진</a>, <a href="../Page/이치우.md" title="wikilink">이치우</a></p></td>
+<td><p><a href="../Page/이승신.md" title="wikilink">이승신</a>, <a href="../Page/신구_(배우).md" title="wikilink">신구</a>, <a href="../Page/정명환.md" title="wikilink">정명환</a>, <a href="../Page/명로진.md" title="wikilink">명로진</a>, <a href="../Page/이치우.md" title="wikilink">이치우</a></p></td>
 <td><p>이수진</p></td>
 <td><p>이성연</p></td>
 </tr>
@@ -1594,9 +1594,9 @@
 <td></td>
 <td><p>6월 18일</p></td>
 <td><p><a href="../Page/이별하는_여섯_단계.md" title="wikilink">이별하는 여섯 단계</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/배용준" title="wikilink">배용준</a>, <a href="https://ko.wikipedia.org/wiki/전도연" title="wikilink">전도연</a>, 박현, 이기철,<br />
-박칠용, <a href="https://ko.wikipedia.org/wiki/김하균" title="wikilink">김하균</a>, 전진아, 김원배,<br />
-최재원, 이인근, 박현정, <a href="https://ko.wikipedia.org/wiki/차태현" title="wikilink">차태현</a></p></td>
+<td><p><a href="../Page/배용준.md" title="wikilink">배용준</a>, <a href="../Page/전도연.md" title="wikilink">전도연</a>, 박현, 이기철,<br />
+박칠용, <a href="../Page/김하균.md" title="wikilink">김하균</a>, 전진아, 김원배,<br />
+최재원, 이인근, 박현정, <a href="../Page/차태현.md" title="wikilink">차태현</a></p></td>
 <td><p>오수연</p></td>
 <td><p>전기상</p></td>
 </tr>
@@ -1740,7 +1740,7 @@
 <td></td>
 <td><p>10월 29일</p></td>
 <td><p>신들의 황혼(1~2부 연속)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박승호_(배우)" title="wikilink">박승호</a>, <a href="https://ko.wikipedia.org/wiki/김혜리_(배우)" title="wikilink">김혜리</a>, <a href="https://ko.wikipedia.org/wiki/허진" title="wikilink">허진</a>, <a href="https://ko.wikipedia.org/wiki/신성호" title="wikilink">신성호</a>,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/박승호_(배우)" title="wikilink">박승호</a>, <a href="../Page/김혜리_(배우).md" title="wikilink">김혜리</a>, <a href="https://ko.wikipedia.org/wiki/허진" title="wikilink">허진</a>, <a href="https://ko.wikipedia.org/wiki/신성호" title="wikilink">신성호</a>,<br />
 <a href="../Page/정해창.md" title="wikilink">정해창</a></p></td>
 <td><p>홍성덕</p></td>
 <td><p>홍성덕</p></td>
@@ -1773,7 +1773,7 @@
 <td></td>
 <td><p>11월 26일</p></td>
 <td><p>당신에게 일어날 수 있는 일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍성민" title="wikilink">홍성민</a>, <a href="https://ko.wikipedia.org/wiki/김영옥_(배우)" title="wikilink">김영옥</a>, <a href="https://ko.wikipedia.org/wiki/김영애" title="wikilink">김영애</a>, <a href="https://ko.wikipedia.org/wiki/하대경" title="wikilink">하대경</a>, <a href="../Page/김원배.md" title="wikilink">김원배</a>, <a href="https://ko.wikipedia.org/wiki/홍정욱" title="wikilink">홍정욱</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/홍성민" title="wikilink">홍성민</a>, <a href="../Page/김영옥_(배우).md" title="wikilink">김영옥</a>, <a href="../Page/김영애.md" title="wikilink">김영애</a>, <a href="https://ko.wikipedia.org/wiki/하대경" title="wikilink">하대경</a>, <a href="../Page/김원배.md" title="wikilink">김원배</a>, <a href="../Page/홍정욱.md" title="wikilink">홍정욱</a></p></td>
 <td><p>이금림</p></td>
 <td><p>이성주</p></td>
 </tr>
@@ -1855,8 +1855,8 @@
 <td><p>1월 21일</p></td>
 <td><p>아빠와 영혼<br />
 (600회 특집)(1~2부 연속)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서인석_(배우)" title="wikilink">서인석</a>, <a href="https://ko.wikipedia.org/wiki/이휘향" title="wikilink">이휘향</a>, <a href="https://ko.wikipedia.org/wiki/맹상훈" title="wikilink">맹상훈</a>, <a href="https://ko.wikipedia.org/wiki/최상훈" title="wikilink">최상훈</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/강인덕_(배우)" title="wikilink">강인덕</a>, <a href="https://ko.wikipedia.org/wiki/오수경" title="wikilink">오수경</a> (아역), <a href="https://ko.wikipedia.org/wiki/이대원" title="wikilink">이대원</a> (아역)</p></td>
+<td><p><a href="../Page/서인석_(배우).md" title="wikilink">서인석</a>, <a href="../Page/이휘향.md" title="wikilink">이휘향</a>, <a href="../Page/맹상훈.md" title="wikilink">맹상훈</a>, <a href="../Page/최상훈.md" title="wikilink">최상훈</a>,<br />
+<a href="../Page/강인덕_(배우).md" title="wikilink">강인덕</a>, <a href="../Page/오수경.md" title="wikilink">오수경</a> (아역), <a href="https://ko.wikipedia.org/wiki/이대원" title="wikilink">이대원</a> (아역)</p></td>
 <td><p>구선경</p></td>
 <td><p>이덕건</p></td>
 </tr>
@@ -2265,9 +2265,9 @@
 <td></td>
 <td><p>1월 5일</p></td>
 <td><p>장가네 만두집</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나문희" title="wikilink">나문희</a>, <a href="https://ko.wikipedia.org/wiki/홍성민" title="wikilink">홍성민</a>, <a href="../Page/정명환.md" title="wikilink">정명환</a>, <a href="https://ko.wikipedia.org/wiki/전미선" title="wikilink">전미선</a>,<br />
-<a href="../Page/남영진.md" title="wikilink">남영진</a>, <a href="https://ko.wikipedia.org/wiki/정의갑" title="wikilink">정의갑</a>, <a href="https://ko.wikipedia.org/wiki/김미라" title="wikilink">김미라</a>, <a href="https://ko.wikipedia.org/wiki/박현" title="wikilink">박현</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/최석구" title="wikilink">최석구</a></p></td>
+<td><p><a href="../Page/나문희.md" title="wikilink">나문희</a>, <a href="https://ko.wikipedia.org/wiki/홍성민" title="wikilink">홍성민</a>, <a href="../Page/정명환.md" title="wikilink">정명환</a>, <a href="../Page/전미선.md" title="wikilink">전미선</a>,<br />
+<a href="../Page/남영진.md" title="wikilink">남영진</a>, <a href="../Page/정의갑.md" title="wikilink">정의갑</a>, <a href="../Page/김미라.md" title="wikilink">김미라</a>, <a href="https://ko.wikipedia.org/wiki/박현" title="wikilink">박현</a>,<br />
+<a href="../Page/최석구.md" title="wikilink">최석구</a></p></td>
 <td><p>허현미</p></td>
 <td><p>이상우</p></td>
 </tr>

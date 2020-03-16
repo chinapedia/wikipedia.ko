@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS    ](https://ko.wikipedia.org/wiki/KBS____).
 
 
-아래는 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [한국방송공사의 뉴스 프로그램인](https://ko.wikipedia.org/wiki/한국방송공사의_뉴스_프로그램 "wikilink") **《[KBS 뉴스 옴부즈맨](https://ko.wikipedia.org/wiki/KBS_뉴스_옴부즈맨 "wikilink")》**의 방영 목록이다.
+아래는 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [한국방송공사의 뉴스 프로그램인](../Page/한국방송공사의_뉴스_프로그램.md "wikilink") **《[KBS 뉴스 옴부즈맨](../Page/KBS_뉴스_옴부즈맨.md "wikilink")》**의 방영 목록이다.
 
 ## 방영 목록
 
@@ -115,7 +115,7 @@
 <tr class="odd">
 <td><p><a href="http://www.kbs.co.kr/1tv/sisa/ombudsman/view/preview/2456342_112959.html">52회</a></p></td>
 <td><p>3월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이세돌" title="wikilink">이세돌</a>-알파고 관련보도</p></td>
+<td><p><a href="../Page/이세돌.md" title="wikilink">이세돌</a>-알파고 관련보도</p></td>
 <td><p>최창근(KBS 뉴스 옴부즈맨 위원)<br />
 박주연(KBS 뉴스 옴부즈맨 위원)<br />
 이유진(KBS 스포츠국 스포츠취재부 부장)<br />

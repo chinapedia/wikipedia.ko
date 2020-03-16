@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBTA ](https://ko.wikipedia.org/wiki/MBTA_).
 
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:MBTA_boat_1.JPG "wikilink")  **MBTA 보트**(MBTA Boat) 시스템은 [보스턴 항을](https://ko.wikipedia.org/wiki/보스턴_항 "wikilink") 통해 [보스턴 대도시권의](https://ko.wikipedia.org/wiki/보스턴_대도시권 "wikilink") [수상 교통을](https://ko.wikipedia.org/wiki/수상_교통 "wikilink") 제공하는 공공 [보트 서비스이다](https://ko.wikipedia.org/wiki/보트_서비스 "wikilink"). 내부 항만과 장거리 통근 [페리](https://ko.wikipedia.org/wiki/페리 "wikilink")가 모두 운영된다. 이 서비스는 [매사추세츠 만 교통공사](https://ko.wikipedia.org/wiki/매사추세츠_만_교통공사 "wikilink")(MBTA)와 계약하여 보스턴 하버 크루즈(Boston Harbor Cruises)가 운영한다.
+[썸네일](https://ko.wikipedia.org/wiki/파일:MBTA_boat_1.JPG "wikilink")  **MBTA 보트**(MBTA Boat) 시스템은 [보스턴 항을](https://ko.wikipedia.org/wiki/보스턴_항 "wikilink") 통해 [보스턴 대도시권의](https://ko.wikipedia.org/wiki/보스턴_대도시권 "wikilink") [수상 교통을](https://ko.wikipedia.org/wiki/수상_교통 "wikilink") 제공하는 공공 [보트 서비스이다](https://ko.wikipedia.org/wiki/보트_서비스 "wikilink"). 내부 항만과 장거리 통근 [페리](../Page/페리.md "wikilink")가 모두 운영된다. 이 서비스는 [매사추세츠 만 교통공사](https://ko.wikipedia.org/wiki/매사추세츠_만_교통공사 "wikilink")(MBTA)와 계약하여 보스턴 하버 크루즈(Boston Harbor Cruises)가 운영한다.
 
 현재 서비스는 보스턴 워터 프론트의 두 부두에서 [보스턴 네이비 야드](https://ko.wikipedia.org/wiki/보스턴_네이비_야드 "wikilink")(Boston Navy Yard), [로건 국제공항](https://ko.wikipedia.org/wiki/로건_국제공항 "wikilink")(Logan Airport), [힝햄의](https://ko.wikipedia.org/wiki/힝햄_\(매사추제츠_주\) "wikilink") Hewitt's Cove 및 [헐의](https://ko.wikipedia.org/wiki/헐_\(매사추세츠_주\) "wikilink") [펨버턴 포인트까지](https://ko.wikipedia.org/wiki/펨버턴_포인트 "wikilink") 이어진다. MBTA가 자금을 지원하지 않고 MBTA 문서에 포함된 2개의 추가 정기 노선은 보스턴에서 [린](https://ko.wikipedia.org/wiki/린_\(매사추세츠_주\) "wikilink") 및 [살렘까지](https://ko.wikipedia.org/wiki/살렘_\(매사추세츠_주\) "wikilink") 운행한다.
 

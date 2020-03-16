@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
 
 
-**크리스천 보에머 앤핀선 주니어**(, [1916년](https://ko.wikipedia.org/wiki/1916년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") \~ [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 14일](https://ko.wikipedia.org/wiki/5월_14일 "wikilink")\[1\])는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1972년에 [리보뉴클레이스](https://ko.wikipedia.org/wiki/리보뉴클레이스 "wikilink") 분해효소의 연구, 특히 [아미노산](https://ko.wikipedia.org/wiki/아미노산 "wikilink") 배열과 생물학적 활성 구조의 관계에 관한 연구로 [스탠퍼드 무어](../Page/스탠퍼드_무어.md "wikilink"), [윌리엄 하워드 스타인과](../Page/윌리엄_하워드_스타인.md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상하였다.
+**크리스천 보에머 앤핀선 주니어**(, [1916년](../Page/1916년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink")\[1\])는 [미국](../Page/미국.md "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1972년에 [리보뉴클레이스](../Page/리보뉴클레이스.md "wikilink") 분해효소의 연구, 특히 [아미노산](../Page/아미노산.md "wikilink") 배열과 생물학적 활성 구조의 관계에 관한 연구로 [스탠퍼드 무어](../Page/스탠퍼드_무어.md "wikilink"), [윌리엄 하워드 스타인과](../Page/윌리엄_하워드_스타인.md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상하였다.
 
 ## 수상 경력
 

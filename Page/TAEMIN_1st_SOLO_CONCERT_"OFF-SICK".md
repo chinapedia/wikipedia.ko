@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TAEMIN 1st SOLO CONCERT OFF-SICK](https://ko.wikipedia.org/wiki/TAEMIN_1st_SOLO_CONCERT_OFF-SICK).
 
 
-《**TAEMIN 1st SOLO CONCERT "OFF-SICK"**》은 대한민국의 음악 그룹 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 멤버인 [태민](https://ko.wikipedia.org/wiki/태민 "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
+《**TAEMIN 1st SOLO CONCERT "OFF-SICK"**》은 대한민국의 음악 그룹 [샤이니](../Page/샤이니.md "wikilink")의 멤버인 [태민](../Page/태민.md "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 ## <ON-TRACK>
 
-2017년 9월 7일, SM 엔터테인먼트는 공식 홈페이지를 통해 [잠실실내체육관](https://ko.wikipedia.org/wiki/잠실실내체육관 "wikilink")에서의 2일 간의 《TAEMIN 1st SOLO CONCERT "OFF-SICK<ON-TRACK>"》의 일정을 발표하였으며 예매는 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 9월 14일에 진행되었다.\[3\] 정규 2집 타이틀곡 〈MOVE〉의 최초 공개를 비롯한 기존 세트리스트에서의 추가 구성을 통한 본 투어의 완결판이라는 의미를 담고자 공연 타이틀에 <ON-TRACK>을 추가하였다.
+2017년 9월 7일, SM 엔터테인먼트는 공식 홈페이지를 통해 [잠실실내체육관](../Page/잠실실내체육관.md "wikilink")에서의 2일 간의 《TAEMIN 1st SOLO CONCERT "OFF-SICK<ON-TRACK>"》의 일정을 발표하였으며 예매는 [YES24](../Page/YES24.md "wikilink")를 통해 9월 14일에 진행되었다.\[3\] 정규 2집 타이틀곡 〈MOVE〉의 최초 공개를 비롯한 기존 세트리스트에서의 추가 구성을 통한 본 투어의 완결판이라는 의미를 담고자 공연 타이틀에 <ON-TRACK>을 추가하였다.
 
 ## 투어 일정
 
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 10월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잠실실내체육관" title="wikilink">잠실실내체육관</a>[5]<small><ON-TRACK></small></p></td>
+<td><p><a href="../Page/잠실실내체육관.md" title="wikilink">잠실실내체육관</a>[5]<small><ON-TRACK></small></p></td>
 <td><p>통산 10,000명</p></td>
 <td></td>
 <td></td>
@@ -63,7 +63,7 @@
 <td><p>2017년 11월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/횡빈" title="wikilink">횡빈</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요코하마_아레나" title="wikilink">요코하마 아레나</a>[6]<small><ON-TRACK></small></p></td>
+<td><p><a href="../Page/요코하마_아레나.md" title="wikilink">요코하마 아레나</a>[6]<small><ON-TRACK></small></p></td>
 <td><p>15,000명</p></td>
 </tr>
 <tr class="odd">
@@ -112,7 +112,7 @@
 <td style="text-align: left;"><p>키노 비디오</p></td>
 <td style="text-align: left;"><p>TAEMIN 1st SOLO CONCERT "OFF-SICK" <ON-TRACK> Kihno Video</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/7월_31일" title="wikilink">7월 31일</a></li>
+<li>발매일 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/7월_31일.md" title="wikilink">7월 31일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -124,7 +124,7 @@
   - 주관
       - 서울 : 드림메이커
       - 일본 전 지역 : SM 엔터테인먼트 재팬, ON THE LINE
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
   - 총연출 : 황상훈
 
 ## 외부 링크

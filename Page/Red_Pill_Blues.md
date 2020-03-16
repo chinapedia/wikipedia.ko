@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Red Pill Blues](https://ko.wikipedia.org/wiki/Red_Pill_Blues).
 
 
-***Red Pill Blues***(레드 필 블루스)는 [마룬파이브](https://ko.wikipedia.org/wiki/마룬파이브 "wikilink")의 여섯 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). 2017년 11월 발매되었다.
+***Red Pill Blues***(레드 필 블루스)는 [마룬파이브](https://ko.wikipedia.org/wiki/마룬파이브 "wikilink")의 여섯 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 2017년 11월 발매되었다.
 
 ## 수록곡
 
@@ -54,23 +54,23 @@ Cold (feat. Future) 3:54
 
 ### 마룬 5
 
-  - [애덤 리바인](https://ko.wikipedia.org/wiki/애덤_리바인 "wikilink") - 보컬, 기타, 이그제규티브 프로듀싱, 작사작곡, 마룬 5 구성원
-  - [제시 카마이클](https://ko.wikipedia.org/wiki/제시_카마이클 "wikilink") - 리드 및 리듬 기타, 키보드, 마룬 5 구성원
+  - [애덤 리바인](../Page/애덤_리바인.md "wikilink") - 보컬, 기타, 이그제규티브 프로듀싱, 작사작곡, 마룬 5 구성원
+  - [제시 카마이클](../Page/제시_카마이클.md "wikilink") - 리드 및 리듬 기타, 키보드, 마룬 5 구성원
   - [마이클 매든](https://ko.wikipedia.org/wiki/마이클_매든 "wikilink") - 베이스 기타, 마룬 5 구성원
   - [제임스 발렌타인](https://ko.wikipedia.org/wiki/제임스_발렌타인 "wikilink") - 리드 기타, 백 보컬, 마룬 5 구성원
   - [맷 플린](https://ko.wikipedia.org/wiki/맷_플린 "wikilink") - 드럼, 타악기, 추가 보컬, 마룬 5 구성원
   - [피제이 모턴](https://ko.wikipedia.org/wiki/피제이_모턴 "wikilink") - 키보드, 신디사이저, 마룬 5 구성원
-  - [샘 패러](https://ko.wikipedia.org/wiki/샘_패러 "wikilink") - 기타, 베이스 기타, 백 보컬, 프로듀싱, 마룬 5 구성원
+  - [샘 패러](../Page/샘_패러.md "wikilink") - 기타, 베이스 기타, 백 보컬, 프로듀싱, 마룬 5 구성원
 
 ### 그 외
 
   - [SZA](https://ko.wikipedia.org/wiki/SZA "wikilink") - 피처링 보컬
-  - [켄드릭 라마](https://ko.wikipedia.org/wiki/켄드릭_라마 "wikilink") - 피커링 보컬
+  - [켄드릭 라마](../Page/켄드릭_라마.md "wikilink") - 피커링 보컬
   - 노아 "메일박스" 패소보이
 
 ## 차트 성적
 
-  - 미국 [빌보드 200](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink"): 2위
+  - 미국 [빌보드 200](../Page/빌보드_200.md "wikilink"): 2위
 
 ## 판매량
 

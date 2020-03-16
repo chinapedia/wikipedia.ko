@@ -64,11 +64,11 @@ B Side :
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/벨기에" title="wikilink">벨기에</a> (<a href="https://ko.wikipedia.org/wiki/왈롱" title="wikilink">왈롱</a>) <a href="https://ko.wikipedia.org/wiki/Ultratop" title="wikilink">Ultratop 40</a> 싱글 차트</p></td>
+<td style="text-align: left;"><p><a href="../Page/벨기에.md" title="wikilink">벨기에</a> (<a href="../Page/왈롱.md" title="wikilink">왈롱</a>) <a href="https://ko.wikipedia.org/wiki/Ultratop" title="wikilink">Ultratop 40</a> 싱글 차트</p></td>
 <td style="text-align: center;"><p>21</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/프랑스" title="wikilink">프랑스</a> <a href="https://ko.wikipedia.org/wiki/SNEP" title="wikilink">SNEP</a> 싱글 차트[1]</p></td>
+<td style="text-align: left;"><p><a href="../Page/프랑스.md" title="wikilink">프랑스</a> <a href="https://ko.wikipedia.org/wiki/SNEP" title="wikilink">SNEP</a> 싱글 차트[1]</p></td>
 <td style="text-align: center;"><p>14</p></td>
 </tr>
 <tr class="odd">
@@ -76,7 +76,7 @@ B Side :
 <td style="text-align: center;"><p>순위</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p>2001 <a href="https://ko.wikipedia.org/wiki/프랑스" title="wikilink">프랑스</a> <a href="https://ko.wikipedia.org/wiki/SNEP" title="wikilink">SNEP</a> 싱글 차트[2]</p></td>
+<td style="text-align: left;"><p>2001 <a href="../Page/프랑스.md" title="wikilink">프랑스</a> <a href="https://ko.wikipedia.org/wiki/SNEP" title="wikilink">SNEP</a> 싱글 차트[2]</p></td>
 <td style="text-align: center;"><p>59</p></td>
 </tr>
 <tr class="odd">
@@ -95,7 +95,7 @@ B Side :
 
 [분류:2001 singles](https://ko.wikipedia.org/wiki/분류:2001_singles "wikilink") [분류:Alizée songs](https://ko.wikipedia.org/wiki/분류:Alizée_songs "wikilink") [분류:Songs with music by Laurent Boutonnat](https://ko.wikipedia.org/wiki/분류:Songs_with_music_by_Laurent_Boutonnat "wikilink") [분류:Songs with lyrics by Mylène Farmer](https://ko.wikipedia.org/wiki/분류:Songs_with_lyrics_by_Mylène_Farmer "wikilink") [분류:2000 songs](https://ko.wikipedia.org/wiki/분류:2000_songs "wikilink") [분류:Polydor Records singles](https://ko.wikipedia.org/wiki/분류:Polydor_Records_singles "wikilink") [분류:2001년 싱글](https://ko.wikipedia.org/wiki/분류:2001년_싱글 "wikilink")
 
-1.  "Gourmandises", [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink") [SNEP](https://ko.wikipedia.org/wiki/SNEP "wikilink") 싱글 차트 [Lescharts.com](http://lescharts.com/showitem.asp?interpret=Aliz%E9e&titel=Gourmandises&cat=s) (Retrieved December 13, 2007)
-2.  2001 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink") [SNEP](https://ko.wikipedia.org/wiki/SNEP "wikilink") 싱글 차트 [Ifop.com](http://www.ifop.com/europe/sondages/discannu/single01.stm)  (Retrieved December 13, 2007)
+1.  "Gourmandises", [프랑스](../Page/프랑스.md "wikilink") [SNEP](https://ko.wikipedia.org/wiki/SNEP "wikilink") 싱글 차트 [Lescharts.com](http://lescharts.com/showitem.asp?interpret=Aliz%E9e&titel=Gourmandises&cat=s) (Retrieved December 13, 2007)
+2.  2001 [프랑스](../Page/프랑스.md "wikilink") [SNEP](https://ko.wikipedia.org/wiki/SNEP "wikilink") 싱글 차트 [Ifop.com](http://www.ifop.com/europe/sondages/discannu/single01.stm)  (Retrieved December 13, 2007)
 3.  2001 certifications [Disqueenfrance.com](http://www.disqueenfrance.com/fr/monopage.xml?id=259165&year=2001&type=6)  (Retrieved December 13, 2007)
 4.  Certifications Alizée singles [Infodisc.fr](http://www.infodisc.fr/S_Certif.php)  (Retrieved December 13, 2007)

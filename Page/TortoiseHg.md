@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TortoiseHg](https://ko.wikipedia.org/wiki/TortoiseHg).
 
 
-**TortoiseHg**는 [마이크로소프트 윈도우에서](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 실행되는 [머큐리얼](https://ko.wikipedia.org/wiki/머큐리얼 "wikilink")(Mercurial)의 GUI 프론트엔드이며 파일 탐색기, [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")와 직접 통합 연동된다.\[1\]
+**TortoiseHg**는 [마이크로소프트 윈도우에서](../Page/마이크로소프트_윈도우.md "wikilink") 실행되는 [머큐리얼](../Page/머큐리얼.md "wikilink")(Mercurial)의 GUI 프론트엔드이며 파일 탐색기, [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink"), [리눅스](../Page/리눅스.md "wikilink")와 직접 통합 연동된다.\[1\]
 
 이것은 [PyQt](https://ko.wikipedia.org/wiki/PyQt "wikilink")로 작성되었으며 (윈도우 셸 확장은 제외) 명령 행에서 기본 클라이언트를 사용할 수 있다.
 
@@ -9,7 +9,7 @@
 
 ## 같이 보기
 
-  - [TortoiseSVN](https://ko.wikipedia.org/wiki/TortoiseSVN "wikilink")
+  - [TortoiseSVN](../Page/TortoiseSVN.md "wikilink")
 
 ## 각주
 

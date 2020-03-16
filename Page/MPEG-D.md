@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MPEG-D](https://ko.wikipedia.org/wiki/MPEG-D).
 
 
-**MPEG-D**는 오디오 코딩의 표준 그룹으로서, 공식 명칭은 [ISO](https://ko.wikipedia.org/wiki/국제_표준화_기구 "wikilink")/[IEC](https://ko.wikipedia.org/wiki/국제_전기_표준_회의 "wikilink") 23003 - MPEG 오디오 기술(MPEG audio technologies)이며 2007년 이후로 게시되고 있다.\[1\]\[2\]\[3\]\[4\]
+**MPEG-D**는 오디오 코딩의 표준 그룹으로서, 공식 명칭은 [ISO](../Page/국제_표준화_기구.md "wikilink")/[IEC](https://ko.wikipedia.org/wiki/국제_전기_표준_회의 "wikilink") 23003 - MPEG 오디오 기술(MPEG audio technologies)이며 2007년 이후로 게시되고 있다.\[1\]\[2\]\[3\]\[4\]
 
 MPEG-D는 4가지 파트로 구성된다:
 

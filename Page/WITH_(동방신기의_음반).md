@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [WITH \( \)](https://ko.wikipedia.org/wiki/WITH_\(_\)).
 
 
-| 이 앨범에 수록된 싱글                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 11일](https://ko.wikipedia.org/wiki/6월_11일 "wikilink") |
-| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") |
-|                                                                                                                   |
+| 이 앨범에 수록된 싱글                                                                |
+| --------------------------------------------------------------------------- |
+| [2014년](../Page/2014년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink") |
+| [2014년](../Page/2014년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") |
+|                                                                             |
 
-《**WITH**》는 대한민국 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매된 8번째 정규 앨범으로 언제나 팬들의 곁에 있고자 하는 동방신기의 마음을 담고자 〈WITH〉로 작명하여 정규 5집 〈[TONE](../Page/TONE.md "wikilink")〉을 통해 시작된 동방신기의 머릿글자 T를 사용해, E를 끝글자로 작명하는 앨범명 관습의 종지부를 찍었다.
+《**WITH**》는 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 [일본](../Page/일본.md "wikilink")에서 발매된 8번째 정규 앨범으로 언제나 팬들의 곁에 있고자 하는 동방신기의 마음을 담고자 〈WITH〉로 작명하여 정규 5집 〈[TONE](../Page/TONE.md "wikilink")〉을 통해 시작된 동방신기의 머릿글자 T를 사용해, E를 끝글자로 작명하는 앨범명 관습의 종지부를 찍었다.
 
 멤버들의 입대 전 마지막 앨범인 점을 고려하여 정규 7집 〈[TREE](../Page/TREE_\(동방신기의_음반\).md "wikilink")〉와는 불과 9개월의 간극을 두고 발표하였으며 싱글 주기 또한 2장으로 단축하였다.
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - 2014 [A-nation](https://ko.wikipedia.org/wiki/A-nation "wikilink") 스타디움 페스티벌 공연 실황
+  - 2014 [A-nation](../Page/A-nation.md "wikilink") 스타디움 페스티벌 공연 실황
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@
 <!-- end list -->
 
   - I Love You ([TOHOSHINKI LIVE TOUR 2014 \~TREE\~](../Page/TOHOSHINKI_LIVE_TOUR_2014_~TREE~.md "wikilink") 다큐멘터리 필름)
-  - 2014 [A-nation](https://ko.wikipedia.org/wiki/A-nation "wikilink") 스타디움 페스티벌 백스테이지
+  - 2014 [A-nation](../Page/A-nation.md "wikilink") 스타디움 페스티벌 백스테이지
 
 ## 타이업
 

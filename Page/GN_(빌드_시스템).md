@@ -5,7 +5,7 @@
 
 ## GYP의 차세대 메타 빌드시스템
 
-  - GN 파일은 [GYP](https://ko.wikipedia.org/wiki/GYP_\(소프트웨어\) "wikilink") 파일보다 읽기 쉽고 유지 관리가 쉽다.\[2\]
+  - GN 파일은 [GYP](../Page/GYP_\(소프트웨어\).md "wikilink") 파일보다 읽기 쉽고 유지 관리가 쉽다.\[2\]
   - GN은 GYP보다 최대 약20 배 빠르다.
   - GN은 빌드의 일부로 Ninja가 필요에 따라 자동으로 다시 실행되도록 지원한다. 이렇게하면 빌드 파일을 변경할 때 GN을 다시 실행하는 것을 기억할 필요가 없다.
   - GN은 [의존성](https://ko.wikipedia.org/wiki/데이터_의존성 "wikilink") 적용을위한 더 나은 도구를 제공한다 (gn check 및 visibility, public_deps 및 data_deps 옵션 참조).

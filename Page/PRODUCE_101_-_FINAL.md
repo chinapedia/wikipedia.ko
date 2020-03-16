@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PRODUCE 101 - FINAL](https://ko.wikipedia.org/wiki/PRODUCE_101_-_FINAL).
 
 
-"'''PRODUCE 101 - FINAL '''"는 [엠넷](https://ko.wikipedia.org/wiki/엠넷 "wikilink")의 서바이벌 리얼리티 프로그램 《[PRODUCE 101 시즌 2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2 "wikilink")》의 [참가자들의](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2_참가자_목록 "wikilink") 싱글 앨범이다. 2017년 6월 17일 [CJ E\&M을](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink") 통해 공개되었다.
+"'''PRODUCE 101 - FINAL '''"는 [엠넷](../Page/엠넷.md "wikilink")의 서바이벌 리얼리티 프로그램 《[PRODUCE 101 시즌 2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2 "wikilink")》의 [참가자들의](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2_참가자_목록 "wikilink") 싱글 앨범이다. 2017년 6월 17일 [CJ E\&M을](../Page/CJ_E&M.md "wikilink") 통해 공개되었다.
 
 ## 트랙리스트
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [IND 8 ](https://ko.wikipedia.org/wiki/IND_8_).
 
 
-**IND 8번로 선**(IND Eighth Avenue Line)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")에 있는 [뉴욕 지하철의](https://ko.wikipedia.org/wiki/뉴욕_지하철 "wikilink") 철도 노선이며 [B 디비전](https://ko.wikipedia.org/wiki/B_디비전 "wikilink")(B Division)에 속해있다. 1932 년에 개설 된 이 노선은 [인디펜던트 서브웨이 시스템](https://ko.wikipedia.org/wiki/인디펜던트_서브웨이_시스템 "wikilink")(IND)의 첫 번째 노선이었으며, *8번로 지하철(Eighth Avenue Subway)* 란 이름은 뉴요커들에 의해 전체 IND 시스템에도 적용되었다.\[1\]\[2\]\[3\] 대부분의 노선은 4개의 선로를 가지고 있는데, 북쪽과 남쪽의 끝 부분을 제외하고 각 방향으로 하나의 완행 선로와 급행 선로가 있으며, 두 개의 급행 선로만 계속 이어진다. 노선은 서쪽에서 동쪽으로 선로 A1, A3, A4 및 A2가있는 "A" 선으로 [신호를](https://ko.wikipedia.org/wiki/:en:New_York_City_Subway_chaining "wikilink") 받으며,\[4\] 남쪽 끝에서 약 800,\[5\] 북쪽 끝에서 1540(피트 단위로 측정)까지 운행한다.\[6\]\[7\]
+**IND 8번로 선**(IND Eighth Avenue Line)은 [미국](../Page/미국.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")에 있는 [뉴욕 지하철의](../Page/뉴욕_지하철.md "wikilink") 철도 노선이며 [B 디비전](https://ko.wikipedia.org/wiki/B_디비전 "wikilink")(B Division)에 속해있다. 1932 년에 개설 된 이 노선은 [인디펜던트 서브웨이 시스템](https://ko.wikipedia.org/wiki/인디펜던트_서브웨이_시스템 "wikilink")(IND)의 첫 번째 노선이었으며, *8번로 지하철(Eighth Avenue Subway)* 란 이름은 뉴요커들에 의해 전체 IND 시스템에도 적용되었다.\[1\]\[2\]\[3\] 대부분의 노선은 4개의 선로를 가지고 있는데, 북쪽과 남쪽의 끝 부분을 제외하고 각 방향으로 하나의 완행 선로와 급행 선로가 있으며, 두 개의 급행 선로만 계속 이어진다. 노선은 서쪽에서 동쪽으로 선로 A1, A3, A4 및 A2가있는 "A" 선으로 [신호를](https://ko.wikipedia.org/wiki/:en:New_York_City_Subway_chaining "wikilink") 받으며,\[4\] 남쪽 끝에서 약 800,\[5\] 북쪽 끝에서 1540(피트 단위로 측정)까지 운행한다.\[6\]\[7\]
 
-노선은 [인우드](https://ko.wikipedia.org/wiki/인우드_\(맨해튼\) "wikilink") 남부의 [207번가에서](https://ko.wikipedia.org/wiki/인우드-207번가_역 "wikilink") [브루클라인 하이츠](https://ko.wikipedia.org/wiki/브루클라인_하이츠 "wikilink")(Brooklyn Heights)의 [하이 스트리트에서](https://ko.wikipedia.org/wiki/하이_스트리트_역_\(뉴욕\) "wikilink") 남쪽의 [연동 장치맞은](https://ko.wikipedia.org/wiki/연동_장치 "wikilink") 편 남쪽에 있는 [세인트니콜러스 애비뉴](https://ko.wikipedia.org/wiki/세인트니콜러스_애비뉴_\(맨해튼\) "wikilink")(St. Nicholas Avenue) 아래의 큰 구역을 포함, [센트럴 파크 웨스트](https://ko.wikipedia.org/wiki/센트럴_파크_웨스트 "wikilink")(Central Park West) 및 [8번로](https://ko.wikipedia.org/wiki/8번로_\(맨해튼\) "wikilink")(Eighth Avenue)에 이른다. 전 구건이 지하이며, 북쪽 끝에있는 [207번가 야드](https://ko.wikipedia.org/wiki/207번가_야드 "wikilink")(207th Street Yard)가 지상에 있다.[플라잉 정션](https://ko.wikipedia.org/wiki/플라잉_정션 "wikilink")(Flying junction)은 [IND 콘코스 선](https://ko.wikipedia.org/wiki/IND_콘코스_선 "wikilink"), [IND 6번로 선](https://ko.wikipedia.org/wiki/IND_6번로_선 "wikilink") 및 [IND 퀸즈 블러바드 선과](https://ko.wikipedia.org/wiki/IND_퀸즈_블러바드_선 "wikilink") 함께 제공된다. [59번가-컬럼버스 서클과](https://ko.wikipedia.org/wiki/59번가-컬럼버스_서클_역 "wikilink") [145번가](https://ko.wikipedia.org/wiki/145번가_역_\(IND_8번로_선\) "wikilink") 사이를 **센트럴 파크 웨스트 선**(Central Park West Line)이라고도 부른다.
+노선은 [인우드](https://ko.wikipedia.org/wiki/인우드_\(맨해튼\) "wikilink") 남부의 [207번가에서](https://ko.wikipedia.org/wiki/인우드-207번가_역 "wikilink") [브루클라인 하이츠](https://ko.wikipedia.org/wiki/브루클라인_하이츠 "wikilink")(Brooklyn Heights)의 [하이 스트리트에서](https://ko.wikipedia.org/wiki/하이_스트리트_역_\(뉴욕\) "wikilink") 남쪽의 [연동 장치맞은](../Page/연동_장치.md "wikilink") 편 남쪽에 있는 [세인트니콜러스 애비뉴](https://ko.wikipedia.org/wiki/세인트니콜러스_애비뉴_\(맨해튼\) "wikilink")(St. Nicholas Avenue) 아래의 큰 구역을 포함, [센트럴 파크 웨스트](https://ko.wikipedia.org/wiki/센트럴_파크_웨스트 "wikilink")(Central Park West) 및 [8번로](https://ko.wikipedia.org/wiki/8번로_\(맨해튼\) "wikilink")(Eighth Avenue)에 이른다. 전 구건이 지하이며, 북쪽 끝에있는 [207번가 야드](https://ko.wikipedia.org/wiki/207번가_야드 "wikilink")(207th Street Yard)가 지상에 있다.[플라잉 정션](https://ko.wikipedia.org/wiki/플라잉_정션 "wikilink")(Flying junction)은 [IND 콘코스 선](https://ko.wikipedia.org/wiki/IND_콘코스_선 "wikilink"), [IND 6번로 선](../Page/IND_6번로_선.md "wikilink") 및 [IND 퀸즈 블러바드 선과](https://ko.wikipedia.org/wiki/IND_퀸즈_블러바드_선 "wikilink") 함께 제공된다. [59번가-컬럼버스 서클과](https://ko.wikipedia.org/wiki/59번가-컬럼버스_서클_역 "wikilink") [145번가](https://ko.wikipedia.org/wiki/145번가_역_\(IND_8번로_선\) "wikilink") 사이를 **센트럴 파크 웨스트 선**(Central Park West Line)이라고도 부른다.
 
 전체 노선은 심야를 제외하고는 급행으로 운영되는 [A](../Page/뉴욕_지하철_A선.md "wikilink") 열차로 항상 제공된다. [C는](https://ko.wikipedia.org/wiki/뉴욕_지하철_C선 "wikilink") [168번가에서](https://ko.wikipedia.org/wiki/168번가_역_\(ND_8번로_선\) "wikilink") 남쪽으로 완행 서비스를 제공하는 반면 A는 급행으로 운행한다. 또한 [B는](https://ko.wikipedia.org/wiki/뉴욕_지하철_B선 "wikilink") 콘코스 선([145번가](https://ko.wikipedia.org/wiki/145번가_역_\(IND_8번로_선\) "wikilink"))과 6번로 선([59번가-컬럼버스 서클](https://ko.wikipedia.org/wiki/59번가-컬럼버스_서클_역 "wikilink")) 교차점 사이의 평일 완행 및 [D](https://ko.wikipedia.org/wiki/뉴욕_지하철_D선 "wikilink") 전시간 급행 서비스를 제공하며 [E는](https://ko.wikipedia.org/wiki/뉴욕_지하철_E선 "wikilink") 퀸즈 블러바드 선 교차점에서 남쪽으로 [50번가에서](https://ko.wikipedia.org/wiki/50번가_역_\(IND_8번로_선\) "wikilink") [세계 무역 센터까지](https://ko.wikipedia.org/wiki/세계_무역_센터_역_\(IND_8번로_선\) "wikilink") 완행으로 운행한다. A, C, E는 [미드타운맨해튼](https://ko.wikipedia.org/wiki/미드타운맨해튼 "wikilink")을 통해 8번로(Eighth Avenue)를 경유하기 때문에 노선 기호에 파란색으로 표시된다. B, D는 6번로(Sixth Avenue Line)을 통해 미드타운맨해튼을 통과하기 때문에 주황색이다.\[8\]
 
@@ -66,19 +66,19 @@
 
 센트럴 파크 웨스트 (Central Park West)의 노선 대부분은 서쪽의 완행 선로와 완행 전용 역만 있는 두 가지 수준으로 지어졌다. 두 개의 북쪽 방면 선로는 두 개의 남쪽 방면 선로 위에 있다. 센트럴 파크 웨스트가 8번로가 되는 [59번가-컬럼버스 서클에](https://ko.wikipedia.org/wiki/59번가-컬럼버스_서클_역 "wikilink") 접근하면, 지하철은 다시 4개 선로로 확장된다.\[15\]
 
-59번가의 남쪽에 있는 플라잉 정션은 [57번가에서](https://ko.wikipedia.org/wiki/57번가_역_\(IND_6번로_선\) "wikilink") 두 선로와 합쳐져 [53번가](https://ko.wikipedia.org/wiki/53번가_\(맨해튼\) "wikilink")(53rd Street) 아래에서 B와 D 열차를 동쪽으로 가져와, 복복선 [IND 6번로 선이](https://ko.wikipedia.org/wiki/IND_6번로_선 "wikilink") 된다. 53번가의 두 선로인 [IND 퀸즈 블러바드 선은](https://ko.wikipedia.org/wiki/IND_퀸즈_블러바드_선 "wikilink"), 남쪽을 따라 [50번가](https://ko.wikipedia.org/wiki/50번가_역_\(IND_8번로_선\) "wikilink") 역의 저상층으로 향하고, 남쪽으로 합류하여, [E](https://ko.wikipedia.org/wiki/뉴욕_지하철_E선 "wikilink") 열차를 완행 선로로 가져간다.
+59번가의 남쪽에 있는 플라잉 정션은 [57번가에서](https://ko.wikipedia.org/wiki/57번가_역_\(IND_6번로_선\) "wikilink") 두 선로와 합쳐져 [53번가](https://ko.wikipedia.org/wiki/53번가_\(맨해튼\) "wikilink")(53rd Street) 아래에서 B와 D 열차를 동쪽으로 가져와, 복복선 [IND 6번로 선이](../Page/IND_6번로_선.md "wikilink") 된다. 53번가의 두 선로인 [IND 퀸즈 블러바드 선은](https://ko.wikipedia.org/wiki/IND_퀸즈_블러바드_선 "wikilink"), 남쪽을 따라 [50번가](https://ko.wikipedia.org/wiki/50번가_역_\(IND_8번로_선\) "wikilink") 역의 저상층으로 향하고, 남쪽으로 합류하여, [E](https://ko.wikipedia.org/wiki/뉴욕_지하철_E선 "wikilink") 열차를 완행 선로로 가져간다.
 
 이전에 [42번가-포트 오소리티 버스 터미널 역에서](https://ko.wikipedia.org/wiki/타임스_스퀘어-42번가/포트_오소리티_버스_터미널_역 "wikilink") 미사용된 남쪽으로 내려가는 저상층은 이전에는 퀸즈 블러바드 선의 남행 트랙에서만 접근되었다. [7 지하철 확장을](https://ko.wikipedia.org/wiki/:en:7_Subway_Extension "wikilink") 위한 계획은 새로운 [IRT 플러싱 선](https://ko.wikipedia.org/wiki/IRT_플러싱_선 "wikilink") 선로를 위한 공간을 만들기 위해 저상층을 부분적으로 제거해야 했다.\[16\]
 
-복복선 노선은 8번로 밑에서 [14번가](https://ko.wikipedia.org/wiki/14번가_\(맨해튼\) "wikilink")(14th Street)행 남쪽으로 계속되며, 그리니치 애비뉴(Greenwich Avenue) 밑으로 돌려서 6번로(Sixth Avenue) 밑 남쪽으로 가서, [IND 6번로 선](https://ko.wikipedia.org/wiki/IND_6번로_선 "wikilink") 위에 복복선으로 위치한다. 두개 층으로 된 [웨스트 4번가-워싱턴 스퀘어](https://ko.wikipedia.org/wiki/웨스트_4번가-워싱턴_스퀘어_역 "wikilink") 역은 두 노선 사이를 쉽게 이동할 수 있다. 남쪽 방향 선로는 현재의 일반 서비스 패턴으로 사용되지 않고, 각 노선의 완행 트랙 사이를 연결하는데 사용한다. 6번로 선은 연결구간을 통과 한 후 동쪽 하우스턴 스트리트(Houston Street)로 향한다.\[17\]
+복복선 노선은 8번로 밑에서 [14번가](https://ko.wikipedia.org/wiki/14번가_\(맨해튼\) "wikilink")(14th Street)행 남쪽으로 계속되며, 그리니치 애비뉴(Greenwich Avenue) 밑으로 돌려서 6번로(Sixth Avenue) 밑 남쪽으로 가서, [IND 6번로 선](../Page/IND_6번로_선.md "wikilink") 위에 복복선으로 위치한다. 두개 층으로 된 [웨스트 4번가-워싱턴 스퀘어](https://ko.wikipedia.org/wiki/웨스트_4번가-워싱턴_스퀘어_역 "wikilink") 역은 두 노선 사이를 쉽게 이동할 수 있다. 남쪽 방향 선로는 현재의 일반 서비스 패턴으로 사용되지 않고, 각 노선의 완행 트랙 사이를 연결하는데 사용한다. 6번로 선은 연결구간을 통과 한 후 동쪽 하우스턴 스트리트(Houston Street)로 향한다.\[17\]
 
-6번가 아래의 [카날 스트리트 역은](https://ko.wikipedia.org/wiki/카날_스트리트_역_\(IND_8번로_선\) "wikilink") 노선의 마지막 복복선에 위치한 역이다. 역을 넘어선 각 방향의 교차는 [C](https://ko.wikipedia.org/wiki/뉴욕_지하철_C선 "wikilink") 및 심야 [A](../Page/뉴욕_지하철_A선.md "wikilink") 열차를 타고 북쪽 완행 선로와 남쪽 급행 선로 사이를 횡단한다. 지하철이 6번로에서 [처치 스트리트](https://ko.wikipedia.org/wiki/처치_스트리트 "wikilink")(Church Street) 방향으로 돌리면서 남쪽 방향 완행 선로가 급행 선로를 지나, [E](https://ko.wikipedia.org/wiki/뉴욕_지하철_E선 "wikilink") 열차를 동쪽으로 보낸다. 이 시점에서, 완공되지 못한 [IND Worth Street Line을](https://ko.wikipedia.org/wiki/IND_Worth_Street_Line "wikilink") 위해 원래 의도된 [벨마우스](https://ko.wikipedia.org/wiki/벨마우스 "wikilink")(bellmouth)가 터널의 동쪽에 있다.\[18\]\[19\]\[20\] [로어맨해튼-자메이카/JFK 교통 프로젝트의](https://ko.wikipedia.org/wiki/:en:Lower_Manhattan-Jamaica/JFK_Transportation_Project "wikilink") 일부로 [롱아일랜드 철도](https://ko.wikipedia.org/wiki/롱아일랜드_철도 "wikilink") [애틀랜틱 지선](https://ko.wikipedia.org/wiki/애틀랜틱_지선 "wikilink") 열차를 로어맨해튼 열차로 가져오는 것이 제안되었다.\[21\]
+6번가 아래의 [카날 스트리트 역은](https://ko.wikipedia.org/wiki/카날_스트리트_역_\(IND_8번로_선\) "wikilink") 노선의 마지막 복복선에 위치한 역이다. 역을 넘어선 각 방향의 교차는 [C](https://ko.wikipedia.org/wiki/뉴욕_지하철_C선 "wikilink") 및 심야 [A](../Page/뉴욕_지하철_A선.md "wikilink") 열차를 타고 북쪽 완행 선로와 남쪽 급행 선로 사이를 횡단한다. 지하철이 6번로에서 [처치 스트리트](https://ko.wikipedia.org/wiki/처치_스트리트 "wikilink")(Church Street) 방향으로 돌리면서 남쪽 방향 완행 선로가 급행 선로를 지나, [E](https://ko.wikipedia.org/wiki/뉴욕_지하철_E선 "wikilink") 열차를 동쪽으로 보낸다. 이 시점에서, 완공되지 못한 [IND Worth Street Line을](https://ko.wikipedia.org/wiki/IND_Worth_Street_Line "wikilink") 위해 원래 의도된 [벨마우스](https://ko.wikipedia.org/wiki/벨마우스 "wikilink")(bellmouth)가 터널의 동쪽에 있다.\[18\]\[19\]\[20\] [로어맨해튼-자메이카/JFK 교통 프로젝트의](https://ko.wikipedia.org/wiki/:en:Lower_Manhattan-Jamaica/JFK_Transportation_Project "wikilink") 일부로 [롱아일랜드 철도](../Page/롱아일랜드_철도.md "wikilink") [애틀랜틱 지선](https://ko.wikipedia.org/wiki/애틀랜틱_지선 "wikilink") 열차를 로어맨해튼 열차로 가져오는 것이 제안되었다.\[21\]
 
-4개의 트랙은 처치 스트리트 아래 남쪽으로 계속 진행되며, 2개의 별도의 연결 역이 [세계 무역 센터에서](https://ko.wikipedia.org/wiki/세계_무역_센터_역_\(IND_8번로_선\) "wikilink") 완행 선로 끝에 있으며 [챔버스 스트리트는](https://ko.wikipedia.org/wiki/챔버스_스트리트_\(IND_8번로_선\) "wikilink") 급행 선로에 있다. 두 개의 급행 선로는 [풀튼 스트리트](https://ko.wikipedia.org/wiki/풀튼_스트리트 "wikilink")(Fulton Street) 아래에서 동쪽으로 가고, 크렌베리 스트리트 터널(Cranberry Street Tunnel)을 통해 [이스트 강을](https://ko.wikipedia.org/wiki/이스트_강 "wikilink") 건너 브루클린의 크랜베리 스트리트(Cranberry Street)로 들어간다. 크랜베리 스트리트는 하이 스트리트([High Street](https://ko.wikipedia.org/wiki/:en:High_Street_\(Brooklyn\) "wikilink"))로 연결되며, 그로부터 노선은 남쪽에서 제이 스트리트(Jay Street)에서 꺾어, Rutgers Street Tunnel의 두 선로 [IND 6번로 선에](https://ko.wikipedia.org/wiki/IND_6번로_선 "wikilink") 쭉 뻗는다. 8번로 및 6번로 선은 crossovers (현재 사용되지 않음)에서 [하이 스트리트](https://ko.wikipedia.org/wiki/하이_스트리트_역_\(뉴욕\) "wikilink") 남쪽의 두 개 노선인 [IND 풀턴 스트리트 선](https://ko.wikipedia.org/wiki/IND_풀턴_스트리트_선 "wikilink") 및 [IND 컬버 선으로](https://ko.wikipedia.org/wiki/IND_컬버_선 "wikilink") 전환된다. A 열차와 C 열차는 풀턴 스트리트 선을 따라 계속 운행된다.\[22\]
+4개의 트랙은 처치 스트리트 아래 남쪽으로 계속 진행되며, 2개의 별도의 연결 역이 [세계 무역 센터에서](https://ko.wikipedia.org/wiki/세계_무역_센터_역_\(IND_8번로_선\) "wikilink") 완행 선로 끝에 있으며 [챔버스 스트리트는](https://ko.wikipedia.org/wiki/챔버스_스트리트_\(IND_8번로_선\) "wikilink") 급행 선로에 있다. 두 개의 급행 선로는 [풀튼 스트리트](https://ko.wikipedia.org/wiki/풀튼_스트리트 "wikilink")(Fulton Street) 아래에서 동쪽으로 가고, 크렌베리 스트리트 터널(Cranberry Street Tunnel)을 통해 [이스트 강을](https://ko.wikipedia.org/wiki/이스트_강 "wikilink") 건너 브루클린의 크랜베리 스트리트(Cranberry Street)로 들어간다. 크랜베리 스트리트는 하이 스트리트([High Street](https://ko.wikipedia.org/wiki/:en:High_Street_\(Brooklyn\) "wikilink"))로 연결되며, 그로부터 노선은 남쪽에서 제이 스트리트(Jay Street)에서 꺾어, Rutgers Street Tunnel의 두 선로 [IND 6번로 선에](../Page/IND_6번로_선.md "wikilink") 쭉 뻗는다. 8번로 및 6번로 선은 crossovers (현재 사용되지 않음)에서 [하이 스트리트](https://ko.wikipedia.org/wiki/하이_스트리트_역_\(뉴욕\) "wikilink") 남쪽의 두 개 노선인 [IND 풀턴 스트리트 선](https://ko.wikipedia.org/wiki/IND_풀턴_스트리트_선 "wikilink") 및 [IND 컬버 선으로](https://ko.wikipedia.org/wiki/IND_컬버_선 "wikilink") 전환된다. A 열차와 C 열차는 풀턴 스트리트 선을 따라 계속 운행된다.\[22\]
 
 ## 사진첩
 
-파일:BwyWalk0505 Station207thBroadwayA.jpg|북부 종착역 [207번가 역](https://ko.wikipedia.org/wiki/207번가_역_\(IND_8번로_선\) "wikilink") 파일:NYCS IND 8thAve 145thSt entrance.jpg|[145번가 역](https://ko.wikipedia.org/wiki/145번가_역_\(IND_8번로_선\) "wikilink") 출입구 파일:86st station.jpg|센트럴 파크 웨스트([86번가](https://ko.wikipedia.org/wiki/86번가_역_\(IND_8번로_선\) "wikilink"))의 저상층 완행역 파일:NYCS IND WTC.jpg|[세계 무역 센터](https://ko.wikipedia.org/wiki/세계_무역_센터_역_\(IND_8번로_선\) "wikilink") 남부 종착역 완행 선로 파일:Pump Train in Cranberry Street Tunnel after Hurricane Sandy vc.jpg|[허리케인 샌디](https://ko.wikipedia.org/wiki/허리케인_샌디 "wikilink") 이후 크랜베리 스트리트 터널에서 펌프 트레인
+파일:BwyWalk0505 Station207thBroadwayA.jpg|북부 종착역 [207번가 역](https://ko.wikipedia.org/wiki/207번가_역_\(IND_8번로_선\) "wikilink") 파일:NYCS IND 8thAve 145thSt entrance.jpg|[145번가 역](https://ko.wikipedia.org/wiki/145번가_역_\(IND_8번로_선\) "wikilink") 출입구 파일:86st station.jpg|센트럴 파크 웨스트([86번가](https://ko.wikipedia.org/wiki/86번가_역_\(IND_8번로_선\) "wikilink"))의 저상층 완행역 파일:NYCS IND WTC.jpg|[세계 무역 센터](https://ko.wikipedia.org/wiki/세계_무역_센터_역_\(IND_8번로_선\) "wikilink") 남부 종착역 완행 선로 파일:Pump Train in Cranberry Street Tunnel after Hurricane Sandy vc.jpg|[허리케인 샌디](../Page/허리케인_샌디.md "wikilink") 이후 크랜베리 스트리트 터널에서 펌프 트레인
 
 ## 역 목록
 
@@ -97,7 +97,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/맨해튼" title="wikilink">맨해튼</a></strong></p></td>
+<td><p><strong><a href="../Page/맨해튼.md" title="wikilink">맨해튼</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -147,7 +147,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴하이츠_(맨해튼)" title="wikilink">워싱턴하이츠</a></p></td>
+<td><p><a href="../Page/워싱턴하이츠_(맨해튼).md" title="wikilink">워싱턴하이츠</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Aiga_elevator.svg" title="wikilink">20px</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/190번가_역" title="wikilink">190번가</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:190th_Street_(IND_Eighth_Avenue_Line)" title="wikilink">190th Street</a></p></td>
@@ -337,7 +337,7 @@
 <td><p><a href="../Page/IRT_브로드웨이-7번로_선.md" title="wikilink">IRT 브로드웨이-7번로 선</a> ()</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/IND_6번로_선" title="wikilink">IND 6번로 선</a> 분리 ()</p></td>
+<td><p><a href="../Page/IND_6번로_선.md" title="wikilink">IND 6번로 선</a> 분리 ()</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -354,7 +354,7 @@
 <td></td>
 <td><p>1932년 9월 10일[42]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/IND_퀸즈_블러바드_선" title="wikilink">IND 퀸즈 블러바드 선</a> ()<br />
-남쪽 방면에서만 <a href="https://ko.wikipedia.org/wiki/미국_장애인_법" title="wikilink">ADA-액세서빌</a>(<a href="https://ko.wikipedia.org/wiki/접근성" title="wikilink">접근성</a>) 가능</p></td>
+남쪽 방면에서만 <a href="https://ko.wikipedia.org/wiki/미국_장애인_법" title="wikilink">ADA-액세서빌</a>(<a href="../Page/접근성.md" title="wikilink">접근성</a>) 가능</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -389,7 +389,7 @@
 <td><p>모두 정차</p></td>
 <td></td>
 <td><p>1932년 9월 10일[44]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아_역" title="wikilink">펜 역</a>: <a href="https://ko.wikipedia.org/wiki/암트랙" title="wikilink">암트랙</a>, <a href="https://ko.wikipedia.org/wiki/롱아일랜드_철도" title="wikilink">LIRR</a>, <a href="https://ko.wikipedia.org/wiki/뉴저지_트랜싯_철도_사업" title="wikilink">뉴저지 트랜싯</a> 환승 가능<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아_역" title="wikilink">펜 역</a>: <a href="../Page/암트랙.md" title="wikilink">암트랙</a>, <a href="../Page/롱아일랜드_철도.md" title="wikilink">LIRR</a>, <a href="https://ko.wikipedia.org/wiki/뉴저지_트랜싯_철도_사업" title="wikilink">뉴저지 트랜싯</a> 환승 가능<br />
 <a href="https://ko.wikipedia.org/wiki/:en:M34_(New_York_City_bus)" title="wikilink">M34/M34A 셀렉트 버스 서비스</a></p></td>
 <td></td>
 </tr>
@@ -421,11 +421,11 @@
 <td><p>모두 정차</p></td>
 <td></td>
 <td><p>1932년 9월 10일[47]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IND_6번로_선" title="wikilink">IND 6번로 선</a> ()<br />
+<td><p><a href="../Page/IND_6번로_선.md" title="wikilink">IND 6번로 선</a> ()<br />
 <a href="https://ko.wikipedia.org/wiki/포트_오소리티_트랜스허드슨" title="wikilink">PATH</a> 환승 가능: <a href="https://ko.wikipedia.org/wiki/9번가_역_(PATH)" title="wikilink">9번가 역</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/IND_6번로_선" title="wikilink">IND 6번로 선</a>(정규 서비스 없음) 에서/까지의 완행 전선로</p></td>
+<td><p><a href="../Page/IND_6번로_선.md" title="wikilink">IND 6번로 선</a>(정규 서비스 없음) 에서/까지의 완행 전선로</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -501,7 +501,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/브루클린" title="wikilink">브루클린</a></strong></p></td>
+<td><p><strong><a href="../Page/브루클린.md" title="wikilink">브루클린</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>

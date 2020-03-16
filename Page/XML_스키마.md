@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XML ](https://ko.wikipedia.org/wiki/XML_).
 
 
-**XML 스키마**(XML schema)는 [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 문서 타입에 대해 기술한 것이다.
+**XML 스키마**(XML schema)는 [XML](../Page/XML.md "wikilink") 문서 타입에 대해 기술한 것이다.
 
 ## 언어
 
@@ -26,8 +26,8 @@
 
 ## 같이 보기
 
-  - [구조화 정보](https://ko.wikipedia.org/wiki/정보_아키텍처 "wikilink")
-  - [자료 구조](https://ko.wikipedia.org/wiki/자료_구조 "wikilink")
+  - [구조화 정보](../Page/정보_아키텍처.md "wikilink")
+  - [자료 구조](../Page/자료_구조.md "wikilink")
   - [스키마](https://ko.wikipedia.org/wiki/스키마 "wikilink")
   - [XML 로그](https://ko.wikipedia.org/wiki/XML_로그 "wikilink")
 

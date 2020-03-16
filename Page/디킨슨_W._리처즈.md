@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
 
 
-**디킨슨 우드러프 리처즈 주니어**(, [1895년](https://ko.wikipedia.org/wiki/1895년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") \~ [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [생리학](https://ko.wikipedia.org/wiki/생리학 "wikilink")자, [내과학](https://ko.wikipedia.org/wiki/내과학 "wikilink")자이다. 1956년에 심장도관술과 순환계의 병리학적 변화에 대한 업적을 남긴 공로로 [앙드레 프레데릭 쿠르낭](../Page/앙드레_프레데릭_쿠르낭.md "wikilink"), [베르너 포르스만과](../Page/베르너_포르스만.md "wikilink") 함께 [노벨 생리학·의학상을](https://ko.wikipedia.org/wiki/노벨_생리학·의학상 "wikilink") 수상했다.
+**디킨슨 우드러프 리처즈 주니어**(, [1895년](../Page/1895년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ [1973년](../Page/1973년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [생리학](../Page/생리학.md "wikilink")자, [내과학](https://ko.wikipedia.org/wiki/내과학 "wikilink")자이다. 1956년에 심장도관술과 순환계의 병리학적 변화에 대한 업적을 남긴 공로로 [앙드레 프레데릭 쿠르낭](../Page/앙드레_프레데릭_쿠르낭.md "wikilink"), [베르너 포르스만과](../Page/베르너_포르스만.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.
 
 ## 수상 경력
 

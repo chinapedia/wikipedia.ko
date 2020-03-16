@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [ CD](https://ko.wikipedia.org/wiki/_CD).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:CD-PHOTO_logo.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Kodak_photo_cd_package.jpg "wikilink")  **포토 CD**(Photo CD)는 사진을 CD에 디지털화하고 저장하기 위해 [코닥](https://ko.wikipedia.org/wiki/코닥 "wikilink")이 설계한 시스템의 하나이다. 1992년에 시작한 이 디스크들은 특수한 사유 인코딩을 사용하여 거의 100장의 고품질 이미지들, 스캔 프린트, 슬라이드들을 담을 수 있도록 설계되었다. 포토 CD는 [베이지 북으로](https://ko.wikipedia.org/wiki/레인보우_북 "wikilink") 설계되었으며 [CD-ROM XA와](https://ko.wikipedia.org/wiki/CD-ROM_XA "wikilink") [CD-i 브리지](https://ko.wikipedia.org/wiki/화이트북 "wikilink") 사양도 준수한다. 이들은 [CD-i](https://ko.wikipedia.org/wiki/CD-i "wikilink") 플레이어, 포토 CD 플레이어(예: [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [파워CD](https://ko.wikipedia.org/wiki/파워CD "wikilink")), 적절한 소프트웨어(예: [레이저소프트 이미징의](https://ko.wikipedia.org/wiki/레이저소프트_이미징 "wikilink") [실버패스트](https://ko.wikipedia.org/wiki/실버패스트 "wikilink") DC 또는 HDR)를 갖춘 컴퓨터에서 플레이하도록 설계되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:CD-PHOTO_logo.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Kodak_photo_cd_package.jpg "wikilink")  **포토 CD**(Photo CD)는 사진을 CD에 디지털화하고 저장하기 위해 [코닥](../Page/코닥.md "wikilink")이 설계한 시스템의 하나이다. 1992년에 시작한 이 디스크들은 특수한 사유 인코딩을 사용하여 거의 100장의 고품질 이미지들, 스캔 프린트, 슬라이드들을 담을 수 있도록 설계되었다. 포토 CD는 [베이지 북으로](https://ko.wikipedia.org/wiki/레인보우_북 "wikilink") 설계되었으며 [CD-ROM XA와](https://ko.wikipedia.org/wiki/CD-ROM_XA "wikilink") [CD-i 브리지](https://ko.wikipedia.org/wiki/화이트북 "wikilink") 사양도 준수한다. 이들은 [CD-i](../Page/CD-i.md "wikilink") 플레이어, 포토 CD 플레이어(예: [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [파워CD](https://ko.wikipedia.org/wiki/파워CD "wikilink")), 적절한 소프트웨어(예: [레이저소프트 이미징의](https://ko.wikipedia.org/wiki/레이저소프트_이미징 "wikilink") [실버패스트](https://ko.wikipedia.org/wiki/실버패스트 "wikilink") DC 또는 HDR)를 갖춘 컴퓨터에서 플레이하도록 설계되었다.
 
-| 명칭                                                       | 해상도                                                  | 무압축 크기                                                 | 계획된 일반적 용도 |
-| -------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------ | ---------- |
-| ([px × px](https://ko.wikipedia.org/wiki/화소 "wikilink")) | ([Mpx](https://ko.wikipedia.org/wiki/화소 "wikilink")) | ([MB](https://ko.wikipedia.org/wiki/메가바이트 "wikilink")) |            |
-| Base/16                                                  | 128 × 192                                            | 0.025                                                  | 0.07       |
-| Base/4                                                   | 256 × 384                                            | 0.098                                                  | 0.28       |
-| Base                                                     | 512 × 768                                            | 0.393                                                  | 1.13       |
-| 4 Base                                                   | 1024 × 1536                                          | 1.573                                                  | 4.50       |
-| 16 Base                                                  | 2048 × 3072                                          | 6.291                                                  | 18.00      |
-| 64 Base                                                  | 4096 × 6144                                          | 25.166                                                 | 72.00      |
+| 명칭                                                       | 해상도                                                  | 무압축 크기                              | 계획된 일반적 용도 |
+| -------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------- | ---------- |
+| ([px × px](https://ko.wikipedia.org/wiki/화소 "wikilink")) | ([Mpx](https://ko.wikipedia.org/wiki/화소 "wikilink")) | ([MB](../Page/메가바이트.md "wikilink")) |            |
+| Base/16                                                  | 128 × 192                                            | 0.025                               | 0.07       |
+| Base/4                                                   | 256 × 384                                            | 0.098                               | 0.28       |
+| Base                                                     | 512 × 768                                            | 0.393                               | 1.13       |
+| 4 Base                                                   | 1024 × 1536                                          | 1.573                               | 4.50       |
+| 16 Base                                                  | 2048 × 3072                                          | 6.291                               | 18.00      |
+| 64 Base                                                  | 4096 × 6144                                          | 25.166                              | 72.00      |
 
 ## 역사
 
-포토 CD 시스템은 1990년에 [코닥](https://ko.wikipedia.org/wiki/코닥 "wikilink")이 발표하였다.\[1\]
+포토 CD 시스템은 1990년에 [코닥](../Page/코닥.md "wikilink")이 발표하였다.\[1\]
 
 ## 이미지 포맷
 

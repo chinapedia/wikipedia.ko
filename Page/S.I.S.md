@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.I.S](https://ko.wikipedia.org/wiki/S.I.S).
 
 
-**S.I.S** ([한글](https://ko.wikipedia.org/wiki/한글 "wikilink"): 에스아이에스)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 4인조 걸 그룹으로 더블엑스엔터테인먼트 소속이다.
+**S.I.S** ([한글](https://ko.wikipedia.org/wiki/한글 "wikilink"): 에스아이에스)는 [대한민국](../Page/대한민국.md "wikilink")의 4인조 걸 그룹으로 더블엑스엔터테인먼트 소속이다.
 
 그룹명 S.I.S는 ‘별들 안의 뜻밖의 재미’라는 뜻을 담고 있는 ‘Serendipity In Stars’의 약자로, 대중에게 뜻밖의 재미를 선사하겠다는 의미에서 각 단어의 이니셜을 따 탄생한 이름이다. 이와 동시에 여동생을 뜻하는 SISTER의 약자 'sis'의 느낌도 함께 전달하고 있다.\[1\]
 
@@ -79,7 +79,7 @@
 
 ### 방송
 
-  - 2017년 [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")《[아이돌 리부팅 프로젝트 더 유닛](https://ko.wikipedia.org/wiki/아이돌_리부팅_프로젝트_더_유닛 "wikilink")》 - 가을,앤,세빈 (참가자)
+  - 2017년 [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")《[아이돌 리부팅 프로젝트 더 유닛](../Page/아이돌_리부팅_프로젝트_더_유닛.md "wikilink")》 - 가을,앤,세빈 (참가자)
 
 ## 각주
 

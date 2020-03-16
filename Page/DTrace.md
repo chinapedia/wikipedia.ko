@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [DTrace](https://ko.wikipedia.org/wiki/DTrace).
 
 
-**DTrace**는 운영 시스템의 [커널과](https://ko.wikipedia.org/wiki/커널_\(컴퓨팅\) "wikilink") 응용 프로그램 문제를 실시간으로 [해결하기](https://ko.wikipedia.org/wiki/트러블슈팅 "wikilink") 위해 [썬 마이크로시스템즈가](https://ko.wikipedia.org/wiki/썬_마이크로시스템즈 "wikilink") 개발한 동적 [트레이싱](../Page/트레이싱.md "wikilink") 프레임워크이다. 원래 [솔라리스용으로](https://ko.wikipedia.org/wiki/솔라리스_\(운영_체제\) "wikilink") 개발되었다가, 그 이후로 자유 [공동 개발 및 배포 허가서](https://ko.wikipedia.org/wiki/공동_개발_및_배포_허가서 "wikilink")(CDDL)로 출시되면서 다른 여러 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 운영 체제로 이식되었다.
+**DTrace**는 운영 시스템의 [커널과](../Page/커널_\(컴퓨팅\).md "wikilink") 응용 프로그램 문제를 실시간으로 [해결하기](https://ko.wikipedia.org/wiki/트러블슈팅 "wikilink") 위해 [썬 마이크로시스템즈가](../Page/썬_마이크로시스템즈.md "wikilink") 개발한 동적 [트레이싱](../Page/트레이싱.md "wikilink") 프레임워크이다. 원래 [솔라리스용으로](../Page/솔라리스_\(운영_체제\).md "wikilink") 개발되었다가, 그 이후로 자유 [공동 개발 및 배포 허가서](../Page/공동_개발_및_배포_허가서.md "wikilink")(CDDL)로 출시되면서 다른 여러 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제로 이식되었다.
 
 DTrace는 메모리의 양, CPU 시간, 또 실행 중인 프로세스들이 사용하는 파일 시스템 및 네트워크 자원 등, 실행 중인 시스템의 전반적인 개요를 가져오는데 사용할 수 있다. 특정 함수가 호출된 인수의 로그라든지 특정 파일에 접근하는 프로세스의 목록과 같은 훨씬 더 자세한 정보를 제공할 수 있다.
 
-2011년 10월 기준으로, 오라클은 DTrace를 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")로 [이식하는](https://ko.wikipedia.org/wiki/이식_\(컴퓨팅\) "wikilink") 것을 발표하였으나 2014년 10월 13일 기준으로 공식적으로 이용이 불가능한 상황이다.\[1\] DTrace의 비공식 리눅스 포트는 이용할 수 있으나, 라이선스 조항에 대한 변경사항은 없다 .\[2\]
+2011년 10월 기준으로, 오라클은 DTrace를 [리눅스](../Page/리눅스.md "wikilink")로 [이식하는](../Page/이식_\(컴퓨팅\).md "wikilink") 것을 발표하였으나 2014년 10월 13일 기준으로 공식적으로 이용이 불가능한 상황이다.\[1\] DTrace의 비공식 리눅스 포트는 이용할 수 있으나, 라이선스 조항에 대한 변경사항은 없다 .\[2\]
 
 ## 명령 줄 예
 

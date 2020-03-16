@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [FINE COLLECTION \~Begin Again\~](https://ko.wikipedia.org/wiki/FINE_COLLECTION_\~Begin_Again\~).
 
 
-| 이 앨범에 수록된 싱글                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") |
-|                                                                                                                   |
+| 이 앨범에 수록된 싱글                                                                |
+| --------------------------------------------------------------------------- |
+| [2015년](../Page/2015년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") |
+|                                                                             |
 
-《**FINE COLLECTION \~Begin Again\~**》은 대한민국 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 콜렉션 앨범이자 멤버들의 전역 이후의 복귀기념 앨범이다. 2인 재편 이후의 첫 싱글인 〈[Why? (Keep Your Head Down)](https://ko.wikipedia.org/wiki/Why?_\(Keep_Your_Head_Down\) "wikilink")〉부터 멤버들의 입대 전 마지막 싱글이었던 〈[サクラミチ](https://ko.wikipedia.org/wiki/벚꽃길 "wikilink")〉발표 이후까지의 37곡과 각 CD별로 수록된 5인 체제 시절의 발표곡 〈[Rising Sun](https://ko.wikipedia.org/wiki/Rising_Sun/Heart,_Mind_and_Soul "wikilink")〉, 〈[どうして君を好きになってしまったんだろう?](https://ko.wikipedia.org/wiki/어째서_너를_좋아하게_되었을까? "wikilink")〉, 〈[Bolero](https://ko.wikipedia.org/wiki/Bolero/Kiss_The_Baby_Sky/잊지마 "wikilink")〉의 재녹음 버전 등 총 40곡이 수록되어 있으며 DVD반과 Blu-ray반에는 동방신기의 2인 재편 이후의 역대 뮤직비디오와 〈Begin Again〉의 앨범 자켓 촬영 현장, 비기스트반에는 동방신기의 필름 콘서트인 〈TILL〉의 공연 실황이 수록되어 있다.
+《**FINE COLLECTION \~Begin Again\~**》은 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 [일본](../Page/일본.md "wikilink") 콜렉션 앨범이자 멤버들의 전역 이후의 복귀기념 앨범이다. 2인 재편 이후의 첫 싱글인 〈[Why? (Keep Your Head Down)](../Page/Why?_\(Keep_Your_Head_Down\).md "wikilink")〉부터 멤버들의 입대 전 마지막 싱글이었던 〈[サクラミチ](../Page/벚꽃길.md "wikilink")〉발표 이후까지의 37곡과 각 CD별로 수록된 5인 체제 시절의 발표곡 〈[Rising Sun](https://ko.wikipedia.org/wiki/Rising_Sun/Heart,_Mind_and_Soul "wikilink")〉, 〈[どうして君を好きになってしまったんだろう?](../Page/어째서_너를_좋아하게_되었을까?.md "wikilink")〉, 〈[Bolero](https://ko.wikipedia.org/wiki/Bolero/Kiss_The_Baby_Sky/잊지마 "wikilink")〉의 재녹음 버전 등 총 40곡이 수록되어 있으며 DVD반과 Blu-ray반에는 동방신기의 2인 재편 이후의 역대 뮤직비디오와 〈Begin Again〉의 앨범 자켓 촬영 현장, 비기스트반에는 동방신기의 필름 콘서트인 〈TILL〉의 공연 실황이 수록되어 있다.
 
 또한 이 앨범을 시작으로 별도의 추가 신곡 없이 CD반과 동일한 수록 내용의 DVD반, Blu-ray반의 3가지의 멀티 앨범 구성으로 변경되었다.
 
@@ -64,8 +64,8 @@
 4.  シアワセ色の花
 5.  時ヲ止メテ
 6.  Before U Go
-7.  Honey Funny Bunny <small>([유노윤호](https://ko.wikipedia.org/wiki/유노윤호 "wikilink") Solo)</small>
-8.  Rock With U <small>([최강창민](https://ko.wikipedia.org/wiki/최강창민 "wikilink") Solo)</small>
+7.  Honey Funny Bunny <small>([유노윤호](../Page/유노윤호.md "wikilink") Solo)</small>
+8.  Rock With U <small>([최강창민](../Page/최강창민.md "wikilink") Solo)</small>
 9.  Medley (SHINE\~ウィーアー\!\~Summer Dream\~OCEAN)
 10. Catch Me -If you wanna-
 11. Good-bye for Now
@@ -92,7 +92,7 @@
 <tbody>
 <tr class="odd">
 <td><p>Why? (Keep Your Head Down)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/간사이_TV_방송" title="wikilink">간사이 TV</a>·<a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a> <a href="https://ko.wikipedia.org/wiki/TV_드라마" title="wikilink">TV 드라마</a> "<a href="https://ko.wikipedia.org/wiki/아름다운_이웃" title="wikilink">아름다운 이웃</a>"</p></td>
+<td><p><a href="../Page/간사이_TV_방송.md" title="wikilink">간사이 TV</a>·<a href="../Page/후지_TV.md" title="wikilink">후지 TV</a> <a href="https://ko.wikipedia.org/wiki/TV_드라마" title="wikilink">TV 드라마</a> "<a href="../Page/아름다운_이웃.md" title="wikilink">아름다운 이웃</a>"</p></td>
 </tr>
 <tr class="even">
 <td><p>B.U.T (BE-AU-TY)</p></td>

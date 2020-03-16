@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [LIFE \(AAA \)](https://ko.wikipedia.org/wiki/LIFE_\(AAA_\)).
 
 
-〈**LIFE**〉(라이프, )는 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 쉰다섯 번째 [싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink")。CD 발매에 앞서서 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 9월 20일부터 아이튠즈, 레코초쿠, mu-mo, mora 등, 각종 음원 사이트를 통해서 선행 배포가 되었다\[1\]. CD 싱글은 [10월 18일에](https://ko.wikipedia.org/wiki/10월_18일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매 예정이다\[2\].
+〈**LIFE**〉(라이프, )는 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 쉰다섯 번째 [싱글](../Page/싱글_\(음악\).md "wikilink")。CD 발매에 앞서서 [2017년](../Page/2017년.md "wikilink") 9월 20일부터 아이튠즈, 레코초쿠, mu-mo, mora 등, 각종 음원 사이트를 통해서 선행 배포가 되었다\[1\]. CD 싱글은 [10월 18일에](../Page/10월_18일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매 예정이다\[2\].
 
 ## 개요
 
   - 자켓 A, B, 팬 클럽 한정판의 총 세 가지의 형태로 발매된다. 또, 초도 발매분은 슬리브 사양이다.
-  - 타이틀 곡은 2017년 10월의 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 [월요 드라마](https://ko.wikipedia.org/wiki/후지_TV_월요일_밤_9시_드라마 "wikilink") 《[민중의 적\~세상, 이상하지 않습니까\!?\~](https://ko.wikipedia.org/wiki/민중의_적~세상,_이상하지_않습니까!?~ "wikilink")》의 주제가로 사용된다. AAA의 노래가 후지 TV 계열 연속극 주제가로 사용되는 것은 처음이다\[3\].
+  - 타이틀 곡은 2017년 10월의 [후지 TV](../Page/후지_TV.md "wikilink") 계열 [월요 드라마](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink") 《[민중의 적\~세상, 이상하지 않습니까\!?\~](https://ko.wikipedia.org/wiki/민중의_적~세상,_이상하지_않습니까!?~ "wikilink")》의 주제가로 사용된다. AAA의 노래가 후지 TV 계열 연속극 주제가로 사용되는 것은 처음이다\[3\].
   - 자켓 C의 굿즈는 ‘AAA 오리지널 덧신’이다.
 
 ## 수록 내용
@@ -44,14 +44,14 @@
 <tr class="odd">
 <td></td>
 <td><p>2017년 10월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>+<a href="https://ko.wikipedia.org/wiki/DVD" title="wikilink">DVD</a>, CD</p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>+<a href="../Page/DVD.md" title="wikilink">DVD</a>, CD</p></td>
 <td><p>avex trax</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2018년 6월 1일</p></td>
 <td><p>디지털 음원[5]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아이리버" title="wikilink">아이리버</a></p></td>
+<td><p><a href="../Page/아이리버.md" title="wikilink">아이리버</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

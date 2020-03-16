@@ -19,7 +19,7 @@
   - 2015년 5월 28일 [솔라](../Page/솔라_\(가수\).md "wikilink") - **\[Digital Single\] DOKKUN Project Part.4**\[7\]
   - 2015년 6월 19일 마마무 - **Pink Funky**
   - 2015년 8월 13일 [마스](https://ko.wikipedia.org/wiki/마스_\(음악_그룹\) "wikilink") - **\[Digital Single\] 나비,꽃을 찾다**\[8\]
-  - 2015년 8월 15일 [베이식](https://ko.wikipedia.org/wiki/베이식_\(가수\) "wikilink") - **쇼미더머니 4 Episode 4**\[9\]
+  - 2015년 8월 15일 [베이식](../Page/베이식_\(가수\).md "wikilink") - **쇼미더머니 4 Episode 4**\[9\]
   - 2015년 8월 22일 베이식 - **쇼미더머니 4 Episode 5**\[10\]
   - 2015년 8월 29일 베이식 - **쇼미더머니 4 Episode 6**\[11\]
   - 2015년 9월 5일 베이식 - **쇼미더머니 4 Episode 7**\[12\]
@@ -48,7 +48,7 @@
   - 2016년 9월 19일 [코스믹 걸](https://ko.wikipedia.org/wiki/코스믹_걸 "wikilink") - **\[Digital Single\] 그럼 뭐해**
   - 2016년 9월 21일 마마무 - **\[Digital Single\] New York**
   - 2016년 9월 24일 베이식 - **먹고 자고 먹고 OST**\[19\]
-  - 2016년 11월 4일 [먼데이 키즈](https://ko.wikipedia.org/wiki/먼데이_키즈 "wikilink") - **\[Digital Single\] 하기 싫은 말**
+  - 2016년 11월 4일 [먼데이 키즈](../Page/먼데이_키즈.md "wikilink") - **\[Digital Single\] 하기 싫은 말**
   - 2016년 11월 7일 마마무 - **Memory**
   - 2016년 11월 10일 마스 - **\[Digital Single\] 별보다 빛나는**\[20\]
   - 2016년 11월 29일 코스믹 걸 - **\[Digital Single\] Don't You Worry 'bout Me**
@@ -92,7 +92,7 @@
   - 2017년 10월 20일 마스 - **\[Digital Single\] THE UNI+ 빛 (Last One)**\[29\]
   - 2017년 10월 24일 먼데이 키즈 - **\[Digital Single\] 가을 안부**
   - 2017년 10월 27일 오브로젝트 - **\[Digital Single\] 연애의 온도**
-  - 2017년 10월 29일 브로맨스,[김영서](https://ko.wikipedia.org/wiki/믹스나인 "wikilink"), [김성은](https://ko.wikipedia.org/wiki/믹스나인 "wikilink"), [서지흔](https://ko.wikipedia.org/wiki/믹스나인 "wikilink"), [이예솔](https://ko.wikipedia.org/wiki/믹스나인 "wikilink"), [장은성](https://ko.wikipedia.org/wiki/믹스나인 "wikilink"), [조유리](https://ko.wikipedia.org/wiki/믹스나인 "wikilink"), [이재준](https://ko.wikipedia.org/wiki/믹스나인 "wikilink"), [김영조](https://ko.wikipedia.org/wiki/믹스나인 "wikilink"), [이건민](https://ko.wikipedia.org/wiki/믹스나인 "wikilink") - **\[Digital Single\] 믹스나인 Part.1**
+  - 2017년 10월 29일 브로맨스,[김영서](../Page/믹스나인.md "wikilink"), [김성은](../Page/믹스나인.md "wikilink"), [서지흔](../Page/믹스나인.md "wikilink"), [이예솔](../Page/믹스나인.md "wikilink"), [장은성](../Page/믹스나인.md "wikilink"), [조유리](../Page/믹스나인.md "wikilink"), [이재준](../Page/믹스나인.md "wikilink"), [김영조](../Page/믹스나인.md "wikilink"), [이건민](../Page/믹스나인.md "wikilink") - **\[Digital Single\] 믹스나인 Part.1**
   - 2017년 11월 9일 마마무 - **\[Digital Single\] Taste The Feeling**
   - 2017년 11월 19일 브로맨스,김영서,김성은,서지흔,이예솔,장은성,조유리,김영조,이건민,이재준 - **\[Digital Single\] 믹스나인 Part.3**
   - 2017년 11월 20일 베이식 - **\[Digital Single\] STARTER**
@@ -215,49 +215,49 @@
 
 [분류:대한민국 음반사의 음반 목록](https://ko.wikipedia.org/wiki/분류:대한민국_음반사의_음반_목록 "wikilink")
 
-1.  [트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [범키](https://ko.wikipedia.org/wiki/범키 "wikilink")도 앨범 참여.
+1.  [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [범키](../Page/범키.md "wikilink")도 앨범 참여.
 2.  [케이윌](https://ko.wikipedia.org/wiki/케이윌 "wikilink")도 앨범 참여.
-3.  [긱스도](https://ko.wikipedia.org/wiki/긱스_\(듀오\) "wikilink") 앨범 참여.
+3.  [긱스도](../Page/긱스_\(듀오\).md "wikilink") 앨범 참여.
 4.  최초의 OST 앨범.
-5.  [로꼬](https://ko.wikipedia.org/wiki/로꼬 "wikilink")도 앨범 참여.
+5.  [로꼬](../Page/로꼬.md "wikilink")도 앨범 참여.
 6.  [에스나도](../Page/에스나_\(음악가\).md "wikilink") 앨범 참여.
 7.  [에디 킴도](../Page/에디_킴.md "wikilink") 앨범 참여.
 8.  마스 미니 1집의 선공개곡.
-9.  [지누션](https://ko.wikipedia.org/wiki/지누션 "wikilink"), [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 멤버 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink"), [인크레더블](https://ko.wikipedia.org/wiki/인크레더블_\(래퍼\) "wikilink"), [버벌 진트](https://ko.wikipedia.org/wiki/버벌_진트 "wikilink"), [San E](https://ko.wikipedia.org/wiki/San_E "wikilink"), [블랙넛](../Page/블랙넛.md "wikilink"), [이노베이터](../Page/이노베이터.md "wikilink"), [긱스의](https://ko.wikipedia.org/wiki/긱스_\(듀오\) "wikilink") 멤버 [릴보이](../Page/릴보이.md "wikilink"), [로꼬](https://ko.wikipedia.org/wiki/로꼬 "wikilink"), [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink")도 앨범 참여. 그리고 최초의 19금 앨범.
+9.  [지누션](../Page/지누션.md "wikilink"), [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 멤버 [타블로](../Page/타블로.md "wikilink"), [인크레더블](https://ko.wikipedia.org/wiki/인크레더블_\(래퍼\) "wikilink"), [버벌 진트](https://ko.wikipedia.org/wiki/버벌_진트 "wikilink"), [San E](https://ko.wikipedia.org/wiki/San_E "wikilink"), [블랙넛](../Page/블랙넛.md "wikilink"), [이노베이터](../Page/이노베이터.md "wikilink"), [긱스의](../Page/긱스_\(듀오\).md "wikilink") 멤버 [릴보이](../Page/릴보이.md "wikilink"), [로꼬](../Page/로꼬.md "wikilink"), [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](../Page/박재범.md "wikilink")도 앨범 참여. 그리고 최초의 19금 앨범.
 10. [WINNER와](../Page/위너_\(음악_그룹\).md "wikilink") [비오엠](https://ko.wikipedia.org/wiki/비오엠 "wikilink")의 멤버 [송민호](../Page/송민호.md "wikilink"), [블랙넛](../Page/블랙넛.md "wikilink")도 앨범 참여.
-11. [WINNER와](../Page/위너_\(음악_그룹\).md "wikilink") [비오엠](https://ko.wikipedia.org/wiki/비오엠 "wikilink")의 멤버 [송민호](../Page/송민호.md "wikilink"), [블락비](https://ko.wikipedia.org/wiki/블락비 "wikilink")의 멤버 [지코](https://ko.wikipedia.org/wiki/지코 "wikilink")도 앨범 참여.
-12. [원펀치의](https://ko.wikipedia.org/wiki/원펀치_\(음악_그룹\) "wikilink") 멤버 [원](../Page/원_\(래퍼\).md "wikilink"), [버벌 진트](https://ko.wikipedia.org/wiki/버벌_진트 "wikilink"), [San E](https://ko.wikipedia.org/wiki/San_E "wikilink"), [피타입](https://ko.wikipedia.org/wiki/피타입 "wikilink"), [팬텀의](https://ko.wikipedia.org/wiki/팬텀_\(음악_그룹\) "wikilink") 멤버 [한해](../Page/한해.md "wikilink"), [리듬파워](https://ko.wikipedia.org/wiki/리듬파워 "wikilink")의 멤버 [지구인도](https://ko.wikipedia.org/wiki/지구인_\(가수\) "wikilink") 앨범 참여.
-13. [긱스의](https://ko.wikipedia.org/wiki/긱스_\(듀오\) "wikilink") 멤버 [릴보이](../Page/릴보이.md "wikilink")도 앨범 참여.
-14. [허각](https://ko.wikipedia.org/wiki/허각 "wikilink")도 앨범 참여.
-15. [이현우도](https://ko.wikipedia.org/wiki/이현우_\(1966년\) "wikilink") 앨범 참여.
+11. [WINNER와](../Page/위너_\(음악_그룹\).md "wikilink") [비오엠](https://ko.wikipedia.org/wiki/비오엠 "wikilink")의 멤버 [송민호](../Page/송민호.md "wikilink"), [블락비](../Page/블락비.md "wikilink")의 멤버 [지코](../Page/지코.md "wikilink")도 앨범 참여.
+12. [원펀치의](https://ko.wikipedia.org/wiki/원펀치_\(음악_그룹\) "wikilink") 멤버 [원](../Page/원_\(래퍼\).md "wikilink"), [버벌 진트](https://ko.wikipedia.org/wiki/버벌_진트 "wikilink"), [San E](https://ko.wikipedia.org/wiki/San_E "wikilink"), [피타입](../Page/피타입.md "wikilink"), [팬텀의](../Page/팬텀_\(음악_그룹\).md "wikilink") 멤버 [한해](../Page/한해.md "wikilink"), [리듬파워](../Page/리듬파워.md "wikilink")의 멤버 [지구인도](https://ko.wikipedia.org/wiki/지구인_\(가수\) "wikilink") 앨범 참여.
+13. [긱스의](../Page/긱스_\(듀오\).md "wikilink") 멤버 [릴보이](../Page/릴보이.md "wikilink")도 앨범 참여.
+14. [허각](../Page/허각.md "wikilink")도 앨범 참여.
+15. [이현우도](../Page/이현우_\(1966년\).md "wikilink") 앨범 참여.
 16. [M\&D](https://ko.wikipedia.org/wiki/M&D "wikilink")도 앨범 참여.
-17. [V.O.S](https://ko.wikipedia.org/wiki/V.O.S "wikilink")도 앨범 참여.
+17. [V.O.S](../Page/V.O.S.md "wikilink")도 앨범 참여.
 18. [잉키](../Page/잉키.md "wikilink")도 앨범 참여.
-19. [다이아의](../Page/다이아_\(음악_그룹\).md "wikilink") 두 멤버 [정채연](../Page/정채연.md "wikilink"), [승희](https://ko.wikipedia.org/wiki/승희_\(1991년\) "wikilink"), [스위티와](https://ko.wikipedia.org/wiki/스위티_\(9인조_그룹\) "wikilink") [지피 베이직와](https://ko.wikipedia.org/wiki/지피_베이직 "wikilink") [디유닛](https://ko.wikipedia.org/wiki/디유닛 "wikilink")의 멤버 [제이니](https://ko.wikipedia.org/wiki/제이니 "wikilink")도 앨범 참여.
+19. [다이아의](../Page/다이아_\(음악_그룹\).md "wikilink") 두 멤버 [정채연](../Page/정채연.md "wikilink"), [승희](https://ko.wikipedia.org/wiki/승희_\(1991년\) "wikilink"), [스위티와](https://ko.wikipedia.org/wiki/스위티_\(9인조_그룹\) "wikilink") [지피 베이직와](../Page/지피_베이직.md "wikilink") [디유닛](../Page/디유닛.md "wikilink")의 멤버 [제이니](../Page/제이니.md "wikilink")도 앨범 참여.
 20. 마스 미니 2집의 선공개곡.
 21. [황치열](../Page/황치열.md "wikilink")도 앨범 참여.
-22. [F(x)](https://ko.wikipedia.org/wiki/F\(x\) "wikilink")의 멤버 [루나](https://ko.wikipedia.org/wiki/루나_\(가수\) "wikilink"), [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 멤버 [하니도](../Page/하니_\(가수\).md "wikilink") 앨범 참여.
-23. [스탠딩 에그도](https://ko.wikipedia.org/wiki/스탠딩_에그 "wikilink") 앨범 참여.
+22. [F(x)](../Page/F\(x\).md "wikilink")의 멤버 [루나](../Page/루나_\(가수\).md "wikilink"), [EXID](../Page/EXID.md "wikilink")의 멤버 [하니도](../Page/하니_\(가수\).md "wikilink") 앨범 참여.
+23. [스탠딩 에그도](../Page/스탠딩_에그.md "wikilink") 앨범 참여.
 24. [김나영도](../Page/김나영_\(가수\).md "wikilink") 앨범 참여.
-25. [박보람](https://ko.wikipedia.org/wiki/박보람 "wikilink")도 앨범 참여.
+25. [박보람](../Page/박보람.md "wikilink")도 앨범 참여.
 26. [제프 버넷도](https://ko.wikipedia.org/wiki/제프_버넷 "wikilink") 앨범 참여.
 27. [케이시도](https://ko.wikipedia.org/wiki/케이시_\(가수\) "wikilink") 앨범 참여.
-28. [트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"), [마이네임](https://ko.wikipedia.org/wiki/마이네임 "wikilink"), [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"), [아이](../Page/아이_\(가수\).md "wikilink") 외 109명도 앨범 참여.
-29. [트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"), [마이네임](https://ko.wikipedia.org/wiki/마이네임 "wikilink") 외 48명도 앨범 참여.
-30. [김보경도](https://ko.wikipedia.org/wiki/김보경_\(가수\) "wikilink") 앨범 참여.
-31. [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 세 멤버 [희철](https://ko.wikipedia.org/wiki/김희철_\(가수\) "wikilink"), [신동](https://ko.wikipedia.org/wiki/신동_\(가수\) "wikilink"), [은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink")도 앨범 참여.
-32. [015B](https://ko.wikipedia.org/wiki/015B "wikilink")도 앨범 참여.
+28. [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"), [마이네임](../Page/마이네임.md "wikilink"), [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"), [아이](../Page/아이_\(가수\).md "wikilink") 외 109명도 앨범 참여.
+29. [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"), [마이네임](../Page/마이네임.md "wikilink") 외 48명도 앨범 참여.
+30. [김보경도](../Page/김보경_\(가수\).md "wikilink") 앨범 참여.
+31. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 세 멤버 [희철](../Page/김희철_\(가수\).md "wikilink"), [신동](../Page/신동_\(가수\).md "wikilink"), [은혁](../Page/은혁.md "wikilink")도 앨범 참여.
+32. [015B](../Page/015B.md "wikilink")도 앨범 참여.
 33. [오마이걸](../Page/오마이걸.md "wikilink")도 앨범 참여.
-34. [지아도](https://ko.wikipedia.org/wiki/지아_\(1986년\) "wikilink") 앨범 참여.
-35. [로꼬](https://ko.wikipedia.org/wiki/로꼬 "wikilink"), [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 멤버 [JB](https://ko.wikipedia.org/wiki/JB_\(가수\) "wikilink"), [김종서](https://ko.wikipedia.org/wiki/김종서_\(가수\) "wikilink"), [부활의](https://ko.wikipedia.org/wiki/부활_\(음악_그룹\) "wikilink") 멤버 [김태원도](https://ko.wikipedia.org/wiki/김태원_\(음악인\) "wikilink") 앨범 참여.
-36. [애프터스쿨](https://ko.wikipedia.org/wiki/애프터스쿨 "wikilink")의 멤버 [이가은](https://ko.wikipedia.org/wiki/가은_\(1994년\) "wikilink"), [고유빈](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"), [김초연](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"), [강혜원](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"), [박해윤](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 외 89명도 앨범 참여.
+34. [지아도](../Page/지아_\(1986년\).md "wikilink") 앨범 참여.
+35. [로꼬](../Page/로꼬.md "wikilink"), [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 멤버 [JB](../Page/JB_\(가수\).md "wikilink"), [김종서](../Page/김종서_\(가수\).md "wikilink"), [부활의](https://ko.wikipedia.org/wiki/부활_\(음악_그룹\) "wikilink") 멤버 [김태원도](../Page/김태원_\(음악인\).md "wikilink") 앨범 참여.
+36. [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 멤버 [이가은](https://ko.wikipedia.org/wiki/가은_\(1994년\) "wikilink"), [고유빈](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"), [김초연](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"), [강혜원](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink"), [박해윤](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 외 89명도 앨범 참여.
 37. [G.URBAN](https://ko.wikipedia.org/wiki/G.URBAN "wikilink")도 앨범 참여.
 38. 마마무 미니 7집의 선공개곡.
-39. [015B](https://ko.wikipedia.org/wiki/015B "wikilink")도 앨범 참여.
-40. [김현철도](https://ko.wikipedia.org/wiki/김현철_\(가수\) "wikilink") 앨범 참여.
-41. [AOA](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink"),[2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 전 멤버 [박봄](https://ko.wikipedia.org/wiki/박봄 "wikilink")도 앨범 참여.
+39. [015B](../Page/015B.md "wikilink")도 앨범 참여.
+40. [김현철도](../Page/김현철_\(가수\).md "wikilink") 앨범 참여.
+41. [AOA](../Page/AOA_\(음악_그룹\).md "wikilink"),[2NE1](../Page/2NE1.md "wikilink")의 전 멤버 [박봄](../Page/박봄.md "wikilink")도 앨범 참여.
 42. [Woogie](https://ko.wikipedia.org/wiki/Woogie "wikilink")도 앨범 참여.
-43. [(여자)아이들](https://ko.wikipedia.org/wiki/\(여자\)아이들 "wikilink")도 앨범 참여.
+43. [(여자)아이들](../Page/\(여자\)아이들.md "wikilink")도 앨범 참여.
 44. [퀸덤](https://ko.wikipedia.org/wiki/퀸덤 "wikilink") 파이널 경연 곡
 45. [케이시도](https://ko.wikipedia.org/wiki/케이시_\(가수\) "wikilink") 앨범 참여.
 46. 문별 미니 1집의 선공개곡.

@@ -5,21 +5,21 @@
 
 ## 주요 이력
 
-미국의 세계적인 구약학자였던 그는, 1958년에서 1999년까지 미국 [예일 대학교의](https://ko.wikipedia.org/wiki/예일_대학교 "wikilink") [구약학](https://ko.wikipedia.org/wiki/구약성경 "wikilink") 교수를 지냈다. 20세기 성경신학자 가운데 가장 영향력있는 인물이었다.
+미국의 세계적인 구약학자였던 그는, 1958년에서 1999년까지 미국 [예일 대학교의](../Page/예일_대학교.md "wikilink") [구약학](../Page/구약성경.md "wikilink") 교수를 지냈다. 20세기 성경신학자 가운데 가장 영향력있는 인물이었다.
 
 ## 학력
 
-  - B.A., M.A. [미시간 대학교](https://ko.wikipedia.org/wiki/미시간_대학교 "wikilink")(University of Michigan) (1947)
-  - B.D. [프린스턴 신학교](https://ko.wikipedia.org/wiki/프린스턴_신학교 "wikilink")(Princeton Theological Seminary) (1950)
+  - B.A., M.A. [미시간 대학교](../Page/미시간_대학교.md "wikilink")(University of Michigan) (1947)
+  - B.D. [프린스턴 신학교](../Page/프린스턴_신학교.md "wikilink")(Princeton Theological Seminary) (1950)
   - Th.D. [바젤 대학교](https://ko.wikipedia.org/wiki/바젤_대학교 "wikilink")(University of Basel) (1955)
 
 ## 신학방법
 
-차일즈는 특별히 성경해석의 한 방법으로 [정경비평](https://ko.wikipedia.org/wiki/정경비평 "wikilink")의 선구자로 유명하다. 이 해석은 성경의 최종본으로서 정경 그 자체의 본문에 초점을 두는 것이다. 사실 차일즈는 이 용어를 좋아하지 않았지만 [역사비평](https://ko.wikipedia.org/wiki/역사비평 "wikilink") 방법을 대체한 이 정경비평은 전혀 새로운 출발점으로 표현하기 위한 자기의 연구를 말한다. 차일즈는 <위기에 처한 성서 신학> (*Biblical Theology in Crisis* , 1970)에서 정경적 접근법을 착수하고 그것을 <성경으로서 구약성경의 입문>(Introduction to the Old Testament as Scripture, 1979)에서 적용했다. 이 후자의 책은 "1980년대 가장 많이 논의된 책들 중 하나"로 말하여진다.\[1\]
+차일즈는 특별히 성경해석의 한 방법으로 [정경비평](../Page/정경비평.md "wikilink")의 선구자로 유명하다. 이 해석은 성경의 최종본으로서 정경 그 자체의 본문에 초점을 두는 것이다. 사실 차일즈는 이 용어를 좋아하지 않았지만 [역사비평](../Page/역사비평.md "wikilink") 방법을 대체한 이 정경비평은 전혀 새로운 출발점으로 표현하기 위한 자기의 연구를 말한다. 차일즈는 <위기에 처한 성서 신학> (*Biblical Theology in Crisis* , 1970)에서 정경적 접근법을 착수하고 그것을 <성경으로서 구약성경의 입문>(Introduction to the Old Testament as Scripture, 1979)에서 적용했다. 이 후자의 책은 "1980년대 가장 많이 논의된 책들 중 하나"로 말하여진다.\[1\]
 
 ## 함께보기
 
-  - [정경비평](https://ko.wikipedia.org/wiki/정경비평 "wikilink")
+  - [정경비평](../Page/정경비평.md "wikilink")
 
 ## 작품
 

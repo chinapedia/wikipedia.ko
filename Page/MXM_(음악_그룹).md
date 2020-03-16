@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MXM \( \)](https://ko.wikipedia.org/wiki/MXM_\(_\)).
 
 
-**MXM**은 대한민국의 남성 듀오로, [임영민](https://ko.wikipedia.org/wiki/임영민 "wikilink")과 [김동현으로](https://ko.wikipedia.org/wiki/김동현_\(1998년\) "wikilink") 이루어져 있다. 소속사는 [브랜뉴뮤직](https://ko.wikipedia.org/wiki/브랜뉴뮤직 "wikilink")이다. 팀명은 "두 사람이 하나가 될 때 시너지를 내서 또 다른 색깔을 낸다는 뜻"과 "더 성장하겠다는 다짐으로 '모어 & 모어'라는 뜻이 담겨있다.\[1\] [워너원](../Page/워너원.md "wikilink")으로써의 [박우진](../Page/박우진.md "wikilink"), [이대휘](https://ko.wikipedia.org/wiki/이대휘 "wikilink")의 활동이 2019년 1월 27일 부로 종료되었고, [브랜뉴뮤직](https://ko.wikipedia.org/wiki/브랜뉴뮤직 "wikilink")에 복귀하게 됨과 동시에 5월 완전체로 데뷔한다. 그에 따라 MXM의 활동도 자연스럽게 마무리되었다.
+**MXM**은 대한민국의 남성 듀오로, [임영민](../Page/임영민.md "wikilink")과 [김동현으로](../Page/김동현_\(1998년\).md "wikilink") 이루어져 있다. 소속사는 [브랜뉴뮤직](../Page/브랜뉴뮤직.md "wikilink")이다. 팀명은 "두 사람이 하나가 될 때 시너지를 내서 또 다른 색깔을 낸다는 뜻"과 "더 성장하겠다는 다짐으로 '모어 & 모어'라는 뜻이 담겨있다.\[1\] [워너원](../Page/워너원.md "wikilink")으로써의 [박우진](../Page/박우진.md "wikilink"), [이대휘](https://ko.wikipedia.org/wiki/이대휘 "wikilink")의 활동이 2019년 1월 27일 부로 종료되었고, [브랜뉴뮤직](../Page/브랜뉴뮤직.md "wikilink")에 복귀하게 됨과 동시에 5월 완전체로 데뷔한다. 그에 따라 MXM의 활동도 자연스럽게 마무리되었다.
 
 ## 이전 구성원
 
@@ -37,7 +37,7 @@
 <td><p><em>MORE THAN EVER</em></p></td>
 <td><ul>
 <li>발매일: 2018년 8월 14일</li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/브랜뉴뮤직" title="wikilink">브랜뉴뮤직</a></li>
+<li>레이블: <a href="../Page/브랜뉴뮤직.md" title="wikilink">브랜뉴뮤직</a></li>
 </ul></td>
 <td><p>colspan="2" </p></td>
 <td></td>
@@ -67,7 +67,7 @@
 <td><p><em>UNMIX</em></p></td>
 <td><ul>
 <li>발매일: 2017년 9월 6일</li>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/브랜뉴뮤직" title="wikilink">브랜뉴뮤직</a></li>
+<li>레이블: <a href="../Page/브랜뉴뮤직.md" title="wikilink">브랜뉴뮤직</a></li>
 </ul></td>
 <td><p>colspan="2" </p></td>
 <td></td>
@@ -95,7 +95,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">KOR</a></p></td>
+<td><p><a href="../Page/가온_차트.md" title="wikilink">KOR</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -134,7 +134,7 @@
 
 ### 텔레비전 프로그램
 
-  - 《[떠나보고서](https://ko.wikipedia.org/wiki/떠나보고서 "wikilink")》 (2017, [On Style](https://ko.wikipedia.org/wiki/온_스타일 "wikilink")) - 임영민, 김동현 고정
+  - 《[떠나보고서](https://ko.wikipedia.org/wiki/떠나보고서 "wikilink")》 (2017, [On Style](../Page/온_스타일.md "wikilink")) - 임영민, 김동현 고정
   - 《[문제적 남자](https://ko.wikipedia.org/wiki/문제적_남자 "wikilink")》 (2017, [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")) - 임영민 출연
 
 ## 각주

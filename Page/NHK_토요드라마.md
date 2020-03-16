@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK ](https://ko.wikipedia.org/wiki/NHK_).
 
 
-**NHK 토요드라마**는 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") - [NHK 종합에서](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전 "wikilink") [방송](https://ko.wikipedia.org/wiki/방송 "wikilink") 된 연속 드라마.
+**NHK 토요드라마**는 [1975년](../Page/1975년.md "wikilink") [10월](../Page/10월.md "wikilink") - [NHK 종합에서](../Page/NHK_종합_텔레비전.md "wikilink") [방송](../Page/방송.md "wikilink") 된 연속 드라마.
 
 ## 방송 목록
 
@@ -15,9 +15,9 @@
   - 《[영혼 모에\!](https://ko.wikipedia.org/wiki/영혼_모에! "wikilink")》
   - 《[워커\~미아의 어른들](https://ko.wikipedia.org/wiki/워커~미아의_어른들 "wikilink")》
   - 《[딜론\~크리스마스의 약속](https://ko.wikipedia.org/wiki/딜론~운명의_개 "wikilink")》
-  - 《[추라상 4](https://ko.wikipedia.org/wiki/추라상 "wikilink")》
+  - 《[추라상 4](../Page/추라상.md "wikilink")》
   - 《[슬로우 스타트](https://ko.wikipedia.org/wiki/슬로우_스타트 "wikilink")》
-  - 《[하게타카](https://ko.wikipedia.org/wiki/하게타카 "wikilink")》
+  - 《[하게타카](../Page/하게타카.md "wikilink")》
   - 《[병원의 힘\~밤하늘 호스피탈\~](https://ko.wikipedia.org/wiki/병원의_힘~밤하늘_호스피탈~ "wikilink")》
   - 《[안녕하세요, 어머니](https://ko.wikipedia.org/wiki/안녕하세요,_어머니 "wikilink")》
   - 《[신 마치벤\~어른의 차례\~](https://ko.wikipedia.org/wiki/신_마치벤~어른의_차례~ "wikilink")》
@@ -26,7 +26,7 @@
   - 《[인형 흘려](https://ko.wikipedia.org/wiki/인형_흘려 "wikilink")》
   - 《[풀스윙](https://ko.wikipedia.org/wiki/풀스윙 "wikilink")》
   - 《[형사의 현장](https://ko.wikipedia.org/wiki/형사의_현장 "wikilink")》
-  - 《[톱 세일즈](https://ko.wikipedia.org/wiki/톱_세일즈 "wikilink")》
+  - 《[톱 세일즈](../Page/톱_세일즈.md "wikilink")》
   - 《[감사 법인](https://ko.wikipedia.org/wiki/감사_법인 "wikilink")》
   - 《[상하이 타이푼](https://ko.wikipedia.org/wiki/상하이_타이푼 "wikilink")》
   - 《[저지 II 섬의 재판관 분투기](https://ko.wikipedia.org/wiki/저지~섬의_재판관_분투기~ "wikilink")》

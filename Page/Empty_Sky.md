@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Empty Sky](https://ko.wikipedia.org/wiki/Empty_Sky).
 
 
-《**Empty Sky**》는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 싱어송라이터 [엘튼 존의](https://ko.wikipedia.org/wiki/엘튼_존 "wikilink") 데뷔 음반으로, 1969년 6월 6일에 출시되었다. 1975년 1월(MCA)에 미국에서 커버 아트를 다르게 하여 출시하였는데 존의 명성이 국제적으로 드넓어지는 계기가 되었다.
+《**Empty Sky**》는 [영국](../Page/영국.md "wikilink")의 싱어송라이터 [엘튼 존의](../Page/엘튼_존.md "wikilink") 데뷔 음반으로, 1969년 6월 6일에 출시되었다. 1975년 1월(MCA)에 미국에서 커버 아트를 다르게 하여 출시하였는데 존의 명성이 국제적으로 드넓어지는 계기가 되었다.
 
 ## 배경
 
@@ -9,7 +9,7 @@ DJM 8트랙 스튜디오에서 1968년 겨울, 1969년 봄에 녹음된 Empty Sk
 
 ## 트랙 목록
 
-모든 곡은 [엘튼 존과](https://ko.wikipedia.org/wiki/엘튼_존 "wikilink") [버니 토핀이](https://ko.wikipedia.org/wiki/버니_토핀 "wikilink") 작곡하였다.
+모든 곡은 [엘튼 존과](../Page/엘튼_존.md "wikilink") [버니 토핀이](../Page/버니_토핀.md "wikilink") 작곡하였다.
 
 **Side one**
 
@@ -37,13 +37,13 @@ DJM 8트랙 스튜디오에서 1968년 겨울, 1969년 봄에 녹음된 Empty Sk
 
 ## 인원
 
-  - [엘튼 존](https://ko.wikipedia.org/wiki/엘튼_존 "wikilink") - [보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"), [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink"), [오르간](https://ko.wikipedia.org/wiki/오르간 "wikilink"), [전기 피아노](https://ko.wikipedia.org/wiki/전기_피아노 "wikilink"), [하프시코드](https://ko.wikipedia.org/wiki/하프시코드 "wikilink")
-  - [Caleb Quaye](https://ko.wikipedia.org/wiki/Caleb_Quaye "wikilink") - [전기 기타](https://ko.wikipedia.org/wiki/전기_기타 "wikilink"), [통기타](https://ko.wikipedia.org/wiki/통기타 "wikilink"), [콩가 드럼](https://ko.wikipedia.org/wiki/콩가 "wikilink")
-  - Tony Murray - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [엘튼 존](../Page/엘튼_존.md "wikilink") - [보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"), [피아노](../Page/피아노.md "wikilink"), [오르간](../Page/오르간.md "wikilink"), [전기 피아노](https://ko.wikipedia.org/wiki/전기_피아노 "wikilink"), [하프시코드](../Page/하프시코드.md "wikilink")
+  - [Caleb Quaye](https://ko.wikipedia.org/wiki/Caleb_Quaye "wikilink") - [전기 기타](../Page/전기_기타.md "wikilink"), [통기타](../Page/통기타.md "wikilink"), [콩가 드럼](https://ko.wikipedia.org/wiki/콩가 "wikilink")
+  - Tony Murray - [베이스](../Page/베이스_기타.md "wikilink")
   - Roger Pope - [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink"), [타악기](https://ko.wikipedia.org/wiki/타악기 "wikilink")
-  - Don Fay - [색소폰](https://ko.wikipedia.org/wiki/테너_색소폰 "wikilink"), [플루트](https://ko.wikipedia.org/wiki/플루트 "wikilink")
-  - Graham Vickery - [하모니카](https://ko.wikipedia.org/wiki/하모니카 "wikilink")
-  - [나이절 올슨](https://ko.wikipedia.org/wiki/나이절_올슨 "wikilink") - 드럼 ("Lady What's Tomorrow")
+  - Don Fay - [색소폰](https://ko.wikipedia.org/wiki/테너_색소폰 "wikilink"), [플루트](../Page/플루트.md "wikilink")
+  - Graham Vickery - [하모니카](../Page/하모니카.md "wikilink")
+  - [나이절 올슨](../Page/나이절_올슨.md "wikilink") - 드럼 ("Lady What's Tomorrow")
 
 **제작**
 
@@ -55,7 +55,7 @@ DJM 8트랙 스튜디오에서 1968년 겨울, 1969년 봄에 녹음된 Empty Sk
 
 ## 차트
 
-**음반** - *[빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink")* (북아메리카)
+**음반** - *[빌보드](../Page/빌보드.md "wikilink")* (북아메리카)
 
 | 연도   | 차트   | 순위 |
 | ---- | ---- | -- |

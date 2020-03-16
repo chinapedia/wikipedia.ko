@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ver \(\)](https://ko.wikipedia.org/wiki/Ver_\(\)).
 
 
-[컴퓨팅](https://ko.wikipedia.org/wiki/컴퓨팅 "wikilink")에서 **`ver`**은 [`COMMAND.COM`](https://ko.wikipedia.org/wiki/COMMAND.COM "wikilink"), [`Cmd.exe`](https://ko.wikipedia.org/wiki/Cmd.exe "wikilink") [4DOS](https://ko.wikipedia.org/wiki/4DOS "wikilink")/[4NT](https://ko.wikipedia.org/wiki/Take_Command_Console "wikilink") 등의 다양한 [도스](https://ko.wikipedia.org/wiki/도스 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") [마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") [명령 줄 인터페이스](https://ko.wikipedia.org/wiki/명령_줄_인터페이스 "wikilink")([셸](https://ko.wikipedia.org/wiki/셸 "wikilink"))에서 제공되는 [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink")이다. 운영 체제나 명령 셸의 이름과 버전을 출력한다.
+[컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 **`ver`**은 [`COMMAND.COM`](../Page/COMMAND.COM.md "wikilink"), [`Cmd.exe`](../Page/Cmd.exe.md "wikilink") [4DOS](../Page/4DOS.md "wikilink")/[4NT](https://ko.wikipedia.org/wiki/Take_Command_Console "wikilink") 등의 다양한 [도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") [명령 줄 인터페이스](../Page/명령_줄_인터페이스.md "wikilink")([셸](../Page/셸.md "wikilink"))에서 제공되는 [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink")이다. 운영 체제나 명령 셸의 이름과 버전을 출력한다.
 
 ``` doscon
 C:\WINDOWS\system32>ver
@@ -9,11 +9,11 @@ C:\WINDOWS\system32>ver
 Microsoft Windows [Version 10.0.10586]
 ```
 
-일부 버전의 [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink")는 문서화되지 않은 `/r` 스위치를 지원하며, 버전 외에 리비전 정보도 표시한다. 이 명령은 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") MS-DOS [에뮬레이터](https://ko.wikipedia.org/wiki/에뮬레이터 "wikilink") [도스박스](https://ko.wikipedia.org/wiki/도스박스 "wikilink")에서도 이용이 가능하다.
+일부 버전의 [MS-DOS](../Page/MS-DOS.md "wikilink")는 문서화되지 않은 `/r` 스위치를 지원하며, 버전 외에 리비전 정보도 표시한다. 이 명령은 [오픈 소스](../Page/오픈_소스.md "wikilink") MS-DOS [에뮬레이터](../Page/에뮬레이터.md "wikilink") [도스박스](../Page/도스박스.md "wikilink")에서도 이용이 가능하다.
 
-또, 마이크로소프트 윈도우는 [GUI](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 형태의 명령어 `winver`를 포함하고 있으며, 버전 외에 설치된 서비스 팩 / 업데이트의 정보를 표시한다.
+또, 마이크로소프트 윈도우는 [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") 형태의 명령어 `winver`를 포함하고 있으며, 버전 외에 설치된 서비스 팩 / 업데이트의 정보를 표시한다.
 
-윈도우는 또한 [`setver`](https://ko.wikipedia.org/wiki/setver "wikilink") 명령어를 포함하고 있어서 MS-DOS 하위 시스템([NTVDM](https://ko.wikipedia.org/wiki/가상_도스_머신 "wikilink"))이 도스용 프로그램에 보고할 [버전 번호를](https://ko.wikipedia.org/wiki/소프트웨어_버전_작성 "wikilink") 설정할 수 있다.
+윈도우는 또한 [`setver`](https://ko.wikipedia.org/wiki/setver "wikilink") 명령어를 포함하고 있어서 MS-DOS 하위 시스템([NTVDM](../Page/가상_도스_머신.md "wikilink"))이 도스용 프로그램에 보고할 [버전 번호를](../Page/소프트웨어_버전_작성.md "wikilink") 설정할 수 있다.
 
 ## 버전 목록
 

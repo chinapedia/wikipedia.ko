@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kameleon FireEx KFX](https://ko.wikipedia.org/wiki/Kameleon_FireEx_KFX).
 
 
-**Kameleon FireEx KFX** 또는 간단히 **KFX**는 기체 확산 및 불 시뮬레이션에 초점을 두는 상용 [전산 유체 역학](https://ko.wikipedia.org/wiki/전산_유체_역학 "wikilink")(CFD) 프로그램이다.
+**Kameleon FireEx KFX** 또는 간단히 **KFX**는 기체 확산 및 불 시뮬레이션에 초점을 두는 상용 [전산 유체 역학](../Page/전산_유체_역학.md "wikilink")(CFD) 프로그램이다.
 
 KFX는 터뷸런스 모델링을 위해 [k-엡실론 모델을](https://ko.wikipedia.org/wiki/터뷸런스_모델링 "wikilink"), 연소 모델링을 위해 [에디 확산 개념](https://ko.wikipedia.org/wiki/에디_확산_개념 "wikilink")(EDC)을 사용하며, 개별 이송 수단(Discrete Transfer Method, DTM)에 기반한 방사 모형을 사용한다. (Lockwood와 Shah)
 

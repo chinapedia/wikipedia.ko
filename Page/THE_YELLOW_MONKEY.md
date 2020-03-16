@@ -1,30 +1,30 @@
 > This article is converted from Wikipedia: [THE YELLOW MONKEY](https://ko.wikipedia.org/wiki/THE_YELLOW_MONKEY).
 
 
-**THE YELLOW MONKEY**(옐로우 몽키)은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").
+**THE YELLOW MONKEY**(옐로우 몽키)은 [일본](../Page/일본.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").
 
-이 밴드는 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")의 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [록](https://ko.wikipedia.org/wiki/록_음악 "wikilink") 로부터 큰 영향을 받고있다.\[1\] 이 밴드의 대표 곡 중 하나 인 〈[Jam](https://ko.wikipedia.org/wiki/Jam/Tactics "wikilink")〉는 〈[All the Young Dudes](https://ko.wikipedia.org/wiki/All_the_Young_Dudes "wikilink")〉 ([데이비드 보위](https://ko.wikipedia.org/wiki/데이비드_보위 "wikilink")/[모트 더 후플](https://ko.wikipedia.org/wiki/모트_더_후플 "wikilink")) 같은 로큰롤 찬가를 지향한 노래이다.
+이 밴드는 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")의 [영국](../Page/영국.md "wikilink") [록](../Page/록_음악.md "wikilink") 로부터 큰 영향을 받고있다.\[1\] 이 밴드의 대표 곡 중 하나 인 〈[Jam](https://ko.wikipedia.org/wiki/Jam/Tactics "wikilink")〉는 〈[All the Young Dudes](https://ko.wikipedia.org/wiki/All_the_Young_Dudes "wikilink")〉 ([데이비드 보위](../Page/데이비드_보위.md "wikilink")/[모트 더 후플](https://ko.wikipedia.org/wiki/모트_더_후플 "wikilink")) 같은 로큰롤 찬가를 지향한 노래이다.
 
-[1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")부터 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 콘서트 투어 〈PUNCH DRUNKARD TOUR〉의 이듬해, 그들은 해산 대해 이야기했다. 〈PUNCH DRUNKARD TOUR〉는 음향 스탭이 무대 바닥에 추락사했다. 이 밴드는 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 초에 활동을 정지했다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink"), 밴드는 해산했다.
+[1998년](../Page/1998년.md "wikilink")부터 [1999년](../Page/1999년.md "wikilink") 콘서트 투어 〈PUNCH DRUNKARD TOUR〉의 이듬해, 그들은 해산 대해 이야기했다. 〈PUNCH DRUNKARD TOUR〉는 음향 스탭이 무대 바닥에 추락사했다. 이 밴드는 [2001년](../Page/2001년.md "wikilink") 초에 활동을 정지했다. [2004년](../Page/2004년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink"), 밴드는 해산했다.
 
 그들은 밴드로 돌아올 때까지 15년이 걸렸다.
 
-재결성 후 다큐멘터리 《열정: 옐로우 몽키 밴드 이야기 / Vibration》은\[2\] [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [부산국제영화제](https://ko.wikipedia.org/wiki/부산국제영화제 "wikilink") 〈와이드 앵글〉에서 세계[초연](https://ko.wikipedia.org/wiki/초연 "wikilink")이 상영하는.\[3\] 밴드 멤버 4명 과 영화 감독은 이 상영회 게스트다.\[4\]
+재결성 후 다큐멘터리 《열정: 옐로우 몽키 밴드 이야기 / Vibration》은\[2\] [2017년](../Page/2017년.md "wikilink") [부산국제영화제](../Page/부산국제영화제.md "wikilink") 〈와이드 앵글〉에서 세계[초연](https://ko.wikipedia.org/wiki/초연 "wikilink")이 상영하는.\[3\] 밴드 멤버 4명 과 영화 감독은 이 상영회 게스트다.\[4\]
 
 ## 구성원
 
   - Kazuya "Lovin" Yoshii (요시이 카즈야 / ,  \~)
       -
-        [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"). 그의 아버지는 떠돌이 연예인이었다. 그러나 그의 아버지는 가족을 부양하기 위해 재주를 그만두고했다. 그 후, 아버지는 철공소에서 일 하게 되었다. [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink"), 아버지는 작업 도중 추락 해 결국 사망했다.
+        [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink"). 그의 아버지는 떠돌이 연예인이었다. 그러나 그의 아버지는 가족을 부양하기 위해 재주를 그만두고했다. 그 후, 아버지는 철공소에서 일 하게 되었다. [1971년](../Page/1971년.md "wikilink"), 아버지는 작업 도중 추락 해 결국 사망했다.
   - Hideaki "Emma" Kikuchi (키쿠치 히데아키 / ,  \~)
       -
-        [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"). 그는 [니혼 대학](https://ko.wikipedia.org/wiki/니혼_대학 "wikilink") 문리학부 을 졸업 한. 드럼의 Annie는 친 동생이다.
+        [기타](../Page/기타.md "wikilink"). 그는 [니혼 대학](../Page/니혼_대학.md "wikilink") 문리학부 을 졸업 한. 드럼의 Annie는 친 동생이다.
   - Youichi "Heesey" Hirose (히로세 요이치 / ,  \~)
       -
-        [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"). 그는 니혼 대학 경제학부 을 중퇴했다. 그는 [진 시먼스를](https://ko.wikipedia.org/wiki/진_시먼스_\(음악가\) "wikilink") 존경하고있다.
+        [베이스](../Page/베이스_기타.md "wikilink"). 그는 니혼 대학 경제학부 을 중퇴했다. 그는 [진 시먼스를](https://ko.wikipedia.org/wiki/진_시먼스_\(음악가\) "wikilink") 존경하고있다.
   - Eiji "Annie" Kikuchi (키쿠치 에이지 / ,  \~)
       -
-        [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"). 그는 [주오 대학](https://ko.wikipedia.org/wiki/주오_대학 "wikilink") 이공학부 을 졸업 한. 기타리스트 Emma는 친형이다.
+        [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"). 그는 [주오 대학](../Page/주오_대학.md "wikilink") 이공학부 을 졸업 한. 기타리스트 Emma는 친형이다.
 
 ## 음반 목록
 
@@ -52,11 +52,11 @@
   - 〈Taiyō ga Moeteiru〉 () (1995년 9월 30일)
   - 〈[Jam/Tactics](https://ko.wikipedia.org/wiki/Jam/Tactics "wikilink")〉 (1996년 2월 29일)
       -
-        [더블A면](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") [싱글](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). 〈Jam〉은 THE YELLOW MONKEY의 찬가. 〈Tactics〉은 [TV 애니메이션](https://ko.wikipedia.org/wiki/TV_애니메이션 "wikilink") 《[바람의 검심](https://ko.wikipedia.org/wiki/바람의_검심 "wikilink")》의 엔딩 노래 가 되었으므로, 각국의 버전 도 있다 (김동식, Lex Lang, Ricardo Silva등).
+        [더블A면](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") [싱글](../Page/싱글_\(음악\).md "wikilink"). 〈Jam〉은 THE YELLOW MONKEY의 찬가. 〈Tactics〉은 [TV 애니메이션](https://ko.wikipedia.org/wiki/TV_애니메이션 "wikilink") 《[바람의 검심](../Page/바람의_검심.md "wikilink")》의 엔딩 노래 가 되었으므로, 각국의 버전 도 있다 (김동식, Lex Lang, Ricardo Silva등).
   - 〈Spark〉 (1996년 7월 10일)
   - 〈Rakuen〉 () (1996년 11월 25일)
       -
-        약물송. 그러나 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 다시 모였을 때, THE YELLOW MONKEY은 4명 전원 이미 [금연](https://ko.wikipedia.org/wiki/금연 "wikilink")했.
+        약물송. 그러나 [2016년](../Page/2016년.md "wikilink") 다시 모였을 때, THE YELLOW MONKEY은 4명 전원 이미 [금연](../Page/금연.md "wikilink")했.
   - 〈Love Love Show〉 (1997년 4월 19일)
   - 〈Burn〉 (1997년 7월 24일)
   - 〈Kyūkon〉 () (1998년 2월 4일)
@@ -77,10 +77,10 @@
 
 ## 수상
 
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [MTV 비디오 뮤직 어워드 재팬](https://ko.wikipedia.org/wiki/MTV_비디오_뮤직_어워드_재팬 "wikilink") 〈Inspiration Award Japan〉수상
+  - [2016년](../Page/2016년.md "wikilink") [MTV 비디오 뮤직 어워드 재팬](../Page/MTV_비디오_뮤직_어워드_재팬.md "wikilink") 〈Inspiration Award Japan〉수상
   - 2016년 [일본유선대상](https://ko.wikipedia.org/wiki/일본유선대상 "wikilink") 〈특별상〉수상
-  - 2016년 [일본 레코드 대상](https://ko.wikipedia.org/wiki/일본_레코드_대상 "wikilink") 〈특별상〉수상
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [SPACE SHOWER MUSIC AWARDS](https://ko.wikipedia.org/wiki/스페이스샤워TV "wikilink") 〈BEST RESPECT ARTIST〉수상
+  - 2016년 [일본 레코드 대상](../Page/일본_레코드_대상.md "wikilink") 〈특별상〉수상
+  - [2017년](../Page/2017년.md "wikilink") [SPACE SHOWER MUSIC AWARDS](https://ko.wikipedia.org/wiki/스페이스샤워TV "wikilink") 〈BEST RESPECT ARTIST〉수상
 
 ## 각주
 

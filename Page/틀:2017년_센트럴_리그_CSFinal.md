@@ -28,7 +28,7 @@
 <td><p>요코하마 DeNA 베이스타스</p></td>
 <td><p>0 - <strong>3</strong></p></td>
 <td><p><strong>히로시마 도요 카프</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MAZDA_Zoom-Zoom_스타디움_히로시마" title="wikilink">MAZDA Zoom-Zoom<br />
+<td><p><a href="../Page/MAZDA_Zoom-Zoom_스타디움_히로시마.md" title="wikilink">MAZDA Zoom-Zoom<br />
 스타디움 히로시마</a></p></td>
 </tr>
 <tr class="odd">

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [BEST SELECTION 2010](https://ko.wikipedia.org/wiki/BEST_SELECTION_2010).
 
 
-| 이 앨범에 수록된 싱글                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") |
-| [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink")   |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") |
-| [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 24일](https://ko.wikipedia.org/wiki/3월_24일 "wikilink") |
-|                                                                                                                   |
+| 이 앨범에 수록된 싱글                                                                |
+| --------------------------------------------------------------------------- |
+| [2009년](../Page/2009년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") |
+| [2009년](../Page/2009년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink")   |
+| [2010년](../Page/2010년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") |
+| [2010년](../Page/2010년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") |
+|                                                                             |
 
-《**BEST SELECTION 2010**》은 대한민국의 음악 그룹 [동방신기](https://ko.wikipedia.org/wiki/동방신기 "wikilink")의 일본에서 발표된 첫번째 베스트 앨범으로 5인 체제 하에 발표된 마지막 음반이다. 멤버 3인의 [SM 엔터테인먼트와의](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 분쟁으로 인한 여파로 앞서 발표된 〈Share The World〉부터 이후 팬들의 요청에 힘입어 리컷 싱글로도 발표된 바 있는 〈時ヲ止メテ〉가 이 앨범의 수록 싱글로 분류되고 있으며 앨범 종류는 1CD 버전과 가라오케 셀렉션이 수록된 CD+DVD버전, 그리고 멤버들이 각각 추천한 기존의 5곡과 미공개곡들이 추가로 수록된 2CD+DVD 등 총 세 종류로 분류되어 있다.
+《**BEST SELECTION 2010**》은 대한민국의 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 일본에서 발표된 첫번째 베스트 앨범으로 5인 체제 하에 발표된 마지막 음반이다. 멤버 3인의 [SM 엔터테인먼트와의](../Page/SM_엔터테인먼트.md "wikilink") 분쟁으로 인한 여파로 앞서 발표된 〈Share The World〉부터 이후 팬들의 요청에 힘입어 리컷 싱글로도 발표된 바 있는 〈時ヲ止メテ〉가 이 앨범의 수록 싱글로 분류되고 있으며 앨범 종류는 1CD 버전과 가라오케 셀렉션이 수록된 CD+DVD버전, 그리고 멤버들이 각각 추천한 기존의 5곡과 미공개곡들이 추가로 수록된 2CD+DVD 등 총 세 종류로 분류되어 있다.
 
 50만장의 판매고를 올리며 더블 플래티넘을 달성함은 물론 동년말 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink") 측의 공식 집계 결과 70만장 이상의 누적 판매량을 기록하여 5인 체제 하의 커리어의 유종의 미를 거두었다.
 
@@ -96,7 +96,7 @@
 </tr>
 <tr class="odd">
 <td><p>Sky</p></td>
-<td><p>일본 <a href="https://ko.wikipedia.org/wiki/배스킨라빈스" title="wikilink">배스킨라빈스</a> TV CM<br />
+<td><p>일본 <a href="../Page/배스킨라빈스.md" title="wikilink">배스킨라빈스</a> TV CM<br />
 'music-jp' TV CM</p></td>
 </tr>
 <tr class="even">
@@ -115,9 +115,9 @@ TV도쿄 '화난 아버지' 엔딩 테마</p></td>
 </tr>
 <tr class="odd">
 <td><p>Summer Dream</p></td>
-<td><p>일본 <a href="https://ko.wikipedia.org/wiki/배스킨라빈스" title="wikilink">배스킨라빈스</a> TV CM<br />
+<td><p>일본 <a href="../Page/배스킨라빈스.md" title="wikilink">배스킨라빈스</a> TV CM<br />
 'music-jp' TV CM<br />
-<a href="https://ko.wikipedia.org/wiki/닛폰_TV_방송망" title="wikilink">NTV</a> 'BEACHHOUSE @sea zoo' 이미지송<br />
+<a href="../Page/닛폰_TV_방송망.md" title="wikilink">NTV</a> 'BEACHHOUSE @sea zoo' 이미지송<br />
 'mu-mo' TV CM</p></td>
 </tr>
 <tr class="even">
@@ -135,16 +135,16 @@ TV도쿄 '화난 아버지' 엔딩 테마</p></td>
 <tr class="odd">
 <td><p>SHINE</p></td>
 <td><p>MBS·TBS 드라마 '오반쟈이' 주제곡<br />
-영화 '<a href="https://ko.wikipedia.org/wiki/태풍태양" title="wikilink">태풍태양</a>' 일본판 DVD 이미지송</p></td>
+영화 '<a href="../Page/태풍태양.md" title="wikilink">태풍태양</a>' 일본판 DVD 이미지송</p></td>
 </tr>
 <tr class="even">
 <td><p>Love In The Ice</p></td>
-<td><p>드라마 '<a href="https://ko.wikipedia.org/wiki/눈의_여왕_(드라마)" title="wikilink">눈의 여왕</a>' 일본판 엔딩 테마</p></td>
+<td><p>드라마 '<a href="../Page/눈의_여왕_(드라마).md" title="wikilink">눈의 여왕</a>' 일본판 엔딩 테마</p></td>
 </tr>
 <tr class="odd">
 <td><p>HUG</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주쿄_TV_방송" title="wikilink">주쿄 TV 방송</a>·<a href="https://ko.wikipedia.org/wiki/닛폰_TV_방송망" title="wikilink">NTV</a> '사르지에' 엔딩 테마<br />
-<a href="https://ko.wikipedia.org/wiki/주쿄_TV_방송" title="wikilink">주쿄 TV 방송</a>·<a href="https://ko.wikipedia.org/wiki/닛폰_TV_방송망" title="wikilink">NTV</a> '소년챔프' 엔딩 테마</p></td>
+<td><p><a href="../Page/주쿄_TV_방송.md" title="wikilink">주쿄 TV 방송</a>·<a href="../Page/닛폰_TV_방송망.md" title="wikilink">NTV</a> '사르지에' 엔딩 테마<br />
+<a href="../Page/주쿄_TV_방송.md" title="wikilink">주쿄 TV 방송</a>·<a href="../Page/닛폰_TV_방송망.md" title="wikilink">NTV</a> '소년챔프' 엔딩 테마</p></td>
 </tr>
 <tr class="even">
 <td><p>甘く果てしなく</p></td>

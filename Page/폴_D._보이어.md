@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
 
 
-**폴 델로스 보이어**(, [1918년](https://ko.wikipedia.org/wiki/1918년 "wikilink") [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [6월 2일](https://ko.wikipedia.org/wiki/6월_2일 "wikilink")) 박사는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [생화학자](https://ko.wikipedia.org/wiki/생화학자 "wikilink")이다. 1997년에 [아데노신 삼인산](https://ko.wikipedia.org/wiki/아데노신_삼인산 "wikilink") 합성 반응의 기초를 이루는 [효소](https://ko.wikipedia.org/wiki/효소 "wikilink") 기작에 대한 메커니즘을 규명한 공로로 [존 E. 워커](../Page/존_E._워커.md "wikilink"), [옌스 크리스티안 스코우](../Page/옌스_크리스티안_스코우.md "wikilink") 박사와 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.\[1\]
+**폴 델로스 보이어**(, [1918년](../Page/1918년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink")) 박사는 [미국](../Page/미국.md "wikilink")의 [생화학자](https://ko.wikipedia.org/wiki/생화학자 "wikilink")이다. 1997년에 [아데노신 삼인산](../Page/아데노신_삼인산.md "wikilink") 합성 반응의 기초를 이루는 [효소](../Page/효소.md "wikilink") 기작에 대한 메커니즘을 규명한 공로로 [존 E. 워커](../Page/존_E._워커.md "wikilink"), [옌스 크리스티안 스코우](../Page/옌스_크리스티안_스코우.md "wikilink") 박사와 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.\[1\]
 
 ## 학력
 
   - 1931년\~1935년: 프로보 고등학교 (졸업)
-  - 1935년\~1939년: [브리검영 대학교](https://ko.wikipedia.org/wiki/브리검영_대학교 "wikilink") (학사)
-  - 1939년\~1941년: [위스콘신 대학교](https://ko.wikipedia.org/wiki/위스콘신_대학교_매디슨 "wikilink") (석사)
+  - 1935년\~1939년: [브리검영 대학교](../Page/브리검영_대학교.md "wikilink") (학사)
+  - 1939년\~1941년: [위스콘신 대학교](../Page/위스콘신_대학교_매디슨.md "wikilink") (석사)
   - 1941년\~1943년: 위스콘신 대학교 (박사)
 
 ## 수상 경력
@@ -22,10 +22,10 @@
 
 ## 저서·논문
 
-  - Dahms, A. S. & P. D. Boyer. ["Occurrence and Characteristics of {sup 18}O-exchange Reactions Catalyzed By Sodium- and Potassium-dependent Adenosine Triphosphatases"](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0191&numPages=45&fp=N), [University of California Los Angeles](https://ko.wikipedia.org/wiki/캘리포니아_대학교_로스앤젤레스 "wikilink") (UCLA), [United States Department of Energy](https://ko.wikipedia.org/wiki/미국_에너지부 "wikilink") (through predecessor agency the [Atomic Energy Commission](https://ko.wikipedia.org/wiki/미국_원자력_위원회 "wikilink")), (1972).
-  - Kanazawa, T. & P. D. Boyer. ["Occurrence and Characteristics of a Rapid Exchange of Phosphate Oxygens Catalyzed by Sarcoplasmic Reticulum Vesicles"](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0192&numPages=57&fp=N), [University of California Los Angeles](https://ko.wikipedia.org/wiki/캘리포니아_대학교_로스앤젤레스 "wikilink") (UCLA), [United States Department of Energy](https://ko.wikipedia.org/wiki/미국_에너지부 "wikilink") (through predecessor agency the [Atomic Energy Commission](https://ko.wikipedia.org/wiki/미국_원자력_위원회 "wikilink")), (1972).
-  - Boyer, P. D. ["Isotopic Studies on Structure-function Relationships of Nucleic Acids and Enzymes. Three Year Progress Report, May 1972 — October 1975"](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0223&numPages=18&fp=N), [University of California Los Angeles](https://ko.wikipedia.org/wiki/캘리포니아_대학교_로스앤젤레스 "wikilink") (UCLA), [United States Department of Energy](https://ko.wikipedia.org/wiki/미국_에너지부 "wikilink") (through predecessor agency the Energy Research and Development Administration), (1975).
-  - Boyer, P. D. ["Energy Capture and Use in Plants and Bacteria. Final Technical Report"](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0193&numPages=6&fp=N), [University of California Los Angeles](https://ko.wikipedia.org/wiki/캘리포니아_대학교_로스앤젤레스 "wikilink") (UCLA), [United States Department of Energy](https://ko.wikipedia.org/wiki/미국_에너지부 "wikilink"), (December 31, 1993).
+  - Dahms, A. S. & P. D. Boyer. ["Occurrence and Characteristics of {sup 18}O-exchange Reactions Catalyzed By Sodium- and Potassium-dependent Adenosine Triphosphatases"](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0191&numPages=45&fp=N), [University of California Los Angeles](../Page/캘리포니아_대학교_로스앤젤레스.md "wikilink") (UCLA), [United States Department of Energy](../Page/미국_에너지부.md "wikilink") (through predecessor agency the [Atomic Energy Commission](https://ko.wikipedia.org/wiki/미국_원자력_위원회 "wikilink")), (1972).
+  - Kanazawa, T. & P. D. Boyer. ["Occurrence and Characteristics of a Rapid Exchange of Phosphate Oxygens Catalyzed by Sarcoplasmic Reticulum Vesicles"](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0192&numPages=57&fp=N), [University of California Los Angeles](../Page/캘리포니아_대학교_로스앤젤레스.md "wikilink") (UCLA), [United States Department of Energy](../Page/미국_에너지부.md "wikilink") (through predecessor agency the [Atomic Energy Commission](https://ko.wikipedia.org/wiki/미국_원자력_위원회 "wikilink")), (1972).
+  - Boyer, P. D. ["Isotopic Studies on Structure-function Relationships of Nucleic Acids and Enzymes. Three Year Progress Report, May 1972 — October 1975"](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0223&numPages=18&fp=N), [University of California Los Angeles](../Page/캘리포니아_대학교_로스앤젤레스.md "wikilink") (UCLA), [United States Department of Energy](../Page/미국_에너지부.md "wikilink") (through predecessor agency the Energy Research and Development Administration), (1975).
+  - Boyer, P. D. ["Energy Capture and Use in Plants and Bacteria. Final Technical Report"](http://www.osti.gov/cgi-bin/rd_accomplishments/display_biblio.cgi?id=ACC0193&numPages=6&fp=N), [University of California Los Angeles](../Page/캘리포니아_대학교_로스앤젤레스.md "wikilink") (UCLA), [United States Department of Energy](../Page/미국_에너지부.md "wikilink"), (December 31, 1993).
 
 ## 참고 문헌
 

@@ -1,8 +1,8 @@
 > This article is converted from Wikipedia: [AA \( \)](https://ko.wikipedia.org/wiki/AA_\(_\)).
 
 
-**AA**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 2인조 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 그룹이다. [오프로드출신의](https://ko.wikipedia.org/wiki/오프로드_\(음악_그룹\) "wikilink") [ADD CORN과](https://ko.wikipedia.org/wiki/앧콘 "wikilink") [ARKAY로](../Page/알케이.md "wikilink") 구성되어 있다.
-그룹명은 '[ADD CORN](https://ko.wikipedia.org/wiki/앧콘 "wikilink")'과 '[ARKAY](../Page/알케이.md "wikilink")'의 앞글자 A를 하나씩 따와서 만든 것이다. 2017년 8월 3일, 데뷔 앨범 《FLEX》가 발매되었다.
+**AA**()는 [대한민국](../Page/대한민국.md "wikilink")의 2인조 [힙합](../Page/힙합.md "wikilink") 그룹이다. [오프로드출신의](https://ko.wikipedia.org/wiki/오프로드_\(음악_그룹\) "wikilink") [ADD CORN과](../Page/앧콘.md "wikilink") [ARKAY로](../Page/알케이.md "wikilink") 구성되어 있다.
+그룹명은 '[ADD CORN](../Page/앧콘.md "wikilink")'과 '[ARKAY](../Page/알케이.md "wikilink")'의 앞글자 A를 하나씩 따와서 만든 것이다. 2017년 8월 3일, 데뷔 앨범 《FLEX》가 발매되었다.
 
 ## 구성원
 
@@ -58,7 +58,7 @@
 <tr class="even">
 <td><p>VERONA EVENT</p></td>
 <td><p>2017년 9월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세부" title="wikilink">세부</a></p></td>
+<td><p><a href="../Page/세부.md" title="wikilink">세부</a></p></td>
 <td></td>
 <td><p>SM Seaside Mall</p></td>
 </tr>

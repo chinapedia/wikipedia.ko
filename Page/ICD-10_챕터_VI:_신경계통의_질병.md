@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [ICD-10  VI:  ](https://ko.wikipedia.org/wiki/ICD-10__VI:__).
 
 
-**[ICD-10](https://ko.wikipedia.org/wiki/ICD-10 "wikilink")** 목록의 6번째 챕터이다. G00\~G99까지를 포괄하며, [신경계통](https://ko.wikipedia.org/wiki/신경계통 "wikilink")의 질병(Diseases of the nervous system)에 관한 것이다.
+**[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 6번째 챕터이다. G00\~G99까지를 포괄하며, [신경계통](../Page/신경계통.md "wikilink")의 질병(Diseases of the nervous system)에 관한 것이다.
 
 ## G00-G99 - 신경계통의 질병
 
 ### (G00–G09) 중추신경계통의 염증성 질병
 
-  - (G00) 박테리아성 [수막염](https://ko.wikipedia.org/wiki/수막염 "wikilink"), 달리 분류되지 않음
+  - (G00) 박테리아성 [수막염](../Page/수막염.md "wikilink"), 달리 분류되지 않음
   - (G01) 달리 분류된 박테리아성 질병에서의 수막염
   - (G02) 달리 분류된 분류되는 기타 감염병 및 기생충병에서의 수막염, 다른 곳에 분류됨
   - (G03) 기타 또는 명시되지 않는 원인으로 인한 수막염
-  - (G04) [뇌염](https://ko.wikipedia.org/wiki/뇌염 "wikilink"), [척수염](https://ko.wikipedia.org/wiki/척수염 "wikilink"), [뇌척수염](https://ko.wikipedia.org/wiki/뇌척수염 "wikilink")
+  - (G04) [뇌염](../Page/뇌염.md "wikilink"), [척수염](../Page/척수염.md "wikilink"), [뇌척수염](https://ko.wikipedia.org/wiki/뇌척수염 "wikilink")
   - (G05) 달리 분류된 질병에서의 뇌염, 척수염, 뇌척수염
   - (G06) 두개 내 및 척수 내의 [농양](https://ko.wikipedia.org/wiki/농양 "wikilink") 및 [육아종](../Page/육아종.md "wikilink")
   - (G07) 달리 분류된 질병에서의 두개 내 및 척수 내의 [농양](https://ko.wikipedia.org/wiki/농양 "wikilink") 및 [육아종](../Page/육아종.md "wikilink")
@@ -20,14 +20,14 @@
 
 ### (G10–G13) 일차적으로 중추신경계통에 영향을 주는 전신 위축
 
-  - (G10) [헌팅턴병](https://ko.wikipedia.org/wiki/헌팅턴병 "wikilink")
+  - (G10) [헌팅턴병](../Page/헌팅턴병.md "wikilink")
   - (G11) 유전성 [운동실조](../Page/운동실조.md "wikilink")
   - (G12) [척수성 근위축증](../Page/척수성_근위축증.md "wikilink") 및 관련 증후군
   - (G13) 달리 분류된 질병에서의 일차적으로 중추신경계통에 영향을 주는 전신 위축
 
 ### (G20–G26) 추체외로 및 운동 장애
 
-  - (G20) [파킨슨병](https://ko.wikipedia.org/wiki/파킨슨병 "wikilink")
+  - (G20) [파킨슨병](../Page/파킨슨병.md "wikilink")
   - (G21) 부차적인 파킨슨 증후군
   - (G22) 달리 분류된 질병에서의 파킨슨병
   - (G23) [대뇌기저핵](../Page/대뇌기저핵.md "wikilink")의 기타 퇴행성 질병
@@ -37,13 +37,13 @@
 
 ### (G30–G32) 신경계통의 기타 퇴행성 질병
 
-  - (G30) [알츠하이머병](https://ko.wikipedia.org/wiki/알츠하이머병 "wikilink")
+  - (G30) [알츠하이머병](../Page/알츠하이머병.md "wikilink")
   - (G31) 신경계통의 기타 퇴행성 질병, 달리 분류되지 않음
   - (G32) 달리 분류된 질병에서의 신경계통의 기타 퇴행성 질병
 
 ### (G35–G37) 중추신경계의 탈수초 질환
 
-  - (G35) [다발성 경화증](https://ko.wikipedia.org/wiki/다발성_경화증 "wikilink")
+  - (G35) [다발성 경화증](../Page/다발성_경화증.md "wikilink")
   - (G36) 기타 급성 다발성 탈수초
       - (G36.0) 시속신경척수염 (Devic)
       - (G36.1) 급성 또는 아급성의 출혈성 백색질뇌염 (Hurst)
@@ -55,12 +55,12 @@
 
 #### 발작
 
-  - (G40) [뇌전증](https://ko.wikipedia.org/wiki/뇌전증 "wikilink")
+  - (G40) [뇌전증](../Page/뇌전증.md "wikilink")
   - (G41) 경련지속증
 
 #### 두통
 
-  - (G42) [편두통](https://ko.wikipedia.org/wiki/편두통 "wikilink")
+  - (G42) [편두통](../Page/편두통.md "wikilink")
   - (G43) 기타 두통 증후군
 
 #### 뇌혈관 질환
@@ -84,11 +84,11 @@
 #### 수면장애
 
   - (G47) [수면장애](https://ko.wikipedia.org/wiki/수면장애 "wikilink")
-  - (G47.0) 입면 및 수면유지 장애 ([불면증](https://ko.wikipedia.org/wiki/불면증 "wikilink"))
+  - (G47.0) 입면 및 수면유지 장애 ([불면증](../Page/불면증.md "wikilink"))
   - (G47.1) 과다한 졸음 장애 ([수면과다](https://ko.wikipedia.org/wiki/수면과다 "wikilink"))
-  - (G47.2) [시차증](https://ko.wikipedia.org/wiki/시차증 "wikilink")을 포함한 [활동일 주기](https://ko.wikipedia.org/wiki/활동일_주기 "wikilink") 붕괴
+  - (G47.2) [시차증](../Page/시차증.md "wikilink")을 포함한 [활동일 주기](../Page/활동일_주기.md "wikilink") 붕괴
   - (G47.3) [수면 무호흡증](../Page/수면_무호흡증.md "wikilink")
-  - (G47.4) [기면증](https://ko.wikipedia.org/wiki/기면증 "wikilink") 및 탈력 발작
+  - (G47.4) [기면증](../Page/기면증.md "wikilink") 및 탈력 발작
 
 ### (G50–G59) 신경·신경근·신경총 장애
 
@@ -114,7 +114,7 @@
       - (G54.6) 통증이 있는 [환각지](https://ko.wikipedia.org/wiki/환각지 "wikilink")
       - (G54.7) 통증이 없는 환각지
   - (G55) 달리 분류된 질병에서의 신경근 및 신경총 장애
-  - (G56) 상완의 [말초신경증](https://ko.wikipedia.org/wiki/말초신경증 "wikilink")
+  - (G56) 상완의 [말초신경증](../Page/말초신경증.md "wikilink")
   - (G57) 하완의 말초신경증
   - (G58) 기타 말초신경증
   - (G59) 달리 분류된 질병에서의 말초신경증
@@ -127,7 +127,7 @@
       - (G60.1) [레프숨병](https://ko.wikipedia.org/wiki/레프숨병 "wikilink")
       - (G60.8) 기타 유전성 및 특발성 신경증
   - (G61) 염증성 다발신경증
-      - (G61.0) [길랭-바레 증후군](https://ko.wikipedia.org/wiki/길랭-바레_증후군 "wikilink")
+      - (G61.0) [길랭-바레 증후군](../Page/길랭-바레_증후군.md "wikilink")
   - (G62) 기타 다발신경증
       - (G62.0) 약물유발성 다발신경증
       - (G62.1) 알코올성 다발신경증
@@ -152,7 +152,7 @@
 
 ### (G80–G83) 뇌성마비 및 기타 마비성 증후군
 
-  - (G80) [뇌성마비](https://ko.wikipedia.org/wiki/뇌성마비 "wikilink")
+  - (G80) [뇌성마비](../Page/뇌성마비.md "wikilink")
   - (G81) 반신불수
   - (G82) 하반신마비 및 사지마비
   - (G83) 기타 [마비 증후군](../Page/마비.md "wikilink")성
@@ -180,7 +180,7 @@
 
 ## 같이 보기
 
-  - [ICD-10](https://ko.wikipedia.org/wiki/ICD-10 "wikilink")
-  - [신경계통](https://ko.wikipedia.org/wiki/신경계통 "wikilink")
+  - [ICD-10](../Page/ICD-10.md "wikilink")
+  - [신경계통](../Page/신경계통.md "wikilink")
 
 [분류:국제질병분류](https://ko.wikipedia.org/wiki/분류:국제질병분류 "wikilink")

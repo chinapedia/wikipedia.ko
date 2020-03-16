@@ -5,9 +5,9 @@
 
 ## 2000년대
 
-  - 2009년 6월 30일 [길미](https://ko.wikipedia.org/wiki/길미 "wikilink") - **\[Digital Single\] The 1st Purpledream Sound**
+  - 2009년 6월 30일 [길미](../Page/길미.md "wikilink") - **\[Digital Single\] The 1st Purpledream Sound**
   - 2009년 12월 14일 길미 - **\[Digital Single\] The 2nd Purpledream Sound**
-  - 2009년 12월 14일 [은지원](https://ko.wikipedia.org/wiki/은지원 "wikilink") - **Platonic**
+  - 2009년 12월 14일 [은지원](../Page/은지원.md "wikilink") - **Platonic**
 
 ## 2010년대
 
@@ -17,7 +17,7 @@
   - 2010년 7월 29일 길미 - **Love Actually**
   - 2010년 11월 26일 길미 - **욕망의 불꽃 OST Vol.2**\[2\]
   - 2010년 12월 10일 길미 - **\[Digital Single\] The 4th Purpledream Sound**
-  - 2011년 3월 31일 [클로버](https://ko.wikipedia.org/wiki/클로버_\(음악_그룹\) "wikilink") - **Classic Over**
+  - 2011년 3월 31일 [클로버](../Page/클로버_\(음악_그룹\).md "wikilink") - **Classic Over**
   - 2011년 9월 29일 클로버 - **\[Digital Single\] 아는 오빠**
   - 2012년 4월 4일 [장희영](../Page/장희영_\(1985년\).md "wikilink") - **\[Digital Single\] Starting Is Over**
   - 2012년 7월 13일 길미 - **\[Digital Single\] 내가 먼저**
@@ -34,7 +34,7 @@
   - 2013년 11월 18일 클로버 - **\[Digital Single\] 주르륵**
   - 2014년 4월 22일 장희영 - **\[Digital Single\] 우리 사랑했던 날**\[4\]
   - 2014년 5월 12일 길미 - **\[Digital Single\] NObody kNOws**
-  - 2014년 6월 3일 [미스터 타이푼](https://ko.wikipedia.org/wiki/미스터_타이푼 "wikilink") - **\[Digital Single\] Fxxk You**
+  - 2014년 6월 3일 [미스터 타이푼](../Page/미스터_타이푼.md "wikilink") - **\[Digital Single\] Fxxk You**
   - 2014년 6월 26일 장희영 - **왔다\!장보리 OST Part.3**
   - 2014년 9월 4일 길미 - **2 Face**
   - 2015년 2월 3일 장희영 - **\[Digital Single\] 겨울 끝에서**\[5\]
@@ -56,4 +56,4 @@
 2.  최초의 OST 앨범.
 3.  [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink")도 앨범 참여.
 4.  [김민진](https://ko.wikipedia.org/wiki/김민진 "wikilink")도 앨범 참여.
-5.  [8eight](https://ko.wikipedia.org/wiki/8eight "wikilink")의 멤버 [이현](https://ko.wikipedia.org/wiki/이현 "wikilink")도 앨범 참여.
+5.  [8eight](../Page/8eight.md "wikilink")의 멤버 [이현](https://ko.wikipedia.org/wiki/이현 "wikilink")도 앨범 참여.

@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-《**TV 방자전**》은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 5일부터](https://ko.wikipedia.org/wiki/11월_5일 "wikilink") [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 26일까지](https://ko.wikipedia.org/wiki/11월_26일 "wikilink") [채널CGV](https://ko.wikipedia.org/wiki/채널CGV "wikilink")에서 방영한 드라마이다.
+《**TV 방자전**》은 [2011년](../Page/2011년.md "wikilink") [11월 5일부터](../Page/11월_5일.md "wikilink") [2011년](../Page/2011년.md "wikilink") [11월 26일까지](../Page/11월_26일.md "wikilink") [채널CGV](https://ko.wikipedia.org/wiki/채널CGV "wikilink")에서 방영한 드라마이다.
 
 ## 등장 인물
 
 ### 주요 인물
 
-  - [이선호](https://ko.wikipedia.org/wiki/이선호_\(배우\) "wikilink") : 방자 역 (소년 정예찬)
-  - [여현수](https://ko.wikipedia.org/wiki/여현수 "wikilink") : 몽룡 역 (소년 나규민 / 중년 박민희)
-  - [이은우](https://ko.wikipedia.org/wiki/이나라 "wikilink") : 춘향 역
-  - [민지현](https://ko.wikipedia.org/wiki/민지현 "wikilink") : 향단 역 (중년 [서이숙](https://ko.wikipedia.org/wiki/서이숙 "wikilink"))
-  - [윤기원](https://ko.wikipedia.org/wiki/윤기원_\(배우\) "wikilink") : 변사또 역
-  - [이아현](https://ko.wikipedia.org/wiki/이아현 "wikilink") : 월매 역
+  - [이선호](../Page/이선호_\(배우\).md "wikilink") : 방자 역 (소년 정예찬)
+  - [여현수](../Page/여현수.md "wikilink") : 몽룡 역 (소년 나규민 / 중년 박민희)
+  - [이은우](../Page/이나라.md "wikilink") : 춘향 역
+  - [민지현](../Page/민지현.md "wikilink") : 향단 역 (중년 [서이숙](../Page/서이숙.md "wikilink"))
+  - [윤기원](../Page/윤기원_\(배우\).md "wikilink") : 변사또 역
+  - [이아현](../Page/이아현.md "wikilink") : 월매 역
 
 ### 그 외
 
@@ -32,7 +32,7 @@
   - 김도연 : 아낙네 역
   - 한철우 : 광천 역
   - 강수민 : 부엌 여인 역
-  - [김미림](https://ko.wikipedia.org/wiki/김미림 "wikilink") : 대나무밭 여인 역
+  - [김미림](../Page/김미림.md "wikilink") : 대나무밭 여인 역
   - 배한성 : 성 대감 역
   - 송용호 : 가마꾼 역
   - [봉만대](../Page/봉만대.md "wikilink") : 벽보 백성 역

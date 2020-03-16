@@ -7,7 +7,7 @@
 
 ### CRH5J-0501
 
-**CRH5J-0501형 전철**()은 [중국고속철도 CRH5](https://ko.wikipedia.org/wiki/중국고속철도_CRH5 "wikilink") 모델을 기반으로 제작되었다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 2일에](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") 최초로 주문해 같은 해 [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에 시범 운행을 거처 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")부터 운행하기 시작했다.
+**CRH5J-0501형 전철**()은 [중국고속철도 CRH5](../Page/중국고속철도_CRH5.md "wikilink") 모델을 기반으로 제작되었다. [2007년](../Page/2007년.md "wikilink") [4월 2일에](../Page/4월_2일.md "wikilink") 최초로 주문해 같은 해 [7월](../Page/7월.md "wikilink")에 시범 운행을 거처 [2008년](../Page/2008년.md "wikilink") [6월](../Page/6월.md "wikilink")부터 운행하기 시작했다.
 
 파일:CRH5J-0501@BJN (20151006135422).jpg
 
@@ -26,7 +26,7 @@
 
 ### CRH2A-2010
 
-**CRH2A-2010형 전철**()은 [중화인민공화국의 고속철도](https://ko.wikipedia.org/wiki/중화인민공화국의_고속철도 "wikilink") 사상 최초로 시범 열차로 제작되었다. [중국고속철도 CRH2](https://ko.wikipedia.org/wiki/중국고속철도_CRH2 "wikilink") 모델을 기반으로 제작되었다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")에 인도되었고 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 최고 영업 속도 250km/h를 달성했다.\[1\]
+**CRH2A-2010형 전철**()은 [중화인민공화국의 고속철도](https://ko.wikipedia.org/wiki/중화인민공화국의_고속철도 "wikilink") 사상 최초로 시범 열차로 제작되었다. [중국고속철도 CRH2](../Page/중국고속철도_CRH2.md "wikilink") 모델을 기반으로 제작되었다. [2006년](../Page/2006년.md "wikilink") [7월](../Page/7월.md "wikilink")에 인도되었고 [2007년](../Page/2007년.md "wikilink") [3월](../Page/3월.md "wikilink")에 최고 영업 속도 250km/h를 달성했다.\[1\]
 
 파일:China_Railways_CRH_Passing_through_Lianjiang_county.jpg
 
@@ -45,7 +45,7 @@
 
 ### CRH2C-2061
 
-**CRH2C-2061형 전철**()은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 22일부터](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") 운행하고 있는 시범 고속열차로 최고 영업 속도 300km/h를 기록했다.\[2\] [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [4월 22일에](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") [베이징-톈진 고속철도](https://ko.wikipedia.org/wiki/베이징-톈진_고속철도 "wikilink") 구간에 최고 영업 속도 370km/h를 기록에 이어\[3\] [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [12월 11일에](https://ko.wikipedia.org/wiki/12월_11일 "wikilink") [정저우-시안 고속철도](https://ko.wikipedia.org/wiki/정저우-시안_고속철도 "wikilink") 구간에 최고 영업 속도 394.2km/h를 기록했다.\[4\]
+**CRH2C-2061형 전철**()은 [2007년](../Page/2007년.md "wikilink") [12월 22일부터](../Page/12월_22일.md "wikilink") 운행하고 있는 시범 고속열차로 최고 영업 속도 300km/h를 기록했다.\[2\] [2008년](../Page/2008년.md "wikilink") [4월 22일에](../Page/4월_22일.md "wikilink") [베이징-톈진 고속철도](https://ko.wikipedia.org/wiki/베이징-톈진_고속철도 "wikilink") 구간에 최고 영업 속도 370km/h를 기록에 이어\[3\] [2009년](../Page/2009년.md "wikilink") [12월 11일에](../Page/12월_11일.md "wikilink") [정저우-시안 고속철도](https://ko.wikipedia.org/wiki/정저우-시안_고속철도 "wikilink") 구간에 최고 영업 속도 394.2km/h를 기록했다.\[4\]
 
 파일:China_Railways_CRH2C-061C_at_Lingchuan,_Guilin_20130618_01.jpg
 
@@ -55,7 +55,7 @@
 
 ### CRH2C-2150
 
-**CRH2C-2150형 전철**()은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")에 도입한 고속 종합 검사 열차로, 최고 영업 속도 350km/h까지 운행이 가능하다.
+**CRH2C-2150형 전철**()은 [2010년](../Page/2010년.md "wikilink") [11월](../Page/11월.md "wikilink")에 도입한 고속 종합 검사 열차로, 최고 영업 속도 350km/h까지 운행이 가능하다.
 
 파일:201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg
 
@@ -74,11 +74,11 @@
 
 ### CRH380AJ-0201/0202/0203/0206
 
-**CRH380AJ-0201/0202/0203/0206형 전철**()은 [CRH380](https://ko.wikipedia.org/wiki/CRH380 "wikilink") 모델을 기반으로 제작되었고 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 개발이 시작되었고 프로젝트의 명칭은 CIT400A이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 22일에](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") 제작이 완료되면서 최초로 도입되었다.\[5\]
+**CRH380AJ-0201/0202/0203/0206형 전철**()은 [CRH380](https://ko.wikipedia.org/wiki/CRH380 "wikilink") 모델을 기반으로 제작되었고 [2010년](../Page/2010년.md "wikilink") [6월](../Page/6월.md "wikilink")에 개발이 시작되었고 프로젝트의 명칭은 CIT400A이다. [2011년](../Page/2011년.md "wikilink") [2월 22일에](../Page/2월_22일.md "wikilink") 제작이 완료되면서 최초로 도입되었다.\[5\]
 
 ### CRH380BJ-0301
 
-**CRH380BJ-0301형 전철**()은 탕산 공장과 창춘 공장에서 공동으로 제작된 CIT 열차로 [CRH380B](https://ko.wikipedia.org/wiki/CRH380B "wikilink") 모델을 기반으로 제작되었다. 최고 영업 속도는 500km/h까지 낼 수 있다.\[6\]
+**CRH380BJ-0301형 전철**()은 탕산 공장과 창춘 공장에서 공동으로 제작된 CIT 열차로 [CRH380B](../Page/CRH380B.md "wikilink") 모델을 기반으로 제작되었다. 최고 영업 속도는 500km/h까지 낼 수 있다.\[6\]
 
 파일:CRH380BJ-A-0504@BCR (20160420125518).jpg
 
@@ -101,9 +101,9 @@
 
 ### CRH380AM-0204/CIT500/CRH500
 
-**CRH380AM-0204/CIT500/CRH500형 전철**()은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink"), [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink")에서 개최한 제7회 세계 고속철도 포럼에서 CSR 그룹 관계자는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 최고 영업 속도를 돌파하기 위해 모델을 개발하고 있다고 했다. 당시 [프로젝트 V150의](../Page/프로젝트_V150.md "wikilink") 최고 영업 속도는 574.8km/h로 현재까지 세계에서 가장 빠르다.\[7\] CSR은 열차 명칭을 CRH380AM에서 CIT500으로 명칭이 변경되었다.\[8\]
+**CRH380AM-0204/CIT500/CRH500형 전철**()은 [2010년](../Page/2010년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink"), [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink")에서 개최한 제7회 세계 고속철도 포럼에서 CSR 그룹 관계자는 [2011년](../Page/2011년.md "wikilink")에 최고 영업 속도를 돌파하기 위해 모델을 개발하고 있다고 했다. 당시 [프로젝트 V150의](../Page/프로젝트_V150.md "wikilink") 최고 영업 속도는 574.8km/h로 현재까지 세계에서 가장 빠르다.\[7\] CSR은 열차 명칭을 CRH380AM에서 CIT500으로 명칭이 변경되었다.\[8\]
 
-[2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink"), 열차 명칭이 발표 되었는데 **하이어스피드 익스테텔멘털 트레인**()이란 명칭이 발표되었다.\[9\] 향후 시범 운행을 거칠 예정이다.\[10\] 이 열차의 경우 6량 편성으로 최대 출력은 22,800kW이다.\[11\]
+[2011년](../Page/2011년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink"), 열차 명칭이 발표 되었는데 **하이어스피드 익스테텔멘털 트레인**()이란 명칭이 발표되었다.\[9\] 향후 시범 운행을 거칠 예정이다.\[10\] 이 열차의 경우 6량 편성으로 최대 출력은 22,800kW이다.\[11\]
 
 ### CRH380BG-A-0504
 

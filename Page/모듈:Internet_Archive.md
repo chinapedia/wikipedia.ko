@@ -17,7 +17,7 @@ local p = {}
 ` local sname = nil                                             -- search name (default: current page name)`
 ` local sopt = nil                                              -- search options (default: nil)`
 ` byabout = "작품 정보"`
-` tagline = "- `[`인터넷``   ``아카이브`](https://ko.wikipedia.org/wiki/인터넷_아카이브 "wikilink")`"`
+` tagline = "- `[`인터넷``   ``아카이브`](../Page/인터넷_아카이브.md "wikilink")`"`
 ` urlhead = "//archive.org/search.php?query="`
 ` mydate = ""                                                   -- birth-death date`
 `                                                `

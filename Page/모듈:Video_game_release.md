@@ -7,27 +7,27 @@ local getArgs = require('Module:Arguments').getArgs local cd = require('Module:C
 
 local labels = {
 
-`   ['NA'] = "`[`북미`](https://ko.wikipedia.org/wiki/북아메리카 "wikilink")`",`
-`   ['EU'] = "`[`유럽`](https://ko.wikipedia.org/wiki/유럽 "wikilink")`",`
-`   ['EUR'] = "`[`유럽`](https://ko.wikipedia.org/wiki/유럽 "wikilink")`",`
-`   ['AU'] = "`[`호주`](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")`",`
-`   ['AUS'] = "`[`호주`](https://ko.wikipedia.org/wiki/오스트레일리아 "wikilink")`",`
+`   ['NA'] = "`[`북미`](../Page/북아메리카.md "wikilink")`",`
+`   ['EU'] = "`[`유럽`](../Page/유럽.md "wikilink")`",`
+`   ['EUR'] = "`[`유럽`](../Page/유럽.md "wikilink")`",`
+`   ['AU'] = "`[`호주`](../Page/오스트레일리아.md "wikilink")`",`
+`   ['AUS'] = "`[`호주`](../Page/오스트레일리아.md "wikilink")`",`
 `   ['PAL'] = "`[`PAL`](https://ko.wikipedia.org/wiki/PAL_지역 "wikilink")`",`
-`   ['SEA'] = "`[`동남아`](https://ko.wikipedia.org/wiki/동남아시아 "wikilink")`",`
-`   ['AS'] = "`[`아시아`](https://ko.wikipedia.org/wiki/아시아 "wikilink")`",`
-`   ['SA'] = "`[`남미`](https://ko.wikipedia.org/wiki/남아메리카 "wikilink")`",`
+`   ['SEA'] = "`[`동남아`](../Page/동남아시아.md "wikilink")`",`
+`   ['AS'] = "`[`아시아`](../Page/아시아.md "wikilink")`",`
+`   ['SA'] = "`[`남미`](../Page/남아메리카.md "wikilink")`",`
 `   ['INT'] = "`<abbr title=\"국제판\">`국제`</abbr>`",`
 `   ['WW'] = "전 세계",`
-`   ['JP'] = "`[`일본`](https://ko.wikipedia.org/wiki/일본 "wikilink")`",`
-`   ['KR'] = "`[`한국`](https://ko.wikipedia.org/wiki/대한민국 "wikilink")`",`
-`   ['CN'] = "`[`중국`](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")`",`
-`   ['TW'] = "`[`대만`](https://ko.wikipedia.org/wiki/중화민국 "wikilink")`",`
-`   ['HK'] = "`[`홍콩`](https://ko.wikipedia.org/wiki/홍콩 "wikilink")`",`
-`   ['UK'] = "`[`영국`](https://ko.wikipedia.org/wiki/영국 "wikilink")`",`
-`   ['US'] = "`[`미국`](https://ko.wikipedia.org/wiki/미국 "wikilink")`",`
-`   ['CA'] = "`[`캐나다`](https://ko.wikipedia.org/wiki/캐나다 "wikilink")`",`
-`   ['NZ'] = "`[`뉴질랜드`](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")`",`
-`   ['NZL'] = "`[`뉴질랜드`](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink")`",`
+`   ['JP'] = "`[`일본`](../Page/일본.md "wikilink")`",`
+`   ['KR'] = "`[`한국`](../Page/대한민국.md "wikilink")`",`
+`   ['CN'] = "`[`중국`](../Page/중화인민공화국.md "wikilink")`",`
+`   ['TW'] = "`[`대만`](../Page/중화민국.md "wikilink")`",`
+`   ['HK'] = "`[`홍콩`](../Page/홍콩.md "wikilink")`",`
+`   ['UK'] = "`[`영국`](../Page/영국.md "wikilink")`",`
+`   ['US'] = "`[`미국`](../Page/미국.md "wikilink")`",`
+`   ['CA'] = "`[`캐나다`](../Page/캐나다.md "wikilink")`",`
+`   ['NZ'] = "`[`뉴질랜드`](../Page/뉴질랜드.md "wikilink")`",`
+`   ['NZL'] = "`[`뉴질랜드`](../Page/뉴질랜드.md "wikilink")`",`
 `   ['?'] = "<abbr title=\"알 수 없음\">?`</abbr>`"`
 
 }
