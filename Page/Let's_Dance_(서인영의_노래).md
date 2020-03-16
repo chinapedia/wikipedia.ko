@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Let\'s Dance \( \)](https://ko.wikipedia.org/wiki/Let\'s_Dance_\(_\)).
 
 
-〈**Let's Dance**〉는 대한민국의 가수 [서인영](https://ko.wikipedia.org/wiki/서인영 "wikilink")의 노래이다. 2012년 10월 18일 [CJ E\&M를](https://ko.wikipedia.org/wiki/CJ_E&M "wikilink") 통해 발매되었다.
+〈**Let's Dance**〉는 대한민국의 가수 [서인영](../Page/서인영.md "wikilink")의 노래이다. 2012년 10월 18일 [CJ E\&M를](../Page/CJ_E&M.md "wikilink") 통해 발매되었다.
 
 ## 평가
 
@@ -9,7 +9,7 @@
 
 ## 차트 성적
 
-〈Let's Dance〉는 2012년 10월 4주차 [가온 디지털 차트에](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink") 39위로 진입했다.\[2\]
+〈Let's Dance〉는 2012년 10월 4주차 [가온 디지털 차트에](../Page/가온_디지털_차트.md "wikilink") 39위로 진입했다.\[2\]
 
 ## 차트
 
@@ -23,7 +23,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a>[3]</p></td>
+<td><p><a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a>[3]</p></td>
 <td><p>39</p></td>
 </tr>
 <tr class="even">

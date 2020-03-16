@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Seattle Standard Cafe\'](https://ko.wikipedia.org/wiki/Seattle_Standard_Cafe\').
 
 
-**Seattle Standard Cafe**(시애틀 스탠다드 카페, )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 줄여서 ‘시아스타’()로 불린다. 나카신 마사토가 중심이 되며, 가네자와 거주 중에 알게 된 키다 료스케, 카노 마사키와 같이 2003년 1월 4일 가네자와에서 결성했다.
+**Seattle Standard Cafe**(시애틀 스탠다드 카페, )는 [일본](../Page/일본.md "wikilink")의 [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 줄여서 ‘시아스타’()로 불린다. 나카신 마사토가 중심이 되며, 가네자와 거주 중에 알게 된 키다 료스케, 카노 마사키와 같이 2003년 1월 4일 가네자와에서 결성했다.
 
-[2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 여름에 첫 전국 투어를 했으며, 2010년 이후에는 대만이나 한국 등에서도 라이브 공연을 했다. 또한, 한국과 대만에서 앨범도 발매됐다.
+[2003년](../Page/2003년.md "wikilink") 여름에 첫 전국 투어를 했으며, 2010년 이후에는 대만이나 한국 등에서도 라이브 공연을 했다. 또한, 한국과 대만에서 앨범도 발매됐다.
 
 ## 구성원
 
@@ -264,7 +264,7 @@
 
   - [공식 웹페이지](http://www.seattlestandardcafe.com/)
 
-  - [공식 블로그](http://blog.naver.com/sscmomo) - [네이버 블로그](https://ko.wikipedia.org/wiki/네이버 "wikilink")
+  - [공식 블로그](http://blog.naver.com/sscmomo) - [네이버 블로그](../Page/네이버.md "wikilink")
 
   - [음원 사이트 음반 소개](https://web.archive.org/web/20160923100036/http://www.indievox.com/disc/5044)
 

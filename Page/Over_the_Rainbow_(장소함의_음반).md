@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Over the Rainbow \( \)](https://ko.wikipedia.org/wiki/Over_the_Rainbow_\(_\)).
 
 
-《**Over the Rainbow**》는 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 가수 [장소함](https://ko.wikipedia.org/wiki/장소함 "wikilink")의 첫 번째 정규 앨범이다.
+《**Over the Rainbow**》는 [중화민국](../Page/중화민국.md "wikilink")의 가수 [장소함](https://ko.wikipedia.org/wiki/장소함 "wikilink")의 첫 번째 정규 앨범이다.
 
 ## 트랙 리스트
 

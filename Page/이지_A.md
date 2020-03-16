@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
 
 
-《**이지 A**》()는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 코미디 영화이다.
+《**이지 A**》()는 [2010년](../Page/2010년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 코미디 영화이다.
 
 ## 출연
 
   - [엠마 스톤](https://ko.wikipedia.org/wiki/엠마_스톤 "wikilink") - 올리브 펜더개스트
       - [줄리엣 고글리아](https://ko.wikipedia.org/wiki/줄리엣_고글리아 "wikilink") - 올리브 아역
-  - [펜 배질리](https://ko.wikipedia.org/wiki/펜_배질리 "wikilink") - 우드척 토드
+  - [펜 배질리](../Page/펜_배질리.md "wikilink") - 우드척 토드
       - [브레이든 리마스터스](https://ko.wikipedia.org/wiki/브레이든_리마스터스 "wikilink") - 토드 아역
-  - [어맨다 바인스](https://ko.wikipedia.org/wiki/어맨다_바인스 "wikilink") - 매리앤 브라이언트
+  - [어맨다 바인스](../Page/어맨다_바인스.md "wikilink") - 매리앤 브라이언트
   - [댄 버드](https://ko.wikipedia.org/wiki/댄_버드 "wikilink") - 브랜던
   - [앨리 미샤카](https://ko.wikipedia.org/wiki/앨리_미샤카 "wikilink") - 리아넌 애버내시
   - [토머스 헤이든 처치](https://ko.wikipedia.org/wiki/토머스_헤이든_처치 "wikilink") - 그리피스 선생
-  - [리사 쿠드로](https://ko.wikipedia.org/wiki/리사_쿠드로 "wikilink") - 그리피스 선생
-  - [퍼트리샤 클라크슨](https://ko.wikipedia.org/wiki/퍼트리샤_클라크슨 "wikilink") - 로즈메리 펜더개스트
-  - [스탠리 투치](https://ko.wikipedia.org/wiki/스탠리_투치 "wikilink") - 딜 펜더개스트
+  - [리사 쿠드로](../Page/리사_쿠드로.md "wikilink") - 그리피스 선생
+  - [퍼트리샤 클라크슨](../Page/퍼트리샤_클라크슨.md "wikilink") - 로즈메리 펜더개스트
+  - [스탠리 투치](../Page/스탠리_투치.md "wikilink") - 딜 펜더개스트
   - [캠 지간데이](https://ko.wikipedia.org/wiki/캠_지간데이 "wikilink") - 마이카
   - [맬컴 맥다월](https://ko.wikipedia.org/wiki/맬컴_맥다월 "wikilink") - 기번스 교장선생
   - [머헤일리 매닝](https://ko.wikipedia.org/wiki/머헤일리_매닝 "wikilink") - 니나 하월

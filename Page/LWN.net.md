@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [LWN.net](https://ko.wikipedia.org/wiki/LWN.net).
 
 
-**LWN.net**은 [자유 소프트웨어](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") 와 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")소프트웨어, [유닉스 계열의](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 운영 체제에 초점을 둔 컴퓨팅 [웹진](https://ko.wikipedia.org/wiki/웹진 "wikilink")이다. 월별 이슈, 최근 게시된 게시물, 각각의 게시물에 대한 댓글 등으로 이루어져 있다. 매일 게시되는 대부분의 뉴스는 어딘가에 게시된 기사의 요약이고, 모두 다 볼 수 있게 공개 되어있다. 원본글은 대부분 매주 목요일에 게시되고 그 주동안에만 구독 할 수 있으며, 그 기간이 지나면 모두 무료로 볼 수 있다. LWN.net는 Eklektix사의 한 부분이다.
+**LWN.net**은 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") 와 [리눅스](../Page/리눅스.md "wikilink")소프트웨어, [유닉스 계열의](../Page/유닉스_계열.md "wikilink") 운영 체제에 초점을 둔 컴퓨팅 [웹진](https://ko.wikipedia.org/wiki/웹진 "wikilink")이다. 월별 이슈, 최근 게시된 게시물, 각각의 게시물에 대한 댓글 등으로 이루어져 있다. 매일 게시되는 대부분의 뉴스는 어딘가에 게시된 기사의 요약이고, 모두 다 볼 수 있게 공개 되어있다. 원본글은 대부분 매주 목요일에 게시되고 그 주동안에만 구독 할 수 있으며, 그 기간이 지나면 모두 무료로 볼 수 있다. LWN.net는 Eklektix사의 한 부분이다.
 
-LWN 는 많은 독자에게 리눅스/자유 소프트웨어 배포판을 제공한다. LWN은 깊이있는 [리눅스 커널](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 본질에 대한 운용으로 인해 자주 칭송받는다.\[1\]
+LWN 는 많은 독자에게 리눅스/자유 소프트웨어 배포판을 제공한다. LWN은 깊이있는 [리눅스 커널](../Page/리눅스_커널.md "wikilink") 본질에 대한 운용으로 인해 자주 칭송받는다.\[1\]
 
 "LWN"이란 원래 *리눅스 주간 뉴스*를 위해 설립 되었다.;그 사이트가 더이상 리눅스에 관련된 내용을 보도 하지 않으면서 이 사이트의 이름은 더이상 사용되지 않았고, 일상적인 내용들이 주를 이루었다.\[2\]
 

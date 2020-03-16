@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [F.O.E.: ...](https://ko.wikipedia.org/wiki/F.O.E.:_...).
 
 
-《**F.O.E.: 에프.오.이.**》()는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 액션 영화이다.
+《**F.O.E.: 에프.오.이.**》()는 [2013년](../Page/2013년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 액션 영화이다.
 
 ## 출연
 
 ### 주연
 
-  - [스티븐 시걸](https://ko.wikipedia.org/wiki/스티븐_시걸 "wikilink")
+  - [스티븐 시걸](../Page/스티븐_시걸.md "wikilink")
   - [대니 트레조](https://ko.wikipedia.org/wiki/대니_트레조 "wikilink")
   - [빙 라메스](https://ko.wikipedia.org/wiki/빙_라메스 "wikilink")
   - [브렌 포스터](https://ko.wikipedia.org/wiki/브렌_포스터 "wikilink")

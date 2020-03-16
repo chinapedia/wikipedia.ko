@@ -14,33 +14,33 @@
 
 ## 같이 보기
 
-  - [한국방송공사의 뉴스 프로그램](https://ko.wikipedia.org/wiki/한국방송공사의_뉴스_프로그램 "wikilink")
+  - [한국방송공사의 뉴스 프로그램](../Page/한국방송공사의_뉴스_프로그램.md "wikilink")
 
 ## 경쟁 프로그램
 
-  - [MBC 뉴스특보](../Page/MBC_뉴스특보.md "wikilink") ([MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"))
-  - [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") ([SBS TV](https://ko.wikipedia.org/wiki/SBS_TV "wikilink"))
-  - [JTBC 뉴스특보](https://ko.wikipedia.org/wiki/JTBC_뉴스특보 "wikilink") ([JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink"))
+  - [MBC 뉴스특보](../Page/MBC_뉴스특보.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
+  - [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") ([SBS TV](../Page/SBS_TV.md "wikilink"))
+  - [JTBC 뉴스특보](https://ko.wikipedia.org/wiki/JTBC_뉴스특보 "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
 
-## 그 외 [KBS 뉴스 프로그램](https://ko.wikipedia.org/wiki/한국방송공사의_뉴스_프로그램 "wikilink")
+## 그 외 [KBS 뉴스 프로그램](../Page/한국방송공사의_뉴스_프로그램.md "wikilink")
 
 ### [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
 
-  - [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink")
-  - [KBS 930 뉴스](https://ko.wikipedia.org/wiki/KBS_930_뉴스 "wikilink")
-  - [KBS 뉴스 12](https://ko.wikipedia.org/wiki/KBS_뉴스_12 "wikilink")
-  - [KBS 뉴스 5](https://ko.wikipedia.org/wiki/KBS_뉴스_5 "wikilink")
-  - [KBS 뉴스 7](https://ko.wikipedia.org/wiki/KBS_뉴스_7 "wikilink")
-  - [KBS 뉴스 9](https://ko.wikipedia.org/wiki/KBS_뉴스_9 "wikilink")
+  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink")
+  - [KBS 930 뉴스](../Page/KBS_930_뉴스.md "wikilink")
+  - [KBS 뉴스 12](../Page/KBS_뉴스_12.md "wikilink")
+  - [KBS 뉴스 5](../Page/KBS_뉴스_5.md "wikilink")
+  - [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink")
+  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink")
   - [KBS 스포츠 9](../Page/KBS_스포츠_9.md "wikilink")
-  - [KBS 뉴스 (2430)](https://ko.wikipedia.org/wiki/KBS_뉴스_\(2430\) "wikilink")
+  - [KBS 뉴스 (2430)](../Page/KBS_뉴스_\(2430\).md "wikilink")
   - [KBS 주말뉴스](https://ko.wikipedia.org/wiki/KBS_주말뉴스 "wikilink")
 
-### [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink")
+### [KBS 2TV](../Page/KBS_2TV.md "wikilink")
 
-  - [KBS 아침뉴스타임](https://ko.wikipedia.org/wiki/KBS_아침뉴스타임 "wikilink")
-  - [지구촌 뉴스](https://ko.wikipedia.org/wiki/지구촌_뉴스 "wikilink")
-  - [KBS 뉴스타임 (1500)](https://ko.wikipedia.org/wiki/KBS_뉴스타임_\(1500\) "wikilink")
+  - [KBS 아침뉴스타임](../Page/KBS_아침뉴스타임.md "wikilink")
+  - [지구촌 뉴스](../Page/지구촌_뉴스.md "wikilink")
+  - [KBS 뉴스타임 (1500)](../Page/KBS_뉴스타임_\(1500\).md "wikilink")
   - [KBS 경제타임](https://ko.wikipedia.org/wiki/KBS_경제타임 "wikilink")
   - [KBS 글로벌 24](../Page/KBS_글로벌_24.md "wikilink")
 

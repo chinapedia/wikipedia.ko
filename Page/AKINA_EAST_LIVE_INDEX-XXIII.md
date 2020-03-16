@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AKINA EAST LIVE INDEX-XXIII](https://ko.wikipedia.org/wiki/AKINA_EAST_LIVE_INDEX-XXIII).
 
 
-《**AKINA EAST LIVE INDEX-XXIII**》는 일본의 가수 [나카모리 아키나](https://ko.wikipedia.org/wiki/나카모리_아키나 "wikilink")()의 라이브 음반으로 1989년 11월 17일에 발매하였다. (2[CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"): 45L2-126\~7, 2GOLD CD: 54L2-5106\~7, [CT](https://ko.wikipedia.org/wiki/콤팩트_카세트 "wikilink"): 42L4-126)\[1\] 이 음반은 그가 1989년 4월 29일에서 30일 까지 이틀에 걸쳐 [요미우리랜드](https://ko.wikipedia.org/wiki/요미우리랜드 "wikilink")에서 공연한 콘서트 음원을 녹음하여 수록한 것이다. 모두 그가 여태까지 발매한 싱글곡들을 불렀으며 B사이드 곡중에서는 유일하게 〈LIAR〉의 B사이드 곡 〈Blue on Pink〉도 불러 이 음반에 실렸다.
+《**AKINA EAST LIVE INDEX-XXIII**》는 일본의 가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 라이브 음반으로 1989년 11월 17일에 발매하였다. (2[CD](../Page/콤팩트_디스크.md "wikilink"): 45L2-126\~7, 2GOLD CD: 54L2-5106\~7, [CT](../Page/콤팩트_카세트.md "wikilink"): 42L4-126)\[1\] 이 음반은 그가 1989년 4월 29일에서 30일 까지 이틀에 걸쳐 [요미우리랜드](https://ko.wikipedia.org/wiki/요미우리랜드 "wikilink")에서 공연한 콘서트 음원을 녹음하여 수록한 것이다. 모두 그가 여태까지 발매한 싱글곡들을 불렀으며 B사이드 곡중에서는 유일하게 〈LIAR〉의 B사이드 곡 〈Blue on Pink〉도 불러 이 음반에 실렸다.
 
 1989년 11월 27일, 오리콘 주간 앨범 차트에 올라와 최고순위 6위를 기록하였다.\[2\]
 

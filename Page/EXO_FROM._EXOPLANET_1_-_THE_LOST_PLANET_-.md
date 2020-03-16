@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [EXO FROM. EXOPLANET 1 - THE LOST PLANET -](https://ko.wikipedia.org/wiki/EXO_FROM._EXOPLANET_1_-_THE_LOST_PLANET_-).
 
 
-《**EXO FROM. EXOPLANET \#1 - THE LOST PLANET -**》은 대한민국의 음악 그룹 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**EXO FROM. EXOPLANET \#1 - THE LOST PLANET -**》은 대한민국의 음악 그룹 [EXO](../Page/EXO.md "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
-2014년 4월 8일, SM 엔터테인먼트는 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") 공식 홈페이지를 통해 EXO의 첫 단독 콘서트 일정을 발표하였으며 4월 16일 [G마켓](https://ko.wikipedia.org/wiki/G마켓 "wikilink")을 통해 티켓 예매를 시작하였다.\[1\] EXO가 데뷔 2년 만에 처음 갖게 된 단독 콘서트로 EXO는 서울 공연을 시작으로 아시아 주요 도시를 순회하는 아시아 투어를 개최할 것임을 선언했다. 티켓 오픈 1.47초만에 전석이 매진될 정도로 팬들의 호응이 좋아 본래 예정에 없던 23일의 공연 일정이 추가되었다. 또한 본 콘서트의 총연출을 브리트니 스피어스, 쟈넷 잭슨, 카일리 미노그 등 유명 팝스타들과 함께 작업한 바 있는 토니 테스타가 맡아 공연에 대한 기대를 더욱 높였다.\[2\] 콘서트 마지막 날이었던 25일에는 티켓을 구하지 못한 3000여명의 팬들을 위해 10곡의 무대를 이례적으로 대형 스크린을 통해 중계하여 아쉬움을 달랬다.\[3\] [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")는 7개월간의 투어를 통해 총 8개국 17개 도시에서 총 375,910명의 누적관객을 동원하였다.
+2014년 4월 8일, SM 엔터테인먼트는 [EXO](../Page/EXO.md "wikilink") 공식 홈페이지를 통해 EXO의 첫 단독 콘서트 일정을 발표하였으며 4월 16일 [G마켓](../Page/G마켓.md "wikilink")을 통해 티켓 예매를 시작하였다.\[1\] EXO가 데뷔 2년 만에 처음 갖게 된 단독 콘서트로 EXO는 서울 공연을 시작으로 아시아 주요 도시를 순회하는 아시아 투어를 개최할 것임을 선언했다. 티켓 오픈 1.47초만에 전석이 매진될 정도로 팬들의 호응이 좋아 본래 예정에 없던 23일의 공연 일정이 추가되었다. 또한 본 콘서트의 총연출을 브리트니 스피어스, 쟈넷 잭슨, 카일리 미노그 등 유명 팝스타들과 함께 작업한 바 있는 토니 테스타가 맡아 공연에 대한 기대를 더욱 높였다.\[2\] 콘서트 마지막 날이었던 25일에는 티켓을 구하지 못한 3000여명의 팬들을 위해 10곡의 무대를 이례적으로 대형 스크린을 통해 중계하여 아쉬움을 달랬다.\[3\] [EXO](../Page/EXO.md "wikilink")는 7개월간의 투어를 통해 총 8개국 17개 도시에서 총 375,910명의 누적관객을 동원하였다.
 
 ## 투어 일정
 
@@ -24,7 +24,7 @@
 <td><p>2014년 5월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a>[4]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[4]</p></td>
 <td><p>통산 42,174명</p></td>
 </tr>
 <tr class="even">
@@ -134,14 +134,14 @@
 </tr>
 <tr class="odd">
 <td><p>2014년 9월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자카르타" title="wikilink">자카르타</a></p></td>
+<td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/겔로라_붕_카르노_스타디움" title="wikilink">겔로라 붕 카르노 스타디움</a></p></td>
+<td><p><a href="../Page/겔로라_붕_카르노_스타디움.md" title="wikilink">겔로라 붕 카르노 스타디움</a></p></td>
 <td><p>14,958명</p></td>
 </tr>
 <tr class="even">
 <td><p>2014년 9월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임팩트 아레나 무앙 통 타니</p></td>
 <td><p>통산 28,446명</p></td>
@@ -191,7 +191,7 @@
 <tr class="odd">
 <td><p>2014년 11월 18일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/국립_요요기_경기장" title="wikilink">국립 요요기 경기장</a> 제1체육관</p></td>
+<td><p><a href="../Page/국립_요요기_경기장.md" title="wikilink">국립 요요기 경기장</a> 제1체육관</p></td>
 <td><p>통산 35,844명</p></td>
 <td></td>
 </tr>
@@ -262,7 +262,7 @@
 <td style="text-align: left;"><p>라이브앨범</p></td>
 <td style="text-align: left;"><p>《EXOLOGY CHAPTER 1 : THE LOST PLANET》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/12월_22일" title="wikilink">12월 22일</a></li>
+<li>발매일 : <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/12월_22일.md" title="wikilink">12월 22일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -286,7 +286,7 @@
 <td style="text-align: left;"><p>포토북</p></td>
 <td style="text-align: left;"><p>《EXOLOGY CHAPTER 1 : ON STAGE &amp; OFF STAGE》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/12월_29일" title="wikilink">12월 29일</a></li>
+<li>발매일 : <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/12월_29일.md" title="wikilink">12월 29일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -310,7 +310,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>《EXO FROM. EXOPLANET #1 - THE LOST PLANET - in SEOUL》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/6월_30일" title="wikilink">6월 30일</a></li>
+<li>발매일 : <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/6월_30일.md" title="wikilink">6월 30일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -318,10 +318,10 @@
 
 ## 제작
 
-  - [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") ([레이](https://ko.wikipedia.org/wiki/레이_\(1991년\) "wikilink"), [디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [찬열](../Page/찬열.md "wikilink"), [세훈](../Page/세훈.md "wikilink"), [수호](https://ko.wikipedia.org/wiki/수호_\(1991년\) "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(1992년\) "wikilink"))
+  - [EXO](../Page/EXO.md "wikilink") ([레이](https://ko.wikipedia.org/wiki/레이_\(1991년\) "wikilink"), [디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [찬열](../Page/찬열.md "wikilink"), [세훈](../Page/세훈.md "wikilink"), [수호](https://ko.wikipedia.org/wiki/수호_\(1991년\) "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(1992년\) "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [G마켓](https://ko.wikipedia.org/wiki/G마켓 "wikilink"), [지니](../Page/지니_\(웹사이트\).md "wikilink")
+  - 후원 : [G마켓](../Page/G마켓.md "wikilink"), [지니](../Page/지니_\(웹사이트\).md "wikilink")
   - 총연출 : 토니 테스타
 
 ## 외부 링크

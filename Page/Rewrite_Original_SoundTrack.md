@@ -5,7 +5,7 @@
 
 ## 개요
 
-[PC 게임](https://ko.wikipedia.org/wiki/PC_게임 "wikilink") 「[리라이트](https://ko.wikipedia.org/wiki/리라이트 "wikilink")」의 사운드 트랙. Rewrite 게임중에서 사용된 BGM에 맞추어 각 테마 송의 풀 코러스판에 가세한 전63곡을 수록. 오리토는 본작의 악곡을 제작하는데 있어서, 도노카와를 이미지한 곡을 들으면서 내용을 굳히는 수법을 취했다\[1\].
+[PC 게임](../Page/PC_게임.md "wikilink") 「[리라이트](../Page/리라이트.md "wikilink")」의 사운드 트랙. Rewrite 게임중에서 사용된 BGM에 맞추어 각 테마 송의 풀 코러스판에 가세한 전63곡을 수록. 오리토는 본작의 악곡을 제작하는데 있어서, 도노카와를 이미지한 곡을 들으면서 내용을 굳히는 수법을 취했다\[1\].
 
 ## 수록곡
 
@@ -14,10 +14,10 @@
 ### Disc1
 
 1.  **Philosophyz**
-      - 작사: [도노카와 유토](https://ko.wikipedia.org/wiki/도노카와_유토 "wikilink"), 작곡: [오리토 신지](https://ko.wikipedia.org/wiki/오리토_신지 "wikilink") , 편곡: MintJam, 노래: [미즈타니 류나](https://ko.wikipedia.org/wiki/미즈타니_류나 "wikilink")
+      - 작사: [도노카와 유토](../Page/도노카와_유토.md "wikilink"), 작곡: [오리토 신지](../Page/오리토_신지.md "wikilink") , 편곡: MintJam, 노래: [미즈타니 류나](https://ko.wikipedia.org/wiki/미즈타니_류나 "wikilink")
 2.  나그네
       - 「이동의 시」와「CANOE」의 인스트곡
-      - 작곡: [마에다 준](https://ko.wikipedia.org/wiki/마에다_준 "wikilink"), 편곡: [ANANT-GARDE EYES](https://ko.wikipedia.org/wiki/ANANT-GARDE_EYES "wikilink")
+      - 작곡: [마에다 준](../Page/마에다_준.md "wikilink"), 편곡: [ANANT-GARDE EYES](https://ko.wikipedia.org/wiki/ANANT-GARDE_EYES "wikilink")
 3.  초목이 싹터
       - 작곡・편곡: [미즈쓰키 료](https://ko.wikipedia.org/wiki/미즈쓰키_료 "wikilink")
 4.  Fertiliser
@@ -70,7 +70,7 @@
 ### Disc 2
 
 1.  '''[Rewrite](https://ko.wikipedia.org/wiki/Rewrite_\(곡\) "wikilink") '''
-      - 작사・작곡: [YOFFY](https://ko.wikipedia.org/wiki/YOFFY "wikilink") , 편곡: [오오이시 켄이치로우](https://ko.wikipedia.org/wiki/오오이시_켄이치로우 "wikilink") , 노래: [사이킥 러버](https://ko.wikipedia.org/wiki/사이킥_러버 "wikilink")
+      - 작사・작곡: [YOFFY](https://ko.wikipedia.org/wiki/YOFFY "wikilink") , 편곡: [오오이시 켄이치로우](https://ko.wikipedia.org/wiki/오오이시_켄이치로우 "wikilink") , 노래: [사이킥 러버](../Page/사이킥_러버.md "wikilink")
 2.  Retribution
       - 작곡・편곡: 오리토 신지
 3.  Potted One
@@ -132,13 +132,13 @@
 5.  Radiance
       - 작곡・편곡: 호소이 사토시사
 6.  **연가**(恋歌)
-      - 작사: 도노카와 유토, 작곡: 오리토 신지, 편곡: [MANYO](https://ko.wikipedia.org/wiki/MANYO "wikilink")·노래: [야나기나기](https://ko.wikipedia.org/wiki/야나기나기 "wikilink")
+      - 작사: 도노카와 유토, 작곡: 오리토 신지, 편곡: [MANYO](https://ko.wikipedia.org/wiki/MANYO "wikilink")·노래: [야나기나기](../Page/야나기나기.md "wikilink")
       - 삽입노래.
 7.  **연문**(恋文)
-      - 작사: 도노카와 유토, 작곡: 오리토 신지, 편곡: [MANYO](https://ko.wikipedia.org/wiki/MANYO "wikilink")·노래: [야나기나기](https://ko.wikipedia.org/wiki/야나기나기 "wikilink")
+      - 작사: 도노카와 유토, 작곡: 오리토 신지, 편곡: [MANYO](https://ko.wikipedia.org/wiki/MANYO "wikilink")·노래: [야나기나기](../Page/야나기나기.md "wikilink")
       - 나카츠 시즈루 엔딩 테마.
 8.  **거짓 없는 너에게**(偽らない君へ)
-      - 작사: [용기사07](https://ko.wikipedia.org/wiki/용기사07 "wikilink"), 작곡: 오리토 신지, 편곡: 모리후지 아키라사·노래: 야나기나기
+      - 작사: [용기사07](../Page/용기사07.md "wikilink"), 작곡: 오리토 신지, 편곡: 모리후지 아키라사·노래: 야나기나기
       - 천리주음 엔딩 테마·삽입곡
 9.  **이동의 시**
       - 작사・작곡: 마지준, 편곡: ANANT-GARDE EYES, 노래: [타다 아오이](https://ko.wikipedia.org/wiki/타다_아오이 "wikilink")

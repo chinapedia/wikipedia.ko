@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [SN  ](https://ko.wikipedia.org/wiki/SN__).
 
 
-**SN 브뤼셀 항공**()은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에 설립되어 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 [버진 익스프레스와](https://ko.wikipedia.org/wiki/버진_익스프레스 "wikilink") 함께 합병되어 없어진 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")의 [국영 항공사로](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink") 합병 과정에서 [브뤼셀 항공이](https://ko.wikipedia.org/wiki/브뤼셀_항공 "wikilink") 설립되었다.\[1\] [허브 공항은](https://ko.wikipedia.org/wiki/허브_공항 "wikilink") [브뤼셀 공항이었으며](https://ko.wikipedia.org/wiki/브뤼셀_공항 "wikilink"), [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink") 최대의 항공 노선을 편성했던 항공사 중 하나이기도 했다.
+**SN 브뤼셀 항공**()은 [2002년](../Page/2002년.md "wikilink")에 설립되어 [2006년](../Page/2006년.md "wikilink")에 [버진 익스프레스와](../Page/버진_익스프레스.md "wikilink") 함께 합병되어 없어진 [벨기에](../Page/벨기에.md "wikilink")의 [국영 항공사로](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink") 합병 과정에서 [브뤼셀 항공이](../Page/브뤼셀_항공.md "wikilink") 설립되었다.\[1\] [허브 공항은](../Page/허브_공항.md "wikilink") [브뤼셀 공항이었으며](https://ko.wikipedia.org/wiki/브뤼셀_공항 "wikilink"), [벨기에](../Page/벨기에.md "wikilink") 최대의 항공 노선을 편성했던 항공사 중 하나이기도 했다.
 
 ## 역사
 
-당시 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")의 [국영 항공사였던](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink") [사베나 항공이](https://ko.wikipedia.org/wiki/사베나_항공 "wikilink") 막대한 경영난에 시달리게 되면서 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")에 파산되었다. 그 후 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에 SN 에어 홀딩스가 지분을 인수해 회사를 설립했다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")의 [저가 항공사인](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") [버진 익스프레스를](https://ko.wikipedia.org/wiki/버진_익스프레스 "wikilink") 인수한데 이어 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 두 항공사가 합병이 되면서 현재의 [브뤼셀 항공이](https://ko.wikipedia.org/wiki/브뤼셀_항공 "wikilink") 되었다.
+당시 [벨기에](../Page/벨기에.md "wikilink")의 [국영 항공사였던](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink") [사베나 항공이](https://ko.wikipedia.org/wiki/사베나_항공 "wikilink") 막대한 경영난에 시달리게 되면서 [2001년](../Page/2001년.md "wikilink") [12월](../Page/12월.md "wikilink")에 파산되었다. 그 후 [2002년](../Page/2002년.md "wikilink")에 SN 에어 홀딩스가 지분을 인수해 회사를 설립했다. [2004년](../Page/2004년.md "wikilink")에 [벨기에](../Page/벨기에.md "wikilink")의 [저가 항공사인](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") [버진 익스프레스를](../Page/버진_익스프레스.md "wikilink") 인수한데 이어 [2006년](../Page/2006년.md "wikilink")에 두 항공사가 합병이 되면서 현재의 [브뤼셀 항공이](../Page/브뤼셀_항공.md "wikilink") 되었다.
 
 ## 보유 기종
 
-| 기종                                                                       | 대수 | 승객  | 비고 |
-| ------------------------------------------------------------------------ | -- | --- | -- |
-| [에어버스 A319-100](https://ko.wikipedia.org/wiki/에어버스_A319 "wikilink")      | 3  | 132 |    |
-| [에어버스 A330-300](https://ko.wikipedia.org/wiki/에어버스_A330 "wikilink")      | 3  | 264 |    |
-| [아브로 RJ85](https://ko.wikipedia.org/wiki/브리티시_에어로스페이스_146 "wikilink")    | 14 | 82  |    |
-| [아브로 RJ100](https://ko.wikipedia.org/wiki/브리티시_에어로스페이스_146 "wikilink")   | 12 | 97  |    |
-| [BAE 146-200](https://ko.wikipedia.org/wiki/브리티시_에어로스페이스_146 "wikilink") | 6  | 84  |    |
+| 기종                                                                  | 대수 | 승객  | 비고 |
+| ------------------------------------------------------------------- | -- | --- | -- |
+| [에어버스 A319-100](https://ko.wikipedia.org/wiki/에어버스_A319 "wikilink") | 3  | 132 |    |
+| [에어버스 A330-300](../Page/에어버스_A330.md "wikilink")                    | 3  | 264 |    |
+| [아브로 RJ85](../Page/브리티시_에어로스페이스_146.md "wikilink")                  | 14 | 82  |    |
+| [아브로 RJ100](../Page/브리티시_에어로스페이스_146.md "wikilink")                 | 12 | 97  |    |
+| [BAE 146-200](../Page/브리티시_에어로스페이스_146.md "wikilink")               | 6  | 84  |    |
 
 **SN 브뤼셀 항공의 보유 기종**
 

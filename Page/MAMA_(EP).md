@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MAMA \(EP\)](https://ko.wikipedia.org/wiki/MAMA_\(EP\)).
 
 
-《**MAMA**》는 [SM 엔터테인먼트](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 소속으로 데뷔한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 첫 번째 [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") 앨범으로, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월 9일에](https://ko.wikipedia.org/wiki/4월_9일 "wikilink") 발매되었다. [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")에서 활동하는 [EXO-K](https://ko.wikipedia.org/wiki/EXO-K "wikilink")의 [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink") 버전과 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")에서 활동하는 [EXO-M](https://ko.wikipedia.org/wiki/EXO-M "wikilink")의 [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink") 버전의 두 가지 언어 버전으로 발매되었고, 또한 미니 앨범 발매에 앞서 이 앨범의 수록곡인 "What Is Love"와 "HISTORY"가 프로모션 싱글로 선공개되었으며, 타이틀곡인 "MAMA"는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") 서울 올림픽공원 올림픽홀에서 열린 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 한국 데뷔 쇼케이스에서 첫 공개되었다.\[1\]\[2\]
+《**MAMA**》는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속으로 데뷔한 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [EXO](../Page/EXO.md "wikilink")의 첫 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 앨범으로, [2012년](../Page/2012년.md "wikilink") [4월 9일에](../Page/4월_9일.md "wikilink") 발매되었다. [한국](../Page/한국.md "wikilink")에서 활동하는 [EXO-K](https://ko.wikipedia.org/wiki/EXO-K "wikilink")의 [한국어](../Page/한국어.md "wikilink") 버전과 [중국](../Page/중국.md "wikilink")에서 활동하는 [EXO-M](https://ko.wikipedia.org/wiki/EXO-M "wikilink")의 [중국어](../Page/중국어.md "wikilink") 버전의 두 가지 언어 버전으로 발매되었고, 또한 미니 앨범 발매에 앞서 이 앨범의 수록곡인 "What Is Love"와 "HISTORY"가 프로모션 싱글로 선공개되었으며, 타이틀곡인 "MAMA"는 [2012년](../Page/2012년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 서울 올림픽공원 올림픽홀에서 열린 [EXO](../Page/EXO.md "wikilink")의 한국 데뷔 쇼케이스에서 첫 공개되었다.\[1\]\[2\]
 
 ## 수록곡
 
@@ -11,7 +11,7 @@
 
 | 순위                                                           | 판매량                               |
 | ------------------------------------------------------------ | --------------------------------- |
-| 일본 ([오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))     | 10,485 <small>(중국어 ver.)</small>  |
+| 일본 ([오리콘](../Page/오리콘.md "wikilink"))                        | 10,485 <small>(중국어 ver.)</small>  |
 | 35,771 <small>(한국어 ver.)</small>                             |                                   |
 | 한국 (한터)                                                      | 90,400 <small>(중국어 ver.)</small>  |
 | 159,100 <small>(한국어 ver.)</small>                            |                                   |

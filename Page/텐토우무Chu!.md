@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Chu!](https://ko.wikipedia.org/wiki/Chu!).
 
 
-**텐토우무Chu\!**()는 일본의 아이돌 그룹 [AKB48](https://ko.wikipedia.org/wiki/AKB48 "wikilink"), [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink"), [NMB48](https://ko.wikipedia.org/wiki/NMB48 "wikilink"), [HKT48](https://ko.wikipedia.org/wiki/HKT48 "wikilink") 그룹의 멤버가 결성한 3인조 [아이돌 유닛이다](https://ko.wikipedia.org/wiki/아이돌_유닛 "wikilink").
+**텐토우무Chu\!**()는 일본의 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink"), [SKE48](../Page/SKE48.md "wikilink"), [NMB48](../Page/NMB48.md "wikilink"), [HKT48](../Page/HKT48.md "wikilink") 그룹의 멤버가 결성한 3인조 [아이돌 유닛이다](https://ko.wikipedia.org/wiki/아이돌_유닛 "wikilink").
 
 ## 구성원
 
-  - **[오카다 나나](../Page/오카다_나나.md "wikilink")** (AKB48 팀4 / [STU48](https://ko.wikipedia.org/wiki/STU48 "wikilink") 캡틴) - 최연장자, 리더
+  - **[오카다 나나](../Page/오카다_나나.md "wikilink")** (AKB48 팀4 / [STU48](../Page/STU48.md "wikilink") 캡틴) - 최연장자, 리더
   - [시부야 나기사](https://ko.wikipedia.org/wiki/시부야_나기사 "wikilink") (NMB48 팀M)
   - [타시마 메루](https://ko.wikipedia.org/wiki/타시마_메루 "wikilink") (HKT48 팀H) - 최연소
 
@@ -31,7 +31,7 @@
 
 ## 출연
 
-  - 여자고 경찰 (2013년 10월 27일 \~ 2014년 3월 16일, [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink"))
+  - 여자고 경찰 (2013년 10월 27일 \~ 2014년 3월 16일, [후지 TV](../Page/후지_TV.md "wikilink"))
   - 텐토우무Chu\! 세계를 무츄로 만듭니다 선언\! (2014년 4월 14일 \~ 7월 7일, [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV "wikilink"))
 
 ## 외부 링크

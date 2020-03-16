@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ e](https://ko.wikipedia.org/wiki/_e).
 
 
-**(주)시그마 세븐e**는 일본의 연예기획사이다. 모회사 [시그마 세븐에서](https://ko.wikipedia.org/wiki/시그마_세븐 "wikilink") [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 설립하였다.
+**(주)시그마 세븐e**는 일본의 연예기획사이다. 모회사 [시그마 세븐에서](../Page/시그마_세븐.md "wikilink") [2009년](../Page/2009년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 설립하였다.
 
 매니지먼트 업무를 철수한 Doa 프로덕션 소속이었던 성우 대부분과, 제2회 시그마 세븐 공개 오디션 이후 합격한 성우들이 소속되어 있다.
 
@@ -37,7 +37,7 @@
   - [니시 아스카](../Page/니시_아스카.md "wikilink")
   - [닛타 미우](https://ko.wikipedia.org/wiki/닛타_미우 "wikilink")
   - [마리무라 카오루](https://ko.wikipedia.org/wiki/마리무라_카오루 "wikilink")
-  - [모리 유코](https://ko.wikipedia.org/wiki/모리_유코 "wikilink")
+  - [모리 유코](../Page/모리_유코.md "wikilink")
   - [모리나가 치토세](https://ko.wikipedia.org/wiki/모리나가_치토세 "wikilink")
   - [미사키 마리](https://ko.wikipedia.org/wiki/미사키_마리 "wikilink")
   - [세토 아사미](https://ko.wikipedia.org/wiki/세토_아사미 "wikilink")
@@ -75,7 +75,7 @@
 
 ## 관련 항목
 
-[시그마 세븐](https://ko.wikipedia.org/wiki/시그마_세븐 "wikilink")
+[시그마 세븐](../Page/시그마_세븐.md "wikilink")
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBM   ](https://ko.wikipedia.org/wiki/IBM___).
 
 
-**시스템 네트워크 아키텍처**(, SNA)는 1974년에 만들어진 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")의 사유 [네트워크](https://ko.wikipedia.org/wiki/컴퓨터_네트워크 "wikilink") 아키텍처이다.\[1\] [컴퓨터](https://ko.wikipedia.org/wiki/컴퓨터 "wikilink")와 자신의 자원 간 상호 연결을 위한 완전한 [프로토콜 스택이다](https://ko.wikipedia.org/wiki/프로토콜_스택 "wikilink"). 포맷과 프토토콜을 기술하며, 그 자체가 소프트웨어의 일종은 아니다. SNA 구현을 통해 다양한 통신 패키지(가장 저명한 것으로, SNA 통신용 [메인프레임](https://ko.wikipedia.org/wiki/메인프레임 "wikilink") 패키지인 [VTAM](../Page/VTAM.md "wikilink"))의 형태를 취한다.
+**시스템 네트워크 아키텍처**(, SNA)는 1974년에 만들어진 [IBM](../Page/IBM.md "wikilink")의 사유 [네트워크](../Page/컴퓨터_네트워크.md "wikilink") 아키텍처이다.\[1\] [컴퓨터](../Page/컴퓨터.md "wikilink")와 자신의 자원 간 상호 연결을 위한 완전한 [프로토콜 스택이다](https://ko.wikipedia.org/wiki/프로토콜_스택 "wikilink"). 포맷과 프토토콜을 기술하며, 그 자체가 소프트웨어의 일종은 아니다. SNA 구현을 통해 다양한 통신 패키지(가장 저명한 것으로, SNA 통신용 [메인프레임](../Page/메인프레임.md "wikilink") 패키지인 [VTAM](../Page/VTAM.md "wikilink"))의 형태를 취한다.
 
 ## 역사
 

@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [DOA \(\)](https://ko.wikipedia.org/wiki/DOA_\(\)).
 
 
-《**DOA**》는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 공개된 영화이다.
+《**DOA**》는 [2006년](../Page/2006년.md "wikilink") 공개된 영화이다.
 
 ## 한국어 더빙 성우진(MBC)
 
-  - [김지영](https://ko.wikipedia.org/wiki/김지영_\(성우\) "wikilink") - 카스미 ([데본 아오키](https://ko.wikipedia.org/wiki/데본_아오키 "wikilink"))
+  - [김지영](../Page/김지영_\(성우\).md "wikilink") - 카스미 ([데본 아오키](https://ko.wikipedia.org/wiki/데본_아오키 "wikilink"))
   - [윤성혜](https://ko.wikipedia.org/wiki/윤성혜 "wikilink") - 티나 암스트롱 ([제이미 프레슬리](https://ko.wikipedia.org/wiki/제이미_프레슬리 "wikilink"))
   - [조현정](https://ko.wikipedia.org/wiki/조현정 "wikilink") - 크리스틴 앨런 ([홀리 밸랜스](https://ko.wikipedia.org/wiki/홀리_밸랜스 "wikilink"))
-  - [송준석](https://ko.wikipedia.org/wiki/송준석 "wikilink") - 도노반 ([에릭 로버츠](https://ko.wikipedia.org/wiki/에릭_로버츠 "wikilink"))
-  - [채의진](https://ko.wikipedia.org/wiki/채의진 "wikilink") - 헬레나 더글라스 ([사라 카터](https://ko.wikipedia.org/wiki/사라_카터 "wikilink"))
-  - [김호성](https://ko.wikipedia.org/wiki/김호성 "wikilink")
+  - [송준석](https://ko.wikipedia.org/wiki/송준석 "wikilink") - 도노반 ([에릭 로버츠](../Page/에릭_로버츠.md "wikilink"))
+  - [채의진](../Page/채의진.md "wikilink") - 헬레나 더글라스 ([사라 카터](https://ko.wikipedia.org/wiki/사라_카터 "wikilink"))
+  - [김호성](../Page/김호성.md "wikilink")
   - [김기철](https://ko.wikipedia.org/wiki/김기철 "wikilink")
   - [이상범](https://ko.wikipedia.org/wiki/이상범 "wikilink")
-  - [문남숙](https://ko.wikipedia.org/wiki/문남숙 "wikilink")
-  - [방성준](https://ko.wikipedia.org/wiki/방성준 "wikilink")
-  - [류승곤](https://ko.wikipedia.org/wiki/류승곤 "wikilink")
+  - [문남숙](../Page/문남숙.md "wikilink")
+  - [방성준](../Page/방성준.md "wikilink")
+  - [류승곤](../Page/류승곤.md "wikilink")
 
 ## 외부 링크
 

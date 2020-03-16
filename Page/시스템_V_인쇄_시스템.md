@@ -13,7 +13,7 @@
 
 ## lp
 
-**lp** 명령어는 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")와 같은 일부 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 운영 체제들의 프린터 대기열에 작업을 할당하는데 쓰이는 명령어이다. 그리고 이 일반 [UNIX](https://ko.wikipedia.org/wiki/UNIX "wikilink") 출력 시스템은 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")와 [OS X에](https://ko.wikipedia.org/wiki/OS_X "wikilink") 활용된다.\[1\]
+**lp** 명령어는 [유닉스](../Page/유닉스.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink")와 같은 일부 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제들의 프린터 대기열에 작업을 할당하는데 쓰이는 명령어이다. 그리고 이 일반 [UNIX](https://ko.wikipedia.org/wiki/UNIX "wikilink") 출력 시스템은 [리눅스](../Page/리눅스.md "wikilink")와 [OS X에](https://ko.wikipedia.org/wiki/OS_X "wikilink") 활용된다.\[1\]
 
 비록 이름과 기능이 유사하지만 그것은 Plan9의 lp와 유닉스 계열 BSD의 lpr과 다른 프로그램이다. 그 LPRng 프로젝트는 lp를 lpr 명령의 패키지로 제공된다.
 

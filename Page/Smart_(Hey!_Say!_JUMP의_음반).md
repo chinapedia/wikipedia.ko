@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Smart \(Hey! Say! JUMP \)](https://ko.wikipedia.org/wiki/Smart_\(Hey!_Say!_JUMP_\)).
 
 
-《**smart**》(스마트)는, [Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")(헤이\! 세이\! 점프)의 3번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**smart**》(스마트)는, [Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")(헤이\! 세이\! 점프)의 3번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -26,7 +26,7 @@
         작사: [야부 코타](https://ko.wikipedia.org/wiki/야부_고타 "wikilink") / 작곡: 카와구치 스스무, Joakim Björnberg, Christofer
 6.  **Candle**
       -
-        작사: [야마다 료스케](https://ko.wikipedia.org/wiki/야마다_료스케 "wikilink") / 작곡: Takuya Harada, JUNKOO, Fredrik
+        작사: [야마다 료스케](../Page/야마다_료스케.md "wikilink") / 작곡: Takuya Harada, JUNKOO, Fredrik
 7.  **** / <small>**파스텔**</small>
       -
         작사·작곡: 이데 코지 / 편곡: 이데 코지, 마세 마사오
@@ -34,7 +34,7 @@
       -
 9.  **** / <small>**컴퍼스 로즈**</small>
       -
-        작사: [야오토메 히카루](https://ko.wikipedia.org/wiki/야오토메_히카루 "wikilink") / 작곡: 카와구치 스스무, Joakim Björnberg, Christofer Erixon / 편곡: Ikuo, 카와구치 스스무
+        작사: [야오토메 히카루](../Page/야오토메_히카루.md "wikilink") / 작곡: 카와구치 스스무, Joakim Björnberg, Christofer Erixon / 편곡: Ikuo, 카와구치 스스무
 10. **Ride With Me**
       -
         작사: Staxx T(CREAM) / 작곡: ☆Taku Takahashi(m-flo, block.fm), Minami(CREAM) / 편곡: ☆Taku Takahashi(m-flo, blockblock.fm) Track Produced by ☆Taku Takahashi(m-flo, block.fm) Programmed ＆ Mixed by MitsunoriIkeda(Tachytelic Inc.)
@@ -43,7 +43,7 @@
         작사·작곡: 야오토메 히카루 / 편곡: Thomas Preuss
 12. **RELOAD**
       -
-        작사: [아리오카 다이키](https://ko.wikipedia.org/wiki/아리오카_다이키 "wikilink") / 작곡: Joakim Björnberg, Christofer Erixon, Atsushi Shimada / 편곡: Atsushi Shimada
+        작사: [아리오카 다이키](../Page/아리오카_다이키.md "wikilink") / 작곡: Joakim Björnberg, Christofer Erixon, Atsushi Shimada / 편곡: Atsushi Shimada
 13. **** / <small>**시작의 멜로디**</small>
       -
         작사·작곡: 오카다 유타 / 편곡: 이시즈카 토모키

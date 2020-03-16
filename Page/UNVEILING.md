@@ -15,9 +15,9 @@
 
 **CD1**
 
-1.  입술의 말 ([이수](https://ko.wikipedia.org/wiki/이수_\(가수\) "wikilink") 작사·곡 이수 편곡)
+1.  입술의 말 ([이수](../Page/이수_\(가수\).md "wikilink") 작사·곡 이수 편곡)
 2.  **그때 우리** (WATT 작곡, 이수, WATT 작사, WATT 편곡)
-3.  빈자리 ([제이 윤](https://ko.wikipedia.org/wiki/제이_윤 "wikilink") 작사·곡 제이 윤 편곡)
+3.  빈자리 ([제이 윤](../Page/제이_윤.md "wikilink") 작사·곡 제이 윤 편곡)
 4.  퇴근길 (김동휘 작곡, 민연재 작사, 김동휘 편곡)
 5.  **그대가 분다** (최성일·이세환 작곡, 최성일·민연재 작사, 최성일 편곡)
 6.  **백야** (WATT 작곡, 이수 작사, WATT 편곡)
@@ -31,12 +31,12 @@
 
 **CD2**
 
-1.  행복하지 말아요 (2013 Live Ver.) (Hirose Kohmi 작곡, [양재선](https://ko.wikipedia.org/wiki/양재선 "wikilink") 작사, 김시원 편곡)
+1.  행복하지 말아요 (2013 Live Ver.) (Hirose Kohmi 작곡, [양재선](../Page/양재선.md "wikilink") 작사, 김시원 편곡)
 2.  닫혀진 사랑을 향해 (2013 Live Ver.) (신동우 작사·곡, 신동우 편곡)
-3.  마지막 내 숨소리 (2013 Live Ver.) ([김현철](https://ko.wikipedia.org/wiki/김현철_\(가수\) "wikilink") 작사·곡)
+3.  마지막 내 숨소리 (2013 Live Ver.) ([김현철](../Page/김현철_\(가수\).md "wikilink") 작사·곡)
 4.  사랑이 끝나면 (2013 Live Ver.) (제이 윤 작사·곡, 제이 윤 편곡)
 5.  낮달 (2013 Live Ver.) (Hirose Kohmi 작곡, 조은희 작사, 김시원 편곡)
-6.  해바라기도 가끔 목이 아프죠 (2013 Live Ver.) (Hirose Kohmi 작곡, [양재선](https://ko.wikipedia.org/wiki/양재선 "wikilink") 작사)
+6.  해바라기도 가끔 목이 아프죠 (2013 Live Ver.) (Hirose Kohmi 작곡, [양재선](../Page/양재선.md "wikilink") 작사)
 7.  사랑의 시 (2013 Live Ver.) (Tamaki Koji 작곡, [채정은](https://ko.wikipedia.org/wiki/채정은 "wikilink") 작사)
 
 [분류:팝 록 음반](https://ko.wikipedia.org/wiki/분류:팝_록_음반 "wikilink") [분류:엠씨 더 맥스의 음반](https://ko.wikipedia.org/wiki/분류:엠씨_더_맥스의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:2014년 음반](https://ko.wikipedia.org/wiki/분류:2014년_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink")

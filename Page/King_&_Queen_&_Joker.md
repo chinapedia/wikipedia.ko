@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [King \& Queen \& Joker](https://ko.wikipedia.org/wiki/King_\&_Queen_\&_Joker).
 
 
-〈**King & Queen & Joker**〉는, [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 6번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**King & Queen & Joker**〉는, [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 6번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
 전작 〈[바이바이Du바이\~See you again\~/A MY GIRL FRIEND](https://ko.wikipedia.org/wiki/바이바이Du바이~See_you_again~/A_MY_GIRL_FRIEND "wikilink")〉로부터 약 7개월 만의 싱글이다.
 
-타이틀곡 〈King & Queen & Joker〉는 [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 《초잠입\! 리얼 스코프 하이퍼》의 테마 송, 커플링곡 〈기다렸다같은 건 없기\!〉는, 텔레비전 애니메이션 《[닌타마 란타로](https://ko.wikipedia.org/wiki/닌자보이_란타로 "wikilink")》의 엔딩 테마로 결정되어\[1\], 2014년 3월 31일부터 방송을 개시하는 신 시리즈에서 기용된다\[2\].
+타이틀곡 〈King & Queen & Joker〉는 [후지 TV](../Page/후지_TV.md "wikilink") 계열 《초잠입\! 리얼 스코프 하이퍼》의 테마 송, 커플링곡 〈기다렸다같은 건 없기\!〉는, 텔레비전 애니메이션 《[닌타마 란타로](../Page/닌자보이_란타로.md "wikilink")》의 엔딩 테마로 결정되어\[1\], 2014년 3월 31일부터 방송을 개시하는 신 시리즈에서 기용된다\[2\].
 
 ## 수록곡
 

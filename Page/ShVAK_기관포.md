@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ShVAK ](https://ko.wikipedia.org/wiki/ShVAK_).
 
 
-The **ShVAK** (, "Shpitalny-Vladimirov large-calibre for aircraft")은 [제 2차 세계대전때](https://ko.wikipedia.org/wiki/제_2차_세계대전 "wikilink") [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")에 의해 사용되던 [20 mm](https://ko.wikipedia.org/wiki/20mm_구경 "wikilink") [자동기관포](https://ko.wikipedia.org/wiki/자동기관포 "wikilink")이다. 이것은 It [Boris Shpitalniy와](https://ko.wikipedia.org/wiki/Boris_Shpitalniy "wikilink") [Semyon Vladimirov에게서](https://ko.wikipedia.org/wiki/Semyon_Vladimirov "wikilink") 설계되었으며, 1936년 생산에 들어갔다. ShVAK은 많은 소련 전투기들에게 설치되었다. **TNSh**는 경전차를 위한 버전이다. ().
+The **ShVAK** (, "Shpitalny-Vladimirov large-calibre for aircraft")은 [제 2차 세계대전때](https://ko.wikipedia.org/wiki/제_2차_세계대전 "wikilink") [소련](../Page/소련.md "wikilink")에 의해 사용되던 [20 mm](https://ko.wikipedia.org/wiki/20mm_구경 "wikilink") [자동기관포](https://ko.wikipedia.org/wiki/자동기관포 "wikilink")이다. 이것은 It [Boris Shpitalniy와](https://ko.wikipedia.org/wiki/Boris_Shpitalniy "wikilink") [Semyon Vladimirov에게서](https://ko.wikipedia.org/wiki/Semyon_Vladimirov "wikilink") 설계되었으며, 1936년 생산에 들어갔다. ShVAK은 많은 소련 전투기들에게 설치되었다. **TNSh**는 경전차를 위한 버전이다. ().
 
 ## 개발과 생산
 
@@ -49,7 +49,7 @@ The end of the barrel was threaded, and this thread was used to screw on a blast
   - [LaGG-3](https://ko.wikipedia.org/wiki/라보츠킨-고르부노프-구드코프_LaGG-3\(Lavochkin-Gorbunov-Goudkov_LaGG-3\) "wikilink")
   - [라보츠킨 La-5](https://ko.wikipedia.org/wiki/라보츠킨_La-5 "wikilink")
   - [페틀리야코프 Pe-2야간](https://ko.wikipedia.org/wiki/페틀리야코프_Pe-2 "wikilink") 전투기
-  - 소련이 개조한 [호커 허리케인](https://ko.wikipedia.org/wiki/호커_허리케인 "wikilink")
+  - 소련이 개조한 [호커 허리케인](../Page/호커_허리케인.md "wikilink")
 
 20mm ShVAK은 [투폴레프 Tu-2](https://ko.wikipedia.org/wiki/투폴레프_Tu-2 "wikilink") 폭격기의 주익과 지상공격용 [페틀리야코프 Pe-2](https://ko.wikipedia.org/wiki/페틀리야코프_Pe-2 "wikilink") 폭격기에 달리고, 개조돼서 장착된 것도 있다.\[17\] [일류신 IL-2](https://ko.wikipedia.org/wiki/일류신_IL-2 "wikilink") 지상공격기의 초기 버전도 달렸으나, 후에 23mm [볼코프-야르트세프 VYa-23 기관포로](https://ko.wikipedia.org/wiki/볼코프-야르트세프_VYa-23_기관포 "wikilink") 대체한다. 유연하게 설치 가능한 ShVAK은 [페틀리야코프 Pe-8과](https://ko.wikipedia.org/wiki/페틀리야코프_Pe-8 "wikilink") [예르몰라예프 Yer-2폭격기에](https://ko.wikipedia.org/wiki/예르몰라예프_Yer-2 "wikilink") 달렸다(방어 기총으로 사용되었다는 말 같다.)\[18\]
 

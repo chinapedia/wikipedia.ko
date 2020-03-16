@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ONE -for the win-](https://ko.wikipedia.org/wiki/ONE_-for_the_win-).
 
 
-〈**ONE -for the win-**〉은, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 16번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**ONE -for the win-**〉은, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 16번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 CD 싱글은 초회반 A, 초회반 B, 통상반, 스페셜반의 4형태로 발매. 이 중 초회반 A에만 DVD가 부속되어 있으며, 이 DVD에는 뮤직 비디오와 메이킹 영상이 수록되어 있다.
 
-〈ONE -for the win-〉는 [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 《[브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink")》의 테마 송으로 사용되고, 〈SEVEN COLORS〉는 닛폰 TV 계열 《[FIFA 클럽 월드컵 모로코 2013](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2013 "wikilink")》의 테마 송으로 사용되었다.
+〈ONE -for the win-〉는 [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 계열 《[브라질 2014](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink")》의 테마 송으로 사용되고, 〈SEVEN COLORS〉는 닛폰 TV 계열 《[FIFA 클럽 월드컵 모로코 2013](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵_2013 "wikilink")》의 테마 송으로 사용되었다.
 
 ## 수록곡
 

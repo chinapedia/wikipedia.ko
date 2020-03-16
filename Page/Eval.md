@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Eval](https://ko.wikipedia.org/wiki/Eval).
 
 
-**`eval`** 함수는 일부 [프로그래밍 언어에서](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink") 제공하는 [함수의](https://ko.wikipedia.org/wiki/함수_\(프로그래밍\) "wikilink") 일종이다. 문자열을 입력 받아 그 문자열을 [expression으로](https://ko.wikipedia.org/wiki/식_\(프로그래밍\) "wikilink") 처리한 후 결과값을 반환하는 함수이다.
+**`eval`** 함수는 일부 [프로그래밍 언어에서](../Page/프로그래밍_언어.md "wikilink") 제공하는 [함수의](../Page/함수_\(프로그래밍\).md "wikilink") 일종이다. 문자열을 입력 받아 그 문자열을 [expression으로](https://ko.wikipedia.org/wiki/식_\(프로그래밍\) "wikilink") 처리한 후 결과값을 반환하는 함수이다.
 
 ## 보안 위험
 
-신뢰할 수 없는 장소로부터 온 데이터에 `eval`을 사용할 때는 특별히 주의해야 한다. 이를테면, `get_data()` 함수는 인터넷으로부터 데이터를 가져온다고 할 때, 이 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") 코드는 안전하지 않다:
+신뢰할 수 없는 장소로부터 온 데이터에 `eval`을 사용할 때는 특별히 주의해야 한다. 이를테면, `get_data()` 함수는 인터넷으로부터 데이터를 가져온다고 할 때, 이 [파이썬](../Page/파이썬.md "wikilink") 코드는 안전하지 않다:
 
 ``` python
 session['authenticated'] = False

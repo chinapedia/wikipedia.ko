@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [  E](https://ko.wikipedia.org/wiki/__E).
 
 
-**모토로라 모토 E** (Motorola Moto E) [모토로라 모빌리티에서](https://ko.wikipedia.org/wiki/모토로라_모빌리티 "wikilink") 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.
+**모토로라 모토 E** (Motorola Moto E) [모토로라 모빌리티에서](../Page/모토로라_모빌리티.md "wikilink") 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 2014년 5월 13일에 공개되어, 2014년 5월 23일 출시되었다.\[1\]\[2\]
 
 ## 역사
 
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") : 제품 공개\[3\]\[4\]
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 23일](https://ko.wikipedia.org/wiki/8월_23일 "wikilink") : 제품 출시
+  - [2014년](../Page/2014년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") : 제품 공개\[3\]\[4\]
+  - [2014년](../Page/2014년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") : 제품 출시
 
 ## 운영 체제/소프트웨어
 

@@ -9,7 +9,7 @@
 
 ## 발매
 
-이후 3월 31일 [양현석](https://ko.wikipedia.org/wiki/양현석 "wikilink")은 YG 공식 블로그를 통해 4월 7일 온라인을 통해 첫 정규 앨범 전곡이 공개 될 예정이라고 발표했다.\[4\] 이어 3월 31일 오후 4시 7분 공식 블로그를 통해 푸른 녹음을 배경으로 서 있는 이찬혁, 이수현의 모습이 담긴 티저 이미지를 공개했다.\[5\] 4월 1일에는 제주도의 한 숲을 배경으로 앉아있는 남매의 2차 티저 이미지를 공개했다.\[6\] 3일에는 "AKMU- 악동뮤지션 PLAY IN JEJU"라는 제목의 동영상이 공개되었는데, 악동뮤지션이 숲에서 앨범의 수록곡인 〈200%〉, 〈인공잔디〉, 〈얼음들〉, 〈작은별〉을 잠깐 선보였다.\[7\]
+이후 3월 31일 [양현석](../Page/양현석.md "wikilink")은 YG 공식 블로그를 통해 4월 7일 온라인을 통해 첫 정규 앨범 전곡이 공개 될 예정이라고 발표했다.\[4\] 이어 3월 31일 오후 4시 7분 공식 블로그를 통해 푸른 녹음을 배경으로 서 있는 이찬혁, 이수현의 모습이 담긴 티저 이미지를 공개했다.\[5\] 4월 1일에는 제주도의 한 숲을 배경으로 앉아있는 남매의 2차 티저 이미지를 공개했다.\[6\] 3일에는 "AKMU- 악동뮤지션 PLAY IN JEJU"라는 제목의 동영상이 공개되었는데, 악동뮤지션이 숲에서 앨범의 수록곡인 〈200%〉, 〈인공잔디〉, 〈얼음들〉, 〈작은별〉을 잠깐 선보였다.\[7\]
 
 ## 수록곡
 
@@ -29,7 +29,7 @@
 <tbody>
 <tr class="odd">
 <td><p>대한민국</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 앨범 차트</a> (주간)</p></td>
+<td><p><a href="../Page/가온_차트.md" title="wikilink">가온 앨범 차트</a> (주간)</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -44,7 +44,7 @@
 </tr>
 <tr class="even">
 <td><p>미국</p></td>
-<td><p><em><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a></em> <a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">히트시커스</a> 앨범 차트[8]</p></td>
+<td><p><em><a href="../Page/빌보드.md" title="wikilink">빌보드</a></em> <a href="../Page/빌보드.md" title="wikilink">히트시커스</a> 앨범 차트[8]</p></td>
 <td><p>20</p></td>
 </tr>
 <tr class="odd">
@@ -57,16 +57,16 @@
 
 ### 판매량
 
-| 차트                                                          | 판매량     |
-| ----------------------------------------------------------- | ------- |
-| [가온](https://ko.wikipedia.org/wiki/가온_차트 "wikilink") 음반 판매량 | 33,750+ |
+| 차트                                       | 판매량     |
+| ---------------------------------------- | ------- |
+| [가온](../Page/가온_차트.md "wikilink") 음반 판매량 | 33,750+ |
 
 ### 발매일
 
-| 국가   | 발매일         | 포맷                                                           | 레이블                                                                                                                      |
-| ---- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 세계   | 2014년 4월 7일 | [음악 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink"), [KT 뮤직](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") |
-| 대한민국 | 2014년 4월 9일 | [CD](https://ko.wikipedia.org/wiki/CD "wikilink")            |                                                                                                                          |
+| 국가   | 발매일         | 포맷                                                           | 레이블                                                                                                   |
+| ---- | ----------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| 세계   | 2014년 4월 7일 | [음악 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink"), [KT 뮤직](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") |
+| 대한민국 | 2014년 4월 9일 | [CD](https://ko.wikipedia.org/wiki/CD "wikilink")            |                                                                                                       |
 
 ### 가요 프로그램 1위
 
@@ -83,12 +83,12 @@
 <td><ul>
 <li><strong>200%</strong>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/4월_17일" title="wikilink">4월 17일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/4월_20일" title="wikilink">4월 20일</a> <a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/4월_24일" title="wikilink">4월 24일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/4월_27일" title="wikilink">4월 27일</a> <a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/5월_1일" title="wikilink">5월 1일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (트리플 크라운)</li>
-<li><a href="https://ko.wikipedia.org/wiki/5월_4일" title="wikilink">5월 4일</a> <a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위 (트리플 크라운)</li>
+<li><a href="../Page/4월_17일.md" title="wikilink">4월 17일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li><a href="../Page/4월_24일.md" title="wikilink">4월 24일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/4월_27일.md" title="wikilink">4월 27일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li><a href="../Page/5월_1일.md" title="wikilink">5월 1일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (트리플 크라운)</li>
+<li><a href="../Page/5월_4일.md" title="wikilink">5월 4일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위 (트리플 크라운)</li>
 </ul></li>
 </ul></td>
 </tr>

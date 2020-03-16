@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VAMP \(\)](https://ko.wikipedia.org/wiki/VAMP_\(\)).
 
 
-《**VAMP**》(뱀프)는 일본의 가수 [나카모리 아키나](https://ko.wikipedia.org/wiki/나카모리_아키나 "wikilink")()의 [미니 음반으로](https://ko.wikipedia.org/wiki/미니_음반 "wikilink") 1996년 12월 18일에 발매하였다. ([CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"): MVCZ-1002)\[1\]
+《**VAMP**》(뱀프)는 일본의 가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 [미니 음반으로](https://ko.wikipedia.org/wiki/미니_음반 "wikilink") 1996년 12월 18일에 발매하였다. ([CD](../Page/콤팩트_디스크.md "wikilink"): MVCZ-1002)\[1\]
 
 1996년 12월 30일, 오리콘 주간 앨범 차트에 최고순위 30위로 진입하여, 차트 톱100에 총 8주간 머물렀다.\[2\]
 

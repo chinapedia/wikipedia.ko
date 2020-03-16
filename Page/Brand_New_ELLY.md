@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Brand New ELLY](https://ko.wikipedia.org/wiki/Brand_New_ELLY).
 
 
-《**Brand New ELLY**》는 대한민국의 가수 [서인영](https://ko.wikipedia.org/wiki/서인영 "wikilink")의 세 번째 EP 음반이다. 타이틀곡은 〈Oh My Gosh〉이다.
+《**Brand New ELLY**》는 대한민국의 가수 [서인영](../Page/서인영.md "wikilink")의 세 번째 EP 음반이다. 타이틀곡은 〈Oh My Gosh〉이다.
 
 ## 수록곡
 

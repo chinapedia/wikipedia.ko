@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I Love](https://ko.wikipedia.org/wiki/I_Love).
 
 
-「**i Love**」(아이 러브)는 [azusa](https://ko.wikipedia.org/wiki/azusa "wikilink")의 1매째의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 21일에](https://ko.wikipedia.org/wiki/7월_21일 "wikilink") [포니 캐니온으로부터](https://ko.wikipedia.org/wiki/포니_캐니온 "wikilink") 발매되었다.
+「**i Love**」(아이 러브)는 [azusa](https://ko.wikipedia.org/wiki/azusa "wikilink")의 1매째의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. [2010년](../Page/2010년.md "wikilink") [7월 21일에](../Page/7월_21일.md "wikilink") [포니 캐니온으로부터](https://ko.wikipedia.org/wiki/포니_캐니온 "wikilink") 발매되었다.
 
 ## 개요
 
@@ -26,9 +26,9 @@
 
 ## 수록 앨범
 
-| 곡명     | 앨범                                                                    | 발매일                                                                                                               |
-| ------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| i Love | '''[azusa](https://ko.wikipedia.org/wiki/azusa_\(앨범\) "wikilink") ''' | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 31일](https://ko.wikipedia.org/wiki/8월_31일 "wikilink") |
+| 곡명     | 앨범                                                                    | 발매일                                                                         |
+| ------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| i Love | '''[azusa](https://ko.wikipedia.org/wiki/azusa_\(앨범\) "wikilink") ''' | [2011년](../Page/2011년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") |
 
 ## 각주
 
@@ -45,5 +45,5 @@
 1.
 2.
 3.
-4.  작품 무대에서의 작화상의 모델이 된 [지바현](https://ko.wikipedia.org/wiki/지바현 "wikilink") [쵸시 시의](https://ko.wikipedia.org/wiki/쵸시_시 "wikilink") [실재의 고교](http://www1.ocn.ne.jp/~ichdskai/) 교사뿐만이 아니라 이쪽도 원이 된 풍경이 해당 고등학교에의 비탈길 입구에 존재한다.
+4.  작품 무대에서의 작화상의 모델이 된 [지바현](../Page/지바현.md "wikilink") [쵸시 시의](https://ko.wikipedia.org/wiki/쵸시_시 "wikilink") [실재의 고교](http://www1.ocn.ne.jp/~ichdskai/) 교사뿐만이 아니라 이쪽도 원이 된 풍경이 해당 고등학교에의 비탈길 입구에 존재한다.
 5.

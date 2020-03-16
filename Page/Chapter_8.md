@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Chapter 8](https://ko.wikipedia.org/wiki/Chapter_8).
 
 
-《**Chapter 8**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [god의](https://ko.wikipedia.org/wiki/god_\(음악_그룹\) "wikilink") 여덟 번째 정규 음반이다. **Chapter 7**을 발매하고, 9년 뒤인 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 8일에](https://ko.wikipedia.org/wiki/7월_8일 "wikilink") CJ E\&M을 통해 발매했다.
+《**Chapter 8**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [god의](https://ko.wikipedia.org/wiki/god_\(음악_그룹\) "wikilink") 여덟 번째 정규 음반이다. **Chapter 7**을 발매하고, 9년 뒤인 [2014년](../Page/2014년.md "wikilink") [7월 8일에](../Page/7월_8일.md "wikilink") CJ E\&M을 통해 발매했다.
 
 ## 수록곡
 

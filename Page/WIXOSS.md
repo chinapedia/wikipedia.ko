@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WIXOSS](https://ko.wikipedia.org/wiki/WIXOSS).
 
 
-**WIXOSS**(위크로스)는 [다카라토미](https://ko.wikipedia.org/wiki/다카라토미 "wikilink")가 2014년 4월 26일 발매한 [트레이딩 카드 게임이다](https://ko.wikipedia.org/wiki/트레이딩_카드_게임 "wikilink"). 애니메이션으로 《[Selector Infected WIXOSS](https://ko.wikipedia.org/wiki/Selector_Infected_WIXOSS "wikilink")》, 《[Lostorage incited WIXOSS](https://ko.wikipedia.org/wiki/Lostorage_incited_WIXOSS "wikilink")》, 《[Lostorage conflated WIXOSS](https://ko.wikipedia.org/wiki/Lostorage_conflated_WIXOSS "wikilink")》가 있다.
+**WIXOSS**(위크로스)는 [다카라토미](https://ko.wikipedia.org/wiki/다카라토미 "wikilink")가 2014년 4월 26일 발매한 [트레이딩 카드 게임이다](../Page/트레이딩_카드_게임.md "wikilink"). 애니메이션으로 《[Selector Infected WIXOSS](https://ko.wikipedia.org/wiki/Selector_Infected_WIXOSS "wikilink")》, 《[Lostorage incited WIXOSS](https://ko.wikipedia.org/wiki/Lostorage_incited_WIXOSS "wikilink")》, 《[Lostorage conflated WIXOSS](https://ko.wikipedia.org/wiki/Lostorage_conflated_WIXOSS "wikilink")》가 있다.
 
 ## 개요
 

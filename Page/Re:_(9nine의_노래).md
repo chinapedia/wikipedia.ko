@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Re: \(9nine \)](https://ko.wikipedia.org/wiki/Re:_\(9nine_\)).
 
 
-〈**Re:**〉 (리)는 [9nine](https://ko.wikipedia.org/wiki/9nine "wikilink")의 15번째 싱글이며 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 20일에](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") **SME Records**로 부터 발매되었다.
+〈**Re:**〉 (리)는 [9nine](../Page/9nine.md "wikilink")의 15번째 싱글이며 [2013년](../Page/2013년.md "wikilink") [11월 20일에](../Page/11월_20일.md "wikilink") **SME Records**로 부터 발매되었다.
 
 ## 개요
 
-전작「[Evolution No.9](../Page/Evolution_No.9.md "wikilink")」로 부터 약 5개월만에 발매되는 2013년 제3탄 싱글이다. 타이틀 곡은 **[사카이 마사토](https://ko.wikipedia.org/wiki/사카이_마사토 "wikilink")**와 **[아라가키 유이](https://ko.wikipedia.org/wiki/아라가키_유이 "wikilink")** 주연의 [후지 TV계](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 연속드라마 **리갈하이**의 오프닝 테마. 『통상판』의 외에 「**Re:**」의 뮤직비디오와 Dance Shot 버전이 수록된 『초회생산한정판A』, 2013년 5월 6일에 [Zepp Tokyo에서](https://ko.wikipedia.org/wiki/Zepp_Tokyo "wikilink") 개최된 원맨라이브 「**CUE레코발\! 9nine전국 백문\<일견TOUR 2013**」의 영상이 수록되어있는 『초회생산한정판B』『초회생산한정판C』, 그리고 16페이지의 포토북이 있는 『초회생산한정판D』의 5가지 형태로 발매되었다. 발매 첫 주의 [오리콘 차트에서는](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 주간차트 6위, 초동매상으로는 3.1만장으로 주간차트와 초동매상의 자기최고기록을 갱신하였다.
+전작「[Evolution No.9](../Page/Evolution_No.9.md "wikilink")」로 부터 약 5개월만에 발매되는 2013년 제3탄 싱글이다. 타이틀 곡은 **[사카이 마사토](../Page/사카이_마사토.md "wikilink")**와 **[아라가키 유이](../Page/아라가키_유이.md "wikilink")** 주연의 [후지 TV계](../Page/후지_TV.md "wikilink") 연속드라마 **리갈하이**의 오프닝 테마. 『통상판』의 외에 「**Re:**」의 뮤직비디오와 Dance Shot 버전이 수록된 『초회생산한정판A』, 2013년 5월 6일에 [Zepp Tokyo에서](https://ko.wikipedia.org/wiki/Zepp_Tokyo "wikilink") 개최된 원맨라이브 「**CUE레코발\! 9nine전국 백문\<일견TOUR 2013**」의 영상이 수록되어있는 『초회생산한정판B』『초회생산한정판C』, 그리고 16페이지의 포토북이 있는 『초회생산한정판D』의 5가지 형태로 발매되었다. 발매 첫 주의 [오리콘 차트에서는](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 주간차트 6위, 초동매상으로는 3.1만장으로 주간차트와 초동매상의 자기최고기록을 갱신하였다.
 
 ## 수록곡
 
@@ -38,7 +38,7 @@
             2.  [Love me?](https://ko.wikipedia.org/wiki/9nine_\(アルバム\) "wikilink")
       - 초회생산한정판C
           - 「**CUE레코발\! 9nine전국 백문\<일견TOUR 2013 at Zepp Tokyo/2013.5.6**」Live DVD
-            1.  [困惑コンフューズ](https://ko.wikipedia.org/wiki/SHINING☆STAR "wikilink")
+            1.  [困惑コンフューズ](../Page/SHINING☆STAR.md "wikilink")
             2.  [쇼죠토라베라](https://ko.wikipedia.org/wiki/쇼죠토라베라 "wikilink")
 2.  16P포토북（초회생산한정판D）
 

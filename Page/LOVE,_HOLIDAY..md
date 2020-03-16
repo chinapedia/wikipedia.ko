@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOVE, HOLIDAY.](https://ko.wikipedia.org/wiki/LOVE,_HOLIDAY.).
 
 
-〈**LOVE, HOLIDAY.**〉는 [TOKIO](https://ko.wikipedia.org/wiki/TOKIO "wikilink")의 49번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**LOVE, HOLIDAY.**〉는 [TOKIO](../Page/TOKIO.md "wikilink")의 49번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

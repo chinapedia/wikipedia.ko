@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PWF](https://ko.wikipedia.org/wiki/PWF).
 
 
-**PWF**(Pro Wrestling Fit, 프로레슬링 피트)은 2019년 현재 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink") [덕양구](https://ko.wikipedia.org/wiki/덕양구 "wikilink") 소재의 수도권 전철 [경의선](https://ko.wikipedia.org/wiki/경의선 "wikilink") [곡산역](https://ko.wikipedia.org/wiki/곡산역 "wikilink")인근의 'PWF DREAM HOUSE GYM'을 기반으로 활동하고 있는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 프로레슬링 단체이다.현재 한국에서 가장 활발한 프로레슬링 단체이기도 하다.
+**PWF**(Pro Wrestling Fit, 프로레슬링 피트)은 2019년 현재 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink") [덕양구](../Page/덕양구.md "wikilink") 소재의 수도권 전철 [경의선](../Page/경의선.md "wikilink") [곡산역](../Page/곡산역.md "wikilink")인근의 'PWF DREAM HOUSE GYM'을 기반으로 활동하고 있는 [대한민국](../Page/대한민국.md "wikilink")의 프로레슬링 단체이다.현재 한국에서 가장 활발한 프로레슬링 단체이기도 하다.
 
 월1회 슈퍼노바 라는 주기적인 내부유료흥행과 년 1회 인생공격이라는 큰 규모의 흥행을 가지고 있다. 현재 한국에서 가장 활동적인 모습을 보여주는 프로레슬링 단체 중 하나이다.
 
@@ -193,8 +193,8 @@ pwf에서 이루어지는 달1회의 흥행이다. 성인은 만원이라는 유
 ## 연관 프로그램
 
   - TVN \<[김무명을 찾아라](https://ko.wikipedia.org/wiki/김무명을_찾아라 "wikilink")\>
-  - KBS1 \<[다큐공감](https://ko.wikipedia.org/wiki/다큐공감 "wikilink")\>
-  - KBS2 \<[대국민 토크쇼 안녕하세요](https://ko.wikipedia.org/wiki/대국민_토크쇼_안녕하세요 "wikilink")\>
+  - KBS1 \<[다큐공감](../Page/다큐공감.md "wikilink")\>
+  - KBS2 \<[대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")\>
   - SBS \<[놀라운 대회 스타킹](https://ko.wikipedia.org/wiki/놀라운_대회_스타킹 "wikilink")\>
   - OBS <스토리 人>
   - Apple itunes 팟캐스트 <나는 레슬러다>

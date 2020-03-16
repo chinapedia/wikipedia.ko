@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Secret Code](https://ko.wikipedia.org/wiki/Secret_Code).
 
 
-〈**Secret Code**〉(시크릿 코드)는, [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 27번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Secret Code**〉(시크릿 코드)는, [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 27번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -15,12 +15,12 @@
       -
         작사: Satomi / 작곡: 이노우에 닛토쿠 / 편곡: 이노우에 닛토쿠, 도지마 코헤이 / 브라스 어레인지: 이노우에 닛토쿠, 키타하라 마사히코 / 코러스 어레인지: Ko-saku
     <!-- end list -->
-      - [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 드라마 《33분 탐정》 주제가
+      - [후지 TV](../Page/후지_TV.md "wikilink") 계열 드라마 《33분 탐정》 주제가
 2.  **Fu Fu Fu**
       -
         작사: 무라노 쵹큐 / 작곡: Figge Bostrom / 편곡: CHOKKAKU
     <!-- end list -->
-      - [아사히 음료](https://ko.wikipedia.org/wiki/아사히_음료 "wikilink") 《16차》 CM 송
+      - [아사히 음료](../Page/아사히_음료.md "wikilink") 《16차》 CM 송
 3.  **strategie**
       -
         작사: 고토 히데미 / 작곡: 오오니시 카츠미 / 편곡: 스즈키 마사야

@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [ Q \(YTN\)](https://ko.wikipedia.org/wiki/_Q_\(YTN\)).
 
 
-《**뉴스 Q**》(NEWS Q)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")에서 평일 오후 4시에 방송되는 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")의 낮 뉴스 프로그램이다.
+《**뉴스 Q**》(NEWS Q)는 [대한민국](../Page/대한민국.md "wikilink") [YTN](../Page/YTN.md "wikilink")에서 평일 오후 4시에 방송되는 [YTN](../Page/YTN.md "wikilink")의 낮 뉴스 프로그램이다.
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                                                                                                  | 방송 기간                                                                                                                                                                                                                                | 방송 시간                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
-| [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")                                                                                                                                                                                    | [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink") | 매일 오후 4시 \~ 저녁 6시 (2시간) |
-| [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink")   | 평일 저녁 6시 \~ 8시 30분 (2시간 30분)                                                                                                                                                                                                         |                         |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink") \~ [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") | 평일 저녁 6시 \~ 8시 45분 (2시간 45분)                                                                                                                                                                                                         |                         |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") \~ **현재**                                                                                                            | 평일 오후 4시 \~ 저녁 6시 30분 (2시간 30분)                                                                                                                                                                                                      |                         |
+| 방송 채널                                                                                                                                                      | 방송 기간                                                                                                                                                    | 방송 시간                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [YTN](../Page/YTN.md "wikilink")                                                                                                                           | [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink") | 매일 오후 4시 \~ 저녁 6시 (2시간) |
+| [2018년](../Page/2018년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink")   | 평일 저녁 6시 \~ 8시 30분 (2시간 30분)                                                                                                                             |                         |
+| [2019년](../Page/2019년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | 평일 저녁 6시 \~ 8시 45분 (2시간 45분)                                                                                                                             |                         |
+| [2019년](../Page/2019년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") \~ **현재**                                                                      | 평일 오후 4시 \~ 저녁 6시 30분 (2시간 30분)                                                                                                                          |                         |
 
 ## 앵커
 
@@ -19,9 +19,9 @@
 
 ## 경쟁 프로그램
 
-  - [KBS 뉴스 5](https://ko.wikipedia.org/wiki/KBS_뉴스_5 "wikilink") (KBS 1TV)
+  - [KBS 뉴스 5](../Page/KBS_뉴스_5.md "wikilink") (KBS 1TV)
   - [KBS 경제타임](https://ko.wikipedia.org/wiki/KBS_경제타임 "wikilink") (KBS 2TV)
-  - [SBS 오 뉴스](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink") (SBS)
+  - [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink") (SBS)
 
 ## 외부 링크
 

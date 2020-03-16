@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Missing Piece](https://ko.wikipedia.org/wiki/Missing_Piece).
 
 
-〈**Missing Piece**〉는, [나카야마 유마의](https://ko.wikipedia.org/wiki/나카야마_유마 "wikilink") 솔로 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Missing Piece**〉는, [나카야마 유마의](../Page/나카야마_유마.md "wikilink") 솔로 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 수록곡
 

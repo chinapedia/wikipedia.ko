@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [BABYMETAL](https://ko.wikipedia.org/wiki/BABYMETAL).
 
 
-**BABYMETAL**(베비메탈)은, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속사는 [아뮤즈](https://ko.wikipedia.org/wiki/아뮤즈 "wikilink")이고, 레이블은 [토이스 팩토리이다](https://ko.wikipedia.org/wiki/토이스_팩토리 "wikilink").
+**BABYMETAL**(베비메탈)은, [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속사는 [아뮤즈](../Page/아뮤즈.md "wikilink")이고, 레이블은 [토이스 팩토리이다](../Page/토이스_팩토리.md "wikilink").
 
 ## 약력
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink"), '[아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink")과 [헤비 메탈의](https://ko.wikipedia.org/wiki/헤비_메탈 "wikilink") 융합'을 테마로 결성하였다. 여성 아이돌 그룹 [사쿠라 학원에서](../Page/사쿠라_학원.md "wikilink") 파생한 클럽 활동 유닛 중 하나인 중음부로서 시작하였다\[1\]. 목표는 세계 정복으로 하고 있다\[2\].
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink"), 인디 데뷔곡인 〈두·근·두·근☆모닝〉이 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")를 통해서 공개되었으며 일본 외에 해외에서도 주목을 모았다\[3\].
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink"), 《[서머 소닉](https://ko.wikipedia.org/wiki/서머_소닉 "wikilink") 2012》 2일째 도쿄 회장에 서머 소닉 사상 최연소로 출연하였다\[4\]. 또한 11월에는 첫 해외 공연인 《[Anime Festival Asia](https://ko.wikipedia.org/wiki/Anime_Festival_Asia "wikilink") 2012》에 출연하였다\[5\].
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink"), 〈괴롭힘, 안 돼, 절대〉로 메이저 무대에 데뷔했다\[6\].
-  - 2013년 [2월](https://ko.wikipedia.org/wiki/2월 "wikilink"), 라이브 공연 중에 [나카모토 스즈카](https://ko.wikipedia.org/wiki/나카모토_스즈카 "wikilink")(SU-METAL)가 사쿠라 학원을 졸업한 후에도 BABYMETAL은 해산하지 않고 기한부로 활동을 계속함을 발표하였다\[7\]. 거기에 4월부터 독립하여 미즈노 유이(YUIMETAL)와 키쿠치 모아(MOAMETAL)는 사쿠라 학원과 병행해 과외 활동으로서 참가하게 되었다\[8\].
+  - [2010년](../Page/2010년.md "wikilink") [11월](../Page/11월.md "wikilink"), '[아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink")과 [헤비 메탈의](../Page/헤비_메탈.md "wikilink") 융합'을 테마로 결성하였다. 여성 아이돌 그룹 [사쿠라 학원에서](../Page/사쿠라_학원.md "wikilink") 파생한 클럽 활동 유닛 중 하나인 중음부로서 시작하였다\[1\]. 목표는 세계 정복으로 하고 있다\[2\].
+  - [2011년](../Page/2011년.md "wikilink") [10월](../Page/10월.md "wikilink"), 인디 데뷔곡인 〈두·근·두·근☆모닝〉이 [유튜브](../Page/유튜브.md "wikilink")를 통해서 공개되었으며 일본 외에 해외에서도 주목을 모았다\[3\].
+  - [2012년](../Page/2012년.md "wikilink") [8월](../Page/8월.md "wikilink"), 《[서머 소닉](../Page/서머_소닉.md "wikilink") 2012》 2일째 도쿄 회장에 서머 소닉 사상 최연소로 출연하였다\[4\]. 또한 11월에는 첫 해외 공연인 《[Anime Festival Asia](https://ko.wikipedia.org/wiki/Anime_Festival_Asia "wikilink") 2012》에 출연하였다\[5\].
+  - [2013년](../Page/2013년.md "wikilink") [1월](../Page/1월.md "wikilink"), 〈괴롭힘, 안 돼, 절대〉로 메이저 무대에 데뷔했다\[6\].
+  - 2013년 [2월](../Page/2월.md "wikilink"), 라이브 공연 중에 [나카모토 스즈카](https://ko.wikipedia.org/wiki/나카모토_스즈카 "wikilink")(SU-METAL)가 사쿠라 학원을 졸업한 후에도 BABYMETAL은 해산하지 않고 기한부로 활동을 계속함을 발표하였다\[7\]. 거기에 4월부터 독립하여 미즈노 유이(YUIMETAL)와 키쿠치 모아(MOAMETAL)는 사쿠라 학원과 병행해 과외 활동으로서 참가하게 되었다\[8\].
   - 2013년 10월, 메탈 페스티벌 《[Loud Park Festival](https://ko.wikipedia.org/wiki/Loud_Park_Festival "wikilink") 13》에 참가하였다.\[9\]. 이 공연은 메탈 팬으로부터 찬반양론이 일어났다\[10\].
-  - 2013년 [12월](https://ko.wikipedia.org/wiki/12월 "wikilink"), [싱가포르](https://ko.wikipedia.org/wiki/싱가포르 "wikilink")에서 공연을 해 해외에서 처음으로 단독 공연을 실시했다\[11\].
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 2월, 1st 앨범 《BABYMETAL》을 발매\[12\]. [iTunes Store에서는](https://ko.wikipedia.org/wiki/아이튠스_스토어 "wikilink") 7개국의 록 앨범 차트에서 베스트 10에 들어갔다\[13\]. 그리고 미국의 [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 차트에 들어간 가장 어린 일본인이 되었다\[14\].
-  - 2014년 [3월](https://ko.wikipedia.org/wiki/3월 "wikilink"), 2일간에 걸쳐서 [일본무도관](https://ko.wikipedia.org/wiki/일본무도관 "wikilink")에서 단독 공연을 실시했다\[15\]. 이 때 멤버들의 평균 연령이 14.7세 였기에 지금까지의 여성 최연소 기록을 갱신했다\[16\]. 또한 이 공연을 끝으로 일본에서의 활동이 일정 기간 중단 상태가 되었다\[17\].
+  - 2013년 [12월](../Page/12월.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink")에서 공연을 해 해외에서 처음으로 단독 공연을 실시했다\[11\].
+  - [2014년](../Page/2014년.md "wikilink") 2월, 1st 앨범 《BABYMETAL》을 발매\[12\]. [iTunes Store에서는](https://ko.wikipedia.org/wiki/아이튠스_스토어 "wikilink") 7개국의 록 앨범 차트에서 베스트 10에 들어갔다\[13\]. 그리고 미국의 [빌보드](../Page/빌보드.md "wikilink") 차트에 들어간 가장 어린 일본인이 되었다\[14\].
+  - 2014년 [3월](../Page/3월.md "wikilink"), 2일간에 걸쳐서 [일본무도관](https://ko.wikipedia.org/wiki/일본무도관 "wikilink")에서 단독 공연을 실시했다\[15\]. 이 때 멤버들의 평균 연령이 14.7세 였기에 지금까지의 여성 최연소 기록을 갱신했다\[16\]. 또한 이 공연을 끝으로 일본에서의 활동이 일정 기간 중단 상태가 되었다\[17\].
 
 ## 이름의 유래
 
@@ -44,7 +44,7 @@
 
 **서포트 댄서 멤버**
 
-  - [사야시 리호](https://ko.wikipedia.org/wiki/사야시_리호 "wikilink")(전[모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")멤버&현[모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink"))OG멤버)
+  - [사야시 리호](../Page/사야시_리호.md "wikilink")(전[모닝구무스메](../Page/모닝구무스메.md "wikilink")멤버&현[모닝구무스메](../Page/모닝구무스메.md "wikilink"))OG멤버)
   - [후지히라 카노](https://ko.wikipedia.org/wiki/후지히라_카노 "wikilink")
   - [오카자키 모모코](https://ko.wikipedia.org/wiki/오카자키_모모코 "wikilink")
 
@@ -61,7 +61,7 @@
 
 **과거 서포트 멤버**
 
-  - 시렌 ([요정제국](https://ko.wikipedia.org/wiki/요정제국 "wikilink")) - Guitar
+  - 시렌 ([요정제국](../Page/요정제국.md "wikilink")) - Guitar
   - RYO (BLOOD STAIN CHILD) - Bass
   - SHIN (FORCE PRIME) - Drums
   - IKUO (BULL ZEICHEN 88) - Bass

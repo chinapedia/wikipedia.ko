@@ -11,7 +11,7 @@
 
 ## 위치
 
-piRNA는 [유전체](https://ko.wikipedia.org/wiki/게놈 "wikilink") 전체에 흩어져있는 것으로 밝혀졌다. [유전체](https://ko.wikipedia.org/wiki/게놈 "wikilink") 내 한 위치에 적게는 10개에서 1000개의 piRNA가 뭉쳐있다. 최근 몇년간 생물정보학을 기반으로 piRNA의 발견과 명명법은 점점 더 정교해지고 있다. D.melanogaster와 척추동물에서 piRNA는 단백질 비암호화 부위에서만 발견되었지만, C.elegans에서 암호화 부위 중간에서 발견되기도 하였다. 포유류에서 piRNA는 정소와 난소 모두에서 발견된다. 무척추 동물에서, piRNA는 수컷, 암컷 모두의 생식선에서 발견되었다. 세포수준에서, piRNA는 핵과 [세포질](https://ko.wikipedia.org/wiki/세포질 "wikilink") 모두에서 발견되었으며, 이는 두 장소 모두에서 piRNA가 기능을 하는 것을 암시한다.
+piRNA는 [유전체](../Page/게놈.md "wikilink") 전체에 흩어져있는 것으로 밝혀졌다. [유전체](../Page/게놈.md "wikilink") 내 한 위치에 적게는 10개에서 1000개의 piRNA가 뭉쳐있다. 최근 몇년간 생물정보학을 기반으로 piRNA의 발견과 명명법은 점점 더 정교해지고 있다. D.melanogaster와 척추동물에서 piRNA는 단백질 비암호화 부위에서만 발견되었지만, C.elegans에서 암호화 부위 중간에서 발견되기도 하였다. 포유류에서 piRNA는 정소와 난소 모두에서 발견된다. 무척추 동물에서, piRNA는 수컷, 암컷 모두의 생식선에서 발견되었다. 세포수준에서, piRNA는 핵과 [세포질](../Page/세포질.md "wikilink") 모두에서 발견되었으며, 이는 두 장소 모두에서 piRNA가 기능을 하는 것을 암시한다.
 
 ## 생합성
 

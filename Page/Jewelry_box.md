@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jewelry box](https://ko.wikipedia.org/wiki/Jewelry_box).
 
 
-***Jewelry Box***는 대한민국의 아이돌 [티아라의](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink") 첫 번째 일본 정규 음반이다. 2012년 6월 6일 발매되었으며 앨범명으로 첫 번째 일본 투어 콘서트도 하였다.
+***Jewelry Box***는 대한민국의 아이돌 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 첫 번째 일본 정규 음반이다. 2012년 6월 6일 발매되었으며 앨범명으로 첫 번째 일본 투어 콘서트도 하였다.
 
 ## 발매와 프로모션
 
@@ -13,11 +13,11 @@
 
 ## 싱글
 
-\<[Bo Peep Bo Peep](https://ko.wikipedia.org/wiki/Bo_Peep_Bo_Peep "wikilink")\>은 2011년 9월 28일에 발매 된 [티아라의](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink") 일본 데뷔 싱글로 Bo peep Bo peep읠 일본어 버전과 [너때문에 미쳐의](https://ko.wikipedia.org/wiki/너때문에_미쳐 "wikilink") 일본어 버전이 수록되어 있다.
+\<[Bo Peep Bo Peep](https://ko.wikipedia.org/wiki/Bo_Peep_Bo_Peep "wikilink")\>은 2011년 9월 28일에 발매 된 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 일본 데뷔 싱글로 Bo peep Bo peep읠 일본어 버전과 [너때문에 미쳐의](https://ko.wikipedia.org/wiki/너때문에_미쳐 "wikilink") 일본어 버전이 수록되어 있다.
 
 \<[Yayaya](https://ko.wikipedia.org/wiki/Yayaya "wikilink")\>는 2011년 11월 30일에 발매 되었으며 Yayaya의 일본어 버전과 [Roly-Poly](https://ko.wikipedia.org/wiki/Roly-Poly "wikilink")의 한국어 버전이 수록되어 있다.\<
 
-\<[Roly-Poly](https://ko.wikipedia.org/wiki/Roly-Poly "wikilink")\>는 2012년 2월 29일에 발매 되었으며 Roly-Poly의 일본어 버전과 [거짓말](https://ko.wikipedia.org/wiki/거짓말 "wikilink")의 일본어 버전, [Apple Is A의](https://ko.wikipedia.org/wiki/Apple_Is_A "wikilink") 일본어 버전이 수록되어 있으며 한정판에는 [Roly-Poly in 코파카바나의](https://ko.wikipedia.org/wiki/Roly-Poly_in_코파카바나 "wikilink") 일본어 버전이 수록되어 있다.
+\<[Roly-Poly](https://ko.wikipedia.org/wiki/Roly-Poly "wikilink")\>는 2012년 2월 29일에 발매 되었으며 Roly-Poly의 일본어 버전과 [거짓말](../Page/거짓말.md "wikilink")의 일본어 버전, [Apple Is A의](https://ko.wikipedia.org/wiki/Apple_Is_A "wikilink") 일본어 버전이 수록되어 있으며 한정판에는 [Roly-Poly in 코파카바나의](https://ko.wikipedia.org/wiki/Roly-Poly_in_코파카바나 "wikilink") 일본어 버전이 수록되어 있다.
 
 \<[Lovey-Dovey](https://ko.wikipedia.org/wiki/Lovey-Dovey "wikilink")\>는 2012년 5월 23일에 발매 되었으며 Lovey-Dovey의 일본어 버전이 수록되어 있다.
 
@@ -28,10 +28,10 @@
 3.  [왜이러니](https://ko.wikipedia.org/wiki/왜이러니 "wikilink") (Japanese ver.) (Why Are You Being Like This)
 4.  Keep out (일본 신곡) ([사랑놀이](https://ko.wikipedia.org/wiki/사랑놀이 "wikilink"))
 5.  [Apple Is A](https://ko.wikipedia.org/wiki/Apple_Is_A "wikilink") (Japanese ver.)
-6.  [TTL (Time To Love)](https://ko.wikipedia.org/wiki/TTL_\(Time_To_Love\) "wikilink") (Japanese ver.)
+6.  [TTL (Time To Love)](../Page/TTL_\(Time_To_Love\).md "wikilink") (Japanese ver.)
 7.  [Roly-Poly](https://ko.wikipedia.org/wiki/Roly-Poly "wikilink") (Japanese ver.)
 8.  [너때문에 미쳐](https://ko.wikipedia.org/wiki/너때문에_미쳐 "wikilink") (Japanese ver.) (I Go Crazy Because Of You)
-9.  [거짓말](https://ko.wikipedia.org/wiki/거짓말 "wikilink") (Japanese ver.) (Lies)
+9.  [거짓말](../Page/거짓말.md "wikilink") (Japanese ver.) (Lies)
 10. [내가 너무 아파](https://ko.wikipedia.org/wiki/내가_너무_아파 "wikilink") (Japanese ver.) (I'm Very Hurt)
 11. [Cry Cry](https://ko.wikipedia.org/wiki/Cry_Cry "wikilink") (Japanese ver.)
 12. [Lovey-Dovey](https://ko.wikipedia.org/wiki/Lovey-Dovey "wikilink") (Japanese ver.)

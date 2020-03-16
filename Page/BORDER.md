@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BORDER](https://ko.wikipedia.org/wiki/BORDER).
 
 
-《**BORDER**》(보더)는, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")·[카네시로 카즈키](https://ko.wikipedia.org/wiki/가네시로_가즈키 "wikilink") 원작에 의해 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")부터 개시된 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink"), [텔레비전 드라마](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink"), [소설](https://ko.wikipedia.org/wiki/소설 "wikilink")의 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트이다.
+《**BORDER**》(보더)는, [일본](../Page/일본.md "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")·[카네시로 카즈키](../Page/가네시로_가즈키.md "wikilink") 원작에 의해 [2013년](../Page/2013년.md "wikilink")부터 개시된 [만화](../Page/만화.md "wikilink"), [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink"), [소설](../Page/소설.md "wikilink")의 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트이다.
 
 프로젝트 전체로서의 [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는 〈**사람은 죽으면, 어디에 가는 걸까.**〉.
 
@@ -36,7 +36,7 @@
 
 ### 서지 정보
 
-  - 코테가와 유아 (만화), 카네시로 카즈키 (원안) 《BORDER》 [카도카와 쇼텐](https://ko.wikipedia.org/wiki/가도카와_쇼텐 "wikilink") 〈카도카와 코믹스 에이스〉, 전 4권
+  - 코테가와 유아 (만화), 카네시로 카즈키 (원안) 《BORDER》 [카도카와 쇼텐](../Page/가도카와_쇼텐.md "wikilink") 〈카도카와 코믹스 에이스〉, 전 4권
     1.  제1권, 2014년 3월 26일 발매\[1\],
     2.  제2권, 2014년 5월 2일 발매\[2\],
     3.  제3권, 2014년 12월 4일 발매\[3\],
@@ -44,7 +44,7 @@
 
 ## 소설
 
-카네시로를 원안으로 해, 후루카와 슌쥬에 의한 오리지널 [플롯](https://ko.wikipedia.org/wiki/플롯 "wikilink")으로 소설화되었다.
+카네시로를 원안으로 해, 후루카와 슌쥬에 의한 오리지널 [플롯](../Page/플롯.md "wikilink")으로 소설화되었다.
 
 ### 서지 정보
 
@@ -52,13 +52,13 @@
 
 ## 텔레비전 드라마
 
-《**BORDER 경시청 수사 1과 살인범 수사 제4계**》()의 타이틀로 텔레비전 드라마화되었다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 10일부터](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") [6월 5일까지](https://ko.wikipedia.org/wiki/6월_5일 "wikilink") 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 21:00 \~ 21:54에, [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink") 계열의 〈[목요드라마](../Page/TV_아사히_목요일_밤_9시_드라마.md "wikilink")〉 시간대에서 방송되었다. 주연은 [오구리 슌](https://ko.wikipedia.org/wiki/오구리_슌 "wikilink").
+《**BORDER 경시청 수사 1과 살인범 수사 제4계**》()의 타이틀로 텔레비전 드라마화되었다. [2014년](../Page/2014년.md "wikilink") [4월 10일부터](../Page/4월_10일.md "wikilink") [6월 5일까지](../Page/6월_5일.md "wikilink") 매주 [목요일](../Page/목요일.md "wikilink") 21:00 \~ 21:54에, [TV 아사히](../Page/TV_아사히.md "wikilink") 계열의 〈[목요드라마](../Page/TV_아사히_목요일_밤_9시_드라마.md "wikilink")〉 시간대에서 방송되었다. 주연은 [오구리 슌](../Page/오구리_슌.md "wikilink").
 
 ### 캐스트
 
 #### 경시청 형사부
 
-  - 이시카와 안고 (31) - [오구리 슌](https://ko.wikipedia.org/wiki/오구리_슌 "wikilink")
+  - 이시카와 안고 (31) - [오구리 슌](../Page/오구리_슌.md "wikilink")
     순사부장. 제2강행범 수사·살인범 수사 제4계 제1반 소속.
   - 타치바나 유마 (31) - 아오키 무네타카
     제1반 형사. 이시카와의 동료.
@@ -74,7 +74,7 @@
   - 스즈키 (36) - 타키토 켄이치
     심부름 센터.
   - 가핑클 - 노마구치 토오루
-    사이먼과 콤비를 이루는 [해커](https://ko.wikipedia.org/wiki/해커 "wikilink").
+    사이먼과 콤비를 이루는 [해커](../Page/해커.md "wikilink").
   - 사이먼 - 하마노 켄타
     가핑클과 콤비를 이루는 해커.
   - 카이코 - 야마구치 요시유키
@@ -91,7 +91,7 @@
 
 ### 스태프
 
-  - 원안·각본 - [카네시로 카즈키](https://ko.wikipedia.org/wiki/가네시로_가즈키 "wikilink")
+  - 원안·각본 - [카네시로 카즈키](../Page/가네시로_가즈키.md "wikilink")
   - 음악 - 카와이 켄지
   - 감독 - 하시모토 하지메, 하타노 타카후미
   - 주제가 - MAN WITH A MISSION 〈evils fall〉 ([Sony Music Records](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink"))
@@ -106,7 +106,7 @@
   - 라인 프로듀스 - 타가미 리사 (5학년 B반)
   - 기획 협력 - KADOKAWA
   - 제작 협력 - 5학년 B반
-  - 제작 저작 - [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히 "wikilink")
+  - 제작 저작 - [TV 아사히](../Page/TV_아사히.md "wikilink")
 
 ### 수상
 
@@ -204,7 +204,7 @@
 <td><p>14.4%</p></td>
 </tr>
 <tr class="even">
-<td><p>평균 시청률 12.2% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>평균 시청률 12.2% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>

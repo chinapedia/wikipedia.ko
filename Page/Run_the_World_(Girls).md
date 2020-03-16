@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Run the World \(Girls\)](https://ko.wikipedia.org/wiki/Run_the_World_\(Girls\)).
 
 
-〈**Run the World (Girls)**〉는 미국의 가수 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 노래이다. 작곡, 작사에는 [테리우스 "더 드림" 내쉬](https://ko.wikipedia.org/wiki/더_드림 "wikilink"), 비욘세, Nick "Afrojack" van de Wall, Wesley "Diplo" Pentz, David "Switch" Taylor, Adidja Palmer가 참여했다. 2011년 4월 18일 인터넷을 통해 〈Girls (Who Run the World)〉라는 제목으로 노래의 데모 버전이 유출되었다. 이후 2011년 4월 21일 비욘세의 네 번째 정규 음반 《[4](https://ko.wikipedia.org/wiki/4_\(비욘세_놀스의_음반\) "wikilink")》의 [리드 싱글로](../Page/리드_싱글.md "wikilink") 미국 라디오에서 처음 공개되었고, 같은 날 세계에 디지털 버전으로 발매되었다.
+〈**Run the World (Girls)**〉는 미국의 가수 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 노래이다. 작곡, 작사에는 [테리우스 "더 드림" 내쉬](../Page/더_드림.md "wikilink"), 비욘세, Nick "Afrojack" van de Wall, Wesley "Diplo" Pentz, David "Switch" Taylor, Adidja Palmer가 참여했다. 2011년 4월 18일 인터넷을 통해 〈Girls (Who Run the World)〉라는 제목으로 노래의 데모 버전이 유출되었다. 이후 2011년 4월 21일 비욘세의 네 번째 정규 음반 《[4](https://ko.wikipedia.org/wiki/4_\(비욘세_놀스의_음반\) "wikilink")》의 [리드 싱글로](../Page/리드_싱글.md "wikilink") 미국 라디오에서 처음 공개되었고, 같은 날 세계에 디지털 버전으로 발매되었다.
 
-이 곡은 [메이저 레이저의](../Page/메이저_레이저.md "wikilink") 얼터너티브 힙합-댄스홀 장르 노래 〈Pon de Floor〉를 샘플링 한 것이며, 비욘세 스타일의 [팝과](https://ko.wikipedia.org/wiki/팝_음악 "wikilink") [알앤비로](https://ko.wikipedia.org/wiki/컨템포러리_알앤비 "wikilink") 재해석했다. 노래의 가사와 제목은 여성의 권한을 강조하는 공격적이고 직설적인 문구가 포함되어있다. 처음에 평론가들로부터 엇갈린 평가를 받았는데, 샘플링, 뮤지컬적인 연출, 비욘세의 공격적인 모습에 있어서 좋은 평가를 받았다. 반면 이전에 다뤘던 테마가 계속된다며 비욘세의 새로운 모습을 보고싶다는 평도 있었다. 몇몇 평론가들은 데스티니 차일드 시절의 〈[Independent Women](https://ko.wikipedia.org/wiki/Independent_Women "wikilink")〉(2000)과 〈[Single Ladies](https://ko.wikipedia.org/wiki/Single_Ladies_\(Put_a_Ring_on_It\) "wikilink")〉(2008)같은 싱글들과 테마가 비슷하다며 비교했는데, 〈Run the World〉는 좀 더 공격적이고 직설적이라고 말했다.
+이 곡은 [메이저 레이저의](../Page/메이저_레이저.md "wikilink") 얼터너티브 힙합-댄스홀 장르 노래 〈Pon de Floor〉를 샘플링 한 것이며, 비욘세 스타일의 [팝과](../Page/팝_음악.md "wikilink") [알앤비로](https://ko.wikipedia.org/wiki/컨템포러리_알앤비 "wikilink") 재해석했다. 노래의 가사와 제목은 여성의 권한을 강조하는 공격적이고 직설적인 문구가 포함되어있다. 처음에 평론가들로부터 엇갈린 평가를 받았는데, 샘플링, 뮤지컬적인 연출, 비욘세의 공격적인 모습에 있어서 좋은 평가를 받았다. 반면 이전에 다뤘던 테마가 계속된다며 비욘세의 새로운 모습을 보고싶다는 평도 있었다. 몇몇 평론가들은 데스티니 차일드 시절의 〈[Independent Women](https://ko.wikipedia.org/wiki/Independent_Women "wikilink")〉(2000)과 〈[Single Ladies](../Page/Single_Ladies_\(Put_a_Ring_on_It\).md "wikilink")〉(2008)같은 싱글들과 테마가 비슷하다며 비교했는데, 〈Run the World〉는 좀 더 공격적이고 직설적이라고 말했다.
 
-〈Run the World〉는 [빌보드 핫 100](https://ko.wikipedia.org/wiki/빌보드_핫_100 "wikilink") 최고 29위까지 진입했고, 오스트레일리아, 벨기에, 일본, 네덜란드, 뉴질랜드, 노르웨이, 스코틀랜드, 대한민국에서 10위권에 진입했다. 또한 캐나다, 프랑스, 이탈리아, 영국, 아일랜드 등에서 20위권에 진입했다. 뮤직비디오의 감독은 프란시스 로렌스가 맡았고 캘리포니아에서 3일 동안 촬영되었다. 비디오는 2011 [MTV 비디오 뮤직 어워드에서](https://ko.wikipedia.org/wiki/MTV_비디오_뮤직_어워드 "wikilink") 최우수 안무상과 2011 [소울 트레인 뮤직 어워드에서](../Page/소울_트레인_뮤직_어워드.md "wikilink") 최우수 댄스 퍼포먼스상을 수상했다.
+〈Run the World〉는 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 최고 29위까지 진입했고, 오스트레일리아, 벨기에, 일본, 네덜란드, 뉴질랜드, 노르웨이, 스코틀랜드, 대한민국에서 10위권에 진입했다. 또한 캐나다, 프랑스, 이탈리아, 영국, 아일랜드 등에서 20위권에 진입했다. 뮤직비디오의 감독은 프란시스 로렌스가 맡았고 캘리포니아에서 3일 동안 촬영되었다. 비디오는 2011 [MTV 비디오 뮤직 어워드에서](../Page/MTV_비디오_뮤직_어워드.md "wikilink") 최우수 안무상과 2011 [소울 트레인 뮤직 어워드에서](../Page/소울_트레인_뮤직_어워드.md "wikilink") 최우수 댄스 퍼포먼스상을 수상했다.
 
-비욘세는 2011년 [빌보드 뮤직 어워드에서](https://ko.wikipedia.org/wiki/빌보드_뮤직_어워드 "wikilink") 세간의 주목을 끄는 공연을 펼쳤다. 빌보드 뮤직 어워드에서의 공연으로 찬사를 받았지만, 2010년 2월 이탈리아 팝 가수 로렐라 쿠까리니가 제60회 산레모 뮤직 페스티벌에서 펼쳤던 공연과 유사하다는 이유로 논란이 되었다. 또한 〈Run the World〉는 많은 대중 매체에서 사용되었다.
+비욘세는 2011년 [빌보드 뮤직 어워드에서](../Page/빌보드_뮤직_어워드.md "wikilink") 세간의 주목을 끄는 공연을 펼쳤다. 빌보드 뮤직 어워드에서의 공연으로 찬사를 받았지만, 2010년 2월 이탈리아 팝 가수 로렐라 쿠까리니가 제60회 산레모 뮤직 페스티벌에서 펼쳤던 공연과 유사하다는 이유로 논란이 되었다. 또한 〈Run the World〉는 많은 대중 매체에서 사용되었다.
 
 ## 포맷 및 트랙리스트
 
@@ -57,7 +57,7 @@
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/캐나디안_핫_100" title="wikilink">캐나디안 핫 100</a>[8]</p></td>
+<td><p><a href="../Page/캐나디안_핫_100.md" title="wikilink">캐나디안 핫 100</a>[8]</p></td>
 <td><p>16</p></td>
 </tr>
 <tr class="even">
@@ -93,7 +93,7 @@
 <td><p>20</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/재팬_핫_100" title="wikilink">재팬 핫 100</a>[16]</p></td>
+<td><p><a href="../Page/재팬_핫_100.md" title="wikilink">재팬 핫 100</a>[16]</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
@@ -117,7 +117,7 @@
 <td><p>29</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">대한민국 가온 국외 디지털 차트</a>[22]</p></td>
+<td><p><a href="../Page/가온_차트.md" title="wikilink">대한민국 가온 국외 디지털 차트</a>[22]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
@@ -137,7 +137,7 @@
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p>미국 <a href="https://ko.wikipedia.org/wiki/빌보드_핫_100" title="wikilink">빌보드 핫 100</a>[27]</p></td>
+<td><p>미국 <a href="../Page/빌보드_핫_100.md" title="wikilink">빌보드 핫 100</a>[27]</p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="even">
@@ -161,14 +161,14 @@
 
 ### 인증
 
-| 국가                                                                   | [인증](https://ko.wikipedia.org/wiki/음반_판매량_인증 "wikilink") |
-| -------------------------------------------------------------------- | -------------------------------------------------------- |
-| [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아_음반_산업_협회 "wikilink") | 2× 플래티넘\[31\]                                            |
-| [벨기에](https://ko.wikipedia.org/wiki/벨기에_엔터테인먼트_협회 "wikilink")        | 골드\[32\]                                                 |
-| [캐나다](https://ko.wikipedia.org/wiki/뮤직_캐나다 "wikilink")               | 플래티넘\[33\]                                               |
-| [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드_음반_산업_협회 "wikilink")       | 골드\[34\]                                                 |
-| [영국](https://ko.wikipedia.org/wiki/영국_축음기_협회 "wikilink")             | 실버\[35\]                                                 |
-| [미국](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink")           | 골드\[36\]                                                 |
+| 국가                                                                   | [인증](../Page/음반_판매량_인증.md "wikilink") |
+| -------------------------------------------------------------------- | ------------------------------------- |
+| [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아_음반_산업_협회 "wikilink") | 2× 플래티넘\[31\]                         |
+| [벨기에](https://ko.wikipedia.org/wiki/벨기에_엔터테인먼트_협회 "wikilink")        | 골드\[32\]                              |
+| [캐나다](https://ko.wikipedia.org/wiki/뮤직_캐나다 "wikilink")               | 플래티넘\[33\]                            |
+| [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드_음반_산업_협회 "wikilink")       | 골드\[34\]                              |
+| [영국](https://ko.wikipedia.org/wiki/영국_축음기_협회 "wikilink")             | 실버\[35\]                              |
+| [미국](../Page/미국_음반_산업_협회.md "wikilink")                              | 골드\[36\]                              |
 
 ### 연간 차트
 

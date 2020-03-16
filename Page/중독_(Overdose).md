@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(Overdose\)](https://ko.wikipedia.org/wiki/_\(Overdose\)).
 
 
-《**중독 (Overdose)**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 남성 그룹 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 두 번째 [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") 앨범이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") 서울 잠실실내체육관에서 열린 '삼성뮤직과 함께 하는 EXO 컴백 쇼케이스'를 통해 타이틀곡 '중독 (Overdose)'과 뮤직 비디오를 공개했다. 그리고 엑소 전 중국인 멤버 [우이판](../Page/우이판.md "wikilink")(예명:크리스), [루한](../Page/루한.md "wikilink")의 탈퇴 전의 마지막 앨범이다.\[1\]
+《**중독 (Overdose)**》는 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹 [EXO](../Page/EXO.md "wikilink")의 두 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 앨범이다. [2014년](../Page/2014년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") 서울 잠실실내체육관에서 열린 '삼성뮤직과 함께 하는 EXO 컴백 쇼케이스'를 통해 타이틀곡 '중독 (Overdose)'과 뮤직 비디오를 공개했다. 그리고 엑소 전 중국인 멤버 [우이판](../Page/우이판.md "wikilink")(예명:크리스), [루한](../Page/루한.md "wikilink")의 탈퇴 전의 마지막 앨범이다.\[1\]
 
 ## 수록곡
 
@@ -9,14 +9,14 @@
 
 ### 판매량
 
-| 순위                                                           | 판매량                               |
-| ------------------------------------------------------------ | --------------------------------- |
-| 일본 ([오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))     | 12,562 <small>(중국어 ver.)</small>  |
-| 21,887 <small>(한국어 ver.)</small>                             |                                   |
-| 한국 (한터)                                                      | 150,000 <small>(중국어 ver.)</small> |
-| 190,600 <small>(한국어 ver.)</small>                            |                                   |
-| 한국 ([가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")) | 290,002 <small>(중국어 ver.)</small> |
-| 381,880 <small>(한국어 ver.)</small>                            |                                   |
+| 순위                                        | 판매량                               |
+| ----------------------------------------- | --------------------------------- |
+| 일본 ([오리콘](../Page/오리콘.md "wikilink"))     | 12,562 <small>(중국어 ver.)</small>  |
+| 21,887 <small>(한국어 ver.)</small>          |                                   |
+| 한국 (한터)                                   | 150,000 <small>(중국어 ver.)</small> |
+| 190,600 <small>(한국어 ver.)</small>         |                                   |
+| 한국 ([가온 차트](../Page/가온_차트.md "wikilink")) | 290,002 <small>(중국어 ver.)</small> |
+| 381,880 <small>(한국어 ver.)</small>         |                                   |
 
 ### 발매일
 

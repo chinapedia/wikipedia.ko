@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  K ](https://ko.wikipedia.org/wiki/__K_).
 
 
-**삼성 갤럭시 K 줌**(Samsung GALAXY K zoom)은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")으로, [갤럭시 S4 줌의](https://ko.wikipedia.org/wiki/갤럭시_S4_줌 "wikilink") 후속 제품이다.
+**삼성 갤럭시 K 줌**(Samsung GALAXY K zoom)은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [갤럭시 S4 줌의](https://ko.wikipedia.org/wiki/갤럭시_S4_줌 "wikilink") 후속 제품이다.
 
 2014년 4월 29일 공개하여\[1\], 2014년 5월 31일 출시했다.\[2\]
 
@@ -33,7 +33,7 @@
 
 #### 갤럭시 줌 2 (SM-C115L)
 
-[LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink")를 통해 출시되었다.
+[LG유플러스](../Page/LG유플러스.md "wikilink")를 통해 출시되었다.
 
 ###
 

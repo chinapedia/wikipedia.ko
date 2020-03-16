@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FACE to Face](https://ko.wikipedia.org/wiki/FACE_to_Face).
 
 
-〈**FACE to Face**〉는, [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN "wikilink")의 21번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**FACE to Face**〉는, [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 21번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -42,7 +42,7 @@
 <!-- end list -->
 
 1.  **FACE to Face**
-2.  **FLASH**（Vocal: [JUNNOSUKE TAGUCHI](https://ko.wikipedia.org/wiki/다구치_준노스케 "wikilink")）
+2.  **FLASH**（Vocal: [JUNNOSUKE TAGUCHI](../Page/다구치_준노스케.md "wikilink")）
       -
         작사: Junnosuke Taguchi / 작곡: Daniel Sherman, Andy Gilbert, Claire Rodrigues / 편곡: Daniel Sherman, Andy Gilbert, TAKAROT
 
@@ -66,7 +66,7 @@
       -
         작사·작곡: Laika Leon / 편곡: Billy Marx Jr.
     <!-- end list -->
-      - [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 프로 야구 중계 《Dramatic Game 1844》 이미지 송
+      - [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 계열 프로 야구 중계 《Dramatic Game 1844》 이미지 송
       - 닛폰 TV 계열 《Going\! Sports & News》 테마 송
 3.  **あの日のまま** / <small>**그날 그대로**</small>
       -

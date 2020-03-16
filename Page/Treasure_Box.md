@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Treasure Box](https://ko.wikipedia.org/wiki/Treasure_Box).
 
 
-***Treasure Box***는 대한민국 아이돌 [티아라의](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink") 2번째 일본 정규 음반이다.
+***Treasure Box***는 대한민국 아이돌 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 2번째 일본 정규 음반이다.
 
 ## 발매
 
@@ -22,10 +22,10 @@
 3.  Bunny Style\!
 4.  Deja-vu (일본 신곡)
 5.  처음처럼 (Japanese ver.) (Like The First Time)
-6.  Sign ([소연과](https://ko.wikipedia.org/wiki/소연_\(가수\) "wikilink") [아름의](https://ko.wikipedia.org/wiki/한아름_\(1994년\) "wikilink") 유닛곡)
-7.  비눗방울의 행방 (Soap Bubbles) ([보람](https://ko.wikipedia.org/wiki/보람 "wikilink")과 [큐리](https://ko.wikipedia.org/wiki/큐리 "wikilink")의 유닛곡)
-8.  Dangerous love ([은정과](https://ko.wikipedia.org/wiki/은정_\(가수\) "wikilink") [효민](https://ko.wikipedia.org/wiki/효민 "wikilink")과 [지연의](../Page/지연_\(가수\).md "wikilink") 유닛곡)
-9.  [DAY BY DAY](https://ko.wikipedia.org/wiki/DAY_BY_DAY_\(EP\) "wikilink") (Japanese ver.)
+6.  Sign ([소연과](https://ko.wikipedia.org/wiki/소연_\(가수\) "wikilink") [아름의](../Page/한아름_\(1994년\).md "wikilink") 유닛곡)
+7.  비눗방울의 행방 (Soap Bubbles) ([보람](../Page/보람.md "wikilink")과 [큐리](../Page/큐리.md "wikilink")의 유닛곡)
+8.  Dangerous love ([은정과](../Page/은정_\(가수\).md "wikilink") [효민](../Page/효민.md "wikilink")과 [지연의](../Page/지연_\(가수\).md "wikilink") 유닛곡)
+9.  [DAY BY DAY](../Page/DAY_BY_DAY_\(EP\).md "wikilink") (Japanese ver.)
 10. Beautiful Sniper (일본 신곡)
 11. Target
 12. Bye Bye (Japanese ver.)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [In Fact](https://ko.wikipedia.org/wiki/In_Fact).
 
 
-〈**In Fact**〉는, [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN "wikilink")의 22번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**In Fact**〉는, [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 22번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -19,12 +19,12 @@
       -
         작사: miyakei, KAHLUA / 작곡: pinkcastar, TKMZ / 편곡: TKMZ, DREADSTORE COWBOY
     <!-- end list -->
-      - [후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 드라마 《[퍼스트 클래스](../Page/퍼스트_클래스_\(드라마\).md "wikilink")》 주제가
+      - [후지 TV](../Page/후지_TV.md "wikilink") 계열 드라마 《[퍼스트 클래스](../Page/퍼스트_클래스_\(드라마\).md "wikilink")》 주제가
 2.  **Believe In Myself**
       -
         작사·작곡: Laika Leon / 편곡: Eiji Kawai
     <!-- end list -->
-      - [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 프로 야구 중계 《Dramatic Game 1844》 이미지 송
+      - [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 계열 프로 야구 중계 《Dramatic Game 1844》 이미지 송
       - 닛폰 TV 계열 《Going\! Sports & News》 테마 송
 
 <!-- end list -->

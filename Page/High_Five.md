@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [High Five](https://ko.wikipedia.org/wiki/High_Five).
 
 
-〈**High Five**〉는, [나카야마 유마의](https://ko.wikipedia.org/wiki/나카야마_유마 "wikilink") 2번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**High Five**〉는, [나카야마 유마의](../Page/나카야마_유마.md "wikilink") 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 수록곡
 
@@ -27,7 +27,7 @@
 
     <!-- end list -->
 
-      - [토카이 TV](https://ko.wikipedia.org/wiki/도카이_TV "wikilink")·[후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열 드라마 《천국의 사랑》 엔딩 테마
+      - [토카이 TV](../Page/도카이_TV.md "wikilink")·[후지 TV](../Page/후지_TV.md "wikilink") 계열 드라마 《천국의 사랑》 엔딩 테마
 
 3.  High Five
 

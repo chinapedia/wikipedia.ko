@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Yak-15](https://ko.wikipedia.org/wiki/_Yak-15).
 
 
-**야코블레프 Yak-15**(Yakovlev Yak-15)[나토 별칭](https://ko.wikipedia.org/wiki/나토_별칭 "wikilink"): Feather 1세대 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink") 제트 [전투기](https://ko.wikipedia.org/wiki/전투기 "wikilink")로서 융커스 [Jumo 004엔진을](https://ko.wikipedia.org/wiki/Jumo_004 "wikilink") 시험하기 위해 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")의 [Saab 21R과](https://ko.wikipedia.org/wiki/Saab_21R "wikilink") 함께 성공적으로 피스톤 구동 항공기에서 변환 및 생산을 할 두 전투기 중 하나였다. 1947년에 280여대가 생산되었다
+**야코블레프 Yak-15**(Yakovlev Yak-15)[나토 별칭](https://ko.wikipedia.org/wiki/나토_별칭 "wikilink"): Feather 1세대 [소련](../Page/소련.md "wikilink") 제트 [전투기](https://ko.wikipedia.org/wiki/전투기 "wikilink")로서 융커스 [Jumo 004엔진을](https://ko.wikipedia.org/wiki/Jumo_004 "wikilink") 시험하기 위해 [스웨덴](../Page/스웨덴.md "wikilink")의 [Saab 21R과](https://ko.wikipedia.org/wiki/Saab_21R "wikilink") 함께 성공적으로 피스톤 구동 항공기에서 변환 및 생산을 할 두 전투기 중 하나였다. 1947년에 280여대가 생산되었다
 
 ## 설계 및 계발
 

@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-[FC 서울 아카데미는](../Page/FC_서울_아카데미.md "wikilink") [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") [유스 시스템에](https://ko.wikipedia.org/wiki/유스_시스템 "wikilink") 의해 프로 선수 육성 개념으로 운영되는 각급 유소년팀([U-18팀](https://ko.wikipedia.org/wiki/오산고등학교_\(서울\)_축구부 "wikilink"), [U-15팀](https://ko.wikipedia.org/wiki/오산중학교_\(서울\)_축구부 "wikilink"), [U-12팀](https://ko.wikipedia.org/wiki/FC_서울_U-12팀 "wikilink")) 그리고 축구 저변 확대 개념으로 운영되는 유소년 축구교실인 [Future of FC 서울을](https://ko.wikipedia.org/wiki/Future_of_FC_서울 "wikilink") 말한다.\[1\]
+[FC 서울 아카데미는](../Page/FC_서울_아카데미.md "wikilink") [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") [유스 시스템에](https://ko.wikipedia.org/wiki/유스_시스템 "wikilink") 의해 프로 선수 육성 개념으로 운영되는 각급 유소년팀([U-18팀](https://ko.wikipedia.org/wiki/오산고등학교_\(서울\)_축구부 "wikilink"), [U-15팀](https://ko.wikipedia.org/wiki/오산중학교_\(서울\)_축구부 "wikilink"), [U-12팀](https://ko.wikipedia.org/wiki/FC_서울_U-12팀 "wikilink")) 그리고 축구 저변 확대 개념으로 운영되는 유소년 축구교실인 [Future of FC 서울을](../Page/Future_of_FC_서울.md "wikilink") 말한다.\[1\]
 
 ## 역사
 
-2000년대 초반까지 대부분의 [K리그](https://ko.wikipedia.org/wiki/K리그 "wikilink") 클럽들과 마찬가지로 [유스 시스템을](https://ko.wikipedia.org/wiki/유스_시스템 "wikilink") 구축하지 못한 채 연고지 지명 고등학교을 두고 [드래프트에서](https://ko.wikipedia.org/wiki/K리그_드래프트 "wikilink") 연고지명으로 고등학교 선수들을 선발하고 취미 목적의 유소년 축구교실을 운영하는 수준이었다.
+2000년대 초반까지 대부분의 [K리그](../Page/K리그.md "wikilink") 클럽들과 마찬가지로 [유스 시스템을](https://ko.wikipedia.org/wiki/유스_시스템 "wikilink") 구축하지 못한 채 연고지 지명 고등학교을 두고 [드래프트에서](../Page/K리그_드래프트.md "wikilink") 연고지명으로 고등학교 선수들을 선발하고 취미 목적의 유소년 축구교실을 운영하는 수준이었다.
 
-2001 시즌을 마지막으로 [드래프트가](https://ko.wikipedia.org/wiki/K리그_드래프트 "wikilink") 폐지되고 [자유계약선수제도](https://ko.wikipedia.org/wiki/자유계약선수제도 "wikilink")가 시행되자 2002 시즌부터 2005 시즌 동안\[2\] [이청용](https://ko.wikipedia.org/wiki/이청용 "wikilink"), [송진형](https://ko.wikipedia.org/wiki/송진형 "wikilink"), [고명진](https://ko.wikipedia.org/wiki/고명진 "wikilink"), [안상현](https://ko.wikipedia.org/wiki/안상현 "wikilink"), [한동원](https://ko.wikipedia.org/wiki/한동원 "wikilink"), [기성용](https://ko.wikipedia.org/wiki/기성용 "wikilink")\[3\] 등의 10대 선수들을 영입하여 [2군에서](../Page/FC_서울_2군.md "wikilink") 체계적인 훈련을 거쳐 1군 선수로 성장 시키기도 하였지만 체계적인 유스 시스템에 의한 성과는 아니었다.
+2001 시즌을 마지막으로 [드래프트가](../Page/K리그_드래프트.md "wikilink") 폐지되고 [자유계약선수제도](../Page/자유계약선수제도.md "wikilink")가 시행되자 2002 시즌부터 2005 시즌 동안\[2\] [이청용](https://ko.wikipedia.org/wiki/이청용 "wikilink"), [송진형](../Page/송진형.md "wikilink"), [고명진](../Page/고명진.md "wikilink"), [안상현](../Page/안상현.md "wikilink"), [한동원](../Page/한동원.md "wikilink"), [기성용](../Page/기성용.md "wikilink")\[3\] 등의 10대 선수들을 영입하여 [2군에서](../Page/FC_서울_2군.md "wikilink") 체계적인 훈련을 거쳐 1군 선수로 성장 시키기도 하였지만 체계적인 유스 시스템에 의한 성과는 아니었다.
 
-2006년 말 축구 명문 [동북고등학교와](https://ko.wikipedia.org/wiki/동북고등학교_축구부 "wikilink") 협약을 맺고 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")부터 FC 서울에서 직접 U-18팀을 운영하며\[4\]본격적인 유스 시스템 구축에 첫발을 내딛게 된다.\[5\]
+2006년 말 축구 명문 [동북고등학교와](../Page/동북고등학교_축구부.md "wikilink") 협약을 맺고 [2007년](../Page/2007년.md "wikilink")부터 FC 서울에서 직접 U-18팀을 운영하며\[4\]본격적인 유스 시스템 구축에 첫발을 내딛게 된다.\[5\]
 
-유스 시스템을 강화하고자 2012년 2월 미래기획단이라는 조직을 신설하여 [최순호](https://ko.wikipedia.org/wiki/최순호 "wikilink") 전 [강원 FC](https://ko.wikipedia.org/wiki/강원_FC "wikilink") 감독을 단장으로 선임하였으며\[6\][동북고등학교와의](https://ko.wikipedia.org/wiki/동북고등학교_축구부 "wikilink") 계약을 종료하고 2012년 8월 28일 [오산고등학교 축구부와](https://ko.wikipedia.org/wiki/오산고등학교_축구부_\(서울\) "wikilink") [오산중학교 축구부와](https://ko.wikipedia.org/wiki/오산중학교_축구부_\(서울\) "wikilink") 새롭게 협약을 체결하고\[7\] 그 해 12월 U-18팀, U-16팀, U-14팀을 창단하였다.\[8\]\[9\]
+유스 시스템을 강화하고자 2012년 2월 미래기획단이라는 조직을 신설하여 [최순호](../Page/최순호.md "wikilink") 전 [강원 FC](../Page/강원_FC.md "wikilink") 감독을 단장으로 선임하였으며\[6\][동북고등학교와의](../Page/동북고등학교_축구부.md "wikilink") 계약을 종료하고 2012년 8월 28일 [오산고등학교 축구부와](https://ko.wikipedia.org/wiki/오산고등학교_축구부_\(서울\) "wikilink") [오산중학교 축구부와](https://ko.wikipedia.org/wiki/오산중학교_축구부_\(서울\) "wikilink") 새롭게 협약을 체결하고\[7\] 그 해 12월 U-18팀, U-16팀, U-14팀을 창단하였다.\[8\]\[9\]
 
-U-12팀에 부문에서는 전문적인 U-12팀을 두지 않은 채 **리틀 FC 서울**이라는 이름의 유소년 축구교실을 운영하였으며 2012년 10월 **[Future of FC 서울](https://ko.wikipedia.org/wiki/Future_of_FC_서울 "wikilink")**로 개명 후 확대 운영을 하였다. 또한 Future of FC 서울은 매년 K리그 U-12 유소년 클럽 캠프에 참가하였으며 프로반은 [대한축구협회](https://ko.wikipedia.org/wiki/대한축구협회 "wikilink")가 주관하는 [전국 초중고 축구리그에](https://ko.wikipedia.org/wiki/전국_초중고_축구리그 "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")부터 참가하였다.
+U-12팀에 부문에서는 전문적인 U-12팀을 두지 않은 채 **리틀 FC 서울**이라는 이름의 유소년 축구교실을 운영하였으며 2012년 10월 **[Future of FC 서울](../Page/Future_of_FC_서울.md "wikilink")**로 개명 후 확대 운영을 하였다. 또한 Future of FC 서울은 매년 K리그 U-12 유소년 클럽 캠프에 참가하였으며 프로반은 [대한축구협회](../Page/대한축구협회.md "wikilink")가 주관하는 [전국 초중고 축구리그에](../Page/전국_초중고_축구리그.md "wikilink") [2010년](../Page/2010년.md "wikilink")부터 참가하였다.
 
-2014년 12월 [Future of FC 서울](https://ko.wikipedia.org/wiki/Future_of_FC_서울 "wikilink") 회원들과 지원자를 대상으로 선수 선발과 동시에 [FC 서울 U-12팀을](https://ko.wikipedia.org/wiki/FC_서울_U-12팀 "wikilink") 창단하여 [유스 시스템](https://ko.wikipedia.org/wiki/유스_시스템 "wikilink") 구축을 완료하였다.
+2014년 12월 [Future of FC 서울](../Page/Future_of_FC_서울.md "wikilink") 회원들과 지원자를 대상으로 선수 선발과 동시에 [FC 서울 U-12팀을](https://ko.wikipedia.org/wiki/FC_서울_U-12팀 "wikilink") 창단하여 [유스 시스템](https://ko.wikipedia.org/wiki/유스_시스템 "wikilink") 구축을 완료하였다.
 
 ## 코칭스태프
 
@@ -30,7 +30,7 @@ U-12팀에 부문에서는 전문적인 U-12팀을 두지 않은 채 **리틀 FC
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_(서울)_축구부" title="wikilink">U-18팀</a> 감독</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/차두리" title="wikilink">차두리</a></p></td>
+<td><p><a href="../Page/차두리.md" title="wikilink">차두리</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -40,7 +40,7 @@ U-12팀에 부문에서는 전문적인 U-12팀을 두지 않은 채 **리틀 FC
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_(서울)_축구부" title="wikilink">U-18팀</a> 골키퍼 코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원종덕" title="wikilink">원종덕</a></p></td>
+<td><p><a href="../Page/원종덕.md" title="wikilink">원종덕</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -80,7 +80,7 @@ U-12팀에 부문에서는 전문적인 U-12팀을 두지 않은 채 **리틀 FC
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울_2군과_아카데미" title="wikilink">U-12팀</a> 감독</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김병채" title="wikilink">김병채</a></p></td>
+<td><p><a href="../Page/김병채.md" title="wikilink">김병채</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -103,13 +103,13 @@ U-12팀에 부문에서는 전문적인 U-12팀을 두지 않은 채 **리틀 FC
 
 ## FC 서울 U-18팀
 
-FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부를](https://ko.wikipedia.org/wiki/오산고등학교_축구부_\(서울\) "wikilink") 운영중이며 K리그 클럽 U-18 유소년팀들의 리그인 [K리그 주니어에](https://ko.wikipedia.org/wiki/K리그_주니어 "wikilink") 참가한다.
+FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부를](https://ko.wikipedia.org/wiki/오산고등학교_축구부_\(서울\) "wikilink") 운영중이며 K리그 클럽 U-18 유소년팀들의 리그인 [K리그 주니어에](../Page/K리그_주니어.md "wikilink") 참가한다.
 
-2007년부터 2012년까지는 [동북고등학교 축구부를](https://ko.wikipedia.org/wiki/동북고등학교_축구부 "wikilink") 운영하였다.
+2007년부터 2012년까지는 [동북고등학교 축구부를](../Page/동북고등학교_축구부.md "wikilink") 운영하였다.
 
 ### 우승 기록
 
-  - **[K리그 주니어](https://ko.wikipedia.org/wiki/K리그_주니어 "wikilink")**
+  - **[K리그 주니어](../Page/K리그_주니어.md "wikilink")**
 
 <!-- end list -->
 
@@ -123,7 +123,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 
 <!-- end list -->
 
-  - **[K리그 U18 챔피언십](https://ko.wikipedia.org/wiki/K리그_유스_챔피언십 "wikilink")**
+  - **[K리그 U18 챔피언십](../Page/K리그_유스_챔피언십.md "wikilink")**
 
 <!-- end list -->
 
@@ -148,7 +148,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 ### 역대 시즌 통계
 
   - **FC 서울 U-18 기록승계**
-      - 2008–2012: [동북고등학교 축구부](https://ko.wikipedia.org/wiki/동북고등학교_축구부 "wikilink")
+      - 2008–2012: [동북고등학교 축구부](../Page/동북고등학교_축구부.md "wikilink")
       - 2013–현재: [오산고등학교 축구부](https://ko.wikipedia.org/wiki/오산고등학교_축구부_\(서울\) "wikilink")
 
 <!-- end list -->
@@ -166,7 +166,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <thead>
 <tr class="header">
 <th><p>시즌</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/K리그_주니어" title="wikilink">K리그 주니어</a></p></th>
+<th><p><a href="../Page/K리그_주니어.md" title="wikilink">K리그 주니어</a></p></th>
 <th><p>조별 리그</p></th>
 <th><p>본선<br />
 토너먼트</p></th>
@@ -331,7 +331,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <tbody>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_주니어" title="wikilink">K리그 주니어</a></p></td>
+<td><p><a href="../Page/K리그_주니어.md" title="wikilink">K리그 주니어</a></p></td>
 <td><p>4</p></td>
 <td><p><strong>3위</strong> (4강 토너먼트)</p></td>
 <td><p>1</p></td>
@@ -342,11 +342,11 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td><p>1</p></td>
 <td><p>-1</p></td>
 <td><p>N/A</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최진한" title="wikilink">최진한</a></p></td>
+<td><p><a href="../Page/최진한.md" title="wikilink">최진한</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_주니어" title="wikilink">K리그 주니어</a></p></td>
+<td><p><a href="../Page/K리그_주니어.md" title="wikilink">K리그 주니어</a></p></td>
 <td><p>2</p></td>
 <td><p><strong>우승</strong> (1-2위 결정전)</p></td>
 <td><p>1</p></td>
@@ -357,10 +357,10 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>5-3 승</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최진한" title="wikilink">최진한</a></p></td>
+<td><p><a href="../Page/최진한.md" title="wikilink">최진한</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/전국_초중고_축구리그" title="wikilink">전국고등축구리그 왕중왕전</a></p></td>
+<td><p><a href="../Page/전국_초중고_축구리그.md" title="wikilink">전국고등축구리그 왕중왕전</a></p></td>
 <td><p>64</p></td>
 <td><p>64강 (64강 토너먼트)</p></td>
 <td><p>1</p></td>
@@ -406,7 +406,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_주니어" title="wikilink">K리그 주니어</a></p></td>
+<td><p><a href="../Page/K리그_주니어.md" title="wikilink">K리그 주니어</a></p></td>
 <td><p>2</p></td>
 <td><p><strong>3위</strong> (3-4위 결정전)</p></td>
 <td><p>1</p></td>
@@ -417,10 +417,10 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td><p>0</p></td>
 <td><p>+1</p></td>
 <td><p>N/A</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이영익" title="wikilink">이영익</a></p></td>
+<td><p><a href="../Page/이영익.md" title="wikilink">이영익</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/전국_초중고_축구리그" title="wikilink">전국고등축구리그 왕중왕전</a></p></td>
+<td><p><a href="../Page/전국_초중고_축구리그.md" title="wikilink">전국고등축구리그 왕중왕전</a></p></td>
 <td><p>64</p></td>
 <td><p>64강 (64강 토너먼트)</p></td>
 <td><p>1</p></td>
@@ -436,7 +436,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_주니어" title="wikilink">K리그 주니어</a></p></td>
+<td><p><a href="../Page/K리그_주니어.md" title="wikilink">K리그 주니어</a></p></td>
 <td><p>2</p></td>
 <td><p>11위 (11-12위 결정전)</p></td>
 <td><p>1</p></td>
@@ -447,12 +447,12 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td><p>2</p></td>
 <td><p>+1</p></td>
 <td><p>N/A</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이영익" title="wikilink">이영익</a></p></td>
+<td><p><a href="../Page/이영익.md" title="wikilink">이영익</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p><small>전반기</small><br />
-<a href="https://ko.wikipedia.org/wiki/전국_초중고_축구리그" title="wikilink">전국고등축구리그 왕중왕전</a></p></td>
+<a href="../Page/전국_초중고_축구리그.md" title="wikilink">전국고등축구리그 왕중왕전</a></p></td>
 <td><p>64</p></td>
 <td><p>64강 (64강 토너먼트)</p></td>
 <td><p>1</p></td>
@@ -543,7 +543,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p><small>전반기</small><br />
-<a href="https://ko.wikipedia.org/wiki/전국_초중고_축구리그" title="wikilink">전국고등축구리그 왕중왕전</a></p></td>
+<a href="../Page/전국_초중고_축구리그.md" title="wikilink">전국고등축구리그 왕중왕전</a></p></td>
 <td><p>64</p></td>
 <td><p>64강 (64강 토너먼트)</p></td>
 <td><p>1</p></td>
@@ -628,7 +628,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
   - 4명까지 지명할 수 있었던 우선 지명 선수 인원이 2012 드래프트부터 무제한으로 늘어났다.\[10\]
   - (대) 표기는 선발은 되었지만 대학 진학 후 입단하는 선수를 의미한다.
   - (대후) 표기는 선발 후 대학에 진학하여 중퇴 및 졸업 후 입단하는 선수를 의미한다.
-  - 2013 드래프트까지는 [동북고등학교 축구부에서](https://ko.wikipedia.org/wiki/동북고등학교_축구부 "wikilink") 배출한 선수들이다.
+  - 2013 드래프트까지는 [동북고등학교 축구부에서](../Page/동북고등학교_축구부.md "wikilink") 배출한 선수들이다.
 
 <table>
 <thead>
@@ -645,8 +645,8 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2008" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/문기한" title="wikilink">문기한</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김현성_(1989년)" title="wikilink">김현성</a> (대)</p></td>
+<td><p><a href="../Page/문기한.md" title="wikilink">문기한</a></p></td>
+<td><p><a href="../Page/김현성_(1989년).md" title="wikilink">김현성</a> (대)</p></td>
 <td></td>
 <td></td>
 <td><div style="text-align: center;">
@@ -661,19 +661,19 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td></td>
 <td><div style="text-align: center;">
 <p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김현성_(1989년)" title="wikilink">김현성</a> 입단<br />
+<td><p><a href="../Page/김현성_(1989년).md" title="wikilink">김현성</a> 입단<br />
 (대후 / <a href="https://ko.wikipedia.org/wiki/2008_K리그_드래프트" title="wikilink">2008 드래프트</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2010" title="wikilink">2010</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정승용" title="wikilink">정승용</a></p></td>
+<td><p><a href="../Page/정승용.md" title="wikilink">정승용</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/송민규_(1991년생_축구_선수)" title="wikilink">송승주</a></p></td>
 <td><p><a href="../Page/이광진.md" title="wikilink">이광진</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조민우" title="wikilink">조민우</a> (대)</p></td>
+<td><p><a href="../Page/조민우.md" title="wikilink">조민우</a> (대)</p></td>
 <td><div style="text-align: center;">
 <p>4</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이윤호_(축구_선수)" title="wikilink">이윤호</a> 입단<br />
-(대후 / <a href="https://ko.wikipedia.org/wiki/2009_K리그_드래프트" title="wikilink">2009 드래프트</a>)</p></td>
+(대후 / <a href="../Page/2009_K리그_드래프트.md" title="wikilink">2009 드래프트</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2011" title="wikilink">2011</a></p></td>
@@ -687,14 +687,14 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2012" title="wikilink">2012</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김원식_(축구_선수)" title="wikilink">김원식</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장현우" title="wikilink">장현우</a></p></td>
+<td><p><a href="../Page/김원식_(축구_선수).md" title="wikilink">김원식</a></p></td>
+<td><p><a href="../Page/장현우.md" title="wikilink">장현우</a></p></td>
 <td><p><a href="../Page/주형준.md" title="wikilink">주형준</a> (대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/백철승" title="wikilink">백철승</a> (대)</p></td>
 <td><div style="text-align: center;">
 <p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조민우" title="wikilink">조민우</a> 입단<br />
-(대후 / <a href="https://ko.wikipedia.org/wiki/2010_K리그_드래프트" title="wikilink">2010 드래프트</a>)</p></td>
+<td><p><a href="../Page/조민우.md" title="wikilink">조민우</a> 입단<br />
+(대후 / <a href="../Page/2010_K리그_드래프트.md" title="wikilink">2010 드래프트</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/김학승" title="wikilink">김학승</a> (대)</p></td>
@@ -714,11 +714,11 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td><div style="text-align: center;">
 <p>7</p></td>
 <td><p><a href="../Page/김상필.md" title="wikilink">김상필</a> 입단<br />
-(대후 / <a href="https://ko.wikipedia.org/wiki/2009_K리그_드래프트" title="wikilink">2009 드래프트</a>)</p></td>
+(대후 / <a href="../Page/2009_K리그_드래프트.md" title="wikilink">2009 드래프트</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/황신영" title="wikilink">황신영</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오준혁" title="wikilink">오준혁</a> (대)</p></td>
+<td><p><a href="../Page/오준혁.md" title="wikilink">오준혁</a> (대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조원태_(축구_선수)" title="wikilink">조원태</a> (대)</p></td>
 <td></td>
 <td></td>
@@ -734,7 +734,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td><div style="text-align: center;">
 <p>6</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정동철" title="wikilink">정동철</a>, <a href="../Page/최명훈.md" title="wikilink">최명훈</a> 입단<br />
-(대후 / <a href="https://ko.wikipedia.org/wiki/2011_K리그_드래프트" title="wikilink">2011 드래프트</a>)</p></td>
+(대후 / <a href="../Page/2011_K리그_드래프트.md" title="wikilink">2011 드래프트</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/박민규_(축구_선수)" title="wikilink">박민규</a> (대)</p></td>
@@ -759,7 +759,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 
 ### 배출 유명 선수
 
-※ [FC 서울에서](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") U-18팀으로 [동북고등학교 축구부를](https://ko.wikipedia.org/wiki/동북고등학교_축구부 "wikilink") 직접 운영한 시기는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")부터 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")까지이며 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")부터는 [오산고등학교 축구부를를](https://ko.wikipedia.org/wiki/오산고등학교_\(서울\)_축구부 "wikilink") 운영중이다.
+※ [FC 서울에서](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") U-18팀으로 [동북고등학교 축구부를](../Page/동북고등학교_축구부.md "wikilink") 직접 운영한 시기는 [2007년](../Page/2007년.md "wikilink")부터 [2012년](../Page/2012년.md "wikilink")까지이며 [2013년](../Page/2013년.md "wikilink")부터는 [오산고등학교 축구부를를](https://ko.wikipedia.org/wiki/오산고등학교_\(서울\)_축구부 "wikilink") 운영중이다.
 
 <table>
 <thead>
@@ -774,7 +774,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/문기한" title="wikilink">문기한</a></p></td>
+<td><p><a href="../Page/문기한.md" title="wikilink">문기한</a></p></td>
 <td><p>2005</p></td>
 <td><p>2005–2007</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
@@ -782,7 +782,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/김현성_(1989년)" title="wikilink">김현성</a></p></td>
+<td><p><a href="../Page/김현성_(1989년).md" title="wikilink">김현성</a></p></td>
 <td><p>2005</p></td>
 <td><p>2005–2007</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
@@ -790,7 +790,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/정승용" title="wikilink">정승용</a></p></td>
+<td><p><a href="../Page/정승용.md" title="wikilink">정승용</a></p></td>
 <td><p>2007</p></td>
 <td><p>2007–2009</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
@@ -798,7 +798,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/김원식_(축구_선수)" title="wikilink">김원식</a></p></td>
+<td><p><a href="../Page/김원식_(축구_선수).md" title="wikilink">김원식</a></p></td>
 <td><p>2007</p></td>
 <td><p>2007</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
@@ -806,10 +806,10 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td><p>재학 중 <a href="https://ko.wikipedia.org/wiki/대한축구협회_우수선수_해외유학_프로젝트" title="wikilink">대한축구협회 우수선수 해외유학 프로젝트</a> 선발</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/손흥민" title="wikilink">손흥민</a></p></td>
+<td><p><a href="../Page/손흥민.md" title="wikilink">손흥민</a></p></td>
 <td><p>2008</p></td>
 <td><p>2008</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/함부르크_SV" title="wikilink">함부르크 SV</a></p></td>
+<td><p><a href="../Page/함부르크_SV.md" title="wikilink">함부르크 SV</a></p></td>
 <td><p>2010</p></td>
 <td></td>
 </tr>
@@ -819,7 +819,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td><p>2011–2013</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
 <td><p>2014</p></td>
-<td><p>입학은 <a href="https://ko.wikipedia.org/wiki/동북고등학교_축구부" title="wikilink">동북고등학교</a><br />
+<td><p>입학은 <a href="../Page/동북고등학교_축구부.md" title="wikilink">동북고등학교</a><br />
 졸업은 <a href="https://ko.wikipedia.org/wiki/오산고등학교_(서울)_축구부" title="wikilink">오산고등학교</a></p></td>
 </tr>
 <tr class="odd">
@@ -839,7 +839,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/황기욱" title="wikilink">황기욱</a></p></td>
+<td><p><a href="../Page/황기욱.md" title="wikilink">황기욱</a></p></td>
 <td><p>2012</p></td>
 <td><p>2012–2014</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
@@ -863,7 +863,7 @@ FC 서울은 U-15팀으로 2012년 12월 창단한 [오산고등학교 축구부
 
 ### 우승 기록
 
-  - **[전국중등축구리그 왕중왕전](https://ko.wikipedia.org/wiki/전국_초중고_축구리그 "wikilink")**
+  - **[전국중등축구리그 왕중왕전](../Page/전국_초중고_축구리그.md "wikilink")**
 
 <!-- end list -->
 
@@ -873,7 +873,7 @@ FC 서울은 U-15팀으로 2012년 12월 창단한 [오산고등학교 축구부
 
 <!-- end list -->
 
-  - **[K리그 U15 챔피언십](https://ko.wikipedia.org/wiki/K리그_유스_챔피언십 "wikilink")**
+  - **[K리그 U15 챔피언십](../Page/K리그_유스_챔피언십.md "wikilink")**
 
 <!-- end list -->
 
@@ -897,7 +897,7 @@ FC 서울이 자체 운영하는 U-12팀으로 2015년 1월 창단하여 [전국
 
 ### 우승 기록
 
-  - **[금석배 전국초등학생 축구대회](https://ko.wikipedia.org/wiki/금석배_전국학생_축구대회 "wikilink")**
+  - **[금석배 전국초등학생 축구대회](../Page/금석배_전국학생_축구대회.md "wikilink")**
 
 <!-- end list -->
 
@@ -909,11 +909,11 @@ FC 서울이 자체 운영하는 U-12팀으로 2015년 1월 창단하여 [전국
 
 과거 리틀 FC 서울이라는 이름으로 운영된 유소년 축구교실이 시초이며 2012년 10월 **Future of FC 서울**로 개명하였다. 2013년부터 유소년 인재 발굴과 연고지역 팬층 확대 그리고 축구교실로 인한 구단 수익 증대를 위한 대규모 프로젝트 사업으로 진행중이다.
 
-6세부터 중학교 2학년까지 남녀 누구나 가입이 가능하며 [서울월드컵경기장](https://ko.wikipedia.org/wiki/서울월드컵경기장 "wikilink") 보조경기장, 난지천공원 인조잔디 축구장, 아차산 배수지 축구장, 보라매공원 인조잔디 축구장, 상암풋살구장 등에서 강습을 하고 있으며 K리그 U-12 유소년리그 캠프에 참가하고 있다.
+6세부터 중학교 2학년까지 남녀 누구나 가입이 가능하며 [서울월드컵경기장](../Page/서울월드컵경기장.md "wikilink") 보조경기장, 난지천공원 인조잔디 축구장, 아차산 배수지 축구장, 보라매공원 인조잔디 축구장, 상암풋살구장 등에서 강습을 하고 있으며 K리그 U-12 유소년리그 캠프에 참가하고 있다.
 
 취미가 아닌 프로반도 운영중이며 프로반에서 다시 [FC 서울 U-12팀으로](https://ko.wikipedia.org/wiki/FC_서울_U-12팀 "wikilink") 스카우트되는 구조이다.
 
-2015년 1월 28일 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") 축구 꿈나무들을 대상으로 한 위탁 교육 운영 협약을 맺었다.\[11\]
+2015년 1월 28일 [중국](../Page/중국.md "wikilink") 축구 꿈나무들을 대상으로 한 위탁 교육 운영 협약을 맺었다.\[11\]
 
 ### 배출 유명 선수
 
@@ -926,8 +926,8 @@ Future of FC 서울의 전신이라 볼 수 있는 안양 LG 유소년 축구교
   - [오산고등학교 축구부](https://ko.wikipedia.org/wiki/오산고등학교_축구부_\(서울\) "wikilink")
   - [오산중학교 축구부](https://ko.wikipedia.org/wiki/오산중학교_축구부_\(서울\) "wikilink")
   - [FC 서울 U-12팀](https://ko.wikipedia.org/wiki/FC_서울_U-12팀 "wikilink")
-  - [Future of FC 서울](https://ko.wikipedia.org/wiki/Future_of_FC_서울 "wikilink")
-  - [동북고등학교 축구부](https://ko.wikipedia.org/wiki/동북고등학교_축구부 "wikilink")
+  - [Future of FC 서울](../Page/Future_of_FC_서울.md "wikilink")
+  - [동북고등학교 축구부](../Page/동북고등학교_축구부.md "wikilink")
 
 ## 각주
 

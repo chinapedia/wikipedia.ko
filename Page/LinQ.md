@@ -5,11 +5,11 @@
 
 ## 개요
 
-  - 2011년 4월 17일에 데뷔한 [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink") [후쿠오카 시를](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 거점으로 활동하는 일본의 그룹이다.
+  - 2011년 4월 17일에 데뷔한 [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카 시를](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 거점으로 활동하는 일본의 그룹이다.
 
 ## 구성원
 
-카이즈키라나([1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink")[4월 11일](https://ko.wikipedia.org/wiki/4월_11일 "wikilink")), 스즈모토리오나([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")[3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink")), 카네코미유([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")[8월 13일](https://ko.wikipedia.org/wiki/8월_13일 "wikilink")), 타카키유미([1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")[5월 7일](https://ko.wikipedia.org/wiki/5월_7일 "wikilink")), 요시카와치아키([1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")[4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink")), 아라키사쿠라([1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")[11월 14일](https://ko.wikipedia.org/wiki/11월_14일 "wikilink"))
+카이즈키라나([1998년](../Page/1998년.md "wikilink")[4월 11일](../Page/4월_11일.md "wikilink")), 스즈모토리오나([2002년](../Page/2002년.md "wikilink")[3월 21일](../Page/3월_21일.md "wikilink")), 카네코미유([2003년](../Page/2003년.md "wikilink")[8월 13일](../Page/8월_13일.md "wikilink")), 타카키유미([1997년](../Page/1997년.md "wikilink")[5월 7일](../Page/5월_7일.md "wikilink")), 요시카와치아키([1994년](../Page/1994년.md "wikilink")[4월 2일](../Page/4월_2일.md "wikilink")), 아라키사쿠라([1996년](../Page/1996년.md "wikilink")[11월 14일](../Page/11월_14일.md "wikilink"))
 
 ## 디스코그래피
 
@@ -35,7 +35,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/9월_28일" title="wikilink">9월 28일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/9월_28일.md" title="wikilink">9월 28일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/하지메마시테/for_you/나우" title="wikilink">처음 뵙겠습니다/for you/나우.</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>LINQ11-001</p></td>
@@ -49,7 +49,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>2011년 <a href="https://ko.wikipedia.org/wiki/11월_9일" title="wikilink">11월 9일</a></p></td>
+<td><p>2011년 <a href="../Page/11월_9일.md" title="wikilink">11월 9일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/칼로리난테/키모치/테오츠나이데" title="wikilink">칼로리 따위는/기분/손을 잡아</a></strong></p></td>
 <td><p>CD<br />
 CD(초회한정사양)</p></td>
@@ -58,7 +58,7 @@ TPRC-0005X</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/2월_29일" title="wikilink">2월 29일</a></p></td>
+<td><p>2012년 <a href="../Page/2월_29일.md" title="wikilink">2월 29일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/사쿠라카지츠/Sakura모노가타리" title="wikilink">사쿠라 과실/Sakura 이야기</a></strong></p></td>
 <td><p>CD<br />
 CD(초회한정사양)</p></td>
@@ -67,14 +67,14 @@ TPRC-0010X</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/7월_18일" title="wikilink">7월 18일</a></p></td>
+<td><p>2012년 <a href="../Page/7월_18일.md" title="wikilink">7월 18일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/시아와세노에너지/마츠리노요루~키미오스키니낫타히~" title="wikilink">행복의 에너지/축제의 밤(그대가 좋아진 날)</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>TPRC-0021</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/1월_30일" title="wikilink">1월 30일</a></p></td>
+<td><p>2013년 <a href="../Page/1월_30일.md" title="wikilink">1월 30일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/CHIKU-TAKU/고잉_마이_웨이!" title="wikilink">CHIKU-TAKU/고잉 마이 웨이!</a></strong></p></td>
 <td><p>CD(통상반)<br />
 CD+DVD(초회한정사양)</p></td>
@@ -82,7 +82,7 @@ CD+DVD(초회한정사양)</p></td>
 TPRC-0029</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/워너_뮤직_재팬" title="wikilink">워너 뮤직 재팬</a>(메이저 레이블)</p></td>
+<td><p><a href="../Page/워너_뮤직_재팬.md" title="wikilink">워너 뮤직 재팬</a>(메이저 레이블)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -90,7 +90,7 @@ TPRC-0029</p></td>
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/4월_17일" title="wikilink">4월 17일</a></p></td>
+<td><p>2013년 <a href="../Page/4월_17일.md" title="wikilink">4월 17일</a></p></td>
 <td><p><strong><a href="../Page/차임가오와레바.md" title="wikilink">벨소리가 끝나면</a></strong></p></td>
 <td><p>CD+DVD(초회한정반A)<br />
 CD+DVD(초회한정반B)<br />
@@ -107,14 +107,14 @@ WPCL-11396</p></td>
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/8월_7일" title="wikilink">8월 7일</a></p></td>
+<td><p>2013년 <a href="../Page/8월_7일.md" title="wikilink">8월 7일</a></p></td>
 <td><p>'''[[HANABI</p></td>
 <td><p>|HANABI</p></td>
 <td><p>]]'''</p></td>
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
-<td><p>2014년 <a href="https://ko.wikipedia.org/wiki/1월_22일" title="wikilink">1월 22일</a></p></td>
+<td><p>2014년 <a href="../Page/1월_22일.md" title="wikilink">1월 22일</a></p></td>
 <td><p><strong><a href="../Page/컬러풀데이즈.md" title="wikilink">컬러풀데이즈</a></strong></p></td>
 <td><p>CD+DVD(초회한정반A)<br />
 CD+DVD(초회한정반B)<br />
@@ -129,7 +129,7 @@ WPCL-11663</p></td>
 </tr>
 <tr class="even">
 <td><p>9th</p></td>
-<td><p>2014년 <a href="https://ko.wikipedia.org/wiki/7월_30일" title="wikilink">7월 30일</a></p></td>
+<td><p>2014년 <a href="../Page/7월_30일.md" title="wikilink">7월 30일</a></p></td>
 <td><p><strong><a href="../Page/나츠코이_(LinQ의_노래).md" title="wikilink">여름 사랑</a></strong></p></td>
 <td><p>CD(초회한정반)<br />
 CD(통상반)<br />
@@ -140,7 +140,7 @@ WPCL-11940</p></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
-<td><p>2014년 <a href="https://ko.wikipedia.org/wiki/9월_24일" title="wikilink">9월 24일</a></p></td>
+<td><p>2014년 <a href="../Page/9월_24일.md" title="wikilink">9월 24일</a></p></td>
 <td><p>'''[[웻사이</p></td>
 <td><p>갓사이</p></td>
 <td><p>|웻사이</p></td>
@@ -170,7 +170,7 @@ WPCL-11940</p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p>2012년 <a href="https://ko.wikipedia.org/wiki/4월_25일" title="wikilink">4월 25일</a></p></td>
+<td><p>2012년 <a href="../Page/4월_25일.md" title="wikilink">4월 25일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/Love_in_Qushu" title="wikilink">Love in Qushu (LinQ 제1악장)</a></strong></p></td>
 <td><p>CD(초회한정반)<br />
 CD(통상반)</p></td>
@@ -186,7 +186,7 @@ TPRC-0016</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>2014년 <a href="https://ko.wikipedia.org/wiki/3월_26일" title="wikilink">3월 26일</a></p></td>
+<td><p>2014년 <a href="../Page/3월_26일.md" title="wikilink">3월 26일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/AWAKE_(LinQ의_음반)" title="wikilink">AWAKE (LinQ 제2악장)</a></strong></p></td>
 <td><p>CD+DVD(초회한정반A)<br />
 CD+DVD(초회한정반B)<br />
@@ -202,10 +202,10 @@ WPZL-11741/2</p></td>
 
 ### 참가 음반
 
-| 발매일                                                                                                               | 제목                                                                                                                                              | 레이블                                                             | 규격 품번        | 참가 곡                  |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------ | --------------------- |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink") | **LOCAL IDOL BEST\!**                                                                                                                           | [토이스 팩토리](https://ko.wikipedia.org/wiki/토이스_팩토리 "wikilink")     | TFCC-86386   | **처음뵙겠습니다**           |
-| 2014년 3월 12일                                                                                                      | **[Mirrorball Flare + Royal Mirrorball Discotheque](https://ko.wikipedia.org/wiki/Mirrorball_Flare_+_Royal_Mirrorball_Discotheque "wikilink")** | [avex trax](https://ko.wikipedia.org/wiki/avex_trax "wikilink") | AVCD-38920〜1 | **BlueFilm**(히메사키 아미) |
+| 발매일                                                                         | 제목                                                                                                                                              | 레이블                                                             | 규격 품번        | 참가 곡                  |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------ | --------------------- |
+| [2012년](../Page/2012년.md "wikilink") [7월 18일](../Page/7월_18일.md "wikilink") | **LOCAL IDOL BEST\!**                                                                                                                           | [토이스 팩토리](../Page/토이스_팩토리.md "wikilink")                        | TFCC-86386   | **처음뵙겠습니다**           |
+| 2014년 3월 12일                                                                | **[Mirrorball Flare + Royal Mirrorball Discotheque](https://ko.wikipedia.org/wiki/Mirrorball_Flare_+_Royal_Mirrorball_Discotheque "wikilink")** | [avex trax](https://ko.wikipedia.org/wiki/avex_trax "wikilink") | AVCD-38920〜1 | **BlueFilm**(히메사키 아미) |
 
 ### 참가 작품
 

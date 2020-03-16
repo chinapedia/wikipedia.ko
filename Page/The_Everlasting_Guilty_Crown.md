@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [The Everlasting Guilty Crown](https://ko.wikipedia.org/wiki/The_Everlasting_Guilty_Crown).
 
 
-「**The Everlasting Guilty Crown**」(디 에버래스팅 길티 크라운)은 [EGOIST](../Page/EGOIST.md "wikilink")의 2매째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 7일에](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") [애니플렉스](https://ko.wikipedia.org/wiki/애니플렉스 "wikilink")로부터 발매되었다.
+「**The Everlasting Guilty Crown**」(디 에버래스팅 길티 크라운)은 [EGOIST](../Page/EGOIST.md "wikilink")의 2매째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. [2012년](../Page/2012년.md "wikilink") [3월 7일에](../Page/3월_7일.md "wikilink") [애니플렉스](../Page/애니플렉스.md "wikilink")로부터 발매되었다.
 
 ## 개요
 
-전작 「[Departures \~당신에게 보내는 사랑의 노래\~](https://ko.wikipedia.org/wiki/Departures_~당신에게_보내는_사랑의_노래~ "wikilink")」로부터 약 4개월만의 릴리스가 되는, EGOIST의 2012년 1작목의 싱글. 초회 한정반에는 표제곡과 전작의 [PV를](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 수록한 DVD가 수록되고 있다. 표제곡 「The Everlasting Guilty Crown」은, [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 「[길티 크라운](https://ko.wikipedia.org/wiki/길티_크라운 "wikilink")」의 오프닝 테마로 기용되었다. [자켓에는](https://ko.wikipedia.org/wiki/디스크_자켓 "wikilink") 전작에 이어 동작의 히로인인 유즈리하 이노리가 그려져 있다.
+전작 「[Departures \~당신에게 보내는 사랑의 노래\~](https://ko.wikipedia.org/wiki/Departures_~당신에게_보내는_사랑의_노래~ "wikilink")」로부터 약 4개월만의 릴리스가 되는, EGOIST의 2012년 1작목의 싱글. 초회 한정반에는 표제곡과 전작의 [PV를](../Page/뮤직_비디오.md "wikilink") 수록한 DVD가 수록되고 있다. 표제곡 「The Everlasting Guilty Crown」은, [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 「[길티 크라운](https://ko.wikipedia.org/wiki/길티_크라운 "wikilink")」의 오프닝 테마로 기용되었다. [자켓에는](https://ko.wikipedia.org/wiki/디스크_자켓 "wikilink") 전작에 이어 동작의 히로인인 유즈리하 이노리가 그려져 있다.
 
 ## 수록곡
 
@@ -33,9 +33,9 @@
 
 ## 수록 앨범
 
-| 악곡                           | 발매일                                                                                                               | 타이틀                                                                                                  |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| The Everlasting Guilty Crown | [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") | [Extra terrestrial Biological Entities](../Page/Extra_terrestrial_Biological_Entities.md "wikilink") |
+| 악곡                           | 발매일                                                                         | 타이틀                                                                                                  |
+| ---------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| The Everlasting Guilty Crown | [2012년](../Page/2012년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") | [Extra terrestrial Biological Entities](../Page/Extra_terrestrial_Biological_Entities.md "wikilink") |
 
 ## 각주
 

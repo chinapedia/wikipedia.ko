@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Dr.DMAT](https://ko.wikipedia.org/wiki/Dr.DMAT).
 
 
-《**Dr.DMAT\~잔해 속의 히포크라테스\~**》()는, 원작·타카노 히로시, 작화·키쿠치 아키오에 의한 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink") 작품이다.
+《**Dr.DMAT\~잔해 속의 히포크라테스\~**》()는, 원작·타카노 히로시, 작화·키쿠치 아키오에 의한 [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink") 작품이다.
 
 ## 개요
 
-근년의 도시형 [거대 지진이나](https://ko.wikipedia.org/wiki/거대지진 "wikilink") [지진 해일](https://ko.wikipedia.org/wiki/지진_해일 "wikilink"), [화재](https://ko.wikipedia.org/wiki/화재 "wikilink") 등의 현장에서 재해 의료, 이른바 〈잔해 속의 의료〉에 진력을 기울이는 〈재해 파견 의료 팀 (DMAT)〉의 분투를 리얼하게 그린 작품이다.
+근년의 도시형 [거대 지진이나](https://ko.wikipedia.org/wiki/거대지진 "wikilink") [지진 해일](https://ko.wikipedia.org/wiki/지진_해일 "wikilink"), [화재](../Page/화재.md "wikilink") 등의 현장에서 재해 의료, 이른바 〈잔해 속의 의료〉에 진력을 기울이는 〈재해 파견 의료 팀 (DMAT)〉의 분투를 리얼하게 그린 작품이다.
 
 ## 텔레비전 드라마
 
-《**Dr.DMAT**》의 타이틀로, [TBS](https://ko.wikipedia.org/wiki/도쿄_방송_홀딩스 "wikilink") 계열의 〈[목요 드라마 9](https://ko.wikipedia.org/wiki/TBS_목요일_밤_9시_드라마 "wikilink")〉 시간대에서 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 9일부터](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") [3월 20일까지](https://ko.wikipedia.org/wiki/3월_20일 "wikilink") 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 21:00 \~ 21:54에 방송되었다. 주연은 [오쿠라 타다요시](https://ko.wikipedia.org/wiki/오쿠라_타다요시 "wikilink").
+《**Dr.DMAT**》의 타이틀로, [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 계열의 〈[목요 드라마 9](../Page/TBS_목요일_밤_9시_드라마.md "wikilink")〉 시간대에서 [2014년](../Page/2014년.md "wikilink") [1월 9일부터](../Page/1월_9일.md "wikilink") [3월 20일까지](../Page/3월_20일.md "wikilink") 매주 [목요일](../Page/목요일.md "wikilink") 21:00 \~ 21:54에 방송되었다. 주연은 [오쿠라 타다요시](https://ko.wikipedia.org/wiki/오쿠라_타다요시 "wikilink").
 
 ### 캐스트
 
@@ -19,14 +19,14 @@
 
   - 야쿠모 히비키 - [오쿠라 타다요시](https://ko.wikipedia.org/wiki/오쿠라_타다요시 "wikilink") (소년 시절:아렌)
     종합 진료과 의사로, 전 구명 구급 센터 의사.
-  - 요시오카 린 - [카토 아이](https://ko.wikipedia.org/wiki/카토_아이 "wikilink")
+  - 요시오카 린 - [카토 아이](../Page/카토_아이.md "wikilink")
     구명 구급 센터 간호사.
-  - 이세자키 쿠미 - [이치카와 미카코](https://ko.wikipedia.org/wiki/이치카와_미카코 "wikilink")
+  - 이세자키 쿠미 - [이치카와 미카코](../Page/이치카와_미카코.md "wikilink")
     [뇌외과](https://ko.wikipedia.org/wiki/신경외과 "wikilink") 의사.
-  - 코소네 타츠야 - [사토 지로](https://ko.wikipedia.org/wiki/사토_지로 "wikilink")
+  - 코소네 타츠야 - [사토 지로](../Page/사토_지로.md "wikilink")
     구명 구급 센터(도쿄 ER) 의장.
   - 하세가와 쿠미코 - [아소 유미](https://ko.wikipedia.org/wiki/아소_유미 "wikilink")
-    [간호사](https://ko.wikipedia.org/wiki/간호사 "wikilink")장.
+    [간호사](../Page/간호사.md "wikilink")장.
   - 미즈노 사치코 - 타키자와 사오리
     구명 구급 센터 간호사.
 
@@ -34,7 +34,7 @@
 
 ##### 병원 관계자
 
-  - 야쿠모 하루코 - [타키모토 미오리](https://ko.wikipedia.org/wiki/타키모토_미오리 "wikilink")
+  - 야쿠모 하루코 - [타키모토 미오리](../Page/타키모토_미오리.md "wikilink")
     히비키의 여동생.
   - 무라카미 카즈시 - 홋샹.
     [외과](https://ko.wikipedia.org/wiki/외과 "wikilink")의.
@@ -51,7 +51,7 @@
 
   - 사쿠라바 슈사쿠 - 이시구로 켄
     하이퍼 레스큐의 제1소대장.
-  - 코마츠 켄지 - [타카키 유야](https://ko.wikipedia.org/wiki/타카키_유야 "wikilink") ([Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink"))
+  - 코마츠 켄지 - [타카키 유야](../Page/타카키_유야.md "wikilink") ([Hey\! Say\! JUMP](https://ko.wikipedia.org/wiki/헤이!_세이!_점프 "wikilink"))
     하이퍼 레스큐의 대원으로, 사쿠라바의 부하.
 
 #### 그 외
@@ -65,7 +65,7 @@
   - 각본 - 아나부키 이치로, 요시자와 토모코
   - 음악 - 스에히로 켄이치로
   - 연출 - 쿠라누키 켄지로, 마츠다 아야토, 호리 히데키, 후쿠다 료스케
-  - 주제가 - [칸쟈니∞](https://ko.wikipedia.org/wiki/칸쟈니∞ "wikilink") 〈울림〉 (테이치쿠 엔터테인먼트)
+  - 주제가 - [칸쟈니∞](../Page/칸쟈니∞.md "wikilink") 〈울림〉 (테이치쿠 엔터테인먼트)
   - 연출 보조 - 후쿠다 료스케, 요시무라 타케히로
   - 의료·소방 담당 - 요시무라 타케히로
   - 특수 메이크·조형 - 마츠이 유이치
@@ -186,7 +186,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>평균 시청률 6.9% (시청률은 <a href="https://ko.wikipedia.org/wiki/간토_지방" title="wikilink">칸토 지구</a>·<a href="https://ko.wikipedia.org/wiki/비디오_리서치" title="wikilink">비디오 리서치사</a> 조사)</p></td>
+<td><p>평균 시청률 6.9% (시청률은 <a href="../Page/간토_지방.md" title="wikilink">칸토 지구</a>·<a href="../Page/비디오_리서치.md" title="wikilink">비디오 리서치사</a> 조사)</p></td>
 <td></td>
 <td></td>
 <td></td>

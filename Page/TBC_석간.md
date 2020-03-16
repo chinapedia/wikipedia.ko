@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBC ](https://ko.wikipedia.org/wiki/TBC_).
 
 
-《**TBC 석간**》은 1972년 4월부터 1980년 11월 30일까지 방송되었던 [TBC](https://ko.wikipedia.org/wiki/동양방송 "wikilink")(동양방송)의 메인 뉴스 프로그램이다.
+《**TBC 석간**》은 1972년 4월부터 1980년 11월 30일까지 방송되었던 [TBC](../Page/동양방송.md "wikilink")(동양방송)의 메인 뉴스 프로그램이다.
 
 본래 TBC 석간은 생방송으로 방송되었으나 고별 방송 때는 녹화 방송으로 방송되었다. 마지막 고별 방송 당일 TBC 부산지국은 서울본사와는 별개의 지역 방송국으로서 《**TBC 고별석간**》이라는 고별 뉴스를 100% 자체 방송 프로그램 타이틀로 방송하였다.
 
@@ -11,14 +11,14 @@
 
 ## 종영 이후
 
-《TBC 석간》 종영 이후 다음날(12월 1일), [언론통폐합](https://ko.wikipedia.org/wiki/언론통폐합 "wikilink")으로 인해 TBC(동양방송)가 [KBS 2TV로](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 개편된 이후에 같은 해 12월 2일 저녁 8시에 방송되는 뉴스 프로그램인 《KBS 8시 뉴스》가 신설되었다.
+《TBC 석간》 종영 이후 다음날(12월 1일), [언론통폐합](../Page/언론통폐합.md "wikilink")으로 인해 TBC(동양방송)가 [KBS 2TV로](../Page/KBS_2TV.md "wikilink") 개편된 이후에 같은 해 12월 2일 저녁 8시에 방송되는 뉴스 프로그램인 《KBS 8시 뉴스》가 신설되었다.
 
-2011년 12월 1일에는 TBC(동양방송)의 후신인 [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")가 개국하면서 평일 뉴스는 《[JTBC 뉴스 10](https://ko.wikipedia.org/wiki/JTBC_뉴스_10 "wikilink")》이라는 명칭으로 주말 뉴스는 《[JTBC 주말뉴스](https://ko.wikipedia.org/wiki/JTBC_주말뉴스 "wikilink")》이라는 명칭으로 방송하다가 2012년 11월 5일부터 평일 뉴스의 명칭을 《[JTBC 뉴스 9](https://ko.wikipedia.org/wiki/JTBC_뉴스_9 "wikilink")》으로 변경했지만 2014년 9월 22일부터 평일 뉴스와 주말 뉴스의 명칭 모두 《[JTBC 뉴스룸](../Page/JTBC_뉴스룸.md "wikilink")》으로 변경하여 현재까지 방송되고 있다.
+2011년 12월 1일에는 TBC(동양방송)의 후신인 [JTBC](../Page/JTBC.md "wikilink")가 개국하면서 평일 뉴스는 《[JTBC 뉴스 10](https://ko.wikipedia.org/wiki/JTBC_뉴스_10 "wikilink")》이라는 명칭으로 주말 뉴스는 《[JTBC 주말뉴스](../Page/JTBC_주말뉴스.md "wikilink")》이라는 명칭으로 방송하다가 2012년 11월 5일부터 평일 뉴스의 명칭을 《[JTBC 뉴스 9](../Page/JTBC_뉴스_9.md "wikilink")》으로 변경했지만 2014년 9월 22일부터 평일 뉴스와 주말 뉴스의 명칭 모두 《[JTBC 뉴스룸](../Page/JTBC_뉴스룸.md "wikilink")》으로 변경하여 현재까지 방송되고 있다.
 
 ## 같이 보기
 
-  - [신비한TV 서프라이즈](https://ko.wikipedia.org/wiki/신비한TV_서프라이즈 "wikilink")
-  - [궁금한 이야기 Y](https://ko.wikipedia.org/wiki/궁금한_이야기_Y "wikilink")
+  - [신비한TV 서프라이즈](../Page/신비한TV_서프라이즈.md "wikilink")
+  - [궁금한 이야기 Y](../Page/궁금한_이야기_Y.md "wikilink")
 
 ## 각주
 

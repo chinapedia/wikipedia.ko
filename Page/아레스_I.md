@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ I](https://ko.wikipedia.org/wiki/_I).
 
 
-**아레스 I**(Ares I)은 취소된 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [우주발사체](https://ko.wikipedia.org/wiki/우주발사체 "wikilink")이다. [컨스텔레이션 계획의](https://ko.wikipedia.org/wiki/컨스텔레이션_계획 "wikilink") 일부로 [우주왕복선](https://ko.wikipedia.org/wiki/우주왕복선 "wikilink")이 퇴역한 뒤 유인 우주 비행을 위해 [오리온을](https://ko.wikipedia.org/wiki/오리온_\(우주선\) "wikilink") 발사하는 발사체로서 개발이 진행되었으나\[1\], 컨스텔레이션 계획이 취소되면서 아레스 I 역시 취소되었다.\[2\] 오리온은 대신 [SLS에](https://ko.wikipedia.org/wiki/우주_발사_시스템 "wikilink") 실려 발사되도록 변경되었다.\[3\] 우주왕복선과 그 이전에서 사용된 구성품들을 최대한 활용하는 방식으로 개발되었으며 유인 [지구 저궤도](https://ko.wikipedia.org/wiki/지구_저궤도 "wikilink") 탐사에 사용될 목적이었다.\[4\] 유일하게 시행된 발사는 2009년 1단 시험을 목적으로 한 아레스 I-X 뿐이다.
+**아레스 I**(Ares I)은 취소된 [미국](../Page/미국.md "wikilink")의 [우주발사체](../Page/우주발사체.md "wikilink")이다. [컨스텔레이션 계획의](../Page/컨스텔레이션_계획.md "wikilink") 일부로 [우주왕복선](../Page/우주왕복선.md "wikilink")이 퇴역한 뒤 유인 우주 비행을 위해 [오리온을](../Page/오리온_\(우주선\).md "wikilink") 발사하는 발사체로서 개발이 진행되었으나\[1\], 컨스텔레이션 계획이 취소되면서 아레스 I 역시 취소되었다.\[2\] 오리온은 대신 [SLS에](../Page/우주_발사_시스템.md "wikilink") 실려 발사되도록 변경되었다.\[3\] 우주왕복선과 그 이전에서 사용된 구성품들을 최대한 활용하는 방식으로 개발되었으며 유인 [지구 저궤도](../Page/지구_저궤도.md "wikilink") 탐사에 사용될 목적이었다.\[4\] 유일하게 시행된 발사는 2009년 1단 시험을 목적으로 한 아레스 I-X 뿐이다.
 
 ## 역사
 
-2004년 [조지 W. 부시](https://ko.wikipedia.org/wiki/조지_W._부시 "wikilink") 미국 대통령이 우주 탐사 비전(Vision for Space Exploration)을 발표한 뒤\[5\], [미 항공우주국에서는](https://ko.wikipedia.org/wiki/미_항공우주국 "wikilink") 이러한 계획을 실행하기 위한 체계 연구인 탐사 체계 구조 연구(Exploration Systems Architecture Study)를 수행하였다. 이 연구에서 나중에 [오리온으로](https://ko.wikipedia.org/wiki/오리온_\(우주선\) "wikilink") 이름붙여질 CEV(Crew Exploration Vehicle)을 발사할 유인발사체와 달 탐사에 필요한 화물을 발사할 발사체 후보로 다양한 [EELV](https://ko.wikipedia.org/wiki/EELV "wikilink") 개량형과 [셔틀](https://ko.wikipedia.org/wiki/우주왕복선 "wikilink") 파생형을 비교한 결과 셔틀 파생형을 선정하였다. 당시 결정에 따르면 아레스 I은 1단으로 기존의 4개 세그먼트(segment)를 결합한 [SRB](https://ko.wikipedia.org/wiki/SRB "wikilink")를 사용하고 2단에는 [SSME](https://ko.wikipedia.org/wiki/SSME "wikilink") 1기를 사용할 예정이었다.\[6\] 그러나 이는 나중에 5개 세그먼트를 사용하는 개량된 1단과 [J-2](https://ko.wikipedia.org/wiki/J-2 "wikilink")X 1개를 사용하는 2단을 사용하기로 변경되었다.\[7\] 이에 따라 1단의 제작사로는 [얼라이언트 테크시스템즈가](https://ko.wikipedia.org/wiki/얼라이언트_테크시스템즈 "wikilink")\[8\], 2단 엔진인 J-2X의 제작사로는 [로켓다인가](https://ko.wikipedia.org/wiki/프랫_앤_휘트니 "wikilink") 선정되어 개발에 들어갔다\[9\]. 보잉은 아레스 I의 2단 제작을 맡았다.\[10\]
+2004년 [조지 W. 부시](../Page/조지_W._부시.md "wikilink") 미국 대통령이 우주 탐사 비전(Vision for Space Exploration)을 발표한 뒤\[5\], [미 항공우주국에서는](https://ko.wikipedia.org/wiki/미_항공우주국 "wikilink") 이러한 계획을 실행하기 위한 체계 연구인 탐사 체계 구조 연구(Exploration Systems Architecture Study)를 수행하였다. 이 연구에서 나중에 [오리온으로](../Page/오리온_\(우주선\).md "wikilink") 이름붙여질 CEV(Crew Exploration Vehicle)을 발사할 유인발사체와 달 탐사에 필요한 화물을 발사할 발사체 후보로 다양한 [EELV](https://ko.wikipedia.org/wiki/EELV "wikilink") 개량형과 [셔틀](../Page/우주왕복선.md "wikilink") 파생형을 비교한 결과 셔틀 파생형을 선정하였다. 당시 결정에 따르면 아레스 I은 1단으로 기존의 4개 세그먼트(segment)를 결합한 [SRB](https://ko.wikipedia.org/wiki/SRB "wikilink")를 사용하고 2단에는 [SSME](https://ko.wikipedia.org/wiki/SSME "wikilink") 1기를 사용할 예정이었다.\[6\] 그러나 이는 나중에 5개 세그먼트를 사용하는 개량된 1단과 [J-2](https://ko.wikipedia.org/wiki/J-2 "wikilink")X 1개를 사용하는 2단을 사용하기로 변경되었다.\[7\] 이에 따라 1단의 제작사로는 [얼라이언트 테크시스템즈가](https://ko.wikipedia.org/wiki/얼라이언트_테크시스템즈 "wikilink")\[8\], 2단 엔진인 J-2X의 제작사로는 [로켓다인가](https://ko.wikipedia.org/wiki/프랫_앤_휘트니 "wikilink") 선정되어 개발에 들어갔다\[9\]. 보잉은 아레스 I의 2단 제작을 맡았다.\[10\]
 
-하지만 개발 과정에서 다양한 난항이 있었다. 개발에 필요한 예산은 일관성이 없었고 불충분해 개발 기간과 비용 상승을 불러왔다.\[11\] 1단의 진동 문제로 대표되는 기술적 문제는 개발 도중에 발목을 잡았다.\[12\] 초기운용능력 획득시기는 처음의 2012년에서 수 차례 연기를 반복한 끝에 의회에 약속했던 최대 기한인 2015년까지 연기되었으며, 연기한 뒤에도 일정은 계속해서 압박을 받았다.\[13\] 결국 2010년 오바마 행정부에 의해 컨스텔레이션 계획이 취소되면서\[14\] 아레스 I의 개발 역시 취소되었다. 아레스 I 대신 오리온을 발사할 새로운 발사체로 [SLS가](https://ko.wikipedia.org/wiki/우주_발사_시스템 "wikilink") 2017년까지 개발될 예정이다.\[15\]
+하지만 개발 과정에서 다양한 난항이 있었다. 개발에 필요한 예산은 일관성이 없었고 불충분해 개발 기간과 비용 상승을 불러왔다.\[11\] 1단의 진동 문제로 대표되는 기술적 문제는 개발 도중에 발목을 잡았다.\[12\] 초기운용능력 획득시기는 처음의 2012년에서 수 차례 연기를 반복한 끝에 의회에 약속했던 최대 기한인 2015년까지 연기되었으며, 연기한 뒤에도 일정은 계속해서 압박을 받았다.\[13\] 결국 2010년 오바마 행정부에 의해 컨스텔레이션 계획이 취소되면서\[14\] 아레스 I의 개발 역시 취소되었다. 아레스 I 대신 오리온을 발사할 새로운 발사체로 [SLS가](../Page/우주_발사_시스템.md "wikilink") 2017년까지 개발될 예정이다.\[15\]
 
 ## 설계
 
@@ -19,13 +19,13 @@
 
 ### 2단
 
-아레스 I의 2단은 액체수소와 액체산소를 사용하는 J-2X 엔진에 의해 추진된다. 2단의 길이는 25.6 m, 직경은 5.5 m이고, 총 156 t 중 138 t이 추진체이고 나머지 17.5 t이 엔진과 추진체 탱크, 기타 질량이다. 알루미늄-리튬 합금으로 만들어지며 항공전자 시스템 역시 탑재된다. 탑재되는 J-2X 엔진은 [새턴 V에](https://ko.wikipedia.org/wiki/새턴_V "wikilink") 사용되었던 J-2 엔진을 개량한 것으로, 약 133 t의 진공추력에 448초의 비추력을 가진다.\[18\]
+아레스 I의 2단은 액체수소와 액체산소를 사용하는 J-2X 엔진에 의해 추진된다. 2단의 길이는 25.6 m, 직경은 5.5 m이고, 총 156 t 중 138 t이 추진체이고 나머지 17.5 t이 엔진과 추진체 탱크, 기타 질량이다. 알루미늄-리튬 합금으로 만들어지며 항공전자 시스템 역시 탑재된다. 탑재되는 J-2X 엔진은 [새턴 V에](../Page/새턴_V.md "wikilink") 사용되었던 J-2 엔진을 개량한 것으로, 약 133 t의 진공추력에 448초의 비추력을 가진다.\[18\]
 
 ## 더 보기
 
-  - [컨스텔레이션 계획](https://ko.wikipedia.org/wiki/컨스텔레이션_계획 "wikilink")
-  - [오리온 (우주선)](https://ko.wikipedia.org/wiki/오리온_\(우주선\) "wikilink")
-  - [아레스 V](https://ko.wikipedia.org/wiki/아레스_V "wikilink")
+  - [컨스텔레이션 계획](../Page/컨스텔레이션_계획.md "wikilink")
+  - [오리온 (우주선)](../Page/오리온_\(우주선\).md "wikilink")
+  - [아레스 V](../Page/아레스_V.md "wikilink")
 
 ## 각주
 

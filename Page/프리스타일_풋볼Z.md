@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ Z](https://ko.wikipedia.org/wiki/_Z).
 
 
-**프리스타일 풋볼Z**()은 [조이시티가](https://ko.wikipedia.org/wiki/조이시티_\(기업\) "wikilink") 제작한 스포츠 [온라인 게임이다](https://ko.wikipedia.org/wiki/온라인_게임 "wikilink"). 프리스타일 시리즈의 4번째 시리즈이기도 하다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 22일에](https://ko.wikipedia.org/wiki/5월_22일 "wikilink") CBT를 시작하였다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 3일](https://ko.wikipedia.org/wiki/6월_3일 "wikilink") 15:00(KST) 시에 OBT를 시작하였다.
+**프리스타일 풋볼Z**()은 [조이시티가](../Page/조이시티_\(기업\).md "wikilink") 제작한 스포츠 [온라인 게임이다](../Page/온라인_게임.md "wikilink"). 프리스타일 시리즈의 4번째 시리즈이기도 하다. [2014년](../Page/2014년.md "wikilink") [5월 22일에](../Page/5월_22일.md "wikilink") CBT를 시작하였다. [2014년](../Page/2014년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") 15:00(KST) 시에 OBT를 시작하였다.
 
 ## OBT
 
-[2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [6월 3일](https://ko.wikipedia.org/wiki/6월_3일 "wikilink") (화) 15:00(KST) 시에 OBT를 시작하였다.
+[2014년](../Page/2014년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") (화) 15:00(KST) 시에 OBT를 시작하였다.
 
 ## 기본 방식
 

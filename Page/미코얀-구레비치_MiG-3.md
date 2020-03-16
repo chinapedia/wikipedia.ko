@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [- MiG-3](https://ko.wikipedia.org/wiki/-_MiG-3).
 
 
-**미코얀-구레비치 MiG-3**(Mikoyan-Gurevich MiG-3)은 [제2차세계대전](https://ko.wikipedia.org/wiki/제2차세계대전 "wikilink") 당시 [MiG-1을](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-1 "wikilink") 기본으로 하여 고도 활용을 위해 과급기를 붙인 수냉식 엔진인 미클린 AM-35A를 장착한 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")의 [미코얀-구레비치](https://ko.wikipedia.org/wiki/미코얀-구레비치 "wikilink") 설계국이 개발한 [소련 공군의](https://ko.wikipedia.org/wiki/소련_공군 "wikilink") 고도전투기 용도로 개발된 고속전투기이다.
+**미코얀-구레비치 MiG-3**(Mikoyan-Gurevich MiG-3)은 [제2차세계대전](https://ko.wikipedia.org/wiki/제2차세계대전 "wikilink") 당시 [MiG-1을](../Page/미코얀-구레비치_MiG-1.md "wikilink") 기본으로 하여 고도 활용을 위해 과급기를 붙인 수냉식 엔진인 미클린 AM-35A를 장착한 [소련](../Page/소련.md "wikilink")의 [미코얀-구레비치](https://ko.wikipedia.org/wiki/미코얀-구레비치 "wikilink") 설계국이 개발한 [소련 공군의](https://ko.wikipedia.org/wiki/소련_공군 "wikilink") 고도전투기 용도로 개발된 고속전투기이다.
 
 ## 설계 및 개발
 
-MIG-3는 [MiG-1을](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-1 "wikilink") 대체한 전투기 로서 MIG-3는 [MiG-1과](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-1 "wikilink") 유사한 구조를 가졌다 일단 단엽,단좌,저익기였고,인입식 착륙장치를 갖추었고 더욱강화된 수랭식 AM-35A 엔진을 탑재했고,외부연료 탱크를 추가로 탑재할수 있었다 그 때문에 [MiG-1에](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-1 "wikilink") 비해 전투 행동 반경이 증가하게되었으며. 시야를 확보하기 위해 조종석의 창문(캐노피)을 넓히고,주익,그리고,프로펠러를 개량한 파생형이 이어졌다.
+MIG-3는 [MiG-1을](../Page/미코얀-구레비치_MiG-1.md "wikilink") 대체한 전투기 로서 MIG-3는 [MiG-1과](../Page/미코얀-구레비치_MiG-1.md "wikilink") 유사한 구조를 가졌다 일단 단엽,단좌,저익기였고,인입식 착륙장치를 갖추었고 더욱강화된 수랭식 AM-35A 엔진을 탑재했고,외부연료 탱크를 추가로 탑재할수 있었다 그 때문에 [MiG-1에](../Page/미코얀-구레비치_MiG-1.md "wikilink") 비해 전투 행동 반경이 증가하게되었으며. 시야를 확보하기 위해 조종석의 창문(캐노피)을 넓히고,주익,그리고,프로펠러를 개량한 파생형이 이어졌다.
 
 ## 파생형
 

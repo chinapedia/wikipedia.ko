@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mlily   vs  10](https://ko.wikipedia.org/wiki/Mlily___vs__10).
 
 
-**Mlily 몽백합 이세돌 vs 구리 10번기**(-夢百合 李世乭 古力 十番棋)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [이세돌](https://ko.wikipedia.org/wiki/이세돌 "wikilink")과 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")의 [구리가](https://ko.wikipedia.org/wiki/구리_\(바둑_기사\) "wikilink") 대결하는 장쑤헝캉가구회사 주최의 [바둑](https://ko.wikipedia.org/wiki/바둑 "wikilink") 기전이다. [10번기](https://ko.wikipedia.org/wiki/10번기 "wikilink")로 치러진다. **세기의 대결**이라고도 한다. [충칭 시에서](https://ko.wikipedia.org/wiki/충칭_시 "wikilink") 열린 제8국에서 이세돌이 승리함으로써 최종전적 6:2로 상금 500만 위안(한화 약 8억 5천만원)을 가져갔다.
+**Mlily 몽백합 이세돌 vs 구리 10번기**(-夢百合 李世乭 古力 十番棋)는 [대한민국](../Page/대한민국.md "wikilink")의 [이세돌](../Page/이세돌.md "wikilink")과 [중국](../Page/중국.md "wikilink")의 [구리가](../Page/구리_\(바둑_기사\).md "wikilink") 대결하는 장쑤헝캉가구회사 주최의 [바둑](../Page/바둑.md "wikilink") 기전이다. [10번기](https://ko.wikipedia.org/wiki/10번기 "wikilink")로 치러진다. **세기의 대결**이라고도 한다. [충칭 시에서](https://ko.wikipedia.org/wiki/충칭_시 "wikilink") 열린 제8국에서 이세돌이 승리함으로써 최종전적 6:2로 상금 500만 위안(한화 약 8억 5천만원)을 가져갔다.
 
 ## 상금
 
@@ -33,7 +33,7 @@
 <tr class="odd">
 <td><p>제1국</p></td>
 <td><p>2014년 1월 26일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a> <a href="https://ko.wikipedia.org/wiki/베이징" title="wikilink">베이징</a></p></td>
+<td><p><a href="../Page/중국.md" title="wikilink">중국</a> <a href="https://ko.wikipedia.org/wiki/베이징" title="wikilink">베이징</a></p></td>
 <td><p>구리</p></td>
 <td><p><strong>이세돌</strong></p></td>
 <td><p>251수 흑 불계승</p></td>
@@ -60,7 +60,7 @@
 <tr class="even">
 <td><p>제4국</p></td>
 <td><p>2014년 4월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/신안군" title="wikilink">신안군</a> 증도</p></td>
+<td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="../Page/신안군.md" title="wikilink">신안군</a> 증도</p></td>
 <td><p>이세돌</p></td>
 <td><p><strong>구리</strong></p></td>
 <td><p>179수 흑 불계승</p></td>

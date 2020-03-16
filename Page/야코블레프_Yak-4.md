@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Yak-4](https://ko.wikipedia.org/wiki/_Yak-4).
 
 
-**야코블레프 Yak-4**(생산 명칭 Yakovlev Yak-4,BB-22bis)는 Ya-22/[Yak-2에서](https://ko.wikipedia.org/wiki/야코블레프_Yak-2 "wikilink") 개발된 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")의 경폭격기이다.
+**야코블레프 Yak-4**(생산 명칭 Yakovlev Yak-4,BB-22bis)는 Ya-22/[Yak-2에서](https://ko.wikipedia.org/wiki/야코블레프_Yak-2 "wikilink") 개발된 [소련](../Page/소련.md "wikilink")의 경폭격기이다.
 
 ## 설계 및 계발
 

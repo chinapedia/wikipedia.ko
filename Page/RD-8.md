@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RD-8](https://ko.wikipedia.org/wiki/RD-8).
 
 
-**RD-8**은 [우크라이나](https://ko.wikipedia.org/wiki/우크라이나 "wikilink") [유즈노예](https://ko.wikipedia.org/wiki/유즈노예 "wikilink")가 개발한 [로켓 엔진이다](https://ko.wikipedia.org/wiki/로켓_엔진 "wikilink"). 1985년 4월 13일 최초발사되었다.
+**RD-8**은 [우크라이나](../Page/우크라이나.md "wikilink") [유즈노예](../Page/유즈노예.md "wikilink")가 개발한 [로켓 엔진이다](../Page/로켓_엔진.md "wikilink"). 1985년 4월 13일 최초발사되었다.
 
 ## 설명
 
@@ -27,9 +27,9 @@ RD-8 보다 직경이 작아졌다. [안타레스 로켓의](https://ko.wikipedi
 
 ## 단계식 연소 사이클
 
-[단계식 연소 사이클은](https://ko.wikipedia.org/wiki/단계식_연소_사이클 "wikilink") 펌프를 돌린 가스까지 다시 재활용해 주 연소실로 주입해 쓰는 방식이다. 따라서 효율이 극대화된다는 장점이 있다. 하지만 고온·고압의 가스를 다시 연소실로 주입하려면 고도의 소재 및 가공 기술이 필요하다. 미국에는 없고, 러시아, 우크라이나 등만 보유하고 있는 최첨단 기술이다.\[1\]
+[단계식 연소 사이클은](../Page/단계식_연소_사이클.md "wikilink") 펌프를 돌린 가스까지 다시 재활용해 주 연소실로 주입해 쓰는 방식이다. 따라서 효율이 극대화된다는 장점이 있다. 하지만 고온·고압의 가스를 다시 연소실로 주입하려면 고도의 소재 및 가공 기술이 필요하다. 미국에는 없고, 러시아, 우크라이나 등만 보유하고 있는 최첨단 기술이다.\[1\]
 
-미국은 고비용의 [단계식 연소 사이클](https://ko.wikipedia.org/wiki/단계식_연소_사이클 "wikilink") [액체수소](https://ko.wikipedia.org/wiki/액체수소 "wikilink") 엔진 기술은 보유했지만, 저비용의 [단계식 연소 사이클](https://ko.wikipedia.org/wiki/단계식_연소_사이클 "wikilink") [RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink") 엔진 기술은 없다. 이러한 최첨단 로켓 엔진 기술로 인해, 러시아 우주 발사체는 미국, 프랑스 보다 10배 저렴한 가격에 인공위성을 발사해준다.
+미국은 고비용의 [단계식 연소 사이클](../Page/단계식_연소_사이클.md "wikilink") [액체수소](https://ko.wikipedia.org/wiki/액체수소 "wikilink") 엔진 기술은 보유했지만, 저비용의 [단계식 연소 사이클](../Page/단계식_연소_사이클.md "wikilink") [RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink") 엔진 기술은 없다. 이러한 최첨단 로켓 엔진 기술로 인해, 러시아 우주 발사체는 미국, 프랑스 보다 10배 저렴한 가격에 인공위성을 발사해준다.
 
 ## 대한민국
 
@@ -41,7 +41,7 @@ RD-8 보다 직경이 작아졌다. [안타레스 로켓의](https://ko.wikipedi
 
 ## 더 보기
 
-  - [RD-120](https://ko.wikipedia.org/wiki/RD-120 "wikilink")
+  - [RD-120](../Page/RD-120.md "wikilink")
 
 ## 각주
 

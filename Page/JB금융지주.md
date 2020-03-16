@@ -30,7 +30,7 @@
   - [DGB금융지주](https://ko.wikipedia.org/wiki/DGB금융지주 "wikilink")
   - [KB금융지주](https://ko.wikipedia.org/wiki/KB금융지주 "wikilink")
   - [농협금융지주](https://ko.wikipedia.org/wiki/농협금융지주 "wikilink")
-  - [신한금융지주](https://ko.wikipedia.org/wiki/신한금융지주 "wikilink")
+  - [신한금융지주](../Page/신한금융지주.md "wikilink")
   - [하나금융지주](https://ko.wikipedia.org/wiki/하나금융지주 "wikilink")
 
 ## 각주
