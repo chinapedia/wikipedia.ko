@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BSD ](https://ko.wikipedia.org/wiki/BSD_).
 
 
-**BSD 허가서**는 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") [저작권](https://ko.wikipedia.org/wiki/저작권 "wikilink")의 한 가지이다. [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink") 계열 [소프트웨어](https://ko.wikipedia.org/wiki/소프트웨어 "wikilink")를 포함한 많은 프로그램에서 사용한다.
+**BSD 허가서**는 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") [저작권](../Page/저작권.md "wikilink")의 한 가지이다. [BSD](../Page/BSD.md "wikilink") 계열 [소프트웨어](../Page/소프트웨어.md "wikilink")를 포함한 많은 프로그램에서 사용한다.
 
 BSD (Berkeley Software Distribution) 라이선스는 소프트웨어 라이선스라고도 할 수 없을 만큼 미약하여, 해당 소프트웨어는 아무나 개작할 수 있고, 수정한 것을 제한 없이 배포할 수 있다. 다만 수정본의 재배포는 의무적인 사항이 아니므로 BSD 라이선스를 갖는 프로그램은 공개하지 않아도 되는 상용 소프트웨어에서도 사용할 수 있다.
 

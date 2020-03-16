@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [ D.C.](https://ko.wikipedia.org/wiki/_D.C.).
 
 
-**워싱턴 D.C.**((District of Columbia), )는 [미국](../Page/미국.md "wikilink")의 [수도](https://ko.wikipedia.org/wiki/수도 "wikilink")이다. 정식 명칭은 **컬럼비아 특별구**(, )이다. [조지 워싱턴과](https://ko.wikipedia.org/wiki/조지_워싱턴 "wikilink") [크리스토퍼 콜럼버스로부터](https://ko.wikipedia.org/wiki/크리스토퍼_콜럼버스 "wikilink") 이름을 지었다. 미국의 어느 [50개 주에도](https://ko.wikipedia.org/wiki/미국의_주 "wikilink") 속하지 않는 독립된 행정 구역이다. 좁지만, 국제적으로 막강한 정치적 영향력이 있는 세계 도시이며 금융 센터로서도 높은 중요성을 가진다. 수도로서의 기능을 완수할 수 있도록 디자인된 계획도시이다.
+**워싱턴 D.C.**((District of Columbia), )는 [미국](../Page/미국.md "wikilink")의 [수도](../Page/수도.md "wikilink")이다. 정식 명칭은 **컬럼비아 특별구**(, )이다. [조지 워싱턴과](../Page/조지_워싱턴.md "wikilink") [크리스토퍼 콜럼버스로부터](../Page/크리스토퍼_콜럼버스.md "wikilink") 이름을 지었다. 미국의 어느 [50개 주에도](../Page/미국의_주.md "wikilink") 속하지 않는 독립된 행정 구역이다. 좁지만, 국제적으로 막강한 정치적 영향력이 있는 세계 도시이며 금융 센터로서도 높은 중요성을 가진다. 수도로서의 기능을 완수할 수 있도록 디자인된 계획도시이다.
 
-워싱턴 D.C.는 [포토맥 강](https://ko.wikipedia.org/wiki/포토맥_강 "wikilink") 북쪽 유역에 자리 잡고 있으며, 남서쪽으로 [버지니아주](https://ko.wikipedia.org/wiki/버지니아주 "wikilink")와 다른 쪽으로는 [메릴랜드주](https://ko.wikipedia.org/wiki/메릴랜드주 "wikilink")와 경계를 맞대고 있다. [1790년](https://ko.wikipedia.org/wiki/1790년 "wikilink")에 [조지 워싱턴](https://ko.wikipedia.org/wiki/조지_워싱턴 "wikilink") 대통령이 이곳을 수도로 정하고, 프랑스의 피에르 샤를 랑팡을 초청하여 새 수도의 설계를 의뢰하였다. 현재의 도로는 잘 정비되어 시원한 거리는 피에르 랑팡의 설계를 골격으로 하여 이어받은 것이다.\[1\] 이 구역의 인구는 693,972명인데, 주변 교외 지역에서 드나드는 통근자를 고려하면 주중 인구는 백만이 넘는다. 컬럼비아 구역을 포괄하는 [워싱턴 대도시권의](https://ko.wikipedia.org/wiki/워싱턴_대도시권 "wikilink") 인구는 613만 명으로, 미국의 대도시권 가운데 6번째로 큰 규모이다.
+워싱턴 D.C.는 [포토맥 강](https://ko.wikipedia.org/wiki/포토맥_강 "wikilink") 북쪽 유역에 자리 잡고 있으며, 남서쪽으로 [버지니아주](../Page/버지니아주.md "wikilink")와 다른 쪽으로는 [메릴랜드주](../Page/메릴랜드주.md "wikilink")와 경계를 맞대고 있다. [1790년](../Page/1790년.md "wikilink")에 [조지 워싱턴](../Page/조지_워싱턴.md "wikilink") 대통령이 이곳을 수도로 정하고, 프랑스의 피에르 샤를 랑팡을 초청하여 새 수도의 설계를 의뢰하였다. 현재의 도로는 잘 정비되어 시원한 거리는 피에르 랑팡의 설계를 골격으로 하여 이어받은 것이다.\[1\] 이 구역의 인구는 693,972명인데, 주변 교외 지역에서 드나드는 통근자를 고려하면 주중 인구는 백만이 넘는다. 컬럼비아 구역을 포괄하는 [워싱턴 대도시권의](https://ko.wikipedia.org/wiki/워싱턴_대도시권 "wikilink") 인구는 613만 명으로, 미국의 대도시권 가운데 6번째로 큰 규모이다.
 
-[미합중국 헌법](https://ko.wikipedia.org/wiki/미합중국_헌법 "wikilink") 제1조에서 주와 다른 [연방 구역을](https://ko.wikipedia.org/wiki/연방_구역 "wikilink") 규정하여 이곳을 영속적인 국가 수도로 삼고 있다. 수많은 국가 기념물과 박물관과 더불어 [미국 연방 정부의](../Page/미국_연방_정부.md "wikilink") 3부의 중심 관청이 모두 이 곳에 있다. 워싱턴 D.C에는 174개 대사관이 자리 잡고 있으며, [세계은행](../Page/세계은행.md "wikilink"), [국제 통화 기금](https://ko.wikipedia.org/wiki/국제_통화_기금 "wikilink"), [미주 기구](https://ko.wikipedia.org/wiki/미주_기구 "wikilink"), [아메리카간 개발 은행](https://ko.wikipedia.org/wiki/아메리카간_개발_은행 "wikilink"), [범아메리카 의료 기구의](https://ko.wikipedia.org/wiki/범아메리카_의료_기구 "wikilink") 본부가 있다. 무역 협회, [로비](../Page/로비.md "wikilink") 단체, 직능 단체 등 여러 기관의 본부도 이곳에 있다.
+[미합중국 헌법](https://ko.wikipedia.org/wiki/미합중국_헌법 "wikilink") 제1조에서 주와 다른 [연방 구역을](https://ko.wikipedia.org/wiki/연방_구역 "wikilink") 규정하여 이곳을 영속적인 국가 수도로 삼고 있다. 수많은 국가 기념물과 박물관과 더불어 [미국 연방 정부의](../Page/미국_연방_정부.md "wikilink") 3부의 중심 관청이 모두 이 곳에 있다. 워싱턴 D.C에는 174개 대사관이 자리 잡고 있으며, [세계은행](../Page/세계은행.md "wikilink"), [국제 통화 기금](../Page/국제_통화_기금.md "wikilink"), [미주 기구](../Page/미주_기구.md "wikilink"), [아메리카간 개발 은행](https://ko.wikipedia.org/wiki/아메리카간_개발_은행 "wikilink"), [범아메리카 의료 기구의](https://ko.wikipedia.org/wiki/범아메리카_의료_기구 "wikilink") 본부가 있다. 무역 협회, [로비](../Page/로비.md "wikilink") 단체, 직능 단체 등 여러 기관의 본부도 이곳에 있다.
 
-워싱턴 D.C는 원래 컬럼비아 영역의 개별 지자체였는데 [1871년 의회법으로](https://ko.wikipedia.org/wiki/1871년_의회법 "wikilink") 도시와 이 영토를 컬럼비아 구역이라는 하나의 단위로 합병하였다. 이 도시의 법적 명칭이 '컬럼비아 구역'인 것은 바로 이 때문이다. 그 이전의 수도는 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")이었다. 도시의 이름은 [미국 독립 전쟁의](../Page/미국_독립_전쟁.md "wikilink") 지도자이자 [초대 대통령인](https://ko.wikipedia.org/wiki/미국의_대통령 "wikilink") [조지 워싱턴의](https://ko.wikipedia.org/wiki/조지_워싱턴 "wikilink") 이름에서 따온 것이다.
+워싱턴 D.C는 원래 컬럼비아 영역의 개별 지자체였는데 [1871년 의회법으로](https://ko.wikipedia.org/wiki/1871년_의회법 "wikilink") 도시와 이 영토를 컬럼비아 구역이라는 하나의 단위로 합병하였다. 이 도시의 법적 명칭이 '컬럼비아 구역'인 것은 바로 이 때문이다. 그 이전의 수도는 [뉴욕](../Page/뉴욕.md "wikilink")이었다. 도시의 이름은 [미국 독립 전쟁의](../Page/미국_독립_전쟁.md "wikilink") 지도자이자 [초대 대통령인](../Page/미국의_대통령.md "wikilink") [조지 워싱턴의](../Page/조지_워싱턴.md "wikilink") 이름에서 따온 것이다.
 
-[워싱턴 기념탑](https://ko.wikipedia.org/wiki/워싱턴_기념탑 "wikilink")(555[피트](../Page/피트.md "wikilink"), 약 169.3m)의 높이 이상으로 건축물을 건설하지 못하도록 하여, [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")와 달리 [초고층 건물이](https://ko.wikipedia.org/wiki/초고층_건물 "wikilink") 드물다. [백악관](https://ko.wikipedia.org/wiki/백악관 "wikilink"), [펜타곤](../Page/펜타곤.md "wikilink"), 연방 의사당 등 미국의 주요 정부 기관이 있다. 정식 연방주가 아니므로 상원 의석은 없으나, 표결권이 없는 [미국 하원 파견대표](https://ko.wikipedia.org/wiki/미국_하원_파견대표 "wikilink") 1명 ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 현재 [민주당의](https://ko.wikipedia.org/wiki/미국_민주당 "wikilink") Eleanor Holmes Norton의원)과 대통령선거인단 3표를 확보하고 있다.
+[워싱턴 기념탑](https://ko.wikipedia.org/wiki/워싱턴_기념탑 "wikilink")(555[피트](../Page/피트.md "wikilink"), 약 169.3m)의 높이 이상으로 건축물을 건설하지 못하도록 하여, [뉴욕](../Page/뉴욕.md "wikilink")와 달리 [초고층 건물이](https://ko.wikipedia.org/wiki/초고층_건물 "wikilink") 드물다. [백악관](../Page/백악관.md "wikilink"), [펜타곤](../Page/펜타곤.md "wikilink"), 연방 의사당 등 미국의 주요 정부 기관이 있다. 정식 연방주가 아니므로 상원 의석은 없으나, 표결권이 없는 [미국 하원 파견대표](../Page/미국_하원_파견대표.md "wikilink") 1명 ([2019년](../Page/2019년.md "wikilink") 현재 [민주당의](https://ko.wikipedia.org/wiki/미국_민주당 "wikilink") Eleanor Holmes Norton의원)과 대통령선거인단 3표를 확보하고 있다.
 
 ## 역사
 
-17 세기 초 유럽인들이 지역에 들어왔을 때 알곤 퀴안 어를 쓰는 피스캐터웨이 (코노이라고도 함) 부족들이 포토맥 강 주변에 살고 있었다. 1600 년대 후반에 백인들이 이 지역으로 이주해 들어와서 농장을 운영하기 시작했다. 1749 년에 백인 정착민들은 이 지역에 첫 번째 도시이며 버지니아 식민지가 된 [알렉산드리아](../Page/알렉산드리아.md "wikilink")를 세웠다. 이 당시 미국은 수도가 정해져 있지 않아서 [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink"), [필라델피아](https://ko.wikipedia.org/wiki/필라델피아 "wikilink")를 비롯하여 여러 도시가 수도의 역활을 했었다. 1783년 의회는 영구적인 미국의 수도를 설치할 것을 의결했다. 주마다 자기 주에 수도를 두고 싶어 해서 의견의 일치를 보지 못하고 있었다. 1790년 재정 장관인 알랙산더의 노력으로 이문제를 해결했다. 그는 미국의 수도는 어느 주에도 속하지 않는 땅에 설치하기로 제안하여 모든 주의 동의를 얻어냈다. 1790년 7월 9일, 의회는 [포토맥강](https://ko.wikipedia.org/wiki/포토맥강 "wikilink")가에 미국의 수도 설립을 승인하는 거주법을 통과시켰다. 정확한 위치는 7월16일 법안을 서명한 [조지 워싱턴](https://ko.wikipedia.org/wiki/조지_워싱턴 "wikilink") 대통령에 의해 결정하기로 했다. 워싱턴은 1791년 포토맥강 가의 땅을 수도구역으로 정했는데 지금의 워싱턴 DC 구역을 포함하여 포토맥강 서쪽의30 평방마일의 땅도 포함했었다. 메릴랜드 주와 강서쪽의 버지니아 주에서 해당 되는 땅을 연방정부에 기증하여 사각형 모양으로 된 각면이 16km (10 마일)되며 면적은 259km2 (100 평방 마일)에 해당되는 수도 구역이 정해지게 되었다.
+17 세기 초 유럽인들이 지역에 들어왔을 때 알곤 퀴안 어를 쓰는 피스캐터웨이 (코노이라고도 함) 부족들이 포토맥 강 주변에 살고 있었다. 1600 년대 후반에 백인들이 이 지역으로 이주해 들어와서 농장을 운영하기 시작했다. 1749 년에 백인 정착민들은 이 지역에 첫 번째 도시이며 버지니아 식민지가 된 [알렉산드리아](../Page/알렉산드리아.md "wikilink")를 세웠다. 이 당시 미국은 수도가 정해져 있지 않아서 [뉴욕](../Page/뉴욕.md "wikilink"), [필라델피아](../Page/필라델피아.md "wikilink")를 비롯하여 여러 도시가 수도의 역활을 했었다. 1783년 의회는 영구적인 미국의 수도를 설치할 것을 의결했다. 주마다 자기 주에 수도를 두고 싶어 해서 의견의 일치를 보지 못하고 있었다. 1790년 재정 장관인 알랙산더의 노력으로 이문제를 해결했다. 그는 미국의 수도는 어느 주에도 속하지 않는 땅에 설치하기로 제안하여 모든 주의 동의를 얻어냈다. 1790년 7월 9일, 의회는 [포토맥강](https://ko.wikipedia.org/wiki/포토맥강 "wikilink")가에 미국의 수도 설립을 승인하는 거주법을 통과시켰다. 정확한 위치는 7월16일 법안을 서명한 [조지 워싱턴](../Page/조지_워싱턴.md "wikilink") 대통령에 의해 결정하기로 했다. 워싱턴은 1791년 포토맥강 가의 땅을 수도구역으로 정했는데 지금의 워싱턴 DC 구역을 포함하여 포토맥강 서쪽의30 평방마일의 땅도 포함했었다. 메릴랜드 주와 강서쪽의 버지니아 주에서 해당 되는 땅을 연방정부에 기증하여 사각형 모양으로 된 각면이 16km (10 마일)되며 면적은 259km2 (100 평방 마일)에 해당되는 수도 구역이 정해지게 되었다.
 
-연방정부가 임시수도였던 [필라델피아](https://ko.wikipedia.org/wiki/필라델피아 "wikilink")에서 워싱턴 DC로 옮긴것은 1800년이다. 이때 도시 인구는 고작 8,000명에 불과했다. 1814년에 영국과의 전쟁에서 워싱턴 DC는 영국군에 의해 점령 당했고 [의사당](../Page/의사당.md "wikilink")과 [백악관](https://ko.wikipedia.org/wiki/백악관 "wikilink")을 포함한 많은 정부청사가 불타버렸다. 1819년 소실되었던 정부청사는 모두 복구되었다. \[2\] 의회는 워싱턴 DC의 도시 관리를 대통령의 권한 밑에 두었으나 1802년 시민이 시정 관리를 할 수 있도록 법을 개정했고 1820년에는 시장을 선거로 뽑게 됐다. 그러나 의회 의원이나 대통령 선거권은 시민에게 주어지지 않았다.
+연방정부가 임시수도였던 [필라델피아](../Page/필라델피아.md "wikilink")에서 워싱턴 DC로 옮긴것은 1800년이다. 이때 도시 인구는 고작 8,000명에 불과했다. 1814년에 영국과의 전쟁에서 워싱턴 DC는 영국군에 의해 점령 당했고 [의사당](../Page/의사당.md "wikilink")과 [백악관](../Page/백악관.md "wikilink")을 포함한 많은 정부청사가 불타버렸다. 1819년 소실되었던 정부청사는 모두 복구되었다. \[2\] 의회는 워싱턴 DC의 도시 관리를 대통령의 권한 밑에 두었으나 1802년 시민이 시정 관리를 할 수 있도록 법을 개정했고 1820년에는 시장을 선거로 뽑게 됐다. 그러나 의회 의원이나 대통령 선거권은 시민에게 주어지지 않았다.
 
 ### 도시의 발전
 
@@ -31,15 +31,15 @@
 
 [오른쪽의](https://ko.wikipedia.org/wiki/파일:L'Enfant_plan.jpg "wikilink") 워싱턴 D.C 도시 계획. 그림은 [앤드루 엘리컷이](https://ko.wikipedia.org/wiki/앤드루_엘리컷 "wikilink") 개정한 것이다.(1792년)\]\]
 
-워싱턴 D.C.는 [계획 도시이다](https://ko.wikipedia.org/wiki/계획_도시 "wikilink"). 워싱턴 도시 계획은 [미국 독립 전쟁](../Page/미국_독립_전쟁.md "wikilink") 당시 [라파예트](https://ko.wikipedia.org/wiki/질베르_뒤_모티에_드_라파예트 "wikilink") 장군의 군사 공학자로 식민지에 최초로 도착한 프랑스 태생의 건축가, 공학자, 도시 계획가 [피에르 샤를 랑팡이](https://ko.wikipedia.org/wiki/피에르_샤를_랑팡 "wikilink") 주로 맡았다. 1791년 워싱턴 대통령은 랑팡에게 새 수도 배치 설계를 의뢰한다. 랑팡의 계획은 [바로크](https://ko.wikipedia.org/wiki/바로크 "wikilink")식 도시 계획을 본보기로 삼아 사각형과 원형을 중심으로 넓은 가로 뻗어나가 개방 공간과 탁트인 경관을 보이는 방식이었다.\[4\] 랑팡은 도시 계획에 세세한 일까지 고집스레 간섭하여 수도 건설을 감독하기 위해 워싱턴이 임명한 세 위원 사이에 갈등이 생기자 1792년 3월 워싱턴 대통령은 랑팡을 해임하였다. 그리하여 랑팡과 함께 도시 측량 작업을 함께 하던 [앤드루 엘리컷이](https://ko.wikipedia.org/wiki/앤드루_엘리컷 "wikilink") 도시 계획을 완성하였다. 엘리컷은 가로 형태 등 당초 계획에 수정을 가하기는 하였지만, 랑팡은 워싱턴 시의 전체 설계를 맡은 사람으로 인정받고 있다.\[5\] 워싱턴 시는 오늘날 북쪽 [플로리다 가와](https://ko.wikipedia.org/wiki/플로리다_가 "wikilink") 서쪽 록 크릭(Rock Creek), 동쪽 애너코스티아 강(Anacostia River)을 경계로 하고 있었다.\[6\]
+워싱턴 D.C.는 [계획 도시이다](https://ko.wikipedia.org/wiki/계획_도시 "wikilink"). 워싱턴 도시 계획은 [미국 독립 전쟁](../Page/미국_독립_전쟁.md "wikilink") 당시 [라파예트](https://ko.wikipedia.org/wiki/질베르_뒤_모티에_드_라파예트 "wikilink") 장군의 군사 공학자로 식민지에 최초로 도착한 프랑스 태생의 건축가, 공학자, 도시 계획가 [피에르 샤를 랑팡이](https://ko.wikipedia.org/wiki/피에르_샤를_랑팡 "wikilink") 주로 맡았다. 1791년 워싱턴 대통령은 랑팡에게 새 수도 배치 설계를 의뢰한다. 랑팡의 계획은 [바로크](../Page/바로크.md "wikilink")식 도시 계획을 본보기로 삼아 사각형과 원형을 중심으로 넓은 가로 뻗어나가 개방 공간과 탁트인 경관을 보이는 방식이었다.\[4\] 랑팡은 도시 계획에 세세한 일까지 고집스레 간섭하여 수도 건설을 감독하기 위해 워싱턴이 임명한 세 위원 사이에 갈등이 생기자 1792년 3월 워싱턴 대통령은 랑팡을 해임하였다. 그리하여 랑팡과 함께 도시 측량 작업을 함께 하던 [앤드루 엘리컷이](https://ko.wikipedia.org/wiki/앤드루_엘리컷 "wikilink") 도시 계획을 완성하였다. 엘리컷은 가로 형태 등 당초 계획에 수정을 가하기는 하였지만, 랑팡은 워싱턴 시의 전체 설계를 맡은 사람으로 인정받고 있다.\[5\] 워싱턴 시는 오늘날 북쪽 [플로리다 가와](https://ko.wikipedia.org/wiki/플로리다_가 "wikilink") 서쪽 록 크릭(Rock Creek), 동쪽 애너코스티아 강(Anacostia River)을 경계로 하고 있었다.\[6\]
 
 20세기 초에 들어 랑팡이 의도한 수도의 탁트인 공원과 장대한 국가 기념물의 경관은 빈민가나 아무렇게나 들어선 건물, 내셔널 몰(National Mall)의 기차역 때문에 어지러워졌다.\[7\] 1900년 의회는 상원의원 [제임스 맥밀런이](https://ko.wikipedia.org/wiki/제임스_맥밀런 "wikilink") 이끄는 [합동 위원회를](https://ko.wikipedia.org/wiki/합동_위원회 "wikilink") 꾸려 워싱턴의 국가 의식 핵심부를 꾸미는 일에 착수하였다. 이 [맥밀런 계획은](https://ko.wikipedia.org/wiki/맥밀런_계획 "wikilink") 1901년에 완성되었다. 이 계획에는 의사당 마당과 내셔널 몰의 경관을 새로이 바꾸고, 새로운 연방 관청 건물과 기념물을 건설하며, 빈민가를 철거하고 새로운 공원 체제를 세우는 것 등이 있었다. 위원회의 건축가들은 도시의 원래 배치를 보존하였고, 이들의 작업은 랑팡이 의도한 설계를 장대하게 완성하는 것으로 여겨졌다.\[8\]
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:DC_satellite_image.jpg "wikilink")
 
-1899년 12층짜리 카이로 아파트 건물(Cairo Apartment Building)이 들어서자 의회는 [건물 고도 제한법](https://ko.wikipedia.org/wiki/건물_고도_제한법 "wikilink")(Heights of Buildings Act)을 통과하여 어느 건물도 의사당보다 높게 짓지 못하도록 규정하였다. 이 법은 1910년에 개정되어 건물 고도를 인접 가로의 폭에서 6.1m를 더한 높이 이상으로 건설하지 못하도록 제한하였다.\[9\] 오늘날 워싱턴 시의 건물 윤곽선(skyline)은 낮고 넓게 퍼진 모양새를 갖추어, 워싱턴 시가 "복잡하지 않고 바람이 잘 통하는" 거리에 "낮고 편리한" 건물들이 있는 "미국의 파리"가 되길 바라던 토머스 제퍼슨의 뜻을 따르고 있다.\[10\] 그러하여 [워싱턴 기념비](https://ko.wikipedia.org/wiki/워싱턴_기념비 "wikilink")(Washington Monument)는 구역에서 가장 높은 구조물이다.\[11\] 그러나 [도시의 확산](https://ko.wikipedia.org/wiki/도시의_확산 "wikilink") 현상으로 교통 및 주택 문제를 이유로 워싱턴의 고도 제한은 비난을 받았다.\[12\] 구역의 고도 제한 규정을 피하기 위해 시내와 가까운 곳의 높은 건물은 포토맥 강에서 [버지니아주](https://ko.wikipedia.org/wiki/버지니아주 "wikilink")의 [로슬린](https://ko.wikipedia.org/wiki/로슬린 "wikilink")쪽에 건설되곤 한다.\[13\]
+1899년 12층짜리 카이로 아파트 건물(Cairo Apartment Building)이 들어서자 의회는 [건물 고도 제한법](https://ko.wikipedia.org/wiki/건물_고도_제한법 "wikilink")(Heights of Buildings Act)을 통과하여 어느 건물도 의사당보다 높게 짓지 못하도록 규정하였다. 이 법은 1910년에 개정되어 건물 고도를 인접 가로의 폭에서 6.1m를 더한 높이 이상으로 건설하지 못하도록 제한하였다.\[9\] 오늘날 워싱턴 시의 건물 윤곽선(skyline)은 낮고 넓게 퍼진 모양새를 갖추어, 워싱턴 시가 "복잡하지 않고 바람이 잘 통하는" 거리에 "낮고 편리한" 건물들이 있는 "미국의 파리"가 되길 바라던 토머스 제퍼슨의 뜻을 따르고 있다.\[10\] 그러하여 [워싱턴 기념비](https://ko.wikipedia.org/wiki/워싱턴_기념비 "wikilink")(Washington Monument)는 구역에서 가장 높은 구조물이다.\[11\] 그러나 [도시의 확산](https://ko.wikipedia.org/wiki/도시의_확산 "wikilink") 현상으로 교통 및 주택 문제를 이유로 워싱턴의 고도 제한은 비난을 받았다.\[12\] 구역의 고도 제한 규정을 피하기 위해 시내와 가까운 곳의 높은 건물은 포토맥 강에서 [버지니아주](../Page/버지니아주.md "wikilink")의 [로슬린](https://ko.wikipedia.org/wiki/로슬린 "wikilink")쪽에 건설되곤 한다.\[13\]
 
-컬럼비아 구역은 넓이가 제각각인 4개의 지구(quadrant)로 나뉘는데, 북서 지구(Northwest), 북동 지구(Northeast), 남동 지구(Southeast), 남서 지구(Southwest)가 바로 그것이다. 네 지구의 경계선은 [미국 의회 의사당이](https://ko.wikipedia.org/wiki/미국_의회_의사당 "wikilink") 기준이다.\[14\] 모든 도로 이름에는 지구 이름의 약자가 붙어 그 도로가 속한 지구를 표시한다. 워싱턴 시에서는 대부분 모든 거리가 격자 모양으로 뻗어있으며, 동서 방향 거리 이름에는 글자가 붙고, (가령 C Street SW) 남북 방향 거리 이름에는 숫자가 붙는다. (가령 4th Street NW)).\[15\] 또 원형 교차점에서 대각선으로 뻗어나가는 도로 이름은 우선 미국의 주 이름을 따서 붙이는데, 미국의 50개 주 모든 이름으로 도로명이 있으며, [푸에르토 리코와](https://ko.wikipedia.org/wiki/푸에르토_리코 "wikilink") 컬럼비아 구역의 이름을 지닌 대로도 있다. 워싱턴의 어떤 가로는 특히 눈에 띄는데, 가령 [펜실베이니아 거리](https://ko.wikipedia.org/wiki/펜실베이니아_거리 "wikilink")(Pennsylvania Avenue)는 [백악관](https://ko.wikipedia.org/wiki/백악관 "wikilink")과 [미국 의회의사당을](https://ko.wikipedia.org/wiki/미국_의회의사당 "wikilink") 이어주며, [K 거리](https://ko.wikipedia.org/wiki/K_거리 "wikilink")(K Street)는 여러 로비 단체의 건물을 잇고 있다.\[16\] 워싱턴에는 174개국 외국 대사관이 있으며, 이 가운데 59개는 [매사추세츠 거리](https://ko.wikipedia.org/wiki/매사추세츠_거리 "wikilink")(Massachusetts Avenue)에 있는데 이 거리는 비공식적으로 [대사관길](https://ko.wikipedia.org/wiki/대사관길 "wikilink")(Embassy Row)이라 부르기도 한다.\[17\]
+컬럼비아 구역은 넓이가 제각각인 4개의 지구(quadrant)로 나뉘는데, 북서 지구(Northwest), 북동 지구(Northeast), 남동 지구(Southeast), 남서 지구(Southwest)가 바로 그것이다. 네 지구의 경계선은 [미국 의회 의사당이](https://ko.wikipedia.org/wiki/미국_의회_의사당 "wikilink") 기준이다.\[14\] 모든 도로 이름에는 지구 이름의 약자가 붙어 그 도로가 속한 지구를 표시한다. 워싱턴 시에서는 대부분 모든 거리가 격자 모양으로 뻗어있으며, 동서 방향 거리 이름에는 글자가 붙고, (가령 C Street SW) 남북 방향 거리 이름에는 숫자가 붙는다. (가령 4th Street NW)).\[15\] 또 원형 교차점에서 대각선으로 뻗어나가는 도로 이름은 우선 미국의 주 이름을 따서 붙이는데, 미국의 50개 주 모든 이름으로 도로명이 있으며, [푸에르토 리코와](https://ko.wikipedia.org/wiki/푸에르토_리코 "wikilink") 컬럼비아 구역의 이름을 지닌 대로도 있다. 워싱턴의 어떤 가로는 특히 눈에 띄는데, 가령 [펜실베이니아 거리](https://ko.wikipedia.org/wiki/펜실베이니아_거리 "wikilink")(Pennsylvania Avenue)는 [백악관](../Page/백악관.md "wikilink")과 [미국 의회의사당을](https://ko.wikipedia.org/wiki/미국_의회의사당 "wikilink") 이어주며, [K 거리](https://ko.wikipedia.org/wiki/K_거리 "wikilink")(K Street)는 여러 로비 단체의 건물을 잇고 있다.\[16\] 워싱턴에는 174개국 외국 대사관이 있으며, 이 가운데 59개는 [매사추세츠 거리](https://ko.wikipedia.org/wiki/매사추세츠_거리 "wikilink")(Massachusetts Avenue)에 있는데 이 거리는 비공식적으로 [대사관길](https://ko.wikipedia.org/wiki/대사관길 "wikilink")(Embassy Row)이라 부르기도 한다.\[17\]
 
 ## 문화
 
@@ -86,7 +86,7 @@
 
 워싱턴의 건축은 대단히 다양하다. 2007년 [미국 건축학회](https://ko.wikipedia.org/wiki/미국_건축학회 "wikilink")(American Institute of Architects)가 선정한 "미국인이 좋아하는 건축" 순위에서 상위 10위 건물 가운데 여섯 곳이 컬럼비아 구역에 있다.\[19\] 나열해 보면 다음과 같다.
 
-  - [백악관](https://ko.wikipedia.org/wiki/백악관 "wikilink") (The White House)
+  - [백악관](../Page/백악관.md "wikilink") (The White House)
   - [워싱턴 기념탑](https://ko.wikipedia.org/wiki/워싱턴_기념탑 "wikilink") (The Washington Monument)
   - [토머스 제퍼슨 기념관](https://ko.wikipedia.org/wiki/토머스_제퍼슨_기념관 "wikilink") (The Jefferson Memorial)
   - [미국 의회 의사당](https://ko.wikipedia.org/wiki/미국_의회_의사당 "wikilink") (The Capitol)
@@ -95,7 +95,7 @@
 
 이 여섯 건물과 워싱턴의 여러 유명한 건물들은 [신고전주의](../Page/신고전주의.md "wikilink"), [조지 왕 시대 풍](https://ko.wikipedia.org/wiki/조지_왕_시대_풍 "wikilink")(Georgian Architecture), [고딕](../Page/고딕_건축.md "wikilink"), [현대 양식을](https://ko.wikipedia.org/wiki/현대_건축 "wikilink") 모두 반영하고 있다. [프랑스 제2제국](../Page/프랑스_제2제국.md "wikilink") 양식의 [옛 행정부 청사나](https://ko.wikipedia.org/wiki/미국_옛_행정부_청사 "wikilink") [미국 의회 도서관과](https://ko.wikipedia.org/wiki/미국_의회_도서관 "wikilink") 같은 예외적인 건물도 있다.\[20\]
 
-워싱턴 시내에서 바깥으로 가면 건축 양식은 더욱 다양해진다. 오래된 건물에는 [앤 여왕 시대 건축 양식](https://ko.wikipedia.org/wiki/앤_여왕_시대_건축_양식 "wikilink"), [샤토 양식](https://ko.wikipedia.org/wiki/샤토_양식 "wikilink"), [리차드슨식 로마네스크](https://ko.wikipedia.org/wiki/리차드슨식_로마네스크 "wikilink"), 조지 왕 시대 재현 양식, [보자르](https://ko.wikipedia.org/wiki/보자르 "wikilink"), 또 여러 가지 [빅토리아 양식](https://ko.wikipedia.org/wiki/빅토리아_양식 "wikilink") 등이 나타난다. 줄지어 선 미국식 집합 주택(Rowhouse)도 이 지역에서 특히 눈에 띄는데, 이런 건물은 [미국 남북 전쟁](https://ko.wikipedia.org/wiki/미국_남북_전쟁 "wikilink") 이후 발달하여 전형적으로 [연방 건축 양식과](https://ko.wikipedia.org/wiki/연방_건축_양식 "wikilink") 후기 빅토리아풍을 따른 것이다.\[21\] 조지타운은 워싱턴 시를 건설하기 전에 생긴 곳으로, 컬럼비아 구역의 가장 오래된 건축을 보인다. 조지타운의 [옛 석조 주택](https://ko.wikipedia.org/wiki/옛_석조_주택 "wikilink")(Old Stone House)는 1765년에 건설되어 이 도시에 현존하는 건물 가운데 가장 오래된 것이다.\[22\] 그러나 오늘날 근처의 가옥 대부분은 1870년대 이후에 건설된 것으로, 당대 후기 빅토리아 풍의 영향을 찾을 수 있다. 1789년에 개교한 [조지타운 대학교는](../Page/조지타운_대학교.md "wikilink") 주변 건축보다 더욱 특별하며, 로마네스크풍과 [고딕 재현 양식이](https://ko.wikipedia.org/wiki/고딕_재현_양식 "wikilink") 섞인 특징을 보인다.\[23\] [로널드 레이건 건물은](https://ko.wikipedia.org/wiki/로널드_레이건_건물 "wikilink") 컬럼비아 구역에서 가장 큰 건물로, 총면적이 약 288,000 제곱미터에 이른다.\[24\]워싱턴 DC는 뉴욕보다 건물들이 낮은데 그 이유는 워싱턴 기념탑보다 더 높은 탑을 세우지 못하도록 미국법으로 지정되었기 때문이다
+워싱턴 시내에서 바깥으로 가면 건축 양식은 더욱 다양해진다. 오래된 건물에는 [앤 여왕 시대 건축 양식](https://ko.wikipedia.org/wiki/앤_여왕_시대_건축_양식 "wikilink"), [샤토 양식](https://ko.wikipedia.org/wiki/샤토_양식 "wikilink"), [리차드슨식 로마네스크](https://ko.wikipedia.org/wiki/리차드슨식_로마네스크 "wikilink"), 조지 왕 시대 재현 양식, [보자르](https://ko.wikipedia.org/wiki/보자르 "wikilink"), 또 여러 가지 [빅토리아 양식](https://ko.wikipedia.org/wiki/빅토리아_양식 "wikilink") 등이 나타난다. 줄지어 선 미국식 집합 주택(Rowhouse)도 이 지역에서 특히 눈에 띄는데, 이런 건물은 [미국 남북 전쟁](../Page/미국_남북_전쟁.md "wikilink") 이후 발달하여 전형적으로 [연방 건축 양식과](https://ko.wikipedia.org/wiki/연방_건축_양식 "wikilink") 후기 빅토리아풍을 따른 것이다.\[21\] 조지타운은 워싱턴 시를 건설하기 전에 생긴 곳으로, 컬럼비아 구역의 가장 오래된 건축을 보인다. 조지타운의 [옛 석조 주택](https://ko.wikipedia.org/wiki/옛_석조_주택 "wikilink")(Old Stone House)는 1765년에 건설되어 이 도시에 현존하는 건물 가운데 가장 오래된 것이다.\[22\] 그러나 오늘날 근처의 가옥 대부분은 1870년대 이후에 건설된 것으로, 당대 후기 빅토리아 풍의 영향을 찾을 수 있다. 1789년에 개교한 [조지타운 대학교는](../Page/조지타운_대학교.md "wikilink") 주변 건축보다 더욱 특별하며, 로마네스크풍과 [고딕 재현 양식이](https://ko.wikipedia.org/wiki/고딕_재현_양식 "wikilink") 섞인 특징을 보인다.\[23\] [로널드 레이건 건물은](https://ko.wikipedia.org/wiki/로널드_레이건_건물 "wikilink") 컬럼비아 구역에서 가장 큰 건물로, 총면적이 약 288,000 제곱미터에 이른다.\[24\]워싱턴 DC는 뉴욕보다 건물들이 낮은데 그 이유는 워싱턴 기념탑보다 더 높은 탑을 세우지 못하도록 미국법으로 지정되었기 때문이다
 
 ## 정치
 
@@ -103,11 +103,11 @@
 
 ## 교육
 
-[1789년](https://ko.wikipedia.org/wiki/1789년 "wikilink")에 창립한 [예수회](https://ko.wikipedia.org/wiki/예수회 "wikilink") [사립 대학인](https://ko.wikipedia.org/wiki/사립_대학 "wikilink") [조지타운 대학교와](../Page/조지타운_대학교.md "wikilink") [1821년](https://ko.wikipedia.org/wiki/1821년 "wikilink")에 창립한 사립대학 [조지워싱턴 대학교와](https://ko.wikipedia.org/wiki/조지워싱턴_대학교 "wikilink") [연합감리회교회](https://ko.wikipedia.org/wiki/연합감리회교회 "wikilink")에서 설립한 [아메리칸 대학교가](../Page/아메리칸_대학교.md "wikilink") 있다. 워싱턴 대학이 워싱턴 DC에 있다고 알고 있는 사람들이 있지만 워싱턴 주와 다른 특별 자치구이다.
+[1789년](../Page/1789년.md "wikilink")에 창립한 [예수회](../Page/예수회.md "wikilink") [사립 대학인](../Page/사립_대학.md "wikilink") [조지타운 대학교와](../Page/조지타운_대학교.md "wikilink") [1821년](../Page/1821년.md "wikilink")에 창립한 사립대학 [조지워싱턴 대학교와](https://ko.wikipedia.org/wiki/조지워싱턴_대학교 "wikilink") [연합감리회교회](https://ko.wikipedia.org/wiki/연합감리회교회 "wikilink")에서 설립한 [아메리칸 대학교가](../Page/아메리칸_대학교.md "wikilink") 있다. 워싱턴 대학이 워싱턴 DC에 있다고 알고 있는 사람들이 있지만 워싱턴 주와 다른 특별 자치구이다.
 
 ## 스포츠
 
-워싱턴 D.C. 를 연고로 하는 프로스포츠팀은 메이저 리그 야구의 [워싱턴 내셔널스](https://ko.wikipedia.org/wiki/워싱턴_내셔널스 "wikilink"), NBA 농구의 [워싱턴 위저즈](../Page/워싱턴_위저즈.md "wikilink"), NFL 풋볼의 [워싱턴 레드스킨스](https://ko.wikipedia.org/wiki/워싱턴_레드스킨스 "wikilink"), NHL 아이스하키의 [워싱턴 캐피털스](../Page/워싱턴_캐피털스.md "wikilink"), 메이저 리그 사커의 [D.C. 유나이티드](../Page/D.C._유나이티드.md "wikilink"), WNBA 여자농구의 [워싱턴 미스틱스가](../Page/워싱턴_미스틱스.md "wikilink") 있다.
+워싱턴 D.C. 를 연고로 하는 프로스포츠팀은 메이저 리그 야구의 [워싱턴 내셔널스](../Page/워싱턴_내셔널스.md "wikilink"), NBA 농구의 [워싱턴 위저즈](../Page/워싱턴_위저즈.md "wikilink"), NFL 풋볼의 [워싱턴 레드스킨스](https://ko.wikipedia.org/wiki/워싱턴_레드스킨스 "wikilink"), NHL 아이스하키의 [워싱턴 캐피털스](../Page/워싱턴_캐피털스.md "wikilink"), 메이저 리그 사커의 [D.C. 유나이티드](../Page/D.C._유나이티드.md "wikilink"), WNBA 여자농구의 [워싱턴 미스틱스가](../Page/워싱턴_미스틱스.md "wikilink") 있다.
 
 ## 기후
 
@@ -115,41 +115,41 @@
 
 워싱턴 D.C.에는 12개의 [자매 도시가](https://ko.wikipedia.org/wiki/자매_도시 "wikilink") 있다.\[26\] 파리는 [코뮌](https://ko.wikipedia.org/wiki/코뮌 "wikilink")의 자매 도시 정책에 따라 파트너 도시로 인정된다.\[27\]
 
-  - [가나](https://ko.wikipedia.org/wiki/가나 "wikilink") [아크라](https://ko.wikipedia.org/wiki/아크라 "wikilink")
+  - [가나](../Page/가나.md "wikilink") [아크라](../Page/아크라.md "wikilink")
 
-  - [그리스](../Page/그리스.md "wikilink") [아테네](https://ko.wikipedia.org/wiki/아테네 "wikilink")
+  - [그리스](../Page/그리스.md "wikilink") [아테네](../Page/아테네.md "wikilink")
 
-  - [남아프리카 공화국](https://ko.wikipedia.org/wiki/남아프리카_공화국 "wikilink") [프리토리아](https://ko.wikipedia.org/wiki/프리토리아 "wikilink")
+  - [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink") [프리토리아](../Page/프리토리아.md "wikilink")
 
   - [대한민국](../Page/대한민국.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")
 
   - [벨기에](../Page/벨기에.md "wikilink") [브뤼셀](../Page/브뤼셀.md "wikilink")
 
-  - [세네갈](https://ko.wikipedia.org/wiki/세네갈 "wikilink") [다카르](https://ko.wikipedia.org/wiki/다카르 "wikilink")
+  - [세네갈](../Page/세네갈.md "wikilink") [다카르](../Page/다카르.md "wikilink")
 
-  - [세이셸](https://ko.wikipedia.org/wiki/세이셸 "wikilink") [빅토리아](https://ko.wikipedia.org/wiki/빅토리아_\(세이셸\) "wikilink")
+  - [세이셸](../Page/세이셸.md "wikilink") [빅토리아](https://ko.wikipedia.org/wiki/빅토리아_\(세이셸\) "wikilink")
 
-  - [가봉](../Page/가봉.md "wikilink") [리브르빌](https://ko.wikipedia.org/wiki/리브르빌 "wikilink")
+  - [가봉](../Page/가봉.md "wikilink") [리브르빌](../Page/리브르빌.md "wikilink")
 
 <!-- end list -->
 
-  - [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")
+  - [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")
 
-  - [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink")
+  - [중화인민공화국](../Page/중화인민공화국.md "wikilink") [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink")
 
-  - [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") [충칭](https://ko.wikipedia.org/wiki/충칭 "wikilink")
+  - [중화인민공화국](../Page/중화인민공화국.md "wikilink") [충칭](https://ko.wikipedia.org/wiki/충칭 "wikilink")
 
-  - [콩고 공화국](https://ko.wikipedia.org/wiki/콩고_공화국 "wikilink") [브라자빌](https://ko.wikipedia.org/wiki/브라자빌 "wikilink")
+  - [콩고 공화국](../Page/콩고_공화국.md "wikilink") [브라자빌](../Page/브라자빌.md "wikilink")
 
-  - [태국](../Page/태국.md "wikilink") [방콕](https://ko.wikipedia.org/wiki/방콕 "wikilink")
+  - [태국](../Page/태국.md "wikilink") [방콕](../Page/방콕.md "wikilink")
 
-  - [프랑스](../Page/프랑스.md "wikilink") [파리](https://ko.wikipedia.org/wiki/파리_\(프랑스\) "wikilink")
+  - [프랑스](../Page/프랑스.md "wikilink") [파리](../Page/파리_\(프랑스\).md "wikilink")
 
-  - [카보베르데](../Page/카보베르데.md "wikilink") [프라이아](https://ko.wikipedia.org/wiki/프라이아 "wikilink")
+  - [카보베르데](../Page/카보베르데.md "wikilink") [프라이아](../Page/프라이아.md "wikilink")
 
-  - [니제르](https://ko.wikipedia.org/wiki/니제르 "wikilink") [니아메](https://ko.wikipedia.org/wiki/니아메 "wikilink")
+  - [니제르](../Page/니제르.md "wikilink") [니아메](../Page/니아메.md "wikilink")
 
-  - [에티오피아](https://ko.wikipedia.org/wiki/에티오피아 "wikilink") [아디스아바바](https://ko.wikipedia.org/wiki/아디스아바바 "wikilink")
+  - [에티오피아](../Page/에티오피아.md "wikilink") [아디스아바바](../Page/아디스아바바.md "wikilink")
 
 ## 참고
 

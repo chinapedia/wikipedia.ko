@@ -46,7 +46,7 @@ Mr.Children은 싱글 29장 연속 1위 기록을 갖고 있으며\[5\], 1994년
 
 2010년 12월 1일, Mr.Children은 음반의 유일한 싱글이자 디지털 싱글로 발매한 〈fanfare〉가 수록된 그들의 16번째 음반 《[SENSE](../Page/SENSE.md "wikilink")》를 발매했다. 발매 직전인 11월 29일까지 발매일을 제외한 수록곡, 곡수, 음반 제목, 커버 등 상세한 정보는 밝혀지지 않았었다.
 
-2011년 4월 4일, Mr.Children은 [2011년 도호쿠 지방 태평양 해역 지진](https://ko.wikipedia.org/wiki/2011년_도호쿠_지방_태평양_해역_지진 "wikilink") 기부금을 모으기 위한 디지털 싱글 〈카조에 우타〉를 발매했다\[8\]. 이 노래는 발매 첫 주에 [AKB48](../Page/AKB48.md "wikilink")의 자선 싱글 〈다레카노 타메니 (What Can I Do for Someone?)〉를 제치고 1위를 차지했으며\[9\], 2011년 일본의 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink") 연간 다운로드 순위에서 일본의 음악가로는 가장 높은 순위인 4위를 차지했다\[10\].
+2011년 4월 4일, Mr.Children은 [2011년 도호쿠 지방 태평양 해역 지진](https://ko.wikipedia.org/wiki/2011년_도호쿠_지방_태평양_해역_지진 "wikilink") 기부금을 모으기 위한 디지털 싱글 〈카조에 우타〉를 발매했다\[8\]. 이 노래는 발매 첫 주에 [AKB48](../Page/AKB48.md "wikilink")의 자선 싱글 〈다레카노 타메니 (What Can I Do for Someone?)〉를 제치고 1위를 차지했으며\[9\], 2011년 일본의 [아이튠즈](../Page/아이튠즈.md "wikilink") 연간 다운로드 순위에서 일본의 음악가로는 가장 높은 순위인 4위를 차지했다\[10\].
 
 ### 2012년
 
@@ -105,7 +105,7 @@ Mr.Children은 싱글 29장 연속 1위 기록을 갖고 있으며\[5\], 1994년
   -
     *Seesaw Game \~Yukanna Koi no Uta\~* (시소 게임 \~용감한 사랑의 노래\~)
     [1995년](../Page/1995년.md "wikilink") 발매. 181만 장. [오리콘](../Page/오리콘.md "wikilink") 3주 연속 1위.
-    "논타이업 싱글로는 역대 2위"를 기록. (역대 1위는 [우타다 히카루의](https://ko.wikipedia.org/wiki/우타다_히카루 "wikilink") "Automatic")
+    "논타이업 싱글로는 역대 2위"를 기록. (역대 1위는 [우타다 히카루의](../Page/우타다_히카루.md "wikilink") "Automatic")
     [고베 대지진](https://ko.wikipedia.org/wiki/1995년_한신·아와지_대지진 "wikilink") 돕기 노래.
       -
         작사: 사쿠라이 카즈토시
@@ -149,7 +149,7 @@ Mr.Children은 싱글 29장 연속 1위 기록을 갖고 있으며\[5\], 1994년
 
   -
     *Shirushi* (증표)
-    [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 발매. 74만 장 판매. [오리콘](../Page/오리콘.md "wikilink") 1위 복귀 싱글(2006년 11월 20일 오리콘 위클리 차트 이후 2007년 1월 15일 오리콘 위클리 차트 1위).
+    [2006년](../Page/2006년.md "wikilink") 발매. 74만 장 판매. [오리콘](../Page/오리콘.md "wikilink") 1위 복귀 싱글(2006년 11월 20일 오리콘 위클리 차트 이후 2007년 1월 15일 오리콘 위클리 차트 1위).
     드라마 (14세의 어머니) 주제가.
       -
         작사: 사쿠라이 카즈토시

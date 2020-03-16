@@ -23,8 +23,8 @@
 
 <!-- end list -->
 
-  - [모치다 카오리](https://ko.wikipedia.org/wiki/모치다_카오리 "wikilink") (, [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") - ) [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 작사
-  - [이토 이치로](https://ko.wikipedia.org/wiki/이토_이치로 "wikilink") (, [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [11월 10일](../Page/11월_10일.md "wikilink") - ) [기타](../Page/기타.md "wikilink")
+  - [모치다 카오리](https://ko.wikipedia.org/wiki/모치다_카오리 "wikilink") (, [1978년](../Page/1978년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") - ) [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), 작사
+  - [이토 이치로](https://ko.wikipedia.org/wiki/이토_이치로 "wikilink") (, [1967년](../Page/1967년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink") - ) [기타](../Page/기타.md "wikilink")
 
 <!-- end list -->
 

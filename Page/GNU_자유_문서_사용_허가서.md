@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GNU    ](https://ko.wikipedia.org/wiki/GNU____).
 
 
-**GNU 자유 문서 사용 허가서**(-自由文書使用許可書, GNU Free Documentation License, GNU FDL, **GFDL**, **GNU FDL**)는 일종의 [자유문서를](https://ko.wikipedia.org/wiki/자유_콘텐츠 "wikilink") 위한 [저작권](https://ko.wikipedia.org/wiki/저작권 "wikilink") 라이선스의 한 형태로서 [자유 소프트웨어 재단](https://ko.wikipedia.org/wiki/자유_소프트웨어_재단 "wikilink")(FSF, *Free Software Foundation*)에서 [GNU](https://ko.wikipedia.org/wiki/GNU "wikilink")의 프로젝트를 위해서 착안되었다. GFDL에 따라 만든 문서는 자유롭게 복사, 수정, 재배포가 가능하며, 2차 저작물 역시 GFDL을 따라야 한다. GFDL을 따르는 문서는 기본적으로 무료로 배포되지만, 대량으로 제작된 경우 유료로 판매될 수도 있다. 현재 ‘GNU 자유 문서 사용 허가서’에 따라 추진 중인 프로젝트들 가운데 가장 큰 프로젝트로 손꼽히고 있는 것이 바로 [위키백과](../Page/위키백과.md "wikilink")다. 위키백과는 [크리에이티브 커먼즈](https://ko.wikipedia.org/wiki/크리에이티브_커먼즈 "wikilink")(CCL)와 GNU 자유 문서(GFDL)의 2중 라이선스를 따른다.
+**GNU 자유 문서 사용 허가서**(-自由文書使用許可書, GNU Free Documentation License, GNU FDL, **GFDL**, **GNU FDL**)는 일종의 [자유문서를](https://ko.wikipedia.org/wiki/자유_콘텐츠 "wikilink") 위한 [저작권](../Page/저작권.md "wikilink") 라이선스의 한 형태로서 [자유 소프트웨어 재단](../Page/자유_소프트웨어_재단.md "wikilink")(FSF, *Free Software Foundation*)에서 [GNU](../Page/GNU.md "wikilink")의 프로젝트를 위해서 착안되었다. GFDL에 따라 만든 문서는 자유롭게 복사, 수정, 재배포가 가능하며, 2차 저작물 역시 GFDL을 따라야 한다. GFDL을 따르는 문서는 기본적으로 무료로 배포되지만, 대량으로 제작된 경우 유료로 판매될 수도 있다. 현재 ‘GNU 자유 문서 사용 허가서’에 따라 추진 중인 프로젝트들 가운데 가장 큰 프로젝트로 손꼽히고 있는 것이 바로 [위키백과](../Page/위키백과.md "wikilink")다. 위키백과는 [크리에이티브 커먼즈](../Page/크리에이티브_커먼즈.md "wikilink")(CCL)와 GNU 자유 문서(GFDL)의 2중 라이선스를 따른다.
 
 ## 내용
 
@@ -17,7 +17,7 @@
 
 ### CC-BY-SA와의 호환성
 
-두 허가서가 비슷한 저작권 방침을 가지고 있지만 GFDL은 [크리에이티브 커먼즈](https://ko.wikipedia.org/wiki/크리에이티브_커먼즈 "wikilink") 저작자표시-동일조건변경허락 라이선스와 호환되지 않는다. 하지만 1.3판에서는 GNU 자유 문서 사용 허가서를 사용하고 있는 특정 웹 사이트의 저작권을 CC-BY-SA로 변경할 수 있도록 하는 조항을 추가하였다.
+두 허가서가 비슷한 저작권 방침을 가지고 있지만 GFDL은 [크리에이티브 커먼즈](../Page/크리에이티브_커먼즈.md "wikilink") 저작자표시-동일조건변경허락 라이선스와 호환되지 않는다. 하지만 1.3판에서는 GNU 자유 문서 사용 허가서를 사용하고 있는 특정 웹 사이트의 저작권을 CC-BY-SA로 변경할 수 있도록 하는 조항을 추가하였다.
 
 이 예외 조항은 다음의 몇 가지 조건을 충족한다면 GFDL 기반의 다중 저자 협력 프로젝트 사이트 (Massive Multiauthor Collaboration Site)에서 CC-BY-SA-3.0으로 변경할 수 있도록 허가하고 있다.
 
@@ -28,20 +28,20 @@
 
 ### GPL과의 비호환성
 
-GNU 자유 문서 사용 허가서는 [GNU 일반 공중 사용 허가서와](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 호환되지 않는다.\[1\]
+GNU 자유 문서 사용 허가서는 [GNU 일반 공중 사용 허가서와](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 호환되지 않는다.\[1\]
 
 ## 읽어 보기
 
-  - [GNU 일반 공중 사용 허가서](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") (GNU GPL)
+  - [GNU 일반 공중 사용 허가서](../Page/GNU_일반_공중_사용_허가서.md "wikilink") (GNU GPL)
   - [자유문서](https://ko.wikipedia.org/wiki/자유_콘텐츠 "wikilink") (Free Contents)
-  - [퍼블릭 도메인](https://ko.wikipedia.org/wiki/퍼블릭_도메인 "wikilink") (Public Domain)
+  - [퍼블릭 도메인](../Page/퍼블릭_도메인.md "wikilink") (Public Domain)
   - [공정 이용](../Page/공정_이용.md "wikilink") (Fair Use)
 
 ## 또다른 자유 콘텐츠 사용 허가 유형
 
 아래 목록들 중 몇 가지는 GNU FDL과는 별개로 발전해 온 것들이다. 그리고 몇 가지는 GNU FDL의 결함에 대응하기 위한 목적으로 만들어졌다.
 
-  - [크리에이티브 커먼즈](https://ko.wikipedia.org/wiki/크리에이티브_커먼즈 "wikilink") (Creative Commons) "CC BY-SA" 라이선스
+  - [크리에이티브 커먼즈](../Page/크리에이티브_커먼즈.md "wikilink") (Creative Commons) "CC BY-SA" 라이선스
   - [디자인 사이언스 라이선스](https://ko.wikipedia.org/wiki/디자인_사이언스_라이선스 "wikilink")
   - [프리 아트 라이선스](../Page/프리_아트_라이선스.md "wikilink")
   - [FreeBSD 문서 라이선스](https://ko.wikipedia.org/wiki/FreeBSD_문서_라이선스 "wikilink")
@@ -52,7 +52,7 @@ GNU 자유 문서 사용 허가서는 [GNU 일반 공중 사용 허가서와](ht
 
 ## GFDL을 사용하는 프로젝트 목록
 
-  - [위키백과](../Page/위키백과.md "wikilink")([위키여행](../Page/위키여행.md "wikilink"),[위키뉴스](https://ko.wikipedia.org/wiki/위키뉴스 "wikilink")는 제외)를 포함하는 [위키미디어 재단의](https://ko.wikipedia.org/wiki/위키미디어_재단 "wikilink") 프로젝트 대부분 - 2009년 6월 15일, 제11절에 따라 크리에이티브 커먼즈 CC-BY-SA 라이센스와 GFDL 아래 위키 콘텐츠를 이중 라이선스(dual-license)한다.
+  - [위키백과](../Page/위키백과.md "wikilink")([위키여행](../Page/위키여행.md "wikilink"),[위키뉴스](../Page/위키뉴스.md "wikilink")는 제외)를 포함하는 [위키미디어 재단의](../Page/위키미디어_재단.md "wikilink") 프로젝트 대부분 - 2009년 6월 15일, 제11절에 따라 크리에이티브 커먼즈 CC-BY-SA 라이센스와 GFDL 아래 위키 콘텐츠를 이중 라이선스(dual-license)한다.
   - [Anarchist FAQ](https://ko.wikipedia.org/wiki/Anarchist_FAQ "wikilink")
   - [Citizendium](https://ko.wikipedia.org/wiki/Citizendium "wikilink") - 출처가 위키피디아인 기사는 GFDL을 사용한다.
   - [자유 온라인 컴퓨팅 사전](../Page/자유_온라인_컴퓨팅_사전.md "wikilink")

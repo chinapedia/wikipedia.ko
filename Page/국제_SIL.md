@@ -8,14 +8,14 @@
 국제 SIL은 에스놀로그에 기록되는 모든 언어에 3자리 부호를 매기는데 그 부호 수는 [ISO 639나](../Page/ISO_639.md "wikilink") RFC 3066 등 기타 언어부호 체계의 부호 수보다 월등히 많으며, 2007년에 ISO 표준([ISO 639-3](https://ko.wikipedia.org/wiki/ISO_639-3 "wikilink"))으로 인정되었다. 다음은 SIL 부호의 몇가지 예이다.
 
   - KOR - [한국어](../Page/한국어.md "wikilink")
-  - KSV - [한국어](../Page/한국어.md "wikilink")의 [수화](https://ko.wikipedia.org/wiki/수화 "wikilink")
+  - KSV - [한국어](../Page/한국어.md "wikilink")의 [수화](../Page/수화.md "wikilink")
   - CMN - [중국어](../Page/중국어.md "wikilink") [관화](../Page/관화.md "wikilink")
   - JPN - [일본어](../Page/일본어.md "wikilink")
   - AQR - 표준 [아랍어](../Page/아랍어.md "wikilink")
   - ENG - [영어](../Page/영어.md "wikilink")
   - FRA - [프랑스어](../Page/프랑스어.md "wikilink")
   - SPA - [에스파냐어](https://ko.wikipedia.org/wiki/에스파냐어 "wikilink")
-  - RUS - [러시아어](https://ko.wikipedia.org/wiki/러시아어 "wikilink")
+  - RUS - [러시아어](../Page/러시아어.md "wikilink")
 
 전체 목록은 <http://www.ethnologue.com/codes/#downloading> 에서 다운로드 받을 수 있다.
 

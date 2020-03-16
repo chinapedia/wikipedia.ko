@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [GNU](https://ko.wikipedia.org/wiki/GNU).
 
 
-**GNU**(, 그누)\[1\] \[2\]는 [운영 체제의](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 하나이자\[3\]\[4\]\[5\] 컴퓨터 소프트웨어의 모음집이다. GNU는 온전히 [자유 소프트웨어로](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") 이루어져 있으며,\[6\]\[7\]\[8\] 그 중 대부분이 [GNU 프로젝트의](../Page/GNU_프로젝트.md "wikilink") [GPL로](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink") 라이선스된다.
+**GNU**(, 그누)\[1\] \[2\]는 [운영 체제의](../Page/운영_체제.md "wikilink") 하나이자\[3\]\[4\]\[5\] 컴퓨터 소프트웨어의 모음집이다. GNU는 온전히 [자유 소프트웨어로](../Page/자유_소프트웨어.md "wikilink") 이루어져 있으며,\[6\]\[7\]\[8\] 그 중 대부분이 [GNU 프로젝트의](../Page/GNU_프로젝트.md "wikilink") [GPL로](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink") 라이선스된다.
 
-GNU는 *"GNU's Not Unix\!"*(GNU는 유닉스가 아니다\!)의 [재귀 약자이며](https://ko.wikipedia.org/wiki/재귀_약자 "wikilink"),\[9\]\[10\] 이렇게 선정된 이유는 GNU의 디자인이 [유닉스 계열이지만](../Page/유닉스_계열.md "wikilink") 자유 소프트웨어인 점과 [유닉스 코드를](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 포함하지 않는다는 점에서 차별을 두려는 것이다.\[11\]\[12\]\[13\] GNU 프로젝트에는 [운영 체제 커널인](https://ko.wikipedia.org/wiki/운영_체제_커널 "wikilink") [GNU HURD가](https://ko.wikipedia.org/wiki/GNU_HURD "wikilink") 들어있는데, 원래 [자유 소프트웨어 재단](https://ko.wikipedia.org/wiki/자유_소프트웨어_재단 "wikilink")(FSF)에서 거기에 중점을 두고 있었다.\[14\]\[15\]\[16\]\[17\] 그러나 허드(Hurd) 커널이 아직 산업용으로 사용 가능한 상태가 아니라서\[18\], 그 대신 GNU가 아닌 커널([리눅스가](../Page/리눅스_커널.md "wikilink") 가장 많이 사용된다)을 GNU 소프트웨어와 함께 사용할 수 있다. 현재 GNU와 LINUX를 결합하여 너무나 많이 사용되므로, 이 조합을 짧게 'LINUX'라고 말하는 경우가 많으며, GNU/LINUX라고 부르는 경우는 많지 않다.\[19\]\[20\]
+GNU는 *"GNU's Not Unix\!"*(GNU는 유닉스가 아니다\!)의 [재귀 약자이며](../Page/재귀_약자.md "wikilink"),\[9\]\[10\] 이렇게 선정된 이유는 GNU의 디자인이 [유닉스 계열이지만](../Page/유닉스_계열.md "wikilink") 자유 소프트웨어인 점과 [유닉스 코드를](../Page/유닉스.md "wikilink") 포함하지 않는다는 점에서 차별을 두려는 것이다.\[11\]\[12\]\[13\] GNU 프로젝트에는 [운영 체제 커널인](https://ko.wikipedia.org/wiki/운영_체제_커널 "wikilink") [GNU HURD가](https://ko.wikipedia.org/wiki/GNU_HURD "wikilink") 들어있는데, 원래 [자유 소프트웨어 재단](../Page/자유_소프트웨어_재단.md "wikilink")(FSF)에서 거기에 중점을 두고 있었다.\[14\]\[15\]\[16\]\[17\] 그러나 허드(Hurd) 커널이 아직 산업용으로 사용 가능한 상태가 아니라서\[18\], 그 대신 GNU가 아닌 커널([리눅스가](../Page/리눅스_커널.md "wikilink") 가장 많이 사용된다)을 GNU 소프트웨어와 함께 사용할 수 있다. 현재 GNU와 LINUX를 결합하여 너무나 많이 사용되므로, 이 조합을 짧게 'LINUX'라고 말하는 경우가 많으며, GNU/LINUX라고 부르는 경우는 많지 않다.\[19\]\[20\]
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Richard_Stallman_-_Fête_de_l'Humanité_2014_-_010.jpg "wikilink")\]\]
 
-프로젝트의 창립자 [리처드 스톨먼은](https://ko.wikipedia.org/wiki/리처드_스톨먼 "wikilink") GNU를 "사회에 대한 기술적 수단'으로 보았다.\[21\] 이와 관련해 Lawrence Lessig는 스톨먼의 책 《[자유 소프트웨어, 자유 사회](https://ko.wikipedia.org/wiki/자유_소프트웨어,_자유_사회 "wikilink")》 제2판에서 스톨먼은 소프트웨어의 사회적 관념과 어떻게 자유 소프트웨어가 공동체와 사회 정의를 조성할 수 있는지에 대해 썼다고 언급하였다.\[22\]
+프로젝트의 창립자 [리처드 스톨먼은](../Page/리처드_스톨먼.md "wikilink") GNU를 "사회에 대한 기술적 수단'으로 보았다.\[21\] 이와 관련해 Lawrence Lessig는 스톨먼의 책 《[자유 소프트웨어, 자유 사회](https://ko.wikipedia.org/wiki/자유_소프트웨어,_자유_사회 "wikilink")》 제2판에서 스톨먼은 소프트웨어의 사회적 관념과 어떻게 자유 소프트웨어가 공동체와 사회 정의를 조성할 수 있는지에 대해 썼다고 언급하였다.\[22\]
 
 ## 구성 요소
 
@@ -25,7 +25,7 @@ GNU 자유 시스템 배포 가이드라인(GNU Free System Distribution Guideli
 
 ## GNU 허드
 
-GNU 프로젝트가 GNU [운영 체제를](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 완성하는 것이라고 했을때, 소프트웨어적인 면에서는 자유 소프트웨어의 결과물 카테고리인 [자유 소프트웨어 디렉터리](http://directory.fsf.org/wiki/Main_Page)에서 보이는 것과 하드웨어적인 면에서는 추구하고 있는 바가 운영 체제의 핵심인 [커널](https://ko.wikipedia.org/wiki/커널_\(컴퓨팅\) "wikilink") 즉, [GNU 허드를](../Page/GNU_허드.md "wikilink") 만들어 내는 것이라고 할 수 있겠다.
+GNU 프로젝트가 GNU [운영 체제를](../Page/운영_체제.md "wikilink") 완성하는 것이라고 했을때, 소프트웨어적인 면에서는 자유 소프트웨어의 결과물 카테고리인 [자유 소프트웨어 디렉터리](http://directory.fsf.org/wiki/Main_Page)에서 보이는 것과 하드웨어적인 면에서는 추구하고 있는 바가 운영 체제의 핵심인 [커널](../Page/커널_\(컴퓨팅\).md "wikilink") 즉, [GNU 허드를](../Page/GNU_허드.md "wikilink") 만들어 내는 것이라고 할 수 있겠다.
 
 이러한 소프트웨어적인 면과 하드웨어적인 면을 통해 온전한 자유로운 운영 체제를 만드는 것이 GNU 프로젝트의 목표라고 한다면, GNU Hurd는 하드웨어를 통괄 제어하는 GNU 운영 체제의 커널이 되겠다.
 
@@ -34,8 +34,8 @@ GNU 프로젝트가 GNU [운영 체제를](https://ko.wikipedia.org/wiki/운영_
   - [GNU 프로젝트](../Page/GNU_프로젝트.md "wikilink")
   - [GNU/리눅스](https://ko.wikipedia.org/wiki/GNU/리눅스 "wikilink")
   - [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink")
-  - [자유 소프트웨어](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink")
-  - [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink")
+  - [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink")
+  - [유닉스](../Page/유닉스.md "wikilink")
 
 ## 각주
 

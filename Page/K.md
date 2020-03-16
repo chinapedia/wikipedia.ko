@@ -21,7 +21,7 @@ K는 손바닥을 뜻하는 그림 문자에서 유래했다.
 ## 관련 글자
 
   - [카프](https://ko.wikipedia.org/wiki/카프_\(페니키아\) "wikilink")
-  - [Κ κ](https://ko.wikipedia.org/wiki/Κ "wikilink"),(그리스 문자)
+  - [Κ κ](../Page/Κ.md "wikilink"),(그리스 문자)
   - [К к](https://ko.wikipedia.org/wiki/К "wikilink"),(키릴 문자)
 
 [K](https://ko.wikipedia.org/wiki/분류:로마자_낱자 "wikilink")

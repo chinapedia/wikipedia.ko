@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HTML](https://ko.wikipedia.org/wiki/HTML).
 
 
-**HTML**은 **하이퍼텍스트 마크업 언어**(, )라는 의미의 [웹 페이지를](../Page/웹_페이지.md "wikilink") 위한 지배적인 [마크업 언어다](https://ko.wikipedia.org/wiki/마크업_언어 "wikilink"). HTML은 제목, 단락, 목록 등과 같은 본문을 위한 구조적 의미를 나타내는 것뿐만 아니라 링크, 인용과 그 밖의 항목으로 [구조적 문서를](https://ko.wikipedia.org/wiki/구조적_문서 "wikilink") 만들 수 있는 방법을 제공한다. 그리고 이미지와 객체를 내장하고 대화형 양식을 생성하는 데 사용될 수 있다. HTML은 웹 페이지 콘텐츠 안의 [꺾쇠 괄호에](https://ko.wikipedia.org/wiki/괄호#꺾쇠_괄호 "wikilink") 둘러싸인 "태그"로 되어있는 [HTML 요소](../Page/HTML_요소.md "wikilink") 형태로 작성한다. HTML은 [웹 브라우저와](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink") 같은 HTML 처리 장치의 행동에 영향을 주는 [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")와 본문과 그 밖의 항목의 외관과 배치를 정의하는 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink") 같은 [스크립트를](../Page/스크립트_언어.md "wikilink") 포함하거나 불러올 수 있다. HTML과 CSS 표준의 공동 책임자인 [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")는 명확하고 표상적인 마크업을 위하여 CSS의 사용을 권장한다.\[1\]
+**HTML**은 **하이퍼텍스트 마크업 언어**(, )라는 의미의 [웹 페이지를](../Page/웹_페이지.md "wikilink") 위한 지배적인 [마크업 언어다](../Page/마크업_언어.md "wikilink"). HTML은 제목, 단락, 목록 등과 같은 본문을 위한 구조적 의미를 나타내는 것뿐만 아니라 링크, 인용과 그 밖의 항목으로 [구조적 문서를](https://ko.wikipedia.org/wiki/구조적_문서 "wikilink") 만들 수 있는 방법을 제공한다. 그리고 이미지와 객체를 내장하고 대화형 양식을 생성하는 데 사용될 수 있다. HTML은 웹 페이지 콘텐츠 안의 [꺾쇠 괄호에](https://ko.wikipedia.org/wiki/괄호#꺾쇠_괄호 "wikilink") 둘러싸인 "태그"로 되어있는 [HTML 요소](../Page/HTML_요소.md "wikilink") 형태로 작성한다. HTML은 [웹 브라우저와](../Page/웹_브라우저.md "wikilink") 같은 HTML 처리 장치의 행동에 영향을 주는 [자바스크립트](../Page/자바스크립트.md "wikilink")와 본문과 그 밖의 항목의 외관과 배치를 정의하는 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink") 같은 [스크립트를](../Page/스크립트_언어.md "wikilink") 포함하거나 불러올 수 있다. HTML과 CSS 표준의 공동 책임자인 [W3C](../Page/W3C.md "wikilink")는 명확하고 표상적인 마크업을 위하여 CSS의 사용을 권장한다.\[1\]
 
 ## 역사
 
@@ -9,27 +9,27 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Tim_Berners-Lee_April_2009.jpg "wikilink")\]\]
 
-1980년, [유럽 입자 물리 연구소](https://ko.wikipedia.org/wiki/유럽_입자_물리_연구소 "wikilink")(CERN)의 계약자였었던 물리학자 [팀 버너스리가](https://ko.wikipedia.org/wiki/팀_버너스리 "wikilink") HTML의 원형인 [인콰이어](https://ko.wikipedia.org/wiki/인콰이어 "wikilink")를 제안하였다. 인콰이어는 CERN의 연구원들이 문서를 이용하고 공유하기 위한 체계였다. 1989년에 팀 버너스리는 [인터넷](../Page/인터넷.md "wikilink") 기반 [하이퍼텍스트](https://ko.wikipedia.org/wiki/하이퍼텍스트 "wikilink") 체계를 제안하는 메모를 작성했다.\[2\] 버너스 리는 1990년 말에 HTML을 명시하고, 브라우저와 서버 소프트웨어를 작성했다. 그 해에 버너스리와 CERN 데이터 시스템 엔지니어 [로버트 카일리아우와](https://ko.wikipedia.org/wiki/로버트_카일리아우 "wikilink") 함께 CERN측에 자금 지원을 요청하였지만, 이 프로젝트는 CERN으로부터 정식으로 채택 받지 못했다. 버너스리의 개인적인 기록\[3\] 에 1990년부터 "하이퍼텍스트가 사용되는 여러 분야의 일부"를 열거했고 백과사전을 그 목록의 첫 번째로 두었다.
+1980년, [유럽 입자 물리 연구소](https://ko.wikipedia.org/wiki/유럽_입자_물리_연구소 "wikilink")(CERN)의 계약자였었던 물리학자 [팀 버너스리가](../Page/팀_버너스리.md "wikilink") HTML의 원형인 [인콰이어](https://ko.wikipedia.org/wiki/인콰이어 "wikilink")를 제안하였다. 인콰이어는 CERN의 연구원들이 문서를 이용하고 공유하기 위한 체계였다. 1989년에 팀 버너스리는 [인터넷](../Page/인터넷.md "wikilink") 기반 [하이퍼텍스트](../Page/하이퍼텍스트.md "wikilink") 체계를 제안하는 메모를 작성했다.\[2\] 버너스 리는 1990년 말에 HTML을 명시하고, 브라우저와 서버 소프트웨어를 작성했다. 그 해에 버너스리와 CERN 데이터 시스템 엔지니어 [로버트 카일리아우와](https://ko.wikipedia.org/wiki/로버트_카일리아우 "wikilink") 함께 CERN측에 자금 지원을 요청하였지만, 이 프로젝트는 CERN으로부터 정식으로 채택 받지 못했다. 버너스리의 개인적인 기록\[3\] 에 1990년부터 "하이퍼텍스트가 사용되는 여러 분야의 일부"를 열거했고 백과사전을 그 목록의 첫 번째로 두었다.
 
 ### 최초 규격
 
 HTML 최초의 일반 공개 설명은 1991년 말에 버너스리가 처음으로 인터넷에서 문서를 "HTML 태그"(*HTML tag*)로 부르면서 시작되었다.\[4\]\[5\]
 
-그것은 머릿글자로 이루어진 20개의 요소를 기술하였고, 상대적으로 HTML의 단순한 디자인이었다. 하이퍼링크를 제외한 HTML 태그들은 CERN 자체의 [SGML](https://ko.wikipedia.org/wiki/SGML "wikilink") 기반 문서화 포맷인 SGML [GUID](https://ko.wikipedia.org/wiki/GUID "wikilink")에 강하게 영향을 받았다. 이 요소 중 13개는 HTML 4 버전에서도 여전히 존재한다.\[6\]
+그것은 머릿글자로 이루어진 20개의 요소를 기술하였고, 상대적으로 HTML의 단순한 디자인이었다. 하이퍼링크를 제외한 HTML 태그들은 CERN 자체의 [SGML](../Page/SGML.md "wikilink") 기반 문서화 포맷인 SGML [GUID](https://ko.wikipedia.org/wiki/GUID "wikilink")에 강하게 영향을 받았다. 이 요소 중 13개는 HTML 4 버전에서도 여전히 존재한다.\[6\]
 
-HTML은 동적인 웹 페이지의 [웹 브라우저를](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink") 통한 문자와 이미지 양식이다. 문자 요소의 대부분은 1988년 ISO 기술 보고서 9537 *SGML을 이용한 기법*에서 찾을 수 있다. 하지만 SGML 개념의 일반적인 마크업은 단지 개별 효과 보다는 요소 기반이고 또한 구조와 처리의 분리(?)(HTML은 CSS와 함께 이 방향으로 점진적으로 이동해 왔다.)
+HTML은 동적인 웹 페이지의 [웹 브라우저를](../Page/웹_브라우저.md "wikilink") 통한 문자와 이미지 양식이다. 문자 요소의 대부분은 1988년 ISO 기술 보고서 9537 *SGML을 이용한 기법*에서 찾을 수 있다. 하지만 SGML 개념의 일반적인 마크업은 단지 개별 효과 보다는 요소 기반이고 또한 구조와 처리의 분리(?)(HTML은 CSS와 함께 이 방향으로 점진적으로 이동해 왔다.)
 
-버너스리는 [SGML](https://ko.wikipedia.org/wiki/SGML "wikilink") 응용 프로그램이 되는 HTML을 고안해야 했고 그것은 공식적으로 [IETF](https://ko.wikipedia.org/wiki/국제_인터넷_표준화_기구 "wikilink")(국제 인터넷 표준화 기구)에 의하여 1993년 중반, HTML 규격에 대한 최초의 제안을 간행물로 정의했다. (버너스리와 [덴 콘놀리에](https://ko.wikipedia.org/wiki/덴_콘놀리 "wikilink") 의한 문법을 규정하는 SGML [문서 형식 정의](https://ko.wikipedia.org/wiki/문서_형식_정의 "wikilink")(SGML DTD)가 포함된 ["하이퍼텍스트 마크업 언어(HTML)" 인터넷 초안](http://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt)\[7\]) 이 초안은 6개월 후 만료된다. 하지만 [NCSA 모자이크](https://ko.wikipedia.org/wiki/모자이크_\(웹_브라우저\) "wikilink") 브라우저의 인라인 이미지를 내장하는 사용자 정의 태그의 사례는 주목할 만 했고, 성공적인 [프로토타입](../Page/프로토타입.md "wikilink")에 대한 표준을 기반한 IETF의 철학을. \[8\] 마찬가지로 데이브 라그렛의 경쟁 인터넷 초안인 "HTML+ (하이퍼텍스트 마크업 포맷)"은 1993년 말에 테이블과 기입양식 같은 요소들을 이미 구현하여 표준화 제안을 했다.\[9\]
+버너스리는 [SGML](../Page/SGML.md "wikilink") 응용 프로그램이 되는 HTML을 고안해야 했고 그것은 공식적으로 [IETF](../Page/국제_인터넷_표준화_기구.md "wikilink")(국제 인터넷 표준화 기구)에 의하여 1993년 중반, HTML 규격에 대한 최초의 제안을 간행물로 정의했다. (버너스리와 [덴 콘놀리에](https://ko.wikipedia.org/wiki/덴_콘놀리 "wikilink") 의한 문법을 규정하는 SGML [문서 형식 정의](https://ko.wikipedia.org/wiki/문서_형식_정의 "wikilink")(SGML DTD)가 포함된 ["하이퍼텍스트 마크업 언어(HTML)" 인터넷 초안](http://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt)\[7\]) 이 초안은 6개월 후 만료된다. 하지만 [NCSA 모자이크](../Page/모자이크_\(웹_브라우저\).md "wikilink") 브라우저의 인라인 이미지를 내장하는 사용자 정의 태그의 사례는 주목할 만 했고, 성공적인 [프로토타입](../Page/프로토타입.md "wikilink")에 대한 표준을 기반한 IETF의 철학을. \[8\] 마찬가지로 데이브 라그렛의 경쟁 인터넷 초안인 "HTML+ (하이퍼텍스트 마크업 포맷)"은 1993년 말에 테이블과 기입양식 같은 요소들을 이미 구현하여 표준화 제안을 했다.\[9\]
 
-이후 1994년 초 HTML과 HTML+ 초안은 만료되었고, IETF는 HTML 작업 그룹을 설립해 1995년에 HTML 2.0을 완성한다. 최초의 HTML의 규격은 미래에 수행될 HTML 표준을 기반으로 간주되는 경향이 있었다.\[10\][RFC](https://ko.wikipedia.org/wiki/RFC "wikilink") 1996년에 HTML 2.0은 HTML과 HTML+ 초안의 아이디어가 포함됐다고 발표했다.\[11\] HTML 2.0 지정은 이전의 초안들로부터 새로운 버전을 구별하기 위해서였다.\[12\]
+이후 1994년 초 HTML과 HTML+ 초안은 만료되었고, IETF는 HTML 작업 그룹을 설립해 1995년에 HTML 2.0을 완성한다. 최초의 HTML의 규격은 미래에 수행될 HTML 표준을 기반으로 간주되는 경향이 있었다.\[10\][RFC](../Page/RFC.md "wikilink") 1996년에 HTML 2.0은 HTML과 HTML+ 초안의 아이디어가 포함됐다고 발표했다.\[11\] HTML 2.0 지정은 이전의 초안들로부터 새로운 버전을 구별하기 위해서였다.\[12\]
 
-게다가 IETF의 후원하에 개발은 상충하는 이해 관계 때문에 지연되었다. 1996년부터 HTML 규격은 상용 소프트웨어 제작사의 투입으로 [월드 와이드 웹 컨소시엄](https://ko.wikipedia.org/wiki/W3C "wikilink")(W3C)에서 유지해 왔다.\[13\] 하지만 2000년부터 HTML 또한 국제 표준([ISO](https://ko.wikipedia.org/wiki/ISO "wikilink")/IEC 15445:2000)이 되었다. 현재 W3C에 의해 발표된 최신 규격은 1999년 말에 발표된 HTML 4.01 권고안이며 2001년에 문제와 오류들이 수정되어 발표된 안이 최종 승인되었다.
+게다가 IETF의 후원하에 개발은 상충하는 이해 관계 때문에 지연되었다. 1996년부터 HTML 규격은 상용 소프트웨어 제작사의 투입으로 [월드 와이드 웹 컨소시엄](../Page/W3C.md "wikilink")(W3C)에서 유지해 왔다.\[13\] 하지만 2000년부터 HTML 또한 국제 표준([ISO](https://ko.wikipedia.org/wiki/ISO "wikilink")/IEC 15445:2000)이 되었다. 현재 W3C에 의해 발표된 최신 규격은 1999년 말에 발표된 HTML 4.01 권고안이며 2001년에 문제와 오류들이 수정되어 발표된 안이 최종 승인되었다.
 
 ### 표준 버전의 역사
 
 #### HTML 버전 스케줄
 
-  - 1995년 11월 24일: HTML 2.0이 [IETF](https://ko.wikipedia.org/wiki/IETF "wikilink")의 RFC 1866로 발표되었다. 추보의 [RFC](https://ko.wikipedia.org/wiki/RFC "wikilink")의 추가된 기능:
+  - 1995년 11월 24일: HTML 2.0이 [IETF](https://ko.wikipedia.org/wiki/IETF "wikilink")의 RFC 1866로 발표되었다. 추보의 [RFC](../Page/RFC.md "wikilink")의 추가된 기능:
 
 :\* 1995년 11월 25일: RFC 1867 (양식 기반 파일 업로드)
 
@@ -68,7 +68,7 @@ HTML은 동적인 웹 페이지의 [웹 브라우저를](https://ko.wikipedia.or
 
   - 2000년 5월: [ISO/IEC 15445:2000](https://ko.wikipedia.org/wiki/ISO/IEC_15445:2000 "wikilink")\[22\]
 
-\[23\] ("[ISO](https://ko.wikipedia.org/wiki/국제_표준화_기구 "wikilink") HTML", HTML 4.01 Strict 기반)이 ISO/IEC 국제 표준과 함께 출시되었다. ISO에서 이 표준안은 [ISO/IEC JTC1/SC34](https://ko.wikipedia.org/wiki/ISO/IEC_JTC1/SC34 "wikilink") (ISO/IEC 공동 기술 위원회 1, 소위원회 34 - 문서 표현과 처리 언어)의 범위에서 떨어져 나왔다.\[24\]
+\[23\] ("[ISO](../Page/국제_표준화_기구.md "wikilink") HTML", HTML 4.01 Strict 기반)이 ISO/IEC 국제 표준과 함께 출시되었다. ISO에서 이 표준안은 [ISO/IEC JTC1/SC34](https://ko.wikipedia.org/wiki/ISO/IEC_JTC1/SC34 "wikilink") (ISO/IEC 공동 기술 위원회 1, 소위원회 34 - 문서 표현과 처리 언어)의 범위에서 떨어져 나왔다.\[24\]
 
   -
     2008년 중반, HTML 4.01과 ISO/IEC 15445:2000은 HTML의 대부분의 최근 버전이다. XML 기반 병렬 개발 언어인 XHTML을 통해 W3C의 HTML 작업 그룹은 2000년대 초중반에 성장하였다.
@@ -96,7 +96,7 @@ HTML은 동적인 웹 페이지의 [웹 브라우저를](https://ko.wikipedia.or
 
 #### XHTML 버전
 
-XHTML은 [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 1.0을 이용하여 HTML 4.01을 새로 만든 독립된 언어다.
+XHTML은 [XML](../Page/XML.md "wikilink") 1.0을 이용하여 HTML 4.01을 새로 만든 독립된 언어다.
 
   - XHTML 1.0\[30\] 은 2000년 1월 26일에 W3C 권고안으로 발표되었다. 이후 2002년 8월 1일에 개정과 재발표를 하였다. 이것은 XML에 관하여 새로 작성된 HTML 4.0 과 HTML 4.01 같이 세가지 문서 형태를 사소한 규약과 함께 제공한다.
   - XHTML 1.1\[31\] 2001년 5월 31일에 W3C 권고안으로 발표되었다. 그것은 XHTML 1.0 strict 기반이지만 사소한 변경 사항과 사용자 정의 기능을 포함하고, [XHTML의 모듈화](http://www.w3.org/TR/xhtml-modularization/) 으로부터 모듈을 이용하여 새로 작성되었다.
@@ -107,7 +107,7 @@ XHTML은 [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 1.0을 이용하여
 
 [프레임](https://ko.wikipedia.org/wiki/파일:Html-source-code3.png "wikilink") HTML 마크업은 **HTML 요소**(엘리먼트, )와 그들의 속성()과 문자 기반 **데이터 형태**와 **문자 참조**와 **엔티티 참조**를 포함하는 몇 가지 핵심 구성 요소로 이루어져 있다. 또 다른 중요한 구성 요소로는 [문서 형식 정의](https://ko.wikipedia.org/wiki/문서_형식_정의 "wikilink")(DTD, )를 명시하는 [문서 형식 선언](../Page/문서_형식_선언.md "wikilink")()이다. 차기 [HTML 5에서는](https://ko.wikipedia.org/wiki/HTML_5 "wikilink") DTD를 지정하지 않아도 되고 오직 레이아웃 모드로 지정된다 [4](http://www.w3.org/2008/Talks/04-24-smith/index.html).
 
-[Hello world 프로그램은](https://ko.wikipedia.org/wiki/Hello_world_프로그램 "wikilink") [프로그래밍 언어와](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink") [스크립트 언어](../Page/스크립트_언어.md "wikilink") 그리고 [마크업 언어를](https://ko.wikipedia.org/wiki/마크업_언어 "wikilink") 비교하기 위해 사용되는 일반적인 [컴퓨터 프로그램이다](https://ko.wikipedia.org/wiki/컴퓨터_프로그램 "wikilink"). 그리고 HTML에서의 Hello world 프로그램은 단 9줄에 불과하다:
+[Hello world 프로그램은](https://ko.wikipedia.org/wiki/Hello_world_프로그램 "wikilink") [프로그래밍 언어와](../Page/프로그래밍_언어.md "wikilink") [스크립트 언어](../Page/스크립트_언어.md "wikilink") 그리고 [마크업 언어를](../Page/마크업_언어.md "wikilink") 비교하기 위해 사용되는 일반적인 [컴퓨터 프로그램이다](../Page/컴퓨터_프로그램.md "wikilink"). 그리고 HTML에서의 Hello world 프로그램은 단 9줄에 불과하다:
 
 ``` html5
 <!doctype html>
@@ -226,7 +226,7 @@ HTML의 머리부분 (
 
   - **구조적** 마크업은 본문의 목적을 표현한다. 예를 들어, `<h2>골프</h2>`는 "골프"를 두 번째 수준의 [제목](https://ko.wikipedia.org/wiki/제목 "wikilink")으로 규정한다. 그리고 그것은 브라우저에서 이 장의 처음에 나오는 HTML 마크업 제목과 유사한 방식으로 해석될 것이다. 구조적 마크업은 어떤 특정한 렌더링을 표시하지 않지만, 대부분의 웹 브라우저는 요소 포맷팅에 대한 기본적인 스타일을 표준화했다. 텍스트는 캐스캐이딩 스타일시트(CSS)로 더 꾸밀 수 있다.
   - **표현적** 마크업은 기능에 관계없이 본문의 외관을 표현한다. 예를 들어, `<b>굵은 글씨</b>`는 시각적 결과 장치가 굵은 글씨 속에 있는 "boldface"를 해석해야 한다는 것을 지시하지만, 이것을 할 수 있는 장치가 무엇을 해야 할 지(예를 들어 텍스트를 크게 읽어주는 장치와 같은 )에 대한 어떠한 지시도 하지 않는다. `<b>굵게</b>`와 `<i>이탤릭</i>`과 같은 경우에는 보통 시각적 해석에 필적하는 여러 가지 요소가 있지만, 본래가 더 의미론적이다. 즉, 각각 `<strong>strong emphasis</strong>`와 `<em>emphasis</em>`같이 할 수 있다. 음성 사용자 에이전트가 어떻게 후자의 두 요소를 해석하는 지 지켜보는 것은 쉽다. 그러나 그것은 그들의 표현 상대와 맞먹지는 않는다. 예를 들자면 책의 이름을 강조하는 것이 스크린을 읽는 유저에게는 바람직하지 않지만, 화면에서 그러한 이름이 이탤릭체로 될 것이다. 대부분의 표현 마크업 요소는 스타일 디자인에 근거한 CSS에 호응해서 HTML 4.0 스펙에서는 받아들여지지 않을 것이다.
-  - **하이퍼텍스트** 마크업은 다른문서와 연결시켜주는 문서의 부분이다. [XHTML](https://ko.wikipedia.org/wiki/XHTML "wikilink") 1.1 버전을 통한 HTML은 본문속에서 하이퍼링크를 생성하기위해 anchor 요소(`<a>위키백과</a>`)의 사용을 필요로 한다. 덧붙여, `href` 속성은 반드시 정확한 [URL](https://ko.wikipedia.org/wiki/URL "wikilink")을 설정해야만 한다. 예를 들어, HTML 마크업인 `<a href="https://ko.wikipedia.org/">한국어 위키백과</a>`는 [하이퍼링크](../Page/하이퍼링크.md "wikilink")로써 "<span class="plainlinks">[한국어 위키백과](https://ko.wikipedia.org/)</span>" 처럼 보일 것이다.
+  - **하이퍼텍스트** 마크업은 다른문서와 연결시켜주는 문서의 부분이다. [XHTML](../Page/XHTML.md "wikilink") 1.1 버전을 통한 HTML은 본문속에서 하이퍼링크를 생성하기위해 anchor 요소(`<a>위키백과</a>`)의 사용을 필요로 한다. 덧붙여, `href` 속성은 반드시 정확한 [URL](../Page/URL.md "wikilink")을 설정해야만 한다. 예를 들어, HTML 마크업인 `<a href="https://ko.wikipedia.org/">한국어 위키백과</a>`는 [하이퍼링크](../Page/하이퍼링크.md "wikilink")로써 "<span class="plainlinks">[한국어 위키백과](https://ko.wikipedia.org/)</span>" 처럼 보일 것이다.
       - 하이퍼링크로써 이미지를 표현하는 예제
           -
 
@@ -382,11 +382,11 @@ HTML 4 doctype의 예제는 다음과 같다.
 
 ## 전송
 
-HTML 문서를 다른 컴퓨터 파일과 같은 방법으로 전송할 수 있다. 하지만 HTML 문서들은 대부분 웹 서버에 의한 [HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink")나 또는 이메일을 통하여 전송된다.
+HTML 문서를 다른 컴퓨터 파일과 같은 방법으로 전송할 수 있다. 하지만 HTML 문서들은 대부분 웹 서버에 의한 [HTTP](../Page/HTTP.md "wikilink")나 또는 이메일을 통하여 전송된다.
 
 ### HTTP
 
-[월드 와이드 웹은](../Page/월드_와이드_웹.md "wikilink") 주로 [웹 서버에서](../Page/웹_서버.md "wikilink") [하이퍼텍스트 전송 프로토콜](https://ko.wikipedia.org/wiki/하이퍼텍스트_전송_프로토콜 "wikilink") (HTTP)을 이용하는 [웹 브라우저로](https://ko.wikipedia.org/wiki/웹_브라우저 "wikilink") 전송되는 HTML 문서를 위해 고안되었다. 그러나 HTTP는 HTML 이외에도 이미지나 소리, 그리고 기타 내용물을 서비스하는 데 사용된다. 브라우저가 받는 각 문서를 어떻게 다른지 알려주게 하기 위해, 다른 정보가 문서와 함께 전송된다.
+[월드 와이드 웹은](../Page/월드_와이드_웹.md "wikilink") 주로 [웹 서버에서](../Page/웹_서버.md "wikilink") [하이퍼텍스트 전송 프로토콜](https://ko.wikipedia.org/wiki/하이퍼텍스트_전송_프로토콜 "wikilink") (HTTP)을 이용하는 [웹 브라우저로](../Page/웹_브라우저.md "wikilink") 전송되는 HTML 문서를 위해 고안되었다. 그러나 HTTP는 HTML 이외에도 이미지나 소리, 그리고 기타 내용물을 서비스하는 데 사용된다. 브라우저가 받는 각 문서를 어떻게 다른지 알려주게 하기 위해, 다른 정보가 문서와 함께 전송된다.
 
 이 [메타데이터](../Page/메타데이터.md "wikilink")는 보통 [MIME 타입](https://ko.wikipedia.org/wiki/MIME_타입 "wikilink") (예, `text/html` or `application/xhtml+xml`)과 문자 인코딩을 포함한다. ([HTML에서 문자 인코팅](https://ko.wikipedia.org/wiki/HTML에서_문자_인코팅 "wikilink") 참조)
 
@@ -400,7 +400,7 @@ W3C 권고안에서는 권고안 부록 C에 나오는 가이드라인을 따르
 
 ### 명명 규칙
 
-웹 문서의 가장 일반적인 [파일 확장자는](../Page/파일_확장자.md "wikilink") `.html`이다. 일반적으로 줄여서 `.htm`라고도 하며, [DOS](https://ko.wikipedia.org/wiki/DOS "wikilink")나 [FAT와](../Page/파일_할당_테이블.md "wikilink") 같은 초기 [운영 체제와](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") [파일 시스템이](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") 파일 확장자를 3자로 제한했기 때문이다.
+웹 문서의 가장 일반적인 [파일 확장자는](../Page/파일_확장자.md "wikilink") `.html`이다. 일반적으로 줄여서 `.htm`라고도 하며, [DOS](https://ko.wikipedia.org/wiki/DOS "wikilink")나 [FAT와](../Page/파일_할당_테이블.md "wikilink") 같은 초기 [운영 체제와](../Page/운영_체제.md "wikilink") [파일 시스템이](../Page/파일_시스템.md "wikilink") 파일 확장자를 3자로 제한했기 때문이다.
 
 ### HTML 애플리케이션
 
@@ -410,7 +410,7 @@ HTML 애플리케이션 (HTA; 파일 확장자 ".hta")는 애플리케이션의 
 
 ## 위지위그 편집기
 
-몇 가지 [위지위그](https://ko.wikipedia.org/wiki/위지위그 "wikilink")(What You See Is What You Get, WYSIWYG) 편집기는 HTML 문서를 [그래픽 사용자 인터페이스를](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 이용하여 직관적으로 나타내고 편집기가 HTML 문서로 생성하여 더 이상 사용자가 HTML에 대한 광대한 지식을 가질 필요가 없게 되었다.
+몇 가지 [위지위그](../Page/위지위그.md "wikilink")(What You See Is What You Get, WYSIWYG) 편집기는 HTML 문서를 [그래픽 사용자 인터페이스를](../Page/그래픽_사용자_인터페이스.md "wikilink") 이용하여 직관적으로 나타내고 편집기가 HTML 문서로 생성하여 더 이상 사용자가 HTML에 대한 광대한 지식을 가질 필요가 없게 되었다.
 
 웹 페이지 편집은 위지위그 편집 방식이 압도적으로 우위에 있었다. 하지만 이 방식은 생성된 코드의 질이 낮았고 [위지윔](https://ko.wikipedia.org/wiki/위지윔 "wikilink")(What Your See IS What You Mean, WYSIWIM)방식으로의 변화를 옹호하는 목소리 늘어났기 때문에 비난을 받았었다.\[44\]\[45\]
 
@@ -426,14 +426,14 @@ HTML 애플리케이션 (HTA; 파일 확장자 ".hta")는 애플리케이션의 
 ## 같이 보기
 
   - [HTML5](../Page/HTML5.md "wikilink")
-  - [구문 분석](https://ko.wikipedia.org/wiki/구문_분석 "wikilink")
-  - [XHTML](https://ko.wikipedia.org/wiki/XHTML "wikilink")
-  - [동적 HTML](https://ko.wikipedia.org/wiki/DHTML "wikilink")
+  - [구문 분석](../Page/구문_분석.md "wikilink")
+  - [XHTML](../Page/XHTML.md "wikilink")
+  - [동적 HTML](../Page/DHTML.md "wikilink")
   - [HTML 편집기](../Page/HTML_편집기.md "wikilink")
-  - [마이크로포맷](https://ko.wikipedia.org/wiki/마이크로포맷 "wikilink")
-  - [웹 색상](https://ko.wikipedia.org/wiki/웹_색상 "wikilink")
+  - [마이크로포맷](../Page/마이크로포맷.md "wikilink")
+  - [웹 색상](../Page/웹_색상.md "wikilink")
   - [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink")
-  - [팀 버너스리](https://ko.wikipedia.org/wiki/팀_버너스리 "wikilink")
+  - [팀 버너스리](../Page/팀_버너스리.md "wikilink")
   - [Alt 속성](https://ko.wikipedia.org/wiki/Alt_속성 "wikilink")
 
 ## 각주
@@ -442,11 +442,11 @@ HTML 애플리케이션 (HTA; 파일 확장자 ".hta")는 애플리케이션의 
 
   - [WHATWG](../Page/WHATWG.md "wikilink")'s [HTML Living Standard](http://whatwg.org/html)
 
-  - [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")'s [HTML 5.1, the upcoming version of HTML](http://www.w3.org/html/wg/drafts/html/master/)
+  - [W3C](../Page/W3C.md "wikilink")'s [HTML 5.1, the upcoming version of HTML](http://www.w3.org/html/wg/drafts/html/master/)
 
-  - [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")'s [HTML5, the most recent finished specification (28 October 2014)](http://www.w3.org/TR/2014/REC-html5-20141028/)
+  - [W3C](../Page/W3C.md "wikilink")'s [HTML5, the most recent finished specification (28 October 2014)](http://www.w3.org/TR/2014/REC-html5-20141028/)
 
-  - [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")'s [HTML 4.01 specification (24 December 1999)](http://www.w3.org/TR/1999/REC-html401-19991224/)
+  - [W3C](../Page/W3C.md "wikilink")'s [HTML 4.01 specification (24 December 1999)](http://www.w3.org/TR/1999/REC-html401-19991224/)
 
   - [Dave Raggett's Introduction to HTML](http://www.w3.org/MarkUp/Guide/)
 

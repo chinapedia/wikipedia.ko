@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [F](https://ko.wikipedia.org/wiki/F).
 
 
-**F**, **f**는 [로마자](https://ko.wikipedia.org/wiki/로마자 "wikilink")의 여섯 번째 글자이다. [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink")에 없는 발음이며, [한글](https://ko.wikipedia.org/wiki/한글 "wikilink")로는 보통 [ㅍ](https://ko.wikipedia.org/wiki/ㅍ "wikilink")으로 표기한다.
+**F**, **f**는 [로마자](../Page/로마자.md "wikilink")의 여섯 번째 글자이다. [한국어](../Page/한국어.md "wikilink")에 없는 발음이며, [한글](https://ko.wikipedia.org/wiki/한글 "wikilink")로는 보통 [ㅍ](https://ko.wikipedia.org/wiki/ㅍ "wikilink")으로 표기한다.
 
 ## 이름
 
-  - [라틴어](https://ko.wikipedia.org/wiki/라틴어 "wikilink")·[독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink")·[프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink")·[영어](https://ko.wikipedia.org/wiki/영어 "wikilink")·[네덜란드어](https://ko.wikipedia.org/wiki/네덜란드어 "wikilink")·[인도네시아어](https://ko.wikipedia.org/wiki/인도네시아어 "wikilink"): 에프 \[ɛf\]
-  - [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink"): 에페 \['efe\]
-  - [이탈리아어](https://ko.wikipedia.org/wiki/이탈리아어 "wikilink"): 에페 \[effe\]
-  - [웨일스어](https://ko.wikipedia.org/wiki/웨일스어 "wikilink"): 에브 \[ev\]
-  - [에스페란토](https://ko.wikipedia.org/wiki/에스페란토 "wikilink"): 포 \[fo\]
+  - [라틴어](../Page/라틴어.md "wikilink")·[독일어](../Page/독일어.md "wikilink")·[프랑스어](../Page/프랑스어.md "wikilink")·[영어](../Page/영어.md "wikilink")·[네덜란드어](../Page/네덜란드어.md "wikilink")·[인도네시아어](../Page/인도네시아어.md "wikilink"): 에프 \[ɛf\]
+  - [스페인어](../Page/스페인어.md "wikilink"): 에페 \['efe\]
+  - [이탈리아어](../Page/이탈리아어.md "wikilink"): 에페 \[effe\]
+  - [웨일스어](../Page/웨일스어.md "wikilink"): 에브 \[ev\]
+  - [에스페란토](../Page/에스페란토.md "wikilink"): 포 \[fo\]
 
 ## 쓰임
 

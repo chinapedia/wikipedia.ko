@@ -5,13 +5,13 @@
 
 **P2P**(peer-to-peer network) 혹은 **동등 계층간 통신망**(同等階層間通信網)은 비교적 소수의 서버에 집중하기보다는 망구성에 참여하는 기계들의 계산과 [대역폭](https://ko.wikipedia.org/wiki/대역폭 "wikilink") 성능에 의존하여 구성되는 [통신망이다](https://ko.wikipedia.org/wiki/네트워크 "wikilink"). P2P 통신망은 일반적으로 [노드](https://ko.wikipedia.org/wiki/노드 "wikilink")들을 규모가 큰 [애드혹으로](https://ko.wikipedia.org/wiki/Ad_hoc "wikilink") 서로 연결하는 경우 이용된다. 이런 통신망은 여러 가지로 쓸모가 있는데, 오디오나 비디오, 데이터 등 임의의 디지털 형식 파일의 공유는 매우 보편적이다. 또한, 인터넷 전화([VoIP](../Page/음성_인터넷_프로토콜.md "wikilink"))같은 실시간 데이터 등도 P2P 기술을 통해 서로 전달될 수 있다.
 
-순수 P2P 파일 전송 네트워크는 [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")나 [서버](https://ko.wikipedia.org/wiki/서버 "wikilink")란 개념 없이, 오로지 동등한 계층 노드들(peer nodes)이 서로 클라이언트와 서버 역할을 동시에 네트워크 위에서 하게 된다. 이 네트워크 구성 모델은 보통 중앙 서버를 통하는 통신 형태의 클라이언트-서버 모델과는 구별된다. [FTP](https://ko.wikipedia.org/wiki/파일_전송_프로토콜 "wikilink") 서버야 말로 P2P 파일 전송 형식이 아닌, 대표적 반례로 꼽을 수 있다. 어떤 사용자가 FTP 서버에 어떤 파일을 올리면 다른 사용자들이 내려 받는데, 올리는 쪽과 내려받는 쪽 모두 동시에 접속하지 않아도 된다.
+순수 P2P 파일 전송 네트워크는 [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")나 [서버](../Page/서버.md "wikilink")란 개념 없이, 오로지 동등한 계층 노드들(peer nodes)이 서로 클라이언트와 서버 역할을 동시에 네트워크 위에서 하게 된다. 이 네트워크 구성 모델은 보통 중앙 서버를 통하는 통신 형태의 클라이언트-서버 모델과는 구별된다. [FTP](../Page/파일_전송_프로토콜.md "wikilink") 서버야 말로 P2P 파일 전송 형식이 아닌, 대표적 반례로 꼽을 수 있다. 어떤 사용자가 FTP 서버에 어떤 파일을 올리면 다른 사용자들이 내려 받는데, 올리는 쪽과 내려받는 쪽 모두 동시에 접속하지 않아도 된다.
 
 [냅스터](../Page/냅스터.md "wikilink"), [오픈냅](../Page/오픈냅.md "wikilink"), [IRC](https://ko.wikipedia.org/wiki/IRC "wikilink") [@find](https://ko.wikipedia.org/wiki/w:Depot_channel "wikilink")) 등과 같은 네트워크과 채널은 클라이언트-서버 구조를 검색 등과 같은 일부 기능에 쓰고, 다른 기능은 P2P 구조를 쓴다. [누텔라나](https://ko.wikipedia.org/wiki/누텔라_\(네트워크\) "wikilink") [프리넷](../Page/프리넷.md "wikilink") 같은 네트워크는 모든 기능에 P2P 구조를 가지는데, 비록 그 네트워크가 다른 같은 계층의 사용자들(peers)의 네트워크 주소를 알려 주는 데 디렉터리(directory) 서버에 크게 의존하긴 하지만, 때때로 진정한 P2P 네트워크으로 인용된다.
 
-P2P 네트워크 구조는 최근에 인터넷 상에서 멀티미디어 파일을 공유하는 용도로 많이 부각되긴 했지만, [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [4월 7일에](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") 제정된 [RFC](https://ko.wikipedia.org/wiki/RFC "wikilink")(Request for Comments)란 인터넷 규약의 초기 버전부터 핵심적인 기술로 내제되어 있어 유래가 깊다.
+P2P 네트워크 구조는 최근에 인터넷 상에서 멀티미디어 파일을 공유하는 용도로 많이 부각되긴 했지만, [1969년](../Page/1969년.md "wikilink") [4월 7일에](../Page/4월_7일.md "wikilink") 제정된 [RFC](../Page/RFC.md "wikilink")(Request for Comments)란 인터넷 규약의 초기 버전부터 핵심적인 기술로 내제되어 있어 유래가 깊다.
 
-최근의 P2P 서비스는 순수 파일 전송 네트워크에서 발달하여 [그리드 컴퓨팅](https://ko.wikipedia.org/wiki/그리드_컴퓨팅 "wikilink") 기술로 진화해 웹하드 형태로 서비스되고 있다. 외부적으로 웹하드 형식으로 보이지만 실제로는 각 유저들의 저장장치에 화일이 직접 전송되어 순수 초기 P2P 네트워크와 마찬가지로 유저들의 시스템에 부하를 유발하는 공통점이 있다. 이런 웹하드 형태의 그리드 컴퓨팅 P2P 서비스로는 피디박스, 화일아이, 아이팝 등이 있다.
+최근의 P2P 서비스는 순수 파일 전송 네트워크에서 발달하여 [그리드 컴퓨팅](../Page/그리드_컴퓨팅.md "wikilink") 기술로 진화해 웹하드 형태로 서비스되고 있다. 외부적으로 웹하드 형식으로 보이지만 실제로는 각 유저들의 저장장치에 화일이 직접 전송되어 순수 초기 P2P 네트워크와 마찬가지로 유저들의 시스템에 부하를 유발하는 공통점이 있다. 이런 웹하드 형태의 그리드 컴퓨팅 P2P 서비스로는 피디박스, 화일아이, 아이팝 등이 있다.
 
 ## 리소스 기반의 어드레싱
 
@@ -27,7 +27,7 @@ P2P 디자이너들은 그런 특징을 활용해서 CPU 싸이클들을 모을 
 
 ## DNS를 우회하는 P2P
 
-1996년 나온 ICQ는 항상 인터넷에 연결되어 있는 서버와는 다른, 접속하다 끊을 수도 있는 개인용 컴퓨터들끼리 서로 접속할 수 있는 길을 처음으로 터 주었다. 모든 것이 점차 휴대화되어 가는 추세를 맞아, ICQ는 DNS를 우회해서 저만의 독자적인 프로토콜 주소 디렉터리(protocol-specific address directory)를 창조해 냈던 것이다. 이를 통해 IP 주소는 실시간으로 업데이트 될 수 있었다. Groove, Napster, Netmeeting 등이 ICQ를 따라 이런 방법을 사용한다. (물론 모든 P2P 시스템이 이 트릭을 쓰는 것은 아니다. [그누텔라](https://ko.wikipedia.org/wiki/그누텔라 "wikilink") (Gnutella) 나 Freenet의 경우, DNS를 우회하는 것은 이전 방식과 똑같지만 숫자로 표시되는 IP 주소를 활용한다는 점에서 다르다. Popular Power와 SETI@Home은 각 노드가 고정된 주소에 접속할 수 있는 스케줄을 제공해서, 접속 당시의 IP 주소를 전달하는 방식을 택하고 있다)
+1996년 나온 ICQ는 항상 인터넷에 연결되어 있는 서버와는 다른, 접속하다 끊을 수도 있는 개인용 컴퓨터들끼리 서로 접속할 수 있는 길을 처음으로 터 주었다. 모든 것이 점차 휴대화되어 가는 추세를 맞아, ICQ는 DNS를 우회해서 저만의 독자적인 프로토콜 주소 디렉터리(protocol-specific address directory)를 창조해 냈던 것이다. 이를 통해 IP 주소는 실시간으로 업데이트 될 수 있었다. Groove, Napster, Netmeeting 등이 ICQ를 따라 이런 방법을 사용한다. (물론 모든 P2P 시스템이 이 트릭을 쓰는 것은 아니다. [그누텔라](../Page/그누텔라.md "wikilink") (Gnutella) 나 Freenet의 경우, DNS를 우회하는 것은 이전 방식과 똑같지만 숫자로 표시되는 IP 주소를 활용한다는 점에서 다르다. Popular Power와 SETI@Home은 각 노드가 고정된 주소에 접속할 수 있는 스케줄을 제공해서, 접속 당시의 IP 주소를 전달하는 방식을 택하고 있다)
 
 Whois에 따르면 IP 주소가 처음 뿌리를 내린 1984년 이후 16년 동안 2천3백만 개의 도메인 이름이 만들어졌다. 하지만 냅스터는 혼자서 16개월 만에 2천 3백만 개의 비 DNS 주소를 만들어냈다. 그리고 만약 사용자가 모든 비 DNS 인스턴트 메시징 주소에 가입한다고 하면 동적인 IP 주소에 접근할 수 있는 P2P 주소의 개수는 모두 2억 개를 넘어선다. 평균 DNS 호스트가 10개의 second.first.com 같은 형태의 2차 주소를 갖고 있다고 가정해 보아도, 현재의 P2P 주소의 모든 개수는 불과 4년 뒤엔 DNS 주소의 모든 개수와 같아지게 될 것이며, 오늘날의 DNS 세계보다 훨씬 더 광대한 세계로 성장해 가게 된다는 셈이 된다.
 
@@ -105,9 +105,9 @@ P2P 시스템의 이전 세대는 메타컴퓨팅(metacomputing)이라 불리거
 
 ## 관련항목
 
-  - [클라이언트 서버 모델](https://ko.wikipedia.org/wiki/클라이언트_서버_모델 "wikilink")
-  - [컴퓨터 클러스터](https://ko.wikipedia.org/wiki/컴퓨터_클러스터 "wikilink")
-  - [그리드 컴퓨팅](https://ko.wikipedia.org/wiki/그리드_컴퓨팅 "wikilink")
+  - [클라이언트 서버 모델](../Page/클라이언트_서버_모델.md "wikilink")
+  - [컴퓨터 클러스터](../Page/컴퓨터_클러스터.md "wikilink")
+  - [그리드 컴퓨팅](../Page/그리드_컴퓨팅.md "wikilink")
 
 ## 외부 링크
 

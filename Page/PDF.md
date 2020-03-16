@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PDF](https://ko.wikipedia.org/wiki/PDF).
 
 
-**PDF**(Portable Document Format, 이동가능 문서형식); [어도비 시스템즈에서](https://ko.wikipedia.org/wiki/어도비_시스템즈 "wikilink") 개발한 전자 문서 형식으로, 일반 문서 및 [문자](https://ko.wikipedia.org/wiki/문자 "wikilink"), [도형](../Page/도형.md "wikilink"), [그림](https://ko.wikipedia.org/wiki/그림 "wikilink"), [글꼴](https://ko.wikipedia.org/wiki/글꼴 "wikilink")을 포함할 수 있다.
+**PDF**(Portable Document Format, 이동가능 문서형식); [어도비 시스템즈에서](https://ko.wikipedia.org/wiki/어도비_시스템즈 "wikilink") 개발한 전자 문서 형식으로, 일반 문서 및 [문자](../Page/문자.md "wikilink"), [도형](../Page/도형.md "wikilink"), [그림](https://ko.wikipedia.org/wiki/그림 "wikilink"), [글꼴](../Page/글꼴.md "wikilink")을 포함할 수 있다.
 
 PDF는 컴퓨터 환경에 관계없이 같은 표현을 하기 위한 목적으로 개발되었고, 장치 독립성 및 해상도 독립성을 가진다.\[1\] PDF는 2008년에 ISO 32000 [오픈 포맷으로](https://ko.wikipedia.org/wiki/오픈_포맷 "wikilink") 표준화되었으며 구현을 위해 로열티를 요구하지 않는다.
 
@@ -9,7 +9,7 @@ PDF는 컴퓨터 환경에 관계없이 같은 표현을 하기 위한 목적으
 
 1993년 어도비사 PDF 1.0버전과 어크로뱃\[2\] 1.0 버전을 발표하면서 세상에 등장하였다. 그런데 초기 도입은 더디게 이루어졌다. 이것은 어도비사가 [어도비 어크로뱃을](https://ko.wikipedia.org/wiki/어도비_어크로뱃 "wikilink") 무료로 배포하지 않았기 때문이다. 또 PDF의 초기 버전은 기능적으로 당시 환경에 적합하지 않았다. 외부로의 하이퍼링크가 지원되지 않았고, 파일 사이즈가 너무 커서 당시의 인터넷 환경에서는 다운로드하거나 파일을 렌더링(rendering)하는 시간이 너무 길었다.
 
-특히 당시에는 이미 경쟁 파일 포맷이 존재하였다. 예를 들면, Envoy, Common Ground Digital Paper, Farallon Replica가 있다. 심지어 어도비사의 [포스트스크립트](https://ko.wikipedia.org/wiki/포스트스크립트 "wikilink")(.ps)는 같은 회사의 PDF에 비해 우수한 경쟁력을 갖추고 있었다. 1995년에는 AT\&T Lab에서는 도서관의 도서나 각종 문서의 보관을 위해 새로운 파일 포맷을 준비하고 있었는데, 이후 DuVu 프로젝트로 발전하여 .djv/.djvu 포맷이 만들어졌다. 당시에 이 포맷은 e북이나 온라인 카탈로그, 이미지 파일 교환에서 빠르게 성장하고 있었다.
+특히 당시에는 이미 경쟁 파일 포맷이 존재하였다. 예를 들면, Envoy, Common Ground Digital Paper, Farallon Replica가 있다. 심지어 어도비사의 [포스트스크립트](../Page/포스트스크립트.md "wikilink")(.ps)는 같은 회사의 PDF에 비해 우수한 경쟁력을 갖추고 있었다. 1995년에는 AT\&T Lab에서는 도서관의 도서나 각종 문서의 보관을 위해 새로운 파일 포맷을 준비하고 있었는데, 이후 DuVu 프로젝트로 발전하여 .djv/.djvu 포맷이 만들어졌다. 당시에 이 포맷은 e북이나 온라인 카탈로그, 이미지 파일 교환에서 빠르게 성장하고 있었다.
 
 결국 어도비사는 [어크로뱃 리더](https://ko.wikipedia.org/wiki/어크로뱃_리더 "wikilink")(현재의 어도비 리더)를 무료로 배포하기 시작하였으며 PDF 포맷을 적극적으로 지원하였다. 그 결과 PDF는 온라인 상의 인쇄용 문서의 [실질적 산업 표준](https://ko.wikipedia.org/wiki/데_팍토 "wikilink")(de facto standard)으로 자리 잡게 되었다.\[3\]
 
@@ -57,7 +57,7 @@ PDF는 컴퓨터 환경에 관계없이 같은 표현을 하기 위한 목적으
   - [PDFTOHTML](http://pdftohtml.sourceforge.net/) – PDF 대 HTML 변환기.
   - [WikiPDF](http://wikipdf.sourceforge.net/) – 미디어위키 글 PDF 변환기.
   - [POM](http://sourceforge.net/projects/nrmpom/) - PDF 파일을 합지는 오픈소스 자바 도구.
-  - [에빈스](../Page/에빈스.md "wikilink") - [그놈](https://ko.wikipedia.org/wiki/그놈 "wikilink")을 위한 여러 문서 형식을 지원하는 문서 뷰어.
+  - [에빈스](../Page/에빈스.md "wikilink") - [그놈](../Page/그놈.md "wikilink")을 위한 여러 문서 형식을 지원하는 문서 뷰어.
   - [KPDF](http://kpdf.kde.org/) - [KDE](../Page/KDE.md "wikilink")를 위한 xpdf 기반의 PDF 뷰어.
   - [NESPDF](http://www.nespdf.com/)
   - [구글 오피스](https://ko.wikipedia.org/wiki/구글_오피스 "wikilink")

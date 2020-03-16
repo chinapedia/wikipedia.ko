@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [HTTP](https://ko.wikipedia.org/wiki/HTTP).
 
 
-**[HTTP](https://ko.wikipedia.org/wiki/HTTP "wikilink")**(**H**yper**T**ext **T**ransfer **P**rotocol, )는 [WWW](https://ko.wikipedia.org/wiki/WWW "wikilink") 상에서 정보를 주고받을 수 있는 [프로토콜이다](https://ko.wikipedia.org/wiki/통신_프로토콜 "wikilink"). 주로 [HTML](../Page/HTML.md "wikilink") 문서를 주고받는 데에 쓰인다. [TCP와](https://ko.wikipedia.org/wiki/전송_제어_프로토콜 "wikilink") [UDP를](../Page/사용자_데이터그램_프로토콜.md "wikilink") 사용하며, 80번 포트를 사용한다. [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 버전 1.0, 그리고 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 1.1이 각각 발표되었다.
+**[HTTP](../Page/HTTP.md "wikilink")**(**H**yper**T**ext **T**ransfer **P**rotocol, )는 [WWW](https://ko.wikipedia.org/wiki/WWW "wikilink") 상에서 정보를 주고받을 수 있는 [프로토콜이다](../Page/통신_프로토콜.md "wikilink"). 주로 [HTML](../Page/HTML.md "wikilink") 문서를 주고받는 데에 쓰인다. [TCP와](../Page/전송_제어_프로토콜.md "wikilink") [UDP를](../Page/사용자_데이터그램_프로토콜.md "wikilink") 사용하며, 80번 포트를 사용한다. [1996년](../Page/1996년.md "wikilink") 버전 1.0, 그리고 [1999년](../Page/1999년.md "wikilink") 1.1이 각각 발표되었다.
 
 HTTP는 [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")와 [서버](../Page/서버.md "wikilink") 사이에 이루어지는 요청/응답(request/response) 프로토콜이다. 예를 들면, 클라이언트인 [웹 브라우저가](../Page/웹_브라우저.md "wikilink") HTTP를 통하여 서버로부터 웹페이지나 그림 정보를 요청하면, 서버는 이 요청에 응답하여 필요한 정보를 해당 사용자에게 전달하게 된다. 이 정보가 모니터와 같은 출력 장치를 통해 사용자에게 나타나는 것이다.
 
-HTTP를 통해 전달되는 자료는 <http:로> 시작하는 [URL](https://ko.wikipedia.org/wiki/URL "wikilink")(인터넷 주소)로 조회할 수 있다.
+HTTP를 통해 전달되는 자료는 <http:로> 시작하는 [URL](../Page/URL.md "wikilink")(인터넷 주소)로 조회할 수 있다.
 
 ## 역사
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Tim_Berners-Lee_CP_2.jpg "wikilink").\]\]
 
-[하이퍼텍스트](../Page/하이퍼텍스트.md "wikilink")라는 용어는 1965년 [제너두 프로젝트에서](https://ko.wikipedia.org/wiki/제너두_프로젝트 "wikilink") [테드 넬슨이](https://ko.wikipedia.org/wiki/테드_넬슨 "wikilink") 만들었으며, 제너두 프로젝트는 《[As We May Think](https://ko.wikipedia.org/wiki/As_We_May_Think "wikilink")》(1945년)라는 수필에서 마이크로필름 기반 정보 수신 및 관리 "[메멕스](https://ko.wikipedia.org/wiki/메멕스 "wikilink")" 시스템을 기술한 [버니바 부시의](https://ko.wikipedia.org/wiki/버니바_부시 "wikilink") 비전(1930년대)에 의해 영감을 받았다. [팀 버너스 리와](https://ko.wikipedia.org/wiki/팀_버너스_리 "wikilink") 그의 팀은 [CERN](https://ko.wikipedia.org/wiki/CERN "wikilink")에서 HTML뿐 아니라 웹 브라우저 및 텍스트 기반 웹 브라우저 관련 기술과 더불어 오리지널 HTTP을 발명하였다. 버너스 리는 최초로 "월드와이드웹" 프로젝트를 1989년에 제안하였으며, 이것이 현재의 [월드 와이드 웹이다](../Page/월드_와이드_웹.md "wikilink"). 이 프로토콜의 최초 버전은 서버로부터 페이지를 요청하는 GET이라는 이름의 하나의 메소드만 있었다.\[1\] 서버로부터의 응답은 무조건 HTML 문서였다.\[2\]
+[하이퍼텍스트](../Page/하이퍼텍스트.md "wikilink")라는 용어는 1965년 [제너두 프로젝트에서](https://ko.wikipedia.org/wiki/제너두_프로젝트 "wikilink") [테드 넬슨이](../Page/테드_넬슨.md "wikilink") 만들었으며, 제너두 프로젝트는 《[As We May Think](https://ko.wikipedia.org/wiki/As_We_May_Think "wikilink")》(1945년)라는 수필에서 마이크로필름 기반 정보 수신 및 관리 "[메멕스](https://ko.wikipedia.org/wiki/메멕스 "wikilink")" 시스템을 기술한 [버니바 부시의](../Page/버니바_부시.md "wikilink") 비전(1930년대)에 의해 영감을 받았다. [팀 버너스 리와](https://ko.wikipedia.org/wiki/팀_버너스_리 "wikilink") 그의 팀은 [CERN](https://ko.wikipedia.org/wiki/CERN "wikilink")에서 HTML뿐 아니라 웹 브라우저 및 텍스트 기반 웹 브라우저 관련 기술과 더불어 오리지널 HTTP을 발명하였다. 버너스 리는 최초로 "월드와이드웹" 프로젝트를 1989년에 제안하였으며, 이것이 현재의 [월드 와이드 웹이다](../Page/월드_와이드_웹.md "wikilink"). 이 프로토콜의 최초 버전은 서버로부터 페이지를 요청하는 GET이라는 이름의 하나의 메소드만 있었다.\[1\] 서버로부터의 응답은 무조건 HTML 문서였다.\[2\]
 
 문서화된 최초의 HTTP 버전은 **[HTTP V0.9](http://www.w3.org/pub/WWW/Protocols/HTTP/AsImplemented.html)**(1991년)이다. [데이브 레겟은](https://ko.wikipedia.org/wiki/데이브_레겟 "wikilink") 1995년 HTTP 워킹 그룹(HTTP WG)을 이끌었으며 확장된 조작, 확장된 협상, 더 보강된 메타 정보, 또 추가 메소드와 헤더 필드를 통한 더 효율적인 보안 프로토콜을 갖춘 프로토콜을 확장하기를 바랐다.\[3\]\[4\] RFC 1945는 공식적으로 1996년 HTTP v1.0을 도입하였다.
 
-HTTP WG는 1995년 12월 새로운 표준을 출간하기로 계획하였으며\[5\] 당시 개발 중인 RFC 2068(이른바 HTTP-NG)에 기반한 이전 표준 HTTP/1.1에 대한 지원이 1996년 초에 주요 브라우저 개발자들에 의해 빠르게 채택되었다. 1996년 3월, 이전 표준 HTTP/1.1을 지원한 웹 브라우저로 [아레나](https://ko.wikipedia.org/wiki/아레나_\(웹_브라우저\) "wikilink"),\[6\] [넷스케이프 2.0](https://ko.wikipedia.org/wiki/넷스케이프_내비게이터 "wikilink"),\[7\] 넷스케이프 내비게이터 골드 2.01,\[8\] [모자이크 2.7](https://ko.wikipedia.org/wiki/모자이크_\(웹_브라우저\) "wikilink"), [링크스 2.5](https://ko.wikipedia.org/wiki/링크스_\(웹_브라우저\) "wikilink"), [인터넷 익스플로러 2.0이](../Page/인터넷_익스플로러_2.md "wikilink") 있다. 새로운 브라우저의 최종 사용자 채택 속도를 빨랐다. 1996년 3월, 한 웹 호스팅 회사의 보고에 따르면 인터넷 상에서 사용 중인 브라우저 중 40% 이상이 HTTP 1.1과 호환되었다. 같은 웹 호스팅 회사는 1996년 6월 기준으로 서버에 접근하는 모든 브라우저들 가운데 65%가 HTTP/1.1 호환이라고 보고하였다.\[9\] RFC 2068에 정의된 HTTP/1.1 표준은 공식적으로 1997년 1월에 출시되었다. HTTP/1.1 표준에 대한 개선과 업데이트는 1999년 6월 RFC 2616으로 출시되었다.
+HTTP WG는 1995년 12월 새로운 표준을 출간하기로 계획하였으며\[5\] 당시 개발 중인 RFC 2068(이른바 HTTP-NG)에 기반한 이전 표준 HTTP/1.1에 대한 지원이 1996년 초에 주요 브라우저 개발자들에 의해 빠르게 채택되었다. 1996년 3월, 이전 표준 HTTP/1.1을 지원한 웹 브라우저로 [아레나](https://ko.wikipedia.org/wiki/아레나_\(웹_브라우저\) "wikilink"),\[6\] [넷스케이프 2.0](../Page/넷스케이프_내비게이터.md "wikilink"),\[7\] 넷스케이프 내비게이터 골드 2.01,\[8\] [모자이크 2.7](../Page/모자이크_\(웹_브라우저\).md "wikilink"), [링크스 2.5](../Page/링크스_\(웹_브라우저\).md "wikilink"), [인터넷 익스플로러 2.0이](../Page/인터넷_익스플로러_2.md "wikilink") 있다. 새로운 브라우저의 최종 사용자 채택 속도를 빨랐다. 1996년 3월, 한 웹 호스팅 회사의 보고에 따르면 인터넷 상에서 사용 중인 브라우저 중 40% 이상이 HTTP 1.1과 호환되었다. 같은 웹 호스팅 회사는 1996년 6월 기준으로 서버에 접근하는 모든 브라우저들 가운데 65%가 HTTP/1.1 호환이라고 보고하였다.\[9\] RFC 2068에 정의된 HTTP/1.1 표준은 공식적으로 1997년 1월에 출시되었다. HTTP/1.1 표준에 대한 개선과 업데이트는 1999년 6월 RFC 2616으로 출시되었다.
 
 2007년에 부분적으로 HTTP/1.1 사양을 개정하고 분명히 하기 위해 **[HTTPbis 워킹 그룹](http://trac.tools.ietf.org/wg/httpbis/trac/wiki)**이 창설되었다. 2014년 6월, WG는 RFC 2616를 obsolete 처리하는, 업데이트된 6 파트 사양을 출시하였다:
 
@@ -268,7 +268,7 @@ Connection: close
 
 ## 같이 보기
 
-  - [HTTPS](https://ko.wikipedia.org/wiki/HTTPS "wikilink")
+  - [HTTPS](../Page/HTTPS.md "wikilink")
   - [HTML](../Page/HTML.md "wikilink")
   - [월드 와이드 웹](../Page/월드_와이드_웹.md "wikilink")
 

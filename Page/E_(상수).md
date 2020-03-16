@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [E \(\)](https://ko.wikipedia.org/wiki/E_\(\)).
 
 
-[상수](../Page/수학_상수.md "wikilink") \(e\)는 극한값 \(\lim_{n\to\infty} \left(1+\frac{1}{n}\right)^n\)이다. [실수](https://ko.wikipedia.org/wiki/실수 "wikilink") 중에서도 [무리수](../Page/무리수.md "wikilink")에 속하며 [초월수](../Page/초월수.md "wikilink")로 알려져 있다.\[1\] 정식 용어는 **[자연로그](https://ko.wikipedia.org/wiki/자연로그 "wikilink")의 밑**\[2\]이지만 [로그](https://ko.wikipedia.org/wiki/로그 "wikilink")가 선행되지 않은 상태에서는 **극한값 \(e\)**로 쓴다. 그 외에 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [수학자](https://ko.wikipedia.org/wiki/수학자 "wikilink") [레온하르트 오일러의](https://ko.wikipedia.org/wiki/레온하르트_오일러 "wikilink") 이름을 따 오일러의 수로도 불리지만 오일러가 발견한 수가 많아 통용되지는 않는 편이고, [로그](https://ko.wikipedia.org/wiki/로그 "wikilink") 계산법을 도입한 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink")의 수학자 [존 네이피어를](https://ko.wikipedia.org/wiki/존_네이피어 "wikilink") 기려 네이피어 상수라고 주장하는 경우도 있다.\[3\] \(e\)는 [π](https://ko.wikipedia.org/wiki/원주율 "wikilink"), [1](https://ko.wikipedia.org/wiki/1 "wikilink"), [0](https://ko.wikipedia.org/wiki/0 "wikilink"), [i](https://ko.wikipedia.org/wiki/허수 "wikilink") 등과 함께 [수학](../Page/수학.md "wikilink")의 중요한 상수로 취급된다. 예컨대,[오일러의 공식](https://ko.wikipedia.org/wiki/오일러의_공식 "wikilink")\(\;e^{i \pi} + 1 = 0 \;\)에서 그렇다.\[4\]
+[상수](../Page/수학_상수.md "wikilink") \(e\)는 극한값 \(\lim_{n\to\infty} \left(1+\frac{1}{n}\right)^n\)이다. [실수](https://ko.wikipedia.org/wiki/실수 "wikilink") 중에서도 [무리수](../Page/무리수.md "wikilink")에 속하며 [초월수](../Page/초월수.md "wikilink")로 알려져 있다.\[1\] 정식 용어는 **[자연로그](../Page/자연로그.md "wikilink")의 밑**\[2\]이지만 [로그](../Page/로그.md "wikilink")가 선행되지 않은 상태에서는 **극한값 \(e\)**로 쓴다. 그 외에 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [수학자](../Page/수학자.md "wikilink") [레온하르트 오일러의](../Page/레온하르트_오일러.md "wikilink") 이름을 따 오일러의 수로도 불리지만 오일러가 발견한 수가 많아 통용되지는 않는 편이고, [로그](../Page/로그.md "wikilink") 계산법을 도입한 [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 수학자 [존 네이피어를](https://ko.wikipedia.org/wiki/존_네이피어 "wikilink") 기려 네이피어 상수라고 주장하는 경우도 있다.\[3\] \(e\)는 [π](https://ko.wikipedia.org/wiki/원주율 "wikilink"), [1](../Page/1.md "wikilink"), [0](../Page/0.md "wikilink"), [i](../Page/허수.md "wikilink") 등과 함께 [수학](../Page/수학.md "wikilink")의 중요한 상수로 취급된다. 예컨대,[오일러의 공식](https://ko.wikipedia.org/wiki/오일러의_공식 "wikilink")\(\;e^{i \pi} + 1 = 0 \;\)에서 그렇다.\[4\]
 
 ## 정의
 
@@ -24,16 +24,16 @@
 
 ## 역사
 
-\(e\)가 계산된 최초의 기록은 1618년 [존 네이피어에](https://ko.wikipedia.org/wiki/존_네이피어 "wikilink") 의해 발간된 로그표이다. 그러나 네이피어는 [로그](https://ko.wikipedia.org/wiki/로그 "wikilink") 계산의 과정에서 나온 결과 값만을 간단히 다루었을 뿐 \(e\)를 [상수로](../Page/수학_상수.md "wikilink") 취급하지는 않았다. 네이피어의 로그는 \(N = 10^7 (1 - 10^{-7})^L\) 과 동치이다. 이를 오일러가 정의하여 오늘날까지 사용하고 있는 로그함수 정의로 옮기면 네이피어의 로그는
+\(e\)가 계산된 최초의 기록은 1618년 [존 네이피어에](https://ko.wikipedia.org/wiki/존_네이피어 "wikilink") 의해 발간된 로그표이다. 그러나 네이피어는 [로그](../Page/로그.md "wikilink") 계산의 과정에서 나온 결과 값만을 간단히 다루었을 뿐 \(e\)를 [상수로](../Page/수학_상수.md "wikilink") 취급하지는 않았다. 네이피어의 로그는 \(N = 10^7 (1 - 10^{-7})^L\) 과 동치이다. 이를 오일러가 정의하여 오늘날까지 사용하고 있는 로그함수 정의로 옮기면 네이피어의 로그는
 
-\[N = \log_n L \cdots \cdots n = ( 1- 10^{-7} )^{10^7}\] 인 로그함수 이다. 위의 로그에서 사용된 밑은 \(e\)의 역수인 와 매우 가까운 근삿값이다.\[6\]\[7\] 후일 [윌리엄 오트리드가](https://ko.wikipedia.org/wiki/윌리엄_오트리드 "wikilink") 네이피어의 로그표를 사용하여 로그 계산자를 만들었지만 그 역시 \(e\)를 특별한 상수로 취급하지는 않았다.\[8\] \(e\)가 특정한 상수임을 발견한 사람은 [야코프 베르누이이다](https://ko.wikipedia.org/wiki/야코프_베르누이 "wikilink"). 그는 복리 이자의 계산이 다음과 같은 [극한을](https://ko.wikipedia.org/wiki/함수의_극한 "wikilink") 취할 수 있다는 것을 발견하였다.\[9\]
+\[N = \log_n L \cdots \cdots n = ( 1- 10^{-7} )^{10^7}\] 인 로그함수 이다. 위의 로그에서 사용된 밑은 \(e\)의 역수인 와 매우 가까운 근삿값이다.\[6\]\[7\] 후일 [윌리엄 오트리드가](https://ko.wikipedia.org/wiki/윌리엄_오트리드 "wikilink") 네이피어의 로그표를 사용하여 로그 계산자를 만들었지만 그 역시 \(e\)를 특별한 상수로 취급하지는 않았다.\[8\] \(e\)가 특정한 상수임을 발견한 사람은 [야코프 베르누이이다](../Page/야코프_베르누이.md "wikilink"). 그는 복리 이자의 계산이 다음과 같은 [극한을](../Page/함수의_극한.md "wikilink") 취할 수 있다는 것을 발견하였다.\[9\]
 
   -
     \(\lim_{n\to\infty} \left(1+\frac{1}{n}\right)^n\)
 
 베르누이는 위의 식이 [수렴](https://ko.wikipedia.org/wiki/수렴 "wikilink")한다는 것과 그것이 특정한 값이 된다는 것을 발견하였다. 물론 그 값은 \(e\)이다.
 
-베르누이가 정리한 위의 급수를 처음으로 상수로서 표현한 사람은 [고트프리트 빌헬름 라이프니츠이다](https://ko.wikipedia.org/wiki/고트프리트_빌헬름_라이프니츠 "wikilink"). 라이프니츠는 1690년에서 1691년 사이에 [크리스티안 하위헌스에게](https://ko.wikipedia.org/wiki/크리스티안_하위헌스 "wikilink") 쓴 편지에서 이 급수를 “b”로 표현하였다. 한편, 오일러는 1727년에서 1728년 사이에 이 상수를 \(e\)로 표현하여 사용하기 시작하였다.\[10\] e 라는 표기가 정식 출판물에 처음 등장한 것은 1736년 출판된 오일러의 《[메카니카](https://ko.wikipedia.org/wiki/메카니카 "wikilink")》이다. 그 이전에는 수학자 마다 여러 알파벳을 사용하여 이 상수를 표기하였으나 《메카니카》의 출판이후 \(e\)로 표기하는 것이 관례가 되었다.\[11\]
+베르누이가 정리한 위의 급수를 처음으로 상수로서 표현한 사람은 [고트프리트 빌헬름 라이프니츠이다](../Page/고트프리트_빌헬름_라이프니츠.md "wikilink"). 라이프니츠는 1690년에서 1691년 사이에 [크리스티안 하위헌스에게](../Page/크리스티안_하위헌스.md "wikilink") 쓴 편지에서 이 급수를 “b”로 표현하였다. 한편, 오일러는 1727년에서 1728년 사이에 이 상수를 \(e\)로 표현하여 사용하기 시작하였다.\[10\] e 라는 표기가 정식 출판물에 처음 등장한 것은 1736년 출판된 오일러의 《[메카니카](https://ko.wikipedia.org/wiki/메카니카 "wikilink")》이다. 그 이전에는 수학자 마다 여러 알파벳을 사용하여 이 상수를 표기하였으나 《메카니카》의 출판이후 \(e\)로 표기하는 것이 관례가 되었다.\[11\]
 
 ## 적용
 
@@ -56,7 +56,7 @@
 | 5년 | 1,159 | 1,216     | **1,276** | 1,338     |
 | 6년 | 1,194 | **1,265** | 1,340     | 1,418     |
 
-위의 식을 이용하면 원리합계가 목표하는 금액이 되기 위해서 얼마의 기간이 필요한 지 계산할 수 있다. 예를 들어 1천원을 복리 5%로 예금할 때 원리합계가 1억원을 넘기 위해서는 236년이 걸린다.\[13\] 또한, 위의 표를 보면 이율과 기간 사이에 일정한 관계가 있다는 것을 확인할 수 있다. 즉, 일정 기간이 지났을 때의 원리합계는 특정한 비율을 나타내게 된다. 베르누이는 기간이 n 일때 이율을 이라 하면, 이 원리 합계의 극한이 다음과 같이 네이피어의 로그표에 사용된 밑에 [점근한다는](https://ko.wikipedia.org/wiki/점근_표기법 "wikilink") 것을 발견하였다.\[14\]
+위의 식을 이용하면 원리합계가 목표하는 금액이 되기 위해서 얼마의 기간이 필요한 지 계산할 수 있다. 예를 들어 1천원을 복리 5%로 예금할 때 원리합계가 1억원을 넘기 위해서는 236년이 걸린다.\[13\] 또한, 위의 표를 보면 이율과 기간 사이에 일정한 관계가 있다는 것을 확인할 수 있다. 즉, 일정 기간이 지났을 때의 원리합계는 특정한 비율을 나타내게 된다. 베르누이는 기간이 n 일때 이율을 이라 하면, 이 원리 합계의 극한이 다음과 같이 네이피어의 로그표에 사용된 밑에 [점근한다는](../Page/점근_표기법.md "wikilink") 것을 발견하였다.\[14\]
 
   -
     \(\lim_{n\to\infty} \left(1+\frac{1}{n}\right)^n =  2.71828 \cdots = e\)
@@ -65,7 +65,7 @@
 
 [섬네일에서](https://ko.wikipedia.org/wiki/파일:Euler's_formula.svg "wikilink") [삼각함수](../Page/삼각함수.md "wikilink")와 [지수함수](https://ko.wikipedia.org/wiki/지수함수 "wikilink")의 관계를 나타낸다.\]\]
 
-1714년 영국의 수학자 로저 코츠는 [자연 로그 함수를](https://ko.wikipedia.org/wiki/로그 "wikilink") [복소수](https://ko.wikipedia.org/wiki/복소수 "wikilink")로 확장할 경우 다음과 같은 삼각함수의 관계식으로 표현될 수 있다는 것을 발견하였다.
+1714년 영국의 수학자 로저 코츠는 [자연 로그 함수를](../Page/로그.md "wikilink") [복소수](../Page/복소수.md "wikilink")로 확장할 경우 다음과 같은 삼각함수의 관계식으로 표현될 수 있다는 것을 발견하였다.
 
 \[\ln(\cos x + i\sin x)=ix \\] 1740년 레온하르트 오일러는 이 식을 지수함수로 변형하여 다음과 같이 나타내었다.
 
@@ -74,15 +74,15 @@
 
 이를 [오일러의 공식이라](https://ko.wikipedia.org/wiki/오일러의_공식 "wikilink") 한다.\[15\]\[16\]
 
-오일러의 공식은 [복소평면](../Page/복소평면.md "wikilink")에서 삼각함수와 지수함수의 관계를 설명하고 있다. 이러한 사실은 [복소수](https://ko.wikipedia.org/wiki/복소수 "wikilink")를 복소평면 위의 한 [점으로](https://ko.wikipedia.org/wiki/점_\(기하학\) "wikilink") 표현할 수 있다는 것을 시사한다. 하지만 코츠나 오일러 모두 이러한 발상을 했음에도 불구하고 복소평면을 일반화하지는 않았다. 복소수를 복소평면의 한 점으로 표현하기 시작한 것은 오일러 공식이 발표된 뒤 50여년이 지난 때부터 였다.\[17\]
+오일러의 공식은 [복소평면](../Page/복소평면.md "wikilink")에서 삼각함수와 지수함수의 관계를 설명하고 있다. 이러한 사실은 [복소수](../Page/복소수.md "wikilink")를 복소평면 위의 한 [점으로](../Page/점_\(기하학\).md "wikilink") 표현할 수 있다는 것을 시사한다. 하지만 코츠나 오일러 모두 이러한 발상을 했음에도 불구하고 복소평면을 일반화하지는 않았다. 복소수를 복소평면의 한 점으로 표현하기 시작한 것은 오일러 공식이 발표된 뒤 50여년이 지난 때부터 였다.\[17\]
 
-오일러 공식은 [테일러 급수를](https://ko.wikipedia.org/wiki/테일러_급수 "wikilink") 통해 유도될 수 있다.\[18\] 아래는 오일러 공식의 유도 과정을 소개한 것이다.
+오일러 공식은 [테일러 급수를](../Page/테일러_급수.md "wikilink") 통해 유도될 수 있다.\[18\] 아래는 오일러 공식의 유도 과정을 소개한 것이다.
 
-[절댓값](https://ko.wikipedia.org/wiki/절댓값 "wikilink")이 1 보다 작은 어떤 수 x에 대해 다음과 같은 무한 차수 다항식이 성립한다.
+[절댓값](../Page/절댓값.md "wikilink")이 1 보다 작은 어떤 수 x에 대해 다음과 같은 무한 차수 다항식이 성립한다.
 
 \[1 + x + x^2 + x^3 + \cdots = \frac{1}{1-x}\] (단, |x| \< 1)
 
-[삼각함수](../Page/삼각함수.md "wikilink") 역시 위와 같은 조건을 만족하므로 다음과 같은 무한 차수 다항식으로 표기할 수 있다. 삼각함수의 무한 차수 다항식이 실제 무한히 전개된다는 것은 영국의 브룩 테일러가 증명하였기 때문에 이 전개를 흔히 [테일러 급수라고](https://ko.wikipedia.org/wiki/테일러_급수 "wikilink") 한다. 사인 함수와 코사인 함수의 테일러 급수는 다음과 같다.
+[삼각함수](../Page/삼각함수.md "wikilink") 역시 위와 같은 조건을 만족하므로 다음과 같은 무한 차수 다항식으로 표기할 수 있다. 삼각함수의 무한 차수 다항식이 실제 무한히 전개된다는 것은 영국의 브룩 테일러가 증명하였기 때문에 이 전개를 흔히 [테일러 급수라고](../Page/테일러_급수.md "wikilink") 한다. 사인 함수와 코사인 함수의 테일러 급수는 다음과 같다.
 
 \[\sin{x} = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \frac{x^9}{9!} - \cdots\]
 
@@ -94,7 +94,7 @@
 
 \[e^{ix} = 1 + \frac{ix}{1} - \frac{x^2}{2!} - \frac{ix^3}{3!} + \frac{x^4}{4!} + \frac{ix^5}{5!} - \cdots\] (i<sup>2</sup>= -1) 위 식에서 짝수 차수 항과 홀수 차수 항을 따로 모아 정리하면
 
-\[e^{ix} = \left( 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \cdots \right) + i \left( x - \frac{x^3}{3!} + \frac{x^5}{5!} - \cdots \right)\] 가 된다. 위 식을 살펴 보면 실수항은 코사인 함수의 테일러 급수이고 허수항은 사인 함수의 테일러 급수임을 알 수 있다. 따라서, 다음과 같은 [오일러 공식이](https://ko.wikipedia.org/wiki/오일러_공식 "wikilink") 성립한다.
+\[e^{ix} = \left( 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \cdots \right) + i \left( x - \frac{x^3}{3!} + \frac{x^5}{5!} - \cdots \right)\] 가 된다. 위 식을 살펴 보면 실수항은 코사인 함수의 테일러 급수이고 허수항은 사인 함수의 테일러 급수임을 알 수 있다. 따라서, 다음과 같은 [오일러 공식이](../Page/오일러_공식.md "wikilink") 성립한다.
 
   -
     \(e^{ix} \,=\, \cos x + i\sin x\)
@@ -107,7 +107,7 @@
 
 ### 초월수
 
-\(e\)는 대수적 방정식의 해가 될 수 없는 [초월수](../Page/초월수.md "wikilink")이다.\[19\] 1873년 [프랑스](../Page/프랑스.md "wikilink")의 [수학자](https://ko.wikipedia.org/wiki/수학자 "wikilink") [샤를 에르미트에](../Page/샤를_에르미트.md "wikilink") 의해 \(e\)가 초월수임이 증명되었다.\[20\] \(e\)가 초월수임을 증명하는 방식은 [귀류법](https://ko.wikipedia.org/wiki/귀류법 "wikilink")에 의한 것으로 만일 \(e\)가 대수적인 수라고 가정하면 다항식을 구성하는 계수가 무한히 약분되는 모순이 생긴다는 것을 보이는 것이다.
+\(e\)는 대수적 방정식의 해가 될 수 없는 [초월수](../Page/초월수.md "wikilink")이다.\[19\] 1873년 [프랑스](../Page/프랑스.md "wikilink")의 [수학자](../Page/수학자.md "wikilink") [샤를 에르미트에](../Page/샤를_에르미트.md "wikilink") 의해 \(e\)가 초월수임이 증명되었다.\[20\] \(e\)가 초월수임을 증명하는 방식은 [귀류법](../Page/귀류법.md "wikilink")에 의한 것으로 만일 \(e\)가 대수적인 수라고 가정하면 다항식을 구성하는 계수가 무한히 약분되는 모순이 생긴다는 것을 보이는 것이다.
 
 ### 무리수
 
@@ -134,7 +134,7 @@
 
 \[q! e = q! \frac{p}{q} = p(q-1)!\] 이 된다. 이에 따라 \(q!e\)와 \(q!X\) <sub>\(q\)</sub>는 양의 정수가 되어야 하므로 \(q!(e - X_q)\) 역시 양의 정수가 되어야 한다. 그런데 위의 식 (1)에서 \(q!(e - X_q)\)는 0보다 크고 1보다 작다고 하였으므로 이는 자연수가 될 수 없다. 따라서 \(e\)는 두 양의 정수의 비, 즉 유리수로 나타낼 수 없는 무리수이다.
 
-\(e\)의 근삿값은 다음과 같은 [연분수](https://ko.wikipedia.org/wiki/연분수 "wikilink")의 전개를 통하여 계산할 수 있다.
+\(e\)의 근삿값은 다음과 같은 [연분수](../Page/연분수.md "wikilink")의 전개를 통하여 계산할 수 있다.
 
   -
     \(e = 2 + \frac{1}{1+ \frac{1}{2+ \frac{2}{3+ \frac{3}{4+ \frac{4}{5+ \cdots}}}}}\)
@@ -161,7 +161,7 @@
 
 ### 함수론
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Exp.svg "wikilink") \(e\)는 [함수](https://ko.wikipedia.org/wiki/함수 "wikilink")의 [미분](https://ko.wikipedia.org/wiki/미분 "wikilink")과 [적분](https://ko.wikipedia.org/wiki/적분 "wikilink")에서 특별하게 취급된다. \(e\)에 대한 임의 차원의 지수함수인 \(f(x) = e^x\) 는 이를 미분한 [도함수](https://ko.wikipedia.org/wiki/도함수 "wikilink")가 다시 자기 자신이 되는 함수이다. 또한, 곡선 \(f(x) = e^x\)에 대한 \(x= - \infty\) 에서 \(x=1\)까지 아래 넓이는 \(e\)이다.\[24\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Exp.svg "wikilink") \(e\)는 [함수](../Page/함수.md "wikilink")의 [미분](../Page/미분.md "wikilink")과 [적분](../Page/적분.md "wikilink")에서 특별하게 취급된다. \(e\)에 대한 임의 차원의 지수함수인 \(f(x) = e^x\) 는 이를 미분한 [도함수](https://ko.wikipedia.org/wiki/도함수 "wikilink")가 다시 자기 자신이 되는 함수이다. 또한, 곡선 \(f(x) = e^x\)에 대한 \(x= - \infty\) 에서 \(x=1\)까지 아래 넓이는 \(e\)이다.\[24\]
 
 먼저 \(f(x) = e^x\)의 미분을 보면,
 
@@ -185,17 +185,17 @@
 
 ## 자연로그
 
-\(e\)를 밑으로 하는 [로그](https://ko.wikipedia.org/wiki/로그 "wikilink")인 자연로그는 여러 분야에 두루 쓰인다. 로그함수는 정의에 의해 여러 밑을 가질 수 있지만, 일반적으로 밑을 따로 표기하지 않은 \(\log x\) 는 자연로그를 뜻했다. 하지만 [상용로그](../Page/상용로그.md "wikilink")와 헷갈리는 문제 때문에 현재는 \(\ln x\)로 표기한다. 로그함수 \(f(x)=\ln x\)의 도함수는 \(f(x)=\frac{1}{x}\) 이다. 즉,
+\(e\)를 밑으로 하는 [로그](../Page/로그.md "wikilink")인 자연로그는 여러 분야에 두루 쓰인다. 로그함수는 정의에 의해 여러 밑을 가질 수 있지만, 일반적으로 밑을 따로 표기하지 않은 \(\log x\) 는 자연로그를 뜻했다. 하지만 [상용로그](../Page/상용로그.md "wikilink")와 헷갈리는 문제 때문에 현재는 \(\ln x\)로 표기한다. 로그함수 \(f(x)=\ln x\)의 도함수는 \(f(x)=\frac{1}{x}\) 이다. 즉,
 
 \[\frac{d}{dx} \ln x = \frac{1}{x}\] 이고,
 
 \[\int \frac{1}{x} dx = \ln x + C\] 이다. 이는 \(e\)를 밑으로 한 자연로그의 가장 큰 특징으로 지수가 등차적으로 증가할 때 로그곡선의 기울기는 등비적으로 감소한다는 의미가 된다.\[26\]
 
-\(e\)를 밑으로 하는 자연로그는 여러가지 증정도과 밀접한 관련을 보인다. 대표적인 것으로는 [자연수](https://ko.wikipedia.org/wiki/자연수 "wikilink")에서 주어진 수가 충분히 클때 1에서 부터 주어진 수까지의 [소수의](https://ko.wikipedia.org/wiki/소수_\(수론\) "wikilink") 개수는 로그함수에 [점근한다는](https://ko.wikipedia.org/wiki/점근_표기법 "wikilink") [소수 정리가](https://ko.wikipedia.org/wiki/소수_정리 "wikilink") 있다. [리만 가설에서](https://ko.wikipedia.org/wiki/리만_가설 "wikilink") 출발한 이 정리는 1896년 프랑스의 [자크 아다마르와](https://ko.wikipedia.org/wiki/자크_아다마르 "wikilink") 벨기에의 [발레 푸생이](https://ko.wikipedia.org/wiki/발레_푸생 "wikilink") 서로 독자적인 연구를 통하여 증명하였다.\[27\]
+\(e\)를 밑으로 하는 자연로그는 여러가지 증정도과 밀접한 관련을 보인다. 대표적인 것으로는 [자연수](../Page/자연수.md "wikilink")에서 주어진 수가 충분히 클때 1에서 부터 주어진 수까지의 [소수의](../Page/소수_\(수론\).md "wikilink") 개수는 로그함수에 [점근한다는](../Page/점근_표기법.md "wikilink") [소수 정리가](../Page/소수_정리.md "wikilink") 있다. [리만 가설에서](../Page/리만_가설.md "wikilink") 출발한 이 정리는 1896년 프랑스의 [자크 아다마르와](../Page/자크_아다마르.md "wikilink") 벨기에의 [발레 푸생이](https://ko.wikipedia.org/wiki/발레_푸생 "wikilink") 서로 독자적인 연구를 통하여 증명하였다.\[27\]
 
 이외에도 자연로그는 [물리](https://ko.wikipedia.org/wiki/물리 "wikilink")와 [화학](../Page/화학.md "wikilink") 등 여러 자연 과학의 변화량에서 사용된다.\[28\] 다음은 자연로그가 자연 과학에 사용된 예이다.
 
-  - [루트비히 볼츠만은](https://ko.wikipedia.org/wiki/루트비히_볼츠만 "wikilink") 엔트로피 *S*와 다중도 *g*의 자연로그 값이 비례함을 보였다.\[29\]
+  - [루트비히 볼츠만은](../Page/루트비히_볼츠만.md "wikilink") 엔트로피 *S*와 다중도 *g*의 자연로그 값이 비례함을 보였다.\[29\]
 
 \[S = k \cdot \ln g\]
 
@@ -208,7 +208,7 @@
 
 ## 미해결 문제
 
-\(e\)와 연관된 여러 문제가 아직 해결되지 않았다. 대표적인 문제로는 [오일러-마스케로니 상수](https://ko.wikipedia.org/wiki/오일러-마스케로니_상수 "wikilink") γ 가 무리수나 초월수인지를 밝히는 것인데, 아직까지 증명되지 않고 있다. γ 는 조화 급수와 자연로그의 차에 대한 극한으로 다음과 같은 식으로 나타낼 수 있다.\[31\]
+\(e\)와 연관된 여러 문제가 아직 해결되지 않았다. 대표적인 문제로는 [오일러-마스케로니 상수](../Page/오일러-마스케로니_상수.md "wikilink") γ 가 무리수나 초월수인지를 밝히는 것인데, 아직까지 증명되지 않고 있다. γ 는 조화 급수와 자연로그의 차에 대한 극한으로 다음과 같은 식으로 나타낼 수 있다.\[31\]
 
 \[\gamma = \lim_{n \rightarrow \infty } \left( \sum_{k=1}^n \frac{1}{k}  - \ln(n) \right) = 0.57721 \cdots\]
 
@@ -226,9 +226,9 @@
 
   - [삼각함수](../Page/삼각함수.md "wikilink")
   - [수학 상수](../Page/수학_상수.md "wikilink")
-  - [자연로그](https://ko.wikipedia.org/wiki/자연로그 "wikilink")
-  - [레온하르트 오일러](https://ko.wikipedia.org/wiki/레온하르트_오일러 "wikilink")
-  - [야코프 베르누이](https://ko.wikipedia.org/wiki/야코프_베르누이 "wikilink")
+  - [자연로그](../Page/자연로그.md "wikilink")
+  - [레온하르트 오일러](../Page/레온하르트_오일러.md "wikilink")
+  - [야코프 베르누이](../Page/야코프_베르누이.md "wikilink")
   - [존 네이피어](https://ko.wikipedia.org/wiki/존_네이피어 "wikilink")
 
 ## 주해
