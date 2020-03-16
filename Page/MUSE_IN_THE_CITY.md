@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [MUSE IN THE CITY](https://ko.wikipedia.org/wiki/MUSE_IN_THE_CITY).
 
 
-**MUSE IN THE CITY**는 대한민국의 음악 그룹 [나인뮤지스](https://ko.wikipedia.org/wiki/나인뮤지스 "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+**MUSE IN THE CITY**는 대한민국의 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 7일](https://ko.wikipedia.org/wiki/1월_7일 "wikilink") 나인뮤지스는 첫 단독 콘서트 《MUSE IN THE CITY》의 공연명과 공식 포스터를 공개하였다.<ref>\[<http://gvalley.etnews.com/news/articleView.html?idxno=520230> 나인뮤지스, 데뷔 후 첫 콘서트 '뮤즈 인
+[2016년](../Page/2016년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") 나인뮤지스는 첫 단독 콘서트 《MUSE IN THE CITY》의 공연명과 공식 포스터를 공개하였다.<ref>\[<http://gvalley.etnews.com/news/articleView.html?idxno=520230> 나인뮤지스, 데뷔 후 첫 콘서트 '뮤즈 인
 
-`더 시티' 개최] ``, 전자신문 이선민 기자.`</ref>` `[`1월``   ``8일`](https://ko.wikipedia.org/wiki/1월_8일 "wikilink")` 나인뮤지스는 공식 `[`유튜브`](https://ko.wikipedia.org/wiki/유튜브 "wikilink")` 채널과 `[`네이버`](https://ko.wikipedia.org/wiki/네이버 "wikilink")` V 앱을 통해 콘서트 《MUSE IN THE CITY》의 포스터 촬영 현장 메이킹 영상을 공개하였다.`\[1\]` 또한 나인뮤지스의 소속사 `[`스타제국`](https://ko.wikipedia.org/wiki/스타제국 "wikilink")은` 나인뮤지스의 3월 말 컴백 소식을 밝혔다.`\[2\]` 콘서트 《MUSE IN THE CITY》는 `[`예스24`](https://ko.wikipedia.org/wiki/예스24 "wikilink")를` 통해 `[`1월``   ``12일`](https://ko.wikipedia.org/wiki/1월_12일 "wikilink")` 팬클럽 'MINE'의 선예매, `[`1월``   ``15일`](https://ko.wikipedia.org/wiki/1월_15일 "wikilink")` 일반 예매를 진행하였다.`\[3\]` 콘서트 《MUSE IN THE CITY》는 예매 시작 10분 만에 전 좌석이 매진되어 예매를 종료하였다.`\[4\]` `[`2월``   ``19일`](https://ko.wikipedia.org/wiki/2월_19일 "wikilink")` 오후 8시 나인뮤지스는 `[`서울특별시`](https://ko.wikipedia.org/wiki/서울특별시 "wikilink")` `[`광진구`](https://ko.wikipedia.org/wiki/광진구 "wikilink")` `[`군자동`](https://ko.wikipedia.org/wiki/군자동 "wikilink")` `[`서울``   ``어린이대공원`](https://ko.wikipedia.org/wiki/어린이대공원_\(서울\) "wikilink")` 와팝홀에서 단독 콘서트 《MUSE IN THE CITY》를 진행하였다. 콘서트를 통해 약 2천여명의 관객이 동원되었다.`\[5\]
+`더 시티' 개최] ``, 전자신문 이선민 기자.`</ref>` `[`1월``   ``8일`](../Page/1월_8일.md "wikilink")` 나인뮤지스는 공식 `[`유튜브`](../Page/유튜브.md "wikilink")` 채널과 `[`네이버`](../Page/네이버.md "wikilink")` V 앱을 통해 콘서트 《MUSE IN THE CITY》의 포스터 촬영 현장 메이킹 영상을 공개하였다.`\[1\]` 또한 나인뮤지스의 소속사 `[`스타제국`](../Page/스타제국.md "wikilink")은` 나인뮤지스의 3월 말 컴백 소식을 밝혔다.`\[2\]` 콘서트 《MUSE IN THE CITY》는 `[`예스24`](https://ko.wikipedia.org/wiki/예스24 "wikilink")를` 통해 `[`1월``   ``12일`](../Page/1월_12일.md "wikilink")` 팬클럽 'MINE'의 선예매, `[`1월``   ``15일`](../Page/1월_15일.md "wikilink")` 일반 예매를 진행하였다.`\[3\]` 콘서트 《MUSE IN THE CITY》는 예매 시작 10분 만에 전 좌석이 매진되어 예매를 종료하였다.`\[4\]` `[`2월``   ``19일`](../Page/2월_19일.md "wikilink")` 오후 8시 나인뮤지스는 `[`서울특별시`](../Page/서울특별시.md "wikilink")` `[`광진구`](../Page/광진구.md "wikilink")` `[`군자동`](https://ko.wikipedia.org/wiki/군자동 "wikilink")` `[`서울``   ``어린이대공원`](../Page/어린이대공원_\(서울\).md "wikilink")` 와팝홀에서 단독 콘서트 《MUSE IN THE CITY》를 진행하였다. 콘서트를 통해 약 2천여명의 관객이 동원되었다.`\[5\]
 
 ## 투어 일정
 
@@ -23,7 +23,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/2월_19일" title="wikilink">2월 19일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/2월_19일.md" title="wikilink">2월 19일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p>어린이대공원 와팝홀</p></td>

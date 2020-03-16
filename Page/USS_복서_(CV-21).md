@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USS  \(CV-21\)](https://ko.wikipedia.org/wiki/USS__\(CV-21\)).
 
 
-**USS 복서 (CV-21)**는 미국 해군 [에식스급 항공모함](https://ko.wikipedia.org/wiki/에식스급_항공모함 "wikilink") 24척 중 13번함이다.
+**USS 복서 (CV-21)**는 미국 해군 [에식스급 항공모함](../Page/에식스급_항공모함.md "wikilink") 24척 중 13번함이다.
 
 ## 역사
 
@@ -25,7 +25,7 @@
 
 복서함에는 110대의 함재기가 탑재되었으며, 이미 한국에서는 수백대의 미군 전투기가 작전중이었다. 태풍 캐지아가 복서함의 항로를 막아, 한국에 도착하는 일정이 지연되었다.
 
-복서함은 [USS 밸리포지 (CV-45)](../Page/USS_밸리포지_\(CV-45\).md "wikilink"), 영국 트라이엄프, [USS 필리핀시 (CV-47)에](../Page/USS_필리핀시_\(CV-47\).md "wikilink") 이어 4번째로 한국에 도착한 항공모함이다. 한국전쟁 3년 동안 3만톤 [에식스급 항공모함](https://ko.wikipedia.org/wiki/에식스급_항공모함 "wikilink") 11척이 참전했다.
+복서함은 [USS 밸리포지 (CV-45)](../Page/USS_밸리포지_\(CV-45\).md "wikilink"), 영국 트라이엄프, [USS 필리핀시 (CV-47)에](../Page/USS_필리핀시_\(CV-47\).md "wikilink") 이어 4번째로 한국에 도착한 항공모함이다. 한국전쟁 3년 동안 3만톤 [에식스급 항공모함](../Page/에식스급_항공모함.md "wikilink") 11척이 참전했다.
 
 너무 늦게 와서 [낙동강 전투에는](https://ko.wikipedia.org/wiki/낙동강_전투 "wikilink") 참여하지 못했지만, [인천상륙작전](https://ko.wikipedia.org/wiki/인천상륙작전 "wikilink")에 230척의 미국 선박들과 함께 참여했다.
 

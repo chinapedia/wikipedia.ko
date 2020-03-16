@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [Chakra\'Ca](https://ko.wikipedia.org/wiki/Chakra\'Ca).
 
 
-《**Chakra'Ca**》는 대한민국의 음악 그룹인 [샤크라](https://ko.wikipedia.org/wiki/샤크라 "wikilink")의 두 번째 정규 음반으로, 2001년 3월 7일에 발매되었다. 타이틀 곡은 〈끝 (End)〉, 후속곡은 〈Oh\! My Boy〉이다.
+《**Chakra'Ca**》는 대한민국의 음악 그룹인 [샤크라](../Page/샤크라.md "wikilink")의 두 번째 정규 음반으로, 2001년 3월 7일에 발매되었다. 타이틀 곡은 〈끝 (End)〉, 후속곡은 〈Oh\! My Boy〉이다.
 
 ## 개요
 
-  - 《*[Chakra's Ringing Gingle Bells](https://ko.wikipedia.org/wiki/Chakra's_Ringing_Gingle_Bells "wikilink")*》에 이어 3개월 만에 발매하는 음반이다.
-  - 타이틀 곡 〈끝 (End)〉은 아프리카의 토속적 리듬에 인도의 피리 소리를 더한 역동적인 댄스 곡이다.\[1\] 활동 의상은 인도, 아프리카, 자메이카 등의 스타일을 현대적으로 재해석한 의상으로, [이혜영이](https://ko.wikipedia.org/wiki/이혜영_\(1971년\) "wikilink") 담당하였다.\[2\] 뮤직 비디오는 [필리핀](https://ko.wikipedia.org/wiki/필리핀 "wikilink")의 [정글](https://ko.wikipedia.org/wiki/정글 "wikilink")에서 촬영하였다.\[3\]
+  - 《*[Chakra's Ringing Gingle Bells](../Page/Chakra's_Ringing_Gingle_Bells.md "wikilink")*》에 이어 3개월 만에 발매하는 음반이다.
+  - 타이틀 곡 〈끝 (End)〉은 아프리카의 토속적 리듬에 인도의 피리 소리를 더한 역동적인 댄스 곡이다.\[1\] 활동 의상은 인도, 아프리카, 자메이카 등의 스타일을 현대적으로 재해석한 의상으로, [이혜영이](../Page/이혜영_\(1971년\).md "wikilink") 담당하였다.\[2\] 뮤직 비디오는 [필리핀](../Page/필리핀.md "wikilink")의 [정글](https://ko.wikipedia.org/wiki/정글 "wikilink")에서 촬영하였다.\[3\]
   - 후속곡 〈Oh\! My Boy〉는 [라틴 댄스](https://ko.wikipedia.org/wiki/라틴_댄스 "wikilink") 곡이다.\[4\] 뮤직 비디오는 [서울힐튼호텔에서](https://ko.wikipedia.org/wiki/힐튼_호텔_&_리조트 "wikilink") 촬영하였다.\[5\]
   - 3번 트랙 〈아니야〉는 [유로댄스](https://ko.wikipedia.org/wiki/유로댄스 "wikilink") 리듬에 인도 전통 악기가 가미된 곡으로\[6\], 효과음이 반복되어 몽환적인 느낌을 준다.\[7\]
   - 4번 트랙 〈사랑이여〉는 [트리오 로스 판초스의](https://ko.wikipedia.org/wiki/트리오_로스_판초스 "wikilink") 〈베사메 무초〉(Besame mucho)를 샘플링한 곡이다.\[8\]
   - 6번 트랙 〈Dance \* Queen〉은 복고풍의 [디스코](https://ko.wikipedia.org/wiki/디스코 "wikilink") 멜로디가 인상적인 곡으로\[9\], 멤버들의 화음이 조화를 이루고 있다.\[10\]
-  - 7번 트랙 〈내 느낌\!〉은 [삼바](https://ko.wikipedia.org/wiki/삼바 "wikilink")에 [재즈](https://ko.wikipedia.org/wiki/재즈 "wikilink")를 결합한 곡이다.\[11\]
-  - 8번 트랙 〈한 번만 더〉는 [룸바](https://ko.wikipedia.org/wiki/룸바 "wikilink") 리듬에 [라틴 기타를](https://ko.wikipedia.org/wiki/라틴_아메리카의_음악 "wikilink") 결합한 곡이다.\[12\]
-  - 10번 트랙 〈그대라면...〉은 레게풍의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 곡으로\[13\], 태국의 타악기가 사용되었다.\[14\]
+  - 7번 트랙 〈내 느낌\!〉은 [삼바](../Page/삼바.md "wikilink")에 [재즈](../Page/재즈.md "wikilink")를 결합한 곡이다.\[11\]
+  - 8번 트랙 〈한 번만 더〉는 [룸바](https://ko.wikipedia.org/wiki/룸바 "wikilink") 리듬에 [라틴 기타를](../Page/라틴_아메리카의_음악.md "wikilink") 결합한 곡이다.\[12\]
+  - 10번 트랙 〈그대라면...〉은 레게풍의 [힙합](../Page/힙합.md "wikilink") 곡으로\[13\], 태국의 타악기가 사용되었다.\[14\]
 
 ## 평가
 
@@ -38,7 +38,7 @@
 <td><ul>
 <li>'''끝
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/4월_29일" title="wikilink">4월 29일</a> <a href="https://ko.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li><a href="../Page/4월_29일.md" title="wikilink">4월 29일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -77,8 +77,8 @@
 
 ## 외부 링크
 
-  - ["끝 (End)" MV](http://vod.melon.com/video/detail2.htm?mvId=50002520&menuId=28010101) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(온라인_음악_서비스\) "wikilink")
-  - ["Oh\! My Boy" MV](http://vod.melon.com/video/detail2.htm?mvId=50002786&menuId=28010101) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(온라인_음악_서비스\) "wikilink")
+  - ["끝 (End)" MV](http://vod.melon.com/video/detail2.htm?mvId=50002520&menuId=28010101) - [멜론](../Page/멜론_\(온라인_음악_서비스\).md "wikilink")
+  - ["Oh\! My Boy" MV](http://vod.melon.com/video/detail2.htm?mvId=50002786&menuId=28010101) - [멜론](../Page/멜론_\(온라인_음악_서비스\).md "wikilink")
 
 [분류:2001년 음반](https://ko.wikipedia.org/wiki/분류:2001년_음반 "wikilink") [분류:샤크라의 음반](https://ko.wikipedia.org/wiki/분류:샤크라의_음반 "wikilink") [분류:크림 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:크림_엔터테인먼트_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink")
 

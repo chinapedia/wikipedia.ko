@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
 
 
-**피터 데니스 미첼**(, [FRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink")\[1\], [1920년](https://ko.wikipedia.org/wiki/1920년 "wikilink") [9월 29일](https://ko.wikipedia.org/wiki/9월_29일 "wikilink") \~ [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink"))은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1978년에 생물학적 [에너지](https://ko.wikipedia.org/wiki/에너지 "wikilink") 이동 과정을 공식화하여 [ATP합성](https://ko.wikipedia.org/wiki/아데노신_삼인산 "wikilink") 메커니즘을 발견한 공로로 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상하였다.
+**피터 데니스 미첼**(, [FRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink")\[1\], [1920년](../Page/1920년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") \~ [1992년](../Page/1992년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink"))은 [영국](../Page/영국.md "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1978년에 생물학적 [에너지](../Page/에너지.md "wikilink") 이동 과정을 공식화하여 [ATP합성](../Page/아데노신_삼인산.md "wikilink") 메커니즘을 발견한 공로로 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상하였다.
 
 ## 수상 경력
 
   - 1978년 : 노벨 화학상
-  - 1981년 : [코플리 메달](https://ko.wikipedia.org/wiki/코플리_메달 "wikilink")
+  - 1981년 : [코플리 메달](../Page/코플리_메달.md "wikilink")
 
 ## 각주
 

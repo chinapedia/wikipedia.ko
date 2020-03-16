@@ -5,7 +5,7 @@
 
 ## 제작
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 타이틀곡 \<How Are You, The Love of My Life\>는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [파주시](https://ko.wikipedia.org/wiki/파주시 "wikilink") 명필름아트센터의 전시 〈Crossing Waves〉에서 먼저 선공개되었다.
+[2015년](../Page/2015년.md "wikilink") 타이틀곡 \<How Are You, The Love of My Life\>는 [대한민국](../Page/대한민국.md "wikilink") [파주시](../Page/파주시.md "wikilink") 명필름아트센터의 전시 〈Crossing Waves〉에서 먼저 선공개되었다.
 
 ## 트랙 리스트
 

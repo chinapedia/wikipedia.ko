@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Xftp](https://ko.wikipedia.org/wiki/Xftp).
 
 
-**Xftp**는 [넷사랑컴퓨터](https://ko.wikipedia.org/wiki/넷사랑컴퓨터 "wikilink")에서 개발한 [FTP](https://ko.wikipedia.org/wiki/FTP "wikilink"), [SFTP](../Page/SSH_파일_전송_프로토콜.md "wikilink") 클라이언트 프로그램이다.
+**Xftp**는 [넷사랑컴퓨터](../Page/넷사랑컴퓨터.md "wikilink")에서 개발한 [FTP](https://ko.wikipedia.org/wiki/FTP "wikilink"), [SFTP](../Page/SSH_파일_전송_프로토콜.md "wikilink") 클라이언트 프로그램이다.
 
 ## 역사
 
@@ -20,8 +20,8 @@ Xftp는 GUI 기반의 [FTP](https://ko.wikipedia.org/wiki/FTP "wikilink"), [SFTP
   - 광범위한 프로토콜 지원 ([FTP](https://ko.wikipedia.org/wiki/FTP "wikilink"), [SFTP](../Page/SSH_파일_전송_프로토콜.md "wikilink"))
   - 탭과 커맨더 환경으로 구성 및 폴더 트리 지원
   - 사용자가 정의 가능한 인터페이스 (전송 대기열, 링크 모음, 빠른 연결 표시줄 등)
-  - [IPv6](https://ko.wikipedia.org/wiki/IPv6 "wikilink") 지원
-  - SSH [ZLIB](https://ko.wikipedia.org/wiki/Zlib "wikilink") 압축 지원
+  - [IPv6](../Page/IPv6.md "wikilink") 지원
+  - SSH [ZLIB](../Page/Zlib.md "wikilink") 압축 지원
   - 명령줄 인터페이스 지원
   - 호스트 키/사용자 키 관리
   - 폴더 동기화 지원
@@ -50,8 +50,8 @@ Xftp는 가정 및 학교에서 무료 라이선스 사용이 가능하다.\[1\]
 
 ## 보안
 
-  - [공개 키 암호 방식](https://ko.wikipedia.org/wiki/공개_키_암호_방식 "wikilink")
-  - [대칭 키 암호](https://ko.wikipedia.org/wiki/대칭_키_암호 "wikilink")
+  - [공개 키 암호 방식](../Page/공개_키_암호_방식.md "wikilink")
+  - [대칭 키 암호](../Page/대칭_키_암호.md "wikilink")
   - [PKCS\#11](https://ko.wikipedia.org/wiki/PKCS#11 "wikilink") 인증 지원
   - SSH 에이전트 지원
   - 추가적인 보안 기능
@@ -80,8 +80,8 @@ Xftp는 가정 및 학교에서 무료 라이선스 사용이 가능하다.\[1\]
 
 ## 같이 보기
 
-  - [파일질라](https://ko.wikipedia.org/wiki/파일질라 "wikilink")
-  - [토탈 커맨더](https://ko.wikipedia.org/wiki/토탈_커맨더 "wikilink")
+  - [파일질라](../Page/파일질라.md "wikilink")
+  - [토탈 커맨더](../Page/토탈_커맨더.md "wikilink")
   - [WinSCP](../Page/WinSCP.md "wikilink")
 
 ## 각주

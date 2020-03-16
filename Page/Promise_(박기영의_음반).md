@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Promise \( \)](https://ko.wikipedia.org/wiki/Promise_\(_\)).
 
 
-**《Promise》**는 [박기영의](https://ko.wikipedia.org/wiki/박기영_\(1977년생_가수\) "wikilink") 2집 정규 앨범이다.
+**《Promise》**는 [박기영의](../Page/박기영_\(1977년생_가수\).md "wikilink") 2집 정규 앨범이다.
 
 ## 수록곡
 

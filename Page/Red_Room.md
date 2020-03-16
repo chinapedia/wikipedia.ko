@@ -43,7 +43,7 @@
 </tr>
 <tr class="even">
 <td><p>2018년 3월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄" title="wikilink">도쿄</a></p></td>
+<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
 <td></td>
 <td><p>무사시노노모리 종합 스포츠 플라자 메인 아레나</p></td>
 <td><p>20,000명</p></td>
@@ -134,7 +134,7 @@
 <td style="text-align: left;"><p>포토북</p></td>
 <td style="text-align: left;"><p>Red Velvet 1st Concert 《Red Room》 공연화보집</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/4월_26일" title="wikilink">4월 26일</a></li>
+<li>발매일 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_26일.md" title="wikilink">4월 26일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -158,7 +158,7 @@
 <td style="text-align: left;"><p>키노 비디오</p></td>
 <td style="text-align: left;"><p>Red Velvet 1st Concert 《Red Room》 Kihno Video</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/7월_12일" title="wikilink">7월 12일</a></li>
+<li>발매일 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/7월_12일.md" title="wikilink">7월 12일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -169,7 +169,7 @@
   - [레드벨벳](https://ko.wikipedia.org/wiki/레드벨벳 "wikilink") ([아이린](../Page/아이린_\(1991년\).md "wikilink"), [슬기](../Page/슬기.md "wikilink"), [웬디](../Page/웬디_\(가수\).md "wikilink"), [조이](../Page/조이_\(가수\).md "wikilink"), [예리](../Page/예리_\(가수\).md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
 
 ## 각주
 

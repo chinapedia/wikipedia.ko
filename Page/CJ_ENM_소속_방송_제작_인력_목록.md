@@ -52,7 +52,7 @@
   - 안제민 - CJ ENM E\&M 부문 프로듀서
   - 양정우 - CJ ENM E\&M 부문 프로듀서
   - 양슬기 - CJ ENM E\&M 부문 프로듀서
-  - [오원택](https://ko.wikipedia.org/wiki/오원택 "wikilink") - CJ ENM E\&M 부문 tvN 프로듀서
+  - [오원택](../Page/오원택.md "wikilink") - CJ ENM E\&M 부문 tvN 프로듀서
   - 오 청 - CJ ENM E\&M 부문 tvN 프로듀서
   - 엄진석 - CJ ENM E\&M 부문 프로듀서
   - 이근찬 - CJ ENM E\&M 부문 프로듀서
@@ -76,7 +76,7 @@
   - 석종서 - CJ ENM E\&M 부문 프로듀서/애니메이션 사업본부 제작국장
   - 석정호 - CJ ENM E\&M부문 프로듀서
   - 신길주 - CJ ENM E\&M 부문 투니버스 프로듀서/CJ ENM 프로듀서
-  - [신동식](https://ko.wikipedia.org/wiki/신동식 "wikilink") - CJ ENM E\&M 부문 투니버스 편성 기획 본부장/투니버스 제작팀 프로듀서/前 투니버스 제작팀 팀장
+  - [신동식](../Page/신동식.md "wikilink") - CJ ENM E\&M 부문 투니버스 편성 기획 본부장/투니버스 제작팀 프로듀서/前 투니버스 제작팀 팀장
   - 신소영 - CJ ENM E\&M부문 프로듀서/Olive 프로듀서/前 On Style 프로듀서
   - 신찬양 - CJ ENM E\&M 부문 tvN 프로듀서
   - 신소영 - CJ ENM E\&M부문 프로듀서/Olive 프로듀서/前 On Style 프로듀서
@@ -106,14 +106,14 @@
       - 고민구 - CJ ENM E\&M 부문 프로듀서/前 KBS 예능본부 프로듀서
       - 김석현 - CJ ENM 미디어 디지털콘텐츠사업부장(상무)/tvN 기획제작총괄 CP/前 tvN 기획제작1국장/前 tvN 예능국 프로듀서/前 KBS 예능본부 프로듀서
       - 김민석 - CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
-      - [나영석](https://ko.wikipedia.org/wiki/나영석 "wikilink") - CJ ENM E\&M 부문 프로듀서/前 KBS 예능본부 차장/前 KBS 예능본부 프로듀서
+      - [나영석](../Page/나영석.md "wikilink") - CJ ENM E\&M 부문 프로듀서/前 KBS 예능본부 차장/前 KBS 예능본부 프로듀서
       - 백승룡 - CJ ENM E\&M 부문 tvN 프로듀서/前 KBS 드라마본부 프로듀서
-      - [신원호](https://ko.wikipedia.org/wiki/신원호_\(연출가\) "wikilink") - CJ ENM E\&M 부문 프로듀서/前 KBS 예능본부 PD
+      - [신원호](../Page/신원호_\(연출가\).md "wikilink") - CJ ENM E\&M 부문 프로듀서/前 KBS 예능본부 PD
       - 신효정 - CJ ENM E\&M 부문 프로듀서/前 SBS 예능본부 프로듀서/前 KBS 예능본부 PD
       - [이명한](https://ko.wikipedia.org/wiki/이명한_\(1970년\) "wikilink") - CJ E\&M 미디어콘텐츠본부장 겸 미디어제작사업부장/OtvN 본부장/tvN 본부장/前 tvN 제작기획총괄국장/前 CJ ENM 프로듀서/前 KBS 예능본부 프로듀서
       - 이지윤 - CJ ENM E\&M 부문 프로듀서/前 KBS 창원방송총국
       - 유학찬 - CJ ENM E\&M 부문 프로듀서/前 KBS 예능본부 PD
-      - [유호진](https://ko.wikipedia.org/wiki/유호진 "wikilink") - CJ ENM E\&M 부문 프로듀서/前 몬스터유니온 프로듀서/前 KBS 드라마본부 프로듀서
+      - [유호진](../Page/유호진.md "wikilink") - CJ ENM E\&M 부문 프로듀서/前 몬스터유니온 프로듀서/前 KBS 드라마본부 프로듀서
       - 정민식 - CJ ENM E\&M 부문 프로듀서/前 KBS 예능본부 프로듀서/前 MBC 예능본부 프로듀서
       - 정우석 - CJ ENM 방송사업부분 프로듀서/前 KBS 시사교양본부 취재 프로듀서
 
@@ -192,7 +192,7 @@
 <!-- end list -->
 
   - MBC 출신 PD
-      - [박홍균](https://ko.wikipedia.org/wiki/박홍균 "wikilink") - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 tvN 프로듀서/前 MBC 드라마본부 드라마해외제작부장
+      - [박홍균](../Page/박홍균.md "wikilink") - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 tvN 프로듀서/前 MBC 드라마본부 드라마해외제작부장
       - [이윤정](../Page/이윤정_\(연출가\).md "wikilink") - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 프로듀서/前 MBC 드라마본부 프로듀서
       - 최병길 - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/前 MBC 드라마본부 프로듀서
 
@@ -224,12 +224,12 @@
   - 신유선 - MBC MUSIC 프로듀서/前 MBC플러스미디어 프로듀서/前 Mnet 프로듀서
   - 신천지 - 컴퍼니상상 프로듀서/前 Mnet 프로듀서
   - 심정희 - CIC미디어 프로듀서/前 투니버스 프로듀서
-  - [송창의](https://ko.wikipedia.org/wiki/송창의_\(연출가\) "wikilink") - 코엔미디어 제작본부 대표
+  - [송창의](../Page/송창의_\(연출가\).md "wikilink") - 코엔미디어 제작본부 대표
   - 송현욱 - 스튜디오앤뉴 프로듀서 /前 tvN 프로듀서/前 KBS 프로듀서
   - 유치콕 - 메이크어스 딩고 스튜디오 프로듀서/前 CJ ENM 프로듀서
   - 이재문 - 히든시퀀스 대표 프로듀서/前 CJ ENM 드라마기획 프로듀서/前 MBC 플러스미디어 프로듀서
   - 임우식 - 前 CJ E\&M 프로듀서
-  - [이영균](https://ko.wikipedia.org/wiki/이영균 "wikilink") - [오리온](https://ko.wikipedia.org/wiki/오리온 "wikilink") 상무이사/前 CJ ENM(구 온미디어) 홍보실장
+  - [이영균](https://ko.wikipedia.org/wiki/이영균 "wikilink") - [오리온](../Page/오리온.md "wikilink") 상무이사/前 CJ ENM(구 온미디어) 홍보실장
   - 조상범 - TV조선 프로듀서/前 CJ ENM 프로듀서
   - 정환석 - MBC 드라마넷 프로듀서/前 CJ ENM 예능1CP
   - 정유신 - TV조선 프로듀서/前 CJ ENM 프로듀서

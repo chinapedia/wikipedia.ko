@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WEME](https://ko.wikipedia.org/wiki/WEME).
 
 
-《**WEME**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [위키미키](../Page/위키미키.md "wikilink")의 데뷔 음반이자 첫 번째 EP이다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 8일에](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") 인터파크를 통해 발매되었다.
+《**WEME**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [위키미키](../Page/위키미키.md "wikilink")의 데뷔 음반이자 첫 번째 EP이다. [2017년](../Page/2017년.md "wikilink") [8월 8일에](../Page/8월_8일.md "wikilink") 인터파크를 통해 발매되었다.
 
 ## 수록곡
 

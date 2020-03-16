@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**베리아 FC**()는 [베리아](https://ko.wikipedia.org/wiki/베리아 "wikilink")를 연고로 하는 [그리스](https://ko.wikipedia.org/wiki/그리스 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [수페르리가 엘라다에](https://ko.wikipedia.org/wiki/수페르리가_엘라다 "wikilink") 참가하고 있다.
+**베리아 FC**()는 [베리아](../Page/베리아.md "wikilink")를 연고로 하는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 참가하고 있다.
 
 1960년 베리아를 연고로 하던 축구 클럽인 베르미온(Vermion)과 에르미스(Hermes)가 합병되면서 창단되었다.
 

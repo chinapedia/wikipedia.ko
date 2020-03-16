@@ -6,7 +6,7 @@
 ## 장소
 
   - [크루아찬 폭포 철도역](https://ko.wikipedia.org/wiki/크루아찬_폭포_철도역 "wikilink")([:en:Falls of Cruachan railway station](https://ko.wikipedia.org/wiki/:en:Falls_of_Cruachan_railway_station "wikilink")), 스코틀랜드의 철도역
-  - [푸저우 창러 국제공항](https://ko.wikipedia.org/wiki/푸저우_창러_국제공항 "wikilink")(Fuzhou Changle International Airport), 중국 푸젠성에 위치한 국제공항의 영어 명칭의 약자이자 IATA 코드
+  - [푸저우 창러 국제공항](../Page/푸저우_창러_국제공항.md "wikilink")(Fuzhou Changle International Airport), 중국 푸젠성에 위치한 국제공항의 영어 명칭의 약자이자 IATA 코드
 
 ## 문화
 
@@ -30,7 +30,7 @@
 
   - [미광 천체 카메라](https://ko.wikipedia.org/wiki/미광_천체_카메라 "wikilink")(Faint Object Camera), 허블 천체 망원경에 적용된 기술
   - [코드의 축제](https://ko.wikipedia.org/wiki/코드의_축제 "wikilink")([:en:Festival of Code](https://ko.wikipedia.org/wiki/:en:Festival_of_Code "wikilink")), 해마다 열리는 [해커톤](https://ko.wikipedia.org/wiki/해커톤 "wikilink")
-  - [섬유광케이블](https://ko.wikipedia.org/wiki/광케이블 "wikilink")(Fiber optic cable)
+  - [섬유광케이블](../Page/광케이블.md "wikilink")(Fiber optic cable)
   - [자속기준제어](https://ko.wikipedia.org/wiki/자속기준제어 "wikilink")([:en:Field oriented control](https://ko.wikipedia.org/wiki/:en:Field_oriented_control "wikilink"))
 
 ## 직업, 역할

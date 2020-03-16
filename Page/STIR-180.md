@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [STIR-180](https://ko.wikipedia.org/wiki/STIR-180).
 
 
-함상용 조사 레이다이다. 탐지 목표물의 높이 좌표를 확보한다. 대표적으로 [광개토대왕급 구축함에](https://ko.wikipedia.org/wiki/광개토대왕급_구축함 "wikilink") 탑재돼있으며, 부족한 2차원 레이다(AN/SPS-49)를 보완하기 위해 한척당 2대씩 장착돼 있다.
+함상용 조사 레이다이다. 탐지 목표물의 높이 좌표를 확보한다. 대표적으로 [광개토대왕급 구축함에](../Page/광개토대왕급_구축함.md "wikilink") 탑재돼있으며, 부족한 2차원 레이다(AN/SPS-49)를 보완하기 위해 한척당 2대씩 장착돼 있다.
 
   - 탐지거리 : 185km
 
@@ -31,7 +31,7 @@
 
   - \- [SAMPSON](../Page/SAMPSON.md "wikilink") 400Km 동시추적 표적 500개\~1,000개
 
-  - \- [헤라클레스](https://ko.wikipedia.org/wiki/헤라클레스 "wikilink") 250Km 동시추적 표적 500개
+  - \- [헤라클레스](../Page/헤라클레스.md "wikilink") 250Km 동시추적 표적 500개
 
   - \- [348식 레이다](https://ko.wikipedia.org/wiki/348식_레이다 "wikilink") 300Km
 

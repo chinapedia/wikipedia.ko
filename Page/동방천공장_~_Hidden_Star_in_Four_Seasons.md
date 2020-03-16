@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \~ Hidden Star in Four Seasons](https://ko.wikipedia.org/wiki/_\~_Hidden_Star_in_Four_Seasons).
 
 
-《**동방천공장 \~ Hidden Star in Four Seasons**》()은 [동방 프로젝트의](https://ko.wikipedia.org/wiki/동방_프로젝트 "wikilink") 열여섯번째 시리즈 게임이다. 제14회 하쿠레이 신사 봄 예대제에서 체험판이 배포되었고, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 11일](https://ko.wikipedia.org/wiki/8월_11일 "wikilink") [C92에서](https://ko.wikipedia.org/wiki/코믹_마켓 "wikilink") 정식판이 배포되었다. 또한 일본 시간 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [11월 18일에는](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") 미디어 스케이프로부터 [Steam에서의](https://ko.wikipedia.org/wiki/스팀_\(소프트웨어\) "wikilink") 배포가 이루어졌다.
+《**동방천공장 \~ Hidden Star in Four Seasons**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 열여섯번째 시리즈 게임이다. 제14회 하쿠레이 신사 봄 예대제에서 체험판이 배포되었고, [2017년](../Page/2017년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") [C92에서](https://ko.wikipedia.org/wiki/코믹_마켓 "wikilink") 정식판이 배포되었다. 또한 일본 시간 [2017년](../Page/2017년.md "wikilink") [11월 18일에는](../Page/11월_18일.md "wikilink") 미디어 스케이프로부터 [Steam에서의](../Page/스팀_\(소프트웨어\).md "wikilink") 배포가 이루어졌다.
 
 ## 시스템
 
@@ -33,13 +33,13 @@
 여기서는 《천공장》에서 처음 나온 등장인물들을 설명한다.
 
   - 이터니티 라바
-    [호랑나비](https://ko.wikipedia.org/wiki/호랑나비과 "wikilink") 요정. 치르노와는 면식이 있다.
+    [호랑나비](../Page/호랑나비과.md "wikilink") 요정. 치르노와는 면식이 있다.
   - 사카타 네무노
     요괴의 산에 사는 야만바. 야아와 같은 텐구와는 불가침 조약을 맺고 있다.
   - 코마노 아운
     인간의 신앙을 모을 것 같은 장소를 찾아내서는 얹혀 살며 마음대로 수호를 하는 코마이누로, 두 명이서 사자와 코마이누 양쪽의 성질을 겸비한다.
   - 야타데라 나루미
-    마법의 숲의 마력으로 생명을 얻은 [지장](https://ko.wikipedia.org/wiki/지장보살 "wikilink"). 마리사와는 아는 사이이며, 그녀에게는 "나루코"라고 불린다.
+    마법의 숲의 마력으로 생명을 얻은 [지장](../Page/지장보살.md "wikilink"). 마리사와는 아는 사이이며, 그녀에게는 "나루코"라고 불린다.
   - 니시다 사토노
     분홍색 옷에 양하 잎을 들고 있다.
   - 테이레이다 마이
@@ -52,10 +52,10 @@
 
 여기서는 《천공장》에서 처음 나오지 않은 등장인물들을 설명한다.
 
-  - [하쿠레이 레이무](https://ko.wikipedia.org/wiki/하쿠레이_레이무 "wikilink")
+  - [하쿠레이 레이무](../Page/하쿠레이_레이무.md "wikilink")
     하쿠레이 신사의 무녀. 메인 계절은 "봄".
     이상 기상을 특별히 문제로 삼지 않는다.
-  - [키리사메 마리사](https://ko.wikipedia.org/wiki/키리사메_마리사 "wikilink")
+  - [키리사메 마리사](../Page/키리사메_마리사.md "wikilink")
     마법의 숲의 마법사. 메인 계절은 "겨울".
     이변을 본격적으로 조사하려고 하기 전에 폭주 상태의 요정에게 휘말려 전투하게 된다.
   - [샤메이마루 아야](https://ko.wikipedia.org/wiki/샤메이마루_아야 "wikilink")
@@ -160,11 +160,11 @@
 
 2017년 8월 11일에 코믹 마켓 92에서 정식판이 발매되기 전인 2017년 6월, 굿스마일 컴퍼니는 이 작품에 등장하는 햇볕에 그을린 치르노의 피겨가 10월에 발매될 예정이라는 것을 밝혔다\[1\].
 
-2017년 11월 6일, 이 작품의 원작자인 [ZUN은](https://ko.wikipedia.org/wiki/오타_준야 "wikilink") 일본 시간 11월 18일에 이 작품을 [Steam에서](https://ko.wikipedia.org/wiki/스팀_\(소프트웨어\) "wikilink") 발매할 예정이며, Steam상에서의 판매는 미디어 스케이프가 담당할 예정이라는 것을 알렸다\[2\]. 또한 미디어 스케이프를 판매자로 한 것은 사무 처리 등의 사정에 따른 것이며, 각 권한은 지금까지 해왔던 대로 ZUN이 관리한다\[3\].
+2017년 11월 6일, 이 작품의 원작자인 [ZUN은](https://ko.wikipedia.org/wiki/오타_준야 "wikilink") 일본 시간 11월 18일에 이 작품을 [Steam에서](../Page/스팀_\(소프트웨어\).md "wikilink") 발매할 예정이며, Steam상에서의 판매는 미디어 스케이프가 담당할 예정이라는 것을 알렸다\[2\]. 또한 미디어 스케이프를 판매자로 한 것은 사무 처리 등의 사정에 따른 것이며, 각 권한은 지금까지 해왔던 대로 ZUN이 관리한다\[3\].
 
 ZUN은 Steam에서의 발매를 결정한 이유에 대해서 "몇 년 전부터 Steam에서의 배포는 생각하고 있었으며, 해외에서 'Steam에서 내지 않을까'라고 했을 때는 항상 '미래에는 나올 것이라고 생각한다'라고 대답했지만 귀찮다고 생각해서 하지 않았다. 하지만 옛날처럼 번역하거나 해외 법인을 준비하지 않아도 되고, 패키지판과 같은 것을 그대로 낼 수 있게 되었기 때문에 Steam에서의 배포를 하기로 했다"라고 IGN의 이마이 신과의 인터뷰 중에 대답했다\[4\]. Steam판은 기본적으로는 패키지판과 동일하지만, 저장 데이터나 Steam의 촬영 기능을 사용한 스크린샷 등은 Steam의 클라우드에 보관되는 사양이다\[5\]. 또한 일본어 뉘앙스 등의 관점에서 영어 지원은 미뤄졌다\[6\].
 
-ZUN은 이 작품의 매출에 따라서는 과거 작품의 Steam에서의 발매를 검토하겠다고 한 반면, Windows 개발 초기 작품은 문제점 등의 관계로 그대로 판매할 수 있을지 불분명하다고 하며, 특히 Windows 개발 제1탄인 《[동방홍마향 \~ the Embodiment of Scarlet Devil](https://ko.wikipedia.org/wiki/동방홍마향_~_the_Embodiment_of_Scarlet_Devil "wikilink")》에 대해서는 '현세대'의 OS는 지원하지 않기 때문에 재작업에 가까워진다고 Game\*Spark의 Arkblade와의 인터뷰 중에 말했다\[7\].
+ZUN은 이 작품의 매출에 따라서는 과거 작품의 Steam에서의 발매를 검토하겠다고 한 반면, Windows 개발 초기 작품은 문제점 등의 관계로 그대로 판매할 수 있을지 불분명하다고 하며, 특히 Windows 개발 제1탄인 《[동방홍마향 \~ the Embodiment of Scarlet Devil](../Page/동방홍마향_~_the_Embodiment_of_Scarlet_Devil.md "wikilink")》에 대해서는 '현세대'의 OS는 지원하지 않기 때문에 재작업에 가까워진다고 Game\*Spark의 Arkblade와의 인터뷰 중에 말했다\[7\].
 
 ## 반응
 

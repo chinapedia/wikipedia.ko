@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
 
 
-**FK 쿠커시**()는 [쿠커스](https://ko.wikipedia.org/wiki/쿠커스 "wikilink")를 연고로 하는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [알바니아 수페르리가에](https://ko.wikipedia.org/wiki/알바니아_수페르리가 "wikilink") 참가하고 있다.
+**FK 쿠커시**()는 [쿠커스](https://ko.wikipedia.org/wiki/쿠커스 "wikilink")를 연고로 하는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [알바니아 수페르리가에](../Page/알바니아_수페르리가.md "wikilink") 참가하고 있다.
 
 ## 성적
 
-  - [알바니아 수페르리가](https://ko.wikipedia.org/wiki/알바니아_수페르리가 "wikilink") 우승 1회 (2016-17), 준우승 3회 (2012-13, 2013-14, 2014-15)
+  - [알바니아 수페르리가](../Page/알바니아_수페르리가.md "wikilink") 우승 1회 (2016-17), 준우승 3회 (2012-13, 2013-14, 2014-15)
   - [알바니아 컵](https://ko.wikipedia.org/wiki/알바니아_컵 "wikilink") 우승 1회 (2015-16), 준우승 2회 (2013-14, 2014-15)
   - [알바니아 슈퍼컵](https://ko.wikipedia.org/wiki/알바니아_슈퍼컵 "wikilink") 우승 1회 (2016)
   - [알바니아 세컨드디비전](https://ko.wikipedia.org/wiki/알바니아_세컨드디비전 "wikilink") 우승 5회 (1959, 1966-67, 1976-77, 1981-82, 2010-11)

@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [Radio \(JY \)](https://ko.wikipedia.org/wiki/Radio_\(JY_\)).
 
 
-**Radio**는 [강지영](https://ko.wikipedia.org/wiki/강지영 "wikilink")의 디지털 싱글이다. [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 프로듀서 [MNEK](../Page/MNEK.md "wikilink")와 함께 작업했으며, [한국](https://ko.wikipedia.org/wiki/한국 "wikilink"), [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")뿐 아니라 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink"), [아시아](https://ko.wikipedia.org/wiki/아시아 "wikilink")등 47개국에 동시 발매했다.\[1\] 뮤직비디오는 미국 LA의 스튜디오에서 [리한나](https://ko.wikipedia.org/wiki/리한나 "wikilink"), [케샤](https://ko.wikipedia.org/wiki/케샤 "wikilink"), [샤키라](https://ko.wikipedia.org/wiki/샤키라 "wikilink") 등의 뮤직비디오 감독 Darren Craig가 이끄는 크리에이티브 팀이 제작했다.
+**Radio**는 [강지영](../Page/강지영.md "wikilink")의 디지털 싱글이다. [영국](../Page/영국.md "wikilink")의 프로듀서 [MNEK](../Page/MNEK.md "wikilink")와 함께 작업했으며, [한국](../Page/한국.md "wikilink"), [일본](../Page/일본.md "wikilink")뿐 아니라 [미국](../Page/미국.md "wikilink"), [아시아](../Page/아시아.md "wikilink")등 47개국에 동시 발매했다.\[1\] 뮤직비디오는 미국 LA의 스튜디오에서 [리한나](../Page/리한나.md "wikilink"), [케샤](../Page/케샤.md "wikilink"), [샤키라](../Page/샤키라.md "wikilink") 등의 뮤직비디오 감독 Darren Craig가 이끄는 크리에이티브 팀이 제작했다.
 
 ## 개요
 
   - 본인이 출연한 [NTV](https://ko.wikipedia.org/wiki/NTV "wikilink") 드라마 《[히간바나\~경시청 수사7과〜](https://ko.wikipedia.org/wiki/:ja:ヒガンバナ〜警視庁捜査七課〜 "wikilink")》의 오프닝곡이다.\[2\]
-  - 3월 17일 'RADIO'가 일본 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink") Pop Top Song 차트 1위를 차지했다.\[3\]
+  - 3월 17일 'RADIO'가 일본 [아이튠즈](../Page/아이튠즈.md "wikilink") Pop Top Song 차트 1위를 차지했다.\[3\]
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAPPY MOMENT](https://ko.wikipedia.org/wiki/HAPPY_MOMENT).
 
 
-《**HAPPY MOMENT**》(해피 모먼트)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [우주소녀](../Page/우주소녀.md "wikilink")의 첫 번째 정규 음반이다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [6월 7일에](https://ko.wikipedia.org/wiki/6월_7일 "wikilink") 로엔엔터테인먼트를 통해 HAPPY ver.와 MOMENT ver.의 두 종류로 발매되었다.
+《**HAPPY MOMENT**》(해피 모먼트)는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [우주소녀](../Page/우주소녀.md "wikilink")의 첫 번째 정규 음반이다. [2017년](../Page/2017년.md "wikilink") [6월 7일에](../Page/6월_7일.md "wikilink") 로엔엔터테인먼트를 통해 HAPPY ver.와 MOMENT ver.의 두 종류로 발매되었다.
 
 ## 수록곡
 

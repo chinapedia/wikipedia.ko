@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Fake \(JY \)](https://ko.wikipedia.org/wiki/Fake_\(JY_\)).
 
 
-**Fake**()는 [강지영](https://ko.wikipedia.org/wiki/강지영 "wikilink")의 일본 세 번째 싱글앨범이다.
+**Fake**()는 [강지영](../Page/강지영.md "wikilink")의 일본 세 번째 싱글앨범이다.
 
 ## 개요
 
   - 네 번째 싱글 《[恋をしていたこと](https://ko.wikipedia.org/wiki/사랑에_빠져_있었던_것 "wikilink")》 과 동시에 발매했다.\[1\]
-  - 수록곡 [ブギウギ는](https://ko.wikipedia.org/wiki/부기우기_\(JY의_노래\) "wikilink") [MBS](https://ko.wikipedia.org/wiki/마이니치_방송 "wikilink")/[TBS](../Page/TBS_텔레비전.md "wikilink") 드라마 《[친애하는 민박님](https://ko.wikipedia.org/wiki/:ja:拝啓、民泊様。 "wikilink")》의 주제가 이다.\[2\]
-  - 수록곡 《Crazy Love》는 [야마구치 모모에의](https://ko.wikipedia.org/wiki/야마구치_모모에 "wikilink") 노래를 리메이크한 것이다.
+  - 수록곡 [ブギウギ는](https://ko.wikipedia.org/wiki/부기우기_\(JY의_노래\) "wikilink") [MBS](../Page/마이니치_방송.md "wikilink")/[TBS](../Page/TBS_텔레비전.md "wikilink") 드라마 《[친애하는 민박님](https://ko.wikipedia.org/wiki/:ja:拝啓、民泊様。 "wikilink")》의 주제가 이다.\[2\]
+  - 수록곡 《Crazy Love》는 [야마구치 모모에의](../Page/야마구치_모모에.md "wikilink") 노래를 리메이크한 것이다.
 
 ## 수록곡
 
@@ -16,7 +16,7 @@
 2.  [ブギウギ](https://ko.wikipedia.org/wiki/부기우기_\(JY의_노래\) "wikilink")
       - 작사 • 작곡 : 쿠로사키 준
 3.  Crazy Love
-      - 작사 • 작곡 : [이노우에 요스이](https://ko.wikipedia.org/wiki/이노우에_요스이 "wikilink")
+      - 작사 • 작곡 : [이노우에 요스이](../Page/이노우에_요스이.md "wikilink")
 4.  フェイク -instrumental-
 
 ## 첫회한정반

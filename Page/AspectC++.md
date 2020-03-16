@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [AspectC++](https://ko.wikipedia.org/wiki/AspectC++).
 
 
-**AspectC++**는 [C와](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 언어의 [관점 지향](https://ko.wikipedia.org/wiki/관점_지향_프로그래밍 "wikilink") 확장이다. AspectC++ [소스 코드를](https://ko.wikipedia.org/wiki/소스_코드 "wikilink") 호환 C++로 번역하는 [소스 대 소스 컴파일러를](https://ko.wikipedia.org/wiki/소스_코드_번역 "wikilink") 보유하고 있다. 이 컴파일러는 [GNU GPL](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 하에서 이용할 수 있으나 일부 [마이크로소프트 윈도우에](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 특화된 [확장들은](https://ko.wikipedia.org/wiki/컴퓨팅 "wikilink") 순수 시스템 GmbH를 통해서만 이용이 가능하다.
+**AspectC++**는 [C와](../Page/C_\(프로그래밍_언어\).md "wikilink") [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 언어의 [관점 지향](../Page/관점_지향_프로그래밍.md "wikilink") 확장이다. AspectC++ [소스 코드를](../Page/소스_코드.md "wikilink") 호환 C++로 번역하는 [소스 대 소스 컴파일러를](https://ko.wikipedia.org/wiki/소스_코드_번역 "wikilink") 보유하고 있다. 이 컴파일러는 [GNU GPL](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 하에서 이용할 수 있으나 일부 [마이크로소프트 윈도우에](../Page/마이크로소프트_윈도우.md "wikilink") 특화된 [확장들은](../Page/컴퓨팅.md "wikilink") 순수 시스템 GmbH를 통해서만 이용이 가능하다.
 
-[관점 지향 프로그래밍은](https://ko.wikipedia.org/wiki/관점_지향_프로그래밍 "wikilink") 횡단 관심사를 하나의 [모듈](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink"), 즉 [관점](https://ko.wikipedia.org/wiki/컴퓨터_과학 "wikilink")(애스펙트, aspect)로 모듈화하는 것을 허용한다. 애스펙트는 기존의 [클래스를](https://ko.wikipedia.org/wiki/컴퓨터_과학 "wikilink") 수정할 수 있지만 대체적으로는 기존 기능의 이전(before), 이후(after), 주변(around)에 실행할 "어드바이스"(advice)를 제공한다.
+[관점 지향 프로그래밍은](../Page/관점_지향_프로그래밍.md "wikilink") 횡단 관심사를 하나의 [모듈](../Page/프로그래밍_언어.md "wikilink"), 즉 [관점](../Page/컴퓨터_과학.md "wikilink")(애스펙트, aspect)로 모듈화하는 것을 허용한다. 애스펙트는 기존의 [클래스를](../Page/컴퓨터_과학.md "wikilink") 수정할 수 있지만 대체적으로는 기존 기능의 이전(before), 이후(after), 주변(around)에 실행할 "어드바이스"(advice)를 제공한다.
 
 ## 예
 

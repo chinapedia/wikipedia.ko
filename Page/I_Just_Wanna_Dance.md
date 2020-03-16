@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I Just Wanna Dance](https://ko.wikipedia.org/wiki/I_Just_Wanna_Dance).
 
 
-《**I Just Wanna Dance**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 걸 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 멤버 [티파니의](https://ko.wikipedia.org/wiki/티파니_영 "wikilink") 솔로 데뷔 음반이자 첫 번째 EP이다.
+《**I Just Wanna Dance**》는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 멤버 [티파니의](../Page/티파니_영.md "wikilink") 솔로 데뷔 음반이자 첫 번째 EP이다.
 
 ## 수록곡
 

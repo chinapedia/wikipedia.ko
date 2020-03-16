@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [LibreCAD](https://ko.wikipedia.org/wiki/LibreCAD).
 
 
-**리브레캐드**(LibreCAD)는 2D 설계를 위한 자유 [CAD](https://ko.wikipedia.org/wiki/CAD "wikilink") (Computer-Aided Design) [응용프로그램](https://ko.wikipedia.org/wiki/응용프로그램 "wikilink")이다. [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"), [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink") , [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") 및 [윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 운영 체제에서 작동한다.\[1\]\[2\]
+**리브레캐드**(LibreCAD)는 2D 설계를 위한 자유 [CAD](https://ko.wikipedia.org/wiki/CAD "wikilink") (Computer-Aided Design) [응용프로그램](https://ko.wikipedia.org/wiki/응용프로그램 "wikilink")이다. [리눅스](../Page/리눅스.md "wikilink"), [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink") , [유닉스](../Page/유닉스.md "wikilink") 및 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 운영 체제에서 작동한다.\[1\]\[2\]
 
 LibreCAD는 큐캐드 커뮤니티 에디션(QCad Community Edition) 의 포크로 개발되었었다. LibreCAD의 GUI 는 Qt4 라이브러리를 기반으로하므로 동일한 방식으로 여러 플랫폼 에서 실행된다.\[3\]\[4\]
 
 대부분의 인터페이스 및 핸들 개념은 [AutoCAD](https://ko.wikipedia.org/wiki/AutoCAD "wikilink") 와 유사하므로 이러한 유형의 상업용 CAD 응용프로그램을 사용하는 사용자가 쉽게 사용할 수 있다.
 
-LibreCAD는 큐캐드와 마찬가지로 AutoCAD [DXF](https://ko.wikipedia.org/wiki/DXF "wikilink") 파일 형식을 내부적으로 사용하여 파일을 가져오고 저장하며 다른 많은 파일 형식으로 내보낼 수 있다.
+LibreCAD는 큐캐드와 마찬가지로 AutoCAD [DXF](../Page/DXF.md "wikilink") 파일 형식을 내부적으로 사용하여 파일을 가져오고 저장하며 다른 많은 파일 형식으로 내보낼 수 있다.
 
 ## GPLv3 대 GPLv2 논쟁
 
@@ -36,4 +36,4 @@ GNU LibreDWG [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wi
 6.
 7.
 8.
-9.  [libdxfrw](http://sourceforge.net/projects/libdxfrw/) on [소스포지](https://ko.wikipedia.org/wiki/소스포지 "wikilink")
+9.  [libdxfrw](http://sourceforge.net/projects/libdxfrw/) on [소스포지](../Page/소스포지.md "wikilink")

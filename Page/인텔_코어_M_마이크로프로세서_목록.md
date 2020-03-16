@@ -11,7 +11,7 @@
 
 ## 같이 보기
 
-  - [단일 칩 체제](https://ko.wikipedia.org/wiki/단일_칩_체제 "wikilink") (SoC)
+  - [단일 칩 체제](../Page/단일_칩_체제.md "wikilink") (SoC)
 
 ## 각주
 

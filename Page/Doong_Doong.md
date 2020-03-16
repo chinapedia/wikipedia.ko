@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Doong Doong](https://ko.wikipedia.org/wiki/Doong_Doong).
 
 
-《**Doong Doong**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [문현아](https://ko.wikipedia.org/wiki/문현아 "wikilink")와 [이유애린](https://ko.wikipedia.org/wiki/이유애린 "wikilink")의 콜라보레이션 싱글이다. 2017년 8월 11일에 발매되었다. 타이틀곡은 \<둥둥 (Doong Doong)\>이다.
+《**Doong Doong**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [문현아](../Page/문현아.md "wikilink")와 [이유애린](../Page/이유애린.md "wikilink")의 콜라보레이션 싱글이다. 2017년 8월 11일에 발매되었다. 타이틀곡은 \<둥둥 (Doong Doong)\>이다.
 
 ## 트랙리스트
 

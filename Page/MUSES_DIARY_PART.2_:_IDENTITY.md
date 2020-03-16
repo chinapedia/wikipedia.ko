@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MUSES DIARY PART.2 : IDENTITY](https://ko.wikipedia.org/wiki/MUSES_DIARY_PART.2_:_IDENTITY).
 
 
-《**MUSES DIARY PART.2 : IDENTITY**》는 대한민국의 여성 음악 그룹 [나인뮤지스](https://ko.wikipedia.org/wiki/나인뮤지스 "wikilink")의 여섯 번째 미니 음반이다. 2017년 6월 19일에 발매되었다.
+《**MUSES DIARY PART.2 : IDENTITY**》는 대한민국의 여성 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 여섯 번째 미니 음반이다. 2017년 6월 19일에 발매되었다.
 
 ## 트랙리스트
 

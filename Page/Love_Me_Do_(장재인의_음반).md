@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love Me Do \( \)](https://ko.wikipedia.org/wiki/Love_Me_Do_\(_\)).
 
 
-《**Love Me Do**》는 대한민국의 가수 [장재인](https://ko.wikipedia.org/wiki/장재인 "wikilink")의 디지털 싱글이다. 2015년 8월 28일에 발매되었다.
+《**Love Me Do**》는 대한민국의 가수 [장재인](../Page/장재인.md "wikilink")의 디지털 싱글이다. 2015년 8월 28일에 발매되었다.
 
 ## 트랙리스트
 
@@ -37,16 +37,16 @@
 
 <!-- end list -->
 
-  - 기획 : [롯데백화점](https://ko.wikipedia.org/wiki/롯데백화점 "wikilink") 글로벌패션사업부문
+  - 기획 : [롯데백화점](../Page/롯데백화점.md "wikilink") 글로벌패션사업부문
 
 <!-- end list -->
 
   - Love Me Do
-      - Vocal Produced & Directed : [조규찬](https://ko.wikipedia.org/wiki/조규찬 "wikilink")
+      - Vocal Produced & Directed : [조규찬](../Page/조규찬.md "wikilink")
       - Programming : 박원준
       - Bass : 김성수
       - Guitar : 이문기
-      - Keyboard : [조규찬](https://ko.wikipedia.org/wiki/조규찬 "wikilink")
+      - Keyboard : [조규찬](../Page/조규찬.md "wikilink")
       - Recorded by : 정재원(@STUDIO89)
       - Mixed by : 김일호(@STUDIO89)
       - Mastered by : 전훈(@SONIC MUSIC)
@@ -54,11 +54,11 @@
 <!-- end list -->
 
   - Love Me Do (Bimba Y Lola Ver.)
-      - Vocal Produced & Directed : [조규찬](https://ko.wikipedia.org/wiki/조규찬 "wikilink")
+      - Vocal Produced & Directed : [조규찬](../Page/조규찬.md "wikilink")
       - Programming : 박원준
       - Bass : 김성수
       - Guitar : 이문기
-      - Keyboard : [조규찬](https://ko.wikipedia.org/wiki/조규찬 "wikilink")
+      - Keyboard : [조규찬](../Page/조규찬.md "wikilink")
       - Recorded by : 정재원(@STUDIO89)
       - Mixed by : 김일호(@STUDIO89)
       - Mastered by : 전훈(@SONIC MUSIC)

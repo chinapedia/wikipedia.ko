@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USS  \(CV-47\)](https://ko.wikipedia.org/wiki/USS__\(CV-47\)).
 
 
-**USS 필리핀시 (CV-47)**는 미국 해군의 [에식스급 항공모함](https://ko.wikipedia.org/wiki/에식스급_항공모함 "wikilink") 24척 중 24번함이다.
+**USS 필리핀시 (CV-47)**는 미국 해군의 [에식스급 항공모함](../Page/에식스급_항공모함.md "wikilink") 24척 중 24번함이다.
 
 ## 역사
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOST\(\'til the night is over\)](https://ko.wikipedia.org/wiki/LOST\(\'til_the_night_is_over\)).
 
 
-《**LOST('til the night is over)**》는 대한민국의 여성 음악 그룹 [나인뮤지스](https://ko.wikipedia.org/wiki/나인뮤지스 "wikilink")의 다섯 번째 미니 음반이다. 2015년 11월 24일에 발매되었다.
+《**LOST('til the night is over)**》는 대한민국의 여성 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 다섯 번째 미니 음반이다. 2015년 11월 24일에 발매되었다.
 
 ## 트랙리스트
 
@@ -11,7 +11,7 @@
 
 ## 차트 성적
 
-음반 부문에서는 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 주간 10위, 월간 24위를 기록하였다.\[2\]\[3\] 음원 부문에서는 타이틀곡 <잠은 안오고 배는 고프고>가 [가온 디지털 차트](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink") 주간 26를 기록하였다.\[4\]
+음반 부문에서는 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink") 주간 10위, 월간 24위를 기록하였다.\[2\]\[3\] 음원 부문에서는 타이틀곡 <잠은 안오고 배는 고프고>가 [가온 디지털 차트](../Page/가온_디지털_차트.md "wikilink") 주간 26를 기록하였다.\[4\]
 
 ## 각주
 

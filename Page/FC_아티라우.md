@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 아티라우**()는 [아티라우](https://ko.wikipedia.org/wiki/아티라우 "wikilink")를 연고로 하는 [카자흐스탄](https://ko.wikipedia.org/wiki/카자흐스탄 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [카자흐스탄 프리미어리그에](https://ko.wikipedia.org/wiki/카자흐스탄_프리미어리그 "wikilink") 참가하고 있다.
+**FC 아티라우**()는 [아티라우](../Page/아티라우.md "wikilink")를 연고로 하는 [카자흐스탄](../Page/카자흐스탄.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [카자흐스탄 프리미어리그에](../Page/카자흐스탄_프리미어리그.md "wikilink") 참가하고 있다.
 
 ## 성적
 

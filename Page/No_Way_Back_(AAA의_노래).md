@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [No Way Back \(AAA \)](https://ko.wikipedia.org/wiki/No_Way_Back_\(AAA_\)).
 
 
-〈**No Way Back**〉(노 웨이 백, )는 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 쉰네 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 5일에](https://ko.wikipedia.org/wiki/7월_5일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다\[1\].
+〈**No Way Back**〉(노 웨이 백, )는 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 쉰네 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2017년](../Page/2017년.md "wikilink") [7월 5일에](../Page/7월_5일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다\[1\].
 
 ## 개요
 
@@ -50,7 +50,7 @@
 <tr class="even">
 <td></td>
 <td><p>2017년 7월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>+<a href="https://ko.wikipedia.org/wiki/DVD" title="wikilink">DVD</a>, CD, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 음원</a>,</p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>+<a href="../Page/DVD.md" title="wikilink">DVD</a>, CD, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 음원</a>,</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에이벡스_트랙스" title="wikilink">avex trax</a></p></td>
 </tr>
 <tr class="odd">

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Chakra\'s Ringing Gingle Bells](https://ko.wikipedia.org/wiki/Chakra\'s_Ringing_Gingle_Bells).
 
 
-《**Chakra's Ringing Gingle Bells**》는 대한민국의 음악 그룹인 [샤크라](https://ko.wikipedia.org/wiki/샤크라 "wikilink")의 스페셜 음반이자 [크리스마스](https://ko.wikipedia.org/wiki/크리스마스 "wikilink") 음반이다. 2000년 12월 6일\[1\]에 발매되었다. 타이틀 곡은 〈Lonely Christmas〉이다.
+《**Chakra's Ringing Gingle Bells**》는 대한민국의 음악 그룹인 [샤크라](../Page/샤크라.md "wikilink")의 스페셜 음반이자 [크리스마스](../Page/크리스마스.md "wikilink") 음반이다. 2000년 12월 6일\[1\]에 발매되었다. 타이틀 곡은 〈Lonely Christmas〉이다.
 
 ## 개요
 
@@ -37,7 +37,7 @@
 
 ## 외부 링크
 
-  - ["Lonely Christmas" MV](http://vod.melon.com/video/detail2.htm?mvId=50003097&menuId=28010101) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(온라인_음악_서비스\) "wikilink")
+  - ["Lonely Christmas" MV](http://vod.melon.com/video/detail2.htm?mvId=50003097&menuId=28010101) - [멜론](../Page/멜론_\(온라인_음악_서비스\).md "wikilink")
 
 [분류:2000년 음반](https://ko.wikipedia.org/wiki/분류:2000년_음반 "wikilink") [분류:샤크라의 음반](https://ko.wikipedia.org/wiki/분류:샤크라의_음반 "wikilink") [분류:크림 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:크림_엔터테인먼트_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink")
 

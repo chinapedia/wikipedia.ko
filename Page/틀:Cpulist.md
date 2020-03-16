@@ -160,7 +160,7 @@
 |l1={{\#switch:
 
 `| head = `[`L1`
-`캐시`](https://ko.wikipedia.org/wiki/CPU_캐시 "wikilink")
+`캐시`](../Page/CPU_캐시.md "wikilink")
 `| tillamook | p55ctp | p55lm | p55c = {{#switch: `
 `   | 16 | 32 = {{#expr: ``/2}} + {{#expr: ``/2}} {{#if: ``|`[`KiB`](https://ko.wikipedia.org/wiki/키비바이트 "wikilink")`|KiB}}`
 `   | `` {{#if: ``|`[`KiB`](https://ko.wikipedia.org/wiki/키비바이트 "wikilink")`|KiB}}{{#if: ``| (?)}}`
@@ -180,7 +180,7 @@
 |l2={{\#switch:
 
 `| head = `[`L2`
-`캐시`](https://ko.wikipedia.org/wiki/CPU_캐시 "wikilink")
+`캐시`](../Page/CPU_캐시.md "wikilink")
 `| silverthorne`
 `| diamondville`
 `| pineview`
@@ -206,8 +206,8 @@
 `  | 256 = 256 {{#if: ``|`[`KiB`](https://ko.wikipedia.org/wiki/키비바이트 "wikilink")`|KiB}}`
 `  | 512 = 512 {{#if: ``|`[`KiB`](https://ko.wikipedia.org/wiki/키비바이트 "wikilink")`|KiB}}`
 `  | 1   | 2   | 3   | 4   | 6   =`
-`       `` {{#if: ``|`[`MiB`](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")`|MiB}}`
-`  | {{#if: ``|`` {{#if: ``|`[`MiB`](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")` (?)]|MiB (?)}} }}`
+`       `` {{#if: ``|`[`MiB`](../Page/메비바이트.md "wikilink")`|MiB}}`
+`  | {{#if: ``|`` {{#if: ``|`[`MiB`](../Page/메비바이트.md "wikilink")` (?)]|MiB (?)}} }}`
 ` }}`
 `| tigerton`
 `| clovertown`
@@ -216,10 +216,10 @@
 `| yorkfield`
 `| kentsfield = {{#switch: `
 `  | 2   | 3   | 4   | 6   | 8   | 12 =`
-`       2 × {{#expr: ``/2}} {{#if: ``|`[`MiB`](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")`|MiB}}`
-`  | {{#if: ``|`` {{#if: ``|`[`MiB`](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")` (?)]|MiB (?)}} }}`
+`       2 × {{#expr: ``/2}} {{#if: ``|`[`MiB`](../Page/메비바이트.md "wikilink")`|MiB}}`
+`  | {{#if: ``|`` {{#if: ``|`[`MiB`](../Page/메비바이트.md "wikilink")` (?)]|MiB (?)}} }}`
 ` }}`
-`| skylake_e = `` × 1}}} {{#if: ``|`[`MiB`](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")`|MiB}}`
+`| skylake_e = `` × 1}}} {{#if: ``|`[`MiB`](../Page/메비바이트.md "wikilink")`|MiB}}`
 `| lynnfield`
 `| clarksfield`
 `| jasperforest`
@@ -238,7 +238,7 @@
 `| beckton = `` × 256}}} {{#if: ``|`[`KiB`](https://ko.wikipedia.org/wiki/키비바이트 "wikilink")`|KiB}}`
 `| baytrail = {{#switch: `
 `  | 512 = 512 {{#if: ``|`[`KiB`](https://ko.wikipedia.org/wiki/키비바이트 "wikilink")`|KiB}}`
-`  |`` {{#if: ``|`[`MiB`](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")`|MiB}}`
+`  |`` {{#if: ``|`[`MiB`](../Page/메비바이트.md "wikilink")`|MiB}}`
 ` }}`
 `| `
 
@@ -247,19 +247,19 @@
 |l3={{\#switch:
 
 `| head = `[`L3`
-`캐시`](https://ko.wikipedia.org/wiki/CPU_캐시 "wikilink")
+`캐시`](../Page/CPU_캐시.md "wikilink")
 `| lynnfield`
 `| clarksfield`
 `| bloomfield`
 `| gainestown`
 `| jasperforest`
-`| sandybridge|sandybridge_e|ivybridge|haswell|skylake|skylake_e|kabylake_x = `` {{#if: ``|`[`MiB`](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")`|MiB}}`
+`| sandybridge|sandybridge_e|ivybridge|haswell|skylake|skylake_e|kabylake_x = `` {{#if: ``|`[`MiB`](../Page/메비바이트.md "wikilink")`|MiB}}`
 `| clarkdale`
-`| arrandale = `` {{#if: ``|`[`MiB`](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")`|MiB}}`
+`| arrandale = `` {{#if: ``|`[`MiB`](../Page/메비바이트.md "wikilink")`|MiB}}`
 `| gulftown`
 `| dunnington`
-`| gulftownup = `` {{#if: ``|`[`MiB`](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")`|MiB}}`
-`| beckton = `` {{#if: ``|`[`MiB`](https://ko.wikipedia.org/wiki/메비바이트 "wikilink")`|MiB}}`
+`| gulftownup = `` {{#if: ``|`[`MiB`](../Page/메비바이트.md "wikilink")`|MiB}}`
+`| beckton = `` {{#if: ``|`[`MiB`](../Page/메비바이트.md "wikilink")`|MiB}}`
 `| `
 
 }}
@@ -267,33 +267,33 @@
 |iobus={{\#switch:
 
 `| head = I/O 버스`
-`| beckton = {{#if:``|4 × `` GT/s {{#if: ``|`[`QPI`](https://ko.wikipedia.org/wiki/퀵패스_인터커넥트 "wikilink")`|QPI}}|4 × 6.4 GT/s {{#if: ``|`[`QPI`](https://ko.wikipedia.org/wiki/퀵패스_인터커넥트 "wikilink")`|QPI}}}}`
+`| beckton = {{#if:``|4 × `` GT/s {{#if: ``|`[`QPI`](../Page/퀵패스_인터커넥트.md "wikilink")`|QPI}}|4 × 6.4 GT/s {{#if: ``|`[`QPI`](../Page/퀵패스_인터커넥트.md "wikilink")`|QPI}}}}`
 `| gulftown`
-`| gainestown = {{#if:``|2 × `` GT/s {{#if: ``|`[`QPI`](https://ko.wikipedia.org/wiki/퀵패스_인터커넥트 "wikilink")`|QPI}}|2 × 6.4 GT/s {{#if: ``|`[`QPI`](https://ko.wikipedia.org/wiki/퀵패스_인터커넥트 "wikilink")`|QPI}}}}`
+`| gainestown = {{#if:``|2 × `` GT/s {{#if: ``|`[`QPI`](../Page/퀵패스_인터커넥트.md "wikilink")`|QPI}}|2 × 6.4 GT/s {{#if: ``|`[`QPI`](../Page/퀵패스_인터커넥트.md "wikilink")`|QPI}}}}`
 `| gulftownup`
-`| bloomfield = {{#if:``|1 × `` GT/s {{#if: ``|`[`QPI`](https://ko.wikipedia.org/wiki/퀵패스_인터커넥트 "wikilink")`|QPI}}|1 × 6.4 GT/s {{#if: ``|`[`QPI`](https://ko.wikipedia.org/wiki/퀵패스_인터커넥트 "wikilink")`|QPI}}}}`
+`| bloomfield = {{#if:``|1 × `` GT/s {{#if: ``|`[`QPI`](../Page/퀵패스_인터커넥트.md "wikilink")`|QPI}}|1 × 6.4 GT/s {{#if: ``|`[`QPI`](../Page/퀵패스_인터커넥트.md "wikilink")`|QPI}}}}`
 `| clarkdale`
 `| arrandale`
 `| lynnfield`
 `| clarksfield`
 `| pineview`
-`| lincroft = {{#if: ``|`[`DMI`](https://ko.wikipedia.org/wiki/다이렉트_미디어_인터페이스 "wikilink")`|DMI}}`
+`| lincroft = {{#if: ``|`[`DMI`](../Page/다이렉트_미디어_인터페이스.md "wikilink")`|DMI}}`
 `| sandybridge`
 `| ivybridge`
-`| haswell = {{#if: ``|`[`DMI``   ``2.0`](https://ko.wikipedia.org/wiki/다이렉트_미디어_인터페이스 "wikilink")`|DMI 2.0}}`
-`| skylake = {{#if: ``|`[`DMI``   ``3.0`](https://ko.wikipedia.org/wiki/다이렉트_미디어_인터페이스 "wikilink")`|DMI 3.0}}`
-`| skylake_e = {{#if:``|`` GT/s {{#if: ``|`[`QPI`](https://ko.wikipedia.org/wiki/퀵패스_인터커넥트 "wikilink")`|UPI}}|{{#if: ``|`[`DMI``   ``3.0`](https://ko.wikipedia.org/wiki/다이렉트_미디어_인터페이스 "wikilink")`|DMI 3.0}}}}`
-`| kabylake_x = {{#if: ``|`[`DMI``   ``3.0`](https://ko.wikipedia.org/wiki/다이렉트_미디어_인터페이스 "wikilink")`|DMI 3.0}}`
-`| sandybridge_e = {{#if:``|`` GT/s {{#if: ``|`[`QPI`](https://ko.wikipedia.org/wiki/퀵패스_인터커넥트 "wikilink")`|QPI}}|`
-`                                  {{#if: ``|`[`DMI``   ``2.0`](https://ko.wikipedia.org/wiki/다이렉트_미디어_인터페이스 "wikilink")`|DMI 2.0}}}}`
-`| tunnelcreek = {{#if: ``|`[`PCIe`](https://ko.wikipedia.org/wiki/PCI_익스프레스 "wikilink")`|PCIe}}`
-`| jasperforest = {{#if:``|1 × `` GT/s {{#if: ``|`[`QPI`](https://ko.wikipedia.org/wiki/퀵패스_인터커넥트 "wikilink")`|QPI}}|`
-`                                  {{#if: ``|`[`DMI`](https://ko.wikipedia.org/wiki/다이렉트_미디어_인터페이스 "wikilink")`|DMI}}}}`
+`| haswell = {{#if: ``|`[`DMI``   ``2.0`](../Page/다이렉트_미디어_인터페이스.md "wikilink")`|DMI 2.0}}`
+`| skylake = {{#if: ``|`[`DMI``   ``3.0`](../Page/다이렉트_미디어_인터페이스.md "wikilink")`|DMI 3.0}}`
+`| skylake_e = {{#if:``|`` GT/s {{#if: ``|`[`QPI`](../Page/퀵패스_인터커넥트.md "wikilink")`|UPI}}|{{#if: ``|`[`DMI``   ``3.0`](../Page/다이렉트_미디어_인터페이스.md "wikilink")`|DMI 3.0}}}}`
+`| kabylake_x = {{#if: ``|`[`DMI``   ``3.0`](../Page/다이렉트_미디어_인터페이스.md "wikilink")`|DMI 3.0}}`
+`| sandybridge_e = {{#if:``|`` GT/s {{#if: ``|`[`QPI`](../Page/퀵패스_인터커넥트.md "wikilink")`|QPI}}|`
+`                                  {{#if: ``|`[`DMI``   ``2.0`](../Page/다이렉트_미디어_인터페이스.md "wikilink")`|DMI 2.0}}}}`
+`| tunnelcreek = {{#if: ``|`[`PCIe`](../Page/PCI_익스프레스.md "wikilink")`|PCIe}}`
+`| jasperforest = {{#if:``|1 × `` GT/s {{#if: ``|`[`QPI`](../Page/퀵패스_인터커넥트.md "wikilink")`|QPI}}|`
+`                                  {{#if: ``|`[`DMI`](../Page/다이렉트_미디어_인터페이스.md "wikilink")`|DMI}}}}`
 `| {{#if:``|``|`
-`   {{#if:``|`` GT/s {{#if: ``|`[`QPI`](https://ko.wikipedia.org/wiki/퀵패스_인터커넥트 "wikilink")`|QPI}}|`
-`    {{#if:``|`` MT/s {{#if: ``|`[`FSB`](https://ko.wikipedia.org/wiki/프론트_사이드_버스 "wikilink")`|FSB}}|`
-`     {{#if:``|{{#if: ``|`[`DMI`](https://ko.wikipedia.org/wiki/다이렉트_미디어_인터페이스 "wikilink")`|DMI}}|`
-`      {{#if:``|`` GT/s {{#if: ``|`[`HT`](https://ko.wikipedia.org/wiki/하이퍼트랜스포트 "wikilink")`}} }}`
+`   {{#if:``|`` GT/s {{#if: ``|`[`QPI`](../Page/퀵패스_인터커넥트.md "wikilink")`|QPI}}|`
+`    {{#if:``|`` MT/s {{#if: ``|`[`FSB`](../Page/프론트_사이드_버스.md "wikilink")`|FSB}}|`
+`     {{#if:``|{{#if: ``|`[`DMI`](../Page/다이렉트_미디어_인터페이스.md "wikilink")`|DMI}}|`
+`      {{#if:``|`` GT/s {{#if: ``|`[`HT`](../Page/하이퍼트랜스포트.md "wikilink")`}} }}`
 `     }}`
 `    }}`
 `   }}`
@@ -303,7 +303,7 @@
 
 |fsb={{\#switch:
 
-`| head = `[`FSB`](https://ko.wikipedia.org/wiki/프론트_사이드_버스 "wikilink")
+`| head = `[`FSB`](../Page/프론트_사이드_버스.md "wikilink")
 `| diamondville = `` {{#if: ``|MT/s|MT/s}}`
 `| dunnington`
 `| harpertown`
@@ -347,7 +347,7 @@
 
 |mem={{\#switch:
 
-`| head = `[`메모리`](https://ko.wikipedia.org/wiki/메모리_컨트롤러 "wikilink")
+`| head = `[`메모리`](../Page/메모리_컨트롤러.md "wikilink")
 `| gainestown`
 `| bloomfield  = `` }}}`
 `| gulftown`
@@ -383,14 +383,14 @@
 
 |sdp = {{\#switch:
 
-`| head = `[`SDP`](https://ko.wikipedia.org/wiki/열_설계_전력 "wikilink")
+`| head = `[`SDP`](../Page/열_설계_전력.md "wikilink")
 `| {{#if: ``|`` W|``}}`
 
 }}
 
 |tdp = {{\#if:| {{\#if:|\*  W }} {{\#if:|\*  W }} {{\#if:|\*  W }} {{\#if:|\*  W }} {{\#if:|\*  W }} {{\#if:|\*  W }} {{\#if:|\*  W }} {{\#if:| W}} }} |{{\#switch:
 
-`| head = `[`TDP`](https://ko.wikipedia.org/wiki/열_설계_전력 "wikilink")
+`| head = `[`TDP`](../Page/열_설계_전력.md "wikilink")
 `| lynnfield   = `` W`
 `| bloomfield  = `` W`
 `| clarkdale   = `` W`
@@ -419,7 +419,7 @@
 
 |sock = {{\#if:| {{\#if:|\*  }} {{\#if:|\*  }} {{\#if:|\*  }} {{\#if:|\*  }} {{\#if:|\*  }} {{\#if:|\*  }} {{\#if:|\*  }} {{\#if:|}} }} |{{\#switch:
 
-`| head = `[`소켓`](https://ko.wikipedia.org/wiki/CPU_소켓 "wikilink")
+`| head = `[`소켓`](../Page/CPU_소켓.md "wikilink")
 `| haswell =  {{#switch: `
 `                  |bga | BGA | FC-BGA10`
 `                  | 1364 = {{#if: ``|`[`BGA-1364`](https://ko.wikipedia.org/wiki/BGA-1364 "wikilink")`|BGA-1364}}`
@@ -443,10 +443,10 @@
 `| gulftown`
 `| gulftownup`
 `| bloomfield`
-`| jasperforest = {{#if: ``|`[`LGA``   ``1366`](https://ko.wikipedia.org/wiki/LGA_1366 "wikilink")`|LGA 1366}}`
+`| jasperforest = {{#if: ``|`[`LGA``   ``1366`](../Page/LGA_1366.md "wikilink")`|LGA 1366}}`
 `| beckton    = {{#if: ``|`[`LGA``   ``1567`](https://ko.wikipedia.org/wiki/LGA_1567 "wikilink")`|LGA 1567}}`
 `| lynnfield`
-`| clarkdale  = {{#if: ``|`[`LGA``   ``1156`](https://ko.wikipedia.org/wiki/LGA_1156 "wikilink")`|LGA 1156}}`
+`| clarkdale  = {{#if: ``|`[`LGA``   ``1156`](../Page/LGA_1156.md "wikilink")`|LGA 1156}}`
 `| arrandale`
 `| clarksfield =  {{#switch: `
 `                  |bga | BGA | FC-BGA10`
@@ -473,18 +473,18 @@
 `| dunnington = {{#if: ``|`[`소켓``   ``604`](https://ko.wikipedia.org/wiki/소켓_604 "wikilink")`|소켓 604}}`
 `| woodcrest`
 `| clovertown`
-`| harpertown = ``|`[`LGA``   ``771`](https://ko.wikipedia.org/wiki/LGA_771 "wikilink")`|LGA 771}} }}}`
+`| harpertown = ``|`[`LGA``   ``771`](../Page/LGA_771.md "wikilink")`|LGA 771}} }}}`
 `| wolfdale`
 `|  conroe`
 `|  yorkfield`
-`|  kentsfield  =  ``|`[`LGA``   ``775`](https://ko.wikipedia.org/wiki/LGA_775 "wikilink")`|LGA 775}} }}}`
+`|  kentsfield  =  ``|`[`LGA``   ``775`](../Page/LGA_775.md "wikilink")`|LGA 775}} }}}`
 `| {{#switch: `
 `    | 2066 = {{#if: ``|`[`LGA``   ``2066`](https://ko.wikipedia.org/wiki/LGA_2066 "wikilink")`|LGA 2066}}`
 `    | 3647 = {{#if: ``|`[`LGA``   ``3647`](https://ko.wikipedia.org/wiki/LGA_3647 "wikilink")`|LGA 3647}}`
-`  | 2011-3 = {{#if: ``|`[`LGA``   ``2011`](https://ko.wikipedia.org/wiki/LGA_2011 "wikilink")`|LGA 2011-3}}`
-`  | 2011-1 = {{#if: ``|`[`LGA``   ``2011`](https://ko.wikipedia.org/wiki/LGA_2011 "wikilink")`|LGA 2011-1}}`
-`  | 2011 = {{#if: ``|`[`LGA``   ``2011`](https://ko.wikipedia.org/wiki/LGA_2011 "wikilink")`|LGA 2011}}`
-`  | 1366 = {{#if: ``|`[`LGA``   ``1366`](https://ko.wikipedia.org/wiki/LGA_1366 "wikilink")`|LGA 1366}}`
+`  | 2011-3 = {{#if: ``|`[`LGA``   ``2011`](../Page/LGA_2011.md "wikilink")`|LGA 2011-3}}`
+`  | 2011-1 = {{#if: ``|`[`LGA``   ``2011`](../Page/LGA_2011.md "wikilink")`|LGA 2011-1}}`
+`  | 2011 = {{#if: ``|`[`LGA``   ``2011`](../Page/LGA_2011.md "wikilink")`|LGA 2011}}`
+`  | 1366 = {{#if: ``|`[`LGA``   ``1366`](../Page/LGA_1366.md "wikilink")`|LGA 1366}}`
 `  | 1364 = {{#if: ``|`[`BGA``   ``1364`](https://ko.wikipedia.org/wiki/BGA_1364 "wikilink")`|BGA 1364}}`
 `  | 1356-3 = {{#if: ``|`[`LGA``   ``1356-3`](https://ko.wikipedia.org/wiki/LGA_1356-3 "wikilink")`|LGA 1356-3}}`
 `  | 1356 = {{#if: ``|`[`LGA``   ``1356`](https://ko.wikipedia.org/wiki/LGA_1356 "wikilink")`|LGA 1356}}`
@@ -493,8 +493,8 @@
 `  | 1234 = {{#if: ``|`[`BGA``   ``1234`](https://ko.wikipedia.org/wiki/BGA_1234 "wikilink")`|BGA 1234}}`
 `  | 1168 = {{#if: ``|`[`BGA``   ``1168`](https://ko.wikipedia.org/wiki/BGA_1168 "wikilink")`|BGA 1168}}`
 `  | 1152`
-`  | 1156 = {{#if: ``|`[`LGA``   ``1156`](https://ko.wikipedia.org/wiki/LGA_1156 "wikilink")`|LGA 1156}}`
-`  | 1155 = {{#if: ``|`[`LGA``   ``1155`](https://ko.wikipedia.org/wiki/LGA_1155 "wikilink")`|LGA 1155}}`
+`  | 1156 = {{#if: ``|`[`LGA``   ``1156`](../Page/LGA_1156.md "wikilink")`|LGA 1156}}`
+`  | 1155 = {{#if: ``|`[`LGA``   ``1155`](../Page/LGA_1155.md "wikilink")`|LGA 1155}}`
 `  | 1150 = {{#if: ``|`[`LGA``   ``1150`](../Page/LGA_1150.md "wikilink")`|LGA 1150}}`
 `  | 1151 = {{#if: ``|`[`LGA``   ``1151`](../Page/LGA_1151.md "wikilink")`|LGA 1151}}`
 `  | 1023 = {{#if: ``|`[`BGA``   ``1023`](https://ko.wikipedia.org/wiki/BGA_1023 "wikilink")`|BGA 1023}}`
@@ -504,19 +504,19 @@
 `  | 946B = {{#if: ``|`[`소켓``   ``G3`](https://ko.wikipedia.org/wiki/소켓_G3 "wikilink")`|소켓 G3}}`
 `  | Socket J`
 `  | J`
-`  | 775 = {{#if: ``|`[`LGA``   ``775`](https://ko.wikipedia.org/wiki/LGA_775 "wikilink")`|LGA 775}}`
-`  | 771 = {{#if: ``|`[`LGA``   ``771`](https://ko.wikipedia.org/wiki/LGA_771 "wikilink")`|LGA 771}}`
+`  | 775 = {{#if: ``|`[`LGA``   ``775`](../Page/LGA_775.md "wikilink")`|LGA 775}}`
+`  | 771 = {{#if: ``|`[`LGA``   ``771`](../Page/LGA_771.md "wikilink")`|LGA 771}}`
 `  | 604 = {{#if: ``|`[`소켓``   ``604`](https://ko.wikipedia.org/wiki/소켓_604 "wikilink")`|소켓 604}}`
 `  | 603 = {{#if: ``|`[`소켓``   ``603`](https://ko.wikipedia.org/wiki/소켓_603 "wikilink")`|소켓 603}}`
 `  | 559 = {{#if: ``|`[`micro-FCBGA8``   ``559`](https://ko.wikipedia.org/wiki/micro-FCBGA8_559 "wikilink")`|micro-FCBGA8 559}}`
 `  | 462 = {{#if: ``|`[`소켓``   ``462`](https://ko.wikipedia.org/wiki/소켓_462 "wikilink")`|소켓 462}}`
 `  | N`
-`  | 478 = {{#if: ``|`[`소켓``   ``478`](https://ko.wikipedia.org/wiki/소켓_478 "wikilink")`|소켓 478}}`
+`  | 478 = {{#if: ``|`[`소켓``   ``478`](../Page/소켓_478.md "wikilink")`|소켓 478}}`
 `  | 479 = {{#if: ``|`[`소켓``   ``479`](https://ko.wikipedia.org/wiki/소켓_479 "wikilink")`|소켓 479}}`
 `  | 441 = {{#if: ``|`[`BGA``   ``441`](https://ko.wikipedia.org/wiki/BGA_441 "wikilink")`|BGA 441}}`
 `  | 437 = {{#if: ``|`[`BGA``   ``437`](https://ko.wikipedia.org/wiki/BGA_437 "wikilink")`|BGA 437}}`
 `  | 423 = {{#if: ``|`[`소켓``   ``423`](https://ko.wikipedia.org/wiki/소켓_423 "wikilink")`|소켓 423}}`
-`  | 370 = {{#if: ``|`[`소켓``   ``370`](https://ko.wikipedia.org/wiki/소켓_370 "wikilink")`|소켓 370}}`
+`  | 370 = {{#if: ``|`[`소켓``   ``370`](../Page/소켓_370.md "wikilink")`|소켓 370}}`
 `  | 4 = {{#if: ``|`[`소켓``   ``4`](https://ko.wikipedia.org/wiki/소켓_4 "wikilink")`|소켓 4}}`
 `  | 5 = {{#if: ``|`[`소켓``   ``5`](https://ko.wikipedia.org/wiki/소켓_5 "wikilink")`|소켓 5}}`
 `  | 6 = {{#if: ``|`[`소켓``   ``6`](https://ko.wikipedia.org/wiki/소켓_6 "wikilink")`|소켓 6}}`
@@ -617,7 +617,7 @@
 |price = {{\#switch:
 
 `| head = 출시`
-`가격 (`[`USD`](https://ko.wikipedia.org/wiki/미국_달러 "wikilink")`)`
+`가격 (`[`USD`](../Page/미국_달러.md "wikilink")`)`
 `| `
 
 }}

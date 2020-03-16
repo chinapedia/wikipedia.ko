@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KF ](https://ko.wikipedia.org/wiki/KF_).
 
 
-**KF 라치**()는 [라치](https://ko.wikipedia.org/wiki/라치 "wikilink")를 연고로 하는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [알바니아 수페르리가에](https://ko.wikipedia.org/wiki/알바니아_수페르리가 "wikilink") 참가하고 있다.
+**KF 라치**()는 [라치](https://ko.wikipedia.org/wiki/라치 "wikilink")를 연고로 하는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [알바니아 수페르리가에](../Page/알바니아_수페르리가.md "wikilink") 참가하고 있다.
 
 ## 성적
 

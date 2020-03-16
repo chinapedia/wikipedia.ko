@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rise of the Cybermen](https://ko.wikipedia.org/wiki/Rise_of_the_Cybermen).
 
 
-"**Rise of the Cybermen**" (KBS 방영 제목: \<눈을 떠라, 사이버맨\!\>)은 영국의 [SF 드라마](https://ko.wikipedia.org/wiki/SF_드라마 "wikilink") 《[닥터 후](https://ko.wikipedia.org/wiki/닥터_후 "wikilink")》 [시리즈 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 다섯 번째 에피소드이다. [사이버맨](../Page/사이버맨.md "wikilink")이 지구에서 어떻게 다시 부활했는지를 다루는 줄거리로, [평행 우주를](https://ko.wikipedia.org/wiki/평행_우주 "wikilink") 배경으로 삼아 이번 시리즈의 주요 줄거리 요소로 삼았다. "[The Age of Steel](https://ko.wikipedia.org/wiki/The_Age_of_Steel "wikilink")"와 함께 두 파트로 나뉜 줄거리의 첫번째 에피소드이다. 닥터 일행은 [타디스](https://ko.wikipedia.org/wiki/타디스 "wikilink")를 타고 평행 우주에 도착하는데, 그곳에는 [로즈 타일러의](../Page/로즈_타일러.md "wikilink") 아버지가 살아 있었고, 아버지 회사를 비롯한 여러 기업들이 영국 정부와 친밀한 관계였다. 그 중 하나인 사이버스 공업은 이어폰 사업으로 영국을 장악하고 있었다. 닥터와 로즈, 미키는 비밀 저항군과 함께 사이버스의 공동창업자 존 루믹이 런던 사람들을 잔인한 로봇 생명체로 바꾸고 있음을 알게 된다. 그리고 그 로봇 생명체는 닥터가 예전에 마주했던 가장 큰 적이었다
+"**Rise of the Cybermen**" (KBS 방영 제목: \<눈을 떠라, 사이버맨\!\>)은 영국의 [SF 드라마](https://ko.wikipedia.org/wiki/SF_드라마 "wikilink") 《[닥터 후](../Page/닥터_후.md "wikilink")》 [시리즈 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 다섯 번째 에피소드이다. [사이버맨](../Page/사이버맨.md "wikilink")이 지구에서 어떻게 다시 부활했는지를 다루는 줄거리로, [평행 우주를](https://ko.wikipedia.org/wiki/평행_우주 "wikilink") 배경으로 삼아 이번 시리즈의 주요 줄거리 요소로 삼았다. "[The Age of Steel](../Page/The_Age_of_Steel.md "wikilink")"와 함께 두 파트로 나뉜 줄거리의 첫번째 에피소드이다. 닥터 일행은 [타디스](https://ko.wikipedia.org/wiki/타디스 "wikilink")를 타고 평행 우주에 도착하는데, 그곳에는 [로즈 타일러의](../Page/로즈_타일러.md "wikilink") 아버지가 살아 있었고, 아버지 회사를 비롯한 여러 기업들이 영국 정부와 친밀한 관계였다. 그 중 하나인 사이버스 공업은 이어폰 사업으로 영국을 장악하고 있었다. 닥터와 로즈, 미키는 비밀 저항군과 함께 사이버스의 공동창업자 존 루믹이 런던 사람들을 잔인한 로봇 생명체로 바꾸고 있음을 알게 된다. 그리고 그 로봇 생명체는 닥터가 예전에 마주했던 가장 큰 적이었다
 
 영국에서는 2006년 5월 13일에 처음 방영되었다. 감독은 [그렘 하퍼가](https://ko.wikipedia.org/wiki/그렘_하퍼 "wikilink") 맡았는데, 하퍼는 1984년 \<[The Caves of Androzani](https://ko.wikipedia.org/wiki/The_Caves_of_Androzani "wikilink")\>과 1985년 \<[Revelation of the Daleks](https://ko.wikipedia.org/wiki/Revelation_of_the_Daleks "wikilink")\>를 감독하여 호평을 받은 적이 있었기에, 올드 시즌과 뉴 시즌의 에피소드를 모두 맡아본 첫 감독이 되었으며 동시에 유일한 감독으로 한동안 남기도 했다.\[1\]
 
@@ -15,7 +15,7 @@
 
 ### 다른 에피소드와의 연관성
 
-시즌 2에서 계속해서 등장하는 주제인 '[토치우드](https://ko.wikipedia.org/wiki/토치우드 "wikilink")'는 이번 에피소드에서 이름이 두 번 나온다. 로즈가 핸드폰으로 뉴스 보도를 볼 때 [토치우드 기관이](../Page/토치우드_기관.md "wikilink") 언급되며, 다른 한번은 피트 타일러가 어느 파티참석자에게 가서 "토치우드 일은 어때?"라고 묻는 장면이다. "[Doomsday](https://ko.wikipedia.org/wiki/Doomsday "wikilink")" 에피소드에서 피트 타일러는 닥터에게 평행지구에서는 토치우드가 비밀리에 운영되고 있는 사실이 드러나 대중에게 알려진 지 오래라고 말한다.
+시즌 2에서 계속해서 등장하는 주제인 '[토치우드](../Page/토치우드.md "wikilink")'는 이번 에피소드에서 이름이 두 번 나온다. 로즈가 핸드폰으로 뉴스 보도를 볼 때 [토치우드 기관이](../Page/토치우드_기관.md "wikilink") 언급되며, 다른 한번은 피트 타일러가 어느 파티참석자에게 가서 "토치우드 일은 어때?"라고 묻는 장면이다. "[Doomsday](../Page/Doomsday.md "wikilink")" 에피소드에서 피트 타일러는 닥터에게 평행지구에서는 토치우드가 비밀리에 운영되고 있는 사실이 드러나 대중에게 알려진 지 오래라고 말한다.
 
 재키의 생일파티에 잠입하려는 닥터가 종업원 행세를 하자고 한 데에 로즈가 유명인사 자격으로 참석해서 "닥터 경"과 "로즈 양"으로 불리면 어디 덧나냐고 불평한다. 여기서 두 이름은 "[Tooth and Claw](../Page/Tooth_and_Claw.md "wikilink")"에서 [빅토리아 여왕으로부터](https://ko.wikipedia.org/wiki/빅토리아_여왕 "wikilink") 닥터와 로즈가 하사받은 호칭이다.
 
@@ -25,7 +25,7 @@
 
 닥터가 파티장에서 턱시도를 입은 모습은 이후 에피소드에서도 몇 번 등장한다. "[The Lazarus Experiment](https://ko.wikipedia.org/wiki/The_Lazarus_Experiment "wikilink")"에서는 라자러스 박사가 만든 기계의 실체를 파헤치기 위해 턱시도를 다시 입는다. 그리고는 [마사 존스에게](https://ko.wikipedia.org/wiki/마사_존스 "wikilink") 뭔가 나쁜 일이 생길 때면 항상 이걸 입는다고 말한다. "[Voyage of the Damned](https://ko.wikipedia.org/wiki/Voyage_of_the_Damned "wikilink")"에서는 타이타닉 우주선이 공격받아 우주로 돌진하기 직전에 배 위로 오를 때 입었다.
 
-이 에피소드에서 닥터는 허공 (보이드)를 언급한다. 시즌 마지막화인 "[Army of Ghosts](https://ko.wikipedia.org/wiki/Army_of_Ghosts "wikilink")"/"[Doomsday](https://ko.wikipedia.org/wiki/Doomsday "wikilink")"에서 닥터는 토치우드 측에 [달렉](https://ko.wikipedia.org/wiki/달렉 "wikilink")이 보이드 선을 통해 우주 사이의 경계를 부수었고 그 길을 따라 사이버스 사이버맨도 넘어온 거라고 설명한다.
+이 에피소드에서 닥터는 허공 (보이드)를 언급한다. 시즌 마지막화인 "[Army of Ghosts](../Page/Army_of_Ghosts.md "wikilink")"/"[Doomsday](../Page/Doomsday.md "wikilink")"에서 닥터는 토치우드 측에 [달렉](../Page/달렉.md "wikilink")이 보이드 선을 통해 우주 사이의 경계를 부수었고 그 길을 따라 사이버스 사이버맨도 넘어온 거라고 설명한다.
 
 ## 각주
 

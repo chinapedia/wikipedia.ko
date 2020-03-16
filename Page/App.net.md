@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [App.net](https://ko.wikipedia.org/wiki/App.net).
 
 
-[200px](https://ko.wikipedia.org/wiki/파일:App.net_logo_2013.svg "wikilink") **App.net**은 광고에서 해방된 온라인 [소셜 네트워크 서비스이자](https://ko.wikipedia.org/wiki/소셜_네트워크_서비스 "wikilink") [마이크로블로그](https://ko.wikipedia.org/wiki/마이크로블로그 "wikilink") 서비스로서, 사용자들이 최대 256[자까지](https://ko.wikipedia.org/wiki/문자_\(컴퓨팅\) "wikilink") 메시지를 쓸 수 있다.
+[200px](https://ko.wikipedia.org/wiki/파일:App.net_logo_2013.svg "wikilink") **App.net**은 광고에서 해방된 온라인 [소셜 네트워크 서비스이자](../Page/소셜_네트워크_서비스.md "wikilink") [마이크로블로그](https://ko.wikipedia.org/wiki/마이크로블로그 "wikilink") 서비스로서, 사용자들이 최대 256[자까지](../Page/문자_\(컴퓨팅\).md "wikilink") 메시지를 쓸 수 있다.
 
 App.net은 자체적인 웹 인터페이스를 일부 사용자들이 사용하였던 "알파"(Alpha)라는 서비스에 제공하였다. 그러나 이들은 서드파티 애플리케이션의 이용 및 개발을 장려하였다.\[1\]
 
 ## 역사
 
-'App.net'이라는 이름은 과거에 앱 개발자들이 자신의 애플리케이션을 홍보할 목적으로 사용되었다. 그러나 2012년 7월 13일, 믹스트 미디어 랩스(Mixed Media Labs)는 App.net이 광고에서 해방된 소셜 네트워킹 플랫폼으로 그 목적을 변경할 것이라고 발표하였다. 설계된 바대로 [트위터](https://ko.wikipedia.org/wiki/트위터 "wikilink")와 비슷하지만 광고가 없으며, 그 대신 사용자와 개발자의 [구독에](https://ko.wikipedia.org/wiki/구독_비즈니스_모델 "wikilink") 의존한다. 믹스트 미디어 랩스는 $500,000와 10,000명의 후원자를 목표로 직접 [크라우드펀딩](https://ko.wikipedia.org/wiki/크라우드펀딩 "wikilink")을 시작하였다.\[2\]\[3\]
+'App.net'이라는 이름은 과거에 앱 개발자들이 자신의 애플리케이션을 홍보할 목적으로 사용되었다. 그러나 2012년 7월 13일, 믹스트 미디어 랩스(Mixed Media Labs)는 App.net이 광고에서 해방된 소셜 네트워킹 플랫폼으로 그 목적을 변경할 것이라고 발표하였다. 설계된 바대로 [트위터](../Page/트위터.md "wikilink")와 비슷하지만 광고가 없으며, 그 대신 사용자와 개발자의 [구독에](https://ko.wikipedia.org/wiki/구독_비즈니스_모델 "wikilink") 의존한다. 믹스트 미디어 랩스는 $500,000와 10,000명의 후원자를 목표로 직접 [크라우드펀딩](../Page/크라우드펀딩.md "wikilink")을 시작하였다.\[2\]\[3\]
 
 믹스트 미디어 랩스는 2012년 8월 13일까지 목표치를 초과 달성했으며, 적어도 $750,000에, 11,000명 이상의 후원자가 있었다.
 
-App.net은 2012년 9월 1일에 [말뭉치 주석을](https://ko.wikipedia.org/wiki/말뭉치_주석 "wikilink") 시작하였으며 이 기능을 사용하면 애플리케이션들이 임의의 메타데이터를 게시물에 첨부할 수 있다. 이는 App.net 인프라스트럭처를 사용하여 더 복잡한 기능을 빌드할 수 있게 할 작정이었다.\[4\] 2012년 10월 1일, App.net은 인센티브 프로그램을 시작하였다. 애플리케이션 사용량고 사용자 피드백에 근간하여 참여 개발자들 간에 월간 $20,000의 풀(pool)을 분리할 예정이었다. 믹스트 미디어 랩스의 목표는 개발자들이 해당 플랫폼에서 빌드하는 것을 장려하는 것이다.\[5\]\[6\]
+App.net은 2012년 9월 1일에 [말뭉치 주석을](../Page/말뭉치_주석.md "wikilink") 시작하였으며 이 기능을 사용하면 애플리케이션들이 임의의 메타데이터를 게시물에 첨부할 수 있다. 이는 App.net 인프라스트럭처를 사용하여 더 복잡한 기능을 빌드할 수 있게 할 작정이었다.\[4\] 2012년 10월 1일, App.net은 인센티브 프로그램을 시작하였다. 애플리케이션 사용량고 사용자 피드백에 근간하여 참여 개발자들 간에 월간 $20,000의 풀(pool)을 분리할 예정이었다. 믹스트 미디어 랩스의 목표는 개발자들이 해당 플랫폼에서 빌드하는 것을 장려하는 것이다.\[5\]\[6\]
 
 2012년 11월 29일, App.net은 무료 체험판의 참가 프로그램을 시작하였다. 사용자들은 App.net 사용을 위해 친구를 초대할 수 있다. 친구가 수락하면 한 달 간 서비스를 무료로 사용할 수 있다.\[7\]
 
@@ -31,8 +31,8 @@ App.net은 2012년 9월 1일에 [말뭉치 주석을](https://ko.wikipedia.org/w
 
 ## 외부 링크
 
-  - [App.net](https://web.archive.org/web/20170317050639/https://app.net/) the official network website at the [웨이백 머신](https://ko.wikipedia.org/wiki/웨이백_머신 "wikilink") (archived March 4, 2017)
-  - [@ADN](https://web.archive.org/web/20170304134331/https://alpha.app.net/adn) - the official App.net account on the network at the [웨이백 머신](https://ko.wikipedia.org/wiki/웨이백_머신 "wikilink") (archived March 4, 2017)
+  - [App.net](https://web.archive.org/web/20170317050639/https://app.net/) the official network website at the [웨이백 머신](../Page/웨이백_머신.md "wikilink") (archived March 4, 2017)
+  - [@ADN](https://web.archive.org/web/20170304134331/https://alpha.app.net/adn) - the official App.net account on the network at the [웨이백 머신](../Page/웨이백_머신.md "wikilink") (archived March 4, 2017)
   - [App.net on Github](https://github.com/appdotnet) - the official App.net Github repository
 
 [분류:소셜 네트워크 서비스](https://ko.wikipedia.org/wiki/분류:소셜_네트워크_서비스 "wikilink") [분류:API](https://ko.wikipedia.org/wiki/분류:API "wikilink")

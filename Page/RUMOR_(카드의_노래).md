@@ -5,7 +5,7 @@
 
 ## 배경
 
-  - 뮤직 비디오는 [LG G6와의](https://ko.wikipedia.org/wiki/LG_G6 "wikilink") 콜라보레이션으로 제작되었다. 카드는 2017년 4월 21일 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink") [G6의](https://ko.wikipedia.org/wiki/LG_G6 "wikilink") 글로벌 앰버서더로 발탁된 바 있다.\[2\]
+  - 뮤직 비디오는 [LG G6와의](https://ko.wikipedia.org/wiki/LG_G6 "wikilink") 콜라보레이션으로 제작되었다. 카드는 2017년 4월 21일 [LG전자](../Page/LG전자.md "wikilink") [G6의](https://ko.wikipedia.org/wiki/LG_G6 "wikilink") 글로벌 앰버서더로 발탁된 바 있다.\[2\]
   - 〈RUMOR〉의 히든 영상은 서울특별시와 협업으로 진행되었다.\[3\]
 
 ## 트랙 리스트

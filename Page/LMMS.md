@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [LMMS](https://ko.wikipedia.org/wiki/LMMS).
 
 
-**LMMS**(이전 명칭: Linux MultiMedia Studio)는 [디지털 오디오 워크스테이션](https://ko.wikipedia.org/wiki/디지털_오디오_워크스테이션 "wikilink") 소프트웨어이다. LMMS가 적절한 하드웨어의 컴퓨터에서 실행되면 소리 합성, 샘플 정렬, [MIDI 키보드의](https://ko.wikipedia.org/wiki/MIDI_키보드 "wikilink") 재생, 또 [트래커](https://ko.wikipedia.org/wiki/트래커_\(음악_소프트웨어\) "wikilink"), [시퀀서](https://ko.wikipedia.org/wiki/뮤직_시퀀서 "wikilink"), [신시사이저의](https://ko.wikipedia.org/wiki/소프트웨어_신시사이저 "wikilink") 기능 병합을 통해 음악을 만들어낼 수 있다. 리눅스 오디오 개발자의 심플 플러그인 API([LADSPA](https://ko.wikipedia.org/wiki/LADSPA "wikilink")), [사운드폰트](https://ko.wikipedia.org/wiki/사운드폰트 "wikilink") (SF2) 파일, [버추얼 스튜디오 테크놀로지](https://ko.wikipedia.org/wiki/버추얼_스튜디오_테크놀로지 "wikilink") (VST) 플러그인을 지원한다.\[1\] [GNU GPL 버전 2](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink")(GPLv2)로 출시되는 [자유 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink").
+**LMMS**(이전 명칭: Linux MultiMedia Studio)는 [디지털 오디오 워크스테이션](../Page/디지털_오디오_워크스테이션.md "wikilink") 소프트웨어이다. LMMS가 적절한 하드웨어의 컴퓨터에서 실행되면 소리 합성, 샘플 정렬, [MIDI 키보드의](https://ko.wikipedia.org/wiki/MIDI_키보드 "wikilink") 재생, 또 [트래커](https://ko.wikipedia.org/wiki/트래커_\(음악_소프트웨어\) "wikilink"), [시퀀서](https://ko.wikipedia.org/wiki/뮤직_시퀀서 "wikilink"), [신시사이저의](../Page/소프트웨어_신시사이저.md "wikilink") 기능 병합을 통해 음악을 만들어낼 수 있다. 리눅스 오디오 개발자의 심플 플러그인 API([LADSPA](https://ko.wikipedia.org/wiki/LADSPA "wikilink")), [사운드폰트](../Page/사운드폰트.md "wikilink") (SF2) 파일, [버추얼 스튜디오 테크놀로지](../Page/버추얼_스튜디오_테크놀로지.md "wikilink") (VST) 플러그인을 지원한다.\[1\] [GNU GPL 버전 2](https://ko.wikipedia.org/wiki/GNU_GPL "wikilink")(GPLv2)로 출시되는 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
 
 ## 소프트웨어 개요
 
 ### 시스템 요구사항
 
-LMMS는 GNU/[리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"), [OpenBSD](https://ko.wikipedia.org/wiki/OpenBSD "wikilink"), [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [윈도우를](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 포함하는 여러 [운영 체제를](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 지원한다. 1 GHz의 [CPU](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink"), 512 MB의 [램](https://ko.wikipedia.org/wiki/램 "wikilink"), 2채널 [사운드 카드가](https://ko.wikipedia.org/wiki/사운드_카드 "wikilink") 필요하다.\[2\]
+LMMS는 GNU/[리눅스](../Page/리눅스.md "wikilink"), [OpenBSD](../Page/OpenBSD.md "wikilink"), [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [윈도우를](../Page/마이크로소프트_윈도우.md "wikilink") 포함하는 여러 [운영 체제를](../Page/운영_체제.md "wikilink") 지원한다. 1 GHz의 [CPU](../Page/중앙_처리_장치.md "wikilink"), 512 MB의 [램](https://ko.wikipedia.org/wiki/램 "wikilink"), 2채널 [사운드 카드가](../Page/사운드_카드.md "wikilink") 필요하다.\[2\]
 
 ### 프로그램 기능
 
-LMMS는 SF2 포맷의 사운드폰트들과 GUS 패치들을 수용한다. 또, [MIDI](https://ko.wikipedia.org/wiki/MIDI "wikilink"), [하이드로젠](https://ko.wikipedia.org/wiki/하이드로젠 "wikilink"), [FL 스튜디오](https://ko.wikipedia.org/wiki/FL_스튜디오 "wikilink") 프로젝트(FLP) 파일들을 가져올 수 있다. 게다가 커스터마이즈된 프리셋, 샘플, 테마를 읽고 쓸 수도 있다.\[3\] 오디오는 주로 MIDI, OGG, WAV 포맷으로 내보낼 수 있으며,\[4\] 프로젝트들은 `.mmp` 또는 `.mmpz` [파일 포맷으로](https://ko.wikipedia.org/wiki/파일_포맷 "wikilink") 저장된다.
+LMMS는 SF2 포맷의 사운드폰트들과 GUS 패치들을 수용한다. 또, [MIDI](../Page/MIDI.md "wikilink"), [하이드로젠](https://ko.wikipedia.org/wiki/하이드로젠 "wikilink"), [FL 스튜디오](../Page/FL_스튜디오.md "wikilink") 프로젝트(FLP) 파일들을 가져올 수 있다. 게다가 커스터마이즈된 프리셋, 샘플, 테마를 읽고 쓸 수도 있다.\[3\] 오디오는 주로 MIDI, OGG, WAV 포맷으로 내보낼 수 있으며,\[4\] 프로젝트들은 `.mmp` 또는 `.mmpz` [파일 포맷으로](https://ko.wikipedia.org/wiki/파일_포맷 "wikilink") 저장된다.
 
 ## 차기 업데이트
 
@@ -37,8 +37,8 @@ LMMS는 SF2 포맷의 사운드폰트들과 GUS 패치들을 수용한다. 또, 
   - Nescaline – NES 신시사이저
   - Organic – 오르간 신시사이저
   - OpulenZ
-  - FreeBoy – [게임보이](https://ko.wikipedia.org/wiki/게임보이 "wikilink") [오디오 처리 장치](https://ko.wikipedia.org/wiki/사우늗_카드 "wikilink")(APU) [에뮬레이터](https://ko.wikipedia.org/wiki/에뮬레이터 "wikilink")
-  - [SID](https://ko.wikipedia.org/wiki/MOS_테크놀로지_SID "wikilink") 에뮬레이터 – [코모도어 64](https://ko.wikipedia.org/wiki/코모도어_64 "wikilink") 칩 에뮬레이터
+  - FreeBoy – [게임보이](../Page/게임보이.md "wikilink") [오디오 처리 장치](https://ko.wikipedia.org/wiki/사우늗_카드 "wikilink")(APU) [에뮬레이터](../Page/에뮬레이터.md "wikilink")
+  - [SID](https://ko.wikipedia.org/wiki/MOS_테크놀로지_SID "wikilink") 에뮬레이터 – [코모도어 64](../Page/코모도어_64.md "wikilink") 칩 에뮬레이터
   - [Triple oscillator](https://ko.wikipedia.org/wiki/:en:Oscillator_sync "wikilink")
   - Vibed
   - Watsyn
@@ -46,13 +46,13 @@ LMMS는 SF2 포맷의 사운드폰트들과 GUS 패치들을 수용한다. 또, 
 
 ### 샘플
 
-  - AudioFileProcessor – [샘플러](https://ko.wikipedia.org/wiki/샘플러 "wikilink")
+  - AudioFileProcessor – [샘플러](../Page/샘플러.md "wikilink")
 
 ### 표준
 
-  - [MIDI](https://ko.wikipedia.org/wiki/MIDI "wikilink")
-  - [SoundFont](https://ko.wikipedia.org/wiki/사운드폰트 "wikilink")2
-  - [버추얼 스튜디오 테크놀로지](https://ko.wikipedia.org/wiki/버추얼_스튜디오_테크놀로지 "wikilink") (VST)
+  - [MIDI](../Page/MIDI.md "wikilink")
+  - [SoundFont](../Page/사운드폰트.md "wikilink")2
+  - [버추얼 스튜디오 테크놀로지](../Page/버추얼_스튜디오_테크놀로지.md "wikilink") (VST)
   - Linux Audio Developer's Simple Plugin API ([LADSPA](https://ko.wikipedia.org/wiki/LADSPA "wikilink"))
   - [그래비스 울트라사운드](https://ko.wikipedia.org/wiki/그래비스_울트라사운드 "wikilink") (GUS) 패치 (PatMan)
   - [JACK Audio Connection Kit](https://ko.wikipedia.org/wiki/JACK_Audio_Connection_Kit "wikilink") (JACK)

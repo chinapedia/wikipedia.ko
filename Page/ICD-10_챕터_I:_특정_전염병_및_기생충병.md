@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [ICD-10  I:    ](https://ko.wikipedia.org/wiki/ICD-10__I:____).
 
 
-**[ICD-10](https://ko.wikipedia.org/wiki/ICD-10 "wikilink")** 목록의 1번째 챕터이다. A00\~B99까지를 포괄하며, 특정 전염병 및 기생충병(Certain infectious and parasitic diseases)에 관한 것이다.
+**[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 1번째 챕터이다. A00\~B99까지를 포괄하며, 특정 전염병 및 기생충병(Certain infectious and parasitic diseases)에 관한 것이다.
 
 ## A00–A79 – 세균성 감염 및 기타 장 감염성 질병 및 성병
 
 ### (A00–A09) 장 감염성 질병
 
-  - A00 [콜레라](https://ko.wikipedia.org/wiki/콜레라 "wikilink")
-  - A01 [장티푸스](https://ko.wikipedia.org/wiki/장티푸스 "wikilink") 및 [파라티푸스](https://ko.wikipedia.org/wiki/파라티푸스 "wikilink")
-  - A01.0 [장티푸스](https://ko.wikipedia.org/wiki/장티푸스 "wikilink")열
+  - A00 [콜레라](../Page/콜레라.md "wikilink")
+  - A01 [장티푸스](../Page/장티푸스.md "wikilink") 및 [파라티푸스](https://ko.wikipedia.org/wiki/파라티푸스 "wikilink")
+  - A01.0 [장티푸스](../Page/장티푸스.md "wikilink")열
       - A01.1 [파라티푸스](https://ko.wikipedia.org/wiki/파라티푸스 "wikilink") A형
       - A01.2 파라티푸스 B형
       - A01.3 파라티푸스 C형
       - A01.4 파라티푸스, 상세불명
   - A02 기타 [살모넬라](https://ko.wikipedia.org/wiki/살모넬라 "wikilink") 감염
-  - A03 [이질](https://ko.wikipedia.org/wiki/이질 "wikilink")
+  - A03 [이질](../Page/이질.md "wikilink")
       - A03.0 [Shigella dysenteriae에](https://ko.wikipedia.org/wiki/m:en:Shigella_dysenteriae "wikilink") 의한 이질
       - A03.1 [Shigella flexneri에](https://ko.wikipedia.org/wiki/m:en:Shigella_flexneri "wikilink") 의한 이질
       - A03.2 [Shigella boydii에](https://ko.wikipedia.org/wiki/m:en:Shigella_boydii "wikilink") 의한 이질
@@ -34,11 +34,11 @@
       - A04.7 [Clostridium difficile에 의한 전장염](../Page/클로스트리디움_디피실_감염증.md "wikilink")
       - A04.8 장 감염 질환
       - A04.9 세균성 장 감염, 명시되지 않음
-  - A05 기타 세균성 [식중독](https://ko.wikipedia.org/wiki/식중독 "wikilink")
+  - A05 기타 세균성 [식중독](../Page/식중독.md "wikilink")
       - A05.0 식품매개 포도상구균성 식중독
       - A05.1 [보툴리누스 중독](https://ko.wikipedia.org/wiki/보툴리누스_중독 "wikilink")
       - A05.2 식품매개 [웰치간균](https://ko.wikipedia.org/wiki/웰치간균 "wikilink")성 식중독
-  - A06 [아메바](https://ko.wikipedia.org/wiki/아메바 "wikilink")증
+  - A06 [아메바](../Page/아메바.md "wikilink")증
       - A06.0 급성 아메바성 이질
       - A06.1 만성 아메바성 이질
       - A06.2 아메바성 비이질성 대장염
@@ -57,32 +57,32 @@
       - A07.8 기타 특정 원생동물성 장 질병
           - [트리코모나스](https://ko.wikipedia.org/wiki/트리코모나스 "wikilink")증
       - A07.9 원생동물성 장 질병, 상세불명
-  - A08 [바이러스](https://ko.wikipedia.org/wiki/바이러스 "wikilink")성 및 기타 특정 장 감염
-      - A08.0 [로타바이러스](https://ko.wikipedia.org/wiki/로타바이러스 "wikilink")성 창자염
-  - A09 감염성 기원으로 추정되는 [설사](https://ko.wikipedia.org/wiki/설사 "wikilink") 및 [장염](https://ko.wikipedia.org/wiki/장염 "wikilink")
+  - A08 [바이러스](../Page/바이러스.md "wikilink")성 및 기타 특정 장 감염
+      - A08.0 [로타바이러스](../Page/로타바이러스.md "wikilink")성 창자염
+  - A09 감염성 기원으로 추정되는 [설사](../Page/설사.md "wikilink") 및 [장염](../Page/장염.md "wikilink")
 
 ### (A15–A19) 결핵
 
-  - A15 호흡기 [결핵](https://ko.wikipedia.org/wiki/결핵 "wikilink"), 세균학적 및 조직학적으로 확인됨
+  - A15 호흡기 [결핵](../Page/결핵.md "wikilink"), 세균학적 및 조직학적으로 확인됨
   - A16 호흡기 결핵, 세균학적 및 조직학적으로 확인되지 않음
   - A17 신경계의 결핵
       - A17.0 [결핵수막염](https://ko.wikipedia.org/wiki/결핵수막염 "wikilink")
   - A18 기타 기관의 결핵
-      - A18.0 [뼈](https://ko.wikipedia.org/wiki/뼈 "wikilink") 및 [관절](https://ko.wikipedia.org/wiki/관절 "wikilink")의 결핵
+      - A18.0 [뼈](../Page/뼈.md "wikilink") 및 [관절](../Page/관절.md "wikilink")의 결핵
       - A18.1 [비뇨](https://ko.wikipedia.org/wiki/비뇨계 "wikilink")·[생식계](https://ko.wikipedia.org/wiki/생식계 "wikilink")의 결핵
       - A18.2 결핵성 말초 림프절병증
       - A18.3 위장기관·[복막](https://ko.wikipedia.org/wiki/복막 "wikilink")·[장간막](https://ko.wikipedia.org/wiki/장간막 "wikilink")의 결핵
-      - A18.4 [피부](https://ko.wikipedia.org/wiki/피부 "wikilink") 및 [피하조직](https://ko.wikipedia.org/wiki/피하조직 "wikilink")의 결핵
+      - A18.4 [피부](../Page/피부.md "wikilink") 및 [피하조직](https://ko.wikipedia.org/wiki/피하조직 "wikilink")의 결핵
           - 피부선병(Scrofuloderma)
       - A18.5 [눈](https://ko.wikipedia.org/wiki/눈 "wikilink")의 결핵
-      - A18.6 [귀](https://ko.wikipedia.org/wiki/귀 "wikilink")의 결핵
-      - A18.7 [부신](https://ko.wikipedia.org/wiki/부신 "wikilink")의 결핵
+      - A18.6 [귀](../Page/귀.md "wikilink")의 결핵
+      - A18.7 [부신](../Page/부신.md "wikilink")의 결핵
       - A18.8 기타 특정 기관의 결핵
-  - A19 [속립 결핵](https://ko.wikipedia.org/wiki/속립_결핵 "wikilink")
+  - A19 [속립 결핵](../Page/속립_결핵.md "wikilink")
 
 ### (A20–A28) 특정 동물 매개 세균성 질병
 
-  - A20 [페스트](https://ko.wikipedia.org/wiki/페스트 "wikilink")
+  - A20 [페스트](../Page/페스트.md "wikilink")
       - A20.0 림프절 페스트
       - A20.1 소성결합조직피부 페스트
       - A20.2 폐렴형 페스트
@@ -91,8 +91,8 @@
       - A20.8 페스트의 기타 형태
       - A20.9 페스트, 상세불명
   - A21 [야토병](../Page/야토병.md "wikilink")
-  - A22 [탄저](https://ko.wikipedia.org/wiki/탄저 "wikilink")
-  - A23 [브루셀라증](https://ko.wikipedia.org/wiki/브루셀라증 "wikilink")
+  - A22 [탄저](../Page/탄저.md "wikilink")
+  - A23 [브루셀라증](../Page/브루셀라증.md "wikilink")
   - A24 [마비저](https://ko.wikipedia.org/wiki/마비저 "wikilink") 및 [유사비저](https://ko.wikipedia.org/wiki/유사비저 "wikilink")
       - A24.0) 마비저
       - A24.1) 급성 및 전격성 유사비저
@@ -104,26 +104,26 @@
       - A25.1 연쇄간균증
       - A25.9 서교증, 상세불명
   - A26 유사단독
-  - A27 [렙토스피라증](https://ko.wikipedia.org/wiki/렙토스피라증 "wikilink")
+  - A27 [렙토스피라증](../Page/렙토스피라증.md "wikilink")
   - A28 기타 동물매개 세균성 질병, 달리 분류되지 않음
       - A28.0 파스퇴렐라증
       - A28.1 [묘소병](https://ko.wikipedia.org/wiki/묘소병 "wikilink")
 
 ### (A30–A49) 기타 세균성 질병
 
-  - A30 [나병](https://ko.wikipedia.org/wiki/나병 "wikilink") (한센병)
-  - A31 [미코박테륨](https://ko.wikipedia.org/wiki/미코박테륨 "wikilink")에 의한 감염
+  - A30 [나병](../Page/나병.md "wikilink") (한센병)
+  - A31 [미코박테륨](../Page/미코박테륨.md "wikilink")에 의한 감염
       - A31.0 폐 미코박테륨 감염
       - A31.1 피부 미코박테륨 감염
   - A32 [리스테리아증](https://ko.wikipedia.org/wiki/리스테리아증 "wikilink")
-  - A33 신생아 [파상풍](https://ko.wikipedia.org/wiki/파상풍 "wikilink")
+  - A33 신생아 [파상풍](../Page/파상풍.md "wikilink")
   - A34 산과 파상풍
   - A35 기타 파상풍
   - A36 [디프테리아](https://ko.wikipedia.org/wiki/디프테리아 "wikilink")
-  - A37 [백일해](https://ko.wikipedia.org/wiki/백일해 "wikilink")
+  - A37 [백일해](../Page/백일해.md "wikilink")
   - A38 [성홍열](https://ko.wikipedia.org/wiki/성홍열 "wikilink")
   - A39 [수막구균](https://ko.wikipedia.org/wiki/수막구균 "wikilink") 감염
-  - A40 [연쇄상구균](../Page/연쇄상구균.md "wikilink")성 [패혈증](https://ko.wikipedia.org/wiki/패혈증 "wikilink")
+  - A40 [연쇄상구균](../Page/연쇄상구균.md "wikilink")성 [패혈증](../Page/패혈증.md "wikilink")
   - A41 기타 패혈증
   - A42 [방성균증](https://ko.wikipedia.org/wiki/방성균증 "wikilink")
   - A43 노카르디아증
@@ -134,7 +134,7 @@
 
 ### (A50–A64) 대개 성적 접촉으로 전파되는 감염
 
-  - A50 선천 [매독](https://ko.wikipedia.org/wiki/매독 "wikilink")
+  - A50 선천 [매독](../Page/매독.md "wikilink")
   - A51 조기 매독
   - A52 만기 매독
   - A53 기타 및 상세불명의 매독
@@ -185,6 +185,6 @@
 
 ## 상위 항목
 
-  - [ICD-10](https://ko.wikipedia.org/wiki/ICD-10 "wikilink")
+  - [ICD-10](../Page/ICD-10.md "wikilink")
 
 [분류:국제질병분류](https://ko.wikipedia.org/wiki/분류:국제질병분류 "wikilink")

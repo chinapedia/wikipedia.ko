@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Real Love \( \)](https://ko.wikipedia.org/wiki/Real_Love_\(_\)).
 
 
-〈**Real Love**〉는 [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 쓰고 1995년 《[비틀즈 앤솔로지](../Page/비틀즈_앤솔로지.md "wikilink")》 프로젝트의 일환으로 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 생존 멤버 세 명이 오버더빙을 입혀 녹음한 노래다. 지금까지 이 곡은 비틀즈로 크레디트된 새 작곡이 마지막으로 음반 발표된 것으로 남았다. 레논은 1979년과 1980년에 노래의 총 여섯 테이크를 제작했는데, 모두가 개별적인 곡이었으며 〈Real Love〉에서 비로소 하나로 합쳐졌다. 노래는 다큐멘터리 사운드트랙 《[Imagine: John Lennon](https://ko.wikipedia.org/wiki/Imagine:_John_Lennon "wikilink")》에서 여섯 번째 테이크가 수록되기 이전까지인 1988년 이전까지 무시되고 있었다.
+〈**Real Love**〉는 [존 레논이](../Page/존_레논.md "wikilink") 쓰고 1995년 《[비틀즈 앤솔로지](../Page/비틀즈_앤솔로지.md "wikilink")》 프로젝트의 일환으로 [비틀즈](../Page/비틀즈.md "wikilink")의 생존 멤버 세 명이 오버더빙을 입혀 녹음한 노래다. 지금까지 이 곡은 비틀즈로 크레디트된 새 작곡이 마지막으로 음반 발표된 것으로 남았다. 레논은 1979년과 1980년에 노래의 총 여섯 테이크를 제작했는데, 모두가 개별적인 곡이었으며 〈Real Love〉에서 비로소 하나로 합쳐졌다. 노래는 다큐멘터리 사운드트랙 《[Imagine: John Lennon](https://ko.wikipedia.org/wiki/Imagine:_John_Lennon "wikilink")》에서 여섯 번째 테이크가 수록되기 이전까지인 1988년 이전까지 무시되고 있었다.
 
-〈Real Love〉는 이후 1995년 초 비틀즈의 생존 멤버 세 명([폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink"), [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink"), [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink"))가 재작업하였고, 레논의 또다른 미완성 트랙 〈[Free as a Bird](https://ko.wikipedia.org/wiki/Free_as_a_Bird "wikilink")〉가 같은 식으로 작업을 거쳤다. 〈Real Love〉는 1996년 영국에서 비틀즈의 싱글로 출시되었고 미국을 비롯한 세계 각국에서도 발표되었다. 비틀즈의 《[Anthology 2](https://ko.wikipedia.org/wiki/Anthology_2 "wikilink")》에서는 오프닝 트랙으로 활용된다. 이는 음반에서 마지막으로 "새롭게" 크레디트된 곡으로서 수록되었다. 현재까지 미국 내에서 40위 이내까지 오른 비틀즈의 마지막 싱글이다.
+〈Real Love〉는 이후 1995년 초 비틀즈의 생존 멤버 세 명([폴 매카트니](../Page/폴_매카트니.md "wikilink"), [조지 해리슨](../Page/조지_해리슨.md "wikilink"), [링고 스타](../Page/링고_스타.md "wikilink"))가 재작업하였고, 레논의 또다른 미완성 트랙 〈[Free as a Bird](https://ko.wikipedia.org/wiki/Free_as_a_Bird "wikilink")〉가 같은 식으로 작업을 거쳤다. 〈Real Love〉는 1996년 영국에서 비틀즈의 싱글로 출시되었고 미국을 비롯한 세계 각국에서도 발표되었다. 비틀즈의 《[Anthology 2](https://ko.wikipedia.org/wiki/Anthology_2 "wikilink")》에서는 오프닝 트랙으로 활용된다. 이는 음반에서 마지막으로 "새롭게" 크레디트된 곡으로서 수록되었다. 현재까지 미국 내에서 40위 이내까지 오른 비틀즈의 마지막 싱글이다.
 
-노래는 영국과 미국에서 각각 4위와 11위에 안착했고, 대다수 비틀즈의 싱글보다 더 빠르게 골드 레코드를 획득했다. 노래는 팬들과 영국 국회의원의 비판으로 말미암아 [BBC 라디오 1](https://ko.wikipedia.org/wiki/BBC_라디오_1 "wikilink") 재생목록에서 제외되었다. 〈Free as a Bird〉와 〈Real Love〉의 발표 뒤, 스타는 다음과 같은 소감을 전했다. "새 곡을 녹음하는 것은 전혀 어색함이 없었어요. 굉장히 자연스러웠고 많은 즐거움이 따라왔죠. 물론 감정적인 때도 있었어요. 하지만 역시 이걸로 종점이라는 느낌이 드네요. 우리가 비틀즈로서 할 수 있는 일은 더 이상 없어요."\[1\]
+노래는 영국과 미국에서 각각 4위와 11위에 안착했고, 대다수 비틀즈의 싱글보다 더 빠르게 골드 레코드를 획득했다. 노래는 팬들과 영국 국회의원의 비판으로 말미암아 [BBC 라디오 1](../Page/BBC_라디오_1.md "wikilink") 재생목록에서 제외되었다. 〈Free as a Bird〉와 〈Real Love〉의 발표 뒤, 스타는 다음과 같은 소감을 전했다. "새 곡을 녹음하는 것은 전혀 어색함이 없었어요. 굉장히 자연스러웠고 많은 즐거움이 따라왔죠. 물론 감정적인 때도 있었어요. 하지만 역시 이걸로 종점이라는 느낌이 드네요. 우리가 비틀즈로서 할 수 있는 일은 더 이상 없어요."\[1\]
 
 ## 원본
 

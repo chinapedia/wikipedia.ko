@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AMD     ](https://ko.wikipedia.org/wiki/AMD_____).
 
 
-다음은 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 개발하고 판매한 [AMD APU](https://ko.wikipedia.org/wiki/AMD_가속_처리_장치 "wikilink") 브랜드의 [마이크로프로세서](https://ko.wikipedia.org/wiki/마이크로프로세서 "wikilink") 목록이다.
+다음은 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 개발하고 판매한 [AMD APU](../Page/AMD_가속_처리_장치.md "wikilink") 브랜드의 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink") 목록이다.
 
 ## 데스크탑 APU
 
@@ -14,7 +14,7 @@
   - CPU 기반: AMD 스타스 ([K10](https://ko.wikipedia.org/wiki/K10_마이크로아키텍처 "wikilink")), 허스키 (K10.5)
   - GPU 기반: 라데온 테라스케일2
   - 최대 지원 메모리: DDR3-1866
-  - [셈프론](https://ko.wikipedia.org/wiki/셈프론 "wikilink") X2와 [애슬론](https://ko.wikipedia.org/wiki/애슬론 "wikilink") II X2/X4 모델은 APU 중 불량이 있는 내장 GPU를 막고 출시.
+  - [셈프론](../Page/셈프론.md "wikilink") X2와 [애슬론](../Page/애슬론.md "wikilink") II X2/X4 모델은 APU 중 불량이 있는 내장 GPU를 막고 출시.
   - K가 붙은 모델은 배수락이 해제되어 오버클럭 가능.
 
 | 제품명            | CPU                  | GPU           | 메모리 지원       | TDP        | 출시일       | DirectX 지원   |
@@ -43,16 +43,16 @@
 
 ### 트리니티 (2012)
 
-  - 제조 공정: [글로벌파운드리](https://ko.wikipedia.org/wiki/글로벌파운드리 "wikilink") 32nm SOI
+  - 제조 공정: [글로벌파운드리](../Page/글로벌파운드리.md "wikilink") 32nm SOI
   - 소켓: 소켓 FM2
   - 다이 크기: 246 mm<sup>2</sup>
   - 트랜지스터 수: 1.303 B 개
-  - CPU 기반: AMD [파일드라이버](https://ko.wikipedia.org/wiki/파일드라이버_\(마이크로아키텍처\) "wikilink") (1모듈이 2코어에 해당됨)
+  - CPU 기반: AMD [파일드라이버](../Page/파일드라이버_\(마이크로아키텍처\).md "wikilink") (1모듈이 2코어에 해당됨)
   - GPU 기반: 라데온 테라스케일 3
   - 최대 지원 메모리: DDR3-1866
-  - [셈프론](https://ko.wikipedia.org/wiki/셈프론 "wikilink") X2와 [애슬론](https://ko.wikipedia.org/wiki/애슬론 "wikilink") X2/X4 모델은 APU 중 불량이 있는 내장 GPU를 막고 출시.
+  - [셈프론](../Page/셈프론.md "wikilink") X2와 [애슬론](../Page/애슬론.md "wikilink") X2/X4 모델은 APU 중 불량이 있는 내장 GPU를 막고 출시.
   - 애슬론 II의 단종으로 II가 네이밍에서 제외
-  - [AMD 파이어프로는](https://ko.wikipedia.org/wiki/AMD_파이어프로 "wikilink") 전문가 워크스테이션용 제품
+  - [AMD 파이어프로는](../Page/AMD_파이어프로.md "wikilink") 전문가 워크스테이션용 제품
   - K가 붙은 모델은 배수락이 해제되어 오버클럭 가능.
   - B가 붙은 모델은 기업용.
 

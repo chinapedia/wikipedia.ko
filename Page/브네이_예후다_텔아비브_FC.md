@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
 
 
-**브네이 예후다 텔아비브 FC**()는 [텔아비브](https://ko.wikipedia.org/wiki/텔아비브 "wikilink")를 연고로 하는 [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [리갓 하알에](https://ko.wikipedia.org/wiki/리갓_하알 "wikilink") 참가하고 있다.
+**브네이 예후다 텔아비브 FC**()는 [텔아비브](../Page/텔아비브.md "wikilink")를 연고로 하는 [이스라엘](../Page/이스라엘.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [리갓 하알에](../Page/리갓_하알.md "wikilink") 참가하고 있다.
 
 ## 성적
 

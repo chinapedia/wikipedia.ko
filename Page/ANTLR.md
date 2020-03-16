@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ANTLR](https://ko.wikipedia.org/wiki/ANTLR).
 
 
-컴퓨터 기반 언어 인식에서 **ANTLR**(앤틀러, Another Tool For Language Recognition)는 구문 분석을 위해 [LL(\*)을](https://ko.wikipedia.org/wiki/LL_파서 "wikilink") 사용하는 [파서 발생기이다](https://ko.wikipedia.org/wiki/컴파일러_컴파일러 "wikilink"). ANTLR은 1989년 처음 개발된 PCCTS(Purdue Compiler Construction Tool Set)의 뒤를 이으며 현재 개발이 진행 중이다. 유지보수는 [샌프란시스코 대학교의](https://ko.wikipedia.org/wiki/샌프란시스코_대학교 "wikilink") [Terence Parr](https://ko.wikipedia.org/wiki/Terence_Parr "wikilink") 교수가 맡고 있다.
+컴퓨터 기반 언어 인식에서 **ANTLR**(앤틀러, Another Tool For Language Recognition)는 구문 분석을 위해 [LL(\*)을](../Page/LL_파서.md "wikilink") 사용하는 [파서 발생기이다](https://ko.wikipedia.org/wiki/컴파일러_컴파일러 "wikilink"). ANTLR은 1989년 처음 개발된 PCCTS(Purdue Compiler Construction Tool Set)의 뒤를 이으며 현재 개발이 진행 중이다. 유지보수는 [샌프란시스코 대학교의](https://ko.wikipedia.org/wiki/샌프란시스코_대학교 "wikilink") [Terence Parr](https://ko.wikipedia.org/wiki/Terence_Parr "wikilink") 교수가 맡고 있다.
 
 ## 예
 

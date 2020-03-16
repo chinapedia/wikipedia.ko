@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J.Fla](https://ko.wikipedia.org/wiki/J.Fla).
 
 
-**김정화**([1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [6월 10일](https://ko.wikipedia.org/wiki/6월_10일 "wikilink") \~ )는 예명 **J.Fla**(제이플라)라는 이름으로 잘 알려진 대한민국의 가수이자 유튜버이다.
+**김정화**([1987년](../Page/1987년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") \~ )는 예명 **J.Fla**(제이플라)라는 이름으로 잘 알려진 대한민국의 가수이자 유튜버이다.
 
 J.Fla(제이플라)는 한국의 가수 및 유튜브 뮤직 크리에이터이며 주로 팝 장르 커버곡들을 부른다. 예명인 J.Fla의 유래는 정(J) + 화(花=Flower)이며 2016년 포니테일의 헤어스타일로 이미지 변신을 시도하고 특유의 스타일로 기존의 곡들을 커버한 영상을 유튜브에 업로드 하며 폭발적인 인기를 얻었다. 한국 시간 기준으로 매주 금요일에 본인의 유튜브 채널로 신규 커버 동영상을 게시한다.
 

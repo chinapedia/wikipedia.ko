@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Wi-Fi \(\)](https://ko.wikipedia.org/wiki/Wi-Fi_\(\)).
 
 
-《**2017 월간 윤종신 2월호**》는 대한민국의 가수 [윤종신](https://ko.wikipedia.org/wiki/윤종신 "wikilink"), [지코](https://ko.wikipedia.org/wiki/지코 "wikilink")의 디지털 싱글이다. 2017년 2월 24일에 발매되었다. 대한민국의 기획사 [미스틱엔터테인먼트](https://ko.wikipedia.org/wiki/미스틱엔터테인먼트 "wikilink")의 음악 플랫폼 [월간 윤종신을](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink") 통해 발매되었다.
+《**2017 월간 윤종신 2월호**》는 대한민국의 가수 [윤종신](../Page/윤종신.md "wikilink"), [지코](../Page/지코.md "wikilink")의 디지털 싱글이다. 2017년 2월 24일에 발매되었다. 대한민국의 기획사 [미스틱엔터테인먼트](https://ko.wikipedia.org/wiki/미스틱엔터테인먼트 "wikilink")의 음악 플랫폼 [월간 윤종신을](../Page/월간_윤종신.md "wikilink") 통해 발매되었다.
 
 ## 트랙 리스트
 
@@ -11,7 +11,7 @@
 
 ## Clean ver.
 
-《**2017 월간 윤종신 2월호 (Clean Ver.)**》는 대한민국의 가수 [윤종신](https://ko.wikipedia.org/wiki/윤종신 "wikilink")의 디지털 싱글이다. 2017년 3월 16일에 발매되었다. 대한민국의 기획사 [미스틱엔터테인먼트](https://ko.wikipedia.org/wiki/미스틱엔터테인먼트 "wikilink")의 음악 플랫폼 [월간 윤종신을](https://ko.wikipedia.org/wiki/월간_윤종신 "wikilink") 통해 발매되었다.
+《**2017 월간 윤종신 2월호 (Clean Ver.)**》는 대한민국의 가수 [윤종신](../Page/윤종신.md "wikilink")의 디지털 싱글이다. 2017년 3월 16일에 발매되었다. 대한민국의 기획사 [미스틱엔터테인먼트](https://ko.wikipedia.org/wiki/미스틱엔터테인먼트 "wikilink")의 음악 플랫폼 [월간 윤종신을](../Page/월간_윤종신.md "wikilink") 통해 발매되었다.
 
 ### 트랙 리스트
 

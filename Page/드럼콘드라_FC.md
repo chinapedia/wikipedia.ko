@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**드럼콘드라 FC**()는 [더블린](https://ko.wikipedia.org/wiki/더블린 "wikilink")의 드럼콘드라(Drumcondra)를 연고로 하는 [아일랜드](https://ko.wikipedia.org/wiki/아일랜드 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [리그 오브 아일랜드](https://ko.wikipedia.org/wiki/리그_오브_아일랜드 "wikilink") 렌스터 시니어 리그에 참가하고 있다.
+**드럼콘드라 FC**()는 [더블린](../Page/더블린.md "wikilink")의 드럼콘드라(Drumcondra)를 연고로 하는 [아일랜드](../Page/아일랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [리그 오브 아일랜드](https://ko.wikipedia.org/wiki/리그_오브_아일랜드 "wikilink") 렌스터 시니어 리그에 참가하고 있다.
 
 ## 성적
 

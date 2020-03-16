@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I DREAM](https://ko.wikipedia.org/wiki/I_DREAM).
 
 
-《**I DREAM**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 여자 가수 [아이의](../Page/아이_\(가수\).md "wikilink") 데뷔 앨범이자 첫 번째 미니앨범이다.
+《**I DREAM**》은 [대한민국](../Page/대한민국.md "wikilink")의 여자 가수 [아이의](../Page/아이_\(가수\).md "wikilink") 데뷔 앨범이자 첫 번째 미니앨범이다.
 
 ## 트랙 리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  OST Part 1](https://ko.wikipedia.org/wiki/__OST_Part_1).
 
 
-《**별별 며느리 OST Part 1**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 방송사 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 드라마 《[별별 며느리](../Page/별별_며느리.md "wikilink")》의 OST이다. 2017년 6월 5일에 발매되었다. [나인뮤지스](https://ko.wikipedia.org/wiki/나인뮤지스 "wikilink")의 멤버 [혜미의](https://ko.wikipedia.org/wiki/혜미_\(1991년\) "wikilink") 디지털 싱글이다. 타이틀곡은 <Love Holiday>이다.
+《**별별 며느리 OST Part 1**》는 [대한민국](../Page/대한민국.md "wikilink")의 방송사 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 드라마 《[별별 며느리](../Page/별별_며느리.md "wikilink")》의 OST이다. 2017년 6월 5일에 발매되었다. [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 멤버 [혜미의](../Page/혜미_\(1991년\).md "wikilink") 디지털 싱글이다. 타이틀곡은 <Love Holiday>이다.
 
 ## 트랙리스트
 

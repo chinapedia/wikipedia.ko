@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
 
 
-**SK서린빌딩**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [종로구](https://ko.wikipedia.org/wiki/종로구 "wikilink") [서린동](https://ko.wikipedia.org/wiki/서린동 "wikilink")에 위치한 오피스 빌딩이다. 36층 높이의 업무용 건물로 1999년 완공된 이래 SK그룹 본사가 위치하고 있으며, 오늘날에도 몇몇 그룹 계열사 본사와 함께 SK그룹의 지주사인 SK 주식회사의 본사가 위치하고 있다.
+**SK서린빌딩**()는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [서린동](https://ko.wikipedia.org/wiki/서린동 "wikilink")에 위치한 오피스 빌딩이다. 36층 높이의 업무용 건물로 1999년 완공된 이래 SK그룹 본사가 위치하고 있으며, 오늘날에도 몇몇 그룹 계열사 본사와 함께 SK그룹의 지주사인 SK 주식회사의 본사가 위치하고 있다.
 
-[미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")의 [시그램 빌딩](https://ko.wikipedia.org/wiki/시그램_빌딩 "wikilink") 영향을 받았고 160m 높이의 철골 구조다. SK서린빌딩은 종로구에서 가장 높은 건물이다.\[1\]
+[미국](../Page/미국.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")의 [시그램 빌딩](https://ko.wikipedia.org/wiki/시그램_빌딩 "wikilink") 영향을 받았고 160m 높이의 철골 구조다. SK서린빌딩은 종로구에서 가장 높은 건물이다.\[1\]
 
 ## 역사
 
-[1992년 9월에](https://ko.wikipedia.org/wiki/1992년_9월 "wikilink") 착공하였고 [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")에 지하 7층, 지상 25층으로 건축승인을 받았다가 36층으로 변경했다. [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink")에 20% 공정률을 보이고 있고 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [11월 22일에](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") 완공하였다.
+[1992년 9월에](https://ko.wikipedia.org/wiki/1992년_9월 "wikilink") 착공하였고 [1995년](../Page/1995년.md "wikilink")에 지하 7층, 지상 25층으로 건축승인을 받았다가 36층으로 변경했다. [1997년](../Page/1997년.md "wikilink")에 20% 공정률을 보이고 있고 [1999년](../Page/1999년.md "wikilink") [11월 22일에](../Page/11월_22일.md "wikilink") 완공하였다.
 
 ## 설계
 

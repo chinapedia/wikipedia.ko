@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ICD-10  IV: ,    ](https://ko.wikipedia.org/wiki/ICD-10__IV:_,____).
 
 
-**[ICD-10](https://ko.wikipedia.org/wiki/ICD-10 "wikilink")** 목록의 4번째 챕터이다. E00\~E90까지를 포괄하며, 내분비, 영양 및 대사 질병(Endocrine, nutritional and metabolic diseases)에 관한 것이다.
+**[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 4번째 챕터이다. E00\~E90까지를 포괄하며, 내분비, 영양 및 대사 질병(Endocrine, nutritional and metabolic diseases)에 관한 것이다.
 
 ## E00–E35 – 내분비 질병
 
@@ -49,6 +49,6 @@
 
 ## 상위 항목
 
-  - [ICD-10](https://ko.wikipedia.org/wiki/ICD-10 "wikilink")
+  - [ICD-10](../Page/ICD-10.md "wikilink")
 
 [분류:국제질병분류](https://ko.wikipedia.org/wiki/분류:국제질병분류 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hysteric panic](https://ko.wikipedia.org/wiki/Hysteric_panic).
 
 
-**Hysteric panic** (히스테릭 패닉)은 2012년에 결성된 일본의 나고야 출신 익스트림 [J-pop](https://ko.wikipedia.org/wiki/J-pop "wikilink") 록 밴드이다. 2015년 4월 1일에 메이저데뷔로 "우소츠키"를 발매하였다. 히스테릭 패닉을 줄여서 일본에서는 히스파니, 한국에서는 히스패닉이라고 부른다.
+**Hysteric panic** (히스테릭 패닉)은 2012년에 결성된 일본의 나고야 출신 익스트림 [J-pop](../Page/J-pop.md "wikilink") 록 밴드이다. 2015년 4월 1일에 메이저데뷔로 "우소츠키"를 발매하였다. 히스테릭 패닉을 줄여서 일본에서는 히스파니, 한국에서는 히스패닉이라고 부른다.
 
 ## 멤버
 

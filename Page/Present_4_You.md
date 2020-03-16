@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Present 4 You](https://ko.wikipedia.org/wiki/Present_4_You).
 
 
-**《Present 4 You》**는 [박기영의](https://ko.wikipedia.org/wiki/박기영_\(1977년생_가수\) "wikilink") 4집 정규 앨범이다.
+**《Present 4 You》**는 [박기영의](../Page/박기영_\(1977년생_가수\).md "wikilink") 4집 정규 앨범이다.
 
 ## 수록곡
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Cgroups](https://ko.wikipedia.org/wiki/Cgroups).
 
 
-**cgroups**(control groups의 약자)는 [프로세스](https://ko.wikipedia.org/wiki/프로세스 "wikilink")들의 [자원의 사용](https://ko.wikipedia.org/wiki/시스템_자원 "wikilink")(CPU, 메모리, 디스크 입출력, 네트워크 등)을 제한하고 격리시키는 [리눅스 커널](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 기능이다.
+**cgroups**(control groups의 약자)는 [프로세스](../Page/프로세스.md "wikilink")들의 [자원의 사용](https://ko.wikipedia.org/wiki/시스템_자원 "wikilink")(CPU, 메모리, 디스크 입출력, 네트워크 등)을 제한하고 격리시키는 [리눅스 커널](../Page/리눅스_커널.md "wikilink") 기능이다.
 
-[구글](https://ko.wikipedia.org/wiki/구글 "wikilink")의 엔지니어들이 2006년에 이 기능에 대한 작업에 착수하였고 당시 이름은 "프로세스 컨테이너"(process container)였다.\[1\] 2007년 말에 리눅스 커널 문맥에서 "컨테이너"라는 용어의 의미가 여러 개이므로 혼란을 방지하기 위해 이름이 "컨트롤 그룹"(control groups)으로 변경되었으며, 컨트롤 그룹 기능은 2008년 1월에 출시된 커널 버전 2.6.24에 [리눅스 커널 메인라인으로](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 병합되었다.\[2\] 그 뒤로 개발자들은 수많은 새로운 기능과 컨트롤러들을 추가해오고 있는데, 이를테면 [kernfs](https://ko.wikipedia.org/wiki/kernfs "wikilink") 지원,\[3\] [방화벽](https://ko.wikipedia.org/wiki/방화벽 "wikilink"),\[4\] 통합된 계층구조를 포함한다.\[5\]
+[구글](../Page/구글.md "wikilink")의 엔지니어들이 2006년에 이 기능에 대한 작업에 착수하였고 당시 이름은 "프로세스 컨테이너"(process container)였다.\[1\] 2007년 말에 리눅스 커널 문맥에서 "컨테이너"라는 용어의 의미가 여러 개이므로 혼란을 방지하기 위해 이름이 "컨트롤 그룹"(control groups)으로 변경되었으며, 컨트롤 그룹 기능은 2008년 1월에 출시된 커널 버전 2.6.24에 [리눅스 커널 메인라인으로](../Page/리눅스_커널.md "wikilink") 병합되었다.\[2\] 그 뒤로 개발자들은 수많은 새로운 기능과 컨트롤러들을 추가해오고 있는데, 이를테면 [kernfs](https://ko.wikipedia.org/wiki/kernfs "wikilink") 지원,\[3\] [방화벽](https://ko.wikipedia.org/wiki/방화벽 "wikilink"),\[4\] 통합된 계층구조를 포함한다.\[5\]
 
 ## 채택
 
-다양한 프로젝트들이 cgroups를 기반으로 사용하고 있으며, 여기에는 [코어OS](https://ko.wikipedia.org/wiki/코어OS "wikilink"), [도커](../Page/도커_\(소프트웨어\).md "wikilink"), [하둡](https://ko.wikipedia.org/wiki/아파치_하둡 "wikilink"), [Jelastic](https://ko.wikipedia.org/wiki/Jelastic "wikilink"), [Kubernetes](https://ko.wikipedia.org/wiki/Kubernetes "wikilink"),\[6\] [lmctfy](https://ko.wikipedia.org/wiki/lmctfy "wikilink") (Let Me Contain That For You), [LXC](../Page/LXC.md "wikilink") (리눅스 컨테이너/LinuX Containers), systemd, [Mesos](https://ko.wikipedia.org/wiki/Apache_Mesos "wikilink"), Mesosphere,\[7\] [HTCondor](https://ko.wikipedia.org/wiki/HTCondor "wikilink") 등이 있으며 메인라인 리눅스 커널에 채택된지 3년이 지난 2010년 11월에 [레드햇 엔터프라이즈 리눅스](https://ko.wikipedia.org/wiki/레드햇_엔터프라이즈_리눅스 "wikilink") 6과 같은 주요 리눅스 배포판에도 또한 채택되었다.\[8\]
+다양한 프로젝트들이 cgroups를 기반으로 사용하고 있으며, 여기에는 [코어OS](https://ko.wikipedia.org/wiki/코어OS "wikilink"), [도커](../Page/도커_\(소프트웨어\).md "wikilink"), [하둡](../Page/아파치_하둡.md "wikilink"), [Jelastic](https://ko.wikipedia.org/wiki/Jelastic "wikilink"), [Kubernetes](https://ko.wikipedia.org/wiki/Kubernetes "wikilink"),\[6\] [lmctfy](https://ko.wikipedia.org/wiki/lmctfy "wikilink") (Let Me Contain That For You), [LXC](../Page/LXC.md "wikilink") (리눅스 컨테이너/LinuX Containers), systemd, [Mesos](https://ko.wikipedia.org/wiki/Apache_Mesos "wikilink"), Mesosphere,\[7\] [HTCondor](https://ko.wikipedia.org/wiki/HTCondor "wikilink") 등이 있으며 메인라인 리눅스 커널에 채택된지 3년이 지난 2010년 11월에 [레드햇 엔터프라이즈 리눅스](../Page/레드햇_엔터프라이즈_리눅스.md "wikilink") 6과 같은 주요 리눅스 배포판에도 또한 채택되었다.\[8\]
 
 ## 같이 보기
 

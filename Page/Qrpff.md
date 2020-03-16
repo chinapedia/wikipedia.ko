@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Qrpff](https://ko.wikipedia.org/wiki/Qrpff).
 
 
-**qrpff**는 [Keith Winstein과](https://ko.wikipedia.org/wiki/Keith_Winstein "wikilink") Marc Horowitz(MAT SITB 출신)가 작성한 [펄](https://ko.wikipedia.org/wiki/펄 "wikilink") 스크립트이다.\[1\] 6\~7줄의 [DeCSS](https://ko.wikipedia.org/wiki/DeCSS "wikilink")를 수행한다. 이름 그 자체는 [rot-13의](https://ko.wikipedia.org/wiki/ROT13 "wikilink") "decss" 인코딩이다. 이 알고리즘은 6줄로 줄이기 위해 77번 재작성되었다.\[2\]
+**qrpff**는 [Keith Winstein과](https://ko.wikipedia.org/wiki/Keith_Winstein "wikilink") Marc Horowitz(MAT SITB 출신)가 작성한 [펄](../Page/펄.md "wikilink") 스크립트이다.\[1\] 6\~7줄의 [DeCSS](https://ko.wikipedia.org/wiki/DeCSS "wikilink")를 수행한다. 이름 그 자체는 [rot-13의](../Page/ROT13.md "wikilink") "decss" 인코딩이다. 이 알고리즘은 6줄로 줄이기 위해 77번 재작성되었다.\[2\]
 
 실제로, qrpff는 두 가지 버전이 존재한다: 짧은 버전(6줄), 빠른 버전(7줄). 두 버전은 아래와 같이 나타난다.
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [AspectJ](https://ko.wikipedia.org/wiki/AspectJ).
 
 
-**AspectJ**는 [PARC](https://ko.wikipedia.org/wiki/PARC "wikilink")에서 개발한 [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") 프로그래밍 언어용 [관점 지향 프로그래밍](https://ko.wikipedia.org/wiki/관점_지향_프로그래밍 "wikilink") (AOP) 확장 기능이다. [이클립스 재단](https://ko.wikipedia.org/wiki/이클립스_재단 "wikilink") 오픈 소스 프로젝트에서 독립형 또는 [이클립스](https://ko.wikipedia.org/wiki/이클립스 "wikilink")로 통합하여 이용 가능하다. AspectJ는 최종 사용자를 위한 단순함과 이용성을 강조함으로써 폭넓게 사용되는 AOP에 대한 데 팍토 표준이 되었다. 자바 계열 문법을 사용하며 2001년 초기 출시 이후 [횡단 구조를](https://ko.wikipedia.org/wiki/횡단_관심사 "wikilink") 표시하기 위한 IDE 연동을 포함하였다.
+**AspectJ**는 [PARC](https://ko.wikipedia.org/wiki/PARC "wikilink")에서 개발한 [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink") 프로그래밍 언어용 [관점 지향 프로그래밍](../Page/관점_지향_프로그래밍.md "wikilink") (AOP) 확장 기능이다. [이클립스 재단](../Page/이클립스_재단.md "wikilink") 오픈 소스 프로젝트에서 독립형 또는 [이클립스](https://ko.wikipedia.org/wiki/이클립스 "wikilink")로 통합하여 이용 가능하다. AspectJ는 최종 사용자를 위한 단순함과 이용성을 강조함으로써 폭넓게 사용되는 AOP에 대한 데 팍토 표준이 되었다. 자바 계열 문법을 사용하며 2001년 초기 출시 이후 [횡단 구조를](../Page/횡단_관심사.md "wikilink") 표시하기 위한 IDE 연동을 포함하였다.
 
 ## 단순 언어 설명
 
 유효한 모든 자바 프로그램들은 유효한 AspectJ 프로그램들이기도 하지만 AspectJ는 프로그래머들이 [관점](https://ko.wikipedia.org/wiki/관점_지향_소프트웨어_개발 "wikilink")(aspect)이라 불리는 특수한 생성자를 정의한다. 관점들은 표준 클래스들에 이용할 수 없는 여러 엔티티를 포함할 수 있다. 이들은 다음과 같다:
 
-  - [확장 메소드](https://ko.wikipedia.org/wiki/확장_메소드 "wikilink")(extension method): 프로그래머가 메소드, 필드, 인터페이스를 aspect 내의 기존 클래스들에 추가할 수 있게 한다. 이 예는 `acceptVisitor` ([비지터 패턴](https://ko.wikipedia.org/wiki/비지터_패턴 "wikilink") 참고) 메소드를 `Point` 클래스에 추가한다:
+  - [확장 메소드](https://ko.wikipedia.org/wiki/확장_메소드 "wikilink")(extension method): 프로그래머가 메소드, 필드, 인터페이스를 aspect 내의 기존 클래스들에 추가할 수 있게 한다. 이 예는 `acceptVisitor` ([비지터 패턴](../Page/비지터_패턴.md "wikilink") 참고) 메소드를 `Point` 클래스에 추가한다:
 
 :
 
@@ -41,16 +41,16 @@ after () : set() {
 
 ## 역사 및 기여자
 
-[Gregor Kiczales는](https://ko.wikipedia.org/wiki/Gregor_Kiczales "wikilink") [PARC](https://ko.wikipedia.org/wiki/팰로앨토_연구소 "wikilink") 팀을 시작, 주도하면서 최종적으로 AspectJ를 개발하였다. 그는 크로스커팅(crosscutting), 즉 "횡단"이라는 용어를 만들어냈다. 크리스 마에다(Crhis Maeda)는 관점 지향 프로그래밍(aspect-oriented programming)이라는 용어를 만들어냈다.
+[Gregor Kiczales는](https://ko.wikipedia.org/wiki/Gregor_Kiczales "wikilink") [PARC](../Page/팰로앨토_연구소.md "wikilink") 팀을 시작, 주도하면서 최종적으로 AspectJ를 개발하였다. 그는 크로스커팅(crosscutting), 즉 "횡단"이라는 용어를 만들어냈다. 크리스 마에다(Crhis Maeda)는 관점 지향 프로그래밍(aspect-oriented programming)이라는 용어를 만들어냈다.
 
 ### AspectWerkz
 
-AspectWerkz는 [자바용의](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") 가벼운 동적 고성능 [AOP/AOSD](https://ko.wikipedia.org/wiki/객체_지향_프로그래밍 "wikilink") 프레임워크이다. AspectJ 프로젝트와 병합되었으며 AspectJ 5 이후로 AspectWerkz 기능을 지원한다.
+AspectWerkz는 [자바용의](../Page/자바_\(프로그래밍_언어\).md "wikilink") 가벼운 동적 고성능 [AOP/AOSD](../Page/객체_지향_프로그래밍.md "wikilink") 프레임워크이다. AspectJ 프로젝트와 병합되었으며 AspectJ 5 이후로 AspectWerkz 기능을 지원한다.
 
 ## 같이 보기
 
-  - [관점 지향 프로그래밍](https://ko.wikipedia.org/wiki/관점_지향_프로그래밍 "wikilink")
-  - [스프링 AOP](https://ko.wikipedia.org/wiki/스프링_프레임워크 "wikilink") ([스프링 프레임워크의](https://ko.wikipedia.org/wiki/스프링_프레임워크 "wikilink") 일부)
+  - [관점 지향 프로그래밍](../Page/관점_지향_프로그래밍.md "wikilink")
+  - [스프링 AOP](../Page/스프링_프레임워크.md "wikilink") ([스프링 프레임워크의](../Page/스프링_프레임워크.md "wikilink") 일부)
   - [관점 지향 소프트웨어 개발](https://ko.wikipedia.org/wiki/관점_지향_소프트웨어_개발 "wikilink")
 
 ## 참고문헌

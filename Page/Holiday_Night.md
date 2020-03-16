@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Holiday Night](https://ko.wikipedia.org/wiki/Holiday_Night).
 
 
-《**Holiday Night**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 여섯 번째 한국 정규 음반이다. 2017년 8월 4일과 7일에 걸쳐 공개되었다. 'Holiday'와 'All Night'를 더블 타이틀로 지정하여 앨범 활동을 펼쳤다.
+《**Holiday Night**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 여섯 번째 한국 정규 음반이다. 2017년 8월 4일과 7일에 걸쳐 공개되었다. 'Holiday'와 'All Night'를 더블 타이틀로 지정하여 앨범 활동을 펼쳤다.
 
 ## 개요
 

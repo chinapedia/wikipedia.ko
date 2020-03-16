@@ -1,25 +1,25 @@
 > This article is converted from Wikipedia: [  II  ](https://ko.wikipedia.org/wiki/__II__).
 
 
-[인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")의 [펜티엄 II는](https://ko.wikipedia.org/wiki/펜티엄_II "wikilink") 소비자 시장을 대상으로 하는 6세대 [CPU이다](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink").
+[인텔](../Page/인텔.md "wikilink")의 [펜티엄 II는](../Page/펜티엄_II.md "wikilink") 소비자 시장을 대상으로 하는 6세대 [CPU이다](../Page/중앙_처리_장치.md "wikilink").
 
 ## 데스크톱 프로세서
 
-### ["Klamath"](https://ko.wikipedia.org/wiki/펜티엄_II "wikilink") (350 nm)
+### ["Klamath"](../Page/펜티엄_II.md "wikilink") (350 nm)
 
 {{ Notelist|refs=  }}
 
-### ["Deschutes"](https://ko.wikipedia.org/wiki/펜티엄_II "wikilink") (250 nm)
+### ["Deschutes"](../Page/펜티엄_II.md "wikilink") (250 nm)
 
 ## 모바일 프로세서
 
-### ["Tonga"](https://ko.wikipedia.org/wiki/펜티엄_II "wikilink") (250 nm)
+### ["Tonga"](../Page/펜티엄_II.md "wikilink") (250 nm)
 
-### ["Dixon"](https://ko.wikipedia.org/wiki/펜티엄_II "wikilink") (250 또는 180 nm)
+### ["Dixon"](../Page/펜티엄_II.md "wikilink") (250 또는 180 nm)
 
 ## 같이 보기
 
-  - [인텔 마이크로프로세서 목록](https://ko.wikipedia.org/wiki/인텔_마이크로프로세서_목록 "wikilink")
+  - [인텔 마이크로프로세서 목록](../Page/인텔_마이크로프로세서_목록.md "wikilink")
 
 ## 각주
 

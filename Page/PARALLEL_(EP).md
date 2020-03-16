@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PARALLEL \(EP\)](https://ko.wikipedia.org/wiki/PARALLEL_\(EP\)).
 
 
-《**PARALLEL**》(패럴렐)은 걸그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 5번째 [미니 앨범이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink") [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매되었다. 타이틀곡은 〈[귀를 기울이면](https://ko.wikipedia.org/wiki/귀를_기울이면_\(LOVE_WHISPER\) "wikilink")〉이다.
+《**PARALLEL**》(패럴렐)은 걸그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 5번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink"). [2017년](../Page/2017년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매되었다. 타이틀곡은 〈[귀를 기울이면](../Page/귀를_기울이면_\(LOVE_WHISPER\).md "wikilink")〉이다.
 
 ## 개요
 
@@ -41,7 +41,7 @@
 
 ## 외부 링크
 
-  - [PARALLEL](http://music.naver.com/album/index.nhn?albumId=2117318) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
+  - [PARALLEL](http://music.naver.com/album/index.nhn?albumId=2117318) - [네이버](../Page/네이버.md "wikilink") 뮤직
 
   - [PARALLEL](http://www.melon.com/album/detail.htm?albumId=10084442) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JY 1ST LIVE TOUR \'MANY FACES 2017\'](https://ko.wikipedia.org/wiki/JY_1ST_LIVE_TOUR_\'MANY_FACES_2017\').
 
 
-**[JY](https://ko.wikipedia.org/wiki/강지영 "wikilink")**의 첫번째 솔로 콘서트 이다.
+**[JY](../Page/강지영.md "wikilink")**의 첫번째 솔로 콘서트 이다.
 
 ## 일정
 
@@ -29,7 +29,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017년 5월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄" title="wikilink">도쿄</a></p></td>
+<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
 <td><p>Zepp DiverCity</p></td>
 <td></td>
 </tr>
@@ -38,7 +38,7 @@
 
 ## 블루레이
 
-*' [JY](https://ko.wikipedia.org/wiki/강지영 "wikilink")*'의 라이브 투어 콘서트 실황이 담긴 DVD이다.
+*' [JY](../Page/강지영.md "wikilink")*'의 라이브 투어 콘서트 실황이 담긴 DVD이다.
 
 ### 트랙리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(Lip 2 Lip\)](https://ko.wikipedia.org/wiki/__\(Lip_2_Lip\)).
 
 
-《**입술에 입술**》은 대한민국의 여성 음악 그룹 [나인뮤지스](https://ko.wikipedia.org/wiki/나인뮤지스 "wikilink")의 유닛 그룹 [나인뮤지스A](../Page/나인뮤지스A.md "wikilink")의 데뷔 싱글 《[MUSES DIARY](../Page/MUSES_DIARY.md "wikilink")》의 타이틀 곡이다. 2016년 8월 4일에 발표하였다.
+《**입술에 입술**》은 대한민국의 여성 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 유닛 그룹 [나인뮤지스A](../Page/나인뮤지스A.md "wikilink")의 데뷔 싱글 《[MUSES DIARY](../Page/MUSES_DIARY.md "wikilink")》의 타이틀 곡이다. 2016년 8월 4일에 발표하였다.
 
 ## 평가
 
@@ -9,7 +9,7 @@
 
 ## 차트 성적
 
-음원 부문에서 [가온 디지털 차트](https://ko.wikipedia.org/wiki/가온_디지털_차트 "wikilink") 주간 48위, 월간 79위를 기록하였다.\[2\]\[3\]
+음원 부문에서 [가온 디지털 차트](../Page/가온_디지털_차트.md "wikilink") 주간 48위, 월간 79위를 기록하였다.\[2\]\[3\]
 
 ## 각주
 

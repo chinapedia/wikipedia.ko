@@ -10,7 +10,7 @@
   - 2017년 6월 27일 [G.Soul](../Page/G.Soul.md "wikilink") - **\[Digital Single\] Tequila**
   - 2017년 6월 30일 Sik-K - **\[Digital Single\] 데칼코마니 (Decalcomanie)**\[2\]
   - 2017년 7월 5일 G.Soul - **\[Digital Single\] 술버릇 (Bad Habits)**
-  - 2017년 7월 24일 [그루비룸](https://ko.wikipedia.org/wiki/그루비룸 "wikilink") - **Everywhere**
+  - 2017년 7월 24일 [그루비룸](../Page/그루비룸.md "wikilink") - **Everywhere**
   - 2017년 8월 16일 [Raz Simone](https://ko.wikipedia.org/wiki/Raz_Simone "wikilink") - **\[Digital Single\] Rare**
   - 2017년 9월 7일 G.Soul - **Circles**
   - 2017년 9월 16일 Sik-K, [pH-1](https://ko.wikipedia.org/wiki/pH-1 "wikilink"), Jay Park - **\[Digital Single\] Dingo X H1GHR MUSIC**\[3\]
@@ -108,26 +108,26 @@
 
 1.  최초의 19금 앨범.
 2.  [IMLAY](https://ko.wikipedia.org/wiki/IMLAY "wikilink")도 앨범 참여.
-3.  [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink") 앨범 참여.
+3.  [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](../Page/박재범.md "wikilink") 앨범 참여.
 4.  [넬도](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 앨범 참여.
 5.  Woogie 미니 1집의 선공개곡.
 6.  HAON 미니 1집의 선공개곡.
 7.  [Fazt](https://ko.wikipedia.org/wiki/Fazt "wikilink")도 앨범 참여.
-8.  [Coogie](https://ko.wikipedia.org/wiki/Coogie "wikilink"),[D.Ark](https://ko.wikipedia.org/wiki/D.Ark "wikilink"),[나플라](https://ko.wikipedia.org/wiki/나플라 "wikilink"),[오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink"),[Odee](https://ko.wikipedia.org/wiki/Odee "wikilink"),[차붐](https://ko.wikipedia.org/wiki/차붐_\(래퍼\) "wikilink"),[김효은](https://ko.wikipedia.org/wiki/김효은 "wikilink"),[EK](https://ko.wikipedia.org/wiki/EK_\(래퍼\) "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](https://ko.wikipedia.org/wiki/키드밀리 "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
-9.  [나플라](https://ko.wikipedia.org/wiki/나플라 "wikilink"),[오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink"),[Odee](https://ko.wikipedia.org/wiki/Odee "wikilink"),[EK](https://ko.wikipedia.org/wiki/EK_\(래퍼\) "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](https://ko.wikipedia.org/wiki/키드밀리 "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
-10. [나플라](https://ko.wikipedia.org/wiki/나플라 "wikilink"),[오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](https://ko.wikipedia.org/wiki/키드밀리 "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
+8.  [Coogie](https://ko.wikipedia.org/wiki/Coogie "wikilink"),[D.Ark](https://ko.wikipedia.org/wiki/D.Ark "wikilink"),[나플라](../Page/나플라.md "wikilink"),[오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink"),[Odee](https://ko.wikipedia.org/wiki/Odee "wikilink"),[차붐](https://ko.wikipedia.org/wiki/차붐_\(래퍼\) "wikilink"),[김효은](https://ko.wikipedia.org/wiki/김효은 "wikilink"),[EK](https://ko.wikipedia.org/wiki/EK_\(래퍼\) "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](../Page/키드밀리.md "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
+9.  [나플라](../Page/나플라.md "wikilink"),[오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink"),[Odee](https://ko.wikipedia.org/wiki/Odee "wikilink"),[EK](https://ko.wikipedia.org/wiki/EK_\(래퍼\) "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](../Page/키드밀리.md "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
+10. [나플라](../Page/나플라.md "wikilink"),[오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](../Page/키드밀리.md "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
 11. Sik-K 정규 1집의 선공개 앨범.
-12. [창모](../Page/창모.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[재지팩트](https://ko.wikipedia.org/wiki/재지팩트 "wikilink")의 멤버 [빈지노](https://ko.wikipedia.org/wiki/빈지노 "wikilink")도 앨범 참여.
+12. [창모](../Page/창모.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[재지팩트](../Page/재지팩트.md "wikilink")의 멤버 [빈지노](https://ko.wikipedia.org/wiki/빈지노 "wikilink")도 앨범 참여.
 13. [Zene The Zilla도](https://ko.wikipedia.org/wiki/Zene_The_Zilla "wikilink") 앨범 참여.
 14. [Zene The Zilla도](https://ko.wikipedia.org/wiki/Zene_The_Zilla "wikilink") 다시 앨범 참여.
-15. [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink")도 다시 앨범 참여.
-16. [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink")도 또 다시 앨범 참여.
-17. [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink")도 다시 한번 앨범 참여.
-18. [펀치넬로](https://ko.wikipedia.org/wiki/펀치넬로 "wikilink"),[영비](https://ko.wikipedia.org/wiki/영비 "wikilink"),[Zene The Zilla외](https://ko.wikipedia.org/wiki/Zene_The_Zilla "wikilink") 13명도 앨범 참여.
+15. [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](../Page/박재범.md "wikilink")도 다시 앨범 참여.
+16. [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](../Page/박재범.md "wikilink")도 또 다시 앨범 참여.
+17. [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](../Page/박재범.md "wikilink")도 다시 한번 앨범 참여.
+18. [펀치넬로](../Page/펀치넬로.md "wikilink"),[영비](https://ko.wikipedia.org/wiki/영비 "wikilink"),[Zene The Zilla외](https://ko.wikipedia.org/wiki/Zene_The_Zilla "wikilink") 13명도 앨범 참여.
 19. [Cheeze](https://ko.wikipedia.org/wiki/Cheeze "wikilink")도 앨범 참여.
 20. [Leellamarz](https://ko.wikipedia.org/wiki/Leellamarz "wikilink")도 앨범 참여.
-21. [펀치넬로](https://ko.wikipedia.org/wiki/펀치넬로 "wikilink"),[영비](https://ko.wikipedia.org/wiki/영비 "wikilink"),[Zene The Zilla외](https://ko.wikipedia.org/wiki/Zene_The_Zilla "wikilink") 12명도 앨범 참여.
+21. [펀치넬로](../Page/펀치넬로.md "wikilink"),[영비](https://ko.wikipedia.org/wiki/영비 "wikilink"),[Zene The Zilla외](https://ko.wikipedia.org/wiki/Zene_The_Zilla "wikilink") 12명도 앨범 참여.
 22. [Coogie](https://ko.wikipedia.org/wiki/Coogie "wikilink")도 앨범 참여.
 23. [마마무](../Page/마마무.md "wikilink")의 멤버 [화사](../Page/화사.md "wikilink")도 앨범 참여.
 24. [기린](../Page/기린_\(가수\).md "wikilink"),[Sogumm](https://ko.wikipedia.org/wiki/Sogumm "wikilink"),[Meloh](https://ko.wikipedia.org/wiki/Meloh "wikilink"),[오사마리](https://ko.wikipedia.org/wiki/오사마리 "wikilink")도 앨범 참여.
-25. [권진아](https://ko.wikipedia.org/wiki/권진아 "wikilink"),[EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 멤버 [솔지](../Page/솔지.md "wikilink")도 앨범 참여.
+25. [권진아](https://ko.wikipedia.org/wiki/권진아 "wikilink"),[EXID](../Page/EXID.md "wikilink")의 멤버 [솔지](../Page/솔지.md "wikilink")도 앨범 참여.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Remedy Take 2](https://ko.wikipedia.org/wiki/Remedy_Take_2).
 
 
-《**Remedy Take 2**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [문현아](https://ko.wikipedia.org/wiki/문현아 "wikilink")의 세 번째 디지털 싱글이다. 2017년 7월 18일에 발매되었다. 타이틀곡은 \<Remedy Take 2 (Dream House)\>이다.
+《**Remedy Take 2**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [문현아](../Page/문현아.md "wikilink")의 세 번째 디지털 싱글이다. 2017년 7월 18일에 발매되었다. 타이틀곡은 \<Remedy Take 2 (Dream House)\>이다.
 
 ## 트랙리스트
 

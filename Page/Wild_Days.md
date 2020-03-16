@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Wild Days](https://ko.wikipedia.org/wiki/Wild_Days).
 
 
-《**Wild Days**》(와일드 데이즈)는 [갤럭시 익스프레스의](https://ko.wikipedia.org/wiki/갤럭시_익스프레스 "wikilink") 2번째 정규 음반이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 4일에](https://ko.wikipedia.org/wiki/5월_4일 "wikilink") 미러볼뮤직을 통해 발매되었다.
+《**Wild Days**》(와일드 데이즈)는 [갤럭시 익스프레스의](https://ko.wikipedia.org/wiki/갤럭시_익스프레스 "wikilink") 2번째 정규 음반이다. [2010년](../Page/2010년.md "wikilink") [5월 4일에](../Page/5월_4일.md "wikilink") 미러볼뮤직을 통해 발매되었다.
 
 ## 수록곡
 

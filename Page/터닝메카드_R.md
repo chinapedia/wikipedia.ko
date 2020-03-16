@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [ R](https://ko.wikipedia.org/wiki/_R).
 
 
-《**터닝메카드 R**》은 장난감 [터닝메카드](../Page/터닝메카드.md "wikilink")를 소재로 하여, [초이락컨텐츠팩토리](https://ko.wikipedia.org/wiki/초이락컨텐츠팩토리 "wikilink")와 희원엔터테인먼트에서 제작하고 [KBS 2TV에서](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 방송하는 [메카](https://ko.wikipedia.org/wiki/메카_\(장르\) "wikilink") [어드벤처](https://ko.wikipedia.org/wiki/모험 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")이다. R은 Reboot의 약칭으로, 시리즈 최초로 [3D 애니메이션으로](https://ko.wikipedia.org/wiki/3D_애니메이션 "wikilink") 제작되고 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 14일부터](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월 5일까지](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") 방영했다.
+《**터닝메카드 R**》은 장난감 [터닝메카드](../Page/터닝메카드.md "wikilink")를 소재로 하여, [초이락컨텐츠팩토리](../Page/초이락컨텐츠팩토리.md "wikilink")와 희원엔터테인먼트에서 제작하고 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송하는 [메카](https://ko.wikipedia.org/wiki/메카_\(장르\) "wikilink") [어드벤처](https://ko.wikipedia.org/wiki/모험 "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")이다. R은 Reboot의 약칭으로, 시리즈 최초로 [3D 애니메이션으로](https://ko.wikipedia.org/wiki/3D_애니메이션 "wikilink") 제작되고 [2017년](../Page/2017년.md "wikilink") [9월 14일부터](../Page/9월_14일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [4월 5일까지](../Page/4월_5일.md "wikilink") 방영했다.
 
 ## 방송
 
-| 채널                                                          | 기간                                                                                                                                                                                                                                   | 시간                                                                              |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [9월 14일](https://ko.wikipedia.org/wiki/9월_14일 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") | 매주 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 오후 5:15 \~ 오후 5:30 (15분) |
-|                                                             |                                                                                                                                                                                                                                      |                                                                                 |
+| 채널                                       | 기간                                                                                                                                                       | 시간                                                           |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink") | [2017년](../Page/2017년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") | 매주 [목요일](../Page/목요일.md "wikilink") 오후 5:15 \~ 오후 5:30 (15분) |
+|                                          |                                                                                                                                                          |                                                              |
 
 ## 등장인물
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [C. J. ](https://ko.wikipedia.org/wiki/C._J._).
 
 
-**C. J. 체리**(, [1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ )는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 SF [SF 사변](https://ko.wikipedia.org/wiki/사변물 "wikilink") [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 본명은 **캐럴린 재니스 체리**(Carolyn Janice Cherry)로 'C. J. 체리'는 남자 작가처럼 보이기 위해 쓴 [필명](https://ko.wikipedia.org/wiki/필명 "wikilink")이다. [휴고상](https://ko.wikipedia.org/wiki/휴고상 "wikilink") 수상 작품 《하강역 *Downbelow Station*》(1981)과 《사이틴 *Cyteen*》(1988)로 유명하며, 이 두 작품을 포함한 '동맹-연합 유니버스' 작품군이 그녀의 대표 소설 시리즈이다. 그리고 그 밖의 수많은 작품들을 남겼다. 그녀의 [이름을 딴 소행성](https://ko.wikipedia.org/wiki/사람의_이름을_딴_소행성_목록 "wikilink") [77185 체리가](https://ko.wikipedia.org/wiki/77185_체리 "wikilink") 있다.
+**C. J. 체리**(, [1942년](../Page/1942년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 SF [SF 사변](../Page/사변물.md "wikilink") [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 본명은 **캐럴린 재니스 체리**(Carolyn Janice Cherry)로 'C. J. 체리'는 남자 작가처럼 보이기 위해 쓴 [필명](https://ko.wikipedia.org/wiki/필명 "wikilink")이다. [휴고상](https://ko.wikipedia.org/wiki/휴고상 "wikilink") 수상 작품 《하강역 *Downbelow Station*》(1981)과 《사이틴 *Cyteen*》(1988)로 유명하며, 이 두 작품을 포함한 '동맹-연합 유니버스' 작품군이 그녀의 대표 소설 시리즈이다. 그리고 그 밖의 수많은 작품들을 남겼다. 그녀의 [이름을 딴 소행성](https://ko.wikipedia.org/wiki/사람의_이름을_딴_소행성_목록 "wikilink") [77185 체리가](https://ko.wikipedia.org/wiki/77185_체리 "wikilink") 있다.
 
 ## 외부 링크
 

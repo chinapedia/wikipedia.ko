@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Xmanager](https://ko.wikipedia.org/wiki/Xmanager).
 
 
-**Xmanager**는 [(주)넷사랑컴퓨터에서](https://ko.wikipedia.org/wiki/넷사랑컴퓨터 "wikilink") 개발한 윈도우 응용프로그램이다. X 응용프로그램을 윈도우 환경에서 사용할 수 있도록 하는 PC X 서버 소프트웨어로 원격 유닉스/리눅스에 설치된 X 응용프로그램을 로컬의 윈도우 응용프로그램들처럼 사용할 수 있다.
+**Xmanager**는 [(주)넷사랑컴퓨터에서](../Page/넷사랑컴퓨터.md "wikilink") 개발한 윈도우 응용프로그램이다. X 응용프로그램을 윈도우 환경에서 사용할 수 있도록 하는 PC X 서버 소프트웨어로 원격 유닉스/리눅스에 설치된 X 응용프로그램을 로컬의 윈도우 응용프로그램들처럼 사용할 수 있다.
 
 ## 역사
 
@@ -36,14 +36,14 @@ Xmanager 최신 버전 기준 주요 기능은 다음과 같다.\[5\]
   - 단일 윈도우 및 다중 윈도우 선택
   - [Xshell](../Page/Xshell.md "wikilink")과 [Xftp](../Page/Xftp.md "wikilink")와의 상호 연동
   - 호스트 키 및 사용자 키 관리
-  - [IPv6](https://ko.wikipedia.org/wiki/IPv6 "wikilink") 지원
+  - [IPv6](../Page/IPv6.md "wikilink") 지원
   - 호스트 액세스 제어
   - GUI 키보드 편집기
   - 주소 창을 이용한 즉석 연결
 
 ## 보안
 
-  - [공개 키 암호 방식](https://ko.wikipedia.org/wiki/공개_키_암호_방식 "wikilink")
+  - [공개 키 암호 방식](../Page/공개_키_암호_방식.md "wikilink")
   - 호스트별 액세스 제어
   - SSH 보안 터널을 이용한 [XDMCP](https://ko.wikipedia.org/wiki/XDMCP "wikilink") 접속
   - SSH [PKCS\#11](https://ko.wikipedia.org/wiki/PKCS#11 "wikilink") 인증

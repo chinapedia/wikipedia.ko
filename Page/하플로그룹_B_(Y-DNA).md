@@ -5,21 +5,21 @@
 
 ## 분포
 
-[아프리카](https://ko.wikipedia.org/wiki/아프리카 "wikilink"), 그 중에도 특히 서부·중앙 아프리카에 많이 분포해 있다.
+[아프리카](../Page/아프리카.md "wikilink"), 그 중에도 특히 서부·중앙 아프리카에 많이 분포해 있다.
 
-  - [바카족](https://ko.wikipedia.org/wiki/바카족 "wikilink")(Baka People) 63% ([가봉](https://ko.wikipedia.org/wiki/가봉 "wikilink") & [카메룬](https://ko.wikipedia.org/wiki/카메룬 "wikilink")).\[1\] - 72% ([중앙 아프리카 공화국](https://ko.wikipedia.org/wiki/중앙_아프리카_공화국 "wikilink"))\[2\]
-
-<!-- end list -->
-
-  - [하자족](https://ko.wikipedia.org/wiki/하자족 "wikilink")(Hadza People) ([탄자니아](https://ko.wikipedia.org/wiki/탄자니아 "wikilink")) 52%\[3\]-60%,\[4\]
+  - [바카족](https://ko.wikipedia.org/wiki/바카족 "wikilink")(Baka People) 63% ([가봉](../Page/가봉.md "wikilink") & [카메룬](../Page/카메룬.md "wikilink")).\[1\] - 72% ([중앙 아프리카 공화국](https://ko.wikipedia.org/wiki/중앙_아프리카_공화국 "wikilink"))\[2\]
 
 <!-- end list -->
 
-  - [누에르인](https://ko.wikipedia.org/wiki/누에르인 "wikilink")(Nuer People) ([남수단](https://ko.wikipedia.org/wiki/남수단 "wikilink")) 50%\[5\]
+  - [하자족](https://ko.wikipedia.org/wiki/하자족 "wikilink")(Hadza People) ([탄자니아](../Page/탄자니아.md "wikilink")) 52%\[3\]-60%,\[4\]
 
 <!-- end list -->
 
-  - [음부티족](https://ko.wikipedia.org/wiki/음부티족 "wikilink")(Mbuti People) ([콩고 민주 공화국](https://ko.wikipedia.org/wiki/콩고_민주_공화국 "wikilink")) 33%\[6\]-60%,\[7\]
+  - [누에르인](https://ko.wikipedia.org/wiki/누에르인 "wikilink")(Nuer People) ([남수단](../Page/남수단.md "wikilink")) 50%\[5\]
+
+<!-- end list -->
+
+  - [음부티족](https://ko.wikipedia.org/wiki/음부티족 "wikilink")(Mbuti People) ([콩고 민주 공화국](../Page/콩고_민주_공화국.md "wikilink")) 33%\[6\]-60%,\[7\]
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - [춤크웨 산](https://ko.wikipedia.org/wiki/춤크웨_산 "wikilink")(Tsumkwe San) ([나미비아](https://ko.wikipedia.org/wiki/나미비아 "wikilink")) 31%\[10\]
+  - [춤크웨 산](https://ko.wikipedia.org/wiki/춤크웨_산 "wikilink")(Tsumkwe San) ([나미비아](../Page/나미비아.md "wikilink")) 31%\[10\]
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - [줄루족](https://ko.wikipedia.org/wiki/줄루족 "wikilink") (남아프리카) 17%\[19\]
+  - [줄루족](../Page/줄루족.md "wikilink") (남아프리카) 17%\[19\]
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
 
 <!-- end list -->
 
-  - [수단](https://ko.wikipedia.org/wiki/수단 "wikilink") 15%
+  - [수단](../Page/수단.md "wikilink") 15%
 
 <!-- end list -->
 
@@ -95,11 +95,11 @@
 
 <!-- end list -->
 
-  - [말리](https://ko.wikipedia.org/wiki/말리 "wikilink") 11%
+  - [말리](../Page/말리.md "wikilink") 11%
 
 <!-- end list -->
 
-  - [에티오피아](https://ko.wikipedia.org/wiki/에티오피아 "wikilink") 10%
+  - [에티오피아](../Page/에티오피아.md "wikilink") 10%
 
 ## 계통수
 

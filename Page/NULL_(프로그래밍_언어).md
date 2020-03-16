@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NULL \( \)](https://ko.wikipedia.org/wiki/NULL_\(_\)).
 
 
-**NULL**은 0차원의 [난해한 프로그래밍 언어이다](https://ko.wikipedia.org/wiki/난해한_프로그래밍_언어 "wikilink"). 하나의 양의 정수를 [소인수분해](https://ko.wikipedia.org/wiki/소인수분해 "wikilink")하여 명령을 만들어낸다.
+**NULL**은 0차원의 [난해한 프로그래밍 언어이다](../Page/난해한_프로그래밍_언어.md "wikilink"). 하나의 양의 정수를 [소인수분해](../Page/소인수분해.md "wikilink")하여 명령을 만들어낸다.
 
 ## 런타임 환경
 

@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [ Lx](https://ko.wikipedia.org/wiki/_Lx).
 
 
-**오픈맨드리바 Lx**()는 오픈맨드리바 협회 및 쿠커 그룹에서 개발한 컴퓨터 [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink").
+**오픈맨드리바 Lx**()는 오픈맨드리바 협회 및 쿠커 그룹에서 개발한 컴퓨터 [운영 체제이다](../Page/운영_체제.md "wikilink").
 
 ## 기원과 배포판
 
-오픈맨드리바 Lx는 커뮤니티 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 배포판이다. 이 오픈맨드리바 프로젝트는 2012년 5월에 만들어졌으며 이 당시 [맨드리바 S.A.는](https://ko.wikipedia.org/wiki/맨드리바 "wikilink") 소비자용 제품의 개발을 맨드리바 커뮤니티에 전가함으로써 파산을 면하였다.\[1\] 최초의 안정판(OpenMandriva Lx 2013 "Oxygen")은 2013년 말에 출시되었다.\[2\]\[3\]
+오픈맨드리바 Lx는 커뮤니티 [리눅스](../Page/리눅스.md "wikilink") 배포판이다. 이 오픈맨드리바 프로젝트는 2012년 5월에 만들어졌으며 이 당시 [맨드리바 S.A.는](../Page/맨드리바.md "wikilink") 소비자용 제품의 개발을 맨드리바 커뮤니티에 전가함으로써 파산을 면하였다.\[1\] 최초의 안정판(OpenMandriva Lx 2013 "Oxygen")은 2013년 말에 출시되었다.\[2\]\[3\]
 
 ## 오픈맨드리바 협회
 
-오픈맨드리바 협회는 191 프랑스 법에 의거하여 2012년 12월 12일 설립되었다. [자유 소프트웨어에](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") 대한 열정을 가진 전 세계 공동체인 오픈맨드리바 커뮤니티를 감독하며 자유 코드와 협업 콘텐츠의 제작에 대한 리더십을 부여한다. OpenMandriva Lx를 포함하여 자유 소프트웨어 프로젝트를 관리한다.
+오픈맨드리바 협회는 191 프랑스 법에 의거하여 2012년 12월 12일 설립되었다. [자유 소프트웨어에](../Page/자유_소프트웨어.md "wikilink") 대한 열정을 가진 전 세계 공동체인 오픈맨드리바 커뮤니티를 감독하며 자유 코드와 협업 콘텐츠의 제작에 대한 리더십을 부여한다. OpenMandriva Lx를 포함하여 자유 소프트웨어 프로젝트를 관리한다.
 
 ## 버전
 
 2013년 말에 최초 버전의 OpenMandriva Lx가 출시되었다. 맨드리바 리눅스 2011에 기반을 두었는데 이는 [ROSA 리눅스와](https://ko.wikipedia.org/wiki/ROSA_리눅스 "wikilink") 맨드리바 SA를 혼합한 것이다.\[4\]\[5\]\[6\]\[7\]
 
-OpenMandriva Lx 2014 "Phosphorus"는 2014년 5월에 출시되었다.\[8\]\[9\]\[10\]\[11\] 이 릴리스는 초기 [맨드리바 리눅스](https://ko.wikipedia.org/wiki/맨드리바_리눅스 "wikilink") 배포판의 설립자들 중 한 명인 Gael Duval에게서 매우 긍정적인 평가를 받았다.\[12\]
+OpenMandriva Lx 2014 "Phosphorus"는 2014년 5월에 출시되었다.\[8\]\[9\]\[10\]\[11\] 이 릴리스는 초기 [맨드리바 리눅스](../Page/맨드리바_리눅스.md "wikilink") 배포판의 설립자들 중 한 명인 Gael Duval에게서 매우 긍정적인 평가를 받았다.\[12\]
 
 최신 안정판은 OpenMandriva Lx 2014.2 코드명 "The Scion"이며, 2014.1의 버그픽스 릴리스이다. 2015년 6월 28일에 출시되었다.\[13\]\[14\]\[15\]\[16\]\[17\]
 
@@ -99,7 +99,7 @@ OpenMandriva Lx 3.02는 2017년 6월에 출시되었다.\[21\]
 ## 같이 보기
 
   - [마제야](../Page/마제야.md "wikilink")
-  - [PCLinuxOS](https://ko.wikipedia.org/wiki/PCLinuxOS "wikilink")
+  - [PCLinuxOS](../Page/PCLinuxOS.md "wikilink")
 
 ## 각주
 

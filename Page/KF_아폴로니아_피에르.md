@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KF  ](https://ko.wikipedia.org/wiki/KF__).
 
 
-**KF 아폴로니아 피에르**()는 [피에르를](https://ko.wikipedia.org/wiki/피에르_\(알바니아\) "wikilink") 연고로 하는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 알바니아의 2부 축구 리그인 [알바니아 퍼스트디비전에](https://ko.wikipedia.org/wiki/알바니아_퍼스트디비전 "wikilink") 참가하고 있다.
+**KF 아폴로니아 피에르**()는 [피에르를](https://ko.wikipedia.org/wiki/피에르_\(알바니아\) "wikilink") 연고로 하는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 알바니아의 2부 축구 리그인 [알바니아 퍼스트디비전에](https://ko.wikipedia.org/wiki/알바니아_퍼스트디비전 "wikilink") 참가하고 있다.
 
 ## 성적
 

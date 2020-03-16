@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [RE:MINE](https://ko.wikipedia.org/wiki/RE:MINE).
 
 
-**RE:MINE**은 대한민국의 음악 그룹 [나인뮤지스](https://ko.wikipedia.org/wiki/나인뮤지스 "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+**RE:MINE**은 대한민국의 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
-[6월 13일](https://ko.wikipedia.org/wiki/6월_13일 "wikilink") 나인뮤지스는 두 번째 단독 콘서트 《[RE:MINE](https://ko.wikipedia.org/wiki/RE:MINE "wikilink")》의 포스터와 개최 소식을 공개하였다.\[1\] 콘서트 《[RE:MINE](https://ko.wikipedia.org/wiki/RE:MINE "wikilink")》은 [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") [인터파크](https://ko.wikipedia.org/wiki/인터파크 "wikilink")를 통해 팬클럽 마인을 대상으로 한 선예매를 진행하였으며, [7월 3일](https://ko.wikipedia.org/wiki/7월_3일 "wikilink") 오후 8시 일반 예매를 진행하였다.\[2\]
+[6월 13일](../Page/6월_13일.md "wikilink") 나인뮤지스는 두 번째 단독 콘서트 《[RE:MINE](../Page/RE:MINE.md "wikilink")》의 포스터와 개최 소식을 공개하였다.\[1\] 콘서트 《[RE:MINE](../Page/RE:MINE.md "wikilink")》은 [6월 30일](../Page/6월_30일.md "wikilink") [인터파크](../Page/인터파크.md "wikilink")를 통해 팬클럽 마인을 대상으로 한 선예매를 진행하였으며, [7월 3일](../Page/7월_3일.md "wikilink") 오후 8시 일반 예매를 진행하였다.\[2\]
 
 ## 투어 일정
 
@@ -21,7 +21,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/7월_29일" title="wikilink">7월 29일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/7월_29일.md" title="wikilink">7월 29일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p>블루스퀘어 삼성카드홀</p></td>
