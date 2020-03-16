@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Octoparse](https://ko.wikipedia.org/wiki/Octoparse).
 
 
-**Octoparse**는 [웹 사이트에서](https://ko.wikipedia.org/wiki/웹_사이트 "wikilink") 정보를 추출하기 위해 [.NET](https://ko.wikipedia.org/wiki/.NET "wikilink")으로 작성된 클라이언트 측 소프트웨어이다. 웹 사이트에서 데이터를 수집하여 [데이터베이스](https://ko.wikipedia.org/wiki/데이터베이스 "wikilink")나 다른 문서 형식으로 정렬 할 수 있다.
+**Octoparse**는 [웹 사이트에서](https://ko.wikipedia.org/wiki/웹_사이트 "wikilink") 정보를 추출하기 위해 [.NET](https://ko.wikipedia.org/wiki/.NET "wikilink")으로 작성된 클라이언트 측 소프트웨어이다. 웹 사이트에서 데이터를 수집하여 [데이터베이스](../Page/데이터베이스.md "wikilink")나 다른 문서 형식으로 정렬 할 수 있다.
 
 ## 역사
 

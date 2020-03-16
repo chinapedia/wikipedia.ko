@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gimme Shelter](https://ko.wikipedia.org/wiki/Gimme_Shelter).
 
 
-〈**Gimme Shelter**〉은 [롤링 스톤스가](https://ko.wikipedia.org/wiki/롤링_스톤스 "wikilink") 1969년 《[Let It Bleed](../Page/Let_It_Bleed.md "wikilink")》에 들어간 수록곡이다. 비록 첫 번째 단어가 그 음반에서 "Gimmie"라는 이름으로 쓰여졌지만, 그 후 밴드와 다른 음악가들의 녹음은 "Gimme"를 관습적인 철자로 만들었다. 발매 당시 《[롤링 스톤](https://ko.wikipedia.org/wiki/롤링_스톤 "wikilink")》에 기고하고 있는 [그라일 마커스는](https://ko.wikipedia.org/wiki/그라일_마커스 "wikilink") 이 곡을 칭찬하면서 이 밴드가 "더 나은 것은 없었다"고 말했다.
+〈**Gimme Shelter**〉은 [롤링 스톤스가](../Page/롤링_스톤스.md "wikilink") 1969년 《[Let It Bleed](../Page/Let_It_Bleed.md "wikilink")》에 들어간 수록곡이다. 비록 첫 번째 단어가 그 음반에서 "Gimmie"라는 이름으로 쓰여졌지만, 그 후 밴드와 다른 음악가들의 녹음은 "Gimme"를 관습적인 철자로 만들었다. 발매 당시 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》에 기고하고 있는 [그라일 마커스는](https://ko.wikipedia.org/wiki/그라일_마커스 "wikilink") 이 곡을 칭찬하면서 이 밴드가 "더 나은 것은 없었다"고 말했다.
 
 녹음기는 리처즈가 일렉트릭 기타에 오픈 튜닝을 하는 모습을 담고 있다. 이 음반에는 [메리 클레이턴의](https://ko.wikipedia.org/wiki/메리_클레이턴 "wikilink") 보컬도 참여 했다. [리사 피셔는](https://ko.wikipedia.org/wiki/리사_피셔 "wikilink") 콘서트에서 이 노래를 부르기 위해 채용되었다.
 
@@ -9,10 +9,10 @@
 
 **롤링 스톤스**
 
-  - [믹 재거](https://ko.wikipedia.org/wiki/믹_재거 "wikilink") – 리드 보컬, 하모니카
-  - [키스 리처즈](https://ko.wikipedia.org/wiki/키스_리처즈 "wikilink") – 기타, 백 보컬
-  - [빌 와이먼](https://ko.wikipedia.org/wiki/빌_와이먼 "wikilink") – 베이스
-  - [찰리 와츠](https://ko.wikipedia.org/wiki/찰리_와츠 "wikilink") – 드럼
+  - [믹 재거](../Page/믹_재거.md "wikilink") – 리드 보컬, 하모니카
+  - [키스 리처즈](../Page/키스_리처즈.md "wikilink") – 기타, 백 보컬
+  - [빌 와이먼](../Page/빌_와이먼.md "wikilink") – 베이스
+  - [찰리 와츠](../Page/찰리_와츠.md "wikilink") – 드럼
 
 **참여한 음악가**
 

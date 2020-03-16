@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YOLO \(\)](https://ko.wikipedia.org/wiki/YOLO_\(\)).
 
 
-《**YOLO**》(욜로)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [다이아의](../Page/다이아_\(음악_그룹\).md "wikilink") 두 번째 정규 음반이다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 19일에](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") 로엔엔터테인먼트를 통해 발매되었다.
+《**YOLO**》(욜로)는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [다이아의](../Page/다이아_\(음악_그룹\).md "wikilink") 두 번째 정규 음반이다. [2017년](../Page/2017년.md "wikilink") [4월 19일에](../Page/4월_19일.md "wikilink") 로엔엔터테인먼트를 통해 발매되었다.
 
 ## 개요
 

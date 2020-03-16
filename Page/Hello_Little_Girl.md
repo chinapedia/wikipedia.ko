@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Hello Little Girl](https://ko.wikipedia.org/wiki/Hello_Little_Girl).
 
 
-〈**Hello Little Girl**〉는 [레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink") 명의로서 [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 처음 지은 곡이다. 레논의 구술에 의하면 자신의 모친이 불러주신 "30년대 또는 40년대 노래"에서 영감을 얻었다고 한다. 1957년 작곡되었으며 1962년 [비틀즈의 데카 오디션에서](https://ko.wikipedia.org/wiki/비틀즈의_데카_오디션 "wikilink") 불렸던 곡 가운데 하나이다. [스튜어트 섯클리프가](https://ko.wikipedia.org/wiki/스튜어트_섯클리프 "wikilink") 베이스를 연주한 홈 데모가 존재하는데, 부틀렉으로만 공개됐다.\[1\]
+〈**Hello Little Girl**〉는 [레논-매카트니](../Page/레논-매카트니.md "wikilink") 명의로서 [존 레논이](../Page/존_레논.md "wikilink") 처음 지은 곡이다. 레논의 구술에 의하면 자신의 모친이 불러주신 "30년대 또는 40년대 노래"에서 영감을 얻었다고 한다. 1957년 작곡되었으며 1962년 [비틀즈의 데카 오디션에서](https://ko.wikipedia.org/wiki/비틀즈의_데카_오디션 "wikilink") 불렸던 곡 가운데 하나이다. [스튜어트 섯클리프가](../Page/스튜어트_섯클리프.md "wikilink") 베이스를 연주한 홈 데모가 존재하는데, 부틀렉으로만 공개됐다.\[1\]
 
-1963년 영국계 [머지비트](https://ko.wikipedia.org/wiki/머지비트 "wikilink") 밴드 [더 포모스트가](https://ko.wikipedia.org/wiki/더_포모스트 "wikilink") [조지 마틴을](https://ko.wikipedia.org/wiki/조지_마틴 "wikilink") 프로듀서로 [애비 로드 스튜디오에서](https://ko.wikipedia.org/wiki/애비_로드_스튜디오 "wikilink") 녹음, 자신들의 데뷔 싱글로서 출시했다. 2주 뒤에는 [게리 앤 더 페이스메이커가](https://ko.wikipedia.org/wiki/게리_앤_더_페이스메이커 "wikilink") 뒤따라 커버했지만, 발매되기로 선정된 것은 더 포모스트의 것으로 영국에서 9위까지 도달했다.\[2\] 《[Anthology 1](https://ko.wikipedia.org/wiki/Anthology_1 "wikilink")》 수록 버전은 섯클리프가 참여한 전 버전과 상이하고 존 레논이 리드 보컬에 임했다. 더 포모스트의 버전은 《[The Songs Lennon and McCartney Gave Away](https://ko.wikipedia.org/wiki/The_Songs_Lennon_and_McCartney_Gave_Away "wikilink")》에 취입되기도 했다.
+1963년 영국계 [머지비트](https://ko.wikipedia.org/wiki/머지비트 "wikilink") 밴드 [더 포모스트가](https://ko.wikipedia.org/wiki/더_포모스트 "wikilink") [조지 마틴을](../Page/조지_마틴.md "wikilink") 프로듀서로 [애비 로드 스튜디오에서](../Page/애비_로드_스튜디오.md "wikilink") 녹음, 자신들의 데뷔 싱글로서 출시했다. 2주 뒤에는 [게리 앤 더 페이스메이커가](https://ko.wikipedia.org/wiki/게리_앤_더_페이스메이커 "wikilink") 뒤따라 커버했지만, 발매되기로 선정된 것은 더 포모스트의 것으로 영국에서 9위까지 도달했다.\[2\] 《[Anthology 1](https://ko.wikipedia.org/wiki/Anthology_1 "wikilink")》 수록 버전은 섯클리프가 참여한 전 버전과 상이하고 존 레논이 리드 보컬에 임했다. 더 포모스트의 버전은 《[The Songs Lennon and McCartney Gave Away](../Page/The_Songs_Lennon_and_McCartney_Gave_Away.md "wikilink")》에 취입되기도 했다.
 
 2010년 전기영화 《[노웨어 보이](https://ko.wikipedia.org/wiki/노웨어_보이 "wikilink")》에서는 오픈릴식 녹음기가 작동되는 와중에 레논이 매카트니에게 불러주는 씬에 삽입됐다.
 

@@ -1,20 +1,20 @@
 > This article is converted from Wikipedia: [KAGAJO4S](https://ko.wikipedia.org/wiki/KAGAJO4S).
 
 
-**카가죠☆4S**(KAGAJO☆4S)는 [스타더스트 프로모션에](https://ko.wikipedia.org/wiki/스타더스트_프로모션 "wikilink") 소속된 일본의 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 약칭은 **카가죠**()다.
+**카가죠☆4S**(KAGAJO☆4S)는 [스타더스트 프로모션에](../Page/스타더스트_프로모션.md "wikilink") 소속된 일본의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 약칭은 **카가죠**()다.
 
 ## 개요
 
-스타더스트 프로모션에서 당초는 케이블 텔레비전의 [J-COM](https://ko.wikipedia.org/wiki/J-COM "wikilink") 채널과 제휴해, [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink")을 기점해 아이돌 그룹로서, 2012년 10월 7일에 결성하였다.
+스타더스트 프로모션에서 당초는 케이블 텔레비전의 [J-COM](https://ko.wikipedia.org/wiki/J-COM "wikilink") 채널과 제휴해, [가나가와현](../Page/가나가와현.md "wikilink")을 기점해 아이돌 그룹로서, 2012년 10월 7일에 결성하였다.
 
 그룹의 캐치 카피는 "스타더스트 최후의 낙원". 2013년 12월 28일의 AKIBA 컬쳐스 극장에서 행해진 이벤트에서 2014년 2월 1일에 해산하는 것을 발표.
 
 ## 구성원
 
-  - [오쿠자와 레이나](https://ko.wikipedia.org/wiki/오쿠자와_레이나 "wikilink") (, ), [가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink") 출신 - 최연장자, 전 [3B junior](../Page/3B_junior.md "wikilink") / 전 [오쿠사와무라](https://ko.wikipedia.org/wiki/오쿠사와무라 "wikilink") 멤버
-  - [오다기리 시오리](https://ko.wikipedia.org/wiki/오다기리_시오리 "wikilink") (, ), [이바라키현](https://ko.wikipedia.org/wiki/이바라키현 "wikilink") 출신 - 연예계 은퇴.
-  - [후지모토 아미](https://ko.wikipedia.org/wiki/후지모토_아미 "wikilink") (, ), [시즈오카현](https://ko.wikipedia.org/wiki/시즈오카현 "wikilink") 출신 - 현재는 여배우로 활동.
-  - [우치야마 아미](https://ko.wikipedia.org/wiki/우치야마_아미 "wikilink") (, ), [도쿄도](https://ko.wikipedia.org/wiki/도쿄도 "wikilink") 출신 - 최연소, 전 [록카 자포니카](../Page/록카_자포니카.md "wikilink") / 전 [3B junior](../Page/3B_junior.md "wikilink") 멤버
+  - [오쿠자와 레이나](https://ko.wikipedia.org/wiki/오쿠자와_레이나 "wikilink") (, ), [가나가와현](../Page/가나가와현.md "wikilink") 출신 - 최연장자, 전 [3B junior](../Page/3B_junior.md "wikilink") / 전 [오쿠사와무라](https://ko.wikipedia.org/wiki/오쿠사와무라 "wikilink") 멤버
+  - [오다기리 시오리](https://ko.wikipedia.org/wiki/오다기리_시오리 "wikilink") (, ), [이바라키현](../Page/이바라키현.md "wikilink") 출신 - 연예계 은퇴.
+  - [후지모토 아미](https://ko.wikipedia.org/wiki/후지모토_아미 "wikilink") (, ), [시즈오카현](../Page/시즈오카현.md "wikilink") 출신 - 현재는 여배우로 활동.
+  - [우치야마 아미](https://ko.wikipedia.org/wiki/우치야마_아미 "wikilink") (, ), [도쿄도](../Page/도쿄도.md "wikilink") 출신 - 최연소, 전 [록카 자포니카](../Page/록카_자포니카.md "wikilink") / 전 [3B junior](../Page/3B_junior.md "wikilink") 멤버
 
 ### 전 구성원
 
@@ -39,7 +39,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>헤엄쳐! 시라스쨩</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/7월_21일" title="wikilink">7월 21일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/7월_21일.md" title="wikilink">7월 21일</a></p></td>
 <td><p>13<br />
 <small>(데일리)</small></p></td>
 </tr>
@@ -47,7 +47,7 @@
 <td><p>2</p></td>
 <td></td>
 <td><p>매일이 크리스마스</p></td>
-<td><p>2013년 <a href="https://ko.wikipedia.org/wiki/12월_7일" title="wikilink">12월 7일</a></p></td>
+<td><p>2013년 <a href="../Page/12월_7일.md" title="wikilink">12월 7일</a></p></td>
 <td><p>45<br />
 13<br />
 <small>(데일리)</small></p></td>

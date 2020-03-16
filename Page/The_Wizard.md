@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Wizard](https://ko.wikipedia.org/wiki/The_Wizard).
 
 
-[SM TOWN의](https://ko.wikipedia.org/wiki/SM_TOWN "wikilink") 가수별 합동 릴레이 박람회 콘서트 〈[SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink")〉의 일환으로 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 단독 콘서트 테마이다.\[1\]
+[SM TOWN의](../Page/SM_TOWN.md "wikilink") 가수별 합동 릴레이 박람회 콘서트 〈[SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink")〉의 일환으로 [샤이니](../Page/샤이니.md "wikilink")의 단독 콘서트 테마이다.\[1\]
 
 ## 일정
 
@@ -30,10 +30,10 @@
 
 ## 제작
 
-  - [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink") ([온유](https://ko.wikipedia.org/wiki/온유 "wikilink"), [종현](https://ko.wikipedia.org/wiki/종현 "wikilink"), [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](https://ko.wikipedia.org/wiki/민호 "wikilink"), [태민](https://ko.wikipedia.org/wiki/태민 "wikilink"))
+  - [샤이니](../Page/샤이니.md "wikilink") ([온유](../Page/온유.md "wikilink"), [종현](../Page/종현.md "wikilink"), [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](../Page/민호.md "wikilink"), [태민](../Page/태민.md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [G마켓](https://ko.wikipedia.org/wiki/G마켓 "wikilink"), [지니](../Page/지니_\(웹사이트\).md "wikilink")
+  - 후원 : [G마켓](../Page/G마켓.md "wikilink"), [지니](../Page/지니_\(웹사이트\).md "wikilink")
 
 ## 외부 링크
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USS  \(CV-45\)](https://ko.wikipedia.org/wiki/USS__\(CV-45\)).
 
 
-**USS 밸리 포지 (CV-45)**는 미국의 [에식스급 항공모함이다](https://ko.wikipedia.org/wiki/에식스급_항공모함 "wikilink"). 에식스급은 24척이 건조되었는데, 밸리 포지는 22번째로 건조되었다.
+**USS 밸리 포지 (CV-45)**는 미국의 [에식스급 항공모함이다](../Page/에식스급_항공모함.md "wikilink"). 에식스급은 24척이 건조되었는데, 밸리 포지는 22번째로 건조되었다.
 
 ## 역사
 
@@ -11,7 +11,7 @@
 
 밸리포지함은 한국전쟁에 참전한 최초의 미국 항공모함이다.
 
-1950년 5월 1일 미국 서해안에서 출항한 밸리포지함은 극동지방에 배치되었다. 6월 25일 한국전쟁 발발 당시 홍콩에 정박중이었다. 6월 26일 홍콩에서 출항하여 필리핀 수빅만 미국 해군 기지에 도착해 전시물자를 공급받고 한국을 향했다. 6월 28일 밸리포지함은 미국 해군 [제7함대 (미국)의](https://ko.wikipedia.org/wiki/제7함대_\(미국\) "wikilink") 기함이 되었다. 순양함 로체스터와 구축함 6척과 함께 [태스크 포스 77 (미국 해군)을](https://ko.wikipedia.org/wiki/태스크_포스_77_\(미국_해군\) "wikilink") 구성했다.
+1950년 5월 1일 미국 서해안에서 출항한 밸리포지함은 극동지방에 배치되었다. 6월 25일 한국전쟁 발발 당시 홍콩에 정박중이었다. 6월 26일 홍콩에서 출항하여 필리핀 수빅만 미국 해군 기지에 도착해 전시물자를 공급받고 한국을 향했다. 6월 28일 밸리포지함은 미국 해군 [제7함대 (미국)의](../Page/제7함대_\(미국\).md "wikilink") 기함이 되었다. 순양함 로체스터와 구축함 6척과 함께 [태스크 포스 77 (미국 해군)을](https://ko.wikipedia.org/wiki/태스크_포스_77_\(미국_해군\) "wikilink") 구성했다.
 
 6월 30일, [태스크 포스 77 (미국 해군)은](https://ko.wikipedia.org/wiki/태스크_포스_77_\(미국_해군\) "wikilink") 영국 [앤드류스](https://ko.wikipedia.org/wiki/앤드류스 "wikilink") 해군 중장이 이끄는 [HMS 트라이엄프 (R16)](https://ko.wikipedia.org/wiki/HMS_트라이엄프_\(R16\) "wikilink") 항공모함, 자메이카 순양함, 2척의 구축함과 랑데뷰했다.
 
@@ -31,6 +31,6 @@
 
 ## 더 보기
 
-  - [USS 필리핀시 (CV-47)](https://ko.wikipedia.org/wiki/USS_필리핀시_\(CV-47\) "wikilink")
+  - [USS 필리핀시 (CV-47)](../Page/USS_필리핀시_\(CV-47\).md "wikilink")
 
 [분류:미국의 항공모함](https://ko.wikipedia.org/wiki/분류:미국의_항공모함 "wikilink") [분류:1945년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1945년_진수된_선박 "wikilink") [분류:한국 전쟁의 미국 항공모함](https://ko.wikipedia.org/wiki/분류:한국_전쟁의_미국_항공모함 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
 
 
-《**SBS 헤드라인 뉴스**》()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") SBS에서 토요일 밤 11시 50분에 방송되었던 [SBS의 토요일 심야 단신뉴스 프로그램이다](https://ko.wikipedia.org/wiki/SBS의_뉴스_프로그램 "wikilink").
+《**SBS 헤드라인 뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") SBS에서 토요일 밤 11시 50분에 방송되었던 [SBS의 토요일 심야 단신뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -19,7 +19,7 @@
 
 ## 같이 보기
 
-  - [SBS의 뉴스 프로그램](https://ko.wikipedia.org/wiki/SBS의_뉴스_프로그램 "wikilink")
-  - [SBS 나이트라인](https://ko.wikipedia.org/wiki/SBS_나이트라인 "wikilink")
+  - [SBS의 뉴스 프로그램](../Page/SBS의_뉴스_프로그램.md "wikilink")
+  - [SBS 나이트라인](../Page/SBS_나이트라인.md "wikilink")
 
 [분류:SBS의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_텔레비전_프로그램 "wikilink")

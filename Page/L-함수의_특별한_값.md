@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [L-  ](https://ko.wikipedia.org/wiki/L-__).
 
 
-수학에서 [L-함수](../Page/L-함수.md "wikilink")의 특별한 값은 [원주율](https://ko.wikipedia.org/wiki/원주율 "wikilink") \(\pi\)에 대한 라이프니츠 (Leibniz) 수식처럼 L-함수의 수식이 일반화하는 데 사용되는 [수 이론의](https://ko.wikipedia.org/wiki/정수론 "wikilink") 하위 필드이다.
+수학에서 [L-함수](../Page/L-함수.md "wikilink")의 특별한 값은 [원주율](https://ko.wikipedia.org/wiki/원주율 "wikilink") \(\pi\)에 대한 라이프니츠 (Leibniz) 수식처럼 L-함수의 수식이 일반화하는 데 사용되는 [수 이론의](../Page/정수론.md "wikilink") 하위 필드이다.
 
 따라서, 라이프니츠 (Leibniz) 수식은 L-함수의 기능을 일반화하여 얻게되는 특수한 값의 형태이다.
 
@@ -15,11 +15,11 @@
 
 ## 아페리 상수
 
-[리만 제타 함수의](https://ko.wikipedia.org/wiki/리만_제타_함수 "wikilink") [디리클레 급수](https://ko.wikipedia.org/wiki/디리클레_급수 "wikilink")(디리클레 가산)표현
+[리만 제타 함수의](../Page/리만_제타_함수.md "wikilink") [디리클레 급수](../Page/디리클레_급수.md "wikilink")(디리클레 가산)표현
 
 \[\zeta(3)=\sum_{k=1}^\infty\frac{1}{k^3}=1+\frac{1}{2^3} + \frac{1}{3^3} + \frac{1}{4^3} + \frac{1}{5^3} + \frac{1}{6^3} + \cdots\]
 
-[라마누잔의](https://ko.wikipedia.org/wiki/스리니바사_라마누잔 "wikilink") [아페리 상수](https://ko.wikipedia.org/wiki/아페리_상수 "wikilink")\[1\]
+[라마누잔의](../Page/스리니바사_라마누잔.md "wikilink") [아페리 상수](../Page/아페리_상수.md "wikilink")\[1\]
 
 \[\zeta(3)=\frac{7}{180}\pi^3 -2 \sum_{k=1}^\infty \frac{1}{k^3 (e^{2\pi k} -1)}\]
 

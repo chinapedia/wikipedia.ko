@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Make it!](https://ko.wikipedia.org/wiki/Make_it!).
 
 
-〈**Make it\!**〉(메이크잇)은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성 아이돌 그룹 [i☆Ris](https://ko.wikipedia.org/wiki/i☆Ris "wikilink")의 여섯 번째 싱글이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [8월 20일에](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") DIVE II 엔터테인먼트에서 발매되었다.
+〈**Make it\!**〉(메이크잇)은 [일본](../Page/일본.md "wikilink")의 여성 아이돌 그룹 [i☆Ris](https://ko.wikipedia.org/wiki/i☆Ris "wikilink")의 여섯 번째 싱글이다. [2014년](../Page/2014년.md "wikilink") [8월 20일에](../Page/8월_20일.md "wikilink") DIVE II 엔터테인먼트에서 발매되었다.
 
 ## 개요
 

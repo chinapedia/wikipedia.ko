@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [And I Love Her](https://ko.wikipedia.org/wiki/And_I_Love_Her).
 
 
-〈**And I Love Her**〉는 [폴 매카트니가](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 쓰고 영국의 록 밴드 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")가 녹음한 곡이다. 그들의 세 번째 정규 음반 《[A Hard Day's Night](https://ko.wikipedia.org/wiki/A_Hard_Day's_Night "wikilink")》의 다섯 번째 트랙으로 사용되었으며, 이후 미국 캐피틀 사에서 〈[If I Fell](https://ko.wikipedia.org/wiki/If_I_Fell "wikilink")〉과 함께 싱글로 엮어 1964년 7월 20일 발표해 비틀즈 핫 100에서 12위에 올랐다. 비틀즈는 이 노래를 [애비 로드 스튜디오](https://ko.wikipedia.org/wiki/애비_로드_스튜디오 "wikilink") 이외의 장소에서는 한 번 공연한 게 전부다. 그날은 1964년 7월 14일 BBC 탑 기어 라디오 방송에서였고, 양일간 방송됐다.
+〈**And I Love Her**〉는 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 쓰고 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")가 녹음한 곡이다. 그들의 세 번째 정규 음반 《[A Hard Day's Night](../Page/A_Hard_Day's_Night.md "wikilink")》의 다섯 번째 트랙으로 사용되었으며, 이후 미국 캐피틀 사에서 〈[If I Fell](../Page/If_I_Fell.md "wikilink")〉과 함께 싱글로 엮어 1964년 7월 20일 발표해 비틀즈 핫 100에서 12위에 올랐다. 비틀즈는 이 노래를 [애비 로드 스튜디오](../Page/애비_로드_스튜디오.md "wikilink") 이외의 장소에서는 한 번 공연한 게 전부다. 그날은 1964년 7월 14일 BBC 탑 기어 라디오 방송에서였고, 양일간 방송됐다.
 
 ## 작곡
 
@@ -69,11 +69,11 @@
 
 ## 참여 인원
 
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – 보컬, 베이스 기타
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 어쿠스틱 리틈기타
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") – 클래식 리드 기타
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") – [봉고](https://ko.wikipedia.org/wiki/봉고_\(악기\) "wikilink"), 클라베이스
-  - [조지 마틴](https://ko.wikipedia.org/wiki/조지_마틴 "wikilink") – 프로듀서
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") – 보컬, 베이스 기타
+  - [존 레논](../Page/존_레논.md "wikilink") – 어쿠스틱 리틈기타
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") – 클래식 리드 기타
+  - [링고 스타](../Page/링고_스타.md "wikilink") – [봉고](https://ko.wikipedia.org/wiki/봉고_\(악기\) "wikilink"), 클라베이스
+  - [조지 마틴](../Page/조지_마틴.md "wikilink") – 프로듀서
 
 <!-- end list -->
 
@@ -112,7 +112,7 @@
 
 ## 커트 코베인 버전
 
-2015년 [너바나](https://ko.wikipedia.org/wiki/너바나 "wikilink")의 프론트맨 [커트 코베인이](https://ko.wikipedia.org/wiki/커트_코베인 "wikilink") 부른 버전이 발견되어 그의 전기 영화 《[커트 코베인: 몽타주 오브 헥](https://ko.wikipedia.org/wiki/커트_코베인:_몽타주_오브_헥 "wikilink")》에 쓰인다. 또한 영화의 사운드트랙 음반 및 7일치 비닐 싱글에 담겨 출시되었다.\[6\]\[7\]
+2015년 [너바나](../Page/너바나.md "wikilink")의 프론트맨 [커트 코베인이](../Page/커트_코베인.md "wikilink") 부른 버전이 발견되어 그의 전기 영화 《[커트 코베인: 몽타주 오브 헥](https://ko.wikipedia.org/wiki/커트_코베인:_몽타주_오브_헥 "wikilink")》에 쓰인다. 또한 영화의 사운드트랙 음반 및 7일치 비닐 싱글에 담겨 출시되었다.\[6\]\[7\]
 
 **차트 성적**
 
@@ -126,7 +126,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>미국 핫 싱글 세일 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[8]</p></td>
+<td><p>미국 핫 싱글 세일 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[8]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">

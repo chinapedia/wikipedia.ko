@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Color \(iRis \)](https://ko.wikipedia.org/wiki/Color_\(iRis_\)).
 
 
-〈**Color**〉(컬러)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성 [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink") [i☆Ris](https://ko.wikipedia.org/wiki/i☆Ris "wikilink")의 데뷔 싱글이다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 7일에](https://ko.wikipedia.org/wiki/11월_7일 "wikilink") DIVE II 엔터테인먼트에서 발매되었다.
+〈**Color**〉(컬러)는 [일본](../Page/일본.md "wikilink")의 여성 [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink") [i☆Ris](https://ko.wikipedia.org/wiki/i☆Ris "wikilink")의 데뷔 싱글이다. [2012년](../Page/2012년.md "wikilink") [11월 7일에](../Page/11월_7일.md "wikilink") DIVE II 엔터테인먼트에서 발매되었다.
 
 ## 개요
 

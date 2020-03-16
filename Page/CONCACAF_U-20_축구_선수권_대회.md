@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CONCACAF U-20   ](https://ko.wikipedia.org/wiki/CONCACAF_U-20___).
 
 
-**CONCACAF U-20 축구 선수권 대회**(CONCACAF U-20 Championship)는 [북중미카리브 축구 연맹](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink")(CONCACAF)이 주관하는 20세 이하 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 국가대표팀 간의 국가대항전이다. 이 대회는 [FIFA U-20 월드컵의](https://ko.wikipedia.org/wiki/FIFA_U-20_월드컵 "wikilink") 북중미카리브 지역 예선을 겸한다.
+**CONCACAF U-20 축구 선수권 대회**(CONCACAF U-20 Championship)는 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)이 주관하는 20세 이하 [축구](../Page/축구.md "wikilink") 국가대표팀 간의 국가대항전이다. 이 대회는 [FIFA U-20 월드컵의](../Page/FIFA_U-20_월드컵.md "wikilink") 북중미카리브 지역 예선을 겸한다.
 
 ## 역대 대회
 
@@ -40,7 +40,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/1976년_CONCACAF_U-20_토너먼트" title="wikilink">1976년</a></p></td>
 </tr>
 <tr class="even">
-<td><p>결승: 멕시코 0 - 0 (<a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a> 4 - 3) 온두라스, 3·4위전: 미국 1 - 0 과테말라</p></td>
+<td><p>결승: 멕시코 0 - 0 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 - 3) 온두라스, 3·4위전: 미국 1 - 0 과테말라</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1978년_CONCACAF_U-20_토너먼트" title="wikilink">1978년</a></p></td>
@@ -136,13 +136,13 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/2011년_CONCACAF_U-20_축구_선수권_대회" title="wikilink">2011년</a></p></td>
 </tr>
 <tr class="even">
-<td><p>결승: 멕시코 3 - 1 코스타리카, 3·4위전: 과테말라 0 - 0 (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>, <a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a> 7 - 6) 파나마</p></td>
+<td><p>결승: 멕시코 3 - 1 코스타리카, 3·4위전: 과테말라 0 - 0 (<a href="../Page/연장전.md" title="wikilink">연장</a>, <a href="../Page/승부차기.md" title="wikilink">승부차기</a> 7 - 6) 파나마</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2013년_CONCACAF_U-20_축구_선수권_대회" title="wikilink">2013년</a></p></td>
 </tr>
 <tr class="even">
-<td><p>결승: 멕시코 3 - 1 (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>) 미국, 3·4위전: 엘살바도르 1 - 0 쿠바</p></td>
+<td><p>결승: 멕시코 3 - 1 (<a href="../Page/연장전.md" title="wikilink">연장</a>) 미국, 3·4위전: 엘살바도르 1 - 0 쿠바</p></td>
 </tr>
 <tr class="odd">
 <td><p>연도</p></td>
@@ -151,7 +151,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년_CONCACAF_U-20_축구_선수권_대회" title="wikilink">2015년</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>결승: 멕시코 1 - 1 (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>, <a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a> 4 - 2) 파나마</p></td>
+<td><p>결승: 멕시코 1 - 1 (<a href="../Page/연장전.md" title="wikilink">연장</a>, <a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 - 2) 파나마</p></td>
 </tr>
 <tr class="even">
 <td><p>연도</p></td>
@@ -160,7 +160,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/2017년_CONCACAF_U-20_축구_선수권_대회" title="wikilink">2017년</a></p></td>
 </tr>
 <tr class="even">
-<td><p>결승: 미국 0 - 0 (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>, <a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a> 5 - 3) 온두라스</p></td>
+<td><p>결승: 미국 0 - 0 (<a href="../Page/연장전.md" title="wikilink">연장</a>, <a href="../Page/승부차기.md" title="wikilink">승부차기</a> 5 - 3) 온두라스</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2018년_CONCACAF_U-20_축구_선수권_대회" title="wikilink">2018년</a></p></td>

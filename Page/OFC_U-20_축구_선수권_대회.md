@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OFC U-20   ](https://ko.wikipedia.org/wiki/OFC_U-20___).
 
 
-**OFC U-20 축구 선수권 대회**(OFC U-20 Championship)는 [오세아니아 축구 연맹](https://ko.wikipedia.org/wiki/오세아니아_축구_연맹 "wikilink")(OFC)이 주관하는 20세 이하 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 국가대표팀 간의 국가대항전이다. 이 대회는 [FIFA U-20 월드컵의](https://ko.wikipedia.org/wiki/FIFA_U-20_월드컵 "wikilink") 오세아니아 지역 예선을 겸한다.
+**OFC U-20 축구 선수권 대회**(OFC U-20 Championship)는 [오세아니아 축구 연맹](../Page/오세아니아_축구_연맹.md "wikilink")(OFC)이 주관하는 20세 이하 [축구](../Page/축구.md "wikilink") 국가대표팀 간의 국가대항전이다. 이 대회는 [FIFA U-20 월드컵의](../Page/FIFA_U-20_월드컵.md "wikilink") 오세아니아 지역 예선을 겸한다.
 
 ## 역대 대회
 
@@ -65,7 +65,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1982년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>4 : 3</strong> <small>(<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>)</small></p></td>
+<td><p><strong>4 : 3</strong> <small>(<a href="../Page/연장전.md" title="wikilink">연장</a>)</small></p></td>
 <td></td>
 <td></td>
 </tr>

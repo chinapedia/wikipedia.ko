@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TAEYEON Concert PERSONA](https://ko.wikipedia.org/wiki/TAEYEON_Concert_PERSONA).
 
 
-《**TAEYEON Concert "PERSONA"**》는 대한민국의 음악 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 멤버 [태연](https://ko.wikipedia.org/wiki/태연 "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
+《**TAEYEON Concert "PERSONA"**》는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 멤버 [태연](../Page/태연.md "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
 
 ## 개요
 
-[태연](https://ko.wikipedia.org/wiki/태연 "wikilink")의 정규 1집 〈[My Voice](../Page/My_Voice.md "wikilink")〉디럭스 에디션 발표 2일 뒤인 2017년 4월 7일, [SM 엔터테인먼트는](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 공식 홈페이지를 통해 태연의 두 번째 콘서트 투어의 서울 일정을 발표하였고 예매는 4일 뒤인 11일 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 진행되었다.
+[태연](../Page/태연.md "wikilink")의 정규 1집 〈[My Voice](../Page/My_Voice.md "wikilink")〉디럭스 에디션 발표 2일 뒤인 2017년 4월 7일, [SM 엔터테인먼트는](../Page/SM_엔터테인먼트.md "wikilink") 공식 홈페이지를 통해 태연의 두 번째 콘서트 투어의 서울 일정을 발표하였고 예매는 4일 뒤인 11일 [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다.
 
 ## 투어 일정
 
@@ -64,7 +64,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017년 5월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>썬더 돔[4]</p></td>
 <td><p>5,400명</p></td>
@@ -115,7 +115,7 @@
 <td style="text-align: left;"><p>포토북</p></td>
 <td style="text-align: left;"><p>TAEYEON Solo Concert 《PERSONA》 공연화보집</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/9월_26일" title="wikilink">9월 26일</a></li>
+<li>발매일 : <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_26일.md" title="wikilink">9월 26일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -125,7 +125,7 @@
 
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
   - 총연출 : 황상훈
 
 ## 각주

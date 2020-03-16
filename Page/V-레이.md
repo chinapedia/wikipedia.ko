@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [V-](https://ko.wikipedia.org/wiki/V-).
 
 
-[250px용](https://ko.wikipedia.org/wiki/파일:BallsRender.png "wikilink") V-레이를 사용하여 만든 렌더.\]\] **V-레이**(V-Ray)는 [3차원 컴퓨터 그래픽스 소프트웨어를](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스_소프트웨어 "wikilink") 위한 [상용](https://ko.wikipedia.org/wiki/상용_소프트웨어 "wikilink") [렌더링](https://ko.wikipedia.org/wiki/3차원_렌더링 "wikilink") [플러그인](https://ko.wikipedia.org/wiki/플러그인 "wikilink")이다. 1997년에 설립된 [불가리아](https://ko.wikipedia.org/wiki/불가리아 "wikilink") [소피아](https://ko.wikipedia.org/wiki/소피아 "wikilink")에 위치한 불가리아 회사 Chaos Group이 개발하였다. V-레이는 미디어, 엔터테인먼트, 또 영화 및 비디오 게임 개발과 같은 디자인 산업, 그리고 [산업 디자인](https://ko.wikipedia.org/wiki/산업_디자인 "wikilink"), [제품 디자인](https://ko.wikipedia.org/wiki/제품_디자인 "wikilink"), [건축](https://ko.wikipedia.org/wiki/건축 "wikilink")에 사용된다.\[1\] 이 기업의 최고 아키텍트는 Peter Mitev와 Vladimir Koylazov이다.
+[250px용](https://ko.wikipedia.org/wiki/파일:BallsRender.png "wikilink") V-레이를 사용하여 만든 렌더.\]\] **V-레이**(V-Ray)는 [3차원 컴퓨터 그래픽스 소프트웨어를](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스_소프트웨어 "wikilink") 위한 [상용](https://ko.wikipedia.org/wiki/상용_소프트웨어 "wikilink") [렌더링](https://ko.wikipedia.org/wiki/3차원_렌더링 "wikilink") [플러그인](../Page/플러그인.md "wikilink")이다. 1997년에 설립된 [불가리아](../Page/불가리아.md "wikilink") [소피아](../Page/소피아.md "wikilink")에 위치한 불가리아 회사 Chaos Group이 개발하였다. V-레이는 미디어, 엔터테인먼트, 또 영화 및 비디오 게임 개발과 같은 디자인 산업, 그리고 [산업 디자인](https://ko.wikipedia.org/wiki/산업_디자인 "wikilink"), [제품 디자인](https://ko.wikipedia.org/wiki/제품_디자인 "wikilink"), [건축](../Page/건축.md "wikilink")에 사용된다.\[1\] 이 기업의 최고 아키텍트는 Peter Mitev와 Vladimir Koylazov이다.
 
 ## 개요
 
@@ -9,16 +9,16 @@ V-레이는 [글로벌 일루미네이션](../Page/글로벌_일루미네이션.
 
 V-레이가 지원하는 데스크톱용 3차원 애플리케이션은 다음과 같다:
 
-  - [3ds 맥스](https://ko.wikipedia.org/wiki/3ds_맥스 "wikilink")
+  - [3ds 맥스](../Page/3ds_맥스.md "wikilink")
   - [오토데스크 레빗](https://ko.wikipedia.org/wiki/오토데스크_레빗 "wikilink")\[2\]
   - [시네마 4D](../Page/시네마_4D.md "wikilink")
-  - [마야](https://ko.wikipedia.org/wiki/마야_\(소프트웨어\) "wikilink")
+  - [마야](../Page/마야_\(소프트웨어\).md "wikilink")
   - [모도](../Page/모도_\(소프트웨어\).md "wikilink")
-  - [누크](https://ko.wikipedia.org/wiki/누크_\(소프트웨어\) "wikilink")
+  - [누크](../Page/누크_\(소프트웨어\).md "wikilink")
   - [라이노세로스](../Page/라이노세로스_3D.md "wikilink")
-  - [스케치업](https://ko.wikipedia.org/wiki/스케치업 "wikilink")
-  - [소프트이미지](https://ko.wikipedia.org/wiki/오토데스크_소프트이미지 "wikilink")
-  - [블렌더](https://ko.wikipedia.org/wiki/블렌더_\(소프트웨어\) "wikilink")
+  - [스케치업](../Page/스케치업.md "wikilink")
+  - [소프트이미지](../Page/오토데스크_소프트이미지.md "wikilink")
+  - [블렌더](../Page/블렌더_\(소프트웨어\).md "wikilink")
 
 V-레이의 아카데믹 버전과 독립형 버전 또한 구매가 가능하다.
 

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [MD4](https://ko.wikipedia.org/wiki/MD4).
 
 
-**MD4 메시지-다이제스트 알고리즘**(MD4 Message-Digest Algorithm)은 1990년 [로널드 라이베스트가](https://ko.wikipedia.org/wiki/로널드_라이베스트 "wikilink") 개발한 [암호화 해시 함수이다](https://ko.wikipedia.org/wiki/암호화_해시_함수 "wikilink").\[1\] 다이제스트 길이는 128비트이다. 이 알고리즘은 [MD5](https://ko.wikipedia.org/wiki/MD5 "wikilink"), [SHA-1](https://ko.wikipedia.org/wiki/SHA-1 "wikilink"), [RIPEMD](https://ko.wikipedia.org/wiki/RIPEMD "wikilink") 알고리즘과 같은 이후의 디자인에 영향을 주었다. "MD"는 "메시지 다이제스트"(Message Digest)의 준말이다.
+**MD4 메시지-다이제스트 알고리즘**(MD4 Message-Digest Algorithm)은 1990년 [로널드 라이베스트가](../Page/로널드_라이베스트.md "wikilink") 개발한 [암호화 해시 함수이다](../Page/암호화_해시_함수.md "wikilink").\[1\] 다이제스트 길이는 128비트이다. 이 알고리즘은 [MD5](../Page/MD5.md "wikilink"), [SHA-1](https://ko.wikipedia.org/wiki/SHA-1 "wikilink"), [RIPEMD](https://ko.wikipedia.org/wiki/RIPEMD "wikilink") 알고리즘과 같은 이후의 디자인에 영향을 주었다. "MD"는 "메시지 다이제스트"(Message Digest)의 준말이다.
 
 MD4는 마이크로소프트 윈도우 NT, XP, 비스타, 7, 8, 10에서 [NTLM](https://ko.wikipedia.org/wiki/NT_LAN_매니저 "wikilink") 암호 파생 키 다이제스트를 연산하기 위해 사용된다.\[2\]
 
 ## MD4 해시
 
-128비트(16바이트) MD4 해시(메시지 다이제스트)는 일반적으로 32자리 [십육진수로](https://ko.wikipedia.org/wiki/십육진법 "wikilink") 표현한다. 다음은 43바이트 [아스키](https://ko.wikipedia.org/wiki/아스키 "wikilink") 입력 및 그와 일치하는 MD4 해시를 나타낸 것이다:
+128비트(16바이트) MD4 해시(메시지 다이제스트)는 일반적으로 32자리 [십육진수로](../Page/십육진법.md "wikilink") 표현한다. 다음은 43바이트 [아스키](https://ko.wikipedia.org/wiki/아스키 "wikilink") 입력 및 그와 일치하는 MD4 해시를 나타낸 것이다:
 
 `MD4("The quick brown fox jumps over the lazy ``og")`
 `= 1bee69a46ba811185c194762abaeae90`
@@ -45,7 +45,7 @@ k1 ≠ k2이지만, MD4(k1) = MD4(k2) = 4d7e6a1defa93d2dde05b45d864c429b이다. 
 ## 같이 보기
 
   - [MD2](https://ko.wikipedia.org/wiki/MD2 "wikilink")
-  - [MD5](https://ko.wikipedia.org/wiki/MD5 "wikilink")
+  - [MD5](../Page/MD5.md "wikilink")
   - [MD6](https://ko.wikipedia.org/wiki/MD6 "wikilink")
 
 ## 각주

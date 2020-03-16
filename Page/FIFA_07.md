@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FIFA 07](https://ko.wikipedia.org/wiki/FIFA_07).
 
 
-《**FIFA 07**》(FIFA Football 07, FIFA 07 Soccer)은 축구 시뮬레이터 [비디오 게임의](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink") [EA 스포츠의](https://ko.wikipedia.org/wiki/EA_스포츠 "wikilink") [시리즈](https://ko.wikipedia.org/wiki/FIFA_\(비디오_게임_시리즈\) "wikilink") 중 2006년 에디션이다. [EA 캐나다가](https://ko.wikipedia.org/wiki/EA_캐나다 "wikilink") 개발한 이 게임은 [일렉트로닉 아츠가](https://ko.wikipedia.org/wiki/일렉트로닉_아츠 "wikilink") 배급한다.
+《**FIFA 07**》(FIFA Football 07, FIFA 07 Soccer)은 축구 시뮬레이터 [비디오 게임의](../Page/비디오_게임.md "wikilink") [EA 스포츠의](https://ko.wikipedia.org/wiki/EA_스포츠 "wikilink") [시리즈](../Page/FIFA_\(비디오_게임_시리즈\).md "wikilink") 중 2006년 에디션이다. [EA 캐나다가](https://ko.wikipedia.org/wiki/EA_캐나다 "wikilink") 개발한 이 게임은 [일렉트로닉 아츠가](../Page/일렉트로닉_아츠.md "wikilink") 배급한다.
 
-[게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink"), [엑스박스](https://ko.wikipedia.org/wiki/엑스박스 "wikilink"), [게임보이 어드밴스용으로](https://ko.wikipedia.org/wiki/게임보이_어드밴스 "wikilink") 출시된 FIFA 시리즈 중 마지막 게임이자 [엑스박스 360용으로](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink") 출시된 최초의 게임이다. [PC](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink"), [닌텐도 DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink"), [플레이스테이션 포터블](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink"), [플레이스테이션 2용으로도](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 출시되었다.
+[게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink"), [엑스박스](../Page/엑스박스.md "wikilink"), [게임보이 어드밴스용으로](../Page/게임보이_어드밴스.md "wikilink") 출시된 FIFA 시리즈 중 마지막 게임이자 [엑스박스 360용으로](../Page/엑스박스_360.md "wikilink") 출시된 최초의 게임이다. [PC](../Page/개인용_컴퓨터.md "wikilink"), [닌텐도 DS](../Page/닌텐도_DS.md "wikilink"), [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink"), [플레이스테이션 2용으로도](../Page/플레이스테이션_2.md "wikilink") 출시되었다.
 
 《FIFA 07》은 2007\~08 시즌 동안 [애크링턴 스탠리 FC을](../Page/애크링턴_스탠리_FC.md "wikilink") 후원하였고, FIFA 07 로고가 팀의 셔츠 뒷면에 그려졌다.\[1\]
 

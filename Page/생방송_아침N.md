@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ N](https://ko.wikipedia.org/wiki/_N).
 
 
-**생방송 아침N**은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 8시 30분에 [MBC충북](../Page/MBC충북.md "wikilink")으로 방송되는 [텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink").
+**생방송 아침N**은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 8시 30분에 [MBC충북](../Page/MBC충북.md "wikilink")으로 방송되는 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 기획 의도
 
-유익한 전달력을 통해 정보와 이슈를 전하는 [텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink").
+유익한 전달력을 통해 정보와 이슈를 전하는 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 구성
 

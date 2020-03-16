@@ -7,8 +7,8 @@
 
 ## 외부 링크
 
-  - [Palette](http://www.melon.com/album/detail.htm?albumId=10056666) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(온라인_음악_서비스\) "wikilink")
-  - [Palette](http://music.naver.com/album/index.nhn?albumId=2000240) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
+  - [Palette](http://www.melon.com/album/detail.htm?albumId=10056666) - [멜론](../Page/멜론_\(온라인_음악_서비스\).md "wikilink")
+  - [Palette](http://music.naver.com/album/index.nhn?albumId=2000240) - [네이버](../Page/네이버.md "wikilink") 뮤직
 
 ### 영상
 

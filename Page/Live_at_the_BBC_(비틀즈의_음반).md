@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Live at the BBC \( \)](https://ko.wikipedia.org/wiki/Live_at_the_BBC_\(_\)).
 
 
-《**Live at the BBC**》은 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")가 1963년부터 1965년부터 BBC 라디오 프로그램에서 진행된 다양한 라디오 쇼에서 공연한 음원을 엮은 컴필레이션 음반이다. 모노 음반은 다양한 형식으로 구매 가능하지만 대부분이 두 개의 CD로 구성된 형식이다. 여기에는 56개의 노래와 13개의 대화 트랙이 담겨 있다. 이중 30곡은 이전에 한 번도 출시된 적 없는 것이다. 비틀즈가 공식적으로 미발표 공연 음원을 출시한 것은 1977년 《The Beatles at the Hollywood Bowl》 이후로, 이전의 미공개 곡을 담은 것은 1970년의 정규 음반 《[Let It Be](https://ko.wikipedia.org/wiki/Let_It_Be "wikilink")》 이후로 처음이다.
+《**Live at the BBC**》은 [비틀즈](../Page/비틀즈.md "wikilink")가 1963년부터 1965년부터 BBC 라디오 프로그램에서 진행된 다양한 라디오 쇼에서 공연한 음원을 엮은 컴필레이션 음반이다. 모노 음반은 다양한 형식으로 구매 가능하지만 대부분이 두 개의 CD로 구성된 형식이다. 여기에는 56개의 노래와 13개의 대화 트랙이 담겨 있다. 이중 30곡은 이전에 한 번도 출시된 적 없는 것이다. 비틀즈가 공식적으로 미발표 공연 음원을 출시한 것은 1977년 《The Beatles at the Hollywood Bowl》 이후로, 이전의 미공개 곡을 담은 것은 1970년의 정규 음반 《[Let It Be](../Page/Let_It_Be.md "wikilink")》 이후로 처음이다.
 
 곡들이 방송에 나가기 위함이었다고 해도, 리테이크와 오버더빙을 거쳐 궁극적인 "스튜디오 라이브" 공연에 초점을 맞추었다. 대다수 곡은 1950년대와 1960년대의 노래의 커버로 비틀마니아 전의 스테이지 세트를 반영하고 있다. 이 앨범이 발표 전에 BBC 공연의 포괄적 컬렉션이 해적판에 담겨져 나돌고 있었다.
 
@@ -9,14 +9,14 @@
 
 ## 트랙 목록
 
-모든 곡들은 특별한 언급이 없는 한 [레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink")에 의해 씌여졌다.
+모든 곡들은 특별한 언급이 없는 한 [레논-매카트니](../Page/레논-매카트니.md "wikilink")에 의해 씌여졌다.
 
 ### 1994년 판
 
 #### Disk 1
 
 1.  Beatle Greetings (Dialogue)
-2.  [From Us to You](https://ko.wikipedia.org/wiki/From_Me_to_You "wikilink") (Lennon/McCartney)
+2.  [From Us to You](../Page/From_Me_to_You.md "wikilink") (Lennon/McCartney)
 3.  Riding on a Bus (Dialogue)
 4.  [I Got a Woman](https://ko.wikipedia.org/wiki/I_Got_a_Woman "wikilink") (Charles)
 5.  [Too Much Monkey Business](https://ko.wikipedia.org/wiki/Too_Much_Monkey_Business "wikilink") (Berry)
@@ -43,10 +43,10 @@
 26. [Long Tall Sally](../Page/Long_Tall_Sally.md "wikilink") (Johnson/Penniman/Blackwell)
 27. [I Saw Her Standing There](https://ko.wikipedia.org/wiki/I_Saw_Her_Standing_There "wikilink") (Lennon/McCartney)
 28. [The Honeymoon Song](https://ko.wikipedia.org/wiki/The_Honeymoon_Song "wikilink") (Theodorakis/Samson)
-29. [Johnny B. Goode](https://ko.wikipedia.org/wiki/Johnny_B._Goode "wikilink") (Berry)
+29. [Johnny B. Goode](../Page/Johnny_B._Goode.md "wikilink") (Berry)
 30. [Memphis, Tennessee](https://ko.wikipedia.org/wiki/Memphis,_Tennessee_\(chanson\) "wikilink") (Berry)
 31. [Lucille](https://ko.wikipedia.org/wiki/Lucille_\(chanson_de_Little_Richard\) "wikilink") (Collins/Penniman)
-32. [Can't Buy Me Love](https://ko.wikipedia.org/wiki/Can't_Buy_Me_Love "wikilink") (Lennon/McCartney)
+32. [Can't Buy Me Love](../Page/Can't_Buy_Me_Love.md "wikilink") (Lennon/McCartney)
 33. From Fluff to You (Dialogue)
 34. [Till There Was You](https://ko.wikipedia.org/wiki/Till_There_Was_You "wikilink") (Willson)
 
@@ -73,7 +73,7 @@
 19. [I'm a Loser](https://ko.wikipedia.org/wiki/I'm_a_Loser "wikilink") (Lennon/McCartney)
 20. [Everybody's Trying to Be My Baby](https://ko.wikipedia.org/wiki/Everybody's_Trying_to_Be_My_Baby "wikilink") (Perkins)
 21. [Rock and Roll Music (chanson)](https://ko.wikipedia.org/wiki/Rock_and_Roll_Music_\(chanson\) "wikilink") (Berry)
-22. [Ticket to Ride](https://ko.wikipedia.org/wiki/Ticket_to_Ride "wikilink") (Lennon/McCartney)
+22. [Ticket to Ride](../Page/Ticket_to_Ride.md "wikilink") (Lennon/McCartney)
 23. [Dizzy Miss Lizzy](https://ko.wikipedia.org/wiki/Dizzy_Miss_Lizzy "wikilink") (Williams)
 24. [Kansas City/Hey, Hey, Hey, Hey](https://ko.wikipedia.org/wiki/Kansas_City/Hey,_Hey,_Hey,_Hey "wikilink") (Leiber/Stoller-Penniman)
 25. Set Fire to That Lot\! (Dialogue)
@@ -90,12 +90,12 @@
 
 ### 2013년 판
 
-모든 곡들은 특별한 언급이 없는 한 [레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink")에 의해 씌여졌다.
+모든 곡들은 특별한 언급이 없는 한 [레논-매카트니](../Page/레논-매카트니.md "wikilink")에 의해 씌여졌다.
 
 #### Disk 1
 
 1.  Beatle Greetings (Dialogue)
-2.  [From Us to You](https://ko.wikipedia.org/wiki/From_Me_to_You "wikilink") (Lennon/McCartney)
+2.  [From Us to You](../Page/From_Me_to_You.md "wikilink") (Lennon/McCartney)
 3.  Riding on a Bus (Dialogue)
 4.  [I Got a Woman](https://ko.wikipedia.org/wiki/I_Got_a_Woman "wikilink") (Charles)
 5.  [Too Much Monkey Business](https://ko.wikipedia.org/wiki/Too_Much_Monkey_Business "wikilink") (Berry)
@@ -123,10 +123,10 @@
 27. [Long Tall Sally](../Page/Long_Tall_Sally.md "wikilink") (Johnson/Penniman/Blackwell)
 28. [I Saw Her Standing There](https://ko.wikipedia.org/wiki/I_Saw_Her_Standing_There "wikilink") (Lennon/McCartney)
 29. [The Honeymoon Song](https://ko.wikipedia.org/wiki/The_Honeymoon_Song "wikilink") (Theodorakis/Samson)
-30. [Johnny B. Goode](https://ko.wikipedia.org/wiki/Johnny_B._Goode "wikilink") (Berry)
+30. [Johnny B. Goode](../Page/Johnny_B._Goode.md "wikilink") (Berry)
 31. [Memphis, Tennessee](https://ko.wikipedia.org/wiki/Memphis,_Tennessee_\(chanson\) "wikilink") (Berry)
 32. [Lucille](https://ko.wikipedia.org/wiki/Lucille_\(chanson_de_Little_Richard\) "wikilink") (Collins/Penniman)
-33. [Can't Buy Me Love](https://ko.wikipedia.org/wiki/Can't_Buy_Me_Love "wikilink") (Lennon/McCartney)
+33. [Can't Buy Me Love](../Page/Can't_Buy_Me_Love.md "wikilink") (Lennon/McCartney)
 34. From Fluff to You (Dialogue)
 35. [Till There Was You](https://ko.wikipedia.org/wiki/Till_There_Was_You "wikilink") (Willson)
 
@@ -153,7 +153,7 @@
 19. [I'm a Loser](https://ko.wikipedia.org/wiki/I'm_a_Loser "wikilink") (Lennon/McCartney)
 20. [Everybody's Trying to Be My Baby](https://ko.wikipedia.org/wiki/Everybody's_Trying_to_Be_My_Baby "wikilink") (Perkins)
 21. [Rock and Roll Music (chanson)](https://ko.wikipedia.org/wiki/Rock_and_Roll_Music_\(chanson\) "wikilink") (Berry)
-22. [Ticket to Ride](https://ko.wikipedia.org/wiki/Ticket_to_Ride "wikilink") (Lennon/McCartney)
+22. [Ticket to Ride](../Page/Ticket_to_Ride.md "wikilink") (Lennon/McCartney)
 23. [Dizzy Miss Lizzy](https://ko.wikipedia.org/wiki/Dizzy_Miss_Lizzy "wikilink") (Williams)
 24. [Kansas City/Hey, Hey, Hey, Hey](https://ko.wikipedia.org/wiki/Kansas_City/Hey,_Hey,_Hey,_Hey "wikilink") (Leiber/Stoller-Penniman)
 25. Set Fire to That Lot\! (Dialogue)
@@ -167,7 +167,7 @@
 33. [Slow Down](https://ko.wikipedia.org/wiki/Slow_Down_\(chanson_de_Larry_Williams\) "wikilink") (Williams)
 34. [Honey Don't](https://ko.wikipedia.org/wiki/Honey_Don't "wikilink") (Perkins)
 35. [Love Me Do](../Page/Love_Me_Do.md "wikilink") (Lennon/McCartney)
-36. [From Us to You](https://ko.wikipedia.org/wiki/From_Me_to_You "wikilink") (Lennon/McCartney)
+36. [From Us to You](../Page/From_Me_to_You.md "wikilink") (Lennon/McCartney)
 
 ## 각주
 

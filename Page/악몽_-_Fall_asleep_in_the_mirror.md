@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ - Fall asleep in the mirror](https://ko.wikipedia.org/wiki/_-_Fall_asleep_in_the_mirror).
 
 
-〈**악몽 - Fall asleep in the mirror**〉(악몽 - 폴 어슬리프 인 더 미러)는 대한민국의 걸 그룹 [드림캐쳐의](../Page/드림캐쳐_\(음악_그룹\).md "wikilink") 두 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**악몽 - Fall asleep in the mirror**〉(악몽 - 폴 어슬리프 인 더 미러)는 대한민국의 걸 그룹 [드림캐쳐의](../Page/드림캐쳐_\(음악_그룹\).md "wikilink") 두 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -11,10 +11,10 @@
 
 ## 차트
 
-| 차트 (2017)                                                                | 최고 순위 |
-| ------------------------------------------------------------------------ | ----- |
-| 대한민국 ([가온 차트 '주간'](https://ko.wikipedia.org/wiki/가온_차트 "wikilink"))\[2\] | 7     |
-| 대한민국 (가온 차트 '월간')\[3\]                                                   | 24    |
+| 차트 (2017)                                             | 최고 순위 |
+| ----------------------------------------------------- | ----- |
+| 대한민국 ([가온 차트 '주간'](../Page/가온_차트.md "wikilink"))\[2\] | 7     |
+| 대한민국 (가온 차트 '월간')\[3\]                                | 24    |
 
 ## 각주
 

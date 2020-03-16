@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HI! PRISTIN](https://ko.wikipedia.org/wiki/HI!_PRISTIN).
 
 
-《**HI\! PRISTIN**》(하이 프리스틴)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [프리스틴](https://ko.wikipedia.org/wiki/프리스틴 "wikilink")의 데뷔 음반이자 첫 번째 EP이다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 21일에](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 로엔엔터테인먼트를 통해 발매되었다.
+《**HI\! PRISTIN**》(하이 프리스틴)은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [프리스틴](https://ko.wikipedia.org/wiki/프리스틴 "wikilink")의 데뷔 음반이자 첫 번째 EP이다. [2017년](../Page/2017년.md "wikilink") [3월 21일에](../Page/3월_21일.md "wikilink") 로엔엔터테인먼트를 통해 발매되었다.
 
 ## 수록곡
 

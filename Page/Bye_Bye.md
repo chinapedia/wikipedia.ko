@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bye Bye](https://ko.wikipedia.org/wiki/Bye_Bye).
 
 
-〈**Bye Bye**〉(바이 바이)는 대한민국의 걸그룹 [에이핑크](https://ko.wikipedia.org/wiki/에이핑크 "wikilink")의 일본에서의 일곱 번째 싱글이며, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [3월 29일에](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") [유니버설 뮤직 재팬에서](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") 발매됐다. B면의 〈파피푸페PON\!〉은 [TV 도쿄](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 계열 TV 애니메이션 《[리루리루 페어리루: 요정의 도어](https://ko.wikipedia.org/wiki/리루리루_페어리루#TV_애니메이션 "wikilink")》 제2기의 주제가로 사용된다.
+〈**Bye Bye**〉(바이 바이)는 대한민국의 걸그룹 [에이핑크](../Page/에이핑크.md "wikilink")의 일본에서의 일곱 번째 싱글이며, [2017년](../Page/2017년.md "wikilink") [3월 29일에](../Page/3월_29일.md "wikilink") [유니버설 뮤직 재팬에서](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") 발매됐다. B면의 〈파피푸페PON\!〉은 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열 TV 애니메이션 《[리루리루 페어리루: 요정의 도어](https://ko.wikipedia.org/wiki/리루리루_페어리루#TV_애니메이션 "wikilink")》 제2기의 주제가로 사용된다.
 
 ## 수록곡
 

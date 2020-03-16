@@ -1,25 +1,25 @@
 > This article is converted from Wikipedia: [1 TV   ](https://ko.wikipedia.org/wiki/1_TV___).
 
 
-**1회 TV 바둑 아시아 선수권대회**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"), [중국](https://ko.wikipedia.org/wiki/중국 "wikilink"), [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 속기전 상위 입상자가 참가한 바둑 기전이다. 결승에서는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [다케미야 마사키](../Page/다케미야_마사키.md "wikilink") 九단이 [고바야시 사토루](../Page/고바야시_사토루.md "wikilink") 九단을 꺾고 최초로 첫 우승했다.
+**1회 TV 바둑 아시아 선수권대회**는 [대한민국](../Page/대한민국.md "wikilink"), [중국](../Page/중국.md "wikilink"), [일본](../Page/일본.md "wikilink")의 속기전 상위 입상자가 참가한 바둑 기전이다. 결승에서는 [일본](../Page/일본.md "wikilink")의 [다케미야 마사키](../Page/다케미야_마사키.md "wikilink") 九단이 [고바야시 사토루](../Page/고바야시_사토루.md "wikilink") 九단을 꺾고 최초로 첫 우승했다.
 
 ## 대회 일정
 
-| 구분             | 일정     | 장소                                                            |
-| -------------- | ------ | ------------------------------------------------------------- |
-| 개막식            | 8월 11일 | 도쿄 [NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink") 방송국 |
-| 1회전 1국         | 8월 11일 |                                                               |
-| 1회전 2국, 준결승 1국 | 8월 12일 |                                                               |
-| 준결승 1국         | 8월 13일 |                                                               |
-| 준결승 2국         | 8월 14일 |                                                               |
-| 결승전, 시상식 및 폐막식 | 8월 17일 |                                                               |
-|                |        |                                                               |
+| 구분             | 일정     | 장소                                         |
+| -------------- | ------ | ------------------------------------------ |
+| 개막식            | 8월 11일 | 도쿄 [NHK](../Page/일본방송협회.md "wikilink") 방송국 |
+| 1회전 1국         | 8월 11일 |                                            |
+| 1회전 2국, 준결승 1국 | 8월 12일 |                                            |
+| 준결승 1국         | 8월 13일 |                                            |
+| 준결승 2국         | 8월 14일 |                                            |
+| 결승전, 시상식 및 폐막식 | 8월 17일 |                                            |
+|                |        |                                            |
 
 ## 출전 기사 명단
 
-  - [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") : [다케미야 마사키](../Page/다케미야_마사키.md "wikilink")([NHK배](https://ko.wikipedia.org/wiki/NHK배 "wikilink") 우승자), [고바야시 사토루](../Page/고바야시_사토루.md "wikilink")([NHK배](https://ko.wikipedia.org/wiki/NHK배 "wikilink") 준우승자)
-  - [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") : [서능욱](../Page/서능욱.md "wikilink")([조훈현](https://ko.wikipedia.org/wiki/조훈현 "wikilink") [7기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/7기_KBS_바둑왕전 "wikilink") 우승자의 대타 출전), [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink")(7기 KBS 바둑왕전 준우승자)
-  - [중국](https://ko.wikipedia.org/wiki/중국 "wikilink") : [마샤오춘](../Page/마샤오춘.md "wikilink")([CCTV배](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 우승자), [녜웨이핑](https://ko.wikipedia.org/wiki/녜웨이핑 "wikilink")([CCTV배](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 준우승자)
+  - [일본](../Page/일본.md "wikilink") : [다케미야 마사키](../Page/다케미야_마사키.md "wikilink")([NHK배](https://ko.wikipedia.org/wiki/NHK배 "wikilink") 우승자), [고바야시 사토루](../Page/고바야시_사토루.md "wikilink")([NHK배](https://ko.wikipedia.org/wiki/NHK배 "wikilink") 준우승자)
+  - [대한민국](../Page/대한민국.md "wikilink") : [서능욱](../Page/서능욱.md "wikilink")([조훈현](../Page/조훈현.md "wikilink") [7기 KBS 바둑왕전](../Page/7기_KBS_바둑왕전.md "wikilink") 우승자의 대타 출전), [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink")(7기 KBS 바둑왕전 준우승자)
+  - [중국](../Page/중국.md "wikilink") : [마샤오춘](../Page/마샤오춘.md "wikilink")([CCTV배](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 우승자), [녜웨이핑](https://ko.wikipedia.org/wiki/녜웨이핑 "wikilink")([CCTV배](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 준우승자)
 
 ## 대진표
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Back to School Tour](https://ko.wikipedia.org/wiki/Back_to_School_Tour).
 
 
-**Back to School Tour**(백 투 스쿨 투어)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [팝 록](https://ko.wikipedia.org/wiki/팝_록 "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](https://ko.wikipedia.org/wiki/마룬_5 "wikilink") 투어이다.
+**Back to School Tour**(백 투 스쿨 투어)는 [미국](../Page/미국.md "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [마룬 5의](../Page/마룬_5.md "wikilink") 투어이다.
 
 ## 정보
 
@@ -15,7 +15,7 @@
 2.  If I Never See Your Face Again
 3.  Makes Me Wonder
 4.  Won't Go Home Without You
-5.  If I Ain't Got You ([앨리샤 키스](https://ko.wikipedia.org/wiki/앨리샤_키스 "wikilink") 커버)
+5.  If I Ain't Got You ([앨리샤 키스](../Page/앨리샤_키스.md "wikilink") 커버)
 6.  Secret
 7.  The Sun
 8.  Sunday Morning

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Treasure Island](https://ko.wikipedia.org/wiki/Treasure_Island).
 
 
-[SM TOWN의](https://ko.wikipedia.org/wiki/SM_TOWN "wikilink") 가수별 합동 릴레이 박람회 콘서트 〈[SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink")〉의 일환으로 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 단독 콘서트 테마이다.\[1\]
+[SM TOWN의](../Page/SM_TOWN.md "wikilink") 가수별 합동 릴레이 박람회 콘서트 〈[SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink")〉의 일환으로 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 단독 콘서트 테마이다.\[1\]
 
 ## 일정
 
@@ -44,10 +44,10 @@
 
 ## 제작
 
-  - [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink") ([희철](https://ko.wikipedia.org/wiki/김희철_\(가수\) "wikilink"), [강인](https://ko.wikipedia.org/wiki/강인_\(가수\) "wikilink"), [신동](https://ko.wikipedia.org/wiki/신동_\(가수\) "wikilink"), [성민](https://ko.wikipedia.org/wiki/성민_\(1986년\) "wikilink"), [은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink"), [시원](../Page/시원_\(가수\).md "wikilink"), [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink"), [려욱](https://ko.wikipedia.org/wiki/려욱 "wikilink"), [규현](https://ko.wikipedia.org/wiki/규현 "wikilink")) [조미](https://ko.wikipedia.org/wiki/조미_\(가수\) "wikilink"), [헨리](https://ko.wikipedia.org/wiki/헨리_\(가수\) "wikilink")
+  - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") ([희철](../Page/김희철_\(가수\).md "wikilink"), [강인](../Page/강인_\(가수\).md "wikilink"), [신동](../Page/신동_\(가수\).md "wikilink"), [성민](../Page/성민_\(1986년\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [시원](../Page/시원_\(가수\).md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink")) [조미](../Page/조미_\(가수\).md "wikilink"), [헨리](../Page/헨리_\(가수\).md "wikilink")
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [G마켓](https://ko.wikipedia.org/wiki/G마켓 "wikilink"), [지니](../Page/지니_\(웹사이트\).md "wikilink")
+  - 후원 : [G마켓](../Page/G마켓.md "wikilink"), [지니](../Page/지니_\(웹사이트\).md "wikilink")
 
 ## 외부 링크
 

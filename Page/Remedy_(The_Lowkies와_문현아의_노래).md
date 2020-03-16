@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Remedy \(The Lowkies  \)](https://ko.wikipedia.org/wiki/Remedy_\(The_Lowkies__\)).
 
 
-《**Remedy**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [문현아](https://ko.wikipedia.org/wiki/문현아 "wikilink")와 THE LOWKIES의 콜라보레이션 디지털 싱글이다. 2017년 1월 16일에 발매되었다. 타이틀곡은 \<REMEDY (2am)\>이다.
+《**Remedy**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [문현아](../Page/문현아.md "wikilink")와 THE LOWKIES의 콜라보레이션 디지털 싱글이다. 2017년 1월 16일에 발매되었다. 타이틀곡은 \<REMEDY (2am)\>이다.
 
 ## 트랙리스트
 

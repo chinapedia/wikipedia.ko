@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cold \( 5 \)](https://ko.wikipedia.org/wiki/Cold_\(_5_\)).
 
 
-"**Cold**"(콜드)는 [아메리카 합중국의](https://ko.wikipedia.org/wiki/아메리카_합중국 "wikilink") [팝 록](https://ko.wikipedia.org/wiki/팝_록 "wikilink") [밴드](https://ko.wikipedia.org/wiki/밴드 "wikilink") [마룬파이브](https://ko.wikipedia.org/wiki/마룬파이브 "wikilink")의 곡이다. 미국의 래퍼 [퓨처](https://ko.wikipedia.org/wiki/퓨처 "wikilink")가 피처링하였으며, 2017년 2월 14일에 발매되었다. 2017년 발매 예정인 마룬파이브의 여섯 번째 정규 음반의 두 번째 싱글이기도 하다.
+"**Cold**"(콜드)는 [아메리카 합중국의](https://ko.wikipedia.org/wiki/아메리카_합중국 "wikilink") [팝 록](../Page/팝_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/밴드 "wikilink") [마룬파이브](https://ko.wikipedia.org/wiki/마룬파이브 "wikilink")의 곡이다. 미국의 래퍼 [퓨처](https://ko.wikipedia.org/wiki/퓨처 "wikilink")가 피처링하였으며, 2017년 2월 14일에 발매되었다. 2017년 발매 예정인 마룬파이브의 여섯 번째 정규 음반의 두 번째 싱글이기도 하다.
 
 ## 인증
 

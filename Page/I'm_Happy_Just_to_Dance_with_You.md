@@ -7,15 +7,15 @@
 
 존 레논과 폴 매카트니가 쓴 이 곡은 조지 해리슨의 보컬을 특히나 염두에 두고 작곡했는데, 당시 해리슨은 자신의 작곡에 대한 자신감이 결핍된 상태였다. 몇 년 뒤에 매카트니는 곡을 "정형화된 곡"이라고 묘사했고, 레논은 "저는 절대로 그 곡을 부르지 않을 겁니다"라고 말했다. 빽빽한 보 디들리 스타일의 리듬 기타가 해리슨의 잔잔한 보컬 위에 얹혀지는 이 곡에서 작곡자는 코러스의 클럭스 코드 선정에 대한 참신한 선택을 했다. "I'm happy just to *dance* with you"에서 B7코드를 사용한 것이다. 또한 노래는 도입에서 절이나 코러스 대신 브리지의 네 개의 마디가 동반된다는 면에서 독특하다.
 
-비틀즈는 〈I'm Happy Just to Dance with You〉를 일요일 [애비 로드 스튜디오에서](https://ko.wikipedia.org/wiki/애비_로드_스튜디오 "wikilink") 이상하리만큼 평범한 날 녹음했다. 6월 26일 유나이티드 아티스츠가 곡을 《[A Hard Day's Night](https://ko.wikipedia.org/wiki/A_Hard_Day's_Night "wikilink")》에 담아 출시했으며, 7월 20일에는 캐피틀 레코드에서 《[Something New](https://ko.wikipedia.org/wiki/Something_New "wikilink")》 음반에 담아 출시한다.\[1\] 1964년 빌보드 탑 100에서 95위에 올랐으며 이것이 마지막 차트 진입이다.\[2\]\[3\] BBC의 《프롬 유 투 어스》 방송용으로 비틀즈는 1964년 7월 22일 런던의 BBC 파리스 스튜디오에서 곡을 녹음했고, 8월 3일 처음 방송되었다.
+비틀즈는 〈I'm Happy Just to Dance with You〉를 일요일 [애비 로드 스튜디오에서](../Page/애비_로드_스튜디오.md "wikilink") 이상하리만큼 평범한 날 녹음했다. 6월 26일 유나이티드 아티스츠가 곡을 《[A Hard Day's Night](../Page/A_Hard_Day's_Night.md "wikilink")》에 담아 출시했으며, 7월 20일에는 캐피틀 레코드에서 《[Something New](https://ko.wikipedia.org/wiki/Something_New "wikilink")》 음반에 담아 출시한다.\[1\] 1964년 빌보드 탑 100에서 95위에 올랐으며 이것이 마지막 차트 진입이다.\[2\]\[3\] BBC의 《프롬 유 투 어스》 방송용으로 비틀즈는 1964년 7월 22일 런던의 BBC 파리스 스튜디오에서 곡을 녹음했고, 8월 3일 처음 방송되었다.
 
 ## 참여 인원
 
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") – 리드 보컬, 리드 기타
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 백 보컬, 리듬 기타
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – 백 보컬, 베이스
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") – 드럼, 아프리카 드럼
-  - [조지 마틴](https://ko.wikipedia.org/wiki/조지_마틴 "wikilink") – 프로듀서
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") – 리드 보컬, 리드 기타
+  - [존 레논](../Page/존_레논.md "wikilink") – 백 보컬, 리듬 기타
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") – 백 보컬, 베이스
+  - [링고 스타](../Page/링고_스타.md "wikilink") – 드럼, 아프리카 드럼
+  - [조지 마틴](../Page/조지_마틴.md "wikilink") – 프로듀서
   - [노먼 스미스](https://ko.wikipedia.org/wiki/노먼_스미스 "wikilink") – 엔지니어
 
 <!-- end list -->
@@ -35,7 +35,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>미국 <a href="https://ko.wikipedia.org/wiki/빌보드_핫_100" title="wikilink">빌보드 핫 100</a>[4][5]</p></td>
+<td><p>미국 <a href="../Page/빌보드_핫_100.md" title="wikilink">빌보드 핫 100</a>[4][5]</p></td>
 <td><p>95</p></td>
 </tr>
 <tr class="even">

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cricket Song](https://ko.wikipedia.org/wiki/Cricket_Song).
 
 
-《**Cricket Song**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [문현아](https://ko.wikipedia.org/wiki/문현아 "wikilink")의 첫 번째 싱글이다. 2017년 3월 22일에 발매되었다. 타이틀곡은 <Cricket Song>이다.
+《**Cricket Song**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [문현아](../Page/문현아.md "wikilink")의 첫 번째 싱글이다. 2017년 3월 22일에 발매되었다. 타이틀곡은 <Cricket Song>이다.
 
 ## 트랙리스트
 

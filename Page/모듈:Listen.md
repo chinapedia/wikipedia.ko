@@ -153,7 +153,7 @@ function p._main(args)
 
 <div class="selfreference">
 
-%s을 듣기에 문제가 있으면 [미디어 도움말을](https://ko.wikipedia.org/wiki/위키백과:미디어_도움말 "wikilink") 참조하세요.
+%s을 듣기에 문제가 있으면 [미디어 도움말을](../Page/위키백과:미디어_도움말.md "wikilink") 참조하세요.
 
 </div>
 

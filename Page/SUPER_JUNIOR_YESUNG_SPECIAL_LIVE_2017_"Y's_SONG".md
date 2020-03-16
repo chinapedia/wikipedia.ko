@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPER JUNIOR YESUNG SPECIAL LIVE 2017 Ys SONG\"\" --variable=\"cfmurl=SUPER_JUNIOR_YESUNG_SPECIAL_LIVE_2017_\"Ys_SONG](https://ko.wikipedia.org/wiki/).
 
 
-《**SUPER JUNIOR YESUNG SPECIAL LIVE 2017 "Y's SONG"**》는 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 멤버 **[예성](https://ko.wikipedia.org/wiki/예성 "wikilink")**의 두 번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**SUPER JUNIOR YESUNG SPECIAL LIVE 2017 "Y's SONG"**》는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 **[예성](../Page/예성.md "wikilink")**의 두 번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 

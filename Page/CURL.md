@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CURL](https://ko.wikipedia.org/wiki/CURL).
 
 
-**cURL**(/kɝl/ 또는 /kə:l/\[1\])은 다양한 [통신 프로토콜을](https://ko.wikipedia.org/wiki/통신_프로토콜 "wikilink") 이용하여 데이터를 전송하기 위한 [라이브러리와](https://ko.wikipedia.org/wiki/라이브러리_\(컴퓨팅\) "wikilink") [명령 줄](https://ko.wikipedia.org/wiki/명령_줄 "wikilink") 도구를 제공하는 컴퓨터 소프트웨어 프로젝트이다. 이 cURL 프로젝트는 libcurl와 cURL이라는 2개의 제품을 만든다. 1997년에 처음 출시되었다. 이 이름은 "client URL"을 대표한다.\[2\]
+**cURL**(/kɝl/ 또는 /kə:l/\[1\])은 다양한 [통신 프로토콜을](../Page/통신_프로토콜.md "wikilink") 이용하여 데이터를 전송하기 위한 [라이브러리와](../Page/라이브러리_\(컴퓨팅\).md "wikilink") [명령 줄](https://ko.wikipedia.org/wiki/명령_줄 "wikilink") 도구를 제공하는 컴퓨터 소프트웨어 프로젝트이다. 이 cURL 프로젝트는 libcurl와 cURL이라는 2개의 제품을 만든다. 1997년에 처음 출시되었다. 이 이름은 "client URL"을 대표한다.\[2\]
 
 ## 명령 줄에서의 cURL 사용 예
 
@@ -15,7 +15,7 @@
 
   - [libwww](https://ko.wikipedia.org/wiki/libwww "wikilink")
   - [Wget](../Page/Wget.md "wikilink")
-  - [웹 크롤러](https://ko.wikipedia.org/wiki/웹_크롤러 "wikilink")
+  - [웹 크롤러](../Page/웹_크롤러.md "wikilink")
 
 ## 각주
 

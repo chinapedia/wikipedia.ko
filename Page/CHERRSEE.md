@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CHERRSEE](https://ko.wikipedia.org/wiki/CHERRSEE).
 
 
-**CHERRSEE**(첼시, )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성으로 구성된 5인조 댄스 보컬 그룹이다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 데뷔했다. 소속 사무소는 [제이록이다](../Page/제이록_\(기업\).md "wikilink"). [프로듀서는](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 출신의 [용감한 형제이다](https://ko.wikipedia.org/wiki/용감한_형제 "wikilink").
+**CHERRSEE**(첼시, )는 [일본](../Page/일본.md "wikilink")의 여성으로 구성된 5인조 댄스 보컬 그룹이다. [2016년](../Page/2016년.md "wikilink")에 데뷔했다. 소속 사무소는 [제이록이다](../Page/제이록_\(기업\).md "wikilink"). [프로듀서는](../Page/음악_프로듀서.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") 출신의 [용감한 형제이다](../Page/용감한_형제.md "wikilink").
 
 그룹 명인 ‘CHERRSEE’은 Cherry Seeds(벚꽃의 씨앗)을 어원으로 하는 조어이며, ‘많은 사람을 매료하는 꽃을 피우는 씨앗’이라는 의미가 담겨져 있다\[1\].
 
@@ -161,7 +161,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>Mystery</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/5월_25일" title="wikilink">5월 25일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a></p></td>
 <td><ol>
 <li>Mystery</li>
 <li>ROSE</li>
@@ -174,7 +174,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>하얀 셔츠()</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/10월_12일" title="wikilink">10월 12일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/10월_12일.md" title="wikilink">10월 12일</a></p></td>
 <td><ol>
 <li>하얀 셔츠</li>
 <li>SURISURI MASURI</li>
@@ -188,7 +188,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>Cry again</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/5월_24일" title="wikilink">5월 24일</a><br />
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/5월_24일.md" title="wikilink">5월 24일</a><br />
 <em>(발매 예정)</em></p></td>
 <td><ol>
 <li>Cry again</li>

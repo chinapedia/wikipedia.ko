@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mapillary](https://ko.wikipedia.org/wiki/Mapillary).
 
 
-**Mapillary**는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") [말뫼](https://ko.wikipedia.org/wiki/말뫼 "wikilink")의 Mapillary AB사가 개발한 위치정보가 포함된 사진을 공유하는 서비스이다. 이 서비스의 창시자는 (거리 뿐만 아니라) 모든 세계를 사진을 이용해서 [크라우드소싱](https://ko.wikipedia.org/wiki/크라우드소싱 "wikilink")하기를 원한다.
+**Mapillary**는 [스웨덴](../Page/스웨덴.md "wikilink") [말뫼](../Page/말뫼.md "wikilink")의 Mapillary AB사가 개발한 위치정보가 포함된 사진을 공유하는 서비스이다. 이 서비스의 창시자는 (거리 뿐만 아니라) 모든 세계를 사진을 이용해서 [크라우드소싱](../Page/크라우드소싱.md "wikilink")하기를 원한다.
 
 ## 배경
 
@@ -13,9 +13,9 @@
 
 ## 같이 보기
 
-  - [구글 스트리트 뷰](https://ko.wikipedia.org/wiki/구글_스트리트_뷰 "wikilink")
-  - [오픈스트리트맵](https://ko.wikipedia.org/wiki/오픈스트리트맵 "wikilink")
-  - [웹 매핑](https://ko.wikipedia.org/wiki/웹_매핑 "wikilink")
+  - [구글 스트리트 뷰](../Page/구글_스트리트_뷰.md "wikilink")
+  - [오픈스트리트맵](../Page/오픈스트리트맵.md "wikilink")
+  - [웹 매핑](../Page/웹_매핑.md "wikilink")
 
 ## 각주
 

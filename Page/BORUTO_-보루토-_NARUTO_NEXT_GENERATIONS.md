@@ -1,92 +1,92 @@
 > This article is converted from Wikipedia: [BORUTO -- NARUTO NEXT GENERATIONS](https://ko.wikipedia.org/wiki/BORUTO_--_NARUTO_NEXT_GENERATIONS).
 
 
-**BORUTO -보루토- NARUTO NEXT GENERATIONS**()는 [나루토](https://ko.wikipedia.org/wiki/나루토 "wikilink") 시리즈의 세 번째 이야기이다. 만화 나루토의 속편이기도 하다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 만화 잡지 《[주간 소년 점프](https://ko.wikipedia.org/wiki/주간_소년_점프 "wikilink")》에서 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 43호부터 연재 중이다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 5일부터](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") [TV 도쿄](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 계열에서 방영하고 있으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")은 [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")에서 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월 22일부터](https://ko.wikipedia.org/wiki/7월_22일 "wikilink") 자막으로 방영하고 있고, 한국어 더빙판은 같은 방영사에서 [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [2월 11일부터](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") [5월 7일까지](https://ko.wikipedia.org/wiki/5월_7일 "wikilink") 매주 월·화요일 저녁 9시에 방영했다.
+**BORUTO -보루토- NARUTO NEXT GENERATIONS**()는 [나루토](../Page/나루토.md "wikilink") 시리즈의 세 번째 이야기이다. 만화 나루토의 속편이기도 하다. [일본](../Page/일본.md "wikilink")의 만화 잡지 《[주간 소년 점프](../Page/주간_소년_점프.md "wikilink")》에서 [2016년](../Page/2016년.md "wikilink") 43호부터 연재 중이다. [2017년](../Page/2017년.md "wikilink") [4월 5일부터](../Page/4월_5일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 방영하고 있으며, [대한민국](../Page/대한민국.md "wikilink")은 [투니버스](../Page/투니버스.md "wikilink")에서 [2017년](../Page/2017년.md "wikilink") [7월 22일부터](../Page/7월_22일.md "wikilink") 자막으로 방영하고 있고, 한국어 더빙판은 같은 방영사에서 [2019년](../Page/2019년.md "wikilink") [2월 11일부터](../Page/2월_11일.md "wikilink") [5월 7일까지](../Page/5월_7일.md "wikilink") 매주 월·화요일 저녁 9시에 방영했다.
 
 ## 개요
 
-나루토의 후속작. [휴우가 히나타와](https://ko.wikipedia.org/wiki/휴우가_히나타 "wikilink") 결혼한 [우즈마키 나루토가](https://ko.wikipedia.org/wiki/우즈마키_나루토 "wikilink") 낳은 아들 [우즈마키 보루토가](https://ko.wikipedia.org/wiki/우즈마키_보루토 "wikilink") 주인공이다.
+나루토의 후속작. [휴우가 히나타와](https://ko.wikipedia.org/wiki/휴우가_히나타 "wikilink") 결혼한 [우즈마키 나루토가](../Page/우즈마키_나루토.md "wikilink") 낳은 아들 [우즈마키 보루토가](https://ko.wikipedia.org/wiki/우즈마키_보루토 "wikilink") 주인공이다.
 
 ## 등장 인물
 
-  - [김율](https://ko.wikipedia.org/wiki/김율 "wikilink") - [우즈마키 보루토](https://ko.wikipedia.org/wiki/우즈마키_보루토 "wikilink") 役
-  - [엄상현](https://ko.wikipedia.org/wiki/엄상현 "wikilink") - [우즈마키 나루토](https://ko.wikipedia.org/wiki/우즈마키_나루토 "wikilink") 役
-  - [김영선](https://ko.wikipedia.org/wiki/김영선_\(성우\) "wikilink") - [우치하 사스케](https://ko.wikipedia.org/wiki/우치하_사스케 "wikilink") 役
-  - [여민정](https://ko.wikipedia.org/wiki/여민정_\(성우\) "wikilink") - [우치하 사쿠라](https://ko.wikipedia.org/wiki/하루노_사쿠라 "wikilink") 役
-  - [정유미](https://ko.wikipedia.org/wiki/정유미_\(성우\) "wikilink") - [우즈마키 히나타](https://ko.wikipedia.org/wiki/휴우가_히나타 "wikilink") 役
-  - [유영](https://ko.wikipedia.org/wiki/유영_\(성우\) "wikilink") - 우즈마키 히마와리 / 이토이 츠루 / 료우기 엄마 役
-  - [이지현](https://ko.wikipedia.org/wiki/이지현_\(성우\) "wikilink") - 우치하 사라다 役
+  - [김율](../Page/김율.md "wikilink") - [우즈마키 보루토](https://ko.wikipedia.org/wiki/우즈마키_보루토 "wikilink") 役
+  - [엄상현](../Page/엄상현.md "wikilink") - [우즈마키 나루토](../Page/우즈마키_나루토.md "wikilink") 役
+  - [김영선](../Page/김영선_\(성우\).md "wikilink") - [우치하 사스케](../Page/우치하_사스케.md "wikilink") 役
+  - [여민정](../Page/여민정_\(성우\).md "wikilink") - [우치하 사쿠라](https://ko.wikipedia.org/wiki/하루노_사쿠라 "wikilink") 役
+  - [정유미](../Page/정유미_\(성우\).md "wikilink") - [우즈마키 히나타](https://ko.wikipedia.org/wiki/휴우가_히나타 "wikilink") 役
+  - [유영](../Page/유영_\(성우\).md "wikilink") - 우즈마키 히마와리 / 이토이 츠루 / 료우기 엄마 役
+  - [이지현](../Page/이지현_\(성우\).md "wikilink") - 우치하 사라다 役
   - [김신우](https://ko.wikipedia.org/wiki/김현구_\(성우\) "wikilink") - 미츠키 / 로그 役
-  - [임윤선](https://ko.wikipedia.org/wiki/임윤선_\(성우\) "wikilink") - 야키미치 쵸쵸 役
+  - [임윤선](../Page/임윤선_\(성우\).md "wikilink") - 야키미치 쵸쵸 役
   - 강새봄 - 카미나리몬 덴키 / 엔코 / 사루토비 미라이 役
-  - [소정환](https://ko.wikipedia.org/wiki/소정환 "wikilink") - 덴키 아빠 / 코마메 / 핫사쿠 役
+  - [소정환](../Page/소정환.md "wikilink") - 덴키 아빠 / 코마메 / 핫사쿠 役
   - [정유정](../Page/정유정_\(성우\).md "wikilink") - 이즈노 와사비 / 스미레 엄마 役
   - 박시윤 - 스즈메노 나미다 役
-  - [강호철](https://ko.wikipedia.org/wiki/강호철 "wikilink") - 나라 시카다이 役
-  - [심규혁](https://ko.wikipedia.org/wiki/심규혁 "wikilink") - 야마나카 이노진 役
-  - [정우석](https://ko.wikipedia.org/wiki/정명준 "wikilink") - [나라 시카마루](https://ko.wikipedia.org/wiki/나라_시카마루 "wikilink") 役
-  - [서윤선](https://ko.wikipedia.org/wiki/서윤선 "wikilink") - [아부라메 시노](https://ko.wikipedia.org/wiki/아부라메_시노 "wikilink") 役
+  - [강호철](../Page/강호철.md "wikilink") - 나라 시카다이 役
+  - [심규혁](../Page/심규혁.md "wikilink") - 야마나카 이노진 役
+  - [정우석](../Page/정명준.md "wikilink") - [나라 시카마루](https://ko.wikipedia.org/wiki/나라_시카마루 "wikilink") 役
+  - [서윤선](../Page/서윤선.md "wikilink") - [아부라메 시노](https://ko.wikipedia.org/wiki/아부라메_시노 "wikilink") 役
   - [김가령](../Page/김가령.md "wikilink") - 카게이 스미레 役
-  - [한신](https://ko.wikipedia.org/wiki/한신_\(성우\) "wikilink") - 유이노 이와베 役
-  - [윤미나](https://ko.wikipedia.org/wiki/윤미나 "wikilink") - 미타라시 앙코 / 쿠로이 하코 / 분탄 엄마 役
+  - [한신](../Page/한신_\(성우\).md "wikilink") - 유이노 이와베 役
+  - [윤미나](../Page/윤미나.md "wikilink") - 미타라시 앙코 / 쿠로이 하코 / 분탄 엄마 役
   - [김다올](https://ko.wikipedia.org/wiki/김다올 "wikilink") - 쿠와 / 겐 / 센카 타카나미 役
   - 강성우 - 코우 / 가마고로 / 토목 닌자 / 쿠로야기 타요리 / 타케토리 호우키 / 유루이 / 카구루마 役
   - [김지율](../Page/김지율_\(성우\).md "wikilink") - 히키미노 마기레 / 도슈 / 하치야 / 유리토 役
   - [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink") - 코쿠보 렌가 / 부하 / 누에 / 료우기 아빠 役
   - [이현](../Page/이현_\(성우\).md "wikilink") - 카와키 役
   - 이상호 - 메탈 리 / 사유 役
-  - [이용신](https://ko.wikipedia.org/wiki/이용신 "wikilink") - [나라 테마리](https://ko.wikipedia.org/wiki/테마리 "wikilink") / 쿠레나이 / 탄포포 役
+  - [이용신](../Page/이용신.md "wikilink") - [나라 테마리](https://ko.wikipedia.org/wiki/테마리 "wikilink") / 쿠레나이 / 탄포포 役
   - 김도희 - 아히루 / 니토라 役
-  - [김기흥](https://ko.wikipedia.org/wiki/김기흥_\(성우\) "wikilink") - 이루카 / 제츠(백) 役
-  - [권성혁](https://ko.wikipedia.org/wiki/권성혁 "wikilink") - 사루토비 코노하마루 役
-  - [정승욱](https://ko.wikipedia.org/wiki/정승욱 "wikilink") - 히나타 히야시 役
-  - [정혜옥](https://ko.wikipedia.org/wiki/정혜옥_\(성우\) "wikilink") - 히나타 하나비 / 카자마츠리 모에기 / 아야메 役
-  - [류승곤](https://ko.wikipedia.org/wiki/류승곤 "wikilink") - 토네리 役
-  - [송준석](https://ko.wikipedia.org/wiki/송준석_\(성우\) "wikilink") - 카게마사 / 곤고로 役
-  - [정훈석](https://ko.wikipedia.org/wiki/정훈석 "wikilink") - 오오츠츠키 모모시키 役
+  - [김기흥](../Page/김기흥_\(성우\).md "wikilink") - 이루카 / 제츠(백) 役
+  - [권성혁](../Page/권성혁.md "wikilink") - 사루토비 코노하마루 役
+  - [정승욱](../Page/정승욱.md "wikilink") - 히나타 히야시 役
+  - [정혜옥](../Page/정혜옥_\(성우\).md "wikilink") - 히나타 하나비 / 카자마츠리 모에기 / 아야메 役
+  - [류승곤](../Page/류승곤.md "wikilink") - 토네리 役
+  - [송준석](../Page/송준석_\(성우\).md "wikilink") - 카게마사 / 곤고로 役
+  - [정훈석](../Page/정훈석.md "wikilink") - 오오츠츠키 모모시키 役
   - [한복현](../Page/한복현.md "wikilink") - 오오츠츠키 킨시키 役
-  - [박성태](https://ko.wikipedia.org/wiki/박성태 "wikilink") - [야마나카 사이](https://ko.wikipedia.org/wiki/사이_\(나루토\) "wikilink") 役
-  - [이계윤](https://ko.wikipedia.org/wiki/이계윤 "wikilink") - [야마나카 이노](https://ko.wikipedia.org/wiki/야마나카_이노 "wikilink") 役
-  - [장호비](https://ko.wikipedia.org/wiki/장호비 "wikilink") - 타누키 役
-  - [이정구](https://ko.wikipedia.org/wiki/이정구_\(성우\) "wikilink") - [오로치마루](https://ko.wikipedia.org/wiki/오로치마루 "wikilink") 役
-  - [이호산](https://ko.wikipedia.org/wiki/이호산 "wikilink") - 호즈키 스이게츠 役
-  - [김승준](https://ko.wikipedia.org/wiki/김승준_\(성우\) "wikilink") - [하타케 카카시](https://ko.wikipedia.org/wiki/하타케_카카시 "wikilink") 役
-  - [이자명](https://ko.wikipedia.org/wiki/이자명 "wikilink") - 시즈네 / 주인장 役
-  - [현경수](https://ko.wikipedia.org/wiki/현경수 "wikilink") - 키바 / 감독 役
-  - [시영준](https://ko.wikipedia.org/wiki/시영준 "wikilink") - 가이 役
-  - [김영찬](https://ko.wikipedia.org/wiki/김영찬_\(성우\) "wikilink") - 카타스케 役
-  - [김보영](https://ko.wikipedia.org/wiki/김보영_\(성우\) "wikilink") - 카루이 役
-  - [이원찬](https://ko.wikipedia.org/wiki/이원찬_\(성우\) "wikilink") - 신 役
-  - [박리나](https://ko.wikipedia.org/wiki/박리나 "wikilink") - 소년 役
-  - [임채헌](https://ko.wikipedia.org/wiki/임채헌 "wikilink") - 쥬고 役
-  - [최준영](https://ko.wikipedia.org/wiki/최준영 "wikilink") - 야마토 役
-  - [김장](https://ko.wikipedia.org/wiki/김장_\(성우\) "wikilink") - 카부토 役
-  - [김현심](https://ko.wikipedia.org/wiki/김현심 "wikilink") - 카린 役
+  - [박성태](../Page/박성태.md "wikilink") - [야마나카 사이](../Page/사이_\(나루토\).md "wikilink") 役
+  - [이계윤](../Page/이계윤.md "wikilink") - [야마나카 이노](https://ko.wikipedia.org/wiki/야마나카_이노 "wikilink") 役
+  - [장호비](../Page/장호비.md "wikilink") - 타누키 役
+  - [이정구](https://ko.wikipedia.org/wiki/이정구_\(성우\) "wikilink") - [오로치마루](../Page/오로치마루.md "wikilink") 役
+  - [이호산](../Page/이호산.md "wikilink") - 호즈키 스이게츠 役
+  - [김승준](../Page/김승준_\(성우\).md "wikilink") - [하타케 카카시](../Page/하타케_카카시.md "wikilink") 役
+  - [이자명](../Page/이자명.md "wikilink") - 시즈네 / 주인장 役
+  - [현경수](../Page/현경수.md "wikilink") - 키바 / 감독 役
+  - [시영준](../Page/시영준.md "wikilink") - 가이 役
+  - [김영찬](../Page/김영찬_\(성우\).md "wikilink") - 카타스케 役
+  - [김보영](../Page/김보영_\(성우\).md "wikilink") - 카루이 役
+  - [이원찬](../Page/이원찬_\(성우\).md "wikilink") - 신 役
+  - [박리나](../Page/박리나.md "wikilink") - 소년 役
+  - [임채헌](../Page/임채헌.md "wikilink") - 쥬고 役
+  - [최준영](../Page/최준영.md "wikilink") - 야마토 役
+  - [김장](../Page/김장_\(성우\).md "wikilink") - 카부토 役
+  - [김현심](../Page/김현심.md "wikilink") - 카린 役
   - [김현욱](../Page/김현욱_\(성우\).md "wikilink") - 카라타치 카구라 役
   - [전승화](../Page/전승화.md "wikilink") - 시즈마 役
   - [양정화](../Page/양정화_\(성우\).md "wikilink") - 테루미 메이 役
-  - [김국진](https://ko.wikipedia.org/wiki/김국진_\(성우\) "wikilink") - 이치로우타 役
-  - [김현지](https://ko.wikipedia.org/wiki/김현지_\(성우\) "wikilink") - 분탄 役
+  - [김국진](../Page/김국진_\(성우\).md "wikilink") - 이치로우타 役
+  - [김현지](../Page/김현지_\(성우\).md "wikilink") - 분탄 役
   - [강시현](../Page/강시현.md "wikilink") - 헤비이치고 役
-  - [최재호](https://ko.wikipedia.org/wiki/최재호_\(성우\) "wikilink") - 스케아 役
-  - [전해리](https://ko.wikipedia.org/wiki/전해리 "wikilink") - 키리 役
+  - [최재호](../Page/최재호_\(성우\).md "wikilink") - 스케아 役
+  - [전해리](../Page/전해리.md "wikilink") - 키리 役
   - [윤용식](../Page/윤용식.md "wikilink") - 마츠바 役
   - [박노식](../Page/박노식_\(성우\).md "wikilink") - 히다리 役
   - [권창욱](../Page/권창욱.md "wikilink") - 아시마루 役
-  - [곽윤상](https://ko.wikipedia.org/wiki/곽윤상 "wikilink") - 이오리 役
-  - [이상범](https://ko.wikipedia.org/wiki/이상범_\(성우\) "wikilink") - 토후 / 겟코 役
-  - [정영웅](https://ko.wikipedia.org/wiki/정영웅 "wikilink") - 코우타로 役
-  - [방연지](https://ko.wikipedia.org/wiki/방연지 "wikilink") - 스이카 / 어린 료우기 役
-  - [이경태](https://ko.wikipedia.org/wiki/이경태_\(성우\) "wikilink") - 료우기 役
-  - [여윤미](https://ko.wikipedia.org/wiki/여윤미 "wikilink") - 쿠로츠치 役
-  - [김래환](https://ko.wikipedia.org/wiki/김래환 "wikilink") - [가아라](https://ko.wikipedia.org/wiki/가아라 "wikilink") 役
-  - [최승훈](https://ko.wikipedia.org/wiki/최승훈 "wikilink") - 신키 役
-  - [이장원](https://ko.wikipedia.org/wiki/이장원_\(성우\) "wikilink") - 킬러비 役
-  - [민응식](https://ko.wikipedia.org/wiki/민응식 "wikilink") - 쿠라마(구미) 役
-  - [홍범기](https://ko.wikipedia.org/wiki/홍범기 "wikilink") - [록 리](https://ko.wikipedia.org/wiki/록_리 "wikilink") 役
-  - [한신정](https://ko.wikipedia.org/wiki/한신정 "wikilink") - [텐텐](https://ko.wikipedia.org/wiki/텐텐_\(나루토\) "wikilink") 役
-  - [김명준](https://ko.wikipedia.org/wiki/김명준_\(성우\) "wikilink") - 쵸주로 / 시험관 役
-  - [김정훈](https://ko.wikipedia.org/wiki/김정훈_\(성우\) "wikilink") - 다루이 / 광고 / 쿄호 / 우돈 / 오코 役
+  - [곽윤상](../Page/곽윤상.md "wikilink") - 이오리 役
+  - [이상범](../Page/이상범_\(성우\).md "wikilink") - 토후 / 겟코 役
+  - [정영웅](../Page/정영웅.md "wikilink") - 코우타로 役
+  - [방연지](../Page/방연지.md "wikilink") - 스이카 / 어린 료우기 役
+  - [이경태](../Page/이경태_\(성우\).md "wikilink") - 료우기 役
+  - [여윤미](../Page/여윤미.md "wikilink") - 쿠로츠치 役
+  - [김래환](../Page/김래환.md "wikilink") - [가아라](../Page/가아라.md "wikilink") 役
+  - [최승훈](../Page/최승훈.md "wikilink") - 신키 役
+  - [이장원](../Page/이장원_\(성우\).md "wikilink") - 킬러비 役
+  - [민응식](../Page/민응식.md "wikilink") - 쿠라마(구미) 役
+  - [홍범기](../Page/홍범기.md "wikilink") - [록 리](https://ko.wikipedia.org/wiki/록_리 "wikilink") 役
+  - [한신정](../Page/한신정.md "wikilink") - [텐텐](https://ko.wikipedia.org/wiki/텐텐_\(나루토\) "wikilink") 役
+  - [김명준](../Page/김명준_\(성우\).md "wikilink") - 쵸주로 / 시험관 役
+  - [김정훈](../Page/김정훈_\(성우\).md "wikilink") - 다루이 / 광고 / 쿄호 / 우돈 / 오코 役
 
 ## 우리말 제작진
 
@@ -104,7 +104,7 @@
   - 종합편집 : 송찬미
   - 번역 : 이지영
   - 우리말 연출 : 유선주
-  - 우리말 제작 : [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")
+  - 우리말 제작 : [투니버스](../Page/투니버스.md "wikilink")
 
 ## 방영 목록
 

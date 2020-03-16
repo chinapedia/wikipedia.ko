@@ -13,10 +13,10 @@
 
 #### 참여 인원
 
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") - 리드 보컬, 베이스
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") - 통기타, 백 보컬
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") - 리드 기타, 백 보컬
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") - 브러시 드럼
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") - 리드 보컬, 베이스
+  - [존 레논](../Page/존_레논.md "wikilink") - 통기타, 백 보컬
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") - 리드 기타, 백 보컬
+  - [링고 스타](../Page/링고_스타.md "wikilink") - 브러시 드럼
 
 [노먼 스미스가](https://ko.wikipedia.org/wiki/노먼_스미스 "wikilink") 엔지니어로 참여\[6\]
 

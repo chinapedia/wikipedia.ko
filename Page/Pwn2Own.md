@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Pwn2Own](https://ko.wikipedia.org/wiki/Pwn2Own).
 
 
-**Pwn2Own**은 2007년을 기점으로 CanSecWest [보안 콘퍼런스에서](https://ko.wikipedia.org/wiki/컴퓨터_보안_콘퍼런스 "wikilink") 해마다 개최되는 [컴퓨터 해킹](https://ko.wikipedia.org/wiki/해커 "wikilink") 대회이다.\[1\] 대회 참가자들은 [과거에 알려져 있지 않은 취약점을](https://ko.wikipedia.org/wiki/제로_데이_공격 "wikilink") 지닌, 널리 사용되는 [소프트웨어와](https://ko.wikipedia.org/wiki/컴퓨터_소프트웨어 "wikilink") 모바일 장치들의 [취약점 공격을](https://ko.wikipedia.org/wiki/취약점_공격 "wikilink") 맡게 된다. 대회 우승자들은 그들이 취약점 공격을 단행한 기기, 상금, 승리 기념 축하 "마스터" 재킷을 받는다. "Pwn2Own"라는 이름은 장치를 소유(own) 또는 승리(win)하기 위해 장치를 [pwn](https://ko.wikipedia.org/wiki/pwn "wikilink")하거나 해킹(hack)해야 한다는 사실에서 기인한다. Pwn2Own 대회는 널리 사용되는 장치와 소프트웨어의 취약성을 검증하는 역할을 하며 지난해 이후로 보안의 진행도를 가늠한다.
+**Pwn2Own**은 2007년을 기점으로 CanSecWest [보안 콘퍼런스에서](https://ko.wikipedia.org/wiki/컴퓨터_보안_콘퍼런스 "wikilink") 해마다 개최되는 [컴퓨터 해킹](../Page/해커.md "wikilink") 대회이다.\[1\] 대회 참가자들은 [과거에 알려져 있지 않은 취약점을](../Page/제로_데이_공격.md "wikilink") 지닌, 널리 사용되는 [소프트웨어와](https://ko.wikipedia.org/wiki/컴퓨터_소프트웨어 "wikilink") 모바일 장치들의 [취약점 공격을](../Page/취약점_공격.md "wikilink") 맡게 된다. 대회 우승자들은 그들이 취약점 공격을 단행한 기기, 상금, 승리 기념 축하 "마스터" 재킷을 받는다. "Pwn2Own"라는 이름은 장치를 소유(own) 또는 승리(win)하기 위해 장치를 [pwn](https://ko.wikipedia.org/wiki/pwn "wikilink")하거나 해킹(hack)해야 한다는 사실에서 기인한다. Pwn2Own 대회는 널리 사용되는 장치와 소프트웨어의 취약성을 검증하는 역할을 하며 지난해 이후로 보안의 진행도를 가늠한다.
 
 ## 성공적인 취약점 공격 요약
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KSF](https://ko.wikipedia.org/wiki/KSF).
 
 
-**KSF선박금융**(KSF船舶金融)은 선박투자회사(펀드)로부터 업무를 위탁받아 해운사와 조선소, 금융기관 등 당사자들 간의 계약을 이행하여 해운산업의 활성화 등 국민경제의 발전에 이바지하기 위하여 설립된 주식회사이다.\[1\]\[2\]\[3\]\[4\] KSF는 Korea Ship Finance의 약자이며, 주요 주주로 [한국수출입은행](https://ko.wikipedia.org/wiki/한국수출입은행 "wikilink")(14.99%), [SCK](https://ko.wikipedia.org/wiki/SCK "wikilink")(11.57%), [제이원인베스트먼트](https://ko.wikipedia.org/wiki/제이원인베스트먼트 "wikilink")(9.80%), [리홈](https://ko.wikipedia.org/wiki/리홈 "wikilink")(9.09%), [OS\&IL](https://ko.wikipedia.org/wiki/OS&IL "wikilink")(7.08%), [장금상선](https://ko.wikipedia.org/wiki/장금상선 "wikilink")(7.20%), [대우조선해양](https://ko.wikipedia.org/wiki/대우조선해양 "wikilink")(3.54%), [삼성생명](https://ko.wikipedia.org/wiki/삼성생명 "wikilink")(2.36%), [현대중공업](https://ko.wikipedia.org/wiki/현대중공업 "wikilink")(2.36%), [현대미포조선](https://ko.wikipedia.org/wiki/현대미포조선 "wikilink")(1.18%) 등이 있다.\[5\]\[6\] 본사는 [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 삼성로 528 부방빌딩 1층에 있고, BIFC본부가 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [남구](https://ko.wikipedia.org/wiki/남구_\(부산광역시\) "wikilink") 문헌금융로 40 부산국제금융센터 22층에 있다.
+**KSF선박금융**(KSF船舶金融)은 선박투자회사(펀드)로부터 업무를 위탁받아 해운사와 조선소, 금융기관 등 당사자들 간의 계약을 이행하여 해운산업의 활성화 등 국민경제의 발전에 이바지하기 위하여 설립된 주식회사이다.\[1\]\[2\]\[3\]\[4\] KSF는 Korea Ship Finance의 약자이며, 주요 주주로 [한국수출입은행](../Page/한국수출입은행.md "wikilink")(14.99%), [SCK](https://ko.wikipedia.org/wiki/SCK "wikilink")(11.57%), [제이원인베스트먼트](https://ko.wikipedia.org/wiki/제이원인베스트먼트 "wikilink")(9.80%), [리홈](https://ko.wikipedia.org/wiki/리홈 "wikilink")(9.09%), [OS\&IL](https://ko.wikipedia.org/wiki/OS&IL "wikilink")(7.08%), [장금상선](https://ko.wikipedia.org/wiki/장금상선 "wikilink")(7.20%), [대우조선해양](../Page/대우조선해양.md "wikilink")(3.54%), [삼성생명](https://ko.wikipedia.org/wiki/삼성생명 "wikilink")(2.36%), [현대중공업](../Page/현대중공업.md "wikilink")(2.36%), [현대미포조선](../Page/현대미포조선.md "wikilink")(1.18%) 등이 있다.\[5\]\[6\] 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 삼성로 528 부방빌딩 1층에 있고, BIFC본부가 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [남구](../Page/남구_\(부산광역시\).md "wikilink") 문헌금융로 40 부산국제금융센터 22층에 있다.
 
 ## 설립 근거
 
@@ -11,7 +11,7 @@
 
   - 2003년 10월 28일 주식회사 KSF 설립
   - 2004년 02월 04일 **KSF선박금융으로 명칭 변경**
-  - 2004년 02월 19일 [해양수산부](https://ko.wikipedia.org/wiki/대한민국_해양수산부 "wikilink") 선박운용회사 등록\[8\]
+  - 2004년 02월 19일 [해양수산부](../Page/대한민국_해양수산부.md "wikilink") 선박운용회사 등록\[8\]
 
 ## 주요 업무
 
@@ -29,7 +29,7 @@
   - [한국선박관리산업협회](../Page/한국선박관리산업협회.md "wikilink")
   - [한국선주협회](https://ko.wikipedia.org/wiki/한국선주협회 "wikilink")
   - [한국해운중개업협회](https://ko.wikipedia.org/wiki/한국해운중개업협회 "wikilink")
-  - [한국해운조합](https://ko.wikipedia.org/wiki/한국해운조합 "wikilink")
+  - [한국해운조합](../Page/한국해운조합.md "wikilink")
 
 ## 외부 링크
 

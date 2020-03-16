@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
 
 
-**클루비 아틀레치쿠 메트로폴리타누**()는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 축구단으로 [산타카타리나주](https://ko.wikipedia.org/wiki/산타카타리나주 "wikilink")의 [블루메나우](https://ko.wikipedia.org/wiki/블루메나우 "wikilink")를 연고로 한다. [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 현재 브라질 축구 4부 리그 [캄페오나투 브라질레이루 세리이 D에](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 참가하고 있다.
+**클루비 아틀레치쿠 메트로폴리타누**()는 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [산타카타리나주](https://ko.wikipedia.org/wiki/산타카타리나주 "wikilink")의 [블루메나우](https://ko.wikipedia.org/wiki/블루메나우 "wikilink")를 연고로 한다. [2017년](../Page/2017년.md "wikilink") 현재 브라질 축구 4부 리그 [캄페오나투 브라질레이루 세리이 D에](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 참가하고 있다.
 
 ## 대회 경력
 

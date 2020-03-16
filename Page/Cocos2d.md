@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cocos2d](https://ko.wikipedia.org/wiki/Cocos2d).
 
 
-**Cocos2d**는 2D 게임 개발용 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [소프트웨어 프레임워크이다](https://ko.wikipedia.org/wiki/소프트웨어_프레임워크 "wikilink"). 게임과 [모바일 앱](https://ko.wikipedia.org/wiki/모바일_애플리케이션 "wikilink"), 반응형 [전자책](https://ko.wikipedia.org/wiki/전자책 "wikilink") 등 [GUI](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 기반 상호작용 소프트웨어의 개발에 사용할 수 있다.
+**Cocos2d**는 2D 게임 개발용 [오픈 소스](../Page/오픈_소스.md "wikilink") [소프트웨어 프레임워크이다](../Page/소프트웨어_프레임워크.md "wikilink"). 게임과 [모바일 앱](https://ko.wikipedia.org/wiki/모바일_애플리케이션 "wikilink"), 반응형 [전자책](../Page/전자책.md "wikilink") 등 [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") 기반 상호작용 소프트웨어의 개발에 사용할 수 있다.
 
 Cocos2d는 Cocos2d-x, Cocos2d-JS, Cocos2d-XNA, Cocos2d-Swift 등 Cocos2d에서 파생된 여러 자식 프레임워크를 포함한다.
 

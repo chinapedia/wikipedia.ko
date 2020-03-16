@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [C  ](https://ko.wikipedia.org/wiki/C__).
 
 
-**C 프로세스 제어**는 [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") 언어의 [표준 라이브러리에서](https://ko.wikipedia.org/wiki/C_표준_라이브러리 "wikilink") 기본적인 프로세스 제어 행위를 구현한 함수들의 집합을 의미한다.\[1\]\[2\] 프로세스 제어 행위들은 프로그램 종류나 환경 동작들의 목록에 접근하는 것들을 포함한다.
+**C 프로세스 제어**는 [C](../Page/C_\(프로그래밍_언어\).md "wikilink") 언어의 [표준 라이브러리에서](../Page/C_표준_라이브러리.md "wikilink") 기본적인 프로세스 제어 행위를 구현한 함수들의 집합을 의미한다.\[1\]\[2\] 프로세스 제어 행위들은 프로그램 종류나 환경 동작들의 목록에 접근하는 것들을 포함한다.
 
 ## 함수들 개요
 
@@ -25,7 +25,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="http://en.cppreference.com/w/c/program/_Exit"><code>_Exit</code></a></p></td>
-<td><p>청소 없이 정상적인 프로그램을 종료시킨다 (<a href="https://ko.wikipedia.org/wiki/C99" title="wikilink">C99</a>)</p></td>
+<td><p>청소 없이 정상적인 프로그램을 종료시킨다 (<a href="../Page/C99.md" title="wikilink">C99</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="http://en.cppreference.com/w/c/program/atexit"><code>atexit</code></a></p></td>

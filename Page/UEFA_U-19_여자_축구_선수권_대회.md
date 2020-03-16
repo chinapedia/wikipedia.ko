@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UEFA U-19    ](https://ko.wikipedia.org/wiki/UEFA_U-19____).
 
 
-**UEFA U-19 여자 축구 선수권 대회**(UEFA Women's Under-19 Championship)는 [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")(UEFA)이 주관하는 19세 이하 [여자 축구](https://ko.wikipedia.org/wiki/여자_축구 "wikilink") 국가대표팀 간의 국가대항전이다. 홀수 해에 열리는 대회는 [FIFA U-20 여자 월드컵의](https://ko.wikipedia.org/wiki/FIFA_U-20_여자_월드컵 "wikilink") 유럽 지역 예선을 겸한다.
+**UEFA U-19 여자 축구 선수권 대회**(UEFA Women's Under-19 Championship)는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 주관하는 19세 이하 [여자 축구](../Page/여자_축구.md "wikilink") 국가대표팀 간의 국가대항전이다. 홀수 해에 열리는 대회는 [FIFA U-20 여자 월드컵의](../Page/FIFA_U-20_여자_월드컵.md "wikilink") 유럽 지역 예선을 겸한다.
 
 ## 역대 대회
 
@@ -110,7 +110,7 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 2</strong><br />
-<strong>6 : 5</strong> (<a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">승부차기</a>)</p></td>
+<strong>6 : 5</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -128,7 +128,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/2007년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>2 : 0</strong> (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>)</p></td>
+<td><p><strong>2 : 0</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -173,7 +173,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/2012년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong> (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>)</p></td>
+<td><p><strong>1 : 0</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -182,7 +182,7 @@
 <em><a href="../Page/2013년_UEFA_U-19_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>2 : 0</strong> (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>)</p></td>
+<td><p><strong>2 : 0</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>

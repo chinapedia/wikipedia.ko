@@ -11,7 +11,7 @@
 
 ### 김동완의 부상
 
-동년 2월 21일, 빗길에 미끄러져 십자인대에 부상을 당했던 [김동완이](https://ko.wikipedia.org/wiki/김동완_\(가수\) "wikilink") 공연에 앞서 자신의 자필 편지를 통해 부상으로 인한 회복 단계 차 일부 무대에 참석하지 못함을 미리 공지했다.\[2\]
+동년 2월 21일, 빗길에 미끄러져 십자인대에 부상을 당했던 [김동완이](../Page/김동완_\(가수\).md "wikilink") 공연에 앞서 자신의 자필 편지를 통해 부상으로 인한 회복 단계 차 일부 무대에 참석하지 못함을 미리 공지했다.\[2\]
 
 ## 투어 일정
 
@@ -70,7 +70,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>2017 SHINHWA SUMMER LIVE CONCERT 《MOVE》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/7월_17일" title="wikilink">7월 17일</a></li>
+<li>발매일 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/7월_17일.md" title="wikilink">7월 17일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -94,7 +94,7 @@
 <td style="text-align: left;"><p>블루레이</p></td>
 <td style="text-align: left;"><p>2017 SHINHWA SUMMER LIVE CONCERT 《MOVE》 Blu-ray</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/8월_17일" title="wikilink">8월 17일</a></li>
+<li>발매일 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/8월_17일.md" title="wikilink">8월 17일</a></li>
 </ul></td>
 </tr>
 </tbody>

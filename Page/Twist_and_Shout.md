@@ -39,10 +39,10 @@
 
 ### 참여 인원
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 리드 보컬, 리듬 기타
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – 베이스, 백 보컬
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") – 리드 기타, 백 보컬
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") – 드럼
+  - [존 레논](../Page/존_레논.md "wikilink") – 리드 보컬, 리듬 기타
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") – 베이스, 백 보컬
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") – 리드 기타, 백 보컬
+  - [링고 스타](../Page/링고_스타.md "wikilink") – 드럼
 
 [노먼 스미스가](https://ko.wikipedia.org/wiki/노먼_스미스 "wikilink") 엔지니어로 참여\[18\]
 
@@ -108,7 +108,7 @@
 
 ## 더 후 버전
 
-영국의 록 밴드 [더 후는](https://ko.wikipedia.org/wiki/더_후 "wikilink") 자신들의 활동 시기에 라이브로 커버한 바 있다. 아일 오브 와이트 페스티벌에서는 로저 돌트리가 리드 싱어로, 파웰 투어에서는 존 엔트위슬이 리드 싱어로 각각 1970년과 1982년 선보였다.\[22\]
+영국의 록 밴드 [더 후는](../Page/더_후.md "wikilink") 자신들의 활동 시기에 라이브로 커버한 바 있다. 아일 오브 와이트 페스티벌에서는 로저 돌트리가 리드 싱어로, 파웰 투어에서는 존 엔트위슬이 리드 싱어로 각각 1970년과 1982년 선보였다.\[22\]
 
 1982년 버전은 라이브 음반 《[Who's Last](https://ko.wikipedia.org/wiki/Who's_Last "wikilink")》 (리치필드 대경기장에서 1982년 12월 14일 녹음해 1984년 11월 출시), 《[Live From Toronto](https://ko.wikipedia.org/wiki/Live_from_Toronto_\(The_Who_album\) "wikilink")》 (메이플 리프 가든에서 1982년 12월 17일 녹음해 2006년 출시), 1994년 컴필레이션 음반 《[Thirty Years of Maximum R\&B](https://ko.wikipedia.org/wiki/Thirty_Years_of_Maximum_R&B "wikilink")》 (메이플 리프 가든에서 1982년 12월 16일 녹음했으나 라이너 노츠에는 CNE 스타디움에서 1982년 10월 9일 녹음되어 있다고 잘못 기재)에서 들을 수 있다.
 
