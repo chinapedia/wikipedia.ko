@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   OST Part 1](https://ko.wikipedia.org/wiki/___OST_Part_1).
 
 
-《**천 번째 남자 OST Part 1**》는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 금요시트콤 [천 번째 남자의](https://ko.wikipedia.org/wiki/천_번째_남자 "wikilink") 사운드트랙 음반이며, B1A4의 두 번째 사운드트랙 음반이다.\[1\] 타이틀곡 **Hey Girl**은 [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 단독콘서트에서도 자주 무대를 가졌다.
+《**천 번째 남자 OST Part 1**》는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 금요시트콤 [천 번째 남자의](../Page/천_번째_남자.md "wikilink") 사운드트랙 음반이며, B1A4의 두 번째 사운드트랙 음반이다.\[1\] 타이틀곡 **Hey Girl**은 [B1A4](../Page/B1A4.md "wikilink")의 단독콘서트에서도 자주 무대를 가졌다.
 
 ## 트랙리스트
 

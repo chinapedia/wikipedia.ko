@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PLAY THE JOKER](https://ko.wikipedia.org/wiki/PLAY_THE_JOKER).
 
 
-《**PLAY THE JOKER**》는 [VALSHE](../Page/VALSHE.md "wikilink")의 1번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 22일에](https://ko.wikipedia.org/wiki/2월_22일 "wikilink") Oth에서 발매됐다.
+《**PLAY THE JOKER**》는 [VALSHE](../Page/VALSHE.md "wikilink")의 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [2012년](../Page/2012년.md "wikilink") [2월 22일에](../Page/2월_22일.md "wikilink") Oth에서 발매됐다.
 
 ## 개용
 

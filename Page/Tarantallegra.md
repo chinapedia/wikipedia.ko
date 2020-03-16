@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tarantallegra](https://ko.wikipedia.org/wiki/Tarantallegra).
 
 
-《**Tarantallegra**》는 [JYJ](https://ko.wikipedia.org/wiki/JYJ "wikilink") 멤버 [XIA(준수)의](https://ko.wikipedia.org/wiki/김준수_\(1986년\) "wikilink") 첫 번째 정규 음반이다.
+《**Tarantallegra**》는 [JYJ](../Page/JYJ.md "wikilink") 멤버 [XIA(준수)의](https://ko.wikipedia.org/wiki/김준수_\(1986년\) "wikilink") 첫 번째 정규 음반이다.
 
 ## 수록곡
 

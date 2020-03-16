@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [REVOLT e.p.](https://ko.wikipedia.org/wiki/REVOLT_e.p.).
 
 
-〈**REVOLT e.p.**〉는 [VALSHE](../Page/VALSHE.md "wikilink")의 1번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 27일에](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") [5pb. 레코드에서](https://ko.wikipedia.org/wiki/5pb. "wikilink") 발매됐다.
+〈**REVOLT e.p.**〉는 [VALSHE](../Page/VALSHE.md "wikilink")의 1번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2011년](../Page/2011년.md "wikilink") [4월 27일에](../Page/4월_27일.md "wikilink") [5pb. 레코드에서](https://ko.wikipedia.org/wiki/5pb. "wikilink") 발매됐다.
 
 ## 해설
 
-VALSHE 첫 싱글. 타이틀곡 〈REVOLT〉는 [TOKYO MX](https://ko.wikipedia.org/wiki/도쿄_메트로폴리탄_텔레비전 "wikilink") 《[아케사카 사토미의 「아케테레」](https://ko.wikipedia.org/wiki/아케사카_사토미의_「아케테레」 "wikilink")》 엔딩 테마. 커플링곡 〈Collar〉는 동일 방송의 오프닝 및 의류 브랜드 Deorart의 2011 봄 테마송. 초회반은 타이틀곡의 프로모션 비디오를 수록한 DVD가 있다\[1\]. 또, 6번째 싱글 〈[Butterfly Core](../Page/Butterfly_Core.md "wikilink")〉에 나오기 전에 당시 최대의 히트작이기도 했다.
+VALSHE 첫 싱글. 타이틀곡 〈REVOLT〉는 [TOKYO MX](../Page/도쿄_메트로폴리탄_텔레비전.md "wikilink") 《[아케사카 사토미의 「아케테레」](https://ko.wikipedia.org/wiki/아케사카_사토미의_「아케테레」 "wikilink")》 엔딩 테마. 커플링곡 〈Collar〉는 동일 방송의 오프닝 및 의류 브랜드 Deorart의 2011 봄 테마송. 초회반은 타이틀곡의 프로모션 비디오를 수록한 DVD가 있다\[1\]. 또, 6번째 싱글 〈[Butterfly Core](../Page/Butterfly_Core.md "wikilink")〉에 나오기 전에 당시 최대의 히트작이기도 했다.
 
 ## 수록곡
 

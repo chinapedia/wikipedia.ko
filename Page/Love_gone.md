@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love gone](https://ko.wikipedia.org/wiki/Love_gone).
 
 
-〈**Love gone**〉는 [코마츠 미호의](https://ko.wikipedia.org/wiki/코마츠_미호 "wikilink") 12번째 싱글이다.
+〈**Love gone**〉는 [코마츠 미호의](../Page/코마츠_미호.md "wikilink") 12번째 싱글이다.
 
 ## 개요
 
@@ -15,7 +15,7 @@
       -
         [TBS계](https://ko.wikipedia.org/wiki/TBS_TV "wikilink") 《코코로TV》 닫는 곡.
         TBS계 《P.S.: Pop Shake》 닫는 곡.
-        [프로모션 비디오는](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink")의 [한카이 전차의](https://ko.wikipedia.org/wiki/한카이_전기_궤도 "wikilink") 차량 한 대를 빌려서 촬영됐다.
+        [프로모션 비디오는](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") [오사카부](../Page/오사카부.md "wikilink")의 [한카이 전차의](../Page/한카이_전기_궤도.md "wikilink") 차량 한 대를 빌려서 촬영됐다.
 2.  **이 이외의 사랑은 영원히 계속돼** ()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
 3.  **Love gone (instrumental)**

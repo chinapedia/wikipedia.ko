@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kiss My Lips](https://ko.wikipedia.org/wiki/Kiss_My_Lips).
 
 
-***Kiss My Lips***는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")의 여덟 번째 한국 정규 음반이다. 타이틀곡은 보아가 직접 작사·작곡에 참여한 "Kiss My Lips"이다. *Kiss My Lips*은 2015년 5월 13일 KT 뮤직을 통해 발매되었고, 이에 앞서 온라인을 통해 12일 발매 되었다. 발매 이듬해에 개최된 '제25회 하이원 서울가요대상'에서 최고앨범상을 수상하였다.
+***Kiss My Lips***는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [보아](../Page/보아.md "wikilink")의 여덟 번째 한국 정규 음반이다. 타이틀곡은 보아가 직접 작사·작곡에 참여한 "Kiss My Lips"이다. *Kiss My Lips*은 2015년 5월 13일 KT 뮤직을 통해 발매되었고, 이에 앞서 온라인을 통해 12일 발매 되었다. 발매 이듬해에 개최된 '제25회 하이원 서울가요대상'에서 최고앨범상을 수상하였다.
 
 ## 작업 및 발매
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Odd \( \)](https://ko.wikipedia.org/wiki/Odd_\(_\)).
 
 
-《**Odd**》는 대한민국의 음악 그룹 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 네 번째 정규 음반이다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 18일에](https://ko.wikipedia.org/wiki/5월_18일 "wikilink") 발매되었으며, 같은 해 [8월 3일에](https://ko.wikipedia.org/wiki/8월_3일 "wikilink") 리패키지가 발매되었다.
+《**Odd**》는 대한민국의 음악 그룹 [샤이니](../Page/샤이니.md "wikilink")의 네 번째 정규 음반이다. [2015년](../Page/2015년.md "wikilink") [5월 18일에](../Page/5월_18일.md "wikilink") 발매되었으며, 같은 해 [8월 3일에](../Page/8월_3일.md "wikilink") 리패키지가 발매되었다.
 
 ## 수록곡
 
@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>미국 월드 앨범 (<a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a>)[1]</p></td>
+<td><p>미국 월드 앨범 (<a href="../Page/빌보드.md" title="wikilink">빌보드</a>)[1]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">

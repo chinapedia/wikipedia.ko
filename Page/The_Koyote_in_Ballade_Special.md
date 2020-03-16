@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Koyote in Ballade Special](https://ko.wikipedia.org/wiki/The_Koyote_in_Ballade_Special).
 
 
-《**The Koyote in Ballade Special**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 혼성 음악 그룹 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 베스트 음반으로, 2장의 CD로 구성되어 있다. CD1은 [3집부터](https://ko.wikipedia.org/wiki/Passion_\(코요태의_음반\) "wikilink") [8집까지의](../Page/必UP.md "wikilink") 발라드곡으로, CD2는 [뮤직 비디오와](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 논스톱 발라드곡으로 구성되어 있다.
+《**The Koyote in Ballade Special**》은 [대한민국](../Page/대한민국.md "wikilink")의 혼성 음악 그룹 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 베스트 음반으로, 2장의 CD로 구성되어 있다. CD1은 [3집부터](../Page/Passion_\(코요태의_음반\).md "wikilink") [8집까지의](../Page/必UP.md "wikilink") 발라드곡으로, CD2는 [뮤직 비디오와](../Page/뮤직_비디오.md "wikilink") 논스톱 발라드곡으로 구성되어 있다.
 
 ## 수록곡
 

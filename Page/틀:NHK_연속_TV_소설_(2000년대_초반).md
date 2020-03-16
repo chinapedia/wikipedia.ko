@@ -59,7 +59,7 @@
 구마모토 현 <a href="https://ko.wikipedia.org/wiki/야마가_시" title="wikilink">야마가 시</a></p></td>
 <td><p>오이시 시즈카<br />
 (大石 静)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오카모토_아야" title="wikilink">오카모토 아야</a></p></td>
+<td><p><a href="../Page/오카모토_아야.md" title="wikilink">오카모토 아야</a></p></td>
 <td><p>사사키 미즈키<br />
 (佐々木 美月)</p></td>
 <td><p>24.0%</p></td>
@@ -80,7 +80,7 @@
 (ちゅらさん)</p></td>
 <td><p>2001년</p></td>
 <td><p>4월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오키나와현" title="wikilink">오키나와현</a> <a href="https://ko.wikipedia.org/wiki/고하마_섬" title="wikilink">고하마 섬</a><br />
+<td><p><a href="../Page/오키나와현.md" title="wikilink">오키나와현</a> <a href="https://ko.wikipedia.org/wiki/고하마_섬" title="wikilink">고하마 섬</a><br />
 오키나와 현 <a href="https://ko.wikipedia.org/wiki/나하_시" title="wikilink">나하 시</a><br />
 도쿄 도</p></td>
 <td><p>오카다 요시카즈<br />
@@ -136,8 +136,8 @@
 (さくら)</p></td>
 <td><p>2002년</p></td>
 <td><p>4월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">미국</a> <a href="https://ko.wikipedia.org/wiki/하와이" title="wikilink">하와이</a><br />
-<a href="https://ko.wikipedia.org/wiki/기후현" title="wikilink">기후현</a> <a href="https://ko.wikipedia.org/wiki/다카야마_시" title="wikilink">다카야마 시</a><br />
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a> <a href="https://ko.wikipedia.org/wiki/하와이" title="wikilink">하와이</a><br />
+<a href="../Page/기후현.md" title="wikilink">기후현</a> <a href="https://ko.wikipedia.org/wiki/다카야마_시" title="wikilink">다카야마 시</a><br />
 기후 현 <a href="https://ko.wikipedia.org/wiki/히다_시" title="wikilink">히다 시</a><br />
 도쿄 도 <a href="https://ko.wikipedia.org/wiki/에도가와_구" title="wikilink">에도가와 구</a></p></td>
 <td><p>다부치 구미코<br />
@@ -162,7 +162,7 @@
 <td><p><strong>만텐</strong><br />
 (まんてん)</p></td>
 <td><p>2002년 9월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가고시마현" title="wikilink">가고시마현</a> <a href="https://ko.wikipedia.org/wiki/야쿠_섬" title="wikilink">야쿠 섬</a><br />
+<td><p><a href="../Page/가고시마현.md" title="wikilink">가고시마현</a> <a href="https://ko.wikipedia.org/wiki/야쿠_섬" title="wikilink">야쿠 섬</a><br />
 오사카 부 오사카 시</p></td>
 <td><p>마키노 노조미<br />
 (マキノ ノゾミ)</p></td>
@@ -220,12 +220,12 @@
 (てるてる家族)</p></td>
 <td><p>2003년 9월 29일</p></td>
 <td><p>오사카 부 <a href="https://ko.wikipedia.org/wiki/이케다_시" title="wikilink">이케다 시</a><br />
-<a href="https://ko.wikipedia.org/wiki/나가사키현" title="wikilink">나가사키현</a> <a href="https://ko.wikipedia.org/wiki/사세보_시" title="wikilink">사세보 시</a></p></td>
+<a href="../Page/나가사키현.md" title="wikilink">나가사키현</a> <a href="https://ko.wikipedia.org/wiki/사세보_시" title="wikilink">사세보 시</a></p></td>
 <td><p>나카니시 레이<br />
 (なかにし 礼)</p></td>
 <td><p>오모리 스미오<br />
 (大森 寿美男)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이시하라_사토미" title="wikilink">이시하라 사토미</a></p></td>
+<td><p><a href="../Page/이시하라_사토미.md" title="wikilink">이시하라 사토미</a></p></td>
 <td><p>이와타 후유코<br />
 (岩田 冬子)<br />
 <small>&lt;☆&gt;</small></p></td>
@@ -250,7 +250,7 @@
 도쿄 도 <a href="https://ko.wikipedia.org/wiki/무사시노_시" title="wikilink">무사시노 시</a></p></td>
 <td><p>다케야마 요<br />
 (竹山 洋)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지사와_에마" title="wikilink">후지사와 에마</a></p></td>
+<td><p><a href="../Page/후지사와_에마.md" title="wikilink">후지사와 에마</a></p></td>
 <td><p>사토 덴카<br />
 (佐藤 天花)</p></td>
 </tr>
@@ -266,7 +266,7 @@
 </tr>
 <tr class="even">
 <td><p>71</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/와카바_(드라마)" title="wikilink">와카바</a></strong><br />
+<td><p><strong><a href="../Page/와카바_(드라마).md" title="wikilink">와카바</a></strong><br />
 (わかば)</p></td>
 <td><p>2004년 9월 27일</p></td>
 <td><p>효고 현 고베 시<br />

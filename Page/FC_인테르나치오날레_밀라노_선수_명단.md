@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC    ](https://ko.wikipedia.org/wiki/FC____).
 
 
-이 목록은 **[FC 인테르나치오날레 밀라노](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노 "wikilink")**에서 뛴 유명한 선수들을 적은 것이다. 대부분 공식 경기에 100경기 이상 출전한 선수들을 적었으나, 그에 약간 못 미치더라도 인테르의 역사에 큰 기여를 한 선수들을 적었다.
+이 목록은 **[FC 인테르나치오날레 밀라노](../Page/FC_인테르나치오날레_밀라노.md "wikilink")**에서 뛴 유명한 선수들을 적은 것이다. 대부분 공식 경기에 100경기 이상 출전한 선수들을 적었으나, 그에 약간 못 미치더라도 인테르의 역사에 큰 기여를 한 선수들을 적었다.
 
 선수들은 알파벳순으로 적었으며 인테르에서의 1군 공식 경기 데뷔일을 기준으로 한다. 경기 수와 득점은 1군 경기만을 기준으로 한다. 그리고 교체 출장 역시 포함되었다. 이 목록은 2018년 6월 1일까지의 기록 기준이다.
 
@@ -32,7 +32,7 @@
 <td><p>19</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아드리아누_레이치_히베이루" title="wikilink">아드리아누</a></p></td>
+<td><p><a href="../Page/아드리아누_레이치_히베이루.md" title="wikilink">아드리아누</a></p></td>
 <td></td>
 <td><p>FW</p></td>
 <td><p>2001–2002<br />
@@ -671,7 +671,7 @@
 <td><p>69</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/줄리우_세자르_소아리스_이스핀돌라" title="wikilink">줄리우 세자르</a></p></td>
+<td><p><a href="../Page/줄리우_세자르_소아리스_이스핀돌라.md" title="wikilink">줄리우 세자르</a></p></td>
 <td></td>
 <td><p>GK</p></td>
 <td><p>2005–2012</p></td>
@@ -727,7 +727,7 @@
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마이콩_도글라스_시제난두" title="wikilink">마이콩</a></p></td>
+<td><p><a href="../Page/마이콩_도글라스_시제난두.md" title="wikilink">마이콩</a></p></td>
 <td></td>
 <td><p>DF</p></td>
 <td><p>2006–2012</p></td>
@@ -791,7 +791,7 @@
 <td><p>20</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마스웨우" title="wikilink">마스웨우</a></p></td>
+<td><p><a href="../Page/마스웨우.md" title="wikilink">마스웨우</a></p></td>
 <td></td>
 <td><p>MF</p></td>
 <td><p>2006–2009</p></td>
@@ -1255,7 +1255,7 @@
 <td><p>1922–1931</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/주세페_메아차" title="wikilink">주세페 메아차</a></p></td>
+<td><p><a href="../Page/주세페_메아차.md" title="wikilink">주세페 메아차</a></p></td>
 <td><p>1931–1940</p></td>
 </tr>
 <tr class="even">
@@ -1303,7 +1303,7 @@
 <td><p>1970–1977</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/자친토_파케티" title="wikilink">자친토 파케티</a></p></td>
+<td><p><a href="../Page/자친토_파케티.md" title="wikilink">자친토 파케티</a></p></td>
 <td><p>1977–1978</p></td>
 </tr>
 <tr class="even">
@@ -1315,19 +1315,19 @@
 <td><p>1985–1988</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/주세페_바레시" title="wikilink">주세페 바레시</a></p></td>
+<td><p><a href="../Page/주세페_바레시.md" title="wikilink">주세페 바레시</a></p></td>
 <td><p>1988–1992</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/주세페_베르고미" title="wikilink">주세페 베르고미</a></p></td>
+<td><p><a href="../Page/주세페_베르고미.md" title="wikilink">주세페 베르고미</a></p></td>
 <td><p>1992–1999</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/하비에르_사네티" title="wikilink">하비에르 사네티</a></p></td>
+<td><p><a href="../Page/하비에르_사네티.md" title="wikilink">하비에르 사네티</a></p></td>
 <td><p>1999–2014</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/안드레아_라노키아" title="wikilink">안드레아 라노키아</a></p></td>
+<td><p><a href="../Page/안드레아_라노키아.md" title="wikilink">안드레아 라노키아</a></p></td>
 <td><p>2014–2015</p></td>
 </tr>
 <tr class="even">
@@ -1335,7 +1335,7 @@
 <td><p>2015–2019</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/사미르_한다노비치" title="wikilink">사미르 한다노비치</a></p></td>
+<td><p><a href="../Page/사미르_한다노비치.md" title="wikilink">사미르 한다노비치</a></p></td>
 <td><p>2019–</p></td>
 </tr>
 </tbody>

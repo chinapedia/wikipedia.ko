@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dixit](https://ko.wikipedia.org/wiki/Dixit).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Dixit_game_0001.jpg "wikilink") **딕싯**()은 Jean-Louis Roubira가 디자인했고 Libellud가 출판한 [카드 게임이다](https://ko.wikipedia.org/wiki/카드_게임 "wikilink"). 딕싯은 마치 꿈 꾸는 것과 같은 이미지로 된 설명된 [카드](https://ko.wikipedia.org/wiki/카드 "wikilink") 한 질을 이용해, 한 플레이어가 이야기꾼이 되어 카드에 있는 이미지를 설명하면, 나머지 플레이어들은 설명한 문장과 매치되는 카드를 추측한다. 2008년에 소개됐으며 '2010 [Spiel des Jahres](https://ko.wikipedia.org/wiki/Spiel_des_Jahres "wikilink")'상을 수상했다.\[1\] 게임의 제목은 [라틴어](https://ko.wikipedia.org/wiki/라틴어 "wikilink")로 "그는 말했다"를 의미한다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Dixit_game_0001.jpg "wikilink") **딕싯**()은 Jean-Louis Roubira가 디자인했고 Libellud가 출판한 [카드 게임이다](https://ko.wikipedia.org/wiki/카드_게임 "wikilink"). 딕싯은 마치 꿈 꾸는 것과 같은 이미지로 된 설명된 [카드](https://ko.wikipedia.org/wiki/카드 "wikilink") 한 질을 이용해, 한 플레이어가 이야기꾼이 되어 카드에 있는 이미지를 설명하면, 나머지 플레이어들은 설명한 문장과 매치되는 카드를 추측한다. 2008년에 소개됐으며 '2010 [Spiel des Jahres](https://ko.wikipedia.org/wiki/Spiel_des_Jahres "wikilink")'상을 수상했다.\[1\] 게임의 제목은 [라틴어](../Page/라틴어.md "wikilink")로 "그는 말했다"를 의미한다.
 
 ## 게임 플레이
 

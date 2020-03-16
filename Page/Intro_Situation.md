@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Intro Situation](https://ko.wikipedia.org/wiki/Intro_Situation).
 
 
-〈**Intro Situation**〉는 [유이카오리](../Page/유이카오리.md "wikilink")의 아홉 번째 [싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [7월 2일에](https://ko.wikipedia.org/wiki/7월_2일 "wikilink") '[킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink") 발매됐다\[1\].
+〈**Intro Situation**〉는 [유이카오리](../Page/유이카오리.md "wikilink")의 아홉 번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [2014년](../Page/2014년.md "wikilink") [7월 2일에](../Page/7월_2일.md "wikilink") '[킹레코드에서](../Page/킹레코드_\(일본\).md "wikilink") 발매됐다\[1\].
 
 ## 개요
 

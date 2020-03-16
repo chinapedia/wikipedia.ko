@@ -96,7 +96,7 @@
 나가노 현 마쓰모토 시</p></td>
 <td><p>오카다 요시카즈<br />
 (岡田 惠和)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이노우에_마오" title="wikilink">이노우에 마오</a><br />
+<td><p><a href="../Page/이노우에_마오.md" title="wikilink">이노우에 마오</a><br />
 <small><성년기></small></p></td>
 <td><p><small>스도 요코<br />
 (須藤 陽子)</small><br />
@@ -106,7 +106,7 @@
 </tr>
 <tr class="even">
 <td><p>10월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/와카오_아야코" title="wikilink">와카오 아야코</a><br />
+<td><p><a href="../Page/와카오_아야코.md" title="wikilink">와카오 아야코</a><br />
 <small><노년기></small></p></td>
 <td><p><span style="color: Purple;"><strong>21.3%</strong></span></p></td>
 <td><p><span style="color: Purple;"><strong>16.5%</strong></span></p></td>
@@ -162,7 +162,7 @@
 <td><p>도쿄 도 <a href="https://ko.wikipedia.org/wiki/오타_구" title="wikilink">이와타</a></p></td>
 <td><p>오자키 마사야<br />
 (尾崎 将也)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/호리키타_마키" title="wikilink">호리키타 마키</a></p></td>
+<td><p><a href="../Page/호리키타_마키.md" title="wikilink">호리키타 마키</a></p></td>
 <td><p><small>시모무라 우메코<br />
 (下村 梅子)</small><br />
 ↓<br />
@@ -213,7 +213,7 @@
 <td><p>2013년</p></td>
 <td><p>4월 1일</p></td>
 <td><p>이와테 현 <a href="https://ko.wikipedia.org/wiki/구지_시" title="wikilink">구지 시</a><br />
-도쿄 도 <a href="https://ko.wikipedia.org/wiki/우에노" title="wikilink">우에노</a><br />
+도쿄 도 <a href="../Page/우에노.md" title="wikilink">우에노</a><br />
 도쿄 도 야나카</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/구도_간쿠로" title="wikilink">구도 간쿠로</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/노넨_레나" title="wikilink">노넨 레나</a></p></td>
@@ -237,8 +237,8 @@
 <td><p>2013년 9월 30일</p></td>
 <td><p>도쿄 도 <a href="https://ko.wikipedia.org/wiki/분쿄_구" title="wikilink">혼고</a><br />
 오사카 부 오사카 시</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/모리시타_요시코" title="wikilink">모리시타 요시코</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안_(배우)" title="wikilink">안</a></p></td>
+<td><p><a href="../Page/모리시타_요시코.md" title="wikilink">모리시타 요시코</a></p></td>
+<td><p><a href="../Page/안_(배우).md" title="wikilink">안</a></p></td>
 <td><p><small>우노 메이코<br />
 (卯野 め以子)</small><br />
 ↓<br />
@@ -268,7 +268,7 @@
 (村岡 恵理)</p></td>
 <td><p>나카조노 미호<br />
 (中園 ミホ)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요시타카_유리코" title="wikilink">요시타카 유리코</a></p></td>
+<td><p><a href="../Page/요시타카_유리코.md" title="wikilink">요시타카 유리코</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9월 27일</p></td>
@@ -285,7 +285,7 @@
 <td><p><strong><a href="../Page/맛상.md" title="wikilink">맛상</a></strong><br />
 (マッサン)</p></td>
 <td><p>2014년 9월 29일</p></td>
-<td><p>영국 <a href="https://ko.wikipedia.org/wiki/스코틀랜드" title="wikilink">스코틀랜드</a><br />
+<td><p>영국 <a href="../Page/스코틀랜드.md" title="wikilink">스코틀랜드</a><br />
 히로시마 현 <a href="https://ko.wikipedia.org/wiki/다케하라_시" title="wikilink">다케하라 시</a><br />
 오사카 부 <a href="https://ko.wikipedia.org/wiki/스미요시_구" title="wikilink">스미요시 구</a><br />
 홋카이도 <a href="https://ko.wikipedia.org/wiki/요이치_정" title="wikilink">요이치 정</a></p></td>
@@ -299,7 +299,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 3월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/샬럿_케이트_폭스" title="wikilink">샬럿 케이트 폭스</a></p></td>
+<td><p><a href="../Page/샬럿_케이트_폭스.md" title="wikilink">샬럿 케이트 폭스</a></p></td>
 <td><p>가메야마 에리<br />
 (亀山 エリー)<br />
 <small>&lt;☆&gt;</small></p></td>

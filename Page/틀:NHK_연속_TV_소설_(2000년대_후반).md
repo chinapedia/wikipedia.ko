@@ -32,12 +32,12 @@
 (ファイト)</p></td>
 <td><p>2005년</p></td>
 <td><p>3월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/군마현" title="wikilink">군마현</a> <a href="https://ko.wikipedia.org/wiki/다카사키_시" title="wikilink">다카사키 시</a><br />
+<td><p><a href="../Page/군마현.md" title="wikilink">군마현</a> <a href="https://ko.wikipedia.org/wiki/다카사키_시" title="wikilink">다카사키 시</a><br />
 군마 현 <a href="https://ko.wikipedia.org/wiki/나카노조_정" title="wikilink">나카노조 정</a><br />
 도쿄 도</p></td>
 <td><p>하시베 아쓰코<br />
 (橋部 敦子)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/모토카리야_유이카" title="wikilink">모토카리야 유이카</a></p></td>
+<td><p><a href="../Page/모토카리야_유이카.md" title="wikilink">모토카리야 유이카</a></p></td>
 <td><p>기도 유<br />
 (木戸 優)</p></td>
 </tr>
@@ -56,11 +56,11 @@
 <td><p><strong>바람의 하루카</strong><br />
 (風のハルカ)</p></td>
 <td><p>2005년 10월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오이타현" title="wikilink">오이타현</a> <a href="https://ko.wikipedia.org/wiki/유후_시" title="wikilink">유후 시</a><br />
+<td><p><a href="../Page/오이타현.md" title="wikilink">오이타현</a> <a href="https://ko.wikipedia.org/wiki/유후_시" title="wikilink">유후 시</a><br />
 오사카 부</p></td>
 <td><p>오모리 미카<br />
 (大森 美香)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/무라카와_에리" title="wikilink">무라카와 에리</a></p></td>
+<td><p><a href="../Page/무라카와_에리.md" title="wikilink">무라카와 에리</a></p></td>
 <td><p><small>미즈노 하루카<br />
 (水野 ハルカ)</small><br />
 ↓<br />
@@ -80,16 +80,16 @@
 </tr>
 <tr class="even">
 <td><p>74</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/순정_반짝" title="wikilink">순정 반짝</a></strong><br />
+<td><p><strong><a href="../Page/순정_반짝.md" title="wikilink">순정 반짝</a></strong><br />
 (純情きらり)</p></td>
 <td><p>2006년</p></td>
 <td><p>4월 3일</p></td>
 <td><p>아이치 현 <a href="https://ko.wikipedia.org/wiki/오카자키_시" title="wikilink">오카자키 시</a><br />
 도쿄 도</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쓰시마_유코" title="wikilink">쓰시마 유코</a></p></td>
+<td><p><a href="../Page/쓰시마_유코.md" title="wikilink">쓰시마 유코</a></p></td>
 <td><p>아사노 다에코<br />
 (浅野 妙子)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미야자키_아오이" title="wikilink">미야자키 아오이</a></p></td>
+<td><p><a href="../Page/미야자키_아오이.md" title="wikilink">미야자키 아오이</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9월 30일</p></td>
@@ -136,11 +136,11 @@
 (どんど晴れ)</p></td>
 <td><p>2007년</p></td>
 <td><p>4월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이와테현" title="wikilink">이와테현</a> <a href="https://ko.wikipedia.org/wiki/모리오카_시" title="wikilink">모리오카 시</a><br />
+<td><p><a href="../Page/이와테현.md" title="wikilink">이와테현</a> <a href="https://ko.wikipedia.org/wiki/모리오카_시" title="wikilink">모리오카 시</a><br />
 가나가와 현 요코하마 시</p></td>
 <td><p>고마쓰 에리코<br />
 (小松 江里子)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/히가_마나미" title="wikilink">히가 마나미</a></p></td>
+<td><p><a href="../Page/히가_마나미.md" title="wikilink">히가 마나미</a></p></td>
 <td><p><small>아사쿠라 나쓰미<br />
 (浅倉 夏美)</small><br />
 ↓<br />
@@ -162,7 +162,7 @@
 <td><p><strong>치리토테친</strong><br />
 (ちりとてちん)</p></td>
 <td><p>2007년 10월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠이현" title="wikilink">후쿠이현</a> <a href="https://ko.wikipedia.org/wiki/오바마_시" title="wikilink">오바마 시</a><br />
+<td><p><a href="../Page/후쿠이현.md" title="wikilink">후쿠이현</a> <a href="https://ko.wikipedia.org/wiki/오바마_시" title="wikilink">오바마 시</a><br />
 오사카 부 오사카 시</p></td>
 <td><p>후지모토 유키<br />
 (藤本 有紀)</p></td>
@@ -193,7 +193,7 @@
 <td><p>도쿄 도 <a href="https://ko.wikipedia.org/wiki/쓰키시마_섬" title="wikilink">쓰키시마 섬</a></p></td>
 <td><p>스즈키 사토미<br />
 (鈴木 聡)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에이쿠라_나나" title="wikilink">에이쿠라 나나</a></p></td>
+<td><p><a href="../Page/에이쿠라_나나.md" title="wikilink">에이쿠라 나나</a></p></td>
 <td><p>잇본기 히토미<br />
 (一本木 瞳)</p></td>
 </tr>
@@ -212,7 +212,7 @@
 <td><p><strong>단단</strong><br />
 (だんだん)</p></td>
 <td><p>2008년 9월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시마네현" title="wikilink">시마네현</a> <a href="https://ko.wikipedia.org/wiki/마쓰에_시" title="wikilink">마쓰에 시</a><br />
+<td><p><a href="../Page/시마네현.md" title="wikilink">시마네현</a> <a href="https://ko.wikipedia.org/wiki/마쓰에_시" title="wikilink">마쓰에 시</a><br />
 교토 부 교토 시</p></td>
 <td><p>모리와키 교코<br />
 (森脇 京子)</p></td>

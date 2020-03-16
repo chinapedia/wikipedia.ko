@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG G4](https://ko.wikipedia.org/wiki/LG_G4).
 
 
-**LG G4**는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 제조/판매하는 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") [패블릿](https://ko.wikipedia.org/wiki/패블릿 "wikilink") [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. 2015년 4월 29일에 주요 6개국\[1\]에 공개했고, 같은 날 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에 출시했다. \[2\] 5.5[인치](https://ko.wikipedia.org/wiki/인치 "wikilink") Quad HD [IPS](https://ko.wikipedia.org/wiki/IPS "wikilink") 디스플레이를 탑재하였다. CPU는 [퀄컴](https://ko.wikipedia.org/wiki/퀄컴 "wikilink") [스냅드래곤](https://ko.wikipedia.org/wiki/스냅드래곤 "wikilink") 808 헥사코어를 장착하여 광대역 LTE-A를 지원한다.
+**LG G4**는 [LG전자](../Page/LG전자.md "wikilink")가 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 2015년 4월 29일에 주요 6개국\[1\]에 공개했고, 같은 날 [대한민국](../Page/대한민국.md "wikilink")에 출시했다. \[2\] 5.5[인치](https://ko.wikipedia.org/wiki/인치 "wikilink") Quad HD [IPS](https://ko.wikipedia.org/wiki/IPS "wikilink") 디스플레이를 탑재하였다. CPU는 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") 808 헥사코어를 장착하여 광대역 LTE-A를 지원한다.
 
 ## 운영체제/소프트웨어
 
@@ -11,7 +11,7 @@ LG G4는 [5.1 롤리팝을](https://ko.wikipedia.org/wiki/안드로이드_버전
 
 ### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [6.0 마시멜로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 4일](https://ko.wikipedia.org/wiki/11월_4일 "wikilink") [LG G4의](../Page/LG_G4.md "wikilink") [6.0 마시멜로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트가 시작되었다. 성능이 개선되고 노크 코드 6자리 이상 설정 등 UI가 개선되었다. PC에 LG bridge라는 소프트웨어를 설치하여 업데이트를 진행할 수 있다.
+[2015년](../Page/2015년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") [LG G4의](../Page/LG_G4.md "wikilink") [6.0 마시멜로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업데이트가 시작되었다. 성능이 개선되고 노크 코드 6자리 이상 설정 등 UI가 개선되었다. PC에 LG bridge라는 소프트웨어를 설치하여 업데이트를 진행할 수 있다.
 
 ## 특수 기능
 
@@ -25,27 +25,27 @@ LG G4는 [5.1 롤리팝을](https://ko.wikipedia.org/wiki/안드로이드_버전
 
 ### 레이저 오토 포커스
 
-레이저를 이용해서 사진의 초점을 빠르게 잡는 기능이다. 야간 촬용 시 피사체의 위치를 찾기 어려울 때 유용하며, 전작인 [LG G3에서](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 먼저 사용되었다.
+레이저를 이용해서 사진의 초점을 빠르게 잡는 기능이다. 야간 촬용 시 피사체의 위치를 찾기 어려울 때 유용하며, 전작인 [LG G3에서](../Page/LG_G3.md "wikilink") 먼저 사용되었다.
 
 ## 액세서리
 
 ### 퀵서클 케이스
 
-케이스에 뚫려 있는 동그란 서클 윈도우를 통해 전화 수신, 발신, 문자 받기, 음악, 카메라, 시계, 헬스 케어 기능을 사용할 수 있고 뒷면은 무선충전이 가능하다. [G3에서](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 처음 시작되었으나 G4의 플라스틱 버전과 동일한 다이아몬드 패턴이 적용되었다. 색상은 [블랙](https://ko.wikipedia.org/wiki/검정 "wikilink"), [실버](https://ko.wikipedia.org/wiki/은색 "wikilink"), [골드가](https://ko.wikipedia.org/wiki/금색 "wikilink") 있다.
+케이스에 뚫려 있는 동그란 서클 윈도우를 통해 전화 수신, 발신, 문자 받기, 음악, 카메라, 시계, 헬스 케어 기능을 사용할 수 있고 뒷면은 무선충전이 가능하다. [G3에서](../Page/LG_G3.md "wikilink") 처음 시작되었으나 G4의 플라스틱 버전과 동일한 다이아몬드 패턴이 적용되었다. 색상은 [블랙](https://ko.wikipedia.org/wiki/검정 "wikilink"), [실버](https://ko.wikipedia.org/wiki/은색 "wikilink"), [골드가](https://ko.wikipedia.org/wiki/금색 "wikilink") 있다.
 
 ## 색상
 
   - [메탈릭 그레이](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [세라믹 화이트](https://ko.wikipedia.org/wiki/하양 "wikilink")
-  - [천연가죽 브라운](https://ko.wikipedia.org/wiki/갈색 "wikilink")
+  - [세라믹 화이트](../Page/하양.md "wikilink")
+  - [천연가죽 브라운](../Page/갈색.md "wikilink")
   - [천연가죽 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [천연가죽 스카이블루](https://ko.wikipedia.org/wiki/하늘색 "wikilink")
-  - [천연가죽 레드](https://ko.wikipedia.org/wiki/빨강 "wikilink")
-  - [천연가죽 핑크](https://ko.wikipedia.org/wiki/분홍 "wikilink")
-  - [천연가죽 오렌지](https://ko.wikipedia.org/wiki/주황 "wikilink")
-  - [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink") [골드](https://ko.wikipedia.org/wiki/금색 "wikilink")
+  - [천연가죽 스카이블루](../Page/하늘색.md "wikilink")
+  - [천연가죽 레드](../Page/빨강.md "wikilink")
+  - [천연가죽 핑크](../Page/분홍.md "wikilink")
+  - [천연가죽 오렌지](../Page/주황.md "wikilink")
+  - [화이트](../Page/하양.md "wikilink") [골드](https://ko.wikipedia.org/wiki/금색 "wikilink")
 
-처음 출시 때에는 [메탈릭 그레이](https://ko.wikipedia.org/wiki/검정 "wikilink"), [세라믹 화이트와](https://ko.wikipedia.org/wiki/하양 "wikilink") [천연가죽 브라운](https://ko.wikipedia.org/wiki/갈색 "wikilink"), [천연가죽 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink"), [천연가죽 스카이블루](https://ko.wikipedia.org/wiki/하늘색 "wikilink") 그리고 [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤 "wikilink") 전용으로 [천연가죽 레드만](https://ko.wikipedia.org/wiki/빨강 "wikilink") 출시되었으나 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 9일](https://ko.wikipedia.org/wiki/6월_9일 "wikilink"), 별도로 [천연가죽 핑크와](https://ko.wikipedia.org/wiki/분홍 "wikilink") [천연가죽 오렌지](https://ko.wikipedia.org/wiki/주황 "wikilink") 배터리 커버가 출시되었고 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 11일](https://ko.wikipedia.org/wiki/11월_11일 "wikilink"), 전면까지 [화이트인](https://ko.wikipedia.org/wiki/하양 "wikilink") [화이트](https://ko.wikipedia.org/wiki/하양 "wikilink") [골드가](https://ko.wikipedia.org/wiki/금색 "wikilink") 추가로 출시되었다.
+처음 출시 때에는 [메탈릭 그레이](https://ko.wikipedia.org/wiki/검정 "wikilink"), [세라믹 화이트와](../Page/하양.md "wikilink") [천연가죽 브라운](../Page/갈색.md "wikilink"), [천연가죽 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink"), [천연가죽 스카이블루](../Page/하늘색.md "wikilink") 그리고 [SK텔레콤](../Page/SK텔레콤.md "wikilink") 전용으로 [천연가죽 레드만](../Page/빨강.md "wikilink") 출시되었으나 [2015년](../Page/2015년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink"), 별도로 [천연가죽 핑크와](../Page/분홍.md "wikilink") [천연가죽 오렌지](../Page/주황.md "wikilink") 배터리 커버가 출시되었고 [2015년](../Page/2015년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink"), 전면까지 [화이트인](../Page/하양.md "wikilink") [화이트](../Page/하양.md "wikilink") [골드가](https://ko.wikipedia.org/wiki/금색 "wikilink") 추가로 출시되었다.
 
 ## 추가 정보
 
@@ -67,11 +67,11 @@ LG G4는 [5.1 롤리팝을](https://ko.wikipedia.org/wiki/안드로이드_버전
 
 ### G4 플러스 (LG-F500LM)
 
-2015년 9월 22일부터 [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink")에 G4의 64GB 모델이 등장하였는데 이것은 기존 G4에 32GB짜리 SD카드를 넣은 것이다. 모델명은 LG-F500LM이다. 항간에서는 **G4 플러스**라고 부르기도 했다. 그런데 이 제품은 원래 시판되던 G4를 산 후 소비자가 직접 SD카드를 사서 넣는 것보다 비용이 비싸 논란이 되었다. 이에 대해 LG전자는 B2B 등 특정 유통 채널을 위한 제품이며 일반 소비자를 위한 제품은 아니라고 해명하였으나,\[4\] 조사 결과 [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스 "wikilink")가 다단계 영업에 이용하려던 다단계 전용폰으로 드러나 많은 질타를 받았다.\[5\]
+2015년 9월 22일부터 [LG유플러스](../Page/LG유플러스.md "wikilink")에 G4의 64GB 모델이 등장하였는데 이것은 기존 G4에 32GB짜리 SD카드를 넣은 것이다. 모델명은 LG-F500LM이다. 항간에서는 **G4 플러스**라고 부르기도 했다. 그런데 이 제품은 원래 시판되던 G4를 산 후 소비자가 직접 SD카드를 사서 넣는 것보다 비용이 비싸 논란이 되었다. 이에 대해 LG전자는 B2B 등 특정 유통 채널을 위한 제품이며 일반 소비자를 위한 제품은 아니라고 해명하였으나,\[4\] 조사 결과 [LG유플러스](../Page/LG유플러스.md "wikilink")가 다단계 영업에 이용하려던 다단계 전용폰으로 드러나 많은 질타를 받았다.\[5\]
 
 ## 같이 보기
 
-  - [LG G3](https://ko.wikipedia.org/wiki/LG_G3 "wikilink")
+  - [LG G3](../Page/LG_G3.md "wikilink")
   - [LG G3 Cat.6](../Page/LG_G3_카테고리_6.md "wikilink")
   - [LG G 플렉스 2](../Page/LG_G_플렉스_2.md "wikilink")
   - [LG V10](../Page/LG_V10.md "wikilink")

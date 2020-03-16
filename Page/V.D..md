@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [V.D.](https://ko.wikipedia.org/wiki/V.D.).
 
 
-《**V.D.**》는 [VALSHE](../Page/VALSHE.md "wikilink")의 2번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [2월 19일에](https://ko.wikipedia.org/wiki/2월_19일 "wikilink") [빙에서](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink") 발매됐다.
+《**V.D.**》는 [VALSHE](../Page/VALSHE.md "wikilink")의 2번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [2014년](../Page/2014년.md "wikilink") [2월 19일에](../Page/2월_19일.md "wikilink") [빙에서](../Page/빙_\(기업\).md "wikilink") 발매됐다.
 
 ## 개요
 

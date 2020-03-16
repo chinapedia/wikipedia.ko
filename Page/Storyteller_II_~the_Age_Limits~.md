@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Storyteller II \~the Age Limits\~](https://ko.wikipedia.org/wiki/Storyteller_II_\~the_Age_Limits\~).
 
 
-《**storyteller II: the Age Limits**》는 [VALSHE](../Page/VALSHE.md "wikilink")의 2번째 [미니 음반이다](https://ko.wikipedia.org/wiki/미니_음반 "wikilink"). [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 24일에](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") [빙에서](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink") 발매됐다.
+《**storyteller II: the Age Limits**》는 [VALSHE](../Page/VALSHE.md "wikilink")의 2번째 [미니 음반이다](https://ko.wikipedia.org/wiki/미니_음반 "wikilink"). [2014년](../Page/2014년.md "wikilink") [9월 24일에](../Page/9월_24일.md "wikilink") [빙에서](../Page/빙_\(기업\).md "wikilink") 발매됐다.
 
 ## 개요
 
@@ -37,7 +37,7 @@
 
 [분류:2014년 음반](https://ko.wikipedia.org/wiki/분류:2014년_음반 "wikilink") [분류:VALSHE의 음반](https://ko.wikipedia.org/wiki/분류:VALSHE의_음반 "wikilink") [분류:콘셉트 음반](https://ko.wikipedia.org/wiki/분류:콘셉트_음반 "wikilink")
 
-1.  [9월 24일 발매\! VALSHE의 새 싱글 〈TRIP×TRICK〉&미니음반《storytellerII: the Age Limits》에서 자켓 사짐을 공개\! (2쪽)](http://www.animate.tv/news/details.php?id=1409034121&p=2)  *[애니메이트](https://ko.wikipedia.org/wiki/애니메이트 "wikilink") TV*
+1.  [9월 24일 발매\! VALSHE의 새 싱글 〈TRIP×TRICK〉&미니음반《storytellerII: the Age Limits》에서 자켓 사짐을 공개\! (2쪽)](http://www.animate.tv/news/details.php?id=1409034121&p=2)  *[애니메이트](../Page/애니메이트.md "wikilink") TV*
 2.
 3.  [VALSHE, 빠르게도 싱글＆미니음반 발매](http://natalie.mu/music/news/122378) *[나탈리](../Page/나탈리_\(웹사이트\).md "wikilink")*
 4.  [VALSHE, 9월 발매 싱글＆미니음반의 비주얼 공개](http://www.musicman-net.com/artist/38775.html)  *Musicman-NET*

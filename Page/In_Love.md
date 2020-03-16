@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [In Love](https://ko.wikipedia.org/wiki/In_Love).
 
 
-《**In Love**》는 대한민국의 걸 그룹 [카라의](https://ko.wikipedia.org/wiki/카라_\(음악_그룹\) "wikilink") 일곱 번째 미니 앨범이다. 타이틀곡은 큐피드(CUPID)이며, 2015년 5월 26일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다.
+《**In Love**》는 대한민국의 걸 그룹 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 일곱 번째 미니 앨범이다. 타이틀곡은 큐피드(CUPID)이며, 2015년 5월 26일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다.
 
 ## 트랙 리스트
 

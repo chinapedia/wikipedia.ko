@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ TV   ](https://ko.wikipedia.org/wiki/_TV___).
 
 
-**연속 TV 소설 작품 목록**에서는, 지금까지 방송된 [NHK](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink") 아침 [연속 TV 소설의](https://ko.wikipedia.org/wiki/연속_TV_소설 "wikilink") 작품을 정리했다.
+**연속 TV 소설 작품 목록**에서는, 지금까지 방송된 [NHK](../Page/일본방송협회.md "wikilink") 아침 [연속 TV 소설의](../Page/연속_TV_소설.md "wikilink") 작품을 정리했다.
 
 ## 작품 목록
 
@@ -50,7 +50,7 @@
 <td><p>92</p></td>
 <td><p>《<a href="../Page/마레_(드라마).md" title="wikilink">마레</a>》(まれ)</p></td>
 <td><p>2015년 3월 30일 ~ 2015년 9월 26일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/츠치야_타오" title="wikilink">츠치야 타오</a>(土屋 太鳳)</p></td>
+<td><p><a href="../Page/츠치야_타오.md" title="wikilink">츠치야 타오</a>(土屋 太鳳)</p></td>
 <td><p>츠무라 마레(津村 希)<br />
 ↓<br />
 콘타니 마레(紺谷 希)</p></td>
@@ -92,14 +92,14 @@
 <td><p>96</p></td>
 <td><p>《<a href="../Page/병아리_(드라마).md" title="wikilink">병아리</a>》(ひよっこ)</p></td>
 <td><p>2017년 4월 3일 ~ 2017년 9월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아리무라_카스미" title="wikilink">아리무라 카스미</a>(有村架純)</p></td>
+<td><p><a href="../Page/아리무라_카스미.md" title="wikilink">아리무라 카스미</a>(有村架純)</p></td>
 <td><p>야타베 미네코(谷田部みね子)</p></td>
 <td></td>
 <td><p><strong>20.4%</strong>(간토)</p></td>
 </tr>
 <tr class="even">
 <td><p>97</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/와로텐카" title="wikilink">와로텐카</a>》(わろてんか)</p></td>
+<td><p>《<a href="../Page/와로텐카.md" title="wikilink">와로텐카</a>》(わろてんか)</p></td>
 <td><p>2017년 10월 2일 ~ 2018년 3월 31일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아오이_와카나" title="wikilink">아오이 와카나</a>(葵わかな)</p></td>
 <td><p>후지오카 텐(藤岡てん)</p></td>
@@ -108,7 +108,7 @@
 </tr>
 <tr class="odd">
 <td><p>98</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/절반,_푸르다." title="wikilink">절반, 푸르다.</a>》(半分、青い。)</p></td>
+<td><p>《<a href="../Page/절반,_푸르다..md" title="wikilink">절반, 푸르다.</a>》(半分、青い。)</p></td>
 <td><p>2018년 4월 2일 ~ 2018년 9월 29일</p></td>
 <td><p><a href="../Page/나가노_메이.md" title="wikilink">나가노 메이</a>(永野芽郁)</p></td>
 <td><p>니레노 스즈메(楡野鈴愛)</p></td>
@@ -117,7 +117,7 @@
 </tr>
 <tr class="even">
 <td><p>99</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/만복" title="wikilink">만복</a>》(まんぷく)</p></td>
+<td><p>《<a href="../Page/만복.md" title="wikilink">만복</a>》(まんぷく)</p></td>
 <td><p>2018년 10월 1일 ~ 2019년 3월 30일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/안도_사쿠라" title="wikilink">안도 사쿠라</a>(安藤サクラ)</p></td>
 <td><p>타치바나 후쿠코(立花福子)</p></td>
@@ -138,7 +138,7 @@
 <td><p>《<a href="https://ko.wikipedia.org/wiki/스칼릿_(드라마)" title="wikilink">스칼릿</a>》(スカーレット)</p></td>
 <td><p>2019년 9월 30일 ~ 2020년 3월 28일<br />
 (예정)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토다_에리카" title="wikilink">토다 에리카</a>(戸田恵梨香)</p></td>
+<td><p><a href="../Page/토다_에리카.md" title="wikilink">토다 에리카</a>(戸田恵梨香)</p></td>
 <td><p>카와하라 키미코(川原喜美子)</p></td>
 <td></td>
 <td></td>

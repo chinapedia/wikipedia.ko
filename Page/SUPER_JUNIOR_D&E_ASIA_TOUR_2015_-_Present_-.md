@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPER JUNIOR D\&E ASIA TOUR 2015 - Present -](https://ko.wikipedia.org/wiki/SUPER_JUNIOR_D\&E_ASIA_TOUR_2015_-_Present_-).
 
 
-《**SUPER JUNIOR D\&E ASIA TOUR 2015 - Present -**》는 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 유닛 [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink")의 첫 번째 해외 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**SUPER JUNIOR D\&E ASIA TOUR 2015 - Present -**》는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 유닛 [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink")의 첫 번째 해외 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## SUPER JUNIOR D\&E THE 2nd JAPAN TOUR 2015 - Present -
 
@@ -48,7 +48,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 8월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>로열 파라곤 홀</p></td>
 <td><p>3,000명</p></td>
@@ -60,7 +60,7 @@
 
 ## 제작
 
-  - [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink") ([은혁](https://ko.wikipedia.org/wiki/은혁 "wikilink"), [동해](https://ko.wikipedia.org/wiki/동해_\(가수\) "wikilink"))
+  - [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink") ([은혁](../Page/은혁.md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
   - 총감독 : 오오쿠보 마사오

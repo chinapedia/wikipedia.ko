@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MGM   ](https://ko.wikipedia.org/wiki/MGM___).
 
 
-**MGM 그랜드 가든 아레나**()는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [네바다주](https://ko.wikipedia.org/wiki/네바다주 "wikilink") [라스베이거스](https://ko.wikipedia.org/wiki/라스베이거스 "wikilink") [MGM 그랜드 라스베이거스의](https://ko.wikipedia.org/wiki/MGM_그랜드_라스베이거스 "wikilink") 경기 시설이다. 경기장의 수용 인원은 17,157명이다.
+**MGM 그랜드 가든 아레나**()는 [미국](../Page/미국.md "wikilink") [네바다주](../Page/네바다주.md "wikilink") [라스베이거스](../Page/라스베이거스.md "wikilink") [MGM 그랜드 라스베이거스의](https://ko.wikipedia.org/wiki/MGM_그랜드_라스베이거스 "wikilink") 경기 시설이다. 경기장의 수용 인원은 17,157명이다.
 
 ## 개최된 프로레슬링 이벤트
 

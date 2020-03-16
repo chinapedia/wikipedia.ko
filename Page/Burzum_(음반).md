@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Burzum \(\)](https://ko.wikipedia.org/wiki/Burzum_\(\)).
 
 
-《**Burzum**》은 [노르웨이](https://ko.wikipedia.org/wiki/노르웨이 "wikilink") [블랙 메탈](https://ko.wikipedia.org/wiki/블랙_메탈 "wikilink") 밴드 [버줌](https://ko.wikipedia.org/wiki/버줌 "wikilink")의 첫 번째 정규 음반이다. 이 앨범은 1992년 3월 [메이헴](https://ko.wikipedia.org/wiki/메이헴 "wikilink")의 리더였던 [유로니무스](https://ko.wikipedia.org/wiki/유로니무스 "wikilink")의 레이블 [데스라이크 사일런스를](https://ko.wikipedia.org/wiki/데스라이크_사일런스 "wikilink") 통해 발매되었다.
+《**Burzum**》은 [노르웨이](../Page/노르웨이.md "wikilink") [블랙 메탈](../Page/블랙_메탈.md "wikilink") 밴드 [버줌](../Page/버줌.md "wikilink")의 첫 번째 정규 음반이다. 이 앨범은 1992년 3월 [메이헴](https://ko.wikipedia.org/wiki/메이헴 "wikilink")의 리더였던 [유로니무스](https://ko.wikipedia.org/wiki/유로니무스 "wikilink")의 레이블 [데스라이크 사일런스를](https://ko.wikipedia.org/wiki/데스라이크_사일런스 "wikilink") 통해 발매되었다.
 
 ## 트랙 목록
 

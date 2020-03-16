@@ -5,7 +5,7 @@
 
 ## 2010년대
 
-  - 2013년 4월 10일 [40](https://ko.wikipedia.org/wiki/40_\(가수\) "wikilink") - **\[Digital Single\] April's Spring**
+  - 2013년 4월 10일 [40](../Page/40_\(가수\).md "wikilink") - **\[Digital Single\] April's Spring**
   - 2013년 7월 12일 [베스티](../Page/베스티.md "wikilink") - **\[Digital Single\] 두근두근**
   - 2013년 10월 17일 베스티 - **\[Digital Single\] 연애의 조건 (Love Options)**
   - 2013년 11월 22일 40 - **\[Digital Single\] Luminant Opus 3**\[1\]
@@ -17,7 +17,7 @@
   - 2014년 7월 11일 베스티 - **\[Digital Single\] 별처럼**\[4\]
   - 2014년 7월 28일 베스티 - **[Hot Baby](https://ko.wikipedia.org/wiki/Hot_Baby "wikilink")**
   - 2014년 8월 29일 베스티 - **Digital Repackage**
-  - 2014년 9월 16일 [노을](https://ko.wikipedia.org/wiki/노을_\(음악_그룹\) "wikilink") - **\[Digital Single\] Acoustic Project \#2.Sunset**
+  - 2014년 9월 16일 [노을](../Page/노을_\(음악_그룹\).md "wikilink") - **\[Digital Single\] Acoustic Project \#2.Sunset**
   - 2014년 9월 29일 노을 - **\[Digital Single\] 그날이야 (The Day)**
   - 2014년 10월 21일 [알맹](../Page/알맹.md "wikilink") - **compoSing of Love**
   - 2014년 11월 26일 40 - **\[Digital Single\] 날 안아줘**
@@ -80,28 +80,28 @@
 
 [분류:대한민국 음반사의 음반 목록](https://ko.wikipedia.org/wiki/분류:대한민국_음반사의_음반_목록 "wikilink")
 
-1.  [이루펀트](https://ko.wikipedia.org/wiki/이루펀트 "wikilink")도 앨범 참여.
+1.  [이루펀트](../Page/이루펀트.md "wikilink")도 앨범 참여.
 2.  [임정희](https://ko.wikipedia.org/wiki/임정희 "wikilink")도 앨범 참여.
 3.  40 미니 2집의 선공개곡.
 4.  베스티 미니 1집의 선공개곡.
 5.  최초의 OST 앨범.
-6.  [카라의](https://ko.wikipedia.org/wiki/카라_\(음악_그룹\) "wikilink") 멤버 [한승연](https://ko.wikipedia.org/wiki/한승연 "wikilink")도 앨범 참여.
-7.  [YB의](https://ko.wikipedia.org/wiki/YB_\(밴드\) "wikilink") 멤버 [윤도현](https://ko.wikipedia.org/wiki/윤도현 "wikilink"),[김장훈](https://ko.wikipedia.org/wiki/김장훈 "wikilink"),[대한민국스포츠합창단](https://ko.wikipedia.org/wiki/대한민국스포츠합창단 "wikilink")도 앨범 참여.
-8.  [린도](https://ko.wikipedia.org/wiki/린_\(가수\) "wikilink") 앨범 참여.
+6.  [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 멤버 [한승연](../Page/한승연.md "wikilink")도 앨범 참여.
+7.  [YB의](../Page/YB_\(밴드\).md "wikilink") 멤버 [윤도현](../Page/윤도현.md "wikilink"),[김장훈](../Page/김장훈.md "wikilink"),[대한민국스포츠합창단](https://ko.wikipedia.org/wiki/대한민국스포츠합창단 "wikilink")도 앨범 참여.
+8.  [린도](../Page/린_\(가수\).md "wikilink") 앨범 참여.
 9.  [술제이](https://ko.wikipedia.org/wiki/술제이 "wikilink"),[울티마](https://ko.wikipedia.org/wiki/울티마_\(가수\) "wikilink"),[조성범](https://ko.wikipedia.org/wiki/조성범 "wikilink")도 앨범 참여.
 10. 크나큰 미니 1집의 선공개곡.
 11. [옴므도](https://ko.wikipedia.org/wiki/옴므_\(음악_그룹\) "wikilink") 앨범 참여.
-12. [브라운 아이드 걸스의](https://ko.wikipedia.org/wiki/브라운_아이드_걸스 "wikilink") 멤버 [미료](https://ko.wikipedia.org/wiki/미료 "wikilink"),[허니패밀리](https://ko.wikipedia.org/wiki/허니패밀리 "wikilink")의 멤버 [주라](https://ko.wikipedia.org/wiki/주라 "wikilink"),[11호](https://ko.wikipedia.org/wiki/11호 "wikilink")도 앨범 참여.
-13. [라붐의](../Page/라붐_\(음악_그룹\).md "wikilink") 멤버 [소연](../Page/소연_\(1994년\).md "wikilink"),[스피카의](https://ko.wikipedia.org/wiki/스피카_\(음악_그룹\) "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink")도 앨범 참여.
-14. [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 멤버 [소정](../Page/소정_\(가수\).md "wikilink"),[스피카의](https://ko.wikipedia.org/wiki/스피카_\(음악_그룹\) "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink"),[CLC의](../Page/CLC_\(음악_그룹\).md "wikilink") 멤버 [오승희](../Page/오승희.md "wikilink"),[오마이걸](../Page/오마이걸.md "wikilink")의 멤버 [승희](../Page/승희_\(1996년\).md "wikilink"),[러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [Kei](https://ko.wikipedia.org/wiki/Kei "wikilink")도 앨범 참여.
-15. [더 레이](https://ko.wikipedia.org/wiki/더_레이 "wikilink"),[스피카의](https://ko.wikipedia.org/wiki/스피카_\(음악_그룹\) "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink"),[라붐의](../Page/라붐_\(음악_그룹\).md "wikilink") 멤버 [소연도](../Page/소연_\(1994년\).md "wikilink") 앨범 참여.
-16. [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 멤버 [소정](../Page/소정_\(가수\).md "wikilink"),[스피카의](https://ko.wikipedia.org/wiki/스피카_\(음악_그룹\) "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink"),[러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [Kei](https://ko.wikipedia.org/wiki/Kei "wikilink")도앨범 참여.
+12. [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") 멤버 [미료](../Page/미료.md "wikilink"),[허니패밀리](https://ko.wikipedia.org/wiki/허니패밀리 "wikilink")의 멤버 [주라](https://ko.wikipedia.org/wiki/주라 "wikilink"),[11호](https://ko.wikipedia.org/wiki/11호 "wikilink")도 앨범 참여.
+13. [라붐의](../Page/라붐_\(음악_그룹\).md "wikilink") 멤버 [소연](../Page/소연_\(1994년\).md "wikilink"),[스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink")도 앨범 참여.
+14. [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 멤버 [소정](../Page/소정_\(가수\).md "wikilink"),[스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink"),[CLC의](../Page/CLC_\(음악_그룹\).md "wikilink") 멤버 [오승희](../Page/오승희.md "wikilink"),[오마이걸](../Page/오마이걸.md "wikilink")의 멤버 [승희](../Page/승희_\(1996년\).md "wikilink"),[러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [Kei](https://ko.wikipedia.org/wiki/Kei "wikilink")도 앨범 참여.
+15. [더 레이](https://ko.wikipedia.org/wiki/더_레이 "wikilink"),[스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink"),[라붐의](../Page/라붐_\(음악_그룹\).md "wikilink") 멤버 [소연도](../Page/소연_\(1994년\).md "wikilink") 앨범 참여.
+16. [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 멤버 [소정](../Page/소정_\(가수\).md "wikilink"),[스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 멤버 [김보형](../Page/김보형.md "wikilink"),[러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [Kei](https://ko.wikipedia.org/wiki/Kei "wikilink")도앨범 참여.
 17. [JQ도](https://ko.wikipedia.org/wiki/JQ_\(가수\) "wikilink") 앨범 참여.
-18. [클래지콰이 프로젝트의](https://ko.wikipedia.org/wiki/클래지콰이_프로젝트 "wikilink") 멤버 [알렉스도](https://ko.wikipedia.org/wiki/알렉스_\(가수\) "wikilink") 앨범 참여.
-19. [씨스타](https://ko.wikipedia.org/wiki/씨스타 "wikilink")의 멤버 [다솜도](https://ko.wikipedia.org/wiki/김다솜_\(배우\) "wikilink") 앨범 참여.
-20. [빅마마](https://ko.wikipedia.org/wiki/빅마마 "wikilink")의 멤버 [이영현](https://ko.wikipedia.org/wiki/이영현 "wikilink"),[바버렛츠](../Page/바버렛츠.md "wikilink")의 멤버 [안신애](../Page/안신애.md "wikilink"),[더 원](https://ko.wikipedia.org/wiki/더_원 "wikilink"),[소울사이어티](https://ko.wikipedia.org/wiki/소울사이어티 "wikilink")의 멤버 [남주희](https://ko.wikipedia.org/wiki/남주희 "wikilink"),[김도향](https://ko.wikipedia.org/wiki/김도향 "wikilink")도 앨범 참여.
+18. [클래지콰이 프로젝트의](../Page/클래지콰이_프로젝트.md "wikilink") 멤버 [알렉스도](../Page/알렉스_\(가수\).md "wikilink") 앨범 참여.
+19. [씨스타](../Page/씨스타.md "wikilink")의 멤버 [다솜도](../Page/김다솜_\(배우\).md "wikilink") 앨범 참여.
+20. [빅마마](../Page/빅마마.md "wikilink")의 멤버 [이영현](https://ko.wikipedia.org/wiki/이영현 "wikilink"),[바버렛츠](../Page/바버렛츠.md "wikilink")의 멤버 [안신애](../Page/안신애.md "wikilink"),[더 원](https://ko.wikipedia.org/wiki/더_원 "wikilink"),[소울사이어티](https://ko.wikipedia.org/wiki/소울사이어티 "wikilink")의 멤버 [남주희](https://ko.wikipedia.org/wiki/남주희 "wikilink"),[김도향](../Page/김도향.md "wikilink")도 앨범 참여.
 21. [오준성](https://ko.wikipedia.org/wiki/오준성 "wikilink")도 앨범 참여.
-22. [빅마마](https://ko.wikipedia.org/wiki/빅마마 "wikilink")의 멤버 [이영현](https://ko.wikipedia.org/wiki/이영현 "wikilink"),[바버렛츠](../Page/바버렛츠.md "wikilink")의 멤버 [안신애](../Page/안신애.md "wikilink"),[김도향](https://ko.wikipedia.org/wiki/김도향 "wikilink")도 앨범 참여.
-23. [문명진](https://ko.wikipedia.org/wiki/문명진 "wikilink")도 앨범 참여.
-24. [트로이의](https://ko.wikipedia.org/wiki/트로이_\(음악_그룹\) "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"),[마이네임](https://ko.wikipedia.org/wiki/마이네임 "wikilink"),[임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"),[아이](https://ko.wikipedia.org/wiki/아이_\(가수\) "wikilink"),[JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink") 외 113명도 앨범 참여.
-25. [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"),[아이](https://ko.wikipedia.org/wiki/아이_\(가수\) "wikilink"),[굿데이](https://ko.wikipedia.org/wiki/굿데이_\(음악_그룹\) "wikilink") 외 50명도 앨범 참여.
+22. [빅마마](../Page/빅마마.md "wikilink")의 멤버 [이영현](https://ko.wikipedia.org/wiki/이영현 "wikilink"),[바버렛츠](../Page/바버렛츠.md "wikilink")의 멤버 [안신애](../Page/안신애.md "wikilink"),[김도향](../Page/김도향.md "wikilink")도 앨범 참여.
+23. [문명진](../Page/문명진.md "wikilink")도 앨범 참여.
+24. [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"),[마이네임](../Page/마이네임.md "wikilink"),[임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"),[아이](../Page/아이_\(가수\).md "wikilink"),[JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink") 외 113명도 앨범 참여.
+25. [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"),[아이](../Page/아이_\(가수\).md "wikilink"),[굿데이](../Page/굿데이_\(음악_그룹\).md "wikilink") 외 50명도 앨범 참여.

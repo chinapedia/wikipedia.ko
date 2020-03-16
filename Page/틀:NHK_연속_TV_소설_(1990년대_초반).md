@@ -32,10 +32,10 @@
 (凛凛と)</p></td>
 <td><p>1990년</p></td>
 <td><p>4월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도야마현" title="wikilink">도야마현</a> <a href="https://ko.wikipedia.org/wiki/우오즈_시" title="wikilink">우오즈 시</a><br />
+<td><p><a href="../Page/도야마현.md" title="wikilink">도야마현</a> <a href="https://ko.wikipedia.org/wiki/우오즈_시" title="wikilink">우오즈 시</a><br />
 도쿄 도<br />
-<a href="https://ko.wikipedia.org/wiki/프랑스" title="wikilink">프랑스</a> <a href="https://ko.wikipedia.org/wiki/파리_(프랑스)" title="wikilink">파리</a><br />
-<a href="https://ko.wikipedia.org/wiki/영국" title="wikilink">영국</a> <a href="https://ko.wikipedia.org/wiki/런던" title="wikilink">런던</a></p></td>
+<a href="../Page/프랑스.md" title="wikilink">프랑스</a> <a href="../Page/파리_(프랑스).md" title="wikilink">파리</a><br />
+<a href="../Page/영국.md" title="wikilink">영국</a> <a href="../Page/런던.md" title="wikilink">런던</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/야지마_마사오" title="wikilink">야지마 마사오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/다나카_미노루_(배우)" title="wikilink">다나카 미노루</a></p></td>
 <td><p>하타케야마 고키치<br />
@@ -85,9 +85,9 @@
 <td><p>1991년 4월 2일</p></td>
 <td><p>도쿄 도<br />
 홋카이도<br />
-<a href="https://ko.wikipedia.org/wiki/니가타현" title="wikilink">니가타현</a> <a href="https://ko.wikipedia.org/wiki/사도가_섬" title="wikilink">사도가 섬</a><br />
+<a href="../Page/니가타현.md" title="wikilink">니가타현</a> <a href="https://ko.wikipedia.org/wiki/사도가_섬" title="wikilink">사도가 섬</a><br />
 미에 현 시마 시<br />
-<a href="https://ko.wikipedia.org/wiki/아이치현" title="wikilink">아이치현</a> <a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a><br />
+<a href="../Page/아이치현.md" title="wikilink">아이치현</a> <a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a><br />
 시즈오카 현 <a href="https://ko.wikipedia.org/wiki/니시이즈_정" title="wikilink">니시이즈 정</a></p></td>
 <td><p>기쿠타 가즈오<br />
 (菊田 一夫)</p></td>
@@ -169,7 +169,7 @@
 </tr>
 <tr class="even">
 <td><p>10월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사쿠라이_사치코" title="wikilink">사쿠라이 사치코</a></p></td>
+<td><p><a href="../Page/사쿠라이_사치코.md" title="wikilink">사쿠라이 사치코</a></p></td>
 <td><p>하나무라 유코<br />
 (花村 裕子)</p></td>
 <td></td>
@@ -263,7 +263,7 @@
 <td><p>1994년</p></td>
 <td><p>4월 4일</p></td>
 <td><p>오사카 부 <a href="https://ko.wikipedia.org/wiki/기타_구_(오사카_시)" title="wikilink">니시텐마</a><br />
-<a href="https://ko.wikipedia.org/wiki/오이타현" title="wikilink">오이타현</a> <a href="https://ko.wikipedia.org/wiki/벳푸_시" title="wikilink">벳푸 시</a><br />
+<a href="../Page/오이타현.md" title="wikilink">오이타현</a> <a href="https://ko.wikipedia.org/wiki/벳푸_시" title="wikilink">벳푸 시</a><br />
 오이타 현 <a href="https://ko.wikipedia.org/wiki/기쓰키_시" title="wikilink">기쓰키 시</a><br />
 교토 부 <a href="https://ko.wikipedia.org/wiki/아야베_시" title="wikilink">아야베 시</a></p></td>
 <td><p>도미카와 모토후미<br />
@@ -294,7 +294,7 @@
 시즈오카 현 이즈</p></td>
 <td><p>하시다 스가코<br />
 (橋田 壽賀子)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/야스다_나루미" title="wikilink">야스다 나루미</a><br />
+<td><p><a href="../Page/야스다_나루미.md" title="wikilink">야스다 나루미</a><br />
 <small><제1부></small></p></td>
 <td><p><small>다카쿠라 하루키<br />
 (高倉 春希)</small><br />

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [PA-RISC](https://ko.wikipedia.org/wiki/PA-RISC).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:HP_PA-RISC_7300LC.jpg "wikilink") **PA-RISC**는 [휴렛 패커드가](https://ko.wikipedia.org/wiki/휴렛_패커드 "wikilink") 개발한 [명령어 집합 아키텍처](https://ko.wikipedia.org/wiki/명령어_집합 "wikilink")(ISA)이다. 이름에 언급된대로 [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") 아키텍처의 하나로, PA는 Precision Architecture를 가리킨다. 이 디자인은 HP/PA(Hewlett Packard Precision Architecture)를 가리키기도 한다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:HP_PA-RISC_7300LC.jpg "wikilink") **PA-RISC**는 [휴렛 패커드가](https://ko.wikipedia.org/wiki/휴렛_패커드 "wikilink") 개발한 [명령어 집합 아키텍처](../Page/명령어_집합.md "wikilink")(ISA)이다. 이름에 언급된대로 [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") 아키텍처의 하나로, PA는 Precision Architecture를 가리킨다. 이 디자인은 HP/PA(Hewlett Packard Precision Architecture)를 가리키기도 한다.
 
 이 아키텍처는 1986년 2월 26일에 [HP 3000 시리즈 930과](https://ko.wikipedia.org/wiki/HP_3000 "wikilink") [HP 9000 모델840](https://ko.wikipedia.org/wiki/HP_9000 "wikilink") 컴퓨터가 TS1이라는 기능을 처음 구현하면서 도입되었다.\[1\]\[2\]
 
-PA-RISC의 후계자는 HP와 [인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink")이 함께 개발한 [아이테니엄](https://ko.wikipedia.org/wiki/아이테니엄 "wikilink") (본래 IA-64) ISA이다.\[3\] HP는 PA-RISC 기반의 HP 9000 시스템을 2008년 말에 판매를 중단하였으나 2013년까지 PA-RISC 칩을 구동하는 서버를 지원하였다.\[4\]
+PA-RISC의 후계자는 HP와 [인텔](../Page/인텔.md "wikilink")이 함께 개발한 [아이테니엄](../Page/아이테니엄.md "wikilink") (본래 IA-64) ISA이다.\[3\] HP는 PA-RISC 기반의 HP 9000 시스템을 2008년 말에 판매를 중단하였으나 2013년까지 PA-RISC 칩을 구동하는 서버를 지원하였다.\[4\]
 
 ## CPU 사양
 

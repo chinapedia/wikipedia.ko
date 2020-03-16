@@ -32,10 +32,10 @@
 (澪つくし)</p></td>
 <td><p>1985년</p></td>
 <td><p>4월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/지바현" title="wikilink">지바현</a> <a href="https://ko.wikipedia.org/wiki/조시_시" title="wikilink">조시 시</a></p></td>
+<td><p><a href="../Page/지바현.md" title="wikilink">지바현</a> <a href="https://ko.wikipedia.org/wiki/조시_시" title="wikilink">조시 시</a></p></td>
 <td><p>제임스 미키<br />
 (ジェームス 三木)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사와구치_야스코" title="wikilink">사와구치 야스코</a></p></td>
+<td><p><a href="../Page/사와구치_야스코.md" title="wikilink">사와구치 야스코</a></p></td>
 <td><p><small>후루카와 가오루<br />
 (古川 かをる)</small><br />
 ↓<br />
@@ -86,11 +86,11 @@
 (はね駒)</p></td>
 <td><p>1986년</p></td>
 <td><p>4월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠시마현" title="wikilink">후쿠시마현</a><br />
+<td><p><a href="../Page/후쿠시마현.md" title="wikilink">후쿠시마현</a><br />
 미야기 현</p></td>
 <td><p>데라우치 고하루<br />
 (寺内 小春)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사이토_유키_(1966년)" title="wikilink">사이토 유키</a></p></td>
+<td><p><a href="../Page/사이토_유키_(1966년).md" title="wikilink">사이토 유키</a></p></td>
 <td><p><small>다치바나 린<br />
 (橘 りん)</small><br />
 ↓<br />
@@ -113,9 +113,9 @@
 <td><p><strong>수도의 바람</strong><br />
 (都の風)</p></td>
 <td><p>1986년 10월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/교토부" title="wikilink">교토부</a> <a href="https://ko.wikipedia.org/wiki/교토_시" title="wikilink">교토 시</a><br />
+<td><p><a href="../Page/교토부.md" title="wikilink">교토부</a> <a href="https://ko.wikipedia.org/wiki/교토_시" title="wikilink">교토 시</a><br />
 오사카 부 오사카 시<br />
-<a href="https://ko.wikipedia.org/wiki/나라현" title="wikilink">나라현</a> <a href="https://ko.wikipedia.org/wiki/나라_시" title="wikilink">나라 시</a></p></td>
+<a href="../Page/나라현.md" title="wikilink">나라현</a> <a href="https://ko.wikipedia.org/wiki/나라_시" title="wikilink">나라 시</a></p></td>
 <td><p>시게모리 다카코<br />
 (重森 孝子)</p></td>
 <td><p>가노 미유키<br />
@@ -197,7 +197,7 @@
 (ノンちゃんの夢)</p></td>
 <td><p>1988년</p></td>
 <td><p>4월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고치현" title="wikilink">고치현</a><br />
+<td><p><a href="../Page/고치현.md" title="wikilink">고치현</a><br />
 도쿄 도</p></td>
 <td><p>마츠다이라 시게코<br />
 (松平 繁子)</p></td>

@@ -35,7 +35,7 @@
 (なっちゃんの写真館)</p></td>
 <td><p>1980년</p></td>
 <td><p>4월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿠시마현" title="wikilink">도쿠시마현</a></p></td>
+<td><p><a href="../Page/도쿠시마현.md" title="wikilink">도쿠시마현</a></p></td>
 <td><p>도쿄</p></td>
 <td><p>데라우치 고하루<br />
 (寺内 小春)</p></td>
@@ -88,7 +88,7 @@
 (まんさくの花)</p></td>
 <td><p>1981년</p></td>
 <td><p>4월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아키타현" title="wikilink">아키타현</a></p></td>
+<td><p><a href="../Page/아키타현.md" title="wikilink">아키타현</a></p></td>
 <td><p>도쿄</p></td>
 <td><p>다카하시 마사쿠니<br />
 (高橋 正圀)</p></td>
@@ -174,7 +174,7 @@
 (よーいドン)</p></td>
 <td><p>1982년 10월 4일</p></td>
 <td><p>오사카 부<br />
-<a href="https://ko.wikipedia.org/wiki/교토부" title="wikilink">교토부</a></p></td>
+<a href="../Page/교토부.md" title="wikilink">교토부</a></p></td>
 <td><p>오사카</p></td>
 <td><p>스기하라 기호<br />
 (杉山 義法)</p></td>

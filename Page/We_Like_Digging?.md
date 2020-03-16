@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [We Like Digging\?](https://ko.wikipedia.org/wiki/We_Like_Digging\?).
 
 
-***We Like Digging?***은 카라스 플라워스가 [리프라이즈 레코드와](https://ko.wikipedia.org/wiki/리프라이즈_레코드 "wikilink") 계약하기 전, [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [가을](https://ko.wikipedia.org/wiki/가을 "wikilink")에 그들 [스스로 발매한](https://ko.wikipedia.org/wiki/:en:Self_Released "wikilink") 음반이다. [브렌우드학교와](https://ko.wikipedia.org/wiki/:en:Brentwood_School_\(Los_Angeles\) "wikilink") [할리우드](https://ko.wikipedia.org/wiki/할리우드 "wikilink") 클럽 중심으로 500장이 팔렸다.
+***We Like Digging?***은 카라스 플라워스가 [리프라이즈 레코드와](https://ko.wikipedia.org/wiki/리프라이즈_레코드 "wikilink") 계약하기 전, [1995년](../Page/1995년.md "wikilink") [가을](../Page/가을.md "wikilink")에 그들 [스스로 발매한](https://ko.wikipedia.org/wiki/:en:Self_Released "wikilink") 음반이다. [브렌우드학교와](https://ko.wikipedia.org/wiki/:en:Brentwood_School_\(Los_Angeles\) "wikilink") [할리우드](../Page/할리우드.md "wikilink") 클럽 중심으로 500장이 팔렸다.
 
 ## 수록곡
 
@@ -26,7 +26,7 @@
 3.  "Simple Kind of Lovely" – 3:24
 4.  "The Great Getaway" – 4:13
 5.  "Good at Being Gone" – 3:05
-6.  "Not Falling Apart" – 2:15 (*[It Won't Be Soon Before Long](https://ko.wikipedia.org/wiki/It_Won't_Be_Soon_Before_Long "wikilink")*의 수록곡과 다름.)
+6.  "Not Falling Apart" – 2:15 (*[It Won't Be Soon Before Long](../Page/It_Won't_Be_Soon_Before_Long.md "wikilink")*의 수록곡과 다름.)
 7.  "The Kid with the Velvet Eyes" – 5:13
 8.  "As Things Collide" – 3:50
 9.  "Everyday Goodbyes" – 4:01

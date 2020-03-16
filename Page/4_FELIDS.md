@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [4 FELIDS](https://ko.wikipedia.org/wiki/4_FELIDS).
 
 
-〈**4 FELIDS**〉는 [VALSHE](../Page/VALSHE.md "wikilink")의 4번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [3월 13일에](https://ko.wikipedia.org/wiki/3월_13일 "wikilink") [빙에서](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink") 발매.
+〈**4 FELIDS**〉는 [VALSHE](../Page/VALSHE.md "wikilink")의 4번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2013년](../Page/2013년.md "wikilink") [3월 13일에](../Page/3월_13일.md "wikilink") [빙에서](../Page/빙_\(기업\).md "wikilink") 발매.
 
 ## 해설
 
-[빙](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink") 이적 제1탄 싱글. DVD가 있는 초회한정반A(Leopard반)과 초회한정반B(Lion반), 통상반(Tiger반), 오리저널 무비 시청）IDt가 있는 Musing반(Cat반)의 4개의 패턴으로 발매.
+[빙](../Page/빙_\(기업\).md "wikilink") 이적 제1탄 싱글. DVD가 있는 초회한정반A(Leopard반)과 초회한정반B(Lion반), 통상반(Tiger반), 오리저널 무비 시청）IDt가 있는 Musing반(Cat반)의 4개의 패턴으로 발매.
 
 ## 수록곡
 

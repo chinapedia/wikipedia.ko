@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J. M. ](https://ko.wikipedia.org/wiki/J._M._).
 
 
-**존 마크 디머테이스**(, 발음 Dee-Ma-TAY-iss\[1\])는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink"), [각본가](https://ko.wikipedia.org/wiki/각본가 "wikilink")이다. [DC 코믹스와](https://ko.wikipedia.org/wiki/DC_코믹스 "wikilink") [마블 코믹스에서](https://ko.wikipedia.org/wiki/마블_코믹스 "wikilink") 다양한 작품의 스토리를 썼다.
+**존 마크 디머테이스**(, 발음 Dee-Ma-TAY-iss\[1\])는 [미국](../Page/미국.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink"), [각본가](https://ko.wikipedia.org/wiki/각본가 "wikilink")이다. [DC 코믹스와](../Page/DC_코믹스.md "wikilink") [마블 코믹스에서](../Page/마블_코믹스.md "wikilink") 다양한 작품의 스토리를 썼다.
 
 ## 각주
 

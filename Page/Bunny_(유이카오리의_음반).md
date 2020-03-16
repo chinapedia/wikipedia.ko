@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Bunny \( \)](https://ko.wikipedia.org/wiki/Bunny_\(_\)).
 
 
-《**Bunny**》()는 [유이카오리](../Page/유이카오리.md "wikilink")의 두 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 23일에](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_제삼_크리에이티브_본부 "wikilink") 발매됐다.
+《**Bunny**》()는 [유이카오리](../Page/유이카오리.md "wikilink")의 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [2013년](../Page/2013년.md "wikilink") [10월 23일에](../Page/10월_23일.md "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_제삼_크리에이티브_본부 "wikilink") 발매됐다.
 
 ## 발매
 
 유이카오리의 앨범으로는 전작 《[Puppy](../Page/Puppy_\(유이카오리의_음반\).md "wikilink")》에서 약 2년만의 발매로, 제목인 《Bunny》는 “뛰어올라가다” 뜻을 포함한다고 한다. 이번 작품과 동시에, 전작 《Puppy》의 SPECIAL EDITION도 발매됐다.
 
-판매형태는 CD+BD반(KIZC-219/20), CD+DVD반(KIZC-221/22), 통상반(KICS-1981)의 3종 발매로 CD+BD반과 CD+DVD반에 〈Jumpin' Bunny Flash\!\!〉, 〈[그대의 YELL](../Page/그대의_YELL.md "wikilink")〉, [웨이크 업\!\!](../Page/웨이크_업!!.md "wikilink")〉, 〈[Shiny Blue](../Page/Shiny_Blue.md "wikilink")〉의 [PV](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 및 〈Jumpin' Bunny Flash\!\!〉의 메이킹을 수록한 [블루레이 디스크](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") 및 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")가 동봉되어있다.
+판매형태는 CD+BD반(KIZC-219/20), CD+DVD반(KIZC-221/22), 통상반(KICS-1981)의 3종 발매로 CD+BD반과 CD+DVD반에 〈Jumpin' Bunny Flash\!\!〉, 〈[그대의 YELL](../Page/그대의_YELL.md "wikilink")〉, [웨이크 업\!\!](../Page/웨이크_업!!.md "wikilink")〉, 〈[Shiny Blue](../Page/Shiny_Blue.md "wikilink")〉의 [PV](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 및 〈Jumpin' Bunny Flash\!\!〉의 메이킹을 수록한 [블루레이 디스크](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") 및 [DVD](../Page/DVD.md "wikilink")가 동봉되어있다.
 
 ## 수록곡
 
@@ -17,14 +17,14 @@
       - 작사 · 작곡 · 편곡: [마에야마다 켄이치](https://ko.wikipedia.org/wiki/마에야마다_켄이치 "wikilink")
     <!-- end list -->
       -
-        [TV 도쿄](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 《[애니송 플러](https://ko.wikipedia.org/wiki/애니송_플러 "wikilink")》 2012년 10월 [여는 곡](https://ko.wikipedia.org/wiki/주제가 "wikilink")
+        [TV 도쿄](../Page/TV_도쿄.md "wikilink") 《[애니송 플러](https://ko.wikipedia.org/wiki/애니송_플러 "wikilink")》 2012년 10월 [여는 곡](https://ko.wikipedia.org/wiki/주제가 "wikilink")
 2.  **그대가 세계로 세계는 그대로** () \[4:05\]\[2\]
       - 작사: [하타 아키](https://ko.wikipedia.org/wiki/하타_아키 "wikilink"), 작곡 · 편곡: 마에야마다 켄이치
 3.  **[압도적인 GO\!\!](../Page/그대의_YELL.md "wikilink")** () \[3:48\]\[3\]
       - 작사: IkaZ, 작곡 · 편곡: OTOKAM
     <!-- end list -->
       -
-        [PS3용](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 소프트웨어 《[압도적유희 무겐소울즈](https://ko.wikipedia.org/wiki/압도적유희_무겐소울즈 "wikilink")》 주제가
+        [PS3용](../Page/플레이스테이션_3.md "wikilink") 소프트웨어 《[압도적유희 무겐소울즈](https://ko.wikipedia.org/wiki/압도적유희_무겐소울즈 "wikilink")》 주제가
 4.  **Blitzallies** \[4:01\]\[4\]
       - 작사: [타다노 나츠미](https://ko.wikipedia.org/wiki/타다노_나츠미 "wikilink"), 작곡 · 편곡: [미야자키 마코토](https://ko.wikipedia.org/wiki/미야자키_마코토 "wikilink")
 5.  **in Wonderful Wonder** \[4:23\]\[5\]
@@ -60,7 +60,7 @@
 | 차트(2013년)                                                           | 최고 순위 |
 | ------------------------------------------------------------------- | ----- |
 | [오리콘](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink")\[13\]        | 15    |
-| [빌보드 재팬](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 톱 앨범\[14\]   | 13    |
+| [빌보드 재팬](../Page/빌보드.md "wikilink") 톱 앨범\[14\]                      | 13    |
 | [사운드스캔 재팬](https://ko.wikipedia.org/wiki/사운드스캔_재팬 "wikilink")\[15\] | 17    |
 
 ## 출전

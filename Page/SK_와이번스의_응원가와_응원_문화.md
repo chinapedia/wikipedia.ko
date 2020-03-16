@@ -1,20 +1,20 @@
 > This article is converted from Wikipedia: [SK    ](https://ko.wikipedia.org/wiki/SK____).
 
 
-**[SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스 "wikilink")**의 팀 응원가로는 레이지본의 노래인 《불꽃투혼\! SK\!》와 창단 당시부터 불리고 있는 《불타는 패기》가 사용되고 있다.
+**[SK 와이번스](../Page/SK_와이번스.md "wikilink")**의 팀 응원가로는 레이지본의 노래인 《불꽃투혼\! SK\!》와 창단 당시부터 불리고 있는 《불타는 패기》가 사용되고 있다.
 
 ### 응원 스타일
 
   - 응원의 대부분은 응원단장과 치어리더의 리드에 의해서 진행된다.
   - 분위기가 고조되면 파도 타기 응원을 하기도 한다. 이때 항구 도시를 상징하기 위해 뱃고동 소리가 울려 퍼진다.
-  - 경기 시작 전, 선발 라인업을 발표할때는 [나이트위시](https://ko.wikipedia.org/wiki/나이트위시 "wikilink")의 기악곡 〈[Moondance](https://ko.wikipedia.org/wiki/Moondance "wikilink")〉를 초반부와 중후반부만 사용하도록 편집한 곡을 배경음악으로 사용한다.\[1\]
-  - [문학](https://ko.wikipedia.org/wiki/문학_야구장 "wikilink") 홈 경기 때 8회초가 종료되면 인천 연고팀의 고유 응원가인 《[연안부두](https://ko.wikipedia.org/wiki/연안부두_\(가요\) "wikilink")》를 방송하며, 방송을 따라 관중들이 열창한다. 이때 한소절이 끝날때마다 "인천 SK"를 외친다. 이때 3루 벽에 설치된 가로 전광판을 통해 가사를 출력하여 1루측 관중이 따라 부를 수 있도록 하였다.
+  - 경기 시작 전, 선발 라인업을 발표할때는 [나이트위시](../Page/나이트위시.md "wikilink")의 기악곡 〈[Moondance](https://ko.wikipedia.org/wiki/Moondance "wikilink")〉를 초반부와 중후반부만 사용하도록 편집한 곡을 배경음악으로 사용한다.\[1\]
+  - [문학](https://ko.wikipedia.org/wiki/문학_야구장 "wikilink") 홈 경기 때 8회초가 종료되면 인천 연고팀의 고유 응원가인 《[연안부두](../Page/연안부두_\(가요\).md "wikilink")》를 방송하며, 방송을 따라 관중들이 열창한다. 이때 한소절이 끝날때마다 "인천 SK"를 외친다. 이때 3루 벽에 설치된 가로 전광판을 통해 가사를 출력하여 1루측 관중이 따라 부를 수 있도록 하였다.
   - 《연안부두》를 부를때 시각적 효과를 극대화하기 위하여 관중들이 불꽃 막대를 이용하기도 하였으나 현재는 스마트폰 애플리케이션의 플래시를 사용하는 것으로 바뀌었다. 다만 구단에서는 원활한 경기 진행을 위해 1절을 부른 뒤에는 플래시를 꺼달라고 당부하고 있다.
-  - 이 외에 [레이지본](https://ko.wikipedia.org/wiki/레이지본 "wikilink")의 노래인 《불꽃투혼\! SK\!》 와 창단 당시부터 불리고 있는 《불타는 패기》 가 있다. 《불타는 패기》는 4대 와이번스걸인 클리나가 편곡하기도 하였다.
+  - 이 외에 [레이지본](../Page/레이지본.md "wikilink")의 노래인 《불꽃투혼\! SK\!》 와 창단 당시부터 불리고 있는 《불타는 패기》 가 있다. 《불타는 패기》는 4대 와이번스걸인 클리나가 편곡하기도 하였다.
   - 응원 도구에는 빨간색 풍선막대가 사용되며, 2,000원의 가격에 판매되고 있다.
   - SK 와이번스 공식 서포터즈인 **비룡천하**는 피켓등을 동원한 응원을 모든 문학 홈 경기와 일부 서울 원정경기때 진행한다. 가끔 비룡천하는 지방 원정 응원을 가는 경우도 있다.
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 시즌까지 상대 투수가 1루나 2루에 나가 있는 주자에게 견제구를 던지면 견제 야유로 "야\! 그러면 안 되지\!"를 외쳤으나, 그 시즌에서 [윤길현](https://ko.wikipedia.org/wiki/윤길현 "wikilink")의 빈볼 시비 발생 이후 [김성근](https://ko.wikipedia.org/wiki/김성근_\(야구인\) "wikilink") 감독의 자제 요청으로 견제 야유를 하지 않았다.\[2\] 이만수 감독 취임 이후에는 견제 야유를 다시 하게 되었지만, 구호는 "우"로 바뀌었고, 김용희 감독 체제때부터 "쩔어, 쩔어, 쩔어, 그러면 안 되지"라는 공식 견제 야유 구호를 제정하였다.
-  - SK 와이번스 주자가 도루할 수 있는 기회가 나오면 [노라조](https://ko.wikipedia.org/wiki/노라조 "wikilink")의 《슈퍼맨》의 일부인 "오늘도 달리고 달리고 살리고 살리고"부분이 끝나고 "뛰어\!"를 외친다.
+  - [2008년](../Page/2008년.md "wikilink") 시즌까지 상대 투수가 1루나 2루에 나가 있는 주자에게 견제구를 던지면 견제 야유로 "야\! 그러면 안 되지\!"를 외쳤으나, 그 시즌에서 [윤길현](../Page/윤길현.md "wikilink")의 빈볼 시비 발생 이후 [김성근](../Page/김성근_\(야구인\).md "wikilink") 감독의 자제 요청으로 견제 야유를 하지 않았다.\[2\] 이만수 감독 취임 이후에는 견제 야유를 다시 하게 되었지만, 구호는 "우"로 바뀌었고, 김용희 감독 체제때부터 "쩔어, 쩔어, 쩔어, 그러면 안 되지"라는 공식 견제 야유 구호를 제정하였다.
+  - SK 와이번스 주자가 도루할 수 있는 기회가 나오면 [노라조](../Page/노라조.md "wikilink")의 《슈퍼맨》의 일부인 "오늘도 달리고 달리고 살리고 살리고"부분이 끝나고 "뛰어\!"를 외친다.
   - SK타자가 파울타구를 날리거나 SK의 포수 혹은 감독이 마운드를 방문할 때 동요 "우리 모두 다 같이"를 틀고 한 소절이 끝날 때 박자에 맞춰 "SK"를 외친다
   - SK 와이번스 타자가 3볼 2[스트라이크의](https://ko.wikipedia.org/wiki/스트라이크_\(야구\) "wikilink") 상황에 놓이게 될 경우, "투쓰리 풀카운트, 함성과 함께 다같이\!"를 외치고 응원단장의 리드에 따라 박수를 친다. KBO 리그의 볼 카운트 세는 법이 바뀐 이후에도 이 구호는 계속 사용되고 있다.
   - SK 투수가 상대 주자에게 견제 후 상대 응원석에서 견제 야유 구호를 외치면 SK 응원석에서는 "쉬\~"를 틀며 맞대응한다.\[3\]
@@ -76,7 +76,7 @@
 
 <!-- end list -->
 
-  - [김재현](https://ko.wikipedia.org/wiki/김재현 "wikilink") - [정용화](https://ko.wikipedia.org/wiki/정용화 "wikilink") - '넌 내게 반했어'
+  - [김재현](../Page/김재현.md "wikilink") - [정용화](https://ko.wikipedia.org/wiki/정용화 "wikilink") - '넌 내게 반했어'
 
 <!-- end list -->
 
@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - [정진기](https://ko.wikipedia.org/wiki/정진기 "wikilink") - 자작곡
+  - [정진기](../Page/정진기.md "wikilink") - 자작곡
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
 
 <!-- end list -->
 
-  - [한동민](https://ko.wikipedia.org/wiki/한동민 "wikilink") - Pat Boone - 'Speedy Gonzales'
+  - [한동민](../Page/한동민.md "wikilink") - Pat Boone - 'Speedy Gonzales'
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@
 
 <!-- end list -->
 
-  - [정의윤](https://ko.wikipedia.org/wiki/정의윤 "wikilink") - 쿨 - '또 자 쿨쿨'
+  - [정의윤](../Page/정의윤.md "wikilink") - 쿨 - '또 자 쿨쿨'
 
 <!-- end list -->
 
@@ -130,7 +130,7 @@
 
 <!-- end list -->
 
-  - [제이미 로맥](https://ko.wikipedia.org/wiki/제이미_로맥 "wikilink") - [베토벤](https://ko.wikipedia.org/wiki/베토벤 "wikilink") - '환희의 송가'
+  - [제이미 로맥](../Page/제이미_로맥.md "wikilink") - [베토벤](https://ko.wikipedia.org/wiki/베토벤 "wikilink") - '환희의 송가'
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@
 
 #### 추억의 응원가
 
-  - [정근우](https://ko.wikipedia.org/wiki/정근우 "wikilink") - Boys Like Girls - The Great Escape/산울림 - 개구쟁이/SK 텔레콤 CM 되고송
+  - [정근우](../Page/정근우.md "wikilink") - Boys Like Girls - The Great Escape/산울림 - 개구쟁이/SK 텔레콤 CM 되고송
 
 <!-- end list -->
 
@@ -150,7 +150,7 @@
 
 <!-- end list -->
 
-  - [정상호](https://ko.wikipedia.org/wiki/정상호 "wikilink") - [소방차](https://ko.wikipedia.org/wiki/소방차_\(음악_그룹\) "wikilink") - '사랑하고 싶어'/2 Unlimited - Twilight Zone
+  - [정상호](../Page/정상호.md "wikilink") - [소방차](https://ko.wikipedia.org/wiki/소방차_\(음악_그룹\) "wikilink") - '사랑하고 싶어'/2 Unlimited - Twilight Zone
 
 <!-- end list -->
 
@@ -169,7 +169,7 @@
 
 <!-- end list -->
 
-  - [김연훈](https://ko.wikipedia.org/wiki/김연훈 "wikilink") - [Lou Sern](https://ko.wikipedia.org/wiki/Lou_Sern "wikilink") - 'Swiss Boy'
+  - [김연훈](../Page/김연훈.md "wikilink") - [Lou Sern](https://ko.wikipedia.org/wiki/Lou_Sern "wikilink") - 'Swiss Boy'
 
 <!-- end list -->
 
@@ -178,7 +178,7 @@
 
 <!-- end list -->
 
-  - [이명기](https://ko.wikipedia.org/wiki/이명기 "wikilink") The click five - Time machine/오페라 《[아이다](https://ko.wikipedia.org/wiki/아이다 "wikilink")》중 〈개선행진곡〉
+  - [이명기](https://ko.wikipedia.org/wiki/이명기 "wikilink") The click five - Time machine/오페라 《[아이다](../Page/아이다.md "wikilink")》중 〈개선행진곡〉
 
 <!-- end list -->
 
@@ -207,7 +207,7 @@
 
 <!-- end list -->
 
-  - [조성우](https://ko.wikipedia.org/wiki/조성우_\(1988년\) "wikilink") - Shaun Cassidy-Da Doo Ron Ron
+  - [조성우](../Page/조성우_\(1988년\).md "wikilink") - Shaun Cassidy-Da Doo Ron Ron
 
 <!-- end list -->
 
@@ -217,7 +217,7 @@
 
 <!-- end list -->
 
-  - [박재상](https://ko.wikipedia.org/wiki/박재상_\(야구_선수\) "wikilink") - [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink") [마오리족](https://ko.wikipedia.org/wiki/마오리족 "wikilink")의 [민요](https://ko.wikipedia.org/wiki/민요 "wikilink") 'Pokarekare Ana'(연가)/[싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink") - '예술이야'
+  - [박재상](https://ko.wikipedia.org/wiki/박재상_\(야구_선수\) "wikilink") - [뉴질랜드](../Page/뉴질랜드.md "wikilink") [마오리족](../Page/마오리족.md "wikilink")의 [민요](../Page/민요.md "wikilink") 'Pokarekare Ana'(연가)/[싸이](../Page/싸이.md "wikilink") - '예술이야'
 
 <!-- end list -->
 
@@ -227,7 +227,7 @@
 
 <!-- end list -->
 
-  - [조동화](https://ko.wikipedia.org/wiki/조동화 "wikilink") - [소방차](https://ko.wikipedia.org/wiki/소방차_\(음악_그룹\) "wikilink") - '어젯밤 이야기' / 되고송 / [Boys Like Girls](https://ko.wikipedia.org/wiki/Boys_Like_Girls "wikilink") - 'The Great Escape'
+  - [조동화](../Page/조동화.md "wikilink") - [소방차](https://ko.wikipedia.org/wiki/소방차_\(음악_그룹\) "wikilink") - '어젯밤 이야기' / 되고송 / [Boys Like Girls](https://ko.wikipedia.org/wiki/Boys_Like_Girls "wikilink") - 'The Great Escape'
 
 <!-- end list -->
 
@@ -238,7 +238,7 @@
 
 <!-- end list -->
 
-  - [박계현](https://ko.wikipedia.org/wiki/박계현 "wikilink") - Fool's Garden - 'Lemon Tree'
+  - [박계현](../Page/박계현.md "wikilink") - Fool's Garden - 'Lemon Tree'
 
 <!-- end list -->
 
@@ -256,7 +256,7 @@
 
 <!-- end list -->
 
-  - [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") - 오페라 《[아이다](https://ko.wikipedia.org/wiki/아이다 "wikilink")》중 〈개선행진곡\>
+  - [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") - 오페라 《[아이다](../Page/아이다.md "wikilink")》중 〈개선행진곡\>
 
 <!-- end list -->
 
@@ -265,7 +265,7 @@
 
 <!-- end list -->
 
-  - [강승호](https://ko.wikipedia.org/wiki/강승호 "wikilink") - 자작곡
+  - [강승호](../Page/강승호.md "wikilink") - 자작곡
 
 <!-- end list -->
 
@@ -274,7 +274,7 @@
 
 <!-- end list -->
 
-  - [박승욱](https://ko.wikipedia.org/wiki/박승욱 "wikilink") - [Robert Planquette](https://ko.wikipedia.org/wiki/Robert_Planquette "wikilink") - 'Le Regiment de Sambre et Meuse'
+  - [박승욱](../Page/박승욱.md "wikilink") - [Robert Planquette](https://ko.wikipedia.org/wiki/Robert_Planquette "wikilink") - 'Le Regiment de Sambre et Meuse'
 
 <!-- end list -->
 
@@ -283,7 +283,7 @@
 
 <!-- end list -->
 
-  - [최승준](https://ko.wikipedia.org/wiki/최승준_\(야구_선수\) "wikilink") - [노브레인](https://ko.wikipedia.org/wiki/노브레인 "wikilink") - '소리쳐라, 대한민국\!'
+  - [최승준](../Page/최승준_\(야구_선수\).md "wikilink") - [노브레인](../Page/노브레인.md "wikilink") - '소리쳐라, 대한민국\!'
 
 <!-- end list -->
 
@@ -292,7 +292,7 @@
 
 <!-- end list -->
 
-  - [박정권](https://ko.wikipedia.org/wiki/박정권 "wikilink") - 바그너 - '쌍두 독수리 깃발 아래서
+  - [박정권](../Page/박정권.md "wikilink") - 바그너 - '쌍두 독수리 깃발 아래서
 
 <!-- end list -->
 
@@ -301,7 +301,7 @@
 
 <!-- end list -->
 
-  - [김강민](https://ko.wikipedia.org/wiki/김강민 "wikilink") - 엔리코 카루소 - 'O sole mio'
+  - [김강민](../Page/김강민.md "wikilink") - 엔리코 카루소 - 'O sole mio'
 
 <!-- end list -->
 
@@ -310,7 +310,7 @@
 
 <!-- end list -->
 
-  - [나주환](https://ko.wikipedia.org/wiki/나주환 "wikilink") - [DJ DOC](https://ko.wikipedia.org/wiki/DJ_DOC "wikilink") - 'DOC와 춤을'
+  - [나주환](../Page/나주환.md "wikilink") - [DJ DOC](../Page/DJ_DOC.md "wikilink") - 'DOC와 춤을'
 
 <!-- end list -->
 
@@ -329,7 +329,7 @@
 
 <!-- end list -->
 
-  - [헥터 고메즈](../Page/헥터_고메즈.md "wikilink") - [Two Steps From Hell](https://ko.wikipedia.org/wiki/Two_Steps_From_Hell "wikilink") - Dragon Rider, [빅뱅](https://ko.wikipedia.org/wiki/빅뱅_\(음악_그룹\) "wikilink") - '뱅뱅뱅'
+  - [헥터 고메즈](../Page/헥터_고메즈.md "wikilink") - [Two Steps From Hell](https://ko.wikipedia.org/wiki/Two_Steps_From_Hell "wikilink") - Dragon Rider, [빅뱅](../Page/빅뱅_\(음악_그룹\).md "wikilink") - '뱅뱅뱅'
 
 <!-- end list -->
 
@@ -342,13 +342,13 @@
   - 타자
       - [이재원](https://ko.wikipedia.org/wiki/이재원 "wikilink") - [윤도현 밴드](https://ko.wikipedia.org/wiki/윤도현_밴드 "wikilink") - '나는 나비'
       - [최정](https://ko.wikipedia.org/wiki/최정 "wikilink") - House of Pain - 'Jump around'
-      - [김성현](https://ko.wikipedia.org/wiki/김성현 "wikilink") - [원더걸스](https://ko.wikipedia.org/wiki/원더걸스 "wikilink") - 'Be my Baby'
-      - [김재현](https://ko.wikipedia.org/wiki/김재현 "wikilink") - [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink") - '내 눈에는'
-      - [한동민](https://ko.wikipedia.org/wiki/한동민 "wikilink") - 사이먼 도미닉 - 'Simon Dominic'
-      - [정의윤](https://ko.wikipedia.org/wiki/정의윤 "wikilink") - Coldplay - 'Viva La Vida'
+      - [김성현](https://ko.wikipedia.org/wiki/김성현 "wikilink") - [원더걸스](../Page/원더걸스.md "wikilink") - 'Be my Baby'
+      - [김재현](../Page/김재현.md "wikilink") - [싸이](../Page/싸이.md "wikilink") - '내 눈에는'
+      - [한동민](../Page/한동민.md "wikilink") - 사이먼 도미닉 - 'Simon Dominic'
+      - [정의윤](../Page/정의윤.md "wikilink") - Coldplay - 'Viva La Vida'
   - 투수
-      - [윤희상](https://ko.wikipedia.org/wiki/윤희상 "wikilink") - [써니힐](https://ko.wikipedia.org/wiki/써니힐 "wikilink") - '만인의 연인'
-      - [박희수](https://ko.wikipedia.org/wiki/박희수 "wikilink") - Motorhead - 'The Game'
+      - [윤희상](../Page/윤희상.md "wikilink") - [써니힐](../Page/써니힐.md "wikilink") - '만인의 연인'
+      - [박희수](../Page/박희수.md "wikilink") - Motorhead - 'The Game'
       - [신재웅](https://ko.wikipedia.org/wiki/신재웅 "wikilink") - [빅뱅](https://ko.wikipedia.org/wiki/빅뱅 "wikilink") - '뱅뱅뱅'
 
 ### 선수별명
@@ -361,96 +361,96 @@
       - [이재원](https://ko.wikipedia.org/wiki/이재원 "wikilink") - MR.클러치
       - [최정](https://ko.wikipedia.org/wiki/최정 "wikilink") - 야구천재
       - [김성현](https://ko.wikipedia.org/wiki/김성현 "wikilink") - 큐티식스
-      - [정진기](https://ko.wikipedia.org/wiki/정진기 "wikilink") - 진기스칸
-      - [한동민](https://ko.wikipedia.org/wiki/한동민 "wikilink") - 동미니칸
-      - [정의윤](https://ko.wikipedia.org/wiki/정의윤 "wikilink") - 파워히터
+      - [정진기](../Page/정진기.md "wikilink") - 진기스칸
+      - [한동민](../Page/한동민.md "wikilink") - 동미니칸
+      - [정의윤](../Page/정의윤.md "wikilink") - 파워히터
       - [노수광](../Page/노수광.md "wikilink") - 노토바이
-      - [제이미 로맥](https://ko.wikipedia.org/wiki/제이미_로맥 "wikilink") - 홈런공장 북미지점장
+      - [제이미 로맥](../Page/제이미_로맥.md "wikilink") - 홈런공장 북미지점장
 
 <!-- end list -->
 
   - 현역투수
-      - [윤희상](https://ko.wikipedia.org/wiki/윤희상 "wikilink") - 은화백
-      - [박희수](https://ko.wikipedia.org/wiki/박희수 "wikilink") - 다크템플러
+      - [윤희상](../Page/윤희상.md "wikilink") - 은화백
+      - [박희수](../Page/박희수.md "wikilink") - 다크템플러
       - [김태훈](https://ko.wikipedia.org/wiki/김태훈 "wikilink") - 좌완다크호스
       - [박종훈](https://ko.wikipedia.org/wiki/박종훈 "wikilink") - 신형잠수함
-      - [서진용](https://ko.wikipedia.org/wiki/서진용 "wikilink") - 파이어드래곤
-      - [문승원](https://ko.wikipedia.org/wiki/문승원 "wikilink") - New Moon
-      - [정영일](https://ko.wikipedia.org/wiki/정영일 "wikilink") - 구원대장
+      - [서진용](../Page/서진용.md "wikilink") - 파이어드래곤
+      - [문승원](../Page/문승원.md "wikilink") - New Moon
+      - [정영일](../Page/정영일.md "wikilink") - 구원대장
       - [이승진](../Page/이승진.md "wikilink") - 파프리카
       - [신재웅](https://ko.wikipedia.org/wiki/신재웅 "wikilink") - 막강허리
-      - [김주한](https://ko.wikipedia.org/wiki/김주한_\(야구_선수\) "wikilink") - 역투쟁이
+      - [김주한](../Page/김주한_\(야구_선수\).md "wikilink") - 역투쟁이
 
 <!-- end list -->
 
   - 은퇴/이적타자
-      - [김재현](https://ko.wikipedia.org/wiki/김재현 "wikilink") - 캐넌히터
+      - [김재현](../Page/김재현.md "wikilink") - 캐넌히터
       - [박재홍](https://ko.wikipedia.org/wiki/박재홍 "wikilink") - 리틀쿠바
       - [이호준](https://ko.wikipedia.org/wiki/이호준 "wikilink") - You're my hero
-      - [정근우](https://ko.wikipedia.org/wiki/정근우 "wikilink") - 총알탄사나이
-      - [박경완](https://ko.wikipedia.org/wiki/박경완 "wikilink") - 포도대장
-      - [최윤석](https://ko.wikipedia.org/wiki/최윤석 "wikilink") - 내야의 살림꾼
+      - [정근우](../Page/정근우.md "wikilink") - 총알탄사나이
+      - [박경완](../Page/박경완.md "wikilink") - 포도대장
+      - [최윤석](../Page/최윤석.md "wikilink") - 내야의 살림꾼
       - [안치용](https://ko.wikipedia.org/wiki/안치용 "wikilink") - 난세영웅
       - [조인성](https://ko.wikipedia.org/wiki/조인성 "wikilink") - 앉아쏴
       - [김상현](https://ko.wikipedia.org/wiki/김상현 "wikilink") - 해결사
       - [임훈](https://ko.wikipedia.org/wiki/임훈_\(야구_선수\) "wikilink") - 카리스마
-      - [박진만](https://ko.wikipedia.org/wiki/박진만 "wikilink") - 국민유격수
-      - [정상호](https://ko.wikipedia.org/wiki/정상호 "wikilink") - 터미네이터
-      - [김연훈](https://ko.wikipedia.org/wiki/김연훈 "wikilink") - 철통수비
+      - [박진만](../Page/박진만.md "wikilink") - 국민유격수
+      - [정상호](../Page/정상호.md "wikilink") - 터미네이터
+      - [김연훈](../Page/김연훈.md "wikilink") - 철통수비
       - [신현철](https://ko.wikipedia.org/wiki/신현철 "wikilink") - 철벽수비
       - [이명기](https://ko.wikipedia.org/wiki/이명기 "wikilink") - 멀티히터
       - [최정민](https://ko.wikipedia.org/wiki/최정민 "wikilink") - 팀플레이어
       - [김민식](https://ko.wikipedia.org/wiki/김민식 "wikilink") - 공격첨병
       - [박재상](https://ko.wikipedia.org/wiki/박재상_\(야구_선수\) "wikilink") - 아트스윙
       - [허웅](https://ko.wikipedia.org/wiki/허웅 "wikilink") - 7전8기
-      - [조성우](https://ko.wikipedia.org/wiki/조성우_\(1988년\) "wikilink") - 아이언맨
-      - [조동화](https://ko.wikipedia.org/wiki/조동화 "wikilink") - 가을동화
-      - [이대수](https://ko.wikipedia.org/wiki/이대수 "wikilink") - 빗장수비
+      - [조성우](../Page/조성우_\(1988년\).md "wikilink") - 아이언맨
+      - [조동화](../Page/조동화.md "wikilink") - 가을동화
+      - [이대수](../Page/이대수.md "wikilink") - 빗장수비
       - [김동엽](https://ko.wikipedia.org/wiki/김동엽 "wikilink") - 거포교과서
-      - [나주환](https://ko.wikipedia.org/wiki/나주환 "wikilink") - 만능내야수
-      - [윤정우](https://ko.wikipedia.org/wiki/윤정우 "wikilink") - 히든카드
-      - [박정권](https://ko.wikipedia.org/wiki/박정권 "wikilink") - 천하무적
+      - [나주환](../Page/나주환.md "wikilink") - 만능내야수
+      - [윤정우](../Page/윤정우.md "wikilink") - 히든카드
+      - [박정권](../Page/박정권.md "wikilink") - 천하무적
       - [루크 스캇](../Page/루크_스캇.md "wikilink") - 썬더
       - [앤드류 브라운](https://ko.wikipedia.org/wiki/앤드류_브라운 "wikilink") - 리쎌웨폰
       - [헥터 고메즈](../Page/헥터_고메즈.md "wikilink") - 토네이도
-      - [대니 워스](https://ko.wikipedia.org/wiki/대니_워스 "wikilink") - WORTHY
+      - [대니 워스](../Page/대니_워스.md "wikilink") - WORTHY
 
 <!-- end list -->
 
   - 은퇴/이적투수
       - [정대현](https://ko.wikipedia.org/wiki/정대현 "wikilink") - 여왕벌
-      - [송은범](https://ko.wikipedia.org/wiki/송은범 "wikilink") - 긍정의 힘
-      - [최영필](https://ko.wikipedia.org/wiki/최영필 "wikilink") - 풍운아
-      - [진해수](https://ko.wikipedia.org/wiki/진해수 "wikilink") - 백절불굴
-      - [정우람](https://ko.wikipedia.org/wiki/정우람 "wikilink") - 돌아온수호신
-      - [엄정욱](https://ko.wikipedia.org/wiki/엄정욱 "wikilink") - 와일드씽
-      - [이한진](https://ko.wikipedia.org/wiki/이한진 "wikilink") - 꽃미남잠수함
-      - [윤길현](https://ko.wikipedia.org/wiki/윤길현 "wikilink") - 명품슬라이더
+      - [송은범](../Page/송은범.md "wikilink") - 긍정의 힘
+      - [최영필](../Page/최영필.md "wikilink") - 풍운아
+      - [진해수](../Page/진해수.md "wikilink") - 백절불굴
+      - [정우람](../Page/정우람.md "wikilink") - 돌아온수호신
+      - [엄정욱](../Page/엄정욱.md "wikilink") - 와일드씽
+      - [이한진](../Page/이한진.md "wikilink") - 꽃미남잠수함
+      - [윤길현](../Page/윤길현.md "wikilink") - 명품슬라이더
       - [이재영](https://ko.wikipedia.org/wiki/이재영 "wikilink") - 블랑카
       - [이승호](https://ko.wikipedia.org/wiki/이승호 "wikilink") - 왕의 귀환
-      - [전병두](https://ko.wikipedia.org/wiki/전병두 "wikilink") - 좌완 파이어볼러
-      - [고효준](https://ko.wikipedia.org/wiki/고효준 "wikilink") - New닥터
-      - [전유수](https://ko.wikipedia.org/wiki/전유수 "wikilink") - 버팀목
-      - [문광은](https://ko.wikipedia.org/wiki/문광은 "wikilink") - Rising Moon
+      - [전병두](../Page/전병두.md "wikilink") - 좌완 파이어볼러
+      - [고효준](../Page/고효준.md "wikilink") - New닥터
+      - [전유수](../Page/전유수.md "wikilink") - 버팀목
+      - [문광은](../Page/문광은.md "wikilink") - Rising Moon
       - [박정배](https://ko.wikipedia.org/wiki/박정배 "wikilink") - New Hope
       - [김광현](https://ko.wikipedia.org/wiki/김광현 "wikilink") - 대한민국에이스 (현재활동중)
-      - [채병용](https://ko.wikipedia.org/wiki/채병용 "wikilink") - 돌직구
+      - [채병용](../Page/채병용.md "wikilink") - 돌직구
       - [로스 울프](../Page/로스_울프.md "wikilink") - 칼날제구
       - [조조 레이예스](https://ko.wikipedia.org/wiki/조조_레이예스 "wikilink") - 철벽투
       - [트래비스 밴와트](../Page/트래비스_밴와트.md "wikilink") - 밴호투
-      - [크리스 세든](https://ko.wikipedia.org/wiki/크리스_세든 "wikilink") - 핸섬가이
+      - [크리스 세든](../Page/크리스_세든.md "wikilink") - 핸섬가이
       - [메릴 켈리](../Page/메릴_켈리.md "wikilink") - Pin Point Control
 
 ## 역대 응원단장
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") : 최기연
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") : 박상돈
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") \~ [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") : 김용문
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") \~ [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") : 원명호
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") : [홍창화](https://ko.wikipedia.org/wiki/홍창화 "wikilink")
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") : 박홍구(단장), 이윤승(부단장)
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") : 박홍구
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") \~ 현재 : 정영석
+  - [2000년](../Page/2000년.md "wikilink") : 최기연
+  - [2001년](../Page/2001년.md "wikilink") : 박상돈
+  - [2002년](../Page/2002년.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") : 김용문
+  - [2006년](../Page/2006년.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") : 원명호
+  - [2008년](../Page/2008년.md "wikilink") : [홍창화](../Page/홍창화.md "wikilink")
+  - [2009년](../Page/2009년.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") : 박홍구(단장), 이윤승(부단장)
+  - [2013년](../Page/2013년.md "wikilink") : 박홍구
+  - [2014년](../Page/2014년.md "wikilink") \~ 현재 : 정영석
 
 ## 각주
 
@@ -460,7 +460,7 @@
 
 1.  [kt 위즈도](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink") 같은 목적으로 같은 버전의 음악을 사용한다.
 2.
-3.  영화 [노팅힐](https://ko.wikipedia.org/wiki/노팅힐 "wikilink")(Notting Hill)에 나오는 OST 곡으로 [엘비스 코스텔로가](https://ko.wikipedia.org/wiki/엘비스_코스텔로 "wikilink") 부른 곡의 일부분을 따온 것이다.
+3.  영화 [노팅힐](../Page/노팅힐.md "wikilink")(Notting Hill)에 나오는 OST 곡으로 [엘비스 코스텔로가](../Page/엘비스_코스텔로.md "wikilink") 부른 곡의 일부분을 따온 것이다.
 4.  NC 다이노스로 이적한 이호준이 SK 와이번스 시절에 쓰던 응원가다.
 5.  LG 트윈스와 3:3 트레이드 된 임훈이 SK 와이번스 시절에 쓰던 응원가다.
 6.  NC 다이노스로 이적한 모창민이 SK 와이번스 시절에 쓰던 응원가다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JESTER](https://ko.wikipedia.org/wiki/JESTER).
 
 
-〈**JESTER**〉는 [VALSHE](../Page/VALSHE.md "wikilink")의 2번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 27일에](https://ko.wikipedia.org/wiki/7월_27일 "wikilink") [5pb 레코드에서](https://ko.wikipedia.org/wiki/5pb "wikilink"). 발매됐다.
+〈**JESTER**〉는 [VALSHE](../Page/VALSHE.md "wikilink")의 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2011년](../Page/2011년.md "wikilink") [7월 27일에](../Page/7월_27일.md "wikilink") [5pb 레코드에서](https://ko.wikipedia.org/wiki/5pb "wikilink"). 발매됐다.
 
 ## 해설
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS   ](https://ko.wikipedia.org/wiki/KBS___).
 
 
-아래는 [한국방송공사의 텔레비전 프로그램인](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink") 《**[KBS 중계석](https://ko.wikipedia.org/wiki/KBS_중계석 "wikilink")**》**의 방영 목록**이다.
+아래는 [한국방송공사의 텔레비전 프로그램인](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink") 《**[KBS 중계석](../Page/KBS_중계석.md "wikilink")**》**의 방영 목록**이다.
 
 ## 방송 회차
 
@@ -3289,102 +3289,102 @@
 </tr>
 <tr class="even">
 <td><p>641회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_5일" title="wikilink">10월 5일</a></p></td>
+<td><p><a href="../Page/10월_5일.md" title="wikilink">10월 5일</a></p></td>
 <td><p>KBS 교향악단 제708회 정기연주회</p></td>
 </tr>
 <tr class="odd">
 <td><p>642회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_6일" title="wikilink">10월 6일</a></p></td>
+<td><p><a href="../Page/10월_6일.md" title="wikilink">10월 6일</a></p></td>
 <td><p>국립오페라단 루살카 2부</p></td>
 </tr>
 <tr class="even">
 <td><p>643회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_12일" title="wikilink">10월 12일</a></p></td>
+<td><p><a href="../Page/10월_12일.md" title="wikilink">10월 12일</a></p></td>
 <td><p>노부스콰르텟 with 손열음 <쇼스코타비치></p></td>
 </tr>
 <tr class="odd">
 <td><p>644회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_13일" title="wikilink">10월 13일</a></p></td>
+<td><p><a href="../Page/10월_13일.md" title="wikilink">10월 13일</a></p></td>
 <td><p>트리오제이드 : 셋을 위한 슈베르트</p></td>
 </tr>
 <tr class="even">
 <td><p>645회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_19일" title="wikilink">10월 19일</a></p></td>
+<td><p><a href="../Page/10월_19일.md" title="wikilink">10월 19일</a></p></td>
 <td><p>KBS 교향악단 제709회 정기연주회</p></td>
 </tr>
 <tr class="odd">
 <td><p>646회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_20일" title="wikilink">10월 20일</a></p></td>
+<td><p><a href="../Page/10월_20일.md" title="wikilink">10월 20일</a></p></td>
 <td><p>서울시 오페라단 : <사랑의 묘약></p></td>
 </tr>
 <tr class="even">
 <td><p>647회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_26일" title="wikilink">10월 26일</a></p></td>
+<td><p><a href="../Page/10월_26일.md" title="wikilink">10월 26일</a></p></td>
 <td><p>KBS 국악관현악단 제238회 정기연주회</p></td>
 </tr>
 <tr class="odd">
 <td><p>648회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/10월_27일" title="wikilink">10월 27일</a></p></td>
+<td><p><a href="../Page/10월_27일.md" title="wikilink">10월 27일</a></p></td>
 <td><p>국립오페라단 : 국립오페라 갈라</p></td>
 </tr>
 <tr class="even">
 <td><p>649회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_2일" title="wikilink">11월 2일</a></p></td>
+<td><p><a href="../Page/11월_2일.md" title="wikilink">11월 2일</a></p></td>
 <td><p>KBS 교향악단 제710회 정기연주회</p></td>
 </tr>
 <tr class="odd">
 <td><p>650회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_3일" title="wikilink">11월 3일</a></p></td>
+<td><p><a href="../Page/11월_3일.md" title="wikilink">11월 3일</a></p></td>
 <td><p>KBS 교향악단 제706회 정기연주회</p></td>
 </tr>
 <tr class="even">
 <td><p>651회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_9일" title="wikilink">11월 9일</a></p></td>
+<td><p><a href="../Page/11월_9일.md" title="wikilink">11월 9일</a></p></td>
 <td><p>화희 오페라단 : 평화음악회</p></td>
 </tr>
 <tr class="odd">
 <td><p>652회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_10일" title="wikilink">11월 10일</a></p></td>
+<td><p><a href="../Page/11월_10일.md" title="wikilink">11월 10일</a></p></td>
 <td><p>국립오페라단 : <오를란도 핀토 판초></p></td>
 </tr>
 <tr class="even">
 <td><p>653회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_17일" title="wikilink">11월 17일</a></p></td>
+<td><p><a href="../Page/11월_17일.md" title="wikilink">11월 17일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>654회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_23일" title="wikilink">11월 23일</a></p></td>
+<td><p><a href="../Page/11월_23일.md" title="wikilink">11월 23일</a></p></td>
 <td><p>국립오페라단 : 푸치니 <토스카></p></td>
 </tr>
 <tr class="even">
 <td><p>655회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_24일" title="wikilink">11월 24일</a></p></td>
+<td><p><a href="../Page/11월_24일.md" title="wikilink">11월 24일</a></p></td>
 <td><p>베세토오페라단 : <리골레토></p></td>
 </tr>
 <tr class="odd">
 <td><p>656회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_30일" title="wikilink">11월 30일</a></p></td>
+<td><p><a href="../Page/11월_30일.md" title="wikilink">11월 30일</a></p></td>
 <td><p>KBS 교향악단 제711회 정기연주회</p></td>
 </tr>
 <tr class="even">
 <td><p>657회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_7일" title="wikilink">12월 7일</a></p></td>
+<td><p><a href="../Page/12월_7일.md" title="wikilink">12월 7일</a></p></td>
 <td><p>펜데레츠키와 신포니아 바르소비아</p></td>
 </tr>
 <tr class="odd">
 <td><p>658회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_14일" title="wikilink">12월 14일</a></p></td>
+<td><p><a href="../Page/12월_14일.md" title="wikilink">12월 14일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>659회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_21일" title="wikilink">12월 21일</a></p></td>
+<td><p><a href="../Page/12월_21일.md" title="wikilink">12월 21일</a></p></td>
 <td><p>제23회 KBS-한전 음악콩쿠르 입상기념연주회</p></td>
 </tr>
 <tr class="odd">
 <td><p>660회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12월_28일" title="wikilink">12월 28일</a></p></td>
+<td><p><a href="../Page/12월_28일.md" title="wikilink">12월 28일</a></p></td>
 <td><p>겨례사랑 2016 한국가곡 페스티벌</p></td>
 </tr>
 </tbody>
@@ -3404,257 +3404,257 @@
 <tbody>
 <tr class="odd">
 <td><p>661회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_4일" title="wikilink">1월 4일</a></p></td>
+<td><p><a href="../Page/1월_4일.md" title="wikilink">1월 4일</a></p></td>
 <td><p>KBS 교향악단 제712회 정기연주회</p></td>
 </tr>
 <tr class="even">
 <td><p>662회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_11일" title="wikilink">1월 11일</a></p></td>
+<td><p><a href="../Page/1월_11일.md" title="wikilink">1월 11일</a></p></td>
 <td><p>포바이올린</p></td>
 </tr>
 <tr class="odd">
 <td><p>663회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_18일" title="wikilink">1월 18일</a></p></td>
+<td><p><a href="../Page/1월_18일.md" title="wikilink">1월 18일</a></p></td>
 <td><p>국립 오페라단 : 바그너 <로엔그린></p></td>
 </tr>
 <tr class="even">
 <td><p>664회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1월_25일" title="wikilink">1월 25일</a></p></td>
+<td><p><a href="../Page/1월_25일.md" title="wikilink">1월 25일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>665회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_1일" title="wikilink">2월 1일</a></p></td>
+<td><p><a href="../Page/2월_1일.md" title="wikilink">2월 1일</a></p></td>
 <td><p>국악관현악단 제241회 정기연주회</p></td>
 </tr>
 <tr class="even">
 <td><p>666회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_8일" title="wikilink">2월 8일</a></p></td>
+<td><p><a href="../Page/2월_8일.md" title="wikilink">2월 8일</a></p></td>
 <td><p>2016 KBS 관현악단 송년음악회</p></td>
 </tr>
 <tr class="odd">
 <td><p>667회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_15일" title="wikilink">2월 15일</a></p></td>
+<td><p><a href="../Page/2월_15일.md" title="wikilink">2월 15일</a></p></td>
 <td><p>KBS 교향악단 제713회 정기연주회</p></td>
 </tr>
 <tr class="even">
 <td><p>668회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_22일" title="wikilink">2월 22일</a></p></td>
+<td><p><a href="../Page/2월_22일.md" title="wikilink">2월 22일</a></p></td>
 <td><p>2017 빈 슈트라우스 페스티벌 오케스트라 신년음악회</p></td>
 </tr>
 <tr class="odd">
 <td><p>669회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_1일" title="wikilink">3월 1일</a></p></td>
+<td><p><a href="../Page/3월_1일.md" title="wikilink">3월 1일</a></p></td>
 <td><p>KBS 중계석 국립 오페라단 : 구노 <로미오와 줄리엣></p></td>
 </tr>
 <tr class="even">
 <td><p>670회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_8일" title="wikilink">3월 8일</a></p></td>
+<td><p><a href="../Page/3월_8일.md" title="wikilink">3월 8일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>671회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_15일" title="wikilink">3월 15일</a></p></td>
+<td><p><a href="../Page/3월_15일.md" title="wikilink">3월 15일</a></p></td>
 <td><p>아벨 콰르텟 <하이든></p></td>
 </tr>
 <tr class="even">
 <td><p>672회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_22일" title="wikilink">3월 22일</a></p></td>
+<td><p><a href="../Page/3월_22일.md" title="wikilink">3월 22일</a></p></td>
 <td><p>KBS 교향악단 제714회 정기연주회</p></td>
 </tr>
 <tr class="odd">
 <td><p>673회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/3월_29일" title="wikilink">3월 29일</a></p></td>
+<td><p><a href="../Page/3월_29일.md" title="wikilink">3월 29일</a></p></td>
 <td><p>퀼른 필하모닉</p></td>
 </tr>
 <tr class="even">
 <td><p>674회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_5일" title="wikilink">4월 5일</a></p></td>
+<td><p><a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
 <td><p>KBS 교향악단 제715회 정기연주회</p></td>
 </tr>
 <tr class="odd">
 <td><p>675회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_6일" title="wikilink">4월 6일</a></p></td>
+<td><p><a href="../Page/4월_6일.md" title="wikilink">4월 6일</a></p></td>
 <td><p>KBS 교향악단 제716회 정기연주회</p></td>
 </tr>
 <tr class="even">
 <td><p>677회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_12일" title="wikilink">4월 12일</a></p></td>
+<td><p><a href="../Page/4월_12일.md" title="wikilink">4월 12일</a></p></td>
 <td><p>2017 교향악축제코리안심포니 오케스트라</p></td>
 </tr>
 <tr class="odd">
 <td><p>678회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_13일" title="wikilink">4월 13일</a></p></td>
+<td><p><a href="../Page/4월_13일.md" title="wikilink">4월 13일</a></p></td>
 <td><p>2017 교향악축제 : 부산시립교향악단</p></td>
 </tr>
 <tr class="even">
 <td><p>679회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_19일" title="wikilink">4월 19일</a></p></td>
+<td><p><a href="../Page/4월_19일.md" title="wikilink">4월 19일</a></p></td>
 <td><p>2017 교향악축제 : 대전시립교향악단</p></td>
 </tr>
 <tr class="odd">
 <td><p>680회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_20일" title="wikilink">4월 20일</a></p></td>
+<td><p><a href="../Page/4월_20일.md" title="wikilink">4월 20일</a></p></td>
 <td><p>유니버설발레단 : <돈키호테></p></td>
 </tr>
 <tr class="even">
 <td><p>681회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_26일" title="wikilink">4월 26일</a></p></td>
+<td><p><a href="../Page/4월_26일.md" title="wikilink">4월 26일</a></p></td>
 <td><p>국립오페라단 : 레온카발로 <팔리아치></p></td>
 </tr>
 <tr class="odd">
 <td><p>682회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/4월_27일" title="wikilink">4월 27일</a></p></td>
+<td><p><a href="../Page/4월_27일.md" title="wikilink">4월 27일</a></p></td>
 <td><p>국립오페라단 : 푸치니 <외투></p></td>
 </tr>
 <tr class="even">
 <td><p>683회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_3일" title="wikilink">5월 3일</a></p></td>
+<td><p><a href="../Page/5월_3일.md" title="wikilink">5월 3일</a></p></td>
 <td><p>김영욱 &amp; 김다솔 듀오 : 그리고,그리그</p></td>
 </tr>
 <tr class="odd">
 <td><p>684회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_4일" title="wikilink">5월 4일</a></p></td>
+<td><p><a href="../Page/5월_4일.md" title="wikilink">5월 4일</a></p></td>
 <td><p>2017 교향악축제 : KBS교향악단</p></td>
 </tr>
 <tr class="even">
 <td><p>685회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_10일" title="wikilink">5월 10일</a></p></td>
+<td><p><a href="../Page/5월_10일.md" title="wikilink">5월 10일</a></p></td>
 <td><p>2017 교향악축제 : 경기필하모닉오케스트라</p></td>
 </tr>
 <tr class="odd">
 <td><p>686회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_11일" title="wikilink">5월 11일</a></p></td>
+<td><p><a href="../Page/5월_11일.md" title="wikilink">5월 11일</a></p></td>
 <td><p>2017 교향악축제 : 서울시립교향악단</p></td>
 </tr>
 <tr class="even">
 <td><p>687회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_17일" title="wikilink">5월 17일</a></p></td>
+<td><p><a href="../Page/5월_17일.md" title="wikilink">5월 17일</a></p></td>
 <td><p>국립오페라단 : 무소륵스키 <보리스 고두노프></p></td>
 </tr>
 <tr class="odd">
 <td><p>688회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_18일" title="wikilink">5월 18일</a></p></td>
+<td><p><a href="../Page/5월_18일.md" title="wikilink">5월 18일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>689회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_24일" title="wikilink">5월 24일</a></p></td>
+<td><p><a href="../Page/5월_24일.md" title="wikilink">5월 24일</a></p></td>
 <td><p>KBS 국악관현악단 제242회 정기연주회</p></td>
 </tr>
 <tr class="odd">
 <td><p>690회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/5월_25일" title="wikilink">5월 25일</a></p></td>
+<td><p><a href="../Page/5월_25일.md" title="wikilink">5월 25일</a></p></td>
 <td><p>2017 교향악축제 <부천필하모닉오케스트라></p></td>
 </tr>
 <tr class="even">
 <td><p>691회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_7일" title="wikilink">6월 7일</a></p></td>
+<td><p><a href="../Page/6월_7일.md" title="wikilink">6월 7일</a></p></td>
 <td><p>수지오페라단 : 푸치니 <나비 부인></p></td>
 </tr>
 <tr class="odd">
 <td><p>692회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_8일" title="wikilink">6월 8일</a></p></td>
+<td><p><a href="../Page/6월_8일.md" title="wikilink">6월 8일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>693회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_14일" title="wikilink">6월 14일</a></p></td>
+<td><p><a href="../Page/6월_14일.md" title="wikilink">6월 14일</a></p></td>
 <td><p>코리안심포니오케스트라 제201회 정기연주회</p></td>
 </tr>
 <tr class="odd">
 <td><p>694회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_15일" title="wikilink">6월 15일</a></p></td>
+<td><p><a href="../Page/6월_15일.md" title="wikilink">6월 15일</a></p></td>
 <td><p>비발디아노 : 거울의 도시 오리지널 내한공연</p></td>
 </tr>
 <tr class="even">
 <td><p>695회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_21일" title="wikilink">6월 21일</a></p></td>
+<td><p><a href="../Page/6월_21일.md" title="wikilink">6월 21일</a></p></td>
 <td><p>차이코프스키 워너스 콘서트</p></td>
 </tr>
 <tr class="odd">
 <td><p>696회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_28일" title="wikilink">6월 28일</a></p></td>
+<td><p><a href="../Page/6월_28일.md" title="wikilink">6월 28일</a></p></td>
 <td><p>누오바오페라단 : 오펜바흐 <호프만의 이야기></p></td>
 </tr>
 <tr class="even">
 <td><p>697회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_29일" title="wikilink">6월 29일</a></p></td>
+<td><p><a href="../Page/6월_29일.md" title="wikilink">6월 29일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>698회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_5일" title="wikilink">7월 5일</a></p></td>
+<td><p><a href="../Page/7월_5일.md" title="wikilink">7월 5일</a></p></td>
 <td><p>벨라 오페라단 : 창단 10주년 기념 갈라콘서트</p></td>
 </tr>
 <tr class="even">
 <td><p>699회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_6일" title="wikilink">7월 6일</a></p></td>
+<td><p><a href="../Page/7월_6일.md" title="wikilink">7월 6일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>700회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_12일" title="wikilink">7월 12일</a></p></td>
+<td><p><a href="../Page/7월_12일.md" title="wikilink">7월 12일</a></p></td>
 <td><p>티에리 피셔 사이클 : 환상교향곡</p></td>
 </tr>
 <tr class="even">
 <td><p>701회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_13일" title="wikilink">7월 13일</a></p></td>
+<td><p><a href="../Page/7월_13일.md" title="wikilink">7월 13일</a></p></td>
 <td><p>트리오 쎌레스테 내한공연</p></td>
 </tr>
 <tr class="odd">
 <td><p>702회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_19일" title="wikilink">7월 19일</a></p></td>
+<td><p><a href="../Page/7월_19일.md" title="wikilink">7월 19일</a></p></td>
 <td><p>노블아트오페라단 : 창작 오페라단 <자명고></p></td>
 </tr>
 <tr class="even">
 <td><p>703회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_20일" title="wikilink">7월 20일</a></p></td>
+<td><p><a href="../Page/7월_20일.md" title="wikilink">7월 20일</a></p></td>
 <td><p>미로슬라브 꿀띠쉐프 피아노 리사이틀</p></td>
 </tr>
 <tr class="odd">
 <td><p>704회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_26일" title="wikilink">7월 26일</a></p></td>
+<td><p><a href="../Page/7월_26일.md" title="wikilink">7월 26일</a></p></td>
 <td><p>KBS교향악단 제718회 정기연주회</p></td>
 </tr>
 <tr class="even">
 <td><p>705회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_27일" title="wikilink">7월 27일</a></p></td>
+<td><p><a href="../Page/7월_27일.md" title="wikilink">7월 27일</a></p></td>
 <td><p>국립 오페라단 : 비제 <진주 조개잡이></p></td>
 </tr>
 <tr class="odd">
 <td><p>706회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_2일" title="wikilink">8월 2일</a></p></td>
+<td><p><a href="../Page/8월_2일.md" title="wikilink">8월 2일</a></p></td>
 <td><p>무악오페라단 : 푸치나 <토스카></p></td>
 </tr>
 <tr class="even">
 <td><p>707회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_3일" title="wikilink">8월 3일</a></p></td>
+<td><p><a href="../Page/8월_3일.md" title="wikilink">8월 3일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>708회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_9일" title="wikilink">8월 9일</a></p></td>
+<td><p><a href="../Page/8월_9일.md" title="wikilink">8월 9일</a></p></td>
 <td><p>필라델피아 오케스트라 &amp; 야니크 네제 세갱</p></td>
 </tr>
 <tr class="even">
 <td><p>709회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_10일" title="wikilink">8월 10일</a></p></td>
+<td><p><a href="../Page/8월_10일.md" title="wikilink">8월 10일</a></p></td>
 <td><p>모리스 콰르텟 제20회 정기연주회</p></td>
 </tr>
 <tr class="odd">
 <td><p>710회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_16일" title="wikilink">8월 16일</a></p></td>
+<td><p><a href="../Page/8월_16일.md" title="wikilink">8월 16일</a></p></td>
 <td><p>글로리아오페라단 : 푸치니 <마농레스코></p></td>
 </tr>
 <tr class="even">
 <td><p>711회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_17일" title="wikilink">8월 17일</a></p></td>
+<td><p><a href="../Page/8월_17일.md" title="wikilink">8월 17일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>712회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_23일" title="wikilink">8월 23일</a></p></td>
+<td><p><a href="../Page/8월_23일.md" title="wikilink">8월 23일</a></p></td>
 <td><p>세린 드 라봄 &amp; 알베르토 모로 초청 콘서트</p></td>
 </tr>
 </tbody>

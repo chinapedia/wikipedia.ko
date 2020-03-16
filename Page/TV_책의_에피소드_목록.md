@@ -25,32 +25,32 @@
 <tr class="even">
 <td><p>2회</p></td>
 <td><p>11월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잃어버린_시간을_찾아서" title="wikilink">잃어버린 시간을 찾아서</a> (저자 : <a href="https://ko.wikipedia.org/wiki/마르셀_프루스트" title="wikilink">마르셀 프루스트</a>)</p></td>
+<td><p><a href="../Page/잃어버린_시간을_찾아서.md" title="wikilink">잃어버린 시간을 찾아서</a> (저자 : <a href="../Page/마르셀_프루스트.md" title="wikilink">마르셀 프루스트</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>3회</p></td>
 <td><p>11월 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/군주론" title="wikilink">군주론</a> (저자 : <a href="https://ko.wikipedia.org/wiki/니콜로_마키아벨리" title="wikilink">니콜로 마키아벨리</a>)</p></td>
+<td><p><a href="../Page/군주론.md" title="wikilink">군주론</a> (저자 : <a href="../Page/니콜로_마키아벨리.md" title="wikilink">니콜로 마키아벨리</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>4회</p></td>
 <td><p>11월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미생_(만화)" title="wikilink">미생 - 아직 살아있지 못한 자</a> (저자 : <a href="https://ko.wikipedia.org/wiki/윤태호" title="wikilink">윤태호</a>)</p></td>
+<td><p><a href="../Page/미생_(만화).md" title="wikilink">미생 - 아직 살아있지 못한 자</a> (저자 : <a href="https://ko.wikipedia.org/wiki/윤태호" title="wikilink">윤태호</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>5회</p></td>
 <td><p>11월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/그리스인_조르바" title="wikilink">그리스인 조르바</a> (저자: <a href="https://ko.wikipedia.org/wiki/니코스_카잔차키스" title="wikilink">니코스 카잔차키스</a>)</p></td>
+<td><p><a href="../Page/그리스인_조르바.md" title="wikilink">그리스인 조르바</a> (저자: <a href="../Page/니코스_카잔차키스.md" title="wikilink">니코스 카잔차키스</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>6회</p></td>
 <td><p>12월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페스트" title="wikilink">페스트</a> (저자 : <a href="https://ko.wikipedia.org/wiki/알베르_카뮈" title="wikilink">알베르 카뮈</a>)</p></td>
+<td><p><a href="../Page/페스트.md" title="wikilink">페스트</a> (저자 : <a href="../Page/알베르_카뮈.md" title="wikilink">알베르 카뮈</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>7회</p></td>
 <td><p>12월 14일</p></td>
-<td><p>두 세기의 달빛 (저자 : <a href="https://ko.wikipedia.org/wiki/고은" title="wikilink">고은</a>, <a href="https://ko.wikipedia.org/wiki/김형수" title="wikilink">김형수</a>)</p></td>
+<td><p>두 세기의 달빛 (저자 : <a href="../Page/고은.md" title="wikilink">고은</a>, <a href="https://ko.wikipedia.org/wiki/김형수" title="wikilink">김형수</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>8회</p></td>
@@ -80,12 +80,12 @@
 <tr class="odd">
 <td><p>10회</p></td>
 <td><p>1월 4일</p></td>
-<td><p><a href="../Page/정글만리.md" title="wikilink">정글만리</a> (저자 : <a href="https://ko.wikipedia.org/wiki/조정래" title="wikilink">조정래</a>)</p></td>
+<td><p><a href="../Page/정글만리.md" title="wikilink">정글만리</a> (저자 : <a href="../Page/조정래.md" title="wikilink">조정래</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>11회</p></td>
 <td><p>1월 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/코스모스_(책)" title="wikilink">코스모스</a> (저자 : <a href="https://ko.wikipedia.org/wiki/칼_세이건" title="wikilink">칼 세이건</a>)</p></td>
+<td><p><a href="../Page/코스모스_(책).md" title="wikilink">코스모스</a> (저자 : <a href="../Page/칼_세이건.md" title="wikilink">칼 세이건</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>12회</p></td>
@@ -95,12 +95,12 @@
 <tr class="even">
 <td><p>13회</p></td>
 <td><p>1월 25일</p></td>
-<td><p>생명이 자본이다 (저자 : <a href="https://ko.wikipedia.org/wiki/이어령" title="wikilink">이어령</a>)</p></td>
+<td><p>생명이 자본이다 (저자 : <a href="../Page/이어령.md" title="wikilink">이어령</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>14회</p></td>
 <td><p>2월 8일</p></td>
-<td><p>2030 대담한 미래 (저자 : <a href="https://ko.wikipedia.org/wiki/최윤식" title="wikilink">최윤식</a>)</p></td>
+<td><p>2030 대담한 미래 (저자 : <a href="../Page/최윤식.md" title="wikilink">최윤식</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>15회</p></td>
@@ -125,7 +125,7 @@
 <tr class="even">
 <td><p>19회</p></td>
 <td><p>4월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/총,_균,_쇠" title="wikilink">총, 균, 쇠</a> (저자 : <a href="https://ko.wikipedia.org/wiki/재레드_다이아몬드" title="wikilink">재레드 다이아몬드</a>)</p></td>
+<td><p><a href="../Page/총,_균,_쇠.md" title="wikilink">총, 균, 쇠</a> (저자 : <a href="https://ko.wikipedia.org/wiki/재레드_다이아몬드" title="wikilink">재레드 다이아몬드</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>20회</p></td>
@@ -140,7 +140,7 @@
 <tr class="odd">
 <td><p>22회</p></td>
 <td><p>5월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/월든" title="wikilink">월든</a> (저자 : <a href="https://ko.wikipedia.org/wiki/헨리_데이비드_소로" title="wikilink">헨리 데이비드 소로</a>)</p></td>
+<td><p><a href="../Page/월든.md" title="wikilink">월든</a> (저자 : <a href="../Page/헨리_데이비드_소로.md" title="wikilink">헨리 데이비드 소로</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>23회</p></td>
@@ -175,7 +175,7 @@
 <tr class="even">
 <td><p>29회</p></td>
 <td><p>6월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상실의_시대" title="wikilink">상실의 시대</a> (저자 : <a href="https://ko.wikipedia.org/wiki/무라카미_하루키" title="wikilink">무라카미 하루키</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/상실의_시대" title="wikilink">상실의 시대</a> (저자 : <a href="../Page/무라카미_하루키.md" title="wikilink">무라카미 하루키</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>30회</p></td>
@@ -195,7 +195,7 @@
 <tr class="even">
 <td><p>33회</p></td>
 <td><p>7월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/예감은_틀리지_않는다" title="wikilink">예감은 틀리지 않는다</a> (저자 : <a href="https://ko.wikipedia.org/wiki/줄리언_반스" title="wikilink">줄리언 반스</a>)</p></td>
+<td><p><a href="../Page/예감은_틀리지_않는다.md" title="wikilink">예감은 틀리지 않는다</a> (저자 : <a href="../Page/줄리언_반스.md" title="wikilink">줄리언 반스</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>34회</p></td>
@@ -220,12 +220,12 @@
 <tr class="odd">
 <td><p>38회</p></td>
 <td><p>8월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/투명인간" title="wikilink">투명인간</a> (저자 : <a href="https://ko.wikipedia.org/wiki/성석제" title="wikilink">성석제</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/투명인간" title="wikilink">투명인간</a> (저자 : <a href="../Page/성석제.md" title="wikilink">성석제</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>39회</p></td>
 <td><p>9월 6일</p></td>
-<td><p>돈으로 살 수 없는 것들 (저자 : <a href="https://ko.wikipedia.org/wiki/마이클_샌델" title="wikilink">마이클 샌델</a>)</p></td>
+<td><p>돈으로 살 수 없는 것들 (저자 : <a href="../Page/마이클_샌델.md" title="wikilink">마이클 샌델</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>40회</p></td>
@@ -235,7 +235,7 @@
 <tr class="even">
 <td><p>41회</p></td>
 <td><p>9월 20일</p></td>
-<td><p>농담 (저자 : <a href="https://ko.wikipedia.org/wiki/밀란_쿤데라" title="wikilink">밀란 쿤데라</a>)</p></td>
+<td><p>농담 (저자 : <a href="../Page/밀란_쿤데라.md" title="wikilink">밀란 쿤데라</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>42회</p></td>
@@ -250,7 +250,7 @@
 <tr class="odd">
 <td><p>44회</p></td>
 <td><p>11월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/난중일기" title="wikilink">난중일기</a> (저자 : <a href="https://ko.wikipedia.org/wiki/이순신" title="wikilink">이순신</a>)</p></td>
+<td><p><a href="../Page/난중일기.md" title="wikilink">난중일기</a> (저자 : <a href="../Page/이순신.md" title="wikilink">이순신</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>45회</p></td>
@@ -275,7 +275,7 @@
 <tr class="even">
 <td><p>49회</p></td>
 <td><p>12월 8일</p></td>
-<td><p>백석 평전 (저자 : <a href="https://ko.wikipedia.org/wiki/안도현" title="wikilink">안도현</a>)</p></td>
+<td><p>백석 평전 (저자 : <a href="../Page/안도현.md" title="wikilink">안도현</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>50회</p></td>
@@ -310,7 +310,7 @@
 <tr class="odd">
 <td><p>52회</p></td>
 <td><p>1월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/돈키호테" title="wikilink">돈키호테</a> (저자 : <a href="https://ko.wikipedia.org/wiki/미겔_데_세르반테스" title="wikilink">미겔 데 세르반테스</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/돈키호테" title="wikilink">돈키호테</a> (저자 : <a href="../Page/미겔_데_세르반테스.md" title="wikilink">미겔 데 세르반테스</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>53회</p></td>
@@ -360,7 +360,7 @@
 <tr class="odd">
 <td><p>62회</p></td>
 <td><p>3월 16일</p></td>
-<td><p>사다리 걷어차기 (<a href="https://ko.wikipedia.org/wiki/장하준" title="wikilink">장하준</a> 著)</p></td>
+<td><p>사다리 걷어차기 (<a href="../Page/장하준.md" title="wikilink">장하준</a> 著)</p></td>
 </tr>
 <tr class="even">
 <td><p>63회</p></td>
@@ -370,7 +370,7 @@
 <tr class="odd">
 <td><p>64회</p></td>
 <td><p>3월 30일</p></td>
-<td><p>노란집 (<a href="https://ko.wikipedia.org/wiki/박완서" title="wikilink">박완서</a> 著)</p></td>
+<td><p>노란집 (<a href="../Page/박완서.md" title="wikilink">박완서</a> 著)</p></td>
 </tr>
 <tr class="even">
 <td><p>65회</p></td>
@@ -380,7 +380,7 @@
 <tr class="odd">
 <td><p>66회</p></td>
 <td><p>4월 13일</p></td>
-<td><p>신호와 소음 (<a href="https://ko.wikipedia.org/wiki/네이트_실버" title="wikilink">네이트 실버</a> 著)</p></td>
+<td><p>신호와 소음 (<a href="../Page/네이트_실버.md" title="wikilink">네이트 실버</a> 著)</p></td>
 </tr>
 <tr class="even">
 <td><p>67회</p></td>
@@ -390,17 +390,17 @@
 <tr class="odd">
 <td><p>68회</p></td>
 <td><p>4월 27일</p></td>
-<td><p>신을 불쾌하게 만드는 생각들 (<a href="https://ko.wikipedia.org/wiki/슬라보예_지젝" title="wikilink">슬라보예 지젝</a> 著)</p></td>
+<td><p>신을 불쾌하게 만드는 생각들 (<a href="../Page/슬라보예_지젝.md" title="wikilink">슬라보예 지젝</a> 著)</p></td>
 </tr>
 <tr class="even">
 <td><p>69회</p></td>
 <td><p>5월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/양철북" title="wikilink">양철북</a> (<a href="https://ko.wikipedia.org/wiki/귄터_그라스" title="wikilink">귄터 그라스</a> 著)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/양철북" title="wikilink">양철북</a> (<a href="../Page/귄터_그라스.md" title="wikilink">귄터 그라스</a> 著)</p></td>
 </tr>
 <tr class="odd">
 <td><p>70회</p></td>
 <td><p>5월 11일</p></td>
-<td><p>마돈나 (<a href="https://ko.wikipedia.org/wiki/오쿠다_히데오" title="wikilink">오쿠다 히데오</a> 著)</p></td>
+<td><p>마돈나 (<a href="../Page/오쿠다_히데오.md" title="wikilink">오쿠다 히데오</a> 著)</p></td>
 </tr>
 <tr class="even">
 <td><p>71회</p></td>
@@ -620,7 +620,7 @@
 <tr class="odd">
 <td><p>111회</p></td>
 <td><p>4월 10일</p></td>
-<td><p>『가짜 팔로 하는 포옹』 / <a href="https://ko.wikipedia.org/wiki/김중혁" title="wikilink">김중혁</a> 著</p></td>
+<td><p>『가짜 팔로 하는 포옹』 / <a href="../Page/김중혁.md" title="wikilink">김중혁</a> 著</p></td>
 </tr>
 <tr class="even">
 <td><p>112회</p></td>
@@ -650,7 +650,7 @@
 <tr class="odd">
 <td><p>117회</p></td>
 <td><p>5월 24일</p></td>
-<td><p>『밤이 선생이다』- <a href="https://ko.wikipedia.org/wiki/황현산" title="wikilink">황현산</a> 著</p></td>
+<td><p>『밤이 선생이다』- <a href="../Page/황현산.md" title="wikilink">황현산</a> 著</p></td>
 </tr>
 <tr class="even">
 <td><p>118회</p></td>
@@ -660,7 +660,7 @@
 <tr class="odd">
 <td><p>119회</p></td>
 <td><p>6월 14일</p></td>
-<td><p>『<a href="https://ko.wikipedia.org/wiki/제3인류" title="wikilink">제3인류</a>』 - <a href="https://ko.wikipedia.org/wiki/베르나르_베르베르" title="wikilink">베르나르 베르베르</a> 著</p></td>
+<td><p>『<a href="https://ko.wikipedia.org/wiki/제3인류" title="wikilink">제3인류</a>』 - <a href="../Page/베르나르_베르베르.md" title="wikilink">베르나르 베르베르</a> 著</p></td>
 </tr>
 <tr class="even">
 <td><p>120회</p></td>
@@ -675,22 +675,22 @@
 <tr class="even">
 <td><p>122회</p></td>
 <td><p>7월 5일</p></td>
-<td><p>여름 특집 7월 4부작 - 1부 <a href="https://ko.wikipedia.org/wiki/정진영" title="wikilink">정진영</a>의『책 권하는 삶』</p></td>
+<td><p>여름 특집 7월 4부작 - 1부 <a href="../Page/정진영.md" title="wikilink">정진영</a>의『책 권하는 삶』</p></td>
 </tr>
 <tr class="odd">
 <td><p>123회</p></td>
 <td><p>7월 12일</p></td>
-<td><p>여름 특집 7월 4부작 :: 2부 "<a href="https://ko.wikipedia.org/wiki/김창완" title="wikilink">김창완</a> 아저씨, 도서관에 왜 안 왔어요?"</p></td>
+<td><p>여름 특집 7월 4부작 :: 2부 "<a href="../Page/김창완.md" title="wikilink">김창완</a> 아저씨, 도서관에 왜 안 왔어요?"</p></td>
 </tr>
 <tr class="even">
 <td><p>124회</p></td>
 <td><p>7월 19일</p></td>
-<td><p>여름 특집 7월 4부작 :: 3부 - <a href="https://ko.wikipedia.org/wiki/고아성" title="wikilink">고아성</a>의 『나의 청춘의 문장들』</p></td>
+<td><p>여름 특집 7월 4부작 :: 3부 - <a href="../Page/고아성.md" title="wikilink">고아성</a>의 『나의 청춘의 문장들』</p></td>
 </tr>
 <tr class="odd">
 <td><p>125회</p></td>
 <td><p>8월 23일</p></td>
-<td><p>여름 특집 7월 4부작 :: 4부 - <a href="https://ko.wikipedia.org/wiki/타블로" title="wikilink">타블로</a>와 함께하는 일일독방(讀放)</p></td>
+<td><p>여름 특집 7월 4부작 :: 4부 - <a href="../Page/타블로.md" title="wikilink">타블로</a>와 함께하는 일일독방(讀放)</p></td>
 </tr>
 <tr class="even">
 <td><p>126회</p></td>

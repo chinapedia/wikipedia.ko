@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OTRS](https://ko.wikipedia.org/wiki/OTRS).
 
 
-**OTRS**()는 [자유](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink") 및 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [트러블 티켓 시스템](https://ko.wikipedia.org/wiki/이슈_추적_시스템 "wikilink") [소프트웨어](https://ko.wikipedia.org/wiki/소프트웨어 "wikilink") 패키지로서, 기업, 단체 및 기타 실체가 수신 쿼리에 티켓을 할당하고 이들에 대한 추가 통신을 추적하는데 사용한다.
+**OTRS**()는 [자유](../Page/자유_소프트웨어.md "wikilink") 및 [오픈 소스](../Page/오픈_소스.md "wikilink") [트러블 티켓 시스템](../Page/이슈_추적_시스템.md "wikilink") [소프트웨어](../Page/소프트웨어.md "wikilink") 패키지로서, 기업, 단체 및 기타 실체가 수신 쿼리에 티켓을 할당하고 이들에 대한 추가 통신을 추적하는데 사용한다.
 
 ## 역사
 

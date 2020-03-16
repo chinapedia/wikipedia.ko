@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [BLESSING CARD](https://ko.wikipedia.org/wiki/BLESSING_CARD).
 
 
-〈**BLESSNG CARD**〉는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [8월 21일에](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") [빙에서](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink") 발매된 [VALSHE](../Page/VALSHE.md "wikilink")의 5번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**BLESSNG CARD**〉는 [2013년](../Page/2013년.md "wikilink") [8월 21일에](../Page/8월_21일.md "wikilink") [빙에서](../Page/빙_\(기업\).md "wikilink") 발매된 [VALSHE](../Page/VALSHE.md "wikilink")의 5번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 해설
 
-[TV 도쿄계](https://ko.wikipedia.org/wiki/TV_도쿄 "wikilink") 《[탐험 드릴랜드: 1000년의 진보](https://ko.wikipedia.org/wiki/탐험_드릴랜드:_1000년의_진보 "wikilink")》 엔딩 테마\[1\]. 본작이 첫 애니메이션 음악이 됐다. 통상반은 2CD 방식, 초회반은 DVD 부속, Musing반은 완전생산한정반으로 오리지널 무비 “Musing Special Movie” 시청 ID 첨부(PC로만 시청 가능).
+[TV 도쿄계](../Page/TV_도쿄.md "wikilink") 《[탐험 드릴랜드: 1000년의 진보](https://ko.wikipedia.org/wiki/탐험_드릴랜드:_1000년의_진보 "wikilink")》 엔딩 테마\[1\]. 본작이 첫 애니메이션 음악이 됐다. 통상반은 2CD 방식, 초회반은 DVD 부속, Musing반은 완전생산한정반으로 오리지널 무비 “Musing Special Movie” 시청 ID 첨부(PC로만 시청 가능).
 
 ## 수록곡
 

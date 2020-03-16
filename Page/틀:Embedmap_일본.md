@@ -67,4 +67,4 @@
   - 위도와 경도는 숫자로 기입해 주세요. 단위는 도와 십진법입니다. 분과 초는 사용하실 수 없습니다.
   - 기능을 확장할 여지도 있으므로, 제4 매개 변수 이후에는 추가하여서는 안됩니다.
 
-[](https://ko.wikipedia.org/wiki/분류:좌표_틀 "wikilink") </noinclude>
+[](../Page/분류:좌표_틀.md "wikilink") </noinclude>

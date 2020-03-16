@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JJCC](https://ko.wikipedia.org/wiki/JJCC).
 
 
-**JJCC**(제이제이씨씨)는 [성룡](https://ko.wikipedia.org/wiki/성룡 "wikilink")이 직접 제작한 대한민국의 7인조 남성 그룹이다. 2014년 3월 첫 번째 싱글 〈첨엔 다 그래〉로 데뷔하였다.
+**JJCC**(제이제이씨씨)는 [성룡](../Page/성룡.md "wikilink")이 직접 제작한 대한민국의 7인조 남성 그룹이다. 2014년 3월 첫 번째 싱글 〈첨엔 다 그래〉로 데뷔하였다.
 
 ## 구성원
 
@@ -34,7 +34,7 @@
 <td style="text-align: left;"><p><strong>1</strong></p></td>
 <td style="text-align: left;"><p>《<strong>JJCC 1ST MINI ALBUM</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/8월_21일" title="wikilink">8월 21일</a></li>
+<li>발매일: <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/8월_21일.md" title="wikilink">8월 21일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>빙빙빙 (Oneway)</strong></li>
@@ -47,7 +47,7 @@
 <td style="text-align: left;"><p><strong>2</strong></p></td>
 <td style="text-align: left;"><p>《<strong>악몽</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/8월_20일" title="wikilink">8월 20일</a></li>
+<li>발매일: <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/8월_20일.md" title="wikilink">8월 20일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>어디야</strong></li>
@@ -83,7 +83,7 @@
 <td style="text-align: left;"><p><strong>1</strong></p></td>
 <td style="text-align: left;"><p>〈<strong>첨엔 다 그래</strong>〉</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/3월_24일" title="wikilink">3월 24일</a></li>
+<li>발매일: <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/3월_24일.md" title="wikilink">3월 24일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>첨엔 다 그래</strong></li>
@@ -94,7 +94,7 @@
 <td style="text-align: left;"><p><strong>2</strong></p></td>
 <td style="text-align: left;"><p>〈<strong>질러 (Fire)</strong>〉</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/1월_14일" title="wikilink">1월 14일</a></li>
+<li>발매일: <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_14일.md" title="wikilink">1월 14일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>질러 (Fire)</strong></li>
@@ -105,10 +105,10 @@
 <td style="text-align: left;"><p><strong>3</strong></p></td>
 <td style="text-align: left;"><p>〈<strong>꽃밭에서</strong>〉</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/4월_9일" title="wikilink">4월 9일</a></li>
+<li>발매일: <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/4월_9일.md" title="wikilink">4월 9일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li><strong>꽃밭에서 (Feat. <a href="https://ko.wikipedia.org/wiki/정훈희" title="wikilink">정훈희</a>)</strong></li>
+<li><strong>꽃밭에서 (Feat. <a href="../Page/정훈희.md" title="wikilink">정훈희</a>)</strong></li>
 <li>꽃밭에서 (Inst.)</li>
 </ol></td>
 </tr>
@@ -116,7 +116,7 @@
 <td style="text-align: left;"><p><strong>4</strong></p></td>
 <td style="text-align: left;"><p>〈<strong>오늘 한번</strong>〉</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/3월_9일" title="wikilink">3월 9일</a></li>
+<li>발매일: <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/3월_9일.md" title="wikilink">3월 9일</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li><strong>오늘 한번</strong></li>
@@ -133,8 +133,8 @@
 
 ## 음반 외 활동
 
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") [PRODUCE 101 시즌 2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2 "wikilink") (율, 산청)
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink") [믹스나인](https://ko.wikipedia.org/wiki/믹스나인 "wikilink") (심바)
+  - [2017년](../Page/2017년.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") [PRODUCE 101 시즌 2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2 "wikilink") (율, 산청)
+  - [2017년](../Page/2017년.md "wikilink") [JTBC](../Page/JTBC.md "wikilink") [믹스나인](../Page/믹스나인.md "wikilink") (심바)
 
 ## 각주
 

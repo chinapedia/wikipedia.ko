@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dance \(  \)](https://ko.wikipedia.org/wiki/Dance_\(__\)).
 
 
-〈**dance**〉는 [코마츠 미호의](https://ko.wikipedia.org/wiki/코마츠_미호 "wikilink") 열여섯 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). 2002년 5월 29일에 발매됐다.
+〈**dance**〉는 [코마츠 미호의](../Page/코마츠_미호.md "wikilink") 열여섯 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 2002년 5월 29일에 발매됐다.
 
 ## 개요
 
@@ -14,7 +14,7 @@
       - [작사](https://ko.wikipedia.org/wiki/작사 "wikilink") · [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"): 코마츠 미호, 편곡: [오가 요시노부](https://ko.wikipedia.org/wiki/오가_요시노부 "wikilink")
     <!-- end list -->
       -
-        [닛폰 TV계](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 《C/W러브》 닫는 곡.
+        [닛폰 TV계](../Page/닛폰_TV_방송망.md "wikilink") 《C/W러브》 닫는 곡.
 2.  **우리의 행방** ()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
 3.  **dance (KENNY'S CLASSIC CLUB MIX)**

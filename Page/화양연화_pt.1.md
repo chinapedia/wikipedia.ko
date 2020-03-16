@@ -15,7 +15,7 @@
 | 미국 ([빌보드 월드 앨범 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))\[3\]    | 2    |
 | 미국 ([빌보드 탑 히트시커스 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))\[4\]  | 6    |
 | 미국 ([빌보드 인디펜던트 앨범 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))\[5\] | 20   |
-| 일본 ([오리콘 앨범 차트](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))\[6\]          | 24   |
+| 일본 ([오리콘 앨범 차트](../Page/오리콘.md "wikilink"))\[6\]                             | 24   |
 |                                                                              |      |
 
 ### 월간 차트
@@ -35,16 +35,16 @@
 | 차트                                                                   | 판매량      |
 | -------------------------------------------------------------------- | -------- |
 | 대한민국 ([가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink")) | 261,698+ |
-| 일본 ([오리콘 앨범 차트](https://ko.wikipedia.org/wiki/오리콘 "wikilink"))       | 12,061+  |
+| 일본 ([오리콘 앨범 차트](../Page/오리콘.md "wikilink"))                          | 12,061+  |
 | 미국 ([빌보드 차트](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink"))       | 2,000+   |
 
 ## 발매일
 
-| 국가                                                    | 날짜           | 포맷                                                                                                               | 레이블                                                             |
-| ----------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") | 2015년 4월 29일 | [CD](https://ko.wikipedia.org/wiki/CD "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | [로엔 엔터테인먼트](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") |
-| [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")     | 2015년 5월 2일  | [CD](https://ko.wikipedia.org/wiki/CD "wikilink")                                                                |                                                                 |
-| [타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink")   | 2015년 6월 2일  |                                                                                                                  |                                                                 |
+| 국가                                 | 날짜           | 포맷                                                                                                               | 레이블                                                             |
+| ---------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [대한민국](../Page/대한민국.md "wikilink") | 2015년 4월 29일 | [CD](https://ko.wikipedia.org/wiki/CD "wikilink"), [디지털 다운로드](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") | [로엔 엔터테인먼트](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") |
+| [일본](../Page/일본.md "wikilink")     | 2015년 5월 2일  | [CD](https://ko.wikipedia.org/wiki/CD "wikilink")                                                                |                                                                 |
+| [타이완](../Page/타이완.md "wikilink")   | 2015년 6월 2일  |                                                                                                                  |                                                                 |
 
 ## 각주
 

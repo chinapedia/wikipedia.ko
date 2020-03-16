@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WE GO](https://ko.wikipedia.org/wiki/WE_GO).
 
 
-〈**WE GO**〉는 [브레이커즈](https://ko.wikipedia.org/wiki/브레이커즈 "wikilink")의 열다섯 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 20일에](https://ko.wikipedia.org/wiki/5월_20일 "wikilink") 발매됐다. 발매원은 [제인 레코드이다](https://ko.wikipedia.org/wiki/제인_레코드 "wikilink"). 〈[오버라이트](https://ko.wikipedia.org/wiki/오버라이트/노나이Survivor "wikilink")〉 이래로 6번째인 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 타이업\[1\]. 초회반A는 표제곡의 프로모션 비디오 및 메이킹을 수록.
+〈**WE GO**〉는 [브레이커즈](https://ko.wikipedia.org/wiki/브레이커즈 "wikilink")의 열다섯 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2015년](../Page/2015년.md "wikilink") [5월 20일에](../Page/5월_20일.md "wikilink") 발매됐다. 발매원은 [제인 레코드이다](https://ko.wikipedia.org/wiki/제인_레코드 "wikilink"). 〈[오버라이트](https://ko.wikipedia.org/wiki/오버라이트/노나이Survivor "wikilink")〉 이래로 6번째인 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 타이업\[1\]. 초회반A는 표제곡의 프로모션 비디오 및 메이킹을 수록.
 
 ## 수록곡
 
@@ -49,19 +49,19 @@
 
 ## 타이업
 
-  - [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") [닛폰 TV계](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 여는 곡 (\#1)
+  - [요미우리 TV](../Page/요미우리_TV_방송.md "wikilink") [닛폰 TV계](../Page/닛폰_TV_방송망.md "wikilink") 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 여는 곡 (\#1)
 
 ## 각주
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
 <small>2015년 4월 18일 (774화) ~ 2015년 8월 15일 (789화)</small></p></td>
 </tr>
 <tr class="even">
 <td><p>이전 곡:<br />
-<a href="https://ko.wikipedia.org/wiki/쿠라키_마이" title="wikilink">쿠라키 마이</a><br />
+<a href="../Page/쿠라키_마이.md" title="wikilink">쿠라키 마이</a><br />
 〈<a href="../Page/MAI_KURAKI_BEST_151A_-LOVE_&amp;_HOPE-.md" title="wikilink">DYNAMITE</a>〉</p></td>
 </tr>
 </tbody>

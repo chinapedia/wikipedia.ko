@@ -3,7 +3,7 @@
 
 ## 소개
 
-"**BABY I'M SORRY**"는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")이다. 첫 번째 정규앨범 *[THE B1A4 I IGNITION](../Page/THE_B1A4_I_IGNITION.md "wikilink")*의 타이틀곡으로, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 14일에](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") 발매됐다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 29일](https://ko.wikipedia.org/wiki/8월_29일 "wikilink") 일본어로 번안되어 [おやすみ *Good Night*에](https://ko.wikipedia.org/wiki/잘자요_굿나잇#일본어_버전 "wikilink") 수록되었다. "BABY I'M SORRY"는 [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 멤버 [진영이](../Page/진영_\(1991년\).md "wikilink") 작사, 작곡, 프로듀싱한 곡으로 강한 트랜스 리듬에 드럼 비트 베이스를 기반으로 한 번만 들어도 기억에 남을 만큼 매력적인 멜로디와 [진영만의](../Page/진영_\(1991년\).md "wikilink") 독특한 구성과 감각적인 가사가 돋보이는 곡이다.\[1\]
+"**BABY I'M SORRY**"는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [B1A4](../Page/B1A4.md "wikilink")의 [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")이다. 첫 번째 정규앨범 *[THE B1A4 I IGNITION](../Page/THE_B1A4_I_IGNITION.md "wikilink")*의 타이틀곡으로, [2012년](../Page/2012년.md "wikilink") [3월 14일에](../Page/3월_14일.md "wikilink") 발매됐다. [2012년](../Page/2012년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") 일본어로 번안되어 [おやすみ *Good Night*에](https://ko.wikipedia.org/wiki/잘자요_굿나잇#일본어_버전 "wikilink") 수록되었다. "BABY I'M SORRY"는 [B1A4](../Page/B1A4.md "wikilink")의 멤버 [진영이](../Page/진영_\(1991년\).md "wikilink") 작사, 작곡, 프로듀싱한 곡으로 강한 트랜스 리듬에 드럼 비트 베이스를 기반으로 한 번만 들어도 기억에 남을 만큼 매력적인 멜로디와 [진영만의](../Page/진영_\(1991년\).md "wikilink") 독특한 구성과 감각적인 가사가 돋보이는 곡이다.\[1\]
 
 ## 각주
 

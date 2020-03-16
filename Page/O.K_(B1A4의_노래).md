@@ -3,7 +3,7 @@
 
 ## 소개
 
-"**O.K**"는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 음악 그룹 [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")이다. 첫 미니앨범 *[Let's Fly](../Page/Let's_Fly.md "wikilink")*의 타이틀곡으로, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [4월 21일에](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") 발매됐다. [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") 일본어로 번안되어 [1에](../Page/1_\(B1A4의_음반\).md "wikilink") 수록되기도 했다. "O.K"는 곡이 발매됐던 시기 전세계적으로 유행했던 락 기반의 강렬한 일렉트로닉 곡으로써, [B1A4](https://ko.wikipedia.org/wiki/B1A4 "wikilink")의 시원하고 폭발적인 보컬은 그들이 얼마나 준비된 아이돌 인지를 알려준다. 너 하나면 O.K라는 당당한 가사와 중독성 있는 멜로디가 [산들](https://ko.wikipedia.org/wiki/산들 "wikilink")의 신인답지 않는 파워풀한 보컬과 완벽한 조화를 이루었다.\[1\]
+"**O.K**"는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [B1A4](../Page/B1A4.md "wikilink")의 [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")이다. 첫 미니앨범 *[Let's Fly](../Page/Let's_Fly.md "wikilink")*의 타이틀곡으로, [2011년](../Page/2011년.md "wikilink") [4월 21일에](../Page/4월_21일.md "wikilink") 발매됐다. [2012년](../Page/2012년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") 일본어로 번안되어 [1에](../Page/1_\(B1A4의_음반\).md "wikilink") 수록되기도 했다. "O.K"는 곡이 발매됐던 시기 전세계적으로 유행했던 락 기반의 강렬한 일렉트로닉 곡으로써, [B1A4](../Page/B1A4.md "wikilink")의 시원하고 폭발적인 보컬은 그들이 얼마나 준비된 아이돌 인지를 알려준다. 너 하나면 O.K라는 당당한 가사와 중독성 있는 멜로디가 [산들](../Page/산들.md "wikilink")의 신인답지 않는 파워풀한 보컬과 완벽한 조화를 이루었다.\[1\]
 
 ## 각주
 

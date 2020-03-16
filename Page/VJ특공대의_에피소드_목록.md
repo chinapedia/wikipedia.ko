@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VJ  ](https://ko.wikipedia.org/wiki/VJ__).
 
 
-아래는 [KBS 2TV에서](https://ko.wikipedia.org/wiki/KBS_2TV "wikilink") 방송된 [텔레비전 프로그램인](https://ko.wikipedia.org/wiki/텔레비전_프로그램 "wikilink") 《**[VJ특공대](https://ko.wikipedia.org/wiki/VJ특공대 "wikilink")**》의 방영 목록이다.
+아래는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송된 [텔레비전 프로그램인](../Page/텔레비전_프로그램.md "wikilink") 《**[VJ특공대](../Page/VJ특공대.md "wikilink")**》의 방영 목록이다.
 
 ## 방영 목록
 
@@ -156,7 +156,7 @@
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>11월 3일</p></td>
-<td><p>1.<a href="https://ko.wikipedia.org/wiki/단풍" title="wikilink">단풍</a>관광<br />
+<td><p>1.<a href="../Page/단풍.md" title="wikilink">단풍</a>관광<br />
 2.철인3종경기<br />
 3.채식주의자<br />
 4.폭탄전문제거반</p></td>
@@ -337,7 +337,7 @@
 <tr class="even">
 <td></td>
 <td><p>4월 6일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/안전띠" title="wikilink">안전띠</a> 단속<br />
+<td><p>1. <a href="../Page/안전띠.md" title="wikilink">안전띠</a> 단속<br />
 2.이색학과<br />
 3.태국헤어쇼<br />
 4.김해김씨시제</p></td>
@@ -364,7 +364,7 @@
 <tr class="odd">
 <td></td>
 <td><p>4월 27일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/백두산" title="wikilink">백두산</a> <a href="https://ko.wikipedia.org/wiki/호랑이" title="wikilink">호랑이</a> <a href="https://ko.wikipedia.org/wiki/임신" title="wikilink">임신</a>대작전<br />
+<td><p>1. <a href="../Page/백두산.md" title="wikilink">백두산</a> <a href="../Page/호랑이.md" title="wikilink">호랑이</a> <a href="../Page/임신.md" title="wikilink">임신</a>대작전<br />
 2. 부산에 부는 친구 신드롬</p></td>
 <td></td>
 </tr>
@@ -389,7 +389,7 @@
 <tr class="even">
 <td></td>
 <td><p>5월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/셔터" title="wikilink">셔터</a>가 내려진 후<br />
+<td><p><a href="../Page/셔터.md" title="wikilink">셔터</a>가 내려진 후<br />
 2. 홈쇼핑 모델들의 세계<br />
 3.영업사업 전성시대</p></td>
 <td></td>
@@ -397,7 +397,7 @@
 <tr class="odd">
 <td></td>
 <td><p>5월 25일</p></td>
-<td><p>대박의 <a href="https://ko.wikipedia.org/wiki/꿈" title="wikilink">꿈</a> <a href="https://ko.wikipedia.org/wiki/복권" title="wikilink">복권</a><br />
+<td><p>대박의 <a href="../Page/꿈.md" title="wikilink">꿈</a> <a href="https://ko.wikipedia.org/wiki/복권" title="wikilink">복권</a><br />
 2. 짝퉁<br />
 3. 마케팅<br />
 4.마담뚜</p></td>
@@ -420,7 +420,7 @@
 <tr class="even">
 <td></td>
 <td><p>6월 15일</p></td>
-<td><p>1. 목타는 <a href="https://ko.wikipedia.org/wiki/한반도" title="wikilink">한반도</a>, 그리운 <a href="https://ko.wikipedia.org/wiki/물" title="wikilink">물</a>.<a href="https://ko.wikipedia.org/wiki/물" title="wikilink">물</a>.<a href="https://ko.wikipedia.org/wiki/물" title="wikilink">물</a><br />
+<td><p>1. 목타는 <a href="../Page/한반도.md" title="wikilink">한반도</a>, 그리운 <a href="https://ko.wikipedia.org/wiki/물" title="wikilink">물</a>.<a href="https://ko.wikipedia.org/wiki/물" title="wikilink">물</a>.<a href="https://ko.wikipedia.org/wiki/물" title="wikilink">물</a><br />
 2. 생애최고의 한 컷</p></td>
 <td></td>
 </tr>
@@ -448,14 +448,14 @@
 <tr class="even">
 <td></td>
 <td><p>7월 13일</p></td>
-<td><p>1. 복날 비상경보! <a href="https://ko.wikipedia.org/wiki/개" title="wikilink">개</a><a href="https://ko.wikipedia.org/wiki/도둑" title="wikilink">도둑</a>을 잡아라<br />
+<td><p>1. 복날 비상경보! <a href="../Page/개.md" title="wikilink">개</a><a href="../Page/도둑.md" title="wikilink">도둑</a>을 잡아라<br />
 2.투신자를 구조하라! 수난</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>7월 20일</p></td>
-<td><p>1. 60분간의 <a href="https://ko.wikipedia.org/wiki/전쟁" title="wikilink">전쟁</a>!샐러리맨의 아침을 노려라<br />
+<td><p>1. 60분간의 <a href="../Page/전쟁.md" title="wikilink">전쟁</a>!샐러리맨의 아침을 노려라<br />
 2.틈새프로의 세계</p></td>
 <td></td>
 </tr>
@@ -476,21 +476,21 @@
 <tr class="even">
 <td></td>
 <td><p>8월 10일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a>이 보인다 - <a href="https://ko.wikipedia.org/wiki/한국인" title="wikilink">한국인</a> <a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a> 진출기<br />
+<td><p>1. <a href="../Page/중국.md" title="wikilink">중국</a>이 보인다 - <a href="../Page/한국인.md" title="wikilink">한국인</a> <a href="../Page/중국.md" title="wikilink">중국</a> 진출기<br />
 2.8월, 얼음이야기</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>8월 17일</p></td>
-<td><p>1. 이별의 정거장 <a href="https://ko.wikipedia.org/wiki/부산항" title="wikilink">부산항</a> 명물들<br />
+<td><p>1. 이별의 정거장 <a href="../Page/부산항.md" title="wikilink">부산항</a> 명물들<br />
 2. 특급작전 빈집털이범을 잡아라</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>8월 24일</p></td>
-<td><p>1. 나타나면 <a href="https://ko.wikipedia.org/wiki/벌" title="wikilink">벌</a><a href="https://ko.wikipedia.org/wiki/벌" title="wikilink">벌</a><a href="https://ko.wikipedia.org/wiki/벌" title="wikilink">벌</a> - <a href="https://ko.wikipedia.org/wiki/말벌" title="wikilink">말벌</a> 대소<br />
+<td><p>1. 나타나면 <a href="https://ko.wikipedia.org/wiki/벌" title="wikilink">벌</a><a href="https://ko.wikipedia.org/wiki/벌" title="wikilink">벌</a><a href="https://ko.wikipedia.org/wiki/벌" title="wikilink">벌</a> - <a href="../Page/말벌.md" title="wikilink">말벌</a> 대소<br />
 2.도로 위 3분대기조-견인차의 세계</p></td>
 <td></td>
 </tr>
@@ -532,14 +532,14 @@
 <tr class="even">
 <td></td>
 <td><p>10월 5일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/추석" title="wikilink">추석</a>, 한 몫 잡는 사람들<br />
+<td><p>1. <a href="../Page/추석.md" title="wikilink">추석</a>, 한 몫 잡는 사람들<br />
 2.전통음식의 대반란</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>10월 12일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/백령도" title="wikilink">백령도</a> 사격대회 있던 날<br />
+<td><p>1. <a href="../Page/백령도.md" title="wikilink">백령도</a> 사격대회 있던 날<br />
 2.스타를 닮은 사람들</p></td>
 <td></td>
 </tr>
@@ -560,7 +560,7 @@
 <tr class="even">
 <td></td>
 <td><p>11월 2일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/가을" title="wikilink">가을</a> 산 <a href="https://ko.wikipedia.org/wiki/단풍" title="wikilink">단풍</a> 대소동<br />
+<td><p>1. <a href="../Page/가을.md" title="wikilink">가을</a> 산 <a href="../Page/단풍.md" title="wikilink">단풍</a> 대소동<br />
 2. 바다위 음주단속</p></td>
 <td></td>
 </tr>
@@ -581,14 +581,14 @@
 <tr class="odd">
 <td></td>
 <td><p>11월 23일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/목욕탕" title="wikilink">목욕탕</a> 열전<br />
+<td><p>1. <a href="../Page/목욕탕.md" title="wikilink">목욕탕</a> 열전<br />
 2. 변신! 가죽의 세계</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>11월 30일</p></td>
-<td><p>1. 운수대통! 슈퍼 <a href="https://ko.wikipedia.org/wiki/고래" title="wikilink">고래</a> 잡히던 날<br />
+<td><p>1. 운수대통! 슈퍼 <a href="../Page/고래.md" title="wikilink">고래</a> 잡히던 날<br />
 2.4천만의 놀이터-노래방대탐험</p></td>
 <td></td>
 </tr>
@@ -1085,7 +1085,7 @@
 <td><p>-진풍경 속으로...<br />
 2. 새해가 오기 전에 팔아라!<br />
 3. 땀 한 스푼, 희망 두 스푼! - 서민들의 연말결산<br />
-4. 소박·투박·질박 -『<a href="https://ko.wikipedia.org/wiki/TV동화_행복한_세상" title="wikilink">TV동화 행복한 세상</a>』대 열풍</p></td>
+4. 소박·투박·질박 -『<a href="../Page/TV동화_행복한_세상.md" title="wikilink">TV동화 행복한 세상</a>』대 열풍</p></td>
 </tr>
 </tbody>
 </table>
@@ -3349,7 +3349,7 @@
 <tr class="even">
 <td><p>357</p></td>
 <td><p>8월 24일</p></td>
-<td><p>1. 5천만의 잔치! <a href="https://ko.wikipedia.org/wiki/전국노래자랑" title="wikilink">전국노래자랑</a> 숨은 비밀<br />
+<td><p>1. 5천만의 잔치! <a href="../Page/전국노래자랑.md" title="wikilink">전국노래자랑</a> 숨은 비밀<br />
 2. 하나로 승부한다! 단일메뉴 맛집 열전<br />
 3. 2007 코리안 드림! 외국인 스타 전성시대<br />
 4. 필리핀 현지보고! 코피노를 아십니까?</p></td>
@@ -4523,7 +4523,7 @@
 <tr class="odd">
 <td><p>498</p></td>
 <td><p>1월 1일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/제야" title="wikilink">제야</a>에서 <a href="https://ko.wikipedia.org/wiki/새해" title="wikilink">새해</a>까지~ 운명의 카운트다운<br />
+<td><p>1. <a href="https://ko.wikipedia.org/wiki/제야" title="wikilink">제야</a>에서 <a href="../Page/새해.md" title="wikilink">새해</a>까지~ 운명의 카운트다운<br />
 2. 뭉쳐야 흥행 대박! 가족 운영 맛집<br />
 3. 돌고 돌아 돈! 돈의 생로병사<br />
 4. &lt;테마기획 2010희망리포트&gt; 월드베스트를 꿈꾼다! 대한민국 일등 일꾼들</p></td>
@@ -4541,7 +4541,7 @@
 <tr class="odd">
 <td><p>500</p></td>
 <td><p>1월 15일</p></td>
-<td><p>1. 오천만의 冬별미! ‘<a href="https://ko.wikipedia.org/wiki/만두" title="wikilink">만두</a>’ 완전정복<br />
+<td><p>1. 오천만의 冬별미! ‘<a href="../Page/만두.md" title="wikilink">만두</a>’ 완전정복<br />
 2. 세계 최고층 빌딩 ‘부르즈칼리파’에 가다<br />
 3. &lt;테마기획 2010 희망리포트&gt; 한계는 없다! 대한민국 극한일터<br />
 4. 돈다발이 펑펑~ 폭설 특수를 잡아라!<br />
@@ -4560,7 +4560,7 @@
 <tr class="odd">
 <td><p>502</p></td>
 <td><p>1월 29일</p></td>
-<td><p>1. 입맛을 사로잡다! 천하일품 <a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a>요리~<br />
+<td><p>1. 입맛을 사로잡다! 천하일품 <a href="../Page/중국.md" title="wikilink">중국</a>요리~<br />
 2. &lt;테마기획 2010 희망리포트&gt; 2010 新 노다지 대작전!<br />
 3. <긴급취재> 아이티 지진 대참사 현장을 가다!<br />
 4. 늦기 전에 떠나라! 겨울 비경 속으로~</p></td>
@@ -4596,7 +4596,7 @@
 <tr class="odd">
 <td><p>506</p></td>
 <td><p>2월 26일</p></td>
-<td><p>1. 지상 최대의 축제! <a href="https://ko.wikipedia.org/wiki/브라질" title="wikilink">브라질</a> '리우 카니발'을 가다<br />
+<td><p>1. 지상 최대의 축제! <a href="../Page/브라질.md" title="wikilink">브라질</a> '리우 카니발'을 가다<br />
 2. 辛나게~ 熱나게~ 화끈한 맛 열전!<br />
 3. 사법고시보다 어렵다?! 2010 ‘아이돌 고시’ 열풍<br />
 4. 세태보고! 신고 포상금의 두 얼굴</p></td>
@@ -4623,7 +4623,7 @@
 <tr class="even">
 <td><p>509</p></td>
 <td><p>3월 19일</p></td>
-<td><p>1. 긴급 취재! <a href="https://ko.wikipedia.org/wiki/성범죄" title="wikilink">성범죄</a>의 표적, <a href="https://ko.wikipedia.org/wiki/아이들" title="wikilink">아이들</a>이 위험하다!<br />
+<td><p>1. 긴급 취재! <a href="../Page/성범죄.md" title="wikilink">성범죄</a>의 표적, <a href="https://ko.wikipedia.org/wiki/아이들" title="wikilink">아이들</a>이 위험하다!<br />
 2. 위풍당당 100세! 은퇴란 없다<br />
 3. 남자의 변신은 무죄, 꽃미남 산업이 뜬다!<br />
 4. 13억 중국인도 모른다! 이색 마을 大탐험</p></td>
@@ -4632,7 +4632,7 @@
 <tr class="odd">
 <td><p>510</p></td>
 <td><p>3월 26일</p></td>
-<td><p>1. 국민<a href="https://ko.wikipedia.org/wiki/고기" title="wikilink">고기</a>! <a href="https://ko.wikipedia.org/wiki/돼지" title="wikilink">돼지</a>의 모든 것<br />
+<td><p>1. 국민<a href="../Page/고기.md" title="wikilink">고기</a>! <a href="../Page/돼지.md" title="wikilink">돼지</a>의 모든 것<br />
 2. 한 가지로 승부한다! 전문골목 大탐험<br />
 3. 마사지천국, 태국 이야기<br />
 4. 2010 교육현장 신풍속</p></td>
@@ -4659,7 +4659,7 @@
 <tr class="even">
 <td><p>513</p></td>
 <td><p>4월 16일</p></td>
-<td><p>1. 대박을 부르는 명 <a href="https://ko.wikipedia.org/wiki/도구" title="wikilink">도구</a>의 <a href="https://ko.wikipedia.org/wiki/비밀" title="wikilink">비밀</a><br />
+<td><p>1. 대박을 부르는 명 <a href="../Page/도구.md" title="wikilink">도구</a>의 <a href="https://ko.wikipedia.org/wiki/비밀" title="wikilink">비밀</a><br />
 2. 상춘대소동! 봄 산에서 생긴 일<br />
 3. 지상 최대! 사하라 사막의 베일을 벗기다<br />
 4. 봄 특수! 가구 시장 大해부</p></td>
@@ -4668,7 +4668,7 @@
 <tr class="odd">
 <td><p>514</p></td>
 <td><p>4월 23일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/봄" title="wikilink">봄</a>을 잡아라! 상춘맛별곡<br />
+<td><p>1. <a href="../Page/봄.md" title="wikilink">봄</a>을 잡아라! 상춘맛별곡<br />
 2. 천태만상! 2010 결혼시장 진풍경<br />
 3. 기상천외! 기예의 나라 중국을 가다<br />
 4. 인생역전! 빚을 갚은 사람들!</p></td>
@@ -4677,7 +4677,7 @@
 <tr class="even">
 <td><p>515</p></td>
 <td><p>4월 30일</p></td>
-<td><p>1. 자식이 뭐 길래~ 2010 <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> 육아 백태<br />
+<td><p>1. 자식이 뭐 길래~ 2010 <a href="../Page/대한민국.md" title="wikilink">대한민국</a> 육아 백태<br />
 2. 12시를 기다렸다. 구내식당 대변신!<br />
 3. 위기가 곧 기회. 때 아닌 호황을 잡아라!<br />
 4. 세계 최연소! 아프리카 우간다 소년, 왕이 되다</p></td>
@@ -4695,7 +4695,7 @@
 <tr class="even">
 <td><p>517</p></td>
 <td><p>5월 14일</p></td>
-<td><p>1. 세태보고 <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> 점술시장 大 해부<br />
+<td><p>1. 세태보고 <a href="../Page/대한민국.md" title="wikilink">대한민국</a> 점술시장 大 해부<br />
 2. 기적을 만드는 춤 - 중국 천수관음 장애인 예술단<br />
 3. “아기를 살려라” 고위험산모병동, 40일간의 기록</p></td>
 <td></td>
@@ -4748,7 +4748,7 @@
 <tr class="even">
 <td><p>523</p></td>
 <td><p>6월 25일</p></td>
-<td><p>1. 대륙평정! 초특급 <a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a> 슈퍼베이비<br />
+<td><p>1. 대륙평정! 초특급 <a href="../Page/중국.md" title="wikilink">중국</a> 슈퍼베이비<br />
 2. 16강 진출! 월드컵 속 기회를 잡아라~!<br />
 3. 학력파괴! 위풍당당 3인의 인생 성공기!<br />
 4. 여름 맞이 몸매 사수 대작전~!</p></td>
@@ -4757,7 +4757,7 @@
 <tr class="odd">
 <td><p>524</p></td>
 <td><p>7월 2일</p></td>
-<td><p>1. 속 시원~하다! 2010 新 <a href="https://ko.wikipedia.org/wiki/냉면" title="wikilink">냉면</a> 천하<br />
+<td><p>1. 속 시원~하다! 2010 新 <a href="../Page/냉면.md" title="wikilink">냉면</a> 천하<br />
 2. 水준이 다르다! 대한민국 피서 명당<br />
 3. 2010 황당 절도범과의 전쟁<br />
 4. 세계 최고의 파라다이스! 파티의 섬, 이비사를 가다</p></td>
@@ -4775,7 +4775,7 @@
 <tr class="odd">
 <td><p>526</p></td>
 <td><p>7월 16일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a>은 <a href="https://ko.wikipedia.org/wiki/치킨" title="wikilink">치킨</a>공화국<br />
+<td><p>1. <a href="../Page/대한민국.md" title="wikilink">대한민국</a>은 <a href="https://ko.wikipedia.org/wiki/치킨" title="wikilink">치킨</a>공화국<br />
 2. 2010 여름 이색 직업을 잡(job)아라!<br />
 3. 新 장사의 비법! 재래시장 상인 성공기<br />
 4. 천하제일! 대한민국 천재를 찾아라</p></td>
@@ -4784,7 +4784,7 @@
 <tr class="even">
 <td><p>527</p></td>
 <td><p>7월 23일</p></td>
-<td><p>1. 최고의 선상 휴가! 초호화 <a href="https://ko.wikipedia.org/wiki/크루즈" title="wikilink">크루즈</a>에선 무슨 일이?<br />
+<td><p>1. 최고의 선상 휴가! 초호화 <a href="../Page/크루즈.md" title="wikilink">크루즈</a>에선 무슨 일이?<br />
 2. 밑바닥이라고 얕보지 마라! 인생 역전의 주역들<br />
 3. 세계 최초 공개! 솔로왕국의 베일을 벗기다<br />
 4. 엄마가 된 소녀들! 2010 미혼모 이야기</p></td>
@@ -4793,7 +4793,7 @@
 <tr class="odd">
 <td><p>528</p></td>
 <td><p>7월 30일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/여름" title="wikilink">여름</a> 별천지! 팔도 <a href="https://ko.wikipedia.org/wiki/계곡" title="wikilink">계곡</a> 大탐험<br />
+<td><p>1. <a href="../Page/여름.md" title="wikilink">여름</a> 별천지! 팔도 <a href="https://ko.wikipedia.org/wiki/계곡" title="wikilink">계곡</a> 大탐험<br />
 2. 복날의 맞불! 火끈한 요리 열전<br />
 3. 이유 있는 몸값! 대한민국 최고 일당 총집합<br />
 4. 이열치열! 일본 여름 온천 진풍경</p></td>
@@ -4802,7 +4802,7 @@
 <tr class="even">
 <td><p>529</p></td>
 <td><p>8월 6일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/폭염" title="wikilink">폭염</a> 탈출! 피서 진풍경 속으로~<br />
+<td><p>1. <a href="../Page/폭염.md" title="wikilink">폭염</a> 탈출! 피서 진풍경 속으로~<br />
 2. 사선을 넘어라! 위험천만 직업 세계!<br />
 3. 등골이 오싹! 공포를 팝니다.<br />
 4. 등골이 오싹! 공포를 팝니다.<br />
@@ -4848,7 +4848,7 @@
 <tr class="odd">
 <td><p>534</p></td>
 <td><p>9월 10일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/빵" title="wikilink">빵</a>~ 터졌다! <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a>은 빵과 열애 中!<br />
+<td><p>1. <a href="../Page/빵.md" title="wikilink">빵</a>~ 터졌다! <a href="../Page/대한민국.md" title="wikilink">대한민국</a>은 빵과 열애 中!<br />
 2. 6만 처녀의 유혹! 스와질란드 왕비 간택 특급작전<br />
 3. 빈 틈 없이 번다! 재래시장 틈새직업 大공개<br />
 4. 싸다고 얕보지 마라! 무한감동 코스 요리</p></td>
@@ -4857,7 +4857,7 @@
 <tr class="even">
 <td><p>535</p></td>
 <td><p>9월 17일</p></td>
-<td><p>1. 팔도명물 다 모였다! <a href="https://ko.wikipedia.org/wiki/전국노래자랑" title="wikilink">전국노래자랑</a> 30년 인기상 총출동!<br />
+<td><p>1. 팔도명물 다 모였다! <a href="../Page/전국노래자랑.md" title="wikilink">전국노래자랑</a> 30년 인기상 총출동!<br />
 2. 세상에 저런 직업이? 위험천만! 중국 직업의 세계!<br />
 3. 돈 벌어 드립니다! 성공 비법 전수기!<br />
 4. 전국이 들썩! 한가위 대목을 잡아라</p></td>
@@ -4866,7 +4866,7 @@
 <tr class="odd">
 <td><p>536</p></td>
 <td><p>9월 24일</p></td>
-<td><p>1. 김대리, 운전해~ 연 3조 시장! <a href="https://ko.wikipedia.org/wiki/대리" title="wikilink">대리</a><a href="https://ko.wikipedia.org/wiki/운전" title="wikilink">운전</a> 천태만상<br />
+<td><p>1. 김대리, 운전해~ 연 3조 시장! <a href="../Page/대리.md" title="wikilink">대리</a><a href="https://ko.wikipedia.org/wiki/운전" title="wikilink">운전</a> 천태만상<br />
 2. 초가을 입맛 사냥! 뚝배기 요리 납시오~<br />
 3. 백년만의 길일! 2010 중국결혼시장 진풍경<br />
 4. 손 하나로 대박! 돈 되는 수제의 세계</p></td>
@@ -4875,7 +4875,7 @@
 <tr class="even">
 <td><p>537</p></td>
 <td><p>10월 1일</p></td>
-<td><p>1. 맛의 연금술사! 스타 <a href="https://ko.wikipedia.org/wiki/셰프" title="wikilink">셰프</a> 전성시대<br />
+<td><p>1. 맛의 연금술사! 스타 <a href="../Page/셰프.md" title="wikilink">셰프</a> 전성시대<br />
 2. 新 관광 일번지 종로가 뜬다!<br />
 3. 새 것 줄게~ 헌 것 다오~ 수선 명가의 비밀<br />
 4. 날개를 달아라! 하늘의 꽃, 스튜어디스 도전기</p></td>
@@ -4884,7 +4884,7 @@
 <tr class="odd">
 <td><p>538</p></td>
 <td><p>10월 8일</p></td>
-<td><p>1. 의료 관광의 메카! <a href="https://ko.wikipedia.org/wiki/태국" title="wikilink">태국</a>을 가다!<br />
+<td><p>1. 의료 관광의 메카! <a href="../Page/태국.md" title="wikilink">태국</a>을 가다!<br />
 2. 뜯어보면 알거야~ 천하제일 갈비 납시오<br />
 3. 안 보면 후회하리~가을 비경 5선 전격 공개!<br />
 4. 노래 없인 못살아! 노래 愛 빠진 대한민국!</p></td>
@@ -4902,7 +4902,7 @@
 <tr class="odd">
 <td><p>540</p></td>
 <td><p>10월 22일</p></td>
-<td><p>1. 꿈꾸는 미인 공화국! <a href="https://ko.wikipedia.org/wiki/모델" title="wikilink">모델</a>의 <a href="https://ko.wikipedia.org/wiki/도시" title="wikilink">도시</a>, <a href="https://ko.wikipedia.org/wiki/메데진" title="wikilink">메데진</a><br />
+<td><p>1. 꿈꾸는 미인 공화국! <a href="https://ko.wikipedia.org/wiki/모델" title="wikilink">모델</a>의 <a href="../Page/도시.md" title="wikilink">도시</a>, <a href="https://ko.wikipedia.org/wiki/메데진" title="wikilink">메데진</a><br />
 2. 천하일米! 최고의 밥상 대령이요~<br />
 3. 황홀한 제주의 밤! 제주 이색 숙소 전격공개<br />
 4. 그녀들을 유혹하라~ 여대 앞 불패 신화</p></td>
@@ -4911,7 +4911,7 @@
 <tr class="even">
 <td><p>541</p></td>
 <td><p>10월 29일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/쌍둥이" title="wikilink">쌍둥이</a> 스타 성공기!<br />
+<td><p>1. <a href="../Page/쌍둥이.md" title="wikilink">쌍둥이</a> 스타 성공기!<br />
 2. 사생결단! 한국어 고시를 넘어라<br />
 3. 목숨 걸고 지킨다! 오래된 가게의 비밀!<br />
 4. 남성들이여, 고개를 들어라! 중년 마케팅</p></td>
@@ -4920,7 +4920,7 @@
 <tr class="odd">
 <td><p>542</p></td>
 <td><p>11월 5일</p></td>
-<td><p>1. 너 없인 못살아 이색 <a href="https://ko.wikipedia.org/wiki/김치" title="wikilink">김치</a>요리 납시오<br />
+<td><p>1. 너 없인 못살아 이색 <a href="../Page/김치.md" title="wikilink">김치</a>요리 납시오<br />
 2. 사생결단! 한국어 고시를 넘어라<br />
 3. 목숨 걸고 지킨다! 오래된 가게의 비밀!<br />
 4. 남성들이여, 고개를 들어라! 중년 마케팅</p></td>
@@ -4938,7 +4938,7 @@
 <tr class="odd">
 <td><p>544</p></td>
 <td><p>12월 3일</p></td>
-<td><p>1. 밀착 취재 120시간! <a href="https://ko.wikipedia.org/wiki/연평도" title="wikilink">연평도</a> 피격 그 후<br />
+<td><p>1. 밀착 취재 120시간! <a href="../Page/연평도.md" title="wikilink">연평도</a> 피격 그 후<br />
 2. 인도네시아 미지의 섬! 초대형 참치잡이!<br />
 3. 제발 멈추고 싶어요, 틱 장애</p></td>
 <td></td>
@@ -4989,7 +4989,7 @@
 <tr class="odd">
 <td><p>548</p></td>
 <td><p>1월 7일</p></td>
-<td><p>1. 한 <a href="https://ko.wikipedia.org/wiki/여름" title="wikilink">여름</a> <a href="https://ko.wikipedia.org/wiki/밤_(시간)" title="wikilink">밤의</a> <a href="https://ko.wikipedia.org/wiki/파라다이스" title="wikilink">파라다이스</a>! <a href="https://ko.wikipedia.org/wiki/호주" title="wikilink">호주</a> 이색 신년맞이<br />
+<td><p>1. 한 <a href="../Page/여름.md" title="wikilink">여름</a> <a href="https://ko.wikipedia.org/wiki/밤_(시간)" title="wikilink">밤의</a> <a href="https://ko.wikipedia.org/wiki/파라다이스" title="wikilink">파라다이스</a>! <a href="https://ko.wikipedia.org/wiki/호주" title="wikilink">호주</a> 이색 신년맞이<br />
 2. 꿩 먹고 알 먹고 실속만점 겨울여행<br />
 3. 적색경보! 밀수와의 전쟁<br />
 4. 불가능은 없다! 2011 희망보고서</p></td>
@@ -4998,7 +4998,7 @@
 <tr class="even">
 <td><p>549</p></td>
 <td><p>1월 21일</p></td>
-<td><p>1. 아이디어가 <a href="https://ko.wikipedia.org/wiki/돈" title="wikilink">돈</a>! 대박 <a href="https://ko.wikipedia.org/wiki/가게" title="wikilink">가게</a>의 <a href="https://ko.wikipedia.org/wiki/비밀" title="wikilink">비밀</a><br />
+<td><p>1. 아이디어가 <a href="../Page/돈.md" title="wikilink">돈</a>! 대박 <a href="https://ko.wikipedia.org/wiki/가게" title="wikilink">가게</a>의 <a href="https://ko.wikipedia.org/wiki/비밀" title="wikilink">비밀</a><br />
 2. 공부의 神! 영재의 방학나기 비법공개<br />
 3. 홍콩의 밤엔 특별한 게 있다!<br />
 4. 색(色)다르게 보지 말아요! 혼혈인 성공신화</p></td>
@@ -5007,7 +5007,7 @@
 <tr class="odd">
 <td><p>550</p></td>
 <td><p>1월 28일</p></td>
-<td><p>1. 오천만의 <a href="https://ko.wikipedia.org/wiki/명절" title="wikilink">명절</a>! <a href="https://ko.wikipedia.org/wiki/설날" title="wikilink">설날</a> 황금 대목을 잡아라!<br />
+<td><p>1. 오천만의 <a href="https://ko.wikipedia.org/wiki/명절" title="wikilink">명절</a>! <a href="../Page/설날.md" title="wikilink">설날</a> 황금 대목을 잡아라!<br />
 2. 13억을 사로잡은 중국 요리 재벌<br />
 3. 30년 만의 강추위! 기상천외 한파 극복기<br />
 4. 널 위해 목숨 건다! 딸 바보 아빠 전성시대</p></td>
@@ -5016,7 +5016,7 @@
 <tr class="even">
 <td><p>551</p></td>
 <td><p>2월 4일</p></td>
-<td><p>1. 불로초도 안 부럽다! 웰빙 <a href="https://ko.wikipedia.org/wiki/건강" title="wikilink">건강</a> 보감!<br />
+<td><p>1. 불로초도 안 부럽다! 웰빙 <a href="../Page/건강.md" title="wikilink">건강</a> 보감!<br />
 2. 요란법석! 제주도 이사 대소동<br />
 3. 새로워야 뜬다! 2011. 新 돈벌이<br />
 4. 남녀가 뒤바뀐 별난 세상! 중국 모계 부족을 가다</p></td>
@@ -5025,7 +5025,7 @@
 <tr class="odd">
 <td><p>552</p></td>
 <td><p>2월 11일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/돈" title="wikilink">돈</a> 버는 천국! <a href="https://ko.wikipedia.org/wiki/발리섬" title="wikilink">발리</a> <a href="https://ko.wikipedia.org/wiki/리조트" title="wikilink">리조트</a> 산업 大해부<br />
+<td><p>1. <a href="../Page/돈.md" title="wikilink">돈</a> 버는 천국! <a href="../Page/발리섬.md" title="wikilink">발리</a> <a href="https://ko.wikipedia.org/wiki/리조트" title="wikilink">리조트</a> 산업 大해부<br />
 2. 新 흥행비법! 매출의 비밀을 밝혀라<br />
 3. 氣차게 떠나자! 명품 기차 여행<br />
 4. 달콤한 유혹! 초콜릿의 모든 것</p></td>
@@ -5043,7 +5043,7 @@
 <tr class="odd">
 <td><p>554</p></td>
 <td><p>2월 25일</p></td>
-<td><p>1. 세상에 이런 곳이? 기상천외! <a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a> 별난 가게<br />
+<td><p>1. 세상에 이런 곳이? 기상천외! <a href="../Page/일본.md" title="wikilink">일본</a> 별난 가게<br />
 2.적색경보! 오피스텔이 수상하다?<br />
 3.제철, 입맛사냥! 봄 별미 기행<br />
 4.당신이 여왕! 新 여성 전용공간이 뜬다!</p></td>
@@ -5052,7 +5052,7 @@
 <tr class="even">
 <td><p>555</p></td>
 <td><p>3월 4일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/동양" title="wikilink">동양</a>의 <a href="https://ko.wikipedia.org/wiki/하와이" title="wikilink">하와이</a>! <a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a> <a href="https://ko.wikipedia.org/wiki/하이난" title="wikilink">하이난</a> 大탐험<br />
+<td><p>1. <a href="../Page/동양.md" title="wikilink">동양</a>의 <a href="https://ko.wikipedia.org/wiki/하와이" title="wikilink">하와이</a>! <a href="../Page/중국.md" title="wikilink">중국</a> <a href="https://ko.wikipedia.org/wiki/하이난" title="wikilink">하이난</a> 大탐험<br />
 2. 흥행 불패! 글로벌 명가의 비밀<br />
 3. 천연 보약, 된장의 힘!<br />
 4. 春삼월 황금 몸매가 뜬다!</p></td>
@@ -5061,7 +5061,7 @@
 <tr class="odd">
 <td><p>556</p></td>
 <td><p>3월 11일</p></td>
-<td><p>1. 세시봉 열풍! <a href="https://ko.wikipedia.org/wiki/콘서트_7080" title="wikilink">7080</a> 추억이 뜬다!<br />
+<td><p>1. 세시봉 열풍! <a href="../Page/콘서트_7080.md" title="wikilink">7080</a> 추억이 뜬다!<br />
 2. 환상의 눈꽃 여행! 캐나다 퀘벡<br />
 3. 영화 속 숨은 주인공! 레디 액션!<br />
 4. 떡잎부터 남다르게! 2011 별별 교육법</p></td>
@@ -5070,7 +5070,7 @@
 <tr class="even">
 <td><p>557</p></td>
 <td><p>3월 18일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/동일본_대지진" title="wikilink">3.11 대지진</a> 그후, <a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a>을 가다!<br />
+<td><p>1. <a href="https://ko.wikipedia.org/wiki/동일본_대지진" title="wikilink">3.11 대지진</a> 그후, <a href="../Page/일본.md" title="wikilink">일본</a>을 가다!<br />
 2. 인생이모작, 퇴직자 돈벌이 열전<br />
 3. 춘삼월 전세 대란! 방 있습니까?<br />
 4. 비수기 생존전략! 다 퍼드립니다~</p></td>
@@ -5088,7 +5088,7 @@
 <tr class="even">
 <td><p>559</p></td>
 <td><p>4월 1일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/인도양" title="wikilink">인도양</a>의 보석! 지상낙원 <a href="https://ko.wikipedia.org/wiki/몰디브" title="wikilink">몰디브</a><br />
+<td><p>1. <a href="../Page/인도양.md" title="wikilink">인도양</a>의 보석! 지상낙원 <a href="../Page/몰디브.md" title="wikilink">몰디브</a><br />
 2. 초록의 계절~ 春 그린 마케팅 열풍<br />
 3. 한다면 한다! 위기극복 大 작전!<br />
 4. 봄 愛 빠지다! 남도 꽃길 여행</p></td>
@@ -5106,7 +5106,7 @@
 <tr class="even">
 <td><p>561</p></td>
 <td><p>4월 15일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/지중해" title="wikilink">지중해</a> 특급 호텔! 크루즈에서 생긴 일<br />
+<td><p>1. <a href="../Page/지중해.md" title="wikilink">지중해</a> 특급 호텔! 크루즈에서 생긴 일<br />
 2. 2011 쇼핑관광이 뜬다!<br />
 3. 맛의 대가! 외국인 주방장 전성시대<br />
 4. 백색 황금! 소금 재발견</p></td>
@@ -5115,7 +5115,7 @@
 <tr class="odd">
 <td><p>562</p></td>
 <td><p>4월 22일</p></td>
-<td><p>1. 기운아 솟아라! <a href="https://ko.wikipedia.org/wiki/봄" title="wikilink">봄</a>철 氣찬 별미<br />
+<td><p>1. 기운아 솟아라! <a href="../Page/봄.md" title="wikilink">봄</a>철 氣찬 별미<br />
 2. 인생 2막! 베트남 재혼 원정기!<br />
 3. 오천만의 메뉴! 무한변신 돈가스 열전<br />
 4. 팔색조의 매력! 캐나다 로키 大탐험</p></td>
@@ -5133,7 +5133,7 @@
 <tr class="odd">
 <td><p>564</p></td>
 <td><p>5월 6일</p></td>
-<td><p>1. 세기의 <a href="https://ko.wikipedia.org/wiki/결혼식" title="wikilink">결혼식</a>! <a href="https://ko.wikipedia.org/wiki/영국" title="wikilink">영국</a> 윌리엄 왕자 장가가던 날<br />
+<td><p>1. 세기의 <a href="../Page/결혼식.md" title="wikilink">결혼식</a>! <a href="../Page/영국.md" title="wikilink">영국</a> 윌리엄 왕자 장가가던 날<br />
 2. 오천만의 별미! 짬뽕 재발견<br />
 3. 황홀한 하룻밤! 이색숙소 X-파일<br />
 4. 불황 무풍지대! 안산 원곡동 24時</p></td>
@@ -5149,7 +5149,7 @@
 <tr class="odd">
 <td><p>566</p></td>
 <td><p>5월 20일</p></td>
-<td><p>1. 전격공개! <a href="https://ko.wikipedia.org/wiki/두바이" title="wikilink">두바이</a> 황금 시장을 아십니까?<br />
+<td><p>1. 전격공개! <a href="../Page/두바이.md" title="wikilink">두바이</a> 황금 시장을 아십니까?<br />
 2. 40대의 반란? 별난 부업 이야기<br />
 3. 대중 요리로 귀환! 스테이크 재발견<br />
 4. 무한 서비스 경쟁! 대한민국 호텔 大 해부</p></td>
@@ -5176,7 +5176,7 @@
 <tr class="even">
 <td><p>569</p></td>
 <td><p>6월 10일</p></td>
-<td><p>1. 떼인 돈을 받아드립니다! 전국 숨은 <a href="https://ko.wikipedia.org/wiki/돈" title="wikilink">돈</a> 찾기 대소동!<br />
+<td><p>1. 떼인 돈을 받아드립니다! 전국 숨은 <a href="../Page/돈.md" title="wikilink">돈</a> 찾기 대소동!<br />
 2. 6월이 뜨겁다! 초여름 밤 마케팅<br />
 3. 13억 중국인을 사로잡다? 중국 대박 사업<br />
 4. 자리부터 남다르다! 별난 가게 열전</p></td>
@@ -5185,7 +5185,7 @@
 <tr class="odd">
 <td><p>570</p></td>
 <td><p>6월 17일</p></td>
-<td><p>1. 최초 공개! <a href="https://ko.wikipedia.org/wiki/인도네시아" title="wikilink">인도네시아</a> 가일족을 만나다<br />
+<td><p>1. 최초 공개! <a href="../Page/인도네시아.md" title="wikilink">인도네시아</a> 가일족을 만나다<br />
 2. 국민간식! 떡볶이 전성시대<br />
 3. 최고의 밴드를 찾아라! <톱밴드>오디션 24時<br />
 4. “메이드 인 코리아” 지구촌 점령기</p></td>
@@ -5212,7 +5212,7 @@
 <tr class="even">
 <td><p>573</p></td>
 <td><p>7월 8일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/여름" title="wikilink">여름</a>보다 뜨겁다! 팔도 골목 전쟁<br />
+<td><p>1. <a href="../Page/여름.md" title="wikilink">여름</a>보다 뜨겁다! 팔도 골목 전쟁<br />
 2. 나도 가수다! 외국인 무명 가수의 세계<br />
 3. 대한민국 베스트셀러!‘세간’재발견<br />
 4. 氣차게 번다! 베트남 대박 가게의 비밀</p></td>
@@ -5230,7 +5230,7 @@
 <tr class="even">
 <td><p>575</p></td>
 <td><p>7월 22일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a>에 이런 곳이? 新 무릉도원 열전<br />
+<td><p>1. <a href="../Page/대한민국.md" title="wikilink">대한민국</a>에 이런 곳이? 新 무릉도원 열전<br />
 2. 자린고비가 돼라! 직장인 점심 新풍속도<br />
 3. 휴양 천국! 멕시코 ‘칸쿤’을 아십니까?<br />
 4. 세태보고 10대 부모 이야기</p></td>
@@ -5248,7 +5248,7 @@
 <tr class="even">
 <td><p>577</p></td>
 <td><p>8월 5일</p></td>
-<td><p>1. 더위사냥! <a href="https://ko.wikipedia.org/wiki/HOT" title="wikilink">HOT</a> <a href="https://ko.wikipedia.org/wiki/여름" title="wikilink">여름</a>을 팝니다<br />
+<td><p>1. 더위사냥! <a href="https://ko.wikipedia.org/wiki/HOT" title="wikilink">HOT</a> <a href="../Page/여름.md" title="wikilink">여름</a>을 팝니다<br />
 2. 굿바이 아파트 우리는 개성파 집에 산다!<br />
 3. 13억 중국인이 반한 맛! ‘롱샤’<br />
 4. 여름을 新나게 즐겨라! 이색 캠프 열전</p></td>
@@ -5257,7 +5257,7 @@
 <tr class="odd">
 <td><p>578</p></td>
 <td><p>8월 12일</p></td>
-<td><p>1. 新 <a href="https://ko.wikipedia.org/wiki/여름" title="wikilink">여름</a> 피서특구, 초록 <a href="https://ko.wikipedia.org/wiki/숲" title="wikilink">숲</a>이 뜬다!<br />
+<td><p>1. 新 <a href="../Page/여름.md" title="wikilink">여름</a> 피서특구, 초록 <a href="../Page/숲.md" title="wikilink">숲</a>이 뜬다!<br />
 2. 돈을 부르는 손, 핸드메이드 열전<br />
 3. 마야문명과 휴양지의 꽃! ‘칸쿤’<br />
 4. 여름밤이 즐겁다! 대한민국 별별 야시장</p></td>
@@ -5275,7 +5275,7 @@
 <tr class="odd">
 <td><p>580</p></td>
 <td><p>8월 26일</p></td>
-<td><p>1. 현장보고! <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a>은 물가 대란 중<br />
+<td><p>1. 현장보고! <a href="../Page/대한민국.md" title="wikilink">대한민국</a>은 물가 대란 중<br />
 2. 동양의 할로윈! 타이완 ‘귀신의 달’을 가다<br />
 3. 산중 명물! 新 방외지사 이야기<br />
 4. 대한민국! 커피 愛 빠지다</p></td>
@@ -5308,7 +5308,7 @@
 <tr class="odd">
 <td><p>584</p></td>
 <td><p>9월 23일</p></td>
-<td><p>1. 털어야 산다! <a href="https://ko.wikipedia.org/wiki/가을" title="wikilink">가을</a>맞이 떨이 전쟁!<br />
+<td><p>1. 털어야 산다! <a href="../Page/가을.md" title="wikilink">가을</a>맞이 떨이 전쟁!<br />
 2. 찬바람 불면 끌린다~ 육수의 비밀<br />
 3. 2011 전세대란 新풍속도<br />
 4. 팔색조 매력 모리셔스 이색산업 大해부</p></td>
@@ -5332,7 +5332,7 @@
 <tr class="even">
 <td><p>587</p></td>
 <td><p>10월 14일</p></td>
-<td><p>1. 2011 명품에 빠진 <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a><br />
+<td><p>1. 2011 명품에 빠진 <a href="../Page/대한민국.md" title="wikilink">대한민국</a><br />
 2. 미각을 깨워라 가을 별미 총집합!<br />
 3. 뭐든지 배운다! 돈벌이 기술 열전<br />
 4. 튀어야 산다! 태국 이색 마케팅</p></td>
@@ -5342,7 +5342,7 @@
 <td><p>588</p></td>
 <td><p>10월 21일</p></td>
 <td><p>1. 실태 보고! 음란물과의 전쟁<br />
-2. 국민 밥도둑, <a href="https://ko.wikipedia.org/wiki/게" title="wikilink">게</a> 요리 대령이오<br />
+2. 국민 밥도둑, <a href="../Page/게.md" title="wikilink">게</a> 요리 대령이오<br />
 3. 실속 있게 떠나라! 게스트하우스 전성시대<br />
 4.상위 1%를 잡아라! 중국 부자 마케팅</p></td>
 <td></td>
@@ -5377,7 +5377,7 @@
 <tr class="odd">
 <td><p>592</p></td>
 <td><p>11월 18일</p></td>
-<td><p>1. 당신도 표적이 될 수 있다! <a href="https://ko.wikipedia.org/wiki/묻지마_범죄" title="wikilink">묻지마 범죄</a><br />
+<td><p>1. 당신도 표적이 될 수 있다! <a href="../Page/묻지마_범죄.md" title="wikilink">묻지마 범죄</a><br />
 2. 일품 진미! 매운탕의 뜨끈한 유혹<br />
 3. <연속기획> 아이디어가 돈! - 주부 창업성공기! 별★주부전<br />
 4. 세상에 이런 직업이?! 인도네시아의 틈새 직업</p></td>
@@ -5447,7 +5447,7 @@
 <tr class="odd">
 <td><p>598</p></td>
 <td><p>1월 6일</p></td>
-<td><p>1. 찾아라! <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> 氣찬 명당!<br />
+<td><p>1. 찾아라! <a href="../Page/대한민국.md" title="wikilink">대한민국</a> 氣찬 명당!<br />
 2. 2012 용~한 맛! 해맞이 미각 여행<br />
 3. 엄동설한, 대한민국 일등 일꾼들<br />
 4.지구 최남단, 우수아시아를 아십니까?</p></td>
@@ -5456,7 +5456,7 @@
 <tr class="even">
 <td><p>599</p></td>
 <td><p>1월 13일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/학교_폭력" title="wikilink">학교 폭력</a> 비상! <a href="https://ko.wikipedia.org/wiki/아이들" title="wikilink">아이들</a>이 울고 있다<br />
+<td><p>1. <a href="../Page/학교_폭력.md" title="wikilink">학교 폭력</a> 비상! <a href="https://ko.wikipedia.org/wiki/아이들" title="wikilink">아이들</a>이 울고 있다<br />
 2. 추울수록 당긴다! 국밥의 뜨끈한 유혹<br />
 3. 기회의 땅! 아프리카 케냐 한인 개척기<br />
 4. 동장군아 물렀거라~ 겨울 별천지 열전</p></td>
@@ -5474,7 +5474,7 @@
 <tr class="even">
 <td><p>601</p></td>
 <td><p>1월 27일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/유치원" title="wikilink">유치원</a> 입학 별 따기! <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> 유아 교육 전쟁<br />
+<td><p>1. <a href="../Page/유치원.md" title="wikilink">유치원</a> 입학 별 따기! <a href="../Page/대한민국.md" title="wikilink">대한민국</a> 유아 교육 전쟁<br />
 2. 겨울이 ‘찜’한 맛! 찜 요리 열전<br />
 3. 안 되면 되게 하라! 특전사 혹한 생존기!<br />
 4. 추위를 이겨라! 영하 20도 하얼빈의 겨울나기</p></td>
@@ -5483,7 +5483,7 @@
 <tr class="odd">
 <td><p>602</p></td>
 <td><p>2월 3일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/돈" title="wikilink">돈</a> 필요하십니까? 급전의 <a href="https://ko.wikipedia.org/wiki/세계" title="wikilink">세계</a><br />
+<td><p>1. <a href="../Page/돈.md" title="wikilink">돈</a> 필요하십니까? 급전의 <a href="../Page/세계.md" title="wikilink">세계</a><br />
 2. 길 위의 레스토랑이 뜬다! 이동 맛집 열전<br />
 3. 2012 일본 점술 시장 大해부<br />
 4. 젊음이 밑천! 청춘불패~ 열혈 청년 장사꾼</p></td>
@@ -5501,7 +5501,7 @@
 <tr class="odd">
 <td><p>604</p></td>
 <td><p>2월 17일</p></td>
-<td><p>1. 10m <a href="https://ko.wikipedia.org/wiki/눈" title="wikilink">눈</a> 폭탄! <a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a>, <a href="https://ko.wikipedia.org/wiki/눈" title="wikilink">눈</a>과의 <a href="https://ko.wikipedia.org/wiki/전쟁" title="wikilink">전쟁</a><br />
+<td><p>1. 10m <a href="https://ko.wikipedia.org/wiki/눈" title="wikilink">눈</a> 폭탄! <a href="../Page/일본.md" title="wikilink">일본</a>, <a href="https://ko.wikipedia.org/wiki/눈" title="wikilink">눈</a>과의 <a href="../Page/전쟁.md" title="wikilink">전쟁</a><br />
 2. 그 속이 궁금하다! 속 찬 별미 총집합<br />
 3. 폐장부터 개장까지, 시크릿 현장 大 공개!<br />
 4. 금녀의 벽을 깨라! 위풍당당, 여풍이 분다~</p></td>
@@ -5528,7 +5528,7 @@
 <tr class="even">
 <td><p>607</p></td>
 <td><p>3월 9일</p></td>
-<td><p>1. 화 못 참는 사회, <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a>은 지금 분노 중?!<br />
+<td><p>1. 화 못 참는 사회, <a href="../Page/대한민국.md" title="wikilink">대한민국</a>은 지금 분노 중?!<br />
 2. 깊은 맛으로 승부를 건다! 숙성요리 재발견<br />
 3. 우리 농산물로 대박을 꿈꾼다! 귀농 청년 백서<br />
 4. 열흘간의 특수! 740년, 베네치아 카니발</p></td>
@@ -5537,7 +5537,7 @@
 <tr class="odd">
 <td><p>608</p></td>
 <td><p>3월 16일</p></td>
-<td><p>1. 지금이 딱! 국민메뉴 <a href="https://ko.wikipedia.org/wiki/김치" title="wikilink">김치</a>의 무한 변신<br />
+<td><p>1. 지금이 딱! 국민메뉴 <a href="../Page/김치.md" title="wikilink">김치</a>의 무한 변신<br />
 2. 대박을 위한 전쟁! 기상천외 개발팀 24時<br />
 3. 목숨 걸고 간다! 화산의 도시 인도네시아‘브로모’<br />
 4. 젊음이여, 도전하라! 열혈청년 장사꾼 이색 도전기</p></td>
@@ -5555,7 +5555,7 @@
 <tr class="odd">
 <td><p>610</p></td>
 <td><p>3월 30일</p></td>
-<td><p>1. 먹고 살기 어려워서.. 생계형 <a href="https://ko.wikipedia.org/wiki/범죄" title="wikilink">범죄</a>의 유혹<br />
+<td><p>1. 먹고 살기 어려워서.. 생계형 <a href="../Page/범죄.md" title="wikilink">범죄</a>의 유혹<br />
 2. 봄이라 행복해(海)요! 봄 바다 별미 대탐험<br />
 3. 웃겨야 사는 사람들! 개그 전성시대<br />
 4. 패션으로 통(通)하는 나라! 이탈리아</p></td>
@@ -5564,7 +5564,7 @@
 <tr class="even">
 <td><p>611</p></td>
 <td><p>4월 6일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/미각" title="wikilink">미각</a>을 깨워라! 싱싱 별미 총집합<br />
+<td><p>1. <a href="../Page/미각.md" title="wikilink">미각</a>을 깨워라! 싱싱 별미 총집합<br />
 2. 숨은 돈을 찾아라! 2012 자린고비 新풍속도<br />
 3. 뭉쳐야 산다! 베이징 특화 거리 大탐방<br />
 4. 상춘객을 모셔라! 봄 축제 손님맞이 대소동</p></td>
@@ -5582,7 +5582,7 @@
 <tr class="even">
 <td><p>613</p></td>
 <td><p>4월 20일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/봄" title="wikilink">봄</a>에 취하고~ 맛에 반하다! <a href="https://ko.wikipedia.org/wiki/가족" title="wikilink">가족</a> 愛 만찬<br />
+<td><p>1. <a href="../Page/봄.md" title="wikilink">봄</a>에 취하고~ 맛에 반하다! <a href="../Page/가족.md" title="wikilink">가족</a> 愛 만찬<br />
 2. 2012 대한민국에서 결혼하기<br />
 3. 4월, 태국의 별난 새해맞이! 송끄란 축제<br />
 4. 재미없는 운동은 가라~ 2012 새로운 운동이 뜬다</p></td>
@@ -5600,7 +5600,7 @@
 <tr class="even">
 <td><p>615</p></td>
 <td><p>5월 4일</p></td>
-<td><p>1. 맛있는 5월! 띵호와 <a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a> <a href="https://ko.wikipedia.org/wiki/요리" title="wikilink">요리</a>의 <a href="https://ko.wikipedia.org/wiki/세계" title="wikilink">세계</a><br />
+<td><p>1. 맛있는 5월! 띵호와 <a href="../Page/중국.md" title="wikilink">중국</a> <a href="../Page/요리.md" title="wikilink">요리</a>의 <a href="../Page/세계.md" title="wikilink">세계</a><br />
 2. 특별한 1박2일! 캠핑의 모든 것<br />
 3. 시간이 멈춘 땅! 미얀마에 가다<br />
 4. 나도 챔피언?! 별난 대회 총집합</p></td>
@@ -5618,7 +5618,7 @@
 <tr class="even">
 <td><p>617</p></td>
 <td><p>5월 18일</p></td>
-<td><p>1. 5천만 국민 별미 <a href="https://ko.wikipedia.org/wiki/팔도" title="wikilink">팔도</a> <a href="https://ko.wikipedia.org/wiki/국수" title="wikilink">국수</a> 총집합<br />
+<td><p>1. 5천만 국민 별미 <a href="../Page/팔도.md" title="wikilink">팔도</a> <a href="../Page/국수.md" title="wikilink">국수</a> 총집합<br />
 2. 말 한마디가 천 냥! 2012 강연 전성시대<br />
 3. 불황은 없다! 재래시장 대박집의 비밀<br />
 4. 필리핀 마지막 낙원, 팔라완 이색지대 大공개</p></td>
@@ -5644,7 +5644,7 @@
 <tr class="odd">
 <td><p>620</p></td>
 <td><p>6월 8일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/외국인" title="wikilink">외국인</a>도 반한 맛! 팔도 <a href="https://ko.wikipedia.org/wiki/불고기" title="wikilink">불고기</a> 총집합<br />
+<td><p>1. <a href="../Page/외국인.md" title="wikilink">외국인</a>도 반한 맛! 팔도 <a href="../Page/불고기.md" title="wikilink">불고기</a> 총집합<br />
 2.대박 명당을 잡아라! 노량진 수산시장 이사 대소동<br />
 3.인생 올인! 별별 수집의 세계<br />
 4.빙하의 땅 ‘알래스카’를 가다</p></td>
@@ -5680,7 +5680,7 @@
 <tr class="odd">
 <td><p>624</p></td>
 <td><p>7월 6일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/여름" title="wikilink">여름</a> 대표 별미! 팔도 <a href="https://ko.wikipedia.org/wiki/냉면" title="wikilink">냉면</a> 열전<br />
+<td><p>1. <a href="../Page/여름.md" title="wikilink">여름</a> 대표 별미! 팔도 <a href="../Page/냉면.md" title="wikilink">냉면</a> 열전<br />
 2. 2012 직장인 건강 사수 대작전<br />
 3. 동양의 작은 유럽! 태국 끄라비<br />
 4. 여름 하늘이 수상하다?! 날씨 때문에 생긴 일</p></td>
@@ -5698,7 +5698,7 @@
 <tr class="odd">
 <td><p>626</p></td>
 <td><p>7월 27일</p></td>
-<td><p>2. <a href="https://ko.wikipedia.org/wiki/장어" title="wikilink">장어</a>의 氣찬 변신! 원기충전 <a href="https://ko.wikipedia.org/wiki/장어" title="wikilink">장어</a>요리 총집합<br />
+<td><p>2. <a href="../Page/장어.md" title="wikilink">장어</a>의 氣찬 변신! 원기충전 <a href="../Page/장어.md" title="wikilink">장어</a>요리 총집합<br />
 2.공짜라 즐겁다! 별별 공짜 大공개<br />
 3.대한민국 1% 이색 직업의 세계<br />
 4.구석구석 누벼라! 런던 명물시장 大탐험</p></td>
@@ -5707,7 +5707,7 @@
 <tr class="even">
 <td><p>627</p></td>
 <td><p>8월 17일</p></td>
-<td><p>3. <a href="https://ko.wikipedia.org/wiki/건강" title="wikilink">건강</a>한 <a href="https://ko.wikipedia.org/wiki/맛" title="wikilink">맛</a>! 시골 밥상 대령이오<br />
+<td><p>3. <a href="../Page/건강.md" title="wikilink">건강</a>한 <a href="https://ko.wikipedia.org/wiki/맛" title="wikilink">맛</a>! 시골 밥상 대령이오<br />
 2.5천만이 들썩! 공개방송 하는 날<br />
 3.글로벌 동거시대! 외국인 마을 24時<br />
 4.맥주의 도시! 중국, 청도를 가다</p></td>
@@ -5716,7 +5716,7 @@
 <tr class="odd">
 <td><p>628</p></td>
 <td><p>8월 24일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/바다" title="wikilink">바다</a>의 기를 맛보다! 천하일품 보양식 전복<br />
+<td><p>1. <a href="../Page/바다.md" title="wikilink">바다</a>의 기를 맛보다! 천하일품 보양식 전복<br />
 2. 한 치의 틈도 NO! 틈새를 공략하라!<br />
 3. 키르기스스탄의 특별한 명절나기<br />
 4. 지금은 힐링이 대세! 힐링 홀릭 대한민국</p></td>
@@ -5725,7 +5725,7 @@
 <tr class="even">
 <td><p>629</p></td>
 <td><p>8월 31일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/태풍" title="wikilink">태풍</a> ‘<a href="https://ko.wikipedia.org/wiki/태풍_볼라벤_(2012년)" title="wikilink">볼라벤</a>’ 그 후<br />
+<td><p>1. <a href="https://ko.wikipedia.org/wiki/태풍" title="wikilink">태풍</a> ‘<a href="../Page/태풍_볼라벤_(2012년).md" title="wikilink">볼라벤</a>’ 그 후<br />
 2. 한 치의 틈도 NO! 틈새를 공략하라!<br />
 3. 키르기스스탄의 특별한 명절나기<br />
 4. 지금은 힐링이 대세! 힐링 홀릭 대한민국</p></td>
@@ -5734,7 +5734,7 @@
 <tr class="odd">
 <td><p>630</p></td>
 <td><p>9월 7일</p></td>
-<td><p>1. 이름값한다! 국민 밥도둑 <a href="https://ko.wikipedia.org/wiki/꽃게" title="wikilink">꽃게</a><br />
+<td><p>1. 이름값한다! 국민 밥도둑 <a href="../Page/꽃게.md" title="wikilink">꽃게</a><br />
 2. 오천만의 맛있는 아지트, 매점 X파일<br />
 3. 고소한 유혹! 프랑스 빵의 비밀<br />
 4. 전격공개! 내 남편의 이중생활</p></td>
@@ -5743,7 +5743,7 @@
 <tr class="even">
 <td><p>631</p></td>
 <td><p>9월 14일</p></td>
-<td><p>1. 국민<a href="https://ko.wikipedia.org/wiki/생선" title="wikilink">생선</a>이 돌아왔다! <a href="https://ko.wikipedia.org/wiki/고등어" title="wikilink">고등어</a>의 무한변신<br />
+<td><p>1. 국민<a href="../Page/생선.md" title="wikilink">생선</a>이 돌아왔다! <a href="https://ko.wikipedia.org/wiki/고등어" title="wikilink">고등어</a>의 무한변신<br />
 2. 대한민국 新 ‘남편 스타일’! 국민남편 따라잡기!<br />
 3. 야생 천국, 케냐의 재발견<br />
 4. 돈 쓰고 돈 번다?! 간장남녀를 아시나요?</p></td>
@@ -6362,7 +6362,7 @@
 <tr class="odd">
 <td><p>696</p></td>
 <td><p>1월 3일</p></td>
-<td><p>새해 복 많이 드세요! <a href="https://ko.wikipedia.org/wiki/팔도" title="wikilink">팔도</a> <a href="https://ko.wikipedia.org/wiki/복" title="wikilink">복</a> 요리 열전 외</p></td>
+<td><p>새해 복 많이 드세요! <a href="../Page/팔도.md" title="wikilink">팔도</a> <a href="https://ko.wikipedia.org/wiki/복" title="wikilink">복</a> 요리 열전 외</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -6374,7 +6374,7 @@
 <tr class="odd">
 <td><p>698</p></td>
 <td><p>1월 17일</p></td>
-<td><p>추울수록 당긴다! 얼큰한 유혹! <a href="https://ko.wikipedia.org/wiki/짬뽕" title="wikilink">짬뽕</a> 大탐방 외</p></td>
+<td><p>추울수록 당긴다! 얼큰한 유혹! <a href="../Page/짬뽕.md" title="wikilink">짬뽕</a> 大탐방 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -6392,31 +6392,31 @@
 <tr class="even">
 <td><p>701</p></td>
 <td><p>2월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/겨울" title="wikilink">겨울</a>을 녹인다! 끝내주는 국물 맛집 열전 외</p></td>
+<td><p><a href="../Page/겨울.md" title="wikilink">겨울</a>을 녹인다! 끝내주는 국물 맛집 열전 외</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>702</p></td>
 <td><p>2월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/속" title="wikilink">속</a>이 깊은 <a href="https://ko.wikipedia.org/wiki/맛" title="wikilink">맛</a>! <a href="https://ko.wikipedia.org/wiki/내장" title="wikilink">내장</a><a href="https://ko.wikipedia.org/wiki/요리" title="wikilink">요리</a> 열전 외</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/속" title="wikilink">속</a>이 깊은 <a href="https://ko.wikipedia.org/wiki/맛" title="wikilink">맛</a>! <a href="https://ko.wikipedia.org/wiki/내장" title="wikilink">내장</a><a href="../Page/요리.md" title="wikilink">요리</a> 열전 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
 <td><p>703</p></td>
 <td><p>3월 7일</p></td>
-<td><p>특별해서 더 맛있다~ <a href="https://ko.wikipedia.org/wiki/돼지" title="wikilink">돼지</a> 특수 부위 열전 외</p></td>
+<td><p>특별해서 더 맛있다~ <a href="../Page/돼지.md" title="wikilink">돼지</a> 특수 부위 열전 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
 <td><p>704</p></td>
 <td><p>3월 14일</p></td>
-<td><p>춘곤증을 잡아라! <a href="https://ko.wikipedia.org/wiki/봄" title="wikilink">봄</a> 진미 총출동 외</p></td>
+<td><p>춘곤증을 잡아라! <a href="../Page/봄.md" title="wikilink">봄</a> 진미 총출동 외</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>705</p></td>
 <td><p>3월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맛" title="wikilink">맛</a>의 풍미를 살렸다! 볶음 <a href="https://ko.wikipedia.org/wiki/요리" title="wikilink">요리</a>의 <a href="https://ko.wikipedia.org/wiki/세계" title="wikilink">세계</a> 외</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/맛" title="wikilink">맛</a>의 풍미를 살렸다! 볶음 <a href="../Page/요리.md" title="wikilink">요리</a>의 <a href="../Page/세계.md" title="wikilink">세계</a> 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
@@ -6428,7 +6428,7 @@
 <tr class="even">
 <td><p>707</p></td>
 <td><p>4월 11일</p></td>
-<td><p>지금이 딱! 밥도둑, <a href="https://ko.wikipedia.org/wiki/봄" title="wikilink">봄</a> 해산물 총출동 외</p></td>
+<td><p>지금이 딱! 밥도둑, <a href="../Page/봄.md" title="wikilink">봄</a> 해산물 총출동 외</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -6440,13 +6440,13 @@
 <tr class="even">
 <td><p>709</p></td>
 <td><p>4월 25일</p></td>
-<td><p>온정을 모으는 <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> 외</p></td>
+<td><p>온정을 모으는 <a href="../Page/대한민국.md" title="wikilink">대한민국</a> 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
 <td><p>710</p></td>
 <td><p>5월 2일</p></td>
-<td><p>뭉쳐야 산다! 대박 <a href="https://ko.wikipedia.org/wiki/가족" title="wikilink">가족</a> 비결 외</p></td>
+<td><p>뭉쳐야 산다! 대박 <a href="../Page/가족.md" title="wikilink">가족</a> 비결 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -6464,13 +6464,13 @@
 <tr class="even">
 <td><p>713</p></td>
 <td><p>5월 23일</p></td>
-<td><p>당신은 안전하십니까? <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> 안전 비상 경계령 외</p></td>
+<td><p>당신은 안전하십니까? <a href="../Page/대한민국.md" title="wikilink">대한민국</a> 안전 비상 경계령 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
 <td><p>714</p></td>
 <td><p>5월 30일</p></td>
-<td><p>후루룩 면발의 힘! 별별 <a href="https://ko.wikipedia.org/wiki/국수" title="wikilink">국수</a> 열전 외</p></td>
+<td><p>후루룩 면발의 힘! 별별 <a href="../Page/국수.md" title="wikilink">국수</a> 열전 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -6482,7 +6482,7 @@
 <tr class="odd">
 <td><p>716</p></td>
 <td><p>6월 13일</p></td>
-<td><p>원기 충전~ 유비무환! <a href="https://ko.wikipedia.org/wiki/여름" title="wikilink">여름</a> 보양 진미 외</p></td>
+<td><p>원기 충전~ 유비무환! <a href="../Page/여름.md" title="wikilink">여름</a> 보양 진미 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -6506,13 +6506,13 @@
 <tr class="odd">
 <td><p>720</p></td>
 <td><p>7월 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/여름" title="wikilink">여름</a> 보양 일등공신! 이색 <a href="https://ko.wikipedia.org/wiki/닭" title="wikilink">닭</a>요리 열전 외</p></td>
+<td><p><a href="../Page/여름.md" title="wikilink">여름</a> 보양 일등공신! 이색 <a href="../Page/닭.md" title="wikilink">닭</a>요리 열전 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
 <td><p>721</p></td>
 <td><p>7월 18일</p></td>
-<td><p>오천만의 단골 메뉴! <a href="https://ko.wikipedia.org/wiki/돼지" title="wikilink">돼지</a> 요리 열전 외</p></td>
+<td><p>오천만의 단골 메뉴! <a href="../Page/돼지.md" title="wikilink">돼지</a> 요리 열전 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
@@ -6536,7 +6536,7 @@
 <tr class="even">
 <td><p>725</p></td>
 <td><p>8월 15일</p></td>
-<td><p>氣차게 맛있다! 심신보약 <a href="https://ko.wikipedia.org/wiki/여름" title="wikilink">여름</a> 건강식</p></td>
+<td><p>氣차게 맛있다! 심신보약 <a href="../Page/여름.md" title="wikilink">여름</a> 건강식</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
@@ -6560,25 +6560,25 @@
 <tr class="even">
 <td><p>729</p></td>
 <td><p>9월 12일</p></td>
-<td><p>오천만이 사랑한 맛! <a href="https://ko.wikipedia.org/wiki/불고기" title="wikilink">불고기</a>의 무한변신 외</p></td>
+<td><p>오천만이 사랑한 맛! <a href="../Page/불고기.md" title="wikilink">불고기</a>의 무한변신 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
 <td><p>730</p></td>
 <td><p>9월 19일</p></td>
-<td><p>뜨거운 맛을 보여 주마~ <a href="https://ko.wikipedia.org/wiki/가마솥" title="wikilink">가마솥</a> 요리 열전 외</p></td>
+<td><p>뜨거운 맛을 보여 주마~ <a href="../Page/가마솥.md" title="wikilink">가마솥</a> 요리 열전 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
 <td><p>731</p></td>
 <td><p>9월 26일</p></td>
-<td><p>보기만 해도 배부르다! <a href="https://ko.wikipedia.org/wiki/꿩" title="wikilink">꿩</a> 먹고 <a href="https://ko.wikipedia.org/wiki/알" title="wikilink">알</a> 먹고~ ‘모둠 요리’ 총집합 외</p></td>
+<td><p>보기만 해도 배부르다! <a href="../Page/꿩.md" title="wikilink">꿩</a> 먹고 <a href="../Page/알.md" title="wikilink">알</a> 먹고~ ‘모둠 요리’ 총집합 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
 <td><p>732</p></td>
 <td><p>10월 3일</p></td>
-<td><p>국가대표 밥도둑! 묵은 <a href="https://ko.wikipedia.org/wiki/김치" title="wikilink">김치</a> 요리 외</p></td>
+<td><p>국가대표 밥도둑! 묵은 <a href="../Page/김치.md" title="wikilink">김치</a> 요리 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -6596,7 +6596,7 @@
 <tr class="even">
 <td><p>735</p></td>
 <td><p>10월 24일</p></td>
-<td><p>뼛속 깊이 맛의 감동~ 원기 충전 <a href="https://ko.wikipedia.org/wiki/뼈" title="wikilink">뼈</a> 요리 열전 외</p></td>
+<td><p>뼛속 깊이 맛의 감동~ 원기 충전 <a href="../Page/뼈.md" title="wikilink">뼈</a> 요리 열전 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
@@ -6626,7 +6626,7 @@
 <tr class="odd">
 <td><p>740</p></td>
 <td><p>11월 28일</p></td>
-<td><p>지금이 딱! 초<a href="https://ko.wikipedia.org/wiki/겨울" title="wikilink">겨울</a> 별미를 찾아라~ 외</p></td>
+<td><p>지금이 딱! 초<a href="../Page/겨울.md" title="wikilink">겨울</a> 별미를 찾아라~ 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -6672,7 +6672,7 @@
 <tr class="odd">
 <td><p>744</p></td>
 <td><p>1월 2일</p></td>
-<td><p>1. 웰컴 2015! <a href="https://ko.wikipedia.org/wiki/을미년" title="wikilink">을미년</a> <a href="https://ko.wikipedia.org/wiki/양" title="wikilink">양</a> 이야기<br />
+<td><p>1. 웰컴 2015! <a href="https://ko.wikipedia.org/wiki/을미년" title="wikilink">을미년</a> <a href="../Page/양.md" title="wikilink">양</a> 이야기<br />
 2. 福 받고 氣 살린다! 신년맞이 福 음식 열전<br />
 3. 2015년 新 기회의 땅! 베트남으로 간 한국인들<br />
 4. 힘내라 2015! 새해 성공 다짐 프로젝트</p></td>
@@ -6681,7 +6681,7 @@
 <tr class="even">
 <td><p>745</p></td>
 <td><p>1월 9일</p></td>
-<td><p>1. <a href="https://ko.wikipedia.org/wiki/중국인" title="wikilink">중국인</a> 관광객, <a href="https://ko.wikipedia.org/wiki/명동" title="wikilink">명동</a>을 바꾸다!<br />
+<td><p>1. <a href="https://ko.wikipedia.org/wiki/중국인" title="wikilink">중국인</a> 관광객, <a href="../Page/명동.md" title="wikilink">명동</a>을 바꾸다!<br />
 2. 겨울을 녹인다! 온몸으로 즐기는 혹한기<br />
 3. 제비 집 보기를 황금같이! 말레이시아 산다칸을 가다!<br />
 4. 인생역전! 밑바닥에서 다시 쓴 희망가</p></td>
@@ -6702,19 +6702,19 @@
 <tr class="odd">
 <td><p>748</p></td>
 <td><p>1월 30일</p></td>
-<td><p>‘따끈따끈~ 쫄깃쫄깃’ <a href="https://ko.wikipedia.org/wiki/어묵" title="wikilink">어묵</a> 1번지, <a href="https://ko.wikipedia.org/wiki/부산" title="wikilink">부산</a>에 가다! 외</p></td>
+<td><p>‘따끈따끈~ 쫄깃쫄깃’ <a href="../Page/어묵.md" title="wikilink">어묵</a> 1번지, <a href="https://ko.wikipedia.org/wiki/부산" title="wikilink">부산</a>에 가다! 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
 <td><p>749</p></td>
 <td><p>2월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시간" title="wikilink">시간</a>이 <a href="https://ko.wikipedia.org/wiki/금" title="wikilink">금</a>! <a href="https://ko.wikipedia.org/wiki/카운트다운" title="wikilink">카운트다운</a>이 시작됐다 외</p></td>
+<td><p><a href="../Page/시간.md" title="wikilink">시간</a>이 <a href="../Page/금.md" title="wikilink">금</a>! <a href="https://ko.wikipedia.org/wiki/카운트다운" title="wikilink">카운트다운</a>이 시작됐다 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
 <td><p>750</p></td>
 <td><p>2월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스트레스" title="wikilink">스트레스</a> <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> 탈출구를 찾아라!</p></td>
+<td><p><a href="../Page/스트레스.md" title="wikilink">스트레스</a> <a href="../Page/대한민국.md" title="wikilink">대한민국</a> 탈출구를 찾아라!</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -6732,7 +6732,7 @@
 <tr class="even">
 <td><p>753</p></td>
 <td><p>3월 6일</p></td>
-<td><p>2015 <a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/봄" title="wikilink">봄</a> 준비 대작전 외</p></td>
+<td><p>2015 <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/봄.md" title="wikilink">봄</a> 준비 대작전 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
@@ -6744,19 +6744,19 @@
 <tr class="even">
 <td><p>755</p></td>
 <td><p>3월 20일</p></td>
-<td><p>바야흐로 <a href="https://ko.wikipedia.org/wiki/봄" title="wikilink">봄</a>! <a href="https://ko.wikipedia.org/wiki/1년" title="wikilink">1년</a>을 기다린 ‘<a href="https://ko.wikipedia.org/wiki/오늘" title="wikilink">오늘</a>’ 외</p></td>
+<td><p>바야흐로 <a href="../Page/봄.md" title="wikilink">봄</a>! <a href="../Page/1년.md" title="wikilink">1년</a>을 기다린 ‘<a href="https://ko.wikipedia.org/wiki/오늘" title="wikilink">오늘</a>’ 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
 <td><p>756</p></td>
 <td><p>4월 3일</p></td>
-<td><p>지금 <a href="https://ko.wikipedia.org/wiki/흑산도" title="wikilink">흑산도</a>는 <a href="https://ko.wikipedia.org/wiki/홍어" title="wikilink">홍어</a>가 풍년! 외</p></td>
+<td><p>지금 <a href="../Page/흑산도.md" title="wikilink">흑산도</a>는 <a href="../Page/홍어.md" title="wikilink">홍어</a>가 풍년! 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
 <td><p>757</p></td>
 <td><p>4월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a>을 웃겨라! 웃겨야 사는 사람들 외</p></td>
+<td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a>을 웃겨라! 웃겨야 사는 사람들 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
@@ -6792,7 +6792,7 @@
 <tr class="even">
 <td><p>763</p></td>
 <td><p>5월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바다" title="wikilink">바다</a>의 수호천사, 구명정의 모든 것 외</p></td>
+<td><p><a href="../Page/바다.md" title="wikilink">바다</a>의 수호천사, 구명정의 모든 것 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
@@ -6804,13 +6804,13 @@
 <tr class="even">
 <td><p>765</p></td>
 <td><p>6월 5일</p></td>
-<td><p><관계자 외 출입 금지> 목숨을 건 극한의 <a href="https://ko.wikipedia.org/wiki/세계" title="wikilink">세계</a>, <a href="https://ko.wikipedia.org/wiki/블랙" title="wikilink">블랙</a> <a href="https://ko.wikipedia.org/wiki/이글스" title="wikilink">이글스</a>를 만나다! 외</p></td>
+<td><p><관계자 외 출입 금지> 목숨을 건 극한의 <a href="../Page/세계.md" title="wikilink">세계</a>, <a href="../Page/블랙.md" title="wikilink">블랙</a> <a href="../Page/이글스.md" title="wikilink">이글스</a>를 만나다! 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
 <td><p>766</p></td>
 <td><p>6월 12일</p></td>
-<td><p>스릴을 즐기는 남자, 익스트림 <a href="https://ko.wikipedia.org/wiki/스포츠" title="wikilink">스포츠</a>에 빠지다! 외</p></td>
+<td><p>스릴을 즐기는 남자, 익스트림 <a href="../Page/스포츠.md" title="wikilink">스포츠</a>에 빠지다! 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -6822,13 +6822,13 @@
 <tr class="odd">
 <td><p>768</p></td>
 <td><p>6월 26일</p></td>
-<td><p><관계자 외 출입 금지> 국가 보안 시설, <a href="https://ko.wikipedia.org/wiki/한국조폐공사" title="wikilink">한국조폐공사</a>를 가다! 외</p></td>
+<td><p><관계자 외 출입 금지> 국가 보안 시설, <a href="../Page/한국조폐공사.md" title="wikilink">한국조폐공사</a>를 가다! 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
 <td><p>769</p></td>
 <td><p>7월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/액션" title="wikilink">액션</a><a href="https://ko.wikipedia.org/wiki/배우" title="wikilink">배우</a>! 김현이 외</p></td>
+<td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/액션" title="wikilink">액션</a><a href="../Page/배우.md" title="wikilink">배우</a>! 김현이 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
@@ -6840,13 +6840,13 @@
 <tr class="even">
 <td><p>771</p></td>
 <td><p>7월 31일</p></td>
-<td><p><관계자 외 출입 금지> <a href="https://ko.wikipedia.org/wiki/한강" title="wikilink">한강</a>, 출입 금지 구역을 가다 외</p></td>
+<td><p><관계자 외 출입 금지> <a href="../Page/한강.md" title="wikilink">한강</a>, 출입 금지 구역을 가다 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="odd">
 <td><p>772</p></td>
 <td><p>8월 7일</p></td>
-<td><p>리얼 <a href="https://ko.wikipedia.org/wiki/카메라" title="wikilink">카메라</a> 극과 극 오지 마을 민박 VS 초호화 <a href="https://ko.wikipedia.org/wiki/풀" title="wikilink">풀</a> <a href="https://ko.wikipedia.org/wiki/빌라" title="wikilink">빌라</a> 외</p></td>
+<td><p>리얼 <a href="https://ko.wikipedia.org/wiki/카메라" title="wikilink">카메라</a> 극과 극 오지 마을 민박 VS 초호화 <a href="../Page/풀.md" title="wikilink">풀</a> <a href="https://ko.wikipedia.org/wiki/빌라" title="wikilink">빌라</a> 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -6858,7 +6858,7 @@
 <tr class="odd">
 <td><p>774</p></td>
 <td><p>8월 21일</p></td>
-<td><p>국내 유일 주부 차력단 vs <a href="https://ko.wikipedia.org/wiki/해녀" title="wikilink">해녀</a>가 된 사나이 외</p></td>
+<td><p>국내 유일 주부 차력단 vs <a href="../Page/해녀.md" title="wikilink">해녀</a>가 된 사나이 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -6976,7 +6976,7 @@
 <tr class="even">
 <td><p>786</p></td>
 <td><p>11월 13일</p></td>
-<td><p><밀착 카메라><a href="https://ko.wikipedia.org/wiki/마라도" title="wikilink">마라도</a> 앞바다! 제철 방어 사수 대작전<br />
+<td><p><밀착 카메라><a href="../Page/마라도.md" title="wikilink">마라도</a> 앞바다! 제철 방어 사수 대작전<br />
 &lt;추적! 미스터리 특공대&gt;하늘이 아니라 나무에서 내리는 비?!<br />
 미식 천국! 홍콩 가을 별미<br />
 <현장 스케치>팔방미인! ‘숯’의 대변신</p></td>
@@ -6985,8 +6985,8 @@
 <tr class="odd">
 <td><p>787</p></td>
 <td><p>11월 27일</p></td>
-<td><p>헌 <a href="https://ko.wikipedia.org/wiki/장판" title="wikilink">장판</a>의 무한 변신! <a href="https://ko.wikipedia.org/wiki/장판" title="wikilink">장판</a> <a href="https://ko.wikipedia.org/wiki/공예" title="wikilink">공예</a>가 안병삼 (<a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/시흥시" title="wikilink">시흥시</a>)<br />
-<a href="https://ko.wikipedia.org/wiki/금정산" title="wikilink">금정산</a> 정상, 1년 365일 마르지 않는 샘이 있다?<br />
+<td><p>헌 <a href="https://ko.wikipedia.org/wiki/장판" title="wikilink">장판</a>의 무한 변신! <a href="https://ko.wikipedia.org/wiki/장판" title="wikilink">장판</a> <a href="../Page/공예.md" title="wikilink">공예</a>가 안병삼 (<a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/시흥시.md" title="wikilink">시흥시</a>)<br />
+<a href="../Page/금정산.md" title="wikilink">금정산</a> 정상, 1년 365일 마르지 않는 샘이 있다?<br />
 새콤달콤함에 빠졌다~ <a href="https://ko.wikipedia.org/wiki/제주" title="wikilink">제주</a> <a href="https://ko.wikipedia.org/wiki/감귤" title="wikilink">감귤</a> 대소동<br />
 믿고 먹는 우리 농산물~ 안심 먹거리가 뜬다!</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
@@ -7004,7 +7004,7 @@
 <td><p>789</p></td>
 <td><p>12월 11일</p></td>
 <td><p>1. &lt;추적! 미스터리 특공대&gt; 펄펄 끓는 강물이 있다?!<br />
-2. &lt;곳곳이 세계 명소! '<a href="https://ko.wikipedia.org/wiki/마카오" title="wikilink">마카오</a>'엔 유일한 뭔가가 있다&gt;<br />
+2. &lt;곳곳이 세계 명소! '<a href="../Page/마카오.md" title="wikilink">마카오</a>'엔 유일한 뭔가가 있다&gt;<br />
 3. <밀착 카메라> <a href="https://ko.wikipedia.org/wiki/덕유산" title="wikilink">덕유산</a> 폭설 내린 날<br />
 4. <트렌드 포착> '달리는 맛집' 음식 트럭이 뜬다!</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
@@ -8305,8 +8305,8 @@ VJ가 되어주세요 - 목포</p></td>
 2.  이번주 동영상은 시드니올림픽 관련 서비스가 포함된저작권 문제로 서비스 불가의 다시보기 중단된 상태이다.
 3.  제작진의 사정으로 인해 VOD 서비스 불가
 4.  해당 방송은 내용상 문제로 인해 VOD 서비스 불가
-5.  [이선영](https://ko.wikipedia.org/wiki/이선영_\(1982년\) "wikilink") 아나운서 새 MC
+5.  [이선영](../Page/이선영_\(1982년\).md "wikilink") 아나운서 새 MC
 6.  900회 특집 방송 아님
-7.  [이선영](https://ko.wikipedia.org/wiki/이선영_\(1982년\) "wikilink") 아나운서 마지막 MC
-8.  [이현주](https://ko.wikipedia.org/wiki/이현주_\(아나운서\) "wikilink") 아나운서 새 MC
+7.  [이선영](../Page/이선영_\(1982년\).md "wikilink") 아나운서 마지막 MC
+8.  [이현주](../Page/이현주_\(아나운서\).md "wikilink") 아나운서 새 MC
 9.  909회 7월 30일 저작권 관계로 다시보기가 중단되었다.

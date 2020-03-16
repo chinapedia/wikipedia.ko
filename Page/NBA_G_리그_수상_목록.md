@@ -214,7 +214,7 @@
 <tr class="even">
 <td><p>2018~2019</p></td>
 <td><p>앙헬 델가도</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아구아_칼리엔테_클리퍼스" title="wikilink">아구아 칼리엔테 클리퍼스</a></p></td>
+<td><p><a href="../Page/아구아_칼리엔테_클리퍼스.md" title="wikilink">아구아 칼리엔테 클리퍼스</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -664,12 +664,12 @@
 <tr class="odd">
 <td><p>2017~2018</p></td>
 <td><p>C. J. 월리암스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아구아_칼리엔테_클리퍼스" title="wikilink">아구아 칼리엔테 클리퍼스</a></p></td>
+<td><p><a href="../Page/아구아_칼리엔테_클리퍼스.md" title="wikilink">아구아 칼리엔테 클리퍼스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018~2019</p></td>
 <td><p>게이브 요크</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레이클랜드_매직" title="wikilink">레이클랜드 매직</a></p></td>
+<td><p><a href="../Page/레이클랜드_매직.md" title="wikilink">레이클랜드 매직</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -682,7 +682,7 @@
 
 ## 같이 보기
 
-  - [NBA 수상 목록](https://ko.wikipedia.org/wiki/NBA_수상_목록 "wikilink")
+  - [NBA 수상 목록](../Page/NBA_수상_목록.md "wikilink")
   - [WNBA 수상 목록](../Page/WNBA_수상_목록.md "wikilink")
 
 [분류:NBA G 리그](https://ko.wikipedia.org/wiki/분류:NBA_G_리그 "wikilink") [개발리그](https://ko.wikipedia.org/wiki/분류:전미_농구_협회 "wikilink")

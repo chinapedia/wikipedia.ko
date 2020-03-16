@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Valuable sheaves](https://ko.wikipedia.org/wiki/Valuable_sheaves).
 
 
-《**valuable sheaves**》는 [바르쉐의](../Page/VALSHE.md "wikilink") [커버 음반이다](https://ko.wikipedia.org/wiki/커버_음반 "wikilink"). [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 23일에](https://ko.wikipedia.org/wiki/9월_23일 "wikilink") [dmARTS에서](https://ko.wikipedia.org/wiki/도완고_뮤직_엔터테인먼트 "wikilink") 발매됐다.
+《**valuable sheaves**》는 [바르쉐의](../Page/VALSHE.md "wikilink") [커버 음반이다](https://ko.wikipedia.org/wiki/커버_음반 "wikilink"). [2010년](../Page/2010년.md "wikilink") [9월 23일에](../Page/9월_23일.md "wikilink") [dmARTS에서](https://ko.wikipedia.org/wiki/도완고_뮤직_엔터테인먼트 "wikilink") 발매됐다.
 
 ## 개요
 
@@ -24,7 +24,7 @@
         작사: timefiles, 작곡·편곡: amyu
 4.  **[이식보행](https://ko.wikipedia.org/wiki/소아이세이리론 "wikilink")** ()
       -
-        작사·작곡·편곡: [DECO\*27](https://ko.wikipedia.org/wiki/DECO*27 "wikilink")
+        작사·작곡·편곡: [DECO\*27](../Page/DECO*27.md "wikilink")
 5.  **THUNDERBIRD**
       -
         작사: [이노우에 아키오](https://ko.wikipedia.org/wiki/이노우에_아키오 "wikilink"), 작곡: [아사쿠라 다이스케](https://ko.wikipedia.org/wiki/아사쿠라_다이스케 "wikilink")

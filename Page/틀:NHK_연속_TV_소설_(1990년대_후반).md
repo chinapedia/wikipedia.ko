@@ -140,9 +140,9 @@
 (あぐり)</p></td>
 <td><p>1997년</p></td>
 <td><p>4월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오카야마현" title="wikilink">오카야마현</a> <a href="https://ko.wikipedia.org/wiki/오카야마_시" title="wikilink">오카야마 시</a><br />
+<td><p><a href="../Page/오카야마현.md" title="wikilink">오카야마현</a> <a href="https://ko.wikipedia.org/wiki/오카야마_시" title="wikilink">오카야마 시</a><br />
 도쿄 도 <a href="https://ko.wikipedia.org/wiki/신주쿠_구" title="wikilink">이치가야</a><br />
-<a href="https://ko.wikipedia.org/wiki/야마나시현" title="wikilink">야마나시현</a></p></td>
+<a href="../Page/야마나시현.md" title="wikilink">야마나시현</a></p></td>
 <td><p>요시유키 아구리<br />
 (吉行 あぐり)</p></td>
 <td><p>시미즈 유키<br />
@@ -195,13 +195,13 @@
 (天うらら)</p></td>
 <td><p>1998년</p></td>
 <td><p>4월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도치기현" title="wikilink">도치기현</a> <a href="https://ko.wikipedia.org/wiki/닛코_시" title="wikilink">닛코 시</a><br />
+<td><p><a href="../Page/도치기현.md" title="wikilink">도치기현</a> <a href="https://ko.wikipedia.org/wiki/닛코_시" title="wikilink">닛코 시</a><br />
 도쿄 도 <a href="https://ko.wikipedia.org/wiki/고토_구" title="wikilink">기바</a></p></td>
 <td><p>가도노 하루코<br />
 (門野 晴子)</p></td>
 <td><p>가미야마 유미코<br />
 (神山 由美子)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스도_리사" title="wikilink">스도 리사</a></p></td>
+<td><p><a href="../Page/스도_리사.md" title="wikilink">스도 리사</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>10월 3일</p></td>
@@ -308,7 +308,7 @@
 </tr>
 <tr class="even">
 <td><p>2000년 4월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다케우치_유코" title="wikilink">다케우치 유코</a><br />
+<td><p><a href="../Page/다케우치_유코.md" title="wikilink">다케우치 유코</a><br />
 <small><성년기></small></p></td>
 <td></td>
 <td></td>

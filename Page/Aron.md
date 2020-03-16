@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Aron](https://ko.wikipedia.org/wiki/Aron).
 
 
-**Aron**(, [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [5월 21일](https://ko.wikipedia.org/wiki/5월_21일 "wikilink") \~ )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [뉴이스트](https://ko.wikipedia.org/wiki/뉴이스트 "wikilink")의 서브래퍼, 서브보컬을 맡고 있다.
+**Aron**(, [1993년](../Page/1993년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [뉴이스트](../Page/뉴이스트.md "wikilink")의 서브래퍼, 서브보컬을 맡고 있다.
 
 ## 학력
 
@@ -22,7 +22,7 @@ Good love (2017) Wi-Fi (2018)
 #### 피처링
 
   - [채드 퓨처](https://ko.wikipedia.org/wiki/채드_퓨처 "wikilink") - "Got It Figured Out" (2014)
-  - [레이나](https://ko.wikipedia.org/wiki/레이나_\(가수\) "wikilink") - "밥 영화 카페(Loop)" (2017)
+  - [레이나](../Page/레이나_\(가수\).md "wikilink") - "밥 영화 카페(Loop)" (2017)
 
 ### 작사 및 작곡
 
@@ -36,19 +36,19 @@ Good love (2017) Wi-Fi (2018)
 
 ### 영화
 
-  - 일본영화 《[좋아해, 너를](https://ko.wikipedia.org/wiki/좋아해,_너를 "wikilink")》 (2016) - 아론 역
+  - 일본영화 《[좋아해, 너를](../Page/좋아해,_너를.md "wikilink")》 (2016) - 아론 역
 
 ### 라디오
 
-  - [아리랑 라디오](https://ko.wikipedia.org/wiki/아리랑_라디오 "wikilink") 《[Music Access](https://ko.wikipedia.org/wiki/Music_Access "wikilink")》 (2013-2015)
+  - [아리랑 라디오](../Page/아리랑_라디오.md "wikilink") 《[Music Access](https://ko.wikipedia.org/wiki/Music_Access "wikilink")》 (2013-2015)
   - [SBS PopAsia](https://ko.wikipedia.org/wiki/SBS_PopAsia "wikilink") 《[Aron's Hangout](https://ko.wikipedia.org/wiki/Aron's_Hangout "wikilink")》 (2015-2016)
 
 ### 예능
 
   - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 《[수상한 가수](https://ko.wikipedia.org/wiki/수상한_가수 "wikilink")》 (2017)
-  - [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink") 《[투유 프로젝트 - 슈가맨](../Page/투유_프로젝트_-_슈가맨.md "wikilink")》 (2018)
+  - [JTBC](../Page/JTBC.md "wikilink") 《[투유 프로젝트 - 슈가맨](../Page/투유_프로젝트_-_슈가맨.md "wikilink")》 (2018)
   - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 《[문제적 남자](https://ko.wikipedia.org/wiki/문제적_남자 "wikilink")》 (2018)
-  - [E채널](https://ko.wikipedia.org/wiki/E채널 "wikilink") 《[달랑말랑](https://ko.wikipedia.org/wiki/달랑말랑 "wikilink")》 (2018)
+  - [E채널](../Page/E채널.md "wikilink") 《[달랑말랑](https://ko.wikipedia.org/wiki/달랑말랑 "wikilink")》 (2018)
   - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[안녕하세요](https://ko.wikipedia.org/wiki/안녕하세요 "wikilink")》 (2019)
 
 ## 각주

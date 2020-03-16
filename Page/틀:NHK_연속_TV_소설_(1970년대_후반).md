@@ -40,7 +40,7 @@
 <td><p>도쿄</p></td>
 <td><p>이시모리 후미오<br />
 (石森 史郎)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오타케_시노부" title="wikilink">오타케 시노부</a></p></td>
+<td><p><a href="../Page/오타케_시노부.md" title="wikilink">오타케 시노부</a></p></td>
 <td><p>마쓰미야 도모코<br />
 (松宮 知子)</p></td>
 </tr>
@@ -60,7 +60,7 @@
 <td><p><strong>안녕하십니까</strong><br />
 (おはようさん)</p></td>
 <td><p>1975년 10월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카부" title="wikilink">오사카부</a> <a href="https://ko.wikipedia.org/wiki/오사카_시" title="wikilink">오사카 시</a></p></td>
+<td><p><a href="../Page/오사카부.md" title="wikilink">오사카부</a> <a href="https://ko.wikipedia.org/wiki/오사카_시" title="wikilink">오사카 시</a></p></td>
 <td><p>오사카</p></td>
 <td><p>다나베 세이코<br />
 (田辺 聖子)</p></td>
@@ -88,7 +88,7 @@
 (雲のじゅうたん)</p></td>
 <td><p>1976년</p></td>
 <td><p>4월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아키타현" title="wikilink">아키타현</a><br />
+<td><p><a href="../Page/아키타현.md" title="wikilink">아키타현</a><br />
 도쿄 도</p></td>
 <td><p>도쿄</p></td>
 <td><p>다무카이 세이켄<br />
@@ -144,7 +144,7 @@
 (いちばん星)</p></td>
 <td><p>1977년</p></td>
 <td><p>4월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/야마가타현" title="wikilink">야마가타현</a> <a href="https://ko.wikipedia.org/wiki/덴도_시" title="wikilink">덴도 시</a></p></td>
+<td><p><a href="../Page/야마가타현.md" title="wikilink">야마가타현</a> <a href="https://ko.wikipedia.org/wiki/덴도_시" title="wikilink">덴도 시</a></p></td>
 <td><p>도쿄</p></td>
 <td><p>유키 료이치<br />
 (結城 亮一)</p></td>
@@ -172,8 +172,8 @@
 <td><p><strong>풍향계</strong><br />
 (風見鶏)</p></td>
 <td><p>1977년 10월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/효고현" title="wikilink">효고현</a> <a href="https://ko.wikipedia.org/wiki/고베_시" title="wikilink">고베 시</a><br />
-<a href="https://ko.wikipedia.org/wiki/와카야마현" title="wikilink">와카야마현</a> <a href="https://ko.wikipedia.org/wiki/다이지_정" title="wikilink">다이지 정</a></p></td>
+<td><p><a href="../Page/효고현.md" title="wikilink">효고현</a> <a href="https://ko.wikipedia.org/wiki/고베_시" title="wikilink">고베 시</a><br />
+<a href="../Page/와카야마현.md" title="wikilink">와카야마현</a> <a href="https://ko.wikipedia.org/wiki/다이지_정" title="wikilink">다이지 정</a></p></td>
 <td><p>오사카</p></td>
 <td><p>스기하라 기호<br />
 (杉山 義法)</p></td>
@@ -202,7 +202,7 @@
 (おていちゃん)</p></td>
 <td><p>1978년</p></td>
 <td><p>4월 3일</p></td>
-<td><p>도쿄 도 <a href="https://ko.wikipedia.org/wiki/아사쿠사" title="wikilink">아사쿠사</a></p></td>
+<td><p>도쿄 도 <a href="../Page/아사쿠사.md" title="wikilink">아사쿠사</a></p></td>
 <td><p>도쿄</p></td>
 <td><p>사와무라 사다코<br />
 (沢村 貞子)</p></td>
@@ -254,10 +254,10 @@
 (マー姉ちゃん)</p></td>
 <td><p>1978년</p></td>
 <td><p>4월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카현" title="wikilink">후쿠오카현</a><br />
+<td><p><a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카현</a><br />
 도쿄 도</p></td>
 <td><p>도쿄</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하세가와_마치코" title="wikilink">하세가와 마치코</a></p></td>
+<td><p><a href="../Page/하세가와_마치코.md" title="wikilink">하세가와 마치코</a></p></td>
 <td><p>오사나이 미에코<br />
 (小山内 美江子)</p></td>
 <td><p>구마가이 마미<br />
@@ -279,7 +279,7 @@
 <td><p><strong>은어의 노래</strong><br />
 (鮎のうた)</p></td>
 <td><p>1979년 10월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시가현" title="wikilink">시가현</a> <a href="https://ko.wikipedia.org/wiki/나가하마_시" title="wikilink">나가하마 시</a><br />
+<td><p><a href="../Page/시가현.md" title="wikilink">시가현</a> <a href="https://ko.wikipedia.org/wiki/나가하마_시" title="wikilink">나가하마 시</a><br />
 오사카 부 <a href="https://ko.wikipedia.org/wiki/주오_구_(오사카_시)" title="wikilink">센바</a></p></td>
 <td><p>오사카</p></td>
 <td><p>하나토 고바코<br />

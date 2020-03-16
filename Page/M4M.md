@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [M4M](https://ko.wikipedia.org/wiki/M4M).
 
 
-**M4M (Mystical Formula)**는 [큐브 엔터테인먼트에서](https://ko.wikipedia.org/wiki/큐브_엔터테인먼트 "wikilink") 데뷔한 4인조 중국인 음악 그룹이다. 2013년 3월 13일 [엠 카운트다운에서](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink") 데뷔했다. 중국 팀에서 2명(우빈, 방일륜)과 타이완 팀에서 1명(라우승), 홍콩 팀에서 1명(지미) 로 이루어져 있다.
+**M4M (Mystical Formula)**는 [큐브 엔터테인먼트에서](../Page/큐브_엔터테인먼트.md "wikilink") 데뷔한 4인조 중국인 음악 그룹이다. 2013년 3월 13일 [엠 카운트다운에서](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink") 데뷔했다. 중국 팀에서 2명(우빈, 방일륜)과 타이완 팀에서 1명(라우승), 홍콩 팀에서 1명(지미) 로 이루어져 있다.
 
 ## 구성원
 

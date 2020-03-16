@@ -34,8 +34,8 @@
 <td><p><strong>딸과 나</strong><br />
 (娘と私)</p></td>
 <td><p>1961년 4월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄도" title="wikilink">도쿄도</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/NHK_방송_센터" title="wikilink">도쿄</a></p></td>
+<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄도</a></p></td>
+<td><p><a href="../Page/NHK_방송_센터.md" title="wikilink">도쿄</a></p></td>
 <td><p>시시 분로쿠<br />
 (獅子 文六)</p></td>
 <td><p>야마시타 요시이치<br />
@@ -60,7 +60,7 @@
 <td><p><strong>내일의 바람</strong><br />
 (あしたの風)</p></td>
 <td><p>1962년 4월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가가와현" title="wikilink">가가와현</a> <a href="https://ko.wikipedia.org/wiki/쇼도_섬" title="wikilink">쇼도 섬</a></p></td>
+<td><p><a href="../Page/가가와현.md" title="wikilink">가가와현</a> <a href="https://ko.wikipedia.org/wiki/쇼도_섬" title="wikilink">쇼도 섬</a></p></td>
 <td><p>쓰바사 사카에<br />
 (壺井 栄)</p></td>
 <td><p>와타나베 후미코<br />
@@ -112,10 +112,10 @@
 <td><p><strong>우즈시오</strong><br />
 (うず潮)</p></td>
 <td><p>1964년 4월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/히로시마현" title="wikilink">히로시마현</a><br />
+<td><p><a href="../Page/히로시마현.md" title="wikilink">히로시마현</a><br />
 도쿄 도<br />
-<a href="https://ko.wikipedia.org/wiki/나가노현" title="wikilink">나가노현</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/NHK_오사카_방송국" title="wikilink">오사카</a></p></td>
+<a href="../Page/나가노현.md" title="wikilink">나가노현</a></p></td>
+<td><p><a href="../Page/NHK_오사카_방송국.md" title="wikilink">오사카</a></p></td>
 <td><p>하야시 후미코<br />
 (林 芙美子)</p></td>
 <td><p>다나카 스미에<br />
@@ -142,12 +142,12 @@
 <td><p><strong>타마유라</strong><br />
 (たまゆら)</p></td>
 <td><p>1965년 4월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미야자키현" title="wikilink">미야자키현</a></p></td>
+<td><p><a href="../Page/미야자키현.md" title="wikilink">미야자키현</a></p></td>
 <td><p>도쿄</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가와바타_야스나리" title="wikilink">가와바타 야스나리</a></p></td>
+<td><p><a href="../Page/가와바타_야스나리.md" title="wikilink">가와바타 야스나리</a></p></td>
 <td><p>야마다 유타카<br />
 (山田 豊)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/류_지슈" title="wikilink">류 지슈</a></p></td>
+<td><p><a href="../Page/류_지슈.md" title="wikilink">류 지슈</a></p></td>
 <td><p>나오키 요시히코<br />
 (直木 良彦)</p></td>
 </tr>
@@ -168,7 +168,7 @@
 <td><p><strong>오하나항</strong><br />
 (おはなはん)</p></td>
 <td><p>1966년 4월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에히메현" title="wikilink">에히메현</a> <a href="https://ko.wikipedia.org/wiki/오즈_시" title="wikilink">오즈 시</a><br />
+<td><p><a href="../Page/에히메현.md" title="wikilink">에히메현</a> <a href="https://ko.wikipedia.org/wiki/오즈_시" title="wikilink">오즈 시</a><br />
 도쿄 도</p></td>
 <td><p>하야시 겐이치<br />
 (林 謙一)</p></td>
@@ -196,8 +196,8 @@
 <td><p><strong>여로</strong><br />
 (旅路)</p></td>
 <td><p>1967년 4월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미에현" title="wikilink">미에현</a> <a href="https://ko.wikipedia.org/wiki/오와세_시" title="wikilink">오와세 시</a><br />
-<a href="https://ko.wikipedia.org/wiki/홋카이도" title="wikilink">홋카이도</a></p></td>
+<td><p><a href="../Page/미에현.md" title="wikilink">미에현</a> <a href="https://ko.wikipedia.org/wiki/오와세_시" title="wikilink">오와세 시</a><br />
+<a href="../Page/홋카이도.md" title="wikilink">홋카이도</a></p></td>
 <td><p>히라이와 유미에<br />
 (平岩 弓枝)</p></td>
 <td><p>요코우치 다다시<br />
@@ -252,7 +252,7 @@
 <td><p><strong>노부코와 할머니</strong><br />
 (信子とおばあちゃん)</p></td>
 <td><p>1969년 4월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사가현" title="wikilink">사가현</a> <a href="https://ko.wikipedia.org/wiki/가라쓰_시" title="wikilink">가라쓰 시</a></p></td>
+<td><p><a href="../Page/사가현.md" title="wikilink">사가현</a> <a href="https://ko.wikipedia.org/wiki/가라쓰_시" title="wikilink">가라쓰 시</a></p></td>
 <td><p>시시 분로쿠<br />
 (獅子 文六)</p></td>
 <td><p>이데 도시로<br />
