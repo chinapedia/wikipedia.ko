@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Internal Bleeding Strawberry](https://ko.wikipedia.org/wiki/Internal_Bleeding_Strawberry).
 
 
-**Internal Bleeding Strawberry**는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월 21일에](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 1번째 미니앨범이다. 가사는 전부 영어로 되어있다.(6번 트랙만 라틴어로 되어있다.) [타워 레코드에서](https://ko.wikipedia.org/wiki/타워_레코드 "wikilink") 독점판매 되었다.
+**Internal Bleeding Strawberry**는 [2003년](../Page/2003년.md "wikilink") [2월 21일에](../Page/2월_21일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 1번째 미니앨범이다. 가사는 전부 영어로 되어있다.(6번 트랙만 라틴어로 되어있다.) [타워 레코드에서](https://ko.wikipedia.org/wiki/타워_레코드 "wikilink") 독점판매 되었다.
 
 ## 트랙리스트
 

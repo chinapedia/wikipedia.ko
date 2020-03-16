@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**코번트리 시티 FC**(Coventry City Association Football Club)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 축구 클럽으로, [코번트리](https://ko.wikipedia.org/wiki/코번트리 "wikilink")를 연고로 한다. 이 팀은 1883년에 창단되었다.
+**코번트리 시티 FC**(Coventry City Association Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [코번트리](../Page/코번트리.md "wikilink")를 연고로 한다. 이 팀은 1883년에 창단되었다.
 
 ## 외부 링크
 

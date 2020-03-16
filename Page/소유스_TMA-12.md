@@ -18,13 +18,13 @@
 
   - [이소연](../Page/이소연_\(공학자\).md "wikilink") (1) 우주비행 참가자(SFP, Spaceflight Participant) - \[1\]
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 최초의 [우주 비행사로](https://ko.wikipedia.org/wiki/우주_비행사 "wikilink"), 국제 우주 정거장에서 약 열흘간의 실험 등의 임무를 수행하고, 돌아올 때는 TMA-12가 아닌 [소유스 TMA-11을](https://ko.wikipedia.org/wiki/소유스_TMA-11 "wikilink") 타고 귀환하였다.
+[대한민국](../Page/대한민국.md "wikilink") 최초의 [우주 비행사로](https://ko.wikipedia.org/wiki/우주_비행사 "wikilink"), 국제 우주 정거장에서 약 열흘간의 실험 등의 임무를 수행하고, 돌아올 때는 TMA-12가 아닌 [소유스 TMA-11을](https://ko.wikipedia.org/wiki/소유스_TMA-11 "wikilink") 타고 귀환하였다.
 
 #### 소유스 TMA-13을 타고 출발하였던 비행사
 
   - [리처드 개리엇](../Page/리처드_개리엇.md "wikilink") (1) - 우주비행 참가자(SFP)\[2\]
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 [소유스 TMA-13호를](https://ko.wikipedia.org/wiki/소유스_TMA-13호 "wikilink") 타고 가서, 소유스 TMA-12로 갈아타고 귀환하였다.
+[2008년](../Page/2008년.md "wikilink") [10월](../Page/10월.md "wikilink")에 [소유스 TMA-13호를](https://ko.wikipedia.org/wiki/소유스_TMA-13호 "wikilink") 타고 가서, 소유스 TMA-12로 갈아타고 귀환하였다.
 
 ### 백업 승무원
 
@@ -34,7 +34,7 @@
 
 ### 승무원 참고 사항
 
-[이소연은](../Page/이소연_\(공학자\).md "wikilink") [한국 우주인 배출 사업](https://ko.wikipedia.org/wiki/한국_우주인_배출_사업 "wikilink")(KAP)을 통해서 러시아 정부의 초청으로 탑승하여 비행하였다. 소유스 우주선에 탑승하는 그녀의 역할은 [우주비행참가자](https://ko.wikipedia.org/wiki/우주비행참가자 "wikilink")로서 영어로 [러시아 연방 우주국과](../Page/러시아_연방_우주국.md "wikilink") [미국 항공우주국](https://ko.wikipedia.org/wiki/미국_항공우주국 "wikilink") 문서와 언론 브리핑을 하는 것이다.\[3\] 원래 계획은 고산이 탑승 예정이고, 이소연이 그의 예비 승무원이었다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 10일](https://ko.wikipedia.org/wiki/3월_10일 "wikilink"), 고산은 [러시아](../Page/러시아.md "wikilink")의 훈련 센터에서 교재를 반출하여 규정을 어겼다고 발표되었고\[4\], 그의 비행은 허락되지 않았다.\[5\]
+[이소연은](../Page/이소연_\(공학자\).md "wikilink") [한국 우주인 배출 사업](../Page/한국_우주인_배출_사업.md "wikilink")(KAP)을 통해서 러시아 정부의 초청으로 탑승하여 비행하였다. 소유스 우주선에 탑승하는 그녀의 역할은 [우주비행참가자](https://ko.wikipedia.org/wiki/우주비행참가자 "wikilink")로서 영어로 [러시아 연방 우주국과](../Page/러시아_연방_우주국.md "wikilink") [미국 항공우주국](../Page/미국_항공우주국.md "wikilink") 문서와 언론 브리핑을 하는 것이다.\[3\] 원래 계획은 고산이 탑승 예정이고, 이소연이 그의 예비 승무원이었다. [2008년](../Page/2008년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink"), 고산은 [러시아](../Page/러시아.md "wikilink")의 훈련 센터에서 교재를 반출하여 규정을 어겼다고 발표되었고\[4\], 그의 비행은 허락되지 않았다.\[5\]
 
 리처드 게리엇은 [스페이스 어드벤처스에](https://ko.wikipedia.org/wiki/스페이스_어드벤처스 "wikilink") 의해 진행되는 프로그램에 의해 [우주 여행자로서](https://ko.wikipedia.org/wiki/우주_여행 "wikilink") 탑승하고 있다. 그는 또한 영어로 러시아 연방 우주국과 미국 항공우주국 문서를 맡고 있는 우주비행참가자이다.
 

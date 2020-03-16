@@ -5,12 +5,12 @@
 
 ## 연혁
 
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink") - **주식회사 BS닛폰(ビーエス日本)**설립.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") - 오전 11시부터 본방송 개시.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")(헤세이 16년)[6월 23일](https://ko.wikipedia.org/wiki/6월_23일 "wikilink") - 상호를 **주식회사 BS닛폰(BS日本)**으로 변경.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")(헤세이 17년)[9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") - 라디오 방송 종료.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")(헤세이 18년)[1월 30일](https://ko.wikipedia.org/wiki/1월_30일 "wikilink") - 풀 스펙(화소수 1920×1080)·하이비전 방송을 개시.(동사에서는 「풀 하이비전 방송은 BS디지털에서는 처음」이라고 주장 하고 있지만, 실제로는 그 이전 [NHK 디지털 위성 하이비전](../Page/NHK_디지털_위성_하이비전.md "wikilink"),[WOWOW](https://ko.wikipedia.org/wiki/WOWOW "wikilink"),[BS JAPAN이](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink") BS디지털 방송 개시 당초부터 시작했다.)
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 29일](https://ko.wikipedia.org/wiki/1월_29일 "wikilink") 방송 해상도가 1440×1080으로 하락.
+  - [1998년](../Page/1998년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink") - **주식회사 BS닛폰(ビーエス日本)**설립.
+  - [2000년](../Page/2000년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") - 오전 11시부터 본방송 개시.
+  - [2004년](../Page/2004년.md "wikilink")(헤세이 16년)[6월 23일](../Page/6월_23일.md "wikilink") - 상호를 **주식회사 BS닛폰(BS日本)**으로 변경.
+  - [2005년](../Page/2005년.md "wikilink")(헤세이 17년)[9월 30일](../Page/9월_30일.md "wikilink") - 라디오 방송 종료.
+  - [2006년](../Page/2006년.md "wikilink")(헤세이 18년)[1월 30일](../Page/1월_30일.md "wikilink") - 풀 스펙(화소수 1920×1080)·하이비전 방송을 개시.(동사에서는 「풀 하이비전 방송은 BS디지털에서는 처음」이라고 주장 하고 있지만, 실제로는 그 이전 [NHK 디지털 위성 하이비전](../Page/NHK_디지털_위성_하이비전.md "wikilink"),[WOWOW](../Page/WOWOW.md "wikilink"),[BS JAPAN이](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink") BS디지털 방송 개시 당초부터 시작했다.)
+  - [2018년](../Page/2018년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink") 방송 해상도가 1440×1080으로 하락.
 
 ## 채널 내역
 

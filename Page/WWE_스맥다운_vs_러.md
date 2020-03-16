@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE  vs ](https://ko.wikipedia.org/wiki/WWE__vs_).
 
 
-《**WWE 스맥다운 vs 러**》(WWE SmackDown\! vs. RAW)는 2004년 12월 7일에 [플레이스테이션 2로](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 발매된 [WWE 스맥다운 vs 러 시리즈의](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_시리즈 "wikilink") 첫 작품이다.
+《**WWE 스맥다운 vs 러**》(WWE SmackDown\! vs. RAW)는 2004년 12월 7일에 [플레이스테이션 2로](../Page/플레이스테이션_2.md "wikilink") 발매된 [WWE 스맥다운 vs 러 시리즈의](https://ko.wikipedia.org/wiki/WWE_스맥다운_vs_러_시리즈 "wikilink") 첫 작품이다.
 
 ## 각주
 

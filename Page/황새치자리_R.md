@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ R](https://ko.wikipedia.org/wiki/_R).
 
 
-**황새치자리 R**(**HD 29792**)은 천구 남쪽 근처의 [황새치자리](https://ko.wikipedia.org/wiki/황새치자리 "wikilink")에 있는 별로, [적색 초거성인](https://ko.wikipedia.org/wiki/적색_초거성 "wikilink") 동시에 [미라형 변광성이다](https://ko.wikipedia.org/wiki/미라형_변광성 "wikilink"). 황새치자리 R은 눈으로 볼 때 황새치자리보다는 [그물자리](https://ko.wikipedia.org/wiki/그물자리 "wikilink")의 별로 보이기도 한다. 지구에서의 거리는 175\~225[광년](https://ko.wikipedia.org/wiki/광년 "wikilink")이다.
+**황새치자리 R**(**HD 29792**)은 천구 남쪽 근처의 [황새치자리](../Page/황새치자리.md "wikilink")에 있는 별로, [적색 초거성인](https://ko.wikipedia.org/wiki/적색_초거성 "wikilink") 동시에 [미라형 변광성이다](../Page/미라형_변광성.md "wikilink"). 황새치자리 R은 눈으로 볼 때 황새치자리보다는 [그물자리](../Page/그물자리.md "wikilink")의 별로 보이기도 한다. 지구에서의 거리는 175\~225[광년](../Page/광년.md "wikilink")이다.
 
-황새치자리 R은 [태양](https://ko.wikipedia.org/wiki/태양 "wikilink") 다음으로 지구에서 볼 때 [시지름](https://ko.wikipedia.org/wiki/시지름 "wikilink")이 큰 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")이다. 구체적인 값은 0.057 ± 0.005[분이다](https://ko.wikipedia.org/wiki/분_\(각도\) "wikilink"). 여기에서 계산한 황새치자리 R의 실제 [반지름](https://ko.wikipedia.org/wiki/반지름 "wikilink")은 태양의 320\~420배로, 이는 [화성](https://ko.wikipedia.org/wiki/화성 "wikilink")의 [궤도](https://ko.wikipedia.org/wiki/궤도 "wikilink")를 삼킬 수 있는 크기이다.
+황새치자리 R은 [태양](../Page/태양.md "wikilink") 다음으로 지구에서 볼 때 [시지름](https://ko.wikipedia.org/wiki/시지름 "wikilink")이 큰 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")이다. 구체적인 값은 0.057 ± 0.005[분이다](../Page/분_\(각도\).md "wikilink"). 여기에서 계산한 황새치자리 R의 실제 [반지름](https://ko.wikipedia.org/wiki/반지름 "wikilink")은 태양의 320\~420배로, 이는 [화성](../Page/화성.md "wikilink")의 [궤도](../Page/궤도.md "wikilink")를 삼킬 수 있는 크기이다.
 
-[가시광선](https://ko.wikipedia.org/wiki/가시광선 "wikilink") 영역에서 바라본 R의 [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 4.8\~6.6등급으로 [맨눈](https://ko.wikipedia.org/wiki/맨눈 "wikilink")으로 겨우 볼 정도이다. 그러나 [적외선](../Page/적외선.md "wikilink") 영역에서 바라본 R은 밤하늘에서 아주 밝은 별 중 하나이다. [질량](https://ko.wikipedia.org/wiki/질량 "wikilink")은 태양과 거의 비슷한 수준이지만, [밝기](https://ko.wikipedia.org/wiki/밝기 "wikilink")는 태양의 5100\~7900배에 이른다.\[1\]
+[가시광선](../Page/가시광선.md "wikilink") 영역에서 바라본 R의 [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 4.8\~6.6등급으로 [맨눈](https://ko.wikipedia.org/wiki/맨눈 "wikilink")으로 겨우 볼 정도이다. 그러나 [적외선](../Page/적외선.md "wikilink") 영역에서 바라본 R은 밤하늘에서 아주 밝은 별 중 하나이다. [질량](https://ko.wikipedia.org/wiki/질량 "wikilink")은 태양과 거의 비슷한 수준이지만, [밝기](https://ko.wikipedia.org/wiki/밝기 "wikilink")는 태양의 5100\~7900배에 이른다.\[1\]
 
 ## 참고 문헌
 

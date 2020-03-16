@@ -3,7 +3,7 @@
 
 **KNN 모닝와이드**는 [KNN](../Page/KNN.md "wikilink") 부산경남방송의 대표적인 아침 뉴스 프로그램으로, 1998년 3월 5일부터 방송을 개시하여 현재까지 방송 중인 프로그램이다.
 
-다른 KNN 뉴스 프로그램과 함께 2009년 4월 13일부터 [HD급](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 화질의 영상으로 방송하기 시작하였다.
+다른 KNN 뉴스 프로그램과 함께 2009년 4월 13일부터 [HD급](../Page/고선명_텔레비전.md "wikilink") 화질의 영상으로 방송하기 시작하였다.
 
 ## 방송 시작
 
@@ -36,7 +36,7 @@
   - 와이드 스포츠
   - 월드뉴스
   - 인물포커스 - [전성호](https://ko.wikipedia.org/wiki/전성호 "wikilink") KNN 편집부장, [구형모](https://ko.wikipedia.org/wiki/구형모 "wikilink") KNN 경남 보도국장, [송원재](../Page/송원재.md "wikilink") KNN 서울본부 취재부장
-  - 건강365 - [이해리](https://ko.wikipedia.org/wiki/이해리 "wikilink") 아나운서
+  - 건강365 - [이해리](../Page/이해리.md "wikilink") 아나운서
 
 ## 같이 보기
 
@@ -45,15 +45,15 @@
 ## 그 외 KNN의 뉴스 프로그램
 
   - [KNN 뉴스와 생활경제](https://ko.wikipedia.org/wiki/KNN_뉴스와_생활경제 "wikilink")
-  - [KNN 뉴스와 건강](https://ko.wikipedia.org/wiki/KNN_뉴스와_건강 "wikilink")
-  - [KNN 뉴스아이](https://ko.wikipedia.org/wiki/KNN_뉴스아이 "wikilink")
+  - [KNN 뉴스와 건강](../Page/KNN_뉴스와_건강.md "wikilink")
+  - [KNN 뉴스아이](../Page/KNN_뉴스아이.md "wikilink")
 
 ## 경쟁 프로그램
 
-  - [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink") 부산 ([KBS부산](../Page/KBS부산방송총국.md "wikilink"))
-  - [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink") 경남 ([KBS창원](../Page/KBS창원방송총국.md "wikilink")·[KBS진주](../Page/KBS진주방송국.md "wikilink"))
+  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") 부산 ([KBS부산](../Page/KBS부산방송총국.md "wikilink"))
+  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") 경남 ([KBS창원](../Page/KBS창원방송총국.md "wikilink")·[KBS진주](../Page/KBS진주방송국.md "wikilink"))
   - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") 부산(부산MBC 뉴스투데이) ([부산문화방송](../Page/부산문화방송.md "wikilink"))
-  - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") 경남(MBC경남 뉴스투데이) ([MBC경남](https://ko.wikipedia.org/wiki/MBC경남 "wikilink"))
+  - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") 경남(MBC경남 뉴스투데이) ([MBC경남](../Page/MBC경남.md "wikilink"))
 
 ## 외부 링크
 

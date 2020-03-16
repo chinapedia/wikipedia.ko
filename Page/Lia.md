@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lia](https://ko.wikipedia.org/wiki/Lia).
 
 
-**Lia**(리아)는 일본의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")로, [I've Sound의](https://ko.wikipedia.org/wiki/I've_Sound "wikilink") 참여 가수이다. 15세에 미국으로 건너가 대학을 마치고 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 활동하던 중, [에어의](../Page/에어_\(비디오_게임\).md "wikilink") 오프닝 테마 〈[새의 시](https://ko.wikipedia.org/wiki/새의_시 "wikilink")〉를 부른 것을 계기로 귀국하였다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")이나 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 [해피 하드코어](https://ko.wikipedia.org/wiki/해피_하드코어 "wikilink") 분야에서도 활동하고 있으며, [이니셜D](https://ko.wikipedia.org/wiki/이니셜D "wikilink") 포스 스테이지의 All around와 같은 [유로 비트나](https://ko.wikipedia.org/wiki/유로_비트 "wikilink") Sky High를 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")를 통해 노래하였다.
+**Lia**(리아)는 일본의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")로, [I've Sound의](https://ko.wikipedia.org/wiki/I've_Sound "wikilink") 참여 가수이다. 15세에 미국으로 건너가 대학을 마치고 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 활동하던 중, [에어의](../Page/에어_\(비디오_게임\).md "wikilink") 오프닝 테마 〈[새의 시](https://ko.wikipedia.org/wiki/새의_시 "wikilink")〉를 부른 것을 계기로 귀국하였다. [미국](../Page/미국.md "wikilink")이나 [영국](../Page/영국.md "wikilink")에서 [해피 하드코어](https://ko.wikipedia.org/wiki/해피_하드코어 "wikilink") 분야에서도 활동하고 있으며, [이니셜D](https://ko.wikipedia.org/wiki/이니셜D "wikilink") 포스 스테이지의 All around와 같은 [유로 비트나](https://ko.wikipedia.org/wiki/유로_비트 "wikilink") Sky High를 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")를 통해 노래하였다.
 
 ## queens label
 
@@ -22,8 +22,8 @@
 
 ## 대한민국에서의 활동
 
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [8월 5일](https://ko.wikipedia.org/wiki/8월_5일 "wikilink") 주한 일본 대사관 주최로 열린 제5회 JMIC 노래자랑대회에 게스트로 참여했다.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink") 한국에서 팬 매팅 행사를 개최했다. 성우/애니송 커뮤니티 SORICHU의 주최로 [민들레 영토](https://ko.wikipedia.org/wiki/민들레_영토 "wikilink") 홍대점에서 개최되었으며 질의응답, 노래, 사인회 순으로 진행되었다.
+  - [2005년](../Page/2005년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") 주한 일본 대사관 주최로 열린 제5회 JMIC 노래자랑대회에 게스트로 참여했다.
+  - [2005년](../Page/2005년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") 한국에서 팬 매팅 행사를 개최했다. 성우/애니송 커뮤니티 SORICHU의 주최로 [민들레 영토](https://ko.wikipedia.org/wiki/민들레_영토 "wikilink") 홍대점에서 개최되었으며 질의응답, 노래, 사인회 순으로 진행되었다.
 
 ## 음반
 
@@ -94,7 +94,7 @@
   - 〈PRIDE ～try to fight\!～〉 - 애니 《폭구Hit\! 크래쉬 비드맨》 엔딩 테마
   - 〈Over the Future〉 - 애니 《폭구Hit\! 크래쉬 비드맨》 엔딩 테마
   - 〈Girls Can Rock〉 / 〈Feel Like A Girl〉 - 애니 《[스쿨럼블 2학기](https://ko.wikipedia.org/wiki/스쿨럼블_2학기 "wikilink")》 삽입곡
-  - 〈Horizon〉 - 게임 《[비트매니아 IIDX11 레드](https://ko.wikipedia.org/wiki/비트매니아_IIDX "wikilink")》 수록곡
+  - 〈Horizon〉 - 게임 《[비트매니아 IIDX11 레드](../Page/비트매니아_IIDX.md "wikilink")》 수록곡
   - 〈All around〉 / 〈Sky high〉 - 애니 《[이니셜 D fourth stage](https://ko.wikipedia.org/wiki/이니셜_D_fourth_stage "wikilink")》 삽입곡
   - 〈doll〉 - 애니《[건슬링거 걸: IL TEATRINO](https://ko.wikipedia.org/wiki/건슬링거_걸:_IL_TEATRINO "wikilink")》 엔딩 테마
   - 〈human〉 - 애니 《건슬링거 걸: IL TEATRINO》 커슬링 곡
@@ -110,7 +110,7 @@
 ## 같이 보기
 
   - [I've Sound](https://ko.wikipedia.org/wiki/I've_Sound "wikilink")
-  - [IA -ARIA ON THE PLANETES-](https://ko.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")
+  - [IA -ARIA ON THE PLANETES-](../Page/IA_-ARIA_ON_THE_PLANETES-.md "wikilink")
 
 ## 외부 링크
 

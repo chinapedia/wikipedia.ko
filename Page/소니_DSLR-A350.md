@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ DSLR-A350](https://ko.wikipedia.org/wiki/_DSLR-A350).
 
 
-**소니 알파 DSLR-A350**()는 2008년 1월 30일에 발표된 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")의 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 센서를 움직이는 형태의 [손떨림 방지](https://ko.wikipedia.org/wiki/손떨림_방지 "wikilink") 기능을 가지고 있다. [펜타미러](https://ko.wikipedia.org/wiki/펜타미러 "wikilink") 틸트 매커니즘을 사용하여 [라이브뷰](https://ko.wikipedia.org/wiki/라이브뷰 "wikilink") 중에도 [위상차 검출 자동 초점이](https://ko.wikipedia.org/wiki/자동_초점 "wikilink") 가능하다.
+**소니 알파 DSLR-A350**()는 2008년 1월 30일에 발표된 [소니](../Page/소니.md "wikilink")의 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 센서를 움직이는 형태의 [손떨림 방지](https://ko.wikipedia.org/wiki/손떨림_방지 "wikilink") 기능을 가지고 있다. [펜타미러](https://ko.wikipedia.org/wiki/펜타미러 "wikilink") 틸트 매커니즘을 사용하여 [라이브뷰](https://ko.wikipedia.org/wiki/라이브뷰 "wikilink") 중에도 [위상차 검출 자동 초점이](../Page/자동_초점.md "wikilink") 가능하다.
 
 23.6 x 15.8 mm 크기에 1420만 유효 [화소](https://ko.wikipedia.org/wiki/화소 "wikilink")를 가지는 소니 [CCD](https://ko.wikipedia.org/wiki/CCD "wikilink") 센서를 가지고 있다.
 

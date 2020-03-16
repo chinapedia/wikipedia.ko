@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ten \(  \)](https://ko.wikipedia.org/wiki/Ten_\(__\)).
 
 
-《**Ten**》은 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 발매 된 [펄 잼의](../Page/펄_잼.md "wikilink") 첫 번째 음반이다. [너바나](../Page/너바나.md "wikilink")의 《[Nevermind](../Page/Nevermind.md "wikilink")》와 함께 [90년대](https://ko.wikipedia.org/wiki/1990년대 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [록](https://ko.wikipedia.org/wiki/록 "wikilink")에서 가장 중요한 음반으로 꼽힌다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")보다 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")에서 먼저 공개되었다.
+《**Ten**》은 [1991년](../Page/1991년.md "wikilink") 발매 된 [펄 잼의](../Page/펄_잼.md "wikilink") 첫 번째 음반이다. [너바나](../Page/너바나.md "wikilink")의 《[Nevermind](../Page/Nevermind.md "wikilink")》와 함께 [90년대](../Page/1990년대.md "wikilink") [미국](../Page/미국.md "wikilink") [록](https://ko.wikipedia.org/wiki/록 "wikilink")에서 가장 중요한 음반으로 꼽힌다. [미국](../Page/미국.md "wikilink")보다 [영국](../Page/영국.md "wikilink")에서 먼저 공개되었다.
 
 ## 수록곡
 
@@ -17,7 +17,7 @@
 10. Deep
 11. Release
 
-[유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink")에서 발매된 음반에는 다음 3곡이 더 있다.
+[유럽](../Page/유럽.md "wikilink")에서 발매된 음반에는 다음 3곡이 더 있다.
 
   - Alive (생음악)
   - Wash
@@ -36,8 +36,8 @@
 
 ## 참고
 
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 3월부터 4월까지 [시애틀](https://ko.wikipedia.org/wiki/시애틀 "wikilink")에 위치한 '런던 브리지 녹음실'에서 녹음되었다.
-  - 음반의 이름은 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink") 선수 [무키 블래이락의](https://ko.wikipedia.org/wiki/무키_블래이락 "wikilink") 등 숫자(10)에서 브롯되었다. 법적 문제로 이름을 펄 잼으로 바꾸기 전 펄 잼의 이름은 무키 블래이락이었다.
+  - [1991년](../Page/1991년.md "wikilink") 3월부터 4월까지 [시애틀](../Page/시애틀.md "wikilink")에 위치한 '런던 브리지 녹음실'에서 녹음되었다.
+  - 음반의 이름은 [농구](../Page/농구.md "wikilink") 선수 [무키 블래이락의](https://ko.wikipedia.org/wiki/무키_블래이락 "wikilink") 등 숫자(10)에서 브롯되었다. 법적 문제로 이름을 펄 잼으로 바꾸기 전 펄 잼의 이름은 무키 블래이락이었다.
 
 ## 각주
 

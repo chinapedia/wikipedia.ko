@@ -7,7 +7,7 @@
 
 현재 통기타 연주자 [Miles Gilderdale가](https://ko.wikipedia.org/wiki/Miles_Gilderdale "wikilink") 이 앨범의 두 곡에 기여했다.
 
-타이틀 곡 Augusträsse 18은 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [Bonn](https://ko.wikipedia.org/wiki/Bonn "wikilink")에 있는 Hansa Haus Studios에서 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 수많은 곡들을 맡았던 John Parsons이 녹음을 맡았다.
+타이틀 곡 Augusträsse 18은 [독일](../Page/독일.md "wikilink") [Bonn](https://ko.wikipedia.org/wiki/Bonn "wikilink")에 있는 Hansa Haus Studios에서 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 수많은 곡들을 맡았던 John Parsons이 녹음을 맡았다.
 
 ## 트랙
 

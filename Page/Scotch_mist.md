@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Scotch mist](https://ko.wikipedia.org/wiki/Scotch_mist).
 
 
-**Scotch mist**는 2007년 12월 31일, 영국 밴드 [라디오헤드](https://ko.wikipedia.org/wiki/라디오헤드 "wikilink")가 새 앨범 《[In Rainbows](https://ko.wikipedia.org/wiki/In_Rainbows "wikilink")》의 발매와 관련해서 방영한 웹캐스트이다. 라디오헤드는 [radiohead.tv](http://www.radiohead.tv)를 통해 실시간으로 비디오를 내보냈다.\[1\]
+**Scotch mist**는 2007년 12월 31일, 영국 밴드 [라디오헤드](../Page/라디오헤드.md "wikilink")가 새 앨범 《[In Rainbows](../Page/In_Rainbows.md "wikilink")》의 발매와 관련해서 방영한 웹캐스트이다. 라디오헤드는 [radiohead.tv](http://www.radiohead.tv)를 통해 실시간으로 비디오를 내보냈다.\[1\]
 
 ## 수록곡
 

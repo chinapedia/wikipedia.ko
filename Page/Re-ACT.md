@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Re-ACT](https://ko.wikipedia.org/wiki/Re-ACT).
 
 
-**Re-ACT**는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [5월 12일에](https://ko.wikipedia.org/wiki/5월_12일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 2번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+**Re-ACT**는 [1999년](../Page/1999년.md "wikilink") [5월 12일에](../Page/5월_12일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 트랙리스트
 

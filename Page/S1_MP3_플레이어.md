@@ -5,30 +5,30 @@
 
 ## 기능
 
-  - MP1, [MP2](https://ko.wikipedia.org/wiki/MPEG-2 "wikilink"), [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink"), [WMA](https://ko.wikipedia.org/wiki/윈도_미디어_오디오 "wikilink") 음악 파일의 재생
+  - MP1, [MP2](../Page/MPEG-2.md "wikilink"), [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink"), [WMA](https://ko.wikipedia.org/wiki/윈도_미디어_오디오 "wikilink") 음악 파일의 재생
   - 몇몇 제품에서 WMA [DRM](../Page/디지털_권리_관리.md "wikilink") 지원
   - 몇몇 제품에서 [Ogg Vorbis](https://ko.wikipedia.org/wiki/Ogg_Vorbis "wikilink") 지원
-  - USB 대용량 장치 계열 지원 - [윈도 XP](https://ko.wikipedia.org/wiki/윈도_XP "wikilink"), [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink"), [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 환경에서 작동, [USB 플래시 드라이브](../Page/USB_플래시_드라이브.md "wikilink") 기능
+  - USB 대용량 장치 계열 지원 - [윈도 XP](https://ko.wikipedia.org/wiki/윈도_XP "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 환경에서 작동, [USB 플래시 드라이브](../Page/USB_플래시_드라이브.md "wikilink") 기능
   - 메모리 기능의 경우 64MB에서 4GB까지 지원, 4GB의 경우는 보통 4GB처럼 보이도록 조작한 더 작은 [플래시 메모리를](../Page/플래시_메모리.md "wikilink") 사용
 
 ### 설명
 
   - 24비트 [DSP](https://ko.wikipedia.org/wiki/디지털_신호_처리장치 "wikilink")
-  - 8비트 [Z80](https://ko.wikipedia.org/wiki/Z80 "wikilink") [CPU](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") 코어
-  - [USB](https://ko.wikipedia.org/wiki/USB "wikilink") 2.0 Full Speed
-  - [주파수 응답](https://ko.wikipedia.org/wiki/주파수_응답 "wikilink"): 20 Hz 에서 20 kHz
-  - 이어폰 [임피던스](https://ko.wikipedia.org/wiki/임피던스 "wikilink") 32 [Ω](https://ko.wikipedia.org/wiki/Ω "wikilink")
-  - 정격 출력: 5 mW x 5 mW (16 [Ω](https://ko.wikipedia.org/wiki/Ω "wikilink"))
+  - 8비트 [Z80](https://ko.wikipedia.org/wiki/Z80 "wikilink") [CPU](../Page/중앙_처리_장치.md "wikilink") 코어
+  - [USB](../Page/USB.md "wikilink") 2.0 Full Speed
+  - [주파수 응답](../Page/주파수_응답.md "wikilink"): 20 Hz 에서 20 kHz
+  - 이어폰 [임피던스](https://ko.wikipedia.org/wiki/임피던스 "wikilink") 32 [Ω](../Page/Ω.md "wikilink")
+  - 정격 출력: 5 mW x 5 mW (16 [Ω](../Page/Ω.md "wikilink"))
   - [신호 대 잡음비](https://ko.wikipedia.org/wiki/신호_대_잡음비 "wikilink") 약 70 dB
-  - [FM 라디오](https://ko.wikipedia.org/wiki/FM_라디오 "wikilink") ([필립스](../Page/필립스.md "wikilink") TEA5756 라디오 칩을 사용함, 이 칩은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")과 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 FM 방송을 조종할 수 있다)
+  - [FM 라디오](https://ko.wikipedia.org/wiki/FM_라디오 "wikilink") ([필립스](../Page/필립스.md "wikilink") TEA5756 라디오 칩을 사용함, 이 칩은 [미국](../Page/미국.md "wikilink")과 [일본](../Page/일본.md "wikilink")의 FM 방송을 조종할 수 있다)
   - 그래픽 이퀼라이저 설정 가능
   - 내장 [마이크로폰](../Page/마이크로폰.md "wikilink")을 통한 녹음이나 라디오 방송의 [ADPCM](https://ko.wikipedia.org/wiki/ADPCM "wikilink") WAV (32 Kbit/s), [ACT](https://ko.wikipedia.org/wiki/ACT_\(오디오_포맷\) "wikilink") (8 kbit/s) or [VOR](https://ko.wikipedia.org/wiki/VOR_\(포맷\) "wikilink") (32 혹은 8 kbit/s) 포맷으로의 녹음 기능
   - ID3 태그 보여주기
 
 ### 소프트웨어
 
-  - [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 환경을 위한 [펌웨어](https://ko.wikipedia.org/wiki/펌웨어 "wikilink") 업그레이드 프로그램
-  - [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink") 프로그램 혹은 [펌웨어](https://ko.wikipedia.org/wiki/펌웨어 "wikilink") 해킹을 통한 로고 수정
+  - [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 환경을 위한 [펌웨어](../Page/펌웨어.md "wikilink") 업그레이드 프로그램
+  - [중국어](../Page/중국어.md "wikilink") 프로그램 혹은 [펌웨어](../Page/펌웨어.md "wikilink") 해킹을 통한 로고 수정
 
 ### 하드웨어
 
@@ -37,7 +37,7 @@
 
 ## 같이 보기
 
-  - [MP4 플레이어](https://ko.wikipedia.org/wiki/MP4_플레이어 "wikilink")
+  - [MP4 플레이어](../Page/MP4_플레이어.md "wikilink")
 
 ## 외부 링크
 

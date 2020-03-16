@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ ARJ21](https://ko.wikipedia.org/wiki/_ARJ21).
 
 
-[200px](https://ko.wikipedia.org/wiki/파일:COMAC_ARJ21_Gu.jpg "wikilink") **코멕 ARJ21**은 78\~95명의 정원을 탑승할 수 있는 [중국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink") 최초의 제트 [여객기](https://ko.wikipedia.org/wiki/여객기 "wikilink")이다. 주요 고객은 대부분의 중국 항공사이며, [상하이 항공과](https://ko.wikipedia.org/wiki/상하이_항공 "wikilink") [심천 항공](https://ko.wikipedia.org/wiki/심천_항공 "wikilink"), [샤먼 항공](https://ko.wikipedia.org/wiki/샤먼_항공 "wikilink"), [곤붕 항공에](https://ko.wikipedia.org/wiki/곤붕_항공 "wikilink") 1차로 인도되었으며 2008년 11월 28일 첫 비행을 하였다.
+[200px](https://ko.wikipedia.org/wiki/파일:COMAC_ARJ21_Gu.jpg "wikilink") **코멕 ARJ21**은 78\~95명의 정원을 탑승할 수 있는 [중국](../Page/중화인민공화국.md "wikilink") 최초의 제트 [여객기](../Page/여객기.md "wikilink")이다. 주요 고객은 대부분의 중국 항공사이며, [상하이 항공과](https://ko.wikipedia.org/wiki/상하이_항공 "wikilink") [심천 항공](https://ko.wikipedia.org/wiki/심천_항공 "wikilink"), [샤먼 항공](https://ko.wikipedia.org/wiki/샤먼_항공 "wikilink"), [곤붕 항공에](https://ko.wikipedia.org/wiki/곤붕_항공 "wikilink") 1차로 인도되었으며 2008년 11월 28일 첫 비행을 하였다.
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 ## 설계
 
-ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더글라스 "wikilink") [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")과 매우 유사한 형상을 가지고 있다. 특히 객실의 단면 형상과 코, 꼬리 부분 등은 완전히 동일하다. 중국은 [MD-90](https://ko.wikipedia.org/wiki/MD-90 "wikilink") (DC-9의 후속 기종)의 중국 현지 면허 생산에 사용하던 설비를 그대로 사용하여 ARJ21을 제작한다. [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")은 100인승 여객기의 대명사였으며, 보잉사는 [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")이 장악한 시장에 도전하기 위해 [보잉 737을](https://ko.wikipedia.org/wiki/보잉_737 "wikilink") 개발하였다. [보잉 737은](https://ko.wikipedia.org/wiki/보잉_737 "wikilink") 보잉사에서 만든 여객기 중 가장 많이 팔린 여객기이다.
+ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더글라스 "wikilink") [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")과 매우 유사한 형상을 가지고 있다. 특히 객실의 단면 형상과 코, 꼬리 부분 등은 완전히 동일하다. 중국은 [MD-90](https://ko.wikipedia.org/wiki/MD-90 "wikilink") (DC-9의 후속 기종)의 중국 현지 면허 생산에 사용하던 설비를 그대로 사용하여 ARJ21을 제작한다. [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")은 100인승 여객기의 대명사였으며, 보잉사는 [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")이 장악한 시장에 도전하기 위해 [보잉 737을](../Page/보잉_737.md "wikilink") 개발하였다. [보잉 737은](../Page/보잉_737.md "wikilink") 보잉사에서 만든 여객기 중 가장 많이 팔린 여객기이다.
 
 ## 주문 현황
 
@@ -26,7 +26,7 @@ ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더
 
 일본, 중국, 러시아, 브라질, 캐나다에서 자체개발한 국산 737 여객기(90인승)를 세계 시장에 선보이고 있다. 한국도 90인승 여객기를 독자개발하려고 한다. 점보여객기 중에서 가장 작은 체급이라서, 모두들 이 기종부터 도전하고 있다. 원래 한국은 2000년까지 90인승 여객기를 중국과 합작해서 개발하겠다고 언론에 보도되었는데, 중도에 취소되었고, 2010년 현재 중국은 90인승 여객기를 독자개발했으나, 한국은 아직 개발계획조차 확정되지 않은 상태에 있다. 중소형 여객기의 수요는 앞으로 20년 동안 전 세계에서 4천대 정도로 예상되고 있다.\[1\] 대당 200억원으로 계산하면 20년간 80조원의 수요가 예상된다.
 
-  - \- [보잉 737](https://ko.wikipedia.org/wiki/보잉_737 "wikilink") 3200만 달러
+  - \- [보잉 737](../Page/보잉_737.md "wikilink") 3200만 달러
 
   - \- [에어버스 A320](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink") 5600만 달러
 
@@ -40,7 +40,7 @@ ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더
 
   - \- [봄바디어 CRJ700](https://ko.wikipedia.org/wiki/봄바디어_CRJ700 "wikilink") 3900만 달러
 
-  - \- [포커 100](https://ko.wikipedia.org/wiki/포커_100 "wikilink")
+  - \- [포커 100](../Page/포커_100.md "wikilink")
 
   - \- [KCDC K100](../Page/KCDC_K100.md "wikilink") 계획중.
 
@@ -56,7 +56,7 @@ ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더
   - 공허 중량: 24.955 kg
   - 최대 이륙 중량: 40,500 kg
   - 연료 적재량: 10,386 kg
-  - 엔진: [제너럴 일렉트릭 CF34](https://ko.wikipedia.org/wiki/제너럴_일렉트릭_CF34 "wikilink")-10A [터보팬](https://ko.wikipedia.org/wiki/터보팬 "wikilink") 2기, 각 68,20 kN의 추력
+  - 엔진: [제너럴 일렉트릭 CF34](https://ko.wikipedia.org/wiki/제너럴_일렉트릭_CF34 "wikilink")-10A [터보팬](../Page/터보팬.md "wikilink") 2기, 각 68,20 kN의 추력
 
 #### 성능
 

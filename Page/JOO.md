@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JOO](https://ko.wikipedia.org/wiki/JOO).
 
 
-**JOO**(, [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [10월 11일](https://ko.wikipedia.org/wiki/10월_11일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 3월 영재 가수 발굴 프로젝트 프로그램인 [SBS](../Page/SBS.md "wikilink") 《슈퍼스타 서바이벌》 본선에 진출했으나 6차 관문에서 탈락하였다. 그러나 그녀의 가능성을 알아본 프로듀서 [박진영](https://ko.wikipedia.org/wiki/박진영 "wikilink")에 의해 발탁되었고, 약 2년간의 트레이닝 후 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 11일](https://ko.wikipedia.org/wiki/1월_11일 "wikilink") KBS 뮤직뱅크에서 데뷔곡 "남자 때문에"로 데뷔하였다.\[1\] 고등학생이 되며 트레이닝을 받았다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 2년 만에 미니앨범 *Heartmade*를 발매하고 타이틀곡 〈나쁜 남자〉로 활동하였다.\[2\] 2015년 4월 7일 [울림엔터테인먼트](https://ko.wikipedia.org/wiki/울림엔터테인먼트 "wikilink")로 이적한다. 2015년 11월 2일, 5년간의 오랜 공백기를 깨고 디지털 싱글 〈울고 분다〉로 컴백했다.
+**JOO**(, [1990년](../Page/1990년.md "wikilink") [10월 11일](../Page/10월_11일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다, [2006년](../Page/2006년.md "wikilink") 3월 영재 가수 발굴 프로젝트 프로그램인 [SBS](../Page/SBS.md "wikilink") 《슈퍼스타 서바이벌》 본선에 진출했으나 6차 관문에서 탈락하였다. 그러나 그녀의 가능성을 알아본 프로듀서 [박진영](../Page/박진영.md "wikilink")에 의해 발탁되었고, 약 2년간의 트레이닝 후 [2008년](../Page/2008년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") KBS 뮤직뱅크에서 데뷔곡 "남자 때문에"로 데뷔하였다.\[1\] 고등학생이 되며 트레이닝을 받았다. [2011년](../Page/2011년.md "wikilink") 2년 만에 미니앨범 *Heartmade*를 발매하고 타이틀곡 〈나쁜 남자〉로 활동하였다.\[2\] 2015년 4월 7일 [울림엔터테인먼트](../Page/울림엔터테인먼트.md "wikilink")로 이적한다. 2015년 11월 2일, 5년간의 오랜 공백기를 깨고 디지털 싱글 〈울고 분다〉로 컴백했다.
 
 ## 학력
 
@@ -25,7 +25,7 @@
 <td style="text-align: left;"><p><strong>1</strong></p></td>
 <td style="text-align: left;"><p>《<strong>어느 늦은 아침</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/5월_26일" title="wikilink">5월 26일</a></li>
+<li>발매일: <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/5월_26일.md" title="wikilink">5월 26일</a></li>
 </ul></td>
 <td style="text-align: left;"><p><small></p>
 <ol>
@@ -51,13 +51,13 @@
 <td style="text-align: left;"><p><strong>1</strong></p></td>
 <td style="text-align: left;"><p>《<strong>Heartmade</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/1월_4일" title="wikilink">1월 4일</a></li>
+<li>발매일: <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/1월_4일.md" title="wikilink">1월 4일</a></li>
 </ul></td>
 <td style="text-align: left;"><p><small></p>
 <ol>
 <li><strong>나쁜 남자</strong></li>
 <li>물 한잔도 마실수 없어</li>
-<li>영화도 안보니 (Feat. <a href="https://ko.wikipedia.org/wiki/찬성_(가수)" title="wikilink">찬성</a> of <a href="https://ko.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>)</li>
+<li>영화도 안보니 (Feat. <a href="../Page/찬성_(가수).md" title="wikilink">찬성</a> of <a href="https://ko.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>)</li>
 <li>마주치고 나서</li>
 <li>꿈만 같아</li>
 <li>나쁜 남자 (Inst.)</small></li>
@@ -81,7 +81,7 @@
 <td style="text-align: left;"><p><strong>1</strong></p></td>
 <td style="text-align: left;"><p>《<strong>어린 여자</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a> <a href="https://ko.wikipedia.org/wiki/1월_10일" title="wikilink">1월 10일</a></li>
+<li>발매일: <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/1월_10일.md" title="wikilink">1월 10일</a></li>
 </ul></td>
 <td style="text-align: left;"><p><small></p>
 <ol>
@@ -97,7 +97,7 @@
 <td style="text-align: left;"><p><strong>2</strong></p></td>
 <td style="text-align: left;"><p>《<strong>아이스크림</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/5월_16일" title="wikilink">5월 16일</a></li>
+<li>발매일: <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/5월_16일.md" title="wikilink">5월 16일</a></li>
 </ul></td>
 <td style="text-align: left;"><p><small></p>
 <ol>
@@ -109,7 +109,7 @@
 <td style="text-align: left;"><p><strong>3</strong></p></td>
 <td style="text-align: left;"><p>《<strong>울고 분다</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/11월_2일" title="wikilink">11월 2일</a></li>
+<li>발매일: <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/11월_2일.md" title="wikilink">11월 2일</a></li>
 </ul></td>
 <td style="text-align: left;"><p><small></p>
 <ol>
@@ -121,7 +121,7 @@
 <td style="text-align: left;"><p><strong>4</strong></p></td>
 <td style="text-align: left;"><p>《<strong>어느 늦은 아침</strong>》</p>
 <ul>
-<li>발매일: <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/5월_26일" title="wikilink">5월 26일</a></li>
+<li>발매일: <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/5월_26일.md" title="wikilink">5월 26일</a></li>
 </ul></td>
 <td style="text-align: left;"><p><small></p>
 <ol>
@@ -134,32 +134,32 @@
 
 ### 참여 앨범
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 〈초연(怊緣)〉 - [한성별곡](../Page/한성별곡.md "wikilink") OST
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 〈그게 사랑이야〉 - [아빠 셋 엄마 하나](https://ko.wikipedia.org/wiki/아빠_셋_엄마_하나 "wikilink") OST
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 〈색 (色) 〉 - [바람의 화원](../Page/바람의_화원_\(드라마\).md "wikilink") OST
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 〈우리들의 행복한 시간〉 - 타우
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 〈뒤돌아봐〉 - [신데렐라 언니](https://ko.wikipedia.org/wiki/신데렐라_언니 "wikilink") OST
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 〈Shooting Star〉 - 스니커
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 〈원하잖아〉 - [산이](https://ko.wikipedia.org/wiki/산이 "wikilink")
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 〈This Christmas〉 - JYP Nation
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 〈드림하이〉 - [드림하이](https://ko.wikipedia.org/wiki/드림하이 "wikilink") OST
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 〈기대했단 말야〉 - [샐러리맨 초한지](https://ko.wikipedia.org/wiki/샐러리맨_초한지 "wikilink") OST
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 〈넌 나의 천사〉 - [비투비](https://ko.wikipedia.org/wiki/비투비 "wikilink")
+  - [2007년](../Page/2007년.md "wikilink") 〈초연(怊緣)〉 - [한성별곡](../Page/한성별곡.md "wikilink") OST
+  - [2008년](../Page/2008년.md "wikilink") 〈그게 사랑이야〉 - [아빠 셋 엄마 하나](../Page/아빠_셋_엄마_하나.md "wikilink") OST
+  - [2008년](../Page/2008년.md "wikilink") 〈색 (色) 〉 - [바람의 화원](../Page/바람의_화원_\(드라마\).md "wikilink") OST
+  - [2008년](../Page/2008년.md "wikilink") 〈우리들의 행복한 시간〉 - 타우
+  - [2010년](../Page/2010년.md "wikilink") 〈뒤돌아봐〉 - [신데렐라 언니](../Page/신데렐라_언니.md "wikilink") OST
+  - [2010년](../Page/2010년.md "wikilink") 〈Shooting Star〉 - 스니커
+  - [2010년](../Page/2010년.md "wikilink") 〈원하잖아〉 - [산이](../Page/산이.md "wikilink")
+  - [2010년](../Page/2010년.md "wikilink") 〈This Christmas〉 - JYP Nation
+  - [2011년](../Page/2011년.md "wikilink") 〈드림하이〉 - [드림하이](../Page/드림하이.md "wikilink") OST
+  - [2012년](../Page/2012년.md "wikilink") 〈기대했단 말야〉 - [샐러리맨 초한지](../Page/샐러리맨_초한지.md "wikilink") OST
+  - [2014년](../Page/2014년.md "wikilink") 〈넌 나의 천사〉 - [비투비](../Page/비투비.md "wikilink")
 
 ## 출연 작품
 
-| 연도   | 분류                                                              | 장르                                                                                                      | 제목                                                                          | 역할                | 비고                                                      |
-| ---- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------- |
-| 2008 | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")           | 예능                                                                                                      | 골든힛트쏭                                                                       | 진행                | with. [허참](https://ko.wikipedia.org/wiki/허참 "wikilink") |
-| 2008 | [KBS1](https://ko.wikipedia.org/wiki/KBS1 "wikilink")           | 예능                                                                                                      | [가족오락관](https://ko.wikipedia.org/wiki/가족오락관 "wikilink")                     | 게스트               |                                                         |
-| 2010 | 영화                                                              | 전쟁                                                                                                      | [작은 연못](https://ko.wikipedia.org/wiki/작은_연못 "wikilink")                     | 피난민들              | 단역                                                      |
-| 2011 | [KBS 월화드라마](https://ko.wikipedia.org/wiki/KBS_월화드라마 "wikilink") | 학교                                                                                                      | [드림하이](https://ko.wikipedia.org/wiki/드림하이 "wikilink")                       | 정아정               | \[3\]                                                   |
-| 2011 | 공연                                                              | 뮤지컬                                                                                                     | 젊음의 행진                                                                      | 오영심               |                                                         |
-| 2012 | align="center | 공연                                              | 뮤지컬                                                                                                     | [캐치 미 이프 유 캔](https://ko.wikipedia.org/wiki/캐치_미_이프_유_캔 "wikilink")         | 브렌다               |                                                         |
-| 2013 | 영화                                                              | [멜로](https://ko.wikipedia.org/wiki/멜로 "wikilink") / [로맨스](https://ko.wikipedia.org/wiki/로맨스 "wikilink") | [결혼전야](../Page/결혼전야.md "wikilink")                                          | align="center| 아름 |                                                         |
-| 2014 | 공연                                                              | 뮤지컬                                                                                                     | 풀 하우스                                                                       | 한지은               |                                                         |
-| 2017 | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")           | 오디션                                                                                                     | align="center| [아이돌 리부팅 프로젝트 더 유닛](../Page/아이돌_리부팅_프로젝트_더_유닛.md "wikilink") | 참가자               |                                                         |
-|      |                                                                 |                                                                                                         |                                                                             |                   |                                                         |
+| 연도   | 분류                                                              | 장르                                                                                                      | 제목                                                                          | 역할                | 비고                                   |
+| ---- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------- | ------------------------------------ |
+| 2008 | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")           | 예능                                                                                                      | 골든힛트쏭                                                                       | 진행                | with. [허참](../Page/허참.md "wikilink") |
+| 2008 | [KBS1](https://ko.wikipedia.org/wiki/KBS1 "wikilink")           | 예능                                                                                                      | [가족오락관](https://ko.wikipedia.org/wiki/가족오락관 "wikilink")                     | 게스트               |                                      |
+| 2010 | 영화                                                              | 전쟁                                                                                                      | [작은 연못](../Page/작은_연못.md "wikilink")                                        | 피난민들              | 단역                                   |
+| 2011 | [KBS 월화드라마](https://ko.wikipedia.org/wiki/KBS_월화드라마 "wikilink") | 학교                                                                                                      | [드림하이](../Page/드림하이.md "wikilink")                                          | 정아정               | \[3\]                                |
+| 2011 | 공연                                                              | 뮤지컬                                                                                                     | 젊음의 행진                                                                      | 오영심               |                                      |
+| 2012 | align="center | 공연                                              | 뮤지컬                                                                                                     | [캐치 미 이프 유 캔](../Page/캐치_미_이프_유_캔.md "wikilink")                            | 브렌다               |                                      |
+| 2013 | 영화                                                              | [멜로](https://ko.wikipedia.org/wiki/멜로 "wikilink") / [로맨스](https://ko.wikipedia.org/wiki/로맨스 "wikilink") | [결혼전야](../Page/결혼전야.md "wikilink")                                          | align="center| 아름 |                                      |
+| 2014 | 공연                                                              | 뮤지컬                                                                                                     | 풀 하우스                                                                       | 한지은               |                                      |
+| 2017 | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")           | 오디션                                                                                                     | align="center| [아이돌 리부팅 프로젝트 더 유닛](../Page/아이돌_리부팅_프로젝트_더_유닛.md "wikilink") | 참가자               |                                      |
+|      |                                                                 |                                                                                                         |                                                                             |                   |                                      |
 
 ## 수상 내역
 

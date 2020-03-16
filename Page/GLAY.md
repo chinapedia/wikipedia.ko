@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [GLAY](https://ko.wikipedia.org/wiki/GLAY).
 
 
-**글레이** (GLAY)는 [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink") [하코다테 시에서](https://ko.wikipedia.org/wiki/하코다테_시 "wikilink") [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink") 재학 중이던 기타리스트 타쿠로(TAKURO)와 보컬 테루(TERU)가 결성한 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 1994년에 데뷔했으며 1990년대 후반에 발표한 음반들이 높은 판매량을 기록했다. 대표곡으로는 밀리언셀러를 기록한 〈However〉, 〈유와쿠〉, 〈Soul Love〉, 〈Be With You〉, 〈Winter, Again〉, 〈토마도이 / Special Thanks〉 등이 있다. 1999년 [마쿠하리 멧세](https://ko.wikipedia.org/wiki/마쿠하리_멧세 "wikilink") 주차장 특설 무대에서 개최한 단독 콘서트 《Glay Expo'99 Survival》에서는 20만 명의 관객을 동원했는데\[1\]\[2\] 이는 2012년까지 일본 최대의 기록이며 유료 공연으로서는 세계 기록이기도 하다.
+**글레이** (GLAY)는 [1988년](../Page/1988년.md "wikilink") [일본](../Page/일본.md "wikilink")의 [홋카이도](../Page/홋카이도.md "wikilink") [하코다테 시에서](https://ko.wikipedia.org/wiki/하코다테_시 "wikilink") [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink") 재학 중이던 기타리스트 타쿠로(TAKURO)와 보컬 테루(TERU)가 결성한 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 1994년에 데뷔했으며 1990년대 후반에 발표한 음반들이 높은 판매량을 기록했다. 대표곡으로는 밀리언셀러를 기록한 〈However〉, 〈유와쿠〉, 〈Soul Love〉, 〈Be With You〉, 〈Winter, Again〉, 〈토마도이 / Special Thanks〉 등이 있다. 1999년 [마쿠하리 멧세](../Page/마쿠하리_멧세.md "wikilink") 주차장 특설 무대에서 개최한 단독 콘서트 《Glay Expo'99 Survival》에서는 20만 명의 관객을 동원했는데\[1\]\[2\] 이는 2012년까지 일본 최대의 기록이며 유료 공연으로서는 세계 기록이기도 하다.
 
-2012년 1월에 방송된 《[뮤직 스테이션](https://ko.wikipedia.org/wiki/뮤직_스테이션 "wikilink")》에 따르면 2011년까지 3,785만 장의 판매고를 기록하며 일본에서 7번째로 음반을 많이 판 음악가이다.
+2012년 1월에 방송된 《[뮤직 스테이션](../Page/뮤직_스테이션.md "wikilink")》에 따르면 2011년까지 3,785만 장의 판매고를 기록하며 일본에서 7번째로 음반을 많이 판 음악가이다.
 
 ## 발자취
 
-1988년 고등학생이었던 타쿠로, 테루를 중심으로 글레이를 결성한다. 자작곡을 중심으로 고향([홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink") [하코다테 시](https://ko.wikipedia.org/wiki/하코다테_시 "wikilink"))에서 라이브 활동을 시작한다.
+1988년 고등학생이었던 타쿠로, 테루를 중심으로 글레이를 결성한다. 자작곡을 중심으로 고향([홋카이도](../Page/홋카이도.md "wikilink") [하코다테 시](https://ko.wikipedia.org/wiki/하코다테_시 "wikilink"))에서 라이브 활동을 시작한다.
 
 1990년 고등학교를 졸업한 타쿠로, 테루, 히사시 3명은 활동지를 도쿄로 옮긴다.
 

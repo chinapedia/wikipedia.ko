@@ -7,79 +7,79 @@
 
 ### 1970년대
 
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [1월 13일](https://ko.wikipedia.org/wiki/1월_13일 "wikilink"): 무룡산 중계소 개소(CH9)
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") [12월 20일](https://ko.wikipedia.org/wiki/12월_20일 "wikilink"): 중앙방송국 업무부 부산징수사무소 울산출장소 개소
-  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink"): 한국방송공사 부산방송국 울산출장소로 개칭
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [8월 15일](https://ko.wikipedia.org/wiki/8월_15일 "wikilink"): 무룡산 TV중계소 출력증강 및 채널 변경(CH5)
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink"): 울산중계소 개소 (호출부호 HLQB, 주파수 1450 kHz)
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [1월 10일](https://ko.wikipedia.org/wiki/1월_10일 "wikilink"): 무룡산 TV중계소 표준FM 방송실시(FM 90.7 MHz)
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink"): 울산중계소 주파수 변경 (1449 kHz)
+  - [1971년](../Page/1971년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink"): 무룡산 중계소 개소(CH9)
+  - [1972년](../Page/1972년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"): 중앙방송국 업무부 부산징수사무소 울산출장소 개소
+  - [1973년](../Page/1973년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink"): 한국방송공사 부산방송국 울산출장소로 개칭
+  - [1975년](../Page/1975년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink"): 무룡산 TV중계소 출력증강 및 채널 변경(CH5)
+  - [1975년](../Page/1975년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink"): 울산중계소 개소 (호출부호 HLQB, 주파수 1450 kHz)
+  - [1978년](../Page/1978년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink"): 무룡산 TV중계소 표준FM 방송실시(FM 90.7 MHz)
+  - [1978년](../Page/1978년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink"): 울산중계소 주파수 변경 (1449 kHz)
 
 ### 1980년대
 
-  - [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink"): 무룡산 TV중계소 제3TV 방송중계 실시 (UHF CH21)
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink"): 울산중계소 자체 방송 실시 (1일 1시간)
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink"): 무룡산 TV중계소 청사 증축 (55평 → 146평)
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [5월 13일](https://ko.wikipedia.org/wiki/5월_13일 "wikilink"): 무룡산 TV중계소 제2TV 방송중계 실시(UHF CH27)
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink"): 울산중계소 방송시간 연장 (1일 20시간 → 24시간)
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [9월 17일](https://ko.wikipedia.org/wiki/9월_17일 "wikilink"): 무룡산 TV중계소 제1FM 방송중계 실시(101.9 MHz) 및 교육FM 방송중계
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [2월 10일](https://ko.wikipedia.org/wiki/2월_10일 "wikilink") : 한국방송공사 울산방송국 개국 (중파 1449 kHz, 출력 10 kW, 호출부호 HLQB)
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [7월 16일](https://ko.wikipedia.org/wiki/7월_16일 "wikilink"): 한국방송공사 부산방송본부 울산출장소로 개칭
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [12월 16일](https://ko.wikipedia.org/wiki/12월_16일 "wikilink"): 한국방송공사 울산방송국 개국 (부산방송본부 울산중계소, 무룡산송신소, 울산출장소 인수)
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [10월 26일](https://ko.wikipedia.org/wiki/10월_26일 "wikilink"): 울산방송국 제1TV 로컬방송 실시(VHF5)
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink"): 울산방송국 제2TV 로컬방송 실시(UHF27) 및 신축사옥 기공 (울산시 남구 달동 519-17)
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink"): 울산방송국 무룡산중계소, 울산송신소 KTA로 이관
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [8월 1일](https://ko.wikipedia.org/wiki/8월_1일 "wikilink"): 울산방송국 남부출장소 개소
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink"): 신축사옥 준공
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink"): 방어진송신소, 무룡산송신소, 미포 간이TVR, KTA에서 환원
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink"): 울산송신소 기공(울산시 남구 삼산동 373-1)
+  - [1980년](../Page/1980년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink"): 무룡산 TV중계소 제3TV 방송중계 실시 (UHF CH21)
+  - [1982년](../Page/1982년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink"): 울산중계소 자체 방송 실시 (1일 1시간)
+  - [1982년](../Page/1982년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink"): 무룡산 TV중계소 청사 증축 (55평 → 146평)
+  - [1983년](../Page/1983년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink"): 무룡산 TV중계소 제2TV 방송중계 실시(UHF CH27)
+  - [1983년](../Page/1983년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink"): 울산중계소 방송시간 연장 (1일 20시간 → 24시간)
+  - [1983년](../Page/1983년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink"): 무룡산 TV중계소 제1FM 방송중계 실시(101.9 MHz) 및 교육FM 방송중계
+  - [1984년](../Page/1984년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") : 한국방송공사 울산방송국 개국 (중파 1449 kHz, 출력 10 kW, 호출부호 HLQB)
+  - [1984년](../Page/1984년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink"): 한국방송공사 부산방송본부 울산출장소로 개칭
+  - [1984년](../Page/1984년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink"): 한국방송공사 울산방송국 개국 (부산방송본부 울산중계소, 무룡산송신소, 울산출장소 인수)
+  - [1985년](../Page/1985년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink"): 울산방송국 제1TV 로컬방송 실시(VHF5)
+  - [1985년](../Page/1985년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink"): 울산방송국 제2TV 로컬방송 실시(UHF27) 및 신축사옥 기공 (울산시 남구 달동 519-17)
+  - [1987년](../Page/1987년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"): 울산방송국 무룡산중계소, 울산송신소 KTA로 이관
+  - [1987년](../Page/1987년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink"): 울산방송국 남부출장소 개소
+  - [1988년](../Page/1988년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink"): 신축사옥 준공
+  - [1988년](../Page/1988년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink"): 방어진송신소, 무룡산송신소, 미포 간이TVR, KTA에서 환원
+  - [1989년](../Page/1989년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink"): 울산송신소 기공(울산시 남구 삼산동 373-1)
 
 ### 1990년대
 
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink"): 울산방송국 남부출장소 폐소
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink"): 제1FM 방송 개시
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [12월 10일](https://ko.wikipedia.org/wiki/12월_10일 "wikilink"): 울산송신소 준공
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [6월 26일](https://ko.wikipedia.org/wiki/6월_26일 "wikilink"): 미포TVR 제2TV(CH46) 설치
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink"): 은월TVR 제1TV(CH10), 제2TV(CH12) 설치/ 언양TVR 제1TV(CH35), 제2TV(CH37) 설치
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink"): 덕신TVR 제1TV(CH47), 제2TV(CH49) 설치
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink"): 표준FM(90.7 MHz) 로컬방송 실시
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink"): 부가방송 실시 (장애인방송), RDS, SCA 및 GCR 신호 (제1TV)
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink"): TVR 신,증설: 웅상TVR 제1TV(CH57), 제2TV(CH53), EBSTV(CH55), 은월TVR EBSTV(CH25), 언양TVR EBSTV(CH39)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [8월 15일](https://ko.wikipedia.org/wiki/8월_15일 "wikilink"): 제2TV 광고방송 실시
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink"): 무룡산(송) 시설 자동화
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 12월: 울산송출센터 공사 완료
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 5월: 송출센터 운용
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink"): 표준FM(90.7 MHz) STL 장비 신설
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [9월 20일](https://ko.wikipedia.org/wiki/9월_20일 "wikilink"): 울산송신소 이전공사 착공(울산시 남구 여천동 1221-4번지)
-  - [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 2일](https://ko.wikipedia.org/wiki/12월_2일 "wikilink"): 음악FM(101.9 MHz) STL 장비 교체
+  - [1990년](../Page/1990년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink"): 울산방송국 남부출장소 폐소
+  - [1990년](../Page/1990년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink"): 제1FM 방송 개시
+  - [1990년](../Page/1990년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink"): 울산송신소 준공
+  - [1991년](../Page/1991년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink"): 미포TVR 제2TV(CH46) 설치
+  - [1992년](../Page/1992년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink"): 은월TVR 제1TV(CH10), 제2TV(CH12) 설치/ 언양TVR 제1TV(CH35), 제2TV(CH37) 설치
+  - [1993년](../Page/1993년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink"): 덕신TVR 제1TV(CH47), 제2TV(CH49) 설치
+  - [1994년](../Page/1994년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink"): 표준FM(90.7 MHz) 로컬방송 실시
+  - [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink"): 부가방송 실시 (장애인방송), RDS, SCA 및 GCR 신호 (제1TV)
+  - [1996년](../Page/1996년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink"): TVR 신,증설: 웅상TVR 제1TV(CH57), 제2TV(CH53), EBSTV(CH55), 은월TVR EBSTV(CH25), 언양TVR EBSTV(CH39)
+  - [1997년](../Page/1997년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink"): 제2TV 광고방송 실시
+  - [1997년](../Page/1997년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink"): 무룡산(송) 시설 자동화
+  - [1997년](../Page/1997년.md "wikilink") 12월: 울산송출센터 공사 완료
+  - [1998년](../Page/1998년.md "wikilink") 5월: 송출센터 운용
+  - [1999년](../Page/1999년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink"): 표준FM(90.7 MHz) STL 장비 신설
+  - [1999년](../Page/1999년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink"): 울산송신소 이전공사 착공(울산시 남구 여천동 1221-4번지)
+  - [1999년](../Page/1999년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink"): 음악FM(101.9 MHz) STL 장비 교체
 
 ### 2000년대
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink"): 울산송신소 준공 및 방송승계
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 11일](https://ko.wikipedia.org/wiki/12월_11일 "wikilink"): 울산방송국 홈페이지 개설
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [9월 10일](https://ko.wikipedia.org/wiki/9월_10일 "wikilink"): 1TV 예비송신기 교체(HARRIS)
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 11일](https://ko.wikipedia.org/wiki/4월_11일 "wikilink"): TV중계차 교체
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink"): 표준FM 예비안테나 신설
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink"): 1,2TV 디지털 M/W 교체 설치
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink"): 1,2채널 DTV 송신기설치
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 28일](https://ko.wikipedia.org/wiki/11월_28일 "wikilink"): 송출센터 이설 및 TV주조 확장 공사 준공
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink"): 1DTV(CH28), 2DTV(CH40) 방송 실시(본 방송 8.9.)
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 1일](https://ko.wikipedia.org/wiki/2월_1일 "wikilink"): 교육 DTV 방송실시
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink"): TV중계차 교체, CAM 4대
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 26일](https://ko.wikipedia.org/wiki/9월_26일 "wikilink"): 은월TVR 2TV 채널변경(CH54) 및 출력증강
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink"): 표준FM 송신기 교체작업
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink"): KBS 무룡산 지상파 DMB 방송 개시
+  - [2000년](../Page/2000년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink"): 울산송신소 준공 및 방송승계
+  - [2000년](../Page/2000년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink"): 울산방송국 홈페이지 개설
+  - [2001년](../Page/2001년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink"): 1TV 예비송신기 교체(HARRIS)
+  - [2002년](../Page/2002년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink"): TV중계차 교체
+  - [2002년](../Page/2002년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink"): 표준FM 예비안테나 신설
+  - [2002년](../Page/2002년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink"): 1,2TV 디지털 M/W 교체 설치
+  - [2003년](../Page/2003년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink"): 1,2채널 DTV 송신기설치
+  - [2003년](../Page/2003년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink"): 송출센터 이설 및 TV주조 확장 공사 준공
+  - [2004년](../Page/2004년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink"): 1DTV(CH28), 2DTV(CH40) 방송 실시(본 방송 8.9.)
+  - [2005년](../Page/2005년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink"): 교육 DTV 방송실시
+  - [2005년](../Page/2005년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink"): TV중계차 교체, CAM 4대
+  - [2006년](../Page/2006년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink"): 은월TVR 2TV 채널변경(CH54) 및 출력증강
+  - [2006년](../Page/2006년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink"): 표준FM 송신기 교체작업
+  - [2007년](../Page/2007년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink"): KBS 무룡산 지상파 DMB 방송 개시
 
 ### 2010년대
 
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink") : 지상파 아날로그 방송 종료
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") : [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink")에서 지상파 아날로그 텔레비전 방송을 종료.
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") : 울산지역 디지털 주파수 재배치 완료
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") : KBS울산 1TV와 KBS울산 2TV UHD 방송개국.
+  - [2012년](../Page/2012년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") : 지상파 아날로그 방송 종료
+  - [2012년](../Page/2012년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") : [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink")에서 지상파 아날로그 텔레비전 방송을 종료.
+  - [2013년](../Page/2013년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") : 울산지역 디지털 주파수 재배치 완료
+  - [2017년](../Page/2017년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") : KBS울산 1TV와 KBS울산 2TV UHD 방송개국.
 
 ### 2020년대
 
-  - [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") : KBS 2TV [ㅋㄷㅋㄷ코딩TV](../Page/ㅋㄷㅋㄷ코딩TV.md "wikilink") 제작진들과 다이어트 체조 배워봅시다 예정
+  - [2020년](../Page/2020년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") : KBS 2TV [ㅋㄷㅋㄷ코딩TV](../Page/ㅋㄷㅋㄷ코딩TV.md "wikilink") 제작진들과 다이어트 체조 배워봅시다 예정
 
 ## 방송 송출 시설망
 
@@ -139,9 +139,9 @@
 
 | 프로그램명                                                                | 방송시간          | 편성시간                                  | 진행                                                  |
 | -------------------------------------------------------------------- | ------------- | ------------------------------------- | --------------------------------------------------- |
-| [KBS 뉴스광장 울산](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink")     | 평일 15분        | 오전 7시 35분 \~ 7시 45분                   | [박수연](../Page/박수연.md "wikilink")                    |
+| [KBS 뉴스광장 울산](../Page/KBS_뉴스광장.md "wikilink")                        | 평일 15분        | 오전 7시 35분 \~ 7시 45분                   | [박수연](../Page/박수연.md "wikilink")                    |
 | [KBS 뉴스 울산](https://ko.wikipedia.org/wiki/KBS_뉴스_\(930\) "wikilink") | 평일 15분        | 오전 9시 50분 \~ 10시                      | [이지향](https://ko.wikipedia.org/wiki/이지향 "wikilink") |
-| [KBS 뉴스 7 울산](https://ko.wikipedia.org/wiki/KBS_뉴스_7 "wikilink")     | 평일 5분         | 평일 저녁 7시 20분 \~ 7시 25분                | [김호영](../Page/김호영.md "wikilink")                    |
+| [KBS 뉴스 7 울산](../Page/KBS_뉴스_7.md "wikilink")                        | 평일 5분         | 평일 저녁 7시 20분 \~ 7시 25분                | [김호영](../Page/김호영.md "wikilink")                    |
 | [KBS 뉴스 9 울산](../Page/KBS_뉴스_9.md "wikilink")                        | 평일 15분 주말 10분 | 밤 9시 30분 \~ 9시 45분 밤 9시 30분 \~ 9시 40분 |                                                     |
 |                                                                      |               |                                       |                                                     |
 
@@ -150,7 +150,7 @@
   - [보물창고](https://web.archive.org/web/20151224171925/http://ulsan.kbs.co.kr/tv/treasure/about/)(수,50분)
   - [이슈와사람](https://web.archive.org/web/20170703180338/http://ulsan.kbs.co.kr/tv/issue/about/)(금,40분)(진행 정혜경)
   - [생생투데이 사람과 세상](../Page/생생투데이_사람과_세상.md "wikilink")(월-금,20분)
-  - [아침마당 부산](https://ko.wikipedia.org/wiki/아침마당 "wikilink")(금,1시간 5분)(부산수중계)
+  - [아침마당 부산](../Page/아침마당.md "wikilink")(금,1시간 5분)(부산수중계)
 
 ### 라디오 프로그램
 
@@ -181,17 +181,17 @@
 | [KBS 울산 아나운서](http://office.kbs.co.kr/announcer/archives/category/kbs-announcer/announcer-ulsan) |
 | ------------------------------------------------------------------------------------------------ |
 | 입사연도                                                                                             |
-| [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink")                                          |
-| [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")                                          |
-| [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")                                          |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink")                                          |
+| [1983년](../Page/1983년.md "wikilink")                                                             |
+| [1987년](../Page/1987년.md "wikilink")                                                             |
+| [1994년](../Page/1994년.md "wikilink")                                                             |
+| [2019년](../Page/2019년.md "wikilink")                                                             |
 |                                                                                                  |
 
 ## 기자
 
   - [최재훈](https://ko.wikipedia.org/wiki/최재훈 "wikilink") 보도국장
   - [허성권](https://ko.wikipedia.org/wiki/허성권 "wikilink") 취재부장
-  - [박영하](https://ko.wikipedia.org/wiki/박영하 "wikilink") 보도국장
+  - [박영하](../Page/박영하.md "wikilink") 보도국장
   - [박중관](https://ko.wikipedia.org/wiki/박중관 "wikilink") 취재부장
   - [이현진](https://ko.wikipedia.org/wiki/이현진 "wikilink")
   - [주아랑](https://ko.wikipedia.org/wiki/주아랑 "wikilink")

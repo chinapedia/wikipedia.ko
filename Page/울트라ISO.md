@@ -8,14 +8,14 @@
 ## 기능
 
   - CD, DVD를 ISO 이미지로 복제한다.
-  - [CD/DVD-ROM이나](https://ko.wikipedia.org/wiki/디스크_드라이브 "wikilink") [하드 디스크에](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 위치한 파일을 ISO 이미지에 추가하여 이미지를 제작한다.
+  - [CD/DVD-ROM이나](../Page/디스크_드라이브.md "wikilink") [하드 디스크에](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 위치한 파일을 ISO 이미지에 추가하여 이미지를 제작한다.
   - 파일이나 폴더를 추가하고 삭제하고 만드는 등 ISO 파일을 수정한다.
   - [시동 가능한](https://ko.wikipedia.org/wiki/시동 "wikilink") CD/DVD, [플로피](https://ko.wikipedia.org/wiki/플로피_드라이브 "wikilink") 이미지를 만든다.
   - .BIN, .IMG, .CIF, .NRG, .BWI 등의 다른 형식의 포맷을 ISO 표준 이미지로 변환한다.
-  - [ISO 9660](https://ko.wikipedia.org/wiki/ISO_9660 "wikilink") 수준과 Joliet 확장을 지원한다.
+  - [ISO 9660](../Page/ISO_9660.md "wikilink") 수준과 Joliet 확장을 지원한다.
   - ISO 파일 구조를 최적화하여 디스크 공간을 아낀다.
   - ISO를 [가상 드라이브로](https://ko.wikipedia.org/wiki/가상_드라이브 "wikilink") [마운트](https://ko.wikipedia.org/wiki/마운트 "wikilink")할 수 있다.
-  - ISO 데이터를 확인하는 [체크섬](https://ko.wikipedia.org/wiki/체크섬 "wikilink")을 만든다.
+  - ISO 데이터를 확인하는 [체크섬](../Page/체크섬.md "wikilink")을 만든다.
   - 여러 언어를 지원한다.
   - MP3 플레이어에서 만들 수 있다.
   - 무료 버전에서는 300 메가바이트 이하의 ISO 이미지만 만들 수 있다.

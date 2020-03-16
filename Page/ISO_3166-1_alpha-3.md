@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ISO 3166-1 alpha-3](https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-3).
 
 
-**ISO 3166-1 Alpha-3**은 ISO 3166-1에서 정한 알파벳 세 글자의 국가 코드로 나타낸 것이다. [FIFA나](https://ko.wikipedia.org/wiki/FIFA_국가별_코드_목록 "wikilink") [IOC에서 사용하는 국가 코드와](https://ko.wikipedia.org/wiki/IOC_국가_코드_목록 "wikilink") 다를 때도 있다.
+**ISO 3166-1 Alpha-3**은 ISO 3166-1에서 정한 알파벳 세 글자의 국가 코드로 나타낸 것이다. [FIFA나](https://ko.wikipedia.org/wiki/FIFA_국가별_코드_목록 "wikilink") [IOC에서 사용하는 국가 코드와](../Page/IOC_국가_코드_목록.md "wikilink") 다를 때도 있다.
 
 ## ISO 국가 부호(alpha-3)
 
@@ -532,7 +532,7 @@
 
 ## 같이 보기
 
-  - [ISO 3166-1](https://ko.wikipedia.org/wiki/ISO_3166-1 "wikilink")
+  - [ISO 3166-1](../Page/ISO_3166-1.md "wikilink")
   - [ISO 3166-1 alpha-2](https://ko.wikipedia.org/wiki/ISO_3166-1_alpha-2 "wikilink")
   - [FIFA 국가별 코드 목록](https://ko.wikipedia.org/wiki/FIFA_국가별_코드_목록 "wikilink")
   - [IOC 국가별 코드 목록](https://ko.wikipedia.org/wiki/IOC_국가별_코드_목록 "wikilink")

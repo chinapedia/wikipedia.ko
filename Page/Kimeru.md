@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kimeru](https://ko.wikipedia.org/wiki/Kimeru).
 
 
-**Kimeru**(키메루, [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [6월 17일](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") \~ )은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 가수 및 배우이다. [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [구마모토현](https://ko.wikipedia.org/wiki/구마모토현 "wikilink") 출신이며 소속사는 앱솔루트 프로덕션이다.
+**Kimeru**(키메루, [1980년](../Page/1980년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink") \~ )은 [일본](../Page/일본.md "wikilink")의 가수 및 배우이다. [일본](../Page/일본.md "wikilink") [구마모토현](../Page/구마모토현.md "wikilink") 출신이며 소속사는 앱솔루트 프로덕션이다.
 
 ## 개략
 
@@ -11,27 +11,27 @@
 
 ### 앨범
 
-1.  THE BEGINNING ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink"))
-2.  glorious ([2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink"))
-3.  GALAXY KISS ([2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 10일](https://ko.wikipedia.org/wiki/1월_10일 "wikilink"))
+1.  THE BEGINNING ([2003년](../Page/2003년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink"))
+2.  glorious ([2005년](../Page/2005년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink"))
+3.  GALAXY KISS ([2007년](../Page/2007년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink"))
 
 ### 싱글
 
-1.  You got game? ([2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink"))
-2.  Make You Free ([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink"))
-3.  OVERLAP ([2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink"))
-4.  Be Shiny ([2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink"))
-5.  The Pleasure of Love ([2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
-6.  Answer will come ([2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink"))
-7.  LOVE BITES ([2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink"))
-8.  恋のパフォマンス\~to be with you\~(사랑의 퍼포먼스 \~to be with you\~, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink"))
-9.  STYLE ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink"), 라이브 회장 한정 발매)
-10. Timeless ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink"))
-11. Starry Heavens ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink"))
-12. with you ([2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink"))
-13. 君じゃなきゃダメなんだ (네가 아니면 안돼, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink"))
-14. Junk beat ([2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [10월 31일](https://ko.wikipedia.org/wiki/10월_31일 "wikilink"))
-15. 恋してキメル\! (??, [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 23일](https://ko.wikipedia.org/wiki/1월_23일 "wikilink"))
+1.  You got game? ([2001년](../Page/2001년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink"))
+2.  Make You Free ([2002년](../Page/2002년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink"))
+3.  OVERLAP ([2004년](../Page/2004년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink"))
+4.  Be Shiny ([2004년](../Page/2004년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink"))
+5.  The Pleasure of Love ([2005년](../Page/2005년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
+6.  Answer will come ([2005년](../Page/2005년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink"))
+7.  LOVE BITES ([2005년](../Page/2005년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink"))
+8.  恋のパフォマンス\~to be with you\~(사랑의 퍼포먼스 \~to be with you\~, [2006년](../Page/2006년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink"))
+9.  STYLE ([2006년](../Page/2006년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink"), 라이브 회장 한정 발매)
+10. Timeless ([2006년](../Page/2006년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink"))
+11. Starry Heavens ([2006년](../Page/2006년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink"))
+12. with you ([2007년](../Page/2007년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink"))
+13. 君じゃなきゃダメなんだ (네가 아니면 안돼, [2007년](../Page/2007년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink"))
+14. Junk beat ([2007년](../Page/2007년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink"))
+15. 恋してキメル\! (??, [2008년](../Page/2008년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink"))
 
 ## 출연 작품
 

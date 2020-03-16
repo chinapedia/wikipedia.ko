@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Subst](https://ko.wikipedia.org/wiki/Subst).
 
 
-**`subst`**는 논리, 물리 드라이브의 경로를 [가상 드라이브로](https://ko.wikipedia.org/wiki/가상_드라이브 "wikilink") 대체하는 [도스](https://ko.wikipedia.org/wiki/도스 "wikilink") [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 명령어이다. 옛날에는 보안에 민감한 [PC의](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 숨겨진 드라이브를 드러내는 데 사용하였다. `subst`명령어는 [윈도 2000](https://ko.wikipedia.org/wiki/윈도_2000 "wikilink") 이후의 [명령 줄 인터프리터에서도](https://ko.wikipedia.org/wiki/명령_줄_인터프리터 "wikilink") 사용할 수 있다.\[1\]
+**`subst`**는 논리, 물리 드라이브의 경로를 [가상 드라이브로](https://ko.wikipedia.org/wiki/가상_드라이브 "wikilink") 대체하는 [도스](../Page/도스.md "wikilink") [운영 체제](../Page/운영_체제.md "wikilink") 명령어이다. 옛날에는 보안에 민감한 [PC의](../Page/개인용_컴퓨터.md "wikilink") 숨겨진 드라이브를 드러내는 데 사용하였다. `subst`명령어는 [윈도 2000](https://ko.wikipedia.org/wiki/윈도_2000 "wikilink") 이후의 [명령 줄 인터프리터에서도](https://ko.wikipedia.org/wiki/명령_줄_인터프리터 "wikilink") 사용할 수 있다.\[1\]
 
 ## 사용법
 

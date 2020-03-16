@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ III](https://ko.wikipedia.org/wiki/_III).
 
 
-《**삼국지 III**》(Romance of the Three Kingdoms III: Dragon of Destiny)은 [코에이](https://ko.wikipedia.org/wiki/코에이 "wikilink")에서 출시한 [삼국지 시리즈의](https://ko.wikipedia.org/wiki/삼국지_시리즈 "wikilink") 세 번째 게임이다. 한국에서는 비스코가 배급을 맡았다. [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink")/[PC98](https://ko.wikipedia.org/wiki/PC98 "wikilink") 및 [SFC](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink")/\[\[GBA\]_등_다양한_플랫폼으로_출시되었다._삼국지_시리즈_가운데_최고_성공작으로_꼽히는_작품들_중_하나이며<ref>{{뉴스_인용|제목=삼국지 인터넷’ 내년 1월 출시\]\] 기반 모바일 버전\[1\]이 출시된 바 있다. 또한 코에이가 [윈도 95용으로](https://ko.wikipedia.org/wiki/윈도_95 "wikilink") 만들어진 리메이크 버전을 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 출시하기도 했다. 리메이크 버전은 한국어로는 출시되지 않았지만 팬들에 의해 한글 패치가 제작되었다. 또한 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [닌텐도 DS로](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 출시된 [삼국지 DS](https://ko.wikipedia.org/wiki/삼국지_DS "wikilink") 또한 삼국지 III을 기반으로 제작되었다.\[2\]
+《**삼국지 III**》(Romance of the Three Kingdoms III: Dragon of Destiny)은 [코에이](../Page/코에이.md "wikilink")에서 출시한 [삼국지 시리즈의](https://ko.wikipedia.org/wiki/삼국지_시리즈 "wikilink") 세 번째 게임이다. 한국에서는 비스코가 배급을 맡았다. [MS-DOS](../Page/MS-DOS.md "wikilink")/[PC98](https://ko.wikipedia.org/wiki/PC98 "wikilink") 및 [SFC](../Page/슈퍼_패미컴.md "wikilink")/\[\[GBA\]_등_다양한_플랫폼으로_출시되었다._삼국지_시리즈_가운데_최고_성공작으로_꼽히는_작품들_중_하나이며<ref>{{뉴스_인용|제목=삼국지 인터넷’ 내년 1월 출시\]\] 기반 모바일 버전\[1\]이 출시된 바 있다. 또한 코에이가 [윈도 95용으로](https://ko.wikipedia.org/wiki/윈도_95 "wikilink") 만들어진 리메이크 버전을 [2001년](../Page/2001년.md "wikilink")에 출시하기도 했다. 리메이크 버전은 한국어로는 출시되지 않았지만 팬들에 의해 한글 패치가 제작되었다. 또한 [2007년](../Page/2007년.md "wikilink") [닌텐도 DS로](../Page/닌텐도_DS.md "wikilink") 출시된 [삼국지 DS](https://ko.wikipedia.org/wiki/삼국지_DS "wikilink") 또한 삼국지 III을 기반으로 제작되었다.\[2\]
 
 ## 시나리오
 
@@ -100,7 +100,7 @@
   - 운: 수송시 성공율과 수명을 결정짓는다. 운이 낮으면 급사하기도 한다.
   - 냉정: 지력의 상위호환 버전으로 계략에 걸리지 않을 확률이다. 높을 수록 계략에 안 걸린다.
   - 용맹: 무력의 상위호환버전으로 일기토를 할 때 영향을 끼친다. 용맹이 높을수록 일기토를 잘하며 용맹 1이 무력 10 이상의 효과를 발휘한다.
-  - 의리: 적이 등용해갈 확률이다. 의리가 높으면 스스로 재야로 내려갈 지언정 다른 군주가 등용하지 못한다. 반면 의리가 낮으면 군주를 수시로 바꾼다. [관우](https://ko.wikipedia.org/wiki/관우 "wikilink")처럼 의리가 높고 야망이 낮거나 [여포](https://ko.wikipedia.org/wiki/여포 "wikilink") 처럼 의리가 낮고 야망이 높은 장수들이 상당수 존재해서 의리와 야망이 반비례하는 것처럼 보이지만 명백히 상관 없는 스텟이다. 모든 장수들의 의리와 야망이 반비례하는 것은 아니며 [손책](../Page/손책.md "wikilink")은 의리와 야망이 모두 높으며 [미방](https://ko.wikipedia.org/wiki/미방 "wikilink")은 의리와 야망이 모두 낮다.
+  - 의리: 적이 등용해갈 확률이다. 의리가 높으면 스스로 재야로 내려갈 지언정 다른 군주가 등용하지 못한다. 반면 의리가 낮으면 군주를 수시로 바꾼다. [관우](../Page/관우.md "wikilink")처럼 의리가 높고 야망이 낮거나 [여포](../Page/여포.md "wikilink") 처럼 의리가 낮고 야망이 높은 장수들이 상당수 존재해서 의리와 야망이 반비례하는 것처럼 보이지만 명백히 상관 없는 스텟이다. 모든 장수들의 의리와 야망이 반비례하는 것은 아니며 [손책](../Page/손책.md "wikilink")은 의리와 야망이 모두 높으며 [미방](../Page/미방.md "wikilink")은 의리와 야망이 모두 낮다.
   - 상성: 각 장수간의 친밀도를 나타내는 원형 그래프로 0\~150까지 존재한다. 선형이 아닌 원형인 관계로 150 다음 수치가 0이며 상성차가 75이면 불구대천지 원수 취급이라서 등용이 안 된다.
 
 ### 외교
@@ -120,7 +120,7 @@
 | 01\. 양평(오늘날의 [차오양 시](https://ko.wikipedia.org/wiki/차오양_시 "wikilink"))        | 02\. 북평(오늘날의 [베이징 시](https://ko.wikipedia.org/wiki/베이징_시 "wikilink"))           | 03\. 대현(오늘날의 [장베이 현](https://ko.wikipedia.org/wiki/장베이_현 "wikilink"))                                                     | 04\. 진양(오늘날의 [순핑 현](https://ko.wikipedia.org/wiki/순핑_현 "wikilink"))           |
 | 05\. 남피(오늘날의 [난피 현](https://ko.wikipedia.org/wiki/난피_현 "wikilink"))          | 06\. 평원(오늘날의 [핑위안 현](https://ko.wikipedia.org/wiki/핑위안_현_\(더저우_시\) "wikilink")) | 07\. 업(오늘날의 [린장 현과](https://ko.wikipedia.org/wiki/린장_현 "wikilink") [안양 시](https://ko.wikipedia.org/wiki/안양_시 "wikilink")) | 08\. 북해(오늘날의 [팡쯔 구](https://ko.wikipedia.org/wiki/팡쯔_구 "wikilink"))           |
 | 09\. 복양(오늘날의 [푸양 시](https://ko.wikipedia.org/wiki/푸양_시_\(허난_성\) "wikilink")) | 10\. 진류(오늘날의 [카이펑 시](https://ko.wikipedia.org/wiki/카이펑_시 "wikilink"))           | 11\. 낙양(오늘날의 [뤄양 시](https://ko.wikipedia.org/wiki/뤄양_시 "wikilink"))                                                       | 12\. 홍농(오늘날의 [링바오 시](https://ko.wikipedia.org/wiki/링바오_시 "wikilink"))         |
-| 13\. 장안(오늘날의 [장안](https://ko.wikipedia.org/wiki/장안 "wikilink"))              | 14\. 안정(오늘날의 [안딩 구](https://ko.wikipedia.org/wiki/안딩_구_\(딩시_시\) "wikilink"))    | 15\. 천수(오늘날의 [톈수이 시](https://ko.wikipedia.org/wiki/톈수이_시 "wikilink"))                                                     | 16\. 서량(오늘날의 [진타 현](https://ko.wikipedia.org/wiki/진타_현 "wikilink"))           |
+| 13\. 장안(오늘날의 [장안](../Page/장안.md "wikilink"))                                 | 14\. 안정(오늘날의 [안딩 구](https://ko.wikipedia.org/wiki/안딩_구_\(딩시_시\) "wikilink"))    | 15\. 천수(오늘날의 [톈수이 시](https://ko.wikipedia.org/wiki/톈수이_시 "wikilink"))                                                     | 16\. 서량(오늘날의 [진타 현](https://ko.wikipedia.org/wiki/진타_현 "wikilink"))           |
 | 17\. 하비(오늘날의 [피저우 시](https://ko.wikipedia.org/wiki/피저우_시 "wikilink"))        | 18\. 서주(오늘날의 [페이 현](https://ko.wikipedia.org/wiki/페이_현 "wikilink"))             | 19\. 허창(오늘날의 [쉬창 시](https://ko.wikipedia.org/wiki/쉬창_시 "wikilink"))                                                       | 20\. 초(오늘날의 [타이캉 현](https://ko.wikipedia.org/wiki/타이캉_현 "wikilink"))          |
 | 21\. 여남(오늘날의 [주마뎬 시](https://ko.wikipedia.org/wiki/주마뎬_시 "wikilink"))        | 22\. 완(오늘날의 [난양 시](https://ko.wikipedia.org/wiki/난양_시 "wikilink"))              | 23\. 신야(오늘날의 [신예 현](https://ko.wikipedia.org/wiki/신예_현 "wikilink"))                                                       | 24\. 양양(오늘날의 [난장 현](https://ko.wikipedia.org/wiki/난장_현_\(샹양_시\) "wikilink"))  |
 | 25\. 상용(오늘날의 [주산 현](https://ko.wikipedia.org/wiki/주산_현 "wikilink"))          | 26\. 강하(오늘날의 [장샤 구](https://ko.wikipedia.org/wiki/장샤_구 "wikilink"))             | 27\. 강릉(오늘날의 [장링 현](https://ko.wikipedia.org/wiki/장링_현 "wikilink"))                                                       | 28\. 무릉(오늘날의 [우링 구](https://ko.wikipedia.org/wiki/우링_구 "wikilink"))           |
@@ -128,7 +128,7 @@
 | 33\. 건업(오늘날의 [난징 시](https://ko.wikipedia.org/wiki/난징_시 "wikilink"))          | 34\. 오(오늘날의 [상하이 시](https://ko.wikipedia.org/wiki/상하이_시 "wikilink"))            | 35\. 회계(오늘날의 [사오싱 시](https://ko.wikipedia.org/wiki/사오싱_시 "wikilink"))                                                     | 36\. 여강(오늘날의 [이장 구](https://ko.wikipedia.org/wiki/이장_구 "wikilink"))           |
 | 37\. 재상(오늘날의 [주장 현](https://ko.wikipedia.org/wiki/주장_현 "wikilink"))          | 38\. 한중(오늘날의 [한중 시](https://ko.wikipedia.org/wiki/한중_시 "wikilink"))             | 39\. 하변(오늘날의 [원 현](https://ko.wikipedia.org/wiki/원_현_\(룽난_시\) "wikilink"))                                                | 40\. 재동(오늘날의 [쯔퉁 현](https://ko.wikipedia.org/wiki/쯔퉁_현 "wikilink"))           |
 | 41\. 성도(오늘날의 [청두 시](https://ko.wikipedia.org/wiki/청두_시 "wikilink"))          | 42\. 영안(오늘날의 [펑제 현](https://ko.wikipedia.org/wiki/펑제_현 "wikilink"))             | 43\. 강주(오늘날의 [충칭 시](https://ko.wikipedia.org/wiki/충칭_시 "wikilink"))                                                       | 44\. 건녕(오늘날의 [취징 시](https://ko.wikipedia.org/wiki/취징_시 "wikilink"))           |
-| 45\. 운남(오늘날의 [쿤밍 시](https://ko.wikipedia.org/wiki/쿤밍_시 "wikilink"))          | 46\. 남해(오늘날의 [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink"))                 | 47\. 백랑산(오늘날의 [링위안 시](https://ko.wikipedia.org/wiki/링위안_시 "wikilink"))                                                    | 48\. 기산(오늘날의 [우산 현](https://ko.wikipedia.org/wiki/우산_현_\(톈수이_시\) "wikilink")) |
+| 45\. 운남(오늘날의 [쿤밍 시](https://ko.wikipedia.org/wiki/쿤밍_시 "wikilink"))          | 46\. 남해(오늘날의 [홍콩](../Page/홍콩.md "wikilink"))                                    | 47\. 백랑산(오늘날의 [링위안 시](https://ko.wikipedia.org/wiki/링위안_시 "wikilink"))                                                    | 48\. 기산(오늘날의 [우산 현](https://ko.wikipedia.org/wiki/우산_현_\(톈수이_시\) "wikilink")) |
 | 49\. 서새산(오늘날의 [시싸이산 구](https://ko.wikipedia.org/wiki/시싸이산_구 "wikilink"))     | 50\. 역경(오늘날의 [이 현](https://ko.wikipedia.org/wiki/이_현_\(바오딩_시\) "wikilink"))     | 51\. 계교(오늘날의 [웨이 현](https://ko.wikipedia.org/wiki/웨이_현_\(싱타이_시\) "wikilink"))                                             | 52\. 관도(오늘날의 [중무 현](https://ko.wikipedia.org/wiki/중무_현 "wikilink"))           |
 | 53\. 정도(오늘날의 [량위안 구](https://ko.wikipedia.org/wiki/량위안_구 "wikilink"))        | 54\. 오장원(오늘날의 [치산 현](https://ko.wikipedia.org/wiki/치산_현 "wikilink"))            | 55\. 가정(오늘날의 [친안 현](https://ko.wikipedia.org/wiki/친안_현 "wikilink"))                                                       | 56\. 적도(오늘날의 [진촨 구](https://ko.wikipedia.org/wiki/진촨_구 "wikilink"))           |
 | 57\. 회음(오늘날의 [화이안 시](https://ko.wikipedia.org/wiki/화이안_시 "wikilink"))        | 58\. 장판(오늘날의 [징먼 시](https://ko.wikipedia.org/wiki/징먼_시 "wikilink"))             | 59\. 이릉(오늘날의 [이링 구](https://ko.wikipedia.org/wiki/이링_구 "wikilink"))                                                       | 60\. 합비(오늘날의 [허페이 시](https://ko.wikipedia.org/wiki/허페이_시 "wikilink"))         |
@@ -137,7 +137,7 @@
 
 #### 이 게임에 등장하지 않은 도시
 
-  - 이주(오늘날의 [타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink"))
+  - 이주(오늘날의 [타이완](../Page/타이완.md "wikilink"))
   - 교지(오늘날의 [랑선 성](https://ko.wikipedia.org/wiki/랑선_성 "wikilink"))
   - 산월(오늘날의 [젠닝 현](https://ko.wikipedia.org/wiki/젠닝_현 "wikilink"))
   - 일남(오늘날의 [타이빈 성](https://ko.wikipedia.org/wiki/타이빈_성 "wikilink"))
@@ -161,12 +161,12 @@
 플레이어가 직접 다룰 수 없는 인물로 일정 확률로 난입한다. 주로 조언을 한다.
 
   - [헌제](../Page/후한_헌제.md "wikilink"): 신분이 가장 높은 인물로 헌제 이벤트를 할 때마다 나타나서 상을 준다.
-  - [화타](https://ko.wikipedia.org/wiki/화타 "wikilink"): 병이 들거나 부상당한 장수들을 치료해준다. [청낭서](../Page/청낭서.md "wikilink")를 물려주기도 한다.
+  - [화타](../Page/화타.md "wikilink"): 병이 들거나 부상당한 장수들을 치료해준다. [청낭서](../Page/청낭서.md "wikilink")를 물려주기도 한다.
   - [좌자](../Page/좌자.md "wikilink"): 조언을 하거나 둔갑천서삼권을 물려준다.
   - [간길](https://ko.wikipedia.org/wiki/우길 "wikilink"): 조언을 한다.
   - [재허상인](https://ko.wikipedia.org/wiki/자허상인 "wikilink"): 조언을 한다.
   - [허자장](https://ko.wikipedia.org/wiki/허소 "wikilink"): 조언을 한다.
-  - [관로](https://ko.wikipedia.org/wiki/관로_\(인물\) "wikilink"): 조언을 한다.
+  - [관로](../Page/관로_\(인물\).md "wikilink"): 조언을 한다.
   - [사마휘](../Page/사마휘.md "wikilink"): 조언을 한다.
   - 이의: 조언을 한다.
   - 길평: 병이 들거나 부상당한 장수들을 치료해준다.
@@ -191,7 +191,7 @@
 
 ### 초선 이벤트
 
-왕윤이 무조건 생존해 있어야 하며 13. [장안](https://ko.wikipedia.org/wiki/장안 "wikilink")을 점령한 채로 왕윤을 부하로 두고 둘 다 13. 장안에 있어야 한다. 13. 장안을 소유하지 않으면 초선 이벤트가 발동하지 않기 때문에 13. 장안은 무조건 점거하고 있어야 한다. 그 상태에서 도시의 모든 수치가 일정 수준 이상(금 5,000, 군량200,000, 치수90, 개발90, 치안90, 병력30,000, 이상 및 이에 상응하는 수준)이 되면 년도에 상관없이 초선 이벤트가 발동한다. 단 초선의 경우 능력치가 지력36, 무력1, 매력100, 정치 63, 육지1, 수지1 에 숨겨진 능력치로 야망1 운15 냉정1 용맹1, 의리 100, 상성 0이므로 군사, 장군 어느 쪽으로도 쓸모가 없으며 초선을 태수로 보내면 컨트롤할 수도 없다. 매복장수로 타도시에 보내면 "그런 곳에 가기 싫습니다."라는 멘트를 남기고 거절한다. 더군다나 다른 장수로 전쟁을 시도할 경우 전쟁을 반대하기도 한다. 다만 전쟁에는 참전하지만 무력1에 용맹1인 탓에 맞붙기만 하면 무조건 부상을 당하며 일기토를 하면 무조건 사망한다. 초선을 해고하면 자살한다. 적 장수의 입장에서 초선을 고용하는 유일한 방법은 초선이 군주로 모시는 장수를 항복권고로 등용하는 방법밖에 없다. 게다가 초선의 상성은 동탁과 동일하기 때문에 상성 75인 유비와는 상성이 매우 나쁘다. 초선이 이벤트 무장이라고는 하지만 매력만 높을 뿐 그 능력 및 모든 면에서 일반 듣보잡 무장보다 못하다.
+왕윤이 무조건 생존해 있어야 하며 13. [장안](../Page/장안.md "wikilink")을 점령한 채로 왕윤을 부하로 두고 둘 다 13. 장안에 있어야 한다. 13. 장안을 소유하지 않으면 초선 이벤트가 발동하지 않기 때문에 13. 장안은 무조건 점거하고 있어야 한다. 그 상태에서 도시의 모든 수치가 일정 수준 이상(금 5,000, 군량200,000, 치수90, 개발90, 치안90, 병력30,000, 이상 및 이에 상응하는 수준)이 되면 년도에 상관없이 초선 이벤트가 발동한다. 단 초선의 경우 능력치가 지력36, 무력1, 매력100, 정치 63, 육지1, 수지1 에 숨겨진 능력치로 야망1 운15 냉정1 용맹1, 의리 100, 상성 0이므로 군사, 장군 어느 쪽으로도 쓸모가 없으며 초선을 태수로 보내면 컨트롤할 수도 없다. 매복장수로 타도시에 보내면 "그런 곳에 가기 싫습니다."라는 멘트를 남기고 거절한다. 더군다나 다른 장수로 전쟁을 시도할 경우 전쟁을 반대하기도 한다. 다만 전쟁에는 참전하지만 무력1에 용맹1인 탓에 맞붙기만 하면 무조건 부상을 당하며 일기토를 하면 무조건 사망한다. 초선을 해고하면 자살한다. 적 장수의 입장에서 초선을 고용하는 유일한 방법은 초선이 군주로 모시는 장수를 항복권고로 등용하는 방법밖에 없다. 게다가 초선의 상성은 동탁과 동일하기 때문에 상성 75인 유비와는 상성이 매우 나쁘다. 초선이 이벤트 무장이라고는 하지만 매력만 높을 뿐 그 능력 및 모든 면에서 일반 듣보잡 무장보다 못하다.
 
 ### 원술 이벤트
 
@@ -203,12 +203,12 @@
 
 ## 마개조
 
-역대 삼국지 시리즈 중 가장 인기있는 시리즈인 덕분에 아직도 삼국지 III를 즐기는 유저들이 많으며 이에 따라 등장인물 에디트를 하는 경우도 많다. 능력치를 삼국지연의가 아닌 정사 삼국지대로 변경하기도 하며 [삼국지 가공인물인](https://ko.wikipedia.org/wiki/삼국지_가공인물 "wikilink") [하후덕](https://ko.wikipedia.org/wiki/하후덕 "wikilink"), [하후존](https://ko.wikipedia.org/wiki/하후존 "wikilink"), [주창](https://ko.wikipedia.org/wiki/주창 "wikilink"), [아회남](https://ko.wikipedia.org/wiki/아회남 "wikilink"), [무안국](https://ko.wikipedia.org/wiki/무안국 "wikilink"), [동도나](https://ko.wikipedia.org/wiki/동도나 "wikilink"), [담웅](https://ko.wikipedia.org/wiki/담웅 "wikilink"), [금환삼결](https://ko.wikipedia.org/wiki/금환삼결 "wikilink") 등을 모조리 빼버리고 그 대신 정사에 등장하는 [희지재](https://ko.wikipedia.org/wiki/희지재 "wikilink"), [하진](https://ko.wikipedia.org/wiki/하진 "wikilink"), [풍칙](https://ko.wikipedia.org/wiki/풍칙 "wikilink"), [정태](../Page/정태.md "wikilink"), [장각](https://ko.wikipedia.org/wiki/장각 "wikilink"), [장량](https://ko.wikipedia.org/wiki/장량 "wikilink"), [장보](https://ko.wikipedia.org/wiki/장보 "wikilink"), [유우](https://ko.wikipedia.org/wiki/유우_\(후한\) "wikilink"), [염행](../Page/염행.md "wikilink"), [사섭](../Page/사섭.md "wikilink"), [문앙](https://ko.wikipedia.org/wiki/문앙 "wikilink"), [노식](https://ko.wikipedia.org/wiki/노식 "wikilink") 등을 추가시키기도 했다.
+역대 삼국지 시리즈 중 가장 인기있는 시리즈인 덕분에 아직도 삼국지 III를 즐기는 유저들이 많으며 이에 따라 등장인물 에디트를 하는 경우도 많다. 능력치를 삼국지연의가 아닌 정사 삼국지대로 변경하기도 하며 [삼국지 가공인물인](../Page/삼국지_가공인물.md "wikilink") [하후덕](https://ko.wikipedia.org/wiki/하후덕 "wikilink"), [하후존](https://ko.wikipedia.org/wiki/하후존 "wikilink"), [주창](https://ko.wikipedia.org/wiki/주창 "wikilink"), [아회남](https://ko.wikipedia.org/wiki/아회남 "wikilink"), [무안국](https://ko.wikipedia.org/wiki/무안국 "wikilink"), [동도나](https://ko.wikipedia.org/wiki/동도나 "wikilink"), [담웅](https://ko.wikipedia.org/wiki/담웅 "wikilink"), [금환삼결](https://ko.wikipedia.org/wiki/금환삼결 "wikilink") 등을 모조리 빼버리고 그 대신 정사에 등장하는 [희지재](https://ko.wikipedia.org/wiki/희지재 "wikilink"), [하진](../Page/하진.md "wikilink"), [풍칙](https://ko.wikipedia.org/wiki/풍칙 "wikilink"), [정태](../Page/정태.md "wikilink"), [장각](../Page/장각.md "wikilink"), [장량](../Page/장량.md "wikilink"), [장보](https://ko.wikipedia.org/wiki/장보 "wikilink"), [유우](../Page/유우_\(후한\).md "wikilink"), [염행](../Page/염행.md "wikilink"), [사섭](../Page/사섭.md "wikilink"), [문앙](../Page/문앙.md "wikilink"), [노식](../Page/노식.md "wikilink") 등을 추가시키기도 했다.
 
 ## 함께 보기
 
   - [삼국지 시리즈](https://ko.wikipedia.org/wiki/삼국지_시리즈 "wikilink")
-  - [코에이](https://ko.wikipedia.org/wiki/코에이 "wikilink")
+  - [코에이](../Page/코에이.md "wikilink")
 
 ## 각주
 

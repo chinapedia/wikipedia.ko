@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**애버딘 FC**는 [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink")의 [애버딘](https://ko.wikipedia.org/wiki/애버딘 "wikilink")을 연고로 하는 축구 클럽으로, 1903년에 창단되었다. 현재 [스코틀랜드 프리미어리그에](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 속해 있다.
+**애버딘 FC**는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 [애버딘](../Page/애버딘.md "wikilink")을 연고로 하는 축구 클럽으로, 1903년에 창단되었다. 현재 [스코틀랜드 프리미어리그에](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 속해 있다.
 
 ## 역사
 
 ### 전성기
 
-애버딘은 과거 [알렉스 퍼거슨](https://ko.wikipedia.org/wiki/알렉스_퍼거슨 "wikilink") 감독이 팀을 맡았던 시절 스코틀랜드 프리미어리그 3회 우승, [스코틀랜드 컵](https://ko.wikipedia.org/wiki/스코틀랜드_컵 "wikilink") 4회 우승, [UEFA컵위너스컵](https://ko.wikipedia.org/wiki/UEFA컵위너스컵 "wikilink")(82/83) 우승 등 여러 대회에서 총 10번의 우승을 거두며 전성기를 누렸다.
+애버딘은 과거 [알렉스 퍼거슨](../Page/알렉스_퍼거슨.md "wikilink") 감독이 팀을 맡았던 시절 스코틀랜드 프리미어리그 3회 우승, [스코틀랜드 컵](https://ko.wikipedia.org/wiki/스코틀랜드_컵 "wikilink") 4회 우승, [UEFA컵위너스컵](https://ko.wikipedia.org/wiki/UEFA컵위너스컵 "wikilink")(82/83) 우승 등 여러 대회에서 총 10번의 우승을 거두며 전성기를 누렸다.
 
 ### 최근 성적
 

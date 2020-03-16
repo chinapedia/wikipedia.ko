@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [OS](https://ko.wikipedia.org/wiki/OS).
 
 
-**미뉴엣OS**(MenuetOS, MeOS)는 Ville Mikael Turjanmaa가 개발한 [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink"). 빠르고 간단함에 중점을 두고 개발되었으며, 1.44메가 [플로피 디스켓](https://ko.wikipedia.org/wiki/플로피_디스켓 "wikilink") 한 장에 들어가는 저용량으로 알려진 바 있다. 32비트 x86 버전은 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [자유 소프트웨어이고](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink"), 64비트 버전은 소스 코드를 공개하지 않은 [무료 소프트웨어이다](https://ko.wikipedia.org/wiki/무료_소프트웨어 "wikilink").
+**미뉴엣OS**(MenuetOS, MeOS)는 Ville Mikael Turjanmaa가 개발한 [운영 체제이다](../Page/운영_체제.md "wikilink"). 빠르고 간단함에 중점을 두고 개발되었으며, 1.44메가 [플로피 디스켓](https://ko.wikipedia.org/wiki/플로피_디스켓 "wikilink") 한 장에 들어가는 저용량으로 알려진 바 있다. 32비트 x86 버전은 [오픈 소스](../Page/오픈_소스.md "wikilink") [자유 소프트웨어이고](../Page/자유_소프트웨어.md "wikilink"), 64비트 버전은 소스 코드를 공개하지 않은 [무료 소프트웨어이다](https://ko.wikipedia.org/wiki/무료_소프트웨어 "wikilink").
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 3월에 0.81 버전이 공개되었다.
+[2008년](../Page/2008년.md "wikilink") 3월에 0.81 버전이 공개되었다.
 
-저용량이지만 [GUI](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") 채용, TCP/IP 네트워크 대응, [고급 프로그래밍 언어](https://ko.wikipedia.org/wiki/고급_프로그래밍_언어 "wikilink") 대응 등의 특징이 있다.
+저용량이지만 [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") 채용, TCP/IP 네트워크 대응, [고급 프로그래밍 언어](../Page/고급_프로그래밍_언어.md "wikilink") 대응 등의 특징이 있다.
 
 ## 시스템 요구사항
 

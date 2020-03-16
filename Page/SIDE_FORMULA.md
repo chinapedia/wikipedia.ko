@@ -5,7 +5,7 @@
 
 ## 개요
 
-〈[MAXIMUM WAVE](https://ko.wikipedia.org/wiki/MAXIMUM_WAVE "wikilink")〉까지 싱글이 8cm[CD로](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 나오다가 [TWO-MIX](../Page/TWO-MIX.md "wikilink") 최초로 맥시싱글(보통 크기와 같은 크기인 12cm [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"))로 발매되었으며, 10곡이 들어 있다.
+〈[MAXIMUM WAVE](https://ko.wikipedia.org/wiki/MAXIMUM_WAVE "wikilink")〉까지 싱글이 8cm[CD로](../Page/콤팩트_디스크.md "wikilink") 나오다가 [TWO-MIX](../Page/TWO-MIX.md "wikilink") 최초로 맥시싱글(보통 크기와 같은 크기인 12cm [CD](../Page/콤팩트_디스크.md "wikilink"))로 발매되었으며, 10곡이 들어 있다.
 
 양 A면 싱글로, 〈LOVE FORMULA〉는 일본 TBS계 프로그램 《랭크 왕국》의 오프닝 테마송이다. 또한 〈LAST TEARS〉는 TX계 애니메이션《자폭군》의 엔딩 테마이다.
 
@@ -15,7 +15,7 @@
 
 ## 수록곡
 
-작사：[나가노 시이나](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink")，작곡：[타카야마 미나미](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink")，편곡：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
+작사：[나가노 시이나](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink")，작곡：[타카야마 미나미](../Page/타카야마_미나미.md "wikilink")，편곡：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
 
 1.  LOVE FORMULA -FREEDOM-
 2.  LAST TEARS -I DON'T CRY ANYMORE, AFTER YOU LEFT ME…-
@@ -63,7 +63,7 @@
 ## 관련 항목
 
   - [TWO-MIX](../Page/TWO-MIX.md "wikilink")
-  - [타카야마 미나미](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink")
+  - [타카야마 미나미](../Page/타카야마_미나미.md "wikilink")
   - [나가노 시이나](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink")
 
 [분류:팝 노래](https://ko.wikipedia.org/wiki/분류:팝_노래 "wikilink") [분류:TWO-MIX의 노래](https://ko.wikipedia.org/wiki/분류:TWO-MIX의_노래 "wikilink") [분류:일본의 노래](https://ko.wikipedia.org/wiki/분류:일본의_노래 "wikilink") [분류:일본어 노래](https://ko.wikipedia.org/wiki/분류:일본어_노래 "wikilink") [분류:1999년 싱글](https://ko.wikipedia.org/wiki/분류:1999년_싱글 "wikilink")

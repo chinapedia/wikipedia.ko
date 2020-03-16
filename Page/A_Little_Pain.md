@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A Little Pain](https://ko.wikipedia.org/wiki/A_Little_Pain).
 
 
-**a little pain**는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 28일에](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 9번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+**a little pain**는 [2006년](../Page/2006년.md "wikilink") [6월 28일에](../Page/6월_28일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 9번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 **OLIVIA inspi' REIRA(TRAPNEST)**명의로 발매되었다.
 
@@ -15,7 +15,7 @@
 
 ## 노래가 쓰인 곳
 
-  - a little pain:[일본](https://ko.wikipedia.org/wiki/일본 "wikilink") TV계 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") **[NANA](https://ko.wikipedia.org/wiki/NANA "wikilink")**의 엔딩 테마
+  - a little pain:[일본](../Page/일본.md "wikilink") TV계 [애니메이션](../Page/애니메이션.md "wikilink") **[NANA](../Page/NANA.md "wikilink")**의 엔딩 테마
   - 출처 : <https://web.archive.org/web/20100608164555/http://tom-neko.hp.infoseek.co.jp/>
 
 ## 순위

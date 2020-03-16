@@ -1,20 +1,20 @@
 > This article is converted from Wikipedia: [ EOS 450D](https://ko.wikipedia.org/wiki/_EOS_450D).
 
 
-**캐논 EOS 450D**()는 [2008년 1월](../Page/2008년_1월.md "wikilink") 23일에 발표된 [캐논 주식회사의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") 컨슈머 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 북미에서는 Digital Rebel XSi, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서는 EOS Kiss Digital X2란 상품명을 가진다. 450D는 [캐논 EOS 400D의](../Page/캐논_EOS_400D.md "wikilink") 후속 모델이다. 대한민국에서는 2009년 3월에 최단 기간 10만대 판매를 돌파하는 기록을 세웠다.\[1\]
+**캐논 EOS 450D**()는 [2008년 1월](../Page/2008년_1월.md "wikilink") 23일에 발표된 [캐논 주식회사의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") 컨슈머 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 북미에서는 Digital Rebel XSi, [일본](../Page/일본.md "wikilink")에서는 EOS Kiss Digital X2란 상품명을 가진다. 450D는 [캐논 EOS 400D의](../Page/캐논_EOS_400D.md "wikilink") 후속 모델이다. 대한민국에서는 2009년 3월에 최단 기간 10만대 판매를 돌파하는 기록을 세웠다.\[1\]
 
 ## 달라진 점
 
   - 1220만 화소
   - [SD/SDHC 카드](../Page/SD_카드.md "wikilink") 사용
   - 커진 [뷰파인더](../Page/뷰파인더.md "wikilink")
-  - 뷰파인더 안에 [ISO](https://ko.wikipedia.org/wiki/감광_속도 "wikilink") 정보 표시
-  - 향상된 [자동 초점](https://ko.wikipedia.org/wiki/자동_초점 "wikilink")
+  - 뷰파인더 안에 [ISO](../Page/감광_속도.md "wikilink") 정보 표시
+  - 향상된 [자동 초점](../Page/자동_초점.md "wikilink")
   - 라이브 뷰 기능 지원
   - 스팟 미터링
   - 3.5 fps 연속 촬영
-  - 향상된 [배터리](https://ko.wikipedia.org/wiki/전지 "wikilink")
-  - 크리에이티브 존에서의 자동 [ISO](https://ko.wikipedia.org/wiki/감광_속도 "wikilink") 기능 지원
+  - 향상된 [배터리](../Page/전지.md "wikilink")
+  - 크리에이티브 존에서의 자동 [ISO](../Page/감광_속도.md "wikilink") 기능 지원
 
 ## 사진
 
@@ -23,7 +23,7 @@
 ## 같이 보기
 
   - [캐논](../Page/캐논.md "wikilink")
-  - [캐논 EOS](https://ko.wikipedia.org/wiki/캐논_EOS "wikilink")
+  - [캐논 EOS](../Page/캐논_EOS.md "wikilink")
   - [캐논 EF 마운트](../Page/캐논_EF_마운트.md "wikilink")
   - [캐논 EF-S 마운트](../Page/캐논_EF-S_마운트.md "wikilink")
 

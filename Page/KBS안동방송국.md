@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
 
 
-**KBS안동방송국**(KBS安東放送局)은 경북 북부지역을 방송권역으로 하는 [KBS대구방송총국](../Page/KBS대구방송총국.md "wikilink") 산하의 지역방송국이다. [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")에 사옥을 준공하고 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 사옥을 리모델링 하였다
+**KBS안동방송국**(KBS安東放送局)은 경북 북부지역을 방송권역으로 하는 [KBS대구방송총국](../Page/KBS대구방송총국.md "wikilink") 산하의 지역방송국이다. [1989년](../Page/1989년.md "wikilink")에 사옥을 준공하고 [1999년](../Page/1999년.md "wikilink")에 사옥을 리모델링 하였다
 
 ## 연혁
 
 ### 1960년대
 
-  - [1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [5월 15일](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") : 대구방송국 안동중계소 개소(940kHz)
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [4월 14일](https://ko.wikipedia.org/wiki/4월_14일 "wikilink") : 대구방송국 안동출장소 개소(시청료징수)
+  - [1962년](../Page/1962년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") : 대구방송국 안동중계소 개소(940kHz)
+  - [1969년](../Page/1969년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") : 대구방송국 안동출장소 개소(시청료징수)
 
 ### 1970년대
 
@@ -59,12 +59,12 @@
 
 ### 2010년대
 
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") : 석포TVR 안동국으로 관할 이전
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") : 학가산(송) DMB방송 개시
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") : 강남, 봉화 1, 2, 교육DTVR 준공
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink") : 일월산(중) DMB방송 개시
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [11월 6일](https://ko.wikipedia.org/wiki/11월_6일 "wikilink") : 지상파 아날로그 TV 방송 종료(SD방송으로 전환)
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") : 경북 북부지역 지상파 디지털 TV방송 채널 재배치
+  - [2010년](../Page/2010년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") : 석포TVR 안동국으로 관할 이전
+  - [2010년](../Page/2010년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") : 학가산(송) DMB방송 개시
+  - [2010년](../Page/2010년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink") : 강남, 봉화 1, 2, 교육DTVR 준공
+  - [2011년](../Page/2011년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") : 일월산(중) DMB방송 개시
+  - [2012년](../Page/2012년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") : 지상파 아날로그 TV 방송 종료(SD방송으로 전환)
+  - [2013년](../Page/2013년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") : 경북 북부지역 지상파 디지털 TV방송 채널 재배치
   - 2016년 10월 11일 : 영주 표준FMR 104.3㎒ 방송 개시
   - 2016년 10월 11일 : 청송 표준FMR 92.5㎒ 방송 개시
   - 2018년 04월 09일 : 로컬방송 및 SPOT 방송송출을 SD방송에서 HD방송으로 전환
@@ -225,8 +225,8 @@
 
 ## 아나운서
 
-  - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink")(프리랜서) 입사 : [이현정](https://ko.wikipedia.org/wiki/이현정 "wikilink")
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")(프리랜서) 입사 : [박철규](https://ko.wikipedia.org/wiki/박철규 "wikilink")
+  - [2015년](../Page/2015년.md "wikilink")(프리랜서) 입사 : [이현정](https://ko.wikipedia.org/wiki/이현정 "wikilink")
+  - [2018년](../Page/2018년.md "wikilink")(프리랜서) 입사 : [박철규](https://ko.wikipedia.org/wiki/박철규 "wikilink")
 
 ## 전직 아나운서
 
@@ -255,7 +255,7 @@
   - [한지은](https://ko.wikipedia.org/wiki/한지은 "wikilink")
   - [금영지](https://ko.wikipedia.org/wiki/금영지 "wikilink")
   - [정혜림](https://ko.wikipedia.org/wiki/정혜림 "wikilink")
-  - [황인성](https://ko.wikipedia.org/wiki/황인성 "wikilink") (현 연합뉴스TV 아나운서, 프리랜서 방송인)
+  - [황인성](../Page/황인성.md "wikilink") (현 연합뉴스TV 아나운서, 프리랜서 방송인)
   - [정혜진](https://ko.wikipedia.org/wiki/정혜진 "wikilink")
   - [조학승](https://ko.wikipedia.org/wiki/조학승 "wikilink")(현 KTV 아나운서)
   - [최남숙](https://ko.wikipedia.org/wiki/최남숙 "wikilink")

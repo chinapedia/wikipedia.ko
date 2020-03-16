@@ -33,33 +33,33 @@
 <strong><a href="https://ko.wikipedia.org/wiki/파리_조약_(1951년)" title="wikilink">파리 조약</a></strong><br />
  </p></td>
 <td><p>1958<br />
-<strong><a href="https://ko.wikipedia.org/wiki/로마_조약" title="wikilink">로마 조약</a></strong><br />
+<strong><a href="../Page/로마_조약.md" title="wikilink">로마 조약</a></strong><br />
  </p></td>
 <td><p>1967<br />
 <strong><a href="https://ko.wikipedia.org/wiki/합병_조약" title="wikilink">합병 조약</a></strong><br />
  </p></td>
 <td><p>1987<br />
-<strong><a href="https://ko.wikipedia.org/wiki/단일_유럽_의정서" title="wikilink">단일 유럽 의정서</a></strong><br />
+<strong><a href="../Page/단일_유럽_의정서.md" title="wikilink">단일 유럽 의정서</a></strong><br />
  </p></td>
 <td><p>1993<br />
-<strong><a href="https://ko.wikipedia.org/wiki/마스트리흐트_조약" title="wikilink">마스트리흐트 조약</a></strong><br />
+<strong><a href="../Page/마스트리흐트_조약.md" title="wikilink">마스트리흐트 조약</a></strong><br />
 (EU 설립)<br />
  </p></td>
 <td><p>1999<br />
-<strong><a href="https://ko.wikipedia.org/wiki/암스테르담_조약" title="wikilink">암스테르담 조약</a></strong><br />
+<strong><a href="../Page/암스테르담_조약.md" title="wikilink">암스테르담 조약</a></strong><br />
  </p></td>
 <td><p>2003<br />
 <strong><a href="../Page/니스_조약.md" title="wikilink">니스 조약</a></strong><br />
  </p></td>
 <td><p>2009<br />
-<strong><a href="https://ko.wikipedia.org/wiki/리스본_조약" title="wikilink">리스본 조약</a></strong><br />
+<strong><a href="../Page/리스본_조약.md" title="wikilink">리스본 조약</a></strong><br />
  </p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_원자력_공동체" title="wikilink"><span style="color:white;">유럽 원자력 공동체</span></a> <span style="color:white;">(EURATOM)</span></p></td>
+<td><p><a href="../Page/유럽_원자력_공동체.md" title="wikilink"><span style="color:white;">유럽 원자력 공동체</span></a> <span style="color:white;">(EURATOM)</span></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -68,10 +68,10 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_석탄_철강_공동체" title="wikilink"><span style="color:white;">유럽 석탄 철강 공동체</span></a> <span style="color:white;">(ECSC)</span></p></td>
+<td><p><a href="../Page/유럽_석탄_철강_공동체.md" title="wikilink"><span style="color:white;">유럽 석탄 철강 공동체</span></a> <span style="color:white;">(ECSC)</span></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_연합" title="wikilink"><span style="color:white;">유럽 연합</span></a> <span style="color:white;">(EU)</span></p></td>
+<td><p><a href="../Page/유럽_연합.md" title="wikilink"><span style="color:white;">유럽 연합</span></a> <span style="color:white;">(EU)</span></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -80,8 +80,8 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_경제_공동체" title="wikilink"><span style="color:white;">유럽 경제 공동체</span></a> <span style="color:white;">(EEC)</span></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_연합의_세_개의_기둥" title="wikilink"><span style="color:white;">→<br />
+<td><p><a href="../Page/유럽_경제_공동체.md" title="wikilink"><span style="color:white;">유럽 경제 공동체</span></a> <span style="color:white;">(EEC)</span></p></td>
+<td><p><a href="../Page/유럽_연합의_세_개의_기둥.md" title="wikilink"><span style="color:white;">→<br />
 세<br />
 <br />
 개<br />
@@ -91,7 +91,7 @@
 둥<br />
 →</span></a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_공동체" title="wikilink"><span style="color:white;">유럽 공동체</span></a> <span style="color:white;">(EC)</span></p></td>
+<td><p><a href="../Page/유럽_공동체.md" title="wikilink"><span style="color:white;">유럽 공동체</span></a> <span style="color:white;">(EC)</span></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -141,7 +141,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/서유럽_연합" title="wikilink"><span style="color:white;">서유럽 연합</span></a> <span style="color:white;">(WEU)</span></p></td>
+<td><p><a href="../Page/서유럽_연합.md" title="wikilink"><span style="color:white;">서유럽 연합</span></a> <span style="color:white;">(WEU)</span></p></td>
 <td></td>
 <td></td>
 <td></td>

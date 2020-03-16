@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [B+ ](https://ko.wikipedia.org/wiki/B+_).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Bplustree.png "wikilink") **B+ 트리**(Quaternary Tree라고도 알려져 있음)는 [컴퓨터 과학용어로](https://ko.wikipedia.org/wiki/컴퓨터_과학 "wikilink"), 키에 의해서 각각 식별되는 레코드의 효율적인 삽입, 검색과 삭제를 통해 정렬된 데이터를 표현하기 위한 [트리자료구조](https://ko.wikipedia.org/wiki/트리자료구조 "wikilink")의 일종이다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Bplustree.png "wikilink") **B+ 트리**(Quaternary Tree라고도 알려져 있음)는 [컴퓨터 과학용어로](../Page/컴퓨터_과학.md "wikilink"), 키에 의해서 각각 식별되는 레코드의 효율적인 삽입, 검색과 삭제를 통해 정렬된 데이터를 표현하기 위한 [트리자료구조](https://ko.wikipedia.org/wiki/트리자료구조 "wikilink")의 일종이다.
 
 이는 동적이며, 각각의 [인덱스](https://ko.wikipedia.org/wiki/인덱스 "wikilink") 세그먼트 (보통 [블록](../Page/블록.md "wikilink") 또는 [노드](https://ko.wikipedia.org/wiki/노드 "wikilink")라고 불리는) 내에 최대와 최소범위의 키의 개수를 가지는 다계층 인덱스([multilevel index](https://ko.wikipedia.org/wiki/multilevel_index "wikilink"))로 구성된다.
 
@@ -94,6 +94,6 @@ B+ 트리는 램 내부에 존재하는 데이터에도 사용된다. 이 경우
 
 ## 관련 항목
 
-  - [B 트리](https://ko.wikipedia.org/wiki/B_트리 "wikilink")
+  - [B 트리](../Page/B_트리.md "wikilink")
 
 [분류:트리 구조](https://ko.wikipedia.org/wiki/분류:트리_구조 "wikilink")

@@ -5,7 +5,7 @@
 
 ## 개요
 
-〈RHYTHM EMOTION〉은 TWO-MIX의 두 번째 싱글이며, 이 [CD가](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 발매된 시점에서는 TWO-MIX의 태생에 대해서는 세상에 잘 알려져 있지 않았고, [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink"), [라디오](https://ko.wikipedia.org/wiki/라디오 "wikilink"), [잡지](https://ko.wikipedia.org/wiki/잡지 "wikilink") 등의 매체에 대해 수수께끼 아티스트라는 취급을 하고 있었다. 한편 이 곡이 당시로서는 상당히 템포가 높았으나, 당시 유행하고 있던 댄스 음악이었다.
+〈RHYTHM EMOTION〉은 TWO-MIX의 두 번째 싱글이며, 이 [CD가](../Page/콤팩트_디스크.md "wikilink") 발매된 시점에서는 TWO-MIX의 태생에 대해서는 세상에 잘 알려져 있지 않았고, [텔레비전](../Page/텔레비전.md "wikilink"), [라디오](../Page/라디오.md "wikilink"), [잡지](../Page/잡지.md "wikilink") 등의 매체에 대해 수수께끼 아티스트라는 취급을 하고 있었다. 한편 이 곡이 당시로서는 상당히 템포가 높았으나, 당시 유행하고 있던 댄스 음악이었다.
 
 더욱이 1기 주제가였던 〈[JUST COMMUNICATION](../Page/JUST_COMMUNICATION.md "wikilink")〉가 인기를 인기를 끌면서, [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 첫 등장 8위로 전 작품으로 달성할 수 없었던 톱 10에 진입하여, 당시로서는 기록적인 매상을 올렸다. 톱 100위 내에도 발매된 1995년 11월부터 다음 해 4월까지 연속으로 차트에 진입하는 등 오랫동안 인기를 끌었다.
 

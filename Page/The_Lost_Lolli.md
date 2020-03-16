@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Lost Lolli](https://ko.wikipedia.org/wiki/The_Lost_Lolli).
 
 
-**The Lost Lolli**는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [2월 18일에](https://ko.wikipedia.org/wiki/2월_18일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 2번째 [앨범이다](../Page/음반.md "wikilink"). 가사는 전부 영어로 되어있다.
+**The Lost Lolli**는 [2004년](../Page/2004년.md "wikilink") [2월 18일에](../Page/2월_18일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 2번째 [앨범이다](../Page/음반.md "wikilink"). 가사는 전부 영어로 되어있다.
 
 [오리콘](../Page/오리콘.md "wikilink") 첫 등장시 111위를 기록했다.
 

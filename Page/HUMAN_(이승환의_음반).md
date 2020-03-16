@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HUMAN \( \)](https://ko.wikipedia.org/wiki/HUMAN_\(_\)).
 
 
-《**Human**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 싱어송라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 4번째 정규 [앨범이다](../Page/음반.md "wikilink"). 〈천일동안〉으로 큰 인기를 누렸다. 미국으로 건너가 녹음을 진행했으며 세계적인 프로듀서 [데이비드 캠벨과](https://ko.wikipedia.org/wiki/:en:David_Campbell_\(American_arranger/composer\) "wikilink") 함께 작업했다.
+《**Human**》은 [대한민국](../Page/대한민국.md "wikilink")의 싱어송라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 4번째 정규 [앨범이다](../Page/음반.md "wikilink"). 〈천일동안〉으로 큰 인기를 누렸다. 미국으로 건너가 녹음을 진행했으며 세계적인 프로듀서 [데이비드 캠벨과](https://ko.wikipedia.org/wiki/:en:David_Campbell_\(American_arranger/composer\) "wikilink") 함께 작업했다.
 
 ## 곡 목록
 

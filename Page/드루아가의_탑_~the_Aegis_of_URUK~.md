@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [  \~the Aegis of URUK\~](https://ko.wikipedia.org/wiki/__\~the_Aegis_of_URUK\~).
 
 
-《**드루아가의 탑 \~The Aegis of URUK\~**》는 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [남코](https://ko.wikipedia.org/wiki/남코 "wikilink")에서 개발한 [액션 롤플레잉 게임](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink") [드루아가의 탑을](https://ko.wikipedia.org/wiki/드루아가의_탑 "wikilink") 원작으로 하여 2008년에 일본의 애니메이션 제작사 [곤조](https://ko.wikipedia.org/wiki/곤조 "wikilink")가 제작한 TV애니메이션이다.
+《**드루아가의 탑 \~The Aegis of URUK\~**》는 [1984년](../Page/1984년.md "wikilink") [일본](../Page/일본.md "wikilink")의 [남코](../Page/남코.md "wikilink")에서 개발한 [액션 롤플레잉 게임](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink") [드루아가의 탑을](../Page/드루아가의_탑.md "wikilink") 원작으로 하여 2008년에 일본의 애니메이션 제작사 [곤조](../Page/곤조.md "wikilink")가 제작한 TV애니메이션이다.
 
 ## 개요
 
 고전게임이 원작인 판타지물.
 
-[풀 메탈 패닉\!](https://ko.wikipedia.org/wiki/풀_메탈_패닉! "wikilink") 등으로 유명한 치기라 코이치 감독과 [가토 쇼지가](https://ko.wikipedia.org/wiki/가토_쇼지 "wikilink") 각본을 맡았다. 다소 딱딱한 판타지 애니메이션에 코믹과 패러디 요소를 다수 도입하여 재미를 더하고 있는 것이 큰 특징이다.
+[풀 메탈 패닉\!](../Page/풀_메탈_패닉!.md "wikilink") 등으로 유명한 치기라 코이치 감독과 [가토 쇼지가](../Page/가토_쇼지.md "wikilink") 각본을 맡았다. 다소 딱딱한 판타지 애니메이션에 코믹과 패러디 요소를 다수 도입하여 재미를 더하고 있는 것이 큰 특징이다.
 
 ## 줄거리
 
@@ -49,7 +49,7 @@
 <!-- end list -->
 
   -
-    메이지. [골프](https://ko.wikipedia.org/wiki/골프 "wikilink")를 치듯이 마법을 사용한다. 우르쿠 국의 가난한 마법사 귀족 출신. 이기적이고 잔소리가 많다.
+    메이지. [골프](../Page/골프.md "wikilink")를 치듯이 마법을 사용한다. 우르쿠 국의 가난한 마법사 귀족 출신. 이기적이고 잔소리가 많다.
 
 <!-- end list -->
 

@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [RANDU](https://ko.wikipedia.org/wiki/RANDU).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Randu.png "wikilink") **RANDU**\[1\]는 [선형 합동 생성기를](../Page/선형_합동_생성기.md "wikilink") 사용한 [유사난수 생성기](https://ko.wikipedia.org/wiki/유사난수_생성기 "wikilink") 루틴으로, [1960년대](https://ko.wikipedia.org/wiki/1960년대 "wikilink")에 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink") 메인프레임에서 널리 사용된 이후 다른 시스템에서도 널리 사용되었다. 이 루틴이 사용하는 유사난수 생성기는 다음과 같이 정의되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Randu.png "wikilink") **RANDU**\[1\]는 [선형 합동 생성기를](../Page/선형_합동_생성기.md "wikilink") 사용한 [유사난수 생성기](https://ko.wikipedia.org/wiki/유사난수_생성기 "wikilink") 루틴으로, [1960년대](../Page/1960년대.md "wikilink")에 [IBM](../Page/IBM.md "wikilink") 메인프레임에서 널리 사용된 이후 다른 시스템에서도 널리 사용되었다. 이 루틴이 사용하는 유사난수 생성기는 다음과 같이 정의되었다.
 
   -
     \(X_{n+1} = 65539 X_n \mod {2^{31}}\), 단 \(X_0\)은 [홀수](https://ko.wikipedia.org/wiki/홀수 "wikilink")
 
-RANDU는 역사상 최악으로 설계된 유사난수 생성기 중 하나로 알려져 있다. [조지 마서글리아는](https://ko.wikipedia.org/wiki/조지_마서글리아 "wikilink") [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink")에 선형 합동 생성기로 만들어진 난수들로 이루어진 좌표를 3차원 공간 상에 표시하였을 때 유한한 수의 2차원 [평면](../Page/평면.md "wikilink") 중 하나 위에 위치하게 된다는 점([마서글리아 효과](https://ko.wikipedia.org/wiki/마서글리아_효과 "wikilink"))을 밝혔는데, 그의 논문에 따르면 나눔수가 \(2^{31}\)인 생성기의 최대 평면 수는 1290개지만 RANDU는 15개의 평면 상에 모든 점들이 위치하게 된다.
+RANDU는 역사상 최악으로 설계된 유사난수 생성기 중 하나로 알려져 있다. [조지 마서글리아는](https://ko.wikipedia.org/wiki/조지_마서글리아 "wikilink") [1968년](../Page/1968년.md "wikilink")에 선형 합동 생성기로 만들어진 난수들로 이루어진 좌표를 3차원 공간 상에 표시하였을 때 유한한 수의 2차원 [평면](../Page/평면.md "wikilink") 중 하나 위에 위치하게 된다는 점([마서글리아 효과](https://ko.wikipedia.org/wiki/마서글리아_효과 "wikilink"))을 밝혔는데, 그의 논문에 따르면 나눔수가 \(2^{31}\)인 생성기의 최대 평면 수는 1290개지만 RANDU는 15개의 평면 상에 모든 점들이 위치하게 된다.
 
 ## 상관 관계의 설명
 
-RANDU의 곱함수는 컴퓨터 상에서 [비트 연산을](https://ko.wikipedia.org/wiki/비트_연산 "wikilink") 사용하여 빠르게 생성할 수 있도록 정해진 것이다. 실제로 [C 언어로](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") RANDU는 곱셈 및 나눗셈 없이 다음과 같이 구현할 수 있다.
+RANDU의 곱함수는 컴퓨터 상에서 [비트 연산을](https://ko.wikipedia.org/wiki/비트_연산 "wikilink") 사용하여 빠르게 생성할 수 있도록 정해진 것이다. 실제로 [C 언어로](../Page/C_\(프로그래밍_언어\).md "wikilink") RANDU는 곱셈 및 나눗셈 없이 다음과 같이 구현할 수 있다.
 
 ``` c
 #include <stdint.h>
@@ -35,7 +35,7 @@ X_{n+1} &{}= (2^{16} + 3) X_n \\mod {2^{31}} \\\\ X_{n+2} &{}= (2^{16} + 3) X_{n
 
 \\end{align}</math>
 
-따라서 연속된 세 난수가 매우 강한 선형 상관 관계를 가지고 있음을 알 수 있다. (이 과정을 이해하기 위해서는 [합동 산술을](https://ko.wikipedia.org/wiki/합동_산술 "wikilink") 참고하라.) 대부분의 ‘좋은’ 선형 합동 생성기는 이보다 훨씬 큰 계수를 가진 선형 상관 관계를 이루기 때문에 비교적 큰 문제를 보이지 않는다.
+따라서 연속된 세 난수가 매우 강한 선형 상관 관계를 가지고 있음을 알 수 있다. (이 과정을 이해하기 위해서는 [합동 산술을](../Page/합동_산술.md "wikilink") 참고하라.) 대부분의 ‘좋은’ 선형 합동 생성기는 이보다 훨씬 큰 계수를 가진 선형 상관 관계를 이루기 때문에 비교적 큰 문제를 보이지 않는다.
 
 ## 영향
 

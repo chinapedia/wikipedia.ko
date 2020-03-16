@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Life in Cartoon Motion](https://ko.wikipedia.org/wiki/Life_in_Cartoon_Motion).
 
 
-《**Life in Cartoon Motion**》은 영국 가수 [미카의](https://ko.wikipedia.org/wiki/미카_\(가수\) "wikilink") 데뷔 음반이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 5일](https://ko.wikipedia.org/wiki/2월_5일 "wikilink") [아일랜드 레코드를](https://ko.wikipedia.org/wiki/아일랜드_레코드 "wikilink") 통해 영국에 발매됐으며, 미국엔 [유니버설](../Page/유니버설_뮤직_그룹.md "wikilink")/[모타운을](https://ko.wikipedia.org/wiki/모타운_레코드 "wikilink") 통해 2007년 [3월 27일에](https://ko.wikipedia.org/wiki/3월_27일 "wikilink") 발매됐다. 영국 내에서와 한국에서도 호평을 듣고 있으며, 각종 CF에 삽입되었다.
+《**Life in Cartoon Motion**》은 영국 가수 [미카의](https://ko.wikipedia.org/wiki/미카_\(가수\) "wikilink") 데뷔 음반이다. [2007년](../Page/2007년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") [아일랜드 레코드를](../Page/아일랜드_레코드.md "wikilink") 통해 영국에 발매됐으며, 미국엔 [유니버설](../Page/유니버설_뮤직_그룹.md "wikilink")/[모타운을](https://ko.wikipedia.org/wiki/모타운_레코드 "wikilink") 통해 2007년 [3월 27일에](../Page/3월_27일.md "wikilink") 발매됐다. 영국 내에서와 한국에서도 호평을 듣고 있으며, 각종 CF에 삽입되었다.
 
 이 앨범의 싱글‘Grace Kelly’는 영국에서 5주 연속 1위라는 기록을 달성하였고 많은 국가에서 1위를 차지하였다. UK 앨범차트 1위, 2007년 전 세계 앨범 판매 5위를 기록한 데뷔 앨범 Life in Cartoon Motion은 전 세계적으로 600만장 이상 판매되었다.
 
@@ -31,14 +31,14 @@
 <thead>
 <tr class="header">
 <th><p>싱글</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/영국" title="wikilink">UK</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">US</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">AU</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/유럽" title="wikilink">EU</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/이탈리아" title="wikilink">IT</a></p></th>
+<th><p><a href="../Page/영국.md" title="wikilink">UK</a></p></th>
+<th><p><a href="../Page/미국.md" title="wikilink">US</a></p></th>
+<th><p><a href="../Page/오스트레일리아.md" title="wikilink">AU</a></p></th>
+<th><p><a href="../Page/유럽.md" title="wikilink">EU</a></p></th>
+<th><p><a href="../Page/이탈리아.md" title="wikilink">IT</a></p></th>
 <th><p><a href="../Page/프랑스.md" title="wikilink">FR</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/네덜란드" title="wikilink">NL</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/노르웨이" title="wikilink">NR</a></p></th>
+<th><p><a href="../Page/네덜란드.md" title="wikilink">NL</a></p></th>
+<th><p><a href="../Page/노르웨이.md" title="wikilink">NR</a></p></th>
 <th><p>발매 |-</p></th>
 <th><p>"<a href="https://ko.wikipedia.org/wiki/Relax,_Take_It_Easy" title="wikilink">Relax, Take It Easy</a>"</p></th>
 <th><p>+</p></th>

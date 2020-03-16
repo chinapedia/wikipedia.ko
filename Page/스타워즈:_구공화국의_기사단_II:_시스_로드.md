@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [:   II:  ](https://ko.wikipedia.org/wiki/:___II:__).
 
 
-《**스타워즈: 구공화국의 기사단 II: 시스 로드**》(**)는 《[스타워즈: 구공화국의 기사단](../Page/스타워즈:_구공화국의_기사단.md "wikilink")》(**)의 후속작으로, [옵시디언 엔터테인먼트가](../Page/옵시디언_엔터테인먼트.md "wikilink") 개발하고 [루커스아츠](https://ko.wikipedia.org/wiki/루커스아츠 "wikilink")가 발행한 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 6일](https://ko.wikipedia.org/wiki/12월_6일 "wikilink") [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink") [엑스박스](https://ko.wikipedia.org/wiki/엑스박스 "wikilink") 버전으로 처음 발매되었으며, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 8일에](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") [PC](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink") 버전이 출시되었다. 전작에 비해 플레이어 캐릭터의 레벨 상한선이 50 레벨으로 높아졌다.
+《**스타워즈: 구공화국의 기사단 II: 시스 로드**》(**)는 《[스타워즈: 구공화국의 기사단](../Page/스타워즈:_구공화국의_기사단.md "wikilink")》(**)의 후속작으로, [옵시디언 엔터테인먼트가](../Page/옵시디언_엔터테인먼트.md "wikilink") 개발하고 [루커스아츠](https://ko.wikipedia.org/wiki/루커스아츠 "wikilink")가 발행한 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). [2004년](../Page/2004년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink") [마이크로소프트](../Page/마이크로소프트.md "wikilink") [엑스박스](../Page/엑스박스.md "wikilink") 버전으로 처음 발매되었으며, [2005년](../Page/2005년.md "wikilink") [2월 8일에](../Page/2월_8일.md "wikilink") [PC](../Page/개인용_컴퓨터.md "wikilink") 버전이 출시되었다. 전작에 비해 플레이어 캐릭터의 레벨 상한선이 50 레벨으로 높아졌다.
 
 ## 개발
 
-이 게임은 상업적, 비평적으로 큰 성공을 거둔 《스타워즈: 구공화국의 기사단》의 후속작이다. 그러나 전작의 개발사인 [바이오웨어](https://ko.wikipedia.org/wiki/바이오웨어 "wikilink")는 한창 《[제이드 엠파이어](https://ko.wikipedia.org/wiki/제이드_엠파이어 "wikilink")》(**)를 개발하느라 바빴던 데다가, 자사의 지적 재산에 보다 중점을 두고 싶어했다.\[1\] 따라서 바이오웨어는 과거 함께 작업하며 쌓았던 친분을 바탕으로 옵시디언 엔터테인먼트를 후속작의 제작사로 추천했다.\[2\] 《스타워즈: 구공화국의 기사단 II: 시스 로드》의 제작은 《스타워즈: 구공화국의 기사단》의 엑스박스 버전이 발매되었을 때 쯤에 시작됐다.\[3\]
+이 게임은 상업적, 비평적으로 큰 성공을 거둔 《스타워즈: 구공화국의 기사단》의 후속작이다. 그러나 전작의 개발사인 [바이오웨어](../Page/바이오웨어.md "wikilink")는 한창 《[제이드 엠파이어](../Page/제이드_엠파이어.md "wikilink")》(**)를 개발하느라 바빴던 데다가, 자사의 지적 재산에 보다 중점을 두고 싶어했다.\[1\] 따라서 바이오웨어는 과거 함께 작업하며 쌓았던 친분을 바탕으로 옵시디언 엔터테인먼트를 후속작의 제작사로 추천했다.\[2\] 《스타워즈: 구공화국의 기사단 II: 시스 로드》의 제작은 《스타워즈: 구공화국의 기사단》의 엑스박스 버전이 발매되었을 때 쯤에 시작됐다.\[3\]
 
 《스타워즈: 구공화국의 기사단 II: 시스 로드》는 《스타워즈: 구공화국의 기사단》에 사용되었던 [오디세이](https://ko.wikipedia.org/wiki/오디세이_엔진 "wikilink") [게임 엔진을](../Page/게임_엔진.md "wikilink") 옵시디언 엔터테인먼트가 바이오웨어로부터 제공받아 제작했다.\[4\] 바이오웨어는 또한 옵시디언 엔터테인먼트의 개발진에게 기술지원도 제공했다.\[5\]
 
@@ -70,7 +70,7 @@
 
 ## 패치, 업그레이드, 모드
 
-옵시디언이 발표한 게임플레이 패치 외에도, 개발사는 [게임 음악과](https://ko.wikipedia.org/wiki/게임_음악 "wikilink") [동영상](https://ko.wikipedia.org/wiki/동영상 "wikilink")을 향상시키기 위한 두 개의 업그레이드를 발표했다. 동영상 업그레이드는 프리렌더링된 인게임 동영상의 [해상도](https://ko.wikipedia.org/wiki/해상도 "wikilink")를 640x272에서 1600x680으로 높임으로써 품질을 향상시킨다.\[15\] 그러나 사용자의 [컴퓨터 디스플레이가](https://ko.wikipedia.org/wiki/컴퓨터_디스플레이 "wikilink") 최소한 1600x1200 해상도를 지원해야 하며, 그렇지 않으면 동영상은 여전히 640x272로 재생된다.\[16\]
+옵시디언이 발표한 게임플레이 패치 외에도, 개발사는 [게임 음악과](https://ko.wikipedia.org/wiki/게임_음악 "wikilink") [동영상](https://ko.wikipedia.org/wiki/동영상 "wikilink")을 향상시키기 위한 두 개의 업그레이드를 발표했다. 동영상 업그레이드는 프리렌더링된 인게임 동영상의 [해상도](../Page/해상도.md "wikilink")를 640x272에서 1600x680으로 높임으로써 품질을 향상시킨다.\[15\] 그러나 사용자의 [컴퓨터 디스플레이가](https://ko.wikipedia.org/wiki/컴퓨터_디스플레이 "wikilink") 최소한 1600x1200 해상도를 지원해야 하며, 그렇지 않으면 동영상은 여전히 640x272로 재생된다.\[16\]
 
 원래 발매된 게임에 포함된 음악은 10.9 kHz 저주파 필터를 적용한 모노 오디오를 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")로 [인코딩한](https://ko.wikipedia.org/wiki/부호화 "wikilink") 것이었다.\[17\] 음악은 [스테레오](../Page/스테레오.md "wikilink")가 아니었을 뿐만 아니라, 필터에 의해서 고주파 대역(트레블)의 대부분이 없어져 버렸다. 옵시디언은 더 높은 음질과 스테레오를 제공하는 게임 음악 업그레이드를 제공했다.
 
@@ -82,7 +82,7 @@
 
 *Official Xbox Magazine*은 바이오웨어가 "구공화국의 기사단 III"를 개발중이라고 추측했지만, 이는 바이오웨어 공식 포럼에서 바이오웨어의 직원이 자신들은 "구공화국의 기사단 3를 만들고 있지 않다()"며 "만약 (후속작이) 만들어지더라도, 우리가 만들지는 않을 것이다.()"라고 밝힘으로써 잘못된 추측이었음이 밝혀졌다.\[20\]\[21\]
 
-*Electronic Gaming Monthly*는 바이오웨어가 "구공화국의 기사단"에 기반한 [MMORPG](https://ko.wikipedia.org/wiki/MMORPG "wikilink")를 개발하기 위한 온라인 팀을 고용했다는 기사를 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 5월호의 루머 섹션에 실었으며\[22\], 이는 결국 사실이 되어 바이오웨어가 직접 개발하고 EA가 월드와이드 퍼블리싱하는 [MMORPG](https://ko.wikipedia.org/wiki/MMORPG "wikilink") 온라인 게임이 "[스타 워즈: 구 공화국](https://ko.wikipedia.org/wiki/스타_워즈:_구_공화국 "wikilink")" 이라는 이름으로 2011년 12월 말 경 발매를 앞두고 있다.
+*Electronic Gaming Monthly*는 바이오웨어가 "구공화국의 기사단"에 기반한 [MMORPG](https://ko.wikipedia.org/wiki/MMORPG "wikilink")를 개발하기 위한 온라인 팀을 고용했다는 기사를 [2007년](../Page/2007년.md "wikilink") 5월호의 루머 섹션에 실었으며\[22\], 이는 결국 사실이 되어 바이오웨어가 직접 개발하고 EA가 월드와이드 퍼블리싱하는 [MMORPG](https://ko.wikipedia.org/wiki/MMORPG "wikilink") 온라인 게임이 "[스타 워즈: 구 공화국](https://ko.wikipedia.org/wiki/스타_워즈:_구_공화국 "wikilink")" 이라는 이름으로 2011년 12월 말 경 발매를 앞두고 있다.
 
 ## 참고 문헌
 

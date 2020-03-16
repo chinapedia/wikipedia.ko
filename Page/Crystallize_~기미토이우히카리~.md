@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Crystallize \~\~](https://ko.wikipedia.org/wiki/Crystallize_\~\~).
 
 
-**Crystallize \~너라는 빛\~** () 는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 세 번째 앨범이다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 12일](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") [GIZA studio에서](https://ko.wikipedia.org/wiki/GIZA_studio "wikilink") 발매되었다.
+**Crystallize \~너라는 빛\~** () 는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 세 번째 앨범이다. [2003년](../Page/2003년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.
 
-전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](https://ko.wikipedia.org/wiki/아즈키_나나 "wikilink"), 편곡은 [후루이 히로히토](https://ko.wikipedia.org/wiki/후루이_히로히토 "wikilink") (〈영원을 앞서 나가는 한 순간의 우리들〉은 Miguel sa Pessoa·후루이 히로히토,〈[꿈 꾼 후에](../Page/유메미타아토데.md "wikilink") -lightin' grooves True meaning of love mix-〉는 [이케다 다이스케](https://ko.wikipedia.org/wiki/이케다_다이스케 "wikilink") 편곡) 가 맡았다.
+전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](../Page/아즈키_나나.md "wikilink"), 편곡은 [후루이 히로히토](../Page/후루이_히로히토.md "wikilink") (〈영원을 앞서 나가는 한 순간의 우리들〉은 Miguel sa Pessoa·후루이 히로히토,〈[꿈 꾼 후에](../Page/유메미타아토데.md "wikilink") -lightin' grooves True meaning of love mix-〉는 [이케다 다이스케](https://ko.wikipedia.org/wiki/이케다_다이스케 "wikilink") 편곡) 가 맡았다.
 
-그림 동화를 모티브로 한〈Marionette Fantasia〉, 왕년의 영화 배우와 영화 작품을 모티브로 한〈Endless Desire〉, 성서를 모티브로 한〈도주할 마을〉등의 수록곡에서 [아즈키 나나의](https://ko.wikipedia.org/wiki/아즈키_나나 "wikilink") 개성적인 가사들이 나타나고 있다.
+그림 동화를 모티브로 한〈Marionette Fantasia〉, 왕년의 영화 배우와 영화 작품을 모티브로 한〈Endless Desire〉, 성서를 모티브로 한〈도주할 마을〉등의 수록곡에서 [아즈키 나나의](../Page/아즈키_나나.md "wikilink") 개성적인 가사들이 나타나고 있다.
 
 ## 수록곡
 

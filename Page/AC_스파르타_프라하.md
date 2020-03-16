@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AC  ](https://ko.wikipedia.org/wiki/AC__).
 
 
-**AC 스파르타 프라하**(AC Sparta Praha)는 1893년에 창단된 [체코](https://ko.wikipedia.org/wiki/체코 "wikilink")의 수도 [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink")의 축구 클럽으로, AXA 아레나를 홈구장으로 한다.
+**AC 스파르타 프라하**(AC Sparta Praha)는 1893년에 창단된 [체코](../Page/체코.md "wikilink")의 수도 [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink")의 축구 클럽으로, AXA 아레나를 홈구장으로 한다.
 
 1992년 유러피언 컵 (오늘날의 [UEFA 챔피언스 리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스_리그 "wikilink")) 준결승, 1973년 [UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink") 준결승 진출과 더불어 중앙 유럽 컵 ([미트로파컵](../Page/미트로파컵.md "wikilink")이라고도 알려진)을 세 차례 우승을 하며, 체코에서 가장 성공적인 축구팀이자, 중부 유럽에서 가장 성공적인 축구팀 중 하나이다. 스파르타는 또한 1969년에 [FIFA 클럽 월드컵의](../Page/FIFA_클럽_월드컵.md "wikilink") 전신인 [스몰 클럽 월드컵을](https://ko.wikipedia.org/wiki/스몰_클럽_월드컵 "wikilink") 하며, 국제 대회에서도 성공을 거뒀다.
 

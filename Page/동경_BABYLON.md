@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ BABYLON](https://ko.wikipedia.org/wiki/_BABYLON).
 
 
-《**동경 BABYLON**》()은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 만화작가 집단 [클램프](../Page/클램프.md "wikilink")(CLAMP)가 그린 만화 작품 및 그 만화를 원작으로 하는 애니메이션이다.
+《**동경 BABYLON**》()은 [일본](../Page/일본.md "wikilink")의 만화작가 집단 [클램프](../Page/클램프.md "wikilink")(CLAMP)가 그린 만화 작품 및 그 만화를 원작으로 하는 애니메이션이다.
 
 ## 개요
 
-[신쇼칸](https://ko.wikipedia.org/wiki/신쇼칸 "wikilink")의 《[월간 윙스](https://ko.wikipedia.org/wiki/월간_윙스 "wikilink")》에서 [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink")부터 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")까지 연재하였다. 이 이야기는 나중에 《[X](https://ko.wikipedia.org/wiki/X_\(만화\) "wikilink")》와 이어지게 된다. [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink")과 [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")에는 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")화가 되었으며, 1993년에서는 21세의 스바루를 그린 실사 비디오 드라마화도 되어 있다.
+[신쇼칸](https://ko.wikipedia.org/wiki/신쇼칸 "wikilink")의 《[월간 윙스](https://ko.wikipedia.org/wiki/월간_윙스 "wikilink")》에서 [1990년](../Page/1990년.md "wikilink")부터 [1993년](../Page/1993년.md "wikilink")까지 연재하였다. 이 이야기는 나중에 《[X](../Page/X_\(만화\).md "wikilink")》와 이어지게 된다. [1992년](../Page/1992년.md "wikilink")과 [1994년](../Page/1994년.md "wikilink")에는 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")화가 되었으며, 1993년에서는 21세의 스바루를 그린 실사 비디오 드라마화도 되어 있다.
 
-장르면으로는, [음양사](https://ko.wikipedia.org/wiki/음양사 "wikilink")인 주인공에 의한 판타지물의 형식을 바탕으로 [동경에](https://ko.wikipedia.org/wiki/토쿄 "wikilink") 사는 평범한 사람들이나 그에 관련되는 문제를 취급하면서, 사회파 드라마라는 측면도 가진다. 연재 당시부터 그 내용에 대해 찬반론이 있었다. 연재가 끝나자 작가들이 연재 기간동안 매회 여러 단체의 항의를 받았다고 밝혔다.
+장르면으로는, [음양사](../Page/음양사.md "wikilink")인 주인공에 의한 판타지물의 형식을 바탕으로 [동경에](https://ko.wikipedia.org/wiki/토쿄 "wikilink") 사는 평범한 사람들이나 그에 관련되는 문제를 취급하면서, 사회파 드라마라는 측면도 가진다. 연재 당시부터 그 내용에 대해 찬반론이 있었다. 연재가 끝나자 작가들이 연재 기간동안 매회 여러 단체의 항의를 받았다고 밝혔다.
 
 《[xxxHOLiC](https://ko.wikipedia.org/wiki/xxx홀릭 "wikilink")》도 인간의 내면을 그리고 있다는 점에서는 공통점이 있다.
 
@@ -31,40 +31,40 @@
 ### 서적
 
   - 단행본
-    1.  [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") 발매
-    2.  1991년 [11월 10일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink") 발매
-    3.  1992년 [1월 25일](https://ko.wikipedia.org/wiki/1월_25일 "wikilink") 발매
-    4.  1992년 [7월 10일](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") 발매
-    5.  1993년 [4월 5일](https://ko.wikipedia.org/wiki/4월_5일 "wikilink") 발매
-    6.  1993년 [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") 발매
-    7.  1994년 [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") 발매
+    1.  [1991년](../Page/1991년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") 발매
+    2.  1991년 [11월 10일](../Page/11월_10일.md "wikilink") 발매
+    3.  1992년 [1월 25일](../Page/1월_25일.md "wikilink") 발매
+    4.  1992년 [7월 10일](../Page/7월_10일.md "wikilink") 발매
+    5.  1993년 [4월 5일](../Page/4월_5일.md "wikilink") 발매
+    6.  1993년 [8월 25일](../Page/8월_25일.md "wikilink") 발매
+    7.  1994년 [3월 25일](../Page/3월_25일.md "wikilink") 발매
   - 화집
-      - TOKYO BABYLON PHOTOGRAPHS [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink") 발매
+      - TOKYO BABYLON PHOTOGRAPHS [1996년](../Page/1996년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") 발매
 
 ### CD
 
-  - CD COMIC 동경 BABYLON [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 발매
-  - TOKYO BABYLON IMAGE SOUNDTRACK 1992년 [7월 22일](https://ko.wikipedia.org/wiki/7월_22일 "wikilink") 발매
+  - CD COMIC 동경 BABYLON [1990년](../Page/1990년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") 발매
+  - TOKYO BABYLON IMAGE SOUNDTRACK 1992년 [7월 22일](../Page/7월_22일.md "wikilink") 발매
       - CLAMP가 셀렉트한 악곡을 모은 옴니버스 CD. 2장 세트로 2장째에는 드라마 《CALL》(원작의 동 타이틀이 베이스)이 수록되어 있다. 메인캐스트는 OVA와 동일.
-  - 동경 BABYLON SINGLE TRIPLE 1993년 [2월 21일](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") 발매
+  - 동경 BABYLON SINGLE TRIPLE 1993년 [2월 21일](../Page/2월_21일.md "wikilink") 발매
       - 3장 세트로 되어 있다. 그 중 한 장은, GRASS VALLEYのMY LOVER (LOGOS)가 삽입되어 있다.
-  - TOKYO BABYLON 1999 1993년 [9월 22일](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") 발매
+  - TOKYO BABYLON 1999 1993년 [9월 22일](../Page/9월_22일.md "wikilink") 발매
       - 21세가 된 스바루를 그리고 있다. 후는 실사화.
   - 데쟈부 (동경 BABYLON2 주제가) 1994년 2월 21일 발매
-  - TOKYO BABYLON IMAGE SOUNDTRACK 2 1994년 [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") 발매
+  - TOKYO BABYLON IMAGE SOUNDTRACK 2 1994년 [3월 9일](../Page/3월_9일.md "wikilink") 발매
 
 ### 그 외
 
-  - 동경 BABYLON POST CARDS BOOK (1993년 [8월 26일](https://ko.wikipedia.org/wiki/8월_26일 "wikilink") 발매)
+  - 동경 BABYLON POST CARDS BOOK (1993년 [8월 26일](../Page/8월_26일.md "wikilink") 발매)
   - 동경 BABYLON CALENDAR 1992
 
 ## 영상 작품
 
 ### OVA
 
-  - 동경 BABYLON A SAVE FOR TOKYO CITY STORY 1992년 [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") 발매
-    영상 특전으로 전 3곡의 [뮤직 클립이](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 수록되어 있다(1, 2곡째는 실사, 3곡째는 애니메이션). 1993년 [8월 21일에는](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") 뮤직 클립이 없는 통상판도 발매되었다.
-  - 동경 BABYLON2 1994년 [3월 21일](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 발매
+  - 동경 BABYLON A SAVE FOR TOKYO CITY STORY 1992년 [10월 21일](../Page/10월_21일.md "wikilink") 발매
+    영상 특전으로 전 3곡의 [뮤직 클립이](../Page/뮤직_비디오.md "wikilink") 수록되어 있다(1, 2곡째는 실사, 3곡째는 애니메이션). 1993년 [8월 21일에는](../Page/8월_21일.md "wikilink") 뮤직 클립이 없는 통상판도 발매되었다.
+  - 동경 BABYLON2 1994년 [3월 21일](../Page/3월_21일.md "wikilink") 발매
     드라마CD가 특전으로 붙어 있다.
 
 #### 스태프
@@ -88,7 +88,7 @@
   - 음향 감독 : 와타나베 쥰
   - 음향 제작 : 現
   - 음향 효과 : 神保大介
-  - 제작 협력 : [매드하우스](https://ko.wikipedia.org/wiki/매드하우스 "wikilink")
+  - 제작 협력 : [매드하우스](../Page/매드하우스.md "wikilink")
   - 제작 : [아니메이트 필름](https://ko.wikipedia.org/wiki/아니메이트_필름 "wikilink")
 
 #### 목소리 출연
@@ -96,10 +96,10 @@
   - 스메라기 스바루 : [야마구치 캇페이](../Page/야마구치_캇페이.md "wikilink")
   - 스메라기 호쿠토 : [이토우 미키](https://ko.wikipedia.org/wiki/이토우_미키 "wikilink")
   - 사쿠라즈카 세이시로 : [코야스 타케히토](../Page/코야스_타케히토.md "wikilink")
-  - 미무라 사장 : [니시무라 토모미치](https://ko.wikipedia.org/wiki/니시무라_토모미치 "wikilink")
+  - 미무라 사장 : [니시무라 토모미치](../Page/니시무라_토모미치.md "wikilink")
   - 나구모 신지 : [이케다 슈우이치](https://ko.wikipedia.org/wiki/이케다_슈우이치 "wikilink")
   - 아소 카자미 : [츠루 히로미](../Page/츠루_히로미.md "wikilink")
-  - 야마카와 형사 : [야마데라 코이치](https://ko.wikipedia.org/wiki/야마데라_코이치 "wikilink")
+  - 야마카와 형사 : [야마데라 코이치](../Page/야마데라_코이치.md "wikilink")
   - 히다카 미레이 : [시노하라 에미](../Page/시노하라_에미.md "wikilink")
   - 미야타케 료 : [타나카 히데유키](https://ko.wikipedia.org/wiki/타나카_히데유키 "wikilink")
   - 카시와기 키리코 : [시마모토 스미](../Page/시마모토_스미.md "wikilink")
@@ -107,7 +107,7 @@
 
 ### 실사판
 
-  - 동경 BABYLON 1999 (1993년 [8월 21일](https://ko.wikipedia.org/wiki/8월_21일 "wikilink") 발매)
+  - 동경 BABYLON 1999 (1993년 [8월 21일](../Page/8월_21일.md "wikilink") 발매)
 
 #### 스태프
 

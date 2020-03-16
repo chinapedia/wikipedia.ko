@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lost Dogs](https://ko.wikipedia.org/wiki/Lost_Dogs).
 
 
-《**Lost Dogs**》는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 나온 [펄 잼의](../Page/펄_잼.md "wikilink") 모음집 음반이다.
+《**Lost Dogs**》는 [2003년](../Page/2003년.md "wikilink") 나온 [펄 잼의](../Page/펄_잼.md "wikilink") 모음집 음반이다.
 
 ## 곡 목록
 
@@ -33,8 +33,8 @@
 14. "Undone" (베더) – 3:10
       - 〈I Am Mine〉의 비사이드를 재녹음 한 것이다.
 15. "Hold On" (고사드베더) – 4:22
-      - 《Ten》 녹음에서 남은 노래이다. 목소리는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")경에 녹음했다.
+      - 《Ten》 녹음에서 남은 노래이다. 목소리는 [2003년](../Page/2003년.md "wikilink")경에 녹음했다.
 16. "Yellow Ledbetter" (아멘트·매크리디·베더) – 5:00
-      - Jeremy 싱글의 뒷면 곡이었다. [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") 큰 인기를 끌었다.
+      - Jeremy 싱글의 뒷면 곡이었다. [1994년](../Page/1994년.md "wikilink") 큰 인기를 끌었다.
 
 [분류:2003년 음반](https://ko.wikipedia.org/wiki/분류:2003년_음반 "wikilink") [분류:펄 잼의 음반](https://ko.wikipedia.org/wiki/분류:펄_잼의_음반 "wikilink") [분류:2003년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:2003년_컴필레이션_음반 "wikilink")

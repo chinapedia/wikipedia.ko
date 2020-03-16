@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Merry\&Hell Go Round](https://ko.wikipedia.org/wiki/Merry\&Hell_Go_Round).
 
 
-**Merry\&Hell Go Round**는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [6월 27일에](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 2번째 미니앨범이다. 가사는 전부 영어로 되어있다. [타워 레코드에서](https://ko.wikipedia.org/wiki/타워_레코드 "wikilink") 독점판매 되었다.
+**Merry\&Hell Go Round**는 [2003년](../Page/2003년.md "wikilink") [6월 27일에](../Page/6월_27일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 2번째 미니앨범이다. 가사는 전부 영어로 되어있다. [타워 레코드에서](https://ko.wikipedia.org/wiki/타워_레코드 "wikilink") 독점판매 되었다.
 
 ## 트랙리스트
 

@@ -13,7 +13,7 @@
 `# 위에 맞추어 `[`위키백과:비활동``   ``관리자``   ``권한``   ``회수의`](../Page/위키백과:비활동_관리자_권한_회수.md "wikilink")` 하위문서 생성 제한`
 `위키백과:비활동 관리자 권한 회수\/.* <errmsg=titleblacklist-forbidden-rfasubpage>`
 
-`# `[`위키백과:알찬``   ``글``   ``후보`](../Page/위키백과:알찬_글_후보.md "wikilink")`, `[`위키백과:좋은``   ``글``   ``후보의`](https://ko.wikipedia.org/wiki/위키백과:좋은_글_후보 "wikilink")` 준보호 생성 제한 --관인생략`
+`# `[`위키백과:알찬``   ``글``   ``후보`](../Page/위키백과:알찬_글_후보.md "wikilink")`, `[`위키백과:좋은``   ``글``   ``후보의`](../Page/위키백과:좋은_글_후보.md "wikilink")` 준보호 생성 제한 --관인생략`
 `위키백과:알찬 글 후보\/.* <autoconfirmed|errmsg=titleblacklist-forbidden-rfasubpage>`
 `위키백과:좋은 글 후보\/.* <autoconfirmed|errmsg=titleblacklist-forbidden-rfasubpage>`
 `위키백과:알찬 글 재검토\/.* <autoconfirmed|errmsg=titleblacklist-forbidden-rfasubpage>`

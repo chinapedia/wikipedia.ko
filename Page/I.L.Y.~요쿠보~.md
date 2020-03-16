@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I.L.Y.\~\~](https://ko.wikipedia.org/wiki/I.L.Y.\~\~).
 
 
-**I.L.Y.\~요쿠보\~**(, I.L.Y.\~욕망\~)는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [2월 3일에](https://ko.wikipedia.org/wiki/2월_3일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 [솔로 가수](https://ko.wikipedia.org/wiki/솔로_가수 "wikilink") 데뷔 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+**I.L.Y.\~요쿠보\~**(, I.L.Y.\~욕망\~)는 [1999년](../Page/1999년.md "wikilink") [2월 3일에](../Page/2월_3일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 [솔로 가수](https://ko.wikipedia.org/wiki/솔로_가수 "wikilink") 데뷔 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 트랙리스트
 

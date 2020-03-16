@@ -5,29 +5,29 @@
 
 ## 역사
 
-  - [1942년](https://ko.wikipedia.org/wiki/1942년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") : 목포시 양동 미국선교사 사택에서 조선방송협회 목포방송소로 발족
-  - [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") : 공보처 목포방송국으로 개편 및 호출부호 변경(JODK-HLKN)
-  - [1947년](https://ko.wikipedia.org/wiki/1947년 "wikilink") [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") : 1950년 5월5일 구청사 준공(석조단층 122평) 및 출력 증강
-  - [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") : 6.25동란으로 해군함정 "단양호 LST"에 AM 송신기를 설치
-  - [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") : 국내 최초 서해안 및 남해안 일대 해상방송실시 (주파수 650KHz)
-  - [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") : 출력 증강
-  - [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") [10월 7일](https://ko.wikipedia.org/wiki/10월_7일 "wikilink") : 영암송신소 기공
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") : 영암송신소 준공및 출력증강, 주파수 변경(860KHz)
-  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") : [한국방송공사](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 목포방송국으로 기구 개편
-  - [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [3월 18일](https://ko.wikipedia.org/wiki/3월_18일 "wikilink") : 현 영암송신소 준공 및 출력 증강, 주파수 1,470KHz로 변경
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") [11월 23일](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") : 국제전기통신연합 [ITU](https://ko.wikipedia.org/wiki/ITU "wikilink")가 AM 주파수 간격을 10kHz에서 9kHz로 변경함에 따라 주파수 변경(1,470KHz→1,467KHz)
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink") : 현 청사 기공(목포시 용당동)
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") : 현 청사 준공
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [11월 15일](https://ko.wikipedia.org/wiki/11월_15일 "wikilink") : 목포방송국 스포츠홀 기공
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink") : 목포방송국 스포츠홀 준공
-  - [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [11월 24일](https://ko.wikipedia.org/wiki/11월_24일 "wikilink") : 목포방송국 TV, FM개국
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") : 양을산송신소 준공
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") : 해남 대둔산 표준FM 신설
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 28일](https://ko.wikipedia.org/wiki/12월_28일 "wikilink") : 대둔산송신소 증축 및 DTV 개국
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") : 대둔산 송신소 DMB 개국
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") : [강진군](https://ko.wikipedia.org/wiki/강진군 "wikilink")에서 지상파 아날로그 텔레비전 방송을 종료.
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink") : 전남 서남부 지역 지상파 아날로그 TV 방송 종료
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월 12일](https://ko.wikipedia.org/wiki/6월_12일 "wikilink") : 전남 서남부 지역 디지털 주파수 재배치 완료
+  - [1942년](../Page/1942년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 목포시 양동 미국선교사 사택에서 조선방송협회 목포방송소로 발족
+  - [1947년](../Page/1947년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") : 공보처 목포방송국으로 개편 및 호출부호 변경(JODK-HLKN)
+  - [1947년](../Page/1947년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") : 1950년 5월5일 구청사 준공(석조단층 122평) 및 출력 증강
+  - [1950년](../Page/1950년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") : 6.25동란으로 해군함정 "단양호 LST"에 AM 송신기를 설치
+  - [1950년](../Page/1950년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") : 국내 최초 서해안 및 남해안 일대 해상방송실시 (주파수 650KHz)
+  - [1958년](../Page/1958년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") : 출력 증강
+  - [1966년](../Page/1966년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") : 영암송신소 기공
+  - [1967년](../Page/1967년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : 영암송신소 준공및 출력증강, 주파수 변경(860KHz)
+  - [1973년](../Page/1973년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : [한국방송공사](../Page/한국방송공사.md "wikilink") 목포방송국으로 기구 개편
+  - [1977년](../Page/1977년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") : 현 영암송신소 준공 및 출력 증강, 주파수 1,470KHz로 변경
+  - [1978년](../Page/1978년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") : 국제전기통신연합 [ITU](https://ko.wikipedia.org/wiki/ITU "wikilink")가 AM 주파수 간격을 10kHz에서 9kHz로 변경함에 따라 주파수 변경(1,470KHz→1,467KHz)
+  - [1983년](../Page/1983년.md "wikilink") [11월](../Page/11월.md "wikilink") : 현 청사 기공(목포시 용당동)
+  - [1984년](../Page/1984년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink") : 현 청사 준공
+  - [1985년](../Page/1985년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") : 목포방송국 스포츠홀 기공
+  - [1987년](../Page/1987년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") : 목포방송국 스포츠홀 준공
+  - [1987년](../Page/1987년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink") : 목포방송국 TV, FM개국
+  - [1990년](../Page/1990년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") : 양을산송신소 준공
+  - [2001년](../Page/2001년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") : 해남 대둔산 표준FM 신설
+  - [2005년](../Page/2005년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") : 대둔산송신소 증축 및 DTV 개국
+  - [2008년](../Page/2008년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") : 대둔산 송신소 DMB 개국
+  - [2010년](../Page/2010년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") : [강진군](../Page/강진군.md "wikilink")에서 지상파 아날로그 텔레비전 방송을 종료.
+  - [2012년](../Page/2012년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") : 전남 서남부 지역 지상파 아날로그 TV 방송 종료
+  - [2013년](../Page/2013년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") : 전남 서남부 지역 디지털 주파수 재배치 완료
 
 ## 방송 송출 시설망
 
@@ -195,9 +195,9 @@
 
 ## 아나운서
 
-  - [정윤심](https://ko.wikipedia.org/wiki/정윤심 "wikilink"):[1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")(12기) 입사
-  - [김석훈](https://ko.wikipedia.org/wiki/김석훈_\(아나운서\) "wikilink"):[1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink")(16기) 입사
-  - [박은혜](https://ko.wikipedia.org/wiki/박은혜 "wikilink") [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink")(프리랜서) 입사
+  - [정윤심](https://ko.wikipedia.org/wiki/정윤심 "wikilink"):[1985년](../Page/1985년.md "wikilink")(12기) 입사
+  - [김석훈](https://ko.wikipedia.org/wiki/김석훈_\(아나운서\) "wikilink"):[1988년](../Page/1988년.md "wikilink")(16기) 입사
+  - [박은혜](https://ko.wikipedia.org/wiki/박은혜 "wikilink") [2019년](../Page/2019년.md "wikilink")(프리랜서) 입사
   - 김종식:전직 아나운서
   - 박지훈:전직 아나운서
   - 곽현희:전직(프리랜서)

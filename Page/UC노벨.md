@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UC](https://ko.wikipedia.org/wiki/UC).
 
 
-**UC Novel**(**유씨노벨**)은 [비주얼 노벨과](https://ko.wikipedia.org/wiki/비주얼_노벨 "wikilink") 같은 인터렉티브 멀티미디어 콘텐츠를 만들고 공유할 수 있는 플랫폼이다. 유씨노벨은 프로그래밍이나 [스크립트 언어를](../Page/스크립트_언어.md "wikilink") 사용하지 않고 쉽게 게임을 제작할 수 있는 [GUI](https://ko.wikipedia.org/wiki/GUI "wikilink")기반의 저작도구를 지원한다. UC노벨 저작도구로 만들어진 게임은 웹으로 바로 출판하여 배포할 수 있고, 퍼가기 기능을 이용하여 다른사람과 쉽게 콘텐츠를 공유할 수 있다.
+**UC Novel**(**유씨노벨**)은 [비주얼 노벨과](../Page/비주얼_노벨.md "wikilink") 같은 인터렉티브 멀티미디어 콘텐츠를 만들고 공유할 수 있는 플랫폼이다. 유씨노벨은 프로그래밍이나 [스크립트 언어를](../Page/스크립트_언어.md "wikilink") 사용하지 않고 쉽게 게임을 제작할 수 있는 [GUI](https://ko.wikipedia.org/wiki/GUI "wikilink")기반의 저작도구를 지원한다. UC노벨 저작도구로 만들어진 게임은 웹으로 바로 출판하여 배포할 수 있고, 퍼가기 기능을 이용하여 다른사람과 쉽게 콘텐츠를 공유할 수 있다.
 
 유씨노벨을 통해 유명해진 창작 작품으로 은신처, 혼돈의 왕자, 타뷸라의 늑대, 3학년 2반 살인사건 등이 있다.
 

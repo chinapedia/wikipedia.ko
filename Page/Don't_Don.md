@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Don\'t Don](https://ko.wikipedia.org/wiki/Don\'t_Don).
 
 
-《**Don't Don**》은 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 2번째 정규 음반이다.
+《**Don't Don**》은 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 2번째 정규 음반이다.
 
 ## 수록곡
 
@@ -75,8 +75,8 @@
 <td><p>5</p></td>
 <td><p>Disco Drive</p></td>
 <td><p>4:07</p></td>
-<td><p>작사 : <a href="https://ko.wikipedia.org/wiki/윤종신" title="wikilink">윤종신</a><br />
-작곡 : <a href="https://ko.wikipedia.org/wiki/윤종신" title="wikilink">윤종신</a>, 이근호<br />
+<td><p>작사 : <a href="../Page/윤종신.md" title="wikilink">윤종신</a><br />
+작곡 : <a href="../Page/윤종신.md" title="wikilink">윤종신</a>, 이근호<br />
 편곡 : 이준호</p></td>
 </tr>
 <tr class="even">
@@ -85,8 +85,8 @@
 <td><p>6</p></td>
 <td><p>미워 (Hate U, Love U)</p></td>
 <td><p>3:47</p></td>
-<td><p>작사 : <a href="https://ko.wikipedia.org/wiki/김정배_(음악가)" title="wikilink">김정배</a><br />
-작곡·편곡 : <a href="https://ko.wikipedia.org/wiki/켄지" title="wikilink">Kenzie</a></p></td>
+<td><p>작사 : <a href="../Page/김정배_(음악가).md" title="wikilink">김정배</a><br />
+작곡·편곡 : <a href="../Page/켄지.md" title="wikilink">Kenzie</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
@@ -94,9 +94,9 @@
 <td><p>7</p></td>
 <td><p>I am</p></td>
 <td><p>3:30</p></td>
-<td><p>작사 : <a href="https://ko.wikipedia.org/wiki/이특_(가수)" title="wikilink">이특</a>, <a href="https://ko.wikipedia.org/wiki/성민_(1986년)" title="wikilink">성민</a>, <a href="https://ko.wikipedia.org/wiki/은혁" title="wikilink">은혁</a>, <a href="https://ko.wikipedia.org/wiki/동해_(가수)" title="wikilink">동해</a><br />
+<td><p>작사 : <a href="https://ko.wikipedia.org/wiki/이특_(가수)" title="wikilink">이특</a>, <a href="../Page/성민_(1986년).md" title="wikilink">성민</a>, <a href="../Page/은혁.md" title="wikilink">은혁</a>, <a href="../Page/동해_(가수).md" title="wikilink">동해</a><br />
 작곡 : Greg Lynch<br />
-편곡 : <a href="https://ko.wikipedia.org/wiki/켄지" title="wikilink">Kenzie</a></p></td>
+편곡 : <a href="../Page/켄지.md" title="wikilink">Kenzie</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -105,7 +105,7 @@
 <td><p>사랑이 떠나다 (She's gone)</p></td>
 <td><p>4:38</p></td>
 <td><p>작사 : 권윤정<br />
-작곡·편곡 : <a href="https://ko.wikipedia.org/wiki/황성제" title="wikilink">황성제</a></p></td>
+작곡·편곡 : <a href="../Page/황성제.md" title="wikilink">황성제</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
@@ -130,8 +130,8 @@
 <td><p>10</p></td>
 <td><p>우리들의 사랑 (Our Love)</p></td>
 <td><p>3:48</p></td>
-<td><p>작사·작곡 : <a href="https://ko.wikipedia.org/wiki/유재하" title="wikilink">유재하</a><br />
-편곡 : <a href="https://ko.wikipedia.org/wiki/켄지" title="wikilink">Kenzie</a></p></td>
+<td><p>작사·작곡 : <a href="../Page/유재하.md" title="wikilink">유재하</a><br />
+편곡 : <a href="../Page/켄지.md" title="wikilink">Kenzie</a></p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
@@ -158,7 +158,7 @@
 <td><p>Thank you</p></td>
 <td><p>3:35</p></td>
 <td><p>작사 : 성낙호<br />
-작곡 : <a href="https://ko.wikipedia.org/wiki/김조한" title="wikilink">김조한</a><br />
+작곡 : <a href="../Page/김조한.md" title="wikilink">김조한</a><br />
 편곡 : <a href="../Page/돈_스파이크.md" title="wikilink">김민수</a></p></td>
 </tr>
 <tr class="odd">

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**요코하마 FC**()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [J2리그](https://ko.wikipedia.org/wiki/J2리그 "wikilink")에 소속된 축구팀이다. 모기업 [ANA](https://ko.wikipedia.org/wiki/ANA "wikilink")의 경영난으로 [요코하마 마리노스에](../Page/요코하마_F._마리노스.md "wikilink") 합병된 [요코하마 플뤼겔스](../Page/요코하마_플뤼겔스.md "wikilink") 서포터즈들이 합병에 반발해 독자적으로 창단한 구단이다.
+**요코하마 FC**()는 [일본](../Page/일본.md "wikilink") [J2리그](../Page/J2리그.md "wikilink")에 소속된 축구팀이다. 모기업 [ANA](https://ko.wikipedia.org/wiki/ANA "wikilink")의 경영난으로 [요코하마 마리노스에](../Page/요코하마_F._마리노스.md "wikilink") 합병된 [요코하마 플뤼겔스](../Page/요코하마_플뤼겔스.md "wikilink") 서포터즈들이 합병에 반발해 독자적으로 창단한 구단이다.
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 ## 성적
 
-  - [J리그 디비전 2](https://ko.wikipedia.org/wiki/J2리그 "wikilink") 우승: 2006
+  - [J리그 디비전 2](../Page/J2리그.md "wikilink") 우승: 2006
   - [일본 풋볼 리그](../Page/일본_풋볼_리그.md "wikilink") 우승: 1999, 2000
 
 ## 선수단
@@ -19,9 +19,9 @@
 ## 같이 보기
 
   - [요코하마 FC 홍콩](https://ko.wikipedia.org/wiki/드림스_메트로_갤러리_FC "wikilink")
-  - [AFC 윔블던](https://ko.wikipedia.org/wiki/AFC_윔블던 "wikilink")
+  - [AFC 윔블던](../Page/AFC_윔블던.md "wikilink")
   - [부천 FC 1995](https://ko.wikipedia.org/wiki/부천_FC_1995 "wikilink")
-  - [FC 안양](https://ko.wikipedia.org/wiki/FC_안양 "wikilink")
+  - [FC 안양](../Page/FC_안양.md "wikilink")
 
 ## 외부 링크
 

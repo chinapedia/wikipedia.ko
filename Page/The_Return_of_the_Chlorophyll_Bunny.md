@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Return of the Chlorophyll Bunny](https://ko.wikipedia.org/wiki/The_Return_of_the_Chlorophyll_Bunny).
 
 
-**The Return of the Chlorophyll Bunny**는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [12월 3일에](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 4번째 미니앨범이다.가사는 전부 영어로 되어있다. [타워 레코드](https://ko.wikipedia.org/wiki/타워_레코드 "wikilink") 에서 독점판매 되었다.
+**The Return of the Chlorophyll Bunny**는 [2003년](../Page/2003년.md "wikilink") [12월 3일에](../Page/12월_3일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 4번째 미니앨범이다.가사는 전부 영어로 되어있다. [타워 레코드](https://ko.wikipedia.org/wiki/타워_레코드 "wikilink") 에서 독점판매 되었다.
 
 ## 트랙리스트
 

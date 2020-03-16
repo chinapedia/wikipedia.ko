@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
 
 
-**KBS 드라마**()는 [TV 드라마](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") [프로그램을](https://ko.wikipedia.org/wiki/TV_프로그램 "wikilink") 주로 편성하는 [KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 계열의 방송 채널이다.
+**KBS 드라마**()는 [TV 드라마](../Page/텔레비전_드라마.md "wikilink") [프로그램을](https://ko.wikipedia.org/wiki/TV_프로그램 "wikilink") 주로 편성하는 [KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 계열의 방송 채널이다.
 
 ## 채널 번호
 
@@ -18,8 +18,8 @@
 ## 역사
 
   - 1996년 (구) SKY KBS 드라마 개국 폐국
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [2월 2일](https://ko.wikipedia.org/wiki/2월_2일 "wikilink") (구) **KBS SKY 드라마**로 폐국
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") **KBS 드라마**로 채널 변경 개국
+  - [2002년](../Page/2002년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") (구) **KBS SKY 드라마**로 폐국
+  - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") **KBS 드라마**로 채널 변경 개국
 
 ## 프로그램
 
@@ -29,8 +29,8 @@
   - [인형의 집](../Page/인형의_집.md "wikilink")
   - [추리의 여왕 2](../Page/추리의_여왕_2.md "wikilink")
       - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
-      - [걸어서 세계속으로](https://ko.wikipedia.org/wiki/걸어서_세계속으로 "wikilink")
-      - [대국민 토크쇼 안녕하세요](https://ko.wikipedia.org/wiki/대국민_토크쇼_안녕하세요 "wikilink")
+      - [걸어서 세계속으로](../Page/걸어서_세계속으로.md "wikilink")
+      - [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")
       - [해피투게더 3](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")
   - [파도야 파도야](../Page/파도야_파도야.md "wikilink")
   - [라디오 로맨스](../Page/라디오_로맨스.md "wikilink")
@@ -63,7 +63,7 @@
 
 ## 같이 보기
 
-  - [MBC 드라마넷](https://ko.wikipedia.org/wiki/MBC_드라마넷 "wikilink")
+  - [MBC 드라마넷](../Page/MBC_드라마넷.md "wikilink")
   - [SBS 플러스](../Page/SBS_플러스.md "wikilink")
   - [스카이 드라마](https://ko.wikipedia.org/wiki/스카이_드라마 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ I](https://ko.wikipedia.org/wiki/_I).
 
 
-**리가 I** ()은 [루마니아 축구 리그 시스템의](https://ko.wikipedia.org/wiki/루마니아_축구_리그_시스템 "wikilink") 최상위 디비전에 대한 공식 명칭이다. 리가 I은 [1909년](https://ko.wikipedia.org/wiki/1909년 "wikilink")에 설립되었고, 1909-10 시즌부터 시작되었다. 1932년까지는 다양한 플레이오프 시스템을 적용해왔다. 2006-07 시즌 전까지는 **디비지아 A**()라 불렀지만 누군가가 "디비지아 A"를 상표로 등록한 것을 발견했다는 사실이 밝혀지면서\[1\] 지금과 같은 명칭으로 변경하였다.
+**리가 I** ()은 [루마니아 축구 리그 시스템의](../Page/루마니아_축구_리그_시스템.md "wikilink") 최상위 디비전에 대한 공식 명칭이다. 리가 I은 [1909년](../Page/1909년.md "wikilink")에 설립되었고, 1909-10 시즌부터 시작되었다. 1932년까지는 다양한 플레이오프 시스템을 적용해왔다. 2006-07 시즌 전까지는 **디비지아 A**()라 불렀지만 누군가가 "디비지아 A"를 상표로 등록한 것을 발견했다는 사실이 밝혀지면서\[1\] 지금과 같은 명칭으로 변경하였다.
 
 리가 I은 현재 14개 클럽으로 구성되어 있는데, 시즌이 끝나고 하위 두 클럽이 리가 II로 강등되고, 두 개의 디비지아로 구성되어 있는 리가 II의 각 디비지아에서 한 클럽씩 승격하게 된다.
 
@@ -29,14 +29,14 @@
 
 강등 라운드는 정규리그가 끝나고 하위 8개 클럽이 참여하게 되는 플레이오프로 최하위 승점 두 클럽이 리가 II로 강등된다. 순위에 대한 규칙은 위와 동일하다.
 
-현재 우승 팀과 준우승 팀은 다음시즌의 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 3차예선에 진출하게 되고, 3, 4위 팀은 [UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 3차예선에 진출하게 된다.
+현재 우승 팀과 준우승 팀은 다음시즌의 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 3차예선에 진출하게 되고, 3, 4위 팀은 [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 3차예선에 진출하게 된다.
 
-리가 I에서 가장 성공적인 팀은 [FC 스테아우아 부쿠레슈티](https://ko.wikipedia.org/wiki/FC_스테아우아_부쿠레슈티 "wikilink") 와 [디나모 부쿠레슈티를](https://ko.wikipedia.org/wiki/디나모_부쿠레슈티 "wikilink") 들 수 있다. 그 외 주목할 만한 팀은 [CS 우니베르시타테아 크라이오바](../Page/CS_우니베르시타테아_크라이오바.md "wikilink"), [CFR 클루지](https://ko.wikipedia.org/wiki/CFR_클루지 "wikilink"), [FC 비토룰 콘스탄차](../Page/FC_비토룰_콘스탄차.md "wikilink"), [FC 아스트라 지우르지우](https://ko.wikipedia.org/wiki/FC_아스트라_지우르지우 "wikilink") 정도가 있다. 1981-82시즌부터 지난 2016-17시즌까지 36시즌 동안 비(非) 부쿠레슈티 팀 가운데 우승한 팀은 [CS 우니베르시타테아 크라이오바](../Page/CS_우니베르시타테아_크라이오바.md "wikilink") (1990-91)와 [CFR 클루지](https://ko.wikipedia.org/wiki/CFR_클루지 "wikilink") (2007-08), [FC 아스트라 지우르지우](https://ko.wikipedia.org/wiki/FC_아스트라_지우르지우 "wikilink") (2015-16), [FC 비토룰 콘스탄차](../Page/FC_비토룰_콘스탄차.md "wikilink") (2016-17) 4개 클럽 뿐이다.
+리가 I에서 가장 성공적인 팀은 [FC 스테아우아 부쿠레슈티](https://ko.wikipedia.org/wiki/FC_스테아우아_부쿠레슈티 "wikilink") 와 [디나모 부쿠레슈티를](https://ko.wikipedia.org/wiki/디나모_부쿠레슈티 "wikilink") 들 수 있다. 그 외 주목할 만한 팀은 [CS 우니베르시타테아 크라이오바](../Page/CS_우니베르시타테아_크라이오바.md "wikilink"), [CFR 클루지](../Page/CFR_클루지.md "wikilink"), [FC 비토룰 콘스탄차](../Page/FC_비토룰_콘스탄차.md "wikilink"), [FC 아스트라 지우르지우](https://ko.wikipedia.org/wiki/FC_아스트라_지우르지우 "wikilink") 정도가 있다. 1981-82시즌부터 지난 2016-17시즌까지 36시즌 동안 비(非) 부쿠레슈티 팀 가운데 우승한 팀은 [CS 우니베르시타테아 크라이오바](../Page/CS_우니베르시타테아_크라이오바.md "wikilink") (1990-91)와 [CFR 클루지](../Page/CFR_클루지.md "wikilink") (2007-08), [FC 아스트라 지우르지우](https://ko.wikipedia.org/wiki/FC_아스트라_지우르지우 "wikilink") (2015-16), [FC 비토룰 콘스탄차](../Page/FC_비토룰_콘스탄차.md "wikilink") (2016-17) 4개 클럽 뿐이다.
 
 ## 2017-18 시즌 클럽
 
   - [FC 스테아우아 부쿠레슈티](https://ko.wikipedia.org/wiki/FC_스테아우아_부쿠레슈티 "wikilink")
-  - [CFR 클루지](https://ko.wikipedia.org/wiki/CFR_클루지 "wikilink")
+  - [CFR 클루지](../Page/CFR_클루지.md "wikilink")
   - [CS 우니베르시타테아 크라이오바](../Page/CS_우니베르시타테아_크라이오바.md "wikilink")
   - [FC 보토샤니](../Page/FC_보토샤니.md "wikilink")
   - [FC 디나모 부쿠레슈티](https://ko.wikipedia.org/wiki/FC_디나모_부쿠레슈티 "wikilink")

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [XP](https://ko.wikipedia.org/wiki/XP).
 
 
-**스타일XP**(StyleXP)는 [윈도 XP의](https://ko.wikipedia.org/wiki/윈도_XP "wikilink") 그래픽 사용자 인터페이스를 수정하도록 고안된 [컴퓨터 프로그램이다](https://ko.wikipedia.org/wiki/컴퓨터_프로그램 "wikilink"). 3.19 버전부터 테마, 탐색기 표시줄, 배경, 로그온 화면, 아이콘, 시동 화면, 투명도, 커서, 화면 보호기를 수정할 수 있다.
+**스타일XP**(StyleXP)는 [윈도 XP의](https://ko.wikipedia.org/wiki/윈도_XP "wikilink") 그래픽 사용자 인터페이스를 수정하도록 고안된 [컴퓨터 프로그램이다](../Page/컴퓨터_프로그램.md "wikilink"). 3.19 버전부터 테마, 탐색기 표시줄, 배경, 로그온 화면, 아이콘, 시동 화면, 투명도, 커서, 화면 보호기를 수정할 수 있다.
 
 ## 역사
 
-TGTSoft가 만든 스타일XP는 [스타독](https://ko.wikipedia.org/wiki/스타독 "wikilink")의 [윈도블라인즈](https://ko.wikipedia.org/wiki/윈도블라인즈 "wikilink")와 [오브젝트 데스크톱과](https://ko.wikipedia.org/wiki/오브젝트_데스크톱 "wikilink") 같은 스킨 프로그램의 대안이다.
+TGTSoft가 만든 스타일XP는 [스타독](../Page/스타독.md "wikilink")의 [윈도블라인즈](https://ko.wikipedia.org/wiki/윈도블라인즈 "wikilink")와 [오브젝트 데스크톱과](https://ko.wikipedia.org/wiki/오브젝트_데스크톱 "wikilink") 같은 스킨 프로그램의 대안이다.
 
 ## 동작 방식
 
-스타일XP는 uxtheme.dll이라는 [DLL](https://ko.wikipedia.org/wiki/동적_링크_라이브러리 "wikilink") 파일을 패치함으로써 동작한다. Uxtheme.dll은 기본적으로 사용자가 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")에 의해 [디지털 서명을](https://ko.wikipedia.org/wiki/디지털_서명 "wikilink") 받지 않는 테마를 설치하지 못하도록 막는다. 이러한 DLL을 패치함으로써 스타일XP는 서명을 받지 않은 테마를 설치할 수 있다. 초기 버전의 프로그램들은 디스크에 있는 uxtheme.dll 파일을 패치하였지만 새로운 버전에서는 [메모리에서](https://ko.wikipedia.org/wiki/기억_장치 "wikilink") 이러한 작업을 수행한다.
+스타일XP는 uxtheme.dll이라는 [DLL](../Page/동적_링크_라이브러리.md "wikilink") 파일을 패치함으로써 동작한다. Uxtheme.dll은 기본적으로 사용자가 [마이크로소프트](../Page/마이크로소프트.md "wikilink")에 의해 [디지털 서명을](../Page/디지털_서명.md "wikilink") 받지 않는 테마를 설치하지 못하도록 막는다. 이러한 DLL을 패치함으로써 스타일XP는 서명을 받지 않은 테마를 설치할 수 있다. 초기 버전의 프로그램들은 디스크에 있는 uxtheme.dll 파일을 패치하였지만 새로운 버전에서는 [메모리에서](../Page/기억_장치.md "wikilink") 이러한 작업을 수행한다.
 
 ## 인기
 

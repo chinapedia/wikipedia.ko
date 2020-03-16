@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [CUDA](https://ko.wikipedia.org/wiki/CUDA).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:CUDA_processing_flow_\(En\).PNG "wikilink") **CUDA** ("Compute Unified Device Architecture", 쿠다)는 [그래픽 처리 장치](https://ko.wikipedia.org/wiki/그래픽_처리_장치 "wikilink")(GPU)에서 수행하는 (병렬 처리) 알고리즘을 C 프로그래밍 언어를 비롯한 산업 표준 언어를 사용하여 작성할 수 있도록 하는 [GPGPU](https://ko.wikipedia.org/wiki/GPGPU "wikilink") 기술이다. CUDA는 [엔비디아](https://ko.wikipedia.org/wiki/엔비디아 "wikilink")가 개발해오고 있으며 이 아키텍처를 사용하려면 엔비디아 GPU와 특별한 스트림 처리 드라이버가 필요하다. CUDA는 G8X GPU로 구성된 지포스 8 시리즈급 이상에서 동작한다. CUDA 플랫폼은 [컴퓨터 커널의](https://ko.wikipedia.org/wiki/컴퓨터_커널 "wikilink") 실행을 위해 GPU의 가상 [명령 집합과](https://ko.wikipedia.org/wiki/명령_집합 "wikilink") 병렬 연산 요소들을 직접 접근할 수 있는 소프트웨어 계층이다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:CUDA_processing_flow_\(En\).PNG "wikilink") **CUDA** ("Compute Unified Device Architecture", 쿠다)는 [그래픽 처리 장치](../Page/그래픽_처리_장치.md "wikilink")(GPU)에서 수행하는 (병렬 처리) 알고리즘을 C 프로그래밍 언어를 비롯한 산업 표준 언어를 사용하여 작성할 수 있도록 하는 [GPGPU](https://ko.wikipedia.org/wiki/GPGPU "wikilink") 기술이다. CUDA는 [엔비디아](../Page/엔비디아.md "wikilink")가 개발해오고 있으며 이 아키텍처를 사용하려면 엔비디아 GPU와 특별한 스트림 처리 드라이버가 필요하다. CUDA는 G8X GPU로 구성된 지포스 8 시리즈급 이상에서 동작한다. CUDA 플랫폼은 [컴퓨터 커널의](https://ko.wikipedia.org/wiki/컴퓨터_커널 "wikilink") 실행을 위해 GPU의 가상 [명령 집합과](https://ko.wikipedia.org/wiki/명령_집합 "wikilink") 병렬 연산 요소들을 직접 접근할 수 있는 소프트웨어 계층이다.\[1\]
 
-개발자는 패스스케일 오픈64 C 컴파일러로 컴파일 된 '쿠다를 위한 C' (C언어를 엔비디아가 확장한 것) 를 사용하여 GPU 상에서 실행시킬 알고리듬을 작성할 수 있다. 쿠다 구조는 일련의 계산 인터페이스를 지원하며 이에는 [OpenCL](https://ko.wikipedia.org/wiki/OpenCL "wikilink"), DirectX Compute가 포함된다. C 언어가 아닌 다른 프로그래밍언어에서의 개발을 위한 래퍼(Wrapper)도 있는데, 현재 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink"), [펄](https://ko.wikipedia.org/wiki/펄 "wikilink"), [포트란](https://ko.wikipedia.org/wiki/포트란 "wikilink"), [자바와](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") [매트랩](https://ko.wikipedia.org/wiki/매트랩 "wikilink") 등을 위한 것들이 있다. 이러한 접근성은 병렬 프로그래밍 전문가들이 GPU 리소스를 쉽게 이용할 수 있게 해주며, 이는 그래픽스 프로그래밍의 고급 기술을 요구하였던 [Direct3D](../Page/Direct3D.md "wikilink")와 [OpenGL](https://ko.wikipedia.org/wiki/OpenGL "wikilink")과 같은 이전 API 솔루션들과 대비된다. 또, CUDA는 [OpenACC](https://ko.wikipedia.org/wiki/OpenACC "wikilink")와 [OpenCL](https://ko.wikipedia.org/wiki/OpenCL "wikilink")과 같은 프로그래밍 프레임워크를 지원한다.\[2\]
+개발자는 패스스케일 오픈64 C 컴파일러로 컴파일 된 '쿠다를 위한 C' (C언어를 엔비디아가 확장한 것) 를 사용하여 GPU 상에서 실행시킬 알고리듬을 작성할 수 있다. 쿠다 구조는 일련의 계산 인터페이스를 지원하며 이에는 [OpenCL](../Page/OpenCL.md "wikilink"), DirectX Compute가 포함된다. C 언어가 아닌 다른 프로그래밍언어에서의 개발을 위한 래퍼(Wrapper)도 있는데, 현재 [파이썬](../Page/파이썬.md "wikilink"), [펄](../Page/펄.md "wikilink"), [포트란](../Page/포트란.md "wikilink"), [자바와](../Page/자바_\(프로그래밍_언어\).md "wikilink") [매트랩](https://ko.wikipedia.org/wiki/매트랩 "wikilink") 등을 위한 것들이 있다. 이러한 접근성은 병렬 프로그래밍 전문가들이 GPU 리소스를 쉽게 이용할 수 있게 해주며, 이는 그래픽스 프로그래밍의 고급 기술을 요구하였던 [Direct3D](../Page/Direct3D.md "wikilink")와 [OpenGL](../Page/OpenGL.md "wikilink")과 같은 이전 API 솔루션들과 대비된다. 또, CUDA는 [OpenACC](https://ko.wikipedia.org/wiki/OpenACC "wikilink")와 [OpenCL](../Page/OpenCL.md "wikilink")과 같은 프로그래밍 프레임워크를 지원한다.\[2\]
 
 최신 드라이버는 모두 필요한 쿠다 콤포넌트를 담고 있다. 쿠다는 모든 엔비디아 GPU (G8X 시리즈 이후) 를 지원하며 이 대상에는 [지포스](../Page/지포스.md "wikilink"), [쿼드로](../Page/엔비디아_쿼드로.md "wikilink"), [테슬라](https://ko.wikipedia.org/wiki/테슬라 "wikilink") 제품군이 포함된다. 엔비디아는 지포스 8 시리즈를 위해 개발된 프로그램들이 수정 없이 모든 미래의 엔비디아 비디오 카드에서 실행될 것이라고 선언하였다.
 
@@ -11,14 +11,14 @@
 
 컴퓨터 게임 업계에서는 그래픽 랜더링에 덧붙여, 그래픽 카드의 게임 물리 계산 (파편, 연기, 불, 유체 등 물리 효과)에 사용되며, 예로는 [피직스](https://ko.wikipedia.org/wiki/피직스 "wikilink")와 [불렛](https://ko.wikipedia.org/wiki/불렛 "wikilink")이 있다. 쿠다는 그래픽이 아닌 응용 프로그램, 즉, 계산 생물학, 암호학, 그리고 다른 분야에서 10배 또는 그 이상의 속도 혜택을 가져왔다. 이 한 예는 [BOINC](../Page/BOINC.md "wikilink") 분산 계산 클라이언트이다.
 
-쿠다는 저수준 API와 고수준 API 모두를 제공한다. 최초의 CUDA SDK는 2007년 2월 15일에 공개되었으며 [마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")를 지원했다. [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") 지원은 2.0 버전에 추가되었다.
+쿠다는 저수준 API와 고수준 API 모두를 제공한다. 최초의 CUDA SDK는 2007년 2월 15일에 공개되었으며 [마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [리눅스](../Page/리눅스.md "wikilink")를 지원했다. [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") 지원은 2.0 버전에 추가되었다.
 
 ## 이점
 
 쿠다가 그래픽 API를 사용하는 전통적인 범용 GPU에 비해 가지는 몇가지 장점은 다음과 같다.
 
   - 흩뿌린 읽기 - 코드가 메모리의 임의 위치에서 데이터를 읽을 수 있다.
-  - [공유 메모리](https://ko.wikipedia.org/wiki/공유_메모리 "wikilink") - 쿠다는 고속 공유 메모리 지역 (16 또는 48KB 크기) 을 드러내어 스레드 간에 나눌 수 있게 해 준다. 이는 사용자 관리 캐시로 사용될 수 있는데, 텍스처 룩업을 이용하는 경우 보다 더 빠른 대역폭이 가능해진다.
+  - [공유 메모리](../Page/공유_메모리.md "wikilink") - 쿠다는 고속 공유 메모리 지역 (16 또는 48KB 크기) 을 드러내어 스레드 간에 나눌 수 있게 해 준다. 이는 사용자 관리 캐시로 사용될 수 있는데, 텍스처 룩업을 이용하는 경우 보다 더 빠른 대역폭이 가능해진다.
   - 디바이스 상의 읽기, 쓰기가 호스트보다 더 빠르다.
   - 정수와 비트 단위 연산을 충분히 지원한다. 정수 텍스처 룩업이 포함된다.
 
@@ -26,7 +26,7 @@
 
   - 재귀호출, [함수 포인터가](../Page/함수_포인터.md "wikilink") 없는 C 언어의 하부 집합을 확장하여 사용한다. 그러나 한개의 처리 장치가 여러개의 쪼개진 메모리 공간에 대하여 작업하여야 하는 점이 다른 C 언어 실행 환경과 다른 점이다.
   - 텍스처 랜더링은 지원 되지 않는다.
-  - 배정도에 관해서는 IEEE 754 표준과 다르지 않다. 단정도에서는 [비정규 값과](https://ko.wikipedia.org/wiki/비정규_값 "wikilink") 신호 NaN이 지원되지 않고, IEEE [반올림](../Page/반올림.md "wikilink") 모드 가운데서는 두가지만 지원하며, 이도 명령어에 따라서 지원되는 것으로 제어 단어(Control word)에서 지원 되는 것은 아니다.(이것이 제한점인지는 논란의 대상이 될 수 있다) 그리고 나눗셈과 제곱근의 정밀도가 단정도에 비해 조금 낮다.
+  - 배정도에 관해서는 IEEE 754 표준과 다르지 않다. 단정도에서는 [비정규 값과](../Page/비정규_값.md "wikilink") 신호 NaN이 지원되지 않고, IEEE [반올림](../Page/반올림.md "wikilink") 모드 가운데서는 두가지만 지원하며, 이도 명령어에 따라서 지원되는 것으로 제어 단어(Control word)에서 지원 되는 것은 아니다.(이것이 제한점인지는 논란의 대상이 될 수 있다) 그리고 나눗셈과 제곱근의 정밀도가 단정도에 비해 조금 낮다.
   - CPU와 GPU 사이의 버스 대역폭과 시간 지연에서 병목이 발생할 수 있다.
   - 스레드가 최소한 32개씩 모여서 실행되어야 최선의 성능 향상을 얻을 수 있으며, 스레드 수의 합이 수천개가 되어야 한다. 프로그램 코드에서의 분기는, 각각의 32 스레드가 같은 실행 경로를 따른다면, 성능에 큰 지장을 주지 않는다. [SIMD](https://ko.wikipedia.org/wiki/SIMD "wikilink") 실행 모델은 어떠한 내재적으로 분기하는 임무에게는 심각한 제한이 된다. (예를 들어, 광선 추적 가속 자료 구조)
   - 쿠다 기반 GPU는 엔비디아에서만 나온다.
@@ -279,23 +279,23 @@ CUDA 수준의 지원 GPU 및 카드이다. [엔비디아 웹사이트](http://d
 </tbody>
 </table>
 
-'\*' - [OEM](https://ko.wikipedia.org/wiki/OEM "wikilink") 전용 제품
+'\*' - [OEM](../Page/OEM.md "wikilink") 전용 제품
 
 ## 언어 결합
 
-  - [커먼 리스프](https://ko.wikipedia.org/wiki/커먼_리스프 "wikilink") - [cl-cuda](https://github.com/takagi/cl-cuda)
-  - [포트란](https://ko.wikipedia.org/wiki/포트란 "wikilink") - [FORTRAN CUDA](http://www.hoopoe-cloud.com/Solutions/Fortran/Default.aspx), [PGI CUDA Fortran Compiler](http://www.pgroup.com/resources/cudafortran.htm)
+  - [커먼 리스프](../Page/커먼_리스프.md "wikilink") - [cl-cuda](https://github.com/takagi/cl-cuda)
+  - [포트란](../Page/포트란.md "wikilink") - [FORTRAN CUDA](http://www.hoopoe-cloud.com/Solutions/Fortran/Default.aspx), [PGI CUDA Fortran Compiler](http://www.pgroup.com/resources/cudafortran.htm)
   - F\# - [Alea.CUDA](https://web.archive.org/web/20141010163529/https://www.quantalea.net/products/introduction/)
-  - [하스켈](https://ko.wikipedia.org/wiki/하스켈 "wikilink") - [Data.Array.Accelerate](http://hackage.haskell.org/package/accelerate)
+  - [하스켈](../Page/하스켈.md "wikilink") - [Data.Array.Accelerate](http://hackage.haskell.org/package/accelerate)
   - [IDL](https://ko.wikipedia.org/wiki/대화형_데이터_언어 "wikilink") - [GPULib](http://www.txcorp.com/products/GPULib/)
-  - [Java](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") - [jCUDA](http://www.cass-hpc.com/solutions/legacy/jcuda), [JCuda](http://www.jcuda.org/jcuda/JCuda.html), [JCublas](http://www.jcuda.org/jcuda/jcublas/JCublas.html), [JCufft](http://www.jcuda.org/jcuda/jcufft/JCufft.html), [CUDA4J](http://www.ibm.com/support/knowledgecenter/SSYKE2_7.0.0/com.ibm.java.lnx.71.doc/user/gpu_developing_cuda4j.html)
-  - [루아](https://ko.wikipedia.org/wiki/루아_\(프로그래밍_언어\) "wikilink") - [KappaCUDA](https://web.archive.org/web/20160815110157/https://psilambda.com/download/kappa-extras/)
-  - [매스매티카](https://ko.wikipedia.org/wiki/매스매티카 "wikilink") - [CUDALink](http://reference.wolfram.com/mathematica/CUDALink/tutorial/Overview.html)
+  - [Java](../Page/자바_\(프로그래밍_언어\).md "wikilink") - [jCUDA](http://www.cass-hpc.com/solutions/legacy/jcuda), [JCuda](http://www.jcuda.org/jcuda/JCuda.html), [JCublas](http://www.jcuda.org/jcuda/jcublas/JCublas.html), [JCufft](http://www.jcuda.org/jcuda/jcufft/JCufft.html), [CUDA4J](http://www.ibm.com/support/knowledgecenter/SSYKE2_7.0.0/com.ibm.java.lnx.71.doc/user/gpu_developing_cuda4j.html)
+  - [루아](../Page/루아_\(프로그래밍_언어\).md "wikilink") - [KappaCUDA](https://web.archive.org/web/20160815110157/https://psilambda.com/download/kappa-extras/)
+  - [매스매티카](../Page/매스매티카.md "wikilink") - [CUDALink](http://reference.wolfram.com/mathematica/CUDALink/tutorial/Overview.html)
   - [MATLAB](../Page/MATLAB.md "wikilink") - 병렬 컴퓨팅 툴박스, MATLAB 분산 컴퓨팅 서버,\[3\] [재킷과](https://ko.wikipedia.org/wiki/재킷_\(소프트웨어\) "wikilink") 같은 타사 패키지.
   - [.NET](../Page/닷넷_프레임워크.md "wikilink") - [CUDA.NET](http://www.cass-hpc.com/solutions/libraries/cuda-net), [Managed CUDA](https://kunzmi.github.io/managedCuda/), [CUDAfy.NET](http://www.hybriddsp.com) .NET 커널 및 호스트 코드, CURAND, CUBLAS, CUFFT
-  - [펄](https://ko.wikipedia.org/wiki/펄 "wikilink") - [KappaCUDA](https://web.archive.org/web/20100825231711/http://psilambda.com/download/kappa-for-perl/), [CUDA::Minimal](https://github.com/run4flat/perl-CUDA-Minimal)
-  - [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") - [Numba](http://numba.pydata.org/), NumbaPro, [PyCUDA](http://mathema.tician.de/software/pycuda), [KappaCUDA](https://web.archive.org/web/20160815113344/https://psilambda.com/download/kappa-for-python/), [Theano](http://deeplearning.net/software/theano/)
-  - [루비](https://ko.wikipedia.org/wiki/루비_\(프로그래밍_언어\) "wikilink") - [KappaCUDA](https://web.archive.org/web/20160815110157/https://psilambda.com/download/kappa-extras/)
+  - [펄](../Page/펄.md "wikilink") - [KappaCUDA](https://web.archive.org/web/20100825231711/http://psilambda.com/download/kappa-for-perl/), [CUDA::Minimal](https://github.com/run4flat/perl-CUDA-Minimal)
+  - [파이썬](../Page/파이썬.md "wikilink") - [Numba](http://numba.pydata.org/), NumbaPro, [PyCUDA](http://mathema.tician.de/software/pycuda), [KappaCUDA](https://web.archive.org/web/20160815113344/https://psilambda.com/download/kappa-for-python/), [Theano](http://deeplearning.net/software/theano/)
+  - [루비](../Page/루비_\(프로그래밍_언어\).md "wikilink") - [KappaCUDA](https://web.archive.org/web/20160815110157/https://psilambda.com/download/kappa-extras/)
   - [R](../Page/R_\(프로그래밍_언어\).md "wikilink") - [gputools](https://web.archive.org/web/20140210082556/http://brainarray.mbni.med.umich.edu/brainarray/rgpgpu/)
 
 ## 예제
@@ -377,9 +377,9 @@ print C.np_mat()
 
 ## 같이 보기
 
-  - [OpenCL](https://ko.wikipedia.org/wiki/OpenCL "wikilink")
+  - [OpenCL](../Page/OpenCL.md "wikilink")
   - [범용 GPU](https://ko.wikipedia.org/wiki/GPGPU "wikilink")
-  - [병렬 컴퓨팅](https://ko.wikipedia.org/wiki/병렬_컴퓨팅 "wikilink")
+  - [병렬 컴퓨팅](../Page/병렬_컴퓨팅.md "wikilink")
   - [스트림 프로세싱](https://ko.wikipedia.org/wiki/스트림_프로세싱 "wikilink")
   - [벌컨](../Page/벌컨_\(API\).md "wikilink")
   - [rCUDA](https://ko.wikipedia.org/wiki/rCUDA "wikilink")
@@ -394,7 +394,7 @@ print C.np_mat()
 
   -
 
-  - [CUDA 커뮤니티](https://plus.google.com/communities/114632076318201174454) - [구글+](https://ko.wikipedia.org/wiki/구글+ "wikilink")
+  - [CUDA 커뮤니티](https://plus.google.com/communities/114632076318201174454) - [구글+](../Page/구글+.md "wikilink")
 
   - [VRAM 크기 조절 도구](https://devtalk.nvidia.com/default/topic/726765/need-a-little-tool-to-adjust-the-vram-size/)
 

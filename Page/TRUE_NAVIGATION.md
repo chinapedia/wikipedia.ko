@@ -13,7 +13,7 @@
 
 ## 수록곡
 
-작사：[나가노 시이나](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink")，작곡：[타카야마 미나미](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink")，편곡：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
+작사：[나가노 시이나](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink")，작곡：[타카야마 미나미](../Page/타카야마_미나미.md "wikilink")，편곡：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
 
 1.  TRUE NAVIGATION
 2.  WAKE

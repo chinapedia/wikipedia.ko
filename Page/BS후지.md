@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [BS](https://ko.wikipedia.org/wiki/BS).
 
 
-**BS후지**는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 민영방송국 [후지 TV의](https://ko.wikipedia.org/wiki/후지_TV "wikilink") BS위탁방송 사업자이다.
+**BS후지**는 [일본](../Page/일본.md "wikilink")의 민영방송국 [후지 TV의](../Page/후지_TV.md "wikilink") BS위탁방송 사업자이다.
 
 ## 연혁
 
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") - 주식회사 BS후지 설립.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") - 오전 11시에 본방송 개시.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [1월](https://ko.wikipedia.org/wiki/1월 "wikilink") - 민방계열 BS디지털 방송국으로서는 첫 번째로 단월 흑자 달성.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") - 2006년도 결산에서 민방계열 BS디지털 방송국으로서는 [BS JAPAN과](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink") 함께 첫 번째로 연간 결산 흑자를 달성한다.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") - 풀 스펙(1920 X 1080)에 의한 하이비전 방송을 개시.
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [1월 29일](https://ko.wikipedia.org/wiki/1월_29일 "wikilink") - 방송 해상도가 1440×1080으로 하락.
+  - [1998년](../Page/1998년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") - 주식회사 BS후지 설립.
+  - [2000년](../Page/2000년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") - 오전 11시에 본방송 개시.
+  - [2006년](../Page/2006년.md "wikilink") [1월](../Page/1월.md "wikilink") - 민방계열 BS디지털 방송국으로서는 첫 번째로 단월 흑자 달성.
+  - [2007년](../Page/2007년.md "wikilink") [3월](../Page/3월.md "wikilink") - 2006년도 결산에서 민방계열 BS디지털 방송국으로서는 [BS JAPAN과](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink") 함께 첫 번째로 연간 결산 흑자를 달성한다.
+  - [2007년](../Page/2007년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") - 풀 스펙(1920 X 1080)에 의한 하이비전 방송을 개시.
+  - [2018년](../Page/2018년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink") - 방송 해상도가 1440×1080으로 하락.
 
 ## 채널 내역
 
@@ -20,8 +20,8 @@
 
 ### 라디오 방송
 
-  - BS488, 489 ch(다만 프로그램은 자사 제작 프로그램이 아니다)를 할당받았고 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 개국과 동시에 방송을 시작했다.
-      - BS 488ch는 [닛폰방송](https://ko.wikipedia.org/wiki/닛폰방송 "wikilink")제작 「LFX488」로서 인터넷 방송도 하는 심야 생방송 와이드 프로나 1시간 전체를 청취자에 의한 선곡으로 꾸미는 프로그램 등을, BS489ch는 [분카 방송제작](../Page/분카_방송.md "wikilink") 「BSQR489」로서 특히 밤은 애니메이션과 게임 관련 프로그램을 중심으로 편성해 왔지만 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") 종료했다.
+  - BS488, 489 ch(다만 프로그램은 자사 제작 프로그램이 아니다)를 할당받았고 [2000년](../Page/2000년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국과 동시에 방송을 시작했다.
+      - BS 488ch는 [닛폰방송](https://ko.wikipedia.org/wiki/닛폰방송 "wikilink")제작 「LFX488」로서 인터넷 방송도 하는 심야 생방송 와이드 프로나 1시간 전체를 청취자에 의한 선곡으로 꾸미는 프로그램 등을, BS489ch는 [분카 방송제작](../Page/분카_방송.md "wikilink") 「BSQR489」로서 특히 밤은 애니메이션과 게임 관련 프로그램을 중심으로 편성해 왔지만 [2006년](../Page/2006년.md "wikilink") [3월](../Page/3월.md "wikilink") 종료했다.
 
 ### 독립 데이터 방송
 

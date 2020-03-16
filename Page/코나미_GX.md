@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ GX](https://ko.wikipedia.org/wiki/_GX).
 
 
-**코나미 GX**는 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")가 1994년 개발한 아케이드 게임 기판이다.
+**코나미 GX**는 [코나미](../Page/코나미.md "wikilink")가 1994년 개발한 아케이드 게임 기판이다.
 
 ## 사양
 
 코나미 GX는 Ver. 1과 Ver. 2의 2가지 버전이 있는데 두 보드는 기능은 동일하다.
 
-  - 메인 [CPU](https://ko.wikipedia.org/wiki/중앙_처리_장치 "wikilink") : [모토로라](https://ko.wikipedia.org/wiki/모토로라 "wikilink") 68EC020 24MHz
+  - 메인 [CPU](../Page/중앙_처리_장치.md "wikilink") : [모토로라](../Page/모토로라.md "wikilink") 68EC020 24MHz
   - 사운드 CPU : 모토로라 68000 16MHz
   - Ver. 1 마더보드
       - 그래픽 칩 : 54156, 56832, 55555, 53246, 055673, 54338

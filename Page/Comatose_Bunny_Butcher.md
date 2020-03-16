@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Comatose Bunny Butcher](https://ko.wikipedia.org/wiki/Comatose_Bunny_Butcher).
 
 
-**Comatose Bunny Butcher**는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [9월 12일에](https://ko.wikipedia.org/wiki/9월_12일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 3번째 미니앨범이다. 가사는 전부 영어로 되어있다. [타워 레코드에서](https://ko.wikipedia.org/wiki/타워_레코드 "wikilink") 독점판매 되었다.
+**Comatose Bunny Butcher**는 [2003년](../Page/2003년.md "wikilink") [9월 12일에](../Page/9월_12일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 3번째 미니앨범이다. 가사는 전부 영어로 되어있다. [타워 레코드에서](https://ko.wikipedia.org/wiki/타워_레코드 "wikilink") 독점판매 되었다.
 
 ## 트랙리스트
 

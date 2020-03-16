@@ -20,7 +20,7 @@ TBS계《**슈퍼 축구**》의 테마곡이며, [오리콘 차트](https://ko.
         작사：[나가노 시이나](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink")，작곡：나가노 시이나，편곡：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
 2.  JUSTICE -another possibility-
       -
-        작사：나가노 시이나，작곡：[타카야마 미나미](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink")，편곡：TWO-MIX
+        작사：나가노 시이나，작곡：[타카야마 미나미](../Page/타카야마_미나미.md "wikilink")，편곡：TWO-MIX
 3.  BODY MAKES STREAM (Instrumental)
 
 ## 수록 작품
@@ -54,6 +54,6 @@ TBS계《**슈퍼 축구**》의 테마곡이며, [오리콘 차트](https://ko.
 
   - [TWO-MIX](../Page/TWO-MIX.md "wikilink")
   - [나가노 시이나](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink")
-  - [타카야마 미나미](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink")
+  - [타카야마 미나미](../Page/타카야마_미나미.md "wikilink")
 
 [분류:팝 노래](https://ko.wikipedia.org/wiki/분류:팝_노래 "wikilink") [분류:TWO-MIX의 노래](https://ko.wikipedia.org/wiki/분류:TWO-MIX의_노래 "wikilink") [분류:일본의 노래](https://ko.wikipedia.org/wiki/분류:일본의_노래 "wikilink") [분류:일본어 노래](https://ko.wikipedia.org/wiki/분류:일본어_노래 "wikilink") [분류:1999년 싱글](https://ko.wikipedia.org/wiki/분류:1999년_싱글 "wikilink")

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [First kaleidscope \~\~](https://ko.wikipedia.org/wiki/First_kaleidscope_\~\~).
 
 
-**first kaleidscope \~너의 집에 도착할 때까지 계속 달려가\~**()는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 첫 번째 인디즈 미니 앨범이다. [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 4일](https://ko.wikipedia.org/wiki/12월_4일 "wikilink") [TENT HOUSE에서](https://ko.wikipedia.org/wiki/TENT_HOUSE "wikilink") 발매되었다.
+**first kaleidscope \~너의 집에 도착할 때까지 계속 달려가\~**()는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 첫 번째 인디즈 미니 앨범이다. [1999년](../Page/1999년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") [TENT HOUSE에서](https://ko.wikipedia.org/wiki/TENT_HOUSE "wikilink") 발매되었다.
 
-전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](https://ko.wikipedia.org/wiki/아즈키_나나 "wikilink"), 편곡은 [후루이 히로히토가](https://ko.wikipedia.org/wiki/후루이_히로히토 "wikilink") 맡았다.
+전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](../Page/아즈키_나나.md "wikilink"), 편곡은 [후루이 히로히토가](../Page/후루이_히로히토.md "wikilink") 맡았다.
 
-전 6곡을 수록한 인디즈 미니 앨범으로, [GIZA Studio에서](https://ko.wikipedia.org/wiki/GIZA_Studio "wikilink") 설립한 새로운 인디즈 레이블인 [TENT HOUSE에서](https://ko.wikipedia.org/wiki/TENT_HOUSE "wikilink") 나온 첫 번째 작품이다. 발매에 앞서 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink"), [HMV](https://ko.wikipedia.org/wiki/HMV "wikilink")와 [타워 레코드에서](https://ko.wikipedia.org/wiki/타워_레코드 "wikilink") 점포 한정으로 선행 발매되었다. 선행 발매반과 첫회반은 사이드 라벨이 주황, 빨강, 초록의 3색으로 되어 있지만, 통상반은 파랑색이다. 또한 첫회반과 통상반에는 곡 순서의 차이가 있지만, 곡 자체는 바뀌지 않았다.
+전 6곡을 수록한 인디즈 미니 앨범으로, [GIZA Studio에서](https://ko.wikipedia.org/wiki/GIZA_Studio "wikilink") 설립한 새로운 인디즈 레이블인 [TENT HOUSE에서](https://ko.wikipedia.org/wiki/TENT_HOUSE "wikilink") 나온 첫 번째 작품이다. 발매에 앞서 [1999년](../Page/1999년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink"), [HMV](https://ko.wikipedia.org/wiki/HMV "wikilink")와 [타워 레코드에서](https://ko.wikipedia.org/wiki/타워_레코드 "wikilink") 점포 한정으로 선행 발매되었다. 선행 발매반과 첫회반은 사이드 라벨이 주황, 빨강, 초록의 3색으로 되어 있지만, 통상반은 파랑색이다. 또한 첫회반과 통상반에는 곡 순서의 차이가 있지만, 곡 자체는 바뀌지 않았다.
 
 ## 수록곡
 

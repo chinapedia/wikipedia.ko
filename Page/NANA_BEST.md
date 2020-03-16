@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NANA BEST](https://ko.wikipedia.org/wiki/NANA_BEST).
 
 
-**NANA BEST**는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 21일에](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 발매된 [앨범이다](../Page/음반.md "wikilink"). [OLIVIA inspi' REIRA(TRAPNEST)와](https://ko.wikipedia.org/wiki/OLIVIA_inspi'_REIRA\(TRAPNEST\) "wikilink") [ANNA TSUCHIYA inspi' NANA(BLACK STONES)의](https://ko.wikipedia.org/wiki/츠지야_안나 "wikilink") 곡들로 이루어져 있다.
+**NANA BEST**는 [2007년](../Page/2007년.md "wikilink") [3월 21일에](../Page/3월_21일.md "wikilink") 발매된 [앨범이다](../Page/음반.md "wikilink"). [OLIVIA inspi' REIRA(TRAPNEST)와](https://ko.wikipedia.org/wiki/OLIVIA_inspi'_REIRA\(TRAPNEST\) "wikilink") [ANNA TSUCHIYA inspi' NANA(BLACK STONES)의](https://ko.wikipedia.org/wiki/츠지야_안나 "wikilink") 곡들로 이루어져 있다.
 
 ## 트랙 리스트
 

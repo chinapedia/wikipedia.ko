@@ -3,7 +3,7 @@
 
 ***Meteora***는 린킨 파크의 두 번째 정규 음반이다. 2003년 3월 25일에 발매되었다. 싱글로는 "[Somewhere I Belong](https://ko.wikipedia.org/wiki/Somewhere_I_Belong "wikilink")", "[Numb](https://ko.wikipedia.org/wiki/Numb "wikilink")" 등이 발매되었으며 《Meteora》는 또한 린킨 파크 정규 음반 중 가장 분량이 짧다.
 
-*Meteora*에 수록된 음악들은 이전 앨범 《[Hybrid Theory](../Page/Hybrid_Theory.md "wikilink")》보다 큰 변화를 볼 수 있는데, [랩코어](https://ko.wikipedia.org/wiki/랩코어 "wikilink") ("Lying From You", "Hit the Floor", "Figure.09"), [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") ("Nobody's Listening") 그리고 [일렉트로니카](https://ko.wikipedia.org/wiki/전자_음악 "wikilink") ("Breaking the Habit") 등 큰 영향 받은 것이 주로 이룬다. 또한 음반에 수록된 경음악 "Session"은 2003년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")에서 후보에 오르기도 했으며 음반에서 발매한 싱글들이 대부분 차트 1위에 올랐다.
+*Meteora*에 수록된 음악들은 이전 앨범 《[Hybrid Theory](../Page/Hybrid_Theory.md "wikilink")》보다 큰 변화를 볼 수 있는데, [랩코어](../Page/랩코어.md "wikilink") ("Lying From You", "Hit the Floor", "Figure.09"), [힙합](../Page/힙합.md "wikilink") ("Nobody's Listening") 그리고 [일렉트로니카](../Page/전자_음악.md "wikilink") ("Breaking the Habit") 등 큰 영향 받은 것이 주로 이룬다. 또한 음반에 수록된 경음악 "Session"은 2003년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")에서 후보에 오르기도 했으며 음반에서 발매한 싱글들이 대부분 차트 1위에 올랐다.
 
 *Meteora*는 미국 내에서 1,000만장의 판매고를 기록하였다.
 
@@ -11,7 +11,7 @@
 
 #### 아이튠즈 보너스 트랙
 
-1.  "Lying from You" (2003년 [LPU](https://ko.wikipedia.org/wiki/린킨_파크_언더그라운드 "wikilink") 투어 라이브) - 3:04
+1.  "Lying from You" (2003년 [LPU](../Page/린킨_파크_언더그라운드.md "wikilink") 투어 라이브) - 3:04
 2.  "From the Inside" (2003년 LPU 투어 라이브) - 2:55
 3.  "Easier to Run" (2003년 LPU 투어 라이브) - 3:22
 

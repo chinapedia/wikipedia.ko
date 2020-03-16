@@ -5,7 +5,7 @@
 
 ## 역사
 
-1969년 1월 24일 창업주인 김준기 회장이 자본금 2400만원으로 직원 2명과 함께 미륭건설 (현 [동부건설](../Page/동부건설.md "wikilink"))을 설립하였다. 미륭(美隆)은 ‘아름답게 솟아오른다’는 뜻이다. 미륭건설은 1973년-1980년 사우디아라비아 건설시장에 진출해 20억 달러의 공사를 수주하면서 그룹의 성장기반을 마련했으며 이 외화를 재원으로 제조, 서비스, 금융의 3대 분야에서 사업다각화를 성공적으로 이룩하였으나 2000년대 들어 유동성 위기로 그룹 전체의 구조조정을 단행하였다. 2017년 9월 21일 여비서 상습 성추행 논란으로 김준기 회장이 퇴진하였고, 후임으로 [이근영](../Page/이근영.md "wikilink") [동부화재](https://ko.wikipedia.org/wiki/DB손해보험 "wikilink") 고문이 선임되었다.\[1\]
+1969년 1월 24일 창업주인 김준기 회장이 자본금 2400만원으로 직원 2명과 함께 미륭건설 (현 [동부건설](../Page/동부건설.md "wikilink"))을 설립하였다. 미륭(美隆)은 ‘아름답게 솟아오른다’는 뜻이다. 미륭건설은 1973년-1980년 사우디아라비아 건설시장에 진출해 20억 달러의 공사를 수주하면서 그룹의 성장기반을 마련했으며 이 외화를 재원으로 제조, 서비스, 금융의 3대 분야에서 사업다각화를 성공적으로 이룩하였으나 2000년대 들어 유동성 위기로 그룹 전체의 구조조정을 단행하였다. 2017년 9월 21일 여비서 상습 성추행 논란으로 김준기 회장이 퇴진하였고, 후임으로 [이근영](../Page/이근영.md "wikilink") [동부화재](../Page/DB손해보험.md "wikilink") 고문이 선임되었다.\[1\]
 
 2016년 [동부건설](../Page/동부건설.md "wikilink")을 사모펀드인 [키스톤프라이빗에쿼티](https://ko.wikipedia.org/wiki/키스톤프라이빗에쿼티 "wikilink")에 매각했다. ‘동부’라는 이름에 대한 권리가 동부건설에 있기 때문에 그룹과 계열사 이름을 바꿔야 했고, 2017년 11월 1일 동부그룹에서 DB그룹으로 사명을 변경하였다.\[2\]
 
@@ -15,10 +15,10 @@
 
 <!-- end list -->
 
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 미륭건설 창업 <small>(현 [동부건설](../Page/동부건설.md "wikilink"))</small>
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") 동부고속 설립 <small>(현 [동원로엑스](../Page/동원로엑스.md "wikilink"))</small>
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 동부관광 설립
-  - [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 동부상호신용금고 설립 <small>(현 DB저축은행)</small>
+  - [1969년](../Page/1969년.md "wikilink") 미륭건설 창업 <small>(현 [동부건설](../Page/동부건설.md "wikilink"))</small>
+  - [1971년](../Page/1971년.md "wikilink") 동부고속 설립 <small>(현 [동원로엑스](../Page/동원로엑스.md "wikilink"))</small>
+  - [1972년](../Page/1972년.md "wikilink") 동부관광 설립
+  - [1972년](../Page/1972년.md "wikilink") 동부상호신용금고 설립 <small>(현 DB저축은행)</small>
 
 <!-- end list -->
 
@@ -26,10 +26,10 @@
 
 <!-- end list -->
 
-  - [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") 사우디아라비아 지사 설치
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") 삼척산업 인수 <small>(현 [동부건설](../Page/동부건설.md "wikilink"))</small>
-  - [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink") 한미면업,대영실업,부산운수 등을 인수함으로써 화물운송,하역,창고업 진출
-  - [1979년](https://ko.wikipedia.org/wiki/1979년 "wikilink") 동부고속과 합병 <small>(한미면업,대영실업,부산운수)</small>
+  - [1973년](../Page/1973년.md "wikilink") 사우디아라비아 지사 설치
+  - [1976년](../Page/1976년.md "wikilink") 삼척산업 인수 <small>(현 [동부건설](../Page/동부건설.md "wikilink"))</small>
+  - [1978년](../Page/1978년.md "wikilink") 한미면업,대영실업,부산운수 등을 인수함으로써 화물운송,하역,창고업 진출
+  - [1979년](../Page/1979년.md "wikilink") 동부고속과 합병 <small>(한미면업,대영실업,부산운수)</small>
 
 <!-- end list -->
 
@@ -37,19 +37,19 @@
 
 <!-- end list -->
 
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") 국민투자금융 설립 <small>(현 [DB금융투자](../Page/DB금융투자.md "wikilink"))</small>
-  - [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") 한국자동차보험 경영권 인수 <small>(현 [DB손해보험](https://ko.wikipedia.org/wiki/DB손해보험 "wikilink"))</small>
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 동진제강 인수 <small>(현 [KG동부제철](../Page/KG동부제철.md "wikilink"))</small>
-  - [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 한국자보서비스 설립 <small>(현 DB자동차보험손해사정)</small>
-  - [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") 울산석유화학 인수
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 영남화학 인수
-  - [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") 동부문화재단 설립
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 동부애트나생명보험 설립 <small>(현 [DB생명보험](https://ko.wikipedia.org/wiki/DB생명보험 "wikilink"))</small>
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 동부창업투자 설립
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 동부엔지니어링 설립
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 동부산업 전문무역상사로 출범 무역
-  - [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 동부화학 출범(울산석유화학과 영남화학 합병)
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 동부투자금융이 업종전환하면서 동부증권 출범
+  - [1982년](../Page/1982년.md "wikilink") 국민투자금융 설립 <small>(현 [DB금융투자](../Page/DB금융투자.md "wikilink"))</small>
+  - [1983년](../Page/1983년.md "wikilink") 한국자동차보험 경영권 인수 <small>(현 [DB손해보험](../Page/DB손해보험.md "wikilink"))</small>
+  - [1984년](../Page/1984년.md "wikilink") 동진제강 인수 <small>(현 [KG동부제철](../Page/KG동부제철.md "wikilink"))</small>
+  - [1984년](../Page/1984년.md "wikilink") 한국자보서비스 설립 <small>(현 DB자동차보험손해사정)</small>
+  - [1986년](../Page/1986년.md "wikilink") 울산석유화학 인수
+  - [1988년](../Page/1988년.md "wikilink") 영남화학 인수
+  - [1988년](../Page/1988년.md "wikilink") 동부문화재단 설립
+  - [1989년](../Page/1989년.md "wikilink") 동부애트나생명보험 설립 <small>(현 [DB생명보험](../Page/DB생명보험.md "wikilink"))</small>
+  - [1989년](../Page/1989년.md "wikilink") 동부창업투자 설립
+  - [1989년](../Page/1989년.md "wikilink") 동부엔지니어링 설립
+  - [1989년](../Page/1989년.md "wikilink") 동부산업 전문무역상사로 출범 무역
+  - [1990년](../Page/1990년.md "wikilink") 동부화학 출범(울산석유화학과 영남화학 합병)
+  - [1991년](../Page/1991년.md "wikilink") 동부투자금융이 업종전환하면서 동부증권 출범
 
 <!-- end list -->
 
@@ -57,17 +57,17 @@
 
 <!-- end list -->
 
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 그룹 종합연수원 개원
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") 삼척산업 정보통신본부 신설
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 한농 인수
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 동부기술원 개원
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 동부주택할부금융 설립 <small>(현 DB캐피탈)</small>
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 동부정보시스템 설립 <small>(현 DB Inc.)</small>
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 동부건설과 삼척산업 합병
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 동부한농 설립(동부화학과 한농 합병)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 동부정보기술 분사(동부산업 내 정보통신본부)
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 동부투자신탁운용 설립 <small>(현 DB자산운용)</small>
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") 동부전자 설립
+  - [1992년](../Page/1992년.md "wikilink") 그룹 종합연수원 개원
+  - [1992년](../Page/1992년.md "wikilink") 삼척산업 정보통신본부 신설
+  - [1995년](../Page/1995년.md "wikilink") 한농 인수
+  - [1995년](../Page/1995년.md "wikilink") 동부기술원 개원
+  - [1995년](../Page/1995년.md "wikilink") 동부주택할부금융 설립 <small>(현 DB캐피탈)</small>
+  - [1996년](../Page/1996년.md "wikilink") 동부정보시스템 설립 <small>(현 DB Inc.)</small>
+  - [1997년](../Page/1997년.md "wikilink") 동부건설과 삼척산업 합병
+  - [1997년](../Page/1997년.md "wikilink") 동부한농 설립(동부화학과 한농 합병)
+  - [1997년](../Page/1997년.md "wikilink") 동부정보기술 분사(동부산업 내 정보통신본부)
+  - [1997년](../Page/1997년.md "wikilink") 동부투자신탁운용 설립 <small>(현 DB자산운용)</small>
+  - [1997년](../Page/1997년.md "wikilink") 동부전자 설립
 
 <!-- end list -->
 
@@ -75,21 +75,21 @@
 
 <!-- end list -->
 
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 동부한농과 종묘 합병
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 동부건설과 동부고속 합병
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 동부부산컨테이너터미널 설립
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 기본 경영방침, '전원참여,고효율,자율경영' 선포
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 동부FIS (현 DB FIS) 설립
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") (주)동부 (현 DB Inc.) 설립
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 동부전자 비메모리반도체 생산 개시
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 동부금융센터 준공
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 아남반도체 인수 <small>(현 DB하이텍)</small>
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") 동부월드 설립 <small>(현 DB월드)</small>
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 동부DIS, 동부정보기술, 동부FIS가 합병하여 동부정보기술 출범
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 동부전자, 동부아남반도체가 합병하여 동부일렉트로닉스 출범
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 6시그마 경영혁신 추진 선언
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 사업분야별 전문경영체제 출범 (제조,서비스,금융)
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") TG삼보컴퓨터로부터 원주 TG삼보 엑써스 프로농구단을 인수하여 원주 동부 프로미 프로농구단을 창단 <small>(현 원주 DB 프로미)</small>
+  - [2000년](../Page/2000년.md "wikilink") 동부한농과 종묘 합병
+  - [2000년](../Page/2000년.md "wikilink") 동부건설과 동부고속 합병
+  - [2000년](../Page/2000년.md "wikilink") 동부부산컨테이너터미널 설립
+  - [2001년](../Page/2001년.md "wikilink") 기본 경영방침, '전원참여,고효율,자율경영' 선포
+  - [2001년](../Page/2001년.md "wikilink") 동부FIS (현 DB FIS) 설립
+  - [2001년](../Page/2001년.md "wikilink") (주)동부 (현 DB Inc.) 설립
+  - [2001년](../Page/2001년.md "wikilink") 동부전자 비메모리반도체 생산 개시
+  - [2001년](../Page/2001년.md "wikilink") 동부금융센터 준공
+  - [2001년](../Page/2001년.md "wikilink") 아남반도체 인수 <small>(현 DB하이텍)</small>
+  - [2001년](../Page/2001년.md "wikilink") 동부월드 설립 <small>(현 DB월드)</small>
+  - [2003년](../Page/2003년.md "wikilink") 동부DIS, 동부정보기술, 동부FIS가 합병하여 동부정보기술 출범
+  - [2004년](../Page/2004년.md "wikilink") 동부전자, 동부아남반도체가 합병하여 동부일렉트로닉스 출범
+  - [2004년](../Page/2004년.md "wikilink") 6시그마 경영혁신 추진 선언
+  - [2005년](../Page/2005년.md "wikilink") 사업분야별 전문경영체제 출범 (제조,서비스,금융)
+  - [2005년](../Page/2005년.md "wikilink") TG삼보컴퓨터로부터 원주 TG삼보 엑써스 프로농구단을 인수하여 원주 동부 프로미 프로농구단을 창단 <small>(현 원주 DB 프로미)</small>
 
 <!-- end list -->
 
@@ -97,23 +97,23 @@
 
 <!-- end list -->
 
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 동부의 사명과 5대 혁신방향 선포
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 동부일렉트로닉스와 동부한농이 합병하여 동부하이텍(현 DB하이텍) 출범
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 동부CNI 출범(동부정보기술과 동부 컨설팅부문통합)
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 동부제강 제철사업 진출
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 동부익스프레스 택배사업 진출 <small>(현 KG로지스)</small>
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 동부메탈 (현 DB메탈) 설립
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 레인보우힐스C.C 개장
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 동부제강, 동부제철로 사명변경
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 동부경영시스템 정립
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 동부인천다목적터미널 개장
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 동부제철 전기로제철공장 준공
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 7대사업분야 확립, 동부경영시스템 체계화
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 동부한농 설립 <small>(현 팜한농)</small>
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 다사로봇 인수 <small>(현 DST로봇)</small>
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 동부팜 설립
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 동부CNI와 동부정밀화학 합병
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 동화청과 인수
+  - [2007년](../Page/2007년.md "wikilink") 동부의 사명과 5대 혁신방향 선포
+  - [2007년](../Page/2007년.md "wikilink") 동부일렉트로닉스와 동부한농이 합병하여 동부하이텍(현 DB하이텍) 출범
+  - [2007년](../Page/2007년.md "wikilink") 동부CNI 출범(동부정보기술과 동부 컨설팅부문통합)
+  - [2007년](../Page/2007년.md "wikilink") 동부제강 제철사업 진출
+  - [2007년](../Page/2007년.md "wikilink") 동부익스프레스 택배사업 진출 <small>(현 KG로지스)</small>
+  - [2008년](../Page/2008년.md "wikilink") 동부메탈 (현 DB메탈) 설립
+  - [2008년](../Page/2008년.md "wikilink") 레인보우힐스C.C 개장
+  - [2008년](../Page/2008년.md "wikilink") 동부제강, 동부제철로 사명변경
+  - [2008년](../Page/2008년.md "wikilink") 동부경영시스템 정립
+  - [2008년](../Page/2008년.md "wikilink") 동부인천다목적터미널 개장
+  - [2009년](../Page/2009년.md "wikilink") 동부제철 전기로제철공장 준공
+  - [2010년](../Page/2010년.md "wikilink") 7대사업분야 확립, 동부경영시스템 체계화
+  - [2010년](../Page/2010년.md "wikilink") 동부한농 설립 <small>(현 팜한농)</small>
+  - [2010년](../Page/2010년.md "wikilink") 다사로봇 인수 <small>(현 DST로봇)</small>
+  - [2010년](../Page/2010년.md "wikilink") 동부팜 설립
+  - [2010년](../Page/2010년.md "wikilink") 동부CNI와 동부정밀화학 합병
+  - [2010년](../Page/2010년.md "wikilink") 동화청과 인수
 
 <!-- end list -->
 
@@ -130,11 +130,11 @@
   - 2011년 동부팜바이오텍 설립
   - 2011년 세실 인수 <small>(현 팜세레스)</small>
   - 2011년 동부익스프레스 카자흐스탄 콜택시사업 진출
-  - 2011년 가야 인수 <small>(현 [웅진식품](https://ko.wikipedia.org/wiki/웅진식품 "wikilink"))</small>
+  - 2011년 가야 인수 <small>(현 [웅진식품](../Page/웅진식품.md "wikilink"))</small>
   - 2012년 동부택배 분사 <small>(현 KG로지스)</small>
   - 2012년 동부팜 브랜드 출범
   - 2012년 몬산토코리아 종자사업부 양수 <small>(현 팜흥농)</small>
-  - 2013년 대우일렉트로닉스 인수 <small>(현 [위니아대우](https://ko.wikipedia.org/wiki/위니아대우 "wikilink"))</small>
+  - 2013년 대우일렉트로닉스 인수 <small>(현 [위니아대우](../Page/위니아대우.md "wikilink"))</small>
 
 <!-- end list -->
 
@@ -167,47 +167,47 @@
 
 ## 계열사
 
-| 계열회사명                                                                            | 업종                                 | 설립일                     |
-| -------------------------------------------------------------------------------- | ---------------------------------- | ----------------------- |
-| **보험·증권·은행 부문**                                                                  |                                    |                         |
-| [DB손해보험](https://ko.wikipedia.org/wiki/DB손해보험 "wikilink")                        | 손해 및 보증보험업                         | 1968/11/01              |
-|                                                                                  | DB자동차보험손해사정                        | 손해사정업                   |
-|                                                                                  | DB CNS자동차손해사정                      | 손해사정업 및 그외 기타 금융지원 서비스업 |
-|                                                                                  | DB CAS손해사정                         | 제3보험 손해사정업              |
-|                                                                                  | DB CSI손해사정                         | 제3보험 손해사정업              |
-|                                                                                  | DB M\&S                            | 보험대리 및 중개업              |
-| DB생명보험                                                                           | 생명보험업                              | 1989/04/14              |
-| [DB금융투자](../Page/DB금융투자.md "wikilink")                                           | 증권 및 선물중개업                         | 1982/12/20              |
-| DB자산운용                                                                           | 투자기관                               | 1997/01/10              |
-| DB저축은행                                                                           | 신용조합 및 저축기관                        | 1972/11/01              |
-| DB캐피탈                                                                            | 여신금융업                              | 1995/12/08              |
-| DB금융서비스                                                                          | 보험 및 연금관련 서비스업                     | 2014/01/13              |
-| **전자·IT·반도체 부문**                                                                 |                                    |                         |
-| [DB Inc.](https://ko.wikipedia.org/wiki/DB_Inc. "wikilink")                      | 컴퓨터시스템 통합 자문, 구축 및 관리업             | 1977/03/15              |
-| [DB하이텍](../Page/DB하이텍.md "wikilink")                                             | 전자부품 제조업                           | 1953/09/28              |
-| **금속 부문**                                                                        |                                    |                         |
-| DB메탈                                                                             | 제철, 제강 및 합금철 제조업                   | 2008/02/01              |
-| **서비스 부문**                                                                       |                                    |                         |
-| DB스탁인베스트먼트                                                                       | 경영컨설팅 및 공공관계 서비스업                  | 2012/12/18              |
-| **사회공헌 부문**                                                                      |                                    |                         |
-| DB김준기문화재단                                                                        | 사회복지사업                             | 1988                    |
-| 동곡사회복지재단                                                                         | 사회복지사업                             | 1989                    |
-| **스포츠 부문**                                                                       |                                    |                         |
-| [원주 DB 프로미](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink")                  | 기타스포츠서비스업                          | 2005/10/00              |
-| ''' 이전 계열사 '''                                                                   |                                    |                         |
-| 동부팜한농                                                                            | 식물보호제,비료,상토,종자,동물약품 제조업            | 계열분리                    |
-| 동부팜가야<small>(현 [웅진식품](https://ko.wikipedia.org/wiki/웅진식품 "wikilink"))</small>    | 음료제조업                              | 지분매각\[3\]               |
-| 동부팜청과<small>(현 동화청과)</small>                                                     | 농산물 유통업                            | 지분매각\[4\]               |
-| [동부건설](../Page/동부건설.md "wikilink")                                               | 토목시설물 건설업                          | 계열분리                    |
-| 동부LED                                                                            | 발광다이오드 제조업                         | 지분매각\[5\]               |
-| [동부익스프레스](https://ko.wikipedia.org/wiki/동부익스프레스 "wikilink")                      | 육상운송 지원 서비스업                       | 지분매각\[6\]               |
-| 동부택배<small>(현 KG로지스)</small>                                                     | 소화물 전문 운송업                         | 지분매각\[7\]               |
-| [동부제철](https://ko.wikipedia.org/wiki/동부제철 "wikilink")                            | 철강재 제조업                            | 계열분리                    |
-| 동부로봇<small>(현 디에스티로봇)</small>                                                    | 로봇 제조업                             | 지분매각                    |
-| DB라이텍<small>(현 주식회사금빛)</small>                                                   | 일반용 전기 조명장치 제조업                    | 지분매각                    |
-| 동부대우전자<small>(현 [위니아대우](https://ko.wikipedia.org/wiki/위니아대우 "wikilink"))</small> | 가전제품 제조업                           | 지분매각                    |
-|                                                                                  | 동부대우전자서비스<small>(현 위니아SLS)</small> | 가전제품 수리 및 사후관리사업        |
-|                                                                                  |                                    |                         |
+| 계열회사명                                                           | 업종                                 | 설립일                     |
+| --------------------------------------------------------------- | ---------------------------------- | ----------------------- |
+| **보험·증권·은행 부문**                                                 |                                    |                         |
+| [DB손해보험](../Page/DB손해보험.md "wikilink")                          | 손해 및 보증보험업                         | 1968/11/01              |
+|                                                                 | DB자동차보험손해사정                        | 손해사정업                   |
+|                                                                 | DB CNS자동차손해사정                      | 손해사정업 및 그외 기타 금융지원 서비스업 |
+|                                                                 | DB CAS손해사정                         | 제3보험 손해사정업              |
+|                                                                 | DB CSI손해사정                         | 제3보험 손해사정업              |
+|                                                                 | DB M\&S                            | 보험대리 및 중개업              |
+| DB생명보험                                                          | 생명보험업                              | 1989/04/14              |
+| [DB금융투자](../Page/DB금융투자.md "wikilink")                          | 증권 및 선물중개업                         | 1982/12/20              |
+| DB자산운용                                                          | 투자기관                               | 1997/01/10              |
+| DB저축은행                                                          | 신용조합 및 저축기관                        | 1972/11/01              |
+| DB캐피탈                                                           | 여신금융업                              | 1995/12/08              |
+| DB금융서비스                                                         | 보험 및 연금관련 서비스업                     | 2014/01/13              |
+| **전자·IT·반도체 부문**                                                |                                    |                         |
+| [DB Inc.](../Page/DB_Inc..md "wikilink")                        | 컴퓨터시스템 통합 자문, 구축 및 관리업             | 1977/03/15              |
+| [DB하이텍](../Page/DB하이텍.md "wikilink")                            | 전자부품 제조업                           | 1953/09/28              |
+| **금속 부문**                                                       |                                    |                         |
+| DB메탈                                                            | 제철, 제강 및 합금철 제조업                   | 2008/02/01              |
+| **서비스 부문**                                                      |                                    |                         |
+| DB스탁인베스트먼트                                                      | 경영컨설팅 및 공공관계 서비스업                  | 2012/12/18              |
+| **사회공헌 부문**                                                     |                                    |                         |
+| DB김준기문화재단                                                       | 사회복지사업                             | 1988                    |
+| 동곡사회복지재단                                                        | 사회복지사업                             | 1989                    |
+| **스포츠 부문**                                                      |                                    |                         |
+| [원주 DB 프로미](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink") | 기타스포츠서비스업                          | 2005/10/00              |
+| ''' 이전 계열사 '''                                                  |                                    |                         |
+| 동부팜한농                                                           | 식물보호제,비료,상토,종자,동물약품 제조업            | 계열분리                    |
+| 동부팜가야<small>(현 [웅진식품](../Page/웅진식품.md "wikilink"))</small>      | 음료제조업                              | 지분매각\[3\]               |
+| 동부팜청과<small>(현 동화청과)</small>                                    | 농산물 유통업                            | 지분매각\[4\]               |
+| [동부건설](../Page/동부건설.md "wikilink")                              | 토목시설물 건설업                          | 계열분리                    |
+| 동부LED                                                           | 발광다이오드 제조업                         | 지분매각\[5\]               |
+| [동부익스프레스](https://ko.wikipedia.org/wiki/동부익스프레스 "wikilink")     | 육상운송 지원 서비스업                       | 지분매각\[6\]               |
+| 동부택배<small>(현 KG로지스)</small>                                    | 소화물 전문 운송업                         | 지분매각\[7\]               |
+| [동부제철](https://ko.wikipedia.org/wiki/동부제철 "wikilink")           | 철강재 제조업                            | 계열분리                    |
+| 동부로봇<small>(현 디에스티로봇)</small>                                   | 로봇 제조업                             | 지분매각                    |
+| DB라이텍<small>(현 주식회사금빛)</small>                                  | 일반용 전기 조명장치 제조업                    | 지분매각                    |
+| 동부대우전자<small>(현 [위니아대우](../Page/위니아대우.md "wikilink"))</small>   | 가전제품 제조업                           | 지분매각                    |
+|                                                                 | 동부대우전자서비스<small>(현 위니아SLS)</small> | 가전제품 수리 및 사후관리사업        |
+|                                                                 |                                    |                         |
 
 ## 각주
 

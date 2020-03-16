@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 루빈 카잔**()은 [타타르 공화국](https://ko.wikipedia.org/wiki/타타르_공화국 "wikilink") [카잔](https://ko.wikipedia.org/wiki/카잔 "wikilink")에 위치한 [카잔 아레나를](https://ko.wikipedia.org/wiki/카잔_아레나 "wikilink") 연고로 하는 [러시아](../Page/러시아.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**FC 루빈 카잔**()은 [타타르 공화국](../Page/타타르_공화국.md "wikilink") [카잔](../Page/카잔.md "wikilink")에 위치한 [카잔 아레나를](../Page/카잔_아레나.md "wikilink") 연고로 하는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
-이 축구단은 [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink")에 창단된 루빈은 2003년에 처음으로 최상위 리그에 진출했다. 그 이후로 [러시아 프리미어리그에](../Page/러시아_프리미어리그.md "wikilink") 속해 있으며 2008, 2009 시즌에서 우승을 차지하였다. 2011-12 [러시아 컵을](https://ko.wikipedia.org/wiki/러시아_컵 "wikilink") 우승했고, 최근 시즌에는 유럽 클럽 대항전에 정기적으로 출전했었다.
+이 축구단은 [1958년](../Page/1958년.md "wikilink")에 창단된 루빈은 2003년에 처음으로 최상위 리그에 진출했다. 그 이후로 [러시아 프리미어리그에](../Page/러시아_프리미어리그.md "wikilink") 속해 있으며 2008, 2009 시즌에서 우승을 차지하였다. 2011-12 [러시아 컵을](../Page/러시아_컵.md "wikilink") 우승했고, 최근 시즌에는 유럽 클럽 대항전에 정기적으로 출전했었다.
 
 ## 선수단
 
 ### 1군 명단
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 7일](https://ko.wikipedia.org/wiki/1월_7일 "wikilink") 기준
+[2016년](../Page/2016년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") 기준
 
 ## 유스 명단
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [1월 7일](https://ko.wikipedia.org/wiki/1월_7일 "wikilink") 기준
+[2016년](../Page/2016년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") 기준
 
 ## 주요 성적
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - '''[러시아 내셔널 풋볼 리그](https://ko.wikipedia.org/wiki/러시아_내셔널_풋볼_리그 "wikilink"): '''
+  - '''[러시아 내셔널 풋볼 리그](../Page/러시아_내셔널_풋볼_리그.md "wikilink"): '''
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - '''[러시아 컵](https://ko.wikipedia.org/wiki/러시아_컵 "wikilink"): '''
+  - '''[러시아 컵](../Page/러시아_컵.md "wikilink"): '''
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@
 
 <!-- end list -->
 
-  - '''[러시아 슈퍼컵](https://ko.wikipedia.org/wiki/러시아_슈퍼컵 "wikilink"): '''
+  - '''[러시아 슈퍼컵](../Page/러시아_슈퍼컵.md "wikilink"): '''
 
 <!-- end list -->
 

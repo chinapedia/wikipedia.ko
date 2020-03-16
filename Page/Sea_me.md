@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sea me](https://ko.wikipedia.org/wiki/Sea_me).
 
 
-**Sea me**는 [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월 5일에](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 7번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). 2번트랙은 TOTO의 노래인 Africa의 커버곡이다.
+**Sea me**는 [2001년](../Page/2001년.md "wikilink") [12월 5일에](../Page/12월_5일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 7번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 2번트랙은 TOTO의 노래인 Africa의 커버곡이다.
 
 이 싱글부터 레이블이 Cutting Edge로 바뀌었다.
 

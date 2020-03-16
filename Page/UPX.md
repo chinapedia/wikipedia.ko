@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [UPX](https://ko.wikipedia.org/wiki/UPX).
 
 
-**UPX**(**U**ltimate **P**acker for e**X**ecutables)는 여러 운영체제에서 수많은 파일 포맷을 지원하는 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [실행 파일 압축](../Page/실행_파일_압축.md "wikilink") 프로그램이다. [GNU 일반 공중 사용 허가서를](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서 "wikilink") 통해 공개된 [자유 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_소프트웨어 "wikilink"). 압축, 압축 해제의 기능을 모두 담당한다.
+**UPX**(**U**ltimate **P**acker for e**X**ecutables)는 여러 운영체제에서 수많은 파일 포맷을 지원하는 [오픈 소스](../Page/오픈_소스.md "wikilink") [실행 파일 압축](../Page/실행_파일_압축.md "wikilink") 프로그램이다. [GNU 일반 공중 사용 허가서를](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 통해 공개된 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink"). 압축, 압축 해제의 기능을 모두 담당한다.
 
 ## 압축
 
-UPX는 UCL이라는 이름의 [데이터 압축 알고리즘을](https://ko.wikipedia.org/wiki/데이터_압축 "wikilink") 사용하며\[1\], 이 구현은 사유 NRV(*Not Really Vanished*\[2\]) 알고리즘의 일부인 [오픈 소스로](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 되어 있다.\[3\]
+UPX는 UCL이라는 이름의 [데이터 압축 알고리즘을](../Page/데이터_압축.md "wikilink") 사용하며\[1\], 이 구현은 사유 NRV(*Not Really Vanished*\[2\]) 알고리즘의 일부인 [오픈 소스로](../Page/오픈_소스.md "wikilink") 되어 있다.\[3\]
 
-2.90 베타 이후부터 UPX는 대부분의 플랫폼을 대상으로 [LZMA](https://ko.wikipedia.org/wiki/LZMA "wikilink")를 사용할 수 있으나 16비트의 오래된 컴퓨터에서 압축 해제 속도 저하 현상이 일어나기 때문에 기본값으로는 비활성화되어 있다. (강제로 사용하려면 --lzma 사용)
+2.90 베타 이후부터 UPX는 대부분의 플랫폼을 대상으로 [LZMA](../Page/LZMA.md "wikilink")를 사용할 수 있으나 16비트의 오래된 컴퓨터에서 압축 해제 속도 저하 현상이 일어나기 때문에 기본값으로는 비활성화되어 있다. (강제로 사용하려면 --lzma 사용)
 
 ## 압축 해제
 
@@ -24,20 +24,20 @@ UPX는 압축 해제를 위해 두 개의 메커니즘을 지원한다.
   - `argv[0]`의 의미가 없어진다.
   - 여러 인스턴스로 실행 중인 실행 프로그램들은 공통된 세그먼트를 공유할 수 없다.
 
-수정되지 않은 UPX 압축이 자주 발견되며 [바이러스 검사 소프트웨어](https://ko.wikipedia.org/wiki/바이러스_검사_소프트웨어 "wikilink") 스캐너를 통해 압축이 해제된다. UPX 또한 이미 압축된 미수정 실행 파일들의 압축을 해제할 수 있는 기능이 자체 내장되어 있다.
+수정되지 않은 UPX 압축이 자주 발견되며 [바이러스 검사 소프트웨어](../Page/바이러스_검사_소프트웨어.md "wikilink") 스캐너를 통해 압축이 해제된다. UPX 또한 이미 압축된 미수정 실행 파일들의 압축을 해제할 수 있는 기능이 자체 내장되어 있다.
 
 ## 지원 포맷
 
-  - [ARM](https://ko.wikipedia.org/wiki/ARM_아키텍처 "wikilink")/[pe](../Page/PE_포맷.md "wikilink")
+  - [ARM](../Page/ARM_아키텍처.md "wikilink")/[pe](../Page/PE_포맷.md "wikilink")
   - [atari](https://ko.wikipedia.org/wiki/atari "wikilink")/tos
-  - \*[BSD](https://ko.wikipedia.org/wiki/BSD "wikilink")/[i386](https://ko.wikipedia.org/wiki/i386 "wikilink")
+  - \*[BSD](../Page/BSD.md "wikilink")/[i386](https://ko.wikipedia.org/wiki/i386 "wikilink")
   - [djgpp2](https://ko.wikipedia.org/wiki/DJGPP "wikilink")/[coff](https://ko.wikipedia.org/wiki/COFF "wikilink")
   - dos/[com](../Page/COM_파일.md "wikilink")
   - dos/[exe](../Page/EXE.md "wikilink")
   - dos/sys
-  - [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")/[i386](https://ko.wikipedia.org/wiki/i386 "wikilink") [a.out](https://ko.wikipedia.org/wiki/a.out "wikilink")
-  - [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")/[ELF](https://ko.wikipedia.org/wiki/ELF "wikilink"): [i386](https://ko.wikipedia.org/wiki/i386 "wikilink"), [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink"), [ARM](https://ko.wikipedia.org/wiki/ARM_아키텍처 "wikilink"), [파워PC](../Page/파워PC.md "wikilink")
-  - [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")/커널: [i386](https://ko.wikipedia.org/wiki/i386 "wikilink"), [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink"), [ARM](https://ko.wikipedia.org/wiki/ARM_아키텍처 "wikilink")
+  - [리눅스](../Page/리눅스.md "wikilink")/[i386](https://ko.wikipedia.org/wiki/i386 "wikilink") [a.out](https://ko.wikipedia.org/wiki/a.out "wikilink")
+  - [리눅스](../Page/리눅스.md "wikilink")/[ELF](https://ko.wikipedia.org/wiki/ELF "wikilink"): [i386](https://ko.wikipedia.org/wiki/i386 "wikilink"), [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink"), [ARM](../Page/ARM_아키텍처.md "wikilink"), [파워PC](../Page/파워PC.md "wikilink")
+  - [리눅스](../Page/리눅스.md "wikilink")/커널: [i386](https://ko.wikipedia.org/wiki/i386 "wikilink"), [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink"), [ARM](../Page/ARM_아키텍처.md "wikilink")
   - mach/ppc32, mach/i386
   - rtm32/[pe](../Page/PE_포맷.md "wikilink")
   - tmt/adam

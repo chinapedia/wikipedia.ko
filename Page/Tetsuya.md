@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tetsuya](https://ko.wikipedia.org/wiki/Tetsuya).
 
 
-**tetsuya**(테츠야, 본명: 오가와 테츠야(), [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [10월 3일](https://ko.wikipedia.org/wiki/10월_3일 "wikilink") \~ )는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")로, [L'Arc\~en\~Ciel](https://ko.wikipedia.org/wiki/L'Arc~en~Ciel "wikilink")의 리더이자 베이스를 맡고 있다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [7월 18일에](https://ko.wikipedia.org/wiki/7월_18일 "wikilink") **TETSU69**라는 이름으로 싱글 《TIGHTROPE》를 내놓으며 솔로 활동도 시작했다. 해당 곡은 극장판 《[최유기](../Page/최유기.md "wikilink")》의 엔딩 테마로도 쓰였다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 25일부터는](https://ko.wikipedia.org/wiki/12월_25일 "wikilink") 솔로 활동 시의 이름을 평소 쓰는 예명인 tetsu로 통일했다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 탤런트 [사카이 아야나와](https://ko.wikipedia.org/wiki/사카이_아야나 "wikilink") 결혼을 발표했다. 2009년 12월 아티스트명을 tetsu에서 tetsuya로 바꿈. 솔로 활동시에는 TETSUYA.
+**tetsuya**(테츠야, 본명: 오가와 테츠야(), [1969년](../Page/1969년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")로, [L'Arc\~en\~Ciel](../Page/L'Arc~en~Ciel.md "wikilink")의 리더이자 베이스를 맡고 있다. [2001년](../Page/2001년.md "wikilink") [7월 18일에](../Page/7월_18일.md "wikilink") **TETSU69**라는 이름으로 싱글 《TIGHTROPE》를 내놓으며 솔로 활동도 시작했다. 해당 곡은 극장판 《[최유기](../Page/최유기.md "wikilink")》의 엔딩 테마로도 쓰였다. [2006년](../Page/2006년.md "wikilink") [12월 25일부터는](../Page/12월_25일.md "wikilink") 솔로 활동 시의 이름을 평소 쓰는 예명인 tetsu로 통일했다. [2007년](../Page/2007년.md "wikilink") 탤런트 [사카이 아야나와](https://ko.wikipedia.org/wiki/사카이_아야나 "wikilink") 결혼을 발표했다. 2009년 12월 아티스트명을 tetsu에서 tetsuya로 바꿈. 솔로 활동시에는 TETSUYA.
 
 ## 음반 목록
 

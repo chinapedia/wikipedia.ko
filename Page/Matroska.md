@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Matroska](https://ko.wikipedia.org/wiki/Matroska).
 
 
-**마트료시카 멀티미디어 컨테이너**()는 [오픈 표준](https://ko.wikipedia.org/wiki/오픈_표준 "wikilink") [자유](https://ko.wikipedia.org/wiki/자유_파일_포맷 "wikilink") [컨테이너 포맷이다](https://ko.wikipedia.org/wiki/컨테이너_포맷_\(디지털\) "wikilink"). 또한 개수 제한 없이 비디오, 오디오, 그림, 자막 트랙을 한 파일 안에 담을 수 있는 [파일 형식이기도](https://ko.wikipedia.org/wiki/파일_형식 "wikilink") 하다.\[1\] 흔히 쓰이는 영화/드라마 등의 멀티미디어 콘텐트를 담기 위한 보편적인 포맷으로서 개발되었다. [AVI](../Page/오디오_비디오_인터리브.md "wikilink"), [MP4](https://ko.wikipedia.org/wiki/MP4 "wikilink") 혹은 [ASF](https://ko.wikipedia.org/wiki/능동_스트리밍_포맷 "wikilink") 등을 대체하기 위해 만들어졌다. 하지만 마트료시카 포맷은 완전한 [오픈 소스이다](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink"). 마트료시카 파일 확장자로서, 비디오 파일에는 **`.MKV`**를 쓰고, 오디오 파일에는 **`.MKA`**를 쓴다.
+**마트료시카 멀티미디어 컨테이너**()는 [오픈 표준](https://ko.wikipedia.org/wiki/오픈_표준 "wikilink") [자유](https://ko.wikipedia.org/wiki/자유_파일_포맷 "wikilink") [컨테이너 포맷이다](https://ko.wikipedia.org/wiki/컨테이너_포맷_\(디지털\) "wikilink"). 또한 개수 제한 없이 비디오, 오디오, 그림, 자막 트랙을 한 파일 안에 담을 수 있는 [파일 형식이기도](https://ko.wikipedia.org/wiki/파일_형식 "wikilink") 하다.\[1\] 흔히 쓰이는 영화/드라마 등의 멀티미디어 콘텐트를 담기 위한 보편적인 포맷으로서 개발되었다. [AVI](../Page/오디오_비디오_인터리브.md "wikilink"), [MP4](https://ko.wikipedia.org/wiki/MP4 "wikilink") 혹은 [ASF](https://ko.wikipedia.org/wiki/능동_스트리밍_포맷 "wikilink") 등을 대체하기 위해 만들어졌다. 하지만 마트료시카 포맷은 완전한 [오픈 소스이다](../Page/오픈_소스.md "wikilink"). 마트료시카 파일 확장자로서, 비디오 파일에는 **`.MKV`**를 쓰고, 오디오 파일에는 **`.MKA`**를 쓴다.
 
-마트료시카는 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")로는 "Matroska"라고 표기한다. 인형 속에 계속 인형이 들어 있는 러시아 민속 인형인 [마트료시카](https://ko.wikipedia.org/wiki/마트료시카 "wikilink") 인형을 뜻하는 [러시아어](https://ko.wikipedia.org/wiki/러시아어 "wikilink") 단어 матрёшка(발음은 [IPA](https://ko.wikipedia.org/wiki/위키백과:IPA "wikilink") , [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")로 Matryoshka가 된다. 철자가 약간 다르다.)에서 온 말이다. 마트료시카 팀은 마트료시카 인형 속에 인형이 계속 들어 있는 점에 착안하여 이러한 이름을 붙였다. 비디오 및 오디오 데이터를 담는 컨테이너이므로 마트료시카 인형에 비유한 것이다.
+마트료시카는 [영어](../Page/영어.md "wikilink")로는 "Matroska"라고 표기한다. 인형 속에 계속 인형이 들어 있는 러시아 민속 인형인 [마트료시카](https://ko.wikipedia.org/wiki/마트료시카 "wikilink") 인형을 뜻하는 [러시아어](../Page/러시아어.md "wikilink") 단어 матрёшка(발음은 [IPA](https://ko.wikipedia.org/wiki/위키백과:IPA "wikilink") , [영어](../Page/영어.md "wikilink")로 Matryoshka가 된다. 철자가 약간 다르다.)에서 온 말이다. 마트료시카 팀은 마트료시카 인형 속에 인형이 계속 들어 있는 점에 착안하여 이러한 이름을 붙였다. 비디오 및 오디오 데이터를 담는 컨테이너이므로 마트료시카 인형에 비유한 것이다.
 
 ## 역사
 
-마트료시카 프로젝트는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [12월 7일](https://ko.wikipedia.org/wiki/12월_7일 "wikilink") 발표되었다. 이전의 컨테이너 포맷으로부터의 [포크였다](https://ko.wikipedia.org/wiki/포크_\(소프트웨어\) "wikilink"). 다른 바이너리 포맷 대신 [확장형 이진 메타 언어](https://ko.wikipedia.org/wiki/확장형_이진_메타_언어 "wikilink")(EBML)을 쓰는 것에 대해 프로젝트의 창설자와 주 개발자 사이에 이견이 있었기 때문이었다. 마트료시카 프로젝트의 창설자는 EBML을 사용한다면 많은 이점이 있을 것이라고 생각하였다. 프로젝트의 목표가 바뀌거나 새로운 포맷이 등장한다든가 해도 파일 포맷을 쉽게 확장할 수 있다고 봤기 때문이었다.
+마트료시카 프로젝트는 [2003년](../Page/2003년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") 발표되었다. 이전의 컨테이너 포맷으로부터의 [포크였다](https://ko.wikipedia.org/wiki/포크_\(소프트웨어\) "wikilink"). 다른 바이너리 포맷 대신 [확장형 이진 메타 언어](https://ko.wikipedia.org/wiki/확장형_이진_메타_언어 "wikilink")(EBML)을 쓰는 것에 대해 프로젝트의 창설자와 주 개발자 사이에 이견이 있었기 때문이었다. 마트료시카 프로젝트의 창설자는 EBML을 사용한다면 많은 이점이 있을 것이라고 생각하였다. 프로젝트의 목표가 바뀌거나 새로운 포맷이 등장한다든가 해도 파일 포맷을 쉽게 확장할 수 있다고 봤기 때문이었다.
 
 ## 목표
 
@@ -18,7 +18,7 @@
   - 마트료시카 파일을 생성하고 편집해줄 수 있는 다양한 툴 개발;
   - 개발자들이 마트료시카 포맷 지원 기능을 애플리케이션에 쉽게 첨가할 수 있는 라이브러리 개발;
   - 하드웨어 제조사들이 임베디드 멀티미디어 기기에서의 마트료시카 포맷 지원 기능을 추가하도록 도움;
-  - 여러 [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 상에서 마트료시카의 네이티브(native) 지원.
+  - 여러 [운영 체제](../Page/운영_체제.md "wikilink") 상에서 마트료시카의 네이티브(native) 지원.
 
 ## 지원 소프트웨어
 
@@ -34,18 +34,18 @@
   - [HandBrake](https://ko.wikipedia.org/wiki/HandBrake "wikilink")
   - [젯오디오](https://ko.wikipedia.org/wiki/젯오디오 "wikilink")
   - [The KMPlayer](https://ko.wikipedia.org/wiki/The_KMPlayer "wikilink")
-  - [미디어 플레이어 클래식](https://ko.wikipedia.org/wiki/미디어_플레이어_클래식 "wikilink")
+  - [미디어 플레이어 클래식](../Page/미디어_플레이어_클래식.md "wikilink")
   - [미디어포털](https://ko.wikipedia.org/wiki/미디어포털 "wikilink")\[2\]
   - [메즈모](https://ko.wikipedia.org/wiki/메즈모 "wikilink")(Mezzmo) 미디어 플레이어
   - [엠플레이어](https://ko.wikipedia.org/wiki/엠플레이어 "wikilink")
   - [토템 (미디어 플레이어)](https://ko.wikipedia.org/wiki/토템_\(미디어_플레이어\) "wikilink")
-  - [VLC 미디어 플레이어](https://ko.wikipedia.org/wiki/VLC_미디어_플레이어 "wikilink")
+  - [VLC 미디어 플레이어](../Page/VLC_미디어_플레이어.md "wikilink")
   - [VSO 소프트웨어](https://ko.wikipedia.org/wiki/VSO_소프트웨어 "wikilink")
-  - [WinDVD](https://ko.wikipedia.org/wiki/WinDVD "wikilink")
+  - [WinDVD](../Page/WinDVD.md "wikilink")
   - [Xbox Media Center](https://ko.wikipedia.org/wiki/Xbox_Media_Center "wikilink")
   - [xine](https://ko.wikipedia.org/wiki/xine "wikilink")
   - [줌 플레이어](https://ko.wikipedia.org/wiki/줌_플레이어 "wikilink")
-  - [팟플레이어](https://ko.wikipedia.org/wiki/팟플레이어 "wikilink")
+  - [팟플레이어](../Page/팟플레이어.md "wikilink")
   - [무비스트](https://ko.wikipedia.org/wiki/무비스트_\(소프트웨어\) "wikilink")
 
 ## 하드웨어 지원
@@ -60,7 +60,7 @@
 
 ## 마트료시카 콘텐츠
 
-초창기에는 이 포맷의 사용은 저조하였다. [일본의 애니메이션계의](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") [OGM](https://ko.wikipedia.org/wiki/OGM "wikilink") 포맷과 경쟁하였다. 이 두 포맷 모두 멀티플 오디오 트랙을 지원했고 자막 내장을 지원했기 때문이었다. 하지만, 최근 들어서는 마트료시카 포맷이 더 널리 사용되고 있는데, 그 까닭은 "릴리즈 계"(release scene, 영화 등을 불법으로 배포하는 문화 집단)가 TV 쇼, [HD-DVD](../Page/HD-DVD.md "wikilink"), [블루레이](https://ko.wikipedia.org/wiki/블루레이 "wikilink") 등의 [HDTV](https://ko.wikipedia.org/wiki/HDTV "wikilink") 립(rip)으로서 마트료시카 포맷을 자주 사용하기 때문이다. 마트료시카 컨테이너 안에는 보통 [H.264/AVC](https://ko.wikipedia.org/wiki/H.264/AVC "wikilink") 비디오 및 [AC3](https://ko.wikipedia.org/wiki/AC3 "wikilink")/[AAC](../Page/고급_오디오_부호화.md "wikilink")/[DTS](https://ko.wikipedia.org/wiki/디지털_시어터_시스템 "wikilink") (다중) 오디오 트랙, (때때로) 자막 트랙 등이 들어가 있다. H.264가 널리 쓰이기 이전에는 대부분의 MKV 파일 안에는 [리얼비디오](https://ko.wikipedia.org/wiki/리얼비디오 "wikilink")(RV9, RV10)로 인코딩된 비디오 트랙이 들어 있었다. 당시에는 이 코덱들이 [MPEG-4 파트 2](https://ko.wikipedia.org/wiki/MPEG-4_파트_2 "wikilink")(다시 말해, [DivX](../Page/DivX.md "wikilink"), [Xvid](https://ko.wikipedia.org/wiki/Xvid "wikilink") 코덱)보다 성능이 조금 나았기 때문이었다. 특히 [애니메](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 콘텐츠일 때 심했다. 또한 애니메 콘텐츠에는 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")이나 [보비스](https://ko.wikipedia.org/wiki/보비스 "wikilink") 코덱으로 인코딩된 오디오 스트림과 소프트-서브타이틀이 흔히 들어갔다.
+초창기에는 이 포맷의 사용은 저조하였다. [일본의 애니메이션계의](../Page/일본의_애니메이션.md "wikilink") [OGM](https://ko.wikipedia.org/wiki/OGM "wikilink") 포맷과 경쟁하였다. 이 두 포맷 모두 멀티플 오디오 트랙을 지원했고 자막 내장을 지원했기 때문이었다. 하지만, 최근 들어서는 마트료시카 포맷이 더 널리 사용되고 있는데, 그 까닭은 "릴리즈 계"(release scene, 영화 등을 불법으로 배포하는 문화 집단)가 TV 쇼, [HD-DVD](../Page/HD-DVD.md "wikilink"), [블루레이](https://ko.wikipedia.org/wiki/블루레이 "wikilink") 등의 [HDTV](https://ko.wikipedia.org/wiki/HDTV "wikilink") 립(rip)으로서 마트료시카 포맷을 자주 사용하기 때문이다. 마트료시카 컨테이너 안에는 보통 [H.264/AVC](https://ko.wikipedia.org/wiki/H.264/AVC "wikilink") 비디오 및 [AC3](https://ko.wikipedia.org/wiki/AC3 "wikilink")/[AAC](../Page/고급_오디오_부호화.md "wikilink")/[DTS](https://ko.wikipedia.org/wiki/디지털_시어터_시스템 "wikilink") (다중) 오디오 트랙, (때때로) 자막 트랙 등이 들어가 있다. H.264가 널리 쓰이기 이전에는 대부분의 MKV 파일 안에는 [리얼비디오](https://ko.wikipedia.org/wiki/리얼비디오 "wikilink")(RV9, RV10)로 인코딩된 비디오 트랙이 들어 있었다. 당시에는 이 코덱들이 [MPEG-4 파트 2](../Page/MPEG-4_파트_2.md "wikilink")(다시 말해, [DivX](../Page/DivX.md "wikilink"), [Xvid](https://ko.wikipedia.org/wiki/Xvid "wikilink") 코덱)보다 성능이 조금 나았기 때문이었다. 특히 [애니메](../Page/일본의_애니메이션.md "wikilink") 콘텐츠일 때 심했다. 또한 애니메 콘텐츠에는 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")이나 [보비스](https://ko.wikipedia.org/wiki/보비스 "wikilink") 코덱으로 인코딩된 오디오 스트림과 소프트-서브타이틀이 흔히 들어갔다.
 
 ## 라이선스
 
@@ -68,7 +68,7 @@
 
 ## EBML
 
-확장형 이진 메타 언어(EBML)는 [XML](https://ko.wikipedia.org/wiki/XML "wikilink")을 기본으로 삼아 만든, 데이터 컨테이너 방식이다. 태그 형식([바이너리의](../Page/이진_파일.md "wikilink") 의사 형식)으로 기술된다. 해석할 수 없는 태그는 무시하게 되어 있어서, 새로운 기능을 추가하기 쉽다.
+확장형 이진 메타 언어(EBML)는 [XML](../Page/XML.md "wikilink")을 기본으로 삼아 만든, 데이터 컨테이너 방식이다. 태그 형식([바이너리의](../Page/이진_파일.md "wikilink") 의사 형식)으로 기술된다. 해석할 수 없는 태그는 무시하게 되어 있어서, 새로운 기능을 추가하기 쉽다.
 
 ## 확장자
 

@@ -36,7 +36,7 @@
 <td><p>전문가용</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림푸스_E-1" title="wikilink">E-1</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림푸스_E-3" title="wikilink">E-3</a></p></td>
+<td><p><a href="../Page/올림푸스_E-3.md" title="wikilink">E-3</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림푸스_E-5" title="wikilink">E-5</a></p></td>
 <td></td>
 <td></td>
@@ -46,7 +46,7 @@
 <tr class="odd">
 <td><p>중급자용</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림푸스_E-30" title="wikilink">E-30</a></p></td>
+<td><p><a href="../Page/올림푸스_E-30.md" title="wikilink">E-30</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -58,9 +58,9 @@
 <td><p>펜타프리즘 아마츄어</p></td>
 <td></td>
 <td><p><a href="../Page/올림푸스_E-500.md" title="wikilink">E-500</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림푸스_E-510" title="wikilink">E-510</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림푸스_E-520" title="wikilink">E-520</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림푸스_E-620" title="wikilink">E-620</a></p></td>
+<td><p><a href="../Page/올림푸스_E-510.md" title="wikilink">E-510</a></p></td>
+<td><p><a href="../Page/올림푸스_E-520.md" title="wikilink">E-520</a></p></td>
+<td><p><a href="../Page/올림푸스_E-620.md" title="wikilink">E-620</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -81,7 +81,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림푸스_E-400" title="wikilink">E-400</a></p></td>
 <td><p><a href="../Page/올림푸스_E-410.md" title="wikilink">E-410</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림푸스_E-420" title="wikilink">E-420</a></p></td>
+<td><p><a href="../Page/올림푸스_E-420.md" title="wikilink">E-420</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림푸스_E-450" title="wikilink">E-450</a></p></td>
 <td></td>
 <td></td>
@@ -102,7 +102,7 @@
   - [니콘 DSLR 카메라](../Page/틀:니콘_DSLR_카메라.md "wikilink")
   - [소니/미놀타 DSLR 카메라](../Page/틀:소니,_미놀타_DSLR_카메라.md "wikilink")
   - [펜탁스 DSLR 카메라](../Page/틀:펜탁스_DSLR_카메라.md "wikilink")
-  - [올림푸스 DSLR 카메라](https://ko.wikipedia.org/wiki/틀:올림푸스_DSLR_카메라 "wikilink")
-  - [삼성 DSLR 카메라](https://ko.wikipedia.org/wiki/틀:삼성_DSLR_카메라 "wikilink")
+  - [올림푸스 DSLR 카메라](../Page/틀:올림푸스_DSLR_카메라.md "wikilink")
+  - [삼성 DSLR 카메라](../Page/틀:삼성_DSLR_카메라.md "wikilink")
 
 [분류:카메라에 관한 틀](https://ko.wikipedia.org/wiki/분류:카메라에_관한_틀 "wikilink") </noinclude>

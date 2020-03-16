@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MC ](https://ko.wikipedia.org/wiki/MC_).
 
 
-**MC 한새**(**MC haNsAi**, , [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") 래퍼이다. 크루 겸 레이블 [BCR의](https://ko.wikipedia.org/wiki/BCR_\(레이블\) "wikilink") 리더로 잘 알려져 있으며, 자신의 앨범 외에 BCR 소속 가수들의 다수의 앨범을 프로듀싱했다.
+**MC 한새**(**MC haNsAi**, , [1976년](../Page/1976년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 래퍼이다. 크루 겸 레이블 [BCR의](../Page/BCR_\(레이블\).md "wikilink") 리더로 잘 알려져 있으며, 자신의 앨범 외에 BCR 소속 가수들의 다수의 앨범을 프로듀싱했다.
 
 ## 생애
 
@@ -9,7 +9,7 @@
 
 2000년 여름 발표한 1집이 10000장 넘게 팔리는 성공을 거두면서 두각을 나타내었고, 2001년에는 자신의 두 번째 앨범에 [BCR](https://ko.wikipedia.org/wiki/BCR "wikilink") 크루의 컴필레이션을 포함시키면서 BCR 크루 전원이 주목을 받게 된다. 2000년 여름에는 [홍대](https://ko.wikipedia.org/wiki/홍익대학교 "wikilink") 앞 클럽 정기 공연과 더불어 Hiphopmind와 **Hansaimind**라는 프로젝트 팀을 결성하기도 했다. 당시 그의 곡은 "경찰은 진정한 갱스터다" 등의 강한 곡도 꽤 있었으나, 일부에서 "발라드 힙합"이라고 불릴 정도로 서정적인 사랑 노래가 더 주를 이뤄, 세 번째 앨범 "Love Songs"는 이전까지는 힙합 앨범에서 유례가 없었던 '전곡이 사랑 노래인 앨범'이였다.
 
-4집을 계기로 오버그라운드에 진출한 MC 한새는, 그만의 스타일을 계속 고수하며 5집에서는 [홍경민](https://ko.wikipedia.org/wiki/홍경민 "wikilink")을 참여시키기도 하였으나 대중들의 반응은 크지 않았으며, 점차 매니아들에게도 그의 스타일이 세련되지 않고 누군가를 어설프게 흉내내는 느낌이라는 이유로 외면받기 시작하였다. 5집 이후에는 잠시 프로듀서로 전향하였지만, 곧 래퍼로써의 위치로 돌아와 6집을 발표하였다. 이 시기, BCR 크루는 전폭적인 멤버 교체를 겪으면서 레이블 화되었고, BCR의 리더로써 후배 가수 양성에도 힘을 기울였으나, 2011년 들어 자신의 활동이 주를 이루고 있다. 현재 그의 작업물은 7집의 전초전이라 할 수 있는 디지털 싱글 *Rap & Blues* 시리즈이며, 이는 현재 5번째까지 나와있다. 7월에는 "1세대 콘서트" 무대에 오르기도 하였다.
+4집을 계기로 오버그라운드에 진출한 MC 한새는, 그만의 스타일을 계속 고수하며 5집에서는 [홍경민](../Page/홍경민.md "wikilink")을 참여시키기도 하였으나 대중들의 반응은 크지 않았으며, 점차 매니아들에게도 그의 스타일이 세련되지 않고 누군가를 어설프게 흉내내는 느낌이라는 이유로 외면받기 시작하였다. 5집 이후에는 잠시 프로듀서로 전향하였지만, 곧 래퍼로써의 위치로 돌아와 6집을 발표하였다. 이 시기, BCR 크루는 전폭적인 멤버 교체를 겪으면서 레이블 화되었고, BCR의 리더로써 후배 가수 양성에도 힘을 기울였으나, 2011년 들어 자신의 활동이 주를 이루고 있다. 현재 그의 작업물은 7집의 전초전이라 할 수 있는 디지털 싱글 *Rap & Blues* 시리즈이며, 이는 현재 5번째까지 나와있다. 7월에는 "1세대 콘서트" 무대에 오르기도 하였다.
 
 2012년에 들어와서는 그의 활동이 잠잠해졌으나 송지, [PK헤만](https://ko.wikipedia.org/wiki/PK헤만 "wikilink") 등의 앨범에 참여하였으며, BCR은 해체되고 대신 그는 소니 뮤직 엔터테인먼트 코리아와 계약을 맺었다. 그 해 9월, 4년 만에 새로운 정규 앨범 *FACE*를 발표하였다. 일곱번째 앨범이 되는 이 앨범에서 그는 다시 인디 뮤지션으로의 복귀를 선언하였다.\[3\] 그 후 2013년 5월에 들어서는 과거 오랜 음악적 동료였던 [T.O Squad의](https://ko.wikipedia.org/wiki/T.O_스쿼드 "wikilink") 멤버들과 함께 뭉쳐 [De Crypt라는](https://ko.wikipedia.org/wiki/디크립트 "wikilink") 프로젝트 팀을 결성, 싱글을 발표하였다.\[4\] 2013년 11월에는 1년여 만에 새로운 미니 앨범을 발표하였다. 이 앨범에서는 [이명박 대통령을](https://ko.wikipedia.org/wiki/이명박_대통령 "wikilink") 겨냥한듯한 뉘앙스의 수록곡 〈쥐를 잡자〉가 수록되어 어느 정도 이슈가 되었다.\[5\]
 
@@ -39,7 +39,7 @@
 
 ### 합작
 
-  - 2009년 디지털 싱글 MC 한새 & [원준희](https://ko.wikipedia.org/wiki/원준희 "wikilink") - **사랑은 유리 같은 것**
+  - 2009년 디지털 싱글 MC 한새 & [원준희](../Page/원준희.md "wikilink") - **사랑은 유리 같은 것**
   - 2009년 디지털 싱글 MC 한새 & [박소연](https://ko.wikipedia.org/wiki/박소연_\(1982년\) "wikilink") - **7th Rap & Blues Take2**
   - 2009년 디지털 싱글 MC 한새 & 박소연 - **With U (엄마몰래 겨울여행)**
   - 2010년 디지털 싱글 MC 한새 & 한소아 - **Loview Music part.1**
@@ -48,7 +48,7 @@
 
 ## 프로듀싱 활동
 
-MC 한새는 활동 초기부터 BCR 크루 안팎의 래퍼들에게 많이 도움을 주었다. 자신의 크루 멤버인 Hiphopmind(현재 [epideMIC](https://ko.wikipedia.org/wiki/에피데믹 "wikilink")), [Hi-Plusmin](https://ko.wikipedia.org/wiki/하이피 "wikilink"), [266](https://ko.wikipedia.org/wiki/266_\(그룹\) "wikilink"), [MacJoc](https://ko.wikipedia.org/wiki/맥작 "wikilink"), [박소연의](https://ko.wikipedia.org/wiki/박소연_\(1982년\) "wikilink") 앨범을 프로듀싱 및 작곡으로 도왔으며, 크루 멤버 외에도 [유리](https://ko.wikipedia.org/wiki/유리_\(1987년\) "wikilink"), [Daggaz](../Page/대거즈.md "wikilink") 등의 곡을 작곡하였다. 2003년부터는 MC 한새의 레이블 BCR이 프로듀싱 팀의 성격을 띤 회사로 변하였으며, [오렌지](https://ko.wikipedia.org/wiki/오렌지_\(가수\) "wikilink"), [DNT](https://ko.wikipedia.org/wiki/DNT "wikilink") 등의 그룹을 프로듀싱하기도 했다.\[6\]
+MC 한새는 활동 초기부터 BCR 크루 안팎의 래퍼들에게 많이 도움을 주었다. 자신의 크루 멤버인 Hiphopmind(현재 [epideMIC](../Page/에피데믹.md "wikilink")), [Hi-Plusmin](https://ko.wikipedia.org/wiki/하이피 "wikilink"), [266](https://ko.wikipedia.org/wiki/266_\(그룹\) "wikilink"), [MacJoc](https://ko.wikipedia.org/wiki/맥작 "wikilink"), [박소연의](https://ko.wikipedia.org/wiki/박소연_\(1982년\) "wikilink") 앨범을 프로듀싱 및 작곡으로 도왔으며, 크루 멤버 외에도 [유리](https://ko.wikipedia.org/wiki/유리_\(1987년\) "wikilink"), [Daggaz](../Page/대거즈.md "wikilink") 등의 곡을 작곡하였다. 2003년부터는 MC 한새의 레이블 BCR이 프로듀싱 팀의 성격을 띤 회사로 변하였으며, [오렌지](https://ko.wikipedia.org/wiki/오렌지_\(가수\) "wikilink"), [DNT](https://ko.wikipedia.org/wiki/DNT "wikilink") 등의 그룹을 프로듀싱하기도 했다.\[6\]
 
 ## 참고
 

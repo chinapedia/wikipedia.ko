@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
 
 
-《**그라디우스 V**》(Gradius V)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")의 횡스크롤 [슈팅 게임으로](https://ko.wikipedia.org/wiki/슈팅_게임 "wikilink"), [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 22일에](https://ko.wikipedia.org/wiki/7월_22일 "wikilink") [플레이스테이션 2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 전용으로 출시되었다.
+《**그라디우스 V**》(Gradius V)는 [일본](../Page/일본.md "wikilink") [코나미](../Page/코나미.md "wikilink")의 횡스크롤 [슈팅 게임으로](https://ko.wikipedia.org/wiki/슈팅_게임 "wikilink"), [2004년](../Page/2004년.md "wikilink") [7월 22일에](../Page/7월_22일.md "wikilink") [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink") 전용으로 출시되었다.
 
 ## 스토리
 

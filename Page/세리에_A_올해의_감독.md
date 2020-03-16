@@ -17,15 +17,15 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>2013</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안토니오_콘테" title="wikilink">안토니오 콘테</a></p></td>
+<td><p><a href="../Page/안토니오_콘테.md" title="wikilink">안토니오 콘테</a></p></td>
 <td><p>이탈리아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스 FC</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스 FC</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2012</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안토니오_콘테" title="wikilink">안토니오 콘테</a></p></td>
+<td><p><a href="../Page/안토니오_콘테.md" title="wikilink">안토니오 콘테</a></p></td>
 <td><p>이탈리아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스 FC</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스 FC</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2011</strong></p></td>
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>2008</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/체사레_프란델리" title="wikilink">체사레 프란델리</a></p></td>
+<td><p><a href="../Page/체사레_프란델리.md" title="wikilink">체사레 프란델리</a></p></td>
 <td><p>이탈리아</p></td>
 <td><p><a href="../Page/ACF_피오렌티나.md" title="wikilink">ACF 피오렌티나</a></p></td>
 </tr>
@@ -65,13 +65,13 @@
 </tr>
 <tr class="odd">
 <td><p><strong>2005</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파비오_카펠로" title="wikilink">파비오 카펠로</a></p></td>
+<td><p><a href="../Page/파비오_카펠로.md" title="wikilink">파비오 카펠로</a></p></td>
 <td><p>이탈리아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스 FC</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스 FC</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2004</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카를로_안첼로티" title="wikilink">카를로 안첼로티</a></p></td>
+<td><p><a href="../Page/카를로_안첼로티.md" title="wikilink">카를로 안첼로티</a></p></td>
 <td><p>이탈리아</p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">AC 밀란</a></p></td>
 </tr>
@@ -79,7 +79,7 @@
 <td><p><strong>2003</strong></p></td>
 <td><p><a href="../Page/마르첼로_리피.md" title="wikilink">마르첼로 리피</a></p></td>
 <td><p>이탈리아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스 FC</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스 FC</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2002</strong></p></td>
@@ -89,9 +89,9 @@
 </tr>
 <tr class="odd">
 <td><p><strong>2001</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카를로_안첼로티" title="wikilink">카를로 안첼로티</a></p></td>
+<td><p><a href="../Page/카를로_안첼로티.md" title="wikilink">카를로 안첼로티</a></p></td>
 <td><p>이탈리아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스 FC</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스 FC</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2000</strong></p></td>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>1999</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알베르토_자케로니" title="wikilink">알베르토 자케로니</a></p></td>
+<td><p><a href="../Page/알베르토_자케로니.md" title="wikilink">알베르토 자케로니</a></p></td>
 <td><p>이탈리아</p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">AC 밀란</a></p></td>
 </tr>
@@ -109,13 +109,13 @@
 <td><p><strong>1998</strong></p></td>
 <td><p><a href="../Page/마르첼로_리피.md" title="wikilink">마르첼로 리피</a></p></td>
 <td><p>이탈리아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스 FC</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스 FC</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>1997</strong></p></td>
 <td><p><a href="../Page/마르첼로_리피.md" title="wikilink">마르첼로 리피</a></p></td>
 <td><p>이탈리아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유벤투스_FC" title="wikilink">유벤투스 FC</a></p></td>
+<td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스 FC</a></p></td>
 </tr>
 </tbody>
 </table>

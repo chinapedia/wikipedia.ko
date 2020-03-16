@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DOES](https://ko.wikipedia.org/wiki/DOES).
 
 
-**DOES**()는 DOES는 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 결성된 일본의 스리피스 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 첫 싱글을 발표했으며, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 [Ki/oon Records](https://ko.wikipedia.org/wiki/Ki/oon_Records "wikilink") 라벨을 달았다.
+**DOES**()는 DOES는 [2000년](../Page/2000년.md "wikilink")에 결성된 일본의 스리피스 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드이다. [2004년](../Page/2004년.md "wikilink") [일본](../Page/일본.md "wikilink")에서 첫 싱글을 발표했으며, [2006년](../Page/2006년.md "wikilink")에 [Ki/oon Records](https://ko.wikipedia.org/wiki/Ki/oon_Records "wikilink") 라벨을 달았다.
 
 ## 멤버
 

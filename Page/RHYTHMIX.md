@@ -5,9 +5,9 @@
 
 ## 개요
 
-[1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink")에 발매한 앨범으로 1년간의 인디즈 활동의 시작이 된 앨범이다.
+[1994년](../Page/1994년.md "wikilink")에 발매한 앨범으로 1년간의 인디즈 활동의 시작이 된 앨범이다.
 
-전곡 작사는 [나가노 시이나가](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink") 담당하고 전곡 작곡은 [MINAMI](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink") (단, 50/50은 작곡하지 않았음.)가 담당이지만 편곡은 공동작업으로 하고 있다.
+전곡 작사는 [나가노 시이나가](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink") 담당하고 전곡 작곡은 [MINAMI](../Page/타카야마_미나미.md "wikilink") (단, 50/50은 작곡하지 않았음.)가 담당이지만 편곡은 공동작업으로 하고 있다.
 
 미니 앨범 6곡 중에서 3곡은 타카야마 미나미의 솔로앨범에 수록되었던 곡을, 1곡은 나가이 마리코의 곡을 리메이크한 것이고, 오리지널 곡은 3곡에 불과하다. 실제로 이 앨범에는 오리지널 곡이 2곡이 공개되었지만 1곡은 라이브 공연때 공개되었다.
 
@@ -36,7 +36,7 @@
 
 ## 관련항목
 
-  - [타카야마 미나미](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink")
+  - [타카야마 미나미](../Page/타카야마_미나미.md "wikilink")
   - [나가노 시이나](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink")
 
 [분류:1994년 음반](https://ko.wikipedia.org/wiki/분류:1994년_음반 "wikilink")

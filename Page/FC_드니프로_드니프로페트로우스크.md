@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 드니프로**()는 [드니프로](https://ko.wikipedia.org/wiki/드니프로 "wikilink")를 연고로 하는 [우크라이나](https://ko.wikipedia.org/wiki/우크라이나 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink")팀이다.
+**FC 드니프로**()는 [드니프로](../Page/드니프로.md "wikilink")를 연고로 하는 [우크라이나](../Page/우크라이나.md "wikilink")의 [축구](../Page/축구.md "wikilink")팀이다.
 
 ## 현재 선수 명단
 
@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - [우크라이나 프리미어리그](https://ko.wikipedia.org/wiki/우크라이나_프리미어리그 "wikilink")
+  - [우크라이나 프리미어리그](../Page/우크라이나_프리미어리그.md "wikilink")
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 
 ### 유럽 대항전
 
-  - [UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink")
+  - [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink")
 
 <!-- end list -->
 

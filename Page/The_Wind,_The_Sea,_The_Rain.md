@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Wind, The Sea, The Rain](https://ko.wikipedia.org/wiki/The_Wind,_The_Sea,_The_Rain).
 
 
-《***The Wind, The Sea, The Rain***》은 [브라운 아이드 소울의](../Page/브라운_아이드_소울.md "wikilink") 정규 2집 앨범이다. 발매일은 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 10월 30일이다. 2007년 11월 'My Story'로 방송출연도 하지 않은 상태에서 KBS 뮤직뱅크에서 1위를 하기도 했다.
+《***The Wind, The Sea, The Rain***》은 [브라운 아이드 소울의](../Page/브라운_아이드_소울.md "wikilink") 정규 2집 앨범이다. 발매일은 [2007년](../Page/2007년.md "wikilink") 10월 30일이다. 2007년 11월 'My Story'로 방송출연도 하지 않은 상태에서 KBS 뮤직뱅크에서 1위를 하기도 했다.
 
 ## 수록곡
 

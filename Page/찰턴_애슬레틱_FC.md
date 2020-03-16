@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**찰턴 애슬레틱 축구 클럽**(Charlton Athletic Football Club)은 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 축구 클럽으로, [런던](https://ko.wikipedia.org/wiki/런던 "wikilink") 남동부에 위치한 [찰턴을](https://ko.wikipedia.org/wiki/찰턴_\(런던\) "wikilink") 연고로 한다.
+**찰턴 애슬레틱 축구 클럽**(Charlton Athletic Football Club)은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [런던](../Page/런던.md "wikilink") 남동부에 위치한 [찰턴을](https://ko.wikipedia.org/wiki/찰턴_\(런던\) "wikilink") 연고로 한다.
 
 ## 외부 링크
 

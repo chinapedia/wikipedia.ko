@@ -5,26 +5,26 @@
 
 ## 연혁
 
-  - [1961년](https://ko.wikipedia.org/wiki/1961년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") 포항방송국 개국
-  - [1966년](https://ko.wikipedia.org/wiki/1966년 "wikilink") [2월 2일](https://ko.wikipedia.org/wiki/2월_2일 "wikilink") 사옥 이전(덕수동 → 해도동)
-  - [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [6월 6일](https://ko.wikipedia.org/wiki/6월_6일 "wikilink") 울진중계소(호출부호 HLSV, AM 1305kHz) 개소
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [11월 21일](https://ko.wikipedia.org/wiki/11월_21일 "wikilink") 영일중계소(호출부호 HLCP, AM 1035kHz) 개소
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") 울릉중계소(호출부호 HLCU, AM 1323kHz) 개소
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") 포항방송국 사옥 증축
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") : KBS포항 제1라디오 FM으로 수신가능, 잡음이 전혀 없는 표준FM(스테레오가 아닌 모노)으로도 동시에 방송
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [1월 18일](https://ko.wikipedia.org/wiki/1월_18일 "wikilink") 신 사옥 기공
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") 신 사옥 준공
-  - [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [6월 22일](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") 1TV 및 1라디오 표준FM(호출부호 HLCP-SFM,FM 95.9MHz) 로컬방송 실시
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") 울진중계소(호출부호 HLSV,AM 1305kHz) 자동화
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") 독도TVR 신설
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [4월 20일](https://ko.wikipedia.org/wiki/4월_20일 "wikilink") 조항산송신소 자동화 준공
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 연주소 청사 리모델링
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 22일](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") 포항 DTV 방송(호출부호 HLSV-DTV) 개국
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") 경주지역 DTV 방송 개시
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") 조항산 DMB방송(호출부호 HLSV-TDMB) 개국
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 17일](https://ko.wikipedia.org/wiki/3월_17일 "wikilink") 울릉/독도 DMB방송(호출부호 HLCU-TDMB)개국
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 직제개편에 따라 영일송신소 포항방송국 원격제어 운용
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 경북 동해안지역 디지털TV주파수 재배치 완료
+  - [1961년](../Page/1961년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") 포항방송국 개국
+  - [1966년](../Page/1966년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") 사옥 이전(덕수동 → 해도동)
+  - [1967년](../Page/1967년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") 울진중계소(호출부호 HLSV, AM 1305kHz) 개소
+  - [1971년](../Page/1971년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink") 영일중계소(호출부호 HLCP, AM 1035kHz) 개소
+  - [1975년](../Page/1975년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") 울릉중계소(호출부호 HLCU, AM 1323kHz) 개소
+  - [1976년](../Page/1976년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") 포항방송국 사옥 증축
+  - [1982년](../Page/1982년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : KBS포항 제1라디오 FM으로 수신가능, 잡음이 전혀 없는 표준FM(스테레오가 아닌 모노)으로도 동시에 방송
+  - [1991년](../Page/1991년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") 신 사옥 기공
+  - [1993년](../Page/1993년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") 신 사옥 준공
+  - [1994년](../Page/1994년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") 1TV 및 1라디오 표준FM(호출부호 HLCP-SFM,FM 95.9MHz) 로컬방송 실시
+  - [1995년](../Page/1995년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") 울진중계소(호출부호 HLSV,AM 1305kHz) 자동화
+  - [1995년](../Page/1995년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") 독도TVR 신설
+  - [1998년](../Page/1998년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") 조항산송신소 자동화 준공
+  - [2002년](../Page/2002년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 연주소 청사 리모델링
+  - [2005년](../Page/2005년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink") 포항 DTV 방송(호출부호 HLSV-DTV) 개국
+  - [2008년](../Page/2008년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") 경주지역 DTV 방송 개시
+  - [2008년](../Page/2008년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") 조항산 DMB방송(호출부호 HLSV-TDMB) 개국
+  - [2010년](../Page/2010년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink") 울릉/독도 DMB방송(호출부호 HLCU-TDMB)개국
+  - [2011년](../Page/2011년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 직제개편에 따라 영일송신소 포항방송국 원격제어 운용
+  - [2013년](../Page/2013년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") 경북 동해안지역 디지털TV주파수 재배치 완료
 
 ## 방송 송출 시설망
 
@@ -121,10 +121,10 @@
 
 ## 아나운서
 
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") (프리랜서) 입사 : [김애진](https://ko.wikipedia.org/wiki/김애진 "wikilink")
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") (프리랜서) 입사 : 김세희
+  - [2016년](../Page/2016년.md "wikilink") (프리랜서) 입사 : [김애진](https://ko.wikipedia.org/wiki/김애진 "wikilink")
+  - [2019년](../Page/2019년.md "wikilink") (프리랜서) 입사 : 김세희
   - [2019.5](https://ko.wikipedia.org/wiki/2019.5 "wikilink") (프리랜서) 입사 : 최용수
-  - [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") (프리랜서) 입사 : 정수현
+  - [2020년](../Page/2020년.md "wikilink") (프리랜서) 입사 : 정수현
 
 ## 전직 아나운서
 
@@ -155,7 +155,7 @@
   - [류재현](https://ko.wikipedia.org/wiki/류재현 "wikilink")
   - [정현교](https://ko.wikipedia.org/wiki/정현교 "wikilink") 취재부장
   - [박준형](https://ko.wikipedia.org/wiki/박준형 "wikilink") 취재부장
-  - [김민아](https://ko.wikipedia.org/wiki/김민아 "wikilink")
+  - [김민아](../Page/김민아.md "wikilink")
   - [정혜미](https://ko.wikipedia.org/wiki/정혜미 "wikilink")
 
 ## 리포터

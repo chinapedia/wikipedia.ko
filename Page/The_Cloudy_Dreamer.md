@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Cloudy Dreamer](https://ko.wikipedia.org/wiki/The_Cloudy_Dreamer).
 
 
-**The Cloudy Dreamer**는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 17일에](https://ko.wikipedia.org/wiki/1월_17일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 5번째 미니앨범이다.
+**The Cloudy Dreamer**는 [2007년](../Page/2007년.md "wikilink") [1월 17일에](../Page/1월_17일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 5번째 미니앨범이다.
 
 DVD에는 **-Live at Shibuya O-WEST 25th July 2006-** 클립도 같이 수록되어 있다.
 
@@ -19,8 +19,8 @@ DVD에는 **-Live at Shibuya O-WEST 25th July 2006-** 클립도 같이 수록되
 ## 노래가 쓰인 곳
 
   - If you only knew:드라마 **[눈의 여왕](../Page/눈의_여왕_\(드라마\).md "wikilink")** 삽입곡
-  - Stars shining out:[일본](https://ko.wikipedia.org/wiki/일본 "wikilink") TV계 **음악 전사 MUSIC FIGHTER** 1월 POWER PLAY
-  - Dream Catcher:[일본](https://ko.wikipedia.org/wiki/일본 "wikilink") TV계 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") **지옥소녀**의 엔딩 테마
+  - Stars shining out:[일본](../Page/일본.md "wikilink") TV계 **음악 전사 MUSIC FIGHTER** 1월 POWER PLAY
+  - Dream Catcher:[일본](../Page/일본.md "wikilink") TV계 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") **지옥소녀**의 엔딩 테마
   - 출처 : <https://web.archive.org/web/20100608164555/http://tom-neko.hp.infoseek.co.jp/>
 
 ## 첫회반 특전

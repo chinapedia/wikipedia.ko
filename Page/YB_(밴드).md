@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YB \(\)](https://ko.wikipedia.org/wiki/YB_\(\)).
 
 
-**YB(윤도현밴드)**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [락밴드](https://ko.wikipedia.org/wiki/락밴드 "wikilink")이다.
+**YB(윤도현밴드)**는 [대한민국](../Page/대한민국.md "wikilink")의 [락밴드](https://ko.wikipedia.org/wiki/락밴드 "wikilink")이다.
 
 '윤도현 밴드'로 데뷔하고 활동하다가 2003년 6집 앨범부터 이니셜인 'YB'로 변경되었다.
 
@@ -9,7 +9,7 @@
 
 ### 결성 및 초창기
 
-1994년에 발매한 1집 《타잔/가을 우체국 앞에서》는 원래 윤도현의 솔로 앨범이다. 데뷔 첫 공연의 세션이었던 [유병열](https://ko.wikipedia.org/wiki/유병열 "wikilink")(기타), 김진원(드럼), 박태희(베이스)와 함께 밴드를 결성하였고, 96년 개봉한 영화 《[정글 스토리](../Page/정글_스토리.md "wikilink")》 에도 출연하게 된다. 1집 앨범에서 작·편곡과 세션으로 참여했던 [강호정](https://ko.wikipedia.org/wiki/강호정 "wikilink")(건반, 프로듀서), 엄태환(하모니카, 어쿠스틱 기타)이 합류하여 97년 2집 《윤도현2 and Band》 발표하고 밴드로서 본격적인 활동을 시작하였다. 강호정이 탈퇴하고 5인 체제가 된 밴드는 98년 3집 《소외》, 99년 4집 《한국 Rock 다시부르기》까지 매년 앨범을 발매하고 라이브 공연을 하면서 지명도를 넓혀나갔다. 이후 경제적인 문제와 여러 사정이 겹치면서 밴드를 잠시 해체하였다가 4집 수록곡 〈너를 보내고〉가 히트하면서 재결성되었다.\[1\] 이 과정에서 엄태환과 유병열이 탈퇴하고, 당시 재즈 기타리스트로 활동하던 [허준이](https://ko.wikipedia.org/wiki/허준_\(1974년\) "wikilink") 오디션을 통해 합류하여 4인 체제로 재편되었다. 그리고 첫 라이브 앨범인 《윤도현 밴드 Live》를 2000년 9월에 발매하였다.
+1994년에 발매한 1집 《타잔/가을 우체국 앞에서》는 원래 윤도현의 솔로 앨범이다. 데뷔 첫 공연의 세션이었던 [유병열](../Page/유병열.md "wikilink")(기타), 김진원(드럼), 박태희(베이스)와 함께 밴드를 결성하였고, 96년 개봉한 영화 《[정글 스토리](../Page/정글_스토리.md "wikilink")》 에도 출연하게 된다. 1집 앨범에서 작·편곡과 세션으로 참여했던 [강호정](https://ko.wikipedia.org/wiki/강호정 "wikilink")(건반, 프로듀서), 엄태환(하모니카, 어쿠스틱 기타)이 합류하여 97년 2집 《윤도현2 and Band》 발표하고 밴드로서 본격적인 활동을 시작하였다. 강호정이 탈퇴하고 5인 체제가 된 밴드는 98년 3집 《소외》, 99년 4집 《한국 Rock 다시부르기》까지 매년 앨범을 발매하고 라이브 공연을 하면서 지명도를 넓혀나갔다. 이후 경제적인 문제와 여러 사정이 겹치면서 밴드를 잠시 해체하였다가 4집 수록곡 〈너를 보내고〉가 히트하면서 재결성되었다.\[1\] 이 과정에서 엄태환과 유병열이 탈퇴하고, 당시 재즈 기타리스트로 활동하던 [허준이](https://ko.wikipedia.org/wiki/허준_\(1974년\) "wikilink") 오디션을 통해 합류하여 4인 체제로 재편되었다. 그리고 첫 라이브 앨범인 《윤도현 밴드 Live》를 2000년 9월에 발매하였다.
 
 ### 2002년 FIFA 한일월드컵
 
@@ -17,23 +17,23 @@
 
 ### 2003년 이후
 
-2003년에는 6개월 동안 전국 32개의 도시를 도는 순회 공연을 하였고, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 22일부터](https://ko.wikipedia.org/wiki/3월_22일 "wikilink") [4월 17일까지](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") 당시 영국의 신인 밴드였던 '스테랑코(Steranko)'와 함께 [런던](https://ko.wikipedia.org/wiki/런던 "wikilink"), [프랑크푸르트](https://ko.wikipedia.org/wiki/프랑크푸르트 "wikilink"), [베를린](../Page/베를린.md "wikilink"), [밀라노](https://ko.wikipedia.org/wiki/밀라노 "wikilink") 등 4개국 7개 도시의 언더그라운드 클럽에서 공연하였다, 이 유럽 투어의 여정은 다큐멘터리 영화 《온 더 로드, 투(On The Road, Two)》로 제작되어 2006년에 개봉하였다. 이 시기에 밴드의 이름을 '윤도현 밴드'에서 스테랑코가 제안한 'YB'로 변경하였다\[4\] 2005년 [강산에](../Page/강산에.md "wikilink") · [김C](https://ko.wikipedia.org/wiki/김C "wikilink") · [노홍철](https://ko.wikipedia.org/wiki/노홍철 "wikilink") 등과 함께 전국 순회 공연을 하고 앨범을 발매하는 등 꾸준히 활동을 지속하였다.
+2003년에는 6개월 동안 전국 32개의 도시를 도는 순회 공연을 하였고, [2005년](../Page/2005년.md "wikilink") [3월 22일부터](../Page/3월_22일.md "wikilink") [4월 17일까지](../Page/4월_17일.md "wikilink") 당시 영국의 신인 밴드였던 '스테랑코(Steranko)'와 함께 [런던](../Page/런던.md "wikilink"), [프랑크푸르트](https://ko.wikipedia.org/wiki/프랑크푸르트 "wikilink"), [베를린](../Page/베를린.md "wikilink"), [밀라노](../Page/밀라노.md "wikilink") 등 4개국 7개 도시의 언더그라운드 클럽에서 공연하였다, 이 유럽 투어의 여정은 다큐멘터리 영화 《온 더 로드, 투(On The Road, Two)》로 제작되어 2006년에 개봉하였다. 이 시기에 밴드의 이름을 '윤도현 밴드'에서 스테랑코가 제안한 'YB'로 변경하였다\[4\] 2005년 [강산에](../Page/강산에.md "wikilink") · [김C](../Page/김C.md "wikilink") · [노홍철](../Page/노홍철.md "wikilink") 등과 함께 전국 순회 공연을 하고 앨범을 발매하는 등 꾸준히 활동을 지속하였다.
 
-2005년경 부터 객원 세션이었던 영국인 기타리스트 스캇 할로웰이 정식 맴버가 되었고, 2011년 3월부터 8월까지 MBC 예능프로그램 《[나는 가수다 1](https://ko.wikipedia.org/wiki/나는_가수다_1 "wikilink")》에 출연해 좋은 반응을 얻으면서 다시 한 번 존재감을 알리는 계기가 되었다.
+2005년경 부터 객원 세션이었던 영국인 기타리스트 스캇 할로웰이 정식 맴버가 되었고, 2011년 3월부터 8월까지 MBC 예능프로그램 《[나는 가수다 1](../Page/나는_가수다_1.md "wikilink")》에 출연해 좋은 반응을 얻으면서 다시 한 번 존재감을 알리는 계기가 되었다.
 
 2015년 데뷔 20주년 맞이하여 10월 서울을 시작으로 2016년 1월 중순까지 전국 14개 도시에서 《YB 20주년 콘서트 '스무살' (20-years)》 공연을 개최하였다. 20주년 콘서트를 앞두고 한 기자간담회에서 "월드컵과 나가수가 YB를 살렸다"라고 밝혔다.\[5\]
 
 ## 구성원
 
   - [윤도현](../Page/윤도현.md "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - [박태희](https://ko.wikipedia.org/wiki/박태희_\(음악가\) "wikilink") - [베이스](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [박태희](https://ko.wikipedia.org/wiki/박태희_\(음악가\) "wikilink") - [베이스](../Page/베이스_기타.md "wikilink")
   - [김진원](https://ko.wikipedia.org/wiki/김진원_\(드러머\) "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
   - [허준](https://ko.wikipedia.org/wiki/허준_\(1974년\) "wikilink") - 기타
   - 스캇 할로웰 (Scott Hellowell) - 기타
 
 ### 전 구성원
 
-  - [유병열](https://ko.wikipedia.org/wiki/유병열 "wikilink") - 기타,활동당시 리더\[6\] (1997\~99년)
+  - [유병열](../Page/유병열.md "wikilink") - 기타,활동당시 리더\[6\] (1997\~99년)
   - 엄태환 - 기타 (1997\~99년)
   - [강호정](https://ko.wikipedia.org/wiki/강호정 "wikilink") - 건반 (1997년)
   - 고경천 - 건반 (객원)
@@ -46,13 +46,13 @@
   - 1집 《타잔/가을 우체국 앞에서》 (1994년)\[8\]
   - 2집 《[and Band](https://ko.wikipedia.org/wiki/and_Band "wikilink")》 (1997년)
   - 3집 《[소외](https://ko.wikipedia.org/wiki/소외_\(YB의_음반\) "wikilink")》 (1998년)
-  - 4집 《[한국 ROCK 다시 부르기](https://ko.wikipedia.org/wiki/한국_ROCK_다시_부르기 "wikilink")》 ([1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink"))
+  - 4집 《[한국 ROCK 다시 부르기](https://ko.wikipedia.org/wiki/한국_ROCK_다시_부르기 "wikilink")》 ([1999년](../Page/1999년.md "wikilink"))
   - 5집 《[An Urbanite](https://ko.wikipedia.org/wiki/An_Urbanite "wikilink")》 (2001년)
-  - 6집 《[YB Stream](https://ko.wikipedia.org/wiki/YB_Stream "wikilink")》 ([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink"))
-  - 7집 《[Why Be?](https://ko.wikipedia.org/wiki/Why_Be? "wikilink")》 ([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink"))
-  - 8집 《[공존](https://ko.wikipedia.org/wiki/공존_\(YB의_음반\) "wikilink")》 ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink"))
-  - 9집 《[Reel Impulse](https://ko.wikipedia.org/wiki/Reel_Impulse "wikilink")》 ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink"))
-  - 10집 《[Twilight State](https://ko.wikipedia.org/wiki/Twilight_State "wikilink")》 ([2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink"))
+  - 6집 《[YB Stream](https://ko.wikipedia.org/wiki/YB_Stream "wikilink")》 ([2003년](../Page/2003년.md "wikilink"))
+  - 7집 《[Why Be?](../Page/Why_Be?.md "wikilink")》 ([2006년](../Page/2006년.md "wikilink"))
+  - 8집 《[공존](https://ko.wikipedia.org/wiki/공존_\(YB의_음반\) "wikilink")》 ([2009년](../Page/2009년.md "wikilink"))
+  - 9집 《[Reel Impulse](https://ko.wikipedia.org/wiki/Reel_Impulse "wikilink")》 ([2013년](../Page/2013년.md "wikilink"))
+  - 10집 《[Twilight State](https://ko.wikipedia.org/wiki/Twilight_State "wikilink")》 ([2019년](../Page/2019년.md "wikilink"))
 
 ### 비정규 앨범
 
@@ -115,7 +115,7 @@
   - 2002년
     제29회 [한국방송](https://ko.wikipedia.org/wiki/한국방송 "wikilink")대상 가수상
     국회 대중문화&미디어연구회 2002 국회대상
-    [문화방송](https://ko.wikipedia.org/wiki/문화방송 "wikilink") 10대가수 가요제 10대가수상
+    [문화방송](../Page/문화방송.md "wikilink") 10대가수 가요제 10대가수상
     한국방송 가요대상 최고가수상 청소년부문
 
 <!-- end list -->

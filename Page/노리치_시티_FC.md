@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**노리치 시티 풋볼 클럽**()은 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink")의 축구 클럽으로, [노리치](https://ko.wikipedia.org/wiki/노리치 "wikilink")를 연고로 하고 있다.
+**노리치 시티 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [노리치](../Page/노리치.md "wikilink")를 연고로 하고 있다.
 
-1902년에 창단되었다. 1972년에 처음으로 1부 리그로 승격하였고, 21년 동안 계속해서 1부 리그에서 활약하였다. 1962년와 1985년에는 [리그 컵에서](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 우승을 차지하였다. 1992-93 시즌 프리미어리그의 창립 멤버가 되었으며, 그 해 3위를 차지하며 [UEFA컵에](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 진출하여 3라운드까지 진출하기도 하였다.
+1902년에 창단되었다. 1972년에 처음으로 1부 리그로 승격하였고, 21년 동안 계속해서 1부 리그에서 활약하였다. 1962년와 1985년에는 [리그 컵에서](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 우승을 차지하였다. 1992-93 시즌 프리미어리그의 창립 멤버가 되었으며, 그 해 3위를 차지하며 [UEFA컵에](../Page/UEFA_유로파리그.md "wikilink") 진출하여 3라운드까지 진출하기도 하였다.
 
-1935년부터 [캐로 로드를](https://ko.wikipedia.org/wiki/캐로_로드 "wikilink") 홈 구장으로 사용하고 있으며, [입스위치 타운에게](https://ko.wikipedia.org/wiki/입스위치_타운_FC "wikilink") 라이벌 의식을 가지고 있다. 팬들의 응원가 "On the Ball, City"는 전 세계 축구 응원가 중 가장 오래된 응원가로 알려져있다.
+1935년부터 [캐로 로드를](../Page/캐로_로드.md "wikilink") 홈 구장으로 사용하고 있으며, [입스위치 타운에게](../Page/입스위치_타운_FC.md "wikilink") 라이벌 의식을 가지고 있다. 팬들의 응원가 "On the Ball, City"는 전 세계 축구 응원가 중 가장 오래된 응원가로 알려져있다.
 
 ## 역대 성적
 
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - **[EFL 리그 원](https://ko.wikipedia.org/wiki/EFL_리그_원 "wikilink")** (3부리그)
+  - **[EFL 리그 원](../Page/EFL_리그_원.md "wikilink")** (3부리그)
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - **[EFL컵](https://ko.wikipedia.org/wiki/EFL컵 "wikilink")**
+  - **[EFL컵](../Page/EFL컵.md "wikilink")**
 
 <!-- end list -->
 
@@ -61,11 +61,11 @@
 <tr class="odd">
 <td><p><strong>노리치 시티</strong> </p></td>
 <td><p>3 - 0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피테서" title="wikilink">피테서</a></p></td>
+<td><p><a href="../Page/피테서.md" title="wikilink">피테서</a></p></td>
 <td><p>1993-94 <a href="https://ko.wikipedia.org/wiki/UEFA_컵" title="wikilink">UEFA 컵</a> 1라운드</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/피테서" title="wikilink">피테서</a> </p></td>
+<td><p><a href="../Page/피테서.md" title="wikilink">피테서</a> </p></td>
 <td><p>0 - 0</p></td>
 <td><p>노리치 시티</p></td>
 <td><p>1993-94 <a href="https://ko.wikipedia.org/wiki/UEFA_컵" title="wikilink">UEFA 컵</a> 1라운드</p></td>

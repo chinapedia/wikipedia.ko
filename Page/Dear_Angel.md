@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dear Angel](https://ko.wikipedia.org/wiki/Dear_Angel).
 
 
-**Dear Angel**은 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [10월 6일에](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 3번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+**Dear Angel**은 [1999년](../Page/1999년.md "wikilink") [10월 6일에](../Page/10월_6일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 3번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 트랙리스트
 

@@ -5,13 +5,13 @@
 
 ## 연혁
 
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink") - **주식회사 비 에스 재팬(ビー・エス・ジャパン)**설립
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") - 본방송 개시.개국 당초부터, 풀 스펙(화소수 1920×1080) 하이비전 방송을 실시한다.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [7월 4일](https://ko.wikipedia.org/wiki/7월_4일 "wikilink") -회사상호를 현재 사용하는 상호로 변경, 동시에 본사를 이전
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") - 라디오 방송 종료
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink") - 민방계열 BS디지털 방송국으로서는 [BS후지](https://ko.wikipedia.org/wiki/BS후지 "wikilink")와 함께 첫 번째로 연간 결산 흑자를 달성한다.
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [4월 16일](https://ko.wikipedia.org/wiki/4월_16일 "wikilink") 방송 해상도가 1440×1080으로 하락.
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") - 사명은 **BS TV 도쿄(BSテレビ東京)**로 변경. 서비스명은 **BS 테레도(BSテレ東)**로 갱신.
+  - [1998년](../Page/1998년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") - **주식회사 비 에스 재팬(ビー・エス・ジャパン)**설립
+  - [2000년](../Page/2000년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") - 본방송 개시.개국 당초부터, 풀 스펙(화소수 1920×1080) 하이비전 방송을 실시한다.
+  - [2005년](../Page/2005년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") -회사상호를 현재 사용하는 상호로 변경, 동시에 본사를 이전
+  - [2005년](../Page/2005년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") - 라디오 방송 종료
+  - [2007년](../Page/2007년.md "wikilink") [3월](../Page/3월.md "wikilink") - 민방계열 BS디지털 방송국으로서는 [BS후지](../Page/BS후지.md "wikilink")와 함께 첫 번째로 연간 결산 흑자를 달성한다.
+  - [2018년](../Page/2018년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") 방송 해상도가 1440×1080으로 하락.
+  - [2018년](../Page/2018년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - 사명은 **BS TV 도쿄(BSテレビ東京)**로 변경. 서비스명은 **BS 테레도(BSテレ東)**로 갱신.
 
 ## 채널 개요
 
@@ -27,7 +27,7 @@
 
 ### 라디오 방송
 
-  - 음악을 중심으로 방송하고 있었지만,[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") 종료했다. 이후 779ch에서 밤 시간대에 음악 프로그램을 방송했으나 2008년 3월 30일을 기해 이 방송도 종료했다. 방송이 운영되던 시절에는 전자 프로그램 가이드를 적용하지 않았기 때문에 시청할 때는 데이터 방송 톱 페이지에서 컨텐츠 선택을 실시하지 않으면 안되었다.
+  - 음악을 중심으로 방송하고 있었지만,[2005년](../Page/2005년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") 종료했다. 이후 779ch에서 밤 시간대에 음악 프로그램을 방송했으나 2008년 3월 30일을 기해 이 방송도 종료했다. 방송이 운영되던 시절에는 전자 프로그램 가이드를 적용하지 않았기 때문에 시청할 때는 데이터 방송 톱 페이지에서 컨텐츠 선택을 실시하지 않으면 안되었다.
 
 ## 보충서술
 

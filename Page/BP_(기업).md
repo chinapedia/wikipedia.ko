@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [BP \(\)](https://ko.wikipedia.org/wiki/BP_\(\)).
 
 
-**BP plc**는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") 최대의 기업이며, [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [엑슨모빌](https://ko.wikipedia.org/wiki/엑슨모빌 "wikilink")에 이어 세계 2위의 석유 회사이다. 세계에서 3번째로 큰 다국적 [에너지](https://ko.wikipedia.org/wiki/에너지 "wikilink") 기업이다. 예전에 **브리티시 페트롤륨**(British Petroleum)이라고도 불렸던 BP는, [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink")에 본사를 두고 있다. **비욘드 페트롤륨** (Beyond Petroleum)은 BP의 슬로건이다. 계열사로는 편의점 브랜드인 [am/pm](https://ko.wikipedia.org/wiki/am/pm "wikilink")과 윤활유 제조 업체이자 [롤스로이스](https://ko.wikipedia.org/wiki/롤스로이스_자동차 "wikilink")\[1\] 지정 윤활유 회사인 [캐스트롤](https://ko.wikipedia.org/wiki/캐스트롤 "wikilink") 등이 있다.
+**BP plc**는 [영국](../Page/영국.md "wikilink") 최대의 기업이며, [미국](../Page/미국.md "wikilink") [엑슨모빌](../Page/엑슨모빌.md "wikilink")에 이어 세계 2위의 석유 회사이다. 세계에서 3번째로 큰 다국적 [에너지](../Page/에너지.md "wikilink") 기업이다. 예전에 **브리티시 페트롤륨**(British Petroleum)이라고도 불렸던 BP는, [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")에 본사를 두고 있다. **비욘드 페트롤륨** (Beyond Petroleum)은 BP의 슬로건이다. 계열사로는 편의점 브랜드인 [am/pm](https://ko.wikipedia.org/wiki/am/pm "wikilink")과 윤활유 제조 업체이자 [롤스로이스](../Page/롤스로이스_자동차.md "wikilink")\[1\] 지정 윤활유 회사인 [캐스트롤](https://ko.wikipedia.org/wiki/캐스트롤 "wikilink") 등이 있다.
 
 ## 역사
 
 ### 1909년 \~ 1954년
 
-[1908년](https://ko.wikipedia.org/wiki/1908년 "wikilink") 5월 영국 지질학자들이 이란 마스제드 솔레이만에 대량의 석유가 매장되어 있다는 것을 알아낸다.
+[1908년](../Page/1908년.md "wikilink") 5월 영국 지질학자들이 이란 마스제드 솔레이만에 대량의 석유가 매장되어 있다는 것을 알아낸다.
 
 ## 같이 보기
 

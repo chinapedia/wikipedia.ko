@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
 
 
-**헬싱보리 IF**(Helsingborgs IF)는 [헬싱보리](https://ko.wikipedia.org/wiki/헬싱보리 "wikilink")의 [올륌피아를](https://ko.wikipedia.org/wiki/올륌피아_\(경기장\) "wikilink") 홈구장으로 하는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. [1907년](https://ko.wikipedia.org/wiki/1907년 "wikilink") 창단되었다.
+**헬싱보리 IF**(Helsingborgs IF)는 [헬싱보리](../Page/헬싱보리.md "wikilink")의 [올륌피아를](../Page/올륌피아_\(경기장\).md "wikilink") 홈구장으로 하는 [스웨덴](../Page/스웨덴.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [1907년](../Page/1907년.md "wikilink") 창단되었다.
 
 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에 속해 있으며 2012 시즌은 6위로 마감하였다.
 
-이 팀의 대표 선수로는 [스웨덴 축구 국가대표팀과](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink") [FC 바르셀로나](../Page/FC_바르셀로나.md "wikilink"), [셀틱](https://ko.wikipedia.org/wiki/셀틱_FC "wikilink") 등에서 활약한 [헨리크 라르손이](https://ko.wikipedia.org/wiki/헨리크_라르손 "wikilink") 있다.
+이 팀의 대표 선수로는 [스웨덴 축구 국가대표팀과](../Page/스웨덴_축구_국가대표팀.md "wikilink") [FC 바르셀로나](../Page/FC_바르셀로나.md "wikilink"), [셀틱](../Page/셀틱_FC.md "wikilink") 등에서 활약한 [헨리크 라르손이](../Page/헨리크_라르손.md "wikilink") 있다.
 
 ## 유명 선수
 
-  - [헨리크 라르손](https://ko.wikipedia.org/wiki/헨리크_라르손 "wikilink")
+  - [헨리크 라르손](../Page/헨리크_라르손.md "wikilink")
 
 ## 외부 링크
 

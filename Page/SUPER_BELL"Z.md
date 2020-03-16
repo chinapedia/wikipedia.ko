@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPER BELLZ --variable=cfmurl=SUPER_BELLZ](https://ko.wikipedia.org/wiki/).
 
 
-**SUPER BELL"Z**()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [테크노](https://ko.wikipedia.org/wiki/테크노 "wikilink") 음악 프로젝트 그룹이다. 노즈키 타카히로()를 중심으로 하며 열차의 차내 방송, 멜로디, 열차 주행음등을 테크노팝 스타일로 패러디 하기 때문에 "차장(車掌) DJ"로서 알려져 있다. 1999년 데뷔당시 [도시바 EMI의](https://ko.wikipedia.org/wiki/도시바_EMI "wikilink") UP STREAM에 소속되었으며, 원래는 3인조 그룹이었으나 2005년 소속사에서 독립하여 [노즈키 다카히로만이](https://ko.wikipedia.org/wiki/노즈키_다카히로 "wikilink") 중심멤버이며, 그 이외의 멤버는 자유롭게 활동하는 프리멤버제로 활동하고 있다.
+**SUPER BELL"Z**()는 [일본](../Page/일본.md "wikilink")의 [테크노](https://ko.wikipedia.org/wiki/테크노 "wikilink") 음악 프로젝트 그룹이다. 노즈키 타카히로()를 중심으로 하며 열차의 차내 방송, 멜로디, 열차 주행음등을 테크노팝 스타일로 패러디 하기 때문에 "차장(車掌) DJ"로서 알려져 있다. 1999년 데뷔당시 [도시바 EMI의](https://ko.wikipedia.org/wiki/도시바_EMI "wikilink") UP STREAM에 소속되었으며, 원래는 3인조 그룹이었으나 2005년 소속사에서 독립하여 [노즈키 다카히로만이](https://ko.wikipedia.org/wiki/노즈키_다카히로 "wikilink") 중심멤버이며, 그 이외의 멤버는 자유롭게 활동하는 프리멤버제로 활동하고 있다.
 
 ## 음악 성향
 
@@ -13,11 +13,11 @@
 
 ## 음반
 
-  - 1999년 : 싱글 MOTER MAN [아키하바라](../Page/아키하바라_역.md "wikilink") - [미나미우라와](https://ko.wikipedia.org/wiki/미나미우라와_역 "wikilink"), 앨범 MOTO(e)R MAN
+  - 1999년 : 싱글 MOTER MAN [아키하바라](../Page/아키하바라_역.md "wikilink") - [미나미우라와](../Page/미나미우라와_역.md "wikilink"), 앨범 MOTO(e)R MAN
   - 2000년 : 앨범 MOTO(e)R MAN\[1\] 오사카편&우에노 2350
   - 2001년 : 싱글 MOTO(e)R MAN 센다이 편&[게이힌 급행](../Page/게이힌_급행_전철.md "wikilink"), Fomula man
   - 2002년 : 싱글 MOTO(e)R MAN [주오 선](../Page/주오_본선.md "wikilink")&[신칸센](../Page/도카이도_신칸센.md "wikilink") 히카리, 앨범 [MOTO(e)R MAN 야마노테 선 Loop Complete\!](../Page/모터맨_야마노테_선_루프_컴플리트.md "wikilink"), MOTO(e)R MAN [신칸센](../Page/도호쿠_신칸센.md "wikilink") 하야테/[사이쿄 선](../Page/사이쿄_선.md "wikilink") WATERFRONT
-  - 2003년 : 싱글 MOTO(e)R MAN [에노덴](https://ko.wikipedia.org/wiki/에노시마_전철 "wikilink")&[리쿠우토 선](https://ko.wikipedia.org/wiki/리쿠우토_선 "wikilink"), 철도전사 레오☆레인저
+  - 2003년 : 싱글 MOTO(e)R MAN [에노덴](../Page/에노시마_전철.md "wikilink")&[리쿠우토 선](../Page/리쿠우토_선.md "wikilink"), 철도전사 레오☆레인저
   - 2004년 : 앨범 MOTO(e)R MAN으로 GO\!([다이토](https://ko.wikipedia.org/wiki/다이토 "wikilink")사의 게임 "[전차로 고\!](https://ko.wikipedia.org/wiki/전차로_고! "wikilink") FINAL"삽입곡), 싱글 가이지 101호
   - 2005년 : 앨범 The Very Best of MOTO(e)R MAN
   - 2007년 : 앨범 The Very Best of MOTO(e)R MAN vol. 2, MOTO(e)R MAN 데쓰코의 여행(TV 애니메이션 "[데쓰코의 여행](https://ko.wikipedia.org/wiki/데쓰코의_여행 "wikilink")" 삽입곡)

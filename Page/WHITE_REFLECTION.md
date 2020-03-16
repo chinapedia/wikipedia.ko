@@ -7,7 +7,7 @@
 
 OVA 《신기동전기 건담W Endless Waltz》의 주제가이다. 앨범 《[BPM "BEST FILES"](https://ko.wikipedia.org/wiki/BPM_"BEST_FILES" "wikilink")》에 따르면, WHITE REFLECTION은 스토리와 같게 곡도 후기 주제가인 [RHYTHM EMOTION의](../Page/RHYTHM_EMOTION.md "wikilink") 속편이며, 《[BPM 150MAX](https://ko.wikipedia.org/wiki/BPM_150MAX "wikilink")》에 수록되어 있는 발라드 버전의 [RHYTHM EMOTION·PURE로부터](https://ko.wikipedia.org/wiki/BPM_150MAX "wikilink") 계속해서 들을 수 있도록 만들어졌다.
 
-이 작품부터 작사，작곡，편곡：TWO-MIX 로부터 작사：[나가노 시이나](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink") ，작곡：[타카야마 미나미](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink")，편곡：나가노 시이나, 타카야마 미나미 라고 이름을 확실하게 표기하기 시작하였다.
+이 작품부터 작사，작곡，편곡：TWO-MIX 로부터 작사：[나가노 시이나](https://ko.wikipedia.org/wiki/나가노_시이나 "wikilink") ，작곡：[타카야마 미나미](../Page/타카야마_미나미.md "wikilink")，편곡：나가노 시이나, 타카야마 미나미 라고 이름을 확실하게 표기하기 시작하였다.
 
 이 작품으로 TWO-MIX의 첫 애니메이션 PV가 제작되었다. 베스트앨범 《[BPM "BEST FILES"](https://ko.wikipedia.org/wiki/BPM_"BEST_FILES" "wikilink")》에서는 CD-ROM으로 수록되었고, 2001년에는 DVD판으로도 발매가 되었다. 매상은 전작인 [Rhythm Generation을](../Page/Rhythm_Generation.md "wikilink") 웃돌아, 다시 10만장 이상의 판매고를 기록하였다.
 
@@ -70,9 +70,9 @@ OVA 《신기동전기 건담W Endless Waltz》의 주제가이다. 앨범 《[B
 ## 이 작품의 가수
 
   - 이시다 요코(石田燿子)
-      - 《**울트라 애니메이션 유로 비트 시리즈**》([2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink")，제네온 엔터테인먼트(GENEON ENTERTAINMENT) 발매)
+      - 《**울트라 애니메이션 유로 비트 시리즈**》([2001년](../Page/2001년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink")，제네온 엔터테인먼트(GENEON ENTERTAINMENT) 발매)
   - 토쿠나가 아이(德永愛)
-      - 《**Scarlet**》([2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [6월 25일](https://ko.wikipedia.org/wiki/6월_25일 "wikilink")，제네온 엔터테인먼트(GENEON ENTERTAINMENT) 발매)
+      - 《**Scarlet**》([2004년](../Page/2004년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink")，제네온 엔터테인먼트(GENEON ENTERTAINMENT) 발매)
 
 ## 관련 항목
 

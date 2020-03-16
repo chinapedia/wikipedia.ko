@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [AVCHD](https://ko.wikipedia.org/wiki/AVCHD).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:AVCHD_logo.tif "wikilink") **AVCHD** (Advanced Video Codec High Definition)는 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")와 [파나소닉](https://ko.wikipedia.org/wiki/파나소닉 "wikilink")이 2006년 중반에 선보인 고선명 녹화 포맷이다. 8 센티미터의 녹화 가능 DVD 디스크, 하드 디스크, 플래시 [메모리 카드를](../Page/메모리_카드.md "wikilink") 비롯하여 다양한 기억 장치를 지원한다. 이 포맷은 특히 [HDV](../Page/HDV.md "wikilink")와 [미니DV](https://ko.wikipedia.org/wiki/미니DV "wikilink")와 같은 휴대용 비디오 카메라 녹화 포맷과 경쟁하고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:AVCHD_logo.tif "wikilink") **AVCHD** (Advanced Video Codec High Definition)는 [소니](../Page/소니.md "wikilink")와 [파나소닉](../Page/파나소닉.md "wikilink")이 2006년 중반에 선보인 고선명 녹화 포맷이다. 8 센티미터의 녹화 가능 DVD 디스크, 하드 디스크, 플래시 [메모리 카드를](../Page/메모리_카드.md "wikilink") 비롯하여 다양한 기억 장치를 지원한다. 이 포맷은 특히 [HDV](../Page/HDV.md "wikilink")와 [미니DV](https://ko.wikipedia.org/wiki/미니DV "wikilink")와 같은 휴대용 비디오 카메라 녹화 포맷과 경쟁하고 있다.
 
-AVCHD는 [블루레이 디스크](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") 포맷과 호환성을 갖도록 설계되었으며\[1\] [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") 매체의 고선명 영상 저작 및 배포에 쓰일 수도 있다. 그러나 모든 블루레이 디스크 플레이어가 AVCHD 디스크와 호환되는 것은 아니다.
+AVCHD는 [블루레이 디스크](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") 포맷과 호환성을 갖도록 설계되었으며\[1\] [DVD](../Page/DVD.md "wikilink") 매체의 고선명 영상 저작 및 배포에 쓰일 수도 있다. 그러나 모든 블루레이 디스크 플레이어가 AVCHD 디스크와 호환되는 것은 아니다.
 
 AVCHD와 해당 로고는 파나소닉사와 소니사의 등록 상표이다.\[2\]
 
 ## 기술 설명
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:AVCHD_actual_file_structure.svg "wikilink") 이름에서 말해 주듯이, AVCHD는 [MPEG-4 AVC (H.264)](https://ko.wikipedia.org/wiki/H.264/AVC "wikilink") 영상 코덱을 사용한다. 더 오래된 MPEG-2 코덱인 HDV에 견주어 AVC가 더 나은 압축률을 보이며, 이로써 MPEG-2와 같은 품질의 영상을 녹화하면서도 더 적은 공간을 차지할 수 있게 해 준다. 오디오 트랙은 비압축 7.1 Linear PCM이나 압축된 [AC-3](../Page/돌비_디지털.md "wikilink") 5.1로 저장할 수 있다. 8비트 색의 자막도 지원하며 일부 캠코더는 이 자막 기능을 활용하여 날짜/시간을 트랙에다 저장하기도 한다. DVD 메뉴와 같은 메뉴 탐색 기능도 지원하므로 소비자들에게 더 매력을 주는 포맷으로 자리잡고 있다. AVCHD에는 AVC 사진을 사진 슬라이드쇼로 사용할 수 있기에, 배경 음악을 넣거나 넣지 않은 채 고품질의 프레젠테이션을 제공할 수 있다. 압축된 오디오, 제목 스트림, 비디오 데이터는 [BDAV](https://ko.wikipedia.org/wiki/BDAV "wikilink")라는 이름의 [MPEG-2](https://ko.wikipedia.org/wiki/MPEG-2 "wikilink") [트랜스포트 스트림에](https://ko.wikipedia.org/wiki/MPEG_트랜스포트_스트림 "wikilink") 저장된다. 이 스트림 포맷과 AVCHD의 대부분 구조는 [블루레이 디스크](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") BMDV 포맷에서 비롯한 것이다. AVCHD 포맷으로 녹화된 영상은 [소니 BDP-S1](https://ko.wikipedia.org/wiki/소니_BDP-S1 "wikilink"), [파나소닉 DMP-BD10](https://ko.wikipedia.org/wiki/파나소닉_DMP-BD10 "wikilink"), [플레이스테이션 3와](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 같은 대부분의 셉탑 블루레이 디스크 플레이어에서 어떠한 수정 절차 없이도 재생할 수 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:AVCHD_actual_file_structure.svg "wikilink") 이름에서 말해 주듯이, AVCHD는 [MPEG-4 AVC (H.264)](https://ko.wikipedia.org/wiki/H.264/AVC "wikilink") 영상 코덱을 사용한다. 더 오래된 MPEG-2 코덱인 HDV에 견주어 AVC가 더 나은 압축률을 보이며, 이로써 MPEG-2와 같은 품질의 영상을 녹화하면서도 더 적은 공간을 차지할 수 있게 해 준다. 오디오 트랙은 비압축 7.1 Linear PCM이나 압축된 [AC-3](../Page/돌비_디지털.md "wikilink") 5.1로 저장할 수 있다. 8비트 색의 자막도 지원하며 일부 캠코더는 이 자막 기능을 활용하여 날짜/시간을 트랙에다 저장하기도 한다. DVD 메뉴와 같은 메뉴 탐색 기능도 지원하므로 소비자들에게 더 매력을 주는 포맷으로 자리잡고 있다. AVCHD에는 AVC 사진을 사진 슬라이드쇼로 사용할 수 있기에, 배경 음악을 넣거나 넣지 않은 채 고품질의 프레젠테이션을 제공할 수 있다. 압축된 오디오, 제목 스트림, 비디오 데이터는 [BDAV](https://ko.wikipedia.org/wiki/BDAV "wikilink")라는 이름의 [MPEG-2](../Page/MPEG-2.md "wikilink") [트랜스포트 스트림에](../Page/MPEG_트랜스포트_스트림.md "wikilink") 저장된다. 이 스트림 포맷과 AVCHD의 대부분 구조는 [블루레이 디스크](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") BMDV 포맷에서 비롯한 것이다. AVCHD 포맷으로 녹화된 영상은 [소니 BDP-S1](https://ko.wikipedia.org/wiki/소니_BDP-S1 "wikilink"), [파나소닉 DMP-BD10](https://ko.wikipedia.org/wiki/파나소닉_DMP-BD10 "wikilink"), [플레이스테이션 3와](../Page/플레이스테이션_3.md "wikilink") 같은 대부분의 셉탑 블루레이 디스크 플레이어에서 어떠한 수정 절차 없이도 재생할 수 있다.
 
 AVCHD는 다양한 해상도와 가로세로비를 지원한다. 이를테면 4:3 비율의 720x480에서 부터 16:9 비율을 지원하는 1920x1080의 [풀 HD](https://ko.wikipedia.org/wiki/풀_HD "wikilink") 까지 지원한다. 하드 디스크나 플래시 메모리에 기록할 경우 HD 녹화에 필요한 일반적인 최대 비트레이트는 24Mbps이며, DVD에 녹화할 경우 18 Mbps이다. 각각 초당 3 메가바이트, 2.25 메가바이트를 차지한다.
 
@@ -51,10 +51,10 @@ AVCHD 규격은 HD 및 SD 녹화 모두 지원한다.
 
   - [어도비 프리미어 프로](../Page/어도비_프리미어_프로.md "wikilink")
   - [어도비 프리미어 엘러먼츠](https://ko.wikipedia.org/wiki/어도비_프리미어_엘러먼츠 "wikilink")
-  - [파이널 컷 익스프레스 4](https://ko.wikipedia.org/wiki/파이널_컷_익스프레스 "wikilink"), [파이널 컷 프로 6.0.1](../Page/파이널_컷_프로.md "wikilink"), [아이무비 '.08-09](https://ko.wikipedia.org/wiki/아이무비 "wikilink") 이상
+  - [파이널 컷 익스프레스 4](https://ko.wikipedia.org/wiki/파이널_컷_익스프레스 "wikilink"), [파이널 컷 프로 6.0.1](../Page/파이널_컷_프로.md "wikilink"), [아이무비 '.08-09](../Page/아이무비.md "wikilink") 이상
   - [AVS 비디오 에디터](https://ko.wikipedia.org/wiki/AVS_비디오_에디터 "wikilink")
   - [블렌더 3D](https://ko.wikipedia.org/wiki/블렌더_3D "wikilink")
-  - [코렐](https://ko.wikipedia.org/wiki/코렐 "wikilink") [비디오스튜디오](https://ko.wikipedia.org/wiki/율리드_비디오스튜디오 "wikilink")
+  - [코렐](../Page/코렐.md "wikilink") [비디오스튜디오](https://ko.wikipedia.org/wiki/율리드_비디오스튜디오 "wikilink")
   - [사이버링크 파워디렉터 7](../Page/파워디렉터.md "wikilink")
   - 그래스 벨리 사의 [에디우스](../Page/에디우스.md "wikilink") 5.0 및 에디우스 네오 2
   - 매크로시스템사의 Casablanca S 시리즈 에디터 (Bogard 2.3 이상 사용)
@@ -64,7 +64,7 @@ AVCHD 규격은 HD 및 SD 녹화 모두 지원한다.
   - [소니 베가스 7.0e](https://ko.wikipedia.org/wiki/소니_베가스 "wikilink")
   - [베가스 프로](https://ko.wikipedia.org/wiki/소니_베가스 "wikilink") (버전 8 이상)
   - [베가스 무비 스튜디오 플래티넘](https://ko.wikipedia.org/wiki/소니_베가스_무비_스튜디오 "wikilink") (버전 8 이상)
-  - [Kdenlive](https://ko.wikipedia.org/wiki/Kdenlive "wikilink")
+  - [Kdenlive](../Page/Kdenlive.md "wikilink")
   - [오픈샷](https://ko.wikipedia.org/wiki/오픈샷 "wikilink")
 
 <!-- end list -->

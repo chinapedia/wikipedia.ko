@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [!  Tvio](https://ko.wikipedia.org/wiki/!__Tvio).
 
 
-**오감만족\! 생방송 Tvio**는 [OBS 경인TV에서](https://ko.wikipedia.org/wiki/OBS_경인TV "wikilink") [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 31일부터](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 20일까지](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") 평일 오후 5:00 \~ 7:00에 방송했던 정보 쇼 프로그램이다. 현재는 종영됐고, 후속으로는 [생방송 투유가](https://ko.wikipedia.org/wiki/생방송_투유 "wikilink") 방송된다.
+**오감만족\! 생방송 Tvio**는 [OBS 경인TV에서](https://ko.wikipedia.org/wiki/OBS_경인TV "wikilink") [2007년](../Page/2007년.md "wikilink") [12월 31일부터](../Page/12월_31일.md "wikilink") [2008년](../Page/2008년.md "wikilink") [6월 20일까지](../Page/6월_20일.md "wikilink") 평일 오후 5:00 \~ 7:00에 방송했던 정보 쇼 프로그램이다. 현재는 종영됐고, 후속으로는 [생방송 투유가](https://ko.wikipedia.org/wiki/생방송_투유 "wikilink") 방송된다.
 
 ## 출연자
 
 ### 진행자
 
-  - [신영일](https://ko.wikipedia.org/wiki/신영일_\(방송인\) "wikilink") - 프리랜서 아나운서. (전 KBS 아나운서)
+  - [신영일](../Page/신영일_\(방송인\).md "wikilink") - 프리랜서 아나운서. (전 KBS 아나운서)
   - [유진영](https://ko.wikipedia.org/wiki/유진영_\(방송인\) "wikilink") - OBS 아나운서. (전 부산MBC 아나운서)
 
-원래 개그맨 [강성범](https://ko.wikipedia.org/wiki/강성범 "wikilink")이 메인MC를 맡을 예정이었으나, 강성범이 [생방송 5BS](https://ko.wikipedia.org/wiki/생방송_OBS "wikilink") 진행을 맡게 되면서, 프리 아나운서 신영일이 진행하게 되었다.
+원래 개그맨 [강성범](../Page/강성범.md "wikilink")이 메인MC를 맡을 예정이었으나, 강성범이 [생방송 5BS](../Page/생방송_OBS.md "wikilink") 진행을 맡게 되면서, 프리 아나운서 신영일이 진행하게 되었다.
 
 ### 출연자
 
   - [이미진](https://ko.wikipedia.org/wiki/이미진 "wikilink")
-  - [윤석주](https://ko.wikipedia.org/wiki/윤석주 "wikilink")
+  - [윤석주](../Page/윤석주.md "wikilink")
   - [유상무](https://ko.wikipedia.org/wiki/유상무_\(희극인\) "wikilink")
 
 ## 프로그램 명칭에 관해
@@ -39,10 +39,10 @@
 
 ## 오프닝
 
-오프닝은 방송 개시일인 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 31일부터](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 종료일인 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 20일까지](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") 계속 사용되었다. 2부의 경우 Tvio 로고송이 나온 후, 스튜디오의 모습이 나오면서 프로그램 로고 아래에 '2부'라고 나온 뒤, 이후에 제공스폰서 안내가 나오며, 광고 후에 시작.
+오프닝은 방송 개시일인 [2007년](../Page/2007년.md "wikilink") [12월 31일부터](../Page/12월_31일.md "wikilink") 종료일인 [2008년](../Page/2008년.md "wikilink") [6월 20일까지](../Page/6월_20일.md "wikilink") 계속 사용되었다. 2부의 경우 Tvio 로고송이 나온 후, 스튜디오의 모습이 나오면서 프로그램 로고 아래에 '2부'라고 나온 뒤, 이후에 제공스폰서 안내가 나오며, 광고 후에 시작.
 
 ## 로고송
 
-영화 OST로 잘 알려져있는 밴드인 [타카피](https://ko.wikipedia.org/wiki/타카피 "wikilink")의 곡이다. [로고송 들어보기](http://mfiles.naver.net/9640a2786c325ae9c192/data21/2008/2/13/25/obs_tvio_logosong.wma)
+영화 OST로 잘 알려져있는 밴드인 [타카피](../Page/타카피.md "wikilink")의 곡이다. [로고송 들어보기](http://mfiles.naver.net/9640a2786c325ae9c192/data21/2008/2/13/25/obs_tvio_logosong.wma)
 
 [분류:경인TV의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:경인TV의_시사교양_텔레비전_프로그램 "wikilink")

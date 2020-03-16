@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SD ](https://ko.wikipedia.org/wiki/SD_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:MiniSD_memory_card_including_adapter.jpg "wikilink") **미니SD 카드**는 [휴대 전화](https://ko.wikipedia.org/wiki/휴대_전화 "wikilink"), [디지털 카메라](https://ko.wikipedia.org/wiki/디지털_카메라 "wikilink"), [MP3 플레이어와](https://ko.wikipedia.org/wiki/MP3_플레이어 "wikilink") 다른 대상의 제품에 사용되도록 고안된 이동식, 휴대용 메모리 장치이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:MiniSD_memory_card_including_adapter.jpg "wikilink") **미니SD 카드**는 [휴대 전화](../Page/휴대_전화.md "wikilink"), [디지털 카메라](../Page/디지털_카메라.md "wikilink"), [MP3 플레이어와](https://ko.wikipedia.org/wiki/MP3_플레이어 "wikilink") 다른 대상의 제품에 사용되도록 고안된 이동식, 휴대용 메모리 장치이다.
 
-[샌디스크](https://ko.wikipedia.org/wiki/샌디스크 "wikilink")사가 [세빗](https://ko.wikipedia.org/wiki/세빗 "wikilink") 2003에 처음 소개한 **미니SD**는 작은 [폼 팩터에서](https://ko.wikipedia.org/wiki/폼_팩터 "wikilink") [메모리 스틱](../Page/메모리_스틱.md "wikilink") 듀오와 [xD 픽처 카드에](https://ko.wikipedia.org/wiki/xD_픽처_카드 "wikilink") 참여하였다.
+[샌디스크](../Page/샌디스크.md "wikilink")사가 [세빗](https://ko.wikipedia.org/wiki/세빗 "wikilink") 2003에 처음 소개한 **미니SD**는 작은 [폼 팩터에서](https://ko.wikipedia.org/wiki/폼_팩터 "wikilink") [메모리 스틱](../Page/메모리_스틱.md "wikilink") 듀오와 [xD 픽처 카드에](https://ko.wikipedia.org/wiki/xD_픽처_카드 "wikilink") 참여하였다.
 
 미니SD는 2003년에 [SD 협회](http://www.sdcard.org/)에 SD 카드 표준의 초소형 폼 팩터 확장으로 채택되었다. 새로운 카드들이 특히 휴대 전화에 쓰이도록 고안되는 반면, 이러한 것들은 표준 [SD](../Page/SD_카드.md "wikilink") [메모리 카드](../Page/메모리_카드.md "wikilink") 슬롯에 장착되는 모든 장치와 호환될 수 있도록 하는 미니SD 어댑터에 포함된다.
 

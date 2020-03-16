@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Projekt Revolution](https://ko.wikipedia.org/wiki/Projekt_Revolution).
 
 
-**프로젝트 레벌루션**(Projekt Revolution)은 1년마다 [린킨 파크가](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 여는 [콘서트 투어이다](https://ko.wikipedia.org/wiki/연주회 "wikilink"). [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink")에는 [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink")도 포함해 공연을 선보였다. 또한 프로젝트 레벌루션은 [플라시보](https://ko.wikipedia.org/wiki/플라시보_\(밴드\) "wikilink"), 아데마, 사이프레스 힐, 스눕 독, [마이 케미컬 로맨스](../Page/마이_케미컬_로맨스.md "wikilink"), 머드 베인 등 유명한 아티스트들과 공연을 선보인다.
+**프로젝트 레벌루션**(Projekt Revolution)은 1년마다 [린킨 파크가](../Page/린킨_파크.md "wikilink") [미국](../Page/미국.md "wikilink")에서 여는 [콘서트 투어이다](https://ko.wikipedia.org/wiki/연주회 "wikilink"). [2007년](../Page/2007년.md "wikilink")에는 [토론토](../Page/토론토.md "wikilink")도 포함해 공연을 선보였다. 또한 프로젝트 레벌루션은 [플라시보](../Page/플라시보_\(밴드\).md "wikilink"), 아데마, 사이프레스 힐, 스눕 독, [마이 케미컬 로맨스](../Page/마이_케미컬_로맨스.md "wikilink"), 머드 베인 등 유명한 아티스트들과 공연을 선보인다.
 
 ## 2002년 프로젝트 레벌루션
 
-  - [린킨 파크](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink")
+  - [린킨 파크](../Page/린킨_파크.md "wikilink")
   - 사이프레스 힐
   - 아데마
   - DJ Z-Trip
@@ -19,11 +19,11 @@
 
 ## 2004년 프로젝트 레벌루션
 
-[2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에는 처음으로 레벌루션 스테이지, 메인 스테이지로 분류해 공연을 펼쳤다. 또한 얼마 간 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink")의 비중이 줄어들었다. 또한 임시로 DJ Z-Trip이 투어 진행자를 맡기도 했다.
+[2004년](../Page/2004년.md "wikilink")에는 처음으로 레벌루션 스테이지, 메인 스테이지로 분류해 공연을 펼쳤다. 또한 얼마 간 [힙합](../Page/힙합.md "wikilink")의 비중이 줄어들었다. 또한 임시로 DJ Z-Trip이 투어 진행자를 맡기도 했다.
 
   - **메인 스테이지**
 
-린킨 파크, [콘](../Page/콘_\(밴드\).md "wikilink"), [스눕 독](https://ko.wikipedia.org/wiki/스눕_독 "wikilink"), [유즈드](https://ko.wikipedia.org/wiki/유즈드 "wikilink"), 리스 댄 제이크
+린킨 파크, [콘](../Page/콘_\(밴드\).md "wikilink"), [스눕 독](../Page/스눕_독.md "wikilink"), [유즈드](https://ko.wikipedia.org/wiki/유즈드 "wikilink"), 리스 댄 제이크
 
   - **레벌루션 스테이지**
 
@@ -33,7 +33,7 @@
 
   - **메인 스테이지**
 
-린킨 파크, [마이 케미컬 로맨스](../Page/마이_케미컬_로맨스.md "wikilink"), [테이킹 백 선데이](../Page/테이킹_백_선데이.md "wikilink"), [HIM](https://ko.wikipedia.org/wiki/HIM_\(밴드\) "wikilink"), [플라시보](https://ko.wikipedia.org/wiki/플라시보_\(밴드\) "wikilink"), [줄리앙-K](https://ko.wikipedia.org/wiki/줄리앙-K "wikilink")
+린킨 파크, [마이 케미컬 로맨스](../Page/마이_케미컬_로맨스.md "wikilink"), [테이킹 백 선데이](../Page/테이킹_백_선데이.md "wikilink"), [HIM](../Page/HIM_\(밴드\).md "wikilink"), [플라시보](../Page/플라시보_\(밴드\).md "wikilink"), [줄리앙-K](https://ko.wikipedia.org/wiki/줄리앙-K "wikilink")
 
   - **레벌루션 스테이지**
 
@@ -47,7 +47,7 @@
 
   - **메인 스테이지**
 
-[린킨 파크](https://ko.wikipedia.org/wiki/린킨_파크 "wikilink"), [크리스 코넬](../Page/크리스_코넬.md "wikilink"), [브레이버리](https://ko.wikipedia.org/wiki/브레이버리 "wikilink"), 애시스 디바이드
+[린킨 파크](../Page/린킨_파크.md "wikilink"), [크리스 코넬](../Page/크리스_코넬.md "wikilink"), [브레이버리](https://ko.wikipedia.org/wiki/브레이버리 "wikilink"), 애시스 디바이드
 
   - **레벌루션 스테이지**
 
@@ -63,7 +63,7 @@
 
   - **메인 스테이지**
 
-린킨 파크, [HIM](https://ko.wikipedia.org/wiki/HIM_\(밴드\) "wikilink"), 너드, [브레이버리](https://ko.wikipedia.org/wiki/브레이버리 "wikilink"), 이너파티시스템
+린킨 파크, [HIM](../Page/HIM_\(밴드\).md "wikilink"), 너드, [브레이버리](https://ko.wikipedia.org/wiki/브레이버리 "wikilink"), 이너파티시스템
 
 ## 외부 링크
 

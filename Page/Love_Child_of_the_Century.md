@@ -74,4 +74,4 @@
 
 [분류:일렉트로니카 음반](https://ko.wikipedia.org/wiki/분류:일렉트로니카_음반 "wikilink") [분류:클래지콰이 프로젝트의 음반](https://ko.wikipedia.org/wiki/분류:클래지콰이_프로젝트의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:2007년 음반](https://ko.wikipedia.org/wiki/분류:2007년_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink")
 
-1.  [싸이월드](https://ko.wikipedia.org/wiki/싸이월드 "wikilink") BGM - ["3집 *Love Child of the Century*"](http://music.cyworld.com/album.asp?aid=23094)
+1.  [싸이월드](../Page/싸이월드.md "wikilink") BGM - ["3집 *Love Child of the Century*"](http://music.cyworld.com/album.asp?aid=23094)

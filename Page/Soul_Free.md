@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Soul Free](https://ko.wikipedia.org/wiki/Soul_Free).
 
 
-《***Soul Free : \#1***》은 [브라운 아이드 소울의](../Page/브라운_아이드_소울.md "wikilink") 정규 1집 앨범이다. 발매일은 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 9월 17일이다.
+《***Soul Free : \#1***》은 [브라운 아이드 소울의](../Page/브라운_아이드_소울.md "wikilink") 정규 1집 앨범이다. 발매일은 [2003년](../Page/2003년.md "wikilink") 9월 17일이다.
 
 ## 수록곡
 

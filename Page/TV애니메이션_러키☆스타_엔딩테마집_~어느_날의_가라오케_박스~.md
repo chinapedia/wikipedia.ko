@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV   \~   \~](https://ko.wikipedia.org/wiki/TV___\~___\~).
 
 
-《**TV애니메이션 《러키☆스타》 엔딩테마집 \~어느 날의 가라오케 박스\~**》()는 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [7월 11일에](https://ko.wikipedia.org/wiki/7월_11일 "wikilink") [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")에서 발매된, [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 《[러키☆스타](../Page/러키☆스타_\(애니메이션\).md "wikilink")》 제1\~12화의 엔딩 테마를 수록한 [앨범 CD다](https://ko.wikipedia.org/wiki/앨범_CD "wikilink").
+《**TV애니메이션 《러키☆스타》 엔딩테마집 \~어느 날의 가라오케 박스\~**》()는 [2007년](../Page/2007년.md "wikilink") [7월 11일에](../Page/7월_11일.md "wikilink") [란티스](../Page/란티스.md "wikilink")에서 발매된, [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 《[러키☆스타](../Page/러키☆스타_\(애니메이션\).md "wikilink")》 제1\~12화의 엔딩 테마를 수록한 [앨범 CD다](https://ko.wikipedia.org/wiki/앨범_CD "wikilink").
 
 ## 개요
 
@@ -49,14 +49,14 @@ CD에는 실제로 엔딩에 사용된 것(드라마 파트)과 곡을 완전하
         노래：이즈미 코나타, 히이라기 카가미, 히이라기 츠카사, 타카라 미유키\[1\]
 13. **[우주철인 쿄다인](https://ko.wikipedia.org/wiki/우주철인_쿄다인 "wikilink")（노래 파트）**
       -
-        작사：[이시노모리 쇼타로](https://ko.wikipedia.org/wiki/이시노모리_쇼타로 "wikilink"), 작곡：[키쿠치 슌스케](https://ko.wikipedia.org/wiki/키쿠치_슌스케 "wikilink")、노래：이즈미 코나타
+        작사：[이시노모리 쇼타로](../Page/이시노모리_쇼타로.md "wikilink"), 작곡：[키쿠치 슌스케](https://ko.wikipedia.org/wiki/키쿠치_슌스케 "wikilink")、노래：이즈미 코나타
 14. **[승리다\! 아크마이저 3](https://ko.wikipedia.org/wiki/아크마이저_3#주제가 "wikilink")（노래 파트）**
       -
         작사：이시노모리 쇼타로, 작곡：[와타나베 미치아키](https://ko.wikipedia.org/wiki/와타나베_미치아키 "wikilink"), 노래：이즈미 코나타
-15. **[그것이 사랑이지요](https://ko.wikipedia.org/wiki/풀_메탈_패닉! "wikilink")（노래 파트）**
+15. **[그것이 사랑이지요](../Page/풀_메탈_패닉!.md "wikilink")（노래 파트）**
       -
         작사：[시모카와 미쿠니](../Page/시모카와_미쿠니.md "wikilink"), 작곡：[SIN](https://ko.wikipedia.org/wiki/SIN "wikilink"), 노래：이즈미 코나타
-16. **[세일러복과 기관총](https://ko.wikipedia.org/wiki/세일러복과_기관총 "wikilink")（노래 파트）**
+16. **[세일러복과 기관총](../Page/세일러복과_기관총.md "wikilink")（노래 파트）**
       -
         작사 : [키스기 에츠코](https://ko.wikipedia.org/wiki/키스기_에츠코 "wikilink"), 작곡 : [키스기 타카오](https://ko.wikipedia.org/wiki/키스기_타카오 "wikilink"), 노래：히이라기 카가미
 17. **[CHA-LA HEAD-CHA-LA](https://ko.wikipedia.org/wiki/CHA-LA_HEAD-CHA-LA "wikilink")（노래 파트）**
@@ -64,7 +64,7 @@ CD에는 실제로 엔딩에 사용된 것(드라마 파트)과 곡을 완전하
         작사：[모리 유키노죠](https://ko.wikipedia.org/wiki/모리_유키노죠 "wikilink"), 작곡：[키요오카 치하](https://ko.wikipedia.org/wiki/키요오카_치하 "wikilink"), 노래：이즈미 코나타
 18. **[발렌타인 키스](../Page/발렌타인_키스.md "wikilink")（노래 파트）**
       -
-        작사：[아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink"), 작곡：、노래：히이라기 츠카사
+        작사：[아키모토 야스시](../Page/아키모토_야스시.md "wikilink"), 작곡：、노래：히이라기 츠카사
 19. **[지상의 별](https://ko.wikipedia.org/wiki/지상의_별 "wikilink")（노래 파트）**
       -
         작사・작곡：[나카지마 미유키](../Page/나카지마_미유키.md "wikilink"), 노래：타카라 미유키
@@ -77,7 +77,7 @@ CD에는 실제로 엔딩에 사용된 것(드라마 파트)과 곡을 완전하
 22. **[I'm proud](https://ko.wikipedia.org/wiki/I'm_proud "wikilink")（노래 파트）**
       -
         작사・작곡：[코무로 테츠야](../Page/코무로_테츠야.md "wikilink"), 노래：히이라기 카가미
-23. **[도라에몽의 노래](https://ko.wikipedia.org/wiki/도라에몽의_노래 "wikilink")（노래 파트）**
+23. **[도라에몽의 노래](../Page/도라에몽의_노래.md "wikilink")（노래 파트）**
       -
         작사：[쿠스베 타쿠미](https://ko.wikipedia.org/wiki/쿠스베_타쿠미 "wikilink")、보작사：바바스스무, 작곡：, 노래：이즈미 코나타, 히이라기 카가미, 히이라기 츠카사, 타카라 미유키
 24. **[가라\! 갓맨](https://ko.wikipedia.org/wiki/가라!_갓맨 "wikilink")（노래 파트）**
@@ -93,7 +93,7 @@ CD에는 실제로 엔딩에 사용된 것(드라마 파트)과 곡을 완전하
 
 ## 관련 항목
 
-  - [TV애니메이션 러키☆스타 후반 엔딩테마집 시라이시 미노루의 남자의 자장가](https://ko.wikipedia.org/wiki/TV애니메이션_러키☆스타_후반_엔딩테마집_시라이시_미노루의_남자의_자장가 "wikilink") - 제13화\~제15화, 제17화\~제24화의 엔딩테마집
+  - [TV애니메이션 러키☆스타 후반 엔딩테마집 시라이시 미노루의 남자의 자장가](../Page/TV애니메이션_러키☆스타_후반_엔딩테마집_시라이시_미노루의_남자의_자장가.md "wikilink") - 제13화\~제15화, 제17화\~제24화의 엔딩테마집
   - [삼십 줄 곶](https://ko.wikipedia.org/wiki/삼십_줄_곶 "wikilink") - 제16화 엔딩테마
 
 ## 각주
@@ -104,7 +104,7 @@ CD에는 실제로 엔딩에 사용된 것(드라마 파트)과 곡을 완전하
 
 [분류:러키☆스타](https://ko.wikipedia.org/wiki/분류:러키☆스타 "wikilink") [분류:2007년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:2007년_컴필레이션_음반 "wikilink")
 
-1.  곡이 정해질 때까지 코나타가 [아카펠라](https://ko.wikipedia.org/wiki/아카펠라 "wikilink")로 〈가라\! 갓 맨〉의 후렴부분을 노래했다.
+1.  곡이 정해질 때까지 코나타가 [아카펠라](../Page/아카펠라.md "wikilink")로 〈가라\! 갓 맨〉의 후렴부분을 노래했다.
 2.  정확하게는 〈THE BIRTH OF THE ODYSSEY \~MONKEY MAGIC〉라고 하는 곡으로, 〈천지창조로부터 손오공 탄생〉까지의 곡의 뒤에, 고다이고의 드러머 토미 슈나이더의 큰 소리로 '아챠\!'라고 외치는 소리(코나타가 흉내내었다)와 함께〈MONKEY MAGIC〉의 곡에 들어간다. 이 때문에 노래가 시작될 때까지 1분 이상 걸려, 카가미가 '긴 인트로네' 라고 했지만(드라마 파트), 통상의 〈MONKEY MAGIC〉에서는 그 만큼의 시간은 걸리지 않는다.'''
 3.  가사가 모두 영어이기 때문에 후렴 부분 이외는 거의 노래할 수 없었다.
 4.  드라마 파트와 달리 코나타가 화장실 안에서 아카펠라로 노래했다.

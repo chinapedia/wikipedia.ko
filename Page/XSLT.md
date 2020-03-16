@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [XSLT](https://ko.wikipedia.org/wiki/XSLT).
 
 
-**XSLT**()는 [XML](https://ko.wikipedia.org/wiki/XML "wikilink") 문서를 다른 XML 문서로 변환하는데 사용하는 XML 기반 언어이다. [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")에서 제정한 표준으로 [XML 변환 언어를](https://ko.wikipedia.org/wiki/XML_변환_언어 "wikilink") 사용하여 XML 문서로 바꿔주며, 탐색하기 위해 [XPath](../Page/XPath.md "wikilink")를 사용한다.
+**XSLT**()는 [XML](../Page/XML.md "wikilink") 문서를 다른 XML 문서로 변환하는데 사용하는 XML 기반 언어이다. [W3C](../Page/W3C.md "wikilink")에서 제정한 표준으로 [XML 변환 언어를](https://ko.wikipedia.org/wiki/XML_변환_언어 "wikilink") 사용하여 XML 문서로 바꿔주며, 탐색하기 위해 [XPath](../Page/XPath.md "wikilink")를 사용한다.
 
-원본 문서는 변경되지 않으며, 원본 문서를 기반으로 새로운 문서가 생성된다.\[1\] 새 문서는 표준 XML 문법 또는 [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink"), 일반 텍스트 형식으로 출력된다.\[2\] XSLT는 XML 데이터를 웹 페이지로 표시하기 위해 HTML 또는 XHTML 문서로 변환할 때 자주 사용된다. 변환은 클라이언트나 서버에서 동적으로 수행되거나, 퍼블리싱 단계에서 수행되기도 한다. XML을 [PDF](https://ko.wikipedia.org/wiki/PDF "wikilink"), [PostScript](https://ko.wikipedia.org/wiki/PostScript "wikilink"), [AWT](https://ko.wikipedia.org/wiki/AWT "wikilink"), [PNG](https://ko.wikipedia.org/wiki/PNG "wikilink")와 같은 다양한 형태로 바꿀 수 있는 [XML-FO](https://ko.wikipedia.org/wiki/XML-FO "wikilink")로 변환할 때도 사용한다. XSLT는 일반적으로 서로 다른 [XML 스키마를](../Page/XML_스키마.md "wikilink") 사용하는 XML 메시지를 변환하거나, 하나의 [스키마](https://ko.wikipedia.org/wiki/스키마 "wikilink") 안에서 문서를 변경하기 위해 사용한다(예: 메시지에서 불필요한 부분 삭제).
+원본 문서는 변경되지 않으며, 원본 문서를 기반으로 새로운 문서가 생성된다.\[1\] 새 문서는 표준 XML 문법 또는 [HTML](../Page/HTML.md "wikilink"), 일반 텍스트 형식으로 출력된다.\[2\] XSLT는 XML 데이터를 웹 페이지로 표시하기 위해 HTML 또는 XHTML 문서로 변환할 때 자주 사용된다. 변환은 클라이언트나 서버에서 동적으로 수행되거나, 퍼블리싱 단계에서 수행되기도 한다. XML을 [PDF](../Page/PDF.md "wikilink"), [PostScript](https://ko.wikipedia.org/wiki/PostScript "wikilink"), [AWT](https://ko.wikipedia.org/wiki/AWT "wikilink"), [PNG](../Page/PNG.md "wikilink")와 같은 다양한 형태로 바꿀 수 있는 [XML-FO](https://ko.wikipedia.org/wiki/XML-FO "wikilink")로 변환할 때도 사용한다. XSLT는 일반적으로 서로 다른 [XML 스키마를](../Page/XML_스키마.md "wikilink") 사용하는 XML 메시지를 변환하거나, 하나의 [스키마](https://ko.wikipedia.org/wiki/스키마 "wikilink") 안에서 문서를 변경하기 위해 사용한다(예: 메시지에서 불필요한 부분 삭제).
 
 ## 개요
 

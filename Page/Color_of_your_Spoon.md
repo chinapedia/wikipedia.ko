@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Color of your Spoon](https://ko.wikipedia.org/wiki/Color_of_your_Spoon).
 
 
-**Color of your Spoon**은 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [7월 26일에](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 6번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+**Color of your Spoon**은 [2000년](../Page/2000년.md "wikilink") [7월 26일에](../Page/7월_26일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 6번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 트랙리스트
 

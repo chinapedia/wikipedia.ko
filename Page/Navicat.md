@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Navicat](https://ko.wikipedia.org/wiki/Navicat).
 
 
-**Navicat**는 프리미엄소프트가 개발한 [MySQL](https://ko.wikipedia.org/wiki/MySQL "wikilink") 관리 및 개발 소프트웨어로, 사용자 인터페이스는 익스플로러와 비슷하며, 로컬 및 원격 에 대한 여러 개의 데이터베이스들을 연결하는 기능을 제공한다.
+**Navicat**는 프리미엄소프트가 개발한 [MySQL](../Page/MySQL.md "wikilink") 관리 및 개발 소프트웨어로, 사용자 인터페이스는 익스플로러와 비슷하며, 로컬 및 원격 에 대한 여러 개의 데이터베이스들을 연결하는 기능을 제공한다.
 
-Navicat는 데이터베이스 관리자들과 개발자들이 여러 데이터베이스를 감시, 관리 및 개발할 수 있도록 해 주며, [맥 OS](https://ko.wikipedia.org/wiki/맥_OS "wikilink"), [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 및 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 플랫폼용으로 구분하여 제공한다. [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 현재 [MySQL](https://ko.wikipedia.org/wiki/MySQL "wikilink"), [MariaDB](https://ko.wikipedia.org/wiki/MariaDB "wikilink"), [SQL Server](../Page/마이크로소프트_SQL_서버.md "wikilink"), [Oracle](../Page/오라클_데이터베이스.md "wikilink"), [SQLite](https://ko.wikipedia.org/wiki/SQLite "wikilink"), [PostgreSQL](../Page/PostgreSQL.md "wikilink")를 지원한다. [PostgreSQL](../Page/PostgreSQL.md "wikilink")용 Navicat는 2005년에 출시되었다.
+Navicat는 데이터베이스 관리자들과 개발자들이 여러 데이터베이스를 감시, 관리 및 개발할 수 있도록 해 주며, [맥 OS](../Page/맥_OS.md "wikilink"), [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 및 [리눅스](../Page/리눅스.md "wikilink") 플랫폼용으로 구분하여 제공한다. [2016년](../Page/2016년.md "wikilink") 현재 [MySQL](../Page/MySQL.md "wikilink"), [MariaDB](../Page/MariaDB.md "wikilink"), [SQL Server](../Page/마이크로소프트_SQL_서버.md "wikilink"), [Oracle](../Page/오라클_데이터베이스.md "wikilink"), [SQLite](../Page/SQLite.md "wikilink"), [PostgreSQL](../Page/PostgreSQL.md "wikilink")를 지원한다. [PostgreSQL](../Page/PostgreSQL.md "wikilink")용 Navicat는 2005년에 출시되었다.
 
 ## 주요 지원 기능
 

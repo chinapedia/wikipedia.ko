@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [RNP \(\)](https://ko.wikipedia.org/wiki/RNP_\(\)).
 
 
-**RNP**(알앤피, [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수이다. 본명은 김정주이다.
+**RNP**(알앤피, [1977년](../Page/1977년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 가수이다. 본명은 김정주이다.
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") 1집 《그 사람의 연애방식》으로 데뷔하였다. 독특한 저음 랩핑과 서정적인 가사가 특징이다. 소속사는 RNP가 직접 설립하고 운영중인 언더그라운드 레이블 Rainbeat Company이다.
+[2006년](../Page/2006년.md "wikilink") 1집 《그 사람의 연애방식》으로 데뷔하였다. 독특한 저음 랩핑과 서정적인 가사가 특징이다. 소속사는 RNP가 직접 설립하고 운영중인 언더그라운드 레이블 Rainbeat Company이다.
 
 ## 앨범
 

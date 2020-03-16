@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ Vs. ](https://ko.wikipedia.org/wiki/_Vs._).
 
 
-**닌텐도 Vs. 시스템**은 1984년 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")에서 개발한 아케이드 게임 기판으로 **VS. 유니시스템**(UniSystem) 또는 **VS. 듀얼시스템**(DualSystem)이라고도 불린다.
+**닌텐도 Vs. 시스템**은 1984년 [닌텐도](../Page/닌텐도.md "wikilink")에서 개발한 아케이드 게임 기판으로 **VS. 유니시스템**(UniSystem) 또는 **VS. 듀얼시스템**(DualSystem)이라고도 불린다.
 
 ## 세부 사항
 
-닌텐도 Vs. 시스템은 닌텐도의 [가정용 게임기인](https://ko.wikipedia.org/wiki/가정용_게임기 "wikilink") [패밀리 컴퓨터를](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink") 기본으로 개발되었기 때문에 패밀리 컴퓨터의 게임 이식이 쉬워서 닌텐도뿐만 아니라 [남코](https://ko.wikipedia.org/wiki/남코 "wikilink"), [선소프트](https://ko.wikipedia.org/wiki/선소프트 "wikilink")에서도 게임이 개발되었다. 물론 렉킹 크루(WRECKING CREW)처럼 VS. 시스템에서 패밀리 컴퓨터로 이식된 게임도 많다.
+닌텐도 Vs. 시스템은 닌텐도의 [가정용 게임기인](../Page/가정용_게임기.md "wikilink") [패밀리 컴퓨터를](../Page/패밀리_컴퓨터.md "wikilink") 기본으로 개발되었기 때문에 패밀리 컴퓨터의 게임 이식이 쉬워서 닌텐도뿐만 아니라 [남코](../Page/남코.md "wikilink"), [선소프트](https://ko.wikipedia.org/wiki/선소프트 "wikilink")에서도 게임이 개발되었다. 물론 렉킹 크루(WRECKING CREW)처럼 VS. 시스템에서 패밀리 컴퓨터로 이식된 게임도 많다.
 
 2대의 게임기를 좌우나 뒤에 배치하여 동시에 플레이가 가능했는데 닌텐도의 테니스에서는 4명이 같이 플레이할 수 있었다. 또 일본보다는 미국에서 발매 게임수가 더 많았는데 서드파티의 게임을 닌텐도가 판매하였기 때문이었다.
 

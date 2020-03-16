@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Let\'s Take A Walk](https://ko.wikipedia.org/wiki/Let\'s_Take_A_Walk).
 
 
-《**Let's Take a Walk**》는 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 어쿠스틱 편집 앨범이다. 인기를 끌었던 기존의 몇몇 곡들을 어쿠스틱 버전으로 편곡한 곡들이 수록되어 있다. 편곡한 곡 외에도 〈It's Okay〉, 〈Down〉등 신곡 2곡과 정규앨범에는 수록되지 않았으나 온라인에서 인기를 끌었던 〈연어가 되지 못한 채〉가 수록되어있다. [넬은](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 이 앨범으로 제5회 [한국대중음악상](https://ko.wikipedia.org/wiki/한국대중음악상 "wikilink")에서 네티즌이 뽑은 올해의 음악인으로 뽑혔다.
+《**Let's Take a Walk**》는 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 어쿠스틱 편집 앨범이다. 인기를 끌었던 기존의 몇몇 곡들을 어쿠스틱 버전으로 편곡한 곡들이 수록되어 있다. 편곡한 곡 외에도 〈It's Okay〉, 〈Down〉등 신곡 2곡과 정규앨범에는 수록되지 않았으나 온라인에서 인기를 끌었던 〈연어가 되지 못한 채〉가 수록되어있다. [넬은](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 이 앨범으로 제5회 [한국대중음악상](../Page/한국대중음악상.md "wikilink")에서 네티즌이 뽑은 올해의 음악인으로 뽑혔다.
 
 ## 수록곡
 

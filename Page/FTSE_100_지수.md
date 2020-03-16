@@ -7,17 +7,17 @@ FTSE는 의 약어이다. 이 주가 지수는 FTSE 그룹이 관리하는데, F
 
 FTSE 100에 오른 기업들은, [런던 증권거래소의](https://ko.wikipedia.org/wiki/런던_증권거래소 "wikilink") 총 시가총액의 80%를 차지한다. FTSE 올-섀어 인덱스가 좀 더 포괄적이기는 하지만, FTSE 100은 아직까지 영국 주식 시장을 대표하는 대표 지수이다. 관련 주가 지수로서는 FTSE 250 인덱스(FTSE 100 다음의 250개의 상장 기업을 나열한다.), [FTSE 350 인덱스](https://ko.wikipedia.org/wiki/FTSE_350_인덱스 "wikilink")(FTSE 100과 250를 합친 것이다.), FTSE 스몰캡 인덱스, FTSE 플레쥘링(FTSE Fledgling)이 있다. FTSE 올-섀어 인덱스는 FTSE 100, FTSE 250, FTSE 스몰캡을 모두 합친 것이다.
 
-FTSE 100 지수의 구성 기업은 매 분기마다 재검토된다; FTSE 250 지수에서 가장 시가 총액이 큰 기업이 FTSE 100 지수의 상위 90위에 해당하는 시각 총액을 갖고 있으면, 그 기업은 FTSE 100 지수로 편입된다. 2006년 기준으로, 그러한 기준 시가 총액은 29억 [영국 파운드£였다](https://ko.wikipedia.org/wiki/영국_파운드 "wikilink"). [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") 기준으로, FTSE 100 지수의 상위 6개 기업은 [BP](https://ko.wikipedia.org/wiki/BP_\(기업\) "wikilink"), [로얄 더치 셸](https://ko.wikipedia.org/wiki/로얄_더치_셸 "wikilink"), [HSBC](https://ko.wikipedia.org/wiki/HSBC "wikilink"), [보다폰 그룹](../Page/보다폰.md "wikilink"), 로열 뱅크 오브 스코틀랜드 그룹, 글락소스미스클라인이었으며, 모두 시가 총액이 각각 600억 [영국 파운드£를](https://ko.wikipedia.org/wiki/영국_파운드 "wikilink") 넘었다.
+FTSE 100 지수의 구성 기업은 매 분기마다 재검토된다; FTSE 250 지수에서 가장 시가 총액이 큰 기업이 FTSE 100 지수의 상위 90위에 해당하는 시각 총액을 갖고 있으면, 그 기업은 FTSE 100 지수로 편입된다. 2006년 기준으로, 그러한 기준 시가 총액은 29억 [영국 파운드£였다](https://ko.wikipedia.org/wiki/영국_파운드 "wikilink"). [2006년](../Page/2006년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") 기준으로, FTSE 100 지수의 상위 6개 기업은 [BP](../Page/BP_\(기업\).md "wikilink"), [로얄 더치 셸](https://ko.wikipedia.org/wiki/로얄_더치_셸 "wikilink"), [HSBC](../Page/HSBC.md "wikilink"), [보다폰 그룹](../Page/보다폰.md "wikilink"), 로열 뱅크 오브 스코틀랜드 그룹, 글락소스미스클라인이었으며, 모두 시가 총액이 각각 600억 [영국 파운드£를](https://ko.wikipedia.org/wiki/영국_파운드 "wikilink") 넘었다.
 
-FTSE 100 지수의 구성 기업은 [FTSE 그룹이](https://ko.wikipedia.org/wiki/FTSE_그룹 "wikilink") 정하는 몇 가지 규정을 지켜야 한다. "파운드 스털링" 혹은 "유로" 통화를 위주로 런던 증권거래소에 온전히 상장되어 있어야 하며, 국적, 자유 부동 주식 수량, 유동성 등의 분야에서 몇 가지 기준을 통과하여야 한다.
+FTSE 100 지수의 구성 기업은 [FTSE 그룹이](../Page/FTSE_그룹.md "wikilink") 정하는 몇 가지 규정을 지켜야 한다. "파운드 스털링" 혹은 "유로" 통화를 위주로 런던 증권거래소에 온전히 상장되어 있어야 하며, 국적, 자유 부동 주식 수량, 유동성 등의 분야에서 몇 가지 기준을 통과하여야 한다.
 
 나열된 기업들 중 대부분은, 이름 끝에 약어 [plc가](https://ko.wikipedia.org/wiki/퍼블릭_리미티드_컴패니 "wikilink") 붙는다. 이것은 그 기업이 퍼블릭 리미티드 컴패니라는 것을 의미한다.
 
-[1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [1월 3일](https://ko.wikipedia.org/wiki/1월_3일 "wikilink"), 기준 지수 1000에서부터 시작하였다. 지수의 최고 기록은 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [12월 30일의](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") 6950.6이었다. 주식 거래는 08:00-16:29까지이다. (16:29에 클로징 옥션이 시작된다.) 종가(closing values)는 16:35에 기록된다.
+[1984년](../Page/1984년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink"), 기준 지수 1000에서부터 시작하였다. 지수의 최고 기록은 [1999년](../Page/1999년.md "wikilink") [12월 30일의](../Page/12월_30일.md "wikilink") 6950.6이었다. 주식 거래는 08:00-16:29까지이다. (16:29에 클로징 옥션이 시작된다.) 종가(closing values)는 16:35에 기록된다.
 
 ## FTSE 100 기업
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") 리뷰 이후, FTSE 100 기업은 다음과 같다.
+[2007년](../Page/2007년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") 리뷰 이후, FTSE 100 기업은 다음과 같다.
 
 이 인덱스에는 100개의 기업이 나열되어 있다. 하지만 로열 더치 셸과 [슈로더](../Page/슈로더.md "wikilink")는 두 개의 다른 종류의 주식을 상장했으므로, 인덱스에는 102개의 주식이 나열되어 있다.
 
@@ -55,9 +55,9 @@ FTSE 100 지수의 구성 기업은 [FTSE 그룹이](https://ko.wikipedia.org/wi
 32. [퍼스트그룹](https://ko.wikipedia.org/wiki/퍼스트그룹 "wikilink")
 33. [Friends Provident](https://ko.wikipedia.org/wiki/Friends_Provident "wikilink")
 34. [G4S](https://ko.wikipedia.org/wiki/G4S "wikilink")
-35. [글락소스미스클라인](https://ko.wikipedia.org/wiki/글락소스미스클라인 "wikilink")
+35. [글락소스미스클라인](../Page/글락소스미스클라인.md "wikilink")
 36. [HBOS](https://ko.wikipedia.org/wiki/HBOS "wikilink")
-37. [HSBC](https://ko.wikipedia.org/wiki/HSBC "wikilink")
+37. [HSBC](../Page/HSBC.md "wikilink")
 38. [해머슨](https://ko.wikipedia.org/wiki/해머슨 "wikilink")
 39. [홈 리테일 그룹](https://ko.wikipedia.org/wiki/홈_리테일_그룹 "wikilink")
 40. [ICAP](https://ko.wikipedia.org/wiki/ICAP_\(기업\) "wikilink")
@@ -108,11 +108,11 @@ FTSE 100 지수의 구성 기업은 [FTSE 그룹이](https://ko.wikipedia.org/wi
 85. [스탠다드 차터드 뱅크](https://ko.wikipedia.org/wiki/SC제일은행 "wikilink")
 86. [스탠다드 라이프](https://ko.wikipedia.org/wiki/스탠다드_라이프 "wikilink")
 87. [테일러 윔피](https://ko.wikipedia.org/wiki/테일러_윔피 "wikilink")
-88. [테스코](https://ko.wikipedia.org/wiki/테스코 "wikilink")
+88. [테스코](../Page/테스코.md "wikilink")
 89. [토마스 쿡 그룹](https://ko.wikipedia.org/wiki/토마스_쿡_그룹 "wikilink")
 90. [TUI 트레블](https://ko.wikipedia.org/wiki/TUI_트레블_PLC "wikilink")
 91. [Tullow Oil](https://ko.wikipedia.org/wiki/Tullow_Oil "wikilink")
-92. [유니레버](https://ko.wikipedia.org/wiki/유니레버 "wikilink")
+92. [유니레버](../Page/유니레버.md "wikilink")
 93. [유나이티드 유틸리티즈](https://ko.wikipedia.org/wiki/유나이티드_유틸리티즈 "wikilink")
 94. [Vedanta Resources](https://ko.wikipedia.org/wiki/Vedanta_Resources "wikilink")
 95. [보다폰](../Page/보다폰.md "wikilink")
@@ -124,21 +124,21 @@ FTSE 100 지수의 구성 기업은 [FTSE 그룹이](https://ko.wikipedia.org/wi
 
 ## 시가 총액
 
-다음 표는 FTSE 100 지수 상위 33개 기업을 나열한다. 2007년 거래 종료일인 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") 기준으로, [시가 총액이](https://ko.wikipedia.org/wiki/시가_총액 "wikilink") 100억 [영국 파운드(£)가](https://ko.wikipedia.org/wiki/영국_파운드 "wikilink") 넘는 기업들이다.
+다음 표는 FTSE 100 지수 상위 33개 기업을 나열한다. 2007년 거래 종료일인 [2007년](../Page/2007년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 기준으로, [시가 총액이](https://ko.wikipedia.org/wiki/시가_총액 "wikilink") 100억 [영국 파운드(£)가](https://ko.wikipedia.org/wiki/영국_파운드 "wikilink") 넘는 기업들이다.
 
 | 순위 | 기업                                                                                            | 시가총액 (백만£) |
 | -- | --------------------------------------------------------------------------------------------- | ---------- |
 | 1  | [로얄 더치 셸](https://ko.wikipedia.org/wiki/로얄_더치_셸 "wikilink")                                   | 134,376.32 |
 | 2  | [BP](https://ko.wikipedia.org/wiki/BP_\(회사\) "wikilink")                                      | 116,722.52 |
-| 3  | [HSBC](https://ko.wikipedia.org/wiki/HSBC "wikilink")                                         | 99,573.75  |
+| 3  | [HSBC](../Page/HSBC.md "wikilink")                                                            | 99,573.75  |
 | 4  | [보다폰 그룹](../Page/보다폰.md "wikilink")                                                           | 98,837.71  |
-| 5  | [글락소스미스클라인](https://ko.wikipedia.org/wiki/글락소스미스클라인 "wikilink")                               | 71,305.15  |
+| 5  | [글락소스미스클라인](../Page/글락소스미스클라인.md "wikilink")                                                  | 71,305.15  |
 | 6  | [리오 틴토](../Page/리오_틴토.md "wikilink")\[1\]                                                     | 53,249.29  |
 | 7  | [로열 뱅크 오브 스코틀랜드 그룹](https://ko.wikipedia.org/wiki/로열_뱅크_오브_스코틀랜드_그룹 "wikilink")               | 44,741.32  |
 | 8  | [앵글로 아메리칸](https://ko.wikipedia.org/wiki/앵글로_아메리칸 "wikilink")                                 | 40,826.49  |
 | 9  | [브리티시 아메리칸 토바코](https://ko.wikipedia.org/wiki/브리티시_아메리칸_토바코 "wikilink")                       | 40,264.60  |
 | 10 | [BG 그룹](https://ko.wikipedia.org/wiki/BG_그룹 "wikilink")                                       | 38,663.88  |
-| 11 | [테스코](https://ko.wikipedia.org/wiki/테스코 "wikilink")                                           | 37,547.56  |
+| 11 | [테스코](../Page/테스코.md "wikilink")                                                              | 37,547.56  |
 | 12 | [BHP 빌튼](https://ko.wikipedia.org/wiki/BHP_빌튼 "wikilink")\[2\]                                | 35,131.42  |
 | 13 | [Xstrata](https://ko.wikipedia.org/wiki/Xstrata "wikilink")                                   | 34,494.18  |
 | 14 | [바클레이즈](https://ko.wikipedia.org/wiki/바클레이즈 "wikilink")                                       | 32,975.87  |
@@ -147,7 +147,7 @@ FTSE 100 지수의 구성 기업은 [FTSE 그룹이](https://ko.wikipedia.org/wi
 | 17 | [HBOS](https://ko.wikipedia.org/wiki/HBOS "wikilink")                                         | 27,543.08  |
 | 18 | [Lloyds TSB](https://ko.wikipedia.org/wiki/Lloyds_TSB "wikilink")                             | 26,574.59  |
 | 19 | [스탠다드 차터드](https://ko.wikipedia.org/wiki/스탠다드_차터드 "wikilink")                                 | 25,801.42  |
-| 20 | [유니레버](https://ko.wikipedia.org/wiki/유니레버 "wikilink")\[3\]                                    | 24,758.06  |
+| 20 | [유니레버](../Page/유니레버.md "wikilink")\[3\]                                                       | 24,758.06  |
 | 21 | [BT 그룹](https://ko.wikipedia.org/wiki/BT_그룹 "wikilink")                                       | 22,026.04  |
 | 22 | [National Grid](https://ko.wikipedia.org/wiki/National_Grid_plc "wikilink")                   | 21,690.25  |
 | 23 | [SABMiller](https://ko.wikipedia.org/wiki/SABMiller "wikilink")                               | 21,188.52  |
@@ -166,11 +166,11 @@ FTSE 100 지수의 구성 기업은 [FTSE 그룹이](https://ko.wikipedia.org/wi
 
 ## 같이 보기
 
-  - [코스피 지수](https://ko.wikipedia.org/wiki/코스피_지수 "wikilink")
+  - [코스피 지수](../Page/코스피_지수.md "wikilink")
   - [FTSE 250 인덱스](https://ko.wikipedia.org/wiki/FTSE_250_인덱스 "wikilink")
   - [주가 지수](https://ko.wikipedia.org/wiki/주가_지수 "wikilink")
   - [다우 존스 산업평균지수](../Page/다우_존스_산업평균지수.md "wikilink")
-  - [DAX](https://ko.wikipedia.org/wiki/DAX "wikilink")
+  - [DAX](../Page/DAX.md "wikilink")
   - [AEX index](https://ko.wikipedia.org/wiki/AEX_index "wikilink")
 
 ## 각주
@@ -189,4 +189,4 @@ FTSE 100 지수의 구성 기업은 [FTSE 그룹이](https://ko.wikipedia.org/wi
 
 1.  : [리오 틴토는](../Page/리오_틴토.md "wikilink") [듀얼 리스티드 컴패니이다](https://ko.wikipedia.org/wiki/듀얼_리스티드_컴패니 "wikilink"). 리오 틴토 Plc. (Rio Tinto Plc.)가 갖고 있는 메이저 주식만 대표한다.
 2.  : [BHP 빌튼는](https://ko.wikipedia.org/wiki/BHP_빌튼 "wikilink") 듀얼 리스티드 컴패니이다. BHP 빌리튼 Plc. 가 소유한 마이너 주식만 대표한다.
-3.  : [유니레버](https://ko.wikipedia.org/wiki/유니레버 "wikilink")는 듀얼 리스티드 컴패니이다. Unilever Plc. 가 소유한 마이너 주식만 대표한다.
+3.  : [유니레버](../Page/유니레버.md "wikilink")는 듀얼 리스티드 컴패니이다. Unilever Plc. 가 소유한 마이너 주식만 대표한다.

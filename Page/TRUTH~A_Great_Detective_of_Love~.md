@@ -5,7 +5,7 @@
 
 ## 개요
 
-TWO-MIX로는 처음이자 마지막이 되는 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》의 주제가가 된다. 성우인 [타카야마 미나미](https://ko.wikipedia.org/wiki/타카야마_미나미 "wikilink") 자신이 주인공 역할을 맡고 있는 것으로 화제가 되어, **[오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 3위**를 기록하였고, 첫 매상 약 10만장을 돌파하였다.
+TWO-MIX로는 처음이자 마지막이 되는 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》의 주제가가 된다. 성우인 [타카야마 미나미](../Page/타카야마_미나미.md "wikilink") 자신이 주인공 역할을 맡고 있는 것으로 화제가 되어, **[오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 3위**를 기록하였고, 첫 매상 약 10만장을 돌파하였다.
 
 초회한정 자켓(2종류)+통상 자켓(1종류)의 3종류가 동시 발매되어 3종류 전부 구매한 사람에게 특전으로 〈TRUTH·에도가와 코난 버전〉싱글 CD 증정 캠페인을 개최하였다. 또한, 클래식 베스트 앨범인 《*[Baroque Best](https://ko.wikipedia.org/wiki/Baroque_Best "wikilink")*》도 동시 발매되었다.
 
@@ -64,7 +64,7 @@ TWO-MIX로는 처음이자 마지막이 되는 《[명탐정 코난](https://ko.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
 <small>1998년 11월 16일 (124화) ~ 1999년 4월 26일 (142화)</small></p></td>
 </tr>
 <tr class="even">

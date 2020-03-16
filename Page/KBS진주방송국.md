@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
 
 
-**KBS진주방송국**(KBS晋州放送局)은 경남 서부지역을 방송권역으로 하는 [KBS 창원방송총국](https://ko.wikipedia.org/wiki/KBS_창원방송총국 "wikilink") 소속 산하의 지역방송국이며, [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 개국하였다.
+**KBS진주방송국**(KBS晋州放送局)은 경남 서부지역을 방송권역으로 하는 [KBS 창원방송총국](https://ko.wikipedia.org/wiki/KBS_창원방송총국 "wikilink") 소속 산하의 지역방송국이며, [1976년](../Page/1976년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 개국하였다.
 
 ## 역사
 
-[1962년](https://ko.wikipedia.org/wiki/1962년 "wikilink") [공보부](https://ko.wikipedia.org/wiki/공보부 "wikilink")는 완전 난청지대인 경남 진주일대에 중계소 신설을 발표하고 9월 착공에 들어가 [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") KBS진주 라디오 중계소로 개소하였다.\[1\] 이후 함양에 중계소가 개소하였으며, [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [6월 5일에는](https://ko.wikipedia.org/wiki/6월_5일 "wikilink") 하동 라디오 중계소가, [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink") 거창 라디오중계소 개소하였다. [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [12월 23일](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") 에는 진주 라디오 송신소가 개소하면서 지역방송에 들어갔으며, [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 진주 방송국이 개국하였다. [1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink") [7월 9일](https://ko.wikipedia.org/wiki/7월_9일 "wikilink") 진주 TV 중계소 (1TV)가 개소되어 TV시청이 가능해졌으며, [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [6월 4일](https://ko.wikipedia.org/wiki/6월_4일 "wikilink") [감악산에](https://ko.wikipedia.org/wiki/감악산_\(경남\) "wikilink") TV중계소가 설치되어 방송권역이 확대되었다. 같은해 [9월 15일에는](https://ko.wikipedia.org/wiki/9월_15일 "wikilink") 감악산 중계소에서 교육FM, 음악FM을 송출하기 시작했으며, [12월 24일에는](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") 망진산중계소에 2TV 중계기가 설치되어 진주, 사천, 하동, 산청, 의령 및 고성일대에도 2TV 시청이 가능해졌다.
+[1962년](../Page/1962년.md "wikilink") [공보부](https://ko.wikipedia.org/wiki/공보부 "wikilink")는 완전 난청지대인 경남 진주일대에 중계소 신설을 발표하고 9월 착공에 들어가 [12월 23일](../Page/12월_23일.md "wikilink") KBS진주 라디오 중계소로 개소하였다.\[1\] 이후 함양에 중계소가 개소하였으며, [1967년](../Page/1967년.md "wikilink") [6월 5일에는](../Page/6월_5일.md "wikilink") 하동 라디오 중계소가, [1971년](../Page/1971년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") 거창 라디오중계소 개소하였다. [1975년](../Page/1975년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink") 에는 진주 라디오 송신소가 개소하면서 지역방송에 들어갔으며, [1976년](../Page/1976년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 진주 방송국이 개국하였다. [1980년](../Page/1980년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink") 진주 TV 중계소 (1TV)가 개소되어 TV시청이 가능해졌으며, [1983년](../Page/1983년.md "wikilink") [6월 4일](../Page/6월_4일.md "wikilink") [감악산에](https://ko.wikipedia.org/wiki/감악산_\(경남\) "wikilink") TV중계소가 설치되어 방송권역이 확대되었다. 같은해 [9월 15일에는](../Page/9월_15일.md "wikilink") 감악산 중계소에서 교육FM, 음악FM을 송출하기 시작했으며, [12월 24일에는](../Page/12월_24일.md "wikilink") 망진산중계소에 2TV 중계기가 설치되어 진주, 사천, 하동, 산청, 의령 및 고성일대에도 2TV 시청이 가능해졌다.
 
 ### 진주방송국 로컬방송 개시
 
-[1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [11월 19일](https://ko.wikipedia.org/wiki/11월_19일 "wikilink") 사옥에 TV와 FM제작시설을 갖추고, 거창 방송스튜디오를 개소하면서 자체방송을 개시하였다. [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [6월 1일에는](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") KTA(한국전기통신공사)로 이관되었던 방송중계시설 (진주송신소, 망진산송신소, 감악산중계소 등 19개소)이 환원되었으며, [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [1월 18일에는](https://ko.wikipedia.org/wiki/1월_18일 "wikilink") 거창중계소 방송스튜디오를 폐소하였으며, [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [1월 20일에는](https://ko.wikipedia.org/wiki/1월_20일 "wikilink") 중계소 자체방송을 중단하였다. [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [2월 16일](https://ko.wikipedia.org/wiki/2월_16일 "wikilink") 망진산에 교육TV(현재 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")) 송출 시설을 준공하였으며, [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 진주방송국 사옥을 증축 하면서 연주소 및 거창중계소에 통합한 송출운용센터(하동,산청,함양,합천중계소 자동화)를 준공하였다. [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")에는 거창중계소를, [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")에는 감악산 중계소를 자동화 하였으며, [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에는 망진산 중계소에 1라디오 표준FM이 개국하였다.
+[1987년](../Page/1987년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") 사옥에 TV와 FM제작시설을 갖추고, 거창 방송스튜디오를 개소하면서 자체방송을 개시하였다. [1988년](../Page/1988년.md "wikilink") [6월 1일에는](../Page/6월_1일.md "wikilink") KTA(한국전기통신공사)로 이관되었던 방송중계시설 (진주송신소, 망진산송신소, 감악산중계소 등 19개소)이 환원되었으며, [1991년](../Page/1991년.md "wikilink") [1월 18일에는](../Page/1월_18일.md "wikilink") 거창중계소 방송스튜디오를 폐소하였으며, [1992년](../Page/1992년.md "wikilink") [1월 20일에는](../Page/1월_20일.md "wikilink") 중계소 자체방송을 중단하였다. [1994년](../Page/1994년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") 망진산에 교육TV(현재 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")) 송출 시설을 준공하였으며, [1995년](../Page/1995년.md "wikilink") [10월](../Page/10월.md "wikilink")에 진주방송국 사옥을 증축 하면서 연주소 및 거창중계소에 통합한 송출운용센터(하동,산청,함양,합천중계소 자동화)를 준공하였다. [1998년](../Page/1998년.md "wikilink") [11월](../Page/11월.md "wikilink")에는 거창중계소를, [1999년](../Page/1999년.md "wikilink") [11월](../Page/11월.md "wikilink")에는 감악산 중계소를 자동화 하였으며, [2002년](../Page/2002년.md "wikilink")에는 망진산 중계소에 1라디오 표준FM이 개국하였다.
 
 ### 디지털방송 개국
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") 망진산, 감악산중계소에 지상파 디지털 TV방송이 개국하였으며, 표준FM 개국으로 활용도가 낮아진 AM방송을 중계하던 하동중계소가 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 폐소되었다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink") 감악산에 지상파DMB 중계소가 설치되어 개국하였으며, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") 경남 서부지역에 지상파 아날로그 TV 방송을 종료하였고, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") 오후 2시에 경상남도 서부지역에서 디지털 주파수 재배치를 완료했다.
+[2006년](../Page/2006년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") 망진산, 감악산중계소에 지상파 디지털 TV방송이 개국하였으며, 표준FM 개국으로 활용도가 낮아진 AM방송을 중계하던 하동중계소가 [2008년](../Page/2008년.md "wikilink") [10월](../Page/10월.md "wikilink") 폐소되었다. [2011년](../Page/2011년.md "wikilink") [8월](../Page/8월.md "wikilink") 감악산에 지상파DMB 중계소가 설치되어 개국하였으며, [2012년](../Page/2012년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") 경남 서부지역에 지상파 아날로그 TV 방송을 종료하였고, [2013년](../Page/2013년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") 오후 2시에 경상남도 서부지역에서 디지털 주파수 재배치를 완료했다.
 
 ## 방송 송출 시설망
 
@@ -132,20 +132,20 @@ KBS 본사의 프로그램 및 KBS창원 보도 프로그램과 KBS진주의 자
 
 ## 현직 아나운서
 
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink")(프리랜서)입사 : [안유리](https://ko.wikipedia.org/wiki/안유리 "wikilink")
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink")(프리랜서)입사 : [하승주](https://ko.wikipedia.org/wiki/하승주 "wikilink")
+  - [2018년](../Page/2018년.md "wikilink")(프리랜서)입사 : [안유리](https://ko.wikipedia.org/wiki/안유리 "wikilink")
+  - [2019년](../Page/2019년.md "wikilink")(프리랜서)입사 : [하승주](https://ko.wikipedia.org/wiki/하승주 "wikilink")
 
 ## 전직 아나운서
 
   - [신석진](https://ko.wikipedia.org/wiki/신석진 "wikilink")(현 KBS 창원총국)
-  - [유지철](https://ko.wikipedia.org/wiki/유지철 "wikilink")(1997\~1998, 현 KBS서울본국)
-  - [이재후](https://ko.wikipedia.org/wiki/이재후_\(아나운서\) "wikilink")(1998\~1999, 현 KBS서울본국)
+  - [유지철](../Page/유지철.md "wikilink")(1997\~1998, 현 KBS서울본국)
+  - [이재후](../Page/이재후_\(아나운서\).md "wikilink")(1998\~1999, 현 KBS서울본국)
   - [문지숙](https://ko.wikipedia.org/wiki/문지숙 "wikilink")(전 KBS 창원총국)
   - [박소영](https://ko.wikipedia.org/wiki/박소영_\(아나운서\) "wikilink")(현 KBS 창원총국)
   - [김하희](https://ko.wikipedia.org/wiki/김하희 "wikilink")(2008\~2009 현 퇴사)
   - [양가희](https://ko.wikipedia.org/wiki/양가희 "wikilink")(2009\~2011 현 퇴사)
   - [이윤지](https://ko.wikipedia.org/wiki/이윤지_\(방송인\) "wikilink")(2011\~2012 현 YTN NEWS FM 아나운서)
-  - [박상연](https://ko.wikipedia.org/wiki/박상연 "wikilink")(2012\~2013 현 YTN 아나운서)
+  - [박상연](../Page/박상연.md "wikilink")(2012\~2013 현 YTN 아나운서)
   - [정준희](https://ko.wikipedia.org/wiki/정준희 "wikilink")(2013\~2014 현 KNN 아나운서)
   - [신재연](https://ko.wikipedia.org/wiki/신재연 "wikilink")(2013\~2016 현 퇴사)
   - [김동훈](https://ko.wikipedia.org/wiki/김동훈_\(1956년\) "wikilink")(1985\~2013 현 퇴사)

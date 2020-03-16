@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [H.263](https://ko.wikipedia.org/wiki/H.263).
 
 
-**H.263**은 화상 회의와 화상 전화를 응용하기 위한 영상 압축 코딩 표준 문서이다. [ITU-T](https://ko.wikipedia.org/wiki/ITU-T "wikilink") [영상 부호화 전문가 그룹](https://ko.wikipedia.org/wiki/영상_부호화_전문가_그룹 "wikilink")(VCEG)가 영상 부호화 표준인 H.26x 대의 한 구성원으로서 개발하였다. H.263은 초당 20K\~24K 비트처럼 낮은 대역폭에서의 [스트리밍 미디어를](https://ko.wikipedia.org/wiki/스트리밍_미디어 "wikilink") 위해 H.261 코덱 기반으로 개발되었다. H.261에 비해 절반의 대역폭으로 똑같은 화질을 얻을 수 있기 때문에 H.261을 대신해 범용으로 사용되며 비디오 스트리밍 전송을 위한 실시간 전송 프로토콜(RTP)에 사용되고 있다.
+**H.263**은 화상 회의와 화상 전화를 응용하기 위한 영상 압축 코딩 표준 문서이다. [ITU-T](../Page/ITU-T.md "wikilink") [영상 부호화 전문가 그룹](https://ko.wikipedia.org/wiki/영상_부호화_전문가_그룹 "wikilink")(VCEG)가 영상 부호화 표준인 H.26x 대의 한 구성원으로서 개발하였다. H.263은 초당 20K\~24K 비트처럼 낮은 대역폭에서의 [스트리밍 미디어를](https://ko.wikipedia.org/wiki/스트리밍_미디어 "wikilink") 위해 H.261 코덱 기반으로 개발되었다. H.261에 비해 절반의 대역폭으로 똑같은 화질을 얻을 수 있기 때문에 H.261을 대신해 범용으로 사용되며 비디오 스트리밍 전송을 위한 실시간 전송 프로토콜(RTP)에 사용되고 있다.
 
 [유튜브](../Page/유튜브.md "wikilink") 등의 동영상 공유 사이트에서 [플래시 비디오를](../Page/플래시_비디오.md "wikilink") 널리 사용하게 되면서 [소렌슨 스파크](https://ko.wikipedia.org/wiki/소렌슨_스파크 "wikilink") 코덱의 사용이 많아졌는데, 소렌슨 스파크는 H.263의 구현 중 한 가지이다.
 

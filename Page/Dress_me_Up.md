@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dress me Up](https://ko.wikipedia.org/wiki/Dress_me_Up).
 
 
-**Dress me Up**은 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [4월 19일에](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 4번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+**Dress me Up**은 [2000년](../Page/2000년.md "wikilink") [4월 19일에](../Page/4월_19일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 4번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 트랙리스트
 

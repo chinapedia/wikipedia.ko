@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [More \(\)](https://ko.wikipedia.org/wiki/More_\(\)).
 
 
-《**Music from the Film More**》는 [영화](../Page/영화.md "wikilink") 《[모어](https://ko.wikipedia.org/wiki/모어_\(영화\) "wikilink")》의 [오리지널 사운드 트랙이자](https://ko.wikipedia.org/wiki/오리지널_사운드_트랙 "wikilink") [핑크 플로이드의](https://ko.wikipedia.org/wiki/핑크_플로이드 "wikilink") 세 번째 공식 음반이다. [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") 7월 발매되었다. 13개의 비교적 짧은 곡들로 이루어져 있다.
+《**Music from the Film More**》는 [영화](../Page/영화.md "wikilink") 《[모어](https://ko.wikipedia.org/wiki/모어_\(영화\) "wikilink")》의 [오리지널 사운드 트랙이자](https://ko.wikipedia.org/wiki/오리지널_사운드_트랙 "wikilink") [핑크 플로이드의](../Page/핑크_플로이드.md "wikilink") 세 번째 공식 음반이다. [1969년](../Page/1969년.md "wikilink") 7월 발매되었다. 13개의 비교적 짧은 곡들로 이루어져 있다.
 
 [시드 배릿이](https://ko.wikipedia.org/wiki/시드_배릿 "wikilink") 탈퇴하고 처음으로 만든 음반이다. 8일 만에 녹음되었다.
 
@@ -11,13 +11,13 @@
 
 ### A면
 
-  - Cirrus Minor ([로저 워터스](https://ko.wikipedia.org/wiki/로저_워터스 "wikilink")) – 5:18
+  - Cirrus Minor ([로저 워터스](../Page/로저_워터스.md "wikilink")) – 5:18
   - The Nile Song (워터스) – 3:26
 
 :\* 이 음반에서 가장 많이 알려져있는 곡이다.
 
   - Crying Song (워터스) – 3:33
-  - Up The Khyber ([닉 메이슨](https://ko.wikipedia.org/wiki/닉_메이슨 "wikilink"), [리처드 라이트](https://ko.wikipedia.org/wiki/리처드_라이트_\(음악가\) "wikilink")) – 2:12
+  - Up The Khyber ([닉 메이슨](../Page/닉_메이슨.md "wikilink"), [리처드 라이트](../Page/리처드_라이트_\(음악가\).md "wikilink")) – 2:12
   - Green Is The Colour (워터스) – 2:58
   - Cymbaline (워터스) – 4:50
 
@@ -42,9 +42,9 @@
 ### 연주
 
   - [데이비드 길모어](../Page/데이비드_길모어.md "wikilink") : 기타, 보컬
-  - [로저 워터스](https://ko.wikipedia.org/wiki/로저_워터스 "wikilink") : 베이스
-  - [리처드 라이트](https://ko.wikipedia.org/wiki/리처드_라이트_\(음악가\) "wikilink") : 키보드, 비브라폰
-  - [닉 메이슨](https://ko.wikipedia.org/wiki/닉_메이슨 "wikilink") : 타악기, 드럼
+  - [로저 워터스](../Page/로저_워터스.md "wikilink") : 베이스
+  - [리처드 라이트](../Page/리처드_라이트_\(음악가\).md "wikilink") : 키보드, 비브라폰
+  - [닉 메이슨](../Page/닉_메이슨.md "wikilink") : 타악기, 드럼
 
 ### 제작
 

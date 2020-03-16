@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
 
 
-**판도라TV**는 2004년 10월에 서비스를 시작한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") UCC(User Created Contents)를 다루는 미디어 회사이다. 유튜브 보다 먼저 동영상 공유 사이트를 시작한 세계 최초의 무료 동영상 포털을 시작한 회사이기도 하다.
+**판도라TV**는 2004년 10월에 서비스를 시작한 [대한민국](../Page/대한민국.md "wikilink") UCC(User Created Contents)를 다루는 미디어 회사이다. 유튜브 보다 먼저 동영상 공유 사이트를 시작한 세계 최초의 무료 동영상 포털을 시작한 회사이기도 하다.
 
 주력 사업은 동영상을 통한 광고, 유료 디지털 콘텐츠 및 인터넷과 모바일을 통한 UCC 콘텐츠 공급이다. [판도라티비](http://www.pandora.tv/), [kmplayer](http://www.kmplayer.com/) , 에브리온 TV, prism 등의 플랫폼 서비스를 제공한다. [판도라티비](http://www.pandora.tv/)는 예능, 드라마, 애니메이션, 생활, 문화, 음악 등의 카테고리 별 동영상과 더불어 카카오톡 랭킹 채널, 블랙박스 채널, 대한민국 막장남녀 채널 등 국내 최다 800만 개의 동영상 데이터를 보유하고 있으며 1인 라이브 방송까지 가능한 글로벌 동영상 플랫폼이다.
 
-**판도라TV**는 2004년 UCC (User Created Contents) 동영상 공유 포털 사업을 세계 최초로 비즈니스 모델을 제시하였으며, 2005년 업계 최초 동영상 광고모델을 론칭하였다. **판도라TV** 일본 서비스 오픈을 시작으로 글로벌 시장을 공략하며, 2007년 제2회 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 인터넷 대상 우수상 수상 및 글로벌 미디어사 레드헤링으로부터 ‘2007 글로벌 경쟁력을 갖춘 100대 유망기업’으로 선정되기도 했다. [Altos Ventures](http://www.altosvc.com/), [DCM](http://www.dcm.com/), [SBI](http://www.sbigroup.co.jp/english/) 등의 글로벌 벤처캐피털(VC)들로부터 투자를 유치했으며, 국내외 UCC(User Created Contents 혹은 UGC, User Generated Contents) 시장을 유튜브와 함께 어깨를 나란히 하고 있다.
+**판도라TV**는 2004년 UCC (User Created Contents) 동영상 공유 포털 사업을 세계 최초로 비즈니스 모델을 제시하였으며, 2005년 업계 최초 동영상 광고모델을 론칭하였다. **판도라TV** 일본 서비스 오픈을 시작으로 글로벌 시장을 공략하며, 2007년 제2회 [대한민국](../Page/대한민국.md "wikilink") 인터넷 대상 우수상 수상 및 글로벌 미디어사 레드헤링으로부터 ‘2007 글로벌 경쟁력을 갖춘 100대 유망기업’으로 선정되기도 했다. [Altos Ventures](http://www.altosvc.com/), [DCM](http://www.dcm.com/), [SBI](http://www.sbigroup.co.jp/english/) 등의 글로벌 벤처캐피털(VC)들로부터 투자를 유치했으며, 국내외 UCC(User Created Contents 혹은 UGC, User Generated Contents) 시장을 유튜브와 함께 어깨를 나란히 하고 있다.
 
 2006년 글로벌 동영상 플레이어 [kmplayer](http://www.kmplayer.com/) 을 출시함과 동시에 전세계 230개국이 사용하는 글로벌 동영상 플레이어로 발돋음 하였으며, 동영상 플레이미디어 업계를 선두하고 있다.
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
 
 
-**선 텔레비전**은 [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [5월 1일에](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") 개국한 [효고현](https://ko.wikipedia.org/wiki/효고현 "wikilink")의 독립 UHF방송국이다. 약칭은 **SUN**, 콜사인은 JOUH-DTV이다.
+**선 텔레비전**은 [1969년](../Page/1969년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") 개국한 [효고현](../Page/효고현.md "wikilink")의 독립 UHF방송국이다. 약칭은 **SUN**, 콜사인은 JOUH-DTV이다.
 
 ## 방송국 개요
 
-  - 시청 가능 지역은 [효고현](https://ko.wikipedia.org/wiki/효고현 "wikilink")·[오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") 전역과 [교토부](https://ko.wikipedia.org/wiki/교토부 "wikilink")·[나라현](https://ko.wikipedia.org/wiki/나라현 "wikilink")·[와카야마현](https://ko.wikipedia.org/wiki/와카야마현 "wikilink")·[도쿠시마현](https://ko.wikipedia.org/wiki/도쿠시마현 "wikilink")·[가가와현](https://ko.wikipedia.org/wiki/가가와현 "wikilink")·[오카야마현](https://ko.wikipedia.org/wiki/오카야마현 "wikilink")·[돗토리현](https://ko.wikipedia.org/wiki/돗토리현 "wikilink") 일부이며 세대수로 환산하면 662만세대로 독립 UHF 방송국이 없는 [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink")·[도쿠시마현](https://ko.wikipedia.org/wiki/도쿠시마현 "wikilink")·[가가와현](https://ko.wikipedia.org/wiki/가가와현 "wikilink")·[오카야마현](https://ko.wikipedia.org/wiki/오카야마현 "wikilink")·[돗토리현](https://ko.wikipedia.org/wiki/돗토리현 "wikilink")에서도 시청자가 많다.
+  - 시청 가능 지역은 [효고현](../Page/효고현.md "wikilink")·[오사카부](../Page/오사카부.md "wikilink") 전역과 [교토부](../Page/교토부.md "wikilink")·[나라현](../Page/나라현.md "wikilink")·[와카야마현](../Page/와카야마현.md "wikilink")·[도쿠시마현](../Page/도쿠시마현.md "wikilink")·[가가와현](../Page/가가와현.md "wikilink")·[오카야마현](../Page/오카야마현.md "wikilink")·[돗토리현](../Page/돗토리현.md "wikilink") 일부이며 세대수로 환산하면 662만세대로 독립 UHF 방송국이 없는 [오사카부](../Page/오사카부.md "wikilink")·[도쿠시마현](../Page/도쿠시마현.md "wikilink")·[가가와현](../Page/가가와현.md "wikilink")·[오카야마현](../Page/오카야마현.md "wikilink")·[돗토리현](../Page/돗토리현.md "wikilink")에서도 시청자가 많다.
       - 간사이 이외의 지역에서 「선 텔레비전은 오사카 방송국」이라고 착각 하는 사람도 적지 않으며\[1\] 일본에서 최초로 **프로 야구 완전 생중계**를 개시한 방송국으로 유명하다.
 
 <!-- end list -->
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - 개성이 강한 지역광고를 많이 방송해 온 것으로 알려져 일본 지역 광고 전문가의 주목을 끌어 왔고 [효고현](https://ko.wikipedia.org/wiki/효고현 "wikilink")의 현역국이면서 오사카 부의 전역을 커버하고 있어서인지 지금도 오사카 부 의회에 관한 프로그램이 부정기적으로 방송되고 있다.
+  - 개성이 강한 지역광고를 많이 방송해 온 것으로 알려져 일본 지역 광고 전문가의 주목을 끌어 왔고 [효고현](../Page/효고현.md "wikilink")의 현역국이면서 오사카 부의 전역을 커버하고 있어서인지 지금도 오사카 부 의회에 관한 프로그램이 부정기적으로 방송되고 있다.
 
 <!-- end list -->
 
@@ -26,61 +26,61 @@
 
 ## 연혁
 
-  - [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") - 효고 텔레비전 방송 설립.
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [4월 15일](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") - 회사명을 선 텔레비전으로 변경.
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") - 방송 개시(본사 사옥은 [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 나가타구에 설치).
-  - [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") - 본사 사옥을 [포트 아일랜드로](https://ko.wikipedia.org/wiki/포트_아일랜드 "wikilink") 이전.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") - [음성다중방송](https://ko.wikipedia.org/wiki/음성다중방송 "wikilink") 실시, 이는 간사이의 [독립 UHF국중에서는](https://ko.wikipedia.org/wiki/전국_독립UHF방송_협의회 "wikilink") [교토 방송](https://ko.wikipedia.org/wiki/교토_방송 "wikilink"), [비와코 방송에](../Page/비와코_방송.md "wikilink") 이어 3번째로 실시한 것이다. 이 때부터 동사 제작의 프로 야구 중계 일부나 당시 판권을 구입해 방송하고 있던 스테레오 제작 프로그램의 [스테레오 방송을](https://ko.wikipedia.org/wiki/스테레오_방송 "wikilink") 개시한다.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [1월 17일](https://ko.wikipedia.org/wiki/1월_17일 "wikilink") - [한신·아와지 대지진](https://ko.wikipedia.org/wiki/한신·아와지_대지진 "wikilink") 발생, 1주일 간 광고 없이 방송을 실시한다. 1개월 후인 [2월 17일에는](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") [TV 아사히](../Page/TV_아사히.md "wikilink")「[뉴스 스테이션](https://ko.wikipedia.org/wiki/뉴스_스테이션 "wikilink")」을 선TV 제1스튜디오에서 전편 방송.
+  - [1968년](../Page/1968년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") - 효고 텔레비전 방송 설립.
+  - [1969년](../Page/1969년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") - 회사명을 선 텔레비전으로 변경.
+  - [1969년](../Page/1969년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") - 방송 개시(본사 사옥은 [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 나가타구에 설치).
+  - [1981년](../Page/1981년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") - 본사 사옥을 [포트 아일랜드로](https://ko.wikipedia.org/wiki/포트_아일랜드 "wikilink") 이전.
+  - [1992년](../Page/1992년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink") - [음성다중방송](https://ko.wikipedia.org/wiki/음성다중방송 "wikilink") 실시, 이는 간사이의 [독립 UHF국중에서는](https://ko.wikipedia.org/wiki/전국_독립UHF방송_협의회 "wikilink") [교토 방송](../Page/교토_방송.md "wikilink"), [비와코 방송에](../Page/비와코_방송.md "wikilink") 이어 3번째로 실시한 것이다. 이 때부터 동사 제작의 프로 야구 중계 일부나 당시 판권을 구입해 방송하고 있던 스테레오 제작 프로그램의 [스테레오 방송을](https://ko.wikipedia.org/wiki/스테레오_방송 "wikilink") 개시한다.
+  - [1995년](../Page/1995년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") - [한신·아와지 대지진](https://ko.wikipedia.org/wiki/한신·아와지_대지진 "wikilink") 발생, 1주일 간 광고 없이 방송을 실시한다. 1개월 후인 [2월 17일에는](../Page/2월_17일.md "wikilink") [TV 아사히](../Page/TV_아사히.md "wikilink")「[뉴스 스테이션](../Page/뉴스_스테이션.md "wikilink")」을 선TV 제1스튜디오에서 전편 방송.
       - 선TV도 이 프로그램을 내보내었기 때문에 긴키권에서는 [아사히 방송과](../Page/아사히_방송.md "wikilink") 선TV에서 같은 프로그램이 방송되었다.
-  - [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")- 교토 방송과 업무 제휴.
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") - 지상파 디지털 텔레비전 본방송 개시.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 1일](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") - 방송국의 신캐릭터와 코퍼레이트·슬로건을 발표.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 12일](https://ko.wikipedia.org/wiki/4월_12일 "wikilink") - HD 중계차를 투입, 선TV 첫 하이비전 방송인 일본 프로 야구 [한신](../Page/한신_타이거스.md "wikilink") vs [주니치전을](https://ko.wikipedia.org/wiki/주니치_드래곤스 "wikilink") 방송.
-  - [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") - [원세그](https://ko.wikipedia.org/wiki/원세그 "wikilink")방송을 개시.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") - 토우메이한 넷 6([tvk중심](../Page/TV_가나가와.md "wikilink"))에 참가.
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 24일](https://ko.wikipedia.org/wiki/7월_24일 "wikilink") - 아날로그 텔레비전 방송 종료
+  - [2001년](../Page/2001년.md "wikilink") [9월](../Page/9월.md "wikilink")- 교토 방송과 업무 제휴.
+  - [2004년](../Page/2004년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") - 지상파 디지털 텔레비전 본방송 개시.
+  - [2005년](../Page/2005년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") - 방송국의 신캐릭터와 코퍼레이트·슬로건을 발표.
+  - [2006년](../Page/2006년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") - HD 중계차를 투입, 선TV 첫 하이비전 방송인 일본 프로 야구 [한신](../Page/한신_타이거스.md "wikilink") vs [주니치전을](https://ko.wikipedia.org/wiki/주니치_드래곤스 "wikilink") 방송.
+  - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - [원세그](../Page/원세그.md "wikilink")방송을 개시.
+  - [2007년](../Page/2007년.md "wikilink") - 토우메이한 넷 6([tvk중심](../Page/TV_가나가와.md "wikilink"))에 참가.
+  - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - 아날로그 텔레비전 방송 종료
 
 ## 네트워크 변천사
 
-  - [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") - 개국. NHK에서 제작한 뉴스 프로그램과 간사이지역 준 중심국에서 방송하지 않은 니혼 TV · 후지 TV · NET TV(현 TV 아사히) 제작 프로그램 등을 방송하면서 독립 UHF 방송국으로 방송 시작
-  - [1971년](https://ko.wikipedia.org/wiki/1971년 "wikilink") [5월 17일](https://ko.wikipedia.org/wiki/5월_17일 "wikilink") - [NHK 고베 방송국에서](../Page/NHK_고베_방송국.md "wikilink") [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 방송을 시작하면서 NHK 제작 뉴스 프로그램 방송을 중단한다.
-  - [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") [3월 31일](https://ko.wikipedia.org/wiki/3월_31일 "wikilink") - 네트워크 준 중심방송국 네트워크 교체에 따라 마이니치 방송이 도쿄 12채널(지금의 TV 도쿄)과의 네트워크 관계를 해지하면서 도쿄 12채널 간사이지역 준 중심방송국이 되었고 이에 따라 도쿄 12채널 제작 프로그램이 많이 방송되기 시작하였다.
-  - [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") - [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink")에 TV 도쿄계열 방송국 [TV 오사카가](../Page/TV_오사카.md "wikilink") 개국하면서 다시 독립방송국이 되었고 이 해부터 [TV 가나가와](../Page/TV_가나가와.md "wikilink") (tvk) · [지바 TV](../Page/지바_TV.md "wikilink") · [TV 사이타마와](../Page/TV_사이타마.md "wikilink") 관계를 맺는다.
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") - [아사히 방송](../Page/아사히_방송.md "wikilink")(ABC)과 업무 제휴를 맺으면서 이에 따라 보도 협정이 채결되어 뉴스자료 공유가 가능해졌으며 이와 동시에 프로 야구 중계와 고교 야구 중계 도 시작했다.
-  - [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") - 토우메이한 넷 6([tvk중심](../Page/TV_가나가와.md "wikilink"))에 참가.
+  - [1969년](../Page/1969년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") - 개국. NHK에서 제작한 뉴스 프로그램과 간사이지역 준 중심국에서 방송하지 않은 니혼 TV · 후지 TV · NET TV(현 TV 아사히) 제작 프로그램 등을 방송하면서 독립 UHF 방송국으로 방송 시작
+  - [1971년](../Page/1971년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") - [NHK 고베 방송국에서](../Page/NHK_고베_방송국.md "wikilink") [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 방송을 시작하면서 NHK 제작 뉴스 프로그램 방송을 중단한다.
+  - [1975년](../Page/1975년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") - 네트워크 준 중심방송국 네트워크 교체에 따라 마이니치 방송이 도쿄 12채널(지금의 TV 도쿄)과의 네트워크 관계를 해지하면서 도쿄 12채널 간사이지역 준 중심방송국이 되었고 이에 따라 도쿄 12채널 제작 프로그램이 많이 방송되기 시작하였다.
+  - [1982년](../Page/1982년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") - [오사카부](../Page/오사카부.md "wikilink")에 TV 도쿄계열 방송국 [TV 오사카가](../Page/TV_오사카.md "wikilink") 개국하면서 다시 독립방송국이 되었고 이 해부터 [TV 가나가와](../Page/TV_가나가와.md "wikilink") (tvk) · [지바 TV](../Page/지바_TV.md "wikilink") · [TV 사이타마와](../Page/TV_사이타마.md "wikilink") 관계를 맺는다.
+  - [1985년](../Page/1985년.md "wikilink") - [아사히 방송](../Page/아사히_방송.md "wikilink")(ABC)과 업무 제휴를 맺으면서 이에 따라 보도 협정이 채결되어 뉴스자료 공유가 가능해졌으며 이와 동시에 프로 야구 중계와 고교 야구 중계 도 시작했다.
+  - [2007년](../Page/2007년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") - 토우메이한 넷 6([tvk중심](../Page/TV_가나가와.md "wikilink"))에 참가.
 
 ## 특징
 
   - 개국당시 아직 [NHK 고베 방송국](../Page/NHK_고베_방송국.md "wikilink") 종합 텔레비전 방송국이 개국하기 전이어서 개국 초창기에는 NHK에서 제작한 뉴스 프로그램을 방송하고 있었다.
-  - [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink") 일본 프로야구 사상 최장 경기인 「한신-야쿠르트」전을 경기가 시작한 오후 6시부터 다음날 오전 0시 41분까지 완전 중계했다.\[2\]
+  - [1992년](../Page/1992년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") 일본 프로야구 사상 최장 경기인 「한신-야쿠르트」전을 경기가 시작한 오후 6시부터 다음날 오전 0시 41분까지 완전 중계했다.\[2\]
   - 야구중계를 중심으로 하는 스포츠 중계가 많다는 평가와 달리 축구는 푸대접 받고있어 한신지역의 축구 팬을 중심으로 자주 비판받고 있다.
-  - [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [유니버시아드](../Page/유니버시아드.md "wikilink")가 고베에서 열렸을 때 중계권을 획득해 당시 11개 독립 UHF방송국에 중계상황을 전달했으며 이때 [NHK도](https://ko.wikipedia.org/wiki/일본방송협회 "wikilink") 생방송을 하고 있었지만 실제는 독립 UHF 방송국보다 5분 정도 늦었다.
+  - [1985년](../Page/1985년.md "wikilink") [유니버시아드](../Page/유니버시아드.md "wikilink")가 고베에서 열렸을 때 중계권을 획득해 당시 11개 독립 UHF방송국에 중계상황을 전달했으며 이때 [NHK도](../Page/일본방송협회.md "wikilink") 생방송을 하고 있었지만 실제는 독립 UHF 방송국보다 5분 정도 늦었다.
   - 낚시정보 프로그램을 제작하고 있어 「낚시의 선TV」라고 불리며 오사카·효고의 낚시 팬에게 명당 상황등 정확한 낚시 정보를 전하고 있다.
-  - [골프](https://ko.wikipedia.org/wiki/골프 "wikilink") 관련 프로그램도 많이 방송하고 있으며 그 중에는 당국과 [아사히 방송을](../Page/아사히_방송.md "wikilink") 중심으로 한 프로야구 해설자가 사회를 맡는 것도 많다.
+  - [골프](../Page/골프.md "wikilink") 관련 프로그램도 많이 방송하고 있으며 그 중에는 당국과 [아사히 방송을](../Page/아사히_방송.md "wikilink") 중심으로 한 프로야구 해설자가 사회를 맡는 것도 많다.
   - 디지털 방송을 위한 시설 정비를 위한 자금 조달 때문에 홈쇼핑 프로그램을 많이 하면서 홈쇼핑 프로그램이 많은 방송국으로 알려졌다.
   - [마이니치 방송과](../Page/마이니치_방송.md "wikilink") 같이 일기예보는 「**날씨의 소식**」이라는 프로그램명으로 방송되고 있다.\[3\]
 
 ### 한신·아와지 대지진 당시의 방송 체제
 
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [1월 17일](https://ko.wikipedia.org/wiki/1월_17일 "wikilink") 지진 발생 당시에는 아직 방송을 시작하기 전이어서 오전 5시 41분부터 테스트패턴 영상을 통한 시험 전파를 발사하기 시작한 지 5분밖에 되지 않았다. 그러나 송출기기에는 문제가 없어서 모아 두었던 테이프의 확인 작업을 거쳐 6시 30분부터 일기 예보, 6시 56분부터 방송개시영상 송출, 7시부터 평상시와 같이 방송을 실시했다.
+  - [1995년](../Page/1995년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") 지진 발생 당시에는 아직 방송을 시작하기 전이어서 오전 5시 41분부터 테스트패턴 영상을 통한 시험 전파를 발사하기 시작한 지 5분밖에 되지 않았다. 그러나 송출기기에는 문제가 없어서 모아 두었던 테이프의 확인 작업을 거쳐 6시 30분부터 일기 예보, 6시 56분부터 방송개시영상 송출, 7시부터 평상시와 같이 방송을 실시했다.
       - 그러나 본사에서는 사람이 좀처럼 모이지 않는 데다가 스프링클러가 작동해 방송국 내부가 침수 되는 등 재해 상황이 심했고 이로 인해 지진 재해 관련 방송을 실시할 수 없었다.
   - 그럼에도 불구하고, 오전 8시 14분 무렵부터 광고방송을 중단하고 첫 번째 지진 재해 관련 뉴스 프로그램을 방송하면서 이를 계기로 일반 프로그램을 모두 휴지 했으며 뉴스프로그램이 방송된 이후 얼마동안 일부 광고가 방송되었지만 오후 이후에는 광고를 완전히 중지하고 지진 재해 관련 뉴스에 전념했다.
   - 18일\~22일 사이 방송할 예정이었던 프로그램과 광고를 모두 중단한 이후 이른 아침부터 야간까지 일정한 시간 간격을 마련해 스튜디오에서 지진 재해 관련 정보를 아나운서외 거의 모든 사원·스탭이 교대로 방송했으며 스튜디오 방송이 중단된 시간대는 일기예보나 시가지 중계 영상을 필러영상으로 방송하였다.
   - 지진으로부터 1주일이 경과한 23일부터는 평소때의 편성으로 돌아왔지만 지진의 영향에 의해 방송을 할 수 없었던 프로그램의 대체 편성이나 지진 재해 관련 문자 정보를 제공했기 때문에 3월말까지는 변칙적인 프로그램 편성이 이어졌다.
-  - [2월 17일](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") [TV 아사히에서](../Page/TV_아사히.md "wikilink") 방송하고 있던 뉴스 프로그램 「[뉴스 스테이션](https://ko.wikipedia.org/wiki/뉴스_스테이션 "wikilink")」을 선 TV로부터 생방송했으며\[4\] 프로그램에서 「간사이에서는 선 TV에서도 방송되고 있습니다」라고 한 순간, 간사이에서는 아사히 방송의 시청률이 낮아지면서 선 TV의 시청률이 올랐다고 한다.
+  - [2월 17일](../Page/2월_17일.md "wikilink") [TV 아사히에서](../Page/TV_아사히.md "wikilink") 방송하고 있던 뉴스 프로그램 「[뉴스 스테이션](../Page/뉴스_스테이션.md "wikilink")」을 선 TV로부터 생방송했으며\[4\] 프로그램에서 「간사이에서는 선 TV에서도 방송되고 있습니다」라고 한 순간, 간사이에서는 아사히 방송의 시청률이 낮아지면서 선 TV의 시청률이 올랐다고 한다.
       - 다만 선TV가 프로그램 제작을 주도했음에도 불구하고 프로그램 제작자는 평소대로 TV 아사히와 ANN 가맹 각사로 표기되었고 선TV는 [세토나이카이 방송과](../Page/세토나이카이_방송.md "wikilink") 함께 「제작 협력국」으로 표기되었다.
-  - 그 후, 매년 [1월 17일에는](https://ko.wikipedia.org/wiki/1월_17일 "wikilink") 지진 관련 특별 프로그램을 이른 아침부터 장시간에 걸쳐 방송하고 있으며 특히 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에는 방송을 종료할 때까지 거의 모든 방송시간에 지진 재해 관련 특별프로를 방송했다.
+  - 그 후, 매년 [1월 17일에는](../Page/1월_17일.md "wikilink") 지진 관련 특별 프로그램을 이른 아침부터 장시간에 걸쳐 방송하고 있으며 특히 [1996년](../Page/1996년.md "wikilink")에는 방송을 종료할 때까지 거의 모든 방송시간에 지진 재해 관련 특별프로를 방송했다.
 
 ## TV 도쿄와의 관계
 
-개국 당초에는 [TV 도쿄](../Page/TV_도쿄.md "wikilink")(구·도쿄 12채널)와의 제휴를 강하게 해서 프로그램을 공동제작 할 때가 있었지만 [TXN](https://ko.wikipedia.org/wiki/TV_도쿄_네트워크 "wikilink")(당초 메가 TON 네트워크) 첫 번째 계열국으로 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") [TV 오사카](../Page/TV_오사카.md "wikilink")(TVO)가 개국한 이후에는 [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink")\[5\] 지역 TV 오사카 시청자 확보를 위해 TV도쿄 계열 프로그램 전달이 과거 프로그램 재방송을 제외하면 모두 중지되었으며, 이로 인해 발생한 프로그램 부족에 의한 경영난이 현재까지도 계속 되고 있다.\[6\]
+개국 당초에는 [TV 도쿄](../Page/TV_도쿄.md "wikilink")(구·도쿄 12채널)와의 제휴를 강하게 해서 프로그램을 공동제작 할 때가 있었지만 [TXN](https://ko.wikipedia.org/wiki/TV_도쿄_네트워크 "wikilink")(당초 메가 TON 네트워크) 첫 번째 계열국으로 [1982년](../Page/1982년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") [TV 오사카](../Page/TV_오사카.md "wikilink")(TVO)가 개국한 이후에는 [오사카부](../Page/오사카부.md "wikilink")\[5\] 지역 TV 오사카 시청자 확보를 위해 TV도쿄 계열 프로그램 전달이 과거 프로그램 재방송을 제외하면 모두 중지되었으며, 이로 인해 발생한 프로그램 부족에 의한 경영난이 현재까지도 계속 되고 있다.\[6\]
 
-한편, TV 오사카를 수신할 수 없는 지역에서는 TV도쿄계열 BS디지털 방송인 [BS JAPAN을](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink") 수신하지 않는 한 TV 도쿄 프로그램을 전혀 시청 할 수 없어서 불만의 소리도 적지 않다. 일부 지역에서는 [오카야마현](https://ko.wikipedia.org/wiki/오카야마현 "wikilink")과 [가가와현](https://ko.wikipedia.org/wiki/가가와현 "wikilink")을 방송구역으로 하는 TXN계열 방송국 [TV 세토우치를](../Page/TV_세토우치.md "wikilink") 직접 수신하거나 케이블 텔레비전을 통한 구역 외 재발송신을 통해 시청이 가능한 지역도 있지만 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") 아날로그 방송이 종료하면 현재 상태로서는 법정 방송구역외의 재발송신을 그만두도록 간사이 지역을 방송구역으로 하는 4방송국이 압력을 가하고 있어 나중에는 수신할 수 없을 가능성이 있다. 또한 TV 오카사 시청 가능 지역이 오사카쪽으로 좁아질 가능성이 있어 지금까지 TV 오사카를 수신할 수 있던 [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 대부분 지역과 아와지섬 동부도 시청 할 수 없을 가능성이 있다.\[7\]
+한편, TV 오사카를 수신할 수 없는 지역에서는 TV도쿄계열 BS디지털 방송인 [BS JAPAN을](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink") 수신하지 않는 한 TV 도쿄 프로그램을 전혀 시청 할 수 없어서 불만의 소리도 적지 않다. 일부 지역에서는 [오카야마현](../Page/오카야마현.md "wikilink")과 [가가와현](../Page/가가와현.md "wikilink")을 방송구역으로 하는 TXN계열 방송국 [TV 세토우치를](../Page/TV_세토우치.md "wikilink") 직접 수신하거나 케이블 텔레비전을 통한 구역 외 재발송신을 통해 시청이 가능한 지역도 있지만 [2011년](../Page/2011년.md "wikilink") 아날로그 방송이 종료하면 현재 상태로서는 법정 방송구역외의 재발송신을 그만두도록 간사이 지역을 방송구역으로 하는 4방송국이 압력을 가하고 있어 나중에는 수신할 수 없을 가능성이 있다. 또한 TV 오카사 시청 가능 지역이 오사카쪽으로 좁아질 가능성이 있어 지금까지 TV 오사카를 수신할 수 있던 [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 대부분 지역과 아와지섬 동부도 시청 할 수 없을 가능성이 있다.\[7\]
 
-이런 상황에서 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink") TV 도쿄의 정례 기자 회견에서 아날로그 방송이 종료하는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")부터 현재 [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink")로 방송국역이 한정된 TV 오사카의 방송구역을 [효고현](https://ko.wikipedia.org/wiki/효고현 "wikilink")이나 [교토부](https://ko.wikipedia.org/wiki/교토부 "wikilink")까지 확대한다는 구상이 발표했지만, 2019년 현재까지 특별한 움직임은 없으며,\[8\] 만일 이 계획이 실현될 경우, 일방적으로 프로그램 구입을 중지당했던 선TV나 교토 방송에서 강한 반발을 할 것으로 예상된다.
+이런 상황에서 [2007년](../Page/2007년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink") TV 도쿄의 정례 기자 회견에서 아날로그 방송이 종료하는 [2011년](../Page/2011년.md "wikilink")부터 현재 [오사카부](../Page/오사카부.md "wikilink")로 방송국역이 한정된 TV 오사카의 방송구역을 [효고현](../Page/효고현.md "wikilink")이나 [교토부](../Page/교토부.md "wikilink")까지 확대한다는 구상이 발표했지만, 2019년 현재까지 특별한 움직임은 없으며,\[8\] 만일 이 계획이 실현될 경우, 일방적으로 프로그램 구입을 중지당했던 선TV나 교토 방송에서 강한 반발을 할 것으로 예상된다.
 
-## [효고현](https://ko.wikipedia.org/wiki/효고현 "wikilink")에 있는 다른 텔레비전·라디오 방송국
+## [효고현](../Page/효고현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 
   - [NHK 고베 방송국](../Page/NHK_고베_방송국.md "wikilink")
   - [라디오 간사이](../Page/라디오_간사이.md "wikilink")(CRK)(독립 라디오 방송국)
@@ -103,6 +103,6 @@
 3.  과거에는 [아사히 방송도](../Page/아사히_방송.md "wikilink") 이 프로그램명으로 일기 예보를 방송하고 있었다
 4.  TV 아사히 계열국의 [아사히 방송과](../Page/아사히_방송.md "wikilink") 선TV가 제휴국이었다는 것이 직접적인 이유로 아사히 방송에서도 이 프로그램을 방송하게 되었으며 그 덕분에 같은 지역을 방송구역으로 하는 방송국끼리 같은 프로그램을 동시에 방송하는 드문 일이 일어났다.
 5.  선 TV는 오사카부 전역에서도 시청 가능
-6.  그러나 [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink")부터 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")까지 뉴스 프로그램은 동시에 방송되었으며 비록 TV 오사카에서 3개월전에 방송한 것이지만 일부 일반 프로그램도 계속 방송되었으나 [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") 9월을 기점으로 모두 중지되었다. 이로 인해 선 TV와 TV 도쿄의 관계는 완전히 끊어진것처럼 보이지만 예외적으로 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 1월 [쇼와 천황](https://ko.wikipedia.org/wiki/쇼와_천황 "wikilink") 사망 특별프로는 특례적으로 TV 도쿄제작 프로그램을 송출했으며 [고베 시와의](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 관계 때문에 한시기 TV도쿄의 복권 프로그램이 방송된 적이 있었다.
-7.  이와 비슷한 상황을 겪을 수 있는곳은 [기후현](https://ko.wikipedia.org/wiki/기후현 "wikilink")·[미에현](https://ko.wikipedia.org/wiki/미에현 "wikilink")·[교토부](https://ko.wikipedia.org/wiki/교토부 "wikilink")의 일부 지역, [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink") 동부 지방 전역과 그 이외의 일부 지역([TV 홋카이도참조](../Page/TV_홋카이도.md "wikilink")), [오카야마현](https://ko.wikipedia.org/wiki/오카야마현 "wikilink")·[가가와현](https://ko.wikipedia.org/wiki/가가와현 "wikilink") 일부 지역, 그리고 [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink")의 일부 지역에도 있다. 하지만 홋카이도, 오카야마 현, 가가와 현, 후쿠오카 현은 현지 TXN 계열국 중계국이 없는 경우여서 향후 개설되는 디지털 중계국이나 위성 재발송신으로 해소될 가능성도 있지만 시청자가 적은 곳은 디지털 중계국이 설치되지 않을 가능성도 있다.
-8.  그 밖에도 [미야기현](https://ko.wikipedia.org/wiki/미야기현 "wikilink")·[시즈오카현](https://ko.wikipedia.org/wiki/시즈오카현 "wikilink")·[히로시마현](https://ko.wikipedia.org/wiki/히로시마현 "wikilink")에서의 계열국 설치 구상도 발표.
+6.  그러나 [1982년](../Page/1982년.md "wikilink")부터 [1984년](../Page/1984년.md "wikilink")까지 뉴스 프로그램은 동시에 방송되었으며 비록 TV 오사카에서 3개월전에 방송한 것이지만 일부 일반 프로그램도 계속 방송되었으나 [1984년](../Page/1984년.md "wikilink") 9월을 기점으로 모두 중지되었다. 이로 인해 선 TV와 TV 도쿄의 관계는 완전히 끊어진것처럼 보이지만 예외적으로 [1989년](../Page/1989년.md "wikilink") 1월 [쇼와 천황](../Page/쇼와_천황.md "wikilink") 사망 특별프로는 특례적으로 TV 도쿄제작 프로그램을 송출했으며 [고베 시와의](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 관계 때문에 한시기 TV도쿄의 복권 프로그램이 방송된 적이 있었다.
+7.  이와 비슷한 상황을 겪을 수 있는곳은 [기후현](../Page/기후현.md "wikilink")·[미에현](../Page/미에현.md "wikilink")·[교토부](../Page/교토부.md "wikilink")의 일부 지역, [홋카이도](../Page/홋카이도.md "wikilink") 동부 지방 전역과 그 이외의 일부 지역([TV 홋카이도참조](../Page/TV_홋카이도.md "wikilink")), [오카야마현](../Page/오카야마현.md "wikilink")·[가가와현](../Page/가가와현.md "wikilink") 일부 지역, 그리고 [후쿠오카현](../Page/후쿠오카현.md "wikilink")의 일부 지역에도 있다. 하지만 홋카이도, 오카야마 현, 가가와 현, 후쿠오카 현은 현지 TXN 계열국 중계국이 없는 경우여서 향후 개설되는 디지털 중계국이나 위성 재발송신으로 해소될 가능성도 있지만 시청자가 적은 곳은 디지털 중계국이 설치되지 않을 가능성도 있다.
+8.  그 밖에도 [미야기현](../Page/미야기현.md "wikilink")·[시즈오카현](../Page/시즈오카현.md "wikilink")·[히로시마현](../Page/히로시마현.md "wikilink")에서의 계열국 설치 구상도 발표.
