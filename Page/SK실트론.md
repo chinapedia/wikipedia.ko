@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
 
 
-**SK실트론**(SK Siltron)은 실리콘 웨이퍼 제조를 주 사업으로 하는 [SK그룹](https://ko.wikipedia.org/wiki/SK그룹 "wikilink")의 계열사이다.
+**SK실트론**(SK Siltron)은 실리콘 웨이퍼 제조를 주 사업으로 하는 [SK그룹](../Page/SK그룹.md "wikilink")의 계열사이다.
 
 ## 연혁
 
@@ -31,6 +31,6 @@
 
 ## 같이 보기
 
-  - [SK그룹](https://ko.wikipedia.org/wiki/SK그룹 "wikilink")
+  - [SK그룹](../Page/SK그룹.md "wikilink")
 
 [분류:SK의 자회사](https://ko.wikipedia.org/wiki/분류:SK의_자회사 "wikilink") [분류:LG의 이전 자회사](https://ko.wikipedia.org/wiki/분류:LG의_이전_자회사 "wikilink") [코실](https://ko.wikipedia.org/wiki/분류:1983년_설립 "wikilink")

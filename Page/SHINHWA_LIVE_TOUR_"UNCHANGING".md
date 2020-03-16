@@ -95,7 +95,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>2016 SHINHWA LIVE 《UNCHANGING》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/6월_23일" title="wikilink">6월 23일</a></li>
+<li>발매일 : <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/6월_23일.md" title="wikilink">6월 23일</a></li>
 <li>수록 : 고양시 KINTEX 제 1전시장 5홀</li>
 </ul></td>
 </tr>
@@ -120,7 +120,7 @@
 <td style="text-align: left;"><p>블루레이</p></td>
 <td style="text-align: left;"><p>2016 SHINHWA LIVE 《UNCHANGING》 Blu-ray</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/8월_1일" title="wikilink">8월 1일</a></li>
+<li>발매일 : <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/8월_1일.md" title="wikilink">8월 1일</a></li>
 <li>수록 : 고양시 KINTEX 제 1전시장 5홀</li>
 </ul></td>
 </tr>

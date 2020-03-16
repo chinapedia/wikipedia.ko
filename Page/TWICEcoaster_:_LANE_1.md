@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [TWICEcoaster : LANE 1](https://ko.wikipedia.org/wiki/TWICEcoaster_:_LANE_1).
 
 
-《**TWICEcoaster : LANE 1**》(트와이스코스터 레인 원)은 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 세 번째 [미니 앨범이다](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink"). 타이틀곡은 〈[TT](https://ko.wikipedia.org/wiki/TT_\(노래\) "wikilink")〉이며, 데뷔 1주년 4일 후인 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 24일에](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") 발매되었다.
+《**TWICEcoaster : LANE 1**》(트와이스코스터 레인 원)은 [걸 그룹](../Page/걸_그룹.md "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 세 번째 [미니 앨범이다](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink"). 타이틀곡은 〈[TT](../Page/TT_\(노래\).md "wikilink")〉이며, 데뷔 1주년 4일 후인 [2016년](../Page/2016년.md "wikilink") [10월 24일에](../Page/10월_24일.md "wikilink") 발매되었다.
 
-2017년 1월 3일, "TT" 뮤직비디오는 공개 72일만에 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") 1억뷰를 돌파했다. 2017년 2월 20일, 리패키지 앨범 《[TWICEcoaster : LANE 2](https://ko.wikipedia.org/wiki/TWICEcoaster_:_LANE_2 "wikilink")》가 발매되었다. 2017년 5월 26일, "TT" 뮤직비디오가 유튜브 2억 조회수를 돌파했으며, 이는 대한민국 여성 가수 중 최초 기록이다.\[1\]
+2017년 1월 3일, "TT" 뮤직비디오는 공개 72일만에 [유튜브](../Page/유튜브.md "wikilink") 1억뷰를 돌파했다. 2017년 2월 20일, 리패키지 앨범 《[TWICEcoaster : LANE 2](../Page/TWICEcoaster_:_LANE_2.md "wikilink")》가 발매되었다. 2017년 5월 26일, "TT" 뮤직비디오가 유튜브 2억 조회수를 돌파했으며, 이는 대한민국 여성 가수 중 최초 기록이다.\[1\]
 
 ## 영상
 
@@ -27,27 +27,27 @@
 
 ### "TT" 뮤직비디오
 
-2016년 10월 23일, 앨범 발매와 동시에 뮤직비디오가 공개됐다. 10월에 있는 [할로윈](https://ko.wikipedia.org/wiki/할로윈 "wikilink")데이에 맞춰, 뮤직비디오 컨셉은 할로윈이다. 멤버들은 각기 다른 캐릭터로 분장했다.
+2016년 10월 23일, 앨범 발매와 동시에 뮤직비디오가 공개됐다. 10월에 있는 [할로윈](../Page/할로윈.md "wikilink")데이에 맞춰, 뮤직비디오 컨셉은 할로윈이다. 멤버들은 각기 다른 캐릭터로 분장했다.
 
   - 나연 - 악마
-  - 정연 - [피노키오](https://ko.wikipedia.org/wiki/피노키오 "wikilink")
+  - 정연 - [피노키오](../Page/피노키오.md "wikilink")
   - 모모 - [팅커벨](https://ko.wikipedia.org/wiki/팅커벨 "wikilink")
-  - 사나 - 힛 걸 (영화 《[킥 애스](https://ko.wikipedia.org/wiki/킥_애스:_영웅의_탄생 "wikilink")》)
+  - 사나 - 힛 걸 (영화 《[킥 애스](../Page/킥_애스:_영웅의_탄생.md "wikilink")》)
   - 지효 - 하얀 여왕 (이상한 나라의 앨리스), 엘사 (《[겨울왕국](../Page/겨울왕국.md "wikilink")》)
-  - 미나 - 해적 (영화 《[캐리비안의 해적](https://ko.wikipedia.org/wiki/캐리비안의_해적_\(영화_시리즈\) "wikilink")》)
+  - 미나 - 해적 (영화 《[캐리비안의 해적](../Page/캐리비안의_해적_\(영화_시리즈\).md "wikilink")》)
   - 다현 - 토끼 (이상한 나라의 앨리스)
   - 채영 - 인어공주
   - 쯔위 - 뱀파이어
 
 뮤직비디오 후반부에서 노크를 한 것은 트와이스 멤버들이였다. 2017년 2월 20일 "KNOCK KNOCK" 뮤직비디오가 공개되면서 확인되었다.
 
-"OOH-AHH하게"와 "CHEER UP"의 뮤직비디오를 맡았던 스튜디오 나이브(Naive)가 총괄했다.\[2\] 뮤직비디오 공개 하루 만에 [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink") 500만 뷰 이상을 기록했으며, 공개 40시간 만에 유튜브 1000만 뷰를 경신하여, 트와이스는 뮤직비디오 천 만뷰를 가장 빨리 경신한 [케이팝](https://ko.wikipedia.org/wiki/케이팝 "wikilink") 그룹이 되었다. 이어 114시간 만에 2천만 뷰를 경신해, 뮤직비디오 2천만 뷰를 가장 빨리 경신한 [케이팝](https://ko.wikipedia.org/wiki/케이팝 "wikilink") 그룹도 되었다.\[3\]\[4\]\[5\]\[6\]
+"OOH-AHH하게"와 "CHEER UP"의 뮤직비디오를 맡았던 스튜디오 나이브(Naive)가 총괄했다.\[2\] 뮤직비디오 공개 하루 만에 [유튜브](../Page/유튜브.md "wikilink") 500만 뷰 이상을 기록했으며, 공개 40시간 만에 유튜브 1000만 뷰를 경신하여, 트와이스는 뮤직비디오 천 만뷰를 가장 빨리 경신한 [케이팝](https://ko.wikipedia.org/wiki/케이팝 "wikilink") 그룹이 되었다. 이어 114시간 만에 2천만 뷰를 경신해, 뮤직비디오 2천만 뷰를 가장 빨리 경신한 [케이팝](https://ko.wikipedia.org/wiki/케이팝 "wikilink") 그룹도 되었다.\[3\]\[4\]\[5\]\[6\]
 
 2016년 11월 14일, 공개 22일 만에 케이팝 아이돌 최단 기간 유튜브 5천만 뷰를 돌파했다.\[7\] 2017년 1월 3일, "TT" 뮤직비디오는 공개 72일 만에 유튜브 1억 뷰를 돌파했다. 종전 1위였던 "CHEER UP" 뮤비의 1억 뷰 달성 207일 기록을 깨면서, 다시 한 번 케이팝 아이돌 중 최단기간 유튜브 1억 조회수를 달성했다. 2017년 5월 26일, "TT" 뮤직비디오는 공개 약 6개월 만에 유튜브 2억 조회수를 돌파했으며, 이는 대한민국 여성 가수 중 최초 기록이다.\[8\]
 
 ## 음반 판매
 
-2016년 10월 30일 14시 기준, 초동 판매 9만 4천여 장을 넘어 역대 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") 최고 초동 판매량 1위를 하게 되었다. 종전 1위는 걸그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 *[The Boys](https://ko.wikipedia.org/wiki/The_Boys "wikilink")* 로, 판매 수량은 6만 7천 100여 장이었다. 이어 발매 1주일 만에 16만5천여 장의 앨범 판매고를 올리며, 걸 그룹 가운데 2016년 최다 음반 판매량을 기록했다.\[9\]
+2016년 10월 30일 14시 기준, 초동 판매 9만 4천여 장을 넘어 역대 [걸 그룹](../Page/걸_그룹.md "wikilink") 최고 초동 판매량 1위를 하게 되었다. 종전 1위는 걸그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 *[The Boys](https://ko.wikipedia.org/wiki/The_Boys "wikilink")* 로, 판매 수량은 6만 7천 100여 장이었다. 이어 발매 1주일 만에 16만5천여 장의 앨범 판매고를 올리며, 걸 그룹 가운데 2016년 최다 음반 판매량을 기록했다.\[9\]
 
 2016년 12월 19일 *TWICECOASTER : LANE 1 CHRISTMAS EDITION* 이 발매되었다. 수록곡은 기존 버전과 차이가 없다. 예약 판매로 11만 5천장 이상이 판매되었다.\[10\]
 
@@ -88,7 +88,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>대한민국 <a href="https://ko.wikipedia.org/wiki/가온_디지털_차트" title="wikilink">가온 디지털 차트</a></p></td>
+<td><p>대한민국 <a href="../Page/가온_디지털_차트.md" title="wikilink">가온 디지털 차트</a></p></td>
 <td><p>1</p></td>
 <td><p>[12]</p></td>
 </tr>
@@ -128,7 +128,7 @@
 <td><p>[19]</p></td>
 </tr>
 <tr class="odd">
-<td><p>일본 <a href="https://ko.wikipedia.org/wiki/재팬_핫_100" title="wikilink">빌보드 재팬 핫 100</a></p></td>
+<td><p>일본 <a href="../Page/재팬_핫_100.md" title="wikilink">빌보드 재팬 핫 100</a></p></td>
 <td><p>15</p></td>
 <td><p>[20]</p></td>
 </tr>
@@ -363,18 +363,18 @@
 
 ## 외부 링크
 
-  - [TWICEcoaster : LANE 1](https://web.archive.org/web/20170614221836/http://music.naver.com/album/index.nhn?albumId=1114513) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
-  - [TWICEcoaster : LANE 1](https://web.archive.org/web/20161026183713/http://www.melon.com/album/detail.htm?albumId=10008861) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(온라인_음악_서비스\) "wikilink")
-  - ["TT" MV](https://www.youtube.com/watch?v=ePpPVE-GGJw) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [TWICEcoaster : LANE 1](https://web.archive.org/web/20170614221836/http://music.naver.com/album/index.nhn?albumId=1114513) - [네이버](../Page/네이버.md "wikilink") 뮤직
+  - [TWICEcoaster : LANE 1](https://web.archive.org/web/20161026183713/http://www.melon.com/album/detail.htm?albumId=10008861) - [멜론](../Page/멜론_\(온라인_음악_서비스\).md "wikilink")
+  - ["TT" MV](https://www.youtube.com/watch?v=ePpPVE-GGJw) - [유튜브](../Page/유튜브.md "wikilink")
 
 ### 티저
 
-  - ["TT" MV 티저 1](https://www.youtube.com/watch?v=n81_X8-YOn8) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
-  - ["TT" MV 티저 2](https://www.youtube.com/watch?v=Aync13iI9Hs) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - ["TT" MV 티저 1](https://www.youtube.com/watch?v=n81_X8-YOn8) - [유튜브](../Page/유튜브.md "wikilink")
+  - ["TT" MV 티저 2](https://www.youtube.com/watch?v=Aync13iI9Hs) - [유튜브](../Page/유튜브.md "wikilink")
 
 <!-- end list -->
 
-  - 멤버 별 티저 - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - 멤버 별 티저 - [유튜브](../Page/유튜브.md "wikilink")
 
 <!-- end list -->
 

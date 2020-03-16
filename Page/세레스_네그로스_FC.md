@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**세레스 네그로스 풋볼 클럽**, 약칭 **세레스 풋볼 클럽**은 필리핀의 최고 리그인 [유나이티드 풋볼 리그 디비전 1에](https://ko.wikipedia.org/wiki/유나이티드_풋볼_리그_디비전_1 "wikilink") 소속되어 있고, [서네그로스 주](https://ko.wikipedia.org/wiki/서네그로스_주 "wikilink") [바콜로드](https://ko.wikipedia.org/wiki/바콜로드 "wikilink")에 위치한 축구단이다. 세레스 FC는 [서네그로스 주 축구 협회](https://ko.wikipedia.org/wiki/서네그로스_주_축구_협회 "wikilink") 구단 중 하나이고, 원래 구단명은 **세레스 라 살 풋볼 클럽**이었다.
+**세레스 네그로스 풋볼 클럽**, 약칭 **세레스 풋볼 클럽**은 필리핀의 최고 리그인 [유나이티드 풋볼 리그 디비전 1에](https://ko.wikipedia.org/wiki/유나이티드_풋볼_리그_디비전_1 "wikilink") 소속되어 있고, [서네그로스 주](https://ko.wikipedia.org/wiki/서네그로스_주 "wikilink") [바콜로드](../Page/바콜로드.md "wikilink")에 위치한 축구단이다. 세레스 FC는 [서네그로스 주 축구 협회](https://ko.wikipedia.org/wiki/서네그로스_주_축구_협회 "wikilink") 구단 중 하나이고, 원래 구단명은 **세레스 라 살 풋볼 클럽**이었다.
 
 구단 이름 세레스는 리키 레오 얀손과 레오 레이 얀손이 소유하고 필리핀의 [네그로스 섬](https://ko.wikipedia.org/wiki/네그로스_섬 "wikilink") 지역 최대 지상 수송 회사인 [발라카 운송 주식회사가](https://ko.wikipedia.org/wiki/발라카_운송_주식회사 "wikilink") 운영하는 [세레스 라이너](https://ko.wikipedia.org/wiki/세레스_라이너 "wikilink") 버스 노선에서 따왔다. *라 살*은 구단과 가장 인접한 바콜로드의 [세인트 라 살 대학교의](../Page/세인트_라_살_대학교.md "wikilink") 이름에서 유래했다. 구단 경기장은 바콜로드에 위치한 파나드 경기장이다.
 
@@ -43,7 +43,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/AFC_프레지던트컵_2014" title="wikilink">2014</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/AFC_프레지던트컵" title="wikilink">AFC 프레지던트컵</a></p></td>
+<td><p><a href="../Page/AFC_프레지던트컵.md" title="wikilink">AFC 프레지던트컵</a></p></td>
 <td><p>B조</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/리명수체육단" title="wikilink">리명수</a></p></td>
@@ -102,10 +102,10 @@
 
 ## 유니폼 제조사와 셔츠 스폰서
 
-| 기간      | 유니폼 제조사                                               | 셔츠 후원사                                                  |
-| ------- | ----------------------------------------------------- | ------------------------------------------------------- |
-| 2012–16 | [아디다스](https://ko.wikipedia.org/wiki/아디다스 "wikilink") | [세레스](https://ko.wikipedia.org/wiki/세레스_라이너 "wikilink") |
-| 2016–   | [푸마](https://ko.wikipedia.org/wiki/푸마 "wikilink")     |                                                         |
+| 기간      | 유니폼 제조사                            | 셔츠 후원사                                                  |
+| ------- | ---------------------------------- | ------------------------------------------------------- |
+| 2012–16 | [아디다스](../Page/아디다스.md "wikilink") | [세레스](https://ko.wikipedia.org/wiki/세레스_라이너 "wikilink") |
+| 2016–   | [푸마](../Page/푸마.md "wikilink")     |                                                         |
 
 ## 임원
 

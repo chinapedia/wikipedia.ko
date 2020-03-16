@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
 
 
-**캐나디안 디비전** (Canadian Division)은 1926년부터 1938년까지 [NHL에](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") 존재했던 디비전이다.
+**캐나디안 디비전** (Canadian Division)은 1926년부터 1938년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
 
 ## 역대 캐나디안 디비전 라인업
 
@@ -16,32 +16,32 @@
 <tbody>
 <tr class="odd">
 <td><p>1926년~1927년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/오타와_세너터스_(1883년).md" title="wikilink">오타와 세너터스</a> {{·}}  <a href="../Page/토론토_세인트_패트릭스.md" title="wikilink">토론토 세인트 패트릭스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/오타와_세너터스_(1883년).md" title="wikilink">오타와 세너터스</a> {{·}}  <a href="../Page/토론토_세인트_패트릭스.md" title="wikilink">토론토 세인트 패트릭스</a></p></td>
 <td><p>5팀</p></td>
 </tr>
 <tr class="even">
 <td><p>1927년~1931년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/오타와_세너터스_(1883년).md" title="wikilink">오타와 세너터스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/오타와_세너터스_(1883년).md" title="wikilink">오타와 세너터스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1931년~1932년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
 <td><p>4팀</p></td>
 </tr>
 <tr class="even">
 <td><p>1932년~1934년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/오타와_세너터스_(1883년).md" title="wikilink">오타와 세너터스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/오타와_세너터스_(1883년).md" title="wikilink">오타와 세너터스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
 <td><p>5팀</p></td>
 </tr>
 <tr class="odd">
 <td><p>1934년~1935년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/세인트루이스_이글스.md" title="wikilink">세인트루이스 이글스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/세인트루이스_이글스.md" title="wikilink">세인트루이스 이글스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1935년~1938년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/몬트리올_마룬스.md" title="wikilink">몬트리올 마룬스</a> {{·}}  <a href="../Page/뉴욕_아메리칸스.md" title="wikilink">뉴욕 아메리칸스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
 <td><p>4팀</p></td>
 </tr>
 </tbody>
@@ -63,7 +63,7 @@
 </tr>
 <tr class="even">
 <td><p>1927~1928</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1928~1929</p></td>
@@ -75,7 +75,7 @@
 </tr>
 <tr class="odd">
 <td><p>1930~1931</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1931~1932</p></td>
@@ -99,7 +99,7 @@
 </tr>
 <tr class="odd">
 <td><p>1936~1937</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1937~1938</p></td>
@@ -120,7 +120,7 @@
 <tbody>
 <tr class="odd">
 <td><p>5회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4회</p></td>
@@ -153,7 +153,7 @@
 </tr>
 <tr class="even">
 <td><p>1929~1930</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1930~1931</p></td>

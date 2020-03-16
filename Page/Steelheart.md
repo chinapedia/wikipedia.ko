@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Steelheart](https://ko.wikipedia.org/wiki/Steelheart).
 
 
-〈**Steelheart**〉는 [스틸하트](https://ko.wikipedia.org/wiki/스틸하트 "wikilink")의 음반이다. 1990년 5월 10일 출시되었으며 나중에 1991년 새로운 커버와 함께 재발매되었다. [빌보드 200에서](https://ko.wikipedia.org/wiki/빌보드_200 "wikilink") 40위에 오르기도 했다. 이 음반은 1991년 [미국 음반 산업 협회](https://ko.wikipedia.org/wiki/미국_음반_산업_협회 "wikilink")(RIAA)에 의해 골드 인증을 받았다.\[1\]
+〈**Steelheart**〉는 [스틸하트](https://ko.wikipedia.org/wiki/스틸하트 "wikilink")의 음반이다. 1990년 5월 10일 출시되었으며 나중에 1991년 새로운 커버와 함께 재발매되었다. [빌보드 200에서](../Page/빌보드_200.md "wikilink") 40위에 오르기도 했다. 이 음반은 1991년 [미국 음반 산업 협회](../Page/미국_음반_산업_협회.md "wikilink")(RIAA)에 의해 골드 인증을 받았다.\[1\]
 
 ## 트랙 목록
 

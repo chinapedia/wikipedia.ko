@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FM](https://ko.wikipedia.org/wiki/_FM).
 
 
-**김묘선의 FM모닝쇼**는 [대구MBC FM4U](https://ko.wikipedia.org/wiki/대구문화방송 "wikilink")(FM 95.3㎒)에서 매일 오전 7시부터 오전 9시까지 방송되는 대구·경북 지역의 아침정보 라디오 프로그램이다.
+**김묘선의 FM모닝쇼**는 [대구MBC FM4U](../Page/대구문화방송.md "wikilink")(FM 95.3㎒)에서 매일 오전 7시부터 오전 9시까지 방송되는 대구·경북 지역의 아침정보 라디오 프로그램이다.
 
 ## 코너소개
 
@@ -77,9 +77,9 @@
 
 ## 같이 보기
 
-  - [대구문화방송](https://ko.wikipedia.org/wiki/대구문화방송 "wikilink")
-  - [MBC FM4U](https://ko.wikipedia.org/wiki/MBC_FM4U "wikilink")
-  - [굿모닝FM 장성규입니다](https://ko.wikipedia.org/wiki/굿모닝FM "wikilink")
+  - [대구문화방송](../Page/대구문화방송.md "wikilink")
+  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
+  - [굿모닝FM 장성규입니다](../Page/굿모닝FM.md "wikilink")
 
 ## 외부 링크
 

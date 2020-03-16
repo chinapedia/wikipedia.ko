@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LOL \( \)](https://ko.wikipedia.org/wiki/LOL_\(_\)).
 
 
-**LOL**(원래 표기는 **LOL \<(^^,)\>**)은 [베이스헌터](https://ko.wikipedia.org/wiki/베이스헌터 "wikilink")의 [정규 음반으로](https://ko.wikipedia.org/wiki/정규_음반 "wikilink"), [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [9월 1일에](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") 발매되었다.
+**LOL**(원래 표기는 **LOL \<(^^,)\>**)은 [베이스헌터](../Page/베이스헌터.md "wikilink")의 [정규 음반으로](../Page/정규_음반.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 발매되었다.
 
 ## 수록곡
 

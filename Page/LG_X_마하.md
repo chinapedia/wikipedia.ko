@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG X ](https://ko.wikipedia.org/wiki/LG_X_).
 
 
-**LG X 마하**는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") 출시한 중저가형 스마트폰이다. 중저가형이지만 [G4와](../Page/LG_G4.md "wikilink") 성능이 비슷한 것이 특징이며, 지문 인식이 탑재되었다. [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")에는 **X 패스트**라는 이름으로 출시되었다.\[1\] [퀄컴](https://ko.wikipedia.org/wiki/퀄컴 "wikilink") [스냅드래곤](https://ko.wikipedia.org/wiki/스냅드래곤 "wikilink") 808이 탑재되었지만 고속 충전과 퀵차지를 지원하지 않아서 논란이 일기도 하였다.
+**LG X 마하**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") 출시한 중저가형 스마트폰이다. 중저가형이지만 [G4와](../Page/LG_G4.md "wikilink") 성능이 비슷한 것이 특징이며, 지문 인식이 탑재되었다. [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")에는 **X 패스트**라는 이름으로 출시되었다.\[1\] [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") 808이 탑재되었지만 고속 충전과 퀵차지를 지원하지 않아서 논란이 일기도 하였다.
 
 ## 운영 체제 / 소프트웨어
 
@@ -13,7 +13,7 @@ LG X 마하는 [안드로이드 6.0.1 마시멜로를](https://ko.wikipedia.org/
 
 ### 오토 셀피
 
-자동으로 얼굴을 인식하여 셀카를 촬영하는 기능이다. 기존 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink") 스마트폰에 탑재되었던 제스쳐 샷에서 발전된 기능이다.
+자동으로 얼굴을 인식하여 셀카를 촬영하는 기능이다. 기존 [LG전자](../Page/LG전자.md "wikilink") 스마트폰에 탑재되었던 제스쳐 샷에서 발전된 기능이다.
 
 ### 지문 인식
 

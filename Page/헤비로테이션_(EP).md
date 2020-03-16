@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ \(EP\)](https://ko.wikipedia.org/wiki/_\(EP\)).
 
 
-《**헤비로테이션**》(, )은 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")의 걸 그룹 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 첫 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+《**헤비로테이션**》(, )은 [중국](../Page/중국.md "wikilink")의 걸 그룹 [SNH48](../Page/SNH48.md "wikilink")의 첫 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 개요
 
-주상 음악(久尚音乐)에서 2013년 6월 13일에 홍판과 남판\[1\] 두 가지 버전을 발매했다. 특전으로 선발 멤버 생사진 1장(16명 중에서 랜덤으로 1장)이 봉입되어 있다. 노래의 가사는 후렴의 결정적인 대사 이외에는 [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink")로 번역되고 있다.
+주상 음악(久尚音乐)에서 2013년 6월 13일에 홍판과 남판\[1\] 두 가지 버전을 발매했다. 특전으로 선발 멤버 생사진 1장(16명 중에서 랜덤으로 1장)이 봉입되어 있다. 노래의 가사는 후렴의 결정적인 대사 이외에는 [중국어](../Page/중국어.md "wikilink")로 번역되고 있다.
 
 노래의 센터 포지션은 탕민이 맡고 있다.
 

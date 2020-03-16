@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SAWAGELIFE](https://ko.wikipedia.org/wiki/SAWAGELIFE).
 
 
-〈**SAWAGE☆LIFE**〉(사와게라이프, )는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [7월 30일에](https://ko.wikipedia.org/wiki/7월_30일 "wikilink") 발매된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 가수 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") [디지털 싱글이다](https://ko.wikipedia.org/wiki/디지털_싱글 "wikilink").
+〈**SAWAGE☆LIFE**〉(사와게라이프, )는 [2016년](../Page/2016년.md "wikilink") [7월 30일에](../Page/7월_30일.md "wikilink") 발매된 [일본](../Page/일본.md "wikilink") 가수 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") [디지털 싱글이다](https://ko.wikipedia.org/wiki/디지털_싱글 "wikilink").
 
-또, 발매 당일부터 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》의 닫는 곡으로도 사용.
+또, 발매 당일부터 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》의 닫는 곡으로도 사용.
 
 ## 수록곡
 
@@ -12,7 +12,7 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/일본의_애니메이션" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="https://ko.wikipedia.org/wiki/명탐정_코난_(애니메이션)" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 닫는 곡<br />
+<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 닫는 곡<br />
 <small>2016년 7월 30일 (827화) ~ 12월 10일 (842화) <em>(예정)</em></small></p></td>
 </tr>
 <tr class="even">

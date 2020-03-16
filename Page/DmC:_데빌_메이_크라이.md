@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [DmC:   ](https://ko.wikipedia.org/wiki/DmC:___).
 
 
-《**DmC: 데빌 메이 크라이**》()는 [닌자 시어리가](https://ko.wikipedia.org/wiki/닌자_시어리 "wikilink") 제작하고 [캡콤](https://ko.wikipedia.org/wiki/캡콤 "wikilink")이 배급한 액션 어드벤처 게임으로, [플레이스테이션 3](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink"), [엑스박스 360](https://ko.wikipedia.org/wiki/엑스박스_360 "wikilink"), [마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 전용으로 만들어졌다.
+《**DmC: 데빌 메이 크라이**》()는 [닌자 시어리가](../Page/닌자_시어리.md "wikilink") 제작하고 [캡콤](../Page/캡콤.md "wikilink")이 배급한 액션 어드벤처 게임으로, [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [엑스박스 360](../Page/엑스박스_360.md "wikilink"), [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 전용으로 만들어졌다.
 
-《[데빌 메이 크라이 시리즈](https://ko.wikipedia.org/wiki/데빌_메이_크라이 "wikilink")》의 다섯번째 작품으로, 주인공은 전작들처럼 [단테지만](../Page/단테_\(데빌_메이_크라이\).md "wikilink") 속편이 아니라 평행 세계의 외전 작품이자 리부트 작품이다. 이에 따라 단테의 외형 및 설정이 변경되었다.
+《[데빌 메이 크라이 시리즈](../Page/데빌_메이_크라이.md "wikilink")》의 다섯번째 작품으로, 주인공은 전작들처럼 [단테지만](../Page/단테_\(데빌_메이_크라이\).md "wikilink") 속편이 아니라 평행 세계의 외전 작품이자 리부트 작품이다. 이에 따라 단테의 외형 및 설정이 변경되었다.
 
 ## 각주
 

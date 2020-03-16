@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [   vs. ](https://ko.wikipedia.org/wiki/___vs._).
 
 
-《**극장판 염신전대 고온저 vs. 게키레인저**》()는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 24일보다](https://ko.wikipedia.org/wiki/1월_24일 "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink") 계열에서 공개된 일본 영화 작품이다. 특수 촬영 히어로 프로그램 〈[슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/슈퍼_전대_시리즈 "wikilink")〉《[염신전대 고온저](https://ko.wikipedia.org/wiki/염신전대_고온저 "wikilink")》의 영화화 작품이며, 슈퍼전대 vs. 시리즈의 하나이다.
+《**극장판 염신전대 고온저 vs. 게키레인저**》()는 [2009년](../Page/2009년.md "wikilink") [1월 24일보다](../Page/1월_24일.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink") 계열에서 공개된 일본 영화 작품이다. 특수 촬영 히어로 프로그램 〈[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")〉《[염신전대 고온저](../Page/염신전대_고온저.md "wikilink")》의 영화화 작품이며, 슈퍼전대 vs. 시리즈의 하나이다.
 
 ## 개요
 
-21세기의 슈퍼 전대 시리즈는 여름에 극장판 상영, 이듬해 봄에 전년도의 전대와 협연하는 슈퍼 전대 V시네마(이하, V시네마)의 공개라는 형태가 정착되어 있다. 《[염신전대 고온저](https://ko.wikipedia.org/wiki/염신전대_고온저 "wikilink")》와 《[수권전대 게키레인저](https://ko.wikipedia.org/wiki/수권전대_게키레인저 "wikilink")》가 공연하는 본 작품도 처음에는 예전 V시네마로 DVD대여·발매만을 예정하고 있었지만, 2008년 12월, 릴리스에 처음 형태로 2009년 1월 24일보다 〈신춘 슈퍼 전대제〉틀로서 극장 공개되는 것이 급히 결정한다.
+21세기의 슈퍼 전대 시리즈는 여름에 극장판 상영, 이듬해 봄에 전년도의 전대와 협연하는 슈퍼 전대 V시네마(이하, V시네마)의 공개라는 형태가 정착되어 있다. 《[염신전대 고온저](../Page/염신전대_고온저.md "wikilink")》와 《[수권전대 게키레인저](../Page/수권전대_게키레인저.md "wikilink")》가 공연하는 본 작품도 처음에는 예전 V시네마로 DVD대여·발매만을 예정하고 있었지만, 2008년 12월, 릴리스에 처음 형태로 2009년 1월 24일보다 〈신춘 슈퍼 전대제〉틀로서 극장 공개되는 것이 급히 결정한다.
 
 이는 영화 서두에서 「본작이 V시네마 통산 15번째 작품인 것을 기념하다」로 회자됐지만 그 해 1월 17일보다 도에이 계열에서 극장 공개될 예정이었던 영화 《후우케몬》의 상영 중단에 따른 대체 조치의 의미도 담긴다. 이 때문에 본작의 영화 감상 예매권은 발매되지 않고 관람 요금도 특별 설정이었다. 또 V시네마로 발매도 예년의 일정으로 열렸기에 결과적으로 공개 개시부터 2개월 미만이라는 이례적인 속도에서 DVD발매됐다.
 
@@ -23,11 +23,11 @@
 
   - 에스미 소우스케/고온 레드 : [후루하라 야스히사](https://ko.wikipedia.org/wiki/후루하라_야스히사 "wikilink")
   - 코사카 렌/고온 블루 : [카타오카 신와](https://ko.wikipedia.org/wiki/카타오카_신와 "wikilink")
-  - 로우야마 사키/고온 옐로 : [아이자와 리나](https://ko.wikipedia.org/wiki/아이자와_리나 "wikilink")
+  - 로우야마 사키/고온 옐로 : [아이자와 리나](../Page/아이자와_리나.md "wikilink")
   - 죠 한토/고온 그린 : [우스히 마사히로](https://ko.wikipedia.org/wiki/우스히_마사히로 "wikilink")
   - 이사하라 군페이/고온 블랙 : [에비사와 켄지](../Page/에비사와_켄지.md "wikilink")
   - 스토 히로토/고온 골드 : 토쿠야마 히데노리
-  - 스토 미우/고온 실버 : [스기모토 유미](https://ko.wikipedia.org/wiki/스기모토_유미 "wikilink")
+  - 스토 미우/고온 실버 : [스기모토 유미](../Page/스기모토_유미.md "wikilink")
   - 칸도 쟝/게키 레드 : [스즈키 히로키](https://ko.wikipedia.org/wiki/스즈키_히로키 "wikilink")
   - 우자키 란/게키 옐로 : [후쿠이 미나](https://ko.wikipedia.org/wiki/후쿠이_미나 "wikilink")
   - 후카미 레츠/게키 블루 : [다카키 만페이](https://ko.wikipedia.org/wiki/다카키_만페이 "wikilink")
@@ -40,17 +40,17 @@
 
   - 마하(엔진 레드)/후카미 고우(와일드 바이올렛) : [변현우](https://ko.wikipedia.org/wiki/변현우 "wikilink")
   - 렌/엔진 블루 : [정재헌](https://ko.wikipedia.org/wiki/정재헌 "wikilink")
-  - 써니/엔진 옐로 : [박지윤](https://ko.wikipedia.org/wiki/박지윤_\(성우\) "wikilink")
-  - 죠/엔진 그린 : [엄상현](https://ko.wikipedia.org/wiki/엄상현 "wikilink")
-  - 알렉스/엔진 블랙 : [사성웅](https://ko.wikipedia.org/wiki/사성웅 "wikilink")
+  - 써니/엔진 옐로 : [박지윤](../Page/박지윤_\(성우\).md "wikilink")
+  - 죠/엔진 그린 : [엄상현](../Page/엄상현.md "wikilink")
+  - 알렉스/엔진 블랙 : [사성웅](../Page/사성웅.md "wikilink")
   - 히로/엔진 골드 : [신용우](https://ko.wikipedia.org/wiki/신용우 "wikilink")
-  - 미우/엔진 실버 : [서유리](https://ko.wikipedia.org/wiki/서유리 "wikilink")
-  - 칸도 쟝/와일드 레드 : [홍범기](https://ko.wikipedia.org/wiki/홍범기 "wikilink")
-  - 우자키 란/와일드 옐로 : [윤미나](https://ko.wikipedia.org/wiki/윤미나 "wikilink")
-  - 후카미 레츠/와일드 블루 : [전광주](https://ko.wikipedia.org/wiki/전광주 "wikilink")
+  - 미우/엔진 실버 : [서유리](../Page/서유리.md "wikilink")
+  - 칸도 쟝/와일드 레드 : [홍범기](../Page/홍범기.md "wikilink")
+  - 우자키 란/와일드 옐로 : [윤미나](../Page/윤미나.md "wikilink")
+  - 후카미 레츠/와일드 블루 : [전광주](../Page/전광주.md "wikilink")
   - 히사츠 켄 /와일드 라이노 : [김기흥](https://ko.wikipedia.org/wiki/김기흥 "wikilink")
   - 리오/와일드 블랙, 마수터 샤푸 : [양석정](https://ko.wikipedia.org/wiki/양석정 "wikilink")
-  - 메레(와일드 그린) : [이지현](https://ko.wikipedia.org/wiki/이지현_\(성우\) "wikilink")
+  - 메레(와일드 그린) : [이지현](../Page/이지현_\(성우\).md "wikilink")
 
 ## 외부 링크
 

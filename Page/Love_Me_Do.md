@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Love Me Do](https://ko.wikipedia.org/wiki/Love_Me_Do).
 
 
-〈**Love Me Do**〉는 영국의 록 밴드 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 첫 번째 싱글이며 뒷면은 〈[P.S. I Love You](../Page/P.S._I_Love_You_\(비틀즈의_노래\).md "wikilink")〉이다. 1962년 10월 5일 영국에 발매되었을 때는 17위까지 올랐다. 1982년 재홍보(동일한 카탈로그 번호를 유지하기 때문에, 재발매는 아니다) 때에는 4위까지 올랐다. 미국에서는 1964년 1위에 올랐다.
+〈**Love Me Do**〉는 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 첫 번째 싱글이며 뒷면은 〈[P.S. I Love You](../Page/P.S._I_Love_You_\(비틀즈의_노래\).md "wikilink")〉이다. 1962년 10월 5일 영국에 발매되었을 때는 17위까지 올랐다. 1982년 재홍보(동일한 카탈로그 번호를 유지하기 때문에, 재발매는 아니다) 때에는 4위까지 올랐다. 미국에서는 1964년 1위에 올랐다.
 
-노래는 녹음되기 전 몇해에 걸쳐 썼으며 비틀즈라는 그룹이 생기기 전에 존재했다. 싱글은 존 레논의 하모니카 연주와 그와 폴 매카트니와의 듀엣 보컬을 특징으로 삼는다. 또한 비틀즈가 제각기 달리 녹음한 세 버전이 발매되었고 모두 드럼 연주자가 다르다. 2013년 유럽에서는 [퍼블릭 도메인이](https://ko.wikipedia.org/wiki/퍼블릭_도메인 "wikilink") 되었다.\[1\]
+노래는 녹음되기 전 몇해에 걸쳐 썼으며 비틀즈라는 그룹이 생기기 전에 존재했다. 싱글은 존 레논의 하모니카 연주와 그와 폴 매카트니와의 듀엣 보컬을 특징으로 삼는다. 또한 비틀즈가 제각기 달리 녹음한 세 버전이 발매되었고 모두 드럼 연주자가 다르다. 2013년 유럽에서는 [퍼블릭 도메인이](../Page/퍼블릭_도메인.md "wikilink") 되었다.\[1\]
 
 ## 작곡
 
@@ -13,7 +13,7 @@
 
 ## 녹음
 
-〈Love Me Do〉는 1962년 북런던의 세인트 존스 우드 지역에 위치한 EMI의 [애비 로드 스튜디오에서](https://ko.wikipedia.org/wiki/애비_로드_스튜디오 "wikilink") 각각 다른 날짜에 세 번에 걸쳐 녹음했다. 6월 6일 레논, 매카트니, 해리슨, 베스트는 프로듀서 조지 마틴과 론 리처즈, 엔지니어 노먼 스미스의 지휘 아래 오후 6시부터 녹음을 시작했다. 이들은 조지 마틴이 차를 마시러 구내식장에 간 사이 〈[Bésame Mucho](https://ko.wikipedia.org/wiki/Bésame_Mucho "wikilink")〉 및 레논과 매카트니가 작곡한 세 곡 〈Love Me Do〉, 〈[P.S. I Love You](../Page/P.S._I_Love_You_\(비틀즈의_노래\).md "wikilink")〉, 〈[Ask Me Why](https://ko.wikipedia.org/wiki/Ask_Me_Why "wikilink")〉를 녹음했다. 연락을 받고 녹음을 인계받은 조지 마틴은 표준 녹음 계약서를 작성할 것을 지시하며 이상하게도 그 날짜를 1962년 6월 4일로 당겨 적었다.
+〈Love Me Do〉는 1962년 북런던의 세인트 존스 우드 지역에 위치한 EMI의 [애비 로드 스튜디오에서](../Page/애비_로드_스튜디오.md "wikilink") 각각 다른 날짜에 세 번에 걸쳐 녹음했다. 6월 6일 레논, 매카트니, 해리슨, 베스트는 프로듀서 조지 마틴과 론 리처즈, 엔지니어 노먼 스미스의 지휘 아래 오후 6시부터 녹음을 시작했다. 이들은 조지 마틴이 차를 마시러 구내식장에 간 사이 〈[Bésame Mucho](https://ko.wikipedia.org/wiki/Bésame_Mucho "wikilink")〉 및 레논과 매카트니가 작곡한 세 곡 〈Love Me Do〉, 〈[P.S. I Love You](../Page/P.S._I_Love_You_\(비틀즈의_노래\).md "wikilink")〉, 〈[Ask Me Why](../Page/Ask_Me_Why.md "wikilink")〉를 녹음했다. 연락을 받고 녹음을 인계받은 조지 마틴은 표준 녹음 계약서를 작성할 것을 지시하며 이상하게도 그 날짜를 1962년 6월 4일로 당겨 적었다.
 
 9월 4일 비틀즈가 다시 스튜디오로 돌아왔을 때 피트 베스트의 자리는 링고 스타로 바뀌어 있었다. 그러나 오후 7시부터 10시부터 이어진 이 녹음에서 관심의 초점은 비틀즈의 첫 싱글로 어떤 곡을 할 것이냐였다. 〈Love Me Do〉와 함께 녹음한 곡은 머치 머리가 작곡한 〈[How Do You Do It?](https://ko.wikipedia.org/wiki/How_Do_You_Do_It? "wikilink")〉이라는 노래였다. 마지막으로 결정을 내린 사람은 조지 마틴이었다. "나는 〈How Do You Do It?〉을 눈여겨보았습니다. 하지만 마지막엔 〈Love Me Do〉에 손을 들었지요. 꽤 괜찮은 음반이 나왔습니다." 이날 녹음에서 한 가지 불만이 있었던 조지 마틴은 9월 11일의 마지막 녹음에 변화를 주기로 했다. "조지 마틴은 링고를 좋아하지 않았습니다." 폴 매카트니의 회상이다. "당시 링고의 연주는 박자가 아주 일정하지 않았어요. 조지가 보기에 세션 드러머처럼 정확하지 않았던 거죠." 그 결과 조지 마틴은 일류 세션 드러머 앤디 화이트를 데려왔고 오전 10시부터 오후 1시까지 그가 〈[P.S. I Love You](../Page/P.S._I_Love_You_\(비틀즈의_노래\).md "wikilink")〉의 드럼을 치는 동안 링고 스타는 마라카스를 흔들었다. 〈Love Me Do〉 녹음에서도 드러머는 화이트였고 링고 스타는 탬버린을 흔들어야 했다.
 
@@ -25,14 +25,14 @@
 
 ## 참여 인원
 
-영국 음반인 《Rarities》와 《[Past Masters](https://ko.wikipedia.org/wiki/Past_Masters "wikilink")》 버전에서
+영국 음반인 《Rarities》와 《[Past Masters](../Page/Past_Masters.md "wikilink")》 버전에서
 
   - 폴 매카트니 – 보컬, 베이스
   - 존 레논 – 보컬, 하모니카
   - 조지 해리슨 – 어쿠스틱 리듬 기타
   - 링고 스타 – 드럼
 
-미국 음반 《[Please Please Me](https://ko.wikipedia.org/wiki/Please_Please_Me "wikilink")》, 《The Beatles' Hits》, 그리고 컴필레이션 음반 《1962–1966 》과 《[1](https://ko.wikipedia.org/wiki/1_\(음반\) "wikilink")》 버전에서
+미국 음반 《[Please Please Me](https://ko.wikipedia.org/wiki/Please_Please_Me "wikilink")》, 《The Beatles' Hits》, 그리고 컴필레이션 음반 《1962–1966 》과 《[1](../Page/1_\(음반\).md "wikilink")》 버전에서
 
   - 폴 매카트니 – 보컬, 베이스
   - 존 레논 – 보컬, 하모니카

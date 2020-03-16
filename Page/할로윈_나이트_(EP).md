@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(EP\)](https://ko.wikipedia.org/wiki/__\(EP\)).
 
 
-《**할로윈 나이트**》(, )는 중국의 걸 그룹 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 아홉 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). 2015년 10월 12일 발매됐다. 〈할로윈 나이트〉의 뮤직 비디오는 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink") [파리와](https://ko.wikipedia.org/wiki/파리_\(프랑스\) "wikilink") [체코](https://ko.wikipedia.org/wiki/체코 "wikilink") [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink")에서, 〈여름에 다시 보자〉의 뮤직 비디오는 [하이난](https://ko.wikipedia.org/wiki/하이난_성 "wikilink") [싼야에서](https://ko.wikipedia.org/wiki/싼야_시 "wikilink") 촬영됐다.
+《**할로윈 나이트**》(, )는 중국의 걸 그룹 [SNH48](../Page/SNH48.md "wikilink")의 아홉 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 2015년 10월 12일 발매됐다. 〈할로윈 나이트〉의 뮤직 비디오는 [프랑스](../Page/프랑스.md "wikilink") [파리와](../Page/파리_\(프랑스\).md "wikilink") [체코](../Page/체코.md "wikilink") [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink")에서, 〈여름에 다시 보자〉의 뮤직 비디오는 [하이난](https://ko.wikipedia.org/wiki/하이난_성 "wikilink") [싼야에서](https://ko.wikipedia.org/wiki/싼야_시 "wikilink") 촬영됐다.
 
 ## 수록곡
 

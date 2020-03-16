@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
 
 
-**콜로라도 로키스**(Colorado Rockies)는 1976년부터 1982년까지 [콜로라도주](https://ko.wikipedia.org/wiki/콜로라도주 "wikilink") [덴버](https://ko.wikipedia.org/wiki/덴버 "wikilink")를 연고지로 하는 [NHL](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") [클래런스 켐벨 콘퍼런스](../Page/서부_콘퍼런스_\(NHL\).md "wikilink") [스미드 디비전](https://ko.wikipedia.org/wiki/스미드_디비전_\(NHL\) "wikilink") 소속 아이스 하키팀이다.
+**콜로라도 로키스**(Colorado Rockies)는 1976년부터 1982년까지 [콜로라도주](../Page/콜로라도주.md "wikilink") [덴버](../Page/덴버.md "wikilink")를 연고지로 하는 [NHL](../Page/내셔널_하키_리그.md "wikilink") [클래런스 켐벨 콘퍼런스](../Page/서부_콘퍼런스_\(NHL\).md "wikilink") [스미드 디비전](../Page/스미드_디비전_\(NHL\).md "wikilink") 소속 아이스 하키팀이다.
 
-1982년 연고지를 [뉴저지주](https://ko.wikipedia.org/wiki/뉴저지주 "wikilink") [이스트러더퍼드](https://ko.wikipedia.org/wiki/이스트러더퍼드 "wikilink")로 이전하면서 [뉴저지 데블스로](https://ko.wikipedia.org/wiki/뉴저지_데블스 "wikilink") 변경되었다.
+1982년 연고지를 [뉴저지주](../Page/뉴저지주.md "wikilink") [이스트러더퍼드](https://ko.wikipedia.org/wiki/이스트러더퍼드 "wikilink")로 이전하면서 [뉴저지 데블스로](https://ko.wikipedia.org/wiki/뉴저지_데블스 "wikilink") 변경되었다.
 
 ## 역대 홈경기장
 
@@ -29,7 +29,7 @@
 <td><p><a href="../Page/맥니콜스_스포츠_아레나.md" title="wikilink">맥니콜스 스포츠 아레나</a></p></td>
 <td><p>1976년~1982년</p></td>
 <td><p>16,061명</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콜로라도주" title="wikilink">콜로라도주</a> <a href="https://ko.wikipedia.org/wiki/덴버" title="wikilink">덴버</a></p></td>
+<td><p><a href="../Page/콜로라도주.md" title="wikilink">콜로라도주</a> <a href="../Page/덴버.md" title="wikilink">덴버</a></p></td>
 <td></td>
 </tr>
 </tbody>

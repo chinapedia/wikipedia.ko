@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ \(EP\)](https://ko.wikipedia.org/wiki/_\(EP\)).
 
 
-《**플라잉겟**》()은 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")의 걸 그룹 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 두 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). 나인스타일 뮤직에서 2013년 8월 2일에 발매됐다.
+《**플라잉겟**》()은 [중국](../Page/중국.md "wikilink")의 걸 그룹 [SNH48](../Page/SNH48.md "wikilink")의 두 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 나인스타일 뮤직에서 2013년 8월 2일에 발매됐다.
 
 노래의 센터 포지션은 탕민이다.
 
 ## 개요
 
-[상하이 세계금융센터의](https://ko.wikipedia.org/wiki/상하이_세계금융센터 "wikilink") 100층 전망대에서 촬영됐으며, 뮤직 비디오의 끝 부분에 수백명이 팬이 동원됐다. [자오자민](../Page/자오자민.md "wikilink")은 건강 상의 이유로 〈플라잉겟〉과 〈포니테일과 슈슈〉의 뮤직비디오 녹화에 참여하지 못했다.\[1\] 특전은 생사진(총 37종 중에서 랜덤 1장), 개별 악수권 1장이며, 호화판의 특전은 60페이지 분량의 mini사진집이다.
+[상하이 세계금융센터의](../Page/상하이_세계금융센터.md "wikilink") 100층 전망대에서 촬영됐으며, 뮤직 비디오의 끝 부분에 수백명이 팬이 동원됐다. [자오자민](../Page/자오자민.md "wikilink")은 건강 상의 이유로 〈플라잉겟〉과 〈포니테일과 슈슈〉의 뮤직비디오 녹화에 참여하지 못했다.\[1\] 특전은 생사진(총 37종 중에서 랜덤 1장), 개별 악수권 1장이며, 호화판의 특전은 60페이지 분량의 mini사진집이다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG  2 ](https://ko.wikipedia.org/wiki/LG__2_).
 
 
-**LG 스타일러스 2 플러스**는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink"), 글로벌 출시한 [패블릿](https://ko.wikipedia.org/wiki/패블릿 "wikilink") 중저가형 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다.\[1\] [LG 스타일러스 2의](../Page/LG_스타일러스_2.md "wikilink") 성과가 좋아서 출시된 기종으로, 성능이 대폭 향상되었다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 버전과 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink"), [인도](https://ko.wikipedia.org/wiki/인도 "wikilink") 버전의 사양이 약간 다르다. [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 버전은 후면에 [지문](https://ko.wikipedia.org/wiki/지문 "wikilink") 인식 센서가 있는 반면 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")과 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink") 버전은 전면 [LED](https://ko.wikipedia.org/wiki/LED "wikilink") 플래시가 탑재되어 있다.
+**LG 스타일러스 2 플러스**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink"), 글로벌 출시한 [패블릿](../Page/패블릿.md "wikilink") 중저가형 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [LG 스타일러스 2의](../Page/LG_스타일러스_2.md "wikilink") 성과가 좋아서 출시된 기종으로, 성능이 대폭 향상되었다. [미국](../Page/미국.md "wikilink") 버전과 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink"), [인도](../Page/인도.md "wikilink") 버전의 사양이 약간 다르다. [미국](../Page/미국.md "wikilink") 버전은 후면에 [지문](../Page/지문.md "wikilink") 인식 센서가 있는 반면 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")과 [인도](../Page/인도.md "wikilink") 버전은 전면 [LED](https://ko.wikipedia.org/wiki/LED "wikilink") 플래시가 탑재되어 있다.
 
 ## 운영 체제 / 소프트웨어
 
@@ -25,7 +25,7 @@ LG 스타일러스 2 플러스는 [안드로이드](https://ko.wikipedia.org/wik
 
 ### 지문 인식
 
-[미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 버전에만 있는 기능으로 후면에 있는 전원 버튼에 지문을 대서 잠금을 푸는 기능이다. [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink") 중저가형 기종 중에서는 스타일러스 2 플러스가 최초로 지문 인식이 탑재되었다.
+[미국](../Page/미국.md "wikilink") 버전에만 있는 기능으로 후면에 있는 전원 버튼에 지문을 대서 잠금을 푸는 기능이다. [LG전자](../Page/LG전자.md "wikilink") 중저가형 기종 중에서는 스타일러스 2 플러스가 최초로 지문 인식이 탑재되었다.
 
 ## 스타일러스 펜
 
@@ -34,8 +34,8 @@ LG 스타일러스 2 플러스는 [안드로이드](https://ko.wikipedia.org/wik
 ## 색상
 
   - [티탄](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - [골드](https://ko.wikipedia.org/wiki/금색 "wikilink") ([인도](https://ko.wikipedia.org/wiki/인도 "wikilink"), [대만](https://ko.wikipedia.org/wiki/대만 "wikilink") 버전)
-  - [브라운](https://ko.wikipedia.org/wiki/갈색 "wikilink") ([미국](https://ko.wikipedia.org/wiki/미국 "wikilink") 버전)
+  - [골드](https://ko.wikipedia.org/wiki/금색 "wikilink") ([인도](../Page/인도.md "wikilink"), [대만](https://ko.wikipedia.org/wiki/대만 "wikilink") 버전)
+  - [브라운](../Page/갈색.md "wikilink") ([미국](../Page/미국.md "wikilink") 버전)
 
 ## 같이 보기
 

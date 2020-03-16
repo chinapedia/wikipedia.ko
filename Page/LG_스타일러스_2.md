@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG  2](https://ko.wikipedia.org/wiki/LG__2).
 
 
-''' LG 스타일러스 2 '''는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") 출시한 태릿 보급형 스마트폰이다.\[1\] [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 출시한 [G 스타일로와](../Page/LG_G_스타일로.md "wikilink") 거의 비슷한 기종이지만 램이 1.5[GB에서](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 2[GB로](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 늘어나고 카메라 성능이 향상되었다.
+''' LG 스타일러스 2 '''는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") 출시한 태릿 보급형 스마트폰이다.\[1\] [2015년](../Page/2015년.md "wikilink") 출시한 [G 스타일로와](../Page/LG_G_스타일로.md "wikilink") 거의 비슷한 기종이지만 램이 1.5[GB에서](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 2[GB로](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 늘어나고 카메라 성능이 향상되었다.
 
 ## 운영체제 / 소프트웨어
 
@@ -17,7 +17,7 @@
 
 ### 제스쳐 샷
 
-전면 카메라에서 촬영 버튼을 길게 누르거나 주먹을 빠르게 두 번 쥐면 약 2초 간격으로 사진 4장을 연속 촬영할 수 있다. 최대 1.5[m까지](https://ko.wikipedia.org/wiki/미터 "wikilink") 사용가능하다.
+전면 카메라에서 촬영 버튼을 길게 누르거나 주먹을 빠르게 두 번 쥐면 약 2초 간격으로 사진 4장을 연속 촬영할 수 있다. 최대 1.5[m까지](../Page/미터.md "wikilink") 사용가능하다.
 
   - 제스쳐 (주먹) 1번 : 1장
   - 제스쳐 (주먹) 2번 : 4장 연속 (약 2초 간격)
@@ -48,7 +48,7 @@
 
   - [티탄](https://ko.wikipedia.org/wiki/검정 "wikilink")
   - [화이트](https://ko.wikipedia.org/wiki/흰색 "wikilink")
-  - [브라운](https://ko.wikipedia.org/wiki/갈색 "wikilink") ([대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 미출시)
+  - [브라운](../Page/갈색.md "wikilink") ([대한민국](../Page/대한민국.md "wikilink") 미출시)
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ LIVE  LIFE](https://ko.wikipedia.org/wiki/_LIVE__LIFE).
 
 
-〈**우리의 LIVE 너와의 LIFE**〉()는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [μ's](https://ko.wikipedia.org/wiki/μ's "wikilink")(뮤즈)의 첫 싱글이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 13일에](https://ko.wikipedia.org/wiki/8월_13일 "wikilink") 초기 한정판이 발매되었으며, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 25일에](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") 통상판이 발매되었다. 약칭은 ‘**보라라라**’이다.
+〈**우리의 LIVE 너와의 LIFE**〉()는 [일본](../Page/일본.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [μ's](https://ko.wikipedia.org/wiki/μ's "wikilink")(뮤즈)의 첫 싱글이다. [2010년](../Page/2010년.md "wikilink") [8월 13일에](../Page/8월_13일.md "wikilink") 초기 한정판이 발매되었으며, [2010년](../Page/2010년.md "wikilink") [8월 25일에](../Page/8월_25일.md "wikilink") 통상판이 발매되었다. 약칭은 ‘**보라라라**’이다.
 
 ## 수록곡
 

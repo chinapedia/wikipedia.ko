@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PPAP \(\)](https://ko.wikipedia.org/wiki/PPAP_\(\)).
 
 
-《**PPAP**》(피피에이피, )는 [고사카 다이마오가](../Page/고사카_다이마오.md "wikilink") 분하는 [피코 타로의](https://ko.wikipedia.org/wiki/피코_타로 "wikilink") 첫 번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**PPAP**》(피피에이피, )는 [고사카 다이마오가](../Page/고사카_다이마오.md "wikilink") 분하는 [피코 타로의](https://ko.wikipedia.org/wiki/피코_타로 "wikilink") 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -26,7 +26,7 @@
 <tr class="odd">
 <td></td>
 <td><p>2016년 11월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>+<a href="https://ko.wikipedia.org/wiki/DVD" title="wikilink">DVD</a>, CD, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 음원</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>+<a href="../Page/DVD.md" title="wikilink">DVD</a>, CD, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 음원</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에이벡스_트랙스" title="wikilink">에이벡스 트랙스</a></p></td>
 <td></td>
 <td></td>
@@ -41,7 +41,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SM_엔터테인먼트" title="wikilink">SM 엔터테인먼트</a></p></td>
+<td><p><a href="../Page/SM_엔터테인먼트.md" title="wikilink">SM 엔터테인먼트</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></p></td>
 <td></td>
 <td></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
 
 
-**패트릭 디비전** (Patrick Division)은 1974년부터 1993년까지 [NHL에](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") 존재했던 디비전이다.
+**패트릭 디비전** (Patrick Division)은 1974년부터 1993년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
 
 ## 역대 패트릭 디비전 라인업
 
@@ -16,27 +16,27 @@
 <tbody>
 <tr class="odd">
 <td><p>1974년~1979년</p></td>
-<td><p><a href="../Page/애틀랜타_플레임스.md" title="wikilink">애틀랜타 플레임스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/뉴욕_아일런더스" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/뉴욕_레인저스" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a></p></td>
+<td><p><a href="../Page/애틀랜타_플레임스.md" title="wikilink">애틀랜타 플레임스</a> {{·}}  <a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a></p></td>
 <td><p>4팀</p></td>
 </tr>
 <tr class="even">
 <td><p>1979년~1980년</p></td>
-<td><p><a href="../Page/애틀랜타_플레임스.md" title="wikilink">애틀랜타 플레임스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/뉴욕_아일런더스" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/뉴욕_레인저스" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
+<td><p><a href="../Page/애틀랜타_플레임스.md" title="wikilink">애틀랜타 플레임스</a> {{·}}  <a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
 <td><p>5팀</p></td>
 </tr>
 <tr class="odd">
 <td><p>1980년~1981년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘거리_플레임스" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/뉴욕_아일런더스" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/뉴욕_레인저스" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
+<td><p><a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1981년~1982년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_아일런더스" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/뉴욕_레인저스" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/피츠버그_펭귄스" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
+<td><p><a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1982년~1993년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴저지_데블스" title="wikilink">뉴저지 데블스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/뉴욕_아일런더스" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/뉴욕_레인저스" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/피츠버그_펭귄스" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/뉴저지_데블스" title="wikilink">뉴저지 데블스</a> {{·}}  <a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
 <td><p>6팀</p></td>
 </tr>
 </tbody>
@@ -70,7 +70,7 @@
 </tr>
 <tr class="even">
 <td><p>1977~1978</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_아일런더스" title="wikilink">뉴욕 아일런더스</a></p></td>
+<td><p><a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a></p></td>
 <td><p>48승 17패 15무 승점 111점</p></td>
 </tr>
 <tr class="odd">
@@ -85,7 +85,7 @@
 </tr>
 <tr class="odd">
 <td><p>1980~1981</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_아일런더스" title="wikilink">뉴욕 아일런더스</a></p></td>
+<td><p><a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a></p></td>
 <td><p>48승 18패 14무 승점 110점</p></td>
 </tr>
 <tr class="even">
@@ -100,7 +100,7 @@
 </tr>
 <tr class="even">
 <td><p>1983~1984</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_아일런더스" title="wikilink">뉴욕 아일런더스</a></p></td>
+<td><p><a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a></p></td>
 <td><p>50승 26패 4무 승점 104점</p></td>
 </tr>
 <tr class="odd">
@@ -120,7 +120,7 @@
 </tr>
 <tr class="even">
 <td><p>1987~1988</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_아일런더스" title="wikilink">뉴욕 아일런더스</a></p></td>
+<td><p><a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a></p></td>
 <td><p>39승 31패 10무 승점 88점</p></td>
 </tr>
 <tr class="odd">
@@ -130,22 +130,22 @@
 </tr>
 <tr class="even">
 <td><p>1989~1990</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_레인저스" title="wikilink">뉴욕 레인저스</a></p></td>
+<td><p><a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a></p></td>
 <td><p>36승 31패 13무 승점 85점</p></td>
 </tr>
 <tr class="odd">
 <td><p>1990~1991</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피츠버그_펭귄스" title="wikilink">피츠버그 펭귄스</a></p></td>
+<td><p><a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a></p></td>
 <td><p>41승 33패 6무 승점 88점</p></td>
 </tr>
 <tr class="even">
 <td><p>1991~1992</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_레인저스" title="wikilink">뉴욕 레인저스</a></p></td>
+<td><p><a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a></p></td>
 <td><p>50승 25패 5무 승점 105점</p></td>
 </tr>
 <tr class="odd">
 <td><p>1992~1993</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피츠버그_펭귄스" title="wikilink">피츠버그 펭귄스</a></p></td>
+<td><p><a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a></p></td>
 <td><p>56승 21패 7무 승점 119점</p></td>
 </tr>
 </tbody>
@@ -167,12 +167,12 @@
 </tr>
 <tr class="even">
 <td><p>6회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_아일런더스" title="wikilink">뉴욕 아일런더스</a></p></td>
+<td><p><a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_레인저스" title="wikilink">뉴욕 레인저스</a><br />
- <a href="https://ko.wikipedia.org/wiki/피츠버그_펭귄스" title="wikilink">피츠버그 펭귄스</a></p></td>
+<td><p><a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a><br />
+ <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1회</p></td>
@@ -189,21 +189,21 @@
 | 1974\~1975 | [플라이어스](https://ko.wikipedia.org/wiki/필라델피아_플라이어스 "wikilink")     |
 | 1975\~1976 | [플라이어스](https://ko.wikipedia.org/wiki/필라델피아_플라이어스 "wikilink")     |
 | 1976\~1977 | [플라이어스](https://ko.wikipedia.org/wiki/필라델피아_플라이어스 "wikilink")     |
-| 1977\~1978 | [아일런더스](https://ko.wikipedia.org/wiki/뉴욕_아일런더스 "wikilink")        |
-| 1978\~1979 | [아일런더스](https://ko.wikipedia.org/wiki/뉴욕_아일런더스 "wikilink")        |
+| 1977\~1978 | [아일런더스](../Page/뉴욕_아일런더스.md "wikilink")                           |
+| 1978\~1979 | [아일런더스](../Page/뉴욕_아일런더스.md "wikilink")                           |
 | 1979\~1980 | [플라이어스](https://ko.wikipedia.org/wiki/필라델피아_플라이어스 "wikilink")     |
-| 1980\~1981 | [아일런더스](https://ko.wikipedia.org/wiki/뉴욕_아일런더스 "wikilink")        |
-| 1981\~1982 | [아일런더스](https://ko.wikipedia.org/wiki/뉴욕_아일런더스 "wikilink")        |
+| 1980\~1981 | [아일런더스](../Page/뉴욕_아일런더스.md "wikilink")                           |
+| 1981\~1982 | [아일런더스](../Page/뉴욕_아일런더스.md "wikilink")                           |
 | 1982\~1983 | [플라이어스](https://ko.wikipedia.org/wiki/필라델피아_플라이어스 "wikilink")     |
-| 1983\~1984 | [아일런더스](https://ko.wikipedia.org/wiki/뉴욕_아일런더스 "wikilink")        |
+| 1983\~1984 | [아일런더스](../Page/뉴욕_아일런더스.md "wikilink")                           |
 | 1984\~1985 | [플라이어스](https://ko.wikipedia.org/wiki/필라델피아_플라이어스 "wikilink")     |
 | 1985\~1986 | [플라이어스](https://ko.wikipedia.org/wiki/필라델피아_플라이어스 "wikilink")     |
 | 1986\~1987 | [플라이어스](https://ko.wikipedia.org/wiki/필라델피아_플라이어스 "wikilink")     |
-| 1987\~1988 | [아일런더스](https://ko.wikipedia.org/wiki/뉴욕_아일런더스 "wikilink")        |
+| 1987\~1988 | [아일런더스](../Page/뉴욕_아일런더스.md "wikilink")                           |
 | 1988\~1989 | [캐피털스](https://ko.wikipedia.org/wiki/워싱턴_캐피털스_\(NHL\) "wikilink") |
-| 1989\~1990 | [레인저스](https://ko.wikipedia.org/wiki/뉴욕_레인저스 "wikilink")          |
-| 1990\~1991 | [펭귄스](https://ko.wikipedia.org/wiki/피츠버그_펭귄스 "wikilink")          |
-| 1991\~1992 | [레인저스](https://ko.wikipedia.org/wiki/뉴욕_레인저스 "wikilink")          |
-| 1992\~1993 | [펭귄스](https://ko.wikipedia.org/wiki/피츠버그_펭귄스 "wikilink")          |
+| 1989\~1990 | [레인저스](../Page/뉴욕_레인저스.md "wikilink")                             |
+| 1990\~1991 | [펭귄스](../Page/피츠버그_펭귄스.md "wikilink")                             |
+| 1991\~1992 | [레인저스](../Page/뉴욕_레인저스.md "wikilink")                             |
+| 1992\~1993 | [펭귄스](../Page/피츠버그_펭귄스.md "wikilink")                             |
 
 [분류:1974년 설립](https://ko.wikipedia.org/wiki/분류:1974년_설립 "wikilink") [분류:1993년 폐지](https://ko.wikipedia.org/wiki/분류:1993년_폐지 "wikilink") [내셔널_하키_리그](https://ko.wikipedia.org/wiki/분류:내셔널_하키_리그 "wikilink") [분류:미국의 아이스하키](https://ko.wikipedia.org/wiki/분류:미국의_아이스하키 "wikilink") [분류:캐나다의 아이스하키](https://ko.wikipedia.org/wiki/분류:캐나다의_아이스하키 "wikilink")

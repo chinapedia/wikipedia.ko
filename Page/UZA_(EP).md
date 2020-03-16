@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [UZA \(EP\)](https://ko.wikipedia.org/wiki/UZA_\(EP\)).
 
 
-《**UZA**》()는 중국의 걸 그룹 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 다섯 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+《**UZA**》()는 중국의 걸 그룹 [SNH48](../Page/SNH48.md "wikilink")의 다섯 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink").
 
-〈UZA〉의 뮤직 비디오는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남에서](https://ko.wikipedia.org/wiki/강남_\(서울\) "wikilink") 촬영됐으며, 촬영 감독은 홍원기가 맡았다.\[1\] __목차__ {{-}}
+〈UZA〉의 뮤직 비디오는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강남에서](../Page/강남_\(서울\).md "wikilink") 촬영됐으며, 촬영 감독은 홍원기가 맡았다.\[1\] __목차__ {{-}}
 
 ## 수록곡
 

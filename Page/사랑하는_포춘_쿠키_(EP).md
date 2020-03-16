@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   \(EP\)](https://ko.wikipedia.org/wiki/___\(EP\)).
 
 
-《**사랑하는 포춘 쿠키**》()는 중국의 걸 그룹 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 세 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). 베이징 판은 2013년 11월 25일에, 상하이 판은 2013년 11월 29일에 발매됐다.
+《**사랑하는 포춘 쿠키**》()는 중국의 걸 그룹 [SNH48](../Page/SNH48.md "wikilink")의 세 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 베이징 판은 2013년 11월 25일에, 상하이 판은 2013년 11월 29일에 발매됐다.
 
 노래의 포지션은 쉬자치이다. __목차__ {{-}}
 

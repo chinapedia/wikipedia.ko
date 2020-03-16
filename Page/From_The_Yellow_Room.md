@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [From The Yellow Room](https://ko.wikipedia.org/wiki/From_The_Yellow_Room).
 
 
-《**From The Yellow Room**》은 [이루마](https://ko.wikipedia.org/wiki/이루마 "wikilink")의 3집 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**From The Yellow Room**》은 [이루마](../Page/이루마.md "wikilink")의 3집 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 수록곡
 

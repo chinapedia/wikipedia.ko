@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG G  2](https://ko.wikipedia.org/wiki/LG_G__2).
 
 
-**LG G 비스타 2**는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 5일](https://ko.wikipedia.org/wiki/11월_5일 "wikilink"), [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") AT\&T 전용으로 출시한 중저가형 패블릿 스마트폰이다.\[1\] [G 비스타의](../Page/LG_Gx2.md "wikilink") 후속작으로 성능이 대폭 향상되었으며, 스타일러스 펜이 추가되었다. [G 비스타가](../Page/LG_Gx2.md "wikilink") 한국에는 [GX2라는](../Page/LG_Gx2.md "wikilink") 이름으로 출시되었기 때문에 G 비스타 2도 GX3라는 이름으로 출시된다는 루머가 돌기도 하였으나 결국 출시되지 않았다.
+**LG G 비스타 2**는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink"), [미국](../Page/미국.md "wikilink") AT\&T 전용으로 출시한 중저가형 패블릿 스마트폰이다.\[1\] [G 비스타의](../Page/LG_Gx2.md "wikilink") 후속작으로 성능이 대폭 향상되었으며, 스타일러스 펜이 추가되었다. [G 비스타가](../Page/LG_Gx2.md "wikilink") 한국에는 [GX2라는](../Page/LG_Gx2.md "wikilink") 이름으로 출시되었기 때문에 G 비스타 2도 GX3라는 이름으로 출시된다는 루머가 돌기도 하였으나 결국 출시되지 않았다.
 
 ## 운영 체제 / 소프트웨어
 
@@ -11,13 +11,13 @@ LG G 비스타 2는 [안드로이드 5.1 롤리팝을](https://ko.wikipedia.org/
 
 ### 안드로이드 6.0.1 마시멜로
 
-[LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [4월 22일](https://ko.wikipedia.org/wiki/4월_22일 "wikilink"), G 비스타 2에 [안드로이드 6.0.1 마시멜로를](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 배포했다.\[2\]
+[LG전자](../Page/LG전자.md "wikilink")는 [2016년](../Page/2016년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink"), G 비스타 2에 [안드로이드 6.0.1 마시멜로를](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 배포했다.\[2\]
 
 ## 특수 기능
 
 ### 레이저 오토 포커스
 
-레이저를 이용해서 사진의 초점을 빠르게 잡는 기능이다. 야간 촬용 시 피사체의 위치를 찾기 어려울 때 유용하며, [LG G3에서](https://ko.wikipedia.org/wiki/LG_G3 "wikilink") 먼저 사용되었다.
+레이저를 이용해서 사진의 초점을 빠르게 잡는 기능이다. 야간 촬용 시 피사체의 위치를 찾기 어려울 때 유용하며, [LG G3에서](../Page/LG_G3.md "wikilink") 먼저 사용되었다.
 
 ## 액세서리
 

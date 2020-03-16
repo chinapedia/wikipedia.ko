@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
 
 
-**퍼시픽 디비전**(Central Division)은 [애너하임 덕스](../Page/애너하임_덕스.md "wikilink"), [애리조나 카이오츠](https://ko.wikipedia.org/wiki/애리조나_카이오츠 "wikilink"), [캘거리 플레임스](https://ko.wikipedia.org/wiki/캘거리_플레임스 "wikilink"), [에드먼턴 오일러스](../Page/에드먼턴_오일러스.md "wikilink"), [로스앤젤레스 킹스](https://ko.wikipedia.org/wiki/로스앤젤레스_킹스 "wikilink"), [새너제이 샤크스](https://ko.wikipedia.org/wiki/새너제이_샤크스 "wikilink"), [밴쿠버 캐넉스](https://ko.wikipedia.org/wiki/밴쿠버_캐넉스 "wikilink"), [베이거스 골든 나이츠로](../Page/베이거스_골든_나이츠.md "wikilink") 이루어진 디비전이다.
+**퍼시픽 디비전**(Central Division)은 [애너하임 덕스](../Page/애너하임_덕스.md "wikilink"), [애리조나 카이오츠](../Page/애리조나_카이오츠.md "wikilink"), [캘거리 플레임스](../Page/캘거리_플레임스.md "wikilink"), [에드먼턴 오일러스](../Page/에드먼턴_오일러스.md "wikilink"), [로스앤젤레스 킹스](../Page/로스앤젤레스_킹스.md "wikilink"), [새너제이 샤크스](../Page/새너제이_샤크스.md "wikilink"), [밴쿠버 캐넉스](../Page/밴쿠버_캐넉스.md "wikilink"), [베이거스 골든 나이츠로](../Page/베이거스_골든_나이츠.md "wikilink") 이루어진 디비전이다.
 
 ## 현재 퍼시픽 디비전 소속 팀 및 경기장
 
@@ -9,21 +9,21 @@
 <thead>
 <tr class="header">
 <th><p><a href="../Page/애너하임_덕스.md" title="wikilink">애너하임 덕스</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/애리조나_카이오츠" title="wikilink">애리조나 카이오츠</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/캘거리_플레임스" title="wikilink">캘거리 플레임스</a></p></th>
+<th><p><a href="../Page/애리조나_카이오츠.md" title="wikilink">애리조나 카이오츠</a></p></th>
+<th><p><a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a></p></th>
 <th><p><a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/혼다_센터.md" title="wikilink">혼다 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/애너하임" title="wikilink">애너하임</a>)</p></td>
+(<a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/애너하임.md" title="wikilink">애너하임</a>)</p></td>
 <td><p><a href="../Page/힐라_리버_아레나.md" title="wikilink">힐라 리버 아레나</a><br />
-<a href="https://ko.wikipedia.org/wiki/애리조나주" title="wikilink">애리조나주</a> <a href="https://ko.wikipedia.org/wiki/글렌데일_(애리조나주)" title="wikilink">글렌데일</a></p></td>
+<a href="../Page/애리조나주.md" title="wikilink">애리조나주</a> <a href="../Page/글렌데일_(애리조나주).md" title="wikilink">글렌데일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스코셔뱅크_새들돔" title="wikilink">스코셔뱅크 새들돔</a><br />
-(<a href="https://ko.wikipedia.org/wiki/앨버타주" title="wikilink">앨버타주</a> <a href="https://ko.wikipedia.org/wiki/캘거리" title="wikilink">캘거리</a>)</p></td>
+(<a href="../Page/앨버타주.md" title="wikilink">앨버타주</a> <a href="../Page/캘거리.md" title="wikilink">캘거리</a>)</p></td>
 <td><p><a href="../Page/로저스_플레이스.md" title="wikilink">로저스 플레이스</a><br />
-(<a href="https://ko.wikipedia.org/wiki/앨버타주" title="wikilink">앨버타주</a> <a href="https://ko.wikipedia.org/wiki/에드먼턴" title="wikilink">에드먼턴</a>)</p></td>
+(<a href="../Page/앨버타주.md" title="wikilink">앨버타주</a> <a href="../Page/에드먼턴.md" title="wikilink">에드먼턴</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>수용인원: <strong>17,174명</strong></p></td>
@@ -38,20 +38,20 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Rogers_Place_preview_sw.jpg" title="wikilink">160px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/밴쿠버_캐넉스" title="wikilink">밴쿠버 캐넉스</a></p></td>
+<td><p><a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a></p></td>
+<td><p><a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a></p></td>
+<td><p><a href="../Page/밴쿠버_캐넉스.md" title="wikilink">밴쿠버 캐넉스</a></p></td>
 <td><p><a href="../Page/베이거스_골든_나이츠.md" title="wikilink">베이거스 골든 나이츠</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스테이플스_센터" title="wikilink">스테이플스 센터</a><br />
-(<a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a>)</p></td>
+<td><p><a href="../Page/스테이플스_센터.md" title="wikilink">스테이플스 센터</a><br />
+(<a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a>)</p></td>
 <td><p><a href="../Page/SAP_센터_앳_새너제이.md" title="wikilink">SAP 센터 앳 새너제이</a><br />
-(<a href="https://ko.wikipedia.org/wiki/캘리포니아주" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/산호세_(캘리포니아주)" title="wikilink">새너제이</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로저스_아레나" title="wikilink">로저스 아레나</a><br />
-(<a href="https://ko.wikipedia.org/wiki/브리티시컬럼비아주" title="wikilink">브리티시컬럼비아주</a> <a href="https://ko.wikipedia.org/wiki/밴쿠버" title="wikilink">밴쿠버</a>)</p></td>
+(<a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/산호세_(캘리포니아주).md" title="wikilink">새너제이</a>)</p></td>
+<td><p><a href="../Page/로저스_아레나.md" title="wikilink">로저스 아레나</a><br />
+(<a href="../Page/브리티시컬럼비아주.md" title="wikilink">브리티시컬럼비아주</a> <a href="https://ko.wikipedia.org/wiki/밴쿠버" title="wikilink">밴쿠버</a>)</p></td>
 <td><p><a href="../Page/T-모바일_아레나.md" title="wikilink">T-모바일 아레나</a><br />
-(<a href="https://ko.wikipedia.org/wiki/네바다주" title="wikilink">네바다주</a> <a href="https://ko.wikipedia.org/wiki/패러다이스_(네바다주)" title="wikilink">패러다이스</a>)</p></td>
+(<a href="../Page/네바다주.md" title="wikilink">네바다주</a> <a href="https://ko.wikipedia.org/wiki/패러다이스_(네바다주)" title="wikilink">패러다이스</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>수용인원: <strong>18,230명</strong></p></td>
@@ -84,7 +84,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/콜로라도_애벌랜치" title="wikilink">콜로라도 애벌랜치</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콜로라도주" title="wikilink">콜로라도주</a> <a href="https://ko.wikipedia.org/wiki/덴버" title="wikilink">덴버</a></p></td>
+<td><p><a href="../Page/콜로라도주.md" title="wikilink">콜로라도주</a> <a href="../Page/덴버.md" title="wikilink">덴버</a></p></td>
 <td><p>1995년~1998년</p></td>
 <td><p><a href="../Page/맥니콜스_스포츠_아레나.md" title="wikilink">맥니콜스 스포츠 아레나</a></p></td>
 <td><p>16,061명</p></td>
@@ -92,7 +92,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/댈러스_스타스.md" title="wikilink">댈러스 스타스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스주" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/댈러스" title="wikilink">댈러스</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/댈러스.md" title="wikilink">댈러스</a></p></td>
 <td><p>1998년~2013년</p></td>
 <td><p><a href="../Page/리유니언_아레나.md" title="wikilink">리유니언 아레나</a><br />
 <a href="../Page/아메리칸_에어라인스_센터.md" title="wikilink">아메리칸 에어라인스 센터</a></p></td>
@@ -116,37 +116,37 @@
 <tbody>
 <tr class="odd">
 <td><p>1993년~1995년</p></td>
-<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">마이티 덕스 오브 애너하임</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/캘거리_플레임스" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/밴쿠버_캐넉스" title="wikilink">밴쿠버 캐넉스</a></p></td>
+<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">마이티 덕스 오브 애너하임</a> {{·}}  <a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a> {{·}}  <a href="../Page/밴쿠버_캐넉스.md" title="wikilink">밴쿠버 캐넉스</a></p></td>
 <td><p>6팀</p></td>
 </tr>
 <tr class="even">
 <td><p>1995년~1998년</p></td>
-<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">마이티 덕스 오브 애너하임</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/캘거리_플레임스" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/콜로라도_애벌랜치" title="wikilink">콜로라도 애벌랜치</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/밴쿠버_캐넉스" title="wikilink">밴쿠버 캐넉스</a></p></td>
+<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">마이티 덕스 오브 애너하임</a> {{·}}  <a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/콜로라도_애벌랜치" title="wikilink">콜로라도 애벌랜치</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a> {{·}}  <a href="../Page/밴쿠버_캐넉스.md" title="wikilink">밴쿠버 캐넉스</a></p></td>
 <td><p>7팀</p></td>
 </tr>
 <tr class="odd">
 <td><p>1998년~2006년</p></td>
-<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">마이티 덕스 오브 애너하임</a> {{·}}  <a href="../Page/댈러스_스타스.md" title="wikilink">댈러스 스타스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/애리조나_카이오츠" title="wikilink">피닉스 카이오츠</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a></p></td>
+<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">마이티 덕스 오브 애너하임</a> {{·}}  <a href="../Page/댈러스_스타스.md" title="wikilink">댈러스 스타스</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/애리조나_카이오츠.md" title="wikilink">피닉스 카이오츠</a> {{·}}  <a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a></p></td>
 <td><p>5팀</p></td>
 </tr>
 <tr class="even">
 <td><p>2006년~2013년</p></td>
-<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">애너하임 덕스</a> {{·}}  <a href="../Page/댈러스_스타스.md" title="wikilink">댈러스 스타스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/애리조나_카이오츠" title="wikilink">피닉스 카이오츠</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a></p></td>
+<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">애너하임 덕스</a> {{·}}  <a href="../Page/댈러스_스타스.md" title="wikilink">댈러스 스타스</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/애리조나_카이오츠.md" title="wikilink">피닉스 카이오츠</a> {{·}}  <a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a></p></td>
 <td><p>5팀</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013년~2014년</p></td>
-<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">애너하임 덕스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/캘거리_플레임스" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/애리조나_카이오츠" title="wikilink">피닉스 카이오츠</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/밴쿠버_캐넉스" title="wikilink">밴쿠버 캐넉스</a></p></td>
+<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">애너하임 덕스</a> {{·}}  <a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/애리조나_카이오츠.md" title="wikilink">피닉스 카이오츠</a> {{·}}  <a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a> {{·}}  <a href="../Page/밴쿠버_캐넉스.md" title="wikilink">밴쿠버 캐넉스</a></p></td>
 <td><p>7팀</p></td>
 </tr>
 <tr class="even">
 <td><p>2014년~2017년</p></td>
-<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">애너하임 덕스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/애리조나_카이오츠" title="wikilink">애리조나 카이오츠</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/캘거리_플레임스" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/밴쿠버_캐넉스" title="wikilink">밴쿠버 캐넉스</a></p></td>
+<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">애너하임 덕스</a> {{·}}  <a href="../Page/애리조나_카이오츠.md" title="wikilink">애리조나 카이오츠</a> {{·}}  <a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a> {{·}}  <a href="../Page/밴쿠버_캐넉스.md" title="wikilink">밴쿠버 캐넉스</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017년~현재</p></td>
-<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">애너하임 덕스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/애리조나_카이오츠" title="wikilink">애리조나 카이오츠</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/캘거리_플레임스" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/밴쿠버_캐넉스" title="wikilink">밴쿠버 캐넉스</a> {{·}}  <a href="../Page/베이거스_골든_나이츠.md" title="wikilink">베이거스 골든 나이츠</a></p></td>
+<td><p><a href="../Page/애너하임_덕스.md" title="wikilink">애너하임 덕스</a> {{·}}  <a href="../Page/애리조나_카이오츠.md" title="wikilink">애리조나 카이오츠</a> {{·}}  <a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a> {{·}}  <a href="../Page/밴쿠버_캐넉스.md" title="wikilink">밴쿠버 캐넉스</a> {{·}}  <a href="../Page/베이거스_골든_나이츠.md" title="wikilink">베이거스 골든 나이츠</a></p></td>
 <td><p>8팀</p></td>
 </tr>
 </tbody>
@@ -165,7 +165,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1993~1994</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘거리_플레임스" title="wikilink">캘거리 플레임스</a></p></td>
+<td><p><a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a></p></td>
 <td><p>42승 29패 13무 승점 97점</p></td>
 </tr>
 <tr class="even">
@@ -205,7 +205,7 @@
 </tr>
 <tr class="odd">
 <td><p>2001~2002</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a></p></td>
+<td><p><a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a></p></td>
 <td><p>44승 27패 8무 3패 (연장전 패) 승점 99점</p></td>
 </tr>
 <tr class="even">
@@ -215,7 +215,7 @@
 </tr>
 <tr class="odd">
 <td><p>2003~2004</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a></p></td>
+<td><p><a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a></p></td>
 <td><p>43승 21패 12무 6패 (연장전 패) 승점 104점</p></td>
 </tr>
 <tr class="even">
@@ -235,7 +235,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007~2008</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a></p></td>
+<td><p><a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a></p></td>
 <td><p>49승 23패 10패 (연장전 패) 승점 108점</p></td>
 </tr>
 <tr class="even">
@@ -255,7 +255,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011~2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애리조나_카이오츠" title="wikilink">피닉스 카이오츠</a></p></td>
+<td><p><a href="../Page/애리조나_카이오츠.md" title="wikilink">피닉스 카이오츠</a></p></td>
 <td><p>42승 27패 13패 (연장전 패) 승점 97점</p></td>
 </tr>
 <tr class="even">
@@ -303,7 +303,7 @@
 <tbody>
 <tr class="odd">
 <td><p>6회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/새너제이_샤크스" title="wikilink">새너제이 샤크스</a><br />
+<td><p><a href="../Page/새너제이_샤크스.md" title="wikilink">새너제이 샤크스</a><br />
  <a href="../Page/애너하임_덕스.md" title="wikilink">애너하임 덕스</a></p></td>
 </tr>
 <tr class="even">
@@ -316,11 +316,11 @@
 </tr>
 <tr class="even">
 <td><p>2회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘거리_플레임스" title="wikilink">캘거리 플레임스</a></p></td>
+<td><p><a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애리조나_카이오츠" title="wikilink">피닉스 카이오츠</a>[1]<br />
+<td><p><a href="../Page/애리조나_카이오츠.md" title="wikilink">피닉스 카이오츠</a>[1]<br />
  <a href="../Page/베이거스_골든_나이츠.md" title="wikilink">베이거스 골든 나이츠</a></p></td>
 </tr>
 </tbody>
@@ -332,4 +332,4 @@
 
 [분류:1993년 설립](https://ko.wikipedia.org/wiki/분류:1993년_설립 "wikilink") [내셔널_하키_리그](https://ko.wikipedia.org/wiki/분류:내셔널_하키_리그 "wikilink") [분류:미국의 아이스하키](https://ko.wikipedia.org/wiki/분류:미국의_아이스하키 "wikilink") [분류:캐나다의 아이스하키](https://ko.wikipedia.org/wiki/분류:캐나다의_아이스하키 "wikilink")
 
-1.  현  [애리조나 카이오츠의](https://ko.wikipedia.org/wiki/애리조나_카이오츠 "wikilink") 전신
+1.  현  [애리조나 카이오츠의](../Page/애리조나_카이오츠.md "wikilink") 전신

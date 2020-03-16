@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ CPC](https://ko.wikipedia.org/wiki/_CPC).
 
 
-**암스트래드 CPC**()는 [암스트래드](https://ko.wikipedia.org/wiki/암스트래드 "wikilink")가 1984년부터 1990년까지 제작했던 [8비트](https://ko.wikipedia.org/wiki/8비트 "wikilink") [가정용 컴퓨터이다](https://ko.wikipedia.org/wiki/가정용_컴퓨터 "wikilink"). CPC는 컬러 퍼스털 컴퓨터(Colour Personal Computer)의 줄임말이다.
+**암스트래드 CPC**()는 [암스트래드](../Page/암스트래드.md "wikilink")가 1984년부터 1990년까지 제작했던 [8비트](../Page/8비트.md "wikilink") [가정용 컴퓨터이다](../Page/가정용_컴퓨터.md "wikilink"). CPC는 컬러 퍼스털 컴퓨터(Colour Personal Computer)의 줄임말이다.
 
 CPC 시리즈는 300만 대 정도 판매되었다.\[1\]
 

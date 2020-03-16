@@ -11,7 +11,7 @@
 
 ### 논란
 
-"데칼코마니" 뮤직비디오 공개 후 강제 [키스](https://ko.wikipedia.org/wiki/키스 "wikilink")신 논란이 일었다. 엘리베이터 속에서 극중 남자 배역과 [솔라가](../Page/솔라_\(가수\).md "wikilink") 등장하는데, 남자는 키스를 시도하려 하고 솔라가 이에 저항하는 장면은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 내외 네티즌들에게 많은 혹평을 받았다.\[2\] 몇 시간 후 이 장면은 편집된 채 뮤직비디오는 재업로드되었다.
+"데칼코마니" 뮤직비디오 공개 후 강제 [키스](https://ko.wikipedia.org/wiki/키스 "wikilink")신 논란이 일었다. 엘리베이터 속에서 극중 남자 배역과 [솔라가](../Page/솔라_\(가수\).md "wikilink") 등장하는데, 남자는 키스를 시도하려 하고 솔라가 이에 저항하는 장면은 [대한민국](../Page/대한민국.md "wikilink") 내외 네티즌들에게 많은 혹평을 받았다.\[2\] 몇 시간 후 이 장면은 편집된 채 뮤직비디오는 재업로드되었다.
 
 ## 수록곡
 
@@ -19,7 +19,7 @@
 
 ## 외부 링크
 
-  - [MEMORY](http://music.naver.com/album/index.nhn?albumId=1456656) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직
+  - [MEMORY](http://music.naver.com/album/index.nhn?albumId=1456656) - [네이버](../Page/네이버.md "wikilink") 뮤직
 
   - [MEMORY](http://www.melon.com/album/detail.htm?albumId=10012900) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Paul McCartney Collection](https://ko.wikipedia.org/wiki/The_Paul_McCartney_Collection).
 
 
-《**The Paul McCartney Collection**》는 [폴 매카트니의](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 솔로 음반과 [윙스](https://ko.wikipedia.org/wiki/윙스 "wikilink")의 음반을 합한, 16개의 [리마스링된](../Page/디지털_리마스터링.md "wikilink") [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 시리즈를 담은 [박스 세트다](https://ko.wikipedia.org/wiki/박스_세트 "wikilink"). 이 음반 모음은 분산되어 발매했다. 1993년 6월 7일에 첫 여덟 음반이 발매되었고, 남은 음반은 같은해 8월 9일에 발매되었다. 처음 발매한 음반은 《<span>[McCartney](../Page/McCartney_\(음반\).md "wikilink")》</span>(1970)에서 《<span>London Town<span>》</span></span>(1978)까지로 구성되어 있고, 두 번째로 발매한 음반은 윙스의 《<span>Greatest》</span>(1978)에서 《<span>Flowers in the Dirt<span>》</span></span>(1989)로 구성되어 있다.\[1\]
+《**The Paul McCartney Collection**》는 [폴 매카트니의](../Page/폴_매카트니.md "wikilink") 솔로 음반과 [윙스](../Page/윙스.md "wikilink")의 음반을 합한, 16개의 [리마스링된](../Page/디지털_리마스터링.md "wikilink") [CD](../Page/콤팩트_디스크.md "wikilink") 시리즈를 담은 [박스 세트다](https://ko.wikipedia.org/wiki/박스_세트 "wikilink"). 이 음반 모음은 분산되어 발매했다. 1993년 6월 7일에 첫 여덟 음반이 발매되었고, 남은 음반은 같은해 8월 9일에 발매되었다. 처음 발매한 음반은 《<span>[McCartney](../Page/McCartney_\(음반\).md "wikilink")》</span>(1970)에서 《<span>London Town<span>》</span></span>(1978)까지로 구성되어 있고, 두 번째로 발매한 음반은 윙스의 《<span>Greatest》</span>(1978)에서 《<span>Flowers in the Dirt<span>》</span></span>(1989)로 구성되어 있다.\[1\]
 
 ## 내용물
 

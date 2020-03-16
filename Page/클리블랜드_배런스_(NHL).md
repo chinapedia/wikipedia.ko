@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
 
 
-**클리블랜드 배런스**(Cleveland Barons)는 1976년부터 1978년까지 [오하이오주](https://ko.wikipedia.org/wiki/오하이오주 "wikilink") [리치필드를](https://ko.wikipedia.org/wiki/리치필드_\(오하이오주\) "wikilink") 연고지로 하는 [NHL](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") [프린스 오브 웨일즈 콘퍼런스](../Page/동부_콘퍼런스_\(NHL\).md "wikilink") [애덤스 디비전](https://ko.wikipedia.org/wiki/애덤스_디비전_\(NHL\) "wikilink") 소속에 속한다.
+**클리블랜드 배런스**(Cleveland Barons)는 1976년부터 1978년까지 [오하이오주](../Page/오하이오주.md "wikilink") [리치필드를](https://ko.wikipedia.org/wiki/리치필드_\(오하이오주\) "wikilink") 연고지로 하는 [NHL](../Page/내셔널_하키_리그.md "wikilink") [프린스 오브 웨일즈 콘퍼런스](../Page/동부_콘퍼런스_\(NHL\).md "wikilink") [애덤스 디비전](../Page/애덤스_디비전_\(NHL\).md "wikilink") 소속에 속한다.
 
 ## 역대 홈경기장
 
@@ -27,7 +27,7 @@
 <td><p><a href="../Page/콜리시엄_앳_리치필드.md" title="wikilink">콜리시엄 앳 리치필드</a></p></td>
 <td><p>1976년~1978년</p></td>
 <td><p>18,544명</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오하이오주" title="wikilink">오하이오주</a> <a href="https://ko.wikipedia.org/wiki/리치필드_(오하이오주)" title="wikilink">리치필드</a></p></td>
+<td><p><a href="../Page/오하이오주.md" title="wikilink">오하이오주</a> <a href="https://ko.wikipedia.org/wiki/리치필드_(오하이오주)" title="wikilink">리치필드</a></p></td>
 <td></td>
 </tr>
 </tbody>

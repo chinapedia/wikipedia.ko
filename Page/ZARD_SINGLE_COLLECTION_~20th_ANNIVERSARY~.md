@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ZARD SINGLE COLLECTION \~20th ANNIVERSARY\~](https://ko.wikipedia.org/wiki/ZARD_SINGLE_COLLECTION_\~20th_ANNIVERSARY\~).
 
 
-《**ZARD SINGLE COLLECTION \~20th ANNIVERSARY\~**》는 일본의 밴드 [ZARD](https://ko.wikipedia.org/wiki/ZARD "wikilink")의 [박스 세트이며](https://ko.wikipedia.org/wiki/박스_세트 "wikilink"), CD 7장으로 구성되어 있다. 2011년 2월 10일 발매되었다. ([CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"): JBCD-2011\~2017)
+《**ZARD SINGLE COLLECTION \~20th ANNIVERSARY\~**》는 일본의 밴드 [ZARD](../Page/ZARD.md "wikilink")의 [박스 세트이며](https://ko.wikipedia.org/wiki/박스_세트 "wikilink"), CD 7장으로 구성되어 있다. 2011년 2월 10일 발매되었다. ([CD](../Page/콤팩트_디스크.md "wikilink"): JBCD-2011\~2017)
 
 ## 수록곡
 
 ### DISC 1
 
-  - 첫 번째 싱글 〈[Good-bye My Loneliness](https://ko.wikipedia.org/wiki/Good-bye_My_Loneliness "wikilink")〉부터 여덟 번째 싱글 〈[흔들리는 마음](../Page/흔들리는_마음.md "wikilink")〉까지 수록되어 있다.
+  - 첫 번째 싱글 〈[Good-bye My Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")〉부터 여덟 번째 싱글 〈[흔들리는 마음](../Page/흔들리는_마음.md "wikilink")〉까지 수록되어 있다.
 
 ### DISC 2
 
@@ -33,6 +33,6 @@
 
 ## 외부 링크
 
-  - [《ZARD SINGLE COLLECTION \~20th ANNIVERSARY\~》](http://www.oricon.co.jp/prof/26939/products/904099/1/) - [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink")
+  - [《ZARD SINGLE COLLECTION \~20th ANNIVERSARY\~》](http://www.oricon.co.jp/prof/26939/products/904099/1/) - [오리콘](../Page/오리콘.md "wikilink")
 
 [분류:ZARD의 음반](https://ko.wikipedia.org/wiki/분류:ZARD의_음반 "wikilink") [분류:2011년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:2011년_컴필레이션_음반 "wikilink")

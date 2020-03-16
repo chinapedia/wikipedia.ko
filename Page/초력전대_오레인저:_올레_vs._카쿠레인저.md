@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ :  vs. ](https://ko.wikipedia.org/wiki/_:__vs._).
 
 
-《**초력전대 오레인저: 올레 vs. 카쿠레인저**》()는 《[슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/슈퍼_전대_시리즈 "wikilink")》의 《[초력전대 오레인저](https://ko.wikipedia.org/wiki/초력전대_오레인저 "wikilink")》와 《[닌자전대 카쿠레인저](https://ko.wikipedia.org/wiki/닌자전대_카쿠레인저 "wikilink")》의 극장판으로, 오렌저와 카쿠렌저 간의 "VS 시리즈"에 해당하는 작품이다. [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [3월 8일](https://ko.wikipedia.org/wiki/3월_8일 "wikilink") 최초의 오리지널 비디오 작품으로서, 공식 공개되었다.
+《**초력전대 오레인저: 올레 vs. 카쿠레인저**》()는 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 《[초력전대 오레인저](../Page/초력전대_오레인저.md "wikilink")》와 《[닌자전대 카쿠레인저](../Page/닌자전대_카쿠레인저.md "wikilink")》의 극장판으로, 오렌저와 카쿠렌저 간의 "VS 시리즈"에 해당하는 작품이다. [1996년](../Page/1996년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") 최초의 오리지널 비디오 작품으로서, 공식 공개되었다.
 
 ## 개요
 

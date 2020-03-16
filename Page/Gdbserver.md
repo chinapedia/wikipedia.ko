@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gdbserver](https://ko.wikipedia.org/wiki/Gdbserver).
 
 
-**gdbserver**는 다른 프로그램들을 원격으로 [디버깅](https://ko.wikipedia.org/wiki/디버깅 "wikilink")할 수 있게 해주는 컴퓨터 프로그램이다.\[1\] 이것은 디버깅되는 프로그램과 같은 시스템에서 동작하며, [GNU 디버거를](https://ko.wikipedia.org/wiki/GNU_디버거 "wikilink") 다른 시스템에서 연결할 수 있게 한다; 즉 소스 코드와 바이너리 파일의 복사본 등은 개발자의 로컬 컴퓨터(호스트)에 두고, 대상 시스템에는 단지 디버그되는 실행 파일만 둘 수 있다. 이 연결은 [TCP](https://ko.wikipedia.org/wiki/TCP "wikilink") 또는 시리얼 라인을 통해 가능해 진다.
+**gdbserver**는 다른 프로그램들을 원격으로 [디버깅](https://ko.wikipedia.org/wiki/디버깅 "wikilink")할 수 있게 해주는 컴퓨터 프로그램이다.\[1\] 이것은 디버깅되는 프로그램과 같은 시스템에서 동작하며, [GNU 디버거를](../Page/GNU_디버거.md "wikilink") 다른 시스템에서 연결할 수 있게 한다; 즉 소스 코드와 바이너리 파일의 복사본 등은 개발자의 로컬 컴퓨터(호스트)에 두고, 대상 시스템에는 단지 디버그되는 실행 파일만 둘 수 있다. 이 연결은 [TCP](https://ko.wikipedia.org/wiki/TCP "wikilink") 또는 시리얼 라인을 통해 가능해 진다.
 
 ## 동작 원리
 
@@ -44,7 +44,7 @@ Program received signal SIGSEGV, Segmentation fault.
 
 ## 같이 보기
 
-  - [GNU 디버거](https://ko.wikipedia.org/wiki/GNU_디버거 "wikilink")
+  - [GNU 디버거](../Page/GNU_디버거.md "wikilink")
   - [KGDB](https://ko.wikipedia.org/wiki/KGDB "wikilink")
 
 ## 노트

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Birthday wedding](https://ko.wikipedia.org/wiki/Birthday_wedding).
 
 
-**Birthday wedding**은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성 아이돌 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [카시와기 유키의](https://ko.wikipedia.org/wiki/카시와기_유키 "wikilink") 노래이자 싱글이다.
+**Birthday wedding**은 [일본](../Page/일본.md "wikilink")의 여성 아이돌 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [카시와기 유키의](../Page/카시와기_유키.md "wikilink") 노래이자 싱글이다.
 
 ## 싱글 수록곡
 

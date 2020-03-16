@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
 
 
-**웨스트 디비전** (West Division)은 1967년부터 1974년까지 [NHL에](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") 존재했던 디비전이다.
+**웨스트 디비전** (West Division)은 1967년부터 1974년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
 
 ## 역대 웨스트 디비전 라인업
 
@@ -16,17 +16,17 @@
 <tbody>
 <tr class="odd">
 <td><p>1967년~1970년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="../Page/캘리포니아_골든_실스.md" title="wikilink">오클랜드 실스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/피츠버그_펭귄스" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a></p></td>
+<td><p><a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="../Page/캘리포니아_골든_실스.md" title="wikilink">오클랜드 실스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a></p></td>
 <td><p>6팀</p></td>
 </tr>
 <tr class="even">
 <td><p>1970년~1972년</p></td>
-<td><p><a href="../Page/캘리포니아_골든_실스.md" title="wikilink">캘리포니아 골든 실스</a>  <a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙 호크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/피츠버그_펭귄스" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a></p></td>
+<td><p><a href="../Page/캘리포니아_골든_실스.md" title="wikilink">캘리포니아 골든 실스</a>  <a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙 호크스</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a></p></td>
 <td><p>7팀</p></td>
 </tr>
 <tr class="odd">
 <td><p>1972년~1974년</p></td>
-<td><p><a href="../Page/애틀랜타_플레임스.md" title="wikilink">애틀랜타 플레임스</a> {{·}}  <a href="../Page/캘리포니아_골든_실스.md" title="wikilink">캘리포니아 골든 실스</a> {{·}}  <a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙 호크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/피츠버그_펭귄스" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a></p></td>
+<td><p><a href="../Page/애틀랜타_플레임스.md" title="wikilink">애틀랜타 플레임스</a> {{·}}  <a href="../Page/캘리포니아_골든_실스.md" title="wikilink">캘리포니아 골든 실스</a> {{·}}  <a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙 호크스</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/필라델피아_플라이어스" title="wikilink">필라델피아 플라이어스</a> {{·}}  <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a></p></td>
 <td><p>8팀</p></td>
 </tr>
 </tbody>

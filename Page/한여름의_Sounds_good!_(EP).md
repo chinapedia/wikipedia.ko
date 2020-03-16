@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ Sounds good! \(EP\)](https://ko.wikipedia.org/wiki/_Sounds_good!_\(EP\)).
 
 
-《**한여름의 Sounds good\!**》()은 중국의 걸 그룹 [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 여덟 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 8일에는](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") 양장판, [5월 15일에는](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") 표준판이 각각 발매됐다. 노래의 센터 포지션은 장위거이다. 타이틀 곡의 뮤직비디오는 [사이판](https://ko.wikipedia.org/wiki/사이판 "wikilink")에서 촬영됐다.
+《**한여름의 Sounds good\!**》()은 중국의 걸 그룹 [SNH48](../Page/SNH48.md "wikilink")의 여덟 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). [2015년](../Page/2015년.md "wikilink") [5월 8일에는](../Page/5월_8일.md "wikilink") 양장판, [5월 15일에는](../Page/5월_15일.md "wikilink") 표준판이 각각 발매됐다. 노래의 센터 포지션은 장위거이다. 타이틀 곡의 뮤직비디오는 [사이판](https://ko.wikipedia.org/wiki/사이판 "wikilink")에서 촬영됐다.
 
 양장판의 특전은 생사진 1장(24장 중에서 랜덤), 악수회 참가권 2장, 메이킹 DVD, 사진집 1권과 SNH48 2nd 선발 총선거 투표용 시리얼 넘버 카드 3장이다.
 

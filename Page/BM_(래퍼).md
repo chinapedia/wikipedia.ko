@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [BM \(\)](https://ko.wikipedia.org/wiki/BM_\(\)).
 
 
-**BM**(, [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [10월 20일](https://ko.wikipedia.org/wiki/10월_20일 "wikilink") \~ )은 혼성 그룹 [카드의](https://ko.wikipedia.org/wiki/카드_\(음악_그룹\) "wikilink") 멤버이며, 팀에서 king을 맡고있다.\[1\]상징문양은 ♣(클로버)이다.
+**BM**(, [1992년](../Page/1992년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ )은 혼성 그룹 [카드의](../Page/카드_\(음악_그룹\).md "wikilink") 멤버이며, 팀에서 king을 맡고있다.\[1\]상징문양은 ♣(클로버)이다.
 
 ## 활동
 
-2011년 《[K팝스타 시즌 1](https://ko.wikipedia.org/wiki/K팝스타_\(시즌_1\) "wikilink")》에 출연한 이후, [DSP 미디어에서](https://ko.wikipedia.org/wiki/DSP_미디어 "wikilink") 5년여 동안 연습생 생활했으며,\[2\] 2013년 [레인보우](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") Sunshine 뮤직비디오에 출연했다.\[3\] 그리고, 2015년 [구하라](https://ko.wikipedia.org/wiki/구하라 "wikilink")의 첫 번째 솔로 미니앨범 [ALOHARA](https://ko.wikipedia.org/wiki/ALOHARA "wikilink")의 타이틀곡 《초코칩쿠키》뮤직비디오에 출연했으며\[4\], 무대에서는 메인댄서로 활동했고, 수록곡 《La La La》의 랩피처링을 맡았으며, [제이셉](../Page/제이셉.md "wikilink")과 함께 수록곡 《어때?》무대에서 댄서로 활동했다.
+2011년 《[K팝스타 시즌 1](../Page/K팝스타_\(시즌_1\).md "wikilink")》에 출연한 이후, [DSP 미디어에서](../Page/DSP_미디어.md "wikilink") 5년여 동안 연습생 생활했으며,\[2\] 2013년 [레인보우](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") Sunshine 뮤직비디오에 출연했다.\[3\] 그리고, 2015년 [구하라](../Page/구하라.md "wikilink")의 첫 번째 솔로 미니앨범 [ALOHARA](https://ko.wikipedia.org/wiki/ALOHARA "wikilink")의 타이틀곡 《초코칩쿠키》뮤직비디오에 출연했으며\[4\], 무대에서는 메인댄서로 활동했고, 수록곡 《La La La》의 랩피처링을 맡았으며, [제이셉](../Page/제이셉.md "wikilink")과 함께 수록곡 《어때?》무대에서 댄서로 활동했다.
 
 2016년 카드의 멤버로 합류했다.
 
@@ -17,12 +17,12 @@
 
 ### 피처링
 
-  - [구하라](https://ko.wikipedia.org/wiki/구하라 "wikilink") - La La La (2015년)
+  - [구하라](../Page/구하라.md "wikilink") - La La La (2015년)
 
 ## 작사·작곡
 
   - 2016년
-      - [Oh NaNa](https://ko.wikipedia.org/wiki/Oh_NaNa "wikilink") - 작사
+      - [Oh NaNa](../Page/Oh_NaNa.md "wikilink") - 작사
   - 2017년
       - [RUMOR](https://ko.wikipedia.org/wiki/RUMOR "wikilink") - 작사
       - [Don\`t Recall](https://ko.wikipedia.org/wiki/Don\`t_Recall "wikilink") (Hidden Ver.) - 작사
@@ -47,16 +47,16 @@
 
 ### 라디오
 
-| 방송사                                                         | 제목        | 역할     | 날짜                          |
-| ----------------------------------------------------------- | --------- | ------ | --------------------------- |
-| [아리랑 라디오](https://ko.wikipedia.org/wiki/아리랑_라디오 "wikilink") | 《Sound K》 | 고정 출연자 | 2017년 1월 7일 \~ 2017년 8월 26일 |
+| 방송사                                      | 제목        | 역할     | 날짜                          |
+| ---------------------------------------- | --------- | ------ | --------------------------- |
+| [아리랑 라디오](../Page/아리랑_라디오.md "wikilink") | 《Sound K》 | 고정 출연자 | 2017년 1월 7일 \~ 2017년 8월 26일 |
 
 ### 뮤직비디오
 
-| 연도   | 가수                                                                    | 제목       |
-| ---- | --------------------------------------------------------------------- | -------- |
-| 2013 | [레인보우](https://ko.wikipedia.org/wiki/레인보우_\(대한민국의_음악_그룹\) "wikilink") | Sunshine |
-| 2015 | [구하라](https://ko.wikipedia.org/wiki/구하라 "wikilink")                   | 초코칩쿠키    |
+| 연도   | 가수                                                 | 제목       |
+| ---- | -------------------------------------------------- | -------- |
+| 2013 | [레인보우](../Page/레인보우_\(대한민국의_음악_그룹\).md "wikilink") | Sunshine |
+| 2015 | [구하라](../Page/구하라.md "wikilink")                   | 초코칩쿠키    |
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2007 UNCAF ](https://ko.wikipedia.org/wiki/2007_UNCAF_).
 
 
-**2007년 UNCAF 네이션스컵**(2007 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 9번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 8일부터](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") [2월 18일까지](https://ko.wikipedia.org/wiki/2월_18일 "wikilink") [엘살바도르](https://ko.wikipedia.org/wiki/엘살바도르 "wikilink")에서 개최되었다. 이 대회는 [2007년 CONCACAF 골드컵의](https://ko.wikipedia.org/wiki/2007년_CONCACAF_골드컵 "wikilink") 중앙아메리카 예선을 겸한다.
+**2007년 UNCAF 네이션스컵**(2007 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 9번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [2007년](../Page/2007년.md "wikilink") [2월 8일부터](../Page/2월_8일.md "wikilink") [2월 18일까지](../Page/2월_18일.md "wikilink") [엘살바도르](../Page/엘살바도르.md "wikilink")에서 개최되었다. 이 대회는 [2007년 CONCACAF 골드컵의](../Page/2007년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.
 
 우승 팀부터 5위 팀까지는 CONCACAF 골드컵 본선에 진출한다.
 
@@ -173,7 +173,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Costa_Rica_(state).svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/코스타리카_축구_국가대표팀" title="wikilink">코스타리카</a></strong><br />
+<strong><a href="../Page/코스타리카_축구_국가대표팀.md" title="wikilink">코스타리카</a></strong><br />
 <strong>6번째 우승</strong></p></td>
 </tr>
 </tbody>

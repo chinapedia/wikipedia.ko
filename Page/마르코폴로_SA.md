@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [ SA](https://ko.wikipedia.org/wiki/_SA).
 
 
-**마르코폴로 SA**()는 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")의 자동차 메이커이다.
+**마르코폴로 SA**()는 [브라질](../Page/브라질.md "wikilink")의 자동차 메이커이다.
 
 ## 개요
 
-[1949년](https://ko.wikipedia.org/wiki/1949년 "wikilink")에 창립된 [버스](https://ko.wikipedia.org/wiki/버스 "wikilink") 제조 기업으로 [도시형버스](https://ko.wikipedia.org/wiki/도시형버스 "wikilink"), [마이크로버스](https://ko.wikipedia.org/wiki/마이크로버스 "wikilink"), [고속버스](https://ko.wikipedia.org/wiki/고속버스 "wikilink")를 생산하고 있다. 또한 국제 사업부의 경우 대형버스부터 [도시형버스](https://ko.wikipedia.org/wiki/도시형버스 "wikilink"), [마이크로버스](https://ko.wikipedia.org/wiki/마이크로버스 "wikilink")까지 다양한 차종을 생산하고 있다. 현재 [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")에서 생산되는 버스의 절반 이상을 생산하고 60개 국가를 수출하고 있다.
+[1949년](../Page/1949년.md "wikilink")에 창립된 [버스](../Page/버스.md "wikilink") 제조 기업으로 [도시형버스](https://ko.wikipedia.org/wiki/도시형버스 "wikilink"), [마이크로버스](https://ko.wikipedia.org/wiki/마이크로버스 "wikilink"), [고속버스](https://ko.wikipedia.org/wiki/고속버스 "wikilink")를 생산하고 있다. 또한 국제 사업부의 경우 대형버스부터 [도시형버스](https://ko.wikipedia.org/wiki/도시형버스 "wikilink"), [마이크로버스](https://ko.wikipedia.org/wiki/마이크로버스 "wikilink")까지 다양한 차종을 생산하고 있다. 현재 [브라질](../Page/브라질.md "wikilink")에서 생산되는 버스의 절반 이상을 생산하고 60개 국가를 수출하고 있다.
 
-[브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") 국내 공장 뿐만 아니라 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink"), [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink"), [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink"), [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink"), [남아프리카 공화국](https://ko.wikipedia.org/wiki/남아프리카_공화국 "wikilink"), [러시아](https://ko.wikipedia.org/wiki/러시아 "wikilink")에 공장을 두고 있다. 또한 자사의 기술도 [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")에 수출하고 있다. [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink")에 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink") 시장에 진출하면서 [타타자동차](https://ko.wikipedia.org/wiki/타타자동차 "wikilink")와 합작으로 [타타 마르코폴로를](https://ko.wikipedia.org/wiki/타타_마르코폴로 "wikilink") 설립했다.
+[브라질](../Page/브라질.md "wikilink") 국내 공장 뿐만 아니라 [아르헨티나](../Page/아르헨티나.md "wikilink"), [콜롬비아](../Page/콜롬비아.md "wikilink"), [멕시코](../Page/멕시코.md "wikilink"), [포르투갈](../Page/포르투갈.md "wikilink"), [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink"), [러시아](../Page/러시아.md "wikilink")에 공장을 두고 있다. 또한 자사의 기술도 [중국](../Page/중국.md "wikilink")에 수출하고 있다. [2008년](../Page/2008년.md "wikilink")에 [인도](../Page/인도.md "wikilink") 시장에 진출하면서 [타타자동차](https://ko.wikipedia.org/wiki/타타자동차 "wikilink")와 합작으로 [타타 마르코폴로를](https://ko.wikipedia.org/wiki/타타_마르코폴로 "wikilink") 설립했다.
 
-[독일](https://ko.wikipedia.org/wiki/독일 "wikilink")의 [폭스바겐](https://ko.wikipedia.org/wiki/폭스바겐 "wikilink") [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink") 현지 기업인 [폭스바겐 두 브라질](https://ko.wikipedia.org/wiki/폭스바겐_두_브라질 "wikilink") 회사와 제휴할 뿐만 아니라 [폭스바겐](https://ko.wikipedia.org/wiki/폭스바겐 "wikilink"), [스카니아](https://ko.wikipedia.org/wiki/스카니아 "wikilink"), [볼보 버스](https://ko.wikipedia.org/wiki/볼보_버스 "wikilink") 부품을 사용하면서 버스를 판매하고 있다.
+[독일](../Page/독일.md "wikilink")의 [폭스바겐](../Page/폭스바겐.md "wikilink") [브라질](../Page/브라질.md "wikilink") 현지 기업인 [폭스바겐 두 브라질](https://ko.wikipedia.org/wiki/폭스바겐_두_브라질 "wikilink") 회사와 제휴할 뿐만 아니라 [폭스바겐](../Page/폭스바겐.md "wikilink"), [스카니아](../Page/스카니아.md "wikilink"), [볼보 버스](https://ko.wikipedia.org/wiki/볼보_버스 "wikilink") 부품을 사용하면서 버스를 판매하고 있다.
 
 ## 생산 차종
 
@@ -34,12 +34,12 @@
 
   - 이데알레 600
   - 시니어
-  - 탬플 ([콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink")에서 판매)
+  - 탬플 ([콜롬비아](../Page/콜롬비아.md "wikilink")에서 판매)
 
 **소형 버스**
 
   - 프라텔로
-  - 리스토 ([콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink")에서 판매)
+  - 리스토 ([콜롬비아](../Page/콜롬비아.md "wikilink")에서 판매)
   - 비치노
 
 ## 사진

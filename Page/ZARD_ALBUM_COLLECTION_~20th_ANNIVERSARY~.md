@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ZARD ALBUM COLLECTION \~20th ANNIVERSARY\~](https://ko.wikipedia.org/wiki/ZARD_ALBUM_COLLECTION_\~20th_ANNIVERSARY\~).
 
 
-《**ZARD ALBUM COLLECTION \~20th ANNIVERSARY\~**》는 일본의 밴드 [ZARD](https://ko.wikipedia.org/wiki/ZARD "wikilink")의 [박스 세트로](https://ko.wikipedia.org/wiki/박스_세트 "wikilink"), CD 12장으로 구성되어 있으며 2012년 1월 1일 발매되었다. ([CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"): JBCD-2012)
+《**ZARD ALBUM COLLECTION \~20th ANNIVERSARY\~**》는 일본의 밴드 [ZARD](../Page/ZARD.md "wikilink")의 [박스 세트로](https://ko.wikipedia.org/wiki/박스_세트 "wikilink"), CD 12장으로 구성되어 있으며 2012년 1월 1일 발매되었다. ([CD](../Page/콤팩트_디스크.md "wikilink"): JBCD-2012)
 
 ## 수록 작품
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - 《[Good-bye My Loneliness](https://ko.wikipedia.org/wiki/Good-bye_My_Loneliness_\(음반\) "wikilink")》
+  - 《[Good-bye My Loneliness](../Page/Good-bye_My_Loneliness_\(음반\).md "wikilink")》
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@
 
 <!-- end list -->
 
-  - 《[영원](https://ko.wikipedia.org/wiki/영원_\(ZARD의_음반\) "wikilink")》
+  - 《[영원](../Page/영원_\(ZARD의_음반\).md "wikilink")》
 
 <!-- end list -->
 
@@ -99,6 +99,6 @@
 
 ## 외부 링크
 
-  - [《ZARD ALBUM COLLECTION \~20th ANNIVERSARY\~》](http://www.oricon.co.jp/prof/26939/products/945929/1/) - [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink")
+  - [《ZARD ALBUM COLLECTION \~20th ANNIVERSARY\~》](http://www.oricon.co.jp/prof/26939/products/945929/1/) - [오리콘](../Page/오리콘.md "wikilink")
 
 [분류:ZARD의 음반](https://ko.wikipedia.org/wiki/분류:ZARD의_음반 "wikilink") [분류:2012년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:2012년_컴필레이션_음반 "wikilink")

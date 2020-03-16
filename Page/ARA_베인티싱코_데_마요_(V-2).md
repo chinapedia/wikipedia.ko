@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ARA    \(V-2\)](https://ko.wikipedia.org/wiki/ARA____\(V-2\)).
 
 
-**ARA 베인티싱코 데 마요 (V-2)**(ARA Veinticinco de Mayo (V-2))는 [아르헨티나 해군의](https://ko.wikipedia.org/wiki/아르헨티나_해군 "wikilink") 항공모함이다.
+**ARA 베인티싱코 데 마요 (V-2)**(ARA Veinticinco de Mayo (V-2))는 [아르헨티나 해군의](../Page/아르헨티나_해군.md "wikilink") 항공모함이다.
 
 ## 역사
 
@@ -13,13 +13,13 @@
 
 [콜로서스급 항공모함은](../Page/콜로서스급_항공모함.md "wikilink") 9번함 [HMS 트라이엄프 (R16)이](https://ko.wikipedia.org/wiki/HMS_트라이엄프_\(R16\) "wikilink") [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")에 초기에 참전해, 1950년 7월 3일 북한을 공습한 것으로 유명하다.
 
-아르헨티나와 브라질은 남미 좌파를 대표하는 2대 강대국으로, 양국은 함께 핵개발을 추진하기도 했었다. [브라질 해군은](https://ko.wikipedia.org/wiki/브라질_해군 "wikilink") 1956년 [콜로서스급 항공모함](../Page/콜로서스급_항공모함.md "wikilink") 5번함 [:en:HMS Vengeance (R71)를](https://ko.wikipedia.org/wiki/:en:HMS_Vengeance_\(R71\) "wikilink") 중고로 수입해 [미나스제라이스 항공모함이라고](https://ko.wikipedia.org/wiki/미나스제라이스_항공모함 "wikilink") 명명했다. 네덜란드에 보내서 4년 동안 현대식 항공모함으로 개조했다. [캐터펄트](https://ko.wikipedia.org/wiki/캐터펄트 "wikilink")가 1개뿐이다.
+아르헨티나와 브라질은 남미 좌파를 대표하는 2대 강대국으로, 양국은 함께 핵개발을 추진하기도 했었다. [브라질 해군은](https://ko.wikipedia.org/wiki/브라질_해군 "wikilink") 1956년 [콜로서스급 항공모함](../Page/콜로서스급_항공모함.md "wikilink") 5번함 [:en:HMS Vengeance (R71)를](https://ko.wikipedia.org/wiki/:en:HMS_Vengeance_\(R71\) "wikilink") 중고로 수입해 [미나스제라이스 항공모함이라고](../Page/미나스제라이스_항공모함.md "wikilink") 명명했다. 네덜란드에 보내서 4년 동안 현대식 항공모함으로 개조했다. [캐터펄트](https://ko.wikipedia.org/wiki/캐터펄트 "wikilink")가 1개뿐이다.
 
 ## 함재기
 
-초기에는 [F9F 팬더](https://ko.wikipedia.org/wiki/F9F_팬더 "wikilink"), [F9F 쿠거](https://ko.wikipedia.org/wiki/F9F_쿠거 "wikilink") 전투기를 사용했다. [한국 전쟁](https://ko.wikipedia.org/wiki/한국_전쟁 "wikilink") 당시 쌕쌕이로 불리던 전투기들이다. 이후에는 [A-4Q 스카이호크](https://ko.wikipedia.org/wiki/더글러스_A-4_스카이호크 "wikilink") 전투기, [S-2 트랙커](https://ko.wikipedia.org/wiki/S-2_트랙커 "wikilink") 대잠전기, [SH-3 시 킹](https://ko.wikipedia.org/wiki/SH-3_시_킹 "wikilink") 헬기로 교체되었다.
+초기에는 [F9F 팬더](https://ko.wikipedia.org/wiki/F9F_팬더 "wikilink"), [F9F 쿠거](https://ko.wikipedia.org/wiki/F9F_쿠거 "wikilink") 전투기를 사용했다. [한국 전쟁](../Page/한국_전쟁.md "wikilink") 당시 쌕쌕이로 불리던 전투기들이다. 이후에는 [A-4Q 스카이호크](../Page/더글러스_A-4_스카이호크.md "wikilink") 전투기, [S-2 트랙커](https://ko.wikipedia.org/wiki/S-2_트랙커 "wikilink") 대잠전기, [SH-3 시 킹](https://ko.wikipedia.org/wiki/SH-3_시_킹 "wikilink") 헬기로 교체되었다.
 
-1969년 8월 네덜란드에서 아르헨티나로 팔려 항해해 오고 있던 도중에, 영국 [호커 시들리는](https://ko.wikipedia.org/wiki/호커_시들리 "wikilink") [해리어 GR.1을](https://ko.wikipedia.org/wiki/호커_시들리_해리어 "wikilink") 베인티싱코 데 마요에 착륙시키며 판매를 홍보했다.
+1969년 8월 네덜란드에서 아르헨티나로 팔려 항해해 오고 있던 도중에, 영국 [호커 시들리는](https://ko.wikipedia.org/wiki/호커_시들리 "wikilink") [해리어 GR.1을](../Page/호커_시들리_해리어.md "wikilink") 베인티싱코 데 마요에 착륙시키며 판매를 홍보했다.
 
 ## 독도함
 

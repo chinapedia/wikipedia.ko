@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Snow halation](https://ko.wikipedia.org/wiki/Snow_halation).
 
 
-〈**Snow halation**〉(스노할레이션, )은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 여성 [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink") [μ's](https://ko.wikipedia.org/wiki/μ's "wikilink")(뮤즈)의 2번째 싱글이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 22일에](https://ko.wikipedia.org/wiki/12월_22일 "wikilink") [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")에서 발매되었다.
+〈**Snow halation**〉(스노할레이션, )은 [일본](../Page/일본.md "wikilink")의 여성 [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink") [μ's](https://ko.wikipedia.org/wiki/μ's "wikilink")(뮤즈)의 2번째 싱글이다. [2010년](../Page/2010년.md "wikilink") [12월 22일에](../Page/12월_22일.md "wikilink") [란티스](../Page/란티스.md "wikilink")에서 발매되었다.
 
 ## 수록곡
 

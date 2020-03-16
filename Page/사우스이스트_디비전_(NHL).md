@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
 
 
-**사우스이스트 디비전** (Southeast Division)은 1998년부터 2013년까지 [NHL에](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") 존재했던 디비전이다.
+**사우스이스트 디비전** (Southeast Division)은 1998년부터 2013년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
 
 ## 역대 사우스이스트 디비전 라인업
 
@@ -16,17 +16,17 @@
 <tbody>
 <tr class="odd">
 <td><p>1998년~1999년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐롤라이나_허리케인스" title="wikilink">캐롤라이나 허리케인스</a> {{·}}  <a href="../Page/플로리다_팬서스.md" title="wikilink">플로리다 팬서스</a> {{·}}  <a href="../Page/탬파베이_라이트닝.md" title="wikilink">탬파베이 라이트닝</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
+<td><p><a href="../Page/캐롤라이나_허리케인스.md" title="wikilink">캐롤라이나 허리케인스</a> {{·}}  <a href="../Page/플로리다_팬서스.md" title="wikilink">플로리다 팬서스</a> {{·}}  <a href="../Page/탬파베이_라이트닝.md" title="wikilink">탬파베이 라이트닝</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
 <td><p>4팀</p></td>
 </tr>
 <tr class="even">
 <td><p>1999년~2011년</p></td>
-<td><p><a href="../Page/애틀랜타_스래셔스.md" title="wikilink">애틀랜타 스래셔스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/캐롤라이나_허리케인스" title="wikilink">캐롤라이나 허리케인스</a> {{·}}  <a href="../Page/플로리다_팬서스.md" title="wikilink">플로리다 팬서스</a> {{·}}  <a href="../Page/탬파베이_라이트닝.md" title="wikilink">탬파베이 라이트닝</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
+<td><p><a href="../Page/애틀랜타_스래셔스.md" title="wikilink">애틀랜타 스래셔스</a> {{·}}  <a href="../Page/캐롤라이나_허리케인스.md" title="wikilink">캐롤라이나 허리케인스</a> {{·}}  <a href="../Page/플로리다_팬서스.md" title="wikilink">플로리다 팬서스</a> {{·}}  <a href="../Page/탬파베이_라이트닝.md" title="wikilink">탬파베이 라이트닝</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
 <td><p>5팀</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년~2013년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐롤라이나_허리케인스" title="wikilink">캐롤라이나 허리케인스</a> {{·}}  <a href="../Page/플로리다_팬서스.md" title="wikilink">플로리다 팬서스</a> {{·}}  <a href="../Page/탬파베이_라이트닝.md" title="wikilink">탬파베이 라이트닝</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/위니펙_제츠" title="wikilink">위니펙 제츠</a></p></td>
+<td><p><a href="../Page/캐롤라이나_허리케인스.md" title="wikilink">캐롤라이나 허리케인스</a> {{·}}  <a href="../Page/플로리다_팬서스.md" title="wikilink">플로리다 팬서스</a> {{·}}  <a href="../Page/탬파베이_라이트닝.md" title="wikilink">탬파베이 라이트닝</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/위니펙_제츠" title="wikilink">위니펙 제츠</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -45,7 +45,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1998~1999</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐롤라이나_허리케인스" title="wikilink">캐롤라이나 허리케인스</a></p></td>
+<td><p><a href="../Page/캐롤라이나_허리케인스.md" title="wikilink">캐롤라이나 허리케인스</a></p></td>
 <td><p>34승 30패 18무 승점 86점</p></td>
 </tr>
 <tr class="even">
@@ -60,7 +60,7 @@
 </tr>
 <tr class="even">
 <td><p>2001~2002</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐롤라이나_허리케인스" title="wikilink">캐롤라이나 허리케인스</a></p></td>
+<td><p><a href="../Page/캐롤라이나_허리케인스.md" title="wikilink">캐롤라이나 허리케인스</a></p></td>
 <td><p>35승 26패 16무 5패 (연장전 패) 승점 91점</p></td>
 </tr>
 <tr class="odd">
@@ -80,7 +80,7 @@
 </tr>
 <tr class="even">
 <td><p>2005~2006</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐롤라이나_허리케인스" title="wikilink">캐롤라이나 허리케인스</a></p></td>
+<td><p><a href="../Page/캐롤라이나_허리케인스.md" title="wikilink">캐롤라이나 허리케인스</a></p></td>
 <td><p>52승 22패 8패 (연장전 패) 승점 112점</p></td>
 </tr>
 <tr class="odd">
@@ -137,7 +137,7 @@
 </tr>
 <tr class="even">
 <td><p>3회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캐롤라이나_허리케인스" title="wikilink">캐롤라이나 허리케인스</a></p></td>
+<td><p><a href="../Page/캐롤라이나_허리케인스.md" title="wikilink">캐롤라이나 허리케인스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2회</p></td>
@@ -156,14 +156,14 @@
 | 시즌         | 순위                                                                |
 | ---------- | ----------------------------------------------------------------- |
 | 1위         | 2위                                                                |
-| 1998\~1999 | [허리케인스](https://ko.wikipedia.org/wiki/캐롤라이나_허리케인스 "wikilink")     |
+| 1998\~1999 | [허리케인스](../Page/캐롤라이나_허리케인스.md "wikilink")                        |
 | 1999\~2000 | [캐피털스](https://ko.wikipedia.org/wiki/워싱턴_캐피털스_\(NHL\) "wikilink") |
 | 2000\~2001 | [캐피털스](https://ko.wikipedia.org/wiki/워싱턴_캐피털스_\(NHL\) "wikilink") |
-| 2001\~2002 | [허리케인스](https://ko.wikipedia.org/wiki/캐롤라이나_허리케인스 "wikilink")     |
+| 2001\~2002 | [허리케인스](../Page/캐롤라이나_허리케인스.md "wikilink")                        |
 | 2002\~2003 | [라이트닝](../Page/탬파베이_라이트닝.md "wikilink")                           |
 | 2003\~2004 | [라이트닝](../Page/탬파베이_라이트닝.md "wikilink")                           |
 | 2004\~2005 | 파업으로 인해 개최되지 않다.                                                  |
-| 2005\~2006 | [허리케인스](https://ko.wikipedia.org/wiki/캐롤라이나_허리케인스 "wikilink")     |
+| 2005\~2006 | [허리케인스](../Page/캐롤라이나_허리케인스.md "wikilink")                        |
 | 2006\~2007 | [스래셔스](../Page/애틀랜타_스래셔스.md "wikilink")                           |
 | 2007\~2008 | [캐피털스](https://ko.wikipedia.org/wiki/워싱턴_캐피털스_\(NHL\) "wikilink") |
 | 2008\~2009 | [캐피털스](https://ko.wikipedia.org/wiki/워싱턴_캐피털스_\(NHL\) "wikilink") |

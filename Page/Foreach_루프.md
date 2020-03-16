@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Foreach ](https://ko.wikipedia.org/wiki/Foreach_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:For-Loop-Mint-Programming-Language-Type-2.gif "wikilink") **For each**(또는 foreach)는 컬렉션 안의 항목들을 횡단하는 [제어 흐름](https://ko.wikipedia.org/wiki/제어_흐름 "wikilink") 문이다. Foreach는 표준 [For](https://ko.wikipedia.org/wiki/For_루프 "wikilink") [문](https://ko.wikipedia.org/wiki/문_\(프로그래밍\) "wikilink") 대신 사용되는 것이 일반적이다. 그러나 loop 구조체를 위한 다른 루프와 달리 foreach 루프\[1\]는 일반적으로 명시적인 카운터를 관리하지 않는다. 즉, "이것을 x번 하라"라고 하지 않고 "이 집합 안에서 모든 것에 대해 이것을 하라"라고 필수적으로 명시하게 된다. 잠재적인 [순환 횟수 오류](https://ko.wikipedia.org/wiki/순환_횟수_오류 "wikilink")(off-by-one error)를 예방하고 코드를 더 단순하게 읽힐 수 있게 만들어준다. 객체 지향 언어에서는 횡단을 위해 비명시적인 경우에도 [반복자](../Page/반복자.md "wikilink")가 종종 사용된다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:For-Loop-Mint-Programming-Language-Type-2.gif "wikilink") **For each**(또는 foreach)는 컬렉션 안의 항목들을 횡단하는 [제어 흐름](../Page/제어_흐름.md "wikilink") 문이다. Foreach는 표준 [For](../Page/For_루프.md "wikilink") [문](https://ko.wikipedia.org/wiki/문_\(프로그래밍\) "wikilink") 대신 사용되는 것이 일반적이다. 그러나 loop 구조체를 위한 다른 루프와 달리 foreach 루프\[1\]는 일반적으로 명시적인 카운터를 관리하지 않는다. 즉, "이것을 x번 하라"라고 하지 않고 "이 집합 안에서 모든 것에 대해 이것을 하라"라고 필수적으로 명시하게 된다. 잠재적인 [순환 횟수 오류](https://ko.wikipedia.org/wiki/순환_횟수_오류 "wikilink")(off-by-one error)를 예방하고 코드를 더 단순하게 읽힐 수 있게 만들어준다. 객체 지향 언어에서는 횡단을 위해 비명시적인 경우에도 [반복자](../Page/반복자.md "wikilink")가 종종 사용된다.
 
 ## 문법
 
@@ -67,8 +67,8 @@ for (var key in object) {
 ## 같이 보기
 
   - [Do while 루프](https://ko.wikipedia.org/wiki/Do_while_루프 "wikilink")
-  - [For 루프](https://ko.wikipedia.org/wiki/For_루프 "wikilink")
-  - [While 루프](https://ko.wikipedia.org/wiki/While_루프 "wikilink")
+  - [For 루프](../Page/For_루프.md "wikilink")
+  - [While 루프](../Page/While_루프.md "wikilink")
 
 ## 각주
 

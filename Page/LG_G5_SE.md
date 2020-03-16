@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG G5 SE](https://ko.wikipedia.org/wiki/LG_G5_SE).
 
 
-**LG G5 SE**는 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [5월 29일](https://ko.wikipedia.org/wiki/5월_29일 "wikilink") 출시한 중저가형 스마트폰이다.\[1\] [G5의](../Page/LG_G5.md "wikilink") [퀄컴](https://ko.wikipedia.org/wiki/퀄컴 "wikilink") [스냅드래곤](https://ko.wikipedia.org/wiki/스냅드래곤 "wikilink") 652 버전으로 성능이 소폭 하향 되었지만 일부 남미 국가에는 LG G5의 이름으로 출시되기도 하였다.
+**LG G5 SE**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") 출시한 중저가형 스마트폰이다.\[1\] [G5의](../Page/LG_G5.md "wikilink") [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") 652 버전으로 성능이 소폭 하향 되었지만 일부 남미 국가에는 LG G5의 이름으로 출시되기도 하였다.
 
 ## 운영 체제 / 소프트웨어
 

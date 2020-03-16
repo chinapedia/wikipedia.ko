@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ZARD Premium Box 1991-2008 Complete Single Collection](https://ko.wikipedia.org/wiki/ZARD_Premium_Box_1991-2008_Complete_Single_Collection).
 
 
-《**ZARD Premium Box 1991-2008 Complete Single Collection**》은 일본의 밴드 [ZARD](https://ko.wikipedia.org/wiki/ZARD "wikilink")의 [박스 세트로서](https://ko.wikipedia.org/wiki/박스_세트 "wikilink"), 2008년 5월 28일 발매되었다. ([CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink"): JBCD-2008-1\~49) 첫 싱글 〈[Good-bye My Loneliness](https://ko.wikipedia.org/wiki/Good-bye_My_Loneliness "wikilink")〉부터 당시의 마지막 싱글 〈[날개를 펼쳐/사랑은 어두운 곳 안에서](https://ko.wikipedia.org/wiki/날개를_펼쳐/사랑은_어두운_곳_안에서 "wikilink")〉까지 44장의 싱글에, 다른 아티스트와 공동으로 발매한 싱글 4장을 더해 49장의 싱글과 미발표 곡 1곡, 특전 DVD까지 총 50장으로 구성되어 있다.
+《**ZARD Premium Box 1991-2008 Complete Single Collection**》은 일본의 밴드 [ZARD](../Page/ZARD.md "wikilink")의 [박스 세트로서](https://ko.wikipedia.org/wiki/박스_세트 "wikilink"), 2008년 5월 28일 발매되었다. ([CD](../Page/콤팩트_디스크.md "wikilink"): JBCD-2008-1\~49) 첫 싱글 〈[Good-bye My Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")〉부터 당시의 마지막 싱글 〈[날개를 펼쳐/사랑은 어두운 곳 안에서](https://ko.wikipedia.org/wiki/날개를_펼쳐/사랑은_어두운_곳_안에서 "wikilink")〉까지 44장의 싱글에, 다른 아티스트와 공동으로 발매한 싱글 4장을 더해 49장의 싱글과 미발표 곡 1곡, 특전 DVD까지 총 50장으로 구성되어 있다.
 
 2002년 팬클럽 회원만을 대상으로 《PREMIUM BOX 1991-2001》을 발매했던 이력이 있으며, 본 박스 세트는 2002년 발매되었던 것에 싱글이 더 추가된 구성이다. 따라서 기존 《PREMIUM BOX 1991-2001》를 구입했던 소비자들을 위해 《ZARD PREMIUM BOX 2002-2008》를 수주로 한정 판매하기도 했다.
 
@@ -23,6 +23,6 @@
 
 ## 외부 링크
 
-  - [《ZARD Premium Box 1991-2008 Complete Single Collection》](http://www.oricon.co.jp/prof/26939/products/764310/1/) - [오리콘](https://ko.wikipedia.org/wiki/오리콘 "wikilink")
+  - [《ZARD Premium Box 1991-2008 Complete Single Collection》](http://www.oricon.co.jp/prof/26939/products/764310/1/) - [오리콘](../Page/오리콘.md "wikilink")
 
 [분류:ZARD의 음반](https://ko.wikipedia.org/wiki/분류:ZARD의_음반 "wikilink") [분류:2008년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:2008년_컴필레이션_음반 "wikilink")

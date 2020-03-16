@@ -5,7 +5,7 @@
 
 ## 개요
 
-우라노호시 여학원에서 결성된 스쿨 아이돌 그룹으로, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 28일에](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") 유닛 이름이 발표되었다.
+우라노호시 여학원에서 결성된 스쿨 아이돌 그룹으로, [2015년](../Page/2015년.md "wikilink") [6월 28일에](../Page/6월_28일.md "wikilink") 유닛 이름이 발표되었다.
 
 ## 구성원
 

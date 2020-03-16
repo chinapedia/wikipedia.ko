@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [REBOUND](https://ko.wikipedia.org/wiki/REBOUND).
 
 
-《**REBOUND**》는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [10월 29일부터](https://ko.wikipedia.org/wiki/10월_29일 "wikilink") [12월 31일까지](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [XTM](https://ko.wikipedia.org/wiki/XTM "wikilink")에서 방송된 최초 스트릿볼 서바이벌 프로그램이다.
+《**REBOUND**》는 [2016년](../Page/2016년.md "wikilink") [10월 29일부터](../Page/10월_29일.md "wikilink") [12월 31일까지](../Page/12월_31일.md "wikilink") [XTM](../Page/XTM.md "wikilink")에서 방송된 최초 스트릿볼 서바이벌 프로그램이다.
 
 ## 출연자
 
 ### MC
 
-  - [산이](https://ko.wikipedia.org/wiki/산이 "wikilink")
+  - [산이](../Page/산이.md "wikilink")
   - 킹콩 (호스트)
   - 스케줄원 (호스트)
   - DJ R2 (호스트)
 
 ### 스쿼드
 
-  - [김승현](https://ko.wikipedia.org/wiki/김승현_\(농구인\) "wikilink") & [하하](https://ko.wikipedia.org/wiki/하하 "wikilink")
-  - [정진운](https://ko.wikipedia.org/wiki/정진운 "wikilink") & [이승준](https://ko.wikipedia.org/wiki/이승준_\(농구_선수\) "wikilink") & [이동준](https://ko.wikipedia.org/wiki/이동준_\(1980년\) "wikilink")
-  - [현주엽](https://ko.wikipedia.org/wiki/현주엽 "wikilink") & [박광재](../Page/박광재.md "wikilink")
-  - [주석](https://ko.wikipedia.org/wiki/주석_\(가수\) "wikilink") & 안희욱
+  - [김승현](../Page/김승현_\(농구인\).md "wikilink") & [하하](https://ko.wikipedia.org/wiki/하하 "wikilink")
+  - [정진운](../Page/정진운.md "wikilink") & [이승준](../Page/이승준_\(농구_선수\).md "wikilink") & [이동준](../Page/이동준_\(1980년\).md "wikilink")
+  - [현주엽](../Page/현주엽.md "wikilink") & [박광재](../Page/박광재.md "wikilink")
+  - [주석](../Page/주석_\(가수\).md "wikilink") & 안희욱
 
 ## 플레이어
 
@@ -31,7 +31,7 @@
   - 방덕원
   - 곽지훈
   - 김철우
-  - [베이식](https://ko.wikipedia.org/wiki/베이식_\(가수\) "wikilink")
+  - [베이식](../Page/베이식_\(가수\).md "wikilink")
   - 이항범
   - 구슬
   - 임상엽
@@ -45,7 +45,7 @@
 
 ### 2차 예선
 
-  - [김승현](https://ko.wikipedia.org/wiki/김승현_\(농구인\) "wikilink") & [하하](https://ko.wikipedia.org/wiki/하하 "wikilink") 스쿼드 - 나팀사
+  - [김승현](../Page/김승현_\(농구인\).md "wikilink") & [하하](https://ko.wikipedia.org/wiki/하하 "wikilink") 스쿼드 - 나팀사
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - [현주엽](https://ko.wikipedia.org/wiki/현주엽 "wikilink") & [박광재](../Page/박광재.md "wikilink") 스쿼드 - 리벤저스
+  - [현주엽](../Page/현주엽.md "wikilink") & [박광재](../Page/박광재.md "wikilink") 스쿼드 - 리벤저스
 
 <!-- end list -->
 
@@ -73,13 +73,13 @@
   - 김태삼
   - 박힘찬
   - 강경민
-  - [강상원](https://ko.wikipedia.org/wiki/강상원_\(배우\) "wikilink")
-  - [베이식](https://ko.wikipedia.org/wiki/베이식_\(가수\) "wikilink")
+  - [강상원](../Page/강상원_\(배우\).md "wikilink")
+  - [베이식](../Page/베이식_\(가수\).md "wikilink")
   - 임준혁
 
 <!-- end list -->
 
-  - [정진운](https://ko.wikipedia.org/wiki/정진운 "wikilink") & [이승준](https://ko.wikipedia.org/wiki/이승준_\(농구_선수\) "wikilink") & [이동준](https://ko.wikipedia.org/wiki/이동준_\(1980년\) "wikilink") 스쿼드 - Shake and Bake
+  - [정진운](../Page/정진운.md "wikilink") & [이승준](../Page/이승준_\(농구_선수\).md "wikilink") & [이동준](../Page/이동준_\(1980년\).md "wikilink") 스쿼드 - Shake and Bake
 
 <!-- end list -->
 
@@ -96,7 +96,7 @@
 
 <!-- end list -->
 
-  - [주석](https://ko.wikipedia.org/wiki/주석_\(가수\) "wikilink") & 안희욱 스쿼드 - 언더독스
+  - [주석](../Page/주석_\(가수\).md "wikilink") & 안희욱 스쿼드 - 언더독스
 
 <!-- end list -->
 

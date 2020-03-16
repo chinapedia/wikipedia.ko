@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
 
 
-《**전자전대 메가레인저 vs. 카레인저**》()는 《[슈퍼 전대 시리즈](https://ko.wikipedia.org/wiki/슈퍼_전대_시리즈 "wikilink")》의 《[전자전대 메가레인저](https://ko.wikipedia.org/wiki/전자전대_메가레인저 "wikilink")》와 《[격주전대 카레인저](https://ko.wikipedia.org/wiki/격주전대_카레인저 "wikilink")》의 극장판으로, 카레인저와 오레인저 간의 "VS 시리즈"에 해당하는 작품이다. [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink") 최초의 오리지널 비디오 작품으로서, 공식 공개되었다.
+《**전자전대 메가레인저 vs. 카레인저**》()는 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 《[전자전대 메가레인저](../Page/전자전대_메가레인저.md "wikilink")》와 《[격주전대 카레인저](../Page/격주전대_카레인저.md "wikilink")》의 극장판으로, 카레인저와 오레인저 간의 "VS 시리즈"에 해당하는 작품이다. [1998년](../Page/1998년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink") 최초의 오리지널 비디오 작품으로서, 공식 공개되었다.
 
 ## 개요
 
-《[전자전대 메가레인저](https://ko.wikipedia.org/wiki/전자전대_메가레인저 "wikilink")》과 《[격주전대 카레인저](https://ko.wikipedia.org/wiki/격주전대_카레인저 "wikilink")》의 크로스 오버 작품인 슈퍼 전대 OV시리즈 제3탄.
+《[전자전대 메가레인저](../Page/전자전대_메가레인저.md "wikilink")》과 《[격주전대 카레인저](../Page/격주전대_카레인저.md "wikilink")》의 크로스 오버 작품인 슈퍼 전대 OV시리즈 제3탄.
 
 메가 레인저의 졸업 사진 촬영시의 에피소드에서 《메가레인저》 TV시리즈 본편에 비정하면 3학기에 들어간 제46이야기 이후 정체가 일반에 알려진 제49말보다 전에 해당한다고 생각한다\[1\].
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Wc \(\)](https://ko.wikipedia.org/wiki/Wc_\(\)).
 
 
-**wc**는 표준 [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink") [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink") 프로그램으로서 각각의 파일에 대한 줄(line), 단어(word), 문자(char), 그리고 바이트(byte) 수를 알려준다.
+**wc**는 표준 [유닉스](../Page/유닉스.md "wikilink") [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink") 프로그램으로서 각각의 파일에 대한 줄(line), 단어(word), 문자(char), 그리고 바이트(byte) 수를 알려준다.
 
 ## 사용법
 

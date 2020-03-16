@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  \(IBM \)](https://ko.wikipedia.org/wiki/__\(IBM_\)).
 
 
-[IBM](https://ko.wikipedia.org/wiki/IBM "wikilink") [메인프레임 컴퓨터의](https://ko.wikipedia.org/wiki/메인프레임_컴퓨터 "wikilink") 문맥에서 **데이터 세트**\[1\](data set)는 [레코드 조직을](https://ko.wikipedia.org/wiki/레코드_지향_파일_시스템 "wikilink") 보유하고 있는 [컴퓨터 파일의](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink") 하나이다. 이 용어의 이용은 [OS/360](https://ko.wikipedia.org/wiki/OS/360 "wikilink")과 함께 시작하였으며 현재의 [z/OS](https://ko.wikipedia.org/wiki/z/OS "wikilink")를 포함한 이후 세대에서도 여전히 사용되고 있다. 이러한 시스템들의 문서들은 역사적으로 [파일](https://ko.wikipedia.org/wiki/컴퓨터_파일 "wikilink") 보다는 이 용어를 선호하였다.
+[IBM](../Page/IBM.md "wikilink") [메인프레임 컴퓨터의](https://ko.wikipedia.org/wiki/메인프레임_컴퓨터 "wikilink") 문맥에서 **데이터 세트**\[1\](data set)는 [레코드 조직을](https://ko.wikipedia.org/wiki/레코드_지향_파일_시스템 "wikilink") 보유하고 있는 [컴퓨터 파일의](../Page/컴퓨터_파일.md "wikilink") 하나이다. 이 용어의 이용은 [OS/360](https://ko.wikipedia.org/wiki/OS/360 "wikilink")과 함께 시작하였으며 현재의 [z/OS](https://ko.wikipedia.org/wiki/z/OS "wikilink")를 포함한 이후 세대에서도 여전히 사용되고 있다. 이러한 시스템들의 문서들은 역사적으로 [파일](../Page/컴퓨터_파일.md "wikilink") 보다는 이 용어를 선호하였다.
 
 데이터 세트는 일반적으로 [직접 접근 기억 장치](../Page/직접_접근_기억_장치.md "wikilink")(DASD)나 [자기 테이프에](https://ko.wikipedia.org/wiki/자기_테이프 "wikilink") 저장되어 있지만, 천공 카드 리더, 카드 펀치, 라인 프린터와 같은 유닛 레코드 장치들은 데이터 세트(파일)을 위한 입출력을 제공할 수 있다.\[2\]
 
-데이터 세트들은 구조화되지 않은 [바이트](https://ko.wikipedia.org/wiki/바이트 "wikilink") 스트림이 아니며, `DSORG`(data set organization의 준말로, 데이터 세트 조직을 뜻함), `RECFM`(record format의 준말로 레코드 포맷을 뜻함) 등의 매개변수들에 의해 결정되는 다양한 논리 레코드와 블록 구조로 조직되어 있다. 이러한 매개변수들은 데이터 세트 할당(작성) 시에 지정되는데, 이를테면 [작업 제어 언어](https://ko.wikipedia.org/wiki/작업_제어_언어 "wikilink")(JCL)의 `DD` 문들을 통해 실행된다. 하나의 잡 안에서, 이들은 데이터 세트를 저장하기 위해 사용되는 자료 구조인 [데이터 제어 블록](https://ko.wikipedia.org/wiki/데이터_제어_블록 "wikilink")(DCB) 안에 (이를테면 [접근 방식을](https://ko.wikipedia.org/wiki/접근_방식 "wikilink") 이용하여) 저장된다.
+데이터 세트들은 구조화되지 않은 [바이트](../Page/바이트.md "wikilink") 스트림이 아니며, `DSORG`(data set organization의 준말로, 데이터 세트 조직을 뜻함), `RECFM`(record format의 준말로 레코드 포맷을 뜻함) 등의 매개변수들에 의해 결정되는 다양한 논리 레코드와 블록 구조로 조직되어 있다. 이러한 매개변수들은 데이터 세트 할당(작성) 시에 지정되는데, 이를테면 [작업 제어 언어](../Page/작업_제어_언어.md "wikilink")(JCL)의 `DD` 문들을 통해 실행된다. 하나의 잡 안에서, 이들은 데이터 세트를 저장하기 위해 사용되는 자료 구조인 [데이터 제어 블록](../Page/데이터_제어_블록.md "wikilink")(DCB) 안에 (이를테면 [접근 방식을](https://ko.wikipedia.org/wiki/접근_방식 "wikilink") 이용하여) 저장된다.
 
 ## 데이터 세트 조직
 
@@ -19,7 +19,7 @@ OS/360의 경우, DCB의 DSORG 매개변수는 데이터 세트가 어떻게 조
 
 ## 파티션 데이터 세트
 
-**파티션 데이터 세트**(partitioned data set, PDS)는 여러 개의 멤버(member)를 포함하는 데이터 세트로, 각 멤버는 별개의 하위 데이터 세트를 보유하고 있는데 이는 마치 다른 종류의 [파일 시스템의](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")와 비슷하다. 이러한 종류의 데이터 세트는 종종 실행 프로그램(로드 모듈), 소스 프로그램 라이브러리(특히 어셈블러 매크로 정의), [작업 제어 언어](https://ko.wikipedia.org/wiki/작업_제어_언어 "wikilink")(JCL)을 보관하기 위해 종종 사용된다.
+**파티션 데이터 세트**(partitioned data set, PDS)는 여러 개의 멤버(member)를 포함하는 데이터 세트로, 각 멤버는 별개의 하위 데이터 세트를 보유하고 있는데 이는 마치 다른 종류의 [파일 시스템의](../Page/파일_시스템.md "wikilink") [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")와 비슷하다. 이러한 종류의 데이터 세트는 종종 실행 프로그램(로드 모듈), 소스 프로그램 라이브러리(특히 어셈블러 매크로 정의), [작업 제어 언어](../Page/작업_제어_언어.md "wikilink")(JCL)을 보관하기 위해 종종 사용된다.
 
 ## 같이 보기
 

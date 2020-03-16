@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J. ](https://ko.wikipedia.org/wiki/J._).
 
 
-**진 이저벨 스미스캐머런**(, [1957년](https://ko.wikipedia.org/wiki/1957년 "wikilink") [9월 7일](https://ko.wikipedia.org/wiki/9월_7일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [배우](https://ko.wikipedia.org/wiki/배우 "wikilink")이다. 영화 감독 [케네스 로너건의](../Page/케네스_로너건.md "wikilink") 부인이며 그의 영화에 근근이 출연했다.
+**진 이저벨 스미스캐머런**(, [1957년](../Page/1957년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다. 영화 감독 [케네스 로너건의](../Page/케네스_로너건.md "wikilink") 부인이며 그의 영화에 근근이 출연했다.
 
 ## 출연작 목록
 

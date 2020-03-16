@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JONGHYUN - X - INSPIRATION](https://ko.wikipedia.org/wiki/JONGHYUN_-_X_-_INSPIRATION).
 
 
-《**JONGHYUN - X - INSPIRATION**》은 대한민국의 음악 그룹 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 멤버 [종현](https://ko.wikipedia.org/wiki/종현 "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
+《**JONGHYUN - X - INSPIRATION**》은 대한민국의 음악 그룹 [샤이니](../Page/샤이니.md "wikilink")의 멤버 [종현](../Page/종현.md "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
 
 ## 투어 일정
 
@@ -83,7 +83,7 @@
 <td style="text-align: left;"><p>포토북</p></td>
 <td style="text-align: left;"><p>《JONGHYUN - X - INSPIRATION》 공연화보집</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/8월_30일" title="wikilink">8월 30일</a></li>
+<li>발매일 : <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/8월_30일.md" title="wikilink">8월 30일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -93,7 +93,7 @@
 
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
   - 총연출 : 황상훈
 
 ## 각주

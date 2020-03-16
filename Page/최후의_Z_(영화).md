@@ -8,7 +8,7 @@
 ### 주연
 
   - [마고 로비](../Page/마고_로비.md "wikilink")
-  - [크리스 파인](https://ko.wikipedia.org/wiki/크리스_파인 "wikilink")
+  - [크리스 파인](../Page/크리스_파인.md "wikilink")
   - [치웨텔 에지오포](https://ko.wikipedia.org/wiki/치웨텔_에지오포 "wikilink")
 
 ## 기타

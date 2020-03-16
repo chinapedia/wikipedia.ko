@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Beautiful World \(V6 \)](https://ko.wikipedia.org/wiki/Beautiful_World_\(V6_\)).
 
 
-〈**Beautiful World**〉는 [V6의](https://ko.wikipedia.org/wiki/V6_\(음악_그룹\) "wikilink") 46번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**Beautiful World**〉는 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 46번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -17,7 +17,7 @@
 
 1.  **Beautiful World**
       -
-        작사·작곡: [하타 모토히로](https://ko.wikipedia.org/wiki/하타_모토히로 "wikilink") / 편곡: 미나가와 마코토
+        작사·작곡: [하타 모토히로](../Page/하타_모토히로.md "wikilink") / 편곡: 미나가와 마코토
 2.  **by your side**
       -
         작사: SHIKATA / 작곡: SHIKATA, REO / 편곡: REO

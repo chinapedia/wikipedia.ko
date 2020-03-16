@@ -1,23 +1,23 @@
 > This article is converted from Wikipedia: [ \(KBS \)](https://ko.wikipedia.org/wiki/_\(KBS_\)).
 
 
-**이명호**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [성우](https://ko.wikipedia.org/wiki/성우 "wikilink")로, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공채 40기로 입사했다.
+**이명호**는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")로, [2015년](../Page/2015년.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공채 40기로 입사했다.
 
 ## 주요 출연작품
 
 ### 애니메이션
 
   - [뚝딱맨](https://ko.wikipedia.org/wiki/뚝딱맨 "wikilink")([EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")) - 하니
-  - [TV유치원](https://ko.wikipedia.org/wiki/TV유치원 "wikilink")([KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")) - 삐아, 밀리
-  - [샤이닝 스타](https://ko.wikipedia.org/wiki/샤이닝_스타_\(애니메이션\) "wikilink")([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")) - 채나라
+  - [TV유치원](../Page/TV유치원.md "wikilink")([KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")) - 삐아, 밀리
+  - [샤이닝 스타](../Page/샤이닝_스타_\(애니메이션\).md "wikilink")([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")) - 채나라
   - 프리큐어 올스타즈 뉴스테이지 3 영원한 친구 ([대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink")) - 진달래(큐어 블로섬)
-  - [꼬꼬마 텔레토비](https://ko.wikipedia.org/wiki/꼬꼬마_텔레토비 "wikilink")([KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")) - 뽀,마이크,여자 해설 역
+  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")([KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")) - 뽀,마이크,여자 해설 역
 
 ### 외화
 
   - [닥터후 시즌 10](https://ko.wikipedia.org/wiki/닥터후 "wikilink")([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 카(레베카 벤슨) / 알릿(브리아나 샨)
   - [닥터 포스터 시즌 2](../Page/닥터_포스터.md "wikilink")([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 이소벨(호프 로이드)
-  - [월요일이 사라졌다](https://ko.wikipedia.org/wiki/월요일이_사라졌다 "wikilink")([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 소녀(라라 데카로)
+  - [월요일이 사라졌다](../Page/월요일이_사라졌다.md "wikilink")([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 소녀(라라 데카로)
 
 ### 라디오
 
@@ -139,7 +139,7 @@
   - 2016.11.01\~2016.11.30 이유선 作 <오버 더 힐 파티> (수민 母)
   - 2016.12.01\~ 김범 作 <공부해서 너 가져> (담임)
 
-**[다큐멘터리 역사를 찾아서](https://ko.wikipedia.org/wiki/다큐멘터리_역사를_찾아서 "wikilink") ([KBS 라디오](https://ko.wikipedia.org/wiki/KBS_라디오 "wikilink"))**
+**[다큐멘터리 역사를 찾아서](../Page/다큐멘터리_역사를_찾아서.md "wikilink") ([KBS 라디오](https://ko.wikipedia.org/wiki/KBS_라디오 "wikilink"))**
 
   - 2015.03.08 \<제541편 반란 진압군 출정하다 (여자1)
   - 2015.04.19 <제547편 남이장군과 북정가> (여종)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
 
 
-**노리스 디비전** (Norris Division)은 1974년부터 1993년까지 [NHL에](https://ko.wikipedia.org/wiki/내셔널_하키_리그 "wikilink") 존재했던 디비전이다.
+**노리스 디비전** (Norris Division)은 1974년부터 1993년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
 
 ## 역대 노리스 디비전 라인업
 
@@ -16,32 +16,32 @@
 <tbody>
 <tr class="odd">
 <td><p>1974년~1979년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/디트로이트_레드윙스" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/피츠버그_펭귄스" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
+<td><p><a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/워싱턴_캐피털스_(NHL)" title="wikilink">워싱턴 캐피털스</a></p></td>
 <td><p>5팀</p></td>
 </tr>
 <tr class="even">
 <td><p>1979년~1981년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/디트로이트_레드윙스" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/하트포드_훼일러즈" title="wikilink">하트포드 훼일러즈</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스_킹스" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/피츠버그_펭귄스" title="wikilink">피츠버그 펭귄스</a></p></td>
+<td><p><a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/하트포드_훼일러즈" title="wikilink">하트포드 훼일러즈</a> {{·}}  <a href="../Page/로스앤젤레스_킹스.md" title="wikilink">로스앤젤레스 킹스</a> {{·}}  <a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1981년~1982년</p></td>
-<td><p><a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙 호크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/디트로이트_레드윙스" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a> {{·}}  <a href="../Page/위니펙_제츠_(1972년).md" title="wikilink">위니펙 제츠</a></p></td>
+<td><p><a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙 호크스</a> {{·}}  <a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a> {{·}}  <a href="../Page/위니펙_제츠_(1972년).md" title="wikilink">위니펙 제츠</a></p></td>
 <td><p>6팀</p></td>
 </tr>
 <tr class="even">
 <td><p>1982년~1986년</p></td>
-<td><p><a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙 호크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/디트로이트_레드윙스" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
+<td><p><a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙 호크스</a> {{·}}  <a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
 <td><p>5팀</p></td>
 </tr>
 <tr class="odd">
 <td><p>1986년~1992년</p></td>
-<td><p><a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙호크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/디트로이트_레드윙스" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
+<td><p><a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙호크스</a> {{·}}  <a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1992년~1993년</p></td>
-<td><p><a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙호크스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/디트로이트_레드윙스" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a> {{·}}  <a href="../Page/탬파베이_라이트닝.md" title="wikilink">탬파베이 라이트닝</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
+<td><p><a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙호크스</a> {{·}}  <a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/미네소타_노스_스타스.md" title="wikilink">미네소타 노스 스타스</a> {{·}}  <a href="../Page/세인트루이스_블루스.md" title="wikilink">세인트루이스 블루스</a> {{·}}  <a href="../Page/탬파베이_라이트닝.md" title="wikilink">탬파베이 라이트닝</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
 <td><p>6팀</p></td>
 </tr>
 </tbody>
@@ -60,7 +60,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1974~1975</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a></p></td>
 <td><p>47승 14패 19무 승점 113점</p></td>
 </tr>
 <tr class="even">
@@ -125,7 +125,7 @@
 </tr>
 <tr class="even">
 <td><p>1987~1988</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/디트로이트_레드윙스" title="wikilink">디트로이트 레드윙스</a></p></td>
+<td><p><a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a></p></td>
 <td><p>41승 28패 11무 승점 93점</p></td>
 </tr>
 <tr class="odd">
@@ -145,7 +145,7 @@
 </tr>
 <tr class="even">
 <td><p>1991~1992</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/디트로이트_레드윙스" title="wikilink">디트로이트 레드윙스</a></p></td>
+<td><p><a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a></p></td>
 <td><p>43승 25패 12무 승점 98점</p></td>
 </tr>
 <tr class="odd">
@@ -168,7 +168,7 @@
 <tbody>
 <tr class="odd">
 <td><p>7회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_커네이디언스" title="wikilink">몬트리올 커네이디언스</a></p></td>
+<td><p><a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5회</p></td>
@@ -176,7 +176,7 @@
 </tr>
 <tr class="odd">
 <td><p>3회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/디트로이트_레드윙스" title="wikilink">디트로이트 레드윙스</a></p></td>
+<td><p><a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2회</p></td>
@@ -188,27 +188,27 @@
 
 ## 역대 시즌별 순위
 
-| 시즌         | 순위                                                             |
-| ---------- | -------------------------------------------------------------- |
-| 1위         | 2위                                                             |
-| 1974\~1975 | [커네이디언스](https://ko.wikipedia.org/wiki/몬트리올_커네이디언스 "wikilink") |
-| 1975\~1976 | [커네이디언스](https://ko.wikipedia.org/wiki/몬트리올_커네이디언스 "wikilink") |
-| 1976\~1977 | [커네이디언스](https://ko.wikipedia.org/wiki/몬트리올_커네이디언스 "wikilink") |
-| 1977\~1978 | [커네이디언스](https://ko.wikipedia.org/wiki/몬트리올_커네이디언스 "wikilink") |
-| 1978\~1979 | [커네이디언스](https://ko.wikipedia.org/wiki/몬트리올_커네이디언스 "wikilink") |
-| 1979\~1980 | [커네이디언스](https://ko.wikipedia.org/wiki/몬트리올_커네이디언스 "wikilink") |
-| 1980\~1981 | [커네이디언스](https://ko.wikipedia.org/wiki/몬트리올_커네이디언스 "wikilink") |
-| 1981\~1982 | [노스 스타스](../Page/미네소타_노스_스타스.md "wikilink")                    |
-| 1982\~1983 | [블랙 호크스](../Page/시카고_블랙호크스.md "wikilink")                      |
-| 1983\~1984 | [노스 스타스](../Page/미네소타_노스_스타스.md "wikilink")                    |
-| 1984\~1985 | [블루스](../Page/세인트루이스_블루스.md "wikilink")                        |
-| 1985\~1986 | [블랙 호크스](../Page/시카고_블랙호크스.md "wikilink")                      |
-| 1986\~1987 | [블루스](../Page/세인트루이스_블루스.md "wikilink")                        |
-| 1987\~1988 | [레드윙스](https://ko.wikipedia.org/wiki/디트로이트_레드윙스 "wikilink")    |
-| 1988\~1989 | [레드윙스](https://ko.wikipedia.org/wiki/디트로이트_레드윙스 "wikilink")    |
-| 1989\~1990 | [블랙호크스](../Page/시카고_블랙호크스.md "wikilink")                       |
-| 1990\~1991 | [블랙호크스](../Page/시카고_블랙호크스.md "wikilink")                       |
-| 1991\~1992 | [레드윙스](https://ko.wikipedia.org/wiki/디트로이트_레드윙스 "wikilink")    |
-| 1992\~1993 | [블랙호크스](../Page/시카고_블랙호크스.md "wikilink")                       |
+| 시즌         | 순위                                          |
+| ---------- | ------------------------------------------- |
+| 1위         | 2위                                          |
+| 1974\~1975 | [커네이디언스](../Page/몬트리올_커네이디언스.md "wikilink") |
+| 1975\~1976 | [커네이디언스](../Page/몬트리올_커네이디언스.md "wikilink") |
+| 1976\~1977 | [커네이디언스](../Page/몬트리올_커네이디언스.md "wikilink") |
+| 1977\~1978 | [커네이디언스](../Page/몬트리올_커네이디언스.md "wikilink") |
+| 1978\~1979 | [커네이디언스](../Page/몬트리올_커네이디언스.md "wikilink") |
+| 1979\~1980 | [커네이디언스](../Page/몬트리올_커네이디언스.md "wikilink") |
+| 1980\~1981 | [커네이디언스](../Page/몬트리올_커네이디언스.md "wikilink") |
+| 1981\~1982 | [노스 스타스](../Page/미네소타_노스_스타스.md "wikilink") |
+| 1982\~1983 | [블랙 호크스](../Page/시카고_블랙호크스.md "wikilink")   |
+| 1983\~1984 | [노스 스타스](../Page/미네소타_노스_스타스.md "wikilink") |
+| 1984\~1985 | [블루스](../Page/세인트루이스_블루스.md "wikilink")     |
+| 1985\~1986 | [블랙 호크스](../Page/시카고_블랙호크스.md "wikilink")   |
+| 1986\~1987 | [블루스](../Page/세인트루이스_블루스.md "wikilink")     |
+| 1987\~1988 | [레드윙스](../Page/디트로이트_레드윙스.md "wikilink")    |
+| 1988\~1989 | [레드윙스](../Page/디트로이트_레드윙스.md "wikilink")    |
+| 1989\~1990 | [블랙호크스](../Page/시카고_블랙호크스.md "wikilink")    |
+| 1990\~1991 | [블랙호크스](../Page/시카고_블랙호크스.md "wikilink")    |
+| 1991\~1992 | [레드윙스](../Page/디트로이트_레드윙스.md "wikilink")    |
+| 1992\~1993 | [블랙호크스](../Page/시카고_블랙호크스.md "wikilink")    |
 
 [분류:1974년 설립](https://ko.wikipedia.org/wiki/분류:1974년_설립 "wikilink") [분류:1993년 폐지](https://ko.wikipedia.org/wiki/분류:1993년_폐지 "wikilink") [내셔널_하키_리그](https://ko.wikipedia.org/wiki/분류:내셔널_하키_리그 "wikilink") [분류:미국의 아이스하키](https://ko.wikipedia.org/wiki/분류:미국의_아이스하키 "wikilink") [분류:캐나다의 아이스하키](https://ko.wikipedia.org/wiki/분류:캐나다의_아이스하키 "wikilink")
