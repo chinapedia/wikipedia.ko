@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Quiet Night](https://ko.wikipedia.org/wiki/Quiet_Night).
 
 
-《**Quiet Night**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink") [서태지](https://ko.wikipedia.org/wiki/서태지 "wikilink")의 아홉 번째 정규 음반이다. 수록곡은 총 아홉 곡으로 구성되어 있으며, 2014년 10월 20일 발매되었다. IZM 선정 2014 올해의 앨범 Top 10, 음악취향Y 선정 올해의 앨범 4위, 올해의 싱글 2위 (크리스말로윈) 등의 성과를 거두며 호평을 받았다.
+《**Quiet Night**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink") [서태지](../Page/서태지.md "wikilink")의 아홉 번째 정규 음반이다. 수록곡은 총 아홉 곡으로 구성되어 있으며, 2014년 10월 20일 발매되었다. IZM 선정 2014 올해의 앨범 Top 10, 음악취향Y 선정 올해의 앨범 4위, 올해의 싱글 2위 (크리스말로윈) 등의 성과를 거두며 호평을 받았다.
 
 ## 앨범
 
 앨범 발매에 앞선 2014년 10월 2일에 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")가 보컬을 맡은 〈소격동〉을 선발매 했고\[1\], 10일 서태지 본인이 부른 버전을 발매했다.\[2\] 10월 18일에는 서태지의 9집 컴백 콘서트 〈크리스말로윈〉이 공개되었다.\[3\]
 
-수록곡 중 〈90s Icon〉은 서태지가 하나의 프로젝트로 진행하여 1990년대에 같이 활동하던 동료 [신해철](https://ko.wikipedia.org/wiki/신해철 "wikilink") · [김종서](https://ko.wikipedia.org/wiki/김종서_\(가수\) "wikilink") · [이승환과](https://ko.wikipedia.org/wiki/이승환_\(가수\) "wikilink") 작업·녹음까지 마친 상태였으나 2014년 10월 27일 신해철의 갑작스런 사망으로 인해 공개는 중단된 상태이다. 이 프로젝트는 신해철의 장례를 마치고 유족과 상의한 뒤 나머지 가수들과 의견을 나눌 예정이라고 밝혔다.\[4\]
+수록곡 중 〈90s Icon〉은 서태지가 하나의 프로젝트로 진행하여 1990년대에 같이 활동하던 동료 [신해철](../Page/신해철.md "wikilink") · [김종서](../Page/김종서_\(가수\).md "wikilink") · [이승환과](../Page/이승환_\(가수\).md "wikilink") 작업·녹음까지 마친 상태였으나 2014년 10월 27일 신해철의 갑작스런 사망으로 인해 공개는 중단된 상태이다. 이 프로젝트는 신해철의 장례를 마치고 유족과 상의한 뒤 나머지 가수들과 의견을 나눌 예정이라고 밝혔다.\[4\]
 
 ## 수록곡
 
@@ -23,12 +23,12 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/서태지" title="wikilink">서태지</a>(<a href="https://ko.wikipedia.org/wiki/서태지컴퍼니" title="wikilink">서태지컴퍼니</a>) - <a href="https://ko.wikipedia.org/wiki/음악_프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>, <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>, <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">건반 악기</a>, <a href="https://ko.wikipedia.org/wiki/피아노" title="wikilink">피아노</a>, 프로그래밍, 디지털 에디트, 녹음, 믹싱</li>
-<li><a href="https://ko.wikipedia.org/wiki/안성훈" title="wikilink">Top</a> - 기타</li>
-<li><a href="https://ko.wikipedia.org/wiki/강준형_(음악가)" title="wikilink">강준형</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스</a></li>
+<li><a href="../Page/서태지.md" title="wikilink">서태지</a>(<a href="https://ko.wikipedia.org/wiki/서태지컴퍼니" title="wikilink">서태지컴퍼니</a>) - <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="../Page/기타.md" title="wikilink">기타</a>, <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>, <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">건반 악기</a>, <a href="../Page/피아노.md" title="wikilink">피아노</a>, 프로그래밍, 디지털 에디트, 녹음, 믹싱</li>
+<li><a href="../Page/안성훈.md" title="wikilink">Top</a> - 기타</li>
+<li><a href="https://ko.wikipedia.org/wiki/강준형_(음악가)" title="wikilink">강준형</a> - <a href="../Page/베이스_기타.md" title="wikilink">베이스</a></li>
 <li>Docskim(닥스킴) - 피아노(<a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">키보드</a>)</li>
 <li><a href="https://ko.wikipedia.org/wiki/최현진_(드러머)" title="wikilink">최현진</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
-<li>이규재 - <a href="https://ko.wikipedia.org/wiki/플루트" title="wikilink">플루트</a></li>
+<li>이규재 - <a href="../Page/플루트.md" title="wikilink">플루트</a></li>
 <li>Ellie(Elizabeth Mize) - 스페셜 보컬(3)</li>
 </ul></td>
 <td><ul>

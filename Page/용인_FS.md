@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ FS](https://ko.wikipedia.org/wiki/_FS).
 
 
-**<big>용인 대흥 FS</big>** ( **Yongin Daeheng Futsal Club** ) 는 [경기도 용인시를](https://ko.wikipedia.org/wiki/용인시 "wikilink") 연고로 하는 [FK 드림리그](https://ko.wikipedia.org/wiki/FK_드림리그 "wikilink") ( 2부 ) 소속 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink")구단이다.
+**<big>용인 대흥 FS</big>** ( **Yongin Daeheng Futsal Club** ) 는 [경기도 용인시를](../Page/용인시.md "wikilink") 연고로 하는 [FK 드림리그](https://ko.wikipedia.org/wiki/FK_드림리그 "wikilink") ( 2부 ) 소속 [풋살](../Page/풋살.md "wikilink")구단이다.
 
 ## 역사
 
 경기도 용인시를 연고로 창단된 전문 풋살 구단으로 구미와 같은 시민구단형이다. 지역 생활체육을 통해 발탁된 선수들도 함께 구성되어있으며 유소년들에게 풋살 전문 선수로써 자질을 키울수 있는 여러가지 사업을 실시하고 있다.
 
-용인 역시 [FK 리그에서](https://ko.wikipedia.org/wiki/FK리그 "wikilink") 중 하위권을 넘나드는 팀이였으며 2011년 [FK컵](../Page/FK컵.md "wikilink") 준우승이라는 성적을 거둔 이후 좋은 성적을 거두지는 못했다. 그러나 이민용이 [풋살 국가대표팀에](https://ko.wikipedia.org/wiki/대한민국_풋살_국가대표팀 "wikilink") 꾸준히 발탁되면서 [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink") 팬들에게는 이름이 많이 알려져있다.
+용인 역시 [FK 리그에서](../Page/FK리그.md "wikilink") 중 하위권을 넘나드는 팀이였으며 2011년 [FK컵](../Page/FK컵.md "wikilink") 준우승이라는 성적을 거둔 이후 좋은 성적을 거두지는 못했다. 그러나 이민용이 [풋살 국가대표팀에](../Page/대한민국_풋살_국가대표팀.md "wikilink") 꾸준히 발탁되면서 [FK리그](../Page/FK리그.md "wikilink") 팬들에게는 이름이 많이 알려져있다.
 
 그러나 용인은 2016-17시즌 [FK 슈퍼리그에](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 잔류하고도 다음시즌인 2017-18시즌에 역대 최악의 성적을 거두며 2부리그인 [FK 드림리그로](https://ko.wikipedia.org/wiki/FK_드림리그 "wikilink") 강등당했다. 용인이 강등당할 당시의 승률은 매우 낮다.
 

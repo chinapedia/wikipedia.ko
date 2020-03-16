@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [E.G. TIME](https://ko.wikipedia.org/wiki/E.G._TIME).
 
 
-《**E.G. TIME**》은, [E-girls](../Page/E-girls.md "wikilink")의 3번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**E.G. TIME**》은, [E-girls](../Page/E-girls.md "wikilink")의 3번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -22,23 +22,23 @@
         작곡: FAST LANE, LISA DESMOND
 4.  **Music Flyer**
       -
-        작사·작곡: [나카타 야스타카](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink")
+        작사·작곡: [나카타 야스타카](../Page/나카타_야스타카.md "wikilink")
     <!-- end list -->
       - 보컬은 E-girls 내의 보컬 전원.
-5.  **Move It\! -Dream & E-girls TIME-** - [Dream](https://ko.wikipedia.org/wiki/Dream_\(음악_그룹\) "wikilink") & E-girls
+5.  **Move It\! -Dream & E-girls TIME-** - [Dream](../Page/Dream_\(음악_그룹\).md "wikilink") & E-girls
       -
         작사: Lauren Kaori / 작곡: Lauren Kaori, M.I, Kohei Yokono
 6.  **** / <small>**로큰롤 위도우**</small>
       -
         작사: Aki Yoko/ 작곡: 우자키 류도 / 편곡: 하기타 미츠오
     <!-- end list -->
-      - 보컬은 [Dream의](https://ko.wikipedia.org/wiki/Dream_\(음악_그룹\) "wikilink") [Shizuka와](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink") [Erie](https://ko.wikipedia.org/wiki/아베_에리에 "wikilink"), [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") [와시오 레이나](../Page/와시오_레이나.md "wikilink").
+      - 보컬은 [Dream의](../Page/Dream_\(음악_그룹\).md "wikilink") [Shizuka와](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink") [Erie](https://ko.wikipedia.org/wiki/아베_에리에 "wikilink"), [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") [와시오 레이나](../Page/와시오_레이나.md "wikilink").
 7.  **Highschool ♡ love**
       -
         작사: michico / 작곡·편곡: T.Kura, michico, Albi Albertsson
 8.  **** / <small>**춤추는 퐁포코링**</small>
       -
-        작사: [사쿠라 모모코](https://ko.wikipedia.org/wiki/사쿠라_모모코 "wikilink") / 작곡: [오다 테츠로](https://ko.wikipedia.org/wiki/오다_테츠로 "wikilink") / 편곡: ArmySlick
+        작사: [사쿠라 모모코](../Page/사쿠라_모모코.md "wikilink") / 작곡: [오다 테츠로](https://ko.wikipedia.org/wiki/오다_테츠로 "wikilink") / 편곡: ArmySlick
 9.  **** / <small>**자유의 여신**</small>
       - 보컬은 Dream의 Shizuka와 Erie, [Happiness의](../Page/Happiness_\(음악_그룹\).md "wikilink") [후지이 카렌](../Page/후지이_카렌.md "wikilink"), Flower의 와시오 레이나.
 10. **** / <small>**기뻐\! 즐거워\! 정말 좋아\!**</small>

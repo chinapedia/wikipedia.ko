@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Boogie](https://ko.wikipedia.org/wiki/Boogie).
 
 
-"**Boogie**"는 미국의 [아티스트](https://ko.wikipedia.org/wiki/아티스트 "wikilink"),[배우](https://ko.wikipedia.org/wiki/배우 "wikilink") 맨디 레인의 솔로 데뷔 싱글이다. 이것은 Rock City에 의해 작성 및 G-Production에 의해 제작되었다. 이 앨범은 2011년 9월 29일에 G-Production에서 아이튠즈 스토어에 출시 된다.
+"**Boogie**"는 미국의 [아티스트](https://ko.wikipedia.org/wiki/아티스트 "wikilink"),[배우](../Page/배우.md "wikilink") 맨디 레인의 솔로 데뷔 싱글이다. 이것은 Rock City에 의해 작성 및 G-Production에 의해 제작되었다. 이 앨범은 2011년 9월 29일에 G-Production에서 아이튠즈 스토어에 출시 된다.
 
 ## 출시 내역
 

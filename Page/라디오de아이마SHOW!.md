@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [deSHOW!](https://ko.wikipedia.org/wiki/deSHOW!).
 
 
-'''라디오de아이마SHOW\! '''(라디오데아이마쇼)는 [아케이드 게임](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink") '[THE IDOLM@STER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")'로부터 파생한 [인터넷 라디오](https://ko.wikipedia.org/wiki/인터넷_라디오 "wikilink") 프로그램. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") (헤세이 18년) [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") 전달 개시. 전77회+2회. [애니메이트 TV에서](https://ko.wikipedia.org/wiki/애니메이트_TV "wikilink") 전달되었다. 매주 목요일 갱신. 정식적인 타이틀은 **'Radio of THE IDOLM@STER on the web 라디오de아이마Show\!**'. 애칭은 '라디마SHOW\! (라디마쇼)'.
+'''라디오de아이마SHOW\! '''(라디오데아이마쇼)는 [아케이드 게임](../Page/아케이드_게임.md "wikilink") '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")'로부터 파생한 [인터넷 라디오](../Page/인터넷_라디오.md "wikilink") 프로그램. [2006년](../Page/2006년.md "wikilink") (헤세이 18년) [4월 27일](../Page/4월_27일.md "wikilink") 전달 개시. 전77회+2회. [애니메이트 TV에서](../Page/애니메이트_TV.md "wikilink") 전달되었다. 매주 목요일 갱신. 정식적인 타이틀은 **'Radio of THE IDOLM@STER on the web 라디오de아이마Show\!**'. 애칭은 '라디마SHOW\! (라디마쇼)'.
 
 후 프로그램으로서 '[Radio For You\!](../Page/아이돌마스터_Radio_For_You!.md "wikilink")' '[P.S. 프로듀서](https://ko.wikipedia.org/wiki/아이돌마스터_P.S.프로듀서 "wikilink")'가 전달되고 있다.
 
 ## 퍼스널리티
 
-[퍼스널리티는](https://ko.wikipedia.org/wiki/라디오_퍼스널리티 "wikilink") 게임 [THE IDOLM@STER에](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink") 출연하고 있는 성우가 근무했다. 제1기와 제2기의 변천에 대해서는 별항 참조.
+[퍼스널리티는](https://ko.wikipedia.org/wiki/라디오_퍼스널리티 "wikilink") 게임 [THE IDOLM@STER에](../Page/THE_IDOLM@STER.md "wikilink") 출연하고 있는 성우가 근무했다. 제1기와 제2기의 변천에 대해서는 별항 참조.
 
   - 제1기 (제1회- 제26회)
 
-[나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink") (아마미 하루카 역), [이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink") (키사라기 치하야 역), [오치아이 유리카](https://ko.wikipedia.org/wiki/하세_유리나 "wikilink") (하기와라 유키호 역)의 3명.
+[나카무라 에리코](../Page/나카무라_에리코.md "wikilink") (아마미 하루카 역), [이마이 아사미](../Page/이마이_아사미.md "wikilink") (키사라기 치하야 역), [오치아이 유리카](../Page/하세_유리나.md "wikilink") (하기와라 유키호 역)의 3명.
 
   - 제2기 (제27회- 제47회), 제3기 (제48회- 제77회, 에필로그 1, 2)
 
@@ -41,7 +41,7 @@ TORICO (토리코)는 제1기 퍼스널리티의 나카무라, 이마이, 오치
 
 TORICO에는 이하와 같은 의미가 담겨져 있다.
 
-  - 하루카의 빨강, 치하야의 파랑, 유키호의 흰색 이미지 칼라가 [트리콜로레 컬러이다](https://ko.wikipedia.org/wiki/프랑스의_국기 "wikilink")
+  - 하루카의 빨강, 치하야의 파랑, 유키호의 흰색 이미지 칼라가 [트리콜로레 컬러이다](../Page/프랑스의_국기.md "wikilink")
   - 모두를 포로로 한다
   - 트리오 유닛이다
 

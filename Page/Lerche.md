@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lerche](https://ko.wikipedia.org/wiki/Lerche).
 
 
-**Lerche**()는 [스튜디오 히바리에](https://ko.wikipedia.org/wiki/스튜디오_히바리 "wikilink") 소속, 2011년에 설립된 [일본의 애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") [스튜디오](https://ko.wikipedia.org/wiki/스튜디오 "wikilink")이다.
+**Lerche**()는 [스튜디오 히바리에](https://ko.wikipedia.org/wiki/스튜디오_히바리 "wikilink") 소속, 2011년에 설립된 [일본의 애니메이션](../Page/일본의_애니메이션.md "wikilink") [스튜디오](https://ko.wikipedia.org/wiki/스튜디오 "wikilink")이다.
 
 ## 작품
 
@@ -20,27 +20,27 @@
 <tbody>
 <tr class="odd">
 <td><p>《<a href="https://ko.wikipedia.org/wiki/진지하게_날_사랑해!" title="wikilink">진지하게 날 사랑해!</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/AT-X" title="wikilink">AT-X</a></p></td>
+<td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2011년 10월 2일</p></td>
 <td><p>2011년 12월 18일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미나토_소프트" title="wikilink">미나토 소프트의</a> 게임을 원작으로 함</p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="https://ko.wikipedia.org/wiki/페르소나_4" title="wikilink">페르소나 4:The Animation</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마이니치_방송" title="wikilink">MBS</a></p></td>
+<td><p><a href="../Page/마이니치_방송.md" title="wikilink">MBS</a></p></td>
 <td><p>2011년 10월 6일</p></td>
 <td><p>2012년 3월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/ATLUS" title="wikilink">ATLUS</a>의 게임을 원작으로 함</p></td>
+<td><p><a href="../Page/ATLUS.md" title="wikilink">ATLUS</a>의 게임을 원작으로 함</p></td>
 </tr>
 <tr class="odd">
 <td><p>《<a href="../Page/인류는_쇠퇴했습니다.md" title="wikilink">인류는 쇠퇴했습니다</a>》</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/도쿄_MX" title="wikilink">도쿄 MX</a></p></td>
 <td><p>2012년 7월 2일</p></td>
 <td><p>2012년 9월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로메오_타나카" title="wikilink">로메오 타나카의</a> <a href="https://ko.wikipedia.org/wiki/라이트_노벨" title="wikilink">라이트 노벨을</a> 원작으로 함</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/로메오_타나카" title="wikilink">로메오 타나카의</a> <a href="../Page/라이트_노벨.md" title="wikilink">라이트 노벨을</a> 원작으로 함</p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/단간론파_희망의_학교와_절망의_고교생" title="wikilink">단간론파</a>》</p></td>
+<td><p>《<a href="../Page/단간론파_희망의_학교와_절망의_고교생.md" title="wikilink">단간론파</a>》</p></td>
 <td><p>MBS</p></td>
 <td><p>2013년 7월 4일</p></td>
 <td><p>2013년 9월 26일</p></td>
@@ -55,7 +55,7 @@
 </tr>
 <tr class="even">
 <td><p>《<a href="../Page/하마토라.md" title="wikilink">Re:_Hamatora</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/TV_도쿄" title="wikilink">TV 도쿄</a></p></td>
+<td><p><a href="../Page/TV_도쿄.md" title="wikilink">TV 도쿄</a></p></td>
 <td><p>2014년 7월 17일</p></td>
 <td><p>2014년 9월 22일</p></td>
 <td><p>《<a href="../Page/하마토라.md" title="wikilink">하마토라</a>》의 속편<br />
@@ -63,7 +63,7 @@ NAZ와 공동 제작</p></td>
 </tr>
 <tr class="odd">
 <td><p>《<a href="https://ko.wikipedia.org/wiki/암살교실" title="wikilink">암살교실</a>》[1][2]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지_TV" title="wikilink">후지 TV</a></p></td>
+<td><p><a href="../Page/후지_TV.md" title="wikilink">후지 TV</a></p></td>
 <td><p>2015년 1월 10일</p></td>
 <td><p>TBA</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유세이_마츠이" title="wikilink">유세이 마츠이의</a> 만화를 원작으로 함</p></td>

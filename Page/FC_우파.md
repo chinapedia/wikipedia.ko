@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 우파**(, )는 [러시아](https://ko.wikipedia.org/wiki/러시아 "wikilink") [바시키르 공화국의](https://ko.wikipedia.org/wiki/바시키르_공화국 "wikilink") 수도 [우파를](https://ko.wikipedia.org/wiki/우파_\(도시\) "wikilink") 연고로 하는 축구 클럽이다. 이 팀은 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink")에 창단되었으며, 현재 [러시아 프리미어리그에](https://ko.wikipedia.org/wiki/러시아_프리미어리그 "wikilink") 참가하고 있다.
+**FC 우파**(, )는 [러시아](../Page/러시아.md "wikilink") [바시키르 공화국의](../Page/바시키르_공화국.md "wikilink") 수도 [우파를](../Page/우파_\(도시\).md "wikilink") 연고로 하는 축구 클럽이다. 이 팀은 [2009년](../Page/2009년.md "wikilink")에 창단되었으며, 현재 [러시아 프리미어리그에](../Page/러시아_프리미어리그.md "wikilink") 참가하고 있다.
 
 ## 선수단
 
 ### 1군 명단
 
-[2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") 기준
+[2015년](../Page/2015년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") 기준
 
 ## 각주
 

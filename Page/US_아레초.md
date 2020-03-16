@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [US ](https://ko.wikipedia.org/wiki/US_).
 
 
-**US 아레초**(U.S. Arezzo)는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink") [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink") [아레초](https://ko.wikipedia.org/wiki/아레초 "wikilink")를 연고지로 한 축구 클럽이다.
+**US 아레초**(U.S. Arezzo)는 [이탈리아](../Page/이탈리아.md "wikilink") [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink") [아레초](../Page/아레초.md "wikilink")를 연고지로 한 축구 클럽이다.
 
 ## 외부 링크
 

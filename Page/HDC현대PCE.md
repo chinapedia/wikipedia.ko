@@ -5,7 +5,7 @@
 
 ## 함께 보기
 
-  - [HDC현대산업개발](https://ko.wikipedia.org/wiki/HDC현대산업개발 "wikilink")
+  - [HDC현대산업개발](../Page/HDC현대산업개발.md "wikilink")
   - [HDC](https://ko.wikipedia.org/wiki/HDC "wikilink")
 
 ## 각주

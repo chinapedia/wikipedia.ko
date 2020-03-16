@@ -1,27 +1,27 @@
 > This article is converted from Wikipedia: [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ko.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE-).
 
 
-《**LUNA SEA 25th Anniversary Ultimate Best -THE ONE-**》는 2014년 5월 28일에 발매된 [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 베스트 앨범이다.
+《**LUNA SEA 25th Anniversary Ultimate Best -THE ONE-**》는 2014년 5월 28일에 발매된 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 베스트 앨범이다.
 
 ## 개요
 
-[LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 결성 25 주년을 기념하여 발매되었으며, 라이브 베스트 「NEVER SOLD OUT 2」와 동시 발매되었다.. 또한 특제 소책자가 포함된「LUNA SEA 25th Anniversary Ultimate Best THE ONE + NEVER SOLD OUT 2 '도 같은 날 한정 판매되었다. 선곡은 기본적으로 [LUNA SEA COMPLETE BEST와](https://ko.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST_\(LUNA_SEA의_음반\) "wikilink") 거의 비슷하지만, 지금까지 CD 음원화 되어 있지 않았던 "PROMISE"와 앨범에 수록이 되어 있지 않았던 "THE ONE -crash to create-"가 최초로 수록되었다. 또한 전곡 리마스터링 되어 있다.
+[LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 결성 25 주년을 기념하여 발매되었으며, 라이브 베스트 「NEVER SOLD OUT 2」와 동시 발매되었다.. 또한 특제 소책자가 포함된「LUNA SEA 25th Anniversary Ultimate Best THE ONE + NEVER SOLD OUT 2 '도 같은 날 한정 판매되었다. 선곡은 기본적으로 [LUNA SEA COMPLETE BEST와](https://ko.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST_\(LUNA_SEA의_음반\) "wikilink") 거의 비슷하지만, 지금까지 CD 음원화 되어 있지 않았던 "PROMISE"와 앨범에 수록이 되어 있지 않았던 "THE ONE -crash to create-"가 최초로 수록되었다. 또한 전곡 리마스터링 되어 있다.
 
 ## 수록곡
 
-  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink")
+  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 ### DISC 1
 
 1.  **LOVELESS**
       -
-        4집 앨범 「[MOTHER](https://ko.wikipedia.org/wiki/MOTHER_\(LUNA_SEA의_음반\) "wikilink")」수록곡. 아웃트로가 미미하지만 다음 곡으로 연결되어있다.
+        4집 앨범 「[MOTHER](../Page/MOTHER_\(LUNA_SEA의_음반\).md "wikilink")」수록곡. 아웃트로가 미미하지만 다음 곡으로 연결되어있다.
 2.  **PRECIOUS ...**
       -
         1집 앨범 「[LUNA SEA](https://ko.wikipedia.org/wiki/LUNA_SEA_\(LUNA_SEA의_음반\) "wikilink")」수록곡. 본작에 수록된 음원은 2011년 발매된 리레코딩 버전의 음원. 1번 트랙의 아웃트로의 여운이 아주 작은 부분이지만 남아있다.
 3.  **ROSIER**
       -
-        3rd 싱글. 4집 앨범 「[MOTHER](https://ko.wikipedia.org/wiki/MOTHER_\(LUNA_SEA의_음반\) "wikilink")」에 수록되어 있는 버전 수록.
+        3rd 싱글. 4집 앨범 「[MOTHER](../Page/MOTHER_\(LUNA_SEA의_음반\).md "wikilink")」에 수록되어 있는 버전 수록.
 4.  **gravity**
       -
         12th 싱글.

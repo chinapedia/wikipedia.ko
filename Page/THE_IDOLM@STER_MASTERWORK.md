@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER MASTERWORK](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MASTERWORK).
 
 
-《**THE IDOLM@STER MASTERWORK**》 (아이돌마스터 마스터워크)는 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 20일부터](https://ko.wikipedia.org/wiki/12월_20일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 전용 소프트 \<[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(2007년_비디오_게임\).md "wikilink")\>의 사운드 트랙 CD시리즈이다.
+《**THE IDOLM@STER MASTERWORK**》 (아이돌마스터 마스터워크)는 [2006년](../Page/2006년.md "wikilink") [12월 20일부터](../Page/12월_20일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 전용 소프트 \<[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(2007년_비디오_게임\).md "wikilink")\>의 사운드 트랙 CD시리즈이다.
 
 ## 개요
 
@@ -17,7 +17,7 @@
 
 1.  *' 나는 아이돌♡*'
       -
-        가: 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink")) · 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")) · 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))
+        가: 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink")) · 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink")) · 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink"))
         작사: 나카무라 메구미, 작곡·편곡: NBGI(사사키 히로시인)
 2.  **하느님의 Birthday**
       -
@@ -44,11 +44,11 @@
 
 1.  '''GO MY WAY\!\! (M@STER VERSION) '''
       -
-        가: 아마미 하루카(나카무라 에리코)·미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink")) · 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink"))
+        가: 아마미 하루카(나카무라 에리코)·미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink")) · 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink"))
         작사: yura, 작곡·편곡: NBGI(신전새벽)
 2.  '''추억에 고마워(M@STER VERSION) '''
       -
-        가: 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink")) · 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink")) · 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink"))
+        가: 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink")) · 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink")) · 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink"))
         작사: 나카무라 메구미, 작곡·편곡: NBGI(사사키 히로시인)
 3.  태양의 질투(M@STER VERSION)
       -
@@ -84,7 +84,7 @@
         작사: NBGI(mft), 작곡·편곡: NBGI(나카가와 코지)
 2.  '''My Best Friend(IM@STER VERSION) '''
       -
-        가: 아키즈키 리츠코(와카바야시 나오미)·하기와라 유키호([오치아이 유리카](https://ko.wikipedia.org/wiki/오치아이_유리카 "wikilink")) · 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+        가: 아키즈키 리츠코(와카바야시 나오미)·하기와라 유키호([오치아이 유리카](https://ko.wikipedia.org/wiki/오치아이_유리카 "wikilink")) · 후타미 아미/마미([시모다 아사미](../Page/시모다_아사미.md "wikilink"))
         작사: NBGI(uRy), 작곡·편곡: NBGI(움푹 팬 곳 히로시)·편곡: NBGI(오우에 마사코)
 3.  마법을 걸어\! (M@STER VERSION)
       -

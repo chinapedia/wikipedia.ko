@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PANTIES     ](https://ko.wikipedia.org/wiki/PANTIES_____).
 
 
-〈**PANTIES 를 내고 싶어 어떻게 해서라도**〉()는, [도모토 쯔요시가](https://ko.wikipedia.org/wiki/도모토_츠요시 "wikilink") 디자인·프로듀스한 [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 부착 [속옷](https://ko.wikipedia.org/wiki/속옷 "wikilink")이다.
+〈**PANTIES 를 내고 싶어 어떻게 해서라도**〉()는, [도모토 쯔요시가](../Page/도모토_츠요시.md "wikilink") 디자인·프로듀스한 [CD](../Page/콤팩트_디스크.md "wikilink") 부착 [속옷](../Page/속옷.md "wikilink")이다.
 
 ## 개요
 

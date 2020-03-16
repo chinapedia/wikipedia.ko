@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ S.O.S!!](https://ko.wikipedia.org/wiki/_S.O.S!!).
 
 
-〈**미열 S.O.S\!\!**〉()는 [하시모토 미유키의](https://ko.wikipedia.org/wiki/하시모토_미유키 "wikilink") 9매째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink"). [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 25일에](https://ko.wikipedia.org/wiki/4월_25일 "wikilink") [란티스](https://ko.wikipedia.org/wiki/란티스 "wikilink")로부터 발매되었다.
+〈**미열 S.O.S\!\!**〉()는 [하시모토 미유키의](../Page/하시모토_미유키.md "wikilink") 9매째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink"). [2007년](../Page/2007년.md "wikilink") [4월 25일에](../Page/4월_25일.md "wikilink") [란티스](../Page/란티스.md "wikilink")로부터 발매되었다.
 
 ## 개요
 
@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[아이돌 마스터 XENOGLOSSIA](https://ko.wikipedia.org/wiki/아이돌_마스터_XENOGLOSSIA "wikilink")》 전기 [오프닝 테마](https://ko.wikipedia.org/wiki/주제가 "wikilink")
+  - [텔레비전 애니메이션](../Page/일본의_애니메이션.md "wikilink") 《[아이돌 마스터 XENOGLOSSIA](https://ko.wikipedia.org/wiki/아이돌_마스터_XENOGLOSSIA "wikilink")》 전기 [오프닝 테마](https://ko.wikipedia.org/wiki/주제가 "wikilink")
 
 <!-- end list -->
 

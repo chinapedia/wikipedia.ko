@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER MASTER ARTIST 2](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST_2).
 
 
-**'THE IDOLM@STER MASTER ARTIST 2**' (아이돌마스터 마스터 아티스트 투)는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 22일부터](https://ko.wikipedia.org/wiki/9월_22일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [앨범](https://ko.wikipedia.org/wiki/컨필레이션_음반 "wikilink") 시리즈.
+**'THE IDOLM@STER MASTER ARTIST 2**' (아이돌마스터 마스터 아티스트 투)는 [2010년](../Page/2010년.md "wikilink") [9월 22일부터](../Page/9월_22일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [앨범](https://ko.wikipedia.org/wiki/컨필레이션_음반 "wikilink") 시리즈.
 
 ## 개요
 
@@ -30,7 +30,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 1.  Prologue
 2.  **THE IDOLM@STER 2nd-mix**
       -
-        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")) · 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink")) · 하기와라 유키호([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")) · 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink")) · 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"))
+        가: 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink")) · 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink")) · 하기와라 유키호([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")) · 가나하 히비키([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink")) · 시죠 타카네([하라 유미](../Page/하라_유미.md "wikilink"))
         작사: 나카무라 메구미, 작곡: NBGI([사사키 히로시인](https://ko.wikipedia.org/wiki/사사키_히로시인 "wikilink")) , 편곡: [토야마 아키라효](https://ko.wikipedia.org/wiki/토야마_아키라효 "wikilink")
 3.  **단결 2010**
       -
@@ -81,7 +81,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
       -
         가: 아마미 하루카(나카무라 에리코)·가나하 히비키(누마쿠라 마나미)·호시이 미키(하세가와 아키코)
         작사: U, 작곡·편곡: [타나카 유우스케](https://ko.wikipedia.org/wiki/타나카_유우스케 "wikilink") , 커버 어레인지: 하시모토 유카리
-        오리지널 아티스트: [HALCALI](https://ko.wikipedia.org/wiki/HALCALI "wikilink")
+        오리지널 아티스트: [HALCALI](../Page/HALCALI.md "wikilink")
 8.  토크 04
 9.  '''MEGARE\!(M@STER VERSION) '''
       -
@@ -155,7 +155,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 4.  ''[Squall](https://ko.wikipedia.org/wiki/Squall_\(마츠모토_에이코의_곡\) "wikilink") ''
       -
         가: 호시이 미키(하세가와 아키코)
-        작사·작곡·편곡: [후쿠야마 마사하루](https://ko.wikipedia.org/wiki/후쿠야마_마사하루 "wikilink") , 커버 어레인지: 나카무라 히사시
+        작사·작곡·편곡: [후쿠야마 마사하루](../Page/후쿠야마_마사하루.md "wikilink") , 커버 어레인지: 나카무라 히사시
         오리지널 아티스트: [마츠모토 에이코](https://ko.wikipedia.org/wiki/마츠모토_에이코 "wikilink")
 5.  토크 02
 6.  ''Tip Taps Tip(Version Miki) ''
@@ -310,8 +310,8 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 3.  토크 02
 4.  ''[스위트 도넛](https://ko.wikipedia.org/wiki/스위트_도넛 "wikilink") (Version Yukiho) ''
       -
-        가: 하기와라 유키호(아사쿠라 아즈미)·후타미 마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink")) · 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink"))
-        작사: 나무의 아이, 작곡·편곡: [나카타 야스타카](https://ko.wikipedia.org/wiki/나카타_야스타카 "wikilink") , 커버 어레인지: 하세가와 토모키
+        가: 하기와라 유키호(아사쿠라 아즈미)·후타미 마미([시모다 아사미](../Page/시모다_아사미.md "wikilink")) · 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink"))
+        작사: 나무의 아이, 작곡·편곡: [나카타 야스타카](../Page/나카타_야스타카.md "wikilink") , 커버 어레인지: 하세가와 토모키
         오리지널 아티스트: [Perfume](https://ko.wikipedia.org/wiki/Perfume "wikilink")
 5.  토크 03
 6.  LOST
@@ -321,7 +321,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 7.  *사랑*
       -
         가: 하기와라 유키호(아사쿠라 아즈미)
-        작사·작곡·편곡: [오쿠 하나코](https://ko.wikipedia.org/wiki/오쿠_하나코 "wikilink") , 커버 어레인지: 마루야마 테츠오
+        작사·작곡·편곡: [오쿠 하나코](../Page/오쿠_하나코.md "wikilink") , 커버 어레인지: 마루야마 테츠오
         오리지널 아티스트: 오쿠 하나코
 8.  토크 04
 9.  '''MEGARE\!(M@STER VERSION) '''
@@ -355,7 +355,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 5.  ''[꿈 속에](https://ko.wikipedia.org/wiki/꿈_속에 "wikilink") ''
       -
         가: 후타미 마미(시모다 아사미)
-        작사·작곡·편곡: [이노우에 요스이](https://ko.wikipedia.org/wiki/이노우에_요스이 "wikilink") , 커버 어레인지: 미우라 세이지
+        작사·작곡·편곡: [이노우에 요스이](../Page/이노우에_요스이.md "wikilink") , 커버 어레인지: 미우라 세이지
         오리지널 아티스트: 이노우에 요스이·[사이토 유키](https://ko.wikipedia.org/wiki/사이토_유키 "wikilink")
 6.  토크 03
 7.  스위트 도넛(Version Mami)
@@ -427,13 +427,13 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 1.  토크 01 -인사-
 2.  '''MEGARE\!(M@STER VERSION) '''
       -
-        가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"))
+        가: 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"))
         작사: NBGI(mft), 작곡·편곡: NBGI(타카다 류이치)
 3.  토크 02
-4.  ''[발렌타인 키스](https://ko.wikipedia.org/wiki/발렌타인_키스 "wikilink") ''
+4.  ''[발렌타인 키스](../Page/발렌타인_키스.md "wikilink") ''
       -
-        가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"))
-        작사: [아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink") , 작곡·편곡: 뢰정히로아키, 커버 어레인지: 오오니시 요스케
+        가: 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"))
+        작사: [아키모토 야스시](../Page/아키모토_야스시.md "wikilink") , 작곡·편곡: 뢰정히로아키, 커버 어레인지: 오오니시 요스케
         오리지널 아티스트: [코쿠쇼 사유리](https://ko.wikipedia.org/wiki/코쿠쇼_사유리 "wikilink") with [오냥코 클럽](https://ko.wikipedia.org/wiki/오냥코_클럽 "wikilink")
 5.  리조라
       -
@@ -530,7 +530,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
       -
         가: 미우라 아즈사(타나 젓가락 토모아키)·아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
         작사·작곡·편곡: 타마구스쿠 치하루, 커버 어레인지: R·O·N
-        오리지널 아티스트: [Kiroro](https://ko.wikipedia.org/wiki/Kiroro "wikilink")
+        오리지널 아티스트: [Kiroro](../Page/Kiroro.md "wikilink")
 11. 라♥브♥리♥(오리지널 가라오케)
       -
         작사: yura, 작곡·편곡: 마츠다 노부오
@@ -560,7 +560,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
       -
         가: 아키즈키 리츠코(와카바야시 나오미)
         작사: meg rock, 작곡·편곡: 사이토 신야, 커버 어레인지: 미우라 세이지
-        오리지널 아티스트: [나카가와 쇼코](https://ko.wikipedia.org/wiki/나카가와_쇼코 "wikilink")
+        오리지널 아티스트: [나카가와 쇼코](../Page/나카가와_쇼코.md "wikilink")
 6.  livE
       -
         가: 아키즈키 리츠코(와카바야시 나오미)

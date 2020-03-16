@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(AOA \)](https://ko.wikipedia.org/wiki/__\(AOA_\)).
 
 
-〈**짧은 치마**〉는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 16일에](https://ko.wikipedia.org/wiki/1월_16일 "wikilink") 발매된 그룹 [AOA의](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") 다섯번째 싱글 앨범이며, 일본에서는 〈ミニスカート〉라는 제목으로 2014년 [10월 1일](https://ko.wikipedia.org/wiki/10월_1일 "wikilink") 발매됐다.
+〈**짧은 치마**〉는 [2014년](../Page/2014년.md "wikilink") [1월 16일에](../Page/1월_16일.md "wikilink") 발매된 그룹 [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 다섯번째 싱글 앨범이며, 일본에서는 〈ミニスカート〉라는 제목으로 2014년 [10월 1일](../Page/10월_1일.md "wikilink") 발매됐다.
 
 ## 수록곡
 
@@ -10,7 +10,7 @@
 <!-- end list -->
 
 1.  Gonna get your heart
-      - 작사 · 작곡 · 편곡: [별들의전쟁](https://ko.wikipedia.org/wiki/별들의전쟁 "wikilink")
+      - 작사 · 작곡 · 편곡: [별들의전쟁](../Page/별들의전쟁.md "wikilink")
 2.  **짧은치마**
       - 작사 :용감한 형제, 차쿤, 작곡 : 용감한 형제, 코끼리 왕국, 차쿤, 편곡 : 용감한 형제, 코끼리 왕국, 이정민
 3.  가로등 불 아래서

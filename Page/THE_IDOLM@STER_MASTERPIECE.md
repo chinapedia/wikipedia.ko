@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER MASTERPIECE](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MASTERPIECE).
 
 
-《**THE IDOLM@STER MASTERPIECE**》 (아이돌마스터 마스터피스)는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 28일부터](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [아케이드 게임](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink") \<[THE IDOLM@STER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")\>의 사운드 트랙 CD시리즈.
+《**THE IDOLM@STER MASTERPIECE**》 (아이돌마스터 마스터피스)는 [2005년](../Page/2005년.md "wikilink") [9월 28일부터](../Page/9월_28일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [아케이드 게임](../Page/아케이드_게임.md "wikilink") \<[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")\>의 사운드 트랙 CD시리즈.
 
 ## 개요
 
-[아케이드판](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink") 수록의 악곡의 게임 버전과 롱 버전이 수록되고 있다.
+[아케이드판](../Page/THE_IDOLM@STER.md "wikilink") 수록의 악곡의 게임 버전과 롱 버전이 수록되고 있다.
 
 각 CD의 첫회 한정판에는 게임중에서 사용할 수 있는 리라이터블 카드가 부속.
 
-\<MASTER PIECE 01\~03\>을 [애니메이트](https://ko.wikipedia.org/wiki/애니메이트 "wikilink")에서 구입한 사람 중에서 추첨으로 관객을 초대해, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [1월 21일에](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") 미니 라이브를 했다. 이 라이브에는 이오리 역의 [쿠기미야 리에를](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink") 제외한 8명이 출연했다. 또 \<MASTERPIECE 05\>에서는 응모자 전원 서비스로 MASTERPIECE 시리즈 전권 수납 BOX 선물이 실시되었다. 쟈켓 일러스트는 캐릭터 디자인을 담당한 [쿠보오카 토시유키가](https://ko.wikipedia.org/wiki/쿠보오카_토시유키 "wikilink") 담당.
+\<MASTER PIECE 01\~03\>을 [애니메이트](../Page/애니메이트.md "wikilink")에서 구입한 사람 중에서 추첨으로 관객을 초대해, [2006년](../Page/2006년.md "wikilink") [1월 21일에](../Page/1월_21일.md "wikilink") 미니 라이브를 했다. 이 라이브에는 이오리 역의 [쿠기미야 리에를](../Page/쿠기미야_리에.md "wikilink") 제외한 8명이 출연했다. 또 \<MASTERPIECE 05\>에서는 응모자 전원 서비스로 MASTERPIECE 시리즈 전권 수납 BOX 선물이 실시되었다. 쟈켓 일러스트는 캐릭터 디자인을 담당한 [쿠보오카 토시유키가](https://ko.wikipedia.org/wiki/쿠보오카_토시유키 "wikilink") 담당.
 
 극장 애니메이션 \<[THE IDOLM@STER MOVIE 빛의 저편에\!](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")\>의 주제가 \<[M@STERPIECE](../Page/M@STERPIECE.md "wikilink")\>는 본 CD 시리즈가 타이틀의 유래다.
 
 ## 01 마법을 걸어\!
 
-[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [9월 28일](https://ko.wikipedia.org/wiki/9월_28일 "wikilink") 발매. 원래 통상판도 포함한 첫회 출하 수가 너무 적었기 때문에\[1\], 발매일에 많은 레코드점에서 완매가 되어 입수가 곤란한 사태가 일어났다.
+[2005년](../Page/2005년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") 발매. 원래 통상판도 포함한 첫회 출하 수가 너무 적었기 때문에\[1\], 발매일에 많은 레코드점에서 완매가 되어 입수가 곤란한 사태가 일어났다.
 
 쟈켓 일러스트의 교복은 후에 \<[SP](../Page/THE_IDOLM@STER_SP.md "wikilink")\>의 [DLC](https://ko.wikipedia.org/wiki/다운로드_가능_콘텐츠 "wikilink") 의상으로서 전달되었다.
 
@@ -25,7 +25,7 @@
 
 1.  '''마법을 걸어\! (M@STER VERSION) '''
       -
-        가: 아마미 하루카 ([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink"))·하기와라 유키호 ([오치아이 유리카](https://ko.wikipedia.org/wiki/오치아이_유리카 "wikilink"))·아키즈키 리츠코 ([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
+        가: 아마미 하루카 ([나카무라 에리코](../Page/나카무라_에리코.md "wikilink"))·하기와라 유키호 ([오치아이 유리카](https://ko.wikipedia.org/wiki/오치아이_유리카 "wikilink"))·아키즈키 리츠코 ([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
         작사·작곡·편곡: NAMCO ([고사키 사토루](https://ko.wikipedia.org/wiki/고사키_사토루 "wikilink"))
         고사키는 당초, [브리그리와](https://ko.wikipedia.org/wiki/the_brilliant_green "wikilink") 같은 곡으로 하고 싶었지만, 이시하라의 희망으로 \<[두 사람의 모지핏탄](https://ko.wikipedia.org/wiki/두_사람의_모지핏탄 "wikilink")\>과 같은 곡으로 바뀌었다\[2\].
 2.  '''THE IDOLM@STER(HYM VERSION) '''
@@ -59,7 +59,7 @@
 
 ## 02 9:02pm
 
-2005년 [11월 2일](https://ko.wikipedia.org/wiki/11월_2일 "wikilink") 발매.
+2005년 [11월 2일](../Page/11월_2일.md "wikilink") 발매.
 
   - 수록곡
 
@@ -67,9 +67,9 @@
 
 1.  '''9:02pm(M@STER VERSION) '''
       -
-        가: 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink")) · 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink")) · 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink"))
+        가: 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink")) · 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink")) · 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink"))
         작사: yura, 작곡·편곡: NAMCO(Jesahm)
-        yura가 아이마스 관련곡 중에서 처음으로 작사를 한 곡. 곡명의 \<9:02\>은 OL가 일로부터 돌아가, 자택에서 한 명 침착하는 시간이며, <pm>는 밤이라는 의미와 퍼스널 메시지의 머리 글자다. 또, [쇼팽의](https://ko.wikipedia.org/wiki/프레데리크_쇼팽 "wikilink") [야상곡 2번 변마장조 작품 9 - 2이](https://ko.wikipedia.org/wiki/야상곡_제_2번_\(쇼팽\) "wikilink") \<[애정 이야기](https://ko.wikipedia.org/wiki/애정_이야기_\(1956년_영화\) "wikilink")\>라는 영화에 사용되고 있어 이 곡에도 <애정 이야기>라는 의미를 갖게 하고 싶었다고 말하고 있다\[6\].
+        yura가 아이마스 관련곡 중에서 처음으로 작사를 한 곡. 곡명의 \<9:02\>은 OL가 일로부터 돌아가, 자택에서 한 명 침착하는 시간이며, <pm>는 밤이라는 의미와 퍼스널 메시지의 머리 글자다. 또, [쇼팽의](../Page/프레데리크_쇼팽.md "wikilink") [야상곡 2번 변마장조 작품 9 - 2이](https://ko.wikipedia.org/wiki/야상곡_제_2번_\(쇼팽\) "wikilink") \<[애정 이야기](https://ko.wikipedia.org/wiki/애정_이야기_\(1956년_영화\) "wikilink")\>라는 영화에 사용되고 있어 이 곡에도 <애정 이야기>라는 의미를 갖게 하고 싶었다고 말하고 있다\[6\].
 2.  '''THE IDOLM@STER(ACM VERSION) '''
       -
         가: 미우라 아즈사(타카하시 치아키)·키사라기 치하야(이마이 아사미)·키쿠치 마코토(히라타 히로미)
@@ -98,7 +98,7 @@
 
 ## 03 포지티브\!
 
-2005년[11월 30일](https://ko.wikipedia.org/wiki/11월_30일 "wikilink") 발매.
+2005년[11월 30일](../Page/11월_30일.md "wikilink") 발매.
 
   - 수록곡
 
@@ -106,7 +106,7 @@
 
 1.  '''포지티브\! (M@STER VERSION) '''
       -
-        가: 미나세 이오리(쿠기미야 리에)·타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) · 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+        가: 미나세 이오리(쿠기미야 리에)·타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) · 후타미 아미/마미([시모다 아사미](../Page/시모다_아사미.md "wikilink"))
         작사: NAMCO(mft), 작곡·편곡: NAMCO(나카가와 코지)
 2.  '''THE IDOLM@STER(IYAM VERSION) '''
       -
@@ -137,7 +137,7 @@
 
 ## 04
 
-[2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 22일](https://ko.wikipedia.org/wiki/3월_22일 "wikilink") 발매. 한정판에는 보너스 트랙으로서 \<THE IDOLM@STER\>이외의 9곡에서의 슈퍼 프로듀서 토너먼트의 상위 유닛에 의한 버전을 수록.
+[2006년](../Page/2006년.md "wikilink") [3월 22일](../Page/3월_22일.md "wikilink") 발매. 한정판에는 보너스 트랙으로서 \<THE IDOLM@STER\>이외의 9곡에서의 슈퍼 프로듀서 토너먼트의 상위 유닛에 의한 버전을 수록.
 
   - 수록곡
 
@@ -201,7 +201,7 @@
 
 ## 05
 
-2006년[5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink") 발매. 한정판에는 게임중에서 사용된 BGM를 메들리 형식에서 수록.
+2006년[5월 31일](../Page/5월_31일.md "wikilink") 발매. 한정판에는 게임중에서 사용된 BGM를 메들리 형식에서 수록.
 
   - 수록곡
 

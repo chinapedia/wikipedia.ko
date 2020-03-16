@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [LUNA SEA COMPLETE BEST](https://ko.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST).
 
 
-《**LUNA SEA COMPLETE BEST**》는 2008년 3월 26일에 발매된 [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 베스트 앨범이다.
+《**LUNA SEA COMPLETE BEST**》는 2008년 3월 26일에 발매된 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 베스트 앨범이다.
 
 ## 개요
 
-2007년 12월 24 일 도쿄 돔에서 열린 하룻밤 한정의 부활 라이브 "LUNA SEA GOD BLESS YOU \~One Night Déjàvu\~" 라이브 DVD와 동시 발매되었다. 디지털 리마스터링 되었으며 2장 세트로 출시되었다. 종막 후 CD로 발매된 음반은 커플링 모음집인 "another side of SINGLES II"와 발라드 베스트 "SLOW"뿐이었는데, 종막 후에 발매된 베스트 앨범으로는 처음으로 [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 초기부터 종막까지의 전체 경력에서 선곡되었다. 종막 전 싱글 14 곡을 모두 수록한 앨범은 이번이 처음이다. 2013년 3월 27일에 재킷을 아시아 5개국에서 판매되고 있는 것으로 변경하고 12곡 (CD 1장 분량)이 추가 수록된 "COMPLETE BEST -ASIA LIMITED EDITION-"이 기간 한정으로 발매되었다. 전곡이 리마스터링 되어 있으며, 마스터링을 담당한 것은 테드 젠슨 (Ted Jensen).
+2007년 12월 24 일 도쿄 돔에서 열린 하룻밤 한정의 부활 라이브 "LUNA SEA GOD BLESS YOU \~One Night Déjàvu\~" 라이브 DVD와 동시 발매되었다. 디지털 리마스터링 되었으며 2장 세트로 출시되었다. 종막 후 CD로 발매된 음반은 커플링 모음집인 "another side of SINGLES II"와 발라드 베스트 "SLOW"뿐이었는데, 종막 후에 발매된 베스트 앨범으로는 처음으로 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 초기부터 종막까지의 전체 경력에서 선곡되었다. 종막 전 싱글 14 곡을 모두 수록한 앨범은 이번이 처음이다. 2013년 3월 27일에 재킷을 아시아 5개국에서 판매되고 있는 것으로 변경하고 12곡 (CD 1장 분량)이 추가 수록된 "COMPLETE BEST -ASIA LIMITED EDITION-"이 기간 한정으로 발매되었다. 전곡이 리마스터링 되어 있으며, 마스터링을 담당한 것은 테드 젠슨 (Ted Jensen).
 
 ## 수록곡
 
-  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink")
+  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 ### DISC 1
 
@@ -21,7 +21,7 @@
         2nd 싱글. 본작에는 싱글 버전이 수록됨.
 3.  **ROSIER**
       -
-        3rd 싱글. 4집 앨범 「[MOTHER](https://ko.wikipedia.org/wiki/MOTHER_\(LUNA_SEA의_음반\) "wikilink")」에 수록되어 있는 버전 수록.
+        3rd 싱글. 4집 앨범 「[MOTHER](../Page/MOTHER_\(LUNA_SEA의_음반\).md "wikilink")」에 수록되어 있는 버전 수록.
 4.  **TRUE BLUE**
       -
         4th 싱글.
@@ -60,7 +60,7 @@
 
 1.  **LOVELESS**
       -
-        4집 앨범 「[MOTHER](https://ko.wikipedia.org/wiki/MOTHER_\(LUNA_SEA의_음반\) "wikilink")」수록곡.
+        4집 앨범 「[MOTHER](../Page/MOTHER_\(LUNA_SEA의_음반\).md "wikilink")」수록곡.
 2.  **Déjàvu**
       -
         2집 앨범 「[IMAGE](../Page/IMAGE_\(LUNA_SEA의_음반\).md "wikilink")」수록곡.
@@ -105,7 +105,7 @@
 
 1.  **IN FUTURE**
       -
-        4집 앨범 「[MOTHER](https://ko.wikipedia.org/wiki/MOTHER_\(LUNA_SEA의_음반\) "wikilink")」수록곡.
+        4집 앨범 「[MOTHER](../Page/MOTHER_\(LUNA_SEA의_음반\).md "wikilink")」수록곡.
 2.  **MECHANICAL DANCE**
       -
         2집 앨범 「[IMAGE](../Page/IMAGE_\(LUNA_SEA의_음반\).md "wikilink")」수록곡.

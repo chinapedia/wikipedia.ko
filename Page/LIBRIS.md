@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LIBRIS](https://ko.wikipedia.org/wiki/LIBRIS).
 
 
-**LIBRIS**(, 도서관 정보 시스템)는 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴 "wikilink") 국립 카탈로그 모음으로 [스웨덴 국립도서관에](https://ko.wikipedia.org/wiki/스웨덴_국립도서관 "wikilink") 의해 관리된다.\[1\] 약 6백 5십만개의 표제어를 무료로 검색할 수 있다.\[2\]
+**LIBRIS**(, 도서관 정보 시스템)는 [스웨덴](../Page/스웨덴.md "wikilink") 국립 카탈로그 모음으로 [스웨덴 국립도서관에](https://ko.wikipedia.org/wiki/스웨덴_국립도서관 "wikilink") 의해 관리된다.\[1\] 약 6백 5십만개의 표제어를 무료로 검색할 수 있다.\[2\]
 
 각각의 책이나 발표물에 대한 서지 정보에 더불어 LIBRIS는 사람에 대한 전거 파일을 포함한다. 각각의 사람에 대해서 이름, 생몰일, 직업을 각각의 식별자를 통해 표시한다.
 

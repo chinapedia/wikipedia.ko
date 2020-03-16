@@ -3,9 +3,9 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:T_Cell_Surface_Glycoprotein_CD4_-_PDB_1CDH.jpg "wikilink")
 
-[세포표면항원무리](../Page/세포표면항원무리.md "wikilink") 4 혹은 **CD4**는 [보조 T 세포](https://ko.wikipedia.org/wiki/보조_T_세포 "wikilink"), [단핵구](https://ko.wikipedia.org/wiki/단핵구 "wikilink"), [대식세포](https://ko.wikipedia.org/wiki/대식세포 "wikilink"), [수지상세포](https://ko.wikipedia.org/wiki/수지상세포 "wikilink") 등 면역세포의 표면에 있는 [당단백질](https://ko.wikipedia.org/wiki/당단백질 "wikilink") 분자이다. 1970년대 후반에 발견되었고, 원래는 leu-3와 T4(여기 반응한 OKT4 [단일클론 항체를](https://ko.wikipedia.org/wiki/단일클론_항체 "wikilink") 따서 이렇게 부름)라고 불리다가 1984년 CD4로 배정되었다.\[1\] 사람의 CD4 단백질은 *CD4* 유전자에 부호화되어 있다.\[2\]\[3\]
+[세포표면항원무리](../Page/세포표면항원무리.md "wikilink") 4 혹은 **CD4**는 [보조 T 세포](https://ko.wikipedia.org/wiki/보조_T_세포 "wikilink"), [단핵구](https://ko.wikipedia.org/wiki/단핵구 "wikilink"), [대식세포](../Page/대식세포.md "wikilink"), [수지상세포](https://ko.wikipedia.org/wiki/수지상세포 "wikilink") 등 면역세포의 표면에 있는 [당단백질](https://ko.wikipedia.org/wiki/당단백질 "wikilink") 분자이다. 1970년대 후반에 발견되었고, 원래는 leu-3와 T4(여기 반응한 OKT4 [단일클론 항체를](https://ko.wikipedia.org/wiki/단일클론_항체 "wikilink") 따서 이렇게 부름)라고 불리다가 1984년 CD4로 배정되었다.\[1\] 사람의 CD4 단백질은 *CD4* 유전자에 부호화되어 있다.\[2\]\[3\]
 
-CD4+ 보조 T 세포는 [백혈구](https://ko.wikipedia.org/wiki/백혈구 "wikilink")의 일종으로 사람 [면역계](https://ko.wikipedia.org/wiki/면역계 "wikilink")에 필수적이다. 종종 CD4 세포, T<sub>H</sub> 세포라고도 부른다. 보조 T 세포는 다른 면역세포, 예를 들면 [CD8](../Page/CD8.md "wikilink") [세포독성 T 세포에](https://ko.wikipedia.org/wiki/세포독성_T_세포 "wikilink") 신호를 보내 감염성 입자를 없애도록 "보조"한다. [HIV](https://ko.wikipedia.org/wiki/HIV "wikilink") 감염, [장기 이식](https://ko.wikipedia.org/wiki/장기_이식 "wikilink") 전 [면역억제제](https://ko.wikipedia.org/wiki/면역억제제 "wikilink") 등으로 인하여 CD4 세포가 감소하면 외부 감염에 취약해져서, 일반적인 경우에는 면역계가 싸워 이길 수 있는 감염도 막아내지 못한다.
+CD4+ 보조 T 세포는 [백혈구](../Page/백혈구.md "wikilink")의 일종으로 사람 [면역계](../Page/면역계.md "wikilink")에 필수적이다. 종종 CD4 세포, T<sub>H</sub> 세포라고도 부른다. 보조 T 세포는 다른 면역세포, 예를 들면 [CD8](../Page/CD8.md "wikilink") [세포독성 T 세포에](https://ko.wikipedia.org/wiki/세포독성_T_세포 "wikilink") 신호를 보내 감염성 입자를 없애도록 "보조"한다. [HIV](https://ko.wikipedia.org/wiki/HIV "wikilink") 감염, [장기 이식](../Page/장기_이식.md "wikilink") 전 [면역억제제](https://ko.wikipedia.org/wiki/면역억제제 "wikilink") 등으로 인하여 CD4 세포가 감소하면 외부 감염에 취약해져서, 일반적인 경우에는 면역계가 싸워 이길 수 있는 감염도 막아내지 못한다.
 
 ## 구조
 
@@ -18,7 +18,7 @@ CD4는 [면역글로불린 상과에](https://ko.wikipedia.org/wiki/면역글로
 
 CD4는 D<sub>1</sub> 도메인을 이용하여 [II형 MHC](https://ko.wikipedia.org/wiki/II형_MHC "wikilink") 분자의 β<sub>2</sub> 도메인과 상호작용한다. 따라서 **CD4** T 세포는 **II형 MHC**가 제시한 항원에 특이적이고, [I형 MHC에는](https://ko.wikipedia.org/wiki/I형_MHC "wikilink") 그렇지 않다. 이를 "II형 MHC에 제한적"()이라 한다. I형 MHC에는 [β<sub>2</sub> 마이크로글로불린이](https://ko.wikipedia.org/wiki/베타-2_마이크로글로불린 "wikilink") 있다.
 
-CD4의 짧은 [세포질](https://ko.wikipedia.org/wiki/세포질 "wikilink") 혹은 세포내 꼬리에는 특별한 [아미노산](https://ko.wikipedia.org/wiki/아미노산 "wikilink") 서열이 있어 [Lck](https://ko.wikipedia.org/wiki/Lck "wikilink") 분자와 상호작용한다.
+CD4의 짧은 [세포질](../Page/세포질.md "wikilink") 혹은 세포내 꼬리에는 특별한 [아미노산](../Page/아미노산.md "wikilink") 서열이 있어 [Lck](https://ko.wikipedia.org/wiki/Lck "wikilink") 분자와 상호작용한다.
 
 ## 기능
 
@@ -34,7 +34,7 @@ CD4는 SPG21,\[5\] Lck\[6\]\[7\]\[8\]\[9\]\[10\], 단백질 unc-119 상동체\[1
 
 ### HIV 감염
 
-[HIV](https://ko.wikipedia.org/wiki/HIV "wikilink")-1은 CD4를 이용하여 숙주 T 세포에 들어가는데, 이는 [바이러스](https://ko.wikipedia.org/wiki/바이러스 "wikilink") 껍질 단백질인 [gp120](https://ko.wikipedia.org/wiki/gp120 "wikilink")을 통해 이루어진다.\[12\] CD4에 결합하면 gp120의 입체형태가 변화하여 HIV-1가 숙주 세포의 또 다른 공동수용체인 케모카인 수용체 [CCR5](https://ko.wikipedia.org/wiki/CCR5 "wikilink")와 [CXCR4](https://ko.wikipedia.org/wiki/CXCR4 "wikilink")에 결합한다. 이어서 바이러스 단백질 [gp41](https://ko.wikipedia.org/wiki/gp41 "wikilink")의 구조가 변화하고, HIV는 숙주 세포에 융합 펩타이드를 넣어 [세포막](https://ko.wikipedia.org/wiki/세포막 "wikilink")과 바이러스 막이 융합하도록 한다.
+[HIV](https://ko.wikipedia.org/wiki/HIV "wikilink")-1은 CD4를 이용하여 숙주 T 세포에 들어가는데, 이는 [바이러스](../Page/바이러스.md "wikilink") 껍질 단백질인 [gp120](https://ko.wikipedia.org/wiki/gp120 "wikilink")을 통해 이루어진다.\[12\] CD4에 결합하면 gp120의 입체형태가 변화하여 HIV-1가 숙주 세포의 또 다른 공동수용체인 케모카인 수용체 [CCR5](https://ko.wikipedia.org/wiki/CCR5 "wikilink")와 [CXCR4](https://ko.wikipedia.org/wiki/CXCR4 "wikilink")에 결합한다. 이어서 바이러스 단백질 [gp41](https://ko.wikipedia.org/wiki/gp41 "wikilink")의 구조가 변화하고, HIV는 숙주 세포에 융합 펩타이드를 넣어 [세포막](../Page/세포막.md "wikilink")과 바이러스 막이 융합하도록 한다.
 
 ### HIV 병리학
 
@@ -44,7 +44,7 @@ CD4는 SPG21,\[5\] Lck\[6\]\[7\]\[8\]\[9\]\[10\], 단백질 unc-119 상동체\[1
 
 ### 기타 질병
 
-CD4는 [보조 T 세포에서](https://ko.wikipedia.org/wiki/보조_T_세포 "wikilink") 유래한 신생물 대부분에서도 발현된다. 따라서 [생검](https://ko.wikipedia.org/wiki/생검 "wikilink")한 조직에서 [면역조직화학법](https://ko.wikipedia.org/wiki/면역조직화학법 "wikilink")을 통해 CD4를 검출하여 말초 T 세포 [림프종](../Page/림프종.md "wikilink")의 및 그와 관련된 악성 상태를 파악할 수 있다.\[15\] [백피](https://ko.wikipedia.org/wiki/백피 "wikilink")나 [제1형 당뇨병](https://ko.wikipedia.org/wiki/제1형_당뇨병 "wikilink") 등 다수의 [자가면역질환](../Page/자가면역질환.md "wikilink")과도 연관이 있다.\[16\]
+CD4는 [보조 T 세포에서](https://ko.wikipedia.org/wiki/보조_T_세포 "wikilink") 유래한 신생물 대부분에서도 발현된다. 따라서 [생검](https://ko.wikipedia.org/wiki/생검 "wikilink")한 조직에서 [면역조직화학법](https://ko.wikipedia.org/wiki/면역조직화학법 "wikilink")을 통해 CD4를 검출하여 말초 T 세포 [림프종](../Page/림프종.md "wikilink")의 및 그와 관련된 악성 상태를 파악할 수 있다.\[15\] [백피](https://ko.wikipedia.org/wiki/백피 "wikilink")나 [제1형 당뇨병](../Page/제1형_당뇨병.md "wikilink") 등 다수의 [자가면역질환](../Page/자가면역질환.md "wikilink")과도 연관이 있다.\[16\]
 
 ## 각주 및 참고 문헌
 

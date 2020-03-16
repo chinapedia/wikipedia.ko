@@ -57,7 +57,7 @@
 <td style="text-align: left;"><p>1</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/빌보드_200" title="wikilink">빌보드 200</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/빌보드_200.md" title="wikilink">빌보드 200</a></p></td>
 <td style="text-align: left;"><p>8</p></td>
 </tr>
 <tr class="even">
@@ -77,10 +77,10 @@
 
 <!-- end list -->
 
-  - [제임스 라브리에](https://ko.wikipedia.org/wiki/제임스_라브리에 "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
-  - [존 페트루치](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink") – [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 백킹 보컬
-  - [조던 루디스](https://ko.wikipedia.org/wiki/조던_루디스 "wikilink") – [키보드](https://ko.wikipedia.org/wiki/신시사이저 "wikilink"), [컨티늄](https://ko.wikipedia.org/wiki/컨티늄 "wikilink")
-  - [존 명](https://ko.wikipedia.org/wiki/존_명 "wikilink") – [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [제임스 라브리에](../Page/제임스_라브리에.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink") – [기타](../Page/기타.md "wikilink"), 백킹 보컬
+  - [조던 루디스](../Page/조던_루디스.md "wikilink") – [키보드](../Page/신시사이저.md "wikilink"), [컨티늄](https://ko.wikipedia.org/wiki/컨티늄 "wikilink")
+  - [존 명](../Page/존_명.md "wikilink") – [베이스 기타](../Page/베이스_기타.md "wikilink")
   - [마이크 맨지니](../Page/마이크_맨지니.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), 백킹 보컬
 
 <!-- end list -->
@@ -90,7 +90,7 @@
 <!-- end list -->
 
   - 폴 노스필드: 엔지니어, 믹싱
-  - [존 페트루치](https://ko.wikipedia.org/wiki/존_페트루치 "wikilink"): [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")
+  - [존 페트루치](../Page/존_페트루치.md "wikilink"): [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")
   - 조 마니스깔코: 보조 엔니지어
   - 앤디 월러스: 믹싱
   - 테드 젠슨: 마스터 링

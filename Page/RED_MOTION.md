@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RED MOTION](https://ko.wikipedia.org/wiki/RED_MOTION).
 
 
-〈**RED MOTION**〉는 그룹 [AOA의](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") 네번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [10월 15일에](https://ko.wikipedia.org/wiki/10월_15일 "wikilink") 발매되었다.
+〈**RED MOTION**〉는 그룹 [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 네번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2013년](../Page/2013년.md "wikilink") [10월 15일에](../Page/10월_15일.md "wikilink") 발매되었다.
 
 ## 활동 개요
 

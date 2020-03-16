@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [M album](https://ko.wikipedia.org/wiki/M_album).
 
 
-《**M album**》은, [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 14번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**M album**》은, [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 14번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 수록곡
 

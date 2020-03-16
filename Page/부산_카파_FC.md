@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**부산 카파 FC**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink")단이다.
+**부산 카파 FC**()는 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink")단이다.
 
 ## 선수단
 

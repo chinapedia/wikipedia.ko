@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ 8BIT](https://ko.wikipedia.org/wiki/_8BIT).
 
 
-**'패미송 8BIT☆아이돌마스터**' (패미송 에이트 비트☆아이돌마스터)는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 25일부터](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") [5 pb.Records에서](https://ko.wikipedia.org/wiki/5_pb.Records "wikilink") 발매되고 있는 게임 '[THE IDOLM@STER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")'의 [기획 앨범](https://ko.wikipedia.org/wiki/컨셉_앨범 "wikilink") 시리즈.
+**'패미송 8BIT☆아이돌마스터**' (패미송 에이트 비트☆아이돌마스터)는 [2008년](../Page/2008년.md "wikilink") [3월 25일부터](../Page/3월_25일.md "wikilink") [5 pb.Records에서](https://ko.wikipedia.org/wiki/5_pb.Records "wikilink") 발매되고 있는 게임 '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")'의 [기획 앨범](https://ko.wikipedia.org/wiki/컨셉_앨범 "wikilink") 시리즈.
 
-2008년 1월에 발표. 그리운 [남코](https://ko.wikipedia.org/wiki/남코 "wikilink")의 곡을 아이돌마스터의 아이돌들이 노래한다는 컨셉의 시리즈. 올드 게임의 BGM의 리믹스에 아이돌마스터의 노래를 실은 곡 외, 게임 BGM 베이스의 신곡도 수록되고 있다. 쟈켓 일러스트는 [명음](https://ko.wikipedia.org/wiki/명음 "wikilink")이 담당.
+2008년 1월에 발표. 그리운 [남코](../Page/남코.md "wikilink")의 곡을 아이돌마스터의 아이돌들이 노래한다는 컨셉의 시리즈. 올드 게임의 BGM의 리믹스에 아이돌마스터의 노래를 실은 곡 외, 게임 BGM 베이스의 신곡도 수록되고 있다. 쟈켓 일러스트는 [명음](https://ko.wikipedia.org/wiki/명음 "wikilink")이 담당.
 
 ## 01 타카츠키 야요이/후타미 아미·마미
 
@@ -17,9 +17,9 @@
 2.  765 월드에 어서 오십시오(Ver. 01)【드라마】\~ 'GO MY WAY\!\! '에서〜
 3.  GO MY WAY\!\! ( '[원더 복숭아](https://ko.wikipedia.org/wiki/원더_복숭아 "wikilink") '패미송 8BIT MIX)
       -
-        가: 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) · 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+        가: 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) · 후타미 아미/마미([시모다 아사미](../Page/시모다_아사미.md "wikilink"))
         작사: yura, 작곡·편곡: NBGI(고사키 사토루), 어레인지: KPLECRAFT
-4.  어트랙션 '[팩맨](https://ko.wikipedia.org/wiki/팩맨 "wikilink") '【드라마】
+4.  어트랙션 '[팩맨](../Page/팩맨.md "wikilink") '【드라마】
 5.  '''Labyrinth( '팩맨'NEW SONG) '''
       -
         가: 타카츠키 야요이(니고 마야코)
@@ -68,7 +68,7 @@
 2.  765 월드에 어서 오십시오(Ver. 02)【드라마】\~ ' 나는 아이돌♡'에서〜
 3.  나는 아이돌♡( '[와르큐레의 전설](https://ko.wikipedia.org/wiki/와르큐레의_전설 "wikilink") '패미송 8BIT MIX)
       -
-        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")) · 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink"))
+        가: 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink")) · 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink"))
         작사: 나카무라 메구미, 작곡·편곡: NBGI(사사키 히로시인), 어레인지: KPLECRAFT
 4.  어트랙션 '[메트로 크로스](https://ko.wikipedia.org/wiki/메트로_크로스 "wikilink") '【드라마】
 5.  '''강한 여자( '메트로 크로스'NEW SONG) '''
@@ -121,7 +121,7 @@
 2.  765 월드에 어서 오십시오(Ver. 03)【드라마】\~ '곧바로'에서〜
 3.  곧바로( '[페리오스](https://ko.wikipedia.org/wiki/페리오스 "wikilink") '패미송 8BIT MIX)
       -
-        가: 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink")) · 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
+        가: 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink")) · 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
         작사: 아침해제, 작곡·편곡: NBGI(Yoshi), 어레인지: KPLECRAFT
 4.  어트랙션 '[바벨탑](https://ko.wikipedia.org/wiki/바벨탑\(게임\) "wikilink") '【드라마】
 5.  '''Tower of Adventure( '바벨탑'NEW SONG) '''
@@ -179,7 +179,7 @@
       -
         가: 하기와라 유키호(오치아이 유리카)
         작사: NanaerikA-PROJECT, 작곡·편곡: NBGI(케이노 유리코), 편곡: Uraken
-6.  First Stage( '[제비우스](https://ko.wikipedia.org/wiki/제비우스 "wikilink") '패미송 8BIT MIX)
+6.  First Stage( '[제비우스](../Page/제비우스.md "wikilink") '패미송 8BIT MIX)
       -
         가: 키쿠치 마코토(히라타 히로미)·하기와라 유키호(오치아이 유리카)
         작사: 나카무라 메구미, 작곡·편곡: NBGI(사사키 히로시인), 어레인지: KPLECRAFT
@@ -223,7 +223,7 @@
 2.  765 월드에 어서 오십시오(Ver. 02)【드라마】\~ '추억에 고마워'에서〜
 3.  추억에 고마워( '[토이 팝](https://ko.wikipedia.org/wiki/토이_팝 "wikilink") '패미송 8BIT MIX)
       -
-        가: 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink")) · 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"))
+        가: 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink")) · 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"))
         작사: 나카무라 메구미, 작곡·편곡: NBGI(사사키 히로시인), 어레인지: KPLECRAFT
 4.  어트랙션 '맙피'【드라마】
 5.  '''아가씨의 마음 훔쳐\! ( '맙피'NEW SONG) '''
@@ -305,11 +305,11 @@
         가: 키사라기 치하야(이마이 아사미)
 14. '''팔 수 있는 해·유령선 망령 여행기( '요괴 여행기'NEW SONG) '''
       -
-        가: 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink"))
+        가: 가나하 히비키([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink"))
         작사: 고토 히로유키, 작곡·편곡: NBGI(카와다 히로시행), 편곡: 손형오
 15. '''여행의 도중에( '와르큐레의 전설'NEW SONG) '''
       -
-        가: 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"))
+        가: 시죠 타카네([하라 유미](../Page/하라_유미.md "wikilink"))
         작사: mft, 작곡·편곡: NBGI(카와다 히로시행)
 16. '''날아라\!스카이 키드( '스카이 키드'NEW SONG) '''
       -

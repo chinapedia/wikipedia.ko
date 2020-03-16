@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER ANIM@TION MASTER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER).
 
 
-**'THE IDOLM@STER ANIM@TION MASTER**' (아이돌마스터 애니메이션 마스터)는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 10일부터](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 애니메이션 '[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")'의 CD시리즈이다.
+**'THE IDOLM@STER ANIM@TION MASTER**' (아이돌마스터 애니메이션 마스터)는 [2011년](../Page/2011년.md "wikilink") [8월 10일부터](../Page/8월_10일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 애니메이션 '[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")'의 CD시리즈이다.
 
 '[MASTER ARTIST 2](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_2#CD "wikilink")'에 이어지는 CD시리즈로, 이 시리즈에 이어, '[ANIM@TION MASTER 생방임까 SPECIAL](../Page/THE_IDOLM@STER_ANIM@TION_MASTER_생방임까_SPECIAL.md "wikilink")' 시리즈가 발매되고 있다.
 
@@ -40,7 +40,7 @@
 3.  우정
 4.  나는 아이돌♡(M@STER VERSION)
       -
-        가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink")) , 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) , 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+        가: 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink")) , 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) , 후타미 아미/마미([시모다 아사미](../Page/시모다_아사미.md "wikilink"))
         작사: 나카무라 메구미, 작곡·편곡: [NBGI](https://ko.wikipedia.org/wiki/NBGI "wikilink") ([사사키 히로시인](https://ko.wikipedia.org/wiki/사사키_히로시인 "wikilink"))
 5.  기쁜 기분
 6.  ''포지티브\! (M@STER VERSION) ''
@@ -60,24 +60,24 @@
 11. 마음에 당김 하지 않는다 …
 12. 소녀여 큰 뜻을 품어라\!\!
       -
-        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink"))
+        가: 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink"))
         작사: yura, 작곡: [백호우보](https://ko.wikipedia.org/wiki/백호우보 "wikilink") , 편곡: 경가순
 13. 밝고 즐겁게
 14. *파랑새(M@STER VERSION)\~TV ARRANGE\~*
       -
-        가: 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))
+        가: 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink"))
         작사: [모리 유리코](https://ko.wikipedia.org/wiki/모리_유리코 "wikilink") , 작곡: NBGI([시이나 고](https://ko.wikipedia.org/wiki/시이나_고 "wikilink")) , 편곡: 미야하라 메구미태
 15. 다망한 날들
 16. 건강합니다
 17. '''신SUMMER\!\! '''
       -
-        가: 아마미 하루카(나카무라 에리코), 타카츠키 야요이(니고 마야코), 후타미 아미/마미(시모다 아사미), 하기와라 유키호(아사쿠라 아즈미), 미나세 이오리(쿠기미야 리에), 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"))
+        가: 아마미 하루카(나카무라 에리코), 타카츠키 야요이(니고 마야코), 후타미 아미/마미(시모다 아사미), 하기와라 유키호(아사쿠라 아즈미), 미나세 이오리(쿠기미야 리에), 시죠 타카네([하라 유미](../Page/하라_유미.md "wikilink"))
         작사: yura, 작곡·편곡: [타나카 히데카즈](https://ko.wikipedia.org/wiki/타나카_히데카즈_\(작곡가\) "wikilink")
 18. 평소의 하늘
 19. i(Piano Instrumental Version)
 20. **MOONY**
       -
-        가: 키사라기 치하야(이마이 아사미), 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink")) , 키쿠치 마코토(히라타 히로미), 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink")) , 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink")) , 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
+        가: 키사라기 치하야(이마이 아사미), 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink")) , 키쿠치 마코토(히라타 히로미), 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink")) , 가나하 히비키([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink")) , 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
         작사: yura, 작곡·편곡: Funta7
 21. 보너스 트랙 '오토나시 코토리의 765 프로 비밀 리포트\~격동편\~'
       -
@@ -149,7 +149,7 @@
 21. 노력하는 아이돌들
 22. ''GO MY WAY\!\! ''
       -
-        가: 765+876 PRO ALLSTARS(아마미 하루카(나카무라 에리코), 호시이 미키(하세가와 아키코), 키사라기 치하야(이마이 아사미), 타카츠키 야요이(니고 마야코), 하기와라 유키호(아사쿠라 아즈미), 키쿠치 마코토(히라타 히로미), 후타미 아미/마미(시모다 아사미), 미나세 이오리(쿠기미야 리에), 미우라 아즈사(타카하시 치아키), 시죠 타카네(하라 유미), 가나하 히비키(누마쿠라 마나미), 아키즈키 리츠코(와카바야시 나오미), 히다카 아이([토마츠 하루카](https://ko.wikipedia.org/wiki/토마츠_하루카 "wikilink")), 미즈타니 에리([하나자와 카나](https://ko.wikipedia.org/wiki/하나자와_카나 "wikilink")), 아키즈키 료 ([산페이 유우코](https://ko.wikipedia.org/wiki/산페이_유우코 "wikilink")))
+        가: 765+876 PRO ALLSTARS(아마미 하루카(나카무라 에리코), 호시이 미키(하세가와 아키코), 키사라기 치하야(이마이 아사미), 타카츠키 야요이(니고 마야코), 하기와라 유키호(아사쿠라 아즈미), 키쿠치 마코토(히라타 히로미), 후타미 아미/마미(시모다 아사미), 미나세 이오리(쿠기미야 리에), 미우라 아즈사(타카하시 치아키), 시죠 타카네(하라 유미), 가나하 히비키(누마쿠라 마나미), 아키즈키 리츠코(와카바야시 나오미), 히다카 아이([토마츠 하루카](../Page/토마츠_하루카.md "wikilink")), 미즈타니 에리([하나자와 카나](../Page/하나자와_카나.md "wikilink")), 아키즈키 료 ([산페이 유우코](../Page/산페이_유우코.md "wikilink")))
 23. 보너스 트랙 '오토나시 코토리의 765 프로 비밀 리포트\~세기말 구세주편\~'
       -
         출연: 타카츠키 야요이(니고 마야코), 미나세 이오리(쿠기미야 리에), 오토나시 코토리(타키타 쥬리)

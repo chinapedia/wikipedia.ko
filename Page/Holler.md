@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Holler](https://ko.wikipedia.org/wiki/Holler).
 
 
-《**Holler**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [소녀시대-태티서](https://ko.wikipedia.org/wiki/소녀시대-태티서 "wikilink")의 두 번째 EP이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [9월 16일에](https://ko.wikipedia.org/wiki/9월_16일 "wikilink") 지니뮤직을 통해 발매되었다.
+《**Holler**》은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [소녀시대-태티서](../Page/소녀시대-태티서.md "wikilink")의 두 번째 EP이다. [2014년](../Page/2014년.md "wikilink") [9월 16일에](../Page/9월_16일.md "wikilink") 지니뮤직을 통해 발매되었다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER LIVE THE@TER PERFORMANCE](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_PERFORMANCE).
 
 
-**'THE IDOLM@STER LIVE THE@TER PERFORMANCE**' (아이돌마스터 라이브 시어터 퍼포먼스)는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [4월 24일부터](https://ko.wikipedia.org/wiki/4월_24일 "wikilink") 2014년 4월 30일까지 [Lantis에서](https://ko.wikipedia.org/wiki/란티스 "wikilink") 발매된 [캐릭터 송](https://ko.wikipedia.org/wiki/캐릭터_송 "wikilink") CD 시리즈이다.
+**'THE IDOLM@STER LIVE THE@TER PERFORMANCE**' (아이돌마스터 라이브 시어터 퍼포먼스)는 [2013년](../Page/2013년.md "wikilink") [4월 24일부터](../Page/4월_24일.md "wikilink") 2014년 4월 30일까지 [Lantis에서](../Page/란티스.md "wikilink") 발매된 [캐릭터 송](https://ko.wikipedia.org/wiki/캐릭터_송 "wikilink") CD 시리즈이다.
 
 ## 개요
 
@@ -41,7 +41,7 @@
 
 :\# **반짝이는 진행형**
 
-:\#: 가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink"))
+:\#: 가: 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink"))
 
 :\#: 작사: [rino](https://ko.wikipedia.org/wiki/rino "wikilink") , 작곡·편곡: [타카다 아키라](https://ko.wikipedia.org/wiki/타카다_아키라 "wikilink")
 
@@ -129,7 +129,7 @@
 
 :\# **Rebellion**
 
-:\#: 가: 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink"))
+:\#: 가: 가나하 히비키([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink"))
 
 :\#: 작사: ZAQ, 작곡: [마에야마 쓰루타 타케시1](https://ko.wikipedia.org/wiki/마에야마_쓰루타_타케시1 "wikilink") , 편곡: [이시이 켄타로](https://ko.wikipedia.org/wiki/이시이_켄타로 "wikilink")
 
@@ -179,7 +179,7 @@
 
 :\# **Snow White**
 
-:\#: 가: 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))
+:\#: 가: 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink"))
 
 :\#: 작사: 모리 유리코, 작곡: rino, 편곡: [마스다 타케시](https://ko.wikipedia.org/wiki/마스다_타케시 "wikilink")
 
@@ -229,7 +229,7 @@
 
 :\# '''프라이베이트 로드 쇼(playback, Weekday) '''
 
-:\#: 가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"))
+:\#: 가: 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"))
 
 :\#: 작사: 마츠이 요헤, 작곡·편곡: 마츠다 아키라인
 
@@ -271,7 +271,7 @@
 
 :\# **추억의 샌드 글래스**
 
-:\#: 가: 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink"))
+:\#: 가: 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink"))
 
 :\#: 작사: ZAQ, 작곡·편곡: 타카다 아키라
 
@@ -329,7 +329,7 @@
 
 :\# **한탄의 FRACTION**
 
-:\#: 가: 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink"))
+:\#: 가: 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink"))
 
 :\#: 작사·작곡: [후지모토기자](https://ko.wikipedia.org/wiki/후지모토기자 "wikilink") , 편곡: 후쿠토미 마사유키
 
@@ -479,7 +479,7 @@
 
 :\# **연화**
 
-:\#: 가: 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"))
+:\#: 가: 시죠 타카네([하라 유미](../Page/하라_유미.md "wikilink"))
 
 :\#: 작사: 후지모토기자, 작곡·편곡: 후쿠토미 마사유키
 
@@ -529,7 +529,7 @@
 
 :\# **DETECTIVE HIGH\! \~사랑 탐정 이야기\~**
 
-:\#: 가: 후타미 마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+:\#: 가: 후타미 마미([시모다 아사미](../Page/시모다_아사미.md "wikilink"))
 
 :\#: 작사: 마츠이 요헤, 작곡·편곡: [이시이 켄타로](https://ko.wikipedia.org/wiki/이시이_켄타로 "wikilink")
 
@@ -621,7 +621,7 @@
 
 :\# '''dear... '''
 
-:\#: 가: 바바 코노미([타카하시 미나미](https://ko.wikipedia.org/wiki/타카하시_미나미 "wikilink"))
+:\#: 가: 바바 코노미([타카하시 미나미](../Page/타카하시_미나미.md "wikilink"))
 
 :\#: 작사·작곡·편곡: KOH
 

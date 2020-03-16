@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [ -C](https://ko.wikipedia.org/wiki/_-C).
 
 
-〈**햐다인의 짜짜짝☆짝사랑-C**〉()는 [햐다인의](https://ko.wikipedia.org/wiki/마에야마다_켄이치 "wikilink") 첫 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**햐다인의 짜짜짝☆짝사랑-C**〉()는 [햐다인의](https://ko.wikipedia.org/wiki/마에야마다_켄이치 "wikilink") 첫 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 수록곡
 
 작사・작곡・편곡：[마에야마다 켄이치](https://ko.wikipedia.org/wiki/마에야마다_켄이치 "wikilink")
 
 1.  **ヒャダインのカカカタ☆カタオモイ-C** \[3:53\]
-      - TV [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") 《[일상](https://ko.wikipedia.org/wiki/일상_\(만화\) "wikilink")》 [오프닝 테마송](https://ko.wikipedia.org/wiki/주제가 "wikilink")
+      - TV [애니메이션](../Page/애니메이션.md "wikilink") 《[일상](../Page/일상_\(만화\).md "wikilink")》 [오프닝 테마송](https://ko.wikipedia.org/wiki/주제가 "wikilink")
 2.  **ヒャダル子のカカカタ☆カタオモイ-F** \[3:52\]
 3.  **Choose me feat.佐咲紗花** \[3:59\]
       -

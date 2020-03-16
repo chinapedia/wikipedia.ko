@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SMOKY THRILL](https://ko.wikipedia.org/wiki/SMOKY_THRILL).
 
 
-〈**SMOKY THRILL**〉(스모키 스릴, )은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 9일에](https://ko.wikipedia.org/wiki/2월_9일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**SMOKY THRILL**〉(스모키 스릴, )은 [2011년](../Page/2011년.md "wikilink") [2월 9일에](../Page/2월_9일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -24,7 +24,7 @@
 <tr class="odd">
 <td><p>SMOKY THRILL(M@STER VERSION)</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER#03" title="wikilink">THE IDOLM@STER ANIM@TION MASTER 03</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/10월_5일" title="wikilink">10월 5일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/10월_5일.md" title="wikilink">10월 5일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/텔레비전_애니메이션" title="wikilink">텔레비전 애니메이션</a> 판 두 번째 <a href="https://ko.wikipedia.org/wiki/사운드_트랙" title="wikilink">사운드 트랙</a></p></td>
 </tr>
 <tr class="even">

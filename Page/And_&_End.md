@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [And \& End](https://ko.wikipedia.org/wiki/And_\&_End).
 
 
-***And & End***는 그룹 [티아라의](https://ko.wikipedia.org/wiki/티아라_\(음악_그룹\) "wikilink") 6번째 [미니 앨범이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). 타이틀곡인 Sugar Free (BigRoom Ver.)은 온라인 음원으로만 받을 수 있으며 음반에는 실리지 않았다.
+***And & End***는 그룹 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 6번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink"). 타이틀곡인 Sugar Free (BigRoom Ver.)은 온라인 음원으로만 받을 수 있으며 음반에는 실리지 않았다.
 
 ## 수록곡
 

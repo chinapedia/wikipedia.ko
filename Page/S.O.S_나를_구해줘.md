@@ -1,25 +1,25 @@
 > This article is converted from Wikipedia: [S.O.S  ](https://ko.wikipedia.org/wiki/S.O.S__).
 
 
-《**S.O.S 나를 구해줘**》는 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 12일부터](https://ko.wikipedia.org/wiki/11월_12일 "wikilink") [12월 18일까지](https://ko.wikipedia.org/wiki/12월_18일 "wikilink") [KBS 드라마에서](https://ko.wikipedia.org/wiki/KBS_드라마 "wikilink") 방영된 드라마이다.
+《**S.O.S 나를 구해줘**》는 [2014년](../Page/2014년.md "wikilink") [11월 12일부터](../Page/11월_12일.md "wikilink") [12월 18일까지](../Page/12월_18일.md "wikilink") [KBS 드라마에서](../Page/KBS_드라마.md "wikilink") 방영된 드라마이다.
 
 ## 등장 인물
 
 ### 주요 인물
 
-  - [안용준](https://ko.wikipedia.org/wiki/안용준 "wikilink") : 김지훈 역
+  - [안용준](../Page/안용준.md "wikilink") : 김지훈 역
   - [김보라](https://ko.wikipedia.org/wiki/김보라_\(1995년\) "wikilink") : 정유이 역
   - [노행하](../Page/노행하.md "wikilink") : 김다영 역
   - [광수](https://ko.wikipedia.org/wiki/광수_\(가수\) "wikilink") : 유재인 역
-  - [안혜경](https://ko.wikipedia.org/wiki/안혜경 "wikilink") : 마윤희 역
-  - [선우재덕](https://ko.wikipedia.org/wiki/선우재덕 "wikilink") : 김지원 역
+  - [안혜경](../Page/안혜경.md "wikilink") : 마윤희 역
+  - [선우재덕](../Page/선우재덕.md "wikilink") : 김지원 역
   - [이칸희](../Page/이칸희.md "wikilink") : 이상미 역
-  - [김규종](https://ko.wikipedia.org/wiki/김규종 "wikilink") : 박정준 역
+  - [김규종](../Page/김규종.md "wikilink") : 박정준 역
 
 ### 그외 학교 사람들
 
   - [임윤정](https://ko.wikipedia.org/wiki/임윤정 "wikilink") : 최희정 역
-  - [김혜원](https://ko.wikipedia.org/wiki/김혜원 "wikilink") : 이영림 역
+  - [김혜원](../Page/김혜원.md "wikilink") : 이영림 역
   - [박태영](https://ko.wikipedia.org/wiki/박태영 "wikilink") : 김규현 역
   - [박장식](https://ko.wikipedia.org/wiki/박장식 "wikilink") : 김민재 역
   - [김한](https://ko.wikipedia.org/wiki/김한 "wikilink") : 박찬휘 역
@@ -29,8 +29,8 @@
 
 ### 특별출연
 
-  - [이영하](https://ko.wikipedia.org/wiki/이영하_\(배우\) "wikilink")
-  - [정의갑](https://ko.wikipedia.org/wiki/정의갑 "wikilink")
+  - [이영하](../Page/이영하_\(배우\).md "wikilink")
+  - [정의갑](../Page/정의갑.md "wikilink")
   - [태우](https://ko.wikipedia.org/wiki/태우 "wikilink")
 
 ## 외부 링크

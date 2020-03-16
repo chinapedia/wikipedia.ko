@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [deCHU!!](https://ko.wikipedia.org/wiki/deCHU!!).
 
 
-**라디오de아이마CHU\!\!** (라디오데아이마츄)는 게임 '[THE IDOLM@STER 2](../Page/THE_IDOLM@STER_2.md "wikilink")'에 관련하는 [인터넷 라디오](https://ko.wikipedia.org/wiki/인터넷_라디오 "wikilink") 프로그램. '[라디오de아이마STAR☆](../Page/라디오de아이마STAR☆.md "wikilink")'의 후 프로그램으로서 2011년 4월 21일부터 2014년 11월 27일까지, 매주 목요일에 [애니메이트 TV에서](https://ko.wikipedia.org/wiki/애니메이트_TV "wikilink") 전달되었다. 애니메이트 TV로 전달되고 있는 아이돌마스터 관련의 인터넷 라디오는, 2006년 4월 개시의 '[라디오de아이마SHOW\!](../Page/라디오de아이마SHOW!.md "wikilink")'로부터 거의 중단하는 일 없이 계속하고 있어, 이 프로그램이 5개째가 된다.
+**라디오de아이마CHU\!\!** (라디오데아이마츄)는 게임 '[THE IDOLM@STER 2](../Page/THE_IDOLM@STER_2.md "wikilink")'에 관련하는 [인터넷 라디오](../Page/인터넷_라디오.md "wikilink") 프로그램. '[라디오de아이마STAR☆](../Page/라디오de아이마STAR☆.md "wikilink")'의 후 프로그램으로서 2011년 4월 21일부터 2014년 11월 27일까지, 매주 목요일에 [애니메이트 TV에서](../Page/애니메이트_TV.md "wikilink") 전달되었다. 애니메이트 TV로 전달되고 있는 아이돌마스터 관련의 인터넷 라디오는, 2006년 4월 개시의 '[라디오de아이마SHOW\!](../Page/라디오de아이마SHOW!.md "wikilink")'로부터 거의 중단하는 일 없이 계속하고 있어, 이 프로그램이 5개째가 된다.
 
 ## 퍼스널리티
 
-'라디오de아이마STAR☆'의 퍼스널리티인 [니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink") (타카츠키 야요이 역)와 [하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink") (호시이 미키 역)의 2명에, [시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink") (후타미 아미·마미 역)가 새롭게 더해졌다. 항례의 퍼스널리티에 의한 유닛명은, 활동 5주째에 'Honey Citrus'로 결정했다.
+'라디오de아이마STAR☆'의 퍼스널리티인 [니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink") (타카츠키 야요이 역)와 [하세가와 아키코](../Page/하세가와_아키코.md "wikilink") (호시이 미키 역)의 2명에, [시모다 아사미](../Page/시모다_아사미.md "wikilink") (후타미 아미·마미 역)가 새롭게 더해졌다. 항례의 퍼스널리티에 의한 유닛명은, 활동 5주째에 'Honey Citrus'로 결정했다.
 
 오프닝·엔딩의 나레이션이나, 프로그램 내에서 공격을 하는, 이른바 '하늘의 소리'는, 지금까지의 [토쿠마루 칸](https://ko.wikipedia.org/wiki/토쿠마루_칸 "wikilink") (타카기 쥰이치로 역)으로부터 대신해 [오오츠카 요시타다](https://ko.wikipedia.org/wiki/오오츠카_요시타다 "wikilink") (타카기 쥰지로 역)가 맡고 있다.
 

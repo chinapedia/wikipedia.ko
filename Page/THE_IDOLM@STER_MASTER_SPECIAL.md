@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER MASTER SPECIAL](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_SPECIAL).
 
 
-**'THE IDOLM@STER MASTER SPECIAL**' (아이돌마스터 마스터 스페셜)은 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 10일부터](https://ko.wikipedia.org/wiki/12월_10일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [PSP](https://ko.wikipedia.org/wiki/PlayStation_Portable "wikilink") 전용 게임 '[THE IDOLM@STER SP](../Page/THE_IDOLM@STER_SP.md "wikilink")'의 사운드 트랙 CD시리즈이다.
+**'THE IDOLM@STER MASTER SPECIAL**' (아이돌마스터 마스터 스페셜)은 [2008년](../Page/2008년.md "wikilink") [12월 10일부터](../Page/12월_10일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [PSP](https://ko.wikipedia.org/wiki/PlayStation_Portable "wikilink") 전용 게임 '[THE IDOLM@STER SP](../Page/THE_IDOLM@STER_SP.md "wikilink")'의 사운드 트랙 CD시리즈이다.
 
 ## 개요
 
@@ -33,7 +33,7 @@
 
 1.  '''소녀여 큰 뜻을 안아라\!\! '''
       -
-        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink"))
+        가: 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink"))
         작사: yura, 작곡·편곡: [백호우보](https://ko.wikipedia.org/wiki/백호우보 "wikilink") , 편곡: 경가순
 2.  **겐키트립파**
       -
@@ -91,7 +91,7 @@
         작사: yura Dark, 작곡: 하시모토 유카리
 2.  **여명 스타 라인**
       -
-        가: 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+        가: 후타미 아미/마미([시모다 아사미](../Page/시모다_아사미.md "wikilink"))
         작사: NBGI(LindaAI-CUE), 작곡·편곡: NBGI(증 후치 유지)
 3.  토크 01
 4.  [Resolution](https://ko.wikipedia.org/wiki/Resolution_\(ROMANTIC_MODE의_곡\) "wikilink")
@@ -141,11 +141,11 @@
 
 1.  **arcadia**
       -
-        가: 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))
+        가: 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink"))
         작사: 시로세채, 작곡·편곡: [우에마츠범강](https://ko.wikipedia.org/wiki/우에마츠범강 "wikilink") , 편곡: [나카야마 신두](https://ko.wikipedia.org/wiki/나카야마_신두 "wikilink")
 2.  **Next Life**
       -
-        가: 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink"))
+        가: 가나하 히비키([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink"))
         작사·작곡·편곡: NBGI(토야마 아키라효)
 3.  토크 01
 4.  [Is This Love](https://ko.wikipedia.org/wiki/Is_This_Love_\(EARTH의_곡\) "wikilink")
@@ -199,7 +199,7 @@
         작사: yura, 작곡·편곡: cota, 편곡; 세키 쥰지로우
 2.  **플라워 걸**
       -
-        가: 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"))
+        가: 시죠 타카네([하라 유미](../Page/하라_유미.md "wikilink"))
         작사: NBGI(Yoshi)·NBGI(kyon), 작곡·편곡: NBGI(Yoshi)
 3.  토크 01
 4.  바람과 구름과 나
@@ -249,7 +249,7 @@
 
 1.  **Mythmaker**
       -
-        가: 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink"))
+        가: 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink"))
         작사·작곡·편곡: NBGI(LindaAI-CUE)
 2.  **자전거**
       -
@@ -303,11 +303,11 @@
 
 1.  **쇼킹한 그**
       -
-        가: 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink"))
+        가: 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink"))
         작사: NBGI(mft), 작곡·편곡: NBGI(나카가와 코지), 편곡: NBGI(증 후치 유지)
 2.  **리조라**
       -
-        가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"))
+        가: 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"))
         작사: 시로세채, 작곡·편곡: 야나기다시유
 3.  토크 01
 4.  래빗 패닉
@@ -319,7 +319,7 @@
       -
         가: 호시이 미키(하세가와 아키코)
         작사: [나가세 히로키](https://ko.wikipedia.org/wiki/나가세_히로키 "wikilink") , 작곡·편곡: 야나기사와 히데키
-        오리지널 아티스트: [시마타니 히토미](https://ko.wikipedia.org/wiki/시마타니_히토미 "wikilink")
+        오리지널 아티스트: [시마타니 히토미](../Page/시마타니_히토미.md "wikilink")
 6.  토크 02
 7.  Do-Dai(REM@STER-A)
       -
@@ -361,11 +361,11 @@
 
 1.  **Large Size Party**
       -
-        가: 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink")) · 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink")) · 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))
+        가: 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink")) · 시죠 타카네([하라 유미](../Page/하라_유미.md "wikilink")) · 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink"))
         작사: 세라우미, 작곡: 미야지마 리츠코, 편곡: [쿠사노좋아 히로](https://ko.wikipedia.org/wiki/쿠사노좋아_히로 "wikilink")
 2.  **따뜻한 눈**
       -
-        가: 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink")) · 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) · 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+        가: 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink")) · 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) · 후타미 아미/마미([시모다 아사미](../Page/시모다_아사미.md "wikilink"))
         작사: 시로세채, 작곡: 고자 타쿠토, 편곡: 마르야마테트오
 3.  SCENE01
 4.  [원더☆윈터☆얏타\!\!](https://ko.wikipedia.org/wiki/두_사람은_프리큐어#주제가 "wikilink")
@@ -393,7 +393,7 @@
       -
         가: 키사라기 치하야(이마이 아사미)
         작사: 이마이 미키, 작곡·편곡: [히사이시양](https://ko.wikipedia.org/wiki/히사이시양 "wikilink")
-        오리지널 아티스트: [이마이 미키](https://ko.wikipedia.org/wiki/이마이_미키 "wikilink")
+        오리지널 아티스트: [이마이 미키](../Page/이마이_미키.md "wikilink")
 10. [WINTER COMES AROUND (겨울의 하루)](https://ko.wikipedia.org/wiki/CAROL~A_DAY_IN_A_GIRL'S_LIFE_1991~#음악_앨범 "wikilink")
       -
         가: 시죠 타카네(하라 유미)
@@ -417,7 +417,7 @@
 
 1.  **체리**
       -
-        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")) · 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink")) · 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink")) · 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink")) · 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink")) · 하기와라 유키호([하세 유리나](https://ko.wikipedia.org/wiki/하세_유리나 "wikilink"))
+        가: 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink")) · 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink")) · 가나하 히비키([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink")) · 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink")) · 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink")) · 하기와라 유키호([하세 유리나](../Page/하세_유리나.md "wikilink"))
         작사: yura, 작곡·편곡: Funta7
 2.  SCENE01
 3.  봄
@@ -429,12 +429,12 @@
       -
         가: 아마미 하루카(나카무라 에리코)
         작사·작곡·편곡: 타케우치 마리아
-        오리지널 아티스트: [나카야마 미호](https://ko.wikipedia.org/wiki/나카야마_미호 "wikilink")
+        오리지널 아티스트: [나카야마 미호](../Page/나카야마_미호.md "wikilink")
 5.  [내일, 봄이 오면](https://ko.wikipedia.org/wiki/내일,_봄이_오면 "wikilink")
       -
         가: 키쿠치 마코토(히라타 히로미)
         작사: 사카모토 유지, 작곡·편곡: 휴가 다이스케
-        오리지널 아티스트: [마츠 타카코](https://ko.wikipedia.org/wiki/마츠_타카코 "wikilink")
+        오리지널 아티스트: [마츠 타카코](../Page/마츠_타카코.md "wikilink")
 6.  SCENE02
 7.  [봄의 기억](https://ko.wikipedia.org/wiki/코마츠미보_8~a_piece_of_cake~ "wikilink")
       -
@@ -445,12 +445,12 @@
       -
         가: 하기와라 유키호(하세 유리나)
         작사·작곡·편곡: 오카자키 리츠코
-        오리지널 아티스트: [오카자키 리츠코](https://ko.wikipedia.org/wiki/오카자키_리츠코 "wikilink")
+        오리지널 아티스트: [오카자키 리츠코](../Page/오카자키_리츠코.md "wikilink")
 9.  [여행의 날에…](https://ko.wikipedia.org/wiki/Dear/여행의_날에… "wikilink")
       -
         가: 아키즈키 리츠코(와카바야시 나오미)
         작사·작곡·편곡: 카와시마 아이
-        오리지널 아티스트: [카와시마 아이](https://ko.wikipedia.org/wiki/카와시마_아이 "wikilink")
+        오리지널 아티스트: [카와시마 아이](../Page/카와시마_아이.md "wikilink")
 10. SCENE03
 11. **또 봐またね (M@STER VERSION)**
       -

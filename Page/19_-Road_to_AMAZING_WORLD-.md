@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [19 -Road to AMAZING WORLD-](https://ko.wikipedia.org/wiki/19_-Road_to_AMAZING_WORLD-).
 
 
-《**19 -Road to AMAZING WORLD-**》는, [EXILE](https://ko.wikipedia.org/wiki/EXILE "wikilink")의 10번째 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**19 -Road to AMAZING WORLD-**》는, [EXILE](../Page/EXILE.md "wikilink")의 10번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 
@@ -13,7 +13,7 @@
 
 1.  **ALL NIGHT LONG**
       -
-        작사: [ATSUSHI](https://ko.wikipedia.org/wiki/ATSUSHI "wikilink") / 작곡: SIRIUS, TESUNG Kim, ANDREW Choi
+        작사: [ATSUSHI](../Page/ATSUSHI.md "wikilink") / 작곡: SIRIUS, TESUNG Kim, ANDREW Choi
 2.  **BOW & ARROWS**
       -
         작사: michico / 작곡: T.Kura, michico / 편곡: T.Kura

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER ANIM@TION MASTER  SPECIAL](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER__SPECIAL).
 
 
-**'THE IDOLM@STER ANIM@TION MASTER 생방임까 SPECIAL**' (아이돌마스터 애니메이션 마스터 생방임까 스페셜)은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [8월 15일부터](https://ko.wikipedia.org/wiki/8월_15일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 애니메이션 '[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")' 및 게임 '[THE IDOLM@STER 2](../Page/THE_IDOLM@STER_2.md "wikilink")'의 [기획 앨범](https://ko.wikipedia.org/wiki/컨셉_앨범 "wikilink") 시리즈. 전7매.
+**'THE IDOLM@STER ANIM@TION MASTER 생방임까 SPECIAL**' (아이돌마스터 애니메이션 마스터 생방임까 스페셜)은 [2012년](../Page/2012년.md "wikilink") [8월 15일부터](../Page/8월_15일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 애니메이션 '[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")' 및 게임 '[THE IDOLM@STER 2](../Page/THE_IDOLM@STER_2.md "wikilink")'의 [기획 앨범](https://ko.wikipedia.org/wiki/컨셉_앨범 "wikilink") 시리즈. 전7매.
 
 제1탄의 'THE IDOLM@STER ANIM@TION MASTER 생방임까 SPECIAL 01'은 [제54회 일본 레코드 대상에서](https://ko.wikipedia.org/wiki/제54회_일본_레코드_대상 "wikilink") 기획상을 수상했다\[1\].
 
@@ -26,14 +26,14 @@
 1.  생방임까 제 1 부 OP토크
 2.  '''큥\! 뱀파이어 걸(M@STER VERSION) '''
       -
-        가: 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink")) · 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink")) · 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink"))
+        가: 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink")) · 시죠 타카네([하라 유미](../Page/하라_유미.md "wikilink")) · 가나하 히비키([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink"))
         작사·작곡·편곡: [사사키트모코](https://ko.wikipedia.org/wiki/사사키트모코 "wikilink")
 3.  타카네 챌린지의 코너
 4.  ''[으\~응?](https://ko.wikipedia.org/wiki/으~응? "wikilink") ''
       -
         가: 호시이 미키(하세가와 아키코)
         작사·작곡: [츤쿠♂](https://ko.wikipedia.org/wiki/츤쿠♂ "wikilink")
-        오리지널 아티스트: [마츠우라 아야](https://ko.wikipedia.org/wiki/마츠우라_아야 "wikilink")
+        오리지널 아티스트: [마츠우라 아야](../Page/마츠우라_아야.md "wikilink")
 5.  ''[Believe](https://ko.wikipedia.org/wiki/Believe_\(Folder5의_곡\) "wikilink") ''
       -
         가: 가나하 히비키(누마쿠라 마나미)
@@ -81,7 +81,7 @@
 1.  생방임까 제2부 OP토크
 2.  '''일곱빛 버튼(M@STER VERSION) '''
       -
-        가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink")) · 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink")) · 후타미 아미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+        가: 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink")) · 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink")) · 후타미 아미([시모다 아사미](../Page/시모다_아사미.md "wikilink"))
         작사: 엔도 후비트, 작곡·편곡: [NBGI](https://ko.wikipedia.org/wiki/NBGI "wikilink") (우치다 테츠야)
 3.  아즈사 챌린지의 코너
 4.  ''[장난스러운 KISS](https://ko.wikipedia.org/wiki/DAY_STAR "wikilink") ''
@@ -108,7 +108,7 @@
 9.  ''[걸어 돌아가자](https://ko.wikipedia.org/wiki/걸어_돌아가자 "wikilink") ''
       -
         가: 후타미 아미(시모다 아사미)
-        작사·작곡: [사이토 카즈요시](https://ko.wikipedia.org/wiki/사이토_카즈요시 "wikilink")
+        작사·작곡: [사이토 카즈요시](../Page/사이토_카즈요시.md "wikilink")
         오리지널 아티스트: 사이토 카즈요시
 10. ''[비구름](https://ko.wikipedia.org/wiki/비구름 "wikilink") ''
       -
@@ -148,7 +148,7 @@
       -
         가: 아키즈키 리츠코(와카바야시 나오미)
         작사: [YUKI](https://ko.wikipedia.org/wiki/YUKI_\(가수\) "wikilink") , 작곡: [TAKUYA](https://ko.wikipedia.org/wiki/TAKUYA "wikilink")
-        오리지널 아티스트: [JUDY AND MARY](https://ko.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")
+        오리지널 아티스트: [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")
 6.  스페셜 게스트 극장,상점등에서 손님을 불러들
 7.  ''[YELL\~엘\~](https://ko.wikipedia.org/wiki/YELL~엘~/Bell "wikilink") ''
       -
@@ -192,7 +192,7 @@
 1.  생방임까 제사부 OP토크
 2.  '''Honey Heartbeat(M@STER VERSION) '''
       -
-        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")) · 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink")) · 후타미 마미(시모다 아사미)
+        가: 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink")) · 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink")) · 후타미 마미(시모다 아사미)
         작사: NBGI(MC TC), 작곡·편곡: NBGI([LindaAI-CUE](https://ko.wikipedia.org/wiki/LindaAI-CUE "wikilink"))
 3.  하루카 챌린지의 코너
 4.  ''[천사의 약속](https://ko.wikipedia.org/wiki/그이_그녀정#주제가 "wikilink") ''
@@ -204,12 +204,12 @@
       -
         가: 키쿠치 마코토(히라타 히로미)
         작사·작곡: [이토 리에자](https://ko.wikipedia.org/wiki/이토_리에자 "wikilink")
-        오리지널 아티스트: [ROUND TABLE featuring Nino](https://ko.wikipedia.org/wiki/ROUND_TABLE "wikilink")
+        오리지널 아티스트: [ROUND TABLE featuring Nino](../Page/ROUND_TABLE.md "wikilink")
 6.  ''[가능성 걸](https://ko.wikipedia.org/wiki/가능성_걸 "wikilink") ''
       -
         가: 후타미 마미(시모다 아사미)
-        작사: [이 해 양다리 인사순치](https://ko.wikipedia.org/wiki/이_해_양다리_인사순치 "wikilink") , 작곡: [호테이 토모야스](https://ko.wikipedia.org/wiki/호테이_토모야스 "wikilink")
-        오리지널 아티스트: [쿠리야마 치아키](https://ko.wikipedia.org/wiki/쿠리야마_치아키 "wikilink")
+        작사: [이 해 양다리 인사순치](https://ko.wikipedia.org/wiki/이_해_양다리_인사순치 "wikilink") , 작곡: [호테이 토모야스](../Page/호테이_토모야스.md "wikilink")
+        오리지널 아티스트: [쿠리야마 치아키](../Page/쿠리야마_치아키.md "wikilink")
 7.  마미 챌린지의 코너
 8.  ''[미래의 지도](https://ko.wikipedia.org/wiki/미래의_지도 "wikilink") ''
       -
@@ -225,7 +225,7 @@
       -
         가: 키쿠치 마코토(히라타 히로미)
         작사·작곡: [요시다 미와](https://ko.wikipedia.org/wiki/요시다_미와 "wikilink")
-        오리지널 아티스트: [DREAMS COME TRUE](https://ko.wikipedia.org/wiki/DREAMS_COME_TRUE "wikilink")
+        오리지널 아티스트: [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")
 11. 마코토 챌린지의 코너
 12. **첫사랑\~4장 운명의 이브\~**
       -
@@ -247,7 +247,7 @@
 1.  생방임까 제５부 OP토크
 2.  **Little Match Girl(M@STER VERSION)**
       -
-        가: 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink")) · 하기와라 유키호([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink"))
+        가: 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink")) · 하기와라 유키호([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink"))
         작사·작곡·편곡: [ESTi](https://ko.wikipedia.org/wiki/ESTi "wikilink")
 3.  작은 새 챌린지의 코너
 4.  ''[바람의 마법](https://ko.wikipedia.org/wiki/포포로크로이스_이야기\(애니메이션\)#주제가 "wikilink") ''
@@ -279,7 +279,7 @@
 10. ''[고마워…](https://ko.wikipedia.org/wiki/고마워… "wikilink") ''
       -
         가: 오토나시 코토리(타키타 쥬리)
-        작사·작곡: [KOKIA](https://ko.wikipedia.org/wiki/KOKIA "wikilink")
+        작사·작곡: [KOKIA](../Page/KOKIA.md "wikilink")
         오리지널 아티스트: KOKIA
 11. 치하야 챌린지의 코너
 12. **첫사랑\~5장 영원의 크리스마스\~**
@@ -460,7 +460,7 @@
 
 [ANIM@TION MASTER 생방임까 SPECIAL](https://ko.wikipedia.org/wiki/분류:아이돌마스터의_음악 "wikilink") [분류:2012년 음반](https://ko.wikipedia.org/wiki/분류:2012년_음반 "wikilink") [분류:2013년 음반](https://ko.wikipedia.org/wiki/분류:2013년_음반 "wikilink") [분류:캐릭터 송 음반](https://ko.wikipedia.org/wiki/분류:캐릭터_송_음반 "wikilink")
 
-1.  [제54회 '레코대' 각 상 발표 AKB, 사이토 카즈요시등이 대상 후보](http://www.oricon.co.jp/news/movie/2018968/full/)([ORICON STYLE](https://ko.wikipedia.org/wiki/오리콘 "wikilink") , 2012년 11월 22일)
+1.  [제54회 '레코대' 각 상 발표 AKB, 사이토 카즈요시등이 대상 후보](http://www.oricon.co.jp/news/movie/2018968/full/)([ORICON STYLE](../Page/오리콘.md "wikilink") , 2012년 11월 22일)
 2.
 3.
 4.

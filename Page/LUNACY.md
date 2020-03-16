@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [LUNACY](https://ko.wikipedia.org/wiki/LUNACY).
 
 
-《**LUNACY**》는 [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 7번째 정규 앨범이다. 첫회 한정반은 투명 픽쳐 특수 보석 케이스 사양 (5 종류). 2007년 12월 5일 최신 리마스터링 음원 및 「gravity」 「TONIGHT」 「LOVE SONG」의 PV 가 수록된 DVD 와의 2장 세트로 유니버설 뮤직을 통해 재발매되었다.
+《**LUNACY**》는 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 7번째 정규 앨범이다. 첫회 한정반은 투명 픽쳐 특수 보석 케이스 사양 (5 종류). 2007년 12월 5일 최신 리마스터링 음원 및 「gravity」 「TONIGHT」 「LOVE SONG」의 PV 가 수록된 DVD 와의 2장 세트로 유니버설 뮤직을 통해 재발매되었다.
 
 ## 개요
 
-  - [스기조](https://ko.wikipedia.org/wiki/스기조 "wikilink")의 제안에 의해 기간미정의 무기한 녹음 아래 제작되어 결과적으로 1999년 여름부터 시작하여 총 제작 기간 1년이라는 [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 앨범 중 가장 긴 시간을 두고 만들어진 작품이다.
+  - [스기조](https://ko.wikipedia.org/wiki/스기조 "wikilink")의 제안에 의해 기간미정의 무기한 녹음 아래 제작되어 결과적으로 1999년 여름부터 시작하여 총 제작 기간 1년이라는 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 앨범 중 가장 긴 시간을 두고 만들어진 작품이다.
   - 종막 이전에는 오리지널 앨범으로서는 마지막 작품. 본작 발매 시의 인터뷰에서 [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")은 "지금 밴드를 끝내도 좋을 만큼의 앨범이 되었다고 생각합니다. 마지막 앨범으로써 좋은 정도의 수확이네요."이라고 밝혔다.
-  - "Sweetest Coma Again"과 "KISS"의 2곡에는 DJ KRUSH가 참여하고 있다. DJ KRUSH는 1997년에 [스기조](https://ko.wikipedia.org/wiki/스기조 "wikilink")와 [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")의 솔로 앨범 제작에 관여했던 인물이다. 또, 이 시기에 [J가](https://ko.wikipedia.org/wiki/J_\(음악가\) "wikilink") 참여했던 기간한정 라이브 밴드 GAZA의 멤버이기도 하다
+  - "Sweetest Coma Again"과 "KISS"의 2곡에는 DJ KRUSH가 참여하고 있다. DJ KRUSH는 1997년에 [스기조](https://ko.wikipedia.org/wiki/스기조 "wikilink")와 [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")의 솔로 앨범 제작에 관여했던 인물이다. 또, 이 시기에 [J가](../Page/J_\(음악가\).md "wikilink") 참여했던 기간한정 라이브 밴드 GAZA의 멤버이기도 하다
   - 이 앨범이 발매되기 전인 2000년 5월 23일 일본 무도관에서 라이브 "PREMIERE of LUNACY 2000"이 열렸다. 이 라이브에서는 앵콜을 포함하여 2000년에 발매된 곡만 연주되고, 후에 본 앨범의 수록곡도 모두 선보이는 "신곡공개 라이브"가 되었다. 하지만 그 내용은 공연 전에는 관계자를 포함하여 그 누구에게도 알려지지 않아 『LUNACY』라는 신작 타이틀도 이 라이브가 종료된 후에 발표되었다.
   - 앨범 부클릿 내부에 멤버들의 얼굴을 합성한 3D 이미지가 숨겨져 있다.
 
 ## 수록곡
 
-  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink")
+  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 10. **TONIGHT**
       -
         원곡자 : J
-        [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 싱글 중에서는 약 3분으로 가장 연주 시간이 짧은 곡이다. PV는 단 슈이치가 만들었다. PV의 원안은 J가 구상한 것으로, 이 PV에 출연한 사카모토 엔리케는 10대 시절의 J라는 설정. [류이치](https://ko.wikipedia.org/wiki/류이치 "wikilink")는 이 곡을 3 \~ 5번 불러 일부러 목소리가 건조해진 상태로 녹음했다고 한다. J는 "이 곡을 듣고 아무것도 느끼지 못했더라도 괜찮다"고 말했다. J와 [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")이 각각 솔로 라이브에서 몇 번이나 커버한 적이 있다.
+        [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 싱글 중에서는 약 3분으로 가장 연주 시간이 짧은 곡이다. PV는 단 슈이치가 만들었다. PV의 원안은 J가 구상한 것으로, 이 PV에 출연한 사카모토 엔리케는 10대 시절의 J라는 설정. [류이치](https://ko.wikipedia.org/wiki/류이치 "wikilink")는 이 곡을 3 \~ 5번 불러 일부러 목소리가 건조해진 상태로 녹음했다고 한다. J는 "이 곡을 듣고 아무것도 느끼지 못했더라도 괜찮다"고 말했다. J와 [이노란](https://ko.wikipedia.org/wiki/이노란 "wikilink")이 각각 솔로 라이브에서 몇 번이나 커버한 적이 있다.
 11. **Crazy About You**
       -
         원곡자 : J

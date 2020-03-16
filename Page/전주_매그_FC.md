@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**전주 매그 FC**()는 [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink") [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink")를 연고로 하고 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 풋살 1부리그 [FK 슈퍼리그에](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 소속되어있는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 선수단이다. 2017-18 [FK 슈퍼리그](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 우승후 FK리그 최초로 [AFC 풋살 클럽챔피언십에](../Page/AFC_풋살_클럽_챔피언십.md "wikilink") 출전했다. 비록 조별 리그 최하위로 첫 국제대회 출전을 마무리지었지만 [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink") 참가클럽으로써는 굉장히 의미있는 도전이였다.
+**전주 매그 FC**()는 [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink") [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink")를 연고로 하고 [대한민국](../Page/대한민국.md "wikilink") 풋살 1부리그 [FK 슈퍼리그에](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 소속되어있는 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 선수단이다. 2017-18 [FK 슈퍼리그](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 우승후 FK리그 최초로 [AFC 풋살 클럽챔피언십에](../Page/AFC_풋살_클럽_챔피언십.md "wikilink") 출전했다. 비록 조별 리그 최하위로 첫 국제대회 출전을 마무리지었지만 [FK리그](../Page/FK리그.md "wikilink") 참가클럽으로써는 굉장히 의미있는 도전이였다.
 
 ## 역사
 
-전주매그풋살클럽은 FK리그의 최강팀으로써 창단 원년부터 우승을 차지했다. 이영진감독이 팀을 이끌며 신종훈 등 [대한민국 풋살 국가대표팀에](https://ko.wikipedia.org/wiki/대한민국_풋살_국가대표팀 "wikilink") 많은 선수들이 차출되어 좋은 활약을 보여주었다. 전주매그풋살클럽의 전성기는 2012-13시즌부터 2014-15시즌으로 3번 연속으로 리그에서 압도적인 우승을 차지했다. 또한 그에 따라 2018-19시즌부터 전주매그풋살클럽 서포터즈가 창단하여 활동을 하고있다. 특히 2017-18시즌 FK리그 최초로 [AFC 풋살 클럽 챔피언십에](../Page/AFC_풋살_클럽_챔피언십.md "wikilink") FK리그 우승팀 자격으로 참가하였다. 이라크의 [나피트 알 와셋](https://ko.wikipedia.org/wiki/나피트_알_와셋 "wikilink") , 베트남의 [타이 손 남 FC](https://ko.wikipedia.org/wiki/타이_손_남_FC "wikilink") , 아랍에미리트의 [알 다하프라 FC와](https://ko.wikipedia.org/wiki/알다하프라_FC "wikilink") B조에 속했던 전주매그풋살클럽은 1차전이였던 [타이 손 남 FC전에](https://ko.wikipedia.org/wiki/타이_손_남_FC "wikilink") 10 : 1로 크게 패했다. 두번째 [알 다하프라 FC와의](https://ko.wikipedia.org/wiki/알_다하프라_FC "wikilink") 경기에서도 9 : 2로 패배하며 아직까지 한국 풋살의 수준이 발전하지 못했다는 것을 전 세계에 보여주었다. [나피트 알 와셋과의](https://ko.wikipedia.org/wiki/나피트_알_와셋 "wikilink") 경기에서도 6 : 1로 패한 전주매그풋살클럽은 전패 4득점 25실점으로 첫 국제대회를 마무리했다. 하지만 이 도전은 FK리그에 족적을 하나 남겼다.
+전주매그풋살클럽은 FK리그의 최강팀으로써 창단 원년부터 우승을 차지했다. 이영진감독이 팀을 이끌며 신종훈 등 [대한민국 풋살 국가대표팀에](../Page/대한민국_풋살_국가대표팀.md "wikilink") 많은 선수들이 차출되어 좋은 활약을 보여주었다. 전주매그풋살클럽의 전성기는 2012-13시즌부터 2014-15시즌으로 3번 연속으로 리그에서 압도적인 우승을 차지했다. 또한 그에 따라 2018-19시즌부터 전주매그풋살클럽 서포터즈가 창단하여 활동을 하고있다. 특히 2017-18시즌 FK리그 최초로 [AFC 풋살 클럽 챔피언십에](../Page/AFC_풋살_클럽_챔피언십.md "wikilink") FK리그 우승팀 자격으로 참가하였다. 이라크의 [나피트 알 와셋](https://ko.wikipedia.org/wiki/나피트_알_와셋 "wikilink") , 베트남의 [타이 손 남 FC](https://ko.wikipedia.org/wiki/타이_손_남_FC "wikilink") , 아랍에미리트의 [알 다하프라 FC와](https://ko.wikipedia.org/wiki/알다하프라_FC "wikilink") B조에 속했던 전주매그풋살클럽은 1차전이였던 [타이 손 남 FC전에](https://ko.wikipedia.org/wiki/타이_손_남_FC "wikilink") 10 : 1로 크게 패했다. 두번째 [알 다하프라 FC와의](https://ko.wikipedia.org/wiki/알_다하프라_FC "wikilink") 경기에서도 9 : 2로 패배하며 아직까지 한국 풋살의 수준이 발전하지 못했다는 것을 전 세계에 보여주었다. [나피트 알 와셋과의](https://ko.wikipedia.org/wiki/나피트_알_와셋 "wikilink") 경기에서도 6 : 1로 패한 전주매그풋살클럽은 전패 4득점 25실점으로 첫 국제대회를 마무리했다. 하지만 이 도전은 FK리그에 족적을 하나 남겼다.
 
 ## 기록
 
@@ -104,7 +104,7 @@
 
 ### 우승 기록
 
-  - [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")
+  - [FK리그](../Page/FK리그.md "wikilink")
       - 우승(6): [2009-10](../Page/FK리그_2009-10.md "wikilink"), [2012-13](../Page/FK리그_2012-13.md "wikilink"), [2013-14](../Page/FK리그_2013-14.md "wikilink"),[2014-15](../Page/FK리그_2014-15_남자부.md "wikilink"),[2016-17](https://ko.wikipedia.org/wiki/FK리그_2016-17 "wikilink"),[2017-18](https://ko.wikipedia.org/wiki/FK리그_2017-18 "wikilink")
       - 준우승(3): [2010-11](../Page/FK리그_2010-11.md "wikilink"), [2011-12](../Page/FK리그_2011-12.md "wikilink"),[2018-19](https://ko.wikipedia.org/wiki/FK리그_2018-19_남자부 "wikilink")
 
@@ -119,7 +119,7 @@
 | 시즌                                                               | 리그                                                          | 경기 | 승  | 무 | 패   | 득점  | 실점    | 득실차     | 승점     | 순위      | FK컵     |
 | ---------------------------------------------------------------- | ----------------------------------------------------------- | -- | -- | - | --- | --- | ----- | ------- | ------ | ------- | ------- |
 | 종합                                                               | 정규                                                          |    |    |   |     |     |       |         |        |         |         |
-| [2009-10](../Page/FK리그_2009-10.md "wikilink")                    | [FK리그](https://ko.wikipedia.org/wiki/FK리그 "wikilink")       | 10 | 7  | 0 | 3   | 56  | 31    | \+25    | **21** | **1**   | 2       |
+| [2009-10](../Page/FK리그_2009-10.md "wikilink")                    | [FK리그](../Page/FK리그.md "wikilink")                          | 10 | 7  | 0 | 3   | 56  | 31    | \+25    | **21** | **1**   | 2       |
 | [2010-11](../Page/FK리그_2010-11.md "wikilink")                    | 12                                                          | 8  | 3  | 1 | 46  | 33  | \+13  | **27**  | **2**  | 4강      |         |
 | [2011-12](../Page/FK리그_2011-12.md "wikilink")                    | 12                                                          | 9  | 2  | 1 | 55  | 27  | \+28  | **29**  | **2**  | **준우승** |         |
 | [2012-13](../Page/FK리그_2012-13.md "wikilink")                    | 16                                                          | 11 | 3  | 2 | 108 | 36  | \+72  | **36**  | **1**  | 1       | **우승**  |

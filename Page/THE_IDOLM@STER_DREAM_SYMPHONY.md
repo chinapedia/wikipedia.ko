@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER DREAM SYMPHONY](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_DREAM_SYMPHONY).
 
 
-**'THE IDOLM@STER DREAM SYMPHONY**' (아이돌마스터 드림 심포니)는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [9월 9일부터](https://ko.wikipedia.org/wiki/9월_9일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [닌텐도 DS](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") 전용 게임 '[THE IDOLM@STER Dearly Stars](../Page/THE_IDOLM@STER_Dearly_Stars.md "wikilink")'의 사운드 트랙 CD시리즈.
+**'THE IDOLM@STER DREAM SYMPHONY**' (아이돌마스터 드림 심포니)는 [2009년](../Page/2009년.md "wikilink") [9월 9일부터](../Page/9월_9일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [닌텐도 DS](../Page/닌텐도_DS.md "wikilink") 전용 게임 '[THE IDOLM@STER Dearly Stars](../Page/THE_IDOLM@STER_Dearly_Stars.md "wikilink")'의 사운드 트랙 CD시리즈.
 
 ## 개요
 
@@ -17,7 +17,7 @@
 
 1.  '''"HELLO\!\!"(M@STER VERSION) '''
       -
-        가: 히다카 아이([토마츠 하루카](https://ko.wikipedia.org/wiki/토마츠_하루카 "wikilink")) · 미즈타니 에리([하나자와 카나](https://ko.wikipedia.org/wiki/하나자와_카나 "wikilink")) · 아키즈키 료([산페이 유우코](https://ko.wikipedia.org/wiki/산페이_유우코 "wikilink"))
+        가: 히다카 아이([토마츠 하루카](../Page/토마츠_하루카.md "wikilink")) · 미즈타니 에리([하나자와 카나](../Page/하나자와_카나.md "wikilink")) · 아키즈키 료([산페이 유우코](../Page/산페이_유우코.md "wikilink"))
         작사: yura, 작곡·편곡: [고사키 사토루](https://ko.wikipedia.org/wiki/고사키_사토루 "wikilink")
 2.  **해피스**
       -

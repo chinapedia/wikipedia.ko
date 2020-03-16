@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [CHANGE!!!!](https://ko.wikipedia.org/wiki/CHANGE!!!!).
 
 
-〈**CHANGE\!\!\!\!**〉(체인지, )는 765 PRO ALLSTARS의 노래이다. [싱글은](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink") 《[THE IDOLM@STER ANIM@TION MASTER](../Page/THE_IDOLM@STER_ANIM@TION_MASTER.md "wikilink")》 시리즈 제4탄으로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 9일에](https://ko.wikipedia.org/wiki/11월_9일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되었다.
+〈**CHANGE\!\!\!\!**〉(체인지, )는 765 PRO ALLSTARS의 노래이다. [싱글은](../Page/싱글_\(음악\).md "wikilink") 《[THE IDOLM@STER ANIM@TION MASTER](../Page/THE_IDOLM@STER_ANIM@TION_MASTER.md "wikilink")》 시리즈 제4탄으로 [2011년](../Page/2011년.md "wikilink") [11월 9일에](../Page/11월_9일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되었다.
 
 ## 개요
 
-타이틀 곡 〈CHANGE\!\!\!\!〉는 [TV 애니메이션](https://ko.wikipedia.org/wiki/일본의_애니메이션 "wikilink") 《[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")》의 두 번째 [오프닝 테마로](https://ko.wikipedia.org/wiki/주제가 "wikilink") 사용되었다. 첫 번째 오프닝 테마 〈[READY\!\!](../Page/READY!!.md "wikilink")〉와는 음의 키나 템포, 곡의 구성이 거의 동일하다\[1\].
+타이틀 곡 〈CHANGE\!\!\!\!〉는 [TV 애니메이션](../Page/일본의_애니메이션.md "wikilink") 《[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")》의 두 번째 [오프닝 테마로](https://ko.wikipedia.org/wiki/주제가 "wikilink") 사용되었다. 첫 번째 오프닝 테마 〈[READY\!\!](../Page/READY!!.md "wikilink")〉와는 음의 키나 템포, 곡의 구성이 거의 동일하다\[1\].
 
-초도 한정판에는 [하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink"), [아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink"), [하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"), [누마쿠라 마나미의](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink") 4명에 의한 토크 외에 PS3판 [아이돌마스터 2](../Page/THE_IDOLM@STER_2.md "wikilink"), 또 애니메이션의 논테롭판 두 번째 오프닝 영상을 수록한 DVD가 부록된다.
+초도 한정판에는 [하세가와 아키코](../Page/하세가와_아키코.md "wikilink"), [아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink"), [하라 유미](../Page/하라_유미.md "wikilink"), [누마쿠라 마나미의](../Page/누마쿠라_마나미.md "wikilink") 4명에 의한 토크 외에 PS3판 [아이돌마스터 2](../Page/THE_IDOLM@STER_2.md "wikilink"), 또 애니메이션의 논테롭판 두 번째 오프닝 영상을 수록한 DVD가 부록된다.
 
 2012년 2월 1일에 발매된 《[THE IDOLM@STER ANIM@TION MASTER 07](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER#ANIM@TION_MASTER_07 "wikilink")》에는 타이틀 곡 〈CHANGE\!\!\!\!〉\>과 전기 오프닝곡 〈[READY\!\!](../Page/READY!!.md "wikilink")〉를 합친 〈**READY\!\! & CHANGE\!\!\!\! SPECIAL EDITION**〉가 수록되어 있다.
 
@@ -15,7 +15,7 @@
 
 ## 차트 성적
 
-[11월 8일](https://ko.wikipedia.org/wiki/11월_8일 "wikilink") 첨부 오리콘 데일리 싱글 차트로 6위를 획득\[3\] 후, [11월 21일자](https://ko.wikipedia.org/wiki/11월_21일 "wikilink") 오리콘 주간 싱글 차트로 추정 매상 매수 약 2.3만을 기록했으며, 첫 등장 6위를 획득했다\[4\]. 또, 11월 19일의 《[COUNT DOWN TV](https://ko.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")》에서도 8위에 차트인했다.
+[11월 8일](../Page/11월_8일.md "wikilink") 첨부 오리콘 데일리 싱글 차트로 6위를 획득\[3\] 후, [11월 21일자](../Page/11월_21일.md "wikilink") 오리콘 주간 싱글 차트로 추정 매상 매수 약 2.3만을 기록했으며, 첫 등장 6위를 획득했다\[4\]. 또, 11월 19일의 《[COUNT DOWN TV](https://ko.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")》에서도 8위에 차트인했다.
 
 ## 수록곡
 

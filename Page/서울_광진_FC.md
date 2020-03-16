@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**서울 광진 FC**()는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 클럽이다.
+**서울 광진 FC**()는 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 클럽이다.
 
 대한축구협회(KFA) 산하 한국풋살연맹(KFL)
 

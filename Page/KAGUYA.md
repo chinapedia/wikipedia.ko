@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KAGUYA](https://ko.wikipedia.org/wiki/KAGUYA).
 
 
-〈**KAGUYA**〉는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 17번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**KAGUYA**〉는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 17번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

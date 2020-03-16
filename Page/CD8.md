@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CD8](https://ko.wikipedia.org/wiki/CD8).
 
 
-**CD8** 혹은 [세포표면항원무리](../Page/세포표면항원무리.md "wikilink") 8은 [T 세포 수용체](https://ko.wikipedia.org/wiki/T_세포_수용체 "wikilink")(TCR)의 [공동수용체](https://ko.wikipedia.org/wiki/공동수용체 "wikilink") 역할을 하는 [막관통](https://ko.wikipedia.org/wiki/막관통_단백질 "wikilink") [당단백질](https://ko.wikipedia.org/wiki/당단백질 "wikilink")이다. T 세포 수용체처럼 CD8은 [주조직 적합성 복합체](https://ko.wikipedia.org/wiki/주조직_적합성_복합체 "wikilink")(MHC) 분자에 결합하지만, I형 MHC에 특이적이다.\[1\] CD8은 두 동소체 α와 β가 있고, 서로 다른 유전자에 부호화되어 있다. 사람의 경우 두 유전자는 [2번 염색체](https://ko.wikipedia.org/wiki/2번_염색체 "wikilink") 2p12에 있다.
+**CD8** 혹은 [세포표면항원무리](../Page/세포표면항원무리.md "wikilink") 8은 [T 세포 수용체](https://ko.wikipedia.org/wiki/T_세포_수용체 "wikilink")(TCR)의 [공동수용체](https://ko.wikipedia.org/wiki/공동수용체 "wikilink") 역할을 하는 [막관통](https://ko.wikipedia.org/wiki/막관통_단백질 "wikilink") [당단백질](https://ko.wikipedia.org/wiki/당단백질 "wikilink")이다. T 세포 수용체처럼 CD8은 [주조직 적합성 복합체](../Page/주조직_적합성_복합체.md "wikilink")(MHC) 분자에 결합하지만, I형 MHC에 특이적이다.\[1\] CD8은 두 동소체 α와 β가 있고, 서로 다른 유전자에 부호화되어 있다. 사람의 경우 두 유전자는 [2번 염색체](https://ko.wikipedia.org/wiki/2번_염색체 "wikilink") 2p12에 있다.
 
 ## 발현하는 세포
 

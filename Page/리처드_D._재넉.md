@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
 
 
-**리처드 대릴 재넉**( [1934년](https://ko.wikipedia.org/wiki/1934년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 13일](https://ko.wikipedia.org/wiki/7월_13일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [영화 제작자이다](https://ko.wikipedia.org/wiki/영화_제작자 "wikilink"). [브루스 베러스퍼드](https://ko.wikipedia.org/wiki/브루스_베러스퍼드 "wikilink") 감독과 함께 제작한 《[드라이빙 미스 데이지](https://ko.wikipedia.org/wiki/드라이빙_미스_데이지 "wikilink")》(1989)로 제62회 [아카데미 작품상과](https://ko.wikipedia.org/wiki/아카데미_작품상 "wikilink") 제47회 [골든 글로브 뮤지컬 코미디 부문 작품상을](https://ko.wikipedia.org/wiki/골든_글로브상 "wikilink") 수상했다. 이외의 대표작으로 《[사운드 오브 뮤직](https://ko.wikipedia.org/wiki/사운드_오브_뮤직_\(영화\) "wikilink")》(1965), 《[죠스](https://ko.wikipedia.org/wiki/죠스_\(영화\) "wikilink")》(1975), 《[이상한 나라의 앨리스](https://ko.wikipedia.org/wiki/이상한_나라의_앨리스_\(2010년_영화\) "wikilink")》(2010)가 있다.
+**리처드 대릴 재넉**( [1934년](../Page/1934년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [영화 제작자이다](https://ko.wikipedia.org/wiki/영화_제작자 "wikilink"). [브루스 베러스퍼드](https://ko.wikipedia.org/wiki/브루스_베러스퍼드 "wikilink") 감독과 함께 제작한 《[드라이빙 미스 데이지](../Page/드라이빙_미스_데이지.md "wikilink")》(1989)로 제62회 [아카데미 작품상과](../Page/아카데미_작품상.md "wikilink") 제47회 [골든 글로브 뮤지컬 코미디 부문 작품상을](../Page/골든_글로브상.md "wikilink") 수상했다. 이외의 대표작으로 《[사운드 오브 뮤직](../Page/사운드_오브_뮤직_\(영화\).md "wikilink")》(1965), 《[죠스](../Page/죠스_\(영화\).md "wikilink")》(1975), 《[이상한 나라의 앨리스](../Page/이상한_나라의_앨리스_\(2010년_영화\).md "wikilink")》(2010)가 있다.
 
-아버지는 [20세기 폭스의](https://ko.wikipedia.org/wiki/20세기_폭스 "wikilink") 창립자인 [대릴 F. 재넉이고](../Page/대릴_F._재넉.md "wikilink") 어머니는 배우 [버지니아 폭스이다](https://ko.wikipedia.org/wiki/버지니아_폭스 "wikilink"). [스탠퍼드 대학교](https://ko.wikipedia.org/wiki/스탠퍼드_대학교 "wikilink") 재학 시절부터 영화계에 발을 들였다. 2012년에 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") [베벌리힐스](https://ko.wikipedia.org/wiki/베벌리힐스 "wikilink")의 자택에서 [심장마비](https://ko.wikipedia.org/wiki/심장마비 "wikilink")로 사망하였다. 향년 79세\[1\]
+아버지는 [20세기 폭스의](https://ko.wikipedia.org/wiki/20세기_폭스 "wikilink") 창립자인 [대릴 F. 재넉이고](../Page/대릴_F._재넉.md "wikilink") 어머니는 배우 [버지니아 폭스이다](https://ko.wikipedia.org/wiki/버지니아_폭스 "wikilink"). [스탠퍼드 대학교](../Page/스탠퍼드_대학교.md "wikilink") 재학 시절부터 영화계에 발을 들였다. 2012년에 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") [베벌리힐스](../Page/베벌리힐스.md "wikilink")의 자택에서 [심장마비](https://ko.wikipedia.org/wiki/심장마비 "wikilink")로 사망하였다. 향년 79세\[1\]
 
 ## 작품 목록
 
@@ -29,11 +29,11 @@
 <tr class="odd">
 <td><p>1962</p></td>
 <td><p>채프먼 보고서 <em>The Chapman Report</em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조지_큐커" title="wikilink">조지 큐커</a></p></td>
+<td><p><a href="../Page/조지_큐커.md" title="wikilink">조지 큐커</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1965</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사운드_오브_뮤직_(영화)" title="wikilink">사운드 오브 뮤직</a> <em>The Sound of Music</em></p></td>
+<td><p><a href="../Page/사운드_오브_뮤직_(영화).md" title="wikilink">사운드 오브 뮤직</a> <em>The Sound of Music</em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로버트_와이즈" title="wikilink">로버트 와이즈</a></p></td>
 </tr>
 <tr class="odd">
@@ -44,7 +44,7 @@
 <tr class="even">
 <td><p>1974</p></td>
 <td><p>슈가랜드 특급 <em>The Sugarland Express</em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스티븐_스필버그" title="wikilink">스티븐 스필버그</a></p></td>
+<td><p><a href="../Page/스티븐_스필버그.md" title="wikilink">스티븐 스필버그</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1974</p></td>
@@ -59,11 +59,11 @@
 <tr class="odd">
 <td><p>1975</p></td>
 <td><p>아이거 빙벽 <em><a href="https://ko.wikipedia.org/wiki/:en:The_Eiger_Sanction_(film)" title="wikilink">The Eiger Sanction</a></em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/클린트_이스트우드" title="wikilink">클린트 이스트우드</a></p></td>
+<td><p><a href="../Page/클린트_이스트우드.md" title="wikilink">클린트 이스트우드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1975</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/죠스_(영화)" title="wikilink">죠스</a> <em>Jaws</em></p></td>
+<td><p><a href="../Page/죠스_(영화).md" title="wikilink">죠스</a> <em>Jaws</em></p></td>
 <td><p>스티븐 스필버그</p></td>
 </tr>
 <tr class="odd">
@@ -74,7 +74,7 @@
 <tr class="even">
 <td><p>1978</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/죠스_2" title="wikilink">죠스 2</a> <em>Jaws 2</em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자노_슈와르크" title="wikilink">자노 슈와르크</a></p></td>
+<td><p><a href="../Page/자노_슈와르크.md" title="wikilink">자노 슈와르크</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1980</p></td>
@@ -94,7 +94,7 @@
 <tr class="even">
 <td><p>1985</p></td>
 <td><p>코쿤 <em><a href="https://ko.wikipedia.org/wiki/:en:Cocoon_(film)" title="wikilink">Cocoon</a></em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/론_하워드" title="wikilink">론 하워드</a></p></td>
+<td><p><a href="../Page/론_하워드.md" title="wikilink">론 하워드</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1985</p></td>
@@ -108,7 +108,7 @@
 </tr>
 <tr class="odd">
 <td><p>1989</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/드라이빙_미스_데이지" title="wikilink">드라이빙 미스 데이지</a> <em>Driving Miss Daisy</em></p></td>
+<td><p><a href="../Page/드라이빙_미스_데이지.md" title="wikilink">드라이빙 미스 데이지</a> <em>Driving Miss Daisy</em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/브루스_베러스퍼드" title="wikilink">브루스 베러스퍼드</a></p></td>
 </tr>
 <tr class="even">
@@ -129,7 +129,7 @@
 <tr class="odd">
 <td><p>1995</p></td>
 <td><p>와일드 빌 <em><a href="https://ko.wikipedia.org/wiki/:en:Wild_Bill_(1995_film)" title="wikilink">Wild Bill (1995 film)</a></em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/월터_힐" title="wikilink">월터 힐</a></p></td>
+<td><p><a href="../Page/월터_힐.md" title="wikilink">월터 힐</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1996</p></td>
@@ -143,7 +143,7 @@
 </tr>
 <tr class="even">
 <td><p>1998</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/딥_임팩트_(영화)" title="wikilink">딥 임팩트</a> <em>Deep Impact</em></p></td>
+<td><p><a href="../Page/딥_임팩트_(영화).md" title="wikilink">딥 임팩트</a> <em>Deep Impact</em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미미_레더" title="wikilink">미미 레더</a></p></td>
 </tr>
 <tr class="odd">
@@ -154,12 +154,12 @@
 <tr class="even">
 <td><p>2000</p></td>
 <td><p>룰스 오브 인게이지먼트 <em><a href="https://ko.wikipedia.org/wiki/:en:Rules_of_Engagement_(film)" title="wikilink">Rules of Engagement</a></em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윌리엄_프리드킨" title="wikilink">윌리엄 프리드킨</a></p></td>
+<td><p><a href="../Page/윌리엄_프리드킨.md" title="wikilink">윌리엄 프리드킨</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/혹성탈출_(2001년_영화)" title="wikilink">혹성탈출</a> <em>Planet of the Apes</em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/팀_버튼" title="wikilink">팀 버튼</a></p></td>
+<td><p><a href="../Page/팀_버튼.md" title="wikilink">팀 버튼</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002</p></td>
@@ -173,12 +173,12 @@
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빅_피쉬" title="wikilink">빅 피쉬</a> <em>Big Fish</em></p></td>
+<td><p><a href="../Page/빅_피쉬.md" title="wikilink">빅 피쉬</a> <em>Big Fish</em></p></td>
 <td><p>팀 버튼</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/찰리와_초콜릿_공장_(영화)" title="wikilink">찰리와 초콜릿 공장</a> <em>Charlie and the Chocolate Factory</em></p></td>
+<td><p><a href="../Page/찰리와_초콜릿_공장_(영화).md" title="wikilink">찰리와 초콜릿 공장</a> <em>Charlie and the Chocolate Factory</em></p></td>
 <td><p>팀 버튼</p></td>
 </tr>
 <tr class="even">
@@ -189,22 +189,22 @@
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/예스_맨_(영화)" title="wikilink">예스 맨</a> <em>Yes Man</em></p></td>
+<td><p><a href="../Page/예스_맨_(영화).md" title="wikilink">예스 맨</a> <em>Yes Man</em></p></td>
 <td><p><a href="../Page/페이턴_리드.md" title="wikilink">페이턴 리드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상한_나라의_앨리스_(2010년_영화)" title="wikilink">이상한 나라의 앨리스</a> <em>Alice in Wonderland</em></p></td>
+<td><p><a href="../Page/이상한_나라의_앨리스_(2010년_영화).md" title="wikilink">이상한 나라의 앨리스</a> <em>Alice in Wonderland</em></p></td>
 <td><p>팀 버튼</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이탄_(영화)" title="wikilink">타이탄</a> <em>Clash of the Titans</em></p></td>
+<td><p><a href="../Page/타이탄_(영화).md" title="wikilink">타이탄</a> <em>Clash of the Titans</em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/루이_르테리에" title="wikilink">루이 르테리에</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다크_섀도우" title="wikilink">다크 섀도우</a> <em>Dark Shadows</em></p></td>
+<td><p><a href="../Page/다크_섀도우.md" title="wikilink">다크 섀도우</a> <em>Dark Shadows</em></p></td>
 <td><p>팀 버튼</p></td>
 </tr>
 <tr class="odd">

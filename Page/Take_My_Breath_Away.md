@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Take My Breath Away](https://ko.wikipedia.org/wiki/Take_My_Breath_Away).
 
 
-"**Take My Breath Away**"는 영화 《[탑 건](https://ko.wikipedia.org/wiki/탑_건 "wikilink")》(1986)에 나온 [사랑 노래이다](https://ko.wikipedia.org/wiki/사랑_노래 "wikilink"). 이 곡은 밴드 [벌린이](https://ko.wikipedia.org/wiki/벌린_\(밴드\) "wikilink") 연주했고, [조르조 모로더가](https://ko.wikipedia.org/wiki/조르조_모로더 "wikilink") 작곡, [톰 윗록이](https://ko.wikipedia.org/wiki/톰_윗록 "wikilink") 작사하였다.\[1\] 1986년에 [골든 글러브 주제가상과](https://ko.wikipedia.org/wiki/골든_글러브_주제가상 "wikilink") 더불어 [아카데미 주제가상을](https://ko.wikipedia.org/wiki/아카데미_주제가상 "wikilink") 수상하였다.
+"**Take My Breath Away**"는 영화 《[탑 건](https://ko.wikipedia.org/wiki/탑_건 "wikilink")》(1986)에 나온 [사랑 노래이다](https://ko.wikipedia.org/wiki/사랑_노래 "wikilink"). 이 곡은 밴드 [벌린이](https://ko.wikipedia.org/wiki/벌린_\(밴드\) "wikilink") 연주했고, [조르조 모로더가](../Page/조르조_모로더.md "wikilink") 작곡, [톰 윗록이](https://ko.wikipedia.org/wiki/톰_윗록 "wikilink") 작사하였다.\[1\] 1986년에 [골든 글러브 주제가상과](https://ko.wikipedia.org/wiki/골든_글러브_주제가상 "wikilink") 더불어 [아카데미 주제가상을](https://ko.wikipedia.org/wiki/아카데미_주제가상 "wikilink") 수상하였다.
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SLOW \(LUNA SEA \)](https://ko.wikipedia.org/wiki/SLOW_\(LUNA_SEA_\)).
 
 
-《**SLOW**》는 2005년 3월 28일에 발매된 [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 발라드 베스트 앨범이다.
+《**SLOW**》는 2005년 3월 28일에 발매된 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 발라드 베스트 앨범이다.
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 ## 수록곡
 
-  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink")
+  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 <!-- end list -->
 

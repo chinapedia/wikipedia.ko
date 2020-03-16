@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SINGLES \(LUNA SEA \)](https://ko.wikipedia.org/wiki/SINGLES_\(LUNA_SEA_\)).
 
 
-《**SINGLES**》는 1997년 12월 17일에 발매된 [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 첫 베스트 앨범이다.
+《**SINGLES**》는 1997년 12월 17일에 발매된 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 첫 베스트 앨범이다.
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 ## 수록곡
 
-  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink")
+  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 ### DISC 1
 

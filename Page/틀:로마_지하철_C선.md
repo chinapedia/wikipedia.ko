@@ -5,7 +5,7 @@
 
 <div class="NavHead" style="background:#64AB03; padding-bottom:0; text-align:center; padding-left:1em">
 
-[<span style="color:white; font-size:85% ">로마 지하철</span>](https://ko.wikipedia.org/wiki/로마_지하철 "wikilink") <span style="color:white">·</span> [<span style="color:white">C선</span>](../Page/로마_지하철_C선.md "wikilink")
+[<span style="color:white; font-size:85% ">로마 지하철</span>](../Page/로마_지하철.md "wikilink") <span style="color:white">·</span> [<span style="color:white">C선</span>](../Page/로마_지하철_C선.md "wikilink")
 
 </div>
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST!](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_765PRO_ALLSTARS+_GRE@TEST_BEST!).
 
 
-**'THE IDOLM@STER 765 PRO ALLSTARS+ GRE@TEST BEST\!**' (아이돌마스터 남코 프로 올스타즈 플러스 그레이티스트 베스트)는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 18일부터](https://ko.wikipedia.org/wiki/9월_18일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [게임](https://ko.wikipedia.org/wiki/게임 "wikilink")·[애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink") '[THE IDOLM@STER](https://ko.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")'의 [베스트 앨범](https://ko.wikipedia.org/wiki/베스트_앨범 "wikilink") 시리즈. 모두 4매.
+**'THE IDOLM@STER 765 PRO ALLSTARS+ GRE@TEST BEST\!**' (아이돌마스터 남코 프로 올스타즈 플러스 그레이티스트 베스트)는 [2013년](../Page/2013년.md "wikilink") [9월 18일부터](../Page/9월_18일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [게임](../Page/게임.md "wikilink")·[애니메이션](../Page/애니메이션.md "wikilink") '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")'의 [베스트 앨범](https://ko.wikipedia.org/wiki/베스트_앨범 "wikilink") 시리즈. 모두 4매.
 
 ## 개요
 
@@ -17,7 +17,7 @@ CD는 '[첫사랑 조곡](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION
 
 ## THE IDOLM@STER HISTORY
 
-[2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 18일](https://ko.wikipedia.org/wiki/9월_18일 "wikilink") 발매. 'GRE@TEST BEST\!'시리즈 제 1탄. 지금까지 걸어 온 아이돌마스터의 역사를 쓰는 수록 내용이 되어 '아이돌마스터'의 대표곡을 수록한 베스트이다. 쟈켓 일러스트는 캐릭터 디자인을 다룬 [쿠보오카 토시유키가](https://ko.wikipedia.org/wiki/쿠보오카_토시유키 "wikilink") 담당.
+[2013년](../Page/2013년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") 발매. 'GRE@TEST BEST\!'시리즈 제 1탄. 지금까지 걸어 온 아이돌마스터의 역사를 쓰는 수록 내용이 되어 '아이돌마스터'의 대표곡을 수록한 베스트이다. 쟈켓 일러스트는 캐릭터 디자인을 다룬 [쿠보오카 토시유키가](https://ko.wikipedia.org/wiki/쿠보오카_토시유키 "wikilink") 담당.
 
   - 수록곡
 
@@ -25,7 +25,7 @@ CD는 '[첫사랑 조곡](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION
 
 1.  [THE IDOLM@STER(M@STER VERSION -REMIX-)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MASTERPIECE#MASTERPIECE_05 "wikilink")
       -
-        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")) , 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink")) , 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) , 하기와라 유키호([하세 유리나](https://ko.wikipedia.org/wiki/하세_유리나 "wikilink")) , 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink")) , 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink")) , 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink")) , 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink")) , 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
+        가: 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink")) , 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink")) , 타카츠키 야요이([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")) , 하기와라 유키호([하세 유리나](../Page/하세_유리나.md "wikilink")) , 키쿠치 마코토([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink")) , 후타미 아미/마미([시모다 아사미](../Page/시모다_아사미.md "wikilink")) , 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink")) , 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink")) , 아키즈키 리츠코([와카바야시 나오미](https://ko.wikipedia.org/wiki/와카바야시_나오미 "wikilink"))
         작사: 나카무라 메구미, 작곡·편곡: NAMCO([사사키 히로토](https://ko.wikipedia.org/wiki/사사키_히로토 "wikilink"))
 2.  [GO MY WAY\!\! (M@STER VERSION)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MASTERWORK#MASTERWORK_01 "wikilink")
       -
@@ -53,7 +53,7 @@ CD는 '[첫사랑 조곡](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION
         작사: NBGI(mft), 작곡·편곡: NBGI([타카다 류이치](https://ko.wikipedia.org/wiki/타카다_류이치 "wikilink"))
 8.  ["HELLO\!\!"(M@STER VERSION)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_DREAM_SYMPHONY#DREAM_SYMPHONY_00 "wikilink")
       -
-        가: 히다카 아이([토마츠 하루카](https://ko.wikipedia.org/wiki/토마츠_하루카 "wikilink")) , 미즈타니 에리([하나자와 카나](https://ko.wikipedia.org/wiki/하나자와_카나 "wikilink")) , 아키즈키 료([산페이 유코](https://ko.wikipedia.org/wiki/산페이_유코 "wikilink"))
+        가: 히다카 아이([토마츠 하루카](../Page/토마츠_하루카.md "wikilink")) , 미즈타니 에리([하나자와 카나](../Page/하나자와_카나.md "wikilink")) , 아키즈키 료([산페이 유코](https://ko.wikipedia.org/wiki/산페이_유코 "wikilink"))
         작사: yura, 작곡·편곡: 고사키 사토루
 9.  [MEGARE\!(M@STER VERSION)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER#ANIM@TION_MASTER_05 "wikilink")
       -
@@ -73,7 +73,7 @@ CD는 '[첫사랑 조곡](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION
         작사: yura, 작곡: NBGI(우치다 테츠야), 편곡: [하시모토 유카리](https://ko.wikipedia.org/wiki/하시모토_유카리 "wikilink") · NBGI(우치다 테츠야)
 13. [자신 REST@RT(M@STER VERSION)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER#ANIM@TION_MASTER_05 "wikilink")
       -
-        가: 아마미 하루카(나카무라 에리코), 호시이 미키(하세가와 아키코), 키사라기 치하야(이마이 아사미), 타카츠키 야요이(니고 마야코), 하기와라 유키호([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")) , 키쿠치 마코토(히라타 히로미), 후타미 마미(시모다 아사미), 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink")) , 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink"))
+        가: 아마미 하루카(나카무라 에리코), 호시이 미키(하세가와 아키코), 키사라기 치하야(이마이 아사미), 타카츠키 야요이(니고 마야코), 하기와라 유키호([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")) , 키쿠치 마코토(히라타 히로미), 후타미 마미(시모다 아사미), 시죠 타카네([하라 유미](../Page/하라_유미.md "wikilink")) , 가나하 히비키([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink"))
         작사: 사사키 히로토, 작곡·편곡: 타나카 히데카즈
 14. [우리는 쭉… 이죠?](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER#ANIM@TION_MASTER_07 "wikilink")
       -
@@ -90,7 +90,7 @@ CD는 '[첫사랑 조곡](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION
 
 ## SWEET\&SMILE\!
 
-2013년 [10월 23일](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") 발매. 'GRE@TEST BEST\!'시리즈의 제2탄. 사랑스럽고 건강한 악곡을 메인에 수록. 쟈켓 일러스트는 '[MASTER ARTIST](../Page/THE_IDOLM@STER_MASTER_ARTIST.md "wikilink")'부터 '[MASTER ARTIST 2](../Page/THE_IDOLM@STER_MASTER_ARTIST_2.md "wikilink")'까지의, 대부분의 CD 쟈켓 일러스트를 다룬 [안닌도후](../Page/안닌도후.md "wikilink")가 담당.
+2013년 [10월 23일](../Page/10월_23일.md "wikilink") 발매. 'GRE@TEST BEST\!'시리즈의 제2탄. 사랑스럽고 건강한 악곡을 메인에 수록. 쟈켓 일러스트는 '[MASTER ARTIST](../Page/THE_IDOLM@STER_MASTER_ARTIST.md "wikilink")'부터 '[MASTER ARTIST 2](../Page/THE_IDOLM@STER_MASTER_ARTIST_2.md "wikilink")'까지의, 대부분의 CD 쟈켓 일러스트를 다룬 [안닌도후](../Page/안닌도후.md "wikilink")가 담당.
 
   - 수록곡
 
@@ -172,7 +172,7 @@ CD는 '[첫사랑 조곡](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION
 
 :\#: 가: 호시이 미키(하세가와 아키코), 후타미 아미/마미(시모다 아사미)
 
-:\#: 작사·작곡: [모모이 하루코](https://ko.wikipedia.org/wiki/모모이_하루코 "wikilink") , 편곡: [사이토 신야](https://ko.wikipedia.org/wiki/사이토_신야 "wikilink")
+:\#: 작사·작곡: [모모이 하루코](../Page/모모이_하루코.md "wikilink") , 편곡: [사이토 신야](https://ko.wikipedia.org/wiki/사이토_신야 "wikilink")
 
 :\# [Do-Dai(M@STER VERSION)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_LIVE#03_Do-Dai "wikilink")
 
@@ -280,7 +280,7 @@ CD는 '[첫사랑 조곡](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION
 
 ## COOL\&BITTER\!
 
-2013년 [11월 20일](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") 발매. 'GRE@TEST BEST\!'시리즈의 제3탄. 타이틀 대로 COOL감과 BITTER감이 있는 어른스러운 악곡을 메인에 수록. 쟈켓 일러스트는, '[Dearly Stars](../Page/THE_IDOLM@STER_Dearly_Stars.md "wikilink")'이후의 게임 작품으로 쿠보오카와 함께 캐릭터 디자인을 다룬 [타미야 키요타카가](https://ko.wikipedia.org/wiki/타미야_키요타카 "wikilink") 담당.
+2013년 [11월 20일](../Page/11월_20일.md "wikilink") 발매. 'GRE@TEST BEST\!'시리즈의 제3탄. 타이틀 대로 COOL감과 BITTER감이 있는 어른스러운 악곡을 메인에 수록. 쟈켓 일러스트는, '[Dearly Stars](../Page/THE_IDOLM@STER_Dearly_Stars.md "wikilink")'이후의 게임 작품으로 쿠보오카와 함께 캐릭터 디자인을 다룬 [타미야 키요타카가](https://ko.wikipedia.org/wiki/타미야_키요타카 "wikilink") 담당.
 
   - 수록곡
 
@@ -470,7 +470,7 @@ CD는 '[첫사랑 조곡](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION
 
 ## LOVE\&PEACE\!
 
-2013년 [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink") 발매. 'GRE@TEST BEST\!'시리즈의 제4탄. 여러가지 마음과 아이돌들의 정이 느껴지는 악곡을 중심으로 수록. 쟈켓 일러스트는 [애니메이션판 'THE IDOLM@STER'의](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink") 감독·캐릭터 디자인·작화 감독등을 다룬 [니시고리 아츠시](https://ko.wikipedia.org/wiki/니시고리_아츠시 "wikilink").
+2013년 [12월 18일](../Page/12월_18일.md "wikilink") 발매. 'GRE@TEST BEST\!'시리즈의 제4탄. 여러가지 마음과 아이돌들의 정이 느껴지는 악곡을 중심으로 수록. 쟈켓 일러스트는 [애니메이션판 'THE IDOLM@STER'의](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink") 감독·캐릭터 디자인·작화 감독등을 다룬 [니시고리 아츠시](https://ko.wikipedia.org/wiki/니시고리_아츠시 "wikilink").
 
   - 수록곡
 

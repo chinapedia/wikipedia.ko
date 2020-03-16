@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The world is all one !!](https://ko.wikipedia.org/wiki/The_world_is_all_one_!!).
 
 
-〈**The world is all one \!\!**〉(월드 이즈 올 원, )은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [2월 9일에](https://ko.wikipedia.org/wiki/2월_9일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink").
+〈**The world is all one \!\!**〉(월드 이즈 올 원, )은 [2011년](../Page/2011년.md "wikilink") [2월 9일에](../Page/2월_9일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매된 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -30,7 +30,7 @@
 <td><p>(M@STER VERSION)</p></td>
 <td><p>765PRO ALLSTARS</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER#02" title="wikilink">THE IDOLM@STER ANIM@TION MASTER 02</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/9월_7일" title="wikilink">9월 7일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/9월_7일.md" title="wikilink">9월 7일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="https://ko.wikipedia.org/wiki/THE_IDOLM@STER_765_PRO_ALLSTARS+_GRE@TEST_BEST!_#THE_IDOLM@STER_HISTORY" title="wikilink">THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! - THE IDOLM@STER HISTORY-</a>》</p></td>

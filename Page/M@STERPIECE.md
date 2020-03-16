@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [M@STERPIECE](https://ko.wikipedia.org/wiki/M@STERPIECE).
 
 
-\<**M@STERPIECE**\> (마스터피스)는 [765PRO ALLSTARS의](https://ko.wikipedia.org/wiki/THE_IDOLM@STER의_등장인물 "wikilink") 악곡이다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 29일에](https://ko.wikipedia.org/wiki/1월_29일 "wikilink") [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")로서 [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되었다.
+\<**M@STERPIECE**\> (마스터피스)는 [765PRO ALLSTARS의](https://ko.wikipedia.org/wiki/THE_IDOLM@STER의_등장인물 "wikilink") 악곡이다. [2014년](../Page/2014년.md "wikilink") [1월 29일에](../Page/1월_29일.md "wikilink") [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")로서 [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되었다.
 
 ## 개요
 
 765 PRO ALLSTARS 명의로서는, 전작 \<[CHANGE\!\!\!\!](../Page/CHANGE!!!!.md "wikilink")\>로부터 약 2년 5개월만의 싱글이 된다. 본 곡은, [극장판 \<THE IDOLM@STER MOVIE 빛의 저편에\!\>의](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_\(애니메이션\)#극장판 "wikilink") 주제가로 사용되었다. 초회 한정반에는, 극장용으로 5.1 ch로 믹스된 주제가 \<M@STERPIECE\>외, 전5곡 수록한 [Blu-ray Disc Audio가](https://ko.wikipedia.org/wiki/Blu-ray_Disc "wikilink") 부속된다.
 
-2014년 10월에는 [Newtype](https://ko.wikipedia.org/wiki/월간_뉴타입 "wikilink") ×[마치★아소비](https://ko.wikipedia.org/wiki/마치★아소비 "wikilink") 애니메이션 상품 2014 주제가상을 수상했다.
+2014년 10월에는 [Newtype](../Page/월간_뉴타입.md "wikilink") ×[마치★아소비](https://ko.wikipedia.org/wiki/마치★아소비 "wikilink") 애니메이션 상품 2014 주제가상을 수상했다.
 
 ## 수록곡
 
@@ -25,7 +25,7 @@
         작사·작곡: [Maiko Fujita](https://ko.wikipedia.org/wiki/후지타_마이코 "wikilink")\[2\]편곡: [카와다 루카](https://ko.wikipedia.org/wiki/카와다_루카 "wikilink")
 3.  M@STERPIECE (MOVIE VERSION)
       -
-        노래: 아마미 하루카 ([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink")), 호시이 미키 ([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink")), 키사라기 치하야 ([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink")), 타카츠키 야요이 ([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")), 키쿠치 마코토 ([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink")), 미나세 이오리 ([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink")), 후타미 아미/마미 ([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink")), 미우라 아즈사 ([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink")), 하기와라 유키호 ([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")), 가나하 히비키 ([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink")), 시죠 타카네 ([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"))
+        노래: 아마미 하루카 ([나카무라 에리코](../Page/나카무라_에리코.md "wikilink")), 호시이 미키 ([하세가와 아키코](../Page/하세가와_아키코.md "wikilink")), 키사라기 치하야 ([이마이 아사미](../Page/이마이_아사미.md "wikilink")), 타카츠키 야요이 ([니고 마야코](https://ko.wikipedia.org/wiki/니고_마야코 "wikilink")), 키쿠치 마코토 ([히라타 히로미](https://ko.wikipedia.org/wiki/히라타_히로미 "wikilink")), 미나세 이오리 ([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink")), 후타미 아미/마미 ([시모다 아사미](../Page/시모다_아사미.md "wikilink")), 미우라 아즈사 ([타카하시 치아키](../Page/타카하시_치아키.md "wikilink")), 하기와라 유키호 ([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")), 가나하 히비키 ([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink")), 시죠 타카네 ([하라 유미](../Page/하라_유미.md "wikilink"))
 4.  M@STERPIECE (오리지널 가라오케)
 5.  네가 고른 길 (오리지널 가라오케)
 

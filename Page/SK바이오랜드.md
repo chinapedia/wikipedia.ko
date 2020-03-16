@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
 
 
-**SK 바이오랜드**는 1995년 설립된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [화장품원료 제조기업이다](https://ko.wikipedia.org/wiki/화장품원료_제조기업 "wikilink"). 2016년 SK계열사로 편입됨에 따라(주)바이오랜드에서 SK 바이오랜드로 사명변경을 하였다.
+**SK 바이오랜드**는 1995년 설립된 [대한민국](../Page/대한민국.md "wikilink")의 [화장품원료 제조기업이다](https://ko.wikipedia.org/wiki/화장품원료_제조기업 "wikilink"). 2016년 SK계열사로 편입됨에 따라(주)바이오랜드에서 SK 바이오랜드로 사명변경을 하였다.
 
 ## 연혁
 

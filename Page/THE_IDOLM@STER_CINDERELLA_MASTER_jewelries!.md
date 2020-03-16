@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER CINDERELLA MASTER jewelries!](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_MASTER_jewelries!).
 
 
-\<**THE IDOLM@STER CINDERELLA MASTER Jewelries\!**\> (아이돌마스터 신데렐라 마스터 주얼리즈)는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [9월 25일부터](https://ko.wikipedia.org/wiki/9월_25일 "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [소셜 게임](https://ko.wikipedia.org/wiki/소셜_게임 "wikilink") \<[아이돌마스터 신데렐라 걸즈](../Page/아이돌마스터_신데렐라_걸즈.md "wikilink")\>의 [앨범](https://ko.wikipedia.org/wiki/앨범 "wikilink") 시리즈.
+\<**THE IDOLM@STER CINDERELLA MASTER Jewelries\!**\> (아이돌마스터 신데렐라 마스터 주얼리즈)는 [2013년](../Page/2013년.md "wikilink") [9월 25일부터](../Page/9월_25일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 [소셜 게임](https://ko.wikipedia.org/wiki/소셜_게임 "wikilink") \<[아이돌마스터 신데렐라 걸즈](../Page/아이돌마스터_신데렐라_걸즈.md "wikilink")\>의 [앨범](https://ko.wikipedia.org/wiki/앨범 "wikilink") 시리즈.
 
 ## 개요
 
@@ -21,7 +21,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\# **Nation Blue**
 
-:\#: 노래: 시부야 린 ([후쿠하라 아야카](../Page/후쿠하라_아야카.md "wikilink"))·타카가키 카에데 ([하야미 사오리](https://ko.wikipedia.org/wiki/하야미_사오리 "wikilink"))·칸자키 란코 ([우치다 마아야](../Page/우치다_마아야.md "wikilink"))·타다 리이나 ([아오키 루리코](../Page/아오키_루리코.md "wikilink"))·닛타 미나미 ([스자키 아야](../Page/스자키_아야.md "wikilink"))
+:\#: 노래: 시부야 린 ([후쿠하라 아야카](../Page/후쿠하라_아야카.md "wikilink"))·타카가키 카에데 ([하야미 사오리](../Page/하야미_사오리.md "wikilink"))·칸자키 란코 ([우치다 마아야](../Page/우치다_마아야.md "wikilink"))·타다 리이나 ([아오키 루리코](../Page/아오키_루리코.md "wikilink"))·닛타 미나미 ([스자키 아야](../Page/스자키_아야.md "wikilink"))
 
 :\#: 작사·작곡·편곡: [토야마 아키라효](https://ko.wikipedia.org/wiki/토야마_아키라효 "wikilink")
 
@@ -57,7 +57,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 오리지널 아티스트: [angela](https://ko.wikipedia.org/wiki/angela "wikilink")
 
-:\# *[눈의 꽃](https://ko.wikipedia.org/wiki/눈의_꽃 "wikilink")*
+:\# *[눈의 꽃](../Page/눈의_꽃.md "wikilink")*
 
 :\#: 노래: 타카가키 카에데 (하야미 사오리)
 
@@ -83,7 +83,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\# **오르골의 작은 상자**
 
-:\#: 노래: 카와시마 미즈키 ([토야마 나오](https://ko.wikipedia.org/wiki/토야마_나오_\(성우\) "wikilink"))·시라사카 코메 ([오사키 치요](https://ko.wikipedia.org/wiki/오사키_치요 "wikilink"))·아나스타시야 ([우에사카 스미레](https://ko.wikipedia.org/wiki/우에사카_스미레 "wikilink"))·카미야 나오 ([마츠이 에리코](https://ko.wikipedia.org/wiki/마츠이_에리코 "wikilink"))·호조 카렌 ([후치가미 마이](../Page/후치가미_마이.md "wikilink"))
+:\#: 노래: 카와시마 미즈키 ([토야마 나오](../Page/토야마_나오_\(성우\).md "wikilink"))·시라사카 코메 ([오사키 치요](https://ko.wikipedia.org/wiki/오사키_치요 "wikilink"))·아나스타시야 ([우에사카 스미레](../Page/우에사카_스미레.md "wikilink"))·카미야 나오 ([마츠이 에리코](https://ko.wikipedia.org/wiki/마츠이_에리코 "wikilink"))·호조 카렌 ([후치가미 마이](../Page/후치가미_마이.md "wikilink"))
 
 :\#: 작사: [모리 유리코](https://ko.wikipedia.org/wiki/모리_유리코 "wikilink"), 작곡·편곡: 타카하시 코헤이
 
@@ -107,9 +107,9 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 작사: [에이 로쿠스케](https://ko.wikipedia.org/wiki/에이_로쿠스케 "wikilink"), 작곡: [이즈미 타쿠](https://ko.wikipedia.org/wiki/이즈미_타쿠 "wikilink")
 
-:\#: 오리지널 아티스트: [사카모토 규](https://ko.wikipedia.org/wiki/사카모토_규 "wikilink")
+:\#: 오리지널 아티스트: [사카모토 규](../Page/사카모토_규.md "wikilink")
 
-:\# ''[네가 모르는 이야기](https://ko.wikipedia.org/wiki/네가_모르는_이야기 "wikilink") ''
+:\# ''[네가 모르는 이야기](../Page/네가_모르는_이야기.md "wikilink") ''
 
 :\#: 노래: 카미야 나오 (마츠이 에리코)
 
@@ -127,7 +127,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\# **멋진 Party Night**
 
-:\#: 노래: 카와시마 미즈키 ([토야마 나오](https://ko.wikipedia.org/wiki/토야마_나오_\(성우\) "wikilink"))·시라사카 코메 ([오사키 치요](https://ko.wikipedia.org/wiki/오사키_치요 "wikilink"))·아나스타시야 ([우에사카 스미레](https://ko.wikipedia.org/wiki/우에사카_스미레 "wikilink"))·카미야 나오 ([마츠이 에리코](https://ko.wikipedia.org/wiki/마츠이_에리코 "wikilink"))·호조 카렌 ([후치가미 마이](../Page/후치가미_마이.md "wikilink"))
+:\#: 노래: 카와시마 미즈키 ([토야마 나오](../Page/토야마_나오_\(성우\).md "wikilink"))·시라사카 코메 ([오사키 치요](https://ko.wikipedia.org/wiki/오사키_치요 "wikilink"))·아나스타시야 ([우에사카 스미레](../Page/우에사카_스미레.md "wikilink"))·카미야 나오 ([마츠이 에리코](https://ko.wikipedia.org/wiki/마츠이_에리코 "wikilink"))·호조 카렌 ([후치가미 마이](../Page/후치가미_마이.md "wikilink"))
 
 :\#: 작사: 모리 유리코, 작곡: [오노 타카미츠](https://ko.wikipedia.org/wiki/오노_타카미츠 "wikilink"), 편곡: [타마키 치히로](https://ko.wikipedia.org/wiki/타마키_치히로 "wikilink")
 
@@ -147,7 +147,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 노래: 죠가사키 리카 ([야마모토 노조미](../Page/야마모토_노조미.md "wikilink"))·모로보시 키라리 ([마츠자키 레이](../Page/마츠자키_레이.md "wikilink"))·죠가사키 미카 ([요시무라 하루카](https://ko.wikipedia.org/wiki/요시무라_하루카 "wikilink"))·혼다 미오 ([하라 사유리](../Page/하라_사유리.md "wikilink"))·아카기 미리아 ([쿠로사와 토모요](../Page/쿠로사와_토모요.md "wikilink"))
 
-:\#: 작사·작곡·편곡: [Funta](https://ko.wikipedia.org/wiki/Funta "wikilink")
+:\#: 작사·작곡·편곡: [Funta](../Page/Funta.md "wikilink")
 
 :\# ''[학원천국](https://ko.wikipedia.org/wiki/학원천국_\(곡\) "wikilink") ''
 
@@ -155,7 +155,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 작사: [아구유](https://ko.wikipedia.org/wiki/아구유 "wikilink"), 작곡: [이노우에 타다오](https://ko.wikipedia.org/wiki/이노우에_타다오 "wikilink"), 편곡; [노무라 요시오](https://ko.wikipedia.org/wiki/노무라_요시오 "wikilink")
 
-:\#: 오리지널 아티스트: [FINGER 5](https://ko.wikipedia.org/wiki/FINGER_5 "wikilink") ([코이즈미 쿄코](https://ko.wikipedia.org/wiki/코이즈미_쿄코 "wikilink") 버전)
+:\#: 오리지널 아티스트: [FINGER 5](https://ko.wikipedia.org/wiki/FINGER_5 "wikilink") ([코이즈미 쿄코](../Page/코이즈미_쿄코.md "wikilink") 버전)
 
 :\# *[LOVE & JOY](https://ko.wikipedia.org/wiki/LOVE_&_JOY "wikilink")*
 
@@ -185,7 +185,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 노래: 혼다 미오 (하라 사유리)
 
-:\#: 작사·작곡·편곡·오리지널 아티스트: [오자와 켄지](https://ko.wikipedia.org/wiki/오자와_켄지 "wikilink")
+:\#: 작사·작곡·편곡·오리지널 아티스트: [오자와 켄지](../Page/오자와_켄지.md "wikilink")
 
 :\# 나아가☆소녀\~jewel parade\~
 
@@ -205,7 +205,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\# **절대특권주장합니다\!**
 
-:\#: 노래: 토토키 아이리 ([하라다 히토미](https://ko.wikipedia.org/wiki/하라다_히토미 "wikilink"))·히노 아카네 ([아카사키 치나츠](https://ko.wikipedia.org/wiki/아카사키_치나츠 "wikilink"))·타카모리 아이코 ([카네코 유키](https://ko.wikipedia.org/wiki/카네코_유키 "wikilink"))·호시 쇼코 ([마츠다 사츠미](https://ko.wikipedia.org/wiki/마츠다_사츠미 "wikilink"))·호리 유코 ([스즈키 에리](https://ko.wikipedia.org/wiki/스즈키_에리 "wikilink"))
+:\#: 노래: 토토키 아이리 ([하라다 히토미](../Page/하라다_히토미.md "wikilink"))·히노 아카네 ([아카사키 치나츠](https://ko.wikipedia.org/wiki/아카사키_치나츠 "wikilink"))·타카모리 아이코 ([카네코 유키](https://ko.wikipedia.org/wiki/카네코_유키 "wikilink"))·호시 쇼코 ([마츠다 사츠미](https://ko.wikipedia.org/wiki/마츠다_사츠미 "wikilink"))·호리 유코 ([스즈키 에리](https://ko.wikipedia.org/wiki/스즈키_에리 "wikilink"))
 
 :\#: 작사: 사카이 류지, 작곡·편곡: 야마자키 신고
 
@@ -215,7 +215,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 작사: [야마모토 히데미](https://ko.wikipedia.org/wiki/야마모토_히데미 "wikilink") , 작곡: [키네상등](https://ko.wikipedia.org/wiki/키네상등 "wikilink")
 
-:\#: 오리지널 아티스트: [사사키 유코](https://ko.wikipedia.org/wiki/사사키_유코 "wikilink")
+:\#: 오리지널 아티스트: [사사키 유코](../Page/사사키_유코.md "wikilink")
 
 :\# ''[이것저것](https://ko.wikipedia.org/wiki/이것저것 "wikilink") ''
 
@@ -237,9 +237,9 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 노래: 호시 쇼코 (마츠다 사츠미)
 
-:\#: 작사·작곡·편곡: [YOSHIKI](https://ko.wikipedia.org/wiki/YOSHIKI "wikilink")
+:\#: 작사·작곡·편곡: [YOSHIKI](../Page/YOSHIKI.md "wikilink")
 
-:\#: 오리지널 아티스트: [X JAPAN](https://ko.wikipedia.org/wiki/X_JAPAN "wikilink")
+:\#: 오리지널 아티스트: [X JAPAN](../Page/X_JAPAN.md "wikilink")
 
 :\# ''[조이풀](https://ko.wikipedia.org/wiki/YELL/조이풀 "wikilink") ''
 
@@ -269,7 +269,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\# **나 고철 안드로이드**
 
-:\#: 노래: 후타바 안즈 ([이가라시 히로미](../Page/이가라시_히로미.md "wikilink"))·마에카와 미쿠 ([타카모리 나츠미](../Page/타카모리_나츠미.md "wikilink"))·시마무라 우즈키 ([오오하시 아야카](../Page/오오하시_아야카.md "wikilink"))·코히나타 미호 ([츠다 미나미](https://ko.wikipedia.org/wiki/츠다_미나미 "wikilink"))·아베 나나 ([미야케 마리에](https://ko.wikipedia.org/wiki/미야케_마리에 "wikilink"))
+:\#: 노래: 후타바 안즈 ([이가라시 히로미](../Page/이가라시_히로미.md "wikilink"))·마에카와 미쿠 ([타카모리 나츠미](../Page/타카모리_나츠미.md "wikilink"))·시마무라 우즈키 ([오오하시 아야카](../Page/오오하시_아야카.md "wikilink"))·코히나타 미호 ([츠다 미나미](../Page/츠다_미나미.md "wikilink"))·아베 나나 ([미야케 마리에](https://ko.wikipedia.org/wiki/미야케_마리에 "wikilink"))
 
 :\#: 작사·작곡·편곡: [사사키트모코](https://ko.wikipedia.org/wiki/사사키트모코 "wikilink")
 
@@ -293,7 +293,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 작사: [목수미소](https://ko.wikipedia.org/wiki/목수미소 "wikilink"), 작곡: [오다 테츠로](https://ko.wikipedia.org/wiki/오다_테츠로 "wikilink"), 편곡: [신카와 히로시](https://ko.wikipedia.org/wiki/신카와_히로시 "wikilink")
 
-:\#: 오리지널 아티스트: [사카이 노리코](https://ko.wikipedia.org/wiki/사카이_노리코 "wikilink")
+:\#: 오리지널 아티스트: [사카이 노리코](../Page/사카이_노리코.md "wikilink")
 
 :\# ''[루루](https://ko.wikipedia.org/wiki/루루/두근거려_해커 "wikilink") ''
 
@@ -329,7 +329,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\# **파스텔 핑크한 사랑**
 
-:\#: 노래: 미무라 카나코 ([오오츠보 유카](../Page/오오츠보_유카.md "wikilink"))·코시미즈 사치코 ([타케타츠 아야나](https://ko.wikipedia.org/wiki/타케타츠_아야나 "wikilink"))·사쿠마 마유 ([마키노 유이](https://ko.wikipedia.org/wiki/마키노_유이 "wikilink"))·오가타 치에리 ([오오조라 나오미](https://ko.wikipedia.org/wiki/오오조라_나오미 "wikilink"))·코바야카와 사에 ([타치바나 리카](https://ko.wikipedia.org/wiki/타치바나_리카 "wikilink"))
+:\#: 노래: 미무라 카나코 ([오오츠보 유카](../Page/오오츠보_유카.md "wikilink"))·코시미즈 사치코 ([타케타츠 아야나](../Page/타케타츠_아야나.md "wikilink"))·사쿠마 마유 ([마키노 유이](../Page/마키노_유이.md "wikilink"))·오가타 치에리 ([오오조라 나오미](https://ko.wikipedia.org/wiki/오오조라_나오미 "wikilink"))·코바야카와 사에 ([타치바나 리카](https://ko.wikipedia.org/wiki/타치바나_리카 "wikilink"))
 
 :\#: 작사: marhy, 작곡·편곡: BNSI(우치다 테츠야)
 
@@ -337,7 +337,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 노래: 미무라 카나코 (오오츠보 유카)
 
-:\#: 작사: [야스이나 완료](https://ko.wikipedia.org/wiki/야스이나_완료 "wikilink"), 작곡: [카토 카즈히코](https://ko.wikipedia.org/wiki/카토_카즈히코 "wikilink")
+:\#: 작사: [야스이나 완료](https://ko.wikipedia.org/wiki/야스이나_완료 "wikilink"), 작곡: [카토 카즈히코](../Page/카토_카즈히코.md "wikilink")
 
 :\#: 오리지널 아티스트: [타케우치 마리아](https://ko.wikipedia.org/wiki/타케우치_마리아 "wikilink")
 
@@ -345,7 +345,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 노래: 코시미즈 사치코 (타케타츠 아야나)
 
-:\#: 작사·작곡: [후쿠야마 마사하루](https://ko.wikipedia.org/wiki/후쿠야마_마사하루 "wikilink")
+:\#: 작사·작곡: [후쿠야마 마사하루](../Page/후쿠야마_마사하루.md "wikilink")
 
 :\#: 오리지널 아티스트: [KOH+](https://ko.wikipedia.org/wiki/KOH+ "wikilink")
 
@@ -359,7 +359,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 노래: 오가타 치에리 (오오조라 나오미)
 
-:\#: 작사: [벚꽃도도 와](https://ko.wikipedia.org/wiki/벚꽃도도_와 "wikilink"), 작곡: [오야마다 케이고](https://ko.wikipedia.org/wiki/오야마다_케이고 "wikilink")
+:\#: 작사: [벚꽃도도 와](https://ko.wikipedia.org/wiki/벚꽃도도_와 "wikilink"), 작곡: [오야마다 케이고](../Page/오야마다_케이고.md "wikilink")
 
 :\#: 오리지널 아티스트: [카히미 카리](https://ko.wikipedia.org/wiki/카히미_카리 "wikilink")
 
@@ -369,7 +369,7 @@ CD용 신곡은 굵은 글씨, 커버곡은 이탤릭으로 표기한다.
 
 :\#: 작사: [마츠이 고로](https://ko.wikipedia.org/wiki/마츠이_고로 "wikilink"), 작곡: [모리마사 아키라](https://ko.wikipedia.org/wiki/모리마사_아키라 "wikilink")
 
-:\#: 오리지널 아티스트: [비리 모두](https://ko.wikipedia.org/wiki/비리_모두 "wikilink") ([사카모토 후유미](https://ko.wikipedia.org/wiki/사카모토_후유미 "wikilink") 버전)
+:\#: 오리지널 아티스트: [비리 모두](https://ko.wikipedia.org/wiki/비리_모두 "wikilink") ([사카모토 후유미](../Page/사카모토_후유미.md "wikilink") 버전)
 
 :\# 멋진 Party Night
 

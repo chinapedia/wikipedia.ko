@@ -3,20 +3,20 @@
 
 \<**THE IDOLM@STER STATION\!\!\!**\> (아이돌마스터 스테이션)은
 
-1.  2009년 8월부터 2013년 3월까지, [라디오 오사카에서](https://ko.wikipedia.org/wiki/오사카_방송 "wikilink") 방송되고 있던 라디오 프로그램.
+1.  2009년 8월부터 2013년 3월까지, [라디오 오사카에서](../Page/오사카_방송.md "wikilink") 방송되고 있던 라디오 프로그램.
 2.  2014년 10월부터, [니코니코 생방송에서](https://ko.wikipedia.org/wiki/니코니코_생방송 "wikilink") 방송 중인 라디오 프로그램. 1. 의 출연자, 방송 내용을 계승하고 있다.
 
 본 항목에서는, 위 두 항목 모두를 설명한다.
 
 -----
 
-\<**THE IDOLM@STER STATION\!\!\!**\> (아이돌마스터 스테이션)은 [라디오 오사카의](https://ko.wikipedia.org/wiki/오사카_방송 "wikilink") [V-STATION화로](https://ko.wikipedia.org/wiki/1314_V-STATION "wikilink") 방송되고 있던 라디오 프로그램. 전192회. 2009년 7월에 종료한 \<[THE IDOLM@STER RADIO](../Page/THE_IDOLM@STER_RADIO.md "wikilink")\>의 후 프로그램으로서 매주 일요일 22:00 - 22:30에 방송되었다. 또, 전 프로그램과 같이 인터넷 전달도 행해지고 있었다. 타이틀 마지막 \<\!\!\!\>는 반각으로 표기한다\[1\]. 통칭은 \<**아이마스 스테이션**\> 또는 \<**아이스테**\>.
+\<**THE IDOLM@STER STATION\!\!\!**\> (아이돌마스터 스테이션)은 [라디오 오사카의](../Page/오사카_방송.md "wikilink") [V-STATION화로](https://ko.wikipedia.org/wiki/1314_V-STATION "wikilink") 방송되고 있던 라디오 프로그램. 전192회. 2009년 7월에 종료한 \<[THE IDOLM@STER RADIO](../Page/THE_IDOLM@STER_RADIO.md "wikilink")\>의 후 프로그램으로서 매주 일요일 22:00 - 22:30에 방송되었다. 또, 전 프로그램과 같이 인터넷 전달도 행해지고 있었다. 타이틀 마지막 \<\!\!\!\>는 반각으로 표기한다\[1\]. 통칭은 \<**아이마스 스테이션**\> 또는 \<**아이스테**\>.
 
 2014년 10월 8일에 새 프로그램으로서 방송이 재개되었다. [니코니코 생방송에서](https://ko.wikipedia.org/wiki/니코니코_생방송 "wikilink"), 매주 수요일 22시 30분부터 방송되고 있다.
 
 ## 개요
 
-게임 [\<THE IDOLM@STER\>시리즈에서의](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink") 파생 기획. [퍼스널리티는](https://ko.wikipedia.org/wiki/라디오_퍼스널리티 "wikilink") [누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink") (가나하 히비키 역)와 [하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink") (시죠 타카네 역)에, 제88회까지는 전 프로그램 \<[THE IDOLM@STER RADIO](../Page/THE_IDOLM@STER_RADIO.md "wikilink")\>로부터 계속해서 [이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink") (키사라기 치하야 역), 제89회부터는 [아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink") (하기와라 유키호 역)를 더한 3명이 근무한다.
+게임 [\<THE IDOLM@STER\>시리즈에서의](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink") 파생 기획. [퍼스널리티는](https://ko.wikipedia.org/wiki/라디오_퍼스널리티 "wikilink") [누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink") (가나하 히비키 역)와 [하라 유미](../Page/하라_유미.md "wikilink") (시죠 타카네 역)에, 제88회까지는 전 프로그램 \<[THE IDOLM@STER RADIO](../Page/THE_IDOLM@STER_RADIO.md "wikilink")\>로부터 계속해서 [이마이 아사미](../Page/이마이_아사미.md "wikilink") (키사라기 치하야 역), 제89회부터는 [아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink") (하기와라 유키호 역)를 더한 3명이 근무한다.
 
 라디오 오사카의 방송범위, \<니코니코아이마스 ch“타루키정”\>로의 인터넷 전달범위, 한층 더 스폰서도 \<THE IDOLM@STER RADIO\>를 계승하고 있어 또 같은 프로그램의 명물 코너였던 <가희낙원>을 계승하는 등 , 완전한 새 프로그램이라는 것보다는, 퍼스널리티를 변경한 리뉴얼이라는 것이 가깝다.
 

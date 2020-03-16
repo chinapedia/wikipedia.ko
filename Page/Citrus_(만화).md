@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Citrus \(\)](https://ko.wikipedia.org/wiki/Citrus_\(\)).
 
 
-**Citrus**()는 사브로 우타가 쓴 일본의 [백합](https://ko.wikipedia.org/wiki/백합_\(장르\) "wikilink") 만화이다. 2012년 11월 17일부터 이치진샤의 [코믹 유리히메](https://ko.wikipedia.org/wiki/코믹_유리히메 "wikilink") 지에서 연재중이다.
+**Citrus**()는 사브로 우타가 쓴 일본의 [백합](../Page/백합_\(장르\).md "wikilink") 만화이다. 2012년 11월 17일부터 이치진샤의 [코믹 유리히메](https://ko.wikipedia.org/wiki/코믹_유리히메 "wikilink") 지에서 연재중이다.
 
 ## 줄거리
 
@@ -53,7 +53,7 @@
 
 ## TV 애니메이션
 
-2016년 11월에 TV 애니메이션화가 진행 중이라고 밝혔다. 익년 3월에 TV 애니메이션화가 결정되었다. 2018년 1월부터 3월까지 [도쿄 MX](https://ko.wikipedia.org/wiki/도쿄_MX "wikilink"), [AT-X](https://ko.wikipedia.org/wiki/AT-X "wikilink"), [BS후지](https://ko.wikipedia.org/wiki/BS후지 "wikilink")에서 방영되었다(전 13화).
+2016년 11월에 TV 애니메이션화가 진행 중이라고 밝혔다. 익년 3월에 TV 애니메이션화가 결정되었다. 2018년 1월부터 3월까지 [도쿄 MX](https://ko.wikipedia.org/wiki/도쿄_MX "wikilink"), [AT-X](../Page/AT-X.md "wikilink"), [BS후지](../Page/BS후지.md "wikilink")에서 방영되었다(전 13화).
 
 ## 각주
 

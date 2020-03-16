@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [PETIT IDOLM@STER Twelve Seasons!](https://ko.wikipedia.org/wiki/PETIT_IDOLM@STER_Twelve_Seasons!).
 
 
-**'PETIT IDOLM@STER Twelve Seasons\!**' (프티 아이돌마스터 트웰브 시즌즈)는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [1월 9일부터](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") [프런티어 워크스](https://ko.wikipedia.org/wiki/프런티어_워크스 "wikilink") (발매원)·[미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink") (판매원)에서 발매되고 있는, Web 애니메이션 '[프티마스\! -PETIT IDOLM@STER-](https://ko.wikipedia.org/wiki/프티마스!_-PETIT_IDOLM@STER- "wikilink")'의 [캐릭터 송](https://ko.wikipedia.org/wiki/캐릭터_송 "wikilink") 시리즈. 모두 12매.
+**'PETIT IDOLM@STER Twelve Seasons\!**' (프티 아이돌마스터 트웰브 시즌즈)는 [2013년](../Page/2013년.md "wikilink") [1월 9일부터](../Page/1월_9일.md "wikilink") [프런티어 워크스](https://ko.wikipedia.org/wiki/프런티어_워크스 "wikilink") (발매원)·[미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink") (판매원)에서 발매되고 있는, Web 애니메이션 '[프티마스\! -PETIT IDOLM@STER-](https://ko.wikipedia.org/wiki/프티마스!_-PETIT_IDOLM@STER- "wikilink")'의 [캐릭터 송](https://ko.wikipedia.org/wiki/캐릭터_송 "wikilink") 시리즈. 모두 12매.
 
 ## 개요
 
 애니메이션 '프티마스\! - 프티·아이돌마스터-'의 캐릭터 송 시리즈.
 
-CM송을 테마로 한 솔로 신곡과 그 가라오케 버전, 애니메이션의 테마곡 '라♪라♪라♪원더랜드', 각각이 담당한 달교체 ED곡의 솔로 믹스, 프티돌·코토리·프로듀서를 섞은 드라마 파트 '아침의 연속 프티 드라마'([NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") [연속 TV 소설의](https://ko.wikipedia.org/wiki/연속_TV_소설 "wikilink") 패러디)가 수록되고 있다.
+CM송을 테마로 한 솔로 신곡과 그 가라오케 버전, 애니메이션의 테마곡 '라♪라♪라♪원더랜드', 각각이 담당한 달교체 ED곡의 솔로 믹스, 프티돌·코토리·프로듀서를 섞은 드라마 파트 '아침의 연속 프티 드라마'([NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") [연속 TV 소설의](../Page/연속_TV_소설.md "wikilink") 패러디)가 수록되고 있다.
 
 CD의 넘버링은, 기본적으로는 각각의 탄생월이 되어 있다. 다만, 이오리는 아미·마미와 같은 5월이므로, 대상이 없는 9월에 돌고 있다.
 
@@ -27,7 +27,7 @@ CD의 넘버링은, 기본적으로는 각각의 탄생월이 되어 있다. 다
 
 1.  **Princess Snow White**
       -
-        가: 시죠 타카네([하라 유미](https://ko.wikipedia.org/wiki/하라_유미 "wikilink"))
+        가: 시죠 타카네([하라 유미](../Page/하라_유미.md "wikilink"))
         작사: [yura](https://ko.wikipedia.org/wiki/yura "wikilink") , 작곡·편곡: [야마구치 아키라언](https://ko.wikipedia.org/wiki/야마구치_아키라언 "wikilink")
 2.  아침의 연속프티드라마 모두 팽이-시루-타카네와 타카냐 편—
 3.  라♪라♪라♪원더랜드
@@ -52,7 +52,7 @@ CD의 넘버링은, 기본적으로는 각각의 탄생월이 되어 있다. 다
 
 1.  **choco fondue**
       -
-        가: 키사라기 치하야([이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink"))
+        가: 키사라기 치하야([이마이 아사미](../Page/이마이_아사미.md "wikilink"))
         작사: yura, 작곡: 야마자키 히로코, 편곡: [후쿠토미 마사유키](https://ko.wikipedia.org/wiki/후쿠토미_마사유키 "wikilink")
 2.  아침의 연속프티드라마 모두 팽이-시루-치하야와 치햐 편—
 3.  라♪라♪라♪원더랜드
@@ -102,7 +102,7 @@ CD의 넘버링은, 기본적으로는 각각의 탄생월이 되어 있다. 다
 
 1.  **SWITCH ON**
       -
-        가: 아마미 하루카([나카무라 에리코](https://ko.wikipedia.org/wiki/나카무라_에리코 "wikilink"))
+        가: 아마미 하루카([나카무라 에리코](../Page/나카무라_에리코.md "wikilink"))
         작사: yura, 작곡: el, 편곡: [manzo](https://ko.wikipedia.org/wiki/Manzo "wikilink")
 2.  아침의 연속프티드라마 모두 팽이-시루-하루카와 하루카 씨 편—
 3.  라♪라♪라♪원더랜드
@@ -127,7 +127,7 @@ CD의 넘버링은, 기본적으로는 각각의 탄생월이 되어 있다. 다
 
 1.  **움찔♥러브 어트랙션**
       -
-        가: 후타미 아미/마미([시모다 아사미](https://ko.wikipedia.org/wiki/시모다_아사미 "wikilink"))
+        가: 후타미 아미/마미([시모다 아사미](../Page/시모다_아사미.md "wikilink"))
         작사: yura, 작곡·편곡: 야마구치 아키라언
 2.  아침의 연속프티드라마 모두 팽이-시루-아미·마미와 코아미·코마미 편-
 3.  라♪라♪라♪원더랜드
@@ -177,7 +177,7 @@ CD의 넘버링은, 기본적으로는 각각의 탄생월이 되어 있다. 다
 
 1.  **zone of fortune**
       -
-        가: 미우라 아즈사([타카하시 치아키](https://ko.wikipedia.org/wiki/타카하시_치아키 "wikilink"))
+        가: 미우라 아즈사([타카하시 치아키](../Page/타카하시_치아키.md "wikilink"))
         작사: yura, 작곡·편곡: eda
 2.  아침의 연속프티드라마 모두 팽이-시루-아즈사와 미우라씨 편—
 3.  라♪라♪라♪원더랜드
@@ -227,7 +227,7 @@ CD의 넘버링은, 기본적으로는 각각의 탄생월이 되어 있다. 다
 
 1.  **로열 스트레이트 플래시**
       -
-        가: 미나세 이오리([쿠기미야 리에](https://ko.wikipedia.org/wiki/쿠기미야_리에 "wikilink"))
+        가: 미나세 이오리([쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"))
         작사: yura, 작곡·편곡: [R·O·N](https://ko.wikipedia.org/wiki/R·O·N "wikilink")
 2.  아침의 연속프티드라마 모두 팽이-시루-이오리와 이오 편—
 3.  라♪라♪라♪원더랜드
@@ -252,7 +252,7 @@ CD의 넘버링은, 기본적으로는 각각의 탄생월이 되어 있다. 다
 
 1.  **행복의 레시피**
       -
-        가: 가나하 히비키([누마쿠라 마나미](https://ko.wikipedia.org/wiki/누마쿠라_마나미 "wikilink"))
+        가: 가나하 히비키([누마쿠라 마나미](../Page/누마쿠라_마나미.md "wikilink"))
         작사: yura, 작곡: T-Tipsy, 편곡: 야마구치 토시키
 2.  아침의 연속프티드라마 모두 팽이-시루-히비키와 치비키 편—
 3.  라♪라♪라♪원더랜드
@@ -277,7 +277,7 @@ CD의 넘버링은, 기본적으로는 각각의 탄생월이 되어 있다. 다
 
 1.  **Closet Fashion Lover**
       -
-        가: 호시이 미키([하세가와 아키코](https://ko.wikipedia.org/wiki/하세가와_아키코 "wikilink"))
+        가: 호시이 미키([하세가와 아키코](../Page/하세가와_아키코.md "wikilink"))
         작사: yura, 작곡: 야마자키 히로코, 편곡: 후쿠토미 마사유키
 2.  아침의 연속프티드라마 모두 팽이-시루-미키와 아후 편—
 3.  라♪라♪라♪원더랜드

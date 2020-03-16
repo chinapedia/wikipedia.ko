@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Another side of SINGLES II](https://ko.wikipedia.org/wiki/Another_side_of_SINGLES_II).
 
 
-《**another side of SINGLES II**》는 2002년 3월 6일에 발매된 [LUNA SEA의](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 첫 베스트 앨범이다.
+《**another side of SINGLES II**》는 2002년 3월 6일에 발매된 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 첫 베스트 앨범이다.
 
 ## 개요
 
-[LUNA SEA가](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink") 종막(해산)을 맞이한지 2년 3개월 만에 발매된 싱글 커플링 모음집. 9th 싱글 「STORM」부터 14th 싱글 「LOVE SONG」의 커플링 곡을 전곡 리마스터링하여 수록하였다. 마스터링 엔지니어는 하라다 미하루.
+[LUNA SEA가](../Page/LUNA_SEA.md "wikilink") 종막(해산)을 맞이한지 2년 3개월 만에 발매된 싱글 커플링 모음집. 9th 싱글 「STORM」부터 14th 싱글 「LOVE SONG」의 커플링 곡을 전곡 리마스터링하여 수록하였다. 마스터링 엔지니어는 하라다 미하루.
 
 ## 수록곡
 
-  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](https://ko.wikipedia.org/wiki/LUNA_SEA "wikilink")
+  - 전체 작사 ・ 작곡 ・ 편곡：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 <!-- end list -->
 

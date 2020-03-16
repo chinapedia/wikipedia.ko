@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TCP   ](https://ko.wikipedia.org/wiki/TCP___).
 
 
-[전송 제어 프로토콜](https://ko.wikipedia.org/wiki/전송_제어_프로토콜 "wikilink")(TCP)은 네트워크 혼잡 방지 알고리즘을 사용하여 네트워크에서 부하로 인해 패킷 손실이 발생하는 것을 줄인다. 이 문서에서는 TCP에서 사용하는 **TCP 혼잡 방지 알고리즘**을 다룬다.
+[전송 제어 프로토콜](../Page/전송_제어_프로토콜.md "wikilink")(TCP)은 네트워크 혼잡 방지 알고리즘을 사용하여 네트워크에서 부하로 인해 패킷 손실이 발생하는 것을 줄인다. 이 문서에서는 TCP에서 사용하는 **TCP 혼잡 방지 알고리즘**을 다룬다.
 
 ## TCP 타호와 TCP 리노
 
-네트워크 혼잡으로 인한 붕괴 상황(congestive collapse)를 방지하기 위해서, TCP는 다양한 혼잡 제어 방법을 활용한다. TCP는 각 연결마다 *[혼잡 창](https://ko.wikipedia.org/wiki/혼잡_창 "wikilink")*을 관리하는데, 혼잡 창은 [ACK 패킷이](https://ko.wikipedia.org/wiki/ACK_패킷 "wikilink") 수신되지 않은 패킷의 최대 개수를 제한하게 된다. 이러한 방법은 TCP가 [흐름 제어를](https://ko.wikipedia.org/wiki/흐름_제어 "wikilink") 위해 [슬라이딩 윈도를](https://ko.wikipedia.org/wiki/슬라이딩_윈도 "wikilink") 사용하는 것과 유사하다. TCP는 연결이 시작되었을 때와 시간 초과가 발생했을 때, **[느린 시작](https://ko.wikipedia.org/wiki/혼잡_제어#느린_시작 "wikilink")**\[1\] 이라는 상태에 진입하며, 작은 값에서 시작하여 점차 혼잡 창의 크기를 늘린다. 처음 혼잡 창의 크기는 최대 세그먼트 크기(MSS)의 두 배이다. 비록 작은 값으로 시작하지만, 혼잡 창 크기의 증가 속도는 굉장히 빠르다. 각 패킷에 대해 ACK 패킷을 받을 때마다, 혼잡 창의 크기는 MSS의 크기만큼 늘어난다. 따라서, 실질적으로 매 [왕복 지연 시간](https://ko.wikipedia.org/wiki/왕복_지연_시간 "wikilink")(RTT)마다 혼잡 창의 크기는 두 배가 된다.
+네트워크 혼잡으로 인한 붕괴 상황(congestive collapse)를 방지하기 위해서, TCP는 다양한 혼잡 제어 방법을 활용한다. TCP는 각 연결마다 *[혼잡 창](https://ko.wikipedia.org/wiki/혼잡_창 "wikilink")*을 관리하는데, 혼잡 창은 [ACK 패킷이](https://ko.wikipedia.org/wiki/ACK_패킷 "wikilink") 수신되지 않은 패킷의 최대 개수를 제한하게 된다. 이러한 방법은 TCP가 [흐름 제어를](https://ko.wikipedia.org/wiki/흐름_제어 "wikilink") 위해 [슬라이딩 윈도를](../Page/슬라이딩_윈도.md "wikilink") 사용하는 것과 유사하다. TCP는 연결이 시작되었을 때와 시간 초과가 발생했을 때, **[느린 시작](https://ko.wikipedia.org/wiki/혼잡_제어#느린_시작 "wikilink")**\[1\] 이라는 상태에 진입하며, 작은 값에서 시작하여 점차 혼잡 창의 크기를 늘린다. 처음 혼잡 창의 크기는 최대 세그먼트 크기(MSS)의 두 배이다. 비록 작은 값으로 시작하지만, 혼잡 창 크기의 증가 속도는 굉장히 빠르다. 각 패킷에 대해 ACK 패킷을 받을 때마다, 혼잡 창의 크기는 MSS의 크기만큼 늘어난다. 따라서, 실질적으로 매 [왕복 지연 시간](https://ko.wikipedia.org/wiki/왕복_지연_시간 "wikilink")(RTT)마다 혼잡 창의 크기는 두 배가 된다.
 
 혼잡 창의 크기가 느린 시작 한계(*ssthresh*)라고 불리는 한계점을 초과하면, TCP는 **혼잡 방지**라고 불리는 새로운 상태에 진입한다. 리눅스를 비롯한 몇몇 구현에서는 초기 ssthresh 값이 크기 때문에, 첫 느린 시작은 대개 패킷 손실이 일어난 후에야 끝난다. 그러나 느린 시작이 끝나면 ssthresh 값이 더 작은 값으로 조정되고, 이후의 느린 시작에 영향을 미치게 된다.
 
@@ -22,9 +22,9 @@
 
 ## TCP 베이거스
 
-1990년대 중반까지 모든 TCP는 오직 전송 버퍼에 있는 마지막으로 전송된 패킷을 통해서 시간 초과를 감지하거나 왕복 지연 시간을 측정했다. [애리조나 대학교](https://ko.wikipedia.org/wiki/애리조나_대학교 "wikilink") 소속의 래리 피터슨과 로렌스 브라크모는 네바다 주 최대의 도시 [라스베이거스](https://ko.wikipedia.org/wiki/라스베이거스 "wikilink")의 이름을 딴 TCP 베이거스(TCP Vegas)를 소개했다. 이 알고리즘에서 시간 초과의 감지와 왕복 지연 시간의 측정은 전송 버퍼에 있는 모든 패킷에 대해서 이루어졌다. 또한 TCP 베이거스는 혼잡 창에 대해서 [합 증가](https://ko.wikipedia.org/wiki/혼잡_제어#합_증가/곱_감소 "wikilink") 방식을 사용한다. 이 알고리즘은 피터슨의 연구실 바깥에서는 널리 구현되지 못했다. 다양한 TCP 혼잡 제어 알고리즘에 대한 비교 연구에서 TCP 베이거스는 TCP 큐빅과 함께 가장 부드러운 동작을 보여 주었다.
+1990년대 중반까지 모든 TCP는 오직 전송 버퍼에 있는 마지막으로 전송된 패킷을 통해서 시간 초과를 감지하거나 왕복 지연 시간을 측정했다. [애리조나 대학교](../Page/애리조나_대학교.md "wikilink") 소속의 래리 피터슨과 로렌스 브라크모는 네바다 주 최대의 도시 [라스베이거스](../Page/라스베이거스.md "wikilink")의 이름을 딴 TCP 베이거스(TCP Vegas)를 소개했다. 이 알고리즘에서 시간 초과의 감지와 왕복 지연 시간의 측정은 전송 버퍼에 있는 모든 패킷에 대해서 이루어졌다. 또한 TCP 베이거스는 혼잡 창에 대해서 [합 증가](https://ko.wikipedia.org/wiki/혼잡_제어#합_증가/곱_감소 "wikilink") 방식을 사용한다. 이 알고리즘은 피터슨의 연구실 바깥에서는 널리 구현되지 못했다. 다양한 TCP 혼잡 제어 알고리즘에 대한 비교 연구에서 TCP 베이거스는 TCP 큐빅과 함께 가장 부드러운 동작을 보여 주었다.
 
-TCP 베이거스는 [DD-WRT](https://ko.wikipedia.org/wiki/DD-WRT "wikilink") 펌웨어 v24 SP2의 기본 혼잡 제어 알고리즘으로 사용되었다.\[2\]
+TCP 베이거스는 [DD-WRT](../Page/DD-WRT.md "wikilink") 펌웨어 v24 SP2의 기본 혼잡 제어 알고리즘으로 사용되었다.\[2\]
 
 ## 참고 자료
 
