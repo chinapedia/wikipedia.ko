@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ReLIFE](https://ko.wikipedia.org/wiki/ReLIFE).
 
 
-《**ReLIFE**》(리라이프)는 [야요이소우](https://ko.wikipedia.org/wiki/야요이소우 "wikilink")가 [comico](https://ko.wikipedia.org/wiki/comico "wikilink")에서 연재하는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [웹툰이다](https://ko.wikipedia.org/wiki/학원_만화 "wikilink"). 2014년에는 comico 작품 중에서 처음으로 단행본화되었고,\[1\] 2016년 3월 현재 일본에서는 5권까지 간행되었다. 2016년 7월부터 9월까지 텔레비전 애니메이션이 방영되었다.
+《**ReLIFE**》(리라이프)는 [야요이소우](https://ko.wikipedia.org/wiki/야요이소우 "wikilink")가 [comico](https://ko.wikipedia.org/wiki/comico "wikilink")에서 연재하는 [일본](../Page/일본.md "wikilink")의 [웹툰이다](https://ko.wikipedia.org/wiki/학원_만화 "wikilink"). 2014년에는 comico 작품 중에서 처음으로 단행본화되었고,\[1\] 2016년 3월 현재 일본에서는 5권까지 간행되었다. 2016년 7월부터 9월까지 텔레비전 애니메이션이 방영되었다.
 
-수험과 취직을 계속해서 실패하고 [니트가](https://ko.wikipedia.org/wiki/니트족 "wikilink") 된 주인공이 사회복귀 실험으로써 고교 생활을 다시 하는 모습을 코미컬하게 그린다.\[2\]
+수험과 취직을 계속해서 실패하고 [니트가](../Page/니트족.md "wikilink") 된 주인공이 사회복귀 실험으로써 고교 생활을 다시 하는 모습을 코미컬하게 그린다.\[2\]
 
 ## 단행본
 
@@ -15,7 +15,7 @@
 
 ## 텔레비전 애니메이션
 
-2016년 7월부터 9월까지 [TOKYO MX](https://ko.wikipedia.org/wiki/도쿄_메트로폴리탄_텔레비전 "wikilink"), [BS11](https://ko.wikipedia.org/wiki/닛폰BS방송 "wikilink"), [도치기 TV](https://ko.wikipedia.org/wiki/도치기_TV "wikilink"), [군마 TV에서](https://ko.wikipedia.org/wiki/군마_TV "wikilink") 방송되었다. 2월 8일에 주인공인 카이자키와 히로인인 히시로를 담당하는 성우가 발표되었다.\[8\] 또, 2월 12일에 발매된 단행본 5권의 권말에서 제작진도 공개되었다. 기타 제작진 및 성우진은 3월 26, 27일에 개최된 「AnimeJapan2016」에서, 추가 성우진은 4월 25일에 실시된 [니코니코 생방송에서](https://ko.wikipedia.org/wiki/니코니코_생방송 "wikilink") 발표되었다.\[9\]
+2016년 7월부터 9월까지 [TOKYO MX](../Page/도쿄_메트로폴리탄_텔레비전.md "wikilink"), [BS11](../Page/닛폰BS방송.md "wikilink"), [도치기 TV](../Page/도치기_TV.md "wikilink"), [군마 TV에서](../Page/군마_TV.md "wikilink") 방송되었다. 2월 8일에 주인공인 카이자키와 히로인인 히시로를 담당하는 성우가 발표되었다.\[8\] 또, 2월 12일에 발매된 단행본 5권의 권말에서 제작진도 공개되었다. 기타 제작진 및 성우진은 3월 26, 27일에 개최된 「AnimeJapan2016」에서, 추가 성우진은 4월 25일에 실시된 [니코니코 생방송에서](https://ko.wikipedia.org/wiki/니코니코_생방송 "wikilink") 발표되었다.\[9\]
 
 2018년 3월부터 완결편 전 4화를 수록된 Blu-ray / DVD가 발매예정.
 
@@ -201,7 +201,7 @@
 
 ## 영화
 
-[2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [4월 15일에](https://ko.wikipedia.org/wiki/4월_15일 "wikilink") [쇼치쿠](https://ko.wikipedia.org/wiki/쇼치쿠 "wikilink") 배급으로 개봉 예정이다. 감독은 [후루사와 타케시](https://ko.wikipedia.org/wiki/후루사와_타케시 "wikilink"). 주연은 [나카가와 타이시와](../Page/나카가와_타이시.md "wikilink") [타이라 유나](https://ko.wikipedia.org/wiki/타이라_유나 "wikilink")\[10\]\[11\].
+[2017년](../Page/2017년.md "wikilink") [4월 15일에](../Page/4월_15일.md "wikilink") [쇼치쿠](../Page/쇼치쿠.md "wikilink") 배급으로 개봉 예정이다. 감독은 [후루사와 타케시](https://ko.wikipedia.org/wiki/후루사와_타케시 "wikilink"). 주연은 [나카가와 타이시와](../Page/나카가와_타이시.md "wikilink") [타이라 유나](https://ko.wikipedia.org/wiki/타이라_유나 "wikilink")\[10\]\[11\].
 
 ### 스태프
 
@@ -219,20 +219,20 @@
 
 ## 일본어 이외에서의 전개
 
-본작은 본래 [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink")로 된 작품이지만, 일본어 이외의 언어로도 연재되고 있다.
+본작은 본래 [일본어](../Page/일본어.md "wikilink")로 된 작품이지만, 일본어 이외의 언어로도 연재되고 있다.
 
-  - [한국어](https://ko.wikipedia.org/wiki/한국어 "wikilink")
-    [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [10월 9일부터](https://ko.wikipedia.org/wiki/10월_9일 "wikilink") 한국판 comico에서 《[리라이프 -Relife-](http://comico.toast.com/titles/59)》가 연재되고 있다.
+  - [한국어](../Page/한국어.md "wikilink")
+    [2014년](../Page/2014년.md "wikilink") [10월 9일부터](../Page/10월_9일.md "wikilink") 한국판 comico에서 《[리라이프 -Relife-](http://comico.toast.com/titles/59)》가 연재되고 있다.
 
 <!-- end list -->
 
   - [중국어 (정체자・타이완)](https://ko.wikipedia.org/wiki/정체자 "wikilink")
-    2014년 [6월 27일부터](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 대만판 comico에서 《[ReLIFE ](http://www.comico.com.tw/articleList.nhn?titleNo=1)》가 연재되고 있다.
+    2014년 [6월 27일부터](../Page/6월_27일.md "wikilink") 대만판 comico에서 《[ReLIFE ](http://www.comico.com.tw/articleList.nhn?titleNo=1)》가 연재되고 있다.
 
 <!-- end list -->
 
-  - [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")
-    [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 21일부터](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") Crunchyroll에서 《[ReLIFE](https://web.archive.org/web/20160402103242/http://www.crunchyroll.com/comics/manga/relife/volumes)》가 게재되고 있다.\[12\]
+  - [영어](../Page/영어.md "wikilink")
+    [2015년](../Page/2015년.md "wikilink") [12월 21일부터](../Page/12월_21일.md "wikilink") Crunchyroll에서 《[ReLIFE](https://web.archive.org/web/20160402103242/http://www.crunchyroll.com/comics/manga/relife/volumes)》가 게재되고 있다.\[12\]
 
 ## 각주
 

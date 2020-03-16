@@ -104,7 +104,7 @@
     생일 - 9월 12일 (처녀 자리)
     혈액형 - O형
     좋아하는 음식 - 치즈 케이크
-    싫어하는 음식 - [마늘](https://ko.wikipedia.org/wiki/마늘 "wikilink")
+    싫어하는 음식 - [마늘](../Page/마늘.md "wikilink")
     신장 - 159cm
     쓰리 사이즈 - B80/W58/H80
     멤버 넘버 - 2
@@ -274,32 +274,32 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/우리의_LIVE_그대와의_LIFE" title="wikilink">우리의 LIVE 그대와의 LIFE</a></strong>()</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/8월_13일" title="wikilink">8월 13일</a> (여름 코믹 마켓 한정판)<br />
-<a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/8월_25일" title="wikilink">8월 25일</a> (통상판)</p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/8월_13일.md" title="wikilink">8월 13일</a> (여름 코믹 마켓 한정판)<br />
+<a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/8월_25일.md" title="wikilink">8월 25일</a> (통상판)</p></td>
 <td><p>LACM-4738</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Snow_halation" title="wikilink">Snow halation</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a> <a href="https://ko.wikipedia.org/wiki/12월_22일" title="wikilink">12월 22일</a></p></td>
+<td><p><strong><a href="../Page/Snow_halation.md" title="wikilink">Snow halation</a></strong></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/12월_22일.md" title="wikilink">12월 22일</a></p></td>
 <td><p>LACM-4776</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/여름빛_미소로_1,_2,_Jump!" title="wikilink">여름빛 미소로 1, 2, Jump!</a></strong>()</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/8월_24일" title="wikilink">8월 24일</a></p></td>
+<td><p><strong><a href="../Page/여름빛_미소로_1,_2,_Jump!.md" title="wikilink">여름빛 미소로 1, 2, Jump!</a></strong>()</p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
 <td><p>LACM-4845</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/꼬옥_“love”로_접근_중!" title="wikilink">꼬옥 “love”로 접근 중!</a></strong>()</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/2월_15일" title="wikilink">2월 15일</a></p></td>
+<td><p><strong><a href="../Page/꼬옥_“love”로_접근_중!.md" title="wikilink">꼬옥 “love”로 접근 중!</a></strong>()</p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/2월_15일.md" title="wikilink">2월 15일</a></p></td>
 <td><p>LACM-4907</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/Wonderful_Rush" title="wikilink">Wonderful Rush</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/9월_5일" title="wikilink">9월 5일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a></p></td>
 <td><p>LACM-4979</p></td>
 </tr>
 <tr class="even">
@@ -312,7 +312,7 @@
 <td><p>7th<br />
 (FINAL)</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/MOMENT_RING" title="wikilink">MOMENT RING</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/3월_2일" title="wikilink">3월 2일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/3월_2일.md" title="wikilink">3월 2일</a></p></td>
 <td><p>LACM-14449</p></td>
 </tr>
 </tbody>
@@ -338,6 +338,6 @@
 
 ## 같이 보기
 
-  - [Aqours](https://ko.wikipedia.org/wiki/Aqours "wikilink")
+  - [Aqours](../Page/Aqours.md "wikilink")
 
 [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:러브 라이브\!](https://ko.wikipedia.org/wiki/분류:러브_라이브! "wikilink") [분류:가공의 음악 그룹](https://ko.wikipedia.org/wiki/분류:가공의_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink")

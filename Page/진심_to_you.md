@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ to you](https://ko.wikipedia.org/wiki/_to_you).
 
 
-《**진심 to you**》()는 [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [11월 20일에](https://ko.wikipedia.org/wiki/11월_20일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 첫 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+《**진심 to you**》()는 [2013년](../Page/2013년.md "wikilink") [11월 20일에](../Page/11월_20일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 첫 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

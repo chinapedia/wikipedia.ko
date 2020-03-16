@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SS501 THE 1st ASIA TOUR PERSONA](https://ko.wikipedia.org/wiki/SS501_THE_1st_ASIA_TOUR_PERSONA).
 
 
-**SS501 THE 1st ASIA TOUR "PERSONA"**은 대한민국의 음악 그룹 [SS501](https://ko.wikipedia.org/wiki/SS501 "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+**SS501 THE 1st ASIA TOUR "PERSONA"**은 대한민국의 음악 그룹 [SS501](../Page/SS501.md "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
@@ -24,7 +24,7 @@
 <td><p>2009년 8월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a>[2]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[2]</p></td>
 <td><p>통산 20,000명</p></td>
 </tr>
 <tr class="even">
@@ -64,7 +64,7 @@
 </tr>
 <tr class="odd">
 <td><p>2010년 2월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임펙트 아레나 무앙 통 타니</p></td>
 <td><p>10,000명</p></td>
@@ -97,9 +97,9 @@
 
 ## 제작
 
-  - [SS501](https://ko.wikipedia.org/wiki/SS501 "wikilink") ([김현중](https://ko.wikipedia.org/wiki/김현중 "wikilink"), [허영생](https://ko.wikipedia.org/wiki/허영생 "wikilink"), [김규종](https://ko.wikipedia.org/wiki/김규종 "wikilink"), [박정민](https://ko.wikipedia.org/wiki/박정민_\(1987년\) "wikilink"), [김형준](https://ko.wikipedia.org/wiki/김형준_\(1987년\) "wikilink"))
-  - 주최 : [DSP 미디어](https://ko.wikipedia.org/wiki/DSP_미디어 "wikilink"), 메이스엔터테인먼트
-  - 후원 : [옥션](https://ko.wikipedia.org/wiki/옥션 "wikilink"), [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - [SS501](../Page/SS501.md "wikilink") ([김현중](../Page/김현중.md "wikilink"), [허영생](../Page/허영생.md "wikilink"), [김규종](../Page/김규종.md "wikilink"), [박정민](https://ko.wikipedia.org/wiki/박정민_\(1987년\) "wikilink"), [김형준](../Page/김형준_\(1987년\).md "wikilink"))
+  - 주최 : [DSP 미디어](../Page/DSP_미디어.md "wikilink"), 메이스엔터테인먼트
+  - 후원 : [옥션](https://ko.wikipedia.org/wiki/옥션 "wikilink"), [YES24](../Page/YES24.md "wikilink")
 
 ## 각주 및 인용
 

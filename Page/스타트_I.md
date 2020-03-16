@@ -7,7 +7,7 @@
 
 ## 제안
 
-1982년 5월 9일, [로널드 레이건](https://ko.wikipedia.org/wiki/로널드_레이건 "wikilink") 대통령은 모교인 [유레카 대학교에서](https://ko.wikipedia.org/wiki/유레카_대학교 "wikilink") 미소간에 핵무기를 감축하자고 선언했다. 1982년 6월 29일 [로널드 레이건](https://ko.wikipedia.org/wiki/로널드_레이건 "wikilink") 대통령은 스위스 [제네바](https://ko.wikipedia.org/wiki/제네바 "wikilink")에 스타트 I 조약안을 제출했다. 당시 레이건 대통령은 1972년 [SALT II](https://ko.wikipedia.org/wiki/SALT_II "wikilink") 조약에 이은 SALT III 제안이라고 불렀다.
+1982년 5월 9일, [로널드 레이건](../Page/로널드_레이건.md "wikilink") 대통령은 모교인 [유레카 대학교에서](https://ko.wikipedia.org/wiki/유레카_대학교 "wikilink") 미소간에 핵무기를 감축하자고 선언했다. 1982년 6월 29일 [로널드 레이건](../Page/로널드_레이건.md "wikilink") 대통령은 스위스 [제네바](../Page/제네바.md "wikilink")에 스타트 I 조약안을 제출했다. 당시 레이건 대통령은 1972년 [SALT II](https://ko.wikipedia.org/wiki/SALT_II "wikilink") 조약에 이은 SALT III 제안이라고 불렀다.
 
 ## 협상
 
@@ -15,7 +15,7 @@
 
 ## 서명
 
-1991년 7월 31일 미국 [조지 H. W. 부시](https://ko.wikipedia.org/wiki/조지_H._W._부시 "wikilink") 대통령과 소련 [미하일 고르바초프](https://ko.wikipedia.org/wiki/미하일_고르바초프 "wikilink") 대통령이 모스크바에서 서명했다.
+1991년 7월 31일 미국 [조지 H. W. 부시](../Page/조지_H._W._부시.md "wikilink") 대통령과 소련 [미하일 고르바초프](../Page/미하일_고르바초프.md "wikilink") 대통령이 모스크바에서 서명했다.
 
 ## 외부 링크
 

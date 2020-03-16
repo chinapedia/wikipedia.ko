@@ -41,13 +41,13 @@ BBC 이스트미들랜즈는 [BBC 레드 버튼에](https://ko.wikipedia.org/wik
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Auntie_Beeb's_Nottingham_Premises_-_geograph.org.uk_-_457345.jpg "wikilink")
 
-1991년에는 지역 텔레비전 방송국, 라디오 노팅엄, BBC 미스트이들랜즈 사무소가 맨즈필드 로의 요크 하우스에 위치해 있었다. 이곳은 1999년 9월부터 텔레비전 스튜디오는 그대로 남긴 채 [노팅엄 트렌트 대학교](https://ko.wikipedia.org/wiki/노팅엄_트렌트_대학교 "wikilink") 방송언론센터로 바뀌었으며, 현재는 곧 폐쇄될 예정이다.\[1\] 노팅엄 트렌트 대학교도 2009년에 방송센터를 골드스미스 가에 자리한 차우서 빌딩으로 이전했다.
+1991년에는 지역 텔레비전 방송국, 라디오 노팅엄, BBC 미스트이들랜즈 사무소가 맨즈필드 로의 요크 하우스에 위치해 있었다. 이곳은 1999년 9월부터 텔레비전 스튜디오는 그대로 남긴 채 [노팅엄 트렌트 대학교](../Page/노팅엄_트렌트_대학교.md "wikilink") 방송언론센터로 바뀌었으며, 현재는 곧 폐쇄될 예정이다.\[1\] 노팅엄 트렌트 대학교도 2009년에 방송센터를 골드스미스 가에 자리한 차우서 빌딩으로 이전했다.
 
 ### 본부 신축
 
-노팅엄 본부는 지역국이 신설되면서 본격적으로 지어지기 시작했고, 최신 장비와 시설을 갖춘 채 1999년 완공됐다. 노팅엄 본부에는 지역 뉴스 프로그램용 작은 스튜디오인 \<[이스트미들랜즈 투데이](https://ko.wikipedia.org/wiki/이스트미들랜즈_투데이 "wikilink")\> 뉴스룸과 [BBC 라디오 노팅엄](https://ko.wikipedia.org/wiki/BBC_라디오_노팅엄 "wikilink") 스튜디오가 들어서 있다. [노팅엄](https://ko.wikipedia.org/wiki/노팅엄 "wikilink") 런던 로에 위치해 있다.\[2\]
+노팅엄 본부는 지역국이 신설되면서 본격적으로 지어지기 시작했고, 최신 장비와 시설을 갖춘 채 1999년 완공됐다. 노팅엄 본부에는 지역 뉴스 프로그램용 작은 스튜디오인 \<[이스트미들랜즈 투데이](https://ko.wikipedia.org/wiki/이스트미들랜즈_투데이 "wikilink")\> 뉴스룸과 [BBC 라디오 노팅엄](https://ko.wikipedia.org/wiki/BBC_라디오_노팅엄 "wikilink") 스튜디오가 들어서 있다. [노팅엄](../Page/노팅엄.md "wikilink") 런던 로에 위치해 있다.\[2\]
 
-BBC 이스트미들랜즈는 총괄본부와 더불어, [더비](https://ko.wikipedia.org/wiki/더비 "wikilink") 세인트 헬렌스 가와 [레스터](https://ko.wikipedia.org/wiki/레스터 "wikilink") 세인트 니콜라스 플레이스에 사무소를 두고 있으며 [BBC 라디오 더비와](https://ko.wikipedia.org/wiki/BBC_라디오_더비 "wikilink") [BBC 라디오 레스터가](https://ko.wikipedia.org/wiki/BBC_라디오_레스터 "wikilink") 각각 자리잡고 있다. 이들 지역 사무소들도 모두 이스트미들랜즈 투데이에 지역뉴스를 내보내는 보도국을 갖추고 있다.
+BBC 이스트미들랜즈는 총괄본부와 더불어, [더비](https://ko.wikipedia.org/wiki/더비 "wikilink") 세인트 헬렌스 가와 [레스터](../Page/레스터.md "wikilink") 세인트 니콜라스 플레이스에 사무소를 두고 있으며 [BBC 라디오 더비와](https://ko.wikipedia.org/wiki/BBC_라디오_더비 "wikilink") [BBC 라디오 레스터가](https://ko.wikipedia.org/wiki/BBC_라디오_레스터 "wikilink") 각각 자리잡고 있다. 이들 지역 사무소들도 모두 이스트미들랜즈 투데이에 지역뉴스를 내보내는 보도국을 갖추고 있다.
 
 ## 더 보기
 

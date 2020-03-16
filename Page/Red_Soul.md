@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Red Soul](https://ko.wikipedia.org/wiki/Red_Soul).
 
 
-〈**Red Soul**〉(레드 소울, )는 일본의 음악 그룹 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 열여섯 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [9월 19일에](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**Red Soul**〉(레드 소울, )는 일본의 음악 그룹 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 열여섯 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2007년](../Page/2007년.md "wikilink") [9월 19일에](../Page/9월_19일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 개요
 

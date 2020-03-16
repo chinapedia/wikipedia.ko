@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [HoneyWorks](https://ko.wikipedia.org/wiki/HoneyWorks).
 
 
-**HoneyWorks**(허니웍스)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [인크스 투엔터](https://ko.wikipedia.org/wiki/인크스_투엔터 "wikilink") 소속의 크리에이터 [유닛](https://ko.wikipedia.org/wiki/유닛 "wikilink")이다. 2010년부터 영상 투고 사이트 [니코니코 동화에서](https://ko.wikipedia.org/wiki/니코니코_동화 "wikilink") [VOCALOID](https://ko.wikipedia.org/wiki/보컬로이드 "wikilink") 오리지널 곡([영상](https://ko.wikipedia.org/wiki/동영상 "wikilink"))의 제작 활동을 시작하여, 2014년 1월에 메이저로 데뷔했다.\[1\] 2014년 5월부터는 「[CHiCO](../Page/CHiCO.md "wikilink") with HoneyWorks」라는 명의로도 활동하고 있다.\[2\]
+**HoneyWorks**(허니웍스)는 [일본](../Page/일본.md "wikilink")의 [인크스 투엔터](https://ko.wikipedia.org/wiki/인크스_투엔터 "wikilink") 소속의 크리에이터 [유닛](https://ko.wikipedia.org/wiki/유닛 "wikilink")이다. 2010년부터 영상 투고 사이트 [니코니코 동화에서](../Page/니코니코_동화.md "wikilink") [VOCALOID](../Page/보컬로이드.md "wikilink") 오리지널 곡([영상](https://ko.wikipedia.org/wiki/동영상 "wikilink"))의 제작 활동을 시작하여, 2014년 1월에 메이저로 데뷔했다.\[1\] 2014년 5월부터는 「[CHiCO](../Page/CHiCO.md "wikilink") with HoneyWorks」라는 명의로도 활동하고 있다.\[2\]
 
 ## 멤버
 
   - **Gom** (ゴム, 주로 [작편곡](https://ko.wikipedia.org/wiki/작곡가 "wikilink")/[프로듀스](https://ko.wikipedia.org/wiki/프로듀스 "wikilink")를 담당한다.)
-  - **shito** (シト, 주로 작편곡/프로듀스/[베이스를](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink") 담당한다.)
-  - **야마코** (ヤマコ, [일러스트](https://ko.wikipedia.org/wiki/삽화 "wikilink")/[무비를](https://ko.wikipedia.org/wiki/뮤직_비디오 "wikilink") 담당한다.)
+  - **shito** (シト, 주로 작편곡/프로듀스/[베이스를](../Page/베이스_기타.md "wikilink") 담당한다.)
+  - **야마코** (ヤマコ, [일러스트](../Page/삽화.md "wikilink")/[무비를](../Page/뮤직_비디오.md "wikilink") 담당한다.)
 
 ## 서포트 멤버
 
-  - **Oji** (オジ, [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")를 담당한다.)<span class="official-website" contenteditable="false"></span>
-  - **로코루 **(ろこる, [일러스트를](https://ko.wikipedia.org/wiki/삽화 "wikilink") 담당한다.<span class="official-website" contenteditable="false"></span>)
+  - **Oji** (オジ, [기타](../Page/기타.md "wikilink")를 담당한다.)<span class="official-website" contenteditable="false"></span>
+  - **로코루 **(ろこる, [일러스트를](../Page/삽화.md "wikilink") 담당한다.<span class="official-website" contenteditable="false"></span>)
   - **ziro** (ジロ, 무비를 담당한다.)
-  - **cake** (ケイキ, [피아노](https://ko.wikipedia.org/wiki/피아노 "wikilink")/[키보드를](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink") 담당한다.<span class="official-website" contenteditable="false"></span>)
+  - **cake** (ケイキ, [피아노](../Page/피아노.md "wikilink")/[키보드를](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink") 담당한다.<span class="official-website" contenteditable="false"></span>)
   - **AtsuyuK\!** (アツユキ, [드럼을](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink") 담당한다.<span class="official-website" contenteditable="false"></span>)
-  - **모게랏타** (モゲラッタ, [일러스트](https://ko.wikipedia.org/wiki/삽화 "wikilink")/무비를 담당한다.<span class="official-website" contenteditable="false"></span>)
+  - **모게랏타** (モゲラッタ, [일러스트](../Page/삽화.md "wikilink")/무비를 담당한다.<span class="official-website" contenteditable="false"></span>)
   - **Kaoru** (カオル, [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")/[작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")을 담당한다.)
 
 ## 릴리스

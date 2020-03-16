@@ -5,7 +5,7 @@
 
 ## 배경
 
-[왼쪽](https://ko.wikipedia.org/wiki/파일:Bennett_Foddy.jpg "wikilink") QWOP는 원래 베넷 포디가 개발하여 2008년 11월에 그의 사이트(Foddy.net)에 게시하였다. 베넷 포디가 [옥스퍼드 대학교의](https://ko.wikipedia.org/wiki/옥스퍼드_대학교 "wikilink") 일부인 옥스퍼드 마틴 스쿨의 생명윤리학 부국장 및 선임 연구원이었을 때.\[2\]\[3\] 그는 철학 박사 학위 논문을 미루며 게임을 만들었다.\[4\] 그는 5세때 첫 컴퓨터를 얻은 이후 계속 게임을 해왔다.\[5\]
+[왼쪽](https://ko.wikipedia.org/wiki/파일:Bennett_Foddy.jpg "wikilink") QWOP는 원래 베넷 포디가 개발하여 2008년 11월에 그의 사이트(Foddy.net)에 게시하였다. 베넷 포디가 [옥스퍼드 대학교의](../Page/옥스퍼드_대학교.md "wikilink") 일부인 옥스퍼드 마틴 스쿨의 생명윤리학 부국장 및 선임 연구원이었을 때.\[2\]\[3\] 그는 철학 박사 학위 논문을 미루며 게임을 만들었다.\[4\] 그는 5세때 첫 컴퓨터를 얻은 이후 계속 게임을 해왔다.\[5\]
 
 ## 게임플레이
 
@@ -17,9 +17,9 @@ QWOP의 목적은 간단하지만 게임이 출시 된 이래로이 게임은 Q,
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:QWOP_Featured_in_2011.jpg "wikilink") 2011년 7월 27일에 QWOP는 비디오 게임 예술 및 문화 회사인 킬 스크린(Kill Screen)이 주최하는 "아케이드 (Arcade)"이벤트의 일부로 [뉴욕 근대미술관에서](https://ko.wikipedia.org/wiki/뉴욕_근대미술관 "wikilink") 상영되었다.\[13\]
 
-[기네스 세계 기록은](https://ko.wikipedia.org/wiki/기네스_세계_기록 "wikilink") 2013년 4월 10일에 이 게임에서 100m를 51초만에 가장 빠르게 달린 카르타고의 거주자 인 Roshan Ramachandra에게 상을 수여했다.\[14\]
+[기네스 세계 기록은](../Page/기네스_세계_기록.md "wikilink") 2013년 4월 10일에 이 게임에서 100m를 51초만에 가장 빠르게 달린 카르타고의 거주자 인 Roshan Ramachandra에게 상을 수여했다.\[14\]
 
-QWOP는 미국 시트콤 *[The Office](https://ko.wikipedia.org/wiki/오피스_\(미국의_시트콤\) "wikilink")*의 시즌9에 등장하였다.\[15\]
+QWOP는 미국 시트콤 *[The Office](../Page/오피스_\(미국의_시트콤\).md "wikilink")*의 시즌9에 등장하였다.\[15\]
 
 ## 다른 버전들
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAPPY ENDING](https://ko.wikipedia.org/wiki/HAPPY_ENDING).
 
 
-《**HAPPY ENDING**》(해피 엔딩)은 대한민국의 음악 그룹 [다이아의](../Page/다이아_\(음악_그룹\).md "wikilink") 첫 번째 [미니음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink") [(주)인터파크에서](https://ko.wikipedia.org/wiki/인터파크 "wikilink") 발매됐다.
+《**HAPPY ENDING**》(해피 엔딩)은 대한민국의 음악 그룹 [다이아의](../Page/다이아_\(음악_그룹\).md "wikilink") 첫 번째 [미니음반이다](../Page/익스텐디드_플레이.md "wikilink"). [2016년](../Page/2016년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink") [(주)인터파크에서](../Page/인터파크.md "wikilink") 발매됐다.
 
 ## 개요
 

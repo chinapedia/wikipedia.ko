@@ -3,7 +3,7 @@
 
 **On the Run Tour (Beyoncé and Jay Z)**는 미국의 싱어송라이터 [비욘세 놀스와](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink"), [제이 지](https://ko.wikipedia.org/wiki/제이_지 "wikilink") 부부의 첫 합동 [콘서트 투어이자](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"), 스타디움 투어이다.
 
-투어는 2014년 6월 25일 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [마이애미가든스](https://ko.wikipedia.org/wiki/마이애미가든스 "wikilink")부터 시작으로 2014년 9월 13일 [프랑스](https://ko.wikipedia.org/wiki/프랑스 "wikilink") [파리까지](https://ko.wikipedia.org/wiki/파리_\(프랑스\) "wikilink") 총 21번 열렸다.
+투어는 2014년 6월 25일 [미국](../Page/미국.md "wikilink")의 [마이애미가든스](https://ko.wikipedia.org/wiki/마이애미가든스 "wikilink")부터 시작으로 2014년 9월 13일 [프랑스](../Page/프랑스.md "wikilink") [파리까지](../Page/파리_\(프랑스\).md "wikilink") 총 21번 열렸다.
 
 ## 세트리스트
 
@@ -72,7 +72,7 @@
 | July 1, 2014       | [Foxborough](https://ko.wikipedia.org/wiki/Foxborough "wikilink")                | [Gillette Stadium](https://ko.wikipedia.org/wiki/Gillette_Stadium "wikilink")                 | 52,802 / 52,802                                                                         | $5,738,114        |             |
 | July 5, 2014       | [Philadelphia](https://ko.wikipedia.org/wiki/Philadelphia "wikilink")            | [Citizens Bank Park](https://ko.wikipedia.org/wiki/Citizens_Bank_Park "wikilink")             | 40,634 / 40,634                                                                         | $5,141,381        |             |
 | July 7, 2014       | [Baltimore](https://ko.wikipedia.org/wiki/Baltimore "wikilink")                  | [M\&T Bank Stadium](https://ko.wikipedia.org/wiki/M&T_Bank_Stadium "wikilink")                | 51,212 / 51,212                                                                         | $5,016,036        |             |
-| July 9, 2014       | [토론토](https://ko.wikipedia.org/wiki/토론토 "wikilink")                              | [Canada](https://ko.wikipedia.org/wiki/Canada "wikilink")                                     | [Rogers Centre](https://ko.wikipedia.org/wiki/Rogers_Centre "wikilink")                 | 48,029 / 48,029   | $4,943,390  |
+| July 9, 2014       | [토론토](../Page/토론토.md "wikilink")                                                 | [Canada](https://ko.wikipedia.org/wiki/Canada "wikilink")                                     | [Rogers Centre](https://ko.wikipedia.org/wiki/Rogers_Centre "wikilink")                 | 48,029 / 48,029   | $4,943,390  |
 | July 11, 2014      | [East Rutherford](https://ko.wikipedia.org/wiki/East_Rutherford "wikilink")      | United States                                                                                 | [MetLife Stadium](https://ko.wikipedia.org/wiki/MetLife_Stadium "wikilink")             | 89,165 / 89,165   | $11,544,187 |
 | July 12, 2014      |                                                                                  |                                                                                               |                                                                                         |                   |             |
 | July 15, 2014      | [Atlanta](https://ko.wikipedia.org/wiki/Atlanta "wikilink")                      | [Georgia Dome](https://ko.wikipedia.org/wiki/Georgia_Dome "wikilink")                         | 48,938 / 48,938                                                                         | $5,210,602        |             |

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [KAL  ](https://ko.wikipedia.org/wiki/KAL__).
 
 
-**KAL컵 코리아 오픈 테니스 선수권 대회**는 1987년에서 1996년까지 개최되었던 [그랑프리](https://ko.wikipedia.org/wiki/그랑프리_테니스_서킷 "wikilink"), [ATP투어](https://ko.wikipedia.org/wiki/프로_테니스_협회 "wikilink") 대회이다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")에서 [대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink")의 후원으로 열렸으며 실외 하드 코트에서 진행되었다.
+**KAL컵 코리아 오픈 테니스 선수권 대회**는 1987년에서 1996년까지 개최되었던 [그랑프리](https://ko.wikipedia.org/wiki/그랑프리_테니스_서킷 "wikilink"), [ATP투어](../Page/프로_테니스_협회.md "wikilink") 대회이다. [대한민국](../Page/대한민국.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")에서 [대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink")의 후원으로 열렸으며 실외 하드 코트에서 진행되었다.
 
-1987년 총상금 9만 2천 달러로 대회가 창설되어 1996년에는 총상금 20만 달러로 대회가 진행되었다.\[1\]\[2\] 그러나 1996년 [ATP측에서](https://ko.wikipedia.org/wiki/프로_테니스_협회 "wikilink") 대회 기간인 일주일 동안 규정 관중(1만7500명)의 75%를 이상을 채우지 못했다는 이유로 내년부터 대회를 열수 없다고 통보하였고 결국 폐지 되었다.\[3\]
+1987년 총상금 9만 2천 달러로 대회가 창설되어 1996년에는 총상금 20만 달러로 대회가 진행되었다.\[1\]\[2\] 그러나 1996년 [ATP측에서](../Page/프로_테니스_협회.md "wikilink") 대회 기간인 일주일 동안 규정 관중(1만7500명)의 75%를 이상을 채우지 못했다는 이유로 내년부터 대회를 열수 없다고 통보하였고 결국 폐지 되었다.\[3\]
 
 ## 역대 결승
 
@@ -22,7 +22,7 @@
 <tr class="odd">
 <td><p>1987</p></td>
 <td><p>짐 그랩</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/앤드리_애거시" title="wikilink">앤드리 애거시</a></p></td>
+<td><p><a href="../Page/앤드리_애거시.md" title="wikilink">앤드리 애거시</a></p></td>
 <td><p>1–6, 6–4, 6–2</p></td>
 </tr>
 <tr class="even">
@@ -194,8 +194,8 @@
 
 ## 같이 보기
 
-  - [프로 테니스 협회](https://ko.wikipedia.org/wiki/프로_테니스_협회 "wikilink")
-  - [코리아 오픈 (테니스)](https://ko.wikipedia.org/wiki/코리아_오픈_\(테니스\) "wikilink")
+  - [프로 테니스 협회](../Page/프로_테니스_협회.md "wikilink")
+  - [코리아 오픈 (테니스)](../Page/코리아_오픈_\(테니스\).md "wikilink")
   - [대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink")
 
 ## 각주

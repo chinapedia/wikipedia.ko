@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DAYS \(EP\)](https://ko.wikipedia.org/wiki/DAYS_\(EP\)).
 
 
-《**DAYS**》(데이즈)는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [5월 4일에](https://ko.wikipedia.org/wiki/5월_4일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 두 번째 [미니음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+《**DAYS**》(데이즈)는 [2011년](../Page/2011년.md "wikilink") [5월 4일에](../Page/5월_4일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 두 번째 [미니음반이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 개요
 
@@ -30,7 +30,7 @@
       - 작사: leonn / 랩작사: 히다카 미츠히로 / 작곡: 히비노 히로후미 / 편곡: 스즈키 히로토
     <!-- end list -->
       -
-        마지막 랩 부분에는 게스트로 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 히다카 미츠히로가 참가하고 있다.
+        마지막 랩 부분에는 게스트로 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 히다카 미츠히로가 참가하고 있다.
 5.  **점점 GROW UP\!**()
       - 작사: Mio Aoyama / 작곡 · 편곡: 와타나베 토루
 6.  **춘하추동**()

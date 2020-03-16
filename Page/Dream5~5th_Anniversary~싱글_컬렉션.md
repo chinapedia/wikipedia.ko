@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dream5\~5th Anniversary\~ ](https://ko.wikipedia.org/wiki/Dream5\~5th_Anniversary\~_).
 
 
-《**Dream5\~5th Anniversary\~싱글 컬렉션**》(드림 파이브 피프스 애니버서리 싱글 컬렉션, )은 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [2월 11일에](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 첫 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
+《**Dream5\~5th Anniversary\~싱글 컬렉션**》(드림 파이브 피프스 애니버서리 싱글 컬렉션, )은 [2015년](../Page/2015년.md "wikilink") [2월 11일에](../Page/2월_11일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 첫 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
 
 ## 개요
 
@@ -10,13 +10,13 @@
 
 ## Dream5 Tour 2015\~싱글 컬렉션\~
 
-  - 이 음반 발매에 힘입어 2015년 5월부터 6월에 걸쳐서 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 두 번째 단독 라이브 투어 《**Dream5 Tour 2015\~싱글 컬렉션\~**》의 개최가 발표됐다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")에 투어를 한 도쿄/나고야/오사카에 덧붙여서, 새롭게 후쿠오카와 센다이에서의 개최가 결정됐다. 투어의 마지막은 5주년 라이브를 한 [Zepp Divercity(TOKYO)에서](https://ko.wikipedia.org/wiki/Zepp#목록 "wikilink") [6월 20일에](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") 행해지게 됨이 발표됐다. 또, 이번 투어에서 Dream5의 [공식 어플에](https://ko.wikipedia.org/wiki/Dream5#어플 "wikilink") 의한 티켓 선행 예약이 진행됐다. 스케줄은 아래와 같다.
-      - [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [5월 1일](https://ko.wikipedia.org/wiki/5월_1일 "wikilink") (금) - 우메다 CLUB QUATTRO
-      - 2015년 [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink") (토) - 나고야 CLUB QUATTRO ※주야 2회 공연
-      - 2015년 [5월 6일](https://ko.wikipedia.org/wiki/5월_6일 "wikilink") (수, 축일) - 시부야 CLUB QUATTRO ※주야 2회 공연
-      - 2015년 [5월 16일](https://ko.wikipedia.org/wiki/5월_16일 "wikilink") (토) - 후쿠오라 임즈홀
-      - 2015년 [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink") (일) - 센다이 darwin
-      - 2015년 [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") (토) - [Zepp DiverCity (TOKYO)](https://ko.wikipedia.org/wiki/Zepp#목록 "wikilink")
+  - 이 음반 발매에 힘입어 2015년 5월부터 6월에 걸쳐서 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 두 번째 단독 라이브 투어 《**Dream5 Tour 2015\~싱글 컬렉션\~**》의 개최가 발표됐다. [2014년](../Page/2014년.md "wikilink")에 투어를 한 도쿄/나고야/오사카에 덧붙여서, 새롭게 후쿠오카와 센다이에서의 개최가 결정됐다. 투어의 마지막은 5주년 라이브를 한 [Zepp Divercity(TOKYO)에서](https://ko.wikipedia.org/wiki/Zepp#목록 "wikilink") [6월 20일에](../Page/6월_20일.md "wikilink") 행해지게 됨이 발표됐다. 또, 이번 투어에서 Dream5의 [공식 어플에](https://ko.wikipedia.org/wiki/Dream5#어플 "wikilink") 의한 티켓 선행 예약이 진행됐다. 스케줄은 아래와 같다.
+      - [2015년](../Page/2015년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") (금) - 우메다 CLUB QUATTRO
+      - 2015년 [5월 2일](../Page/5월_2일.md "wikilink") (토) - 나고야 CLUB QUATTRO ※주야 2회 공연
+      - 2015년 [5월 6일](../Page/5월_6일.md "wikilink") (수, 축일) - 시부야 CLUB QUATTRO ※주야 2회 공연
+      - 2015년 [5월 16일](../Page/5월_16일.md "wikilink") (토) - 후쿠오라 임즈홀
+      - 2015년 [6월 7일](../Page/6월_7일.md "wikilink") (일) - 센다이 darwin
+      - 2015년 [6월 20일](../Page/6월_20일.md "wikilink") (토) - [Zepp DiverCity (TOKYO)](https://ko.wikipedia.org/wiki/Zepp#목록 "wikilink")
 
 ## 수록곡
 

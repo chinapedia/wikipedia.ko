@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Debugfs](https://ko.wikipedia.org/wiki/Debugfs).
 
 
-**debugfs**는 버전 2.6.10-rc 부터 [리눅스 커널에서](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 사용되는 특별한 파일 시스템이다.\[1\] 이것은 Greg Kroah-Hartman에 의해 만들어졌다.\[2\]
+**debugfs**는 버전 2.6.10-rc 부터 [리눅스 커널에서](../Page/리눅스_커널.md "wikilink") 사용되는 특별한 파일 시스템이다.\[1\] 이것은 Greg Kroah-Hartman에 의해 만들어졌다.\[2\]
 
 debugfs는 디버깅 목적으로 특별히 설계된 쉽게 사용 가능한 램 기반 파일 시스템이다. 이것은 커널 개발자들이 사용자 공간에서 정보를 활용 가능하게 해주는 것을 편하게 하기 위해 존재한다.\[3\] 단지 프로세스에 대한 정보를 제공하는 목적을 가진 /proc이나, 파일 당 엄격한 한 값을 규칙으로 갖는 [sysfs](https://ko.wikipedia.org/wiki/sysfs "wikilink")와 달리 이것은 규칙이 존재하지 않는다. 개발자들은 자신이 원하는 아무 정보를 여기에 넣을 수 있다.\[4\]
 

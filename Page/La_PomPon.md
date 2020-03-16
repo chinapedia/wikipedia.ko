@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [La PomPon](https://ko.wikipedia.org/wiki/La_PomPon).
 
 
-**La PomPon**(라폼폰, )은 일본의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") 및 댄스 · 보컬 그룹\[1\]\[2\]. 소속 레코드 회사는 [빙](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink"), 소속 사무소는 [빙이다](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink").
+**La PomPon**(라폼폰, )은 일본의 [걸 그룹](../Page/걸_그룹.md "wikilink") 및 댄스 · 보컬 그룹\[1\]\[2\]. 소속 레코드 회사는 [빙](../Page/빙_\(기업\).md "wikilink"), 소속 사무소는 [빙이다](../Page/빙_\(기업\).md "wikilink").
 
 ## 개요
 
@@ -12,7 +12,7 @@
 ## 내력
 
   - 2013년, 빙이 행했던 오디션 및 스카우트로 모인 6명으로 결성\[4\]. 약 2년간은 노래와 댄스를 배운다\[5\].
-  - 2014년 8월, 본격적인 활동이 시작되며, 스텔라 볼에서 개최된 [쿠라키 마이의](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink") 오프닝 아웃의 담당, 라이브 이벤트 ‘[TOKYO IDOL FESTIVAL](https://ko.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink")2014’의 출연을 한다出\[6\].
+  - 2014년 8월, 본격적인 활동이 시작되며, 스텔라 볼에서 개최된 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 오프닝 아웃의 담당, 라이브 이벤트 ‘[TOKYO IDOL FESTIVAL](https://ko.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink")2014’의 출연을 한다出\[6\].
   - 2015년 1월 28일, 싱글 〈[BUMP\!\!](../Page/BUMP!!.md "wikilink")〉로 메이저 데뷔\[7\]\[8\].
 
 ## 구성원
@@ -160,17 +160,17 @@
 
 ## 타이업
 
-| 년도                                                                                                                                          | 노래                                                                                                                                                                                                    | 타이업                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2015년                                                                                                                                       | \[\[BUMP                                                                                                                                                                                              | |BUMP                                                                          |
-| \[\[BUMP                                                                                                                                    | |사랑의 ABC\]\]()                                                                                                                                                                                        | [TV 가나자와](https://ko.wikipedia.org/wiki/TV_가나자와 "wikilink") 《이웃의 텔레킨짱》 1월 닫는 곡 |
-| [HOT GIRLS](../Page/HOT_GIRLS.md "wikilink")                                                                                                | 닛폰 TV 계열 《오늘밤 비교해봤습니다》 4월 닫는 곡                                                                                                                                                                        |                                                                                |
-| [지바 TV](https://ko.wikipedia.org/wiki/지바_TV "wikilink") 《[MUSIC LAUNCHER](https://ko.wikipedia.org/wiki/MUSIC_LAUNCHER "wikilink")》 4월 닫는 곡 |                                                                                                                                                                                                       |                                                                                |
-| TV 가나자와 《이웃의 텔레킨짱》 닫는 곡                                                                                                                     |                                                                                                                                                                                                       |                                                                                |
-| [사랑은 주크☆댄스](../Page/HOT_GIRLS.md "wikilink")()                                                                                              | [NHK ETV](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전 "wikilink") 《[비트 월드](https://ko.wikipedia.org/wiki/비트_월드 "wikilink")》 내 《[비밀결사 매발톱단 DO](https://ko.wikipedia.org/wiki/비밀결사_매발톱단 "wikilink")》 닫는 곡 |                                                                                |
-| [수수께끼](https://ko.wikipedia.org/wiki/수수께끼/싫어!싫다고!싫어!_~Sweet_Teens_ver.~ "wikilink")()                                                       | [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리_TV_방송 "wikilink") · 닛폰 TV 계열 애니메이션 《[명탐정 코난](https://ko.wikipedia.org/wiki/명탐정_코난_\(애니메이션\) "wikilink")》 여는 곡                                            |                                                                                |
-| 2016년                                                                                                                                       | [운명의 룰렛을 돌리며](https://ko.wikipedia.org/wiki/운명의_룰렛을_돌리며/잘가라는_말은_시작의_말 "wikilink")()                                                                                                                   | 요미우리 TV · 닛폰 TV 계열 애니메이션 《명탐정 코난》 닫는 곡\[9\]                                    |
-| [PUZZLE](https://ko.wikipedia.org/wiki/PUZZLE_\(La_PomPon의_노래\) "wikilink")                                                                 | [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink") 《명탐정 코난 14기》 주제가                                                                                                                                |                                                                                |
+| 년도                                                                                                                       | 노래                                                                                                                                                                                 | 타이업                                                         |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 2015년                                                                                                                    | \[\[BUMP                                                                                                                                                                           | |BUMP                                                       |
+| \[\[BUMP                                                                                                                 | |사랑의 ABC\]\]()                                                                                                                                                                     | [TV 가나자와](../Page/TV_가나자와.md "wikilink") 《이웃의 텔레킨짱》 1월 닫는 곡 |
+| [HOT GIRLS](../Page/HOT_GIRLS.md "wikilink")                                                                             | 닛폰 TV 계열 《오늘밤 비교해봤습니다》 4월 닫는 곡                                                                                                                                                     |                                                             |
+| [지바 TV](../Page/지바_TV.md "wikilink") 《[MUSIC LAUNCHER](https://ko.wikipedia.org/wiki/MUSIC_LAUNCHER "wikilink")》 4월 닫는 곡 |                                                                                                                                                                                    |                                                             |
+| TV 가나자와 《이웃의 텔레킨짱》 닫는 곡                                                                                                  |                                                                                                                                                                                    |                                                             |
+| [사랑은 주크☆댄스](../Page/HOT_GIRLS.md "wikilink")()                                                                           | [NHK ETV](../Page/NHK_교육_텔레비전.md "wikilink") 《[비트 월드](https://ko.wikipedia.org/wiki/비트_월드 "wikilink")》 내 《[비밀결사 매발톱단 DO](https://ko.wikipedia.org/wiki/비밀결사_매발톱단 "wikilink")》 닫는 곡 |                                                             |
+| [수수께끼](https://ko.wikipedia.org/wiki/수수께끼/싫어!싫다고!싫어!_~Sweet_Teens_ver.~ "wikilink")()                                    | [요미우리 TV](../Page/요미우리_TV_방송.md "wikilink") · 닛폰 TV 계열 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》 여는 곡                                                               |                                                             |
+| 2016년                                                                                                                    | [운명의 룰렛을 돌리며](https://ko.wikipedia.org/wiki/운명의_룰렛을_돌리며/잘가라는_말은_시작의_말 "wikilink")()                                                                                                | 요미우리 TV · 닛폰 TV 계열 애니메이션 《명탐정 코난》 닫는 곡\[9\]                 |
+| [PUZZLE](https://ko.wikipedia.org/wiki/PUZZLE_\(La_PomPon의_노래\) "wikilink")                                              | [투니버스](../Page/투니버스.md "wikilink") 《명탐정 코난 14기》 주제가                                                                                                                                |                                                             |
 
 ## 출연
 
@@ -190,9 +190,9 @@
 ## 같이 보기
 
   - [VALSHE](../Page/VALSHE.md "wikilink")
-  - [쿠라키 마이](https://ko.wikipedia.org/wiki/쿠라키_마이 "wikilink")
+  - [쿠라키 마이](../Page/쿠라키_마이.md "wikilink")
   - [Bump Of Chicken](https://ko.wikipedia.org/wiki/Bump_Of_Chicken "wikilink")
-  - [빙](https://ko.wikipedia.org/wiki/빙_\(기업\) "wikilink")
+  - [빙](../Page/빙_\(기업\).md "wikilink")
 
 ## 각주
 

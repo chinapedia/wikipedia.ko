@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [: Colored](https://ko.wikipedia.org/wiki/:_Colored).
 
 
-**물들다: Colored**는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월 28일에](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") 발매된 [전효성](https://ko.wikipedia.org/wiki/전효성 "wikilink")의 두 번째 [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink")(미니 앨범)이다.
+**물들다: Colored**는 [2016년](../Page/2016년.md "wikilink") [3월 28일에](../Page/3월_28일.md "wikilink") 발매된 [전효성](../Page/전효성.md "wikilink")의 두 번째 [EP](../Page/익스텐디드_플레이.md "wikilink")(미니 앨범)이다.
 
 ## 곡 목록
 

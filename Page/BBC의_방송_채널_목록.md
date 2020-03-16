@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BBC   ](https://ko.wikipedia.org/wiki/BBC___).
 
 
-다음은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [BBC](https://ko.wikipedia.org/wiki/영국방송공사 "wikilink") 방송이 소유하고 있는 전국, 지방, 지역별 텔레비전 및 라디오 채널이다. 전 세계에 송출되는 국제 방송 채널과 지금은 폐국된 방송 채널도 포함했다.
+다음은 [영국](../Page/영국.md "wikilink")의 [BBC](../Page/영국방송공사.md "wikilink") 방송이 소유하고 있는 전국, 지방, 지역별 텔레비전 및 라디오 채널이다. 전 세계에 송출되는 국제 방송 채널과 지금은 폐국된 방송 채널도 포함했다.
 
 ## 텔레비전 채널
 
@@ -9,24 +9,24 @@
 
 영국 전역에 방송되는 일반 채널이다.
 
-  - **[BBC One](https://ko.wikipedia.org/wiki/BBC_One "wikilink")** - 대표 채널.
+  - **[BBC One](../Page/BBC_One.md "wikilink")** - 대표 채널.
       - BBC One HD
-  - **[BBC Two](https://ko.wikipedia.org/wiki/BBC_Two "wikilink")** - [시사](https://ko.wikipedia.org/wiki/시사 "wikilink")와 [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 프로그램 위주 채널.
+  - **[BBC Two](../Page/BBC_Two.md "wikilink")** - [시사](../Page/시사.md "wikilink")와 [스포츠](../Page/스포츠.md "wikilink") 프로그램 위주 채널.
       - BBC Two HD
   - **[BBC Four](https://ko.wikipedia.org/wiki/BBC_Four "wikilink")** - 다큐멘터리와 교양 프로그램 위주 채널.
       - BBC Four HD
-  - **[BBC 뉴스](https://ko.wikipedia.org/wiki/BBC_뉴스 "wikilink")** - 실시간 뉴스와 시사 프로그램.
+  - **[BBC 뉴스](../Page/BBC_뉴스.md "wikilink")** - 실시간 뉴스와 시사 프로그램.
       - BBC News HD
-  - **[BBC 팔리아먼트](https://ko.wikipedia.org/wiki/BBC_팔리아먼트 "wikilink")** - 국회 중계 방송.
-  - **[BBC 알바](https://ko.wikipedia.org/wiki/BBC_알바 "wikilink")** - [스코틀랜드 게일어](https://ko.wikipedia.org/wiki/스코틀랜드_게일어 "wikilink") 방송.
+  - **[BBC 팔리아먼트](../Page/BBC_팔리아먼트.md "wikilink")** - 국회 중계 방송.
+  - **[BBC 알바](https://ko.wikipedia.org/wiki/BBC_알바 "wikilink")** - [스코틀랜드 게일어](../Page/스코틀랜드_게일어.md "wikilink") 방송.
   - **[CBBC](https://ko.wikipedia.org/wiki/CBBC "wikilink")** - 6세 이상 아동을 대상으로 한 프로그램 전용 방송.
       - CBBC HD
-  - **[CBeebies](https://ko.wikipedia.org/wiki/CBeebies "wikilink")** - 6세 이하 아동을 대상으로 한 프로그램 전용 방송.
+  - **[CBeebies](../Page/CBeebies.md "wikilink")** - 6세 이하 아동을 대상으로 한 프로그램 전용 방송.
       - CBeebies HD
 
 ### 지방 방송
 
-잉글랜드를 제외한 영국의 구성국, 즉 [북아일랜드](https://ko.wikipedia.org/wiki/북아일랜드 "wikilink"), [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드 "wikilink"), [웨일스](https://ko.wikipedia.org/wiki/웨일스 "wikilink")를 대상으로 한 일반 채널이다.
+잉글랜드를 제외한 영국의 구성국, 즉 [북아일랜드](../Page/북아일랜드.md "wikilink"), [스코틀랜드](../Page/스코틀랜드.md "wikilink"), [웨일스](../Page/웨일스.md "wikilink")를 대상으로 한 일반 채널이다.
 
   - **[BBC One 북아일랜드](https://ko.wikipedia.org/wiki/BBC_One_북아일랜드 "wikilink")**
       - BBC One 북아일랜드 HD
@@ -49,15 +49,15 @@
   - **[BBC One 런던](https://ko.wikipedia.org/wiki/BBC_런던 "wikilink")**
   - **[BBC One 노스이스트 컴브리아](../Page/BBC_노스이스트_컴브리아.md "wikilink")**
   - **[BBC One 노스웨스트](../Page/BBC_노스웨스트.md "wikilink")**
-  - **[BBC One 사우스](https://ko.wikipedia.org/wiki/BBC_One "wikilink")**
+  - **[BBC One 사우스](../Page/BBC_One.md "wikilink")**
       - [BBC 옥스퍼드](https://ko.wikipedia.org/wiki/BBC_옥스퍼드 "wikilink") - 옥스퍼드와 주변 지역 대상 한정.
   - **[BBC 사우스이스트](../Page/BBC_사우스이스트.md "wikilink")**
   - **[BBC 사우스웨스트](../Page/BBC_사우스웨스트.md "wikilink")**
       - [BBC 채널 아일랜즈](https://ko.wikipedia.org/wiki/BBC_채널_아일랜즈 "wikilink") - 채널 제도 대상
-  - **[BBC One 웨스트](https://ko.wikipedia.org/wiki/BBC_웨스트 "wikilink")**
+  - **[BBC One 웨스트](../Page/BBC_웨스트.md "wikilink")**
   - **[BBC One 웨스트미들랜즈](https://ko.wikipedia.org/wiki/BBC_웨스트미들랜즈 "wikilink")**
-  - **[BBC One 요크셔 링컨셔](https://ko.wikipedia.org/wiki/BBC_요크셔_링컨셔 "wikilink")**
-  - **[BBC One 요크셔](https://ko.wikipedia.org/wiki/BBC_요크셔 "wikilink")**
+  - **[BBC One 요크셔 링컨셔](../Page/BBC_요크셔_링컨셔.md "wikilink")**
+  - **[BBC One 요크셔](../Page/BBC_요크셔.md "wikilink")**
 
 ## UKTV 채널
 
@@ -101,28 +101,28 @@
   - **[BBC 키즈](https://ko.wikipedia.org/wiki/BBC_키즈 "wikilink")** - 캐나다 대상 방송. 아동 전문 프로그램.
   - **[BBC 라이프스타일](https://ko.wikipedia.org/wiki/BBC_라이프스타일 "wikilink")** - 생활 프로그램.
   - **[BBC UKTV](https://ko.wikipedia.org/wiki/BBC_UKTV "wikilink")** - 오스트레일리아와 뉴질랜드 대상 방송. 영국의 엔터테인먼트 프로그램 특선 방송.
-  - **[CBeebies](https://ko.wikipedia.org/wiki/CBeebies "wikilink")** - 6세 이하 아동 대상 프로그램 전문 방송.
+  - **[CBeebies](../Page/CBeebies.md "wikilink")** - 6세 이하 아동 대상 프로그램 전문 방송.
 
 ## 전국 라디오 방송
 
 ### FM
 
-  - [BBC 라디오 1](https://ko.wikipedia.org/wiki/BBC_라디오_1 "wikilink") - [최신 히트곡](https://ko.wikipedia.org/wiki/탑_40 "wikilink"), [댄스](https://ko.wikipedia.org/wiki/댄스_음악 "wikilink"), [락](https://ko.wikipedia.org/wiki/락_음악 "wikilink").
-  - [BBC 라디오 2](https://ko.wikipedia.org/wiki/BBC_라디오_2 "wikilink") - [어덜트](https://ko.wikipedia.org/wiki/어덜트_컨템포러리 "wikilink"), [올디스](https://ko.wikipedia.org/wiki/올디스 "wikilink"), [컨트리](https://ko.wikipedia.org/wiki/컨트리_음악 "wikilink"), [재즈](https://ko.wikipedia.org/wiki/재즈 "wikilink"), [소울](https://ko.wikipedia.org/wiki/소울_음악 "wikilink"), [펑크](https://ko.wikipedia.org/wiki/펑크 "wikilink").
-  - [BBC 라디오 3](https://ko.wikipedia.org/wiki/BBC_라디오_3 "wikilink") - [클래식](../Page/클래식_음악.md "wikilink"), [재즈](https://ko.wikipedia.org/wiki/재즈 "wikilink"), [월드 뮤직](https://ko.wikipedia.org/wiki/월드_뮤직 "wikilink"), [예술](https://ko.wikipedia.org/wiki/예술 "wikilink"), [문화](https://ko.wikipedia.org/wiki/문화 "wikilink"), [라디오극](https://ko.wikipedia.org/wiki/라디오_드라마 "wikilink").
-  - [BBC 라디오 4](https://ko.wikipedia.org/wiki/BBC_라디오_4 "wikilink") - [뉴스](https://ko.wikipedia.org/wiki/뉴스 "wikilink"), [시사](https://ko.wikipedia.org/wiki/시사 "wikilink"), [전화 토크쇼](https://ko.wikipedia.org/wiki/라디오_전화_토크쇼 "wikilink"), [라디오극](https://ko.wikipedia.org/wiki/라디오_드라마 "wikilink"), [철학](https://ko.wikipedia.org/wiki/철학 "wikilink"). (AM으로도 들을 수 있다.)
+  - [BBC 라디오 1](../Page/BBC_라디오_1.md "wikilink") - [최신 히트곡](https://ko.wikipedia.org/wiki/탑_40 "wikilink"), [댄스](https://ko.wikipedia.org/wiki/댄스_음악 "wikilink"), [락](https://ko.wikipedia.org/wiki/락_음악 "wikilink").
+  - [BBC 라디오 2](../Page/BBC_라디오_2.md "wikilink") - [어덜트](https://ko.wikipedia.org/wiki/어덜트_컨템포러리 "wikilink"), [올디스](https://ko.wikipedia.org/wiki/올디스 "wikilink"), [컨트리](../Page/컨트리_음악.md "wikilink"), [재즈](../Page/재즈.md "wikilink"), [소울](https://ko.wikipedia.org/wiki/소울_음악 "wikilink"), [펑크](../Page/펑크.md "wikilink").
+  - [BBC 라디오 3](../Page/BBC_라디오_3.md "wikilink") - [클래식](../Page/클래식_음악.md "wikilink"), [재즈](../Page/재즈.md "wikilink"), [월드 뮤직](https://ko.wikipedia.org/wiki/월드_뮤직 "wikilink"), [예술](../Page/예술.md "wikilink"), [문화](../Page/문화.md "wikilink"), [라디오극](../Page/라디오_드라마.md "wikilink").
+  - [BBC 라디오 4](../Page/BBC_라디오_4.md "wikilink") - [뉴스](../Page/뉴스.md "wikilink"), [시사](../Page/시사.md "wikilink"), [전화 토크쇼](https://ko.wikipedia.org/wiki/라디오_전화_토크쇼 "wikilink"), [라디오극](../Page/라디오_드라마.md "wikilink"), [철학](../Page/철학.md "wikilink"). (AM으로도 들을 수 있다.)
 
 ### AM, DAB, 온라인 전용 방송
 
 일반 FM 라디오로는 청취할 수 없고 타 매체를 통해 방송되는 라디오 채널들이다.
 
-  - [BBC 라디오 1xtra](https://ko.wikipedia.org/wiki/BBC_라디오_1#BBC_라디오_1xtra "wikilink") - [어번 음악](https://ko.wikipedia.org/wiki/어번_음악 "wikilink"), [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink"), [그라임](https://ko.wikipedia.org/wiki/그라임_음악 "wikilink"), [댄스홀](https://ko.wikipedia.org/wiki/댄스홀 "wikilink").
+  - [BBC 라디오 1xtra](https://ko.wikipedia.org/wiki/BBC_라디오_1#BBC_라디오_1xtra "wikilink") - [어번 음악](https://ko.wikipedia.org/wiki/어번_음악 "wikilink"), [힙합](../Page/힙합.md "wikilink"), [그라임](https://ko.wikipedia.org/wiki/그라임_음악 "wikilink"), [댄스홀](../Page/댄스홀.md "wikilink").
   - [BBC 라디오 4 Extra](https://ko.wikipedia.org/wiki/BBC_라디오_4#BBC_라디오_Extra "wikilink") - 지난 방송 (아카이브 프로그램).
-  - [BBC 라디오 5 라이브](https://ko.wikipedia.org/wiki/BBC_라디오_5_라이브 "wikilink") - [뉴스](https://ko.wikipedia.org/wiki/뉴스 "wikilink"), [시사](https://ko.wikipedia.org/wiki/시사 "wikilink"), [토론](https://ko.wikipedia.org/wiki/토론 "wikilink"), [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 생방송.
-  - [BBC 라디오 5 라이브 스포츠 엑스트라](https://ko.wikipedia.org/wiki/BBC_라디오_5#BBC_라디오_5_스포츠_엑스트라 "wikilink") - 추가 [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 중계방송.
-  - [BBC 라디오 6 뮤직](https://ko.wikipedia.org/wiki/BBC_라디오_6_뮤직 "wikilink") - [얼터네이티브 음악](https://ko.wikipedia.org/wiki/얼터네이티브_음악 "wikilink"), [락](https://ko.wikipedia.org/wiki/락_음악 "wikilink"), [레게](https://ko.wikipedia.org/wiki/레게 "wikilink") 및 기타 소수 장르.
+  - [BBC 라디오 5 라이브](../Page/BBC_라디오_5_라이브.md "wikilink") - [뉴스](../Page/뉴스.md "wikilink"), [시사](../Page/시사.md "wikilink"), [토론](../Page/토론.md "wikilink"), [스포츠](../Page/스포츠.md "wikilink") 생방송.
+  - [BBC 라디오 5 라이브 스포츠 엑스트라](https://ko.wikipedia.org/wiki/BBC_라디오_5#BBC_라디오_5_스포츠_엑스트라 "wikilink") - 추가 [스포츠](../Page/스포츠.md "wikilink") 중계방송.
+  - [BBC 라디오 6 뮤직](https://ko.wikipedia.org/wiki/BBC_라디오_6_뮤직 "wikilink") - [얼터네이티브 음악](https://ko.wikipedia.org/wiki/얼터네이티브_음악 "wikilink"), [락](https://ko.wikipedia.org/wiki/락_음악 "wikilink"), [레게](../Page/레게.md "wikilink") 및 기타 소수 장르.
   - [BBC 라디오 아시안 네트워크](https://ko.wikipedia.org/wiki/BBC_라디오_아시안_네트워크 "wikilink") - 영국내 아시아 민족사회 대상 방송.
-  - [BBC 월드 서비스](https://ko.wikipedia.org/wiki/BBC_월드_서비스 "wikilink") - [시사](https://ko.wikipedia.org/wiki/시사 "wikilink") 전문 국제 라디오 방송.
+  - [BBC 월드 서비스](../Page/BBC_월드_서비스.md "wikilink") - [시사](../Page/시사.md "wikilink") 전문 국제 라디오 방송.
 
 ## 지방 라디오 채널
 
@@ -231,7 +231,7 @@
   - **[BBC 날리지](https://ko.wikipedia.org/wiki/BBC_날리지 "wikilink")**
   - **[BBC 재팬](https://ko.wikipedia.org/wiki/BBC_재팬 "wikilink")**
   - **[BBC HD](https://ko.wikipedia.org/wiki/BBC_HD "wikilink")**
-  - **[BBC Three (과거)](https://ko.wikipedia.org/wiki/BBC_Three "wikilink")**
+  - **[BBC Three (과거)](../Page/BBC_Three.md "wikilink")**
 
 ### 라디오
 

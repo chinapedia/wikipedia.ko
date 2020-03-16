@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Pkill](https://ko.wikipedia.org/wiki/Pkill).
 
 
-**`pkill`**은 초기에 [솔라리스 7에서](https://ko.wikipedia.org/wiki/솔라리스_\(운영_체제\) "wikilink") 사용될 목적으로 만들어진 [커맨드 라인](https://ko.wikipedia.org/wiki/명령_줄_인터페이스 "wikilink") 유틸리티이다. 이것은 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")와 몇몇 [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink")들에서 재구현되었다.
+**`pkill`**은 초기에 [솔라리스 7에서](../Page/솔라리스_\(운영_체제\).md "wikilink") 사용될 목적으로 만들어진 [커맨드 라인](../Page/명령_줄_인터페이스.md "wikilink") 유틸리티이다. 이것은 [리눅스](../Page/리눅스.md "wikilink")와 몇몇 [BSD](../Page/BSD.md "wikilink")들에서 재구현되었다.
 
-[`kill`](https://ko.wikipedia.org/wiki/kill "wikilink")과 [`killall`](https://ko.wikipedia.org/wiki/killall "wikilink") 명령어 처럼, **`pkill`**은 [프로세스](https://ko.wikipedia.org/wiki/프로세스 "wikilink")에게 [시그널을](../Page/유닉스_신호.md "wikilink") 보내는데 사용된다. **`pkill`** 명령어는 확장된 [정규 표현식](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink") 패턴들의 사용을 허용한다.
+[`kill`](https://ko.wikipedia.org/wiki/kill "wikilink")과 [`killall`](https://ko.wikipedia.org/wiki/killall "wikilink") 명령어 처럼, **`pkill`**은 [프로세스](../Page/프로세스.md "wikilink")에게 [시그널을](../Page/유닉스_신호.md "wikilink") 보내는데 사용된다. **`pkill`** 명령어는 확장된 [정규 표현식](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink") 패턴들의 사용을 허용한다.
 
 ## 사용 예시
 

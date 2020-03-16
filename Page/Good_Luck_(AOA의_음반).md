@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Good Luck \(AOA \)](https://ko.wikipedia.org/wiki/Good_Luck_\(AOA_\)).
 
 
-《**Good Luck**》(굿럭)은 [AOA의](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\) "wikilink") 네 번째 [미니음반이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink").
+《**Good Luck**》(굿럭)은 [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 네 번째 [미니음반이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 개요
 

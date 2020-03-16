@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OTT ](https://ko.wikipedia.org/wiki/OTT_).
 
 
-**OTT**(Over The Top Service)는 인터넷을 통해 방송 프로그램·영화·교육 등 각종 미디어 콘텐츠를 제공하는 서비스를 말한다.\[1\] OTT는 over the top의 준말로 over-the-X는 기존의 범위를 넘어서라는 뜻을 가진다. top은 TV [셋톱박스](https://ko.wikipedia.org/wiki/셋톱박스 "wikilink") 같은 단말기를 의미한다. 따라서 직역하면 셋톱박스를 통해서, 넘어서의 의미를 가진다.\[2\] 이처럼 OTT서비스는 초기에 단말기를 통해 영화·TV프로그램 등 프리미엄 콘텐츠를 VOD 방식으로 제공하는 서비스를 지칭했다. 이후 인터넷 기술변화에 따라 콘텐츠 유통이 모바일까지 포함하면서 OTT의 의미가 확대됐다.\[3\]
+**OTT**(Over The Top Service)는 인터넷을 통해 방송 프로그램·영화·교육 등 각종 미디어 콘텐츠를 제공하는 서비스를 말한다.\[1\] OTT는 over the top의 준말로 over-the-X는 기존의 범위를 넘어서라는 뜻을 가진다. top은 TV [셋톱박스](../Page/셋톱박스.md "wikilink") 같은 단말기를 의미한다. 따라서 직역하면 셋톱박스를 통해서, 넘어서의 의미를 가진다.\[2\] 이처럼 OTT서비스는 초기에 단말기를 통해 영화·TV프로그램 등 프리미엄 콘텐츠를 VOD 방식으로 제공하는 서비스를 지칭했다. 이후 인터넷 기술변화에 따라 콘텐츠 유통이 모바일까지 포함하면서 OTT의 의미가 확대됐다.\[3\]
 
 한국에서는 **N스크린**이라는 이름으로 불렸다.
 
@@ -19,13 +19,13 @@ OTT 서비스의 등장은 공급과 수요의 측면에서 분석할 수 있다
 <thead>
 <tr class="header">
 <th></th>
-<th><p><a href="../Page/넷플릭스.md" title="wikilink">넷플릭스</a>, <a href="../Page/훌루.md" title="wikilink">훌루</a>, <a href="https://ko.wikipedia.org/wiki/유튜브" title="wikilink">유튜브</a></p></th>
+<th><p><a href="../Page/넷플릭스.md" title="wikilink">넷플릭스</a>, <a href="../Page/훌루.md" title="wikilink">훌루</a>, <a href="../Page/유튜브.md" title="wikilink">유튜브</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/넷플릭스.md" title="wikilink">넷플릭스</a>, <a href="https://ko.wikipedia.org/wiki/디즈니+" title="wikilink">디즈니+</a>, <a href="https://ko.wikipedia.org/wiki/HBO_맥스" title="wikilink">HBO 맥스</a>, <a href="https://ko.wikipedia.org/wiki/애플_TV" title="wikilink">애플 TV</a>, <a href="https://ko.wikipedia.org/wiki/VUDU" title="wikilink">VUDU</a>, <a href="../Page/훌루.md" title="wikilink">훌루</a></p></td>
+<td><p><a href="../Page/넷플릭스.md" title="wikilink">넷플릭스</a>, <a href="https://ko.wikipedia.org/wiki/디즈니+" title="wikilink">디즈니+</a>, <a href="https://ko.wikipedia.org/wiki/HBO_맥스" title="wikilink">HBO 맥스</a>, <a href="../Page/애플_TV.md" title="wikilink">애플 TV</a>, <a href="https://ko.wikipedia.org/wiki/VUDU" title="wikilink">VUDU</a>, <a href="../Page/훌루.md" title="wikilink">훌루</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -40,7 +40,7 @@ OTT 서비스의 등장은 공급과 수요의 측면에서 분석할 수 있다
 
 ### 국내 현황
 
-대한민국의 OTT 서비스는 네이버 시리즈온, [왓챠플레이](https://ko.wikipedia.org/wiki/왓챠플레이 "wikilink"), [POOQ와](https://ko.wikipedia.org/wiki/푹 "wikilink") [OKSUSU](https://ko.wikipedia.org/wiki/OKSUSU "wikilink")\[5\]가 통합한 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink"), [티빙](https://ko.wikipedia.org/wiki/티빙 "wikilink"), [Seezn(시즌](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink")), [IPTV](https://ko.wikipedia.org/wiki/IPTV "wikilink")([Btv](https://ko.wikipedia.org/wiki/Btv "wikilink"), [올레TV](https://ko.wikipedia.org/wiki/올레TV "wikilink"), [U+ TV](https://ko.wikipedia.org/wiki/U+_TV "wikilink")), [종합유선방송](https://ko.wikipedia.org/wiki/종합유선방송사업자 "wikilink") 업체 등이 있다.
+대한민국의 OTT 서비스는 네이버 시리즈온, [왓챠플레이](https://ko.wikipedia.org/wiki/왓챠플레이 "wikilink"), [POOQ와](../Page/푹.md "wikilink") [OKSUSU](https://ko.wikipedia.org/wiki/OKSUSU "wikilink")\[5\]가 통합한 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink"), [티빙](../Page/티빙.md "wikilink"), [Seezn(시즌](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink")), [IPTV](../Page/IPTV.md "wikilink")([Btv](https://ko.wikipedia.org/wiki/Btv "wikilink"), [올레TV](https://ko.wikipedia.org/wiki/올레TV "wikilink"), [U+ TV](../Page/U+_TV.md "wikilink")), [종합유선방송](https://ko.wikipedia.org/wiki/종합유선방송사업자 "wikilink") 업체 등이 있다.
 
 ## 서비스의 확장
 
@@ -58,6 +58,6 @@ OTT 서비스의 등장은 공급과 수요의 측면에서 분석할 수 있다
 2.
 3.
 4.
-5.  [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink")까지 운영을 유지되었다.
+5.  [2019년](../Page/2019년.md "wikilink") [12월](../Page/12월.md "wikilink")까지 운영을 유지되었다.
 6.
 7.

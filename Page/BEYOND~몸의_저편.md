@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [BEYOND\~ ](https://ko.wikipedia.org/wiki/BEYOND\~_).
 
 
-〈**BEYOND\~몸의 저편**〉()는 일본의 음악 그룹 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 열여덟 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 28일에](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**BEYOND\~몸의 저편**〉()는 일본의 음악 그룹 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 열여덟 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2008년](../Page/2008년.md "wikilink") [5월 28일에](../Page/5월_28일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 개요
 
   - 전작 〈MIRAGE〉와 마찬가지로 CD-EXTRA 부분에 멤버 출연의 버라이어티 무비 ‘AAA 극비 그래프 2’를 수록.
-  - 판매점에서는 [4월 2일](https://ko.wikipedia.org/wiki/4월_2일 "wikilink") 발매라고 알려져있었지만, [5월 28일로](https://ko.wikipedia.org/wiki/5월_28일 "wikilink") 연기됐다.
-  - [4월 4일부터](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") mu-mo, 레코드회사직영♪, dwango.jp에서 [착신음](https://ko.wikipedia.org/wiki/착신음 "wikilink")이 배포됐다.
+  - 판매점에서는 [4월 2일](../Page/4월_2일.md "wikilink") 발매라고 알려져있었지만, [5월 28일로](../Page/5월_28일.md "wikilink") 연기됐다.
+  - [4월 4일부터](../Page/4월_4일.md "wikilink") mu-mo, 레코드회사직영♪, dwango.jp에서 [착신음](https://ko.wikipedia.org/wiki/착신음 "wikilink")이 배포됐다.
 
 ### 수록곡
 
@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - [미즈노](https://ko.wikipedia.org/wiki/미즈노 "wikilink") 애슬리트 응원송
+  - [미즈노](../Page/미즈노.md "wikilink") 애슬리트 응원송
 
 <!-- end list -->
 

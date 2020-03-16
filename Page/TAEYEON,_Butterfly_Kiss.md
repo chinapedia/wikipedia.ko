@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TAEYEON, Butterfly Kiss](https://ko.wikipedia.org/wiki/TAEYEON,_Butterfly_Kiss).
 
 
-《**TAEYEON, Butterfly Kiss**》는 대한민국의 음악 그룹 [소녀시대](https://ko.wikipedia.org/wiki/소녀시대 "wikilink")의 멤버 [태연](https://ko.wikipedia.org/wiki/태연 "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**TAEYEON, Butterfly Kiss**》는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 멤버 [태연](../Page/태연.md "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
-2016년 3월 26일, [SM 엔터테인먼트는](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 태연의 첫 번째 단독 콘서트의 일정을 공개한 바 있으나\[1\] 콘서트의 완성도를 높이기 위해 본래 4월 23일, 24일로 예정되어 있던 공연 일정을 하반기로 연기하였다.\[2\] 이후 같은 해 5월 24일, 서울, 부산 공연의 일정과 예매 일정을 공개함으로써 콘서트를 공식화하였으며 예매는 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 6월 1일에 진행되었다.\[3\]
+2016년 3월 26일, [SM 엔터테인먼트는](../Page/SM_엔터테인먼트.md "wikilink") 태연의 첫 번째 단독 콘서트의 일정을 공개한 바 있으나\[1\] 콘서트의 완성도를 높이기 위해 본래 4월 23일, 24일로 예정되어 있던 공연 일정을 하반기로 연기하였다.\[2\] 이후 같은 해 5월 24일, 서울, 부산 공연의 일정과 예매 일정을 공개함으로써 콘서트를 공식화하였으며 예매는 [YES24](../Page/YES24.md "wikilink")를 통해 6월 1일에 진행되었다.\[3\]
 
 ## 투어 일정
 
@@ -72,7 +72,7 @@
 
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
 
 ## 각주
 

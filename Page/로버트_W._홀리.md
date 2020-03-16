@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
 
 
-**로버트 윌리엄 홀리**(Robert William Holley, [1922년](https://ko.wikipedia.org/wiki/1922년 "wikilink") [1월 28일](https://ko.wikipedia.org/wiki/1월_28일 "wikilink") \~ [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink"))는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [생화학자](https://ko.wikipedia.org/wiki/생화학자 "wikilink")이다.
+**로버트 윌리엄 홀리**(Robert William Holley, [1922년](../Page/1922년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [생화학자](https://ko.wikipedia.org/wiki/생화학자 "wikilink")이다.
 
 ## 공적과 상훈
 
-1965년 향류분배법(向流分配法) 구조 염기배열의 1차구조 법칙을 밝힘으로 인하여 천연핵산분자정보 해독에 중요한 기여를 한 공로로써 3년 후 [1968년](https://ko.wikipedia.org/wiki/1968년 "wikilink") [노벨 생리의학상을](https://ko.wikipedia.org/wiki/노벨_생리의학상 "wikilink") 수상하였다.
+1965년 향류분배법(向流分配法) 구조 염기배열의 1차구조 법칙을 밝힘으로 인하여 천연핵산분자정보 해독에 중요한 기여를 한 공로로써 3년 후 [1968년](../Page/1968년.md "wikilink") [노벨 생리의학상을](https://ko.wikipedia.org/wiki/노벨_생리의학상 "wikilink") 수상하였다.
 
 ## 외부 링크
 

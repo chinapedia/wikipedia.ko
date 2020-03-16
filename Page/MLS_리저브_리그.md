@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MLS  ](https://ko.wikipedia.org/wiki/MLS__).
 
 
-**MLS 리저브 리그**(MLS Reserve League)는 [메이저 리그 사커의](https://ko.wikipedia.org/wiki/메이저_리그_사커 "wikilink") 2군 리그이다. 2014년 [USL 프로와](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 제휴관계를 맺으면서 사라졌다.
+**MLS 리저브 리그**(MLS Reserve League)는 [메이저 리그 사커의](../Page/메이저_리그_사커.md "wikilink") 2군 리그이다. 2014년 [USL 프로와](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 제휴관계를 맺으면서 사라졌다.
 
 ## 마지막 시즌 참가 클럽
 
@@ -16,25 +16,25 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/시카고_파이어" title="wikilink">시카고 파이어</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/시애틀_사운더스_FC" title="wikilink">시애틀 사운더스 FC</a></p></td>
+<td><p><a href="../Page/시애틀_사운더스_FC.md" title="wikilink">시애틀 사운더스 FC</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_댈러스" title="wikilink">FC 댈러스</a></p></td>
+<td><p><a href="../Page/FC_댈러스.md" title="wikilink">FC 댈러스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/몬트리올_임팩트" title="wikilink">몬트리올 임팩트</a></p></td>
+<td><p><a href="../Page/몬트리올_임팩트.md" title="wikilink">몬트리올 임팩트</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/콜로라도_래피즈" title="wikilink">콜로라도 래피즈</a></p></td>
+<td><p><a href="../Page/콜로라도_래피즈.md" title="wikilink">콜로라도 래피즈</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/레알_솔트레이크" title="wikilink">레알 솔트레이크</a></p></td>
+<td><p><a href="../Page/레알_솔트레이크.md" title="wikilink">레알 솔트레이크</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_레드불스" title="wikilink">뉴욕 레드불스</a></p></td>
+<td><p><a href="../Page/뉴욕_레드불스.md" title="wikilink">뉴욕 레드불스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/CD_치바스_USA" title="wikilink">CD 치바스 USA</a></p></td>
+<td><p><a href="../Page/CD_치바스_USA.md" title="wikilink">CD 치바스 USA</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -51,11 +51,11 @@
 <tbody>
 <tr class="odd">
 <td><p>2005</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/D.C._유나이티드" title="wikilink">D.C. 유나이티드</a></p></td>
+<td><p><a href="../Page/D.C._유나이티드.md" title="wikilink">D.C. 유나이티드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콜로라도_래피즈" title="wikilink">콜로라도 래피즈</a></p></td>
+<td><p><a href="../Page/콜로라도_래피즈.md" title="wikilink">콜로라도 래피즈</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
@@ -63,7 +63,7 @@
 </tr>
 <tr class="even">
 <td><p>2008</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/휴스턴_다이너모" title="wikilink">휴스턴 다이너모</a></p></td>
+<td><p><a href="../Page/휴스턴_다이너모.md" title="wikilink">휴스턴 다이너모</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009~2010</p></td>
@@ -71,7 +71,7 @@
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콜럼버스_크루_SC" title="wikilink">콜럼버스 크루 SC</a></p></td>
+<td><p><a href="../Page/콜럼버스_크루_SC.md" title="wikilink">콜럼버스 크루 SC</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2012</p></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A ](https://ko.wikipedia.org/wiki/A_).
 
 
-**A 분견군**() 또는 **팔켄하우젠 분견군**()은 [제1차 세계 대전](https://ko.wikipedia.org/wiki/제1차_세계_대전 "wikilink") 당시 [독일 제국의](https://ko.wikipedia.org/wiki/독일_제국 "wikilink") [야전군](https://ko.wikipedia.org/wiki/야전군 "wikilink")급 사령부이다. 1914년부터 1918년 해체될 때까지 [서부전선](https://ko.wikipedia.org/wiki/서부_전선_\(제1차_세계_대전\) "wikilink") 남익을 담당했다.
+**A 분견군**() 또는 **팔켄하우젠 분견군**()은 [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 당시 [독일 제국의](../Page/독일_제국.md "wikilink") [야전군](../Page/야전군.md "wikilink")급 사령부이다. 1914년부터 1918년 해체될 때까지 [서부전선](../Page/서부_전선_\(제1차_세계_대전\).md "wikilink") 남익을 담당했다.
 
 ## 전투서열
 

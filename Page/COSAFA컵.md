@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [COSAFA](https://ko.wikipedia.org/wiki/COSAFA).
 
 
-**COSAFA컵**은 [남아프리카 축구 협의회에서](https://ko.wikipedia.org/wiki/남아프리카_축구_협의회 "wikilink") 주최하는 친선 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회이다.
+**COSAFA컵**은 [남아프리카 축구 협의회에서](https://ko.wikipedia.org/wiki/남아프리카_축구_협의회 "wikilink") 주최하는 친선 [축구](../Page/축구.md "wikilink") 대회이다.
 
 ## 역대 대회
 
@@ -32,7 +32,7 @@
 </tr>
 <tr class="even">
 <td><p>1997<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/1997년_COSAFA컵" title="wikilink">상세정보</a></em></small></p></td>
+<small><em><a href="../Page/1997년_COSAFA컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong></strong></p></td>
 <td><p>없음[1]</p></td>
 <td></td>
@@ -96,7 +96,7 @@
 <small><em><a href="https://ko.wikipedia.org/wiki/2004년_COSAFA컵" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>0–0</strong><br />
-(5–4 <a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">PSO</a>)</p></td>
+(5–4 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -121,7 +121,7 @@
 <small><em><a href="https://ko.wikipedia.org/wiki/2007년_COSAFA컵" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>0–0</strong><br />
-(4–3 <a href="https://ko.wikipedia.org/wiki/승부차기" title="wikilink">PSO</a>)</p></td>
+(4–3 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -185,7 +185,7 @@
 <td><p>2018<br />
 <small><em><a href="https://ko.wikipedia.org/wiki/2018년_COSAFA컵" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>4–2</strong> (<a href="https://ko.wikipedia.org/wiki/연장전" title="wikilink">연장</a>)</p></td>
+<td><p><strong>4–2</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -202,7 +202,7 @@
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p>슈가 로저스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_리버티" title="wikilink">뉴욕 리버티</a></p></td>
+<td><p><a href="../Page/뉴욕_리버티.md" title="wikilink">뉴욕 리버티</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
@@ -212,7 +212,7 @@
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p>데리카 햄비</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라스베이거스_에이시즈" title="wikilink">라스베이거스 에이시즈</a></p></td>
+<td><p><a href="../Page/라스베이거스_에이시즈.md" title="wikilink">라스베이거스 에이시즈</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -338,7 +338,7 @@
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p>에이자 윌슨</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라스베이거스_에이시즈" title="wikilink">라스베이거스 에이시즈</a></p></td>
+<td><p><a href="../Page/라스베이거스_에이시즈.md" title="wikilink">라스베이거스 에이시즈</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
@@ -368,7 +368,7 @@
 <tr class="odd">
 <td><p>2000</p></td>
 <td><p>타리 필립스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_리버티" title="wikilink">뉴욕 리버티</a></p></td>
+<td><p><a href="../Page/뉴욕_리버티.md" title="wikilink">뉴욕 리버티</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2001</p></td>
@@ -405,7 +405,7 @@
 <tr class="even">
 <td><p>2007</p></td>
 <td><p>자넬 맥카빌</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_리버티" title="wikilink">뉴욕 리버티</a></p></td>
+<td><p><a href="../Page/뉴욕_리버티.md" title="wikilink">뉴욕 리버티</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
@@ -420,7 +420,7 @@
 <tr class="odd">
 <td><p>2010</p></td>
 <td><p>/ 레이라니 미첼</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_리버티" title="wikilink">뉴욕 리버티</a></p></td>
+<td><p><a href="../Page/뉴욕_리버티.md" title="wikilink">뉴욕 리버티</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
@@ -493,7 +493,7 @@
 <tr class="odd">
 <td><p>1997</p></td>
 <td><p>테레사 웨더스푼</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_리버티" title="wikilink">뉴욕 리버티</a></p></td>
+<td><p><a href="../Page/뉴욕_리버티.md" title="wikilink">뉴욕 리버티</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1998</p></td>
@@ -737,7 +737,7 @@
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p>빌 레임비어</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_리버티" title="wikilink">뉴욕 리버티</a></p></td>
+<td><p><a href="../Page/뉴욕_리버티.md" title="wikilink">뉴욕 리버티</a></p></td>
 <td><p>23승 11패 .676</p></td>
 </tr>
 <tr class="even">
@@ -801,7 +801,7 @@
 <tr class="odd">
 <td><p>2001</p></td>
 <td><p>수 빅스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_리버티" title="wikilink">뉴욕 리버티</a></p></td>
+<td><p><a href="../Page/뉴욕_리버티.md" title="wikilink">뉴욕 리버티</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002</p></td>
@@ -978,7 +978,7 @@
 
 ## 같이 보기
 
-  - [NBA 수상 목록](https://ko.wikipedia.org/wiki/NBA_수상_목록 "wikilink")
+  - [NBA 수상 목록](../Page/NBA_수상_목록.md "wikilink")
   - [NBA G 리그 수상 목록](../Page/NBA_G_리그_수상_목록.md "wikilink")
 
 [수상 목록](https://ko.wikipedia.org/wiki/분류:WNBA_상 "wikilink") [분류:여성상](https://ko.wikipedia.org/wiki/분류:여성상 "wikilink")

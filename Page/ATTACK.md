@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATTACK](https://ko.wikipedia.org/wiki/ATTACK).
 
 
-〈**ATTACK**〉(어택)은 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [1월 1일에](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 첫 [정규 음반이다](https://ko.wikipedia.org/wiki/정규_음반 "wikilink").
+〈**ATTACK**〉(어택)은 [2006년](../Page/2006년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 첫 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 해설
 
@@ -15,7 +15,7 @@
 
 ### CD(CD+DVD・CD ONLY ver.)
 
-1.  **[BLOOD on FIRE](https://ko.wikipedia.org/wiki/BLOOD_on_FIRE "wikilink")** \[4:29\]
+1.  **[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")** \[4:29\]
       - 작사: [사사키 오사무](https://ko.wikipedia.org/wiki/사사키_오사무 "wikilink") / 작곡 · 편곡: 와타나베 미키 / 랩 가사: [히다카 미츠히로](https://ko.wikipedia.org/wiki/히다카_미츠히로 "wikilink")
     <!-- end list -->
       -

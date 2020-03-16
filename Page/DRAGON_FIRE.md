@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DRAGON FIRE](https://ko.wikipedia.org/wiki/DRAGON_FIRE).
 
 
-〈**DRAGON FIRE**〉(드래곤 파이어)는 일본의 음악 그룹 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 네 번째 싱글이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 7일에](https://ko.wikipedia.org/wiki/12월_7일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**DRAGON FIRE**〉(드래곤 파이어)는 일본의 음악 그룹 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 네 번째 싱글이다. [2005년](../Page/2005년.md "wikilink") [12월 7일에](../Page/12월_7일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 개요
 
@@ -20,7 +20,7 @@
       - 작사 · 작곡 · 편곡: [시미즈 아키오](https://ko.wikipedia.org/wiki/시미즈_아키오 "wikilink")
     <!-- end list -->
       -
-        《[아이치테루](https://ko.wikipedia.org/wiki/아이치테루 "wikilink")\!》([TBS](../Page/TBS_텔레비전.md "wikilink")) 2005년 12월 \~ 2006년 1월 닫는 곡.
+        《[아이치테루](../Page/아이치테루.md "wikilink")\!》([TBS](../Page/TBS_텔레비전.md "wikilink")) 2005년 12월 \~ 2006년 1월 닫는 곡.
 2.  DRAGON FIRE (Instrumental)
 
 <!-- end list -->

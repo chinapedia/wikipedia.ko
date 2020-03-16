@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Q](https://ko.wikipedia.org/wiki/Q).
 
 
-《**포핀Q**》(ポッピンQ)는 [도에이 애니메이션에서](https://ko.wikipedia.org/wiki/도에이_애니메이션 "wikilink") [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [12월 23일에](https://ko.wikipedia.org/wiki/12월_23일 "wikilink") 공개할 예정인 [애니메이션 영화](https://ko.wikipedia.org/wiki/애니메이션_영화 "wikilink") 작품이다.
+《**포핀Q**》(ポッピンQ)는 [도에이 애니메이션에서](../Page/도에이_애니메이션.md "wikilink") [2016년](../Page/2016년.md "wikilink") [12월 23일에](../Page/12월_23일.md "wikilink") 공개할 예정인 [애니메이션 영화](../Page/애니메이션_영화.md "wikilink") 작품이다.
 
 ## 스토리
 
@@ -60,7 +60,7 @@
 <!-- end list -->
 
   - 루피이(ルピイ)
-    목소리 - [아라이 사토미](https://ko.wikipedia.org/wiki/아라이_사토미 "wikilink")
+    목소리 - [아라이 사토미](../Page/아라이_사토미.md "wikilink")
 
 ## 웹 라디오
 

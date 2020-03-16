@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [MIRAGE \(AAA \)](https://ko.wikipedia.org/wiki/MIRAGE_\(AAA_\)).
 
 
-〈**MIRAGE**〉(미라주, )는 일본의 음악 그룹 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 열일곱 번째 [싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"). [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [1월 9일에](https://ko.wikipedia.org/wiki/1월_9일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**MIRAGE**〉(미라주, )는 일본의 음악 그룹 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 열일곱 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2008년](../Page/2008년.md "wikilink") [1월 9일에](../Page/1월_9일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 개요
 
   - 《2nd Anniversary Live -5th ATTACK 070922- at 일본무도관》과 동시 발매.
   - ‘CD+DVD ver.’ · ‘CD ONLY ver.’ · ‘CD ONLY (EXTRA) ver.’의 세 형태로 발매됐다. 첫 시도로 ‘CD ONLY (EXTRA) ver.’에는 멤버 출연의 버라이어티 무비 ‘AAA 비밀 그래프’()를 수록하고 있다.
-  - AAA의 싱글로는 첫 커플링곡이 수록됐다. 커플링곡인 〈Love Candle〉은 [스에요시 슈타와](https://ko.wikipedia.org/wiki/스에요시_슈타 "wikilink") [우라타 나오야의](https://ko.wikipedia.org/wiki/우라타_나오야 "wikilink") 듀엣곡. 코러스로 다른 남성 멤버가 참가하고 있다.
+  - AAA의 싱글로는 첫 커플링곡이 수록됐다. 커플링곡인 〈Love Candle〉은 [스에요시 슈타와](../Page/스에요시_슈타.md "wikilink") [우라타 나오야의](../Page/우라타_나오야.md "wikilink") 듀엣곡. 코러스로 다른 남성 멤버가 참가하고 있다.
 
 ## 주요 기록
 
-2008년 [1월 21일자](https://ko.wikipedia.org/wiki/1월_21일 "wikilink") 오리콘 주간 차트에서 1위로 차트인을 하고 AAA로는 처음이 되는 최고순위를 기록했다. 초동 매상은 25,333장을 기록. 또한, 이 장수는 최고순위를 기록했던 장수로는 당시에는 사상최소였으며, [우에무라 카나의](https://ko.wikipedia.org/wiki/우에무라_카나 "wikilink") 싱글 〈[화장실의 신](https://ko.wikipedia.org/wiki/화장실의_신 "wikilink")〉에 의한 주간 매상장수 11,327장([오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 2011년 1월 10일자)까지 2년 11개월간 유지하고 있었다(다만, 〈화장실의 신〉은 발매 6주째에서의 최고순위를 기록). 또, 첫 등장으로의 최고순위를 획등한 작품으로도 당시 사상최소종수이며, [이와사 미사키의](https://ko.wikipedia.org/wiki/이와사_미사키 "wikilink") 싱글 〈[병의 포모정](https://ko.wikipedia.org/wiki/병의_포모정 "wikilink")〉에 의한 주간 매상장수 11,928장([오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 2014년 1월 20일자)까지 6년간 유지하고 있었다.
+2008년 [1월 21일자](../Page/1월_21일.md "wikilink") 오리콘 주간 차트에서 1위로 차트인을 하고 AAA로는 처음이 되는 최고순위를 기록했다. 초동 매상은 25,333장을 기록. 또한, 이 장수는 최고순위를 기록했던 장수로는 당시에는 사상최소였으며, [우에무라 카나의](https://ko.wikipedia.org/wiki/우에무라_카나 "wikilink") 싱글 〈[화장실의 신](https://ko.wikipedia.org/wiki/화장실의_신 "wikilink")〉에 의한 주간 매상장수 11,327장([오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 2011년 1월 10일자)까지 2년 11개월간 유지하고 있었다(다만, 〈화장실의 신〉은 발매 6주째에서의 최고순위를 기록). 또, 첫 등장으로의 최고순위를 획등한 작품으로도 당시 사상최소종수이며, [이와사 미사키의](../Page/이와사_미사키.md "wikilink") 싱글 〈[병의 포모정](https://ko.wikipedia.org/wiki/병의_포모정 "wikilink")〉에 의한 주간 매상장수 11,928장([오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 2014년 1월 20일자)까지 6년간 유지하고 있었다.
 
 ## 수록내용
 

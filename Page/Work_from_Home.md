@@ -7,7 +7,7 @@
 
 ## 외부 링크
 
-  - [뮤직 비디오](https://www.youtube.com/watch?v=5GL9JoH4Sws) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [뮤직 비디오](https://www.youtube.com/watch?v=5GL9JoH4Sws) - [유튜브](../Page/유튜브.md "wikilink")
 
 [분류:2016년 싱글](https://ko.wikipedia.org/wiki/분류:2016년_싱글 "wikilink") [분류:2016년 노래](https://ko.wikipedia.org/wiki/분류:2016년_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:피프스 하모니의 노래](https://ko.wikipedia.org/wiki/분류:피프스_하모니의_노래 "wikilink") [분류:타이 달라 사인의 노래](https://ko.wikipedia.org/wiki/분류:타이_달라_사인의_노래 "wikilink")
 

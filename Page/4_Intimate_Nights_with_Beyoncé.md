@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [4 Intimate Nights with Beyonc](https://ko.wikipedia.org/wiki/4_Intimate_Nights_with_Beyonc).
 
 
-**4 Intimate Nights with Beyoncé**는 미국 [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink") 가수 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 두 번째 [레지던트 쇼이다](https://ko.wikipedia.org/wiki/레지던트_쇼 "wikilink"). 2009년 7월부터 8월까지 밤에 [4를](https://ko.wikipedia.org/wiki/4_\(비욘세_놀스의_음반\) "wikilink") 홍보하는 목적으로 공연되었다. 콘서트는 [뉴욕주](https://ko.wikipedia.org/wiki/뉴욕주 "wikilink") [맨해튼](https://ko.wikipedia.org/wiki/맨해튼 "wikilink") [로즈랜드 무도회장에서](https://ko.wikipedia.org/wiki/로즈랜드_무도회장 "wikilink") 열렸다.
+**4 Intimate Nights with Beyoncé**는 미국 [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink") 가수 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 두 번째 [레지던트 쇼이다](https://ko.wikipedia.org/wiki/레지던트_쇼 "wikilink"). 2009년 7월부터 8월까지 밤에 [4를](https://ko.wikipedia.org/wiki/4_\(비욘세_놀스의_음반\) "wikilink") 홍보하는 목적으로 공연되었다. 콘서트는 [뉴욕주](../Page/뉴욕주.md "wikilink") [맨해튼](../Page/맨해튼.md "wikilink") [로즈랜드 무도회장에서](https://ko.wikipedia.org/wiki/로즈랜드_무도회장 "wikilink") 열렸다.
 
 콘서트 내용은 나중에 [Beyonce - Live at Roseland / Elements of 4라는](https://ko.wikipedia.org/wiki/Beyonce_-_Live_at_Roseland_/_Elements_of_4 "wikilink") 이름으로 DVD 발매되었다.
 
@@ -21,8 +21,8 @@
 3.  "['03 Bonnie & Clyde](https://ko.wikipedia.org/wiki/'03_Bonnie_&_Clyde "wikilink")"
 4.  "[Crazy in Love](https://ko.wikipedia.org/wiki/Crazy_in_Love_\(Beyoncé_song\) "wikilink")"
 5.  "Dreamgirls"
-6.  "[Irreplaceable](https://ko.wikipedia.org/wiki/Irreplaceable "wikilink")"
-7.  "[Single Ladies (Put a Ring on It)](https://ko.wikipedia.org/wiki/Single_Ladies_\(Put_a_Ring_on_It\) "wikilink")"
+6.  "[Irreplaceable](../Page/Irreplaceable.md "wikilink")"
+7.  "[Single Ladies (Put a Ring on It)](../Page/Single_Ladies_\(Put_a_Ring_on_It\).md "wikilink")"
 8.  "[1+1](https://ko.wikipedia.org/wiki/1+1_\(song\) "wikilink")"
 9.  "[I Care](https://ko.wikipedia.org/wiki/I_Care_\(Beyoncé_song\) "wikilink")"
 10. "[I Miss You](https://ko.wikipedia.org/wiki/I_Miss_You_\(Beyoncé_song\) "wikilink")"

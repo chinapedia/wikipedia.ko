@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [EXOPLANET 3 - The EXO\'rDIUM -](https://ko.wikipedia.org/wiki/EXOPLANET_3_-_The_EXO\'rDIUM_-).
 
 
-《**EXOPLANET \#3 - The EXO'rDIUM -**》은 대한민국의 음악 그룹 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")의 세 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**EXOPLANET \#3 - The EXO'rDIUM -**》은 대한민국의 음악 그룹 [EXO](../Page/EXO.md "wikilink")의 세 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 
-2016년 6월 15일, SM 엔터테인먼트는 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") 공식 홈페이지를 통해 EXO의 세 번째 단독 콘서트 일정을 발표하였으며,\[1\] 지난 투어인 〈[EXOPLANET 2 - The EXO'luXion -](../Page/EXOPLANET_2_-_The_EXO'luXion_-.md "wikilink")〉에서의 서버 다운에 대비하여 5회에 걸쳐 열리는 서울 공연의 티켓 예매는 7월 23일과 24일 공연은 6월 21일, 7월 29일부터 31일까지의 3회 공연 일정은 6월 23일에 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 진행되었다. 특히 애플리케이션을 통해 정품 티켓을 확인할 수 있는 시스템을 공연계로서는 처음 도입, 스마트폰으로 티켓을 스캔하는 'EXO PLANET' 애플리케이션을 특별 제작하여 위조 티켓 구매로 인한 피해에 대비하기도 했다. 이전 투어와 마찬가지로 티켓 오픈과 동시에 전석 매진되며 22일에 공연 일정이 추가되어 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink")는 사상 최초로 6회에 걸쳐 서울 올림픽 체조 경기장 무대에 오르게 되었다.
+2016년 6월 15일, SM 엔터테인먼트는 [EXO](../Page/EXO.md "wikilink") 공식 홈페이지를 통해 EXO의 세 번째 단독 콘서트 일정을 발표하였으며,\[1\] 지난 투어인 〈[EXOPLANET 2 - The EXO'luXion -](../Page/EXOPLANET_2_-_The_EXO'luXion_-.md "wikilink")〉에서의 서버 다운에 대비하여 5회에 걸쳐 열리는 서울 공연의 티켓 예매는 7월 23일과 24일 공연은 6월 21일, 7월 29일부터 31일까지의 3회 공연 일정은 6월 23일에 [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다. 특히 애플리케이션을 통해 정품 티켓을 확인할 수 있는 시스템을 공연계로서는 처음 도입, 스마트폰으로 티켓을 스캔하는 'EXO PLANET' 애플리케이션을 특별 제작하여 위조 티켓 구매로 인한 피해에 대비하기도 했다. 이전 투어와 마찬가지로 티켓 오픈과 동시에 전석 매진되며 22일에 공연 일정이 추가되어 [EXO](../Page/EXO.md "wikilink")는 사상 최초로 6회에 걸쳐 서울 올림픽 체조 경기장 무대에 오르게 되었다.
 
 ## The EXO'rDIUM \[dot\]
 
-2017년 3월 30일, SM 엔터테인먼트는 [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") 공식 홈페이지를 통해 [서울올림픽주경기장](https://ko.wikipedia.org/wiki/서울올림픽주경기장 "wikilink")에서의 2일 간의 《EXOPLANET \#3 - The EXO'rDIUM \[dot\] -》 일정을 발표하였으며 예매는 [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")를 통해 5월 27일 공연은 4월 12일, 5월 28일 공연은 4월 18일에 2주에 걸쳐 진행되었다.\[2\] EXO는 이로써 2일에 걸쳐 서울올림픽주경기장에 오르는 위엄을 달성하였으며 투어의 대미를 장식하는 의미로 공연 타이틀에 마침표를 의미하는 \[dot\]을 추가하였다.
+2017년 3월 30일, SM 엔터테인먼트는 [EXO](../Page/EXO.md "wikilink") 공식 홈페이지를 통해 [서울올림픽주경기장](../Page/서울올림픽주경기장.md "wikilink")에서의 2일 간의 《EXOPLANET \#3 - The EXO'rDIUM \[dot\] -》 일정을 발표하였으며 예매는 [YES24](../Page/YES24.md "wikilink")를 통해 5월 27일 공연은 4월 12일, 5월 28일 공연은 4월 18일에 2주에 걸쳐 진행되었다.\[2\] EXO는 이로써 2일에 걸쳐 서울올림픽주경기장에 오르는 위엄을 달성하였으며 투어의 대미를 장식하는 의미로 공연 타이틀에 마침표를 의미하는 \[dot\]을 추가하였다.
 
 ## 투어 일정
 
@@ -35,7 +35,7 @@
 <td><p>2016년 7월 22일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽체조경기장" title="wikilink">올림픽체조경기장</a>[3]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[3]</p></td>
 <td><p>통산 84,696명</p></td>
 </tr>
 <tr class="odd">
@@ -75,7 +75,7 @@
 </tr>
 <tr class="even">
 <td><p>2016년 9월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방콕" title="wikilink">방콕</a></p></td>
+<td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임팩트 아레나 무앙 통 타니[4]</p></td>
 <td><p>통산 26,984명</p></td>
@@ -91,7 +91,7 @@
 <td><p>2016년 9월 13일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/히로시마_시" title="wikilink">광도</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/히로시마_현립_종합_체육관" title="wikilink">그린 아레나</a></p></td>
+<td><p><a href="../Page/히로시마_현립_종합_체육관.md" title="wikilink">그린 아레나</a></p></td>
 <td><p>통산 16,396명</p></td>
 </tr>
 <tr class="odd">
@@ -105,7 +105,7 @@
 <td><p>2016년 9월 30일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/항주" title="wikilink">항주</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/황룡_스포츠_센터" title="wikilink">황룡 경기장</a></p></td>
+<td><p><a href="../Page/황룡_스포츠_센터.md" title="wikilink">황룡 경기장</a></p></td>
 <td><p>12,634명</p></td>
 </tr>
 <tr class="odd">
@@ -182,7 +182,7 @@
 <td><p>2016년 11월 30일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄_돔" title="wikilink">도쿄 돔</a>[6]</p></td>
+<td><p><a href="../Page/도쿄_돔.md" title="wikilink">도쿄 돔</a>[6]</p></td>
 <td><p>통산 104,978명</p></td>
 </tr>
 <tr class="even">
@@ -195,7 +195,7 @@
 <tr class="odd">
 <td><p>2016년 12월 9일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대판" title="wikilink">대판</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카_돔" title="wikilink">쿄세라 돔 오사카</a>[7]</p></td>
+<td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a>[7]</p></td>
 <td><p>통산 135,720명</p></td>
 <td></td>
 </tr>
@@ -229,7 +229,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 2월 25일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마닐라" title="wikilink">마닐라</a></p></td>
+<td><p><a href="../Page/마닐라.md" title="wikilink">마닐라</a></p></td>
 <td></td>
 <td><p>스마트 아라네타 콜로세움[9]</p></td>
 <td><p>통산 20,306명</p></td>
@@ -243,7 +243,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 3월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠알라룸푸르" title="wikilink">쿠알라룸푸르</a></p></td>
+<td><p><a href="../Page/쿠알라룸푸르.md" title="wikilink">쿠알라룸푸르</a></p></td>
 <td></td>
 <td><p>메르데카 스타디움[10]</p></td>
 <td><p>26,183명</p></td>
@@ -264,14 +264,14 @@
 </tr>
 <tr class="odd">
 <td><p>2017년 4월 25일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴어크_(뉴저지주)" title="wikilink">뉴어크</a></p></td>
+<td><p><a href="../Page/뉴어크_(뉴저지주).md" title="wikilink">뉴어크</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프루덴셜_센터" title="wikilink">프루덴셜 센터</a></p></td>
+<td><p><a href="../Page/프루덴셜_센터.md" title="wikilink">프루덴셜 센터</a></p></td>
 <td><p>5,999명</p></td>
 </tr>
 <tr class="even">
 <td><p>2017년 4월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멕시코시티" title="wikilink">멕시코시티</a></p></td>
+<td><p><a href="../Page/멕시코시티.md" title="wikilink">멕시코시티</a></p></td>
 <td></td>
 <td><p>멕시코시티 아레나</p></td>
 <td><p>12,784명</p></td>
@@ -294,7 +294,7 @@
 <td><p>2017년 5월 27일</p></td>
 <td><p>서울</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울올림픽주경기장" title="wikilink">서울올림픽주경기장</a>[12]<small>[dot]</small></p></td>
+<td><p><a href="../Page/서울올림픽주경기장.md" title="wikilink">서울올림픽주경기장</a>[12]<small>[dot]</small></p></td>
 <td><p>통산 86,382명</p></td>
 </tr>
 <tr class="even">
@@ -343,7 +343,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>《EXOPLANET #3 - The EXO'rDIUM - in SEOUL》 DVD</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/9월_25일" title="wikilink">9월 25일</a></li>
+<li>발매일 : <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_25일.md" title="wikilink">9월 25일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -367,7 +367,7 @@
 <td style="text-align: left;"><p>라이브앨범</p></td>
 <td style="text-align: left;"><p>《EXOPLANET #3 - The EXO'rDIUM [dot] - in SEOUL》</p>
 <ul>
-<li>발매일 : <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/10월_25일" title="wikilink">10월 25일</a></li>
+<li>발매일 : <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/10월_25일.md" title="wikilink">10월 25일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -398,10 +398,10 @@
 
 ## 제작
 
-  - [EXO](https://ko.wikipedia.org/wiki/EXO "wikilink") ([디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [찬열](../Page/찬열.md "wikilink"), [세훈](../Page/세훈.md "wikilink"), [수호](https://ko.wikipedia.org/wiki/수호_\(1991년\) "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(1992년\) "wikilink"))
+  - [EXO](../Page/EXO.md "wikilink") ([디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [찬열](../Page/찬열.md "wikilink"), [세훈](../Page/세훈.md "wikilink"), [수호](https://ko.wikipedia.org/wiki/수호_\(1991년\) "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(1992년\) "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
   - 총연출 : [심재원](https://ko.wikipedia.org/wiki/심재원_\(가수\) "wikilink")
 
 ## 각주

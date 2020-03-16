@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [STREET \(EXID \)](https://ko.wikipedia.org/wiki/STREET_\(EXID_\)).
 
 
-《**STREET**》(스트리트)는 대한민국의 걸그룹 [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 첫 번째 정규음반이다.
+《**STREET**》(스트리트)는 대한민국의 걸그룹 [EXID](../Page/EXID.md "wikilink")의 첫 번째 정규음반이다.
 
 ## 개요
 
-  - 〈Only One〉은 [솔지하니가](https://ko.wikipedia.org/wiki/다소니 "wikilink") 아닌 [EXID](https://ko.wikipedia.org/wiki/EXID "wikilink")의 완전체로 부른 노래이다.
+  - 〈Only One〉은 [솔지하니가](../Page/다소니.md "wikilink") 아닌 [EXID](../Page/EXID.md "wikilink")의 완전체로 부른 노래이다.
   - 수록곡 〈L.I.E〉가 공개된지 하루만에 중국의 [웨이보](https://ko.wikipedia.org/wiki/웨이보 "wikilink") 차트에서 1위를 기록했다.\[1\]
 
 ## 수록곡

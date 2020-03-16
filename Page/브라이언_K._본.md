@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ K. ](https://ko.wikipedia.org/wiki/_K._).
 
 
-**브라이언 K. 본**(, [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") \~ )은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink")이다. 《[Y: 더 라스트 맨](https://ko.wikipedia.org/wiki/Y:_더_라스트_맨 "wikilink")》, 《[사가](https://ko.wikipedia.org/wiki/사가 "wikilink")》 등의 흥행으로 21세기 떠오르는 작가이다. 《[로스트](https://ko.wikipedia.org/wiki/로스트 "wikilink")》, 《[언더 더 돔](https://ko.wikipedia.org/wiki/언더_더_돔 "wikilink")》 등 TV 드라마 집필 경력도 있다.
+**브라이언 K. 본**(, [1976년](../Page/1976년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink")이다. 《[Y: 더 라스트 맨](https://ko.wikipedia.org/wiki/Y:_더_라스트_맨 "wikilink")》, 《[사가](https://ko.wikipedia.org/wiki/사가 "wikilink")》 등의 흥행으로 21세기 떠오르는 작가이다. 《[로스트](../Page/로스트.md "wikilink")》, 《[언더 더 돔](https://ko.wikipedia.org/wiki/언더_더_돔 "wikilink")》 등 TV 드라마 집필 경력도 있다.
 
 ## 저작
 
-### [마블 코믹스](https://ko.wikipedia.org/wiki/마블_코믹스 "wikilink")
+### [마블 코믹스](../Page/마블_코믹스.md "wikilink")
 
 | 제목                                                                    | 원제                      | 이슈               | 작화                                                                                                                             | 연도      |
 | --------------------------------------------------------------------- | ----------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------- |
@@ -15,7 +15,7 @@
 | [러너웨이스](https://ko.wikipedia.org/wiki/러너웨이스 "wikilink") (1부)          | *Runaways* Vol.1        | \#1-18           | [에이드리언 알포나](https://ko.wikipedia.org/wiki/에이드리언_알포나 "wikilink"), [미야자와 다케시](https://ko.wikipedia.org/wiki/미야자와_다케시 "wikilink") | 2003-04 |
 | 러너웨이스 (2부)                                                            | *Runaways* Vol.2        | \#1-24           | 에이드리언 알포나, 미야자와 다케시, [마이크 노턴](https://ko.wikipedia.org/wiki/마이크_노턴 "wikilink")                                                 | 2005-07 |
 | [닥터 스트레인지: 서약](https://ko.wikipedia.org/wiki/닥터_스트레인지:_서약 "wikilink") | *Dr. Strange: The Oath* | \#1-5            | [마르코스 마르틴](https://ko.wikipedia.org/wiki/마르코스_마르틴 "wikilink")                                                                  | 2006-07 |
-| [로건](https://ko.wikipedia.org/wiki/울버린_\(마블_코믹스\) "wikilink")         | *Logan*                 | \#1-3            | [에두아르도 리소](https://ko.wikipedia.org/wiki/에두아르도_리소 "wikilink")                                                                  | 2008    |
+| [로건](../Page/울버린_\(마블_코믹스\).md "wikilink")                            | *Logan*                 | \#1-3            | [에두아르도 리소](https://ko.wikipedia.org/wiki/에두아르도_리소 "wikilink")                                                                  | 2008    |
 |                                                                       |                         |                  |                                                                                                                                |         |
 
 ### [버티고](https://ko.wikipedia.org/wiki/버티고 "wikilink")
@@ -38,7 +38,7 @@
 
 ## 텔레비전 프로그램 연출작
 
-  - 《[로스트](https://ko.wikipedia.org/wiki/로스트 "wikilink")》 일부 에피소드
+  - 《[로스트](../Page/로스트.md "wikilink")》 일부 에피소드
   - 《[언더 더 돔](https://ko.wikipedia.org/wiki/언더_더_돔 "wikilink")》
 
 ## 외부 링크

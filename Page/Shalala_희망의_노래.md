@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Shalala  ](https://ko.wikipedia.org/wiki/Shalala__).
 
 
-〈**Shalala 희망의 노래**〉()는 일본의 음악 그룹 [AAA의](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\) "wikilink") 여섯 번째 싱글이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 23일에](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
+〈**Shalala 희망의 노래**〉()는 일본의 음악 그룹 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 여섯 번째 싱글이다. [2006년](../Page/2006년.md "wikilink") [3월 23일에](../Page/3월_23일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
 
 ## 개요
 
@@ -16,10 +16,10 @@
 <!-- end list -->
 
 1.  **Shalala 희망의 노래**()
-      - 작사: [이시다 이라](https://ko.wikipedia.org/wiki/이시다_이라 "wikilink") / 작곡: 나루세 히데키 / 편곡: [이마이 료스케](https://ko.wikipedia.org/wiki/이마이_료스케 "wikilink")
+      - 작사: [이시다 이라](../Page/이시다_이라.md "wikilink") / 작곡: 나루세 히데키 / 편곡: [이마이 료스케](https://ko.wikipedia.org/wiki/이마이_료스케 "wikilink")
     <!-- end list -->
       -
-        [니혼카이 TV](https://ko.wikipedia.org/wiki/니혼카이_TV "wikilink") 계열 전국 29개국 네트워크 《프린 스》 2006년 4월 여는 곡
+        [니혼카이 TV](../Page/니혼카이_TV.md "wikilink") 계열 전국 29개국 네트워크 《프린 스》 2006년 4월 여는 곡
 2.  Shalala 희망의 노래 (Instrumental)
 
 <!-- end list -->

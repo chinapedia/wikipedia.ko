@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   Eyes of Heaven](https://ko.wikipedia.org/wiki/___Eyes_of_Heaven).
 
 
-**죠죠의 기묘한 모험 Eyes Of Heaven**(ジョジョの奇妙な冒険 アイズオブヘブン)은 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [12월 17일에](https://ko.wikipedia.org/wiki/12월_17일 "wikilink") [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") 발매한 [죠죠의 기묘한 모험 All Star Battle의](../Page/죠죠의_기묘한_모험_All_Star_Battle.md "wikilink") 후속작이다.
+**죠죠의 기묘한 모험 Eyes Of Heaven**(ジョジョの奇妙な冒険 アイズオブヘブン)은 [2015년](../Page/2015년.md "wikilink") [12월 17일에](../Page/12월_17일.md "wikilink") [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") 발매한 [죠죠의 기묘한 모험 All Star Battle의](../Page/죠죠의_기묘한_모험_All_Star_Battle.md "wikilink") 후속작이다.
 
 ## 개요
 
@@ -46,22 +46,22 @@
   - 윌 A. 체펠리
     성우 - [시오야 요쿠](https://ko.wikipedia.org/wiki/시오야_요쿠 "wikilink")
   - 디오 브란도
-    성우 - [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+    성우 - [코야스 타케히토](../Page/코야스_타케히토.md "wikilink")
   - 로버트 E.O 스피드 위겐
     성우-[우에다 요우지](https://ko.wikipedia.org/wiki/우에다_요우지 "wikilink")
 
 #### 2부 전투조류
 
   - 죠셉 죠스타
-    성우 - [스기타 토모카즈](https://ko.wikipedia.org/wiki/스기타_토모카즈 "wikilink")
+    성우 - [스기타 토모카즈](../Page/스기타_토모카즈.md "wikilink")
   - 시저 안토니오 체펠리
     성우 - [사토 타쿠야](../Page/사토_타쿠야.md "wikilink")
   - 리사리사
-    성우 - [타나카 아츠코](https://ko.wikipedia.org/wiki/타나카_아츠코 "wikilink")
+    성우 - [타나카 아츠코](../Page/타나카_아츠코.md "wikilink")
   - 와무우
     성우 - [오오츠카 아키오](../Page/오오츠카_아키오.md "wikilink")
   - 에시디시
-    성우 - [후지와라 케이지](https://ko.wikipedia.org/wiki/후지와라_케이지 "wikilink")
+    성우 - [후지와라 케이지](../Page/후지와라_케이지.md "wikilink")
   - 카즈
     성우 - [이노우에 카즈히코](https://ko.wikipedia.org/wiki/이노우에_카즈히코 "wikilink")
   - 루돌 폰 슈트로하임
@@ -69,15 +69,15 @@
 
 #### 3부 스타더스트 크루세이더즈
 
-  - [쿠죠 죠타로](https://ko.wikipedia.org/wiki/쿠죠_죠타로 "wikilink") & 스타 플래티나
-    성우 - [오노 다이스케](https://ko.wikipedia.org/wiki/오노_다이스케 "wikilink")
+  - [쿠죠 죠타로](../Page/쿠죠_죠타로.md "wikilink") & 스타 플래티나
+    성우 - [오노 다이스케](../Page/오노_다이스케.md "wikilink")
   - 카쿄인 노리아키
-    성우 - [히라카와 다이스케](https://ko.wikipedia.org/wiki/히라카와_다이스케 "wikilink")
+    성우 - [히라카와 다이스케](../Page/히라카와_다이스케.md "wikilink")
   - 장 피에르 폴나레프
     성우 - [코마츠 후미노리](https://ko.wikipedia.org/wiki/코마츠_후미노리 "wikilink")
   - 무함마드 압둘
     성우 - [미야케 켄타](https://ko.wikipedia.org/wiki/미야케_켄타 "wikilink")
-  - 이기 : 성우 - [후쿠엔 미사토](https://ko.wikipedia.org/wiki/후쿠엔_미사토 "wikilink")
+  - 이기 : 성우 - [후쿠엔 미사토](../Page/후쿠엔_미사토.md "wikilink")
     죠셉 죠스타
     성우 - [이즈카 운쇼](https://ko.wikipedia.org/wiki/이즈카_운쇼 "wikilink")
   - 홀 호스 + J. 가일
@@ -85,57 +85,57 @@
   - 은두르
     성우 - [이토 켄타로](https://ko.wikipedia.org/wiki/이토_켄타로 "wikilink")
   - 머라이어
-    성우- [타카가키 아야히](https://ko.wikipedia.org/wiki/타카가키_아야히 "wikilink")
+    성우- [타카가키 아야히](../Page/타카가키_아야히.md "wikilink")
   - 펫숍
     성우- 없음
   - 바닐라 아이스
-    성우 - [하야미 쇼](https://ko.wikipedia.org/wiki/하야미_쇼 "wikilink")
+    성우 - [하야미 쇼](../Page/하야미_쇼.md "wikilink")
   - DIO & 더 월드
-    성우 - [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+    성우 - [코야스 타케히토](../Page/코야스_타케히토.md "wikilink")
 
 #### 4부 다이아몬드는 부서지지 않는다
 
   - [히가시카타 죠스케](../Page/히가시카타_죠스케.md "wikilink") & 크레이지 다이아몬드
-    성우 - [하타노 와타루](https://ko.wikipedia.org/wiki/하타노_와타루 "wikilink")
+    성우 - [하타노 와타루](../Page/하타노_와타루.md "wikilink")
   - 니지무라 오쿠야스
     성우 - [타카기 와타루](https://ko.wikipedia.org/wiki/타카기_와타루 "wikilink")
   - 히로세 코이치
-    성우 - [박로미](https://ko.wikipedia.org/wiki/박로미 "wikilink")
+    성우 - [박로미](../Page/박로미.md "wikilink")
   - 오토이시 아키라
-    성우 - [모리쿠보 쇼타로](https://ko.wikipedia.org/wiki/모리쿠보_쇼타로 "wikilink")
+    성우 - [모리쿠보 쇼타로](../Page/모리쿠보_쇼타로.md "wikilink")
   - 야마기시 유카코
     성우 - [아카사키 치나츠](https://ko.wikipedia.org/wiki/아카사키_치나츠 "wikilink")
   - 키시베 로한
-    성우 - [카미야 히로시](https://ko.wikipedia.org/wiki/카미야_히로시 "wikilink")
+    성우 - [카미야 히로시](../Page/카미야_히로시.md "wikilink")
   - 키라 요시카게
-    성우 - [코야마 리키야](https://ko.wikipedia.org/wiki/코야마_리키야 "wikilink"), [카시와쿠라 츠토무](https://ko.wikipedia.org/wiki/카시와쿠라_츠토무 "wikilink")
-  - 얀구 시게키요: 성우 - [야마구치 캇페이](https://ko.wikipedia.org/wiki/야마구치_캇페이 "wikilink")
+    성우 - [코야마 리키야](../Page/코야마_리키야.md "wikilink"), [카시와쿠라 츠토무](https://ko.wikipedia.org/wiki/카시와쿠라_츠토무 "wikilink")
+  - 얀구 시게키요: 성우 - [야마구치 캇페이](../Page/야마구치_캇페이.md "wikilink")
     카와지리 코우사쿠 + 고양이풀 + 키라 요시히로
-    성우 - [코야마 리키야](https://ko.wikipedia.org/wiki/코야마_리키야 "wikilink"), [시마다 빈](https://ko.wikipedia.org/wiki/시마다_빈 "wikilink")
+    성우 - [코야마 리키야](../Page/코야마_리키야.md "wikilink"), [시마다 빈](../Page/시마다_빈.md "wikilink")
   - 4부 죠타로 & 스타 플래티나 더 월드
-    성우- [오노 다이스케](https://ko.wikipedia.org/wiki/오노_다이스케 "wikilink")
+    성우- [오노 다이스케](../Page/오노_다이스케.md "wikilink")
 
 #### 5부 황금의 바람
 
   - 죠르노 죠바나
-    성우 - [나미카와 다이스케](https://ko.wikipedia.org/wiki/나미카와_다이스케 "wikilink")
+    성우 - [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")
   - 귀도 미스타 & 섹스 피스톨즈
-    성우 - [아카바네 겐지](https://ko.wikipedia.org/wiki/아카바네_겐지 "wikilink"), [이마이 아사미](https://ko.wikipedia.org/wiki/이마이_아사미 "wikilink")
+    성우 - [아카바네 겐지](https://ko.wikipedia.org/wiki/아카바네_겐지 "wikilink"), [이마이 아사미](../Page/이마이_아사미.md "wikilink")
   - 블로노 부첼라티
-    성우- [스기야마 노리아키](https://ko.wikipedia.org/wiki/스기야마_노리아키 "wikilink")
+    성우- [스기야마 노리아키](../Page/스기야마_노리아키.md "wikilink")
   - 나란챠 길가
     성우 - [산페이 유코](https://ko.wikipedia.org/wiki/산페이_유코 "wikilink")
   - 판나코타 푸고 & 퍼플 헤이즈
-    성우 - [오다 히사후미](https://ko.wikipedia.org/wiki/오다_히사후미 "wikilink"),[에가와 히사오](https://ko.wikipedia.org/wiki/에가와_히사오 "wikilink")
+    성우 - [오다 히사후미](https://ko.wikipedia.org/wiki/오다_히사후미 "wikilink"),[에가와 히사오](../Page/에가와_히사오.md "wikilink")
   - 트리쉬 우나
     성우 - 토야마 나오
   - [디아볼로](../Page/디아볼로_\(죠죠의_기묘한_모험\).md "wikilink") + 비네거 도피오
-    성우 - [모리카와 토시유키](https://ko.wikipedia.org/wiki/모리카와_토시유키 "wikilink"), [이시다 아키라](https://ko.wikipedia.org/wiki/이시다_아키라 "wikilink")
+    성우 - [모리카와 토시유키](../Page/모리카와_토시유키.md "wikilink"), [이시다 아키라](../Page/이시다_아키라.md "wikilink")
 
 #### 6부 스톤 오션
 
   - 쿠죠 죠린
-    성우 - [사와시로 미유키](https://ko.wikipedia.org/wiki/사와시로_미유키 "wikilink")
+    성우 - [사와시로 미유키](../Page/사와시로_미유키.md "wikilink")
   - 에르메스 코스텔로
     성우 - [요네모토 치즈](https://ko.wikipedia.org/wiki/요네모토_치즈 "wikilink")
   - 나르시소 아나수이
@@ -143,27 +143,27 @@
   - 웨더 리포트
     성우-[오오카와 토오루](https://ko.wikipedia.org/wiki/오오카와_토오루 "wikilink")
   - 엔리코 푸치 & 화이트스네이크
-    성우 - [나카타 죠지](https://ko.wikipedia.org/wiki/나카타_죠지 "wikilink"), [미스타니 야스노리](https://ko.wikipedia.org/wiki/미스타니_야스노리 "wikilink")
+    성우 - [나카타 죠지](../Page/나카타_죠지.md "wikilink"), [미스타니 야스노리](https://ko.wikipedia.org/wiki/미스타니_야스노리 "wikilink")
   - 신월의 때를 기다리는 푸치 & C-MOON & 메이드 인 헤븐
-    성우 - [나카타 죠지](https://ko.wikipedia.org/wiki/나카타_죠지 "wikilink"), [미스타니 야스노리](https://ko.wikipedia.org/wiki/미스타니_야스노리 "wikilink")
+    성우 - [나카타 죠지](../Page/나카타_죠지.md "wikilink"), [미스타니 야스노리](https://ko.wikipedia.org/wiki/미스타니_야스노리 "wikilink")
 
 #### 7부 스틸 볼 런
 
   - [죠니 죠스타](../Page/죠나단_죠스타.md "wikilink")
-    성우 - [카지 유우키](https://ko.wikipedia.org/wiki/카지_유우키 "wikilink")
+    성우 - [카지 유우키](../Page/카지_유우키.md "wikilink")
   - 쟈이로 체펠리
-    성우 - [미키 신이치로](https://ko.wikipedia.org/wiki/미키_신이치로 "wikilink")
+    성우 - [미키 신이치로](../Page/미키_신이치로.md "wikilink")
   - 퍼니 발렌타인 & D4C
     성우 - [카세 야스유키](../Page/카세_야스유키.md "wikilink")
   - 디에고 브란도
-    성우- [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+    성우- [코야스 타케히토](../Page/코야스_타케히토.md "wikilink")
   - 평행세계에서 온 디에고
-    성우- [코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+    성우- [코야스 타케히토](../Page/코야스_타케히토.md "wikilink")
 
 #### 8부 죠죠리온
 
   - [히가시카타 죠스케](../Page/히가시카타_죠스케.md "wikilink") & 소프트&웨트
-    성우 - [마도노 미츠아키](https://ko.wikipedia.org/wiki/마도노_미츠아키 "wikilink")
+    성우 - [마도노 미츠아키](../Page/마도노_미츠아키.md "wikilink")
   - 히가시카타 죠슈
     성우 - 미루아 히로아키
 
@@ -193,12 +193,12 @@
     성우 - [혼다 타카코](https://ko.wikipedia.org/wiki/혼다_타카코 "wikilink")
   - 앰포리오 앨니뇨의 텔레포트
     스포츠 맥스
-    성우 - [토리우미 코스케](https://ko.wikipedia.org/wiki/토리우미_코스케 "wikilink")
+    성우 - [토리우미 코스케](../Page/토리우미_코스케.md "wikilink")
 
 ##### Part.8
 
   - 히가시카타 츠루키
-    성우 - [이구치 유카](https://ko.wikipedia.org/wiki/이구치_유카 "wikilink")
+    성우 - [이구치 유카](../Page/이구치_유카.md "wikilink")
 
 #### 카메오
 
@@ -223,7 +223,7 @@
   - 그레이플라이
     성우 - [쵸 카츠미](https://ko.wikipedia.org/wiki/쵸_카츠미 "wikilink")
   - 러버소울
-    성우 - [카와다 신지](https://ko.wikipedia.org/wiki/카와다_신지 "wikilink")
+    성우 - [카와다 신지](../Page/카와다_신지.md "wikilink")
   - 행드 맨
     성우 - [키리모토 타쿠야](https://ko.wikipedia.org/wiki/키리모토_타쿠야 "wikilink")
   - 알레시
@@ -234,7 +234,7 @@
   - 토니오 트루사루디
     성우 - [마츠바라 다이스케](https://ko.wikipedia.org/wiki/마츠바라_다이스케 "wikilink")
   - 츠지 아야
-    성우 - [미즈하시 카오리](https://ko.wikipedia.org/wiki/미즈하시_카오리 "wikilink")
+    성우 - [미즈하시 카오리](../Page/미즈하시_카오리.md "wikilink")
   - 훈가미 유야
     성우 - [칸바라 다이치](https://ko.wikipedia.org/wiki/칸바라_다이치 "wikilink")
 
@@ -254,14 +254,14 @@
   - 비바노 웨스트우드
     성우 - [하시 타카야](https://ko.wikipedia.org/wiki/하시_타카야 "wikilink")
   - 뮤치 뮬러
-    성우 - [와타나베 아케노](https://ko.wikipedia.org/wiki/와타나베_아케노 "wikilink")
+    성우 - [와타나베 아케노](../Page/와타나베_아케노.md "wikilink")
   - 리키엘
     성우 - [콘도 타카시](https://ko.wikipedia.org/wiki/콘도_타카시 "wikilink")
 
 ##### Part.7
 
   - 샌드맨
-    성우 - [노지마 히로후미](https://ko.wikipedia.org/wiki/노지마_히로후미 "wikilink")
+    성우 - [노지마 히로후미](../Page/노지마_히로후미.md "wikilink")
   - 핫팬츠
     성우 - [토요치 메구미](https://ko.wikipedia.org/wiki/토요치_메구미 "wikilink")
   - 벤자민 붐붐
@@ -272,16 +272,16 @@
 ##### Part.8
 
   - 히가시카타 노리스케
-    성우 - [코스기 쥬로타](https://ko.wikipedia.org/wiki/코스기_쥬로타 "wikilink")
+    성우 - [코스기 쥬로타](../Page/코스기_쥬로타.md "wikilink")
   - 히가시카타 다이야
-    성우 - [하야미 사오리](https://ko.wikipedia.org/wiki/하야미_사오리 "wikilink")
+    성우 - [하야미 사오리](../Page/하야미_사오리.md "wikilink")
   - 야기야마 요츠유
-    성우 - [마츠카제 마사야](https://ko.wikipedia.org/wiki/마츠카제_마사야 "wikilink")
+    성우 - [마츠카제 마사야](../Page/마츠카제_마사야.md "wikilink")
 
 #### 스토리 모드에서만 등장
 
   - 천국에 도달한 DIO & 더 월드 오버 헤븐
-    성우 -[코야스 타케히토](https://ko.wikipedia.org/wiki/코야스_타케히토 "wikilink")
+    성우 -[코야스 타케히토](../Page/코야스_타케히토.md "wikilink")
 
   - 어린 쿠죠 죠린
 

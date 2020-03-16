@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Xterm](https://ko.wikipedia.org/wiki/Xterm).
 
 
-**xterm**은 [컴퓨팅](https://ko.wikipedia.org/wiki/컴퓨팅 "wikilink")에서 [X 윈도 시스템을](https://ko.wikipedia.org/wiki/X_윈도_시스템 "wikilink") 위한 표준 [단말 에뮬레이터이다](https://ko.wikipedia.org/wiki/단말_에뮬레이터 "wikilink").
+**xterm**은 [컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 [X 윈도 시스템을](../Page/X_윈도_시스템.md "wikilink") 위한 표준 [단말 에뮬레이터이다](../Page/단말_에뮬레이터.md "wikilink").
 
 xterm은 X 윈도우 시스템(X Window System) 이전에 시작되었다. 원래는 X에 대한 작업을 시작한 1984년 여름 [짐 게티스의](https://ko.wikipedia.org/wiki/짐_게티스 "wikilink") 학생 Mark Vandevoorde가 [VAXstation 100](https://ko.wikipedia.org/wiki/VAXstation "wikilink")(VS100)용 독립형 단말 에뮬레이터로 만든 것이다. 독립형 프로그램 보다는 X의 일부가 되는 쪽이 더 유용하다고 판단되어 대상이 X로 방향을 바꾸었다.
 

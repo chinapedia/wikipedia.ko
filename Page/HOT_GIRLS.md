@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [HOT GIRLS](https://ko.wikipedia.org/wiki/HOT_GIRLS).
 
 
-〈**HOT GIRLS**〉(핫 걸스, )는 [La PomPon의](../Page/La_PomPon.md "wikilink") 두 번째 [싱글이며](https://ko.wikipedia.org/wiki/싱글_\(음악\) "wikilink"), [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 29일에](https://ko.wikipedia.org/wiki/4월_29일 "wikilink") 발매됐다.
+〈**HOT GIRLS**〉(핫 걸스, )는 [La PomPon의](../Page/La_PomPon.md "wikilink") 두 번째 [싱글이며](../Page/싱글_\(음악\).md "wikilink"), [2015년](../Page/2015년.md "wikilink") [4월 29일에](../Page/4월_29일.md "wikilink") 발매됐다.
 
 ## 해설
 
-메이저 데뷔 두번째가 되는 세컨드 싱글. 2015년 2월 1일에 도쿄 아오미의 비너스 포토에서 열린 데뷔 이벤트에서 발매가 발표됐다. 타이틀곡은 한 걸음도 내딛지 못하는 여자에게 “좀 더 대담하고 적극적인 여자 ‘HIT GIRL’을 목표로 하자”라는 여자를 향한 응원가이다. 멤버의 의상도 동화 《구두장이와 요정들》과 같이 남몰래 일을 척척하는 여자를 응원하는 폼폰별의 요정을 이미지해서 멤버 컬러에 맞춘 컬러풀한 폼폰 의상이다\[1\]\[2\]. [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV_방송망 "wikilink") 계열 《오늘밤 비교해봤습니다》 및 [지바 TV](https://ko.wikipedia.org/wiki/지바_TV "wikilink") 《[MUSIC LAUNCHER](https://ko.wikipedia.org/wiki/MUSIC_LAUNCHER "wikilink")》 4월, [TV 가나자와](https://ko.wikipedia.org/wiki/TV_가나자와 "wikilink") 《이웃의 텔레킨짱》 닫는 곡. 커플링곡은 〈사랑은 주크☆댄스〉는 [NHK ETV](https://ko.wikipedia.org/wiki/NHK_교육_텔리비전 "wikilink") 《[비트 월드](https://ko.wikipedia.org/wiki/비트_월드 "wikilink")》 내 《[비밀결사 매발톱단](https://ko.wikipedia.org/wiki/비밀결사_매발톱단 "wikilink") DO》 닫는 곡. 〈Step by Step \~롯폰기에서 힘내는 우리들\~〉에서는 리더 유키노가 작사에 도전하고 있다. 커플링곡의 작사가 Maquita Grande Negro는 오구로 마키의 펜네임이다.
+메이저 데뷔 두번째가 되는 세컨드 싱글. 2015년 2월 1일에 도쿄 아오미의 비너스 포토에서 열린 데뷔 이벤트에서 발매가 발표됐다. 타이틀곡은 한 걸음도 내딛지 못하는 여자에게 “좀 더 대담하고 적극적인 여자 ‘HIT GIRL’을 목표로 하자”라는 여자를 향한 응원가이다. 멤버의 의상도 동화 《구두장이와 요정들》과 같이 남몰래 일을 척척하는 여자를 응원하는 폼폰별의 요정을 이미지해서 멤버 컬러에 맞춘 컬러풀한 폼폰 의상이다\[1\]\[2\]. [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 계열 《오늘밤 비교해봤습니다》 및 [지바 TV](../Page/지바_TV.md "wikilink") 《[MUSIC LAUNCHER](https://ko.wikipedia.org/wiki/MUSIC_LAUNCHER "wikilink")》 4월, [TV 가나자와](../Page/TV_가나자와.md "wikilink") 《이웃의 텔레킨짱》 닫는 곡. 커플링곡은 〈사랑은 주크☆댄스〉는 [NHK ETV](https://ko.wikipedia.org/wiki/NHK_교육_텔리비전 "wikilink") 《[비트 월드](https://ko.wikipedia.org/wiki/비트_월드 "wikilink")》 내 《[비밀결사 매발톱단](https://ko.wikipedia.org/wiki/비밀결사_매발톱단 "wikilink") DO》 닫는 곡. 〈Step by Step \~롯폰기에서 힘내는 우리들\~〉에서는 리더 유키노가 작사에 도전하고 있다. 커플링곡의 작사가 Maquita Grande Negro는 오구로 마키의 펜네임이다.
 
 ## 수록곡
 
@@ -48,8 +48,8 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빙_(기업)" title="wikilink">빙</a></p></td>
+<td><p><a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></p></td>
+<td><p><a href="../Page/빙_(기업).md" title="wikilink">빙</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Boom Word Up](https://ko.wikipedia.org/wiki/Boom_Word_Up).
 
 
-**Boom Word Up**(붐 워드 업)는 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [5월 3일에](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") 발매된 윈즈([w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink"))의 36번째 싱글이다.
+**Boom Word Up**(붐 워드 업)는 [2016년](../Page/2016년.md "wikilink") [5월 3일에](../Page/5월_3일.md "wikilink") 발매된 윈즈([w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink"))의 36번째 싱글이다.
 
 ## 앨범 종류
 

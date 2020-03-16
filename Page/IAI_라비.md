@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IAI ](https://ko.wikipedia.org/wiki/IAI_).
 
 
-**IAI 라비**는 이스라엘 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")가 개발한 [4세대 전투기이다](https://ko.wikipedia.org/wiki/4세대_전투기 "wikilink").
+**IAI 라비**는 이스라엘 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")가 개발한 [4세대 전투기이다](../Page/4세대_전투기.md "wikilink").
 
 ## 역사
 
@@ -11,7 +11,7 @@
 
 ## 중국
 
-1998년 3월 23일 초도비행한 중국 [청두 J-10은](https://ko.wikipedia.org/wiki/청두_J-10 "wikilink") 삼각날개, 카나드의 외양, 엔진출력 2만 파운드, 최대이륙중량 19톤이 라비와 거의 똑같다. 라비의 기술이 중국으로 수출되었다는 보도는 없지만, 이스라엘은 [조기경보기](https://ko.wikipedia.org/wiki/조기경보기 "wikilink"), 각종 미사일의 완제품, 기술을 중국에 수출해왔다.
+1998년 3월 23일 초도비행한 중국 [청두 J-10은](../Page/청두_J-10.md "wikilink") 삼각날개, 카나드의 외양, 엔진출력 2만 파운드, 최대이륙중량 19톤이 라비와 거의 똑같다. 라비의 기술이 중국으로 수출되었다는 보도는 없지만, 이스라엘은 [조기경보기](https://ko.wikipedia.org/wiki/조기경보기 "wikilink"), 각종 미사일의 완제품, 기술을 중국에 수출해왔다.
 
 ## 제원 (라비)
 
@@ -20,7 +20,7 @@
 ## 같이 보기
 
   - [록웰-MBB X-31](https://ko.wikipedia.org/wiki/록웰-MBB_X-31 "wikilink")
-  - [청두 J-10](https://ko.wikipedia.org/wiki/청두_J-10 "wikilink")
+  - [청두 J-10](../Page/청두_J-10.md "wikilink")
 
 [분류:이스라엘의 전투기](https://ko.wikipedia.org/wiki/분류:이스라엘의_전투기 "wikilink") [분류:미국-이스라엘 관계](https://ko.wikipedia.org/wiki/분류:미국-이스라엘_관계 "wikilink") [분류:1986년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1986년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPER JUNIOR KYUHYUN JAPAN TOUR 2016 \~Knick Knack\~](https://ko.wikipedia.org/wiki/SUPER_JUNIOR_KYUHYUN_JAPAN_TOUR_2016_\~Knick_Knack\~).
 
 
-《**SUPER JUNIOR KYUHYUN JAPAN TOUR 2016 \~Knick Knack\~**》은 [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink")의 멤버 **[규현](https://ko.wikipedia.org/wiki/규현 "wikilink")**의 첫 번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 본래 12회로 예정되어 있었으나 호응이 좋아 샷포로와 동경에서의 각각 2일, 총 4회의 공연 일정이 추가되었다.
+《**SUPER JUNIOR KYUHYUN JAPAN TOUR 2016 \~Knick Knack\~**》은 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 **[규현](../Page/규현.md "wikilink")**의 첫 번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 본래 12회로 예정되어 있었으나 호응이 좋아 샷포로와 동경에서의 각각 2일, 총 4회의 공연 일정이 추가되었다.
 
 ## 투어 일정
 
@@ -29,28 +29,28 @@
 
 ## Fan's Request Zone
 
-| 도시                                                      | 순위\[3\]                                                       | 곡                                                               | 원곡                                                            |
-| ------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- |
-| [복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")     | **1**                                                         | 糸(こと - 실)                                                       | [나카지마 미유키](https://ko.wikipedia.org/wiki/나카지마_미유키 "wikilink") |
-| 2                                                       | 奏(かなで - 춤)                                                    | [스키마스위치](https://ko.wikipedia.org/wiki/스키마스위치 "wikilink")       |                                                               |
-| [찰황](https://ko.wikipedia.org/wiki/삿포로 "wikilink")      | **1**                                                         | 奏(かなで - 춤)                                                      | [스키마스위치](https://ko.wikipedia.org/wiki/스키마스위치 "wikilink")     |
-| 2                                                       | [야생화](../Page/야생화_\(박효신의_노래\).md "wikilink")                  | [박효신](https://ko.wikipedia.org/wiki/박효신 "wikilink")             |                                                               |
-| [대판](https://ko.wikipedia.org/wiki/오사카 "wikilink")      | **1**                                                         | [야생화](../Page/야생화_\(박효신의_노래\).md "wikilink")                    | [박효신](https://ko.wikipedia.org/wiki/박효신 "wikilink")           |
-| 2                                                       | 7년간의 사랑                                                       | [유영석](https://ko.wikipedia.org/wiki/유영석 "wikilink")             |                                                               |
-| [광도](https://ko.wikipedia.org/wiki/히로시마 "wikilink")     | **1**                                                         | 奏(かなで - 춤)                                                      | [스키마스위치](https://ko.wikipedia.org/wiki/스키마스위치 "wikilink")     |
-| 2                                                       | [야생화](../Page/야생화_\(박효신의_노래\).md "wikilink")                  | [박효신](https://ko.wikipedia.org/wiki/박효신 "wikilink")             |                                                               |
-| [횡빈](https://ko.wikipedia.org/wiki/요코하마 "wikilink")     | **1**                                                         | [야생화](../Page/야생화_\(박효신의_노래\).md "wikilink")                    | [박효신](https://ko.wikipedia.org/wiki/박효신 "wikilink")           |
-| 2                                                       | [기억의 습작](https://ko.wikipedia.org/wiki/Exhibition "wikilink") | [전람회](https://ko.wikipedia.org/wiki/전람회_\(음악_그룹\) "wikilink")   |                                                               |
-| [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | **1**                                                         | Pop Star                                                        | [히라이 켄](https://ko.wikipedia.org/wiki/히라이_켄 "wikilink")       |
-| 2                                                       | M                                                             | [프린세스 프린세스](https://ko.wikipedia.org/wiki/프린세스_프린세스 "wikilink") |                                                               |
-| [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")       | 1                                                             | 7년간의 사랑                                                         | [유영석](https://ko.wikipedia.org/wiki/유영석 "wikilink")           |
-| 2                                                       | [기억의 습작](https://ko.wikipedia.org/wiki/Exhibition "wikilink") | [전람회](https://ko.wikipedia.org/wiki/전람회_\(음악_그룹\) "wikilink")   |                                                               |
-| 3                                                       | [야생화](../Page/야생화_\(박효신의_노래\).md "wikilink")                  | [박효신](https://ko.wikipedia.org/wiki/박효신 "wikilink")             |                                                               |
-| 4                                                       | 糸(こと - 실)                                                     | [나카지마 미유키](https://ko.wikipedia.org/wiki/나카지마_미유키 "wikilink")   |                                                               |
-| 5                                                       | M                                                             | [프린세스 프린세스](https://ko.wikipedia.org/wiki/프린세스_프린세스 "wikilink") |                                                               |
-| 6                                                       | 奏(かなで - 춤)                                                    | [스키마스위치](https://ko.wikipedia.org/wiki/스키마스위치 "wikilink")       |                                                               |
-| 7                                                       | Pop Star                                                      | [히라이 켄](https://ko.wikipedia.org/wiki/히라이_켄 "wikilink")         |                                                               |
-|                                                         |                                                               |                                                                 |                                                               |
+| 도시                                                      | 순위\[3\]                                      | 곡                                                               | 원곡                                         |
+| ------------------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------ |
+| [복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")     | **1**                                        | 糸(こと - 실)                                                       | [나카지마 미유키](../Page/나카지마_미유키.md "wikilink") |
+| 2                                                       | 奏(かなで - 춤)                                   | [스키마스위치](../Page/스키마스위치.md "wikilink")                          |                                            |
+| [찰황](https://ko.wikipedia.org/wiki/삿포로 "wikilink")      | **1**                                        | 奏(かなで - 춤)                                                      | [스키마스위치](../Page/스키마스위치.md "wikilink")     |
+| 2                                                       | [야생화](../Page/야생화_\(박효신의_노래\).md "wikilink") | [박효신](../Page/박효신.md "wikilink")                                |                                            |
+| [대판](https://ko.wikipedia.org/wiki/오사카 "wikilink")      | **1**                                        | [야생화](../Page/야생화_\(박효신의_노래\).md "wikilink")                    | [박효신](../Page/박효신.md "wikilink")           |
+| 2                                                       | 7년간의 사랑                                      | [유영석](../Page/유영석.md "wikilink")                                |                                            |
+| [광도](https://ko.wikipedia.org/wiki/히로시마 "wikilink")     | **1**                                        | 奏(かなで - 춤)                                                      | [스키마스위치](../Page/스키마스위치.md "wikilink")     |
+| 2                                                       | [야생화](../Page/야생화_\(박효신의_노래\).md "wikilink") | [박효신](../Page/박효신.md "wikilink")                                |                                            |
+| [횡빈](https://ko.wikipedia.org/wiki/요코하마 "wikilink")     | **1**                                        | [야생화](../Page/야생화_\(박효신의_노래\).md "wikilink")                    | [박효신](../Page/박효신.md "wikilink")           |
+| 2                                                       | [기억의 습작](../Page/Exhibition.md "wikilink")   | [전람회](../Page/전람회_\(음악_그룹\).md "wikilink")                      |                                            |
+| [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | **1**                                        | Pop Star                                                        | [히라이 켄](../Page/히라이_켄.md "wikilink")       |
+| 2                                                       | M                                            | [프린세스 프린세스](https://ko.wikipedia.org/wiki/프린세스_프린세스 "wikilink") |                                            |
+| [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")       | 1                                            | 7년간의 사랑                                                         | [유영석](../Page/유영석.md "wikilink")           |
+| 2                                                       | [기억의 습작](../Page/Exhibition.md "wikilink")   | [전람회](../Page/전람회_\(음악_그룹\).md "wikilink")                      |                                            |
+| 3                                                       | [야생화](../Page/야생화_\(박효신의_노래\).md "wikilink") | [박효신](../Page/박효신.md "wikilink")                                |                                            |
+| 4                                                       | 糸(こと - 실)                                    | [나카지마 미유키](../Page/나카지마_미유키.md "wikilink")                      |                                            |
+| 5                                                       | M                                            | [프린세스 프린세스](https://ko.wikipedia.org/wiki/프린세스_프린세스 "wikilink") |                                            |
+| 6                                                       | 奏(かなで - 춤)                                   | [스키마스위치](../Page/스키마스위치.md "wikilink")                          |                                            |
+| 7                                                       | Pop Star                                     | [히라이 켄](../Page/히라이_켄.md "wikilink")                            |                                            |
+|                                                         |                                              |                                                                 |                                            |
 
 ## Dance Medley 요일별 추가곡
 
@@ -80,6 +80,6 @@
 
 [분류:규현의 콘서트 투어](https://ko.wikipedia.org/wiki/분류:규현의_콘서트_투어 "wikilink") [분류:2016년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2016년_콘서트_투어 "wikilink")
 
-1.  [규현](https://ko.wikipedia.org/wiki/규현 "wikilink")이 데뷔 10주년을 맞이한 날이기도 하다.
+1.  [규현](../Page/규현.md "wikilink")이 데뷔 10주년을 맞이한 날이기도 하다.
 2.
 3.  [동경](https://ko.wikipedia.org/wiki/동경 "wikilink") 공연에 한해서는 순위가 아닌 메들리 순서로 기록.

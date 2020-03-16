@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  GP](https://ko.wikipedia.org/wiki/__GP).
 
 
-《**슈퍼 모나코 GP**》(スーパーモナコGP)는 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [세가](https://ko.wikipedia.org/wiki/세가 "wikilink") 엑스 보드 [기판으로](https://ko.wikipedia.org/wiki/아케이드_기판 "wikilink") 나온 [포뮬라 1](https://ko.wikipedia.org/wiki/포뮬러_1 "wikilink") [레이싱](https://ko.wikipedia.org/wiki/레이싱_게임 "wikilink") [시뮬레이션](https://ko.wikipedia.org/wiki/시뮬레이션_게임 "wikilink") [게임이다](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink"). 이 게임은 [1990년대](https://ko.wikipedia.org/wiki/1990년대 "wikilink")의 여러 [비디오 게임기와](https://ko.wikipedia.org/wiki/비디오_게임기 "wikilink") [컴퓨터](https://ko.wikipedia.org/wiki/컴퓨터 "wikilink")로 이식되었으며 [모나코 GP의](https://ko.wikipedia.org/wiki/모나코_GP "wikilink") 후속작이다.
+《**슈퍼 모나코 GP**》(スーパーモナコGP)는 [1989년](../Page/1989년.md "wikilink") [세가](https://ko.wikipedia.org/wiki/세가 "wikilink") 엑스 보드 [기판으로](../Page/아케이드_기판.md "wikilink") 나온 [포뮬라 1](https://ko.wikipedia.org/wiki/포뮬러_1 "wikilink") [레이싱](https://ko.wikipedia.org/wiki/레이싱_게임 "wikilink") [시뮬레이션](https://ko.wikipedia.org/wiki/시뮬레이션_게임 "wikilink") [게임이다](../Page/비디오_게임.md "wikilink"). 이 게임은 [1990년대](../Page/1990년대.md "wikilink")의 여러 [비디오 게임기와](https://ko.wikipedia.org/wiki/비디오_게임기 "wikilink") [컴퓨터](../Page/컴퓨터.md "wikilink")로 이식되었으며 [모나코 GP의](https://ko.wikipedia.org/wiki/모나코_GP "wikilink") 후속작이다.
 
-[아미가](https://ko.wikipedia.org/wiki/아미가 "wikilink")와 [암스트래드 CPC](https://ko.wikipedia.org/wiki/암스트래드_CPC "wikilink"), [아타리 ST](https://ko.wikipedia.org/wiki/아타리_ST "wikilink"), [메가 드라이브](https://ko.wikipedia.org/wiki/메가_드라이브 "wikilink"), [세가 마스터 시스템](https://ko.wikipedia.org/wiki/세가_마스터_시스템 "wikilink"), [게임기어](https://ko.wikipedia.org/wiki/게임기어 "wikilink"), [ZX 스펙트럼으로](https://ko.wikipedia.org/wiki/ZX_스펙트럼 "wikilink") 이식되었다.
+[아미가](../Page/아미가.md "wikilink")와 [암스트래드 CPC](../Page/암스트래드_CPC.md "wikilink"), [아타리 ST](../Page/아타리_ST.md "wikilink"), [메가 드라이브](../Page/메가_드라이브.md "wikilink"), [세가 마스터 시스템](../Page/세가_마스터_시스템.md "wikilink"), [게임기어](https://ko.wikipedia.org/wiki/게임기어 "wikilink"), [ZX 스펙트럼으로](../Page/ZX_스펙트럼.md "wikilink") 이식되었다.
 
 ## 각주
 

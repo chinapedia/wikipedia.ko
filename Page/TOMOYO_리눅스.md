@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TOMOYO ](https://ko.wikipedia.org/wiki/TOMOYO_).
 
 
-**TOMOYO 리눅스**는 [강제적 접근 통제](https://ko.wikipedia.org/wiki/강제적_접근_통제 "wikilink")(MAC)를 구현한 [리눅스 커널](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") [보안 모듈이다](../Page/리눅스_보안_모듈.md "wikilink").
+**TOMOYO 리눅스**는 [강제적 접근 통제](https://ko.wikipedia.org/wiki/강제적_접근_통제 "wikilink")(MAC)를 구현한 [리눅스 커널](../Page/리눅스_커널.md "wikilink") [보안 모듈이다](../Page/리눅스_보안_모듈.md "wikilink").
 
 ## 개요
 
-유명한 만화 캐릭터의 이름을 딴 TOMOYO는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")를 위한 [MAC](https://ko.wikipedia.org/wiki/강제적_접근_통제 "wikilink") 구현이며 시스템의 보안을 향상시키는 것 외에도 순수한 [시스템 분석](https://ko.wikipedia.org/wiki/시스템_분석 "wikilink") 툴로도 유용하게 사용될 수 있다. 이것은 2003년 5월에 출시되었으며 2012년 5월까지 [NTT 데이터가](../Page/NTT_데이터.md "wikilink") 후원하였다.\[1\]
+유명한 만화 캐릭터의 이름을 딴 TOMOYO는 [리눅스](../Page/리눅스.md "wikilink")를 위한 [MAC](https://ko.wikipedia.org/wiki/강제적_접근_통제 "wikilink") 구현이며 시스템의 보안을 향상시키는 것 외에도 순수한 [시스템 분석](https://ko.wikipedia.org/wiki/시스템_분석 "wikilink") 툴로도 유용하게 사용될 수 있다. 이것은 2003년 5월에 출시되었으며 2012년 5월까지 [NTT 데이터가](../Page/NTT_데이터.md "wikilink") 후원하였다.\[1\]
 
 TOMOYO 리눅스는 시스템의 행위에 초점을 맞춘다. TOMOYO 리눅스는 각 프로세스들이 자신의 목적을 달성하기 위해 필요한 행위와 자원을 선언하게 한다. 보호가 활성화되면 TOMOYO 리눅스는 관리자에 의해 허용된 행위와 자원으로 각 프로세스를 제한한다.
 
@@ -21,7 +21,7 @@ TOMOYO 리눅스의 주요한 기능들은 다음과 같다:
 
 ## 역사와 버전
 
-TOMOYO는 리눅스 버전 2.6.30(2009년 6월 10일)부터 [리눅스 커널에](https://ko.wikipedia.org/wiki/리눅스_커널 "wikilink") 포함되었다.\[2\] 이것은 [SELinux](../Page/보안_강화_리눅스.md "wikilink"), [AppArmor](../Page/AppArmor.md "wikilink") 그리고 [SMACK과](../Page/Smack_\(소프트웨어\).md "wikilink") 함께, 4가지 표준 [LSM](../Page/리눅스_보안_모듈.md "wikilink") 모듈의 중 하나이다.
+TOMOYO는 리눅스 버전 2.6.30(2009년 6월 10일)부터 [리눅스 커널에](../Page/리눅스_커널.md "wikilink") 포함되었다.\[2\] 이것은 [SELinux](../Page/보안_강화_리눅스.md "wikilink"), [AppArmor](../Page/AppArmor.md "wikilink") 그리고 [SMACK과](../Page/Smack_\(소프트웨어\).md "wikilink") 함께, 4가지 표준 [LSM](../Page/리눅스_보안_모듈.md "wikilink") 모듈의 중 하나이다.
 
 TOMOYO 리눅스 프로젝트는 리눅스 커널에 MAC을 제공하기 위한 패치로부터 출발하였다. TOMOYO 리눅스를 주류 리눅스 커널에 포팅하려면 리눅스 보안 모듈(LSM)에 대한 훅(hooks)들\[3\]이 요구된다. 리눅스 보안 모듈은 특별히 SELinux와 이것의 *라벨 기반* 접근을 위해 설계되고 개발되었다.
 
