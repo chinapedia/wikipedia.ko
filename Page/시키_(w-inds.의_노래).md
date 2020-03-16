@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \(w-inds. \)](https://ko.wikipedia.org/wiki/_\(w-inds._\)).
 
 
-《**사계**》()는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 13번째 싱글이다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 6일](https://ko.wikipedia.org/wiki/10월_6일 "wikilink") FLIGHT MASTER([포니 캐년](../Page/포니_캐년.md "wikilink"))에서 발매하였다.
+《**사계**》()는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 13번째 싱글이다. [2004년](../Page/2004년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") FLIGHT MASTER([포니 캐년](../Page/포니_캐년.md "wikilink"))에서 발매하였다.
 
 ## 개요
 
@@ -9,11 +9,11 @@
 
 싱글 타이틀곡은 [하야마 히로아키가](../Page/하야마_히로아키.md "wikilink") 담당하였으며 하야마 히로아키의 악곡제공은 싱글 《[NEW PARADISE](../Page/NEW_PARADISE.md "wikilink")》 이후 약 2년 만이다. 커플링 곡은 2006년, 한국의 밴드 [트랙스](https://ko.wikipedia.org/wiki/트랙스 "wikilink")가 앨범 《초우》의 수록곡인 〈Sad Wedding Song〉이라는 제목으로 한국어로 리메이크 했다.
 
-이 곡으로 《[NHK 홍백가합전](../Page/NHK_홍백가합전.md "wikilink")》에 3년 연속으로 참가하였으며, 당시에는 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink"), [W와](https://ko.wikipedia.org/wiki/W_\(헬로!_프로젝트\) "wikilink") 대결했다.
+이 곡으로 《[NHK 홍백가합전](../Page/NHK_홍백가합전.md "wikilink")》에 3년 연속으로 참가하였으며, 당시에는 [모닝구무스메](../Page/모닝구무스메.md "wikilink"), [W와](https://ko.wikipedia.org/wiki/W_\(헬로!_프로젝트\) "wikilink") 대결했다.
 
 또한 CD에서는 [타치바나 케이타의](../Page/타치바나_케이타.md "wikilink") 파트였던 부분을 라이브 때에는 [오가타 류이치가](../Page/오가타_류이치.md "wikilink") 부르는 경우도 있다.
 
-초회한정반은 [CD](https://ko.wikipedia.org/wiki/CD "wikilink")+[DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")로 발매되었으며, 초회한정반 DVD에는 자켓촬영 현장, 라이브 [VHS](../Page/VHS.md "wikilink")\&DVD의 예고편이 수록되어 있다.
+초회한정반은 [CD](https://ko.wikipedia.org/wiki/CD "wikilink")+[DVD](../Page/DVD.md "wikilink")로 발매되었으며, 초회한정반 DVD에는 자켓촬영 현장, 라이브 [VHS](../Page/VHS.md "wikilink")\&DVD의 예고편이 수록되어 있다.
 
 ## 수록곡
 

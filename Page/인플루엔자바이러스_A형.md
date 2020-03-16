@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
 
 
-**인플루엔자바이러스 A형**()은 [오르토믹소바이러스](https://ko.wikipedia.org/wiki/오르토믹소바이러스 "wikilink")과를 이루는 속(屬)의 하나이다. 이 속으로 분류되는 바이러스는 A형 인플루엔자 바이러스() 하나뿐이다. 포유류와 조류를 [숙주](https://ko.wikipedia.org/wiki/숙주 "wikilink")로 삼으며, 대부분의 경우 비병원성이지만 일부 아종의 경우 숙주에게 [인플루엔자](https://ko.wikipedia.org/wiki/인플루엔자 "wikilink")를 일으킨다.\[1\] 이들은 유전물질로 단일가닥의 [RNA](https://ko.wikipedia.org/wiki/RNA "wikilink")를 가지고 있다.
+**인플루엔자바이러스 A형**()은 [오르토믹소바이러스](https://ko.wikipedia.org/wiki/오르토믹소바이러스 "wikilink")과를 이루는 속(屬)의 하나이다. 이 속으로 분류되는 바이러스는 A형 인플루엔자 바이러스() 하나뿐이다. 포유류와 조류를 [숙주](https://ko.wikipedia.org/wiki/숙주 "wikilink")로 삼으며, 대부분의 경우 비병원성이지만 일부 아종의 경우 숙주에게 [인플루엔자](../Page/인플루엔자.md "wikilink")를 일으킨다.\[1\] 이들은 유전물질로 단일가닥의 [RNA](../Page/RNA.md "wikilink")를 가지고 있다.
 
 ## 아종
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JNN  22 ](https://ko.wikipedia.org/wiki/JNN__22_).
 
 
-**JNN 뉴스 22 프라임타임**은 일본의 민영방송국 [도쿄 방송에서](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [10월 5일부터](https://ko.wikipedia.org/wiki/10월_5일 "wikilink") [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [9월 30일까지](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") 방송한 뉴스 프로그램이다.
+**JNN 뉴스 22 프라임타임**은 일본의 민영방송국 [도쿄 방송에서](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [1987년](../Page/1987년.md "wikilink") [10월 5일부터](../Page/10월_5일.md "wikilink") [1988년](../Page/1988년.md "wikilink") [9월 30일까지](../Page/9월_30일.md "wikilink") 방송한 뉴스 프로그램이다.
 
 ## 개요
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IntelliJ IDEA](https://ko.wikipedia.org/wiki/IntelliJ_IDEA).
 
 
-**IntelliJ IDEA**는 [JetBrains](https://ko.wikipedia.org/wiki/JetBrains "wikilink")사에서 제작한 상용 [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink") [통합 개발 환경이다](https://ko.wikipedia.org/wiki/통합_개발_환경 "wikilink"). 줄여서 **IntelliJ** 혹은 **IDEA**로도 불린다.
+**IntelliJ IDEA**는 [JetBrains](https://ko.wikipedia.org/wiki/JetBrains "wikilink")사에서 제작한 상용 [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink") [통합 개발 환경이다](../Page/통합_개발_환경.md "wikilink"). 줄여서 **IntelliJ** 혹은 **IDEA**로도 불린다.
 
 [이클립스 재단](../Page/이클립스_재단.md "wikilink") 의 [이클립스](https://ko.wikipedia.org/wiki/이클립스 "wikilink")와 [썬 마이크로시스템즈의](../Page/썬_마이크로시스템즈.md "wikilink") [넷빈즈](../Page/넷빈즈.md "wikilink")로 대표되는 무료 자바 통합개발환경에서 [볼랜드](../Page/볼랜드.md "wikilink")(/[코드기어](../Page/코드기어.md "wikilink"))의 [제이빌더](https://ko.wikipedia.org/wiki/제이빌더 "wikilink")()와 함께 얼마 안 되는 상용 개발 도구 가운데 하나이다.
 
@@ -21,43 +21,43 @@
 
 커뮤니티 에디션과 얼티밋 에디션은 아래의 표에 보이듯이 다양한 프로그래밍 언어를 지원 시 차이가 있다.\[3\]
 
-| 언어                                                                                                                                                                | IntelliJ IDEA 커뮤니티 에디션                | IntelliJ IDEA 얼티밋 에디션       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------- |
-| [자바](https://ko.wikipedia.org/wiki/자바_\(프로그래밍_언어\) "wikilink")                                                                                                    | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [클로저](https://ko.wikipedia.org/wiki/클로저 "wikilink") (별도 플러그인을 통해)                                                                                                 | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [다트](https://ko.wikipedia.org/wiki/다트_\(프로그래밍_언어\) "wikilink") (별도 플러그인을 통해)                                                                                      | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [얼랑](https://ko.wikipedia.org/wiki/얼랑 "wikilink") (별도 플러그인을 통해)                                                                                                   | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [Go](../Page/Go_\(프로그래밍_언어\).md "wikilink") (별도 플러그인을 통해)                                                                                                         | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [그루비](https://ko.wikipedia.org/wiki/그루비 "wikilink")                                                                                                               | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [Haxe](https://ko.wikipedia.org/wiki/Haxe "wikilink") (별도 플러그인을 통해)                                                                                               | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [펄](https://ko.wikipedia.org/wiki/펄 "wikilink") ([별도 플러그인](https://plugins.jetbrains.com/plugin/7796)을 통해)                                                        | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [스칼라](https://ko.wikipedia.org/wiki/스칼라_\(프로그래밍_언어\) "wikilink") (별도 플러그인을 통해)                                                                                    | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [XML](https://ko.wikipedia.org/wiki/XML "wikilink")/[XSL](https://ko.wikipedia.org/wiki/XSL "wikilink")                                                           | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [코틀린](https://ko.wikipedia.org/wiki/코틀린 "wikilink")                                                                                                               | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [액션스크립트](https://ko.wikipedia.org/wiki/액션스크립트 "wikilink")/[MXML](../Page/MXML.md "wikilink")                                                                      | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
-| [커피스크립트](../Page/커피스크립트.md "wikilink")                                                                                                                            | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
-| [하스켈](https://ko.wikipedia.org/wiki/하스켈 "wikilink") (별도 플러그인을 통해)                                                                                                 | style="background: \#9F9 |예\[4\]      | style="background: \#9F9 |예 |
-| [HTML](https://ko.wikipedia.org/wiki/HTML "wikilink")/[XHTML](https://ko.wikipedia.org/wiki/XHTML "wikilink")/[CSS](https://ko.wikipedia.org/wiki/CSS "wikilink") | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
-| [자바스크립트](https://ko.wikipedia.org/wiki/자바스크립트 "wikilink")                                                                                                         | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
-| [루아](https://ko.wikipedia.org/wiki/루아 "wikilink") (별도 플러그인을 통해)                                                                                                   | style="background: \#9F9 |예\[5\]      | style="background: \#9F9 |예 |
-| [PHP](https://ko.wikipedia.org/wiki/PHP "wikilink") (별도 플러그인을 통해)                                                                                                 | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
-| [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") (별도 플러그인을 통해)                                                                                                 | style="background: \#9F9 |예\[6\]\[7\] | style="background: \#9F9 |예 |
-| [루비](https://ko.wikipedia.org/wiki/루비_\(프로그래밍_언어\) "wikilink")/[JRuby](https://ko.wikipedia.org/wiki/JRuby "wikilink")                                            | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
-| [SQL](../Page/SQL.md "wikilink")                                                                                                                                  | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
-| [타입스크립트](../Page/타입스크립트.md "wikilink") (별도 플러그인을 통해)                                                                                                              | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
+| 언어                                                                                                                          | IntelliJ IDEA 커뮤니티 에디션                | IntelliJ IDEA 얼티밋 에디션       |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | --------------------------- |
+| [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink")                                                                                 | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [클로저](https://ko.wikipedia.org/wiki/클로저 "wikilink") (별도 플러그인을 통해)                                                           | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [다트](https://ko.wikipedia.org/wiki/다트_\(프로그래밍_언어\) "wikilink") (별도 플러그인을 통해)                                                | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [얼랑](https://ko.wikipedia.org/wiki/얼랑 "wikilink") (별도 플러그인을 통해)                                                             | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [Go](../Page/Go_\(프로그래밍_언어\).md "wikilink") (별도 플러그인을 통해)                                                                   | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [그루비](https://ko.wikipedia.org/wiki/그루비 "wikilink")                                                                         | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [Haxe](https://ko.wikipedia.org/wiki/Haxe "wikilink") (별도 플러그인을 통해)                                                         | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [펄](../Page/펄.md "wikilink") ([별도 플러그인](https://plugins.jetbrains.com/plugin/7796)을 통해)                                     | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [스칼라](../Page/스칼라_\(프로그래밍_언어\).md "wikilink") (별도 플러그인을 통해)                                                                 | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [XML](../Page/XML.md "wikilink")/[XSL](https://ko.wikipedia.org/wiki/XSL "wikilink")                                        | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [코틀린](https://ko.wikipedia.org/wiki/코틀린 "wikilink")                                                                         | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [액션스크립트](../Page/액션스크립트.md "wikilink")/[MXML](../Page/MXML.md "wikilink")                                                   | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
+| [커피스크립트](../Page/커피스크립트.md "wikilink")                                                                                      | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
+| [하스켈](../Page/하스켈.md "wikilink") (별도 플러그인을 통해)                                                                              | style="background: \#9F9 |예\[4\]      | style="background: \#9F9 |예 |
+| [HTML](../Page/HTML.md "wikilink")/[XHTML](../Page/XHTML.md "wikilink")/[CSS](https://ko.wikipedia.org/wiki/CSS "wikilink") | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
+| [자바스크립트](../Page/자바스크립트.md "wikilink")                                                                                      | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
+| [루아](https://ko.wikipedia.org/wiki/루아 "wikilink") (별도 플러그인을 통해)                                                             | style="background: \#9F9 |예\[5\]      | style="background: \#9F9 |예 |
+| [PHP](../Page/PHP.md "wikilink") (별도 플러그인을 통해)                                                                              | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
+| [파이썬](../Page/파이썬.md "wikilink") (별도 플러그인을 통해)                                                                              | style="background: \#9F9 |예\[6\]\[7\] | style="background: \#9F9 |예 |
+| [루비](../Page/루비_\(프로그래밍_언어\).md "wikilink")/[JRuby](https://ko.wikipedia.org/wiki/JRuby "wikilink")                         | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
+| [SQL](../Page/SQL.md "wikilink")                                                                                            | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
+| [타입스크립트](../Page/타입스크립트.md "wikilink") (별도 플러그인을 통해)                                                                        | style="background: \#F99 |아니오         | style="background: \#9F9 |예 |
 
 ## 상용 및 무료 버전
 
 IntelliJ IDEA는 **Ultimate Edition**으로 불리는 상용버전과 **Community Edition**으로 불리는 무료 버전이 존재하며 상용버전은 30일간 무료로 사용해 보고 계속 사용할지 여부를 결정할 수 있다.
 
-무료 버전은 [아파치 라이선스](../Page/아파치_라이선스.md "wikilink") 2.0으로 제공되고 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink")()이며 상용버전에 비하여 일부 기능이 제약된다.\[8\]
+무료 버전은 [아파치 라이선스](../Page/아파치_라이선스.md "wikilink") 2.0으로 제공되고 [오픈 소스](../Page/오픈_소스.md "wikilink")()이며 상용버전에 비하여 일부 기능이 제약된다.\[8\]
 
 ## 같이 보기
 
   - [이클립스](https://ko.wikipedia.org/wiki/이클립스 "wikilink")
   - [넷빈즈](../Page/넷빈즈.md "wikilink")
   - [제이빌더](https://ko.wikipedia.org/wiki/제이빌더 "wikilink")
-  - [통합 개발 환경](https://ko.wikipedia.org/wiki/통합_개발_환경 "wikilink")
+  - [통합 개발 환경](../Page/통합_개발_환경.md "wikilink")
 
 ## 참고 자료
 

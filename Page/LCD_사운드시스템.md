@@ -3,7 +3,7 @@
 
 **LCD 사운드시스템** (LCD Soundsystem)은 2002년 결성된 [DFA 레코드](https://ko.wikipedia.org/wiki/DFA_레코드 "wikilink") 설립자이자 프로듀서인 미국인 [제임스 머피의](https://ko.wikipedia.org/wiki/제임스_머피 "wikilink") 솔로 프로젝트다. 그들은 댄스 음악과 펑크 록, 디스코를 혼합한 음악을 하며 영국에서 특히 인기가 많다. 영국에서 그들이 발표한 두 앨범은 40위까지 올라갔다.
 
-[2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [10월 10일](https://ko.wikipedia.org/wiki/10월_10일 "wikilink") LCD 사운드시스템 명의로 제임스 머피 혼자서 DJ셋으로 내한했다.
+[2008년](../Page/2008년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") LCD 사운드시스템 명의로 제임스 머피 혼자서 DJ셋으로 내한했다.
 
 ## 역사
 
@@ -15,7 +15,7 @@
 
 2007년 3월 7일, 두 번째 앨범 [Sound of Silver이](https://ko.wikipedia.org/wiki/Sound_of_Silver "wikilink") 발매되었다. 이 앨범 역시 전작과 마찬가지로 엄청난 호평을 받았으며 [타임즈](https://ko.wikipedia.org/wiki/타임즈 "wikilink")의 조시 타이란지엘은 수록곡 'All My Friends'에 대해 "삶에 대한 후회와 성찰이 담긴 놀라운 가사가 담긴 훌륭한 곡"이라는 찬사를 보냈다. [Sound of Silver](https://ko.wikipedia.org/wiki/Sound_of_Silver "wikilink") 홍보 공연은 [아케이드 파이어와](../Page/아케이드_파이어.md "wikilink") 함께 돌았다.
 
-2008년 11월 18일, 알 도일은 밴드가 해체될 것이라는 추측을 6 뮤직 인터뷰에서 밝혔으나 직후 제임스 머피와 도일 모두 이 루머를 부정하며 오히려 새 앨범 구상 중이라고 말을 꺼냈다. 2009년 여름, 머피는 [LA에서](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") 새 곡들을 녹음하고 있다고 밝혔다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink"), 공식 홈페이지에서 새 앨범의 트랙 리스트가 발표되었고, [3월 30일](https://ko.wikipedia.org/wiki/3월_30일 "wikilink") 신보 제목과 커버가 밝혀졌다. 세 번째 앨범 [This is Happening은](https://ko.wikipedia.org/wiki/This_is_Happening "wikilink") [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 18일](https://ko.wikipedia.org/wiki/5월_18일 "wikilink") EMI의 배급망을 타고 전 세계 발매되었다.
+2008년 11월 18일, 알 도일은 밴드가 해체될 것이라는 추측을 6 뮤직 인터뷰에서 밝혔으나 직후 제임스 머피와 도일 모두 이 루머를 부정하며 오히려 새 앨범 구상 중이라고 말을 꺼냈다. 2009년 여름, 머피는 [LA에서](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") 새 곡들을 녹음하고 있다고 밝혔다. [2010년](../Page/2010년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink"), 공식 홈페이지에서 새 앨범의 트랙 리스트가 발표되었고, [3월 30일](../Page/3월_30일.md "wikilink") 신보 제목과 커버가 밝혀졌다. 세 번째 앨범 [This is Happening은](https://ko.wikipedia.org/wiki/This_is_Happening "wikilink") [2010년](../Page/2010년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink") EMI의 배급망을 타고 전 세계 발매되었다.
 
 2011년 2월 5일, 밴드 웹사이트에 LCD SoundSystem 프로젝트의 종료와 함께 마지막 공연을 할 것이라는 공지가 올라왔다. 마지막 공연은 2011년 4월 2일 뉴욕 메디슨 스퀘어 가든에서 4시간에 걸쳐 진행되었으며, 약 8만명의 관객이 함께하였다. 이 마지막 공연은 다큐멘터리 필름 Shot Up and Play the Hits로 제작되기도 하였으며, 이 다큐멘터리는 Sundance영화제 Hotdocs 다큐멘터리 페스티벌 등에 상영되어 호평을 받았다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PCLinuxOS](https://ko.wikipedia.org/wiki/PCLinuxOS).
 
 
-**PCLinuxOS**는 [빌 레이놀즈가](https://ko.wikipedia.org/wiki/빌_레이놀즈 "wikilink") 개발한 컴퓨터 [운영 체제이다](https://ko.wikipedia.org/wiki/운영_체제 "wikilink"). 옛날 만드레이크 사의 개발자인 빌 레이놀드가 ("Texstar") 만드레이크 리눅스를 보완하기 위해서 만든 배포판이다.
+**PCLinuxOS**는 [빌 레이놀즈가](https://ko.wikipedia.org/wiki/빌_레이놀즈 "wikilink") 개발한 컴퓨터 [운영 체제이다](../Page/운영_체제.md "wikilink"). 옛날 만드레이크 사의 개발자인 빌 레이놀드가 ("Texstar") 만드레이크 리눅스를 보완하기 위해서 만든 배포판이다.
 
 ## 출시 역사
 

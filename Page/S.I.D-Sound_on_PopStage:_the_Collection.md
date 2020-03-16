@@ -106,6 +106,6 @@
 ## 같이 보기
 
   - [팝스테이지](../Page/팝스테이지.md "wikilink")
-  - [온라인 게임](https://ko.wikipedia.org/wiki/온라인_게임 "wikilink")
+  - [온라인 게임](../Page/온라인_게임.md "wikilink")
 
 [분류:S.I.D-Sound](https://ko.wikipedia.org/wiki/분류:S.I.D-Sound "wikilink") [분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink")

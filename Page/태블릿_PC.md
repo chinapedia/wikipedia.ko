@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:HP_Tablet_PC_running_Windows_XP_\(Tablet_PC_edition\)_\(2006\).jpg "wikilink")
 
-**태블릿 PC**(Tablet PC)란 [인터넷](../Page/인터넷.md "wikilink")에 연결하고, [비디오](../Page/비디오.md "wikilink")를 보고, [책](https://ko.wikipedia.org/wiki/책 "wikilink")을 읽는 용도 등으로 사용되는 평면의 직사각형 컴퓨팅 장치(computing device)이다. [터치 스크린을](https://ko.wikipedia.org/wiki/터치_스크린 "wikilink") 주 [입력 장치로](https://ko.wikipedia.org/wiki/입력_장치 "wikilink") 장착한 휴대용 [PC이며](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink")\[1\] 개인이 직접 갖고 다니며 조작할 수 있게 [설계](https://ko.wikipedia.org/wiki/설계 "wikilink")되어 있다.\[2\] 이 용어는 2001년에 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")사가 발표한 제품으로 인하여 잘 알려지게 되었으나\[3\] 이제 태블릿 PC는 운영 체제의 구별 없이 태블릿 크기의 개인용 컴퓨터를 가리키는 말이 되었다.\[4\]
+**태블릿 PC**(Tablet PC)란 [인터넷](../Page/인터넷.md "wikilink")에 연결하고, [비디오](../Page/비디오.md "wikilink")를 보고, [책](../Page/책.md "wikilink")을 읽는 용도 등으로 사용되는 평면의 직사각형 컴퓨팅 장치(computing device)이다. [터치 스크린을](https://ko.wikipedia.org/wiki/터치_스크린 "wikilink") 주 [입력 장치로](https://ko.wikipedia.org/wiki/입력_장치 "wikilink") 장착한 휴대용 [PC이며](../Page/개인용_컴퓨터.md "wikilink")\[1\] 개인이 직접 갖고 다니며 조작할 수 있게 [설계](https://ko.wikipedia.org/wiki/설계 "wikilink")되어 있다.\[2\] 이 용어는 2001년에 [마이크로소프트](../Page/마이크로소프트.md "wikilink")사가 발표한 제품으로 인하여 잘 알려지게 되었으나\[3\] 이제 태블릿 PC는 운영 체제의 구별 없이 태블릿 크기의 개인용 컴퓨터를 가리키는 말이 되었다.\[4\]
 
 노트북과는 달리 태블릿 PC는 가상 스크린을 대신 사용할 경우 키보드를 장착하지 않고 있을 수도 있다. 모든 태블릿 PC는 인터넷과 [랜을](https://ko.wikipedia.org/wiki/로컬_영역_네트워크 "wikilink") 위한 무선 어댑터를 갖추고 있다. 태블릿 PC용 응용 소프트웨어에는 오피스 제품군\[5\], 웹 브라우저\[6\], 게임, 그리고 다양한 응용 프로그램들을 내장하고 있다. 그러나 휴대용 컴퓨터 하드웨어 부품이 저전력으로 동작하기 때문에 전력을 많이 할애하는 PC 응용 프로그램들은 사용자에게 이상적인 경험을 제공하지 못할 수도 있다.\[7\]
 
@@ -19,7 +19,7 @@
   - [태블릿 컴퓨터](../Page/태블릿_컴퓨터.md "wikilink")
   - [아이패드](../Page/아이패드.md "wikilink")
   - [넷북](../Page/넷북.md "wikilink")
-  - [개인용 컴퓨터](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink")
+  - [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink")
 
 [분류:태블릿 컴퓨터](https://ko.wikipedia.org/wiki/분류:태블릿_컴퓨터 "wikilink")
 

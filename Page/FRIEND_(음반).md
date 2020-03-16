@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FRIEND \(\)](https://ko.wikipedia.org/wiki/FRIEND_\(\)).
 
 
-《**FRIEND**》는 2002년 11월 21일에 발매된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 3인조 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") **[《*S.E.S.*》](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")**의 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 스페셜 5.5집 음반이다.
+《**FRIEND**》는 2002년 11월 21일에 발매된 [대한민국](../Page/대한민국.md "wikilink")의 3인조 [걸 그룹](../Page/걸_그룹.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") **[《*S.E.S.*》](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")**의 [대한민국](../Page/대한민국.md "wikilink") 스페셜 5.5집 음반이다.
 
 ## 설명
 

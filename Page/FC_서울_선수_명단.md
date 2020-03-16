@@ -3,7 +3,7 @@
 
 [FC 서울에](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 입단한 역대 선수들에 관한 문서이다.
 
-※ [한국프로축구연맹](https://ko.wikipedia.org/wiki/한국프로축구연맹 "wikilink")에 선수 등록시 사용한 공식 한글 등록명으로 기재한다.
+※ [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")에 선수 등록시 사용한 공식 한글 등록명으로 기재한다.
 
 ## 주요 선수
 
@@ -95,13 +95,13 @@
 
   - [김성재](../Page/김성재_\(축구인\).md "wikilink") (203경기, 1999–05\*)
 
-  - [이영표](https://ko.wikipedia.org/wiki/이영표 "wikilink") (70경기, 2000–02\*)
+  - [이영표](../Page/이영표.md "wikilink") (70경기, 2000–02\*)
 
   - [최태욱](../Page/최태욱.md "wikilink") (172경기, 2000–03, 2010–13\*)
 
-  -  [신의손](https://ko.wikipedia.org/wiki/신의손 "wikilink") (127경기, 2000–04\*)
+  -  [신의손](../Page/신의손.md "wikilink") (127경기, 2000–04\*)
 
-  - [김동진](https://ko.wikipedia.org/wiki/김동진_\(1982년\) "wikilink") (128경기, 2000–06, 2011)
+  - [김동진](../Page/김동진_\(1982년\).md "wikilink") (128경기, 2000–06, 2011)
 
   - [최원권](../Page/최원권.md "wikilink") (168경기, 2000–10\*)
 
@@ -109,11 +109,11 @@
 
   - [이정수](../Page/이정수_\(축구_선수\).md "wikilink") (31경기, 2002–04)
 
-  - [박요셉](https://ko.wikipedia.org/wiki/박요셉 "wikilink") (63경기, 2002–08)
+  - [박요셉](../Page/박요셉.md "wikilink") (63경기, 2002–08)
 
   - [김치곤](../Page/김치곤.md "wikilink") (182경기, 2002–09)
 
-  - [이을용](https://ko.wikipedia.org/wiki/이을용 "wikilink") (101경기, 2003–04, 2006–08\*)
+  - [이을용](../Page/이을용.md "wikilink") (101경기, 2003–04, 2006–08\*)
 
   - [고명진](../Page/고명진.md "wikilink") (227경기, 2003–15)
 
@@ -131,7 +131,7 @@
 
   - [이민성](../Page/이민성.md "wikilink") (87경기, 2005–08\*)
 
-  - [김병지](https://ko.wikipedia.org/wiki/김병지 "wikilink") (84경기, 2006–08\*)
+  - [김병지](../Page/김병지.md "wikilink") (84경기, 2006–08\*)
 
   - [기성용](../Page/기성용.md "wikilink") (80경기, 2006–09)
 
@@ -147,7 +147,7 @@
 
   - [최효진](../Page/최효진_\(축구_선수\).md "wikilink") (77경기, 2010–14)
 
-  - [김용대](https://ko.wikipedia.org/wiki/김용대_\(축구_선수\) "wikilink") (181경기, 2010–15)
+  - [김용대](../Page/김용대_\(축구_선수\).md "wikilink") (181경기, 2010–15)
 
   - [김주영](https://ko.wikipedia.org/wiki/김주영_\(축구_선수\) "wikilink") (93경기, 2012–14)
 
@@ -211,7 +211,7 @@
 
 ※ 1984–2015 시즌 기준
 ※ 최다 출장 기록, 최다 득점 기록, 최다 무실점 기록, 최다 실점률 기록은 [K리그](../Page/K리그.md "wikilink") ([리그컵](../Page/리그컵_\(대한민국\).md "wikilink") 포함) 통산 기록과 [FA컵](https://ko.wikipedia.org/wiki/대한민국_FA컵 "wikilink")
-그리고 [아시안 컵 위너스 컵과](../Page/아시안_컵위너스컵.md "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 등 [AFC](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") 공식 [국제클럽대항전](../Page/FC_서울의_국제클럽대항전.md "wikilink") 기록을 합산한 통산 기록이다.
+그리고 [아시안 컵 위너스 컵과](../Page/아시안_컵위너스컵.md "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 등 [AFC](../Page/아시아_축구_연맹.md "wikilink") 공식 [국제클럽대항전](../Page/FC_서울의_국제클럽대항전.md "wikilink") 기록을 합산한 통산 기록이다.
 ※ [친선경기](https://ko.wikipedia.org/wiki/FC_서울의_친선경기 "wikilink") 기록은 제외한다.
 ※ 최다 도움 기록과 최다 공격포인트 기록은 공식 도움 기록이 제공되는 [K리그](../Page/K리그.md "wikilink") ([리그컵](../Page/리그컵_\(대한민국\).md "wikilink") 포함) 통산 기록으로만 계산되었다.
 ※ 기타 대회와 대회별 경기수는 다음과 같다.
@@ -376,7 +376,7 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김용대_(축구_선수)" title="wikilink">김용대</a></p></td>
+<td><p><a href="../Page/김용대_(축구_선수).md" title="wikilink">김용대</a></p></td>
 <td><p><strong>222</strong></p></td>
 <td><p>181</p></td>
 <td><p>174</p></td>
@@ -415,7 +415,7 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/박주영" title="wikilink">박주영</a></strong></p></td>
+<td><p><strong><a href="../Page/박주영.md" title="wikilink">박주영</a></strong></p></td>
 <td><p><strong>201</strong></p></td>
 <td><p>175</p></td>
 <td><p>153</p></td>
@@ -566,7 +566,7 @@
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/박주영" title="wikilink">박주영</a></strong></p></td>
+<td><p><strong><a href="../Page/박주영.md" title="wikilink">박주영</a></strong></p></td>
 <td><p><strong>55</strong></p></td>
 <td><p>50</p></td>
 <td><p>40</p></td>
@@ -879,7 +879,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/박주영" title="wikilink">박주영</a></strong></p></td>
+<td><p><strong><a href="../Page/박주영.md" title="wikilink">박주영</a></strong></p></td>
 <td><p><strong>62</strong></p></td>
 <td><p>148</p></td>
 <td><p>0.42</p></td>
@@ -960,7 +960,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신의손" title="wikilink">신의손</a></p></td>
+<td><p><a href="../Page/신의손.md" title="wikilink">신의손</a></p></td>
 <td><p><strong>49</strong></p></td>
 <td><p>45</p></td>
 <td><p>33</p></td>
@@ -993,7 +993,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김병지" title="wikilink">김병지</a></p></td>
+<td><p><a href="../Page/김병지.md" title="wikilink">김병지</a></p></td>
 <td><p><strong>41</strong></p></td>
 <td><p>39</p></td>
 <td><p>26</p></td>
@@ -1266,7 +1266,7 @@
 <td><center>
 <p>2000</p></td>
 <td><p><a href="../Page/김귀화.md" title="wikilink">김귀화</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이영표" title="wikilink">이영표</a></p></td>
+<td><p><a href="../Page/이영표.md" title="wikilink">이영표</a></p></td>
 <td><ul>
 <li>구단 3번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 주장단 (<a href="https://ko.wikipedia.org/wiki/K리그_2000" title="wikilink"><span style="color:#DAA520;">2000</span></a>)</li>
 <li>활동 기간: 2000년 5월 10일–2000시즌 종료</li>
@@ -1294,7 +1294,7 @@
 <tr class="even">
 <td><center>
 <p>2002</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최윤열" title="wikilink">최윤열</a></p></td>
+<td><p><a href="../Page/최윤열.md" title="wikilink">최윤열</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1317,7 +1317,7 @@
 <tr class="odd">
 <td><center>
 <p>2007–2008</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이을용" title="wikilink">이을용</a></p></td>
+<td><p><a href="../Page/이을용.md" title="wikilink">이을용</a></p></td>
 <td><p><a href="../Page/김치곤.md" title="wikilink">김치곤</a></p></td>
 <td></td>
 </tr>
@@ -1394,7 +1394,7 @@
 <td><center>
 <p>2017</p></td>
 <td><p><a href="../Page/곽태휘.md" title="wikilink">곽태휘</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박주영" title="wikilink">박주영</a></p></td>
+<td><p><a href="../Page/박주영.md" title="wikilink">박주영</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1418,7 +1418,7 @@
 <td><center>
 <p>2019</p></td>
 <td><p><a href="../Page/고요한.md" title="wikilink">고요한</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박주영" title="wikilink">박주영</a></p></td>
+<td><p><a href="../Page/박주영.md" title="wikilink">박주영</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1474,7 +1474,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵" title="wikilink">2002</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이영표" title="wikilink">이영표</a> (),  <a href="../Page/최태욱.md" title="wikilink">최태욱</a> ()</p></td>
+<td><p><a href="../Page/이영표.md" title="wikilink">이영표</a> (),  <a href="../Page/최태욱.md" title="wikilink">최태욱</a> ()</p></td>
 <td><div style="text-align: center;">
 <p>2</p>
 </div></td>
@@ -1482,7 +1482,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵" title="wikilink">2006</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김동진_(1982년)" title="wikilink">김동진</a> (),  <a href="https://ko.wikipedia.org/wiki/백지훈" title="wikilink">백지훈</a> (),  <a href="https://ko.wikipedia.org/wiki/박주영" title="wikilink">박주영</a> ()</p></td>
+<td><p><a href="../Page/김동진_(1982년).md" title="wikilink">김동진</a> (),  <a href="https://ko.wikipedia.org/wiki/백지훈" title="wikilink">백지훈</a> (),  <a href="../Page/박주영.md" title="wikilink">박주영</a> ()</p></td>
 <td><div style="text-align: center;">
 <p>3</p>
 </div></td>
@@ -1552,7 +1552,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/K리그_1991.md" title="wikilink">1991</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_10일" title="wikilink">11월 10일</a></p></td>
+<td><p><a href="../Page/11월_10일.md" title="wikilink">11월 10일</a></p></td>
 <td><p><a href="../Page/동대문운동장.md" title="wikilink">동대문운동장</a></p></td>
 <td><p><strong>청군</strong></p></td>
 <td><p>3–1<br />
@@ -1569,7 +1569,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_1992" title="wikilink">1992</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_22일" title="wikilink">7월 22일</a></p></td>
+<td><p><a href="../Page/7월_22일.md" title="wikilink">7월 22일</a></p></td>
 <td><p>청군</p></td>
 <td><p>0–2<br />
 <small> <a href="http://www.kleague.com/matchcenter/matchcenter_allStar1992.aspx">리포트</a> </small></p></td>
@@ -1587,7 +1587,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/K리그_1995.md" title="wikilink">1995</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_7일" title="wikilink">8월 7일</a></p></td>
+<td><p><a href="../Page/8월_7일.md" title="wikilink">8월 7일</a></p></td>
 <td><p><a href="../Page/구덕운동장.md" title="wikilink">부산구덕운동장</a></p></td>
 <td><p><strong>청룡</strong></p></td>
 <td><p>1–0<br />
@@ -1615,7 +1615,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/K리그_1997.md" title="wikilink">1997</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/11월_30일" title="wikilink">11월 30일</a></p></td>
+<td><p><a href="../Page/11월_30일.md" title="wikilink">11월 30일</a></p></td>
 <td><p><a href="../Page/광양축구전용구장.md" title="wikilink">광양축구전용구장</a></p></td>
 <td><p><strong>청룡</strong></p></td>
 <td><p>2–1<br />
@@ -1642,7 +1642,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_1998" title="wikilink">1998</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_16일" title="wikilink">8월 16일</a></p></td>
+<td><p><a href="../Page/8월_16일.md" title="wikilink">8월 16일</a></p></td>
 <td><p><a href="../Page/서울올림픽주경기장.md" title="wikilink">서울올림픽주경기장</a></p></td>
 <td><p>중부</p></td>
 <td><p>2–6<br />
@@ -1657,7 +1657,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_1999" title="wikilink">1999</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_15일" title="wikilink">8월 15일</a></p></td>
+<td><p><a href="../Page/8월_15일.md" title="wikilink">8월 15일</a></p></td>
 <td><p><strong>중부</strong></p></td>
 <td><p>7–3<br />
 <small> <a href="http://www.kleague.com/matchcenter/matchcenter_allStar1999.aspx">리포트</a> </small></p></td>
@@ -1671,13 +1671,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2000" title="wikilink">2000</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_15일" title="wikilink">8월 15일</a></p></td>
+<td><p><a href="../Page/8월_15일.md" title="wikilink">8월 15일</a></p></td>
 <td><p>중부</p></td>
 <td><p>2–3<br />
 <small> <a href="http://www.kleague.com/matchcenter/matchcenter_allStar2000.aspx">리포트</a> </small></p></td>
 <td><p><strong>남부</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신의손" title="wikilink">신의손</a> ()<br />
- <a href="https://ko.wikipedia.org/wiki/이영표" title="wikilink">이영표</a> ()<br />
+<td><p><a href="../Page/신의손.md" title="wikilink">신의손</a> ()<br />
+ <a href="../Page/이영표.md" title="wikilink">이영표</a> ()<br />
  <a href="../Page/최용수.md" title="wikilink">최용수</a> ()</p></td>
 <td><p>3</p></td>
 <td></td>
@@ -1685,28 +1685,28 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2001" title="wikilink">2001</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_5일" title="wikilink">8월 5일</a></p></td>
+<td><p><a href="../Page/8월_5일.md" title="wikilink">8월 5일</a></p></td>
 <td><p><a href="../Page/수원월드컵경기장.md" title="wikilink">수원월드컵경기장</a></p></td>
 <td><p>중부</p></td>
 <td><p>1–2<br />
 <small> <a href="http://www.kleague.com/matchcenter/matchcenter_allStar2001.aspx">리포트</a> </small></p></td>
 <td><p><strong>남부</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신의손" title="wikilink">신의손</a> ()<br />
- <a href="https://ko.wikipedia.org/wiki/이영표" title="wikilink">이영표</a> ()<br />
+<td><p><a href="../Page/신의손.md" title="wikilink">신의손</a> ()<br />
+ <a href="../Page/이영표.md" title="wikilink">이영표</a> ()<br />
  <a href="../Page/최태욱.md" title="wikilink">최태욱</a> ()</p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2002" title="wikilink">2002</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_15일" title="wikilink">8월 15일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울월드컵경기장" title="wikilink">서울월드컵경기장</a></p></td>
+<td><p><a href="../Page/8월_15일.md" title="wikilink">8월 15일</a></p></td>
+<td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">서울월드컵경기장</a></p></td>
 <td><p><strong>중부</strong></p></td>
 <td><p>6–1<br />
 <small> <a href="http://www.kleague.com/matchcenter/matchcenter_allStar2002.aspx">리포트</a> </small></p></td>
 <td><p>남부</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신의손" title="wikilink">신의손</a> ()<br />
- <a href="https://ko.wikipedia.org/wiki/이영표" title="wikilink">이영표</a> ()<br />
+<td><p><a href="../Page/신의손.md" title="wikilink">신의손</a> ()<br />
+ <a href="../Page/이영표.md" title="wikilink">이영표</a> ()<br />
  <a href="../Page/안드리_루이스_아우베스_산투스.md" title="wikilink">안드레</a> ()<br />
  <a href="../Page/최태욱.md" title="wikilink">최태욱</a> ()</p></td>
 <td><p>4</p></td>
@@ -1714,13 +1714,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2003" title="wikilink">2003</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_15일" title="wikilink">8월 15일</a></p></td>
+<td><p><a href="../Page/8월_15일.md" title="wikilink">8월 15일</a></p></td>
 <td><p>중부</p></td>
 <td><p>1–4<br />
 <small> <a href="http://www.kleague.com/matchcenter/matchcenter_allStar2003.aspx">리포트</a> </small></p></td>
 <td><p><strong>남부</strong></p></td>
 <td><p><a href="../Page/왕정현.md" title="wikilink">왕정현</a> ()<br />
- <a href="https://ko.wikipedia.org/wiki/이을용" title="wikilink">이을용</a> ()<br />
+ <a href="../Page/이을용.md" title="wikilink">이을용</a> ()<br />
  <a href="../Page/최태욱.md" title="wikilink">최태욱</a> ()<br />
  <a href="../Page/정조국.md" title="wikilink">정조국</a> ()</p></td>
 <td><p>4</p></td>
@@ -1729,64 +1729,64 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/K리그_2004.md" title="wikilink">2004</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_4일" title="wikilink">7월 4일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전월드컵경기장" title="wikilink">대전월드컵경기장</a></p></td>
+<td><p><a href="../Page/7월_4일.md" title="wikilink">7월 4일</a></p></td>
+<td><p><a href="../Page/대전월드컵경기장.md" title="wikilink">대전월드컵경기장</a></p></td>
 <td><p><strong>중부</strong></p></td>
 <td><p>4–2<br />
 <small> <a href="http://www.kleague.com/matchcenter/matchcenter_allStar2004.aspx">리포트</a> </small></p></td>
 <td><p>남부</p></td>
 <td><p><a href="../Page/김치곤.md" title="wikilink">김치곤</a> ()<br />
- <a href="https://ko.wikipedia.org/wiki/이을용" title="wikilink">이을용</a> ()<br />
+ <a href="../Page/이을용.md" title="wikilink">이을용</a> ()<br />
  <a href="../Page/김은중.md" title="wikilink">김은중</a> ()</p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/K리그_2005.md" title="wikilink">2005</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_21일" title="wikilink">8월 21일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울월드컵경기장" title="wikilink">서울월드컵경기장</a></p></td>
+<td><p><a href="../Page/8월_21일.md" title="wikilink">8월 21일</a></p></td>
+<td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">서울월드컵경기장</a></p></td>
 <td><p>중부</p></td>
 <td><p>2–3<br />
 <small> <a href="http://www.kleague.com/matchcenter/matchcenter_allStar2005.aspx">리포트</a> </small></p></td>
 <td><p><strong>남부</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김동진_(1982년)" title="wikilink">김동진</a> ()<br />
+<td><p><a href="../Page/김동진_(1982년).md" title="wikilink">김동진</a> ()<br />
  <a href="https://ko.wikipedia.org/wiki/백지훈" title="wikilink">백지훈</a> ()<br />
- <a href="https://ko.wikipedia.org/wiki/박주영" title="wikilink">박주영</a> ()<br />
+ <a href="../Page/박주영.md" title="wikilink">박주영</a> ()<br />
  <a href="../Page/김은중.md" title="wikilink">김은중</a> ()</p></td>
 <td><p>4</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2006" title="wikilink">2006</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_20일" title="wikilink">8월 20일</a></p></td>
+<td><p><a href="../Page/8월_20일.md" title="wikilink">8월 20일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인천문학종합경기장_주경기장" title="wikilink">인천문학경기장</a></p></td>
 <td><p><strong>중부</strong></p></td>
 <td><p>10–6<br />
 <small> <a href="http://www.kleague.com/matchcenter/matchcenter_allStar2006.aspx">리포트</a> </small></p></td>
 <td><p>남부</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김병지" title="wikilink">김병지</a> ()<br />
- <a href="https://ko.wikipedia.org/wiki/박주영" title="wikilink">박주영</a> ()<br />
+<td><p><a href="../Page/김병지.md" title="wikilink">김병지</a> ()<br />
+ <a href="../Page/박주영.md" title="wikilink">박주영</a> ()<br />
  <a href="../Page/김은중.md" title="wikilink">김은중</a> ()</p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2007" title="wikilink">2007</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_4일" title="wikilink">8월 4일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울월드컵경기장" title="wikilink">서울월드컵경기장</a></p></td>
+<td><p><a href="../Page/8월_4일.md" title="wikilink">8월 4일</a></p></td>
+<td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">서울월드컵경기장</a></p></td>
 <td><p><strong>중부</strong></p></td>
 <td><p>5–2<br />
 <small> <a href="http://www.kleague.com/matchcenter/matchcenter_allStar2007.aspx">리포트</a> </small></p></td>
 <td><p>남부</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김병지" title="wikilink">김병지</a> ()<br />
+<td><p><a href="../Page/김병지.md" title="wikilink">김병지</a> ()<br />
  <a href="../Page/김치곤.md" title="wikilink">김치곤</a> ()<br />
- <a href="https://ko.wikipedia.org/wiki/박주영" title="wikilink">박주영</a> (</p></td>
+ <a href="../Page/박주영.md" title="wikilink">박주영</a> (</p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2008" title="wikilink">2008</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_2일" title="wikilink">8월 2일</a></p></td>
+<td><p><a href="../Page/8월_2일.md" title="wikilink">8월 2일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/국립_가스미가오카_육상_경기장" title="wikilink">도쿄국립경기장</a></p></td>
 <td><p><strong><a href="../Page/K리그.md" title="wikilink">K리그 올스타팀</a></strong></p></td>
 <td><p>3–1<br />
@@ -1800,7 +1800,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2009" title="wikilink">2009</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_8일" title="wikilink">8월 8일</a></p></td>
+<td><p><a href="../Page/8월_8일.md" title="wikilink">8월 8일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인천문학종합경기장_주경기장" title="wikilink">인천문학경기장</a></p></td>
 <td><p><a href="../Page/K리그.md" title="wikilink">K리그 올스타팀</a></p></td>
 <td><p>1–4<br />
@@ -1815,8 +1815,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2010" title="wikilink">2010</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_4일" title="wikilink">8월 4일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울월드컵경기장" title="wikilink">서울월드컵경기장</a></p></td>
+<td><p><a href="../Page/8월_4일.md" title="wikilink">8월 4일</a></p></td>
+<td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">서울월드컵경기장</a></p></td>
 <td><p><a href="../Page/K리그.md" title="wikilink">K리그 올스타팀</a></p></td>
 <td><p>2–5</p></td>
 <td><p><strong><a href="../Page/FC_바르셀로나.md" title="wikilink">FC 바르셀로나</a></strong></p></td>
@@ -1829,7 +1829,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2011" title="wikilink">2011</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/8월_1일" title="wikilink">8월 1일</a></p></td>
+<td><p><a href="../Page/8월_1일.md" title="wikilink">8월 1일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파주_NFC" title="wikilink">파주 NFC</a></p></td>
 <td><p><strong>미개최 (장애인 축구 클리닉으로 대체)</strong></p></td>
 <td><p>0</p></td>
@@ -1840,13 +1840,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2012" title="wikilink">2012</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_5일" title="wikilink">7월 5일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울월드컵경기장" title="wikilink">서울월드컵경기장</a></p></td>
+<td><p><a href="../Page/7월_5일.md" title="wikilink">7월 5일</a></p></td>
+<td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">서울월드컵경기장</a></p></td>
 <td><p><strong><a href="../Page/K리그.md" title="wikilink">TEAM 2012</a></strong></p></td>
 <td><p>6–3</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_선수_명단#대한민국" title="wikilink">TEAM 2002</a></p></td>
 <td><p><a href="../Page/K리그.md" title="wikilink">TEAM 2012</a><br />
- <a href="https://ko.wikipedia.org/wiki/김용대_(축구_선수)" title="wikilink">김용대</a> ()<br />
+ <a href="../Page/김용대_(축구_선수).md" title="wikilink">김용대</a> ()<br />
  <a href="../Page/아지우송_두스_산투스.md" title="wikilink">아디</a> ()<br />
  <a href="../Page/하대성.md" title="wikilink">하대성</a> ()<br />
 [4]</p></td>
@@ -1869,7 +1869,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_클래식_2013" title="wikilink">2013</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/6월_21일" title="wikilink">6월 21일</a></p></td>
+<td><p><a href="../Page/6월_21일.md" title="wikilink">6월 21일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_클래식" title="wikilink">TEAM 클래식</a></p></td>
 <td><p>3–3</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지" title="wikilink">TEAM 챌린지</a></p></td>
@@ -1885,7 +1885,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_클래식_2014" title="wikilink">2014</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_25일" title="wikilink">7월 25일</a></p></td>
+<td><p><a href="../Page/7월_25일.md" title="wikilink">7월 25일</a></p></td>
 <td><p><a href="../Page/K리그.md" title="wikilink">TEAM K리그</a></p></td>
 <td><p>3–3</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박지성" title="wikilink">TEAM 박지성</a></p></td>
@@ -1900,18 +1900,18 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_클래식_2015" title="wikilink">2015</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_18일" title="wikilink">7월 18일</a></p></td>
+<td><p><a href="../Page/7월_18일.md" title="wikilink">7월 18일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/안산와~스타디움" title="wikilink">안산와~스타디움</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최강희_(축구인)" title="wikilink">TEAM 최강희</a></p></td>
+<td><p><a href="../Page/최강희_(축구인).md" title="wikilink">TEAM 최강희</a></p></td>
 <td><p>3–3</p></td>
 <td><p><a href="../Page/울리_슈틸리케.md" title="wikilink">TEAM 슈틸리케</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최강희_(축구인)" title="wikilink">TEAM 최강희</a><br />
+<td><p><a href="../Page/최강희_(축구인).md" title="wikilink">TEAM 최강희</a><br />
  <a href="../Page/차두리.md" title="wikilink">차두리</a> ()<br />
  <a href="https://ko.wikipedia.org/wiki/오스마르_이바녜스" title="wikilink">오스마르</a> ()<br />
 </p></td>
 <td><p>4</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최용수_(축구인)" title="wikilink">최용수</a> 감독<br />
-<a href="https://ko.wikipedia.org/wiki/최강희_(축구인)" title="wikilink">TEAM 최강희</a> 코치로 선정<br />
+<a href="../Page/최강희_(축구인).md" title="wikilink">TEAM 최강희</a> 코치로 선정<br />
 <a href="../Page/고명진.md" title="wikilink">고명진</a> <a href="https://ko.wikipedia.org/wiki/알라얀_SC" title="wikilink">알라얀 SC</a> 이적으로<br />
 실제 경기는 미출전</p></td>
 </tr>
@@ -1952,14 +1952,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_클래식_2017" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/7월_29일" title="wikilink">7월 29일</a></p></td>
+<td><p><a href="../Page/7월_29일.md" title="wikilink">7월 29일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미딘_국립경기장" title="wikilink">하노이미딘국립경기장</a></p></td>
 <td><p><a href="../Page/K리그.md" title="wikilink">K리그 올스타팀</a></p></td>
 <td></td>
 <td><p><strong><a href="../Page/베트남_축구_국가대표팀.md" title="wikilink">베트남 축구 국가대표팀</a></strong></p></td>
 <td><p><a href="../Page/곽태휘.md" title="wikilink">곽태휘</a> ()</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/황선홍" title="wikilink">황선홍</a> 감독<br />
+<td><p><a href="../Page/황선홍.md" title="wikilink">황선홍</a> 감독<br />
 <a href="../Page/K리그.md" title="wikilink">K리그 올스타팀</a> 감독으로 선정</p></td>
 </tr>
 <tr class="even">
@@ -2144,7 +2144,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2000" title="wikilink">2000</a></p></td>
-<td><p> <a href="https://ko.wikipedia.org/wiki/신의손" title="wikilink">신의손</a><br />
+<td><p> <a href="../Page/신의손.md" title="wikilink">신의손</a><br />
 (1998-12-??)</p></td>
 <td><p><a href="../Page/드라간_스토이치사블례비치.md" title="wikilink">드라간</a><br />
 (2000-02-25)</p></td>
@@ -2156,8 +2156,8 @@
 (2000-07-25, 임차)</p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신의손" title="wikilink">신의손</a>: 1998년 12월 코치로 영입되었다가<br />
-<a href="https://ko.wikipedia.org/wiki/2000년" title="wikilink">2000년</a> 3월 귀화에 성공하여 <a href="https://ko.wikipedia.org/wiki/K리그_2000" title="wikilink">2000 시즌부터</a><br />
+<td><p><a href="../Page/신의손.md" title="wikilink">신의손</a>: 1998년 12월 코치로 영입되었다가<br />
+<a href="../Page/2000년.md" title="wikilink">2000년</a> 3월 귀화에 성공하여 <a href="https://ko.wikipedia.org/wiki/K리그_2000" title="wikilink">2000 시즌부터</a><br />
 <a href="https://ko.wikipedia.org/wiki/선수_겸_코치" title="wikilink">플레이어 코치로</a> 선수 등록</p></td>
 </tr>
 <tr class="even">
@@ -2172,7 +2172,7 @@
 <td></td>
 <td><div style="text-align: center;">
 <p>3</p></td>
-<td><p><a href="../Page/비탈리_파라흐네비치.md" title="wikilink">비탈리</a>: <a href="https://ko.wikipedia.org/wiki/우크라이나" title="wikilink">우크라이나</a>, <a href="https://ko.wikipedia.org/wiki/타지키스탄" title="wikilink">타지키스탄</a> 이중국적자로<br />
+<td><p><a href="../Page/비탈리_파라흐네비치.md" title="wikilink">비탈리</a>: <a href="../Page/우크라이나.md" title="wikilink">우크라이나</a>, <a href="../Page/타지키스탄.md" title="wikilink">타지키스탄</a> 이중국적자로<br />
 우크라이나 국적으로 선수등록</p></td>
 </tr>
 <tr class="odd">
@@ -2406,7 +2406,7 @@
 (2018-12-13)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오스마르_이바녜스" title="wikilink">오스마르</a><br />
 (2018-12-18, 임대 복귀)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알렉산다르_페시치" title="wikilink">페시치</a><br />
+<td><p><a href="../Page/알렉산다르_페시치.md" title="wikilink">페시치</a><br />
 (2019-02-08, 임차)</p></td>
 <td></td>
 <td></td>
@@ -2487,7 +2487,7 @@
 <td><p>2</p></td>
 <td><p><a href="../Page/최순호.md" title="wikilink">최순호</a></p></td>
 <td><p>1988–1990</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><p>2000–2004</p></td>
 <td></td>
 </tr>
@@ -2500,7 +2500,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/포항_스틸러스" title="wikilink">포항 스틸러스</a></p></td>
+<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><p>2016–현재</p></td>
 <td></td>
 <td></td>
@@ -2511,7 +2511,7 @@
 <td><p>3</p></td>
 <td><p><a href="../Page/정해성.md" title="wikilink">정해성</a></p></td>
 <td><p>1984–1989</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드_FC" title="wikilink">제주 유나이티드</a></p></td>
+<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">제주 유나이티드</a></p></td>
 <td><p>2004–2007</p></td>
 <td></td>
 </tr>
@@ -2527,7 +2527,7 @@
 <td><p>4</p></td>
 <td><p><a href="../Page/박항서.md" title="wikilink">박항서</a></p></td>
 <td><p>1984–1988</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경남_FC" title="wikilink">경남 FC</a></p></td>
+<td><p><a href="../Page/경남_FC.md" title="wikilink">경남 FC</a></p></td>
 <td><p>2006–2007</p></td>
 <td></td>
 </tr>
@@ -2576,7 +2576,7 @@
 <td><p>7</p></td>
 <td><p><a href="../Page/최진한.md" title="wikilink">최진한</a></p></td>
 <td><p>1985–1991</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/경남_FC" title="wikilink">경남 FC</a></p></td>
+<td><p><a href="../Page/경남_FC.md" title="wikilink">경남 FC</a></p></td>
 <td><p>2011–2013</p></td>
 <td></td>
 </tr>
@@ -2602,7 +2602,7 @@
 <td><p>9</p></td>
 <td><p><a href="../Page/서정원.md" title="wikilink">서정원</a></p></td>
 <td><p>1992–1997</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/수원_삼성_블루윙즈" title="wikilink">수원 삼성 블루윙즈</a></p></td>
+<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><p>2012–2018</p></td>
 <td></td>
 </tr>
@@ -2618,7 +2618,7 @@
 <td><p>11</p></td>
 <td><p><a href="../Page/조민국.md" title="wikilink">조민국</a></p></td>
 <td><p>1986–1992</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대_축구단" title="wikilink">울산 현대</a></p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대</a></p></td>
 <td><p>2014</p></td>
 <td></td>
 </tr>
@@ -2626,7 +2626,7 @@
 <td><p>12</p></td>
 <td><p><a href="../Page/최영준_(1965년).md" title="wikilink">최영준</a></p></td>
 <td><p>1988–1994</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부산_아이파크" title="wikilink">부산 아이파크</a></p></td>
+<td><p><a href="../Page/부산_아이파크.md" title="wikilink">부산 아이파크</a></p></td>
 <td><p>2015–2016</p></td>
 <td></td>
 </tr>

@@ -9,7 +9,7 @@
 
 윈즈 멤버 전원이 출연한 브르봉 《애플껌》의 CF곡으로 사용되었으며, [츄쿄TV의](https://ko.wikipedia.org/wiki/주쿄TV방송 "wikilink") 심야 프로그램 《앵글러\!NOW》에도 사용되었다.
 
-또한 2003년 연말에 《[NHK 홍백가합전](../Page/NHK_홍백가합전.md "wikilink")》에 2년 연속으로 참가하였으며, 당시에 같이 2년 연속으로 참가하게된 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")와 대결했었다.
+또한 2003년 연말에 《[NHK 홍백가합전](../Page/NHK_홍백가합전.md "wikilink")》에 2년 연속으로 참가하였으며, 당시에 같이 2년 연속으로 참가하게된 [보아](../Page/보아.md "wikilink")와 대결했었다.
 
 **초회한정반 특전**
 

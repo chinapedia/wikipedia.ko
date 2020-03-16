@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kandid Collection Vol.1](https://ko.wikipedia.org/wiki/Kandid_Collection_Vol.1).
 
 
-***Kandid Collection Vol.1***은 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [9월 11일](https://ko.wikipedia.org/wiki/9월_11일 "wikilink") 발매된 프로듀서 [크루시픽스 크릭의](https://ko.wikipedia.org/wiki/크릭 "wikilink") 첫 앨범<small>(*Kricc Presents.. Tha Untouchable Rebellion*는 데모 앨범으로 간주하고 있다)</small>\[1\]이다. 두 번째 앨범 《[미묘](../Page/미묘_\(음반\).md "wikilink")》의 발매에 맞춰 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [1월 5일](https://ko.wikipedia.org/wiki/1월_5일 "wikilink") 재발매했다.\[2\] 8개의 랩 트랙과 7개의 인스트루멘탈 트랙으로 이루어져있다.\[3\]
+***Kandid Collection Vol.1***은 [2002년](../Page/2002년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") 발매된 프로듀서 [크루시픽스 크릭의](https://ko.wikipedia.org/wiki/크릭 "wikilink") 첫 앨범<small>(*Kricc Presents.. Tha Untouchable Rebellion*는 데모 앨범으로 간주하고 있다)</small>\[1\]이다. 두 번째 앨범 《[미묘](../Page/미묘_\(음반\).md "wikilink")》의 발매에 맞춰 [2009년](../Page/2009년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") 재발매했다.\[2\] 8개의 랩 트랙과 7개의 인스트루멘탈 트랙으로 이루어져있다.\[3\]
 
 ## 수록곡
 

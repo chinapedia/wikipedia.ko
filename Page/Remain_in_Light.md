@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Remain in Light](https://ko.wikipedia.org/wiki/Remain_in_Light).
 
 
-***Remain in Light***는 [토킹 헤즈가](../Page/토킹_헤즈.md "wikilink") 1980년 발표한 네 번째 앨범이다. 이 앨범은 전작 [Fear of Music의](https://ko.wikipedia.org/wiki/Fear_of_Music "wikilink") 수록곡 "I Zimbra"에서 드러났던 아프로비트와 폴리리듬, [월드 뮤직에](https://ko.wikipedia.org/wiki/월드_뮤직 "wikilink") 대한 관심이 본격적으로 구체화된 앨범이며, 혁신적인 실험과 뛰어난 음악으로 평자들과 청중들 사이에서 록 역사를 바꾼 획기적인 걸작으로 칭송 받고 있다. 수록곡이자 싱글 [Once in a Lifetime은](https://ko.wikipedia.org/wiki/Once_in_a_Lifetime_\(토킹_헤즈_노래\) "wikilink") 후일 토킹 헤즈의 대표곡으로 자리잡게 된다.
+***Remain in Light***는 [토킹 헤즈가](../Page/토킹_헤즈.md "wikilink") 1980년 발표한 네 번째 앨범이다. 이 앨범은 전작 [Fear of Music의](../Page/Fear_of_Music.md "wikilink") 수록곡 "I Zimbra"에서 드러났던 아프로비트와 폴리리듬, [월드 뮤직에](https://ko.wikipedia.org/wiki/월드_뮤직 "wikilink") 대한 관심이 본격적으로 구체화된 앨범이며, 혁신적인 실험과 뛰어난 음악으로 평자들과 청중들 사이에서 록 역사를 바꾼 획기적인 걸작으로 칭송 받고 있다. 수록곡이자 싱글 [Once in a Lifetime은](https://ko.wikipedia.org/wiki/Once_in_a_Lifetime_\(토킹_헤즈_노래\) "wikilink") 후일 토킹 헤즈의 대표곡으로 자리잡게 된다.
 
 2006년 [리마스터링](https://ko.wikipedia.org/wiki/리마스터링 "wikilink")되어 DVD를 포함해 재발매되었다.
 

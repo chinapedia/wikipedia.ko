@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Valgrind](https://ko.wikipedia.org/wiki/Valgrind).
 
 
-**Valgrind**(밸그린드, )는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 기반의 오픈소스 ([GPL](https://ko.wikipedia.org/wiki/GPL "wikilink") 라이선스) DBI 도구이다. 이는 클라이언트 프로그램 (valgrind 에 입력으로 들어가는)의 실행 코드를 실행 시간에 직접 가공하는 기회를 제공함을 뜻한다. valgrind는 크게 코어(Core)와 도구(Tool)로 구성되어 있는데 일반적으로 valgrind 라 함은 코어를 뜻한다.\[1\]
+**Valgrind**(밸그린드, )는 [리눅스](../Page/리눅스.md "wikilink") 기반의 오픈소스 ([GPL](https://ko.wikipedia.org/wiki/GPL "wikilink") 라이선스) DBI 도구이다. 이는 클라이언트 프로그램 (valgrind 에 입력으로 들어가는)의 실행 코드를 실행 시간에 직접 가공하는 기회를 제공함을 뜻한다. valgrind는 크게 코어(Core)와 도구(Tool)로 구성되어 있는데 일반적으로 valgrind 라 함은 코어를 뜻한다.\[1\]
 
 ## Instrumentation
 
@@ -27,7 +27,7 @@ Valgrind는 크게 코어와 도구들로 구성되어 있다. 코어는 instrum
 
 ## 확장성
 
-현재 valgrind는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")와 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink"), [솔라리스를](https://ko.wikipedia.org/wiki/솔라리스_\(운영_체제\) "wikilink") 지원하고 있으며 AMD, X86, PPC, AIX, MIPS 등의 아키텍처를 지원한다.
+현재 valgrind는 [리눅스](../Page/리눅스.md "wikilink")와 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink"), [솔라리스를](../Page/솔라리스_\(운영_체제\).md "wikilink") 지원하고 있으며 AMD, X86, PPC, AIX, MIPS 등의 아키텍처를 지원한다.
 
 ## 같이 보기
 

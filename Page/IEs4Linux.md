@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IEs4Linux](https://ko.wikipedia.org/wiki/IEs4Linux).
 
 
-**IEs4Linux**는 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink")에서 [Wine에](https://ko.wikipedia.org/wiki/와인_\(소프트웨어\) "wikilink") 설치하여 [인터넷 익스플로러를](https://ko.wikipedia.org/wiki/인터넷_익스플로러 "wikilink") 작동시킬 수 있는 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") [스크립트이다](../Page/스크립트_언어.md "wikilink").
+**IEs4Linux**는 [리눅스](../Page/리눅스.md "wikilink")에서 [Wine에](../Page/와인_\(소프트웨어\).md "wikilink") 설치하여 [인터넷 익스플로러를](../Page/인터넷_익스플로러.md "wikilink") 작동시킬 수 있는 [오픈 소스](../Page/오픈_소스.md "wikilink") [스크립트이다](../Page/스크립트_언어.md "wikilink").
 
 그러나 2008년 마지막 릴리즈\[1\]를 이후로 더 이상 공식 블로그에서 업데이트가 올라오고 있지 않다. 또한, 최근 버전의 와인 소프트웨어를 오래된 버전이라고 인식하며 설치를 성공하여도 제대로 실행되지 않는 문제점이 있다.
 

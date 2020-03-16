@@ -36,7 +36,7 @@ CS 가스는 5%의 산성아황산나트륨을 녹인 물로 몸을 씻어내는
 
 비록 여러 가지 문제점들이 있지만, CS 가스는 여러 국가에서 범죄자들을 잡는데 기여하고 있다.\[9\]\[10\]\[11\]\[12\]
 
-CS 가스는 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [화학 무기 금지 조약에](https://ko.wikipedia.org/wiki/화학_무기_금지_조약 "wikilink") 의해 금지되었으나, [앙골라](https://ko.wikipedia.org/wiki/앙골라 "wikilink"), [이집트](https://ko.wikipedia.org/wiki/이집트 "wikilink"), [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink")(북한), [소말리아](../Page/소말리아.md "wikilink"), [시리아](https://ko.wikipedia.org/wiki/시리아 "wikilink")는 가입하지 않았다. 이 조약은 군사적 목적에 한해서만 제한하는 것이지, CS 가스 자체를 제한하는 것은 아니다. 예로 현재 대한민국에서는 화생방 훈련에 쓰이고 있다.
+CS 가스는 [1993년](../Page/1993년.md "wikilink") [화학 무기 금지 조약에](../Page/화학_무기_금지_조약.md "wikilink") 의해 금지되었으나, [앙골라](../Page/앙골라.md "wikilink"), [이집트](../Page/이집트.md "wikilink"), [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")(북한), [소말리아](../Page/소말리아.md "wikilink"), [시리아](../Page/시리아.md "wikilink")는 가입하지 않았다. 이 조약은 군사적 목적에 한해서만 제한하는 것이지, CS 가스 자체를 제한하는 것은 아니다. 예로 현재 대한민국에서는 화생방 훈련에 쓰이고 있다.
 
 ## 각주
 

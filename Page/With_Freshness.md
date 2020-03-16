@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [With Freshness](https://ko.wikipedia.org/wiki/With_Freshness).
 
 
-《**With Freshness**》는 [밀크의](https://ko.wikipedia.org/wiki/밀크_\(음악_그룹\) "wikilink") 데뷔 앨범이다. 4명의 소녀의 깜찍함과 맑고 깨끗한 모습을 표현하였으며, [문희준](https://ko.wikipedia.org/wiki/문희준 "wikilink")이 프로듀싱해서 주목받기도 하였다.
+《**With Freshness**》는 [밀크의](https://ko.wikipedia.org/wiki/밀크_\(음악_그룹\) "wikilink") 데뷔 앨범이다. 4명의 소녀의 깜찍함과 맑고 깨끗한 모습을 표현하였으며, [문희준](../Page/문희준.md "wikilink")이 프로듀싱해서 주목받기도 하였다.
 
 ## 수록곡
 

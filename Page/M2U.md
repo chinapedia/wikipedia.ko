@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [M2U](https://ko.wikipedia.org/wiki/M2U).
 
 
-**M2U**(엠투유, 본명 **신동휘**, 1985.2.13\~)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 게임음악 작곡가이다. 주로 [디제이맥스](https://ko.wikipedia.org/wiki/디제이맥스 "wikilink") 시리즈에 악곡을 제공한 것으로 알려져 있으며, 최근에는 [Cytus](../Page/Cytus.md "wikilink"), [Deemo](../Page/Deemo.md "wikilink")에 악곡을 제공하고 있다.
+**M2U**(엠투유, 본명 **신동휘**, 1985.2.13\~)는 [대한민국](../Page/대한민국.md "wikilink")의 게임음악 작곡가이다. 주로 [디제이맥스](../Page/디제이맥스.md "wikilink") 시리즈에 악곡을 제공한 것으로 알려져 있으며, 최근에는 [Cytus](../Page/Cytus.md "wikilink"), [Deemo](../Page/Deemo.md "wikilink")에 악곡을 제공하고 있다.
 
 최근에 중국 진출을 목표로, 중국에서 팬미팅도 하며, 본인곡을 Remix 하여 DJ LIVE Party를 성공적으로 진행이 되었다고 한다.
 

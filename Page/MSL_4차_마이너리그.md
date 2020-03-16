@@ -5,7 +5,7 @@
 
 ## 리그기간
 
-  - [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink") *(마이너결정전 제외)*
+  - [2004년](../Page/2004년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") *(마이너결정전 제외)*
 
 ## 리그방식
 
@@ -17,7 +17,7 @@
 
 ### 본선
 
-  - **일정** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [4월 19일](https://ko.wikipedia.org/wiki/4월_19일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [5월 8일](https://ko.wikipedia.org/wiki/5월_8일 "wikilink") *(월/목/토 중계)* *(오프라인 예선 [4월 11일](https://ko.wikipedia.org/wiki/4월_11일 "wikilink"))*
+  - **일정** : [2004년](../Page/2004년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink") *(월/목/토 중계)* *(오프라인 예선 [4월 11일](../Page/4월_11일.md "wikilink"))*
 
 |         |                                                         |        |
 | ------- | ------------------------------------------------------- | ------ |
@@ -28,7 +28,7 @@
 | 7, 8조   | **[박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")** | **2**  |
 | 9, 10조  | [서기수](../Page/서기수.md "wikilink")                        | 1      |
 | 11, 12조 | **[성학승](../Page/성학승.md "wikilink")**                    | **2**  |
-| 13, 14조 | [임요환](https://ko.wikipedia.org/wiki/임요환 "wikilink")     | 0      |
+| 13, 14조 | [임요환](../Page/임요환.md "wikilink")                        | 0      |
 | 15, 16조 | **[변은종](../Page/변은종.md "wikilink")**                    | **2**  |
 
 ## 본선진출자
@@ -41,7 +41,7 @@
 
 ## 마이너리그
 
-  - **일정** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [6월 14일](https://ko.wikipedia.org/wiki/6월_14일 "wikilink")
+  - **일정** : [2004년](../Page/2004년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink")
 
 | 1조                                   | 2조    | 3조                                                      | 4조    |
 | ------------------------------------ | ----- | ------------------------------------------------------- | ----- |
@@ -58,8 +58,8 @@
 
 ### 16강 \~ 8강
 
-  - **16강** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [6월 21일](https://ko.wikipedia.org/wiki/6월_21일 "wikilink") \~ [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink")
-  - **8강** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 19일](https://ko.wikipedia.org/wiki/7월_19일 "wikilink"), [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink")
+  - **16강** : [2004년](../Page/2004년.md "wikilink") [6월 21일](../Page/6월_21일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink")
+  - **8강** : [2004년](../Page/2004년.md "wikilink") [7월 19일](../Page/7월_19일.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink")
 
 |    |                                                         |       |
 | -- | ------------------------------------------------------- | ----- |
@@ -71,8 +71,8 @@
 
 ## 리그결정전
 
-  - **1라운드** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 2일](https://ko.wikipedia.org/wiki/8월_2일 "wikilink")
-  - **2라운드** : [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 9일](https://ko.wikipedia.org/wiki/8월_9일 "wikilink"), [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [8월 16일](https://ko.wikipedia.org/wiki/8월_16일 "wikilink")
+  - **1라운드** : [2004년](../Page/2004년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink")
+  - **2라운드** : [2004년](../Page/2004년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink")
 
 |    |                                                         |                                                         |
 | -- | ------------------------------------------------------- | ------------------------------------------------------- |

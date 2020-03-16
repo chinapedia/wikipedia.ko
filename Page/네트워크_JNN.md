@@ -6,7 +6,7 @@
 ## 개요
 
   - 「[뉴스 스테이션](../Page/뉴스_스테이션.md "wikilink")」([TV 아사히](../Page/TV_아사히.md "wikilink"))의 성공에 자극을 받아 그 전까지 따로 방송되고 있던 뉴스 프로그램 「[JNN 뉴스데스크](../Page/JNN_뉴스데스크.md "wikilink")」와 「[JNN 스포츠 채널](https://ko.wikipedia.org/wiki/JNN_스포츠_채널 "wikilink")」을 통합해 만들었다.\[1\]
-  - 이 프로그램이 시작한 지 반년 후에 [후지 TV는](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 이 프로그램에 대항하기 위해 「[FNN 뉴스 공장](https://ko.wikipedia.org/wiki/FNN_뉴스_공장 "wikilink")」이라는 뉴스 프로그램을 시작했으나 이 프로그램이 종료될 즈음 프로그램을 종료시켰다.
+  - 이 프로그램이 시작한 지 반년 후에 [후지 TV는](../Page/후지_TV.md "wikilink") 이 프로그램에 대항하기 위해 「[FNN 뉴스 공장](https://ko.wikipedia.org/wiki/FNN_뉴스_공장 "wikilink")」이라는 뉴스 프로그램을 시작했으나 이 프로그램이 종료될 즈음 프로그램을 종료시켰다.
 
 ## 각주
 

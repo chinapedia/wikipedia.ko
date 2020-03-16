@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Thunderground Mixtape Vol.2](https://ko.wikipedia.org/wiki/Thunderground_Mixtape_Vol.2).
 
 
-***Thunderground Mixtape Vol. 2***는 [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink")가 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 6일에](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") 발매한 믹스테이프 음반이다.
+***Thunderground Mixtape Vol. 2***는 [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink")가 [2010년](../Page/2010년.md "wikilink") [4월 6일에](../Page/4월_6일.md "wikilink") 발매한 믹스테이프 음반이다.
 
 ## 배경
 
-첫 EP인 *[Thunderground EP](https://ko.wikipedia.org/wiki/Thunderground_EP "wikilink")*를 모두 판매하는 등 저력을 보여준 도끼는 애초에 2010년 4월 믹스테이프가 예정되어있었다.\[1\] [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 25일](https://ko.wikipedia.org/wiki/3월_25일 "wikilink") 트랙리스트를 공개\[2\]하며 새 음반 소식을 알렸다. 이 음반에는 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink"), [더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"), [비지](../Page/비지_\(가수\).md "wikilink") 등이 참여한 것으로 전해졌으며, 또한 원래 도끼 음악의 대부분을 차지했던 스웨거 트랙(Swagger Track)을 줄이고 사랑 노래를 다수 수록했다고 한다. 대부분의 곡을 자신이 프로듀싱하는 도끼는 이번 음반에는 타 프로듀서에게도 여러 곡을 받아 작업하였다.\[3\]
+첫 EP인 *[Thunderground EP](https://ko.wikipedia.org/wiki/Thunderground_EP "wikilink")*를 모두 판매하는 등 저력을 보여준 도끼는 애초에 2010년 4월 믹스테이프가 예정되어있었다.\[1\] [2010년](../Page/2010년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink") 트랙리스트를 공개\[2\]하며 새 음반 소식을 알렸다. 이 음반에는 [타블로](../Page/타블로.md "wikilink"), [더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"), [비지](../Page/비지_\(가수\).md "wikilink") 등이 참여한 것으로 전해졌으며, 또한 원래 도끼 음악의 대부분을 차지했던 스웨거 트랙(Swagger Track)을 줄이고 사랑 노래를 다수 수록했다고 한다. 대부분의 곡을 자신이 프로듀싱하는 도끼는 이번 음반에는 타 프로듀서에게도 여러 곡을 받아 작업하였다.\[3\]
 
 ## 수록곡
 

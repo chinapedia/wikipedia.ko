@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Supremier](https://ko.wikipedia.org/wiki/Supremier).
 
 
-《**Supremier**》는 [슈프림팀](../Page/슈프림팀.md "wikilink")이 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 18일에](https://ko.wikipedia.org/wiki/3월_18일 "wikilink") 발매한 정규 1집 음반이다.
+《**Supremier**》는 [슈프림팀](../Page/슈프림팀.md "wikilink")이 [2010년](../Page/2010년.md "wikilink") [3월 18일에](../Page/3월_18일.md "wikilink") 발매한 정규 1집 음반이다.
 
 ## 수록곡
 

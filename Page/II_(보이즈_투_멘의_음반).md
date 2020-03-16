@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [II \(   \)](https://ko.wikipedia.org/wiki/II_\(___\)).
 
 
-《**''II**''》(**투**)는 1994년에 발매된, [보이즈 투 멘의](../Page/보이즈_투_멘.md "wikilink") 두 번째 정규 음반이다. 2집의 첫 싱글 "I'll Make Love to You"는 미국 [빌보드 핫 100 차트](https://ko.wikipedia.org/wiki/빌보드_지 "wikilink") 1위를 기록하였고, 곧이어 후속곡으로 나온 두 번째 싱글 "On Bended Knee" 역시 1위를 기록하였다. 보이즈 투 멘은 [엘비스 프레슬리와](https://ko.wikipedia.org/wiki/엘비스_프레슬리 "wikilink") [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink") 이후로 30년 만에 본인 스스로가 미국 차트 1위를 다시 탈환한 3번째 가수가 되었다. 또 다른 싱글 "Water Runs Dry"는 2위, "Thank You"는 21위, "Vibin'"은 52위를 기록했다. 1995년 [37회 그래미 최우수 R\&B 음반상을](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 수상했다.\[1\]\[2\]
+《**''II**''》(**투**)는 1994년에 발매된, [보이즈 투 멘의](../Page/보이즈_투_멘.md "wikilink") 두 번째 정규 음반이다. 2집의 첫 싱글 "I'll Make Love to You"는 미국 [빌보드 핫 100 차트](https://ko.wikipedia.org/wiki/빌보드_지 "wikilink") 1위를 기록하였고, 곧이어 후속곡으로 나온 두 번째 싱글 "On Bended Knee" 역시 1위를 기록하였다. 보이즈 투 멘은 [엘비스 프레슬리와](../Page/엘비스_프레슬리.md "wikilink") [비틀즈](../Page/비틀즈.md "wikilink") 이후로 30년 만에 본인 스스로가 미국 차트 1위를 다시 탈환한 3번째 가수가 되었다. 또 다른 싱글 "Water Runs Dry"는 2위, "Thank You"는 21위, "Vibin'"은 52위를 기록했다. 1995년 [37회 그래미 최우수 R\&B 음반상을](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 수상했다.\[1\]\[2\]
 
 ## 수록 곡 목록
 

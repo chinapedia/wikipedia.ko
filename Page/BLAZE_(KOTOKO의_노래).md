@@ -6,7 +6,7 @@
 ## 개요
 
   - 전작의 싱글로 부터 약 3개월 만의 싱글
-  - [제네온 엔터테인먼트를](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") 통해 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [3월 12일에](https://ko.wikipedia.org/wiki/3월_12일 "wikilink") 통상판과 초회한정판 2종류가 발매되었다.
+  - [제네온 엔터테인먼트를](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") 통해 [2008년](../Page/2008년.md "wikilink") [3월 12일에](../Page/3월_12일.md "wikilink") 통상판과 초회한정판 2종류가 발매되었다.
   - 4집 앨범 《[엡실론의 방주](https://ko.wikipedia.org/wiki/엡실론의_방주 "wikilink")》에 〈BLAZE〉가 수록되어 있다.
 
 ## 트랙 리스트

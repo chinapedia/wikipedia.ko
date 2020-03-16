@@ -124,10 +124,10 @@ R&amp;B</p></td>
 
 1.  [Discogs](https://ko.wikipedia.org/wiki/:en:Discogs "wikilink") - ["Boyz II Men - *Cooleyhighharmony*"](http://www.discogs.com/Boyz-II-Men-Cooleyhighharmony/master/77886)
 2.  [매니아디비](https://ko.wikipedia.org/wiki/매니아디비 "wikilink") - ["Boyz II Men - *Cooleyhighharmony*"](http://www.maniadb.com/album.asp?a=111368)
-3.  [다음](https://ko.wikipedia.org/wiki/다음 "wikilink") 뮤직 - ["Boyz II Men - *Cooleyhighharmony*"](http://music.daum.net/album/album.do?albumId=19829)
-4.  [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직 - ["Boyz II Men - *Cooleyhighharmony*"](http://music.naver.com/album.nhn?tubeid=130392)
+3.  [다음](../Page/다음.md "wikilink") 뮤직 - ["Boyz II Men - *Cooleyhighharmony*"](http://music.daum.net/album/album.do?albumId=19829)
+4.  [네이버](../Page/네이버.md "wikilink") 뮤직 - ["Boyz II Men - *Cooleyhighharmony*"](http://music.naver.com/album.nhn?tubeid=130392)
 5.  네이버 뮤직 - ["Boyz II Men - *Cooleyhighharmony* (Reissue)"](http://music.naver.com/album.nhn?tubeid=1f2020000483)
-6.  [싸이월드](https://ko.wikipedia.org/wiki/싸이월드 "wikilink") BGM - ["Boyz II Men - *Cooleyhighharmony*"](http://music.cyworld.com/album.asp?aid=15021424)
+6.  [싸이월드](../Page/싸이월드.md "wikilink") BGM - ["Boyz II Men - *Cooleyhighharmony*"](http://music.cyworld.com/album.asp?aid=15021424)
 7.  싸이월드 BGM - ["Boyz II Men - *Cooleyhighharmony* (Reissue)"](http://music.cyworld.com/album.asp?aid=15003694)
 8.  [이즘](https://ko.wikipedia.org/wiki/이즘 "wikilink") (IZM) - 2001년 2월, 평론가 [임진모](../Page/임진모.md "wikilink")의 글 ["*Cooleyhighharmony*"](http://www.izm.co.kr/contentRead.asp?idx=11578)
 9.

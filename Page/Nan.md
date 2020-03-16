@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Nan](https://ko.wikipedia.org/wiki/Nan).
 
 
-《**Nan**》은 [핑클](https://ko.wikipedia.org/wiki/핑클 "wikilink")의 멤버 출신 [옥주현](../Page/옥주현.md "wikilink")의 첫 솔로앨범이다. 팝페라 형식의 타이틀곡 난으로 사랑을 받았다.
+《**Nan**》은 [핑클](../Page/핑클.md "wikilink")의 멤버 출신 [옥주현](../Page/옥주현.md "wikilink")의 첫 솔로앨범이다. 팝페라 형식의 타이틀곡 난으로 사랑을 받았다.
 
 ## 트랙리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MSL  ](https://ko.wikipedia.org/wiki/MSL__).
 
 
-**MSL 서바이버 토너먼트**(MSL Survivor tournament)는 [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink")이 주최하는 [스타크래프트](https://ko.wikipedia.org/wiki/스타크래프트 "wikilink") 개인리그중 하나로, [MSL진출자를](../Page/MBC게임_스타리그.md "wikilink") 가리기위해 개최된 하부리그이다. 전신인 [MSL 마이너리그가](../Page/MSL_마이너리그.md "wikilink") **MSL 서바이버리그**(MSL Survivor League)로 되었다가, 11차부터 지금의 리그로 변경되었다. 2011년 6월 11일 [ABC마트 MSL 2011를](../Page/ABC마트_MSL_2011.md "wikilink") 끝으로 동시에 폐지되었다.
+**MSL 서바이버 토너먼트**(MSL Survivor tournament)는 [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink")이 주최하는 [스타크래프트](../Page/스타크래프트.md "wikilink") 개인리그중 하나로, [MSL진출자를](../Page/MBC게임_스타리그.md "wikilink") 가리기위해 개최된 하부리그이다. 전신인 [MSL 마이너리그가](../Page/MSL_마이너리그.md "wikilink") **MSL 서바이버리그**(MSL Survivor League)로 되었다가, 11차부터 지금의 리그로 변경되었다. 2011년 6월 11일 [ABC마트 MSL 2011를](../Page/ABC마트_MSL_2011.md "wikilink") 끝으로 동시에 폐지되었다.
 
 ## 리그방식
 

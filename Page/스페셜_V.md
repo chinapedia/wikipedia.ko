@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
 
 
-《**스페셜 V**》는 [KBS N 스포츠에서](../Page/KBS_N_스포츠.md "wikilink") 방송되는 [배구](https://ko.wikipedia.org/wiki/배구 "wikilink") 매거진 프로그램이다. 2007년 1월 12일에 첫 방송 되었으며, [V-리그](../Page/V-리그_\(대한민국\).md "wikilink") 시즌 기간(10월–3월)에 방송이 된다.
+《**스페셜 V**》는 [KBS N 스포츠에서](../Page/KBS_N_스포츠.md "wikilink") 방송되는 [배구](../Page/배구.md "wikilink") 매거진 프로그램이다. 2007년 1월 12일에 첫 방송 되었으며, [V-리그](../Page/V-리그_\(대한민국\).md "wikilink") 시즌 기간(10월–3월)에 방송이 된다.
 
 ## 출연
 

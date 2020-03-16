@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPER EUROBEAT](https://ko.wikipedia.org/wiki/SUPER_EUROBEAT).
 
 
-**SUPER EUROBEAT**(슈퍼 유로비트, )는 [일본](../Page/일본.md "wikilink")의 음반사인 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")에서 1990년부터 현재까지 계속 출시하고 있는 편집 음반 시리즈이다. [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")에서 제작된 [유로비트](../Page/유로비트.md "wikilink") 음악들을 모아둔 편집반으로, [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") 비트 프리크에서 타임 레코드의 유로비트 음악을 수입하면서 시작되었으며 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 이후로는 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")에서 출시하였다.
+**SUPER EUROBEAT**(슈퍼 유로비트, )는 [일본](../Page/일본.md "wikilink")의 음반사인 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")에서 1990년부터 현재까지 계속 출시하고 있는 편집 음반 시리즈이다. [이탈리아](../Page/이탈리아.md "wikilink")에서 제작된 [유로비트](../Page/유로비트.md "wikilink") 음악들을 모아둔 편집반으로, [1990년](../Page/1990년.md "wikilink") 비트 프리크에서 타임 레코드의 유로비트 음악을 수입하면서 시작되었으며 [1991년](../Page/1991년.md "wikilink") 이후로는 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")에서 출시하였다.
 
 ## 역사
 

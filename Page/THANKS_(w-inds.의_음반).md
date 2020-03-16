@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [THANKS \(w-inds. \)](https://ko.wikipedia.org/wiki/THANKS_\(w-inds._\)).
 
 
-《**THANKS**》는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 다섯 번째 앨범이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 15일](https://ko.wikipedia.org/wiki/3월_15일 "wikilink") FLIGHT MASTER에서 발매하였다.
+《**THANKS**》는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 다섯 번째 앨범이다. [2006년](../Page/2006년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") FLIGHT MASTER에서 발매하였다.
 
 ## 개요
 
 싱글곡 〈[16일밤의 달](https://ko.wikipedia.org/wiki/16일밤의_달 "wikilink")〉, 〈[약속의 조각](https://ko.wikipedia.org/wiki/약속의_조각 "wikilink")〉, 〈[IT'S IN THE STARS](https://ko.wikipedia.org/wiki/IT'S_IN_THE_STARS "wikilink")〉를 포함한 13곡이 수록되어 있으며 [오리콘 차트에서](../Page/오리콘.md "wikilink") 4위를 기록하였다.
 
-윈즈의 데뷔 5주년을 기념하여 데뷔일인 [3월 14일](https://ko.wikipedia.org/wiki/3월_14일 "wikilink") 하루 뒤인 3월 15일에 발매하였다.
+윈즈의 데뷔 5주년을 기념하여 데뷔일인 [3월 14일](../Page/3월_14일.md "wikilink") 하루 뒤인 3월 15일에 발매하였다.
 
 수록곡 〈Midnight Venus〉는 Andy Abraham의 〈All around the world〉, 〈IT'S IN THE STARS〉는 LAGAYLIA FRAZIER의 동명곡을 리메이크 하였으며 또한, 싱글곡인 〈16일밤의 달〉, 〈약속의 조각〉은 [어쿠스틱](https://ko.wikipedia.org/wiki/어쿠스틱 "wikilink") 버전으로 편곡하였다.
 

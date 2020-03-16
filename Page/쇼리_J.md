@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ J](https://ko.wikipedia.org/wiki/_J).
 
 
-**쇼리 J**(, [1982년](https://ko.wikipedia.org/wiki/1982년 "wikilink") [10월 4일](https://ko.wikipedia.org/wiki/10월_4일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 힙합 그룹 [마이티 마우스의](../Page/마이티_마우스_\(음악_그룹\).md "wikilink") 래퍼를 말고 있다.
+**쇼리 J**(, [1982년](../Page/1982년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 힙합 그룹 [마이티 마우스의](../Page/마이티_마우스_\(음악_그룹\).md "wikilink") 래퍼를 말고 있다.
 
 ## 학력
 
@@ -15,13 +15,13 @@
 
 ### 예능
 
-  - [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [출발드림팀 시즌 2](../Page/출발드림팀_시즌_2.md "wikilink")
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [KBS1](https://ko.wikipedia.org/wiki/KBS1 "wikilink") 투맹쇼 - 느영나영 제주넘기
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 아찔한 캠핑
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [랭킹쇼 123](https://ko.wikipedia.org/wiki/랭킹쇼_123 "wikilink")
-  - [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink") - 프랑켄슈타인 쫀쫀해요 빠방♪(참가자)
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [생존자들](https://ko.wikipedia.org/wiki/생존자들 "wikilink")
-  - [2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [SBS](../Page/SBS.md "wikilink") 《[진짜 농구, 핸섬타이거즈](https://ko.wikipedia.org/wiki/진짜_농구,_핸섬타이거즈 "wikilink")》
+  - [2013년](../Page/2013년.md "wikilink") [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [출발드림팀 시즌 2](../Page/출발드림팀_시즌_2.md "wikilink")
+  - [2014년](../Page/2014년.md "wikilink") [KBS1](https://ko.wikipedia.org/wiki/KBS1 "wikilink") 투맹쇼 - 느영나영 제주넘기
+  - [2017년](../Page/2017년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 아찔한 캠핑
+  - [2018년](../Page/2018년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [랭킹쇼 123](https://ko.wikipedia.org/wiki/랭킹쇼_123 "wikilink")
+  - [2018년](../Page/2018년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink") - 프랑켄슈타인 쫀쫀해요 빠방♪(참가자)
+  - [2019년](../Page/2019년.md "wikilink") [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [생존자들](https://ko.wikipedia.org/wiki/생존자들 "wikilink")
+  - [2020년](../Page/2020년.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[진짜 농구, 핸섬타이거즈](https://ko.wikipedia.org/wiki/진짜_농구,_핸섬타이거즈 "wikilink")》
 
 ### 드라마
 
@@ -37,8 +37,8 @@
 
 ### 모델
 
-  - [NIKE](https://ko.wikipedia.org/wiki/나이키_\(기업\) "wikilink") AIR FORCE1 25주년 잡지모델 (쇼리 J, [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink"))
-  - [프로농구](https://ko.wikipedia.org/wiki/프로농구 "wikilink") [대구 오리온스](https://ko.wikipedia.org/wiki/대구_오리온스 "wikilink") 홍보대사 ([2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink"))\[1\]
+  - [NIKE](https://ko.wikipedia.org/wiki/나이키_\(기업\) "wikilink") AIR FORCE1 25주년 잡지모델 (쇼리 J, [2007년](../Page/2007년.md "wikilink"))
+  - [프로농구](https://ko.wikipedia.org/wiki/프로농구 "wikilink") [대구 오리온스](https://ko.wikipedia.org/wiki/대구_오리온스 "wikilink") 홍보대사 ([2009년](../Page/2009년.md "wikilink"))\[1\]
 
 ### 뮤직비디오
 

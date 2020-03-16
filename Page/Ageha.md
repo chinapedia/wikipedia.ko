@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Ageha](https://ko.wikipedia.org/wiki/Ageha).
 
 
-《**ageha**》(아게하)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 4번째 앨범이다. [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") FLIGHT MASTER에서 발매하였다.
+《**ageha**》(아게하)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 4번째 앨범이다. [2005년](../Page/2005년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") FLIGHT MASTER에서 발매하였다.
 
-싱글곡 《[Pieces](https://ko.wikipedia.org/wiki/Pieces "wikilink")》, 《[아름다워](https://ko.wikipedia.org/wiki/아름다워_\(윈즈의_노래\) "wikilink")》, 《[사계](https://ko.wikipedia.org/wiki/시키_\(w-inds.의_노래\) "wikilink")》, 《[꿈의 장소로](https://ko.wikipedia.org/wiki/꿈의_장소로 "wikilink")》, 《[변해가는 하늘](https://ko.wikipedia.org/wiki/변해가는_하늘 "wikilink")》을 포함한 14곡이 수록되어 있다. 1년 5개월만에 발매되었으며 [오리콘](../Page/오리콘.md "wikilink") 차트에서 약 4년 만에 1위를 기록하였다.
+싱글곡 《[Pieces](https://ko.wikipedia.org/wiki/Pieces "wikilink")》, 《[아름다워](https://ko.wikipedia.org/wiki/아름다워_\(윈즈의_노래\) "wikilink")》, 《[사계](../Page/시키_\(w-inds.의_노래\).md "wikilink")》, 《[꿈의 장소로](https://ko.wikipedia.org/wiki/꿈의_장소로 "wikilink")》, 《[변해가는 하늘](https://ko.wikipedia.org/wiki/변해가는_하늘 "wikilink")》을 포함한 14곡이 수록되어 있다. 1년 5개월만에 발매되었으며 [오리콘](../Page/오리콘.md "wikilink") 차트에서 약 4년 만에 1위를 기록하였다.
 
 3집앨범《[w-inds. \~PRIME OF LIFE\~](https://ko.wikipedia.org/wiki/w-inds._~PRIME_OF_LIFE~ "wikilink")》와는 달리 [발라드](https://ko.wikipedia.org/wiki/발라드 "wikilink"), [하드록](https://ko.wikipedia.org/wiki/하드록 "wikilink"), 스패니쉬 등의 다양한 장르의 곡이 있으며, 특히 수록곡 〈타임머신〉에서는 [오가타 류이치도](../Page/오가타_류이치.md "wikilink") 보컬에 참가했다.
 
@@ -17,7 +17,7 @@
 
   - 초회한정 자켓
   - 캠페인 응모 엽서
-  - B2사이즈 포스터 ([한국](https://ko.wikipedia.org/wiki/한국 "wikilink") 한정)
+  - B2사이즈 포스터 ([한국](../Page/한국.md "wikilink") 한정)
 
 **통상반 초회특전**
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ EOS 550D](https://ko.wikipedia.org/wiki/_EOS_550D).
 
 
-**캐논 EOS 550D**()는 [캐논](../Page/캐논.md "wikilink")이 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 2월 출시한 보급형 [디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). [캐논 EOS 500D의](../Page/캐논_EOS_500D.md "wikilink") 후속모델이며, Full HD급 동영상까지 (1920 × 1080) 30fps로 촬영이 가능하다. 출시 초기 가격이 100만원에 근접하여 기존 캐논의 보급기들보다 상대적으로 저렴한 가격으로 출시되었다. 일본에서 판매되는 이름은 Canon EOS Kiss X4, 북미에서는 Canon EOS Rebel T2i이다. 경쟁 모델로는 소니의 [A550](https://ko.wikipedia.org/wiki/A550 "wikilink")과, 니콘의 [D5000](https://ko.wikipedia.org/wiki/D5000 "wikilink")등이 있다.
+**캐논 EOS 550D**()는 [캐논](../Page/캐논.md "wikilink")이 [2010년](../Page/2010년.md "wikilink") 2월 출시한 보급형 [디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). [캐논 EOS 500D의](../Page/캐논_EOS_500D.md "wikilink") 후속모델이며, Full HD급 동영상까지 (1920 × 1080) 30fps로 촬영이 가능하다. 출시 초기 가격이 100만원에 근접하여 기존 캐논의 보급기들보다 상대적으로 저렴한 가격으로 출시되었다. 일본에서 판매되는 이름은 Canon EOS Kiss X4, 북미에서는 Canon EOS Rebel T2i이다. 경쟁 모델로는 소니의 [A550](https://ko.wikipedia.org/wiki/A550 "wikilink")과, 니콘의 [D5000](https://ko.wikipedia.org/wiki/D5000 "wikilink")등이 있다.
 
 ## 500D보다 향상된 기능
 
@@ -18,7 +18,7 @@
 
 ## 커스텀 펌웨어
 
-매직 랜턴(Magic Lantern) 이라는 [오픈 소스](https://ko.wikipedia.org/wiki/오픈_소스 "wikilink") 커스텀 펌웨어를 사용할 수 있다. GPL 라이센스로 배포되며 HDR 비디오 촬영 등의 개선이 있다.
+매직 랜턴(Magic Lantern) 이라는 [오픈 소스](../Page/오픈_소스.md "wikilink") 커스텀 펌웨어를 사용할 수 있다. GPL 라이센스로 배포되며 HDR 비디오 촬영 등의 개선이 있다.
 
 ## 사진
 

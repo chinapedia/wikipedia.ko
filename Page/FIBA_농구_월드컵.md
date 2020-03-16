@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIBA  ](https://ko.wikipedia.org/wiki/FIBA__).
 
 
-**FIBA 농구 월드컵**()은 농구 분야의 국제 기구인 [FIBA](https://ko.wikipedia.org/wiki/FIBA "wikilink")에 가맹한 농구 협회(연맹)의 남자 농구 국가대표팀이 참가하는 국제 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink") 대회이다. [대한민국 농구 국가대표팀은](../Page/대한민국_농구_국가대표팀.md "wikilink") [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink")에 첫 출전하였다.
+**FIBA 농구 월드컵**()은 농구 분야의 국제 기구인 [FIBA](https://ko.wikipedia.org/wiki/FIBA "wikilink")에 가맹한 농구 협회(연맹)의 남자 농구 국가대표팀이 참가하는 국제 [농구](../Page/농구.md "wikilink") 대회이다. [대한민국 농구 국가대표팀은](../Page/대한민국_농구_국가대표팀.md "wikilink") [1970년](../Page/1970년.md "wikilink")에 첫 출전하였다.
 
 ## 역대 대회 결과
 

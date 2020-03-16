@@ -1,37 +1,37 @@
 > This article is converted from Wikipedia: [Epilogue \( \)](https://ko.wikipedia.org/wiki/Epilogue_\(_\)).
 
 
-**Epilogue**는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") 발매된 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 스페셜 음반이다. 전 소속사 [울림 엔터테인먼트와](https://ko.wikipedia.org/wiki/울림_엔터테인먼트 "wikilink") 현 소속사 [맵더소울](../Page/맵더소울.md "wikilink")이 합병하여 발매하고, [DJ 투컷이](../Page/DJ_투컷.md "wikilink") 군복무로 빠져 2인조로 활동한 첫 음반이다. [DJ 투컷의](../Page/DJ_투컷.md "wikilink") 군 복무에 따라 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")가 작곡한 신곡과 함께 기존에 만들었던 미공개곡을 수록하였다. 이 음반 이후로 에픽하이로서의 활동은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")까지 중단하고, [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink")에 컴백 할 예정이라고 밝혔다.\[1\] 하지만 에픽하이는 2012년 10월에 정규 7집으로 컴백했다.
+**Epilogue**는 [2010년](../Page/2010년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") 발매된 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 스페셜 음반이다. 전 소속사 [울림 엔터테인먼트와](https://ko.wikipedia.org/wiki/울림_엔터테인먼트 "wikilink") 현 소속사 [맵더소울](../Page/맵더소울.md "wikilink")이 합병하여 발매하고, [DJ 투컷이](../Page/DJ_투컷.md "wikilink") 군복무로 빠져 2인조로 활동한 첫 음반이다. [DJ 투컷의](../Page/DJ_투컷.md "wikilink") 군 복무에 따라 [타블로](../Page/타블로.md "wikilink")가 작곡한 신곡과 함께 기존에 만들었던 미공개곡을 수록하였다. 이 음반 이후로 에픽하이로서의 활동은 [2012년](../Page/2012년.md "wikilink")까지 중단하고, [2013년](../Page/2013년.md "wikilink")에 컴백 할 예정이라고 밝혔다.\[1\] 하지만 에픽하이는 2012년 10월에 정규 7집으로 컴백했다.
 
 ## 배경
 
 ### 음반 작업
 
-[2009년 10월](../Page/2009년_10월.md "wikilink"), [DJ 투컷이](../Page/DJ_투컷.md "wikilink") 입대함에 따라, 에픽하이는 2년 공백을 가지게 되었다. [11월 13일](https://ko.wikipedia.org/wiki/11월_13일 "wikilink"), [유튜브](../Page/유튜브.md "wikilink")와 맵더소울닷컴을 통해 자신들의 솔로 음반을 비롯한 [MYK](https://ko.wikipedia.org/wiki/MYK "wikilink")의 데뷔 음반 소식을 전한 뒤 차후 활동 없이 에픽하이의 음반이 여러 형식으로 새로 나올 수 있다고 밝혔다.\[2\] 원래 DJ 투컷 없이는 활동을 하지 않는다고 결심했었으나 군복무 중이던 DJ 투컷의 권유로 스페셜 음반을 제작하기 시작하였고 이후 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")는 100곡에 가까운 B 사이드 곡 중 몇 곡을 골라 작업하기 시작하였다. 추가적으로 타이틀 곡 "Run"과 몇 곡을 작곡하였다.\[3\] 공개적으로는 별 다른 활동없이 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")와 [미쓰라 진은](../Page/미쓰라_진.md "wikilink") 타 가수 음반 작업 및 O.S.T에 참여하거나 콘서트 및 게스트로 참여하였고 [2010년 1월에는](../Page/2010년_1월.md "wikilink") [프랑스](../Page/프랑스.md "wikilink")에서 열린 국제 음악축제인 《미뎀 2010》에 참여하였다.\[4\]\[5\]
+[2009년 10월](../Page/2009년_10월.md "wikilink"), [DJ 투컷이](../Page/DJ_투컷.md "wikilink") 입대함에 따라, 에픽하이는 2년 공백을 가지게 되었다. [11월 13일](../Page/11월_13일.md "wikilink"), [유튜브](../Page/유튜브.md "wikilink")와 맵더소울닷컴을 통해 자신들의 솔로 음반을 비롯한 [MYK](https://ko.wikipedia.org/wiki/MYK "wikilink")의 데뷔 음반 소식을 전한 뒤 차후 활동 없이 에픽하이의 음반이 여러 형식으로 새로 나올 수 있다고 밝혔다.\[2\] 원래 DJ 투컷 없이는 활동을 하지 않는다고 결심했었으나 군복무 중이던 DJ 투컷의 권유로 스페셜 음반을 제작하기 시작하였고 이후 [타블로](../Page/타블로.md "wikilink")는 100곡에 가까운 B 사이드 곡 중 몇 곡을 골라 작업하기 시작하였다. 추가적으로 타이틀 곡 "Run"과 몇 곡을 작곡하였다.\[3\] 공개적으로는 별 다른 활동없이 [타블로](../Page/타블로.md "wikilink")와 [미쓰라 진은](../Page/미쓰라_진.md "wikilink") 타 가수 음반 작업 및 O.S.T에 참여하거나 콘서트 및 게스트로 참여하였고 [2010년 1월에는](../Page/2010년_1월.md "wikilink") [프랑스](../Page/프랑스.md "wikilink")에서 열린 국제 음악축제인 《미뎀 2010》에 참여하였다.\[4\]\[5\]
 
-이후 전 소속사인 [울림 엔터테인먼트와의](https://ko.wikipedia.org/wiki/울림_엔터테인먼트 "wikilink") [맵더소울](../Page/맵더소울.md "wikilink")의 합병을 알리며 [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink"), 프랑스에서 돌아온 에픽하이는 [2010년 3월에](../Page/2010년_3월.md "wikilink") 스페셜 음반을 발매한다고 발표하였다.\[6\]\[7\] 또한 간접적으로 [TBNY](../Page/TBNY.md "wikilink")의 [얀키](../Page/얀키.md "wikilink")가 참여함을 밝혔다.\[8\] 트랙리스트가 공개되면서 6번 트랙 〈비늘〉에 참가함이 밝혀졌다. [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink"), [DJ 투컷의](../Page/DJ_투컷.md "wikilink") 휴가를 알리면서 투컷 또한 스페셜 음반에 참여함을 간접적으로 알렸다.\[9\] 다음 날엔 음반에 대해 4집 *[Remapping the Human Soul](../Page/Remapping_the_Human_Soul.md "wikilink")*과 비슷할 것이라고 알렸다.\[10\] 이어 [트위터](../Page/트위터.md "wikilink")를 통해 작업하는 모습을 올렸으며 [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink"), 음반의 마무리 작업 중임을 알리며 음반의 제목은 ‘Epilogue’이며 변동없이 [2010년 3월에](../Page/2010년_3월.md "wikilink") 발매될 것이라고 밝혔다.\[11\]
+이후 전 소속사인 [울림 엔터테인먼트와의](https://ko.wikipedia.org/wiki/울림_엔터테인먼트 "wikilink") [맵더소울](../Page/맵더소울.md "wikilink")의 합병을 알리며 [1월 31일](../Page/1월_31일.md "wikilink"), 프랑스에서 돌아온 에픽하이는 [2010년 3월에](../Page/2010년_3월.md "wikilink") 스페셜 음반을 발매한다고 발표하였다.\[6\]\[7\] 또한 간접적으로 [TBNY](../Page/TBNY.md "wikilink")의 [얀키](../Page/얀키.md "wikilink")가 참여함을 밝혔다.\[8\] 트랙리스트가 공개되면서 6번 트랙 〈비늘〉에 참가함이 밝혀졌다. [2월 6일](../Page/2월_6일.md "wikilink"), [DJ 투컷의](../Page/DJ_투컷.md "wikilink") 휴가를 알리면서 투컷 또한 스페셜 음반에 참여함을 간접적으로 알렸다.\[9\] 다음 날엔 음반에 대해 4집 *[Remapping the Human Soul](../Page/Remapping_the_Human_Soul.md "wikilink")*과 비슷할 것이라고 알렸다.\[10\] 이어 [트위터](../Page/트위터.md "wikilink")를 통해 작업하는 모습을 올렸으며 [2월 11일](../Page/2월_11일.md "wikilink"), 음반의 마무리 작업 중임을 알리며 음반의 제목은 ‘Epilogue’이며 변동없이 [2010년 3월에](../Page/2010년_3월.md "wikilink") 발매될 것이라고 밝혔다.\[11\]
 
-[2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink"), 녹음 작업을 마무리하였으며 믹싱 작업을 앞두고 현재 음반의 자켓을 디자인 중이라고 밝혔다.\[12\]\[13\] 또한 맵더소울도 리뉴얼 중이라고 알렸다. [2월 21일에는](https://ko.wikipedia.org/wiki/2월_21일 "wikilink") 음반의 녹음을 끝마쳤다.\[14\]
+[2월 18일](../Page/2월_18일.md "wikilink"), 녹음 작업을 마무리하였으며 믹싱 작업을 앞두고 현재 음반의 자켓을 디자인 중이라고 밝혔다.\[12\]\[13\] 또한 맵더소울도 리뉴얼 중이라고 알렸다. [2월 21일에는](../Page/2월_21일.md "wikilink") 음반의 녹음을 끝마쳤다.\[14\]
 
-이어 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")는 트위터를 통해 *Epilogue*의 발매일이 [3월 9일로](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") 정해졌다고 밝혔고\[15\] 다음 날, [미쓰라 진은](../Page/미쓰라_진.md "wikilink") 현재 믹싱 작업과 뮤직비디오 촬영 중임을 알렸다.\[16\] [2월 25일에는](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") 음반 작업 영상 및 티저 영상을 유튜브를 통해 공개하였다. 영상에서 기존에 밝힌 바와 같이 “기존 음반에 넣으려 했던 곡들 중 컨셉이 겹치는 몇 몇 곡들을 미완성인 채로 배제하였다가 이번 음반을 통해 완성하여 공개한다”고 밝혔다.\[17\]
+이어 [타블로](../Page/타블로.md "wikilink")는 트위터를 통해 *Epilogue*의 발매일이 [3월 9일로](../Page/3월_9일.md "wikilink") 정해졌다고 밝혔고\[15\] 다음 날, [미쓰라 진은](../Page/미쓰라_진.md "wikilink") 현재 믹싱 작업과 뮤직비디오 촬영 중임을 알렸다.\[16\] [2월 25일에는](../Page/2월_25일.md "wikilink") 음반 작업 영상 및 티저 영상을 유튜브를 통해 공개하였다. 영상에서 기존에 밝힌 바와 같이 “기존 음반에 넣으려 했던 곡들 중 컨셉이 겹치는 몇 몇 곡들을 미완성인 채로 배제하였다가 이번 음반을 통해 완성하여 공개한다”고 밝혔다.\[17\]
 
 ### 활동
 
-음반을 작업하면서 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")와 [미쓰라 진은](../Page/미쓰라_진.md "wikilink") 여러 활동을 전개하였는데 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [2월 11일에는](https://ko.wikipedia.org/wiki/2월_11일 "wikilink") 에픽하이가 프로듀싱을 맡고 있는 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")라는 신인 보이 밴드를 공개하였다.\[18\] 에픽하이는 인피니트와 함께 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")의 [두근두근 Tomorrow](../Page/두근두근_Tomorrow.md "wikilink") 캠페인의 일환으로 개최되고 있던 [2010년 동계 올림픽에](https://ko.wikipedia.org/wiki/2010년_동계_올림픽 "wikilink") [대한민국 선수단을](https://ko.wikipedia.org/wiki/2010년_동계_올림픽_대한민국_선수단 "wikilink") 응원하는 동영상을 만들기도 했다.\[19\] 이어 에픽하이가 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 언론인 [CNN](https://ko.wikipedia.org/wiki/CNN "wikilink")의 "토크 아시아(Talk Asia)"에 출연하였다. 이는 [박지성](https://ko.wikipedia.org/wiki/박지성 "wikilink"), [비](https://ko.wikipedia.org/wiki/비_\(가수\) "wikilink"), [이병헌](https://ko.wikipedia.org/wiki/이병헌 "wikilink") 등 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 출신 인물에 이은 출연으로써, [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")는 “CNN이 한국 음악의 깊이와 다양성을 알고 큰 관심을 보여줘서 기뻤다. 전 세계인들에게 우리만의 힙합을 대표해 전할 수 있는 이 기회, 과분한 영광이었다”라고 소감을 밝혔다.\[20\] 본 인터뷰는 [4월 21일](https://ko.wikipedia.org/wiki/4월_21일 "wikilink") 밤 CNN을 통해 방송된다고 알렸다.\[21\]
+음반을 작업하면서 [타블로](../Page/타블로.md "wikilink")와 [미쓰라 진은](../Page/미쓰라_진.md "wikilink") 여러 활동을 전개하였는데 [2010년](../Page/2010년.md "wikilink") [2월 11일에는](../Page/2월_11일.md "wikilink") 에픽하이가 프로듀싱을 맡고 있는 [인피니트](../Page/인피니트.md "wikilink")라는 신인 보이 밴드를 공개하였다.\[18\] 에픽하이는 인피니트와 함께 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")의 [두근두근 Tomorrow](../Page/두근두근_Tomorrow.md "wikilink") 캠페인의 일환으로 개최되고 있던 [2010년 동계 올림픽에](../Page/2010년_동계_올림픽.md "wikilink") [대한민국 선수단을](https://ko.wikipedia.org/wiki/2010년_동계_올림픽_대한민국_선수단 "wikilink") 응원하는 동영상을 만들기도 했다.\[19\] 이어 에픽하이가 [미국](../Page/미국.md "wikilink")의 언론인 [CNN](../Page/CNN.md "wikilink")의 "토크 아시아(Talk Asia)"에 출연하였다. 이는 [박지성](https://ko.wikipedia.org/wiki/박지성 "wikilink"), [비](../Page/비_\(가수\).md "wikilink"), [이병헌](../Page/이병헌.md "wikilink") 등 [대한민국](../Page/대한민국.md "wikilink") 출신 인물에 이은 출연으로써, [타블로](../Page/타블로.md "wikilink")는 “CNN이 한국 음악의 깊이와 다양성을 알고 큰 관심을 보여줘서 기뻤다. 전 세계인들에게 우리만의 힙합을 대표해 전할 수 있는 이 기회, 과분한 영광이었다”라고 소감을 밝혔다.\[20\] 본 인터뷰는 [4월 21일](../Page/4월_21일.md "wikilink") 밤 CNN을 통해 방송된다고 알렸다.\[21\]
 
-[2월 26일에는](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 트랙리스트를 발표하였다.\[22\] 음반의 자켓은 타블로가 사진을 찍고 미쓰라 진이 글을 썼다고 밝혔다.\[23\] 이후 [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink"), 믹스 작업 마무리에 임박했으며 뮤직비디오 또한 촬영을 마쳤고 현재 편집 상태임을 알리며 이어 많은 활동을 할 예정이라고 알렸다.\[24\] [3월 2일에는](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") 이번 음반이 모든 곳에서 판매되며, [맵더소울](../Page/맵더소울.md "wikilink")닷컴 SHOP 메뉴에서는 메뉴 업데이트로 인하여 판매하지 않는다고 사전 공지를 하였다.\[25\] 또한 앨범 자켓을 공개하였다.
+[2월 26일에는](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 트랙리스트를 발표하였다.\[22\] 음반의 자켓은 타블로가 사진을 찍고 미쓰라 진이 글을 썼다고 밝혔다.\[23\] 이후 [2월 28일](../Page/2월_28일.md "wikilink"), 믹스 작업 마무리에 임박했으며 뮤직비디오 또한 촬영을 마쳤고 현재 편집 상태임을 알리며 이어 많은 활동을 할 예정이라고 알렸다.\[24\] [3월 2일에는](../Page/3월_2일.md "wikilink") 이번 음반이 모든 곳에서 판매되며, [맵더소울](../Page/맵더소울.md "wikilink")닷컴 SHOP 메뉴에서는 메뉴 업데이트로 인하여 판매하지 않는다고 사전 공지를 하였다.\[25\] 또한 앨범 자켓을 공개하였다.
 
-[2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink"), [미쓰라 진이](../Page/미쓰라_진.md "wikilink") [김진표와](../Page/김진표_\(가수\).md "wikilink") 함께 [엠넷](../Page/엠넷.md "wikilink")의 새로운 프로그램을 맡았다고 밝히고\[26\], 3월 1일부터 출연하였다.
+[2월 25일](../Page/2월_25일.md "wikilink"), [미쓰라 진이](../Page/미쓰라_진.md "wikilink") [김진표와](../Page/김진표_\(가수\).md "wikilink") 함께 [엠넷](../Page/엠넷.md "wikilink")의 새로운 프로그램을 맡았다고 밝히고\[26\], 3월 1일부터 출연하였다.
 
-[3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink") 새벽에 타블로가 타이틀 곡은 "Run"이라고 밝혔다.\[27\] 또한 [엠군](https://ko.wikipedia.org/wiki/엠군 "wikilink"), [유튜브](../Page/유튜브.md "wikilink"), [아프리카](../Page/아프리카TV.md "wikilink") 이 세 동영상 사이트에 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")의 한 멤버인 엘(L)을 주인공으로 하고 다른 멤버들이 출연한 타이틀 곡의 뮤직비디오 티져 영상을 동시에 공개하였다. 뮤직비디오의 티져 영상은 세 편으로 나뉘어 공개될 예정이며 음반 발매 당일 날 《[유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")》 녹화를 시작으로 활동을 시작한다고 밝혔다.\[28\] 당일 오전부터 트위터를 통해 음반이 마스터링 작업에 돌입했음을 알렸고 음반 발매 후부터 송 노트를 게시하겠다고 밝혔다.\[29\] 오후에는 티저 첫 번째 편인 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink") 편을 공개하였다.\[30\] 다음 날, 두 번째 "미쓰라 진 편"이 나왔다.\[31\] 마지막 3월 5일에 세 번째 티저인 "Run" 뮤직비디오 티저와 함께 노래의 일부분을 공개했다.\[32\]
+[3월 3일](../Page/3월_3일.md "wikilink") 새벽에 타블로가 타이틀 곡은 "Run"이라고 밝혔다.\[27\] 또한 [엠군](https://ko.wikipedia.org/wiki/엠군 "wikilink"), [유튜브](../Page/유튜브.md "wikilink"), [아프리카](../Page/아프리카TV.md "wikilink") 이 세 동영상 사이트에 [인피니트](../Page/인피니트.md "wikilink")의 한 멤버인 엘(L)을 주인공으로 하고 다른 멤버들이 출연한 타이틀 곡의 뮤직비디오 티져 영상을 동시에 공개하였다. 뮤직비디오의 티져 영상은 세 편으로 나뉘어 공개될 예정이며 음반 발매 당일 날 《[유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")》 녹화를 시작으로 활동을 시작한다고 밝혔다.\[28\] 당일 오전부터 트위터를 통해 음반이 마스터링 작업에 돌입했음을 알렸고 음반 발매 후부터 송 노트를 게시하겠다고 밝혔다.\[29\] 오후에는 티저 첫 번째 편인 [타블로](../Page/타블로.md "wikilink") 편을 공개하였다.\[30\] 다음 날, 두 번째 "미쓰라 진 편"이 나왔다.\[31\] 마지막 3월 5일에 세 번째 티저인 "Run" 뮤직비디오 티저와 함께 노래의 일부분을 공개했다.\[32\]
 
-[네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 웹툰 《싸우자 귀신아》의 작가인 임인스는 "R U N"이라는 제목의 글에 에픽하이 새 음반 소개 만화를 그렸다.\[33\] 또한 [맵더소울](../Page/맵더소울.md "wikilink")에는 이 만화를 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")로 번역한 티저 만화가 올라왔다.\[34\]\[35\] 또한 절친한 사이로 알려진 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 [빽가](https://ko.wikipedia.org/wiki/빽가 "wikilink")는 에픽하이의 포스터 촬영을 맡았다.\[36\]
+[네이버](../Page/네이버.md "wikilink") 웹툰 《싸우자 귀신아》의 작가인 임인스는 "R U N"이라는 제목의 글에 에픽하이 새 음반 소개 만화를 그렸다.\[33\] 또한 [맵더소울](../Page/맵더소울.md "wikilink")에는 이 만화를 [영어](../Page/영어.md "wikilink")로 번역한 티저 만화가 올라왔다.\[34\]\[35\] 또한 절친한 사이로 알려진 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 [빽가](https://ko.wikipedia.org/wiki/빽가 "wikilink")는 에픽하이의 포스터 촬영을 맡았다.\[36\]
 
-[3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink") 발매 당일 새벽에 타이틀곡 "Run"의 싱크가 어긋난 불법 뮤직비디오가 유출되어 파장을 일으켰다.\[37\] 그 영향으로 에픽하이는 공식 뮤직비디오를 다소 일찍 공개했고\[38\], 타블로와 미쓰라 진은 뮤직비디오가 유출된데에 격앙된 표현으로 실망감을 감추지 않았다.\[39\]\[40\]
+[3월 9일](../Page/3월_9일.md "wikilink") 발매 당일 새벽에 타이틀곡 "Run"의 싱크가 어긋난 불법 뮤직비디오가 유출되어 파장을 일으켰다.\[37\] 그 영향으로 에픽하이는 공식 뮤직비디오를 다소 일찍 공개했고\[38\], 타블로와 미쓰라 진은 뮤직비디오가 유출된데에 격앙된 표현으로 실망감을 감추지 않았다.\[39\]\[40\]
 
-발매 다음 날 3월 10일에는 어떠한 해외 프로모션 없이 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink") "힙합/랩 음반 차트"에서 1위를 하기도 하였다.\[41\] 또한 [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드 "wikilink") 아이튠즈 1위, [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink") 아이튠즈 3위, 한터차트 1위 등 세계 곳곳의 차트에서 발매 하루 만에 상위권에 들었다.\[42\] [3월 12일에](https://ko.wikipedia.org/wiki/3월_12일 "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")를 통해 공중파에 복귀하였다.\[43\] 이어 《[유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")》에 출연하였고\[44\] 곧바로 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》, 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 등 방송 3사 음악 프로그램에 출연하며 본격적으로 활동하기 시작하였다.\[45\]
+발매 다음 날 3월 10일에는 어떠한 해외 프로모션 없이 [미국](../Page/미국.md "wikilink") [아이튠즈](../Page/아이튠즈.md "wikilink") "힙합/랩 음반 차트"에서 1위를 하기도 하였다.\[41\] 또한 [뉴질랜드](../Page/뉴질랜드.md "wikilink") 아이튠즈 1위, [캐나다](../Page/캐나다.md "wikilink") 아이튠즈 3위, 한터차트 1위 등 세계 곳곳의 차트에서 발매 하루 만에 상위권에 들었다.\[42\] [3월 12일에](../Page/3월_12일.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")를 통해 공중파에 복귀하였다.\[43\] 이어 《[유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")》에 출연하였고\[44\] 곧바로 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》, 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 등 방송 3사 음악 프로그램에 출연하며 본격적으로 활동하기 시작하였다.\[45\]
 
-[3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink"), 에픽하이는 대한민국 힙합 웹사이트 [힙합플레이야](../Page/힙합플레이야.md "wikilink")의 10주년을 맞아 열리는 힙플쇼(Hiphop Playa Show, 힙합플레이야 공연)에 [슈프림 팀](https://ko.wikipedia.org/wiki/슈프림_팀 "wikilink") 등과 1차 출연진으로 공개되었다.\[46\] 또한 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 20일](https://ko.wikipedia.org/wiki/3월_20일 "wikilink") [유튜브](../Page/유튜브.md "wikilink")가 개최한 《유튜브 뮤직데이》에 헤드라이너로 참여하였다. [4월 11일에는](https://ko.wikipedia.org/wiki/4월_11일 "wikilink") [리바이스](../Page/리바이스.md "wikilink")가 주최하는 *Keep The Faith* 콘서트에 [윤미래](../Page/윤미래.md "wikilink") 등과 참여하였다.\[47\] 이어 공중파 방송에 출연하며 [4월 17일에](https://ko.wikipedia.org/wiki/4월_17일 "wikilink") [힙합플레이야](../Page/힙합플레이야.md "wikilink") 10주년 쇼에 헤드라이너로 참여하였다. [미쓰라 진을](../Page/미쓰라_진.md "wikilink") 제외하고 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")는 아내 [강혜정](https://ko.wikipedia.org/wiki/강혜정 "wikilink")의 출산으로 인해 5월 초까지 휴식을 가졌다.\[48\] [5월 2일](https://ko.wikipedia.org/wiki/5월_2일 "wikilink"), 타블로가 득녀를 하고 복귀한 후\[49\] 활동은 기존에 녹화한 음악 프로그램과 예능 프로그램에 출연하였으며 주로 라디오 프로그램 게스트로 참여하였다. 이후 [5월 26일](https://ko.wikipedia.org/wiki/5월_26일 "wikilink"), 타블로는 트위터를 통해 *Epilogue* 활동 마감을 알렸다.\[50\]
+[3월 13일](../Page/3월_13일.md "wikilink"), 에픽하이는 대한민국 힙합 웹사이트 [힙합플레이야](../Page/힙합플레이야.md "wikilink")의 10주년을 맞아 열리는 힙플쇼(Hiphop Playa Show, 힙합플레이야 공연)에 [슈프림 팀](https://ko.wikipedia.org/wiki/슈프림_팀 "wikilink") 등과 1차 출연진으로 공개되었다.\[46\] 또한 [2010년](../Page/2010년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") [유튜브](../Page/유튜브.md "wikilink")가 개최한 《유튜브 뮤직데이》에 헤드라이너로 참여하였다. [4월 11일에는](../Page/4월_11일.md "wikilink") [리바이스](../Page/리바이스.md "wikilink")가 주최하는 *Keep The Faith* 콘서트에 [윤미래](../Page/윤미래.md "wikilink") 등과 참여하였다.\[47\] 이어 공중파 방송에 출연하며 [4월 17일에](../Page/4월_17일.md "wikilink") [힙합플레이야](../Page/힙합플레이야.md "wikilink") 10주년 쇼에 헤드라이너로 참여하였다. [미쓰라 진을](../Page/미쓰라_진.md "wikilink") 제외하고 [타블로](../Page/타블로.md "wikilink")는 아내 [강혜정](../Page/강혜정.md "wikilink")의 출산으로 인해 5월 초까지 휴식을 가졌다.\[48\] [5월 2일](../Page/5월_2일.md "wikilink"), 타블로가 득녀를 하고 복귀한 후\[49\] 활동은 기존에 녹화한 음악 프로그램과 예능 프로그램에 출연하였으며 주로 라디오 프로그램 게스트로 참여하였다. 이후 [5월 26일](../Page/5월_26일.md "wikilink"), 타블로는 트위터를 통해 *Epilogue* 활동 마감을 알렸다.\[50\]
 
 ## 성과
 
@@ -43,11 +43,11 @@
 
 ### 부클릿
 
-가사집 및 음반 정보 등 11장으로 이루어져 있으며 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")가 직접 촬영한 8장의 사진들과 [미쓰라 진이](../Page/미쓰라_진.md "wikilink") 작성한 글이 수록되어 있다.
+가사집 및 음반 정보 등 11장으로 이루어져 있으며 [타블로](../Page/타블로.md "wikilink")가 직접 촬영한 8장의 사진들과 [미쓰라 진이](../Page/미쓰라_진.md "wikilink") 작성한 글이 수록되어 있다.
 
 ### 라이너 노트
 
-아래는 음반 발매 당일부터 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")가 [자신의 트위터](https://twitter.com/blobyblo) 를 통해서 트랙 순으로 공개한 *Epilogue*의 라이너 노트이다. (일부는 인터뷰 중 밝힌 내용 포함.)
+아래는 음반 발매 당일부터 [타블로](../Page/타블로.md "wikilink")가 [자신의 트위터](https://twitter.com/blobyblo) 를 통해서 트랙 순으로 공개한 *Epilogue*의 라이너 노트이다. (일부는 인터뷰 중 밝힌 내용 포함.)
 
   - **서랍 & Run**: 준비, 질주, 숨돌리기, 예측하지 못한 정지, 재출발 등 인생을 달리기에 비유하여 달리는 느낌을 음악으로 표현하고 싶었다고 밝혔다. 또한 〈서랍〉은 여태 에픽하이가 발매해왔던 타이틀곡 및 후속곡의 제목을 두 글자의 단어로 담아냈다.
   - **바보**: 사랑 앞에 작아지는 사람들이 갈수록 흔하지 않은 세상 속에서 바보의 순수함을 잃지 못하는 사람들을 위한 노래이며, 심플한 리듬 위주 편곡을 하였다고 밝혔다. 다른 인터뷰에서는 [필터를](../Page/필터_\(음악가\).md "wikilink") 보고 썼다고 밝혔다.\[53\]
@@ -55,18 +55,18 @@
   - **Blossom**: [이터널 모닝의](../Page/이터널_모닝.md "wikilink") 멤버로서 작업한 연주곡이며 피아노를 치고 녹음해서 왜곡시켜 동양적인 느낌을 담고 싶었다고 밝혔다.
   - **비늘**: 유일한 이번 음반의 랩 피쳐링 곡이며, 과거에 타블로와 미쓰라 진, 그리고 얀키가 했었던 〈[비의 랩소디](https://ko.wikipedia.org/wiki/비의_랩소디 "wikilink")〉의 후속작이라고 밝혔다.
   - **잡음**: 라디오 주파수 잡음을 녹음해서 리듬으로 꾸몄으며 작곡보다 편곡에 집중한 곡이라고 밝혔다. 애당초 타블로의 랩 파트가 있었으나 미쓰라 진이 잘한 나머지 포기하였으며 또한 다음엔 이와같이 "생활의 소리"들로만 한 곡을 완성할 생각이라고 밝혔다.\[55\]
-  - **Over**: 항상 최고여야 하는 사람들에 대한 안타까움으로 만든 곡이다. 또한 해외 팬과 적극적으로 교류하기 위하여 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink")로 만들었다.\[56\]
+  - **Over**: 항상 최고여야 하는 사람들에 대한 안타까움으로 만든 곡이다. 또한 해외 팬과 적극적으로 교류하기 위하여 [영어](../Page/영어.md "wikilink")로 만들었다.\[56\]
   - **Coffee**: 한 시트콤의 오프닝곡으로 쓰려다 우울하다고 퇴짜를 맞았고, 또 [5집에](../Page/Pieces,_Part_One.md "wikilink") 수록하려다가 〈우산〉과 겹쳐 수록하지 못했다.
 
 ### 뮤직비디오
 
-타이틀 곡 "Run"의 뮤직비디오는 [쟈니브로스](https://ko.wikipedia.org/wiki/쟈니브로스 "wikilink")의 홍원기 감독이 맡았으며 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")를 비롯한 같은 소속사 후배 그룹인 [인피니트](https://ko.wikipedia.org/wiki/인피니트 "wikilink")가 출연하였다. [3월 5일](https://ko.wikipedia.org/wiki/3월_5일 "wikilink"), 뮤직비디오의 티저 영상을 공개하며 음반 발매일이자 뮤직비디오 공개일이었던 [3월 9일](https://ko.wikipedia.org/wiki/3월_9일 "wikilink"), 정각 무렵 뮤직비디오가 한 사이트를 통해 사전 유출되어 예정보다 빨리 공개하였다.\[57\] 사막 한 가운데에 밴드 장면에서 인피니트와 함께 [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink"), [미쓰라 진이](../Page/미쓰라_진.md "wikilink") 나온다. 또한 인피니트의 엘이 주인공을 맡았으며 출생에서부터 성인이 된 이후의 모습을 1인칭 시점으로 보여준다.\[58\]
+타이틀 곡 "Run"의 뮤직비디오는 [쟈니브로스](https://ko.wikipedia.org/wiki/쟈니브로스 "wikilink")의 홍원기 감독이 맡았으며 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")를 비롯한 같은 소속사 후배 그룹인 [인피니트](../Page/인피니트.md "wikilink")가 출연하였다. [3월 5일](../Page/3월_5일.md "wikilink"), 뮤직비디오의 티저 영상을 공개하며 음반 발매일이자 뮤직비디오 공개일이었던 [3월 9일](../Page/3월_9일.md "wikilink"), 정각 무렵 뮤직비디오가 한 사이트를 통해 사전 유출되어 예정보다 빨리 공개하였다.\[57\] 사막 한 가운데에 밴드 장면에서 인피니트와 함께 [타블로](../Page/타블로.md "wikilink"), [미쓰라 진이](../Page/미쓰라_진.md "wikilink") 나온다. 또한 인피니트의 엘이 주인공을 맡았으며 출생에서부터 성인이 된 이후의 모습을 1인칭 시점으로 보여준다.\[58\]
 
 뮤직비디오의 시작과 함께 출생부터 성장을 하는 모습과 함께 달리는 모습이 번갈아 나오며, 탈선 후 오토바이를 타게 되고 여자친구를 만난다. 그러나 오토바이 사고와 다른 남자에게 여자친구를 잃게 되고, 이후 복서로서 열심히 훈련하기 시작한다. 마지막 장면에선 신발끈을 오른쪽만 묶는 복선과 함께 왼쪽 다리에 의족을 찬 채 달리는 모습을 보여주며 사고로 다리를 잃었음을 보여준다. 계속해서 훈련하는 모습이 나오며 끝난다.
 
 ## 평가
 
-[네이버 뮤직은](https://ko.wikipedia.org/wiki/네이버 "wikilink") 한국대중음악상 선정위원단과 네티즌 선정위원단의 평가로 별점 5.5점을 부여했다. 한국대중음악상 선정위원단은 담백하고 색깔 뚜렷한 작품이라 평했으며, 네티즌 선정위원단은 [DJ 투컷의](../Page/DJ_투컷.md "wikilink") 공백이 느껴졌다고 평했다.\[59\] 음악 리뷰 사이트 이즘은 부드럽지만 몇 년 동안 에픽하이가 보여준 모습 그대로라며 식상하다는 평을 내렸다.\[60\] 그 외에도 에픽하이 특유의 모습을 보여줬지만 기존의 음악을 답습하고 너무 안정적이면서 질린다는 평도 있다.\[61\]
+[네이버 뮤직은](../Page/네이버.md "wikilink") 한국대중음악상 선정위원단과 네티즌 선정위원단의 평가로 별점 5.5점을 부여했다. 한국대중음악상 선정위원단은 담백하고 색깔 뚜렷한 작품이라 평했으며, 네티즌 선정위원단은 [DJ 투컷의](../Page/DJ_투컷.md "wikilink") 공백이 느껴졌다고 평했다.\[59\] 음악 리뷰 사이트 이즘은 부드럽지만 몇 년 동안 에픽하이가 보여준 모습 그대로라며 식상하다는 평을 내렸다.\[60\] 그 외에도 에픽하이 특유의 모습을 보여줬지만 기존의 음악을 답습하고 너무 안정적이면서 질린다는 평도 있다.\[61\]
 
 ## 각주
 
@@ -94,16 +94,16 @@
 4.  [에픽하이•f(x), 佛 미뎀 쇼케이스 참가](http://news.naver.com/main/hotissue/read.nhn?mid=hot&sid1=106&gid=330818&cid=307105&iid=173666&oid=108&aid=0002015141&ptype=011) 《스타뉴스》, 2010년 1월 12일
 5.  [에픽하이ㆍ에프엑스 佛음악박람회 공연](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=001&aid=0003093413) 《연합뉴스》, 2010년 1월 27일
 6.
-7.  [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")가 자신의 [트위터](https://twitter.com/blobyblo) 를 통해 “현재 스페셜 음반을 준비 중이며 음반 내에 미공개 곡과 신곡들이 수록된다”고 밝혔다.
-8.  [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") 자신의 트위터를 통해 밝힌 내용: “예전에 작업했던 미공개곡들과 신곡들이 담긴 스페셜 앨범 준비중입니다\~ 정식이가 떠나면서 살짝 귀뜸해드렸던, 기억나요? \[e\]앨범의 갑작스러운 활동중단땜에 아쉬워했던 분들\~ 좀만 기다리세요...\!”, “http://yfrog.us/2mvhxz 간만에 에픽+얀키 collabo 녹음중^^”이라며 트위터에 남겼다.
-9.  [2월 6일](https://ko.wikipedia.org/wiki/2월_6일 "wikilink"), 트위터를 통해 “휴가 나온 투컷\~ 역시 녹음실로 달려왔다 ㅋㅋ 정신적으로 스페셜 앨범 양념치는 중\! 건강하게 잘 지내는 모습 보기 좋다\!”라고 남겼다.
-10. [2월 7일](https://ko.wikipedia.org/wiki/2월_7일 "wikilink"), [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")는 “우리의 4집 즈음의 음악을 좋아했던 분들은 증말 신날 듯^^”이라고 작성하여 4집 음반 컨셉과 비슷함을 암시하였다.
-11. [2월 11일](https://ko.wikipedia.org/wiki/2월_11일 "wikilink"), “에픽하이 스페셜 앨범, epilogue. 3월 초... 마무리작업 중. epik high's special album, epilogue. Early March... ”라고 작성하였다.
-12. [2월 18일](https://ko.wikipedia.org/wiki/2월_18일 "wikilink"), 트위터를 통해 “"epilogue" 앨범 업데이트: 녹음 완성, 믹싱 곧 시작. 자켓 디자인 중. / "epilogue" album update: recording done, mix about to start. Artwork in progress. ”이라고 밝혔다.
+7.  [타블로](../Page/타블로.md "wikilink")가 자신의 [트위터](https://twitter.com/blobyblo) 를 통해 “현재 스페셜 음반을 준비 중이며 음반 내에 미공개 곡과 신곡들이 수록된다”고 밝혔다.
+8.  [1월 31일](../Page/1월_31일.md "wikilink") 자신의 트위터를 통해 밝힌 내용: “예전에 작업했던 미공개곡들과 신곡들이 담긴 스페셜 앨범 준비중입니다\~ 정식이가 떠나면서 살짝 귀뜸해드렸던, 기억나요? \[e\]앨범의 갑작스러운 활동중단땜에 아쉬워했던 분들\~ 좀만 기다리세요...\!”, “http://yfrog.us/2mvhxz 간만에 에픽+얀키 collabo 녹음중^^”이라며 트위터에 남겼다.
+9.  [2월 6일](../Page/2월_6일.md "wikilink"), 트위터를 통해 “휴가 나온 투컷\~ 역시 녹음실로 달려왔다 ㅋㅋ 정신적으로 스페셜 앨범 양념치는 중\! 건강하게 잘 지내는 모습 보기 좋다\!”라고 남겼다.
+10. [2월 7일](../Page/2월_7일.md "wikilink"), [타블로](../Page/타블로.md "wikilink")는 “우리의 4집 즈음의 음악을 좋아했던 분들은 증말 신날 듯^^”이라고 작성하여 4집 음반 컨셉과 비슷함을 암시하였다.
+11. [2월 11일](../Page/2월_11일.md "wikilink"), “에픽하이 스페셜 앨범, epilogue. 3월 초... 마무리작업 중. epik high's special album, epilogue. Early March... ”라고 작성하였다.
+12. [2월 18일](../Page/2월_18일.md "wikilink"), 트위터를 통해 “"epilogue" 앨범 업데이트: 녹음 완성, 믹싱 곧 시작. 자켓 디자인 중. / "epilogue" album update: recording done, mix about to start. Artwork in progress. ”이라고 밝혔다.
 13.
 14.
-15. [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink"), 타블로 트위터를 통해 “3월 9일, 에픽하이 '에필로그' 앨범 발매 / Epik High's 'Epilogue', to be released on March 9th” 메시지를 남기며 음반 발매를 알렸다.
-16. [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink"), 미쓰라 진 트위터를 통해 “믹싱과 뮤직비디오 촬영으로 잠시 넋을 놓고 있었습니다.”라며 현재 믹싱과 뮤직비디오 촬영 중임을 알렸다.
+15. [2월 22일](../Page/2월_22일.md "wikilink"), 타블로 트위터를 통해 “3월 9일, 에픽하이 '에필로그' 앨범 발매 / Epik High's 'Epilogue', to be released on March 9th” 메시지를 남기며 음반 발매를 알렸다.
+16. [2월 23일](../Page/2월_23일.md "wikilink"), 미쓰라 진 트위터를 통해 “믹싱과 뮤직비디오 촬영으로 잠시 넋을 놓고 있었습니다.”라며 현재 믹싱과 뮤직비디오 촬영 중임을 알렸다.
 17.
 18.
 19.
@@ -111,12 +111,12 @@
 21.
 22.
 23. 타블로가 트위터를 통해 밝혔다: “에필로그 앨범 자켓, 신경 많이 썼어요^^ 제가 사진을 찍고, 미쓰라가 글을... / put a lot into the album booklet for epilogue\! words by mithra & photography by yours truly”라고 남겼다.
-24. [타블로](https://ko.wikipedia.org/wiki/타블로 "wikilink")가 트위터를 통해 “믹스 작업 마지막 날\~ 뮤직비디오도 촬영 완성, 편집중. 본격 활동 준비중입니다^^ (에픽하이의 에필로그, 3월 9일 발매\!) ”, “이번 활동은 정식이 몫까지 우리가 미친듯이 달릴거다\! 기대하세요\~”라며 많은 활동을 할 것임을 암시하였다.
+24. [타블로](../Page/타블로.md "wikilink")가 트위터를 통해 “믹스 작업 마지막 날\~ 뮤직비디오도 촬영 완성, 편집중. 본격 활동 준비중입니다^^ (에픽하이의 에필로그, 3월 9일 발매\!) ”, “이번 활동은 정식이 몫까지 우리가 미친듯이 달릴거다\! 기대하세요\~”라며 많은 활동을 할 것임을 암시하였다.
 25.
 26.
 27. 타블로가 3월 3일 새벽 트위터에 "깔끔하게 retweet 부탁드립니다\~^^ 에픽하이의 'epilogue' 앨범 (타이틀곡: Run) 3월 9일 발매\! [http://mapthesoul.com/themap"라고](http://mapthesoul.com/themap%22라고)  올렸다."
 28.
-29. [3월 3일](https://ko.wikipedia.org/wiki/3월_3일 "wikilink"), 타블로는 자신의 트위터를 통해: “앨범 프로듀싱의 마지막 단계, 마스터링. D-6\!”, “앨범 나오는 날 부터 트윗으로 song note 올리겠습니다^^”라고 밝혔다.
+29. [3월 3일](../Page/3월_3일.md "wikilink"), 타블로는 자신의 트위터를 통해: “앨범 프로듀싱의 마지막 단계, 마스터링. D-6\!”, “앨범 나오는 날 부터 트윗으로 song note 올리겠습니다^^”라고 밝혔다.
 30.
 31.
 32.
@@ -137,7 +137,7 @@
 47.
 48.
 49.
-50. [5월 26일](https://ko.wikipedia.org/wiki/5월_26일 "wikilink"), 타블로는 자신의 트위터를 통해서 “에필로그 앨범 아껴준 모두, 고마워요\! 활동 끝, 음악 시작.”이라고 남기며 활동 마감했음을 알렸다.
+50. [5월 26일](../Page/5월_26일.md "wikilink"), 타블로는 자신의 트위터를 통해서 “에필로그 앨범 아껴준 모두, 고마워요\! 활동 끝, 음악 시작.”이라고 남기며 활동 마감했음을 알렸다.
 51. [2010 연간 한터집계 음반판매량 Top 50](http://blog.daum.net/snow_music/6969172)
 52. [2010 연간 가온차트 음반판매량 Top 50](http://blog.daum.net/snow_music/6969175)
 53.

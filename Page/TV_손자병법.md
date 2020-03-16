@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
 
 
-《**TV 손자병법**》은 [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [11월 18일부터](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [10월 14일까지](https://ko.wikipedia.org/wiki/10월_14일 "wikilink") [KBS에서](../Page/한국방송공사.md "wikilink") 방영된 코믹 시추에이션 [드라마이다](../Page/텔레비전_드라마.md "wikilink").
+《**TV 손자병법**》은 [1987년](../Page/1987년.md "wikilink") [11월 18일부터](../Page/11월_18일.md "wikilink") [1993년](../Page/1993년.md "wikilink") [10월 14일까지](../Page/10월_14일.md "wikilink") [KBS에서](../Page/한국방송공사.md "wikilink") 방영된 코믹 시추에이션 [드라마이다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 개요
 
@@ -9,19 +9,19 @@
 
 ## 등장 인물
 
-  - [오현경](https://ko.wikipedia.org/wiki/오현경_\(1936년\) "wikilink") : 오장수 역 - 만년과장 - 부장대리 - 이사 진급
+  - [오현경](../Page/오현경_\(1936년\).md "wikilink") : 오장수 역 - 만년과장 - 부장대리 - 이사 진급
   - [서인석](../Page/서인석_\(배우\).md "wikilink") : 유비 역 - 대리 - 과장
   - [장용](../Page/장용_\(배우\).md "wikilink") : 조조 역 - 대리
   - [김희라](../Page/김희라.md "wikilink") : 장비 역 - 대리
   - [정종준](../Page/정종준.md "wikilink") : 관우 역 - 대리
-  - [김성찬](https://ko.wikipedia.org/wiki/김성찬_\(배우\) "wikilink") : 여포 역 - 대리
-  - [박용식](https://ko.wikipedia.org/wiki/박용식 "wikilink") : 자재부장 역
+  - [김성찬](../Page/김성찬_\(배우\).md "wikilink") : 여포 역 - 대리
+  - [박용식](../Page/박용식.md "wikilink") : 자재부장 역
   - [박웅](../Page/박웅.md "wikilink") : 상무 역
-  - [김진해](https://ko.wikipedia.org/wiki/김진해 "wikilink") : 사장 역
+  - [김진해](../Page/김진해.md "wikilink") : 사장 역
   - [송기윤](../Page/송기윤.md "wikilink") : 오자룡 역
   - [노경주](../Page/노경주.md "wikilink") : 현미경 역
   - [이미경](https://ko.wikipedia.org/wiki/이미경_\(1960년\) "wikilink") : 전 간호사 역 - 의무실 근무
-  - [이미영](https://ko.wikipedia.org/wiki/이미영_\(배우\) "wikilink") : 조 대리 - 과장 역
+  - [이미영](../Page/이미영_\(배우\).md "wikilink") : 조 대리 - 과장 역
   - [홍리나](../Page/홍리나.md "wikilink") : 홍세나 역
   - [선우재덕](../Page/선우재덕.md "wikilink") : 우재용 역
   - [박진성](https://ko.wikipedia.org/wiki/박진성 "wikilink") : 장필도 역

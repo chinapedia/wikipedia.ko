@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love is message](https://ko.wikipedia.org/wiki/Love_is_message).
 
 
-〈**Love is message**〉는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 9번째 싱글이다. [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 20일](https://ko.wikipedia.org/wiki/8월_20일 "wikilink") FLIGHT MASTER([포니 캐년](../Page/포니_캐년.md "wikilink"))에서 발매하였다.
+〈**Love is message**〉는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 9번째 싱글이다. [2003년](../Page/2003년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") FLIGHT MASTER([포니 캐년](../Page/포니_캐년.md "wikilink"))에서 발매하였다.
 
 ## 개요
 

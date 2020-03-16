@@ -6,8 +6,8 @@
 ## 구성
 
   - [로버트 플랜트](../Page/로버트_플랜트.md "wikilink") : [리드 보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
-  - [지미 페이지](../Page/지미_페이지.md "wikilink") : [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 배킹 보컬
-  - [존 폴 존스](../Page/존_폴_존스_\(음악가\).md "wikilink") : [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink")
+  - [지미 페이지](../Page/지미_페이지.md "wikilink") : [기타](../Page/기타.md "wikilink"), 배킹 보컬
+  - [존 폴 존스](../Page/존_폴_존스_\(음악가\).md "wikilink") : [베이스 기타](../Page/베이스_기타.md "wikilink")
   - [존 본햄](https://ko.wikipedia.org/wiki/존_본햄 "wikilink") : [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
 
 ## 외부 링크

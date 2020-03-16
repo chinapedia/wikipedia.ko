@@ -36,6 +36,6 @@
   -
 [분류:리듬 앤 블루스 음반](https://ko.wikipedia.org/wiki/분류:리듬_앤_블루스_음반 "wikilink") [분류:보이즈 투 멘의 음반](https://ko.wikipedia.org/wiki/분류:보이즈_투_멘의_음반 "wikilink") [분류:미국의 음반](https://ko.wikipedia.org/wiki/분류:미국의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:2000년 음반](https://ko.wikipedia.org/wiki/분류:2000년_음반 "wikilink")
 
-1.  [다음](https://ko.wikipedia.org/wiki/다음 "wikilink") 뮤직 - ["Boyz II Men - *Nathan Michael Shawn Wanya*"](http://music.daum.net/album/album.do?albumId=19836)
-2.  [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 뮤직 - ["Boyz II Men - *Nathan Michael Shawn Wanya*"](http://music.naver.com/album.nhn?tubeid=1f2020000298)
-3.  [싸이월드](https://ko.wikipedia.org/wiki/싸이월드 "wikilink") BGM - ["Boyz II Men - *Nathan Michael Shawn Wanya*"](http://music.cyworld.com/album.asp?aid=15009284)
+1.  [다음](../Page/다음.md "wikilink") 뮤직 - ["Boyz II Men - *Nathan Michael Shawn Wanya*"](http://music.daum.net/album/album.do?albumId=19836)
+2.  [네이버](../Page/네이버.md "wikilink") 뮤직 - ["Boyz II Men - *Nathan Michael Shawn Wanya*"](http://music.naver.com/album.nhn?tubeid=1f2020000298)
+3.  [싸이월드](../Page/싸이월드.md "wikilink") BGM - ["Boyz II Men - *Nathan Michael Shawn Wanya*"](http://music.cyworld.com/album.asp?aid=15009284)

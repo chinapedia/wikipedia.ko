@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I Just Wanna Rhyme Vol.1](https://ko.wikipedia.org/wiki/I_Just_Wanna_Rhyme_Vol.1).
 
 
-***I Just Wanna Rhyme Vol.1***은 [사이먼 도미닉이](../Page/사이먼_도미닉.md "wikilink") [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 8일에](https://ko.wikipedia.org/wiki/6월_8일 "wikilink") 발매한 믹스테이프이다.
+***I Just Wanna Rhyme Vol.1***은 [사이먼 도미닉이](../Page/사이먼_도미닉.md "wikilink") [2008년](../Page/2008년.md "wikilink") [6월 8일에](../Page/6월_8일.md "wikilink") 발매한 믹스테이프이다.
 
 ## 수록곡
 

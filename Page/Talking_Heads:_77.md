@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Talking Heads: 77](https://ko.wikipedia.org/wiki/Talking_Heads:_77).
 
 
-《**Talking Heads: 77**》는 [토킹 헤즈가](../Page/토킹_헤즈.md "wikilink") 1977년 발표한 첫 번째 앨범이다. 이 앨범은 [본 조비의](https://ko.wikipedia.org/wiki/본_조비 "wikilink") 리더인 [존 본 조비의](../Page/존_본_조비.md "wikilink") 사촌인 [토니 본지오비가](https://ko.wikipedia.org/wiki/토니_본지오비 "wikilink") 프로듀서로 참여했다. 앨범은 빌보드 97위까지 올라갔으며, 싱글 "[Psycho Killer](https://ko.wikipedia.org/wiki/Psycho_Killer "wikilink")"는 싱글 차트 92위까지 오르는 소폭의 히트를 기록했다. "[Psycho Killer](https://ko.wikipedia.org/wiki/Psycho_Killer "wikilink")"는 후일 초기 토킹 헤즈를 대표하는 곡으로 자리잡게 된다.
+《**Talking Heads: 77**》는 [토킹 헤즈가](../Page/토킹_헤즈.md "wikilink") 1977년 발표한 첫 번째 앨범이다. 이 앨범은 [본 조비의](../Page/본_조비.md "wikilink") 리더인 [존 본 조비의](../Page/존_본_조비.md "wikilink") 사촌인 [토니 본지오비가](https://ko.wikipedia.org/wiki/토니_본지오비 "wikilink") 프로듀서로 참여했다. 앨범은 빌보드 97위까지 올라갔으며, 싱글 "[Psycho Killer](https://ko.wikipedia.org/wiki/Psycho_Killer "wikilink")"는 싱글 차트 92위까지 오르는 소폭의 히트를 기록했다. "[Psycho Killer](https://ko.wikipedia.org/wiki/Psycho_Killer "wikilink")"는 후일 초기 토킹 헤즈를 대표하는 곡으로 자리잡게 된다.
 
 2005년 [리마스터링](https://ko.wikipedia.org/wiki/리마스터링 "wikilink")되어 DVD를 포함해 재발매되었다.
 

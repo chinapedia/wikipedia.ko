@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [FIBA   ](https://ko.wikipedia.org/wiki/FIBA___).
 
 
-**FIBA 여자 농구 월드컵**은 [FIBA](https://ko.wikipedia.org/wiki/FIBA "wikilink")에 가입된 [여자 농구 대표팀들이](https://ko.wikipedia.org/wiki/여자_농구 "wikilink") 참여하는 여자 [농구](https://ko.wikipedia.org/wiki/농구 "wikilink") 분야의 국제 대회이다.
+**FIBA 여자 농구 월드컵**은 [FIBA](https://ko.wikipedia.org/wiki/FIBA "wikilink")에 가입된 [여자 농구 대표팀들이](https://ko.wikipedia.org/wiki/여자_농구 "wikilink") 참여하는 여자 [농구](../Page/농구.md "wikilink") 분야의 국제 대회이다.
 
 ## 역사
 
-[국제 농구 연맹](../Page/국제_농구_연맹.md "wikilink")(FIBA)에 의해서 [1950년](https://ko.wikipedia.org/wiki/1950년 "wikilink") 처음으로 남자 농구 월드컵이 열린지 3년 후인 1953년에 칠레에서 첫 번째 대회가 개최되었다. 초창기 대회에서는 4년 또는 3년에 한 번씩 열리는 등 대회 기간이 불규칙했으나, [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") [체코슬로바키아](https://ko.wikipedia.org/wiki/체코슬로바키아 "wikilink")에서 열린 [1967년 세계 여자 농구 선수권 대회에서부터는](https://ko.wikipedia.org/wiki/1967년_세계_여자_농구_선수권_대회 "wikilink") 4년에 한 번씩 열리는 것으로 결정되었다. [1983년 세계 여자 농구 선수권 대회](https://ko.wikipedia.org/wiki/1983년_세계_여자_농구_선수권_대회 "wikilink") 이후에는, [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink")이 열리기 2년 전에 대회가 열리는 것으로 결정되었다. [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")에서 열린 [1986년 세계 여자 농구 선수권 대회에서부터](https://ko.wikipedia.org/wiki/1986년_세계_여자_농구_선수권_대회 "wikilink") 처음으로 적용됐다.
+[국제 농구 연맹](../Page/국제_농구_연맹.md "wikilink")(FIBA)에 의해서 [1950년](../Page/1950년.md "wikilink") 처음으로 남자 농구 월드컵이 열린지 3년 후인 1953년에 칠레에서 첫 번째 대회가 개최되었다. 초창기 대회에서는 4년 또는 3년에 한 번씩 열리는 등 대회 기간이 불규칙했으나, [1967년](../Page/1967년.md "wikilink") [체코슬로바키아](../Page/체코슬로바키아.md "wikilink")에서 열린 [1967년 세계 여자 농구 선수권 대회에서부터는](https://ko.wikipedia.org/wiki/1967년_세계_여자_농구_선수권_대회 "wikilink") 4년에 한 번씩 열리는 것으로 결정되었다. [1983년 세계 여자 농구 선수권 대회](https://ko.wikipedia.org/wiki/1983년_세계_여자_농구_선수권_대회 "wikilink") 이후에는, [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink")이 열리기 2년 전에 대회가 열리는 것으로 결정되었다. [소련](../Page/소련.md "wikilink")에서 열린 [1986년 세계 여자 농구 선수권 대회에서부터](https://ko.wikipedia.org/wiki/1986년_세계_여자_농구_선수권_대회 "wikilink") 처음으로 적용됐다.
 
 참가팀은 현재 16개 팀이지만, 24개 팀으로 확대될 예정이고, 추후에는 32개 팀까지 확대한다는 계획이 있다.\[1\]
 

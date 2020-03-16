@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love Class](https://ko.wikipedia.org/wiki/Love_Class).
 
 
-**《Love Class》**는 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 6일](https://ko.wikipedia.org/wiki/8월_6일 "wikilink") 발매된 [마이티 마우스의](../Page/마이티_마우스_\(음악_그룹\).md "wikilink") 첫 번째 미니 음반이다.
+**《Love Class》**는 [2009년](../Page/2009년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") 발매된 [마이티 마우스의](../Page/마이티_마우스_\(음악_그룹\).md "wikilink") 첫 번째 미니 음반이다.
 
 ## 특징
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CJ](https://ko.wikipedia.org/wiki/CJ).
 
 
-**씨제이엠디원 주식회사**()은 [CJ제일제당](../Page/CJ제일제당.md "wikilink") 식품사업의 매장내 영업활동을 수행하고 있는 머천다이징(Merchandising)회사이며, [CJ그룹](https://ko.wikipedia.org/wiki/CJ그룹 "wikilink") 계열사이다.
+**씨제이엠디원 주식회사**()은 [CJ제일제당](../Page/CJ제일제당.md "wikilink") 식품사업의 매장내 영업활동을 수행하고 있는 머천다이징(Merchandising)회사이며, [CJ그룹](../Page/CJ그룹.md "wikilink") 계열사이다.
 
 2002년 10월 [CJ제일제당](../Page/CJ제일제당.md "wikilink")에서 MD1으로 분리 독립한 것이 시초이며, [2004년 11월](https://ko.wikipedia.org/wiki/2004년_11월 "wikilink") MD1에서 CJ엠디원으로 사명을 변경하여 현재에 이르고 있다.
 
-[CJ그룹](https://ko.wikipedia.org/wiki/CJ그룹 "wikilink")의 제품,상품을 [백화점](https://ko.wikipedia.org/wiki/백화점 "wikilink"),[할인점](https://ko.wikipedia.org/wiki/할인점 "wikilink"),[유통](https://ko.wikipedia.org/wiki/유통 "wikilink"),[수퍼](https://ko.wikipedia.org/wiki/수퍼 "wikilink"),[대리점](https://ko.wikipedia.org/wiki/대리점 "wikilink") 등에서 판매활동을 하고 있으며, **CJ엠디원**은 가치경영을 통하여 , 단순히,제품을 판매하는 회사에서 한명,한명의 고객에게 건강하고 품질 좋은 제품과 행복이라는 가치를 선사하는 꿈과 열정이 가능한 행복 메신저로 활동하고 있다.
+[CJ그룹](../Page/CJ그룹.md "wikilink")의 제품,상품을 [백화점](../Page/백화점.md "wikilink"),[할인점](https://ko.wikipedia.org/wiki/할인점 "wikilink"),[유통](https://ko.wikipedia.org/wiki/유통 "wikilink"),[수퍼](https://ko.wikipedia.org/wiki/수퍼 "wikilink"),[대리점](https://ko.wikipedia.org/wiki/대리점 "wikilink") 등에서 판매활동을 하고 있으며, **CJ엠디원**은 가치경영을 통하여 , 단순히,제품을 판매하는 회사에서 한명,한명의 고객에게 건강하고 품질 좋은 제품과 행복이라는 가치를 선사하는 꿈과 열정이 가능한 행복 메신저로 활동하고 있다.
 
 ## 연혁
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Xx \(\)](https://ko.wikipedia.org/wiki/Xx_\(\)).
 
 
-《**xx**》는 영국 인디 록 밴드 [The xx의](https://ko.wikipedia.org/wiki/The_xx "wikilink") 첫 앨범이다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [8월 17일](https://ko.wikipedia.org/wiki/8월_17일 "wikilink") 영국에서 먼저 발매되었다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [3월 11일](https://ko.wikipedia.org/wiki/3월_11일 "wikilink") 발매되었다.
+《**xx**》는 영국 인디 록 밴드 [The xx의](https://ko.wikipedia.org/wiki/The_xx "wikilink") 첫 앨범이다. [2009년](../Page/2009년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") 영국에서 먼저 발매되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [2010년](../Page/2010년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") 발매되었다.
 
 ## 트랙 리스트
 

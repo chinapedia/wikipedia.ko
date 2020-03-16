@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [Good Times Bad Times](https://ko.wikipedia.org/wiki/Good_Times_Bad_Times).
 
 
-〈**Good Times Bad Times**〉는 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink") [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [레드 제플린의](https://ko.wikipedia.org/wiki/레드_제플린 "wikilink") 데뷔 앨범에 첫 트랙으로 수록된 노래이다.
+〈**Good Times Bad Times**〉는 [영국](../Page/영국.md "wikilink") [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [레드 제플린의](../Page/레드_제플린.md "wikilink") 데뷔 앨범에 첫 트랙으로 수록된 노래이다.
 존 폴 존스는 인터뷰에서 이 곡의 리프가 자신이 쓴 리프 중에서 가장 연주하기 어려운 리프라고 밝힌 적이 있다. 또한, 2007년 [존 본햄](https://ko.wikipedia.org/wiki/존_본햄 "wikilink") 대신 아들인 [제이슨 본햄이](https://ko.wikipedia.org/wiki/제이슨_본햄 "wikilink") 참여한 레드 제플린 재결합 공연의 첫 곡이었다.
 
 ## 구성
 
   - [로버트 플랜트](../Page/로버트_플랜트.md "wikilink") : [리드 보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
-  - [지미 페이지](../Page/지미_페이지.md "wikilink") : [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), 배킹 보컬
-  - [존 폴 존스](../Page/존_폴_존스_\(음악가\).md "wikilink") : [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"), 배킹 보컬
+  - [지미 페이지](../Page/지미_페이지.md "wikilink") : [기타](../Page/기타.md "wikilink"), 배킹 보컬
+  - [존 폴 존스](../Page/존_폴_존스_\(음악가\).md "wikilink") : [베이스 기타](../Page/베이스_기타.md "wikilink"), 배킹 보컬
   - [존 본햄](https://ko.wikipedia.org/wiki/존_본햄 "wikilink") : [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
 
 ## 외부 링크

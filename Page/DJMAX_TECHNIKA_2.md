@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJMAX TECHNIKA 2](https://ko.wikipedia.org/wiki/DJMAX_TECHNIKA_2).
 
 
-《**디제이맥스 테크니카 2 크루 레이스**》(DJMAX TECHNIKA 2 CREW RACE, DMT2)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 전작인 [디제이맥스 테크니카의](https://ko.wikipedia.org/wiki/디제이맥스_테크니카 "wikilink") 후속작이다. 전작에 비해 수록곡이 100여 곡 이상 들어간 것이 특징이다.\[1\]
+《**디제이맥스 테크니카 2 크루 레이스**》(DJMAX TECHNIKA 2 CREW RACE, DMT2)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 전작인 [디제이맥스 테크니카의](https://ko.wikipedia.org/wiki/디제이맥스_테크니카 "wikilink") 후속작이다. 전작에 비해 수록곡이 100여 곡 이상 들어간 것이 특징이다.\[1\]
 
 ## 특징
 
@@ -31,7 +31,7 @@
 
 ## 게임 모드
 
-2010년 4월 22일 [루리웹](https://ko.wikipedia.org/wiki/루리웹 "wikilink")에 공개된 디제이맥스 테크니카 2의 게임 모드이다.\[2\]
+2010년 4월 22일 [루리웹](../Page/루리웹.md "wikilink")에 공개된 디제이맥스 테크니카 2의 게임 모드이다.\[2\]
 
   - **DUO Mixing**
 
@@ -51,11 +51,11 @@
 
   - **CREW RACE**
 
-대회, 이벤트 및 유저가 직접 제작한 코스 등에 도전하는 게임모드. 전작의 Platinum 모드가 이번작에서 새롭게 변경된 모드이다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [11월 17일](https://ko.wikipedia.org/wiki/11월_17일 "wikilink") 오픈되었다.
+대회, 이벤트 및 유저가 직접 제작한 코스 등에 도전하는 게임모드. 전작의 Platinum 모드가 이번작에서 새롭게 변경된 모드이다. [2010년](../Page/2010년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") 오픈되었다.
 
 ## 사운드트랙
 
-전작과 마찬가지로 DJMAX TECHNIKA 2 발매 시작 즈음에 **디제이맥스 테크니카 2 시그네쳐 콜렉션** (DJMAX TECHNIKA 2 SIGNATURE COLLECTION) 이란 이름의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink") 한정판을 발매했다. [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink") [루리웹](https://ko.wikipedia.org/wiki/루리웹 "wikilink")을 통해 최초로 공개하였으며, [4월 30일에](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") 게임몰을 통해 에약판매를 개시했다. 총 수량은 3000개로 구성품과 곡 목록은 다음과 같다.
+전작과 마찬가지로 DJMAX TECHNIKA 2 발매 시작 즈음에 **디제이맥스 테크니카 2 시그네쳐 콜렉션** (DJMAX TECHNIKA 2 SIGNATURE COLLECTION) 이란 이름의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink") 한정판을 발매했다. [2010년](../Page/2010년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") [루리웹](../Page/루리웹.md "wikilink")을 통해 최초로 공개하였으며, [4월 30일에](../Page/4월_30일.md "wikilink") 게임몰을 통해 에약판매를 개시했다. 총 수량은 3000개로 구성품과 곡 목록은 다음과 같다.
 
 ### 구성품
 

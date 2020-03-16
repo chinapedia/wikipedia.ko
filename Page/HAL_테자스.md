@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAL ](https://ko.wikipedia.org/wiki/HAL_).
 
 
-**HAL 테자스**(Tejas 는 산스크리트어로 뜻은 '빛나는')는 [인도](https://ko.wikipedia.org/wiki/인도 "wikilink")의 HAL 과 ADA에서 [MiG-21](https://ko.wikipedia.org/wiki/MiG-21 "wikilink") 등을 대체하기 위해 LCA(Light Combat Aircraft)프로젝트를 통해 만든 삼각익 형식의 단좌형 경전투기이다. [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")의 [FA-50](https://ko.wikipedia.org/wiki/FA-50 "wikilink")과 같은 추력의 엔진을 사용한다.
+**HAL 테자스**(Tejas 는 산스크리트어로 뜻은 '빛나는')는 [인도](../Page/인도.md "wikilink")의 HAL 과 ADA에서 [MiG-21](https://ko.wikipedia.org/wiki/MiG-21 "wikilink") 등을 대체하기 위해 LCA(Light Combat Aircraft)프로젝트를 통해 만든 삼각익 형식의 단좌형 경전투기이다. [한국](../Page/한국.md "wikilink")의 [FA-50](https://ko.wikipedia.org/wiki/FA-50 "wikilink")과 같은 추력의 엔진을 사용한다.
 
 추력 11000파운드 엔진 1개를 사용하며, 삼각날개라는 점이, 1970년대에 개발되어 2011년 기준으로 [프랑스 공군의](https://ko.wikipedia.org/wiki/프랑스_공군 "wikilink") 주력인 [미라주 2000과](https://ko.wikipedia.org/wiki/미라주_2000 "wikilink") 동일하다.
 

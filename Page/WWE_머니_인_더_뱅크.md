@@ -30,39 +30,39 @@
 <td><p><a href="../Page/캔자스시티_(미주리주).md" title="wikilink">캔자스시티</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스프린트_센터" title="wikilink">스프린트 센터</a></p></td>
 <td><p>8,000</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/셰이머스_(프로레슬링_선수)" title="wikilink">셰이머스</a> vs. <a href="https://ko.wikipedia.org/wiki/존_시나" title="wikilink">존 시나</a> (WWE 챔피언십, 스틸 케이지 매치)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/셰이머스_(프로레슬링_선수)" title="wikilink">셰이머스</a> vs. <a href="../Page/존_시나.md" title="wikilink">존 시나</a> (WWE 챔피언십, 스틸 케이지 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2011년 7월 17일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로즈먼트_(일리노이주)" title="wikilink">로즈먼트</a></p></td>
 <td><p><a href="../Page/올스테이트_아레나.md" title="wikilink">올스테이트 아레나</a></p></td>
 <td><p>14,815</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/존_시나" title="wikilink">존 시나</a> vs. <a href="../Page/CM_펑크.md" title="wikilink">CM 펑크</a> (WWE 챔피언십)</p></td>
+<td><p><a href="../Page/존_시나.md" title="wikilink">존 시나</a> vs. <a href="../Page/CM_펑크.md" title="wikilink">CM 펑크</a> (WWE 챔피언십)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012년 7월 15일</p></td>
 <td><p><a href="../Page/피닉스_(애리조나주).md" title="wikilink">피닉스</a></p></td>
 <td><p><a href="../Page/토킹_스틱_리조트_아레나.md" title="wikilink">US 에어웨이 센터</a></p></td>
 <td><p>9,000</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/존_시나" title="wikilink">존 시나</a> vs. <a href="https://ko.wikipedia.org/wiki/빅_쇼" title="wikilink">빅 쇼</a> vs. <a href="https://ko.wikipedia.org/wiki/케인_(프로레슬링_선수)" title="wikilink">케인</a> vs. <a href="https://ko.wikipedia.org/wiki/크리스_제리코" title="wikilink">크리스 제리코</a> vs. <a href="../Page/더_미즈.md" title="wikilink">더 미즈</a> (WWE 챔피언십 머니 인 더 뱅크 레더 매치)</p></td>
+<td><p><a href="../Page/존_시나.md" title="wikilink">존 시나</a> vs. <a href="../Page/빅_쇼.md" title="wikilink">빅 쇼</a> vs. <a href="../Page/케인_(프로레슬링_선수).md" title="wikilink">케인</a> vs. <a href="../Page/크리스_제리코.md" title="wikilink">크리스 제리코</a> vs. <a href="../Page/더_미즈.md" title="wikilink">더 미즈</a> (WWE 챔피언십 머니 인 더 뱅크 레더 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2013년 7월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a></p></td>
+<td><p><a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
 <td><p><a href="../Page/웰스_파고_센터.md" title="wikilink">웰스 파고 센터</a></p></td>
 <td><p>15,000</p></td>
 <td><p><a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs. <a href="https://ko.wikipedia.org/wiki/롭_밴_댐" title="wikilink">롭 밴 댐</a> vs. <a href="../Page/대니얼_브라이언.md" title="wikilink">대니얼 브라이언</a> vs. <a href="../Page/크리스천_(프로레슬링_선수).md" title="wikilink">크리스천</a> vs. <a href="../Page/CM_펑크.md" title="wikilink">CM 펑크</a> vs. <a href="https://ko.wikipedia.org/wiki/셰이머스_(프로레슬링_선수)" title="wikilink">셰이머스</a> (WWE 챔피언십 "올스타" 머니 인 더 뱅크 레더 매치)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014년 6월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a></p></td>
+<td><p><a href="../Page/보스턴.md" title="wikilink">보스턴</a></p></td>
 <td><p><a href="../Page/TD_가든.md" title="wikilink">TD 가든</a></p></td>
 <td><p>15,653</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/존_시나" title="wikilink">존 시나</a> vs. <a href="../Page/알베르토_델_리오.md" title="wikilink">알베르토 델 리오</a> vs. <a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs. <a href="https://ko.wikipedia.org/wiki/셰이머스_(프로레슬링_선수)" title="wikilink">셰이머스</a> vs. <a href="../Page/윈덤_로턴다.md" title="wikilink">브레이 와이엇</a> vs. <a href="../Page/클라우디오_카스타뇰리.md" title="wikilink">세자로</a> vs. <a href="https://ko.wikipedia.org/wiki/로만_레인즈" title="wikilink">로만 레인즈</a> vs. <a href="https://ko.wikipedia.org/wiki/케인_(프로레슬링_선수)" title="wikilink">케인</a> (WWE 챔피언십, 레더 매치)</p></td>
+<td><p><a href="../Page/존_시나.md" title="wikilink">존 시나</a> vs. <a href="../Page/알베르토_델_리오.md" title="wikilink">알베르토 델 리오</a> vs. <a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs. <a href="https://ko.wikipedia.org/wiki/셰이머스_(프로레슬링_선수)" title="wikilink">셰이머스</a> vs. <a href="../Page/윈덤_로턴다.md" title="wikilink">브레이 와이엇</a> vs. <a href="../Page/클라우디오_카스타뇰리.md" title="wikilink">세자로</a> vs. <a href="https://ko.wikipedia.org/wiki/로만_레인즈" title="wikilink">로만 레인즈</a> vs. <a href="../Page/케인_(프로레슬링_선수).md" title="wikilink">케인</a> (WWE 챔피언십, 레더 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2015년 6월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콜럼버스_(오하이오주)" title="wikilink">콜럼버스</a></p></td>
+<td><p><a href="../Page/콜럼버스_(오하이오주).md" title="wikilink">콜럼버스</a></p></td>
 <td><p><a href="../Page/네이션와이드_아레나.md" title="wikilink">네이션와이드 아레나</a></p></td>
 <td><p>15,277</p></td>
 <td><p><a href="../Page/타일러_블랙.md" title="wikilink">세스 롤린스</a> vs. <a href="../Page/딘_앰브로스.md" title="wikilink">딘 앰브로스</a> (WWE 챔피언십, 레더 매치)</p></td>
@@ -76,7 +76,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 6월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세인트루이스" title="wikilink">세인트루이스</a></p></td>
+<td><p><a href="../Page/세인트루이스.md" title="wikilink">세인트루이스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스콧트레이드_센터" title="wikilink">스콧트레이드 센터</a></p></td>
 <td><p>15,392</p></td>
 <td><p><a href="../Page/엘_제네리코.md" title="wikilink">새미 제인</a> vs. <a href="../Page/나카무라_신스케.md" title="wikilink">나카무라 신스케</a> vs. <a href="../Page/돌프_지글러.md" title="wikilink">돌프 지글러</a> vs. <a href="../Page/케빈_스틴.md" title="wikilink">케빈 오웬스</a> vs. <a href="../Page/배런_코빈.md" title="wikilink">배런 코빈</a> vs. <a href="../Page/A.J._스타일스.md" title="wikilink">AJ 스타일스</a> (WWE 챔피언십 머니 인 더 뱅크 레더 매치)</p></td>
@@ -93,7 +93,7 @@
 <td><p><a href="../Page/하트퍼드_(코네티컷주).md" title="wikilink">하트퍼드</a></p></td>
 <td><p><a href="../Page/XL_센터.md" title="wikilink">XL 센터</a></p></td>
 <td><p>15,700</p></td>
-<td><p><a href="../Page/브록_레스너.md" title="wikilink">브록 레스너</a> vs. <a href="../Page/드루_매킨타이어.md" title="wikilink">드루 매킨타이어</a> vs. <a href="../Page/배런_코빈.md" title="wikilink">배런 코빈</a> vs. <a href="https://ko.wikipedia.org/wiki/리코셰" title="wikilink">리코셰</a> vs. <a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs. <a href="../Page/핀_베일러.md" title="wikilink">핀 베일러</a> vs. <a href="../Page/안드라데_시엔_알마스.md" title="wikilink">안드라데</a> vs. 알리 (머니 인 더 뱅크 레더 매치)</p></td>
+<td><p><a href="../Page/브록_레스너.md" title="wikilink">브록 레스너</a> vs. <a href="../Page/드루_매킨타이어.md" title="wikilink">드루 매킨타이어</a> vs. <a href="../Page/배런_코빈.md" title="wikilink">배런 코빈</a> vs. <a href="../Page/리코셰.md" title="wikilink">리코셰</a> vs. <a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs. <a href="../Page/핀_베일러.md" title="wikilink">핀 베일러</a> vs. <a href="../Page/안드라데_시엔_알마스.md" title="wikilink">안드라데</a> vs. 알리 (머니 인 더 뱅크 레더 매치)</p></td>
 </tr>
 </tbody>
 </table>
@@ -186,7 +186,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013년 7월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/필라델피아" title="wikilink">필라델피아</a></p></td>
+<td><p><a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
 <td><p>머니 인 더 뱅크 (월드 헤비웨이트 타이틀 도전권)</p></td>
 <td><p>딘 앰브로스, 잭 스웨거, 안토니오 세자로, <strong>데미안 샌도우</strong>, 코디 로즈, 판당고, 웨이드 바렛</p></td>
 </tr>
@@ -198,13 +198,13 @@
 </tr>
 <tr class="odd">
 <td><p>2014년 6월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보스턴" title="wikilink">보스턴</a></p></td>
+<td><p><a href="../Page/보스턴.md" title="wikilink">보스턴</a></p></td>
 <td><p>머니 인 더 뱅크 (WWE 타이틀 도전권)</p></td>
 <td><p>코피 킹스턴, 랍밴댐, 딘 앰브로스, <strong>세스 롤린스</strong>, 잭 스웨거, 돌프 지글러</p></td>
 </tr>
 <tr class="even">
 <td><p>2015년 6월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/콜럼버스_(오하이오주)" title="wikilink">콜럼버스</a></p></td>
+<td><p><a href="../Page/콜럼버스_(오하이오주).md" title="wikilink">콜럼버스</a></p></td>
 <td><p>로만 레인즈, 랜디 오턴, 돌프 지글러, <strong>셰이머스</strong>, 네빌, 코피 킹스턴, 케인</p></td>
 <td></td>
 </tr>
@@ -216,7 +216,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 6월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세인트루이스" title="wikilink">세인트루이스</a></p></td>
+<td><p><a href="../Page/세인트루이스.md" title="wikilink">세인트루이스</a></p></td>
 <td><p>머니 인 더 뱅크 (WWE 스맥다운 위민스 타이틀 도전권)</p></td>
 <td><p>샬럿 플레어, 베키 린치, 나탈리아, 타미나 스누카, <strong>카멜라</strong></p></td>
 </tr>

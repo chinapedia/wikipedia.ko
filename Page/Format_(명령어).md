@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Format \(\)](https://ko.wikipedia.org/wiki/Format_\(\)).
 
 
-**format**은 [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink")에 포함된 [디스크 포맷](../Page/디스크_포맷.md "wikilink") 프로그램 파일이다.\[1\] 디스크를 처음 구입한 경우 디스크에는 [파일 시스템이](https://ko.wikipedia.org/wiki/파일_시스템 "wikilink") 구성되어 있지 않으므로, MS-DOS가 인식할 수 있는 파일 시스템을 디스크에 구성하는 역할을 한다. 또한 이미 디스크에 구성되어 있는 파일시스템의 색인을 모두 지우고 초기화하고자 할 경우에도 사용할 수 있다. 일부 MS-DOS 버전의 FORMAT.COM은 시스템 파일을 복사하는 기능도 가지고 있다.\[2\]
+**format**은 [MS-DOS](../Page/MS-DOS.md "wikilink")에 포함된 [디스크 포맷](../Page/디스크_포맷.md "wikilink") 프로그램 파일이다.\[1\] 디스크를 처음 구입한 경우 디스크에는 [파일 시스템이](../Page/파일_시스템.md "wikilink") 구성되어 있지 않으므로, MS-DOS가 인식할 수 있는 파일 시스템을 디스크에 구성하는 역할을 한다. 또한 이미 디스크에 구성되어 있는 파일시스템의 색인을 모두 지우고 초기화하고자 할 경우에도 사용할 수 있다. 일부 MS-DOS 버전의 FORMAT.COM은 시스템 파일을 복사하는 기능도 가지고 있다.\[2\]
 
 ## 같이 보기
 

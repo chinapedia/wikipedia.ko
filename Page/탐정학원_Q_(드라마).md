@@ -37,11 +37,11 @@
 
 매주 화요일 22:00부터 22:54에 총11화로 방영되었다.
 
-캐치카피는 《**[국어](https://ko.wikipedia.org/wiki/국어 "wikilink"), [산수](https://ko.wikipedia.org/wiki/수학 "wikilink"), [요리](https://ko.wikipedia.org/wiki/요리 "wikilink"), [사건](https://ko.wikipedia.org/wiki/사건 "wikilink").**》.
+캐치카피는 《**[국어](../Page/국어.md "wikilink"), [산수](../Page/수학.md "wikilink"), [요리](../Page/요리.md "wikilink"), [사건](https://ko.wikipedia.org/wiki/사건 "wikilink").**》.
 
 첫회는 20분이 연장되어 23:14까지 방송되었다.
 
-방송 종료 1년 후 2009년 3월 4일 [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink")가 발매되었다.
+방송 종료 1년 후 2009년 3월 4일 [DVD](../Page/DVD.md "wikilink")가 발매되었다.
 
 ### 캐스팅
 
@@ -281,7 +281,7 @@
 </tbody>
 </table>
 
-**평균시청률 11.1%** 시청률은 [간토 지방](https://ko.wikipedia.org/wiki/간토_지방 "wikilink")·비디오 리서치 조사
+**평균시청률 11.1%** 시청률은 [간토 지방](../Page/간토_지방.md "wikilink")·비디오 리서치 조사
 
 ## 특징
 
@@ -292,7 +292,7 @@
 ## 같이 보기
 
   - [탐정학원 Q](../Page/탐정학원_Q.md "wikilink")
-  - [소년탐정 김전일](https://ko.wikipedia.org/wiki/소년탐정_김전일 "wikilink")
+  - [소년탐정 김전일](../Page/소년탐정_김전일.md "wikilink")
   - [명탐정 코난 (드라마)](../Page/명탐정_코난_\(드라마\).md "wikilink")
 
 ## 외부 링크

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JP ](https://ko.wikipedia.org/wiki/JP_).
 
 
-**JP모간 체이스 앤 컴퍼니**(J.P. Morgan Chase & Co. , 줄여서 JP모간)는 [존 피어폰 모건](https://ko.wikipedia.org/wiki/존_피어폰_모건 "wikilink")(John Pierpont Morgan이 세운 회사로 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [뉴욕 시에](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 본사를 둔 기업으로, 세계에서 가장 오래된 금융 기업 중 하나이다. 2조 달러(약 2500조원)에 달하는 자산 총액과 미국 은행업계 최대의 [시가총액](https://ko.wikipedia.org/wiki/시가총액 "wikilink")을 기록하고 있기도 하다.\[1\] JP모간의 [헤지 펀드는](../Page/헤지_펀드.md "wikilink") 미국에서 두 번째로 큰 헤지 펀드로, 328억 달러 가량의 자산을 보유하고 있다. 오늘날 JP모간은 [뱅크 오브 아메리카](../Page/뱅크_오브_아메리카.md "wikilink"), [씨티그룹](https://ko.wikipedia.org/wiki/씨티그룹 "wikilink"), [웰스 파고와](../Page/웰스_파고.md "wikilink") 함께 미국의 4대 은행으로 불리고 있다.
+**JP모간 체이스 앤 컴퍼니**(J.P. Morgan Chase & Co. , 줄여서 JP모간)는 [존 피어폰 모건](https://ko.wikipedia.org/wiki/존_피어폰_모건 "wikilink")(John Pierpont Morgan이 세운 회사로 [미국](../Page/미국.md "wikilink") [뉴욕 시에](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 본사를 둔 기업으로, 세계에서 가장 오래된 금융 기업 중 하나이다. 2조 달러(약 2500조원)에 달하는 자산 총액과 미국 은행업계 최대의 [시가총액](https://ko.wikipedia.org/wiki/시가총액 "wikilink")을 기록하고 있기도 하다.\[1\] JP모간의 [헤지 펀드는](../Page/헤지_펀드.md "wikilink") 미국에서 두 번째로 큰 헤지 펀드로, 328억 달러 가량의 자산을 보유하고 있다. 오늘날 JP모간은 [뱅크 오브 아메리카](../Page/뱅크_오브_아메리카.md "wikilink"), [씨티그룹](https://ko.wikipedia.org/wiki/씨티그룹 "wikilink"), [웰스 파고와](../Page/웰스_파고.md "wikilink") 함께 미국의 4대 은행으로 불리고 있다.
 
 ## 역사
 

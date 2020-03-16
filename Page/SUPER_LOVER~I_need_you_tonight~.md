@@ -7,7 +7,7 @@
 
   - "[Another Days](../Page/Another_Days.md "wikilink")", "[Because of you](https://ko.wikipedia.org/wiki/Because_of_you_\(w-inds._노래\) "wikilink")"에 이어 싱글에서 3번째 [오리콘 주간 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 1위 획득 곡. 진정됐다.
   - 제목 및 가사 중 "SUPER LOVER"은 "운명의 사람","최후의 연인"이라는 의미를 담고 있다.
-  - [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 [디스코](https://ko.wikipedia.org/wiki/디스코 "wikilink") [컴필레이션 앨범](https://ko.wikipedia.org/wiki/컴필레이션_앨범 "wikilink")『 Disco De Oro』에 수록된 DJ Spavento "Super Lover"이 원곡.
+  - [이탈리아](../Page/이탈리아.md "wikilink")의 [디스코](https://ko.wikipedia.org/wiki/디스코 "wikilink") [컴필레이션 앨범](https://ko.wikipedia.org/wiki/컴필레이션_앨범 "wikilink")『 Disco De Oro』에 수록된 DJ Spavento "Super Lover"이 원곡.
 
 ## 수록곡
 

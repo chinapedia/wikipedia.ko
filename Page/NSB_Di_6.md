@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NSB Di 6](https://ko.wikipedia.org/wiki/NSB_Di_6).
 
 
-**NSB Di 6** 디젤 기관차는 1995년부터 1996년까지 [지멘스](https://ko.wikipedia.org/wiki/지멘스 "wikilink")에서 제작한 기관차이다. [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [킬](https://ko.wikipedia.org/wiki/킬 "wikilink")의 MaK 공장에서 12량을 제작하였다. [노를란 선을](https://ko.wikipedia.org/wiki/노를란_선 "wikilink") 운행하는 노후한 Di 3과 Di 4 기관차를 대체하기 위해서 제작하였으나, 품질 및 안정성 문제 때문에 지멘스에 반환하였다.
+**NSB Di 6** 디젤 기관차는 1995년부터 1996년까지 [지멘스](https://ko.wikipedia.org/wiki/지멘스 "wikilink")에서 제작한 기관차이다. [독일](../Page/독일.md "wikilink") [킬](https://ko.wikipedia.org/wiki/킬 "wikilink")의 MaK 공장에서 12량을 제작하였다. [노를란 선을](https://ko.wikipedia.org/wiki/노를란_선 "wikilink") 운행하는 노후한 Di 3과 Di 4 기관차를 대체하기 위해서 제작하였으나, 품질 및 안정성 문제 때문에 지멘스에 반환하였다.
 
 Di 6 이후로 여객 열차를 위한 기관차는 추가 구매하지 않았으며, 92/93 디젤 동차 및 Di 4 기관차로 운행한다. 화물 열차를 위한 기관차로 Di 8과 CD66 기관차를 추가로 구매하였다. 독일로 반환된 일부 기관차 중 일부는 2008년 노르웨이에서 다시 운행하기 시작하였다.
 

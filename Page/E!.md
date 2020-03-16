@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [E!](https://ko.wikipedia.org/wiki/E!).
 
 
-**E\!**(정식 명칭: **E\! Entertainment Television**)는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [텔레비전](https://ko.wikipedia.org/wiki/텔레비전 "wikilink") 유료방송 [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"). [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")부터 [컴캐스트](../Page/컴캐스트.md "wikilink")가 전체 지분을 소유하게 되어, 현재 [NBC 유니버셜](https://ko.wikipedia.org/wiki/NBC_유니버셜 "wikilink") 소속이다.
+**E\!**(정식 명칭: **E\! Entertainment Television**)는 [미국](../Page/미국.md "wikilink")의 [텔레비전](../Page/텔레비전.md "wikilink") 유료방송 [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"). [2006년](../Page/2006년.md "wikilink") [11월](../Page/11월.md "wikilink")부터 [컴캐스트](../Page/컴캐스트.md "wikilink")가 전체 지분을 소유하게 되어, 현재 [NBC 유니버셜](https://ko.wikipedia.org/wiki/NBC_유니버셜 "wikilink") 소속이다.
 
 ## 연혁
 
-[1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [7월 31일](https://ko.wikipedia.org/wiki/7월_31일 "wikilink") 무비타임(Movietime)이라는 이름으로 개국하였다. 초창기에는 [영화](../Page/영화.md "wikilink")계 소식 위주로 방송을 내보냈고, 이후 취재 범위를 연예계의 모든 분야로 확대해 나가면서 [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [6월 1일에](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") 지금의 이름으로 변경한다.
+[1987년](../Page/1987년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") 무비타임(Movietime)이라는 이름으로 개국하였다. 초창기에는 [영화](../Page/영화.md "wikilink")계 소식 위주로 방송을 내보냈고, 이후 취재 범위를 연예계의 모든 분야로 확대해 나가면서 [1990년](../Page/1990년.md "wikilink") [6월 1일에](../Page/6월_1일.md "wikilink") 지금의 이름으로 변경한다.
 
 ## 미국 이 외
 
-[영국](https://ko.wikipedia.org/wiki/영국 "wikilink"), [캐나다](https://ko.wikipedia.org/wiki/캐나다 "wikilink"), [일본](../Page/일본.md "wikilink") 등에서 방송 중이다.
+[영국](../Page/영국.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [일본](../Page/일본.md "wikilink") 등에서 방송 중이다.
 
 ## 대한민국
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 SBS가 컴캐스트와 계약을 맺고 UTV를 E\!(이후 SBS E\!)로 바꾸어 운영하였으나 이후 미국 E\!의 프로그램은 감소하였다. 2014년 1월 1일 자정에 이름을 지금의 [SBS FunE로](https://ko.wikipedia.org/wiki/SBS_FunE "wikilink") 바꾸면서 컴캐스트의 흔적은 모두 사라졌다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 SBS가 컴캐스트와 계약을 맺고 UTV를 E\!(이후 SBS E\!)로 바꾸어 운영하였으나 이후 미국 E\!의 프로그램은 감소하였다. 2014년 1월 1일 자정에 이름을 지금의 [SBS FunE로](https://ko.wikipedia.org/wiki/SBS_FunE "wikilink") 바꾸면서 컴캐스트의 흔적은 모두 사라졌다.
 
 ## 같이 보기
 

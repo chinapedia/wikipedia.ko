@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [More Songs About Buildings and Food](https://ko.wikipedia.org/wiki/More_Songs_About_Buildings_and_Food).
 
 
-***More Songs About Buildings and Food***는 [토킹 헤즈가](../Page/토킹_헤즈.md "wikilink") 1978년 발표한 두 번째 앨범이다. 이 앨범은 [브라이언 이노가](../Page/브라이언_이노.md "wikilink") 프로듀서로 처음 참여한 토킹 헤즈 앨범이다. 전작보다 좀 더 팝적인 감수성과 풍부한 공간감으로 [버블검](https://ko.wikipedia.org/wiki/버블검 "wikilink"), [컨트리](https://ko.wikipedia.org/wiki/컨트리 "wikilink"), [레게](../Page/레게.md "wikilink"), [펑크 록](https://ko.wikipedia.org/wiki/펑크_록 "wikilink"), [휭크](https://ko.wikipedia.org/wiki/휭크 "wikilink") 등 다양한 요소를 혼합해 데이빗 번의 독특한 목소리를 올려낸 이 앨범은 발표하자마자 평단의 환호를 받았으나 판매면에서는 그렇게까지 만족스럽지 못했다.
+***More Songs About Buildings and Food***는 [토킹 헤즈가](../Page/토킹_헤즈.md "wikilink") 1978년 발표한 두 번째 앨범이다. 이 앨범은 [브라이언 이노가](../Page/브라이언_이노.md "wikilink") 프로듀서로 처음 참여한 토킹 헤즈 앨범이다. 전작보다 좀 더 팝적인 감수성과 풍부한 공간감으로 [버블검](https://ko.wikipedia.org/wiki/버블검 "wikilink"), [컨트리](https://ko.wikipedia.org/wiki/컨트리 "wikilink"), [레게](../Page/레게.md "wikilink"), [펑크 록](../Page/펑크_록.md "wikilink"), [휭크](https://ko.wikipedia.org/wiki/휭크 "wikilink") 등 다양한 요소를 혼합해 데이빗 번의 독특한 목소리를 올려낸 이 앨범은 발표하자마자 평단의 환호를 받았으나 판매면에서는 그렇게까지 만족스럽지 못했다.
 
 앨범은 빌보드 29위까지 올라갔으며, 알 그린의 곡을 커버한 싱글 "[Take Me to the River](https://ko.wikipedia.org/wiki/Take_Me_to_the_River "wikilink")"는 싱글 차트 26위까지 올라갔다. 1983년 [골드](https://ko.wikipedia.org/wiki/골드 "wikilink") 기록을 따냈다.
 

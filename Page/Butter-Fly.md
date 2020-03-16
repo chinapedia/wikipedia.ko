@@ -7,7 +7,7 @@
 
 ## 개요
 
-  - 와다의 메이저 데뷔 싱글로, 표제곡은 텔레비전 애니메이션 《[디지몬 어드벤처](https://ko.wikipedia.org/wiki/디지몬_어드벤처 "wikilink")》 오프닝 테마이다. 와다는 같은 애니메이션 제 5작째의 《[디지몬 세이버즈](../Page/디지몬_세이버즈.md "wikilink")》까지는 전시리즈에서 주제가를 담당하였다.\[1\] 자신의 싱글로는 2번째의 매상을 기록하였다.
+  - 와다의 메이저 데뷔 싱글로, 표제곡은 텔레비전 애니메이션 《[디지몬 어드벤처](../Page/디지몬_어드벤처.md "wikilink")》 오프닝 테마이다. 와다는 같은 애니메이션 제 5작째의 《[디지몬 세이버즈](../Page/디지몬_세이버즈.md "wikilink")》까지는 전시리즈에서 주제가를 담당하였다.\[1\] 자신의 싱글로는 2번째의 매상을 기록하였다.
   - 발매 당초는 8cm 싱글이었지만, 2004년 8월 1일에 [맥시 싱글로서](https://ko.wikipedia.org/wiki/싱글#12_cmCD_싱글_\(맥시_싱글\)에의_이행 "wikilink") 재발매 되었다.
   - 타이틀의 〈Butter-Fly〉는 만화 《[디지몬 어드벤처 V테이머01](../Page/디지몬_어드벤처_V테이머01.md "wikilink")》 제22화의 부제가 되어 있다.
 
@@ -17,7 +17,7 @@
       -
         [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")·[작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"): [치와타 히데노리](../Page/치와타_히데노리.md "wikilink"), [편곡](../Page/편곡.md "wikilink"): [와타나베 체루](https://ko.wikipedia.org/wiki/와타나베_체루 "wikilink")
     <!-- end list -->
-      - 원래 [발라드](https://ko.wikipedia.org/wiki/발라드 "wikilink")를 좋아했던 와다였지만, 노래하는 [록](https://ko.wikipedia.org/wiki/록_음악 "wikilink") 넘버가 되었다.\[2\]
+      - 원래 [발라드](https://ko.wikipedia.org/wiki/발라드 "wikilink")를 좋아했던 와다였지만, 노래하는 [록](../Page/록_음악.md "wikilink") 넘버가 되었다.\[2\]
 2.  **Seven** \[4:17\]
       -
         작사·작곡: 코야마 코헤이, 편곡: 와타나베 체루
@@ -26,7 +26,7 @@
 
 ## 협력
 
-  - [후지테레비계](https://ko.wikipedia.org/wiki/후지_텔레비젼 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/TV_애니메이션 "wikilink") 《[디지몬 어드벤처](https://ko.wikipedia.org/wiki/디지몬_어드벤처 "wikilink")》 오프닝 테마 (\#1)
+  - [후지테레비계](https://ko.wikipedia.org/wiki/후지_텔레비젼 "wikilink") [애니메이션](https://ko.wikipedia.org/wiki/TV_애니메이션 "wikilink") 《[디지몬 어드벤처](../Page/디지몬_어드벤처.md "wikilink")》 오프닝 테마 (\#1)
   - 후지테레비계 애니메이션 《디지몬 어드벤처》 삽입곡 (\#1,\#2)
   - [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink") 배급 [애니메이션 영화](../Page/애니메이션_영화.md "wikilink") 《[디지몬 어드벤처 우리들의 워게임\!](https://ko.wikipedia.org/wiki/디지몬_어드벤처_우리들의_워게임! "wikilink")》 오프닝 테마 (\#1)
 
@@ -53,7 +53,7 @@
 
 〈**Butter-Fly \~tri.Version\~**〉 (버터플라이 트라이 버전)은 2015년 11월 25일에 발매된 와다 코지의 14작째의 싱글이다. 발매원은 돌리 뮤직 퍼블리싱 ([돌리 뮤직](https://ko.wikipedia.org/wiki/돌리_뮤직 "wikilink") 자회사), 판매원은 킹레코드이다.
 
-2013년의 활동 재개 후 처음이 되는 싱글. 애니메이션 《[디지몬 어드벤처](https://ko.wikipedia.org/wiki/디지몬_어드벤처 "wikilink")》 탄생 15주년을 기념해 제작된 신시리즈 《[디지몬 어드벤처 tri.](https://ko.wikipedia.org/wiki/디지몬_어드벤처_tri. "wikilink")》의 주제가로서 데뷔 싱글 〈Butter-Fly〉를 다시 리메이크 하고있다.
+2013년의 활동 재개 후 처음이 되는 싱글. 애니메이션 《[디지몬 어드벤처](../Page/디지몬_어드벤처.md "wikilink")》 탄생 15주년을 기념해 제작된 신시리즈 《[디지몬 어드벤처 tri.](https://ko.wikipedia.org/wiki/디지몬_어드벤처_tri. "wikilink")》의 주제가로서 데뷔 싱글 〈Butter-Fly〉를 다시 리메이크 하고있다.
 
 ### 수록곡
 
@@ -70,9 +70,9 @@
 
 《디지몬 어드벤처 tri.》의 제2장 엔딩 테마로, 데뷔 싱글의 커플 링곡 〈Seven〉을 다시 리메이크 하였다.
 
-또한, 보컬은 2009년의 악곡 〈Seven \~10th Memorial Version〉을 사용하였다. [미야자키 아유미](https://ko.wikipedia.org/wiki/미야자키_아유미 "wikilink"), [AiM이](../Page/마에다_아이_\(성우\).md "wikilink") 코러스로 참여하였다.
+또한, 보컬은 2009년의 악곡 〈Seven \~10th Memorial Version〉을 사용하였다. [미야자키 아유미](../Page/미야자키_아유미.md "wikilink"), [AiM이](../Page/마에다_아이_\(성우\).md "wikilink") 코러스로 참여하였다.
 
-같은 해 [4월 3일](https://ko.wikipedia.org/wiki/4월_3일 "wikilink"), 와다는 상인두암에 의해 사망하였다. 그리하여 이 싱글은 생전의 마지막 작품이되었다.
+같은 해 [4월 3일](../Page/4월_3일.md "wikilink"), 와다는 상인두암에 의해 사망하였다. 그리하여 이 싱글은 생전의 마지막 작품이되었다.
 
 ### 수록곡
 

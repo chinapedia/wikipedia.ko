@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Rivers of Babylon](https://ko.wikipedia.org/wiki/Rivers_of_Babylon).
 
 
-"**Rivers of Babylon**"은 브렌트 도우(Brent Dowe)와 트레버 맥나흐톤(Trevor McNaughton)에 의해 쓰여져 [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink")에 자메이카의 그룹인 더 멜로디언즈([The Melodians](https://ko.wikipedia.org/wiki/:en:The_Melodians "wikilink"))가 부른 노래이다. 더 멜로디언즈의 노래는 [1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink") 영화 [더 하더 데이 컴](https://ko.wikipedia.org/wiki/더_하더_데이_컴 "wikilink")([The Harder They Come](https://ko.wikipedia.org/wiki/:en:The_Harder_They_Come "wikilink")) 및 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 영화 [비상 근무](https://ko.wikipedia.org/wiki/비상_근무 "wikilink")([Bringing Out the Dead](https://ko.wikipedia.org/wiki/:en:Bringing_Out_the_Dead "wikilink"))의 사운드 트랙에 수록되었다.
+"**Rivers of Babylon**"은 브렌트 도우(Brent Dowe)와 트레버 맥나흐톤(Trevor McNaughton)에 의해 쓰여져 [1972년](../Page/1972년.md "wikilink")에 자메이카의 그룹인 더 멜로디언즈([The Melodians](https://ko.wikipedia.org/wiki/:en:The_Melodians "wikilink"))가 부른 노래이다. 더 멜로디언즈의 노래는 [1972년](../Page/1972년.md "wikilink") 영화 [더 하더 데이 컴](https://ko.wikipedia.org/wiki/더_하더_데이_컴 "wikilink")([The Harder They Come](https://ko.wikipedia.org/wiki/:en:The_Harder_They_Come "wikilink")) 및 [1999년](../Page/1999년.md "wikilink") 영화 [비상 근무](https://ko.wikipedia.org/wiki/비상_근무 "wikilink")([Bringing Out the Dead](https://ko.wikipedia.org/wiki/:en:Bringing_Out_the_Dead "wikilink"))의 사운드 트랙에 수록되었다.
 
-[1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink")에 독일의 그룹인 [보니 엠에](https://ko.wikipedia.org/wiki/보니_엠 "wikilink") 의해 리메이크가 되어 인기를 끌었다.
+[1978년](../Page/1978년.md "wikilink")에 독일의 그룹인 [보니 엠에](https://ko.wikipedia.org/wiki/보니_엠 "wikilink") 의해 리메이크가 되어 인기를 끌었다.
 
 ## 배경
 
@@ -15,9 +15,9 @@
 
 ## 보니 엠 노래
 
-이 노래는 [1978년](https://ko.wikipedia.org/wiki/1978년 "wikilink")에 독일의 디스코 밴드인 [보니 엠에](https://ko.wikipedia.org/wiki/보니_엠 "wikilink") 의해 싱글로 녹음되어 출시되었다. 싱글 음반은 영국에서 5주간 1위를 차지했으며 미국에서는 30위를 차지했다.
+이 노래는 [1978년](../Page/1978년.md "wikilink")에 독일의 디스코 밴드인 [보니 엠에](https://ko.wikipedia.org/wiki/보니_엠 "wikilink") 의해 싱글로 녹음되어 출시되었다. 싱글 음반은 영국에서 5주간 1위를 차지했으며 미국에서는 30위를 차지했다.
 
-이 후 [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink")에 리믹스가 된 노래를 실은 음반이 발매되었다.
+이 후 [1988년](../Page/1988년.md "wikilink")에 리믹스가 된 노래를 실은 음반이 발매되었다.
 
 ### 판매 순위
 
@@ -32,7 +32,7 @@
 
 ## 패러디
 
-[대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 이 노래의 첫 부분에서 나오는 ‘바이더 리버즈 오브 바빌론\~(**By The Rivers Of Babylon\~**)’을 ‘**다들 이불개고 밥먹어\~**’로 코믹하게 개사될 정도로 인기를 모았다.\[3\] 또한, 같은 부분을 ‘**롯데의 강민호\~**라고 개사하여 [롯데 자이언츠에서](https://ko.wikipedia.org/wiki/롯데_자이언츠 "wikilink") 주전 포수로 활동한 [강민호](../Page/강민호.md "wikilink")(현 [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 소속)의 응원가로도 활용한 바 있다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 이 노래의 첫 부분에서 나오는 ‘바이더 리버즈 오브 바빌론\~(**By The Rivers Of Babylon\~**)’을 ‘**다들 이불개고 밥먹어\~**’로 코믹하게 개사될 정도로 인기를 모았다.\[3\] 또한, 같은 부분을 ‘**롯데의 강민호\~**라고 개사하여 [롯데 자이언츠에서](../Page/롯데_자이언츠.md "wikilink") 주전 포수로 활동한 [강민호](../Page/강민호.md "wikilink")(현 [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 소속)의 응원가로도 활용한 바 있다.
 
 ## 각주
 
