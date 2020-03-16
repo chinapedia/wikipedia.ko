@@ -1,0 +1,31 @@
+> This article is converted from Wikipedia: [ vs ](https://ko.wikipedia.org/wiki/_vs_).
+
+
+《**고질라 22 - 고질라 대 우주 고질라**》(Godzilla Vs. Space Godzilla)는 일본에서 제작된 [야마시타 켄쇼](https://ko.wikipedia.org/wiki/야마시타_켄쇼 "wikilink") 감독의 1994년 영화이다. [하시즈메 준](https://ko.wikipedia.org/wiki/하시즈메_준 "wikilink") 등이 주연으로 출연하였고 [토미야마 쇼고](https://ko.wikipedia.org/wiki/토미야마_쇼고 "wikilink") 등이 제작에 참여하였다.
+
+## 출연
+
+### 주연
+
+  - [하시즈메 준](https://ko.wikipedia.org/wiki/하시즈메_준 "wikilink")
+  - [오다카 메구미](https://ko.wikipedia.org/wiki/오다카_메구미 "wikilink")
+  - [요네야마 젠키치](https://ko.wikipedia.org/wiki/요네야마_젠키치 "wikilink")
+
+### 조연
+
+  - [에모토 아키라](../Page/에모토_아키라.md "wikilink")
+  - [이마무라 케이코](https://ko.wikipedia.org/wiki/이마무라_케이코 "wikilink")
+  - [오오사와 사야카](https://ko.wikipedia.org/wiki/오오사와_사야카 "wikilink")
+  - [사하라 켄지](https://ko.wikipedia.org/wiki/사하라_켄지 "wikilink")
+  - [나카오 아키라](https://ko.wikipedia.org/wiki/나카오_아키라 "wikilink")
+  - [우에다 코이치](https://ko.wikipedia.org/wiki/우에다_코이치 "wikilink")
+  - [사츠마 켄파치로](https://ko.wikipedia.org/wiki/사츠마_켄파치로 "wikilink")
+  - [사이토 요스케](https://ko.wikipedia.org/wiki/사이토_요스케 "wikilink")
+
+## 외부 링크
+
+  -
+  -
+  -
+  -
+[분류:1994년 영화](https://ko.wikipedia.org/wiki/분류:1994년_영화 "wikilink") [분류:복제를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:복제를_소재로_한_영화 "wikilink") [분류:외계생명을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:외계생명을_소재로_한_영화 "wikilink") [분류:1995년을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:1995년을_배경으로_한_영화 "wikilink") [분류:도쿄도를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:도쿄도를_배경으로_한_영화 "wikilink") [분류:일본을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:일본을_배경으로_한_영화 "wikilink") [분류:후쿠오카시를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:후쿠오카시를_배경으로_한_영화 "wikilink") [분류:가고시마시를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:가고시마시를_배경으로_한_영화 "wikilink") [분류:구마모토현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:구마모토현을_배경으로_한_영화 "wikilink") [분류:구마모토시를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:구마모토시를_배경으로_한_영화 "wikilink") [분류:야마가타현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:야마가타현을_배경으로_한_영화 "wikilink") [분류:이바라키현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:이바라키현을_배경으로_한_영화 "wikilink") [분류:오이타현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:오이타현을_배경으로_한_영화 "wikilink") [분류:삿포로시를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:삿포로시를_배경으로_한_영화 "wikilink") [분류:고베시를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:고베시를_배경으로_한_영화 "wikilink") [분류:고지라 영화](https://ko.wikipedia.org/wiki/분류:고지라_영화 "wikilink") [분류:괴수 영화](https://ko.wikipedia.org/wiki/분류:괴수_영화 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:일본의 SF 영화](https://ko.wikipedia.org/wiki/분류:일본의_SF_영화 "wikilink") [분류:도호 제작의 영화 작품](https://ko.wikipedia.org/wiki/분류:도호_제작의_영화_작품 "wikilink") [분류:매드 사이언티스트 영화](https://ko.wikipedia.org/wiki/분류:매드_사이언티스트_영화 "wikilink")

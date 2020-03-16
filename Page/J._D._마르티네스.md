@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [J. D. ](https://ko.wikipedia.org/wiki/J._D._).
+
+
+**훌리오 다니엘 마르티네스**(Julio Daniel Martinez, [1987년](../Page/1987년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [야구](../Page/야구.md "wikilink") 선수로, 메이저 리그에 소속되어 있는 [보스턴 레드삭스의](../Page/보스턴_레드삭스.md "wikilink") 외야수이다.
+
+[분류:1987년 태어남](https://ko.wikipedia.org/wiki/분류:1987년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:휴스턴 애스트로스 선수](https://ko.wikipedia.org/wiki/분류:휴스턴_애스트로스_선수 "wikilink") [분류:디트로이트 타이거스 선수](https://ko.wikipedia.org/wiki/분류:디트로이트_타이거스_선수 "wikilink") [분류:애리조나 다이아몬드백스 선수](https://ko.wikipedia.org/wiki/분류:애리조나_다이아몬드백스_선수 "wikilink") [분류:보스턴 레드삭스 선수](https://ko.wikipedia.org/wiki/분류:보스턴_레드삭스_선수 "wikilink") [분류:플로리다주 출신 야구 선수](https://ko.wikipedia.org/wiki/분류:플로리다주_출신_야구_선수 "wikilink") [분류:메이저 리그 베이스볼 외야수](https://ko.wikipedia.org/wiki/분류:메이저_리그_베이스볼_외야수 "wikilink") [분류:아메리칸 리그 올스타](https://ko.wikipedia.org/wiki/분류:아메리칸_리그_올스타 "wikilink") [분류:월드 시리즈 우승 선수](https://ko.wikipedia.org/wiki/분류:월드_시리즈_우승_선수 "wikilink")

@@ -1,0 +1,12 @@
+> This article is converted from Wikipedia: [The Marshall Mathers LP](https://ko.wikipedia.org/wiki/The_Marshall_Mathers_LP).
+
+
+《**The Marshall Mathers LP**》는 2000년 5월 23일 [애프터매스](https://ko.wikipedia.org/wiki/애프터매스 "wikilink")와 [인터스코프](https://ko.wikipedia.org/wiki/인터스코프 "wikilink")에서 발매한 [미국](../Page/미국.md "wikilink")의 래퍼 [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink")의 세 번째 스튜디오 음반이다. 이 음반은 [닥터 드레와](../Page/닥터_드레.md "wikilink") 에미넴이 [45 킹](https://ko.wikipedia.org/wiki/45_킹 "wikilink"), [바스 브라더스](https://ko.wikipedia.org/wiki/바스_브라더스 "wikilink"), [멀맨](https://ko.wikipedia.org/wiki/멀맨 "wikilink")과 함께 주로 프로듀싱하였다. 그것은 디트로이트 지역의 여러 스튜디오에서 두 달 동안 녹음되었고, 이 기간 동안 에미넴은 그의 이전 기록의 성공에 대해 개선해야 한다는 상당한 압력을 느꼈다. 에미넴의 브레이크아웃 음반 《[The Slim Shady LP](../Page/The_Slim_Shady_LP.md "wikilink")》 이후 1년 3개월 만에 발매된 이 음반은 래퍼가 갑자기 유명해진 것에 대한 반응과 가사를 둘러싼 논란 등 보다 내성적인 서정성을 특징으로 한다. 음악적으로 이 음반은 [하드코어 힙합과](https://ko.wikipedia.org/wiki/하드코어_힙합 "wikilink") [호러코어](https://ko.wikipedia.org/wiki/호러코어 "wikilink")의 장르와 연관되어 있다.
+
+이 래퍼는 명성과의 관계뿐만 아니라 음반 내내 부정적으로 묘사된 아내 킴 매더스, 그의 어머니와의 관계에 대해서도 논한다. 《The Slim Shady LP》처럼, 《The Marshall Mathers LP》는 발매되자마자 상당한 논란에 휩싸였다. 비판은 폭력적이고 동성애 혐오적이며 여성혐오적이라고 여겨졌던 가사를 중심으로 했다. [린 체니](https://ko.wikipedia.org/wiki/린_체니 "wikilink") 부통령은 [미 상원](https://ko.wikipedia.org/wiki/미_상원 "wikilink") 청문회에서 가사를 비판했고 [캐나다](../Page/캐나다.md "wikilink") 정부는 에미넴의 입국을 거부하는 것을 고려했다. 논란에도 불구하고, 이 음반은 비평가들로부터 호평을 받았는데, 비평가들은 이 래퍼의 서정적인 능력과 감정적인 깊이를 칭찬했다. 회고적으로, 그 음반은 역사상 가장 위대한 음반의 여러 목록에 올랐다.
+
+이 음반은 발매 첫 주에만 미국에서 178만 장 이상이 팔렸고, 당시 미국 음악 역사상 가장 빨리 팔린 솔로 음반이 되었다. 2001년 이 음반은 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 최우수 랩 앨범상을 수상했고 올해의 앨범 후보에 올라 [스틸리 댄의](../Page/스틸리_댄.md "wikilink") 《[Two Against Nature](https://ko.wikipedia.org/wiki/Two_Against_Nature "wikilink")》에 후자를 빼앗겼다. 이 음반은 2011년 3월 [미국 음반 산업 협회에서](../Page/미국_음반_산업_협회.md "wikilink") 미국에서 1000만장을 판매한 것으로 다이아몬드 인증을 받았다. 그것은 미국에서 1,100만 장 이상 팔렸고 전 세계적으로 약 3,200만 장 이상이 팔렸다. 《[The Marshall Mathers LP 2](../Page/The_Marshall_Mathers_LP_2.md "wikilink")》라는 제목의 음반의 후속편이 2013년 11월 5일에 발매되었다.
+
+## 외부 링크
+
+[분류:2000년 음반](https://ko.wikipedia.org/wiki/분류:2000년_음반 "wikilink") [분류:에미넴의 음반](https://ko.wikipedia.org/wiki/분류:에미넴의_음반 "wikilink") [분류:닥터 드레가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:닥터_드레가_프로듀싱한_음반 "wikilink") [분류:인터스코프 레코드 음반](https://ko.wikipedia.org/wiki/분류:인터스코프_레코드_음반 "wikilink")
