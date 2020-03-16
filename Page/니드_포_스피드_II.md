@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   II](https://ko.wikipedia.org/wiki/___II).
 
 
-《**니드 포 스피드 II**》(Need for Speed II, 일본 출시명: Over Drivin' II)는 1997년 출시된 [레이싱](https://ko.wikipedia.org/wiki/경주_게임 "wikilink") 비디오 게임이다. [니드 포 스피드 시리즈의](https://ko.wikipedia.org/wiki/니드_포_스피드 "wikilink") 일부이자 이 시리즈의 두 번째 게임으로, [더 니드 포 스피드](../Page/더_니드_포_스피드.md "wikilink")(Road & Track Presents: The Need for Speed)의 뒤를 잇는다.
+《**니드 포 스피드 II**》(Need for Speed II, 일본 출시명: Over Drivin' II)는 1997년 출시된 [레이싱](https://ko.wikipedia.org/wiki/경주_게임 "wikilink") 비디오 게임이다. [니드 포 스피드 시리즈의](../Page/니드_포_스피드.md "wikilink") 일부이자 이 시리즈의 두 번째 게임으로, [더 니드 포 스피드](../Page/더_니드_포_스피드.md "wikilink")(Road & Track Presents: The Need for Speed)의 뒤를 잇는다.
 
 ## 반응
 
@@ -9,7 +9,7 @@
 
 ### 스페셜 에디션
 
-미국에서는 1997년 11월 6일, 일본과 유럽에서는 1998년 2월 2일에 출시된 니드 포 스피드 II 스페셜 에디션은 1개의 레이스 트랙, 4대의 자동차, 3대의 보너스 카, "와일드"라는 새로운 드라이빙 스타일, [3dfx](https://ko.wikipedia.org/wiki/3dfx "wikilink") [글라이드](https://ko.wikipedia.org/wiki/글라이드 "wikilink") 하드웨어 가속 지원을 포함한다.
+미국에서는 1997년 11월 6일, 일본과 유럽에서는 1998년 2월 2일에 출시된 니드 포 스피드 II 스페셜 에디션은 1개의 레이스 트랙, 4대의 자동차, 3대의 보너스 카, "와일드"라는 새로운 드라이빙 스타일, [3dfx](../Page/3dfx.md "wikilink") [글라이드](../Page/글라이드.md "wikilink") 하드웨어 가속 지원을 포함한다.
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  \(MBTA\)](https://ko.wikipedia.org/wiki/__\(MBTA\)).
 
 
-**실버 라인**(Silver line)은 [보스턴](https://ko.wikipedia.org/wiki/보스턴 "wikilink")의 [간선급행버스체계](https://ko.wikipedia.org/wiki/간선급행버스체계 "wikilink")(BRT) 노선이다. 현재는 별도의 단계로 구축된 두 개의 구간에서 네 개의 경로를 운영한다.
+**실버 라인**(Silver line)은 [보스턴](../Page/보스턴.md "wikilink")의 [간선급행버스체계](../Page/간선급행버스체계.md "wikilink")(BRT) 노선이다. 현재는 별도의 단계로 구축된 두 개의 구간에서 네 개의 경로를 운영한다.
 
 첫 번째 구간에는 록스버리에 있는 [더들리 스퀘어 역에서](https://ko.wikipedia.org/wiki/더들리_스퀘어_역 "wikilink") [워싱턴 가를](https://ko.wikipedia.org/wiki/워싱턴_가_\(보스턴\) "wikilink") 거쳐 보스턴의 [다운타운 크로싱 역](https://ko.wikipedia.org/wiki/다운타운_크로싱_역 "wikilink")(SL5) 및 [사우스 역](https://ko.wikipedia.org/wiki/사우스_역 "wikilink")(SL4)까지 이르는 2개의 노선이 있다. 두 번째 구간은 [사우스 지하철 역에서](https://ko.wikipedia.org/wiki/사우스_역_\(지하철\) "wikilink") [사우스보스턴](https://ko.wikipedia.org/wiki/사우스보스턴 "wikilink") (SL2)까지, [로건 국제공항에서는](https://ko.wikipedia.org/wiki/로건_국제공항 "wikilink") [이스트보스턴](https://ko.wikipedia.org/wiki/이스트보스턴 "wikilink") (SL1)까지 운행한다. 듀얼 모드 버스를 운행하며 일부는 전용 버스 터널에서, 부분적으로는 도로 거리, 테드 윌리엄스 터널 및 공항 도로를 포함한 공용 도로에서 운행된다. 라이더는 사우스 스테이션에서 섹션과 다른 라인 사이를 이동할 수 있다. SL1, SL2 및 레드 라인 (SL4 제외) 간에는 요금 통제 내에 있다. 그러나 사우스 역에서는 SL1, SL2 및 레드 라인에서 SL4로 (또는 그 반대로) 환승이 가능하다.
 
@@ -22,7 +22,7 @@
 
 러시아워 시간에는 실버 라인 웨이에서 일부 차량이 터널로 되돌아가면서 사우스 역과 실버 라인 웨이 구간의 배차를 증가시킨다.
 
-SL1 버스는 로건 국제공항을 순환 운행하며, 터미널 건물 (A, B1, B2, C, E)내의 도착층에서만 정차한다. 기타 무료 셔틀 버스 서비스는 터미널을 [블루 라인의](https://ko.wikipedia.org/wiki/블루_라인_\(MBTA\) "wikilink") [공항역과](https://ko.wikipedia.org/wiki/공항역_\(보스턴\) "wikilink") 호텔, [렌터카](https://ko.wikipedia.org/wiki/렌터카 "wikilink") 센터 및 [수상 택시와](https://ko.wikipedia.org/wiki/MBTA_보트 "wikilink") 같은 기타 공항 목적지와 연결한다. [무빙워크](https://ko.wikipedia.org/wiki/무빙워크 "wikilink")가 있는 시스템은 터미널 A와 E, [힐튼 호텔](https://ko.wikipedia.org/wiki/힐튼_호텔 "wikilink") 및 중앙 주차 공간을 연결한다. 각 터미널을 담당하는 항공사 목록은 [로건 국제공항](https://ko.wikipedia.org/wiki/로건_국제공항#운항_노선 "wikilink") 항목을 참고하라.
+SL1 버스는 로건 국제공항을 순환 운행하며, 터미널 건물 (A, B1, B2, C, E)내의 도착층에서만 정차한다. 기타 무료 셔틀 버스 서비스는 터미널을 [블루 라인의](https://ko.wikipedia.org/wiki/블루_라인_\(MBTA\) "wikilink") [공항역과](https://ko.wikipedia.org/wiki/공항역_\(보스턴\) "wikilink") 호텔, [렌터카](https://ko.wikipedia.org/wiki/렌터카 "wikilink") 센터 및 [수상 택시와](../Page/MBTA_보트.md "wikilink") 같은 기타 공항 목적지와 연결한다. [무빙워크](https://ko.wikipedia.org/wiki/무빙워크 "wikilink")가 있는 시스템은 터미널 A와 E, [힐튼 호텔](https://ko.wikipedia.org/wiki/힐튼_호텔 "wikilink") 및 중앙 주차 공간을 연결한다. 각 터미널을 담당하는 항공사 목록은 [로건 국제공항](https://ko.wikipedia.org/wiki/로건_국제공항#운항_노선 "wikilink") 항목을 참고하라.
 
 #### 요금
 
@@ -32,7 +32,7 @@ SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wiki
 
 #### 차량
 
-[Neoplan USA](https://ko.wikipedia.org/wiki/:en:Neoplan_USA "wikilink") AN460LF [듀얼-모드 (dual-mode)](https://ko.wikipedia.org/wiki/:en:dual-mode_bus "wikilink") 60 피트 [굴절버스](https://ko.wikipedia.org/wiki/굴절버스 "wikilink")는 사우스 역에서 실버 라인 웨이 구간의 터널 내부에서 연소 가스 발생을 피하기 위해 전차선으로 구동되는 [트롤리버스](https://ko.wikipedia.org/wiki/트롤리버스 "wikilink")로 동작하고, 이후 구간에는 [디젤](https://ko.wikipedia.org/wiki/디젤_엔진 "wikilink") 동력으로 운행하며, 이 때 전차선 전력으로 작동할 때 사용되는 동일한 전기 모터를 구동하기 위해 디젤 동력을 전력으로 변환한다. 이 버스는 표준 40 피트 버스보다 더 높다. 후방 및 중앙 바퀴 모두 전기 모터에 의해 구동되므로 눈 속에서도 계속 작동할 수 있다. 이 버스는 [저상버스](https://ko.wikipedia.org/wiki/저상버스 "wikilink") 기술과 플립형 램프를 이용하여, [휠체어 램프가](https://ko.wikipedia.org/wiki/휠체어_램프 "wikilink") 장착되어 있다.
+[Neoplan USA](https://ko.wikipedia.org/wiki/:en:Neoplan_USA "wikilink") AN460LF [듀얼-모드 (dual-mode)](https://ko.wikipedia.org/wiki/:en:dual-mode_bus "wikilink") 60 피트 [굴절버스](https://ko.wikipedia.org/wiki/굴절버스 "wikilink")는 사우스 역에서 실버 라인 웨이 구간의 터널 내부에서 연소 가스 발생을 피하기 위해 전차선으로 구동되는 [트롤리버스](../Page/트롤리버스.md "wikilink")로 동작하고, 이후 구간에는 [디젤](../Page/디젤_엔진.md "wikilink") 동력으로 운행하며, 이 때 전차선 전력으로 작동할 때 사용되는 동일한 전기 모터를 구동하기 위해 디젤 동력을 전력으로 변환한다. 이 버스는 표준 40 피트 버스보다 더 높다. 후방 및 중앙 바퀴 모두 전기 모터에 의해 구동되므로 눈 속에서도 계속 작동할 수 있다. 이 버스는 [저상버스](../Page/저상버스.md "wikilink") 기술과 플립형 램프를 이용하여, [휠체어 램프가](https://ko.wikipedia.org/wiki/휠체어_램프 "wikilink") 장착되어 있다.
 
 #### 정류장 목록
 
@@ -57,7 +57,7 @@ SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wiki
 <a href="https://ko.wikipedia.org/wiki/:en:South_Station_(MBTA_subway_station)" title="wikilink">South Station</a></p></td>
 <td><p>SL1 &amp; SL2</p></td>
 <td><p>2004년 12월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레드_라인_(MBTA)" title="wikilink">레드 라인</a>, 실버 라인 SL4, <a href="../Page/MBTA_커뮤터_레일.md" title="wikilink">MBTA 커뮤터 레일</a>, <a href="https://ko.wikipedia.org/wiki/암트랙" title="wikilink">암트랙</a>, 시내 및 시외 버스</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/레드_라인_(MBTA)" title="wikilink">레드 라인</a>, 실버 라인 SL4, <a href="../Page/MBTA_커뮤터_레일.md" title="wikilink">MBTA 커뮤터 레일</a>, <a href="../Page/암트랙.md" title="wikilink">암트랙</a>, 시내 및 시외 버스</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/사우스보스턴" title="wikilink">사우스보스턴</a></p></td>
@@ -81,7 +81,7 @@ SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wiki
 <a href="https://ko.wikipedia.org/wiki/:en:Silver_Line_Way_(MBTA_station)" title="wikilink">Silver Line Way</a></p></td>
 <td><p>SL1 &amp; SL2</p></td>
 <td><p>2004년 12월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/디젤_엔진" title="wikilink">디젤과</a> <a href="https://ko.wikipedia.org/wiki/가공_전차선" title="wikilink">가공 전차선</a> 전력 간의 전환이 이 역에서 시행된다.</p></td>
+<td><p><a href="../Page/디젤_엔진.md" title="wikilink">디젤과</a> <a href="https://ko.wikipedia.org/wiki/가공_전차선" title="wikilink">가공 전차선</a> 전력 간의 전환이 이 역에서 시행된다.</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/이스트보스턴" title="wikilink">이스트보스턴</a></p></td>
@@ -207,7 +207,7 @@ SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wiki
 
 #### 차량
 
-주간에는 [압축천연가스](https://ko.wikipedia.org/wiki/압축천연가스 "wikilink")(CNG) 구동 60 피트 [Neoplan USA와](https://ko.wikipedia.org/wiki/:en:Neoplan_USA "wikilink") 디젤-전기 하이브리드 [New Flyer](https://ko.wikipedia.org/wiki/:en:New_Flyer "wikilink") [굴절버스](https://ko.wikipedia.org/wiki/굴절버스 "wikilink")를 사용하며, SL4 및 SL5 서비스에 사용시 표준 버스의 제공 용량보다 더 큰 용량의 버스를 사용한다. 야간에 승객 부하가 적고 굴절버스의 엔진 소음이 더 큰 것을 막기 위해 표준(40 피트, 비굴절) CNG 구동 버스가 사용된다. 눈보라가 날 때 표준 버스와 간혹 SL1 & SL2 (위 참조)의 일부 굴절 듀얼-모드 버스가 사용되는데, SL4 & SL5에서 일반적으로 사용되는 굴절버스는 엔진에서 후방 휠까지의 구동 장치가 있어 미끄러운 도로에서 잘 동작하기 않기 때문이다. (특히 눈이 적게 내릴 때에도 Neoplan USA 굴절버스가 적용된다.) 반대의 경우 허용되지 않는데, 이는 안전상의 이유로 CNG 차량이 SL1/SL2 터널에 들어갈 수 없기 때문이다. SL1 & SL2와 마찬가지로 이 버스에도 [저상버스](https://ko.wikipedia.org/wiki/저상버스 "wikilink") 기술과 플립형 램프를 이용하여, [휠체어 램프가](https://ko.wikipedia.org/wiki/휠체어_램프 "wikilink") 장착되어 있다.
+주간에는 [압축천연가스](https://ko.wikipedia.org/wiki/압축천연가스 "wikilink")(CNG) 구동 60 피트 [Neoplan USA와](https://ko.wikipedia.org/wiki/:en:Neoplan_USA "wikilink") 디젤-전기 하이브리드 [New Flyer](https://ko.wikipedia.org/wiki/:en:New_Flyer "wikilink") [굴절버스](https://ko.wikipedia.org/wiki/굴절버스 "wikilink")를 사용하며, SL4 및 SL5 서비스에 사용시 표준 버스의 제공 용량보다 더 큰 용량의 버스를 사용한다. 야간에 승객 부하가 적고 굴절버스의 엔진 소음이 더 큰 것을 막기 위해 표준(40 피트, 비굴절) CNG 구동 버스가 사용된다. 눈보라가 날 때 표준 버스와 간혹 SL1 & SL2 (위 참조)의 일부 굴절 듀얼-모드 버스가 사용되는데, SL4 & SL5에서 일반적으로 사용되는 굴절버스는 엔진에서 후방 휠까지의 구동 장치가 있어 미끄러운 도로에서 잘 동작하기 않기 때문이다. (특히 눈이 적게 내릴 때에도 Neoplan USA 굴절버스가 적용된다.) 반대의 경우 허용되지 않는데, 이는 안전상의 이유로 CNG 차량이 SL1/SL2 터널에 들어갈 수 없기 때문이다. SL1 & SL2와 마찬가지로 이 버스에도 [저상버스](../Page/저상버스.md "wikilink") 기술과 플립형 램프를 이용하여, [휠체어 램프가](https://ko.wikipedia.org/wiki/휠체어_램프 "wikilink") 장착되어 있다.
 
 #### 정류장 목록
 
@@ -319,7 +319,7 @@ SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wiki
 <td><p><a href="https://ko.wikipedia.org/wiki/보스턴_사우스_역_(지하철)" title="wikilink">보스턴 사우스 역</a><br />
 <a href="https://ko.wikipedia.org/wiki/:en:South_Station_(MBTA_subway_station)" title="wikilink">South Station</a></p></td>
 <td><p>SL4</p></td>
-<td><p>실버 라인 SL1 (로건 공항), SL2, <a href="https://ko.wikipedia.org/wiki/레드_라인_(MBTA)" title="wikilink">레드 라인</a>, <a href="../Page/MBTA_커뮤터_레일.md" title="wikilink">MBTA 커뮤터 레일</a>, <a href="https://ko.wikipedia.org/wiki/암트랙" title="wikilink">암트랙</a> 시내 및 시외 버스. 실버 라인 정류장은 2009년 10월 13일에 개장했다.[12]</p></td>
+<td><p>실버 라인 SL1 (로건 공항), SL2, <a href="https://ko.wikipedia.org/wiki/레드_라인_(MBTA)" title="wikilink">레드 라인</a>, <a href="../Page/MBTA_커뮤터_레일.md" title="wikilink">MBTA 커뮤터 레일</a>, <a href="../Page/암트랙.md" title="wikilink">암트랙</a> 시내 및 시외 버스. 실버 라인 정류장은 2009년 10월 13일에 개장했다.[12]</p></td>
 </tr>
 </tbody>
 </table>
@@ -328,7 +328,7 @@ SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wiki
 
 ## 같이 보기
 
-  - [간선급행버스체계](https://ko.wikipedia.org/wiki/간선급행버스체계 "wikilink")
+  - [간선급행버스체계](../Page/간선급행버스체계.md "wikilink")
   - [MBTA 버스](../Page/MBTA_버스.md "wikilink")
   - [보스턴 지하철](https://ko.wikipedia.org/wiki/보스턴_지하철 "wikilink")
   - [그레이터 보스턴의 트롤리버스](https://ko.wikipedia.org/wiki/그레이터_보스턴의_트롤리버스 "wikilink")([Trolleybuses in Greater Boston](https://ko.wikipedia.org/wiki/:en:Trolleybuses_in_Greater_Boston "wikilink"))

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Galway Girl](https://ko.wikipedia.org/wiki/Galway_Girl).
 
 
-"**Galway Girl**"은 잉글랜드의 싱어송라이터 [에드 시런의](https://ko.wikipedia.org/wiki/에드_시런 "wikilink") 노래이다. 2017년 3월 17일 발매되었으며, 세번째 정규 음반 *[÷](../Page/÷_\(음반\).md "wikilink")*의 수록곡이다. 아일랜드 포크 밴드 [버가](https://ko.wikipedia.org/wiki/버가 "wikilink")와 함께 협업하여 팝적인 요소와 아일랜드 포크 음악을 접목시켰다.\[1\]
+"**Galway Girl**"은 잉글랜드의 싱어송라이터 [에드 시런의](../Page/에드_시런.md "wikilink") 노래이다. 2017년 3월 17일 발매되었으며, 세번째 정규 음반 *[÷](../Page/÷_\(음반\).md "wikilink")*의 수록곡이다. 아일랜드 포크 밴드 [버가](https://ko.wikipedia.org/wiki/버가 "wikilink")와 함께 협업하여 팝적인 요소와 아일랜드 포크 음악을 접목시켰다.\[1\]
 
 ## 각주
 

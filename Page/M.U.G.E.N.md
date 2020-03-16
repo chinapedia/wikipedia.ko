@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [M.U.G.E.N](https://ko.wikipedia.org/wiki/M.U.G.E.N).
 
 
-**M.U.G.E.N**()는 일렉바이트(Elecbyte)가 개발한 대전 격투형 게임이자, 게임 엔진이다.\[1\] 콘텐츠는 커뮤니티에 의해 만들어지며, 수천 명의 싸움꾼들(원작 및 가공)이 만들어져 왔다.\[2\] [C로](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink") 작성되어 있으며, 원래 [알레그로 라이브러리를](https://ko.wikipedia.org/wiki/알레그로_\(소프트웨어\) "wikilink") 사용하였다. 이 엔진의 최신 버전은 현재 [SDL 라이브러리를](https://ko.wikipedia.org/wiki/심플_다이렉트미디어_레이어 "wikilink") 사용한다.
+**M.U.G.E.N**()는 일렉바이트(Elecbyte)가 개발한 대전 격투형 게임이자, 게임 엔진이다.\[1\] 콘텐츠는 커뮤니티에 의해 만들어지며, 수천 명의 싸움꾼들(원작 및 가공)이 만들어져 왔다.\[2\] [C로](../Page/C_\(프로그래밍_언어\).md "wikilink") 작성되어 있으며, 원래 [알레그로 라이브러리를](https://ko.wikipedia.org/wiki/알레그로_\(소프트웨어\) "wikilink") 사용하였다. 이 엔진의 최신 버전은 현재 [SDL 라이브러리를](../Page/심플_다이렉트미디어_레이어.md "wikilink") 사용한다.
 
 ## 역사
 
-이 엔진은 1999년 7월 17일에 출시되었다. 베타 버전은 [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink"), 리눅스 플랫폼으로 제작되었고 [윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 플랫폼은 1.0 RC1 버전 전까지 공식 출시되지 않았다. 2003년 이후로 이전의 미완성된 윈도우 버전이 웹사이트를 통해 유출되었다.
+이 엔진은 1999년 7월 17일에 출시되었다. 베타 버전은 [MS-DOS](../Page/MS-DOS.md "wikilink"), 리눅스 플랫폼으로 제작되었고 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 플랫폼은 1.0 RC1 버전 전까지 공식 출시되지 않았다. 2003년 이후로 이전의 미완성된 윈도우 버전이 웹사이트를 통해 유출되었다.
 
 ## 같이 보기
 

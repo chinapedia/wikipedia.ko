@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BABIP](https://ko.wikipedia.org/wiki/BABIP).
 
 
-**BABIP**()는 인플레이 타구의 [안타](https://ko.wikipedia.org/wiki/안타 "wikilink") 비율 혹은 피안타 비율을 통계로 수치화한 [야구](https://ko.wikipedia.org/wiki/야구 "wikilink") 기록 중 하나이다.
+**BABIP**()는 인플레이 타구의 [안타](../Page/안타.md "wikilink") 비율 혹은 피안타 비율을 통계로 수치화한 [야구](../Page/야구.md "wikilink") 기록 중 하나이다.
 
 ## 계산 방법
 
@@ -9,7 +9,7 @@ BABIP는 다음과 같은 식을 이용하여 계산된다.
 
 \(BABIP = \frac{H-HR}{AB-K-HR+SF}\)
 
-H는 [안타](https://ko.wikipedia.org/wiki/안타 "wikilink"), HR은 [홈런](https://ko.wikipedia.org/wiki/홈런 "wikilink"), AB는 [타수](https://ko.wikipedia.org/wiki/타수 "wikilink"), K는 [삼진](https://ko.wikipedia.org/wiki/삼진 "wikilink"), SF는 [희생 플라이를](https://ko.wikipedia.org/wiki/희생_플라이 "wikilink") 의미한다.
+H는 [안타](../Page/안타.md "wikilink"), HR은 [홈런](../Page/홈런.md "wikilink"), AB는 [타수](https://ko.wikipedia.org/wiki/타수 "wikilink"), K는 [삼진](https://ko.wikipedia.org/wiki/삼진 "wikilink"), SF는 [희생 플라이를](https://ko.wikipedia.org/wiki/희생_플라이 "wikilink") 의미한다.
 
 이 식에서 홈런은 인플레이 상황이 아니고 홈런 그 자체로 플레이가 종료된 상황이므로 안타 수에서 홈런을 제외하였고, 삼진 또한 인플레이 상황에 해당하지 않기 때문에 타수에서 제외되었다. [사사구](https://ko.wikipedia.org/wiki/사사구 "wikilink")와 [고의 사구는](https://ko.wikipedia.org/wiki/고의_사구 "wikilink") 타수 기록에 포함되지 않으므로 이미 제외되어 있다.
 
@@ -47,9 +47,9 @@ BABIP도 .399였다.
 
 ## 같이 보기
 
-  - [야구 기록](https://ko.wikipedia.org/wiki/야구_기록 "wikilink")
-  - [배리 본즈](https://ko.wikipedia.org/wiki/배리_본즈 "wikilink")
-  - [스즈키 이치로](https://ko.wikipedia.org/wiki/스즈키_이치로 "wikilink")
+  - [야구 기록](../Page/야구_기록.md "wikilink")
+  - [배리 본즈](../Page/배리_본즈.md "wikilink")
+  - [스즈키 이치로](../Page/스즈키_이치로.md "wikilink")
 
 ## 참고문헌
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SMTOWN LIVE WORLD TOUR VI](https://ko.wikipedia.org/wiki/SMTOWN_LIVE_WORLD_TOUR_VI).
 
 
-《**SMTOWN LIVE WORLD TOUR VI**》는 [SM 엔터테인먼트](https://ko.wikipedia.org/wiki/SM_엔터테인먼트 "wikilink") 소속 가수들의 일곱번째 합동 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
+《**SMTOWN LIVE WORLD TOUR VI**》는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속 가수들의 일곱번째 합동 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").\[1\]
 
 ## 국가별 라인업
 
@@ -25,7 +25,7 @@
 
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
-  - 후원 : [YES24](https://ko.wikipedia.org/wiki/YES24 "wikilink")
+  - 후원 : [YES24](../Page/YES24.md "wikilink")
 
 ## SMTOWN Special Stage In Hong Kong
 

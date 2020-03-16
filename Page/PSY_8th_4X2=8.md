@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PSY 8th 4X2=8](https://ko.wikipedia.org/wiki/PSY_8th_4X2=8).
 
 
-《**PSY 8th 4X2=8**》은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [싸이](https://ko.wikipedia.org/wiki/싸이 "wikilink")의 8번째 정규 음반으로 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [5월 10일](https://ko.wikipedia.org/wiki/5월_10일 "wikilink") 오후 6시에 공개되었다.\[1\]
+《**PSY 8th 4X2=8**》은 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [싸이](../Page/싸이.md "wikilink")의 8번째 정규 음반으로 [2017년](../Page/2017년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") 오후 6시에 공개되었다.\[1\]
 
 ## 수록곡
 

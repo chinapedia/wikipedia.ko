@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [D\'You Know What I Mean\?](https://ko.wikipedia.org/wiki/D\'You_Know_What_I_Mean\?).
 
 
-〈**D'You Know What I Mean?**〉는 영국의 록 밴드 [오아시스의](https://ko.wikipedia.org/wiki/오아시스_\(밴드\) "wikilink") 노래다. [노엘 갤러거가](https://ko.wikipedia.org/wiki/노엘_갤러거 "wikilink") 작곡했고 자신들의 세 번째 정규 음반 《[Be Here Now](https://ko.wikipedia.org/wiki/Be_Here_Now "wikilink")》 (1997)에 수록했다.
+〈**D'You Know What I Mean?**〉는 영국의 록 밴드 [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 노래다. [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 작곡했고 자신들의 세 번째 정규 음반 《[Be Here Now](../Page/Be_Here_Now.md "wikilink")》 (1997)에 수록했다.
 
 영국 싱글 차트에서는 오아시스 노래 중에서는 세 번째로 1위에 올랐다. 또한 아일랜드, 핀란드, 스페인에서 정상을, 그리고 캐나다, 노르웨이, 스웨덴, 뉴질랜드에서는 5위권에 진입했다. 발표 첫날 162,000장이 팔렸으며 마지막 주에는 총 370,000장을 팔아치웠다. 영국에서 745,000장의 판매고를, 이어 플래티넘을 수여받는 등의 큰 성과를 거두어 오아시스의 두 번째로 가장 많이 팔린 싱글의 자리를 차지하게 된다. 1992년 영국에서는 12번째로 가장 많이 팔린 싱글이다.
 
@@ -11,7 +11,7 @@
 
 노엘 갤러거는 발표 당시 "이걸 내가 쓰다니, 믿을 수가 없어. 이건 사람들 머리를 날려버릴 거야"라고 말했다.\[3\] 노엘은 곡의 작곡에 대해 이렇게 언급했다. "훌륭한 싱글? 그건 전부 멜로디에 달려있는 거지. 기본적으로 〈D'You Know What I Mean?〉은 〈Wonderwall〉과 같아... 하지만 음악이 다르지. 바로 거기가 중요해. 얼마나 잘 제작되었는가, 혹은 가사가 좋은지, 아니면 누가 최고로 기타 연주를 하든지 간에. 그게 사람에게 와 닿는다면 그건 좋은 노래야."\[4\]
 
-가사에서는 [밥 딜런의](https://ko.wikipedia.org/wiki/밥_딜런 "wikilink") 음반 《[Blood on the Tracks](https://ko.wikipedia.org/wiki/Blood_on_the_Tracks "wikilink")》 ("The blood on the trax must be mine"), [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 노래 〈[The Fool on the Hill](https://ko.wikipedia.org/wiki/The_Fool_on_the_Hill "wikilink")〉과 〈[I Feel Fine](https://ko.wikipedia.org/wiki/I_Feel_Fine "wikilink")〉 ("The fool on the hill and I feel fine"), 그리고 딜런이 출연한 다큐멘터리 《[돈 룩 백](https://ko.wikipedia.org/wiki/돈_룩_백 "wikilink")》 (Don't look back 'cos you know what you might see")이 언급된다.\[5\]
+가사에서는 [밥 딜런의](../Page/밥_딜런.md "wikilink") 음반 《[Blood on the Tracks](https://ko.wikipedia.org/wiki/Blood_on_the_Tracks "wikilink")》 ("The blood on the trax must be mine"), [비틀즈](../Page/비틀즈.md "wikilink")의 노래 〈[The Fool on the Hill](https://ko.wikipedia.org/wiki/The_Fool_on_the_Hill "wikilink")〉과 〈[I Feel Fine](https://ko.wikipedia.org/wiki/I_Feel_Fine "wikilink")〉 ("The fool on the hill and I feel fine"), 그리고 딜런이 출연한 다큐멘터리 《[돈 룩 백](https://ko.wikipedia.org/wiki/돈_룩_백 "wikilink")》 (Don't look back 'cos you know what you might see")이 언급된다.\[5\]
 
 ## 뮤직비디오
 
@@ -57,7 +57,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>일본 (<a href="https://ko.wikipedia.org/wiki/오리콘" title="wikilink">오리콘</a>)</p></td>
+<td><p>일본 (<a href="../Page/오리콘.md" title="wikilink">오리콘</a>)</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">

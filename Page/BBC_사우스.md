@@ -7,15 +7,15 @@
 
 ### 텔레비전
 
-BBC 사우스의 텔레비전 방송 프로그램은 [BBC One을](https://ko.wikipedia.org/wiki/BBC_One "wikilink") 통해 방송되며, 지역 대표 뉴스인 《[BBC 사우스 투데이](https://ko.wikipedia.org/wiki/BBC_사우스_투데이 "wikilink")》 (옥스퍼드 송신소에서 내보내는 자체방송 포함)과 화제 보도 프로그램 《[인사이드 아웃](https://ko.wikipedia.org/wiki/인사이드_아웃_\(BBC\) "wikilink")》, 그리고 《[선데이 폴리틱스](https://ko.wikipedia.org/wiki/선데이_폴리틱스 "wikilink")》 중반에 트는 20분짜리 자체편성으로 구성되어 있다. 늦은밤 축구소식 프로그램인 《[레이트 킥 오프](https://ko.wikipedia.org/wiki/레이트_킥_오프 "wikilink")》는 [BBC 웨스트](https://ko.wikipedia.org/wiki/BBC_웨스트 "wikilink"), [BBC 사우스웨스트](../Page/BBC_사우스웨스트.md "wikilink"), 그리고 독립제작사인 퍼골 미디어와 공동 제작한다.
+BBC 사우스의 텔레비전 방송 프로그램은 [BBC One을](../Page/BBC_One.md "wikilink") 통해 방송되며, 지역 대표 뉴스인 《[BBC 사우스 투데이](https://ko.wikipedia.org/wiki/BBC_사우스_투데이 "wikilink")》 (옥스퍼드 송신소에서 내보내는 자체방송 포함)과 화제 보도 프로그램 《[인사이드 아웃](https://ko.wikipedia.org/wiki/인사이드_아웃_\(BBC\) "wikilink")》, 그리고 《[선데이 폴리틱스](https://ko.wikipedia.org/wiki/선데이_폴리틱스 "wikilink")》 중반에 트는 20분짜리 자체편성으로 구성되어 있다. 늦은밤 축구소식 프로그램인 《[레이트 킥 오프](https://ko.wikipedia.org/wiki/레이트_킥_오프 "wikilink")》는 [BBC 웨스트](../Page/BBC_웨스트.md "wikilink"), [BBC 사우스웨스트](../Page/BBC_사우스웨스트.md "wikilink"), 그리고 독립제작사인 퍼골 미디어와 공동 제작한다.
 
-BBC 사우스는 가끔씩 지역 다큐멘터리를 제작 방송하기도 한다. 가장 최근에는 《타이타닉 - 사우샘프턴의 기억》과 《시 시티》가 있다. 전자의 경우 2012년 4월 방송된 프로로 타이타닉 선원 대다수의 고향이기도 했던 [사우샘프턴](https://ko.wikipedia.org/wiki/사우샘프턴 "wikilink")에 닥친 타이타닉 참사의 영향을 다룬 것이며, 후자의 경우 [사우샘프턴 항의](https://ko.wikipedia.org/wiki/사우샘프턴_항 "wikilink") 풍경을 다룬 것으로 2013년 1월에 첫방송되고 2014년 3월에 시즌2를 찍었다.\[1\]\[2\]
+BBC 사우스는 가끔씩 지역 다큐멘터리를 제작 방송하기도 한다. 가장 최근에는 《타이타닉 - 사우샘프턴의 기억》과 《시 시티》가 있다. 전자의 경우 2012년 4월 방송된 프로로 타이타닉 선원 대다수의 고향이기도 했던 [사우샘프턴](../Page/사우샘프턴.md "wikilink")에 닥친 타이타닉 참사의 영향을 다룬 것이며, 후자의 경우 [사우샘프턴 항의](https://ko.wikipedia.org/wiki/사우샘프턴_항 "wikilink") 풍경을 다룬 것으로 2013년 1월에 첫방송되고 2014년 3월에 시즌2를 찍었다.\[1\]\[2\]
 
 ### 라디오
 
 BBC 사우스는 [BBC 라디오 옥스퍼드](https://ko.wikipedia.org/wiki/BBC_라디오_옥스퍼드 "wikilink"), [BBC 라디오 버크셔](https://ko.wikipedia.org/wiki/BBC_라디오_버크셔 "wikilink"), [BBC 라디오 솔런트](https://ko.wikipedia.org/wiki/BBC_라디오_솔런트 "wikilink") 등의 지역 라디오 방송국들을 총괄한다.
 
-라디오 솔런트, 라디오 옥스퍼드, 라디오 버크셔는 오전 5시부터 다음날 오전 1시까지 방송되며 지역 프로그램 방송은 오전 5시부터 오후 7시까지 매주 평일에 편성된다. 이 세 방송국은 매일 저녁마다 [BBC 사우스이스트](../Page/BBC_사우스이스트.md "wikilink") 방송권역내 지역방송국 두 곳과 함께 공동 네트워크 프로그램을 진행하고 있다. 방송을 마친 후 심야 시간대에는 [BBC 라디오 5 라이브의](https://ko.wikipedia.org/wiki/BBC_라디오_5_라이브 "wikilink") 프로그램을 중계 편성하고 있다.
+라디오 솔런트, 라디오 옥스퍼드, 라디오 버크셔는 오전 5시부터 다음날 오전 1시까지 방송되며 지역 프로그램 방송은 오전 5시부터 오후 7시까지 매주 평일에 편성된다. 이 세 방송국은 매일 저녁마다 [BBC 사우스이스트](../Page/BBC_사우스이스트.md "wikilink") 방송권역내 지역방송국 두 곳과 함께 공동 네트워크 프로그램을 진행하고 있다. 방송을 마친 후 심야 시간대에는 [BBC 라디오 5 라이브의](../Page/BBC_라디오_5_라이브.md "wikilink") 프로그램을 중계 편성하고 있다.
 
 ### 온라인과 상호 방송
 
@@ -31,7 +31,7 @@ BBC 사우스는 규모와 체계 개편을 수차례 거쳤다. 2000년 10월 1
 
 ## 스튜디오
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:BBC_Southampton_-_geograph.org.uk_-_1718161.jpg "wikilink") 헤이브로크 로에 위치한 BBC 사우스의 스튜디오 센터\]\] BBC 사우스의 지역방송 센터는 [사우샘프턴](https://ko.wikipedia.org/wiki/사우샘프턴 "wikilink")에 있으며 지역 라디오와 텔레비전 스튜디오는 [브라이턴](https://ko.wikipedia.org/wiki/브라이턴 "wikilink"), [옥스퍼드](https://ko.wikipedia.org/wiki/옥스퍼드 "wikilink"), [포츠머스](https://ko.wikipedia.org/wiki/포츠머스 "wikilink"), [레딩](https://ko.wikipedia.org/wiki/레딩_\(버크셔_주\) "wikilink") 등지에 산재해 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:BBC_Southampton_-_geograph.org.uk_-_1718161.jpg "wikilink") 헤이브로크 로에 위치한 BBC 사우스의 스튜디오 센터\]\] BBC 사우스의 지역방송 센터는 [사우샘프턴](../Page/사우샘프턴.md "wikilink")에 있으며 지역 라디오와 텔레비전 스튜디오는 [브라이턴](../Page/브라이턴.md "wikilink"), [옥스퍼드](../Page/옥스퍼드.md "wikilink"), [포츠머스](../Page/포츠머스.md "wikilink"), [레딩](https://ko.wikipedia.org/wiki/레딩_\(버크셔_주\) "wikilink") 등지에 산재해 있다.
 
 1991년 지금의 스튜디오로 이전하기 전까지 BBC 사우스는 [사우샘프턴 터미너스 역](https://ko.wikipedia.org/wiki/사우샘프턴_터미너스_역 "wikilink") 옆에 위치한 옛 호텔 건물인 사우스웨스턴하우스를 사옥으로 썼다. 이곳 1층은 대서양 정기 항로의 승객들을 위한 시설을 제공했던 곳이며, 나중에는 [노르망디 상륙 작전](https://ko.wikipedia.org/wiki/노르망디_상륙_작전 "wikilink") 동안 군사본부로 쓰였다. 사우샘프턴 항이 시원하게 펼쳐진 조망으로 유명한 곳이었으며 퀸 메리호의 입항 순간이 촬영되는 등 여러 사건이 쓰여진 자리이기도 했다. 다만 카메라는 건물 지붕에서만 설치될 수 있었던 데다가 사우스웨스턴하우스에서 썼던 장비들은 다른 BBC 지역국에서 가져왔거나 중개로 들여온 것이라 믿지 못할 기술로 악명이 높았다.\[3\] 1970년대에는 컬러 텔레비전 방송이 개시되면서 사옥을 대규모로 재공사하게 되었는데, 그 결과 메인 스튜디오 한 곳 (《사우스 투데이》용 스튜디오)와 뉴스 단신과 막간방송을 위한 작은 보도 스튜디오가 새로 만들어졌다. 작은 스튜디오의 카메라는 바깥 복도에 설치해 방 안을 바라보도록 하는 경우가 일반적이었다.\[4\]
 

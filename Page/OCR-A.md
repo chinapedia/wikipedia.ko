@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OCR-A](https://ko.wikipedia.org/wiki/OCR-A).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:OCR-A_SP.svg "wikilink") **OCR-A**는 1968년 컴퓨터 광학 문자 인식의 초기에 등장한 [글꼴로](https://ko.wikipedia.org/wiki/컴퓨터_글꼴 "wikilink"), 최초로 컴퓨터뿐만 아니라 동시에 사람도 인식 할 수있는 글꼴이 필요할 때 사용되었었다. \[1\]
+[오른쪽](https://ko.wikipedia.org/wiki/파일:OCR-A_SP.svg "wikilink") **OCR-A**는 1968년 컴퓨터 광학 문자 인식의 초기에 등장한 [글꼴로](../Page/컴퓨터_글꼴.md "wikilink"), 최초로 컴퓨터뿐만 아니라 동시에 사람도 인식 할 수있는 글꼴이 필요할 때 사용되었었다. \[1\]
 
 OCR-A는 간단하고 두터운 획을 사용하여 인식 가능한 문자를 제공했다.\[2\]
 
@@ -15,11 +15,11 @@ OCR-A 글꼴은 [ANSI](https://ko.wikipedia.org/wiki/ANSI "wikilink")( American 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Matt-OCR-A-B.png "wikilink") 1968년 ATF(American Type Founders)는 미국 표준 국(US Bureau of Standards)에서 정한 기준을 충족하는 최초의 광학 문자 인식 글꼴 중 하나 인 OCR-A를 제작했다. 디자인은 간단하여 기계로 쉽게 읽을 수 있지만 육안으로 읽기는 더 어려워졌다.\[4\]
 
-금속 유형의 인쇄에서 컴퓨터 기반의 출력 조판 방식으로 바뀜에 따라 Tor Lillqvist는 메타폰트(MetaFont)를 사용하여 OCR-A 글꼴을 고안했다. 그 정의는 리처드 B. 웨일즈(Richard B. Wales)에 의해 이후에 개선되었다. 그들의 작업은 [CTAN](https://ko.wikipedia.org/wiki/CTAN "wikilink") 에서 확인 가능하다.\[5\]
+금속 유형의 인쇄에서 컴퓨터 기반의 출력 조판 방식으로 바뀜에 따라 Tor Lillqvist는 메타폰트(MetaFont)를 사용하여 OCR-A 글꼴을 고안했다. 그 정의는 리처드 B. 웨일즈(Richard B. Wales)에 의해 이후에 개선되었다. 그들의 작업은 [CTAN](../Page/CTAN.md "wikilink") 에서 확인 가능하다.\[5\]
 
-무료 버전의 글꼴을 사용자가 쉽게 이용할 수 있도록하기 위해 존 사우터(John Sauter)는 2004 년 [포트레이스](https://ko.wikipedia.org/wiki/포트레이스 "wikilink")(potrace) 및 [폰트포지](../Page/폰트포지.md "wikilink")(FontForge) 를 사용하여 MetaFont 정의를 [윈도우상에서](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우 "wikilink") 작동하는 [트루타입](https://ko.wikipedia.org/wiki/트루타입 "wikilink")(TrueType)으로 변환했다.\[6\] 2007 년 거칸 셍건(Gürkan Sengün)은 이 구현에서 [데비안](https://ko.wikipedia.org/wiki/데비안 "wikilink") 패키지를 만들어냈다.\[7\] 2008 년, 뤽 데브로이(Luc Devroye)는 존 사우터(John Sauter)의 구현에서 수직 위치를 수정하고 소문자 z에대한 작업을 완료했다.\[8\]
+무료 버전의 글꼴을 사용자가 쉽게 이용할 수 있도록하기 위해 존 사우터(John Sauter)는 2004 년 [포트레이스](../Page/포트레이스.md "wikilink")(potrace) 및 [폰트포지](../Page/폰트포지.md "wikilink")(FontForge) 를 사용하여 MetaFont 정의를 [윈도우상에서](../Page/마이크로소프트_윈도우.md "wikilink") 작동하는 [트루타입](../Page/트루타입.md "wikilink")(TrueType)으로 변환했다.\[6\] 2007 년 거칸 셍건(Gürkan Sengün)은 이 구현에서 [데비안](../Page/데비안.md "wikilink") 패키지를 만들어냈다.\[7\] 2008 년, 뤽 데브로이(Luc Devroye)는 존 사우터(John Sauter)의 구현에서 수직 위치를 수정하고 소문자 z에대한 작업을 완료했다.\[8\]
 
-독립적으로 매튜 스칼라(Matthew Skala)는\[9\] mftrace\[10\] 를 사용하여 2006 년 메타폰트(Metafont) 정의를 [트루타입](https://ko.wikipedia.org/wiki/트루타입 "wikilink") 형식으로 변환했다. 2011 년에는 메타폰트(Metafont) 정의를 다시 작성하여 중간 버전 추적없이 직접 개요를 생성하는 새 버전을 릴리스했다. 2012 년 9 월 27 일에 그는 구현을 버전 0.2로 업데이트했다.\[11\]
+독립적으로 매튜 스칼라(Matthew Skala)는\[9\] mftrace\[10\] 를 사용하여 2006 년 메타폰트(Metafont) 정의를 [트루타입](../Page/트루타입.md "wikilink") 형식으로 변환했다. 2011 년에는 메타폰트(Metafont) 정의를 다시 작성하여 중간 버전 추적없이 직접 개요를 생성하는 새 버전을 릴리스했다. 2012 년 9 월 27 일에 그는 구현을 버전 0.2로 업데이트했다.\[11\]
 
 매튜 스칼라(Matthew Skala)는 [퍼블릭도메인](https://ko.wikipedia.org/wiki/퍼블릭도메인 "wikilink")으로 OCR-A, [OCR-B](../Page/OCR-B.md "wikilink") 폰트와 소스 모두를 공개했다.\[12\]
 

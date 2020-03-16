@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DPR LIVE](https://ko.wikipedia.org/wiki/DPR_LIVE).
 
 
-**디피알 라이브** (DPR LIVE, , [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") \~ )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")이다. 데뷔 앨범인 《Coming to You Live》에 [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink"), [로꼬](https://ko.wikipedia.org/wiki/로꼬 "wikilink"), [크러쉬](https://ko.wikipedia.org/wiki/크러쉬 "wikilink"), [딘](https://ko.wikipedia.org/wiki/딘 "wikilink") 등 국내 힙합 씬을 대표하는 아티스트들이 대거 참여하여 ‘아티스트가 인정한 아티스트’로 알려지게 되었다.
+**디피알 라이브** (DPR LIVE, , [1993년](../Page/1993년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")이다. 데뷔 앨범인 《Coming to You Live》에 [박재범](../Page/박재범.md "wikilink"), [로꼬](../Page/로꼬.md "wikilink"), [크러쉬](https://ko.wikipedia.org/wiki/크러쉬 "wikilink"), [딘](https://ko.wikipedia.org/wiki/딘 "wikilink") 등 국내 힙합 씬을 대표하는 아티스트들이 대거 참여하여 ‘아티스트가 인정한 아티스트’로 알려지게 되었다.
 
 ## 학력
 
@@ -9,14 +9,14 @@
 
 ## 음반
 
-#### [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") 앨범
+#### [EP](../Page/익스텐디드_플레이.md "wikilink") 앨범
 
 | 날짜         | 앨범                   | 가수명     |
 | ---------- | -------------------- | ------- |
 | 2017.03.15 | 《Coming To You Live》 | 디피알 라이브 |
 | 2017.12.07 | 《Her》                | 디피알 라이브 |
 
-#### [EP](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink") 앨범 수록곡
+#### [EP](../Page/익스텐디드_플레이.md "wikilink") 앨범 수록곡
 
 ### [싱글 앨범](https://ko.wikipedia.org/wiki/싱글 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LSI ](https://ko.wikipedia.org/wiki/LSI_).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:LSI-Logic-Logo.svg "wikilink") **LSI 코퍼레이션**(LSI Corporation)은 [산호세에](https://ko.wikipedia.org/wiki/산호세_\(캘리포니아주\) "wikilink") 위치한 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 기업의 하나로, 데이터 센터, 모바일 네트워크 클라이언트 컴퓨팅의 스토리지와 네트워킹을 가속화하는 반도체와 소프트웨어를 설계하였다.\[1\]\[2\]\[3\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:LSI-Logic-Logo.svg "wikilink") **LSI 코퍼레이션**(LSI Corporation)은 [산호세에](../Page/산호세_\(캘리포니아주\).md "wikilink") 위치한 [미국](../Page/미국.md "wikilink")의 기업의 하나로, 데이터 센터, 모바일 네트워크 클라이언트 컴퓨팅의 스토리지와 네트워킹을 가속화하는 반도체와 소프트웨어를 설계하였다.\[1\]\[2\]\[3\]
 
 2014년 5월 6일, LSI 코퍼레이션은 [브로드컴 리미티드](https://ko.wikipedia.org/wiki/브로드컴_리미티드 "wikilink")(이전 이름: [아바고 테크놀로지스](https://ko.wikipedia.org/wiki/아바고_테크놀로지스 "wikilink"))에 6,600,000,000 달러에 인수되었다.\[4\] 회사가 모회사로 병합되면서 LSI 브랜드를 계속 이어나가고 있다.
 

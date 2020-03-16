@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [How Do You Sleep\?](https://ko.wikipedia.org/wiki/How_Do_You_Sleep\?).
 
 
-〈**How Do You Sleep?**〉은 영국의 음악가 [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 자신의 1971년도 음반 《[Imagine](https://ko.wikipedia.org/wiki/Imagine_\(존_레논의_음반\) "wikilink")》에 담은 노래다. 노래는 자신과 같은 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 전 멤버이자 또한 자신의 작곡가 파트너였던 [폴 매카트니를](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") 향한 독설이 담겨 있다. 레논은 매카트니가 《[Ram](../Page/Ram_\(음반\).md "wikilink")》 앨범을 통해 자신을 개인적으로 모욕한 것에 대한 반응으로 곡을 썼다. 이 트랙에는 또한 전 비틀즈 멤버 [조지 해리슨의](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") [슬라이드 기타](https://ko.wikipedia.org/wiki/슬라이드_기타 "wikilink") 연주가 수록되었다.
+〈**How Do You Sleep?**〉은 영국의 음악가 [존 레논이](../Page/존_레논.md "wikilink") 자신의 1971년도 음반 《[Imagine](https://ko.wikipedia.org/wiki/Imagine_\(존_레논의_음반\) "wikilink")》에 담은 노래다. 노래는 자신과 같은 [비틀즈](../Page/비틀즈.md "wikilink")의 전 멤버이자 또한 자신의 작곡가 파트너였던 [폴 매카트니를](../Page/폴_매카트니.md "wikilink") 향한 독설이 담겨 있다. 레논은 매카트니가 《[Ram](../Page/Ram_\(음반\).md "wikilink")》 앨범을 통해 자신을 개인적으로 모욕한 것에 대한 반응으로 곡을 썼다. 이 트랙에는 또한 전 비틀즈 멤버 [조지 해리슨의](../Page/조지_해리슨.md "wikilink") [슬라이드 기타](https://ko.wikipedia.org/wiki/슬라이드_기타 "wikilink") 연주가 수록되었다.
 
 ## 작곡과 가사
 
-폴 매카트니의 《[Ram](../Page/Ram_\(음반\).md "wikilink")》이 발표된 뒤인 1971년 3월, 존 레논은 매카트니가 자신을 공격했다고 느꼈다. 폴은 훗날 〈[Too Many People](https://ko.wikipedia.org/wiki/Too_Many_People "wikilink")〉의 가사가 레논을 비꼴 의도가 포함되어 있었음을 시인했다.\[1\] 레논은 수록곡 〈3 Legs〉 또한 자신을 공격하려는 의도로 분석했다.\[2\] 《Ram》의 뒷 커버에는 딱정벌레 두 마리가 교미하는 모습이 담겼는데, 이는 매카트니가 다른 비틀즈 멤버에게 당하는 처우를 언급하는 것으로 보인다.
+폴 매카트니의 《[Ram](../Page/Ram_\(음반\).md "wikilink")》이 발표된 뒤인 1971년 3월, 존 레논은 매카트니가 자신을 공격했다고 느꼈다. 폴은 훗날 〈[Too Many People](../Page/Too_Many_People.md "wikilink")〉의 가사가 레논을 비꼴 의도가 포함되어 있었음을 시인했다.\[1\] 레논은 수록곡 〈3 Legs〉 또한 자신을 공격하려는 의도로 분석했다.\[2\] 《Ram》의 뒷 커버에는 딱정벌레 두 마리가 교미하는 모습이 담겼는데, 이는 매카트니가 다른 비틀즈 멤버에게 당하는 처우를 언급하는 것으로 보인다.
 
 〈How Do You Sleep?〉의 가사에는 "폴 매카트니 사망설"을 언급하는 대목이 있다. "네가 죽었다던 그 괴짜들 말이 옳았어(Those freaks was right when they said you was dead)".\[3\] 또한 노래의 도입부 가사에는 비틀즈의 역사적인 1967년도 음반 《[Sgt. Pepper's Lonely Hearts Club Band](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink")》를 언급하고 있다. "페퍼 상사가 널 꽤나 놀라게 한 모양이지(So Sgt. Pepper took you by surprise)"\[4\] 이 가사 이전에 나오는 전위적인 소리는 페퍼 상사 음반의 도입부를 장식하는 소리와 비슷하다.
 
-가사 중 "네가 해낸 것이라곤 yesterday가 전부지 / 그리고 떠난 뒤론 another day가 끝이야(The only thing you done was yesterday / And since you've gone you're just another day)"는 매카트니를 지목하는 대목으로, 첫 번째 가사는 비틀즈의 1965년도 노래 〈[Yesterday](https://ko.wikipedia.org/wiki/Yesterday "wikilink")〉의 언급이며, 두 번째 가사는 1971년 2월 출시된 매카트니의 히트 싱글 〈[Another Day](https://ko.wikipedia.org/wiki/Another_Day_\(폴_매카트니의_노래\) "wikilink")〉의 언급이다. 레논은 처음에 가사를 "아무렴 그 망할 것도 훔친 것이겠지(You probably pinched that bitch anyway)"라고 썼다. 이는 매카트니가 〈Yesterday〉를 훔친 것인지 판단이 서지 않아, 여러 차례 레논, 해리슨, [조지 마틴과](https://ko.wikipedia.org/wiki/조지_마틴 "wikilink") 다른 사람들에게 이런 멜로디를 들었던 적이 있는 지를 물어본 것에 대한 언급이다. 〈How Do You Sleep?〉의 작곡 크레디트에는 오직 존 레논만이 표기돼 있지만, [오노 요코와](https://ko.wikipedia.org/wiki/오노_요코 "wikilink") 레논의 매니저인 [앨런 클라인](https://ko.wikipedia.org/wiki/앨런_클라인 "wikilink") 또한 가사에 기여했다는 여러 보도가 존재한다.\[5\]
+가사 중 "네가 해낸 것이라곤 yesterday가 전부지 / 그리고 떠난 뒤론 another day가 끝이야(The only thing you done was yesterday / And since you've gone you're just another day)"는 매카트니를 지목하는 대목으로, 첫 번째 가사는 비틀즈의 1965년도 노래 〈[Yesterday](https://ko.wikipedia.org/wiki/Yesterday "wikilink")〉의 언급이며, 두 번째 가사는 1971년 2월 출시된 매카트니의 히트 싱글 〈[Another Day](https://ko.wikipedia.org/wiki/Another_Day_\(폴_매카트니의_노래\) "wikilink")〉의 언급이다. 레논은 처음에 가사를 "아무렴 그 망할 것도 훔친 것이겠지(You probably pinched that bitch anyway)"라고 썼다. 이는 매카트니가 〈Yesterday〉를 훔친 것인지 판단이 서지 않아, 여러 차례 레논, 해리슨, [조지 마틴과](../Page/조지_마틴.md "wikilink") 다른 사람들에게 이런 멜로디를 들었던 적이 있는 지를 물어본 것에 대한 언급이다. 〈How Do You Sleep?〉의 작곡 크레디트에는 오직 존 레논만이 표기돼 있지만, [오노 요코와](../Page/오노_요코.md "wikilink") 레논의 매니저인 [앨런 클라인](../Page/앨런_클라인.md "wikilink") 또한 가사에 기여했다는 여러 보도가 존재한다.\[5\]
 
 ## 녹음
 
-레논은 《Imagine》 앨범 세션 당시에 〈How Do You Sleep?〉을 녹음했다. 노래에는 조지 해리슨이 연주한 슬라이드 기타 연주가 들어갔다.\[6\] 레논은 리듬 기타와 보컬을 연주했고, 이외에 클라우스 부어만은 베이스를, 앨런 화이트는 드럼을, 테너 터너와 로드 린튼과 앤디 데이비스는 통기타를 연주했으며, 피아노 구간은 니키 홉킨스와 존 토트가 맡았다.\[7\] [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") 또한 곡의 녹음 세션 도중 방문했지만 곡을 보고는 화가 나 "이건 선을 넘었어, 존(That's enough, John)"이라고 말했다.\[8\] 최종 믹스 버전은 음반에 여타 트랙과는 달리 스테레오가 아닌 모노로 출시되었다.
+레논은 《Imagine》 앨범 세션 당시에 〈How Do You Sleep?〉을 녹음했다. 노래에는 조지 해리슨이 연주한 슬라이드 기타 연주가 들어갔다.\[6\] 레논은 리듬 기타와 보컬을 연주했고, 이외에 클라우스 부어만은 베이스를, 앨런 화이트는 드럼을, 테너 터너와 로드 린튼과 앤디 데이비스는 통기타를 연주했으며, 피아노 구간은 니키 홉킨스와 존 토트가 맡았다.\[7\] [링고 스타](../Page/링고_스타.md "wikilink") 또한 곡의 녹음 세션 도중 방문했지만 곡을 보고는 화가 나 "이건 선을 넘었어, 존(That's enough, John)"이라고 말했다.\[8\] 최종 믹스 버전은 음반에 여타 트랙과는 달리 스테레오가 아닌 모노로 출시되었다.
 
 다큐멘터리 영화 《이메진》에서 곡의 녹음 장면을 보면, 해리슨은 레논 옆에서 연주하고 있으며 레논은 엔지니어에게 녹음을 중단하라고 요청하기 전 "이 망할 놈아, 지금 잠이 오냐?(How do you sleep ya cunt?)"라고 노래 부른다.
 
@@ -27,8 +27,8 @@
 
 ## 참여 인원
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 보컬, 기타\[15\]
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") – [슬라이드 기타](https://ko.wikipedia.org/wiki/슬라이드_기타 "wikilink")
+  - [존 레논](../Page/존_레논.md "wikilink") – 보컬, 기타\[15\]
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") – [슬라이드 기타](https://ko.wikipedia.org/wiki/슬라이드_기타 "wikilink")
   - [니키 홉킨스](https://ko.wikipedia.org/wiki/니키_홉킨스 "wikilink") – 월리처 전기 피아노
   - 존 토트 – 피아노
   - 테드 터너 – 통기타

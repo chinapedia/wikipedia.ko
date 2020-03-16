@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GTK+   ](https://ko.wikipedia.org/wiki/GTK+___).
 
 
-아래는 [GUI 위젯을](https://ko.wikipedia.org/wiki/GUI_위젯 "wikilink") 위해 [GTK+](https://ko.wikipedia.org/wiki/GTK+ "wikilink") 및 [클러터를](https://ko.wikipedia.org/wiki/클러터_\(소프트웨어\) "wikilink") 사용하는 응용 프로그램의 목록이다.
+아래는 [GUI 위젯을](../Page/GUI_위젯.md "wikilink") 위해 [GTK+](../Page/GTK+.md "wikilink") 및 [클러터를](https://ko.wikipedia.org/wiki/클러터_\(소프트웨어\) "wikilink") 사용하는 응용 프로그램의 목록이다.
 
 ## 셸, 사용자 인터페이스, 애플리케이션 런처
 
@@ -25,11 +25,11 @@
 
   - [Disk Usage Analyzer](https://ko.wikipedia.org/wiki/Disk_Usage_Analyzer "wikilink")
   - [그놈 디스크](https://ko.wikipedia.org/wiki/그놈_디스크 "wikilink")
-  - [GParted](https://ko.wikipedia.org/wiki/GParted "wikilink")
+  - [GParted](../Page/GParted.md "wikilink")
   - [GDM](https://ko.wikipedia.org/wiki/그놈_디스플레이_매니저 "wikilink")
   - [GNOME Keyring Manager](https://ko.wikipedia.org/wiki/GNOME_Keyring "wikilink")
   - [GNOME 스크린세이버](https://ko.wikipedia.org/wiki/gnome-screensaver "wikilink")
-  - [알라카르트 (소프트웨어)](https://ko.wikipedia.org/wiki/알라카르트_\(소프트웨어\) "wikilink")
+  - [알라카르트 (소프트웨어)](../Page/알라카르트_\(소프트웨어\).md "wikilink")
 
 ### 최종 사용자 유틸리티
 
@@ -37,13 +37,13 @@
   - [치즈](https://ko.wikipedia.org/wiki/치즈_\(소프트웨어\) "wikilink")
   - [Conduit Synchronizer](https://ko.wikipedia.org/wiki/Conduit "wikilink")
   - [그놈의 눈](../Page/그놈의_눈.md "wikilink")
-  - [Getting Things Done](https://ko.wikipedia.org/wiki/Getting_Things_Done "wikilink")
+  - [Getting Things Done](../Page/Getting_Things_Done.md "wikilink")
   - [gnee](https://ko.wikipedia.org/wiki/Xnee "wikilink")
   - [그놈 박스](https://ko.wikipedia.org/wiki/박스_\(소프트웨어\( "wikilink")
   - [그놈 스크린샷](https://ko.wikipedia.org/wiki/그놈_스크린샷 "wikilink")
   - [그놈 캘큘레이터](https://ko.wikipedia.org/wiki/그놈_캘큘레이터 "wikilink")
   - [그놈 커맨더](https://ko.wikipedia.org/wiki/그놈_커맨더 "wikilink")
-  - [노틸러스](https://ko.wikipedia.org/wiki/노틸러스_\(파일_관리자\) "wikilink")
+  - [노틸러스](../Page/노틸러스_\(파일_관리자\).md "wikilink")
   - [그놈 터미널](https://ko.wikipedia.org/wiki/그놈_터미널 "wikilink")
   - [Gnote](https://ko.wikipedia.org/wiki/Gnote "wikilink")
   - [Gucharmap](https://ko.wikipedia.org/wiki/Gucharmap "wikilink")
@@ -52,7 +52,7 @@
   - [Scribes](https://ko.wikipedia.org/wiki/Scribes "wikilink")
   - [Seahorse](https://ko.wikipedia.org/wiki/Seahorse "wikilink")
   - [스시](https://ko.wikipedia.org/wiki/스시_\(소프트웨어\) "wikilink")
-  - [톰보이](https://ko.wikipedia.org/wiki/톰보이_\(소프트웨어\) "wikilink")
+  - [톰보이](../Page/톰보이_\(소프트웨어\).md "wikilink")
   - [Vinagre](https://ko.wikipedia.org/wiki/Vinagre "wikilink")
   - [비노](https://ko.wikipedia.org/wiki/비노_\(VNC_서버\) "wikilink")
 
@@ -75,8 +75,8 @@
 
 ### 그래픽 편집기
 
-  - [김프](https://ko.wikipedia.org/wiki/김프 "wikilink")
-  - [잉크스케이프](https://ko.wikipedia.org/wiki/잉크스케이프 "wikilink")
+  - [김프](../Page/김프.md "wikilink")
+  - [잉크스케이프](../Page/잉크스케이프.md "wikilink")
   - [마이페인트](../Page/마이페인트.md "wikilink")
   - [핀타](../Page/핀타.md "wikilink")
 
@@ -90,9 +90,9 @@
 
 ### 웹 브라우저
 
-  - [웹](https://ko.wikipedia.org/wiki/웹_\(웹_브라우저\) "wikilink")
+  - [웹](../Page/웹_\(웹_브라우저\).md "wikilink")
   - [미도리](https://ko.wikipedia.org/wiki/미도리_\(웹_브라우저\) "wikilink")
-  - [유즈블](https://ko.wikipedia.org/wiki/유즈블 "wikilink")
+  - [유즈블](../Page/유즈블.md "wikilink")
   - [xombrero](https://ko.wikipedia.org/wiki/xombrero "wikilink")
 
 ### 이메일 클라이언트
@@ -106,31 +106,31 @@
 
 ### 사람 간 커뮤니케이션 소프트웨어
 
-  - [엠퍼시](https://ko.wikipedia.org/wiki/엠퍼시 "wikilink")
-  - [에메센](https://ko.wikipedia.org/wiki/에메센 "wikilink")
-  - [피진](https://ko.wikipedia.org/wiki/피진_\(소프트웨어\) "wikilink")
+  - [엠퍼시](../Page/엠퍼시.md "wikilink")
+  - [에메센](../Page/에메센.md "wikilink")
+  - [피진](../Page/피진_\(소프트웨어\).md "wikilink")
   - [Smuxi](https://ko.wikipedia.org/wiki/Smuxi "wikilink")
-  - [엑스챗](https://ko.wikipedia.org/wiki/엑스챗 "wikilink")
+  - [엑스챗](../Page/엑스챗.md "wikilink")
   - [Gajim](https://ko.wikipedia.org/wiki/Gajim "wikilink")
 
 ### 파일 공유
 
   - [Deluge](https://ko.wikipedia.org/wiki/Deluge "wikilink")
-  - [트랜스미션](https://ko.wikipedia.org/wiki/트랜스미션_\(소프트웨어\) "wikilink")
+  - [트랜스미션](../Page/트랜스미션_\(소프트웨어\).md "wikilink")
   - [Galago](https://ko.wikipedia.org/wiki/Galago "wikilink")
   - [Wget](../Page/Wget.md "wikilink")
-  - [Gwibber](https://ko.wikipedia.org/wiki/Gwibber "wikilink")
+  - [Gwibber](../Page/Gwibber.md "wikilink")
   - [Liferea](https://ko.wikipedia.org/wiki/Liferea "wikilink")
   - [팬](https://ko.wikipedia.org/wiki/팬_\(뉴스리더\) "wikilink")
 
 ## 오피스 소프트웨어
 
-  - [애비워드](https://ko.wikipedia.org/wiki/애비워드 "wikilink")
+  - [애비워드](../Page/애비워드.md "wikilink")
   - [Ease](https://ko.wikipedia.org/wiki/Ease "wikilink")
-  - [그누캐시](https://ko.wikipedia.org/wiki/그누캐시 "wikilink")
+  - [그누캐시](../Page/그누캐시.md "wikilink")
   - [Gnumeric](https://ko.wikipedia.org/wiki/Gnumeric "wikilink")
   - [BOND](https://ko.wikipedia.org/wiki/BOND "wikilink")
-  - [에빈스](https://ko.wikipedia.org/wiki/에빈스 "wikilink")
+  - [에빈스](../Page/에빈스.md "wikilink")
   - [그놈 딕셔너리](https://ko.wikipedia.org/wiki/그놈_딕셔너리 "wikilink")
   - [에벌루션](../Page/에벌루션_\(소프트웨어\).md "wikilink")
   - [OCRFeeder](https://ko.wikipedia.org/wiki/OCRFeeder "wikilink")
@@ -140,8 +140,8 @@
   - [Anjuta](https://ko.wikipedia.org/wiki/Anjuta "wikilink")
   - Builder
   - [Glade Interface Designer](https://ko.wikipedia.org/wiki/Glade_Interface_Designer "wikilink")
-  - [Gedit](https://ko.wikipedia.org/wiki/Gedit "wikilink")
-  - [라자루스](https://ko.wikipedia.org/wiki/라자루스_\(IDE\) "wikilink")
+  - [Gedit](../Page/Gedit.md "wikilink")
+  - [라자루스](../Page/라자루스_\(IDE\).md "wikilink")
   - [Devhelp](https://ko.wikipedia.org/wiki/Devhelp "wikilink")
   - [Nemiver](https://ko.wikipedia.org/wiki/Nemiver "wikilink")
   - [기니 (소프트웨어)](../Page/기니_\(소프트웨어\).md "wikilink")

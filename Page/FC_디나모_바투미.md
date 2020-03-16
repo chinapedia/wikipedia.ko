@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 디나모 바투미**(, )는 [바투미](https://ko.wikipedia.org/wiki/바투미 "wikilink")를 연고로 하는 [조지아의](https://ko.wikipedia.org/wiki/조지아_\(국가\) "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [우마글레시리가](https://ko.wikipedia.org/wiki/우마글레시리가 "wikilink")에 참가하고 있다.
+**FC 디나모 바투미**(, )는 [바투미](../Page/바투미.md "wikilink")를 연고로 하는 [조지아의](../Page/조지아_\(국가\).md "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [우마글레시리가](https://ko.wikipedia.org/wiki/우마글레시리가 "wikilink")에 참가하고 있다.
 
 ## 성적
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [III](https://ko.wikipedia.org/wiki/III).
 
 
-《**스캔들III**》은 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.\[1\]
+《**스캔들III**》은 [2017년](../Page/2017년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.\[1\]
 
 ## 캐스팅
 

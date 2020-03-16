@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   III:  ](https://ko.wikipedia.org/wiki/___III:__).
 
 
-《**니드 포 스피드 III: 핫 퍼슈트**》(Need for Speed III: Hot Pursuit, 유럽 출시명: Need for Speed: Hot Pursuit, 일본 출시명: Over Drivin' III)는 1998년 출시된 [레이싱](https://ko.wikipedia.org/wiki/경주_게임 "wikilink") [비디오 게임의](https://ko.wikipedia.org/wiki/비디오_게임 "wikilink") 하나로, [니드 포 스피드 시리즈](https://ko.wikipedia.org/wiki/니드_포_스피드 "wikilink") 중 세 번째 게임이다. 이 게임은 1998년 3월 플레이스테이션용으로 출시되었다가, 나중에 1998년 10월 마이크로소프트 윈도우용으로 강화 포팅되었다. [플레이스테이션 2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 버전이 개발되었으나 머지 않아 취소되었다. 이 게임은 2002년에 [니드 포 스피드: 무한질주 2라는](https://ko.wikipedia.org/wiki/니드_포_스피드:_무한질주_2 "wikilink") 이름으로 출시된 속편이 있다.
+《**니드 포 스피드 III: 핫 퍼슈트**》(Need for Speed III: Hot Pursuit, 유럽 출시명: Need for Speed: Hot Pursuit, 일본 출시명: Over Drivin' III)는 1998년 출시된 [레이싱](https://ko.wikipedia.org/wiki/경주_게임 "wikilink") [비디오 게임의](../Page/비디오_게임.md "wikilink") 하나로, [니드 포 스피드 시리즈](../Page/니드_포_스피드.md "wikilink") 중 세 번째 게임이다. 이 게임은 1998년 3월 플레이스테이션용으로 출시되었다가, 나중에 1998년 10월 마이크로소프트 윈도우용으로 강화 포팅되었다. [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink") 버전이 개발되었으나 머지 않아 취소되었다. 이 게임은 2002년에 [니드 포 스피드: 무한질주 2라는](../Page/니드_포_스피드:_무한질주_2.md "wikilink") 이름으로 출시된 속편이 있다.
 
 ## 평가
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  IV](https://ko.wikipedia.org/wiki/__IV).
 
 
-《**파이널 판타지 IV**》(, , 북아메리카 릴리스에서는 **파이널 판타지 II**)는 [스퀘어](https://ko.wikipedia.org/wiki/스퀘어_\(일본의_기업\) "wikilink")(현재의 [스퀘어 에닉스](https://ko.wikipedia.org/wiki/스퀘어_에닉스 "wikilink"))가 개발, 배급한 [롤플레잉 비디오 게임의](https://ko.wikipedia.org/wiki/롤플레잉_비디오_게임 "wikilink") 하나이다. 1991년에 출시되었으며, [파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink") 시리즈 가운데 네 번째 게임이다.
+《**파이널 판타지 IV**》(, , 북아메리카 릴리스에서는 **파이널 판타지 II**)는 [스퀘어](https://ko.wikipedia.org/wiki/스퀘어_\(일본의_기업\) "wikilink")(현재의 [스퀘어 에닉스](../Page/스퀘어_에닉스.md "wikilink"))가 개발, 배급한 [롤플레잉 비디오 게임의](https://ko.wikipedia.org/wiki/롤플레잉_비디오_게임 "wikilink") 하나이다. 1991년에 출시되었으며, [파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink") 시리즈 가운데 네 번째 게임이다.
 
 ## 각주
 

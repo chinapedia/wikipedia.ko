@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I See Fire](https://ko.wikipedia.org/wiki/I_See_Fire).
 
 
-"**I See Fire**"는 잉글랜드의 싱어송라이터 [에드 시런의](https://ko.wikipedia.org/wiki/에드_시런 "wikilink") 노래이다. 2013년 영화 《[호빗: 스마우그의 폐허](https://ko.wikipedia.org/wiki/호빗:_스마우그의_폐허 "wikilink")》의 엔딩 크레디트에 사용되었다.
+"**I See Fire**"는 잉글랜드의 싱어송라이터 [에드 시런의](../Page/에드_시런.md "wikilink") 노래이다. 2013년 영화 《[호빗: 스마우그의 폐허](../Page/호빗:_스마우그의_폐허.md "wikilink")》의 엔딩 크레디트에 사용되었다.
 
 ## 외부 링크
 

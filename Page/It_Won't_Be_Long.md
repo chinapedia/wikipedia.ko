@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [It Won\'t Be Long](https://ko.wikipedia.org/wiki/It_Won\'t_Be_Long).
 
 
-〈**It Won't Be Long**〉은 영국의 록 밴드 비틀즈의 두 번째 정규 음반 《[With the Beatles](https://ko.wikipedia.org/wiki/With_the_Beatles "wikilink")》의 오프닝 트랙으로 쓰인, 그리고 이 음반을 위해 처음 녹음한 창작곡이다. [레논-매카트니](https://ko.wikipedia.org/wiki/레논-매카트니 "wikilink")로 크레디트 되었으나, 존 레논이 대부분 작곡했으며 폴 매카트니는 가사와 편곡을 보조했다.
+〈**It Won't Be Long**〉은 영국의 록 밴드 비틀즈의 두 번째 정규 음반 《[With the Beatles](https://ko.wikipedia.org/wiki/With_the_Beatles "wikilink")》의 오프닝 트랙으로 쓰인, 그리고 이 음반을 위해 처음 녹음한 창작곡이다. [레논-매카트니](../Page/레논-매카트니.md "wikilink")로 크레디트 되었으나, 존 레논이 대부분 작곡했으며 폴 매카트니는 가사와 편곡을 보조했다.
 
 ## 작곡
 
@@ -17,11 +17,11 @@
 
 ## 참여 인원
 
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 더블 트래킹 보컬, 리듬 기타
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – 백 보컬, 베이스
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") – 백 보컬, 리드 기타
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") – 드럼
-  - [조지 마틴](https://ko.wikipedia.org/wiki/조지_마틴 "wikilink") – 프로듀서
+  - [존 레논](../Page/존_레논.md "wikilink") – 더블 트래킹 보컬, 리듬 기타
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") – 백 보컬, 베이스
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") – 백 보컬, 리드 기타
+  - [링고 스타](../Page/링고_스타.md "wikilink") – 드럼
+  - [조지 마틴](../Page/조지_마틴.md "wikilink") – 프로듀서
   - [노먼 스미스](https://ko.wikipedia.org/wiki/노먼_스미스 "wikilink") – 엔지니어
 
 <!-- end list -->

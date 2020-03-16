@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NK  ](https://ko.wikipedia.org/wiki/NK__).
 
 
-**NK 루다르 벨레네**()는 [벨레네](https://ko.wikipedia.org/wiki/벨레네 "wikilink")를 연고로 하는 [슬로베니아](https://ko.wikipedia.org/wiki/슬로베니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [슬로베니아 프르바리가에](https://ko.wikipedia.org/wiki/슬로베니아_프르바리가 "wikilink") 참가하고 있다.
+**NK 루다르 벨레네**()는 [벨레네](https://ko.wikipedia.org/wiki/벨레네 "wikilink")를 연고로 하는 [슬로베니아](../Page/슬로베니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [슬로베니아 프르바리가에](../Page/슬로베니아_프르바리가.md "wikilink") 참가하고 있다.
 
 ## 성적
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
 
 
-《**폭룡전대 아바레인저 vs. 허리케인저**》(爆竜戦隊アバレンジャーVSハリケンジャー)는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [3월 12일에](https://ko.wikipedia.org/wiki/3월_12일 "wikilink") 발매된 오리지널 비디오 작품이다. 《[폭룡전대 아바레인저](https://ko.wikipedia.org/wiki/폭룡전대_아바레인저 "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 VS시리즈의 하나이다.
+《**폭룡전대 아바레인저 vs. 허리케인저**》(爆竜戦隊アバレンジャーVSハリケンジャー)는 [2004년](../Page/2004년.md "wikilink") [3월 12일에](../Page/3월_12일.md "wikilink") 발매된 오리지널 비디오 작품이다. 《[폭룡전대 아바레인저](../Page/폭룡전대_아바레인저.md "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 VS시리즈의 하나이다.
 
 ## 개요
 

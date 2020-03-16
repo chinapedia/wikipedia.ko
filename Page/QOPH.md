@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [QOPH](https://ko.wikipedia.org/wiki/QOPH).
 
 
-**QOPH**는 1994년 [스톡홀름](https://ko.wikipedia.org/wiki/스톡홀름 "wikilink")에서 결성된 [프로그레시브 록](https://ko.wikipedia.org/wiki/프로그레시브_록 "wikilink") 밴드이다.
+**QOPH**는 1994년 [스톡홀름](../Page/스톡홀름.md "wikilink")에서 결성된 [프로그레시브 록](../Page/프로그레시브_록.md "wikilink") 밴드이다.
 
 ## 개요
 
@@ -9,7 +9,7 @@ QOPH는 스웨덴 [스토너 록](https://ko.wikipedia.org/wiki/스토너_록 "w
 
 초기 곡들은 다수가 연주곡이었다.\[2\] 기타리스트 트레데릭 뢴퀴비스트가 96년 탈퇴해서 자신의 밴드 더 문을 결성한다. 그래서 QOPH의 초기곡들 몇몇은 더 문의 In Phase에도 수록되어있다.\[3\]\[4\]
 
-98년에 나온 1집 Kalejdoskopiska Aktiviteter은 연주 위주의 밴드에 실험적 뮤지션 로빈 크비스트가 스웨덴어 가사를 입혀서 발매되었다.\[5\]\[6\] 자켓은 [ABBA](https://ko.wikipedia.org/wiki/ABBA "wikilink")의 음반을 디자인하기도 했던 초현실주의자 [한스 아놀드의](https://ko.wikipedia.org/wiki/한스_아놀드 "wikilink") 작품.
+98년에 나온 1집 Kalejdoskopiska Aktiviteter은 연주 위주의 밴드에 실험적 뮤지션 로빈 크비스트가 스웨덴어 가사를 입혀서 발매되었다.\[5\]\[6\] 자켓은 [ABBA](../Page/ABBA.md "wikilink")의 음반을 디자인하기도 했던 초현실주의자 [한스 아놀드의](https://ko.wikipedia.org/wiki/한스_아놀드 "wikilink") 작품.
 
 이들은 EP Än lyser månen부터 영어가사를 쓰기 시작했고 04년에 2집 Pyrola를 발매했다. 매트 외베르그, 닉클라스 바커([아넥도텐](https://ko.wikipedia.org/wiki/아넥도텐 "wikilink")) 등이 참여했다.\[7\]
 

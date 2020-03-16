@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Paperback Writer](https://ko.wikipedia.org/wiki/Paperback_Writer).
 
 
-〈**Paperback Writer**〉는 [폴 매카트니와](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") [존 레논이](https://ko.wikipedia.org/wiki/존_레논 "wikilink") 쓴 영국의 록 밴드 [비틀즈](https://ko.wikipedia.org/wiki/비틀즈 "wikilink")의 1966년도 노래다. 이들의 11번째 싱글의 A면에 담겨 출시되었다. 그리고 싱글은 미국, 영국, 아일랜드, 서독, 호주, 뉴질랜드, 노르웨이에서 1위에 올랐다. 미국 빌보드 100에서는 이어지지 않는 두 주간 1위에 올랐고, 프랭크 시나트라의 〈[Strangers in the Night](https://ko.wikipedia.org/wiki/Strangers_in_the_Night "wikilink")〉에 가로막혔다.
+〈**Paperback Writer**〉는 [폴 매카트니와](../Page/폴_매카트니.md "wikilink") [존 레논이](../Page/존_레논.md "wikilink") 쓴 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 1966년도 노래다. 이들의 11번째 싱글의 A면에 담겨 출시되었다. 그리고 싱글은 미국, 영국, 아일랜드, 서독, 호주, 뉴질랜드, 노르웨이에서 1위에 올랐다. 미국 빌보드 100에서는 이어지지 않는 두 주간 1위에 올랐고, 프랭크 시나트라의 〈[Strangers in the Night](https://ko.wikipedia.org/wiki/Strangers_in_the_Night "wikilink")〉에 가로막혔다.
 
 〈Paperback Writer〉는 비틀즈가 1966년 마지막 투어 때 부른 마지막 최신 곡이었다.
 
 ## 영감과 가사
 
-디즈크 자키 [지미 새빌에](../Page/지미_새빌.md "wikilink") 의하면 매카트니는 자신의 이모가 부탁한 "사랑과 관련없는 싱글을 써달라"는 요청에 응하는 의미로 〈Paperback Writer〉를 썼다. 새빌은 "그 생각이 머리에 계속 머물렀을 테고, 그는 방을 이리저리 맴돌다 링고가 책을 읽고 있는 것을 발견했습니다. 그는 얼핏 보더니 자신이 책에 대한 곡을 쓰겠다고 말했어요."라고 회상했다. 매카트니는 2007년 인터뷰에서 자신이, 아마 마틴 애미스였을 수 있는 《[데일리 메일](https://ko.wikipedia.org/wiki/데일리_메일 "wikilink")》의 기사를 읽고 영감을 받았다고 말했다. 《데일리 메일》은 레논의 애독지였고, 레논과 매카트니가 작곡을 하던 때 레논의 웨이브리지 집에 신문이 있었다.
+디즈크 자키 [지미 새빌에](../Page/지미_새빌.md "wikilink") 의하면 매카트니는 자신의 이모가 부탁한 "사랑과 관련없는 싱글을 써달라"는 요청에 응하는 의미로 〈Paperback Writer〉를 썼다. 새빌은 "그 생각이 머리에 계속 머물렀을 테고, 그는 방을 이리저리 맴돌다 링고가 책을 읽고 있는 것을 발견했습니다. 그는 얼핏 보더니 자신이 책에 대한 곡을 쓰겠다고 말했어요."라고 회상했다. 매카트니는 2007년 인터뷰에서 자신이, 아마 마틴 애미스였을 수 있는 《[데일리 메일](../Page/데일리_메일.md "wikilink")》의 기사를 읽고 영감을 받았다고 말했다. 《데일리 메일》은 레논의 애독지였고, 레논과 매카트니가 작곡을 하던 때 레논의 웨이브리지 집에 신문이 있었다.
 
-사랑이라는 주제와는 별개로, 매카트니는 단적이고 고정된 코드로 구성된 멜로디의 노래를 구상했다. "존과 전 '[Long Tall Sally](../Page/Long_Tall_Sally.md "wikilink").'처럼 단 하나의 음으로 된 노래를 쓰고 싶었어요. 우린 '[The Word](https://ko.wikipedia.org/wiki/The_Word_\(노래\) "wikilink").'에서 거의 근접했죠." 매카트니는 절 구간에서 G 코드로 끝까지 가지않고 C에 멈추게 되었다며, 〈Paperback Writer〉의 이러한 목적을 거의 실패할 뻔 했다고 술회했다. 1972년에 《히트 파라더》에서 레논은 〈Paperback Writer〉가 매카트의 주도로 쓰였다고 말했다. "전 가사 몇 군데를 도울 수 있겠다고 생각했어요. 그리고 그렇게 했죠. 근데 폴의 음악이 대부분을 차지해요." 이어 1980년 《[플레이보이](https://ko.wikipedia.org/wiki/플레이보이 "wikilink")》 인터뷰에서는 "''Paperback Writer'는 [Day Tripper](https://ko.wikipedia.org/wiki/Day_Tripper "wikilink")'의 자식이지만 폴의 노래"라고 말했다.
+사랑이라는 주제와는 별개로, 매카트니는 단적이고 고정된 코드로 구성된 멜로디의 노래를 구상했다. "존과 전 '[Long Tall Sally](../Page/Long_Tall_Sally.md "wikilink").'처럼 단 하나의 음으로 된 노래를 쓰고 싶었어요. 우린 '[The Word](https://ko.wikipedia.org/wiki/The_Word_\(노래\) "wikilink").'에서 거의 근접했죠." 매카트니는 절 구간에서 G 코드로 끝까지 가지않고 C에 멈추게 되었다며, 〈Paperback Writer〉의 이러한 목적을 거의 실패할 뻔 했다고 술회했다. 1972년에 《히트 파라더》에서 레논은 〈Paperback Writer〉가 매카트의 주도로 쓰였다고 말했다. "전 가사 몇 군데를 도울 수 있겠다고 생각했어요. 그리고 그렇게 했죠. 근데 폴의 음악이 대부분을 차지해요." 이어 1980년 《[플레이보이](../Page/플레이보이.md "wikilink")》 인터뷰에서는 "''Paperback Writer'는 [Day Tripper](../Page/Day_Tripper.md "wikilink")'의 자식이지만 폴의 노래"라고 말했다.
 
 ## 녹음
 
@@ -23,7 +23,7 @@
 
 [마이클 린드세이호그가](https://ko.wikipedia.org/wiki/마이클_린드세이호그 "wikilink") 총 네 편의 홍보 영상을 연출했고 1966년 5월 19일과 20일 촬영을 했다. 첫 날에는 EMI 스튜디오에서 《에드 설리번 쇼》에 방송하기 위한 컬러 공연을 촬영했고 이는 6월 5일 전파를 탔다. 두 번째는 영국 텔레비전의 송출을 위해 찍은 흑백 영상이다. 후자는 6월 5일과 25일에 각각 《[레디 스테디 고\!](../Page/레디_스테디_고!.md "wikilink")》와 《[생크 유어 러키 스타스](../Page/생크_유어_러키_스타스.md "wikilink")》에 차례로 방송되었다.
 
-5월 20일에는 웨스트런던의 치스윅 하우스에서 또다른 컬러 영화를 제작했다.\[4\] 비틀즈는 노래에 립싱크를 하고 하우스의 온실 곳곳을 누비고 있다. 영상은 [BBC-TV](https://ko.wikipedia.org/wiki/BBC-TV "wikilink")의 《[탑 오브 더 팝스](../Page/탑_오브_더_팝스.md "wikilink")》에서 6월 2일 흑백으로 초연되었다. 5월 20일의 홍보 영상은 비틀즈의 2015년도 영상 컴필레이션 음반 《[1](https://ko.wikipedia.org/wiki/1_\(음반\) "wikilink")》에, 그리고 5월 19일과 5월 20일의 영화는 세 개 디스크 구성의 컴필레이션 《1+》에 수록되었다.\[5\]
+5월 20일에는 웨스트런던의 치스윅 하우스에서 또다른 컬러 영화를 제작했다.\[4\] 비틀즈는 노래에 립싱크를 하고 하우스의 온실 곳곳을 누비고 있다. 영상은 [BBC-TV](https://ko.wikipedia.org/wiki/BBC-TV "wikilink")의 《[탑 오브 더 팝스](../Page/탑_오브_더_팝스.md "wikilink")》에서 6월 2일 흑백으로 초연되었다. 5월 20일의 홍보 영상은 비틀즈의 2015년도 영상 컴필레이션 음반 《[1](../Page/1_\(음반\).md "wikilink")》에, 그리고 5월 19일과 5월 20일의 영화는 세 개 디스크 구성의 컴필레이션 《1+》에 수록되었다.\[5\]
 
 ## 참여 인원
 
@@ -31,10 +31,10 @@
 
 아래는 로드리게즈 제공.
 
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – 리드 보컬, 리드 기타, 베이스
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 백 보컬, 탬버린
-  - [조지 해리슨 –](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") 백 보컬, 리듬 기타, 리드 기타
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") – 드럼
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") – 리드 보컬, 리드 기타, 베이스
+  - [존 레논](../Page/존_레논.md "wikilink") – 백 보컬, 탬버린
+  - [조지 해리슨 –](../Page/조지_해리슨.md "wikilink") 백 보컬, 리듬 기타, 리드 기타
+  - [링고 스타](../Page/링고_스타.md "wikilink") – 드럼
 
 ## 발표
 
@@ -51,7 +51,7 @@
 <td><p>〈Paperback Writer〉<br />
 b/w 〈<a href="../Page/Rain_(비틀즈의_노래).md" title="wikilink">Rain</a>〉</p>
 <ul>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/캐피틀_레코드" title="wikilink">캐피틀</a> </li>
+<li>레이블: <a href="../Page/캐피틀_레코드.md" title="wikilink">캐피틀</a> </li>
 <li>출시일: 30 May 1966</li>
 <li>형태: 싱글</li>
 </ul></td>
@@ -61,7 +61,7 @@ b/w 〈<a href="../Page/Rain_(비틀즈의_노래).md" title="wikilink">Rain</a>
 <td><p>〈Paperback Writer〉<br />
 b/w 〈Rain〉</p>
 <ul>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/팔로폰" title="wikilink">팔로폰</a> </li>
+<li>레이블: <a href="../Page/팔로폰.md" title="wikilink">팔로폰</a> </li>
 <li>출시일: 1966년 6월 10일</li>
 <li>형태: 싱글</li>
 </ul></td>
@@ -79,7 +79,7 @@ b/w 〈Rain〉</p>
 <td><p>미국</p></td>
 <td><p>'''《<a href="https://ko.wikipedia.org/wiki/Hey_Jude_(비틀즈의_음반)" title="wikilink">Hey Jude</a>》</p>
 <ul>
-<li>레이블: <a href="https://ko.wikipedia.org/wiki/애플_레코드" title="wikilink">애플</a> </li>
+<li>레이블: <a href="../Page/애플_레코드.md" title="wikilink">애플</a> </li>
 <li>출시일: 1970년 2월 26일</li>
 <li>형태: LP</li>
 </ul></td>

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ GFX 50S](https://ko.wikipedia.org/wiki/_GFX_50S).
 
 
-**후지필름 GFX 50S**은 [후지필름](https://ko.wikipedia.org/wiki/후지필름 "wikilink")에서 생산되는 미러리스 중형 포맷 카메라이다. [포토키나](https://ko.wikipedia.org/wiki/포토키나 "wikilink") 2016 전시회에서 발표되었으며, 2017년 2월 28일에 출시되었다.\[1\]
+**후지필름 GFX 50S**은 [후지필름](../Page/후지필름.md "wikilink")에서 생산되는 미러리스 중형 포맷 카메라이다. [포토키나](../Page/포토키나.md "wikilink") 2016 전시회에서 발표되었으며, 2017년 2월 28일에 출시되었다.\[1\]
 
-이 제품은 두 번째로 생산된 미러리스 중형 카메라이며, 바디에 [셔터](https://ko.wikipedia.org/wiki/셔터 "wikilink")가 내장된 첫 번째 미러리스 중형 카메라이다.\[2\]
+이 제품은 두 번째로 생산된 미러리스 중형 카메라이며, 바디에 [셔터](../Page/셔터.md "wikilink")가 내장된 첫 번째 미러리스 중형 카메라이다.\[2\]
 
 ## 센서
 

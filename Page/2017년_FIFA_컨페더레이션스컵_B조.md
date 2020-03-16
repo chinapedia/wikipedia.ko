@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2017 FIFA  B](https://ko.wikipedia.org/wiki/2017_FIFA__B).
 
 
-**[2017년 FIFA 컨페더레이션스컵](https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵 "wikilink") B조**는 2017년 6월 17일부터 25일까지 열린다. B조는 [카메룬](https://ko.wikipedia.org/wiki/카메룬_축구_국가대표팀 "wikilink"), [칠레](https://ko.wikipedia.org/wiki/칠레_축구_국가대표팀 "wikilink"), [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아_축구_국가대표팀 "wikilink"), [독일로](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 4강전에 진출한다.\[1\]
+**[2017년 FIFA 컨페더레이션스컵](../Page/2017년_FIFA_컨페더레이션스컵.md "wikilink") B조**는 2017년 6월 17일부터 25일까지 열린다. B조는 [카메룬](../Page/카메룬_축구_국가대표팀.md "wikilink"), [칠레](../Page/칠레_축구_국가대표팀.md "wikilink"), [오스트레일리아](../Page/오스트레일리아_축구_국가대표팀.md "wikilink"), [독일로](../Page/독일_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 4강전에 진출한다.\[1\]
 
 ## 팀
 
@@ -16,7 +16,7 @@
 <th><p>출전 횟수</p></th>
 <th><p>마지막 출전</p></th>
 <th><p>최고 순위</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FIFA_랭킹" title="wikilink">FIFA 랭킹</a></p></th>
+<th><p><a href="../Page/FIFA_랭킹.md" title="wikilink">FIFA 랭킹</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -34,19 +34,19 @@
 <tr class="even">
 <td><p>B1</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아프리카_축구_연맹" title="wikilink">CAF</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년_아프리카_네이션스컵" title="wikilink">2017년 아프리카 네이션스컵</a> 우승</p></td>
+<td><p><a href="../Page/아프리카_축구_연맹.md" title="wikilink">CAF</a></p></td>
+<td><p><a href="../Page/2017년_아프리카_네이션스컵.md" title="wikilink">2017년 아프리카 네이션스컵</a> 우승</p></td>
 <td><p>2017년 2월 5일</p></td>
 <td><p>data-sort-value="3" | 3회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2003년_FIFA_컨페더레이션스컵" title="wikilink">2003</a></p></td>
-<td><p>data-sort-value="6.1" | 준우승 (<a href="https://ko.wikipedia.org/wiki/2003년_FIFA_컨페더레이션스컵" title="wikilink">2003</a>)</p></td>
+<td><p><a href="../Page/2003년_FIFA_컨페더레이션스컵.md" title="wikilink">2003</a></p></td>
+<td><p>data-sort-value="6.1" | 준우승 (<a href="../Page/2003년_FIFA_컨페더레이션스컵.md" title="wikilink">2003</a>)</p></td>
 <td><p>65</p></td>
 </tr>
 <tr class="odd">
 <td><p>B2</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남미_축구_연맹" title="wikilink">CONMEBOL</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년_코파_아메리카" title="wikilink">2015년 코파 아메리카</a> 우승</p></td>
+<td><p><a href="../Page/남미_축구_연맹.md" title="wikilink">CONMEBOL</a></p></td>
+<td><p><a href="../Page/2015년_코파_아메리카.md" title="wikilink">2015년 코파 아메리카</a> 우승</p></td>
 <td><p>2015년 7월 4일</p></td>
 <td><p>data-sort-value="1" | 1회</p></td>
 <td><p>—</p></td>
@@ -56,23 +56,23 @@
 <tr class="even">
 <td><p>B3</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아시아_축구_연맹" title="wikilink">AFC</a></p></td>
+<td><p><a href="../Page/아시아_축구_연맹.md" title="wikilink">AFC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년_AFC_아시안컵" title="wikilink">2015년 AFC 아시안컵</a> 우승</p></td>
 <td><p>2015년 1월 31일</p></td>
 <td><p>datasort-value="4" | 4회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2005년_FIFA_컨페더레이션스컵" title="wikilink">2005</a></p></td>
-<td><p>data-sort-value="6.1" | 준우승 (<a href="https://ko.wikipedia.org/wiki/1997년_FIFA_컨페더레이션스컵" title="wikilink">1997</a>)</p></td>
+<td><p><a href="../Page/2005년_FIFA_컨페더레이션스컵.md" title="wikilink">2005</a></p></td>
+<td><p>data-sort-value="6.1" | 준우승 (<a href="../Page/1997년_FIFA_컨페더레이션스컵.md" title="wikilink">1997</a>)</p></td>
 <td><p>48</p></td>
 </tr>
 <tr class="odd">
 <td><p>B4</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유럽_축구_연맹" title="wikilink">UEFA</a></p></td>
+<td><p><a href="../Page/유럽_축구_연맹.md" title="wikilink">UEFA</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵" title="wikilink">2014년 FIFA 월드컵</a> 우승</p></td>
 <td><p>2014년 7월 13일</p></td>
 <td><p>data-sort-value="3" | 3회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2005년_FIFA_컨페더레이션스컵" title="wikilink">2005</a></p></td>
-<td><p>data-sort-value="5.1" | 3위 (<a href="https://ko.wikipedia.org/wiki/2005년_FIFA_컨페더레이션스컵" title="wikilink">2005</a>)</p></td>
+<td><p><a href="../Page/2005년_FIFA_컨페더레이션스컵.md" title="wikilink">2005</a></p></td>
+<td><p>data-sort-value="5.1" | 3위 (<a href="../Page/2005년_FIFA_컨페더레이션스컵.md" title="wikilink">2005</a>)</p></td>
 <td><p>3</p></td>
 </tr>
 </tbody>
@@ -86,7 +86,7 @@
 
 ## 경기
 
-모든 시간대는 [모스크바 시간](https://ko.wikipedia.org/wiki/모스크바_시간 "wikilink")([UTC+3](https://ko.wikipedia.org/wiki/UTC+03:00 "wikilink"))을 따른다.
+모든 시간대는 [모스크바 시간](../Page/모스크바_시간.md "wikilink")([UTC+3](../Page/UTC+03:00.md "wikilink"))을 따른다.
 
 ### 카메룬 vs 칠레
 
@@ -251,7 +251,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/아르투로_비달" title="wikilink">아르투로 비달</a> (칠레)[4]</p>
+<a href="../Page/아르투로_비달.md" title="wikilink">아르투로 비달</a> (칠레)[4]</p>
 <p><strong>부심:</strong><br />
 유레 프라프로트니크 (<a href="https://ko.wikipedia.org/wiki/슬로베니아_축구_협회" title="wikilink">슬로베니아</a>)<br />
 로베르트 부칸 (<a href="https://ko.wikipedia.org/wiki/슬로베니아_축구_협회" title="wikilink">슬로베니아</a>)<br />
@@ -420,7 +420,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/요아힘_뢰프" title="wikilink">요아힘 뢰프</a></p></td>
+<td><p><a href="../Page/요아힘_뢰프.md" title="wikilink">요아힘 뢰프</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -433,14 +433,14 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/율리안_드락슬러" title="wikilink">율리안 드락슬러</a> (독일)[7]</p>
+<a href="../Page/율리안_드락슬러.md" title="wikilink">율리안 드락슬러</a> (독일)[7]</p>
 <p><strong>부심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/조_플레처" title="wikilink">조 플레처</a> (<a href="https://ko.wikipedia.org/wiki/캐나다_축구_협회" title="wikilink">캐나다</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/찰스_저스틴_모르간테" title="wikilink">찰스 저스틴 모르간테</a> (<a href="https://ko.wikipedia.org/wiki/미국_축구_협회" title="wikilink">미국</a>)<br />
 <strong>대기심:</strong><br />
 <a href="../Page/윌마르_롤단.md" title="wikilink">윌마르 롤단</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_협회" title="wikilink">콜롬비아</a>)<br />
 <strong>비디오 판독심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/랍샨_이르마토프" title="wikilink">랍샨 이르마토프</a> (<a href="https://ko.wikipedia.org/wiki/우즈베키스탄_축구_협회" title="wikilink">우즈베키스탄</a>)<br />
+<a href="../Page/랍샨_이르마토프.md" title="wikilink">랍샨 이르마토프</a> (<a href="https://ko.wikipedia.org/wiki/우즈베키스탄_축구_협회" title="wikilink">우즈베키스탄</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/알렉산데르_구스만" title="wikilink">알렉산데르 구스만</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_협회" title="wikilink">콜롬비아</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/아르투르_소아르스_디아스" title="wikilink">아르투르 소아르스 디아스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_협회" title="wikilink">포르투갈</a>)</p></td>
@@ -612,10 +612,10 @@
 <a href="https://ko.wikipedia.org/wiki/밀로반_리스티치" title="wikilink">밀로반 리스티치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/달리보르_주르제비치" title="wikilink">달리보르 주르제비치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="../Page/네스토르_피타나.md" title="wikilink">네스토르 피타나</a> (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+<a href="../Page/네스토르_피타나.md" title="wikilink">네스토르 피타나</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/제이어_마루포" title="wikilink">제이어 마루포</a> (<a href="https://ko.wikipedia.org/wiki/미국_축구_협회" title="wikilink">미국</a>)<br />
-<a href="https://ko.wikipedia.org/wiki/에르난_마이다나" title="wikilink">에르난 마이다나</a> (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/에르난_마이다나" title="wikilink">에르난 마이다나</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/엔리케_카세레스" title="wikilink">엔리케 카세레스</a> (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)</p></td>
 </tr>
@@ -687,7 +687,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/요아힘_뢰프" title="wikilink">요아힘 뢰프</a></p></td>
+<td><p><a href="../Page/요아힘_뢰프.md" title="wikilink">요아힘 뢰프</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -773,7 +773,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/알렉시스_산체스" title="wikilink">알렉시스 산체스</a> (칠레)[13]</p>
+<a href="../Page/알렉시스_산체스.md" title="wikilink">알렉시스 산체스</a> (칠레)[13]</p>
 <p><strong>부심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/레자_소한단" title="wikilink">레자 소한단</a> (<a href="https://ko.wikipedia.org/wiki/이란_축구_연맹" title="wikilink">이란</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/모함마드레자_만수리" title="wikilink">모함마드레자 만수리</a> (<a href="https://ko.wikipedia.org/wiki/이란_축구_연맹" title="wikilink">이란</a>)<br />
@@ -783,7 +783,7 @@
 <a href="https://ko.wikipedia.org/wiki/아르투르_소아르스_디아스" title="wikilink">아르투르 소아르스 디아스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_협회" title="wikilink">포르투갈</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/조_플레처" title="wikilink">조 플레처</a> (<a href="https://ko.wikipedia.org/wiki/캐나다_축구_협회" title="wikilink">캐나다</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/랍샨_이르마토프" title="wikilink">랍샨 이르마토프</a> (<a href="https://ko.wikipedia.org/wiki/우즈베키스탄_축구_협회" title="wikilink">우즈베키스탄</a>)</p></td>
+<a href="../Page/랍샨_이르마토프.md" title="wikilink">랍샨 이르마토프</a> (<a href="https://ko.wikipedia.org/wiki/우즈베키스탄_축구_협회" title="wikilink">우즈베키스탄</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -960,10 +960,10 @@
 <a href="https://ko.wikipedia.org/wiki/알렉산데르_구스만" title="wikilink">알렉산데르 구스만</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_협회" title="wikilink">콜롬비아</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/크리스티안_데_라_크루스" title="wikilink">크리스티안 데 라 크루스</a> (<a href="https://ko.wikipedia.org/wiki/콜롬비아_축구_협회" title="wikilink">콜롬비아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="../Page/네스토르_피타나.md" title="wikilink">네스토르 피타나</a> (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+<a href="../Page/네스토르_피타나.md" title="wikilink">네스토르 피타나</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/아르투르_소아르스_디아스" title="wikilink">아르투르 소아르스 디아스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_협회" title="wikilink">포르투갈</a>)<br />
-<a href="https://ko.wikipedia.org/wiki/에르난_마이다나" title="wikilink">에르난 마이다나</a> (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/에르난_마이다나" title="wikilink">에르난 마이다나</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/엔리케_카세레스" title="wikilink">엔리케 카세레스</a> (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)</p></td>
 </tr>

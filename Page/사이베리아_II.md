@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
 
 
-《**사이베리아 II**》(Syberia II)는 [Microids](https://ko.wikipedia.org/wiki/Microids "wikilink")가 개발, 배급한 [어드벤처 게임이다](https://ko.wikipedia.org/wiki/어드벤처_게임 "wikilink"). [사이베리아의](../Page/사이베리아_\(2002년_비디오_게임\).md "wikilink") 뒤를 잇는다. [3인칭](https://ko.wikipedia.org/wiki/3인칭_슈팅_게임 "wikilink") 퍼즐 풀기 게임의 하나이다. 1편의 게임 사이베리아와 스타일적으로 비슷한 사이베리아 II는 더 사실적인 캐릭터 애니메이션을 도입함으로써 1편의 게임을 개선하고 있다. 이 게임은 첫 편을 완전히 재구성하였기 때문에 게임을 즐기기 위해 플레이어가 1편의 게임을 경험할 필요는 없다. 닌텐도 스위치 버전은 2017년 4분기로 출시가 예정되어 있다.\[1\]
+《**사이베리아 II**》(Syberia II)는 [Microids](https://ko.wikipedia.org/wiki/Microids "wikilink")가 개발, 배급한 [어드벤처 게임이다](../Page/어드벤처_게임.md "wikilink"). [사이베리아의](../Page/사이베리아_\(2002년_비디오_게임\).md "wikilink") 뒤를 잇는다. [3인칭](https://ko.wikipedia.org/wiki/3인칭_슈팅_게임 "wikilink") 퍼즐 풀기 게임의 하나이다. 1편의 게임 사이베리아와 스타일적으로 비슷한 사이베리아 II는 더 사실적인 캐릭터 애니메이션을 도입함으로써 1편의 게임을 개선하고 있다. 이 게임은 첫 편을 완전히 재구성하였기 때문에 게임을 즐기기 위해 플레이어가 1편의 게임을 경험할 필요는 없다. 닌텐도 스위치 버전은 2017년 4분기로 출시가 예정되어 있다.\[1\]
 
 ## 평가
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IQNet](https://ko.wikipedia.org/wiki/IQNet).
 
 
-**IQNet**은 국제품질 및 기업경영시스템 인증의 세계 최대 인증네트워크이다. [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [제네바](https://ko.wikipedia.org/wiki/제네바 "wikilink")에 본부를 두고 있으며, 한 국가당 하나의 인증기관 가입을 원칙으로 하여 각국의 대표적이고 비영리인 선두 인증기관만을 그 회원으로 가입시키고 있다. IQNet 회원은 2017년 기준으로 총 33개국의 36개 인증기관이 있다.  
+**IQNet**은 국제품질 및 기업경영시스템 인증의 세계 최대 인증네트워크이다. [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [제네바](../Page/제네바.md "wikilink")에 본부를 두고 있으며, 한 국가당 하나의 인증기관 가입을 원칙으로 하여 각국의 대표적이고 비영리인 선두 인증기관만을 그 회원으로 가입시키고 있다. IQNet 회원은 2017년 기준으로 총 33개국의 36개 인증기관이 있다.  
 
 ## 역사
 

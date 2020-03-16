@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EXP EDITION](https://ko.wikipedia.org/wiki/EXP_EDITION).
 
 
-'''EXP EDITION '''는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 활동하는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 4인조 남성 그룹이다. 미국 [컬럼비아 대학원생들이](https://ko.wikipedia.org/wiki/컬럼비아_대학 "wikilink") 논문을 준비하며 실험적으로 만든 그룹으로 미국에서 먼저 데뷔 후, 2017년 4월 한국에서 첫 싱글앨범을 발표하며 본격적인 활동을 시작했다.\[1\]
+'''EXP EDITION '''는 [대한민국](../Page/대한민국.md "wikilink")에서 활동하는 [미국](../Page/미국.md "wikilink")의 4인조 남성 그룹이다. 미국 [컬럼비아 대학원생들이](https://ko.wikipedia.org/wiki/컬럼비아_대학 "wikilink") 논문을 준비하며 실험적으로 만든 그룹으로 미국에서 먼저 데뷔 후, 2017년 4월 한국에서 첫 싱글앨범을 발표하며 본격적인 활동을 시작했다.\[1\]
 
 ## 구성원
 
@@ -16,7 +16,7 @@
 ### 헌터 (Hunter)
 
   - 본명 : 헌터 콜 (Hunter Kohl)
-  - 출생지 :  [뉴욕](https://ko.wikipedia.org/wiki/뉴욕 "wikilink")\[4\]
+  - 출생지 :  [뉴욕](../Page/뉴욕.md "wikilink")\[4\]
   - 생일 : 6월 29일
   - 포지션 : 랩
   - 특이사항
@@ -28,7 +28,7 @@
   - 본명 : 시메 코스타 (Šime Košta)
   - 생년월일 :
   - 출생지 : \[6\]
-  - 학력 : [애리조나 주립 대학교](https://ko.wikipedia.org/wiki/애리조나_주립_대학교 "wikilink") 뮤지컬 전공
+  - 학력 : [애리조나 주립 대학교](../Page/애리조나_주립_대학교.md "wikilink") 뮤지컬 전공
   - 포지션 : 보컬, 랩
   - 약력
 
@@ -45,7 +45,7 @@
   - 포지션 : 보컬
   - 특이사항
       - 뉴욕에서 광고모델로 활동했다.\[8\]
-      - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[아이돌 리부팅 프로젝트 더 유닛](https://ko.wikipedia.org/wiki/아이돌_리부팅_프로젝트_더_유닛 "wikilink")》 참가했으나 탈락했다.
+      - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[아이돌 리부팅 프로젝트 더 유닛](../Page/아이돌_리부팅_프로젝트_더_유닛.md "wikilink")》 참가했으나 탈락했다.
 
 ## 음반 목록
 
@@ -116,14 +116,14 @@
 
 ### 방송
 
-| 방송사                                                      | 제목                                                                                | 출연  | 기간                            | 역할      | 참고                                                        |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------- | --- | ----------------------------- | ------- | --------------------------------------------------------- |
-| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")    | 《[너의 목소리가 보여](https://ko.wikipedia.org/wiki/너의_목소리가_보여 "wikilink")》               | 전원  | 2017년 4월 20일                  | 미스터리 싱어 | [슈퍼주니어](https://ko.wikipedia.org/wiki/슈퍼주니어 "wikilink") 편 |
-| [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 《[이웃집 찰스](https://ko.wikipedia.org/wiki/이웃집_찰스 "wikilink")》                       | 전원  | 2017년 6월 20일                  | 게스트     |                                                           |
-| [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink")    | 《[팬텀싱어](../Page/팬텀싱어.md "wikilink")2》                                             | 시메  | 2017년 8월 25일 \~ 2017년 10월 13일 | 참가자     |                                                           |
-| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")    | 《[너의 목소리가 보여](https://ko.wikipedia.org/wiki/너의_목소리가_보여 "wikilink")》               | 시메  | 2018년 2월 16일                  | 패널      |                                                           |
-| MBC                                                      | 캐스팅 콜                                                                             | 프랭키 | 2018년 4월                      |         |                                                           |
-| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")    | 《[불후의 명곡 - 전설을 노래하다](https://ko.wikipedia.org/wiki/불후의_명곡_-_전설을_노래하다 "wikilink")》 | 시메  | 2018년 6월 2일                   | 출연자     |                                                           |
+| 방송사                                                      | 제목                                                             | 출연  | 기간                            | 역할      | 참고                                     |
+| -------------------------------------------------------- | -------------------------------------------------------------- | --- | ----------------------------- | ------- | -------------------------------------- |
+| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")    | 《[너의 목소리가 보여](../Page/너의_목소리가_보여.md "wikilink")》               | 전원  | 2017년 4월 20일                  | 미스터리 싱어 | [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") 편 |
+| [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 《[이웃집 찰스](https://ko.wikipedia.org/wiki/이웃집_찰스 "wikilink")》    | 전원  | 2017년 6월 20일                  | 게스트     |                                        |
+| [JTBC](../Page/JTBC.md "wikilink")                       | 《[팬텀싱어](../Page/팬텀싱어.md "wikilink")2》                          | 시메  | 2017년 8월 25일 \~ 2017년 10월 13일 | 참가자     |                                        |
+| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")    | 《[너의 목소리가 보여](../Page/너의_목소리가_보여.md "wikilink")》               | 시메  | 2018년 2월 16일                  | 패널      |                                        |
+| MBC                                                      | 캐스팅 콜                                                          | 프랭키 | 2018년 4월                      |         |                                        |
+| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")    | 《[불후의 명곡 - 전설을 노래하다](../Page/불후의_명곡_-_전설을_노래하다.md "wikilink")》 | 시메  | 2018년 6월 2일                   | 출연자     |                                        |
 
 ### 영화
 
@@ -131,21 +131,21 @@
 
 ### 라디오
 
-| 방송사                                                         | 제목              | 출연  | 기간                          | 역할  |
-| ----------------------------------------------------------- | --------------- | --- | --------------------------- | --- |
-| [아리랑 라디오](https://ko.wikipedia.org/wiki/아리랑_라디오 "wikilink") | 《K-Poppin'》     | 전원  | 2017년 4월 25일                | 게스트 |
-| [TBS eFM](https://ko.wikipedia.org/wiki/TBS_eFM "wikilink") | 《Koreascape》    | 전원  | 2017년 5월 4일                 |     |
-| [평화방송](https://ko.wikipedia.org/wiki/평화방송 "wikilink")       | 《한낮의 가요선물》      | 전원  | 2017년 5월 24일                |     |
-| EBS 라디오                                                     | 《English Go Go》 | 전원  | 2017년 5월 26일                |     |
-| [TBS eFM](https://ko.wikipedia.org/wiki/TBS_eFM "wikilink") | 《Soundcheck》    | 헌터  | 2017년 5월 29일 \~ 2017년 6월 9일 | DJ  |
-| 전원                                                          | 2017년 6월 9일     | 게스트 |                             |     |
+| 방송사                                                   | 제목              | 출연  | 기간                          | 역할  |
+| ----------------------------------------------------- | --------------- | --- | --------------------------- | --- |
+| [아리랑 라디오](../Page/아리랑_라디오.md "wikilink")              | 《K-Poppin'》     | 전원  | 2017년 4월 25일                | 게스트 |
+| [TBS eFM](../Page/TBS_eFM.md "wikilink")              | 《Koreascape》    | 전원  | 2017년 5월 4일                 |     |
+| [평화방송](https://ko.wikipedia.org/wiki/평화방송 "wikilink") | 《한낮의 가요선물》      | 전원  | 2017년 5월 24일                |     |
+| EBS 라디오                                               | 《English Go Go》 | 전원  | 2017년 5월 26일                |     |
+| [TBS eFM](../Page/TBS_eFM.md "wikilink")              | 《Soundcheck》    | 헌터  | 2017년 5월 29일 \~ 2017년 6월 9일 | DJ  |
+| 전원                                                    | 2017년 6월 9일     | 게스트 |                             |     |
 
 ### 행사
 
-  - 2017년 5월 19일 [여주대학교](https://ko.wikipedia.org/wiki/여주대학교 "wikilink") 용마 축제 ([경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [여주](https://ko.wikipedia.org/wiki/여주 "wikilink"))
-  - 2017년 5월 25일 [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink") 원주캠퍼스 행사 ([강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink") [원주](https://ko.wikipedia.org/wiki/원주 "wikilink"))
-  - 2017년 5월 27일 [한라대학교](https://ko.wikipedia.org/wiki/한라대학교 "wikilink") 행사 ([강원도](https://ko.wikipedia.org/wiki/강원도 "wikilink") [원주](https://ko.wikipedia.org/wiki/원주 "wikilink"))
-  - 2017년 11월 4일 [한양대학교](https://ko.wikipedia.org/wiki/한양대학교 "wikilink") 서울캠퍼스 독서골든벨 행사 ([서울](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [성동구](https://ko.wikipedia.org/wiki/성동구 "wikilink"))
+  - 2017년 5월 19일 [여주대학교](../Page/여주대학교.md "wikilink") 용마 축제 ([경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [여주](https://ko.wikipedia.org/wiki/여주 "wikilink"))
+  - 2017년 5월 25일 [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink") 원주캠퍼스 행사 ([강원도](../Page/강원도.md "wikilink") [원주](https://ko.wikipedia.org/wiki/원주 "wikilink"))
+  - 2017년 5월 27일 [한라대학교](../Page/한라대학교.md "wikilink") 행사 ([강원도](../Page/강원도.md "wikilink") [원주](https://ko.wikipedia.org/wiki/원주 "wikilink"))
+  - 2017년 11월 4일 [한양대학교](../Page/한양대학교.md "wikilink") 서울캠퍼스 독서골든벨 행사 ([서울](../Page/서울특별시.md "wikilink") [성동구](../Page/성동구.md "wikilink"))
 
 ### 홍보대사
 
@@ -206,7 +206,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로스킬레_축제" title="wikilink">Roskilde Festival</a></p></td>
+<td><p><a href="../Page/로스킬레_축제.md" title="wikilink">Roskilde Festival</a></p></td>
 <td><p>2017년 6월 28일 ~2017년 7월 1일</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로스킬레" title="wikilink">로스킬레</a></p></td>

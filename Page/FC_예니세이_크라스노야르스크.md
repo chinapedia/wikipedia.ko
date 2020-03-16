@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 예니세이 크라스노야르스크**()는 [크라스노야르스크](https://ko.wikipedia.org/wiki/크라스노야르스크 "wikilink")를 연고로 하는 [러시아](https://ko.wikipedia.org/wiki/러시아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 러시아의 축구 1부 리그인 [러시아 프리미어 리그에](https://ko.wikipedia.org/wiki/러시아_프리미어_리그 "wikilink") 참가하고 있다.
+**FC 예니세이 크라스노야르스크**()는 [크라스노야르스크](../Page/크라스노야르스크.md "wikilink")를 연고로 하는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 러시아의 축구 1부 리그인 [러시아 프리미어 리그에](https://ko.wikipedia.org/wiki/러시아_프리미어_리그 "wikilink") 참가하고 있다.
 
 ## 외부 링크
 

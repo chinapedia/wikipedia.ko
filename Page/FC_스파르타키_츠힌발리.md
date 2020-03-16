@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 스파르타키 츠힌발리**(, )는 [트빌리시](https://ko.wikipedia.org/wiki/트빌리시 "wikilink"), [고리를](https://ko.wikipedia.org/wiki/고리_\(조지아\) "wikilink") 연고로 하는 [조지아의](https://ko.wikipedia.org/wiki/조지아_\(국가\) "wikilink") [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [우마글레시리가](https://ko.wikipedia.org/wiki/우마글레시리가 "wikilink")에 참가하고 있다.
+**FC 스파르타키 츠힌발리**(, )는 [트빌리시](../Page/트빌리시.md "wikilink"), [고리를](../Page/고리_\(조지아\).md "wikilink") 연고로 하는 [조지아의](../Page/조지아_\(국가\).md "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [우마글레시리가](https://ko.wikipedia.org/wiki/우마글레시리가 "wikilink")에 참가하고 있다.
 
 ## 성적
 

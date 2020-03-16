@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  III](https://ko.wikipedia.org/wiki/__III).
 
 
-《**파이널 판타지 III**》(, )는 [패밀리 컴퓨터용으로](https://ko.wikipedia.org/wiki/닌텐도_엔터테인먼트_시스템 "wikilink") 1990년에 [스퀘어가](https://ko.wikipedia.org/wiki/스퀘어_\(일본의_기업\) "wikilink") 개발, 배급한 [롤플레잉 비디오 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_비디오_게임 "wikilink"). [파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink") 시리즈 가운데 세 번째 게임에 해당하며, 콘솔용으로는 마지막 메인 시리즈 게임에 해당한다.
+《**파이널 판타지 III**》(, )는 [패밀리 컴퓨터용으로](../Page/닌텐도_엔터테인먼트_시스템.md "wikilink") 1990년에 [스퀘어가](https://ko.wikipedia.org/wiki/스퀘어_\(일본의_기업\) "wikilink") 개발, 배급한 [롤플레잉 비디오 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_비디오_게임 "wikilink"). [파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink") 시리즈 가운데 세 번째 게임에 해당하며, 콘솔용으로는 마지막 메인 시리즈 게임에 해당한다.
 
-이 게임은 1990년 4월 27일 일본에 출시되었다. 2006년 8월 24일 [매트릭스 소프트웨어가](https://ko.wikipedia.org/wiki/매트릭스_소프트웨어 "wikilink") [닌텐도 DS용으로](https://ko.wikipedia.org/wiki/닌텐도_DS "wikilink") [리메이크를](https://ko.wikipedia.org/wiki/비디오_게임_리메이크 "wikilink") 개발하기 전까지 일본 밖에서 출시되지 않았다. 당시 북아메리카나 유럽에는 파이널 판타지 게임이 출시된 적이 없었다.\[1\]
+이 게임은 1990년 4월 27일 일본에 출시되었다. 2006년 8월 24일 [매트릭스 소프트웨어가](https://ko.wikipedia.org/wiki/매트릭스_소프트웨어 "wikilink") [닌텐도 DS용으로](../Page/닌텐도_DS.md "wikilink") [리메이크를](https://ko.wikipedia.org/wiki/비디오_게임_리메이크 "wikilink") 개발하기 전까지 일본 밖에서 출시되지 않았다. 당시 북아메리카나 유럽에는 파이널 판타지 게임이 출시된 적이 없었다.\[1\]
 
 ## 각주
 

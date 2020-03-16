@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [YBO2](https://ko.wikipedia.org/wiki/YBO2).
 
 
-**YBO<sup>2</sup>**(ワイビーオーツー、イボイボ)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [록 음악](https://ko.wikipedia.org/wiki/록_음악 "wikilink") 밴드이다. 처음엔 이보이보라고 부르다가 이후 YBO2라고 통일시켰다. 2는 지수처럼 작게 써야한다.
+**YBO<sup>2</sup>**(ワイビーオーツー、イボイボ)는 [일본](../Page/일본.md "wikilink")의 [록 음악](../Page/록_음악.md "wikilink") 밴드이다. 처음엔 이보이보라고 부르다가 이후 YBO2라고 통일시켰다. 2는 지수처럼 작게 써야한다.
 
 ## 개요
 
 잡지 Fool's Mate를 창간하고 초대 편집장을 하던 키타무라가 84년 결성했다. 키타무라는 자신의 레이블 트랜스 레코드를 통해 싱글들과 1, 2집을 연속으로 발매한다.
 
-변박자 등을 써서 복잡한 구성의 악곡을 연주하여 [디스 히트의](https://ko.wikipedia.org/wiki/디스_히트 "wikilink") 영향력이 느껴지는가 하는 일본 [인디의](https://ko.wikipedia.org/wiki/독립_음악 "wikilink") 대표적 밴드 중 하나이다. 인기도 조금 있어서 트랜스 레이블을 좋아하는 팬들을 지칭하는 트랜스걸이라는 표현이 있을 정도였다.
+변박자 등을 써서 복잡한 구성의 악곡을 연주하여 [디스 히트의](https://ko.wikipedia.org/wiki/디스_히트 "wikilink") 영향력이 느껴지는가 하는 일본 [인디의](../Page/독립_음악.md "wikilink") 대표적 밴드 중 하나이다. 인기도 조금 있어서 트랜스 레이블을 좋아하는 팬들을 지칭하는 트랜스걸이라는 표현이 있을 정도였다.
 
 90년부터 00년까지 활동을 쉬다가 재개했는데 리더인 키타무라가 06년에 젊은 나이로 사망한다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 볼룬타리**(Fotbal Club Voluntari)는 [일포브 주](https://ko.wikipedia.org/wiki/일포브_주 "wikilink") [볼룬타리](https://ko.wikipedia.org/wiki/볼룬타리 "wikilink")를 연고로 하는 [루마니아](https://ko.wikipedia.org/wiki/루마니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 2010년 **인테르 볼룬타리**(Inter Voluntari)라는 이름으로 창단되었으며 2015-16 시즌부터 [리가 I에](https://ko.wikipedia.org/wiki/리가_I "wikilink") 참가하고 있다.
+**FC 볼룬타리**(Fotbal Club Voluntari)는 [일포브 주](https://ko.wikipedia.org/wiki/일포브_주 "wikilink") [볼룬타리](https://ko.wikipedia.org/wiki/볼룬타리 "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 2010년 **인테르 볼룬타리**(Inter Voluntari)라는 이름으로 창단되었으며 2015-16 시즌부터 [리가 I에](../Page/리가_I.md "wikilink") 참가하고 있다.
 
 ## 성적
 

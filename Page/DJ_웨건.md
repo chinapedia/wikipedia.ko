@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
 
 
-**DJ 웨건**(DJ Wegun, , [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [9월 24일](https://ko.wikipedia.org/wiki/9월_24일 "wikilink") \~ )은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [힙합](https://ko.wikipedia.org/wiki/힙합 "wikilink") [DJ이다](https://ko.wikipedia.org/wiki/디스크_자키 "wikilink"). 소속사는 [AOMG](https://ko.wikipedia.org/wiki/AOMG "wikilink")이다. 이전에는 [소울컴퍼니](https://ko.wikipedia.org/wiki/소울컴퍼니 "wikilink")에서 [라임어택](https://ko.wikipedia.org/wiki/라임어택 "wikilink")과 같은 Supa Dupa Duo (수파 두파 듀오) 라는 팀에 있었다.
+**DJ 웨건**(DJ Wegun, , [1986년](../Page/1986년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") [DJ이다](../Page/디스크_자키.md "wikilink"). 소속사는 [AOMG](https://ko.wikipedia.org/wiki/AOMG "wikilink")이다. 이전에는 [소울컴퍼니](https://ko.wikipedia.org/wiki/소울컴퍼니 "wikilink")에서 [라임어택](../Page/라임어택.md "wikilink")과 같은 Supa Dupa Duo (수파 두파 듀오) 라는 팀에 있었다.
 
 ## 음반 활동
 
@@ -16,9 +16,9 @@
 
 ## 작품 목록
 
-  - [박재범](https://ko.wikipedia.org/wiki/박재범 "wikilink") - **WORLD WIDE**, **\[Digital Single\] Raw Sh\!t**
-  - [제리케이](https://ko.wikipedia.org/wiki/제리케이 "wikilink") - **\[Digital Single\] Higher**
-  - [화나](https://ko.wikipedia.org/wiki/화나 "wikilink") - **FANACONDA**
+  - [박재범](../Page/박재범.md "wikilink") - **WORLD WIDE**, **\[Digital Single\] Raw Sh\!t**
+  - [제리케이](../Page/제리케이.md "wikilink") - **\[Digital Single\] Higher**
+  - [화나](../Page/화나.md "wikilink") - **FANACONDA**
   - [프레쉬애비뉴](https://ko.wikipedia.org/wiki/프레쉬애비뉴 "wikilink") - **\[Digital Single\] Soul Mood Fakers**, **\[Digital Single\] Rockin\` Steady**
 
 ## 외부 링크

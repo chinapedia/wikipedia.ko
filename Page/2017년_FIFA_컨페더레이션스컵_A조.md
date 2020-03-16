@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2017 FIFA  A](https://ko.wikipedia.org/wiki/2017_FIFA__A).
 
 
-**[2017년 FIFA 컨페더레이션스컵](https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵 "wikilink") A조**는 2017년 6월 17일부터 24일까지 열린다. A조는 [러시아](https://ko.wikipedia.org/wiki/러시아_축구_국가대표팀 "wikilink"), [뉴질랜드](https://ko.wikipedia.org/wiki/뉴질랜드_축구_국가대표팀 "wikilink"), [포르투갈](https://ko.wikipedia.org/wiki/포르투갈_축구_국가대표팀 "wikilink"), [멕시코로](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 4강전에 진출한다.\[1\]
+**[2017년 FIFA 컨페더레이션스컵](../Page/2017년_FIFA_컨페더레이션스컵.md "wikilink") A조**는 2017년 6월 17일부터 24일까지 열린다. A조는 [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), [뉴질랜드](../Page/뉴질랜드_축구_국가대표팀.md "wikilink"), [포르투갈](../Page/포르투갈_축구_국가대표팀.md "wikilink"), [멕시코로](../Page/멕시코_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 4강전에 진출한다.\[1\]
 
 ## 팀
 
@@ -16,7 +16,7 @@
 <th><p>출전 횟수</p></th>
 <th><p>마지막 출전</p></th>
 <th><p>최고 순위</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FIFA_랭킹" title="wikilink">FIFA 랭킹</a></p></th>
+<th><p><a href="../Page/FIFA_랭킹.md" title="wikilink">FIFA 랭킹</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -45,12 +45,12 @@
 <tr class="odd">
 <td><p>A2</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오세아니아_축구_연맹" title="wikilink">OFC</a></p></td>
+<td><p><a href="../Page/오세아니아_축구_연맹.md" title="wikilink">OFC</a></p></td>
 <td><p><a href="../Page/2016년_OFC_네이션스컵.md" title="wikilink">2016년 OFC 네이션스컵</a> 우승</p></td>
 <td><p>2016년 6월 11일</p></td>
 <td><p>data-sort-value="4" | 4회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵" title="wikilink">2017</a></p></td>
-<td><p>data-sort-value="1.3" | 조별 리그 (<a href="https://ko.wikipedia.org/wiki/1999년_FIFA_컨페더레이션스컵" title="wikilink">1999</a>, <a href="https://ko.wikipedia.org/wiki/2003년_FIFA_컨페더레이션스컵" title="wikilink">2003</a>, <a href="https://ko.wikipedia.org/wiki/2009년_FIFA_컨페더레이션스컵" title="wikilink">2009</a><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a>)</p></td>
+<td><p><a href="../Page/2017년_FIFA_컨페더레이션스컵.md" title="wikilink">2017</a></p></td>
+<td><p>data-sort-value="1.3" | 조별 리그 (<a href="../Page/1999년_FIFA_컨페더레이션스컵.md" title="wikilink">1999</a>, <a href="../Page/2003년_FIFA_컨페더레이션스컵.md" title="wikilink">2003</a>, <a href="../Page/2009년_FIFA_컨페더레이션스컵.md" title="wikilink">2009</a><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a>)</p></td>
 <td><p>110</p></td>
 </tr>
 <tr class="even">
@@ -71,8 +71,8 @@
 <td><p><a href="../Page/2015년_CONCACAF컵.md" title="wikilink">2015년 CONCACAF컵</a> 우승</p></td>
 <td><p>2015년 10월 10일</p></td>
 <td><p>data-sort-value="7" | 7회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵" title="wikilink">2017</a></p></td>
-<td><p>data-sort-value="7.1" | <strong>4위</strong> (<a href="https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵" title="wikilink">2017</a>)</p></td>
+<td><p><a href="../Page/2017년_FIFA_컨페더레이션스컵.md" title="wikilink">2017</a></p></td>
+<td><p>data-sort-value="7.1" | <strong>4위</strong> (<a href="../Page/2017년_FIFA_컨페더레이션스컵.md" title="wikilink">2017</a>)</p></td>
 <td><p>18</p></td>
 </tr>
 </tbody>
@@ -86,7 +86,7 @@
 
 ## 경기
 
-모든 시간대는 [모스크바 시간](https://ko.wikipedia.org/wiki/모스크바_시간 "wikilink")([UTC+3](https://ko.wikipedia.org/wiki/UTC+03:00 "wikilink"))을 따른다.
+모든 시간대는 [모스크바 시간](../Page/모스크바_시간.md "wikilink")([UTC+3](../Page/UTC+03:00.md "wikilink"))을 따른다.
 
 ### 러시아 vs 뉴질랜드
 
@@ -351,7 +351,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/페르난두_산투스" title="wikilink">페르난두 산투스</a></p></td>
+<td><p><a href="../Page/페르난두_산투스.md" title="wikilink">페르난두 산투스</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -424,7 +424,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후안_카를로스_오소리오" title="wikilink">후안 카를로스 오소리오</a></p></td>
+<td><p><a href="../Page/후안_카를로스_오소리오.md" title="wikilink">후안 카를로스 오소리오</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -439,8 +439,8 @@
 <td><p><strong>최우수 선수:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/크리스티아누_호날두" title="wikilink">크리스티아누 호날두</a> (포르투갈)[7]</p>
 <p><strong>부심:</strong><br />
-에르난 마이다나 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
-후안 파블로 벨라티 (<a href="https://ko.wikipedia.org/wiki/아르헨티나_축구_협회" title="wikilink">아르헨티나</a>)<br />
+에르난 마이다나 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
+후안 파블로 벨라티 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/압델카데르_지투니" title="wikilink">압델카데르 지투니</a> (<a href="https://ko.wikipedia.org/wiki/타히티_축구_협회" title="wikilink">타히티</a>)<br />
 <strong>비디오 판독심:</strong><br />
@@ -606,7 +606,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/페르난두_산투스" title="wikilink">페르난두 산투스</a></p></td>
+<td><p><a href="../Page/페르난두_산투스.md" title="wikilink">페르난두 산투스</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -715,7 +715,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후안_카를로스_오소리오" title="wikilink">후안 카를로스 오소리오</a></p></td>
+<td><p><a href="../Page/후안_카를로스_오소리오.md" title="wikilink">후안 카를로스 오소리오</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -897,7 +897,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후안_카를로스_오소리오" title="wikilink">후안 카를로스 오소리오</a></p></td>
+<td><p><a href="../Page/후안_카를로스_오소리오.md" title="wikilink">후안 카를로스 오소리오</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -990,7 +990,7 @@
 <strong>대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/알리레자_파가니" title="wikilink">알리레자 파가니</a> (<a href="https://ko.wikipedia.org/wiki/이란_축구_연맹" title="wikilink">이란</a>)<br />
 <strong>비디오 판독심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/랍샨_이르마토프" title="wikilink">랍샨 이르마토프</a> (<a href="https://ko.wikipedia.org/wiki/우즈베키스탄_축구_협회" title="wikilink">우즈베키스탄</a>)<br />
+<a href="../Page/랍샨_이르마토프.md" title="wikilink">랍샨 이르마토프</a> (<a href="https://ko.wikipedia.org/wiki/우즈베키스탄_축구_협회" title="wikilink">우즈베키스탄</a>)<br />
 레자 소한단 (<a href="https://ko.wikipedia.org/wiki/이란_축구_연맹" title="wikilink">이란</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/제이어_마루포" title="wikilink">제이어 마루포</a> (<a href="https://ko.wikipedia.org/wiki/미국_축구_협회" title="wikilink">미국</a>)</p></td>
@@ -1152,7 +1152,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/페르난두_산투스" title="wikilink">페르난두 산투스</a></p></td>
+<td><p><a href="../Page/페르난두_산투스.md" title="wikilink">페르난두 산투스</a></p></td>
 <td></td>
 </tr>
 </tbody>

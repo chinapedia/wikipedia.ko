@@ -4,7 +4,7 @@
 {{\#if:||[}}}](https://ko.wikipedia.org/wiki/파일:{{#if:{{{title "wikilink") }} {{\#if:|{{\#ifeq:  | | 이 문서는
 
 `       | 이전의 문장 중 하나 이상이`
-`       }}  현재 `[`퍼블릭``   ``도메인으로`](https://ko.wikipedia.org/wiki/퍼블릭_도메인 "wikilink")`  된 게시물의 글을 포함하고 있습니다: |}}  ``=`
+`       }}  현재 `[`퍼블릭``   ``도메인으로`](../Page/퍼블릭_도메인.md "wikilink")`  된 게시물의 글을 포함하고 있습니다: |}}  ``=`
 
 ` | year=`
 ` | encyclopedia = `

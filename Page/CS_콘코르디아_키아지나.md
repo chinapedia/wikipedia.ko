@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CS  ](https://ko.wikipedia.org/wiki/CS__).
 
 
-**CS 콘코르디아 키아지나**(Club Sportiv Concordia Chiajna)는 [일포브 주](https://ko.wikipedia.org/wiki/일포브_주 "wikilink") [키아지나](https://ko.wikipedia.org/wiki/키아지나 "wikilink")(Chiajna)를 연고로 하는 [루마니아](https://ko.wikipedia.org/wiki/루마니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [리가 I에](https://ko.wikipedia.org/wiki/리가_I "wikilink") 참가하고 있다.
+**CS 콘코르디아 키아지나**(Club Sportiv Concordia Chiajna)는 [일포브 주](https://ko.wikipedia.org/wiki/일포브_주 "wikilink") [키아지나](https://ko.wikipedia.org/wiki/키아지나 "wikilink")(Chiajna)를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [리가 I에](../Page/리가_I.md "wikilink") 참가하고 있다.
 
 ## 성적
 

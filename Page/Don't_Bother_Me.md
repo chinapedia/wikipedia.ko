@@ -9,11 +9,11 @@
 
 ## 참여 인원
 
-  - [조지 해리슨](https://ko.wikipedia.org/wiki/조지_해리슨 "wikilink") – 더블 트래킹 보컬, 리드 기타
-  - [존 레논](https://ko.wikipedia.org/wiki/존_레논 "wikilink") – 리듬 기타, 탬버린
-  - [폴 매카트니](https://ko.wikipedia.org/wiki/폴_매카트니 "wikilink") – 베이스 기타, 클라베
-  - [링고 스타](https://ko.wikipedia.org/wiki/링고_스타 "wikilink") – 드럼, 봉고
-  - [조지 마틴](https://ko.wikipedia.org/wiki/조지_마틴 "wikilink") – [프로듀서](https://ko.wikipedia.org/wiki/음악_프로듀서 "wikilink")
+  - [조지 해리슨](../Page/조지_해리슨.md "wikilink") – 더블 트래킹 보컬, 리드 기타
+  - [존 레논](../Page/존_레논.md "wikilink") – 리듬 기타, 탬버린
+  - [폴 매카트니](../Page/폴_매카트니.md "wikilink") – 베이스 기타, 클라베
+  - [링고 스타](../Page/링고_스타.md "wikilink") – 드럼, 봉고
+  - [조지 마틴](../Page/조지_마틴.md "wikilink") – [프로듀서](../Page/음악_프로듀서.md "wikilink")
   - [노먼 스미스](https://ko.wikipedia.org/wiki/노먼_스미스 "wikilink") – [엔지니어](https://ko.wikipedia.org/wiki/오디오_엔지니어 "wikilink")
 
 <!-- end list -->

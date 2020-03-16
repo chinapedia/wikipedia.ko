@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SS-4](https://ko.wikipedia.org/wiki/SS-4).
 
 
-**SS-4 샌들**은 소련의 [준중거리 탄도 미사일이다](https://ko.wikipedia.org/wiki/준중거리_탄도_미사일 "wikilink"). 1962년 [쿠바 미사일 위기로](https://ko.wikipedia.org/wiki/쿠바_미사일_위기 "wikilink") 유명하다. 러시아명은 **R-12**이다.
+**SS-4 샌들**은 소련의 [준중거리 탄도 미사일이다](https://ko.wikipedia.org/wiki/준중거리_탄도_미사일 "wikilink"). 1962년 [쿠바 미사일 위기로](../Page/쿠바_미사일_위기.md "wikilink") 유명하다. 러시아명은 **R-12**이다.
 
 ## 역사
 
@@ -15,11 +15,11 @@
 
   - 4단계
 
-미사일이 행거에 보관되어 있다. [자이로스코프](https://ko.wikipedia.org/wiki/자이로스코프 "wikilink")와 탄두가 분리되어 있다. 액체연료가 비어있다. 7년간 보관할 수 있다. 발사하는데 3시간 25분이 걸린다.
+미사일이 행거에 보관되어 있다. [자이로스코프](../Page/자이로스코프.md "wikilink")와 탄두가 분리되어 있다. 액체연료가 비어있다. 7년간 보관할 수 있다. 발사하는데 3시간 25분이 걸린다.
 
   - 3단계
 
-미사일이 행거에 보관되어 있다. [자이로스코프](https://ko.wikipedia.org/wiki/자이로스코프 "wikilink")와 탄두가 연결되어 있다. 3년간 보관할 수 있다. 발사하는데 2시간 20분이 걸린다.
+미사일이 행거에 보관되어 있다. [자이로스코프](../Page/자이로스코프.md "wikilink")와 탄두가 연결되어 있다. 3년간 보관할 수 있다. 발사하는데 2시간 20분이 걸린다.
 
   - 2단계
 
@@ -31,7 +31,7 @@
 
 ## 더 보기
 
-  - 1962년 [쿠바 미사일 위기](https://ko.wikipedia.org/wiki/쿠바_미사일_위기 "wikilink")
+  - 1962년 [쿠바 미사일 위기](../Page/쿠바_미사일_위기.md "wikilink")
   - [R-14](https://ko.wikipedia.org/wiki/R-14 "wikilink")
   - [퍼싱 II](../Page/퍼싱_II.md "wikilink")
 

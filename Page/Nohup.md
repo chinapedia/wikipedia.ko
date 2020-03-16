@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Nohup](https://ko.wikipedia.org/wiki/Nohup).
 
 
-**nohup**은 [HUP](https://ko.wikipedia.org/wiki/SIGHUP "wikilink")(hangup) 신호를 무시하도록 만드는 [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") 명령어이다. HUP 신호는 전통적으로 터미널이 의존 프로세스들에게 로그아웃을 알리는 방식이다.
+**nohup**은 [HUP](https://ko.wikipedia.org/wiki/SIGHUP "wikilink")(hangup) 신호를 무시하도록 만드는 [POSIX](../Page/POSIX.md "wikilink") 명령어이다. HUP 신호는 전통적으로 터미널이 의존 프로세스들에게 로그아웃을 알리는 방식이다.
 
 일반적으로 터미널로 향하는 출력은 별도로 넘겨주기 처리를 하지 않았을 경우 `nohup.out`이라는 이름의 파일로 출력된다.
 
@@ -20,7 +20,7 @@ nohup은 프로세스의 우선 순위를 낮추기 위해 [nice](https://ko.wik
 
 ## 행의 극복
 
-nohup으로 백그라운드 처리된 작업들은 원격 [SSH](https://ko.wikipedia.org/wiki/시큐어_셸 "wikilink") [세션을](https://ko.wikipedia.org/wiki/로그인_세션 "wikilink") 로그오프할 때 일반적으로 이들의 종료를 막기 위해 사용된다. 이 상황에서 발생할 수 있는 또 다른 문제는 ssh가 로그오프(행)을 거부하는 것인데, 그 이유는 백그라운드 작업들에 대한 데이터 손실을 거부하기 때문이다.\[2\]\[3\] 이 문제는 3개의 모든 입출력 스트림을 [리다이렉션](https://ko.wikipedia.org/wiki/리다이렉션 "wikilink") 처리함으로써 극복할 수 있다.
+nohup으로 백그라운드 처리된 작업들은 원격 [SSH](../Page/시큐어_셸.md "wikilink") [세션을](https://ko.wikipedia.org/wiki/로그인_세션 "wikilink") 로그오프할 때 일반적으로 이들의 종료를 막기 위해 사용된다. 이 상황에서 발생할 수 있는 또 다른 문제는 ssh가 로그오프(행)을 거부하는 것인데, 그 이유는 백그라운드 작업들에 대한 데이터 손실을 거부하기 때문이다.\[2\]\[3\] 이 문제는 3개의 모든 입출력 스트림을 [리다이렉션](../Page/리다이렉션.md "wikilink") 처리함으로써 극복할 수 있다.
 
 `$ nohup ./myprogram > foo.out 2> foo.err < /dev/null &`
 

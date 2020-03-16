@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Leslie_White_grave_Forest_Hill_Cemetery.JPG "wikilink") **레슬리 앨빈 하이트**(Leslie Alvin White, 1900년 1월 9월-1975년 3월 31일)는 문화 [진화](https://ko.wikipedia.org/wiki/진화 "wikilink")론, [사회 진화론](https://ko.wikipedia.org/wiki/사회진화론 "wikilink") 특별히 신 진화론주의로 유명해진 미국의 [인류학자](https://ko.wikipedia.org/wiki/인류학자 "wikilink")이다. 미국 미시간 대학교에서 인류학 학과를 창설하는데 역할을 하였다. 1964년 미국 인류학회 회장을 역임하였다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Leslie_White_grave_Forest_Hill_Cemetery.JPG "wikilink") **레슬리 앨빈 하이트**(Leslie Alvin White, 1900년 1월 9월-1975년 3월 31일)는 문화 [진화](../Page/진화.md "wikilink")론, [사회 진화론](https://ko.wikipedia.org/wiki/사회진화론 "wikilink") 특별히 신 진화론주의로 유명해진 미국의 [인류학자](https://ko.wikipedia.org/wiki/인류학자 "wikilink")이다. 미국 미시간 대학교에서 인류학 학과를 창설하는데 역할을 하였다. 1964년 미국 인류학회 회장을 역임하였다.
 
 ## 이론
 

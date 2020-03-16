@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 보토샤니**(Fotbal Club Botoșani)는 [보토샤니](https://ko.wikipedia.org/wiki/보토샤니 "wikilink")를 연고로 하는 [루마니아](https://ko.wikipedia.org/wiki/루마니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [리가 I에](https://ko.wikipedia.org/wiki/리가_I "wikilink") 참가하고 있다.
+**FC 보토샤니**(Fotbal Club Botoșani)는 [보토샤니](../Page/보토샤니.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [리가 I에](../Page/리가_I.md "wikilink") 참가하고 있다.
 
 ## 성적
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SIGNAL \( EP\)](https://ko.wikipedia.org/wiki/SIGNAL_\(_EP\)).
 
 
-《**SIGNAL**》(시그널)은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") 트와이스의 네 번째 [EP이다](https://ko.wikipedia.org/wiki/익스텐디드_플레이 "wikilink"). 타이틀곡은 〈**SIGNAL**〉이며, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [5월 15일에](https://ko.wikipedia.org/wiki/5월_15일 "wikilink") 발매되었다. 그룹 데뷔 이후 최초로 박진영이 프로듀싱한 타이틀곡이며, 트와이스의 멤버 지효와 채영이 5번 트랙 "EYE EYE EYES"의 작사를 맡았다.
+《**SIGNAL**》(시그널)은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") 트와이스의 네 번째 [EP이다](../Page/익스텐디드_플레이.md "wikilink"). 타이틀곡은 〈**SIGNAL**〉이며, [2017년](../Page/2017년.md "wikilink") [5월 15일에](../Page/5월_15일.md "wikilink") 발매되었다. 그룹 데뷔 이후 최초로 박진영이 프로듀싱한 타이틀곡이며, 트와이스의 멤버 지효와 채영이 5번 트랙 "EYE EYE EYES"의 작사를 맡았다.
 
 ## 수록곡
 
@@ -38,10 +38,10 @@
 ## 외부 링크들
 
   - [SIGNAL](http://www.melon.com/album/detail.htm?albumId=10062172) - [멜론](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink")
-  - [SIGNAL](http://music.naver.com/album/index.nhn?albumId=2005342) - [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink")
-  - ["SIGNAL" MV](https://www.youtube.com/watch?v=VQtonf1fv_s) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
-  - ["SIGNAL" MV 티저](https://www.youtube.com/watch?v=gCCxjhihsoA) - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
-      - 멤버 별 티저 - [유튜브](https://ko.wikipedia.org/wiki/유튜브 "wikilink")
+  - [SIGNAL](http://music.naver.com/album/index.nhn?albumId=2005342) - [네이버](../Page/네이버.md "wikilink")
+  - ["SIGNAL" MV](https://www.youtube.com/watch?v=VQtonf1fv_s) - [유튜브](../Page/유튜브.md "wikilink")
+  - ["SIGNAL" MV 티저](https://www.youtube.com/watch?v=gCCxjhihsoA) - [유튜브](../Page/유튜브.md "wikilink")
+      - 멤버 별 티저 - [유튜브](../Page/유튜브.md "wikilink")
 
 <!-- end list -->
 

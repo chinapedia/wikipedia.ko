@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [IBM  i](https://ko.wikipedia.org/wiki/IBM__i).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:i5-570.jpg "wikilink") **IBM 시스템 i**(IBM System i)는 [IBM i](https://ko.wikipedia.org/wiki/IBM_i "wikilink") 사용자를 위한 IBM [미드레인지 컴퓨터](https://ko.wikipedia.org/wiki/미드레인지_컴퓨터 "wikilink") 시스템의 과거 세대로서, 최종적으로 2008년 4월 [IBM 파워 시스템으로](https://ko.wikipedia.org/wiki/IBM_파워_시스템 "wikilink") 대체되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:i5-570.jpg "wikilink") **IBM 시스템 i**(IBM System i)는 [IBM i](https://ko.wikipedia.org/wiki/IBM_i "wikilink") 사용자를 위한 IBM [미드레인지 컴퓨터](https://ko.wikipedia.org/wiki/미드레인지_컴퓨터 "wikilink") 시스템의 과거 세대로서, 최종적으로 2008년 4월 [IBM 파워 시스템으로](../Page/IBM_파워_시스템.md "wikilink") 대체되었다.
 
 이 플랫폼은 처음에 1988년 6월 21일 **AS/400**(Application System/400)으로 선보였으며, 나중에 2000년 들어 [eServer](https://ko.wikipedia.org/wiki/IBM_eServer "wikilink") iSeries로 명칭이 변경되었다. 2006년에 IBM 시스템 브랜딩 이니셔티브의 일부로서 이름이 **시스템 i**로 다시 변경되었다. AS/400의 코드명은 "실버레이크"(Silver Lake)였다.
 
-2008년 4월, IBM은 [IBM 시스템 p](https://ko.wikipedia.org/wiki/IBM_시스템_p "wikilink") 플랫폼과의 연동을 발표하였다. 통합된 제품 계열의 이름은 [IBM 파워 시스템이며](https://ko.wikipedia.org/wiki/IBM_파워_시스템 "wikilink") [IBM i](https://ko.wikipedia.org/wiki/IBM_i "wikilink")(과거 명칭: i5/OS 또는 OS/400), [AIX](https://ko.wikipedia.org/wiki/AIX_\(운영_체제\) "wikilink"), [GNU](https://ko.wikipedia.org/wiki/GNU "wikilink")/[리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 운영 체제의 지원을 추가하고 있다.
+2008년 4월, IBM은 [IBM 시스템 p](https://ko.wikipedia.org/wiki/IBM_시스템_p "wikilink") 플랫폼과의 연동을 발표하였다. 통합된 제품 계열의 이름은 [IBM 파워 시스템이며](../Page/IBM_파워_시스템.md "wikilink") [IBM i](https://ko.wikipedia.org/wiki/IBM_i "wikilink")(과거 명칭: i5/OS 또는 OS/400), [AIX](https://ko.wikipedia.org/wiki/AIX_\(운영_체제\) "wikilink"), [GNU](../Page/GNU.md "wikilink")/[리눅스](../Page/리눅스.md "wikilink") 운영 체제의 지원을 추가하고 있다.
 
 ## 하드웨어
 

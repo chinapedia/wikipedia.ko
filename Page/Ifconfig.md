@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Ifconfig](https://ko.wikipedia.org/wiki/Ifconfig).
 
 
-**ifconfig**는 [네트워크 인터페이스](https://ko.wikipedia.org/wiki/네트워크_카드 "wikilink") 구성을 위한 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 운영체제의 시스템 관리 유틸리티이다.
+**ifconfig**는 [네트워크 인터페이스](https://ko.wikipedia.org/wiki/네트워크_카드 "wikilink") 구성을 위한 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영체제의 시스템 관리 유틸리티이다.
 
-이 유틸리티는 [명령 줄 인터페이스](https://ko.wikipedia.org/wiki/명령_줄_인터페이스 "wikilink") 도구의 하나이며, 수많은 운영 체제의 시스템 시작 스크립트에도 사용된다. [TCP/IP](https://ko.wikipedia.org/wiki/TCP/IP "wikilink") 네트워크 인터페이스 변수의 구성, 제어, 조회를 위한 기능을 갖추고 있다. ifconfig는 [BSD](https://ko.wikipedia.org/wiki/BSD "wikilink") TCP/IP 제품군의 일부로서 4.2BSD에 처음 등장하였다.
+이 유틸리티는 [명령 줄 인터페이스](../Page/명령_줄_인터페이스.md "wikilink") 도구의 하나이며, 수많은 운영 체제의 시스템 시작 스크립트에도 사용된다. [TCP/IP](https://ko.wikipedia.org/wiki/TCP/IP "wikilink") 네트워크 인터페이스 변수의 구성, 제어, 조회를 위한 기능을 갖추고 있다. ifconfig는 [BSD](../Page/BSD.md "wikilink") TCP/IP 제품군의 일부로서 4.2BSD에 처음 등장하였다.
 
 ifconfig 는 네트워크 인터페이스 구성(interface configuration)의 약자이다.\[1\]
 
 ## 용도
 
-`ifconfig`는 일반적으로 네트워크 인터페이스의 [IP 주소와](https://ko.wikipedia.org/wiki/IP_주소 "wikilink") [넷마스크](https://ko.wikipedia.org/wiki/넷마스크 "wikilink")의 설정 및 인터페이스의 활성화/비활성화 등을 위해 사용된다.\[2\] 시동 시에 유닉스 계열 운영 체제는 ifconfig를 호출하는 셸 스크립트를 통해 네트워크 인터페이스를 초기화한다. 시스템 관리자들은 상호작용 도구의 하나인 이 유틸리티를 사용하여 네트워크 인터페이스 변수를 표시하고 분석할 수 있다. 다음의 두 예제는 도구의 출력을 표시하며 각각 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 기반 호스트(인터페이스 [eth](https://ko.wikipedia.org/wiki/이더넷 "wikilink")0)와 [OpenBSD](https://ko.wikipedia.org/wiki/OpenBSD "wikilink") 설치본의 [ural](https://ko.wikipedia.org/wiki/Ralink "wikilink")0 인터페이스가 있는 하나의 활성화된 인터페이스를 조회하는 모습을 보여주고 있다.
+`ifconfig`는 일반적으로 네트워크 인터페이스의 [IP 주소와](../Page/IP_주소.md "wikilink") [넷마스크](https://ko.wikipedia.org/wiki/넷마스크 "wikilink")의 설정 및 인터페이스의 활성화/비활성화 등을 위해 사용된다.\[2\] 시동 시에 유닉스 계열 운영 체제는 ifconfig를 호출하는 셸 스크립트를 통해 네트워크 인터페이스를 초기화한다. 시스템 관리자들은 상호작용 도구의 하나인 이 유틸리티를 사용하여 네트워크 인터페이스 변수를 표시하고 분석할 수 있다. 다음의 두 예제는 도구의 출력을 표시하며 각각 [리눅스](../Page/리눅스.md "wikilink") 기반 호스트(인터페이스 [eth](../Page/이더넷.md "wikilink")0)와 [OpenBSD](../Page/OpenBSD.md "wikilink") 설치본의 [ural](https://ko.wikipedia.org/wiki/Ralink "wikilink")0 인터페이스가 있는 하나의 활성화된 인터페이스를 조회하는 모습을 보여주고 있다.
 
 ```
  eth0      Link encap:Ethernet  HWaddr 00:0F:20:CF:8B:42
@@ -32,7 +32,7 @@ ifconfig 는 네트워크 인터페이스 구성(interface configuration)의 약
          inet6 fe80::20d:bff:feed:84fb%ural0 prefixlen 64 scopeid 0xa
 ```
 
-  - HWaddr은 하드웨어 주소(hardware address), 즉 [MAC 주소를](https://ko.wikipedia.org/wiki/MAC_주소 "wikilink") 가리킨다.
+  - HWaddr은 하드웨어 주소(hardware address), 즉 [MAC 주소를](../Page/MAC_주소.md "wikilink") 가리킨다.
   - txqueuelen 변수는 [이더넷 프레임의](https://ko.wikipedia.org/wiki/이더넷_프레임 "wikilink") 수, 그리고 [네트워크 스케줄러에](https://ko.wikipedia.org/wiki/네트워크_스케줄러 "wikilink") 의해 관리되는 버퍼의 크기를 통해 측정된다.
 
 ### 매체 접근 제어 기능

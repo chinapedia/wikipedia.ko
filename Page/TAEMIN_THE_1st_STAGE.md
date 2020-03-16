@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TAEMIN THE 1st STAGE](https://ko.wikipedia.org/wiki/TAEMIN_THE_1st_STAGE).
 
 
-《**TAEMIN THE 1st STAGE**》는 대한민국의 음악 그룹 [샤이니](https://ko.wikipedia.org/wiki/샤이니 "wikilink")의 멤버 [태민](https://ko.wikipedia.org/wiki/태민 "wikilink")의 첫 번째 일본 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+《**TAEMIN THE 1st STAGE**》는 대한민국의 음악 그룹 [샤이니](../Page/샤이니.md "wikilink")의 멤버 [태민](../Page/태민.md "wikilink")의 첫 번째 일본 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 투어 일정
 

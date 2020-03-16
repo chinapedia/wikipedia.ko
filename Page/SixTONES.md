@@ -26,14 +26,14 @@
 <td><p>노랑[2]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/쿄모토_타이가" title="wikilink">쿄모토타이가</a> (京本大我)</p></td>
+<td><p><a href="../Page/쿄모토_타이가.md" title="wikilink">쿄모토타이가</a> (京本大我)</p></td>
 <td><p>1994년 12월 3일(23세)</p></td>
 <td><p>도쿄도 출신</p></td>
 <td><p>B형</p></td>
 <td><p>핑크[3]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/다나카_쥬리" title="wikilink">다나카쥬리</a> (田中樹)</p></td>
+<td><p><a href="../Page/다나카_쥬리.md" title="wikilink">다나카쥬리</a> (田中樹)</p></td>
 <td><p>1995년 6월 15일(23세)</p></td>
 <td><p>치바현 출신</p></td>
 <td><p>B형</p></td>
@@ -47,14 +47,14 @@
 <td><p>검정[5]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/제시_(배우)" title="wikilink">제시</a> (ジェシー )</p></td>
+<td><p><a href="../Page/제시_(배우).md" title="wikilink">제시</a> (ジェシー )</p></td>
 <td><p>1996년 6월 11일(22세)</p></td>
 <td><p>도쿄도 출신</p></td>
 <td><p>O형[6]</p></td>
 <td><p>빨강[7]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/모리모토_신타로" title="wikilink">모리모토신타로</a> (森本慎太郎)</p></td>
+<td><p><a href="../Page/모리모토_신타로.md" title="wikilink">모리모토신타로</a> (森本慎太郎)</p></td>
 <td><p>1997년 7월 15일(21세)</p></td>
 <td><p>카나가와현 출신</p></td>
 <td><p>A형</p></td>

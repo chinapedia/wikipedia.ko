@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 나프탄 나바폴라츠크**()는 [나바폴라츠크](https://ko.wikipedia.org/wiki/나바폴라츠크 "wikilink")를 연고로 하는 [벨라루스](https://ko.wikipedia.org/wiki/벨라루스 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재는 [벨라루스 프리미어리그에](https://ko.wikipedia.org/wiki/벨라루스_프리미어리그 "wikilink") 참가하고 있다.
+**FC 나프탄 나바폴라츠크**()는 [나바폴라츠크](https://ko.wikipedia.org/wiki/나바폴라츠크 "wikilink")를 연고로 하는 [벨라루스](../Page/벨라루스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [벨라루스 프리미어리그에](../Page/벨라루스_프리미어리그.md "wikilink") 참가하고 있다.
 
 ## 성적
 

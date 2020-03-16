@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ROVO](https://ko.wikipedia.org/wiki/ROVO).
 
 
-**ROVO**(ロヴォ)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 록 밴드이다. 1995년 [카츠이 유지](https://ko.wikipedia.org/wiki/카츠이_유지 "wikilink"), [야마모토 세이치를](../Page/야마모토_세이치.md "wikilink") 중심으로 '우주같은 것을 해보자'라는 모토로 결성. [요시가키 야스히로](../Page/요시가키_야스히로.md "wikilink") [아베 요이치](https://ko.wikipedia.org/wiki/아베_요이치 "wikilink") 등과 압도적 스피드의 더블 드러밍으로 수공예 [트랜스 음악이라는](https://ko.wikipedia.org/wiki/트랜스_음악 "wikilink") 평가를 받았다. 이후 스트로보, 소프트, 나츠멘 등의 밴드가 결성되는 원조격 밴드이다.
+**ROVO**(ロヴォ)는 [일본](../Page/일본.md "wikilink")의 록 밴드이다. 1995년 [카츠이 유지](https://ko.wikipedia.org/wiki/카츠이_유지 "wikilink"), [야마모토 세이치를](../Page/야마모토_세이치.md "wikilink") 중심으로 '우주같은 것을 해보자'라는 모토로 결성. [요시가키 야스히로](../Page/요시가키_야스히로.md "wikilink") [아베 요이치](https://ko.wikipedia.org/wiki/아베_요이치 "wikilink") 등과 압도적 스피드의 더블 드러밍으로 수공예 [트랜스 음악이라는](../Page/트랜스_음악.md "wikilink") 평가를 받았다. 이후 스트로보, 소프트, 나츠멘 등의 밴드가 결성되는 원조격 밴드이다.
 
 ## 개요
 

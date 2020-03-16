@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [STL \( \)](https://ko.wikipedia.org/wiki/STL_\(_\)).
 
 
-**STL**은 [3D 시스템즈가](https://ko.wikipedia.org/wiki/3D_시스템즈 "wikilink") 개발한 [스테레오리소그래피](https://ko.wikipedia.org/wiki/스테레오리소그래피 "wikilink") [CAD](https://ko.wikipedia.org/wiki/컴퓨터_지원_설계 "wikilink") 소프트웨어의 파일 포맷이다.\[1\]\[2\]\[3\] STL이라는 이름은 [스테레오리소그래피](https://ko.wikipedia.org/wiki/스테레오리소그래피 "wikilink")에서 온 것으로 [배크로님](https://ko.wikipedia.org/wiki/배크로님 "wikilink")이 있다.
+**STL**은 [3D 시스템즈가](https://ko.wikipedia.org/wiki/3D_시스템즈 "wikilink") 개발한 [스테레오리소그래피](https://ko.wikipedia.org/wiki/스테레오리소그래피 "wikilink") [CAD](../Page/컴퓨터_지원_설계.md "wikilink") 소프트웨어의 파일 포맷이다.\[1\]\[2\]\[3\] STL이라는 이름은 [스테레오리소그래피](https://ko.wikipedia.org/wiki/스테레오리소그래피 "wikilink")에서 온 것으로 [배크로님](https://ko.wikipedia.org/wiki/배크로님 "wikilink")이 있다.
 
 표면을 [삼각형화](https://ko.wikipedia.org/wiki/삼각형화 "wikilink")시켜서 저장한다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Shape of You](https://ko.wikipedia.org/wiki/Shape_of_You).
 
 
-"**Shape of You**"는 잉글랜드의 싱어송라이터 [에드 시런의](https://ko.wikipedia.org/wiki/에드_시런 "wikilink") 노래이다. 2017년 1월 6일 발매되었으며, 세번째 정규 음반 *[÷](../Page/÷_\(음반\).md "wikilink")*의 수록곡이자 "[Castle on the Hill](https://ko.wikipedia.org/wiki/Castle_on_the_Hill "wikilink")"과 함께 더블 리드 싱글이다.\[1\]
+"**Shape of You**"는 잉글랜드의 싱어송라이터 [에드 시런의](../Page/에드_시런.md "wikilink") 노래이다. 2017년 1월 6일 발매되었으며, 세번째 정규 음반 *[÷](../Page/÷_\(음반\).md "wikilink")*의 수록곡이자 "[Castle on the Hill](../Page/Castle_on_the_Hill.md "wikilink")"과 함께 더블 리드 싱글이다.\[1\]
 
 ## 뮤직 비디오
 

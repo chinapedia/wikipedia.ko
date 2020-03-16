@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CKG48](https://ko.wikipedia.org/wiki/CKG48).
 
 
-**CKG48**(씨케이지포티에이트)는 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 [충칭 시를](https://ko.wikipedia.org/wiki/충칭_시 "wikilink") 중심으로 활동하는 [여성](https://ko.wikipedia.org/wiki/여성 "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**CKG48**(씨케이지포티에이트)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [충칭 시를](https://ko.wikipedia.org/wiki/충칭_시 "wikilink") 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
-[SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")의 자매 그룹의 하나이다. 「CKG」라는 이름은 충칭 시의 대표 지역의 충칭(**C**hung**k**in**g**)에서 유래했다.
+[SNH48](../Page/SNH48.md "wikilink")의 자매 그룹의 하나이다. 「CKG」라는 이름은 충칭 시의 대표 지역의 충칭(**C**hung**k**in**g**)에서 유래했다.
 
 ## 약력
 
@@ -413,7 +413,7 @@
 <td><p>6월 19일</p></td>
 <td><p>3기</p></td>
 <td><p>K</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀HⅡ 이적</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀HⅡ 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -423,7 +423,7 @@
 <td><p>2월 23일</p></td>
 <td><p>1기</p></td>
 <td><p>K</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀HⅡ 이적</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀HⅡ 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -433,7 +433,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>K</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀HⅡ 이적</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀HⅡ 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -443,7 +443,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>C</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SNH48" title="wikilink">SNH48</a> 팀X 이적</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀X 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -688,7 +688,7 @@ CKG99100118</p></td>
 
 ## 관련 항목
 
-  - [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink")
+  - [SNH48](../Page/SNH48.md "wikilink")
   - [BEJ48](https://ko.wikipedia.org/wiki/BEJ48 "wikilink")
   - [GNZ48](../Page/GNZ48.md "wikilink")
   - [SHY48](../Page/SHY48.md "wikilink")

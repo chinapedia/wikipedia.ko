@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 미카**(, )는 [예레반](https://ko.wikipedia.org/wiki/예레반 "wikilink")을 연고로 하던 [아르메니아](https://ko.wikipedia.org/wiki/아르메니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 이 클럽은 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")에 설립되었으며 [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink")에 해체되었다.
+**FC 미카**(, )는 [예레반](../Page/예레반.md "wikilink")을 연고로 하던 [아르메니아](../Page/아르메니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 이 클럽은 [1999년](../Page/1999년.md "wikilink")에 설립되었으며 [2016년](../Page/2016년.md "wikilink")에 해체되었다.
 
 ## 성적
 

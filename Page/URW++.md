@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [URW++](https://ko.wikipedia.org/wiki/URW++).
 
 
-**URW ++**(Design and Development GmbH)는 [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [함부르크](https://ko.wikipedia.org/wiki/함부르크 "wikilink")에 본사를 두고있는 서체 [파운드리](https://ko.wikipedia.org/wiki/파운드리 "wikilink")이다.\[1\]
+**URW ++**(Design and Development GmbH)는 [독일](../Page/독일.md "wikilink") [함부르크](../Page/함부르크.md "wikilink")에 본사를 두고있는 서체 [파운드리](https://ko.wikipedia.org/wiki/파운드리 "wikilink")이다.\[1\]
 
 1972년에 창립된 URW\[2\]의 계승회사이다. URW ++는 오픈 소스 글꼴 및 비즈니스용 사용자 정의 글꼴을 디자인하는 디지털 글꼴 기술의 선도적인 개발 업체가 되었다.\[3\]
 
@@ -10,7 +10,7 @@
 URW에서 만든 글꼴에는 다음과 같은 것이 있다.
 
   - Nimbus 글꼴 패밀리
-  - URW Bookman L 및 URW Gothic L과 같은 [고스트스크립트](https://ko.wikipedia.org/wiki/고스트스크립트 "wikilink") 글꼴
+  - URW Bookman L 및 URW Gothic L과 같은 [고스트스크립트](../Page/고스트스크립트.md "wikilink") 글꼴
 
 ## 같이 보기
 

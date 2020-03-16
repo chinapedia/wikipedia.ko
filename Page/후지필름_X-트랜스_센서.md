@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ X- ](https://ko.wikipedia.org/wiki/_X-_).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:XTrans_matrix.png "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:Bayer_matrix.svg "wikilink") **후지필름 X-트랜스**는 [후지필름](https://ko.wikipedia.org/wiki/후지필름 "wikilink")에 의해 개발된 [CMOS 이미지 센서이며](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink"), [후지필름 X-시리즈](https://ko.wikipedia.org/wiki/후지필름_X-시리즈 "wikilink") 카메라에 사용된다. 전통적인 베이어 필터 배열을 보이는 대부분의 CMOS 센서와는 달리, X-트랜스 샌서는 특이한 6X6 패턴을 가지고 있다. 후지필름은 이러한 배열이 로-패스 필터를 필요하지 않게 함으로써 [무아레](https://ko.wikipedia.org/wiki/무아레 "wikilink") 현상을 최소화하고, 해상도를 향상시킨다고 주장한다.\[1\]
+[오른쪽](https://ko.wikipedia.org/wiki/파일:XTrans_matrix.png "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:Bayer_matrix.svg "wikilink") **후지필름 X-트랜스**는 [후지필름](../Page/후지필름.md "wikilink")에 의해 개발된 [CMOS 이미지 센서이며](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink"), [후지필름 X-시리즈](https://ko.wikipedia.org/wiki/후지필름_X-시리즈 "wikilink") 카메라에 사용된다. 전통적인 베이어 필터 배열을 보이는 대부분의 CMOS 센서와는 달리, X-트랜스 샌서는 특이한 6X6 패턴을 가지고 있다. 후지필름은 이러한 배열이 로-패스 필터를 필요하지 않게 함으로써 [무아레](https://ko.wikipedia.org/wiki/무아레 "wikilink") 현상을 최소화하고, 해상도를 향상시킨다고 주장한다.\[1\]
 
 ## X 트랜스 센서 목록
 
@@ -35,10 +35,10 @@
 <td><p>16.7 MP</p></td>
 <td><p>23.6 mm x 15.6 mm (APS-C)</p></td>
 <td><p>2013 년 1월 7일[4]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지필름_X100" title="wikilink">후지필름 X100S</a><br />
+<td><p><a href="../Page/후지필름_X100.md" title="wikilink">후지필름 X100S</a><br />
 <a href="../Page/후지필름_X-E2.md" title="wikilink">후지필름 X-E2</a><br />
 <a href="../Page/후지필름_X-T1.md" title="wikilink">후지필름 X-T1</a><br />
-<a href="https://ko.wikipedia.org/wiki/후지필름_X100" title="wikilink">후지필름 X100T</a><br />
+<a href="../Page/후지필름_X100.md" title="wikilink">후지필름 X100T</a><br />
 후지필름 X-T10<br />
 후지필름 X-E2s<br />
 후지필름 X70<br />
@@ -63,8 +63,8 @@
 <td><p>23.6 mm x 15.6 mm (APS-C)</p></td>
 <td><p>2016 1월 14일[8]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/후지필름_X-Pro2" title="wikilink">후지필름 X-Pro2</a><br />
-<a href="https://ko.wikipedia.org/wiki/후지필름_X-T2" title="wikilink">후지필름 X-T2</a><br />
-<a href="https://ko.wikipedia.org/wiki/후지필름_X100" title="wikilink">후지필름 X100F</a><br />
+<a href="../Page/후지필름_X-T2.md" title="wikilink">후지필름 X-T2</a><br />
+<a href="../Page/후지필름_X100.md" title="wikilink">후지필름 X100F</a><br />
 후지필름 X-T20<br />
 <a href="https://ko.wikipedia.org/wiki/후지필름_X-E3" title="wikilink">후지필름 X-E3</a><br />
 <a href="https://ko.wikipedia.org/wiki/후지필름_X-H1" title="wikilink">후지필름 X-H1</a></p></td>

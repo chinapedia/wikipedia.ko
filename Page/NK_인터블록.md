@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NK ](https://ko.wikipedia.org/wiki/NK_).
 
 
-**NK 인터블록**()은 [류블랴나](https://ko.wikipedia.org/wiki/류블랴나 "wikilink")를 연고로 하는 [슬로베니아](https://ko.wikipedia.org/wiki/슬로베니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") **NK 예지차**(NK Ježica)라는 이름으로 설립되었으며 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") 도박 회사인 인터블록(Interblock)이 구단을 인수하면서 지금과 같은 이름으로 바뀌었다.
+**NK 인터블록**()은 [류블랴나](../Page/류블랴나.md "wikilink")를 연고로 하는 [슬로베니아](../Page/슬로베니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [1975년](../Page/1975년.md "wikilink") **NK 예지차**(NK Ježica)라는 이름으로 설립되었으며 [2007년](../Page/2007년.md "wikilink") 도박 회사인 인터블록(Interblock)이 구단을 인수하면서 지금과 같은 이름으로 바뀌었다.
 
 ## 성적
 

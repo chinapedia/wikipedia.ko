@@ -1,27 +1,27 @@
 > This article is converted from Wikipedia: [SEPTA -  ](https://ko.wikipedia.org/wiki/SEPTA_-__).
 
 
-**서브웨이-서페이스 트롤리 10, 11, 13, 34, 36 호선**(Subway­Surface Trolley Routes 10, 11, 13, 34 & 36) 또는 **그린 라인**(Green Lines)은 [웨스트펜실베이니아](https://ko.wikipedia.org/wiki/웨스트펜실베이니아 "wikilink")와 [델라웨어 군](https://ko.wikipedia.org/wiki/델라웨어_군 "wikilink") 간을 노면으로 연결하는 다섯 노선의 SEPTA [트롤리](https://ko.wikipedia.org/wiki/노면전차 "wikilink") 노선으로, [필라델피아](https://ko.wikipedia.org/wiki/필라델피아 "wikilink")의 [센터 시티](https://ko.wikipedia.org/wiki/센터_시티 "wikilink")(Center City)의 지하에 있는 마켓 스트리트 지하철(Market Street subway)의 바깥 쪽 두 선로를 이용하여 [도시 철도로서의](https://ko.wikipedia.org/wiki/도시_철도 "wikilink") 역할도 맡고 있다. 5개 노선 전체로 약 의 길이를 가지고 있다.\[1\] ([SEPTA 15호선](https://ko.wikipedia.org/wiki/SEPTA_15호선 "wikilink")(지라드 애비뉴 선)은 전차용 트롤리이자 같은 노선색인 녹색을 사용하지만 서브웨이-서페이스 시스템(지하철 시스템)의 일부에 포함되지 않는다.)
+**서브웨이-서페이스 트롤리 10, 11, 13, 34, 36 호선**(Subway­Surface Trolley Routes 10, 11, 13, 34 & 36) 또는 **그린 라인**(Green Lines)은 [웨스트펜실베이니아](https://ko.wikipedia.org/wiki/웨스트펜실베이니아 "wikilink")와 [델라웨어 군](https://ko.wikipedia.org/wiki/델라웨어_군 "wikilink") 간을 노면으로 연결하는 다섯 노선의 SEPTA [트롤리](../Page/노면전차.md "wikilink") 노선으로, [필라델피아](../Page/필라델피아.md "wikilink")의 [센터 시티](https://ko.wikipedia.org/wiki/센터_시티 "wikilink")(Center City)의 지하에 있는 마켓 스트리트 지하철(Market Street subway)의 바깥 쪽 두 선로를 이용하여 [도시 철도로서의](https://ko.wikipedia.org/wiki/도시_철도 "wikilink") 역할도 맡고 있다. 5개 노선 전체로 약 의 길이를 가지고 있다.\[1\] ([SEPTA 15호선](https://ko.wikipedia.org/wiki/SEPTA_15호선 "wikilink")(지라드 애비뉴 선)은 전차용 트롤리이자 같은 노선색인 녹색을 사용하지만 서브웨이-서페이스 시스템(지하철 시스템)의 일부에 포함되지 않는다.)
 
-SEPTA 서브웨이-서페이스 선은 [보스턴](https://ko.wikipedia.org/wiki/보스턴 "wikilink")의 [그린 라인과](../Page/그린_라인_\(MBTA\).md "wikilink") [샌프란시스코](https://ko.wikipedia.org/wiki/샌프란시스코 "wikilink")의 [뮤니 메트로와](https://ko.wikipedia.org/wiki/뮤니_메트로 "wikilink") 함께 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")에서 [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 이전의 전차 시스템을 그대로 간직하고 있는 노선이다. 보스턴과 샌프란시스코의 시스템보다 좀 더 긴 [LRT](../Page/라이트_레일.md "wikilink") 차량을 사용하는 필라델피아는 112대의 [가와사키](https://ko.wikipedia.org/wiki/가와사키_중공업_차량_회사 "wikilink") K-Car LRV를 사용한다. 1981\~82년에 전달 받았으며, [교외 트롤리 노선에서](https://ko.wikipedia.org/wiki/SEPTA_101,102호선 "wikilink") 사용된 것과 유사하다.
+SEPTA 서브웨이-서페이스 선은 [보스턴](../Page/보스턴.md "wikilink")의 [그린 라인과](../Page/그린_라인_\(MBTA\).md "wikilink") [샌프란시스코](../Page/샌프란시스코.md "wikilink")의 [뮤니 메트로와](https://ko.wikipedia.org/wiki/뮤니_메트로 "wikilink") 함께 [미국](../Page/미국.md "wikilink")에서 [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 이전의 전차 시스템을 그대로 간직하고 있는 노선이다. 보스턴과 샌프란시스코의 시스템보다 좀 더 긴 [LRT](../Page/라이트_레일.md "wikilink") 차량을 사용하는 필라델피아는 112대의 [가와사키](https://ko.wikipedia.org/wiki/가와사키_중공업_차량_회사 "wikilink") K-Car LRV를 사용한다. 1981\~82년에 전달 받았으며, [교외 트롤리 노선에서](https://ko.wikipedia.org/wiki/SEPTA_101,102호선 "wikilink") 사용된 것과 유사하다.
 
 필라델피아 시내의 동부 종착역인 [주니퍼 스트리트 역](https://ko.wikipedia.org/wiki/13번가_역 "wikilink")(Juniper Street)에서 시작하고, 각 선로가 시청 및 딜워스 파크(Dilworth Park) 주위의 양쪽 도로에서 단선으로 나뉘어 운행하다가 마켓 스트리트(Market Street)에서 다시 두 선로가 만나 복선으로 운행된다.
 
 5개 노선 모두 지하철 역인 [13번가 역](https://ko.wikipedia.org/wiki/13번가_역_\(SEPTA\) "wikilink"), [15번가 역](https://ko.wikipedia.org/wiki/15번가_역_\(SEPTA\) "wikilink"), [19번가 역](https://ko.wikipedia.org/wiki/19번가_역_\(SEPTA\) "wikilink"), [22번가 역](https://ko.wikipedia.org/wiki/22번가_역_\(SEPTA\) "wikilink"), [30번가 역](https://ko.wikipedia.org/wiki/30번가_역_\(SEPTA_지하철\) "wikilink"), [33번가 역에](https://ko.wikipedia.org/wiki/33번가_역_\(SEPTA\) "wikilink") 정차한다. 15번가 역\~30번가 역 구간은 SEPTA의 [마켓 프랭크포드 선과](https://ko.wikipedia.org/wiki/마켓_프랭크포드_선 "wikilink") 같은 터널에서 운행한다. 내부 트랙의 급행 열차에서 바깥 쪽 부분에 트롤리 노선이 다닌다.
 
-승객은 13,15,30번가 역에서 [마켓 프랭크포드 선과](https://ko.wikipedia.org/wiki/마켓_프랭크포드_선 "wikilink"), 15번가 역에서 [브로드 스트리트 선과](https://ko.wikipedia.org/wiki/브로드_스트리트_선 "wikilink") 무료 환승이 가능하다. [SEPTA 리저널 레일과도](https://ko.wikipedia.org/wiki/SEPTA_리저널_레일 "wikilink") 연결되어 있으며, 지하 통로에서 13,15번가 역에서 [제퍼슨 역과](https://ko.wikipedia.org/wiki/제퍼슨_역_\(필라델피아\) "wikilink") [서버반 역으로](https://ko.wikipedia.org/wiki/서버반_역 "wikilink") 이동할 수 있다.
+승객은 13,15,30번가 역에서 [마켓 프랭크포드 선과](https://ko.wikipedia.org/wiki/마켓_프랭크포드_선 "wikilink"), 15번가 역에서 [브로드 스트리트 선과](https://ko.wikipedia.org/wiki/브로드_스트리트_선 "wikilink") 무료 환승이 가능하다. [SEPTA 리저널 레일과도](../Page/SEPTA_리저널_레일.md "wikilink") 연결되어 있으며, 지하 통로에서 13,15번가 역에서 [제퍼슨 역과](https://ko.wikipedia.org/wiki/제퍼슨_역_\(필라델피아\) "wikilink") [서버반 역으로](https://ko.wikipedia.org/wiki/서버반_역 "wikilink") 이동할 수 있다.
 
-30번가 트롤리 역은 [SEPTA 리저널 레일](https://ko.wikipedia.org/wiki/SEPTA_리저널_레일 "wikilink"), [암트랙](https://ko.wikipedia.org/wiki/암트랙 "wikilink") 및 [뉴저지 트랜싯](https://ko.wikipedia.org/wiki/뉴저지_트랜싯 "wikilink") 열차를 운행하는 [30번가 기차역](https://ko.wikipedia.org/wiki/30th_스트리트_역 "wikilink") 건너편에 있다. 이 역을 연결하는 지하 통로는 현재 폐쇄된 상태이다.
+30번가 트롤리 역은 [SEPTA 리저널 레일](../Page/SEPTA_리저널_레일.md "wikilink"), [암트랙](../Page/암트랙.md "wikilink") 및 [뉴저지 트랜싯](../Page/뉴저지_트랜싯.md "wikilink") 열차를 운행하는 [30번가 기차역](https://ko.wikipedia.org/wiki/30th_스트리트_역 "wikilink") 건너편에 있다. 이 역을 연결하는 지하 통로는 현재 폐쇄된 상태이다.
 
 10번 노선은 마켓 스트리트 바로 남쪽의 36번가에 있으며, [36번가 포털에서부터](https://ko.wikipedia.org/wiki/36번가_포털_역 "wikilink") 지하에서 노면으로 나와 북서쪽 방향으로 운행한다. 다른 4개의 노선은 36번가와 샌섬 스트리트(Sansom Streets), 37번가 및 스프루스 스트리트(Spruce Streets) 의 지하역을 거치고, 40번가 및 볼티모어 애비뉴(Baltimore Avenue) 근처의 [40번가 포털에서부터](https://ko.wikipedia.org/wiki/40번가_포털_역 "wikilink") 지하에서 노면으로 나와 남서쪽 방향으로 운행한다.
 
-[다비](https://ko.wikipedia.org/wiki/다비_\(펜실베이니아주\) "wikilink") (Darby)의 메인 스트리트 (Main Street)를 따라 운행하는 11번 노선은 [CSX 교통에서](https://ko.wikipedia.org/wiki/CSX_교통 "wikilink") 교차로를 통과한다. 현재 미국에서 유일하게 트롤리 선과 화물 철도 간선 사이의 평면 교차 지점을 가지고 있다.\[2\]\[3\]
+[다비](https://ko.wikipedia.org/wiki/다비_\(펜실베이니아주\) "wikilink") (Darby)의 메인 스트리트 (Main Street)를 따라 운행하는 11번 노선은 [CSX 교통에서](../Page/CSX_교통.md "wikilink") 교차로를 통과한다. 현재 미국에서 유일하게 트롤리 선과 화물 철도 간선 사이의 평면 교차 지점을 가지고 있다.\[2\]\[3\]
 
 ## 역사
 
 [섬네일에](https://ko.wikipedia.org/wiki/파일:SEPTA_Subway-Surface_underground.jpg "wikilink") 정차한 전차\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:SEPTA_K-Car_Subway_Surface.jpg "wikilink") 앞 전차\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Philadelphia_tram_\(195623926\).jpg "wikilink") 서브웨이-서페이스 선은 1892년에 전기 트롤리가 들여온 후 필라델피아에서 개발 된 훨씬 광범위한 전차 시스템의 잔재이다. 1902 년 수십 개의 트랙션 회사가 필라델피아 도시 철도 회사(Philadelphia Rapid Transit Company, PRT)로 통합되었다. PRT는 웨스트필라델피아 노선을 지하철 터널로 횡단하여 시내 중심가에 접근했다. PRT가 1939년에 파산을 선언 한 후, 필라델피아 교통 회사(Philadelphia Transportation Company, PTC)로 재개되었다가, 1968년 SEPTA에 흡수되었다.\[4\]
 
-2006년 10월, [펜실베이니아 대학교의](https://ko.wikipedia.org/wiki/펜실베이니아_대학교 "wikilink") 1956년 학번은 [37th/스프루스 역의](https://ko.wikipedia.org/wiki/37th/스프루스_역 "wikilink") 동쪽 출구 중 하나에 대한 혁신적인 포털 건설(및 1923\~26년 J. G. Brill and Company에서 제조 한 피터 위트(Peter Witt) 트롤리의 복제본)에 자금을 지원했다. 1956년까지 필라델피아 교통 회사에서 운영한 이 트롤리는 대학생들을 캠퍼스와 [센터 시티](https://ko.wikipedia.org/wiki/센터_시티 "wikilink")(Center City)까지 수송시켰다. 루트 11, 34, 37번은 우드랜드 애비뉴(Woodland Avenue)와 로쿠스트 스트리트(Locust Streets)의 Penn 캠퍼스를 거의 65년 동안 운영했다. 1956년 대학교에서 캠퍼스를 통합하기 위해 이 트롤리 경로를 해체시키고, 우드랜드 애비뉴와 로커스트 스트리트는 보행자 전용 도로가 되었다.
+2006년 10월, [펜실베이니아 대학교의](../Page/펜실베이니아_대학교.md "wikilink") 1956년 학번은 [37th/스프루스 역의](https://ko.wikipedia.org/wiki/37th/스프루스_역 "wikilink") 동쪽 출구 중 하나에 대한 혁신적인 포털 건설(및 1923\~26년 J. G. Brill and Company에서 제조 한 피터 위트(Peter Witt) 트롤리의 복제본)에 자금을 지원했다. 1956년까지 필라델피아 교통 회사에서 운영한 이 트롤리는 대학생들을 캠퍼스와 [센터 시티](https://ko.wikipedia.org/wiki/센터_시티 "wikilink")(Center City)까지 수송시켰다. 루트 11, 34, 37번은 우드랜드 애비뉴(Woodland Avenue)와 로쿠스트 스트리트(Locust Streets)의 Penn 캠퍼스를 거의 65년 동안 운영했다. 1956년 대학교에서 캠퍼스를 통합하기 위해 이 트롤리 경로를 해체시키고, 우드랜드 애비뉴와 로커스트 스트리트는 보행자 전용 도로가 되었다.
 
 ## 전환 서비스
 
@@ -113,7 +113,7 @@ Elmwood Avenue</p></td>
 <!-- end list -->
 
   - **[31호선](https://ko.wikipedia.org/wiki/SEPTA_31호선 "wikilink")** ­ 오버브룩 파크(Overbrook Park) (랜스돈 & 해버퍼드 애비뉴 루프) 에서 63번가,마켓 스트리트,서브웨이 서페이스 터널을 거쳐 [주니퍼/13번가 역까지](https://ko.wikipedia.org/wiki/13번가_역_\(SEPTA\) "wikilink") - [캘로힐 차량기지](https://ko.wikipedia.org/wiki/캘로힐_차량기지 "wikilink"). 1955년에 버스로 대체.
-  - **[37호선](https://ko.wikipedia.org/wiki/SEPTA_37호선 "wikilink")** ­ [체스터](https://ko.wikipedia.org/wiki/체스터 "wikilink")(Chester, PA) (3번가 & 크로즈비 스트리트)에서 인더스트리얼 하이웨이([PA 291](https://ko.wikipedia.org/wiki/펜실베이니아_주도_제291호선 "wikilink")) 이스트윅 애비뉴,우드랜드 애비뉴,서브웨이 서페이스 터널을 거쳐 [주니퍼/13번가 역까지](https://ko.wikipedia.org/wiki/13번가_역_\(SEPTA\) "wikilink") - [우드랜드 카하우스](https://ko.wikipedia.org/wiki/우드랜드_카하우스 "wikilink"). 1955년에 버스로 대체.
+  - **[37호선](https://ko.wikipedia.org/wiki/SEPTA_37호선 "wikilink")** ­ [체스터](../Page/체스터.md "wikilink")(Chester, PA) (3번가 & 크로즈비 스트리트)에서 인더스트리얼 하이웨이([PA 291](https://ko.wikipedia.org/wiki/펜실베이니아_주도_제291호선 "wikilink")) 이스트윅 애비뉴,우드랜드 애비뉴,서브웨이 서페이스 터널을 거쳐 [주니퍼/13번가 역까지](https://ko.wikipedia.org/wiki/13번가_역_\(SEPTA\) "wikilink") - [우드랜드 카하우스](https://ko.wikipedia.org/wiki/우드랜드_카하우스 "wikilink"). 1955년에 버스로 대체.
   - **[38호선](https://ko.wikipedia.org/wiki/SEPTA_38호선 "wikilink")** ­ 파크사이드(Parkside) (48번가 & 파크사이드 애비뉴 루프)에서 파크사이드 애비뉴,40번가,바링 스트리트,서브웨이 서페이스 터널을 거쳐 [주니퍼/13번가/시청역까지](https://ko.wikipedia.org/wiki/13번가_역_\(SEPTA\) "wikilink") - 캘로힐 차량기지. 1955년에 버스로 대체.
 
 ## 역
@@ -144,7 +144,7 @@ Elmwood Avenue</p></td>
 <td><ul>
 <li><a href="https://ko.wikipedia.org/wiki/마켓_프랭크포드_선" title="wikilink">마켓 프랭크포드 선과</a> 무료 환승</li>
 <li><a href="https://ko.wikipedia.org/wiki/브로드_스트리트_선" title="wikilink">브로드 스트리트 선과</a> 무료 환승: <a href="https://ko.wikipedia.org/wiki/시청역_(SEPTA)" title="wikilink">시청</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/SEPTA_리저널_레일" title="wikilink">SEPTA 리저널 레일과</a> 환승: <a href="https://ko.wikipedia.org/wiki/서버반_역" title="wikilink">서버반 역</a></li>
+<li><a href="../Page/SEPTA_리저널_레일.md" title="wikilink">SEPTA 리저널 레일과</a> 환승: <a href="https://ko.wikipedia.org/wiki/서버반_역" title="wikilink">서버반 역</a></li>
 <li>SEPTA 버스와 환승: 4, 16, <a href="https://ko.wikipedia.org/wiki/:en:SEPTA_Route_17" title="wikilink">17</a>, <a href="https://ko.wikipedia.org/wiki/:en:SEPTA_Route_27" title="wikilink">27</a>, <a href="https://ko.wikipedia.org/wiki/:en:SEPTA_Route_31" title="wikilink">31</a>, <a href="https://ko.wikipedia.org/wiki/:en:SEPTA_Route_32" title="wikilink">32</a>, <a href="https://ko.wikipedia.org/wiki/:en:SEPTA_Route_33" title="wikilink">33</a>, <a href="https://ko.wikipedia.org/wiki/:en:SEPTA_Route_38" title="wikilink">38</a>, <a href="https://ko.wikipedia.org/wiki/:en:SEPTA_Route_44" title="wikilink">44</a>, <a href="https://ko.wikipedia.org/wiki/:en:SEPTA_Route_48" title="wikilink">48</a>, 62, <a href="https://ko.wikipedia.org/wiki/:en:SEPTA_Route_124" title="wikilink">124</a>, <a href="https://ko.wikipedia.org/wiki/:en:SEPTA_Route_125" title="wikilink">125</a></li>
 </ul></td>
 </tr>
@@ -168,7 +168,7 @@ Elmwood Avenue</p></td>
 <td><p>10, 11, 13, 34, 36</p></td>
 <td><ul>
 <li><a href="https://ko.wikipedia.org/wiki/마켓_프랭크포드_선" title="wikilink">마켓 프랭크포드 선과</a> 무료 환승</li>
-<li><a href="https://ko.wikipedia.org/wiki/SEPTA_리저널_레일" title="wikilink">SEPTA 리저널 레일과</a> 환승: <a href="https://ko.wikipedia.org/wiki/30th_스트리트_역" title="wikilink">30th 스트리트 역</a></li>
+<li><a href="../Page/SEPTA_리저널_레일.md" title="wikilink">SEPTA 리저널 레일과</a> 환승: <a href="https://ko.wikipedia.org/wiki/30th_스트리트_역" title="wikilink">30th 스트리트 역</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -199,7 +199,7 @@ Elmwood Avenue</p></td>
 <a href="https://ko.wikipedia.org/wiki/:en:Sansom_Commons/36th_Street_(SEPTA_station)" title="wikilink">Sansom Commons/36th Street</a></p></td>
 <td><p>11, 13, 34, 36</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/펜실베이니아_대학교" title="wikilink">펜실베이니아 대학교에</a> 대해 진입 가능</li>
+<li><a href="../Page/펜실베이니아_대학교.md" title="wikilink">펜실베이니아 대학교에</a> 대해 진입 가능</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -208,7 +208,7 @@ Elmwood Avenue</p></td>
 <td><p>11, 13, 34, 36</p></td>
 <td><ul>
 <li>SEPTA 버스와 환승: 40, 42 &amp; LUCY Routes</li>
-<li><a href="https://ko.wikipedia.org/wiki/펜실베이니아_대학교" title="wikilink">펜실베이니아 대학교</a> &amp; <a href="https://ko.wikipedia.org/wiki/필라델피아_아동_병원" title="wikilink">필라델피아 아동 병원에서</a> 도보 거리에 있음</li>
+<li><a href="../Page/펜실베이니아_대학교.md" title="wikilink">펜실베이니아 대학교</a> &amp; <a href="https://ko.wikipedia.org/wiki/필라델피아_아동_병원" title="wikilink">필라델피아 아동 병원에서</a> 도보 거리에 있음</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -271,7 +271,7 @@ Elmwood Avenue</p></td>
 
 ## 같이 보기
 
-  - [SEPTA](https://ko.wikipedia.org/wiki/SEPTA "wikilink")
+  - [SEPTA](../Page/SEPTA.md "wikilink")
   - [펜실베이니아 궤간](https://ko.wikipedia.org/wiki/펜실베이니아_궤간 "wikilink")
 
 ## 각주

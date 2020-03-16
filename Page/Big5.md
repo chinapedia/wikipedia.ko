@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Big5](https://ko.wikipedia.org/wiki/Big5).
 
 
-**Big-5** 또는 **Big5**는 [타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink"), [홍콩](https://ko.wikipedia.org/wiki/홍콩 "wikilink"), [마카오](https://ko.wikipedia.org/wiki/마카오 "wikilink")에서 [정체자](https://ko.wikipedia.org/wiki/정체자 "wikilink")에 쓰이는 [중국어 문자 인코딩](https://ko.wikipedia.org/wiki/중국어_문자_인코딩 "wikilink") 방식이다.
+**Big-5** 또는 **Big5**는 [타이완](../Page/타이완.md "wikilink"), [홍콩](../Page/홍콩.md "wikilink"), [마카오](../Page/마카오.md "wikilink")에서 [정체자](https://ko.wikipedia.org/wiki/정체자 "wikilink")에 쓰이는 [중국어 문자 인코딩](https://ko.wikipedia.org/wiki/중국어_문자_인코딩 "wikilink") 방식이다.
 
 [간체자](https://ko.wikipedia.org/wiki/간체자 "wikilink")를 사용하는 [중국 대륙은](https://ko.wikipedia.org/wiki/중국_대륙 "wikilink") [GB](https://ko.wikipedia.org/wiki/GBK "wikilink") 문자 집합을 대신 사용한다.
 
@@ -13,7 +13,7 @@ Big5는 이를 개발한 타이완 내 5개 기업의 컨소시엄에서 나온 
 
 오리지널 Big5 문자 집합은 흔히 사용되는 수많은 문자들이 빠져있었다. 이 문제를 해결하기 위해 각 벤더는 자체 확장을 개발하였다. ETen 확장은 대중화를 통해 현재의 Big5 표준의 일부로 되었다.
 
-Big5의 구조는 [ISO 2022](https://ko.wikipedia.org/wiki/ISO_2022 "wikilink") 표준을 준수하지 않으며, [Shift JIS](https://ko.wikipedia.org/wiki/Shift_JIS "wikilink") 인코딩과 어느 정도 유사하다. 다음 구조의 [더블 바이트 문자 집합](https://ko.wikipedia.org/wiki/더블_바이트_문자_집합 "wikilink")(DBCS)로 되어 있다.
+Big5의 구조는 [ISO 2022](https://ko.wikipedia.org/wiki/ISO_2022 "wikilink") 표준을 준수하지 않으며, [Shift JIS](../Page/Shift_JIS.md "wikilink") 인코딩과 어느 정도 유사하다. 다음 구조의 [더블 바이트 문자 집합](https://ko.wikipedia.org/wiki/더블_바이트_문자_집합 "wikilink")(DBCS)로 되어 있다.
 
 |                  |                                                    |
 | ---------------- | -------------------------------------------------- |
@@ -27,7 +27,7 @@ Big5의 구조는 [ISO 2022](https://ko.wikipedia.org/wiki/ISO_2022 "wikilink") 
 ### 벤더의 확장
 
   - [ETen](https://ko.wikipedia.org/wiki/ETen "wikilink")(倚天)
-  - [코드 페이지 950](https://ko.wikipedia.org/wiki/코드_페이지_950 "wikilink")
+  - [코드 페이지 950](../Page/코드_페이지_950.md "wikilink")
   - ChinaSea(中國海字集)
   - 사쿠라 폰트
   - Unicode-at-on(Unicode補完計畫, 과거 이름: BIG5 확장)
@@ -45,7 +45,7 @@ Big5의 구조는 [ISO 2022](https://ko.wikipedia.org/wiki/ISO_2022 "wikilink") 
 
 ## 같이 보기
 
-  - [유니코드](https://ko.wikipedia.org/wiki/유니코드 "wikilink")
+  - [유니코드](../Page/유니코드.md "wikilink")
 
 ## 각주
 
