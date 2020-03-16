@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [With!!](https://ko.wikipedia.org/wiki/With!!).
 
 
-《**with\!\!**》는 [사이토 겐이](https://ko.wikipedia.org/wiki/사이토_겐 "wikilink") 그린 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")이다. [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")부터 〈[LaLa](https://ko.wikipedia.org/wiki/LaLa "wikilink")〉([하쿠센샤](https://ko.wikipedia.org/wiki/하쿠센샤 "wikilink"))에 연재 중이다.
+《**with\!\!**》는 [사이토 겐이](https://ko.wikipedia.org/wiki/사이토_겐 "wikilink") 그린 [만화](../Page/만화.md "wikilink")이다. [2006년](../Page/2006년.md "wikilink")부터 〈[LaLa](../Page/LaLa.md "wikilink")〉([하쿠센샤](https://ko.wikipedia.org/wiki/하쿠센샤 "wikilink"))에 연재 중이다.
 
 ## 줄거리
 
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-1.  [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 13일](https://ko.wikipedia.org/wiki/3월_13일 "wikilink")　()　
-2.  [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 28일](https://ko.wikipedia.org/wiki/5월_28일 "wikilink")　()
+1.  [2007년](../Page/2007년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink")　()　
+2.  [2007년](../Page/2007년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink")　()
 
 [분류:일본의 만화](https://ko.wikipedia.org/wiki/분류:일본의_만화 "wikilink")

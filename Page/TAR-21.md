@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TAR-21](https://ko.wikipedia.org/wiki/TAR-21).
 
 
-**TAR-21**()은 선택 발사가 가능하고 [5.56 × 45 mm NATO](../Page/5.56_×_45_mm_NATO.md "wikilink") 탄환을 사용하는 이스라엘의 [불펍](https://ko.wikipedia.org/wiki/불펍 "wikilink") [돌격소총](https://ko.wikipedia.org/wiki/돌격소총 "wikilink")이다. TAR-21은 Tavor Assault Rifle - 21st Century의 약자이다. [이스라엘 방위군의](../Page/이스라엘_방위군.md "wikilink") 차세대 돌격소총으로 채택된 TAR-21은 이미 기바티 여단([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")부터)과 골라니 여단([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [8월](https://ko.wikipedia.org/wiki/8월 "wikilink")부터)의 제식 소총이며, 향후 몇 년 내에 이스라엘군의 표준 보병 화기가 될 것으로 보인다.
+**TAR-21**()은 선택 발사가 가능하고 [5.56 × 45 mm NATO](../Page/5.56_×_45_mm_NATO.md "wikilink") 탄환을 사용하는 이스라엘의 [불펍](../Page/불펍.md "wikilink") [돌격소총](../Page/돌격소총.md "wikilink")이다. TAR-21은 Tavor Assault Rifle - 21st Century의 약자이다. [이스라엘 방위군의](../Page/이스라엘_방위군.md "wikilink") 차세대 돌격소총으로 채택된 TAR-21은 이미 기바티 여단([2006년](../Page/2006년.md "wikilink") [8월](../Page/8월.md "wikilink")부터)과 골라니 여단([2008년](../Page/2008년.md "wikilink") [8월](../Page/8월.md "wikilink")부터)의 제식 소총이며, 향후 몇 년 내에 이스라엘군의 표준 보병 화기가 될 것으로 보인다.
 
 ## 디자인
 
@@ -75,7 +75,7 @@ IWI의 이전작 이던 갈릴(Galil)도 그랬듯이 타보르 또한 이스라
   - PC Game 콜 오브 듀티 모던워페어2 에 등장한다.
   - PC Game 배틀필드3에 MTAR-21이 등장한다.
   - PC Game 배틀필드4에 차이나 라이징 DLC 추가무기로 MTAR-21이 등장한다.
-  - [F.E.A.R.](https://ko.wikipedia.org/wiki/F.E.A.R. "wikilink") 시리즈에서 ASP 소총이라는 이름으로 등장한다.
+  - [F.E.A.R.](../Page/F.E.A.R..md "wikilink") 시리즈에서 ASP 소총이라는 이름으로 등장한다.
   - 온라인게임 워록에서 등장한다.
   - 온라인게임 서든 어택에서 등장한다.
   - 온라인게임 워페이스에서 고급등급 무기로 등장한다.
@@ -84,8 +84,8 @@ IWI의 이전작 이던 갈릴(Galil)도 그랬듯이 타보르 또한 이스라
 
 ## 같이 보기
 
-  - [불펍](https://ko.wikipedia.org/wiki/불펍 "wikilink")
-  - [HS Produkt VHS](https://ko.wikipedia.org/wiki/HS_Produkt_VHS "wikilink")
+  - [불펍](../Page/불펍.md "wikilink")
+  - [HS Produkt VHS](../Page/HS_Produkt_VHS.md "wikilink")
 
 ## 외부 링크
 

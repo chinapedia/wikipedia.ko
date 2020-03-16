@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AMX-10P](https://ko.wikipedia.org/wiki/AMX-10P).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Amx10p_23.jpg "wikilink") **AMX-10P**는 [프랑스](../Page/프랑스.md "wikilink")의 [보병전투차](https://ko.wikipedia.org/wiki/보병전투차 "wikilink")(infantry fighting vehicle, IFV)이다. AMX-10P는 [화생방](https://ko.wikipedia.org/wiki/화생방 "wikilink") 능력 및 수상 도하 능력을 갖췄으며, 물에서는 워터 제트 방식으로 기동한다. 2005년에 [프랑스 육군은](https://ko.wikipedia.org/wiki/프랑스_육군 "wikilink") 보유 차량 중 108대에 대해 성능 향상 작업을 실시하여 장갑 및 기동 능력에 주목할 만한 성능 향상을 이루었다.[1](http://www.defencetalk.com/news/publish/article_003274.php) 능동반응장갑도 이미 사용가능하다. AMX-10P도 프랑스를 비롯하여 여러 국가에서 사용되었으나 프랑스 육군은 2008년에 [VBCI](https://ko.wikipedia.org/wiki/VBCI "wikilink")로 대체할 예정이다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Amx10p_23.jpg "wikilink") **AMX-10P**는 [프랑스](../Page/프랑스.md "wikilink")의 [보병전투차](../Page/보병전투차.md "wikilink")(infantry fighting vehicle, IFV)이다. AMX-10P는 [화생방](https://ko.wikipedia.org/wiki/화생방 "wikilink") 능력 및 수상 도하 능력을 갖췄으며, 물에서는 워터 제트 방식으로 기동한다. 2005년에 [프랑스 육군은](https://ko.wikipedia.org/wiki/프랑스_육군 "wikilink") 보유 차량 중 108대에 대해 성능 향상 작업을 실시하여 장갑 및 기동 능력에 주목할 만한 성능 향상을 이루었다.[1](http://www.defencetalk.com/news/publish/article_003274.php) 능동반응장갑도 이미 사용가능하다. AMX-10P도 프랑스를 비롯하여 여러 국가에서 사용되었으나 프랑스 육군은 2008년에 [VBCI](https://ko.wikipedia.org/wiki/VBCI "wikilink")로 대체할 예정이다.
 
 ## 제원
 

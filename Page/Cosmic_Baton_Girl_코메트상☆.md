@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cosmic Baton Girl ](https://ko.wikipedia.org/wiki/Cosmic_Baton_Girl_).
 
 
-《**Cosmic Baton Girl 코메트상☆**》 () 또는 《**별나라 요정 코미**》(줄여서 **별코미**)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 텔레비전 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")으로, [요코야마 미츠테루의](https://ko.wikipedia.org/wiki/요코야마_미츠테루 "wikilink") 만화 《코메트상》를 원작으로 한 작품이다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월 1일부터](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [1월 27일까지](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") [TV 오사카를](../Page/TV_오사카.md "wikilink") 중심으로 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열국에서 방영되었다. 한국어 더빙판은 [KBS 2TV를](../Page/KBS_2TV.md "wikilink") 통해 《**별나라 요정 코미**》라는 제목으로 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 2월 17일부터 7월 14일까지 매주 일요일 오전 7시 50분부터 2편이 연속으로 방영되었고, 이후 [투니버스](https://ko.wikipedia.org/wiki/투니버스 "wikilink")를 통해서도 수시 편성된 바 있었는데 이들 중 마지막회는 [데블파이터](https://ko.wikipedia.org/wiki/데블파이터 "wikilink") 최종회와 함께 <만화동산>이란 이름으로 방송됐다.
+《**Cosmic Baton Girl 코메트상☆**》 () 또는 《**별나라 요정 코미**》(줄여서 **별코미**)는 [일본](../Page/일본.md "wikilink")의 텔레비전 [애니메이션](../Page/애니메이션.md "wikilink")으로, [요코야마 미츠테루의](https://ko.wikipedia.org/wiki/요코야마_미츠테루 "wikilink") 만화 《코메트상》를 원작으로 한 작품이다. [2001년](../Page/2001년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [1월 27일까지](../Page/1월_27일.md "wikilink") [TV 오사카를](../Page/TV_오사카.md "wikilink") 중심으로 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열국에서 방영되었다. 한국어 더빙판은 [KBS 2TV를](../Page/KBS_2TV.md "wikilink") 통해 《**별나라 요정 코미**》라는 제목으로 [2002년](../Page/2002년.md "wikilink") 2월 17일부터 7월 14일까지 매주 일요일 오전 7시 50분부터 2편이 연속으로 방영되었고, 이후 [투니버스](../Page/투니버스.md "wikilink")를 통해서도 수시 편성된 바 있었는데 이들 중 마지막회는 [데블파이터](../Page/데블파이터.md "wikilink") 최종회와 함께 <만화동산>이란 이름으로 방송됐다.
 
 ## 개요
 
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - 성우 : [마에다 아키](../Page/마에다_아키.md "wikilink") / [문선희](https://ko.wikipedia.org/wiki/문선희 "wikilink")
+  - 성우 : [마에다 아키](../Page/마에다_아키.md "wikilink") / [문선희](../Page/문선희.md "wikilink")
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@
 
 <!-- end list -->
 
-  - 성우 : 카와타 타에코 / [구민선](https://ko.wikipedia.org/wiki/구민선 "wikilink")
+  - 성우 : 카와타 타에코 / [구민선](../Page/구민선.md "wikilink")
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - 성우 : [혼다 치에코](https://ko.wikipedia.org/wiki/혼다_치에코 "wikilink") / [김옥경](https://ko.wikipedia.org/wiki/김옥경_\(성우\) "wikilink")
+  - 성우 : [혼다 치에코](../Page/혼다_치에코.md "wikilink") / [김옥경](../Page/김옥경_\(성우\).md "wikilink")
 
 <!-- end list -->
 
@@ -86,8 +86,8 @@
 <!-- end list -->
 
   - 성우
-      - 네네(아롱) : [마츠오카 유키](../Page/마츠오카_유키.md "wikilink") / [이연승](https://ko.wikipedia.org/wiki/이연승 "wikilink")
-      - 츠요시(다롱) : [마미야 쿠루미](../Page/마미야_쿠루미.md "wikilink") / [홍영란](https://ko.wikipedia.org/wiki/홍영란 "wikilink")
+      - 네네(아롱) : [마츠오카 유키](../Page/마츠오카_유키.md "wikilink") / [이연승](../Page/이연승.md "wikilink")
+      - 츠요시(다롱) : [마미야 쿠루미](../Page/마미야_쿠루미.md "wikilink") / [홍영란](../Page/홍영란.md "wikilink")
 
 <!-- end list -->
 
@@ -100,7 +100,7 @@
 
 <!-- end list -->
 
-  - 성우 : 야마노이 진 / [김일](https://ko.wikipedia.org/wiki/김일_\(성우\) "wikilink")
+  - 성우 : 야마노이 진 / [김일](../Page/김일_\(성우\).md "wikilink")
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@
 
 <!-- end list -->
 
-  - 성우 : 시모와다 히로키 / [오길경](https://ko.wikipedia.org/wiki/오길경 "wikilink")
+  - 성우 : 시모와다 히로키 / [오길경](../Page/오길경.md "wikilink")
 
 <!-- end list -->
 
@@ -191,7 +191,7 @@
 
 <!-- end list -->
 
-  - 성우 : 오오바 쿠미코 / [오길경](https://ko.wikipedia.org/wiki/오길경 "wikilink")
+  - 성우 : 오오바 쿠미코 / [오길경](../Page/오길경.md "wikilink")
 
 <!-- end list -->
 
@@ -204,7 +204,7 @@
 
 <!-- end list -->
 
-  - 성우 : [아오키 사야카](https://ko.wikipedia.org/wiki/아오키_사야카_\(성우\) "wikilink") / [황재경](../Page/황재경.md "wikilink")
+  - 성우 : [아오키 사야카](../Page/아오키_사야카_\(성우\).md "wikilink") / [황재경](../Page/황재경.md "wikilink")
 
 <!-- end list -->
 
@@ -217,7 +217,7 @@
 
 <!-- end list -->
 
-  - 성우 : 오오타케 히로시 / [서광재](https://ko.wikipedia.org/wiki/서광재 "wikilink")
+  - 성우 : 오오타케 히로시 / [서광재](../Page/서광재.md "wikilink")
 
 <!-- end list -->
 
@@ -230,7 +230,7 @@
 
 <!-- end list -->
 
-  - 성우 : [후카미 리카](https://ko.wikipedia.org/wiki/후카미_리카 "wikilink") / [홍영란](https://ko.wikipedia.org/wiki/홍영란 "wikilink")
+  - 성우 : [후카미 리카](../Page/후카미_리카.md "wikilink") / [홍영란](../Page/홍영란.md "wikilink")
 
 <!-- end list -->
 
@@ -243,7 +243,7 @@
 
 <!-- end list -->
 
-  - 성우 : [코바야시 사나에](../Page/코바야시_사나에.md "wikilink") / [오길경](https://ko.wikipedia.org/wiki/오길경 "wikilink")
+  - 성우 : [코바야시 사나에](../Page/코바야시_사나에.md "wikilink") / [오길경](../Page/오길경.md "wikilink")
 
 <!-- end list -->
 
@@ -265,7 +265,7 @@
 
 ' 캐스터네츠 성국 시종장
 
-  - 성우 : ([서광재](https://ko.wikipedia.org/wiki/서광재 "wikilink")/추정)
+  - 성우 : ([서광재](../Page/서광재.md "wikilink")/추정)
 
 <!-- end list -->
 
@@ -274,7 +274,7 @@
 
 ## 배경
 
-[가나가와현](https://ko.wikipedia.org/wiki/가나가와현 "wikilink") [가마쿠라 시가](https://ko.wikipedia.org/wiki/가마쿠라_시 "wikilink") 무대로 되어 있어 전철이나 역 주변은 [에노시마 전철을](https://ko.wikipedia.org/wiki/에노시마_전철 "wikilink"), 후지요시가 주변은 가마쿠라 시 주택가를, 해안은 유이가하마,이나무라가사키,시치리가하마를 배경으로 한 것이다.
+[가나가와현](../Page/가나가와현.md "wikilink") [가마쿠라 시가](https://ko.wikipedia.org/wiki/가마쿠라_시 "wikilink") 무대로 되어 있어 전철이나 역 주변은 [에노시마 전철을](../Page/에노시마_전철.md "wikilink"), 후지요시가 주변은 가마쿠라 시 주택가를, 해안은 유이가하마,이나무라가사키,시치리가하마를 배경으로 한 것이다.
 
 방영 기간 중에는 에노시마 전철의 역이나 거리에 포스터나 스티커가 붙여졌었고, 코메트상의 인형이 거리를 걷는 등, 거리에서 활발한 캠페인을 했다. 현재에도 코메트상과 [슬램 덩크의](../Page/슬램_덩크_\(만화\).md "wikilink") 분위기를 맛보고자 가마쿠라를 방문하는 사람은 많다.
 
@@ -309,8 +309,8 @@
 
 <!-- end list -->
 
-  - 발매처 : [NEC 인터채널](https://ko.wikipedia.org/wiki/인터채널 "wikilink") / 출판사 : [킹레코드](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink")
-  - 발매일 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [4월 25일](https://ko.wikipedia.org/wiki/4월_25일 "wikilink")
+  - 발매처 : [NEC 인터채널](https://ko.wikipedia.org/wiki/인터채널 "wikilink") / 출판사 : [킹레코드](../Page/킹레코드_\(일본\).md "wikilink")
+  - 발매일 : [2001년](../Page/2001년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink")
       - **너에게 스마일**() - 니이보리 나유
           - 너에게 스마일() (초기 오프닝)
           - 밀키웨이() (C/W)
@@ -324,8 +324,8 @@
 
 <!-- end list -->
 
-  - 발매처 : [NEC 인터채널](https://ko.wikipedia.org/wiki/인터채널 "wikilink") / 출판사 : [킹레코드](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink")
-  - 발매일 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [10월 30일](https://ko.wikipedia.org/wiki/10월_30일 "wikilink")
+  - 발매처 : [NEC 인터채널](https://ko.wikipedia.org/wiki/인터채널 "wikilink") / 출판사 : [킹레코드](../Page/킹레코드_\(일본\).md "wikilink")
+  - 발매일 : [2001년](../Page/2001년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink")
       - **미라클 파워 \~스타더스트☆버전\~**() - 나카야마 시즈카
           - 미라클 파워 \~스타더스트☆버전\~() (후기 오프닝)\[1\]
           - 별에게 소원을() (C/W)
@@ -335,12 +335,12 @@
 
 #### 앨범
 
-  - 발매처 : [NEC 인터채널](https://ko.wikipedia.org/wiki/인터채널 "wikilink") / 출판사 : [킹레코드](https://ko.wikipedia.org/wiki/킹레코드_\(일본\) "wikilink")
-      - 《코메트상☆ BGM집 1》 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") 발매
-      - 《코메트상☆ 캐릭터송 컬렉션》 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 발매
-      - 《코메트상☆ 캐릭터송 컬렉션 2》 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") 발매
-      - 《코메트상☆ BGM집 2》 : [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [12월 29일](https://ko.wikipedia.org/wiki/12월_29일 "wikilink") 발매
-      - 《코메트상☆ 베스트송 컬렉션》 : [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [1월 26일](https://ko.wikipedia.org/wiki/1월_26일 "wikilink") 발매
+  - 발매처 : [NEC 인터채널](https://ko.wikipedia.org/wiki/인터채널 "wikilink") / 출판사 : [킹레코드](../Page/킹레코드_\(일본\).md "wikilink")
+      - 《코메트상☆ BGM집 1》 : [2001년](../Page/2001년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") 발매
+      - 《코메트상☆ 캐릭터송 컬렉션》 : [2001년](../Page/2001년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") 발매
+      - 《코메트상☆ 캐릭터송 컬렉션 2》 : [2001년](../Page/2001년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") 발매
+      - 《코메트상☆ BGM집 2》 : [2001년](../Page/2001년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") 발매
+      - 《코메트상☆ 베스트송 컬렉션》 : [2002년](../Page/2002년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink") 발매
 
 ## 각주
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XPath](https://ko.wikipedia.org/wiki/XPath).
 
 
-**XPath**()는 [W3C](https://ko.wikipedia.org/wiki/W3C "wikilink")의 표준으로 [확장 생성 언어](https://ko.wikipedia.org/wiki/XML "wikilink") 문서의 구조를 통해 경로 위에 지정한 구문을 사용하여 항목을 배치하고 처리하는 방법을 기술하는 언어이다. XML 표현보다 더 쉽고 약어로 되어 있으며, XSL 변환([XSLT](https://ko.wikipedia.org/wiki/XSLT "wikilink"))과 XML 지시자 언어([XPointer](https://ko.wikipedia.org/wiki/XPointer "wikilink"))에 쓰이는 언어이다. XPath는 XML 문서의 노드를 정의하기 위하여 경로식을 사용하며, 수학 함수와 기타 확장 가능한 표현들이 있다.
+**XPath**()는 [W3C](../Page/W3C.md "wikilink")의 표준으로 [확장 생성 언어](../Page/XML.md "wikilink") 문서의 구조를 통해 경로 위에 지정한 구문을 사용하여 항목을 배치하고 처리하는 방법을 기술하는 언어이다. XML 표현보다 더 쉽고 약어로 되어 있으며, XSL 변환([XSLT](../Page/XSLT.md "wikilink"))과 XML 지시자 언어([XPointer](../Page/XPointer.md "wikilink"))에 쓰이는 언어이다. XPath는 XML 문서의 노드를 정의하기 위하여 경로식을 사용하며, 수학 함수와 기타 확장 가능한 표현들이 있다.
 
 ## 예
 

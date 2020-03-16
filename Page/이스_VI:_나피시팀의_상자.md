@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ VI:  ](https://ko.wikipedia.org/wiki/_VI:__).
 
 
-《**이스 VI: 나피시팀의 상자**》([영어](https://ko.wikipedia.org/wiki/영어 "wikilink"): Ys: The Ark of Napishtim, [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink"): イースVI - ナピシュテムの匣)는 [팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")이 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 출시한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink").
+《**이스 VI: 나피시팀의 상자**》([영어](../Page/영어.md "wikilink"): Ys: The Ark of Napishtim, [일본어](../Page/일본어.md "wikilink"): イースVI - ナピシュテムの匣)는 [팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")이 [2003년](../Page/2003년.md "wikilink") 출시한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink").
 
-이스 VI는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [플레이스테이션 2로](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 이식되었고 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")가 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink")에 [플레이스테이션 포터블판으로](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 전 세계에 발매하였다. [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")는 발매할 때 제목을 지우고 발매하였다.
+이스 VI는 [2005년](../Page/2005년.md "wikilink") [플레이스테이션 2로](../Page/플레이스테이션_2.md "wikilink") 이식되었고 [코나미](../Page/코나미.md "wikilink")가 [2006년](../Page/2006년.md "wikilink")에 [플레이스테이션 포터블판으로](../Page/플레이스테이션_포터블.md "wikilink") 전 세계에 발매하였다. [코나미](../Page/코나미.md "wikilink")는 발매할 때 제목을 지우고 발매하였다.
 
 ## 시스템
 

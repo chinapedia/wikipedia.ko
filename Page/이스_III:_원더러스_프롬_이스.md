@@ -3,9 +3,9 @@
 
 《**이스 III: 원더러스 프롬 이스**》(, )는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 출시한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). 《[이스](../Page/이스_\(시리즈\).md "wikilink")》 시리즈의 세번째 게임으로, [PC-8801](https://ko.wikipedia.org/wiki/PC-8801 "wikilink") 및 [PC-9801](https://ko.wikipedia.org/wiki/PC-9801 "wikilink") 기종으로 처음 출시됐다. 지난 작품 《[이스 I & II](../Page/이스_I_&_II.md "wikilink")》에서 이스 왕국의 사건 후 3년 뒤, 아돌 크리스틴과 도기의 계속되는 모험기를 그렸다. 최초 발매 당시에는 '이스 왕국에서 온 방랑자'라는 의미로 《**원더러스 프롬 이스**》()라는 제목이었으나, 이후 이식판에서 발매숫자를 나타내는 '이스 III'가 추가로 붙었다.
 
-《이스 III》는 1989년 [NEC PC-8801과](https://ko.wikipedia.org/wiki/NEC_PC-8801 "wikilink") [NEC PC-9801](https://ko.wikipedia.org/wiki/NEC_PC-9801 "wikilink") 플랫폼으로 출시 되었고, [MSX2](https://ko.wikipedia.org/wiki/MSX2 "wikilink"), [X68000](../Page/X68000.md "wikilink")이 그 다음으로 출시되었다. 1991년에 [PC 엔진](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") [CD-ROM](../Page/CD-ROM.md "wikilink"), [패미컴](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink"), [슈퍼 패미컴과](https://ko.wikipedia.org/wiki/슈퍼_패미컴 "wikilink") [메가 드라이브](https://ko.wikipedia.org/wiki/메가_드라이브 "wikilink") 플랫폼으로 출시되었다. [플레이스테이션 2용은](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink") 2005년 [타이토](https://ko.wikipedia.org/wiki/타이토 "wikilink")에 의해 발매되었다.\[1\]
+《이스 III》는 1989년 [NEC PC-8801과](https://ko.wikipedia.org/wiki/NEC_PC-8801 "wikilink") [NEC PC-9801](https://ko.wikipedia.org/wiki/NEC_PC-9801 "wikilink") 플랫폼으로 출시 되었고, [MSX2](https://ko.wikipedia.org/wiki/MSX2 "wikilink"), [X68000](../Page/X68000.md "wikilink")이 그 다음으로 출시되었다. 1991년에 [PC 엔진](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") [CD-ROM](../Page/CD-ROM.md "wikilink"), [패미컴](../Page/패밀리_컴퓨터.md "wikilink"), [슈퍼 패미컴과](../Page/슈퍼_패미컴.md "wikilink") [메가 드라이브](../Page/메가_드라이브.md "wikilink") 플랫폼으로 출시되었다. [플레이스테이션 2용은](../Page/플레이스테이션_2.md "wikilink") 2005년 [타이토](https://ko.wikipedia.org/wiki/타이토 "wikilink")에 의해 발매되었다.\[1\]
 
-2005년, 《[이스 VI: 나피시팀의 상자](https://ko.wikipedia.org/wiki/이스_VI:_나피시팀의_상자 "wikilink")》 엔진을 활용하여 제작된 [리메이크](https://ko.wikipedia.org/wiki/리메이크_게임 "wikilink") 《[이스: 페르가나의 맹세](../Page/이스:_페르가나의_맹세.md "wikilink")》가 출시됐다.
+2005년, 《[이스 VI: 나피시팀의 상자](../Page/이스_VI:_나피시팀의_상자.md "wikilink")》 엔진을 활용하여 제작된 [리메이크](https://ko.wikipedia.org/wiki/리메이크_게임 "wikilink") 《[이스: 페르가나의 맹세](../Page/이스:_페르가나의_맹세.md "wikilink")》가 출시됐다.
 
 ## 줄거리
 
@@ -26,11 +26,11 @@
   - **Ys III J.D.K. Special** (1990): X68000때의 음악을 J.D.K. 밴드가 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 음악으로 편곡한 곡들.
   - **Perfect Collection Ys III** (1990): 2장의 CD 중 첫 번째 CD는 료 요네미츠가 편곡한 X68000곡들이 담겨 있고, 두 번째 CD는 다양한 스타일로 편곡된 이스 III의 곡들이 담겨 있다.
 
-[팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")은 이스 III의 리메이크 판인 《[이스: 페르가나의 맹세](../Page/이스:_페르가나의_맹세.md "wikilink")》를 발매한 것을 기념하기 위해, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")에 여태까지 제작된 이스 III의 모든 음악 CD를 세트로 묶은 Ys Premium Music CD Box in Felghana를 발매하였다.
+[팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")은 이스 III의 리메이크 판인 《[이스: 페르가나의 맹세](../Page/이스:_페르가나의_맹세.md "wikilink")》를 발매한 것을 기념하기 위해, [2005년](../Page/2005년.md "wikilink")에 여태까지 제작된 이스 III의 모든 음악 CD를 세트로 묶은 Ys Premium Music CD Box in Felghana를 발매하였다.
 
 ## 《이스: 페르가나의 맹세》
 
-2005년에 [팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")은 이스 III의 리메이크 판인 [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 《이스: 페르가나의 맹세를》 발매하였다. 이스 페르가나의 맹세에서는 원래 줄거리를 확장하고 흐름을 약간 수정하였으며 던전과 플레이 시간을 연장하였다. 이스 III의 횡 스크롤 방식 역시 《[이스 VI: 나피시팀의 상자](https://ko.wikipedia.org/wiki/이스_VI:_나피시팀의_상자 "wikilink")》에서 사용된 3D 게임 엔진으로 대체하였다.
+2005년에 [팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")은 이스 III의 리메이크 판인 [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 《이스: 페르가나의 맹세를》 발매하였다. 이스 페르가나의 맹세에서는 원래 줄거리를 확장하고 흐름을 약간 수정하였으며 던전과 플레이 시간을 연장하였다. 이스 III의 횡 스크롤 방식 역시 《[이스 VI: 나피시팀의 상자](../Page/이스_VI:_나피시팀의_상자.md "wikilink")》에서 사용된 3D 게임 엔진으로 대체하였다.
 
 ## 각주
 

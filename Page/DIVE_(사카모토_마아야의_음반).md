@@ -36,7 +36,7 @@
 11.
 ## 스탭
 
-  - 작사: 사카모토 마아야(1,5,6,7,9)·[이와사토 유호](https://ko.wikipedia.org/wiki/이와사토_유호 "wikilink")(2,4,8,10,11)·Tim Jensen (3,6)
+  - 작사: 사카모토 마아야(1,5,6,7,9)·[이와사토 유호](../Page/이와사토_유호.md "wikilink")(2,4,8,10,11)·Tim Jensen (3,6)
   - 작곡·편곡·프로듀스: 칸노 요코(전곡)
 
 [분류:1998년 음반](https://ko.wikipedia.org/wiki/분류:1998년_음반 "wikilink") [분류:사카모토 마아야의 음반](https://ko.wikipedia.org/wiki/분류:사카모토_마아야의_음반 "wikilink")

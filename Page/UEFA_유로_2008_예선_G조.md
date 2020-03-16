@@ -192,7 +192,7 @@
 </tbody>
 </table>
 
-  - 알바니아와 슬로베니아는 승점, 상대 전적(2무, 합계 0-0), [원정 다득점에서](https://ko.wikipedia.org/wiki/원정_다득점 "wikilink") 모두 동률을 이루어 전체 골득실 차로 순위를 결정하였다. 그 결과 알바니아가 5위, 슬로베니아가 6위를 기록하였다.
+  - 알바니아와 슬로베니아는 승점, 상대 전적(2무, 합계 0-0), [원정 다득점에서](../Page/원정_다득점.md "wikilink") 모두 동률을 이루어 전체 골득실 차로 순위를 결정하였다. 그 결과 알바니아가 5위, 슬로베니아가 6위를 기록하였다.
 
 ## 경기 결과
 
@@ -297,7 +297,7 @@
 <td><p>6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/디미타르_베르바토프" title="wikilink">디미타르 베르바토프</a></p></td>
+<td><p><a href="../Page/디미타르_베르바토프.md" title="wikilink">디미타르 베르바토프</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -315,7 +315,7 @@
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/치프리안_마리카" title="wikilink">치프리안 마리카</a></p></td>
+<td><p><a href="../Page/치프리안_마리카.md" title="wikilink">치프리안 마리카</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -339,7 +339,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로빈_판_페르시" title="wikilink">로빈 판 페르시</a></p></td>
+<td><p><a href="../Page/로빈_판_페르시.md" title="wikilink">로빈 판 페르시</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -351,7 +351,7 @@
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/비탈리_쿠투조프" title="wikilink">비탈리 쿠투조프</a></p></td>
+<td><p><a href="../Page/비탈리_쿠투조프.md" title="wikilink">비탈리 쿠투조프</a></p></td>
 <td></td>
 <td></td>
 <td></td>

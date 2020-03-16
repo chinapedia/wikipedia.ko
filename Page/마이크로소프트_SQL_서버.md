@@ -1,26 +1,26 @@
 > This article is converted from Wikipedia: [ SQL ](https://ko.wikipedia.org/wiki/_SQL_).
 
 
-**마이크로소프트 SQL 서버**()는 [마이크로소프트](https://ko.wikipedia.org/wiki/마이크로소프트 "wikilink")가 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 사이베이스(Sybase)를 기반으로 개발한 [관계형 데이터베이스이다](https://ko.wikipedia.org/wiki/관계형_데이터베이스 "wikilink").
+**마이크로소프트 SQL 서버**()는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 [1989년](../Page/1989년.md "wikilink") 사이베이스(Sybase)를 기반으로 개발한 [관계형 데이터베이스이다](https://ko.wikipedia.org/wiki/관계형_데이터베이스 "wikilink").
 
 ## 역사
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SQL_Server.svg "wikilink")
 
-  - [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 마이크로소프트 SQL 서버 1.0을 출시했다.
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 마이크로소프트 SQL 서버 1.1을 출시했다.
-  - [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") 마이크로소프트 SQL 서버 4.2를 출시했다.
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 마이크로소프트 SQL 서버 6.0을 출시했다.
-  - [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") 마이크로소프트 SQL 서버 6.5를 출시했다.
-  - [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") 마이크로소프트 SQL 서버 7.0을 출시했다.
-  - [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 마이크로소프트 SQL 서버 2000을 출시했다.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 마이크로소프트 SQL 서버 2005를 출시했다.\[1\]
-  - [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") 마이크로소프트 SQL 서버 2008을 출시했다.
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 마이크로소프트 SQL 서버 2012를 출시했다.
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") 마이크로소프트 SQL 서버 2014를 출시했다.
-  - [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 마이크로소프트 SQL 서버 2016을 출시했다.
-  - [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") 마이크로소프트 SQL 서버 2017을 출시했다.
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 마이크로소프트 SQL 서버 2019를 출시했다.\[2\]
+  - [1989년](../Page/1989년.md "wikilink") 마이크로소프트 SQL 서버 1.0을 출시했다.
+  - [1991년](../Page/1991년.md "wikilink") 마이크로소프트 SQL 서버 1.1을 출시했다.
+  - [1993년](../Page/1993년.md "wikilink") 마이크로소프트 SQL 서버 4.2를 출시했다.
+  - [1995년](../Page/1995년.md "wikilink") 마이크로소프트 SQL 서버 6.0을 출시했다.
+  - [1996년](../Page/1996년.md "wikilink") 마이크로소프트 SQL 서버 6.5를 출시했다.
+  - [1998년](../Page/1998년.md "wikilink") 마이크로소프트 SQL 서버 7.0을 출시했다.
+  - [2000년](../Page/2000년.md "wikilink") 마이크로소프트 SQL 서버 2000을 출시했다.
+  - [2005년](../Page/2005년.md "wikilink") 마이크로소프트 SQL 서버 2005를 출시했다.\[1\]
+  - [2008년](../Page/2008년.md "wikilink") 마이크로소프트 SQL 서버 2008을 출시했다.
+  - [2012년](../Page/2012년.md "wikilink") 마이크로소프트 SQL 서버 2012를 출시했다.
+  - [2014년](../Page/2014년.md "wikilink") 마이크로소프트 SQL 서버 2014를 출시했다.
+  - [2016년](../Page/2016년.md "wikilink") 마이크로소프트 SQL 서버 2016을 출시했다.
+  - [2017년](../Page/2017년.md "wikilink") 마이크로소프트 SQL 서버 2017을 출시했다.
+  - [2019년](../Page/2019년.md "wikilink") 마이크로소프트 SQL 서버 2019를 출시했다.\[2\]
 
 ## 에디션
 

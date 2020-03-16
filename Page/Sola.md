@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Sola](https://ko.wikipedia.org/wiki/Sola).
 
 
-《**sola**》(소라)는 [히사야 나오키가](https://ko.wikipedia.org/wiki/히사야_나오키 "wikilink") 원안을 내고 [나나오 나루가](https://ko.wikipedia.org/wiki/나나오_나루 "wikilink") 캐릭터 디자인을 맡아 만든 [미디어 믹스형](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트로, [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") [코미케](https://ko.wikipedia.org/wiki/코믹_마켓 "wikilink") 71에서 공개된 드라마 CD로 첫선을 보였다. 이듬해인 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 20일에](https://ko.wikipedia.org/wiki/1월_20일 "wikilink") [아베노 챠코가](https://ko.wikipedia.org/wiki/아베노_챠코 "wikilink") 만화판을 [미디어웍스](https://ko.wikipedia.org/wiki/미디어웍스 "wikilink")의 전격코믹스에서 연재하기 시작하였으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [11월 27일부터](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")를 통해 단행본 정식 번역판이 출간되기 시작하였다.
+《**sola**》(소라)는 [히사야 나오키가](../Page/히사야_나오키.md "wikilink") 원안을 내고 [나나오 나루가](https://ko.wikipedia.org/wiki/나나오_나루 "wikilink") 캐릭터 디자인을 맡아 만든 [미디어 믹스형](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트로, [2006년](../Page/2006년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") [코미케](https://ko.wikipedia.org/wiki/코믹_마켓 "wikilink") 71에서 공개된 드라마 CD로 첫선을 보였다. 이듬해인 [2007년](../Page/2007년.md "wikilink") [1월 20일에](../Page/1월_20일.md "wikilink") [아베노 챠코가](https://ko.wikipedia.org/wiki/아베노_챠코 "wikilink") 만화판을 [미디어웍스](https://ko.wikipedia.org/wiki/미디어웍스 "wikilink")의 전격코믹스에서 연재하기 시작하였으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [2008년](../Page/2008년.md "wikilink") [11월 27일부터](../Page/11월_27일.md "wikilink") [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")를 통해 단행본 정식 번역판이 출간되기 시작하였다.
 
-[2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 6일에는](https://ko.wikipedia.org/wiki/4월_6일 "wikilink") 본격적으로 [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")화하여 [6월 30일까지](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 방영되었다. sola란 제목은 [하늘](https://ko.wikipedia.org/wiki/하늘 "wikilink")에 해당하는 일본어 단어 를 [로마자](https://ko.wikipedia.org/wiki/로마자 "wikilink")로 표기한 것이다.
+[2007년](../Page/2007년.md "wikilink") [4월 6일에는](../Page/4월_6일.md "wikilink") 본격적으로 [애니메이션](../Page/애니메이션.md "wikilink")화하여 [6월 30일까지](../Page/6월_30일.md "wikilink") 방영되었다. sola란 제목은 [하늘](../Page/하늘.md "wikilink")에 해당하는 일본어 단어 를 [로마자](../Page/로마자.md "wikilink")로 표기한 것이다.
 
 ## 줄거리
 
@@ -16,7 +16,7 @@
 ## 캐릭터
 
   - 모리미아 요리토()
-    성우 - [오카모토 노부히코](https://ko.wikipedia.org/wiki/오카모토_노부히코 "wikilink")
+    성우 - [오카모토 노부히코](../Page/오카모토_노부히코.md "wikilink")
     밝고 명랑한 고등학생. 좋은 풍경을 보면 장소를 가리지 않고 찍을 정도로 하늘을 좋아한다. 부모는 이미 오래전에 잃고 누나인 아오노와 함께 단둘이서 살고 있다. 사실 요리토는 옛날(즉 수 백년전)부터 아오노의 동생이었으며 당시 산사태로 인해 사망하였으나 현재의 요리토는 아오노에 의해 만들어진것이다. 마나와는 같은 반 친구 사이이며 갑작스레 나타난 마츠리를 좋아하기 시작했으나 누나인 아오노와의 관계, 그리고 자신의 진짜 정체를 알아가며 처음에는 정신적으로 무너져 가기 시작했으나 곧 자신의 정체성을 확립해가며 아오노를 원래대로 돌려놓고자 결심한다. 그리고 아오노가 마츠리를 죽이려 하기 직전에 대신 칼을맞고 원래 모습인 종이로 사라진다.
 
 <!-- end list -->
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   - 모리미아 아오노()
-    성우 - [나카하라 마이](https://ko.wikipedia.org/wiki/나카하라_마이 "wikilink")
+    성우 - [나카하라 마이](../Page/나카하라_마이.md "wikilink")
     요리토의 누나로 말수가 적고 냉정, 침착하며 감정을 밖으로 드러내지 않는 성격이다. 3개월 전, 몸이 나빠져 병원에 입원하였다. 코요리에게 종이접기를 가르쳐주며 시간을 보내고 있다. 요리토에게 받은 이상한 인형들을 소중히 간직하고 있다. 아주 옛날부터 마츠리를 알고 있었으며, 그시절 요리토가 사고로 죽음으로써 같이 자살하나 마츠리에 의해 야화인이 된다. 그렇기 때문에 마츠리에 대해 좋지 않은 감정을 가지고 있으며 계속 요리토를 잊지 못해 요리토를 인위적으로 만들어 내며, 이후 나타난 마츠리를 적대적으로 생각하여 공격하게 되는데 결국 요리토와 마츠리에 의해 원래 인간으로 돌아가며 이후 요리토가 다니던 학교를 다니며 새로운 삶을 시작하게 된다. 종이를 자유자재로 조종하는 능력을 가지고 있다.
 
 <!-- end list -->
@@ -46,13 +46,13 @@
 <!-- end list -->
 
   - 츠지도 타케시()
-    성우 - [후지와라 케이지](https://ko.wikipedia.org/wiki/후지와라_케이지 "wikilink")
+    성우 - [후지와라 케이지](../Page/후지와라_케이지.md "wikilink")
     마유코와는 동갑이나 14살때 마유코가 야화인이 되어 함께 지낸 후로 17년이 지났기 때문에 31살의 청년이다. 마유코를 원래 인간으로 되돌리기 위해 마츠리를 쫓는다. 처음에는 마유코 몰래 마츠리를 쫓았으나 마츠리를 죽이려 하기 직전 마유코가 말림으로써 더이상 마츠리를 죽이려 하지 않았으며 이후 마츠리에게 자신의 칼을 내주게 된다.
 
 <!-- end list -->
 
   - 카미카와 마유코()
-    성우 - [카네다 토모코](https://ko.wikipedia.org/wiki/카네다_토모코 "wikilink")
+    성우 - [카네다 토모코](../Page/카네다_토모코.md "wikilink")
     타케시와 함께 행동하는 앳된 모습에 고딕풍의 차림을 한 소녀. 집은 부자였으나 14살때 강도에게 살해되었다가 야화인이 된다.
 
 ## 애니메이션
@@ -97,16 +97,16 @@
 
 ### 성우 배정
 
-  - 모리미야 요리토 - [오카모토 노부히코](https://ko.wikipedia.org/wiki/오카모토_노부히코 "wikilink")
+  - 모리미야 요리토 - [오카모토 노부히코](../Page/오카모토_노부히코.md "wikilink")
   - 시호 마츠리 - [노토 마미코](https://ko.wikipedia.org/wiki/노토_마미코 "wikilink")
-  - 모리미야 아오노 - [나카하라 마이](https://ko.wikipedia.org/wiki/나카하라_마이 "wikilink")
+  - 모리미야 아오노 - [나카하라 마이](../Page/나카하라_마이.md "wikilink")
   - 이시즈키 마나 - [혼다 요코](https://ko.wikipedia.org/wiki/혼다_요코 "wikilink")
   - 이시즈키 코요리 - [시미즈 아이](../Page/시미즈_아이.md "wikilink")
-  - 츠지도 타케시 - [후지와라 케이지](https://ko.wikipedia.org/wiki/후지와라_케이지 "wikilink")
-  - 카미카와 마유코 - [카네다 토모코](https://ko.wikipedia.org/wiki/카네다_토모코 "wikilink")
+  - 츠지도 타케시 - [후지와라 케이지](../Page/후지와라_케이지.md "wikilink")
+  - 카미카와 마유코 - [카네다 토모코](../Page/카네다_토모코.md "wikilink")
   - 사쿠라 사에 - [코시미즈 아미](../Page/코시미즈_아미.md "wikilink")
-  - 우에하라 토코 - [오노 료코](https://ko.wikipedia.org/wiki/오노_료코 "wikilink")
-  - 미즈구치 치사토 - [야하기 사유리](https://ko.wikipedia.org/wiki/야하기_사유리 "wikilink")
+  - 우에하라 토코 - [오노 료코](../Page/오노_료코.md "wikilink")
+  - 미즈구치 치사토 - [야하기 사유리](../Page/야하기_사유리.md "wikilink")
 
 ### 주제가
 

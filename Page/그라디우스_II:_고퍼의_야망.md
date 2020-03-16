@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ II:  ](https://ko.wikipedia.org/wiki/_II:__).
 
 
-《**그라디우스 II: 고퍼의 야망**》(, )는 일본 [코나미](https://ko.wikipedia.org/wiki/코나미 "wikilink")사의 [횡스크롤 슈팅 게임으로](https://ko.wikipedia.org/wiki/횡스크롤_슈팅_게임 "wikilink"), [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink")에 [그라디우스](https://ko.wikipedia.org/wiki/그라디우스 "wikilink")의 후속작으로 제작되었다. 부제는 ‘고파의 야망’이고, [유럽](https://ko.wikipedia.org/wiki/유럽 "wikilink") 및 [북아메리카](https://ko.wikipedia.org/wiki/북아메리카 "wikilink")판 제목은 ‘발칸 벤처(Vulcan Venture)’이다. 게임 형식의 대부분을 전작 그대로 답습하였다.
+《**그라디우스 II: 고퍼의 야망**》(, )는 일본 [코나미](../Page/코나미.md "wikilink")사의 [횡스크롤 슈팅 게임으로](https://ko.wikipedia.org/wiki/횡스크롤_슈팅_게임 "wikilink"), [1988년](../Page/1988년.md "wikilink")에 [그라디우스](https://ko.wikipedia.org/wiki/그라디우스 "wikilink")의 후속작으로 제작되었다. 부제는 ‘고파의 야망’이고, [유럽](../Page/유럽.md "wikilink") 및 [북아메리카](../Page/북아메리카.md "wikilink")판 제목은 ‘발칸 벤처(Vulcan Venture)’이다. 게임 형식의 대부분을 전작 그대로 답습하였다.
 
 ## 스토리
 
@@ -84,19 +84,19 @@ Missile</p></td>
 
 ### 스테이지
 
-| Stg. | [아케이드](https://ko.wikipedia.org/wiki/아케이드_게임 "wikilink") | [PC 엔진](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") | [패미컴](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink")                                             |
-| ---- | -------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 1    | 화염행성                                                     | 화염행성                                                    | 화염행성                                                                                                |
-| 2    | 생명체                                                      | 생명체                                                     | 생명체                                                                                                 |
-| 3    | [수정](https://ko.wikipedia.org/wiki/석영 "wikilink")        | [수정](https://ko.wikipedia.org/wiki/석영 "wikilink")       | [화산](https://ko.wikipedia.org/wiki/화산 "wikilink")+[수정](https://ko.wikipedia.org/wiki/석영 "wikilink") |
-| 4    | [화산](https://ko.wikipedia.org/wiki/화산 "wikilink")        | [화산](https://ko.wikipedia.org/wiki/화산 "wikilink")       | [모아이](https://ko.wikipedia.org/wiki/모아이 "wikilink")                                                 |
-| 5    | [모아이](https://ko.wikipedia.org/wiki/모아이 "wikilink")      | [사막](https://ko.wikipedia.org/wiki/사막 "wikilink") 유적    | 우주공간 (보스러시)                                                                                         |
-| 6    | 고속기지                                                     | [모아이](https://ko.wikipedia.org/wiki/모아이 "wikilink")     | 고속기지                                                                                                |
-| 7    | 우주공간 (보스러시)                                              | 고속기지                                                    | [세포](https://ko.wikipedia.org/wiki/세포 "wikilink") + 고파                                              |
-| 8    | 적 함선                                                     | 우주공간 (보스러시)                                             | \-                                                                                                  |
-| 9 |- | 적 함선                                                     | \-                                                      |                                                                                                     |
+| Stg. | [아케이드](../Page/아케이드_게임.md "wikilink") | [PC 엔진](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") | [패미컴](../Page/패밀리_컴퓨터.md "wikilink")                          |
+| ---- | ------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
+| 1    | 화염행성                                  | 화염행성                                                    | 화염행성                                                          |
+| 2    | 생명체                                   | 생명체                                                     | 생명체                                                           |
+| 3    | [수정](../Page/석영.md "wikilink")        | [수정](../Page/석영.md "wikilink")                          | [화산](../Page/화산.md "wikilink")+[수정](../Page/석영.md "wikilink") |
+| 4    | [화산](../Page/화산.md "wikilink")        | [화산](../Page/화산.md "wikilink")                          | [모아이](../Page/모아이.md "wikilink")                              |
+| 5    | [모아이](../Page/모아이.md "wikilink")      | [사막](../Page/사막.md "wikilink") 유적                       | 우주공간 (보스러시)                                                   |
+| 6    | 고속기지                                  | [모아이](../Page/모아이.md "wikilink")                        | 고속기지                                                          |
+| 7    | 우주공간 (보스러시)                           | 고속기지                                                    | [세포](../Page/세포.md "wikilink") + 고파                           |
+| 8    | 적 함선                                  | 우주공간 (보스러시)                                             | \-                                                            |
+| 9 |- | 적 함선                                  | \-                                                      |                                                               |
 
-  - [X68000](../Page/X68000.md "wikilink"), [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"), [플레이스테이션 포터블](https://ko.wikipedia.org/wiki/플레이스테이션_포터블 "wikilink") 기반의 판은 아케이드를 따른다.
+  - [X68000](../Page/X68000.md "wikilink"), [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"), [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink") 기반의 판은 아케이드를 따른다.
 
 ### 보스러시
 
@@ -143,7 +143,7 @@ Missile</p></td>
 | 랭킹                                                     | Ranking BGM                                            |
 | 엔딩                                                     | Farewell                                               |
 
-### [패밀리 컴퓨터판](https://ko.wikipedia.org/wiki/패밀리_컴퓨터 "wikilink") 배경음악
+### [패밀리 컴퓨터판](../Page/패밀리_컴퓨터.md "wikilink") 배경음악
 
 | 장면                                                     | 트랙명                                                    |
 | ------------------------------------------------------ | ------------------------------------------------------ |
@@ -163,7 +163,7 @@ Missile</p></td>
 | 게임오버                                                   | Game Over                                              |
 | 엔딩                                                     | Farewell                                               |
 
-<span id="Burning Heat"></span>1스테이지의 Burning Heat는 이후 [그라디우스 III이나](https://ko.wikipedia.org/wiki/그라디우스_III "wikilink") [극상 파로디우스에서](../Page/극상_파로디우스.md "wikilink") 사용되었고, [비트매니아 IIDX](https://ko.wikipedia.org/wiki/비트매니아_IIDX "wikilink") 시리즈에 어레인지 버전이 수록되기도 하였다. TABIDACHI와 A Shooting Star는 [기타프릭스](../Page/기타프릭스.md "wikilink")/[드럼매니아](https://ko.wikipedia.org/wiki/드럼매니아 "wikilink") 시리즈에서 코나미구형파구락부의 후루카와 모토아키에 의해 편곡되어 사용되었다.
+<span id="Burning Heat"></span>1스테이지의 Burning Heat는 이후 [그라디우스 III이나](../Page/그라디우스_III.md "wikilink") [극상 파로디우스에서](../Page/극상_파로디우스.md "wikilink") 사용되었고, [비트매니아 IIDX](../Page/비트매니아_IIDX.md "wikilink") 시리즈에 어레인지 버전이 수록되기도 하였다. TABIDACHI와 A Shooting Star는 [기타프릭스](../Page/기타프릭스.md "wikilink")/[드럼매니아](../Page/드럼매니아.md "wikilink") 시리즈에서 코나미구형파구락부의 후루카와 모토아키에 의해 편곡되어 사용되었다.
 
 ## 외부 링크
 

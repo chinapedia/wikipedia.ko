@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  DC-9](https://ko.wikipedia.org/wiki/__DC-9).
 
 
-**맥도널 더글러스 DC-9**는 [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") [맥도넬 더글러스사](https://ko.wikipedia.org/wiki/맥도넬_더글러스 "wikilink")(당시 더글라스사)에서 개발한 쌍발 협동체기이다. [DC-8이](https://ko.wikipedia.org/wiki/더글러스_DC-8 "wikilink") 장거리용으로 개발된 것과 맞추어 중단거리용으로 제작되었다. DC-9를 바탕으로 [MD-80](https://ko.wikipedia.org/wiki/MD-80 "wikilink"), [MD-90](https://ko.wikipedia.org/wiki/MD-90 "wikilink"), [보잉 717등의](https://ko.wikipedia.org/wiki/보잉_717 "wikilink") 기종들이 개발되었다.
+**맥도널 더글러스 DC-9**는 [1965년](../Page/1965년.md "wikilink") [맥도넬 더글러스사](https://ko.wikipedia.org/wiki/맥도넬_더글러스 "wikilink")(당시 더글라스사)에서 개발한 쌍발 협동체기이다. [DC-8이](../Page/더글러스_DC-8.md "wikilink") 장거리용으로 개발된 것과 맞추어 중단거리용으로 제작되었다. DC-9를 바탕으로 [MD-80](https://ko.wikipedia.org/wiki/MD-80 "wikilink"), [MD-90](https://ko.wikipedia.org/wiki/MD-90 "wikilink"), [보잉 717등의](../Page/보잉_717.md "wikilink") 기종들이 개발되었다.
 
 ## 종류
 
@@ -11,11 +11,11 @@ DC-9기의 기본 형으로 영국의 BAC-111기와 경쟁기종으로 제작되
 
 ### DC-9-20
 
-DC-9-20은 기존 DC-9-10형을 기초로 제작된 기종이며 [스칸디나비아 항공에서](https://ko.wikipedia.org/wiki/스칸디나비아_항공 "wikilink") 짧은 활주로에서 이,착륙이 가능하고 더 강한 엔진을 장착한 모델을 요청함에따라 제작 되었다. [스칸디나비아 항공이](https://ko.wikipedia.org/wiki/스칸디나비아_항공 "wikilink") 최초 도입사이자 최대 사용고객이며 기존 -10형에 비해 승객 탑승수도 증가하였고 최대이륙중량도 증가하게 되었다.
+DC-9-20은 기존 DC-9-10형을 기초로 제작된 기종이며 [스칸디나비아 항공에서](../Page/스칸디나비아_항공.md "wikilink") 짧은 활주로에서 이,착륙이 가능하고 더 강한 엔진을 장착한 모델을 요청함에따라 제작 되었다. [스칸디나비아 항공이](../Page/스칸디나비아_항공.md "wikilink") 최초 도입사이자 최대 사용고객이며 기존 -10형에 비해 승객 탑승수도 증가하였고 최대이륙중량도 증가하게 되었다.
 
 ### DC-9-30
 
-DC-9 시리즈의 표준 모델로서 과거 [1970년](https://ko.wikipedia.org/wiki/1970년 "wikilink")대\~[1980년](https://ko.wikipedia.org/wiki/1980년 "wikilink")대에 주로 사용하던 소형 여객기이다. 기존 -10/-20형과는 달리 날개에 있는 비상탈출구가 각각 2개로 늘어났다는 것이 주 차이점이다. 동체길이를 늘려 승객 탑승수, 총 중량을 증가시켰다. 현재도 일부 항공사에서 화물기로 사용중이나 노후화로 인해 여객용은 [보잉 737로](https://ko.wikipedia.org/wiki/보잉_737 "wikilink") 대체되고 있다.
+DC-9 시리즈의 표준 모델로서 과거 [1970년](../Page/1970년.md "wikilink")대\~[1980년](../Page/1980년.md "wikilink")대에 주로 사용하던 소형 여객기이다. 기존 -10/-20형과는 달리 날개에 있는 비상탈출구가 각각 2개로 늘어났다는 것이 주 차이점이다. 동체길이를 늘려 승객 탑승수, 총 중량을 증가시켰다. 현재도 일부 항공사에서 화물기로 사용중이나 노후화로 인해 여객용은 [보잉 737로](../Page/보잉_737.md "wikilink") 대체되고 있다.
 
 ### DC-9-40
 
@@ -23,7 +23,7 @@ DC-9 시리즈의 표준 모델로서 과거 [1970년](https://ko.wikipedia.org/
 
 ### DC-9-50
 
-\-50형이 DC-9 시리즈중 가장 동체가 긴 모델로서 [이스턴 항공의](https://ko.wikipedia.org/wiki/이스턴_항공 "wikilink") 요청에 의해 제작되었다. 이 기종은 [1975년](https://ko.wikipedia.org/wiki/1975년 "wikilink") 생산에 들어갔고 기존의 -10/-20형을 대체하기 위해 제작되었다. 이 기종을 베이스로 [맥도넬더글러스 MD-80이](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink") 제작되었다.
+\-50형이 DC-9 시리즈중 가장 동체가 긴 모델로서 [이스턴 항공의](../Page/이스턴_항공.md "wikilink") 요청에 의해 제작되었다. 이 기종은 [1975년](../Page/1975년.md "wikilink") 생산에 들어갔고 기존의 -10/-20형을 대체하기 위해 제작되었다. 이 기종을 베이스로 [맥도넬더글러스 MD-80이](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink") 제작되었다.
 
 ## 도입 개수
 
@@ -201,11 +201,11 @@ DC-9 시리즈의 표준 모델로서 과거 [1970년](https://ko.wikipedia.org/
 </table>
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MD82v1.0.png "wikilink"), and different [McDonnell Douglas MD-80](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink") derivatives\]\]
-[맥도넬더글러스](https://ko.wikipedia.org/wiki/맥도넬더글러스 "wikilink") DC-9, [맥도넬더글러스 MD-80](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink") 시리즈, [맥도넬더글러스 MD-90](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-90 "wikilink"), [보잉 717의](https://ko.wikipedia.org/wiki/보잉_717 "wikilink") 길이비교
+[맥도넬더글러스](https://ko.wikipedia.org/wiki/맥도넬더글러스 "wikilink") DC-9, [맥도넬더글러스 MD-80](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink") 시리즈, [맥도넬더글러스 MD-90](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-90 "wikilink"), [보잉 717의](../Page/보잉_717.md "wikilink") 길이비교
 
 ## 중국
 
-중국의 ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더글라스 "wikilink") DC-9과 매우 유사한 형상을 가지고 있다. 특히 객실의 단면 형상과 nose, tail 등은 완전히 동일하다. 중국은 [MD-90](https://ko.wikipedia.org/wiki/MD-90 "wikilink") (DC-9의 후속 기종)의 중국 현지 면허 생산에 사용하던 설비를 그대로 사용하여 ARJ21을 제작한다. [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")은 100인승 여객기의 대명사였으며, 보잉사는 [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")이 장악한 시장에 도전하기 위해 [보잉 737을](https://ko.wikipedia.org/wiki/보잉_737 "wikilink") 개발하였다. [보잉 737은](https://ko.wikipedia.org/wiki/보잉_737 "wikilink") 보잉사에서 만든 여객기 중 가장 많이 팔린 여객기이다.
+중국의 ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더글라스 "wikilink") DC-9과 매우 유사한 형상을 가지고 있다. 특히 객실의 단면 형상과 nose, tail 등은 완전히 동일하다. 중국은 [MD-90](https://ko.wikipedia.org/wiki/MD-90 "wikilink") (DC-9의 후속 기종)의 중국 현지 면허 생산에 사용하던 설비를 그대로 사용하여 ARJ21을 제작한다. [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")은 100인승 여객기의 대명사였으며, 보잉사는 [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")이 장악한 시장에 도전하기 위해 [보잉 737을](../Page/보잉_737.md "wikilink") 개발하였다. [보잉 737은](../Page/보잉_737.md "wikilink") 보잉사에서 만든 여객기 중 가장 많이 팔린 여객기이다.
 
 ## 일본
 
@@ -213,9 +213,9 @@ DC-9 시리즈의 표준 모델로서 과거 [1970년](https://ko.wikipedia.org/
 
   - [맥도넬더글러스 MD-80](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-80 "wikilink")
   - [맥도넬더글러스 MD-90](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-90 "wikilink")
-  - [보잉 717](https://ko.wikipedia.org/wiki/보잉_717 "wikilink")
-  - [보잉 737](https://ko.wikipedia.org/wiki/보잉_737 "wikilink")
-  - [투폴레프 Tu-134](https://ko.wikipedia.org/wiki/투폴레프_Tu-134 "wikilink")
+  - [보잉 717](../Page/보잉_717.md "wikilink")
+  - [보잉 737](../Page/보잉_737.md "wikilink")
+  - [투폴레프 Tu-134](../Page/투폴레프_Tu-134.md "wikilink")
 
 ## 외부 링크
 

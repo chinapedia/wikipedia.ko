@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [DOSEMU](https://ko.wikipedia.org/wiki/DOSEMU).
 
 
-**DOSEMU**는 [MS-DOS](https://ko.wikipedia.org/wiki/MS-DOS "wikilink") 시스템을 사용할 수 있는 [호환성 계층의](https://ko.wikipedia.org/wiki/호환성_계층 "wikilink") [소프트웨어](https://ko.wikipedia.org/wiki/소프트웨어 "wikilink") 꾸러미다. [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 기반의 [개인용 컴퓨터](https://ko.wikipedia.org/wiki/개인용_컴퓨터 "wikilink")(IBM PC 호환 컴퓨터)에서 리눅스를 쓴다 해도 [도스](https://ko.wikipedia.org/wiki/도스 "wikilink")용 소프트웨어를 구동할 수 있다.
+**DOSEMU**는 [MS-DOS](../Page/MS-DOS.md "wikilink") 시스템을 사용할 수 있는 [호환성 계층의](https://ko.wikipedia.org/wiki/호환성_계층 "wikilink") [소프트웨어](../Page/소프트웨어.md "wikilink") 꾸러미다. [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 기반의 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink")(IBM PC 호환 컴퓨터)에서 리눅스를 쓴다 해도 [도스](../Page/도스.md "wikilink")용 소프트웨어를 구동할 수 있다.
 
-[하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink") [가상화 기술과](https://ko.wikipedia.org/wiki/가상화_기술 "wikilink") 전략적인 [에뮬레이션](https://ko.wikipedia.org/wiki/에뮬레이션 "wikilink")을 함께 사용한다. 8086 호환 도스 운영 체제와 x86 호환 프로세서의 응용 프로그램의 속도와 x86-64 프로세서와 더불어 x86 호환 프로세서 위의 32비트 [DPMI](https://ko.wikipedia.org/wiki/DPMI "wikilink") 응용 프로그램들의 속도가 거의 네이티브에 근접했다. 가상 8086 모드는 [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink") 롱 모드에서 사용할 수 없기 때문에 DOSEMU는 8086 프로세서 에뮬레이터를 포함하여 16비트 응용 프로그램의 사용을 지원하고 있다.
+[하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink") [가상화 기술과](https://ko.wikipedia.org/wiki/가상화_기술 "wikilink") 전략적인 [에뮬레이션](https://ko.wikipedia.org/wiki/에뮬레이션 "wikilink")을 함께 사용한다. 8086 호환 도스 운영 체제와 x86 호환 프로세서의 응용 프로그램의 속도와 x86-64 프로세서와 더불어 x86 호환 프로세서 위의 32비트 [DPMI](../Page/DPMI.md "wikilink") 응용 프로그램들의 속도가 거의 네이티브에 근접했다. 가상 8086 모드는 [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink") 롱 모드에서 사용할 수 없기 때문에 DOSEMU는 8086 프로세서 에뮬레이터를 포함하여 16비트 응용 프로그램의 사용을 지원하고 있다.
 
-현재는 x86 [리눅스](https://ko.wikipedia.org/wiki/리눅스 "wikilink") 시스템에서만 사용할 수 있다.
+현재는 x86 [리눅스](../Page/리눅스.md "wikilink") 시스템에서만 사용할 수 있다.
 
 ## 기능
 

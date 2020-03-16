@@ -32,4 +32,4 @@
 [분류:푸 파이터스의 음반](https://ko.wikipedia.org/wiki/분류:푸_파이터스의_음반 "wikilink") [분류:2007년 음반](https://ko.wikipedia.org/wiki/분류:2007년_음반 "wikilink")
 
 1.
-2.  [아레나 MSL 2008](https://ko.wikipedia.org/wiki/아레나_MSL_2008 "wikilink") 오프닝 곡이기도 하였으며, [MBC 게임에서는](../Page/MBC_게임.md "wikilink") [박지수](https://ko.wikipedia.org/wiki/박지수 "wikilink")선수가 등장시 이노래를 틀어주고 있다, e스포츠계에서는 정벅송으로 잘 알려져 있다.
+2.  [아레나 MSL 2008](../Page/아레나_MSL_2008.md "wikilink") 오프닝 곡이기도 하였으며, [MBC 게임에서는](../Page/MBC_게임.md "wikilink") [박지수](https://ko.wikipedia.org/wiki/박지수 "wikilink")선수가 등장시 이노래를 틀어주고 있다, e스포츠계에서는 정벅송으로 잘 알려져 있다.

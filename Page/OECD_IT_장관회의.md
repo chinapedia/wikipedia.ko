@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [OECD IT ](https://ko.wikipedia.org/wiki/OECD_IT_).
 
 
-**OECD IT 장관회의**(인터넷 경제의 미래에 관한 OECD 장관회의, OECD Ministerial Meeting on the Future of the Internet Economy)는 [OECD](https://ko.wikipedia.org/wiki/OECD "wikilink")가 주관하는 장관급 국제회의로 [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [6월 17일부터](https://ko.wikipedia.org/wiki/6월_17일 "wikilink") [6월 18일까지](https://ko.wikipedia.org/wiki/6월_18일 "wikilink") [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")에서 개최됐다.
+**OECD IT 장관회의**(인터넷 경제의 미래에 관한 OECD 장관회의, OECD Ministerial Meeting on the Future of the Internet Economy)는 [OECD](https://ko.wikipedia.org/wiki/OECD "wikilink")가 주관하는 장관급 국제회의로 [2008년](../Page/2008년.md "wikilink") [6월 17일부터](../Page/6월_17일.md "wikilink") [6월 18일까지](../Page/6월_18일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")에서 개최됐다.
 
 ## 일정
 
-"인터넷경제의 미래"에 관한 OECD 장관회의가 2008년 6월 17일-6월 18일간 서울 [코엑스](https://ko.wikipedia.org/wiki/코엑스 "wikilink")에서 개최됐다. 경제협력개발기구 정보통신정책위원회(OECD ICCP; Committee for Information, Computer and Communications Policy)가 주관하고 대한민국이 개최하는 이번 장관회의는 2008년6월16일(월) 하루동안 열리는 민간 이해관계자회의(stakeholders' meeting)와 2008년 6월17일(화)-6월18일(수)에 열리는 "인터넷경제의 미래"에 관한 OECD장관회의, 2008년6월19일에 열리는 OECD 정보통신정책위원회(ICCP)를 공식행사로 하여 개최될 예정이다.
+"인터넷경제의 미래"에 관한 OECD 장관회의가 2008년 6월 17일-6월 18일간 서울 [코엑스](../Page/코엑스.md "wikilink")에서 개최됐다. 경제협력개발기구 정보통신정책위원회(OECD ICCP; Committee for Information, Computer and Communications Policy)가 주관하고 대한민국이 개최하는 이번 장관회의는 2008년6월16일(월) 하루동안 열리는 민간 이해관계자회의(stakeholders' meeting)와 2008년 6월17일(화)-6월18일(수)에 열리는 "인터넷경제의 미래"에 관한 OECD장관회의, 2008년6월19일에 열리는 OECD 정보통신정책위원회(ICCP)를 공식행사로 하여 개최될 예정이다.
 
 일반인들이 널리 사용하고 있고 분권화되어 있는 [인터넷](../Page/인터넷.md "wikilink")의 특성에 맞게 민간의 다양한 의견 수렴을 위해 장관회의 개최 하루 전날(2008년 6월16일) 민간 이해관계자 회의(stakeholders' meeting)를 열어 민간의견을 최종적으로 폭넓게 수렴하고, 그 결과를 이어서 개최되는 장관회의에 반영시키고, 장관회의 결과로 나올 장관 결의사항 또는 지시사항을 차질없이 반영하기 위해 장관회의 다음날 (2008.6.19), OECD 정책통신정책위원회(ICCP)가 개최되는 것이다.
 
@@ -21,23 +21,23 @@
   - 2개 인터넷 기술공동체 조직 : ISOC(Internet Society), ICANN(Internet Corporation for Assigned Names and Numbers)
   - 초청 저명인사 16명
 
-:\* 개회식 : 한국인사(환영사), [반기문](https://ko.wikipedia.org/wiki/반기문 "wikilink") UN사무총장(축사), 한국 정보통신부장관(개막연설), Angel Gurria(OECD사무총장),
+:\* 개회식 : 한국인사(환영사), [반기문](../Page/반기문.md "wikilink") UN사무총장(축사), 한국 정보통신부장관(개막연설), Angel Gurria(OECD사무총장),
 Carlos M. Gutierrez 미국 상무성장관, Viviane Reding EC 정보사회미디어국 집행위원,
-왕쉬둥 중국 신식산업부장관, [에릭 슈밋](https://ko.wikipedia.org/wiki/에릭_슈밋 "wikilink") [구글](https://ko.wikipedia.org/wiki/구글 "wikilink")CEO, 이건희 삼성회장
+왕쉬둥 중국 신식산업부장관, [에릭 슈밋](https://ko.wikipedia.org/wiki/에릭_슈밋 "wikilink") [구글](../Page/구글.md "wikilink")CEO, 이건희 삼성회장
 
 :\* 본회의 라운드테이블 세션
 
 ::\* "미래 경제 성과 / 사회 복지 향상 라운드테이블" : 데이비드 도지 (캐나다연방 중앙은행장)
 
-::\* "글로벌 인터넷 경제 라운드테이블" : [무함마드 유누스](https://ko.wikipedia.org/wiki/무함마드_유누스 "wikilink") (노벨평화상-"microcredit"), [아마둔 투레](https://ko.wikipedia.org/wiki/아마둔_투레 "wikilink") (ITU사무총장)
+::\* "글로벌 인터넷 경제 라운드테이블" : [무함마드 유누스](../Page/무함마드_유누스.md "wikilink") (노벨평화상-"microcredit"), [아마둔 투레](https://ko.wikipedia.org/wiki/아마둔_투레 "wikilink") (ITU사무총장)
 
-::\* "창의성 증진 라운드테이블" : [루퍼트 머독](https://ko.wikipedia.org/wiki/루퍼트_머독 "wikilink") ([뉴스 코퍼레이션](https://ko.wikipedia.org/wiki/뉴스_코퍼레이션 "wikilink") 사장-MySpace.com)
+::\* "창의성 증진 라운드테이블" : [루퍼트 머독](../Page/루퍼트_머독.md "wikilink") ([뉴스 코퍼레이션](../Page/뉴스_코퍼레이션.md "wikilink") 사장-MySpace.com)
 
 ::\* "융합의 혜택 라운드테이블" : [니클라스 센스트룀](https://ko.wikipedia.org/wiki/니클라스_센스트룀 "wikilink") ([스카이프](../Page/스카이프.md "wikilink")/[주스트](https://ko.wikipedia.org/wiki/주스트 "wikilink") 창업자)
 
-::\* "신뢰성 구축 라운드테이블" : 벤 페르바옌 (BT사장), [로런스 레시그](https://ko.wikipedia.org/wiki/로런스_레시그 "wikilink") (스탠퍼드 법대 교수), [크레이그 배럿](https://ko.wikipedia.org/wiki/크레이그_배럿 "wikilink") ([인텔](https://ko.wikipedia.org/wiki/인텔 "wikilink") 사장), [크리스틴 라가르드](https://ko.wikipedia.org/wiki/크리스틴_라가르드 "wikilink")(프랑스 경제 장관)
+::\* "신뢰성 구축 라운드테이블" : 벤 페르바옌 (BT사장), [로런스 레시그](../Page/로런스_레시그.md "wikilink") (스탠퍼드 법대 교수), [크레이그 배럿](https://ko.wikipedia.org/wiki/크레이그_배럿 "wikilink") ([인텔](../Page/인텔.md "wikilink") 사장), [크리스틴 라가르드](../Page/크리스틴_라가르드.md "wikilink")(프랑스 경제 장관)
 
-:\* lunch speaker : [토머스 프리드먼](https://ko.wikipedia.org/wiki/토머스_프리드먼 "wikilink") ([뉴욕 타임스](https://ko.wikipedia.org/wiki/뉴욕_타임스 "wikilink") "Foreign Affiars" 컬럼니스트, "렉서스와 올리브나무" "세계는 평평하다" 등 저자)
+:\* lunch speaker : [토머스 프리드먼](../Page/토머스_프리드먼.md "wikilink") ([뉴욕 타임스](../Page/뉴욕_타임스.md "wikilink") "Foreign Affiars" 컬럼니스트, "렉서스와 올리브나무" "세계는 평평하다" 등 저자)
 
 ## 배경 및 목적
 

@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [FIFA U-17 ](https://ko.wikipedia.org/wiki/FIFA_U-17_).
 
 
-**FIFA U-17 월드컵**(FIFA U-17 World Cup)은 [국제 축구 연맹](https://ko.wikipedia.org/wiki/국제_축구_연맹 "wikilink")(FIFA) 주관으로 2년마다 열리는 청소년 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회이다. 각국의 17세 이하 남자 축구 대표팀이 참가한다. [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") 대회부터 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 대회까지는 16세 이하의 선수들만 출전할 수 있었지만, [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") 대회부터 17세 이하의 선수들만 출전할 수 있도록 연령 제한을 높였다.
+**FIFA U-17 월드컵**(FIFA U-17 World Cup)은 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")(FIFA) 주관으로 2년마다 열리는 청소년 [축구](../Page/축구.md "wikilink") 대회이다. 각국의 17세 이하 남자 축구 대표팀이 참가한다. [1985년](../Page/1985년.md "wikilink") 대회부터 [1989년](../Page/1989년.md "wikilink") 대회까지는 16세 이하의 선수들만 출전할 수 있었지만, [1991년](../Page/1991년.md "wikilink") 대회부터 17세 이하의 선수들만 출전할 수 있도록 연령 제한을 높였다.
 
 ## 대륙별 예선
 
-| 대륙별 연맹                                                                           | 대회                                                                                          |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [아시아 축구 연맹](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") (AFC)            | [AFC U-16 축구 선수권 대회](https://ko.wikipedia.org/wiki/AFC_U-16_축구_선수권_대회 "wikilink")           |
-| [아프리카 축구 연맹](https://ko.wikipedia.org/wiki/아프리카_축구_연맹 "wikilink") (CAF)          | [아프리카 U-17 축구 선수권 대회](https://ko.wikipedia.org/wiki/아프리카_U-17_축구_선수권_대회 "wikilink")         |
-| [북중미카리브 축구 연맹](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink") (CONCACAF) | [CONCACAF U-17 축구 선수권 대회](https://ko.wikipedia.org/wiki/CONCACAF_U-17_축구_선수권_대회 "wikilink") |
-| [남미 축구 연맹](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink") (CONMEBOL)         | [남아메리카 U-17 축구 선수권 대회](https://ko.wikipedia.org/wiki/남아메리카_U-17_축구_선수권_대회 "wikilink")       |
-| [오세아니아 축구 연맹](https://ko.wikipedia.org/wiki/오세아니아_축구_연맹 "wikilink") (OFC)        | [OFC U-17 축구 선수권 대회](../Page/OFC_U-17_축구_선수권_대회.md "wikilink")                              |
-| [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") (UEFA)             | [UEFA U-17 축구 선수권 대회](../Page/UEFA_U-17_축구_선수권_대회.md "wikilink")                            |
+| 대륙별 연맹                                                        | 대회                                                                                          |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink") (AFC)            | [AFC U-16 축구 선수권 대회](../Page/AFC_U-16_축구_선수권_대회.md "wikilink")                              |
+| [아프리카 축구 연맹](../Page/아프리카_축구_연맹.md "wikilink") (CAF)          | [아프리카 U-17 축구 선수권 대회](https://ko.wikipedia.org/wiki/아프리카_U-17_축구_선수권_대회 "wikilink")         |
+| [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink") (CONCACAF) | [CONCACAF U-17 축구 선수권 대회](https://ko.wikipedia.org/wiki/CONCACAF_U-17_축구_선수권_대회 "wikilink") |
+| [남미 축구 연맹](../Page/남미_축구_연맹.md "wikilink") (CONMEBOL)         | [남아메리카 U-17 축구 선수권 대회](https://ko.wikipedia.org/wiki/남아메리카_U-17_축구_선수권_대회 "wikilink")       |
+| [오세아니아 축구 연맹](../Page/오세아니아_축구_연맹.md "wikilink") (OFC)        | [OFC U-17 축구 선수권 대회](../Page/OFC_U-17_축구_선수권_대회.md "wikilink")                              |
+| [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink") (UEFA)             | [UEFA U-17 축구 선수권 대회](../Page/UEFA_U-17_축구_선수권_대회.md "wikilink")                            |
 
 ## 역대 U-17 월드컵 결과
 
@@ -48,9 +48,9 @@
 </tr>
 <tr class="even">
 <td><p>1985년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1985년_FIFA_U-16_세계_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1985년_FIFA_U-16_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_People&#39;s_Republic_of_China.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/중국" title="wikilink">중국</a></p></td>
+<a href="../Page/중국.md" title="wikilink">중국</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Nigeria.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/나이지리아_U-17_축구_국가대표팀.md" title="wikilink">나이지리아</a></strong></p></td>
 <td><p><strong>2 – 0</strong></p></td>
@@ -61,9 +61,9 @@
 </tr>
 <tr class="odd">
 <td><p>1987년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1987년_FIFA_U-16_세계_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1987년_FIFA_U-16_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Canada.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/캐나다" title="wikilink">캐나다</a></p></td>
+<a href="../Page/캐나다.md" title="wikilink">캐나다</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_Soviet_Union.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/소련_U-17_축구_국가대표팀" title="wikilink">소련</a></strong></p></td>
 <td><p><strong>1 – 1</strong><br />
@@ -76,9 +76,9 @@
 </tr>
 <tr class="even">
 <td><p>1989년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1989년_FIFA_U-16_세계_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1989년_FIFA_U-16_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Scotland.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/스코틀랜드" title="wikilink">스코틀랜드</a></p></td>
+<a href="../Page/스코틀랜드.md" title="wikilink">스코틀랜드</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Saudi_Arabia.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/사우디아라비아_U-17_축구_국가대표팀" title="wikilink">사우디아라비아</a></strong></p></td>
 <td><p><strong>2 – 2</strong><br />
@@ -124,9 +124,9 @@
 </tr>
 <tr class="even">
 <td><p>1991년<br />
-''<a href="https://ko.wikipedia.org/wiki/1991년_FIFA_U-17_세계_축구_선수권_대회" title="wikilink">상세정보</a></p></td>
+''<a href="../Page/1991년_FIFA_U-17_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Italy.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/이탈리아" title="wikilink">이탈리아</a></p></td>
+<a href="../Page/이탈리아.md" title="wikilink">이탈리아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Ghana.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/가나_U-17_축구_국가대표팀" title="wikilink">가나</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
@@ -137,9 +137,9 @@
 </tr>
 <tr class="odd">
 <td><p>1993년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1993년_FIFA_U-17_세계_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1993년_FIFA_U-17_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Japan_(1870-1999).svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a></p></td>
+<a href="../Page/일본.md" title="wikilink">일본</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Nigeria.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/나이지리아_U-17_축구_국가대표팀.md" title="wikilink">나이지리아</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
@@ -150,9 +150,9 @@
 </tr>
 <tr class="even">
 <td><p>1995년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1995년_FIFA_U-17_세계_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1995년_FIFA_U-17_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Ecuador_(1900-2009).svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/에콰도르" title="wikilink">에콰도르</a></p></td>
+<a href="../Page/에콰도르.md" title="wikilink">에콰도르</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Ghana.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/가나_U-17_축구_국가대표팀" title="wikilink">가나</a></strong></p></td>
 <td><p><strong>3 – 2</strong></p></td>
@@ -163,9 +163,9 @@
 </tr>
 <tr class="odd">
 <td><p>1997년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1997년_FIFA_U-17_세계_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1997년_FIFA_U-17_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Egypt.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/이집트" title="wikilink">이집트</a></p></td>
+<a href="../Page/이집트.md" title="wikilink">이집트</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/브라질_U-17_축구_국가대표팀.md" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
@@ -176,9 +176,9 @@
 </tr>
 <tr class="even">
 <td><p>1999년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1999년_FIFA_U-17_세계_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1999년_FIFA_U-17_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_New_Zealand.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/브라질_U-17_축구_국가대표팀.md" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>0 – 0</strong><br />
@@ -191,9 +191,9 @@
 </tr>
 <tr class="odd">
 <td><p>2001년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2001년_FIFA_U-17_세계_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/2001년_FIFA_U-17_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Trinidad_and_Tobago.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/트리니다드_토바고" title="wikilink">트리니다드 토바고</a></p></td>
+<a href="../Page/트리니다드_토바고.md" title="wikilink">트리니다드 토바고</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_France.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/프랑스_U-17_축구_국가대표팀" title="wikilink">프랑스</a></strong></p></td>
 <td><p><strong>3 – 0</strong></p></td>
@@ -204,9 +204,9 @@
 </tr>
 <tr class="even">
 <td><p>2003년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2003년_FIFA_U-17_세계_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/2003년_FIFA_U-17_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Finland.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/핀란드" title="wikilink">핀란드</a></p></td>
+<a href="../Page/핀란드.md" title="wikilink">핀란드</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/브라질_U-17_축구_국가대표팀.md" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
@@ -217,9 +217,9 @@
 </tr>
 <tr class="odd">
 <td><p>2005년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2005년_FIFA_U-17_세계_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/2005년_FIFA_U-17_세계_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Peru_(state).svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/페루" title="wikilink">페루</a></p></td>
+<a href="../Page/페루.md" title="wikilink">페루</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/멕시코_U-17_축구_국가대표팀" title="wikilink">멕시코</a></strong></p></td>
 <td><p><strong>3 – 0</strong></p></td>
@@ -265,7 +265,7 @@
 <td><p>2007년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2007년_FIFA_U-17_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_South_Korea.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Nigeria.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/나이지리아_U-17_축구_국가대표팀.md" title="wikilink">나이지리아</a></strong></p></td>
 <td><p><strong>0 – 0</strong><br />
@@ -280,7 +280,7 @@
 <td><p>2009년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2009년_FIFA_U-17_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Nigeria.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/나이지리아" title="wikilink">나이지리아</a></p></td>
+<a href="../Page/나이지리아.md" title="wikilink">나이지리아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Switzerland.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/스위스_U-17_축구_국가대표팀" title="wikilink">스위스</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
@@ -293,7 +293,7 @@
 <td><p>2011년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2011년_FIFA_U-17_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/멕시코" title="wikilink">멕시코</a></p></td>
+<a href="../Page/멕시코.md" title="wikilink">멕시코</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/멕시코_U-17_축구_국가대표팀" title="wikilink">멕시코</a></strong></p></td>
 <td><p><strong>2 – 0</strong></p></td>
@@ -306,7 +306,7 @@
 <td><p>2013년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2013년_FIFA_U-17_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Arab_Emirates.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/아랍에미리트" title="wikilink">아랍에미리트</a></p></td>
+<a href="../Page/아랍에미리트.md" title="wikilink">아랍에미리트</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Nigeria.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/나이지리아_U-17_축구_국가대표팀.md" title="wikilink">나이지리아</a></strong></p></td>
 <td><p><strong>3 – 0</strong></p></td>
@@ -319,7 +319,7 @@
 <td><p>2015년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2015년_FIFA_U-17_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Chile.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/칠레" title="wikilink">칠레</a></p></td>
+<a href="../Page/칠레.md" title="wikilink">칠레</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Nigeria.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/나이지리아_U-17_축구_국가대표팀.md" title="wikilink">나이지리아</a></strong></p></td>
 <td><p><strong>2 – 0</strong></p></td>
@@ -332,7 +332,7 @@
 <td><p>2017년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2017년_FIFA_U-17_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_India.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/인도" title="wikilink">인도</a></p></td>
+<a href="../Page/인도.md" title="wikilink">인도</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_England.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/잉글랜드_U-17_축구_국가대표팀" title="wikilink">잉글랜드</a></strong></p></td>
 <td><p><strong>5 – 2</strong></p></td>
@@ -345,7 +345,7 @@
 <td><p>2019년<br />
 <em><a href="../Page/2019년_FIFA_U-17_월드컵.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/브라질" title="wikilink">브라질</a></p></td>
+<a href="../Page/브라질.md" title="wikilink">브라질</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/브라질_U-17_축구_국가대표팀.md" title="wikilink">브라질</a></strong></p></td>
 <td><p>''' 2 – 1 '''</p></td>
@@ -358,7 +358,7 @@
 <td><p>2021년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2021년_FIFA_U-17_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Peru_(state).svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/페루" title="wikilink">페루</a></p></td>
+<a href="../Page/페루.md" title="wikilink">페루</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_None.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/?_U-17_축구_국가대표팀" title="wikilink">?</a></strong></p></td>
 <td><p>''' – '''</p></td>
@@ -617,14 +617,14 @@
 
 ### 대륙별 수상 횟수
 
-| 연맹                                                                         | 수상                                                                                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [CAF (아프리카)](https://ko.wikipedia.org/wiki/아프리카_축구_연맹 "wikilink")          | 7회 우승, [나이지리아](../Page/나이지리아_U-17_축구_국가대표팀.md "wikilink") (5회), [가나](https://ko.wikipedia.org/wiki/가나_U-17_축구_국가대표팀 "wikilink") (2회)                                                                                                                                                                  |
-| [UEFA (유럽)](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")             | 4회 우승, [프랑스](https://ko.wikipedia.org/wiki/프랑스_U-17_축구_국가대표팀 "wikilink") (1회), [소련](https://ko.wikipedia.org/wiki/소련_U-17_축구_국가대표팀 "wikilink") (1회), [스위스](https://ko.wikipedia.org/wiki/스위스_U-17_축구_국가대표팀 "wikilink") (1회), [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드_U-17_축구_국가대표팀 "wikilink") (1회) |
-| [CONMEBOL (남아메리카)](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink")      | 3회 우승, [브라질](../Page/브라질_U-17_축구_국가대표팀.md "wikilink")                                                                                                                                                                                                                                                 |
-| [CONCACAF (북중미카리브)](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink") | 2회 우승, [멕시코](https://ko.wikipedia.org/wiki/멕시코_U-17_축구_국가대표팀 "wikilink")                                                                                                                                                                                                                              |
-| [AFC (아시아)](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink")            | 1회 우승, [사우디아라비아](https://ko.wikipedia.org/wiki/사우디아라비아_U-17_축구_국가대표팀 "wikilink")                                                                                                                                                                                                                      |
-| [OFC (오세아니아)](https://ko.wikipedia.org/wiki/오세아니아_축구_연맹 "wikilink")        | 준우승 ([오스트레일리아](../Page/오스트레일리아_U-17_축구_국가대표팀.md "wikilink"), [1999년](https://ko.wikipedia.org/wiki/1999년_FIFA_U-17_월드컵 "wikilink"))                                                                                                                                                                   |
+| 연맹                                                      | 수상                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [CAF (아프리카)](../Page/아프리카_축구_연맹.md "wikilink")          | 7회 우승, [나이지리아](../Page/나이지리아_U-17_축구_국가대표팀.md "wikilink") (5회), [가나](https://ko.wikipedia.org/wiki/가나_U-17_축구_국가대표팀 "wikilink") (2회)                                                                                                                                                                  |
+| [UEFA (유럽)](../Page/유럽_축구_연맹.md "wikilink")             | 4회 우승, [프랑스](https://ko.wikipedia.org/wiki/프랑스_U-17_축구_국가대표팀 "wikilink") (1회), [소련](https://ko.wikipedia.org/wiki/소련_U-17_축구_국가대표팀 "wikilink") (1회), [스위스](https://ko.wikipedia.org/wiki/스위스_U-17_축구_국가대표팀 "wikilink") (1회), [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드_U-17_축구_국가대표팀 "wikilink") (1회) |
+| [CONMEBOL (남아메리카)](../Page/남미_축구_연맹.md "wikilink")      | 3회 우승, [브라질](../Page/브라질_U-17_축구_국가대표팀.md "wikilink")                                                                                                                                                                                                                                                 |
+| [CONCACAF (북중미카리브)](../Page/북중미카리브_축구_연맹.md "wikilink") | 2회 우승, [멕시코](https://ko.wikipedia.org/wiki/멕시코_U-17_축구_국가대표팀 "wikilink")                                                                                                                                                                                                                              |
+| [AFC (아시아)](../Page/아시아_축구_연맹.md "wikilink")            | 1회 우승, [사우디아라비아](https://ko.wikipedia.org/wiki/사우디아라비아_U-17_축구_국가대표팀 "wikilink")                                                                                                                                                                                                                      |
+| [OFC (오세아니아)](../Page/오세아니아_축구_연맹.md "wikilink")        | 준우승 ([오스트레일리아](../Page/오스트레일리아_U-17_축구_국가대표팀.md "wikilink"), [1999년](https://ko.wikipedia.org/wiki/1999년_FIFA_U-17_월드컵 "wikilink"))                                                                                                                                                                   |
 
 ## 수상
 
@@ -668,7 +668,7 @@
 </tr>
 <tr class="even">
 <td><p>1999 뉴질랜드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랜던_도너번" title="wikilink">랜던 도너번</a></p></td>
+<td><p><a href="../Page/랜던_도너번.md" title="wikilink">랜던 도너번</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001 트리니다드 토바고</p></td>
@@ -676,15 +676,15 @@
 </tr>
 <tr class="even">
 <td><p>2003 핀란드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세스크_파브레가스" title="wikilink">세스크 파브레가스</a></p></td>
+<td><p><a href="../Page/세스크_파브레가스.md" title="wikilink">세스크 파브레가스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005 페루</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안데르송_루이스_지_아브레우_올리베이라" title="wikilink">안데르송</a></p></td>
+<td><p><a href="../Page/안데르송_루이스_지_아브레우_올리베이라.md" title="wikilink">안데르송</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007 대한민국</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토니_크로스" title="wikilink">토니 크로스</a></p></td>
+<td><p><a href="../Page/토니_크로스.md" title="wikilink">토니 크로스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009 나이지리아</p></td>
@@ -767,12 +767,12 @@
 </tr>
 <tr class="even">
 <td><p>2003 핀란드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세스크_파브레가스" title="wikilink">세스크 파브레가스</a></p></td>
+<td><p><a href="../Page/세스크_파브레가스.md" title="wikilink">세스크 파브레가스</a></p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005 페루</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카를로스_벨라" title="wikilink">카를로스 벨라</a></p></td>
+<td><p><a href="../Page/카를로스_벨라.md" title="wikilink">카를로스 벨라</a></p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="even">
@@ -894,19 +894,19 @@
 **남자 대회**
 
   - [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink")
-  - [FIFA U-20 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-20_월드컵 "wikilink")
+  - [FIFA U-20 월드컵](../Page/FIFA_U-20_월드컵.md "wikilink")
   - [FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink")
-  - [FIFA 풋살 월드컵](https://ko.wikipedia.org/wiki/FIFA_풋살_월드컵 "wikilink")
-  - [FIFA 비치사커 월드컵](https://ko.wikipedia.org/wiki/FIFA_비치사커_월드컵 "wikilink")
-  - [올림픽 축구](https://ko.wikipedia.org/wiki/올림픽_축구 "wikilink")
+  - [FIFA 풋살 월드컵](../Page/FIFA_풋살_월드컵.md "wikilink")
+  - [FIFA 비치사커 월드컵](../Page/FIFA_비치사커_월드컵.md "wikilink")
+  - [올림픽 축구](../Page/올림픽_축구.md "wikilink")
   - [FIFA e월드컵](../Page/FIFA_e월드컵.md "wikilink")
 
 **여자 대회**
 
-  - [FIFA 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_여자_월드컵 "wikilink")
-  - [FIFA U-20 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-20_여자_월드컵 "wikilink")
-  - [FIFA U-17 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-17_여자_월드컵 "wikilink")
-  - [여자 올림픽 축구](https://ko.wikipedia.org/wiki/올림픽_축구 "wikilink")
+  - [FIFA 여자 월드컵](../Page/FIFA_여자_월드컵.md "wikilink")
+  - [FIFA U-20 여자 월드컵](../Page/FIFA_U-20_여자_월드컵.md "wikilink")
+  - [FIFA U-17 여자 월드컵](../Page/FIFA_U-17_여자_월드컵.md "wikilink")
+  - [여자 올림픽 축구](../Page/올림픽_축구.md "wikilink")
 
 ## 외부 링크
 

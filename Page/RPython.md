@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [RPython](https://ko.wikipedia.org/wiki/RPython).
 
 
-**RPython**(←)은 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") [프로그래밍 언어의](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink") [부분 집합이다](https://ko.wikipedia.org/wiki/부분_집합 "wikilink"). [PyPy](../Page/PyPy.md "wikilink")를 개발하기 위해 개발되었다.
+**RPython**(←)은 [파이썬](../Page/파이썬.md "wikilink") [프로그래밍 언어의](../Page/프로그래밍_언어.md "wikilink") [부분 집합이다](https://ko.wikipedia.org/wiki/부분_집합 "wikilink"). [PyPy](../Page/PyPy.md "wikilink")를 개발하기 위해 개발되었다.
 
 효율적인 정적 컴파일을 위해 기능을 제한하고 있다. 표준 파이썬과 다르게 정적 타입을 사용한다.
 
-번역기를 이용하여 RPython 코드를 [C](https://ko.wikipedia.org/wiki/C_\(프로그래밍_언어\) "wikilink"), [자바 바이트코드](https://ko.wikipedia.org/wiki/자바_바이트코드 "wikilink"), [공통 중간 언어와](https://ko.wikipedia.org/wiki/공통_중간_언어 "wikilink") 같은 [저급 언어로](https://ko.wikipedia.org/wiki/저급_언어 "wikilink") 변환할 수 있다. 인터프리터에 [JIT 컴파일러를](https://ko.wikipedia.org/wiki/JIT_컴파일 "wikilink") 만드는 생성기가 있다. 만들어진 JIT 컴파일러는 tracing JIT이다.
+번역기를 이용하여 RPython 코드를 [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [자바 바이트코드](../Page/자바_바이트코드.md "wikilink"), [공통 중간 언어와](../Page/공통_중간_언어.md "wikilink") 같은 [저급 언어로](https://ko.wikipedia.org/wiki/저급_언어 "wikilink") 변환할 수 있다. 인터프리터에 [JIT 컴파일러를](../Page/JIT_컴파일.md "wikilink") 만드는 생성기가 있다. 만들어진 JIT 컴파일러는 tracing JIT이다.
 
 ## 예제
 

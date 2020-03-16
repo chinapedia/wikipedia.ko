@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J ](https://ko.wikipedia.org/wiki/J_).
 
 
-**J리그 승강결정전**()는 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") 시즌부터 [J리그](../Page/J리그.md "wikilink")에 도입된 제도로 다음 해 J리그 승격 및 강등을 가리는 경기다. [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") 시즌부터 J2리그가 18개 팀이 됨에 따라 폐지되었으나 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")부터 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [챔피언십리그](https://ko.wikipedia.org/wiki/챔피언십리그 "wikilink")의 플레이오프 방식으로 재도입되었다.
+**J리그 승강결정전**()는 [2004년](../Page/2004년.md "wikilink") 시즌부터 [J리그](../Page/J리그.md "wikilink")에 도입된 제도로 다음 해 J리그 승격 및 강등을 가리는 경기다. [2009년](../Page/2009년.md "wikilink") 시즌부터 J2리그가 18개 팀이 됨에 따라 폐지되었으나 [2012년](../Page/2012년.md "wikilink")부터 [잉글랜드](../Page/잉글랜드.md "wikilink") [챔피언십리그](https://ko.wikipedia.org/wiki/챔피언십리그 "wikilink")의 플레이오프 방식으로 재도입되었다.
 
 ## 설명
 
@@ -39,7 +39,7 @@
 <td><p>2 - 0<br />
 2 - 0<br />
 <strong>4 - 0</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아비스파_후쿠오카" title="wikilink">아비스파 후쿠오카</a></p></td>
+<td><p><a href="../Page/아비스파_후쿠오카.md" title="wikilink">아비스파 후쿠오카</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
@@ -51,27 +51,27 @@
 </tr>
 <tr class="odd">
 <td><p>2006</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아비스파_후쿠오카" title="wikilink">아비스파 후쿠오카</a></p></td>
+<td><p><a href="../Page/아비스파_후쿠오카.md" title="wikilink">아비스파 후쿠오카</a></p></td>
 <td><p>0 - 0<br />
 1 - 1<br />
 <strong>1 - 1 (1)*</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/비셀_고베" title="wikilink">비셀 고베</a></strong></p></td>
+<td><p><strong><a href="../Page/비셀_고베.md" title="wikilink">비셀 고베</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/산프레체_히로시마" title="wikilink">산프레체 히로시마</a></p></td>
+<td><p><a href="../Page/산프레체_히로시마.md" title="wikilink">산프레체 히로시마</a></p></td>
 <td><p>1 - 2<br />
 0 - 0<br />
 <strong>1 - 2</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/교토_상가_FC" title="wikilink">교토 상가 FC</a></strong></p></td>
+<td><p><strong><a href="../Page/교토_상가_FC.md" title="wikilink">교토 상가 FC</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/주빌로_이와타" title="wikilink">주빌로 이와타</a></strong></p></td>
+<td><p><strong><a href="../Page/주빌로_이와타.md" title="wikilink">주빌로 이와타</a></strong></p></td>
 <td><p>1 - 1<br />
 2 - 1<br />
 <strong>3 - 2</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/베갈타_센다이" title="wikilink">베갈타 센다이</a></p></td>
+<td><p><a href="../Page/베갈타_센다이.md" title="wikilink">베갈타 센다이</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -82,7 +82,7 @@
 
 ## 같이 보기
 
-  - [J리그 승격 플레이오프](https://ko.wikipedia.org/wiki/J리그_승격_플레이오프 "wikilink")
+  - [J리그 승격 플레이오프](../Page/J리그_승격_플레이오프.md "wikilink")
 
 ## 외부 링크
 

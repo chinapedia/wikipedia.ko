@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [   II:  ](https://ko.wikipedia.org/wiki/___II:__).
 
 
-《**솔저 오브 포춘 II: 더블 헬릭스**》()는 [레이븐 소프트웨어에서](../Page/레이븐_소프트웨어.md "wikilink") 개발한 용병을 주제로 한 [1인칭 슈팅 게임](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink") [솔져 오브 포춘의](https://ko.wikipedia.org/wiki/솔져_오브_포춘 "wikilink") 후속작이다. 플레이어는 전작과 마찬가지로 존 멀린스()의 역할을 맡게 된다. [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에는 [메가 엔터프라이즈가](https://ko.wikipedia.org/wiki/메가_엔터프라이즈 "wikilink") PC판을 무삭제로 한글화하였고, [엑스박스](https://ko.wikipedia.org/wiki/엑스박스 "wikilink")판은 세중게임박스가 배급하였다.
+《**솔저 오브 포춘 II: 더블 헬릭스**》()는 [레이븐 소프트웨어에서](../Page/레이븐_소프트웨어.md "wikilink") 개발한 용병을 주제로 한 [1인칭 슈팅 게임](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink") [솔져 오브 포춘의](https://ko.wikipedia.org/wiki/솔져_오브_포춘 "wikilink") 후속작이다. 플레이어는 전작과 마찬가지로 존 멀린스()의 역할을 맡게 된다. [대한민국](../Page/대한민국.md "wikilink")에는 [메가 엔터프라이즈가](../Page/메가_엔터프라이즈.md "wikilink") PC판을 무삭제로 한글화하였고, [엑스박스](../Page/엑스박스.md "wikilink")판은 세중게임박스가 배급하였다.
 
 ## 개요
 
@@ -9,13 +9,13 @@
 
 간소하게 미션을 즐길 수 있는 무작위 임무 생성기()는 즉석에서 간단한 맵을 생성한다. 기본적으로 생성하는 맵은 싱글 미션용 맵이지만, 멀티 플레이용 맵도 만들 수 있으며, 낮과 밤의 배경, 4가지 지형(시간, 언덕, 정글, 사막, 설원), 4가지 방식(암살, 폭파, 도주, 잠입)을 지원한다. 그러나 간단한 맵만을 만들어 내는데, 형태는 언제나 광활한 황무지인 탓에 엄폐하거나 전술을 펼칠 수 없어, 적들의 A.I.가 제대로 작동하지 않는다.
 
-전작과는 달리, 미래적이거나 과학 소설적 요소는 이번 작에서는 존재하지 않으나, [미국군의](https://ko.wikipedia.org/wiki/미국의_군사 "wikilink") 옛 시제품이었던 [OICW가](https://ko.wikipedia.org/wiki/XM29_OICW "wikilink") 가장 진보된 무기로서 존재한다.
+전작과는 달리, 미래적이거나 과학 소설적 요소는 이번 작에서는 존재하지 않으나, [미국군의](https://ko.wikipedia.org/wiki/미국의_군사 "wikilink") 옛 시제품이었던 [OICW가](../Page/XM29_OICW.md "wikilink") 가장 진보된 무기로서 존재한다.
 
 [스타워즈 제다이 나이트 II: 제다이 아웃캐스트와](https://ko.wikipedia.org/wiki/스타워즈_제다이_나이트_II:_제다이_아웃캐스트 "wikilink") 동시에 개발되었다.
 
 ## 줄거리
 
-존은 죽은 호크의 뒤를 잇는 새로운 파트너 '메들린 테일러'와 함께 바이러스의 습격을 받은 [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink")의 작은 마을을 조사하고, [프로메테우스](https://ko.wikipedia.org/wiki/프로메테우스 "wikilink")라고 불리는 어둠의 조직이 연결되어 있음을 알게 된다. 바이러스는 [로물루스](https://ko.wikipedia.org/wiki/로물루스 "wikilink")라 불리며, [레무스](https://ko.wikipedia.org/wiki/레무스 "wikilink")는 전 세계의 컴퓨터를 삭제할 수 있는데, [백신](https://ko.wikipedia.org/wiki/백신 "wikilink")은 존재하지 않는다. 프로메테우스는 스위스를 통해 [G8](https://ko.wikipedia.org/wiki/G8 "wikilink") 국가에서 막대한 달러를 강탈할 계획을 세우고 있음을 알게 된다. 그리고 더 샵 내에 내통자가 있으며, 그가 [테러리스트](https://ko.wikipedia.org/wiki/테러리스트 "wikilink")들에게 정보를 유출시키고 있었다.
+존은 죽은 호크의 뒤를 잇는 새로운 파트너 '메들린 테일러'와 함께 바이러스의 습격을 받은 [콜롬비아](../Page/콜롬비아.md "wikilink")의 작은 마을을 조사하고, [프로메테우스](../Page/프로메테우스.md "wikilink")라고 불리는 어둠의 조직이 연결되어 있음을 알게 된다. 바이러스는 [로물루스](../Page/로물루스.md "wikilink")라 불리며, [레무스](https://ko.wikipedia.org/wiki/레무스 "wikilink")는 전 세계의 컴퓨터를 삭제할 수 있는데, [백신](../Page/백신.md "wikilink")은 존재하지 않는다. 프로메테우스는 스위스를 통해 [G8](../Page/G8.md "wikilink") 국가에서 막대한 달러를 강탈할 계획을 세우고 있음을 알게 된다. 그리고 더 샵 내에 내통자가 있으며, 그가 [테러리스트](https://ko.wikipedia.org/wiki/테러리스트 "wikilink")들에게 정보를 유출시키고 있었다.
 
 ## 같이 보기
 

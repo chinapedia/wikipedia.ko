@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [3LDK](https://ko.wikipedia.org/wiki/3LDK).
 
 
-《**3LDK♥**》(, )는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [6월 27일에](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") DEEP BLUE에서 발매한 18금 연애 [어드벤처 게임이다](https://ko.wikipedia.org/wiki/어드벤처_게임 "wikilink"). 또한 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 1일에는](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 가정용으로 이식되어 프린세스 소프트에서 [CERO](https://ko.wikipedia.org/wiki/CERO "wikilink") 등급 15세 이상 대응의 [플레이스테이션2](https://ko.wikipedia.org/wiki/플레이스테이션2 "wikilink")판 《**3LDK♥ \~행복하세요\~**》가 발매되었다.
+《**3LDK♥**》(, )는 [2003년](../Page/2003년.md "wikilink") [6월 27일에](../Page/6월_27일.md "wikilink") DEEP BLUE에서 발매한 18금 연애 [어드벤처 게임이다](../Page/어드벤처_게임.md "wikilink"). 또한 [2004년](../Page/2004년.md "wikilink") [7월 1일에는](../Page/7월_1일.md "wikilink") 가정용으로 이식되어 프린세스 소프트에서 [CERO](https://ko.wikipedia.org/wiki/CERO "wikilink") 등급 15세 이상 대응의 [플레이스테이션2](https://ko.wikipedia.org/wiki/플레이스테이션2 "wikilink")판 《**3LDK♥ \~행복하세요\~**》가 발매되었다.
 
 ## 스토리
 
@@ -15,7 +15,7 @@
 <!-- end list -->
 
   - 세노 치호기 ()
-    성우：[青葉楓/토카 레이코](https://ko.wikipedia.org/wiki/혼마_유카리 "wikilink")
+    성우：[青葉楓/토카 레이코](../Page/혼마_유카리.md "wikilink")
     원래는 이웃에 살고 있었지만, 1년 전 부모의 전근이 있었을 때 마사토와 떨어지고 싶지 않다는 이유로 마사토의 집에 머물기 시작했다. 성격은 좀 둔한편이지만 운동신경은 좋아서 현재 수영부 소속이다.
 
 <!-- end list -->
@@ -39,14 +39,14 @@
 <!-- end list -->
 
   - 히나 ()
-    성우 : [노다 아스미](https://ko.wikipedia.org/wiki/후지사키_카오리 "wikilink")
+    성우 : [노다 아스미](../Page/후지사키_카오리.md "wikilink")
     수수께끼의 가출소녀. 자칭 트리케라톱스의 아이. 입버릇은 "에로에로". 이유는 모르지만 손재주가 매우 뛰어난지 요리할 때 당근을 여러 모양으로 자른다든지 고장난 걸 금방 고친다든지 한다.
 
 ## 추가 설명
 
 ### 전량 회수 및 재출시
 
-  - [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 초회판 출시 후 [소프륜](https://ko.wikipedia.org/wiki/소프륜 "wikilink")의 규정을 위반한 CG가 존재한다는 이유로 전량 회수 조치가 되었다. 그 후 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월](https://ko.wikipedia.org/wiki/10월 "wikilink") 위반 사항을 수정하여 초회판 재출시 및 통상판이 출시되었으며 [10월](https://ko.wikipedia.org/wiki/10월 "wikilink")에 나온 버전의 경우 구판에 비해 CD장수가 한 장 적게 구성되었다.
+  - [2003년](../Page/2003년.md "wikilink") [6월](../Page/6월.md "wikilink") 초회판 출시 후 [소프륜](https://ko.wikipedia.org/wiki/소프륜 "wikilink")의 규정을 위반한 CG가 존재한다는 이유로 전량 회수 조치가 되었다. 그 후 [2003년](../Page/2003년.md "wikilink") [10월](../Page/10월.md "wikilink") 위반 사항을 수정하여 초회판 재출시 및 통상판이 출시되었으며 [10월](../Page/10월.md "wikilink")에 나온 버전의 경우 구판에 비해 CD장수가 한 장 적게 구성되었다.
 
 ### 기타 사항
 

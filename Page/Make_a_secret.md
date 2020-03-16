@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Make a secret](https://ko.wikipedia.org/wiki/Make_a_secret).
 
 
-〈**make a secret**〉은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 가수 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")에서 발매한 16번째 싱글이다.
+〈**make a secret**〉은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 16번째 싱글이다.
 
 [오리콘](../Page/오리콘.md "wikilink") 주간 싱글 차트 1위를 차지한 전작 〈[DO THE MOTION](../Page/DO_THE_MOTION.md "wikilink")〉에 이어 발매된 〈make a secret〉은 보아가 이제까지 보여주었던 파워풀한 음악 스타일에서 벗어나 절제되고 세련된 안무가 돋보이는 색다른 분위기의 곡이다. 이 곡은 일본의 화장품 KOSE FASIO의 광고 음악으로 사용되었다.
 
@@ -9,7 +9,7 @@
 
 커플링 곡인 〈LONG TIME NO SEE〉는 보아가 직접 작사에 참여했다. 오랫동안 떨어져 있었던 연인이 다시 만나 2번째 이야기를 시작하자는 내용의 가사이다.
 
-[2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [12월 15일에는](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") 보아의 싱글들 중 최초로 한국에 라이선스 발매되었고, 이 싱글에 수록된 두 곡 모두 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [2월 15일](https://ko.wikipedia.org/wiki/2월_15일 "wikilink") 발매된 4번째 정규 앨범 《[OUTGROW](../Page/OUTGROW.md "wikilink")》에 수록되었다.
+[2005년](../Page/2005년.md "wikilink") [12월 15일에는](../Page/12월_15일.md "wikilink") 보아의 싱글들 중 최초로 한국에 라이선스 발매되었고, 이 싱글에 수록된 두 곡 모두 [2006년](../Page/2006년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") 발매된 4번째 정규 앨범 《[OUTGROW](../Page/OUTGROW.md "wikilink")》에 수록되었다.
 
 ## 방송 출연 목록
 

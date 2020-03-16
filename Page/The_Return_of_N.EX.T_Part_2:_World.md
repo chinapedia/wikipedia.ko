@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [The Return of N.EX.T Part 2: World](https://ko.wikipedia.org/wiki/The_Return_of_N.EX.T_Part_2:_World).
 
 
-《**The Return of N.EX.T Part II: World**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 록 밴드 [N.EX.T](https://ko.wikipedia.org/wiki/N.EX.T "wikilink")의 세 번째 앨범이다. [라이브 1](https://ko.wikipedia.org/wiki/The_Return_of_N.EX.T_Part_1_-_The_Being_Live_Concert_Chapter_1 "wikilink"), [2](https://ko.wikipedia.org/wiki/The_Return_of_N.EX.T_Part_1_-_The_Being_Live_Concert_Chapter_2 "wikilink") 앨범을 제외하면 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink") [김세황](https://ko.wikipedia.org/wiki/김세황 "wikilink")과 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink") [김영석](../Page/김영석_\(음악가\).md "wikilink") 두 사람은 넥스트에 합류한 후 정규앨범으로서는 처음으로 작업한 작품이다. 초판은 디지팩으로 발매되었으며, 이후에는 주얼케이스판으로 판매되고 있다.
+《**The Return of N.EX.T Part II: World**》는 [대한민국](../Page/대한민국.md "wikilink")의 록 밴드 [N.EX.T](../Page/N.EX.T.md "wikilink")의 세 번째 앨범이다. [라이브 1](../Page/The_Return_of_N.EX.T_Part_1_-_The_Being_Live_Concert_Chapter_1.md "wikilink"), [2](../Page/The_Return_of_N.EX.T_Part_1_-_The_Being_Live_Concert_Chapter_2.md "wikilink") 앨범을 제외하면 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink") [김세황](../Page/김세황.md "wikilink")과 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink") [김영석](../Page/김영석_\(음악가\).md "wikilink") 두 사람은 넥스트에 합류한 후 정규앨범으로서는 처음으로 작업한 작품이다. 초판은 디지팩으로 발매되었으며, 이후에는 주얼케이스판으로 판매되고 있다.
 
 ## 앨범
 
-**'The Return of N.EX.T**'라는 타이틀의 두 번째 파트에 해당하는 작품으로, 철학적이고 시사적 내용의 가사가 담긴 다양한 장르의 곡이 수록되었다\[1\]. 주요 수록곡은 당시 있었던 [삼풍백화점 붕괴 사고와](https://ko.wikipedia.org/wiki/삼풍백화점_붕괴_사고 "wikilink") [성수대교 붕괴 참사로](https://ko.wikipedia.org/wiki/성수대교_붕괴_참사 "wikilink") 나타난 무분별한 발전을 비판한 내용의 [프로그레시브 록](https://ko.wikipedia.org/wiki/프로그레시브_록 "wikilink") 〈세계의 문〉, 《[바람부는 날이면 압구정동에 가야한다](../Page/바람부는_날이면_압구정동에_가야한다.md "wikilink")》 [OST에](https://ko.wikipedia.org/wiki/바람부는_날이면_압구정동에_가야한다_\(OST\) "wikilink") 수록됐던 댄스 형태의 곡을 락 장르로 편곡하고 국악인의 창을 삽입한 〈Komerican Blues (Ver 3.1)〉, 팝 요소를 가미한 〈Hope〉, 황금만능주의를 비판하는 〈Money〉, 당시 문제가 되었던 [동성동본](https://ko.wikipedia.org/wiki/동성동본 "wikilink") 금혼법(그 뒤 1997년 [헌법재판소](https://ko.wikipedia.org/wiki/헌법재판소 "wikilink")에서 위헌 판결이 난다\[2\])에 대한 내용을 다룬 〈[힘겨워하는 연인들을 위하여](../Page/힘겨워하는_연인들을_위하여.md "wikilink")〉, 본래 쌍둥이로 태어나야 했으나 12시간만에 숨을 거둔 [신해철](https://ko.wikipedia.org/wiki/신해철 "wikilink")의 조카 한 명을 위한 곡이었지만 낙태로 주제를 바꾼 연주곡 〈Requiem For The Embryo〉등이 있다.
+**'The Return of N.EX.T**'라는 타이틀의 두 번째 파트에 해당하는 작품으로, 철학적이고 시사적 내용의 가사가 담긴 다양한 장르의 곡이 수록되었다\[1\]. 주요 수록곡은 당시 있었던 [삼풍백화점 붕괴 사고와](../Page/삼풍백화점_붕괴_사고.md "wikilink") [성수대교 붕괴 참사로](https://ko.wikipedia.org/wiki/성수대교_붕괴_참사 "wikilink") 나타난 무분별한 발전을 비판한 내용의 [프로그레시브 록](../Page/프로그레시브_록.md "wikilink") 〈세계의 문〉, 《[바람부는 날이면 압구정동에 가야한다](../Page/바람부는_날이면_압구정동에_가야한다.md "wikilink")》 [OST에](https://ko.wikipedia.org/wiki/바람부는_날이면_압구정동에_가야한다_\(OST\) "wikilink") 수록됐던 댄스 형태의 곡을 락 장르로 편곡하고 국악인의 창을 삽입한 〈Komerican Blues (Ver 3.1)〉, 팝 요소를 가미한 〈Hope〉, 황금만능주의를 비판하는 〈Money〉, 당시 문제가 되었던 [동성동본](../Page/동성동본.md "wikilink") 금혼법(그 뒤 1997년 [헌법재판소](https://ko.wikipedia.org/wiki/헌법재판소 "wikilink")에서 위헌 판결이 난다\[2\])에 대한 내용을 다룬 〈[힘겨워하는 연인들을 위하여](../Page/힘겨워하는_연인들을_위하여.md "wikilink")〉, 본래 쌍둥이로 태어나야 했으나 12시간만에 숨을 거둔 [신해철](../Page/신해철.md "wikilink")의 조카 한 명을 위한 곡이었지만 낙태로 주제를 바꾼 연주곡 〈Requiem For The Embryo〉등이 있다.
 
-전작들과 달리 [기타](https://ko.wikipedia.org/wiki/기타 "wikilink")리스트가 주도하는 연주곡도 있는데, [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink") 연주곡〈나른한 오후의 短想(짧은 생각, 김세황의 의도적인 표현임)〉과 1970년대 영화 《[러브 스토리](https://ko.wikipedia.org/wiki/러브스토리_\(1970년_영화\) "wikilink")》의 테마를 [일렉트릭 기타로](https://ko.wikipedia.org/wiki/일렉트릭_기타 "wikilink") 연주한 보너스 트랙〈Love Story〉이다.
+전작들과 달리 [기타](../Page/기타.md "wikilink")리스트가 주도하는 연주곡도 있는데, [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink") 연주곡〈나른한 오후의 短想(짧은 생각, 김세황의 의도적인 표현임)〉과 1970년대 영화 《[러브 스토리](../Page/러브스토리_\(1970년_영화\).md "wikilink")》의 테마를 [일렉트릭 기타로](https://ko.wikipedia.org/wiki/일렉트릭_기타 "wikilink") 연주한 보너스 트랙〈Love Story〉이다.
 
 ### 특이사항
 
-‘World(세계)’라는 표제를 갖고 있기 때문에 부클릿에는 수록곡의 한글 노래 제목 밑에 [영어](https://ko.wikipedia.org/wiki/영어 "wikilink"), [일본어](https://ko.wikipedia.org/wiki/일본어 "wikilink"), [중국어](https://ko.wikipedia.org/wiki/중국어 "wikilink"), [프랑스어](https://ko.wikipedia.org/wiki/프랑스어 "wikilink"), [독일어](https://ko.wikipedia.org/wiki/독일어 "wikilink"), [스페인어](https://ko.wikipedia.org/wiki/스페인어 "wikilink")로 된 제목이 적혀있다. 간혹 해당 국가에서 사용하지 않는 글자나 단어가 포함된 경우도 있다. 중국어 표기의 경우에는 [간체자](https://ko.wikipedia.org/wiki/간체자 "wikilink")와 [번체자](https://ko.wikipedia.org/wiki/번체자 "wikilink")를 혼용하기도 하였다.
+‘World(세계)’라는 표제를 갖고 있기 때문에 부클릿에는 수록곡의 한글 노래 제목 밑에 [영어](../Page/영어.md "wikilink"), [일본어](../Page/일본어.md "wikilink"), [중국어](../Page/중국어.md "wikilink"), [프랑스어](../Page/프랑스어.md "wikilink"), [독일어](../Page/독일어.md "wikilink"), [스페인어](../Page/스페인어.md "wikilink")로 된 제목이 적혀있다. 간혹 해당 국가에서 사용하지 않는 글자나 단어가 포함된 경우도 있다. 중국어 표기의 경우에는 [간체자](https://ko.wikipedia.org/wiki/간체자 "wikilink")와 [번체자](https://ko.wikipedia.org/wiki/번체자 "wikilink")를 혼용하기도 하였다.
 
 | 한국어                 | 영어                       | 중국어        | 일본어             | 프랑스어                                    | 독일어                            | 스페인어                                 |
 | ------------------- | ------------------------ | ---------- | --------------- | --------------------------------------- | ------------------------------ | ------------------------------------ |
@@ -32,9 +32,9 @@
 
 ## 활동
 
-넥스트는  《[95 내일은 늦으리](../Page/95_내일은_늦으리.md "wikilink")》 환경콘서트에 참가한다\[3\]. 그리고 12월 30일에는 〈The World〉라는 타이틀의 공연을 개최했다\[4\]. [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink")에도 [KBS 제1TV의](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink") 빅쇼를 비롯한 방송활동과 공연을 이어간다.
+넥스트는  《[95 내일은 늦으리](../Page/95_내일은_늦으리.md "wikilink")》 환경콘서트에 참가한다\[3\]. 그리고 12월 30일에는 〈The World〉라는 타이틀의 공연을 개최했다\[4\]. [1996년](../Page/1996년.md "wikilink")에도 [KBS 제1TV의](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink") 빅쇼를 비롯한 방송활동과 공연을 이어간다.
 
-신해철은 음악을 하는 데 대학 졸업장이 무의미하다는 본인의 판단 아래 1995년에 [서강대학교](https://ko.wikipedia.org/wiki/서강대학교 "wikilink") 철학과를 자퇴했고, [1996년 4월](https://ko.wikipedia.org/wiki/1996년_4월 "wikilink") 부터는 당시 [MBC FM에서](https://ko.wikipedia.org/wiki/MBC_FM "wikilink") 신설하였던 라디오 프로그램 [FM 음악도시의](https://ko.wikipedia.org/wiki/FM_음악도시 "wikilink") 진행자를 맡게 된다.
+신해철은 음악을 하는 데 대학 졸업장이 무의미하다는 본인의 판단 아래 1995년에 [서강대학교](https://ko.wikipedia.org/wiki/서강대학교 "wikilink") 철학과를 자퇴했고, [1996년 4월](https://ko.wikipedia.org/wiki/1996년_4월 "wikilink") 부터는 당시 [MBC FM에서](https://ko.wikipedia.org/wiki/MBC_FM "wikilink") 신설하였던 라디오 프로그램 [FM 음악도시의](../Page/FM_음악도시.md "wikilink") 진행자를 맡게 된다.
 
 ## 게임
 
@@ -58,9 +58,9 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/신해철" title="wikilink">신해철</a> - <a href="https://ko.wikipedia.org/wiki/리드보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반 악기</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/김세황" title="wikilink">김세황</a> - <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>(<a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">전기 기타</a>, <a href="https://ko.wikipedia.org/wiki/어쿠스틱_기타" title="wikilink">어쿠스틱 기타</a>), <a href="https://ko.wikipedia.org/wiki/서브보컬" title="wikilink">보컬</a>(11)</li>
-<li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>(11)</li>
+<li><a href="../Page/신해철.md" title="wikilink">신해철</a> - <a href="https://ko.wikipedia.org/wiki/리드보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반 악기</a></li>
+<li><a href="../Page/김세황.md" title="wikilink">김세황</a> - <a href="../Page/기타.md" title="wikilink">기타</a>(<a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>, <a href="https://ko.wikipedia.org/wiki/어쿠스틱_기타" title="wikilink">어쿠스틱 기타</a>), <a href="https://ko.wikipedia.org/wiki/서브보컬" title="wikilink">보컬</a>(11)</li>
+<li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>(11)</li>
 <li><a href="../Page/이수용_(드러머).md" title="wikilink">이수용</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>, 보컬(11)</li>
 </ul>
 <dl>
@@ -68,7 +68,7 @@
 
 </dl>
 <ul>
-<li>서울 풍물단(최익환, 김광수, 임원식, 임영준) - <a href="https://ko.wikipedia.org/wiki/사물놀이" title="wikilink">사물놀이</a>(2, 5)</li>
+<li>서울 풍물단(최익환, 김광수, 임원식, 임영준) - <a href="../Page/사물놀이.md" title="wikilink">사물놀이</a>(2, 5)</li>
 <li>남궁정애 - 창, 구음(2, 8)</li>
 <li>임강구, 김유성(디지털 아시아) - 백 보컬</li>
 </ul></td>
@@ -123,7 +123,7 @@
 [분류:1995년 음반](https://ko.wikipedia.org/wiki/분류:1995년_음반 "wikilink") [분류:N.EX.T의 음반](https://ko.wikipedia.org/wiki/분류:N.EX.T의_음반 "wikilink") [분류:대영AV의 음반](https://ko.wikipedia.org/wiki/분류:대영AV의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink")
 
 1.
-2.  [동성혼](https://ko.wikipedia.org/wiki/동성혼 "wikilink") 참조. 하지만 신해철은 2008년 본인의 라디오에서 〈[힘겨워하는 연인들을 위하여](../Page/힘겨워하는_연인들을_위하여.md "wikilink")〉가 헌법재판소의 동성동본 금혼 위헌 판결에 영향을 주지 않았다고 설명한 바 있다.
+2.  [동성혼](../Page/동성혼.md "wikilink") 참조. 하지만 신해철은 2008년 본인의 라디오에서 〈[힘겨워하는 연인들을 위하여](../Page/힘겨워하는_연인들을_위하여.md "wikilink")〉가 헌법재판소의 동성동본 금혼 위헌 판결에 영향을 주지 않았다고 설명한 바 있다.
 3.
 4.
 5.

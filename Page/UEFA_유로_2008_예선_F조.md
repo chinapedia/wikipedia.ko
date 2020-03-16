@@ -302,12 +302,12 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/욘_달_토마손" title="wikilink">욘 달 토마손</a>*</p></td>
+<td><p><a href="../Page/욘_달_토마손.md" title="wikilink">욘 달 토마손</a>*</p></td>
 <td></td>
 <td><p>7</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/다비드_비야" title="wikilink">다비드 비야</a></p></td>
+<td><p><a href="../Page/다비드_비야.md" title="wikilink">다비드 비야</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -320,7 +320,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마리스_베르파코우스키스" title="wikilink">마리스 베르파코우스키스</a></p></td>
+<td><p><a href="../Page/마리스_베르파코우스키스.md" title="wikilink">마리스 베르파코우스키스</a></p></td>
 <td></td>
 <td><p>5</p></td>
 </tr>
@@ -331,20 +331,20 @@
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/데니스_로메달" title="wikilink">데니스 로메달</a></p></td>
+<td><p><a href="../Page/데니스_로메달.md" title="wikilink">데니스 로메달</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사비_에르난데스" title="wikilink">사비 에르난데스</a></p></td>
+<td><p><a href="../Page/사비_에르난데스.md" title="wikilink">사비 에르난데스</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요한_엘만데르" title="wikilink">요한 엘만데르</a>*</p></td>
+<td><p><a href="../Page/요한_엘만데르.md" title="wikilink">요한 엘만데르</a>*</p></td>
 <td></td>
 <td><p>3</p></td>
 </tr>
@@ -355,13 +355,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/안드레스_이니에스타" title="wikilink">안드레스 이니에스타</a></p></td>
+<td><p><a href="../Page/안드레스_이니에스타.md" title="wikilink">안드레스 이니에스타</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/킴_셸스트룀" title="wikilink">킴 셸스트룀</a></p></td>
+<td><p><a href="../Page/킴_셸스트룀.md" title="wikilink">킴 셸스트룀</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -381,7 +381,7 @@
 </tbody>
 </table>
 
-(\*) 89분에 중단된 [덴마크와](https://ko.wikipedia.org/wiki/덴마크_축구_국가대표팀 "wikilink") [스웨덴](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink") 간의 경기에서 득점한 골은 포함되지 않았다.
+(\*) 89분에 중단된 [덴마크와](../Page/덴마크_축구_국가대표팀.md "wikilink") [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink") 간의 경기에서 득점한 골은 포함되지 않았다.
 
 ## 각주
 

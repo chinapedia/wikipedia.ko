@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FT](https://ko.wikipedia.org/wiki/FT).
 
 
-**FT아일랜드**(FTISLAND)는 [FNC 엔터테인먼트](https://ko.wikipedia.org/wiki/FNC_엔터테인먼트 "wikilink") 소속의 3인조 팝 락 밴드이다. 밴드명은 Five Treasure Island의 약칭으로, 다섯개의 보물섬이다.\[1\] [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [6월 7일](https://ko.wikipedia.org/wiki/6월_7일 "wikilink") 1집 《Cheerful Sensibility》의 타이틀곡 〈사랑앓이〉로 데뷔하였다. 사랑앓이는 음악프로그램에서 7주 연속 1위를 하였고 음반판매는 12만장을 돌파하였다.\[2\]\[3\] 2007년 신인상, 2010년 골든디스크 록상 등을 수상하였다.\[4\] 현재 모든 멤버는 병역을 이행 중에 있다. ([2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") 기준)
+**FT아일랜드**(FTISLAND)는 [FNC 엔터테인먼트](../Page/FNC_엔터테인먼트.md "wikilink") 소속의 3인조 팝 락 밴드이다. 밴드명은 Five Treasure Island의 약칭으로, 다섯개의 보물섬이다.\[1\] [2007년](../Page/2007년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") 1집 《Cheerful Sensibility》의 타이틀곡 〈사랑앓이〉로 데뷔하였다. 사랑앓이는 음악프로그램에서 7주 연속 1위를 하였고 음반판매는 12만장을 돌파하였다.\[2\]\[3\] 2007년 신인상, 2010년 골든디스크 록상 등을 수상하였다.\[4\] 현재 모든 멤버는 병역을 이행 중에 있다. ([2020년](../Page/2020년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") 기준)
 
 ## 구성원
 
@@ -35,20 +35,20 @@
   - 2009년 [SBS](../Page/SBS.md "wikilink") 미남이시네요 (이홍기)
   - 2011년 [MBS](../Page/마이니치_방송.md "wikilink")·[TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 머슬 걸 (이홍기)
   - 2011년 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 노리코, 서울에 가다 (이홍기)
-  - 2014년 [TV조선](https://ko.wikipedia.org/wiki/TV조선 "wikilink") 백년의 신부 (이홍기)
+  - 2014년 [TV조선](../Page/TV조선.md "wikilink") 백년의 신부 (이홍기)
   - 2014년 [SBS](../Page/SBS.md "wikilink") 모던파머 (이홍기)
-  - 2015년 [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 웹 드라마 프린스의 왕자 (최종훈)
-  - 2015년 [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 웹 드라마 아부쟁이 얍\! (이재진)
+  - 2015년 [네이버](../Page/네이버.md "wikilink") 웹 드라마 프린스의 왕자 (최종훈)
+  - 2015년 [네이버](../Page/네이버.md "wikilink") 웹 드라마 아부쟁이 얍\! (이재진)
   - 2015년 [QTV](https://ko.wikipedia.org/wiki/QTV "wikilink") 영웅들 (최종훈)
-  - 2016년 [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 웹 드라마 수사관 앨리스2 (송승현)
-  - 2016년 [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 웹 드라마 88번지 (최종훈)
-  - 2016년 [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") 웹 드라마 매콤달콤 (최민환)
+  - 2016년 [네이버](../Page/네이버.md "wikilink") 웹 드라마 수사관 앨리스2 (송승현)
+  - 2016년 [네이버](../Page/네이버.md "wikilink") 웹 드라마 88번지 (최종훈)
+  - 2016년 [네이버](../Page/네이버.md "wikilink") 웹 드라마 매콤달콤 (최민환)
   - 2017년 [SBS](../Page/SBS.md "wikilink") 언니는 살아있다 (이재진)
   - 2018년 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") [화유기](../Page/화유기.md "wikilink") (이홍기)
 
 ### 영화
 
-  - 2011년 [너는 펫](https://ko.wikipedia.org/wiki/너는_펫 "wikilink") (최종훈)
+  - 2011년 [너는 펫](../Page/너는_펫.md "wikilink") (최종훈)
   - 2013년 [뜨거운 안녕](../Page/뜨거운_안녕.md "wikilink") (이홍기)
   - 2014년 [레디 액션 청춘 중 세상에 믿을 놈 하나 없다](https://ko.wikipedia.org/wiki/레디_액션_청춘_중_세상에_믿을_놈_하나_없다 "wikilink") (송승현)
   - 2014년 [개를 훔치는 완벽한 방법](../Page/개를_훔치는_완벽한_방법.md "wikilink") (이홍기)
@@ -91,11 +91,11 @@
   - 2012년 [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 세대공감 토요일 (이홍기 송승현)
   - 2013년 [MBC every1](https://ko.wikipedia.org/wiki/MBC_every1 "wikilink") 세계판 우리결혼했어요 (이홍기)
   - 2013\~2014년 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") [청담동 111](https://ko.wikipedia.org/wiki/청담동_111 "wikilink")
-  - 2015년 [SBS MTV](https://ko.wikipedia.org/wiki/SBS_MTV "wikilink") [Coming Out\! FT아일랜드](https://ko.wikipedia.org/wiki/Coming_Out!_FT아일랜드 "wikilink")
+  - 2015년 [SBS MTV](../Page/SBS_MTV.md "wikilink") [Coming Out\! FT아일랜드](https://ko.wikipedia.org/wiki/Coming_Out!_FT아일랜드 "wikilink")
   - 2015년 [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [나를 돌아봐](../Page/나를_돌아봐.md "wikilink") (이홍기)
   - 2017년 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 우리들의 인생학교 (이홍기)
-  - 2017년 \~ [JTBC](https://ko.wikipedia.org/wiki/JTBC "wikilink") [밤도깨비](../Page/밤도깨비.md "wikilink") (이홍기)
-  - 2018년 [TV조선](https://ko.wikipedia.org/wiki/TV조선 "wikilink") [전설의 볼링](../Page/전설의_볼링.md "wikilink") (이홍기)
+  - 2017년 \~ [JTBC](../Page/JTBC.md "wikilink") [밤도깨비](../Page/밤도깨비.md "wikilink") (이홍기)
+  - 2018년 [TV조선](../Page/TV조선.md "wikilink") [전설의 볼링](../Page/전설의_볼링.md "wikilink") (이홍기)
 
 ### CF 및 홍보대사
 
@@ -131,7 +131,7 @@
 <a href="https://www.youtube.com/watch?v=wnSPT2enNhU">FTISLAND <남자의 첫사랑은 무덤까지 간다></a><br />
 </p></td>
 <td><p>《<a href="../Page/Cheerful_Sensibility.md" title="wikilink">Cheerful Sensibility</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a><br />
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -140,7 +140,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=oRw4G4jukZU">FTISLAND <너 올 때까지></a><br />
 </p></td>
 <td><p>《The Refreshment (Special Album)》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a><br />
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=vRqXAhYfK3I">FTISLAND <사랑후애></a><br />
 </p></td>
 <td><p>《<a href="../Page/Colorful_Sensibility.md" title="wikilink">Colorful Sensibility</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a><br />
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -178,7 +178,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=R0Far5Y9ZCs">FTISLAND <바래></a><br />
 </p></td>
 <td><p>《<a href="../Page/Cross_&amp;_Change.md" title="wikilink">Cross &amp; Change</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a><br />
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -189,7 +189,7 @@
 </p></td>
 <td><p>《Double Date》</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
-<a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a></p></td>
+<a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
@@ -206,7 +206,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=itGNQbJwRSk">FTISLAND <Hello Hello></a><br />
 </p></td>
 <td><p>《Return》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a><br />
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -215,7 +215,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=RGOQ7FhdBS4">FTISLAND <새들처럼></a><br />
 </p></td>
 <td><p>《MEMORY IN FTISLAND》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a><br />
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -224,7 +224,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=mZJnZD1UbA8">FTISLAND <지독하게></a><br />
 </p></td>
 <td><p>《Grown-Up》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a><br />
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -242,7 +242,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=LZrShwp2KVQ">FTISLAND <MEMORY></a><br />
 </p></td>
 <td><p>《THANKS TO》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a><br />
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -260,7 +260,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=EZOF0Q0pmyM">FTISLAND <FREEDOM></a><br />
 </p></td>
 <td><p>《FTISLAND JAPAN BEST `ALL ABOUT`》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a><br />
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -270,7 +270,7 @@
 <a href="https://www.youtube.com/watch?v=L9dIiygPnCQ">FTISLAND <To The Light></a><br />
 </p></td>
 <td><p>《<a href="../Page/I_WILL_(FT_아일랜드의_음반).md" title="wikilink">I WILL</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a><br />
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
 <a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="odd">
@@ -315,7 +315,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=VZRuXcX5nz4">FTISLAND <여름밤의 꿈></a><br />
 </p></td>
 <td><p>《FTISLAND 6TH MINI ALBUM [WHAT IF]》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a></p></td>
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
@@ -323,7 +323,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=DZ0w6iP4I8I">FTISLAND &lt;관둬 (Quit)&gt;</a><br />
 </p></td>
 <td><p>《FTISLAND 7TH MINI ALBUM [ZAPPING]》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a></p></td>
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -417,7 +417,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=50TvhCxOyIc">이홍기 &amp; 유회승 <사랑했었다></a></p></td>
 <td><p>《FNC LAB `사랑했었다`》</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/협업" title="wikilink">collaboration</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FNC_엔터테인먼트" title="wikilink">FNC 엔터테인먼트</a></p></td>
+<td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
@@ -523,16 +523,16 @@
 <td><ul>
 <li>'''사랑앓이 (총 6회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/7월_19일" title="wikilink">7월 19일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/7월_26일" title="wikilink">7월 26일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (2주 연속)</li>
-<li><a href="https://ko.wikipedia.org/wiki/7월_29일" title="wikilink">7월 29일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
-<li><a href="https://ko.wikipedia.org/wiki/8월_5일" title="wikilink">8월 5일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
-<li><a href="https://ko.wikipedia.org/wiki/8월_12일" title="wikilink">8월 12일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송 (트리플 크라운)</li>
-<li><a href="https://ko.wikipedia.org/wiki/9월_14일" title="wikilink">9월 14일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (노래방 차트)</li>
+<li><a href="../Page/7월_19일.md" title="wikilink">7월 19일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/7월_26일.md" title="wikilink">7월 26일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (2주 연속)</li>
+<li><a href="../Page/7월_29일.md" title="wikilink">7월 29일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
+<li><a href="../Page/8월_5일.md" title="wikilink">8월 5일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
+<li><a href="../Page/8월_12일.md" title="wikilink">8월 12일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송 (트리플 크라운)</li>
+<li><a href="../Page/9월_14일.md" title="wikilink">9월 14일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (노래방 차트)</li>
 </ul></li>
 <li>'''천둥 (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/10월_12일" title="wikilink">10월 12일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (노래방 차트)</li>
+<li><a href="../Page/10월_12일.md" title="wikilink">10월 12일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (노래방 차트)</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -541,11 +541,11 @@
 <td><ul>
 <li>'''너 올 때까지 (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/1월_6일" title="wikilink">1월 6일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
+<li><a href="../Page/1월_6일.md" title="wikilink">1월 6일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
 </ul></li>
 <li>'''사랑후애 (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/10월_2일" title="wikilink">10월 2일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/10월_2일.md" title="wikilink">10월 2일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -554,10 +554,10 @@
 <td><ul>
 <li>'''사랑 사랑 사랑 (총 4회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/9월_5일" title="wikilink">9월 5일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
-<li><a href="https://ko.wikipedia.org/wiki/9월_9일" title="wikilink">9월 9일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/9월_10일" title="wikilink">9월 10일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/9월_12일" title="wikilink">9월 12일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송 (2주 연속)</li>
+<li><a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
+<li><a href="../Page/9월_9일.md" title="wikilink">9월 9일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/9월_10일.md" title="wikilink">9월 10일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
+<li><a href="../Page/9월_12일.md" title="wikilink">9월 12일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송 (2주 연속)</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -566,14 +566,14 @@
 <td><ul>
 <li>'''지독하게 (총 4회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/2월_9일" title="wikilink">2월 9일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/2월_21일" title="wikilink">2월 21일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼!_챔피언" title="wikilink">쇼챔피언</a>》 챔피언송</li>
-<li><a href="https://ko.wikipedia.org/wiki/2월_23일" title="wikilink">2월 23일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (통산 2주)</li>
+<li><a href="../Page/2월_9일.md" title="wikilink">2월 9일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/2월_21일.md" title="wikilink">2월 21일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼!_챔피언" title="wikilink">쇼챔피언</a>》 챔피언송</li>
+<li><a href="../Page/2월_23일.md" title="wikilink">2월 23일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (통산 2주)</li>
 <li><a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
 </ul></li>
 <li>'''좋겠어 (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/9월_20일" title="wikilink">9월 20일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/9월_20일.md" title="wikilink">9월 20일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -582,9 +582,9 @@
 <td><ul>
 <li>'''PRAY (총 3회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/4월_3일" title="wikilink">4월 3일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="https://ko.wikipedia.org/wiki/뮤직뱅크" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
-<li><a href="https://ko.wikipedia.org/wiki/4월_7일" title="wikilink">4월 7일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 더 쇼 초이스</li>
-<li><a href="https://ko.wikipedia.org/wiki/4월_14일" title="wikilink">4월 14일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 더 쇼 초이스 (2주 연속)</li>
+<li><a href="../Page/4월_3일.md" title="wikilink">4월 3일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
+<li><a href="../Page/4월_7일.md" title="wikilink">4월 7일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 더 쇼 초이스</li>
+<li><a href="../Page/4월_14일.md" title="wikilink">4월 14일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 더 쇼 초이스 (2주 연속)</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -593,7 +593,7 @@
 <td><ul>
 <li>'''TAKE ME NOW (총 1회)
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/7월_26일" title="wikilink">7월 26일</a> <a href="https://ko.wikipedia.org/wiki/SBS_MTV" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 더 쇼 초이스</li>
+<li><a href="../Page/7월_26일.md" title="wikilink">7월 26일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 더 쇼 초이스</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -602,16 +602,16 @@
 
 ## Live Stage
 
-| 방송일        | 곡명                                                                                                     | 프로그램                                                              | 방송사                                                               | 공급사                                                               |
-| ---------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 2017.09.22 | [FT아일랜드 <Paparazzi> (2017 FTISLAND LIVE IN SEOUL Ver.)\>](https://www.youtube.com/watch?v=BtoxZvkr9Ek) | [FNC 엔터테인먼트](https://ko.wikipedia.org/wiki/FNC_엔터테인먼트 "wikilink") | [FNC 엔터테인먼트](https://ko.wikipedia.org/wiki/FNC_엔터테인먼트 "wikilink") | [FNC 엔터테인먼트](https://ko.wikipedia.org/wiki/FNC_엔터테인먼트 "wikilink") |
-| 2016.08.06 | [FT아일랜드 <Take Me Now>](http://tv.naver.com/v/1028392)                                                  | [유희열의 스케치북](https://ko.wikipedia.org/wiki/유희열의_스케치북 "wikilink")   | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")               | [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") TV            |
-| 2016.08.06 | [FT아일랜드 <천둥>](http://tv.naver.com/v/1028383)                                                           | [유희열의 스케치북](https://ko.wikipedia.org/wiki/유희열의_스케치북 "wikilink")   | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")               | [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") TV            |
-| 2017.06.10 | [FT아일랜드 <사랑앓이>](http://tv.naver.com/v/1760949)                                                         | [유희열의 스케치북](https://ko.wikipedia.org/wiki/유희열의_스케치북 "wikilink")   | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")               | [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") TV            |
-| 2017.06.10 | [FT아일랜드 <Wind>](http://tv.naver.com/v/1760960)                                                         | [유희열의 스케치북](https://ko.wikipedia.org/wiki/유희열의_스케치북 "wikilink")   | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")               | [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") TV            |
-| 2017.02.16 | [FT아일랜드 <지독하게>](https://www.youtube.com/watch?v=9USbypEd_QM)                                           | KBS 라디오 빅 콘서트                                                     | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")               | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") KONG          |
-| 2015.11.20 | [이홍기 <눈치없이>](http://tv.naver.com/v/620106)                                                             | [뮤직뱅크](https://ko.wikipedia.org/wiki/뮤직뱅크 "wikilink")             | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")               | [네이버](https://ko.wikipedia.org/wiki/네이버 "wikilink") TV            |
-| 2016.01.26 | [이홍기 <오렌지색 하늘> (FT아일랜드)\>](https://www.youtube.com/watch?v=7fuLytV05qE)                                | [FNC 엔터테인먼트](https://ko.wikipedia.org/wiki/FNC_엔터테인먼트 "wikilink") | [FNC 엔터테인먼트](https://ko.wikipedia.org/wiki/FNC_엔터테인먼트 "wikilink") | [FNC 엔터테인먼트](https://ko.wikipedia.org/wiki/FNC_엔터테인먼트 "wikilink") |
+| 방송일        | 곡명                                                                                                     | 프로그램                                           | 방송사                                                 | 공급사                                                      |
+| ---------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
+| 2017.09.22 | [FT아일랜드 <Paparazzi> (2017 FTISLAND LIVE IN SEOUL Ver.)\>](https://www.youtube.com/watch?v=BtoxZvkr9Ek) | [FNC 엔터테인먼트](../Page/FNC_엔터테인먼트.md "wikilink") | [FNC 엔터테인먼트](../Page/FNC_엔터테인먼트.md "wikilink")      | [FNC 엔터테인먼트](../Page/FNC_엔터테인먼트.md "wikilink")           |
+| 2016.08.06 | [FT아일랜드 <Take Me Now>](http://tv.naver.com/v/1028392)                                                  | [유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")   | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") | [네이버](../Page/네이버.md "wikilink") TV                      |
+| 2016.08.06 | [FT아일랜드 <천둥>](http://tv.naver.com/v/1028383)                                                           | [유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")   | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") | [네이버](../Page/네이버.md "wikilink") TV                      |
+| 2017.06.10 | [FT아일랜드 <사랑앓이>](http://tv.naver.com/v/1760949)                                                         | [유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")   | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") | [네이버](../Page/네이버.md "wikilink") TV                      |
+| 2017.06.10 | [FT아일랜드 <Wind>](http://tv.naver.com/v/1760960)                                                         | [유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")   | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") | [네이버](../Page/네이버.md "wikilink") TV                      |
+| 2017.02.16 | [FT아일랜드 <지독하게>](https://www.youtube.com/watch?v=9USbypEd_QM)                                           | KBS 라디오 빅 콘서트                                  | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") KONG |
+| 2015.11.20 | [이홍기 <눈치없이>](http://tv.naver.com/v/620106)                                                             | [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")             | [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") | [네이버](../Page/네이버.md "wikilink") TV                      |
+| 2016.01.26 | [이홍기 <오렌지색 하늘> (FT아일랜드)\>](https://www.youtube.com/watch?v=7fuLytV05qE)                                | [FNC 엔터테인먼트](../Page/FNC_엔터테인먼트.md "wikilink") | [FNC 엔터테인먼트](../Page/FNC_엔터테인먼트.md "wikilink")      | [FNC 엔터테인먼트](../Page/FNC_엔터테인먼트.md "wikilink")           |
 
 ## 각주
 

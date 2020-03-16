@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [  TCG](https://ko.wikipedia.org/wiki/__TCG).
 
 
-**아쿠에이리언 에이지 TCG**는 [아쿠에이리언 에이지](../Page/아쿠에이리언_에이지.md "wikilink") 시리즈의 원작인 [트레이딩 카드 게임이다](https://ko.wikipedia.org/wiki/트레이딩_카드_게임 "wikilink").
+**아쿠에이리언 에이지 TCG**는 [아쿠에이리언 에이지](../Page/아쿠에이리언_에이지.md "wikilink") 시리즈의 원작인 [트레이딩 카드 게임이다](../Page/트레이딩_카드_게임.md "wikilink").
 
-[매직 더 개더링의](https://ko.wikipedia.org/wiki/매직_더_개더링 "wikilink") 영향을 많이 받아 비슷한 요소가 많다. 하지만 [모에](https://ko.wikipedia.org/wiki/모에 "wikilink") [미소녀](https://ko.wikipedia.org/wiki/미소녀 "wikilink")의 성장 과정을 형상화한 특유의 룰도 존재한다. 또한 다른 게임에 비해 캐릭터끼리의 전투에 중점을 많이 두고 있다. 스토리의 성질상 캐릭터와 아이템 등의 모티브를 세계 각지의 [신화](https://ko.wikipedia.org/wiki/신화 "wikilink")와 [오컬트](https://ko.wikipedia.org/wiki/오컬트 "wikilink"), 실존한 영웅 등에서 많이 인용해 온 것도 특징의 하나이다. 1:1 대전뿐만 아니라 2:2의 태그 대전이나 솔로 플레이 등 다양한 플레이 패턴을 가지고 있다.
+[매직 더 개더링의](../Page/매직_더_개더링.md "wikilink") 영향을 많이 받아 비슷한 요소가 많다. 하지만 [모에](../Page/모에.md "wikilink") [미소녀](https://ko.wikipedia.org/wiki/미소녀 "wikilink")의 성장 과정을 형상화한 특유의 룰도 존재한다. 또한 다른 게임에 비해 캐릭터끼리의 전투에 중점을 많이 두고 있다. 스토리의 성질상 캐릭터와 아이템 등의 모티브를 세계 각지의 [신화](../Page/신화.md "wikilink")와 [오컬트](https://ko.wikipedia.org/wiki/오컬트 "wikilink"), 실존한 영웅 등에서 많이 인용해 온 것도 특징의 하나이다. 1:1 대전뿐만 아니라 2:2의 태그 대전이나 솔로 플레이 등 다양한 플레이 패턴을 가지고 있다.
 
 대부분의 카드 이미지는 모에 미소녀이고, 모에 [미소년](https://ko.wikipedia.org/wiki/미소년 "wikilink")도 적지만 존재한다.
 
@@ -224,7 +224,7 @@
 
 ### Saga I
 
-  - 각성의 처녀들 () [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink")
+  - 각성의 처녀들 () [1999년](../Page/1999년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink")
 
 <!-- end list -->
 
@@ -233,7 +233,7 @@
 
 <!-- end list -->
 
-  - 쌍아궁의 거울 () [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink")
+  - 쌍아궁의 거울 () [1999년](../Page/1999년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink")
 
 <!-- end list -->
 
@@ -242,7 +242,7 @@
 
 <!-- end list -->
 
-  - 사자궁의 전기 () [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink")
+  - 사자궁의 전기 () [2000년](../Page/2000년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink")
   - 천갈궁의 숙명 () 2000년 11월 30일
 
 <!-- end list -->
@@ -252,7 +252,7 @@
 
 <!-- end list -->
 
-  - 유구한 처녀궁 () [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [5월 18일](https://ko.wikipedia.org/wiki/5월_18일 "wikilink")
+  - 유구한 처녀궁 () [2001년](../Page/2001년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink")
 
 <!-- end list -->
 
@@ -261,7 +261,7 @@
 
 <!-- end list -->
 
-  - 몽환의 천칭궁 () [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [10월 25일](https://ko.wikipedia.org/wiki/10월_25일 "wikilink")
+  - 몽환의 천칭궁 () [2001년](../Page/2001년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink")
 
 <!-- end list -->
 
@@ -270,8 +270,8 @@
 
 <!-- end list -->
 
-  - 마갈궁의 여신 () [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink")
-  - 오리온의 소년 () [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월](https://ko.wikipedia.org/wiki/11월 "wikilink")
+  - 마갈궁의 여신 () [2002년](../Page/2002년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink")
+  - 오리온의 소년 () [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink")
 
 <!-- end list -->
 
@@ -280,7 +280,7 @@
 
 ### Saga II
 
-  - 스타터 팩 / 부스터 팩 () [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [11월 1일](https://ko.wikipedia.org/wiki/11월_1일 "wikilink")
+  - 스타터 팩 / 부스터 팩 () [2002년](../Page/2002년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink")
 
 <!-- end list -->
 
@@ -289,7 +289,7 @@
 
 <!-- end list -->
 
-  - 빛나는 카시오페이아 () [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink")
+  - 빛나는 카시오페이아 () [2003년](../Page/2003년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink")
 
 <!-- end list -->
 
@@ -298,7 +298,7 @@
 
 <!-- end list -->
 
-  - 금우궁의 맹습 () [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [5월 23일](https://ko.wikipedia.org/wiki/5월_23일 "wikilink")
+  - 금우궁의 맹습 () [2003년](../Page/2003년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink")
 
 <!-- end list -->
 
@@ -307,7 +307,7 @@
 
 <!-- end list -->
 
-  - 사랑의 안드로메다 () [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink")
+  - 사랑의 안드로메다 () [2003년](../Page/2003년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink")
 
 <!-- end list -->
 
@@ -316,7 +316,7 @@
 
 <!-- end list -->
 
-  - 쌍어궁의 심연 () [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink")
+  - 쌍어궁의 심연 () [2003년](../Page/2003년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink")
 
 <!-- end list -->
 
@@ -325,7 +325,7 @@
 
 <!-- end list -->
 
-  - 섬광의 서던크로스 () [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [12월 25일](https://ko.wikipedia.org/wiki/12월_25일 "wikilink")
+  - 섬광의 서던크로스 () [2003년](../Page/2003년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink")
 
 <!-- end list -->
 
@@ -334,7 +334,7 @@
 
 <!-- end list -->
 
-  - 유니콘의 연인 () [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [2월 20일](https://ko.wikipedia.org/wiki/2월_20일 "wikilink")
+  - 유니콘의 연인 () [2004년](../Page/2004년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink")
 
 <!-- end list -->
 
@@ -343,7 +343,7 @@
 
 <!-- end list -->
 
-  - 정열의 백양궁 () [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [5월 20일](https://ko.wikipedia.org/wiki/5월_20일 "wikilink")
+  - 정열의 백양궁 () [2004년](../Page/2004년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink")
 
 <!-- end list -->
 
@@ -361,7 +361,7 @@
 
 <!-- end list -->
 
-  - 페르세우스의 용자 () [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월 29일](https://ko.wikipedia.org/wiki/7월_29일 "wikilink")
+  - 페르세우스의 용자 () [2004년](../Page/2004년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink")
 
 <!-- end list -->
 
@@ -370,7 +370,7 @@
 
 <!-- end list -->
 
-  - 마탄의 사수자리 () [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink")
+  - 마탄의 사수자리 () [2004년](../Page/2004년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink")
 
 <!-- end list -->
 
@@ -379,11 +379,11 @@
 
 <!-- end list -->
 
-  - 뱀주인의 지팡이 () [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink")
+  - 뱀주인의 지팡이 () [2005년](../Page/2005년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink")
 
 ### Saga 3
 
-  - 역습의 거해궁 () [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink")
+  - 역습의 거해궁 () [2005년](../Page/2005년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink")
 
 <!-- end list -->
 
@@ -392,17 +392,17 @@
 
 <!-- end list -->
 
-  - 마술사의 주문 () [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [10월 28일](https://ko.wikipedia.org/wiki/10월_28일 "wikilink")
+  - 마술사의 주문 () [2005년](../Page/2005년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink")
 
 <!-- end list -->
 
   -
-    이 익스팬션부터 익스팬션 이름이 [별자리](https://ko.wikipedia.org/wiki/별자리 "wikilink")에서 [타로](https://ko.wikipedia.org/wiki/타로 "wikilink") 카드(메이저 아르카나)로 바뀜. 프로젝트, 패스트 카드 강화.
+    이 익스팬션부터 익스팬션 이름이 [별자리](../Page/별자리.md "wikilink")에서 [타로](../Page/타로.md "wikilink") 카드(메이저 아르카나)로 바뀜. 프로젝트, 패스트 카드 강화.
 
 <!-- end list -->
 
-  - 악마의 계약 () [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 27일](https://ko.wikipedia.org/wiki/4월_27일 "wikilink")
-  - 연인들의 협주곡 () [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink")
+  - 악마의 계약 () [2006년](../Page/2006년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink")
+  - 연인들의 협주곡 () [2006년](../Page/2006년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink")
 
 <!-- end list -->
 
@@ -411,7 +411,7 @@
 
 <!-- end list -->
 
-  - 여교황의 눈동자 () [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [11월 10일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink")
+  - 여교황의 눈동자 () [2006년](../Page/2006년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink")
 
 <!-- end list -->
 
@@ -420,7 +420,7 @@
 
 <!-- end list -->
 
-  - 태양의 은혜 () [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [2월 22일](https://ko.wikipedia.org/wiki/2월_22일 "wikilink")
+  - 태양의 은혜 () [2007년](../Page/2007년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink")
 
 <!-- end list -->
 
@@ -429,8 +429,8 @@
 
 <!-- end list -->
 
-  - 달빛의 비의 () [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 25일](https://ko.wikipedia.org/wiki/5월_25일 "wikilink")
-  - 운명의 수레바퀴 () [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [8월 24일](https://ko.wikipedia.org/wiki/8월_24일 "wikilink")
+  - 달빛의 비의 () [2007년](../Page/2007년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink")
+  - 운명의 수레바퀴 () [2007년](../Page/2007년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink")
 
 <!-- end list -->
 
@@ -439,7 +439,7 @@
 
 <!-- end list -->
 
-  - 유전자의 힘 () [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [11월 22일](https://ko.wikipedia.org/wiki/11월_22일 "wikilink")
+  - 유전자의 힘 () [2007년](../Page/2007년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink")
   - 은둔자의 숲 ()
   - 심판의 날 ()
 
@@ -458,7 +458,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/나루세_치사토" title="wikilink">나루세 치사토</a> ()</li>
 <li>노비 노비타 ()</li>
 <li>니시다 아사코 ()</li>
-<li><a href="https://ko.wikipedia.org/wiki/니시마타_아오이" title="wikilink">니시마타 아오이</a> ()</li>
+<li><a href="../Page/니시마타_아오이.md" title="wikilink">니시마타 아오이</a> ()</li>
 <li>닛타 야스나리 ()</li>
 <li>라미야 료우 ()</li>
 <li>모리시마 쁘띠 ()</li>
@@ -524,7 +524,7 @@
 <li>후지에다 미야비 ()</li>
 <li>후지와라 히사시 ()</li>
 <li>히나。 ()</li>
-<li><a href="https://ko.wikipedia.org/wiki/히노우에_이타루" title="wikilink">히노우에 이타루</a> ()</li>
+<li><a href="../Page/히노우에_이타루.md" title="wikilink">히노우에 이타루</a> ()</li>
 <li>히비키 레이네 ()</li>
 <li>히카미 쿄코 ()</li>
 <li>CARNELIAN</li>

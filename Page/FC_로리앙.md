@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
 
 
-**FC 로리앙**(Football Club Lorient)은 브르타뉴 [로리앙](../Page/로리앙.md "wikilink")을 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**FC 로리앙**(Football Club Lorient)은 브르타뉴 [로리앙](../Page/로리앙.md "wikilink")을 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
-이 축구단은 [1926년](https://ko.wikipedia.org/wiki/1926년 "wikilink") 창단되었다.
+이 축구단은 [1926년](../Page/1926년.md "wikilink") 창단되었다.
 
 [이상윤](https://ko.wikipedia.org/wiki/이상윤 "wikilink")이 이곳으로 임대되어 5경기 출장했었다.
 
 ## 역대 성적
 
-  - **[쿠프 드 프랑스](https://ko.wikipedia.org/wiki/쿠프_드_프랑스 "wikilink") 우승 1회**
+  - **[쿠프 드 프랑스](../Page/쿠프_드_프랑스.md "wikilink") 우승 1회**
       - 우승: 2002
-  - **[쿠프 드 라 리그](https://ko.wikipedia.org/wiki/쿠프_드_라_리그 "wikilink")**
+  - **[쿠프 드 라 리그](../Page/쿠프_드_라_리그.md "wikilink")**
       - 준우승: 2002
-  - **[트로페 데 샹피옹](https://ko.wikipedia.org/wiki/트로페_데_샹피옹 "wikilink")**
+  - **[트로페 데 샹피옹](../Page/트로페_데_샹피옹.md "wikilink")**
       - 준우승: 2002
 
 ## 외부 링크

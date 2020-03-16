@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [UC ](https://ko.wikipedia.org/wiki/UC_).
 
 
-**UC 삼프도리아**()는 [제노바](https://ko.wikipedia.org/wiki/제노바 "wikilink")에 있는 [루이지 페라리스 경기장을](https://ko.wikipedia.org/wiki/루이지_페라리스_경기장 "wikilink") 근거로 하는 [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**UC 삼프도리아**()는 [제노바](../Page/제노바.md "wikilink")에 있는 [루이지 페라리스 경기장을](https://ko.wikipedia.org/wiki/루이지_페라리스_경기장 "wikilink") 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
-1946년 창단되었으며 현재 [세리에 A에서](../Page/세리에_A.md "wikilink") 활약하고 있다. [세리에 A 2009-10](https://ko.wikipedia.org/wiki/세리에_A_2009-10 "wikilink") 시즌은 4위로 마감하여, [UEFA 챔피언스리그에](../Page/UEFA_챔피언스리그.md "wikilink") 17년 만에 모습을 드러낼 수 있게 되었다. 그러나 플레오프전에서 탈락하였고 [세리에 A 2010-11](https://ko.wikipedia.org/wiki/세리에_A_2010-11 "wikilink") 시즌은 18위로 마감하여 [세리에 B로](https://ko.wikipedia.org/wiki/세리에_B "wikilink") 강등되었다. 다음 시즌 [세리에 B에서](https://ko.wikipedia.org/wiki/세리에_B "wikilink") 6위를 차지하여 플레이오프를 걸쳐 [세리에 A로](../Page/세리에_A.md "wikilink") 승격하였다.
+1946년 창단되었으며 현재 [세리에 A에서](../Page/세리에_A.md "wikilink") 활약하고 있다. [세리에 A 2009-10](../Page/세리에_A_2009-10.md "wikilink") 시즌은 4위로 마감하여, [UEFA 챔피언스리그에](../Page/UEFA_챔피언스리그.md "wikilink") 17년 만에 모습을 드러낼 수 있게 되었다. 그러나 플레오프전에서 탈락하였고 [세리에 A 2010-11](../Page/세리에_A_2010-11.md "wikilink") 시즌은 18위로 마감하여 [세리에 B로](../Page/세리에_B.md "wikilink") 강등되었다. 다음 시즌 [세리에 B에서](../Page/세리에_B.md "wikilink") 6위를 차지하여 플레이오프를 걸쳐 [세리에 A로](../Page/세리에_A.md "wikilink") 승격하였다.
 
 삼프도리아는 같은 도시를 연고로 하며 같은 경기장을 사용하는 라이벌 [제노아 CFC](../Page/제노아_CFC.md "wikilink")(삼프도리아와 제노아의 경기는 [데르비 델라 란테르나라고](https://ko.wikipedia.org/wiki/데르비_델라_란테르나 "wikilink") 불린다.)와 더불어 제노바에 근거를 두고있었던 축구 클럽인 삼피에르다레네세(Sampierdarenese)와 안드레아 도리아(Andrea Doria)가 합병하여 하나의 클럽이 되면서 그 역사가 시작되었다. 클럽의 별명 **블루체르키아티**(blucerchiati, 파란색과 테두리 무늬)는 삼피에르다레네세의 셔츠 색이었던 하얀색, 검은색, 빨간색과 안드레아 도리아의 셔츠 색이었던 파란색과 흰색을 합치는 과정에서 생겨났으며 현재 삼프도리아의 엠블렘과 유니폼에서 확인이 가능하다.
 
@@ -15,7 +15,7 @@
 
 안드레아 도리아는 [이탈리아 축구 연합에서](https://ko.wikipedia.org/wiki/이탈리아_축구_연합 "wikilink") 조직되었기 때문에 [이탈리아 풋볼 챔피언십에](https://ko.wikipedia.org/wiki/이탈리아_풋볼_챔피언십 "wikilink") 참가하지 못했다. 그래서 대신에 이탈리아 운동 협회에서 주최하는 토너먼트에 등록하였다. 안드레아 도리아는 1903년에 마침내 [이탈리아 풋볼 챔피언십에](https://ko.wikipedia.org/wiki/이탈리아_풋볼_챔피언십 "wikilink") 참여하였지만 1907년에 그들의 지역 라이벌인 [제노아 CFC를](../Page/제노아_CFC.md "wikilink") 3:1로 격파하기전까지 단 한번도 토너먼트에서 승리를 거두지 못했다.
 
-1910-11 시즌에는 피에몬테-롬바르디아-리구리아 지역에서 [유벤투스 FC](https://ko.wikipedia.org/wiki/유벤투스_FC "wikilink"), [인테르나치오날레](https://ko.wikipedia.org/wiki/인테르나치오날레 "wikilink")나 [제노아 CFC보다](../Page/제노아_CFC.md "wikilink") 높은 순위로 시즌을 끝내기도 했다.
+1910-11 시즌에는 피에몬테-롬바르디아-리구리아 지역에서 [유벤투스 FC](../Page/유벤투스_FC.md "wikilink"), [인테르나치오날레](https://ko.wikipedia.org/wiki/인테르나치오날레 "wikilink")나 [제노아 CFC보다](../Page/제노아_CFC.md "wikilink") 높은 순위로 시즌을 끝내기도 했다.
 
 ### 1차 세계대전 후
 
@@ -29,7 +29,7 @@
 
 ### 라 도미난테 제노바의 분열 : 1930년대
 
-검정색바탕에 초록색으로 무늬가 되어있는 유니폼을 입고 라 도미난테는 3위로 시즌을 마감하여 승강에 실패해 [세리에 B에서](https://ko.wikipedia.org/wiki/세리에_B "wikilink") 첫 시즌을 보냈다. 다음해에는 **리구리아**라는 이름하에 처참한 1년을 보냈고 리그에서 최하위권을 기록하며 강등당했다.
+검정색바탕에 초록색으로 무늬가 되어있는 유니폼을 입고 라 도미난테는 3위로 시즌을 마감하여 승강에 실패해 [세리에 B에서](../Page/세리에_B.md "wikilink") 첫 시즌을 보냈다. 다음해에는 **리구리아**라는 이름하에 처참한 1년을 보냈고 리그에서 최하위권을 기록하며 강등당했다.
 
 이러한 이유로 삼피에르다레네세와 안드레아 도리아는 전처럼 이전에 이름들을 가지고 다시 두 클럽 체제로 돌아갔다.삼피에르다레네세는 1932-1933시즌에 세리에 B로 다시 복귀했고 우승까지 차지하며 처음으로 세리에 A로 승격을 하였다. 반면에 안드레아 도리아는 1930년대 기간동안 [세리에 C에서](../Page/세리에_C.md "wikilink") 보냈다.
 
@@ -37,25 +37,25 @@
 
 ### 합병
 
-2차 세계대전 후에 두 클럽은 세리에 A에서 뛰고있었다. 그런데 1946년 8월 12일에 두 클럽은 합병을 하기로 결정했고 그렇게 만들어진 클럽이 **UC 삼프도리아(Unione Calcio Sampdoria)다**. 새롭게 생겨난 이 클럽의 첫 대표자는 피에트로 상귀네티였으나 야심있는 사업가인 아메데오 리소토가 곧 그를 대신했다. 이 기간동안에 팀의 감독은 [피렌체](https://ko.wikipedia.org/wiki/피렌체 "wikilink") 출신인 주세페 갈루치가 맡았다. 합병한 달에 삼프도리아는 [제노아 CFC와](../Page/제노아_CFC.md "wikilink") [스타디오 루이지 페라리스를](https://ko.wikipedia.org/wiki/스타디오_루이지_페라리스 "wikilink") 공유하라는 유청을 받았고 그 요청은 문제없이 넘어갔다. 결과적으로 경기장은 두 클럽의 경기를 위해 쓰이게 됐다.
+2차 세계대전 후에 두 클럽은 세리에 A에서 뛰고있었다. 그런데 1946년 8월 12일에 두 클럽은 합병을 하기로 결정했고 그렇게 만들어진 클럽이 **UC 삼프도리아(Unione Calcio Sampdoria)다**. 새롭게 생겨난 이 클럽의 첫 대표자는 피에트로 상귀네티였으나 야심있는 사업가인 아메데오 리소토가 곧 그를 대신했다. 이 기간동안에 팀의 감독은 [피렌체](../Page/피렌체.md "wikilink") 출신인 주세페 갈루치가 맡았다. 합병한 달에 삼프도리아는 [제노아 CFC와](../Page/제노아_CFC.md "wikilink") [스타디오 루이지 페라리스를](../Page/스타디오_루이지_페라리스.md "wikilink") 공유하라는 유청을 받았고 그 요청은 문제없이 넘어갔다. 결과적으로 경기장은 두 클럽의 경기를 위해 쓰이게 됐다.
 
 두 클럽이 합병함에 따라 유니폼의 디자인 역시도 바뀌었는데 안드레아 도리아의 하얀색과 파란색이 있는 셔츠와 삼피에르다레네세의 붉은색과 검은색의 중간부분을 따와서 만들어졌다.
 
 ### 유럽 클럽대항전과 국내리그에서의 성공
 
-1979년 세리에 B를 전전긍긍하던 삼프도리아는 후에 삼프도리아를 상위권으로 올라가게하는 투자를 한 석유 사업가 [파올로 만토바니를](https://ko.wikipedia.org/wiki/파올로_만토바니 "wikilink") 만나게 된다. 그들은 1982년에 세리에 A로 돌아왔고 3년 뒤에 첫 [코파 이탈리아](https://ko.wikipedia.org/wiki/코파_이탈리아 "wikilink") 우승을 차지한다. 1986년에는 두 번의 코파 이탈리아 우승컵을 안겨주고 [UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink") 결승전까지 이끈 [부야딘 보슈코브를](../Page/부야딘_보슈코브.md "wikilink") 감독으로 선임한다. 1987-88시즌에 이어 1988-89 시즌에 연이은 코파 이탈리아의 우승의 업적은 삼프도리아에게 89-90시즌의 UEFA 컵 출전권을 주어 결승전에서 [RSC 안데를레흐트를](https://ko.wikipedia.org/wiki/RSC_안데를레흐트 "wikilink") 상대로 추가 시간 이후에 승리를 얻어 삼프도리아의 전성기의 최고점을 찍었다. 1년 뒤인 세리에 A 1990-91 시즌에는 2위 인테르 밀란에게 승점 5점을 앞서며 첫 세리에 A 우승을 차지했다. 이 당시 우승 팀의 맴버들은 주목할만한데 대표적으로는 [잔루카 팔류카](https://ko.wikipedia.org/wiki/잔루카_팔류카 "wikilink"), [잔루카 비알리](https://ko.wikipedia.org/wiki/잔루카_비알리 "wikilink"), [로베르토 만치니](https://ko.wikipedia.org/wiki/로베르토_만치니 "wikilink"), [토니뇨 세레조](https://ko.wikipedia.org/wiki/토니뇨_세레조 "wikilink"), [피에트로 비에르코보드와](../Page/피에트로_비에르코보드.md "wikilink") [아틸리오 롬바르도에다가](https://ko.wikipedia.org/wiki/아틸리오_롬바르도 "wikilink") 감독으로는 [부야딘 보슈코브다](../Page/부야딘_보슈코브.md "wikilink"). 그 다음 시즌에 삼프도리아는 [유러피언 컵](https://ko.wikipedia.org/wiki/유러피언_컵 "wikilink") 결승전까지 올라갔으나 1988-89 시즌 UEFA 컵 결승전에서 그들을 패배시키고 우승한 [FC 바르셀로나에게](../Page/FC_바르셀로나.md "wikilink") [웸블리 스타디움에서](https://ko.wikipedia.org/wiki/웸블리_스타디움 "wikilink") 또 다시 패배했다.
+1979년 세리에 B를 전전긍긍하던 삼프도리아는 후에 삼프도리아를 상위권으로 올라가게하는 투자를 한 석유 사업가 [파올로 만토바니를](https://ko.wikipedia.org/wiki/파올로_만토바니 "wikilink") 만나게 된다. 그들은 1982년에 세리에 A로 돌아왔고 3년 뒤에 첫 [코파 이탈리아](../Page/코파_이탈리아.md "wikilink") 우승을 차지한다. 1986년에는 두 번의 코파 이탈리아 우승컵을 안겨주고 [UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink") 결승전까지 이끈 [부야딘 보슈코브를](../Page/부야딘_보슈코브.md "wikilink") 감독으로 선임한다. 1987-88시즌에 이어 1988-89 시즌에 연이은 코파 이탈리아의 우승의 업적은 삼프도리아에게 89-90시즌의 UEFA 컵 출전권을 주어 결승전에서 [RSC 안데를레흐트를](../Page/RSC_안데를레흐트.md "wikilink") 상대로 추가 시간 이후에 승리를 얻어 삼프도리아의 전성기의 최고점을 찍었다. 1년 뒤인 세리에 A 1990-91 시즌에는 2위 인테르 밀란에게 승점 5점을 앞서며 첫 세리에 A 우승을 차지했다. 이 당시 우승 팀의 맴버들은 주목할만한데 대표적으로는 [잔루카 팔류카](https://ko.wikipedia.org/wiki/잔루카_팔류카 "wikilink"), [잔루카 비알리](../Page/잔루카_비알리.md "wikilink"), [로베르토 만치니](../Page/로베르토_만치니.md "wikilink"), [토니뇨 세레조](https://ko.wikipedia.org/wiki/토니뇨_세레조 "wikilink"), [피에트로 비에르코보드와](../Page/피에트로_비에르코보드.md "wikilink") [아틸리오 롬바르도에다가](https://ko.wikipedia.org/wiki/아틸리오_롬바르도 "wikilink") 감독으로는 [부야딘 보슈코브다](../Page/부야딘_보슈코브.md "wikilink"). 그 다음 시즌에 삼프도리아는 [유러피언 컵](https://ko.wikipedia.org/wiki/유러피언_컵 "wikilink") 결승전까지 올라갔으나 1988-89 시즌 UEFA 컵 결승전에서 그들을 패배시키고 우승한 [FC 바르셀로나에게](../Page/FC_바르셀로나.md "wikilink") [웸블리 스타디움에서](../Page/웸블리_스타디움.md "wikilink") 또 다시 패배했다.
 
-이 기간후에 삼프도리아는 유럽 클럽대항전에서 약한 모습을 보였다. 1994-95 시즌에 위너스컵에서 준결승에 올랐지만 승부차기 끝에 [아스날](https://ko.wikipedia.org/wiki/아스날 "wikilink")에게 패배했고 1997-98 시즌에 UEFA컵에 참가하였지만 16강에서 [아틀레틱 빌바오에게](../Page/아틀레틱_빌바오.md "wikilink") 총합 4:1이라는 대패배를 하며 탈락했다. 2005-06 시즌에는 세리에 A로 승격된후 처음으로 UFFA 컵에 참가하였지만 32강 결정전에서 2위 자리를 두고 [RC 랑스와의](https://ko.wikipedia.org/wiki/RC_랑스 "wikilink") 경합끝에 조별 예선 4위를 하며 탈락했다. 삼프도리아는 2007-08 시즌 UEFA컵에 참가한적이 있어 [인터토토컵](https://ko.wikipedia.org/wiki/인터토토컵 "wikilink") 참가 자격을 얻었다. 그러나 이번도 16강에서 [올보르 BK에게](https://ko.wikipedia.org/wiki/올보르_BK "wikilink") 패배하여 탈락한 참담한 결과였다. 가장 최근에 참가한 유럽 클럽대항 전인 [유로파리그](https://ko.wikipedia.org/wiki/유로파리그 "wikilink")에서 [FC 메탈리스트 하르키우에게](https://ko.wikipedia.org/wiki/FC_메탈리스트_하르키우 "wikilink") 패배하며 탈락했다.
+이 기간후에 삼프도리아는 유럽 클럽대항전에서 약한 모습을 보였다. 1994-95 시즌에 위너스컵에서 준결승에 올랐지만 승부차기 끝에 [아스날](https://ko.wikipedia.org/wiki/아스날 "wikilink")에게 패배했고 1997-98 시즌에 UEFA컵에 참가하였지만 16강에서 [아틀레틱 빌바오에게](../Page/아틀레틱_빌바오.md "wikilink") 총합 4:1이라는 대패배를 하며 탈락했다. 2005-06 시즌에는 세리에 A로 승격된후 처음으로 UFFA 컵에 참가하였지만 32강 결정전에서 2위 자리를 두고 [RC 랑스와의](../Page/RC_랑스.md "wikilink") 경합끝에 조별 예선 4위를 하며 탈락했다. 삼프도리아는 2007-08 시즌 UEFA컵에 참가한적이 있어 [인터토토컵](https://ko.wikipedia.org/wiki/인터토토컵 "wikilink") 참가 자격을 얻었다. 그러나 이번도 16강에서 [올보르 BK에게](../Page/올보르_BK.md "wikilink") 패배하여 탈락한 참담한 결과였다. 가장 최근에 참가한 유럽 클럽대항 전인 [유로파리그](https://ko.wikipedia.org/wiki/유로파리그 "wikilink")에서 [FC 메탈리스트 하르키우에게](../Page/FC_메탈리스트_하르키우.md "wikilink") 패배하며 탈락했다.
 
 ### 강등과 부활
 
-1993년 10월 14일에 삼프도리아의 구단주였던 파올로 만토바니가 갑작스럽게 세상을 떠났고 그의 아들 엔리코 만토바니가 구단주자리를 이어 받았다. 엔리코가 처음 구단주를 맡은 시즌(1993-1994)에 삼프도리아는 코파이탈리아 우승과 리그에서 3위를 기록했다. 이후 4시즌동안에 삼프도리아의 기존 스쿼드에서 많은 선수들이 떠났지만 새롭게 많은 영입을 통해서 상위권 순위를 유지했다. 당시 영입했던 선수들은 [후안 세바스티안 베론](https://ko.wikipedia.org/wiki/후안_세바스티안_베론 "wikilink"), [아리엘 오르테가](https://ko.wikipedia.org/wiki/아리엘_오르테가 "wikilink"), [크리스티안 카렘베우](https://ko.wikipedia.org/wiki/크리스티안_카렘베우 "wikilink"), [클라렌서 세이도르프](https://ko.wikipedia.org/wiki/클라렌서_세이도르프 "wikilink") 그리고 임대로는 [빈센초 몬텔라를](https://ko.wikipedia.org/wiki/빈센초_몬텔라 "wikilink") 데려왔다.
+1993년 10월 14일에 삼프도리아의 구단주였던 파올로 만토바니가 갑작스럽게 세상을 떠났고 그의 아들 엔리코 만토바니가 구단주자리를 이어 받았다. 엔리코가 처음 구단주를 맡은 시즌(1993-1994)에 삼프도리아는 코파이탈리아 우승과 리그에서 3위를 기록했다. 이후 4시즌동안에 삼프도리아의 기존 스쿼드에서 많은 선수들이 떠났지만 새롭게 많은 영입을 통해서 상위권 순위를 유지했다. 당시 영입했던 선수들은 [후안 세바스티안 베론](../Page/후안_세바스티안_베론.md "wikilink"), [아리엘 오르테가](../Page/아리엘_오르테가.md "wikilink"), [크리스티안 카렘베우](https://ko.wikipedia.org/wiki/크리스티안_카렘베우 "wikilink"), [클라렌서 세이도르프](../Page/클라렌서_세이도르프.md "wikilink") 그리고 임대로는 [빈센초 몬텔라를](https://ko.wikipedia.org/wiki/빈센초_몬텔라 "wikilink") 데려왔다.
 
-그럼에도 불구하고 1999년 5월에 삼프도리아는 세리에 A에서 강등당하여 2002년때까지 세리에 B에 있었다. 이기간에 삼프도리아는 이탈리아의 석유 사업가 [리카르도 가로네에게](https://ko.wikipedia.org/wiki/리카르도_가로네 "wikilink") 인수됐다. 가로네의 매우 중요했던 초기의 두 번의 선택은 클럽에 새로운 자본을 유입시킨것과 [왈테르 노벨리노를](https://ko.wikipedia.org/wiki/왈테르_노벨리노 "wikilink") 새 감독으로 임명한것이였다. 2003년에 팀의 승리 보증표 [프란체스코 플라키의](https://ko.wikipedia.org/wiki/프란체스코_플라키 "wikilink") 활약으로 승격에 성공했고 승격후 첫 시즌을 8위로 마감했다. [세리에 A 2004-05시즌에는](https://ko.wikipedia.org/wiki/세리에_A_2004-05 "wikilink") 시즌 막판 경기에서 [우디네세 칼초에게](../Page/우디네세_칼초.md "wikilink") 챔피언스 리그 진출권을 내줬고 5위로 시즌을 마쳤다. 이 다음해는 불행한 시작을 알렸다. 노벨리노는 한 시즌 더 연장 계약을 맺었고 그 시즌을 9위로 마쳤다. 당시 세리에 A에서는 8위권 팀 이후로는 UEFA 진출권을 주지 않았다. 그래서 삼프도리아는 결과적으로 [인터토토컵](https://ko.wikipedia.org/wiki/인터토토컵 "wikilink")에 참가했다. 노벨리노 감독은 삼프도리아와 작별하였고 [왈테르 마차리가](https://ko.wikipedia.org/wiki/왈테르_마차리 "wikilink") 재빨리 그의 빈 자리를 채웠다.
+그럼에도 불구하고 1999년 5월에 삼프도리아는 세리에 A에서 강등당하여 2002년때까지 세리에 B에 있었다. 이기간에 삼프도리아는 이탈리아의 석유 사업가 [리카르도 가로네에게](https://ko.wikipedia.org/wiki/리카르도_가로네 "wikilink") 인수됐다. 가로네의 매우 중요했던 초기의 두 번의 선택은 클럽에 새로운 자본을 유입시킨것과 [왈테르 노벨리노를](https://ko.wikipedia.org/wiki/왈테르_노벨리노 "wikilink") 새 감독으로 임명한것이였다. 2003년에 팀의 승리 보증표 [프란체스코 플라키의](https://ko.wikipedia.org/wiki/프란체스코_플라키 "wikilink") 활약으로 승격에 성공했고 승격후 첫 시즌을 8위로 마감했다. [세리에 A 2004-05시즌에는](../Page/세리에_A_2004-05.md "wikilink") 시즌 막판 경기에서 [우디네세 칼초에게](../Page/우디네세_칼초.md "wikilink") 챔피언스 리그 진출권을 내줬고 5위로 시즌을 마쳤다. 이 다음해는 불행한 시작을 알렸다. 노벨리노는 한 시즌 더 연장 계약을 맺었고 그 시즌을 9위로 마쳤다. 당시 세리에 A에서는 8위권 팀 이후로는 UEFA 진출권을 주지 않았다. 그래서 삼프도리아는 결과적으로 [인터토토컵](https://ko.wikipedia.org/wiki/인터토토컵 "wikilink")에 참가했다. 노벨리노 감독은 삼프도리아와 작별하였고 [왈테르 마차리가](https://ko.wikipedia.org/wiki/왈테르_마차리 "wikilink") 재빨리 그의 빈 자리를 채웠다.
 
-삼프도리아는 2007-08 시즌을 인터토토컵 때문에 일찍 시작했다. 인터토토컵에서 불가리아 클럽 [체르노 모레 바르나를](../Page/PFC_체르노_모레_바르나.md "wikilink") 격파시켰고 UEFA컵 예선전에도 [HNK 하이두크 스플리트를](https://ko.wikipedia.org/wiki/HNK_하이두크_스플리트 "wikilink") 격파했지만 인터토토컵에서 [올보르 BK에게](https://ko.wikipedia.org/wiki/올보르_BK "wikilink") 탈락한다. 이적 시장에서 부분적으로 활동적인 모습을 보여 빈첸조 몬텔라를 다시 팀으로 불러들였고 [레알 마드리드에서](https://ko.wikipedia.org/wiki/레알_마드리드 "wikilink") [안토니오 카사노를](https://ko.wikipedia.org/wiki/안토니오_카사노 "wikilink") 임대해오기도 했다. 카사노의 임대는 대 성공이였고 삼프도리아는 카사노를 2008-09시즌에 영구 임대하기로 결정했다. 겨울 이적 시장에 [지암파올로 파치니를](https://ko.wikipedia.org/wiki/지암파올로_파치니 "wikilink") 영입해내며 세리에 A내에서도 강력한 공격진을 형성하였다. 삼프도리아는 세리에에서 6위로 시즌을 마쳤고 UEFA컵 출전권도 따냈다. 다음시즌에는 [챔피언스리그 플레이오프권을](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2010-11 "wikilink") 따내기도 했다.
+삼프도리아는 2007-08 시즌을 인터토토컵 때문에 일찍 시작했다. 인터토토컵에서 불가리아 클럽 [체르노 모레 바르나를](../Page/PFC_체르노_모레_바르나.md "wikilink") 격파시켰고 UEFA컵 예선전에도 [HNK 하이두크 스플리트를](../Page/HNK_하이두크_스플리트.md "wikilink") 격파했지만 인터토토컵에서 [올보르 BK에게](../Page/올보르_BK.md "wikilink") 탈락한다. 이적 시장에서 부분적으로 활동적인 모습을 보여 빈첸조 몬텔라를 다시 팀으로 불러들였고 [레알 마드리드에서](https://ko.wikipedia.org/wiki/레알_마드리드 "wikilink") [안토니오 카사노를](../Page/안토니오_카사노.md "wikilink") 임대해오기도 했다. 카사노의 임대는 대 성공이였고 삼프도리아는 카사노를 2008-09시즌에 영구 임대하기로 결정했다. 겨울 이적 시장에 [지암파올로 파치니를](https://ko.wikipedia.org/wiki/지암파올로_파치니 "wikilink") 영입해내며 세리에 A내에서도 강력한 공격진을 형성하였다. 삼프도리아는 세리에에서 6위로 시즌을 마쳤고 UEFA컵 출전권도 따냈다. 다음시즌에는 [챔피언스리그 플레이오프권을](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2010-11 "wikilink") 따내기도 했다.
 
-[세리에 A 2010-11](https://ko.wikipedia.org/wiki/세리에_A_2010-11 "wikilink") 시즌에 그 간에 삼프도리아의 성공과 카사노와 파치니를 영입해내어 챔피언스 리그 진출권을 얻어낸 장본인들인 단장 [주세페 마로타와](https://ko.wikipedia.org/wiki/주세페_마로타 "wikilink") 감독 [루이지 델네리가](https://ko.wikipedia.org/wiki/루이지_델네리 "wikilink") 모두 [유벤투스 FC로](https://ko.wikipedia.org/wiki/유벤투스_FC "wikilink") 떠나면서 팀은 실망적인 결과를 냈고 2011년 5월 [US 팔레르모에게](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink") 홈경기에서 패배하며 강등당했다. 2012-13 시즌에서 삼프도리아는 [AS 바레세를](https://ko.wikipedia.org/wiki/AS_바레세_1910 "wikilink") 누르고 플레이오프에서 우승하며 세리에 A로 돌아왔다. 삼프도리아는 세리에 B에서 6위로 마감했었는데(세리에 B에서는 6위까지 승격 플레이오프 진출권이 주어짐) 그들은 플레이오프 예선 1차전부터 시작하여 우승한 최초의 클럽이다.
+[세리에 A 2010-11](../Page/세리에_A_2010-11.md "wikilink") 시즌에 그 간에 삼프도리아의 성공과 카사노와 파치니를 영입해내어 챔피언스 리그 진출권을 얻어낸 장본인들인 단장 [주세페 마로타와](https://ko.wikipedia.org/wiki/주세페_마로타 "wikilink") 감독 [루이지 델네리가](https://ko.wikipedia.org/wiki/루이지_델네리 "wikilink") 모두 [유벤투스 FC로](../Page/유벤투스_FC.md "wikilink") 떠나면서 팀은 실망적인 결과를 냈고 2011년 5월 [US 팔레르모에게](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink") 홈경기에서 패배하며 강등당했다. 2012-13 시즌에서 삼프도리아는 [AS 바레세를](https://ko.wikipedia.org/wiki/AS_바레세_1910 "wikilink") 누르고 플레이오프에서 우승하며 세리에 A로 돌아왔다. 삼프도리아는 세리에 B에서 6위로 마감했었는데(세리에 B에서는 6위까지 승격 플레이오프 진출권이 주어짐) 그들은 플레이오프 예선 1차전부터 시작하여 우승한 최초의 클럽이다.
 
 ## 선수 명단
 
@@ -244,7 +244,7 @@
 <td><p>1986~1992</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스벤예란_에릭손" title="wikilink">스벤예란 에릭손</a></p></td>
+<td><p><a href="../Page/스벤예란_에릭손.md" title="wikilink">스벤예란 에릭손</a></p></td>
 <td></td>
 <td><p>1992~1997</p></td>
 </tr>
@@ -259,7 +259,7 @@
 <td><p>1997~1998</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/루차노_스팔레티" title="wikilink">루차노 스팔레티</a></p></td>
+<td><p><a href="../Page/루차노_스팔레티.md" title="wikilink">루차노 스팔레티</a></p></td>
 <td></td>
 <td><p>1998</p></td>
 </tr>
@@ -271,7 +271,7 @@
 <td><p>1998~1999</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/루차노_스팔레티" title="wikilink">루차노 스팔레티</a></p></td>
+<td><p><a href="../Page/루차노_스팔레티.md" title="wikilink">루차노 스팔레티</a></p></td>
 <td></td>
 <td><p>1999</p></td>
 </tr>
@@ -353,7 +353,7 @@
 <td><p>2012~13</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/시니샤_미하일로비치" title="wikilink">시니샤 미하일로비치</a></p></td>
+<td><p><a href="../Page/시니샤_미하일로비치.md" title="wikilink">시니샤 미하일로비치</a></p></td>
 <td></td>
 <td><p>2013~15</p></td>
 </tr>
@@ -378,7 +378,7 @@
 <td><p>2019</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/클라우디오_라니에리" title="wikilink">클라우디오 라니에리</a></p></td>
+<td><p><a href="../Page/클라우디오_라니에리.md" title="wikilink">클라우디오 라니에리</a></p></td>
 <td></td>
 <td><p>2019~</p></td>
 </tr>
@@ -415,7 +415,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로베르토_만치니" title="wikilink">로베르토 만치니</a></p></td>
+<td><p><a href="../Page/로베르토_만치니.md" title="wikilink">로베르토 만치니</a></p></td>
 <td></td>
 <td><p>1982–1997</p></td>
 <td><p>566</p></td>
@@ -436,7 +436,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안젤로_팔롬보" title="wikilink">안젤로 팔롬보</a></p></td>
+<td><p><a href="../Page/안젤로_팔롬보.md" title="wikilink">안젤로 팔롬보</a></p></td>
 <td></td>
 <td><p>2002–2017</p></td>
 <td><p>411</p></td>
@@ -471,7 +471,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잔루카_비알리" title="wikilink">잔루카 비알리</a></p></td>
+<td><p><a href="../Page/잔루카_비알리.md" title="wikilink">잔루카 비알리</a></p></td>
 <td></td>
 <td><p>1984–1992</p></td>
 <td><p>321</p></td>
@@ -499,7 +499,7 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마르첼로_리피" title="wikilink">마르첼로 리피</a></p></td>
+<td><p><a href="../Page/마르첼로_리피.md" title="wikilink">마르첼로 리피</a></p></td>
 <td></td>
 <td><p>1969-1979</p></td>
 <td><p>272</p></td>
@@ -545,14 +545,14 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로베르토_만치니" title="wikilink">로베르토 만치니</a></p></td>
+<td><p><a href="../Page/로베르토_만치니.md" title="wikilink">로베르토 만치니</a></p></td>
 <td></td>
 <td><p>1982–1997</p></td>
 <td><p>173</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잔루카_비알리" title="wikilink">잔루카 비알리</a></p></td>
+<td><p><a href="../Page/잔루카_비알리.md" title="wikilink">잔루카 비알리</a></p></td>
 <td></td>
 <td><p>1984–1992</p></td>
 <td><p>141</p></td>
@@ -615,7 +615,7 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/잠파올로_파치니" title="wikilink">잠파올로 파치니</a></strong></p></td>
+<td><p><strong><a href="../Page/잠파올로_파치니.md" title="wikilink">잠파올로 파치니</a></strong></p></td>
 <td></td>
 <td><p>2009-2011</p></td>
 <td><p>49</p></td>
@@ -636,7 +636,7 @@
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안토니오_카사노" title="wikilink">안토니오 카사노</a></p></td>
+<td><p><a href="../Page/안토니오_카사노.md" title="wikilink">안토니오 카사노</a></p></td>
 <td></td>
 <td><p>2007-2011</p></td>
 <td><p>41</p></td>
@@ -728,7 +728,7 @@
 <td><div style="text-align: center;">
 <p>1999-2001</p></td>
 <td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/드림캐스트" title="wikilink">드림캐스트</a></p></td>
+<p><a href="../Page/드림캐스트.md" title="wikilink">드림캐스트</a></p></td>
 </tr>
 <tr class="even">
 <td><div style="text-align: center;">
@@ -788,17 +788,17 @@
   - **우승 (1회)**: 1990-91
   - **준우승 (1회)**: 1921-22
 
-**[세리에 B](https://ko.wikipedia.org/wiki/세리에_B "wikilink")**:
+**[세리에 B](../Page/세리에_B.md "wikilink")**:
 
   - **우승 (2회)**: 1933-34, 1966-67
   - **준우승 (2회)**: 1981-82, 2002-03
 
-**[코파 이탈리아](https://ko.wikipedia.org/wiki/코파_이탈리아 "wikilink")**:
+**[코파 이탈리아](../Page/코파_이탈리아.md "wikilink")**:
 
   - **우승 (4회)**: 1984-85, 1987-88, 1988-89, 1993-94
   - **준우승 (3회)**: 1985-86, 1990-91, 2008-09
 
-**[수페르코파 이탈리아나](https://ko.wikipedia.org/wiki/수페르코파_이탈리아나 "wikilink")**:
+**[수페르코파 이탈리아나](../Page/수페르코파_이탈리아나.md "wikilink")**:
 
   - **우승 (1회)**: 1991
   - **준우승 (3회)**: 1988, 1989, 1994

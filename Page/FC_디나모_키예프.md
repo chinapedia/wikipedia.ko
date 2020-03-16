@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FK 디나모 키예프**(, )는 [키예프](https://ko.wikipedia.org/wiki/키예프 "wikilink")를 연고로 하는 [우크라이나](https://ko.wikipedia.org/wiki/우크라이나 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로 [1927년](https://ko.wikipedia.org/wiki/1927년 "wikilink") 창단되었다.
+**FK 디나모 키예프**(, )는 [키예프](../Page/키예프.md "wikilink")를 연고로 하는 [우크라이나](../Page/우크라이나.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1927년](../Page/1927년.md "wikilink") 창단되었다.
 
-현재 [우크라이나 프리미어리그에](https://ko.wikipedia.org/wiki/우크라이나_프리미어리그 "wikilink") 속해 있으며 2010-11 시즌은 2위로 마감하였다. 한 번도 하위 리그로 강등된 적 없는 우크라이나 프리미어리그의 강팀 중 한 곳이다.
+현재 [우크라이나 프리미어리그에](../Page/우크라이나_프리미어리그.md "wikilink") 속해 있으며 2010-11 시즌은 2위로 마감하였다. 한 번도 하위 리그로 강등된 적 없는 우크라이나 프리미어리그의 강팀 중 한 곳이다.
 
 ## 현재 선수 명단
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CAS ](https://ko.wikipedia.org/wiki/CAS_).
 
 
-**CAS 등록 번호**(CAS Registry Number\[1\], **CASRN** 또는 **CAS 번호**)는 이제까지 알려진 모든 화합물, 중합체 등을 기록하는 번호이다. 미국 화학회 [American Chemical Society](http://www.acs.org)에서 운영하는 서비스이며, 모든 [화학 물질을](https://ko.wikipedia.org/wiki/화학_물질 "wikilink") 중복 없이 찾을 수 있도록 한다.
+**CAS 등록 번호**(CAS Registry Number\[1\], **CASRN** 또는 **CAS 번호**)는 이제까지 알려진 모든 화합물, 중합체 등을 기록하는 번호이다. 미국 화학회 [American Chemical Society](http://www.acs.org)에서 운영하는 서비스이며, 모든 [화학 물질을](../Page/화학_물질.md "wikilink") 중복 없이 찾을 수 있도록 한다.
 
 2020년 12월 기준으로 158,000,000 개의 유기 화학 물질과 68,000,000 개의 시퀀스가 기록되어 있으며, 매주 대략 50,000개의 새 기록이 추가된다. 날마다 새로운 물질 약 15,000건이 함께 업데이트된다.\[2\]
 

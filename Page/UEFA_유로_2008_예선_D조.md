@@ -296,19 +296,19 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/얀_콜레르" title="wikilink">얀 콜레르</a></p></td>
+<td><p><a href="../Page/얀_콜레르.md" title="wikilink">얀 콜레르</a></p></td>
 <td></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마레크_민탈" title="wikilink">마레크 민탈</a></p></td>
+<td><p><a href="../Page/마레크_민탈.md" title="wikilink">마레크 민탈</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미로슬라프_클로제" title="wikilink">미로슬라프 클로제</a></p></td>
+<td><p><a href="../Page/미로슬라프_클로제.md" title="wikilink">미로슬라프 클로제</a></p></td>
 <td></td>
 <td><p>5</p></td>
 </tr>
@@ -320,18 +320,18 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/케빈_도일" title="wikilink">케빈 도일</a></p></td>
+<td><p><a href="../Page/케빈_도일.md" title="wikilink">케빈 도일</a></p></td>
 <td></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/토마스_히츨슈페르거" title="wikilink">토마스 히츨슈페르거</a></p></td>
+<td><p><a href="../Page/토마스_히츨슈페르거.md" title="wikilink">토마스 히츨슈페르거</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스티븐_아일랜드" title="wikilink">스티븐 아일랜드</a></p></td>
+<td><p><a href="../Page/스티븐_아일랜드.md" title="wikilink">스티븐 아일랜드</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -355,25 +355,25 @@
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미하엘_발라크" title="wikilink">미하엘 발라크</a></p></td>
+<td><p><a href="../Page/미하엘_발라크.md" title="wikilink">미하엘 발라크</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/밀란_바로시" title="wikilink">밀란 바로시</a></p></td>
+<td><p><a href="../Page/밀란_바로시.md" title="wikilink">밀란 바로시</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/크레이그_벨러미" title="wikilink">크레이그 벨러미</a></p></td>
+<td><p><a href="../Page/크레이그_벨러미.md" title="wikilink">크레이그 벨러미</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마레크_체흐" title="wikilink">마레크 체흐</a></p></td>
+<td><p><a href="../Page/마레크_체흐.md" title="wikilink">마레크 체흐</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -385,7 +385,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/케빈_쿠라니" title="wikilink">케빈 쿠라니</a></p></td>
+<td><p><a href="../Page/케빈_쿠라니.md" title="wikilink">케빈 쿠라니</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -397,13 +397,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/리보르_시온코" title="wikilink">리보르 시온코</a></p></td>
+<td><p><a href="../Page/리보르_시온코.md" title="wikilink">리보르 시온코</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마르틴_슈크르텔" title="wikilink">마르틴 슈크르텔</a></p></td>
+<td><p><a href="../Page/마르틴_슈크르텔.md" title="wikilink">마르틴 슈크르텔</a></p></td>
 <td></td>
 <td></td>
 <td></td>

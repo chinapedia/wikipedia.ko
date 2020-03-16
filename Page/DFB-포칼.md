@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DFB-](https://ko.wikipedia.org/wiki/DFB-).
 
 
-**DFB-포칼**()은 [독일 축구 협회에서](https://ko.wikipedia.org/wiki/독일_축구_협회 "wikilink") 주관하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회이다. 독일 축구에서 [1 분데스리가](https://ko.wikipedia.org/wiki/1_분데스리가 "wikilink") 다음으로 가장 중요한 대회이다.
+**DFB-포칼**()은 [독일 축구 협회에서](https://ko.wikipedia.org/wiki/독일_축구_협회 "wikilink") 주관하는 [축구](../Page/축구.md "wikilink") 대회이다. 독일 축구에서 [1 분데스리가](https://ko.wikipedia.org/wiki/1_분데스리가 "wikilink") 다음으로 가장 중요한 대회이다.
 
 ## 형식
 
@@ -11,7 +11,7 @@
 
 모든 경기들은 홈과 원정으로 하지 않고 한 번만 경기를 가진다. 1985년부터는 [베를린에서](https://ko.wikipedia.org/wiki/베를린_올림피아슈타디온 "wikilink") 결승전을 하고 있다.
 
-90분의 경기 시간 동안 승부가 결정이 나지 않을 경우, 30분의 연장전으로 이어지고, 그 후에도 동점이면 승부차기를 한다. 우승팀에게는 [UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink") 본선 진출권이 부여된다.
+90분의 경기 시간 동안 승부가 결정이 나지 않을 경우, 30분의 연장전으로 이어지고, 그 후에도 동점이면 승부차기를 한다. 우승팀에게는 [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 본선 진출권이 부여된다.
 
 ## 역대 결승
 
@@ -101,7 +101,7 @@
 <td><p>2009</p></td>
 <td><p><strong><a href="../Page/SV_베르더_브레멘.md" title="wikilink">SV 베르더 브레멘</a></strong></p></td>
 <td><p><strong>1-0</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바이어_04_레버쿠젠" title="wikilink">바이어 04 레버쿠젠</a></p></td>
+<td><p><a href="../Page/바이어_04_레버쿠젠.md" title="wikilink">바이어 04 레버쿠젠</a></p></td>
 <td><p>베를린</p></td>
 </tr>
 <tr class="odd">
@@ -136,28 +136,28 @@
 <td><p>2004</p></td>
 <td><p><strong><a href="../Page/SV_베르더_브레멘.md" title="wikilink">SV 베르더 브레멘</a></strong></p></td>
 <td><p><strong>3-2</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/알레마니아_아헨" title="wikilink">알레마니아 아헨</a></p></td>
+<td><p><a href="../Page/알레마니아_아헨.md" title="wikilink">알레마니아 아헨</a></p></td>
 <td><p>베를린</p></td>
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
 <td><p><strong>FC 바이에른 뮌헨</strong></p></td>
 <td><p><strong>3-1</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1._FC_카이저슬라우테른" title="wikilink">1. FC 카이저슬라우테른</a></p></td>
+<td><p><a href="../Page/1._FC_카이저슬라우테른.md" title="wikilink">1. FC 카이저슬라우테른</a></p></td>
 <td><p>베를린</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002</p></td>
 <td><p><strong>FC 샬케 04</strong></p></td>
 <td><p><strong>4-2</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바이어_04_레버쿠젠" title="wikilink">바이어 04 레버쿠젠</a></p></td>
+<td><p><a href="../Page/바이어_04_레버쿠젠.md" title="wikilink">바이어 04 레버쿠젠</a></p></td>
 <td><p>베를린</p></td>
 </tr>
 <tr class="even">
 <td><p>2001</p></td>
 <td><p><strong>FC 샬케 04</strong></p></td>
 <td><p><strong>2-0</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1._FC_우니온_베를린" title="wikilink">1. FC 우니온 베를린</a></p></td>
+<td><p><a href="../Page/1._FC_우니온_베를린.md" title="wikilink">1. FC 우니온 베를린</a></p></td>
 <td><p>베를린</p></td>
 </tr>
 <tr class="odd">
@@ -198,7 +198,7 @@
 </tr>
 <tr class="even">
 <td><p>1995</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/보루시아_묀헨글라트바흐" title="wikilink">보루시아 묀헨글라트바흐</a></strong></p></td>
+<td><p><strong><a href="../Page/보루시아_묀헨글라트바흐.md" title="wikilink">보루시아 묀헨글라트바흐</a></strong></p></td>
 <td><p>'''3-0</p></td>
 <td><p><a href="../Page/VfL_볼프스부르크.md" title="wikilink">VfL 볼프스부르크</a></p></td>
 <td><p>베를린</p></td>
@@ -230,7 +230,7 @@
 <td><p><strong>SV 베르더 브레멘</strong></p></td>
 <td><p><strong>1-1</strong> <small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small><br />
 4-3 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1._FC_쾰른" title="wikilink">1. FC 쾰른</a></p></td>
+<td><p><a href="../Page/1._FC_쾰른.md" title="wikilink">1. FC 쾰른</a></p></td>
 <td><p>베를린</p></td>
 </tr>
 <tr class="odd">
@@ -258,7 +258,7 @@
 <td><p>1987</p></td>
 <td><p><strong><a href="../Page/함부르크_SV.md" title="wikilink">함부르크 SV</a></strong></p></td>
 <td><p>'''3-1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/슈투트가르트_키커스" title="wikilink">슈투트가르트 키커스</a></p></td>
+<td><p><a href="../Page/슈투트가르트_키커스.md" title="wikilink">슈투트가르트 키커스</a></p></td>
 <td><p>베를린</p></td>
 </tr>
 <tr class="odd">
@@ -306,7 +306,7 @@
 </tr>
 <tr class="odd">
 <td><p>1980</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/포르투나_뒤셀도르프" title="wikilink">포르투나 뒤셀도르프</a></strong></p></td>
+<td><p><strong><a href="../Page/포르투나_뒤셀도르프.md" title="wikilink">포르투나 뒤셀도르프</a></strong></p></td>
 <td><p>'''2-1</p></td>
 <td><p>1. FC 쾰른</p></td>
 <td><p>겔젤키르헨</p></td>
@@ -376,7 +376,7 @@
 </tr>
 <tr class="odd">
 <td><p>1970</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/키커스_오펜바흐" title="wikilink">키커스 오펜바흐</a></strong></p></td>
+<td><p><strong><a href="../Page/키커스_오펜바흐.md" title="wikilink">키커스 오펜바흐</a></strong></p></td>
 <td><p>'''2-1</p></td>
 <td><p>1. FC 쾰른</p></td>
 <td><p>하노버</p></td>
@@ -418,7 +418,7 @@
 </tr>
 <tr class="odd">
 <td><p>1964</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/TSV_1860_뮌헨" title="wikilink">TSV 1860 뮌헨</a></strong></p></td>
+<td><p><strong><a href="../Page/TSV_1860_뮌헨.md" title="wikilink">TSV 1860 뮌헨</a></strong></p></td>
 <td><p>'''2-0</p></td>
 <td><p>아인트라흐트 프랑크푸르트</p></td>
 <td><p>슈투트가르트</p></td>
@@ -546,7 +546,7 @@
 <td><p>1938</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/라피드_빈" title="wikilink">라피드 빈</a></strong></p></td>
 <td><p>'''3-1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FSV_프랑크푸르트" title="wikilink">FSV 프랑크푸르트</a></p></td>
+<td><p><a href="../Page/FSV_프랑크푸르트.md" title="wikilink">FSV 프랑크푸르트</a></p></td>
 <td><p>베를린</p></td>
 </tr>
 <tr class="even">

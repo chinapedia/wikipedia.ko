@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CAN\'T BUY MY LOVE](https://ko.wikipedia.org/wiki/CAN\'T_BUY_MY_LOVE).
 
 
-《**CAN'T BUY MY LOVE**》(캔트 바이 마이 러브)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 두 번째 정규 앨범이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월 4일에](https://ko.wikipedia.org/wiki/4월_4일 "wikilink") 소니 레코드에서 발매되었다.
+《**CAN'T BUY MY LOVE**》(캔트 바이 마이 러브)는 [일본](../Page/일본.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 두 번째 정규 앨범이다. [2007년](../Page/2007년.md "wikilink") [4월 4일에](../Page/4월_4일.md "wikilink") 소니 레코드에서 발매되었다.
 
 ## 수록곡
 
@@ -25,7 +25,7 @@
 
 ## Thank You My Teens
 
-**Thank You My Teens**는 [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")가 20세를 맞으며, 2번째 라이브 투어 콘서트 [CAN'T BUY MY LOVE에서](https://ko.wikipedia.org/wiki/CAN'T_BUY_MY_LOVE "wikilink") 처음 부른 노래다. 이 곡은 10대 시절을 회상하며, 그 시절에 감사하는 내용으로 구성되어 있다.
+**Thank You My Teens**는 [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")가 20세를 맞으며, 2번째 라이브 투어 콘서트 [CAN'T BUY MY LOVE에서](../Page/CAN'T_BUY_MY_LOVE.md "wikilink") 처음 부른 노래다. 이 곡은 10대 시절을 회상하며, 그 시절에 감사하는 내용으로 구성되어 있다.
 
 이 곡의 이름을 따서 DVD 《[Thank You My Teens](https://ko.wikipedia.org/wiki/Thank_You_My_Teens_\(DVD\) "wikilink")》가 발매되기도 하였다.
 

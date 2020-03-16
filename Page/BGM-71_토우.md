@@ -11,7 +11,7 @@ BGM-71 TOW(Tube launched-Optically tracked-Wire/Wireless guided, 광학추적형
 
 2002년 3세대 자동인 [파이어 앤 포겟](https://ko.wikipedia.org/wiki/파이어_앤_포겟 "wikilink") 버전의 TOW-FF (TOW-Fire and Forget)의 개발이 취소되었다. 그래서 토우 미사일은 2세대 반자동 [대전차유도탄](../Page/대전차유도탄.md "wikilink")으로 남게 되었다. 반자동이므로 목표물에 명중할 때 까지 반드시 사수가 조준경으로 조준을 해주어야만 한다.
 
-2003년 7월 22일, 미군은 이라크에서 [우다이 후세인과](https://ko.wikipedia.org/wiki/우다이_후세인 "wikilink") [쿠사이 후세인을](https://ko.wikipedia.org/wiki/쿠사이_후세인 "wikilink") 사살하는데 다수의 토우 미사일을 사용했다.\[1\]
+2003년 7월 22일, 미군은 이라크에서 [우다이 후세인과](../Page/우다이_후세인.md "wikilink") [쿠사이 후세인을](../Page/쿠사이_후세인.md "wikilink") 사살하는데 다수의 토우 미사일을 사용했다.\[1\]
 
 ## 파생형
 
@@ -32,13 +32,13 @@ BGM-71 TOW(Tube launched-Optically tracked-Wire/Wireless guided, 광학추적형
 
 휴즈사는 1989년에 TOW 2N라고 부르는 무선 방식의 토우 미사일을 개발했지만 미군은 채택하지 않았다. 그 후 [레이시온](../Page/레이시온.md "wikilink")이 최근에 토우 사업을 휴즈사로부터 인수해 토우 라인을 계속 유지, 업그레이드했다. 그러나 레이시온의 FOTT(Follow-On To TOW) 프로그램과 TOW-FF(TOW-Fire and Forget) 프로그램은 예산상의 문제로 각각 1998년에 취소, 2001년 11월 30일에 조기 종료되었다.\[2\]
 
-2001년과 2002년에, 레이시온과 미 육군은 사거리를 늘린 TOW 2B 파생형을 함께 연구했다. 이 파생형은 TOW 2B (ER)라는 이름이 붙여졌지만 지금은 TOW 2B Aero라고 부른다. 이 파생형은 2004년까지 생산되었지만 미 육군은 아직 제식번호를 할당하지 않고 있다. 기존의 토우 미사일을 약간만 개조하였으며, 긴 케이블을 장착했다. 사거리는 4500 m이다. 유선유도가 아닌 무선유도를 하는 TOW 2B Aero RF도 개발되었다. 2006년 10월 미군에 인도되었다. 무선장치가 추가된 점을 제외하고는, 기존 발사대와 호환된다. 일부에서는 [파키스탄](https://ko.wikipedia.org/wiki/파키스탄 "wikilink")을 위해 TOW 2B Aero RF가 생산되었다고도 한다.
+2001년과 2002년에, 레이시온과 미 육군은 사거리를 늘린 TOW 2B 파생형을 함께 연구했다. 이 파생형은 TOW 2B (ER)라는 이름이 붙여졌지만 지금은 TOW 2B Aero라고 부른다. 이 파생형은 2004년까지 생산되었지만 미 육군은 아직 제식번호를 할당하지 않고 있다. 기존의 토우 미사일을 약간만 개조하였으며, 긴 케이블을 장착했다. 사거리는 4500 m이다. 유선유도가 아닌 무선유도를 하는 TOW 2B Aero RF도 개발되었다. 2006년 10월 미군에 인도되었다. 무선장치가 추가된 점을 제외하고는, 기존 발사대와 호환된다. 일부에서는 [파키스탄](../Page/파키스탄.md "wikilink")을 위해 TOW 2B Aero RF가 생산되었다고도 한다.
 
 아직까지 토우 미사일은 파이어 앤 포겟(Fire and Forget)형이 아니므로 대부분의 2세대 유선유도식 미사일과 같이 SACLOS(Semi-Automatic Command Line of Sight) 유도방식을 사용한다. 즉 미사일이 직접 플랫폼과 유선으로 연결되어 목표물에 명중할 때까지 사수가 조준을 해줘야 한다는 의미이다. 이 방식은 미사일이 목표에 명중할 때까지 사수의 움직임을 제한하므로 파이어 앤 포겟이 가능한 다른 미사일을 개발하게끔 하는 가장 큰 요인이 되고 있다.
 
 ### 비공식 파생형
 
-  - [이란](https://ko.wikipedia.org/wiki/이란 "wikilink")은 [역공학](https://ko.wikipedia.org/wiki/역공학 "wikilink")으로 [Toophan](https://ko.wikipedia.org/wiki/Toophan "wikilink") 미사일이라는 제식명칭이 붙은 토우와 같은 미사일을 생산하고 있다.
+  - [이란](../Page/이란.md "wikilink")은 [역공학](https://ko.wikipedia.org/wiki/역공학 "wikilink")으로 [Toophan](https://ko.wikipedia.org/wiki/Toophan "wikilink") 미사일이라는 제식명칭이 붙은 토우와 같은 미사일을 생산하고 있다.
 
 ### 그리핀
 
@@ -197,9 +197,9 @@ BGM-71A</p></td>
 
   - M220 발사대
   - [M151](https://ko.wikipedia.org/wiki/M151_MUTT "wikilink"): 지프 차량
-  - [M113 APC](https://ko.wikipedia.org/wiki/M113_장갑차 "wikilink")
-  - [M966 HMMWV](https://ko.wikipedia.org/wiki/험비 "wikilink")
-  - [M1045 HMMWV](https://ko.wikipedia.org/wiki/험비 "wikilink") - M966을 대체
+  - [M113 APC](../Page/M113_장갑차.md "wikilink")
+  - [M966 HMMWV](../Page/험비.md "wikilink")
+  - [M1045 HMMWV](../Page/험비.md "wikilink") - M966을 대체
   - [M2/M3 브래들리 IFV/CFV](https://ko.wikipedia.org/wiki/M2/M3_브래들리 "wikilink")
   - [M1134 스트라이커](https://ko.wikipedia.org/wiki/Stryker "wikilink") ATGM carrier
   - [M901 ITV (Improved TOW Vehicle)](https://ko.wikipedia.org/wiki/M901_ITV "wikilink")
@@ -278,7 +278,7 @@ BGM-71A</p></td>
 ## 더 보기
 
   - [M72 LAW](https://ko.wikipedia.org/wiki/M72_LAW "wikilink")
-  - [JAGM](https://ko.wikipedia.org/wiki/JAGM "wikilink") - Joint Air-to-Ground Missile (합동 공대지 미사일)은 BGM-71 토우, [AGM-114 헬파이어](../Page/AGM-114_헬파이어.md "wikilink"), [AGM-65 메버릭을](../Page/AGM-65_메버릭.md "wikilink") 교체하는 신형 대전차 미사일 개발계획이다.
+  - [JAGM](../Page/JAGM.md "wikilink") - Joint Air-to-Ground Missile (합동 공대지 미사일)은 BGM-71 토우, [AGM-114 헬파이어](../Page/AGM-114_헬파이어.md "wikilink"), [AGM-65 메버릭을](../Page/AGM-65_메버릭.md "wikilink") 교체하는 신형 대전차 미사일 개발계획이다.
   - [스파이크 대전차미사일](https://ko.wikipedia.org/wiki/스파이크_대전차미사일 "wikilink") - 이스라엘산. [파이어 앤 포겟이](https://ko.wikipedia.org/wiki/파이어_앤_포겟 "wikilink") 된다.
   - [그리핀 미사일](https://ko.wikipedia.org/wiki/그리핀_미사일 "wikilink") - 레이시온, 토우와 같은 무게 20 kg, 사거리 8 km, 레이저 유도
 

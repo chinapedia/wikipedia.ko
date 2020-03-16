@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [RCD ](https://ko.wikipedia.org/wiki/RCD_).
 
 
-**RCD 마요르카**()는 [마요르카 섬에](https://ko.wikipedia.org/wiki/마요르카_섬 "wikilink") 있는 [손 모시](https://ko.wikipedia.org/wiki/에스타디_데_손_모시 "wikilink") 경기장을 홈 구장으로 하는 [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 현재 감독은 [빈센테 모레노이다](https://ko.wikipedia.org/wiki/빈센테_모레노 "wikilink").
+**RCD 마요르카**()는 [마요르카 섬에](https://ko.wikipedia.org/wiki/마요르카_섬 "wikilink") 있는 [손 모시](../Page/에스타디_데_손_모시.md "wikilink") 경기장을 홈 구장으로 하는 [스페인](../Page/스페인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 감독은 [빈센테 모레노이다](https://ko.wikipedia.org/wiki/빈센테_모레노 "wikilink").
 
-이 축구단은 [1916년](https://ko.wikipedia.org/wiki/1916년 "wikilink") 창단되었다. 2002-03 [코파 델 레이에서](https://ko.wikipedia.org/wiki/코파_델_레이 "wikilink") 우승을 차지했으며 최고 성적은 1998-99, 2000-01 시즌에서 기록한 3위이다. 현재 [프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink")에 속해 있다. 2009-10 시즌에서 5위를 차지해 [UEFA 유로파리그 2010-11](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2010-11 "wikilink") 진출권을 획득하였지만, 부채 문제로 인하여 참여하지 못하였다. 결국 부채 문제는 다음 시즌의 대재앙으로 이어졌다. 마지막 라운드까지 하위권을 맴돌았고 최종 라운드에서 [아틀레티코 마드리드에](https://ko.wikipedia.org/wiki/아틀레티코_마드리드 "wikilink") 4-3으로 패해 1부리그 자력 잔류에 실패하였지만 [발렌시아 CF가](../Page/발렌시아_CF.md "wikilink") [데포르티보 라 코루냐를](https://ko.wikipedia.org/wiki/데포르티보_라_코루냐 "wikilink") 2-0으로 꺾으며 간신히 강등을 면했다.
+이 축구단은 [1916년](../Page/1916년.md "wikilink") 창단되었다. 2002-03 [코파 델 레이에서](../Page/코파_델_레이.md "wikilink") 우승을 차지했으며 최고 성적은 1998-99, 2000-01 시즌에서 기록한 3위이다. 현재 [프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink")에 속해 있다. 2009-10 시즌에서 5위를 차지해 [UEFA 유로파리그 2010-11](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2010-11 "wikilink") 진출권을 획득하였지만, 부채 문제로 인하여 참여하지 못하였다. 결국 부채 문제는 다음 시즌의 대재앙으로 이어졌다. 마지막 라운드까지 하위권을 맴돌았고 최종 라운드에서 [아틀레티코 마드리드에](https://ko.wikipedia.org/wiki/아틀레티코_마드리드 "wikilink") 4-3으로 패해 1부리그 자력 잔류에 실패하였지만 [발렌시아 CF가](../Page/발렌시아_CF.md "wikilink") [데포르티보 라 코루냐를](https://ko.wikipedia.org/wiki/데포르티보_라_코루냐 "wikilink") 2-0으로 꺾으며 간신히 강등을 면했다.
 
 ## 재정 상황
 
@@ -13,13 +13,13 @@
 
 ### 현재 선수 명단
 
-*[2020년](https://ko.wikipedia.org/wiki/2020년 "wikilink") [2월 25일](https://ko.wikipedia.org/wiki/2월_25일 "wikilink") 기준*
+*[2020년](../Page/2020년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") 기준*
 
 ### 임대 선수 명단
 
 ## 주요 성적
 
-  - **[UEFA 컵위너스컵](https://ko.wikipedia.org/wiki/UEFA_컵위너스컵 "wikilink")**
+  - **[UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink")**
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [코파 델 레이](https://ko.wikipedia.org/wiki/코파_델_레이 "wikilink")
+  - [코파 델 레이](../Page/코파_델_레이.md "wikilink")
       - 우승 (1): 2002-2003
       - 준우승 (2): 1990-1991, 1997-1998
 

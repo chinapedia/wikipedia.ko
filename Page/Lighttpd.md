@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Lighttpd](https://ko.wikipedia.org/wiki/Lighttpd).
 
 
-**lighttpd**\[1\]는 [웹 서버](https://ko.wikipedia.org/wiki/웹_서버 "wikilink") [애플리케이션이다](https://ko.wikipedia.org/wiki/응용_소프트웨어 "wikilink").
+**lighttpd**\[1\]는 [웹 서버](../Page/웹_서버.md "wikilink") [애플리케이션이다](../Page/응용_소프트웨어.md "wikilink").
 
 ## 사용하는 곳
 
-lighttpd는 [웹 2.0](https://ko.wikipedia.org/wiki/웹_2.0 "wikilink") 관련하여 유명한 YouTube, Wikipedia, Sourceforge, Meebo 의 웹 서버로\[2\], 2007년 4월에 집계된 NetCraft의 웹서버 순위에 5번째로 등록이 된 바 있다.\[3\] Alexa의 최상위 250개 사이트 중에 5개 사이트가 랭킹되었다.\[4\]
+lighttpd는 [웹 2.0](../Page/웹_2.0.md "wikilink") 관련하여 유명한 YouTube, Wikipedia, Sourceforge, Meebo 의 웹 서버로\[2\], 2007년 4월에 집계된 NetCraft의 웹서버 순위에 5번째로 등록이 된 바 있다.\[3\] Alexa의 최상위 250개 사이트 중에 5개 사이트가 랭킹되었다.\[4\]
 
 ## 제한
 

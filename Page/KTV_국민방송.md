@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [KTV ](https://ko.wikipedia.org/wiki/KTV_).
 
 
-**KTV 국민방송**(國民放送, )은 [정부와](https://ko.wikipedia.org/wiki/대한민국_정부 "wikilink") [산하기관에서](https://ko.wikipedia.org/wiki/공공기관 "wikilink") 만든 정책을 국민들이 알기 쉽도록 국정 관련 프로그램을 제작·방송하는 공공 방송국이다. 상업 광고는 일체 하지 않는 것이 특징이다.
+**KTV 국민방송**(國民放送, )은 [정부와](../Page/대한민국_정부.md "wikilink") [산하기관에서](https://ko.wikipedia.org/wiki/공공기관 "wikilink") 만든 정책을 국민들이 알기 쉽도록 국정 관련 프로그램을 제작·방송하는 공공 방송국이다. 상업 광고는 일체 하지 않는 것이 특징이다.
 
 ## 연혁
 
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") [케이블TV](https://ko.wikipedia.org/wiki/대한민국의_케이블TV_방송 "wikilink") [공익채널](https://ko.wikipedia.org/wiki/공익채널 "wikilink") 'K-TV 국립방송'으로 개국.
-  - [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") [디지털 위성방송](../Page/KT스카이라이프.md "wikilink")(CH 520) 및 [인터넷 방송](https://ko.wikipedia.org/wiki/인터넷_텔레비전 "wikilink") 실시.
-  - [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월](https://ko.wikipedia.org/wiki/2월 "wikilink") 채널명을 **한국정책방송 KTV**로 변경.
-  - [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 24시간 방송 개시.
-  - [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월](https://ko.wikipedia.org/wiki/12월 "wikilink") [HD](https://ko.wikipedia.org/wiki/고선명_텔레비전 "wikilink") 방송 개시.
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 채널명을 **국민방송**으로 변경.
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") [세종특별자치시](../Page/세종특별자치시.md "wikilink")로 신사옥 이전.
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 1월 YouTube 'KTV국민방송' 채널 실버버튼 수여 (온라인콘텐츠부)
-  - [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") 1월 YouTube 'KTV스콘' 채널 실버버튼 수여 (온라인콘텐츠부)
+  - [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") [케이블TV](../Page/대한민국의_케이블TV_방송.md "wikilink") [공익채널](../Page/공익채널.md "wikilink") 'K-TV 국립방송'으로 개국.
+  - [2002년](../Page/2002년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") [디지털 위성방송](../Page/KT스카이라이프.md "wikilink")(CH 520) 및 [인터넷 방송](https://ko.wikipedia.org/wiki/인터넷_텔레비전 "wikilink") 실시.
+  - [2005년](../Page/2005년.md "wikilink") [2월](../Page/2월.md "wikilink") 채널명을 **한국정책방송 KTV**로 변경.
+  - [2009년](../Page/2009년.md "wikilink") [6월](../Page/6월.md "wikilink") 24시간 방송 개시.
+  - [2010년](../Page/2010년.md "wikilink") [12월](../Page/12월.md "wikilink") [HD](../Page/고선명_텔레비전.md "wikilink") 방송 개시.
+  - [2014년](../Page/2014년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 채널명을 **국민방송**으로 변경.
+  - [2014년](../Page/2014년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") [세종특별자치시](../Page/세종특별자치시.md "wikilink")로 신사옥 이전.
+  - [2019년](../Page/2019년.md "wikilink") 1월 YouTube 'KTV국민방송' 채널 실버버튼 수여 (온라인콘텐츠부)
+  - [2019년](../Page/2019년.md "wikilink") 1월 YouTube 'KTV스콘' 채널 실버버튼 수여 (온라인콘텐츠부)
   - [2017년 제7회 2017 대한민국 SNS대상](http://snsawards.com/result_2017_2) - 공공기업 '최우수상' 수상 (온라인콘텐츠부)
   - [2018년 제8회 2018 대한민국 SNS대상](http://snsawards.com/result_2018_2) - 공공기업 '최우수상' 수상 (온라인콘텐츠부)
   - [2019년 제9회 2019 대한민국 SNS대상](http://snsawards.com/result_2019_2) - 공공기업 '대상' 수상 (온라인콘텐츠부)
@@ -87,7 +87,7 @@
   - KTV 뉴스10시
   - KTV 뉴스16시
   - KTV 뉴스(17시)
-  - KTV [다큐 프라임](https://ko.wikipedia.org/wiki/다큐_프라임 "wikilink")-[EBS1](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink")
+  - KTV [다큐 프라임](https://ko.wikipedia.org/wiki/다큐_프라임 "wikilink")-[EBS1](../Page/EBS_1TV.md "wikilink")
   - KTV 문화가 있는 삶
   - KTV 스포츠가 있는 삶
   - KTV 스페셜
@@ -158,8 +158,8 @@
   - 생활법령 탐구생활
   - 생활정보 유쾌한 발견
   - 세미나 중계실
-  - [세계테마기행](https://ko.wikipedia.org/wiki/세계테마기행 "wikilink")-[EBS1](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink")
-  - [순풍 산부인과](https://ko.wikipedia.org/wiki/순풍_산부인과 "wikilink")-[SBS](https://ko.wikipedia.org/wiki/SBS_TV "wikilink")
+  - [세계테마기행](../Page/세계테마기행.md "wikilink")-[EBS1](../Page/EBS_1TV.md "wikilink")
+  - [순풍 산부인과](https://ko.wikipedia.org/wiki/순풍_산부인과 "wikilink")-[SBS](../Page/SBS_TV.md "wikilink")
   - 스페셜기획 『이제는 경제다\!』
   - 스페셜기획 『이제는 경제다\!』+
   - 시니어리포트
@@ -181,7 +181,7 @@
   - 영상의궤 "선진일류국가 시대를 열다"
   - 영상포엠 마음이 머무는 풍경
   - 영화공감
-  - [오감만족 세상은 맛있다](https://ko.wikipedia.org/wiki/오감만족_세상은_맛있다 "wikilink")- [KBS2](../Page/KBS_2TV.md "wikilink")
+  - [오감만족 세상은 맛있다](../Page/오감만족_세상은_맛있다.md "wikilink")- [KBS2](../Page/KBS_2TV.md "wikilink")
   - 오늘의 정책
   - 오늘의국정
   - 외신에 비친 한국
@@ -269,30 +269,30 @@
   - 파워특강
   - 파워특강 10 minutes
   - 포토에세이 대한민국
-  - [한국기행](https://ko.wikipedia.org/wiki/한국기행 "wikilink")-[EBS1](https://ko.wikipedia.org/wiki/EBS_1TV "wikilink")
+  - [한국기행](../Page/한국기행.md "wikilink")-[EBS1](../Page/EBS_1TV.md "wikilink")
   - 한국의 맛
-  - [한국인의 밥상](https://ko.wikipedia.org/wiki/한국인의_밥상 "wikilink")-[KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+  - [한국인의 밥상](../Page/한국인의_밥상.md "wikilink")-[KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
   - 한지붕 세가족
   - 해외 특선다큐
   - 행복한 오후
   - 활짝 청와대 이야기
-  - [허준](https://ko.wikipedia.org/wiki/허준 "wikilink")
+  - [허준](../Page/허준.md "wikilink")
   - 휴먼다큐 앞서가는 사람들
   - 희망로드 세계로
   - 희망의 새시대
   - 히스토리텔링 동행
   - 힐링다큐 한국의 섬
-  - [KTV 대한뉴스](https://ko.wikipedia.org/wiki/대한뉴스 "wikilink")
+  - [KTV 대한뉴스](../Page/대한뉴스.md "wikilink")
 
 ## 사옥
 
-  - [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [2월 28일](https://ko.wikipedia.org/wiki/2월_28일 "wikilink") : [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 역삼동 704-45
-  - [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") \~ [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") : [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 역삼동 704-45 KTV 사옥
-  - [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink") : [세종특별자치시](../Page/세종특별자치시.md "wikilink") 노을 4로 13 정부세종2청사 한국정책방송원 KTV
+  - [1991년](../Page/1991년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 역삼동 704-45
+  - [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") : [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 역삼동 704-45 KTV 사옥
+  - [2014년](../Page/2014년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") : [세종특별자치시](../Page/세종특별자치시.md "wikilink") 노을 4로 13 정부세종2청사 한국정책방송원 KTV
 
 ## 같이 보기
 
-  - [대한뉴스](https://ko.wikipedia.org/wiki/대한뉴스 "wikilink") (1953년 \~ 1994년)
+  - [대한뉴스](../Page/대한뉴스.md "wikilink") (1953년 \~ 1994년)
 
 ## 외부 링크
 

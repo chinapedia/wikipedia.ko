@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [NTT ](https://ko.wikipedia.org/wiki/NTT_).
 
 
-**NTT 그룹**()은 지주회사인 [일본전신전화](../Page/일본전신전화.md "wikilink") 주식회사를 중심으로 하는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 기업 집단 또는 그 전화 사업체 그룹을 가리킨다.
+**NTT 그룹**()은 지주회사인 [일본전신전화](../Page/일본전신전화.md "wikilink") 주식회사를 중심으로 하는 [일본](../Page/일본.md "wikilink")의 기업 집단 또는 그 전화 사업체 그룹을 가리킨다.
 
-NTT 그룹 협정 제2조에서 ‘따로 정하는 회사’(別に定める会社)는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") 현재 428개 사가 있다. 일본에서의 전화 사업체 그룹으로서의 NTT 그룹을 말할 때에는 [동일본 전신전화](../Page/동일본_전신전화.md "wikilink")(NTT 동일본)과 [서일본 전신전화](../Page/서일본_전신전화.md "wikilink")(NTT 서일본), [NTT 커뮤니케이션즈의](https://ko.wikipedia.org/wiki/NTT_커뮤니케이션즈 "wikilink") 3개사에 한정되지만, 기업 집단으로서의 NTT 그룹을 가리킬 때에는 [NTT 도코모와](https://ko.wikipedia.org/wiki/NTT_도코모 "wikilink") [NTT 데이터](../Page/NTT_데이터.md "wikilink") 등도 포함한다. 일반적으로 NTT 그룹의 주요 5개사로는 [동일본 전신전화](../Page/동일본_전신전화.md "wikilink"), [서일본 전신전화](../Page/서일본_전신전화.md "wikilink"), [NTT 커뮤니케이션즈](https://ko.wikipedia.org/wiki/NTT_커뮤니케이션즈 "wikilink"), [NTT 도코모](https://ko.wikipedia.org/wiki/NTT_도코모 "wikilink"), [NTT 데이터를](../Page/NTT_데이터.md "wikilink") 가리키고, 주요 8개사라고 할 때에는 위 5개사에 [NTT 도시개발](https://ko.wikipedia.org/wiki/NTT_도시개발 "wikilink"), [NTT 패실리티즈](https://ko.wikipedia.org/wiki/NTT_패실리티즈 "wikilink"), [NTT 컴웨어를](https://ko.wikipedia.org/wiki/NTT_컴웨어 "wikilink") 포함한다. 직원 규모나 연구 센터, 부동산 자산 등을 포함해 종합적으로 볼 때에는 일본 최대의 기업체이다.
+NTT 그룹 협정 제2조에서 ‘따로 정하는 회사’(別に定める会社)는 [2005년](../Page/2005년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 현재 428개 사가 있다. 일본에서의 전화 사업체 그룹으로서의 NTT 그룹을 말할 때에는 [동일본 전신전화](../Page/동일본_전신전화.md "wikilink")(NTT 동일본)과 [서일본 전신전화](../Page/서일본_전신전화.md "wikilink")(NTT 서일본), [NTT 커뮤니케이션즈의](https://ko.wikipedia.org/wiki/NTT_커뮤니케이션즈 "wikilink") 3개사에 한정되지만, 기업 집단으로서의 NTT 그룹을 가리킬 때에는 [NTT 도코모와](../Page/NTT_도코모.md "wikilink") [NTT 데이터](../Page/NTT_데이터.md "wikilink") 등도 포함한다. 일반적으로 NTT 그룹의 주요 5개사로는 [동일본 전신전화](../Page/동일본_전신전화.md "wikilink"), [서일본 전신전화](../Page/서일본_전신전화.md "wikilink"), [NTT 커뮤니케이션즈](https://ko.wikipedia.org/wiki/NTT_커뮤니케이션즈 "wikilink"), [NTT 도코모](../Page/NTT_도코모.md "wikilink"), [NTT 데이터를](../Page/NTT_데이터.md "wikilink") 가리키고, 주요 8개사라고 할 때에는 위 5개사에 [NTT 도시개발](https://ko.wikipedia.org/wiki/NTT_도시개발 "wikilink"), [NTT 패실리티즈](https://ko.wikipedia.org/wiki/NTT_패실리티즈 "wikilink"), [NTT 컴웨어를](https://ko.wikipedia.org/wiki/NTT_컴웨어 "wikilink") 포함한다. 직원 규모나 연구 센터, 부동산 자산 등을 포함해 종합적으로 볼 때에는 일본 최대의 기업체이다.
 
 ‘NTT ○○’라는 회사명은 등기상으로는 원칙적으로 ‘엔·티·티·○○’(エヌ·ティ·ティ·○○)이다.
 
@@ -13,7 +13,7 @@ NTT 그룹 협정 제2조에서 ‘따로 정하는 회사’(別に定める会
   - [동일본 전신전화](../Page/동일본_전신전화.md "wikilink") (NTT 동일본)
   - [서일본 전신전화](../Page/서일본_전신전화.md "wikilink") (NTT 서일본)
   - [NTT 커뮤니케이션즈](https://ko.wikipedia.org/wiki/NTT_커뮤니케이션즈 "wikilink")
-  - [NTT 도코모](https://ko.wikipedia.org/wiki/NTT_도코모 "wikilink")
+  - [NTT 도코모](../Page/NTT_도코모.md "wikilink")
   - [NTT 데이터](../Page/NTT_데이터.md "wikilink")
   - [NTT 도시개발](https://ko.wikipedia.org/wiki/NTT_도시개발 "wikilink")
   - [NTT 패실리티즈](https://ko.wikipedia.org/wiki/NTT_패실리티즈 "wikilink")
@@ -24,7 +24,7 @@ NTT 그룹 협정 제2조에서 ‘따로 정하는 회사’(別に定める会
 
 #### 일본전신전화 (지주회사)
 
-  - [NTT 캐피탈 (U.K.)주식회사](https://ko.wikipedia.org/wiki/NTT_캐피탈_\(U.K.\) "wikilink") ([영국](https://ko.wikipedia.org/wiki/영국 "wikilink"))
+  - [NTT 캐피탈 (U.K.)주식회사](https://ko.wikipedia.org/wiki/NTT_캐피탈_\(U.K.\) "wikilink") ([영국](../Page/영국.md "wikilink"))
   - [NTT 아이티](https://ko.wikipedia.org/wiki/NTT_아이티 "wikilink") - [NTT 아이티 주식회사](https://web.archive.org/web/20090416145748/http://www.ntt-it.co.jp/)
   - [NTT 애드](https://ko.wikipedia.org/wiki/NTT_애드 "wikilink") - [주식회사 NTT 애드](http://www.ntt-ad.co.jp)
   - [NTT 어드밴스테크놀로지](https://ko.wikipedia.org/wiki/NTT_어드밴스테크놀로지 "wikilink") - [NTT 어드밴스테크놀로지 주식회사](http://www.ntt-at.co.jp)
@@ -50,7 +50,7 @@ NTT 그룹 협정 제2조에서 ‘따로 정하는 회사’(別に定める会
 
   - [NTT-BP](https://ko.wikipedia.org/wiki/NTT_브로드밴드_플랫폼 "wikilink") - [NTT 브로드밴드 플랫폼 주식회사](http://www.ntt-bp.net)
   - [NTT-ME](https://ko.wikipedia.org/wiki/NTT-ME "wikilink") - [주식회사 NTT ME](http://www.ntt-me.co.jp)
-  - [NTT 스포츠 커뮤니티](https://ko.wikipedia.org/wiki/NTT_스포츠_커뮤니티 "wikilink") - [NTT 스포츠 커뮤니티 주식회사](http://www.ardija.co.jp) ([오미야 아르디자](https://ko.wikipedia.org/wiki/오미야_아르디자 "wikilink"))
+  - [NTT 스포츠 커뮤니티](https://ko.wikipedia.org/wiki/NTT_스포츠_커뮤니티 "wikilink") - [NTT 스포츠 커뮤니티 주식회사](http://www.ardija.co.jp) ([오미야 아르디자](../Page/오미야_아르디자.md "wikilink"))
   - [NTT 솔코](https://ko.wikipedia.org/wiki/NTT_솔코 "wikilink") - [주식회사 NTT 솔코](http://www.solco.co.jp)
 
 #### NTT 서일본

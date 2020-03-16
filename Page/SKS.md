@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [SKS](https://ko.wikipedia.org/wiki/SKS).
 
 
-[right](https://ko.wikipedia.org/wiki/파일:SKS_Flickr.jpg "wikilink") **1945년형 시모노프 자동급탄 기총**(, )는 [1945년](https://ko.wikipedia.org/wiki/1945년 "wikilink") [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")의 Sergei Gavrilovich Simonov에 의해 설계된 [반자동 소총이다](https://ko.wikipedia.org/wiki/반자동_소총 "wikilink"). [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 후 약 20\~30년간 [AK-47](../Page/AK-47.md "wikilink")과 함께 [소련군](https://ko.wikipedia.org/wiki/소련군 "wikilink") 표준 제식 화기로 널리 사용되었다. 소련군 내 [AK-47](../Page/AK-47.md "wikilink")과 AKM의 보급이 늘면서 점차 일선에서 사라지게 되었다.
+[right](https://ko.wikipedia.org/wiki/파일:SKS_Flickr.jpg "wikilink") **1945년형 시모노프 자동급탄 기총**(, )는 [1945년](../Page/1945년.md "wikilink") [소련](../Page/소련.md "wikilink")의 Sergei Gavrilovich Simonov에 의해 설계된 [반자동 소총이다](https://ko.wikipedia.org/wiki/반자동_소총 "wikilink"). [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 후 약 20\~30년간 [AK-47](../Page/AK-47.md "wikilink")과 함께 [소련군](../Page/소련군.md "wikilink") 표준 제식 화기로 널리 사용되었다. 소련군 내 [AK-47](../Page/AK-47.md "wikilink")과 AKM의 보급이 늘면서 점차 일선에서 사라지게 되었다.
 
 [7.62 x 39 mm](https://ko.wikipedia.org/wiki/7.62_x_39_mm "wikilink") 탄을 사용하며, [쇼트 스트로크 가스피스톤 방식](https://ko.wikipedia.org/wiki/쇼트_스트로크_가스피스톤_방식 "wikilink"), [틸팅 볼트 방식으로](https://ko.wikipedia.org/wiki/틸팅_볼트_방식 "wikilink") 동작한다.
 
 ## 변형
 
-[중국](https://ko.wikipedia.org/wiki/중국 "wikilink")에서는 중국 56식 소총으로, [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink")에서는 조선인민군 63식 보총으로 생산하였다.
+[중국](../Page/중국.md "wikilink")에서는 중국 56식 소총으로, [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")에서는 조선인민군 63식 보총으로 생산하였다.
 
 ## 관련뉴스
 

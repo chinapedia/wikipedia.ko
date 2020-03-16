@@ -290,7 +290,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/티에리_앙리" title="wikilink">티에리 앙리</a></p></td>
+<td><p><a href="../Page/티에리_앙리.md" title="wikilink">티에리 앙리</a></p></td>
 <td></td>
 <td><p>6</p></td>
 </tr>
@@ -301,7 +301,7 @@
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/안드리_솁첸코" title="wikilink">안드리 솁첸코</a></p></td>
+<td><p><a href="../Page/안드리_솁첸코.md" title="wikilink">안드리 솁첸코</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -314,7 +314,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/니콜라_아넬카" title="wikilink">니콜라 아넬카</a></p></td>
+<td><p><a href="../Page/니콜라_아넬카.md" title="wikilink">니콜라 아넬카</a></p></td>
 <td></td>
 <td><p>4</p></td>
 </tr>

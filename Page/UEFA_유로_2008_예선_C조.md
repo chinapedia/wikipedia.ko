@@ -292,18 +292,18 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스테펜_이베르센" title="wikilink">스테펜 이베르센</a></p></td>
+<td><p><a href="../Page/스테펜_이베르센.md" title="wikilink">스테펜 이베르센</a></p></td>
 <td></td>
 <td><p>7</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/테오파니스_게카스" title="wikilink">테오파니스 게카스</a></p></td>
+<td><p><a href="../Page/테오파니스_게카스.md" title="wikilink">테오파니스 게카스</a></p></td>
 <td></td>
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하칸_쉬퀴르" title="wikilink">하칸 쉬퀴르</a></p></td>
+<td><p><a href="../Page/하칸_쉬퀴르.md" title="wikilink">하칸 쉬퀴르</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -321,19 +321,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/게러_졸탄" title="wikilink">게러 졸탄</a></p></td>
+<td><p><a href="../Page/게러_졸탄.md" title="wikilink">게러 졸탄</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/즈베즈단_미시모비치" title="wikilink">즈베즈단 미시모비치</a></p></td>
+<td><p><a href="../Page/즈베즈단_미시모비치.md" title="wikilink">즈베즈단 미시모비치</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/즐라탄_무슬리모비치" title="wikilink">즐라탄 무슬리모비치</a></p></td>
+<td><p><a href="../Page/즐라탄_무슬리모비치.md" title="wikilink">즐라탄 무슬리모비치</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -351,13 +351,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/앙겔로스_하리스테아스" title="wikilink">앙겔로스 하리스테아스</a></p></td>
+<td><p><a href="../Page/앙겔로스_하리스테아스.md" title="wikilink">앙겔로스 하리스테아스</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/니하트_카흐베지" title="wikilink">니하트 카흐베지</a></p></td>
+<td><p><a href="../Page/니하트_카흐베지.md" title="wikilink">니하트 카흐베지</a></p></td>
 <td></td>
 <td></td>
 <td></td>

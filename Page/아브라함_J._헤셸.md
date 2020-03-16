@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
 
 
-**아브라함 J. 헤셸**(Abraham Joshua Heschel, [1907년](https://ko.wikipedia.org/wiki/1907년 "wikilink")\~[1972년](https://ko.wikipedia.org/wiki/1972년 "wikilink"))은 20세기에 활동한 [유대교](https://ko.wikipedia.org/wiki/유대교 "wikilink") [신학자](https://ko.wikipedia.org/wiki/신학자 "wikilink")이자 [랍비](https://ko.wikipedia.org/wiki/랍비 "wikilink")이다.
+**아브라함 J. 헤셸**(Abraham Joshua Heschel, [1907년](../Page/1907년.md "wikilink")\~[1972년](../Page/1972년.md "wikilink"))은 20세기에 활동한 [유대교](../Page/유대교.md "wikilink") [신학자](https://ko.wikipedia.org/wiki/신학자 "wikilink")이자 [랍비](https://ko.wikipedia.org/wiki/랍비 "wikilink")이다.
 
 ## 삶
 
@@ -15,7 +15,7 @@
 
 ### 미국
 
-[나치](https://ko.wikipedia.org/wiki/나치 "wikilink")의 [유대인 박해로부터](https://ko.wikipedia.org/wiki/홀로코스트 "wikilink") 탈출하여 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")으로 갔다가 [1940년](https://ko.wikipedia.org/wiki/1940년 "wikilink") [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")으로 망명하여, 신시내티에 있는 개혁적 유대교의 주요한 신학교인 헤브루 유니온 대학(HUC)에서 5년간 활동하였다. 헤브루 유니온 대학교(HUC)에서 유대교 율법을 제대로 준수하지 않아 불쾌한 일이 갈수록 늘어가자, 헤셸은 여전히 유대교 율법을 표준적으로 지키면서도 성서에 대한 비판적이고 현대 학문적 접근이 허용되는 학술기관을 찾으려고 했다. 1946년에 보수적인 유대교의 주요한 학교인 뉴욕 유대 신학교를 알게 되었다. 그는 유대교 윤리와 신비주의를 가르치는 교수직을 맡아, 이후 1972년 별세할 때까지 뉴욕 유대 신학교(Jewish Theological Seminary of America (JTS))에서 가르쳤다.
+[나치](https://ko.wikipedia.org/wiki/나치 "wikilink")의 [유대인 박해로부터](../Page/홀로코스트.md "wikilink") 탈출하여 [영국](../Page/영국.md "wikilink")으로 갔다가 [1940년](../Page/1940년.md "wikilink") [미국](../Page/미국.md "wikilink")으로 망명하여, 신시내티에 있는 개혁적 유대교의 주요한 신학교인 헤브루 유니온 대학(HUC)에서 5년간 활동하였다. 헤브루 유니온 대학교(HUC)에서 유대교 율법을 제대로 준수하지 않아 불쾌한 일이 갈수록 늘어가자, 헤셸은 여전히 유대교 율법을 표준적으로 지키면서도 성서에 대한 비판적이고 현대 학문적 접근이 허용되는 학술기관을 찾으려고 했다. 1946년에 보수적인 유대교의 주요한 학교인 뉴욕 유대 신학교를 알게 되었다. 그는 유대교 윤리와 신비주의를 가르치는 교수직을 맡아, 이후 1972년 별세할 때까지 뉴욕 유대 신학교(Jewish Theological Seminary of America (JTS))에서 가르쳤다.
 
 하지만 헤셸에게는 뉴욕 유대 신학교(JTS)도 역시 완전히 어울리는 곳은 아니었다. 그는 뉴욕 유대 신학교(JTS)에서 학자들의 전공인 비판적 본문 연구보다, 영성에 더 많은 관심을 지니고 있었다. 유사한 불협화음이 그와 JTS 교수단의 대부분 사이에서 생겨나 서로의 관계를 단절시켰는데, 그런 사태는 헤셸이 유대 예언자들과 사회정의에 대해 지니고 있던 견해 때문에 일어났다. 헤셸은 유대 예언자들의 가르침이 미국에서의 사회적 참여를 요청하는 나팔소리와 같다고 보았지만, 당시 대부분의 JTS 교수들은 그의 사회적 행동주의를 중요하지 않다고 결론 내렸다. 그들은 자신들이 할 일은 학문연구와 교육이라고 생각했으며, 헤셸과 달리 종교계 랍비이자 평신도로서의 사회적 참여는 하지 않았다.
 

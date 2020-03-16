@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Wink \(  \)](https://ko.wikipedia.org/wiki/Wink_\(__\)).
 
 
-**Wink**(**윙크**)는 1980년대 후반부터 1990년 중반까지 활약했던 일본의 대표적인 여성 가수로 [스즈키 사치코](https://ko.wikipedia.org/wiki/스즈키_사치코 "wikilink")(鈴木早智子), [아이다 쇼코](https://ko.wikipedia.org/wiki/아이다_쇼코 "wikilink")(相田翔子)의 듀엣이다.
+**Wink**(**윙크**)는 1980년대 후반부터 1990년 중반까지 활약했던 일본의 대표적인 여성 가수로 [스즈키 사치코](../Page/스즈키_사치코.md "wikilink")(鈴木早智子), [아이다 쇼코](../Page/아이다_쇼코.md "wikilink")(相田翔子)의 듀엣이다.
 
 ## 약력 및 특징
 

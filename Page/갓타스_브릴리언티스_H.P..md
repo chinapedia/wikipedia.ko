@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [  H.P.](https://ko.wikipedia.org/wiki/__H.P.).
 
 
-**갓타스 브릴리언티스 H.P.**(Gatas Brilhantes H.P.)는 [헬로\! 프로젝트의](https://ko.wikipedia.org/wiki/헬로!_프로젝트 "wikilink") 멤버들로 구성된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [풋살](https://ko.wikipedia.org/wiki/풋살 "wikilink") 팀이다. 갓타스 브릴리언티스(Gatas Brilhantes)는 [포르투갈어](https://ko.wikipedia.org/wiki/포르투갈어 "wikilink")로 직역하면 **빛나는 고양이들**, 의역하면 **멋진 여성들**이라는 뜻이며 H.P.는 Hello\! Project의 약자이다. 약칭은 **갓타스**이다. [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")에 활동을 휴지했다.
+**갓타스 브릴리언티스 H.P.**(Gatas Brilhantes H.P.)는 [헬로\! 프로젝트의](../Page/헬로!_프로젝트.md "wikilink") 멤버들로 구성된 [일본](../Page/일본.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 팀이다. 갓타스 브릴리언티스(Gatas Brilhantes)는 [포르투갈어](../Page/포르투갈어.md "wikilink")로 직역하면 **빛나는 고양이들**, 의역하면 **멋진 여성들**이라는 뜻이며 H.P.는 Hello\! Project의 약자이다. 약칭은 **갓타스**이다. [2015년](../Page/2015년.md "wikilink") [3월](../Page/3월.md "wikilink")에 활동을 휴지했다.
 
 ## 특징
 
   - [일본 축구 협회가](https://ko.wikipedia.org/wiki/일본_축구_협회 "wikilink") [2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 후, 여자 축구 풋살 보급 활동의 일환으로써 전면 협력하고 있다. 노래에 의한 협력이 아닌 실제로 팀을 결성하여 경기를 해 나감으로써 보급 활동에 크게 공헌하고 있다.
-  - [AFC](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") 여자 축구 [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink") 예선 2004의 조 추첨식 드로어로 발탁되는 등 다방면에서 활동하고 있다. 그 때문에 일본 여자 축구 국가 대표인 나데시코 재팬과는 교류가 많다.
+  - [AFC](../Page/아시아_축구_연맹.md "wikilink") 여자 축구 [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink") 예선 2004의 조 추첨식 드로어로 발탁되는 등 다방면에서 활동하고 있다. 그 때문에 일본 여자 축구 국가 대표인 나데시코 재팬과는 교류가 많다.
   - Chakuchaku J.b의 전신팀인 L.A. Angel과 함께 연예인 여자 풋살의 선구자이다.
-  - 창설 당시에는 초심자 수준이었기 때문에 일반 풋살 팀으로부터는 비판적인 의견과 보급의 일환으로써 호의적으로 받아들이는 의견으로 나뉘었다. 하지만 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 이후에는 기술 향상과 진지하게 경기에 임하는 자세를 평가하는 의견도 보인다.
+  - 창설 당시에는 초심자 수준이었기 때문에 일반 풋살 팀으로부터는 비판적인 의견과 보급의 일환으로써 호의적으로 받아들이는 의견으로 나뉘었다. 하지만 [2005년](../Page/2005년.md "wikilink") 이후에는 기술 향상과 진지하게 경기에 임하는 자세를 평가하는 의견도 보인다.
   - 다른 팀에 비해 압도적인 관중 동원력이 있기 때문에 대부분의 경기에서 홈그라운드 게임과 같은 상태가 된다.
-  - 총 선수 수는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink") 현재, 발촉 당시부터의 멤버 3명, 그 후 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")에 추가된 멤버 2명([후지모토 미키](https://ko.wikipedia.org/wiki/후지모토_미키 "wikilink") · [코레나가 미키](https://ko.wikipedia.org/wiki/코레나가_미키 "wikilink"))과 [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [4월](https://ko.wikipedia.org/wiki/4월 "wikilink")에 유스 팀에서 승격한 2명([야지마 마이미](https://ko.wikipedia.org/wiki/야지마_마이미 "wikilink") · [오카이 치사토](https://ko.wikipedia.org/wiki/오카이_치사토 "wikilink")), 그 해 [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")에 가입한 전 [하로프로에그](https://ko.wikipedia.org/wiki/하로프로에그 "wikilink")에서 가입한 1명([센코쿠 미나미](https://ko.wikipedia.org/wiki/센코쿠_미나미 "wikilink")), 8월에 오디션으로 합격한 2명, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")에 오디션으로 합격한 1명([야구치 메구미](https://ko.wikipedia.org/wiki/야구치_메구미 "wikilink")), 동년 1월에 [업업걸즈(가)](https://ko.wikipedia.org/wiki/업업걸즈\(가\) "wikilink")에서 가입한 4명, 동년 7월에 가입한 1명([오노 리사](https://ko.wikipedia.org/wiki/오노_리사_\(1993년\) "wikilink"))의 합계 16명이다.
-  - 공식 이미지송은 [모닝구무스메](https://ko.wikipedia.org/wiki/모닝구무스메 "wikilink")。의〈Go Girl\~恋のヴィクトリー\~〉와 [온가쿠갓타스](../Page/온가쿠갓타스.md "wikilink")의〈鳴り始めた恋のBell〉이다.
-  - 《Gatas Brilhantes H.P.》와《ガッタス ブリリャンチス H.P.》는 [주식회사](https://ko.wikipedia.org/wiki/주식회사 "wikilink") [업프런트 그룹의](https://ko.wikipedia.org/wiki/업프런트_그룹 "wikilink") 등록상표(등록번호 제4817904호)이며,《ガッタスブリリャンチス》,《ガッタスブリリャンテス》,《ガッタス》,《ブリリャンチス》,《ブリリャンテス》,《ギャッタス》이다. 모두 존속 만료일은 [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink")이다.
+  - 총 선수 수는 [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink") 현재, 발촉 당시부터의 멤버 3명, 그 후 [2004년](../Page/2004년.md "wikilink")에 추가된 멤버 2명([후지모토 미키](../Page/후지모토_미키.md "wikilink") · [코레나가 미키](https://ko.wikipedia.org/wiki/코레나가_미키 "wikilink"))과 [2007년](../Page/2007년.md "wikilink") [4월](../Page/4월.md "wikilink")에 유스 팀에서 승격한 2명([야지마 마이미](../Page/야지마_마이미.md "wikilink") · [오카이 치사토](https://ko.wikipedia.org/wiki/오카이_치사토 "wikilink")), 그 해 [6월](../Page/6월.md "wikilink")에 가입한 전 [하로프로에그](https://ko.wikipedia.org/wiki/하로프로에그 "wikilink")에서 가입한 1명([센코쿠 미나미](https://ko.wikipedia.org/wiki/센코쿠_미나미 "wikilink")), 8월에 오디션으로 합격한 2명, [2009년](../Page/2009년.md "wikilink") [5월](../Page/5월.md "wikilink")에 오디션으로 합격한 1명([야구치 메구미](https://ko.wikipedia.org/wiki/야구치_메구미 "wikilink")), 동년 1월에 [업업걸즈(가)](https://ko.wikipedia.org/wiki/업업걸즈\(가\) "wikilink")에서 가입한 4명, 동년 7월에 가입한 1명([오노 리사](https://ko.wikipedia.org/wiki/오노_리사_\(1993년\) "wikilink"))의 합계 16명이다.
+  - 공식 이미지송은 [모닝구무스메](../Page/모닝구무스메.md "wikilink")。의〈Go Girl\~恋のヴィクトリー\~〉와 [온가쿠갓타스](../Page/온가쿠갓타스.md "wikilink")의〈鳴り始めた恋のBell〉이다.
+  - 《Gatas Brilhantes H.P.》와《ガッタス ブリリャンチス H.P.》는 [주식회사](../Page/주식회사.md "wikilink") [업프런트 그룹의](https://ko.wikipedia.org/wiki/업프런트_그룹 "wikilink") 등록상표(등록번호 제4817904호)이며,《ガッタスブリリャンチス》,《ガッタスブリリャンテス》,《ガッタス》,《ブリリャンチス》,《ブリリャンテス》,《ギャッタス》이다. 모두 존속 만료일은 [2014년](../Page/2014년.md "wikilink")이다.
 
 ## 멤버
 
@@ -374,17 +374,17 @@
 </tbody>
 </table>
 
-상기 이외에 등번호는 없기는 하지만, [츠구나가 모모코](https://ko.wikipedia.org/wiki/츠구나가_모모코 "wikilink") · [쿠마이 유리나](https://ko.wikipedia.org/wiki/쿠마이_유리나 "wikilink") · [스가야 리사코의](../Page/스가야_리사코.md "wikilink") 3명에 대해서도 2007년 4월 리틀 갓타스로부터 승격해, 2008년 8월까지 공식 사이트에 대해 멤버로서 게재되고 있었다.
+상기 이외에 등번호는 없기는 하지만, [츠구나가 모모코](../Page/츠구나가_모모코.md "wikilink") · [쿠마이 유리나](../Page/쿠마이_유리나.md "wikilink") · [스가야 리사코의](../Page/스가야_리사코.md "wikilink") 3명에 대해서도 2007년 4월 리틀 갓타스로부터 승격해, 2008년 8월까지 공식 사이트에 대해 멤버로서 게재되고 있었다.
 
 ### 주장 · 부주장
 
 #### 주장
 
-  - 초대 [요시자와 히토미](https://ko.wikipedia.org/wiki/요시자와_히토미 "wikilink") (2004년 1월 20일 \~ 2018년 9월 28일)
+  - 초대 [요시자와 히토미](../Page/요시자와_히토미.md "wikilink") (2004년 1월 20일 \~ 2018년 9월 28일)
 
 #### 부주장
 
-  - 초대 [후지모토 미키](https://ko.wikipedia.org/wiki/후지모토_미키 "wikilink") (2004년 4월 7일 \~ 2018년 9월 28일)
+  - 초대 [후지모토 미키](../Page/후지모토_미키.md "wikilink") (2004년 4월 7일 \~ 2018년 9월 28일)
 
 ## 리틀 갓타스
 
@@ -417,7 +417,7 @@
 <td><p>7</p></td>
 <td><p><strong>1</strong></p></td>
 <td><p>GK</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스도우_마아사" title="wikilink">스도우 마아사</a></p></td>
+<td><p><a href="../Page/스도우_마아사.md" title="wikilink">스도우 마아사</a></p></td>
 <td><p><a href="../Page/Berryz코보.md" title="wikilink">Berryz코보</a></p></td>
 <td><p>○</p></td>
 </tr>
@@ -426,14 +426,14 @@
 <td><p><strong>2</strong></p></td>
 <td><p>FP</p></td>
 <td><p><a href="../Page/스즈키_아이리.md" title="wikilink">스즈키 아이리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/℃-ute" title="wikilink">℃-ute</a></p></td>
+<td><p><a href="../Page/℃-ute.md" title="wikilink">℃-ute</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p><strong>3</strong></p></td>
 <td><p>FP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나카지마_사키_(가수)" title="wikilink">나카지마 사키</a></p></td>
+<td><p><a href="../Page/나카지마_사키_(가수).md" title="wikilink">나카지마 사키</a></p></td>
 <td><p>℃-ute</p></td>
 <td><p>○</p></td>
 </tr>
@@ -441,7 +441,7 @@
 <td><p>1</p></td>
 <td><p><strong>4</strong></p></td>
 <td><p>FP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/츠구나가_모모코" title="wikilink">츠구나가 모모코</a></p></td>
+<td><p><a href="../Page/츠구나가_모모코.md" title="wikilink">츠구나가 모모코</a></p></td>
 <td><p>Berryz코보</p></td>
 <td><p>×</p></td>
 </tr>
@@ -449,7 +449,7 @@
 <td><p>4</p></td>
 <td><p><strong>5</strong></p></td>
 <td><p>FP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/야지마_마이미" title="wikilink">야지마 마이미</a></p></td>
+<td><p><a href="../Page/야지마_마이미.md" title="wikilink">야지마 마이미</a></p></td>
 <td><p>℃-ute</p></td>
 <td><p>○</p></td>
 </tr>
@@ -457,7 +457,7 @@
 <td><p>8</p></td>
 <td><p><strong>7</strong></p></td>
 <td><p>FP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나츠야키_미야비" title="wikilink">나츠야키 미야비</a></p></td>
+<td><p><a href="../Page/나츠야키_미야비.md" title="wikilink">나츠야키 미야비</a></p></td>
 <td><p>Berryz코보</p></td>
 <td><p>○</p></td>
 </tr>
@@ -473,7 +473,7 @@
 <td><p>10</p></td>
 <td><p><strong>9</strong></p></td>
 <td><p>FP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠마이_유리나" title="wikilink">쿠마이 유리나</a></p></td>
+<td><p><a href="../Page/쿠마이_유리나.md" title="wikilink">쿠마이 유리나</a></p></td>
 <td><p>Berryz코보</p></td>
 <td><p>×</p></td>
 </tr>
@@ -481,7 +481,7 @@
 <td><p>15</p></td>
 <td><p><strong>10</strong></p></td>
 <td><p>FP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하기와라_마이" title="wikilink">하기와라 마이</a></p></td>
+<td><p><a href="../Page/하기와라_마이.md" title="wikilink">하기와라 마이</a></p></td>
 <td><p>℃-ute</p></td>
 <td><p>●</p></td>
 </tr>
@@ -489,7 +489,7 @@
 <td><p>3</p></td>
 <td><p><strong>11</strong></p></td>
 <td><p>FP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시미즈_사키" title="wikilink">시미즈 사키</a></p></td>
+<td><p><a href="../Page/시미즈_사키.md" title="wikilink">시미즈 사키</a></p></td>
 <td><p>Berryz코보</p></td>
 <td><p>○</p></td>
 </tr>
@@ -497,7 +497,7 @@
 <td><p>2</p></td>
 <td><p><strong>12</strong></p></td>
 <td><p>GK</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우메다_에리카" title="wikilink">우메다 에리카</a></p></td>
+<td><p><a href="../Page/우메다_에리카.md" title="wikilink">우메다 에리카</a></p></td>
 <td><p>전 ℃-ute</p></td>
 <td><p>○</p></td>
 </tr>
@@ -513,7 +513,7 @@
 <td><p>5</p></td>
 <td><p><strong>14</strong></p></td>
 <td><p>FP</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토쿠나가_치나미" title="wikilink">토쿠나가 치나미</a></p></td>
+<td><p><a href="../Page/토쿠나가_치나미.md" title="wikilink">토쿠나가 치나미</a></p></td>
 <td><p>Berryz코보</p></td>
 <td><p>○</p></td>
 </tr>
@@ -586,20 +586,20 @@
 
 ### 멤버
 
-| 등번호 | 포지션 | 이름                                                                 | 소속                                                           | 비고 |
-| --- | --- | ------------------------------------------------------------------ | ------------------------------------------------------------ | -- |
-| 1   | GK  | [스도우 마아사](https://ko.wikipedia.org/wiki/스도우_마아사 "wikilink")        | [Berryz코보](../Page/Berryz코보.md "wikilink")                   |    |
-| 3   | FP  | [나카지마 사키](https://ko.wikipedia.org/wiki/나카지마_사키_\(가수\) "wikilink") | [℃-ute](https://ko.wikipedia.org/wiki/℃-ute "wikilink")      |    |
-| 4   | FP  | [미우나](https://ko.wikipedia.org/wiki/사이토_미우나 "wikilink")            | 전 [컨트리무스메](https://ko.wikipedia.org/wiki/컨트리무스메 "wikilink")。 | 주장 |
-| 5   | FP  | [야지마 마이미](https://ko.wikipedia.org/wiki/야지마_마이미 "wikilink")        | ℃-ute                                                        |    |
-| 6   | FP  | [무라카미 메구미](../Page/무라카미_메구미.md "wikilink")                         | 전 ℃-ute                                                      |    |
-| 8   | FP  | [아사미](https://ko.wikipedia.org/wiki/기무라_아사미 "wikilink")            | 전 컨트리무스메。                                                    |    |
-| 10  | FP  | [시미즈 사키](https://ko.wikipedia.org/wiki/시미즈_사키 "wikilink")          | Berryz코보                                                     |    |
-| 11  | FP  | [사토다 마이](https://ko.wikipedia.org/wiki/사토다_마이 "wikilink")          | 컨트리무스메。                                                      |    |
-| 12  | GK  | [우메다 에리카](https://ko.wikipedia.org/wiki/우메다_에리카 "wikilink")        | 전 ℃-ute                                                      |    |
-| 14  | FP  | [토쿠나가 치나미](https://ko.wikipedia.org/wiki/토쿠나가_치나미 "wikilink")      | Berryz코보                                                     |    |
-| 15  | FP  | [무토 미카](https://ko.wikipedia.org/wiki/무토_미카 "wikilink")            | 전 하로프로에그                                                     |    |
-| 16  | FP  | [심민](https://ko.wikipedia.org/wiki/심민 "wikilink")                  | 전 하로프로유학생                                                    |    |
+| 등번호 | 포지션 | 이름                                                      | 소속                                                           | 비고 |
+| --- | --- | ------------------------------------------------------- | ------------------------------------------------------------ | -- |
+| 1   | GK  | [스도우 마아사](../Page/스도우_마아사.md "wikilink")                | [Berryz코보](../Page/Berryz코보.md "wikilink")                   |    |
+| 3   | FP  | [나카지마 사키](../Page/나카지마_사키_\(가수\).md "wikilink")         | [℃-ute](../Page/℃-ute.md "wikilink")                         |    |
+| 4   | FP  | [미우나](https://ko.wikipedia.org/wiki/사이토_미우나 "wikilink") | 전 [컨트리무스메](https://ko.wikipedia.org/wiki/컨트리무스메 "wikilink")。 | 주장 |
+| 5   | FP  | [야지마 마이미](../Page/야지마_마이미.md "wikilink")                | ℃-ute                                                        |    |
+| 6   | FP  | [무라카미 메구미](../Page/무라카미_메구미.md "wikilink")              | 전 ℃-ute                                                      |    |
+| 8   | FP  | [아사미](https://ko.wikipedia.org/wiki/기무라_아사미 "wikilink") | 전 컨트리무스메。                                                    |    |
+| 10  | FP  | [시미즈 사키](../Page/시미즈_사키.md "wikilink")                  | Berryz코보                                                     |    |
+| 11  | FP  | [사토다 마이](../Page/사토다_마이.md "wikilink")                  | 컨트리무스메。                                                      |    |
+| 12  | GK  | [우메다 에리카](../Page/우메다_에리카.md "wikilink")                | 전 ℃-ute                                                      |    |
+| 14  | FP  | [토쿠나가 치나미](../Page/토쿠나가_치나미.md "wikilink")              | Berryz코보                                                     |    |
+| 15  | FP  | [무토 미카](https://ko.wikipedia.org/wiki/무토_미카 "wikilink") | 전 하로프로에그                                                     |    |
+| 16  | FP  | [심민](../Page/심민.md "wikilink")                          | 전 하로프로유학생                                                    |    |
 
 ## 외부 링크
 

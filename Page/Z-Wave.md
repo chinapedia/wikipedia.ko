@@ -5,7 +5,7 @@
 
 ## 역사
 
-Z-Wave 프로토콜은 2001 년 [코펜하겐](https://ko.wikipedia.org/wiki/코펜하겐 "wikilink")에 본사를 둔 [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink") 회사 Zensys에 의해 개발되었다.\[7\]\[8\] 그 해 Zensys는 900MHz 범위의 비허가 주파수 대역에서 독점적 시스템 온 칩(SoC) 홈 오토메이션 프로토콜인 Z-Wave로 진화한 소비자 조명 제어 시스템을 발표했다.\[9\] 100 시리즈 칩셋은 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink")에 출시되었으며, 200 시리즈는 저렴한 비용으로 고성능을 제공하는 ZW0201 칩과 함께 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 5월에 출시되었다.\[10\]\[11\] Z-Wave Plus라고도하는 500 시리즈 칩은 2013 년 3 월에 출시되어 메모리가 4 배 증가하고 무선 범위가 개선되며 배터리 수명이 개선되었다.\[12\] Danfoss, Ingersoll-Rand 및 Leviton Manufacturing을 포함한 5 개의 회사가 Z-Wave를 채택한 2005 년 경에 북미 지역에 기술이 적용되기 시작했다.\[13\] 그들은 Z-Wave 기술의 사용을 촉진과 얼라이언스의 모든 제품이 상호 운용을 가능하게 하기 위해 Z-Wave 얼라이언스를 구성했다.\[14\]\[15\]2005 년 Bessemer Venture Partners는 Zensys에 대해 1 천 600 만 달러의 제 3의 시드 라운드를 이끌었다.\[16\] 2006년 5 월 인텔 캐피탈은 Intel이 Z-Wave Alliance에 합류 한 지 며칠 후 Zensys에 투자하고 있다고 발표했다. 2008 년 Zensys는 [파나소닉](https://ko.wikipedia.org/wiki/파나소닉 "wikilink"), [시스코 시스템즈](https://ko.wikipedia.org/wiki/시스코 "wikilink"), Palamon Capital Partners 및 Sunstone Capital에서 투자를 받았다.\[17\]
+Z-Wave 프로토콜은 2001 년 [코펜하겐](../Page/코펜하겐.md "wikilink")에 본사를 둔 [덴마크](../Page/덴마크.md "wikilink") 회사 Zensys에 의해 개발되었다.\[7\]\[8\] 그 해 Zensys는 900MHz 범위의 비허가 주파수 대역에서 독점적 시스템 온 칩(SoC) 홈 오토메이션 프로토콜인 Z-Wave로 진화한 소비자 조명 제어 시스템을 발표했다.\[9\] 100 시리즈 칩셋은 [2003년](../Page/2003년.md "wikilink")에 출시되었으며, 200 시리즈는 저렴한 비용으로 고성능을 제공하는 ZW0201 칩과 함께 [2005년](../Page/2005년.md "wikilink") 5월에 출시되었다.\[10\]\[11\] Z-Wave Plus라고도하는 500 시리즈 칩은 2013 년 3 월에 출시되어 메모리가 4 배 증가하고 무선 범위가 개선되며 배터리 수명이 개선되었다.\[12\] Danfoss, Ingersoll-Rand 및 Leviton Manufacturing을 포함한 5 개의 회사가 Z-Wave를 채택한 2005 년 경에 북미 지역에 기술이 적용되기 시작했다.\[13\] 그들은 Z-Wave 기술의 사용을 촉진과 얼라이언스의 모든 제품이 상호 운용을 가능하게 하기 위해 Z-Wave 얼라이언스를 구성했다.\[14\]\[15\]2005 년 Bessemer Venture Partners는 Zensys에 대해 1 천 600 만 달러의 제 3의 시드 라운드를 이끌었다.\[16\] 2006년 5 월 인텔 캐피탈은 Intel이 Z-Wave Alliance에 합류 한 지 며칠 후 Zensys에 투자하고 있다고 발표했다. 2008 년 Zensys는 [파나소닉](../Page/파나소닉.md "wikilink"), [시스코 시스템즈](https://ko.wikipedia.org/wiki/시스코 "wikilink"), Palamon Capital Partners 및 Sunstone Capital에서 투자를 받았다.\[17\]
 
 Z-Wave는 2008 년 12 월 Sigma Designs에 인수되었다.\[18\]\[19\] 인수 후 캘리포니아 프리 몬트에있는 Z-Wave의 미국 본사가 캘리포니아 주 밀피 타스에있는 시그마 본사와 합병되었다.\[20\]\[21\]
 
@@ -47,7 +47,7 @@ Z-Wave는 450 명 이상의 회원으로 구성된 Z-Wave 얼라이언스의 다
       - 남아프리카공화국: 868.4 MHz
       - 아랍에미리트연방(UAE): 868.4 MHz
       - 미국/캐나다: 908.4 MHz
-      - [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink"): 920.9 MHz, 921.7 MHz, 923.1 MHz\[36\] (국내는 RFID/USN 주파수대역 내에서 20, 24, 31번 채널 사용)
+      - [대한민국](../Page/대한민국.md "wikilink"): 920.9 MHz, 921.7 MHz, 923.1 MHz\[36\] (국내는 RFID/USN 주파수대역 내에서 20, 24, 31번 채널 사용)
 
 ## 토폴로지 및 라우팅
 

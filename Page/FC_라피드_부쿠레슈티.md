@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 라피드 부쿠레슈티**(AFC Rapid Bucureşti) 는 [부쿠레슈티](https://ko.wikipedia.org/wiki/부쿠레슈티 "wikilink")를 연고로 하는 [루마니아](https://ko.wikipedia.org/wiki/루마니아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 이 축구단은 [1923년](https://ko.wikipedia.org/wiki/1923년 "wikilink") 창단되었다. 현재 [리가 I에](https://ko.wikipedia.org/wiki/리가_I "wikilink") 속해 있으며 2007-08시즌은 3위로 마감하였다.
+**FC 라피드 부쿠레슈티**(AFC Rapid Bucureşti) 는 [부쿠레슈티](../Page/부쿠레슈티.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 이 축구단은 [1923년](../Page/1923년.md "wikilink") 창단되었다. 현재 [리가 I에](../Page/리가_I.md "wikilink") 속해 있으며 2007-08시즌은 3위로 마감하였다.
 
 라피드는 루마니아 리그 4회 우승 기록이 있는데 1941-42시즌은 2차 대전 기간 동안 이루어진 것이라 공식 기록으로 인정되지 않는다.
 
 ## 역대 성적
 
-  - **[루마니아 챔피언십](https://ko.wikipedia.org/wiki/리가_I "wikilink") : 4**
+  - **[루마니아 챔피언십](../Page/리가_I.md "wikilink") : 4**
 
 <!-- end list -->
 

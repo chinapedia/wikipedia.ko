@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ABC \( \)](https://ko.wikipedia.org/wiki/ABC_\(_\)).
 
 
-**ABC**는 범용의 [명령형](https://ko.wikipedia.org/wiki/명령형_프로그래밍 "wikilink") 컴퓨터 [프로그래밍 언어이면서](https://ko.wikipedia.org/wiki/프로그래밍_언어 "wikilink") 프로그래밍 환경이다. ABC는 [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") [CWI](https://ko.wikipedia.org/wiki/CWI "wikilink")(Centrum voor Wiskunde en Informatica)의 [레오 회르츠](https://ko.wikipedia.org/wiki/레오_회르츠 "wikilink"), [람베르트 메르텐스](https://ko.wikipedia.org/wiki/람베르트_메르텐스 "wikilink"), [스티븐 펨버턴이](https://ko.wikipedia.org/wiki/스티븐_펨버턴 "wikilink") 개발하였다. ABC는 상호작용적이고 [구조적](https://ko.wikipedia.org/wiki/구조적 "wikilink")인 [고수준 언어로](https://ko.wikipedia.org/wiki/고수준_언어 "wikilink"), 배우고 쓰기 쉽고, [베이직](https://ko.wikipedia.org/wiki/베이직 "wikilink"), [파스칼](https://ko.wikipedia.org/wiki/파스칼_\(프로그래밍_언어\) "wikilink") 등을 대체할 목적으로 만들어졌다.
+**ABC**는 범용의 [명령형](../Page/명령형_프로그래밍.md "wikilink") 컴퓨터 [프로그래밍 언어이면서](../Page/프로그래밍_언어.md "wikilink") 프로그래밍 환경이다. ABC는 [네덜란드](../Page/네덜란드.md "wikilink") [CWI](https://ko.wikipedia.org/wiki/CWI "wikilink")(Centrum voor Wiskunde en Informatica)의 [레오 회르츠](https://ko.wikipedia.org/wiki/레오_회르츠 "wikilink"), [람베르트 메르텐스](https://ko.wikipedia.org/wiki/람베르트_메르텐스 "wikilink"), [스티븐 펨버턴이](https://ko.wikipedia.org/wiki/스티븐_펨버턴 "wikilink") 개발하였다. ABC는 상호작용적이고 [구조적](https://ko.wikipedia.org/wiki/구조적 "wikilink")인 [고수준 언어로](https://ko.wikipedia.org/wiki/고수준_언어 "wikilink"), 배우고 쓰기 쉽고, [베이직](../Page/베이직.md "wikilink"), [파스칼](../Page/파스칼_\(프로그래밍_언어\).md "wikilink") 등을 대체할 목적으로 만들어졌다.
 
-ABC는 수, 문자열, 리스트, 순서조, 배열의 다섯 가지 데이터 형을 가지고 있으며, 변수 선언은 필요 없다. [하향식 프로그래밍을](https://ko.wikipedia.org/wiki/하향식_프로그래밍 "wikilink") 지원하며 블록 구조는 들여쓰기로 이루어진다. [무한정밀도 연산을](https://ko.wikipedia.org/wiki/무한정밀도_연산 "wikilink") 지원하며 [리스트와](https://ko.wikipedia.org/wiki/리스트_\(컴퓨팅\) "wikilink") [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink")의 길이에 제한이 없다.
+ABC는 수, 문자열, 리스트, 순서조, 배열의 다섯 가지 데이터 형을 가지고 있으며, 변수 선언은 필요 없다. [하향식 프로그래밍을](https://ko.wikipedia.org/wiki/하향식_프로그래밍 "wikilink") 지원하며 블록 구조는 들여쓰기로 이루어진다. [무한정밀도 연산을](https://ko.wikipedia.org/wiki/무한정밀도_연산 "wikilink") 지원하며 [리스트와](../Page/리스트_\(컴퓨팅\).md "wikilink") [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink")의 길이에 제한이 없다.
 
-ABC는 현재 [인터프리터](https://ko.wikipedia.org/wiki/인터프리터 "wikilink")/[컴파일러](https://ko.wikipedia.org/wiki/컴파일러 "wikilink") 모두 가능하며, [유닉스](https://ko.wikipedia.org/wiki/유닉스 "wikilink"), [도스](https://ko.wikipedia.org/wiki/도스 "wikilink"), [아타리](https://ko.wikipedia.org/wiki/아타리 "wikilink"), [매킨토시](https://ko.wikipedia.org/wiki/매킨토시 "wikilink") 용이 개발되어 있다.
+ABC는 현재 [인터프리터](../Page/인터프리터.md "wikilink")/[컴파일러](../Page/컴파일러.md "wikilink") 모두 가능하며, [유닉스](../Page/유닉스.md "wikilink"), [도스](../Page/도스.md "wikilink"), [아타리](../Page/아타리.md "wikilink"), [매킨토시](../Page/매킨토시.md "wikilink") 용이 개발되어 있다.
 
-ABC는 [파이썬](https://ko.wikipedia.org/wiki/파이썬 "wikilink") 언어에 큰 영향을 끼쳤다. 특히 블록 구조를 들여쓰는 것은 그 직접적인 영향이다. 파이썬의 개발자인 [귀도 반 로섬은](../Page/귀도_반_로섬.md "wikilink") 1980년대 초반 몇 년 동안 CWI에서 ABC 언어 개발에 참여하였다.
+ABC는 [파이썬](../Page/파이썬.md "wikilink") 언어에 큰 영향을 끼쳤다. 특히 블록 구조를 들여쓰는 것은 그 직접적인 영향이다. 파이썬의 개발자인 [귀도 반 로섬은](../Page/귀도_반_로섬.md "wikilink") 1980년대 초반 몇 년 동안 CWI에서 ABC 언어 개발에 참여하였다.
 
 ## 프로그램 예
 

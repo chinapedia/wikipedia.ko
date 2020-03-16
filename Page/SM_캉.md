@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SM ](https://ko.wikipedia.org/wiki/SM_).
 
 
-**스타드 말레르브 캉**(Stade Malherbe Caen)은 [프랑스](../Page/프랑스.md "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽으로, [캉](https://ko.wikipedia.org/wiki/캉 "wikilink")에 위치한 [스타드 미셸 도르나노](https://ko.wikipedia.org/wiki/스타드_미셸_도르나노 "wikilink") 경기장을 근거지로 한다. [1913년](https://ko.wikipedia.org/wiki/1913년 "wikilink") 창단되었다.
+**스타드 말레르브 캉**(Stade Malherbe Caen)은 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [캉](../Page/캉.md "wikilink")에 위치한 [스타드 미셸 도르나노](https://ko.wikipedia.org/wiki/스타드_미셸_도르나노 "wikilink") 경기장을 근거지로 한다. [1913년](../Page/1913년.md "wikilink") 창단되었다.
 
 ## 역대 성적
 
-  - **[리그 2](https://ko.wikipedia.org/wiki/리그_2 "wikilink") 우승 1회**
+  - **[리그 2](../Page/리그_2.md "wikilink") 우승 1회**
       - 우승: 1996
       - 준우승: 2004, 2007
   - **[쿠페 드 라 리그](https://ko.wikipedia.org/wiki/쿠페_드_라_리그 "wikilink")**
@@ -13,7 +13,7 @@
 
 ## 유명한 선수
 
-  - [김경중](https://ko.wikipedia.org/wiki/김경중_\(축구_선수\) "wikilink")
+  - [김경중](../Page/김경중_\(축구_선수\).md "wikilink")
 
 ## 외부 링크
 

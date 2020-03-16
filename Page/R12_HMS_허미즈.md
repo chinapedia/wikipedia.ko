@@ -13,15 +13,15 @@
 </tr>
 <tr class="odd">
 <td><p>건조 시작</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1944년" title="wikilink">1944년</a> <a href="https://ko.wikipedia.org/wiki/6월_21일" title="wikilink">6월 21일</a></p></td>
+<td><p><a href="../Page/1944년.md" title="wikilink">1944년</a> <a href="../Page/6월_21일.md" title="wikilink">6월 21일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>진수</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1953년" title="wikilink">1953년</a> <a href="https://ko.wikipedia.org/wiki/2월_16일" title="wikilink">2월 16일</a></p></td>
+<td><p><a href="../Page/1953년.md" title="wikilink">1953년</a> <a href="../Page/2월_16일.md" title="wikilink">2월 16일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>취역</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1959년" title="wikilink">1959년</a> <a href="https://ko.wikipedia.org/wiki/11월_25일" title="wikilink">11월 25일</a></p></td>
+<td><p><a href="../Page/1959년.md" title="wikilink">1959년</a> <a href="../Page/11월_25일.md" title="wikilink">11월 25일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>퇴역</p></td>
@@ -29,7 +29,7 @@
 </tr>
 <tr class="odd">
 <td><p>운명</p></td>
-<td><p>1986년에 <a href="https://ko.wikipedia.org/wiki/인도_해군" title="wikilink">인도 해군에</a> 팔려 <a href="../Page/INS_비라트.md" title="wikilink">INS 비라트로</a> 취역함.</p></td>
+<td><p>1986년에 <a href="../Page/인도_해군.md" title="wikilink">인도 해군에</a> 팔려 <a href="../Page/INS_비라트.md" title="wikilink">INS 비라트로</a> 취역함.</p></td>
 </tr>
 <tr class="even">
 <td><p>성능 제원</p></td>
@@ -84,7 +84,7 @@
 <dd><a href="https://ko.wikipedia.org/wiki/웨스트랜드_웨섹스" title="wikilink">웨스트랜드 웨섹스</a> 6대
 </dd>
 <dt>1980년 이후</dt>
-<dd><a href="https://ko.wikipedia.org/wiki/시_해리어" title="wikilink">시 해리어</a> 28대
+<dd><a href="../Page/시_해리어.md" title="wikilink">시 해리어</a> 28대
 </dd>
 </dl></td>
 </tr>
@@ -95,12 +95,12 @@
 </tbody>
 </table>
 
-**R12 HMS 허미즈**는 [영국 해군이](https://ko.wikipedia.org/wiki/영국_해군 "wikilink") 사용하던 재래식 동력의 [항공모함](https://ko.wikipedia.org/wiki/항공모함 "wikilink")으로 [센타우로급 항공모함의](https://ko.wikipedia.org/wiki/센타우로급_항공모함 "wikilink") 4번함이었다.
+**R12 HMS 허미즈**는 [영국 해군이](https://ko.wikipedia.org/wiki/영국_해군 "wikilink") 사용하던 재래식 동력의 [항공모함](../Page/항공모함.md "wikilink")으로 [센타우로급 항공모함의](https://ko.wikipedia.org/wiki/센타우로급_항공모함 "wikilink") 4번함이었다.
 
 ## 건조
 
 [left](https://ko.wikipedia.org/wiki/파일:INS_Viraat_\(R22\)_Malabar_07.jpg "wikilink")
 
-R12 HMS 허미즈의 원래 이름은 코끼리를 뜻하는 엘리펀트였다. [제2차 세계 대전](https://ko.wikipedia.org/wiki/제2차_세계_대전 "wikilink") 중이던 1944년 6월에 배의 등뼈라고 할 수 있는 용골을 놓았으나, 1945년 8월 15일에 일본이 무조건 항복하여 제2차 세계 대전이 끝나자 엘리펀트는 건조 공사가 일단 중지되었고, 그 해 11월에 이름이 [그리스 신화에](https://ko.wikipedia.org/wiki/그리스_신화 "wikilink") 나오는 신의 이름인 허미즈로 바뀌어 다시 공사가 재개되었다. 건조를 시작한 지 8년 만인 1953년에 진수되었고, 건조가 시작된 지 15년 만인 1959년 11월에 영국 해군에 취역했다. [포클랜드 전쟁](https://ko.wikipedia.org/wiki/포클랜드_전쟁 "wikilink") 후 퇴역했다가 1986년에 [인도 해군에](https://ko.wikipedia.org/wiki/인도_해군 "wikilink") 팔렸고, 이후 [INS 비라트로](../Page/INS_비라트.md "wikilink") 탈바꿈하여 인도 해군에 취역했다.
+R12 HMS 허미즈의 원래 이름은 코끼리를 뜻하는 엘리펀트였다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 중이던 1944년 6월에 배의 등뼈라고 할 수 있는 용골을 놓았으나, 1945년 8월 15일에 일본이 무조건 항복하여 제2차 세계 대전이 끝나자 엘리펀트는 건조 공사가 일단 중지되었고, 그 해 11월에 이름이 [그리스 신화에](../Page/그리스_신화.md "wikilink") 나오는 신의 이름인 허미즈로 바뀌어 다시 공사가 재개되었다. 건조를 시작한 지 8년 만인 1953년에 진수되었고, 건조가 시작된 지 15년 만인 1959년 11월에 영국 해군에 취역했다. [포클랜드 전쟁](../Page/포클랜드_전쟁.md "wikilink") 후 퇴역했다가 1986년에 [인도 해군에](../Page/인도_해군.md "wikilink") 팔렸고, 이후 [INS 비라트로](../Page/INS_비라트.md "wikilink") 탈바꿈하여 인도 해군에 취역했다.
 
 [분류:제2차 세계 대전의 영국 항공모함](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_영국_항공모함 "wikilink") [분류:1953년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1953년_진수된_선박 "wikilink")

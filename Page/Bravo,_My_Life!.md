@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bravo, My Life!](https://ko.wikipedia.org/wiki/Bravo,_My_Life!).
 
 
-《**Bravo, My Life\!**》은 [봄여름가을겨울](../Page/봄여름가을겨울.md "wikilink")의 7번째 정규 앨범이다. 타이틀 곡은 5번 트랙의 〈Bravo, My Life\!〉이며, 17번 트랙의 Bravo, My Life\! - Reprise는 헝가리의 Chesnecki 성에서 녹음된 버전이다. 타이틀곡인 Bravo, My Life\!는 [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [KBS](https://ko.wikipedia.org/wiki/한국방송공사 "wikilink") 드라마 [김과장](https://ko.wikipedia.org/wiki/김과장 "wikilink")의 OST로 사용되면서 다시 인기를 끌었다.
+《**Bravo, My Life\!**》은 [봄여름가을겨울](../Page/봄여름가을겨울.md "wikilink")의 7번째 정규 앨범이다. 타이틀 곡은 5번 트랙의 〈Bravo, My Life\!〉이며, 17번 트랙의 Bravo, My Life\! - Reprise는 헝가리의 Chesnecki 성에서 녹음된 버전이다. 타이틀곡인 Bravo, My Life\!는 [2017년](../Page/2017년.md "wikilink") [KBS](../Page/한국방송공사.md "wikilink") 드라마 [김과장](https://ko.wikipedia.org/wiki/김과장 "wikilink")의 OST로 사용되면서 다시 인기를 끌었다.
 
 ## 수록곡
 
@@ -49,7 +49,7 @@
   - 스튜디오
       - 레코딩, 믹싱: EOLITH 스튜디오
       - 마스터링: 소닉 코리아
-  - 사진촬영: [김중만](https://ko.wikipedia.org/wiki/김중만 "wikilink")
+  - 사진촬영: [김중만](../Page/김중만.md "wikilink")
   - 보조 사진촬영: 안하진
       - 아트워크, 웹디자인: Syscode(허정, 박성희)
 

@@ -3,7 +3,7 @@
 
 **MIL-STD-498** (Military-Standard-498)은 미국의 군사 표준규격이었으며, "소프트웨어 개발과 문서화 요건을 수립"하기 위한 목적으로 만들어졌다. 이 표준 규격은 1994년 11월 8일 공표되었으며, 기존의 표준규격인 [DOD-STD-2167A](https://ko.wikipedia.org/wiki/DOD-STD-2167A "wikilink"), [DOD-STD-7935A](https://ko.wikipedia.org/wiki/DOD-STD-7935A "wikilink"), 그리고 [DOD-STD-1703](https://ko.wikipedia.org/wiki/DOD-STD-1703 "wikilink")을 대체하여 적용되었다. 그리고 상용 표준이 만들어지는 동안 2년 동안 잠정적인 표준으로 적용되었다.
 
-이 표준규격은 1998년 5월 27일 [J-STD-016](https://ko.wikipedia.org/wiki/J-STD-016 "wikilink")과 [IEEE 12207로](https://ko.wikipedia.org/wiki/IEEE_12207 "wikilink") 대체되어 효력을 상실했다. [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")을 포함하여 미국이 아닌 다른 나라에서는 여전히 이 표준 규격을 따르는 경우가 있는데, 그 이유는 새로운 표준규격에 비해 MIL-STD-498이 자유롭게 공개되어 있어, 더욱 익숙하고 이익을 가져다준다고 판단되었기 때문이다.
+이 표준규격은 1998년 5월 27일 [J-STD-016](https://ko.wikipedia.org/wiki/J-STD-016 "wikilink")과 [IEEE 12207로](https://ko.wikipedia.org/wiki/IEEE_12207 "wikilink") 대체되어 효력을 상실했다. [한국](../Page/한국.md "wikilink")을 포함하여 미국이 아닌 다른 나라에서는 여전히 이 표준 규격을 따르는 경우가 있는데, 그 이유는 새로운 표준규격에 비해 MIL-STD-498이 자유롭게 공개되어 있어, 더욱 익숙하고 이익을 가져다준다고 판단되었기 때문이다.
 
 ## 데이터 아이템 기술(Data Item Descriptions)
 

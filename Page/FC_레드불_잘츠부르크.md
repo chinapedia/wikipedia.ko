@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
 
 
-**FC 레드불 잘츠부르크**(Fußball Club Red Bull Salzburg)는 [잘츠부르크](https://ko.wikipedia.org/wiki/잘츠부르크 "wikilink")를 연고로 하는 [오스트리아](https://ko.wikipedia.org/wiki/오스트리아 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. 홈 구장은 [레드불 아레나이다](https://ko.wikipedia.org/wiki/레드불_아레나_\(잘츠부르크\) "wikilink"). 스폰서 제한으로 **FC 잘츠부르크**라는 이름으로도 알려져있으며 UEFA 주관 대회에서는 수정된 문양이 새겨진 유니폼을 입는다\[1\].
+**FC 레드불 잘츠부르크**(Fußball Club Red Bull Salzburg)는 [잘츠부르크](../Page/잘츠부르크.md "wikilink")를 연고로 하는 [오스트리아](../Page/오스트리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 홈 구장은 [레드불 아레나이다](../Page/레드불_아레나_\(잘츠부르크\).md "wikilink"). 스폰서 제한으로 **FC 잘츠부르크**라는 이름으로도 알려져있으며 UEFA 주관 대회에서는 수정된 문양이 새겨진 유니폼을 입는다\[1\].
 
 ## 역사
 
-원래는 보라색 유니폼이 팀의 상징이었고 팀명 또한 **SV 잘츠부르크**였으나 2005년에 오스트리아 대형 음료 회사 [레드불](https://ko.wikipedia.org/wiki/레드불 "wikilink")의 지원을 받는 조건으로 팀 컬러와 팀 이름에 스폰서가 붙은 **레드불 잘츠부르크**가 되었다. 팀의 몇몇 골수 서포터들은 레드불이 클럽의 전통을 존중하지 않은 것에 반발하여 독자적인 축구 클럽인 [SV 아우스트리아 잘츠부르크를](https://ko.wikipedia.org/wiki/SV_아우스트리아_잘츠부르크 "wikilink") 창단하였다. 2군 팀은 전통적인 보라색 유니폼을 착용한다.
+원래는 보라색 유니폼이 팀의 상징이었고 팀명 또한 **SV 잘츠부르크**였으나 2005년에 오스트리아 대형 음료 회사 [레드불](../Page/레드불.md "wikilink")의 지원을 받는 조건으로 팀 컬러와 팀 이름에 스폰서가 붙은 **레드불 잘츠부르크**가 되었다. 팀의 몇몇 골수 서포터들은 레드불이 클럽의 전통을 존중하지 않은 것에 반발하여 독자적인 축구 클럽인 [SV 아우스트리아 잘츠부르크를](../Page/SV_아우스트리아_잘츠부르크.md "wikilink") 창단하였다. 2군 팀은 전통적인 보라색 유니폼을 착용한다.
 
 1933년에 창단되었으며 1994년 [오스트리아 분데스리가에서](https://ko.wikipedia.org/wiki/오스트리아_분데스리가 "wikilink") 첫 우승을 차지, 그 해 [UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink") 결승에 진출하였다. 2017-18시즌까지 총 12회 리그 우승을 기록하였다.
 
@@ -34,7 +34,7 @@
 
   - **우승 (3):** 1994\*, 1995\*, 1997\*
 
-**[UEFA컵](https://ko.wikipedia.org/wiki/UEFA_유로파리그 "wikilink")**
+**[UEFA컵](../Page/UEFA_유로파리그.md "wikilink")**
 
   - **준우승 (1):** 1994\*
 
@@ -98,16 +98,16 @@
 <tr class="odd">
 <td><p>C조</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IF_엘프스보리" title="wikilink">IF 엘프스보리</a></p></td>
+<td><p><a href="../Page/IF_엘프스보리.md" title="wikilink">IF 엘프스보리</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에스비에르_fB" title="wikilink">에스비에르 fB</a></p></td>
+<td><p><a href="../Page/에스비에르_fB.md" title="wikilink">에스비에르 fB</a></p></td>
 <td><p>3-0</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스탕다르_리에주" title="wikilink">스탕다르 리에주</a></p></td>
+<td><p><a href="../Page/스탕다르_리에주.md" title="wikilink">스탕다르 리에주</a></p></td>
 <td><p>2-1</p></td>
 </tr>
 <tr class="even">
@@ -118,7 +118,7 @@
 <tr class="odd">
 <td><p>16강</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_바젤" title="wikilink">바젤</a></p></td>
+<td><p><a href="../Page/FC_바젤.md" title="wikilink">바젤</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -134,14 +134,14 @@
 
 ## 역대 감독
 
-  - [휘프 스테번스](https://ko.wikipedia.org/wiki/휘프_스테번스 "wikilink") (2009년 6월 15일 - 2011년 4월 8일)
+  - [휘프 스테번스](../Page/휘프_스테번스.md "wikilink") (2009년 6월 15일 - 2011년 4월 8일)
   - [리카르도 모니츠](https://ko.wikipedia.org/wiki/리카르도_모니츠 "wikilink") (2011년 4월 8일 - 2012년 6월 12일)
   - [로거 슈미트](../Page/로거_슈미트.md "wikilink") (2012년 7월 1일 - 2014년 5월 31일)
   - [아돌프 휘터](../Page/아돌프_휘터.md "wikilink") (2014년 6월 1일 - )
 
 ## 관련 문서
 
-  - [뉴욕 레드불스](https://ko.wikipedia.org/wiki/뉴욕_레드불스 "wikilink")
+  - [뉴욕 레드불스](../Page/뉴욕_레드불스.md "wikilink")
   - [RB 라이프치히](../Page/RB_라이프치히.md "wikilink")
   - [레드불 브라질](../Page/레드불_브라질.md "wikilink")
   - [레드불 가나](https://ko.wikipedia.org/wiki/레드불_가나 "wikilink")

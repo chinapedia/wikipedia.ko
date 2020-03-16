@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Revo](https://ko.wikipedia.org/wiki/Revo).
 
 
-**레보**(Revo)는 남성(男), 6월 19일 태생인 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 사운드 크리에이터로 [사운드 호라이즌](https://ko.wikipedia.org/wiki/사운드_호라이즌 "wikilink")(Sound horizon)의 유일한 정식 멤버이다.
+**레보**(Revo)는 남성(男), 6월 19일 태생인 [일본](../Page/일본.md "wikilink")의 사운드 크리에이터로 [사운드 호라이즌](https://ko.wikipedia.org/wiki/사운드_호라이즌 "wikilink")(Sound horizon)의 유일한 정식 멤버이다.
 
 현재, 작사/작곡/편곡/프로듀싱 등 다방면에서 활동 중이다.
 
@@ -24,7 +24,7 @@ Sound Horizon의 명의- SH, †Revo의 명의-†Revo, Revo의 명의- Revo, Li
   - 霧の向こうに繋がる世界(2006.6.14)- †Revo(霜月はるか†Revo)
   - Roman(2006.11.22)- SH
   - Maxi single '聖戦のイベリア'(2007.8.1)- SH
-  - Dream Port (2008. 6. 18)-†Revo ([梶浦由記](https://ko.wikipedia.org/wiki/카지우라_유키 "wikilink")†Revo）
+  - Dream Port (2008. 6. 18)-†Revo ([梶浦由記](../Page/카지우라_유키.md "wikilink")†Revo）
   - Moira (2008. 9. 3)-SH
   - Maxi single 'イドへ至る森へ至るイド' (2010 . 6. 16)- SH
   - Märchen (2010. 12. 15) - SH

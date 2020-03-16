@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.H.E](https://ko.wikipedia.org/wiki/S.H.E).
 
 
-**S.H.E**(에스에이치이)는 여성 3인으로 구성된 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")의 팝 그룹이다.
+**S.H.E**(에스에이치이)는 여성 3인으로 구성된 [중화민국](../Page/중화민국.md "wikilink")의 팝 그룹이다.
 
 ## 구성원
 

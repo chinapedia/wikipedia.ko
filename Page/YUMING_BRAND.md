@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [YUMING BRAND](https://ko.wikipedia.org/wiki/YUMING_BRAND).
 
 
-《**YUMING BRAND**》()는 [아라이 유미의](https://ko.wikipedia.org/wiki/마쓰토야_유미 "wikilink") 첫 번째 베스트 앨범이다. [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink") [6월 20일에](https://ko.wikipedia.org/wiki/6월_20일 "wikilink") [도시바 EMI에서](https://ko.wikipedia.org/wiki/도시바_EMI "wikilink") 발매되었다. 음원 발매권의 사정으로 인해 잠깐 [알파 레코드에서](https://ko.wikipedia.org/wiki/알파_레코드 "wikilink") 발매된 적도 있다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [4월 26일에](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") LP판을 복각해, 음질을 향상시킨 마스터링 [CD가](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 발매되었으며, [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [3월 10일부터는](https://ko.wikipedia.org/wiki/3월_10일 "wikilink") PC를 통한 서비스가 시작되었다.
+《**YUMING BRAND**》()는 [아라이 유미의](https://ko.wikipedia.org/wiki/마쓰토야_유미 "wikilink") 첫 번째 베스트 앨범이다. [1976년](../Page/1976년.md "wikilink") [6월 20일에](../Page/6월_20일.md "wikilink") [도시바 EMI에서](https://ko.wikipedia.org/wiki/도시바_EMI "wikilink") 발매되었다. 음원 발매권의 사정으로 인해 잠깐 [알파 레코드에서](https://ko.wikipedia.org/wiki/알파_레코드 "wikilink") 발매된 적도 있다. [2000년](../Page/2000년.md "wikilink") [4월 26일에](../Page/4월_26일.md "wikilink") LP판을 복각해, 음질을 향상시킨 마스터링 [CD가](../Page/콤팩트_디스크.md "wikilink") 발매되었으며, [2005년](../Page/2005년.md "wikilink") [3월 10일부터는](../Page/3월_10일.md "wikilink") PC를 통한 서비스가 시작되었다.
 
 ## 해설
 
   - 싱글 〈[아노히니카에리타이](https://ko.wikipedia.org/wiki/아노히니카에리타이 "wikilink")〉와 〈[가게리유쿠헤야](https://ko.wikipedia.org/wiki/가게리유쿠헤야 "wikilink")〉가 히트한 뒤, 유밍이 오리지널 앨범 제작을 준비하고 있었으므로, 이들 히트곡을 수록하는 앨범으로 제작된 싱글 베스트 앨범이다.
-  - [1976년](https://ko.wikipedia.org/wiki/1976년 "wikilink")의 연간 앨범 판매량 제5위를 기록했다.
+  - [1976년](../Page/1976년.md "wikilink")의 연간 앨범 판매량 제5위를 기록했다.
   - 컬러 셀로판지를 이용하면 자켓이나 가사 카드의 사진을 입체로 볼 수 있다. LP판에서는 자켓의 안경에 실제로 셀로판이 붙어 있어, 자켓으로부터 떼어낼 수 있도록 하였다.
   - 카세트테이프 판이 수록곡이 더 많다. CD판은 LP판과 수록곡이 같다.
 

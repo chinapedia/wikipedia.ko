@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ \*ist D](https://ko.wikipedia.org/wiki/_\*ist_D).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Pentax_istD_K7NS1900.jpg "wikilink") **펜탁스 \*istD**()는 23.7 x 16.6 mm 크기의 631만 (610만 [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink"))[CCD](https://ko.wikipedia.org/wiki/CCD "wikilink")를 가지는 [펜탁스](https://ko.wikipedia.org/wiki/펜탁스 "wikilink") 최초의 [디지털 SLR카메라이자](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"), 중급기종이다. 이 카메라는 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") 가을에 시판되었으며, [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서는 상표권 문제로 **PENTAX zxD**라는 상품명으로 발매되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Pentax_istD_K7NS1900.jpg "wikilink") **펜탁스 \*istD**()는 23.7 x 16.6 mm 크기의 631만 (610만 [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink"))[CCD](https://ko.wikipedia.org/wiki/CCD "wikilink")를 가지는 [펜탁스](../Page/펜탁스.md "wikilink") 최초의 [디지털 SLR카메라이자](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"), 중급기종이다. 이 카메라는 [2003년](../Page/2003년.md "wikilink") 가을에 시판되었으며, [대한민국](../Page/대한민국.md "wikilink")에서는 상표권 문제로 **PENTAX zxD**라는 상품명으로 발매되었다.
 
 ## 사양
 
@@ -13,7 +13,7 @@
   - LCD : 1.8" TFT LCD·11만8천화소
   - ISO 감도 설정: ISO 200-1600· 확장시 3200
   - 저장방식 : [SD카드](https://ko.wikipedia.org/wiki/CF_카드 "wikilink")
-  - USB 형식 : [USB](https://ko.wikipedia.org/wiki/USB "wikilink") 1.1
+  - USB 형식 : [USB](../Page/USB.md "wikilink") 1.1
   - 촬영 파일 포맷 : JPG, TIFF, RAW촬영 가능
   - 셔터 : 30 - 1/4000, 벌브(B/Bulb)
   - 동조속도 : 1/150

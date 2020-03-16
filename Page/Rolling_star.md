@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rolling star](https://ko.wikipedia.org/wiki/Rolling_star).
 
 
-〈**Rolling star**〉(롤링 스타)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 가수 [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 일곱 번째 싱글이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [1월 17일에](https://ko.wikipedia.org/wiki/1월_17일 "wikilink") 스튜디오세븐 레코딩에서 발매되었다. 만화 "블리치"의 5기 오프닝에 삽입되었으며, Fender American Series Telecaster Chrome Red라는 일렉트릭 기타를 처음으로 사용하였다.
+〈**Rolling star**〉(롤링 스타)는 [일본](../Page/일본.md "wikilink") 가수 [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 일곱 번째 싱글이다. [2007년](../Page/2007년.md "wikilink") [1월 17일에](../Page/1월_17일.md "wikilink") 스튜디오세븐 레코딩에서 발매되었다. 만화 "블리치"의 5기 오프닝에 삽입되었으며, Fender American Series Telecaster Chrome Red라는 일렉트릭 기타를 처음으로 사용하였다.
 
 ## 곡 목록
 

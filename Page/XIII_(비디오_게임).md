@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [XIII \( \)](https://ko.wikipedia.org/wiki/XIII_\(_\)).
 
 
-《**XIII**》(Thirteen, 써틴)은 동명의 벨기에 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink") 《[XIII](https://ko.wikipedia.org/wiki/XIII_\(만화\) "wikilink")》을 원작으로 한 [일인칭 슈팅 게임이다](https://ko.wikipedia.org/wiki/일인칭_슈팅_게임 "wikilink"). [유비소프트](../Page/유비소프트.md "wikilink")가 개발하고 [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") 발매되었다. [페럴 인터랙티브가](https://ko.wikipedia.org/wiki/페럴_인터랙티브 "wikilink") [맥 OS X판을](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 발매했고, [한국](https://ko.wikipedia.org/wiki/한국 "wikilink")에서는 각각 [위자드소프트](https://ko.wikipedia.org/wiki/위자드소프트 "wikilink")와 [세중게임박스](https://ko.wikipedia.org/wiki/세중게임박스 "wikilink")가 [플레이스테이션 2](https://ko.wikipedia.org/wiki/플레이스테이션_2 "wikilink")/[마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [엑스박스](https://ko.wikipedia.org/wiki/엑스박스 "wikilink")판을 발매했다.
+《**XIII**》(Thirteen, 써틴)은 동명의 벨기에 [만화](../Page/만화.md "wikilink") 《[XIII](https://ko.wikipedia.org/wiki/XIII_\(만화\) "wikilink")》을 원작으로 한 [일인칭 슈팅 게임이다](https://ko.wikipedia.org/wiki/일인칭_슈팅_게임 "wikilink"). [유비소프트](../Page/유비소프트.md "wikilink")가 개발하고 [2003년](../Page/2003년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") 발매되었다. [페럴 인터랙티브가](https://ko.wikipedia.org/wiki/페럴_인터랙티브 "wikilink") [맥 OS X판을](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 발매했고, [한국](../Page/한국.md "wikilink")에서는 각각 [위자드소프트](https://ko.wikipedia.org/wiki/위자드소프트 "wikilink")와 [세중게임박스](https://ko.wikipedia.org/wiki/세중게임박스 "wikilink")가 [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink")/[마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [엑스박스](../Page/엑스박스.md "wikilink")판을 발매했다.
 
-[셀 셰이딩된](https://ko.wikipedia.org/wiki/셀_셰이딩 "wikilink") 그래픽과 만화 칸을 넣고 [의성어](https://ko.wikipedia.org/wiki/의성어 "wikilink")를 표시하는 의도적인 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")적 연출이 특징으로, 비평 면에서 대체로 긍정적인 평가를 받았지만\[1\], 판매량은 기대에 미치지 못 했다.\[2\]
+[셀 셰이딩된](https://ko.wikipedia.org/wiki/셀_셰이딩 "wikilink") 그래픽과 만화 칸을 넣고 [의성어](https://ko.wikipedia.org/wiki/의성어 "wikilink")를 표시하는 의도적인 [만화](../Page/만화.md "wikilink")적 연출이 특징으로, 비평 면에서 대체로 긍정적인 평가를 받았지만\[1\], 판매량은 기대에 미치지 못 했다.\[2\]
 
 게임의 줄거리는 원작 만화에서 첫 다섯 권 분량의 줄거리를 따르고 있지만, 게임의 형식에 맞추어 이야기가 조금 수정되거나 추가된 부분도 있다. 게임은 만화의 다섯 번째 권이 끝나는 부분에서 정확히 이야기를 끝내는데, 그 결말이 열린 형식을 취하고 있어 후속작을 암시하고 있다.
 
 ## 등장인물
 
-  - **XIII**: 써틴, 이야기의 주인공이자 플레이어 캐릭터. 후반에 **제이슨 플라이**라는 이름이 밝혀진다. 그는 뉴욕의 한 해변에서 기억을 잃어버린 채 정신을 차린다. 자신에 대한 단서는 오직 어깨에 [로마 숫자로](https://ko.wikipedia.org/wiki/로마_숫자 "wikilink") 새겨진 ‘XIII’이란 숫자 뿐. 그는 몽구스라는 청부 살인업자에게 쫓기게 되고, [FBI](https://ko.wikipedia.org/wiki/FBI "wikilink")는 그를 미국 대통령 윌리엄 쉐리단의 암살자로 수배한다. 그는 게임을 통해 그의 정체성과 그 단서를 제공할 XX로 알려진 단체의 음모와 싸우게 된다.
+  - **XIII**: 써틴, 이야기의 주인공이자 플레이어 캐릭터. 후반에 **제이슨 플라이**라는 이름이 밝혀진다. 그는 뉴욕의 한 해변에서 기억을 잃어버린 채 정신을 차린다. 자신에 대한 단서는 오직 어깨에 [로마 숫자로](../Page/로마_숫자.md "wikilink") 새겨진 ‘XIII’이란 숫자 뿐. 그는 몽구스라는 청부 살인업자에게 쫓기게 되고, [FBI](https://ko.wikipedia.org/wiki/FBI "wikilink")는 그를 미국 대통령 윌리엄 쉐리단의 암살자로 수배한다. 그는 게임을 통해 그의 정체성과 그 단서를 제공할 XX로 알려진 단체의 음모와 싸우게 된다.
 
 <!-- end list -->
 

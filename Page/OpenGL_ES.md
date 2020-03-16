@@ -1,25 +1,25 @@
 > This article is converted from Wikipedia: [OpenGL ES](https://ko.wikipedia.org/wiki/OpenGL_ES).
 
 
-**OpenGL ES** (임베디드 시스템을 위한 OpenGL)는 [크로노스 그룹이](https://ko.wikipedia.org/wiki/크로노스_그룹 "wikilink") 정의한 3차원 컴퓨터 그래픽스 API인 OpenGL의 서브셋으로, 휴대전화, PDA 등과 같은 임베디드 시스템을 위한 API이다.
+**OpenGL ES** (임베디드 시스템을 위한 OpenGL)는 [크로노스 그룹이](../Page/크로노스_그룹.md "wikilink") 정의한 3차원 컴퓨터 그래픽스 API인 OpenGL의 서브셋으로, 휴대전화, PDA 등과 같은 임베디드 시스템을 위한 API이다.
 
 ## 이용
 
-OpenGL ES 1.0 은 [심비안 OSs](https://ko.wikipedia.org/wiki/심비안_OS "wikilink")60v5와 [안드로이드 플랫폼의](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 공식 3D 그래픽 [API](../Page/API.md "wikilink")로 채택되었다.
+OpenGL ES 1.0 은 [심비안 OSs](../Page/심비안_OS.md "wikilink")60v5와 [안드로이드 플랫폼의](../Page/안드로이드_\(운영_체제\).md "wikilink") 공식 3D 그래픽 [API](../Page/API.md "wikilink")로 채택되었다.
 
-OpenGL ES 1.0 그리고 2.0의 일부 기능과 [Cg는](https://ko.wikipedia.org/wiki/CG "wikilink") [플레이스테이션 3의](https://ko.wikipedia.org/wiki/플레이스테이션_3 "wikilink") 공식 그래픽 API 중 하나로 지원된다.
+OpenGL ES 1.0 그리고 2.0의 일부 기능과 [Cg는](https://ko.wikipedia.org/wiki/CG "wikilink") [플레이스테이션 3의](../Page/플레이스테이션_3.md "wikilink") 공식 그래픽 API 중 하나로 지원된다.
 
 OpenGL ES 1.1 은 [아이폰](../Page/아이폰.md "wikilink") SDK의 3D 라이브러리 중 하나이다.
 
 OpenGL ES 1.0 과 1.1 은 블랙베리 5.0 운영체제에서 지원된다. 현재 BlackBerry Storm 2와 BlackBerry Curve 8530만이 OpenGL ES 1.x을 하드웨어적으로 지원
 
-OpenGL ES 2.0은 [WebGL](https://ko.wikipedia.org/wiki/WebGL "wikilink") (OpenGL for browser) 에서 사용된다. 2007년 3월에 공개 되었다.\[1\] OpenGL ES 2.0은 OpenGL ES 1.1과 [하위 호환성이](../Page/하위_호환성.md "wikilink") 제공 되지 않는다.
+OpenGL ES 2.0은 [WebGL](../Page/WebGL.md "wikilink") (OpenGL for browser) 에서 사용된다. 2007년 3월에 공개 되었다.\[1\] OpenGL ES 2.0은 OpenGL ES 1.1과 [하위 호환성이](../Page/하위_호환성.md "wikilink") 제공 되지 않는다.
 
 노키아 [심비안OS](https://ko.wikipedia.org/wiki/심비안OS "wikilink")^3 과 마에모 기반의 노키아N900에도 지원된다.
 
 [미고](https://ko.wikipedia.org/wiki/미고 "wikilink")os의 공식 API로 채택되었다.
 
-[블랙베리 OS](https://ko.wikipedia.org/wiki/블랙베리_OS "wikilink")7, 블랙베리10 및 블랙베리 플레이북
+[블랙베리 OS](../Page/블랙베리_OS.md "wikilink")7, 블랙베리10 및 블랙베리 플레이북
 
 [아이폰](../Page/아이폰.md "wikilink") SDK(아이폰 3GS와 아이팟 터치3세대 및 그 이후모델을 지원한다)의 3D 라이브러리 중 하나이다
 
@@ -27,7 +27,7 @@ OpenGL ES 2.0은 [WebGL](https://ko.wikipedia.org/wiki/WebGL "wikilink") (OpenGL
 
 iOS 7.0 부터 OpenGL ES 3.0 를 지원한다.
 
-[안드로이드 플랫폼의](https://ko.wikipedia.org/wiki/안드로이드_\(운영_체제\) "wikilink") 경우
+[안드로이드 플랫폼의](../Page/안드로이드_\(운영_체제\).md "wikilink") 경우
 
 1.0 버전부터 OpenGL ES 1.0 와 1.1를 지원하며,
 
@@ -35,7 +35,7 @@ iOS 7.0 부터 OpenGL ES 3.0 를 지원한다.
 
 4.3 버전(jellybean mr2) 부터 OpenGL ES 3.0 를 지원한다.
 
-파이어폭스에 사용되는 [게코 (레이아웃 엔진)](https://ko.wikipedia.org/wiki/게코_\(레이아웃_엔진\) "wikilink") 1.9.3a1 부터 [WebGL](https://ko.wikipedia.org/wiki/WebGL "wikilink")을 통해서 지원되고 있다.\[2\]
+파이어폭스에 사용되는 [게코 (레이아웃 엔진)](../Page/게코_\(레이아웃_엔진\).md "wikilink") 1.9.3a1 부터 [WebGL](../Page/WebGL.md "wikilink")을 통해서 지원되고 있다.\[2\]
 
 ## 버전
 
@@ -179,7 +179,7 @@ iOS 7.0 부터 OpenGL ES 3.0 를 지원한다.
 
 ## 같이 보기
 
-  - [OpenGL](https://ko.wikipedia.org/wiki/OpenGL "wikilink")
+  - [OpenGL](../Page/OpenGL.md "wikilink")
 
 ## 각주
 

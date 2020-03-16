@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UCLA   ](https://ko.wikipedia.org/wiki/UCLA___).
 
 
-**UCLA 의과대학원** 또는 **UCLA 데이비드 게펜 의과대학원**(David Geffen School of Medicine at UCLA)은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [캘리포니아주](https://ko.wikipedia.org/wiki/캘리포니아주 "wikilink") [로스앤젤레스시](https://ko.wikipedia.org/wiki/로스앤젤레스시 "wikilink")의 [캘리포니아 대학교 로스앤젤레스](https://ko.wikipedia.org/wiki/캘리포니아_대학교_로스앤젤레스 "wikilink") 소속 의과대학원이다. 학교는 2001년 의과대학원에 2억 달러를 기부한 영화 [재벌](https://ko.wikipedia.org/wiki/재벌 "wikilink") [데이비드 게펜에](https://ko.wikipedia.org/wiki/데이비드_게펜 "wikilink") 경의를 표하며 학교명을 개명하였다.
+**UCLA 의과대학원** 또는 **UCLA 데이비드 게펜 의과대학원**(David Geffen School of Medicine at UCLA)은 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스시](https://ko.wikipedia.org/wiki/로스앤젤레스시 "wikilink")의 [캘리포니아 대학교 로스앤젤레스](../Page/캘리포니아_대학교_로스앤젤레스.md "wikilink") 소속 의과대학원이다. 학교는 2001년 의과대학원에 2억 달러를 기부한 영화 [재벌](../Page/재벌.md "wikilink") [데이비드 게펜에](https://ko.wikipedia.org/wiki/데이비드_게펜 "wikilink") 경의를 표하며 학교명을 개명하였다.
 
 ## 역사
 

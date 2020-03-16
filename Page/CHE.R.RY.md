@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CHE.R.RY](https://ko.wikipedia.org/wiki/CHE.R.RY).
 
 
-〈**CHE.R.RY**〉(체리)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") 가수 [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 여덟 번째 싱글이다. [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [3월 7일에](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") 스튜디오세븐 레코딩에서 발매되었다.
+〈**CHE.R.RY**〉(체리)는 [일본](../Page/일본.md "wikilink") 가수 [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 여덟 번째 싱글이다. [2007년](../Page/2007년.md "wikilink") [3월 7일에](../Page/3월_7일.md "wikilink") 스튜디오세븐 레코딩에서 발매되었다.
 
 ## 곡 목록
 

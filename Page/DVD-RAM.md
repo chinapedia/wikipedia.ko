@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DVD-RAM](https://ko.wikipedia.org/wiki/DVD-RAM).
 
 
-[right](https://ko.wikipedia.org/wiki/파일:DVDRAMdisk.png "wikilink") **DVD-RAM**(Digital Versatile Disc Random Access Memory)은 [기록형 DVD의](https://ko.wikipedia.org/wiki/DVD "wikilink") 규격의 하나로서, 다른 재기록형DVD에 비해서 기록횟수 등이 뛰어나다. [DVD 포럼에](https://ko.wikipedia.org/wiki/DVD_포럼 "wikilink") 의해 정해졌으며, 1998년 4월에 [파나소닉](https://ko.wikipedia.org/wiki/파나소닉 "wikilink")과 [히타치 제작소로부터](https://ko.wikipedia.org/wiki/히타치_제작소 "wikilink") 최초의 제품이 발매되었다. 또한, 이외의 [도시바](../Page/도시바.md "wikilink")도 적극적으로 추진하고 있다.
+[right](https://ko.wikipedia.org/wiki/파일:DVDRAMdisk.png "wikilink") **DVD-RAM**(Digital Versatile Disc Random Access Memory)은 [기록형 DVD의](../Page/DVD.md "wikilink") 규격의 하나로서, 다른 재기록형DVD에 비해서 기록횟수 등이 뛰어나다. [DVD 포럼에](https://ko.wikipedia.org/wiki/DVD_포럼 "wikilink") 의해 정해졌으며, 1998년 4월에 [파나소닉](../Page/파나소닉.md "wikilink")과 [히타치 제작소로부터](../Page/히타치_제작소.md "wikilink") 최초의 제품이 발매되었다. 또한, 이외의 [도시바](../Page/도시바.md "wikilink")도 적극적으로 추진하고 있다.
 
 ## DVD-RAM 카트리지 종류
 
@@ -51,7 +51,7 @@
 
 ## 규격
 
-Internationale Funkausstellung Berlin 2003 이후로 이 규격은 RAM 프로모션 그룹(RAMPRG)이 시장화하였으며 히타치 제작소, [도시바](../Page/도시바.md "wikilink"), [맥스웰](https://ko.wikipedia.org/wiki/히타치_맥스웰 "wikilink") [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink"), 파나소닉, [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink"), [TEAC](https://ko.wikipedia.org/wiki/TEAC "wikilink")가 주축이 되어 제작하였다.
+Internationale Funkausstellung Berlin 2003 이후로 이 규격은 RAM 프로모션 그룹(RAMPRG)이 시장화하였으며 히타치 제작소, [도시바](../Page/도시바.md "wikilink"), [맥스웰](https://ko.wikipedia.org/wiki/히타치_맥스웰 "wikilink") [LG전자](../Page/LG전자.md "wikilink"), 파나소닉, [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink"), [TEAC](https://ko.wikipedia.org/wiki/TEAC "wikilink")가 주축이 되어 제작하였다.
 
   - DVD-RAM 버전 1.0, 기록 속도 1x
       - 단면, 한 층의 디스크 용량은 2.58 GB
@@ -70,7 +70,7 @@ Internationale Funkausstellung Berlin 2003 이후로 이 규격은 RAM 프로모
 
 ## 같이 보기
 
-  - [콤팩트 디스크](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink")
-  - [Phase-change Dual](https://ko.wikipedia.org/wiki/Phase-change_Dual "wikilink")
+  - [콤팩트 디스크](../Page/콤팩트_디스크.md "wikilink")
+  - [Phase-change Dual](../Page/Phase-change_Dual.md "wikilink")
 
 [RAM](https://ko.wikipedia.org/wiki/분류:DVD "wikilink") [분류:상변화 디스크](https://ko.wikipedia.org/wiki/분류:상변화_디스크 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
 
 
-**MBC 창작동요제**는 [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink")에 시작되어 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink")에 폐지된 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 최초의 동요제이다. MBC 라디오 제작국이 주최하는 관계로 라디오 제작국의 심사를 통해 1, 2차 예심(악보와 테잎심사)을 치른 후, 최종 결선은 [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") [어린이날](https://ko.wikipedia.org/wiki/어린이날 "wikilink")에 [MBC TV와](https://ko.wikipedia.org/wiki/MBC_TV "wikilink") 라디오([표준FM](https://ko.wikipedia.org/wiki/MBC_표준FM "wikilink"), [FM4U](https://ko.wikipedia.org/wiki/FM4U "wikilink"))를 통해 생중계되었다.\[1\]\[2\]\[3\] 어린이들의 마음 속에 꿈과 아름다움을 심어주고 순수하고 참신한 창작 동요를 발굴한다는 취지에 맞게 그 참가 대상을 초등학생 이하와 순수 동요 작사 작곡가로 제한하였다. 그러나 대회가 거듭되면서 작품의 우수성보다는 인맥이 작용한다는 의문이 제기되고 중복참가와 서울과 부산지역 학생들이 본선에 반이상 참여하는 지역편중과 순수 창작 동요제의 목적을 저해하는 폐단이 이 곳, 저 곳에서 나타나기 시작하였다. 결국 문제점을 검토하고 새로운 방안 등을 연구하기 위해 MBC 라디오국은 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 제28회를 마지막으로 본 창작 동요제를 완전히 폐지하였다. 제1회 대상곡 《새싹들이다》를 비롯하여 2회 《노을》, 3회 《즐거운 소풍길》, 4회 《종이접기》, 5회 《고향길, 섬마을》, 6회 《이슬》, 7회 《연날리기》, 8회 《봄, 수건돌리기》, 9회 《하늘나라 동화, 아기염소》, 10회 《부채춤, 화가》, 11회 《봄비》, 12회 《나의 친구, 꿀벌의 여행》, 13회 《내가 제일 좋아하는 말\[4\], 예쁜 아기곰》, 14회 《네잎 클로버, 아기 다람쥐 또미》, 15회 《아빠 힘내세요》, 20회\[5\] , 23회 《함께 걸어 좋은 길》, 25회 《참 좋은 말》 등이 비교적 많이 알려진 수상곡들이며, 1회부터 28회까지 본선 진출곡 수는 402곡이고 초·중등 교과서에 20여곡이 실려있다.
+**MBC 창작동요제**는 [1983년](../Page/1983년.md "wikilink")에 시작되어 [2010년](../Page/2010년.md "wikilink")에 폐지된 [대한민국](../Page/대한민국.md "wikilink") 최초의 동요제이다. MBC 라디오 제작국이 주최하는 관계로 라디오 제작국의 심사를 통해 1, 2차 예심(악보와 테잎심사)을 치른 후, 최종 결선은 [5월 5일](../Page/5월_5일.md "wikilink") [어린이날](../Page/어린이날.md "wikilink")에 [MBC TV와](../Page/MBC_TV.md "wikilink") 라디오([표준FM](../Page/MBC_표준FM.md "wikilink"), [FM4U](https://ko.wikipedia.org/wiki/FM4U "wikilink"))를 통해 생중계되었다.\[1\]\[2\]\[3\] 어린이들의 마음 속에 꿈과 아름다움을 심어주고 순수하고 참신한 창작 동요를 발굴한다는 취지에 맞게 그 참가 대상을 초등학생 이하와 순수 동요 작사 작곡가로 제한하였다. 그러나 대회가 거듭되면서 작품의 우수성보다는 인맥이 작용한다는 의문이 제기되고 중복참가와 서울과 부산지역 학생들이 본선에 반이상 참여하는 지역편중과 순수 창작 동요제의 목적을 저해하는 폐단이 이 곳, 저 곳에서 나타나기 시작하였다. 결국 문제점을 검토하고 새로운 방안 등을 연구하기 위해 MBC 라디오국은 [2010년](../Page/2010년.md "wikilink") 제28회를 마지막으로 본 창작 동요제를 완전히 폐지하였다. 제1회 대상곡 《새싹들이다》를 비롯하여 2회 《노을》, 3회 《즐거운 소풍길》, 4회 《종이접기》, 5회 《고향길, 섬마을》, 6회 《이슬》, 7회 《연날리기》, 8회 《봄, 수건돌리기》, 9회 《하늘나라 동화, 아기염소》, 10회 《부채춤, 화가》, 11회 《봄비》, 12회 《나의 친구, 꿀벌의 여행》, 13회 《내가 제일 좋아하는 말\[4\], 예쁜 아기곰》, 14회 《네잎 클로버, 아기 다람쥐 또미》, 15회 《아빠 힘내세요》, 20회\[5\] , 23회 《함께 걸어 좋은 길》, 25회 《참 좋은 말》 등이 비교적 많이 알려진 수상곡들이며, 1회부터 28회까지 본선 진출곡 수는 402곡이고 초·중등 교과서에 20여곡이 실려있다.
 
 ## 역대 대상 수상곡
 
@@ -19,7 +19,7 @@
 <tbody>
 <tr class="odd">
 <td><p>제1회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1983년" title="wikilink">1983년</a></p></td>
+<td><p><a href="../Page/1983년.md" title="wikilink">1983년</a></p></td>
 <td><p>새싹들이다</p></td>
 <td><p>좌승원</p></td>
 <td><p>좌승원</p></td>
@@ -27,7 +27,7 @@
 </tr>
 <tr class="even">
 <td><p>제2회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1984년" title="wikilink">1984년</a></p></td>
+<td><p><a href="../Page/1984년.md" title="wikilink">1984년</a></p></td>
 <td><p>노을</p></td>
 <td><p>이동진</p></td>
 <td><p>안호철 → 최현규</p></td>
@@ -35,7 +35,7 @@
 </tr>
 <tr class="odd">
 <td><p>제3회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1985년" title="wikilink">1985년</a></p></td>
+<td><p><a href="../Page/1985년.md" title="wikilink">1985년</a></p></td>
 <td><p>즐거운 소풍길</p></td>
 <td><p>이한숙</p></td>
 <td><p>김창수</p></td>
@@ -43,7 +43,7 @@
 </tr>
 <tr class="even">
 <td><p>제4회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1986년" title="wikilink">1986년</a></p></td>
+<td><p><a href="../Page/1986년.md" title="wikilink">1986년</a></p></td>
 <td><p>종이접기</p></td>
 <td><p>유경숙</p></td>
 <td><p>김봉학</p></td>
@@ -51,7 +51,7 @@
 </tr>
 <tr class="odd">
 <td><p>제5회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1987년" title="wikilink">1987년</a></p></td>
+<td><p><a href="../Page/1987년.md" title="wikilink">1987년</a></p></td>
 <td><p>고향길</p></td>
 <td><p>김용섭</p></td>
 <td><p>이종만</p></td>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td><p>제6회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1988년" title="wikilink">1988년</a></p></td>
+<td><p><a href="../Page/1988년.md" title="wikilink">1988년</a></p></td>
 <td><p>이슬</p></td>
 <td><p>김동호</p></td>
 <td><p>김동호</p></td>
@@ -67,7 +67,7 @@
 </tr>
 <tr class="odd">
 <td><p>제7회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1989년" title="wikilink">1989년</a></p></td>
+<td><p><a href="../Page/1989년.md" title="wikilink">1989년</a></p></td>
 <td><p>연날리기</p></td>
 <td><p>권연순</p></td>
 <td><p>한수성</p></td>
@@ -75,7 +75,7 @@
 </tr>
 <tr class="even">
 <td><p>제8회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1990년" title="wikilink">1990년</a></p></td>
+<td><p><a href="../Page/1990년.md" title="wikilink">1990년</a></p></td>
 <td><p>봄</p></td>
 <td><p>윤석중</p></td>
 <td><p>이성복</p></td>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="odd">
 <td><p>제9회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1991년" title="wikilink">1991년</a></p></td>
+<td><p><a href="../Page/1991년.md" title="wikilink">1991년</a></p></td>
 <td><p>하늘나라 동화</p></td>
 <td><p>이강산</p></td>
 <td><p>이강산</p></td>
@@ -91,7 +91,7 @@
 </tr>
 <tr class="even">
 <td><p>제10회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1992년" title="wikilink">1992년</a></p></td>
+<td><p><a href="../Page/1992년.md" title="wikilink">1992년</a></p></td>
 <td><p>부채춤</p></td>
 <td><p>홍명희</p></td>
 <td><p>홍명희</p></td>
@@ -99,7 +99,7 @@
 </tr>
 <tr class="odd">
 <td><p>제11회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1993년" title="wikilink">1993년</a></p></td>
+<td><p><a href="../Page/1993년.md" title="wikilink">1993년</a></p></td>
 <td><p>봄비</p></td>
 <td><p>전유순</p></td>
 <td><p>이용수</p></td>
@@ -107,7 +107,7 @@
 </tr>
 <tr class="even">
 <td><p>제12회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1994년" title="wikilink">1994년</a></p></td>
+<td><p><a href="../Page/1994년.md" title="wikilink">1994년</a></p></td>
 <td><p>나의 친구</p></td>
 <td><p>나성</p></td>
 <td><p>박영근</p></td>
@@ -115,7 +115,7 @@
 </tr>
 <tr class="odd">
 <td><p>제13회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1995년" title="wikilink">1995년</a></p></td>
+<td><p><a href="../Page/1995년.md" title="wikilink">1995년</a></p></td>
 <td><p>내가 제일 좋아하는 말</p></td>
 <td><p>정하나</p></td>
 <td><p>정예경</p></td>
@@ -123,7 +123,7 @@
 </tr>
 <tr class="even">
 <td><p>제14회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1996년" title="wikilink">1996년</a></p></td>
+<td><p><a href="../Page/1996년.md" title="wikilink">1996년</a></p></td>
 <td><p>네잎클로버</p></td>
 <td><p>박영신</p></td>
 <td><p>박영신</p></td>
@@ -131,7 +131,7 @@
 </tr>
 <tr class="odd">
 <td><p>제15회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1997년" title="wikilink">1997년</a></p></td>
+<td><p><a href="../Page/1997년.md" title="wikilink">1997년</a></p></td>
 <td><p>반딧불</p></td>
 <td><p>이성관</p></td>
 <td><p>정동수</p></td>
@@ -139,7 +139,7 @@
 </tr>
 <tr class="even">
 <td><p>제16회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1998년" title="wikilink">1998년</a></p></td>
+<td><p><a href="../Page/1998년.md" title="wikilink">1998년</a></p></td>
 <td><p>오솔길</p></td>
 <td><p>신지혜</p></td>
 <td><p>이철근</p></td>
@@ -147,7 +147,7 @@
 </tr>
 <tr class="odd">
 <td><p>제17회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1999년" title="wikilink">1999년</a></p></td>
+<td><p><a href="../Page/1999년.md" title="wikilink">1999년</a></p></td>
 <td><p>우리풀꽃</p></td>
 <td><p>곽혜숙</p></td>
 <td><p>곽혜숙</p></td>
@@ -155,7 +155,7 @@
 </tr>
 <tr class="even">
 <td><p>제18회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2000년" title="wikilink">2000년</a></p></td>
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a></p></td>
 <td><p>우리집은 동물원</p></td>
 <td><p>박용진</p></td>
 <td><p>허미경</p></td>
@@ -163,7 +163,7 @@
 </tr>
 <tr class="odd">
 <td><p>제19회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2001년" title="wikilink">2001년</a></p></td>
+<td><p><a href="../Page/2001년.md" title="wikilink">2001년</a></p></td>
 <td><p>바람</p></td>
 <td><p>김종상</p></td>
 <td><p>정동수</p></td>
@@ -171,7 +171,7 @@
 </tr>
 <tr class="even">
 <td><p>제20회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a></p></td>
+<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a></p></td>
 <td><p>풍금소리 노랫소리</p></td>
 <td><p>김원겸</p></td>
 <td><p>백현주</p></td>
@@ -179,7 +179,7 @@
 </tr>
 <tr class="odd">
 <td><p>제21회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a></p></td>
+<td><p><a href="../Page/2003년.md" title="wikilink">2003년</a></p></td>
 <td><p>초생달</p></td>
 <td><p>이슬기</p></td>
 <td><p>주유미</p></td>
@@ -187,7 +187,7 @@
 </tr>
 <tr class="even">
 <td><p>제22회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a></p></td>
+<td><p><a href="../Page/2004년.md" title="wikilink">2004년</a></p></td>
 <td><p>맷돌</p></td>
 <td><p>김종영</p></td>
 <td><p>홍재근</p></td>
@@ -195,7 +195,7 @@
 </tr>
 <tr class="odd">
 <td><p>제23회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2005년" title="wikilink">2005년</a></p></td>
+<td><p><a href="../Page/2005년.md" title="wikilink">2005년</a></p></td>
 <td><p>함께 걸어 좋은 길</p></td>
 <td><p>이경애</p></td>
 <td><p>정보형</p></td>
@@ -203,7 +203,7 @@
 </tr>
 <tr class="even">
 <td><p>제24회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2006년" title="wikilink">2006년</a></p></td>
+<td><p><a href="../Page/2006년.md" title="wikilink">2006년</a></p></td>
 <td><p>그날을 위해</p></td>
 <td><p>석광희</p></td>
 <td><p>석광희</p></td>
@@ -211,7 +211,7 @@
 </tr>
 <tr class="odd">
 <td><p>제25회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a></p></td>
 <td><p>참 좋은 말</p></td>
 <td><p>김완기</p></td>
 <td><p>장지원</p></td>
@@ -219,7 +219,7 @@
 </tr>
 <tr class="even">
 <td><p>제26회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년" title="wikilink">2008년</a></p></td>
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a></p></td>
 <td><p>어느 봄날</p></td>
 <td><p>황베드로</p></td>
 <td><p>정희선</p></td>
@@ -227,7 +227,7 @@
 </tr>
 <tr class="odd">
 <td><p>제27회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a></p></td>
 <td><p>아빠 사랑해요</p></td>
 <td><p>조은별</p></td>
 <td><p>정재원</p></td>
@@ -236,7 +236,7 @@
 <tr class="even">
 <td><p>제28회<br />
 (마지막회)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2010년" title="wikilink">2010년</a></p></td>
+<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a></p></td>
 <td><p>왜 이렇게 덥지?</p></td>
 <td><p>김정녀</p></td>
 <td><p>김정녀</p></td>
@@ -257,7 +257,7 @@
 
 ### 1983년
 
-**방영일 :** [1983년](https://ko.wikipedia.org/wiki/1983년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (목) 오전 11:00 \[녹화방송 - 녹화일 [4월 30일](https://ko.wikipedia.org/wiki/4월_30일 "wikilink") (토)\]
+**방영일 :** [1983년](../Page/1983년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (목) 오전 11:00 \[녹화방송 - 녹화일 [4월 30일](../Page/4월_30일.md "wikilink") (토)\]
 **장소:** [리틀엔젤스예술회관](https://ko.wikipedia.org/wiki/리틀엔젤스예술회관 "wikilink")
 **사회:** [차인태](../Page/차인태.md "wikilink"), [홍광은](https://ko.wikipedia.org/wiki/홍광은 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
@@ -285,9 +285,9 @@
 
 ### 1984년
 
-**방영일 :** [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink") [5월 4일](https://ko.wikipedia.org/wiki/5월_4일 "wikilink") (금) 오후 06:00 \[생방송\]
+**방영일 :** [1984년](../Page/1984년.md "wikilink") [5월 4일](../Page/5월_4일.md "wikilink") (금) 오후 06:00 \[생방송\]
 **장소:** [리틀엔젤스예술회관](https://ko.wikipedia.org/wiki/리틀엔젤스예술회관 "wikilink")
-**사회:** [변웅전](https://ko.wikipedia.org/wiki/변웅전 "wikilink"), [홍광은](https://ko.wikipedia.org/wiki/홍광은 "wikilink")
+**사회:** [변웅전](../Page/변웅전.md "wikilink"), [홍광은](https://ko.wikipedia.org/wiki/홍광은 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 한용희(한국방송협회 기획운용부장)
 최영섭(세종대 음대교수)
@@ -317,9 +317,9 @@
 
 ### 1985년
 
-**방영일 :** [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (일) 오후 06:30 \[생방송\]
+**방영일 :** [1985년](../Page/1985년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (일) 오후 06:30 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [변웅전](https://ko.wikipedia.org/wiki/변웅전 "wikilink"), [김보경](https://ko.wikipedia.org/wiki/김보경 "wikilink")
+**사회:** [변웅전](../Page/변웅전.md "wikilink"), [김보경](https://ko.wikipedia.org/wiki/김보경 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김공선 (서울사대부국교 교장, 동요작곡가)
 유경환 (조선일보 논설위원)
@@ -346,7 +346,7 @@
 
 ### 1986년
 
-**방영일 :** [1986년](https://ko.wikipedia.org/wiki/1986년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (일) 오후 06:30 \[생방송\]
+**방영일 :** [1986년](../Page/1986년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (일) 오후 06:30 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
 **사회:** [이윤철](https://ko.wikipedia.org/wiki/이윤철 "wikilink"), [이미영](https://ko.wikipedia.org/wiki/이미영 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
@@ -378,7 +378,7 @@
 
 ### 1987년
 
-**방영일 :** [1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (화) 오후 06:20 \[생방송\]
+**방영일 :** [1987년](../Page/1987년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (화) 오후 06:20 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
 **사회:** [이윤철](https://ko.wikipedia.org/wiki/이윤철 "wikilink"), [신현숙](../Page/신현숙.md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
@@ -410,9 +410,9 @@
 
 ### 1988년
 
-**방영일 :** [1988년](https://ko.wikipedia.org/wiki/1988년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (목) 오후 06:20 \[생방송\]
+**방영일 :** [1988년](../Page/1988년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (목) 오후 06:20 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [이수만](https://ko.wikipedia.org/wiki/이수만 "wikilink"), [최정선](https://ko.wikipedia.org/wiki/최정선 "wikilink")
+**사회:** [이수만](../Page/이수만.md "wikilink"), [최정선](https://ko.wikipedia.org/wiki/최정선 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김성균 (숭의여전 교수)
 김창완 (가수)
@@ -443,9 +443,9 @@
 
 ### 1989년
 
-**방영일 :** [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (금) 오후 06:20 \[생방송\]
+**방영일 :** [1989년](../Page/1989년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (금) 오후 06:20 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [이수만](https://ko.wikipedia.org/wiki/이수만 "wikilink"), [김은주](https://ko.wikipedia.org/wiki/김은주 "wikilink")
+**사회:** [이수만](../Page/이수만.md "wikilink"), [김은주](https://ko.wikipedia.org/wiki/김은주 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김동호 (제6회 창작동요제대상수상자, 충암국교 교사)
 김창완 (작곡가)
@@ -475,9 +475,9 @@
 
 ### 1990년
 
-**방영일 :** [1990년](https://ko.wikipedia.org/wiki/1990년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (토) 오후 06:20 \[생방송\]
+**방영일 :** [1990년](../Page/1990년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (토) 오후 06:20 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [이수만](https://ko.wikipedia.org/wiki/이수만 "wikilink"), [왕영은](../Page/왕영은.md "wikilink")
+**사회:** [이수만](../Page/이수만.md "wikilink"), [왕영은](../Page/왕영은.md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김창완 (가수, 작곡가)
 윤학원 (중앙대교수, 합창지휘자)
@@ -508,9 +508,9 @@
 
 ### 1991년
 
-**방영일 :** [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (일) 오후 05:10 \[생방송\]
+**방영일 :** [1991년](../Page/1991년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (일) 오후 05:10 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [이문세](https://ko.wikipedia.org/wiki/이문세 "wikilink"), [김은주](https://ko.wikipedia.org/wiki/김은주 "wikilink")
+**사회:** [이문세](../Page/이문세.md "wikilink"), [김은주](https://ko.wikipedia.org/wiki/김은주 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 강미자 (경남대교수, 성악가)
 박인수 (서울대교수, 성악가)
@@ -540,7 +540,7 @@
 
 ### 1992년
 
-**방영일 :** [1992년](https://ko.wikipedia.org/wiki/1992년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (화) 오후 06:10 \[생방송\]
+**방영일 :** [1992년](../Page/1992년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (화) 오후 06:10 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
 **사회:** [최수종](../Page/최수종.md "wikilink"), [황선숙](https://ko.wikipedia.org/wiki/황선숙 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
@@ -572,9 +572,9 @@
 
 ### 1993년
 
-**방영일 :** [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (수) 오후 05:10 \[생방송\]
+**방영일 :** [1993년](../Page/1993년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (수) 오후 05:10 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [이문세](https://ko.wikipedia.org/wiki/이문세 "wikilink"), [황선숙](https://ko.wikipedia.org/wiki/황선숙 "wikilink")
+**사회:** [이문세](../Page/이문세.md "wikilink"), [황선숙](https://ko.wikipedia.org/wiki/황선숙 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김공선 (작곡가)
 백남옥 (경희대 성악과 교수)
@@ -605,16 +605,16 @@
 
 ### 1994년
 
-**방영일 :** [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (목) 오후 05:10 \[생방송\]
+**방영일 :** [1994년](../Page/1994년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (목) 오후 05:10 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [이문세](https://ko.wikipedia.org/wiki/이문세 "wikilink"), [박소현](https://ko.wikipedia.org/wiki/박소현_\(배우\) "wikilink")
+**사회:** [이문세](../Page/이문세.md "wikilink"), [박소현](../Page/박소현_\(배우\).md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김성균 (동요작곡가)
 김수정 (아기공룡 둘리 만화가)
 김미숙 (탤런트)
 서우석 (서울대 작곡가 교수)
 백남옥 (경희대 음대교수)
-[김창완](https://ko.wikipedia.org/wiki/김창완 "wikilink") (텔런트,가수)
+[김창완](../Page/김창완.md "wikilink") (텔런트,가수)
 이순영 (교육부 연구관)
 김일수 (MBC라디오국장)
 차인태 (MBC편성이사)
@@ -637,9 +637,9 @@
 
 ### 1995년
 
-**방영일 :** [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (금) 오후 04:00 \[생방송\]
+**방영일 :** [1995년](../Page/1995년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (금) 오후 04:00 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [이문세](https://ko.wikipedia.org/wiki/이문세 "wikilink"), [박소현](https://ko.wikipedia.org/wiki/박소현_\(배우\) "wikilink")
+**사회:** [이문세](../Page/이문세.md "wikilink"), [박소현](../Page/박소현_\(배우\).md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김남윤 (한국종합예술학교 교수)
 정채봉 (동화작가)
@@ -669,9 +669,9 @@
 
 ### 1996년
 
-**방영일 :** [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (일) 오후 03:50 \[생방송\]
+**방영일 :** [1996년](../Page/1996년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (일) 오후 03:50 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [허수경](https://ko.wikipedia.org/wiki/허수경_\(방송인\) "wikilink")
+**사회:** [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [허수경](../Page/허수경_\(방송인\).md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 장창환 (서울교대 교수)
 이순영 (교육부 연구관)
@@ -702,9 +702,9 @@
 
 ### 1997년
 
-**방영일 :** [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (월) 오후 05:00 \[생방송\]
+**방영일 :** [1997년](../Page/1997년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (월) 오후 05:00 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [이문세](https://ko.wikipedia.org/wiki/이문세 "wikilink"), [김수정](https://ko.wikipedia.org/wiki/김수정_\(동음이의\) "wikilink")
+**사회:** [이문세](../Page/이문세.md "wikilink"), [김수정](https://ko.wikipedia.org/wiki/김수정_\(동음이의\) "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김창수 (제3회 MBC창작동요제 대상곡 작곡자)
 손 숙 (연극인)
@@ -737,7 +737,7 @@
 
 ### 1998년
 
-**방영일 :** [1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (화) 오후 03:00 \[생방송\]
+**방영일 :** [1998년](../Page/1998년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (화) 오후 03:00 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
 **사회:** [이휘재](../Page/이휘재.md "wikilink"), [김은주](https://ko.wikipedia.org/wiki/김은주 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
@@ -776,9 +776,9 @@
 
 대상곡이 후에 표절 논란이 있었다.\[9\]
 
-**방영일 :** [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (수) 오후 05:00 \[생방송\]
+**방영일 :** [1999년](../Page/1999년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (수) 오후 05:00 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [김승현](../Page/김승현_\(방송인\).md "wikilink"), [방현주](https://ko.wikipedia.org/wiki/방현주 "wikilink")
+**사회:** [김승현](../Page/김승현_\(방송인\).md "wikilink"), [방현주](../Page/방현주.md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 강화자 (성악가, 연세대교수)
 신귀복 (동요작곡가)
@@ -818,9 +818,9 @@
 
 ### 2000년
 
-**방영일 :** [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (금) 오후 05:00 \[생방송\]
+**방영일 :** [2000년](../Page/2000년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (금) 오후 05:00 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [박광현](https://ko.wikipedia.org/wiki/박광현_\(배우\) "wikilink"), [방현주](https://ko.wikipedia.org/wiki/방현주 "wikilink")
+**사회:** [박광현](../Page/박광현_\(배우\).md "wikilink"), [방현주](../Page/방현주.md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 채인선 (아동문학가)
 우제곤 (예성출판사)
@@ -849,9 +849,9 @@
 
 ### 2001년
 
-**방영일 :** [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (토) 오후 03:00 \[생방송\]
+**방영일 :** [2001년](../Page/2001년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (토) 오후 03:00 \[생방송\]
 **장소:** [리틀엔젤스 예술회관](https://ko.wikipedia.org/wiki/리틀엔젤스_예술회관 "wikilink")
-**사회:** [정선희](../Page/정선희.md "wikilink"), [박광현](https://ko.wikipedia.org/wiki/박광현_\(배우\) "wikilink")
+**사회:** [정선희](../Page/정선희.md "wikilink"), [박광현](../Page/박광현_\(배우\).md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김대원 (교육인적자원부 연구사)
 유병무 (동요작곡가)
@@ -888,9 +888,9 @@
 
 ### 2002년
 
-**방영일 :** [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [5월 3일](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") (금) 오후 04:00 \[생방송\]
-**장소:** [강원대학교](https://ko.wikipedia.org/wiki/강원대학교 "wikilink") 백령문화관(현 백령아트센터)
-**사회:** [옥주현](https://ko.wikipedia.org/wiki/옥주현 "wikilink"), [캔](https://ko.wikipedia.org/wiki/캔_\(음악_그룹\) "wikilink")
+**방영일 :** [2002년](../Page/2002년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") (금) 오후 04:00 \[생방송\]
+**장소:** [강원대학교](../Page/강원대학교.md "wikilink") 백령문화관(현 백령아트센터)
+**사회:** [옥주현](../Page/옥주현.md "wikilink"), [캔](../Page/캔_\(음악_그룹\).md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 정예경 (제13회 MBC창작동요제 대상 수상자)
 예 민 (가수, 대중음악 작곡가)
@@ -929,9 +929,9 @@
 
 ### 2003년
 
-**방영일 :** [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (월) 오후 03:20 \[생방송\]
+**방영일 :** [2003년](../Page/2003년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (월) 오후 03:20 \[생방송\]
 **장소:** [건국대학교](https://ko.wikipedia.org/wiki/건국대학교 "wikilink") 새천년관 대공연장
-**사회:** [신동진](https://ko.wikipedia.org/wiki/신동진_\(아나운서\) "wikilink"), [옥주현](https://ko.wikipedia.org/wiki/옥주현 "wikilink")
+**사회:** [신동진](../Page/신동진_\(아나운서\).md "wikilink"), [옥주현](../Page/옥주현.md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김용택 (시인,교사 전북 임실 덕치초등학교)
 방금주 (서울교대 음악과)
@@ -967,9 +967,9 @@
 
 ### 2004년
 
-**방영일 :** [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (수) 오후 03:00 \[생방송\]
+**방영일 :** [2004년](../Page/2004년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (수) 오후 03:00 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [박준형](https://ko.wikipedia.org/wiki/박준형_\(희극인\) "wikilink"), [서민정](../Page/서민정.md "wikilink")
+**사회:** [박준형](../Page/박준형_\(희극인\).md "wikilink"), [서민정](../Page/서민정.md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김공선 (동요작곡가)
 김창완 (작곡가.가수)
@@ -1001,9 +1001,9 @@
 
 ### 2005년
 
-**방영일 :** [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (목) 오후 03:00 \[생방송\]
+**방영일 :** [2005년](../Page/2005년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (목) 오후 03:00 \[생방송\]
 **장소:** [호암아트홀](https://ko.wikipedia.org/wiki/호암아트홀 "wikilink")
-**사회:** [서경석](https://ko.wikipedia.org/wiki/서경석_\(희극인\) "wikilink"), [정려원](https://ko.wikipedia.org/wiki/정려원 "wikilink"), [이영유](https://ko.wikipedia.org/wiki/이영유 "wikilink"), [박지빈](https://ko.wikipedia.org/wiki/박지빈 "wikilink")
+**사회:** [서경석](../Page/서경석_\(희극인\).md "wikilink"), [정려원](../Page/정려원.md "wikilink"), [이영유](../Page/이영유.md "wikilink"), [박지빈](../Page/박지빈.md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 김현철 (가수)
 임은주 (예원학교 음악부장)
@@ -1036,9 +1036,9 @@
 
 ### 2006년
 
-**방영일 :** [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (금) 오후 04:00 \[녹화방송 (4월 28일 오후 05:00)\]
-**장소:** [금강산관광지구](https://ko.wikipedia.org/wiki/금강산관광지구 "wikilink") 온정각 야외무대 ([조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink"), [강원도](https://ko.wikipedia.org/wiki/강원도_\(북\) "wikilink") [고성군](../Page/고성군_\(북\).md "wikilink") 고성읍 일대)
-**사회:** [신동호](https://ko.wikipedia.org/wiki/신동호_\(아나운서\) "wikilink"), [윤은혜](https://ko.wikipedia.org/wiki/윤은혜 "wikilink")
+**방영일 :** [2006년](../Page/2006년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (금) 오후 04:00 \[녹화방송 (4월 28일 오후 05:00)\]
+**장소:** [금강산관광지구](https://ko.wikipedia.org/wiki/금강산관광지구 "wikilink") 온정각 야외무대 ([조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink"), [강원도](../Page/강원도_\(북\).md "wikilink") [고성군](../Page/고성군_\(북\).md "wikilink") 고성읍 일대)
+**사회:** [신동호](../Page/신동호_\(아나운서\).md "wikilink"), [윤은혜](../Page/윤은혜.md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 엄정행 (성악가)
 이지영 (성악가)
@@ -1066,9 +1066,9 @@
 
 ### 2007년
 
-**방영일 :** [2007년](https://ko.wikipedia.org/wiki/2007년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (토) 오전 09:50 \[녹화방송 (5월 2일 오후 05:00)\]
+**방영일 :** [2007년](../Page/2007년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (토) 오전 09:50 \[녹화방송 (5월 2일 오후 05:00)\]
 **장소:** 서울 [올림픽공원](https://ko.wikipedia.org/wiki/올림픽공원 "wikilink") 올림픽홀
-**사회:** [박명수](https://ko.wikipedia.org/wiki/박명수 "wikilink"), [박정아](https://ko.wikipedia.org/wiki/박정아_\(연예인\) "wikilink")
+**사회:** [박명수](../Page/박명수.md "wikilink"), [박정아](../Page/박정아_\(연예인\).md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 구천(한국 합창 총연합회 이사장, 지휘자)
 진동주(서울 교동초등학교 교장, 동요 작곡가)
@@ -1101,9 +1101,9 @@
 
 ### 2008년
 
-**방영일 :** [2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (월) 오후 05:00 \[생방송\]
+**방영일 :** [2008년](../Page/2008년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (월) 오후 05:00 \[생방송\]
 **장소:** 일산 MBC 드림센터
-**사회:** [오상진](../Page/오상진.md "wikilink"), [옥주현](https://ko.wikipedia.org/wiki/옥주현 "wikilink")
+**사회:** [오상진](../Page/오상진.md "wikilink"), [옥주현](../Page/옥주현.md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 정윤환(숭의여대 유아음악과 교수)
 김인혜(서울대 성악과 교수)
@@ -1139,9 +1139,9 @@
 
 ### 2009년
 
-**방영일 :** [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (화) 오전 09:30 \[녹화방송 - 녹화일 5월 3일(일) 오후 6시\]
+**방영일 :** [2009년](../Page/2009년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (화) 오전 09:30 \[녹화방송 - 녹화일 5월 3일(일) 오후 6시\]
 **장소:** 일산 MBC 드림센터
-**사회:** [태연](https://ko.wikipedia.org/wiki/태연 "wikilink"), [김신영](https://ko.wikipedia.org/wiki/김신영 "wikilink")
+**사회:** [태연](../Page/태연.md "wikilink"), [김신영](../Page/김신영.md "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 유병무(작곡가)
 윤종신(가수, 프로듀서)
@@ -1177,9 +1177,9 @@
 
 ### 2010년
 
-**방영일 :** [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [5월 5일](https://ko.wikipedia.org/wiki/5월_5일 "wikilink") (수) 오후 05:00 \[생방송\]
+**방영일 :** [2010년](../Page/2010년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") (수) 오후 05:00 \[생방송\]
 **장소:** 여의도 MBC 방송센터 공개홀
-**사회:** [신동](https://ko.wikipedia.org/wiki/신동_\(가수\) "wikilink"), [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")
+**사회:** [신동](../Page/신동_\(가수\).md "wikilink"), [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")
 \------------------------------------------------------------------------------ **심사위원 :**
 조효임(서울교대 음악교육과 교수)
 김현철(가수, 작곡가)
@@ -1205,12 +1205,12 @@
 
 ## "아빠 힘내세요" 표절 시비로 인한 손해배상 소송
 
-제15회 MBC 창작동요제에서 당시 입선을 받았던 "아빠 힘내세요"는 대회에 입선한지 15년만인 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 표절 시비 논란이 발생하여 손해배상 청구 소송이 있었다. [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [5월 14일에](https://ko.wikipedia.org/wiki/5월_14일 "wikilink") 법원 1심과 항소심 모두 표절이 아니라는 판결을 받고, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 2일에](https://ko.wikipedia.org/wiki/6월_2일 "wikilink") [대법원](https://ko.wikipedia.org/wiki/대법원 "wikilink")에서도 표절이 아니라는 확정 판결을 받음으로써 표절 시비 논란에서 완전히 벗어나게 됐다.\[13\]
+제15회 MBC 창작동요제에서 당시 입선을 받았던 "아빠 힘내세요"는 대회에 입선한지 15년만인 [2012년](../Page/2012년.md "wikilink")에 표절 시비 논란이 발생하여 손해배상 청구 소송이 있었다. [2014년](../Page/2014년.md "wikilink") [5월 14일에](../Page/5월_14일.md "wikilink") 법원 1심과 항소심 모두 표절이 아니라는 판결을 받고, [2015년](../Page/2015년.md "wikilink") [6월 2일에](../Page/6월_2일.md "wikilink") [대법원](https://ko.wikipedia.org/wiki/대법원 "wikilink")에서도 표절이 아니라는 확정 판결을 받음으로써 표절 시비 논란에서 완전히 벗어나게 됐다.\[13\]
 
 ## 같이 보기
 
-  - [MBC 대학가요제](https://ko.wikipedia.org/wiki/MBC_대학가요제 "wikilink")
-  - [MBC 강변가요제](https://ko.wikipedia.org/wiki/MBC_강변가요제 "wikilink")
+  - [MBC 대학가요제](../Page/MBC_대학가요제.md "wikilink")
+  - [MBC 강변가요제](../Page/MBC_강변가요제.md "wikilink")
   - [KBS 초록동요제](../Page/KBS_초록동요제.md "wikilink")
   - [KBS 창작동요대회](../Page/KBS_창작동요대회.md "wikilink")
   - [EBS 고운노래발표회](https://ko.wikipedia.org/wiki/EBS_고운노래발표회 "wikilink")
@@ -1231,10 +1231,10 @@
 
 [분류:한국의 동요](https://ko.wikipedia.org/wiki/분류:한국의_동요 "wikilink") [분류:문화방송의 음악 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_음악_프로그램 "wikilink") [분류:문화방송의 어린이 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_어린이_텔레비전_프로그램 "wikilink") [분류:문화방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_라디오_프로그램 "wikilink") [분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:대한민국의 어린이 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_어린이_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:1980년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1980년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
 
-1.  [1984년](https://ko.wikipedia.org/wiki/1984년 "wikilink")에는 [5월 4일에](https://ko.wikipedia.org/wiki/5월_4일 "wikilink"), [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")에는 [5월 3일에](https://ko.wikipedia.org/wiki/5월_3일 "wikilink") 방송되었다가, [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") 28회 이후 잠정 폐지 되었다.
+1.  [1984년](../Page/1984년.md "wikilink")에는 [5월 4일에](../Page/5월_4일.md "wikilink"), [2002년](../Page/2002년.md "wikilink")에는 [5월 3일에](../Page/5월_3일.md "wikilink") 방송되었다가, [2010년](../Page/2010년.md "wikilink") 28회 이후 잠정 폐지 되었다.
 2.  1회, 24회, 25회, 27회는 사전녹화 후 방송하였다.
 3.  22회 대회부터는 3차(실연심사)까지 예심을 거치고 출전했다.
-4.  [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") 당시 6학년이었던 정예경의 자작곡이다.
+4.  [1995년](../Page/1995년.md "wikilink") 당시 6학년이었던 정예경의 자작곡이다.
 5.  이 회에는 20주년 기념으로 수상자들이 특별출연하고, 예전 MC가 인터뷰로 출연하였다. 그리고 13회 대상자 정예경이 역대 수상자 최초로 심사위원을 맡았다.
 6.  원래 출전하려던 [가창자](https://ko.wikipedia.org/wiki/가창자 "wikilink")가 감기에 걸려 출전이 어려워지는 바람에 대회 2주전 가창자가 [전혜윤](https://ko.wikipedia.org/wiki/전혜윤 "wikilink") 양으로 바뀌었다.
 7.  발표당시에는 안호철이었으나, 나중에 원 작곡가가 "최현규"로 확인이 되었다.
@@ -1243,4 +1243,4 @@
 10. 단원 중에 \<<노을>\>을 불렀던 최단 양은 그 다음 해인 18회에 가창자로 출전하여 인기상을, 19회 때는 대상을 수상하게 된다.
 11. 영화 "[집으로...](../Page/집으로....md "wikilink")"의 삽입곡으로 쓰였다.
 12. 신희범 군의 누나로 당시 6학년 이었다. 원래는 신희범과 가창자로 같이 출전하려 했으나 대회 며칠 전 윤나효 양에게 자리를 양보했다.
-13. [대법 "동요 '아빠 힘내세요' 표절 아니다"](http://www.newsis.com/ar_detail/view.html?ar_id=NISX20150602_0013701696&cID=10203&pID=10200)  뉴시스, [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [6월 2일자](https://ko.wikipedia.org/wiki/6월_2일 "wikilink")
+13. [대법 "동요 '아빠 힘내세요' 표절 아니다"](http://www.newsis.com/ar_detail/view.html?ar_id=NISX20150602_0013701696&cID=10203&pID=10200)  뉴시스, [2015년](../Page/2015년.md "wikilink") [6월 2일자](../Page/6월_2일.md "wikilink")

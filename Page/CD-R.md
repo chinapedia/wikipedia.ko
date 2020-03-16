@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CD-R](https://ko.wikipedia.org/wiki/CD-R).
 
 
-**CD-R**()은 [필립스](https://ko.wikipedia.org/wiki/필립스 "wikilink")사와 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")사가 개발한 [콤팩트 디스크의](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 한 종류로서 많은 양의 자료를 [디지털](https://ko.wikipedia.org/wiki/디지털 "wikilink") 형태로 저장할 수 있는 광학 외부기억 매체이다. **CD-WORM**( 또는 )이라고도 한다. 보통 데이터가 없는 상태로 제작되어 소비자가 직접 CD작성 기능이 있는 CD기록장치로 데이터를 기록할 수 있다. 저렴한 가격과 기존 CD드라이브와의 뛰어난 호환성으로 인해 전 세계적으로 널리 쓰인다. CD-R에 기록하는 행위는 영어로 원래 burn(태운다)한다고 쓰는데, 한국어로는 “굽는다”고 널리 말한다. 이는 CD-R에 데이터를 기록할 때 [레이저](https://ko.wikipedia.org/wiki/레이저 "wikilink")를 이용하여 트랙에 열을 가하므로 완성된 CD가 따뜻해서 생긴 말이다. 주요 CD-R 제조업체로는 [3M](https://ko.wikipedia.org/wiki/3M "wikilink"), 다이요유덴, 소니, [SKC](../Page/SKC.md "wikilink"), [삼성](https://ko.wikipedia.org/wiki/삼성전자 "wikilink"), [LG](https://ko.wikipedia.org/wiki/LG전자 "wikilink"), [HP](../Page/휴렛_팩커드.md "wikilink"), [IMATION](https://ko.wikipedia.org/wiki/이메이션 "wikilink"), [SAEHAN](https://ko.wikipedia.org/wiki/새한미디어 "wikilink"), [DDZONE등이](https://ko.wikipedia.org/wiki/디디존 "wikilink") 있다. 저장 용량은 [콤팩트 디스크의](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 일반 규격인 650-700 MB정도 된다.
+**CD-R**()은 [필립스](../Page/필립스.md "wikilink")사와 [소니](../Page/소니.md "wikilink")사가 개발한 [콤팩트 디스크의](../Page/콤팩트_디스크.md "wikilink") 한 종류로서 많은 양의 자료를 [디지털](https://ko.wikipedia.org/wiki/디지털 "wikilink") 형태로 저장할 수 있는 광학 외부기억 매체이다. **CD-WORM**( 또는 )이라고도 한다. 보통 데이터가 없는 상태로 제작되어 소비자가 직접 CD작성 기능이 있는 CD기록장치로 데이터를 기록할 수 있다. 저렴한 가격과 기존 CD드라이브와의 뛰어난 호환성으로 인해 전 세계적으로 널리 쓰인다. CD-R에 기록하는 행위는 영어로 원래 burn(태운다)한다고 쓰는데, 한국어로는 “굽는다”고 널리 말한다. 이는 CD-R에 데이터를 기록할 때 [레이저](../Page/레이저.md "wikilink")를 이용하여 트랙에 열을 가하므로 완성된 CD가 따뜻해서 생긴 말이다. 주요 CD-R 제조업체로는 [3M](../Page/3M.md "wikilink"), 다이요유덴, 소니, [SKC](../Page/SKC.md "wikilink"), [삼성](https://ko.wikipedia.org/wiki/삼성전자 "wikilink"), [LG](../Page/LG전자.md "wikilink"), [HP](../Page/휴렛_팩커드.md "wikilink"), [IMATION](https://ko.wikipedia.org/wiki/이메이션 "wikilink"), [SAEHAN](https://ko.wikipedia.org/wiki/새한미디어 "wikilink"), [DDZONE등이](https://ko.wikipedia.org/wiki/디디존 "wikilink") 있다. 저장 용량은 [콤팩트 디스크의](../Page/콤팩트_디스크.md "wikilink") 일반 규격인 650-700 MB정도 된다.
 
 ## 특징
 
@@ -26,7 +26,7 @@
 ## 같이 보기
 
   - [CD-RW](https://ko.wikipedia.org/wiki/CD-RW "wikilink")
-  - [DVD-R](https://ko.wikipedia.org/wiki/DVD-R "wikilink")
+  - [DVD-R](../Page/DVD-R.md "wikilink")
   - [DVD-RW](https://ko.wikipedia.org/wiki/DVD-RW "wikilink")
 
 [R](https://ko.wikipedia.org/wiki/분류:CD "wikilink") [분류:기록 장치](https://ko.wikipedia.org/wiki/분류:기록_장치 "wikilink") [분류:영상 저장 매체](https://ko.wikipedia.org/wiki/분류:영상_저장_매체 "wikilink") [분류:소리 저장 매체](https://ko.wikipedia.org/wiki/분류:소리_저장_매체 "wikilink") [분류:일본의 발명품](https://ko.wikipedia.org/wiki/분류:일본의_발명품 "wikilink")

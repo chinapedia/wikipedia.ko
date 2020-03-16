@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [FIFA U-20 ](https://ko.wikipedia.org/wiki/FIFA_U-20_).
 
 
-**FIFA U-20 월드컵**(FIFA U-20 World Cup)은 [국제 축구 연맹](https://ko.wikipedia.org/wiki/국제_축구_연맹 "wikilink")(FIFA) 주관으로 2년마다 열리는 청소년 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회이다. 각국의 20세 이하 남자 축구 대표팀이 참가한다. 이 대회는 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink")까지 **FIFA 세계 청소년 축구 선수권 대회**(FIFA World Youth Championship)라는 명칭으로 불리기도 했다.
+**FIFA U-20 월드컵**(FIFA U-20 World Cup)은 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")(FIFA) 주관으로 2년마다 열리는 청소년 [축구](../Page/축구.md "wikilink") 대회이다. 각국의 20세 이하 남자 축구 대표팀이 참가한다. 이 대회는 [2005년](../Page/2005년.md "wikilink")까지 **FIFA 세계 청소년 축구 선수권 대회**(FIFA World Youth Championship)라는 명칭으로 불리기도 했다.
 
 ## 대륙별 예선
 
-| 대륙별 연맹                                                                           | 대회                                                                                |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [아시아 축구 연맹](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink") (AFC)            | [AFC U-19 축구 선수권 대회](../Page/AFC_U-19_축구_선수권_대회.md "wikilink")                    |
-| [아프리카 축구 연맹](https://ko.wikipedia.org/wiki/아프리카_축구_연맹 "wikilink") (CAF)          | [아프리카 청소년 축구 선수권 대회](https://ko.wikipedia.org/wiki/아프리카_청소년_축구_선수권_대회 "wikilink") |
-| [북중미카리브 축구 연맹](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink") (CONCACAF) | [CONCACAF U-20 축구 선수권 대회](../Page/CONCACAF_U-20_축구_선수권_대회.md "wikilink")          |
-| [남미 축구 연맹](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink") (CONMEBOL)         | [CONMEBOL U-20 축구 선수권 대회](../Page/CONMEBOL_U-20_축구_선수권_대회.md "wikilink")          |
-| [오세아니아 축구 연맹](https://ko.wikipedia.org/wiki/오세아니아_축구_연맹 "wikilink") (OFC)        | [OFC U-20 축구 선수권 대회](../Page/OFC_U-20_축구_선수권_대회.md "wikilink")                    |
-| [유럽 축구 연맹](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink") (UEFA)             | [UEFA U-19 축구 선수권 대회](../Page/UEFA_U-19_축구_선수권_대회.md "wikilink")                  |
+| 대륙별 연맹                                                        | 대회                                                                                |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink") (AFC)            | [AFC U-19 축구 선수권 대회](../Page/AFC_U-19_축구_선수권_대회.md "wikilink")                    |
+| [아프리카 축구 연맹](../Page/아프리카_축구_연맹.md "wikilink") (CAF)          | [아프리카 청소년 축구 선수권 대회](https://ko.wikipedia.org/wiki/아프리카_청소년_축구_선수권_대회 "wikilink") |
+| [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink") (CONCACAF) | [CONCACAF U-20 축구 선수권 대회](../Page/CONCACAF_U-20_축구_선수권_대회.md "wikilink")          |
+| [남미 축구 연맹](../Page/남미_축구_연맹.md "wikilink") (CONMEBOL)         | [CONMEBOL U-20 축구 선수권 대회](../Page/CONMEBOL_U-20_축구_선수권_대회.md "wikilink")          |
+| [오세아니아 축구 연맹](../Page/오세아니아_축구_연맹.md "wikilink") (OFC)        | [OFC U-20 축구 선수권 대회](../Page/OFC_U-20_축구_선수권_대회.md "wikilink")                    |
+| [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink") (UEFA)             | [UEFA U-19 축구 선수권 대회](../Page/UEFA_U-19_축구_선수권_대회.md "wikilink")                  |
 
 ## 역대 U-20 월드컵 결과
 
@@ -48,9 +48,9 @@
 </tr>
 <tr class="even">
 <td><p>1977년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1977년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1977년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Pre-1999_Flag_of_Tunisia.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/튀니지" title="wikilink">튀니지</a></p></td>
+<a href="../Page/튀니지.md" title="wikilink">튀니지</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_Soviet_Union.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/소련_U-20_축구_국가대표팀" title="wikilink">소련</a></strong></p></td>
 <td><p><strong>2 – 2</strong><br />
@@ -63,11 +63,11 @@
 </tr>
 <tr class="odd">
 <td><p>1979년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1979년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1979년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Japan_(1870-1999).svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a></p></td>
+<a href="../Page/일본.md" title="wikilink">일본</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Argentina.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/아르헨티나_U-20_축구_국가대표팀" title="wikilink">아르헨티나</a></strong></p></td>
+<a href="../Page/아르헨티나_U-20_축구_국가대표팀.md" title="wikilink">아르헨티나</a></strong></p></td>
 <td><p><strong>3 – 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_Soviet_Union.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/소련_U-20_축구_국가대표팀" title="wikilink">소련</a></p></td>
@@ -76,9 +76,9 @@
 </tr>
 <tr class="even">
 <td><p>1981년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1981년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1981년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Australia.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a></p></td>
+<a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Germany.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/독일_U-20_축구_국가대표팀" title="wikilink">서독</a></strong></p></td>
 <td><p><strong>4 – 0</strong></p></td>
@@ -89,22 +89,22 @@
 </tr>
 <tr class="odd">
 <td><p>1983년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1983년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1983년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/멕시코_U-20_축구_국가대표팀" title="wikilink">멕시코</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil_(1968-1992).svg" title="wikilink">100x20px</a><br />
 <a href="../Page/브라질_U-20_축구_국가대표팀.md" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Argentina.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/아르헨티나" title="wikilink">아르헨티나</a></p></td>
+<a href="../Page/아르헨티나.md" title="wikilink">아르헨티나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Poland.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/폴란드_U-20_축구_국가대표팀" title="wikilink">폴란드</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1985년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1985년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1985년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_Soviet_Union.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/소련" title="wikilink">소련</a></p></td>
+<a href="../Page/소련.md" title="wikilink">소련</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil_(1968-1992).svg" title="wikilink">100x20px</a><br />
 <a href="../Page/브라질_U-20_축구_국가대표팀.md" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>1 – 0</strong><br />
@@ -116,9 +116,9 @@
 </tr>
 <tr class="odd">
 <td><p>1987년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1987년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1987년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Chile.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/칠레" title="wikilink">칠레</a></p></td>
+<a href="../Page/칠레.md" title="wikilink">칠레</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_SFR_Yugoslavia.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/유고슬라비아_U-20_축구_국가대표팀" title="wikilink">유고슬라비아</a></strong></p></td>
 <td><p><strong>1 – 1</strong><br />
@@ -131,7 +131,7 @@
 </tr>
 <tr class="even">
 <td><p>1989년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1989년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1989년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Saudi_Arabia.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/사우디아라비아.md" title="wikilink">사우디아라비아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Portugal.svg" title="wikilink">100x20px</a><br />
@@ -144,9 +144,9 @@
 </tr>
 <tr class="odd">
 <td><p>1991년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1991년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1991년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Portugal.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/포르투갈" title="wikilink">포르투갈</a></p></td>
+<a href="../Page/포르투갈.md" title="wikilink">포르투갈</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Portugal.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/포르투갈_U-20_축구_국가대표팀" title="wikilink">포르투갈</a></strong></p></td>
 <td><p><strong>0 – 0</strong><br />
@@ -159,9 +159,9 @@
 </tr>
 <tr class="even">
 <td><p>1993년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1993년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1993년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Australia.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a></p></td>
+<a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/브라질_U-20_축구_국가대표팀.md" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
@@ -172,11 +172,11 @@
 </tr>
 <tr class="odd">
 <td><p>1995년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1995년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1995년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Qatar.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/카타르" title="wikilink">카타르</a></p></td>
+<a href="../Page/카타르.md" title="wikilink">카타르</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Argentina.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/아르헨티나_U-20_축구_국가대표팀" title="wikilink">아르헨티나</a></strong></p></td>
+<a href="../Page/아르헨티나_U-20_축구_국가대표팀.md" title="wikilink">아르헨티나</a></strong></p></td>
 <td><p><strong>2 – 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/브라질_U-20_축구_국가대표팀.md" title="wikilink">브라질</a></p></td>
@@ -185,11 +185,11 @@
 </tr>
 <tr class="even">
 <td><p>1997년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1997년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1997년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Malaysia.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/말레이시아" title="wikilink">말레이시아</a></p></td>
+<a href="../Page/말레이시아.md" title="wikilink">말레이시아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Argentina.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/아르헨티나_U-20_축구_국가대표팀" title="wikilink">아르헨티나</a></strong></p></td>
+<a href="../Page/아르헨티나_U-20_축구_국가대표팀.md" title="wikilink">아르헨티나</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Uruguay.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/우루과이_U-20_축구_국가대표팀" title="wikilink">우루과이</a></p></td>
@@ -198,9 +198,9 @@
 </tr>
 <tr class="odd">
 <td><p>1999년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1999년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1999년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Nigeria.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/나이지리아" title="wikilink">나이지리아</a></p></td>
+<a href="../Page/나이지리아.md" title="wikilink">나이지리아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Spain.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/스페인_U-20_축구_국가대표팀" title="wikilink">스페인</a></strong></p></td>
 <td><p><strong>4 – 0</strong></p></td>
@@ -211,11 +211,11 @@
 </tr>
 <tr class="even">
 <td><p>2001년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2001년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/2001년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Argentina.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/아르헨티나" title="wikilink">아르헨티나</a></p></td>
+<a href="../Page/아르헨티나.md" title="wikilink">아르헨티나</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Argentina.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/아르헨티나_U-20_축구_국가대표팀" title="wikilink">아르헨티나</a></strong></p></td>
+<a href="../Page/아르헨티나_U-20_축구_국가대표팀.md" title="wikilink">아르헨티나</a></strong></p></td>
 <td><p><strong>3 – 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Ghana.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/가나_U-20_축구_국가대표팀" title="wikilink">가나</a></p></td>
@@ -224,9 +224,9 @@
 </tr>
 <tr class="odd">
 <td><p>2003년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2003년_FIFA_세계_청소년_축구_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/2003년_FIFA_세계_청소년_축구_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_Arab_Emirates.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/아랍에미리트" title="wikilink">아랍에미리트</a></p></td>
+<a href="../Page/아랍에미리트.md" title="wikilink">아랍에미리트</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/브라질_U-20_축구_국가대표팀.md" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
@@ -239,9 +239,9 @@
 <td><p>2005년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2005년_FIFA_U-20_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_Netherlands.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/네덜란드" title="wikilink">네덜란드</a></p></td>
+<a href="../Page/네덜란드.md" title="wikilink">네덜란드</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Argentina.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/아르헨티나_U-20_축구_국가대표팀" title="wikilink">아르헨티나</a></strong></p></td>
+<a href="../Page/아르헨티나_U-20_축구_국가대표팀.md" title="wikilink">아르헨티나</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Nigeria.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/나이지리아_U-20_축구_국가대표팀" title="wikilink">나이지리아</a></p></td>
@@ -285,9 +285,9 @@
 <td><p>2007년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2007년_FIFA_U-20_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Canada.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/캐나다" title="wikilink">캐나다</a></p></td>
+<a href="../Page/캐나다.md" title="wikilink">캐나다</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Argentina.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/아르헨티나" title="wikilink">아르헨티나</a></strong></p></td>
+<a href="../Page/아르헨티나.md" title="wikilink">아르헨티나</a></strong></p></td>
 <td><p><strong>2 – 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_Czech_Republic.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/체코_U-20_축구_국가대표팀" title="wikilink">체코</a></p></td>
@@ -298,7 +298,7 @@
 <td><p>2009년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2009년_FIFA_U-20_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Egypt.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/이집트" title="wikilink">이집트</a></p></td>
+<a href="../Page/이집트.md" title="wikilink">이집트</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Ghana.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/가나_U-20_축구_국가대표팀" title="wikilink">가나</a></strong></p></td>
 <td><p><strong>0 – 0</strong><br />
@@ -313,7 +313,7 @@
 <td><p>2011년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2011년_FIFA_U-20_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Colombia.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/콜롬비아" title="wikilink">콜롬비아</a></p></td>
+<a href="../Page/콜롬비아.md" title="wikilink">콜롬비아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Brazil.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/브라질_U-20_축구_국가대표팀.md" title="wikilink">브라질</a></strong></p></td>
 <td><p><strong>3 – 2</strong></p></td>
@@ -326,7 +326,7 @@
 <td><p>2013년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2013년_FIFA_U-20_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Turkey.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/터키" title="wikilink">터키</a></p></td>
+<a href="../Page/터키.md" title="wikilink">터키</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_France.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/프랑스_U-20_축구_국가대표팀" title="wikilink">프랑스</a></strong></p></td>
 <td><p><strong>0 – 0</strong><br />
@@ -341,7 +341,7 @@
 <td><p>2015년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2015년_FIFA_U-20_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_New_Zealand.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Serbia.svg" title="wikilink">100x20px</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/세르비아_U-20_축구_국가대표팀" title="wikilink">세르비아</a></strong></p></td>
 <td><p><strong>2 – 1</strong><br />
@@ -355,7 +355,7 @@
 <td><p>2017년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2017년_FIFA_U-20_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_South_Korea.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_England.svg" title="wikilink">100x20px</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/잉글랜드_U-20_축구_국가대표팀" title="wikilink">잉글랜드</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
@@ -368,12 +368,12 @@
 <td><p>2019년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2019년_FIFA_U-20_월드컵" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Poland.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/폴란드" title="wikilink">폴란드</a></p></td>
+<a href="../Page/폴란드.md" title="wikilink">폴란드</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Ukraine.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/우크라이나_U-20_축구_국가대표팀" title="wikilink">우크라이나</a></strong></p></td>
 <td><p><strong>3 – 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_South_Korea.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_U-20_축구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_U-20_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Ecuador.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/에콰도르_U-20_축구_국가대표팀" title="wikilink">에콰도르</a></p></td>
 </tr>
@@ -381,7 +381,7 @@
 <td><p>2021년<br />
 <em><a href="../Page/2021년_FIFA_U-20_월드컵.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Indonesia.svg" title="wikilink">100x20px</a><br />
-<a href="https://ko.wikipedia.org/wiki/인도네시아" title="wikilink">인도네시아</a></p></td>
+<a href="../Page/인도네시아.md" title="wikilink">인도네시아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_None.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/?_U-20_축구_국가대표팀" title="wikilink">?</a></strong></p></td>
 <td><p>''' – '''</p></td>
@@ -689,14 +689,14 @@
 
 2회 이상 우승한 국가는 단 4개국으로 아르헨티나(6회), 브라질(5회), 포르투갈(2회), 세르비아(2회) 이다.
 
-| 연맹 (대륙)                                                                    | 수상                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [CONMEBOL (남아메리카)](https://ko.wikipedia.org/wiki/남미_축구_연맹 "wikilink")      | **11회 우승** [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_U-20_축구_국가대표팀 "wikilink") ([1979년](https://ko.wikipedia.org/wiki/1979년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [1995년](https://ko.wikipedia.org/wiki/1995년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [1997년](https://ko.wikipedia.org/wiki/1997년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [2001년](https://ko.wikipedia.org/wiki/2001년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [2005년](https://ko.wikipedia.org/wiki/2005년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [2007년](https://ko.wikipedia.org/wiki/2007년_FIFA_U-20_월드컵 "wikilink")), [브라질](../Page/브라질_U-20_축구_국가대표팀.md "wikilink") ([1983년](https://ko.wikipedia.org/wiki/1983년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [1985년](https://ko.wikipedia.org/wiki/1985년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [1993년](https://ko.wikipedia.org/wiki/1993년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [2003년](https://ko.wikipedia.org/wiki/2003년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [2011년](https://ko.wikipedia.org/wiki/2011년_FIFA_U-20_월드컵 "wikilink"))                                                                                                                                                                                                                                                                                                                                               |
-| [UEFA (유럽)](https://ko.wikipedia.org/wiki/유럽_축구_연맹 "wikilink")             | **10회 우승** [포르투갈](https://ko.wikipedia.org/wiki/포르투갈_U-20_축구_국가대표팀 "wikilink") ([1989년](https://ko.wikipedia.org/wiki/1989년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [1991년](https://ko.wikipedia.org/wiki/1991년_FIFA_세계_청소년_축구_선수권_대회 "wikilink")), [세르비아](https://ko.wikipedia.org/wiki/세르비아_U-20_축구_국가대표팀 "wikilink") ([1987년](https://ko.wikipedia.org/wiki/1987년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [2015년](https://ko.wikipedia.org/wiki/2015년_FIFA_U-20_월드컵 "wikilink")), [소련](https://ko.wikipedia.org/wiki/소련_U-19_축구_국가대표팀 "wikilink") ([1977년](https://ko.wikipedia.org/wiki/1977년_FIFA_세계_청소년_축구_선수권_대회 "wikilink")), [독일](https://ko.wikipedia.org/wiki/독일_U-20_축구_국가대표팀 "wikilink") ([1981년](https://ko.wikipedia.org/wiki/1981년_FIFA_세계_청소년_축구_선수권_대회 "wikilink")), [스페인](https://ko.wikipedia.org/wiki/스페인_U-20_축구_국가대표팀 "wikilink") ([1999년](https://ko.wikipedia.org/wiki/1999년_FIFA_세계_청소년_축구_선수권_대회 "wikilink")), [프랑스](https://ko.wikipedia.org/wiki/프랑스_U-20_축구_국가대표팀 "wikilink") ([2013년](https://ko.wikipedia.org/wiki/2013년_FIFA_U-20_월드컵 "wikilink")), [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드_U-20_축구_국가대표팀 "wikilink") ([2017년](https://ko.wikipedia.org/wiki/2017년_FIFA_U-20_월드컵 "wikilink")), [우크라이나](https://ko.wikipedia.org/wiki/우크라이나_U-20_축구_국가대표팀 "wikilink") ([2019년](https://ko.wikipedia.org/wiki/2019년_FIFA_U-20_월드컵 "wikilink")) |
-| [CAF (아프리카)](https://ko.wikipedia.org/wiki/아프리카_축구_연맹 "wikilink")          | **1회 우승** [가나](https://ko.wikipedia.org/wiki/가나_U-20_축구_국가대표팀 "wikilink") ([2009년](https://ko.wikipedia.org/wiki/2009년_FIFA_U-20_월드컵 "wikilink"))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [AFC (아시아)](https://ko.wikipedia.org/wiki/아시아_축구_연맹 "wikilink")            | 준우승 [카타르](https://ko.wikipedia.org/wiki/카타르_U-20_축구_국가대표팀 "wikilink") ([1981년](https://ko.wikipedia.org/wiki/1981년_FIFA_세계_청소년_축구_선수권_대회 "wikilink")), [일본](https://ko.wikipedia.org/wiki/일본_U-20_축구_국가대표팀 "wikilink") ([1999년](https://ko.wikipedia.org/wiki/1999년_FIFA_세계_청소년_축구_선수권_대회 "wikilink")), [대한민국](https://ko.wikipedia.org/wiki/대한민국_U-20_축구_국가대표팀 "wikilink") ([2019년](https://ko.wikipedia.org/wiki/2019년_FIFA_U-20_월드컵 "wikilink"))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| [CONCACAF (북중미카리브)](https://ko.wikipedia.org/wiki/북중미카리브_축구_연맹 "wikilink") | 준우승 [멕시코](https://ko.wikipedia.org/wiki/멕시코_U-20_축구_국가대표팀 "wikilink") ([1977년](https://ko.wikipedia.org/wiki/1977년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [OFC (오세아니아)](https://ko.wikipedia.org/wiki/오세아니아_축구_연맹 "wikilink")        | 4위 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아_U-20_축구_국가대표팀 "wikilink") ([1991년](https://ko.wikipedia.org/wiki/1991년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"), [1993년](https://ko.wikipedia.org/wiki/1993년_FIFA_세계_청소년_축구_선수권_대회 "wikilink"))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 연맹 (대륙)                                                 | 수상                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [CONMEBOL (남아메리카)](../Page/남미_축구_연맹.md "wikilink")      | **11회 우승** [아르헨티나](../Page/아르헨티나_U-20_축구_국가대표팀.md "wikilink") ([1979년](../Page/1979년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [1995년](../Page/1995년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [1997년](../Page/1997년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [2001년](../Page/2001년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [2005년](../Page/2005년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [2007년](https://ko.wikipedia.org/wiki/2007년_FIFA_U-20_월드컵 "wikilink")), [브라질](../Page/브라질_U-20_축구_국가대표팀.md "wikilink") ([1983년](../Page/1983년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [1985년](../Page/1985년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [1993년](../Page/1993년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [2003년](../Page/2003년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [2011년](https://ko.wikipedia.org/wiki/2011년_FIFA_U-20_월드컵 "wikilink"))                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| [UEFA (유럽)](../Page/유럽_축구_연맹.md "wikilink")             | **10회 우승** [포르투갈](https://ko.wikipedia.org/wiki/포르투갈_U-20_축구_국가대표팀 "wikilink") ([1989년](../Page/1989년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [1991년](../Page/1991년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink")), [세르비아](https://ko.wikipedia.org/wiki/세르비아_U-20_축구_국가대표팀 "wikilink") ([1987년](../Page/1987년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [2015년](https://ko.wikipedia.org/wiki/2015년_FIFA_U-20_월드컵 "wikilink")), [소련](https://ko.wikipedia.org/wiki/소련_U-19_축구_국가대표팀 "wikilink") ([1977년](../Page/1977년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink")), [독일](https://ko.wikipedia.org/wiki/독일_U-20_축구_국가대표팀 "wikilink") ([1981년](../Page/1981년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink")), [스페인](https://ko.wikipedia.org/wiki/스페인_U-20_축구_국가대표팀 "wikilink") ([1999년](../Page/1999년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink")), [프랑스](https://ko.wikipedia.org/wiki/프랑스_U-20_축구_국가대표팀 "wikilink") ([2013년](https://ko.wikipedia.org/wiki/2013년_FIFA_U-20_월드컵 "wikilink")), [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드_U-20_축구_국가대표팀 "wikilink") ([2017년](https://ko.wikipedia.org/wiki/2017년_FIFA_U-20_월드컵 "wikilink")), [우크라이나](https://ko.wikipedia.org/wiki/우크라이나_U-20_축구_국가대표팀 "wikilink") ([2019년](https://ko.wikipedia.org/wiki/2019년_FIFA_U-20_월드컵 "wikilink")) |
+| [CAF (아프리카)](../Page/아프리카_축구_연맹.md "wikilink")          | **1회 우승** [가나](https://ko.wikipedia.org/wiki/가나_U-20_축구_국가대표팀 "wikilink") ([2009년](https://ko.wikipedia.org/wiki/2009년_FIFA_U-20_월드컵 "wikilink"))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [AFC (아시아)](../Page/아시아_축구_연맹.md "wikilink")            | 준우승 [카타르](https://ko.wikipedia.org/wiki/카타르_U-20_축구_국가대표팀 "wikilink") ([1981년](../Page/1981년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink")), [일본](https://ko.wikipedia.org/wiki/일본_U-20_축구_국가대표팀 "wikilink") ([1999년](../Page/1999년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink")), [대한민국](../Page/대한민국_U-20_축구_국가대표팀.md "wikilink") ([2019년](https://ko.wikipedia.org/wiki/2019년_FIFA_U-20_월드컵 "wikilink"))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| [CONCACAF (북중미카리브)](../Page/북중미카리브_축구_연맹.md "wikilink") | 준우승 [멕시코](https://ko.wikipedia.org/wiki/멕시코_U-20_축구_국가대표팀 "wikilink") ([1977년](../Page/1977년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [OFC (오세아니아)](../Page/오세아니아_축구_연맹.md "wikilink")        | 4위 [오스트레일리아](https://ko.wikipedia.org/wiki/오스트레일리아_U-20_축구_국가대표팀 "wikilink") ([1991년](../Page/1991년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"), [1993년](../Page/1993년_FIFA_세계_청소년_축구_선수권_대회.md "wikilink"))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## 수상
 
@@ -716,7 +716,7 @@
 </tr>
 <tr class="even">
 <td><p>1979 일본</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/디에고_마라도나" title="wikilink">디에고 마라도나</a></p></td>
+<td><p><a href="../Page/디에고_마라도나.md" title="wikilink">디에고 마라도나</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1981 오스트레일리아</p></td>
@@ -732,7 +732,7 @@
 </tr>
 <tr class="even">
 <td><p>1987 칠레</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로베르트_프로시네치키" title="wikilink">로베르트 프로시네치키</a></p></td>
+<td><p><a href="../Page/로베르트_프로시네치키.md" title="wikilink">로베르트 프로시네치키</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1989 사우디아라비아</p></td>
@@ -756,7 +756,7 @@
 </tr>
 <tr class="even">
 <td><p>1999 나이지리아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세이두_케이타" title="wikilink">세이두 케이타</a></p></td>
+<td><p><a href="../Page/세이두_케이타.md" title="wikilink">세이두 케이타</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001 아르헨티나</p></td>
@@ -764,15 +764,15 @@
 </tr>
 <tr class="even">
 <td><p>2003 아랍에미리트</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이스마일_마타르" title="wikilink">이스마일 마타르</a></p></td>
+<td><p><a href="../Page/이스마일_마타르.md" title="wikilink">이스마일 마타르</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005 네덜란드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007 캐나다</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세르히오_아궤로" title="wikilink">세르히오 아궤로</a></p></td>
+<td><p><a href="../Page/세르히오_아궤로.md" title="wikilink">세르히오 아궤로</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009 이집트</p></td>
@@ -784,7 +784,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013 터키</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/폴_포그바" title="wikilink">폴 포그바</a></p></td>
+<td><p><a href="../Page/폴_포그바.md" title="wikilink">폴 포그바</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015 뉴질랜드</p></td>
@@ -796,7 +796,7 @@
 </tr>
 <tr class="even">
 <td><p>2019 폴란드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이강인" title="wikilink">이강인</a></p></td>
+<td><p><a href="../Page/이강인.md" title="wikilink">이강인</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -859,7 +859,7 @@
 </tr>
 <tr class="even">
 <td><p>1995 카타르</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/호세바_에체베리아" title="wikilink">호세바 에체베리아</a></p></td>
+<td><p><a href="../Page/호세바_에체베리아.md" title="wikilink">호세바 에체베리아</a></p></td>
 <td><p>7</p></td>
 </tr>
 <tr class="odd">
@@ -884,12 +884,12 @@
 </tr>
 <tr class="odd">
 <td><p>2005 네덜란드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리오넬_메시" title="wikilink">리오넬 메시</a></p></td>
+<td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="even">
 <td><p>2007 캐나다</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세르히오_아궤로" title="wikilink">세르히오 아궤로</a></p></td>
+<td><p><a href="../Page/세르히오_아궤로.md" title="wikilink">세르히오 아궤로</a></p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
@@ -941,7 +941,7 @@
 </tr>
 <tr class="even">
 <td><p>2011 콜롬비아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미샤엘_시몽이스_도밍게스" title="wikilink">미카</a></p></td>
+<td><p><a href="../Page/미샤엘_시몽이스_도밍게스.md" title="wikilink">미카</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013 터키</p></td>
@@ -1072,16 +1072,16 @@
   - [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink")
   - [FIFA U-17 월드컵](../Page/FIFA_U-17_월드컵.md "wikilink")
   - [FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink")
-  - [FIFA 풋살 월드컵](https://ko.wikipedia.org/wiki/FIFA_풋살_월드컵 "wikilink")
-  - [FIFA 비치사커 월드컵](https://ko.wikipedia.org/wiki/FIFA_비치사커_월드컵 "wikilink")
-  - [올림픽 축구](https://ko.wikipedia.org/wiki/올림픽_축구 "wikilink")
+  - [FIFA 풋살 월드컵](../Page/FIFA_풋살_월드컵.md "wikilink")
+  - [FIFA 비치사커 월드컵](../Page/FIFA_비치사커_월드컵.md "wikilink")
+  - [올림픽 축구](../Page/올림픽_축구.md "wikilink")
   - [FIFA e월드컵](../Page/FIFA_e월드컵.md "wikilink")
 
 **여자 대회**
 
-  - [FIFA 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_여자_월드컵 "wikilink")
-  - [FIFA U-20 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-20_여자_월드컵 "wikilink")
-  - [FIFA U-17 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-17_여자_월드컵 "wikilink")
-  - [여자 올림픽 축구](https://ko.wikipedia.org/wiki/올림픽_축구 "wikilink")
+  - [FIFA 여자 월드컵](../Page/FIFA_여자_월드컵.md "wikilink")
+  - [FIFA U-20 여자 월드컵](../Page/FIFA_U-20_여자_월드컵.md "wikilink")
+  - [FIFA U-17 여자 월드컵](../Page/FIFA_U-17_여자_월드컵.md "wikilink")
+  - [여자 올림픽 축구](../Page/올림픽_축구.md "wikilink")
 
 [FIFA_U-20_월드컵](https://ko.wikipedia.org/wiki/분류:FIFA_U-20_월드컵 "wikilink")

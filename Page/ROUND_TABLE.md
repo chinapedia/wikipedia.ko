@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ROUND TABLE](https://ko.wikipedia.org/wiki/ROUND_TABLE).
 
 
-**라운드 테이블**(, )은 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink")에 대학의 재즈 연구회에서 시작하여, [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")부터는 보컬에 니노(Nino)가 참가해 **라운드 테이블 피처링 니노**(ROUND TABLE featuring Nino)로 활동을 하였으며, [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink")에 베스트앨범을 발매한 후, 휴식기를 가지기로 발표한 뒤로는 **라운드 테이블 피처링 니노**로써의 활동은 중단한 상태이다. 2018년**페이트/그랜드 오더**의 1.5장 테마곡을 **ROUND TABLE feat. DAN**의 명의로 발표하게 되었다.
+**라운드 테이블**(, )은 [일본](../Page/일본.md "wikilink")의 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [1993년](../Page/1993년.md "wikilink")에 대학의 재즈 연구회에서 시작하여, [2002년](../Page/2002년.md "wikilink")부터는 보컬에 니노(Nino)가 참가해 **라운드 테이블 피처링 니노**(ROUND TABLE featuring Nino)로 활동을 하였으며, [2012년](../Page/2012년.md "wikilink")에 베스트앨범을 발매한 후, 휴식기를 가지기로 발표한 뒤로는 **라운드 테이블 피처링 니노**로써의 활동은 중단한 상태이다. 2018년**페이트/그랜드 오더**의 1.5장 테마곡을 **ROUND TABLE feat. DAN**의 명의로 발표하게 되었다.
 
 ## 구성원
 
-  - 기타가와 가쓰토시 (/보컬, [기타](https://ko.wikipedia.org/wiki/기타 "wikilink"), [베이스 기타](https://ko.wikipedia.org/wiki/베이스_기타 "wikilink"))
+  - 기타가와 가쓰토시 (/보컬, [기타](../Page/기타.md "wikilink"), [베이스 기타](../Page/베이스_기타.md "wikilink"))
   - 이토 리에코 (/보컬, [전자 키보드](https://ko.wikipedia.org/wiki/전자_키보드 "wikilink"))
   - Nino (니노/보컬）
 
@@ -13,7 +13,7 @@
 
 ### 싱글
 
-  - Big Wave '71([1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [6월 29일](https://ko.wikipedia.org/wiki/6월_29일 "wikilink") 발매)
+  - Big Wave '71([1998년](../Page/1998년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - DO THE AFRO\!(1998년 [9월 30일](https://ko.wikipedia.org/wiki/9월_30일 "wikilink") 발매)
+  - DO THE AFRO\!(1998년 [9월 30일](../Page/9월_30일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - COOL CLUB RULE([1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") 발매)
+  - COOL CLUB RULE([1999년](../Page/1999년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@
 
 <!-- end list -->
 
-  - PERFECT WORLD(1999년 [10월 27일](https://ko.wikipedia.org/wiki/10월_27일 "wikilink") 발매)
+  - PERFECT WORLD(1999년 [10월 27일](../Page/10월_27일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@
 
 <!-- end list -->
 
-  - Every Every Every([2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [12월 6일발매](https://ko.wikipedia.org/wiki/12월_6일 "wikilink"))
+  - Every Every Every([2000년](../Page/2000년.md "wikilink") [12월 6일발매](../Page/12월_6일.md "wikilink"))
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
 ### 앨범
 
-  - WORLD'S END([1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [8월 27일발매](https://ko.wikipedia.org/wiki/8월_27일 "wikilink"))
+  - WORLD'S END([1997년](../Page/1997년.md "wikilink") [8월 27일발매](../Page/8월_27일.md "wikilink"))
 
 <!-- end list -->
 
@@ -81,7 +81,7 @@
 
 <!-- end list -->
 
-  - Something in the Snow(1997년 [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") 발매)
+  - Something in the Snow(1997년 [12월 5일](../Page/12월_5일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -96,7 +96,7 @@
 
 <!-- end list -->
 
-  - Feelin' Groovy([1998년](https://ko.wikipedia.org/wiki/1998년 "wikilink") [4월 1일](https://ko.wikipedia.org/wiki/4월_1일 "wikilink") 발매)
+  - Feelin' Groovy([1998년](../Page/1998년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -111,7 +111,7 @@
 
 <!-- end list -->
 
-  - DOMINO([1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") [1월 27일](https://ko.wikipedia.org/wiki/1월_27일 "wikilink") 발매)
+  - DOMINO([1999년](../Page/1999년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -130,7 +130,7 @@
 
 <!-- end list -->
 
-  - Big Wave '72(1999년 [7월 7일](https://ko.wikipedia.org/wiki/7월_7일 "wikilink") 발매)
+  - Big Wave '72(1999년 [7월 7일](../Page/7월_7일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -147,7 +147,7 @@
 
 <!-- end list -->
 
-  - CANNON BALL(1999년 [12월 8일](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") 발매)
+  - CANNON BALL(1999년 [12월 8일](../Page/12월_8일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -166,7 +166,7 @@
 
 <!-- end list -->
 
-  - LOOK AROUND([2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [3월 29일](https://ko.wikipedia.org/wiki/3월_29일 "wikilink") 발매)
+  - LOOK AROUND([2000년](../Page/2000년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -189,7 +189,7 @@
 
 <!-- end list -->
 
-  - Big Wave 2000(2000년 [7월 12일](https://ko.wikipedia.org/wiki/7월_12일 "wikilink") 발매)
+  - Big Wave 2000(2000년 [7월 12일](../Page/7월_12일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -205,7 +205,7 @@
 
 <!-- end list -->
 
-  - RADIO BURNIN'([2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") 발매)
+  - RADIO BURNIN'([2001년](../Page/2001년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -228,7 +228,7 @@
 
 <!-- end list -->
 
-  - Big Wave Sunset([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") 발매)
+  - Big Wave Sunset([2003년](../Page/2003년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") 발매)
 
 <!-- end list -->
 
@@ -245,45 +245,45 @@
 
 ### 싱글
 
-1.  Let Me Be With You([2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [4월 24일](https://ko.wikipedia.org/wiki/4월_24일 "wikilink") 발매)
-    1.  Let Me Be With You(TV [애니메이션](https://ko.wikipedia.org/wiki/애니메이션 "wikilink")「[쵸비츠](https://ko.wikipedia.org/wiki/쵸비츠 "wikilink")」오프닝 주제가)
+1.  Let Me Be With You([2002년](../Page/2002년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") 발매)
+    1.  Let Me Be With You(TV [애니메이션](../Page/애니메이션.md "wikilink")「[쵸비츠](../Page/쵸비츠.md "wikilink")」오프닝 주제가)
     2.  Book End Bossa(TV 애니메이션「쵸비츠」[삽입곡](https://ko.wikipedia.org/wiki/삽입곡 "wikilink"))
     3.  Let Me Be With You(Instrumental)
-2.  NEW WORLD(2003년 [1월 22일](https://ko.wikipedia.org/wiki/1월_22일 "wikilink") 발매)
+2.  NEW WORLD(2003년 [1월 22일](../Page/1월_22일.md "wikilink") 발매)
     1.  NEW WORLD(TV 애니메이션「[.hack 팔찌전설](https://ko.wikipedia.org/wiki/.hack "wikilink")//황혼의」 오프닝 주제가)
     2.  Beautiful(TV 애니메이션「.hack//황혼의 팔찌전설」삽입곡)
     3.  NEW WORLD(Instrumental)
-3.  Sunny Side Hill(2003년 [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") 발매)
+3.  Sunny Side Hill(2003년 [10월 22일](../Page/10월_22일.md "wikilink") 발매)
     1.  Sunny Side Hill(TV 애니메이션「[무인혹성 서바이브](https://ko.wikipedia.org/wiki/무인혹성_서바이브 "wikilink")」엔딩 주제가)
     2.  Message
     3.  Sunny Side Hill(Instrumental)
     4.  Message(Instrumental)
-4.  Groovin' Magic([2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [2월 23일](https://ko.wikipedia.org/wiki/2월_23일 "wikilink") 발매)
-    1.  Groovin' Magic(TV 애니메이션「[톱을 노려라2\!](https://ko.wikipedia.org/wiki/톱을_노려라2! "wikilink")」오프닝 주제가)
+4.  Groovin' Magic([2005년](../Page/2005년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") 발매)
+    1.  Groovin' Magic(TV 애니메이션「[톱을 노려라2\!](../Page/톱을_노려라2!.md "wikilink")」오프닝 주제가)
     2.  Stay With Me
     3.  Groovin' Magic(Instrumental)
-5.  Rainbow(2005년 [10월 21일](https://ko.wikipedia.org/wiki/10월_21일 "wikilink") 발매)
-    1.  Rainbow(TV 애니메이션「[ARIA The ANIMATION](https://ko.wikipedia.org/wiki/아리아_\(만화\) "wikilink")」엔딩 주제가)
+5.  Rainbow(2005년 [10월 21일](../Page/10월_21일.md "wikilink") 발매)
+    1.  Rainbow(TV 애니메이션「[ARIA The ANIMATION](../Page/아리아_\(만화\).md "wikilink")」엔딩 주제가)
     2.  Just For You(TV 애니메이션「ARIA The ANIMATION」삽입곡)
     3.  Rainbow(Instrumental)
     4.  Just For You(Instrumental)
-6.  夏待ち([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [4월 26일](https://ko.wikipedia.org/wiki/4월_26일 "wikilink") 발매)
-    1.  夏待ち(여름을 기다리며)(TV 애니메이션「[ARIA The NATURAL](https://ko.wikipedia.org/wiki/아리아_\(만화\) "wikilink")」엔딩 주제가)
+6.  夏待ち([2006년](../Page/2006년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") 발매)
+    1.  夏待ち(여름을 기다리며)(TV 애니메이션「[ARIA The NATURAL](../Page/아리아_\(만화\).md "wikilink")」엔딩 주제가)
     2.  潮騒(파도소리)(TV 애니메이션「ARIA The NATURAL」삽입곡)
     3.  夏待ち(Instrumental)
     4.  潮騒(Instrumental)
-7.  パズル(2006년 [7월 20일](https://ko.wikipedia.org/wiki/7월_20일 "wikilink") 발매)
+7.  パズル(2006년 [7월 20일](../Page/7월_20일.md "wikilink") 발매)
     1.  パズル(퍼즐)(TV 애니메이션「[NHK에 어서 오세요\!](../Page/NHK에_어서_오세요!.md "wikilink")」오프닝 주제가)
     2.  あたしだって同じこと思ってるよ(나도 같은 것을 생각하고 있어)
     3.  パズル(Instrumental)
     4.  あたしだって同じこと思ってるよ(Instrumental)
-8.  恋をしてる(2008년 [6월 25일](https://ko.wikipedia.org/wiki/6월_25일 "wikilink") 발매)
+8.  恋をしてる(2008년 [6월 25일](../Page/6월_25일.md "wikilink") 발매)
     1.  恋をしてる
-    2.  シンフォニー(TV 애니메이션 「[ARIA The ANIMATION](https://ko.wikipedia.org/wiki/아리아_\(만화\) "wikilink")」삽입곡)
+    2.  シンフォニー(TV 애니메이션 「[ARIA The ANIMATION](../Page/아리아_\(만화\).md "wikilink")」삽입곡)
     3.  宝物（homemade demo version）
     4.  恋をしてる（without Nino）
     5.  シンフォニー（without Nino）
-9.  ナガレボシ(2008년 [10월 22일](https://ko.wikipedia.org/wiki/10월_22일 "wikilink") 발매)
+9.  ナガレボシ(2008년 [10월 22일](../Page/10월_22일.md "wikilink") 발매)
     1.  ナガレボシ(TV 애니메이션 「[벚꽃사중주](https://ko.wikipedia.org/wiki/벚꽃사중주 "wikilink")」엔딩 주제가)
     2.  茜色センチメンタル
     3.  祈り
@@ -292,7 +292,7 @@
 
 ### 앨범
 
-1.  APRIL([2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [4월 23일](https://ko.wikipedia.org/wiki/4월_23일 "wikilink") 발매)
+1.  APRIL([2003년](../Page/2003년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") 발매)
     1.  Let Me Be With You
     2.  Dancin' All Night(TV 애니메이션「.hack//황혼의 팔찌전설」[이미지송](https://ko.wikipedia.org/wiki/이미지송 "wikilink"))
     3.  Beautiful
@@ -305,7 +305,7 @@
     10. In April
     11. Love Me Baby
     12. Let Me Be With You(new step mix)
-2.  Nino([2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [8월 30일](https://ko.wikipedia.org/wiki/8월_30일 "wikilink") 발매)
+2.  Nino([2006년](../Page/2006년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") 발매)
     1.  Be Your Girl
     2.  Groovin' Magic
     3.  パズル(extra hot mix)
@@ -318,7 +318,7 @@
     10. Stay With Me
     11. Rainbow
     12. Just A Little
-3.  Distance ([2008년](https://ko.wikipedia.org/wiki/2008년 "wikilink") [12월 24일](https://ko.wikipedia.org/wiki/12월_24일 "wikilink") 발매)
+3.  Distance ([2008년](../Page/2008년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") 발매)
     1.  Long Distance
     2.  恋をしてる
     3.  Sayonara

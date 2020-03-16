@@ -292,13 +292,13 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에두아르두_다_시우바" title="wikilink">에두아르두 다 시우바</a></p></td>
+<td><p><a href="../Page/에두아르두_다_시우바.md" title="wikilink">에두아르두 다 시우바</a></p></td>
 <td></td>
 <td><p>10</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/믈라덴_페트리치" title="wikilink">믈라덴 페트리치</a></p></td>
+<td><p><a href="../Page/믈라덴_페트리치.md" title="wikilink">믈라덴 페트리치</a></p></td>
 <td></td>
 <td><p>7</p></td>
 </tr>
@@ -310,12 +310,12 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/피터_크라우치" title="wikilink">피터 크라우치</a></p></td>
+<td><p><a href="../Page/피터_크라우치.md" title="wikilink">피터 크라우치</a></p></td>
 <td></td>
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/알렉산드르_케르자코프" title="wikilink">알렉산드르 케르자코프</a></p></td>
+<td><p><a href="../Page/알렉산드르_케르자코프.md" title="wikilink">알렉산드르 케르자코프</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -328,7 +328,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안드레이_아르샤빈" title="wikilink">안드레이 아르샤빈</a></p></td>
+<td><p><a href="../Page/안드레이_아르샤빈.md" title="wikilink">안드레이 아르샤빈</a></p></td>
 <td></td>
 <td><p>3</p></td>
 </tr>
@@ -345,19 +345,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/고체_세들로스키" title="wikilink">고체 세들로스키</a></p></td>
+<td><p><a href="../Page/고체_세들로스키.md" title="wikilink">고체 세들로스키</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/다리요_스르나" title="wikilink">다리요 스르나</a></p></td>
+<td><p><a href="../Page/다리요_스르나.md" title="wikilink">다리요 스르나</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/드미트리_시초프" title="wikilink">드미트리 시초프</a></p></td>
+<td><p><a href="../Page/드미트리_시초프.md" title="wikilink">드미트리 시초프</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -5,13 +5,13 @@
 
 최초에 제안되었을 때는 다섯가지의 레벨이 존재했는데, 이후에 중첩 레벨을 비롯한 여러 가지 다른 레벨들이 추가되었다.
 
-RAID는 여러 개의 디스크를 하나로 묶어 하나의 논리적 디스크로 작동하게 하는데, 하드웨어적인 방법과 소프트웨어적인 방법이 있다. 하드웨어적인 방법은 [운영 체제에](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") 이 디스크가 하나의 디스크처럼 보이게 한다. 소프트웨어적인 방법은 주로 운영체제 안에서 구현되며, 사용자에게 디스크를 하나의 디스크처럼 보이게 한다.
+RAID는 여러 개의 디스크를 하나로 묶어 하나의 논리적 디스크로 작동하게 하는데, 하드웨어적인 방법과 소프트웨어적인 방법이 있다. 하드웨어적인 방법은 [운영 체제에](../Page/운영_체제.md "wikilink") 이 디스크가 하나의 디스크처럼 보이게 한다. 소프트웨어적인 방법은 주로 운영체제 안에서 구현되며, 사용자에게 디스크를 하나의 디스크처럼 보이게 한다.
 
 ## 역사
 
 RAID의 기반이 되는 개념은 [Geac 컴퓨터 코퍼레이션의](https://ko.wikipedia.org/wiki/Geac_컴퓨터_코퍼레이션 "wikilink") 공동 창업자 Gus German, Ted Grunau가 이에 대한 개념으로 MF-100을 가리키면서 처음 이야기되었다.\[1\]
 
-RAID라는 용어는 1987년 [캘리포니아 대학교 버클리의](https://ko.wikipedia.org/wiki/캘리포니아_대학교_버클리 "wikilink") [데이비드 패터슨](https://ko.wikipedia.org/wiki/데이비드_패터슨 "wikilink"), [가스 깁슨](https://ko.wikipedia.org/wiki/가스_깁슨 "wikilink"), [랜디 카츠가](https://ko.wikipedia.org/wiki/랜디_카츠 "wikilink") 발명하였다.
+RAID라는 용어는 1987년 [캘리포니아 대학교 버클리의](../Page/캘리포니아_대학교_버클리.md "wikilink") [데이비드 패터슨](../Page/데이비드_패터슨.md "wikilink"), [가스 깁슨](https://ko.wikipedia.org/wiki/가스_깁슨 "wikilink"), [랜디 카츠가](https://ko.wikipedia.org/wiki/랜디_카츠 "wikilink") 발명하였다.
 
 ## 표준 레이드 레벨
 
@@ -48,9 +48,9 @@ RAID라는 용어는 1987년 [캘리포니아 대학교 버클리의](https://ko
 
 ## 같이 보기
 
-  - [디스크 어레이 컨트롤러](https://ko.wikipedia.org/wiki/디스크_어레이_컨트롤러 "wikilink")
-  - [하드 디스크 드라이브](https://ko.wikipedia.org/wiki/하드_디스크_드라이브 "wikilink")
-  - [S.M.A.R.T.](https://ko.wikipedia.org/wiki/S.M.A.R.T. "wikilink")
+  - [디스크 어레이 컨트롤러](../Page/디스크_어레이_컨트롤러.md "wikilink")
+  - [하드 디스크 드라이브](../Page/하드_디스크_드라이브.md "wikilink")
+  - [S.M.A.R.T.](../Page/S.M.A.R.T..md "wikilink")
 
 ## 각주
 

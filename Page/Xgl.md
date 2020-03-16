@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Xgl](https://ko.wikipedia.org/wiki/Xgl).
 
 
-**XGL**은 OpenGL 가속을 사용하는 [X 서버이다](https://ko.wikipedia.org/wiki/X_서버 "wikilink"). [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") [노벨에](https://ko.wikipedia.org/wiki/노벨_\(기업\) "wikilink") 있는 데이비드 레브먼이 처음으로 배포하였다.
+**XGL**은 OpenGL 가속을 사용하는 [X 서버이다](https://ko.wikipedia.org/wiki/X_서버 "wikilink"). [2006년](../Page/2006년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") [노벨에](https://ko.wikipedia.org/wiki/노벨_\(기업\) "wikilink") 있는 데이비드 레브먼이 처음으로 배포하였다.
 
 ## 역사
 

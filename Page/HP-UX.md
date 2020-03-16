@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HP-UX](https://ko.wikipedia.org/wiki/HP-UX).
 
 
-**HP-UX**는 [휴렛 팩커드사에서](../Page/휴렛_팩커드.md "wikilink") 나온 [유닉스 계열](https://ko.wikipedia.org/wiki/유닉스_계열 "wikilink") 운영 체제이다.
+**HP-UX**는 [휴렛 팩커드사에서](../Page/휴렛_팩커드.md "wikilink") 나온 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제이다.
 
 ## 운영 환경
 

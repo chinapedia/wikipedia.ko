@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [AS ](https://ko.wikipedia.org/wiki/AS_).
 
 
-**AS 낭시-로렌**(Association Sportive Nancy-Lorraine)은 [프랑스](../Page/프랑스.md "wikilink") [로렌](https://ko.wikipedia.org/wiki/로렌 "wikilink") 지방 [낭시](https://ko.wikipedia.org/wiki/낭시 "wikilink")에 위치한 [스타드 마르셀 피코](https://ko.wikipedia.org/wiki/스타드_마르셀_피코 "wikilink") 경기장을 근거로 하는 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다. [1967년](https://ko.wikipedia.org/wiki/1967년 "wikilink") 창단되었다.
+**AS 낭시-로렌**(Association Sportive Nancy-Lorraine)은 [프랑스](../Page/프랑스.md "wikilink") [로렌](../Page/로렌.md "wikilink") 지방 [낭시](../Page/낭시.md "wikilink")에 위치한 [스타드 마르셀 피코](https://ko.wikipedia.org/wiki/스타드_마르셀_피코 "wikilink") 경기장을 근거로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. [1967년](../Page/1967년.md "wikilink") 창단되었다.
 
 ## 역대 성적
 
   - **[리그 1](https://ko.wikipedia.org/wiki/리그_1 "wikilink")**
       - 최고성적 4위: 1977
-  - **[리그 2](https://ko.wikipedia.org/wiki/리그_2 "wikilink") 우승 5회**
+  - **[리그 2](../Page/리그_2.md "wikilink") 우승 5회**
       - 우승: 1975, 1990, 1998, 2005, 2016
       - 준우승: 1970
   - **[쿠페 드 프랑스](https://ko.wikipedia.org/wiki/쿠페_드_프랑스 "wikilink") 우승 1회**

@@ -39,10 +39,10 @@
 </tr>
 <tr class="odd">
 <td><p>1976</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/보루시아_묀헨글라트바흐" title="wikilink">보루시아 묀헨글라트바흐</a></strong></p></td>
+<td><p><strong><a href="../Page/보루시아_묀헨글라트바흐.md" title="wikilink">보루시아 묀헨글라트바흐</a></strong></p></td>
 <td><p><strong>3-2</strong></p></td>
 <td><p><a href="../Page/함부르크_SV.md" title="wikilink">함부르크 SV</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/함부르크" title="wikilink">함부르크</a></p></td>
+<td><p><a href="../Page/함부르크.md" title="wikilink">함부르크</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1982</p></td>
@@ -78,36 +78,36 @@
 <td><p><strong><a href="../Page/보루시아_도르트문트.md" title="wikilink">보루시아 도르트문트</a></strong></p></td>
 <td><p><strong>4-3</strong></p></td>
 <td><p>FC 바이에른 뮌헨</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카이저슬라우테른" title="wikilink">카이저슬라우테른</a></p></td>
+<td><p><a href="../Page/카이저슬라우테른.md" title="wikilink">카이저슬라우테른</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1990</p></td>
 <td><p><strong>FC 바이에른 뮌헨</strong></p></td>
 <td><p><strong>4-1</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1._FC_카이저슬라우테른" title="wikilink">1. FC 카이저슬라우테른</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카를스루에" title="wikilink">카를스루에</a></p></td>
+<td><p><a href="../Page/1._FC_카이저슬라우테른.md" title="wikilink">1. FC 카이저슬라우테른</a></p></td>
+<td><p><a href="../Page/카를스루에.md" title="wikilink">카를스루에</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1991</p></td>
 <td><p><strong>1. FC 카이저슬라우테른</strong></p></td>
 <td><p><strong>2-1</strong></p></td>
 <td><p>SV 베르더 브레멘</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하노버" title="wikilink">하노버</a></p></td>
+<td><p><a href="../Page/하노버.md" title="wikilink">하노버</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1992</p></td>
 <td><p><strong><a href="../Page/VfB_슈투트가르트.md" title="wikilink">VfB 슈투트가르트</a></strong></p></td>
 <td><p><strong>3-1</strong></p></td>
 <td><p><a href="../Page/하노버_96.md" title="wikilink">하노버 96</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하노버" title="wikilink">하노버</a></p></td>
+<td><p><a href="../Page/하노버.md" title="wikilink">하노버</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1993</p></td>
 <td><p><strong>SV 베르더 브레멘</strong></p></td>
 <td><p><strong>2-2</strong><br />
 (7-6 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/바이어_04_레버쿠젠" title="wikilink">바이어 04 레버쿠젠</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레버쿠젠" title="wikilink">레버쿠젠</a></p></td>
+<td><p><a href="../Page/바이어_04_레버쿠젠.md" title="wikilink">바이어 04 레버쿠젠</a></p></td>
+<td><p><a href="../Page/레버쿠젠.md" title="wikilink">레버쿠젠</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1994</p></td>
@@ -115,14 +115,14 @@
 <td><p><strong>3-1</strong><br />
 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>)</p></td>
 <td><p>FC 바이에른 뮌헨</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뮌헨" title="wikilink">뮌헨</a></p></td>
+<td><p><a href="../Page/뮌헨.md" title="wikilink">뮌헨</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995</p></td>
 <td><p><strong>보루시아 도르트문트</strong></p></td>
 <td><p><strong>1-0</strong></p></td>
 <td><p>보루시아 묀헨글라트바흐</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뒤셀도르프" title="wikilink">뒤셀도르프</a></p></td>
+<td><p><a href="../Page/뒤셀도르프.md" title="wikilink">뒤셀도르프</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996</p></td>
@@ -130,7 +130,7 @@
 <td><p><strong>1-1</strong><br />
 (4-3 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</p></td>
 <td><p>1. FC 카이저슬라우테른</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/만하임" title="wikilink">만하임</a></p></td>
+<td><p><a href="../Page/만하임.md" title="wikilink">만하임</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1997-2007년, <a href="https://ko.wikipedia.org/wiki/DFB-리가포칼" title="wikilink">DFB-리가포칼</a>로 통합</p></td>
@@ -151,14 +151,14 @@
 <td><p><strong>보루시아 도르트문트</strong></p></td>
 <td><p><strong>2-1</strong></p></td>
 <td><p>FC 바이에른 뮌헨</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도르트문트" title="wikilink">도르트문트</a></p></td>
+<td><p><a href="../Page/도르트문트.md" title="wikilink">도르트문트</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
 <td><p><strong>SV 베르더 브레멘</strong></p></td>
 <td><p><strong>2-1</strong></p></td>
 <td><p>VfL 볼프스부르크</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/볼프스부르크" title="wikilink">볼프스부르크</a></p></td>
+<td><p><a href="../Page/볼프스부르크.md" title="wikilink">볼프스부르크</a></p></td>
 </tr>
 <tr class="even">
 <td><p>공식</p></td>
@@ -180,28 +180,28 @@
 <td><p><strong>0-0</strong><br />
 (4-3 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</p></td>
 <td><p>보루시아 도르트문트</p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/겔젠키르헨" title="wikilink">겔젠키르헨</a></p></td>
+<td><p>|<a href="../Page/겔젠키르헨.md" title="wikilink">겔젠키르헨</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/DFL-슈퍼컵_2012.md" title="wikilink">2012</a></p></td>
 <td><p><strong>FC 바이에른 뮌헨</strong></p></td>
 <td><p><strong>2-1</strong></p></td>
 <td><p>보루시아 도르트문트</p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/뮌헨" title="wikilink">뮌헨</a></p></td>
+<td><p>|<a href="../Page/뮌헨.md" title="wikilink">뮌헨</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
 <td><p><strong>보루시아 도르트문트</strong></p></td>
 <td><p><strong>4-2</strong></p></td>
 <td><p>FC 바이에른 뮌헨</p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/도르트문트" title="wikilink">도르트문트</a></p></td>
+<td><p>|<a href="../Page/도르트문트.md" title="wikilink">도르트문트</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
 <td><p><strong>보루시아 도르트문트</strong></p></td>
 <td><p><strong>2-0</strong></p></td>
 <td><p>FC 바이에른 뮌헨</p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/도르트문트" title="wikilink">도르트문트</a></p></td>
+<td><p>|<a href="../Page/도르트문트.md" title="wikilink">도르트문트</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/DFL-슈퍼컵_2015.md" title="wikilink">2015</a></p></td>
@@ -209,14 +209,14 @@
 <td><p><strong>1-1</strong><br />
 (5-4 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</p></td>
 <td><p>FC 바이에른 뮌헨</p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/볼프스부르크" title="wikilink">볼프스부르크</a></p></td>
+<td><p>|<a href="../Page/볼프스부르크.md" title="wikilink">볼프스부르크</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/DFL-슈퍼컵_2016.md" title="wikilink">2016</a></p></td>
 <td><p><strong><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">FC 바이에른 뮌헨</a></strong></p></td>
 <td><p><strong>2-0</strong></p></td>
 <td><p><a href="../Page/보루시아_도르트문트.md" title="wikilink">보루시아 도르트문트</a></p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/지그날_이두나_파르크" title="wikilink">도르트문트</a></p></td>
+<td><p>|<a href="../Page/지그날_이두나_파르크.md" title="wikilink">도르트문트</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/DFL-슈퍼컵_2017.md" title="wikilink">2017</a></p></td>
@@ -224,7 +224,7 @@
 <td><p><strong>2-2</strong><br />
 (5-4 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</p></td>
 <td><p><a href="../Page/보루시아_도르트문트.md" title="wikilink">보루시아 도르트문트</a></p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/지그날_이두나_파르크" title="wikilink">도르트문트</a></p></td>
+<td><p>|<a href="../Page/지그날_이두나_파르크.md" title="wikilink">도르트문트</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
@@ -238,7 +238,7 @@
 <td><p><strong><a href="../Page/보루시아_도르트문트.md" title="wikilink">보루시아 도르트문트</a></strong></p></td>
 <td><p><strong>2-0</strong></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">FC 바이에른 뮌헨</a></p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/지그날_이두나_파르크" title="wikilink">도르트문트</a></p></td>
+<td><p>|<a href="../Page/지그날_이두나_파르크.md" title="wikilink">도르트문트</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -253,6 +253,6 @@
 
 ## 같이 보기
 
-  - [슈퍼컵](https://ko.wikipedia.org/wiki/슈퍼컵 "wikilink")
+  - [슈퍼컵](../Page/슈퍼컵.md "wikilink")
 
 [분류:독일의 축구 대회](https://ko.wikipedia.org/wiki/분류:독일의_축구_대회 "wikilink") [DFL-슈퍼컵](https://ko.wikipedia.org/wiki/분류:DFL-슈퍼컵 "wikilink")

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [3cf](https://ko.wikipedia.org/wiki/3cf).
 
 
-**3cf**는 **3류 만화 패밀리**(3ryu cartoon family)의 약칭으로, [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink")에 [보노가](../Page/권용만.md "wikilink") 웹사이트를 만들고 공책에 그린 이른바 **3류 만화**를 올리기 시작해서 유명해졌다. [2001년](https://ko.wikipedia.org/wiki/2001년 "wikilink")에 teamcscw.com에서 웹 호스팅을 제공하기 시작했고 굉장히 활발한 커뮤니티가 형성되었다. [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") 보노가 운영을 그만두게 되면서 부운영자 Dr. Gothick이 운영자 자리를 이어받았다. 당시에 사이트 방문자가 많아서 3CF는 걸핏하면 트래픽 허용량을 초과했고, 호스팅 업체인 teamcscw가 감당하기 어려운 수준에 이르러 3CF는 폐쇄되었으며 그 뒤를 잇는 [ExCF](../Page/ExCF.md "wikilink")가 만들어졌다.
+**3cf**는 **3류 만화 패밀리**(3ryu cartoon family)의 약칭으로, [2000년](../Page/2000년.md "wikilink")에 [보노가](../Page/권용만.md "wikilink") 웹사이트를 만들고 공책에 그린 이른바 **3류 만화**를 올리기 시작해서 유명해졌다. [2001년](../Page/2001년.md "wikilink")에 teamcscw.com에서 웹 호스팅을 제공하기 시작했고 굉장히 활발한 커뮤니티가 형성되었다. [2002년](../Page/2002년.md "wikilink") 보노가 운영을 그만두게 되면서 부운영자 Dr. Gothick이 운영자 자리를 이어받았다. 당시에 사이트 방문자가 많아서 3CF는 걸핏하면 트래픽 허용량을 초과했고, 호스팅 업체인 teamcscw가 감당하기 어려운 수준에 이르러 3CF는 폐쇄되었으며 그 뒤를 잇는 [ExCF](../Page/ExCF.md "wikilink")가 만들어졌다.
 
 ## 3류 만화
 
-**3류 만화**(三流漫畵) 혹은 **삼류만화**는 [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")의 일종으로, 주로 ExCF의 전신인 3CF에서 창작된 만화들을 말한다.
+**3류 만화**(三流漫畵) 혹은 **삼류만화**는 [만화](../Page/만화.md "wikilink")의 일종으로, 주로 ExCF의 전신인 3CF에서 창작된 만화들을 말한다.
 
 ### 특징
 
@@ -16,7 +16,7 @@
   - [보노](../Page/권용만.md "wikilink")
   - [박정근](https://ko.wikipedia.org/wiki/박정근_\(사진가\) "wikilink")
   - 갈매기
-  - [주호민](https://ko.wikipedia.org/wiki/주호민 "wikilink")
+  - [주호민](../Page/주호민.md "wikilink")
   - [고두익](https://ko.wikipedia.org/wiki/고두익 "wikilink") 등
 
 ## 외부 링크

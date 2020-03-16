@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [OXO](https://ko.wikipedia.org/wiki/OXO).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Oxo.jpg "wikilink") 《**OXO**》(또한 **삼목놓기**(Noughts and Crosses)라는 이름으로도 알려짐)은 [1952년](https://ko.wikipedia.org/wiki/1952년 "wikilink") [에드삭](https://ko.wikipedia.org/wiki/에드삭 "wikilink") 컴퓨터를 위해 만들어진 [틱택토](https://ko.wikipedia.org/wiki/틱택토 "wikilink") [컴퓨터 게임이다](https://ko.wikipedia.org/wiki/컴퓨터_게임 "wikilink"). 알렉산더 S. 더글러스가 [케임브리지 대학교에서](https://ko.wikipedia.org/wiki/케임브리지_대학교 "wikilink") 인간과 컴퓨터의 상호 작용에 대한 그의 [박사](../Page/박사.md "wikilink") 논문을 위한 실례로서 작성했다. 《OXO》는 [1958년](https://ko.wikipedia.org/wiki/1958년 "wikilink") 만들어진 윌리엄 히깅보덤의 [테니스 포 투에](../Page/테니스_포_투.md "wikilink") 앞서, 컴퓨터 상에서 실행되었던 최초의 (그래픽) 게임으로 알려져 있다. 하지만 그에 앞서 1947년과 1948년 사이에 [음극선관](https://ko.wikipedia.org/wiki/음극선관 "wikilink")을 이용한 미사일 시뮬레이션 게임에 관련된 특허도 있었다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Oxo.jpg "wikilink") 《**OXO**》(또한 **삼목놓기**(Noughts and Crosses)라는 이름으로도 알려짐)은 [1952년](../Page/1952년.md "wikilink") [에드삭](https://ko.wikipedia.org/wiki/에드삭 "wikilink") 컴퓨터를 위해 만들어진 [틱택토](https://ko.wikipedia.org/wiki/틱택토 "wikilink") [컴퓨터 게임이다](https://ko.wikipedia.org/wiki/컴퓨터_게임 "wikilink"). 알렉산더 S. 더글러스가 [케임브리지 대학교에서](../Page/케임브리지_대학교.md "wikilink") 인간과 컴퓨터의 상호 작용에 대한 그의 [박사](../Page/박사.md "wikilink") 논문을 위한 실례로서 작성했다. 《OXO》는 [1958년](../Page/1958년.md "wikilink") 만들어진 윌리엄 히깅보덤의 [테니스 포 투에](../Page/테니스_포_투.md "wikilink") 앞서, 컴퓨터 상에서 실행되었던 최초의 (그래픽) 게임으로 알려져 있다. 하지만 그에 앞서 1947년과 1948년 사이에 [음극선관](../Page/음극선관.md "wikilink")을 이용한 미사일 시뮬레이션 게임에 관련된 특허도 있었다.\[1\]
 
-플레이어는 컴퓨터를 상대로 삼목놓기를 플레이하고, 출력은 컴퓨터의 35x16 [픽셀](https://ko.wikipedia.org/wiki/픽셀 "wikilink") [음극선관](https://ko.wikipedia.org/wiki/음극선관 "wikilink")에 표시된다. [소스 코드는](../Page/소스_코드.md "wikilink") 매우 짧지만 완전한 삼목놓기를 재현해 놓았다. 당시 에드삭 컴퓨터는 케임브리지가 유일했기 때문에 게임이 잘 알려지지는 않았다.
+플레이어는 컴퓨터를 상대로 삼목놓기를 플레이하고, 출력은 컴퓨터의 35x16 [픽셀](https://ko.wikipedia.org/wiki/픽셀 "wikilink") [음극선관](../Page/음극선관.md "wikilink")에 표시된다. [소스 코드는](../Page/소스_코드.md "wikilink") 매우 짧지만 완전한 삼목놓기를 재현해 놓았다. 당시 에드삭 컴퓨터는 케임브리지가 유일했기 때문에 게임이 잘 알려지지는 않았다.
 
 ## 시작화면
 
