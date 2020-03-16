@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1963 CONCACAF  ](https://ko.wikipedia.org/wiki/1963_CONCACAF__).
 
 
-**1963년 CONCACAF 선수권 대회**는 [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink") [3월 23일부터](https://ko.wikipedia.org/wiki/3월_23일 "wikilink") [4월 7일까지](https://ko.wikipedia.org/wiki/4월_7일 "wikilink") [엘살바도르](https://ko.wikipedia.org/wiki/엘살바도르 "wikilink")에서 열린 1번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").
+**1963년 CONCACAF 선수권 대회**는 [1963년](../Page/1963년.md "wikilink") [3월 23일부터](../Page/3월_23일.md "wikilink") [4월 7일까지](../Page/4월_7일.md "wikilink") [엘살바도르](../Page/엘살바도르.md "wikilink")에서 열린 1번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").
 
 {{-}}
 
@@ -283,7 +283,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:State_Flag_of_Costa_Rica_(1906-1964).svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/코스타리카_축구_국가대표팀" title="wikilink">코스타리카</a></strong><br />
+<strong><a href="../Page/코스타리카_축구_국가대표팀.md" title="wikilink">코스타리카</a></strong><br />
 <strong>1번째 우승</strong></p></td>
 </tr>
 </tbody>

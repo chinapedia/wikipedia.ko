@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ KSPO  ](https://ko.wikipedia.org/wiki/_KSPO__).
 
 
-**화천 KSPO**()는 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink")에 창단한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 여자 축구단이다. 창단 당시에는 [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink")에 연고로 두고 있다가, [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [11월 22일부터](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [화천군](https://ko.wikipedia.org/wiki/화천군 "wikilink")으로 연고를 이전을 했다.\[1\] 현재 [WK리그](https://ko.wikipedia.org/wiki/WK리그 "wikilink")에 참가하고 있다.
+**화천 KSPO**()는 [2011년](../Page/2011년.md "wikilink")에 창단한 [대한민국](../Page/대한민국.md "wikilink")의 여자 축구단이다. 창단 당시에는 [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink")에 연고로 두고 있다가, [2014년](../Page/2014년.md "wikilink") [11월 22일부터](../Page/11월_22일.md "wikilink") [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [화천군](https://ko.wikipedia.org/wiki/화천군 "wikilink")으로 연고를 이전을 했다.\[1\] 현재 [WK리그](../Page/WK리그.md "wikilink")에 참가하고 있다.
 
 ## 선수
 

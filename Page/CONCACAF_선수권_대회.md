@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [CONCACAF  ](https://ko.wikipedia.org/wiki/CONCACAF__).
 
 
-**CONCACAF 선수권 대회**(CONCACAF Championship)는 [1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink")부터 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink")까지 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)의 주관으로 개최된 국가 대항 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 대회이다.
+**CONCACAF 선수권 대회**(CONCACAF Championship)는 [1963년](../Page/1963년.md "wikilink")부터 [1989년](../Page/1989년.md "wikilink")까지 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)의 주관으로 개최된 국가 대항 [축구](../Page/축구.md "wikilink") 대회이다.
 
-[1963년](https://ko.wikipedia.org/wiki/1963년 "wikilink")에 [중미·카리브 축구 선수권 대회와](../Page/중미·카리브_축구_선수권_대회.md "wikilink") [북미 축구 선수권 대회가](../Page/북미_축구_선수권_대회.md "wikilink") 통합되면서 신설되었으며 [1991년](https://ko.wikipedia.org/wiki/1991년 "wikilink")에 [CONCACAF 골드컵이](../Page/CONCACAF_골드컵.md "wikilink") 신설되면서 폐지되었다. [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") 대회부터 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink") 대회까지는 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 북아메리카 지역 예선을 겸하기도 했다.
+[1963년](../Page/1963년.md "wikilink")에 [중미·카리브 축구 선수권 대회와](../Page/중미·카리브_축구_선수권_대회.md "wikilink") [북미 축구 선수권 대회가](../Page/북미_축구_선수권_대회.md "wikilink") 통합되면서 신설되었으며 [1991년](../Page/1991년.md "wikilink")에 [CONCACAF 골드컵이](../Page/CONCACAF_골드컵.md "wikilink") 신설되면서 폐지되었다. [1973년](../Page/1973년.md "wikilink") 대회부터 [1989년](../Page/1989년.md "wikilink") 대회까지는 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 북아메리카 지역 예선을 겸하기도 했다.
 
 ## 역대 대회
 
@@ -29,7 +29,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1963년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1963년_CONCACAF_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1963년_CONCACAF_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -38,7 +38,7 @@
 </tr>
 <tr class="even">
 <td><p>1965년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1965년_CONCACAF_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1965년_CONCACAF_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -47,7 +47,7 @@
 </tr>
 <tr class="odd">
 <td><p>1967년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1967년_CONCACAF_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1967년_CONCACAF_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -56,7 +56,7 @@
 </tr>
 <tr class="even">
 <td><p>1969년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1969년_CONCACAF_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1969년_CONCACAF_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -65,7 +65,7 @@
 </tr>
 <tr class="odd">
 <td><p>1971년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1971년_CONCACAF_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1971년_CONCACAF_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -74,7 +74,7 @@
 </tr>
 <tr class="even">
 <td><p>1973년[1]<br />
-<em><a href="https://ko.wikipedia.org/wiki/1973년_CONCACAF_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1973년_CONCACAF_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="odd">
 <td><p>1977년[2]<br />
-<em><a href="https://ko.wikipedia.org/wiki/1977년_CONCACAF_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1977년_CONCACAF_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -92,7 +92,7 @@
 </tr>
 <tr class="even">
 <td><p>1981년[3]<br />
-<em><a href="https://ko.wikipedia.org/wiki/1981년_CONCACAF_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1981년_CONCACAF_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="odd">
 <td><p>1985년[4][5]<br />
-<em><a href="https://ko.wikipedia.org/wiki/1985년_CONCACAF_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1985년_CONCACAF_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p>개최국 없음</p></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -110,7 +110,7 @@
 </tr>
 <tr class="even">
 <td><p>1989년[6]<br />
-<em><a href="https://ko.wikipedia.org/wiki/1989년_CONCACAF_선수권_대회" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/1989년_CONCACAF_선수권_대회.md" title="wikilink">상세정보</a></em></p></td>
 <td><p>개최국 없음</p></td>
 <td><p><strong></strong></p></td>
 <td></td>

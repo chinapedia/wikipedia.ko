@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ II:  ](https://ko.wikipedia.org/wiki/_II:__).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Starcraft_II_Void_of_the_Legacy_releasing_event.jpg "wikilink") 《**스타크래프트 II: 공허의 유산**》(StarCraft II: Legacy of the Void)은 《[자유의 날개](../Page/스타크래프트_II:_자유의_날개.md "wikilink")》와 《[군단의 심장](../Page/스타크래프트_II:_군단의_심장.md "wikilink")》에 이은 스타크래프트 II 3부작의 대단원격 작품이다. [블리즈컨](https://ko.wikipedia.org/wiki/블리즈컨 "wikilink") 2014를 통해 공개되었으며\[1\], 기존작 [군단의 심장과는](../Page/스타크래프트_II:_군단의_심장.md "wikilink") 달리 스탠드 얼론(Stand-Alone) 확장팩으로 출시된다. 군단의 심장의 내용을 이어서 스토리가 진행되며, 프롤로그, 공허의 유산 본 스토리, 에필로그 3부분으로 나누어 이야기가 순서대로 이어진다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Starcraft_II_Void_of_the_Legacy_releasing_event.jpg "wikilink") 《**스타크래프트 II: 공허의 유산**》(StarCraft II: Legacy of the Void)은 《[자유의 날개](../Page/스타크래프트_II:_자유의_날개.md "wikilink")》와 《[군단의 심장](../Page/스타크래프트_II:_군단의_심장.md "wikilink")》에 이은 스타크래프트 II 3부작의 대단원격 작품이다. [블리즈컨](../Page/블리즈컨.md "wikilink") 2014를 통해 공개되었으며\[1\], 기존작 [군단의 심장과는](../Page/스타크래프트_II:_군단의_심장.md "wikilink") 달리 스탠드 얼론(Stand-Alone) 확장팩으로 출시된다. 군단의 심장의 내용을 이어서 스토리가 진행되며, 프롤로그, 공허의 유산 본 스토리, 에필로그 3부분으로 나누어 이야기가 순서대로 이어진다.
 
-공허의 유산을 구매한 플레이어들은 [히어로즈 오브 더 스톰에](../Page/히어로즈_오브_더_스톰.md "wikilink") 향후 추가될 예정인 스타크래프트 전사 영웅인 아르타니스를 선물로 받을 수 있다.\[2\] [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [11월 10일](https://ko.wikipedia.org/wiki/11월_10일 "wikilink") 오전 6시 1분에 서버가 오픈되었다.\[3\]
+공허의 유산을 구매한 플레이어들은 [히어로즈 오브 더 스톰에](../Page/히어로즈_오브_더_스톰.md "wikilink") 향후 추가될 예정인 스타크래프트 전사 영웅인 아르타니스를 선물로 받을 수 있다.\[2\] [2015년](../Page/2015년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink") 오전 6시 1분에 서버가 오픈되었다.\[3\]
 
 ## 새 유닛
 
@@ -66,7 +66,7 @@
 ### 추가 구성 요소
 
   - [디아블로 III](../Page/디아블로_III.md "wikilink") : 탐사정 애완동물, 프로토스 형상변환
-  - [월드 오브 워크래프트](https://ko.wikipedia.org/wiki/월드_오브_워크래프트 "wikilink") : 집정관 전투 애완동물
+  - [월드 오브 워크래프트](../Page/월드_오브_워크래프트.md "wikilink") : 집정관 전투 애완동물
   - [히어로즈 오브 더 스톰](../Page/히어로즈_오브_더_스톰.md "wikilink") : 공허의 질주자 탈것
   - [하스스톤](https://ko.wikipedia.org/wiki/하스스톤:_워크래프트의_영웅들 "wikilink") : 공허의 유산 카드 뒷면
   - [스타크래프트2](https://ko.wikipedia.org/wiki/스타크래프트2 "wikilink") : 프로토스 초상화와 유닛 스킨

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ C](https://ko.wikipedia.org/wiki/_C).
 
 
-**멜러니 제인 치점**(, [1974년](https://ko.wikipedia.org/wiki/1974년 "wikilink") [1월 12일](https://ko.wikipedia.org/wiki/1월_12일 "wikilink") \~ )은 [영국](https://ko.wikipedia.org/wiki/영국 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [사업가](../Page/사업가.md "wikilink"), [배우](../Page/배우.md "wikilink")로 1990년대를 대표하는 아이돌 팝 그룹 [스파이스 걸스의](https://ko.wikipedia.org/wiki/스파이스_걸스 "wikilink") 멤버이기도 하다. 애칭은 **스포티 스파이스**()이다.
+**멜러니 제인 치점**(, [1974년](../Page/1974년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink") \~ )은 [영국](../Page/영국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [사업가](../Page/사업가.md "wikilink"), [배우](../Page/배우.md "wikilink")로 1990년대를 대표하는 아이돌 팝 그룹 [스파이스 걸스의](../Page/스파이스_걸스.md "wikilink") 멤버이기도 하다. 애칭은 **스포티 스파이스**()이다.
 
 ## 음반
 
@@ -43,7 +43,7 @@
 
 ### 영화
 
-  - 1997년 《[스파이스 월드](https://ko.wikipedia.org/wiki/스파이스_월드_\(영화\) "wikilink")》 - Sporty Spice 역
+  - 1997년 《[스파이스 월드](../Page/스파이스_월드_\(영화\).md "wikilink")》 - Sporty Spice 역
 
 ### 텔레비전
 
@@ -52,7 +52,7 @@
 
 ## 같이 보기
 
-  - [스파이스 걸스](https://ko.wikipedia.org/wiki/스파이스_걸스 "wikilink")
+  - [스파이스 걸스](../Page/스파이스_걸스.md "wikilink")
 
 ## 외부 링크
 

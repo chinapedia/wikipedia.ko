@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DearS](https://ko.wikipedia.org/wiki/DearS).
 
 
-**DearS**()는 [센도우 반리와](https://ko.wikipedia.org/wiki/센도우_반리 "wikilink") [에바라 시부코가](https://ko.wikipedia.org/wiki/에바라_시부코 "wikilink") [Peach-Pit](https://ko.wikipedia.org/wiki/Peach-Pit "wikilink")이라는 필명으로 공동창작한 만화이자, 그 만화를 원작으로 하는 TV애니메이션이다. 일본에서는 [미디어웍스](https://ko.wikipedia.org/wiki/미디어웍스 "wikilink")(MediaWorks)의 '월간 전격 코믹 가오'를 통해 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")부터 [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") [5월](https://ko.wikipedia.org/wiki/5월 "wikilink")까지 연재되었고, 나중에 단행본 8권, 공식 팬북, 일러스트집이 발매되었다. 대한민국에선 같은 제목으로, [삼양출판사](https://ko.wikipedia.org/wiki/삼양출판사 "wikilink")에서 전 8권의 번역본이 완간되었다. [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink")엔 원작의 스토리 일부와 2개의 오리지널 스토리를 가지고 애니메이션으로 제작되어, 총 13화로 완결되었다. 또한 같은 해에 플레이스테이션2 게임으로도 만들어졌다.
+**DearS**()는 [센도우 반리와](https://ko.wikipedia.org/wiki/센도우_반리 "wikilink") [에바라 시부코가](https://ko.wikipedia.org/wiki/에바라_시부코 "wikilink") [Peach-Pit](https://ko.wikipedia.org/wiki/Peach-Pit "wikilink")이라는 필명으로 공동창작한 만화이자, 그 만화를 원작으로 하는 TV애니메이션이다. 일본에서는 [미디어웍스](https://ko.wikipedia.org/wiki/미디어웍스 "wikilink")(MediaWorks)의 '월간 전격 코믹 가오'를 통해 [2002년](../Page/2002년.md "wikilink") [3월](../Page/3월.md "wikilink")부터 [2005년](../Page/2005년.md "wikilink") [5월](../Page/5월.md "wikilink")까지 연재되었고, 나중에 단행본 8권, 공식 팬북, 일러스트집이 발매되었다. 대한민국에선 같은 제목으로, [삼양출판사](https://ko.wikipedia.org/wiki/삼양출판사 "wikilink")에서 전 8권의 번역본이 완간되었다. [2004년](../Page/2004년.md "wikilink")엔 원작의 스토리 일부와 2개의 오리지널 스토리를 가지고 애니메이션으로 제작되어, 총 13화로 완결되었다. 또한 같은 해에 플레이스테이션2 게임으로도 만들어졌다.
 
 ## 줄거리
 
@@ -254,7 +254,7 @@
 ## TV 애니메이션
 
   -
-    [도우무](https://ko.wikipedia.org/wiki/도우무 "wikilink")에 의해 총13화로 제작되어 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink")부터 [2004년](https://ko.wikipedia.org/wiki/2004년 "wikilink") [9월](https://ko.wikipedia.org/wiki/9월 "wikilink")까지 방영되었다.
+    [도우무](https://ko.wikipedia.org/wiki/도우무 "wikilink")에 의해 총13화로 제작되어 [2004년](../Page/2004년.md "wikilink") [7월](../Page/7월.md "wikilink")부터 [2004년](../Page/2004년.md "wikilink") [9월](../Page/9월.md "wikilink")까지 방영되었다.
 
 ### 주제가
 
@@ -263,7 +263,7 @@
 <!-- end list -->
 
   - 작곡·작사 - [모모이 하루코](../Page/모모이_하루코.md "wikilink")([桃井 はるこ](https://ko.wikipedia.org/wiki/桃井_はるこ "wikilink"))/ 편곡 - [코이케 마사야](https://ko.wikipedia.org/wiki/코이케_마사야 "wikilink")([小池 雅也](https://ko.wikipedia.org/wiki/小池_雅也 "wikilink"))
-      - 노래 - [UNDER17](https://ko.wikipedia.org/wiki/UNDER17 "wikilink")
+      - 노래 - [UNDER17](../Page/UNDER17.md "wikilink")
 
 <!-- end list -->
 

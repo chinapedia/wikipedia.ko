@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KONAN](https://ko.wikipedia.org/wiki/KONAN).
 
 
-**코난**(KONAN, [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink") [3월 4일](https://ko.wikipedia.org/wiki/3월_4일 "wikilink") - )는 일본의 여성 아이돌 그룹 **[SDN48](https://ko.wikipedia.org/wiki/SDN48 "wikilink")**의 전 멤버이다. [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink") 출신. 원에이트 프로모션 소속. 1기생 [이마요시 메구미](https://ko.wikipedia.org/wiki/이마요시_메구미 "wikilink").[우메다 하루카](../Page/우메다_하루카.md "wikilink").[카이다 쥬리](https://ko.wikipedia.org/wiki/카이다_쥬리 "wikilink").[카토 마미](https://ko.wikipedia.org/wiki/카토_마미 "wikilink")/2기생 [이토 마나](https://ko.wikipedia.org/wiki/이토_마나 "wikilink").[호소다 미유우](https://ko.wikipedia.org/wiki/호소다_미유우 "wikilink") 와 유닛 「7cm(현 TRYOUT ex.7cm)」결성. 유닛 「7cm(현 TRYOUT ex.7cm)」리더
+**코난**(KONAN, [1985년](../Page/1985년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") - )는 일본의 여성 아이돌 그룹 **[SDN48](../Page/SDN48.md "wikilink")**의 전 멤버이다. [오사카부](../Page/오사카부.md "wikilink") 출신. 원에이트 프로모션 소속. 1기생 [이마요시 메구미](../Page/이마요시_메구미.md "wikilink").[우메다 하루카](../Page/우메다_하루카.md "wikilink").[카이다 쥬리](https://ko.wikipedia.org/wiki/카이다_쥬리 "wikilink").[카토 마미](https://ko.wikipedia.org/wiki/카토_마미 "wikilink")/2기생 [이토 마나](https://ko.wikipedia.org/wiki/이토_마나 "wikilink").[호소다 미유우](https://ko.wikipedia.org/wiki/호소다_미유우 "wikilink") 와 유닛 「7cm(현 TRYOUT ex.7cm)」결성. 유닛 「7cm(현 TRYOUT ex.7cm)」리더
 
 ## 참가 유닛곡
 

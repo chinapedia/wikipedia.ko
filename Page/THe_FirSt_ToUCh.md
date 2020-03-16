@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THe FirSt ToUCh](https://ko.wikipedia.org/wiki/THe_FirSt_ToUCh).
 
 
-**THe FirSt ToUCh**는 [김완선](../Page/김완선.md "wikilink")의 [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink") 정규 1집 음반이다.
+**THe FirSt ToUCh**는 [김완선](../Page/김완선.md "wikilink")의 [중화민국](../Page/중화민국.md "wikilink") 정규 1집 음반이다.
 
 ## 수록곡
 

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [GIRLS\' GENERATION](https://ko.wikipedia.org/wiki/GIRLS\'_GENERATION).
 
 
-《**GIRLS' GENERATION**》은 대한민국의 [걸 그룹](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") [소녀시대](../Page/소녀시대.md "wikilink")의 첫 번째 일본 정규 앨범이다. 2011년 6월 1일 일본에서 세 가지의 다른 버전으로 [나유타 웨이브를](https://ko.wikipedia.org/wiki/나유타_웨이브 "wikilink") 통해 발매되었다. 앨범은 발매 첫 날 73,583만 장을 팔았다.
+《**GIRLS' GENERATION**》은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [소녀시대](../Page/소녀시대.md "wikilink")의 첫 번째 일본 정규 앨범이다. 2011년 6월 1일 일본에서 세 가지의 다른 버전으로 [나유타 웨이브를](https://ko.wikipedia.org/wiki/나유타_웨이브 "wikilink") 통해 발매되었다. 앨범은 발매 첫 날 73,583만 장을 팔았다.
 
 ## 프로모션
 
-소녀시대는 [동일본 대지진](https://ko.wikipedia.org/wiki/동일본_대지진 "wikilink") 이후 프로모션 활동을 하지 않았지만, 2011년 4월 "Mr. Taxi/Run Devil Run" 발매 이후 2011년 5월 13일 《[뮤직 스테이션](../Page/뮤직_스테이션.md "wikilink")》에 출연해 노란색 택시 기사 의상을 입고 "Mr. Taxi"를 불렀다.\[1\] 2011년 6월 25일에는 [MTV 비디오 뮤직 어워드 재팬에](https://ko.wikipedia.org/wiki/MTV_비디오_뮤직_어워드_재팬 "wikilink") 출연해 검정색 가죽 의상을 입고 "THE GREAT ESCAPE"와 "Mr. Taxi" 두 곡을 선보였다.\[2\] 2011년 5월부터는 앨범을 홍보하기 위한 첫 일본 투어 [The 1st Japan Arena Tour를](https://ko.wikipedia.org/wiki/The_1st_Japan_Arena_Tour "wikilink") 시작했다. 이번 투어에서 소녀시대는 6개 도시를 방문해 총 14만 명의 관객을 동원했고 180억 원의 수익을 남겼다.\[3\] 2011년 7월부터는 대한민국 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")을 시작으로 아시아 투어 [2011 GIRLS’ GENERATION TOUR를](https://ko.wikipedia.org/wiki/2011_GIRLS’_GENERATION_TOUR "wikilink") 시작했다.
+소녀시대는 [동일본 대지진](https://ko.wikipedia.org/wiki/동일본_대지진 "wikilink") 이후 프로모션 활동을 하지 않았지만, 2011년 4월 "Mr. Taxi/Run Devil Run" 발매 이후 2011년 5월 13일 《[뮤직 스테이션](../Page/뮤직_스테이션.md "wikilink")》에 출연해 노란색 택시 기사 의상을 입고 "Mr. Taxi"를 불렀다.\[1\] 2011년 6월 25일에는 [MTV 비디오 뮤직 어워드 재팬에](../Page/MTV_비디오_뮤직_어워드_재팬.md "wikilink") 출연해 검정색 가죽 의상을 입고 "THE GREAT ESCAPE"와 "Mr. Taxi" 두 곡을 선보였다.\[2\] 2011년 5월부터는 앨범을 홍보하기 위한 첫 일본 투어 [The 1st Japan Arena Tour를](../Page/The_1st_Japan_Arena_Tour.md "wikilink") 시작했다. 이번 투어에서 소녀시대는 6개 도시를 방문해 총 14만 명의 관객을 동원했고 180억 원의 수익을 남겼다.\[3\] 2011년 7월부터는 대한민국 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")을 시작으로 아시아 투어 [2011 GIRLS’ GENERATION TOUR를](https://ko.wikipedia.org/wiki/2011_GIRLS’_GENERATION_TOUR "wikilink") 시작했다.
 
 ### 싱글
 
@@ -15,7 +15,7 @@
 
 ## 차트 성적
 
-*GIRLS' GENERATION*은 일본에서 발매 첫 날 73,583만 장을 팔아치워 2011년 6월 1일자 [오리콘](../Page/오리콘.md "wikilink") 데일리 앨범차트에서 한국 걸그룹으로는 최초로 1위를 했다. 오리콘 위클리 앨범차트에서도 231,553만 장을 팔아치우며 한국 [걸 그룹으로는](https://ko.wikipedia.org/wiki/걸_그룹 "wikilink") 최초로 1위를 했다.\[10\] 이는 [보아](https://ko.wikipedia.org/wiki/보아 "wikilink")가 2002년 발매했던 일본 정규 앨범 *[Listen to My Heart](https://ko.wikipedia.org/wiki/Listen_to_My_Heart "wikilink")* (230,590만 장) 이후 9년만에 일본 해외 아티스트 사상 가장이 높은 판매량이라는 기록을 갈아치웠다. 발매 둘째주에는 94,105만 장을 팔아 1위인 [AKB48](../Page/AKB48.md "wikilink")의 《[코코니이타코토](https://ko.wikipedia.org/wiki/코코니이타코토 "wikilink")》 (601,985만 장)과 큰차이로 2위로 떨어졌다.\[11\] 셋째주에는 52,876만 장을 팔아치우며 4위로 하락했다.\[12\] 앨범 발매 한 달후, 411,972만 장을 팔아치워 오리콘 6월 월간 앨범차트에서 2위에 올랐다.\[13\]
+*GIRLS' GENERATION*은 일본에서 발매 첫 날 73,583만 장을 팔아치워 2011년 6월 1일자 [오리콘](../Page/오리콘.md "wikilink") 데일리 앨범차트에서 한국 걸그룹으로는 최초로 1위를 했다. 오리콘 위클리 앨범차트에서도 231,553만 장을 팔아치우며 한국 [걸 그룹으로는](../Page/걸_그룹.md "wikilink") 최초로 1위를 했다.\[10\] 이는 [보아](../Page/보아.md "wikilink")가 2002년 발매했던 일본 정규 앨범 *[Listen to My Heart](https://ko.wikipedia.org/wiki/Listen_to_My_Heart "wikilink")* (230,590만 장) 이후 9년만에 일본 해외 아티스트 사상 가장이 높은 판매량이라는 기록을 갈아치웠다. 발매 둘째주에는 94,105만 장을 팔아 1위인 [AKB48](../Page/AKB48.md "wikilink")의 《[코코니이타코토](https://ko.wikipedia.org/wiki/코코니이타코토 "wikilink")》 (601,985만 장)과 큰차이로 2위로 떨어졌다.\[11\] 셋째주에는 52,876만 장을 팔아치우며 4위로 하락했다.\[12\] 앨범 발매 한 달후, 411,972만 장을 팔아치워 오리콘 6월 월간 앨범차트에서 2위에 올랐다.\[13\]
 
 2011년 6월에 발표한 오리콘 2011년 상반기 결산 차트에서는 326,000만 장을 팔아치워 *GIRLS' GENERATION*이 10위에 올랐고, 이는 소녀시대가 아티스트별 토탈 판매부문 해외아티스트 1위를 하는데 큰 도움을 줬다.\[14\] 2011년 7월 8일 [RIAJ](https://ko.wikipedia.org/wiki/RIAJ "wikilink")는 50만 장 이상을 팔아치웠을때 인증하는 더블 플래티넘 인증을 했다.\[15\] 이후 2011년 한 해 동안 640,000만 장을 팔아 12월 19일 발표한 오리콘 연말 앨범차트에서 5위에 올랐다.\[16\] 2011년 12월 28일 리패키지 에디션이 발매되고 나서 82,768만 장을 팔며 2012년 1월 1일자 오리콘 위클리 앨범차트에 2위로 재진입했다.\[17\] 이로써 누적 70만 장을 넘겼다. 2012년 1월 11일자 소녀시대는 100만장을 달성해 한국 그룹 최초로, 보아이후 7년만에 밀리언셀러를 달성했다.
 
@@ -35,7 +35,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/타이완" title="wikilink">타이완</a> G-뮤직 J-Pop 주간 차트[18]</p></td>
+<td><p><a href="../Page/타이완.md" title="wikilink">타이완</a> G-뮤직 J-Pop 주간 차트[18]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -51,7 +51,7 @@
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a> 재팬 탑 앨범</p></td>
+<td><p><a href="../Page/빌보드.md" title="wikilink">빌보드</a> 재팬 탑 앨범</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -86,7 +86,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a> 재팬 탑 앨범 연말[24]</p></td>
+<td><p><a href="../Page/빌보드.md" title="wikilink">빌보드</a> 재팬 탑 앨범 연말[24]</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">

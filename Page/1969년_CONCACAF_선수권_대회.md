@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1969 CONCACAF  ](https://ko.wikipedia.org/wiki/1969_CONCACAF__).
 
 
-**1969년 CONCACAF 선수권 대회**는 [1969년](https://ko.wikipedia.org/wiki/1969년 "wikilink") [11월 23일부터](https://ko.wikipedia.org/wiki/11월_23일 "wikilink") [12월 8일까지](https://ko.wikipedia.org/wiki/12월_8일 "wikilink") [코스타리카](https://ko.wikipedia.org/wiki/코스타리카 "wikilink")에서 열린 4번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").
+**1969년 CONCACAF 선수권 대회**는 [1969년](../Page/1969년.md "wikilink") [11월 23일부터](../Page/11월_23일.md "wikilink") [12월 8일까지](../Page/12월_8일.md "wikilink") [코스타리카](../Page/코스타리카.md "wikilink")에서 열린 4번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").
 
 {{-}}
 
@@ -152,7 +152,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:State_Flag_of_Costa_Rica_(1964-1998).svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/코스타리카_축구_국가대표팀" title="wikilink">코스타리카</a></strong><br />
+<strong><a href="../Page/코스타리카_축구_국가대표팀.md" title="wikilink">코스타리카</a></strong><br />
 <strong>2번째 우승</strong></p></td>
 </tr>
 </tbody>

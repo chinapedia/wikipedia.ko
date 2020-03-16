@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1981 CONCACAF  ](https://ko.wikipedia.org/wiki/1981_CONCACAF__).
 
 
-**1981년 CONCACAF 선수권 대회**는 [1981년](https://ko.wikipedia.org/wiki/1981년 "wikilink") [11월 1일부터](https://ko.wikipedia.org/wiki/11월_1일 "wikilink") [11월 22일까지](https://ko.wikipedia.org/wiki/11월_22일 "wikilink") [온두라스](https://ko.wikipedia.org/wiki/온두라스 "wikilink")에서 열린 8번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink"). 이 대회는 [1982년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하기도 하였다. 우승을 차지한 [온두라스](../Page/온두라스_축구_국가대표팀.md "wikilink"), 준우승을 차지한 [엘살바도르가](../Page/엘살바도르_축구_국가대표팀.md "wikilink") 1982년 FIFA 월드컵 본선에 진출했다.
+**1981년 CONCACAF 선수권 대회**는 [1981년](../Page/1981년.md "wikilink") [11월 1일부터](../Page/11월_1일.md "wikilink") [11월 22일까지](../Page/11월_22일.md "wikilink") [온두라스](../Page/온두라스.md "wikilink")에서 열린 8번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink"). 이 대회는 [1982년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하기도 하였다. 우승을 차지한 [온두라스](../Page/온두라스_축구_국가대표팀.md "wikilink"), 준우승을 차지한 [엘살바도르가](../Page/엘살바도르_축구_국가대표팀.md "wikilink") 1982년 FIFA 월드컵 본선에 진출했다.
 
 ## 예선
 

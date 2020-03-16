@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CF   ](https://ko.wikipedia.org/wiki/CF___).
 
 
-**클루브 드 푸트볼 이스트렐라 다 아마도라**(Clube de Futebol Estrela da Amadora)는 [리스본](https://ko.wikipedia.org/wiki/리스본 "wikilink")의 북서쪽에 위치한 [아마도라](https://ko.wikipedia.org/wiki/아마도라 "wikilink")를 연고지로 하는 [포르투갈](https://ko.wikipedia.org/wiki/포르투갈 "wikilink")의 [축구](https://ko.wikipedia.org/wiki/축구 "wikilink") 클럽이다.
+**클루브 드 푸트볼 이스트렐라 다 아마도라**(Clube de Futebol Estrela da Amadora)는 [리스본](../Page/리스본.md "wikilink")의 북서쪽에 위치한 [아마도라](https://ko.wikipedia.org/wiki/아마도라 "wikilink")를 연고지로 하는 [포르투갈](../Page/포르투갈.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
 ## 역대 성적
 

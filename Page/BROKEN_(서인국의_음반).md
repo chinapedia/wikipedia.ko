@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [BROKEN \( \)](https://ko.wikipedia.org/wiki/BROKEN_\(_\)).
 
 
-| [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink")의 앨범 정보                  |
-| --------------------------------------------------------------------------- |
-| 《[부른다](https://ko.wikipedia.org/wiki/부른다 "wikilink")》                       |
-| 《[Just Beginning](https://ko.wikipedia.org/wiki/Just_Beginning "wikilink")》 |
-| 《[애기야](https://ko.wikipedia.org/wiki/애기야 "wikilink")》                       |
-| ''' *BROKEN* '''                                                            |
-| *[Shake It Up](https://ko.wikipedia.org/wiki/Shake_It_Up "wikilink")*       |
-| 《[Perfect Fit](https://ko.wikipedia.org/wiki/Perfect_Fit "wikilink")》       |
-| 《[웃다 울다](../Page/웃다_울다.md "wikilink")》                                      |
-|                                                                             |
+| [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink")의 앨범 정보 |
+| ---------------------------------------------------------- |
+| 《[부른다](../Page/부른다.md "wikilink")》                         |
+| 《[Just Beginning](../Page/Just_Beginning.md "wikilink")》   |
+| 《[애기야](../Page/애기야.md "wikilink")》                         |
+| ''' *BROKEN* '''                                           |
+| *[Shake It Up](../Page/Shake_It_Up.md "wikilink")*         |
+| 《[Perfect Fit](../Page/Perfect_Fit.md "wikilink")》         |
+| 《[웃다 울다](../Page/웃다_울다.md "wikilink")》                     |
+|                                                            |
 
 ***BROKEN***은 2011년 3월 31일 발매된 [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink")의 디지털 싱글이다.
 

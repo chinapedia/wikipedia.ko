@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [A Bitter Day](https://ko.wikipedia.org/wiki/A_Bitter_Day).
 
 
-"**A Bitter Day**'"는 대한민국의 [댄스 팝](https://ko.wikipedia.org/wiki/댄스_팝 "wikilink") 가수 [현아](../Page/현아.md "wikilink")의 노래이다. 현아의 첫 미니 앨범인 *[Bubble Pop\!](https://ko.wikipedia.org/wiki/Bubble_Pop! "wikilink")*의 발매를 앞두고 "A Bitter Day"를 싱글로 2011년 6월 30일 발매했다. 이 노래에는 [비스트의](https://ko.wikipedia.org/wiki/비스트_\(음악_그룹\) "wikilink") [용준형](../Page/용준형.md "wikilink")과 [G.NA](https://ko.wikipedia.org/wiki/G.NA "wikilink")가 피처링으로 참여했고, 최규성이 작곡했다.
+"**A Bitter Day**'"는 대한민국의 [댄스 팝](../Page/댄스_팝.md "wikilink") 가수 [현아](../Page/현아.md "wikilink")의 노래이다. 현아의 첫 미니 앨범인 *[Bubble Pop\!](../Page/Bubble_Pop!.md "wikilink")*의 발매를 앞두고 "A Bitter Day"를 싱글로 2011년 6월 30일 발매했다. 이 노래에는 [비스트의](../Page/비스트_\(음악_그룹\).md "wikilink") [용준형](../Page/용준형.md "wikilink")과 [G.NA](../Page/G.NA.md "wikilink")가 피처링으로 참여했고, 최규성이 작곡했다.
 
 ## 배경
 
 현아는 5월에서 6월 사이에 솔로로 컴백한다는 설이 있었다.\[1\] 그러나, 확정된 것은 아니였다.
 
-2011년 6월 27일 새 음반의 재킷 사진을 공개하며 컴백을 예고했다. 재킷 사진에는 현아의 문신 사진을 공개했는데, 문신 내용은 "내 어머니는 나를 살아있게 하는 심장이다"였다.\[2\] 이어 같은 날, [GS25](https://ko.wikipedia.org/wiki/GS25 "wikilink")의 TV 스크린을 통해 풍선껌을 물고있는 현아의 재킷 사진이 공개되었다.\[3\] 이후 2011년 7월 5일로 현아의 첫 미니 앨범 *[Bubble Pop\!](https://ko.wikipedia.org/wiki/Bubble_Pop! "wikilink")*의 발매 일정이 확정되었고, 이에 앞서 앨범의 유일한 발라드 노래 "A Bitter Day"를 싱글로 2011년 6월 30일 발매했다.
+2011년 6월 27일 새 음반의 재킷 사진을 공개하며 컴백을 예고했다. 재킷 사진에는 현아의 문신 사진을 공개했는데, 문신 내용은 "내 어머니는 나를 살아있게 하는 심장이다"였다.\[2\] 이어 같은 날, [GS25](../Page/GS25.md "wikilink")의 TV 스크린을 통해 풍선껌을 물고있는 현아의 재킷 사진이 공개되었다.\[3\] 이후 2011년 7월 5일로 현아의 첫 미니 앨범 *[Bubble Pop\!](../Page/Bubble_Pop!.md "wikilink")*의 발매 일정이 확정되었고, 이에 앞서 앨범의 유일한 발라드 노래 "A Bitter Day"를 싱글로 2011년 6월 30일 발매했다.
 
 ## 트랙 리스트
 
@@ -36,7 +36,7 @@
 1.
 2.
 3.
-4.  [가온 차트\> A Bitter Day](http://www.gaonchart.co.kr/main/section/search/list.gaon?Search_str=A+Bitter+Day) 《[가온 차트](https://ko.wikipedia.org/wiki/가온_차트 "wikilink")》 2011-07-09 확인.
+4.  [가온 차트\> A Bitter Day](http://www.gaonchart.co.kr/main/section/search/list.gaon?Search_str=A+Bitter+Day) 《[가온 차트](../Page/가온_차트.md "wikilink")》 2011-07-09 확인.
 5.
 6.
 7.

@@ -17,7 +17,7 @@
     Peter Rafelson (Disc 1-9, 10, Disc 2 전곡)
   - Executive Producer : 박동아
   - Music Producers: 김지환, 신인수
-  - Guitar: 이근형, [함춘호](https://ko.wikipedia.org/wiki/함춘호 "wikilink"), [샘 리](https://ko.wikipedia.org/wiki/샘_리 "wikilink")
+  - Guitar: 이근형, [함춘호](../Page/함춘호.md "wikilink"), [샘 리](../Page/샘_리.md "wikilink")
   - Keyboard: 이승환(The Story), 최태완
   - Bass: 신현권
   - String: 이지연, 김미령, 장지혜, 서진희, 한수혜, 최성희

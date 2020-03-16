@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TCL \(\)](https://ko.wikipedia.org/wiki/TCL_\(\)).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Logo_of_the_TCL_Corporation.svg "wikilink") **TCL**(TCL集團)은 1981년에 세워진 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")의 기업이다. 1980년, '후이양 전자 산업 회사'가 세워졌으나, 1981년과 1985년에 각각 'TTK 가전 기기 회사'와 'TCL 전자 장비 주식회사'를 병합하면서, 지금에 이르렀다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Logo_of_the_TCL_Corporation.svg "wikilink") **TCL**(TCL集團)은 1981년에 세워진 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 기업이다. 1980년, '후이양 전자 산업 회사'가 세워졌으나, 1981년과 1985년에 각각 'TTK 가전 기기 회사'와 'TCL 전자 장비 주식회사'를 병합하면서, 지금에 이르렀다.
 
 ## 역사
 

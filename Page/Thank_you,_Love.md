@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Thank you, Love](https://ko.wikipedia.org/wiki/Thank_you,_Love).
 
 
-《**Thank you, Love**》(땡큐, 러브)는 [니시노 카나의](https://ko.wikipedia.org/wiki/니시노_카나 "wikilink") 세 번째 [정규 음반으로](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"), [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월 22일에](https://ko.wikipedia.org/wiki/6월_22일 "wikilink") [SME 레코드에서](https://ko.wikipedia.org/wiki/SME_레코드 "wikilink") 발매되었다. 사랑 이야기가 주를 이룬 전작 《[LOVE one.](../Page/LOVE_one..md "wikilink")》, 《[to LOVE](https://ko.wikipedia.org/wiki/to_LOVE "wikilink")》에 비해 다양한 주제를 다루고 있다.\[1\]
+《**Thank you, Love**》(땡큐, 러브)는 [니시노 카나의](../Page/니시노_카나.md "wikilink") 세 번째 [정규 음반으로](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"), [2011년](../Page/2011년.md "wikilink") [6월 22일에](../Page/6월_22일.md "wikilink") [SME 레코드에서](https://ko.wikipedia.org/wiki/SME_레코드 "wikilink") 발매되었다. 사랑 이야기가 주를 이룬 전작 《[LOVE one.](../Page/LOVE_one..md "wikilink")》, 《[to LOVE](https://ko.wikipedia.org/wiki/to_LOVE "wikilink")》에 비해 다양한 주제를 다루고 있다.\[1\]
 
-수록곡 〈[if](https://ko.wikipedia.org/wiki/if_\(니시노_카나의_노래\) "wikilink")〉, 〈[너는](https://ko.wikipedia.org/wiki/너는_\(니시노_카나의_노래\) "wikilink")〉, 〈[Distance](https://ko.wikipedia.org/wiki/Distance_\(니시노_카나의_노래\) "wikilink")〉, 〈[Esperanza](https://ko.wikipedia.org/wiki/Esperanza_\(노래\) "wikilink")〉는 싱글로도 발매되었으며, 〈**Alright**〉가 리드곡으로 정해졌다.\[2\] 〈**Alright**〉를 제외한 4곡은 [오리콘](../Page/오리콘.md "wikilink"), [빌보드](https://ko.wikipedia.org/wiki/빌보드 "wikilink") 싱글차트 상위 10위권을 차지한 것은 물론, [일본 레코드 협회의](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") 벨소리 다운로드 수를 포함한 RIAJ유료음악전송 차트 모두 상위권에 이름을 올렸다.
+수록곡 〈[if](https://ko.wikipedia.org/wiki/if_\(니시노_카나의_노래\) "wikilink")〉, 〈[너는](https://ko.wikipedia.org/wiki/너는_\(니시노_카나의_노래\) "wikilink")〉, 〈[Distance](https://ko.wikipedia.org/wiki/Distance_\(니시노_카나의_노래\) "wikilink")〉, 〈[Esperanza](https://ko.wikipedia.org/wiki/Esperanza_\(노래\) "wikilink")〉는 싱글로도 발매되었으며, 〈**Alright**〉가 리드곡으로 정해졌다.\[2\] 〈**Alright**〉를 제외한 4곡은 [오리콘](../Page/오리콘.md "wikilink"), [빌보드](../Page/빌보드.md "wikilink") 싱글차트 상위 10위권을 차지한 것은 물론, [일본 레코드 협회의](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") 벨소리 다운로드 수를 포함한 RIAJ유료음악전송 차트 모두 상위권에 이름을 올렸다.
 
 니시노는 이 음반을 통해 처음으로 전국 홀 투어 〈Kanayan Tour 2011 Summer〉를 개최하였다.
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [TEU](https://ko.wikipedia.org/wiki/TEU).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:teu.jpg "wikilink") (6.1[미터](https://ko.wikipedia.org/wiki/미터 "wikilink")) [컨테이너](../Page/컨테이너.md "wikilink")는 1 TEU.\]\]
+[오른쪽](https://ko.wikipedia.org/wiki/파일:teu.jpg "wikilink") (6.1[미터](../Page/미터.md "wikilink")) [컨테이너](../Page/컨테이너.md "wikilink")는 1 TEU.\]\]
 
-**TEU**()는 20[피트](../Page/피트.md "wikilink")(6.096m) 길이의 [컨테이너](../Page/컨테이너.md "wikilink") 크기를 부르는 단위로 [컨테이너선](https://ko.wikipedia.org/wiki/컨테이너선 "wikilink")이나 [컨테이너 부두](https://ko.wikipedia.org/wiki/컨테이너_부두 "wikilink") 등에서 주로 쓰인다. 20 [피트](../Page/피트.md "wikilink") 표준 [컨테이너](../Page/컨테이너.md "wikilink")의 크기를 기준으로 만든 단위로 배나 기차, 트럭 등의 운송 수단간 용량을 비교를 쉽게하기 위해 만들어졌다.
+**TEU**()는 20[피트](../Page/피트.md "wikilink")(6.096m) 길이의 [컨테이너](../Page/컨테이너.md "wikilink") 크기를 부르는 단위로 [컨테이너선](../Page/컨테이너선.md "wikilink")이나 [컨테이너 부두](https://ko.wikipedia.org/wiki/컨테이너_부두 "wikilink") 등에서 주로 쓰인다. 20 [피트](../Page/피트.md "wikilink") 표준 [컨테이너](../Page/컨테이너.md "wikilink")의 크기를 기준으로 만든 단위로 배나 기차, 트럭 등의 운송 수단간 용량을 비교를 쉽게하기 위해 만들어졌다.
 
 ## 환산단위
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DLNA](https://ko.wikipedia.org/wiki/DLNA).
 
 
-**DLNA**(디지털 리빙 네트워크 얼라이언스, Digital Living Network Alliance)는 [소니](https://ko.wikipedia.org/wiki/소니 "wikilink")가 2003년 6월에 설립한\[1\] [비영리](https://ko.wikipedia.org/wiki/비영리 "wikilink") 단체로, 모바일, 가전 기기, PC, 서비스 제공자 산업의 250개 이상의 회사와\[2\] 연계하고 있다.
+**DLNA**(디지털 리빙 네트워크 얼라이언스, Digital Living Network Alliance)는 [소니](../Page/소니.md "wikilink")가 2003년 6월에 설립한\[1\] [비영리](https://ko.wikipedia.org/wiki/비영리 "wikilink") 단체로, 모바일, 가전 기기, PC, 서비스 제공자 산업의 250개 이상의 회사와\[2\] 연계하고 있다.
 
 2003년 6월에 디지털 홈 워킹 그룹(Digital Home Working Group)이라는 이름으로 설립되었다가, DNLA의 가이드라인이 확립되어 공표된 12개월 후에 현재의 이름으로 자리잡혔다.\[3\]
 

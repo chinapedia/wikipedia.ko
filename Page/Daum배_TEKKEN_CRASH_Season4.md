@@ -5,8 +5,8 @@
 
 ## 리그기간
 
-  - 녹화 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 17일](https://ko.wikipedia.org/wiki/7월_17일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 18일](https://ko.wikipedia.org/wiki/9월_18일 "wikilink")
-  - 방송날짜 : [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [7월 20일](https://ko.wikipedia.org/wiki/7월_20일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 21일](https://ko.wikipedia.org/wiki/9월_21일 "wikilink")
+  - 녹화 : [2011년](../Page/2011년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink")
+  - 방송날짜 : [2011년](../Page/2011년.md "wikilink") [7월 20일](../Page/7월_20일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink")
 
 ## 버전
 

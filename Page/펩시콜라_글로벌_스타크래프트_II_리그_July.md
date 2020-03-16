@@ -5,10 +5,10 @@
 
 ## 리그기간
 
-  - Code S 조지명식: [6월 20일](https://ko.wikipedia.org/wiki/6월_20일 "wikilink")
-  - Code S: [6월 28일](https://ko.wikipedia.org/wiki/6월_28일 "wikilink") \~ [7월 30일](https://ko.wikipedia.org/wiki/7월_30일 "wikilink")
-  - Code A: [6월 27일](https://ko.wikipedia.org/wiki/6월_27일 "wikilink") \~ [7월 18일](https://ko.wikipedia.org/wiki/7월_18일 "wikilink")
-  - 승격/강등전: [7월 26일](https://ko.wikipedia.org/wiki/7월_26일 "wikilink") \~ [7월 28일](https://ko.wikipedia.org/wiki/7월_28일 "wikilink")
+  - Code S 조지명식: [6월 20일](../Page/6월_20일.md "wikilink")
+  - Code S: [6월 28일](../Page/6월_28일.md "wikilink") \~ [7월 30일](../Page/7월_30일.md "wikilink")
+  - Code A: [6월 27일](../Page/6월_27일.md "wikilink") \~ [7월 18일](../Page/7월_18일.md "wikilink")
+  - 승격/강등전: [7월 26일](../Page/7월_26일.md "wikilink") \~ [7월 28일](../Page/7월_28일.md "wikilink")
 
 ## 리그방식
 
@@ -51,7 +51,7 @@
 
   - 곰TV (인터넷 방송: 생방송, 다시 보기), (모바일 애플리케이션: 다시 보기)
   - [애니박스](../Page/애니박스.md "wikilink") ([케이블 방송](../Page/대한민국의_케이블TV_방송.md "wikilink"): 생방송)
-  - [챔프TV](https://ko.wikipedia.org/wiki/챔프TV "wikilink") ([케이블 방송](../Page/대한민국의_케이블TV_방송.md "wikilink"): 주요 경기 재방송)
+  - [챔프TV](../Page/챔프TV.md "wikilink") ([케이블 방송](../Page/대한민국의_케이블TV_방송.md "wikilink"): 주요 경기 재방송)
   - [olleh TV](https://ko.wikipedia.org/wiki/올레TV "wikilink") ([IPTV](https://ko.wikipedia.org/wiki/인터넷_프로토콜_텔레비전 "wikilink"): 다시 보기)
 
 ## 중계진
@@ -67,27 +67,27 @@
 
 ### 32강
 
-| A조 (2011년 6월 28일)                                       | B조 (2011년 6월 28일) | C조 (2011년 6월 29일) | D조 (2011년 6월 29일)                                                 |
-| ------------------------------------------------------- | ----------------- | ----------------- | ----------------------------------------------------------------- |
-| **이름**                                                  | **승**             | **패**             | **이름**                                                            |
-| [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink") (Z) | 2                 | 0                 | [한규종](../Page/한규종.md "wikilink") (T)                              |
-| [서기수](../Page/서기수.md "wikilink") (P)                    | 2                 | 1                 | [김상철](https://ko.wikipedia.org/wiki/김상철 "wikilink") (T)           |
-| [박성준](../Page/박성준_\(1986년\).md "wikilink") (Z)          | 1                 | 2                 | [김동환](https://ko.wikipedia.org/wiki/김동환_\(프로게이머\) "wikilink") (Z) |
-| [박서용](../Page/박서용.md "wikilink") (T)\[5\]               | X                 | X                 | [이정환](https://ko.wikipedia.org/wiki/이정환 "wikilink") (P)           |
+| A조 (2011년 6월 28일)                              | B조 (2011년 6월 28일) | C조 (2011년 6월 29일) | D조 (2011년 6월 29일)                                       |
+| ---------------------------------------------- | ----------------- | ----------------- | ------------------------------------------------------- |
+| **이름**                                         | **승**             | **패**             | **이름**                                                  |
+| [임재덕](../Page/임재덕.md "wikilink") (Z)           | 2                 | 0                 | [한규종](../Page/한규종.md "wikilink") (T)                    |
+| [서기수](../Page/서기수.md "wikilink") (P)           | 2                 | 1                 | [김상철](https://ko.wikipedia.org/wiki/김상철 "wikilink") (T) |
+| [박성준](../Page/박성준_\(1986년\).md "wikilink") (Z) | 1                 | 2                 | [김동환](../Page/김동환_\(프로게이머\).md "wikilink") (Z)          |
+| [박서용](../Page/박서용.md "wikilink") (T)\[5\]      | X                 | X                 | [이정환](https://ko.wikipedia.org/wiki/이정환 "wikilink") (P) |
 
-| E조 (2011년 7월 5일)                                                  | F조 (2011년 7월 5일) | G조 (2011년 7월 6일) | H조 (2011년 7월 6일)                                                  |
-| ----------------------------------------------------------------- | ---------------- | ---------------- | ----------------------------------------------------------------- |
-| **이름**                                                            | **승**            | **패**            | **이름**                                                            |
-| [최정민](../Page/최정민_\(프로게이머\).md "wikilink") (Z)                    | 2                | 0                | [이윤열](../Page/이윤열.md "wikilink") (T)                              |
-| [변현우](https://ko.wikipedia.org/wiki/변현우_\(프로게이머\) "wikilink") (T) | 2                | 1                | [안홍욱](../Page/안홍욱.md "wikilink") (P)                              |
-| [정종현](https://ko.wikipedia.org/wiki/정종현 "wikilink") (T)           | 1                | 2                | [김영진](https://ko.wikipedia.org/wiki/김영진_\(프로게이머\) "wikilink") (T) |
-| [김승철](https://ko.wikipedia.org/wiki/김승철 "wikilink") (T)           | 0                | 2                | [황규석](https://ko.wikipedia.org/wiki/황규석 "wikilink") (T)           |
+| E조 (2011년 7월 5일)                                                  | F조 (2011년 7월 5일) | G조 (2011년 7월 6일) | H조 (2011년 7월 6일)                               |
+| ----------------------------------------------------------------- | ---------------- | ---------------- | ---------------------------------------------- |
+| **이름**                                                            | **승**            | **패**            | **이름**                                         |
+| [최정민](../Page/최정민_\(프로게이머\).md "wikilink") (Z)                    | 2                | 0                | [이윤열](../Page/이윤열.md "wikilink") (T)           |
+| [변현우](https://ko.wikipedia.org/wiki/변현우_\(프로게이머\) "wikilink") (T) | 2                | 1                | [안홍욱](../Page/안홍욱.md "wikilink") (P)           |
+| [정종현](../Page/정종현.md "wikilink") (T)                              | 1                | 2                | [김영진](../Page/김영진_\(프로게이머\).md "wikilink") (T) |
+| [김승철](../Page/김승철.md "wikilink") (T)                              | 0                | 2                | [황규석](../Page/황규석.md "wikilink") (T)           |
 
 ### 16강 \~ 결승
 
 ### 결과
 
-  - **우승: [임재덕](https://ko.wikipedia.org/wiki/임재덕 "wikilink")**
+  - **우승: [임재덕](../Page/임재덕.md "wikilink")**
   - **준우승: [황강호](../Page/황강호.md "wikilink")**
 
 ## Code A
@@ -95,20 +95,20 @@
 ### 결과
 
   - **우승: [김상준](../Page/김상준_\(프로게이머\).md "wikilink")**
-  - **준우승: [김정훈](https://ko.wikipedia.org/wiki/김정훈_\(1990년\) "wikilink")**
+  - **준우승: [김정훈](../Page/김정훈_\(1990년\).md "wikilink")**
 
 ## 승격/강등전
 
   - **CODE A 선수는 굵은 글씨**
 
-| A조 (2011년 7월 26일)                                                     | B조 (2011년 7월 27일) | C조 (2011년 7월 28일) |
-| --------------------------------------------------------------------- | ----------------- | ----------------- |
-| **이름**                                                                | **승**             | **패**             |
-| **[김동원](https://ko.wikipedia.org/wiki/김동원_\(프로게이머\) "wikilink") (T)** | 4                 | 0                 |
-| **[안호진](https://ko.wikipedia.org/wiki/안호진 "wikilink") (T)**           | 2                 | 1                 |
-| **[조중혁](https://ko.wikipedia.org/wiki/조중혁 "wikilink") (T)**           | 2                 | 2                 |
-| [이정훈](../Page/이정훈_\(프로게이머\).md "wikilink") (T)                        | 1                 | 3                 |
-| [김원기](../Page/김원기_\(프로게이머\).md "wikilink") (Z)                        | 0                 | 3                 |
+| A조 (2011년 7월 26일)                                  | B조 (2011년 7월 27일) | C조 (2011년 7월 28일) |
+| -------------------------------------------------- | ----------------- | ----------------- |
+| **이름**                                             | **승**             | **패**             |
+| **[김동원](../Page/김동원_\(프로게이머\).md "wikilink") (T)** | 4                 | 0                 |
+| **[안호진](../Page/안호진.md "wikilink") (T)**           | 2                 | 1                 |
+| **[조중혁](../Page/조중혁.md "wikilink") (T)**           | 2                 | 2                 |
+| [이정훈](../Page/이정훈_\(프로게이머\).md "wikilink") (T)     | 1                 | 3                 |
+| [김원기](../Page/김원기_\(프로게이머\).md "wikilink") (Z)     | 0                 | 3                 |
 
 ## 각주
 

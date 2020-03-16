@@ -17,7 +17,7 @@
 
 ## 개발과 전력화
 
-1968년 [RT-2](https://ko.wikipedia.org/wiki/RT-2 "wikilink")(SS-13, 사일로), 1972년 [RT-2P](https://ko.wikipedia.org/wiki/RT-2P "wikilink")(SS-14, 트럭), 1988년 [RT-2PM 토폴](https://ko.wikipedia.org/wiki/RT-2PM_토폴 "wikilink")(SS-25, 트럭), 1997년 [RT-2UTTKh 토폴-M](https://ko.wikipedia.org/wiki/RT-2UTTKh_토폴-M "wikilink")(SS-27, 트럭)이 실전배치되었다.\[9\]
+1968년 [RT-2](https://ko.wikipedia.org/wiki/RT-2 "wikilink")(SS-13, 사일로), 1972년 [RT-2P](https://ko.wikipedia.org/wiki/RT-2P "wikilink")(SS-14, 트럭), 1988년 [RT-2PM 토폴](../Page/RT-2PM_토폴.md "wikilink")(SS-25, 트럭), 1997년 [RT-2UTTKh 토폴-M](https://ko.wikipedia.org/wiki/RT-2UTTKh_토폴-M "wikilink")(SS-27, 트럭)이 실전배치되었다.\[9\]
 
 토폴-M 미사일의 개발은 1980년대 말에 SS-25 토폴의 혁신적인 업그레이드로 출발하였으며, 1992년에 재디자인 되었다. 최초의 비행 테스트는 1994년 12월 20일에 실시하였으며, 1997년 12월 SS-19 사일로를 고친 사일로에 전력화 되었다. 그 후 1998년 최초의 사일로 기반 부대가 작전에 들어갔음이 공포되었으며, 그 후 1999년, 2000년, 2003년에 공포 되었다.
 
@@ -48,7 +48,7 @@
 ## 함께 보기
 
   - [미사일 목록 (이름순)](https://ko.wikipedia.org/wiki/미사일_목록_\(이름순\) "wikilink")
-  - [RT-2PM/RS-12M 토폴 (SS-25)](https://ko.wikipedia.org/wiki/RT-2PM_토폴 "wikilink")
+  - [RT-2PM/RS-12M 토폴 (SS-25)](../Page/RT-2PM_토폴.md "wikilink")
   - [미사일 방어](https://ko.wikipedia.org/wiki/미사일_방어 "wikilink")
 
 ## 각주

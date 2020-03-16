@@ -12,9 +12,9 @@
 |                        Network Configuration                         |
 |                                                                      |
 
-**RAPIEnet**(Real-time Automation Protocols for Industrial Ethernet)은 실시간 데이터 전송을 위한 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") 최초의 산업용 [이더넷](https://ko.wikipedia.org/wiki/이더넷 "wikilink") 국제표준규격이다.
+**RAPIEnet**(Real-time Automation Protocols for Industrial Ethernet)은 실시간 데이터 전송을 위한 [대한민국](../Page/대한민국.md "wikilink") 최초의 산업용 [이더넷](../Page/이더넷.md "wikilink") 국제표준규격이다.
 
-  - 이더넷 기반의 실시간성을 보장하는 산업용 네트워크.\[1\][LS산전](https://ko.wikipedia.org/wiki/LS산전 "wikilink")에서 독자 개발한 통신방식으로, 대한민국 최초로 산업용 통신망이 국제표준으로 등록되어 있다.\[2\] (IEC 61158-3-21: 2010, IEC 61158-4-21: 2010, IEC 61158-5-21: 2010, IEC 61158-6-21: 2010, IEC 61784-2: 2010)
+  - 이더넷 기반의 실시간성을 보장하는 산업용 네트워크.\[1\][LS산전](../Page/LS산전.md "wikilink")에서 독자 개발한 통신방식으로, 대한민국 최초로 산업용 통신망이 국제표준으로 등록되어 있다.\[2\] (IEC 61158-3-21: 2010, IEC 61158-4-21: 2010, IEC 61158-5-21: 2010, IEC 61158-6-21: 2010, IEC 61784-2: 2010)
 
 <!-- end list -->
 

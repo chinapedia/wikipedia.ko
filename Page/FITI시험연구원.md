@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FITI](https://ko.wikipedia.org/wiki/FITI).
 
 
-**FITI시험연구원**은 섬유 . 산업자재 . 환경 자원 . 미생물 분야 등을 대상으로 시험분석, 품질검사, 품질보증 서비스를 제공하고 시험평가 방법의 개발, 표준화, 관련 부문에 대한 기술지도 및 자료 정보의 제공을 통해 고객기업의 국제경쟁력 향상을 위해 설립된 연구기관이다. [서울특별시](https://ko.wikipedia.org/wiki/서울특별시 "wikilink") [강서구](https://ko.wikipedia.org/wiki/강서구 "wikilink") 마곡에 위치하고 있다.
+**FITI시험연구원**은 섬유 . 산업자재 . 환경 자원 . 미생물 분야 등을 대상으로 시험분석, 품질검사, 품질보증 서비스를 제공하고 시험평가 방법의 개발, 표준화, 관련 부문에 대한 기술지도 및 자료 정보의 제공을 통해 고객기업의 국제경쟁력 향상을 위해 설립된 연구기관이다. [서울특별시](../Page/서울특별시.md "wikilink") [강서구](https://ko.wikipedia.org/wiki/강서구 "wikilink") 마곡에 위치하고 있다.
 
 ## 연혁
 
@@ -46,13 +46,13 @@
 
 ## 같이 보기
 
-  - [한국건설생활환경시험연구원](https://ko.wikipedia.org/wiki/한국건설생활환경시험연구원 "wikilink")
-  - [한국기계전기전자시험연구원](https://ko.wikipedia.org/wiki/한국기계전기전자시험연구원 "wikilink")
+  - [한국건설생활환경시험연구원](../Page/한국건설생활환경시험연구원.md "wikilink")
+  - [한국기계전기전자시험연구원](../Page/한국기계전기전자시험연구원.md "wikilink")
   - [한국의류시험연구원](https://ko.wikipedia.org/wiki/한국의류시험연구원 "wikilink")
-  - [한국화학융합시험연구원](https://ko.wikipedia.org/wiki/한국화학융합시험연구원 "wikilink")
+  - [한국화학융합시험연구원](../Page/한국화학융합시험연구원.md "wikilink")
   - [한국섬유개발연구원](https://ko.wikipedia.org/wiki/한국섬유개발연구원 "wikilink")
   - [한국실크연구원](https://ko.wikipedia.org/wiki/한국실크연구원 "wikilink")
-  - [한국패션산업연구원](https://ko.wikipedia.org/wiki/한국패션산업연구원 "wikilink")
+  - [한국패션산업연구원](../Page/한국패션산업연구원.md "wikilink")
 
 ## 외부 링크
 

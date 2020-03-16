@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [UGM-27 ](https://ko.wikipedia.org/wiki/UGM-27_).
 
 
-**UGM-27 폴라리스**는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")이 최초로 개발한 잠수함 발사용 탄도 미사일([SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink"))이다.
+**UGM-27 폴라리스**는 [미국](../Page/미국.md "wikilink")이 최초로 개발한 잠수함 발사용 탄도 미사일([SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink"))이다.
 
 [영국 해군에는](https://ko.wikipedia.org/wiki/영국_해군 "wikilink") 폴라리스가 1968년 부터 1990년까지 실전배치되었다. [소련 해군에는](../Page/소련_해군.md "wikilink") [R-21](../Page/R-21.md "wikilink")이 1963년에서 1989년까지, [R-27](../Page/R-27.md "wikilink")이 1968년 부터 1988년까지 실전배치되었다.
 
-[프랑스 해군은](https://ko.wikipedia.org/wiki/프랑스_해군 "wikilink") [수드 아비아시온이](https://ko.wikipedia.org/wiki/수드_아비아시온 "wikilink") 1960년에 개발에 착수, 1971년 실전배치된 [M1 미사일이](https://ko.wikipedia.org/wiki/M1_미사일 "wikilink") 있다.
+[프랑스 해군은](../Page/프랑스_해군.md "wikilink") [수드 아비아시온이](https://ko.wikipedia.org/wiki/수드_아비아시온 "wikilink") 1960년에 개발에 착수, 1971년 실전배치된 [M1 미사일이](https://ko.wikipedia.org/wiki/M1_미사일 "wikilink") 있다.
 
 ## 역사
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - [이탈리아 해군](https://ko.wikipedia.org/wiki/이탈리아_해군 "wikilink")
+  - [이탈리아 해군](../Page/이탈리아_해군.md "wikilink")
 
 ## 더 보기
 
@@ -57,6 +57,6 @@
   - [무수단 미사일](../Page/무수단_미사일.md "wikilink") - 북한판 폴라리스
   - [R-21](../Page/R-21.md "wikilink") - 소련판 폴라리스
   - [R-27](../Page/R-27.md "wikilink") - 소련판 폴라리스
-  - [JL-1](https://ko.wikipedia.org/wiki/JL-1 "wikilink") - 중국판 폴라리스
+  - [JL-1](../Page/JL-1.md "wikilink") - 중국판 폴라리스
 
 [분류:잠수함발사 탄도유도탄](https://ko.wikipedia.org/wiki/분류:잠수함발사_탄도유도탄 "wikilink")

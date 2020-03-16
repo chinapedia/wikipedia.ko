@@ -21,7 +21,7 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - 검색녀   (2011년 10월 6일 \~ 2012년 4월 19일)
 
-  - [갱생 버라이어티 하바나](https://ko.wikipedia.org/wiki/갱생버라이어티_하바나 "wikilink")   (2011년 10월 8일 \~ 2012년 3월 17일)
+  - [갱생 버라이어티 하바나](../Page/갱생버라이어티_하바나.md "wikilink")   (2011년 10월 8일 \~ 2012년 3월 17일)
 
 ## ㄴ
 
@@ -35,7 +35,7 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - 듀얼 레전드 제로 (2011년)
 
-  - [독특한 연예뉴스](https://ko.wikipedia.org/wiki/독특한_연예뉴스 "wikilink")   (2009년 1월 13일 \~ )
+  - [독특한 연예뉴스](../Page/독특한_연예뉴스.md "wikilink")   (2009년 1월 13일 \~ )
 
   - [뚜바뚜바 눈보리](https://ko.wikipedia.org/wiki/뚜바뚜바_눈보리 "wikilink") (2011년 \~ )
 
@@ -61,7 +61,7 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - 비트윈 더 라이온즈 (2011년 \~ )
 
-  - [뽀롱뽀롱 뽀로로](https://ko.wikipedia.org/wiki/뽀롱뽀롱_뽀로로 "wikilink") (2011년 \~ )
+  - [뽀롱뽀롱 뽀로로](../Page/뽀롱뽀롱_뽀로로.md "wikilink") (2011년 \~ )
 
 ## ㅅ
 
@@ -69,7 +69,7 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - [생방송 정보쇼 베스트 70](https://ko.wikipedia.org/wiki/생방송_정보쇼_베스트_70 "wikilink")  (2011년 10월 3일 \~ 2012년 4월 20일)
 
-  - [생방송 OBS](https://ko.wikipedia.org/wiki/생방송_OBS "wikilink")  (2009년 9월 21일 \~ 2014년 10월 3일)
+  - [생방송 OBS](../Page/생방송_OBS.md "wikilink")  (2009년 9월 21일 \~ 2014년 10월 3일)
 
   - 생방송 OBS 토론합시다  (2011년 11월 7일 \~ 2013년 2월 21일)
 
@@ -107,7 +107,7 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - [연예매거진](https://ko.wikipedia.org/wiki/연예매거진 "wikilink")   (2009년 1월 19일 \~ )
 
-  - [오늘의 월드뉴스](https://ko.wikipedia.org/wiki/오늘의_월드뉴스 "wikilink")  (2010년 4월 26일 \~ )
+  - [오늘의 월드뉴스](../Page/오늘의_월드뉴스.md "wikilink")  (2010년 4월 26일 \~ )
 
   - [웨스트 윙](../Page/웨스트_윙.md "wikilink")   (2011년 \~ )
 
@@ -149,7 +149,7 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - 행복 부동산 연구소  (2015년 6월 29일 \~ )
 
-  - [후토스 - 하늘을 나는 집](https://ko.wikipedia.org/wiki/후토스_-_하늘을_나는_집 "wikilink")
+  - [후토스 - 하늘을 나는 집](../Page/후토스_-_하늘을_나는_집.md "wikilink")
 
   - 휴먼로드 360도 지구 한바퀴 (2013년 10월 3일 \~ 2014년 4월 10일)
 
@@ -161,7 +161,7 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - 2011 지금 평양에선 (2011년 4월 10일 \~ 2011년 9월 25일)
 
-  - [Wave K](https://ko.wikipedia.org/wiki/Wave_K "wikilink")   (2011년 10월 9일 \~ 2012년 3월 4일)
+  - [Wave K](../Page/Wave_K.md "wikilink")   (2011년 10월 9일 \~ 2012년 3월 4일)
 
   - [OBS 아침뉴스](https://ko.wikipedia.org/wiki/OBS_아침뉴스 "wikilink")  (2019년 5월 27일 \~ )
 
@@ -203,7 +203,7 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - OBS 핫라인뉴스
 
-  - [OBS 경인투데이](https://ko.wikipedia.org/wiki/OBS_경인투데이 "wikilink")  (2007년 12월 29일 \~ )
+  - [OBS 경인투데이](../Page/OBS_경인투데이.md "wikilink")  (2007년 12월 29일 \~ )
 
   - OBS 초대석  (2008년 10월 31일 \~ )
 
@@ -243,16 +243,16 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
 ## 같이 보기
 
-  - [한국방송공사의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램_목록 "wikilink")
-  - [한국교육방송공사의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/한국교육방송공사의_텔레비전_프로그램_목록 "wikilink")
-  - [문화방송의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/문화방송의_텔레비전_프로그램_목록 "wikilink")
-  - [SBS의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/SBS의_텔레비전_프로그램_목록 "wikilink")
+  - [한국방송공사의 텔레비전 프로그램 목록](../Page/한국방송공사의_텔레비전_프로그램_목록.md "wikilink")
+  - [한국교육방송공사의 텔레비전 프로그램 목록](../Page/한국교육방송공사의_텔레비전_프로그램_목록.md "wikilink")
+  - [문화방송의 텔레비전 프로그램 목록](../Page/문화방송의_텔레비전_프로그램_목록.md "wikilink")
+  - [SBS의 텔레비전 프로그램 목록](../Page/SBS의_텔레비전_프로그램_목록.md "wikilink")
   - [KNN의 텔레비전 프로그램 목록](../Page/KNN의_텔레비전_프로그램_목록.md "wikilink")
   - [tvN의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/tvN의_텔레비전_프로그램_목록 "wikilink")
   - [OCN의 텔레비전 프로그램 목록](../Page/OCN의_텔레비전_프로그램_목록.md "wikilink")
-  - [JTBC의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/JTBC의_텔레비전_프로그램_목록 "wikilink")
-  - [매일방송의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/매일방송의_텔레비전_프로그램_목록 "wikilink")
-  - [TV조선의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/TV조선의_텔레비전_프로그램_목록 "wikilink")
-  - [채널A의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/채널A의_텔레비전_프로그램_목록 "wikilink")
+  - [JTBC의 텔레비전 프로그램 목록](../Page/JTBC의_텔레비전_프로그램_목록.md "wikilink")
+  - [매일방송의 텔레비전 프로그램 목록](../Page/매일방송의_텔레비전_프로그램_목록.md "wikilink")
+  - [TV조선의 텔레비전 프로그램 목록](../Page/TV조선의_텔레비전_프로그램_목록.md "wikilink")
+  - [채널A의 텔레비전 프로그램 목록](../Page/채널A의_텔레비전_프로그램_목록.md "wikilink")
 
 [\*](https://ko.wikipedia.org/wiki/분류:경인TV의_텔레비전_프로그램 "wikilink") [분류:방송사별 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/분류:방송사별_텔레비전_프로그램_목록 "wikilink") [분류:대한민국의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_프로그램_목록 "wikilink")

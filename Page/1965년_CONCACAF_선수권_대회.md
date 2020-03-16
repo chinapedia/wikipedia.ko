@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1965 CONCACAF  ](https://ko.wikipedia.org/wiki/1965_CONCACAF__).
 
 
-**1965년 CONCACAF 선수권 대회**는 [1965년](https://ko.wikipedia.org/wiki/1965년 "wikilink") [3월 28일부터](https://ko.wikipedia.org/wiki/3월_28일 "wikilink") [4월 11일까지](https://ko.wikipedia.org/wiki/4월_11일 "wikilink") [과테말라](https://ko.wikipedia.org/wiki/과테말라 "wikilink")에서 열린 2번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").
+**1965년 CONCACAF 선수권 대회**는 [1965년](../Page/1965년.md "wikilink") [3월 28일부터](../Page/3월_28일.md "wikilink") [4월 11일까지](../Page/4월_11일.md "wikilink") [과테말라](../Page/과테말라.md "wikilink")에서 열린 2번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").
 
 {{-}}
 
@@ -9,7 +9,7 @@
 
 ### 카리브 지역 예선
 
-[자메이카](../Page/자메이카_축구_국가대표팀.md "wikilink"), [트리니다드 토바고](https://ko.wikipedia.org/wiki/트리니다드_토바고_축구_국가대표팀 "wikilink"), [도미니카 공화국은](../Page/도미니카_공화국_축구_국가대표팀.md "wikilink") [1966년 FIFA 월드컵 북중미카리브 지역 예선](../Page/1966년_FIFA_월드컵_북중미카리브_지역_예선.md "wikilink") 일정과 충돌한다는 점을 이유로 불참했다. [쿠바는](../Page/쿠바_축구_국가대표팀.md "wikilink") 과테말라 당국이 쿠바 국민들의 과테말라 입국을 거부한 것에 대한 항의의 표시로 불참했다. 이에 따라 [아이티](../Page/아이티_축구_국가대표팀.md "wikilink"), [네덜란드령 안틸레스가](../Page/네덜란드령_안틸레스_축구_국가대표팀.md "wikilink") 자동으로 본선에 진출했다.
+[자메이카](../Page/자메이카_축구_국가대표팀.md "wikilink"), [트리니다드 토바고](../Page/트리니다드_토바고_축구_국가대표팀.md "wikilink"), [도미니카 공화국은](../Page/도미니카_공화국_축구_국가대표팀.md "wikilink") [1966년 FIFA 월드컵 북중미카리브 지역 예선](../Page/1966년_FIFA_월드컵_북중미카리브_지역_예선.md "wikilink") 일정과 충돌한다는 점을 이유로 불참했다. [쿠바는](../Page/쿠바_축구_국가대표팀.md "wikilink") 과테말라 당국이 쿠바 국민들의 과테말라 입국을 거부한 것에 대한 항의의 표시로 불참했다. 이에 따라 [아이티](../Page/아이티_축구_국가대표팀.md "wikilink"), [네덜란드령 안틸레스가](../Page/네덜란드령_안틸레스_축구_국가대표팀.md "wikilink") 자동으로 본선에 진출했다.
 
 ### 중앙아메리카 지역 예선
 
@@ -205,7 +205,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico_(1934-1968).svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀" title="wikilink">멕시코</a></strong><br />
+<strong><a href="../Page/멕시코_축구_국가대표팀.md" title="wikilink">멕시코</a></strong><br />
 <strong>1번째 우승</strong></p></td>
 </tr>
 </tbody>

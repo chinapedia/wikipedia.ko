@@ -17,7 +17,7 @@
 
   - [윤태윤](https://ko.wikipedia.org/wiki/윤태윤 "wikilink") 전 아나운서\[1\]
   - [안현준](https://ko.wikipedia.org/wiki/안현준 "wikilink") 아나운서
-  - [이승현](https://ko.wikipedia.org/wiki/이승현_\(아나운서,_1985년\) "wikilink") 아나운서
+  - [이승현](../Page/이승현_\(아나운서,_1985년\).md "wikilink") 아나운서
   - 김경화 아나운서
   - 이명숙 아나운서
   - 권기호 아나운서
@@ -26,8 +26,8 @@
 
 ## 같이 보기
 
-  - [생방송 투데이](https://ko.wikipedia.org/wiki/생방송_투데이 "wikilink")
-  - [투데이 뉴스](https://ko.wikipedia.org/wiki/투데이_뉴스 "wikilink")
+  - [생방송 투데이](../Page/생방송_투데이.md "wikilink")
+  - [투데이 뉴스](../Page/투데이_뉴스.md "wikilink")
 
 ## 외부 링크
 

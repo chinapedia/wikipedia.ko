@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
 
 
-**로열 앤트워프 FC**(Royal Antwerp Football Club)는 [안트베르펜](https://ko.wikipedia.org/wiki/안트베르펜 "wikilink")을 연고지로 하는 [벨기에](https://ko.wikipedia.org/wiki/벨기에 "wikilink")의 축구 클럽이다. [벨기에 왕립 축구 협회가](../Page/벨기에_왕립_축구_협회.md "wikilink") 만들어지기 15년 전에, 안트베르펜에 거주하는 잉글랜드인 학생들이 1880년에 앤트워프 크리켓 클럽 (Antwerp Cricket Club)이라는 명칭으로 창단된, 앤트워프는 벨기에에서 가장 오래된 축구 팀으로 여겨진다. 하지만 가장 오래된 축구팀이라고 현재까지 잘하지는 않는다라는것을 잘 보여주는 예시.
+**로열 앤트워프 FC**(Royal Antwerp Football Club)는 [안트베르펜](../Page/안트베르펜.md "wikilink")을 연고지로 하는 [벨기에](../Page/벨기에.md "wikilink")의 축구 클럽이다. [벨기에 왕립 축구 협회가](../Page/벨기에_왕립_축구_협회.md "wikilink") 만들어지기 15년 전에, 안트베르펜에 거주하는 잉글랜드인 학생들이 1880년에 앤트워프 크리켓 클럽 (Antwerp Cricket Club)이라는 명칭으로 창단된, 앤트워프는 벨기에에서 가장 오래된 축구 팀으로 여겨진다. 하지만 가장 오래된 축구팀이라고 현재까지 잘하지는 않는다라는것을 잘 보여주는 예시.
 
 ## 우승 경력
 

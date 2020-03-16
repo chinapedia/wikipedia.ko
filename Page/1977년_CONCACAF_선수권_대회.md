@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1977 CONCACAF  ](https://ko.wikipedia.org/wiki/1977_CONCACAF__).
 
 
-**1977년 CONCACAF 선수권 대회**는 [1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [10월 8일부터](https://ko.wikipedia.org/wiki/10월_8일 "wikilink") [10월 23일까지](https://ko.wikipedia.org/wiki/10월_23일 "wikilink") [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")에서 열린 7번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink"). 이 대회는 [1978년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하기도 했다. 우승을 차지한 [멕시코가](https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀 "wikilink") 1978년 FIFA 월드컵 본선에 진출했다.
+**1977년 CONCACAF 선수권 대회**는 [1977년](../Page/1977년.md "wikilink") [10월 8일부터](../Page/10월_8일.md "wikilink") [10월 23일까지](../Page/10월_23일.md "wikilink") [멕시코](../Page/멕시코.md "wikilink")에서 열린 7번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink"). 이 대회는 [1978년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하기도 했다. 우승을 차지한 [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") 1978년 FIFA 월드컵 본선에 진출했다.
 
 ## 예선
 
@@ -346,7 +346,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Mexico.svg" title="wikilink">100px</a><br />
-<strong><a href="https://ko.wikipedia.org/wiki/멕시코_축구_국가대표팀" title="wikilink">멕시코</a></strong><br />
+<strong><a href="../Page/멕시코_축구_국가대표팀.md" title="wikilink">멕시코</a></strong><br />
 <strong>3번째 우승</strong></p></td>
 </tr>
 </tbody>

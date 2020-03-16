@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VIA](https://ko.wikipedia.org/wiki/VIA).
 
 
-**VIA음악**([러시아어](https://ko.wikipedia.org/wiki/러시아어 "wikilink"): ВИА 또는 Вокально-инструментальный ансамбль "보컬-기악 합주단")은 [소련](https://ko.wikipedia.org/wiki/소련 "wikilink")의 [팝 음악](https://ko.wikipedia.org/wiki/팝_음악 "wikilink"), [록](https://ko.wikipedia.org/wiki/록 "wikilink") 그룹의 공식 이름이다. 원래 VIA라는 용어는 영어의 band의 동의어로 쓰였지만 오늘날에는 구소련의 옛 그룹을 가리키는 용어로 쓰여진다.
+**VIA음악**([러시아어](../Page/러시아어.md "wikilink"): ВИА 또는 Вокально-инструментальный ансамбль "보컬-기악 합주단")은 [소련](../Page/소련.md "wikilink")의 [팝 음악](../Page/팝_음악.md "wikilink"), [록](https://ko.wikipedia.org/wiki/록 "wikilink") 그룹의 공식 이름이다. 원래 VIA라는 용어는 영어의 band의 동의어로 쓰였지만 오늘날에는 구소련의 옛 그룹을 가리키는 용어로 쓰여진다.
 
 ## 역사
 

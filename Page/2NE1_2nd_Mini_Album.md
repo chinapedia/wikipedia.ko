@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [2NE1 2nd Mini Album](https://ko.wikipedia.org/wiki/2NE1_2nd_Mini_Album).
 
 
-《**2NE1 2nd Mini Album**》은 대한민국의 음악 그룹 [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink")의 두 번째 미니 앨범이다. 2011년 7월 28일 발매되었으며, 음반 발매 전 "[Lonely](../Page/Lonely_\(2NE1의_노래\).md "wikilink")"와 〈[내가 제일 잘 나가](https://ko.wikipedia.org/wiki/내가_제일_잘_나가 "wikilink")〉를 싱글로 발매해 1위를 차지하는 등 큰 인기를 얻었다. 또한 [박봄](https://ko.wikipedia.org/wiki/박봄 "wikilink")이 솔로로 발표했던 "[Don't Cry](../Page/Don't_Cry.md "wikilink")" 역시 수록되어 있다. 타이틀 곡은 "[Ugly](https://ko.wikipedia.org/wiki/Ugly "wikilink")"이다.
+《**2NE1 2nd Mini Album**》은 대한민국의 음악 그룹 [2NE1](../Page/2NE1.md "wikilink")의 두 번째 미니 앨범이다. 2011년 7월 28일 발매되었으며, 음반 발매 전 "[Lonely](../Page/Lonely_\(2NE1의_노래\).md "wikilink")"와 〈[내가 제일 잘 나가](https://ko.wikipedia.org/wiki/내가_제일_잘_나가 "wikilink")〉를 싱글로 발매해 1위를 차지하는 등 큰 인기를 얻었다. 또한 [박봄](../Page/박봄.md "wikilink")이 솔로로 발표했던 "[Don't Cry](../Page/Don't_Cry.md "wikilink")" 역시 수록되어 있다. 타이틀 곡은 "[Ugly](https://ko.wikipedia.org/wiki/Ugly "wikilink")"이다.
 
 ## 배경
 
-2011년 4월 21일 [박봄](https://ko.wikipedia.org/wiki/박봄 "wikilink")은 솔로 디지털 싱글 "[Don't Cry](../Page/Don't_Cry.md "wikilink")"를 발매하며 2NE1의 컴백을 알렸다. 이후 5월 21일에는 "[Lonely](../Page/Lonely_\(2NE1의_노래\).md "wikilink")", 6월 24일에는 〈[내가 제일 잘 나가](https://ko.wikipedia.org/wiki/내가_제일_잘_나가 "wikilink")〉를 디지털 싱글로 발매해 모두 1위를 차지하는 등 큰 인기를 얻었다. 이번 미니 앨범의 자켓은 주로 팝 가수들과 함께 작업한 팝 아티스트 마리 킴이 맡아서 진행했으며, 애니메이션으로 만들었다.\[1\] 2011년 7월 21일에는 서브 타이틀곡인 "[Hate You](https://ko.wikipedia.org/wiki/Hate_You_\(2NE1의_노래\) "wikilink")"를 선공개했고 "Ugly"는 앨범 출시와 함께 공개되었다.
+2011년 4월 21일 [박봄](../Page/박봄.md "wikilink")은 솔로 디지털 싱글 "[Don't Cry](../Page/Don't_Cry.md "wikilink")"를 발매하며 2NE1의 컴백을 알렸다. 이후 5월 21일에는 "[Lonely](../Page/Lonely_\(2NE1의_노래\).md "wikilink")", 6월 24일에는 〈[내가 제일 잘 나가](https://ko.wikipedia.org/wiki/내가_제일_잘_나가 "wikilink")〉를 디지털 싱글로 발매해 모두 1위를 차지하는 등 큰 인기를 얻었다. 이번 미니 앨범의 자켓은 주로 팝 가수들과 함께 작업한 팝 아티스트 마리 킴이 맡아서 진행했으며, 애니메이션으로 만들었다.\[1\] 2011년 7월 21일에는 서브 타이틀곡인 "[Hate You](../Page/Hate_You_\(2NE1의_노래\).md "wikilink")"를 선공개했고 "Ugly"는 앨범 출시와 함께 공개되었다.
 
 ## 차트 성적
 
@@ -24,7 +24,7 @@
   - 레코딩 스튜디오 - YG 스티듀오
   - 믹싱 엔지니어 - 제이슨 로버트
   - Mastered by - TOMCOYNE (스테링 사운드, NYC.)
-  - A\&R - [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink")
+  - A\&R - [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink")
   - 아트 디렉터 - SEONGEUN CHANG
   - 아트 워크 - 마리킴
   - 디자인 - 장성은, 이현주
@@ -50,8 +50,8 @@
 | -------------------------------------------------------------------------- | ----- |
 | 대한민국 [가온 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink")\[4\]    | 1     |
 | 대한민국 [가온 월간 앨범 차트](https://ko.wikipedia.org/wiki/가온_앨범_차트 "wikilink")\[5\] | 1     |
-| 미국 [빌보드 월드 앨범 차트](https://ko.wikipedia.org/wiki/빌보드 "wikilink")\[6\]       | 4     |
-| 미국 [빌보드 히트시커스 앨범 차트](https://ko.wikipedia.org/wiki/빌보드 "wikilink")\[7\]    | 34    |
+| 미국 [빌보드 월드 앨범 차트](../Page/빌보드.md "wikilink")\[6\]                          | 4     |
+| 미국 [빌보드 히트시커스 앨범 차트](../Page/빌보드.md "wikilink")\[7\]                       | 34    |
 |                                                                            |       |
 
 ## 각주
@@ -62,7 +62,7 @@
 
 1.
 2.
-3.  《2NE1 2nd Mini Album》. [2NE1](https://ko.wikipedia.org/wiki/2NE1 "wikilink"). [YG 엔터테인먼트](https://ko.wikipedia.org/wiki/YG_엔터테인먼트 "wikilink"). 2011.
+3.  《2NE1 2nd Mini Album》. [2NE1](../Page/2NE1.md "wikilink"). [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink"). 2011.
 4.
 5.
 6.

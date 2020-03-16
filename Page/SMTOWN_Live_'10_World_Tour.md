@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - **[I AM.](https://ko.wikipedia.org/wiki/I_AM. "wikilink")- SM Town Live World Tour in Madison Square Garden** (2012년 6월 21일 개봉, 2012년 9월 26일 DVD 발매) : SM 소속 아티스트들의 오디션 때부터 연습생 시절, 데뷔 후 화려한 공연을 펼치는 모습까지 가수들의 성장기를 담은 리얼 히스토리 영화이다.
+  - **[I AM.](../Page/I_AM..md "wikilink")- SM Town Live World Tour in Madison Square Garden** (2012년 6월 21일 개봉, 2012년 9월 26일 DVD 발매) : SM 소속 아티스트들의 오디션 때부터 연습생 시절, 데뷔 후 화려한 공연을 펼치는 모습까지 가수들의 성장기를 담은 리얼 히스토리 영화이다.
   - **SMTOWN LIVE IN TOKYO SPECIAL EDITION 3D** (2012년 10월 11일 개봉)\[1\]
   - **SMTOWN LIVE WORLD TOUR IN SEOUL DVD** (2015년 11월 19일 DVD 발매) : 지난 2010년, 2012년 열렸던 SMTOWN 합동 라이브 투어 서울 공연 실황을 담은 DVD.
 
@@ -49,8 +49,8 @@
 
 <!-- end list -->
 
-  - **한류, 아시아를 넘어 세계로 - SM TOWN Live in Paris** ([MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"), 2011년 7월 4일) : MBC 창사 50주년을 기념하여 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") 개최되었던 SMTOWN 파리 공연의 실황을 100분간 특집 편성하였다.
-  - **SM Town Live in Tokyo** ([MBC TV](https://ko.wikipedia.org/wiki/MBC_TV "wikilink"), 2012년 4월 9일) : MBC의 대대적인 노조 파업으로 인한 [놀러와](https://ko.wikipedia.org/wiki/놀러와 "wikilink")의 결방으로 인해 특집 대체 편성되었다.
+  - **한류, 아시아를 넘어 세계로 - SM TOWN Live in Paris** ([MBC TV](../Page/MBC_TV.md "wikilink"), 2011년 7월 4일) : MBC 창사 50주년을 기념하여 [2011년](../Page/2011년.md "wikilink") [6월](../Page/6월.md "wikilink") 개최되었던 SMTOWN 파리 공연의 실황을 100분간 특집 편성하였다.
+  - **SM Town Live in Tokyo** ([MBC TV](../Page/MBC_TV.md "wikilink"), 2012년 4월 9일) : MBC의 대대적인 노조 파업으로 인한 [놀러와](https://ko.wikipedia.org/wiki/놀러와 "wikilink")의 결방으로 인해 특집 대체 편성되었다.
 
 ## 각주
 

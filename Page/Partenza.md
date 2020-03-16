@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Partenza](https://ko.wikipedia.org/wiki/Partenza).
 
 
-《**partenza**》()는 [Buono\!](../Page/Buono!.md "wikilink")의 미니 [음반](../Page/음반.md "wikilink")이다. [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 10일](https://ko.wikipedia.org/wiki/8월_10일 "wikilink") 발매되었고 유통사는 [Zetima다](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink").
+《**partenza**》()는 [Buono\!](../Page/Buono!.md "wikilink")의 미니 [음반](../Page/음반.md "wikilink")이다. [2011년](../Page/2011년.md "wikilink") [8월 10일](../Page/8월_10일.md "wikilink") 발매되었고 유통사는 [Zetima다](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink").
 
 ## 수록곡
 
@@ -14,7 +14,7 @@
 3.  **FrankincenseΨ**()
     (작사・작곡・편곡：BOUNCEBACK)
       -
-        [나츠야키 미야비](../Page/나츠야키_미야비.md "wikilink") 솔로곡, [SI☆NA](https://ko.wikipedia.org/wiki/SI☆NA "wikilink")의 커버곡
+        [나츠야키 미야비](../Page/나츠야키_미야비.md "wikilink") 솔로곡, [SI☆NA](../Page/SI☆NA.md "wikilink")의 커버곡
 4.  **My alright sky**
     (작사・작곡：하야시 요시미　편곡：야스오카 요이치로)
       -

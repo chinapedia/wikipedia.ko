@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NBC](https://ko.wikipedia.org/wiki/NBC).
 
 
-**NBC유니버설**(NBCUniversal Media, LLC)은 전 세계 고객을 대상으로 엔터테인먼트, 뉴스, 정보 제품 및 서비스를 만들어 배포하는 [미디어](https://ko.wikipedia.org/wiki/대중_매체 "wikilink") 및 [엔터테인먼트](https://ko.wikipedia.org/wiki/엔터테인먼트 "wikilink") 기업이다.
+**NBC유니버설**(NBCUniversal Media, LLC)은 전 세계 고객을 대상으로 엔터테인먼트, 뉴스, 정보 제품 및 서비스를 만들어 배포하는 [미디어](../Page/대중_매체.md "wikilink") 및 [엔터테인먼트](https://ko.wikipedia.org/wiki/엔터테인먼트 "wikilink") 기업이다.
 
 NBC유니버설은 2004년 5월에 [제너럴 일렉트릭의](../Page/제너럴_일렉트릭.md "wikilink") [NBC](../Page/NBC.md "wikilink")와 [비방디](../Page/비방디.md "wikilink")의 비방디 유니버설 엔터테인먼트와의 합병으로 태어났다.\[1\]\[2\] 현재, NBC유니버설은 [컴캐스트](../Page/컴캐스트.md "wikilink")가 100% 지분을 소유하고 있다.\[3\] [비방디](../Page/비방디.md "wikilink")가 20% 지분을 팔고 [GE이](../Page/제너럴_일렉트릭.md "wikilink") 잔여지분 매각 후 방송사업에서 손을 때면서 컴캐스트가 소유하고 있는중이다.
 
@@ -18,9 +18,9 @@ NBC유니버설은 2004년 5월에 [제너럴 일렉트릭의](../Page/제너럴
       - [유니버설 애니메이션 스튜디오](../Page/유니버설_애니메이션_스튜디오.md "wikilink")
       - [일루미네이션 엔터테인먼트](https://ko.wikipedia.org/wiki/일루미네이션_엔터테인먼트 "wikilink")
       - [드림웍스 픽처스](https://ko.wikipedia.org/wiki/드림웍스_픽처스 "wikilink")
-      - [드림웍스 애니메이션](https://ko.wikipedia.org/wiki/드림웍스_애니메이션 "wikilink")
+      - [드림웍스 애니메이션](../Page/드림웍스_애니메이션.md "wikilink")
   - [NBC유니버설 케이블](https://ko.wikipedia.org/wiki/NBC유니버설_케이블 "wikilink")
-      - [E\!](https://ko.wikipedia.org/wiki/E! "wikilink")
+      - [E\!](../Page/E!.md "wikilink")
       - [Syfy](https://ko.wikipedia.org/wiki/Syfy "wikilink")
       - [USA 네트워크](https://ko.wikipedia.org/wiki/USA_네트워크 "wikilink")
   - [유니버설키즈](https://ko.wikipedia.org/wiki/PBS_키즈_스프라우트 "wikilink")
@@ -31,7 +31,7 @@ NBC유니버설은 2004년 5월에 [제너럴 일렉트릭의](../Page/제너럴
       - [골프 채널](https://ko.wikipedia.org/wiki/골프_채널 "wikilink")
       - [SKY PLC](https://ko.wikipedia.org/wiki/SKY_PLC "wikilink")
   - [NBC유니버설 뉴스 그룹](https://ko.wikipedia.org/wiki/NBC유니버설_뉴스_그룹 "wikilink")
-      - [CNBC](https://ko.wikipedia.org/wiki/CNBC "wikilink")
+      - [CNBC](../Page/CNBC.md "wikilink")
       - [MSNBC](../Page/MSNBC.md "wikilink")
 
 **SKTV 11**
@@ -63,7 +63,7 @@ NBC유니버설은 2004년 5월에 [제너럴 일렉트릭의](../Page/제너럴
 
 ## 같이 보기
 
-  - [유니버설 스튜디오](https://ko.wikipedia.org/wiki/유니버설_스튜디오 "wikilink")
+  - [유니버설 스튜디오](../Page/유니버설_스튜디오.md "wikilink")
 
 ## 외부 링크
 

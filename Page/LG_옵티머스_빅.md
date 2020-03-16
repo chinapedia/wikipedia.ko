@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
 
 
-**LG 옵티머스 빅**()은 [LG전자](https://ko.wikipedia.org/wiki/LG전자 "wikilink")가 2011년 5월 1일에 출시한 [스마트폰](https://ko.wikipedia.org/wiki/스마트폰 "wikilink")이다. 600nit 밝기의 4.3인치 NOVA Dispaly를 탑재 하였다.\[1\]
+**LG 옵티머스 빅**()은 [LG전자](../Page/LG전자.md "wikilink")가 2011년 5월 1일에 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다. 600nit 밝기의 4.3인치 NOVA Dispaly를 탑재 하였다.\[1\]
 
 ## 운영체제 업그레이드
 

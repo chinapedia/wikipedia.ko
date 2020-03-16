@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [DF-2](https://ko.wikipedia.org/wiki/DF-2).
 
 
-**DF-2**는 [중화인민공화국](https://ko.wikipedia.org/wiki/중화인민공화국 "wikilink")이 최초로 개발한 중거리 탄도 미사일이다. 1발의 CHIC-4 핵탄두를 탑재했다.
+**DF-2**는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")이 최초로 개발한 중거리 탄도 미사일이다. 1발의 CHIC-4 핵탄두를 탑재했다.
 
 ## CHIC-4
 
-폭발력 TNT 12 kt의 농축우라늄 핵폭탄이며, 1966년 최초로 실험했다. 1982년 [등소평](https://ko.wikipedia.org/wiki/등소평 "wikilink")이 [파키스탄](https://ko.wikipedia.org/wiki/파키스탄 "wikilink")에 설계도를 제공했으며, 파키스탄은 [이란](https://ko.wikipedia.org/wiki/이란 "wikilink"), [리비아](https://ko.wikipedia.org/wiki/리비아 "wikilink"), [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink")에 이 설계도를 제공했다\[1\]
+폭발력 TNT 12 kt의 농축우라늄 핵폭탄이며, 1966년 최초로 실험했다. 1982년 [등소평](https://ko.wikipedia.org/wiki/등소평 "wikilink")이 [파키스탄](../Page/파키스탄.md "wikilink")에 설계도를 제공했으며, 파키스탄은 [이란](../Page/이란.md "wikilink"), [리비아](../Page/리비아.md "wikilink"), [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")에 이 설계도를 제공했다\[1\]
 
 ## 노동 1호
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
 
 
-**브렌트퍼드 FC**(Brentford F.C.)는 [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드 "wikilink") [런던](https://ko.wikipedia.org/wiki/런던 "wikilink") 브렌트퍼드 지역을 연고로 하는 [축구 클럽이다](https://ko.wikipedia.org/wiki/축구 "wikilink").
+**브렌트퍼드 FC**(Brentford F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [런던](../Page/런던.md "wikilink") 브렌트퍼드 지역을 연고로 하는 [축구 클럽이다](../Page/축구.md "wikilink").
 
 ## 역대 성적
 

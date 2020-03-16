@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [F\(x\)  ](https://ko.wikipedia.org/wiki/F\(x\)__).
 
 
-다음은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 여성 가수 그룹 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 **음반 목록**이다. 데뷔 후, 2009년부터 현재까지 총 5장의 정규 음반(리패키지 음반 포함)을 발매하였다.
+다음은 [대한민국](../Page/대한민국.md "wikilink")의 여성 가수 그룹 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 **음반 목록**이다. 데뷔 후, 2009년부터 현재까지 총 5장의 정규 음반(리패키지 음반 포함)을 발매하였다.
 
 ## 앨범
 
@@ -19,7 +19,7 @@
 <tbody>
 <tr class="odd">
 <td><p>주간<br />
-<ref><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 앨범 차트</a> (주간). <a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 차트</a>. 2014-02-10 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
+<ref><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 앨범 차트</a> (주간). <a href="../Page/가온_차트.md" title="wikilink">가온 차트</a>. 2014-02-10 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
 <ul>
 <li></li>
 <li><p></ref></p></li>
@@ -44,7 +44,7 @@
 <td><ul>
 <li>발매일: 2011년 4월 20일</li>
 <li>레이블: <a href="https://ko.wikipedia.org/wiki/KMP_홀딩스" title="wikilink">KMP 홀딩스</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
@@ -102,7 +102,7 @@
 <tbody>
 <tr class="odd">
 <td><p>주간<br />
-<ref><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 앨범 차트</a> (주간). <a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 차트</a>. 2014-02-10 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
+<ref><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 앨범 차트</a> (주간). <a href="../Page/가온_차트.md" title="wikilink">가온 차트</a>. 2014-02-10 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
 <ul>
 <li><p></ref></p></li>
 </ul></td>
@@ -119,11 +119,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/Hot_Summer_(f(x)의_음반)" title="wikilink">Hot Summer</a>》</p></td>
+<td><p>《<a href="../Page/Hot_Summer_(f(x)의_음반).md" title="wikilink">Hot Summer</a>》</p></td>
 <td><ul>
 <li>발매일: 2011년 6월 14일</li>
 <li>레이블: <a href="https://ko.wikipedia.org/wiki/KMP_홀딩스" title="wikilink">KMP 홀딩스</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>3</p></td>
@@ -151,7 +151,7 @@
 <tbody>
 <tr class="odd">
 <td><p>주간<br />
-<ref><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 앨범 차트</a> (주간). <a href="https://ko.wikipedia.org/wiki/가온_차트" title="wikilink">가온 차트</a>. 2014-02-10 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
+<ref><a href="https://ko.wikipedia.org/wiki/가온_앨범_차트" title="wikilink">가온 앨범 차트</a> (주간). <a href="../Page/가온_차트.md" title="wikilink">가온 차트</a>. 2014-02-10 확인. (각각의 순위에 대해서는 여기를 참고하세요)</p>
 <ul>
 <li></li>
 <li><p></ref></p></li>
@@ -166,17 +166,17 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/NU_ABO" title="wikilink">NU ABO</a>》</p></td>
+<td><p>《<a href="../Page/NU_ABO.md" title="wikilink">NU ABO</a>》</p></td>
 <td><ul>
 <li>발매일: 2010년 5월 4일</li>
 <li>레이블: <a href="https://ko.wikipedia.org/wiki/KMP_홀딩스" title="wikilink">KMP 홀딩스</a></li>
-<li>포맷: <a href="https://ko.wikipedia.org/wiki/콤팩트_디스크" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/Electric_Shock" title="wikilink">Electric Shock</a>》</p></td>
+<td><p>《<a href="../Page/Electric_Shock.md" title="wikilink">Electric Shock</a>》</p></td>
 <td><ul>
 <li>발매일: 2012년 6월 10일</li>
 <li>레이블: KMP 홀딩스</li>
@@ -226,14 +226,14 @@
 <td><p>8</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Chu~♡" title="wikilink">Chu~♡</a></strong></p></td>
+<td><p><strong><a href="../Page/Chu~♡.md" title="wikilink">Chu~♡</a></strong></p></td>
 <td><p>7</p></td>
 <td><p>12</p></td>
 <td><p>90</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/NU_ABO" title="wikilink">NU 예삐오 (NU ABO)</a></strong></p></td>
+<td><p><strong><a href="../Page/NU_ABO.md" title="wikilink">NU 예삐오 (NU ABO)</a></strong></p></td>
 <td><p><strong>1</strong></p></td>
 <td><p>3</p></td>
 </tr>
@@ -244,14 +244,14 @@
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Hot_Summer_(f(x)의_음반)" title="wikilink">Hot Summer</a></strong></p></td>
+<td><p><strong><a href="../Page/Hot_Summer_(f(x)의_음반).md" title="wikilink">Hot Summer</a></strong></p></td>
 <td><p>2</p></td>
 <td><p>4</p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Electric_Shock" title="wikilink">Electric Shock</a></strong></p></td>
+<td><p><strong><a href="../Page/Electric_Shock.md" title="wikilink">Electric Shock</a></strong></p></td>
 <td><p><strong>1</strong></p></td>
 <td><p>3</p></td>
 </tr>

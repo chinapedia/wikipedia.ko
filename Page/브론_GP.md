@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [ GP](https://ko.wikipedia.org/wiki/_GP).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Button_Spain_2009.jpg "wikilink")\]\] **브론 GP 포뮬러 원 팀**(Brawn GP Formula One Team)은 2009년 [로즈 브론에](https://ko.wikipedia.org/wiki/로즈_브론 "wikilink") 의해 창단된 [포뮬러 원](https://ko.wikipedia.org/wiki/포뮬러_원 "wikilink") 팀이다. 2008년까지 포뮬러 원에 참가하던 [혼다 레이싱 F1 팀을](https://ko.wikipedia.org/wiki/혼다_레이싱_F1_팀 "wikilink") 인수하여 창단되었으며, [젠슨 버튼과](https://ko.wikipedia.org/wiki/젠슨_버튼 "wikilink") [루베이스 바리켈루를](https://ko.wikipedia.org/wiki/루베이스_바리켈루 "wikilink") 드라이버로 [2009년 포뮬러 원 시즌에](../Page/2009년_포뮬러_원_시즌.md "wikilink") 참가하였다. 브론 GP는 그 해의 컨스트럭터 챔피언십 우승을 차지하였고, 젠슨 버튼은 드라이버 챔피언십에서 우승을 거두었다. 2009년 11월 브론 GP의 엔진 공급자였던 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")는 [아바르 인베스트먼트](https://ko.wikipedia.org/wiki/아바르_인베스트먼트 "wikilink")(Aabar Investments)와 함께 이 팀을 인수했다고 발표했으며,\[1\] 이에 따라 브론 GP는 [메르세데스 GP로](https://ko.wikipedia.org/wiki/메르세데스_GP "wikilink") 바뀌어 2010년 이후 포뮬러 원에 참가하고 있다.\[2\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Button_Spain_2009.jpg "wikilink")\]\] **브론 GP 포뮬러 원 팀**(Brawn GP Formula One Team)은 2009년 [로즈 브론에](https://ko.wikipedia.org/wiki/로즈_브론 "wikilink") 의해 창단된 [포뮬러 원](../Page/포뮬러_원.md "wikilink") 팀이다. 2008년까지 포뮬러 원에 참가하던 [혼다 레이싱 F1 팀을](https://ko.wikipedia.org/wiki/혼다_레이싱_F1_팀 "wikilink") 인수하여 창단되었으며, [젠슨 버튼과](../Page/젠슨_버튼.md "wikilink") [루베이스 바리켈루를](https://ko.wikipedia.org/wiki/루베이스_바리켈루 "wikilink") 드라이버로 [2009년 포뮬러 원 시즌에](../Page/2009년_포뮬러_원_시즌.md "wikilink") 참가하였다. 브론 GP는 그 해의 컨스트럭터 챔피언십 우승을 차지하였고, 젠슨 버튼은 드라이버 챔피언십에서 우승을 거두었다. 2009년 11월 브론 GP의 엔진 공급자였던 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")는 [아바르 인베스트먼트](https://ko.wikipedia.org/wiki/아바르_인베스트먼트 "wikilink")(Aabar Investments)와 함께 이 팀을 인수했다고 발표했으며,\[1\] 이에 따라 브론 GP는 [메르세데스 GP로](https://ko.wikipedia.org/wiki/메르세데스_GP "wikilink") 바뀌어 2010년 이후 포뮬러 원에 참가하고 있다.\[2\]
 
 ## 역사
 
-브론 GP는 2009년 3월 6일 로즈 브론에 의해 창단이 발표되었다. 로즈 브론은 베네통, 페라리, 혼다 F1 팀의 기술 감독을 맡아왔던 인물로, 2008년 말 스포츠계에서 손을 떼려는 [혼다](https://ko.wikipedia.org/wiki/혼다 "wikilink")로부터 팀을 인수했다.\[3\] 3월 17일 [국제 자동차 연맹은](https://ko.wikipedia.org/wiki/국제_자동차_연맹 "wikilink") 혼다 레이싱 F1 팀의 이름이 브론 GP로 바뀌는 것을 공식 승인하였다.
+브론 GP는 2009년 3월 6일 로즈 브론에 의해 창단이 발표되었다. 로즈 브론은 베네통, 페라리, 혼다 F1 팀의 기술 감독을 맡아왔던 인물로, 2008년 말 스포츠계에서 손을 떼려는 [혼다](https://ko.wikipedia.org/wiki/혼다 "wikilink")로부터 팀을 인수했다.\[3\] 3월 17일 [국제 자동차 연맹은](../Page/국제_자동차_연맹.md "wikilink") 혼다 레이싱 F1 팀의 이름이 브론 GP로 바뀌는 것을 공식 승인하였다.
 
-혼다 엔진의 사용이 중단되자 여러 엔진 공급자가 엔진 공급을 제안해 왔다. 로즈 브론은 이들 중 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 엔진을 선택했고, [젠슨 버튼과](https://ko.wikipedia.org/wiki/젠슨_버튼 "wikilink") [루베이스 바리켈루를](https://ko.wikipedia.org/wiki/루베이스_바리켈루 "wikilink") 팀의 드라이버로 구성했다.
+혼다 엔진의 사용이 중단되자 여러 엔진 공급자가 엔진 공급을 제안해 왔다. 로즈 브론은 이들 중 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 엔진을 선택했고, [젠슨 버튼과](../Page/젠슨_버튼.md "wikilink") [루베이스 바리켈루를](https://ko.wikipedia.org/wiki/루베이스_바리켈루 "wikilink") 팀의 드라이버로 구성했다.
 
 ## 포뮬러 원 성적
 

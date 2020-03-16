@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SiS](https://ko.wikipedia.org/wiki/SiS).
 
 
-**SiS**(Silicon Integrated Systems, 矽統科技)는 1987년에 설립된 [타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink")의 메인보드 칩셋 제조 기업이다.
+**SiS**(Silicon Integrated Systems, 矽統科技)는 1987년에 설립된 [타이완](../Page/타이완.md "wikilink")의 메인보드 칩셋 제조 기업이다.
 
 ## 메인보드 칩셋
 

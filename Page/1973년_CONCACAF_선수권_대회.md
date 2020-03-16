@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1973 CONCACAF  ](https://ko.wikipedia.org/wiki/1973_CONCACAF__).
 
 
-**1973년 CONCACAF 선수권 대회**는 [1973년](https://ko.wikipedia.org/wiki/1973년 "wikilink") [11월 29일부터](../Page/11월_29일.md "wikilink") [12월 18일까지](https://ko.wikipedia.org/wiki/12월_18일 "wikilink") [아이티](https://ko.wikipedia.org/wiki/아이티 "wikilink")에서 열린 6번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink"). 이 대회는 [1974년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하기도 했다. 우승을 차지한 [아이티가](../Page/아이티_축구_국가대표팀.md "wikilink") 1974년 FIFA 월드컵 본선에 진출했다.
+**1973년 CONCACAF 선수권 대회**는 [1973년](../Page/1973년.md "wikilink") [11월 29일부터](../Page/11월_29일.md "wikilink") [12월 18일까지](../Page/12월_18일.md "wikilink") [아이티](../Page/아이티.md "wikilink")에서 열린 6번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink"). 이 대회는 [1974년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하기도 했다. 우승을 차지한 [아이티가](../Page/아이티_축구_국가대표팀.md "wikilink") 1974년 FIFA 월드컵 본선에 진출했다.
 
 ## 예선
 

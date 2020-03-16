@@ -34,7 +34,7 @@
 ### \* カレンデュラ レクイエム
 
   -
-    1\. カレンデュラ レクイエム / 애니메이션「[시귀](https://ko.wikipedia.org/wiki/시귀 "wikilink")2기」오프닝테마
+    1\. カレンデュラ レクイエム / 애니메이션「[시귀](../Page/시귀.md "wikilink")2기」오프닝테마
       -
         작사, 첼로: kanon(♀) 작곡, 기타: kanon(♂) 편곡: kanon(♂) , [와쿠이 켄이치](https://ko.wikipedia.org/wiki/:jp:涌井啓一 "wikilink"), [치바 나오키](https://ko.wikipedia.org/wiki/:jp:千葉直樹 "wikilink")
     2\. ザ ドールハウス\!
@@ -42,7 +42,7 @@
         작사, 첼로: kanon(♀) 작곡, 기타: kanon(♂) 편곡: kanon(♂) , [와쿠이 켄이치](https://ko.wikipedia.org/wiki/:jp:涌井啓一 "wikilink"), [치바 나오키](https://ko.wikipedia.org/wiki/:jp:千葉直樹 "wikilink")
     3\. ウミガメスープ
       -
-        [루이스 캐럴원작의](../Page/루이스_캐럴.md "wikilink") [이상한 나라의 앨리스를](https://ko.wikipedia.org/wiki/이상한_나라의_앨리스 "wikilink") 번역한 [야가와 스미코의](https://ko.wikipedia.org/wiki/:jp:矢川澄子 "wikilink") 책을 인용하여 [타니야마 히로코가](https://ko.wikipedia.org/wiki/:jp:谷山浩子 "wikilink") 만든 곡을
+        [루이스 캐럴원작의](../Page/루이스_캐럴.md "wikilink") [이상한 나라의 앨리스를](../Page/이상한_나라의_앨리스.md "wikilink") 번역한 [야가와 스미코의](https://ko.wikipedia.org/wiki/:jp:矢川澄子 "wikilink") 책을 인용하여 [타니야마 히로코가](https://ko.wikipedia.org/wiki/:jp:谷山浩子 "wikilink") 만든 곡을
         [와쿠이 켄이치](https://ko.wikipedia.org/wiki/:jp:涌井啓一 "wikilink"), [치바 나오키가](https://ko.wikipedia.org/wiki/:jp:千葉直樹 "wikilink") 재편곡
     4\. カレンデュラ レクイエム (Less Vocal)
     4\. カレンデュラ レクイエム - 屍鬼 TV size - (기간한정생산판만)
@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - 2010년 11월 26일 (일본) [시귀](https://ko.wikipedia.org/wiki/시귀 "wikilink") 웹라디오
+  - 2010년 11월 26일 (일본) [시귀](../Page/시귀.md "wikilink") 웹라디오
   - 2011년 6월 4일 (일본) A\&G REQUEST デジスタ 게스트
 
 ## 관련위키

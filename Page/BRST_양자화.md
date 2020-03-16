@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BRST ](https://ko.wikipedia.org/wiki/BRST_).
 
 
-**BRST 양자화**() 또는 **베키-루에-스토라-튜틴 양자화**()는 [게이지 이론을](https://ko.wikipedia.org/wiki/게이지_이론 "wikilink") [양자화하는](../Page/양자화_\(물리학\).md "wikilink") 한 방법이다. 게이지 이론은 비물리적인 대칭 (게이지 대칭)을 지녀 그냥 양자화하기 어렵다. 게이지 대칭을 무시하고 그냥 양자화하면 그 [힐베르트 공간이](https://ko.wikipedia.org/wiki/힐베르트_공간 "wikilink") 양의 정부호의 내적을 얻지 못한다. 따라서 상태공간에 차수(grading)를 붙이고 [코호몰로지](https://ko.wikipedia.org/wiki/코호몰로지 "wikilink")를 만들어 물리적 힐베르트 공간을 얻는다.
+**BRST 양자화**() 또는 **베키-루에-스토라-튜틴 양자화**()는 [게이지 이론을](../Page/게이지_이론.md "wikilink") [양자화하는](../Page/양자화_\(물리학\).md "wikilink") 한 방법이다. 게이지 이론은 비물리적인 대칭 (게이지 대칭)을 지녀 그냥 양자화하기 어렵다. 게이지 대칭을 무시하고 그냥 양자화하면 그 [힐베르트 공간이](../Page/힐베르트_공간.md "wikilink") 양의 정부호의 내적을 얻지 못한다. 따라서 상태공간에 차수(grading)를 붙이고 [코호몰로지](https://ko.wikipedia.org/wiki/코호몰로지 "wikilink")를 만들어 물리적 힐베르트 공간을 얻는다.
 
 ## 역사
 
@@ -13,11 +13,11 @@
 
 \(H_n\)이 유령수 \(n\)을 가진 상태공간의 부분공간이라고 하자. 그러면 \(Q:H_n\to H_{n+1}\)이다. \(Q^2=0\)이므로, 이는 [코호몰로지](https://ko.wikipedia.org/wiki/코호몰로지 "wikilink")를 이룬다. 이를 **BRST 코호몰로지**라고 한다.
 
-실재하는 상태는 \(Q\)의 코호몰로지, 즉 [벡터 공간](https://ko.wikipedia.org/wiki/벡터_공간 "wikilink") \(\ker Q_{n+1}/\operatorname{Im}Q_n\)의 원소다.
+실재하는 상태는 \(Q\)의 코호몰로지, 즉 [벡터 공간](../Page/벡터_공간.md "wikilink") \(\ker Q_{n+1}/\operatorname{Im}Q_n\)의 원소다.
 
 ### 일반적 게이지 이론의 양자화
 
-일련의 장 \(\phi_i\)와 게이지 대칭 \(\delta_\alpha\)를 생각하자. 이들이 [리 대수](https://ko.wikipedia.org/wiki/리_대수 "wikilink")
+일련의 장 \(\phi_i\)와 게이지 대칭 \(\delta_\alpha\)를 생각하자. 이들이 [리 대수](../Page/리_대수.md "wikilink")
 
 \[[\delta_\alpha,\delta_\beta]={f_{\alpha\beta}}^\gamma\delta_\gamma\] 를 만족한다고 하자. 경로적분을 위하여 게이지 고정 조건 \(F^A(\phi_i)=0\)을 가하자. 원래 이론의 (게이지 고정 전) 작용이 \(S_0\)이라고 하면, 이론의 경로적분은 다음과 같다.
 
@@ -37,7 +37,7 @@
 
 ### 양-밀스 이론의 양자화
 
-[리 대수](https://ko.wikipedia.org/wiki/리_대수 "wikilink") \(\mathfrak g\)의 게이지군을 가진 양-밀스 이론을 생각하자. 즉 게이지장은 \(\mathfrak g\)의 값을 지닌 장이다. 게이지 고정 조건 \(G^a=\xi\partial^\mu A^a_\mu\)을 도입하자. 이렇게 하면 게이지장 밖에 [파데예프-포포프 유령장](https://ko.wikipedia.org/wiki/파데예프-포포프_유령 "wikilink") \(b^a\)와 \(c^a\)가 필요하다. 여기에 [보조장](https://ko.wikipedia.org/wiki/보조장 "wikilink") \(B^a\)를 추가하자.
+[리 대수](../Page/리_대수.md "wikilink") \(\mathfrak g\)의 게이지군을 가진 양-밀스 이론을 생각하자. 즉 게이지장은 \(\mathfrak g\)의 값을 지닌 장이다. 게이지 고정 조건 \(G^a=\xi\partial^\mu A^a_\mu\)을 도입하자. 이렇게 하면 게이지장 밖에 [파데예프-포포프 유령장](../Page/파데예프-포포프_유령.md "wikilink") \(b^a\)와 \(c^a\)가 필요하다. 여기에 [보조장](../Page/보조장.md "wikilink") \(B^a\)를 추가하자.
 
 그러면 작용은 다음과 같다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Edge of Glory](https://ko.wikipedia.org/wiki/The_Edge_of_Glory).
 
 
-"**The Edge Of Glory**"는 미국의 가수 [레이디 가가의](https://ko.wikipedia.org/wiki/레이디_가가 "wikilink") 노래로 가가의 두 번째 정규 음반 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")*의 세 번째 싱글로 발매되었다. "The Edge Of Glory"는 2011년 5월 17일 공식적으로 싱글로 발매되었는데, 그 이전에는 프로모션 싱글로써 2011년 5월 9일 미국의 라디오와 [디지털 다운로드로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 발매했다. 이 노래는 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 3위로 데뷔했다.
+"**The Edge Of Glory**"는 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 노래로 가가의 두 번째 정규 음반 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")*의 세 번째 싱글로 발매되었다. "The Edge Of Glory"는 2011년 5월 17일 공식적으로 싱글로 발매되었는데, 그 이전에는 프로모션 싱글로써 2011년 5월 9일 미국의 라디오와 [디지털 다운로드로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 발매했다. 이 노래는 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 3위로 데뷔했다.
 
 ## 발매 일정
 

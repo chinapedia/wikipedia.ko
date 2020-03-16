@@ -5,8 +5,8 @@
 
 ## 리그기간
 
-  - 녹화 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 25일](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [8월 15일](https://ko.wikipedia.org/wiki/8월_15일 "wikilink") (8강부터 생방송)
-  - 방송날짜 : [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [7월 28일](https://ko.wikipedia.org/wiki/7월_28일 "wikilink") \~ [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [9월 12일](https://ko.wikipedia.org/wiki/9월_12일 "wikilink")
+  - 녹화 : [2010년](../Page/2010년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") (8강부터 생방송)
+  - 방송날짜 : [2010년](../Page/2010년.md "wikilink") [7월 28일](../Page/7월_28일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink")
 
 ## 버전
 
