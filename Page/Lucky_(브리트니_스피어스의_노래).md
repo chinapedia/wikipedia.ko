@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lucky \(  \)](https://ko.wikipedia.org/wiki/Lucky_\(__\)).
 
 
-"**Lucky**"는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 노래이자 두 번째 정규 음반인 *[Oops\!... I Did It Again](https://ko.wikipedia.org/wiki/Oops!..._I_Did_It_Again "wikilink")*의 두 번째 싱글이다. [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") 발매되었다.
+"**Lucky**"는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 노래이자 두 번째 정규 음반인 *[Oops\!... I Did It Again](https://ko.wikipedia.org/wiki/Oops!..._I_Did_It_Again "wikilink")*의 두 번째 싱글이다. [2000년](../Page/2000년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") 발매되었다.
 
 ## 트랙 리스트
 

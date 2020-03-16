@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [2014 FIFA     F](https://ko.wikipedia.org/wiki/2014_FIFA_____F).
 
 
-**[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") F조**는 [포르투갈을](https://ko.wikipedia.org/wiki/포르투갈_축구_국가대표팀 "wikilink") 비롯하여 [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), [이스라엘](../Page/이스라엘_축구_국가대표팀.md "wikilink"), [북아일랜드](../Page/북아일랜드_축구_국가대표팀.md "wikilink"), [아제르바이잔](../Page/아제르바이잔_축구_국가대표팀.md "wikilink"), [룩셈부르크로](../Page/룩셈부르크_축구_국가대표팀.md "wikilink") 구성되어 있다.
+**[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") F조**는 [포르투갈을](../Page/포르투갈_축구_국가대표팀.md "wikilink") 비롯하여 [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), [이스라엘](../Page/이스라엘_축구_국가대표팀.md "wikilink"), [북아일랜드](../Page/북아일랜드_축구_국가대표팀.md "wikilink"), [아제르바이잔](../Page/아제르바이잔_축구_국가대표팀.md "wikilink"), [룩셈부르크로](../Page/룩셈부르크_축구_국가대표팀.md "wikilink") 구성되어 있다.
 
-이 조의 1위 팀은 [2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 본선으로 직행하고, 2위 팀은 A \~ E조와 G조 \~ I조의 2위 팀과 승점-골 득실차-다득점 순으로 비교하여 최하위가 되면 탈락하며, 나머지 8팀에 포함되면 두 팀씩 무작위 추첨으로 [플레이오프를](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink") 치르게 된다. [플레이오프에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink") 승리하면 본선에 진출하게 된다.\[1\]
+이 조의 1위 팀은 [2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 본선으로 직행하고, 2위 팀은 A \~ E조와 G조 \~ I조의 2위 팀과 승점-골 득실차-다득점 순으로 비교하여 최하위가 되면 탈락하며, 나머지 8팀에 포함되면 두 팀씩 무작위 추첨으로 [플레이오프를](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink") 치르게 된다. [플레이오프에서](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink") 승리하면 본선에 진출하게 된다.\[1\]
 
 ## 경기 결과
 
@@ -154,7 +154,7 @@
 </tbody>
 </table>
 
-경기 일정은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 25일](https://ko.wikipedia.org/wiki/11월_25일 "wikilink") [룩셈부르크](https://ko.wikipedia.org/wiki/룩셈부르크 "wikilink") [룩셈부르크 시에서](https://ko.wikipedia.org/wiki/룩셈부르크_\(도시\) "wikilink") 결정되었다.\[2\]
+경기 일정은 [2011년](../Page/2011년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") [룩셈부르크](../Page/룩셈부르크.md "wikilink") [룩셈부르크 시에서](../Page/룩셈부르크_\(도시\).md "wikilink") 결정되었다.\[2\]
 
 -----
 
@@ -226,10 +226,10 @@
   - [2014년 FIFA 월드컵 유럽 지역 예선 C조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_C조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 D조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_D조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 E조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_E조.md "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 G조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_G조 "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 H조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_H조 "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 G조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_G조.md "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 H조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_H조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 I조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_I조.md "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 플레이오프](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 플레이오프](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink")
 
 ## 각주
 

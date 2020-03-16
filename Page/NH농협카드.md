@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NH](https://ko.wikipedia.org/wiki/NH).
 
 
-**NH농협카드**는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [NH농협금융지주](https://ko.wikipedia.org/wiki/NH농협금융지주 "wikilink")의 계열사이자 [NH농협은행](https://ko.wikipedia.org/wiki/NH농협은행 "wikilink")의 자회사이므로, [KB국민카드](https://ko.wikipedia.org/wiki/KB국민카드 "wikilink")의 전산 시스템을 기반으로 하는 자사의 채움브랜드와 [비씨카드](../Page/비씨카드.md "wikilink")의 전산 시스템을 기반으로 하는 비씨브랜드로 구성되어 있다.
+**NH농협카드**는 [대한민국](../Page/대한민국.md "wikilink")의 [NH농협금융지주](../Page/NH농협금융지주.md "wikilink")의 계열사이자 [NH농협은행](../Page/NH농협은행.md "wikilink")의 자회사이므로, [KB국민카드](../Page/KB국민카드.md "wikilink")의 전산 시스템을 기반으로 하는 자사의 채움브랜드와 [비씨카드](../Page/비씨카드.md "wikilink")의 전산 시스템을 기반으로 하는 비씨브랜드로 구성되어 있다.
 
 ## 연혁
 
@@ -12,36 +12,36 @@
 ## 특이사항
 
   - 신용카드 상품의 경우, NH농협은행이나 전국적으로 산재되어 있는 지역 농축협 지점 중, 브랜드별로 처음 만든 유형의 지점에서만 각종 제신고를 할 수 있지만, 금융 사기 등 부정 사용 방지 차원에서, 신용카드 발급 심사기준을 엄정하게 규정하고 있다.
-  - 통장 재발급등의 업무도 해당 계좌를 처음 개설한 지점과 동일한 형태의 지점에서만 가능하다. 하지만, NH농협은행에 계좌를 보유한 사람이 지역 농축협의 계좌를 만드는 것과는 별개로, [비씨카드](../Page/비씨카드.md "wikilink")(자사 BC 브랜드) 및 [KB국민카드](https://ko.wikipedia.org/wiki/KB국민카드 "wikilink")(자사 채움 브랜드)에 등록된 가맹점을 기준으로 서비스가 제공된다.
+  - 통장 재발급등의 업무도 해당 계좌를 처음 개설한 지점과 동일한 형태의 지점에서만 가능하다. 하지만, NH농협은행에 계좌를 보유한 사람이 지역 농축협의 계좌를 만드는 것과는 별개로, [비씨카드](../Page/비씨카드.md "wikilink")(자사 BC 브랜드) 및 [KB국민카드](../Page/KB국민카드.md "wikilink")(자사 채움 브랜드)에 등록된 가맹점을 기준으로 서비스가 제공된다.
 
 ## 취급 카드의 유형
 
-[NH농협은행](https://ko.wikipedia.org/wiki/NH농협은행 "wikilink")은 [비씨카드](../Page/비씨카드.md "wikilink")의 회원사이면서 자체 브랜드의 카드를 발급한다. 여신전문금융업법 시행령 3조 1의2항에서 '농협은행'을 겸영여신업자로 규정하고 있으나 카드발급 업무는 농협은행, 농·축협간의 전산망이 별개로 분리되어 있어 두 곳 중에서 한 곳만 발급이 가능하다. 과거에는 축협에서 [비자카드](../Page/비자카드.md "wikilink")를 발행하다가 [2000년](https://ko.wikipedia.org/wiki/2000년 "wikilink") 농협과 통폐합하면서 발급이 중단되었지만, [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [11월 16일](https://ko.wikipedia.org/wiki/11월_16일 "wikilink") 축협의 비자카드가 부활하여 자체 브랜드카드를 발행하다가 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 2일](https://ko.wikipedia.org/wiki/3월_2일 "wikilink") [NH농협은행](https://ko.wikipedia.org/wiki/NH농협은행 "wikilink")의 출범으로 인해 NH농협카드로 상호를 변경하였다.
+[NH농협은행](../Page/NH농협은행.md "wikilink")은 [비씨카드](../Page/비씨카드.md "wikilink")의 회원사이면서 자체 브랜드의 카드를 발급한다. 여신전문금융업법 시행령 3조 1의2항에서 '농협은행'을 겸영여신업자로 규정하고 있으나 카드발급 업무는 농협은행, 농·축협간의 전산망이 별개로 분리되어 있어 두 곳 중에서 한 곳만 발급이 가능하다. 과거에는 축협에서 [비자카드](../Page/비자카드.md "wikilink")를 발행하다가 [2000년](../Page/2000년.md "wikilink") 농협과 통폐합하면서 발급이 중단되었지만, [2009년](../Page/2009년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") 축협의 비자카드가 부활하여 자체 브랜드카드를 발행하다가 [2012년](../Page/2012년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") [NH농협은행](../Page/NH농협은행.md "wikilink")의 출범으로 인해 NH농협카드로 상호를 변경하였다.
 
 ### 특이사항
 
-  - NH농협카드의 자사 브랜드인 채움카드는 원칙적으로, [NH농협은행](https://ko.wikipedia.org/wiki/NH농협은행 "wikilink")이나, 전국 각 지역 농축협 중 처음 신청한 지점과 동일한 유형의 지점에서만 추가 발급이 가능하므로, 현재 자사의 채움 카드를 비롯한, [농협BC와](../Page/비씨카드.md "wikilink") 병행 발행 중이다.
+  - NH농협카드의 자사 브랜드인 채움카드는 원칙적으로, [NH농협은행](../Page/NH농협은행.md "wikilink")이나, 전국 각 지역 농축협 중 처음 신청한 지점과 동일한 유형의 지점에서만 추가 발급이 가능하므로, 현재 자사의 채움 카드를 비롯한, [농협BC와](../Page/비씨카드.md "wikilink") 병행 발행 중이다.
   - NH농협카드의 자사 브랜드인 채움카드와 [농협BC는](../Page/비씨카드.md "wikilink") 인터넷에서의 사용방법이 다르다.
       - NH농협채움카드 - 안심클릭으로 승인\[1\] / NH농협[비씨카드](../Page/비씨카드.md "wikilink") - ISP인증을 통해 승인
   - 농협의 체크카드 중 국제직불카드 기능이 있는 카드는 1인당 1종류의 상품만 발급 가능하다.
       - 농촌사랑 체크카드 3종류와 채움체크카드중에서 선택하여야 한다.
       - 농촌사랑 체크카드를 발급받았다면, 채움체크카드는 국내전용으로만 발급된다. 하지만, 채움체크카드에 국제직불카드 기능을 추가하였을 경우, 농촌사랑 체크카드를 발급받을수 없다.
   - 체크카드를 창구에서 발급받을 때 현금인출 기능을 추가하면 수수료 1,000원이 부과된다(인터넷이나 NH농협카드 고객행복센터로 신청시에, 수수료 면제).
-  - [신한카드](../Page/신한카드.md "wikilink"), [KB국민카드](https://ko.wikipedia.org/wiki/KB국민카드 "wikilink"), [우리카드](https://ko.wikipedia.org/wiki/우리카드 "wikilink"), [하나카드](../Page/하나카드.md "wikilink"), [SC-비씨 비자 체크카드처럼](../Page/한국스탠다드차타드은행.md "wikilink") 체크카드의 해외신판시 해외 브랜드 로열티 및 네트워크 수수료에 해외신판 1건당 고정된 달러 금액을 추가 수수료로 부과한다. 따라서 해외신판 수수료가 비싼 편이다.
+  - [신한카드](../Page/신한카드.md "wikilink"), [KB국민카드](../Page/KB국민카드.md "wikilink"), [우리카드](../Page/우리카드.md "wikilink"), [하나카드](../Page/하나카드.md "wikilink"), [SC-비씨 비자 체크카드처럼](../Page/한국스탠다드차타드은행.md "wikilink") 체크카드의 해외신판시 해외 브랜드 로열티 및 네트워크 수수료에 해외신판 1건당 고정된 달러 금액을 추가 수수료로 부과한다. 따라서 해외신판 수수료가 비싼 편이다.
   - [은련](https://ko.wikipedia.org/wiki/은련 "wikilink")카드중체크와 일부 신용카드는 농협카드의 자사 채움 브랜드가 아닌 [비씨카드](../Page/비씨카드.md "wikilink")로만 나오며 BC글로벌은 Oh\!Point 더블체크카드,더함신용시리즈(할인,포인트,JOY)만나오고 있다..
   - 발급비는 원칙적으로, 현금인출카드와 똑같이 수수료 1000원을 받는다.
 
 ### 브랜드
 
   - NH농협 채움카드(취급중 - NH올바른카드 시리즈 포함)
-      - [KB국민카드](https://ko.wikipedia.org/wiki/KB국민카드 "wikilink")의 전산 시스템을 공유하는 자사 브랜드이므로, NH농협카드 미가맹점의 경우, 전국 KB국민카드 가맹점에서 사용이 가능하다.
-      - 국내전용 / [비자카드](../Page/비자카드.md "wikilink") / [마스터카드](../Page/마스터카드.md "wikilink") / [JCB](https://ko.wikipedia.org/wiki/JCB "wikilink")\[2\] / [은련카드](https://ko.wikipedia.org/wiki/중국은련 "wikilink")
+      - [KB국민카드](../Page/KB국민카드.md "wikilink")의 전산 시스템을 공유하는 자사 브랜드이므로, NH농협카드 미가맹점의 경우, 전국 KB국민카드 가맹점에서 사용이 가능하다.
+      - 국내전용 / [비자카드](../Page/비자카드.md "wikilink") / [마스터카드](../Page/마스터카드.md "wikilink") / [JCB](https://ko.wikipedia.org/wiki/JCB "wikilink")\[2\] / [은련카드](../Page/중국은련.md "wikilink")
 
 <!-- end list -->
 
   - NH농협 [비씨카드](../Page/비씨카드.md "wikilink")(취급중)
       - [비씨카드](../Page/비씨카드.md "wikilink")의 전산 시스템을 공유하는 비씨 브랜드이므로, 전국 비씨카드 가맹점에서 사용이 가능하다.
-      - 국내전용 / [비자카드](../Page/비자카드.md "wikilink") / [마스터카드](../Page/마스터카드.md "wikilink") / [JCB](https://ko.wikipedia.org/wiki/JCB "wikilink") / [은련카드](https://ko.wikipedia.org/wiki/중국은련 "wikilink")
+      - 국내전용 / [비자카드](../Page/비자카드.md "wikilink") / [마스터카드](../Page/마스터카드.md "wikilink") / [JCB](https://ko.wikipedia.org/wiki/JCB "wikilink") / [은련카드](../Page/중국은련.md "wikilink")
 
 ### 후불교통카드
 
@@ -66,4 +66,4 @@
 [분류:대한민국의 카드사](https://ko.wikipedia.org/wiki/분류:대한민국의_카드사 "wikilink") [분류:1984년 설립](https://ko.wikipedia.org/wiki/분류:1984년_설립 "wikilink") [분류:2012년 폐지](https://ko.wikipedia.org/wiki/분류:2012년_폐지 "wikilink") [분류:2012년 설립](https://ko.wikipedia.org/wiki/분류:2012년_설립 "wikilink") [분류:대한민국의 농업](https://ko.wikipedia.org/wiki/분류:대한민국의_농업 "wikilink")
 
 1.  농촌사랑 체크카드는 [비씨카드](../Page/비씨카드.md "wikilink")이므로, ISP 인증을 통해 승인한다.
-2.  일본 [JCB](https://ko.wikipedia.org/wiki/JCB "wikilink")사와 제휴한 NH농협카드의 자사 브랜드인 채움 JCB W의 경우, [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink")에 출시되어, [KB국민카드](https://ko.wikipedia.org/wiki/KB국민카드 "wikilink")의 JCB K-World 카드처럼, 국내 전용 연회비 그대로, 해외에서도 사용이 가능하기 때문에, 해외 결제 수수료가 1% 부과된다.
+2.  일본 [JCB](https://ko.wikipedia.org/wiki/JCB "wikilink")사와 제휴한 NH농협카드의 자사 브랜드인 채움 JCB W의 경우, [2017년](../Page/2017년.md "wikilink")에 출시되어, [KB국민카드](../Page/KB국민카드.md "wikilink")의 JCB K-World 카드처럼, 국내 전용 연회비 그대로, 해외에서도 사용이 가능하기 때문에, 해외 결제 수수료가 1% 부과된다.

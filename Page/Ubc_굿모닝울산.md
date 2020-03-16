@@ -5,8 +5,8 @@
 
 ## 타이틀
 
-  - [1997년](https://ko.wikipedia.org/wiki/1997년 "wikilink") [9월 1일](https://ko.wikipedia.org/wiki/9월_1일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 30일](https://ko.wikipedia.org/wiki/12월_30일 "wikilink") : ubc 아침뉴스
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 2일](https://ko.wikipedia.org/wiki/1월_2일 "wikilink") \~ **현재** : ubc 굿모닝울산
+  - [1997년](../Page/1997년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") : ubc 아침뉴스
+  - [2012년](../Page/2012년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ **현재** : ubc 굿모닝울산
 
 ## 앵커
 
@@ -25,7 +25,7 @@
 
 ## 같이 보기
 
-  - [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장 "wikilink") 울산 ([KBS울산](../Page/KBS울산방송국.md "wikilink"))
+  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") 울산 ([KBS울산](../Page/KBS울산방송국.md "wikilink"))
   - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") 울산(울산MBC 뉴스투데이) ([울산문화방송](../Page/울산문화방송.md "wikilink"))
 
 ## 외부 링크

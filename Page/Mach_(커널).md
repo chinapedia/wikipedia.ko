@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mach \(\)](https://ko.wikipedia.org/wiki/Mach_\(\)).
 
 
-****(\[mʌk\])는 [카네기 멜론 대학교에서](https://ko.wikipedia.org/wiki/카네기_멜론_대학교 "wikilink") 운영 체제 연구를, 주로 분산 및 병렬 연산을 지원하기 위해 개발한 [운영 체제](https://ko.wikipedia.org/wiki/운영_체제 "wikilink") [커널이다](https://ko.wikipedia.org/wiki/커널_\(컴퓨팅\) "wikilink"). Mach가 [마이크로커널](../Page/마이크로커널.md "wikilink")의 초기 예 가운데 하나로 자주 거론되지만 모든 버전의 Mach가 마이크로커널인 것은 아니다. Mach의 파생물들은 (마이크로커널이 아닌\[1\]) [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 현대 운영 체제 커널과 (마이크로커널인) [GNU 허드에](https://ko.wikipedia.org/wiki/GNU_허드 "wikilink") 기초한다.
+****(\[mʌk\])는 [카네기 멜론 대학교에서](https://ko.wikipedia.org/wiki/카네기_멜론_대학교 "wikilink") 운영 체제 연구를, 주로 분산 및 병렬 연산을 지원하기 위해 개발한 [운영 체제](../Page/운영_체제.md "wikilink") [커널이다](../Page/커널_\(컴퓨팅\).md "wikilink"). Mach가 [마이크로커널](../Page/마이크로커널.md "wikilink")의 초기 예 가운데 하나로 자주 거론되지만 모든 버전의 Mach가 마이크로커널인 것은 아니다. Mach의 파생물들은 (마이크로커널이 아닌\[1\]) [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 현대 운영 체제 커널과 (마이크로커널인) [GNU 허드에](../Page/GNU_허드.md "wikilink") 기초한다.
 
 ## 각주
 

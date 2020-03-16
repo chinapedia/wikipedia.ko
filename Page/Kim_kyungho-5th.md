@@ -65,7 +65,7 @@
 
 3\. Blood
 
-:\* 작사 : [김윤아](https://ko.wikipedia.org/wiki/김윤아 "wikilink")
+:\* 작사 : [김윤아](../Page/김윤아.md "wikilink")
 
 :\* 작곡/편곡 : 송재우
 

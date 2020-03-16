@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [Orgullo, Pasin y Gloria: Tres Noches en la Ciudad de Mxico](https://ko.wikipedia.org/wiki/Orgullo,_Pasin_y_Gloria:_Tres_Noches_en_la_Ciudad_de_Mxico).
 
 
-《**Orgullo, Pasión, y Gloria: Tres Noches en la Ciudad de México** / **Orgulho, Paixão e Glória: Três Noites na Cidade do México**》는 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드 [메탈리카](../Page/메탈리카.md "wikilink")의 라이브 음반이자 DVD이다. 2009년 [멕시코시티](https://ko.wikipedia.org/wiki/멕시코시티 "wikilink")에서 열었던 3일간의 공연과 밴드 멤버들의 인터뷰 내용이 포함되어 있다.
+《**Orgullo, Pasión, y Gloria: Tres Noches en la Ciudad de México** / **Orgulho, Paixão e Glória: Três Noites na Cidade do México**》는 [미국](../Page/미국.md "wikilink")의 [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드 [메탈리카](../Page/메탈리카.md "wikilink")의 라이브 음반이자 DVD이다. 2009년 [멕시코시티](../Page/멕시코시티.md "wikilink")에서 열었던 3일간의 공연과 밴드 멤버들의 인터뷰 내용이 포함되어 있다.
 
-타이틀은 [포르투갈어](https://ko.wikipedia.org/wiki/포르투갈어 "wikilink") 표기로, 영어제목은 〈Pride, Passion and Glory: Three Nights in Mexico City〉이다.
+타이틀은 [포르투갈어](../Page/포르투갈어.md "wikilink") 표기로, 영어제목은 〈Pride, Passion and Glory: Three Nights in Mexico City〉이다.
 
 ## 발매
 
 이 세트는 중남미 지역에서만 발매된 것으로, 메탈리카의 공식 홈페이지에서 소량으로 한정판매 하기도 했는데, 다음과 같은 4가지 형태의 패키지로 발매되었다.
 
-  - [DVD](https://ko.wikipedia.org/wiki/DVD "wikilink") (19트랙 1장짜리)
+  - [DVD](../Page/DVD.md "wikilink") (19트랙 1장짜리)
   - [블루레이 디스크](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") DVD
   - DVD/2CD로 구성된 디지팩
   - 2DVD/2CD가 슬립케이스에 담긴 디럭스버전
@@ -116,10 +116,10 @@
 
 ## 멤버
 
-  - [제임스 헷필드](https://ko.wikipedia.org/wiki/제임스_헷필드 "wikilink") - 보컬, 기타
+  - [제임스 헷필드](../Page/제임스_헷필드.md "wikilink") - 보컬, 기타
   - [라스 울리히](https://ko.wikipedia.org/wiki/라스_울리히 "wikilink") - 드럼
   - [커크 해밋](https://ko.wikipedia.org/wiki/커크_해밋 "wikilink") - 기타, 백 보컬
-  - [로버트 트루히요](https://ko.wikipedia.org/wiki/로버트_트루히요 "wikilink") - 베이스, 백 보컬
+  - [로버트 트루히요](../Page/로버트_트루히요.md "wikilink") - 베이스, 백 보컬
 
 ## 외부 링크
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [2014 FIFA     C](https://ko.wikipedia.org/wiki/2014_FIFA_____C).
 
 
-**[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") C조**는 [독일을](https://ko.wikipedia.org/wiki/독일_축구_국가대표팀 "wikilink") 비롯하여 [스웨덴](https://ko.wikipedia.org/wiki/스웨덴_축구_국가대표팀 "wikilink"), [아일랜드](../Page/아일랜드_축구_국가대표팀.md "wikilink"), [오스트리아](../Page/오스트리아_축구_국가대표팀.md "wikilink"), [페로 제도](../Page/페로_제도_축구_국가대표팀.md "wikilink"), [카자흐스탄으로](../Page/카자흐스탄_축구_국가대표팀.md "wikilink") 구성되어 있다.
+**[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") C조**는 [독일을](../Page/독일_축구_국가대표팀.md "wikilink") 비롯하여 [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink"), [아일랜드](../Page/아일랜드_축구_국가대표팀.md "wikilink"), [오스트리아](../Page/오스트리아_축구_국가대표팀.md "wikilink"), [페로 제도](../Page/페로_제도_축구_국가대표팀.md "wikilink"), [카자흐스탄으로](../Page/카자흐스탄_축구_국가대표팀.md "wikilink") 구성되어 있다.
 
-이 조의 1위 팀은 [2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 본선으로 직행하고, 2위 팀은 A \~ B조와 D조 \~ I조의 2위 팀과 승점-골 득실차-다득점 순으로 비교하여 최하위가 되면 탈락하며, 나머지 8팀에 포함되면 두 팀씩 무작위 추첨으로 [플레이오프를](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink") 치르게 된다. [플레이오프에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink") 승리하면 본선에 진출하게 된다.\[1\]
+이 조의 1위 팀은 [2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 본선으로 직행하고, 2위 팀은 A \~ B조와 D조 \~ I조의 2위 팀과 승점-골 득실차-다득점 순으로 비교하여 최하위가 되면 탈락하며, 나머지 8팀에 포함되면 두 팀씩 무작위 추첨으로 [플레이오프를](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink") 치르게 된다. [플레이오프에서](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink") 승리하면 본선에 진출하게 된다.\[1\]
 
 ## 경기 결과
 
@@ -154,7 +154,7 @@
 </tbody>
 </table>
 
-경기 일정은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") [독일](https://ko.wikipedia.org/wiki/독일 "wikilink") [프랑크푸르트](https://ko.wikipedia.org/wiki/프랑크푸르트 "wikilink")에서 결정되었으나\[2\] [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")의 비준을 얻지 못하여 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 5일](https://ko.wikipedia.org/wiki/12월_5일 "wikilink") [오스트리아와](../Page/오스트리아_축구_국가대표팀.md "wikilink") [페로 제도와의](../Page/페로_제도_축구_국가대표팀.md "wikilink") 두 경기일이 새로 발표되었다.\[3\]
+경기 일정은 [2011년](../Page/2011년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") [독일](../Page/독일.md "wikilink") [프랑크푸르트](https://ko.wikipedia.org/wiki/프랑크푸르트 "wikilink")에서 결정되었으나\[2\] [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")의 비준을 얻지 못하여 [2011년](../Page/2011년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") [오스트리아와](../Page/오스트리아_축구_국가대표팀.md "wikilink") [페로 제도와의](../Page/페로_제도_축구_국가대표팀.md "wikilink") 두 경기일이 새로 발표되었다.\[3\]
 
 -----
 
@@ -223,13 +223,13 @@
   - [2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 A조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_A조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 B조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_B조.md "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 D조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_D조 "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 E조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_E조 "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 F조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_F조 "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 G조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_G조 "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 H조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_H조 "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 D조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_D조.md "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 E조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_E조.md "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 F조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_F조.md "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 G조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_G조.md "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 H조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_H조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 I조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_I조.md "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 플레이오프](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 플레이오프](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink")
 
 ## 각주
 

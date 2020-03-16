@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Good Day \( \)](https://ko.wikipedia.org/wiki/Good_Day_\(_\)).
 
 
-〈**Good Day**〉(굿 데이)는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 21일에](https://ko.wikipedia.org/wiki/3월_21일 "wikilink") 발매된 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 첫 번째 일본 싱글이다. [EMI 뮤직 재팬을](https://ko.wikipedia.org/wiki/EMI_뮤직_재팬 "wikilink") 통해, 총 세 가지 버전으로 발매됐다. 타이틀 곡 〈Good Day〉는 〈[좋은 날](https://ko.wikipedia.org/wiki/Real_\(EP\) "wikilink")〉의 일본어 버전이다.
+〈**Good Day**〉(굿 데이)는 [2012년](../Page/2012년.md "wikilink") [3월 21일에](../Page/3월_21일.md "wikilink") 발매된 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 첫 번째 일본 싱글이다. [EMI 뮤직 재팬을](../Page/EMI_뮤직_재팬.md "wikilink") 통해, 총 세 가지 버전으로 발매됐다. 타이틀 곡 〈Good Day〉는 〈[좋은 날](https://ko.wikipedia.org/wiki/Real_\(EP\) "wikilink")〉의 일본어 버전이다.
 
 ## 수록곡
 

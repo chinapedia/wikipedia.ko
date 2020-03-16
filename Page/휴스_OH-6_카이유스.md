@@ -21,7 +21,7 @@
     제안된 버전으로 313.32 kW(400 shp)의 앨리슨 25-C20 터보샤프트 엔진을 탑재하고,5개의 회전날개가 장착되어 있다.
 
   - OH-6J
-    [일본 육상자위대를](https://ko.wikipedia.org/wiki/일본_육상자위대 "wikilink") 위해 제작된 경정찰 헬리콥터이다. [가와사키 중공업에서](https://ko.wikipedia.org/wiki/가와사키_중공업 "wikilink") 라이선스 생산했다. OH-4A 카이유세 모델에 기초한 모델이다.
+    [일본 육상자위대를](https://ko.wikipedia.org/wiki/일본_육상자위대 "wikilink") 위해 제작된 경정찰 헬리콥터이다. [가와사키 중공업에서](../Page/가와사키_중공업.md "wikilink") 라이선스 생산했다. OH-4A 카이유세 모델에 기초한 모델이다.
 
   - OH-6D
     [일본 육상자위대를](https://ko.wikipedia.org/wiki/일본_육상자위대 "wikilink") 위해 제작된 경정찰 헬리콥터이다. 일본의 가와사키 중공업이 라이센스 생산했다. 휴스의 500D 모델에 기초했다.
@@ -46,37 +46,37 @@
 
 OH-6 카이유스를 운용한 국가, 운용 국가는 다음과 같다.
 
-  - [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나 "wikilink")
-  - [브라질](https://ko.wikipedia.org/wiki/브라질 "wikilink")
-  - [바레인](https://ko.wikipedia.org/wiki/바레인 "wikilink")
-  - [볼리비아](https://ko.wikipedia.org/wiki/볼리비아 "wikilink")
-  - [칠레](https://ko.wikipedia.org/wiki/칠레 "wikilink")
-  - [콜롬비아](https://ko.wikipedia.org/wiki/콜롬비아 "wikilink")
-  - [코스타리카](https://ko.wikipedia.org/wiki/코스타리카 "wikilink")
-  - [덴마크](https://ko.wikipedia.org/wiki/덴마크 "wikilink")
-  - [도미니카 공화국](https://ko.wikipedia.org/wiki/도미니카_공화국 "wikilink")
-  - [에콰도르](https://ko.wikipedia.org/wiki/에콰도르 "wikilink")
-  - [엘살바도르](https://ko.wikipedia.org/wiki/엘살바도르 "wikilink")
-  - [핀란드](https://ko.wikipedia.org/wiki/핀란드 "wikilink")
-  - [아이티](https://ko.wikipedia.org/wiki/아이티 "wikilink")
-  - [온두라스](https://ko.wikipedia.org/wiki/온두라스 "wikilink")
-  - [인도네시아](https://ko.wikipedia.org/wiki/인도네시아 "wikilink")
-  - [이라크](https://ko.wikipedia.org/wiki/이라크 "wikilink")
-  - [이스라엘](https://ko.wikipedia.org/wiki/이스라엘 "wikilink")
-  - [이탈리아](https://ko.wikipedia.org/wiki/이탈리아 "wikilink")
-  - [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [자위대](https://ko.wikipedia.org/wiki/자위대 "wikilink")
-  - [요르단](https://ko.wikipedia.org/wiki/요르단 "wikilink")
-  - [케냐](https://ko.wikipedia.org/wiki/케냐 "wikilink")
-  - [모리타니](https://ko.wikipedia.org/wiki/모리타니 "wikilink")
-  - [멕시코](https://ko.wikipedia.org/wiki/멕시코 "wikilink")
-  - [모로코](https://ko.wikipedia.org/wiki/모로코 "wikilink")
-  - [니카라과](https://ko.wikipedia.org/wiki/니카라과 "wikilink")
-  - [조선민주주의인민공화국](https://ko.wikipedia.org/wiki/조선민주주의인민공화국 "wikilink") [조선인민군](https://ko.wikipedia.org/wiki/조선인민군 "wikilink")
+  - [아르헨티나](../Page/아르헨티나.md "wikilink")
+  - [브라질](../Page/브라질.md "wikilink")
+  - [바레인](../Page/바레인.md "wikilink")
+  - [볼리비아](../Page/볼리비아.md "wikilink")
+  - [칠레](../Page/칠레.md "wikilink")
+  - [콜롬비아](../Page/콜롬비아.md "wikilink")
+  - [코스타리카](../Page/코스타리카.md "wikilink")
+  - [덴마크](../Page/덴마크.md "wikilink")
+  - [도미니카 공화국](../Page/도미니카_공화국.md "wikilink")
+  - [에콰도르](../Page/에콰도르.md "wikilink")
+  - [엘살바도르](../Page/엘살바도르.md "wikilink")
+  - [핀란드](../Page/핀란드.md "wikilink")
+  - [아이티](../Page/아이티.md "wikilink")
+  - [온두라스](../Page/온두라스.md "wikilink")
+  - [인도네시아](../Page/인도네시아.md "wikilink")
+  - [이라크](../Page/이라크.md "wikilink")
+  - [이스라엘](../Page/이스라엘.md "wikilink")
+  - [이탈리아](../Page/이탈리아.md "wikilink")
+  - [일본](../Page/일본.md "wikilink") [자위대](../Page/자위대.md "wikilink")
+  - [요르단](../Page/요르단.md "wikilink")
+  - [케냐](../Page/케냐.md "wikilink")
+  - [모리타니](../Page/모리타니.md "wikilink")
+  - [멕시코](../Page/멕시코.md "wikilink")
+  - [모로코](../Page/모로코.md "wikilink")
+  - [니카라과](../Page/니카라과.md "wikilink")
+  - [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink") [조선인민군](../Page/조선인민군.md "wikilink")
   - [필리핀](../Page/필리핀.md "wikilink")
-  - [중화민국](https://ko.wikipedia.org/wiki/중화민국 "wikilink")([타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink"))
-  - [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")
-  - [스페인](https://ko.wikipedia.org/wiki/스페인 "wikilink")
-  - [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")
+  - [중화민국](../Page/중화민국.md "wikilink")([타이완](../Page/타이완.md "wikilink"))
+  - [대한민국](../Page/대한민국.md "wikilink")
+  - [스페인](../Page/스페인.md "wikilink")
+  - [미국](../Page/미국.md "wikilink")
 
 ## 제원
 
@@ -88,7 +88,7 @@ OH-6 카이유스를 운용한 국가, 운용 국가는 다음과 같다.
   - 순 기체 중량: 896 kg
   - 최대이륙중량: 1,610 kg
   - 엔진: 엘리슨 롤스로이스 250 모델(T63-A-5A) 1 또는 T63-A-700 1
-  - 프로펠러 종류: [터보샤프트](https://ko.wikipedia.org/wiki/터보샤프트 "wikilink")
+  - 프로펠러 종류: [터보샤프트](../Page/터보샤프트.md "wikilink")
   - 프로펠러 개수: 1
   - 출력: 236 kW
 
@@ -109,7 +109,7 @@ OH-6 카이유스를 운용한 국가, 운용 국가는 다음과 같다.
 
 <!-- end list -->
 
-  - 총: [M60](https://ko.wikipedia.org/wiki/M60_중기관총 "wikilink") 2정 또는 [M134 미니건](https://ko.wikipedia.org/wiki/미니건 "wikilink") 7.62 mm [기관총](https://ko.wikipedia.org/wiki/기관총 "wikilink"); 2정, 50구경(12.7 mm)
+  - 총: [M60](https://ko.wikipedia.org/wiki/M60_중기관총 "wikilink") 2정 또는 [M134 미니건](https://ko.wikipedia.org/wiki/미니건 "wikilink") 7.62 mm [기관총](../Page/기관총.md "wikilink"); 2정, 50구경(12.7 mm)
   - 미사일: 4 [TOW](https://ko.wikipedia.org/wiki/BGM-71_TOW "wikilink") 미사일 ; 4 [헬파이어](../Page/AGM-114_헬파이어.md "wikilink") 미사일
   - 로켓: 14 70밀리미터 [히드라 70](https://ko.wikipedia.org/wiki/히드라_70 "wikilink") 로켓
   - 기타: 2대의 40 mm [척탄통](https://ko.wikipedia.org/wiki/척탄통 "wikilink")
@@ -122,7 +122,7 @@ OH-6 카이유스를 운용한 국가, 운용 국가는 다음과 같다.
 
   - [MH-6 리틀버드](https://ko.wikipedia.org/wiki/MH-6_리틀버드 "wikilink")
   - [MD 헬리콥터 MD 500](https://ko.wikipedia.org/wiki/MD_헬리콥터_MD_500 "wikilink")
-  - [MD 500 디펜더](https://ko.wikipedia.org/wiki/MD_500_디펜더 "wikilink")
+  - [MD 500 디펜더](../Page/MD_500_디펜더.md "wikilink")
   - [보잉 AH-6](../Page/보잉_AH-6.md "wikilink")
 
 <!-- end list -->

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEXT ENCORE](https://ko.wikipedia.org/wiki/NEXT_ENCORE).
 
 
-《**NEXT ENCORE**》는 [SDN48](https://ko.wikipedia.org/wiki/SDN48 "wikilink")의 베스트 [음반](../Page/음반.md "wikilink")이다. 2012년 3월 14일, [유니버설 뮤직을](../Page/유니버설_뮤직_그룹.md "wikilink") 통해 발매되었다.
+《**NEXT ENCORE**》는 [SDN48](../Page/SDN48.md "wikilink")의 베스트 [음반](../Page/음반.md "wikilink")이다. 2012년 3월 14일, [유니버설 뮤직을](../Page/유니버설_뮤직_그룹.md "wikilink") 통해 발매되었다.
 
 ## 개요
 
@@ -12,7 +12,7 @@
 ### 통상반
 
 1.  **[GAGAGA](../Page/GAGAGA.md "wikilink")**
-    (작사：[아키모토 야스시](https://ko.wikipedia.org/wiki/아키모토_야스시 "wikilink"), 작곡：HARANHN, 편곡：사사키 유타카)
+    (작사：[아키모토 야스시](../Page/아키모토_야스시.md "wikilink"), 작곡：HARANHN, 편곡：사사키 유타카)
 2.  **고독한 러너**(孤独なランナー)
     (작사：아키모토 야스시, 작곡：미야지마 리츠코, 편곡：노나카“야”유이치)
 3.  **에로스의 트리거**(エロスのトリガー)
@@ -26,7 +26,7 @@
 7.  **아와지 섬의 양파**(淡路島のタマネギ)
     (노래：언더걸즈 B, 작사：아키모토 야스시, 작곡：YUMA, 편곡：하라다 나오)
 8.  **사랑이야 움직이지 마**(愛よ 動かないで)
-    (노래：레이첼, 작사：아키모토 야스시, 작곡·편곡：[이현도](https://ko.wikipedia.org/wiki/이현도 "wikilink"))
+    (노래：레이첼, 작사：아키모토 야스시, 작곡·편곡：[이현도](../Page/이현도.md "wikilink"))
 9.  **[MIN・MIN・MIN](https://ko.wikipedia.org/wiki/MIN・MIN・MIN "wikilink")**
     (작사：아키모토 야스시, 작곡：KOUTAPAI, 편곡：사사키 유타카)
 10. **조르는 샴페인**(おねだりシャンパン)
@@ -84,7 +84,7 @@
 
 ### 1캘런의 땀
 
-  - 1기생 : [아키타 카즈에](https://ko.wikipedia.org/wiki/아키타_카즈에 "wikilink"), [우메다 하루카](../Page/우메다_하루카.md "wikilink"), [우라노 카즈미](https://ko.wikipedia.org/wiki/우라노_카즈미 "wikilink"), [오오호리 메구미](https://ko.wikipedia.org/wiki/오오호리_메구미 "wikilink"), [카토 마미](https://ko.wikipedia.org/wiki/카토_마미 "wikilink"), [코치 마사미](https://ko.wikipedia.org/wiki/코치_마사미 "wikilink"), [코하라 하루카](https://ko.wikipedia.org/wiki/코하라_하루카 "wikilink"), [사토 유카리](https://ko.wikipedia.org/wiki/사토_유카리 "wikilink"), [세리나](https://ko.wikipedia.org/wiki/세리나_\(1985년\) "wikilink"), [노로 카요](https://ko.wikipedia.org/wiki/노로_카요 "wikilink")
+  - 1기생 : [아키타 카즈에](https://ko.wikipedia.org/wiki/아키타_카즈에 "wikilink"), [우메다 하루카](../Page/우메다_하루카.md "wikilink"), [우라노 카즈미](https://ko.wikipedia.org/wiki/우라노_카즈미 "wikilink"), [오오호리 메구미](https://ko.wikipedia.org/wiki/오오호리_메구미 "wikilink"), [카토 마미](https://ko.wikipedia.org/wiki/카토_마미 "wikilink"), [코치 마사미](https://ko.wikipedia.org/wiki/코치_마사미 "wikilink"), [코하라 하루카](https://ko.wikipedia.org/wiki/코하라_하루카 "wikilink"), [사토 유카리](https://ko.wikipedia.org/wiki/사토_유카리 "wikilink"), [세리나](https://ko.wikipedia.org/wiki/세리나_\(1985년\) "wikilink"), [노로 카요](../Page/노로_카요.md "wikilink")
   - 2기생 : [키모토 유키](https://ko.wikipedia.org/wiki/키모토_유키 "wikilink"), [후지코소 유미](https://ko.wikipedia.org/wiki/후지코소_유미 "wikilink")
 
 ## 외부 링크

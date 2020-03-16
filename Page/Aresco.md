@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Aresco](https://ko.wikipedia.org/wiki/Aresco).
 
 
-***Aresco***는 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [허클베리 핀의](https://ko.wikipedia.org/wiki/허클베리_핀_\(밴드\) "wikilink") 리더인 [이기용이](https://ko.wikipedia.org/wiki/이기용_\(음악가\) "wikilink") [2005년](https://ko.wikipedia.org/wiki/2005년 "wikilink") 자신의 솔로 프로젝트 [스왈로우](https://ko.wikipedia.org/wiki/스왈로우 "wikilink")(Swallow)로 낸 2번째 정규 [음반](../Page/음반.md "wikilink")이다.
+***Aresco***는 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [허클베리 핀의](../Page/허클베리_핀_\(밴드\).md "wikilink") 리더인 [이기용이](https://ko.wikipedia.org/wiki/이기용_\(음악가\) "wikilink") [2005년](../Page/2005년.md "wikilink") 자신의 솔로 프로젝트 [스왈로우](https://ko.wikipedia.org/wiki/스왈로우 "wikilink")(Swallow)로 낸 2번째 정규 [음반](../Page/음반.md "wikilink")이다.
 
 ## 수록곡
 
@@ -14,7 +14,7 @@
 7.  몇 세기 전의 사람을 만나고 (3:48)
 8.  밤은 낮으로 (3:06)
 9.  너는 웃지 않고 난 웃었어 (3:16)
-10. 어디에도 없는 곳(feat.[한대수](https://ko.wikipedia.org/wiki/한대수_\(가수\) "wikilink")) (3:32)
+10. 어디에도 없는 곳(feat.[한대수](../Page/한대수_\(가수\).md "wikilink")) (3:32)
 
 ## 외부 링크
 

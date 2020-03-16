@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BEAUTIFUL SHOW](https://ko.wikipedia.org/wiki/BEAUTIFUL_SHOW).
 
 
-**BEAUTIFUL SHOW**(뷰티풀쇼)는 대한민국의 음악 그룹 [비스트의](https://ko.wikipedia.org/wiki/비스트_\(음악_그룹\) "wikilink") 첫 월드 투어 콘서트이다. 비스트는 유럽, 북미, 아시아를 방문하는 14개국 35회 투어를 진행 할 예정으로, 이번 투어를 위해 200억의 예산이 투입되었다.\[1\]
+**BEAUTIFUL SHOW**(뷰티풀쇼)는 대한민국의 음악 그룹 [비스트의](../Page/비스트_\(음악_그룹\).md "wikilink") 첫 월드 투어 콘서트이다. 비스트는 유럽, 북미, 아시아를 방문하는 14개국 35회 투어를 진행 할 예정으로, 이번 투어를 위해 200억의 예산이 투입되었다.\[1\]
 
 ## 배경
 
@@ -9,7 +9,7 @@
 
 ## 상업적 성과
 
-비스트는 2012년 2월 12일 [베를린](../Page/베를린.md "wikilink") 공연에서 3,000명의 관객을 모았다.\[7\] 3월 3일 [싱가포르](../Page/싱가포르.md "wikilink") 공연에서는 5,500명의 관객을 동원했고 9종, 1만여 개의 관련상품 대부분이 판매 30분 만에 매진됐다.\[8\] 비스트는 현재까지 5번의 공연을 통해 36,000만 명의 관객을 동원했다.\[9\] 3월 17일 인도네시아 [자카르타](https://ko.wikipedia.org/wiki/자카르타 "wikilink")에서 열린 공연에서는 4,000명의 관객을 운집했다.
+비스트는 2012년 2월 12일 [베를린](../Page/베를린.md "wikilink") 공연에서 3,000명의 관객을 모았다.\[7\] 3월 3일 [싱가포르](../Page/싱가포르.md "wikilink") 공연에서는 5,500명의 관객을 동원했고 9종, 1만여 개의 관련상품 대부분이 판매 30분 만에 매진됐다.\[8\] 비스트는 현재까지 5번의 공연을 통해 36,000만 명의 관객을 동원했다.\[9\] 3월 17일 인도네시아 [자카르타](../Page/자카르타.md "wikilink")에서 열린 공연에서는 4,000명의 관객을 운집했다.
 
 ## 세트 리스트
 
@@ -41,21 +41,21 @@
 
 ## 투어 일정
 
-| 일정                 | 도시                                                      | 국가                                                  | 장소                                                            |
-| ------------------ | ------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- |
-| 2012년 2월 4일\[10\]  | [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")   | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")   | [올림픽체조경기장](../Page/올림픽체조경기장.md "wikilink")                    |
-| 2012년 2월 5일\[11\]  |                                                         |                                                     |                                                               |
-| 2012년 2월 12일\[12\] | [독일](https://ko.wikipedia.org/wiki/독일 "wikilink")       | [베를린](../Page/베를린.md "wikilink")                    | [콜롬비아 할레](https://ko.wikipedia.org/wiki/콜롬비아_할레 "wikilink")   |
-| 2012년 2월 25일\[13\] | [중국](https://ko.wikipedia.org/wiki/중국 "wikilink")       | [상해](https://ko.wikipedia.org/wiki/상해 "wikilink")   | 창닝 체조센터                                                       |
-| 2012년 3월 3일\[14\]  | [싱가포르](../Page/싱가포르.md "wikilink")                      | [싱가포르](../Page/싱가포르.md "wikilink")                  | 엑스포 맥스 파빌리온                                                   |
-| 2012년 3월 21일       | [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")\[15\] | [횡빈](https://ko.wikipedia.org/wiki/횡빈 "wikilink")   | [요코하마 아레나](https://ko.wikipedia.org/wiki/요코하마_아레나 "wikilink") |
-| 2012년 3월 22일       |                                                         |                                                     |                                                               |
-| 2012년 3월 24일       | [신호](https://ko.wikipedia.org/wiki/고베 "wikilink")       | 고베 월드 홀                                             |                                                               |
-| 2012년 3월 25일       |                                                         |                                                     |                                                               |
-| 2012년 3월 26일       | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | 나고야 게이시 홀                                           |                                                               |
-| 2012년 3월 27일       |                                                         |                                                     |                                                               |
-| 2012년 3월 31일       | [타이완](https://ko.wikipedia.org/wiki/타이완 "wikilink")     | [대북](https://ko.wikipedia.org/wiki/타이베이 "wikilink") | [국립 타이완 대학](../Page/국립_타이완_대학.md "wikilink")                  |
-|                    |                                                         |                                                     |                                                               |
+| 일정                 | 도시                                                      | 국가                                                  | 장소                                                          |
+| ------------------ | ------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- |
+| 2012년 2월 4일\[10\]  | [대한민국](../Page/대한민국.md "wikilink")                      | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")   | [올림픽체조경기장](../Page/올림픽체조경기장.md "wikilink")                  |
+| 2012년 2월 5일\[11\]  |                                                         |                                                     |                                                             |
+| 2012년 2월 12일\[12\] | [독일](../Page/독일.md "wikilink")                          | [베를린](../Page/베를린.md "wikilink")                    | [콜롬비아 할레](https://ko.wikipedia.org/wiki/콜롬비아_할레 "wikilink") |
+| 2012년 2월 25일\[13\] | [중국](../Page/중국.md "wikilink")                          | [상해](https://ko.wikipedia.org/wiki/상해 "wikilink")   | 창닝 체조센터                                                     |
+| 2012년 3월 3일\[14\]  | [싱가포르](../Page/싱가포르.md "wikilink")                      | [싱가포르](../Page/싱가포르.md "wikilink")                  | 엑스포 맥스 파빌리온                                                 |
+| 2012년 3월 21일       | [일본](../Page/일본.md "wikilink")\[15\]                    | [횡빈](https://ko.wikipedia.org/wiki/횡빈 "wikilink")   | [요코하마 아레나](../Page/요코하마_아레나.md "wikilink")                  |
+| 2012년 3월 22일       |                                                         |                                                     |                                                             |
+| 2012년 3월 24일       | [신호](https://ko.wikipedia.org/wiki/고베 "wikilink")       | 고베 월드 홀                                             |                                                             |
+| 2012년 3월 25일       |                                                         |                                                     |                                                             |
+| 2012년 3월 26일       | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | 나고야 게이시 홀                                           |                                                             |
+| 2012년 3월 27일       |                                                         |                                                     |                                                             |
+| 2012년 3월 31일       | [타이완](../Page/타이완.md "wikilink")                        | [대북](https://ko.wikipedia.org/wiki/타이베이 "wikilink") | [국립 타이완 대학](../Page/국립_타이완_대학.md "wikilink")                |
+|                    |                                                         |                                                     |                                                             |
 
 ## 각주
 

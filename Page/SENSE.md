@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SENSE](https://ko.wikipedia.org/wiki/SENSE).
 
 
-《**SENSE**》는 [2010년](https://ko.wikipedia.org/wiki/2010년 "wikilink") [12월 1일에](https://ko.wikipedia.org/wiki/12월_1일 "wikilink") 발매된 [Mr.Children](https://ko.wikipedia.org/wiki/Mr.Children "wikilink")의 열네 번째 정규 음반이다. 음반 제목이나 음반 커버, 수록곡, 수록곡수가 음반 발매 직전인 2010년 [11월 29일에](../Page/11월_29일.md "wikilink") 발표됐으며\[1\], 그 전까진 발매일만 발표됐었다.
+《**SENSE**》는 [2010년](../Page/2010년.md "wikilink") [12월 1일에](../Page/12월_1일.md "wikilink") 발매된 [Mr.Children](../Page/Mr.Children.md "wikilink")의 열네 번째 정규 음반이다. 음반 제목이나 음반 커버, 수록곡, 수록곡수가 음반 발매 직전인 2010년 [11월 29일에](../Page/11월_29일.md "wikilink") 발표됐으며\[1\], 그 전까진 발매일만 발표됐었다.
 
-수록곡은 [CD](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") [싱글은](../Page/싱글_\(음악\).md "wikilink") 수록되어 있지 않으며, [디지털 싱글로만](https://ko.wikipedia.org/wiki/디지털_싱글 "wikilink") 발매된 〈fanfare〉를 포함해 모두 CD에 처음 수록된 곡들이다. [오리콘](../Page/오리콘.md "wikilink") 음반 차트에서는 2주 연속 1위를 기록했다\[2\].
+수록곡은 [CD](../Page/콤팩트_디스크.md "wikilink") [싱글은](../Page/싱글_\(음악\).md "wikilink") 수록되어 있지 않으며, [디지털 싱글로만](https://ko.wikipedia.org/wiki/디지털_싱글 "wikilink") 발매된 〈fanfare〉를 포함해 모두 CD에 처음 수록된 곡들이다. [오리콘](../Page/오리콘.md "wikilink") 음반 차트에서는 2주 연속 1위를 기록했다\[2\].
 
 ## 수록곡
 
@@ -38,7 +38,7 @@
 <td><p>501,992</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a> 재팬 탑 음반[4]</p></td>
+<td><p><a href="../Page/빌보드.md" title="wikilink">빌보드</a> 재팬 탑 음반[4]</p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
@@ -53,7 +53,7 @@
 <td><p>185,382</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/빌보드" title="wikilink">빌보드</a> 재팬 연간 음반 (2011년)[7]</p></td>
+<td><p><a href="../Page/빌보드.md" title="wikilink">빌보드</a> 재팬 연간 음반 (2011년)[7]</p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>

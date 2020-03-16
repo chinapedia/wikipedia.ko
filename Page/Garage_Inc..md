@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Garage Inc.](https://ko.wikipedia.org/wiki/Garage_Inc.).
 
 
-《**Garage Inc.**》은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink")의 [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드 [메탈리카](../Page/메탈리카.md "wikilink")의 리메이크 음반이다.
+《**Garage Inc.**》은 [미국](../Page/미국.md "wikilink")의 [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드 [메탈리카](../Page/메탈리카.md "wikilink")의 리메이크 음반이다.
 
-타이틀은 메탈리카의 EP 《[The $5.98 E.P.: Garage Days Re-Revisited](../Page/The_$5.98_E.P.:_Garage_Days_Re-Revisited.md "wikilink")》에서의 ‘Garage’와 《[Master of Puppets](https://ko.wikipedia.org/wiki/Master_of_Puppets "wikilink")》앨범 수록곡 제목인 〈Damage, Inc.〉의 합성어로, 이 음반을 위해 1998년에 새롭게 녹음한 커버곡들과 메탈리카의 [싱글](../Page/싱글_\(음악\).md "wikilink") B-side와, 《Garage Days Re-Revisited》의 전곡이 모두 수록되었다.
+타이틀은 메탈리카의 EP 《[The $5.98 E.P.: Garage Days Re-Revisited](../Page/The_$5.98_E.P.:_Garage_Days_Re-Revisited.md "wikilink")》에서의 ‘Garage’와 《[Master of Puppets](../Page/Master_of_Puppets.md "wikilink")》앨범 수록곡 제목인 〈Damage, Inc.〉의 합성어로, 이 음반을 위해 1998년에 새롭게 녹음한 커버곡들과 메탈리카의 [싱글](../Page/싱글_\(음악\).md "wikilink") B-side와, 《Garage Days Re-Revisited》의 전곡이 모두 수록되었다.
 
 ## 수록곡
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - <small>〈Sabbra Cadabra〉는 [블랙 사바스의](https://ko.wikipedia.org/wiki/블랙_사바스 "wikilink") 곡 〈A National Acrobat〉의 일부분을 포함하고 있다.</small>
+  - <small>〈Sabbra Cadabra〉는 [블랙 사바스의](../Page/블랙_사바스.md "wikilink") 곡 〈A National Acrobat〉의 일부분을 포함하고 있다.</small>
   - <small>〈Mercyful Fate〉는 원래 밴드 명으로, 이 곡은 Mercyful Fate의 〈Satan's Fall〉, 〈Curse of the Pharaohs〉, 〈A Corpse Without Soul〉, 〈Into the Coven〉, 〈Evil〉을 메들리로 엮은 것이다.</small>
   - <small>〈The More I See〉는 Robin Trower의 곡 〈Bridge of Sighs〉의 일부분을 포함하고 있다.</small>
   - <small>〈Tuesday's Gone〉은 1997년 12월 18일, [KSJO의](https://ko.wikipedia.org/wiki/:en:KSJO "wikilink") 라디오 방송 "Don't Call Us, We'll Call You"에서 녹음되었다.</small>
@@ -45,10 +45,10 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/제임스_헷필드" title="wikilink">제임스 헷필드</a> - 보컬, 기타</li>
+<li><a href="../Page/제임스_헷필드.md" title="wikilink">제임스 헷필드</a> - 보컬, 기타</li>
 <li><a href="https://ko.wikipedia.org/wiki/라스_울리히" title="wikilink">라스 울리히</a> - 드럼</li>
 <li><a href="https://ko.wikipedia.org/wiki/커크_해밋" title="wikilink">커크 해밋</a> - 기타</li>
-<li><a href="https://ko.wikipedia.org/wiki/제이슨_뉴스테드" title="wikilink">제이슨 뉴스테드</a> - 베이스, 백 보컬</li>
+<li><a href="../Page/제이슨_뉴스테드.md" title="wikilink">제이슨 뉴스테드</a> - 베이스, 백 보컬</li>
 <li><a href="https://ko.wikipedia.org/wiki/클리프_버튼" title="wikilink">클리프 버튼</a> - 베이스 (‘Am I Evil?’, ‘Blitzkrieg’)</li>
 </ul>
 <dl>
@@ -60,9 +60,9 @@
 <li>Jerry Cantrell(<a href="../Page/앨리스_인_체인스.md" title="wikilink">앨리스 인 체인스</a>) - 기타</li>
 <li>Sean Kinney(앨리스 인 체인스) - 타악기</li>
 <li>Jim Martin(Faith No More) - 기타</li>
-<li>John Popper (Blues Traveler) - <a href="https://ko.wikipedia.org/wiki/하모니카" title="wikilink">하모니카</a></li>
-<li>Gary Rossington (<a href="https://ko.wikipedia.org/wiki/레너드_스키너드" title="wikilink">레너드 스키너드</a>) - <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a></li>
-<li>Les Claypool (Primus) - <a href="https://ko.wikipedia.org/wiki/밴조" title="wikilink">밴조</a></li>
+<li>John Popper (Blues Traveler) - <a href="../Page/하모니카.md" title="wikilink">하모니카</a></li>
+<li>Gary Rossington (<a href="../Page/레너드_스키너드.md" title="wikilink">레너드 스키너드</a>) - <a href="../Page/기타.md" title="wikilink">기타</a></li>
+<li>Les Claypool (Primus) - <a href="../Page/밴조.md" title="wikilink">밴조</a></li>
 </ul>
 <dl>
 <dt>스탭</dt>

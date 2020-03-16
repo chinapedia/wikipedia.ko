@@ -5,7 +5,7 @@
 
 ## 역사
 
-AUTOSAR 개발 파트너쉽은 2003년 7월에 열린 산업 표준 자동차 E/E architecture 구조를 만들고 발전시키기 위해 [BMW](../Page/BMW.md "wikilink"), [보쉬](../Page/로베르트_보쉬.md "wikilink"), [콘티넨탈](https://ko.wikipedia.org/wiki/콘티넨탈_AG "wikilink"), [다임러](https://ko.wikipedia.org/wiki/다임러_AG "wikilink"), 지멘스 VDO, 그리고 [폭스바겐](https://ko.wikipedia.org/wiki/폭스바겐 "wikilink")에 의해 설립되었다. [포드](https://ko.wikipedia.org/wiki/포드_모터_컴퍼니 "wikilink") 자동차가 2003년 11월에 핵심 파트너(Core Partner)로 가입했고, 그 해 12월에는 [푸조](../Page/푸조.md "wikilink")와 [토요타가](https://ko.wikipedia.org/wiki/토요타_자동차 "wikilink") 추가로 가입했다. 다음 해 11월에는 [GM이](https://ko.wikipedia.org/wiki/제너럴_모터스 "wikilink") 핵심 파트너에 합류했고, 2008년 2월 지멘스 VDO가 콘티넨탈에 인수된 후 이는 자체 핵심 파트너에서 제외되었다.
+AUTOSAR 개발 파트너쉽은 2003년 7월에 열린 산업 표준 자동차 E/E architecture 구조를 만들고 발전시키기 위해 [BMW](../Page/BMW.md "wikilink"), [보쉬](../Page/로베르트_보쉬.md "wikilink"), [콘티넨탈](https://ko.wikipedia.org/wiki/콘티넨탈_AG "wikilink"), [다임러](../Page/다임러_AG.md "wikilink"), 지멘스 VDO, 그리고 [폭스바겐](../Page/폭스바겐.md "wikilink")에 의해 설립되었다. [포드](../Page/포드_모터_컴퍼니.md "wikilink") 자동차가 2003년 11월에 핵심 파트너(Core Partner)로 가입했고, 그 해 12월에는 [푸조](../Page/푸조.md "wikilink")와 [토요타가](../Page/토요타_자동차.md "wikilink") 추가로 가입했다. 다음 해 11월에는 [GM이](../Page/제너럴_모터스.md "wikilink") 핵심 파트너에 합류했고, 2008년 2월 지멘스 VDO가 콘티넨탈에 인수된 후 이는 자체 핵심 파트너에서 제외되었다.
 
 2003년부터 AUTOSAR는 클래식 플랫폼(Classic Platform)을 위한 표준 자동차 소프트웨어 구조로써 4개의 릴리즈(Release)를 제공해 왔으며, 1개의 승인 테스트 릴리즈(Acceptance Tests Release)를 공개했다.  AUTOSAR 클래식 플랫폼의 작업은 다음과 같이 세 단계로 나눌 수 있다.
 
@@ -51,7 +51,7 @@ BSW는 세 가지 주요 계층과 복잡한 드라이버로 나뉜다.
 
 클래식 플랫폼의 꼭 필요한 개념중의 하나는 가상 기능 버스(virtual functional bus:VFB)이다. 이 가상 기능 버스(VFB)는 특정 ECU에 아직 배치되지 않은 인프라 스트럭처에서 어플리케이션을 분리하는 추상적인 RTE 의 한 세트이다. 이는 전용 포트를 통해 통신하므로 응용 프로그램 소프트웨어의 통신 인터페이스는 이러한 포트ports에 매핑되어야한다. VFB는 개별 ECU 내에서와 ECU들간의 통신을 처리한다. 응용 관점에서 하위 수준의 기술이나 종속성에 대한 자세한 지식을 필요로 하지 않는다. 이는 하드웨어 독립적 개발 및 응용 프로그램 소프트웨어 사용을 지원한다.
 
-또한 클래식 플랫폼은 프랑카 [인터페이스 정의 언어](https://ko.wikipedia.org/wiki/인터페이스_정의_언어 "wikilink")(Franca interface description language:IDL)를 사용하여 GENIVI와 같은 비 AUTOSAR 시스템과도 결합할 수 있다.
+또한 클래식 플랫폼은 프랑카 [인터페이스 정의 언어](../Page/인터페이스_정의_언어.md "wikilink")(Franca interface description language:IDL)를 사용하여 GENIVI와 같은 비 AUTOSAR 시스템과도 결합할 수 있다.
 
 ## 어뎁티브 플랫폼 Adaptive Platform\[4\]
 
@@ -59,7 +59,7 @@ BSW는 세 가지 주요 계층과 복잡한 드라이버로 나뉜다.
 
 또한 Car-2-X 애플리케이션은 차량 및 외부 시스템과의 상호 작용을 필요로한다. 이는 시스템이 안전한 온보드(on-board) 통신, 교차 영역 컴퓨팅 플랫폼 (cross-domain computing platform) 지원, 스마트 폰 통합, 비 AUTOSAR 시스템 통합 등을 제공해야 함을 의미한다. 더불어 클라우드 기반 서비스에는 보안 클라우드 상호 작용 및 비상 차량 선점과 같은 보안을위한 전용 수단이 필요하다. 이 서비스는  원격 진단, 무선 업데이트 (over the air: OTA), 수리 및 교환 처리와 같은 원격 및 분산 서비스를 가능하게한다.
 
-다양한 고객 애플리케이션 전개를 지원하고 하이앤드(high-end) 컴퓨팅 파워를 필요로하는 애플리케이션을 위한 환경을 제공하기 위해서 AUTOSAR 는 근래에 어뎁티브 플랫폼(Adaptive Platform)을 표준화 시키고 있다. 그의 핵심은 [POSIX](https://ko.wikipedia.org/wiki/POSIX "wikilink") 표준에 기반한 운영 체제이다. IEEE1003.13 (namely PSE51)에 따르면 이 운영체제는 POSIX의 서브셋을 거쳐 어플리케이션을 통해 사용될 수 있다.  
+다양한 고객 애플리케이션 전개를 지원하고 하이앤드(high-end) 컴퓨팅 파워를 필요로하는 애플리케이션을 위한 환경을 제공하기 위해서 AUTOSAR 는 근래에 어뎁티브 플랫폼(Adaptive Platform)을 표준화 시키고 있다. 그의 핵심은 [POSIX](../Page/POSIX.md "wikilink") 표준에 기반한 운영 체제이다. IEEE1003.13 (namely PSE51)에 따르면 이 운영체제는 POSIX의 서브셋을 거쳐 어플리케이션을 통해 사용될 수 있다.  
 
 어뎁티브 플랫폼은 서비스와 애플리케이션 프로그래밍 인터페이스 [application programming interfaces (APIs)와](../Page/API.md "wikilink") 같은 2가지 타입의 인터페이스가 가능하다. 이 플랫폼은 기능 클러스터를 포함하는데, 이는 서비스와 어뎁티브 플랫폼을 기반으로 그룹화된다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV  \(\)](https://ko.wikipedia.org/wiki/TV__\(\)).
 
 
-《**TV조선 뉴스 (주말)**》는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [TV조선](../Page/TV조선.md "wikilink")에서 토요일 오전 9시 15분, 일요일 오전 9시 30분에 방송되는 [TV조선의 주말 아침뉴스 프로그램이다](../Page/TV조선의_뉴스_프로그램.md "wikilink").
+《**TV조선 뉴스 (주말)**》는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [TV조선](../Page/TV조선.md "wikilink")에서 토요일 오전 9시 15분, 일요일 오전 9시 30분에 방송되는 [TV조선의 주말 아침뉴스 프로그램이다](../Page/TV조선의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -16,21 +16,21 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/TV조선.md" title="wikilink">TV조선</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/7월_8일" title="wikilink">7월 8일</a> ~ <a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/11월_5일" title="wikilink">11월 5일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/7월_8일.md" title="wikilink">7월 8일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/11월_5일.md" title="wikilink">11월 5일</a></p></td>
 <td><p>주말 아침 7시 ~ 7시 20분 (20분)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/11월_12일" title="wikilink">11월 12일</a> ~ <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/12월_30일" title="wikilink">12월 30일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/11월_12일.md" title="wikilink">11월 12일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_30일.md" title="wikilink">12월 30일</a></p></td>
 <td><p>일요일 아침 8시 30분 ~ 8시 50분 (20분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/1월_5일" title="wikilink">1월 5일</a> ~ <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/6월_2일" title="wikilink">6월 2일</a></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/1월_5일.md" title="wikilink">1월 5일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/6월_2일.md" title="wikilink">6월 2일</a></p></td>
 <td><p>주말 오전 9시 30분 ~ 9시 50분 (20분)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/6월_8일" title="wikilink">6월 8일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/6월_8일.md" title="wikilink">6월 8일</a> ~ <strong>현재</strong></p></td>
 <td><p>토요일 오전 9시 15분 ~ 9시 50분 (35분)<br />
 일요일 오전 9시 30분 ~ 9시 50분 (20분)</p></td>
 <td></td>

@@ -3,7 +3,7 @@
 
 **OS X 마운틴 라이언**(OS X Mountain Lion\[1\])은 2012년 2월 16일에 공개된 [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") 9번째 버전이다.
 
-OS X 마운틴 라이언은 iOS의 기능들 다수를 가져왔으며 이 가운데 일부는 이미 [OS X 라이언에](https://ko.wikipedia.org/wiki/OS_X_라이언 "wikilink") 도입되어 있다. 수많은 응용 프로그램들이 iOS에 대응하여 이름이 변경되었다.\[2\] OS X 마운틴 라이언은 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [7월 25일에](https://ko.wikipedia.org/wiki/7월_25일 "wikilink") 출시되었다. 후속버전은 [OS X 매버릭스다](../Page/OS_X_매버릭스.md "wikilink").
+OS X 마운틴 라이언은 iOS의 기능들 다수를 가져왔으며 이 가운데 일부는 이미 [OS X 라이언에](https://ko.wikipedia.org/wiki/OS_X_라이언 "wikilink") 도입되어 있다. 수많은 응용 프로그램들이 iOS에 대응하여 이름이 변경되었다.\[2\] OS X 마운틴 라이언은 [2012년](../Page/2012년.md "wikilink") [7월 25일에](../Page/7월_25일.md "wikilink") 출시되었다. 후속버전은 [OS X 매버릭스다](../Page/OS_X_매버릭스.md "wikilink").
 
 ## 기능
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ncurses](https://ko.wikipedia.org/wiki/Ncurses).
 
 
-**`ncurses`** (**n**ew **curses**)는 프로그래머가 [텍스트 사용자 인터페이스를](../Page/텍스트_사용자_인터페이스.md "wikilink") 터미널 독립 방식으로 기록할 수 있도록 [API](../Page/API.md "wikilink")를 제공하는 [프로그래밍 라이브러리이다](https://ko.wikipedia.org/wiki/라이브러리 "wikilink"). [단말 에뮬레이터에서](../Page/단말_에뮬레이터.md "wikilink") 실행하는 [GUI같은](https://ko.wikipedia.org/wiki/그래픽_사용자_인터페이스 "wikilink") [응용 소프트웨어를](https://ko.wikipedia.org/wiki/응용_소프트웨어 "wikilink") 개발하는 툴킷이다. 원격 [셸](https://ko.wikipedia.org/wiki/셸 "wikilink")을 이용하면 겪을 수 있는 [레이턴시](../Page/레이턴시.md "wikilink")를 줄이기 위해 화면의 변화도 최적화한다.
+**`ncurses`** (**n**ew **curses**)는 프로그래머가 [텍스트 사용자 인터페이스를](../Page/텍스트_사용자_인터페이스.md "wikilink") 터미널 독립 방식으로 기록할 수 있도록 [API](../Page/API.md "wikilink")를 제공하는 [프로그래밍 라이브러리이다](https://ko.wikipedia.org/wiki/라이브러리 "wikilink"). [단말 에뮬레이터에서](../Page/단말_에뮬레이터.md "wikilink") 실행하는 [GUI같은](../Page/그래픽_사용자_인터페이스.md "wikilink") [응용 소프트웨어를](../Page/응용_소프트웨어.md "wikilink") 개발하는 툴킷이다. 원격 [셸](../Page/셸.md "wikilink")을 이용하면 겪을 수 있는 [레이턴시](../Page/레이턴시.md "wikilink")를 줄이기 위해 화면의 변화도 최적화한다.
 
 ## 터미널 데이터베이스
 

@@ -8,18 +8,18 @@
 ## 새 기술
 
   - 더 넓은 채널 대역폭
-      - 80 MHz 와 160 MHz 채널 대역폭 ([802.11n의](https://ko.wikipedia.org/wiki/IEEE_802.11n-2009 "wikilink") 최대 40 MHz 와 비교)
+      - 80 MHz 와 160 MHz 채널 대역폭 ([802.11n의](../Page/IEEE_802.11n-2009.md "wikilink") 최대 40 MHz 와 비교)
           - 의무적 80 MHz, 선택적 160 MHz
   - 더 많은 [MIMO](../Page/MIMO.md "wikilink") 공간적 스트림
-      - 8개의 공간적 스트림까지 지원([802.11n의](https://ko.wikipedia.org/wiki/IEEE_802.11n-2009 "wikilink") 4개와 비교)
+      - 8개의 공간적 스트림까지 지원([802.11n의](../Page/IEEE_802.11n-2009.md "wikilink") 4개와 비교)
   - [다중 사용자 MIMO](https://ko.wikipedia.org/wiki/다중_사용자_MIMO "wikilink") (MU-MIMO)
       - 각각 한개 또는 그 이상의 안테나를 가지고 있는 다중 단말이 동시에 독립적인 데이터 스트림을 송수신
           - “공간 분할 다중 접속” (SDMA): 스트림이 주파수에 의하여 구분되지 않고, 11n 형식의 MIMO와 유사하게 공간적으로 분석됨
       - 선택적 모드로서 하향 MU-MIMO(하나의 송신 장치, 다수의 수신 장치) 포함
   - 변조
-      - 256-[QAM](https://ko.wikipedia.org/wiki/QAM "wikilink"), 변조율 3/4 과 5/6이 선택적 동작 모드로 포함됨 ([802.11n의](https://ko.wikipedia.org/wiki/IEEE_802.11n-2009 "wikilink") 최대 64-[QAM](https://ko.wikipedia.org/wiki/QAM "wikilink"), 변조율 5/6 과 비교)
+      - 256-[QAM](https://ko.wikipedia.org/wiki/QAM "wikilink"), 변조율 3/4 과 5/6이 선택적 동작 모드로 포함됨 ([802.11n의](../Page/IEEE_802.11n-2009.md "wikilink") 최대 64-[QAM](https://ko.wikipedia.org/wiki/QAM "wikilink"), 변조율 5/6 과 비교)
   - 그밖의 요소 및 기능
-      - [빔포밍](../Page/빔포밍.md "wikilink")을 위한 단일 측량 및 되먹임 형식 ([802.11n의](https://ko.wikipedia.org/wiki/IEEE_802.11n-2009 "wikilink") 다중 방식과 비교)
+      - [빔포밍](../Page/빔포밍.md "wikilink")을 위한 단일 측량 및 되먹임 형식 ([802.11n의](../Page/IEEE_802.11n-2009.md "wikilink") 다중 방식과 비교)
       - (위의 변화를 지원하기 위한) 매체 접근 제어(MAC) 계층 수정
       - 20/40/80/160 MHz 채널들, 11ac 과11a/n 장치들과의 공존을 위한 구조
 

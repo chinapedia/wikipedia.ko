@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YTN ](https://ko.wikipedia.org/wiki/YTN_).
 
 
-《**YTN 뉴스나이트**》(YTN NEWS NIGHT)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink") [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")에서 매일 밤 9시 50분에 방송되는 [YTN](https://ko.wikipedia.org/wiki/YTN "wikilink")의 메인뉴스 프로그램이다. 주말에는 **[YTN 뉴스와이드](https://ko.wikipedia.org/wiki/YTN_뉴스와이드 "wikilink")**라는 명칭으로 방송된다.
+《**YTN 뉴스나이트**》(YTN NEWS NIGHT)는 [대한민국](../Page/대한민국.md "wikilink") [YTN](../Page/YTN.md "wikilink")에서 매일 밤 9시 50분에 방송되는 [YTN](../Page/YTN.md "wikilink")의 메인뉴스 프로그램이다. 주말에는 **[YTN 뉴스와이드](https://ko.wikipedia.org/wiki/YTN_뉴스와이드 "wikilink")**라는 명칭으로 방송된다.
 
 ## 방송 시간
 
@@ -15,43 +15,43 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/YTN" title="wikilink">YTN</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1995년" title="wikilink">1995년</a> <a href="https://ko.wikipedia.org/wiki/3월_1일" title="wikilink">3월 1일</a> ~ <a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/3월_9일" title="wikilink">3월 9일</a></p></td>
+<td><p><a href="../Page/YTN.md" title="wikilink">YTN</a></p></td>
+<td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/3월_1일.md" title="wikilink">3월 1일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/3월_9일.md" title="wikilink">3월 9일</a></p></td>
 <td><p>매일 밤 10시 ~ 10시 40분 (40분)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2003년" title="wikilink">2003년</a> <a href="https://ko.wikipedia.org/wiki/3월_10일" title="wikilink">3월 10일</a> ~ <a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a> <a href="https://ko.wikipedia.org/wiki/2월_29일" title="wikilink">2월 29일</a></p></td>
+<td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/3월_10일.md" title="wikilink">3월 10일</a> ~ <a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/2월_29일.md" title="wikilink">2월 29일</a></p></td>
 <td><p>매일 밤 11시 ~ 11시 40분 (40분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2004년" title="wikilink">2004년</a> <a href="https://ko.wikipedia.org/wiki/3월_1일" title="wikilink">3월 1일</a> ~ <a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/3월_4일" title="wikilink">3월 4일</a></p></td>
+<td><p><a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/3월_1일.md" title="wikilink">3월 1일</a> ~ <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_4일.md" title="wikilink">3월 4일</a></p></td>
 <td><p>매일 밤 11시 ~ 11시 45분 (45분)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/3월_5일" title="wikilink">3월 5일</a> ~ <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/6월_6일" title="wikilink">6월 6일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_5일.md" title="wikilink">3월 5일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/6월_6일.md" title="wikilink">6월 6일</a></p></td>
 <td><p>매일 밤 10시 ~ 12시 (2시간)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년" title="wikilink">2017년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일</a> ~ <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/12월_2일" title="wikilink">12월 2일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_2일.md" title="wikilink">12월 2일</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/6월_7일" title="wikilink">6월 7일</a> ~ <a href="https://ko.wikipedia.org/wiki/2016년" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/12월_31일" title="wikilink">12월 31일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/6월_7일.md" title="wikilink">6월 7일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
 <td><p>매일 밤 10시 ~ 11시 40분 (1시간 40분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/12월_3일" title="wikilink">12월 3일</a> ~ <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/4월_14일" title="wikilink">4월 14일</a></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_3일.md" title="wikilink">12월 3일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_14일.md" title="wikilink">4월 14일</a></p></td>
 <td><p>평일 밤 9시 50분 ~ 12시 (2시간 10분)<br />
 주말 밤 10시 ~ 12시 (2시간)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/4월_15일" title="wikilink">4월 15일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ <strong>현재</strong></p></td>
 <td><p>매일 밤 9시 50분 ~ 12시 (2시간 10분)</p></td>
 <td></td>
 </tr>
@@ -84,23 +84,23 @@
 
 ##### 남성
 
-| 역대  | 진행자                                                      | 진행 기간                         | 비고     |
-| --- | -------------------------------------------------------- | ----------------------------- | ------ |
-| 1대  | [현덕수](https://ko.wikipedia.org/wiki/현덕수 "wikilink") 기자   | 일자 미상                         |        |
-| 2대  | [정찬배](https://ko.wikipedia.org/wiki/정찬배 "wikilink") 기자   | 일자 미상                         |        |
-| 3대  | [김영수](../Page/김영수.md "wikilink") 기자                      | 일자 미상                         |        |
-| 4대  | [김명우](https://ko.wikipedia.org/wiki/김명우 "wikilink") 기자   | 일자 미상                         |        |
-| 5대  | [김문경](https://ko.wikipedia.org/wiki/김문경 "wikilink") 기자   | 일자 미상                         |        |
-| 6대  | 유석현 기자                                                   | 일자 미상                         |        |
-| 7대  | 성문규 기자                                                   | 일자 미상 \~ 2007년 3월 4일          |        |
-| 8대  | [함형건](https://ko.wikipedia.org/wiki/함형건 "wikilink") 기자   | 2012년 \~ 2014년 10월 26일        |        |
-| 9대  | [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 기자   | 2014년 10월 27일 \~ 2015년 6월 28일 |        |
-| 10대 | [정찬배](https://ko.wikipedia.org/wiki/정찬배 "wikilink") 기자   | 2015년 6월 29일 \~ 2015년 10월 4일  |        |
-| 11대 | [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 기자   | 2015년 10월 5일 \~ 2016년         | \[1\]  |
-| 12대 | [정병진](https://ko.wikipedia.org/wiki/정병진 "wikilink") 아나운서 | 2016년 \~ 2018년 12월 2일         |        |
-| 13대 | 김경수 기자                                                   | 2018년 12월 3일 \~ 2019년 9월 27일  |        |
-| 14대 | 이종구 기자                                                   | 2019년 9월 30일 \~ 2020년 2월 14일  |        |
-| 15대 | 김경수 기자                                                   | 2020년 2월 17일 \~ 현재            | |\[2\] |
+| 역대  | 진행자                                                    | 진행 기간                         | 비고     |
+| --- | ------------------------------------------------------ | ----------------------------- | ------ |
+| 1대  | [현덕수](../Page/현덕수.md "wikilink") 기자                    | 일자 미상                         |        |
+| 2대  | [정찬배](https://ko.wikipedia.org/wiki/정찬배 "wikilink") 기자 | 일자 미상                         |        |
+| 3대  | [김영수](../Page/김영수.md "wikilink") 기자                    | 일자 미상                         |        |
+| 4대  | [김명우](https://ko.wikipedia.org/wiki/김명우 "wikilink") 기자 | 일자 미상                         |        |
+| 5대  | [김문경](https://ko.wikipedia.org/wiki/김문경 "wikilink") 기자 | 일자 미상                         |        |
+| 6대  | 유석현 기자                                                 | 일자 미상                         |        |
+| 7대  | 성문규 기자                                                 | 일자 미상 \~ 2007년 3월 4일          |        |
+| 8대  | [함형건](https://ko.wikipedia.org/wiki/함형건 "wikilink") 기자 | 2012년 \~ 2014년 10월 26일        |        |
+| 9대  | [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 기자 | 2014년 10월 27일 \~ 2015년 6월 28일 |        |
+| 10대 | [정찬배](https://ko.wikipedia.org/wiki/정찬배 "wikilink") 기자 | 2015년 6월 29일 \~ 2015년 10월 4일  |        |
+| 11대 | [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 기자 | 2015년 10월 5일 \~ 2016년         | \[1\]  |
+| 12대 | [정병진](../Page/정병진.md "wikilink") 아나운서                  | 2016년 \~ 2018년 12월 2일         |        |
+| 13대 | 김경수 기자                                                 | 2018년 12월 3일 \~ 2019년 9월 27일  |        |
+| 14대 | 이종구 기자                                                 | 2019년 9월 30일 \~ 2020년 2월 14일  |        |
+| 15대 | 김경수 기자                                                 | 2020년 2월 17일 \~ 현재            | |\[2\] |
 
 ##### 여성
 
@@ -142,44 +142,44 @@
 <tr class="odd">
 <td><p>1기</p></td>
 <td><p>YTN 프라임뉴스</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1995년" title="wikilink">1995년</a> <a href="https://ko.wikipedia.org/wiki/3월_1일" title="wikilink">3월 1일</a> ~ <a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/3월_4일" title="wikilink">3월 4일</a></p></td>
+<td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/3월_1일.md" title="wikilink">3월 1일</a> ~ <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_4일.md" title="wikilink">3월 4일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2기</p></td>
 <td><p>YTN 뉴스나이트</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2007년" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/3월_5일" title="wikilink">3월 5일</a> ~ <a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/11월_15일" title="wikilink">11월 15일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_5일.md" title="wikilink">3월 5일</a> ~ <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월_15일.md" title="wikilink">11월 15일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3기</p></td>
 <td><p>YTN 투나잇</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년" title="wikilink">2009년</a> <a href="https://ko.wikipedia.org/wiki/11월_16일" title="wikilink">11월 16일</a> ~ <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> 일자 미상</p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월_16일.md" title="wikilink">11월 16일</a> ~ <a href="../Page/2012년.md" title="wikilink">2012년</a> 일자 미상</p></td>
 </tr>
 <tr class="even">
 <td><p>4기</p></td>
 <td><p>YTN 뉴스나이트</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> 일자 미상 ~ <a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/10월_26일" title="wikilink">10월 26일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> 일자 미상 ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/10월_26일.md" title="wikilink">10월 26일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5기</p></td>
 <td><p>뉴스 10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/10월_27일" title="wikilink">10월 27일</a> ~ <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/6월_28일" title="wikilink">6월 28일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/10월_27일.md" title="wikilink">10월 27일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/6월_28일.md" title="wikilink">6월 28일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6기</p></td>
 <td><p>뉴스 10 (1부)<br />
 뉴스 11 (2부)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/6월_29일" title="wikilink">6월 29일</a> ~ <a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/10월_4일" title="wikilink">10월 4일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_4일.md" title="wikilink">10월 4일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7기</p></td>
 <td><p>YTN 뉴스나이트</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/10월_5일" title="wikilink">10월 5일</a> ~ <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/12월_2일" title="wikilink">12월 2일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_5일.md" title="wikilink">10월 5일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_2일.md" title="wikilink">12월 2일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8기</p></td>
 <td><p>YTN 뉴스나이트 (평일)<br />
 YTN 뉴스와이드 (주말)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/12월_3일" title="wikilink">12월 3일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_3일.md" title="wikilink">12월 3일</a> ~ <strong>현재</strong></p></td>
 </tr>
 </tbody>
 </table>

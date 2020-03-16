@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [TvN ](https://ko.wikipedia.org/wiki/TvN_).
 
 
-**tvN 수목드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [수요일](https://ko.wikipedia.org/wiki/수요일 "wikilink")과 [목요일](https://ko.wikipedia.org/wiki/목요일 "wikilink") 밤 9시 30분에 방송하는 [텔레비전 드라마다](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink").
+**tvN 수목드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [수요일](../Page/수요일.md "wikilink")과 [목요일](../Page/목요일.md "wikilink") 밤 9시 30분에 방송하는 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").
 
-《[MANNY](https://ko.wikipedia.org/wiki/MANNY "wikilink")》 종영 이후 폐지됐다가 2012년 2월에 부활했다. 《[제3병원](https://ko.wikipedia.org/wiki/제3병원 "wikilink")》 종영 이후\[1\] 케이블 채널 흥행의 특성상 드라마 편성에 난항을 겪는 탓에 《[막돼먹은 영애씨 시즌 11](../Page/막돼먹은_영애씨_11.md "wikilink")》과 《[롤러코스터2](https://ko.wikipedia.org/wiki/롤러코스터2 "wikilink")》에서 독립한 《[푸른거탑](https://ko.wikipedia.org/wiki/푸른거탑 "wikilink")》을 편성하면서 수목드라마 시간대의 공백을 채웠다. 2017년 7월 《[크리미널 마인드](../Page/크리미널_마인드_\(2017년_드라마\).md "wikilink")》가 편성되면서 다시 부활했다.
+《[MANNY](../Page/MANNY.md "wikilink")》 종영 이후 폐지됐다가 2012년 2월에 부활했다. 《[제3병원](../Page/제3병원.md "wikilink")》 종영 이후\[1\] 케이블 채널 흥행의 특성상 드라마 편성에 난항을 겪는 탓에 《[막돼먹은 영애씨 시즌 11](../Page/막돼먹은_영애씨_11.md "wikilink")》과 《[롤러코스터2](https://ko.wikipedia.org/wiki/롤러코스터2 "wikilink")》에서 독립한 《[푸른거탑](https://ko.wikipedia.org/wiki/푸른거탑 "wikilink")》을 편성하면서 수목드라마 시간대의 공백을 채웠다. 2017년 7월 《[크리미널 마인드](../Page/크리미널_마인드_\(2017년_드라마\).md "wikilink")》가 편성되면서 다시 부활했다.
 
 ## 방송 시간
 
@@ -35,14 +35,14 @@
 
 #### 2011년
 
-  - 《[MANNY](https://ko.wikipedia.org/wiki/MANNY "wikilink")》 : 2011년 4월 13일 \~ 2011년 6월 2일
+  - 《[MANNY](../Page/MANNY.md "wikilink")》 : 2011년 4월 13일 \~ 2011년 6월 2일
 
 #### 2012년
 
-  - 《[일년에 열두남자](https://ko.wikipedia.org/wiki/일년에_열두남자 "wikilink")》 : 2012년 2월 15일 \~ 2012년 4월 5일
-  - 《[인현왕후의 남자](https://ko.wikipedia.org/wiki/인현왕후의_남자 "wikilink")》 : 2012년 4월 18일 \~ 2012년 6월 7일
-  - 《[로맨스가 필요해 2012](https://ko.wikipedia.org/wiki/로맨스가_필요해_2012 "wikilink")》 : 2012년 6월 20일 \~ 2012년 8월 9일
-  - 《[제3병원](https://ko.wikipedia.org/wiki/제3병원 "wikilink")》 : 2012년 9월 5일 \~ 2012년 11월 8일
+  - 《[일년에 열두남자](../Page/일년에_열두남자.md "wikilink")》 : 2012년 2월 15일 \~ 2012년 4월 5일
+  - 《[인현왕후의 남자](../Page/인현왕후의_남자.md "wikilink")》 : 2012년 4월 18일 \~ 2012년 6월 7일
+  - 《[로맨스가 필요해 2012](../Page/로맨스가_필요해_2012.md "wikilink")》 : 2012년 6월 20일 \~ 2012년 8월 9일
+  - 《[제3병원](../Page/제3병원.md "wikilink")》 : 2012년 9월 5일 \~ 2012년 11월 8일
 
 #### 2017년
 
@@ -62,9 +62,9 @@
 #### 2019년
 
   - 《[진심이 닿다](../Page/진심이_닿다.md "wikilink")》 : 2019년 2월 6일 \~ 2019년 3월 28일
-  - 《[그녀의 사생활](https://ko.wikipedia.org/wiki/그녀의_사생활 "wikilink")》 : 2019년 4월 10일 \~ 2019년 5월 30일
-  - 《[검색어를 입력하세요: www](https://ko.wikipedia.org/wiki/검색어를_입력하세요:_www "wikilink")》 : 2019년 6월 5일 \~ 2019년 7월 25일
-  - 《[악마가 너의 이름을 부를 때](https://ko.wikipedia.org/wiki/악마가_너의_이름을_부를_때 "wikilink")》 : 2019년 7월 31일 \~ 2019년 9월 19일
+  - 《[그녀의 사생활](../Page/그녀의_사생활.md "wikilink")》 : 2019년 4월 10일 \~ 2019년 5월 30일
+  - 《[검색어를 입력하세요: www](../Page/검색어를_입력하세요:_www.md "wikilink")》 : 2019년 6월 5일 \~ 2019년 7월 25일
+  - 《[악마가 너의 이름을 부를 때](../Page/악마가_너의_이름을_부를_때.md "wikilink")》 : 2019년 7월 31일 \~ 2019년 9월 19일
   - 《[청일전자 미쓰리](https://ko.wikipedia.org/wiki/청일전자_미쓰리 "wikilink")》 : 2019년 9월 25일 \~ 2019년 11월 14일
   - 《[싸이코패스 다이어리](https://ko.wikipedia.org/wiki/싸이코패스_다이어리 "wikilink")》 : 2019년 11월 20일 \~ 2020년 1월 9일
 
@@ -104,11 +104,11 @@
   - [tvN 금토드라마](https://ko.wikipedia.org/wiki/tvN_금토드라마 "wikilink")
   - [tvN 토일드라마](https://ko.wikipedia.org/wiki/tvN_토일드라마 "wikilink")
   - [한국방송공사 수목드라마](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink")
-  - [문화방송 수목 미니시리즈](https://ko.wikipedia.org/wiki/문화방송_수목_미니시리즈 "wikilink")
+  - [문화방송 수목 미니시리즈](../Page/문화방송_수목_미니시리즈.md "wikilink")
 
 <!-- end list -->
 
-  - [SBS 드라마 스페셜](https://ko.wikipedia.org/wiki/SBS_드라마_스페셜 "wikilink")
+  - [SBS 드라마 스페셜](../Page/SBS_드라마_스페셜.md "wikilink")
   - [TV조선 수목드라마](https://ko.wikipedia.org/wiki/TV조선_수목드라마 "wikilink")
   - [채널A 수목 미니시리즈](https://ko.wikipedia.org/wiki/채널A_수목_미니시리즈 "wikilink")
   - [JTBC 수목 미니시리즈](https://ko.wikipedia.org/wiki/JTBC_수목_미니시리즈 "wikilink")

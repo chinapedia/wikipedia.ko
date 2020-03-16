@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AKB](https://ko.wikipedia.org/wiki/AKB).
 
 
-**주간AKBI**(週刊AKB)는 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink")에서 [2009년](https://ko.wikipedia.org/wiki/2009년 "wikilink") [7월 10일부터](https://ko.wikipedia.org/wiki/7월_10일 "wikilink") 방송되는 버라이어티 프로그램이다.
+**주간AKBI**(週刊AKB)는 [일본](../Page/일본.md "wikilink")의 [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink")에서 [2009년](../Page/2009년.md "wikilink") [7월 10일부터](../Page/7월_10일.md "wikilink") 방송되는 버라이어티 프로그램이다.
 
 ## 개요
 
@@ -166,14 +166,14 @@ AKB48 旅少女 2015年4月4日～
   - [AKB48](../Page/AKB48.md "wikilink")
       - 팀A
           - [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink")(총감독)
-          - [키쿠치 아야카](https://ko.wikipedia.org/wiki/키쿠치_아야카 "wikilink")
+          - [키쿠치 아야카](../Page/키쿠치_아야카.md "wikilink")
           - [마츠이 사키코](../Page/마츠이_사키코.md "wikilink")
           - [요코야마 유이](../Page/요코야마_유이.md "wikilink")(캡틴)
           - [사토 스미레](../Page/사토_스미레.md "wikilink")
-          - [와타나베 마유](https://ko.wikipedia.org/wiki/와타나베_마유 "wikilink")
+          - [와타나베 마유](../Page/와타나베_마유.md "wikilink")
           - [이리야마 안나](../Page/이리야마_안나.md "wikilink")
-          - [이와타 카렌](https://ko.wikipedia.org/wiki/이와타_카렌 "wikilink")
-          - [카와에이 리나](https://ko.wikipedia.org/wiki/카와에이_리나 "wikilink")
+          - [이와타 카렌](../Page/이와타_카렌.md "wikilink")
+          - [카와에이 리나](../Page/카와에이_리나.md "wikilink")
           - [타카하시 쥬리](https://ko.wikipedia.org/wiki/타카하시_쥬리 "wikilink")
           - [타노 유우카](https://ko.wikipedia.org/wiki/타노_유우카 "wikilink")
           - [이즈타 리나](../Page/이즈타_리나.md "wikilink")
@@ -182,33 +182,33 @@ AKB48 旅少女 2015年4月4日～
           - [코다마 하루카](https://ko.wikipedia.org/wiki/코다마_하루카 "wikilink")(팀H)
           - [스즈키 마리야](https://ko.wikipedia.org/wiki/스즈키_마리야 "wikilink")(팀SII)
       - 팀K
-          - [쿠라모치 아스카](https://ko.wikipedia.org/wiki/쿠라모치_아스카 "wikilink")
+          - [쿠라모치 아스카](../Page/쿠라모치_아스카.md "wikilink")
           - [나카타 치사토](https://ko.wikipedia.org/wiki/나카타_치사토 "wikilink")
           - [나카야 사야카](https://ko.wikipedia.org/wiki/나카야_사야카 "wikilink")
           - [마에다 아미](https://ko.wikipedia.org/wiki/마에다_아미 "wikilink")
-          - [우치다 마유미](https://ko.wikipedia.org/wiki/우치다_마유미 "wikilink")
-          - [키타하라 리에](https://ko.wikipedia.org/wiki/키타하라_리에 "wikilink")
-          - [코바야시 카나](https://ko.wikipedia.org/wiki/코바야시_카나 "wikilink")
+          - [우치다 마유미](../Page/우치다_마유미.md "wikilink")
+          - [키타하라 리에](../Page/키타하라_리에.md "wikilink")
+          - [코바야시 카나](../Page/코바야시_카나.md "wikilink")
           - [스즈키 시호리](../Page/스즈키_시호리.md "wikilink")
           - [치카노 리나](https://ko.wikipedia.org/wiki/치카노_리나 "wikilink")
-          - [미야자키 미호](https://ko.wikipedia.org/wiki/미야자키_미호 "wikilink")
+          - [미야자키 미호](../Page/미야자키_미호.md "wikilink")
           - [아베 마리아](https://ko.wikipedia.org/wiki/아베_마리아 "wikilink")
           - [시마다 하루카](https://ko.wikipedia.org/wiki/시마다_하루카 "wikilink")
           - [나가오 마리야](../Page/나가오_마리야.md "wikilink")
-          - [마츠이 쥬리나](https://ko.wikipedia.org/wiki/마츠이_쥬리나 "wikilink")(팀S)
+          - [마츠이 쥬리나](../Page/마츠이_쥬리나.md "wikilink")(팀S)
           - [히라타 리나](https://ko.wikipedia.org/wiki/히라타_리나 "wikilink")
       - 팀B
-          - [이와사 미사키](https://ko.wikipedia.org/wiki/이와사_미사키 "wikilink")
+          - [이와사 미사키](../Page/이와사_미사키.md "wikilink")
           - [오오야 시즈카](https://ko.wikipedia.org/wiki/오오야_시즈카 "wikilink")
-          - [코지마 하루나](https://ko.wikipedia.org/wiki/코지마_하루나 "wikilink")(최연장자)
-          - [우메다 아야카](https://ko.wikipedia.org/wiki/우메다_아야카 "wikilink")(캡틴)
+          - [코지마 하루나](../Page/코지마_하루나.md "wikilink")(최연장자)
+          - [우메다 아야카](../Page/우메다_아야카.md "wikilink")(캡틴)
           - [타나베 미쿠](https://ko.wikipedia.org/wiki/타나베_미쿠 "wikilink")
-          - [후지에 레이나](https://ko.wikipedia.org/wiki/후지에_레이나 "wikilink")
-          - [이시다 하루카](https://ko.wikipedia.org/wiki/이시다_하루카 "wikilink")
-          - [카시와기 유키](https://ko.wikipedia.org/wiki/카시와기_유키 "wikilink")
+          - [후지에 레이나](../Page/후지에_레이나.md "wikilink")
+          - [이시다 하루카](../Page/이시다_하루카.md "wikilink")
+          - [카시와기 유키](../Page/카시와기_유키.md "wikilink")
           - [이치카와 미오리](../Page/이치카와_미오리.md "wikilink")(팀N)
           - [오오바 미나](../Page/오오바_미나.md "wikilink")(팀KII)
-          - [카토 레나](https://ko.wikipedia.org/wiki/카토_레나 "wikilink")
+          - [카토 레나](../Page/카토_레나.md "wikilink")
           - [시마자키 하루카](../Page/시마자키_하루카.md "wikilink")
           - [타케우치 미유](../Page/타케우치_미유.md "wikilink")
           - [나카무라 마리코](https://ko.wikipedia.org/wiki/나카무라_마리코 "wikilink")
@@ -217,17 +217,17 @@ AKB48 旅少女 2015年4月4日～
           - [나토리 와카나](https://ko.wikipedia.org/wiki/나토리_와카나 "wikilink")
           - [다카죠 아키](https://ko.wikipedia.org/wiki/다카죠_아키 "wikilink")(팀J)
       - 팀4
-          - [미네기시 미나미](https://ko.wikipedia.org/wiki/미네기시_미나미 "wikilink")(캡틴)
+          - [미네기시 미나미](../Page/미네기시_미나미.md "wikilink")(캡틴)
 
 <!-- end list -->
 
-  - [SKE48](https://ko.wikipedia.org/wiki/SKE48 "wikilink")
+  - [SKE48](../Page/SKE48.md "wikilink")
       - 팀S
           - [오오야 마사나](https://ko.wikipedia.org/wiki/오오야_마사나 "wikilink")
           - [키자키 유리아](https://ko.wikipedia.org/wiki/키자키_유리아 "wikilink")
           - [데구치 아키](https://ko.wikipedia.org/wiki/데구치_아키 "wikilink")
           - [나카니시 유카](https://ko.wikipedia.org/wiki/나카니시_유카 "wikilink")(팀S리더.SKE48캡틴)
-          - [마츠이 쥬리나](https://ko.wikipedia.org/wiki/마츠이_쥬리나 "wikilink")(팀K)
+          - [마츠이 쥬리나](../Page/마츠이_쥬리나.md "wikilink")(팀K)
           - [이시다 안나](https://ko.wikipedia.org/wiki/이시다_안나 "wikilink")
           - [고토 리사코](https://ko.wikipedia.org/wiki/고토_리사코 "wikilink")
           - [무카이다 마나츠](https://ko.wikipedia.org/wiki/무카이다_마나츠 "wikilink")
@@ -255,10 +255,10 @@ AKB48 旅少女 2015年4月4日～
       - 팀H
           - [아나이 치히로](https://ko.wikipedia.org/wiki/아나이_치히로 "wikilink")(캡틴)
           - [코다마 하루카](https://ko.wikipedia.org/wiki/코다마_하루카 "wikilink")(팀A)
-          - [사시하라 리노](https://ko.wikipedia.org/wiki/사시하라_리노 "wikilink")(최연장자.극장지배인)
-          - [오오타 아이카](https://ko.wikipedia.org/wiki/오오타_아이카 "wikilink")
+          - [사시하라 리노](../Page/사시하라_리노.md "wikilink")(최연장자.극장지배인)
+          - [오오타 아이카](../Page/오오타_아이카.md "wikilink")
           - [나카니시 치요리](https://ko.wikipedia.org/wiki/나카니시_치요리 "wikilink")
-          - [마츠오카 나츠미](https://ko.wikipedia.org/wiki/마츠오카_나츠미 "wikilink")
+          - [마츠오카 나츠미](../Page/마츠오카_나츠미.md "wikilink")
           - [무라시게 안나](../Page/무라시게_안나.md "wikilink")
           - [모리야수 마도카](https://ko.wikipedia.org/wiki/모리야수_마도카 "wikilink")
 
@@ -266,12 +266,12 @@ AKB48 旅少女 2015年4月4日～
 
   - [JKT48](../Page/JKT48.md "wikilink")팀J
       -   - [다카죠 아키](https://ko.wikipedia.org/wiki/다카죠_아키 "wikilink")(팀B)
-          - [나카가와 하루카](https://ko.wikipedia.org/wiki/나카가와_하루카 "wikilink")
+          - [나카가와 하루카](../Page/나카가와_하루카.md "wikilink")
 
 <!-- end list -->
 
-  - [SNH48](https://ko.wikipedia.org/wiki/SNH48 "wikilink") 팀SII
-      -   - [미야자와 사에](https://ko.wikipedia.org/wiki/미야자와_사에 "wikilink")
+  - [SNH48](../Page/SNH48.md "wikilink") 팀SII
+      -   - [미야자와 사에](../Page/미야자와_사에.md "wikilink")
           - [스즈키 마리야](https://ko.wikipedia.org/wiki/스즈키_마리야 "wikilink")(팀A)
 
 <!-- end list -->
@@ -282,21 +282,21 @@ AKB48 旅少女 2015年4月4日～
 
 ## 방송국과 방송 시간
 
-| 주요 방송 지역                                                                                                        | 방송국                                          | 계열                                                              | 방송 요일과 방송 시간            | 방송 개시일       |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------- | ----------------------- | ------------ |
-| [간토 광역권](https://ko.wikipedia.org/wiki/간토_광역권 "wikilink")                                                       | [TV 도쿄](../Page/TV_도쿄.md "wikilink") (제작국)   | [TV 도쿄 계열](https://ko.wikipedia.org/wiki/TV_도쿄_네트워크 "wikilink") | 금요일 17:30 \~ 18:00      | 2009년 7월 10일 |
-| [홋카이도](https://ko.wikipedia.org/wiki/홋카이도 "wikilink")                                                           | [TV 홋카이도](../Page/TV_홋카이도.md "wikilink")     |                                                                 |                         |              |
-| [아이치현](https://ko.wikipedia.org/wiki/아이치현 "wikilink")                                                           | [TV 아이치](../Page/TV_아이치.md "wikilink")       |                                                                 |                         |              |
-| [오사카부](https://ko.wikipedia.org/wiki/오사카부 "wikilink")                                                           | [TV 오사카](../Page/TV_오사카.md "wikilink")       |                                                                 |                         |              |
-| [오카야마현](https://ko.wikipedia.org/wiki/오카야마현 "wikilink") · [가가와현](https://ko.wikipedia.org/wiki/가가와현 "wikilink") | [TV 세토우치](../Page/TV_세토우치.md "wikilink")     |                                                                 |                         |              |
-| [후쿠오카현](https://ko.wikipedia.org/wiki/후쿠오카현 "wikilink")                                                         | [TVQ 규슈 방송](../Page/TVQ_규슈_방송.md "wikilink") |                                                                 |                         |              |
-| [시가현](https://ko.wikipedia.org/wiki/시가현 "wikilink")                                                             | [비와코 방송](../Page/비와코_방송.md "wikilink")       | [JAITS](https://ko.wikipedia.org/wiki/JAITS "wikilink")         | 목요일 18:30 \~ 19:00      | 2010년 3월 31일 |
-| [후쿠시마현](https://ko.wikipedia.org/wiki/후쿠시마현 "wikilink")                                                         | [TV-U 후쿠시마](../Page/TV-U_후쿠시마.md "wikilink") | [TBS 계열](https://ko.wikipedia.org/wiki/JNN "wikilink")          | 월요일 25:20 \~ 25:50\[1\] | 2011년 4월 16일 |
-| [와카야마현](https://ko.wikipedia.org/wiki/와카야마현 "wikilink")                                                         | [TV 와카야마](../Page/TV_와카야마.md "wikilink")     | JAITS                                                           | 일요일 18:30 \~ 19:00      | 2011년 9월 4일  |
-| [나라현](https://ko.wikipedia.org/wiki/나라현 "wikilink")                                                             | [나라 TV 방송](../Page/나라_TV_방송.md "wikilink")   | 월요일 25:00 \~ 25:30                                              | 2011년 10월 17일           |              |
-|                                                                                                                 |                                              |                                                                 |                         |              |
+| 주요 방송 지역                                                                  | 방송국                                          | 계열                                                              | 방송 요일과 방송 시간            | 방송 개시일       |
+| ------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------- | ----------------------- | ------------ |
+| [간토 광역권](https://ko.wikipedia.org/wiki/간토_광역권 "wikilink")                 | [TV 도쿄](../Page/TV_도쿄.md "wikilink") (제작국)   | [TV 도쿄 계열](https://ko.wikipedia.org/wiki/TV_도쿄_네트워크 "wikilink") | 금요일 17:30 \~ 18:00      | 2009년 7월 10일 |
+| [홋카이도](../Page/홋카이도.md "wikilink")                                        | [TV 홋카이도](../Page/TV_홋카이도.md "wikilink")     |                                                                 |                         |              |
+| [아이치현](../Page/아이치현.md "wikilink")                                        | [TV 아이치](../Page/TV_아이치.md "wikilink")       |                                                                 |                         |              |
+| [오사카부](../Page/오사카부.md "wikilink")                                        | [TV 오사카](../Page/TV_오사카.md "wikilink")       |                                                                 |                         |              |
+| [오카야마현](../Page/오카야마현.md "wikilink") · [가가와현](../Page/가가와현.md "wikilink") | [TV 세토우치](../Page/TV_세토우치.md "wikilink")     |                                                                 |                         |              |
+| [후쿠오카현](../Page/후쿠오카현.md "wikilink")                                      | [TVQ 규슈 방송](../Page/TVQ_규슈_방송.md "wikilink") |                                                                 |                         |              |
+| [시가현](../Page/시가현.md "wikilink")                                          | [비와코 방송](../Page/비와코_방송.md "wikilink")       | [JAITS](https://ko.wikipedia.org/wiki/JAITS "wikilink")         | 목요일 18:30 \~ 19:00      | 2010년 3월 31일 |
+| [후쿠시마현](../Page/후쿠시마현.md "wikilink")                                      | [TV-U 후쿠시마](../Page/TV-U_후쿠시마.md "wikilink") | [TBS 계열](https://ko.wikipedia.org/wiki/JNN "wikilink")          | 월요일 25:20 \~ 25:50\[1\] | 2011년 4월 16일 |
+| [와카야마현](../Page/와카야마현.md "wikilink")                                      | [TV 와카야마](../Page/TV_와카야마.md "wikilink")     | JAITS                                                           | 일요일 18:30 \~ 19:00      | 2011년 9월 4일  |
+| [나라현](../Page/나라현.md "wikilink")                                          | [나라 TV 방송](../Page/나라_TV_방송.md "wikilink")   | 월요일 25:00 \~ 25:30                                              | 2011년 10월 17일           |              |
+|                                                                           |                                              |                                                                 |                         |              |
 
-※ [구마모토현](https://ko.wikipedia.org/wiki/구마모토현 "wikilink")의 [TV 구마모토](../Page/TV_구마모토.md "wikilink")([후지 TV](https://ko.wikipedia.org/wiki/후지_TV "wikilink") 계열)의 방송 시간이 상황 불명하다\[2\].
+※ [구마모토현](../Page/구마모토현.md "wikilink")의 [TV 구마모토](../Page/TV_구마모토.md "wikilink")([후지 TV](../Page/후지_TV.md "wikilink") 계열)의 방송 시간이 상황 불명하다\[2\].
 
 ## 각주
 

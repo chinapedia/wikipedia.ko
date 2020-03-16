@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAJIKE-YO!!](https://ko.wikipedia.org/wiki/HAJIKE-YO!!).
 
 
-「**HAJIKE-YO\!\!**」는 [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 8일에](https://ko.wikipedia.org/wiki/2월_8일 "wikilink") [업프런트 워크스에서](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink") 발매된, 소라노 아오이(CV.[키타하라 사야카](https://ko.wikipedia.org/wiki/키타하라_사야카 "wikilink"))의 세 번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink") 곡이다.
+「**HAJIKE-YO\!\!**」는 [2012년](../Page/2012년.md "wikilink") [2월 8일에](../Page/2월_8일.md "wikilink") [업프런트 워크스에서](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink") 발매된, 소라노 아오이(CV.[키타하라 사야카](https://ko.wikipedia.org/wiki/키타하라_사야카 "wikilink"))의 세 번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink") 곡이다.
 
 ## 개요
 
@@ -17,7 +17,7 @@
       -
         편곡 : 키쿠야 토모키
         [TV 애니메이션](https://ko.wikipedia.org/wiki/TV_애니메이션 "wikilink")『[이나즈마 일레븐 GO](https://ko.wikipedia.org/wiki/이나즈마_일레븐_GO "wikilink")』 엔딩 테마
-        [게임](https://ko.wikipedia.org/wiki/게임 "wikilink")『이나즈마 일레븐 GO 샤인』 엔딩 테마
+        [게임](../Page/게임.md "wikilink")『이나즈마 일레븐 GO 샤인』 엔딩 테마
 2.  애정·정열·열풍(愛情・情熱・熱風)
       -
         편곡 : 야마구치 아키히코

@@ -3,9 +3,9 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Wow_signal.jpg "wikilink") **와우 신호**()는 [SETI](https://ko.wikipedia.org/wiki/SETI "wikilink") 프로젝트가 진행되던 도중에 발견된 특이한 신호이다.
 
-[1977년](https://ko.wikipedia.org/wiki/1977년 "wikilink") [8월 15일](https://ko.wikipedia.org/wiki/8월_15일 "wikilink") 밤, [외계의 지적생명탐사](../Page/외계의_지적생명탐사.md "wikilink")(SETI) 프로젝트의 일반 참여자이자 대학 교수였던 [제리 R. 이만](https://ko.wikipedia.org/wiki/제리_R._이만 "wikilink")(Jerry R. Ehman)은 수신된 전파의 컴퓨터 로그를 프린트해 분석하던 중 특별한 신호를 발견하고 놀란 나머지, 종이에 'Wow\!'라고 적었는데, 이 일화로 인하여 이 신호는 와우 시그널이라고 불린다.
+[1977년](../Page/1977년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") 밤, [외계의 지적생명탐사](../Page/외계의_지적생명탐사.md "wikilink")(SETI) 프로젝트의 일반 참여자이자 대학 교수였던 [제리 R. 이만](https://ko.wikipedia.org/wiki/제리_R._이만 "wikilink")(Jerry R. Ehman)은 수신된 전파의 컴퓨터 로그를 프린트해 분석하던 중 특별한 신호를 발견하고 놀란 나머지, 종이에 'Wow\!'라고 적었는데, 이 일화로 인하여 이 신호는 와우 시그널이라고 불린다.
 
-이 신호는 '수동적 외계 지능 찾기'(Passive SETI)의 노력의 하나로 [외계 지적 생명체로부터](https://ko.wikipedia.org/wiki/외계_생물 "wikilink") 온 신호일 가능성이 있는 강렬한 협대역 신호이다. 관측 당시 [빅 이어 망원경](https://ko.wikipedia.org/wiki/빅_이어_망원경 "wikilink")(오늘날의 [오하이오 주립 대학교의](https://ko.wikipedia.org/wiki/오하이오_주립_대학교 "wikilink") 전파 관측소)에서 [궁수자리](https://ko.wikipedia.org/wiki/궁수자리 "wikilink") 안쪽 방향으로 72초간 수신됐다. 그러나 [지적 외계 생명체의](https://ko.wikipedia.org/wiki/외계_생물 "wikilink") 신호임을 확인하기 위해선 반복적인 신호의 수신이 이루어져야 하는데, 이 신호는 그 이후로 발견되지 않았다.\[1\]
+이 신호는 '수동적 외계 지능 찾기'(Passive SETI)의 노력의 하나로 [외계 지적 생명체로부터](https://ko.wikipedia.org/wiki/외계_생물 "wikilink") 온 신호일 가능성이 있는 강렬한 협대역 신호이다. 관측 당시 [빅 이어 망원경](https://ko.wikipedia.org/wiki/빅_이어_망원경 "wikilink")(오늘날의 [오하이오 주립 대학교의](../Page/오하이오_주립_대학교.md "wikilink") 전파 관측소)에서 [궁수자리](../Page/궁수자리.md "wikilink") 안쪽 방향으로 72초간 수신됐다. 그러나 [지적 외계 생명체의](https://ko.wikipedia.org/wiki/외계_생물 "wikilink") 신호임을 확인하기 위해선 반복적인 신호의 수신이 이루어져야 하는데, 이 신호는 그 이후로 발견되지 않았다.\[1\]
 
 이 신호가 외계에서 온 신호인지에 대해서는 여전히 논란으로 남아있다.\[2\]
 
@@ -21,7 +21,7 @@
 
 ## 신호의 위치
 
-[오하이오 주립 대학교 전파 천문대의](https://ko.wikipedia.org/wiki/오하이오_주립_대학교_전파_천문대 "wikilink") [휘드혼](https://ko.wikipedia.org/wiki/휘드혼 "wikilink") 2개를 이용하여 신호의 정확한 발신지를 찾는 과정은 하늘이 [지구의 자전으로](https://ko.wikipedia.org/wiki/지구의_자전 "wikilink") 인해 약간 다른 방향을 가리키고 있기 때문에 복잡했다. Wow\! 신호는 한쪽에만 검출되었고 다른 한쪽에는 검출되지 않았기 때문에, 상기 데이터에는 2개 휘드혼으로는 위치의 정확한 판별이 불가능하다는 방식으로 처리했다. 따라서, [적경](https://ko.wikipedia.org/wiki/적경 "wikilink")값은 다음 2가지가 존재한다.
+[오하이오 주립 대학교 전파 천문대의](https://ko.wikipedia.org/wiki/오하이오_주립_대학교_전파_천문대 "wikilink") [휘드혼](https://ko.wikipedia.org/wiki/휘드혼 "wikilink") 2개를 이용하여 신호의 정확한 발신지를 찾는 과정은 하늘이 [지구의 자전으로](https://ko.wikipedia.org/wiki/지구의_자전 "wikilink") 인해 약간 다른 방향을 가리키고 있기 때문에 복잡했다. Wow\! 신호는 한쪽에만 검출되었고 다른 한쪽에는 검출되지 않았기 때문에, 상기 데이터에는 2개 휘드혼으로는 위치의 정확한 판별이 불가능하다는 방식으로 처리했다. 따라서, [적경](../Page/적경.md "wikilink")값은 다음 2가지가 존재한다.
 
   - 19<sup>h</sup>22<sup>m</sup>24.64<sup>s</sup> ± 5<sup>s</sup> (포지티브 혼)
   - 19<sup>h</sup>25<sup>m</sup>17.01<sup>s</sup> ± 5<sup>s</sup> (네거티브 혼)
@@ -42,26 +42,26 @@ J2000.0 주야 평분시로 변환한 천구좌표는 적경 = 19<sup>h</sup>25<
 
 이 신호는 이후 각각의 뿔 형태로 3분간 나타날꺼라 생각됐으나, 나타나지 않았다.\[9\] 에만은 신호 발견된 뒤에도 한달간 '[큰 귀](https://ko.wikipedia.org/wiki/the_Big_Ear "wikilink")'를 통해 지켜보았으나, 반복신호를 발견하지 못했다.\[10\]
 
-[1987년](https://ko.wikipedia.org/wiki/1987년 "wikilink")과 [1989년](https://ko.wikipedia.org/wiki/1989년 "wikilink"), [로버트 H. 그레이는](https://ko.wikipedia.org/wiki/로버트_H._그레이 "wikilink") [오크리지 관측소의](https://ko.wikipedia.org/wiki/오크리지_관측소 "wikilink") META array를 통해 그 신호를 재탐색 해보았으나 탐지되지 않았다.\[11\]\[12\]
+[1987년](../Page/1987년.md "wikilink")과 [1989년](../Page/1989년.md "wikilink"), [로버트 H. 그레이는](https://ko.wikipedia.org/wiki/로버트_H._그레이 "wikilink") [오크리지 관측소의](https://ko.wikipedia.org/wiki/오크리지_관측소 "wikilink") META array를 통해 그 신호를 재탐색 해보았으나 탐지되지 않았다.\[11\]\[12\]
 
-[1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink"), 아르고스 프로젝트 때 사용된 신호 탐색 소프트웨어를 테스트했는데, 세티리그의 행정 감독관 [H. 파울 서치는](https://ko.wikipedia.org/wiki/H._파울_서치 "wikilink") [그린 뱅크에](https://ko.wikipedia.org/wiki/그린_뱅크_\(버지니아_주\) "wikilink") 위치한 [국립 전파천문학 관측소의](https://ko.wikipedia.org/wiki/국립_전파천문학_관측소 "wikilink") 12m 전파 천문대에서 와우 신호 좌표로 여러번 드리프트-스캔 탐색 방식이 되도록 하였으나, 아무것도 성취하지 못했다.
+[1995년](../Page/1995년.md "wikilink") [7월](../Page/7월.md "wikilink"), 아르고스 프로젝트 때 사용된 신호 탐색 소프트웨어를 테스트했는데, 세티리그의 행정 감독관 [H. 파울 서치는](https://ko.wikipedia.org/wiki/H._파울_서치 "wikilink") [그린 뱅크에](https://ko.wikipedia.org/wiki/그린_뱅크_\(버지니아_주\) "wikilink") 위치한 [국립 전파천문학 관측소의](https://ko.wikipedia.org/wiki/국립_전파천문학_관측소 "wikilink") 12m 전파 천문대에서 와우 신호 좌표로 여러번 드리프트-스캔 탐색 방식이 되도록 하였으나, 아무것도 성취하지 못했다.
 
-[1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")과 [1996년](https://ko.wikipedia.org/wiki/1996년 "wikilink"), 그레이는 '[큰 귀](https://ko.wikipedia.org/wiki/the_Big_Ear "wikilink")' 보다 성능 좋은 [장기선 간섭계를](https://ko.wikipedia.org/wiki/장기선_간섭계 "wikilink") 통해 재탐색 하였다.\[13\]\[14\]
+[1995년](../Page/1995년.md "wikilink")과 [1996년](../Page/1996년.md "wikilink"), 그레이는 '[큰 귀](https://ko.wikipedia.org/wiki/the_Big_Ear "wikilink")' 보다 성능 좋은 [장기선 간섭계를](https://ko.wikipedia.org/wiki/장기선_간섭계 "wikilink") 통해 재탐색 하였다.\[13\]\[14\]
 
-그레이와 시몬 엘리슨은 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink") 다시 [태즈메이니아 대학교의](../Page/태즈메이니아_대학교.md "wikilink") 26m 크기의 전파망원경인 [마운트 프레전트 전파 관측소를](https://ko.wikipedia.org/wiki/마운트_프레전트_전파_관측소 "wikilink") 통해 반복신호를 탐색했다.\[15\] 와우 신호가 관측된 위치 주변으로 14시간 동안의 6번의 관측을 하였지만 와우 신호와 같은 것은 아무것도 발견되지 않았다.\[16\]\[17\]
+그레이와 시몬 엘리슨은 [1999년](../Page/1999년.md "wikilink") 다시 [태즈메이니아 대학교의](../Page/태즈메이니아_대학교.md "wikilink") 26m 크기의 전파망원경인 [마운트 프레전트 전파 관측소를](https://ko.wikipedia.org/wiki/마운트_프레전트_전파_관측소 "wikilink") 통해 반복신호를 탐색했다.\[15\] 와우 신호가 관측된 위치 주변으로 14시간 동안의 6번의 관측을 하였지만 와우 신호와 같은 것은 아무것도 발견되지 않았다.\[16\]\[17\]
 
 ## 응답
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [내셔널 지오그래픽 채널은](https://ko.wikipedia.org/wiki/내셔널_지오그래픽_채널 "wikilink") 와우 시그널이 발견된 지 35주년을 기념해, 답신을 위한 'Chasing UFOs' 프로젝트를 실시하였다. [6월 30일](https://ko.wikipedia.org/wiki/6월_30일 "wikilink") 오전 10시부터 [7월 1일](https://ko.wikipedia.org/wiki/7월_1일 "wikilink") 오후 4시까지 [트위터](../Page/트위터.md "wikilink") 해시태그 \#ChasingUFOs로 보내진 10,000개의 메시지를 하나로 묶어 암호화 하여 [아레시보 천문대를](../Page/아레시보_천문대.md "wikilink") 통해 우주로 보내지는 방식이다.\[18\]\[19\]\[20\] 아레시보 천문대의 과학자들은 외계 문명이 [지구인](https://ko.wikipedia.org/wiki/지구인 "wikilink")의 메시지를 알아볼 수 있도록 반복 신호를 넣었다.\[21\]
+[2012년](../Page/2012년.md "wikilink") [내셔널 지오그래픽 채널은](https://ko.wikipedia.org/wiki/내셔널_지오그래픽_채널 "wikilink") 와우 시그널이 발견된 지 35주년을 기념해, 답신을 위한 'Chasing UFOs' 프로젝트를 실시하였다. [6월 30일](../Page/6월_30일.md "wikilink") 오전 10시부터 [7월 1일](../Page/7월_1일.md "wikilink") 오후 4시까지 [트위터](../Page/트위터.md "wikilink") 해시태그 \#ChasingUFOs로 보내진 10,000개의 메시지를 하나로 묶어 암호화 하여 [아레시보 천문대를](../Page/아레시보_천문대.md "wikilink") 통해 우주로 보내지는 방식이다.\[18\]\[19\]\[20\] 아레시보 천문대의 과학자들은 외계 문명이 [지구인](https://ko.wikipedia.org/wiki/지구인 "wikilink")의 메시지를 알아볼 수 있도록 반복 신호를 넣었다.\[21\]
 
   - [트위터 해시태그 '\#ChasingUFOs' 바로가기](https://twitter.com/search?q=%23ChasingUFOs&src=typd)
 
 ## 같이 보기
 
   - [외계의 지적생명탐사 (SETI)](../Page/외계의_지적생명탐사.md "wikilink")
-  - [SETI@home](https://ko.wikipedia.org/wiki/SETI@home "wikilink")
+  - [SETI@home](../Page/SETI@home.md "wikilink")
   - [외계인](../Page/외계인.md "wikilink")
-  - [아레시보 메시지](https://ko.wikipedia.org/wiki/아레시보_메시지 "wikilink")
+  - [아레시보 메시지](../Page/아레시보_메시지.md "wikilink")
   - [론 시그널](https://ko.wikipedia.org/wiki/론_시그널 "wikilink")
   - [펄서](https://ko.wikipedia.org/wiki/펄서 "wikilink") [PSR B1919+21(LGM-1)](../Page/PSR_B1919+21.md "wikilink") ("난쟁이 외계인 1"), 첫 번째로 발견된 펄서
   - [퀘이사](../Page/퀘이사.md "wikilink") [CTA-102](https://ko.wikipedia.org/wiki/CTA-102 "wikilink"), SETI 탐사를 하던 중 외계의 신호로 추정되었으나, 퀘이사로 밝혀졌다.

@@ -35,7 +35,7 @@
 
 :\* 편곡 : 차길완, 박경훈
 
-:\* 기타 : [샘 리](https://ko.wikipedia.org/wiki/샘_리 "wikilink")
+:\* 기타 : [샘 리](../Page/샘_리.md "wikilink")
 
 :\* 베이스 : 이태윤
 

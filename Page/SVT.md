@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SVT](https://ko.wikipedia.org/wiki/SVT).
 
 
-**스베리예스 텔레비시온**(, 줄여서 **SVT**)은 스웨덴의 [공영](https://ko.wikipedia.org/wiki/공영_방송 "wikilink") 텔레비전 방송국이다. 스웨덴의 주요 방송사 중 하나이며, 1956년에 첫 방송을 시작하였다. 현재 SVT는 두 개의 메인 채널([SVT1](https://ko.wikipedia.org/wiki/SVT1 "wikilink"),[SVT2](https://ko.wikipedia.org/wiki/SVT2 "wikilink"))와 네 개의 보조채널을 갖추고 있다.
+**스베리예스 텔레비시온**(, 줄여서 **SVT**)은 스웨덴의 [공영](../Page/공영_방송.md "wikilink") 텔레비전 방송국이다. 스웨덴의 주요 방송사 중 하나이며, 1956년에 첫 방송을 시작하였다. 현재 SVT는 두 개의 메인 채널([SVT1](https://ko.wikipedia.org/wiki/SVT1 "wikilink"),[SVT2](https://ko.wikipedia.org/wiki/SVT2 "wikilink"))와 네 개의 보조채널을 갖추고 있다.
 
 ## 역사
 

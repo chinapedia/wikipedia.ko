@@ -72,7 +72,7 @@
 
 :\* 베이스 : 강기영
 
-:\* 기타 : [신대철](https://ko.wikipedia.org/wiki/신대철 "wikilink")
+:\* 기타 : [신대철](../Page/신대철.md "wikilink")
 
 :\* 키보드 : 함수권
 

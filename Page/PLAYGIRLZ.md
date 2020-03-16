@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PLAYGIRLZ](https://ko.wikipedia.org/wiki/PLAYGIRLZ).
 
 
-***PLAYGIRLZ***는 대한민국의 걸 그룹 [애프터스쿨](https://ko.wikipedia.org/wiki/애프터스쿨 "wikilink")의 첫 일본 정규 앨범으로, [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")를 통해 2012년 3월 14일 일본에서 발매되었다.
+***PLAYGIRLZ***는 대한민국의 걸 그룹 [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 첫 일본 정규 앨범으로, [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")를 통해 2012년 3월 14일 일본에서 발매되었다.
 
 ## 수록곡
 

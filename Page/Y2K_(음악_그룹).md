@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Y2K \( \)](https://ko.wikipedia.org/wiki/Y2K_\(_\)).
 
 
-**Y2K**는 [1999년](https://ko.wikipedia.org/wiki/1999년 "wikilink")부터 [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink")까지 짧게 활동한 음악 그룹이다. 구성원은 한국인 [고재근](../Page/고재근.md "wikilink")과 일본인 [마츠오 유이치](https://ko.wikipedia.org/wiki/마츠오_유이치 "wikilink"), [마츠오 코지](https://ko.wikipedia.org/wiki/마츠오_코지 "wikilink") 형제였다.
+**Y2K**는 [1999년](../Page/1999년.md "wikilink")부터 [2002년](../Page/2002년.md "wikilink")까지 짧게 활동한 음악 그룹이다. 구성원은 한국인 [고재근](../Page/고재근.md "wikilink")과 일본인 [마츠오 유이치](https://ko.wikipedia.org/wiki/마츠오_유이치 "wikilink"), [마츠오 코지](https://ko.wikipedia.org/wiki/마츠오_코지 "wikilink") 형제였다.
 
 1999년부터 2002년까지 록 음악 밴드 활동하였고 현재는 개별로 활동하고 있다. 총 3장의 정규 앨범을 발매하였던 그룹이었다. 활동 당시에는 톱가수 못지않은 최고의 인기를 누렸던 그룹이다.
 
-마츠오 형제는 DOGGY BAG, D-BAG, VOXPOP을 거쳐 [2006년](https://ko.wikipedia.org/wiki/2006년 "wikilink") [3월 16일부터는](https://ko.wikipedia.org/wiki/3월_16일 "wikilink") 스완키 덩크(SWANKY DANK)라는 이름으로 [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") 활동을 하고 있다.
+마츠오 형제는 DOGGY BAG, D-BAG, VOXPOP을 거쳐 [2006년](../Page/2006년.md "wikilink") [3월 16일부터는](../Page/3월_16일.md "wikilink") 스완키 덩크(SWANKY DANK)라는 이름으로 [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") 활동을 하고 있다.
 
 ## 구성원
 

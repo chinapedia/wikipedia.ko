@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Beyond Magnetic](https://ko.wikipedia.org/wiki/Beyond_Magnetic).
 
 
-***Beyond Magnetic***은 [미국](https://ko.wikipedia.org/wiki/미국 "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드인 [메탈리카](../Page/메탈리카.md "wikilink")의 9번째 정규앨범 《[Death Magnetic](https://ko.wikipedia.org/wiki/Death_Magnetic "wikilink")》에 수록되지 않은 4곡의 미발표곡을 모은 [EP로](../Page/익스텐디드_플레이.md "wikilink"), 메탈리카 결성 30주년 기념공연 시점을 기해 [아이튠즈](https://ko.wikipedia.org/wiki/아이튠즈 "wikilink")를 통한 유료 다운로드 형식으로 발매했다.
+***Beyond Magnetic***은 [미국](../Page/미국.md "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드인 [메탈리카](../Page/메탈리카.md "wikilink")의 9번째 정규앨범 《[Death Magnetic](../Page/Death_Magnetic.md "wikilink")》에 수록되지 않은 4곡의 미발표곡을 모은 [EP로](../Page/익스텐디드_플레이.md "wikilink"), 메탈리카 결성 30주년 기념공연 시점을 기해 [아이튠즈](../Page/아이튠즈.md "wikilink")를 통한 유료 다운로드 형식으로 발매했다.
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") 1월 3일에는 공식홈페이지를 통해 《Beyond Magnetic》EP를 1월 말에 미국과 전세계에 [CD형식으로](https://ko.wikipedia.org/wiki/콤팩트_디스크 "wikilink") 발매하겠다는 소식을 전했다. 한국 라이센스반에는 〈메탈리카 결성 30주년을 기념하는 의미에서 공개한 EP - BEYOND MAGNETIC〉이라는 제목으로 평론가 한경석의 글이 별지로 첨부되어 있다.
+[2012년](../Page/2012년.md "wikilink") 1월 3일에는 공식홈페이지를 통해 《Beyond Magnetic》EP를 1월 말에 미국과 전세계에 [CD형식으로](../Page/콤팩트_디스크.md "wikilink") 발매하겠다는 소식을 전했다. 한국 라이센스반에는 〈메탈리카 결성 30주년을 기념하는 의미에서 공개한 EP - BEYOND MAGNETIC〉이라는 제목으로 평론가 한경석의 글이 별지로 첨부되어 있다.
 
 ## 수록곡
 
@@ -23,10 +23,10 @@
 
 </dl>
 <ul>
-<li>제임스 헷필드 – <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, 리듬 <a href="https://ko.wikipedia.org/wiki/기타" title="wikilink">기타</a>, 리드 기타(2)</li>
+<li>제임스 헷필드 – <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, 리듬 <a href="../Page/기타.md" title="wikilink">기타</a>, 리드 기타(2)</li>
 <li>라스 울리히 – <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
 <li>커크 해밋 – 리드 기타</li>
-<li>로버트 트루히요 – <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a></li>
+<li>로버트 트루히요 – <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
 </ul></td>
 <td><dl>
 <dt>스탭</dt>

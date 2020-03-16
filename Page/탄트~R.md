@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [\~R](https://ko.wikipedia.org/wiki/\~R).
 
 
-**《탄트\~R》** (Puzzle & Action Tant-R, )은 [1993년](https://ko.wikipedia.org/wiki/1993년 "wikilink") [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 출시한 퍼즐모음 게임이다.
+**《탄트\~R》** (Puzzle & Action Tant-R, )은 [1993년](../Page/1993년.md "wikilink") [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 출시한 퍼즐모음 게임이다.
 
 ## 캐릭터 설정
 
-모든 캐릭터들의 디자인은 자사의 액션 게임 《[보난자 브라더스](https://ko.wikipedia.org/wiki/보난자_브라더스 "wikilink")》가 모티브이다.
+모든 캐릭터들의 디자인은 자사의 액션 게임 《[보난자 브라더스](../Page/보난자_브라더스.md "wikilink")》가 모티브이다.
 
 ## 게임 설정
 

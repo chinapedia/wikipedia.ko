@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [NOVASONIC \(\)](https://ko.wikipedia.org/wiki/NOVASONIC_\(\)).
 
 
-**《NOVASONIC》**은 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 록 그룹 [노바소닉](../Page/노바소닉.md "wikilink")의 첫 정규 앨범이다.
+**《NOVASONIC》**은 [대한민국](../Page/대한민국.md "wikilink")의 록 그룹 [노바소닉](../Page/노바소닉.md "wikilink")의 첫 정규 앨범이다.
 
 ## 내용
 
-1997년 해체된 [N.EX.T](https://ko.wikipedia.org/wiki/N.EX.T "wikilink")의 멤버 [김영석](../Page/김영석_\(음악가\).md "wikilink"), [김세황](../Page/김세황.md "wikilink"), [이수용과](../Page/이수용_\(드러머\).md "wikilink") [패닉의](../Page/패닉_\(음악_그룹\).md "wikilink") 랩퍼인 [김진표는](https://ko.wikipedia.org/wiki/김진표_\(가수\) "wikilink") 서로 뜻을 모으고 1998년경 [노바소닉](../Page/노바소닉.md "wikilink")이라는 새 밴드를 결성한다. 첫 앨범은 헤비메탈 음악에 랩을 하는 형태의 수록곡이 대부분이며, 타이틀이었던 〈태양의 나라〉는 세기말의 분위기를 나타내고 있다. 또 이 앨범에는 여러 밴드의 보컬들이 게스트로 참여하기도 했다.
+1997년 해체된 [N.EX.T](../Page/N.EX.T.md "wikilink")의 멤버 [김영석](../Page/김영석_\(음악가\).md "wikilink"), [김세황](../Page/김세황.md "wikilink"), [이수용과](../Page/이수용_\(드러머\).md "wikilink") [패닉의](../Page/패닉_\(음악_그룹\).md "wikilink") 랩퍼인 [김진표는](../Page/김진표_\(가수\).md "wikilink") 서로 뜻을 모으고 1998년경 [노바소닉](../Page/노바소닉.md "wikilink")이라는 새 밴드를 결성한다. 첫 앨범은 헤비메탈 음악에 랩을 하는 형태의 수록곡이 대부분이며, 타이틀이었던 〈태양의 나라〉는 세기말의 분위기를 나타내고 있다. 또 이 앨범에는 여러 밴드의 보컬들이 게스트로 참여하기도 했다.
 
 수록곡 중 〈또다른 진심〉은 당시 유행했던 댄스 게임인 [펌프 잇 업에](../Page/펌프_잇_업.md "wikilink") 수록되어 큰 인기를 누렸다.
 
@@ -37,9 +37,9 @@
 
 </dl>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/김진표_(가수)" title="wikilink">김진표</a> - <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>, 보컬(<a href="https://ko.wikipedia.org/wiki/서브보컬" title="wikilink">서브보컬</a>), <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>(2~4, 6, 7, 10~12)</li>
-<li><a href="../Page/김세황.md" title="wikilink">김세황</a> - <a href="https://ko.wikipedia.org/wiki/전기_기타" title="wikilink">리드</a>/<a href="https://ko.wikipedia.org/wiki/리듬_기타" title="wikilink">리듬 기타</a>, 백 <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, 코러스(2~4, 6, 7, 10~12)</li>
-<li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - <a href="https://ko.wikipedia.org/wiki/베이스_기타" title="wikilink">베이스 기타</a>, 백 보컬, 코러스(2~4, 6, 7, 10~12)</li>
+<li><a href="../Page/김진표_(가수).md" title="wikilink">김진표</a> - <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>, 보컬(<a href="https://ko.wikipedia.org/wiki/서브보컬" title="wikilink">서브보컬</a>), <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>(2~4, 6, 7, 10~12)</li>
+<li><a href="../Page/김세황.md" title="wikilink">김세황</a> - <a href="../Page/전기_기타.md" title="wikilink">리드</a>/<a href="https://ko.wikipedia.org/wiki/리듬_기타" title="wikilink">리듬 기타</a>, 백 <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, 코러스(2~4, 6, 7, 10~12)</li>
+<li><a href="../Page/김영석_(음악가).md" title="wikilink">김영석</a> - <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>, 백 보컬, 코러스(2~4, 6, 7, 10~12)</li>
 <li><a href="../Page/이수용_(드러머).md" title="wikilink">이수용</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>, <a href="https://ko.wikipedia.org/wiki/타악기" title="wikilink">타악기</a>, 코러스(2~4, 6, 7, 10~12)</li>
 </ul>
 <dl>
@@ -53,7 +53,7 @@
 <li>홍경민 - 코러스(4, 7)</li>
 <li><a href="../Page/이윤정_(1976년).md" title="wikilink">Vena</a> - 보컬(4)</li>
 <li><a href="https://ko.wikipedia.org/wiki/김성면" title="wikilink">김성면</a> - 보컬(6)</li>
-<li><a href="https://ko.wikipedia.org/wiki/안흥찬" title="wikilink">안흥찬</a>(<a href="https://ko.wikipedia.org/wiki/크래쉬_(대한민국의_밴드)" title="wikilink">크래쉬</a>) - 보컬(10)</li>
+<li><a href="https://ko.wikipedia.org/wiki/안흥찬" title="wikilink">안흥찬</a>(<a href="../Page/크래쉬_(대한민국의_밴드).md" title="wikilink">크래쉬</a>) - 보컬(10)</li>
 </ul></td>
 <td><dl>
 <dt>스탭</dt>

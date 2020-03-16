@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
 
 
-**토머스 존 왓슨 시니어**(, [1874년](https://ko.wikipedia.org/wiki/1874년 "wikilink") [2월 17일](https://ko.wikipedia.org/wiki/2월_17일 "wikilink") \~ [1956년](https://ko.wikipedia.org/wiki/1956년 "wikilink") [6월 19일](https://ko.wikipedia.org/wiki/6월_19일 "wikilink"))는 [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")의 전 회장이자 CEO이다.\[1\] 그는 1914년부터 1956년까지 이 회사가 국제적으로 성장하는 일을 감독하였다. 왓슨은 IBM만의 경영 방식과 기업 문화를 개발(Development)하였으며, 대개 [천공 카드](../Page/천공_카드.md "wikilink") [태블레이팅 머신](https://ko.wikipedia.org/wiki/:en:Tabulating_machine "wikilink")(표 작성기)를 계기로 이 기업을 효율성 높은 판매 조직으로 전환시켰다. 자수성가한 지도적인 실업가\[2\]인 그는 당시 가장 부유한 사람들 가운데 한 명이었으며 1956년 죽음에 이르렀을 때 세계 최고의 세일즈맨으로 불리기도 했다.\[3\]
+**토머스 존 왓슨 시니어**(, [1874년](../Page/1874년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") \~ [1956년](../Page/1956년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink"))는 [IBM](../Page/IBM.md "wikilink")의 전 회장이자 CEO이다.\[1\] 그는 1914년부터 1956년까지 이 회사가 국제적으로 성장하는 일을 감독하였다. 왓슨은 IBM만의 경영 방식과 기업 문화를 개발(Development)하였으며, 대개 [천공 카드](../Page/천공_카드.md "wikilink") [태블레이팅 머신](https://ko.wikipedia.org/wiki/:en:Tabulating_machine "wikilink")(표 작성기)를 계기로 이 기업을 효율성 높은 판매 조직으로 전환시켰다. 자수성가한 지도적인 실업가\[2\]인 그는 당시 가장 부유한 사람들 가운데 한 명이었으며 1956년 죽음에 이르렀을 때 세계 최고의 세일즈맨으로 불리기도 했다.\[3\]
 
 ## 같이 보기
 
-  - [IBM](https://ko.wikipedia.org/wiki/IBM "wikilink")
-  - [IBM 왓슨 연구소](https://ko.wikipedia.org/wiki/IBM_왓슨_연구소 "wikilink")
+  - [IBM](../Page/IBM.md "wikilink")
+  - [IBM 왓슨 연구소](../Page/IBM_왓슨_연구소.md "wikilink")
   - [왓슨 (컴퓨터)](../Page/왓슨_\(컴퓨터\).md "wikilink")
 
 ## 각주

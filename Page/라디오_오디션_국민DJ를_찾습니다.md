@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  DJ ](https://ko.wikipedia.org/wiki/__DJ_).
 
 
-**《라디오 오디션 국민DJ를 찾습니다》**는 방송인 김승현의 진행으로 [SBS 러브FM에서](https://ko.wikipedia.org/wiki/SBS_러브FM "wikilink") 방송되고 있는 [라디오](https://ko.wikipedia.org/wiki/라디오 "wikilink") 프로그램이다. 2011년 9월 19일 \~ 2012년 3월 7일까지는 1기가 진행되었고 2012년 3월 26일부터 2012년 12월까지 2기 오디션을 진행하고 종영하였다.
+**《라디오 오디션 국민DJ를 찾습니다》**는 방송인 김승현의 진행으로 [SBS 러브FM에서](../Page/SBS_러브FM.md "wikilink") 방송되고 있는 [라디오](../Page/라디오.md "wikilink") 프로그램이다. 2011년 9월 19일 \~ 2012년 3월 7일까지는 1기가 진행되었고 2012년 3월 26일부터 2012년 12월까지 2기 오디션을 진행하고 종영하였다.
 
 ## 특징
 
@@ -10,14 +10,14 @@
 ## 선발일정
 
   - 1기 일정
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [8월 8일](https://ko.wikipedia.org/wiki/8월_8일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [1월 31일](https://ko.wikipedia.org/wiki/1월_31일 "wikilink") : 예선 지원접수
-  - [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [9월 19일](https://ko.wikipedia.org/wiki/9월_19일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 10일](https://ko.wikipedia.org/wiki/2월_10일 "wikilink") : 예선(월-목 하루 3명 지원자중 1명 선발.금 선발자 4명중 주장원 1명 선발)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 15일](https://ko.wikipedia.org/wiki/2월_15일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 24일](https://ko.wikipedia.org/wiki/2월_24일 "wikilink") : 본선 1차(준.준 결선)(주장원 20명.패자 부활전 우승자 4명 총 24명중 본선 2차 진출자 8명 선발)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [2월 27일](https://ko.wikipedia.org/wiki/2월_27일 "wikilink") \~ [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 1일](https://ko.wikipedia.org/wiki/3월_1일 "wikilink") : 본선 2차(준결선)(8명중 결선 진출자 4명 선발)
-  - [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 7일](https://ko.wikipedia.org/wiki/3월_7일 "wikilink") : 4명중 1명 선발
+  - [2011년](../Page/2011년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") : 예선 지원접수
+  - [2011년](../Page/2011년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") : 예선(월-목 하루 3명 지원자중 1명 선발.금 선발자 4명중 주장원 1명 선발)
+  - [2012년](../Page/2012년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") : 본선 1차(준.준 결선)(주장원 20명.패자 부활전 우승자 4명 총 24명중 본선 2차 진출자 8명 선발)
+  - [2012년](../Page/2012년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : 본선 2차(준결선)(8명중 결선 진출자 4명 선발)
+  - [2012년](../Page/2012년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink") : 4명중 1명 선발
   - 2기 일정
 
-[2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") [3월 26일](https://ko.wikipedia.org/wiki/3월_26일 "wikilink") \~ : 예선(월-목 하루 3명 지원자중 1명 선발.금 선발자 4명중 주장원 1명 선발)
+[2012년](../Page/2012년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") \~ : 예선(월-목 하루 3명 지원자중 1명 선발.금 선발자 4명중 주장원 1명 선발)
 
   - 세부 진행 일정은 방송 과정에서 다소 조정될 수 있습니다
 

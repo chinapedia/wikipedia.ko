@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBN ](https://ko.wikipedia.org/wiki/MBN_).
 
 
-**MBN 뉴스와이드**(MBN NEWSWIDE)는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")에서 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 6시 10분부터 7시 30분에 방송되는 [매일방송의 뉴스 프로그램이다](../Page/매일방송의_뉴스_프로그램.md "wikilink").
+**MBN 뉴스와이드**(MBN NEWSWIDE)는 [대한민국](../Page/대한민국.md "wikilink")에서 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 6시 10분부터 7시 30분에 방송되는 [매일방송의 뉴스 프로그램이다](../Page/매일방송의_뉴스_프로그램.md "wikilink").
 
 ## 기획의도
 
@@ -9,7 +9,7 @@
 
 ## 특이 사항
 
-[2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") [3월](https://ko.wikipedia.org/wiki/3월 "wikilink")부터 방송이 끝난후 프로그램 광고를 하지 않고 곧이어 방송하고 있다. 그리고 패널진 중에 썰렁하거나 얼렁뚱땅 같은 발언을 하면 [까마귀](../Page/까마귀.md "wikilink") 울음소리 효과음이 나온다.
+[2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink")부터 방송이 끝난후 프로그램 광고를 하지 않고 곧이어 방송하고 있다. 그리고 패널진 중에 썰렁하거나 얼렁뚱땅 같은 발언을 하면 [까마귀](../Page/까마귀.md "wikilink") 울음소리 효과음이 나온다.
 
 ## 구성
 
@@ -22,35 +22,35 @@
 
 ## 방송 시간
 
-현재 방송 시간은 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 13일의](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") [평일](https://ko.wikipedia.org/wiki/평일 "wikilink")을 기준으로 한다.
+현재 방송 시간은 [2015년](../Page/2015년.md "wikilink") [4월 13일의](../Page/4월_13일.md "wikilink") [평일](https://ko.wikipedia.org/wiki/평일 "wikilink")을 기준으로 한다.
 
-※ 본 방송 시간은 [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") 방송시간 변경 이후 기준이며, [공휴일](https://ko.wikipedia.org/wiki/공휴일 "wikilink")이나 특집 프로그램이 편성되면 결방될 수 있다.
+※ 본 방송 시간은 [2015년](../Page/2015년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") 방송시간 변경 이후 기준이며, [공휴일](https://ko.wikipedia.org/wiki/공휴일 "wikilink")이나 특집 프로그램이 편성되면 결방될 수 있다.
 
-| 방송 채널                                                                                                                                                                              | 방송 기간                                                                                                                                                                                                                                  | 방송 시간                        | 방송 분량   | 비고 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------- | -- |
-| [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink")                                                                                                                                | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 10일](https://ko.wikipedia.org/wiki/4월_10일 "wikilink") | 매주 평일 오후 5시 30분 \~ 저녁 6시 40분 | 1시간 10분 |    |
-| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") [4월 13일](https://ko.wikipedia.org/wiki/4월_13일 "wikilink") \~ [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 일자 미상 | 매주 평일 오후 5시 30분 \~ 저녁 7시 40분                                                                                                                                                                                                           | 2시간 10분                      |         |    |
-| [2015년](https://ko.wikipedia.org/wiki/2015년 "wikilink") 일자 미상 \~ [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 일자 미상                                                     | 매주 평일 저녁 6시 10분 \~ 7시 40분                                                                                                                                                                                                              | 1시간 30분                      |         |    |
-| [2016년](https://ko.wikipedia.org/wiki/2016년 "wikilink") 일자 미상 \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink")         | 매주 평일 저녁 6시 \~ 7시 30분                                                                                                                                                                                                                  | 1시간 30분                      |         |    |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [7월](https://ko.wikipedia.org/wiki/7월 "wikilink") \~ **현재**                                                                | 매주 평일 저녁 6시 10분 \~ 7시 30분                                                                                                                                                                                                              | 1시간 20분                      |         |    |
+| 방송 채널                                                                                                                     | 방송 기간                                                                                                                                                      | 방송 시간                        | 방송 분량   | 비고 |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------- | -- |
+| [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink")                                                                       | [2011년](../Page/2011년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") | 매주 평일 오후 5시 30분 \~ 저녁 6시 40분 | 1시간 10분 |    |
+| [2015년](../Page/2015년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") 일자 미상 | 매주 평일 오후 5시 30분 \~ 저녁 7시 40분                                                                                                                               | 2시간 10분                      |         |    |
+| [2015년](../Page/2015년.md "wikilink") 일자 미상 \~ [2016년](../Page/2016년.md "wikilink") 일자 미상                                  | 매주 평일 저녁 6시 10분 \~ 7시 40분                                                                                                                                  | 1시간 30분                      |         |    |
+| [2016년](../Page/2016년.md "wikilink") 일자 미상 \~ [2017년](../Page/2017년.md "wikilink") [6월](../Page/6월.md "wikilink")         | 매주 평일 저녁 6시 \~ 7시 30분                                                                                                                                      | 1시간 30분                      |         |    |
+| [2017년](../Page/2017년.md "wikilink") [7월](../Page/7월.md "wikilink") \~ **현재**                                             | 매주 평일 저녁 6시 10분 \~ 7시 30분                                                                                                                                  | 1시간 20분                      |         |    |
 
 ## 타이틀 변천사
 
-현재 타이틀은 ([종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink"))출범으로 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 3일을](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") 기준으로 한다.
+현재 타이틀은 ([종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink"))출범으로 [2011년](../Page/2011년.md "wikilink") [12월 3일을](../Page/12월_3일.md "wikilink") 기준으로 한다.
 
-| 대수 | 타이틀                                                                                                                         | 방송 기간                                                                                                                                                                                                                                    | 비고 |
-| -- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| 1대 | [MBN 뉴스와이드](https://ko.wikipedia.org/wiki/MBN_뉴스와이드 "wikilink") (보도채널)                                                      | [2003년](https://ko.wikipedia.org/wiki/2003년 "wikilink") [8월 25일](https://ko.wikipedia.org/wiki/8월_25일 "wikilink") \~ [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 27일](https://ko.wikipedia.org/wiki/11월_27일 "wikilink") |    |
-| 2대 | [MBN 뉴스와이드](https://ko.wikipedia.org/wiki/MBN_뉴스와이드 "wikilink") ([종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")) | [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 3일](https://ko.wikipedia.org/wiki/12월_3일 "wikilink") \~ **현재**                                                                                                              |    |
+| 대수 | 타이틀                                                                                                      | 방송 기간                                                                                                                                                        | 비고 |
+| -- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -- |
+| 1대 | [MBN 뉴스와이드](../Page/MBN_뉴스와이드.md "wikilink") (보도채널)                                                      | [2003년](../Page/2003년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") |    |
+| 2대 | [MBN 뉴스와이드](../Page/MBN_뉴스와이드.md "wikilink") ([종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")) | [2011년](../Page/2011년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") \~ **현재**                                                                        |    |
 
 ## 진행자
 
-  - [송지헌](https://ko.wikipedia.org/wiki/송지헌 "wikilink") ([2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [6월](https://ko.wikipedia.org/wiki/6월 "wikilink") \~ [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 13일](https://ko.wikipedia.org/wiki/12월_13일 "wikilink"))
+  - [송지헌](https://ko.wikipedia.org/wiki/송지헌 "wikilink") ([2013년](../Page/2013년.md "wikilink") [6월](../Page/6월.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink"))
   - [김만흠](../Page/김만흠.md "wikilink")
-  - [김형오](https://ko.wikipedia.org/wiki/김형오 "wikilink")
-  - [이상훈](https://ko.wikipedia.org/wiki/이상훈 "wikilink")
-  - [정광재](https://ko.wikipedia.org/wiki/정광재 "wikilink") ([2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 14일](https://ko.wikipedia.org/wiki/12월_14일 "wikilink") \~ [12월 15일](https://ko.wikipedia.org/wiki/12월_15일 "wikilink"))
-  - [백운기](../Page/백운기.md "wikilink") ([2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") [12월 18일](https://ko.wikipedia.org/wiki/12월_18일 "wikilink") \~ 현재)
+  - [김형오](../Page/김형오.md "wikilink")
+  - [이상훈](../Page/이상훈.md "wikilink")
+  - [정광재](https://ko.wikipedia.org/wiki/정광재 "wikilink") ([2018년](../Page/2018년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") \~ [12월 15일](../Page/12월_15일.md "wikilink"))
+  - [백운기](../Page/백운기.md "wikilink") ([2018년](../Page/2018년.md "wikilink") [12월 18일](../Page/12월_18일.md "wikilink") \~ 현재)
 
 ## 외부 링크
 

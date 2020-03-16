@@ -50,7 +50,7 @@
 
 <!-- end list -->
 
-1.  Elektrobit - [EB GUIDE](https://ko.wikipedia.org/wiki/EB_GUIDE "wikilink")
+1.  Elektrobit - [EB GUIDE](../Page/EB_GUIDE.md "wikilink")
 2.  Altera - PARIS
 3.  Socionext - [CGI Studio](https://ko.wikipedia.org/wiki/CGI_Studio "wikilink")
 

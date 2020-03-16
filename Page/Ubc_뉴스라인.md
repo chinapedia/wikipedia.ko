@@ -14,7 +14,7 @@
 ## 관련 항목
 
   - [ubc](../Page/울산방송.md "wikilink")
-  - [SBS 오 뉴스](https://ko.wikipedia.org/wiki/SBS_오_뉴스 "wikilink")
+  - [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink")
 
 ## 울산방송의 다른 뉴스 프로그램
 

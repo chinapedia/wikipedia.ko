@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Keisoku-Fujitsu.jpg "wikilink") 제조.\]\] **K 컴퓨터**(K computer, 케이 컴퓨터\[1\])는 [후지쯔](../Page/후지쯔.md "wikilink")가 생산한 [슈퍼컴퓨터](https://ko.wikipedia.org/wiki/슈퍼컴퓨터 "wikilink")로, [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") [이화학연구소](https://ko.wikipedia.org/wiki/이화학연구소 "wikilink") 캠퍼스에 설치되어 있다.\[2\]\[3\]\[4\] K 컴퓨터는 80,000개 이상의 계사나 노드와 더불어 [분산 메모리](https://ko.wikipedia.org/wiki/분산_메모리 "wikilink") 구조에 기반을 둔다.\[5\]
+[thumb](https://ko.wikipedia.org/wiki/파일:Keisoku-Fujitsu.jpg "wikilink") 제조.\]\] **K 컴퓨터**(K computer, 케이 컴퓨터\[1\])는 [후지쯔](../Page/후지쯔.md "wikilink")가 생산한 [슈퍼컴퓨터](../Page/슈퍼컴퓨터.md "wikilink")로, [일본](../Page/일본.md "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") [이화학연구소](../Page/이화학연구소.md "wikilink") 캠퍼스에 설치되어 있다.\[2\]\[3\]\[4\] K 컴퓨터는 80,000개 이상의 계사나 노드와 더불어 [분산 메모리](https://ko.wikipedia.org/wiki/분산_메모리 "wikilink") 구조에 기반을 둔다.\[5\]
 
 2011년 6월 [TOP500](../Page/TOP500.md "wikilink")은 K를 세상에서 가장 빠른 슈퍼 컴퓨터로 순위를 올렸는데, 속도는 2011년 11월 8 [페타플롭스](https://ko.wikipedia.org/wiki/페타플롭스 "wikilink")를 넘어섰으며, 나중에 최고 10 페타플롭스를 달성한 최초의 컴퓨터가 되었다.\[6\]\[7\] 2012년 6월에 순위 경쟁에 참가될 예정이다.\[8\]
 
@@ -24,7 +24,7 @@
 
 [분류:슈퍼컴퓨터](https://ko.wikipedia.org/wiki/분류:슈퍼컴퓨터 "wikilink") [분류:2011년 과학](https://ko.wikipedia.org/wiki/분류:2011년_과학 "wikilink") [분류:후지쯔](https://ko.wikipedia.org/wiki/분류:후지쯔 "wikilink") [분류:이화학연구소](https://ko.wikipedia.org/wiki/분류:이화학연구소 "wikilink")
 
-1.  여기서 케이(京)는 자연수 [경을](https://ko.wikipedia.org/wiki/10000000000000000 "wikilink") 뜻함
+1.  여기서 케이(京)는 자연수 [경을](../Page/10000000000000000.md "wikilink") 뜻함
 2.
 3.
 4.

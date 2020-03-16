@@ -3,7 +3,7 @@
 
 **[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") G조**는 [그리스를](../Page/그리스_축구_국가대표팀.md "wikilink") 비롯하여 [슬로바키아](../Page/슬로바키아_축구_국가대표팀.md "wikilink"), [보스니아 헤르체고비나](../Page/보스니아_헤르체고비나_축구_국가대표팀.md "wikilink"), [리투아니아](../Page/리투아니아_축구_국가대표팀.md "wikilink"), [라트비아](../Page/라트비아_축구_국가대표팀.md "wikilink"), [리히텐슈타인으로](../Page/리히텐슈타인_축구_국가대표팀.md "wikilink") 구성되어 있다.
 
-이 조의 1위 팀은 [2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 본선으로 직행하고, 2위 팀은 A \~ F조와 H조 \~ I조의 2위 팀과 승점-골 득실차-다득점 순으로 비교하여 최하위가 되면 탈락하며, 나머지 8팀에 포함되면 두 팀씩 무작위 추첨으로 [플레이오프를](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink") 치르게 된다. [플레이오프에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink") 승리하면 본선에 진출하게 된다.\[1\]
+이 조의 1위 팀은 [2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 본선으로 직행하고, 2위 팀은 A \~ F조와 H조 \~ I조의 2위 팀과 승점-골 득실차-다득점 순으로 비교하여 최하위가 되면 탈락하며, 나머지 8팀에 포함되면 두 팀씩 무작위 추첨으로 [플레이오프를](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink") 치르게 된다. [플레이오프에서](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink") 승리하면 본선에 진출하게 된다.\[1\]
 
 ## 경기 결과
 
@@ -154,7 +154,7 @@
 </tbody>
 </table>
 
-경기 일정은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [11월 18일](https://ko.wikipedia.org/wiki/11월_18일 "wikilink") [슬로바키아](https://ko.wikipedia.org/wiki/슬로바키아 "wikilink") [브라티슬라바](https://ko.wikipedia.org/wiki/브라티슬라바 "wikilink")에서 결정되었다.\[2\]
+경기 일정은 [2011년](../Page/2011년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") [슬로바키아](../Page/슬로바키아.md "wikilink") [브라티슬라바](../Page/브라티슬라바.md "wikilink")에서 결정되었다.\[2\]
 
 -----
 
@@ -227,9 +227,9 @@
   - [2014년 FIFA 월드컵 유럽 지역 예선 D조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_D조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 E조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_E조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 F조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_F조.md "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 H조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_H조 "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 H조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_H조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 I조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_I조.md "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 플레이오프](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 플레이오프](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink")
 
 ## 각주
 

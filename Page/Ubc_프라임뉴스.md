@@ -16,7 +16,7 @@
 
 ## 제공 시보
 
-  - [춘해보건대학교](https://ko.wikipedia.org/wiki/춘해보건대학교 "wikilink")
+  - [춘해보건대학교](../Page/춘해보건대학교.md "wikilink")
   - [울산과학기술원](https://ko.wikipedia.org/wiki/울산과학기술원 "wikilink")
   - 에어플러스 매직썬가든
 
@@ -28,7 +28,7 @@
 ## 같이 보기
 
   - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 울산 \<[KBS울산](../Page/KBS울산방송국.md "wikilink")\>
-  - [MBC 뉴스데스크](https://ko.wikipedia.org/wiki/MBC_뉴스데스크 "wikilink") 울산(울산MBC 뉴스데스크) \<[울산문화방송](../Page/울산문화방송.md "wikilink")\>
+  - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 울산(울산MBC 뉴스데스크) \<[울산문화방송](../Page/울산문화방송.md "wikilink")\>
 
 ## 울산방송의 다른 뉴스 프로그램
 

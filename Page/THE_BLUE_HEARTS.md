@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE BLUE HEARTS](https://ko.wikipedia.org/wiki/THE_BLUE_HEARTS).
 
 
-**THE BLUE HEARTS**는 [1985년](https://ko.wikipedia.org/wiki/1985년 "wikilink")에 결성된 [일본](https://ko.wikipedia.org/wiki/일본 "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). [1980년대](https://ko.wikipedia.org/wiki/1980년대 "wikilink") 후반부터 [1990년대](https://ko.wikipedia.org/wiki/1990년대 "wikilink") 전반까지 활동 했으며, [1995년](https://ko.wikipedia.org/wiki/1995년 "wikilink")에 해체했다.
+**THE BLUE HEARTS**는 [1985년](../Page/1985년.md "wikilink")에 결성된 [일본](../Page/일본.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). [1980년대](../Page/1980년대.md "wikilink") 후반부터 [1990년대](../Page/1990년대.md "wikilink") 전반까지 활동 했으며, [1995년](../Page/1995년.md "wikilink")에 해체했다.
 
 ## 음반 목록
 

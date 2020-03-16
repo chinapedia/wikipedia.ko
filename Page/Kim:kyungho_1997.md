@@ -151,7 +151,7 @@
 
 :\* 편곡 : 강린
 
-:\* 기타 : [샘 리](https://ko.wikipedia.org/wiki/샘_리 "wikilink")
+:\* 기타 : [샘 리](../Page/샘_리.md "wikilink")
 
 :\* 컴퓨터 프로그래밍 : 강린
 

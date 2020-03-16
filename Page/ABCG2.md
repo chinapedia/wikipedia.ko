@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [ABCG2](https://ko.wikipedia.org/wiki/ABCG2).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Ideogram_human_chromosome_4.svg "wikilink") **ATP-binding cassette super-family G member 2**는 ABCG2 [유전자](https://ko.wikipedia.org/wiki/유전자 "wikilink")에 의해 암호화되는 인간의 [단백질](https://ko.wikipedia.org/wiki/단백질 "wikilink")이다.\[1\]\[2\] ABCG2는 **CDw338**로 명기되기도 한다. ABCG2는 희귀 [혈액형](https://ko.wikipedia.org/wiki/혈액형 "wikilink")의 일종으로서 브라이언 발리프 박사에 의해 발견되었으며, 주니어형을 구성한다.\[3\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Ideogram_human_chromosome_4.svg "wikilink") **ATP-binding cassette super-family G member 2**는 ABCG2 [유전자](../Page/유전자.md "wikilink")에 의해 암호화되는 인간의 [단백질](../Page/단백질.md "wikilink")이다.\[1\]\[2\] ABCG2는 **CDw338**로 명기되기도 한다. ABCG2는 희귀 [혈액형](../Page/혈액형.md "wikilink")의 일종으로서 브라이언 발리프 박사에 의해 발견되었으며, 주니어형을 구성한다.\[3\]
 
 ## 같이 보기
 
-  - [ABC수송체](https://ko.wikipedia.org/wiki/ABC수송체 "wikilink")
+  - [ABC수송체](../Page/ABC수송체.md "wikilink")
 
 ## 각주
 

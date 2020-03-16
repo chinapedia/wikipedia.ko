@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Born This Way Ball Tour](https://ko.wikipedia.org/wiki/The_Born_This_Way_Ball_Tour).
 
 
-**The Born This Way Ball Tour**는 미국의 가수 [레이디 가가의](https://ko.wikipedia.org/wiki/레이디_가가 "wikilink") 세 번째 콘서트 투어로, 두 번째 정규 앨범인 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")* (2011)를 서포터한다. 2012년 8월까지 유럽, 아시아, 오세아니아를 방문해 총 110회 공연을 펼칠 예정으로, 2012년 연말에는 라틴 아메리카를 방문할 예정이다. 그리고 2013년부터는 북아메리카 투어를 할 것이었으나 엉덩이 부상으로 인해 중단하였다.
+**The Born This Way Ball Tour**는 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 세 번째 콘서트 투어로, 두 번째 정규 앨범인 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")* (2011)를 서포터한다. 2012년 8월까지 유럽, 아시아, 오세아니아를 방문해 총 110회 공연을 펼칠 예정으로, 2012년 연말에는 라틴 아메리카를 방문할 예정이다. 그리고 2013년부터는 북아메리카 투어를 할 것이었으나 엉덩이 부상으로 인해 중단하였다.
 
 ## 세트리스트
 
@@ -13,7 +13,7 @@
   - "Government Hooker"
   - "[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")"
   - "Bloody Mary"
-  - "[Bad Romance](https://ko.wikipedia.org/wiki/Bad_Romance "wikilink")"
+  - "[Bad Romance](../Page/Bad_Romance.md "wikilink")"
   - "[Judas](https://ko.wikipedia.org/wiki/Judas "wikilink")"
 
 <!-- end list -->
@@ -23,8 +23,8 @@
 <!-- end list -->
 
   - "Fashion of His Love"
-  - "[Just Dance](https://ko.wikipedia.org/wiki/Just_Dance "wikilink")"
-  - "[LoveGame](https://ko.wikipedia.org/wiki/LoveGame "wikilink")"
+  - "[Just Dance](../Page/Just_Dance.md "wikilink")"
+  - "[LoveGame](../Page/LoveGame.md "wikilink")"
   - "[Telephone](https://ko.wikipedia.org/wiki/Telephone "wikilink")"
 
 <!-- end list -->
@@ -89,13 +89,13 @@
 <tr class="even">
 <td><p>2012년 4월 27일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대한민국" title="wikilink">대한민국</a></p></td>
+<td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p><a href="../Page/서울올림픽주경기장.md" title="wikilink">올림픽주경기장</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2012년 5월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍콩" title="wikilink">홍콩</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/중화인민공화국" title="wikilink">중화인민공화국</a></p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
+<td><p><a href="../Page/중화인민공화국.md" title="wikilink">중화인민공화국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아시아월드_아레나" title="wikilink">아시아월드 아레나</a></p></td>
 </tr>
 <tr class="even">
@@ -107,8 +107,8 @@
 <tr class="odd">
 <td><p>2012년 5월 10일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/일본" title="wikilink">일본</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사이타마_슈퍼_아레나" title="wikilink">사이타마 슈퍼 아레나</a></p></td>
+<td><p><a href="../Page/일본.md" title="wikilink">일본</a></p></td>
+<td><p><a href="../Page/사이타마_슈퍼_아레나.md" title="wikilink">사이타마 슈퍼 아레나</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012년 5월 28일</p></td>
@@ -136,7 +136,7 @@
 <tr class="odd">
 <td><p>2012년 6월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오클랜드" title="wikilink">오클랜드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴질랜드" title="wikilink">뉴질랜드</a></p></td>
+<td><p><a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p><a href="../Page/벡터_아레나.md" title="wikilink">벡터 아레나</a></p></td>
 </tr>
 <tr class="even">
@@ -153,8 +153,8 @@
 </tr>
 <tr class="even">
 <td><p>2012년 6월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/브리즈번" title="wikilink">브리즈번</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트레일리아" title="wikilink">오스트레일리아</a></p></td>
+<td><p><a href="../Page/브리즈번.md" title="wikilink">브리즈번</a></p></td>
+<td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/브리즈번_컨벤션센터" title="wikilink">브리즈번 컨벤션센터</a></p></td>
 </tr>
 <tr class="odd">
@@ -171,7 +171,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012년 6월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시드니" title="wikilink">시드니</a></p></td>
+<td><p><a href="../Page/시드니.md" title="wikilink">시드니</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/시드니_수퍼_돔" title="wikilink">시드니 수퍼 돔</a></p></td>
 <td></td>
 </tr>
@@ -195,8 +195,8 @@
 </tr>
 <tr class="odd">
 <td><p>2012년 6월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멜버른" title="wikilink">멜버른</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로드_레이버_아레나" title="wikilink">로드 레이버 아레나</a></p></td>
+<td><p><a href="../Page/멜버른.md" title="wikilink">멜버른</a></p></td>
+<td><p><a href="../Page/로드_레이버_아레나.md" title="wikilink">로드 레이버 아레나</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -219,7 +219,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012년 7월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/퍼스_(웨스턴오스트레일리아주)" title="wikilink">퍼스</a></p></td>
+<td><p><a href="../Page/퍼스_(웨스턴오스트레일리아주).md" title="wikilink">퍼스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/버스우드_돔" title="wikilink">버스우드 돔</a></p></td>
 <td></td>
 </tr>
@@ -243,44 +243,44 @@
 </tr>
 <tr class="odd">
 <td><p>August 14, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/소피아" title="wikilink">소피아</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/불가리아" title="wikilink">불가리아</a></p></td>
+<td><p><a href="../Page/소피아.md" title="wikilink">소피아</a></p></td>
+<td><p><a href="../Page/불가리아.md" title="wikilink">불가리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Armeets_Arena" title="wikilink">Arena Armeets</a></p></td>
 </tr>
 <tr class="even">
 <td><p>August 16, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부쿠레슈티" title="wikilink">부쿠레슈티</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루마니아" title="wikilink">루마니아</a></p></td>
+<td><p><a href="../Page/부쿠레슈티.md" title="wikilink">부쿠레슈티</a></p></td>
+<td><p><a href="../Page/루마니아.md" title="wikilink">루마니아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Piaţa_Constituţiei" title="wikilink">Piaţa Constituţiei</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>August 18, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빈" title="wikilink">빈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오스트리아" title="wikilink">오스트리아</a></p></td>
+<td><p><a href="../Page/빈.md" title="wikilink">빈</a></p></td>
+<td><p><a href="../Page/오스트리아.md" title="wikilink">오스트리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Wiener_Stadthalle" title="wikilink">Wiener Stadthalle</a></p></td>
 </tr>
 <tr class="even">
 <td><p>August 21, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빌뉴스" title="wikilink">빌뉴스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리투아니아" title="wikilink">리투아니아</a></p></td>
+<td><p><a href="../Page/빌뉴스.md" title="wikilink">빌뉴스</a></p></td>
+<td><p><a href="../Page/리투아니아.md" title="wikilink">리투아니아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Vingis_Park" title="wikilink">Vingio Parko Estrada</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>August 23, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리가" title="wikilink">리가</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/라트비아" title="wikilink">라트비아</a></p></td>
+<td><p><a href="../Page/리가.md" title="wikilink">리가</a></p></td>
+<td><p><a href="../Page/라트비아.md" title="wikilink">라트비아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Mežaparks" title="wikilink">Mežaparka Lielā Estrāde</a></p></td>
 </tr>
 <tr class="even">
 <td><p>August 25, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/탈린" title="wikilink">탈린</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에스토니아" title="wikilink">에스토니아</a></p></td>
+<td><p><a href="../Page/탈린.md" title="wikilink">탈린</a></p></td>
+<td><p><a href="../Page/에스토니아.md" title="wikilink">에스토니아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Tallinn_Song_Festival_Grounds" title="wikilink">Tallinn Song Festival Grounds</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>August 27, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/헬싱키" title="wikilink">헬싱키</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/핀란드" title="wikilink">핀란드</a></p></td>
+<td><p><a href="../Page/헬싱키.md" title="wikilink">헬싱키</a></p></td>
+<td><p><a href="../Page/핀란드.md" title="wikilink">핀란드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Hartwall_Areena" title="wikilink">Hartwall Areena</a></p></td>
 </tr>
 <tr class="even">
@@ -291,8 +291,8 @@
 </tr>
 <tr class="odd">
 <td><p>August 30, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스톡홀름" title="wikilink">스톡홀름</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스웨덴" title="wikilink">스웨덴</a></p></td>
+<td><p><a href="../Page/스톡홀름.md" title="wikilink">스톡홀름</a></p></td>
+<td><p><a href="../Page/스웨덴.md" title="wikilink">스웨덴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Ericsson_Globe" title="wikilink">Ericsson Globe</a></p></td>
 </tr>
 <tr class="even">
@@ -303,14 +303,14 @@
 </tr>
 <tr class="odd">
 <td><p>September 2, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/코펜하겐" title="wikilink">코펜하겐</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/덴마크" title="wikilink">덴마크</a></p></td>
+<td><p><a href="../Page/코펜하겐.md" title="wikilink">코펜하겐</a></p></td>
+<td><p><a href="../Page/덴마크.md" title="wikilink">덴마크</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Parken_Stadium" title="wikilink">Parken Stadium</a></p></td>
 </tr>
 <tr class="even">
 <td><p>September 4, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쾰른" title="wikilink">쾰른</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/독일" title="wikilink">독일</a></p></td>
+<td><p><a href="../Page/쾰른.md" title="wikilink">쾰른</a></p></td>
+<td><p><a href="../Page/독일.md" title="wikilink">독일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Lanxess_Arena" title="wikilink">Lanxess Arena</a></p></td>
 </tr>
 <tr class="odd">
@@ -321,8 +321,8 @@
 </tr>
 <tr class="even">
 <td><p>September 8, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/런던" title="wikilink">런던</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영국" title="wikilink">영국</a></p></td>
+<td><p><a href="../Page/런던.md" title="wikilink">런던</a></p></td>
+<td><p><a href="../Page/영국.md" title="wikilink">영국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Twickenham_Stadium" title="wikilink">Twickenham Stadium</a></p></td>
 </tr>
 <tr class="odd">
@@ -339,14 +339,14 @@
 </tr>
 <tr class="odd">
 <td><p>September 15, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/더블린" title="wikilink">더블린</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아일랜드" title="wikilink">아일랜드</a></p></td>
+<td><p><a href="../Page/더블린.md" title="wikilink">더블린</a></p></td>
+<td><p><a href="../Page/아일랜드.md" title="wikilink">아일랜드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Aviva_Stadium" title="wikilink">Aviva Stadium</a></p></td>
 </tr>
 <tr class="even">
 <td><p>September 17, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/암스테르담" title="wikilink">암스테르담</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/네덜란드" title="wikilink">네덜란드</a></p></td>
+<td><p><a href="../Page/암스테르담.md" title="wikilink">암스테르담</a></p></td>
+<td><p><a href="../Page/네덜란드.md" title="wikilink">네덜란드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Ziggo_Dome" title="wikilink">Ziggo Dome</a></p></td>
 </tr>
 <tr class="odd">
@@ -369,13 +369,13 @@
 </tr>
 <tr class="even">
 <td><p>September 24, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하노버" title="wikilink">하노버</a></p></td>
+<td><p><a href="../Page/하노버.md" title="wikilink">하노버</a></p></td>
 <td><p>독일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/TUI_Arena" title="wikilink">TUI Arena</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>September 26, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/취리히" title="wikilink">취리히</a></p></td>
+<td><p><a href="../Page/취리히.md" title="wikilink">취리히</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스위스" title="wikilink">스위스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Hallenstadion" title="wikilink">Hallenstadion</a></p></td>
 </tr>
@@ -388,7 +388,7 @@
 <tr class="odd">
 <td><p>September 29, 2012</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/앤트워프" title="wikilink">앤트워프</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벨기에" title="wikilink">벨기에</a></p></td>
+<td><p><a href="../Page/벨기에.md" title="wikilink">벨기에</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Sportpaleis" title="wikilink">Sportpaleis</a></p></td>
 </tr>
 <tr class="even">
@@ -400,12 +400,12 @@
 <tr class="odd">
 <td><p>October 2, 2012</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/밀란" title="wikilink">밀란</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이탈리아" title="wikilink">이탈리아</a></p></td>
+<td><p><a href="../Page/이탈리아.md" title="wikilink">이탈리아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Mediolanum_Forum" title="wikilink">Mediolanum Forum</a></p></td>
 </tr>
 <tr class="even">
 <td><p>October 3, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/니스_(프랑스)" title="wikilink">니스</a></p></td>
+<td><p><a href="../Page/니스_(프랑스).md" title="wikilink">니스</a></p></td>
 <td><p>프랑스</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Palais_Nikaia" title="wikilink">Palais Nikaia</a></p></td>
 </tr>
@@ -418,7 +418,7 @@
 <tr class="even">
 <td><p>October 6, 2012</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/바로셀로나" title="wikilink">바로셀로나</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스페인" title="wikilink">스페인</a></p></td>
+<td><p><a href="../Page/스페인.md" title="wikilink">스페인</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Palau_Sant_Jordi" title="wikilink">Palau Sant Jordi</a></p></td>
 </tr>
 <tr class="odd">
@@ -435,8 +435,8 @@
 </tr>
 <tr class="odd">
 <td><p>October 26, 2012</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멕시코시티" title="wikilink">멕시코시티</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멕시코" title="wikilink">멕시코</a></p></td>
+<td><p><a href="../Page/멕시코시티.md" title="wikilink">멕시코시티</a></p></td>
+<td><p><a href="../Page/멕시코.md" title="wikilink">멕시코</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Foro_Sol" title="wikilink">Foro Sol</a></p></td>
 </tr>
 <tr class="even">
@@ -602,7 +602,7 @@
 <tr class="even">
 <td><p>January 14, 2013</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Tacoma,_Washington" title="wikilink">Tacoma</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미국" title="wikilink">United States</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">United States</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Tacoma_Dome" title="wikilink">Tacoma Dome</a></p></td>
 </tr>
 <tr class="odd">
@@ -679,7 +679,7 @@
 </tr>
 <tr class="odd">
 <td><p>February 8, 2013</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토론토" title="wikilink">토론토</a></p></td>
+<td><p><a href="../Page/토론토.md" title="wikilink">토론토</a></p></td>
 <td><p>Canada</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Air_Canada_Centre" title="wikilink">Air Canada Centre</a></p></td>
 </tr>

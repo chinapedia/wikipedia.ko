@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [2014 FIFA     D](https://ko.wikipedia.org/wiki/2014_FIFA_____D).
 
 
-**[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") D조**는 [네덜란드를](https://ko.wikipedia.org/wiki/네덜란드_축구_국가대표팀 "wikilink") 비롯하여 [터키](../Page/터키_축구_국가대표팀.md "wikilink"), [헝가리](../Page/헝가리_축구_국가대표팀.md "wikilink"), [루마니아](../Page/루마니아_축구_국가대표팀.md "wikilink"), [에스토니아](../Page/에스토니아_축구_국가대표팀.md "wikilink"), [안도라로](../Page/안도라_축구_국가대표팀.md "wikilink") 구성되어 있다.
+**[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") D조**는 [네덜란드를](../Page/네덜란드_축구_국가대표팀.md "wikilink") 비롯하여 [터키](../Page/터키_축구_국가대표팀.md "wikilink"), [헝가리](../Page/헝가리_축구_국가대표팀.md "wikilink"), [루마니아](../Page/루마니아_축구_국가대표팀.md "wikilink"), [에스토니아](../Page/에스토니아_축구_국가대표팀.md "wikilink"), [안도라로](../Page/안도라_축구_국가대표팀.md "wikilink") 구성되어 있다.
 
-이 조의 1위 팀은 [2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 본선으로 직행하고, 2위 팀은 A \~ C조와 E조 \~ I조의 2위 팀과 승점-골 득실차-다득점 순으로 비교하여 최하위가 되면 탈락하며, 나머지 8팀에 포함되면 두 팀씩 무작위 추첨으로 [플레이오프를](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink") 치르게 된다. [플레이오프에서](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink") 승리하면 본선에 진출하게 된다.\[1\]
+이 조의 1위 팀은 [2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 본선으로 직행하고, 2위 팀은 A \~ C조와 E조 \~ I조의 2위 팀과 승점-골 득실차-다득점 순으로 비교하여 최하위가 되면 탈락하며, 나머지 8팀에 포함되면 두 팀씩 무작위 추첨으로 [플레이오프를](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink") 치르게 된다. [플레이오프에서](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink") 승리하면 본선에 진출하게 된다.\[1\]
 
 ## 경기 결과
 
@@ -154,7 +154,7 @@
 </tbody>
 </table>
 
-경기 일정은 [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [10월 24일](https://ko.wikipedia.org/wiki/10월_24일 "wikilink") [네덜란드](https://ko.wikipedia.org/wiki/네덜란드 "wikilink") [암스테르담](https://ko.wikipedia.org/wiki/암스테르담 "wikilink")에서 결정될 예정이었지만 회의가 합의에 이르지 못하였다. [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")는 2011년 12월 말까지 일정을 확정하도록 하였고, [2011년](https://ko.wikipedia.org/wiki/2011년 "wikilink") [12월 21일](https://ko.wikipedia.org/wiki/12월_21일 "wikilink") [암스테르담](https://ko.wikipedia.org/wiki/암스테르담 "wikilink")에서 추첨을 통해 일정이 확정되었다.\[2\]
+경기 일정은 [2011년](../Page/2011년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") [네덜란드](../Page/네덜란드.md "wikilink") [암스테르담](../Page/암스테르담.md "wikilink")에서 결정될 예정이었지만 회의가 합의에 이르지 못하였다. [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")는 2011년 12월 말까지 일정을 확정하도록 하였고, [2011년](../Page/2011년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") [암스테르담](../Page/암스테르담.md "wikilink")에서 추첨을 통해 일정이 확정되었다.\[2\]
 
 -----
 
@@ -224,12 +224,12 @@
   - [2014년 FIFA 월드컵 유럽 지역 예선 A조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_A조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 B조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_B조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 C조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_C조.md "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 E조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_E조 "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 F조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_F조 "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 G조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_G조 "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 H조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_H조 "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 E조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_E조.md "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 F조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_F조.md "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 G조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_G조.md "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 H조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_H조.md "wikilink")
   - [2014년 FIFA 월드컵 유럽 지역 예선 I조](../Page/2014년_FIFA_월드컵_유럽_지역_예선_I조.md "wikilink")
-  - [2014년 FIFA 월드컵 유럽 지역 예선 플레이오프](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프 "wikilink")
+  - [2014년 FIFA 월드컵 유럽 지역 예선 플레이오프](../Page/2014년_FIFA_월드컵_유럽_지역_예선_플레이오프.md "wikilink")
 
 ## 각주
 

@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [JB \(\)](https://ko.wikipedia.org/wiki/JB_\(\)).
 
 
-**JB**(, [1994년](https://ko.wikipedia.org/wiki/1994년 "wikilink") [1월 6일](https://ko.wikipedia.org/wiki/1월_6일 "wikilink") \~ )는 [대한민국](https://ko.wikipedia.org/wiki/대한민국 "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 **리더**, **리드보컬, 메인댄서를** 맡고 있다. 현재는 [대한민국의 아이돌이다](../Page/대한민국의_아이돌.md "wikilink").
+**JB**(, [1994년](../Page/1994년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 **리더**, **리드보컬, 메인댄서를** 맡고 있다. 현재는 [대한민국의 아이돌이다](../Page/대한민국의_아이돌.md "wikilink").
 
 ## 학력
 
   - [고양관산초등학교](../Page/고양관산초등학교.md "wikilink")
   - [벽제중학교](https://ko.wikipedia.org/wiki/벽제중학교 "wikilink")
-  - [세원고등학교](https://ko.wikipedia.org/wiki/세원고등학교 "wikilink")
+  - [세원고등학교](../Page/세원고등학교.md "wikilink")
   - [건국대학교](https://ko.wikipedia.org/wiki/건국대학교 "wikilink") 영화학 중퇴
-  - [국제사이버대학교](https://ko.wikipedia.org/wiki/국제사이버대학교 "wikilink") 엔터테인먼트학과
+  - [국제사이버대학교](../Page/국제사이버대학교.md "wikilink") 엔터테인먼트학과
 
 ## 음반 활동
 
@@ -24,14 +24,14 @@
   - 2012년 [드림하이2](https://ko.wikipedia.org/wiki/드림하이2 "wikilink") OST 《Together》 (with [지연](../Page/지연_\(가수\).md "wikilink"))
   - 2012년 [드림하이2](https://ko.wikipedia.org/wiki/드림하이2 "wikilink") OST 《New Dreaming》 (with [박서준](../Page/박서준.md "wikilink"))
   - 2015년 드림나이트 OST 《Forever Love》
-  - 2016년 [백아연](https://ko.wikipedia.org/wiki/백아연 "wikilink") *그냥 한번* 《그냥 한번》 (피처링)
+  - 2016년 [백아연](../Page/백아연.md "wikilink") *그냥 한번* 《그냥 한번》 (피처링)
   - 2017년 [프라이머리](../Page/프라이머리_\(음악가\).md "wikilink") *Pop* 《허쉬》 (피처링)
   - 2017년 조말론 *$UMMERTIME MIXTAPE* 《Celebrate》 (피처링)
   - 2017년 [더 패키지](../Page/더_패키지.md "wikilink") OST 《U & I》 (with [잭슨](../Page/잭슨_\(가수\).md "wikilink"))
   - 2018년 [건반 위의 하이에나](../Page/건반_위의_하이에나.md "wikilink") OST 《Rainy》
   - 2018년 딥샤워 *COLORS* 《Higher》 (피처링)
   - 2019년 연애하루전 OST 《Be With You》
-  - 2019년 [사이코메트리 그녀석](https://ko.wikipedia.org/wiki/사이코메트리_그녀석 "wikilink") OST 《Take》 (with [유겸](../Page/유겸.md "wikilink"))
+  - 2019년 [사이코메트리 그녀석](../Page/사이코메트리_그녀석.md "wikilink") OST 《Take》 (with [유겸](../Page/유겸.md "wikilink"))
   - 2019년 OFFSHORE *Scene \#1* 《SURFIN'》 (피처링) (with JOMALXNE)
   - 2019년 OFFSHORE *Scene \#1* 《LAZE》 (피처링) (with JOMALXNE)
   - 2019년 OFFSHORE *Scene \#1* 《PLAY》 (피처링) (with JOMALXNE, HNMR)
@@ -453,19 +453,19 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>《드림하이 2》[1]</p></td>
 <td><p>JB / 장우재 역[2]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/남자가_사랑할_때_(2013년_드라마)" title="wikilink">남자가 사랑할 때</a>》</p></td>
 <td><p>서미준 역[3]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년" title="wikilink">2015년</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/웹드라마" title="wikilink">웹드라마</a> JYP픽쳐스[4]<br />
 중국 <a href="https://ko.wikipedia.org/wiki/Tudou" title="wikilink">Tudou</a><br />
 중국 <a href="../Page/유쿠.md" title="wikilink">유쿠</a></p></td>
@@ -477,15 +477,15 @@
 
 ### 방송
 
-| 연도                                                      | 방송 채널                                                 | 작품명                                      | 배역     |
-| ------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------- | ------ |
-|                                                         |                                                       |                                          |        |
-| [2012년](https://ko.wikipedia.org/wiki/2012년 "wikilink") | [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")   | 《더 로맨틱 & 아이돌》                            | JB(출연) |
-| [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") | [SBS MTV](../Page/SBS_MTV.md "wikilink")              | 《I GOT 7》                                |        |
-| [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") | [SBS](../Page/SBS.md "wikilink")                      | 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》 |        |
-| [2018년](https://ko.wikipedia.org/wiki/2018년 "wikilink") | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") | 《GOT7의 하드캐리 2》                           |        |
-| [2019년](https://ko.wikipedia.org/wiki/2019년 "wikilink") | [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")   | 《놀라운 토요일 1부 - 호구들의 감빵생활》                 |        |
-|                                                         |                                                       |                                          |        |
+| 연도                                   | 방송 채널                                                 | 작품명                                      | 배역     |
+| ------------------------------------ | ----------------------------------------------------- | ---------------------------------------- | ------ |
+|                                      |                                                       |                                          |        |
+| [2012년](../Page/2012년.md "wikilink") | [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")   | 《더 로맨틱 & 아이돌》                            | JB(출연) |
+| [2014년](../Page/2014년.md "wikilink") | [SBS MTV](../Page/SBS_MTV.md "wikilink")              | 《I GOT 7》                                |        |
+| [2017년](../Page/2017년.md "wikilink") | [SBS](../Page/SBS.md "wikilink")                      | 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》 |        |
+| [2018년](../Page/2018년.md "wikilink") | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") | 《GOT7의 하드캐리 2》                           |        |
+| [2019년](../Page/2019년.md "wikilink") | [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")   | 《놀라운 토요일 1부 - 호구들의 감빵생활》                 |        |
+|                                      |                                                       |                                          |        |
 
 ## 외부 링크
 

@@ -5,7 +5,7 @@
 
 ## 출연
 
-  - [토빈 벨](https://ko.wikipedia.org/wiki/토빈_벨 "wikilink") (Tobin Bell) - 직쏘
+  - [토빈 벨](../Page/토빈_벨.md "wikilink") (Tobin Bell) - 직쏘
   - [쇼니 스미스](https://ko.wikipedia.org/wiki/쇼니_스미스 "wikilink") (Shawnee Smith) - 아만다 영
   - [스콧 패터슨](https://ko.wikipedia.org/wiki/스콧_패터슨 "wikilink") (Scott Patterson) - 스트라엄 요원
   - [줄리 벤츠](https://ko.wikipedia.org/wiki/줄리_벤츠 "wikilink") (Julie Benz) - 브릿

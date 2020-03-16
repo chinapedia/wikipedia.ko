@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XFF](https://ko.wikipedia.org/wiki/XFF).
 
 
-**XFF**(X-Forwarded-For)는 [HTTP 헤더](https://ko.wikipedia.org/wiki/HTTP_헤더 "wikilink") 중 하나로, 원래의 [IP 주소를](https://ko.wikipedia.org/wiki/IP_주소 "wikilink") 식별하기 위한 표준 헤더이다.
+**XFF**(X-Forwarded-For)는 [HTTP 헤더](https://ko.wikipedia.org/wiki/HTTP_헤더 "wikilink") 중 하나로, 원래의 [IP 주소를](../Page/IP_주소.md "wikilink") 식별하기 위한 표준 헤더이다.
 
 ## 형식
 

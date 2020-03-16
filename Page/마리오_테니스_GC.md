@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [  GC](https://ko.wikipedia.org/wiki/__GC).
 
 
-**마리오 테니스 GC**(**마리오 파워 테니스**; , ), 는 [닌텐도](https://ko.wikipedia.org/wiki/닌텐도 "wikilink")에서 [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink")용으로 발매된 [스포츠](https://ko.wikipedia.org/wiki/스포츠 "wikilink") 게임이다. 카멜롯 소프트웨어 플래닝이 제작 했으며, 마리오 테니스 시리즈로는 세 번째 게임이다. 마리오 파워 테니스는 2004년 10월 28에 발매되었고,[북미](https://ko.wikipedia.org/wiki/북미 "wikilink")에서는 2004년 11월 8일에,호주에서는 2005년 2월 25일에 발매되었다. 이 게임은 [Wii](https://ko.wikipedia.org/wiki/Wii "wikilink") 버전으로 리메이크 되어 발매되기도 하였다.
+**마리오 테니스 GC**(**마리오 파워 테니스**; , ), 는 [닌텐도](../Page/닌텐도.md "wikilink")에서 [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink")용으로 발매된 [스포츠](../Page/스포츠.md "wikilink") 게임이다. 카멜롯 소프트웨어 플래닝이 제작 했으며, 마리오 테니스 시리즈로는 세 번째 게임이다. 마리오 파워 테니스는 2004년 10월 28에 발매되었고,[북미](https://ko.wikipedia.org/wiki/북미 "wikilink")에서는 2004년 11월 8일에,호주에서는 2005년 2월 25일에 발매되었다. 이 게임은 [Wii](../Page/Wii.md "wikilink") 버전으로 리메이크 되어 발매되기도 하였다.
 
 ## 게임 플레이
 
@@ -9,7 +9,7 @@
 
 ## 함께 보기
 
-  - [테니스](https://ko.wikipedia.org/wiki/테니스 "wikilink")
+  - [테니스](../Page/테니스.md "wikilink")
   - [마리오](../Page/마리오.md "wikilink")
 
 ## 각주

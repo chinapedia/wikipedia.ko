@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Traceroute](https://ko.wikipedia.org/wiki/Traceroute).
 
 
-**traceroute** 혹은 **tracert**는 인터넷을 통해 거친 경로를 표시하고 그 구간의 정보를 기록하고 [인터넷 프로토콜](https://ko.wikipedia.org/wiki/인터넷_프로토콜 "wikilink") 네트워크를 통해 패킷의 전송 지연을 측정하기 위한 컴퓨터 네트워크 진단 [유틸리티](https://ko.wikipedia.org/wiki/유틸리티 "wikilink")이다.\[1\]
+**traceroute** 혹은 **tracert**는 인터넷을 통해 거친 경로를 표시하고 그 구간의 정보를 기록하고 [인터넷 프로토콜](../Page/인터넷_프로토콜.md "wikilink") 네트워크를 통해 패킷의 전송 지연을 측정하기 위한 컴퓨터 네트워크 진단 [유틸리티](https://ko.wikipedia.org/wiki/유틸리티 "wikilink")이다.\[1\]
 
 ## 리눅스에서의 사용 예
 

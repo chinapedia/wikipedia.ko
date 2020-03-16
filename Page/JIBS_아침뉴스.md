@@ -16,27 +16,27 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/JIBS" title="wikilink">JIBS</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2002년" title="wikilink">2002년</a> <a href="https://ko.wikipedia.org/wiki/6월_3일" title="wikilink">6월 3일</a> ~ <a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/9월_22일" title="wikilink">9월 22일</a></p></td>
+<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/6월_3일.md" title="wikilink">6월 3일</a> ~ <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/9월_22일.md" title="wikilink">9월 22일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 아침 7시 10분 ~ 7시 30분 (20분)<br />
-<a href="https://ko.wikipedia.org/wiki/토요일" title="wikilink">토요일</a> 아침 8시 40분 ~ 8시 50분 (10분)</p></td>
+<a href="../Page/토요일.md" title="wikilink">토요일</a> 아침 8시 40분 ~ 8시 50분 (10분)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2012년" title="wikilink">2012년</a> <a href="https://ko.wikipedia.org/wiki/9월_24일" title="wikilink">9월 24일</a> ~ <a href="https://ko.wikipedia.org/wiki/2013년" title="wikilink">2013년</a> <a href="https://ko.wikipedia.org/wiki/12월_31일" title="wikilink">12월 31일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/9월_24일.md" title="wikilink">9월 24일</a> ~ <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 아침 7시 10분 ~ 7시 30분 (20분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/1월_1일" title="wikilink">1월 1일</a> ~ <a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/6월_8일" title="wikilink">6월 8일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/6월_8일.md" title="wikilink">6월 8일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 아침 7시 15분 ~ 7시 30분 (15분)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/6월_11일" title="wikilink">6월 11일</a> ~ <a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/5월_17일" title="wikilink">5월 17일</a></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/6월_11일.md" title="wikilink">6월 11일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_17일.md" title="wikilink">5월 17일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 아침 7시 25분 ~ 7시 40분 (15분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년" title="wikilink">2019년</a> <a href="https://ko.wikipedia.org/wiki/5월_20일" title="wikilink">5월 20일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_20일.md" title="wikilink">5월 20일</a> ~ <strong>현재</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 아침 7시 20분 ~ 7시 35분 (15분)</p></td>
 <td></td>
 </tr>
@@ -49,11 +49,11 @@
 
 ## 타이틀 변천사
 
-| 기수 | 타이틀         | 방송 기간                                                                                                                                                                                                                                  |
-| -- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1기 | JIBS 아침뉴스   | [2002년](https://ko.wikipedia.org/wiki/2002년 "wikilink") [6월 3일](https://ko.wikipedia.org/wiki/6월_3일 "wikilink") \~ [2013년](https://ko.wikipedia.org/wiki/2013년 "wikilink") [12월 31일](https://ko.wikipedia.org/wiki/12월_31일 "wikilink") |
-| 2기 | JIBS 720 뉴스 | [2014년](https://ko.wikipedia.org/wiki/2014년 "wikilink") [1월 1일](https://ko.wikipedia.org/wiki/1월_1일 "wikilink") \~ [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [5월 31일](https://ko.wikipedia.org/wiki/5월_31일 "wikilink")   |
-| 3기 | JIBS 아침뉴스   | [2017년](https://ko.wikipedia.org/wiki/2017년 "wikilink") [6월 1일](https://ko.wikipedia.org/wiki/6월_1일 "wikilink") \~ **현재**                                                                                                              |
+| 기수 | 타이틀         | 방송 기간                                                                                                                                                      |
+| -- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1기 | JIBS 아침뉴스   | [2002년](../Page/2002년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") |
+| 2기 | JIBS 720 뉴스 | [2014년](../Page/2014년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink")   |
+| 3기 | JIBS 아침뉴스   | [2017년](../Page/2017년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") \~ **현재**                                                                        |
 
 ## 관련 항목
 

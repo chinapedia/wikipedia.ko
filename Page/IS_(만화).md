@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [IS \(\)](https://ko.wikipedia.org/wiki/IS_\(\)).
 
 
-《**IS (아이에스) 남자도 여자도 아닌 성**》 (IS: )은 [로쿠하나 지요의](https://ko.wikipedia.org/wiki/로쿠하나_지요 "wikilink") [일본](https://ko.wikipedia.org/wiki/일본 "wikilink") [만화](https://ko.wikipedia.org/wiki/만화 "wikilink")이다. 2011년엔 [텔레비전 드라마로](https://ko.wikipedia.org/wiki/텔레비전_드라마 "wikilink") 만들어졌다.
+《**IS (아이에스) 남자도 여자도 아닌 성**》 (IS: )은 [로쿠하나 지요의](https://ko.wikipedia.org/wiki/로쿠하나_지요 "wikilink") [일본](../Page/일본.md "wikilink") [만화](../Page/만화.md "wikilink")이다. 2011년엔 [텔레비전 드라마로](../Page/텔레비전_드라마.md "wikilink") 만들어졌다.
 
 ## 텔레비전 드라마
 
-2011년 7월 18일부터 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 월요일 10시 시간대에, 《**IS: 남자도 여자도 아닌 성**》이란 제목으로 방송됐다. [후쿠다 사키와](https://ko.wikipedia.org/wiki/후쿠다_사키 "wikilink") [고리키 아야메가](../Page/고리키_아야메.md "wikilink") 공동 주연을 맡았다.
+2011년 7월 18일부터 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 월요일 10시 시간대에, 《**IS: 남자도 여자도 아닌 성**》이란 제목으로 방송됐다. [후쿠다 사키와](../Page/후쿠다_사키.md "wikilink") [고리키 아야메가](../Page/고리키_아야메.md "wikilink") 공동 주연을 맡았다.
 
 캐치 프레이즈는 〈사람은 저마다 다르다.〉
 
@@ -13,7 +13,7 @@
 
 #### 주요 인물
 
-  - **호시노 하루** - [후쿠다 사키](https://ko.wikipedia.org/wiki/후쿠다_사키 "wikilink")
+  - **호시노 하루** - [후쿠다 사키](../Page/후쿠다_사키.md "wikilink")
   - **아이하라 미와코** - [고리키 아야메](../Page/고리키_아야메.md "wikilink")
   - **이부키 겐지** - [이노우에 마사히로](https://ko.wikipedia.org/wiki/이노우에_마사히로 "wikilink")
   - **사이토 레온** - [이리에 진기](../Page/이리에_진기.md "wikilink")
@@ -26,7 +26,7 @@
 
 #### 아이하라 가
 
-  - **아이하라 겐이치** - [니시무라 마사히코](https://ko.wikipedia.org/wiki/니시무라_마사히코 "wikilink")
+  - **아이하라 겐이치** - [니시무라 마사히코](../Page/니시무라_마사히코.md "wikilink")
   - **아이하라 나오코** - [니시다 나오미](../Page/니시다_나오미.md "wikilink")
 
 #### 이부키 가
