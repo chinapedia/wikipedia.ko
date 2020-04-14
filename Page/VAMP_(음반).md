@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VAMP \(\)](https://ko.wikipedia.org/wiki/VAMP_\(\)).
+> This article is converted from Wikipedia: [VAMP \(음반\)](https://ko.wikipedia.org/wiki/VAMP_\(음반\)).
 
 
 《**VAMP**》(뱀프)는 일본의 가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 [미니 음반으로](https://ko.wikipedia.org/wiki/미니_음반 "wikilink") 1996년 12월 18일에 발매하였다. ([CD](../Page/콤팩트_디스크.md "wikilink"): MVCZ-1002)\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: FC ](https://ko.wikipedia.org/wiki/:_FC_).
+> This article is converted from Wikipedia: [틀:서울 FC 마르티스](https://ko.wikipedia.org/wiki/틀:서울_FC_마르티스).
 
 
 <onlyinclude></onlyinclude>

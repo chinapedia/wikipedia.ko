@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  FC](https://ko.wikipedia.org/wiki/:__FC).
+> This article is converted from Wikipedia: [틀:전남 영광 FC](https://ko.wikipedia.org/wiki/틀:전남_영광_FC).
 
 
 <onlyinclude></onlyinclude>

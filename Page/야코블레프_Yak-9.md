@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Yak-9](https://ko.wikipedia.org/wiki/_Yak-9).
+> This article is converted from Wikipedia: [야코블레프 Yak-9](https://ko.wikipedia.org/wiki/야코블레프_Yak-9).
 
 
 **야코블레프-9**은 2차 세계대전과 그 이후 소비에트 연방 공군에 쓰여진 단발 피스톤 엔진의 전투기이다. 근본적으로 같은 무장인 [Yak-7의](../Page/야코블레프_Yak-7.md "wikilink") 가벼운 버전이고, 1942년 말기에 전선에 투입되었다. 그 Yak-9은 동체 후방이 낮아졌고(lowered rear fuselage decking) 시야각이 넓은 캐노피를 가졌다. 그것의 더 떨어지는 이전 모델보다 더 유연해지고 가벼워진 동체프레임은 새 전투기에 적용되었다.\[1\] Yak-9의 파일럿은 [메서슈미트 Bf 109G](../Page/메서슈미트_Bf_109.md "wikilink")(구스타프)형과 [포케불프 Fw-190](https://ko.wikipedia.org/wiki/포케불프_Fw-190 "wikilink") A-3/A-4형에 비교할 만한 기동성을 (Yak-9이) 가졌다고 생각했다.\[2\] 그 Yak-9은 항상 소련전투기로 가장 많이 생산되었다. 1942년부터 1948년까지 총 16,769기(전쟁 기간동안 14,579기)가 생산되었다.\[3\] Yak-9은 [메서슈미트 Me 262](../Page/메서슈미트_Me_262.md "wikilink") 제트전투기를 격추한 첫 소련전투기이기도 하다.\[4\] 제2차 세계대전 다음으로 북한군이 [한국 전쟁동안](../Page/한국_전쟁.md "wikilink") 사용하기도 했다.\[5\]

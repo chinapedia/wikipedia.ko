@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V  ](https://ko.wikipedia.org/wiki/_V__).
+> This article is converted from Wikipedia: [시스템 V 인쇄 시스템](https://ko.wikipedia.org/wiki/시스템_V_인쇄_시스템).
 
 
 [유닉스 시스템 V의](https://ko.wikipedia.org/wiki/유닉스_시스템_V "wikilink") 인쇄 하위 시스템(System V printing system)은 유닉스의 인쇄를 위한 표준화된 여러 시스템들 가운데 하나이다.

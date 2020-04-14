@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:3TeamBracket-3finals](https://ko.wikipedia.org/wiki/:3TeamBracket-3finals).
+> This article is converted from Wikipedia: [틀:3TeamBracket-3finals](https://ko.wikipedia.org/wiki/틀:3TeamBracket-3finals).
 
 
 <table>

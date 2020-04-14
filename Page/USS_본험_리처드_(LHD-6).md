@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS   \(LHD-6\)](https://ko.wikipedia.org/wiki/USS___\(LHD-6\)).
+> This article is converted from Wikipedia: [USS 본험 리처드 \(LHD-6\)](https://ko.wikipedia.org/wiki/USS_본험_리처드_\(LHD-6\)).
 
 
 **USS 본험 리처드 (LHD-6)**는 [미국 해군의](../Page/미국_해군.md "wikilink") [와스프급 강습상륙함](../Page/와스프급_강습상륙함.md "wikilink") 중 3번째 함선이다. 이 함선의 이름은 [존 폴 존스의](../Page/존_폴_존스_\(군인\).md "wikilink") [프리킷](https://ko.wikipedia.org/wiki/프리킷 "wikilink")에게 경의를 표하기 위해 붙여졌다. 이 이름은 프랑스 주재 미국 대사인 [벤저민 프랭클린가](../Page/벤저민_프랭클린.md "wikilink") 발언한 것으로 [프랑스어](../Page/프랑스어.md "wikilink")로 "좋은 사람 리차드"를 의미한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Chu!](https://ko.wikipedia.org/wiki/Chu!).
+> This article is converted from Wikipedia: [텐토우무Chu!](https://ko.wikipedia.org/wiki/텐토우무Chu!).
 
 
 **텐토우무Chu\!**()는 일본의 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink"), [SKE48](../Page/SKE48.md "wikilink"), [NMB48](../Page/NMB48.md "wikilink"), [HKT48](../Page/HKT48.md "wikilink") 그룹의 멤버가 결성한 3인조 [아이돌 유닛이다](https://ko.wikipedia.org/wiki/아이돌_유닛 "wikilink").

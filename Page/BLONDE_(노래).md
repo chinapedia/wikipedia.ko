@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BLONDE \(\)](https://ko.wikipedia.org/wiki/BLONDE_\(\)).
+> This article is converted from Wikipedia: [BLONDE \(노래\)](https://ko.wikipedia.org/wiki/BLONDE_\(노래\)).
 
 
 〈**BLONDE**〉(블론드)는 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 18번째 싱글로 1987년 6월 3일에 발매되었다. ([EP](../Page/익스텐디드_플레이.md "wikilink"): L-1754) 작사와 작곡은 영국계 송라이터 비두(Biddu)와 윈스턴 셀라(Winston Sela)가, 일본어 가사는 아소 게이코()가, 편곡은 나카무라 사토시()가 담당하였다. [B사이드](https://ko.wikipedia.org/wiki/B사이드 "wikilink")곡은 〈청교도 (아미시)〉()로, 작사는 [아키모토 야스시](../Page/아키모토_야스시.md "wikilink")()가, 작곡은 [구보타 도시노부](https://ko.wikipedia.org/wiki/구보타_도시노부 "wikilink")()가, 편곡은 [다케베 사토시](https://ko.wikipedia.org/wiki/다케베_사토시 "wikilink")()가 도맡았다.\[1\] 이 곡의 원곡은 조금 뒤인 1987년 8월 25일에 발매된 정규 음반 《[Cross My Palm](../Page/Cross_My_Palm.md "wikilink")》의 수록곡 〈THE LOOK THAT KILLS〉로 편곡 작업과 일본어의 가사를 덧붙여 완성한 곡이다. 1987년 6월 15일, 오리콘 주간 싱글 차트에 1위로 처음 올라온 이후 6월 22일까지 2주 연속 1위를 달성하였다. 차트 톱100을 총 17주간 지켰고, 1987년 오리콘 연간 싱글 차트 7위를 기록했다.\[2\]

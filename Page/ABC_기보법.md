@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABC ](https://ko.wikipedia.org/wiki/ABC_).
+> This article is converted from Wikipedia: [ABC 기보법](https://ko.wikipedia.org/wiki/ABC_기보법).
 
 
 **ABC 기보법**은 [기보법](../Page/기보법.md "wikilink")의 축약된 형태이다.

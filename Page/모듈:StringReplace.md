@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:StringReplace](https://ko.wikipedia.org/wiki/:StringReplace).
+> This article is converted from Wikipedia: [모듈:StringReplace](https://ko.wikipedia.org/wiki/모듈:StringReplace).
 
 
 \-- Module for different search and replace operations on strings. local p = {}

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Re: \(9nine \)](https://ko.wikipedia.org/wiki/Re:_\(9nine_\)).
+> This article is converted from Wikipedia: [Re: \(9nine의 노래\)](https://ko.wikipedia.org/wiki/Re:_\(9nine의_노래\)).
 
 
 〈**Re:**〉 (리)는 [9nine](../Page/9nine.md "wikilink")의 15번째 싱글이며 [2013년](../Page/2013년.md "wikilink") [11월 20일에](../Page/11월_20일.md "wikilink") **SME Records**로 부터 발매되었다.

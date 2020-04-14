@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:7TeamBracket](https://ko.wikipedia.org/wiki/:7TeamBracket).
+> This article is converted from Wikipedia: [틀:7TeamBracket](https://ko.wikipedia.org/wiki/틀:7TeamBracket).
 
 
 |  |  |  |  |  |  |  |  |

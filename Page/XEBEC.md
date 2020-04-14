@@ -68,7 +68,7 @@
   - [퓨처 카드 버디파이트 DDD](../Page/퓨처_카드_버디파이트.md "wikilink") (2016년)
   - [블랙 클로버](../Page/블랙_클로버.md "wikilink") (OVA) (2016년)
   - [클락워크 플래닛](https://ko.wikipedia.org/wiki/클락워크_플래닛 "wikilink") (2016년)
-  - [BanG Dream\!](https://ko.wikipedia.org/wiki/BanG_Dream! "wikilink") (2016년)
+  - [BanG Dream\!](../Page/BanG_Dream!.md "wikilink") (2016년)
   - [퓨처 카드 버디파이트 X](../Page/퓨처_카드_버디파이트.md "wikilink") (2016년)
   - [토미카 하이퍼 레스큐 드라이브 헤드](https://ko.wikipedia.org/wiki/토미카_하이퍼_레스큐_드라이브_헤드 "wikilink") (2016년)
   - [풀 메탈 패닉\! IV](../Page/풀_메탈_패닉!.md "wikilink") (2018년)

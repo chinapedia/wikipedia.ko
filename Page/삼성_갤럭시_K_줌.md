@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  K ](https://ko.wikipedia.org/wiki/__K_).
+> This article is converted from Wikipedia: [삼성 갤럭시 K 줌](https://ko.wikipedia.org/wiki/삼성_갤럭시_K_줌).
 
 
 **삼성 갤럭시 K 줌**(Samsung GALAXY K zoom)은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [갤럭시 S4 줌의](https://ko.wikipedia.org/wiki/갤럭시_S4_줌 "wikilink") 후속 제품이다.

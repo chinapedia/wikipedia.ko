@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SN  ](https://ko.wikipedia.org/wiki/SN__).
+> This article is converted from Wikipedia: [SN 브뤼셀 항공](https://ko.wikipedia.org/wiki/SN_브뤼셀_항공).
 
 
 **SN 브뤼셀 항공**()은 [2002년](../Page/2002년.md "wikilink")에 설립되어 [2006년](../Page/2006년.md "wikilink")에 [버진 익스프레스와](../Page/버진_익스프레스.md "wikilink") 함께 합병되어 없어진 [벨기에](../Page/벨기에.md "wikilink")의 [국영 항공사로](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink") 합병 과정에서 [브뤼셀 항공이](../Page/브뤼셀_항공.md "wikilink") 설립되었다.\[1\] [허브 공항은](../Page/허브_공항.md "wikilink") [브뤼셀 공항이었으며](https://ko.wikipedia.org/wiki/브뤼셀_공항 "wikilink"), [벨기에](../Page/벨기에.md "wikilink") 최대의 항공 노선을 편성했던 항공사 중 하나이기도 했다.

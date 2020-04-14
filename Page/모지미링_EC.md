@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EC](https://ko.wikipedia.org/wiki/_EC).
+> This article is converted from Wikipedia: [모지미링 EC](https://ko.wikipedia.org/wiki/모지미링_EC).
 
 
 **모지미링 이스포르치 클루비**()는 [브라질](../Page/브라질.md "wikilink") [상파울루](../Page/상파울루.md "wikilink")에 있는 [모지미링](https://ko.wikipedia.org/wiki/모지미링 "wikilink")을 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, [1932년](../Page/1932년.md "wikilink") [2월 1일에](../Page/2월_1일.md "wikilink") 창단되었다. [2018년](../Page/2018년.md "wikilink") 현재 [캄페오나투 브라질레이루 세리이 C에](../Page/캄페오나투_브라질레이루_세리이_C.md "wikilink") 출전하고 있다.

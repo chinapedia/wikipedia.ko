@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A7s](https://ko.wikipedia.org/wiki/_A7s).
+> This article is converted from Wikipedia: [소니 A7s](https://ko.wikipedia.org/wiki/소니_A7s).
 
 
 **소니 A7**()은 [2014년](../Page/2014년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") 공개된 [소니 E마운트](https://ko.wikipedia.org/wiki/소니_E마운트 "wikilink") [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). A7s는 [소니 A7을](https://ko.wikipedia.org/wiki/소니_A7 "wikilink") 기본으로 만든 동영상 전용 기종이며, 4K급 해상도를 지원한다. 기존의 [미러리스 렌즈 교환식 카메라와는](../Page/미러리스_렌즈_교환식_카메라.md "wikilink") 다르게 스틸컷이 아닌 영상 전문가를 겨냥해 출시된 제품이며 스펙의 대부분이 사진가가 아닌 영상 촬영가에 맞게 설계가 변경되었다.\[1\] 마운트로는 기존 [소니 E마운트를](https://ko.wikipedia.org/wiki/소니_E마운트 "wikilink") 사용하지만, 제조사 측에서는 전용 렌즈인 화각의 이유로 FE렌즈를 사용하기를 권장한다.\[2\]

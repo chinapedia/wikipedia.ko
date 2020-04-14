@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:4TeamBracket-PACC5](https://ko.wikipedia.org/wiki/:4TeamBracket-PACC5).
+> This article is converted from Wikipedia: [틀:4TeamBracket-PACC5](https://ko.wikipedia.org/wiki/틀:4TeamBracket-PACC5).
 
 
 |  |  |         |        |

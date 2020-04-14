@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C POSIX ](https://ko.wikipedia.org/wiki/C_POSIX_).
+> This article is converted from Wikipedia: [C POSIX 라이브러리](https://ko.wikipedia.org/wiki/C_POSIX_라이브러리).
 
 
 **C POSIX 라이브러리**는 [C 표준 라이브러리](../Page/C_표준_라이브러리.md "wikilink") [POSIX](../Page/POSIX.md "wikilink")에 대한 시스템 사양이다. 이것은 [ANSI C의](../Page/ANSI_C.md "wikilink") 표준으로 동시에 개발되었다. POSIX는 추가적인 기능을 표준 C를 사용하는 사람들에게 소개를 했고, 이러한 노력으로 POSIX와 [표준 C를](https://ko.wikipedia.org/wiki/표준_C "wikilink") 호환되도록 만들 수 있었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TableTools](https://ko.wikipedia.org/wiki/:TableTools).
+> This article is converted from Wikipedia: [모듈:TableTools](https://ko.wikipedia.org/wiki/모듈:TableTools).
 
 
 \--[------------------------------------------------------------------------------------ -- TableTools -- -- -- -- This module includes a number of functions for dealing with Lua tables. -- -- It is a meta-module, meant to be called from other Lua modules, and should -- -- not be called directly from \#invoke. -- ------------------------------------------------------------------------------------ --](https://ko.wikipedia.org/wiki/------------------------------------------------------------------------------------_--_TableTools_--_--_--_--_This_module_includes_a_number_of_functions_for_dealing_with_Lua_tables._--_--_It_is_a_meta-module,_meant_to_be_called_from_other_Lua_modules,_and_should_--_--_not_be_called_directly_from_#invoke._--_------------------------------------------------------------------------------------_-- "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kbc ](https://ko.wikipedia.org/wiki/Kbc_).
+> This article is converted from Wikipedia: [Kbc 모닝와이드](https://ko.wikipedia.org/wiki/Kbc_모닝와이드).
 
 
 《**kbc 모닝와이드**》()는 대한민국 [kbc에서](../Page/광주방송.md "wikilink") 평일 아침 7시 15분에 방송되는 [kbc의 아침뉴스 프로그램이다](https://ko.wikipedia.org/wiki/광주방송의_뉴스_프로그램 "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SM TOWN](https://ko.wikipedia.org/wiki/:SM_TOWN).
+> This article is converted from Wikipedia: [틀:SM TOWN](https://ko.wikipedia.org/wiki/틀:SM_TOWN).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NH ](https://ko.wikipedia.org/wiki/NH_).
+> This article is converted from Wikipedia: [NH 미디어](https://ko.wikipedia.org/wiki/NH_미디어).
 
 
 **NH 미디어**는 대한민국의 연예 기획사이다. [1998년](../Page/1998년.md "wikilink")에 설립되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LS](https://ko.wikipedia.org/wiki/LS).
+> This article is converted from Wikipedia: [LS네트웍스](https://ko.wikipedia.org/wiki/LS네트웍스).
 
 
 **LS네트웍스**(, )는 [대한민국](../Page/대한민국.md "wikilink")의 기업으로, [LS그룹](../Page/LS그룹.md "wikilink")의 계열사이다.

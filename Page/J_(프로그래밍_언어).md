@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J \( \)](https://ko.wikipedia.org/wiki/J_\(_\)).
+> This article is converted from Wikipedia: [J \(프로그래밍 언어\)](https://ko.wikipedia.org/wiki/J_\(프로그래밍_언어\)).
 
 
 **J**는 [프로그래밍 언어의](../Page/프로그래밍_언어.md "wikilink") 일종으로, 정식 명칭은 알파벳 한 글자 "J"이지만 C언어와 같이 "J언어"라고 주로 불린다. 1990년대 초에 [케네스 아이버슨과](../Page/케네스_아이버슨.md "wikilink") [Roger Hui에](https://ko.wikipedia.org/wiki/Roger_Hui "wikilink") 의해 개발되었다.\[1\]\[2\]

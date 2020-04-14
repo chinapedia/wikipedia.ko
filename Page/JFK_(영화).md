@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JFK \(\)](https://ko.wikipedia.org/wiki/JFK_\(\)).
+> This article is converted from Wikipedia: [JFK \(영화\)](https://ko.wikipedia.org/wiki/JFK_\(영화\)).
 
 
 《****》는 [1991년](../Page/1991년.md "wikilink") 개봉한 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") [스릴러](../Page/스릴러.md "wikilink") 영화이다. [존 F. 케네디 암살 사건을](https://ko.wikipedia.org/wiki/존_F._케네디_암살_사건 "wikilink") 짐 개리슨 검사의 시선에서 따라가는 영화로, 그의 논픽션 책 《JFK: 케네디 대통령 암살의 진상》을 기반으로 했다. [케빈 코스트너가](../Page/케빈_코스트너.md "wikilink") 개리슨 검사를 연기했다.

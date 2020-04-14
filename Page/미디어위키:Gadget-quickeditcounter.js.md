@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-quickeditcounter.js](https://ko.wikipedia.org/wiki/:Gadget-quickeditcounter.js).
+> This article is converted from Wikipedia: [미디어위키:Gadget-quickeditcounter.js](https://ko.wikipedia.org/wiki/미디어위키:Gadget-quickeditcounter.js).
 
 
 // Warning\! This gadget also use other projects. // Original version: // - QuickEditCounter script by [:pl:User:ChP94](https://ko.wikipedia.org/wiki/:pl:User:ChP94 "wikilink") // - Released under the [GNU Public License (GPL)](http://www.gnu.org/licenses/gpl.txt) // Modified by: [:pl:User:Beau](https://ko.wikipedia.org/wiki/:pl:User:Beau "wikilink"), [:pl:User:Rzuwig](https://ko.wikipedia.org/wiki/:pl:User:Rzuwig "wikilink")

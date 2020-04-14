@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Papa is](https://ko.wikipedia.org/wiki/_Papa_is).
+> This article is converted from Wikipedia: [김어준의 Papa is](https://ko.wikipedia.org/wiki/김어준의_Papa_is).
 
 
 《**김어준의 파파 이스(Papa is)**》는 [한겨레TV](https://ko.wikipedia.org/wiki/한겨레TV "wikilink")에서 제작하는 [대한민국](../Page/대한민국.md "wikilink")의 시사 관련 [인터넷 방송으로](https://ko.wikipedia.org/wiki/인터넷_방송 "wikilink"), [딴지일보](../Page/딴지일보.md "wikilink")의 총수 [김어준](../Page/김어준.md "wikilink")이 진행을 맡고 있다.\[1\]\[2\]\[3\]\[4\] 2014년 3월 14일에 첫 방송이 업로드 되었으며, 다목적 카페인 벙커 1에서 공개 녹화 형식으로 진행된다. 포맷은 [유투브](https://ko.wikipedia.org/wiki/유투브 "wikilink")에 업로드 되는 영상 매체와 [팟캐스트](../Page/팟캐스트.md "wikilink")에 업로드 되는 같은 내용의 음원이 있다.

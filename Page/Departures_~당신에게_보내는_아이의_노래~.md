@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Departures \~   \~](https://ko.wikipedia.org/wiki/Departures_\~___\~).
+> This article is converted from Wikipedia: [Departures \~당신에게 보내는 아이의 노래\~](https://ko.wikipedia.org/wiki/Departures_\~당신에게_보내는_아이의_노래\~).
 
 
 「**Departures \~당신에게 보내는 사랑의 노래\~**」(Departures ～あなたにおくるアイの歌～)는 [EGOIST](../Page/EGOIST.md "wikilink")의 1매째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. [2011년](../Page/2011년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") [애니플렉스](../Page/애니플렉스.md "wikilink")로부터 발매되었다.

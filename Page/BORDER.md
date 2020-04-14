@@ -225,7 +225,7 @@
 
 ## 외부 링크
 
-  - [BORDER](http://border-project.com/) - 프로젝트 공식 사이트
+  - [BORDER](https://web.archive.org/web/20140122060909/http://border-project.com/) - 프로젝트 공식 사이트
 
   -
 

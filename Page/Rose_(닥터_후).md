@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rose \( \)](https://ko.wikipedia.org/wiki/Rose_\(_\)).
+> This article is converted from Wikipedia: [Rose \(닥터 후\)](https://ko.wikipedia.org/wiki/Rose_\(닥터_후\)).
 
 
 〈**Rose**〉([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 방영 제목 : 〈로즈와의 만남〉)는 새로 부활한 영국의 [텔레비전 공상과학 드라마](https://ko.wikipedia.org/wiki/SF_드라마 "wikilink") 《[닥터 후](../Page/닥터_후.md "wikilink")》 [시리즈 1의](../Page/닥터_후_\(시리즈_1\).md "wikilink") 첫번째 에피소드이다. 이 에피소드의 감독은 [키스 보크가](../Page/키스_보크.md "wikilink"), 각본은 총괄 프로듀서 셋 중 한 명인 [러셀 T 데이비스가](../Page/러셀_T_데이비스.md "wikilink") 맡았다. 영국에서는 [2005년](../Page/2005년.md "wikilink") [3월 26일에](../Page/3월_26일.md "wikilink") 처음으로 방영되었다. 〈Rose〉는 1996년 [닥터 후 텔레비전 영화](https://ko.wikipedia.org/wiki/닥터_후_\(1996년_영화\) "wikilink") 이후 방송된 첫 닥터 후 에피소드이기도 하다.

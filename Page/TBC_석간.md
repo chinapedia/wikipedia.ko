@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBC ](https://ko.wikipedia.org/wiki/TBC_).
+> This article is converted from Wikipedia: [TBC 석간](https://ko.wikipedia.org/wiki/TBC_석간).
 
 
 《**TBC 석간**》은 1972년 4월부터 1980년 11월 30일까지 방송되었던 [TBC](../Page/동양방송.md "wikilink")(동양방송)의 메인 뉴스 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [웨어 OS](https://ko.wikipedia.org/wiki/웨어_OS).
 
 
 **웨어 OS**(, 과거 이름: **안드로이드 웨어**()는 [구글](../Page/구글.md "wikilink")의 [안드로이드를](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트워치](../Page/스마트워치.md "wikilink")에 맞게 조정한 [운영 체제이다](../Page/운영_체제.md "wikilink"). 블루투스 연결이 가능한 안드로이드 버전 4.3 이상의 스마트폰과 [아이폰](../Page/아이폰.md "wikilink") 운영체제 버전 9.3 이상에서 사용할 수 있으며, [구글 어시스턴트를](../Page/구글_어시스턴트.md "wikilink") 탑재하고 있다.

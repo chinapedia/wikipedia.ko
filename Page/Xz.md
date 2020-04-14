@@ -39,7 +39,7 @@ XZ는 [GNU](../Page/GNU.md "wikilink") coreutils 프로젝트,\[8\] Debian, [ope
 1.  .
 2.
 3.
-4.  [XZ Utils Web site](http://tukaani.org/xz/)
+4.
 5.  [GNU tar Web site: References](http://www.gnu.org/software/tar/#releases)
 6.  [Changelog for Tar 1.22](http://git.savannah.gnu.org/cgit/tar.git/tree/ChangeLog.CVS?id=9077de9fa91886697a1294891a8d4e6d17fcd30b)
 7.  .

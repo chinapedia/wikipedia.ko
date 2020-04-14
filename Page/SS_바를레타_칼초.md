@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SS  ](https://ko.wikipedia.org/wiki/SS__).
+> This article is converted from Wikipedia: [SS 바를레타 칼초](https://ko.wikipedia.org/wiki/SS_바를레타_칼초).
 
 
 **SS 바를레타 칼초**(S.S. Barletta Calcio)는 [이탈리아](../Page/이탈리아.md "wikilink") [풀리아주](../Page/풀리아주.md "wikilink")에 있는 [바를레타](https://ko.wikipedia.org/wiki/바를레타 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [레가 프로 프리마 디비시오네에](../Page/레가_프로_프리마_디비시오네.md "wikilink") 참가중이다.

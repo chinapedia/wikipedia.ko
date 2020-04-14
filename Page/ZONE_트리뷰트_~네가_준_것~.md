@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ZONE  \~  \~](https://ko.wikipedia.org/wiki/ZONE__\~__\~).
+> This article is converted from Wikipedia: [ZONE 트리뷰트 \~네가 준 것\~](https://ko.wikipedia.org/wiki/ZONE_트리뷰트_\~네가_준_것\~).
 
 
 《**ZONE 트리뷰트 \~네가 준 것\~**》은 [2011년](../Page/2011년.md "wikilink") [8월 10일에](../Page/8월_10일.md "wikilink") 발매된 [ZONE의](../Page/ZONE_\(음악_그룹\).md "wikilink") 앨범이다.

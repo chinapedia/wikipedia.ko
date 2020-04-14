@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \~night shift\~](https://ko.wikipedia.org/wiki/__\~night_shift\~).
+> This article is converted from Wikipedia: [밤 어딘가에서 \~night shift\~](https://ko.wikipedia.org/wiki/밤_어딘가에서_\~night_shift\~).
 
 
 〈**밤 어딘가에서 \~night shift\~**〉()는 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 29번째 싱글로 1994년 9월 2일에 발매하였다. ([8cmCD](../Page/콤팩트_디스크.md "wikilink"): MVDD-10007) 작사는 나츠노 세리코()가, 작곡과 편곡은 고토 츠구토시()가 담당하였고 MCA 빅터의 레이블로 출시되었다. B사이드 곡은 〈Rose Bud〉로 A사이드와 마찬가지로 작사는 나츠노 세리코가, 작곡과 편곡은 역시 고토 츠구토시가 도맡았다.\[1\]

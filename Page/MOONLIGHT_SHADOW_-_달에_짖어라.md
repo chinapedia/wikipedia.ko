@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MOONLIGHT SHADOW -  ](https://ko.wikipedia.org/wiki/MOONLIGHT_SHADOW_-__).
+> This article is converted from Wikipedia: [MOONLIGHT SHADOW - 달에 짖어라](https://ko.wikipedia.org/wiki/MOONLIGHT_SHADOW_-_달에_짖어라).
 
 
 〈**MOONLIGHT SHADOW - 달에 짖어라**〉()는 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 33번째 싱글로 1996년 8월 7일에 발매하였다. ([8cmCD](../Page/콤팩트_디스크.md "wikilink"): MVDD-10024) 작사는 가수인 나카모리와 다카미자와 토시히코()가, 작곡과 편곡은 [코무로 테츠야](../Page/코무로_테츠야.md "wikilink")()가 담당하였고 MCA 빅터의 레이블로 출시되었다.\[1\]

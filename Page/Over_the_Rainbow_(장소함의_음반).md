@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Over the Rainbow \( \)](https://ko.wikipedia.org/wiki/Over_the_Rainbow_\(_\)).
+> This article is converted from Wikipedia: [Over the Rainbow \(장소함의 음반\)](https://ko.wikipedia.org/wiki/Over_the_Rainbow_\(장소함의_음반\)).
 
 
 《**Over the Rainbow**》는 [중화민국](../Page/중화민국.md "wikilink")의 가수 [장소함](https://ko.wikipedia.org/wiki/장소함 "wikilink")의 첫 번째 정규 앨범이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [피터 C. 도허티](https://ko.wikipedia.org/wiki/피터_C._도허티).
 
 
 **피터 찰스 도허티**(, [AC](../Page/오스트레일리아_훈장.md "wikilink") [FRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink") [FMedSci](https://ko.wikipedia.org/wiki/:en:Fellow_of_the_Academy_of_Medical_Sciences "wikilink"), [1940년](../Page/1940년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink") \~ )는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [면역학](../Page/면역학.md "wikilink")자이다. 1996년에 신체 조직의 면역체계 인식과 파괴 메커니즘을 규명한 공로로 [롤프 M. 칭커나겔과](../Page/롤프_M._칭커나겔.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[1\]

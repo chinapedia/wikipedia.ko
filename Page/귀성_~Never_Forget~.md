@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~Never Forget\~](https://ko.wikipedia.org/wiki/_\~Never_Forget\~).
+> This article is converted from Wikipedia: [귀성 \~Never Forget\~](https://ko.wikipedia.org/wiki/귀성_\~Never_Forget\~).
 
 
 〈**귀성 \~Never Forget\~**〉())은 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 35번째 싱글로 1998년 2월 11일에 발매하였다. ([8cmCD](../Page/콤팩트_디스크.md "wikilink"): GRDO-10) 작사는 스즈 야스히로()와 atsuko가, 작곡은 스즈 야스히로가, 편곡은 [센주 아키라](../Page/센주_아키라.md "wikilink")()가 담당하였고 가우스 엔터테인먼트의 인디 레이블인 THIS ONE에서 출시되었다. B사이드 곡은 〈달은 푸르게〉()로 작사는 오카베 마리코()가, 작곡은 노다 사토시()가, 편곡은 다마키 신고()가 도맡았다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
+> This article is converted from Wikipedia: [이지 A](https://ko.wikipedia.org/wiki/이지_A).
 
 
 《**이지 A**》()는 [2010년](../Page/2010년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 코미디 영화이다.

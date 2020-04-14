@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATS-31 ](https://ko.wikipedia.org/wiki/ATS-31_).
+> This article is converted from Wikipedia: [ATS-31 통영](https://ko.wikipedia.org/wiki/ATS-31_통영).
 
 
 **ATS-31 통영**은 대한민국 해군의 통영급 구난함중 하나이다. 한국 최초의 국산 수상함 구난함이다. 2010년 천안함 사건을 계기로 국산 수상함 구난함을 건조하였다. 2013년 10월에 전력화를 목표로 하였으나, 방위사업 비리로 인한 성능 미달로 인수가 지연되었다. ATS-31 통영에 이어 **[ATS-32 광양](../Page/ATS-32_광양.md "wikilink")**은 대한민국 해군의 통영급 구난함 중 2015년 두번째로 건조되는 동급 함이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  HD ROV](https://ko.wikipedia.org/wiki/__HD_ROV).
+> This article is converted from Wikipedia: [실링 로보틱스 HD ROV](https://ko.wikipedia.org/wiki/실링_로보틱스_HD_ROV).
 
 
 **실링 로보틱스 HD ROV**는 미국 [실링 로보틱스사가](https://ko.wikipedia.org/wiki/실링_로보틱스 "wikilink") 제작한 [ROV](https://ko.wikipedia.org/wiki/ROV "wikilink")이다. 2014년 [세월호](../Page/세월호.md "wikilink") 사고로 언론의 주목을 받았다.

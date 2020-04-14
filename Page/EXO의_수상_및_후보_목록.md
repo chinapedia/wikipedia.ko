@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EXO    ](https://ko.wikipedia.org/wiki/EXO____).
+> This article is converted from Wikipedia: [EXO의 수상 및 후보 목록](https://ko.wikipedia.org/wiki/EXO의_수상_및_후보_목록).
 
 
 다음은 대한민국 그룹인 **[EXO](../Page/EXO.md "wikilink")**의 **수상 내역** 목록이다.

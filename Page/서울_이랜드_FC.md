@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [서울 이랜드 FC](https://ko.wikipedia.org/wiki/서울_이랜드_FC).
 
 
 **서울 이랜드 FC**()는 [2015년](../Page/2015년.md "wikilink")부터 [대한민국](../Page/대한민국.md "wikilink")의 [서울특별시](../Page/서울특별시.md "wikilink")를 연고지로 하는 대한민국 프로[축구](../Page/축구.md "wikilink") 2부 리그인 [K리그2](../Page/K리그2.md "wikilink")에 참가하는 축구단으로, 경기장은 [잠실올림픽주경기장](https://ko.wikipedia.org/wiki/잠실올림픽주경기장 "wikilink")을 사용한다. [2014년](../Page/2014년.md "wikilink") [4월 9일에](../Page/4월_9일.md "wikilink") [이랜드그룹](../Page/이랜드그룹.md "wikilink")에서 창단 관련 보도자료를 배포하였으며\[1\], [4월 14일에](../Page/4월_14일.md "wikilink") 공식 창단 발표 기자회견과 함께 창단의향서를 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")에 제출하였다.\[2\] [K리그2 2019](../Page/K리그2_2019.md "wikilink") 시즌 홈 경기장 확보에 어려움을 겪고 임시 홈구장을 [천안종합운동장](../Page/천안종합운동장.md "wikilink")을 사용하기도 하였다.
@@ -50,6 +50,8 @@
 그러나 우성용 감독대행 체제 하에서도 서울 이랜드 FC는 좀처럼 상황이 좋아지지 않았다. 12라운드부터 20라운드까지 9연패를 기록했으며, 이는 K리그2 역사상 최다 연패 기록이다. 여기서 한 번만 더 지면 [전북 버팔로가](../Page/전북_버팔로.md "wikilink") 달성했던 프로축구 역사상 최다 연패 기록과 타이를 이룰 수도 있었다. 그러나 21라운드 [전남 드래곤즈](../Page/전남_드래곤즈.md "wikilink") 원정 경기에서 1:0 승리를 거두며, K리그 통합 최다 연패라는 불명예는 겨우 면할 수 있었다. 전남 원정을 끝으로 오랫동안 천안과 원정을 떠돌던 서울 이랜드는 잠실에 잠시나마 복귀할 수 있게 되었다. 이 때 서울 이랜드는 깜짝 연승을 달렸으며, [안산 그리너스에게](https://ko.wikipedia.org/wiki/안산_그리너스 "wikilink") 일격을 당하기 전까지 4연승을 달리기도 했다. 그러나 4연승 이후 서울 이랜드는 그 전과 같이 좋지 못한 모습을 보였고, 시즌이 끝날 때까지 승리를 추가하지 못했다. 2019시즌 서울 이랜드는 5승 10무 21패 43득점 71실점을 기록하였다. 서울 이랜드 구단 역사상 최저 승점, 최저 승 수, 최다 실점 등을 기록했으며, 71실점이라는 기록은 K리그2 역사상 두번째에 해당하는 최다실점 기록이다. 최다 실점 기록은 [2016시즌](https://ko.wikipedia.org/wiki/K리그_챌린지_2016 "wikilink") [고양 자이크로의](https://ko.wikipedia.org/wiki/고양_자이크로 "wikilink") 72실점이었다.
 
 ### 정정용 체제
+
+2020시즌을 앞두고 [대한민국 U-20 축구 국가대표팀](../Page/대한민국_U-20_축구_국가대표팀.md "wikilink") 감독을 맡았던 정정용이 새롭게 서울 이랜드 FC 감독으로 취임했다.
 
 ## 선수단
 
@@ -830,7 +832,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도글라스_코치뉴" title="wikilink">도글라스 코치뉴</a></p></td>
+<td><p><a href="../Page/도글라스_코치뉴.md" title="wikilink">도글라스 코치뉴</a></p></td>
 <td><p>8</p></td>
 <td><p>1</p></td>
 <td><p>9</p></td>
@@ -1062,7 +1064,7 @@
 <tr class="odd">
 <td><p><a href="../Page/K리그2_2019.md" title="wikilink">2019</a></p></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도글라스_코치뉴" title="wikilink">도글라스 코치뉴</a></p></td>
+<td><p><a href="../Page/도글라스_코치뉴.md" title="wikilink">도글라스 코치뉴</a></p></td>
 <td><p>8</p></td>
 </tr>
 </tbody>

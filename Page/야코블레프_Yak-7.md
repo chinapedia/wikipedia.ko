@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Yak-7](https://ko.wikipedia.org/wiki/_Yak-7).
+> This article is converted from Wikipedia: [야코블레프 Yak-7](https://ko.wikipedia.org/wiki/야코블레프_Yak-7).
 
 
 **야코블레프 Yak-7**(Yakovlev Yak-7)은 [제2차세계대전](https://ko.wikipedia.org/wiki/제2차세계대전 "wikilink") 당시 [소련](../Page/소련.md "wikilink")의 [야코블레프](https://ko.wikipedia.org/wiki/야코블레프 "wikilink") 설계국이 개발한 [소련 공군의](https://ko.wikipedia.org/wiki/소련_공군 "wikilink") [전투기](https://ko.wikipedia.org/wiki/전투기 "wikilink")이다.

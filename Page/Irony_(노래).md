@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Irony \(\)](https://ko.wikipedia.org/wiki/Irony_\(\)).
+> This article is converted from Wikipedia: [Irony \(노래\)](https://ko.wikipedia.org/wiki/Irony_\(노래\)).
 
 
 〈**irony**〉(아이러니)는 kz가 작사·작곡·프로듀서를 담당한 [ClariS](../Page/ClariS.md "wikilink")의 노래 중 하나이다. 《[내 여동생이 이렇게 귀여울 리가 없어](../Page/내_여동생이_이렇게_귀여울_리가_없어.md "wikilink")》의 테마곡으로도 사용되었으며, ClariS에 따르면 그 가사 내용은 솔직하지 못한 10대 소녀의 마음을 그린 내용이라고 한다\[1\].

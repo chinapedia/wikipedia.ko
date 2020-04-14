@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Demography](https://ko.wikipedia.org/wiki/:Demography).
+> This article is converted from Wikipedia: [모듈:Demography](https://ko.wikipedia.org/wiki/모듈:Demography).
 
 
 \-- 이 모듈은 를 실행시켜 줍니다. 영어판 문서를 참고했습니다.

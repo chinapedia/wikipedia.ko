@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LE \(\)](https://ko.wikipedia.org/wiki/LE_\(\)).
+> This article is converted from Wikipedia: [LE \(가수\)](https://ko.wikipedia.org/wiki/LE_\(가수\)).
 
 
 **LE**(엘리, , 安孝珍\[1\] [1991년](../Page/1991년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink") [걸 그룹](../Page/걸_그룹.md "wikilink") [EXID](../Page/EXID.md "wikilink")의 구성원이다. 그룹 내에서 메인래퍼, 프로듀서이다.\[2\]

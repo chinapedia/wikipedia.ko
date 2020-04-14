@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mlily   vs  10](https://ko.wikipedia.org/wiki/Mlily___vs__10).
+> This article is converted from Wikipedia: [Mlily 몽백합 이세돌 vs 구리 10번기](https://ko.wikipedia.org/wiki/Mlily_몽백합_이세돌_vs_구리_10번기).
 
 
 **Mlily 몽백합 이세돌 vs 구리 10번기**(-夢百合 李世乭 古力 十番棋)는 [대한민국](../Page/대한민국.md "wikilink")의 [이세돌](../Page/이세돌.md "wikilink")과 [중국](../Page/중국.md "wikilink")의 [구리가](../Page/구리_\(바둑_기사\).md "wikilink") 대결하는 장쑤헝캉가구회사 주최의 [바둑](../Page/바둑.md "wikilink") 기전이다. [10번기](https://ko.wikipedia.org/wiki/10번기 "wikilink")로 치러진다. **세기의 대결**이라고도 한다. [충칭 시에서](https://ko.wikipedia.org/wiki/충칭_시 "wikilink") 열린 제8국에서 이세돌이 승리함으로써 최종전적 6:2로 상금 500만 위안(한화 약 8억 5천만원)을 가져갔다.

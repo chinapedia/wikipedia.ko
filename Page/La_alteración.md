@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [La alteracin](https://ko.wikipedia.org/wiki/La_alteracin).
+> This article is converted from Wikipedia: [La alteración](https://ko.wikipedia.org/wiki/La_alteración).
 
 
 《**la alteración**》(라 알테라시온)는 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 16번째 정규 음반으로 1995년 7월 21일에 발매하였다. ([CD](../Page/콤팩트_디스크.md "wikilink"): MVCD-25)\[1\] 《[UNBALANCE+BALANCE](../Page/UNBALANCE+BALANCE.md "wikilink")》 발매 이후 20개월만에 출시한 정규 음반으로 음반의 제목인 “la alteración”은 스페인어로 변화를 뜻한다.

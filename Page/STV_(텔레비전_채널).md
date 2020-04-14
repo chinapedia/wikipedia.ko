@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STV \( \)](https://ko.wikipedia.org/wiki/STV_\(_\)).
+> This article is converted from Wikipedia: [STV \(텔레비전 채널\)](https://ko.wikipedia.org/wiki/STV_\(텔레비전_채널\)).
 
 
 **STV**는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 [텔레비전 채널로](https://ko.wikipedia.org/wiki/텔레비전_채널 "wikilink"), 이전 명칭은 **스코티쉬 텔레비전**(Scottish Television)이었다. 북부와 중부 스코틀랜드에서 두 개의 ITV 면허를 운영하고 있다.

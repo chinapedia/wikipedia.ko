@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Power of Love \(  \)](https://ko.wikipedia.org/wiki/The_Power_of_Love_\(__\)).
+> This article is converted from Wikipedia: [The Power of Love \(제니퍼 러시의 노래\)](https://ko.wikipedia.org/wiki/The_Power_of_Love_\(제니퍼_러시의_노래\)).
 
 
 **The Power of Love**는 [1984년](../Page/1984년.md "wikilink") [제니퍼 러시](../Page/제니퍼_러시.md "wikilink") 등이 공동으로 만든 노래이며 제니퍼 러시가 이를 처음 취입했다. 몇몇 가수가 이 노래를 불렀으며 그중에서 [셀린 디온과](https://ko.wikipedia.org/wiki/셀린_디온 "wikilink") [로라 브래니건](https://ko.wikipedia.org/wiki/로라_브래니건 "wikilink"), [에어 서플라이가](../Page/에어_서플라이.md "wikilink") 유명하다. 러시가 부른 원곡 버전은 1985년 영국 차트 1위를 달성하고 그해 최고로 많이 팔린 싱글이었다. 또한 유럽 몇 개국에서와 캐나다, 뉴질랜드, 오스트레일리아에서도 1위를 차지했다. 셀린 디온의 버전은 1994년 미국과 캐나다에서 1위를 했다. 이 노래는 여러 언어로 번안되어 대표적인 대중 가요가 되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBK  ](https://ko.wikipedia.org/wiki/MBK__).
+> This article is converted from Wikipedia: [MBK 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/MBK_엔터테인먼트의_음반).
 
 
 이 문서는 [MBK 엔터테인먼트에서](../Page/MBK_엔터테인먼트.md "wikilink") 발매한 음반의 목록이다. 전신인 GM기획과 코어콘텐츠미디어하고 같이 넣을 수 있다.
@@ -272,7 +272,7 @@
   - 2019년 3월 19일 다이아 - **NEWTRO**
   - 2019년 3월 21일 [김영상](https://ko.wikipedia.org/wiki/PRODUCE_X_101 "wikilink"),[김지호](https://ko.wikipedia.org/wiki/PRODUCE_X_101 "wikilink"),[남도현](https://ko.wikipedia.org/wiki/PRODUCE_X_101 "wikilink") - **\[Digital Single\] _지마 (X1-MA)**\[48\]
   - 2019년 4월 2일 샤넌 - **아이템 OST Part.6**
-  - 2019년 4월 13일 [원더나인](https://ko.wikipedia.org/wiki/원더나인 "wikilink") - **XIX**
+  - 2019년 4월 13일 [원더나인](../Page/원더나인.md "wikilink") - **XIX**
   - 2019년 5월 17일 [송가인](../Page/송가인.md "wikilink") - **\[Digital Single\] 찍어**
   - 2019년 8월 6일 [비너스](https://ko.wikipedia.org/wiki/비너스_\(음악_그룹\) "wikilink") - **\[Digital Single\] 비너스**
   - 2019년 9월 9일 [홍자](https://ko.wikipedia.org/wiki/홍자 "wikilink") - **\[Digital Single\] 내:딛다**
@@ -283,8 +283,13 @@
 ## 2020년 \~ 2022년
 
   - 2020년 1월 25일 송가인 - **사랑의 불시착 OST Part.6**
-  - 2020년 2월 5일 이한결X남도현 - **\[Digital Single\] 오늘보다 더 나은 내일**
+  - 2020년 2월 5일 [H\&D](https://ko.wikipedia.org/wiki/H&D "wikilink") - **\[Digital Single\] 오늘보다 더 나은 내일**
   - 2020년 2월 26일 송가인 - **\[Digital Single\] 화류춘몽**
+  - 2020년 3월 5일 송가인 - **\[Digital Single\] 花柳春夢(1막2장)**
+  - 2020년 3월 28일 송가인 - **\[Digital Single\] 이별의 정류장**\[49\]
+  - 2020년 3월 30일 H\&D - **\[Digital Single\] 낯설어**
+  - 2020년 4월 21일 H\&D - **미정**
+  - 2020년 4월 ?일 다이아 - **미정**
 
 ## 각주
 
@@ -338,3 +343,4 @@
 46. [DJ H.One도](https://ko.wikipedia.org/wiki/DJ_H.One "wikilink") 앨범 참여.
 47. [트리탑스](https://ko.wikipedia.org/wiki/트리탑스 "wikilink"),[씨에](https://ko.wikipedia.org/wiki/씨에 "wikilink"),[몬스타엑스](../Page/몬스타엑스.md "wikilink")의 멤버 [형원](../Page/형원.md "wikilink"),[AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 멤버 [지민](../Page/지민_\(래퍼\).md "wikilink"),[럭키제이](../Page/럭키제이.md "wikilink")의 멤버 [제시](../Page/제시_\(가수\).md "wikilink"),[티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 멤버 [효민](../Page/효민.md "wikilink"),[DJ DOC의](../Page/DJ_DOC.md "wikilink") 멤버 [김창렬](https://ko.wikipedia.org/wiki/김창렬 "wikilink")도 앨범 참여.
 48. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](https://ko.wikipedia.org/wiki/한승우_\(가수\) "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink"),[박선호](../Page/박선호_\(배우\).md "wikilink") 외 92명도 앨범 참여.
+49. [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")도 앨범에 참여.

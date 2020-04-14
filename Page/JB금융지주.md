@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JB](https://ko.wikipedia.org/wiki/JB).
+> This article is converted from Wikipedia: [JB금융지주](https://ko.wikipedia.org/wiki/JB금융지주).
 
 
 **JB금융지주**는 전북은행을 모태로 설립된 대한민국의 금융지주회사이다. [BNK금융지주](https://ko.wikipedia.org/wiki/BNK금융지주 "wikilink"), [DGB금융지주](https://ko.wikipedia.org/wiki/DGB금융지주 "wikilink")와 함께 지방 3대 금융지주사로 불리고 있으며 광주은행 인수에 이어 캄보디아 프놈펜상업은행(PPCB)도 인수하여 동남아시아에도 진출하였다. 연결할 수 있는 카드사는 신한카드, 롯데카드, 삼성카드(전북은행 한정), 우리카드(광주은행 한정)만 되며 지방은행 중에서 유일하게 국내 증권사를 보유하고 있지 않지만 최근 모건스탠리(MorganStanley)로부터 베트남 중견 증권사인 모건스탠리게이트웨이증권(MSGS)을 인수한 계기로 해외 증권사를 보유하게 되었다. 체크카드는 마스터만 가능하다.

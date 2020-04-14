@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DOA \(\)](https://ko.wikipedia.org/wiki/DOA_\(\)).
+> This article is converted from Wikipedia: [DOA \(영화\)](https://ko.wikipedia.org/wiki/DOA_\(영화\)).
 
 
 《**DOA**》는 [2006년](../Page/2006년.md "wikilink") 공개된 영화이다.

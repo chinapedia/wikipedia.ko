@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LRC \( \)](https://ko.wikipedia.org/wiki/LRC_\(_\)).
+> This article is converted from Wikipedia: [LRC \(파일 포맷\)](https://ko.wikipedia.org/wiki/LRC_\(파일_포맷\)).
 
 
 **LRC**는 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")나 [OGG](../Page/Vorbis.md "wikilink"), [MIDI](../Page/MIDI.md "wikilink")와 같은 음악 파일과 동시에 동작되는 [노랫말](https://ko.wikipedia.org/wiki/노랫말 "wikilink")을 담은 [파일 확장자이다](../Page/파일_확장자.md "wikilink"). .lrc로 된 확장자를 사용하며 일반적으로 그 음악 파일과 동일한 이름으로 존재한다. 예를 들면 ***노래.mp3***와 ***노래.lrc*** 식으로 존재한다. LRC 포맷은 텍스트를 기반으로 하고 있으며 자막 파일과 비슷하다.

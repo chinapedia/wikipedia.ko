@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  S](https://ko.wikipedia.org/wiki/__S).
+> This article is converted from Wikipedia: [테슬라 모델 S](https://ko.wikipedia.org/wiki/테슬라_모델_S).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Blue_Tesla_Model_S_Zoutelande_dunes_Holland.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Model_S_Facelift.png "wikilink") [2019년 3분기에 출시되는 테슬라 모델S](https://ko.wikipedia.org/wiki/파일:27398_90658_4725.jpg "wikilink") **테슬라 모델 S**는 [테슬라가](../Page/테슬라_\(기업\).md "wikilink") 생산하는 준대형 세단 형태의 [전기자동차](../Page/전기자동차.md "wikilink")이다.

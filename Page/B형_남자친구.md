@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B ](https://ko.wikipedia.org/wiki/B_).
+> This article is converted from Wikipedia: [B형 남자친구](https://ko.wikipedia.org/wiki/B형_남자친구).
 
 
 《**B형 남자친구**》는 [2005년](../Page/2005년.md "wikilink")에 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 영화이다.

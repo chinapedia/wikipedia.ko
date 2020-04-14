@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ITV \( \)](https://ko.wikipedia.org/wiki/ITV_\(_\)).
+> This article is converted from Wikipedia: [ITV \(텔레비전 채널\)](https://ko.wikipedia.org/wiki/ITV_\(텔레비전_채널\)).
 
 
 **ITV**는 [ITV의](../Page/ITV_\(영국\).md "wikilink") 메인 채널이다. [2001년](../Page/2001년.md "wikilink") [8월](../Page/8월.md "wikilink")부터 [2013년](../Page/2013년.md "wikilink") [1월 14일까지는](../Page/1월_14일.md "wikilink") **ITV1**이라는 이름이었다.

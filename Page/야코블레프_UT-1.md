@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ UT-1](https://ko.wikipedia.org/wiki/_UT-1).
+> This article is converted from Wikipedia: [야코블레프 UT-1](https://ko.wikipedia.org/wiki/야코블레프_UT-1).
 
 
 **야코블레프 UT-1**(Yakovlev UT-1)은 1937 년부터 1940 년대 후반까지 사용된 [소련공군](https://ko.wikipedia.org/wiki/소련공군 "wikilink")의 [훈련기](https://ko.wikipedia.org/wiki/훈련기 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- MiG-3](https://ko.wikipedia.org/wiki/-_MiG-3).
+> This article is converted from Wikipedia: [미코얀-구레비치 MiG-3](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-3).
 
 
 **미코얀-구레비치 MiG-3**(Mikoyan-Gurevich MiG-3)은 [제2차세계대전](https://ko.wikipedia.org/wiki/제2차세계대전 "wikilink") 당시 [MiG-1을](../Page/미코얀-구레비치_MiG-1.md "wikilink") 기본으로 하여 고도 활용을 위해 과급기를 붙인 수냉식 엔진인 미클린 AM-35A를 장착한 [소련](../Page/소련.md "wikilink")의 [미코얀-구레비치](https://ko.wikipedia.org/wiki/미코얀-구레비치 "wikilink") 설계국이 개발한 [소련 공군의](https://ko.wikipedia.org/wiki/소련_공군 "wikilink") 고도전투기 용도로 개발된 고속전투기이다.

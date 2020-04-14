@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Duelist](https://ko.wikipedia.org/wiki/_Duelist).
+> This article is converted from Wikipedia: [형사 Duelist](https://ko.wikipedia.org/wiki/형사_Duelist).
 
 
 《**형사 Duelist**》는 [2005년](../Page/2005년.md "wikilink")에 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 액션 느와르 영화이다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [CBS ](https://ko.wikipedia.org/wiki/CBS_).
+> This article is converted from Wikipedia: [CBS 저녁종합뉴스](https://ko.wikipedia.org/wiki/CBS_저녁종합뉴스).
 
 
-《**CBS 저녁종합뉴스**》는 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [기독교방송의](../Page/CBS_\(대한민국의_방송사\).md "wikilink") 라디오 채널 [CBS 표준FM에서](../Page/CBS_표준FM.md "wikilink") 평일 저녁 6시 \~ 저녁 6시 20분까지 방송하는 라디오 뉴스 프로그램이다.
+《**CBS 저녁종합뉴스**》는 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [기독교방송의](../Page/CBS_\(대한민국의_방송사\).md "wikilink") 라디오 채널 [CBS 표준FM에서](../Page/CBS_표준FM.md "wikilink") 평일 저녁 6시 \~ 저녁 6시 25분까지 방송하는 라디오 뉴스 프로그램이다.
 
 [2015년](../Page/2015년.md "wikilink") CBS 라디오 가을 개편으로 기존 방송시간에서 저녁 6시로 이동되었다.
 
@@ -34,6 +34,7 @@
 
 ## 동시 시간대 뉴스 프로그램
 
-  - [TBS 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBS_저녁종합뉴스 "wikilink") ([TBS 교통방송](../Page/교통방송.md "wikilink"))
+  - [BBS 뉴스파노라마](https://ko.wikipedia.org/wiki/BBS_뉴스파노라마 "wikilink") ([BBS 불교방송](../Page/불교방송.md "wikilink"))
+  - [TBS 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBS_저녁종합뉴스 "wikilink") ([TBS 교통방송](https://ko.wikipedia.org/wiki/TBS_\(대한민국의_방송사\) "wikilink"))
 
 [분류:기독교방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:기독교방송의_뉴스_라디오_프로그램 "wikilink")

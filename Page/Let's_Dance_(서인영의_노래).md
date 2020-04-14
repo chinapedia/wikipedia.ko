@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Let\'s Dance \( \)](https://ko.wikipedia.org/wiki/Let\'s_Dance_\(_\)).
+> This article is converted from Wikipedia: [Let\'s Dance \(서인영의 노래\)](https://ko.wikipedia.org/wiki/Let\'s_Dance_\(서인영의_노래\)).
 
 
 〈**Let's Dance**〉는 대한민국의 가수 [서인영](../Page/서인영.md "wikilink")의 노래이다. 2012년 10월 18일 [CJ E\&M를](../Page/CJ_E&M.md "wikilink") 통해 발매되었다.

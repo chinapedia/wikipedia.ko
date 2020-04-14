@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [샤힌 아스마이예 FC](https://ko.wikipedia.org/wiki/샤힌_아스마이예_FC).
 
 
 **샤힌 아스마이예 FC**(Shaheen Asmayee F.C.)는 [아프가니스탄](https://ko.wikipedia.org/wiki/아프가니스탄 "wikilink") [카불](../Page/카불.md "wikilink")을 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [아프가니스탄 프리미어리그에서](https://ko.wikipedia.org/wiki/아프가니스탄_프리미어리그 "wikilink") 활동하고 있다.

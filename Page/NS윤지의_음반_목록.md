@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NS  ](https://ko.wikipedia.org/wiki/NS__).
+> This article is converted from Wikipedia: [NS윤지의 음반 목록](https://ko.wikipedia.org/wiki/NS윤지의_음반_목록).
 
 
 다음은 대한민국의 가수 [NS 윤지의](https://ko.wikipedia.org/wiki/NS_윤지 "wikilink") 음반 목록이다.

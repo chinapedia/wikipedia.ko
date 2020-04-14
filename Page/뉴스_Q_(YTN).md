@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Q \(YTN\)](https://ko.wikipedia.org/wiki/_Q_\(YTN\)).
+> This article is converted from Wikipedia: [뉴스 Q \(YTN\)](https://ko.wikipedia.org/wiki/뉴스_Q_\(YTN\)).
 
 
 《**뉴스 Q**》(NEWS Q)는 [대한민국](../Page/대한민국.md "wikilink") [YTN](../Page/YTN.md "wikilink")에서 평일 오후 4시에 방송되는 [YTN](../Page/YTN.md "wikilink")의 낮 뉴스 프로그램이다.

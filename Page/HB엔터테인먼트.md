@@ -1,13 +1,14 @@
-> This article is converted from Wikipedia: [HB](https://ko.wikipedia.org/wiki/HB).
+> This article is converted from Wikipedia: [HB엔터테인먼트](https://ko.wikipedia.org/wiki/HB엔터테인먼트).
 
 
-**HB엔터테인먼트**는 2006년 10월 1일에 설립된 종합 엔터테인먼트 회사이다 드라마.영화.연예인기획사.입니다.
+**HB엔터테인먼트**는 2006년 10월 1일에 설립된 종합 엔터테인먼트 회사이다 드라마.영화.연예인기획사입니다.
 
 ## 드라마 제작 작품
 
-  - 2019.09.28 방영중 **사랑은 뷰티풀 인생은 원더풀 (KBS2)**
-  - 2019.06.03 \~ 2019.07.29: [검법남녀 2](https://ko.wikipedia.org/wiki/검법남녀_2 "wikilink") (MBC)
-  - 2019.03.06 \~ 2019.05.02: [빅이슈](https://ko.wikipedia.org/wiki/빅이슈_\(2019년_드라마\) "wikilink") (SBS)
+  - 2020.03.23 \~ 2020.05.12: [365 : 운명을 거스르는 1년](https://ko.wikipedia.org/wiki/365_:_운명을_거스르는_1년 "wikilink") (MBC)
+  - 2019.09.28 \~ 2020.03.22: [사랑은 뷰티풀 인생은 원더풀](https://ko.wikipedia.org/wiki/사랑은_뷰티풀_인생은_원더풀 "wikilink") (KBS2)
+  - 2019.06.03 \~ 2019.07.29: [검법남녀 2](../Page/검법남녀_2.md "wikilink") (MBC)
+  - 2019.03.06 \~ 2019.05.02: [빅이슈](../Page/빅이슈_\(2019년_드라마\).md "wikilink") (SBS)
   - 2018.11.23 \~ 2019.02.01: [SKY 캐슬](../Page/SKY_캐슬.md "wikilink") (JTBC)
   - 2018.08.13 \~ 2018.10.08: [러블리 호러블리](../Page/러블리_호러블리.md "wikilink") (KBS2)
   - 2018.05.14 \~ 2018.07.17: [검법남녀](../Page/검법남녀.md "wikilink") (MBC)
@@ -65,17 +66,16 @@
   - [안재현](../Page/안재현.md "wikilink")
   - [고보결](../Page/고보결.md "wikilink")
   - [이이경](../Page/이이경.md "wikilink")
-  - [권수현](../Page/권수현_\(배우\).md "wikilink")
-  - [조수현](https://ko.wikipedia.org/wiki/조수현_\(1996년\) "wikilink")
   - [백승환](../Page/백승환.md "wikilink")
   - [김재영](../Page/김재영_\(배우\).md "wikilink")
   - [한지은](../Page/한지은_\(배우\).md "wikilink")
   - [조병규](../Page/조병규_\(배우\).md "wikilink")
   - [차예련](../Page/차예련.md "wikilink")
-  - [정일우](../Page/정일우.md "wikilink")
+  - [주상욱](../Page/주상욱.md "wikilink")
   - [구혜선](../Page/구혜선.md "wikilink")
   - [윤진이](../Page/윤진이.md "wikilink")
   - [김지은](https://ko.wikipedia.org/wiki/김지은 "wikilink")
+  - [임현태](https://ko.wikipedia.org/wiki/임현태 "wikilink")
 
 ## 각주
 

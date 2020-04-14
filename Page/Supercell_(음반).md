@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Supercell \(\)](https://ko.wikipedia.org/wiki/Supercell_\(\)).
+> This article is converted from Wikipedia: [Supercell \(음반\)](https://ko.wikipedia.org/wiki/Supercell_\(음반\)).
 
 
 〈**supercell**〉(슈퍼셀)은 [supercell](https://ko.wikipedia.org/wiki/supercell "wikilink")의 첫 번째 [오리지널 앨범이다](../Page/정규_음반.md "wikilink"). [2009년](../Page/2009년.md "wikilink") [3월 4일에](../Page/3월_4일.md "wikilink") GT music에서 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 서울 아카데미](https://ko.wikipedia.org/wiki/FC_서울_아카데미).
 
 
 [FC 서울 아카데미는](../Page/FC_서울_아카데미.md "wikilink") [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") [유스 시스템에](https://ko.wikipedia.org/wiki/유스_시스템 "wikilink") 의해 프로 선수 육성 개념으로 운영되는 각급 유소년팀([U-18팀](https://ko.wikipedia.org/wiki/오산고등학교_\(서울\)_축구부 "wikilink"), [U-15팀](https://ko.wikipedia.org/wiki/오산중학교_\(서울\)_축구부 "wikilink"), [U-12팀](https://ko.wikipedia.org/wiki/FC_서울_U-12팀 "wikilink")) 그리고 축구 저변 확대 개념으로 운영되는 유소년 축구교실인 [Future of FC 서울을](../Page/Future_of_FC_서울.md "wikilink") 말한다.\[1\]
@@ -135,7 +135,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 
 <!-- end list -->
 
-  - **[춘계 한국고등학교축구연맹전](https://ko.wikipedia.org/wiki/한국고등학교축구연맹전 "wikilink")**
+  - **[춘계 한국고등학교축구연맹전](../Page/한국고등학교축구연맹전.md "wikilink")**
 
 <!-- end list -->
 
@@ -737,7 +737,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 (대후 / <a href="../Page/2011_K리그_드래프트.md" title="wikilink">2011 드래프트</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/박민규_(축구_선수)" title="wikilink">박민규</a> (대)</p></td>
+<td><p><a href="../Page/박민규_(축구_선수).md" title="wikilink">박민규</a> (대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박준영_(축구_선수)" title="wikilink">박준영</a> (대)</p></td>
 <td></td>
 <td></td>
@@ -803,7 +803,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <td><p>2007</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
 <td><p>2012</p></td>
-<td><p>재학 중 <a href="https://ko.wikipedia.org/wiki/대한축구협회_우수선수_해외유학_프로젝트" title="wikilink">대한축구협회 우수선수 해외유학 프로젝트</a> 선발</p></td>
+<td><p>재학 중 <a href="../Page/대한축구협회_우수선수_해외유학_프로젝트.md" title="wikilink">대한축구협회 우수선수 해외유학 프로젝트</a> 선발</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/손흥민.md" title="wikilink">손흥민</a></p></td>

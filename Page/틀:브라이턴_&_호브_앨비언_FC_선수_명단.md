@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: \&   FC  ](https://ko.wikipedia.org/wiki/:_\&___FC__).
+> This article is converted from Wikipedia: [틀:브라이턴 \& 호브 앨비언 FC 선수 명단](https://ko.wikipedia.org/wiki/틀:브라이턴_\&_호브_앨비언_FC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

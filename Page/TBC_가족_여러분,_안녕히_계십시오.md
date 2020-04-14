@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBC  ,  ](https://ko.wikipedia.org/wiki/TBC__,__).
+> This article is converted from Wikipedia: [TBC 가족 여러분, 안녕히 계십시오](https://ko.wikipedia.org/wiki/TBC_가족_여러분,_안녕히_계십시오).
 
 
 《**TBC 가족 여러분, 안녕히 계십시오**》는 [1980년](../Page/1980년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") 방영된 [동양방송](../Page/동양방송.md "wikilink")(TBC)의 고별 프로그램이다.

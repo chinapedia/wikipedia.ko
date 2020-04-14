@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(SQL\)](https://ko.wikipedia.org/wiki/_\(SQL\)).
+> This article is converted from Wikipedia: [힌트 \(SQL\)](https://ko.wikipedia.org/wiki/힌트_\(SQL\)).
 
 
 [데이터베이스 쿼리에서](../Page/데이터베이스.md "wikilink") 다양한 [SQL](../Page/SQL.md "wikilink") 구현체들은 [데이터베이스 엔진에](../Page/데이터베이스_엔진.md "wikilink") 쿼리 실행 방법을 지시하는 SQL 표준의 추가분으로서 **힌트**()를 사용한다. 이를테면 힌트는 엔진에게 가능한 메모리를 덜 쓰도록 지시할 수도 있고(쿼리가 느리게 동작하더라도), [색인의](../Page/인덱스_\(데이터베이스\).md "wikilink") 사용 여부를 알릴 수도 있다([쿼리 최적화에](https://ko.wikipedia.org/wiki/쿼리_최적화 "wikilink") 관계 없이).

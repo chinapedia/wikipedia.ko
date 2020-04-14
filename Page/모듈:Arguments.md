@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Arguments](https://ko.wikipedia.org/wiki/:Arguments).
+> This article is converted from Wikipedia: [모듈:Arguments](https://ko.wikipedia.org/wiki/모듈:Arguments).
 
 
 \-- This module provides easy processing of arguments passed to Scribunto from -- \#invoke. It is intended for use by other Lua modules, and should not be -- called from \#invoke directly.

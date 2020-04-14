@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T ](https://ko.wikipedia.org/wiki/_T_).
+> This article is converted from Wikipedia: [라이카 T 타입](https://ko.wikipedia.org/wiki/라이카_T_타입).
 
 
 **라이카 T**()은 [2014년](../Page/2014년.md "wikilink") 4월 25일에 공개된 [라이카](https://ko.wikipedia.org/wiki/라이카 "wikilink")의 [APS-C](https://ko.wikipedia.org/wiki/APS-C "wikilink") [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink").\[1\] 라이카 T는 . 해당 센서는 [안티에일리어싱](https://ko.wikipedia.org/wiki/안티에일리어싱 "wikilink")필터를 제거한 1,620만 화소 센서를 탑재했으며, 라이카 최초로 APS-C 포맷을 사용한 렌즈 교환식 카메라다. 미러리스용으로 새롭게 디자인된 라이카 T마운트를 채용했으며, [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink")와 대형 터치 LCD를 탑재하였고, 이를 통해 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")용 Leica T app 앱으로 제어할 수 있다.

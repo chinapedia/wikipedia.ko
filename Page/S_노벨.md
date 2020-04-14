@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S ](https://ko.wikipedia.org/wiki/S_).
+> This article is converted from Wikipedia: [S 노벨](https://ko.wikipedia.org/wiki/S_노벨).
 
 
 **S 노벨**은 [2012년](../Page/2012년.md "wikilink") 창립된 [소미미디어](https://ko.wikipedia.org/wiki/소미미디어 "wikilink")의 [라이트 노벨](../Page/라이트_노벨.md "wikilink") 레이블이다. 발매일은 1일과 15일이다. 창간작으로는 [던전에서 만남을 추구하면 안 되는 걸까](../Page/던전에서_만남을_추구하면_안_되는_걸까.md "wikilink"), [백은의 구세기](https://ko.wikipedia.org/wiki/백은의_구세기 "wikilink"), [시스터 서큐버스는 참회하지 않아이며](https://ko.wikipedia.org/wiki/시스터_서큐버스는_참회하지_않아 "wikilink") 창간작 세트로도 판매가 되었다.

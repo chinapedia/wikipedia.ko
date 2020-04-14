@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Overdose\)](https://ko.wikipedia.org/wiki/_\(Overdose\)).
+> This article is converted from Wikipedia: [중독 \(Overdose\)](https://ko.wikipedia.org/wiki/중독_\(Overdose\)).
 
 
 《**중독 (Overdose)**》는 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹 [EXO](../Page/EXO.md "wikilink")의 두 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 앨범이다. [2014년](../Page/2014년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") 서울 잠실실내체육관에서 열린 '삼성뮤직과 함께 하는 EXO 컴백 쇼케이스'를 통해 타이틀곡 '중독 (Overdose)'과 뮤직 비디오를 공개했다. 그리고 엑소 전 중국인 멤버 [우이판](../Page/우이판.md "wikilink")(예명:크리스), [루한](../Page/루한.md "wikilink")의 탈퇴 전의 마지막 앨범이다.\[1\]

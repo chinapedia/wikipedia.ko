@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Curlingbox6](https://ko.wikipedia.org/wiki/:Curlingbox6).
+> This article is converted from Wikipedia: [틀:Curlingbox6](https://ko.wikipedia.org/wiki/틀:Curlingbox6).
 
 
 <noinclude></noinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+> This article is converted from Wikipedia: [EBS 문화센터](https://ko.wikipedia.org/wiki/EBS_문화센터).
 
 
 **EBS 문화센터**는 대한민국의 [EBS에서](../Page/한국교육방송공사.md "wikilink") 방영했던 오전 시간대의 [텔레비전](../Page/텔레비전.md "wikilink") 교양 프로그램이다.

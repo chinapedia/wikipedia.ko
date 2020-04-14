@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox ship career](https://ko.wikipedia.org/wiki/:Infobox_ship_career).
+> This article is converted from Wikipedia: [틀:Infobox ship career](https://ko.wikipedia.org/wiki/틀:Infobox_ship_career).
 
 
 <includeonly>{{\#switch:  | yes | Yes = | no | No | \#default =

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Z](https://ko.wikipedia.org/wiki/_Z).
+> This article is converted from Wikipedia: [프리스타일 풋볼Z](https://ko.wikipedia.org/wiki/프리스타일_풋볼Z).
 
 
 **프리스타일 풋볼Z**()은 [조이시티가](../Page/조이시티_\(기업\).md "wikilink") 제작한 스포츠 [온라인 게임이다](../Page/온라인_게임.md "wikilink"). 프리스타일 시리즈의 4번째 시리즈이기도 하다. [2014년](../Page/2014년.md "wikilink") [5월 22일에](../Page/5월_22일.md "wikilink") CBT를 시작하였다. [2014년](../Page/2014년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") 15:00(KST) 시에 OBT를 시작하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F.O.E.: ...](https://ko.wikipedia.org/wiki/F.O.E.:_...).
+> This article is converted from Wikipedia: [F.O.E.: 에프.오.이.](https://ko.wikipedia.org/wiki/F.O.E.:_에프.오.이.).
 
 
 《**F.O.E.: 에프.오.이.**》()는 [2013년](../Page/2013년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 액션 영화이다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ShVAK ](https://ko.wikipedia.org/wiki/ShVAK_).
+> This article is converted from Wikipedia: [ShVAK 기관포](https://ko.wikipedia.org/wiki/ShVAK_기관포).
 
 
-The **ShVAK** (, "Shpitalny-Vladimirov large-calibre for aircraft")은 [제 2차 세계대전때](https://ko.wikipedia.org/wiki/제_2차_세계대전 "wikilink") [소련](../Page/소련.md "wikilink")에 의해 사용되던 [20 mm](https://ko.wikipedia.org/wiki/20mm_구경 "wikilink") [자동기관포](https://ko.wikipedia.org/wiki/자동기관포 "wikilink")이다. 이것은 It [Boris Shpitalniy와](https://ko.wikipedia.org/wiki/Boris_Shpitalniy "wikilink") [Semyon Vladimirov에게서](https://ko.wikipedia.org/wiki/Semyon_Vladimirov "wikilink") 설계되었으며, 1936년 생산에 들어갔다. ShVAK은 많은 소련 전투기들에게 설치되었다. **TNSh**는 경전차를 위한 버전이다. ().
+The **ShVAK**(, "Shpitalny-Vladimirov large-calibre for aircraft")은 [제 2차 세계대전때](https://ko.wikipedia.org/wiki/제_2차_세계대전 "wikilink") [소련](../Page/소련.md "wikilink")에 의해 사용되던 [20 mm](https://ko.wikipedia.org/wiki/20mm_구경 "wikilink") [자동기관포](https://ko.wikipedia.org/wiki/자동기관포 "wikilink")이다. 이것은 It [Boris Shpitalniy와](https://ko.wikipedia.org/wiki/Boris_Shpitalniy "wikilink") [Semyon Vladimirov에게서](https://ko.wikipedia.org/wiki/Semyon_Vladimirov "wikilink") 설계되었으며, 1936년 생산에 들어갔다. ShVAK은 많은 소련 전투기들에게 설치되었다. **TNSh**는 경전차를 위한 버전이다. ().
 
 ## 개발과 생산
 

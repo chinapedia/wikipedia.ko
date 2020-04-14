@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK   ](https://ko.wikipedia.org/wiki/NHK___).
+> This article is converted from Wikipedia: [NHK 방송 기술 연구소](https://ko.wikipedia.org/wiki/NHK_방송_기술_연구소).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:NHK_Science_&_Technical_Research_Laboratories.JPG "wikilink")

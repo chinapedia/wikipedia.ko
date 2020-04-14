@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MHD ](https://ko.wikipedia.org/wiki/MHD_).
+> This article is converted from Wikipedia: [MHD 발전](https://ko.wikipedia.org/wiki/MHD_발전).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MHD_generator_\(En\).png "wikilink") **MHD 발전기**()는 열에너지와 [운동에너지](https://ko.wikipedia.org/wiki/운동에너지 "wikilink")를 직접적으로 [전기](../Page/전기.md "wikilink")로 변환시킨다. MHD 발전기는 움직이는 부분이 없이 높은 온도에서 작동한다는 점에서 기존의 전기 발전기와 다르다. MHD 발전기의 뜨거운 배기가스는 전반적인 효율을 증가시키며 증기 발전소의 보일러를 가열할 수 있도록 개발되었다. MHD는 특히 [석탄](../Page/석탄.md "wikilink") 또는 [천연가스](../Page/천연가스.md "wikilink")를 태울 때 토핑 사이클로서 전력 생산의 효율을 높인다. MHD의 발전기는 액체 금속을 퍼 올리고 선박 엔진의 몇 가지 실험에 적용되는 MHD propulsors의 보완물이다.

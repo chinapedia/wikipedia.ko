@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox ship characteristics](https://ko.wikipedia.org/wiki/:Infobox_ship_characteristics).
+> This article is converted from Wikipedia: [틀:Infobox ship characteristics](https://ko.wikipedia.org/wiki/틀:Infobox_ship_characteristics).
 
 
 <includeonly>{{\#switch:  | yes | Yes = | no | No | \#default =

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B- ](https://ko.wikipedia.org/wiki/B-_).
+> This article is converted from Wikipedia: [B-모드 편광](https://ko.wikipedia.org/wiki/B-모드_편광).
 
 
 **B-모드 편광**()이란 [우주 마이크로파 배경에서](../Page/우주_마이크로파_배경.md "wikilink") 나타나는 편광 신호이다. CMB에서 관측되는 편광 패턴은 두 성분으로 쪼갤 수 있다. 하나는 [회전이](../Page/회전_\(벡터\).md "wikilink") 없고(curl-free) [구배만이](../Page/기울기_\(벡터\).md "wikilink") 있는(gradient-only) 성분이다. 이 성분은 [회전이](../Page/회전_\(벡터\).md "wikilink") 0이므로, [정전기장](https://ko.wikipedia.org/wiki/정전기장 "wikilink")과 유사하여 **E-모드 편광성분**이라고 부른다. E- 모드 편광성분은 2002년, [DASI에](https://ko.wikipedia.org/wiki/Degree_Angular_Scale_Interferomete "wikilink") 의해 처음 관찰되었다. 또 하나는 [회전만이](../Page/회전_\(벡터\).md "wikilink") 있는 성분인데, 이는 **B-모드 편광성분**이라고 부른다.

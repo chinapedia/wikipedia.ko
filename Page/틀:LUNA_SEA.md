@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:LUNA SEA](https://ko.wikipedia.org/wiki/:LUNA_SEA).
+> This article is converted from Wikipedia: [틀:LUNA SEA](https://ko.wikipedia.org/wiki/틀:LUNA_SEA).
 
 
 <onlyinclude></onlyinclude>

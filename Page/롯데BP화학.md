@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BP](https://ko.wikipedia.org/wiki/BP).
+> This article is converted from Wikipedia: [롯데BP화학](https://ko.wikipedia.org/wiki/롯데BP화학).
 
 
 **롯데BP화학**(, 롯데BP化學)은 [대한민국](../Page/대한민국.md "wikilink")의 기업으로, [삼성그룹](../Page/삼성그룹.md "wikilink")과 [영국](../Page/영국.md "wikilink")의 BP케미칼즈(BP Chemicals)가 49대 51로 합작 설립하였다.

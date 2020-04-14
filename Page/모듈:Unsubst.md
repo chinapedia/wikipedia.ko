@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Unsubst](https://ko.wikipedia.org/wiki/:Unsubst).
+> This article is converted from Wikipedia: [모듈:Unsubst](https://ko.wikipedia.org/wiki/모듈:Unsubst).
 
 
 local checkType = require('libraryUtil').checkType

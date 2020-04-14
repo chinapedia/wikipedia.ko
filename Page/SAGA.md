@@ -149,16 +149,16 @@
 14.
 15. <http://www.jpopasia.com/news/super-asian-pop-unit-saga-korea-x-japan-x-china-to-debut-in-jakarta-indonesia>::15815.html
 16.
-17. <http://www.asiatoday.co.kr/view.php?lcode=7&series=&ncid=&key=20140331010017179>
+17.
 18.
 19.
 20. <http://www.jpopasia.com/news/super-asian-pop-unit-saga-korea-x-japan-x-china-to-debut-in-jakarta-indonesia>::15815.html
 21. <http://www.jpopasia.com/news/super-asian-pop-unit-saga-korea-x-japan-x-china-to-debut-in-jakarta-indonesia>::15815.html
 22.
-23. <http://avexnet.jp/artist_detail.php?artist_cd=SAGAX&search_word=%E3%82%B5>
+23.
 24. <http://www.barks.jp/artist/?id=1000001595>
-25. <http://avexnet.jp/artist_detail.php?artist_cd=SAGAX&search_word=%E3%82%B5>
-26. <http://avexnet.jp/artist_detail.php?artist_cd=SAGAX&search_word=%E3%82%B5>
+25.
+26.
 27. <http://music.yule.sohu.com/20120116/n332330888.shtml>
 28. <http://www.jpopasia.com/news/super-asian-pop-unit-saga-korea-x-japan-x-china-to-debut-in-jakarta-indonesia>::15815.html
 29. <http://www.jpopasia.com/news/super-asian-pop-unit-saga-korea-x-japan-x-china-to-debut-in-jakarta-indonesia>::15815.html

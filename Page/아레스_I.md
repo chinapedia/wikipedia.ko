@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I](https://ko.wikipedia.org/wiki/_I).
+> This article is converted from Wikipedia: [아레스 I](https://ko.wikipedia.org/wiki/아레스_I).
 
 
 **아레스 I**(Ares I)은 취소된 [미국](../Page/미국.md "wikilink")의 [우주발사체](../Page/우주발사체.md "wikilink")이다. [컨스텔레이션 계획의](../Page/컨스텔레이션_계획.md "wikilink") 일부로 [우주왕복선](../Page/우주왕복선.md "wikilink")이 퇴역한 뒤 유인 우주 비행을 위해 [오리온을](../Page/오리온_\(우주선\).md "wikilink") 발사하는 발사체로서 개발이 진행되었으나\[1\], 컨스텔레이션 계획이 취소되면서 아레스 I 역시 취소되었다.\[2\] 오리온은 대신 [SLS에](../Page/우주_발사_시스템.md "wikilink") 실려 발사되도록 변경되었다.\[3\] 우주왕복선과 그 이전에서 사용된 구성품들을 최대한 활용하는 방식으로 개발되었으며 유인 [지구 저궤도](../Page/지구_저궤도.md "wikilink") 탐사에 사용될 목적이었다.\[4\] 유일하게 시행된 발사는 2009년 1단 시험을 목적으로 한 아레스 I-X 뿐이다.

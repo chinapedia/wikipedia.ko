@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM ](https://ko.wikipedia.org/wiki/IBM_).
+> This article is converted from Wikipedia: [IBM 메인프레임](https://ko.wikipedia.org/wiki/IBM_메인프레임).
 
 
 **IBM 메인프레임**()은 [IBM](../Page/IBM.md "wikilink")이 1952년부터 현재까지 생산 중인 대형 컴퓨터 시스템이다. 1960년대부터 1970년대까지 [메인프레임 컴퓨터라는](https://ko.wikipedia.org/wiki/메인프레임_컴퓨터 "wikilink") 용어는 시장 점유율로 인해 IBM 제품의 메인프레임과 거의 동일시하다시피 했다. [IBM](../Page/IBM.md "wikilink")의 비즈니스 컴퓨터 계열에 속하는 현재의 메인프레임은 IBM [시스템/360](https://ko.wikipedia.org/wiki/시스템/360 "wikilink")의 기본 디자인을 발전시켜놓은 것이다.

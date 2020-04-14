@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TATTOO \(  \)](https://ko.wikipedia.org/wiki/TATTOO_\(__\)).
+> This article is converted from Wikipedia: [TATTOO \(나카모리 아키나의 노래\)](https://ko.wikipedia.org/wiki/TATTOO_\(나카모리_아키나의_노래\)).
 
 
 〈**TATTOO**〉(타투)는 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 21번째 싱글로 1988년 5월 18일에 발매되었다. ([EP](../Page/익스텐디드_플레이.md "wikilink"): L-1757, [8cmCD](../Page/콤팩트_디스크.md "wikilink"): 10SL-13) 작사는 모리 유리코()가, 작곡은 세키네 안리()가, 편곡은 록밴드 EUROX가 담당하였고 [워너 파이오니어의](../Page/워너_뮤직_재팬.md "wikilink") 레이블로 출시되었다. [B사이드](https://ko.wikipedia.org/wiki/B사이드 "wikilink")곡은 〈소악마 (르 프아종)〉()으로, 작사는 아소 게이코()가, 작곡은 니시무라 마사토시()가, 편곡은 미야케 준()이 도맡았다.\[1\] 음악방송에서는 미니스커트를 입고 곡을 선보였는데, 정작 가수인 나카모리는 평상시에 미니스커트를 입는 것을 좋아하지 않았으나, 곡의 분위기에 어울릴 것 같아 입고 무대에 서기로 했다. 1988년 5월 30일, 오리콘 주간 싱글 차트에 1위로 처음 올라온 이후 6월 6일까지 2주 연속 1위를 달성하였다. 차트 톱100을 총 20주간 지켰고, 6월 오리콘 월간 싱글 차트 1위, 1988년 오리콘 연간 싱글 차트 13위를 기록했다.\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KH ](https://ko.wikipedia.org/wiki/KH_).
+> This article is converted from Wikipedia: [KH 케미컬](https://ko.wikipedia.org/wiki/KH_케미컬).
 
 
 **KH 케미컬**은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink") 상록구 해안로 705, 1동 207호 (사동, 경기테크노파크파일롯플랜트)에 위치한 대한민국의 화학회사이다. 과거 고합 고려합섬 등으로 불리었다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SL ](https://ko.wikipedia.org/wiki/SL_).
+> This article is converted from Wikipedia: [SL 히토요시](https://ko.wikipedia.org/wiki/SL_히토요시).
 
 
-**SL 히토요시** (, 에스엘 히토요시)는 [큐슈여객철도](../Page/큐슈여객철도.md "wikilink")가 [카고시마 본선과](../Page/가고시마_본선.md "wikilink") [히사츠선의](../Page/히사쓰_선.md "wikilink") [쿠마모토 역](https://ko.wikipedia.org/wiki/쿠마모토_역 "wikilink") - [히토요시 역](../Page/히토요시_역.md "wikilink") 구간에서 운영하고 있는 [증기기관차](https://ko.wikipedia.org/wiki/증기기관차 "wikilink")를 이용, 견인해 운영하는 [임시](https://ko.wikipedia.org/wiki/임시열차 "wikilink") [쾌속](https://ko.wikipedia.org/wiki/쾌속열차 "wikilink") [관광열차](../Page/관광열차.md "wikilink")이다.
+**SL 히토요시**(, 에스엘 히토요시)는 [큐슈여객철도](../Page/큐슈여객철도.md "wikilink")가 [카고시마 본선과](../Page/가고시마_본선.md "wikilink") [히사츠선의](../Page/히사쓰_선.md "wikilink") [쿠마모토 역](https://ko.wikipedia.org/wiki/쿠마모토_역 "wikilink") - [히토요시 역](../Page/히토요시_역.md "wikilink") 구간에서 운영하고 있는 [증기기관차](https://ko.wikipedia.org/wiki/증기기관차 "wikilink")를 이용, 견인해 운영하는 [임시](https://ko.wikipedia.org/wiki/임시열차 "wikilink") [쾌속](https://ko.wikipedia.org/wiki/쾌속열차 "wikilink") [관광열차](../Page/관광열차.md "wikilink")이다.
 
 ## 개요
 

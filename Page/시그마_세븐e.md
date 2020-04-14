@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ e](https://ko.wikipedia.org/wiki/_e).
+> This article is converted from Wikipedia: [시그마 세븐e](https://ko.wikipedia.org/wiki/시그마_세븐e).
 
 
 **(주)시그마 세븐e**는 일본의 연예기획사이다. 모회사 [시그마 세븐에서](../Page/시그마_세븐.md "wikilink") [2009년](../Page/2009년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 설립하였다.
@@ -40,7 +40,7 @@
   - [모리 유코](../Page/모리_유코.md "wikilink")
   - [모리나가 치토세](https://ko.wikipedia.org/wiki/모리나가_치토세 "wikilink")
   - [미사키 마리](https://ko.wikipedia.org/wiki/미사키_마리 "wikilink")
-  - [세토 아사미](https://ko.wikipedia.org/wiki/세토_아사미 "wikilink")
+  - [세토 아사미](../Page/세토_아사미.md "wikilink")
   - [스즈모리 사이카](https://ko.wikipedia.org/wiki/스즈모리_사이카 "wikilink")
   - [아시자와 아키코](https://ko.wikipedia.org/wiki/아시자와_아키코 "wikilink")
   - [야마자키 리사](https://ko.wikipedia.org/wiki/야마자키_리사 "wikilink")
@@ -54,7 +54,7 @@
   - [유키 마리](https://ko.wikipedia.org/wiki/유키_마리 "wikilink")
   - [이마이 키미카](https://ko.wikipedia.org/wiki/이마이_키미카 "wikilink")
   - [이시즈카 치카](https://ko.wikipedia.org/wiki/이시즈카_치카 "wikilink")
-  - [이시하라 카오리](https://ko.wikipedia.org/wiki/이시하라_카오리 "wikilink")
+  - [이시하라 카오리](../Page/이시하라_카오리.md "wikilink")
   - [이케모토 마유미](https://ko.wikipedia.org/wiki/이케모토_마유미 "wikilink")
   - [카토 미유키](https://ko.wikipedia.org/wiki/카토_미유키 "wikilink")
   - [코타니 나오코](https://ko.wikipedia.org/wiki/코타니_나오코 "wikilink")

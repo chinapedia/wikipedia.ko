@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LIAR \(\)](https://ko.wikipedia.org/wiki/LIAR_\(\)).
+> This article is converted from Wikipedia: [LIAR \(노래\)](https://ko.wikipedia.org/wiki/LIAR_\(노래\)).
 
 
 〈**LIAR**〉(라이어)는 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 23번째 싱글로 1989년 4월 25일에 발매되었다. ([EP](../Page/익스텐디드_플레이.md "wikilink"): 06L7-4070, [CT](../Page/콤팩트_카세트.md "wikilink"): 09L5-4070, [8cmCD](../Page/콤팩트_디스크.md "wikilink"): 09L3-4070) 작사는 시라미네 미츠코()가, 작곡은 이즈미 카즈야()가, 편곡은 니시히라 아키라()가 담당하였고 [워너 파이오니어의](../Page/워너_뮤직_재팬.md "wikilink") 레이블로 출시되었다. [B사이드](https://ko.wikipedia.org/wiki/B사이드 "wikilink")곡은 〈Blue On Pink〉로, 작사는 미우라 요시코()가, 작곡은 구니야스 와타루()가, 편곡은 와카쿠사 케이()가 도맡았다.\[1\] 이 곡으로 활동 중이던 1989년 7월 11일, 나카모리는 연인이었던 [곤도 마사히코와의](https://ko.wikipedia.org/wiki/곤도_마사히코 "wikilink") 치정문제로 곤도의 집에서 왼쪽 손의 신경을 칼로 긋고 자살을 기도하였으며 이후 1년간 활동을 중지하게 되었다.
