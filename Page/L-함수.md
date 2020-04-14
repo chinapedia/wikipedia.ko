@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L-](https://ko.wikipedia.org/wiki/L-).
+> This article is converted from Wikipedia: [L-함수](https://ko.wikipedia.org/wiki/L-함수).
 
 
 [섬네일는](https://ko.wikipedia.org/wiki/파일:Riemann-Zeta-Func.png "wikilink") 모든 L-함수의 원형으로 생각할 수 있다.\[1\]|대체글=리만 제타 함수는 모든 L-함수의 원형으로 생각할 수 있다.\]\] **L-함수**(L-function)는 [복소평면](../Page/복소평면.md "wikilink")에서 정의된 [유리형 함수로](../Page/유리형_함수.md "wikilink") 몇 가지 [수학적 대상과](../Page/수학적_대상.md "wikilink") 연결되어 있다. L-시리즈는 [디리클레 급수로](../Page/디리클레_급수.md "wikilink") 복소 상반 평면에서 수렴하며 해석적 확장을 통해 L-함수를 만들 수 있다.

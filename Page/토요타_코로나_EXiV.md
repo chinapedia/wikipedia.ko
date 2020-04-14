@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  EXiV](https://ko.wikipedia.org/wiki/__EXiV).
+> This article is converted from Wikipedia: [토요타 코로나 EXiV](https://ko.wikipedia.org/wiki/토요타_코로나_EXiV).
 
 
 **토요타 코로나 EXiV**(Toyota Corona EXiV)는 [토요타에서](../Page/토요타_자동차.md "wikilink") 생산한 승용차이다. 차명인 코로나 EXiV는 [개기일식](https://ko.wikipedia.org/wiki/개기일식 "wikilink") 때 보이는 태양의 광구가 달에 가려져 그 둘레에 흰색 빛을 띄는 부분을 의미하는 [코로나](../Page/코로나.md "wikilink")와 Extra Impressive에서 따온 EXiV를 합친 것이다. [일본어](../Page/일본어.md "wikilink")에서 V 소리를 어떻게 표기하느냐에 따라 다르겠지만, [토요타 자동차에서는](../Page/토요타_자동차.md "wikilink") 공식적으로 엑시브를 エクシブ가 아닌 エクシヴ로 표기한다.

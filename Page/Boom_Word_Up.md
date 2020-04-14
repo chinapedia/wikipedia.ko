@@ -29,11 +29,12 @@
 ## 차트
 
   - 오리콘 위클리차트 3위를 기록하였다. (16/5/12)
-  - 뮤직스테이션 시디 랭킹 3위를 기록하였다. (16/5/6)
-  - CDTV 랭킹 3위를 기록하였다 (16/5/14)
+  - [뮤직스테이션](https://ko.wikipedia.org/wiki/뮤직스테이션 "wikilink") 시디 랭킹 3위를 기록하였다. (16/5/6)
+  - [CDTV](../Page/카운트_다운_TV.md "wikilink") 랭킹 3위를 기록하였다 (16/5/14)
 
 ## 외부 링크
 
   - [w-inds.(윈즈) 싱글 디스코 그라피 Boom Word Up 싱글 발매 (5월 3일)](http://www.w-inds.tv/discography/single/)
 
+  -
 [분류:2016년 싱글](https://ko.wikipedia.org/wiki/분류:2016년_싱글 "wikilink") [분류:W-inds.의 노래](https://ko.wikipedia.org/wiki/분류:W-inds.의_노래 "wikilink")

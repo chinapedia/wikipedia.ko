@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Revel Presents: Beyonc Live](https://ko.wikipedia.org/wiki/Revel_Presents:_Beyonc_Live).
+> This article is converted from Wikipedia: [Revel Presents: Beyoncé Live](https://ko.wikipedia.org/wiki/Revel_Presents:_Beyoncé_Live).
 
 
 '''Revel Presents: Beyoncé Live '''는 미국 [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink") 가수 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 세 번째 [레지던트 쇼이다](https://ko.wikipedia.org/wiki/레지던트_쇼 "wikilink"). 2012년 5월 25일부터 27일까지 [4를](https://ko.wikipedia.org/wiki/4_\(비욘세_놀스의_음반\) "wikilink") 홍보하는 목적으로 공연되었다.

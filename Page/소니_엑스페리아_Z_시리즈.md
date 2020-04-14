@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Z ](https://ko.wikipedia.org/wiki/__Z_).
+> This article is converted from Wikipedia: [소니 엑스페리아 Z 시리즈](https://ko.wikipedia.org/wiki/소니_엑스페리아_Z_시리즈).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Xperia_Logo.svg "wikilink") **소니 엑스페리아 Z 시리즈**는 [소니 모바일](../Page/소니_모바일_커뮤니케이션스.md "wikilink") 제조 소니 엑스페리아 시리즈의 주력 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")과 [태블릿을](../Page/태블릿_컴퓨터.md "wikilink") 의미한다.

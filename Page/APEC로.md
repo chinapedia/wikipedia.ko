@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [APEC](https://ko.wikipedia.org/wiki/APEC).
+> This article is converted from Wikipedia: [APEC로](https://ko.wikipedia.org/wiki/APEC로).
 
 
 **APEC로**는 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](../Page/해운대구.md "wikilink") 우동 올림픽동산삼거리와 올림픽 교차로를 잇는 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")의 도로이다. 2005년 부산에서 [아시아 태평양 경제협력체](../Page/아시아_태평양_경제협력체.md "wikilink")(APEC) 정상회담이 열린 것을 기념하여 APEC로라 명명되었다.

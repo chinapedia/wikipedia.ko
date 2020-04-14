@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [On the Run Tour \(Beyonc and Jay Z\)](https://ko.wikipedia.org/wiki/On_the_Run_Tour_\(Beyonc_and_Jay_Z\)).
+> This article is converted from Wikipedia: [On the Run Tour \(Beyoncé and Jay Z\)](https://ko.wikipedia.org/wiki/On_the_Run_Tour_\(Beyoncé_and_Jay_Z\)).
 
 
 **On the Run Tour (Beyoncé and Jay Z)**는 미국의 싱어송라이터 [비욘세 놀스와](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink"), [제이 지](https://ko.wikipedia.org/wiki/제이_지 "wikilink") 부부의 첫 합동 [콘서트 투어이자](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"), 스타디움 투어이다.

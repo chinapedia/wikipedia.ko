@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   \(APG III  \)](https://ko.wikipedia.org/wiki/___\(APG_III__\)).
+> This article is converted from Wikipedia: [속씨식물의 과 목록 \(APG III 분류 체계\)](https://ko.wikipedia.org/wiki/속씨식물의_과_목록_\(APG_III_분류_체계\)).
 
 
 아래는 [APG III 분류 체계에](../Page/APG_III_분류_체계.md "wikilink") 따른 **[속씨식물](../Page/속씨식물.md "wikilink")군의 과 목록**으로 모두 68목, 414과를 포함하고 있다.\[1\]\[2\]\[3\]\[4\]

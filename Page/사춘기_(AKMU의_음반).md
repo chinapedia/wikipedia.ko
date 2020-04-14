@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(AKMU \)](https://ko.wikipedia.org/wiki/_\(AKMU_\)).
+> This article is converted from Wikipedia: [사춘기 \(AKMU의 음반\)](https://ko.wikipedia.org/wiki/사춘기_\(AKMU의_음반\)).
 
 
 《**사춘기**》는 상하로 나뉜 대한민국 남매듀오 그룹 악동뮤지션의 앨범이다. 사춘기 상(思春記 上)은 악동뮤지션의 첫 미니앨범(EP)이며 2016년 5월 4일 [KT 뮤직](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 을 통해 음원이 발매되었고, 5월 9일 앨범 판매를 시작했다. 사춘기 하(思春記 下)는 2017년 1월 3일에 발표되었다.

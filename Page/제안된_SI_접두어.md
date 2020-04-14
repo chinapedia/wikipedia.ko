@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SI ](https://ko.wikipedia.org/wiki/_SI_).
+> This article is converted from Wikipedia: [제안된 SI 접두어](https://ko.wikipedia.org/wiki/제안된_SI_접두어).
 
 
 **제안된 SI 접두어**는 아직 표준 [SI 접두어로는](https://ko.wikipedia.org/wiki/SI_접두어 "wikilink") 나타낼 수 없는 크거나 작은 수를 나타내는 말로 제안된 것을 말한다.

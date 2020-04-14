@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  ED](https://ko.wikipedia.org/wiki/__ED).
+> This article is converted from Wikipedia: [토요타 카리나 ED](https://ko.wikipedia.org/wiki/토요타_카리나_ED).
 
 
 **토요타 카리나 ED**(Toyota Carina ED)는 [토요타에서](../Page/토요타_자동차.md "wikilink") 생산한 승용차이다. 차명인 카리나 ED는 [용골자리](../Page/용골자리.md "wikilink")를 의미하는 카리나와 Exciting Dressy에서 따온 ED를 합친 것이다.

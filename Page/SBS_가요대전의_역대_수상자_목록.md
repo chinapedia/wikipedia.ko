@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS    ](https://ko.wikipedia.org/wiki/SBS____).
+> This article is converted from Wikipedia: [SBS 가요대전의 역대 수상자 목록](https://ko.wikipedia.org/wiki/SBS_가요대전의_역대_수상자_목록).
 
 
 **SBS 가요대전의 역대 수상자 목록**은 [SBS 가요대전의](../Page/SBS_가요대전.md "wikilink") 역대 수상자들을 기술한다.
@@ -145,7 +145,7 @@
 <tr class="odd">
 <td><p>신인상</p></td>
 <td><p><a href="../Page/이정현_(1980년).md" title="wikilink">이정현</a> (솔로)<br />
-<a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a>, <a href="../Page/샵_(음악_그룹).md" title="wikilink">샵</a> (그룹)</p></td>
+<a href="../Page/코요태.md" title="wikilink">코요태</a>, <a href="../Page/샵_(음악_그룹).md" title="wikilink">샵</a> (그룹)</p></td>
 </tr>
 <tr class="even">
 <td><p>10대 가수상</p></td>
@@ -247,7 +247,7 @@
 </tr>
 <tr class="even">
 <td><p>댄스 부문</p></td>
-<td><p><a href="../Page/홍경민.md" title="wikilink">홍경민</a> (솔로), <a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a> (그룹)</p></td>
+<td><p><a href="../Page/홍경민.md" title="wikilink">홍경민</a> (솔로), <a href="../Page/코요태.md" title="wikilink">코요태</a> (그룹)</p></td>
 </tr>
 <tr class="odd">
 <td><p>발라드 부문</p></td>
@@ -324,7 +324,7 @@
 </tr>
 <tr class="odd">
 <td><p>본상</p></td>
-<td><p><a href="../Page/보아.md" title="wikilink">보아</a>, <a href="../Page/이수영.md" title="wikilink">이수영</a>, <a href="../Page/왁스_(가수).md" title="wikilink">왁스</a>, <a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a>, <a href="../Page/장나라.md" title="wikilink">장나라</a>, <a href="../Page/임창정.md" title="wikilink">임창정</a>, <a href="../Page/박효신.md" title="wikilink">박효신</a>, <a href="https://ko.wikipedia.org/wiki/신화_(음악_그룹)" title="wikilink">신화</a>,<br />
+<td><p><a href="../Page/보아.md" title="wikilink">보아</a>, <a href="../Page/이수영.md" title="wikilink">이수영</a>, <a href="../Page/왁스_(가수).md" title="wikilink">왁스</a>, <a href="../Page/코요태.md" title="wikilink">코요태</a>, <a href="../Page/장나라.md" title="wikilink">장나라</a>, <a href="../Page/임창정.md" title="wikilink">임창정</a>, <a href="../Page/박효신.md" title="wikilink">박효신</a>, <a href="https://ko.wikipedia.org/wiki/신화_(음악_그룹)" title="wikilink">신화</a>,<br />
 <a href="../Page/김현정_(가수).md" title="wikilink">김현정</a>, <a href="../Page/쿨_(음악_그룹).md" title="wikilink">쿨</a>, <a href="../Page/베이비복스.md" title="wikilink">베이비복스</a>, <a href="https://ko.wikipedia.org/wiki/성시경" title="wikilink">성시경</a>, <a href="../Page/이정현_(1980년).md" title="wikilink">이정현</a>, <a href="../Page/강타.md" title="wikilink">강타</a>, <a href="../Page/신승훈.md" title="wikilink">신승훈</a></p></td>
 </tr>
 <tr class="even">
@@ -402,7 +402,7 @@
 </tr>
 <tr class="odd">
 <td><p>본상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/NRG_(음악_그룹)" title="wikilink">NRG</a>, <a href="../Page/이수영.md" title="wikilink">이수영</a>, <a href="../Page/이효리.md" title="wikilink">이효리</a>, <a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a>, <a href="../Page/S_(음악_그룹).md" title="wikilink">S</a>, <a href="https://ko.wikipedia.org/wiki/윤도현밴드" title="wikilink">윤도현밴드</a>, <a href="https://ko.wikipedia.org/wiki/신화_(음악_그룹)" title="wikilink">신화</a>, <a href="../Page/플라이_투_더_스카이.md" title="wikilink">플라이 투 더 스카이</a>,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/NRG_(음악_그룹)" title="wikilink">NRG</a>, <a href="../Page/이수영.md" title="wikilink">이수영</a>, <a href="../Page/이효리.md" title="wikilink">이효리</a>, <a href="../Page/코요태.md" title="wikilink">코요태</a>, <a href="../Page/S_(음악_그룹).md" title="wikilink">S</a>, <a href="https://ko.wikipedia.org/wiki/윤도현밴드" title="wikilink">윤도현밴드</a>, <a href="https://ko.wikipedia.org/wiki/신화_(음악_그룹)" title="wikilink">신화</a>, <a href="../Page/플라이_투_더_스카이.md" title="wikilink">플라이 투 더 스카이</a>,<br />
 <a href="../Page/조성모.md" title="wikilink">조성모</a>, <a href="../Page/베이비복스.md" title="wikilink">베이비복스</a>, <a href="https://ko.wikipedia.org/wiki/성시경" title="wikilink">성시경</a>, <a href="../Page/보아.md" title="wikilink">보아</a>, <a href="../Page/비_(가수).md" title="wikilink">비</a>, <a href="../Page/쥬얼리.md" title="wikilink">쥬얼리</a>, <a href="https://ko.wikipedia.org/wiki/휘성" title="wikilink">휘성</a></p></td>
 </tr>
 <tr class="even">
@@ -480,7 +480,7 @@
 </tr>
 <tr class="odd">
 <td><p>본상</p></td>
-<td><p><a href="../Page/보아.md" title="wikilink">보아</a>, <a href="../Page/이수영.md" title="wikilink">이수영</a>, <a href="../Page/비_(가수).md" title="wikilink">비</a>, <a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a>, <a href="../Page/자우림.md" title="wikilink">자우림</a>, <a href="../Page/동방신기.md" title="wikilink">동방신기</a>, <a href="../Page/박효신.md" title="wikilink">박효신</a>,<br />
+<td><p><a href="../Page/보아.md" title="wikilink">보아</a>, <a href="../Page/이수영.md" title="wikilink">이수영</a>, <a href="../Page/비_(가수).md" title="wikilink">비</a>, <a href="../Page/코요태.md" title="wikilink">코요태</a>, <a href="../Page/자우림.md" title="wikilink">자우림</a>, <a href="../Page/동방신기.md" title="wikilink">동방신기</a>, <a href="../Page/박효신.md" title="wikilink">박효신</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/신화_(음악_그룹)" title="wikilink">신화</a>, <a href="../Page/박상민_(가수).md" title="wikilink">박상민</a>, <a href="../Page/김종국_(가수).md" title="wikilink">김종국</a>, <a href="https://ko.wikipedia.org/wiki/엠씨_더_맥스" title="wikilink">엠씨 더 맥스</a>, <a href="../Page/이승철.md" title="wikilink">이승철</a></p></td>
 </tr>
 <tr class="even">

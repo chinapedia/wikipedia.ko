@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SHOW](https://ko.wikipedia.org/wiki/SHOW).
+> This article is converted from Wikipedia: [어서옵SHOW](https://ko.wikipedia.org/wiki/어서옵SHOW).
 
 
 《**어서옵SHOW**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방영된 [한국방송공사의 텔레비전 프로그램이며](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink") 2016년 5월 6일부터 2016년 10월 7일까지 방송되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Random](https://ko.wikipedia.org/wiki/:Random).
+> This article is converted from Wikipedia: [모듈:Random](https://ko.wikipedia.org/wiki/모듈:Random).
 
 
 \-- This module contains a number of functions that make use of random numbers.

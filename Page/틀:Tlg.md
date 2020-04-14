@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Tlg](https://ko.wikipedia.org/wiki/:Tlg).
+> This article is converted from Wikipedia: [틀:Tlg](https://ko.wikipedia.org/wiki/틀:Tlg).
 
 
 <includeonly> {{\#if: |<span class="nowrap">}} {{\#if:}}} |<code> |{{\#if:|<code style="border:none;background:transparent;">}} }} {{\#if: | |{{}} {{\#if: |[subst](https://ko.wikipedia.org/wiki/Help:Substitution "wikilink"):}} {{\#if:}}}}}} |'''}} {{\#if: | | {{\#if: |{}} {{\!((}}: {{\#ifeq:|: | |{{\#switch:}}

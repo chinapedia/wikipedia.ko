@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [4 Intimate Nights with Beyonc](https://ko.wikipedia.org/wiki/4_Intimate_Nights_with_Beyonc).
+> This article is converted from Wikipedia: [4 Intimate Nights with Beyoncé](https://ko.wikipedia.org/wiki/4_Intimate_Nights_with_Beyoncé).
 
 
 **4 Intimate Nights with Beyoncé**는 미국 [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink") 가수 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 두 번째 [레지던트 쇼이다](https://ko.wikipedia.org/wiki/레지던트_쇼 "wikilink"). 2009년 7월부터 8월까지 밤에 [4를](https://ko.wikipedia.org/wiki/4_\(비욘세_놀스의_음반\) "wikilink") 홍보하는 목적으로 공연되었다. 콘서트는 [뉴욕주](../Page/뉴욕주.md "wikilink") [맨해튼](../Page/맨해튼.md "wikilink") [로즈랜드 무도회장에서](https://ko.wikipedia.org/wiki/로즈랜드_무도회장 "wikilink") 열렸다.

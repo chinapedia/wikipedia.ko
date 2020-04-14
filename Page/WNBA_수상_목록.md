@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WNBA  ](https://ko.wikipedia.org/wiki/WNBA__).
+> This article is converted from Wikipedia: [WNBA 수상 목록](https://ko.wikipedia.org/wiki/WNBA_수상_목록).
 
 
 **WNBA 수상 목록**(WNBA Individual awards)은 [전미 여자 농구 협회](https://ko.wikipedia.org/wiki/전미_여자_농구_협회 "wikilink") 매 시즌이 끝나면 수여하는 최우수선수상, 우수후보선수상, 신인상, 기량발전상, 수비선수상, 코치상 등의 목록이다.

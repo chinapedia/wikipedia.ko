@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ W](https://ko.wikipedia.org/wiki/_W).
+> This article is converted from Wikipedia: [터닝메카드 W](https://ko.wikipedia.org/wiki/터닝메카드_W).
 
 
-《**터닝메카드 W**》는 장난감 [터닝메카드](../Page/터닝메카드.md "wikilink")를 소재로 하여, 초이락컨텐츠팩토리와 희원엔터테인먼트에서 제작하고 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송하는 [메카](https://ko.wikipedia.org/wiki/메카_\(장르\) "wikilink") [어드벤처](https://ko.wikipedia.org/wiki/모험 "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")으로 첫 시리즈인 《[터닝메카드](https://ko.wikipedia.org/wiki/터닝메카드_\(TV_프로그램\) "wikilink")》의 속편. W는 Wing의 약칭으로, 비행기 형태의 신종 메카니멀이 등장할 예정.
+《**터닝메카드 W**》는 장난감 [터닝메카드](../Page/터닝메카드.md "wikilink")를 소재로 하여, 초이락컨텐츠팩토리와 희원엔터테인먼트에서 제작하고 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송하는 [메카](https://ko.wikipedia.org/wiki/메카_\(장르\) "wikilink") [어드벤처](https://ko.wikipedia.org/wiki/모험 "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")으로 첫 시리즈인 《[터닝메카드](https://ko.wikipedia.org/wiki/터닝메카드_\(TV_프로그램\) "wikilink")》의 속편. W는 Wing의 약칭이다.
 
 ## 방송 시간
 
@@ -129,7 +129,7 @@
   - <span style="font-weight:bold; color:#800080">타나토스</span>
   - <span style="font-weight:bold; color:#008000">슈마</span>
   - <span style="font-weight:bold; color:#800080">알타</span>
-  - <span style="text-shadow: 0 0 3px #FFD700;color:#000000">피닉스</span>
+  - <span style="text-shadow: 0 0 3px #ffd700;color:#000000">피닉스</span>
   - <span style="font-weight:bold; color:#dcdcdc">테로</span>
   - <span style="font-weight:bold; color:#ff1493">미리내</span>
   - <span style="font-weight:bold; color:#ff0000">코카트</span>
@@ -160,7 +160,7 @@
   - <span style="font-weight:bold; color:#ff0000">메가드래곤</span>
   - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span>
   - <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>
-  - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리</span><span style="text-shadow: 0 0 3px #800080;color:#ff0000">핑크스</span> (그리폰 + 스핑크스)
+  - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리</span><span style="text-shadow: 0 0 3px #800080;color:#ff0000">핑크스</span> (<span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span> + <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>)
   - <span style="font-weight:bold; color:#0000ff">요타</span>
   - <span style="font-weight:bold; color:#ff0000">네오</span>
   - <span style="font-weight:bold; color:#8a2be2">엑스</span>

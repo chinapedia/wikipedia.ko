@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RLVTD](https://ko.wikipedia.org/wiki/RLVTD).
+> This article is converted from Wikipedia: [RLV–TD](https://ko.wikipedia.org/wiki/RLV–TD).
 
 
 **RLV–TD**는 인도 [ISRO](https://ko.wikipedia.org/wiki/ISRO "wikilink")가 개발중인 유인 [우주왕복선](../Page/우주왕복선.md "wikilink")의 축소형 시험모델이다.

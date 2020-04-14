@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Spring \( EP\)](https://ko.wikipedia.org/wiki/Spring_\(_EP\)).
+> This article is converted from Wikipedia: [Spring \(에이프릴의 EP\)](https://ko.wikipedia.org/wiki/Spring_\(에이프릴의_EP\)).
 
 
 《**Spring**》(스프링)은 대한민국 걸그룹 [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") 두 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink").

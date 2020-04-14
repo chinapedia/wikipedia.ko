@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SMRT code](https://ko.wikipedia.org/wiki/:SMRT_code).
+> This article is converted from Wikipedia: [틀:SMRT code](https://ko.wikipedia.org/wiki/틀:SMRT_code).
 
 
 <span style="background-color:#{{SMRT color|{{{1}}}}};display:inline-block;text-align:center;line-height:18px;border-radius: 9px 9px 9px 9px;color:#ffffff">** ** </span><noinclude>

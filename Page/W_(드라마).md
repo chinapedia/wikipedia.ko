@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W \(\)](https://ko.wikipedia.org/wiki/W_\(\)).
+> This article is converted from Wikipedia: [W \(드라마\)](https://ko.wikipedia.org/wiki/W_\(드라마\)).
 
 
 《**W**》()는 [2016년](../Page/2016년.md "wikilink") [7월 20일부터](../Page/7월_20일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [9월 14일까지](../Page/9월_14일.md "wikilink") [MBC에서](../Page/MBC_TV.md "wikilink") 방영된 [수목드라마이다](../Page/문화방송_수목_미니시리즈.md "wikilink").
@@ -175,13 +175,6 @@
 ## 외부 링크
 
   - [MBC 수목드라마 W 공식 홈페이지](http://www.imbc.com/broad/tv/drama/w/index.html)
-
-## 다시 보는 곳 링크
-
-  - [POOQ (푹)](https://www.pooq.co.kr/player/vod.html?programid=M_1003357100000100000&contentid=M_1003357100014100000.1)
-  - [oksusu (옥수수)](https://www.oksusu.com/v/%7B20864023-4996-11E6-A1D5-25C5A550AE0E%7D?cw=/v/%7B20864023-4996-11E6-A1D5-25C5A550AE0E%7D)
-  - [왓챠플레이 (W 검색)](https://play.watcha.net)
-  - [네이버 시리즈 (PC 전용)](https://series.naver.com/broadcasting/detail.nhn?productNo=2380629)
 
 [분류:2016년 드라마](https://ko.wikipedia.org/wiki/분류:2016년_드라마 "wikilink") [분류:문화방송 수목 미니시리즈](https://ko.wikipedia.org/wiki/분류:문화방송_수목_미니시리즈 "wikilink") [분류:대한민국의 로맨스 드라마](https://ko.wikipedia.org/wiki/분류:대한민국의_로맨스_드라마 "wikilink") [분류:대한민국의 서스펜스 드라마](https://ko.wikipedia.org/wiki/분류:대한민국의_서스펜스_드라마 "wikilink") [분류:가공의 책](https://ko.wikipedia.org/wiki/분류:가공의_책 "wikilink") [분류:의사를 주인공으로 한 작품](https://ko.wikipedia.org/wiki/분류:의사를_주인공으로_한_작품 "wikilink") [분류:대한민국의 판타지 드라마](https://ko.wikipedia.org/wiki/분류:대한민국의_판타지_드라마 "wikilink") [분류:만화를 소재로 한 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:만화를_소재로_한_텔레비전_드라마 "wikilink") [분류:초록뱀미디어의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:초록뱀미디어의_텔레비전_프로그램 "wikilink") [분류:송재정 시나리오 작품](https://ko.wikipedia.org/wiki/분류:송재정_시나리오_작품 "wikilink")
 

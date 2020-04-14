@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV    ](https://ko.wikipedia.org/wiki/TV____).
+> This article is converted from Wikipedia: [TV 아사히 금요일 밤 드라마](https://ko.wikipedia.org/wiki/TV_아사히_금요일_밤_드라마).
 
 
 《**TV 아사히 · ABC 금요일 밤 드라마**》는 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 전국 넷으로 매주 [금요일](../Page/금요일.md "wikilink") 21:00에서 방송된 [아사히 방송제작](../Page/아사히_방송.md "wikilink") 드라마 정원의 일람이다. 여기에서는 주로 《더 교수형》 시리즈나 《적카브 검사 분전》 시리즈가 인기를 모았던 [1977년](../Page/1977년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [1987년](../Page/1987년.md "wikilink") [9월](../Page/9월.md "wikilink")까지 10년간 혹은 [2006년](../Page/2006년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [2011년](../Page/2011년.md "wikilink") [3월](../Page/3월.md "wikilink") 방송 아사히와의 공동 제작 드라마 틀(이 테두리는 《김 9(균형)신기》이란 호칭이 있었다)을 중심으로 다룬다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Every day](https://ko.wikipedia.org/wiki/_Every_day).
+> This article is converted from Wikipedia: [반짝반짝 Every day](https://ko.wikipedia.org/wiki/반짝반짝_Every_day).
 
 
 〈**반짝반짝 Every day**〉()는 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 5번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2012년](../Page/2012년.md "wikilink") [1월 4일에](../Page/1월_4일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.

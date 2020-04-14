@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dream \( \)](https://ko.wikipedia.org/wiki/Dream_\(_\)).
+> This article is converted from Wikipedia: [Dream \(정은지의 음반\)](https://ko.wikipedia.org/wiki/Dream_\(정은지의_음반\)).
 
 
 《**Dream**》은 [정은지](https://ko.wikipedia.org/wiki/정은지 "wikilink")의 첫 솔로 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   Eyes of Heaven](https://ko.wikipedia.org/wiki/___Eyes_of_Heaven).
+> This article is converted from Wikipedia: [죠죠의 기묘한 모험 Eyes of Heaven](https://ko.wikipedia.org/wiki/죠죠의_기묘한_모험_Eyes_of_Heaven).
 
 
 **죠죠의 기묘한 모험 Eyes Of Heaven**(ジョジョの奇妙な冒険 アイズオブヘブン)은 [2015년](../Page/2015년.md "wikilink") [12월 17일에](../Page/12월_17일.md "wikilink") [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") 발매한 [죠죠의 기묘한 모험 All Star Battle의](../Page/죠죠의_기묘한_모험_All_Star_Battle.md "wikilink") 후속작이다.
@@ -117,11 +117,11 @@
 
 #### 5부 황금의 바람
 
-  - 죠르노 죠바나
+  - 죠르노 죠바나& g.e(g.e.r)
     성우 - [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")
   - 귀도 미스타 & 섹스 피스톨즈
     성우 - [아카바네 겐지](https://ko.wikipedia.org/wiki/아카바네_겐지 "wikilink"), [이마이 아사미](../Page/이마이_아사미.md "wikilink")
-  - 블로노 부첼라티
+  - 부르노 부챠라티&스티키 핑거즈
     성우- [스기야마 노리아키](../Page/스기야마_노리아키.md "wikilink")
   - 나란챠 길가
     성우 - [산페이 유코](https://ko.wikipedia.org/wiki/산페이_유코 "wikilink")
@@ -365,6 +365,10 @@ PV영상도 ASB을 발판 삼아 한층 발전했다. 전작의 경우 원작을
 ## Eyes Of Heaven 토너먼트
 
 전작처럼 이번에도 CPU 토너먼트가 있었다. 정황상 1000가지가 넘는 조합을 다 넣을 리는 없고 원작재현이나 특정한 듀얼 히트 어택이 가능한 팀으로 구성될 것 같다는 예상이 많았으나 예상을 깨고 콤비를 투표로 다 뽑았다. 일단 콤비 투표를 10월 17일까지 진행했다. 상위 콤비는 ASB 때와 마찬가지로 예선 면제권이 주어진다. 1위는 죠타로 +카쿄인, 2위는 죠타로+DIO, 3위는 죠셉+시저
+
+## 명대사
+
+필요한 것은 나의 스탠드이다. 필요한 것은 신뢰할수 있는 벗이다. 필요한 것은 극악의 죄를 범한 36인의 영혼이다. 필요한 것은 14개의 단어이다. 필요한 것은 용기이다. 썩어가는 나의 스탠드는 36죄인의 영혼을 흡수,
 
 ## 각주
 

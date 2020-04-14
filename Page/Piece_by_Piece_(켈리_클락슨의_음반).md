@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Piece by Piece \(  \)](https://ko.wikipedia.org/wiki/Piece_by_Piece_\(__\)).
+> This article is converted from Wikipedia: [Piece by Piece \(켈리 클락슨의 음반\)](https://ko.wikipedia.org/wiki/Piece_by_Piece_\(켈리_클락슨의_음반\)).
 
 
 ***Piece by Piece***는 [켈리 클락슨의](../Page/켈리_클락슨.md "wikilink") 7번째 정규 앨범이다. 이 앨범은 2015년 2월 27일, [RCA 레코드를](../Page/RCA_레코드.md "wikilink") 통해 발매되었다. 첫 [크리스마스 앨범인](https://ko.wikipedia.org/wiki/크리스마스_앨범 "wikilink") *[Wrapped in Red](../Page/Wrapped_in_Red.md "wikilink")* (2013) 다음에 발매되었고, *[Stronger](https://ko.wikipedia.org/wiki/Stronger_\(켈리_클락슨의_음반\) "wikilink")* (2011) 이후로 온전히 새로운 창작물로 구성된 앨범은 처음이다. 그리고 2002년 [아메리칸 아이돌의](../Page/아메리칸_아이돌.md "wikilink") 첫번째 시즌에서 우승하며 맺은 계약에서의 마지막 앨범이다.

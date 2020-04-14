@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [!   GUYS \& GIRLS](https://ko.wikipedia.org/wiki/!___GUYS_\&_GIRLS).
+> This article is converted from Wikipedia: [도전! 수퍼모델 코리아 GUYS \& GIRLS](https://ko.wikipedia.org/wiki/도전!_수퍼모델_코리아_GUYS_\&_GIRLS).
 
 
 《**도전\! 수퍼모델 코리아 GUYS & GIRLS**》는 《[도전\! 수퍼모델 코리아](../Page/도전!_수퍼모델_코리아.md "wikilink")》의 다섯번째 시즌이다. 우승자는 [황기쁨](https://ko.wikipedia.org/wiki/황기쁨 "wikilink")이며, 준우승자는 [이철우와](../Page/이철우_\(모델\).md "wikilink") [한승수이다](https://ko.wikipedia.org/wiki/한승수_\(모델\) "wikilink").

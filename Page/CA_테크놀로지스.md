@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
+> This article is converted from Wikipedia: [CA 테크놀로지스](https://ko.wikipedia.org/wiki/CA_테크놀로지스).
 
 
 **CA 테크놀로지스**(CA Technologies, 과거 사명: Computer Associates International, Inc., CA, Inc.)는 세계 최대의 독립 소프트웨어 기업들 가운데 하나이다. 간단히 **CA**라고도 부르며, 본사는 미국 뉴욕 시에 위치해 있다. 이 회사는 과거에는 [응용 소프트웨어를](../Page/응용_소프트웨어.md "wikilink") 만들기도 했지만, 현재는 [메인프레임](../Page/메인프레임.md "wikilink"), [분산 컴퓨팅](../Page/분산_컴퓨팅.md "wikilink"), [가상 머신](../Page/가상_머신.md "wikilink"), [클라우드 컴퓨팅](../Page/클라우드_컴퓨팅.md "wikilink") 환경에서 동작하는 [시스템 소프트웨어를](../Page/시스템_소프트웨어.md "wikilink") 개발하고 있다.

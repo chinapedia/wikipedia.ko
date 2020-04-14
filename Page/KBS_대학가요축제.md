@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 대학가요축제](https://ko.wikipedia.org/wiki/KBS_대학가요축제).
 
 
 **KBS 대학가요축제**는 [한국방송공사](../Page/한국방송공사.md "wikilink") 라디오국이 주최하는 대학생을 위한 가요제이다. 젊음의 끼를 발산하고 대학생 다운 가요 발굴을 목적으로 1987년에 시작하였으며, 참가한 대학생들은 창작곡으로 노래 실력을 겨루고, 본선은 한국방송공사를 통해 생방송되었다. 당시 5공화국 시절때 존재하는 검열과 사상통제 탓인지 대학가요는 상대적으로 덜한 주요공급처였고, 이때부터 [MBC 대학가요제를](../Page/MBC_대학가요제.md "wikilink") 뒤이어 KBS가 뒤늦게 대응을 하며 대학가요축제를 시작하였다.\[1\] 그러나 첫회 대상곡인 "물안개"를 제외하면 어떠한 주요곡도 배출하지 못함은 물론, 출신 가수도 상당히 적은 입김의 영향이 크고, 또 90년대 초 아이돌 그룹의 영향과 상업화 문제 기성 표절 등으로 쇠퇴를 하게 되었다.\[2\]

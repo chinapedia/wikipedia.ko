@@ -66,7 +66,7 @@ System V의 [실행 수준은](https://ko.wikipedia.org/wiki/실행_수준 "wiki
 
   -
 
-  - [A history of modern init systems (1992–2015)](http://blog.darknedgy.net/technology/2015/09/05/0/)
+  - [A history of modern init systems (1992–2015)](https://web.archive.org/web/20151011235646/http://blog.darknedgy.net/technology/2015/09/05/0/)
 
 [분류:유닉스 프로세스 및 작업 관리 관련 소프트웨어](https://ko.wikipedia.org/wiki/분류:유닉스_프로세스_및_작업_관리_관련_소프트웨어 "wikilink")
 

@@ -39,6 +39,7 @@
   - [까위사라 싱쁠롯](https://ko.wikipedia.org/wiki/까위사라_싱쁠롯 "wikilink") (마이유) (กวิสรา สิงห์ปลอด; มายยู)
   - [와린랏 욘쁘라송](https://ko.wikipedia.org/wiki/와린랏_욘쁘라송 "wikilink") (니키) (วรินท์รัตน์ ยลประสงค์)
   - [찌다파 챔초이](https://ko.wikipedia.org/wiki/찌다파_챔초이 "wikilink") (팬다) (จิดาภา แช่มช้อย; แพนด้า)
+  - [린라다 인타이송](https://ko.wikipedia.org/wiki/린라다_인타이송 "wikilink") (삐암) (รินรดา อินทร์ไธสง; เปี่ยม)
   - [위라야 짱](https://ko.wikipedia.org/wiki/위라야_짱 "wikilink") (위) (วีรยา จาง; วี)
 
 ### 팀NV
@@ -51,12 +52,10 @@
   - [와라타야 디솜릇](https://ko.wikipedia.org/wiki/와라타야_디솜릇 "wikilink") (카이묵) (วรัทยา ดีสมเลิศ; ไข่มุก)
   - [프래와 수탐퐁](https://ko.wikipedia.org/wiki/프래와_수탐퐁 "wikilink") (뮤직) (แพรวา สุธรรมพงษ์; มิวสิค)
   - [팟차난 찌아찌라촛](https://ko.wikipedia.org/wiki/팟차난_찌아찌라촛 "wikilink") (온) (พัศชนันท์ เจียจิรโชติ; อร)
-  - [마난야 꼬쭈](https://ko.wikipedia.org/wiki/마난야_꼬쭈 "wikilink") (닝) (มนัญญา เกาะจู; นิ้ง)
   - [짜니사따 딴시리](https://ko.wikipedia.org/wiki/짜니사따_딴시리 "wikilink") (뱀부) (จณิสตา ตันศิริ; แบมบู)
   - [낫티차 짠타라와리레카](https://ko.wikipedia.org/wiki/낫티차_짠타라와리레카 "wikilink") (폰드) (ณัฐทิชา จันทรวารีเลขา; ฟ้อนด์)
   - [낫타꾼 핌통차이꾼](https://ko.wikipedia.org/wiki/낫타꾼_핌통차이꾼 "wikilink") (찌찌) (ณัฐกุล พิมพ์ธงชัยกุล; จีจี้)
   - [난나팟 릇남츳사꾼](https://ko.wikipedia.org/wiki/난나팟_릇남츳사꾼 "wikilink") (뮤닉) (นันท์นภัส เลิศนามเชิดสกุล; มิวนิค)
-  - [두시따 끼띠사라꾼차이](https://ko.wikipedia.org/wiki/두시따_끼띠사라꾼차이 "wikilink") (내터린) (ดุสิตา กิติสาระกุลชัย; แนทเธอรีน)
   - [찬야팍 눔쁘라솝](https://ko.wikipedia.org/wiki/찬야팍_눔쁘라솝 "wikilink") (뉴) (ชัญญาภัค นุ่มประสพ; นิว)
   - [팟타라나린 므안릿](https://ko.wikipedia.org/wiki/팟타라나린_므안릿 "wikilink") (나이) (ภัทรนรินทร์ เหมือนฤทธิ์; นาย)
   - [시리깐 친나왓수완](https://ko.wikipedia.org/wiki/시리깐_친나왓수완 "wikilink") (팍콤) (สิริการย์ ชินวัชร์สุวรรณ; ผักขม)
@@ -64,17 +63,9 @@
 
 ### 연구생
 
-#### 1기생
-
-  - [린라다 인타이송](https://ko.wikipedia.org/wiki/린라다_인타이송 "wikilink") (삐암) (รินรดา อินทร์ไธสง; เปี่ยม) - 현재, 활동중단
-
-#### 2기생
-
   - [와린랏 욘쁘라송](https://ko.wikipedia.org/wiki/와린랏_욘쁘라송 "wikilink") (니키) (วรินท์รัตน์ ยลประสงค์; นิกี้) - 최연소
-  - [까몬티다 롯타위니티](https://ko.wikipedia.org/wiki/까몬티다_롯타위니티 "wikilink") (위우) (กมนธิดา โรจน์ทวีนิธิ; วิว)
   - [빠위티다 사꾼삐팟](https://ko.wikipedia.org/wiki/빠위티다_사꾼삐팟 "wikilink") (피파) (ปวีณ์ธิดา สกุลพิพัฒน์; ฟีฟ่า)
   - [마니파 루빤야](https://ko.wikipedia.org/wiki/마니파_루빤야 "wikilink") (카민) (มณิภา รู้ปัญญา; ขมิ้น)
-  - [낫차 끄리스다시마](https://ko.wikipedia.org/wiki/낫차_끄리스다시마 "wikilink") (움) (ณัชชา กฤษฎาสิมะ; อุ้ม)
   - [파콴 노이짜이분](https://ko.wikipedia.org/wiki/파콴_노이짜이분 "wikilink") (파콴) (พาขวัญ น้อยใจบุญ; พาขวัญ)
   - [라따 친끄라짱낏](https://ko.wikipedia.org/wiki/라따_친끄라짱낏 "wikilink") (라따) (รตา ชินกระจ่างกิจ; รตา)
   - [까몬티다 롯타위니티](https://ko.wikipedia.org/wiki/까몬티다_롯타위니티 "wikilink") (뷰) (กมนธิดา โรจน์ทวีนิธิ)
@@ -92,6 +83,9 @@
   - [이즈타 리나](../Page/이즈타_리나.md "wikilink") (이즈리나) (รินะ อิซึตะ; อิซึรินะ) - 팀BIII. 유일한 일본인 멤버. [2019년](../Page/2019년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink") 극장 지배인 이적. 전 [AKB48](../Page/AKB48.md "wikilink") 팀A→B.
   - [나와폰 짠숙](https://ko.wikipedia.org/wiki/나와폰_짠숙 "wikilink") (케이크) (นวพร จันทร์สุข; เค้ก) 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") 졸업.
   - [마이라 쿠야마](https://ko.wikipedia.org/wiki/마이라_쿠야마 "wikilink") (마이라) (มะอิระ คูยามา; มัยร่า) 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") 졸업.
+  - [두시따 끼띠사라꾼차이](https://ko.wikipedia.org/wiki/두시따_끼띠사라꾼차이 "wikilink") (내터린) (ดุสิตา กิติสาระกุลชัย; แนทเธอรีน) 2기생. 팀NV. [2020년](../Page/2020년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") 졸업.
+  - [마난야 꼬쭈](https://ko.wikipedia.org/wiki/마난야_꼬쭈 "wikilink") (닝) (มนัญญา เกาะจู; นิ้ง) 2기생. 팀NV. [2020년](../Page/2020년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") 졸업.
+  - [낫차 끄리스다시마](https://ko.wikipedia.org/wiki/낫차_끄리스다시마 "wikilink") (움) (ณัชชา กฤษฎาสิมะ; อุ้ม) 2기생. 연구생. [2020년](../Page/2020년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") 졸업.
 
 ## 디스코그래피
 

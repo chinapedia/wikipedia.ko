@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ON AIR](https://ko.wikipedia.org/wiki/_ON_AIR).
+> This article is converted from Wikipedia: [센텀 ON AIR](https://ko.wikipedia.org/wiki/센텀_ON_AIR).
 
 
 **《김신식의 센텀 ON AIR》**는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")·[경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 민영방송사 [KNN](../Page/KNN.md "wikilink")의 라디오 [KNN 러브FM](../Page/KNN_러브FM.md "wikilink")(부산 FM 105.7MHz, 양산 FM 88.5MHz, 기장/정관 FM 89.3MHz 창원/김해/거제 FM 90.9MHz, 진주 FM 98.7MHz)에서 김신식의 진행으로 방송됐던 라디오 프로그램이다.

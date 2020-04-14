@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HOT \(\)](https://ko.wikipedia.org/wiki/HOT_\(\)).
+> This article is converted from Wikipedia: [HOT \(미사일\)](https://ko.wikipedia.org/wiki/HOT_\(미사일\)).
 
 
 **HOT**(**H**aut subsonique **O**ptiquement **T**éléguidé Tiré d'un Tube)는 2세대 장거리 대전차 미사일 시스템이다. [독일 육군과](../Page/독일_육군.md "wikilink") [프랑스 육군이](https://ko.wikipedia.org/wiki/프랑스_육군 "wikilink") 합작개발했다.

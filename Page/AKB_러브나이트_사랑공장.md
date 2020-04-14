@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB  ](https://ko.wikipedia.org/wiki/AKB__).
+> This article is converted from Wikipedia: [AKB 러브나이트 사랑공장](https://ko.wikipedia.org/wiki/AKB_러브나이트_사랑공장).
 
 
 《**AKB 러브나이트 사랑공장**》()는 [2016년](../Page/2016년.md "wikilink") [4월 21일부터](../Page/4월_21일.md "wikilink") 매주 목요일 1시 41분부터 1시 56분(수요일 심야)까지 [TV 아사히에서](../Page/TV_아사히.md "wikilink") 방송되고 있는 [일본 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").

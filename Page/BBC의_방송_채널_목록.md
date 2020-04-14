@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC   ](https://ko.wikipedia.org/wiki/BBC___).
+> This article is converted from Wikipedia: [BBC의 방송 채널 목록](https://ko.wikipedia.org/wiki/BBC의_방송_채널_목록).
 
 
 다음은 [영국](../Page/영국.md "wikilink")의 [BBC](../Page/영국방송공사.md "wikilink") 방송이 소유하고 있는 전국, 지방, 지역별 텔레비전 및 라디오 채널이다. 전 세계에 송출되는 국제 방송 채널과 지금은 폐국된 방송 채널도 포함했다.

@@ -13,4 +13,4 @@
 
   - [공식 홈페이지](http://oko-capitalgroup.com/en/about)
 
-[분류:계획된 건축물](https://ko.wikipedia.org/wiki/분류:계획된_건축물 "wikilink") [분류:러시아의 마천루](https://ko.wikipedia.org/wiki/분류:러시아의_마천루 "wikilink") [분류:모스크바의 마천루](https://ko.wikipedia.org/wiki/분류:모스크바의_마천루 "wikilink")
+[분류:계획된 건축물](https://ko.wikipedia.org/wiki/분류:계획된_건축물 "wikilink") [분류:모스크바의 마천루](https://ko.wikipedia.org/wiki/분류:모스크바의_마천루 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MLB ](https://ko.wikipedia.org/wiki/_MLB_).
+> This article is converted from Wikipedia: [토요 MLB 라이브](https://ko.wikipedia.org/wiki/토요_MLB_라이브).
 
 
 《**토요 MLB 라이브**》는 [2016년](../Page/2016년.md "wikilink") [4월 9일부터](../Page/4월_9일.md "wikilink") [2017년](../Page/2017년.md "wikilink") [9월 23일까지](../Page/9월_23일.md "wikilink") [MBC TV에서](../Page/MBC_TV.md "wikilink") 방영된 [스포츠](../Page/스포츠.md "wikilink") 프로그램이다.

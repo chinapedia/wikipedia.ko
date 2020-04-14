@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [16SS SS](https://ko.wikipedia.org/wiki/16SS_SS).
+> This article is converted from Wikipedia: [제16SS기갑척탄병사단 SS국가지도자](https://ko.wikipedia.org/wiki/제16SS기갑척탄병사단_SS국가지도자).
 
 
 **제16SS기갑척탄병사단 SS국가지도자**()는 [독일 제3제국](../Page/나치_독일.md "wikilink") [무장친위대](../Page/무장친위대.md "wikilink") 소속의 [기갑척탄병](https://ko.wikipedia.org/wiki/기갑척탄병 "wikilink")사단 중 하나이다.

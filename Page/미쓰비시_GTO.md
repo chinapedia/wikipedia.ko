@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GTO](https://ko.wikipedia.org/wiki/_GTO).
+> This article is converted from Wikipedia: [미쓰비시 GTO](https://ko.wikipedia.org/wiki/미쓰비시_GTO).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Mitsubishi_3000_GT_VR4_\(4766261576\).jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Mitsubishi_3000_GT_VR4_\(4766259832\).jpg "wikilink")

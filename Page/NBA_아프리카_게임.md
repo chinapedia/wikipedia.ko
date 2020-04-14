@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA  ](https://ko.wikipedia.org/wiki/NBA__).
+> This article is converted from Wikipedia: [NBA 아프리카 게임](https://ko.wikipedia.org/wiki/NBA_아프리카_게임).
 
 
 ## 역대 NBA 아프리카 게임

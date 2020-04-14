@@ -60,14 +60,6 @@ MNL48 캡틴</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>CESS</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Princess_Rabago_Labay" title="wikilink">Princess Rabago Labay</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td></td>
-<td><p>48위</p></td>
-</tr>
-<tr class="odd">
 <td><p>DANA</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Dana_Leanne_Evangelista_Brual" title="wikilink">Dana Leanne Evangelista Brual</a></p></td>
 <td></td>
@@ -75,21 +67,13 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>25위</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>EMZ</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Erica_Maria_Bacus_Macabutas" title="wikilink">Erica Maria Bacus Macabutas</a></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
 <td><p>1위(연)</p></td>
-</tr>
-<tr class="odd">
-<td><p>FAITH</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Faith_Shanrae_Alvarez_Santiago" title="wikilink">Faith Shanrae Alvarez Santiago</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td></td>
-<td><p>13위</p></td>
 </tr>
 <tr class="even">
 <td><p>JAMIE</p></td>
@@ -246,14 +230,6 @@ MNL48 캡틴</p></td>
 <td><p>3위(연)</p></td>
 </tr>
 <tr class="odd">
-<td><p>DANI</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Daniella_Mae_Ramos_Palmero" title="wikilink">Daniella Mae Ramos Palmero</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td></td>
-<td><p>21위(연)</p></td>
-</tr>
-<tr class="even">
 <td><p>DARYLL</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Daryll_Caritativo_Matalino" title="wikilink">Daryll Caritativo Matalino</a></p></td>
 <td></td>
@@ -261,7 +237,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>29위</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>ECKA</strong></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/Ericka_Joyce_Madriaga_Sibug" title="wikilink">Ericka Joyce Madriaga Sibug</a></strong></p></td>
 <td></td>
@@ -269,7 +245,7 @@ MNL48 캡틴</p></td>
 <td><p>캡틴</p></td>
 <td><p>44위</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ELLA</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Ella_Mae_Rada_Amat" title="wikilink">Ella Mae Rada Amat</a></p></td>
 <td></td>
@@ -277,7 +253,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>8위</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>JAYDEE</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Jennifer_Nandy_Garcia_Villaruel" title="wikilink">Jennifer Nandy Garcia Villaruel</a></p></td>
 <td></td>
@@ -285,7 +261,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>32위</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>JEM</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Jemimah_Sapuriada_Caldejon" title="wikilink">Jemimah Sapuriada Caldejon</a></p></td>
 <td></td>
@@ -293,7 +269,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>11위</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>JOYCE</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Valerie_Joyce_Daita" title="wikilink">Valerie Joyce Daita</a></p></td>
 <td></td>
@@ -301,7 +277,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>20위</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>LARA</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Lara_Mae_Agan_Layar" title="wikilink">Lara Mae Agan Layar</a></p></td>
 <td></td>
@@ -309,7 +285,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>14위</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MIHO</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Miho_De_Jesus_Hoshino" title="wikilink">Miho De Jesus Hoshino</a></p></td>
 <td></td>
@@ -317,7 +293,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ROWEE</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Loulle_Angelyn_Maagad_Villaflores" title="wikilink">Loulle Angelyn Maagad Villaflores</a></p></td>
 <td></td>
@@ -325,7 +301,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>4위(연)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>RUTH</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Ruth_Alterado_Lingat" title="wikilink">Ruth Alterado Lingat</a></p></td>
 <td></td>
@@ -333,7 +309,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>35위</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -727,6 +703,36 @@ MNL48 캡틴</p></td>
 <td><p>9위</p></td>
 </tr>
 <tr class="even">
+<td><p>CESS</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/Princess_Rabago_Labay" title="wikilink">Princess Rabago Labay</a></p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>MII</p></td>
+<td><p>2019년 11월 5일</p></td>
+<td></td>
+<td><p>48위</p></td>
+</tr>
+<tr class="odd">
+<td><p>DANI</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/Daniella_Mae_Ramos_Palmero" title="wikilink">Daniella Mae Ramos Palmero</a></p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>NIV</p></td>
+<td><p>2020년 1월 13일</p></td>
+<td></td>
+<td><p>21위(연)</p></td>
+</tr>
+<tr class="even">
+<td><p>FAITH</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/Faith_Shanrae_Alvarez_Santiago" title="wikilink">Faith Shanrae Alvarez Santiago</a></p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>MII</p></td>
+<td><p>2020년 1월 26일</p></td>
+<td></td>
+<td><p>13위</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

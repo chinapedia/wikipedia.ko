@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [5SS ](https://ko.wikipedia.org/wiki/5SS_).
+> This article is converted from Wikipedia: [제5SS기갑사단 비킹](https://ko.wikipedia.org/wiki/제5SS기갑사단_비킹).
 
 
 **제5SS기갑사단 비킹**()은 [나치 독일](../Page/나치_독일.md "wikilink") [무장친위대](../Page/무장친위대.md "wikilink")의 사단 중 하나이다. 38개 무장친위대 사단 중 정예사단에 속했다. [덴마크](../Page/덴마크.md "wikilink"), [노르웨이](../Page/노르웨이.md "wikilink"), [스웨덴](../Page/스웨덴.md "wikilink"), [핀란드](../Page/핀란드.md "wikilink"), [에스토니아](../Page/에스토니아.md "wikilink"), [네덜란드](../Page/네덜란드.md "wikilink"), [벨기에](../Page/벨기에.md "wikilink") 등 외국의 의용병들로 이루어져 있었다. "비킹"이란 [바이킹](../Page/바이킹.md "wikilink")을 뜻한다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 [독소전쟁](https://ko.wikipedia.org/wiki/독소전쟁 "wikilink")에 종군했으며, 1945년 5월 [오스트리아](../Page/오스트리아.md "wikilink")에서 미군에게 항복했다.

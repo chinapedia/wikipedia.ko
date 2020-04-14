@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SS ](https://ko.wikipedia.org/wiki/SS_).
+> This article is converted from Wikipedia: [SS국가지도자 보안국](https://ko.wikipedia.org/wiki/SS국가지도자_보안국).
 
 
 **SS국가지도자 보안국**()는 [나치 독일의](../Page/나치_독일.md "wikilink") [친위대에](../Page/친위대_\(나치\).md "wikilink") 속한 [정보기관](../Page/정보기관.md "wikilink")이었다. 1932년 나치의 정보기관들 중 최초로 설립되었으며 1934년 설립된 [게슈타포](../Page/게슈타포.md "wikilink")와 자매기관으로 여겨진다. 1933년에서 1939년 사이에 SD는 독립 부서로 존재했으나 이후 [국가보안본부](../Page/국가보안본부.md "wikilink")(RSHA)의 아문으로 개편되어 RSHA의 7개 부서 중 하나가 되었다.\[1\] RSHA 초대 본부장 [라인하르트 하이드리히는](../Page/라인하르트_하이드리히.md "wikilink") SD가 독일의 모든 것을 "지속적 감시"하에 두기를 원했다.\[2\]

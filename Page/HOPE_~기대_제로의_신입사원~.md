@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HOPE \~  \~](https://ko.wikipedia.org/wiki/HOPE_\~__\~).
+> This article is converted from Wikipedia: [HOPE \~기대 제로의 신입사원\~](https://ko.wikipedia.org/wiki/HOPE_\~기대_제로의_신입사원\~).
 
 
 《**HOPE \~기대 제로의 신입사원\~**》()은, [2016년](../Page/2016년.md "wikilink") [7월 17일부터](../Page/7월_17일.md "wikilink") [9월 18일까지](../Page/9월_18일.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 21:00 \~ 21:54에 [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [나카지마 유토](../Page/나카지마_유토.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IAI ](https://ko.wikipedia.org/wiki/IAI_).
+> This article is converted from Wikipedia: [IAI 라비](https://ko.wikipedia.org/wiki/IAI_라비).
 
 
 **IAI 라비**는 이스라엘 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")가 개발한 [4세대 전투기이다](../Page/4세대_전투기.md "wikilink").

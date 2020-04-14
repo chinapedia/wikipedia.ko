@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
+> This article is converted from Wikipedia: [WWE 크루저웨이트 클래식](https://ko.wikipedia.org/wiki/WWE_크루저웨이트_클래식).
 
 
-**WWE 크루저웨이트 클래식** (WWE Cruiserweight Classic)또는 **CWC** (Cruiserweight Classic)는 [트리플 H가](../Page/트리플_H.md "wikilink") 크루저급 디비젼의 부활을 위해 시행하는 토너먼트로 WWE의 전신이었던 CWC(Capitol Wrestling Corporation)의 유사명으로 **크루저웨이트 클래식**으로 개최하여 WWE에서 활동 중인 선수 외에도 출전이 가능하며 총 32명이 출전한다. 2016년 6월 20일 첫 녹화를 진행한 후 7월 13일 [WWE 네트워크에서](../Page/WWE_네트워크.md "wikilink") 첫방송을 하였다.
+**WWE 크루저웨이트 클래식**(WWE Cruiserweight Classic)또는 **CWC**(Cruiserweight Classic)는 [트리플 H가](../Page/트리플_H.md "wikilink") 크루저급 디비젼의 부활을 위해 시행하는 토너먼트로 WWE의 전신이었던 CWC(Capitol Wrestling Corporation)의 유사명으로 **크루저웨이트 클래식**으로 개최하여 WWE에서 활동 중인 선수 외에도 출전이 가능하며 총 32명이 출전한다. 2016년 6월 20일 첫 녹화를 진행한 후 7월 13일 [WWE 네트워크에서](../Page/WWE_네트워크.md "wikilink") 첫방송을 하였다.
 
 ## 예선 경기
 

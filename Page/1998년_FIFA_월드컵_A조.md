@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1998 FIFA  A](https://ko.wikipedia.org/wiki/1998_FIFA__A).
+> This article is converted from Wikipedia: [1998년 FIFA 월드컵 A조](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵_A조).
 
 
 **1998년 FIFA 월드컵 A조**는 [프랑스](../Page/프랑스.md "wikilink")에서 열린 [1998년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 4팀씩 편성된 8개의 조들 중 하나였다. 첫 경기는 1998년 6월 10일에 열렸고, 마지막 경기는 1998년 6월 23일에 동시에 열렸다.

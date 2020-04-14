@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  S.  \(CVN-75\)](https://ko.wikipedia.org/wiki/USS__S.__\(CVN-75\)).
+> This article is converted from Wikipedia: [USS 해리 S. 트루먼 \(CVN-75\)](https://ko.wikipedia.org/wiki/USS_해리_S._트루먼_\(CVN-75\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:US_Navy_030713-N-1350S-006_Two_T-45C_Goshawks_assigned_to_Fixed_Wing_Training_Squadron_Seven_\(VT-7\)_prepare_to_take_off_from_flight_deck_of_USS_Harry_S._Truman_\(CVN_75\).jpg "wikilink") 훈련기 2대가 동시에 이륙중이다.\]\] **USS 해리 S. 트루먼**은 [미국 해군의](../Page/미국_해군.md "wikilink") [니미츠급 항공모함](../Page/니미츠급_항공모함.md "wikilink") 8번함이다. 제33대 [해리 S. 트루먼](../Page/해리_S._트루먼.md "wikilink") 대통령의 이름을 땄다. 1996년 9월 7일 [뉴포트 뉴스 조선소에서](https://ko.wikipedia.org/wiki/뉴포트_뉴스_조선소 "wikilink") 진수되었다. 건조비는 45억 달러(5조원)이다.

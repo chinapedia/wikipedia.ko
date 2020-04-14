@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T-X ](https://ko.wikipedia.org/wiki/T-X_).
+> This article is converted from Wikipedia: [T-X 프로그램](https://ko.wikipedia.org/wiki/T-X_프로그램).
 
 
 **T-X 프로그램**()은 [미국 공군의](../Page/미국_공군.md "wikilink") [T-38 탤론](../Page/T-38_탤론.md "wikilink") [고등훈련기](https://ko.wikipedia.org/wiki/고등훈련기 "wikilink")를 신형으로 교체하는 사업이다.

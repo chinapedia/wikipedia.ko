@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VR](https://ko.wikipedia.org/wiki/_VR).
+> This article is converted from Wikipedia: [오큘러스 VR](https://ko.wikipedia.org/wiki/오큘러스_VR).
 
 
 **오큘러스 VR**(Oculus VR)은 2012년 7월 [캘리포니아주 어바인에서](../Page/어바인_\(캘리포니아주\).md "wikilink") [Palmer Luckey](https://ko.wikipedia.org/wiki/Palmer_Luckey "wikilink"), [Brendan Iribe](https://ko.wikipedia.org/wiki/Brendan_Iribe "wikilink"), Michael Antonov, Nate Mitchell이 설립한 미국의 [기술 기업으로](https://ko.wikipedia.org/wiki/기술_기업 "wikilink"), 현재 본사는 [멘로파크](../Page/멘로파크.md "wikilink")에 위치해 있다. [가상현실](../Page/가상현실.md "wikilink") 하드웨어와 소프트웨어 제품이 전문이다.

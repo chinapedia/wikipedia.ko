@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Shalala  ](https://ko.wikipedia.org/wiki/Shalala__).
+> This article is converted from Wikipedia: [Shalala 희망의 노래](https://ko.wikipedia.org/wiki/Shalala_희망의_노래).
 
 
 〈**Shalala 희망의 노래**〉()는 일본의 음악 그룹 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 여섯 번째 싱글이다. [2006년](../Page/2006년.md "wikilink") [3월 23일에](../Page/3월_23일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.

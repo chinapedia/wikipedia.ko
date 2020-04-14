@@ -255,7 +255,7 @@
 <td></td>
 <td><p>SNH48 6기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td><p>대만 출신</p></td>
+<td><p>대만 출신 2</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -967,7 +967,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>Z</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -977,7 +977,7 @@
 <td></td>
 <td><p>SNH48 6기</p></td>
 <td><p>NⅢ</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -987,7 +987,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>G</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -997,7 +997,7 @@
 <td></td>
 <td><p>2기</p></td>
 <td><p>Z</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1007,7 +1007,7 @@
 <td></td>
 <td><p>2기</p></td>
 <td><p>G</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1017,7 +1017,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>Z</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1046,7 +1046,7 @@
 <td><p>6기</p></td>
 <td><p>2019년 1월 19일</p></td>
 <td><p>계약 해제<br />
-2019년 3월 <a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+2019년 3월 <a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1054,7 +1054,7 @@
 <td><p>Chéng Zǐyù</p></td>
 <td></td>
 <td><p>3기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1063,7 +1063,7 @@
 <td><p>Mén Xiùtiān</p></td>
 <td></td>
 <td><p>5기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1072,7 +1072,7 @@
 <td><p>Shū Xiāng</p></td>
 <td></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1081,7 +1081,7 @@
 <td><p>Zhāng Zétíng</p></td>
 <td></td>
 <td><p>5기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1090,7 +1090,7 @@
 <td><p>Zhāng Zǐyǐng</p></td>
 <td></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 멤버</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 멤버</p></td>
 <td></td>
 </tr>
 </tbody>
