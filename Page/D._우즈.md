@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D. ](https://ko.wikipedia.org/wiki/D._).
+> This article is converted from Wikipedia: [D. 우즈](https://ko.wikipedia.org/wiki/D._우즈).
 
 
 **D. 우즈**(D. Woods, [1985년](../Page/1985년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [댄서](https://ko.wikipedia.org/wiki/댄서 "wikilink"), [배우](../Page/배우.md "wikilink")이다.

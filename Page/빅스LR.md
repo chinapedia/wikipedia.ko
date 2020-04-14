@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LR](https://ko.wikipedia.org/wiki/LR).
+> This article is converted from Wikipedia: [빅스LR](https://ko.wikipedia.org/wiki/빅스LR).
 
 
 **빅스LR**는 보이 그룹 [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") 유닛 그룹이다. [2015년](../Page/2015년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") 첫 번째 미니앨범 타이틀 곡 〈Beautiful Liar〉로 데뷔 하였다.

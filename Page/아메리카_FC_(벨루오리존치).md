@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC \(\)](https://ko.wikipedia.org/wiki/_FC_\(\)).
+> This article is converted from Wikipedia: [아메리카 FC \(벨루오리존치\)](https://ko.wikipedia.org/wiki/아메리카_FC_\(벨루오리존치\)).
 
 
 **아메리카 푸치보우 클루비**()는 **아메리카 미네이루**로도 불리는 [브라질](../Page/브라질.md "wikilink")의 [미나스제라이스주](../Page/미나스제라이스주.md "wikilink") [벨루오리존치](../Page/벨루오리존치.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. [1912년](../Page/1912년.md "wikilink") [4월 30일에](../Page/4월_30일.md "wikilink") 창단되었으며, 현재까지 앰블럼과 구단명이 한번도 변경된 적이 없다. 다만 초창기에 녹색과 흰색으로만 이루어져있던 유니폼이 1970년대 들어서 검은색 줄무늬가 추가 되었던 것만 변경되었고, [1933년](../Page/1933년.md "wikilink")부터 [1942년](../Page/1942년.md "wikilink")까지는 붉은색 홈 유니폼을 착용한 적도 있었다. 다만 붉은색 유니폼은 구단의 프로화에 반대하기 위한 퍼포먼스의 형태로 이루어진 것이었다.\[1\] 아메리카 미네이루는 [이스타지우 인데펜덴시아를](https://ko.wikipedia.org/wiki/이스타지우_인데펜덴시아 "wikilink") 홈 구장으로 사용하고 있으며, 벨루오리존치를 연고로 하는 여러 클럽들 중 경기장을 소유하고 있는 유일한 클럽이기도 하다.\[2\] 아메리카 미네이루는 미나스제라이스 주에서 세번째로 거대한 규모의 서포터를 보유하고 있다.\[3\]

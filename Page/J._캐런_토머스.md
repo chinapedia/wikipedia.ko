@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J.  ](https://ko.wikipedia.org/wiki/J.__).
+> This article is converted from Wikipedia: [J. 캐런 토머스](https://ko.wikipedia.org/wiki/J._캐런_토머스).
 
 
 **J. 캐런 토머스**(, [1965년](../Page/1965년.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink"))는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다. [테네시주](../Page/테네시주.md "wikilink") [내슈빌](../Page/내슈빌.md "wikilink") 토박이로서 [멤피스 대학교를](https://ko.wikipedia.org/wiki/멤피스_대학교 "wikilink") 졸업한 뒤 [배우](../Page/배우.md "wikilink"), [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") 등으로 활동을 계속하였다. 배우로서의 대표 출연작으로 《[내슈빌](../Page/내슈빌_\(드라마\).md "wikilink")》, 《[블러바드](../Page/블러바드_\(영화\).md "wikilink")》가 있다.\[1\]

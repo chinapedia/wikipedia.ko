@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CTS-V](https://ko.wikipedia.org/wiki/_CTS-V).
+> This article is converted from Wikipedia: [캐딜락 CTS-V](https://ko.wikipedia.org/wiki/캐딜락_CTS-V).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Cadillac_CTS-V_1_--_08-25-2009.jpg "wikilink") **캐딜락 CTS-V**(Cadillac CTS-V)는 [2004년](../Page/2004년.md "wikilink")에 선보인 고성능 중형/준대형차이다. [캐딜락](../Page/캐딜락.md "wikilink")의 고성능 모델에는 **V** 뱃지가 붙는데 CTS-V는 [CTS의](../Page/캐딜락_CTS.md "wikilink") 성능을 개선한 고성능 모델로, [콜벳과](https://ko.wikipedia.org/wiki/쉐보레_콜벳 "wikilink") [캐딜락](../Page/캐딜락.md "wikilink")의 콜라보레이션으로 만든 모델이다. 1세대부터 [콜벳의](https://ko.wikipedia.org/wiki/쉐보레_콜벳 "wikilink") 엔진을 장착하여 나온다.

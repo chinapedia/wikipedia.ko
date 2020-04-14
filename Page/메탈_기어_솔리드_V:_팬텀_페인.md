@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   V:  ](https://ko.wikipedia.org/wiki/___V:__).
+> This article is converted from Wikipedia: [메탈 기어 솔리드 V: 팬텀 페인](https://ko.wikipedia.org/wiki/메탈_기어_솔리드_V:_팬텀_페인).
 
 
 《**메탈 기어 솔리드 V: 팬텀 페인**》(, )은 [코나미 디지털 엔터테인먼트에서](https://ko.wikipedia.org/wiki/코나미_디지털_엔터테인먼트 "wikilink") 발매하는 PlayStation 3 · Xbox 360 · PlayStation 4 · Xbox One · PC 용 소프트이다. [메탈 기어 솔리드](../Page/메탈_기어_솔리드.md "wikilink") 시리즈의 7번째 작품에 해당한다. 프롤로그로 발매된 《[메탈기어 솔리드 V: 그라운드 제로](https://ko.wikipedia.org/wiki/메탈기어_솔리드_V:_그라운드_제로 "wikilink")》를 제외하면 6번째에 해당한다.

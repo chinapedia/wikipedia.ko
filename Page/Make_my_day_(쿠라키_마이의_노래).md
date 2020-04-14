@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Make my day \(  \)](https://ko.wikipedia.org/wiki/Make_my_day_\(__\)).
+> This article is converted from Wikipedia: [Make my day \(쿠라키 마이의 노래\)](https://ko.wikipedia.org/wiki/Make_my_day_\(쿠라키_마이의_노래\)).
 
 
 〈**Make my day**〉(메익스 마이 데이)는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 15번째 [CD 싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\)#CD_싱글 "wikilink") [2002년](../Page/2002년.md "wikilink") [12월 4일에](../Page/12월_4일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다. 싱글반의 규격품번은 GZCA-7005이다.

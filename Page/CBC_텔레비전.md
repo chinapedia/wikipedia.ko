@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBC ](https://ko.wikipedia.org/wiki/CBC_).
+> This article is converted from Wikipedia: [CBC 텔레비전](https://ko.wikipedia.org/wiki/CBC_텔레비전).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:CBC_Television_2009.svg "wikilink") **CBC 텔레비전**()은 [캐나다](../Page/캐나다.md "wikilink")의 [공영 방송](../Page/공영_방송.md "wikilink") [캐나다 방송협회](https://ko.wikipedia.org/wiki/캐나다_방송협회 "wikilink")(CBC)의 [영어](../Page/영어.md "wikilink") 종합 텔레비전 방송 네트워크이다.

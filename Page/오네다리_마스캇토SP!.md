@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SP!](https://ko.wikipedia.org/wiki/_SP!).
+> This article is converted from Wikipedia: [오네다리 마스캇토SP!](https://ko.wikipedia.org/wiki/오네다리_마스캇토SP!).
 
 
 《**오네다리 마스캇토SP\!**》()는 [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") 방송된 심야 버라이어티 프로그램이다. 약칭으로 **오네마스SP**라고 불렸다. TV 도쿄에서 2011년 10월 5일부터 2013년 3월 30일까지 방영되었다.

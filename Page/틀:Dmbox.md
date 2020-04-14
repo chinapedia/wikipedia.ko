@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Dmbox](https://ko.wikipedia.org/wiki/:Dmbox).
+> This article is converted from Wikipedia: [틀:Dmbox](https://ko.wikipedia.org/wiki/틀:Dmbox).
 
 
 <table id="

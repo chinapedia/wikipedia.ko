@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 믈라도스트 포드고리차](https://ko.wikipedia.org/wiki/FK_믈라도스트_포드고리차).
 
 
 **FK 믈라도스트 포드고리차**()는 [몬테네그로](../Page/몬테네그로.md "wikilink") [포드고리차](../Page/포드고리차.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 1950년 창단되었다.

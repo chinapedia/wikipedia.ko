@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FA](https://ko.wikipedia.org/wiki/_FA).
+> This article is converted from Wikipedia: [페락 FA](https://ko.wikipedia.org/wiki/페락_FA).
 
 
 **페락 FA**()는 [말레이시아](../Page/말레이시아.md "wikilink")의 [페락주](../Page/페락주.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 1921에 창설된 클럽을 모태로 하며 1951년 페락 주 축구협회에 소속된 현재의 상태와 같은 축구단이 되었다.\[1\] [이포](../Page/이포.md "wikilink")에 위치한 [페락 스타디움을](https://ko.wikipedia.org/wiki/페락_스타디움 "wikilink") 홈 구장으로 사용하고 있다. 1989년 말레이시아에 프로 리그가 창설된 이후 한 번도 2부 리그로 강등된 적이 없는 유일한 클럽이다.

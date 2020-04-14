@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MADE \( \)](https://ko.wikipedia.org/wiki/MADE_\(_\)).
+> This article is converted from Wikipedia: [MADE \(빅뱅의 음반\)](https://ko.wikipedia.org/wiki/MADE_\(빅뱅의_음반\)).
 
 
 《**MADE**》()는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 한국 세 번째 정규 음반이다. 이 음반은 8년 만에 나오는 정규 음반이기도 하다. 2016년 12월 13일에 발매 하였다.

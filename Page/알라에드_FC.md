@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [알라에드 FC](https://ko.wikipedia.org/wiki/알라에드_FC).
 
 
 **알라에드 FC**()은 [사우디아라비아](../Page/사우디아라비아.md "wikilink")에 위치한 [부라이다](../Page/부라이다.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. 이 팀은 [1954년](../Page/1954년.md "wikilink")에 창단하였다.

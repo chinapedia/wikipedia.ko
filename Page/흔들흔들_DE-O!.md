@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DE-O!](https://ko.wikipedia.org/wiki/_DE-O!).
+> This article is converted from Wikipedia: [흔들흔들 DE-O!](https://ko.wikipedia.org/wiki/흔들흔들_DE-O!).
 
 
 〈**흔들흔들 DE-O\!**〉()는 《[크레용 신짱](../Page/짱구는_못말려_\(애니메이션\).md "wikilink")》(짱구는 못말려)의 주인공, [노하라 신노스케](../Page/노하라_신노스케.md "wikilink")(신짱구)(CD 자켓의 표기는 ‘노하라 신노스케’. 성우: [야지마 아키코](../Page/야지마_아키코.md "wikilink"))의 싱글이다. [2005년](../Page/2005년.md "wikilink") [1월 19일에](../Page/1월_19일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 [컬럼비아 뮤직 엔터테인먼트에서](../Page/일본_컬럼비아.md "wikilink") 발매됐다.
@@ -15,9 +15,9 @@
 
 ## 수록곡
 
-1.  **흔들흔들 DE-O\!** ()
+1.  **흔들흔들 DE-O\!**()
       - 작사: [무토 유지](https://ko.wikipedia.org/wiki/무토_유지 "wikilink"), 작곡 · 편곡: 나카무라 야스나리, 노래: [노하라 신노스케](../Page/노하라_신노스케.md "wikilink")(성우: [야지마 아키코](../Page/야지마_아키코.md "wikilink")）
-2.  **화내고 혼내고 다이어트** ()
+2.  **화내고 혼내고 다이어트**()
       - 작사: 사이토 도리, 작곡: 오가와 신지, 노래: [이노우에 노조미](https://ko.wikipedia.org/wiki/이노우에_노조미 "wikilink") with Dee Jay dory
 3.  **흔들흔들 DE-O\!** (카라오케)
 4.  **화내고 혼내고 다이어트** (카라오케)

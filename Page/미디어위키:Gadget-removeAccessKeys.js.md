@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-removeAccessKeys.js](https://ko.wikipedia.org/wiki/:Gadget-removeAccessKeys.js).
+> This article is converted from Wikipedia: [미디어위키:Gadget-removeAccessKeys.js](https://ko.wikipedia.org/wiki/미디어위키:Gadget-removeAccessKeys.js).
 
 
 jQuery( document ).ready( function( $ ) {

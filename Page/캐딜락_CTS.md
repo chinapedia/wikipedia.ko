@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CTS](https://ko.wikipedia.org/wiki/_CTS).
+> This article is converted from Wikipedia: [캐딜락 CTS](https://ko.wikipedia.org/wiki/캐딜락_CTS).
 
 
 **캐딜락 CTS**(Cadillac CTS)는 [2002년](../Page/2002년.md "wikilink") [9월 20일에](../Page/9월_20일.md "wikilink") [카테라의](https://ko.wikipedia.org/wiki/캐딜락_카테라 "wikilink") 후속 차종으로 출시된 [캐딜락](../Page/캐딜락.md "wikilink")의 [후륜구동](../Page/후륜구동.md "wikilink") 승용차다.

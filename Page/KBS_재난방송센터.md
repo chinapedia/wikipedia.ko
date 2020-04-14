@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 재난방송센터](https://ko.wikipedia.org/wiki/KBS_재난방송센터).
 
 
 《**KBS 재난방송센터**》는 매주 [일요일](../Page/일요일.md "wikilink") 아침 7시 20분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송되는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 일요일 아침 재난 시사 프로그램이다. KBS 장애인 서비스 및 KBS 2TV 편성표의 창이 뜨지 않고 홈페이지가 클릭하여 뜨지 않고 있다.

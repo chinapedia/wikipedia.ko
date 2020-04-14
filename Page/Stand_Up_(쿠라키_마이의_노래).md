@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Stand Up \(  \)](https://ko.wikipedia.org/wiki/Stand_Up_\(__\)).
+> This article is converted from Wikipedia: [Stand Up \(쿠라키 마이의 노래\)](https://ko.wikipedia.org/wiki/Stand_Up_\(쿠라키_마이의_노래\)).
 
 
 〈**Stand Up**〉(스탠드 업)은 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 8번째 [CD 싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\)#CD_싱글 "wikilink") [2001년](../Page/2001년.md "wikilink") [4월 18일에](../Page/4월_18일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.

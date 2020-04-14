@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GD\&TOP \(\)](https://ko.wikipedia.org/wiki/GD\&TOP_\(\)).
+> This article is converted from Wikipedia: [GD\&TOP \(음반\)](https://ko.wikipedia.org/wiki/GD\&TOP_\(음반\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:GD&TOP_album_cover.jpg "wikilink")
@@ -17,7 +17,7 @@
 
 이 음반의 발매를 앞두고, [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") [영등포의](../Page/영등포구.md "wikilink") [타임 스퀘어에서](../Page/타임스퀘어_\(서울\).md "wikilink") 두 사람은 세계 프리미어 쇼케이스를 개최했다.\[14\] [유튜브](../Page/유튜브.md "wikilink")에서 생중계 되었다.\[15\] 쇼케이스가 진행되는 동안, 두 사람은 그들의 음반에 수록 된 곡들의 가사와 배경을 팬들에게 설명했다.\[16\] 두 사람은 또한 달라진 자신들의 스타일을 선보였다.
 
-음반 발매 당시, 음반의 커버가 플레이보이 사의 로고와 유사하게 만들어 졌다는 반응으로 인해 플레이보이 사 측에서 로고 삭제요청을 [YG 엔터테인먼트에](../Page/YG_엔터테인먼트.md "wikilink") 정식 요청을 하였고, [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 측도 이를 받아들여 현재의 음반 커버로 변경이 되었다.\[17\] 바뀐 앨범 커버는 GD\&TOP로 구성된 하트의 타이포그래피 이미지로 대체되었다. 이것은 빅뱅의 유튜브 채널에서 공개 된 "BABY GOOD NIGHT"의 뮤직 비디오를 제외한 모든 뮤직 비디오를 삭제 수정하는 것으로 마무리 되었다. 그들의 음반의 세 곡 "HIGH HIGH", "OH YEAH"와 "뻑이가요"\[18\]는 "HIGH HIGH"가 1위를 차지하는 동안\[19\] "OH YEAH"와 "뻑이가요"가 각각 2위와 3위를 기록하며 좋은 반응을 얻으며 성공적인 활동을 하였다.\[20\]\[21\] 그들은 [SK텔레콤](../Page/SK텔레콤.md "wikilink")이 주최한 서울 강남의 클럽에서 열린 "크리스마스 T 소셜 파티"에 호스트로 공연하였다.\[22\] 추가적으로 [SBS](https://ko.wikipedia.org/wiki/서울방송 "wikilink") 음악 프로그램 《인기가요》에 출연했다.\[23\] 그들의 뮤직 비디오의 세트 이미지는 온라인에서 공개 되었다.\[24\] 음반은 [크리스마스 이브에](https://ko.wikipedia.org/wiki/크리스마스_이브 "wikilink") 발매가 되어 1위를 기록했으며,\[25\] 선주문 200,000장을 기록했다.\[26\]
+음반 발매 당시, 음반의 커버가 플레이보이 사의 로고와 유사하게 만들어졌다는 반응으로 인해 플레이보이 사 측에서 로고 삭제요청을 [YG 엔터테인먼트에](../Page/YG_엔터테인먼트.md "wikilink") 정식 요청을 하였고, [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 측도 이를 받아들여 현재의 음반 커버로 변경이 되었다.\[17\] 바뀐 앨범 커버는 GD\&TOP로 구성된 하트의 타이포그래피 이미지로 대체되었다. 이것은 빅뱅의 유튜브 채널에서 공개 된 "BABY GOOD NIGHT"의 뮤직 비디오를 제외한 모든 뮤직 비디오를 삭제 수정하는 것으로 마무리 되었다. 그들의 음반의 세 곡 "HIGH HIGH", "OH YEAH"와 "뻑이가요"\[18\]는 "HIGH HIGH"가 1위를 차지하는 동안\[19\] "OH YEAH"와 "뻑이가요"가 각각 2위와 3위를 기록하며 좋은 반응을 얻으며 성공적인 활동을 하였다.\[20\]\[21\] 그들은 [SK텔레콤](../Page/SK텔레콤.md "wikilink")이 주최한 서울 강남의 클럽에서 열린 "크리스마스 T 소셜 파티"에 호스트로 공연하였다.\[22\] 추가적으로 [SBS](https://ko.wikipedia.org/wiki/서울방송 "wikilink") 음악 프로그램 《인기가요》에 출연했다.\[23\] 그들의 뮤직 비디오의 세트 이미지는 온라인에서 공개 되었다.\[24\] 음반은 [크리스마스 이브에](https://ko.wikipedia.org/wiki/크리스마스_이브 "wikilink") 발매가 되어 1위를 기록했으며,\[25\] 선주문 200,000장을 기록했다.\[26\]
 
 GD\&TOP은 2010년 11월, [YGEX](../Page/YGEX.md "wikilink") 레이블에서 싱글 음반 "OH YEAH"를 통해 일본 데뷔가 발표 되었다. "OH YEAH"는 [2NE1](../Page/2NE1.md "wikilink")의 [박봄](../Page/박봄.md "wikilink")이 피처링한 곡으로, 일본어 버전의 "HIGH HIGH"가 수록 되어 발매 되었다.\[27\] 하지만, 그들의 프로모션을 앞두고 [G-DRAGON의](../Page/지드래곤.md "wikilink") 대마초 흡연 사건으로 결국 싱글 음반의 발매일이 [1월 7일로](../Page/1월_7일.md "wikilink") 미뤄졌다. "OH YEAH"의 쇼트 버전 뮤직 비디오가 12월 12일에\[28\] 풀 버전이 8일 후인 12월 20일에 공개 되었다.\[29\]
 

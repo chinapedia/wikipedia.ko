@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK네트웍스서비스](https://ko.wikipedia.org/wiki/SK네트웍스서비스).
 
 
 **SK네트웍스서비스는** SK그룹의 계열사이며, SK네트웍스(주)가 출자한 자회사이다. 2007년 설립되었으며, 자본금 33억 3,396만원, 매출액 3,134억 6,122만원(2015년), 사원수 766명(2015년) 규모의 대기업이다. 서울특별시 중구 서소문동에 본사가, 경기도 수원시 장안구 정자동에 본점이 위치하고 있으며, 단말기 AS용역 / 네트워크 구축,운용 / 통신장비 유통사업 등 다양한 사업을 영위하고 있다.

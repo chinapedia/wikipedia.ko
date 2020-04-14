@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T  ](https://ko.wikipedia.org/wiki/T__).
+> This article is converted from Wikipedia: [T 본 버넷](https://ko.wikipedia.org/wiki/T_본_버넷).
 
 
 **T 본 버넷**(, [1948년](../Page/1948년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [음악 프로듀서이다](../Page/음악_프로듀서.md "wikilink").

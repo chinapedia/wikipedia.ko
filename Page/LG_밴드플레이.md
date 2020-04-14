@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 밴드플레이](https://ko.wikipedia.org/wiki/LG_밴드플레이).
 
 
 **LG 밴드플레이**(LG Band Play)는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [6월 25일에](../Page/6월_25일.md "wikilink") 출시한 보급형 스마트폰이다.\[1\] [SK텔레콤](../Page/SK텔레콤.md "wikilink")의 요청으로 출시된 [SK텔레콤](../Page/SK텔레콤.md "wikilink") 전용 기종이며, 이전의 보급형들과 다르게 멀티미디어 기능을 강화했다. [2015년](../Page/2015년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink"), 케이스가 유출되어 디자인이 처음 공개되었다.\[2\]

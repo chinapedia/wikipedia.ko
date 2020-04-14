@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  UNCLE](https://ko.wikipedia.org/wiki/__UNCLE).
+> This article is converted from Wikipedia: [맨 프롬 UNCLE](https://ko.wikipedia.org/wiki/맨_프롬_UNCLE).
 
 
 《**맨 프롬 U.N.C.L.E.**》()은 [가이 리치가](../Page/가이_리치.md "wikilink") 감독, 리치와 [라이어널 위그럼이](https://ko.wikipedia.org/wiki/라이어널_위그럼 "wikilink") 각본을 맡은 [2015년](../Page/2015년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 첩보 액션 코미디 영화이다. [이언 플레밍과](../Page/이언_플레밍.md "wikilink") [노먼 펠튼](https://ko.wikipedia.org/wiki/노먼_펠튼 "wikilink"), [샘 롤프가](https://ko.wikipedia.org/wiki/샘_롤프 "wikilink") 제작한 1964년 [MGM의](../Page/메트로_골드윈_메이어.md "wikilink") 드라마 《[첩보원 0011](https://ko.wikipedia.org/wiki/첩보원_0011 "wikilink")》을 원작으로 한다. [헨리 카빌](../Page/헨리_카빌.md "wikilink"), [아미 해머](../Page/아미_해머.md "wikilink"), [알리시아 비칸데르](../Page/알리시아_비칸데르.md "wikilink"), [엘리자베스 데비키](../Page/엘리자베스_데비키.md "wikilink"), [재러드 해리스](../Page/재러드_해리스.md "wikilink"), [휴 그랜트등이](../Page/휴_그랜트.md "wikilink") 출연했다. [랫팩-듄 엔터테인먼트와](https://ko.wikipedia.org/wiki/랫팩-듄_엔터테인먼트 "wikilink") [데이비스 엔터테인먼트가](https://ko.wikipedia.org/wiki/데이비스_엔터테인먼트 "wikilink") 제작했다.

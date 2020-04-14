@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F-](https://ko.wikipedia.org/wiki/_F-).
+> This article is converted from Wikipedia: [재규어 F-타입](https://ko.wikipedia.org/wiki/재규어_F-타입).
 
 
 **재규어 F-타입**(Jaguar F-Type)은 [재규어에서](../Page/재규어_자동차.md "wikilink") 만든 2인승 [쿠페](../Page/쿠페.md "wikilink") 및 [컨버터블](../Page/컨버터블.md "wikilink")이다.

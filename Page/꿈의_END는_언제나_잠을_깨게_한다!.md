@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ END    !](https://ko.wikipedia.org/wiki/_END____!).
+> This article is converted from Wikipedia: [꿈의 END는 언제나 잠을 깨게 한다!](https://ko.wikipedia.org/wiki/꿈의_END는_언제나_잠을_깨게_한다!).
 
 
 〈**꿈의 END는 언제나 잠을 깨게 한다\!**〉()는 [1992년](../Page/1992년.md "wikilink")(헤이세이 4년) [11월 26일에](../Page/11월_26일.md "wikilink") 발매된 [B.B.퀸즈](https://ko.wikipedia.org/wiki/B.B.퀸즈 "wikilink")의 6번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
@@ -49,9 +49,9 @@
 
 1.  **꿈의 END는 언제나 잠을 깨게 한다\!** \[3:26\]
       - 작사: 나가토 다이코, 작곡: 오다 테츠로, 편곡: [마스자키 타카시](https://ko.wikipedia.org/wiki/마스자키_타카시 "wikilink")
-2.  **로큰롤은 영원하릿 (B.B.퀸즈Ver.)** () \[3:52\]
+2.  **로큰롤은 영원하릿 (B.B.퀸즈Ver.)**() \[3:52\]
       - 작사 · 작곡: 노코, 편곡: 마스자키 타카시
-3.  **도레미파 괜찮아요 (신세이카맛테짱Ver.)** () \[4:14\]
+3.  **도레미파 괜찮아요 (신세이카맛테짱Ver.)**() \[4:14\]
       - 작사: 나가토 다이코, 작곡: 오다 테츠로, 편곡: 신세이카맛테짱
 
 ## 커버

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BIGBANG \(2009 \)](https://ko.wikipedia.org/wiki/BIGBANG_\(2009_\)).
+> This article is converted from Wikipedia: [BIGBANG \(2009년 음반\)](https://ko.wikipedia.org/wiki/BIGBANG_\(2009년_음반\)).
 
 
 《**BIGBANG**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹인 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink") 두 번째 정규 앨범이다.\[1\]\[2\]

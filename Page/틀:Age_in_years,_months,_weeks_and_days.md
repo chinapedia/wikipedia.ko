@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Age in years, months, weeks and days](https://ko.wikipedia.org/wiki/:Age_in_years,_months,_weeks_and_days).
+> This article is converted from Wikipedia: [틀:Age in years, months, weeks and days](https://ko.wikipedia.org/wiki/틀:Age_in_years,_months,_weeks_and_days).
 
 
 } -  }}} }}} - {{\#ifexpr:  }}} \>  }}} }}}

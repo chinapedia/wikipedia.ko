@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Z](https://ko.wikipedia.org/wiki/__Z).
+> This article is converted from Wikipedia: [닛산 페어레이디 Z](https://ko.wikipedia.org/wiki/닛산_페어레이디_Z).
 
 
 **닛산 페어레이디 Z**(Nissan Fairlady Z)는 [닛산 자동차의](../Page/닛산_자동차.md "wikilink") [스포츠카](../Page/스포츠카.md "wikilink")이다. 페어레이디 Z는 [일본](../Page/일본.md "wikilink") 내수에서의 차명이며, 해외에서는 숫자(배기량)+Z를 조합한 차명으로 인하여 Z카로도 불린다.

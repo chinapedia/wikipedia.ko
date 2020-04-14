@@ -5,7 +5,6 @@
 
 ## 학력
 
-  - [일산초등학교](../Page/일산초등학교_\(경기\).md "wikilink") (졸업)
   - [청담고등학교](https://ko.wikipedia.org/wiki/청담고등학교 "wikilink") (졸업)
   - [동국대학교](https://ko.wikipedia.org/wiki/동국대학교 "wikilink") 경영학부 (학사)
 
@@ -923,7 +922,7 @@ Featuring : Young K</p></td>
 
   - [JYP 엔터테인먼트](https://www.youtube.com/user/jypentertainment/videos) - [유튜브](../Page/유튜브.md "wikilink")
 
-[분류:1993년 태어남](https://ko.wikipedia.org/wiki/분류:1993년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:일산초등학교 (경기) 동문](https://ko.wikipedia.org/wiki/분류:일산초등학교_\(경기\)_동문 "wikilink") [분류:청담고등학교 동문](https://ko.wikipedia.org/wiki/분류:청담고등학교_동문 "wikilink") [분류:동국대학교 동문](https://ko.wikipedia.org/wiki/분류:동국대학교_동문 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:대한민국의 베이스 기타 연주자](https://ko.wikipedia.org/wiki/분류:대한민국의_베이스_기타_연주자 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:캐나다에 거주한 대한민국인](https://ko.wikipedia.org/wiki/분류:캐나다에_거주한_대한민국인 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink")
+[분류:1993년 태어남](https://ko.wikipedia.org/wiki/분류:1993년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:청담고등학교 동문](https://ko.wikipedia.org/wiki/분류:청담고등학교_동문 "wikilink") [분류:동국대학교 동문](https://ko.wikipedia.org/wiki/분류:동국대학교_동문 "wikilink") [분류:대한민국의 베이스 기타 연주자](https://ko.wikipedia.org/wiki/분류:대한민국의_베이스_기타_연주자 "wikilink") [분류:고양시 출신](https://ko.wikipedia.org/wiki/분류:고양시_출신 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:캐나다에 거주한 대한민국인](https://ko.wikipedia.org/wiki/분류:캐나다에_거주한_대한민국인 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink")
 
 1.
 2.

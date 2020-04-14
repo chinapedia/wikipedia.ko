@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [우니오토노마 FC](https://ko.wikipedia.org/wiki/우니오토노마_FC).
 
 
 **우니오토노마 FC**(Uniautónoma F.C.)는 [콜롬비아](../Page/콜롬비아.md "wikilink")에 위치한 [바랑키야](../Page/바랑키야.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. 이 팀은 [2010년](../Page/2010년.md "wikilink")에 창단하였다.

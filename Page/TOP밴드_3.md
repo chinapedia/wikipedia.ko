@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [TOP 3](https://ko.wikipedia.org/wiki/TOP_3).
+> This article is converted from Wikipedia: [TOP밴드 3](https://ko.wikipedia.org/wiki/TOP밴드_3).
 
 
-《**TOP밴드 3**》(탑밴드 3)는 밴드 서바이벌 프로그램 《[TOP밴드 2](https://ko.wikipedia.org/wiki/TOP밴드_2 "wikilink")》의 후속으로, 매주 [금요일](../Page/금요일.md "wikilink") 오후 10시 50분에 [KBS 2TV로](../Page/KBS_2TV.md "wikilink") 방송된 [밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [서바이벌](https://ko.wikipedia.org/wiki/서바이벌 "wikilink") [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
+《**TOP밴드 3**》(탑밴드 3)는 밴드 서바이벌 프로그램 《[TOP밴드 2](https://ko.wikipedia.org/wiki/TOP밴드_2 "wikilink")》의 후속으로, [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송된 [밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [서바이벌](https://ko.wikipedia.org/wiki/서바이벌 "wikilink") [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
 
 ## 시즌 목록
 
@@ -19,10 +19,10 @@
 
 ## 방송 시간
 
-| 방송 채널                                                                                          | 방송 기간                                                                                                                         | 방송 시간                                                       |
-| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                                                       | [2015년](../Page/2015년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ 2015년 [11월 28일](../Page/11월_28일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 오전 11:30 \~ 12:40 (70분) |
-| 2015년 [12월 4일](../Page/12월_4일.md "wikilink") \~ 2015년 [12월 11일](../Page/12월_11일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 밤 10:50 \~ 12:10 (80분)                                                                    |                                                             |
+| 방송 채널                                                                                          | 방송 기간                                                                                                                         | 방송 시간                                                           |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                                                       | [2015년](../Page/2015년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ 2015년 [11월 28일](../Page/11월_28일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 오전11:30 \~ 낮12:40 (1시간 10분) |
+| 2015년 [12월 4일](../Page/12월_4일.md "wikilink") \~ 2015년 [12월 11일](../Page/12월_11일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 오후10:50 \~ 밤12:10 (1시간 20분)                                                               |                                                                 |
 
 ## 출연자
 

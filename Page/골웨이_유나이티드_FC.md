@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [골웨이 유나이티드 FC](https://ko.wikipedia.org/wiki/골웨이_유나이티드_FC).
 
 
 **골웨이 유나이티드 FC**(Galway United FC)는 [아일랜드](../Page/아일랜드.md "wikilink")에 있는 [골웨이](../Page/골웨이.md "wikilink")를 연고로 했던 [축구](../Page/축구.md "wikilink") 클럽이다.

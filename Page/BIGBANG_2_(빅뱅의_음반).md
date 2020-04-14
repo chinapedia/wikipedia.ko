@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BIGBANG 2 \( \)](https://ko.wikipedia.org/wiki/BIGBANG_2_\(_\)).
+> This article is converted from Wikipedia: [BIGBANG 2 \(빅뱅의 음반\)](https://ko.wikipedia.org/wiki/BIGBANG_2_\(빅뱅의_음반\)).
 
 
 《**BIGBANG 2**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹인 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink") 세 번째 정규 앨범이다. 2011년 5월 11일에 발매 되었다. 이 음반은 세 장의 싱글; "[声をきかせて](../Page/코에오키카세떼.md "wikilink")", "[Tell Me Goodbye](../Page/Tell_Me_Goodbye.md "wikilink")"와 "[Beautiful Hangover](../Page/Beautiful_Hangover.md "wikilink")"이 수록 되어 있다. "声をきかせて", "Tell Me Goodbye"는 [일본](../Page/일본.md "wikilink") [오리콘](../Page/오리콘.md "wikilink") 차트에서 TOP 5에, "Beautiful Hangover"는 TOP 10위안에 랭크인 되었다.

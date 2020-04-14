@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   G](https://ko.wikipedia.org/wiki/___G).
+> This article is converted from Wikipedia: [코믹 전격 대왕 G](https://ko.wikipedia.org/wiki/코믹_전격_대왕_G).
 
 
 『**코믹 전격 대왕 G**』는 [카도카와](https://ko.wikipedia.org/wiki/카도카와 "wikilink") ([아스키 미디어 워크스](../Page/아스키_미디어_워크스.md "wikilink")) 발행의 월간 [4컷](../Page/네_컷_만화.md "wikilink") [만화 잡지](https://ko.wikipedia.org/wiki/만화_잡지 "wikilink"). 『[월간 코믹 전격 대왕](../Page/월간_코믹_전격_대왕.md "wikilink")』의 증간으로, [2013년](../Page/2013년.md "wikilink") [9월 27일에](../Page/9월_27일.md "wikilink") 창간되었다.

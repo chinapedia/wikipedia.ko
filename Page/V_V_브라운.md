@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V V ](https://ko.wikipedia.org/wiki/V_V_).
+> This article is converted from Wikipedia: [V V 브라운](https://ko.wikipedia.org/wiki/V_V_브라운).
 
 
 **V V 브라운**(V V Brown, [1983년](../Page/1983년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ )은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [모델](../Page/모델_\(직업\).md "wikilink"), [음악 프로듀서이다](../Page/음악_프로듀서.md "wikilink").

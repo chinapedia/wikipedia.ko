@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AV ](https://ko.wikipedia.org/wiki/:AV_).
+> This article is converted from Wikipedia: [틀:AV 그랑프리](https://ko.wikipedia.org/wiki/틀:AV_그랑프리).
 
 
 [AV 그랑프리](../Page/AV_그랑프리.md "wikilink") {{\!}} [DMM성인상](https://ko.wikipedia.org/wiki/DMM성인상 "wikilink") {{\!}} [스카파\! 성인방송대상](https://ko.wikipedia.org/wiki/스카파!_성인방송대상 "wikilink") |묶음1=최우수작품상 |내용1=08 [코사카 유리](https://ko.wikipedia.org/wiki/코사카_유리 "wikilink"){{·}}[오하시 미쿠](https://ko.wikipedia.org/wiki/오하시_미쿠 "wikilink") {{\!}} 09 [Rio](../Page/Rio.md "wikilink"){{·}} [아사미 유마](../Page/아사미_유마.md "wikilink") |묶음2=매출부문상 |내용2=

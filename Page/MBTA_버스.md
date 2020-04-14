@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBTA ](https://ko.wikipedia.org/wiki/MBTA_).
+> This article is converted from Wikipedia: [MBTA 버스](https://ko.wikipedia.org/wiki/MBTA_버스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MBTA_NABI.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Trolleybus4120.Harvard.agr.JPG "wikilink") **MBTA 버스**는 [MBTA가](https://ko.wikipedia.org/wiki/매사추세츠_베이_트랜스포테이션_오소리티 "wikilink") 운영하는 버스 시스템이다. MBTA의 버스는 미국에서 여섯 번째로 버스 승객이 가장 많고 150개가 넘는 노선이 광역 보스턴 지역을 운행한다. MBTA의 버스 운행은 지하철 운행과 규모가 같지만, 통근 열차 운행보다 규모가 작은데, 이는 일곱 개의 다른 지역 교통 회사가 또한 더 넓은 지역에서 버스를 운행하기 때문이다. 이 회사들은 각자 요금 체계와 하청 운영사가 다르지만, 대부분 그 버스 회사들의 승객들이 MBTA 통근 열차의 주요 승객이기도 하다.\[1\]

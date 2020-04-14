@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GO!](https://ko.wikipedia.org/wiki/_GO!).
+> This article is converted from Wikipedia: [파카포로 GO!](https://ko.wikipedia.org/wiki/파카포로_GO!).
 
 
 〈**파카포로 GO\!**〉()는 《[크레용 신짱](../Page/짱구는_못말려_\(애니메이션\).md "wikilink")》(짱구는 못말려)의 주인공, [노하라 신노스케](../Page/노하라_신노스케.md "wikilink")(신짱구)\[1\](성우: [야지마 아키코](../Page/야지마_아키코.md "wikilink"))의 노래이며, 야지마 아키코의 2번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [1995년](../Page/1995년.md "wikilink") [11월 13일에](../Page/11월_13일.md "wikilink") [워너 뮤직 재팬에서](../Page/워너_뮤직_재팬.md "wikilink") 발매됐다. 작사는 포엠단, 작곡은 [키무라 타카시가](https://ko.wikipedia.org/wiki/t-kimura "wikilink") 맡고 있다.

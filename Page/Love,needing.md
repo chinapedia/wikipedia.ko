@@ -16,7 +16,7 @@
       - 작사: 쿠라키 마이, 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: [아사이 히로시](https://ko.wikipedia.org/wiki/아사이_히로시 "wikilink")
 2.  **Moon serenade,Moonlight** (4:29)
       - 작사: 쿠라키 마이, 작곡 · 편곡: [토쿠나가 아카히토](https://ko.wikipedia.org/wiki/토쿠나가_아카히토 "wikilink")
-3.  **[내일로 이어지는 다리](https://ko.wikipedia.org/wiki/아시타에카케루하시 "wikilink") (ballad ver.)** () (3:51)
+3.  **[내일로 이어지는 다리](https://ko.wikipedia.org/wiki/아시타에카케루하시 "wikilink") (ballad ver.)**() (3:51)
       - 작사: 쿠라키 마이, 작곡 · 편곡: 토쿠나가 아키히토
     <!-- end list -->
       -

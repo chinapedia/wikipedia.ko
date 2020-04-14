@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FE ](https://ko.wikipedia.org/wiki/FE_).
+> This article is converted from Wikipedia: [FE 엔터테인먼트](https://ko.wikipedia.org/wiki/FE_엔터테인먼트).
 
 
 **에프이 엔터테인먼트** ( FE Ent, [영어](../Page/영어.md "wikilink"): FE Entertainment ) 는, 가수 [김현철이](../Page/김현철_\(가수\).md "wikilink") 설립한 [대한민국](../Page/대한민국.md "wikilink")의 [연예 기획사이다](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink").

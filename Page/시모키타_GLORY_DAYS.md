@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GLORY DAYS](https://ko.wikipedia.org/wiki/_GLORY_DAYS).
+> This article is converted from Wikipedia: [시모키타 GLORY DAYS](https://ko.wikipedia.org/wiki/시모키타_GLORY_DAYS).
 
 
 22 합병호 | 종료 = 2007년 20호 | 책수 = 전 12권 }}   《**시모키타 GLORY DAYS**》()는 [주간 영 선데이에](../Page/주간_영_선데이.md "wikilink") 연재되었던 [오타니 지로의](https://ko.wikipedia.org/wiki/오타니_지로 "wikilink") 만화이자, 이를 기반으로 제작된 동명의 [드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").

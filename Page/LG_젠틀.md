@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 젠틀](https://ko.wikipedia.org/wiki/LG_젠틀).
 
 
 **LG 젠틀**(LG Gentle)은 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [7월 28일에](../Page/7월_28일.md "wikilink") 출시한 폴더형 [스마트폰](../Page/스마트폰.md "wikilink")이다. [LG U+](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 전용이며, 중장년 층을 타겟으로 출시되었다.\[1\] [LG 와인스마트의](../Page/LG_와인스마트.md "wikilink") 후속작이나 전체적인 성능이 현저하게 다운그래이드 된 버전으로서 심한 혹평을 받았다. 카메라 화소, 화질, 화면크기등이 경쟁모델인 삼성 갤럭시 폴더 (LTE, 3G)에 밀려 전작에 비해 큰 판매기록을 달성하지는 못하였다. [2016년](../Page/2016년.md "wikilink") 초에는 [LG U+와](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 함께 병사 수신용 공용 휴대폰 (LG-F660L)을 출시하여 전군 병영생활관에 4만 4686대의 젠틀을 보급하기도 하였다. 또한 LG 젠틀 모델은 약 2개월 후 대한민국 SKTelecom과 KT통신사에도 2종류 색상 (베이지, 브라운) 으로 변경하고 LG 와인스마트재즈로 이름과 색상만 변경하여 출시하였다.

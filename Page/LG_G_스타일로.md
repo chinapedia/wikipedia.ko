@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G ](https://ko.wikipedia.org/wiki/LG_G_).
+> This article is converted from Wikipedia: [LG G 스타일로](https://ko.wikipedia.org/wiki/LG_G_스타일로).
 
 
 *' LG G 스타일로*'는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [4월 22일에](../Page/4월_22일.md "wikilink") 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다. 이름인 '스타일로'는 G 스타일로의 가장 큰 특징인 '스타일러스 펜'에서 유래되었다.

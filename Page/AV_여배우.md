@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AV ](https://ko.wikipedia.org/wiki/AV_).
+> This article is converted from Wikipedia: [AV 여배우](https://ko.wikipedia.org/wiki/AV_여배우).
 
 
 **AV 여배우**()는 [일본](../Page/일본.md "wikilink")의 [어덜트 비디오](../Page/어덜트_비디오.md "wikilink")(Adult Video; AV)에 출연하는 전문 여배우를 말한다. 성인물이 아닌 다른 분야에서 활동을 할 때에는 **섹시 여배우**라고 부른다. **AV 아이돌** 이라고 부르는 경우도 있다. 2012년 기준으로 6\~8천명의 AV 여배우가 활동하고 있다고도 하며, 다른 의견으로 2011년에 이미 연인원 20만명에 이르렀다는 말도 있다. 한편, 과거에는 성인 비디오에 출연하는 사람을 배우라고 부르는 것은 배우에게 실례가 된다며, **AV 걸**이라고 부르기도 했다.
@@ -180,14 +180,6 @@ AV 여배우 중 가장 높은 대우를 받는다고 간주되며, 여배우의
   -
 ## 같이 보기
 
-  - [성인 비디오 여배우 목록](https://ko.wikipedia.org/wiki/성인_비디오_여배우_목록 "wikilink")
-      - [성인 비디오 여배우 목록 (ㄱ, ㅋ)](https://ko.wikipedia.org/wiki/성인_비디오_여배우_목록_\(ㄱ,_ㅋ\) "wikilink")
-      - [성인 비디오 여배우 목록 (ㄴ)](https://ko.wikipedia.org/wiki/성인_비디오_여배우_목록_\(ㄴ\) "wikilink")
-      - [성인 비디오 여배우 목록 (ㅁ)](https://ko.wikipedia.org/wiki/성인_비디오_여배우_목록_\(ㅁ\) "wikilink")
-      - [성인 비디오 여배우 목록 (ㅅ, ㅈ)](https://ko.wikipedia.org/wiki/성인_비디오_여배우_목록_\(ㅅ,_ㅈ\) "wikilink")
-      - [성인 비디오 여배우 목록 (ㅇ)](https://ko.wikipedia.org/wiki/성인_비디오_여배우_목록_\(ㅇ\) "wikilink")
-      - [성인 비디오 여배우 목록 (ㅊ, ㅌ)](https://ko.wikipedia.org/wiki/성인_비디오_여배우_목록_\(ㅊ,_ㅌ\) "wikilink")
-      - [성인 비디오 여배우 목록 (ㅎ)](https://ko.wikipedia.org/wiki/성인_비디오_여배우_목록_\(ㅎ\) "wikilink")
   - [AV 사무소](https://ko.wikipedia.org/wiki/AV_사무소 "wikilink")
   - [AV 남배우](https://ko.wikipedia.org/wiki/AV_남배우 "wikilink")
   - [AV 감독](https://ko.wikipedia.org/wiki/AV_감독 "wikilink")

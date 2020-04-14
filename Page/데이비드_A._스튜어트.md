@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [데이비드 A. 스튜어트](https://ko.wikipedia.org/wiki/데이비드_A._스튜어트).
 
 
 **데이비드 A. 스튜어트**(, [1952년](../Page/1952년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") \~ )는 [영국](../Page/영국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 겸 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), [기타 연주자이다](../Page/기타_연주자.md "wikilink").

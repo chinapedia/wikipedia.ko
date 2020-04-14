@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RC](https://ko.wikipedia.org/wiki/_RC).
+> This article is converted from Wikipedia: [렉서스 RC](https://ko.wikipedia.org/wiki/렉서스_RC).
 
 
 **렉서스 RC**(Lexus RC)는 [렉서스](../Page/렉서스.md "wikilink")의 4인승 [스포츠카](../Page/스포츠카.md "wikilink")이다. [대한민국](../Page/대한민국.md "wikilink")에는 [2015년 4월에](../Page/2015년_4월.md "wikilink") [서울모터쇼](https://ko.wikipedia.org/wiki/서울모터쇼 "wikilink")를 통해 공개되었다.

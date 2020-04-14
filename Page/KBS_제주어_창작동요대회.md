@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  ](https://ko.wikipedia.org/wiki/KBS__).
+> This article is converted from Wikipedia: [KBS 제주어 창작동요대회](https://ko.wikipedia.org/wiki/KBS_제주어_창작동요대회).
 
 
 **KBS 제주어 창작동요대회**는 [2011년](../Page/2011년.md "wikilink")에 시작되어 [2013년](../Page/2013년.md "wikilink")에 폐지된 대한민국의 창작동요경연대회이다.

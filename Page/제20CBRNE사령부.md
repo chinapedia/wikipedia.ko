@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [20CBRNE](https://ko.wikipedia.org/wiki/20CBRNE).
+> This article is converted from Wikipedia: [제20CBRNE사령부](https://ko.wikipedia.org/wiki/제20CBRNE사령부).
 
 
 **제20CBRNE사령부**(), *제20지원사령부*로도 알려져 있는 [메릴랜드 주, 애버딘의](https://ko.wikipedia.org/wiki/애버딘_\(메릴랜드주\) "wikilink") [애버딘 실험장에](https://ko.wikipedia.org/wiki/애버딘_실험장 "wikilink") 본부를 두고있는 [미국 육군의](../Page/미국_육군.md "wikilink") [화학, 생물학, 방사능, 핵 및 고성능 폭발물](../Page/대량살상무기.md "wikilink")() 대응 [사령부](https://ko.wikipedia.org/wiki/사령부 "wikilink")이다. 표어는 "", "
@@ -38,7 +38,7 @@
 
   - [globalsecurity.org](http://www.globalsecurity.org/military/agency/army/20sup-cmd.htm)
 
-[분류:2004년 설립](https://ko.wikipedia.org/wiki/분류:2004년_설립 "wikilink") [분류:미국 육군의 지원사령부](https://ko.wikipedia.org/wiki/분류:미국_육군의_지원사령부 "wikilink") [분류:화생방 부대 및 조직](https://ko.wikipedia.org/wiki/분류:화생방_부대_및_조직 "wikilink") [분류:메릴랜드주](https://ko.wikipedia.org/wiki/분류:메릴랜드주 "wikilink")
+[분류:2004년 설립](https://ko.wikipedia.org/wiki/분류:2004년_설립 "wikilink") [분류:미국 육군의 지원사령부](https://ko.wikipedia.org/wiki/분류:미국_육군의_지원사령부 "wikilink") [분류:화생방 부대 및 조직](https://ko.wikipedia.org/wiki/분류:화생방_부대_및_조직 "wikilink") [분류:메릴랜드주의 부대](https://ko.wikipedia.org/wiki/분류:메릴랜드주의_부대 "wikilink")
 
 1.
 2.

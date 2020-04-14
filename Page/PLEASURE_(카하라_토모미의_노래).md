@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PLEASURE \(  \)](https://ko.wikipedia.org/wiki/PLEASURE_\(__\)).
+> This article is converted from Wikipedia: [PLEASURE \(카하라 토모미의 노래\)](https://ko.wikipedia.org/wiki/PLEASURE_\(카하라_토모미의_노래\)).
 
 
 〈**PLEASURE**〉(프레저)는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [카하라 토모미의](../Page/카하라_토모미.md "wikilink") 22번째 싱글이다. 카하라 작품에서 유일한 [CCCD이다](https://ko.wikipedia.org/wiki/카피_컨트롤_CD "wikilink").
@@ -14,7 +14,7 @@
 
 1.  **PLEASURE**
       - 작사: [쿠로스 치히로](https://ko.wikipedia.org/wiki/쿠로스_치히로 "wikilink"), 작곡: [호소이 카오리](https://ko.wikipedia.org/wiki/호소이_카오리 "wikilink"), 편곡: [시미즈 노부유키](https://ko.wikipedia.org/wiki/시미즈_노부유키 "wikilink")
-2.  **미래색의 별빛들** ()
+2.  **미래색의 별빛들**()
       - 작사 · 작곡: [Yori](https://ko.wikipedia.org/wiki/Yori "wikilink"), 편곡: 시미즈 노부유키
 3.  **PLEASURE (instrumental)**
 4.  **미래색의 별빛들 (instrumental)**

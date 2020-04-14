@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DX!](https://ko.wikipedia.org/wiki/_DX!).
+> This article is converted from Wikipedia: [오네다리 마스캇토DX!](https://ko.wikipedia.org/wiki/오네다리_마스캇토DX!).
 
 
 《**오네다리 마스캇토DX\!**》()는 [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 방송된 심야 버라이어티 프로그램이다. 약칭으로 **오네마스DX**라고 불렸다. TV 도쿄에서 2010년 10월 6일부터 2011년 9월 28일까지 방영되었으며, 전 51회로 구성되었다.

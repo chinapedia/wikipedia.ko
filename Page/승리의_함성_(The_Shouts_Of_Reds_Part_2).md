@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(The Shouts Of Reds Part 2\)](https://ko.wikipedia.org/wiki/__\(The_Shouts_Of_Reds_Part_2\)).
+> This article is converted from Wikipedia: [승리의 함성 \(The Shouts Of Reds Part 2\)](https://ko.wikipedia.org/wiki/승리의_함성_\(The_Shouts_Of_Reds_Part_2\)).
 
 
 **승리의 함성 (The Shouts Of Reds Part 2)**은 대한민국의 음악 그룹 [빅뱅과](../Page/빅뱅_\(음악_그룹\).md "wikilink") [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [트랜스픽션](../Page/트랜스픽션.md "wikilink"), [피겨스케이팅](../Page/피겨스케이팅.md "wikilink") [김연아](../Page/김연아.md "wikilink") 선수가 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")의 [2010년 FIFA 월드컵을](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 응원하는 캠페인 "샤우팅 코리아"를 홍보하기 위해 제작 된 싱글 음반이다.

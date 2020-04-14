@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Transform \(\)](https://ko.wikipedia.org/wiki/Transform_\(\)).
+> This article is converted from Wikipedia: [Transform \(음반\)](https://ko.wikipedia.org/wiki/Transform_\(음반\)).
 
 
 ***Transform***은 [2010년](../Page/2010년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") 발매된, 프로듀서 [크루시픽스 크릭의](https://ko.wikipedia.org/wiki/크릭 "wikilink") 3번째 정규 앨범이다. [비솝](../Page/비솝.md "wikilink") 이외에도 [오버클래스](../Page/오버클래스.md "wikilink")의 보컬 Kjun 및 신예 래퍼 [스윙스](../Page/스윙스.md "wikilink"), [리미](https://ko.wikipedia.org/wiki/리미 "wikilink")의 가세가 눈에 띄는, 대중 친화적인 힙합 음악을 선보인 음반이다. 타이틀 곡은 'Can You Be My (feat. B-Soap, Kjun & Tyra)'가 선정 되었다.

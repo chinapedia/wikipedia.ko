@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P.SMY SUNSHINE](https://ko.wikipedia.org/wiki/P.SMY_SUNSHINE).
+> This article is converted from Wikipedia: [P.S♡MY SUNSHINE](https://ko.wikipedia.org/wiki/P.S♡MY_SUNSHINE).
 
 
 〈**P.S♡MY SUNSHINE**〉(피에스 마이 선샤인)은 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 21번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [2005년](../Page/2005년.md "wikilink") [6월 1일에](../Page/6월_1일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.

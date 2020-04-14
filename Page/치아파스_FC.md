@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [치아파스 FC](https://ko.wikipedia.org/wiki/치아파스_FC).
 
 
 **치아파스 FC**(Chiapas F.C.)는 [멕시코](../Page/멕시코.md "wikilink") [치아파스주](https://ko.wikipedia.org/wiki/치아파스주 "wikilink") [툭스틀라구티에레스](https://ko.wikipedia.org/wiki/툭스틀라구티에레스 "wikilink")를 연고로 하던 [축구](../Page/축구.md "wikilink") 클럽이다.

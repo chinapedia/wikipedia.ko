@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KNN ](https://ko.wikipedia.org/wiki/KNN_).
+> This article is converted from Wikipedia: [KNN 타워](https://ko.wikipedia.org/wiki/KNN_타워).
 
 
 **KNN 타워**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](../Page/해운대구.md "wikilink") [우동에](../Page/우동_\(부산\).md "wikilink") 위치한 [초고층 건물이다](https://ko.wikipedia.org/wiki/초고층_건물 "wikilink"). [부산방송](https://ko.wikipedia.org/wiki/부산방송 "wikilink")의 본사로 사용하고 있는 건물이다. [2010년](../Page/2010년.md "wikilink")에 착공하여 [2012년](../Page/2012년.md "wikilink")에 완공했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\'77 MBC ](https://ko.wikipedia.org/wiki/\'77_MBC_).
+> This article is converted from Wikipedia: [\'77 MBC 서울가요제](https://ko.wikipedia.org/wiki/\'77_MBC_서울가요제).
 
 
 《**'77 MBC 서울가요제**》는 1977년 문화방송(MBC)과 경향신문이 대한민국의 서울에서 공동 주최한 가요제다. 입상곡들은 힛트레코드를 통해 스튜디오 녹음 음반으로 발매되었다.

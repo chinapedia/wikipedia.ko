@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FA](https://ko.wikipedia.org/wiki/_FA).
+> This article is converted from Wikipedia: [클란탄 FA](https://ko.wikipedia.org/wiki/클란탄_FA).
 
 
 **클란탄 FA**()는 [말레이시아](../Page/말레이시아.md "wikilink")의 [클란탄주](../Page/클란탄주.md "wikilink") [코타바루](https://ko.wikipedia.org/wiki/코타바루 "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 1946년 창단되었으며 2009년부터 [말레이시아 슈퍼리그에](../Page/말레이시아_슈퍼리그.md "wikilink") 참가하고 있다. [트렝가누와](../Page/트렝가누_FA.md "wikilink") 라이벌 관계를 구축하고 있다. 2012년엔 국내 3개 대회인 리그와 FA컵, 컵대회 모두 우승하였다.

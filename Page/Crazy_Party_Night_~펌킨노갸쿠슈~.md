@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Crazy Party Night \~\~](https://ko.wikipedia.org/wiki/Crazy_Party_Night_\~\~).
+> This article is converted from Wikipedia: [Crazy Party Night \~펌킨노갸쿠슈\~](https://ko.wikipedia.org/wiki/Crazy_Party_Night_\~펌킨노갸쿠슈\~).
 
 
 〈**Crazy Party Night (펌킨의 역습)**〉()는 [2015년](../Page/2015년.md "wikilink") [9월 2일에](../Page/9월_2일.md "wikilink") 발매예정인, [캬리 파뮤파뮤의](../Page/캬리_파뮤파뮤.md "wikilink") 11번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
@@ -9,12 +9,12 @@
 
 ### CD
 
-1.  **Crazy Party Night (펌킨의 역습)** ()
+1.  **Crazy Party Night (펌킨의 역습)**()
 2.  **No No No**
       - [글리코](https://ko.wikipedia.org/wiki/글리코 "wikilink") [아이스노미](https://ko.wikipedia.org/wiki/아이스노미 "wikilink") CM송.
-3.  **가르쳐줘 댄스 플로어** ()
+3.  **가르쳐줘 댄스 플로어**()
       - [SHARP](../Page/샤프_\(기업\).md "wikilink") [AQUOS](https://ko.wikipedia.org/wiki/아쿠오스 "wikilink") 4K CM.
-4.  **제멋대로** ()
+4.  **제멋대로**()
       - [닌텐도](../Page/닌텐도.md "wikilink") 《[튀어나와요 동물의 숲](../Page/튀어나와요_동물의_숲.md "wikilink")》 CM송.
 5.  Crazy Party Night (펌킨의 역습) (instrumental)
 6.  No No No (instrumental)

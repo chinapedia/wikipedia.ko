@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [후니오르 FC](https://ko.wikipedia.org/wiki/후니오르_FC).
 
 
 **클루브 데포르티보 포풀라르 후니오르 FC**(Club Deportivo Popular Junior F.C. S.A.) 또는 **후니오르**(Junior), **아틀레티코 후니오르**(Atlético Junior)는 [콜롬비아](../Page/콜롬비아.md "wikilink")에 위치한 [바랑키야](../Page/바랑키야.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. 이 팀은 [1924년](../Page/1924년.md "wikilink")에 창단하였다.

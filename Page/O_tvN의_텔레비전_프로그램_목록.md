@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [O tvN   ](https://ko.wikipedia.org/wiki/O_tvN___).
+> This article is converted from Wikipedia: [O tvN의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/O_tvN의_텔레비전_프로그램_목록).
 
 
 다음은 **[O tvN](https://ko.wikipedia.org/wiki/O_tvN "wikilink") [텔레비전 프로그램](../Page/텔레비전_프로그램.md "wikilink")**의 관련 작품을 통해 발표된 순서로 나열 및 정리한 것이다.

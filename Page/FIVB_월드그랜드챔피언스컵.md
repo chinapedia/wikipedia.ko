@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIVB ](https://ko.wikipedia.org/wiki/FIVB_).
+> This article is converted from Wikipedia: [FIVB 월드그랜드챔피언스컵](https://ko.wikipedia.org/wiki/FIVB_월드그랜드챔피언스컵).
 
 
 **FIVB 월드그랜드챔피언스컵**(FIVB World Grand Champions Cup)은 [국제 배구 연맹이](../Page/국제_배구_연맹.md "wikilink") 주최하여 각 대륙 챔피언이 모여 우승팀을 가리는 대회이다. [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink")과 [세계 배구 선수권대회](https://ko.wikipedia.org/wiki/세계_배구_선수권대회 "wikilink") 사이 연도에 개최된다.

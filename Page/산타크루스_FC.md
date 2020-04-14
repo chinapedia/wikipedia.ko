@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [산타크루스 FC](https://ko.wikipedia.org/wiki/산타크루스_FC).
 
 
 **산타크루스 푸츠보우 클루비**(Santa Cruz Futebol Clube)는 [브라질](../Page/브라질.md "wikilink") [페르남부쿠주](https://ko.wikipedia.org/wiki/페르남부쿠주 "wikilink") [헤시피](../Page/헤시피.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1914년](../Page/1914년.md "wikilink")에 창단되었으며, 현재 [캄페오나투 브라질레이루 세리에 B에](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리에_B "wikilink") 참가하고 있다.

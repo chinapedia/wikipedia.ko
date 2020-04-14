@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KDB](https://ko.wikipedia.org/wiki/KDB).
+> This article is converted from Wikipedia: [KDB생명빌딩](https://ko.wikipedia.org/wiki/KDB생명빌딩).
 
 
 **KDB생명빌딩**()은 [대한민국](../Page/대한민국.md "wikilink") [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") [서구](../Page/서구_\(광주광역시\).md "wikilink") [양동에](https://ko.wikipedia.org/wiki/양동_\(광주\) "wikilink") 위치한 [마천루](../Page/마천루.md "wikilink")이다.\[1\] [1994년](../Page/1994년.md "wikilink")에 착공하여 [1996년 9월에](https://ko.wikipedia.org/wiki/1996년_9월 "wikilink") 완공한 건물은 높이 134m, 지상 30층, 지하 6층으로 되어있고 업무용 건물이다. 완공 당시 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")에서 가장 높은 건물이자 아파트보다 높은 건물이었다. 그러나 [2019년](../Page/2019년.md "wikilink") [3월](../Page/3월.md "wikilink") 쌍암동에 완공된 [첨단 힐스테이트 리버파크의](https://ko.wikipedia.org/wiki/첨단_힐스테이트_리버파크 "wikilink") 높이가 137m를 기록해, 광주에서 가장 높은 건물이라는 타이틀을 넘겨주었다.

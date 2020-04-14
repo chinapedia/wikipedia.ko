@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ONE \(\)](https://ko.wikipedia.org/wiki/ONE_\(\)).
+> This article is converted from Wikipedia: [ONE \(만화가\)](https://ko.wikipedia.org/wiki/ONE_\(만화가\)).
 
 
 **ONE**(원, [1986년](../Page/1986년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") - )은 [일본](../Page/일본.md "wikilink") [니가타현](../Page/니가타현.md "wikilink") 출생\[1\], [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") 출신\[2\]의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink")\[3\] [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink")이다.
@@ -34,7 +34,7 @@
 
 ### 동인지
 
-  - 지구의 괴수 (작화 : 무라타 유스케, [니시무라 키누](https://ko.wikipedia.org/wiki/니시무라_키누 "wikilink"), ONE)
+  - 지구의 괴수 (작화 : 무라타 유스케, [니시무라 키누](../Page/니시무라_키누.md "wikilink"), ONE)
   - OTHER ONE-BUKURO (작화 : 무라타 유스케)
   - OTHER ONE-BUKURO2 (작화 : 무라타 유스케)
   - OTHER ONE-BUKURO3 (작화 : 무라타 유스케)

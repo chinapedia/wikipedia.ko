@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Portal bar](https://ko.wikipedia.org/wiki/:Portal_bar).
+> This article is converted from Wikipedia: [모듈:Portal bar](https://ko.wikipedia.org/wiki/모듈:Portal_bar).
 
 
 \-- This module implements .

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I don\'t obey\~ \~](https://ko.wikipedia.org/wiki/I_don\'t_obey\~_\~).
+> This article is converted from Wikipedia: [I don\'t obey\~우리의 프라이드\~](https://ko.wikipedia.org/wiki/I_don\'t_obey\~우리의_프라이드\~).
 
 
 〈**I don't obey\~우리의 프라이드\~**〉()는 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 데뷔 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2009년](../Page/2009년.md "wikilink") [11월 4일에](../Page/11월_4일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.
@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-1.  **I don't obey\~우리의 프라이드\~** ()
+1.  **I don't obey\~우리의 프라이드\~**()
       - 작사 · 작곡 · 편곡: [m.c.A·T](https://ko.wikipedia.org/wiki/m.c.A·T "wikilink")
     <!-- end list -->
       -

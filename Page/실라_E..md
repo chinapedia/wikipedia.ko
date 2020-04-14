@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E.](https://ko.wikipedia.org/wiki/_E.).
+> This article is converted from Wikipedia: [실라 E.](https://ko.wikipedia.org/wiki/실라_E.).
 
 
 **실라 E.**(Sheila E., [1957년](../Page/1957년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.

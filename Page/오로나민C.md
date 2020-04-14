@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C](https://ko.wikipedia.org/wiki/C).
+> This article is converted from Wikipedia: [오로나민C](https://ko.wikipedia.org/wiki/오로나민C).
 
 
 **오로나민C**(Oronamin C, )는 [일본](../Page/일본.md "wikilink") 의 [오츠카 제약이](https://ko.wikipedia.org/wiki/오츠카_제약 "wikilink") 1965년 생산하기 시작하여 [2015년](../Page/2015년.md "wikilink")부터 [동아오츠카](../Page/동아오츠카.md "wikilink")의 라이센스로 [대한민국](../Page/대한민국.md "wikilink")에서 판매되고 있는 [비타민](../Page/비타민.md "wikilink") [드링크](https://ko.wikipedia.org/wiki/드링크 "wikilink")이다. 다른 비타민 드링크와는 달리 [탄산](../Page/탄산.md "wikilink")이 함유된 것 역시 특징이다.

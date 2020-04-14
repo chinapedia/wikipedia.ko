@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V ](https://ko.wikipedia.org/wiki/V_).
+> This article is converted from Wikipedia: [V 노블](https://ko.wikipedia.org/wiki/V_노블).
 
 
 **V노블**은 도서출판 길찾기([이미지프레임](https://ko.wikipedia.org/wiki/이미지프레임 "wikilink"))의 라이트노벨 레이블로 V는 VICTORY와 VERSUS의 V이다. 블로그를 통해 신간을 발표한다. 2013년 8월 첫 작품을 발매했으며 책은 보통 월말에 발매된다.

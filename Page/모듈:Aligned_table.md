@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Aligned table](https://ko.wikipedia.org/wiki/:Aligned_table).
+> This article is converted from Wikipedia: [모듈:Aligned table](https://ko.wikipedia.org/wiki/모듈:Aligned_table).
 
 
 \-- This module implements  local p = {}

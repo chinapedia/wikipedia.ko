@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\'78 MBC ](https://ko.wikipedia.org/wiki/\'78_MBC_).
+> This article is converted from Wikipedia: [\'78 MBC 서울국제가요제](https://ko.wikipedia.org/wiki/\'78_MBC_서울국제가요제).
 
 
 《**'78 MBC 서울국제가요제**》는 1978년 문화방송(MBC)과 경향신문이 대한민국의 서울에서 공동 주최한 가요제이다. 입상곡들은 힛트레코드를 통해 실황녹음 음반으로서 발매되었다.

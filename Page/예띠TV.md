@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [예띠TV](https://ko.wikipedia.org/wiki/예띠TV).
 
 
 《**예띠TV**》는 매주 [금요일](../Page/금요일.md "wikilink") 밤 1시 30분 부터 [KBS 2TV로](../Page/KBS_2TV.md "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").

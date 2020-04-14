@@ -13,7 +13,7 @@
       -
         [에자키 글리코](../Page/에자키_글리코.md "wikilink") “BREO” CM송
         [간사이 TV](../Page/간사이_TV_방송.md "wikilink") [후지 TV계](../Page/후지_TV.md "wikilink") 《[캐서린](https://ko.wikipedia.org/wiki/캐서린_3세 "wikilink")》 엔딩 테마\[1\]
-2.  **하지만 하지만 아직 아직** () \[4:11\]
+2.  **하지만 하지만 아직 아직**() \[4:11\]
 3.  딱 좋아 (extended mix) ) \[4:23\]
 
 초회한정반(포토북 사양)과 통상반의 2형태로 발매됐다.
