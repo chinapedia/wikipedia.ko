@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAROM  ](https://ko.wikipedia.org/wiki/TAROM__).
+> This article is converted from Wikipedia: [TAROM의 운항 노선](https://ko.wikipedia.org/wiki/TAROM의_운항_노선).
 
 
 다음은 **[TAROM](../Page/TAROM.md "wikilink")의 운항 노선**이다.\[1\]
@@ -37,7 +37,7 @@
 
   - ****
       - [런던](../Page/런던.md "wikilink") - [런던 히드로 국제공항](https://ko.wikipedia.org/wiki/런던_히드로_국제공항 "wikilink")
-      - [런던](../Page/런던.md "wikilink") - [런던 루턴 공항](https://ko.wikipedia.org/wiki/런던_루턴_공항 "wikilink")
+      - [런던](../Page/런던.md "wikilink") - [런던 루턴 공항](../Page/런던_루턴_공항.md "wikilink")
   - ****
       - [파리](https://ko.wikipedia.org/wiki/파리 "wikilink") - [샤를 드 골 국제공항](https://ko.wikipedia.org/wiki/샤를_드_골_국제공항 "wikilink")
       - [니스](../Page/니스_\(프랑스\).md "wikilink") - [니스 코트다쥐르 공항](../Page/니스_코트다쥐르_공항.md "wikilink")

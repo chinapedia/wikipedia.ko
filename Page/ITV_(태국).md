@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ITV \(\)](https://ko.wikipedia.org/wiki/ITV_\(\)).
+> This article is converted from Wikipedia: [ITV \(태국\)](https://ko.wikipedia.org/wiki/ITV_\(태국\)).
 
 
 **iTV**(ITV Public Company Limited, )는 [태국](../Page/태국.md "wikilink")에서 방송되었던 [텔레비전 방송국이다](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink"). 약자인 ITV는 "Independent Television"을 의미한다. iTV의 모기업은 [탁신 친나왓](../Page/탁신_친나왓.md "wikilink") 전 총리가 설립하였던 Shin Corporation이었으며 지분 53%를 보유하고 있었으나, 이를 [싱가포르](../Page/싱가포르.md "wikilink")의 국영 회사인 테마섹이 [2006년](../Page/2006년.md "wikilink") 1월에 Shin Corporation의 주식 96%를 사들였다.

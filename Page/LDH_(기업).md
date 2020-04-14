@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [LDH \(\)](https://ko.wikipedia.org/wiki/LDH_\(\)).
+> This article is converted from Wikipedia: [LDH \(기업\)](https://ko.wikipedia.org/wiki/LDH_\(기업\)).
 
 
-**LDH**는, [일본](../Page/일본.md "wikilink")의 [연예 사무소이다](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink").
+**LDH**는 [일본](../Page/일본.md "wikilink")의 [연예 사무소이다](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink").
 
 사명은, **L**ove, **D**ream, **H**appiness의 두문자.
 

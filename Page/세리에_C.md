@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C](https://ko.wikipedia.org/wiki/_C).
+> This article is converted from Wikipedia: [세리에 C](https://ko.wikipedia.org/wiki/세리에_C).
 
 
 **세리에 C**() 는 이탈리아 축구 시스템에서 상위 세번째 리그이며 "레가 이탈리아나 칼초 프로페시오니스티코" ()에서 주관한다. 본부는 [피렌체](../Page/피렌체.md "wikilink")에 있다.

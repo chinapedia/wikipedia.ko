@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NTV \(\)](https://ko.wikipedia.org/wiki/NTV_\(\)).
+> This article is converted from Wikipedia: [NTV \(러시아\)](https://ko.wikipedia.org/wiki/NTV_\(러시아\)).
 
 
 **NTV**()는 [러시아](../Page/러시아.md "wikilink")의 [텔레비전 방송국이며](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink"), [1993년](../Page/1993년.md "wikilink") [10월 10일에](../Page/10월_10일.md "wikilink") 모스트 그룹(Группа Мост)의 블라디미르 구신스키(Владимир Гусинский)에 의해 설립되었다. 개국 당시에는 [상트페테르부르크](../Page/상트페테르부르크.md "wikilink")가 본사였으나 현재 본사는 [모스크바](../Page/모스크바.md "wikilink")에 있다.

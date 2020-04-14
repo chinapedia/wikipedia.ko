@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wonder \( \)](https://ko.wikipedia.org/wiki/Wonder_\(_\)).
+> This article is converted from Wikipedia: [Wonder \(폰부스의 음반\)](https://ko.wikipedia.org/wiki/Wonder_\(폰부스의_음반\)).
 
 
 ***Wonder***는 2014년 4월 [폰부스](https://ko.wikipedia.org/wiki/폰부스 "wikilink") 멤버들의 군 제대 이후 발매한 세 번째 정규앨범이다.

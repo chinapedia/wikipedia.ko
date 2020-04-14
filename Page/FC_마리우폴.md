@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 마리우폴](https://ko.wikipedia.org/wiki/FC_마리우폴).
 
 
 **FC 마리우폴**(, )은 [도네츠크주](../Page/도네츠크주.md "wikilink")의 [마리우폴](../Page/마리우폴.md "wikilink")을 연고로 하는 [우크라이나](../Page/우크라이나.md "wikilink")의 축구 클럽이다.

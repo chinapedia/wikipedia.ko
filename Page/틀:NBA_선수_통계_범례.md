@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA   ](https://ko.wikipedia.org/wiki/:NBA___).
+> This article is converted from Wikipedia: [틀:NBA 선수 통계 범례](https://ko.wikipedia.org/wiki/틀:NBA_선수_통계_범례).
 
 
 | 범례   |

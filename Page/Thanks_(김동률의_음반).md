@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Thanks \( \)](https://ko.wikipedia.org/wiki/Thanks_\(_\)).
+> This article is converted from Wikipedia: [Thanks \(김동률의 음반\)](https://ko.wikipedia.org/wiki/Thanks_\(김동률의_음반\)).
 
 
 《**Thanks: The Best Songs 1994-2004**》는 [김동률](../Page/김동률.md "wikilink")의 컴필레이션 앨범이다.

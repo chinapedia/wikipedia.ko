@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Monologue \(\)](https://ko.wikipedia.org/wiki/Monologue_\(\)).
+> This article is converted from Wikipedia: [Monologue \(음반\)](https://ko.wikipedia.org/wiki/Monologue_\(음반\)).
 
 
 《**Monologue**》는 [김동률](../Page/김동률.md "wikilink")의 5집 정규 앨범이다.

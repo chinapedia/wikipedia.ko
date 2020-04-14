@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KISS KISS \(  \)](https://ko.wikipedia.org/wiki/KISS_KISS_\(__\)).
+> This article is converted from Wikipedia: [KISS KISS \(레이디스 코드의 노래\)](https://ko.wikipedia.org/wiki/KISS_KISS_\(레이디스_코드의_노래\)).
 
 
 〈**KISS KISS**〉는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 첫 번째 [싱글 앨범이자](../Page/CD_싱글.md "wikilink") 다섯 번째 싱글이다. 2014년 8월 7일에 발매되었다. 2014년 9월 [은비와](https://ko.wikipedia.org/wiki/은비_\(1992년\) "wikilink") [리세가](https://ko.wikipedia.org/wiki/권리세 "wikilink") 교통사고로 사망하면서, 둘이 마지막으로 참여한 음반이 되었다.\[1\]

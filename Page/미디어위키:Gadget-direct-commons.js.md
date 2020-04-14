@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-direct-commons.js](https://ko.wikipedia.org/wiki/:Gadget-direct-commons.js).
+> This article is converted from Wikipedia: [미디어위키:Gadget-direct-commons.js](https://ko.wikipedia.org/wiki/미디어위키:Gadget-direct-commons.js).
 
 
 /\*\*

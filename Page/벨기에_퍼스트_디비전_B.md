@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   B](https://ko.wikipedia.org/wiki/___B).
+> This article is converted from Wikipedia: [벨기에 퍼스트 디비전 B](https://ko.wikipedia.org/wiki/벨기에_퍼스트_디비전_B).
 
 
 **벨기에 2부 리그**는 [벨기에](../Page/벨기에.md "wikilink")의 축구 리그다.

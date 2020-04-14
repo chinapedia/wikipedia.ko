@@ -7,7 +7,7 @@ WNBC의 스튜디오가 위치한 [NBC 스튜디오는](https://ko.wikipedia.org
 
 ## 연혁
 
-WNBC는 [1938년](../Page/1938년.md "wikilink") [6월](../Page/6월.md "wikilink") [RCA](https://ko.wikipedia.org/wiki/RCA "wikilink")에서 설립한 시험 방송국인 **W2XBS**가 최초이며, 첫 방송은 [브로드웨이](https://ko.wikipedia.org/wiki/브로드웨이 "wikilink") 연극을 방송한 것이다. 이후 [1941년](../Page/1941년.md "wikilink") [6월 24일에는](../Page/6월_24일.md "wikilink") **WNBT**라는 이름으로 정규 방송을 시작하였다. 처음 방송 당시에는 채널 1번으로 방송되었으나, 이후 [1946년](../Page/1946년.md "wikilink") [봄](../Page/봄.md "wikilink")에 채널 4번으로 지정되었다.
+WNBC는 [1938년](../Page/1938년.md "wikilink") [6월](../Page/6월.md "wikilink") [RCA](https://ko.wikipedia.org/wiki/RCA "wikilink")에서 설립한 시험 방송국인 **W2XBS**가 최초이며, 첫 방송은 [브로드웨이](../Page/브로드웨이.md "wikilink") 연극을 방송한 것이다. 이후 [1941년](../Page/1941년.md "wikilink") [6월 24일에는](../Page/6월_24일.md "wikilink") **WNBT**라는 이름으로 정규 방송을 시작하였다. 처음 방송 당시에는 채널 1번으로 방송되었으나, 이후 [1946년](../Page/1946년.md "wikilink") [봄](../Page/봄.md "wikilink")에 채널 4번으로 지정되었다.
 
 [1954년](../Page/1954년.md "wikilink") [10월 18일에는](../Page/10월_18일.md "wikilink") 당시 [NBC](../Page/NBC.md "wikilink") 모회사였던 [RCA](https://ko.wikipedia.org/wiki/RCA "wikilink")를 따서 [호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink")를 **WRCA-TV**로 변경하였고, [1960년](../Page/1960년.md "wikilink") [5월 22일에는](../Page/5월_22일.md "wikilink") **WNBC-TV**로 변경하였다.
 

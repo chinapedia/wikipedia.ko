@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 딜라 고리](https://ko.wikipedia.org/wiki/FC_딜라_고리).
 
 
 **FC 딜라 고리**(FC დილა გორი)는 [고리를](../Page/고리_\(조지아\).md "wikilink") 연고로한 [조지아의](../Page/조지아_\(국가\).md "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. [우마글레시리가](https://ko.wikipedia.org/wiki/우마글레시리가 "wikilink")에 참가중이며 [텐기즈 부르자나지스 경기장에서](https://ko.wikipedia.org/wiki/텐기즈_부르자나지스_경기장 "wikilink") 경기를 치루고 있다. 2012년에 조지아 컵을 우승하였다.

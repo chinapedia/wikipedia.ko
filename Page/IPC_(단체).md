@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IPC \(\)](https://ko.wikipedia.org/wiki/IPC_\(\)).
+> This article is converted from Wikipedia: [IPC \(단체\)](https://ko.wikipedia.org/wiki/IPC_\(단체\)).
 
 
 **IPC** 또는 **국제전자산업표준협회**()는 전자장비 및 소자부품의 조립 및 생산 규격의 표준화를 목적으로 하는 협회이다. 1957년 인쇄회로 연구조합()을 모태로 출범하여 중간에 공식 명칭을 베어보드로부터 패키징과 전자 어셈블리산업을 포함하는 전자회로 상호연결 및 패키징 연구조합으로 바꾸었다가, 1999년부터 현재의 명칭을 공식적으로 사용하고 있다.\[1\] 전자제품 및 소자부품의 제조, 생산 규격을 표준화하는 것을 목표로 하고있다. IPC는 [미국 국립 표준 협회와](https://ko.wikipedia.org/wiki/미국_국립_표준_협회 "wikilink") [표준 개발 기구에](https://ko.wikipedia.org/wiki/표준_개발_기구 "wikilink") 의해 표준개발 및 제정기관으로 인정을 받았으며\[2\] 이미 제정된 표준들은 전세계적으로 활용되고 있다. 또한 전자산업계에서 가장 널리 사용되는 허용가능성 표준들을 제정 및 보급한다.

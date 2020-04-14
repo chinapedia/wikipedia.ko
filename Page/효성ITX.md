@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ITX](https://ko.wikipedia.org/wiki/ITX).
+> This article is converted from Wikipedia: [효성ITX](https://ko.wikipedia.org/wiki/효성ITX).
 
 
 **효성ITX**는 효성그룹의 IT 전문 계열사이다.

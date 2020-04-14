@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SV ](https://ko.wikipedia.org/wiki/SV_).
+> This article is converted from Wikipedia: [SV 그뢰디히](https://ko.wikipedia.org/wiki/SV_그뢰디히).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20130524-grödig-fc-blau-weiss-linz-mannschaft.jpg "wikilink")  **SV 글로디시**(Sportverein Grödig)는 [그뢰디히](https://ko.wikipedia.org/wiki/그뢰디히 "wikilink")를 연고로 하는 [오스트리아](../Page/오스트리아.md "wikilink")의 축구 구단이다. 현재 [오스트리아 분데스리가에](https://ko.wikipedia.org/wiki/오스트리아_분데스리가 "wikilink") 소속되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P-](https://ko.wikipedia.org/wiki/P-).
+> This article is converted from Wikipedia: [P-군](https://ko.wikipedia.org/wiki/P-군).
 
 
 [군론](https://ko.wikipedia.org/wiki/군론 "wikilink")에서, ***p*-군**()은 모든 원소의 위수가 [소수](../Page/소수_\(수론\).md "wikilink") \(p\)의 거듭제곱인 [군이다](../Page/군_\(수학\).md "wikilink").

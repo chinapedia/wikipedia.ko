@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AOMG ](https://ko.wikipedia.org/wiki/AOMG_).
+> This article is converted from Wikipedia: [AOMG의 음반](https://ko.wikipedia.org/wiki/AOMG의_음반).
 
 
 이 문서는 [AOMG](https://ko.wikipedia.org/wiki/AOMG "wikilink")에서 발표한 음반 목록이다.
@@ -176,6 +176,13 @@
 ## 2020년 \~ 2022년
 
   - 2020년 1월 6일 사이먼 도미닉 - **\[Digital Single\] Dingo X DAMOIM (Part.4)**\[59\]
+  - 2020년 3월 5일 DJ 웨건 - **\[Digital Single\] 신경쇠약**\[60\]
+  - 2020년 3월 6일 [소금](https://ko.wikipedia.org/wiki/소금_\(가수\) "wikilink") - **\[Digital Single\] 내 입맛**\[61\]
+  - 2020년 3월 7일 어글리덕 - **본 대로 말하라 OST Part.5**
+  - 2020년 3월 12일 코드쿤스트 - **\[Digital Single\] JOKE\!**\[62\]
+  - 2020년 3월 19일 코드쿤스트 - **\[Digital Single\] Knock**\[63\]
+  - 2020년 3월 26일 GRAY - **\[Digital Single\] Digital Lover**
+  - 2020년 ?월 ?일 코드쿤스트 - **PEOPLE**
 
 ## 각주
 
@@ -240,3 +247,7 @@
 57. [염따](../Page/염따.md "wikilink"),[딥플로우](../Page/딥플로우.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 다시 앨범 참여.
 58. [염따](../Page/염따.md "wikilink"),[딥플로우](../Page/딥플로우.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 또다시 앨범 참여.
 59. [염따](../Page/염따.md "wikilink"),[딥플로우](../Page/딥플로우.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토 "wikilink")도 다시 한번 앨범 참여.
+60. [화나](../Page/화나.md "wikilink")도 앨범 참여.
+61. [dress](https://ko.wikipedia.org/wiki/dress "wikilink")도 앨범 참여.
+62. 코드쿤스트 정규 4집의 첫번째 선공개곡.
+63. 코드쿤스트 정규 4집의 두번째 선공개곡.

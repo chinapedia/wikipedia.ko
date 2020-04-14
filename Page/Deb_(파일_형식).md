@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Deb \( \)](https://ko.wikipedia.org/wiki/Deb_\(_\)).
+> This article is converted from Wikipedia: [Deb \(파일 형식\)](https://ko.wikipedia.org/wiki/Deb_\(파일_형식\)).
 
 
 **.deb**은 [데비안](../Page/데비안.md "wikilink")의 [소프트웨어 패키지](https://ko.wikipedia.org/wiki/소프트웨어_패키지 "wikilink") 포맷의 확장자이며 데비안 소프트웨어 포맷의 [바이너리 패키지에서](https://ko.wikipedia.org/wiki/바이너리_파일 "wikilink") 가장 자주 사용되는 파일 이름이다.

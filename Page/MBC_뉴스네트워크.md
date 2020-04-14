@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 뉴스네트워크](https://ko.wikipedia.org/wiki/MBC_뉴스네트워크).
 
 
 《**MBC 뉴스네트워크**》는 평일 저녁 6시부터 저녁 6시 10분까지 방송하는 [부산](../Page/부산문화방송.md "wikilink"), [울산](../Page/울산문화방송.md "wikilink"), [경남을](../Page/MBC경남.md "wikilink") 연결하는 오늘의 주요뉴스를 정리하는 퇴근길 저녁종합뉴스 프로그램이다.

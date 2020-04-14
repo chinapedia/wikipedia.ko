@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [앨런 J. 히거](https://ko.wikipedia.org/wiki/앨런_J._히거).
 
 
 **앨런 제이 히거**(, [1936년](../Page/1936년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [물리학](../Page/물리학.md "wikilink")자이다. 2000년에 [전도성 고분자의](https://ko.wikipedia.org/wiki/전도성_고분자 "wikilink") 발견에 의한 공로로 [앨런 맥더미드](../Page/앨런_맥더미드.md "wikilink"), [시라카와 히데키와](../Page/시라카와_히데키.md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.

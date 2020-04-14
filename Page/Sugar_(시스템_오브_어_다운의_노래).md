@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sugar \(    \)](https://ko.wikipedia.org/wiki/Sugar_\(____\)).
+> This article is converted from Wikipedia: [Sugar \(시스템 오브 어 다운의 노래\)](https://ko.wikipedia.org/wiki/Sugar_\(시스템_오브_어_다운의_노래\)).
 
 
 "**Sugar**"는 [미국](../Page/미국.md "wikilink") [얼터너티브 메탈](https://ko.wikipedia.org/wiki/얼터너티브_메탈 "wikilink") 밴드 [시스템 오브 어 다운의](../Page/시스템_오브_어_다운.md "wikilink") 노래이다. 이 곡은 그들의 [데뷔 앨범에](../Page/System_of_a_Down.md "wikilink") 수록되었고 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")과 [EP](https://ko.wikipedia.org/wiki/EP "wikilink")로 발매되었다. 이 곡의 격렬한 사운드와 신랄한 가사는 밴드의 전형적인 스타일이다. "Sugar"는 그들의 처음 데모 앨범에도 수록된, 최초로 만들어진 시스템 오브 어 다운의 노래 중 하나이다.

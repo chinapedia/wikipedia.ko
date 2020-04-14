@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DNA](https://ko.wikipedia.org/wiki/_DNA).
+> This article is converted from Wikipedia: [상보적 DNA](https://ko.wikipedia.org/wiki/상보적_DNA).
 
 
 [섬네일를](https://ko.wikipedia.org/wiki/파일:Cdnaarray.jpg "wikilink") 이용한 결과\]\]

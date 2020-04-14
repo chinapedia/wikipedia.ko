@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Again \( \)](https://ko.wikipedia.org/wiki/Again_\(_\)).
+> This article is converted from Wikipedia: [Again \(임창정의 음반\)](https://ko.wikipedia.org/wiki/Again_\(임창정의_음반\)).
 
 
 《**[Again](../Page/Again_\(임창정의_음반\).md "wikilink")**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 겸 배우 [임창정](../Page/임창정.md "wikilink")의 3집 앨범으로 타이틀 곡은 <그때 또 다시>이다.

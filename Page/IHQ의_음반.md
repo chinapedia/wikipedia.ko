@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IHQ ](https://ko.wikipedia.org/wiki/IHQ_).
+> This article is converted from Wikipedia: [IHQ의 음반](https://ko.wikipedia.org/wiki/IHQ의_음반).
 
 
 이 문서는 [싸이더스 HQ에서](https://ko.wikipedia.org/wiki/싸이더스_HQ "wikilink") 발표한 음반 목록이다.

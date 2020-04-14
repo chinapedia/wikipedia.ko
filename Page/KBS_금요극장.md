@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 금요극장](https://ko.wikipedia.org/wiki/KBS_금요극장).
 
 
 《**KBS 금요극장**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [1997년](../Page/1997년.md "wikilink") [10월 31일부터](../Page/10월_31일.md "wikilink") [1997년](../Page/1997년.md "wikilink") [11월 21일까지](../Page/11월_21일.md "wikilink") 방송된 단막극 형식의 드라마 시리즈이다.

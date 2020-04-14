@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABC  ](https://ko.wikipedia.org/wiki/ABC__).
+> This article is converted from Wikipedia: [ABC 월드 뉴스](https://ko.wikipedia.org/wiki/ABC_월드_뉴스).
 
 
 **ABC 월드 뉴스 투나잇**(ABC World News Tonight)은 [미국](../Page/미국.md "wikilink") [ABC에서](https://ko.wikipedia.org/wiki/미국_방송_회사 "wikilink") 방송하는 저녁 뉴스 프로그램이다.

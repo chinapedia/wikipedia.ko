@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K - ](https://ko.wikipedia.org/wiki/K_-_).
+> This article is converted from Wikipedia: [K리그 득점-도움 기록](https://ko.wikipedia.org/wiki/K리그_득점-도움_기록).
 
 
 ## 통산 득점-도움 기록

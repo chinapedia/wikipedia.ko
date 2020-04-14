@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P.A. ](https://ko.wikipedia.org/wiki/P.A._).
+> This article is converted from Wikipedia: [P.A. 웍스](https://ko.wikipedia.org/wiki/P.A._웍스).
 
 
 **주식회사 P.A. Works**(, )는 애니메이션의 기획·제작을 주된 사업 내용으로 하는 일본의 기업이다.

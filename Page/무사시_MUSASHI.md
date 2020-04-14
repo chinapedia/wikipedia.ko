@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MUSASHI](https://ko.wikipedia.org/wiki/_MUSASHI).
+> This article is converted from Wikipedia: [무사시 MUSASHI](https://ko.wikipedia.org/wiki/무사시_MUSASHI).
 
 
 《**무사시 MUSASHI**》() 는 [NHK에서](../Page/일본방송협회.md "wikilink") 2003년 1월 5일부터 12월 7일까지 방영된 [대하드라마로서](../Page/NHK_대하드라마.md "wikilink") 대하드라마 40주년 기념방송이다.

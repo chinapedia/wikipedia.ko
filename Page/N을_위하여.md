@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [N ](https://ko.wikipedia.org/wiki/N_).
+> This article is converted from Wikipedia: [N을 위하여](https://ko.wikipedia.org/wiki/N을_위하여).
 
 
 《**N을 위하여**》()는 [미나토 카나에의](https://ko.wikipedia.org/wiki/미나토_가나에 "wikilink") [추리 소설이다](../Page/추리물.md "wikilink").

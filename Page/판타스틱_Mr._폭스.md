@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Mr. ](https://ko.wikipedia.org/wiki/_Mr._).
+> This article is converted from Wikipedia: [판타스틱 Mr. 폭스](https://ko.wikipedia.org/wiki/판타스틱_Mr._폭스).
 
 
 **판타스틱 Mr. 폭스**(Fantastic Mr. Fox)는 [로알드 달의](../Page/로알드_달.md "wikilink") [동명의 소설을](https://ko.wikipedia.org/wiki/멋진_여우_씨 "wikilink") 원작으로 한 2009년에 개봉한 미국의 코미디 [스톱 모션](https://ko.wikipedia.org/wiki/스톱_모션 "wikilink") [애니메이션](../Page/애니메이션.md "wikilink") 영화이다.

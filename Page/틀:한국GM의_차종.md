@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:GM ](https://ko.wikipedia.org/wiki/:GM_).
+> This article is converted from Wikipedia: [틀:한국GM의 차종](https://ko.wikipedia.org/wiki/틀:한국GM의_차종).
 
 
 <table>

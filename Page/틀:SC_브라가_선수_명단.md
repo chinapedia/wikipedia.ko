@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SC   ](https://ko.wikipedia.org/wiki/:SC___).
+> This article is converted from Wikipedia: [틀:SC 브라가 선수 명단](https://ko.wikipedia.org/wiki/틀:SC_브라가_선수_명단).
 
 
 <onlyinclude></onlyinclude>

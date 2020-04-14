@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [알사일리야 SC](https://ko.wikipedia.org/wiki/알사일리야_SC).
 
 
 **알사일리야 스포츠 클럽**(, )은 [1995년](../Page/1995년.md "wikilink")에 창단된 [카타르](../Page/카타르.md "wikilink") [도하](../Page/도하.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀이다.

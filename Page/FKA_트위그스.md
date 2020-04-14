@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FKA ](https://ko.wikipedia.org/wiki/FKA_).
+> This article is converted from Wikipedia: [FKA 트위그스](https://ko.wikipedia.org/wiki/FKA_트위그스).
 
 
 **FKA 트위그스**(, [1988년](../Page/1988년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") \~ )는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC   ](https://ko.wikipedia.org/wiki/:FC___).
+> This article is converted from Wikipedia: [틀:FC 로스토프 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_로스토프_선수_명단).
 
 
 <onlyinclude></onlyinclude>

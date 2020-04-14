@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TS  ](https://ko.wikipedia.org/wiki/TS__).
+> This article is converted from Wikipedia: [TS 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/TS_엔터테인먼트의_음반).
 
 
 이 문서는 [TS 엔터테인먼트에서](../Page/TS_엔터테인먼트.md "wikilink") 발표한 음반 목록이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG챔피언스파크](https://ko.wikipedia.org/wiki/LG챔피언스파크).
 
 
 **LG챔피언스파크**(LG Champion's Park)는 [대한민국](../Page/대한민국.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink") [대월면](../Page/대월면.md "wikilink") 부필리에 위치한 복합체육시설이다. 과거 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [구리시](../Page/구리시.md "wikilink")에 위치하였으나 [2014년 8월](../Page/2014년_8월.md "wikilink") 경기도 이천시로 이전하였다. 야구장은 [2014년 7월부터](../Page/2014년_7월.md "wikilink") [LG 트윈스의](../Page/LG_트윈스.md "wikilink") 퓨처스팀 홈 구장 및 구단 전용 훈련장으로 사용 중이며,\[1\] 실내 농구장은 [창원 LG 세이커스의](../Page/창원_LG_세이커스.md "wikilink") 전용 훈련장으로 사용되고 있다.

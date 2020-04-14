@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBL   ](https://ko.wikipedia.org/wiki/:KBL___).
+> This article is converted from Wikipedia: [틀:KBL 선수 통계 범례](https://ko.wikipedia.org/wiki/틀:KBL_선수_통계_범례).
 
 
 | 범례      |

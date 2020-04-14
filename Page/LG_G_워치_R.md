@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G  R](https://ko.wikipedia.org/wiki/LG_G__R).
+> This article is converted from Wikipedia: [LG G 워치 R](https://ko.wikipedia.org/wiki/LG_G_워치_R).
 
 
 **LG G 워치 R**(LG G Watch R)은 [LG전자](../Page/LG전자.md "wikilink")에서 제조, 판매하는 [안드로이드 웨어](https://ko.wikipedia.org/wiki/안드로이드_웨어 "wikilink") [스마트워치](../Page/스마트워치.md "wikilink")이다.

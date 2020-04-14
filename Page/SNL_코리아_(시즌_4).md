@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNL  \( 4\)](https://ko.wikipedia.org/wiki/SNL__\(_4\)).
+> This article is converted from Wikipedia: [SNL 코리아 \(시즌 4\)](https://ko.wikipedia.org/wiki/SNL_코리아_\(시즌_4\)).
 
 
 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》의 4번째 시즌은 2013년 2월 23일부터 11월 23일까지 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방송되었다.
@@ -17,7 +17,7 @@
   - [서유리](../Page/서유리.md "wikilink")
   - [이상훈](../Page/이상훈_\(성우\).md "wikilink")
   - [권혁수](../Page/권혁수_\(배우\).md "wikilink")
-  - [박상우](https://ko.wikipedia.org/wiki/박상우_\(1986년\) "wikilink")
+  - [박상우](../Page/박상우_\(가수\).md "wikilink")
   - [클라라](../Page/클라라_\(배우\).md "wikilink")
   - [류혜린](../Page/류혜린.md "wikilink")
 

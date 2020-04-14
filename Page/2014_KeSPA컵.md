@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 KeSPA](https://ko.wikipedia.org/wiki/2014_KeSPA).
+> This article is converted from Wikipedia: [2014 KeSPA컵](https://ko.wikipedia.org/wiki/2014_KeSPA컵).
 
 
 **2014 KeSPA컵** (2014 KeSPA Cup) 은 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")가 주최하는 e스포츠 종목 활성화 및 아마추어 저변 확대를 위한 대한민국 프로와 아마추어의 통합 e스포츠 대회이다. 본선 장소는 [넥슨 아레나에서](../Page/넥슨_아레나.md "wikilink") 진행된다. 주관 방송은 [SPOTV GAMES가](https://ko.wikipedia.org/wiki/SPOTV_GAMES "wikilink") 맡았다.

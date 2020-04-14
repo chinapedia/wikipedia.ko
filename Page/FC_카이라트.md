@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 카이라트](https://ko.wikipedia.org/wiki/FC_카이라트).
 
 
 **FC 카이라트**()는 [카자흐스탄](../Page/카자흐스탄.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 카자흐스탄의 옛 수도이자 최대 도시인 [알마티](../Page/알마티.md "wikilink")를 연고지로 하고 있는 구단이다.

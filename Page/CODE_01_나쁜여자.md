@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CODE 01 ](https://ko.wikipedia.org/wiki/CODE_01_).
+> This article is converted from Wikipedia: [CODE 01 나쁜여자](https://ko.wikipedia.org/wiki/CODE_01_나쁜여자).
 
 
 《**CODE\#01 나쁜여자**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") [EP 앨범이자](https://ko.wikipedia.org/wiki/EP_앨범 "wikilink") 첫 음반이다. 2013년 3월 7일 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J.  ](https://ko.wikipedia.org/wiki/J.__).
+> This article is converted from Wikipedia: [J. 그레그 피터스](https://ko.wikipedia.org/wiki/J._그레그_피터스).
 
 
 **J. 그레그 피터스**(, [MVO](https://ko.wikipedia.org/wiki/로열_빅토리아_훈장 "wikilink"), [1960년](../Page/1960년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") \~)는 전직 [캐나다 왕립 기마경찰대](https://ko.wikipedia.org/wiki/캐나다_왕립_기마경찰대 "wikilink") [감독관이며](https://ko.wikipedia.org/wiki/:en:Royal_Canadian_Mounted_Police#Ranks "wikilink") 현재 [캐나다 상원의](../Page/캐나다_상원.md "wikilink") [흑장수위관이다](../Page/캐나다_상원_흑장수위관.md "wikilink"). 그는 [캐나다](../Page/캐나다의_군주.md "wikilink") [추밀원에 있어서의 총독의](https://ko.wikipedia.org/wiki/추밀원에_있어서의_총독 "wikilink") 어명으로 2013년 10월 1일에 흑장수위관이 되었다.

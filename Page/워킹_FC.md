@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [워킹 FC](https://ko.wikipedia.org/wiki/워킹_FC).
 
 
 **워킹 풋볼 클럽**(Woking Football Club)은 1889년 창단한 [잉글랜드](../Page/잉글랜드.md "wikilink") [서리주](../Page/서리주.md "wikilink") [워킹을](https://ko.wikipedia.org/wiki/워킹_\(서리주\) "wikilink") 연고로 하는 축구 클럽이다. [킹필드 스타디움을](https://ko.wikipedia.org/wiki/킹필드_스타디움 "wikilink") 홈 구장으로 사용하고 있으며 잉글랜드 축구 6부 리그에 위치한 [내셔널리그 사우스에](../Page/내셔널리그_사우스.md "wikilink") 참가하고 있다. 워킹은 3회 [FA 트로피](../Page/FA_트로피.md "wikilink") 우승 경력을 가지고 있으며 [내셔널리그](../Page/내셔널리그_\(디비전\).md "wikilink")17-18 시즌을 21위로 마감하면서 내셔널리그 사우스로 강등됐다. 워킹은 카즈(Cards)와 카디널스(Cardinals)로도 알려져 있다.

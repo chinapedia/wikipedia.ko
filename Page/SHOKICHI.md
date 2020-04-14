@@ -109,6 +109,26 @@
 </tbody>
 </table>
 
+### 영상 작품
+
+<table>
+<thead>
+<tr class="header">
+<th><p>발매일</p></th>
+<th><p>타이틀</p></th>
+<th><p>오리콘<br />
+최고 순위</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019년 12월 25일</p></td>
+<td><p><strong>EXILE SHOKICHI LIVE TOUR 2019 UNDERDOGG</strong></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 외부 링크
 
   - [EXILE SHOKICHI Official Website](http://exile-shokichi.jp/)

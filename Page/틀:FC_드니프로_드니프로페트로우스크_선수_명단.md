@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC    ](https://ko.wikipedia.org/wiki/:FC____).
+> This article is converted from Wikipedia: [틀:FC 드니프로 드니프로페트로우스크 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_드니프로_드니프로페트로우스크_선수_명단).
 
 
 <onlyinclude></onlyinclude>

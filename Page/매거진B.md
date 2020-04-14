@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B](https://ko.wikipedia.org/wiki/B).
+> This article is converted from Wikipedia: [매거진B](https://ko.wikipedia.org/wiki/매거진B).
 
 
 매거진B는 브랜드 다큐멘터리 매거진이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV4 \(\)](https://ko.wikipedia.org/wiki/TV4_\(\)).
+> This article is converted from Wikipedia: [TV4 \(스웨덴\)](https://ko.wikipedia.org/wiki/TV4_\(스웨덴\)).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:TV4sweden_logo.svg "wikilink") **TV4**는 [스웨덴](../Page/스웨덴.md "wikilink")의 [민영 방송](../Page/민영_방송.md "wikilink") 채널이다. 이 채널이 속한 TV4-Gruppen 방송국은 [스웨덴](../Page/스웨덴.md "wikilink")에 본사를 둔 [보니어 그룹](https://ko.wikipedia.org/wiki/보니어_그룹 "wikilink") 계열에 속해있다.

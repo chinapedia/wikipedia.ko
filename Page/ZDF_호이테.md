@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ZDF ](https://ko.wikipedia.org/wiki/ZDF_).
+> This article is converted from Wikipedia: [ZDF 호이테](https://ko.wikipedia.org/wiki/ZDF_호이테).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:ZDF-Nachrichtenstudio.JPG "wikilink")

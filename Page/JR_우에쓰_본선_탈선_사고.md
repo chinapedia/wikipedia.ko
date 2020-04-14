@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JR    ](https://ko.wikipedia.org/wiki/JR____).
+> This article is converted from Wikipedia: [JR 우에쓰 본선 탈선 사고](https://ko.wikipedia.org/wiki/JR_우에쓰_본선_탈선_사고).
 
 
 **JR 우에쓰 본선 탈선 사고**()는 [2005년](../Page/2005년.md "wikilink") [12월 25일에](../Page/12월_25일.md "wikilink") [우에쓰 본선의](../Page/우에쓰_본선.md "wikilink") 기타아마루메 역 - 사고시 역 사이에서 폭설로 인해 발생한 [열차 탈선 사고이다](https://ko.wikipedia.org/wiki/탈선 "wikilink").

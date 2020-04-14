@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UFJ ](https://ko.wikipedia.org/wiki/UFJ_).
+> This article is converted from Wikipedia: [미쓰비시UFJ파이낸셜 그룹](https://ko.wikipedia.org/wiki/미쓰비시UFJ파이낸셜_그룹).
 
 
 **주식회사미쓰비시UFJ파이낸셜 그룹**(, )은 [일본](../Page/일본.md "wikilink")의 금융지주회사이다 ([일본](../Page/일본.md "wikilink")의 은행법이 지정하는 은행지주회사). 약칭은 상호의 영문기호의 앞글자를 따 MUFG이다. 자회사의 기업들이 구성하는 기업집단을 미쓰비시 UFJ 파이낸셜 그룹이라고 부른다. 주식시장에서는 상장명을 미쓰비시 UFJ로 사용하고 있다. 현재 미쓰비시 UFJ 파이낸셜그룹은 [미쓰비시UFJ은행](https://ko.wikipedia.org/wiki/미쓰비시UFJ은행 "wikilink"), [미쓰비시UFJ신탁은행](https://ko.wikipedia.org/wiki/미쓰비시UFJ신탁은행 "wikilink"), [미쓰비시UFJ신탁홀딩스](https://ko.wikipedia.org/wiki/미쓰비시UFJ신탁홀딩스 "wikilink"), [미쓰비시UFJ리스](https://ko.wikipedia.org/wiki/미쓰비시UFJ리스 "wikilink"), [미쓰비시UFJ니코스](https://ko.wikipedia.org/wiki/미쓰비시UFJ니코스 "wikilink") 등의 주요 5개사를 중심으로 한 종합금융그룹이다.

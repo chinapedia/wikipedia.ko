@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NT ](https://ko.wikipedia.org/wiki/_NT_).
+> This article is converted from Wikipedia: [윈도우 NT 아키텍처](https://ko.wikipedia.org/wiki/윈도우_NT_아키텍처).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Windows_2000_architecture.svg "wikilink") **NT 아키텍처**란 뉴 테크놀로지(New Technology) 커널의 약자로, 마이크로소프트사에서 NT 3.1부터 쓰인 서버용 아키텍처로, 윈도우 XP 이후로 가정용으로도 쓰이고 있다. 윈도우 NT, 윈도우 2000 워크스테이션, 윈도우 XP 이후 대부분의 운영 체제가 이를 사용하고 있다. 단, 윈도우 비스타 이상의 NT 기반 운영 체제는 새로운 NT 커널을 사용한다.
