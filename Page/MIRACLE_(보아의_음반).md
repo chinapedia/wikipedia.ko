@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIRACLE \( \)](https://ko.wikipedia.org/wiki/MIRACLE_\(_\)).
+> This article is converted from Wikipedia: [MIRACLE \(보아의 음반\)](https://ko.wikipedia.org/wiki/MIRACLE_\(보아의_음반\)).
 
 
 《**MIRACLE**》은 대한민국에서 보아가 발매한 두번째 스페셜앨범이며, 첫번째 번안앨범이다. 집수로는 2.5집이 된다. 약 33만장의 판매고를 기록하였고, 2002년 연간 차트 22위를 기록하였다.

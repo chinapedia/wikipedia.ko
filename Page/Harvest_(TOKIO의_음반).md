@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Harvest \(TOKIO \)](https://ko.wikipedia.org/wiki/Harvest_\(TOKIO_\)).
+> This article is converted from Wikipedia: [Harvest \(TOKIO의 음반\)](https://ko.wikipedia.org/wiki/Harvest_\(TOKIO의_음반\)).
 
 
 《**Harvest**》는 [2006년](../Page/2006년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 발매된 [TOKIO](../Page/TOKIO.md "wikilink")의 10번째 정규 앨범이다. 년, 유일하게 한국에 라이선스 발매된 [TOKIO](../Page/TOKIO.md "wikilink")의 음반이다. 한국에서는 통상반만 발매되었다. 발매일은 [2006년](../Page/2006년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink"), 레이블은 유니버설 뮤직 코리아이다.

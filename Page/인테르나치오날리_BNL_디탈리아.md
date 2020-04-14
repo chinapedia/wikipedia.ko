@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BNL ](https://ko.wikipedia.org/wiki/_BNL_).
+> This article is converted from Wikipedia: [인테르나치오날리 BNL 디탈리아](https://ko.wikipedia.org/wiki/인테르나치오날리_BNL_디탈리아).
 
 
 **인테르나치오날리 BNL 디탈리아**()는 매년 [이탈리아](../Page/이탈리아.md "wikilink") [로마](../Page/로마.md "wikilink")에서 열리는 남녀 통합 [테니스](../Page/테니스.md "wikilink") 대회이다. 남자 경기는 [ATP 투어](../Page/프로_테니스_협회.md "wikilink") 분류상 [ATP 월드 투어 마스터스 1000에](../Page/ATP_월드_투어_마스터스_1000.md "wikilink") 속하며, 여자 경기는 [WTA 투어](../Page/여자_테니스_협회.md "wikilink") 분류상 [프리미어 5에](https://ko.wikipedia.org/wiki/WTA_프리미어_대회 "wikilink") 속한다. 남녀 부문은 5월의 서로 다른 주에 나누어 열린다. 코트 종류는 [클레이이다](../Page/클레이_코트.md "wikilink"). **로마 마스터스**(Rome Masters), 영어식 표현인 **이탈리아 오픈**(), 스폰서명을 뺀 **인테르나치오날리 디탈리아**()로 불리기도 한다.

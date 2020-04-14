@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Darling \(V6 \)](https://ko.wikipedia.org/wiki/Darling_\(V6_\)).
+> This article is converted from Wikipedia: [Darling \(V6의 음반\)](https://ko.wikipedia.org/wiki/Darling_\(V6의_음반\)).
 
 
 〈**Darling**〉은 2003년 5월 28일 발매한 V6의 23번째의 싱글이다.

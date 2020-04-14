@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DSLR](https://ko.wikipedia.org/wiki/_DSLR).
+> This article is converted from Wikipedia: [풀프레임 DSLR](https://ko.wikipedia.org/wiki/풀프레임_DSLR).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SensorSizes.svg "wikilink")

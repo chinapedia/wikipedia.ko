@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WTA  ](https://ko.wikipedia.org/wiki/WTA__).
+> This article is converted from Wikipedia: [WTA 프리미어 토너먼트](https://ko.wikipedia.org/wiki/WTA_프리미어_토너먼트).
 
 
 **프리미어 토너먼트**(Premier Tournaments)는 [2009년 WTA 투어](https://ko.wikipedia.org/wiki/:en:2009_WTA_Tour "wikilink") 때부터 새롭게 생긴 [WTA](../Page/여자_테니스_협회.md "wikilink") 대회 분류의 하나이다. 이 분류는 기존의 [WTA 티어 I 대회](https://ko.wikipedia.org/wiki/WTA_티어_I_대회 "wikilink") 분류를 대체하였으며, 해당 분류에 속하는 대회 수가 과거에 비해 20개로 줄었다(기존의 티어 I/II 대회는 26개). 티어 III 및 IV 대회는 [인터내셔널](https://ko.wikipedia.org/wiki/WTA_인터내셔널_대회 "wikilink") 분류에 의해 대체되었다.

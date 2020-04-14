@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBO ](https://ko.wikipedia.org/wiki/:KBO_).
+> This article is converted from Wikipedia: [틀:KBO 포스트시즌](https://ko.wikipedia.org/wiki/틀:KBO_포스트시즌).
 
 
 <onlyinclude></onlyinclude>

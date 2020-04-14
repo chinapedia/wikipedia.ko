@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UH-1 ](https://ko.wikipedia.org/wiki/UH-1_).
+> This article is converted from Wikipedia: [UH-1 이로쿼이](https://ko.wikipedia.org/wiki/UH-1_이로쿼이).
 
 
 [섬네일에서의](https://ko.wikipedia.org/wiki/파일:UH-1D_helicopters_in_Vietnam_1966.jpg "wikilink") UH-1D\]\] **UH-1 이로쿼이**(Iroquois)는 **휴이**라는 명칭으로 잘 알려진 [벨 헬리콥터사의](https://ko.wikipedia.org/wiki/벨_헬리콥터 "wikilink") 다목적 군용 [헬리콥터](../Page/헬리콥터.md "wikilink")이다. [베트남전](https://ko.wikipedia.org/wiki/베트남전 "wikilink")에서 유명해졌다.

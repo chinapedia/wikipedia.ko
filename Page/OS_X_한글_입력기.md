@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS X  ](https://ko.wikipedia.org/wiki/OS_X__).
+> This article is converted from Wikipedia: [OS X 한글 입력기](https://ko.wikipedia.org/wiki/OS_X_한글_입력기).
 
 
 [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") "한글 입력기"는 [OS X에서](https://ko.wikipedia.org/wiki/OS_X "wikilink") 기본으로 제공되는 한국어 입력기의 명칭이다. 다른 운영체제의 입력기들과 마찬가지로 운영체제가 지원하는 각 언어별 입력기중의 하나로 등록되어있으며, 부가적으로 입력기 모듈을 추가하여 다른 한국어 입력기를 사용할 수 있다.

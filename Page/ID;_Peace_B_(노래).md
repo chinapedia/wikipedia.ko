@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ID\; Peace B \(\)](https://ko.wikipedia.org/wiki/ID\;_Peace_B_\(\)).
+> This article is converted from Wikipedia: [ID\; Peace B \(노래\)](https://ko.wikipedia.org/wiki/ID\;_Peace_B_\(노래\)).
 
 
 《**ID; Peace B**》는 원래 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](../Page/보아.md "wikilink")의 한국 데뷔곡이며 일본 데뷔를 위해 일본어 버전으로 발매한 보아의 일본 데뷔곡이며 첫 번째 싱글이다.

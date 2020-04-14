@@ -43,9 +43,9 @@
 
 ## 외부 링크
 
-  - [Images published by *Life* on August 14, 1945](http://www.life.com/image/72432384/in-gallery/22967/wwii-victory-over-japan)
+  - [Images published by *Life* on August 14, 1945](https://web.archive.org/web/20100819161650/http://www.life.com/image/72432384/in-gallery/22967/wwii-victory-over-japan)
   - [VJ Day - Is He The Real McCoy?](https://web.archive.org/web/20090105161058/http://www.artquarterly.com/aq/2007/08/is-he-real-mccoy.html) (*The Art Quarterly* article from 2007)
-  - [Gallery: Victory over Japan](http://www.life.com/image/72432384/in-gallery/22967/wwii-victory-over-japan)
+  - [Gallery: Victory over Japan](https://web.archive.org/web/20100819161650/http://www.life.com/image/72432384/in-gallery/22967/wwii-victory-over-japan)
   - \[<http://www.loisgibson.com/kissing_sailor.asp>: LoisGibson.com\]
 
 [분류:제2차 세계 대전 사진](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전_사진 "wikilink") [분류:키스](https://ko.wikipedia.org/wiki/분류:키스 "wikilink") [분류:타임스 스퀘어](https://ko.wikipedia.org/wiki/분류:타임스_스퀘어 "wikilink") [분류:신원 불명자](https://ko.wikipedia.org/wiki/분류:신원_불명자 "wikilink") [분류:흑백 사진](https://ko.wikipedia.org/wiki/분류:흑백_사진 "wikilink") [분류:인물사진](https://ko.wikipedia.org/wiki/분류:인물사진 "wikilink") [분류:1945년 작품](https://ko.wikipedia.org/wiki/분류:1945년_작품 "wikilink") [분류:1945년 8월](https://ko.wikipedia.org/wiki/분류:1945년_8월 "wikilink") [분류:미국의 제2차 세계 대전의 여파](https://ko.wikipedia.org/wiki/분류:미국의_제2차_세계_대전의_여파 "wikilink") [분류:맨해튼을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:맨해튼을_배경으로_한_작품 "wikilink") [분류:미국 해군을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:미국_해군을_소재로_한_작품 "wikilink") [분류:일본의 항복](https://ko.wikipedia.org/wiki/분류:일본의_항복 "wikilink") [분류:간호사를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:간호사를_소재로_한_작품 "wikilink")

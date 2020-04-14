@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D  ](https://ko.wikipedia.org/wiki/_D__).
+> This article is converted from Wikipedia: [이니셜 D 스트리트 스테이지](https://ko.wikipedia.org/wiki/이니셜_D_스트리트_스테이지).
 
 
 **이니셜D 스트리트 스테이지**(Initial D: Street Stage, 이하 SS)는 [PSP판으로](../Page/플레이스테이션_포터블.md "wikilink") 출시된 [이니셜D](https://ko.wikipedia.org/wiki/이니셜D "wikilink") 게임이다. 게임의 전체적인 인터페이스와 세부 요소는 Initial D Arcade Stage ver.3를 베이스로 하되, 변경점이 있다.

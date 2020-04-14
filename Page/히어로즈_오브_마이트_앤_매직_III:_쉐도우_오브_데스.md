@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [     III:   ](https://ko.wikipedia.org/wiki/_____III:___).
+> This article is converted from Wikipedia: [히어로즈 오브 마이트 앤 매직 III: 쉐도우 오브 데스](https://ko.wikipedia.org/wiki/히어로즈_오브_마이트_앤_매직_III:_쉐도우_오브_데스).
 
 
 [히어로즈 오브 마이트 앤 매직 3의](https://ko.wikipedia.org/wiki/히어로즈_오브_마이트_앤_매직_3 "wikilink") 확장팩중 하나인 《**쉐도우 오브 데스**》(Heroes of Might and Magic III: The Shadow of Death)는 에라시아의 부활과 아마겟돈즈 블레이드에는 없던 개념인 콤비네이션 아티팩트라는 개념을 도입하였다. 개별의 능력이 매우 강력한것과 쓸모없던 것들을 합쳐서 강력한능력을 가진 아티팩트로 만들 수 있게 되었다.

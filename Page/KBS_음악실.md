@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 음악실](https://ko.wikipedia.org/wiki/KBS_음악실).
 
 
-《**KBS 음악실**》은 [KBS Classic FM에서](https://ko.wikipedia.org/wiki/KBS_Classic_FM "wikilink") 방송중인 클래식 음악 전문프로그램이다.
+《**KBS 음악실**》은 [KBS Classic FM](https://ko.wikipedia.org/wiki/KBS_Classic_FM "wikilink")(수도권 FM 93.1MHz)에서 방송중인 클래식 음악 전문프로그램이다.
 
 [1979년](../Page/1979년.md "wikilink") [KBS FM](../Page/KBS_제1FM.md "wikilink") 개국과 동시에 방송을 시작한 프로그램으로, 30년의 역사를 자랑하는 프로그램이기도 하다.
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SEED DESTINY](https://ko.wikipedia.org/wiki/__SEED_DESTINY).
+> This article is converted from Wikipedia: [기동전사 건담 SEED DESTINY](https://ko.wikipedia.org/wiki/기동전사_건담_SEED_DESTINY).
 
 
 《**기동전사 건담 SEED DESTINY**》(,)는 [선라이즈에서](https://ko.wikipedia.org/wiki/선라이즈_\(스튜디오\) "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 TV 애니메이션이다. 《[기동전사 건담 SEED](../Page/기동전사_건담_SEED.md "wikilink")》의 속편으로 [2004년](../Page/2004년.md "wikilink") 10월 9일부터 [2005년](../Page/2005년.md "wikilink") [10월 1일까지](../Page/10월_1일.md "wikilink") [마이니치 방송과](../Page/마이니치_방송.md "wikilink") [도쿄 방송을](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 통해 방영되었다. 그러나 전작과는 달리 대한민국에서는 미방영.

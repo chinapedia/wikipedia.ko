@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS챔피언스파크](https://ko.wikipedia.org/wiki/GS챔피언스파크).
 
 
 **GS챔피언스파크**()는 [대한민국](../Page/대한민국.md "wikilink") [구리시](../Page/구리시.md "wikilink")에 있는 체육 시설이다. [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 전용 훈련장으로 사용되고 있으며, 전체 3만 [평](https://ko.wikipedia.org/wiki/평_\(넓이\) "wikilink") 규모로 크게 천연잔디 3면과 인조잔디 1면 등 총 4면의 축구장과 웨이트 트레이닝, 라커룸, 샤워실, 미팅룸(작전회의실), 휴게실, 치료실 등의 최첨단 시설을 갖춘 관리동으로 구성되어 있다. [1988년](../Page/1988년.md "wikilink") 12월 연습용 천연잔디 축구장 4면이 완공되어 [1989년](../Page/1989년.md "wikilink")부터 [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 전용훈련장으로 본격적으로 사용되고 있다.

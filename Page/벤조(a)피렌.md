@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\(a\)](https://ko.wikipedia.org/wiki/\(a\)).
+> This article is converted from Wikipedia: [벤조\(a\)피렌](https://ko.wikipedia.org/wiki/벤조\(a\)피렌).
 
 
 **벤조\[a\]피렌**(Benzo\[a\]pyrene, C<sub>20</sub>H<sub>12</sub>)은 5개의 벤젠 고리가 결합한 분자이다. 300℃에서 600 ℃ 사이에서 [불완전 연소를](https://ko.wikipedia.org/wiki/불완전_연소 "wikilink") 통해 생성된 물질로 [콜타르](../Page/콜타르.md "wikilink")나 공장의 물질을 태운후 연기를 내보내는 굴뚝, 자동차의 배기가스(특히 [디젤엔진](https://ko.wikipedia.org/wiki/디젤엔진 "wikilink")), 담배 연기, 탄 음식의 일부 등에서 나오는 물질이다. \[\[벤조(e)피렌|벤조\[e\]피렌\]\](benzo\[e\]pyrene)과는 이성질체이다.

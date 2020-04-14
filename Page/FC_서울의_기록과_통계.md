@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
+> This article is converted from Wikipedia: [FC 서울의 기록과 통계](https://ko.wikipedia.org/wiki/FC_서울의_기록과_통계).
 
 
 [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 구단과 소속 선수, 감독 등의 기록에 관한 문서이다.

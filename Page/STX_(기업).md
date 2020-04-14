@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STX \(\)](https://ko.wikipedia.org/wiki/STX_\(\)).
+> This article is converted from Wikipedia: [STX \(기업\)](https://ko.wikipedia.org/wiki/STX_\(기업\)).
 
 
 **주식회사 STX**(STX Corp.)는 조선업과 무역업을 영위하는 코스피 상장기업이다. 과거 [STX그룹](../Page/STX그룹.md "wikilink")의 모기업이기도 하다. [1976년](../Page/1976년.md "wikilink") 쌍용중기로 설립하여, [1980년](../Page/1980년.md "wikilink") 쌍용중공업으로 상호로 변경하였고, [2001년](../Page/2001년.md "wikilink") 쌍용그룹으로부터 계열분리가 되며 현재의 상호로 변경하였다. 본사는 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink") [성산구](../Page/성산구.md "wikilink") 중앙대로 105 (중앙동)에 있고 등기상 주소는 [서울특별시](../Page/서울특별시.md "wikilink")에 있다.
@@ -51,7 +51,7 @@
 4.  **\[STX접대비③\] STX, 기자 접대비로 하룻밤 수백만원 써 (**<https://newstapa.org/34940>)
 5.  뉴스타파 - \[장충기 문자 대공개\] 장충기, 산업은행 통해 STX 인사 개입 정황 (https://www.youtube.com/watch?v=IsJriLQGlyc)
 
-[분류:1976년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1976년_설립된_기업 "wikilink") [분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:경상남도의 기업](https://ko.wikipedia.org/wiki/분류:경상남도의_기업 "wikilink") [분류:쌍용의 이전 자회사](https://ko.wikipedia.org/wiki/분류:쌍용의_이전_자회사 "wikilink") [분류:대한민국의 다국적 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_다국적_기업 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink")
+[분류:1976년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1976년_설립된_기업 "wikilink") [분류:창원시의 기업](https://ko.wikipedia.org/wiki/분류:창원시의_기업 "wikilink") [분류:쌍용의 이전 자회사](https://ko.wikipedia.org/wiki/분류:쌍용의_이전_자회사 "wikilink") [분류:대한민국의 다국적 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_다국적_기업 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink")
 
 1.  \[특징주\] STX중공업, 관리종목 지정에 하락, 조선일보 Mar 25, 2014
 2.  \[특징주\]STX, 감자 결정에 이틀째 '하한가 추락', 한국경제 2014.10.13

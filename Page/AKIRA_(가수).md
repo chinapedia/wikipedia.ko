@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKIRA \(\)](https://ko.wikipedia.org/wiki/AKIRA_\(\)).
+> This article is converted from Wikipedia: [AKIRA \(가수\)](https://ko.wikipedia.org/wiki/AKIRA_\(가수\)).
 
 
 **AKIRA**(아키라, [1981년](../Page/1981년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 [배우](../Page/배우.md "wikilink"), 댄서이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 퍼포머이다. 본명, **쿠로사와 료헤이**().

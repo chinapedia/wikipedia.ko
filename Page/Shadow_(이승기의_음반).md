@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Shadow \( \)](https://ko.wikipedia.org/wiki/Shadow_\(_\)).
+> This article is converted from Wikipedia: [Shadow \(이승기의 음반\)](https://ko.wikipedia.org/wiki/Shadow_\(이승기의_음반\)).
 
 
 **Shadow**(섀도)는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [이승기](../Page/이승기.md "wikilink")의 네 번째 [정규 음반이다](../Page/음반.md "wikilink"). [2009년](../Page/2009년.md "wikilink") [9월 17일에](../Page/9월_17일.md "wikilink") 발매되었으며, 타이틀곡 〈우리 헤어지자〉를 포함한 총 10곡이 음반에 수록돼 있다.〈우리 헤어지자〉는 앨범 발표 직후 각종 음원 차트의 상위권에 올랐으며,\[1\] 가요 순위 프로그램인 SBS 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》에서 2주 연속 1위에 해당하는 뮤티즌송을 수상하기도했다.\[2\]
@@ -29,7 +29,7 @@
 
 ## 외부 링크
 
-  - [가수 이승기 홈페이지](http://www.leeseunggi.com/)
+  - [가수 이승기 홈페이지](https://web.archive.org/web/20190916193656/http://leeseunggi.com/)
 
 [분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink") [분류:이승기의 음반](https://ko.wikipedia.org/wiki/분류:이승기의_음반 "wikilink")
 

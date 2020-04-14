@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G   ](https://ko.wikipedia.org/wiki/G___).
+> This article is converted from Wikipedia: [G마켓 카트라이더 길드 챔피언십](https://ko.wikipedia.org/wiki/G마켓_카트라이더_길드_챔피언십).
 
 
 **[G마켓](../Page/G마켓.md "wikilink") [카트라이더](https://ko.wikipedia.org/wiki/카트라이더 "wikilink") 길드 챔피언십**은 약 1년간의 공백을 깨고 아이템 팀전으로 경기 방식을 바꾼 최초의 아이템전 대회 이다.

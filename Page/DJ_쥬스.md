@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 쥬스](https://ko.wikipedia.org/wiki/DJ_쥬스).
 
 
 **DJ 쥬스**(DJ Juice, [1983년](../Page/1983년.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") [DJ이다](../Page/디스크_자키.md "wikilink"). 과거 [Bust This의](../Page/버스트_디스.md "wikilink") 멤버였으며, 이후로는 솔로로 활동하였다. 소속 크루로는 [Elementree](../Page/엘레멘트리.md "wikilink"), 소속 레이블은 [브랜뉴뮤직](../Page/브랜뉴뮤직.md "wikilink")이다.

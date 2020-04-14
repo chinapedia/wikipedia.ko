@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SIC \(\)](https://ko.wikipedia.org/wiki/SIC_\(\)).
+> This article is converted from Wikipedia: [SIC \(가수\)](https://ko.wikipedia.org/wiki/SIC_\(가수\)).
 
 
 **SIC**( [1982년](../Page/1982년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")이다.
@@ -30,11 +30,11 @@
 
 ### 드라마
 
-| 연도   | 방송  | 제목                                                            | 역할   | 비고 |
-| ---- | --- | ------------------------------------------------------------- | ---- | -- |
-| 2017 | SBS | [귓속말](../Page/귓속말_\(드라마\).md "wikilink")                      | 행동대장 |    |
-| 2019 | SBS | [열혈사제](../Page/열혈사제.md "wikilink")                            | 장룡   |    |
-| 2020 | OCN | [본 대로 말하라](https://ko.wikipedia.org/wiki/본_대로_말하라 "wikilink") | 강동식  |    |
+| 연도   | 방송  | 제목                                                            | 역할        | 비고 |
+| ---- | --- | ------------------------------------------------------------- | --------- | -- |
+| 2017 | SBS | [귓속말](../Page/귓속말_\(드라마\).md "wikilink")                      | 행동대장      |    |
+| 2019 | SBS | [열혈사제](../Page/열혈사제.md "wikilink")                            | 장룡        |    |
+| 2020 | OCN | [본 대로 말하라](https://ko.wikipedia.org/wiki/본_대로_말하라 "wikilink") | 강동식 / 김요한 |    |
 
 ### 영화
 
@@ -56,6 +56,7 @@
   - 2006 [2006 S/S서울 컬렉션 미치코 코시노 패션쇼 모델](https://ko.wikipedia.org/wiki/2006_S/S서울_컬렉션_미치코_코시노_패션쇼_모델 "wikilink")
   - 2019 [여기어때](../Page/여기어때.md "wikilink")
   - 2019 [맘스터치](../Page/맘스터치.md "wikilink")
+  - 2020 [캐롯손해보험](https://ko.wikipedia.org/wiki/캐롯손해보험 "wikilink")
 
 ## 수상 및 후보
 

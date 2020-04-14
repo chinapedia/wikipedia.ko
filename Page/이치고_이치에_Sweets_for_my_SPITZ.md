@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Sweets for my SPITZ](https://ko.wikipedia.org/wiki/__Sweets_for_my_SPITZ).
+> This article is converted from Wikipedia: [이치고 이치에 Sweets for my SPITZ](https://ko.wikipedia.org/wiki/이치고_이치에_Sweets_for_my_SPITZ).
 
 
 《**이치고 이치에 Sweets for my SPITZ** ( 스위츠 포 마이 스피츠)》는 여러 음악가의 [스피츠](../Page/스피츠_\(밴드\).md "wikilink") 헌정 음반이다. 2002년 10월 17일에 발매됐으며 [마쓰토야 유미](https://ko.wikipedia.org/wiki/마쓰토야_유미 "wikilink") 등 거물 음악가부터 인디 음악가까지 여러 장르의 음악가들이 스피츠의 노래를 커버했다.

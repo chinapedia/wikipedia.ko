@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBO   ](https://ko.wikipedia.org/wiki/:KBO___).
+> This article is converted from Wikipedia: [틀:KBO 리그 사이클링 안타](https://ko.wikipedia.org/wiki/틀:KBO_리그_사이클링_안타).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MF J](https://ko.wikipedia.org/wiki/MF_J).
+> This article is converted from Wikipedia: [MF문고 J](https://ko.wikipedia.org/wiki/MF문고_J).
 
 
 **MF문고 J**()는 일본 [미디어팩토리](https://ko.wikipedia.org/wiki/미디어팩토리 "wikilink") 계열의 [라이트 노벨](../Page/라이트_노벨.md "wikilink") 레이블이다. 원래 일본 국외영화를 소설로 번역하던 기존의 MF문고에 일본 (Japan)과 쥬브나일 (Juvenile)의 J를 붙여 [2002년](../Page/2002년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") 새로이 창간되었다.

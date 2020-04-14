@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Destiny \( \)](https://ko.wikipedia.org/wiki/Destiny_\(_\)).
+> This article is converted from Wikipedia: [Destiny \(스트라토바리우스의 음반\)](https://ko.wikipedia.org/wiki/Destiny_\(스트라토바리우스의_음반\)).
 
 
 **Destiny**는 [핀란드](../Page/핀란드.md "wikilink") [파워 메탈](../Page/파워_메탈.md "wikilink") 밴드 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 정규 7번째 앨범이다. 밴드의 앨범들 중 가장 프로그레시브한 성격을 띤다.

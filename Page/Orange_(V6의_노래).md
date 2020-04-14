@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Orange \(V6 \)](https://ko.wikipedia.org/wiki/Orange_\(V6_\)).
+> This article is converted from Wikipedia: [Orange \(V6의 노래\)](https://ko.wikipedia.org/wiki/Orange_\(V6의_노래\)).
 
 
 〈**Orange**〉는 2005년 10월 22일 발매한 V6의 28번째의 싱글이다.

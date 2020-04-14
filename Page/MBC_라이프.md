@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 라이프](https://ko.wikipedia.org/wiki/MBC_라이프).
 
 
 **MBC 라이프**(MBC Life)는 [대한민국](../Page/대한민국.md "wikilink")의 [MBC 플러스 미디어가](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") 운영했던 교양 정보 전문 채널이었다.

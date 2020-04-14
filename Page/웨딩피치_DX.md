@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DX](https://ko.wikipedia.org/wiki/_DX).
+> This article is converted from Wikipedia: [웨딩피치 DX](https://ko.wikipedia.org/wiki/웨딩피치_DX).
 
 
 **웨딩피치 DX**는 [애천사전설 웨딩피치의](../Page/애천사전설_웨딩피치.md "wikilink") 후속 OVA판으로, 모두 4편으로 이루어진 일본의 애니메이션이다. 일본에서는 1996년 11월부터 1997년 3월까지 판매된 작품이며, 대한민국에서는 퀴니에서 [웨딩피치](https://ko.wikipedia.org/wiki/웨딩피치 "wikilink")가 끝나고 나서 방영하였다.

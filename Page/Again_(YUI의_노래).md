@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Again \(YUI \)](https://ko.wikipedia.org/wiki/Again_\(YUI_\)).
+> This article is converted from Wikipedia: [Again \(YUI의 노래\)](https://ko.wikipedia.org/wiki/Again_\(YUI의_노래\)).
 
 
 〈**again**〉(어게인)은 [일본](../Page/일본.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 13번째 싱글이다. 2009년 6월 3일에 발매됐으며, 타이틀곡 again은 애니메이션 《[강철의 연금술사 BROTHERHOOD](https://ko.wikipedia.org/wiki/강철의_연금술사_BROTHERHOOD "wikilink")》의 여는곡으로 쓰였다. 또, YUI가 활동을 잠시 멈추었던 2008년 11월 이후 처음 발매된 싱글이다.

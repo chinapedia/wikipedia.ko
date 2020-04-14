@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CD](https://ko.wikipedia.org/wiki/_CD).
+> This article is converted from Wikipedia: [라이브 CD](https://ko.wikipedia.org/wiki/라이브_CD).
 
 
 **라이브 CD**(Live CD)는 주로 [리눅스](../Page/리눅스.md "wikilink") 계열의 [운영 체제에서](../Page/운영_체제.md "wikilink") 사용하는 일종의 '[시동 디스크](https://ko.wikipedia.org/wiki/시동_디스크 "wikilink")'이다.

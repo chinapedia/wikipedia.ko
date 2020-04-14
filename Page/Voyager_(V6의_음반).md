@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Voyager \(V6 \)](https://ko.wikipedia.org/wiki/Voyager_\(V6_\)).
+> This article is converted from Wikipedia: [Voyager \(V6의 음반\)](https://ko.wikipedia.org/wiki/Voyager_\(V6의_음반\)).
 
 
 《**Voyager**》는, [2007년](../Page/2007년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink") 발매한 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 10번째 정규 앨범이다.

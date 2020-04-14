@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GMA](https://ko.wikipedia.org/wiki/_GMA).
+> This article is converted from Wikipedia: [인텔 GMA](https://ko.wikipedia.org/wiki/인텔_GMA).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Harumphy.dg965.heatsink.jpg "wikilink") **인텔 GMA**(Intel Graphics Media Accelerator)는 다양한 [메인보드](../Page/메인보드.md "wikilink") 칩셋에 들어가는 [인텔](../Page/인텔.md "wikilink")의 내장형 [그래픽 프로세서](https://ko.wikipedia.org/wiki/그래픽_프로세서 "wikilink") 계열이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 7D](https://ko.wikipedia.org/wiki/_EOS_7D).
+> This article is converted from Wikipedia: [캐논 EOS 7D](https://ko.wikipedia.org/wiki/캐논_EOS_7D).
 
 
 **캐논 EOS 7D**()는 [캐논](../Page/캐논.md "wikilink")이 [2009년](../Page/2009년.md "wikilink") 9월 출시한 [디지털 SLR카메라이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 60프레임 HD동영상 촬영 기능과 초당 8연사, 시야율 약 98%, 19포인트 크로스 [AF센서](../Page/자동_초점.md "wikilink") 등 강력한 기능이 특징인 캐논사의 APS-C 플래그십 새로운 라인업의 첫 제품이다. 경쟁 모델로는 니콘에서 발매한 [D300S](https://ko.wikipedia.org/wiki/D300S "wikilink")가 있다.

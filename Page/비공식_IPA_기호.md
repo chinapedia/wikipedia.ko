@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IPA ](https://ko.wikipedia.org/wiki/_IPA_).
+> This article is converted from Wikipedia: [비공식 IPA 기호](https://ko.wikipedia.org/wiki/비공식_IPA_기호).
 
 
 **비공식 IPA 기호**는 비공식적인 음성 기록 체계다.
@@ -234,7 +234,7 @@
 <tr class="even">
 <td></td>
 <td><p>긴 <a href="https://ko.wikipedia.org/wiki/r" title="wikilink">r</a></p></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/치경_마찰_전동음" title="wikilink">치경 마찰 전동음</a></p></td>
 <td></td>
 <td><p>1989년 폐기됨</p></td>
 </tr>

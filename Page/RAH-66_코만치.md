@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RAH-66 ](https://ko.wikipedia.org/wiki/RAH-66_).
+> This article is converted from Wikipedia: [RAH-66 코만치](https://ko.wikipedia.org/wiki/RAH-66_코만치).
 
 
 **[보잉](https://ko.wikipedia.org/wiki/보잉_헬리콥터 "wikilink")/[시코르스키](../Page/시코르스키_항공.md "wikilink") RAH-66 코만치**는 [스텔스](https://ko.wikipedia.org/wiki/스텔스 "wikilink") 기술을 결합한 무장 정찰용 고급 미군 군용 헬리콥터이다. [AH-64 아파치를](../Page/AH-64_아파치.md "wikilink") 위한 표적을 지정하도록 고안되었다.\[1\] RAH-66 프로그램은 실전배치 되기 전에 2004년 취소되었다.

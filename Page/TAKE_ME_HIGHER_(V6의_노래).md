@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAKE ME HIGHER \(V6 \)](https://ko.wikipedia.org/wiki/TAKE_ME_HIGHER_\(V6_\)).
+> This article is converted from Wikipedia: [TAKE ME HIGHER \(V6의 노래\)](https://ko.wikipedia.org/wiki/TAKE_ME_HIGHER_\(V6의_노래\)).
 
 
 〈**TAKE ME HIGHER**〉은 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 4번째의 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

@@ -1,11 +1,13 @@
-> This article is converted from Wikipedia: [CIH ](https://ko.wikipedia.org/wiki/CIH_).
+> This article is converted from Wikipedia: [CIH 바이러스](https://ko.wikipedia.org/wiki/CIH_바이러스).
 
 
 **CIH 바이러스**는 [마이크로소프트 윈도에](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 감염되는 [컴퓨터 바이러스로](../Page/컴퓨터_바이러스.md "wikilink"), [타이완](../Page/타이완.md "wikilink")의 [천잉하오](https://ko.wikipedia.org/wiki/천잉하오 "wikilink") (陳盈豪)가 작성하였다. 체르노빌, 초르노빌(Chernobyl) 바이러스, 또는 스페이스필러(Spacefiller) 바이러스로도 불린다.
 
 "체르노빌 바이러스"라는 이름은 시간이 흘러 CIH로 알려지게 되었는데, 이는 이 바이러스가 활동하는 날짜인 [4월 26일이](../Page/4월_26일.md "wikilink") 구 [소련](../Page/소련.md "wikilink")에서 [체르노빌 원자력 발전소 사고가](../Page/체르노빌_원자력_발전소_사고.md "wikilink") 일어난 날짜와 우연히 일치했기 때문이다. [바이러스 제작자의](https://ko.wikipedia.org/wiki/천잉하오 "wikilink") 생일이 4월 26일이라서 그렇다는 설도 있지만 이는 사실이 아니다.
 
-CIH 바이러스는 PC의 바이오스를 파괴하기도 하여 시동 자체를 불가능하게 만들기도 한다.\[1\] 소프트웨어적으로 바이오스를 바꿀 수 있는 PC의 약점을 이용한 것이다.
+CIH 바이러스는 PC의 [바이오스](../Page/바이오스.md "wikilink")를 파괴하기도 하여 시동 자체를 불가능하게 만들기도 한다.\[1\] 소프트웨어적으로 바이오스를 바꿀 수 있는 PC의 약점을 이용한 것이다.
+
+파괴된 바이오스를 복구하려면 [메인보드](../Page/메인보드.md "wikilink")에서 바이오스가 기억되는 [EPROM](../Page/EPROM.md "wikilink")칩을 빼어서 [롬라이터에](../Page/소자_프로그래머.md "wikilink") 꼽고, [PC통신](https://ko.wikipedia.org/wiki/PC통신 "wikilink") 컴퓨터 동우회 자료실 같은 곳에서 입수한(제작사 인터넷 홈페이지 자체가 거의 없던 시절이다.) 메인보드 제작사의 바이오스를 EPROM으로 저장하는 작업이 필요하였다. 롬라이터는 일반 가정이나 사무실에 존재하는 장비가 아니었기에 컴퓨터 하드웨어 고장 수준에 피해 등급이었다. 당대에는 최신이었던 바이오스 업그레이드 기능이 없는 대부분에 평범한 컴퓨터에는 피해를 주지 못했다.
 
 ## 역사
 

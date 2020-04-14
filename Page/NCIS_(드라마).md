@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NCIS \(\)](https://ko.wikipedia.org/wiki/NCIS_\(\)).
+> This article is converted from Wikipedia: [NCIS \(드라마\)](https://ko.wikipedia.org/wiki/NCIS_\(드라마\)).
 
 
 **NCIS**(시즌 1에서는 **Navy NCIS**라는 제목으로 시작하였으나 이후 **NCIS**로 바꾸었다)는 1997년부터 2005년까지 방영했던 드라마 재그(Jag)의 [스핀오프](https://ko.wikipedia.org/wiki/스핀오프 "wikilink")이며 [미국 해군과](../Page/미국_해군.md "wikilink") [미국 해병대에](../Page/미국_해병대.md "wikilink") 대한 범죄를 수사하는 [해군 범죄 수사국의](https://ko.wikipedia.org/wiki/해군_범죄_수사국 "wikilink") 특수요원 팀을 배경으로 하는 수사물 드라마이다. 2018년 기준으로 미국 [CBS](https://ko.wikipedia.org/wiki/CBS "wikilink") 방송국에서 시즌 15까지 방영되었다.
@@ -42,7 +42,7 @@ NCIS는 현재 리언 밴스(Leon Vance) 국장이 이끌고 있다. 시즌 1부
 <td><p>Regular (2004-현재)</p></td>
 </tr>
 <tr class="odd">
-<td><p>엘레노어 비숍<br />
+<td><p>엘리 비숍<br />
 (Eleanor Bishop)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에밀리_위커샴" title="wikilink">에밀리 위커샴</a></p></td>
 <td><p>수습 요원 // 중요사건 전담팀, NCIS</p></td>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(KBS 1\)](https://ko.wikipedia.org/wiki/__\(KBS_1\)).
+> This article is converted from Wikipedia: [라디오 네트워크 \(KBS 제1라디오\)](https://ko.wikipedia.org/wiki/라디오_네트워크_\(KBS_제1라디오\)).
 
 
 **라디오 네트워크**는 [KBS 1라디오에서](../Page/KBS_제1라디오.md "wikilink") [2008년](../Page/2008년.md "wikilink") [11월 17일부터](../Page/11월_17일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [12월 31일까지](../Page/12월_31일.md "wikilink") 방송했던 시사프로그램이다.

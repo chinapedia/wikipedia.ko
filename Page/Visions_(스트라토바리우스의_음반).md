@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Visions \( \)](https://ko.wikipedia.org/wiki/Visions_\(_\)).
+> This article is converted from Wikipedia: [Visions \(스트라토바리우스의 음반\)](https://ko.wikipedia.org/wiki/Visions_\(스트라토바리우스의_음반\)).
 
 
 **Visions**는 [핀란드](../Page/핀란드.md "wikilink")의 [파워 메탈밴드](../Page/파워_메탈.md "wikilink") [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 정규 6집 앨범이다. "Black Diamond", "The Kiss of Judas", "Paradise" 등이 수록된 역대 최고의 음반으로 폭넓게 인정받는다. 또한 이 앨범부터 스트라토바리우스의 새로운 로고가 적용되어 [2005년](../Page/2005년.md "wikilink") [Stratovarius](https://ko.wikipedia.org/wiki/Stratovarius "wikilink") 앨범까지 사용되었다.

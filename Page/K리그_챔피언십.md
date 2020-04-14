@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K리그 챔피언십](https://ko.wikipedia.org/wiki/K리그_챔피언십).
 
 
 [K리그](../Page/K리그.md "wikilink")는 [1983년에](https://ko.wikipedia.org/wiki/K리그_1983 "wikilink") 출범한 이래 [시즌](https://ko.wikipedia.org/wiki/시즌_\(스포츠\) "wikilink") 우승 팀을 정규리그(정규시즌) 우승팀만으로 결정하거나 아니면 정규리그 종료 후에 별도의 [플레이오프](../Page/플레이오프.md "wikilink")(포스트시즌\]\])을 거쳐서 우승팀을 가리는 방식을 혼용해 왔다. 이러한 [K리그](../Page/K리그.md "wikilink") [플레이오프](../Page/플레이오프.md "wikilink") 전체를 [2009년](../Page/2009년.md "wikilink")부터 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")에 의해서 **K-리그 챔피언십**으로 공식 명명되었으며 포스트시즌 중 최종 결승전은 챔피언 결정전이라는 사용하고 있다.\[1\] 그리고 2009년 챔피언십 타이틀스폰서십으로 현대자동차가 후원협약을 맺게 되면서 대회 정식 명칭으로 **K-리그 쏘나타 챔피언십 2009** 라는 명칭으로 열리게 되었다.\[2\]\[3\] [2012년에는](https://ko.wikipedia.org/wiki/K리그_2012 "wikilink") 승강제를 실시하기 위해 스플릿 리그 방식으로 전환하면서 K리그 챔피언십은 폐지되었다.

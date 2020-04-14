@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG배 세계기왕전](https://ko.wikipedia.org/wiki/LG배_세계기왕전).
 
 
 **LG배 조선일보 기왕전**, 약칭 **LG배**는 국제 [바둑 기전으로](../Page/바둑_기전.md "wikilink") 1996년에 시작되었다. [조선일보](../Page/조선일보.md "wikilink")와 [한국기원](../Page/한국기원.md "wikilink")이 주최하며, 주식회사 [LG](https://ko.wikipedia.org/wiki/LG "wikilink")의 협찬을 받는다.

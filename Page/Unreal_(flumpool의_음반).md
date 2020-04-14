@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Unreal \(flumpool \)](https://ko.wikipedia.org/wiki/Unreal_\(flumpool_\)).
+> This article is converted from Wikipedia: [Unreal \(flumpool의 음반\)](https://ko.wikipedia.org/wiki/Unreal_\(flumpool의_음반\)).
 
 
 《**Unreal**》은 [flumpool의](https://ko.wikipedia.org/wiki/플럼풀 "wikilink") 첫 번째 미니 앨범이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
+> This article is converted from Wikipedia: [SBS 오 뉴스](https://ko.wikipedia.org/wiki/SBS_오_뉴스).
 
 
 《**SBS 오 뉴스**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시에 [SBS에서](../Page/SBS_TV.md "wikilink") 방송하는 [SBS의 저녁 뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
@@ -10,7 +10,7 @@
 
 ## 방송 시간
 
-현재 방송시간은 [2019년](../Page/2019년.md "wikilink") [5월 13일부터를](../Page/5월_13일.md "wikilink") 기준으로 한다.
+현재 방송시간은 [2020년](../Page/2020년.md "wikilink") [3월 30일부터를](../Page/3월_30일.md "wikilink") 기준으로 한다.
 
 | 방송 채널                                                                                                                                                          | 방송 기간                                                                                                                                                      | 방송 시간                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
@@ -33,8 +33,9 @@
 | [2017년](../Page/2017년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink")         | 평일 오후 5시 \~ 저녁 6시 5분 (1시간 5분)                                                                                                                              |                                   |
 | [2017년](../Page/2017년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink")       | 평일 오후 5시 \~ 저녁 6시 10분 (1시간 10분)                                                                                                                            |                                   |
 | [2017년](../Page/2017년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink")     | 평일 오후 5시 \~ 저녁 6시 (1시간)                                                                                                                                    |                                   |
-| [2019년](../Page/2019년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ **현재**                                                                          |                                                                                                                                                            |                                   |
+| [2019년](../Page/2019년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink")     |                                                                                                                                                            |                                   |
 | [2019년](../Page/2019년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink")     | 매주 평일 오후 5시 \~ 5시 55분 (55분)                                                                                                                                |                                   |
+| [2020년](../Page/2020년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~ **현재**                                                                          | 매주 평일 오후 5시 \~ 5시 50분 (50분)                                                                                                                                |                                   |
 
 ※ [공휴일에는](../Page/대한민국의_공휴일.md "wikilink") 오후 시간대에 10분간 **SBS 뉴스**로 대체 편성된다.
 
@@ -109,11 +110,11 @@
 
 **네트워크 현장**은 [SBS TV와](../Page/SBS_TV.md "wikilink") 네트워크 협정을 맺은 지역 민영 방송을 연결하여 그 지역의 소식을 전해준다. [KBS 뉴스 5의](../Page/KBS_뉴스_5.md "wikilink") 이 시각 네트워크와 과거 [MBC 이브닝뉴스의](https://ko.wikipedia.org/wiki/MBC_이브닝뉴스 "wikilink") 네트워크 오늘과 비슷하다.
 
-  - 월요일 : 광주 전남 ([kbc 광주방송](../Page/광주방송.md "wikilink") 이정섭 아나운서), 부산 경남 ([KNN](../Page/KNN.md "wikilink") 정준희 아나운서)
-  - 화요일 : 전북 전주 ([JTV 전주방송](../Page/전주방송.md "wikilink") 서주영 아나운서), 울산 ([ubc 울산방송](../Page/울산방송.md "wikilink") 박지혜 아나운서)
-  - 수요일 : 제주 ([JIBS 제주국제자유도시방송](../Page/제주국제자유도시방송.md "wikilink") 김민경 아나운서), 대전 세종 충남 ([TJB 대전방송](../Page/대전방송.md "wikilink") 송유라 아나운서)
-  - 목요일 : 강원 ([G1 강원민방](../Page/G1.md "wikilink") 손민정 아나운서), 대구 경북 ([TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 이향원 아나운서)
-  - 금요일 : 충북 청주 ([CJB 청주방송](../Page/청주방송.md "wikilink") 연규옥 아나운서)
+  - 월요일 : 광주 전남 ([kbc 광주방송](../Page/광주방송.md "wikilink") 최창은 아나운서), 부산 경남 ([KNN](../Page/KNN.md "wikilink") 김다롬 아나운서)
+  - 화요일 : 전북 전주 ([JTV 전주방송](../Page/전주방송.md "wikilink") 서주영 아나운서), 울산 ([ubc 울산방송](../Page/울산방송.md "wikilink") 장수정 아나운서)
+  - 수요일 : 제주 ([JIBS 제주국제자유도시방송](../Page/제주국제자유도시방송.md "wikilink") 김지현 아나운서), 대전 세종 충남 ([TJB 대전방송](../Page/대전방송.md "wikilink") 김현지 아나운서)
+  - 목요일 : 강원 ([G1 강원민방](../Page/G1.md "wikilink") 손민정 아나운서), 대구 경북 ([TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 김다은 아나운서)
+  - 금요일 : 충북 청주 ([CJB 청주방송](../Page/청주방송.md "wikilink") 황수동 아나운서)
 
 ### 수도권 소식
 
@@ -164,12 +165,11 @@
 다음 지역민방 프로그램은 네트워크 현장이 끝나는 오후 5시 40분 경부터 방송된다.
 
   - 오후 5시 40분부터 저녁 6시까지 방송되는 지역민방
-  - KNN (부산경남)는 저녁 6시부터 방송한다.
+  - KNN(부산경남)는 저녁 6시부터, CJB(충북)는 저녁 7시부터 방송한다.
 
 | 방송국                                            | 방송 권역                                                                                                                                        | 프로그램 타이틀                                                      | 방송 시간        | 진행자                                                 |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------ | --------------------------------------------------- |
 | [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") | [대구](../Page/대구광역시.md "wikilink")·[경북](https://ko.wikipedia.org/wiki/경상북도 "wikilink")                                                        | [TBC 대경뉴스광장](../Page/TBC_대경뉴스광장.md "wikilink")                | 17:40\~18:00 | [김다은](https://ko.wikipedia.org/wiki/김다은 "wikilink") |
-| [CJB](../Page/청주방송.md "wikilink")              | [충북](https://ko.wikipedia.org/wiki/충청북도 "wikilink")                                                                                          | [CJB 뉴스 (1740)](../Page/CJB_뉴스_\(1740\).md "wikilink")        | 17:40\~18:00 | [연규옥](https://ko.wikipedia.org/wiki/연규옥 "wikilink") |
 | [G1](../Page/G1.md "wikilink")                 | [강원](../Page/강원도.md "wikilink")                                                                                                              | [뉴스퍼레이드 강원](../Page/뉴스퍼레이드_강원.md "wikilink")                  | 17:40\~18:00 | [손민정](https://ko.wikipedia.org/wiki/손민정 "wikilink") |
 | [TJB](../Page/대전방송.md "wikilink")              | [대전](https://ko.wikipedia.org/wiki/대전광역시 "wikilink")·[충남](https://ko.wikipedia.org/wiki/충청남도 "wikilink")·[세종](../Page/세종특별자치시.md "wikilink") | [TJB 뉴스 (1745)](../Page/TJB_뉴스_\(1745\).md "wikilink")        | 17:45\~18:00 | [이은지](https://ko.wikipedia.org/wiki/이은지 "wikilink") |
 | [kbc](../Page/광주방송.md "wikilink")              | [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")·[전남](https://ko.wikipedia.org/wiki/전라남도 "wikilink")                                     | [kbc 저녁뉴스](https://ko.wikipedia.org/wiki/kbc_저녁뉴스 "wikilink") | 17:45\~18:00 | [최창은](https://ko.wikipedia.org/wiki/최창은 "wikilink") |

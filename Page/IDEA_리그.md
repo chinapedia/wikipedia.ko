@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IDEA ](https://ko.wikipedia.org/wiki/IDEA_).
+> This article is converted from Wikipedia: [IDEA 리그](https://ko.wikipedia.org/wiki/IDEA_리그).
 
 
 <table>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STX](https://ko.wikipedia.org/wiki/STX).
+> This article is converted from Wikipedia: [STX중공업](https://ko.wikipedia.org/wiki/STX중공업).
 
 
 **STX중공업**은 [STX그룹](../Page/STX그룹.md "wikilink")에서 분리된 대한민국 대표 조선 기자재 전문기업으로 2004년 설립되어 현재 연간 선박용 주기엔진 400만 마력, 선박 74척 분 선실, 20만톤의 강재를 가공할 수 있는 능력을 보유했다.

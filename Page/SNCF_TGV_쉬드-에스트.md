@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNCF TGV -](https://ko.wikipedia.org/wiki/SNCF_TGV_-).
+> This article is converted from Wikipedia: [SNCF TGV 쉬드-에스트](https://ko.wikipedia.org/wiki/SNCF_TGV_쉬드-에스트).
 
 
 **SNCF TGV 쉬드-에스트**()는 프랑스 SNCF에서 사용한 최초의 고속 차량이다. 영업 최고 속도는 차량에 따라 270/300 km/h이다. 일부 차량은 스위스와 연결되는 [리리아](https://ko.wikipedia.org/wiki/리리아 "wikilink") 서비스에도 사용된다. [1978년](../Page/1978년.md "wikilink") [LGV 쉬드-에스트](https://ko.wikipedia.org/wiki/LGV_쉬드-에스트 "wikilink") 개통 이후부터 사용되었다. 1세대 TGV로 영업 시작 당시에는 오렌지색 도색이 되어 있었다. 프랑스 내에서 사용하는 복전압 편성(직류 1.5kV/교류 25kV)과 스위스에서도 사용할 수 있는 삼중전압 편성(복전압 + 교류 15kV)이 있다.

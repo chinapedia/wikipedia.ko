@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NNN  ](https://ko.wikipedia.org/wiki/NNN__).
+> This article is converted from Wikipedia: [NNN 뉴스 리얼타임](https://ko.wikipedia.org/wiki/NNN_뉴스_리얼타임).
 
 
 《**NNN 뉴스 리얼타임**》(, )은 [니혼TV](https://ko.wikipedia.org/wiki/니혼_텔레비전_방송망 "wikilink")([NNN](https://ko.wikipedia.org/wiki/NNN "wikilink"))의 저녁종합뉴스로, [HD로](../Page/고선명_텔레비전.md "wikilink") 방송되었다. 2006년부터 2010년까지 방송되었으며, 후속 프로그램은 [뉴스 에브리이다](../Page/뉴스_에브리.md "wikilink").

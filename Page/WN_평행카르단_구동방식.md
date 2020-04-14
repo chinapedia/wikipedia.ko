@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WN  ](https://ko.wikipedia.org/wiki/WN__).
+> This article is converted from Wikipedia: [WN 평행카르단 구동방식](https://ko.wikipedia.org/wiki/WN_평행카르단_구동방식).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:WN_Drive_01.gif "wikilink") **WN 평행카르단 구동방식**은 전동차의 구동방식 중 하나다. 국내에서는 1980년 서울지하철 2000호대 전동차가 이 방식을 처음으로 도입한 이후, 2012년 현재 국내에서 운행되는 대다수의 전동차들이 이 구동방식을 사용하고 있다.

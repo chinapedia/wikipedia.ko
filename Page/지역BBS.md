@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBS](https://ko.wikipedia.org/wiki/BBS).
+> This article is converted from Wikipedia: [지역BBS](https://ko.wikipedia.org/wiki/지역BBS).
 
 
 **지역BBS**(지역 비비에스, )란 [니시무라 히로유키가](https://ko.wikipedia.org/wiki/니시무라_히로유키 "wikilink") [2채널](https://ko.wikipedia.org/wiki/2채널 "wikilink") 내에 개설한 지역별 테마게시판이다.

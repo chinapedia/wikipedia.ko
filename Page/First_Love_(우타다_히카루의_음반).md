@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [First Love \(  \)](https://ko.wikipedia.org/wiki/First_Love_\(__\)).
+> This article is converted from Wikipedia: [First Love \(우타다 히카루의 음반\)](https://ko.wikipedia.org/wiki/First_Love_\(우타다_히카루의_음반\)).
 
 
 《**First Love**》는, [우타다 히카루의](../Page/우타다_히카루.md "wikilink") 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fire \(2NE1 \)](https://ko.wikipedia.org/wiki/Fire_\(2NE1_\)).
+> This article is converted from Wikipedia: [Fire \(2NE1의 노래\)](https://ko.wikipedia.org/wiki/Fire_\(2NE1의_노래\)).
 
 
 〈**Fire**〉는 대한민국의 걸 그룹 [2NE1](../Page/2NE1.md "wikilink")의 데뷔 싱글이다. [2009년](../Page/2009년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") KMP홀딩스를 통해 발매되었다. 이 노래는 2NE1의 첫 번째 미니 앨범 《[2NE1 1st Mini Album](../Page/2NE1_1st_Mini_Album.md "wikilink")》 1번 트랙에 수록되었다.

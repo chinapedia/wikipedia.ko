@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 서울의 역사](https://ko.wikipedia.org/wiki/FC_서울의_역사).
 
 
 이 문서는 [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 전신인 럭키금성 황소 축구단 시절부터 현재의 FC 서울에 이르기까지 구단 운영에 관한 전반적인 역사를 다루고 있다.

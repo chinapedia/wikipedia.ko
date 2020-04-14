@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NK ](https://ko.wikipedia.org/wiki/NK_).
+> This article is converted from Wikipedia: [NK 마리보르](https://ko.wikipedia.org/wiki/NK_마리보르).
 
 
 **노고메트니 클럽 마리보르** (Nogometni Klub Maribor)는 [슬로베니아](../Page/슬로베니아.md "wikilink")의 [마리보르](../Page/마리보르.md "wikilink")를 연고로 하는 축구 클럽으로, [1960년](../Page/1960년.md "wikilink")에 설립되었다.

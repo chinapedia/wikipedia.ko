@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G \(\)](https://ko.wikipedia.org/wiki/G_\(\)).
+> This article is converted from Wikipedia: [G맨 \(하프라이프\)](https://ko.wikipedia.org/wiki/G맨_\(하프라이프\)).
 
 
 **G맨**(The G-man)은 [하프라이프](https://ko.wikipedia.org/wiki/하프라이프 "wikilink") 시리즈에 등장하는 캐릭터이다. 언제나 푸른 양복을 입고 서류가방을 들고서 등장하는, 게임에서의 등장 이전의 행적이나 정체 등이 전혀 밝혀지지 않은 수수께끼의 인물이다. 현재 고든 프리맨을 감시하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GUILTY \(V6 \)](https://ko.wikipedia.org/wiki/GUILTY_\(V6_\)).
+> This article is converted from Wikipedia: [GUILTY \(V6의 노래\)](https://ko.wikipedia.org/wiki/GUILTY_\(V6의_노래\)).
 
 
 〈**GUILTY**〉(길티)는 2009년 9월 2일 발매한 V6의 36번째 싱글이다. V6의 《[아시아송페스티벌](https://ko.wikipedia.org/wiki/아시아송페스티벌 "wikilink") 2009년》 스페셜 게스트로 초청 공연, 같은해 11월 내한콘서트 등으로 한국에 라이선스 발매 된다.\[1\]

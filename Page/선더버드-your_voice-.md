@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-your voice-](https://ko.wikipedia.org/wiki/-your_voice-).
+> This article is converted from Wikipedia: [선더버드-your voice-](https://ko.wikipedia.org/wiki/선더버드-your_voice-).
 
 
 《**サンダーバード-your voice-**》은, [2004년](../Page/2004년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 발매한 V6의 25번째의 싱글이다.

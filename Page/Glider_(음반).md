@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Glider \(\)](https://ko.wikipedia.org/wiki/Glider_\(\)).
+> This article is converted from Wikipedia: [Glider \(음반\)](https://ko.wikipedia.org/wiki/Glider_\(음반\)).
 
 
 《**glider**》는 [2003년](../Page/2003년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") 발매 된 [TOKIO](../Page/TOKIO.md "wikilink")의 8번째 정규 앨범이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KTF EVER  ](https://ko.wikipedia.org/wiki/KTF_EVER__).
+> This article is converted from Wikipedia: [KTF EVER컵 온게임넷 프로리그](https://ko.wikipedia.org/wiki/KTF_EVER컵_온게임넷_프로리그).
 
 
 **KTF EVER컵 온게임넷 프로리그**(KTF EVER Cup Ongamenet Pro League)는 [프로리그의](../Page/스타크래프트_프로리그.md "wikilink") 첫 번째 시즌이다.

@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [CJ](https://ko.wikipedia.org/wiki/CJ).
+> This article is converted from Wikipedia: [CJ오쇼핑](https://ko.wikipedia.org/wiki/CJ오쇼핑).
 
 
 **(주)씨제이이엔엠**(, 약식: **CJ ENM**)\[1\]은 [대한민국](../Page/대한민국.md "wikilink")의 서비스 기업이다.
 
-1994년 12월 16일 종합유선방송사업과 홈쇼핑 프로그램의 제작공급 및 도소매업을 목적으로 설립되었다. 2018년 7월 1일 [씨제이이앤엠㈜를](../Page/CJ_E&M.md "wikilink") 흡수합병 하고, (주)씨제이이엔엠으로 사명을 변경 하였다.\[2\]
+1994년 12월 16일 종합유선방송사업과 홈쇼핑 프로그램의 제작공급 및 도소매업을 목적으로 설립되었다. 2018년 7월 1일 [씨제이이앤엠㈜를](../Page/CJ_E&M.md "wikilink") 흡수합병 하고, [(주)씨제이이엔엠으로](../Page/CJ_ENM.md "wikilink") 사명을 변경 하였다.\[2\]
 
 ## 역사
 
@@ -62,13 +62,6 @@
   - [2018년](../Page/2018년.md "wikilink") [7월](../Page/7월.md "wikilink") \~ : 허민호 대표이사 취임
 
 ## 사업 영역
-
-  - 방송
-    음악
-    컨벤션
-    공연
-    애니메이션
-    마케팅
 
 ### 영화 사업
 

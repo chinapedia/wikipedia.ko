@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Neowiz Pmang  ](https://ko.wikipedia.org/wiki/Neowiz_Pmang__).
+> This article is converted from Wikipedia: [Neowiz Pmang컵 온게임넷 프로리그](https://ko.wikipedia.org/wiki/Neowiz_Pmang컵_온게임넷_프로리그).
 
 
 **네오위즈 피망컵 온게임넷 프로리그**(Neowiz Pmang Cup Ongamenet Pro League)는 [프로리그의](../Page/스타크래프트_프로리그.md "wikilink") 2번째 시즌이다.

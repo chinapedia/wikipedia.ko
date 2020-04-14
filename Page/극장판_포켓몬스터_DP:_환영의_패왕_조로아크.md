@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DP:   ](https://ko.wikipedia.org/wiki/__DP:___).
+> This article is converted from Wikipedia: [극장판 포켓몬스터 DP: 환영의 패왕 조로아크](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_DP:_환영의_패왕_조로아크).
 
 
 《**포켓몬스터 다이아몬드 & 펄 환영의 패왕 조로아크**》 ()는 [2010년](../Page/2010년.md "wikilink") [12월 23일에](../Page/12월_23일.md "wikilink") [CGV와](../Page/CJ_CGV.md "wikilink") [프리머스를](../Page/프리머스_\(영화관\).md "wikilink") 통하여 개봉된 [극장판 포켓몬스터](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 13기의 명칭이다. [조로아](https://ko.wikipedia.org/wiki/조로아 "wikilink"), [조로아크](https://ko.wikipedia.org/wiki/조로아크 "wikilink"), [스이쿤](../Page/스이쿤.md "wikilink"), [앤테이](https://ko.wikipedia.org/wiki/앤테이 "wikilink"), [라이코](../Page/라이코.md "wikilink"), [세레비](../Page/세레비.md "wikilink") 등이 등장한다.

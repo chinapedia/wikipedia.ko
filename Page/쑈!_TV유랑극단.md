@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [! TV](https://ko.wikipedia.org/wiki/!_TV).
+> This article is converted from Wikipedia: [쑈! TV유랑극단](https://ko.wikipedia.org/wiki/쑈!_TV유랑극단).
 
 
 《**쑈\! TV 유랑극단**》은 [일요일](../Page/일요일.md "wikilink") 오전 10시 50분부터 낮 12시까지 [KNN](../Page/KNN.md "wikilink") 부산경남방송에서 자체 방송되는 시청자 참여 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AIM-92 ](https://ko.wikipedia.org/wiki/AIM-92_).
+> This article is converted from Wikipedia: [AIM-92 스팅어](https://ko.wikipedia.org/wiki/AIM-92_스팅어).
 
 
 **AIM-92 스팅어**(AIM-92 Stinger) 또는 **공대공 스팅어**(ATAS)는 [AH-64 아파치](../Page/AH-64_아파치.md "wikilink"), [유로콥터 타이거와](../Page/유로콥터_타이거.md "wikilink") 같은 헬기와 [MQ-1 프레데터와](../Page/MQ-1_프레데터.md "wikilink") 같은 [무인항공기](https://ko.wikipedia.org/wiki/무인항공기 "wikilink")(UAV)에 사용되는, 견착 발사 [FIM-92 스팅어](../Page/FIM-92_스팅어.md "wikilink") 시스템으로부터 개발된 [공대공 미사일이다](https://ko.wikipedia.org/wiki/공대공_미사일 "wikilink"). 미사일 자체는 견착 발사 [지대공 스팅어와](../Page/FIM-92_스팅어.md "wikilink") 동일하다.

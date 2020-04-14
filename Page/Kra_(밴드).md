@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kra \(\)](https://ko.wikipedia.org/wiki/Kra_\(\)).
+> This article is converted from Wikipedia: [Kra \(밴드\)](https://ko.wikipedia.org/wiki/Kra_\(밴드\)).
 
 
 **Kra**(케라)는, 일본 [비주얼계](../Page/비주얼계.md "wikilink") 밴드이다.. [PS COMPANY](https://ko.wikipedia.org/wiki/피에스_컴퍼니 "wikilink")(피에스 컴퍼니) 소속.

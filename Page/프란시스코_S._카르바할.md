@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [프란시스코 S. 카르바할](https://ko.wikipedia.org/wiki/프란시스코_S._카르바할).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Francisco_S_Carvajal.jpg "wikilink") **프란시스코 S. 카르바할** (Francisco S. Carvajal, [1870년](../Page/1870년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") \~ [1932년](../Page/1932년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink"))은 [멕시코](../Page/멕시코.md "wikilink")의 변호사이자 1914년 잠시 [멕시코의 대통령으로서](https://ko.wikipedia.org/wiki/멕시코의_대통령 "wikilink") 재임했던 정치인이다. 외교 장관이었을 때, 그는 [빅토리아노 우에르타의](../Page/빅토리아노_우에르타.md "wikilink") 후임으로서 대통령직을 승계했다.

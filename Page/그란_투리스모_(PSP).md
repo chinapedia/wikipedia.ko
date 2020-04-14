@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(PSP\)](https://ko.wikipedia.org/wiki/__\(PSP\)).
+> This article is converted from Wikipedia: [그란 투리스모 \(PSP\)](https://ko.wikipedia.org/wiki/그란_투리스모_\(PSP\)).
 
 
 《**그란투리스모 포터블**》(Gran Turismo)은 전 세계의 다양한 차종을 모아놓은 게임이다. 핸들링이나 엔진음, rpm 시스템 등 실제로 차를 모는 듯한 느낌을 주어 사실적인 레이싱 게임이라는 호칭을 얻었다.

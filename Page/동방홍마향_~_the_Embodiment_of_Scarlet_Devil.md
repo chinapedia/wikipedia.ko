@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ the Embodiment of Scarlet Devil](https://ko.wikipedia.org/wiki/_\~_the_Embodiment_of_Scarlet_Devil).
+> This article is converted from Wikipedia: [동방홍마향 \~ the Embodiment of Scarlet Devil](https://ko.wikipedia.org/wiki/동방홍마향_\~_the_Embodiment_of_Scarlet_Devil).
 
 
 《**동방홍마향 \~ the Embodiment of Scarlet Devil**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 여섯번째 시리즈 게임이다. 제작은 [오타 준야](https://ko.wikipedia.org/wiki/오타_준야 "wikilink")(ZUN)가 하였고, [마이크로소프트 윈도우로](../Page/마이크로소프트_윈도우.md "wikilink") 첫 대응하여 출시된 게임이다. 또한, [동인 서클인](../Page/동인_서클.md "wikilink") [상하이 앨리스 환악단을](../Page/상하이_앨리스_환악단.md "wikilink") 처음으로 구성시켜 나오게 된 게임이다.

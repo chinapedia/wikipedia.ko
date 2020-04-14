@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Presence \(\)](https://ko.wikipedia.org/wiki/Presence_\(\)).
+> This article is converted from Wikipedia: [Presence \(음반\)](https://ko.wikipedia.org/wiki/Presence_\(음반\)).
 
 
 **Presence**는 [레드 제플린의](../Page/레드_제플린.md "wikilink") 일곱 번째 정규 음반이다. [로버트 플랜트의](../Page/로버트_플랜트.md "wikilink") 심각한 교통사고 이후 밴드의 미래가 불투명한 상황에서 제작되었다. 레드 제플린의 음반 중에서는 비교적 낮은 판매량을 기록했다.

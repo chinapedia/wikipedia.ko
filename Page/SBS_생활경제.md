@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 생활경제](https://ko.wikipedia.org/wiki/SBS_생활경제).
 
 
 《**SBS 생활경제**》()는 매주 평일 오전 10시 30분에 방송되었던 [SBS TV의](../Page/SBS_TV.md "wikilink") 아침 생활경제 시사교양 프로그램이다. [SBS CNBC가](../Page/SBS_CNBC.md "wikilink") 제작을 담당하였다.

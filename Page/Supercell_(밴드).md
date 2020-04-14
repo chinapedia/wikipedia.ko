@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Supercell \(\)](https://ko.wikipedia.org/wiki/Supercell_\(\)).
+> This article is converted from Wikipedia: [Supercell \(밴드\)](https://ko.wikipedia.org/wiki/Supercell_\(밴드\)).
 
 
 **supercell**(슈퍼셀)은 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink") **ryo**를 중심으로 [일러스트레이터](https://ko.wikipedia.org/wiki/일러스트레이터 "wikilink")나 [디자이너](../Page/디자이너.md "wikilink")가 모인 크리에이터 집단이다. 멤버 중엔 보컬은 없고, supercell 명의로 발표하는 악곡은 첫 번째 [앨범](https://ko.wikipedia.org/wiki/앨범 "wikilink")은 음성 합성 소프트 [하츠네 미쿠를](../Page/하츠네_미쿠.md "wikilink") 보컬에 이용, 두 번째 앨범부터의 악곡은 [nagi를](../Page/야나기나기.md "wikilink"), 세 번째 앨범은 코에다를 게스트 보컬로 맞이하고 있다\[1\]. 소속 [연예 기획사는](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink") [인크스 토엔터](https://ko.wikipedia.org/wiki/인크스_토엔터 "wikilink"). 소속 [레코드 레이블은](../Page/레코드_레이블.md "wikilink") [Sony Records](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink") 및 [SOULTAG·GT music와](https://ko.wikipedia.org/wiki/소니_뮤직_다이렉트 "wikilink") [소니 뮤직 엔터테인먼트](../Page/소니_뮤직_엔터테인먼트.md "wikilink") 계열의 레이블에 동시 재적\[2\].

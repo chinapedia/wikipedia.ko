@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TD  ](https://ko.wikipedia.org/wiki/TD__).
+> This article is converted from Wikipedia: [TD 평행카르단 구동방식](https://ko.wikipedia.org/wiki/TD_평행카르단_구동방식).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:JRE-205-5000-DT70-02.jpg "wikilink") **TD 평행카르단 구동방식**(TD Drive)는 전동차의 구동방식 중 하나로, 그 이름은 2장의 디스크를 사용하는 구조인 'Twin Disc'이나 개발사인 토요 전기제조 (Toyo Denki)의 앞글자에서 유래되었다고 한다.

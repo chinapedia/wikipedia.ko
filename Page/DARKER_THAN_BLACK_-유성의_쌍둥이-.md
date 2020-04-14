@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DARKER THAN BLACK - -](https://ko.wikipedia.org/wiki/DARKER_THAN_BLACK_-_-).
+> This article is converted from Wikipedia: [DARKER THAN BLACK -유성의 쌍둥이-](https://ko.wikipedia.org/wiki/DARKER_THAN_BLACK_-유성의_쌍둥이-).
 
 
 《**DARKER THAN BLACK -유성의 쌍둥이-**》()는 [일본](../Page/일본.md "wikilink")의 방송국 [MBS](../Page/마이니치_방송.md "wikilink")·[TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink")·[CBC에서](../Page/주부닛폰_방송.md "wikilink") 2009년 10월 8일부터 12월 24일까지 방송된, [본즈가](https://ko.wikipedia.org/wiki/본즈_\(스튜디오\) "wikilink") 제작한 일본의 [애니메이션](../Page/애니메이션.md "wikilink") 작품이다. 2007년에 방송된 《[DARKER THAN BLACK -흑의 계약자-](https://ko.wikipedia.org/wiki/흑의_계약자 "wikilink")》의 속편이다.

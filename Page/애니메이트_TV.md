@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [애니메이트 TV](https://ko.wikipedia.org/wiki/애니메이트_TV).
 
 
 **애니메이트 TV**(, )는, 일본의 [애니메이션](../Page/애니메이션.md "wikilink") 상품 판매점 [애니메이트](../Page/애니메이트.md "wikilink") 및 주식회사 [프론티어 웍스에](https://ko.wikipedia.org/wiki/프론티어_웍스 "wikilink") 의한 애니메이션 관련 정보 사이트.

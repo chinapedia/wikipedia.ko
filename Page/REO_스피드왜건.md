@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [REO ](https://ko.wikipedia.org/wiki/REO_).
+> This article is converted from Wikipedia: [REO 스피드왜건](https://ko.wikipedia.org/wiki/REO_스피드왜건).
 
 
 **REO 스피드왜건**(REO Speedwagon)은 [미국](../Page/미국.md "wikilink") 중서부 [일리노이주](../Page/일리노이주.md "wikilink") 출신의 록 밴드이다. 1967년에 만들어졌으며 1970년대 동안에 많은 인기를 끌다가 1980년도 초에 최고의 인기를 누렸다. REO 스피드웨건의 'Keep On Loving On You' 곡과 'Can't Fight This Feeling', 이 두 개의 곡들은 이들의 불후의 명곡들로 뽑히기도 한다. 1981년도 《[Hi Infidelity](https://ko.wikipedia.org/wiki/Hi_Infidelity "wikilink")》 앨범은 이 밴드의 가장 성공적인 앨범으로, 미국에서 4주 동안 top 40위안에 들었고 천만장의 앨범이 팔렸다.

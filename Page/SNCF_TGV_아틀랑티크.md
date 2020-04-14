@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNCF TGV ](https://ko.wikipedia.org/wiki/SNCF_TGV_).
+> This article is converted from Wikipedia: [SNCF TGV 아틀랑티크](https://ko.wikipedia.org/wiki/SNCF_TGV_아틀랑티크).
 
 
 **SNCF TGV 아틀랑티크**()는 프랑스 [SNCF](https://ko.wikipedia.org/wiki/SNCF "wikilink")에서 사용하는 고속열차이다. [알스톰](../Page/알스톰.md "wikilink")에서 [1988년](../Page/1988년.md "wikilink")부터 [1992년](../Page/1992년.md "wikilink")까지 제작하였다. [TGV 쉬드-에스트에](../Page/SNCF_TGV_쉬드-에스트.md "wikilink") 이은 2세대 TGV 열차이다. 이전 차량에 비해서 2량 더 길어졌고, 은색과 파란색으로 도색되었다. 차량 번호는 TGV 24000번부터 부여된다.

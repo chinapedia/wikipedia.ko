@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TOKIO](https://ko.wikipedia.org/wiki/:TOKIO).
+> This article is converted from Wikipedia: [틀:TOKIO](https://ko.wikipedia.org/wiki/틀:TOKIO).
 
 
 <onlyinclude></onlyinclude>

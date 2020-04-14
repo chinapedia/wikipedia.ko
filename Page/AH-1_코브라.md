@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AH-1 ](https://ko.wikipedia.org/wiki/AH-1_).
+> This article is converted from Wikipedia: [AH-1 코브라](https://ko.wikipedia.org/wiki/AH-1_코브라).
 
 
 **벨 AH-1 코브라** 또는 **휴이 코브라**, **코브라**, **시 코브라**, **슈퍼 코브라**, **바이퍼**"는 미국의 [벨 헬리콥터사에](https://ko.wikipedia.org/wiki/벨_헬리콥터 "wikilink") 의해 개발된 공격용 헬리콥터이다. [UH-1](https://ko.wikipedia.org/wiki/UH-1 "wikilink")의 엔진과 트랜스미션을 사용한다. 계열형 기체로는 단발기인 AH-1G, 1S, 1Q, 1F 코브라(Cobra)와 쌍발기인 AH-1J 시코브라(SeaCobra) AH-1W 슈퍼코브라(SuperCobra)나 AH-1Z 바이퍼(Viper)가 있다. [AH-1W 슈퍼코브라부터](../Page/AH-1W_슈퍼코브라.md "wikilink") [헬파이어 미사일을](https://ko.wikipedia.org/wiki/헬파이어_미사일 "wikilink") 장착한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GT](https://ko.wikipedia.org/wiki/_GT).
+> This article is converted from Wikipedia: [드래곤볼 GT](https://ko.wikipedia.org/wiki/드래곤볼_GT).
 
 
 [후지TV](https://ko.wikipedia.org/wiki/후지TV "wikilink"){{·}} [도에이 애니메이션](../Page/도에이_애니메이션.md "wikilink") |전편=[드래곤볼 Z](../Page/드래곤볼_Z.md "wikilink") |후편=[드래곤볼 카이](../Page/드래곤볼_카이.md "wikilink") }}

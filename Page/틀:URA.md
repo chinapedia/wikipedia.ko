@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:URA](https://ko.wikipedia.org/wiki/:URA).
+> This article is converted from Wikipedia: [틀:URA](https://ko.wikipedia.org/wiki/틀:URA).
 
 
 <onlyinclude></onlyinclude>

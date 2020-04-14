@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TTF 1. ](https://ko.wikipedia.org/wiki/TTF_1._).
+> This article is converted from Wikipedia: [TTF 1. 리그](https://ko.wikipedia.org/wiki/TTF_1._리그).
 
 
 <table>

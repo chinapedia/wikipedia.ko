@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UTAO-UTAO](https://ko.wikipedia.org/wiki/UTAO-UTAO).
 
 
-**UTAO-UTAO**은, [2005년](../Page/2005년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") 발매한 V6의 27번째의 싱글이다.
+**UTAO-UTAO**는 [2005년](../Page/2005년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") 발매한 V6의 27번째의 싱글이다.
 
 ## 설명
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RNA \(\)](https://ko.wikipedia.org/wiki/RNA_\(\)).
+> This article is converted from Wikipedia: [RNA \(드라마\)](https://ko.wikipedia.org/wiki/RNA_\(드라마\)).
 
 
 《**RNA**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [2000년](../Page/2000년.md "wikilink") [7월 10일부터](../Page/7월_10일.md "wikilink") [2000년](../Page/2000년.md "wikilink") [9월 5일까지](../Page/9월_5일.md "wikilink") 방송되었던 메디컬 [서스펜스](https://ko.wikipedia.org/wiki/서스펜스 "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.

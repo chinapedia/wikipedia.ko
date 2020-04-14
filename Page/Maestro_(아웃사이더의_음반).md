@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Maestro \( \)](https://ko.wikipedia.org/wiki/Maestro_\(_\)).
+> This article is converted from Wikipedia: [Maestro \(아웃사이더의 음반\)](https://ko.wikipedia.org/wiki/Maestro_\(아웃사이더의_음반\)).
 
 
 **''Maestro**''는 [2009년](../Page/2009년.md "wikilink")에 발매된 힙합 가수 [아웃사이더의](https://ko.wikipedia.org/wiki/아웃사이더_\(가수\) "wikilink") 두 번째 정규 음반이다. 타이틀곡은 〈**외톨이**〉이며 발매전에 음원이 유출되기도 했었다. 6곡의 선정적 가사로 인해 만 19세 이상의 나이가 된 사람만이 앨범을 구매할 수 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STAY \~ Soul\~](https://ko.wikipedia.org/wiki/STAY_\~_Soul\~).
+> This article is converted from Wikipedia: [STAY \~요아케노 Soul\~](https://ko.wikipedia.org/wiki/STAY_\~요아케노_Soul\~).
 
 
 《**STAY \~요아케노 Soul\~**》()은 [가넷 크로우의](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink") 7번째 정규 음반이다. [2009년](../Page/2009년.md "wikilink") [9월 30일에](../Page/9월_30일.md "wikilink") 발매됐으며 작사는 아즈키 나나, 작곡은 나카무라 유리, 편곡은 후루이 히로히토가 맡았다.

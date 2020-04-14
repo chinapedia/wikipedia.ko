@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WRC  ](https://ko.wikipedia.org/wiki/:WRC__).
+> This article is converted from Wikipedia: [틀:WRC 운전자 정보](https://ko.wikipedia.org/wiki/틀:WRC_운전자_정보).
 
 
 | 전체속성 = vcard | 전체모양 = width: 24em | 주제모양 = background: gainsboro

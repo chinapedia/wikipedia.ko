@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JVC   ](https://ko.wikipedia.org/wiki/JVC___).
+> This article is converted from Wikipedia: [JVC 켄우드 빅터 엔터테인먼트](https://ko.wikipedia.org/wiki/JVC_켄우드_빅터_엔터테인먼트).
 
 
 **JVC 켄우드 빅터 엔터테인먼트 주식회사**(, )는 음악 소프트 발매·판매 업무를 하는 [JVC 켄우드의](../Page/JVC.md "wikilink") 음악 전문 자회사이다. [1972년](../Page/1972년.md "wikilink") "빅터 음악 산업 주식회사"()로 설립되었고, [1993년](../Page/1993년.md "wikilink")에 회사명을 **빅터 엔터테인먼트**로 이름을 변경하였고, 2014년 4월 1일 현재의 회사명으로 변경하였다.

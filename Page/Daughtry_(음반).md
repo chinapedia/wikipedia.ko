@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Daughtry \(\)](https://ko.wikipedia.org/wiki/Daughtry_\(\)).
+> This article is converted from Wikipedia: [Daughtry \(음반\)](https://ko.wikipedia.org/wiki/Daughtry_\(음반\)).
 
 
 《**Daughtry**》는 [미국](../Page/미국.md "wikilink")의 록 밴드 [도트리](../Page/도트리.md "wikilink")가 발매한 데뷔 앨범이다 [사운드스캔](https://ko.wikipedia.org/wiki/사운드스캔 "wikilink") 사상 가장 빨리 팔린 데뷔 앨범이다.

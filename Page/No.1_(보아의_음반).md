@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [No.1 \( \)](https://ko.wikipedia.org/wiki/No.1_\(_\)).
+> This article is converted from Wikipedia: [No.1 \(보아의 음반\)](https://ko.wikipedia.org/wiki/No.1_\(보아의_음반\)).
 
 
 《**NO.1·늘...**》은 대한민국 여자 가수 보아의 한국 두 번째 정규 앨범이다. 일본에서 오리콘 차트 1위를 기록 한 뒤, 컴백한 국내 첫 앨범이기도 하다. 그런 보아의 모습을 미국, 유럽, 일본, 중국 등 많은 외국 작곡가들로부터 곡을 받기도 하였다. 일본 오리콘 차트 1위 앨범인 《[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(음반\).md "wikilink")》의 타이틀이자 대표곡인 〈[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(노래\).md "wikilink")〉를 보너스 트랙으로 한국어로 번안하여 수록 하였다. 타이틀 곡 〈NO.1〉은 밝은 유로팝 스타일의 댄스 곡으로 세계를 대표하는 최고의 가수가 되고 싶다는 포부를 담은 곡이다. 같은 소속사 선배인 강타는 이 앨범에 〈늘 (Waiting)...〉,〈난〉이렇게 두 곡에 참여했다. 보아도 한국에서는 첫 자작곡인 〈Realize〉를 수록하였다. 지금까지 보아의 한국 음반 판매량 가운데 가장 높은 판매량을 기록하고 있는 앨범이기도 하다. 보너스 데이터인 컨텐츠에는 보아와의 인터뷰, 자켓 촬영 스케치, 강타와 함께한 녹음 현장 등의 영상이 포함되어 있다.

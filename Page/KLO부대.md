@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [KLO](https://ko.wikipedia.org/wiki/KLO).
+> This article is converted from Wikipedia: [KLO부대](https://ko.wikipedia.org/wiki/KLO부대).
 
 
-**KLO** ()는 [미국 극동사령부의](https://ko.wikipedia.org/wiki/극동_사령부_\(미국\) "wikilink") [첩보](https://ko.wikipedia.org/wiki/첩보 "wikilink")/[게릴라](https://ko.wikipedia.org/wiki/게릴라 "wikilink") 부대이다. 미군이 관할, 운용했지만 한국인으로 구성되었고, 한국전쟁 발발 이전부터 휴전때까지 계속 활동하였다. "주한 첩보연락처" 혹은 "주한국연락반", "켈로 부대", "제8240부대" 등으로도 알려져 있다.
+**KLO**()는 [미국 극동사령부의](https://ko.wikipedia.org/wiki/극동_사령부_\(미국\) "wikilink") [첩보](https://ko.wikipedia.org/wiki/첩보 "wikilink")/[게릴라](https://ko.wikipedia.org/wiki/게릴라 "wikilink") 부대이다. 미군이 관할, 운용했지만 한국인으로 구성되었고, 한국전쟁 발발 이전부터 휴전때까지 계속 활동하였다. "주한 첩보연락처" 혹은 "주한국연락반", "켈로 부대", "제8240부대" 등으로도 알려져 있다.
 
 ## 역사
 

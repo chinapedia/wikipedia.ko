@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK ](https://ko.wikipedia.org/wiki/SK_).
+> This article is converted from Wikipedia: [SK 게이밍](https://ko.wikipedia.org/wiki/SK_게이밍).
 
 
 **SK 게이밍**()은 [독일](../Page/독일.md "wikilink")의 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink") 팀이다. 1997년 [오버하우젠](../Page/오버하우젠.md "wikilink")의 [퀘이크](https://ko.wikipedia.org/wiki/퀘이크_\(시리즈\) "wikilink") 이용자들의 소모임으로 설립되었다. 《[카운터 스트라이크](https://ko.wikipedia.org/wiki/카운터_스트라이크 "wikilink")》, 《[리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink")》, 《[FIFA](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink")》, 《[퀘이크 III](https://ko.wikipedia.org/wiki/퀘이크_III "wikilink")》등의 PC게임과 [XBOX 360용](https://ko.wikipedia.org/wiki/XBOX_360 "wikilink") 콘솔 게임에 이르기까지 다양한 게임에 걸쳐 전문 게이머와 팀을 보유하고 있다.

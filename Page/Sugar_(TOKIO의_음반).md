@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sugar \(TOKIO \)](https://ko.wikipedia.org/wiki/Sugar_\(TOKIO_\)).
+> This article is converted from Wikipedia: [Sugar \(TOKIO의 음반\)](https://ko.wikipedia.org/wiki/Sugar_\(TOKIO의_음반\)).
 
 
 《**sugar**》는 TOKIO의 11번째 정규 앨범. [2008년](../Page/2008년.md "wikilink") [2월 20일에](../Page/2월_20일.md "wikilink") 발매하였고, 레이블인 유니버설 뮤직 재팬에서 발매한 마지막 앨범이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H ](https://ko.wikipedia.org/wiki/H_).
+> This article is converted from Wikipedia: [H 지수](https://ko.wikipedia.org/wiki/H_지수).
 
 
 ***h* 지수**(*h*-index), 또는 **허쉬 지표**는 [연구자의](https://ko.wikipedia.org/wiki/연구원 "wikilink") 연구 생산성과 영향력을 알아보기 위한 지표이다.

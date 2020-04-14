@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [동아TV](https://ko.wikipedia.org/wiki/동아TV).
 
 
 **동아TV**(Donga TV)는 여성을 메인 타깃으로 한 패션 및 라이프 스타일 전문 텔레비전 채널이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LF \(\)](https://ko.wikipedia.org/wiki/LF_\(\)).
+> This article is converted from Wikipedia: [LF \(기업\)](https://ko.wikipedia.org/wiki/LF_\(기업\)).
 
 
 **LF**(LF; )은 [대한민국](../Page/대한민국.md "wikilink")의 기성복 및 패션 잡화 제조업체이다. 모기업은 [1953년](../Page/1953년.md "wikilink") [11월](../Page/11월.md "wikilink") 설립된 락희산업(현 LG상사)이다. [2006년](../Page/2006년.md "wikilink") [LG상사](../Page/LG상사.md "wikilink")에서 분리되어 출범하였다. [1995년](../Page/1995년.md "wikilink")까지는 반도패션이라는 사명을 사용하다가 [1995년 9월](https://ko.wikipedia.org/wiki/1995년_9월 "wikilink") LG패션으로 CI를 변경하였다.

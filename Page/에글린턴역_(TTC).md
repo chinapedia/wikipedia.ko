@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(TTC\)](https://ko.wikipedia.org/wiki/_\(TTC\)).
+> This article is converted from Wikipedia: [에글린턴역 \(TTC\)](https://ko.wikipedia.org/wiki/에글린턴역_\(TTC\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Eglinton_Station_-_TTC.jpg "wikilink")

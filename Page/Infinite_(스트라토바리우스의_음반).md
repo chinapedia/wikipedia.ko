@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Infinite \( \)](https://ko.wikipedia.org/wiki/Infinite_\(_\)).
+> This article is converted from Wikipedia: [Infinite \(스트라토바리우스의 음반\)](https://ko.wikipedia.org/wiki/Infinite_\(스트라토바리우스의_음반\)).
 
 
 **Infinite**는 [핀란드](../Page/핀란드.md "wikilink") [파워 메탈밴드](../Page/파워_메탈.md "wikilink") [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 정규 8집 앨범이다. [누클리어 블라스트](https://ko.wikipedia.org/wiki/누클리어_블라스트 "wikilink") 레이블을 통해 발매한 첫 앨범이기도 하다.

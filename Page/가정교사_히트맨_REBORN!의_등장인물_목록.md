@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  REBORN!  ](https://ko.wikipedia.org/wiki/__REBORN!__).
+> This article is converted from Wikipedia: [가정교사 히트맨 REBORN!의 등장인물 목록](https://ko.wikipedia.org/wiki/가정교사_히트맨_REBORN!의_등장인물_목록).
 
 
 다음은 **[가정교사 히트맨 REBORN\!](../Page/가정교사_히트맨_REBORN!.md "wikilink")**의 **등장인물 목록**이다.

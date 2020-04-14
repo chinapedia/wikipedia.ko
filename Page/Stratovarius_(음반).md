@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Stratovarius \(\)](https://ko.wikipedia.org/wiki/Stratovarius_\(\)).
+> This article is converted from Wikipedia: [Stratovarius \(음반\)](https://ko.wikipedia.org/wiki/Stratovarius_\(음반\)).
 
 
 **Stratovarius**는 [핀란드](../Page/핀란드.md "wikilink") [파워 메탈](../Page/파워_메탈.md "wikilink") 밴드 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 셀프타이틀 앨범이다. 2004년 티모 톨키의 갑작스러운 밴드 해체 선언으로 잠시 활동이 중단되었다가 2005년 1월 밴드가 재결합한 후에 발매되었다. 앨범 발매 이후 최초로 [미국](../Page/미국.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink") 등지에서 시작하는 월드 투어를 진행했다. 의도한 것은 아니지만, 이 앨범은 오랫동안 밴드에 몸담았던 [티모 톨키가](../Page/티모_톨키.md "wikilink") 참여한 마지막 앨범이 되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [메자마시 TV](https://ko.wikipedia.org/wiki/메자마시_TV).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:후지TV.jpg "wikilink") **메자마시 TV**(, )은 [후지 TV](../Page/후지_TV.md "wikilink")([FNN](../Page/후지_뉴스_네트워크.md "wikilink"))계열을 통해 [1994년](../Page/1994년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") 방송하고 있는 아침 정보프로그램이다. 일반적으로는 **자각 TV**로 줄여서 부르기도 한다. 뉴스와 정보를 함께 다루고 있어, [NHK 종합 TV의](../Page/NHK_종합_텔레비전.md "wikilink") 《[NHK 뉴스 안녕 일본](https://ko.wikipedia.org/wiki/NHK_뉴스_안녕_일본 "wikilink")》과 [NTV의](https://ko.wikipedia.org/wiki/니혼_텔레비전 "wikilink") 《[NNN 뉴스 ZIP\!](https://ko.wikipedia.org/wiki/NNN_뉴스_ZIP! "wikilink")》, [TBS의](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 《[아사쨩\!](https://ko.wikipedia.org/wiki/아사쨩! "wikilink")》, [TV아사히](https://ko.wikipedia.org/wiki/TV아사히 "wikilink")의 《[굿\!모닝](https://ko.wikipedia.org/wiki/굿!모닝 "wikilink")》과 동시에 경쟁하고 있다.

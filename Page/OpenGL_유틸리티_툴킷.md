@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OpenGL  ](https://ko.wikipedia.org/wiki/OpenGL__).
+> This article is converted from Wikipedia: [OpenGL 유틸리티 툴킷](https://ko.wikipedia.org/wiki/OpenGL_유틸리티_툴킷).
 
 
 **OpenGL 유틸리티 툴킷**(OpenGL Utility Toolkit, GLUT)은 호스트 운영체제와 시스템 수준의 입출력을 가능하게 만드는 [OpenGL](../Page/OpenGL.md "wikilink") 프로그램용 유틸리티 라이브러리이다. 주요한 기능으로 창의 크기와 형태를 정의하고 제어하며, 키보드와 마우스 입력을 감지하는 기능이 있다. 뿐만 아니라 [정육각형](https://ko.wikipedia.org/wiki/정육각형 "wikilink"), [구](../Page/구_\(기하학\).md "wikilink"), [유타 찻잔과](https://ko.wikipedia.org/wiki/유타_찻잔 "wikilink") 같은 컴퓨터 그래픽스에서 요긴한 몇가지 기하학적인 기본객체(geometric primitives)를 그려주는 루틴도 가지고 있으며, 팝업 메뉴를 생성하는 기능도 제공한다.

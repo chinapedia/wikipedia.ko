@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+> This article is converted from Wikipedia: [EBS 국제다큐영화제](https://ko.wikipedia.org/wiki/EBS_국제다큐영화제).
 
 
 **EBS국제다큐영화제**(EBS International Documentary Festival, 약칭 **EIDF**)는 [2004년](../Page/2004년.md "wikilink")부터 시작한 부분경쟁 국제 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink") [영화제](../Page/영화제.md "wikilink")이다.

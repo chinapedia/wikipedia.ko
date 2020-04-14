@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Led Zeppelin \(\)](https://ko.wikipedia.org/wiki/Led_Zeppelin_\(\)).
+> This article is converted from Wikipedia: [Led Zeppelin \(음반\)](https://ko.wikipedia.org/wiki/Led_Zeppelin_\(음반\)).
 
 
 《**Led Zeppelin**》은 [영국](../Page/영국.md "wikilink")의 록 밴드 [레드 제플린의](../Page/레드_제플린.md "wikilink") 데뷔 음반이다. 1969년 1월 12일 [미국](../Page/미국.md "wikilink")에서, 그리고 3월 31일 [애틀랜틱 레코드에](../Page/애틀랜틱_레코드.md "wikilink") 의해 영국에서 발매되었다.

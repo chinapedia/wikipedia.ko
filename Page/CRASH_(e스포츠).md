@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CRASH \(e\)](https://ko.wikipedia.org/wiki/CRASH_\(e\)).
+> This article is converted from Wikipedia: [CRASH \(e스포츠\)](https://ko.wikipedia.org/wiki/CRASH_\(e스포츠\)).
 
 
 **CRASH**(크래쉬)는 [SPOTV 게임즈에서](https://ko.wikipedia.org/wiki/SPOTV_게임즈 "wikilink") 주최, 주관하는 격투게임 대회이다. 2011년까지는 MBC 플러스미디어가 주최, [MBC 게임에서](../Page/MBC_게임.md "wikilink") 주관\[1\]하였으며 반다이남코게임스, 윈디소프트, 연세어뮤즈먼트에서 후원하였다.

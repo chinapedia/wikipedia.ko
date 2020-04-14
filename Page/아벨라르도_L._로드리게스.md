@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [아벨라르도 L. 로드리게스](https://ko.wikipedia.org/wiki/아벨라르도_L._로드리게스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Abelardo.rodriguez.jpg "wikilink") **아벨라르도 L. 로드리게스** (Abelardo Rodríguez Luján, [1889년](../Page/1889년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") \~ [1967년](../Page/1967년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink"))는 1932년부터 1934년까지 잠시 [멕시코](../Page/멕시코.md "wikilink")의 [대통령](../Page/대통령.md "wikilink")을 역임하면서 [파스쿠알 오르티스 루비오가](https://ko.wikipedia.org/wiki/파스쿠알_오르티스_루비오 "wikilink") 사임한 이후 남은 임기를 채웠다.

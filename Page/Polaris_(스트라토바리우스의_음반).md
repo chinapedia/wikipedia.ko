@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Polaris \( \)](https://ko.wikipedia.org/wiki/Polaris_\(_\)).
+> This article is converted from Wikipedia: [Polaris \(스트라토바리우스의 음반\)](https://ko.wikipedia.org/wiki/Polaris_\(스트라토바리우스의_음반\)).
 
 
 **Polaris**는 [핀란드](../Page/핀란드.md "wikilink") [파워 메탈](../Page/파워_메탈.md "wikilink") 밴드 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 정규 12번째 앨범이다. 기타리스트 [마티아스 쿠피아이넨](../Page/마티아스_쿠피아이넨.md "wikilink"), 베이시스트 [로리 포라등을](https://ko.wikipedia.org/wiki/로리_포라 "wikilink") 영입해 발매한 첫 번째 앨범이며, 오랜시간 함께 해 왔던 기타리스트 [티모 톨키가](../Page/티모_톨키.md "wikilink") 참여하지 않은 스트라토바리우스의 첫 앨범이기도 하다. 보컬 [티모 코티펠토는](https://ko.wikipedia.org/wiki/티모_코티펠토는 "wikilink") 이 앨범에 대해 '명쾌하며 힘이 넘치는 앨범으로, 전 세계의 스트라토바리우스 팬들도 이와 같은 느낌을 받을 것'이라고 말했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS 12 ](https://ko.wikipedia.org/wiki/SBS_12_).
+> This article is converted from Wikipedia: [SBS 12 뉴스](https://ko.wikipedia.org/wiki/SBS_12_뉴스).
 
 
 《**SBS 12 뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") [SBS](../Page/SBS.md "wikilink")에서 평일 낮 12시에 방송되는 [SBS의 낮 뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
@@ -10,7 +10,7 @@
 
 ## 방송 시간
 
-현재 방송시간은 [2016년](../Page/2016년.md "wikilink") [2월 15일부터를](../Page/2월_15일.md "wikilink") 기준으로 한다.
+현재 방송시간은 [2016년](../Page/2016년.md "wikilink") [4월 25일부터를](../Page/4월_25일.md "wikilink") 기준으로 한다.
 
 | 방송 채널                                                                                                                                                        | 방송 기간                                                                                                                                                        | 방송 시간                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
@@ -27,8 +27,8 @@
 | [2009년](../Page/2009년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 오후 1시 (1시간)                                                                                       |                                                                                             |
 | [2014년](../Page/2014년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 45분 (45분)                                                                                     |                                                                                             |
 | [2015년](../Page/2015년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 50분 (50분)                                                                                     |                                                                                             |
-| [2016년](../Page/2016년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") \~ **현재**                                                                        |                                                                                                                                                              |                                                                                             |
-| [2015년](../Page/2015년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 50분 \~ 낮 12시 45분 (55분)                                                                              |                                                                                             |
+| [2016년](../Page/2016년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ **현재**                                                                        |                                                                                                                                                              |                                                                                             |
+| [2015년](../Page/2015년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 50분 \~ 낮 12시 45분 (55분)                                                                              |                                                                                             |
 
 ※ [공휴일에는](../Page/대한민국의_공휴일.md "wikilink") 10분간 **SBS 뉴스**로 대체 편성된다.
 

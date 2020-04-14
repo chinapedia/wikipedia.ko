@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [This Is It \(\)](https://ko.wikipedia.org/wiki/This_Is_It_\(\)).
+> This article is converted from Wikipedia: [This Is It \(콘서트\)](https://ko.wikipedia.org/wiki/This_Is_It_\(콘서트\)).
 
 
 **This Is It**은 팝의 황제 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 투어이다. 이 투어는 [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")에 [O2 아레나에서](https://ko.wikipedia.org/wiki/O2_아레나 "wikilink") 열릴 계획이었다. 이 투어는 [2009년](../Page/2009년.md "wikilink") 7월부터 [2010년](../Page/2010년.md "wikilink") 3월까지 이어질 예정이었다. 첫 번째 투어 티켓은 전부 매진되었으나, [마이클 잭슨이](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 갑자기 사망하여, 투어가 취소되었다. 그러나 티켓을 산 사람들은 환불하지 않고 유품으로 간직하거나 심지어 경매에 팔았다.
