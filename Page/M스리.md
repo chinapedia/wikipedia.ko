@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [M](https://ko.wikipedia.org/wiki/M).
+> This article is converted from Wikipedia: [M스리](https://ko.wikipedia.org/wiki/M스리).
 
 
 **M쓰리**(M Three)는 [2013년](../Page/2013년.md "wikilink")에 결성된 [페어리즈](../Page/페어리즈.md "wikilink")의 멤버 3명이 결성한 유닛이다. 소속 사무소는 [라이징 프로덕션](../Page/라이징_프로덕션.md "wikilink"), 레이블은 [SONIC GROOVE](https://ko.wikipedia.org/wiki/에이벡스 "wikilink").

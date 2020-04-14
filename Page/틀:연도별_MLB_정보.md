@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: MLB ](https://ko.wikipedia.org/wiki/:_MLB_).
+> This article is converted from Wikipedia: [틀:연도별 MLB 정보](https://ko.wikipedia.org/wiki/틀:연도별_MLB_정보).
 
 
 }; color: }}}}}} | 주제모양 = background:\#DDDDDD

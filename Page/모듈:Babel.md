@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Babel](https://ko.wikipedia.org/wiki/:Babel).
+> This article is converted from Wikipedia: [모듈:Babel](https://ko.wikipedia.org/wiki/모듈:Babel).
 
 
 local p = {}

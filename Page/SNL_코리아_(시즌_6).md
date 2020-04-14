@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNL  \( 6\)](https://ko.wikipedia.org/wiki/SNL__\(_6\)).
+> This article is converted from Wikipedia: [SNL 코리아 \(시즌 6\)](https://ko.wikipedia.org/wiki/SNL_코리아_\(시즌_6\)).
 
 
 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》의 여섯 번째 시즌은 2015년 2월 14일부터 2015년 12월 26일까지 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방영 했던 프로그램이다. 시즌 중에 2개월 정도 휴식기를 가졌다.\[1\]
@@ -20,6 +20,7 @@
   - [정연주](../Page/정연주_\(배우\).md "wikilink")
   - [리아](../Page/리아_\(방송인\).md "wikilink")
   - [이해우](../Page/이해우.md "wikilink")
+  - [김일중](https://ko.wikipedia.org/wiki/김일중 "wikilink")
 
 ## 방영 목록
 

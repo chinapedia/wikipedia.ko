@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DRAMA \( EP\)](https://ko.wikipedia.org/wiki/DRAMA_\(_EP\)).
+> This article is converted from Wikipedia: [DRAMA \(나인뮤지스의 EP\)](https://ko.wikipedia.org/wiki/DRAMA_\(나인뮤지스의_EP\)).
 
 
 《**DRAMA**》는 대한민국의 여성 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 세 번째 미니 앨범이다. 2015년 1월 23일에 발매되었다. 타이틀곡은 드라마(DRAMA)이다. 새 멤버로 영입된 [소진과](https://ko.wikipedia.org/wiki/소진_\(1991년\) "wikilink") [금조가](../Page/금조_\(가수\).md "wikilink") 처음으로 참여하게 되었다.

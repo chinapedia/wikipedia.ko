@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I love you !](https://ko.wikipedia.org/wiki/_I_love_you_!).
+> This article is converted from Wikipedia: [소극적인 I love you !](https://ko.wikipedia.org/wiki/소극적인_I_love_you_!).
 
 
 〈**소극적인 I love you \!**〉()는, [HKT48](../Page/HKT48.md "wikilink")의 4번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

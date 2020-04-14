@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WPMILHIST Infobox style](https://ko.wikipedia.org/wiki/:WPMILHIST_Infobox_style).
+> This article is converted from Wikipedia: [모듈:WPMILHIST Infobox style](https://ko.wikipedia.org/wiki/모듈:WPMILHIST_Infobox_style).
 
 
 local retval = {

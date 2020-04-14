@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S ](https://ko.wikipedia.org/wiki/_S_).
+> This article is converted from Wikipedia: [캠퍼스 S 커플](https://ko.wikipedia.org/wiki/캠퍼스_S_커플).
 
 
 《**캠퍼스 S 커플**》은 [2014년](../Page/2014년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.

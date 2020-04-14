@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IOM](https://ko.wikipedia.org/wiki/IOM).
+> This article is converted from Wikipedia: [IOM이민정책연구원](https://ko.wikipedia.org/wiki/IOM이민정책연구원).
 
 
 **IOM이민정책연구원**(IOM移民政策硏究院, )은 [국제이주기구](../Page/국제이주기구.md "wikilink")(IOM)와 대한민국 정부 간 협정으로 이민정책 개발 및 학술연구를 통해 대한민국 이민정책의 발전방향을 제시하기 위하여 설립된 [대한민국 법무부](../Page/대한민국_법무부.md "wikilink") 산하 [공공기관](https://ko.wikipedia.org/wiki/공공기관 "wikilink")이다.\[1\]\[2\]\[3\] [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink") [일산동구](../Page/일산동구.md "wikilink") 정발산로 24 웨스턴타워 4동 8, 9층에 있다.

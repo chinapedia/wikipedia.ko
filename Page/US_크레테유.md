@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US ](https://ko.wikipedia.org/wiki/US_).
+> This article is converted from Wikipedia: [US 크레테유](https://ko.wikipedia.org/wiki/US_크레테유).
 
 
 **US 크레테유-뤼지타노스**()는 [프랑스](../Page/프랑스.md "wikilink") [일드프랑스](../Page/일드프랑스.md "wikilink") 지역 [크레테유](https://ko.wikipedia.org/wiki/크레테유 "wikilink")를 연고로 하는 축구 클럽이다. 현재는 [리그 2에](../Page/리그_2.md "wikilink") 참가하고 있다. 클럽 최다출장 기록은 [Boris Mahon de Monaghan](https://ko.wikipedia.org/wiki/Boris_Mahon_de_Monaghan "wikilink") 선수로 크레테유 소속으로 총 234경기를 출장했다.

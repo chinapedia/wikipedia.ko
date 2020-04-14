@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA U-19   ](https://ko.wikipedia.org/wiki/UEFA_U-19___).
+> This article is converted from Wikipedia: [UEFA U-19 축구 선수권 대회](https://ko.wikipedia.org/wiki/UEFA_U-19_축구_선수권_대회).
 
 
 **UEFA U-19 축구 선수권 대회**(UEFA European Under-19 Championship)는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 주관하는 19세 이하 [축구](../Page/축구.md "wikilink") 국가대표팀 간의 국가대항전이다. 짝수 해에 열리는 대회는 [FIFA U-20 월드컵의](../Page/FIFA_U-20_월드컵.md "wikilink") 유럽 지역 예선을 겸한다.

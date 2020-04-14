@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 아카](https://ko.wikipedia.org/wiki/LG_아카).
 
 
 **LG 아카 (LG AKA)**는 한중 최초 페르소나 [스마트폰](../Page/스마트폰.md "wikilink")이다. 우키, 에기, 소울, 요요 이렇게 네 개의 캐릭터가 있으며, 각 컬러마다 UI가 다르다. 출시 초기에는 아카를 구입하면 다른 색상의 케이스를 추가 증정하기도 했다.\[1\]

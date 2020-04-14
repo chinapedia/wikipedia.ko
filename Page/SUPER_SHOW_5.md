@@ -50,7 +50,7 @@
 <td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[6]</p></td>
-<td><p>통산 26,498명</p></td>
+<td><p>통산 28,264명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013년 3월 24일</p></td>
@@ -106,7 +106,7 @@
 <td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
 <td><p>마타 일랑 인터네셔널 스타디움</p></td>
-<td><p>통산 23,596명</p></td>
+<td><p>통산 23,956명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013년 6월 2일</p></td>
@@ -155,7 +155,7 @@
 <td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임팩트 아레나 무앙 통 타니[14]</p></td>
-<td><p>통산 29,197명</p></td>
+<td><p>통산 29,971명</p></td>
 </tr>
 <tr class="even">
 <td><p>2013년 8월 4일</p></td>
@@ -169,7 +169,7 @@
 <td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[15]</p></td>
-<td><p>통산 30,894명</p></td>
+<td><p>통산 35,024명</p></td>
 </tr>
 <tr class="even">
 <td><p>2013년 8월 11일</p></td>
@@ -246,7 +246,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
 <td></td>
 <td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a>[21]</p></td>
-<td><p>통산 90,492명</p></td>
+<td><p>통산 100,592명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013년 11월 16일</p></td>
@@ -277,7 +277,7 @@
 <td><p>13,896명</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>총 누적 관객 - 502,072명</strong></p></td>
+<td><p><strong>총 누적 관객 - 519,202명</strong></p></td>
 <td></td>
 <td></td>
 <td></td>

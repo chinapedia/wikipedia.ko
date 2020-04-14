@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC   ](https://ko.wikipedia.org/wiki/:FC___).
+> This article is converted from Wikipedia: [틀:FC 우파 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_우파_선수_명단).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [수판부리 FC](https://ko.wikipedia.org/wiki/수판부리_FC).
 
 
 **수판부리 FC**()는 [태국](../Page/태국.md "wikilink")의 [수판부리](../Page/수판부리.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V ](https://ko.wikipedia.org/wiki/V_).
+> This article is converted from Wikipedia: [V 에어](https://ko.wikipedia.org/wiki/V_에어).
 
 
 **V 에어**(, )은 [중화민국](../Page/중화민국.md "wikilink")의 [저가 항공사로](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") [2014년](../Page/2014년.md "wikilink")에 운항하기 시작했다. [중화민국](../Page/중화민국.md "wikilink")의 [항공사](https://ko.wikipedia.org/wiki/항공사 "wikilink")인 [트랜스아시아 항공이](../Page/트랜스아시아_항공.md "wikilink") 지분 100%를 가지고 있다. 대만에서 반경 4시간 내의 동북/동남 아시아 지역으로 취항하여 노선망을 넓힐 예정이다. [에어버스 A321-200](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink") 2대를 운항 중이며, [2016년](../Page/2016년.md "wikilink")까지 6대로 늘릴 계획이다.\[1\]

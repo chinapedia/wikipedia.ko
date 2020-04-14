@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ tRNA ](https://ko.wikipedia.org/wiki/_tRNA_).
+> This article is converted from Wikipedia: [아미노아실 tRNA 합성효소](https://ko.wikipedia.org/wiki/아미노아실_tRNA_합성효소).
 
 
 **아미노아실 tRNA 합성효소**(aminoacyl tRNA synthetase, aaRS)는 [아미노산](../Page/아미노산.md "wikilink")을 활성화시켜 [tRNA](https://ko.wikipedia.org/wiki/tRNA "wikilink")와 연결 시켜주는 효소이다. 아미노산의 개수와 같이 20개가 있어야 하나 글루탐산을 활성화 시키는 ERS와 프롤린을 활성화 시키는 PRS가 합쳐져 EPRS로 존재하기 때문에 19개로 존재한다. [미토콘드리아](../Page/미토콘드리아.md "wikilink")에서는 따로 존재하여 20개가 존재한다.

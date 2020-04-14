@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CRD ](https://ko.wikipedia.org/wiki/CRD_).
+> This article is converted from Wikipedia: [CRD 리볼루](https://ko.wikipedia.org/wiki/CRD_리볼루).
 
 
 **클루브 헤크레아티부 데스포르티부 두 리볼루**(Clube Recreativo Desportivo do Libolo)는 **헤크레아티부 두 리볼루**또는 **CRD 리볼루**로 잘 알려진 [앙골라](../Page/앙골라.md "wikilink")의 [축구](../Page/축구.md "wikilink")팀이다. 이 구단은 앙골라의 도시 [리볼루](https://ko.wikipedia.org/wiki/리볼루 "wikilink")를 연고지로 하고 있으며 현재 앙골라 최상위 리그 [지라볼라](https://ko.wikipedia.org/wiki/지라볼라 "wikilink")에 소속되어 있다. 2014 시즌 지라볼라에서 우승을 할 만큼 앙골라의 막강한 축구팀이다.

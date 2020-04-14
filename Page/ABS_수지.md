@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABS ](https://ko.wikipedia.org/wiki/ABS_).
+> This article is converted from Wikipedia: [ABS 수지](https://ko.wikipedia.org/wiki/ABS_수지).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Grãos_de_plástico_ABS_\(ABS_plastic_grains\).jpg "wikilink") **ABS 수지**(acrylonitrile butadiene styrene copolymer)는 [아크릴로나이트릴](https://ko.wikipedia.org/wiki/아크릴로나이트릴 "wikilink"), [뷰타다이엔](https://ko.wikipedia.org/wiki/뷰타다이엔 "wikilink"), [스타이렌](https://ko.wikipedia.org/wiki/스타이렌 "wikilink")의 세가지 성분으로 이뤄진 스타이렌 수지이다.

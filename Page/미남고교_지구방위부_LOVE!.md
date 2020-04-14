@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  LOVE!](https://ko.wikipedia.org/wiki/__LOVE!).
+> This article is converted from Wikipedia: [미남고교 지구방위부 LOVE!](https://ko.wikipedia.org/wiki/미남고교_지구방위부_LOVE!).
 
 
-**미남고교 지구방위부 LOVE\!** ()는 2015년 1월에 방영된 애니메이션으로 [우마타니 쿠라리가](https://ko.wikipedia.org/wiki/우마타니_쿠라리 "wikilink") 만들고 디오미디어가 제작했다. 감독은 타카마츠 신지, 각본은 요코테 미치코이다. 2015년 1월 6일부터 3월 24일까지 방영되었다. 이 이야기는 평범한 소년들이 외계로부터 온 신비한 [생명체](https://ko.wikipedia.org/wiki/생명체 "wikilink")가 준 이상한 힘을 가지게 되어, 자신들이 '방위부'가 되는 이야기이다. 5인 각각 독특한 선천적인 힘으로 전지구의 적과 싸우러 나가는 이야기다.
+**미남고교 지구방위부 LOVE\!**()는 2015년 1월에 방영된 애니메이션으로 [우마타니 쿠라리가](https://ko.wikipedia.org/wiki/우마타니_쿠라리 "wikilink") 만들고 디오미디어가 제작했다. 감독은 타카마츠 신지, 각본은 요코테 미치코이다. 2015년 1월 6일부터 3월 24일까지 방영되었다. 이 이야기는 평범한 소년들이 외계로부터 온 신비한 [생명체](https://ko.wikipedia.org/wiki/생명체 "wikilink")가 준 이상한 힘을 가지게 되어, 자신들이 '방위부'가 되는 이야기이다. 5인 각각 독특한 선천적인 힘으로 전지구의 적과 싸우러 나가는 이야기다.
 
 동년 8월의 이벤트에서 제2기의 제작이 발표되었다. 제2기는 2016년 7월부터 9월까지 방영되었다.
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Go! Go!   ](https://ko.wikipedia.org/wiki/Go!_Go!___).
+> This article is converted from Wikipedia: [Go! Go! 다섯 쌍둥이의 등장인물](https://ko.wikipedia.org/wiki/Go!_Go!_다섯_쌍둥이의_등장인물).
 
 
 **괴짜가족의 등장인물**은 하마오카 켄지의 개그 만화인 [Go\! Go\! 다섯 쌍둥이](../Page/Go!_Go!_다섯_쌍둥이.md "wikilink") 및 그것을 원작으로 하는 애니메이션의 가공의 인물 목록이다.

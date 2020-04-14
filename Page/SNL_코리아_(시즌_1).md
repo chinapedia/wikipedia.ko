@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNL  \( 1\)](https://ko.wikipedia.org/wiki/SNL__\(_1\)).
+> This article is converted from Wikipedia: [SNL 코리아 \(시즌 1\)](https://ko.wikipedia.org/wiki/SNL_코리아_\(시즌_1\)).
 
 
 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》의 첫 번째 시즌은 2011년 12월 3일부터 2012년 1월 21일까지 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방송되었다.

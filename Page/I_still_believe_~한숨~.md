@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I still believe \~\~](https://ko.wikipedia.org/wiki/I_still_believe_\~\~).
+> This article is converted from Wikipedia: [I still believe \~한숨\~](https://ko.wikipedia.org/wiki/I_still_believe_\~한숨\~).
 
 
 〈**I still believe \~한숨\~**〉()는 [시즈쿠사 유미의](https://ko.wikipedia.org/wiki/시즈쿠사_유미 "wikilink") 여덟 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
@@ -11,7 +11,7 @@
 
 ## 수록곡
 
-1.  **I still believe \~한숨\~** ()
+1.  **I still believe \~한숨\~**()
       - 작사: 시즈쿠사 유미, 작곡 · 편곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink")
 2.  **Wonderful World**
       - 작사: 시즈쿠사 유미, 작곡: [미요시 마코토](https://ko.wikipedia.org/wiki/미요시_마코토 "wikilink"), 편곡: 토쿠나가 아키히토

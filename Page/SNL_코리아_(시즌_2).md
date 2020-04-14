@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNL  \( 2\)](https://ko.wikipedia.org/wiki/SNL__\(_2\)).
+> This article is converted from Wikipedia: [SNL 코리아 \(시즌 2\)](https://ko.wikipedia.org/wiki/SNL_코리아_\(시즌_2\)).
 
 
 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》의 두 번째 시즌은 2012년 5월 26일부터 7월 14일까지 tvN에서 방송되었다.

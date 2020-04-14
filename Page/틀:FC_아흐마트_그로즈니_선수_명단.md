@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC    ](https://ko.wikipedia.org/wiki/:FC____).
+> This article is converted from Wikipedia: [틀:FC 아흐마트 그로즈니 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_아흐마트_그로즈니_선수_명단).
 
 
 <onlyinclude></onlyinclude>

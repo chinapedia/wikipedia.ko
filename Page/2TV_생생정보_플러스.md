@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2TV  ](https://ko.wikipedia.org/wiki/2TV__).
+> This article is converted from Wikipedia: [2TV 생생정보 플러스](https://ko.wikipedia.org/wiki/2TV_생생정보_플러스).
 
 
 《**2TV 생생정보 플러스**》는 매주 [월요일](../Page/월요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink") 밤 8시 30분에 방영되는 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
@@ -42,7 +42,7 @@
 | 역대 | 타이틀            | 방송 기간                                                                                                                                                      |
 | -- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1대 | 생생정보통 플러스      | [2013년](../Page/2013년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") |
-| 2대 | 2TV 저녁 생생정보 2부 | [2015년](../Page/2015년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink")   |
+| 2대 | 2TV 저녁 생생정보 2부 | [2015년](../Page/2015년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink")   |
 | 3대 | 생생정보           | [2015년](../Page/2015년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink")   |
 | 4대 | 2TV 생생정보 플러스   | [2015년](../Page/2015년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") |
 |    |                |                                                                                                                                                            |

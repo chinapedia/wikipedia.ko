@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. P. ](https://ko.wikipedia.org/wiki/J._P._).
+> This article is converted from Wikipedia: [J. P. 하월](https://ko.wikipedia.org/wiki/J._P._하월).
 
 
 **제임스 필립 하월**(, [1983년](../Page/1983년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")출신의 야구 선수이자, [아메리칸 리그](../Page/아메리칸_리그.md "wikilink") 전 [토론토 블루제이스의](../Page/토론토_블루제이스.md "wikilink") 선수이다.

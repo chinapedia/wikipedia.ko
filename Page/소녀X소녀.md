@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [소녀X소녀](https://ko.wikipedia.org/wiki/소녀X소녀).
 
 
 《**소녀X소녀**》(소녀바이소녀)는 [2007년](../Page/2007년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.

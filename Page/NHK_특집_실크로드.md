@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 특집 실크로드](https://ko.wikipedia.org/wiki/NHK_특집_실크로드).
 
 
 **NHK 특집 실크로드**()는 1980년대에 [일본방송협회](../Page/일본방송협회.md "wikilink")(NHK)에서 제작·방영한 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink")이다. 10년이 넘는 기간의 준비로 1980년 초부터 총 3부로 나뉘어 월 1회로 방송을 시작하였고, 마지막 편이 1989년 3월에 방송되었다.\[1\]\[2\] 1984년에 [대한민국](../Page/대한민국.md "wikilink")의 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 1부와 2부가 방송되었다.\[3\]

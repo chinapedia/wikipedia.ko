@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC    ](https://ko.wikipedia.org/wiki/:FC____).
+> This article is converted from Wikipedia: [틀:FC 모르도비야 사란스크 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_모르도비야_사란스크_선수_명단).
 
 
 <onlyinclude></onlyinclude>

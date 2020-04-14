@@ -11,7 +11,7 @@
 
 1.  **Thank You For Everything**
       - 작곡: 코바야시 마사노리, 편곡: 카마타 신고
-2.  **진실한 미소, 진실한 기분** ()
+2.  **진실한 미소, 진실한 기분**()
       - 작곡: [후지스에 미키](https://ko.wikipedia.org/wiki/후지스에_미키 "wikilink"), 편곡: 카마타 신고
 3.  **Thank You For Everything (TV version)**
 4.  **Thank You For Everything (Instrumental)**

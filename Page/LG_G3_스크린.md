@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G3 ](https://ko.wikipedia.org/wiki/LG_G3_).
+> This article is converted from Wikipedia: [LG G3 스크린](https://ko.wikipedia.org/wiki/LG_G3_스크린).
 
 
 **LG G3 스크린**(LG G3 Screen)은 LG전자에서 만든 [LG G3의](../Page/LG_G3.md "wikilink") 파생 모델이다. [LG G3보다](../Page/LG_G3.md "wikilink") 화면이 0.4 [인치](https://ko.wikipedia.org/wiki/인치 "wikilink") 커지고, 램 용량이 줄고 광대역 LTE-A를 적용하게 되었다. LG전자 최초로 자체 개발 AP **뉴클런**을 적용하였다. 카메라는 레이저 오토포커스와 듀얼플래시를 지원한다.

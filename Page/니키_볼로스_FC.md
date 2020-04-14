@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [니키 볼로스 FC](https://ko.wikipedia.org/wiki/니키_볼로스_FC).
 
 
 **니키 볼로스 FC**()는 [볼로스](../Page/볼로스.md "wikilink")를 연고로 하는 [그리스](../Page/그리스.md "wikilink")의 축구 클럽이다. 현재는 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 참가하고 있다.

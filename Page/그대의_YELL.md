@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ YELL](https://ko.wikipedia.org/wiki/_YELL).
+> This article is converted from Wikipedia: [그대의 YELL](https://ko.wikipedia.org/wiki/그대의_YELL).
 
 
 〈**그대의 YELL**〉()는 [유이카오리](../Page/유이카오리.md "wikilink")의 다섯 번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [2012년](../Page/2012년.md "wikilink") [3월 14일에](../Page/3월_14일.md "wikilink") [킹레코드에서](../Page/킹레코드_\(일본\).md "wikilink") 발매됐다.

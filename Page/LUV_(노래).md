@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LUV \(\)](https://ko.wikipedia.org/wiki/LUV_\(\)).
+> This article is converted from Wikipedia: [LUV \(노래\)](https://ko.wikipedia.org/wiki/LUV_\(노래\)).
 
 
 〈**LUV**〉(러브)는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [에이핑크](../Page/에이핑크.md "wikilink")의 [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")이다. 다섯 번째 미니 음반 《[Pink LUV](../Page/Pink_LUV.md "wikilink")》 타이틀곡으로서 [2014년](../Page/2014년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink") 발매되었으며, 일본에서는 [2015년](../Page/2015년.md "wikilink") [5월 20일에](../Page/5월_20일.md "wikilink") 싱글로 발매됐다. 누구나 한번쯤 겪어봤을 첫사랑의 기억을 담은 노래이며, 톡톡 튀는 기존의 노래와는 달리 이별을 노래했다는 것이 특징이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD  ](https://ko.wikipedia.org/wiki/CD__).
+> This article is converted from Wikipedia: [CD 엘 나시오날](https://ko.wikipedia.org/wiki/CD_엘_나시오날).
 
 
 **클루브 데포르티보 엘 나시오날** (Club Deportivo El Nacional) 은 [키토](../Page/키토.md "wikilink")를 연고로 하는 [에콰도르](../Page/에콰도르.md "wikilink")의 스포츠 클럽으로, 프로 [축구](../Page/축구.md "wikilink")팀으로 잘 알려져 있다. 이 팀은 현재 국내 1부 리그인 [에콰도르 세리에 A에](../Page/에콰도르_세리에_A.md "wikilink") 소속되어 있다.

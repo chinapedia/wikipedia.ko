@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [도버 애슬레틱 FC](https://ko.wikipedia.org/wiki/도버_애슬레틱_FC).
 
 
 **도버 애슬레틱 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [켄트주](../Page/켄트주.md "wikilink") [도버](../Page/도버.md "wikilink")를 연고로 하는 프로 [축구](../Page/축구.md "wikilink") 구단이다. 현재 [콘퍼런스 프리미어에](https://ko.wikipedia.org/wiki/콘퍼런스_프리미어 "wikilink") 소속되어 있으며, 2013-2014 시즌 [콘퍼런스 사우스에서](https://ko.wikipedia.org/wiki/콘퍼런스_사우스 "wikilink") 플레이오프를 통해 승격한 팀이다.

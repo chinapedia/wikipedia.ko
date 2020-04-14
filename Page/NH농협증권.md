@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NH](https://ko.wikipedia.org/wiki/NH).
+> This article is converted from Wikipedia: [NH농협증권](https://ko.wikipedia.org/wiki/NH농협증권).
 
 
 **NH농협증권**(엔에이치농협증권, )은 1982년 11월 고려투자금융(주)으로 설립되었으며 1991년 6월 동아증권(주)으로 상호명이 변경됐고 이 과정에서 증권사로 업종을 전환했다\[1\]. 그 뒤, IMF와 모그룹인 [동아그룹](../Page/동아그룹.md "wikilink")의 위기 탓인지 1998년 7월 홍승캐피탈(현 세종)에 인수되면서 세종증권(주)으로 상호명이 바뀌었으며\[2\] 2006년 2월 [농협중앙회에](../Page/농업협동조합_\(대한민국\).md "wikilink") 인수되어 NH투자증권(주)을 거쳐 2012년 3월 지금의 NH농협증권으로 상호를 변경하였다. 2014년 12월 30일에 [우리투자증권과](../Page/NH투자증권.md "wikilink") 피흡수합병되어 [12월 31일](../Page/12월_31일.md "wikilink") 폐업했다.

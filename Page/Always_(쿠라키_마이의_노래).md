@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Always \(  \)](https://ko.wikipedia.org/wiki/Always_\(__\)).
+> This article is converted from Wikipedia: [Always \(쿠라키 마이의 노래\)](https://ko.wikipedia.org/wiki/Always_\(쿠라키_마이의_노래\)).
 
 
 {{싱글 정보 | 곡명 = always | 음악가 = [쿠라키 마이](../Page/쿠라키_마이.md "wikilink") | 음반 = [Perfect Crime](../Page/Perfect_Crime.md "wikilink") | A 사이드 = | B 사이드 = All Night　 | 발매일 =  | 포맷 = [맥시싱글](../Page/싱글_\(음악\).md "wikilink") | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink"), [애니메이션 음악](https://ko.wikipedia.org/wiki/애니메이션_음악 "wikilink") | 길이 = 4분 7초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 작사·작곡 = 쿠라키 마이, [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink") | 프로듀서 = [KANONJI](https://ko.wikipedia.org/wiki/KANONJI "wikilink") | 이전싱글 = [Stand Up](../Page/Stand_Up_\(쿠라키_마이의_노래\).md "wikilink")

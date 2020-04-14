@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SR \(\)](https://ko.wikipedia.org/wiki/SR_\(\)).
+> This article is converted from Wikipedia: [SR \(방송사\)](https://ko.wikipedia.org/wiki/SR_\(방송사\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sveriges_Radio_2008c.jpg "wikilink") 본사\]\] **스베리예스 라디오** (Sveriges Radio, 약칭 **SR**)는 [스웨덴](../Page/스웨덴.md "wikilink")의 [공영](../Page/공영_방송.md "wikilink") [라디오 방송국이다](https://ko.wikipedia.org/wiki/라디오_방송국 "wikilink").

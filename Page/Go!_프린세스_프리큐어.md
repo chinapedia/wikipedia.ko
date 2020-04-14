@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Go!  ](https://ko.wikipedia.org/wiki/Go!__).
+> This article is converted from Wikipedia: [Go! 프린세스 프리큐어](https://ko.wikipedia.org/wiki/Go!_프린세스_프리큐어).
 
 
 《Go\! 프린세스 프리큐어》( )는 [도에이 애니메이션](../Page/도에이_애니메이션.md "wikilink") 제작의 애니메이션이다.
@@ -15,16 +15,16 @@
 
 ### 프린세스 프리큐어
 
-  - [하루노 하루카](https://ko.wikipedia.org/wiki/하루노_하루카 "wikilink")(한보미) / 큐어 플로라 ( / )
+  - [하루노 하루카](../Page/하루노_하루카.md "wikilink")(한보미) / 큐어 플로라 ( / )
     성우 - [시마무라 유우](https://ko.wikipedia.org/wiki/시마무라_유우 "wikilink")/[여민정](../Page/여민정_\(성우\).md "wikilink")
     본 작의 여주인공. 노블 학원의 1학년생으로 활기차고 웃는 얼굴이 예쁜 소녀. 꿈을 이루겠다는 마음가짐은 누구에게도 지지 않는다. 어릴 때부터 가지고 있는 그림 동화책의 공주님을 동경하고 있으며, 지금도 프린세스가 되고 싶다는 꿈을 가지고 있다. 좋아하는 것은 [꽃](../Page/꽃.md "wikilink")과 [동물](../Page/동물.md "wikilink"), 그림 동화책 '꽃의 프린세스'. 생일은 [4월 10일](../Page/4월_10일.md "wikilink"), 별자리는 [양자리](https://ko.wikipedia.org/wiki/양자리_\(점성술\) "wikilink").
-  - [카이도 미나미](https://ko.wikipedia.org/wiki/카이도_미나미 "wikilink")(정바다) / 큐어 머메이드 ( / )
+  - [카이도 미나미](../Page/카이도_미나미.md "wikilink")(정바다) / 큐어 머메이드 ( / )
     성우 - [아사노 마스미](../Page/아사노_마스미.md "wikilink")/[윤은서](../Page/윤은서.md "wikilink")
     하루카의 한 살 연상의 상급생으로 '학원의 프린세스/학교의 프린세스'라고 불릴정도로 전교생의 동경을 한몸에 받고 있는 팔방미인의 학생회장. 책임감이 강하고 철저하기 때문에 때론 엄격한 면도 보이기도 하지만, 바다처럼 사려 깊고 다정한 성격의 소유자. 다른 사람의 도움이 되는 훌륭한 사람이 되고 싶다고 생각한다. 좋아하는 것은 [바다](../Page/바다.md "wikilink")와 [홍차](../Page/홍차.md "wikilink"). 생일은 [7월 20일](../Page/7월_20일.md "wikilink"), 별자리는 [게자리](https://ko.wikipedia.org/wiki/게자리_\(점성술\) "wikilink").
-  - [아마노가와 키라라](https://ko.wikipedia.org/wiki/아마노가와_키라라 "wikilink")(유은하) / 큐어 트윙클 ( / )
+  - [아마노가와 키라라](../Page/아마노가와_키라라.md "wikilink")(유은하) / 큐어 트윙클 ( / )
     성우 - [야마무라 히비쿠](https://ko.wikipedia.org/wiki/야마무라_히비쿠 "wikilink")/[유보라](../Page/유보라.md "wikilink")
     하루카와 동갑내기인 인기 패션 모델의 소녀. 자유분방하고 꾸미기를 좋아하며 무척 솔직하고 마이웨이인 성격이지만 자기 꿈을 위해서 똑바로 나아가는 뚝심도 갖고 있다. 장래의 꿈은 톱 모델이 되는 것. 좋아하는 것은 [별](https://ko.wikipedia.org/wiki/별 "wikilink"), 달콤한 [디저트](https://ko.wikipedia.org/wiki/디저트 "wikilink") 요리. 생일은 [9월 12일](../Page/9월_12일.md "wikilink"), 별자리는 [처녀자리](https://ko.wikipedia.org/wiki/처녀자리_\(점성술\) "wikilink").
-  - [아카기 토와](https://ko.wikipedia.org/wiki/아카기_토와 "wikilink")(장영원) / 큐어 스칼렛 ( / )
+  - [아카기 토와](../Page/아카기_토와.md "wikilink")(장영원) / 큐어 스칼렛 ( / )
     성우 - [사와시로 미유키](../Page/사와시로_미유키.md "wikilink")/[사문영](../Page/사문영.md "wikilink")
     카나타 왕자의 친동생으로 호프 킹덤의 공주이자 책임감이 강하고 성실한 노력파로 어릴적 그랑 프린세스에 대한 꿈을 품고 열정을 다해 수련을 하였으나 진전되지 않는다고 생각에 마음의 어둠이 생기고 이를 노린 절망의 마녀 디스피아에게 세뇌당했으며 디스피아의 사악한 음모로 그 기억과 본래 모습과 꿈을 잃어버린 채 타락한 모습으로 거의 9년 동안 살아가게 되지만 하루카/한보미와 친오빠 카나타의 노력으로 원래 모습을 되찾고 프리큐어로 각성한다. 바이올린 켜는 것을 좋아하며, 언젠가 오빠인 카나타 왕자와 함께 연주하고 싶은 소망을 갖고 있다. 꿈은 그랑 프린세스가 되는 것. 좋아하는 것은 [바이올린](../Page/바이올린.md "wikilink"). 생일은 [12월 15일](../Page/12월_15일.md "wikilink"), 별자리는 [사수자리](https://ko.wikipedia.org/wiki/사수자리_\(점성술\) "wikilink").
 

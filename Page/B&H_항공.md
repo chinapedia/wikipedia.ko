@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B\&H ](https://ko.wikipedia.org/wiki/B\&H_).
+> This article is converted from Wikipedia: [B\&H 항공](https://ko.wikipedia.org/wiki/B\&H_항공).
 
 
 **B\&H 항공**()은 [보스니아 헤르체고비나의](../Page/보스니아_헤르체고비나.md "wikilink") [국영 항공사로](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink") 총 4개 노선을 취항하고 있다. 본사는 [보스니아 헤르체고비나](../Page/보스니아_헤르체고비나.md "wikilink") [사라예보](../Page/사라예보.md "wikilink") 위치해 있으며 [1994년](../Page/1994년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [사라예보 국제공항이](https://ko.wikipedia.org/wiki/사라예보_국제공항 "wikilink") 있다.\[1\]

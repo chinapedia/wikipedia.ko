@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [김사월X김해원](https://ko.wikipedia.org/wiki/김사월X김해원).
 
 
 **김사월X김해원**은 [대한민국](../Page/대한민국.md "wikilink")의 2인조 포크 듀오이다. 싱어송라이터 [김사월](https://ko.wikipedia.org/wiki/김사월 "wikilink")과 김해원으로 구성되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV  ](https://ko.wikipedia.org/wiki/_TV__).
+> This article is converted from Wikipedia: [도라에몽 TV 주제가 대전집](https://ko.wikipedia.org/wiki/도라에몽_TV_주제가_대전집).
 
 
 **도라에몽 TV 주제가 대전집**은 도라에몽 방영 30주년을 기반하여 발매된 오프닝, 엔딩곡을 모아 내놓은 앨범이다.

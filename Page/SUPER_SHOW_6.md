@@ -88,7 +88,7 @@
 <td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[7]</p></td>
-<td><p>통산 23,906명</p></td>
+<td><p>통산 25,360명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014년 11월 30일</p></td>
@@ -189,7 +189,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>총 누적 관객 - 541,952명</strong></p></td>
+<td><p><strong>총 누적 관객 - 543,406명</strong></p></td>
 <td></td>
 <td></td>
 <td></td>

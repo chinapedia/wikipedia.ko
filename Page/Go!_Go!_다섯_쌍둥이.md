@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Go! Go!  ](https://ko.wikipedia.org/wiki/Go!_Go!__).
+> This article is converted from Wikipedia: [Go! Go! 다섯 쌍둥이](https://ko.wikipedia.org/wiki/Go!_Go!_다섯_쌍둥이).
 
 
 《**Go\! Go\! 다섯 쌍둥이**》(, )는 일본 [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink")에서 방영된 아동용 코미디 애니메이션이다.

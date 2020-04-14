@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OK! \(  \)](https://ko.wikipedia.org/wiki/OK!_\(__\)).
+> This article is converted from Wikipedia: [OK! \(마츠모토 리카의 노래\)](https://ko.wikipedia.org/wiki/OK!_\(마츠모토_리카의_노래\)).
 
 
 〈**OK\!**〉는 [일본](../Page/일본.md "wikilink")의 [성우](../Page/성우.md "wikilink") 겸 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")인 [마츠모토 리카의](../Page/마츠모토_리카.md "wikilink") 7번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

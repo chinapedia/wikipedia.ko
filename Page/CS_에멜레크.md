@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CS ](https://ko.wikipedia.org/wiki/CS_).
+> This article is converted from Wikipedia: [CS 에멜레크](https://ko.wikipedia.org/wiki/CS_에멜레크).
 
 
 **클루브 스포르트 에멜레크** (Club Sport Emelec) 는 [에콰도르](../Page/에콰도르.md "wikilink")의 [과야킬](../Page/과야킬.md "wikilink")을 연고로 하는 스포츠 클럽으로, [축구](../Page/축구.md "wikilink") 클럽으로 잘 알려져 있다. 이 축구팀은 국가 1부 리그인 [에콰도르 세리에 A에](../Page/에콰도르_세리에_A.md "wikilink") 속해 있다.

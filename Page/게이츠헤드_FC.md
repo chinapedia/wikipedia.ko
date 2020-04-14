@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [게이츠헤드 FC](https://ko.wikipedia.org/wiki/게이츠헤드_FC).
 
 
 **게이츠헤드 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [타인 위어 주](https://ko.wikipedia.org/wiki/타인_위어_주 "wikilink") [게이츠헤드](../Page/게이츠헤드.md "wikilink")를 연고로 하는 프로 [축구](../Page/축구.md "wikilink") 구단이다. 1977년 창단 이래 두 번의 리그 우승과 한 번의 챌린지 실드 우승을 차지하였다. 현재 [내셔널리그 노스에](../Page/내셔널리그_노스.md "wikilink") 소속되어 있다.

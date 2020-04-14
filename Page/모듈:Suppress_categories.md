@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Suppress categories](https://ko.wikipedia.org/wiki/:Suppress_categories).
+> This article is converted from Wikipedia: [모듈:Suppress categories](https://ko.wikipedia.org/wiki/모듈:Suppress_categories).
 
 
 \-- This is a simple module to strip categories from wikitext. It does -- not support nested links or magic words like __TOC__, etc. Even so, -- it should still handle most categories. -- 태국어(th) 위키백과에서 가져옴

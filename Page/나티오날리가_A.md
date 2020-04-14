@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
+> This article is converted from Wikipedia: [나티오날리가 A](https://ko.wikipedia.org/wiki/나티오날리가_A).
 
 
 **나티오날리가 A**(, NLA)는 1981년에 창설되었다. 총 7개 팀이 참가하며 매년 25경기 씩 리그가 진행 한다. 4월에 시즌이 시작해 8월에 종료 한다. 4팀이 플레이오프에 진출하며 1위와 4위 , 2위와 3위간의 5전 3선승으로 진행해 최종 승자가 챔피언 자리를 놓고 경쟁한다.

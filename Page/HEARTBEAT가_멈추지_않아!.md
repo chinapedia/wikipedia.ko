@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HEARTBEAT  !](https://ko.wikipedia.org/wiki/HEARTBEAT__!).
+> This article is converted from Wikipedia: [HEARTBEAT가 멈추지 않아!](https://ko.wikipedia.org/wiki/HEARTBEAT가_멈추지_않아!).
 
 
 {{싱글 정보 | 곡명 = HEARTBEAT가 멈추지 않아\!
@@ -14,7 +14,7 @@
 
 ## 수록곡
 
-1.  **HEARYBEAT가 멈추지 않아\!** () \[4:01\]
+1.  **HEARYBEAT가 멈추지 않아\!**() \[4:01\]
       - 작사: [마에야마다 켄이치](https://ko.wikipedia.org/wiki/마에야마다_켄이치 "wikilink"), 작곡: 슌류, 편곡: Sizuk
     <!-- end list -->
       -

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FANTASY \(w-inds. \)](https://ko.wikipedia.org/wiki/FANTASY_\(w-inds._\)).
+> This article is converted from Wikipedia: [FANTASY \(w-inds.의 노래\)](https://ko.wikipedia.org/wiki/FANTASY_\(w-inds.의_노래\)).
 
 
 **Fantasy**는 [2015년](../Page/2015년.md "wikilink") [1월 21일에](../Page/1월_21일.md "wikilink") 발매된 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 34번째 싱글이다.
@@ -40,4 +40,5 @@
 
   - [w-inds.(윈즈) 싱글 디스코 그라피 Fantasy 싱글 발매 (1월 21일)](http://www.w-inds.tv/discography/single/)
 
+  -
 [분류:2015년 싱글](https://ko.wikipedia.org/wiki/분류:2015년_싱글 "wikilink") [분류:W-inds.의 노래](https://ko.wikipedia.org/wiki/분류:W-inds.의_노래 "wikilink")

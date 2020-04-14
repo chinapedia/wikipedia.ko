@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   XY: :  ](https://ko.wikipedia.org/wiki/___XY:_:__).
+> This article is converted from Wikipedia: [포켓몬 더 무비 XY: 후파: 광륜의 초마신](https://ko.wikipedia.org/wiki/포켓몬_더_무비_XY:_후파:_광륜의_초마신).
 
 
 《**포켓몬 더 무비 XY : 후파: 광륜의 초마신**》()는 [2015년](../Page/2015년.md "wikilink") [7월 18일](../Page/7월_18일.md "wikilink") 개봉한 [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제 18기 영화이다. 대한민국은 [12월 23일에](../Page/12월_23일.md "wikilink") 상영종료이다.

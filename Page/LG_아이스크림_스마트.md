@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 아이스크림 스마트](https://ko.wikipedia.org/wiki/LG_아이스크림_스마트).
 
 
 **LG 아이스크림 스마트**는 [LG전자](../Page/LG전자.md "wikilink")에서 만든 두 번째 폴더형 스마트폰이다. [2015년](../Page/2015년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink"), [LG U+를](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 통해서만 출시되었다.\[1\] [LG 와인스마트와](../Page/LG_와인스마트.md "wikilink") 비슷한 기종이나 청소년 층을 타겟으로 했기 때문에 용량이 8GB로 커졌다.

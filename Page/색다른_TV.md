@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [색다른 TV](https://ko.wikipedia.org/wiki/색다른_TV).
 
 
 **색다른 TV**는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방영된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").

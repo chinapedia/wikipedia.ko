@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [카즈마 SC](https://ko.wikipedia.org/wiki/카즈마_SC).
 
 
 **카즈마 SC**()는 [쿠웨이트](../Page/쿠웨이트.md "wikilink") [쿠웨이트 시를](../Page/쿠웨이트_시.md "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1964년](../Page/1964년.md "wikilink")에 창단되었으며 현재는 [쿠웨이트 프리미어리그에](../Page/쿠웨이트_프리미어리그.md "wikilink") 참가하고 있다. 축구 외에 [핸드볼](../Page/핸드볼.md "wikilink"), [농구](../Page/농구.md "wikilink") 팀도 운영한다.

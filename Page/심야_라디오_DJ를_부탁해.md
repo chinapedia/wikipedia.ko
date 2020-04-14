@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DJ ](https://ko.wikipedia.org/wiki/__DJ_).
+> This article is converted from Wikipedia: [심야 라디오 DJ를 부탁해](https://ko.wikipedia.org/wiki/심야_라디오_DJ를_부탁해).
 
 
 **심야 라디오 DJ를 부탁해**는 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")의 라디오 채널 [MBC FM4U](../Page/MBC_FM4U.md "wikilink")(수도권 91.9MHz)에서 새벽 3시부터 새벽 4시 까지 방송된 프로그램이다. 매일 1명의 일반인\[1\]을 DJ로 초대하여 DJ의 이야기와 직접 선곡한 음악을 듣는 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Miss ](https://ko.wikipedia.org/wiki/Miss_).
+> This article is converted from Wikipedia: [Miss 맘마미아](https://ko.wikipedia.org/wiki/Miss_맘마미아).
 
 
 《**Miss 맘마미아**》는 [2015년](../Page/2015년.md "wikilink") [1월 28일부터](../Page/1월_28일.md "wikilink") [3월 12일까지](../Page/3월_12일.md "wikilink") [KBS 드라마에서](../Page/KBS_드라마.md "wikilink") 방영된 드라마이다.
@@ -16,7 +16,7 @@
 
   - [장영남](../Page/장영남.md "wikilink") : 이미련 역
   - [김하은](../Page/김하은.md "wikilink") : 강봉숙 역
-  - [장은풍](https://ko.wikipedia.org/wiki/이원재_\(1978년_1월\) "wikilink") : 주기찬 역
+  - [장은풍](../Page/이원재_\(1978년_1월\).md "wikilink") : 주기찬 역
   - [안승훈](../Page/안승훈.md "wikilink") : 안 사장 역
   - [박수영](../Page/박수영.md "wikilink") : 심석봉 역
   - [길해연](../Page/길해연.md "wikilink") : 마 여사 역

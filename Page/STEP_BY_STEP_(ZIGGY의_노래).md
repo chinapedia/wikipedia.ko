@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STEP BY STEP \(ZIGGY \)](https://ko.wikipedia.org/wiki/STEP_BY_STEP_\(ZIGGY_\)).
+> This article is converted from Wikipedia: [STEP BY STEP \(ZIGGY의 노래\)](https://ko.wikipedia.org/wiki/STEP_BY_STEP_\(ZIGGY의_노래\)).
 
 
 〈**STEP BY STEP**〉(스텝 바이 스텝)은 [ZIGGY](https://ko.wikipedia.org/wiki/ZIGGY "wikilink")의 11번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

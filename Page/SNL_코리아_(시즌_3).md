@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNL  \( 3\)](https://ko.wikipedia.org/wiki/SNL__\(_3\)).
+> This article is converted from Wikipedia: [SNL 코리아 \(시즌 3\)](https://ko.wikipedia.org/wiki/SNL_코리아_\(시즌_3\)).
 
 
 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》의 세 번째 시즌은 2012년 9월 8일부터 12월 29일까지 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방송되었다.

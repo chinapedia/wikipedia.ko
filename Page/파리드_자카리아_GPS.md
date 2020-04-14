@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  GPS](https://ko.wikipedia.org/wiki/__GPS).
+> This article is converted from Wikipedia: [파리드 자카리아 GPS](https://ko.wikipedia.org/wiki/파리드_자카리아_GPS).
 
 
 《**파리드 자카리아 GPS**》(파리드 자카리아 지피에스, Fareed Zakaria GPS)는 [2008년](../Page/2008년.md "wikilink")부터 [CNN](../Page/CNN.md "wikilink")에서 방송되고 있는 정보 프로그램이다. 미국의 [저널리스트](https://ko.wikipedia.org/wiki/저널리스트 "wikilink")이자 [저자](https://ko.wikipedia.org/wiki/저자 "wikilink")인 [파리드 자카리아가](../Page/파리드_자카리아.md "wikilink") 사회를 담당한다. GPS는 일요일 오전 10시([UTC](https://ko.wikipedia.org/wiki/동부_표준시 "wikilink"))부터 11시([UTC](https://ko.wikipedia.org/wiki/동부_표준시 "wikilink"))까지 [CNN](../Page/CNN.md "wikilink")으로 방송한다. [CNN 인터내셔널에서도](../Page/CNN_인터내셔널.md "wikilink") 방송된다.

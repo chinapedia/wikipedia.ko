@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Mi 2A](https://ko.wikipedia.org/wiki/_Mi_2A).
+> This article is converted from Wikipedia: [샤오미 Mi 2A](https://ko.wikipedia.org/wiki/샤오미_Mi_2A).
 
 
 **샤오미 폰**(Xiaomi Mi 2A, )은 [중국의](../Page/중화인민공화국.md "wikilink") [샤오미](../Page/샤오미.md "wikilink")가 제작한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 기반의 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

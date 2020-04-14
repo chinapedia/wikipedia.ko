@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Brief](https://ko.wikipedia.org/wiki/:Brief).
+> This article is converted from Wikipedia: [틀:Brief](https://ko.wikipedia.org/wiki/틀:Brief).
 
 
 {{\#if:

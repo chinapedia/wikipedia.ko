@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ShootingSmile](https://ko.wikipedia.org/wiki/ShootingSmile).
+> This article is converted from Wikipedia: [Shooting☆Smile](https://ko.wikipedia.org/wiki/Shooting☆Smile).
 
 
 〈**Shooting☆Smile**〉는 [유이카오리](../Page/유이카오리.md "wikilink")의 네 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2011년](../Page/2011년.md "wikilink") [4월 6일에](../Page/4월_6일.md "wikilink") [킹레코드에서](../Page/킹레코드_\(일본\).md "wikilink") 발매됐다.
@@ -22,7 +22,7 @@
     <!-- end list -->
       -
         온라인 게임 “[H.A.V.E 온라인](../Page/H.A.V.E_온라인.md "wikilink")” 오프닝 테마
-2.  **CUE the Future \~“Q”의 테마\~** () \[3:31\]
+2.  **CUE the Future \~“Q”의 테마\~**() \[3:31\]
       - 작곡 · 편곡: 마에야마다 켄이치
 3.  '''Shooting☆Smile (off vocal ver.)
 4.  **CUE the Future \~“Q”의 테마\~ (off vocal ver.)**

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IS  ](https://ko.wikipedia.org/wiki/_IS__).
+> This article is converted from Wikipedia: [대 IS 군사 개입](https://ko.wikipedia.org/wiki/대_IS_군사_개입).
 
 
 **대 IS 군사 개입**은 미국, 프랑스, 러시아, 나이지리아 등의 주도 하에 이루어지는 IS에 대한 공격 및 공습 작전이다. 미국의 경우 **내재된 결단 작전**()\[1\] 이라는 암호명으로 이 작전에 참여하고 있으며, 2015년 2월 5일, [요르단](../Page/요르단.md "wikilink")은 **순교자 마즈 작전**이라는 이름 아래 [시리아](../Page/시리아.md "wikilink")의 IS 군사 훈련 시설과 무기고를 공습함으로써 [알카사스베](../Page/무아트_알카사스베.md "wikilink") 중위 살해에 대해 보복 공격을 시작했다.\[2\] 이 전쟁은 이후 이슬람 국가에 복속한 [아프가니스탄](https://ko.wikipedia.org/wiki/아프가니스탄 "wikilink")과 [파키스탄](../Page/파키스탄.md "wikilink"), [예멘](../Page/예멘.md "wikilink"), [필리핀](../Page/필리핀.md "wikilink"), [차드](../Page/차드.md "wikilink"), [니제르](../Page/니제르.md "wikilink"), [카메룬](../Page/카메룬.md "wikilink"), [말리](../Page/말리.md "wikilink")\[3\] 등의 지역 무장 단체들까지 적으로 선포하면서 그 작전 범위가 훨씬 넓어지게 되었다.
@@ -143,7 +143,7 @@
 
 ## 각주
 
-[대_IS_군사_개입](https://ko.wikipedia.org/wiki/분류:대_IS_군사_개입 "wikilink") [분류:현대전](https://ko.wikipedia.org/wiki/분류:현대전 "wikilink") [분류:IS](https://ko.wikipedia.org/wiki/분류:IS "wikilink") [분류:2016년 분쟁](https://ko.wikipedia.org/wiki/분류:2016년_분쟁 "wikilink") [분류:이라크 내전](https://ko.wikipedia.org/wiki/분류:이라크_내전 "wikilink") [분류:시리아 내전](https://ko.wikipedia.org/wiki/분류:시리아_내전 "wikilink") [분류:2014년 이라크](https://ko.wikipedia.org/wiki/분류:2014년_이라크 "wikilink") [분류:2015년 이라크](https://ko.wikipedia.org/wiki/분류:2015년_이라크 "wikilink") [분류:2016년 이라크](https://ko.wikipedia.org/wiki/분류:2016년_이라크 "wikilink") [분류:2014년 분쟁](https://ko.wikipedia.org/wiki/분류:2014년_분쟁 "wikilink") [분류:2015년 분쟁](https://ko.wikipedia.org/wiki/분류:2015년_분쟁 "wikilink")
+[대_IS_군사_개입](https://ko.wikipedia.org/wiki/분류:대_IS_군사_개입 "wikilink") [분류:현대전](https://ko.wikipedia.org/wiki/분류:현대전 "wikilink") [분류:IS](https://ko.wikipedia.org/wiki/분류:IS "wikilink") [분류:2016년 분쟁](https://ko.wikipedia.org/wiki/분류:2016년_분쟁 "wikilink") [분류:이라크 내전 (2014년-2017년)](https://ko.wikipedia.org/wiki/분류:이라크_내전_\(2014년-2017년\) "wikilink") [분류:시리아 내전](https://ko.wikipedia.org/wiki/분류:시리아_내전 "wikilink") [분류:2014년 이라크](https://ko.wikipedia.org/wiki/분류:2014년_이라크 "wikilink") [분류:2015년 이라크](https://ko.wikipedia.org/wiki/분류:2015년_이라크 "wikilink") [분류:2016년 이라크](https://ko.wikipedia.org/wiki/분류:2016년_이라크 "wikilink") [분류:2014년 분쟁](https://ko.wikipedia.org/wiki/분류:2014년_분쟁 "wikilink") [분류:2015년 분쟁](https://ko.wikipedia.org/wiki/분류:2015년_분쟁 "wikilink")
 
 1.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0007188232>
 2.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0007399304>

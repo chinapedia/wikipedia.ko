@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(e\)](https://ko.wikipedia.org/wiki/_\(e\)).
+> This article is converted from Wikipedia: [큐빅 \(e스포츠\)](https://ko.wikipedia.org/wiki/큐빅_\(e스포츠\)).
 
 
 **큐빅**(Quvic)은 2013년 12월 창단한 대한민국의 전 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink") 게임단이다. 2014년 2월 빅파일과 후원 계약을 맺으며 빅파일(빅파일 미라클/빅파일 아모르)로 팀 이름을 변경하였다. 이후 2014년 8월 계약이 종료되자 다시 큐빅으로 팀 이름을 변경하였다\[1\].

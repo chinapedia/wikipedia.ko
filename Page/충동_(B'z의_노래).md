@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(B\'z \)](https://ko.wikipedia.org/wiki/_\(B\'z_\)).
+> This article is converted from Wikipedia: [충동 \(B\'z의 노래\)](https://ko.wikipedia.org/wiki/충동_\(B\'z의_노래\)).
 
 
 〈**충동**〉()는 [B'z](../Page/B'z.md "wikilink")의 마흔 번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [2006년](../Page/2006년.md "wikilink") [1월 25일에](../Page/1월_25일.md "wikilink") [버밀리온 레코드에서](https://ko.wikipedia.org/wiki/버밀리온_레코드 "wikilink") 발매됐다.
@@ -15,10 +15,10 @@
 
 <!-- end list -->
 
-1.  **충동** () (3:17)
+1.  **충동**() (3:17)
       -
         연주 시간이 3분 14초(연주가 끝나고, 공백이 있기에 표기상으로는 3분 17초), 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》의 여는 곡으로도 최단 연주 시간이다.
-2.  **결정** () (4:06)
+2.  **결정**() (4:06)
 
 ## 타이업
 

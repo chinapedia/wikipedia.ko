@@ -14,7 +14,7 @@
     <!-- end list -->
       -
         《[애니송 플러스](https://ko.wikipedia.org/wiki/애니송_플러스 "wikilink")》 2013년 3월 여는 곡
-2.  **첫사랑 미로** () \[3:44\]
+2.  **첫사랑 미로**() \[3:44\]
       - 작사: [코다마 사오리](https://ko.wikipedia.org/wiki/코다마_사오리 "wikilink"), 작곡 · 편곡: [이타가키 유스케](https://ko.wikipedia.org/wiki/이타가키_유스케 "wikilink")
 3.  **Shiny Blue (off vocal ver.)**
 4.  **첫사랑 미로 (off vocal ver.)**
