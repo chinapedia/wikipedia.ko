@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTTP ](https://ko.wikipedia.org/wiki/HTTP_).
+> This article is converted from Wikipedia: [HTTP 쿠키](https://ko.wikipedia.org/wiki/HTTP_쿠키).
 
 
 **쿠키**()란 하이퍼 텍스트의 기록서([HTTP](../Page/HTTP.md "wikilink"))의 일종으로서 [인터넷](../Page/인터넷.md "wikilink") 사용자가 어떠한 웹사이트를 방문할 경우 그 사이트가 사용하고 있는 서버를 통해 인터넷 사용자의 컴퓨터에 설치되는 작은 기록 정보 파일을 일컫는다. HTTP 쿠키, 웹 쿠키, 브라우저 쿠키라고도 한다. 이 기록 파일에 담긴 정보는 인터넷 사용자가 같은 웹사이트를 방문할 때마다 읽히고 수시로 새로운 정보로 바뀐다. 이 수단은 [넷스케이프](../Page/넷스케이프.md "wikilink")의 프로그램 개발자였던 [루 몬툴리](https://ko.wikipedia.org/wiki/루_몬툴리 "wikilink")([Lou Montulli](https://ko.wikipedia.org/wiki/:en:Lou_Montulli "wikilink"))가 고안한 뒤로 오늘날 많은 서버 및 웹사이트들이 브라우저의 신속성을 위해 즐겨 쓰고 있다.

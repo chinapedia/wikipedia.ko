@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SM3](https://ko.wikipedia.org/wiki/_SM3).
+> This article is converted from Wikipedia: [르노삼성 SM3](https://ko.wikipedia.org/wiki/르노삼성_SM3).
 
 
 **르노삼성 SM3**(Renault Samsung SM3)는 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")의 준중형 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이다. 차명인 SM3는 '[르노삼성자동차](../Page/르노삼성자동차.md "wikilink")'(Samsung Motors)를 의미하는 SM에 준중형급을 의미하는 숫자 3을 결합한 것이다.
@@ -645,11 +645,11 @@ CVT</p></td>
 
 {{-}}
 
-### SM3 네오(2014년 4월\~2019년 12월)
+### SM3 네오(2014년 4월\~2020년 1월)
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:20140605_Renault_Samsung_SM3_Neo_1.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:20140605_Renault_Samsung_SM3_Neo_2.jpg "wikilink")
 
-[2014년](../Page/2014년.md "wikilink") [4월 24일에](../Page/4월_24일.md "wikilink") 출시됐다. 이미 [2012년](../Page/2012년.md "wikilink")부터 [유럽](../Page/유럽.md "wikilink") 등에서 판매되기 시작한 [르노 플루언스의](../Page/르노_플루언스.md "wikilink") 페이스리프트 버전이 [대한민국](../Page/대한민국.md "wikilink")에 도입된 것으로, 이를 통해 [QM3](../Page/르노삼성_QM3.md "wikilink"), [QM5 네오와](../Page/르노삼성_QM5.md "wikilink") 궤를 같이하는 디자인 아이덴티티가 적용됐다. 네오라는 서브 네임이 더해졌으며, 이는 1세대 SM3 뉴 제너레이션에 있던 트림명이기도 하다. 라디에이터 그릴은 양쪽 헤드램프를 잇고, LED 주간 주행등을 앞 범퍼에 내장시켰다. 리어 램프는 면발광 방식의 LED와 안개등이 내장됐다. 경사로 밀림 방지 장치 와 전방 경보 장치를 새로 적용해 운전하는 데에 편의성을 더했다. [2019년](../Page/2019년.md "wikilink")에는 가솔린, 디젤 모델, 전기차 모델 모두 후속 차종 없이 단종되었다.
+[2014년](../Page/2014년.md "wikilink") [4월 24일에](../Page/4월_24일.md "wikilink") 출시됐다. 이미 [2012년](../Page/2012년.md "wikilink")부터 [유럽](../Page/유럽.md "wikilink") 등에서 판매되기 시작한 [르노 플루언스의](../Page/르노_플루언스.md "wikilink") 페이스리프트 버전이 [대한민국](../Page/대한민국.md "wikilink")에 도입된 것으로, 이를 통해 [QM3](../Page/르노삼성_QM3.md "wikilink"), [QM5 네오와](../Page/르노삼성_QM5.md "wikilink") 궤를 같이하는 디자인 아이덴티티가 적용됐다. 네오라는 서브 네임이 더해졌으며, 이는 1세대 SM3 뉴 제너레이션에 있던 트림명이기도 하다. 라디에이터 그릴은 양쪽 헤드램프를 잇고, LED 주간 주행등을 앞 범퍼에 내장시켰다. 리어 램프는 면발광 방식의 LED와 안개등이 내장됐다. 경사로 밀림 방지 장치 와 전방 경보 장치를 새로 적용해 운전하는 데에 편의성을 더했다. [2020년](../Page/2020년.md "wikilink") [1월](../Page/1월.md "wikilink")에는 가솔린, 디젤 모델, 전기차 모델 모두 후속 차종 없이 단종되었다.
 
   - [2014년](../Page/2014년.md "wikilink") [11월 3일에는](../Page/11월_3일.md "wikilink") 17인치 투톤 알루미늄 휠, 레드 투톤 가죽 시트, 레드 컬러 인스트루먼트 패널, 레드 스티치(스티어링 휠, 가죽 시트, 도어 암레스트, 카 매트)가 적용된 R4U(Red for You) 에디션이 추가됐다. 이와 더불어 모든 트림에 차체 자세 제어 장치, 경사로 밀림 방지 장치, 타이어 공기압 경보 장치가 기본 적용됐다.
   - [2015년](../Page/2015년.md "wikilink") [4월 1일에는](../Page/4월_1일.md "wikilink") 편의 사양을 추가하거나 확대 적용한 [2016년](../Page/2016년.md "wikilink")형이 선보였다.

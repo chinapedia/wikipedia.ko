@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B ](https://ko.wikipedia.org/wiki/_B_).
+> This article is converted from Wikipedia: [비타민 B 복합체](https://ko.wikipedia.org/wiki/비타민_B_복합체).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:B_vitamin_supplement_tablets.jpg "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Babels](https://ko.wikipedia.org/wiki/:Babels).
+> This article is converted from Wikipedia: [틀:Babels](https://ko.wikipedia.org/wiki/틀:Babels).
 
 
 <onlyinclude>

@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [Key \(\)](https://ko.wikipedia.org/wiki/Key_\(\)).
+> This article is converted from Wikipedia: [Key \(기업\)](https://ko.wikipedia.org/wiki/Key_\(기업\)).
 
 
-**Key**는 [일본](../Page/일본.md "wikilink") 소재 [미소녀 게임](../Page/미소녀_게임.md "wikilink")(또는 [비주얼 노벨](../Page/비주얼_노벨.md "wikilink")) 제작사인 주식회사 Visual Art's(이하 "비주얼아츠") 의 브랜드 팀 중 하나이다.
+**Key**는 [일본](../Page/일본.md "wikilink") 소재 [미소녀 게임](../Page/미소녀_게임.md "wikilink")(또는 [비주얼 노벨](../Page/비주얼_노벨.md "wikilink")) 제작사인 주식회사 Visual Art's(이하 "비주얼 아츠") 의 브랜드 팀 중 하나이다.
 
 ## 역사
 
-[택틱스](https://ko.wikipedia.org/wiki/Tactics "wikilink") 소속의 스탭들이 [Visual Art's의](../Page/비주얼_아츠.md "wikilink") 바바 사장의 스카웃제의를 받고 이적, 만들어진 팀이다.
+[택틱스](https://ko.wikipedia.org/wiki/Tactics "wikilink") 소속의 스탭들이 [Visual Art's의](../Page/비주얼_아츠.md "wikilink") 사장 바바 다카히로의 스카웃제의를 받고 이적, 만들어진 팀이다.
 
 보통, 택틱스의 게임인 《[One \~빛나는 계절로\~](../Page/One_~빛나는_계절로~.md "wikilink")》의 제작 스탭들 중 일부가 원화가 [히노우에 이타루의](../Page/히노우에_이타루.md "wikilink") 해고에 반발, 이적하여 창설하였다고 알려져 "이타루 사단"이라고 불리기도 하지만, 2007년 6월에 발매된 그녀의 동인회지에서 이를 정면으로 부정하였다.
 

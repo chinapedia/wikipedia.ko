@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. W. ](https://ko.wikipedia.org/wiki/_H._W._).
+> This article is converted from Wikipedia: [조지 H. W. 부시](https://ko.wikipedia.org/wiki/조지_H._W._부시).
 
 
 **조지 허버트 워커 부시**(, , [1924년](../Page/1924년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink")\[1\]\[2\])는 [미국](../Page/미국.md "wikilink")의 [정치인](../Page/정치인.md "wikilink")이다. [연방 하원의원](../Page/미국_하원.md "wikilink"), [유엔](../Page/유엔.md "wikilink") 주재 미국 대사, [미국 중앙정보국](https://ko.wikipedia.org/wiki/미국_중앙정보국 "wikilink")(CIA) 국장 등 여러 공직을 거친 후 [1980년](../Page/1980년.md "wikilink") 미국 대통령 선거에서 [로널드 레이건의](../Page/로널드_레이건.md "wikilink") 러닝메이트로 출마, 1981년부터 1989년까지 [부통령을](../Page/미국의_부통령.md "wikilink") 지낸 데 이어, 1989년부터 1993년까지 [대통령으로](../Page/미국의_대통령.md "wikilink") 재직했다.

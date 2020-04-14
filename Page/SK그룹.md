@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK그룹](https://ko.wikipedia.org/wiki/SK그룹).
 
 
 **SK그룹**은 에너지, 화학, 통신, 경제, 건설, 반도체, 기타 등의 분야를 다루는 대한민국의 [대규모 기업집단이다](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink"). 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [서린동](../Page/종로동_\(서울\).md "wikilink") 종로1가에 있다.

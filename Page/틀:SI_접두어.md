@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SI ](https://ko.wikipedia.org/wiki/:SI_).
+> This article is converted from Wikipedia: [틀:SI 접두어](https://ko.wikipedia.org/wiki/틀:SI_접두어).
 
 
 <onlyinclude>{| class="toccolours" |+ **[SI 접두어](https://ko.wikipedia.org/wiki/SI_접두어 "wikilink")**

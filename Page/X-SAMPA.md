@@ -37,264 +37,270 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_양순_파열음" title="wikilink">유성 양순 파열음</a></p></td>
 </tr>
 <tr class="odd">
+<td><p><code>b\</code> (또는 <code>B</code>)</p></td>
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-B2.png" title="wikilink">파일:Xsampa-B2.png</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/유성_양순_마찰음" title="wikilink">유성 양순 마찰음</a></p></td>
+</tr>
+<tr class="even">
 <td><p><code>b_&lt;</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-b_lessthan.png" title="wikilink">파일:Xsampa-b lessthan.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_양순_내파음" title="wikilink">유성 양순 내파음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>c</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-c.png" title="wikilink">파일:Xsampa-c.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_경구개_파열음" title="wikilink">무성 경구개 파열음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>d</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-d.png" title="wikilink">파일:Xsampa-d.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_치경_파열음" title="wikilink">유성 치경 파열음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>d`</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-d&#39;.png" title="wikilink">파일:Xsampa-d'.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_권설_파열음" title="wikilink">유성 권설 파열음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>d_&lt;</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-d_lessthan.png" title="wikilink">파일:Xsampa-d lessthan.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_치경_내파음" title="wikilink">유성 치경 내파음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>e</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-e.png" title="wikilink">파일:Xsampa-e.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전설_비원순_중고모음" title="wikilink">전설 비원순 중고모음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>f</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-f2.png" title="wikilink">파일:Xsampa-f2.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_순치_마찰음" title="wikilink">무성 순치 마찰음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>g</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-g.png" title="wikilink">파일:Xsampa-g.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_연구개_파열음" title="wikilink">유성 연구개 파열음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>g_&lt;</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-g_lessthan.png" title="wikilink">파일:Xsampa-g lessthan.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_연구개_내파음" title="wikilink">유성 연구개 내파음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>h</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-h.png" title="wikilink">파일:Xsampa-h.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_성문_마찰음" title="wikilink">무성 성문 마찰음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>h\</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-hslash.png" title="wikilink">파일:Xsampa-hslash.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_성문_마찰음" title="wikilink">유성 성문 마찰음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>i</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-i.png" title="wikilink">파일:Xsampa-i.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전설_비원순_고모음" title="wikilink">전설 비원순 고모음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>j</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-j2.png" title="wikilink">파일:Xsampa-j2.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경구개_접근음" title="wikilink">경구개 접근음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>j\</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-jslash2.png" title="wikilink">파일:Xsampa-jslash2.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_경구개_마찰음" title="wikilink">유성 경구개 마찰음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>k</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-k.png" title="wikilink">파일:Xsampa-k.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_연구개_파열음" title="wikilink">무성 연구개 파열음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>l</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-l.png" title="wikilink">파일:Xsampa-l.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/치경_설측음" title="wikilink">치경 설측음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>l`</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-l&#39;.png" title="wikilink">파일:Xsampa-l'.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/권설_설측음" title="wikilink">권설 설측음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>l\</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-lslash.png" title="wikilink">파일:Xsampa-lslash.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/치경_설측_탄음" title="wikilink">치경 설측 탄음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>m</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-m.png" title="wikilink">파일:Xsampa-m.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/양순_비음" title="wikilink">양순 비음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>n</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-n.png" title="wikilink">파일:Xsampa-n.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/치경_비음" title="wikilink">치경 비음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>n`</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-n&#39;.png" title="wikilink">파일:Xsampa-n'.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/권설_비음" title="wikilink">권설 비음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>o</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-o.png" title="wikilink">파일:Xsampa-o.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/후설_원순_중고모음" title="wikilink">후설 원순 중고모음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>p</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-p.png" title="wikilink">파일:Xsampa-p.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_양순_파열음" title="wikilink">무성 양순 파열음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>p\</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-pslash.png" title="wikilink">파일:Xsampa-pslash.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_양순_마찰음" title="wikilink">무성 양순 마찰음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>q</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-q.png" title="wikilink">파일:Xsampa-q.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_구개수_파열음" title="wikilink">무성 구개수 파열음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>r</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-r.png" title="wikilink">파일:Xsampa-r.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/치경_전음" title="wikilink">치경 전음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>r`</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-r&#39;.png" title="wikilink">파일:Xsampa-r'.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/권설_탄음" title="wikilink">권설 탄음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>r\</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-rslash2.png" title="wikilink">파일:Xsampa-rslash2.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/치경_접근음" title="wikilink">치경 접근음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>r\`</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-rslash&#39;.png" title="wikilink">파일:Xsampa-rslash'.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/권설_접근음" title="wikilink">권설 접근음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>s</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-s.png" title="wikilink">파일:Xsampa-s.png</a></p></td>
 <td><p><a href="../Page/무성_치경_마찰음.md" title="wikilink">무성 치경 마찰음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>s`</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-s&#39;.png" title="wikilink">파일:Xsampa-s'.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_권설_마찰음" title="wikilink">무성 권설 마찰음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>s\</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-sslash.png" title="wikilink">파일:Xsampa-sslash.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_치경구개_마찰음" title="wikilink">무성 치경구개 마찰음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>t</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-t.png" title="wikilink">파일:Xsampa-t.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_치경_파열음" title="wikilink">무성 치경 파열음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>t`</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-t&#39;.png" title="wikilink">파일:Xsampa-t'.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_권설_파열음" title="wikilink">무성 권설 파열음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>u</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-u.png" title="wikilink">파일:Xsampa-u.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/후설_원순_고모음" title="wikilink">후설 원순 고모음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>v</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-v.png" title="wikilink">파일:Xsampa-v.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_순치_마찰음" title="wikilink">유성 순치 마찰음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>v\</code> (또는 <code>P</code>)</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-Porvslash.png" title="wikilink">파일:Xsampa-Porvslash.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/순치_접근음" title="wikilink">순치 접근음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>w</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-w2.png" title="wikilink">파일:Xsampa-w2.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/양순_연구개_접근음" title="wikilink">양순 연구개 접근음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>x</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-x.png" title="wikilink">파일:Xsampa-x.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_연구개_마찰음" title="wikilink">무성 연구개 마찰음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>x\</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-xslash2.png" title="wikilink">파일:Xsampa-xslash2.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_후치경_연구개_마찰음" title="wikilink">무성 후치경 연구개 마찰음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>y</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-y.png" title="wikilink">파일:Xsampa-y.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전설_원순_고모음" title="wikilink">전설 원순 고모음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>z</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-z.png" title="wikilink">파일:Xsampa-z.png</a></p></td>
 <td><p><a href="../Page/유성_치경_마찰음.md" title="wikilink">유성 치경 마찰음</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><code>z`</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-z&#39;.png" title="wikilink">파일:Xsampa-z'.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_권설_마찰음" title="wikilink">유성 권설 마찰음</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><code>z\</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-zslash.png" title="wikilink">파일:Xsampa-zslash.png</a></p></td>
@@ -322,7 +328,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/후설_비원순_저모음" title="wikilink">후설 비원순 저모음</a></p></td>
 </tr>
 <tr class="even">
-<td><p><code>B</code></p></td>
+<td><p><code>B</code> (또는 <code>b\</code>)</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-B2.png" title="wikilink">파일:Xsampa-B2.png</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유성_양순_마찰음" title="wikilink">유성 양순 마찰음</a></p></td>

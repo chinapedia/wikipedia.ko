@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 선언문](https://ko.wikipedia.org/wiki/GNU_선언문).
 
 
 **GNU 선언문**(GNU Manifesto)은 [리처드 스톨만이](https://ko.wikipedia.org/wiki/리처드_스톨만 "wikilink") 1985년 3월에 [GNU 프로젝트의](../Page/GNU_프로젝트.md "wikilink") 목표를 설명하고 다른 사람들의 참여와 지원을 요청하기 위해 [닥터 돕스 저널](https://ko.wikipedia.org/wiki/닥터_돕스_저널 "wikilink")(*Dr. Dobb's Journal of Software Tools* **10**(3))\[1\]에 실은 글이다. 처음에는 프로젝트의 진행에 따라 조금씩 개정되었지만, 현재는 있는 그대로를 보존하는 것이 낫다는 판단하에 그대로 유지되고 있다. 전체 본문은 emacs와 같은 GNU소프트웨어에 포함되어 있으며, 공개적으로 사용할 수 있다.

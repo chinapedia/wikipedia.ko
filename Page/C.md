@@ -12,7 +12,7 @@
   - [이탈리아어](../Page/이탈리아어.md "wikilink"): 치 \[i\]
   - [스페인어](../Page/스페인어.md "wikilink"): 세 \[se\], \[θe\]
   - [라틴어](../Page/라틴어.md "wikilink"): 케 \[keː\]
-  - [에스페란토](../Page/에스페란토.md "wikilink"): 초 \[o\]
+  - [에스페란토](../Page/에스페란토.md "wikilink"): 초 \[tso\]
 
 ## 역사
 

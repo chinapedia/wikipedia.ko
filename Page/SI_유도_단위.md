@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SI  ](https://ko.wikipedia.org/wiki/SI__).
+> This article is converted from Wikipedia: [SI 유도 단위](https://ko.wikipedia.org/wiki/SI_유도_단위).
 
 
-[국제단위계](../Page/국제단위계.md "wikilink")의 **유도 단위** ()는 [국제단위계](../Page/국제단위계.md "wikilink")의 일곱 개 기본 단위를 조합해 만들어진 단위이다. **조립 단위** 또는 **도출 단위**라고 부르기도 한다.
+[국제단위계](../Page/국제단위계.md "wikilink")의 **유도 단위**()는 [국제단위계](../Page/국제단위계.md "wikilink")의 일곱 개 기본 단위를 조합해 만들어진 단위이다. **조립 단위** 또는 **도출 단위**라고 부르기도 한다.
 
 ## 특별한 이름의 유도 단위
 

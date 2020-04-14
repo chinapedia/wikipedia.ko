@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 뉴스데스크](https://ko.wikipedia.org/wiki/MBC_뉴스데스크).
 
 
-《**MBC 뉴스데스크**》()는 평일 저녁 7시 30분, 주말 저녁 7시 55분에 방송되는 [문화방송의 뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
+《**MBC 뉴스데스크**》()는 평일 저녁 7시 35분, 주말 저녁 8시에 방송되는 [문화방송의 뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -258,13 +258,23 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_18일.md" title="wikilink">3월 18일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_18일.md" title="wikilink">3월 18일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_20일.md" title="wikilink">3월 20일</a></p></td>
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 저녁 7:30 ~ 8:55</p></td>
 <td><p>1시간 25분[1]</p></td>
 </tr>
 <tr class="even">
 <td><p>매주 <a href="../Page/금요일.md" title="wikilink">금요일</a> 저녁 7:30 ~ 8:30</p></td>
 <td><p>1시간</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_23일.md" title="wikilink">3월 23일</a> ~ <strong>현재</strong></p></td>
+<td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 저녁 7:35 ~ 8:55</p></td>
+<td><p>1시간 20분</p></td>
+</tr>
+<tr class="even">
+<td><p>매주 <a href="../Page/금요일.md" title="wikilink">금요일</a> 저녁 7:35 ~ 8:30</p></td>
+<td><p>55분</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -836,11 +846,11 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_3일.md" title="wikilink">9월 3일</a></p></td>
-<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 저녁 7:55 ~ 8:45</p></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 저녁 8:00 ~ 8:45</p></td>
 <td><p>50분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_31일.md" title="wikilink">3월 31일</a> ~ 현재</p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_31일.md" title="wikilink">3월 31일</a> ~ <strong>현재</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -874,46 +884,44 @@
 이재은 앵커
 김경호 앵커
 
-### 바로 간다(토요일)
+### 바로 간다 / 다시 간다
 
-### 다시 간다(일요일)
+### 당신이 뉴스입니다
 
-### 당신이 뉴스입니다(월요일)
-
-### 소수의견(화요일)
+### 소수의견
 
 ### 앵커 리포트
 
 왕종명 앵커ㅣ이재은 앵커
 김경호 앵커ㅣ강다솜 앵커
 
-### 정치적 참견시점(수요일)
+### 정치적 참견시점
 
 왕종명 앵커ㅣ박영회 기자
 
-### 오늘 이 뉴스(목요일)
+### 오늘 이 뉴스
 
 이재은 앵커
 
-### 로드맨(금요일)
+### 로드맨
 
 로드맨ㅣ염규현 기자
 팩트맨ㅣ남형석 기자
 
-### 법이 없다(토요일)
+### 법이 없다
 
 곽승규 기자
 
-### 백투더뉴스(일요일)
+### 백투더뉴스
 
-### 14F(토요일)
+### 14F
 
 이영은 아나운서
 김정현 아나운서
 
-### 현장 36.5(일요일)
+### 현장 36.5.
 
-### [MBC 스포츠뉴스](../Page/MBC_스포츠뉴스.md "wikilink")(평일/주말)
+### [MBC 스포츠뉴스](../Page/MBC_스포츠뉴스.md "wikilink")
 
 허일후 아나운서
 박연경 아나운서
@@ -1089,8 +1097,9 @@
   - [2008년](../Page/2008년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") : 김세용, 손정은
   - [2009년](../Page/2009년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") : 왕종명, 손정은
   - [2010년](../Page/2010년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [10월 31일](../Page/10월_31일.md "wikilink") : 왕종명, 배현진
-  - [2010년](../Page/2010년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") : 배현진
-  - [2012년](../Page/2012년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [5월 6일](../Page/5월_6일.md "wikilink") : 최일구, 김세용, 김창옥, 김상운
+  - [2010년](../Page/2010년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") : 최일구, 배현진
+  - [2011년](../Page/2011년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") : 최일구, 문지애
+  - [2012년](../Page/2012년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [5월 6일](../Page/5월_6일.md "wikilink") : 최일구 / 김세용 / 김창옥 / 김상운
   - [2012년](../Page/2012년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") \~ [6월 17일](../Page/6월_17일.md "wikilink") : 정연국, 양승은
   - [2012년](../Page/2012년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink") \~ [10월 7일](../Page/10월_7일.md "wikilink") : 최대현, 양승은
   - [2012년](../Page/2012년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink") : 신동호, 양승은
@@ -1110,7 +1119,11 @@
 
 각 지역별로 매주 월요일 \~ 목요일 & 토요일 \~ 일요일 오후 8시 25분, 매주 금요일 오후 8시 10분 경부터 다음의 지역 뉴스를 자체적으로 방송하고 있다.
 
-  - 강원(춘천, 원주, 강원영동 (강릉·삼척) 등은 주말에 한 달씩 방송국마다 돌아가면서 뉴스를 진행했었다.
+  - 강원(춘천, 원주, 강원영동 (강릉·삼척) 등은 주말에 한 달씩 방송국마다 돌아가면서 뉴스를 진행했었다. 토요일에는 방송하지 않고 일요일에만 방송 된다.
+  - 각 지역별 뉴스 데스크 예고 자막은 MBC FM 4U TV의 배철수의 음악 캠프 방송중 매일 내 보내고 있다.본사 뉴스 데스크 예고 자막도 같이 지역별 FM 4U의 TV로 매일 내 보내고 있다.표준 FM TV서 자체 때만 각 지역별 뉴스 데스크 예고 자막 이다 목포.여수.제주만 이승원의 세계는 우리는 방송 중 본사 뉴스 데스크 예고 자막을 내 보내고 있다. 주말의 경우 자체 때만 각 지역별 뉴스 데스크 예고 자막 이다.이윤석.신아영의 좋은 주말 방송 중 본사 뉴스 데스크 예고 자막을 내 보낸다.
+
+<!-- end list -->
+
   - WAVVE, imbc.com에는 뉴스 프로그램에 한해서 로그인 없이 실시간 방송을 볼 수 있다.
   - 지역국들은 뉴스시간대라도 로그인을 해야 한다. (목포, 여수, 전주, 원주, 대구 등)
   - imbc.com에서 로그인을 하면 일반화질은 무료로 초고화질은 정기권을 결제해야 볼수 있다.
@@ -1130,9 +1143,9 @@
 <td><p><a href="../Page/원주문화방송.md" title="wikilink">원주MBC</a></p></td>
 <td><p><a href="../Page/강원도.md" title="wikilink">강원</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_원주" title="wikilink">MBC 뉴스데스크 원주</a> (평일)<br />
-<a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_강원" title="wikilink">MBC 뉴스데스크 강원</a> (휴일,공휴일)</p></td>
+<a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_강원" title="wikilink">MBC 뉴스데스크 강원</a> (일요일)</p></td>
 <td><p>박지현</p></td>
-<td><p>강원 영동 수중계(주말)</p></td>
+<td><p>강원 영동 수중계(일요일)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/춘천문화방송.md" title="wikilink">춘천MBC</a></p></td>
@@ -1144,17 +1157,17 @@
 <tr class="odd">
 <td><p><a href="../Page/MBC강원영동.md" title="wikilink">MBC강원영동</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_강원_(MBC_강원영동)" title="wikilink">MBC 뉴스데스크 강원</a> (평일)<br />
-<a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_강원" title="wikilink">MBC 뉴스데스크 강원</a> (주말,공휴일)</p></td>
+<a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_강원" title="wikilink">MBC 뉴스데스크 강원</a> (일요일)</p></td>
 <td><p>성스리<br />
 (<a href="https://ko.wikipedia.org/wiki/강릉MBC" title="wikilink">강릉</a>·<a href="https://ko.wikipedia.org/wiki/삼척MBC" title="wikilink">삼척</a>)</p></td>
-<td><p>김인성 기자(주말)</p></td>
+<td><p>김인성 (일요일)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/포항문화방송.md" title="wikilink">포항MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경상북도" title="wikilink">경북 동해안</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/포항MBC_뉴스데스크" title="wikilink">포항MBC 뉴스데스크</a></p></td>
-<td><p>전세용, 박세아</p></td>
+<td><p>박세아</p></td>
 <td><p>무작위</p></td>
 </tr>
 <tr class="odd">
@@ -1251,8 +1264,8 @@
 | 기간                                                                                                                                                         | 시보 광고주                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [1981년](../Page/1981년.md "wikilink") 일자 미상 \~ [1985년](../Page/1985년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink")                                | 오리엔트시계 (또는 뉴스데스크 자체 시보)                                             |
-| [1986년](../Page/1986년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [1988년](../Page/1988년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink")   | [대우전자](https://ko.wikipedia.org/wiki/동부대우전자 "wikilink")             |
-| [1988년](../Page/1988년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") | [삼성시계](../Page/SWC_\(기업\).md "wikilink")\[78\]                      |
+| [1986년](../Page/1986년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [1988년](../Page/1988년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink")   | [위니아대우](../Page/위니아대우.md "wikilink")                                |
+| [1988년](../Page/1988년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") | [SWC](https://ko.wikipedia.org/wiki/SWC "wikilink")\[78\]           |
 | [1997년](../Page/1997년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink")   | [삼성 애니콜](../Page/삼성_애니콜.md "wikilink")                              |
 | [1998년](../Page/1998년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") | [삼성TV 명품플러스원](https://ko.wikipedia.org/wiki/삼성_파브 "wikilink")\[79\] |
 | [2011년](../Page/2011년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") \~ **현재**                                                                      | [삼성 갤럭시](../Page/삼성_갤럭시.md "wikilink")                              |
@@ -1262,110 +1275,35 @@
 ### 오프닝
 
   - [1970년](../Page/1970년.md "wikilink") [10월 5일부터](../Page/10월_5일.md "wikilink") [1976년](../Page/1976년.md "wikilink") [4월 22일까지](../Page/4월_22일.md "wikilink") 오프닝은 윤전기 소리가 전부였다.
-
-<!-- end list -->
-
   - [1976년](../Page/1976년.md "wikilink") [4월 23일부터](../Page/4월_23일.md "wikilink") [1980년](../Page/1980년.md "wikilink") [12월 14일까지](../Page/12월_14일.md "wikilink") 명칭을 MBC 뉴스의 현장으로 변경하면서 [스트라빈스키](https://ko.wikipedia.org/wiki/스트라빈스키 "wikilink")의 "봄의 제전" 곡 앞 부분을 오프닝으로 사용했다.
-
-<!-- end list -->
-
   - [1980년](../Page/1980년.md "wikilink") [12월 15일부터](../Page/12월_15일.md "wikilink") [1981년](../Page/1981년.md "wikilink") [3월 15일까지는](../Page/3월_15일.md "wikilink") [보스턴 팝스의](https://ko.wikipedia.org/wiki/보스턴_팝스 "wikilink") "Man of la mancha medley" 곡 맨앞 부분을 사용했다 .
-
-<!-- end list -->
-
   - [1981년](../Page/1981년.md "wikilink") [3월 16일부터](../Page/3월_16일.md "wikilink") [토미타 이사오의](../Page/토미타_이사오.md "wikilink") 목성이라는 곡으로 [1988년](../Page/1988년.md "wikilink") [9월 16일까지](../Page/9월_16일.md "wikilink") 사용하였다.
-
-<!-- end list -->
-
-  - 이 곡은 [1989년](../Page/1989년.md "wikilink")부터 [MBC 스포츠 뉴스와](https://ko.wikipedia.org/wiki/MBC_스포츠_뉴스 "wikilink") [MBC 뉴스에서도](https://ko.wikipedia.org/wiki/MBC_뉴스 "wikilink") 사용하였으나, [1993년](../Page/1993년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 개편 이후로 완전히 폐지되었다.
-
-<!-- end list -->
-
+  - 이 곡은 [1989년](../Page/1989년.md "wikilink")부터 [MBC 스포츠 뉴스와](https://ko.wikipedia.org/wiki/MBC_스포츠_뉴스 "wikilink") [MBC 뉴스에서도](https://ko.wikipedia.org/wiki/MBC_뉴스 "wikilink") 사용하였으나 [1993년](../Page/1993년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 개편 이후로 완전히 폐지되었다.
   - 이후 [1988년](../Page/1988년.md "wikilink") [9월 17일부터](../Page/9월_17일.md "wikilink") [1991년](../Page/1991년.md "wikilink") [4월 21일까지는](../Page/4월_21일.md "wikilink") <파이널 카운트다운>의 음악을 사용하였다.
-
-<!-- end list -->
-
-  - [1991년](../Page/1991년.md "wikilink") [4월 22일부터](../Page/4월_22일.md "wikilink") 작곡가 [임택수](https://ko.wikipedia.org/wiki/임택수 "wikilink")가 작곡한 내림 나장조의 곡이 처음으로 선보였는데, 첫 부분만 나오고 제공 자막 시점에는 여전히 윤전기 소리였다.
-
-<!-- end list -->
-
-  - [1993년](../Page/1993년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 방송부터 앞부분에 효과음이 들어갔으며, 제공 자막 시점에 나오는 시그널은 기존의 윤전기 소리였고, 내림 나장조의 뒷부분 곡은 중간 오프닝 음악으로 잠시 사용하다가, [1993년](../Page/1993년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") 방송분부터 본격적으로 삽입하면서 유명해졌다.
-
-<!-- end list -->
-
-  - 이 음악은 [1998년](../Page/1998년.md "wikilink") [4월 19일까지](../Page/4월_19일.md "wikilink") 4년 6개월 동안 사용하였으며, 앞부분은 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 예고방송에 삽입되어 나왔다.
-
-<!-- end list -->
-
+  - [1991년](../Page/1991년.md "wikilink") [4월 22일부터](../Page/4월_22일.md "wikilink") 작곡가 [임택수](https://ko.wikipedia.org/wiki/임택수 "wikilink")가 작곡한 내림 나장조의 곡이 처음으로 선보였는데 첫 부분만 나오고 제공 자막 시점에는 여전히 윤전기 소리였다.
+  - [1993년](../Page/1993년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 방송부터 앞부분에 효과음이 들어갔으며, 제공 자막 시점에 나오는 시그널은 기존의 윤전기 소리였으며, 내림 나장조의 뒷부분 곡은 중간 오프닝 음악으로 잠시 사용하다가 [1993년](../Page/1993년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") 방송분부터 본격적으로 삽입하면서 유명해졌다.
+  - 이 음악은 [1998년](../Page/1998년.md "wikilink") [4월 19일까지](../Page/4월_19일.md "wikilink") 5년 동안 사용하였으며, 앞부분은 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 예고방송에 삽입되어 나왔다.
   - [1998년](../Page/1998년.md "wikilink") [4월 20일부터](../Page/4월_20일.md "wikilink") [대한민국의 IMF 구제금융 요청의](https://ko.wikipedia.org/wiki/대한민국의_IMF_구제금융_요청 "wikilink") 영향으로 인해 음악이 바뀌었으며, 주요뉴스 부분이 삽입되면서 중간 음악도 변경되었다.
-
-<!-- end list -->
-
-  - [1999년](../Page/1999년.md "wikilink") [12월 30일까지](../Page/12월_30일.md "wikilink") 1년 8개월 동안 사용되었고, [1999년](../Page/1999년.md "wikilink") [1월 4일에](../Page/1월_4일.md "wikilink") 제공자막 음악이 바뀌었다가, [1월 28일부터](../Page/1월_28일.md "wikilink") 다시 환원되었다.
-
-<!-- end list -->
-
+  - [1999년](../Page/1999년.md "wikilink") [12월 30일까지](../Page/12월_30일.md "wikilink") 1년 동안 사용되었으며, [1999년](../Page/1999년.md "wikilink") [1월 4일에](../Page/1월_4일.md "wikilink") 제공자막 음악이 바뀌었다가 [1월 28일부터](../Page/1월_28일.md "wikilink") 다시 환원되었다.
   - [1999년](../Page/1999년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 웅장한 음악으로 다시 바뀌었다.
-
-<!-- end list -->
-
-  - [2000년 남북정상회담](../Page/2000년_남북정상회담.md "wikilink") 특집 《한민족 새천년의 만남》의 일환으로 방송되었던 [2000년](../Page/2000년.md "wikilink") [6월 10일부터](../Page/6월_10일.md "wikilink") [6월 15일까지](../Page/6월_15일.md "wikilink"), 제1차 [남북 이산가족 상봉](../Page/남북_이산가족_상봉.md "wikilink") 특집 《새천년의 만남 서울에서 평양에서》의 일환으로 방송되었던 [2000년](../Page/2000년.md "wikilink") [8월 13일부터](../Page/8월_13일.md "wikilink") [8월 18일까지는](../Page/8월_18일.md "wikilink") 별도의 시그널 영상과 음악을 사용했다.
-
-<!-- end list -->
-
-  - [2000년](../Page/2000년.md "wikilink") [7월 20일에](../Page/7월_20일.md "wikilink") 약간 음이 바뀌었으나, 다시 원래대로 상관 없이 롤백하였고, [2000년](../Page/2000년.md "wikilink") [12월 31일까지](../Page/12월_31일.md "wikilink") 사용되었다.
-
-<!-- end list -->
-
-  - [2001년](../Page/2001년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 느린 속도의 두 번째 리메이크 곡이 나왔는데, 이 곡은 일주일간 나오다가 MBC 사내의 혹평으로 다시 원래의 곡으로 상관 없이 연관 없이 롤백하고 만다.
-
-<!-- end list -->
-
-  - [2001년](../Page/2001년.md "wikilink") [1월 8일부터](../Page/1월_8일.md "wikilink") [2월 4일까지](../Page/2월_4일.md "wikilink") [1993년](../Page/1993년.md "wikilink") [10월 22일부터](../Page/10월_22일.md "wikilink") 사용했던 곡을 잠시 사용하였는데, 대신 뒷 부분이 편집된 채로 나왔다.
-
-<!-- end list -->
-
-  - [2001년](../Page/2001년.md "wikilink") [2월 5일부터](../Page/2월_5일.md "wikilink") 두 번째 리메이크 곡의 완전 변경판이 나왔는데, 이 곡은 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")의 대표 곡으로 자리매김하였으며, 지금도 MBC 뉴스데스크 하면 이 시그널을 떠올리고 있다.
-
-<!-- end list -->
-
+  - [2000년 남북정상회담](../Page/2000년_남북정상회담.md "wikilink") 특집 《한민족 새천년의 만남》의 일환으로 방송되었던 [2000년](../Page/2000년.md "wikilink") [6월 10일부터](../Page/6월_10일.md "wikilink") [6월 15일까지](../Page/6월_15일.md "wikilink") 제1차 [남북 이산가족 상봉](../Page/남북_이산가족_상봉.md "wikilink") 특집 《새천년의 만남 서울에서 평양에서》의 일환으로 방송되었던 [2000년](../Page/2000년.md "wikilink") [8월 13일부터](../Page/8월_13일.md "wikilink") [8월 18일까지는](../Page/8월_18일.md "wikilink") 별도의 시그널 영상과 음악을 사용했다.
+  - [2000년](../Page/2000년.md "wikilink") [7월 20일에](../Page/7월_20일.md "wikilink") 약간 음이 바뀌었으나 다시 원래대로 상관 없이 롤백하였으며, [2000년](../Page/2000년.md "wikilink") [12월 31일까지](../Page/12월_31일.md "wikilink") 사용되었다.
+  - [2001년](../Page/2001년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 느린 속도의 두 번째 리메이크 곡이 나왔는데 이 곡은 일주일간 나오다가 MBC 사내의 혹평으로 다시 원래의 곡으로 상관 없이 연관 없이 롤백하고 만다.
+  - [2001년](../Page/2001년.md "wikilink") [1월 8일부터](../Page/1월_8일.md "wikilink") [2월 4일까지](../Page/2월_4일.md "wikilink") [1993년](../Page/1993년.md "wikilink") [10월 22일부터](../Page/10월_22일.md "wikilink") 사용했던 곡을 잠시 사용하였는데 대신 뒷 부분이 편집된 채로 나왔다.
+  - [2001년](../Page/2001년.md "wikilink") [2월 5일부터](../Page/2월_5일.md "wikilink") 두 번째 리메이크 곡의 완전 변경판이 나왔는데 이 곡은 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")의 대표 곡으로 자리매김하였으며, 지금도 MBC 뉴스데스크 하면 이 시그널을 떠올리고 있다.
   - 이 곡은 [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink"), [MBC 뉴스](https://ko.wikipedia.org/wiki/MBC_뉴스 "wikilink"), [MBC 뉴스 24](../Page/MBC_뉴스_24.md "wikilink") 등의 사용하기도 했다.
-
-<!-- end list -->
-
-  - 이 곡은 [2012년](../Page/2012년.md "wikilink") [7월 26일까지](../Page/7월_26일.md "wikilink") 11년 5개월 동안 사용하였으며, [2012년](../Page/2012년.md "wikilink") [7월 27일에](../Page/7월_27일.md "wikilink") 디지털로 편곡된 세 번째 리메이크 곡이 나왔는데, 음 일부 때문에 2012년 7월 28일부터 일부 변경되어 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 2년 1개월 동안 사용되었다.
-
-<!-- end list -->
-
-  - 하지만 [2014년](../Page/2014년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 상암동 MBC 시대가 개막함에 따라 새로운 CG과 새로운 시그널이 만들어졌고, 이 시그널은 [1991년](../Page/1991년.md "wikilink")부터 [1998년](../Page/1998년.md "wikilink")까지 그리고 2001년부터 2014년까지 20년 동안 쓰이던 시그널과 아무 연관성이 없는 새로운 시그널이었으며, [2017년](../Page/2017년.md "wikilink") [12월 7일까지](../Page/12월_7일.md "wikilink") 3년 4개월 동안 사용되었다.
-
-<!-- end list -->
-
-  - 이 MBC 뉴스데스크 시그널 (2001년 2월 5일 \~ 2012년 7월 26일)은 [930 MBC 뉴스](../Page/930_MBC_뉴스.md "wikilink"), [12 MBC 뉴스](../Page/12_MBC_뉴스.md "wikilink"), [5 MBC 뉴스](../Page/5_MBC_뉴스.md "wikilink"), MBC 뉴스데스크, [MBC 주말뉴스](https://ko.wikipedia.org/wiki/MBC_주말뉴스 "wikilink") 등의 엔딩에만 쓰이고 있으나 [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") 방송분부터 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 쓰이던 시그널 곡의 네 번째 리메이크 버전이 나왔다.
+  - 이 곡은 [2012년](../Page/2012년.md "wikilink") [7월 26일까지](../Page/7월_26일.md "wikilink") 11년 동안 사용하였으며, [2012년](../Page/2012년.md "wikilink") [7월 27일에](../Page/7월_27일.md "wikilink") 디지털로 편곡된 세 번째 리메이크 곡이 나왔는데 음 일부 때문에 2012년 7월 28일부터 일부 변경되어 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 2년 동안 사용되었다.
+  - 하지만 [2014년](../Page/2014년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 상암동 MBC 시대가 개막함에 따라 새로운 CG과 새로운 시그널이 만들어졌으며, 이 시그널은 [1991년](../Page/1991년.md "wikilink")부터 [1998년](../Page/1998년.md "wikilink")까지 그리고 2001년부터 2014년까지 20년 동안 쓰이던 시그널과 아무 연관성이 없는 새로운 시그널이었으며, [2017년](../Page/2017년.md "wikilink") [12월 7일까지](../Page/12월_7일.md "wikilink") 3년 동안 사용되었다.
+  - 이 MBC 뉴스데스크 시그널(2001년 2월 5일 \~ 2012년 7월 26일)은 [930 MBC 뉴스](../Page/930_MBC_뉴스.md "wikilink"), [12 MBC 뉴스](../Page/12_MBC_뉴스.md "wikilink"), [5 MBC 뉴스](../Page/5_MBC_뉴스.md "wikilink"), MBC 뉴스데스크, [MBC 주말뉴스](https://ko.wikipedia.org/wiki/MBC_주말뉴스 "wikilink") 등의 엔딩에만 쓰이고 있으나 [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") 방송분부터 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 쓰이던 시그널 곡의 네 번째 리메이크 버전이 나왔다.
 
 ### 엔딩
 
   - [1970년](../Page/1970년.md "wikilink") [10월 5일부터](../Page/10월_5일.md "wikilink") [1993년](../Page/1993년.md "wikilink") [4월 11일까지](../Page/4월_11일.md "wikilink") 윤전기 소리로 끝맺었다.
-
-<!-- end list -->
-
   - [1993년](../Page/1993년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") 방송 분부터 [장미셸 자르의](../Page/장미셸_자르.md "wikilink") 'Equinoxe IV'가 엔딩곡으로 [1997년](../Page/1997년.md "wikilink") [5월 30일까지](../Page/5월_30일.md "wikilink") 이어졌다.
-
-<!-- end list -->
-
-  - [1997년](../Page/1997년.md "wikilink") [5월 31일부터](../Page/5월_31일.md "wikilink") 내림 나장조의 뒷부분 곡으로 변경하여 [1999년](../Page/1999년.md "wikilink") [4월 19일까지](../Page/4월_19일.md "wikilink") 사용하다, MBC 뉴스센터의 엔딩으로 사용했던 곡을 처음에는 [1998년](../Page/1998년.md "wikilink") [3월 17일부터](../Page/3월_17일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [4월 20일까지](../Page/4월_20일.md "wikilink")(1998년 3월 31일 제외) 잠깐동안 사용하고, [1999년](../Page/1999년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") 방영분부터 [12월 30일까지](../Page/12월_30일.md "wikilink") 사용하였고, [1999년](../Page/1999년.md "wikilink") [12월 31일부터](../Page/12월_31일.md "wikilink") [2000년](../Page/2000년.md "wikilink") [12월 31일까지](../Page/12월_31일.md "wikilink") 현재 [YTN](../Page/YTN.md "wikilink")에서 사용 중인 엔딩을 사용하였으며, [2001년](../Page/2001년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") 동년 [2월 4일까지](../Page/2월_4일.md "wikilink") Glory Dreams를 사용했다.
-
-<!-- end list -->
-
-  - [2001년](../Page/2001년.md "wikilink") [2월 5일부터](../Page/2월_5일.md "wikilink") 두 번째 리메이크 곡의 뒷부분을 사용하는데, 이 곡은 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 13년 6개월 동안 사용하였으며 세 번째 리메이크 된 디지털 오프닝 곡과 대칭이 맞지 않아 논란이 되었다.
-
-<!-- end list -->
-
-  - 앞의 오프닝에서도 언급했듯이 [2014년](../Page/2014년.md "wikilink") [8월 4일부터](../Page/8월_4일.md "wikilink") 마침내 오프닝과 동일한 시그널이 엔딩 시그널로 쓰이기 시작해 [2017년](../Page/2017년.md "wikilink") [12월 7일까지](../Page/12월_7일.md "wikilink") 3년 4개월 동안 사용되었다.
-
-<!-- end list -->
-
-  - 그러나 [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink"), MBC 뉴스 개편과 더불어 오프닝 음악이 다시 시그널이 바뀜에 따라, [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 사용했던 엔딩 부분 시그널 음악으로 돌아갔다.
+  - [1997년](../Page/1997년.md "wikilink") [5월 31일부터](../Page/5월_31일.md "wikilink") 내림 나장조의 뒷부분 곡으로 변경하여 [1999년](../Page/1999년.md "wikilink") [4월 19일까지](../Page/4월_19일.md "wikilink") 사용하다 MBC 뉴스센터의 엔딩으로 사용했던 곡을 처음에는 [1998년](../Page/1998년.md "wikilink") [3월 17일부터](../Page/3월_17일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [4월 20일까지](../Page/4월_20일.md "wikilink")(1998년 3월 31일 제외) 잠깐동안 사용하고 [1999년](../Page/1999년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") 방영분부터 [12월 30일까지](../Page/12월_30일.md "wikilink") 사용하였으며, [1999년](../Page/1999년.md "wikilink") [12월 31일부터](../Page/12월_31일.md "wikilink") [2000년](../Page/2000년.md "wikilink") [12월 31일까지](../Page/12월_31일.md "wikilink") 현재 [YTN](../Page/YTN.md "wikilink")에서 사용 중인 엔딩을 사용하였으며, [2001년](../Page/2001년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") 동년 [2월 4일까지](../Page/2월_4일.md "wikilink") Glory Dreams를 사용했다.
+  - [2001년](../Page/2001년.md "wikilink") [2월 5일부터](../Page/2월_5일.md "wikilink") 두 번째 리메이크 곡의 뒷부분을 사용하는데 이 곡은 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 13년 동안 사용하였으며, 세 번째 리메이크 된 디지털 오프닝 곡과 대칭이 맞지 않아 논란이 되었다.
+  - 앞의 오프닝에서도 언급했듯이 [2014년](../Page/2014년.md "wikilink") [8월 4일부터](../Page/8월_4일.md "wikilink") 마침내 오프닝과 동일한 시그널이 엔딩 시그널로 쓰이기 시작해 [2017년](../Page/2017년.md "wikilink") [12월 7일까지](../Page/12월_7일.md "wikilink") 3년 동안 사용되었다.
+  - 그러나 [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") MBC 뉴스 개편과 더불어 오프닝 음악이 다시 시그널이 바뀜에 따라 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 사용했던 엔딩 부분 시그널 음악으로 돌아갔다.
 
 ## 타이틀 변천사
 
@@ -1501,7 +1439,7 @@
 75. 왕종명 앵커의 휴가, 해외 출장으로 인하여, 성장경 앵커가 대신 진행.
 76. 이재은 앵커의 개인 사정으로 인하여 강다솜 앵커가 대신 진행.
 77. 왕종명 앵커의 휴가, 해외 출장으로 인하여, 김경호 앵커가 대신 진행.
-78. 삼성시계 제공 시보에 등장한 시계 제품으로는 돌체, 카파, 론진, 롤라이가 있다.
+78. 삼성시계 제공 시보에 등장한 시계 제품으로는 돌체, 카파, 론진, 롤라이 등이 있다.
 79. 삼성TV 명품플러스원 제공 시보는 프랑스에서 개최된 [1998년 FIFA 월드컵을](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 앞둔 시점인 1998년 5월 20일에 공개되었지만 1998년 FIFA 월드컵에 참가한 [대한민국 축구 국가대표팀의](../Page/대한민국_축구_국가대표팀.md "wikilink") 조별 예선 탈락이 확정되면서 애니콜 제공 시보로 회귀했다.
 80. [1998년](../Page/1998년.md "wikilink")과 [1999년](../Page/1999년.md "wikilink")에는 일일연속극 《[보고 또 보고](../Page/보고_또_보고.md "wikilink")》 끝난 직후, 9시에 《MBC 뉴스데스크》를 동시간대 1위로 제쳤다.
 81. 2006년부터 2008년까지 당시 시청률 한자리수가 집계된 적이 있다.

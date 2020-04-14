@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [조지 W. 부시](https://ko.wikipedia.org/wiki/조지_W._부시).
 
 
 **조지 워커 부시**( , , [1946년](../Page/1946년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 정치인이다. [2000년 대통령 선거에](../Page/2000년_미국_대통령_선거.md "wikilink") [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 소속으로 출마, 당선되어 [2001년](../Page/2001년.md "wikilink")부터 [43번째 대통령으로](../Page/미국의_대통령.md "wikilink") 재직했으며, [2004년 선거에서](../Page/2004년_미국_대통령_선거.md "wikilink") 다시 당선되어, [2009년](../Page/2009년.md "wikilink") [1월 20일까지](../Page/1월_20일.md "wikilink") 재임하였다.

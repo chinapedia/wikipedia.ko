@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KB](https://ko.wikipedia.org/wiki/KB).
+> This article is converted from Wikipedia: [KB손해보험](https://ko.wikipedia.org/wiki/KB손해보험).
 
 
 **KB손해보험**은 [대한민국](../Page/대한민국.md "wikilink")의 [손해보험](../Page/손해보험.md "wikilink") 회사로 [KB금융그룹](../Page/KB금융그룹.md "wikilink")의 자회사이다. KB손해보험의 미션은 '고객이 안전한 삶과 사업을 영위할 수 있도록 안심과 희망을 제공한다'로 비전은 '고객선호도 1위 보험사'이며 핵심 가치는 '고객지향, 변화주도, 프로의식, 투명성, 소통과 협업' 등이다. 1978년 영국 런던, 1987년 미국 뉴욕, 1988년 일본 도쿄, 1995년 중국과 베트남 등에 주재사무소를 설치해 해외 진출을 위한 초석을 마련하였다. 1996년 3월부터 2018년 12월까지는 손보업계 최초 긴급출동 서비스인 "매직카 서비스"를 실시했는데 무료 긴급출동 서비스, 자동차 구입자금 대출서비스, 안심콜 서비스 등 자동차보험에서 가능한 모든 서비스를 패키지로 제공하는 종합서비스다.

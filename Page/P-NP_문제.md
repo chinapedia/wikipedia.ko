@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P-NP ](https://ko.wikipedia.org/wiki/P-NP_).
+> This article is converted from Wikipedia: [P-NP 문제](https://ko.wikipedia.org/wiki/P-NP_문제).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Complexity_classes.png "wikilink")

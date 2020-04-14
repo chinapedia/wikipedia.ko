@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B](https://ko.wikipedia.org/wiki/B).
+> This article is converted from Wikipedia: [B세포](https://ko.wikipedia.org/wiki/B세포).
 
 
 **B 세포**(B細胞, )는 [림프구](https://ko.wikipedia.org/wiki/림프구 "wikilink") 중 [항체](https://ko.wikipedia.org/wiki/항체 "wikilink")를 생산하는 세포이다. [면역](../Page/면역.md "wikilink") 반응에서 외부로부터 침입하는 [항원](../Page/항원.md "wikilink")에 대항하여 [항체](https://ko.wikipedia.org/wiki/항체 "wikilink")를 만들어낸다. 원래 B 세포는 [조류의](../Page/새.md "wikilink") [총배설강](https://ko.wikipedia.org/wiki/총배설강 "wikilink") 주변에 있는 파브리키우스 주머니(bursa of Fabricius)에서 처음 발견되었기 때문에 주머니(bursa)의 첫 글자를 따서 B 세포라고 이름붙였으나, 사람을 포함한 포유류의 경우 [골수](../Page/골수.md "wikilink")(bone marrow)에서 유래되므로 골수의 첫 글자를 따서 B 세포라고 부르기도 한다. 인간에서는 혈중 림프구의 약 10\~15%, [림프절](https://ko.wikipedia.org/wiki/림프절 "wikilink")내 림프구의 약 20\~25%, [비장](../Page/비장.md "wikilink")내 림프구의 약 40\~45%가 B 세포이다.\[1\]

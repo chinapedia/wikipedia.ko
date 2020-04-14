@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [펜티엄 II](https://ko.wikipedia.org/wiki/펜티엄_II).
 
 
 **펜티엄 II**는 [인텔](../Page/인텔.md "wikilink")에서 만든 개인용 컴퓨터용 마이크로프로세서이다. [1997년](../Page/1997년.md "wikilink")에 처음 출시된 펜티엄 II는 이전의 [펜티엄 프로를](../Page/펜티엄_프로.md "wikilink") 기반으로 만들어졌으나 다음과 같은 변화가 있었다.

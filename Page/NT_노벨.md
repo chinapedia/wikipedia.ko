@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NT ](https://ko.wikipedia.org/wiki/NT_).
+> This article is converted from Wikipedia: [NT 노벨](https://ko.wikipedia.org/wiki/NT_노벨).
 
 
 **NT 노벨**(NT Novel)은 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")의 [라이트 노벨](../Page/라이트_노벨.md "wikilink") 브랜드 중 하나로, [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")가 [일본](../Page/일본.md "wikilink")의 출판사들([가도카와 쇼텐](../Page/가도카와_쇼텐.md "wikilink"), [미디어 웍스](https://ko.wikipedia.org/wiki/미디어_웍스 "wikilink"), [미디어 팩토리](https://ko.wikipedia.org/wiki/미디어_팩토리 "wikilink"), [엔터 브레인](https://ko.wikipedia.org/wiki/엔터_브레인 "wikilink"))로부터 정식 수입하여 발매하는 애니메이션 월간지 《[뉴타입](../Page/월간_뉴타입.md "wikilink")》(NewType)의 이름을 따왔다. 일괄 발매일은 매월 15일.

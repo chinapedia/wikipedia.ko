@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [애플 II](https://ko.wikipedia.org/wiki/애플_II).
 
 
 **애플 II**(**Apple II**, <small>애플 투</small>)는 [애플 컴퓨터가](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [1977년](../Page/1977년.md "wikilink")에 만든 [개인용 컴퓨터이다](../Page/개인용_컴퓨터.md "wikilink"). 1970년대 말부터 80년대 전반에 걸쳐 개인용 컴퓨터 붐을 이끈 주역이었다. 이 글에서는 애플 II뿐만 아니라 후속 모델인 애플 II+, 애플 //e, 애플 //c, 애플 IIGS 등에 걸친 전반적인 발전을 소개한다.

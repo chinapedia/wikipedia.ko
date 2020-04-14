@@ -25,6 +25,6 @@
 
 ## 외부 링크
 
-  - [에쓰오일 홈페이지](http://www.s-oil.co.kr/)
+  - [에쓰오일 홈페이지](http://www.s-oil.com/)
 
 [분류:1976년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1976년_설립된_기업 "wikilink") [분류:대한민국의 정유 회사](https://ko.wikipedia.org/wiki/분류:대한민국의_정유_회사 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink") [분류:쌍용의 이전 자회사](https://ko.wikipedia.org/wiki/분류:쌍용의_이전_자회사 "wikilink") [분류:대한민국의 화학 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_화학_기업 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink")

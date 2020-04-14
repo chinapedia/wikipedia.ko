@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SDS](https://ko.wikipedia.org/wiki/SDS).
+> This article is converted from Wikipedia: [삼성SDS](https://ko.wikipedia.org/wiki/삼성SDS).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Samsung_SDS_Tower.jpg "wikilink")

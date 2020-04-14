@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R.O.D \(\)](https://ko.wikipedia.org/wiki/R.O.D_\(\)).
+> This article is converted from Wikipedia: [R.O.D \(소설\)](https://ko.wikipedia.org/wiki/R.O.D_\(소설\)).
 
 
 《**R.O.D**》는 [구라타 히데유키가](https://ko.wikipedia.org/wiki/구라타_히데유키 "wikilink") 쓴 소설이다. [2001년](../Page/2001년.md "wikilink")에 3편의 애니메이션이 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")로 발매되었고, [2003년](../Page/2003년.md "wikilink")에는 속편이 《R.O.D -THE TV-》라는 제목의 TV시리즈로 제작되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LS](https://ko.wikipedia.org/wiki/LS).
+> This article is converted from Wikipedia: [LS그룹](https://ko.wikipedia.org/wiki/LS그룹).
 
 
 **LS그룹**은 [2013년 4월](../Page/2013년_4월.md "wikilink") 기준 대한민국 재계 순위 9위(매출기준), 13위(자산기준)의 대기업으로 [2003년](../Page/2003년.md "wikilink") [LG그룹](../Page/LG그룹.md "wikilink")에서 [전선과](https://ko.wikipedia.org/wiki/전선_\(전기\) "wikilink") [금속](../Page/금속.md "wikilink") 부문이 계열분리하여 형성되었다. [2005년](../Page/2005년.md "wikilink")부터 사용하기 시작한 기업명 LS는 Leading Solution의 머리 글자를 따온 것이며, ‘LG’+‘GS’의 의미를 동시에 가진다.\[1\] 현 회장인 [구자열](../Page/구자열.md "wikilink")은 [LG그룹](../Page/LG그룹.md "wikilink") 회장 [구본무](../Page/구본무.md "wikilink")의 당숙이다. [2008년](../Page/2008년.md "wikilink") 본사를 기존 서울에서 안양으로 이전하였다.\[2\]
@@ -13,7 +13,7 @@
           - [GCI](https://ko.wikipedia.org/wiki/GCI "wikilink")
           - [파운텍](https://ko.wikipedia.org/wiki/파운텍 "wikilink")
           - [코스페이스](https://ko.wikipedia.org/wiki/코스페이스 "wikilink")
-      - [LS 산전](https://ko.wikipedia.org/wiki/LS_산전 "wikilink")
+      - [LS일렉트릭](https://ko.wikipedia.org/wiki/LS일렉트릭 "wikilink")
           - [플레넷](https://ko.wikipedia.org/wiki/플레넷 "wikilink")
           - [LS파워 세미텍](https://ko.wikipedia.org/wiki/LS파워_세미텍 "wikilink")
           - [LS메카피온](https://ko.wikipedia.org/wiki/LS메카피온 "wikilink")

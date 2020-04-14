@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P. D. Q. ](https://ko.wikipedia.org/wiki/P._D._Q._).
+> This article is converted from Wikipedia: [P. D. Q. 바흐](https://ko.wikipedia.org/wiki/P._D._Q._바흐).
 
 
 **P. D. Q. 바흐**(P. D. Q. Bach, 1742년? \~ 1807년)는 [피터 쉬클리](https://ko.wikipedia.org/wiki/피터_쉬클리 "wikilink") 교수가 만든 가상의 인물이다. 그의 음악은 [뱅가드](https://ko.wikipedia.org/wiki/뱅가드 "wikilink")와 [텔락](https://ko.wikipedia.org/wiki/텔락 "wikilink") 음반사에서 20여종의 CD가 출간되었다.

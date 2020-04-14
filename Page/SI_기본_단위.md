@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SI  ](https://ko.wikipedia.org/wiki/SI__).
+> This article is converted from Wikipedia: [SI 기본 단위](https://ko.wikipedia.org/wiki/SI_기본_단위).
 
 
 [국제 단위계](https://ko.wikipedia.org/wiki/국제_단위계 "wikilink")(SI)는 7가지 기본 측정 단위를 정의하고 있으며, 이로부터 다른 모든 [SI 유도 단위를](../Page/SI_유도_단위.md "wikilink") 이끌어낸다. 이들 **SI 기본 단위**와 그 물리량은 다음과 같다.

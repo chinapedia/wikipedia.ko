@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [존 F. 케네디](https://ko.wikipedia.org/wiki/존_F._케네디).
 
 
 **존 피츠제럴드 "잭" 케네디**(, [1917년](../Page/1917년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") \~ [1963년](../Page/1963년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink")) 또는 약어로 **JFK**는 [미국의 제35대 대통령이다](../Page/미국의_대통령.md "wikilink"). [1961년](../Page/1961년.md "wikilink")부터 [1963년](../Page/1963년.md "wikilink")에 암살당하기까지 겨우 3년 가까이 대통령직에 있었지만 미국의 [자유주의](../Page/자유주의.md "wikilink")에 대한 상징으로 기억되고 있다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 동안 [남태평양](https://ko.wikipedia.org/wiki/남태평양 "wikilink")에서 [PT-109](../Page/PT_109호.md "wikilink") 고속 어뢰정의 해군 장교로 근무했고, [1948년](../Page/1948년.md "wikilink")부터 [1953년](../Page/1953년.md "wikilink")까지 하원의원으로, [1953년](../Page/1953년.md "wikilink")부터 [1960년](../Page/1960년.md "wikilink")까지 상원의원으로 미 의회에 있었으며, [1960년](../Page/1960년.md "wikilink")에 대통령에 당선되었다.
@@ -35,7 +35,7 @@
 
 [1963년](../Page/1963년.md "wikilink") 동등한 인권과 경제적 권리들을 위한 흑인들의 주장들이 증가하였다. 미국 전역을 통하여 인종적 항의와 데모들이 일어났다. [5월](../Page/5월.md "wikilink")에 [버밍햄에서](../Page/버밍햄_\(앨라배마주\).md "wikilink") 폭동이 일어나자, 다음 달에 케네디는 [앨라배마 대학교에](../Page/앨라배마_대학교.md "wikilink") 흑백인의 공동 입학을 집행하도록 앨라배마 주군을 연방화하였다. [9월](../Page/9월.md "wikilink")에는 앨라배마 주의 3개의 도시들에서 학교들의 공동 입학을 보증하기 위하여 다시 주군을 연방화하였다. [8월 28일에는](../Page/8월_28일.md "wikilink") [워싱턴 D.C.에서](../Page/워싱턴_D.C..md "wikilink") 흑인들의 동등한 권리를 위한 요구를 데모하기 위하여 200,000명의 사람들이 "자유의 행렬"을 결성하였다.
 
-흑인들의 주장들의 증가를 만나면서 케네디는 인종에 상관없이 공공장소들에 손님들을 허락하는 데 입법을 통과시키기를 의회에 청하였다.
+흑인들의 주장들의 증가를 만나면서 케네디는 인종에 상관없이 공공장소들에 손님들을 허락하는 데 입법을 통과시키기를 의회에 청하였지만 통과되지 않았다.
 
 ### 쿠바 미사일 위기
 

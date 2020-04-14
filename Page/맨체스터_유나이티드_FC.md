@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [맨체스터 유나이티드 FC](https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Old_Trafford_inside_20060726_1.jpg "wikilink") **맨체스터 유나이티드 풋볼 클럽** ()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")에 있는 잉글랜드 프로 축구 구단이다. 1964-65 시즌 이래 단 1번의 시즌을 제외하고는 잉글랜드에서 최다 평균 관중 기록을 차지해왔다. [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 개편 당시 원년 구단이었으며 현재까지 계속 소속해 있다 프리미어리그 최다우승 팀이지만 [알렉스 퍼거슨](../Page/알렉스_퍼거슨.md "wikilink") 감독 은퇴이후로 부진을 면치 못하고 있다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Old_Trafford_inside_20060726_1.jpg "wikilink") **맨체스터 유나이티드 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")에 있는 잉글랜드 프로 축구 구단이다. 1964-65 시즌 이래 단 1번의 시즌을 제외하고는 잉글랜드에서 최다 평균 관중 기록을 차지해왔다. [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 개편 당시 원년 구단이었으며, 현재까지 계속 소속되어 있다. 프리미어리그 최다우승 팀이며, 잉글랜드에서 유일하게 트레블을 달성한 명문클럽이지만 [알렉스 퍼거슨](../Page/알렉스_퍼거슨.md "wikilink") 감독의 은퇴 이후로 부진을 면치 못하고 있다.
 
 구단은 [1878년](../Page/1878년.md "wikilink") 랭커셔 요크셔 철도의 뉴턴 히스 지부 실업팀인 **뉴턴 히스 LYR FC**(Newton Heath LYR F.C.)로 설립되었고, [1902년](../Page/1902년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") 맨체스터 유나이티드 FC로 개명했다.
 
@@ -50,6 +50,8 @@
 하지만, 솔샤르가 정식 감독 임명 직후, 성적은 급격하게 하락하여 시즌 6위를 마감하였고, FA컵에서도 울버햄턴에게 1-2로 패하여 시즌을 무관으로 마감했다.
 
 2019-20 시즌을 앞두고, 맨유는 루카쿠와 에레라 등을 내보내고, [스완지 시티에서](https://ko.wikipedia.org/wiki/스완지_시티 "wikilink") 측면 공격수인 [대니얼 제임스를](https://ko.wikipedia.org/wiki/대니얼_제임스 "wikilink") 영입하고, [크리스탈 팰리스에서](https://ko.wikipedia.org/wiki/크리스탈_팰리스 "wikilink") 뛰었던 풀백 [에런 완비사카를](https://ko.wikipedia.org/wiki/에런_완비사카 "wikilink") 영입하였다. 그리고, 지난 시즌 동안 취약 부분인 중앙 수비 자리를 [레스터 시티에서](https://ko.wikipedia.org/wiki/레스터_시티 "wikilink") 뛰었던 잉글랜드 국가대표 출신의 [해리 매과이어를](../Page/해리_매과이어.md "wikilink") 역대 최고 이적료를 갱신하면서 영입에 성공하였다. 2019년 8월 12일(한국시간)에 있었던 첼시와의 리그 홈 개막전 경기에서 무려 25년 만에 4-0 대승을 거두었고, 리그에서는 54년 만에 승리를 거뒀다.
+
+그 후, 겨울 이적 시장 때 스포르팅에서 뛰고 있던 포르투갈 국가대표 미드필더인 [브루누 페르난드스와](../Page/브루누_페르난드스_\(1994년\).md "wikilink") 중국 [상하이 선화에서](https://ko.wikipedia.org/wiki/상하이_선화 "wikilink") 뛰고 있던 나이지리아 공격수 [오디온 이갈로를](../Page/오디온_이갈로.md "wikilink") 데려온 맨유는 브루노와 이갈로의 효과로 분위기 반전에 성공하여 11경기 무패를 달렸다.
 
 ## 우승 기록
 
@@ -206,7 +208,7 @@
   - 감독 :  [올레 군나르 솔셰르](../Page/올레_군나르_솔셰르.md "wikilink")
   - 수석 코치 :  [마이크 펠런](../Page/마이크_펠런.md "wikilink")
   - 1군 코치 :  [마이클 캐릭](../Page/마이클_캐릭.md "wikilink"), 키에란 맥케나, 마크 뎀프시
-  - 골키퍼 코치 :  에밀리오 알바레스
+  - 골키퍼 코치 :  리차드 하티스, 크레이그 모슨
   - 체력 코치 :  파울로 가우디노
   - 보조 코치 :  히카르토 에크라드
   - 트레이닝 생리학자 :  존 피코트
@@ -249,9 +251,9 @@
   - [오언 하그리브스](../Page/오언_하그리브스.md "wikilink") (2007-2011)
   - [대니 웰벡](../Page/대니_웰벡.md "wikilink") (2008-2014)
   - [마이클 오언](https://ko.wikipedia.org/wiki/마이클_오언 "wikilink") (2009-2012)
+  - [애슐리 영](../Page/애슐리_영.md "wikilink") (2011-2020)
   - **[크리스 스몰링](../Page/크리스_스몰링.md "wikilink")** (2010- )
   - **[필 존스](https://ko.wikipedia.org/wiki/필_존스 "wikilink")** (2011- )
-  - **[애슐리 영](../Page/애슐리_영.md "wikilink")** (2011- )
   - **[루크 쇼](../Page/루크_쇼.md "wikilink")** (2014- )
   - **[마커스 래쉬포드](https://ko.wikipedia.org/wiki/마커스_래쉬포드 "wikilink")** (2016- )
 

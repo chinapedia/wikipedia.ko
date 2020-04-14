@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM](https://ko.wikipedia.org/wiki/IBM).
+> This article is converted from Wikipedia: [한국IBM](https://ko.wikipedia.org/wiki/한국IBM).
 
 
 **한국IBM**은 1967년 설립된 [IBM](../Page/IBM.md "wikilink")의 한국 내 자회사이다. 주 사업분야는 국내기업 및 정부 대상의 컨설팅 및 서비스, 금융기관의 차세대 뱅킹 시스템 및 방카슈랑스 구축, 항공회사의 전 세계 항공 네트워크 구축, 제조기업의 자동화 시스템, 전략적 아웃소싱 및 운영관리 등이다. 부설 연구소로 2004년 정보통신부와의 파트너십을 통해 설립한 [IBM 유비쿼터스 컴퓨팅 연구소](https://web.archive.org/web/20100227081147/http://www-903.ibm.com/kr/ucl/) 가 있으며, 텔레매틱스, 임베디드 소프트웨어, RFID 등 유비쿼터스 환경을 위한 기반 기술 개발과 기타 연구 프로젝트를 수행하고 있다. 2007년 설립한 [한국 소프트웨어 솔루션 연구소](https://web.archive.org/web/20140821114007/http://www-903.ibm.com/kr/kssl/) 는 국내 기업들이 최신 기술과 솔루션을 활용할 수 있도록 지원한다.

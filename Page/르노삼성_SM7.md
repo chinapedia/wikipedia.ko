@@ -1,11 +1,9 @@
-> This article is converted from Wikipedia: [ SM7](https://ko.wikipedia.org/wiki/_SM7).
+> This article is converted from Wikipedia: [르노삼성 SM7](https://ko.wikipedia.org/wiki/르노삼성_SM7).
 
 
 **르노삼성 SM7**(Renault Samsung SM7)은 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")의 전륜구동 준대형 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이다. 차명인 SM7은 '[르노삼성자동차](../Page/르노삼성자동차.md "wikilink")'(Samsung Motors)를 의미하는 SM에 준대형급을 상징하는 숫자 7을 결합한 것이다
 
-{{-}}1세대 SM7
-
-## 2세대(EX2/LF)
+## 1세대(EX2/LF)
 
 ### SM7넌아트(2004년 12월\~2008년 1월)
 
@@ -300,7 +298,7 @@
 
 {{-}}
 
-## 3세대(L47)
+## 2세대(L47)
 
 ### 올 뉴 SM7(2011년 8월\~2014년 9월)
 
@@ -675,13 +673,13 @@
       - RE35 아트 컬렉션 Ⅱ(2015년 출시, 2015년 단종)
       - V6 35(2016년 출시)
 
+## 외부 링크
+
+  - [[르노삼성자동차](../Page/르노삼성자동차.md "wikilink") 공식 홈페이지](http://www.renaultsamsungm.com/)
+
 ## 각주
 
 <references/>
-
-## 외부 링크
-
-  - [르노삼성자동차 공식 홈페이지](http://www.renaultsamsungm.com/)
 
 [SM7](https://ko.wikipedia.org/wiki/분류:르노삼성자동차의_차종 "wikilink") [SM7](https://ko.wikipedia.org/wiki/분류:세단 "wikilink") [SM7](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [SM7](https://ko.wikipedia.org/wiki/분류:준대형_승용차 "wikilink") [SM7](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [SM7](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [SM7](https://ko.wikipedia.org/wiki/분류:2004년_도입된_자동차 "wikilink")
 

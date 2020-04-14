@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DNA ](https://ko.wikipedia.org/wiki/DNA_).
+> This article is converted from Wikipedia: [DNA 복제](https://ko.wikipedia.org/wiki/DNA_복제).
 
 
 **DNA 복제**는 원본 DNA를 가지고 새로운 두개의 DNA로 만드는 과정이며, [DNA 중합효소](../Page/DNA_중합효소.md "wikilink") 복합체가 역할을 수행한다. [세포분열](https://ko.wikipedia.org/wiki/세포분열 "wikilink")하는 과정에서 1회 일어나며, 복제과정에서 실수를 줄이기 위해 복잡한 실수 보정장치를 가지고 있다. DNA 복제를 담당하는 DNA 중합효소는 10만 번에 한번 꼴로 염기쌍 결함에 오류를 범하는데, 교정기능에 의하여 다시 한번 오류가 일어날 확률이 10만 분의 1로 줄어들게 된다. 따라서 10<sup>-5</sup> x 10<sup>-5</sup> = 10<sup>-10</sup>(100억분의 1)의 확률로 복제의 오류가 발생한다.

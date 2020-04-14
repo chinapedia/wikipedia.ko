@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [러더퍼드 B. 헤이스](https://ko.wikipedia.org/wiki/러더퍼드_B._헤이스).
 
 
 **러더퍼드 버처드 헤이스**(Rutherford Birchard Hayes, [1822년](../Page/1822년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ [1893년](../Page/1893년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink"))는 [미국의 제19대 대통령](../Page/미국의_대통령.md "wikilink")(1877\~81)이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DS](https://ko.wikipedia.org/wiki/_DS).
+> This article is converted from Wikipedia: [닌텐도 DS](https://ko.wikipedia.org/wiki/닌텐도_DS).
 
 
 **닌텐도 DS**(, )는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발, 판매하는 휴대용 게임기이다. 2개의 화면이나 터치 패널, 마이크에 의한 음성 입력 등의 사용자 환경이 특징이다. [2004년](../Page/2004년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 발매되었으며, [일본](../Page/일본.md "wikilink")에서는 같은 해 [12월 2일에](../Page/12월_2일.md "wikilink") 발매되었다. [오스트레일리아](../Page/오스트레일리아.md "wikilink")와 [유럽](../Page/유럽.md "wikilink")에서는 [2005년](../Page/2005년.md "wikilink") [2월 24일과](../Page/2월_24일.md "wikilink") [2005년](../Page/2005년.md "wikilink") [3월 11일에](../Page/3월_11일.md "wikilink") 각각 발매되었으며 [중국](../Page/중국.md "wikilink")에서는 iQue DS라는 이름으로 [2005년](../Page/2005년.md "wikilink") [7월 23일에](../Page/7월_23일.md "wikilink") 발매되었다.

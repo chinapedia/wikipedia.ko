@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [후지 TV](https://ko.wikipedia.org/wiki/후지_TV).
 
 
 **주식회사 후지 텔레비전**()은 [일본](../Page/일본.md "wikilink") 최대의 [민영 방송국이다](https://ko.wikipedia.org/wiki/민영_방송국 "wikilink"). 본사는 [도쿄도](../Page/도쿄도.md "wikilink") [미나토구](../Page/미나토구_\(도쿄도\).md "wikilink") [다이바에](../Page/오다이바.md "wikilink") 있다.

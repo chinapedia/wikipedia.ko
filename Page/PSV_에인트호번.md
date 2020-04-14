@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PSV ](https://ko.wikipedia.org/wiki/PSV_).
+> This article is converted from Wikipedia: [PSV 에인트호번](https://ko.wikipedia.org/wiki/PSV_에인트호번).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Philips_Stadion.jpg "wikilink")

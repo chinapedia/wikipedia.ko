@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [로버트 B. 로플린](https://ko.wikipedia.org/wiki/로버트_B._로플린).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Robert_Laughlin,_Stanford_University.jpg "wikilink") **로버트 베츠 로플린**(Robert Betts Laughlin, [1950년](../Page/1950년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") \~ ) 은 [미국](../Page/미국.md "wikilink")의 [응용물리학](../Page/응용물리학.md "wikilink")자이다. [분수 양자 홀 효과](https://ko.wikipedia.org/wiki/분수_양자_홀_효과 "wikilink")(fractional quantum Hall effect)에 대해 설명해 낸 공로로, [호르스트 슈퇴르머](https://ko.wikipedia.org/wiki/호르스트_슈퇴르머 "wikilink"), [대니얼 추이와](../Page/대니얼_추이.md "wikilink") 함께 [1998년](../Page/1998년.md "wikilink") [노벨 물리학상을](../Page/노벨_물리학상.md "wikilink") 수상했다.

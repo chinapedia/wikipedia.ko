@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RPM  ](https://ko.wikipedia.org/wiki/RPM__).
+> This article is converted from Wikipedia: [RPM 패키지 매니저](https://ko.wikipedia.org/wiki/RPM_패키지_매니저).
 
 
 **RPM 패키지 매니저**(←**R**ed Hat **P**ackage **M**anager)는 원래 레드햇에서 사용되었던 패키지 파일이었지만 현재는 많은 RPM 기반 배포판이 사용되고 있다. 이는 두 가지를 말하는데, 하나는 RPM 패키지 그 자체와 또 하나는 RPM 패키지를 관리하기 위한 도구이다. RPM을 사용하면 각종 소프트웨어의 설치 및 업데이트를 굉장히 편리하게 할 수 있다.

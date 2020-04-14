@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
+> This article is converted from Wikipedia: [제임스 D. 왓슨](https://ko.wikipedia.org/wiki/제임스_D._왓슨).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:James_D_Watson.jpg "wikilink")
 
-**제임스 듀이 왓슨** (James Dewey Watson, 1928년 4월 6일 \~ )은 미국의 분자 생물학자, 유전학자, 동물학자로, 1953년 [프랜시스 크릭과](../Page/프랜시스_크릭.md "wikilink") 함께 [DNA](../Page/DNA.md "wikilink")의 이중 나선 구조를 발견한 것으로 잘 알려져 있다. 이 업적으로 1962년 [노벨 생리의학상을](https://ko.wikipedia.org/wiki/노벨_생리의학상 "wikilink") 수상했다.
+**제임스 듀이 왓슨**(James Dewey Watson, 1928년 4월 6일 \~ )은 미국의 분자 생물학자, 유전학자, 동물학자로, 1953년 [프랜시스 크릭과](../Page/프랜시스_크릭.md "wikilink") 함께 [DNA](../Page/DNA.md "wikilink")의 이중 나선 구조를 발견한 것으로 잘 알려져 있다. 이 업적으로 1962년 [노벨 생리의학상을](https://ko.wikipedia.org/wiki/노벨_생리의학상 "wikilink") 수상했다.
 
 그는 시카고 대학교 학사 후에 인디애나 대학교에서 석사 학위를 취득했고, 영국 케임브리지 대학교의 캐번디시 연구소에서 연구했다. 여기서 그는 미래의 공동연구자인 프랜시스 크릭을 처음으로 만나게 된다. DNA의 구조 규명 이후 미국의 하버드 대학교 생물학과 교수로 분자생물학 연구를 해오고 있다. 게놈 프로젝트를 주창했고 이 프로젝트의 초대 책임자를 맡기도 했다. 저서로는 교과서인 The Molecular Biology of the Gene (1965), DNA구조 발견에 대한 베스트 셀러인 The Double Helix(1968)가 있다. 그는 [인종주의](https://ko.wikipedia.org/wiki/인종주의 "wikilink")적으로 인식될 수 있는 여러 논쟁적인 발언 때문에 구설수에 오르고 있기도 하다.
 

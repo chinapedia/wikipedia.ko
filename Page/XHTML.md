@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XHTML](https://ko.wikipedia.org/wiki/XHTML).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:XHTML.svg "wikilink")  **XHTML**(Extensible Hypertext Markup Language)은 [HTML](../Page/HTML.md "wikilink")과 동등한 표현 능력을 지닌 [마크업 언어로](../Page/마크업_언어.md "wikilink"), HTML보다 엄격한 문법을 가진다. HTML이 [SGML](../Page/SGML.md "wikilink")의 응용인 데 반해, 매우 유연한 마크업 언어인 XHTML은 SGML의 제한된 부분집합인 [XML](../Page/XML.md "wikilink")의 응용이다. XHTML 문서는 하나의 XML 문서로서 문법적으로 정확해야 하기 때문에, HTML과 달리 표준 XML 라이브러리를 이용한 자동화된 처리가 가능하다. XHTML 1.0은 [2000년](../Page/2000년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink"), [W3C](../Page/W3C.md "wikilink")의 권고안이 되었다.
+**XHTML**(Extensible Hypertext Markup Language)은 [HTML](../Page/HTML.md "wikilink")과 동등한 표현 능력을 지닌 [마크업 언어로](../Page/마크업_언어.md "wikilink"), HTML보다 엄격한 문법을 가진다. HTML이 [SGML](../Page/SGML.md "wikilink")의 응용인 데 반해, 매우 유연한 마크업 언어인 XHTML은 SGML의 제한된 부분집합인 [XML](../Page/XML.md "wikilink")의 응용이다. XHTML 문서는 하나의 XML 문서로서 문법적으로 정확해야 하기 때문에, HTML과 달리 표준 XML 라이브러리를 이용한 자동화된 처리가 가능하다. XHTML 1.0은 [2000년](../Page/2000년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink"), [W3C](../Page/W3C.md "wikilink")의 권고안이 되었다.
 
 ## 개관
 

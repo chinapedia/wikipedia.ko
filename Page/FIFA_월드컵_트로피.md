@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 월드컵 트로피](https://ko.wikipedia.org/wiki/FIFA_월드컵_트로피).
 
 
 **FIFA컵**(Fifa Cup)은 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 우승국에게 주어지는 [황금](../Page/황금.md "wikilink") [트로피](https://ko.wikipedia.org/wiki/트로피 "wikilink")이다. 월드컵 대회가 [1930년](../Page/1930년.md "wikilink")에 창설된 이래, 두 개의 트로피가 우승의 증표가 되었다. 하나는 쥘 리메 컵으로 [1930년](../Page/1930년.md "wikilink")부터 [1970년](../Page/1970년.md "wikilink")까지, 그리고 다른 하나는 FIFA컵으로 [1974년](../Page/1974년.md "wikilink")부터 현재까지 이어져 오고 있다.

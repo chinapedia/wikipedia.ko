@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK텔레콤](https://ko.wikipedia.org/wiki/SK텔레콤).
 
 
 **SK텔레콤 주식회사**(, )는 대한민국의 이동통신 서비스 업체이다. 대한민국 이동통신 가입자 점유율 약 50%를 기록하며 현재까지도 이동통신 시장 점유율 1위를 잠식하고 있는 선두 업체이다.\[1\] 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") [을지로](../Page/을지로.md "wikilink") 65 (을지로2가)에 있다.
@@ -106,7 +106,7 @@ SK텔레콤이 [2018년 동계 올림픽에](../Page/2018년_동계_올림픽.md
   - [SK스포츠단](https://ko.wikipedia.org/wiki/SK스포츠단 "wikilink")
       - [SK 와이번스](../Page/SK_와이번스.md "wikilink"): SK텔레콤이 지배기업으로 있는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 연고의 프로야구단
       - [서울 SK 나이츠](../Page/서울_SK_나이츠.md "wikilink"): SK텔레콤이 모기업인 [서울특별시](../Page/서울특별시.md "wikilink") 연고의 프로농구단
-      - [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink"): SK텔레콤이 창단한 [스타크래프트Ⅱ](https://ko.wikipedia.org/wiki/스타크래프트Ⅱ "wikilink") 및 [리그오브레전드](https://ko.wikipedia.org/wiki/리그오브레전드 "wikilink") 프로게임단
+      - [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink"): SK텔레콤이 창단한 스타크래프트Ⅱ 및 [리그오브레전드](https://ko.wikipedia.org/wiki/리그오브레전드 "wikilink") 프로게임단
 
 ## 스폰서
 
@@ -114,7 +114,7 @@ SK텔레콤이 [2018년 동계 올림픽에](../Page/2018년_동계_올림픽.md
   - 생각대로T SF2 프로리그 시즌1 2011
   - 4G LTE SF2 프로리그 시즌2 2012
   - [SK텔레콤 스타크래프트 II 프로리그 2014](../Page/SK텔레콤_스타크래프트_II_프로리그_2014.md "wikilink")
-  - \[\[SK텔레콤 LTE-A LoL 마스터즈 2014\]skt5gjump카트라이더리그
+  - [SK텔레콤 LTE-A LoL 마스터즈 2014](../Page/SK텔레콤_LTE-A_LoL_마스터즈_2014.md "wikilink")2020 skt 5G JUMP 카트라이더리그
 
 ## [하나카드](../Page/하나카드.md "wikilink")의 지분제휴
 
@@ -124,7 +124,7 @@ SK텔레콤이 [2018년 동계 올림픽에](../Page/2018년_동계_올림픽.md
 
   - [SK브로드밴드](../Page/SK브로드밴드.md "wikilink") (유선 통신 서비스 분야)
 
-## 관련항목
+## 같이 보기
 
   - [KT](../Page/KT.md "wikilink")
   - [LG유플러스](../Page/LG유플러스.md "wikilink")

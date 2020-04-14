@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PDA](https://ko.wikipedia.org/wiki/PDA).
+> This article is converted from Wikipedia: [PDA폰](https://ko.wikipedia.org/wiki/PDA폰).
 
 
 **PDA 폰**(PDA phone)은 [PDA](https://ko.wikipedia.org/wiki/PDA "wikilink")에 이동 통신 모듈을 집어넣은 단말기이다.

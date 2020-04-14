@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C. S. ](https://ko.wikipedia.org/wiki/C._S._).
+> This article is converted from Wikipedia: [C. S. 루이스](https://ko.wikipedia.org/wiki/C._S._루이스).
 
 
 **클라이브 스테이플스 루이스**(Clive Staples Lewis, [1898년](../Page/1898년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") - [1963년](../Page/1963년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink"))는 [영국](../Page/영국.md "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이자 [성공회](../Page/성공회.md "wikilink")(Church of England)의 평신도이다. 또한 [케임브리지 대학교에서](../Page/케임브리지_대학교.md "wikilink") [철학](../Page/철학.md "wikilink")과 [르네상스](../Page/르네상스.md "wikilink") 문학을 가르쳤다.

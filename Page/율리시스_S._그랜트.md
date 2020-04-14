@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [율리시스 S. 그랜트](https://ko.wikipedia.org/wiki/율리시스_S._그랜트).
 
 
 **율리시스 심슨 그랜트**(Ulysses Simpson Grant, [1822년](../Page/1822년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ [1885년](../Page/1885년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 18번째([1869년](../Page/1869년.md "wikilink")-[1877년](../Page/1877년.md "wikilink")) [대통령](../Page/대통령.md "wikilink")이자 [장군](https://ko.wikipedia.org/wiki/장군 "wikilink")이다.

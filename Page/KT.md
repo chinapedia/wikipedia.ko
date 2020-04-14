@@ -3,7 +3,7 @@
 
 [150px](https://ko.wikipedia.org/wiki/파일:KT_Logo_\(1991-2001\).svg "wikilink")
 
-**주식회사 케이티**(株式會社-, KT Corporation)는 [대한민국](../Page/대한민국.md "wikilink")의 유무선 통신 서비스 매출액 1위의 선두 업체이다. 유·무선 전화, [초고속 인터넷](https://ko.wikipedia.org/wiki/초고속_인터넷 "wikilink") 등 유·무선 통신 서비스업이 주요 업종이다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 불정로 90에 위치에 있다. 1981년 한국전기통신공사로 창립한 뒤 2001년 12월에 (주)KT로 상호를 변경하였다.\[1\] 2009년 6월 1일에 이동 통신 자회사인 [KTF와](../Page/케이티프리텔.md "wikilink") 인수 합병을 하였고,\[2\] 2011년 7월에 유·무선 통신 서비스 조직을 통합하였다.\[3\] 독점규제 및 공정거래 등에 관한 법률상 독과점 사업자로서 시장지배적 사업자 지위 남용 규제를 받는다. 통신의 새로운 패러다임을 여는 GiGA 인터넷 가입자 100만을 가장 먼저 달성하였다.
+**주식회사 케이티**(株式會社-, KT Corporation)는 [대한민국](../Page/대한민국.md "wikilink")의 유무선 통신 서비스 매출액 1위의 선두 업체이다. 유·무선 전화, [초고속 인터넷](https://ko.wikipedia.org/wiki/초고속_인터넷 "wikilink") 등 유·무선 통신 서비스업이 주요 업종이다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 불정로 90 (정자동)에 위치한다. 1981년 한국전기통신공사로 창립한 뒤 2001년 12월에 (주)KT로 상호를 변경하였다.\[1\] 2009년 6월 1일에 이동 통신 자회사인 [KTF와](../Page/케이티프리텔.md "wikilink") 인수 합병을 하였고,\[2\] 2011년 7월에 유·무선 통신 서비스 조직을 통합하였다.\[3\] 독점규제 및 공정거래 등에 관한 법률상 독과점 사업자로서 시장지배적 사업자 지위 남용 규제를 받는다. 통신의 새로운 패러다임을 여는 GiGA 인터넷 가입자 100만을 가장 먼저 달성하였다.
 
 ## 연혁
 
@@ -240,7 +240,7 @@ KT는 미래창조과학부(현 [과학기술정보통신부](https://ko.wikiped
 34. <http://www.ktds.com/>
 35. <http://www.ktcs.co.kr/>
 36.
-37. <http://www.skylife.co.kr/>  (방송법령에 의한 [위성방송](../Page/위성방송.md "wikilink") 사업자)
+37. <http://www.skylife.co.kr/>  (방송법령에 근거한 [위성방송](../Page/위성방송.md "wikilink") 사업자)
 38.
 39.
 40.
@@ -249,7 +249,7 @@ KT는 미래창조과학부(현 [과학기술정보통신부](https://ko.wikiped
 43. <http://www.initech.com/www/html/index.html>
 44. <http://www.smartro.co.kr>
 45.
-46. <http://www.ustream.tv/>
+46.
 47.
 48.
 49. [KT, '김은혜 전무 낙하산' 비판한 직원 보복인사 논란](http://www.pressian.com/article/article.asp?article_num=30110221131510&section=02) 프레시안 뉴스 2011년 2월 21일

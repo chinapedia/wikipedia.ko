@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IRC ](https://ko.wikipedia.org/wiki/:IRC_).
+> This article is converted from Wikipedia: [위키백과:IRC 대화방](https://ko.wikipedia.org/wiki/위키백과:IRC_대화방).
 
 
 [고양이도 하는 IRC입니다. 누구나 환영합니다.](https://ko.wikipedia.org/wiki/파일:Gato_leyendo_canal_IRC_de_Wikipedia_en_español.jpg "wikilink")

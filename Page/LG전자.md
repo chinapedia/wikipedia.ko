@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG전자](https://ko.wikipedia.org/wiki/LG전자).
 
 
 **LG전자**(LG電子, )는 전자 제품을 생산하는 [대한민국](../Page/대한민국.md "wikilink")의 기업이다. [LG그룹](../Page/LG그룹.md "wikilink") 내에서 생활가전, 디지털 기기등의 전자 기기 제조 회사이며, LG그룹을 대표하는 계열사이자 [대한민국](../Page/대한민국.md "wikilink")의 [대기업](../Page/대기업.md "wikilink")이다. 삼성전자와 라이벌 관계에 있다.대한민국 2위 대기업이다. 휴대전화, 공기청정기, 냉장고, 세탁기 등을 주로 생산한다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 여의대로 128 (여의도동)에 있다.

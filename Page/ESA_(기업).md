@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ESA \(\)](https://ko.wikipedia.org/wiki/ESA_\(\)).
+> This article is converted from Wikipedia: [ESA \(기업\)](https://ko.wikipedia.org/wiki/ESA_\(기업\)).
 
 
 **ESA** (이에스에이, **E**ntertainment **S**tudio **A**sia)는 [대한민국](../Page/대한민국.md "wikilink")의 게임, 엔터테인먼트, 문화 콘텐츠 기업이다. [1994년](../Page/1994년.md "wikilink")에 [정영희가](https://ko.wikipedia.org/wiki/정영희_\(기업인\) "wikilink") 설립한 게임 제작 회사인 **소프트맥스**(, )가 2016년 11월 경영난으로 매각되어, 신규 대주주(ESA 제2호 투자조합)의 이름을 딴 ESA로 사명이 변경되었다.\[1\]

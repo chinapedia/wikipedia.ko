@@ -120,4 +120,4 @@ MPEG-4 동영상의 콘텐츠 분석기술이 활발하게 연구되어 왔다. 
 
   - [**LiveVideo** - 오픈 소스 H.264/AVC 동영상 콘텐츠 분석 소프트웨어](http://sourceforge.net/projects/livevideo/)
 
-[MPEG-4](https://ko.wikipedia.org/wiki/분류:MPEG-4 "wikilink") [4](https://ko.wikipedia.org/wiki/분류:MPEG "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:오디오 코덱](https://ko.wikipedia.org/wiki/분류:오디오_코덱 "wikilink") [분류:영상 코덱](https://ko.wikipedia.org/wiki/분류:영상_코덱 "wikilink") [분류:ISO/IEC 표준](https://ko.wikipedia.org/wiki/분류:ISO/IEC_표준 "wikilink")
+[MPEG-4](https://ko.wikipedia.org/wiki/분류:MPEG-4 "wikilink") [4](https://ko.wikipedia.org/wiki/분류:MPEG "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:오디오 코덱](https://ko.wikipedia.org/wiki/분류:오디오_코덱 "wikilink") [분류:영상 코덱](https://ko.wikipedia.org/wiki/분류:영상_코덱 "wikilink") [분류:ISO/IEC 표준](https://ko.wikipedia.org/wiki/분류:ISO/IEC_표준 "wikilink") [분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink")

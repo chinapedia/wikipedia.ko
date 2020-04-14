@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ K. ](https://ko.wikipedia.org/wiki/_K._).
+> This article is converted from Wikipedia: [제임스 K. 포크](https://ko.wikipedia.org/wiki/제임스_K._포크).
 
 
-**제임스 녹스 포크**(James Knox Polk, [1795년](../Page/1795년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") - [1849년](../Page/1849년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 11번째 [대통령](../Page/미국의_대통령.md "wikilink")(1845\~49)이다. [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink")에서 태어났지만, 일생의 대부분을 [테네시주](../Page/테네시주.md "wikilink")에서 보냈다.\[1\]\[2\]
+**제임스 녹스 포크**(James Knox Polk, [1795년](../Page/1795년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") \~ [1849년](../Page/1849년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 11번째 [대통령](../Page/미국의_대통령.md "wikilink")(1845\~49)이다. [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink")에서 태어났지만, 일생의 대부분을 [테네시주](../Page/테네시주.md "wikilink")에서 보냈다.\[1\]\[2\]
 
 [알래스카주](../Page/알래스카주.md "wikilink")를 [영국](../Page/영국.md "wikilink")과의 협상 끝에 미국과 합치지는 못하였지만, [1845년](../Page/1845년.md "wikilink") [텍사스주](../Page/텍사스주.md "wikilink")를 [미국](../Page/미국.md "wikilink")의 제28번째 주로 [합병하였다](../Page/텍사스_합병.md "wikilink"). 그리고 [멕시코-미국 전쟁에서](../Page/멕시코-미국_전쟁.md "wikilink") 오늘날 미국 영토의 4분의 1에 달하는 지역을 빼앗아 합병했다.
 

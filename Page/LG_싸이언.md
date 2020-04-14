@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 싸이언](https://ko.wikipedia.org/wiki/LG_싸이언).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:CYON_logo.jpg "wikilink")

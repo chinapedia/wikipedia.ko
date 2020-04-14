@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SBS \( \)](https://ko.wikipedia.org/wiki/SBS_\(_\)).
+> This article is converted from Wikipedia: [SBS \(대한민국의 방송사\)](https://ko.wikipedia.org/wiki/SBS_\(대한민국의_방송사\)).
 
 
-**SBS**()는 [수도권](https://ko.wikipedia.org/wiki/수도권_\(대한민국\) "wikilink") 지역과 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영서](https://ko.wikipedia.org/wiki/영서 "wikilink") 일부, [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") 북부 일부, [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부 일부 지역을 가시청권으로 하는 대한민국의 지상파 민영방송사이다. 모기업은 [태영건설](../Page/태영건설.md "wikilink")이며 1990년 서울방송㈜ (Seoul Broadcasting System)으로 설립하여, 2000년 3월에 ㈜SBS로 상호를 변경한 후 현재까지 이르고 있다.
+**SBS**()는 [수도권](https://ko.wikipedia.org/wiki/수도권_\(대한민국\) "wikilink") 지역과 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영서](https://ko.wikipedia.org/wiki/영서_지방 "wikilink") 일부, [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") 북부 일부, [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부 일부 지역을 가시청권으로 하는 대한민국의 지상파 민영방송사이다. 모기업은 [태영건설](../Page/태영건설.md "wikilink")이며 1990년 **서울방송㈜**(**S**eoul **B**roadcasting **S**ystem)으로 설립하여, 2000년 3월에 **㈜SBS**로 상호를 변경한 후 현재까지 이르고 있다.
 
 ## 개요
 
@@ -17,7 +17,7 @@
 
 방송국 개국 이래 [일본](../Page/일본.md "wikilink")의 [니혼 TV](../Page/닛폰_TV_방송망.md "wikilink")(NTV)와 제휴 관계이며, [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink") 계열의 [후쿠오카 방송](../Page/후쿠오카_방송.md "wikilink")(FBS)등에서 특파원을 받아들이고 있다. 또, 미국 [NBC](../Page/NBC.md "wikilink")나 러시아 [RTR](https://ko.wikipedia.org/wiki/RTR "wikilink"), 중국 [북경 TV](https://ko.wikipedia.org/wiki/북경_TV "wikilink") 등과도 협력 관계이다. 현재 SBS 도쿄지국은 [시오도메](../Page/시오도메.md "wikilink")의 [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink")(NTV) 타워 내에 있으며, 도쿄에서 전하는 뉴스 화면에서는 [신바시 역](../Page/신바시_역.md "wikilink") 부근을 달리는 [도카이도 신칸센](../Page/도카이도_신칸센.md "wikilink") 등이 배경으로 나타난다. 2004년 11월부터는 [일본](../Page/일본.md "wikilink")의 모바 호(Ho)에 텔레비전 뉴스, 드라마, 버라이어티, 라디오 프로그램의 공급을 개시하였다.
 
-주식을 한국 증권거래소(현 [한국거래소](../Page/한국거래소.md "wikilink"))에 상장하였다(증권 코드:034120). 실질적 대주주는 건설 회사인 [태영](https://ko.wikipedia.org/wiki/태영 "wikilink")건설이다. 태영건설은 SBS와 설립 발기인적 입장에 있을 뿐 아니라 [윤세영](../Page/윤세영.md "wikilink")이 두 회사의 회장을 맡는 등, 자본·인사상의 관계가 깊다. 현재 사장은 [김진원](https://ko.wikipedia.org/wiki/김진원 "wikilink")이다.
+주식을 한국 증권거래소(현 [한국거래소](../Page/한국거래소.md "wikilink"))에 상장하였다(증권 코드:034120). 실질적 대주주는 건설 회사인 [태영](https://ko.wikipedia.org/wiki/태영 "wikilink")건설이다. 태영건설은 SBS와 설립 발기인적 입장에 있을 뿐 아니라 [윤세영](../Page/윤세영.md "wikilink")이 두 회사의 회장을 맡는 등, 자본·인사상의 관계가 깊다.
 
 ### 영업 현황
 
@@ -190,7 +190,7 @@
 
 ### 2010년대
 
-  - [2010년](../Page/2010년.md "wikilink") - [밴쿠버 동계 올림픽](../Page/2010년_동계_올림픽.md "wikilink")\[5\] 과 [남아공 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 단독 중계\[6\] (단, [한국방송공사](../Page/한국방송공사.md "wikilink")(KBS) · [문화방송](../Page/문화방송.md "wikilink")(MBC)은 중계권 독점으로 인해 포기되었음),(SBS가 [2010년 아시안 게임](../Page/2010년_아시안_게임.md "wikilink") 중계권 결국 취소되었다.) - 동두천, 연천, 파주, 양주, 의정부 일부에 해당하는 경기 북부 지역에 SBS 파워FM 중계탑 설치 완료와 동시에 주파수 100.3MHz를 통해 파워FM 경기 북부 지역 송출 시작\[7\] SBS 스포츠채널 에서 [SBS ESPN](https://ko.wikipedia.org/wiki/SBS_ESPN "wikilink") 채널명변경 \[8\]
+  - [2010년](../Page/2010년.md "wikilink") - [밴쿠버 동계 올림픽](../Page/2010년_동계_올림픽.md "wikilink")\[5\] 과 [남아공 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 단독 중계\[6\] (단, [한국방송공사](../Page/한국방송공사.md "wikilink")(KBS) · [문화방송](../Page/문화방송.md "wikilink")(MBC)은 중계권 독점으로 인해 포기되었음),(SBS가 [2010년 아시안 게임](../Page/2010년_아시안_게임.md "wikilink") 중계권 결국 취소되었다.) - 동두천, 연천, 파주, 양주, 의정부 일부에 해당하는 경기 북부 지역에 SBS 파워FM 중계탑 설치 완료와 동시에 주파수 100.3MHz를 통해 파워FM 경기 북부 지역 송출 시작\[7\] SBS 스포츠채널 에서 [SBS ESPN](https://ko.wikipedia.org/wiki/SBS_ESPN "wikilink") 채널명변경\[8\]
   - [2011년](../Page/2011년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") - 거의 대부분 프로그램의 제작을 HD 제작 체제로 전환
   - [2011년](../Page/2011년.md "wikilink") [11월](../Page/11월.md "wikilink") - E\!TV를 [SBS E\!로](https://ko.wikipedia.org/wiki/SBS_E! "wikilink") 채널명 변경, SBS와 미국 [바이어컴](https://ko.wikipedia.org/wiki/바이어컴 "wikilink")의 합작사 SBS Viacom 설립과 동시에 [SBS MTV](../Page/SBS_MTV.md "wikilink"), [니켈로디언 코리아](https://ko.wikipedia.org/wiki/니켈로디언_코리아 "wikilink") 개국
   - [2012년](../Page/2012년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") - 24시간 종일방송 시작
@@ -205,7 +205,6 @@
   - [2017년](../Page/2017년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") - SBS 연중캠페인 '함께 만드는 희망 대한민국'이라는 방영 시작
   - [2017년](../Page/2017년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink") - SBS UHD 방송개국
   - [2020년](../Page/2020년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") - SBS 창사 30주년 으로 바뀜.
-  - [2020년](../Page/2020년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") - [최종일](https://ko.wikipedia.org/wiki/최종일 "wikilink") 사장 취임.
 
 ## 역대 사장
 
@@ -262,17 +261,7 @@
 <tr class="odd">
 <td><p>9대</p></td>
 <td><p><a href="../Page/박정훈_(1961년).md" title="wikilink">박정훈</a></p></td>
-<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_8일.md" title="wikilink">12월 8일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_2일.md" title="wikilink">3월 2일</a></p></td>
-</tr>
-<tr class="even">
-<td><p>사장 직무 대행</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신경렬" title="wikilink">신경렬</a></p></td>
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_3일.md" title="wikilink">3월 3일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_15일.md" title="wikilink">3월 15일</a> (예정)</p></td>
-</tr>
-<tr class="odd">
-<td><p>10대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최종일" title="wikilink">최종일</a></p></td>
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_16일.md" title="wikilink">3월 16일</a>~ (예정)</p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_8일.md" title="wikilink">12월 8일</a> ~ 현재</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -304,7 +293,7 @@
 
 #### CI(영문)
 
-파일:SBS CI 1991 - 1994.png|[1991년](../Page/1991년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink")\[10\] sbs (소문자) 파일:SBS 1994 - 2000.png|[1994년](../Page/1994년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink") SBS (대문자) 파일:SBS 로고 2000.png|[2000년](../Page/2000년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ 현재 ◎SBS (대문자 심볼마크) 파일:SBS Korea Logo (Word Only).svg|[2010년대](../Page/2010년대.md "wikilink") 중후반 \~ 현재 SBS (대문자 심볼마크)
+파일:SBS CI 1991 - 1994.png|[1991년](../Page/1991년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink")\[10\] sbs (소문자) 파일:SBS 1994 - 2000.png|[1994년](../Page/1994년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink") SBS (대문자) 파일:SBS 로고 2000.png|[2000년](../Page/2000년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ 현재 ◎SBS (대문자 심볼마크) 파일:SBS Korea Logo (Word Only).svg|[2000년](../Page/2000년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ 현재 SBS (대문자 심볼마크)
 
 #### CI(국문)
 
@@ -341,7 +330,7 @@
 
 <!-- end list -->
 
-  - 가수 [앤드](../Page/앤드.md "wikilink")가 부른 '기쁨주고 사랑받는 SBS', '희망과 감동주는 SBS', '좋은방송 좋은세상 SBS' \[12\]의 세가지 로고송이 쓰였다.
+  - 가수 [앤드](../Page/앤드.md "wikilink")가 부른 '기쁨주고 사랑받는 SBS', '희망과 감동주는 SBS', '좋은방송 좋은세상 SBS'\[12\]의 세가지 로고송이 쓰였다.
   - [앤드](../Page/앤드.md "wikilink")는 실제로는 로고송을 부른 뒤에 정식으로 2004년 초 가수로 데뷔하였다.
 
 <!-- end list -->
@@ -482,8 +471,8 @@
 
 #### 전직 아나운서
 
-  - [1991년](../Page/1991년.md "wikilink")(특채) 입사 : 김영, [박영만](https://ko.wikipedia.org/wiki/박영만_\(아나운서\) "wikilink"), 변순복, [손석기](https://ko.wikipedia.org/wiki/손석기 "wikilink"), 송경철, 왕수현, [유협](https://ko.wikipedia.org/wiki/유협_\(아나운서\) "wikilink"), [윤영미](../Page/윤영미_\(1962년\).md "wikilink"), 이재윤, [이창섭](../Page/이창섭_\(1956년\).md "wikilink"), 전은진, [최선규](../Page/최선규.md "wikilink"), 최영임, 한종희
-  - [1991년](../Page/1991년.md "wikilink")(1기) 입사 : 김영성, 김운희, 류지현, 송선경
+  - [1991년](../Page/1991년.md "wikilink")(특채) 입사 : [박영만](https://ko.wikipedia.org/wiki/박영만_\(아나운서\) "wikilink"), 변순복, [손석기](https://ko.wikipedia.org/wiki/손석기 "wikilink"), 송경철, 왕수현, [유협](https://ko.wikipedia.org/wiki/유협_\(아나운서\) "wikilink"), [윤영미](../Page/윤영미_\(1962년\).md "wikilink"), 이재윤, [이창섭](../Page/이창섭_\(1956년\).md "wikilink"), 전은진, [최선규](../Page/최선규.md "wikilink"), 최영임, 한종희
+  - [1991년](../Page/1991년.md "wikilink")(1기) 입사 : 김영, 김영성, 김운희, 류지현, 박순심, 송선경
   - [1993년](../Page/1993년.md "wikilink")(2기) 입사 : [김성경](../Page/김성경.md "wikilink"), 남은영, 노영환, 서창민, [유정현](../Page/유정현_\(정치인\).md "wikilink"), 이소영, 이신원
   - [1995년](../Page/1995년.md "wikilink")(3기) 입사 : 심종환
   - [1996년](../Page/1996년.md "wikilink")(4기) 입사 : [배기완](../Page/배기완.md "wikilink"), [윤지영](https://ko.wikipedia.org/wiki/윤지영 "wikilink"), [한성주](../Page/한성주.md "wikilink")
@@ -544,14 +533,14 @@
   - **양배추 김치 논란** : [2010년](../Page/2010년.md "wikilink") 9월 30일 [SBS 8 뉴스에서](../Page/SBS_8_뉴스.md "wikilink") 신동욱 앵커는 배추 값이 폭등하자 양배추 김치를 먹으라는 [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 대통령의 말에 옹호하는 발언으로 논란을 일으켰다. 대통령이 나라와 물가를 모르니까 내뱉는 속없는 말에 도리어 [SBS 8 뉴스에서](../Page/SBS_8_뉴스.md "wikilink") 신동욱 앵커는 정부의 나팔수 역을 하는것에 한심스럽다는 반응이었다.\[18\]
   - **故 [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 전 대통령 비하 워터마크 송출** : 2013년 8월 20일, 후쿠시마 원자력 발전소 사고 보도 중에, 한국에 수입하는 수산물에 대한 뉴스를 내보냈다. 그러나 가자미류 방사능 검출량 부분 그래프에서 故 [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 前 대통령 비하 이미지가 등장했다.
 
-## 지역민방 네트워크 가맹국
+## 지역별 민영 방송 네트워크
 
 프로그램 제작국인 SBS(모기업:태영건설)를 비롯한 전국 10개 지역민방은 네트워크를 구성하고 프로그램을 제휴한다. [경인방송](../Page/경인방송.md "wikilink"), [OBS경인TV](../Page/OBS경인TV.md "wikilink"), [경기방송](../Page/경기방송.md "wikilink")도 민영방송사이나, 이들은 SBS와 네트워크제휴협정을 맺지않고 프로그램을 예외적으로 100% 자체편성하여 방송중이다.
 
 <table>
 <thead>
 <tr class="header">
-<th><p>지역사</p></th>
+<th><p>지역 민영 방송사</p></th>
 <th><p>약칭</p></th>
 <th><p>방송대상구역</p></th>
 <th><p>개국일</p></th>
@@ -562,55 +551,55 @@
 <td><p><a href="../Page/G1.md" title="wikilink">G1</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원</a></p></td>
-<td><p>2001년 12월 15일</p></td>
+<td><p>2001년 01월 01일</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/대전방송.md" title="wikilink">대전방송</a></p></td>
 <td><p><strong>TJB</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전충남" title="wikilink">대전·세종·충남</a></p></td>
-<td><p>1995년 5월 14일</p></td>
+<td><p>1993년 01월 01일</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/청주방송.md" title="wikilink">청주방송</a></p></td>
 <td><p><strong>CJB</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/충청북도" title="wikilink">충북</a>·<a href="../Page/세종특별자치시.md" title="wikilink">세종</a> 일부</p></td>
-<td><p>1997년 10월 18일</p></td>
+<td><p>1995년 01월 01일</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/전주방송.md" title="wikilink">전주방송</a></p></td>
 <td><p><strong>JTV</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전라북도" title="wikilink">전북</a></p></td>
-<td><p>1997년 9월 27일</p></td>
+<td><p>1993년 01월 01일</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/광주방송.md" title="wikilink">광주방송</a></p></td>
 <td><p><strong>kbc</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/광주광역시" title="wikilink">광주</a>·<a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전남</a></p></td>
-<td><p>1995년 5월 14일</p></td>
+<td><p>1993년 01월 01일</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/TBC_(대한민국의_방송사).md" title="wikilink">TBC</a></p></td>
 <td></td>
 <td><p><a href="../Page/대구경북.md" title="wikilink">대구·경북</a></p></td>
-<td><p>1995년 5월 14일</p></td>
+<td><p>1993년 01월 01일</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KNN.md" title="wikilink">KNN</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산</a>·<a href="https://ko.wikipedia.org/wiki/경상남도" title="wikilink">경남</a></p></td>
-<td><p>1995년 5월 14일</p></td>
+<td><p>1993년 01월 01일</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/울산방송.md" title="wikilink">울산방송</a></p></td>
 <td><p><strong>ubc</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/울산광역시" title="wikilink">울산</a>·<a href="../Page/양산시.md" title="wikilink">양산</a> 일부·<a href="https://ko.wikipedia.org/wiki/경주시" title="wikilink">경주</a> 일부</p></td>
-<td><p>1997년 9월 1일</p></td>
+<td><p>1993년 01월 01일</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/제주국제자유도시방송.md" title="wikilink">제주국제자유도시방송</a></p></td>
 <td><p><strong>JIBS</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/제주특별자치도" title="wikilink">제주</a></p></td>
-<td><p>2002년 5월 31일</p></td>
+<td><p>2001년 01월 01일</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -625,7 +614,7 @@
       - 대상 방송사: [KNN](../Page/KNN.md "wikilink") 부산경남 (모기업:넥센), [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 대구 (모기업:귀뚜라미그룹), [대전방송](../Page/대전방송.md "wikilink") (모기업:우성사료), [광주방송](../Page/광주방송.md "wikilink") (모기업:호반건설), [울산방송](../Page/울산방송.md "wikilink")(모기업:SM그룹), [청주방송](../Page/청주방송.md "wikilink") (모기업:두진건설), [전주](../Page/전주방송.md "wikilink") (모기업:일진그룹), [G1](../Page/G1.md "wikilink")강원 (모기업:SG건설) , [제주국제자유도시방송](../Page/제주국제자유도시방송.md "wikilink") (모기업:한주홀딩스코리아)
   - 계약내용
       - [KNN](../Page/KNN.md "wikilink")(모기업:넥센) 부산경남방송과 10개지역 민영방송사는 전국네트워크 체제를 공고히하고 상호협력한다.
-      - SBS(모기업:태영건설) 는 네트워크 시간대에 방송할 프로그램을 제작하여 송출한다.
+      - SBS(모기업:태영건설)는 네트워크 시간대에 방송할 프로그램을 제작하여 송출한다.
       - 협약기간의 네트워크 프로그램 공급료는 면제한다.
 
 ※ 라디오의 경우 타지역민방의 라디오 방송에서 [SBS 파워FM의](../Page/SBS_파워FM.md "wikilink") 일부 프로그램을 방송할 수 있으나 동남권 지역 민방인 KNN(모기업:[넥센](https://ko.wikipedia.org/wiki/넥센 "wikilink")) 부산경남방송을 제외하고 [SBS 러브FM은](../Page/SBS_러브FM.md "wikilink") 네트워크 프로그램 공급 대상에서 제외된다. 그 이유는 SBS(모기업:태영건설)와 [KNN](../Page/KNN.md "wikilink")(모기업:[넥센](https://ko.wikipedia.org/wiki/넥센 "wikilink")) 부산경남방송은 라디오 채널이 2개인 반면 타지역민방의 라디오채널은 1개이기 때문이다. 대신 [컴퓨터](../Page/컴퓨터.md "wikilink")나 [휴대 전화로](../Page/휴대_전화.md "wikilink") SBS 홈페이지에 가서 화면 상단에 SBS 고릴라를 직접 다운받아 [SBS 러브FM을](../Page/SBS_러브FM.md "wikilink") 청취할수가 있다.

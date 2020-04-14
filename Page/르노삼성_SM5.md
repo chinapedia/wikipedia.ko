@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SM5](https://ko.wikipedia.org/wiki/_SM5).
+> This article is converted from Wikipedia: [르노삼성 SM5](https://ko.wikipedia.org/wiki/르노삼성_SM5).
 
 
 **르노삼성 SM5**(Renault Samsung SM5)는 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")가 [1998년](../Page/1998년.md "wikilink")에 출시한 [전륜구동](../Page/전륜구동.md "wikilink") 방식의 중형차였다. [대한민국](../Page/대한민국.md "wikilink")산 자동차 최초로 차명에 숫자를 붙여 [배기량](https://ko.wikipedia.org/wiki/배기량 "wikilink")을 나타낸 자동차이기도 하다. 차명인 SM5는 '[르노삼성자동차](../Page/르노삼성자동차.md "wikilink")'(Samsung Motors)를 의미하는 SM에 중형급을 상징하는 숫자 5를 결합한 것이다.
@@ -422,11 +422,11 @@ V6 2.5ℓ 가솔린</p></th>
 
 {{-}}
 
-### 뉴 SM5 노바(2015년 1월\~2019년 7월)
+### 뉴 SM5 노바(2015년 1월\~2019년 12월)
 
 [right](https://ko.wikipedia.org/wiki/파일:20150404_Renault_Samsung_SM5_Nova_1.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:20150404_Renault_Samsung_SM5_Nova_2.jpg "wikilink")
 
-[2015년](../Page/2015년.md "wikilink") [1월 5일에는](../Page/1월_5일.md "wikilink") 한 번 더 페이스 리프트를 거친 SM5 노바가 출시되었다. 라디에이터 그릴 등 일부가 변경되어 [QM3부터](../Page/르노삼성_QM3.md "wikilink") 이어진 패밀리 룩이 반영되었고, LED 주간 주행등과 조수석 시트 높이 조절 장치가 모든 트림에 신규 적용되었다. 2.0ℓ 4기통 M4RN LPLI 엔진 장착차의 연료 탱크는 원통형에서 도넛형으로 변경되어 트렁크 공간을 기존보다 40% 넓혔다. [2016년](../Page/2016년.md "wikilink") [4월 1일부터는](../Page/4월_1일.md "wikilink") 상급 차종인 [SM6와의](../Page/르노삼성_SM6.md "wikilink") 간섭을 피하여 2.0ℓ 4기통 M4RK 가솔린 엔진 장착차의 트림이 PE 플러스(이후 클래식으로 변경) 하나로 통일되었다. 기존의 SM5 노바에 있었던 1.6ℓ 4기통 MR190DDT 가솔린 엔진을 장착한 TCE 모델과 1.5ℓ 4기통 K9K 디젤 엔진 모델은 상급 차종인 [SM6로](../Page/르노삼성_SM6.md "wikilink") 이관되어 생산 및 판매 중에 있으며, M4RN 2.0 LPG 엔진은 [SM6](../Page/르노삼성_SM6.md "wikilink") 및 [SM7](../Page/르노삼성_SM7.md "wikilink") 2.0 LPG와 공용하다가 두 모델로 모두 이관됐다.
+[2015년](../Page/2015년.md "wikilink") [1월 5일에는](../Page/1월_5일.md "wikilink") 한 번 더 페이스 리프트를 거친 SM5 노바가 출시되었다. 라디에이터 그릴 등 일부가 변경되어 [QM3부터](../Page/르노삼성_QM3.md "wikilink") 이어진 패밀리 룩이 반영되었고, LED 주간 주행등과 조수석 시트 높이 조절 장치가 모든 트림에 신규 적용되었다. 2.0ℓ 4기통 M4RN LPLI 엔진 장착차의 연료 탱크는 원통형에서 도넛형으로 변경되어 트렁크 공간을 기존보다 40% 넓혔다. [2016년](../Page/2016년.md "wikilink") [4월 1일부터는](../Page/4월_1일.md "wikilink") 상급 차종인 [SM6와의](../Page/르노삼성_SM6.md "wikilink") 간섭을 피하여 2.0ℓ 4기통 M4RK 가솔린 엔진 장착차의 트림이 PE 플러스(이후 클래식으로 변경) 하나로 통일되었다. 기존의 SM5 노바에 있었던 1.6ℓ 4기통 MR190DDT 가솔린 엔진을 장착한 TCE 모델과 1.5ℓ 4기통 K9K 디젤 엔진 모델은 상급 차종인 [SM6로](../Page/르노삼성_SM6.md "wikilink") 이관되어 생산 및 판매 중에 있으며, M4RN 2.0 LPG 엔진은 [SM6](../Page/르노삼성_SM6.md "wikilink") 및 [SM7](../Page/르노삼성_SM7.md "wikilink") 2.0 LPG와 공용하다가 두 모델로 모두 이관됐다. [2019년](../Page/2019년.md "wikilink") [6월 3일에](../Page/6월_3일.md "wikilink") 단종이 발표되었고\[19\], 같은 달 6일에 SM5 아듀가 발표되었다. [8월 30일에](../Page/8월_30일.md "wikilink") 생산이 종료되었고, 이후 남은 재고가 판매되다 [12월 31일에](../Page/12월_31일.md "wikilink") [SM6와](../Page/르노삼성_SM6.md "wikilink") 통합되는 형식으로 단종되었다.
 
 {{-}}
 
@@ -832,3 +832,4 @@ V6 2.5ℓ 가솔린</p></th>
 16. [르노삼성, SM5 스페셜 에디션 2종 출시](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0004937431) [연합뉴스](../Page/연합뉴스.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink")
 17. [르노삼성, 2012년형 SM5 출시…값 20만원 올랐네](http://www.hankyung.com/news/app/newsview.php?aid=201109010294g) [한국경제신문](../Page/한국경제신문.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink")
 18. [르노삼성 ‘연비 14km’ SM5 프리미엄 세단 출시](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201201021705581&code=920508) [경향신문](../Page/경향신문.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink")
+19. [르노삼성 SM5, 단종 앞두고 2천만원으로 인하](http://www.top-rider.com/news/articleView.html?idxno=28210) 탑라이더, [2019년](../Page/2019년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink")
