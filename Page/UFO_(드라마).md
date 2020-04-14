@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UFO \(\)](https://ko.wikipedia.org/wiki/UFO_\(\)).
+> This article is converted from Wikipedia: [UFO \(드라마\)](https://ko.wikipedia.org/wiki/UFO_\(드라마\)).
 
 
 《**UFO**》는 1970년 영국에서 방영된, 외계인의 지구 침략을 소재로 하는 SF 특수 촬영 드라마이다. 영국의 [AP 필름스가](https://ko.wikipedia.org/wiki/AP_필름스 "wikilink") 제작하였다. "UFO"라는 말을 일반적으로 소개하는 선구적인 역할을 했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Navbox](https://ko.wikipedia.org/wiki/:Navbox).
+> This article is converted from Wikipedia: [모듈:Navbox](https://ko.wikipedia.org/wiki/모듈:Navbox).
 
 
 \-- -- This module implements  -- 이 모듈은 의 구현에 사용됩니다 --

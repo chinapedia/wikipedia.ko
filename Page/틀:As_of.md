@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:As of](https://ko.wikipedia.org/wiki/:As_of).
+> This article is converted from Wikipedia: [틀:As of](https://ko.wikipedia.org/wiki/틀:As_of).
 
 
 <includeonly> {{\#if:  |  |{{\#if:  |  | 년 {{\#if:  |월}}}} 기준}} <sup>\[{{\#if:| \[ref\]| \[update\]}}\]</sup></includeonly><noinclude>  기준<sup>[\[ref](http://en.wikipedia.org/wiki/Template:As_of)\]</sup>

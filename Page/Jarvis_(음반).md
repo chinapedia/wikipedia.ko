@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Jarvis \(\)](https://ko.wikipedia.org/wiki/Jarvis_\(\)).
+> This article is converted from Wikipedia: [Jarvis \(음반\)](https://ko.wikipedia.org/wiki/Jarvis_\(음반\)).
 
 
 《**Jarvis**》는 [펄프의](../Page/펄프_\(밴드\).md "wikilink") 보컬인 [자비스 코커의](../Page/자비스_코커.md "wikilink") 첫 데뷔 솔로 앨범이다.

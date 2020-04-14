@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NGO](https://ko.wikipedia.org/wiki/_NGO).
+> This article is converted from Wikipedia: [독일 NGO](https://ko.wikipedia.org/wiki/독일_NGO).
 
 
 **독일**에는 개발, 인권, 남북문제에 관여하는 수천개의 **[NGO](https://ko.wikipedia.org/wiki/NGO "wikilink")** 들이 활동하고 있다. 이들은 [인권](../Page/인권.md "wikilink")을 기초로 학교와 기관에서 지구화에 대한 비판적 관점을 제공하며, 교회입구나 보행자거리에서 제 3세계에서 생산된 농산물을 판매하고, 아프리카 지역 국가들의 외채탕감을 위해 서명운동을 하며, 빈민지역에 학교를 설립하기 위한 기금을 조성한다.

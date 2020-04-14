@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JTBC ](https://ko.wikipedia.org/wiki/JTBC_).
+> This article is converted from Wikipedia: [JTBC 프라임](https://ko.wikipedia.org/wiki/JTBC_프라임).
 
 
 **《JTBC 프라임》**는 2012년 11월 11일부터 2014년 2월 23일까지 [JTBC](../Page/JTBC.md "wikilink")에서 방송된 해외 우수 다큐멘터리 소개 프로그램이다.\[1\]

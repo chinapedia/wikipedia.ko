@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US  ](https://ko.wikipedia.org/wiki/US__).
+> This article is converted from Wikipedia: [US 사수올로 칼초](https://ko.wikipedia.org/wiki/US_사수올로_칼초).
 
 
 **US 사수올로 칼초**()는 [이탈리아](../Page/이탈리아.md "wikilink") [에밀리아로마냐주](../Page/에밀리아로마냐주.md "wikilink") [사수올로](https://ko.wikipedia.org/wiki/사수올로 "wikilink")를 연고로 하는 축구팀이다.

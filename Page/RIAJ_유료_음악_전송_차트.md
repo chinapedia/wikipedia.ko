@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RIAJ    ](https://ko.wikipedia.org/wiki/RIAJ____).
+> This article is converted from Wikipedia: [RIAJ 유료 음악 전송 차트](https://ko.wikipedia.org/wiki/RIAJ_유료_음악_전송_차트).
 
 
 **RIAJ 유료 음악 전송 차트**()는 [일본 레코드 협회](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") (RIAJ)가 2009년 4월부터 실시하고 있는 일본 유일의 음악 전달 오피셜 차트이다. 싱글 트랙 (착신음)의 유료 다운로드 수를 집계하고 매주 금요일 오전 11시 (JST)에 주 단위로 차트 발표를 한다.

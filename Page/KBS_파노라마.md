@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 파노라마](https://ko.wikipedia.org/wiki/KBS_파노라마).
 
 
 《**KBS 파노라마**》()는 [한국방송공사](../Page/한국방송공사.md "wikilink") [다큐멘터리 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").

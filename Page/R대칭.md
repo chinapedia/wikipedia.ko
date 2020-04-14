@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R](https://ko.wikipedia.org/wiki/R).
+> This article is converted from Wikipedia: [R대칭](https://ko.wikipedia.org/wiki/R대칭).
 
 
 [이론물리학](https://ko.wikipedia.org/wiki/이론물리학 "wikilink")에서, **R대칭**(R對稱, )은 서로 다른 [초대칭](../Page/초대칭.md "wikilink") 생성원(초전하)들을 섞는 (보손) 대칭이다. 가장 간단한 (\(\mathcal N=1\)) 초대칭에서는 [U(1)](https://ko.wikipedia.org/wiki/U\(1\) "wikilink")이지만, 확장 초대칭의 경우 [아벨 군이](../Page/아벨_군.md "wikilink") 아닐 수 있다.

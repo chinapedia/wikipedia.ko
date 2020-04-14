@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  CSI](https://ko.wikipedia.org/wiki/__CSI).
+> This article is converted from Wikipedia: [이진동 기자의 CSI](https://ko.wikipedia.org/wiki/이진동_기자의_CSI).
 
 
 《**이진동 기자의 CSI**》은 [대한민국](../Page/대한민국.md "wikilink")의 [TV조선](../Page/TV조선.md "wikilink")의 프로그램이다. 탐사취재 프로그램이다.\[1\]

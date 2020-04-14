@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fly High \(M To M \)](https://ko.wikipedia.org/wiki/Fly_High_\(M_To_M_\)).
+> This article is converted from Wikipedia: [Fly High \(M To M의 노래\)](https://ko.wikipedia.org/wiki/Fly_High_\(M_To_M의_노래\)).
 
 
 〈**2012 런던 올림픽 MBC 공식 응원가 Part.1**〉은 [2012년 하계 올림픽을](https://ko.wikipedia.org/wiki/2012년_하계_올림픽 "wikilink") 위해 제작한 MBC 공식 응원가이며 3인조 음악 그룹 [M To M이](https://ko.wikipedia.org/wiki/M_To_M "wikilink") 노래를 불렀다

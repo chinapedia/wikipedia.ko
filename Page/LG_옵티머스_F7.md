@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  F7](https://ko.wikipedia.org/wiki/LG__F7).
+> This article is converted from Wikipedia: [LG 옵티머스 F7](https://ko.wikipedia.org/wiki/LG_옵티머스_F7).
 
 
 **LG 옵티머스 F7**(LG Optimus F7)은 [LG전자](../Page/LG전자.md "wikilink")가 **[모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2013**에서 최초로 공개하여\[1\], [2013년](../Page/2013년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 **옵티머스 LTE3**라는 이름으로 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

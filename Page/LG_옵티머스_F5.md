@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  F5](https://ko.wikipedia.org/wiki/LG__F5).
+> This article is converted from Wikipedia: [LG 옵티머스 F5](https://ko.wikipedia.org/wiki/LG_옵티머스_F5).
 
 
 **LG 옵티머스 F5**(LG Optimus F5)는 [LG전자](../Page/LG전자.md "wikilink")가 [모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2013에서 최초로 공개하여\[1\], [2013년](../Page/2013년.md "wikilink")에 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T ](https://ko.wikipedia.org/wiki/_T_).
+> This article is converted from Wikipedia: [러셀 T 데이비스](https://ko.wikipedia.org/wiki/러셀_T_데이비스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Russelltdavies.jpg "wikilink") **러셀 T 데이비스**(, [1963년](../Page/1963년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ )는 [웨일스](../Page/웨일스.md "wikilink")의 [각본가](https://ko.wikipedia.org/wiki/각본가 "wikilink")이자 [텔레비전 프로듀서이다](https://ko.wikipedia.org/wiki/텔레비전_프로듀서 "wikilink").

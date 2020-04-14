@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MySQL ](https://ko.wikipedia.org/wiki/MySQL_).
+> This article is converted from Wikipedia: [MySQL 워크벤치](https://ko.wikipedia.org/wiki/MySQL_워크벤치).
 
 
 **MySQL 워크벤치**(MySQL Workbench)는 SQL 개발과 관리, [데이터베이스 설계](../Page/데이터베이스_설계.md "wikilink"), 생성 그리고 유지를 위한 단일 개발 통합 환경을 제공하는 비주얼 [데이터베이스 설계 도구이다](https://ko.wikipedia.org/wiki/:en:Comparison_of_database_tools "wikilink"). fabFORCE.NET의 DBDesigner4의 후속 판이며, 이전 소프트웨어 패키지인 MySQL GUI 툴즈 번들을 대체한 것이다.

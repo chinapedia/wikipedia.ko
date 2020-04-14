@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Coordinates](https://ko.wikipedia.org/wiki/:Coordinates).
+> This article is converted from Wikipedia: [모듈:Coordinates](https://ko.wikipedia.org/wiki/모듈:Coordinates).
 
 
 \--\[\[ This module is intended to replace the functionality of  and related templates. It provides several methods, including

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 월드리포트](https://ko.wikipedia.org/wiki/MBC_월드리포트).
 
 
 《**MBC 월드리포트**》는 [MBC TV의](../Page/MBC_TV.md "wikilink") 아침 시간대에 방영된 국제 시사 프로그램이다.

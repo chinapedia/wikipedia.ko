@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MP3](https://ko.wikipedia.org/wiki/MP3).
+> This article is converted from Wikipedia: [맥스MP3](https://ko.wikipedia.org/wiki/맥스MP3).
 
 
 **맥스MP3**()는 음악 스트리밍 및 음악 파일 다운로드 서비스를 제공하던 [웹사이트](../Page/웹사이트.md "wikilink")이다.

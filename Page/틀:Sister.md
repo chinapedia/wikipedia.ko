@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Sister](https://ko.wikipedia.org/wiki/:Sister).
+> This article is converted from Wikipedia: [틀:Sister](https://ko.wikipedia.org/wiki/틀:Sister).
 
 
 |40x40px|link=|alt=

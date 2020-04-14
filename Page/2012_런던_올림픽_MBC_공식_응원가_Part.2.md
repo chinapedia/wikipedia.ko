@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2012   MBC   Part.2](https://ko.wikipedia.org/wiki/2012___MBC___Part.2).
+> This article is converted from Wikipedia: [2012 런던 올림픽 MBC 공식 응원가 Part.2](https://ko.wikipedia.org/wiki/2012_런던_올림픽_MBC_공식_응원가_Part.2).
 
 
 〈**2012 런던 올림픽 MBC 공식 응원가 Part.2**〉는 [2012년 하계 올림픽을](https://ko.wikipedia.org/wiki/2012년_하계_올림픽 "wikilink") 위해 제작한 MBC 공식 응원가로 〈[2012 런던 올림픽 MBC 공식 응원가 Part.1](https://ko.wikipedia.org/wiki/2012_런던_올림픽_MBC_공식_응원가_Part.1 "wikilink")〉에 이은 두 번째 응원가이다. [2012년](../Page/2012년.md "wikilink") [8월 3일에](../Page/8월_3일.md "wikilink") [디지털 싱글로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 발매하였으며 [박정현](../Page/박정현.md "wikilink"), [김조한](../Page/김조한.md "wikilink"), [국카스텐](../Page/국카스텐.md "wikilink")이 참여하였다.

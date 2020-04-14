@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MJ](https://ko.wikipedia.org/wiki/MJ).
+> This article is converted from Wikipedia: [MJ플렉스](https://ko.wikipedia.org/wiki/MJ플렉스).
 
 
 **㈜MJ플렉스**([mjplex.co.kr](http://www.mjplex.co.kr/))는 ‘행복한 미래를 함께 여는 HR리딩컴퍼니\`라는 비전 아래, 차별화된 다양한 취업 매칭서비스를 바탕으로 대기업, 언론기관, 공공기관 파트너로서 약 200여개의 국내 최고의 기업에 아웃소싱, 헤드헌팅, 채용대행 등 체계적인 HR서비스를 제공하고 있다. 또한 **㈜MJ피플**([mjpeople.co.kr](http://www.mjpeople.co.kr/index.html)) 자회사도 보유하여 특화된 전문분야 구인구직 플랫폼을 바탕으로 미디어잡([mediajob.co.kr](http://www.mediajob.co.kr/)), 디자이너잡([designerjob.co.kr](http://www.mediajob.co.kr/)), 돌보미닷컴([dolbomi.com](http://www.dolbomi.com/)) 등 각 분야 1위 전문취업포털 사이트를 운영하고 있다.

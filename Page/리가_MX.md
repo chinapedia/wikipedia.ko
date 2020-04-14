@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MX](https://ko.wikipedia.org/wiki/_MX).
+> This article is converted from Wikipedia: [리가 MX](https://ko.wikipedia.org/wiki/리가_MX).
 
 
 **리가 MX**(Liga MX)는 [북중미카리브 축구 연맹에](../Page/북중미카리브_축구_연맹.md "wikilink") 가맹된 [멕시코](../Page/멕시코.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink")의 최상위 리그이며, 아르헨티나리그와 마찬가지로 [아페르투라와 클라우수라로](../Page/아페르투라와_클라우수라.md "wikilink") 시행되고 있다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [J\'J](https://ko.wikipedia.org/wiki/J\'J).
+> This article is converted from Wikipedia: [J\'J시리즈](https://ko.wikipedia.org/wiki/J\'J시리즈).
 
 
-**J'J시리즈**는, [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 외에서 매주 [월요일](../Page/월요일.md "wikilink") 25:29 \~ 25:59(매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 오전 1:29 \~ 1:59, [JST](../Page/일본_표준시.md "wikilink"))에 방송된 여행 프로그램이다. 2012년 1월 2일의 〈야마시타 토모히사·루트 66\~단 한 명의 미국〉을 시작으로 3개월에 1회 여행자와 타이틀을 바꾸어 방송되었다. J'J란, J's Journey(쟈니즈 저니)의 약어이다.
+**J'J시리즈**는 [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") 외에서 매주 [월요일](../Page/월요일.md "wikilink") 25:29 \~ 25:59(매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 오전 1:29 \~ 1:59, [JST](../Page/일본_표준시.md "wikilink"))에 방송된 여행 프로그램이다. 2012년 1월 2일의 〈야마시타 토모히사·루트 66\~단 한 명의 미국〉을 시작으로 3개월에 1회 여행자와 타이틀을 바꾸어 방송되었다. J'J란, J's Journey(쟈니즈 저니)의 약어이다.
 
 ## 시리즈 타이틀·내용
 

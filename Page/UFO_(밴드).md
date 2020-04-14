@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UFO \(\)](https://ko.wikipedia.org/wiki/UFO_\(\)).
+> This article is converted from Wikipedia: [UFO \(밴드\)](https://ko.wikipedia.org/wiki/UFO_\(밴드\)).
 
 
 **UFO**는 잉글랜드의 록 밴드이다.

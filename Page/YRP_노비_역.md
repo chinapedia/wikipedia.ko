@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YRP  ](https://ko.wikipedia.org/wiki/YRP__).
+> This article is converted from Wikipedia: [YRP 노비 역](https://ko.wikipedia.org/wiki/YRP_노비_역).
 
 
 **YRP 노비 역**()은 일본 [가나가와현](../Page/가나가와현.md "wikilink") [요코스카 시에](https://ko.wikipedia.org/wiki/요코스카_시 "wikilink") 있는 [철도역](../Page/철도역.md "wikilink")이다.

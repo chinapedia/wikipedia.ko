@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U-](https://ko.wikipedia.org/wiki/U-).
+> This article is converted from Wikipedia: [U-반](https://ko.wikipedia.org/wiki/U-반).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:F92_U-Bahn_Berlin.JPG "wikilink") 열차\]\] **U-반**()은 [독일](../Page/독일.md "wikilink")과 [오스트리아](../Page/오스트리아.md "wikilink") 등에서 지하로 지어진 [도시 철도의](https://ko.wikipedia.org/wiki/도시_철도 "wikilink") 명칭이다. [독일어](../Page/독일어.md "wikilink") "운터그룬트반"(Untergrundbahn)의 줄임말로, 일반적으로는 [지하철](../Page/지하철.md "wikilink")로 번역되지만, 일부 U반은 [트램](https://ko.wikipedia.org/wiki/트램 "wikilink")의 형태인 경우도 있어 [경전철](../Page/경전철.md "wikilink")의 범위에 들어가는 경우도 있다.
@@ -33,6 +33,6 @@ U반이라는 용어의 시작은 20세기 초 [베를린](../Page/베를린.md 
 
 ## 같이 보기
 
-  - [S-반](https://ko.wikipedia.org/wiki/S-반 "wikilink")
+  - [S-반](../Page/S-반.md "wikilink")
 
 [분류:독일의 철도 교통](https://ko.wikipedia.org/wiki/분류:독일의_철도_교통 "wikilink")

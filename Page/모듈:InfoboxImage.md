@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:InfoboxImage](https://ko.wikipedia.org/wiki/:InfoboxImage).
+> This article is converted from Wikipedia: [모듈:InfoboxImage](https://ko.wikipedia.org/wiki/모듈:InfoboxImage).
 
 
 \-- Inputs: -- image - Can either be a bare filename (with or without the <File:/Image>: prefix) or a fully formatted image link -- page - page to display for multipage images (DjVu) -- size - size to display the image -- maxsize - maximum size for image -- sizedefault - default size to display the image if size param is blank -- alt - alt text for image -- title - title text for image -- border - set to yes if border -- center - set to yes, if the image has to be centered -- upright - upright image param -- suppressplaceholder - if yes then checks to see if image is a placeholder and suppresses it -- link - page to visit when clicking on image -- Outputs: -- Formatted image. -- More details available at the "Module:InfoboxImage/doc" page

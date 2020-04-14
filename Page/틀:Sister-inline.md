@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Sister-inline](https://ko.wikipedia.org/wiki/:Sister-inline).
+> This article is converted from Wikipedia: [틀:Sister-inline](https://ko.wikipedia.org/wiki/틀:Sister-inline).
 
 
 \[\[파일:{{\#switch:

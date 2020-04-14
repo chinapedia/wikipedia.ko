@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  SSD](https://ko.wikipedia.org/wiki/FC__SSD).
+> This article is converted from Wikipedia: [FC 그로세토 SSD](https://ko.wikipedia.org/wiki/FC_그로세토_SSD).
 
 
 **풋볼 클럽 그로세토 소시에타 스포르티바 딜레탄티스티카 a r.l.**()는 짧게 **FC 그로세토 SSD**라고도 불리며, [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink")의 [그로세토](../Page/그로세토.md "wikilink")를 연고로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 프로 축구팀이다. 이 팀은 [1912년](../Page/1912년.md "wikilink")에 생겨났으며, 애칭은 Grifone (그리폰)이다. 이것은 팀의 엠블럼에서도 확인할 수 있다. 팀의 색깔은 붉은색과 흰색이다. [2015년](../Page/2015년.md "wikilink") 까지 **우니오네 스포르티바 그로세토 FC** (U.S. Grosseto F.C.)라는 구단명을 사용했으나, [세리에 D 2015-16](https://ko.wikipedia.org/wiki/세리에_D_2015-16 "wikilink") 시즌을 앞두고 현재의 명칭으로 변경되었다.

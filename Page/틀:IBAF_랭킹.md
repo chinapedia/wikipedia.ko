@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IBAF ](https://ko.wikipedia.org/wiki/:IBAF_).
+> This article is converted from Wikipedia: [틀:IBAF 랭킹](https://ko.wikipedia.org/wiki/틀:IBAF_랭킹).
 
 
 <onlyinclude>

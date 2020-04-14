@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABC](https://ko.wikipedia.org/wiki/ABC).
+> This article is converted from Wikipedia: [ABC마트](https://ko.wikipedia.org/wiki/ABC마트).
 
 
 **ABC마트**코리아는 2002년에 설립한 국내 최대 슈즈 멀티 스토어로 총 150여개 브랜드의 제품을 선보이고 있다. ABC마트 코리아는 일본 ABC마트의 한국 법인으로 ABC마트의 전체 지분은99% 일본 ABC마트가 보유하고 있다.

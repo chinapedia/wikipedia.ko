@@ -22,7 +22,7 @@
 1.  **Our Steady Boy** \[3:59\]
       -
         작사: [오모리 쇼코](https://ko.wikipedia.org/wiki/오모리_쇼코 "wikilink"), 작곡 · 편곡: [우에키 미즈키 in 슌류](https://ko.wikipedia.org/wiki/우에키_미즈키_in_슌류 "wikilink")
-2.  **또 다른 나** () \[4:07\]
+2.  **또 다른 나**() \[4:07\]
       -
         작사: [타다노 마츠미](https://ko.wikipedia.org/wiki/타다노_마츠미 "wikilink"), 작곡 · 편곡: [오타 미치히코](../Page/오타_미치히코.md "wikilink")
 3.  **Our Steady Boy ([off vocal ver.](https://ko.wikipedia.org/wiki/반주 "wikilink"))**

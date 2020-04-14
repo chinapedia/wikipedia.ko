@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A  ](https://ko.wikipedia.org/wiki/A__).
+> This article is converted from Wikipedia: [채널A 시청자 마당](https://ko.wikipedia.org/wiki/채널A_시청자_마당).
 
 
 《**채널A 시청자 마당**》은 [채널A](../Page/채널A.md "wikilink")의 프로그램에 대해 방송하는 프로그램이다.
@@ -54,9 +54,9 @@
   - [시청자 의회](../Page/시청자_의회.md "wikilink") (JTBC)
   - [열린비평 TV를 말하다](../Page/열린비평_TV를_말하다.md "wikilink") (TV조선)
   - [열린TV 열린세상](../Page/열린TV_열린세상.md "wikilink") (MBN)
-  - [YTN 시민데스크](https://ko.wikipedia.org/wiki/YTN_시민데스크 "wikilink") (YTN)
-  - [바로보는TV 옴부즈맨](https://ko.wikipedia.org/wiki/바로보는TV_옴부즈맨 "wikilink") (연합뉴스TV)
-  - [클릭 KNN 시청자 세상](https://ko.wikipedia.org/wiki/클릭_KNN_시청자_세상 "wikilink") (KNN)
+  - [YTN 시민데스크](../Page/YTN_시민데스크.md "wikilink") (YTN)
+  - [바로보는TV 옴부즈맨](../Page/바로보는TV_옴부즈맨.md "wikilink") (연합뉴스TV)
+  - [클릭 KNN 시청자 세상](../Page/클릭_KNN_시청자_세상.md "wikilink") (KNN)
   - [열린TBC](../Page/열린TBC.md "wikilink") (TBC 대구방송)
   - [kbc 열린 TV 시청자세상](../Page/열린_TV_시청자세상_\(텔레비전_프로그램\).md "wikilink") (kbc 광주방송)
   - [G1 열린 TV 시청자세상](https://ko.wikipedia.org/wiki/G1_열린_TV_시청자세상 "wikilink") (G1 강원민방)

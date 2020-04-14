@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:S-ttl](https://ko.wikipedia.org/wiki/:S-ttl).
+> This article is converted from Wikipedia: [틀:S-ttl](https://ko.wikipedia.org/wiki/틀:S-ttl).
 
 
 <includeonly>| style="width: 40%; text-align: center;" rowspan=""|**{{\#if:| }} **{{\#if:|

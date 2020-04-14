@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Good Boy \( \)](https://ko.wikipedia.org/wiki/Good_Boy_\(_\)).
+> This article is converted from Wikipedia: [Good Boy \(백지영의 노래\)](https://ko.wikipedia.org/wiki/Good_Boy_\(백지영의_노래\)).
 
 
 ***Good Boy***는 대한민국의 가수 [백지영](../Page/백지영.md "wikilink")의 두 번째 미니 음반의 타이틀 곡으로 2012년 5월 17일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다. "Good Boy"는 이단옆차기와 Fiera가 참여한 [댄스 팝](../Page/댄스_팝.md "wikilink") 노래로, [비스트의](../Page/비스트_\(음악_그룹\).md "wikilink") [용준형](../Page/용준형.md "wikilink")이 피처링으로 참여했다.\[1\] 원래 "Good Boy"의 랩 파트는 백지영이 혼자 부르기로 결정돼 있었지만, 이단옆차기의 [박장근](https://ko.wikipedia.org/wiki/박장근 "wikilink")이 남자와 함께 주고받으면 어떻겠냐고 제안을 해 용준형이 참여하기로 변경되었다.\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V- ](https://ko.wikipedia.org/wiki/V-_).
+> This article is converted from Wikipedia: [V-파렌 나가사키](https://ko.wikipedia.org/wiki/V-파렌_나가사키).
 
 
 **V-파렌 나가사키**()는 [나가사키 시와](https://ko.wikipedia.org/wiki/나가사키_시 "wikilink") [이사하야 시를](https://ko.wikipedia.org/wiki/이사하야_시 "wikilink") 연고지로 하는 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [2004년](../Page/2004년.md "wikilink")에 창단되었다. 현재 [J1리그](../Page/J1리그.md "wikilink")에 참여하고 있다. 팀명은 승리를 뜻하는 포르투갈어 vitoria 및 평화를 뜻하는 [네덜란드어](../Page/네덜란드어.md "wikilink") vrede의 앞글자 V와 '항해하다'라는 뜻의 네덜란드어 파렌()의 합성어이다.

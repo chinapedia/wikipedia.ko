@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Z](https://ko.wikipedia.org/wiki/__Z).
+> This article is converted from Wikipedia: [소니 엑스페리아 Z](https://ko.wikipedia.org/wiki/소니_엑스페리아_Z).
 
 
 **소니 엑스페리아 Z**(Sony Xperia Z)는 [소니 모바일 커뮤니케이션스에서](../Page/소니_모바일_커뮤니케이션스.md "wikilink") [2013년](../Page/2013년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") **[소비자 가전 전시회](../Page/소비자_가전_전시회.md "wikilink") 2013** (CES 2013)에서 공개하여,\[1\] [2013년](../Page/2013년.md "wikilink") [2월 9일에](../Page/2월_9일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

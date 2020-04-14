@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [마피아 II](https://ko.wikipedia.org/wiki/마피아_II).
 
 
 《**마피아 II**》(Mafia II)는 [마피아 : 더 시티 오브 로스트 헤븐](https://ko.wikipedia.org/wiki/마피아_:_더_시티_오브_로스트_헤븐 "wikilink")(MAFIA : The City of Lost Heaven)의 후속작이다. [엔비디아](../Page/엔비디아.md "wikilink")사의 [PhysX](../Page/PhysX.md "wikilink")기능을 가지고 있다. 마피아의 삶을 잘 다룬 게임으로 유명하다. 잘 짜인 스토리로 찬사를 받기도 하였지만 게임 플레이에서의 자유도가 떨어진다는 혹평을 심하게 받자 관련 제작자가 모두 해고 당하는 등 해프닝이 일어났다. 현재는 [다운로드 가능한 콘텐츠를](https://ko.wikipedia.org/wiki/다운로드_가능한_콘텐츠 "wikilink") 구매하면 **프리 라이드** 모드를 플레이 할 수 있게되어 기존 오리지널판의 스토리 진행 없이 자유롭게 이동할 수 있다.

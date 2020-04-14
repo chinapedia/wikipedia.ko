@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(KBS  \)](https://ko.wikipedia.org/wiki/__\(KBS__\)).
+> This article is converted from Wikipedia: [미디어 비평 \(KBS 텔레비전 프로그램\)](https://ko.wikipedia.org/wiki/미디어_비평_\(KBS_텔레비전_프로그램\)).
 
 
 **미디어 비평**은 매주 [금요일](../Page/금요일.md "wikilink") 밤 11시 40분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [비평 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

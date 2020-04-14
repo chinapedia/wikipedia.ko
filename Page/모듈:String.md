@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:String](https://ko.wikipedia.org/wiki/:String).
+> This article is converted from Wikipedia: [모듈:String](https://ko.wikipedia.org/wiki/모듈:String).
 
 
 \--\[\[

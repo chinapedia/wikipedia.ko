@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Live from SoHo \( 5 EP\)](https://ko.wikipedia.org/wiki/Live_from_SoHo_\(_5_EP\)).
+> This article is converted from Wikipedia: [Live from SoHo \(마룬 5의 EP\)](https://ko.wikipedia.org/wiki/Live_from_SoHo_\(마룬_5의_EP\)).
 
 
 ***Live From SoHo***(라이브 프롬 소호)는 [마룬 5의](../Page/마룬_5.md "wikilink") 두 번째 [라이브 음반이다](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink"). 2008년 3월 25일에 [아이튠즈](../Page/아이튠즈.md "wikilink") 단독 [EP](https://ko.wikipedia.org/wiki/EP "wikilink")로 발매되었다. [미국](../Page/미국.md "wikilink") [뉴욕주](../Page/뉴욕주.md "wikilink") [뉴욕의](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 소호 [애플 스토어에서](https://ko.wikipedia.org/wiki/애플_스토어 "wikilink") 녹음되었다.

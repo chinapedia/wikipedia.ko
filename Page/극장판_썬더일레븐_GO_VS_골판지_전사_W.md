@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  GO VS   W](https://ko.wikipedia.org/wiki/__GO_VS___W).
+> This article is converted from Wikipedia: [극장판 썬더일레븐 GO VS 골판지 전사 W](https://ko.wikipedia.org/wiki/극장판_썬더일레븐_GO_VS_골판지_전사_W).
 
 
 **극장판 썬더일레븐 GO VS 골판지 전사 W**()는 [2012년](../Page/2012년.md "wikilink") 공개된 [일본](../Page/일본.md "wikilink")의 애니메이션 영화이다. 약칭은 **이나단**()이다.

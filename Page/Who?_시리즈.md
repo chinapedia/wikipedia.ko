@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Who\? ](https://ko.wikipedia.org/wiki/Who\?_).
+> This article is converted from Wikipedia: [Who\? 시리즈](https://ko.wikipedia.org/wiki/Who\?_시리즈).
 
 
 **who? 시리즈**는 다산어린이에서 출판하는 인물 교양 [학습 만화이다](https://ko.wikipedia.org/wiki/학습_만화 "wikilink"). 아래 5개의 시리즈가 출간되었다.

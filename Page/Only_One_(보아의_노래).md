@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Only One \( \)](https://ko.wikipedia.org/wiki/Only_One_\(_\)).
+> This article is converted from Wikipedia: [Only One \(보아의 노래\)](https://ko.wikipedia.org/wiki/Only_One_\(보아의_노래\)).
 
 
 〈**Only One**〉는 대한민국 여자 가수 보아가 일본에서 발매하는 32번째 싱글이다. CD반과 CD+DVD반(한정판, 통상반), 그리고 SOUL(보아의 일본 정식 팬클럽) 숍 한정반 Type A/B 4가지 버전으로 발매된다. 이 싱글은 일본에서 2013년 2월 27일 발매되었다.

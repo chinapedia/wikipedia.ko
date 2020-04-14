@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK드림파크](https://ko.wikipedia.org/wiki/SK드림파크).
 
 
 **SK 드림파크**(SK Dream Park)는 [대한민국](../Page/대한민국.md "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 남구(현 [미추홀구](../Page/미추홀구.md "wikilink")) 용현동에 있던 [야구장](../Page/야구장.md "wikilink")이다.

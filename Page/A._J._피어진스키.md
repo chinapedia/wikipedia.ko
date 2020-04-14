@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A. J. ](https://ko.wikipedia.org/wiki/A._J._).
+> This article is converted from Wikipedia: [A. J. 피어진스키](https://ko.wikipedia.org/wiki/A._J._피어진스키).
 
 
 **A.J. 피어진스키** (Anthony John Pierzynski, [1976년](../Page/1976년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") \~ )는 미국 프로 야구 [애틀랜타 브레이브스의](../Page/애틀랜타_브레이브스.md "wikilink") 선수이다. [1994년](../Page/1994년.md "wikilink") 3라운드 71픽으로 [미네소타 트윈스에](../Page/미네소타_트윈스.md "wikilink") 입단했다.

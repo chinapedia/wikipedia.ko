@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [토머스 F. 윌슨](https://ko.wikipedia.org/wiki/토머스_F._윌슨).
 
 
 **토머스 F. 윌슨**(Thomas F. Wilson, [1959년](../Page/1959년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.

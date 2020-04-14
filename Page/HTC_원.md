@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC ](https://ko.wikipedia.org/wiki/HTC_).
+> This article is converted from Wikipedia: [HTC 원](https://ko.wikipedia.org/wiki/HTC_원).
 
 
 **HTC 원**()는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") [2013년](../Page/2013년.md "wikilink") [2월 19일에](../Page/2월_19일.md "wikilink") 공개하여\[1\], [2013년](../Page/2013년.md "wikilink") [4월 24일에](../Page/4월_24일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [원 X의](https://ko.wikipedia.org/wiki/원_X "wikilink") 후속 기종이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA U-21   ](https://ko.wikipedia.org/wiki/UEFA_U-21___).
+> This article is converted from Wikipedia: [UEFA U-21 축구 선수권 대회](https://ko.wikipedia.org/wiki/UEFA_U-21_축구_선수권_대회).
 
 
 **UEFA U-21 축구 선수권 대회**(UEFA European Under-21 Championship)는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 주관하는 21세 이하 [축구](../Page/축구.md "wikilink") 국가대표팀 간의 국가대항전이다.
@@ -211,7 +211,7 @@
 </tr>
 <tr class="odd">
 <td><p>2021년<br />
-<a href="https://ko.wikipedia.org/wiki/2021년_UEFA_U-21_축구_선수권_대회" title="wikilink">자세히</a></p></td>
+<a href="../Page/2021년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">자세히</a></p></td>
 <td><p><br />
 </p></td>
 <td><p><strong></strong></p></td>

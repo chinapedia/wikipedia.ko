@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C\* ](https://ko.wikipedia.org/wiki/C\*_).
+> This article is converted from Wikipedia: [C\* 대수](https://ko.wikipedia.org/wiki/C\*_대수).
 
 
 [함수해석학](../Page/함수해석학.md "wikilink")에서, **C\* 대수**(시스타 대수, )는 [대합 대수와](../Page/대합_대수.md "wikilink") [복소수 바나흐 대수의](https://ko.wikipedia.org/wiki/복소수_바나흐_대수 "wikilink") 구조를 서로 호환되게 갖춘 수학 구조이다.

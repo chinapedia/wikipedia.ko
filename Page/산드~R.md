@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\~R](https://ko.wikipedia.org/wiki/\~R).
+> This article is converted from Wikipedia: [산드\~R](https://ko.wikipedia.org/wiki/산드\~R).
 
 
 《**산드\~R**》(Puzzle & Action Sand-R, )\[1\]은 [1995년](../Page/1995년.md "wikilink") [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 출시한 [ST-V](../Page/ST-V.md "wikilink")용 퍼즐모음 게임이다. 북미에서는 《**Treasure Hunt**》, [대한민국](../Page/대한민국.md "wikilink")에서는 《**보물을 찾아라**》라는 제목으로 [1997년](../Page/1997년.md "wikilink")에 출시되었으며, 가정용 게임기 이식판은 [세가 새턴으로](../Page/세가_새턴.md "wikilink") CRI가 발매하였다.

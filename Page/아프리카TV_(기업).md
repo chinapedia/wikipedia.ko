@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV \(\)](https://ko.wikipedia.org/wiki/TV_\(\)).
+> This article is converted from Wikipedia: [아프리카TV \(기업\)](https://ko.wikipedia.org/wiki/아프리카TV_\(기업\)).
 
 
 **아프리카TV**는 [대한민국](../Page/대한민국.md "wikilink")의 IT 기업이다. 대표이사는 정찬용이다. 1994년에 창립되어 PC통신 [나우누리](https://ko.wikipedia.org/wiki/나우누리 "wikilink")를 운영하였으며, 현재 인터넷 방송국 [아프리카TV](../Page/아프리카TV.md "wikilink")를 운영하고 있다.

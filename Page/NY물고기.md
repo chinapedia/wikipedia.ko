@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NY](https://ko.wikipedia.org/wiki/NY).
+> This article is converted from Wikipedia: [NY물고기](https://ko.wikipedia.org/wiki/NY물고기).
 
 
 **NY물고기**(**N**oter **Y** Mulgoki, )는 [대한민국](../Page/대한민국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. NY물고기의 NY는 Noter Y\[1\] 를 의미한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Hangul](https://ko.wikipedia.org/wiki/:Hangul).
+> This article is converted from Wikipedia: [모듈:Hangul](https://ko.wikipedia.org/wiki/모듈:Hangul).
 
 
 \--[한글 처리 관련 함수 모듈 josa: 자동 조사 처리 함수 this function is inspired by hanp extension: bugzilla:13712 korean library: http://pythonhosted.org/korean/ --](https://ko.wikipedia.org/wiki/한글_처리_관련_함수_모듈_josa:_자동_조사_처리_함수_this_function_is_inspired_by_hanp_extension:_bugzilla:13712_korean_library:_http://pythonhosted.org/korean/_-- "wikilink")

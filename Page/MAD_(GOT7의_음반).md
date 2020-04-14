@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MAD \(GOT7 \)](https://ko.wikipedia.org/wiki/MAD_\(GOT7_\)).
+> This article is converted from Wikipedia: [MAD \(GOT7의 음반\)](https://ko.wikipedia.org/wiki/MAD_\(GOT7의_음반\)).
 
 
 《**MAD**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") GOT7의 네 번째 EP이다. [2015년](../Page/2015년.md "wikilink") [9월 29일에](../Page/9월_29일.md "wikilink") 지니뮤직에서 발매되었고, 같은 해 [11월 23일에는](../Page/11월_23일.md "wikilink") 《**Winter Edition**》이라는 이름으로 리패키지가 발매되었다.

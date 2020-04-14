@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   Z](https://ko.wikipedia.org/wiki/___Z).
+> This article is converted from Wikipedia: [소니 엑스페리아 태블릿 Z](https://ko.wikipedia.org/wiki/소니_엑스페리아_태블릿_Z).
 
 
 **소니 엑스페리아 태블릿 Z**(Sony Xperia Tablet Z)는 [소니 모바일 커뮤니케이션스에서](../Page/소니_모바일_커뮤니케이션스.md "wikilink") [2013년](../Page/2013년.md "wikilink") [4월](../Page/4월.md "wikilink")에 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [태블릿 컴퓨터이다](../Page/태블릿_컴퓨터.md "wikilink").

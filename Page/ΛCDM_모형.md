@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CDM ](https://ko.wikipedia.org/wiki/CDM_).
+> This article is converted from Wikipedia: [ΛCDM 모형](https://ko.wikipedia.org/wiki/ΛCDM_모형).
 
 
 [우주론](../Page/우주론.md "wikilink")에서, **ΛCDM 모형**(람다-시디엠 모형, )은 [우주 상수](https://ko.wikipedia.org/wiki/우주_상수 "wikilink")(Λ)와 차가운 [암흑 물질](https://ko.wikipedia.org/wiki/암흑_물질 "wikilink")(Cold Dark Matter, CDM)을 포함하는 우주 모형이다. **표준 우주 모형**()이라고도 하는데, 이는 이 모형이 오늘날 관측된 거의 모든 우주론적 데이터와 일관되기 때문이다.

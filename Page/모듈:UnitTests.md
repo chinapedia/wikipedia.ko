@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UnitTests](https://ko.wikipedia.org/wiki/:UnitTests).
+> This article is converted from Wikipedia: [모듈:UnitTests](https://ko.wikipedia.org/wiki/모듈:UnitTests).
 
 
 \-- UnitTester는 다른 루아 스크립트에 사용할 수 있는 유닛 테스트 도구를 -- 제공합니다. 자세한 것은 [위키백과:루아\#유닛 테스트를](https://ko.wikipedia.org/wiki/위키백과:루아#유닛_테스트 "wikilink") 참조하세요. -- 사용자를 위한 설명서는 상단의 설명문서를 참고해주세요. local UnitTester = {}

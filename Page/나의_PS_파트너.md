@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PS ](https://ko.wikipedia.org/wiki/_PS_).
+> This article is converted from Wikipedia: [나의 PS 파트너](https://ko.wikipedia.org/wiki/나의_PS_파트너).
 
 
 《**나의 PS 파트너**》()는 [2012년](../Page/2012년.md "wikilink")에 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 [영화이다](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink"). [KOBIS](https://ko.wikipedia.org/wiki/KOBIS "wikilink") 기준 누적관객수 1,831,717명을 기록했으며 최대 점유 스크린 수는 551개이다.

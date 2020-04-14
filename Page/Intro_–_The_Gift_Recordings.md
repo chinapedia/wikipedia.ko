@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Intro  The Gift Recordings](https://ko.wikipedia.org/wiki/Intro__The_Gift_Recordings).
+> This article is converted from Wikipedia: [Intro – The Gift Recordings](https://ko.wikipedia.org/wiki/Intro_–_The_Gift_Recordings).
 
 
 ***Intro – The Gift Recordings***는 [펄프의](../Page/펄프_\(밴드\).md "wikilink") 컴필레이션 음반이다.

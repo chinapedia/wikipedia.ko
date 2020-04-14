@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FA \(\)](https://ko.wikipedia.org/wiki/FA_\(\)).
+> This article is converted from Wikipedia: [FA컵 \(태국\)](https://ko.wikipedia.org/wiki/FA컵_\(태국\)).
 
 
 **FA컵**은 [태국](../Page/태국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 대회이다. 1980년부터 2001년까지 치러졌으며, 2009년부터 다시 개최되고 있다. [방콕 은행이](https://ko.wikipedia.org/wiki/방콕_은행_FC "wikilink") 첫 두 대회의 우승을 차지하였다.

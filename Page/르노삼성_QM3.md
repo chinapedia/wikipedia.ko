@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ QM3](https://ko.wikipedia.org/wiki/_QM3).
+> This article is converted from Wikipedia: [르노삼성 QM3](https://ko.wikipedia.org/wiki/르노삼성_QM3).
 
 
 **르노삼성 QM3**(Renault Samsung QM3)는 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")의 소형 [스포츠 유틸리티 자동차이다](../Page/스포츠_유틸리티_자동차.md "wikilink"). [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")의 5번째 차종으로, 차명인 QM3에서 QM은 'Quest Motoring'을 의미이며, 3은 준중형급을 나타내는 [숫자](../Page/숫자.md "wikilink")다.
@@ -253,7 +253,6 @@
   - [기아자동차](../Page/기아자동차.md "wikilink") - [니로](../Page/기아_니로.md "wikilink"), [쏘울](../Page/기아_쏘울.md "wikilink"), [스토닉](../Page/기아_스토닉.md "wikilink"), [셀토스](https://ko.wikipedia.org/wiki/기아_셀토스 "wikilink")
   - [쉐보레](../Page/쉐보레.md "wikilink") - [트랙스](../Page/쉐보레_트랙스.md "wikilink")
   - [쌍용자동차](../Page/쌍용자동차.md "wikilink") - [티볼리](../Page/쌍용_티볼리.md "wikilink")
-  - [르노삼성자동차](../Page/르노삼성자동차.md "wikilink") - [QM3](../Page/르노삼성_QM3.md "wikilink")
   - [오펠](../Page/오펠.md "wikilink") - [모카](https://ko.wikipedia.org/wiki/오펠_모카 "wikilink"), [크로스랜드 X](../Page/오펠_크로스랜드_X.md "wikilink")
   - [뷰익](https://ko.wikipedia.org/wiki/뷰익 "wikilink") - [앙코르](https://ko.wikipedia.org/wiki/뷰익_앙코르 "wikilink")
   - [폭스바겐](../Page/폭스바겐.md "wikilink") - [티크로스](https://ko.wikipedia.org/wiki/폭스바겐_티크로스 "wikilink"), [티록](https://ko.wikipedia.org/wiki/폭스바겐_티록 "wikilink")

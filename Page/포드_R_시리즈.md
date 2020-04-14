@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R ](https://ko.wikipedia.org/wiki/_R_).
+> This article is converted from Wikipedia: [포드 R 시리즈](https://ko.wikipedia.org/wiki/포드_R_시리즈).
 
 
 ''' 포드 R 시리즈 '''는 [현대](https://ko.wikipedia.org/wiki/현대 "wikilink")[자동차](../Page/자동차.md "wikilink")가 포드 영국법인의 제휴로 제작한 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") 최초의 도시형[버스](../Page/버스.md "wikilink")형 대형[버스](../Page/버스.md "wikilink")이다. [1969년](../Page/1969년.md "wikilink")에 [R192](../Page/포드_R_시리즈.md "wikilink") 첫 출시 이후, [1977년](../Page/1977년.md "wikilink") [4월](../Page/4월.md "wikilink")에 후속모델인 [HD160/HD170에게](../Page/현대_HD.md "wikilink") 물려주고 단종된 프론트엔진 대형 버스 차종이다.

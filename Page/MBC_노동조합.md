@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 노동조합](https://ko.wikipedia.org/wiki/MBC_노동조합).
 
 
 **MBC 노동조합**은 2013년 3월 6일 새롭게 출발한 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 근로자들을 위한 노동조합이다. 초대 공동위원장에는 [김세의](../Page/김세의.md "wikilink"), 임정환, [최대현](../Page/최대현.md "wikilink")이 있다.

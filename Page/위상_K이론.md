@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K](https://ko.wikipedia.org/wiki/_K).
+> This article is converted from Wikipedia: [위상 K이론](https://ko.wikipedia.org/wiki/위상_K이론).
 
 
 [대수적 위상수학에서](../Page/대수적_위상수학.md "wikilink"), **위상 K이론**(位相K理論, )은 [위상 공간](https://ko.wikipedia.org/wiki/위상_공간_\(수학\) "wikilink") 위의 [벡터 다발을](../Page/벡터_다발.md "wikilink") 연구하는 분야이다.\[1\] 보다 일반적인 [K이론](../Page/K이론.md "wikilink")의 특수한 경우다.

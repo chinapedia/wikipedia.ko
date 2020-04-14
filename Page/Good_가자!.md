@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Good !](https://ko.wikipedia.org/wiki/Good_!).
+> This article is converted from Wikipedia: [Good 가자!](https://ko.wikipedia.org/wiki/Good_가자!).
 
 
 《**Good 가자\!**》()는, [일본](../Page/일본.md "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"), [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 2번째 정규 음반이다.

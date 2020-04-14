@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT\&G](https://ko.wikipedia.org/wiki/KT\&G).
+> This article is converted from Wikipedia: [KT\&G복지재단](https://ko.wikipedia.org/wiki/KT\&G복지재단).
 
 
 **KT\&G 복지재단**()은 [KT\&G](../Page/KT&G.md "wikilink")의 사회 공헌사업의 체계화를 목적으로 하는 사회복지법인이다. [2003년 7월에](../Page/2003년_7월.md "wikilink") 설립되었다. [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [대치동](../Page/대치동.md "wikilink") 945-10 KT\&G 대치타워 14층에 위치한다.

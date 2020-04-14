@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A ](https://ko.wikipedia.org/wiki/A_).
+> This article is converted from Wikipedia: [채널A 외화시리즈](https://ko.wikipedia.org/wiki/채널A_외화시리즈).
 
 
 **채널A 외화시리즈**는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [채널A](../Page/채널A.md "wikilink")를 통해 모두 수입 [해외](https://ko.wikipedia.org/wiki/해외 "wikilink") [텔레비전](../Page/텔레비전.md "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")로 방영한다.

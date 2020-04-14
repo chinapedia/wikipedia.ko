@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:BaseConvert](https://ko.wikipedia.org/wiki/:BaseConvert).
+> This article is converted from Wikipedia: [모듈:BaseConvert](https://ko.wikipedia.org/wiki/모듈:BaseConvert).
 
 
 local p = {}

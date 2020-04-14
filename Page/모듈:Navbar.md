@@ -1,34 +1,75 @@
-> This article is converted from Wikipedia: [:Navbar](https://ko.wikipedia.org/wiki/:Navbar).
+> This article is converted from Wikipedia: [모듈:Navbar](https://ko.wikipedia.org/wiki/모듈:Navbar).
 
 
 local p = {}
 
-local getArgs
+local getArgs local ul
+
+function p.addItem (mini, full, link, descrip, args, url)
+
+`   local l`
+`   if url then`
+`       l = {'[', '', ']'}`
+`   else`
+`       l = {'`[`',``   ``'`](https://ko.wikipedia.org/wiki/',_' "wikilink")`'}`
+`   end`
+`   ul:tag('li')`
+`       :addClass('nv-'..full)`
+`       :wikitext(l[1] .. link .. l[2])`
+`       :tag(args.mini and 'abbr' or 'span')`
+`           :attr('title', '이 틀'.. descrip)`
+`           :cssText(args.fontstyle)`
+`           :wikitext(args.mini and mini or full)`
+`           :done()`
+`       :wikitext(l[3])`
+
+end
+
+function p.brackets (position, c, args, div)
+
+`   if args.brackets then`
+`       div`
+`           :tag('span')`
+`               :css('margin-'..position, '-0.125em')`
+`               :cssText(args.fontstyle)`
+`               :wikitext(c)`
+`   end`
+
+end
 
 function p._navbar(args)
 
+`   local show = {true, true, true, false, false, false}`
 `   local titleArg = 1`
-
+`   `
 `   if args.collapsible then`
 `       titleArg = 2`
-`       if not args.plain then`
-`           args.mini = 1`
-`       end`
+`       if not args.plain then args.mini = 1 end`
 `       if args.fontcolor then`
 `           args.fontstyle = 'color:' .. args.fontcolor .. ';'`
 `       end`
 `       args.style = 'float:left; text-align:left'`
 `   end`
-
-`   local titleText = args[titleArg] or (':' .. mw.getCurrentFrame():getParent():getTitle())`
-`   local title = mw.title.new(mw.text.trim(titleText), '틀');`
-
-`   if not title then`
-`       error(titleText .. ' 문서가 존재하지 않습니다.')`
+`   `
+`   if args.template then`
+`       titleArg = 'template'`
+`       show = {true, false, false, false, false, false}`
+`       local index = {t = 2, d = 2, e = 3, h = 4, m = 5, w = 6, talk = 2, edit = 3, hist = 4, move = 5, watch = 6}`
+`       for k,v in ipairs(require ('Module:TableTools').compressSparseArray(args)) do`
+`           local num = index[v]`
+`           if num then show[num] = true end`
+`       end`
 `   end`
-
-`   local talkpage = title.talkPageTitle and title.talkPageTitle.fullText or '';`
-
+`   `
+`   if args.noedit then show[3] = false end`
+`   `
+`   local titleText = args[titleArg] or (':' .. mw.getCurrentFrame():getParent():getTitle())`
+`   local title = mw.title.new(mw.text.trim(titleText), '틀')`
+`   if not title then`
+`       error('제목이 유효하지 않습니다: ' .. titleText)`
+`   end`
+`   local talkpage = title.talkPageTitle and title.talkPageTitle.fullText or ''`
+`   `
 `   local div = mw.html.create():tag('div')`
 `   div`
 `       :addClass('plainlinks')`
@@ -43,75 +84,24 @@ function p._navbar(args)
 `           :tag('span')`
 `               :css('word-spacing', 0)`
 `               :cssText(args.fontstyle)`
-`               :wikitext(args.text or 'This box:')`
+`               :wikitext(args.text or '이 상자:')`
 `               :wikitext(' ')`
 `   end`
-
-`   if args.brackets then`
-`       div`
-`           :tag('span')`
-`               :css('margin-right', '-0.125em')`
-`               :cssText(args.fontstyle)`
-`               :wikitext('[ ')`
-`   end`
-
-`   local ul = div:tag('ul');`
-
-`   ul`
-`       :tag('li')`
-`           :addClass('nv-view')`
-`           :wikitext('[[' .. title.fullText .. '|')`
-`           :tag(args.mini and 'abbr' or 'span')`
-`               :attr('title', '이 틀을 보기')`
-`               :cssText(args.fontstyle)`
-`               :wikitext(args.mini and 'v' or '보기')`
-`               :done()`
-`           :wikitext(']]')`
-`           :done()`
-`       :tag('li')`
-`           :addClass('nv-talk')`
-`           :wikitext('[[' .. talkpage .. '|')`
-`           :tag(args.mini and 'abbr' or 'span')`
-`               :attr('title', '이 틀에 대한 토론')`
-`               :cssText(args.fontstyle)`
-`               :wikitext(args.mini and 'd' or '토론')`
-`               :done()`
-`           :wikitext(']]');`
-
-`   if not args.noedit then`
-`       ul`
-`           :tag('li')`
-`               :addClass('nv-edit')`
-`               :wikitext('[' .. title:fullUrl('action=edit') .. ' ')`
-`               :tag(args.mini and 'abbr' or 'span')`
-`                   :attr('title', '이 틀을 편집하기')`
-`                   :cssText(args.fontstyle)`
-`                   :wikitext(args.mini and 'e' or '편집')`
-`                   :done()`
-`               :wikitext(']');`
-`   end`
-
-`   if not args.history then`
-`       ul`
-`           :tag('li')`
-`               :addClass('nv-history')`
-`               :wikitext('[' .. title:fullUrl('action=history') .. ' ')`
-`               :tag(args.mini and 'abbr' or 'span')`
-`                   :attr('title', '이 틀의 역사')`
-`                   :cssText(args.fontstyle)`
-`                   :wikitext(args.mini and 'h' or '역사')`
-`                   :done()`
-`               :wikitext(']');`
-`   end`
 `   `
-`   if args.brackets then`
-`       div`
-`           :tag('span')`
-`               :css('margin-left', '-0.125em')`
-`               :cssText(args.fontstyle)`
-`               :wikitext(' ]')`
-`   end`
-
+`   p.brackets('right', '[ ', args, div)`
+`   `
+`   ul = div:tag('ul')`
+`   if show[1] then p.addItem('v', 'view', title.fullText, '을 보기', args) end`
+`   if show[2] then p.addItem('t', 'talk', talkpage, '에 대한 토론', args) end`
+`   if show[3] then p.addItem('e', 'edit', title:fullUrl('action=edit'), '을 편집하기', args, true) end`
+`   if show[4] then p.addItem('h', 'hist', title:fullUrl('action=history'), '의 역사', args, true) end`
+`   if show[5] then`
+`       local move = mw.title.new ('Special:Movepage')`
+`       p.addItem('m', 'move', move:fullUrl('target='..title.fullText), '을 이동하기', args, true) end`
+`   if show[6] then p.addItem('w', 'watch', title:fullUrl('action=watch'), '을 주시하기', args, true) end`
+`   `
+`   p.brackets('left', ' ]', args, div)`
+`   `
 `   if args.collapsible then`
 `       div`
 `           :done()`

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LH ](https://ko.wikipedia.org/wiki/LH_).
+> This article is converted from Wikipedia: [LH 토지주택대학교](https://ko.wikipedia.org/wiki/LH_토지주택대학교).
 
 
 **LH토지주택대학교**(LH土地住宅大學校, )는 [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") [유성구](../Page/유성구.md "wikilink")에 소재한 [한국토지주택공사](../Page/한국토지주택공사.md "wikilink") 부설 [토지주택연구원](../Page/토지주택연구원.md "wikilink")에서 운영하는 대한민국 공기업 최초의 4년제 [사내대학](https://ko.wikipedia.org/wiki/사내대학 "wikilink")이다.\[1\]\[2\] 건설경영학과와 건설기술학과를 운영하며 학과별로 4년 동안 48과목 140학점을 이수하면 학사 학위를 받는다. 학과별 정원은 20명씩 총 40명이다.\[3\] 교과 과정은 공사의 업무수행에 필요한 기초이론과 현장중심 실무교육으로 이루어진다.\[4\] 현업근무와 병행교육으로 업무공백 최소화를 위해 수업은 금요일 오후 3\~9시, 토요일 오전 9시\~오후 7시에 진행된다.\[5\]

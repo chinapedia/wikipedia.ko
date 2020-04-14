@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STP ](https://ko.wikipedia.org/wiki/STP_).
+> This article is converted from Wikipedia: [STP 마케팅](https://ko.wikipedia.org/wiki/STP_마케팅).
 
 
 **STP**는 시장 세분화(Segmentation), 표적 시장 선정(Targeting), 위상 정립(Positioning)의 첫자를 딴 [마케팅](../Page/마케팅.md "wikilink") 전략중 하나이다. 제품 범주와 소비자 욕구에 근거하여 동질적인 여러 고객집단을 나누고 경쟁 상황과 여러 자원을 고려하여 가장 자신 있는 시장을 선정한다는 것이 주요 내용이다.

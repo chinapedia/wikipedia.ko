@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MX-5](https://ko.wikipedia.org/wiki/_MX-5).
+> This article is converted from Wikipedia: [마쓰다 MX-5](https://ko.wikipedia.org/wiki/마쓰다_MX-5).
 
 
 **마쓰다 MX-5**(Mazda MX-5)는 [마쓰다](../Page/마쓰다.md "wikilink") 자동차에서 만든 [로드스터](https://ko.wikipedia.org/wiki/로드스터 "wikilink")이다. [일본](../Page/일본.md "wikilink")에서의 차명은 [로드스터](https://ko.wikipedia.org/wiki/로드스터 "wikilink")이며, 그 외의 국가에서는 MX-5, MX-5 미아타 등의 차명으로 판매된다.

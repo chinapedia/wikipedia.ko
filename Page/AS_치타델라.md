@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AS ](https://ko.wikipedia.org/wiki/AS_).
+> This article is converted from Wikipedia: [AS 치타델라](https://ko.wikipedia.org/wiki/AS_치타델라).
 
 
 **AS 치타델라**(Associazione Sportiva Cittadella SpA)는 [이탈리아](../Page/이탈리아.md "wikilink") [베네토주](../Page/베네토주.md "wikilink") [치타델라](https://ko.wikipedia.org/wiki/치타델라 "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 클럽이다.

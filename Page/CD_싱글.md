@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+> This article is converted from Wikipedia: [CD 싱글](https://ko.wikipedia.org/wiki/CD_싱글).
 
 
 **CD 싱글**(CD single, 때로 줄여서 **CDS**)는 표준 크기의 콤팩트 디스크 형식이다. 비슷한 형태의 [미니 CD 싱글과](https://ko.wikipedia.org/wiki/미니_CD_싱글 "wikilink") 착각해선 안 된다. 이 포맷은 1980년대 중반에 소개되었으나 시장에서 일정한 지분을 차지하게 되는 것은 1990년대 초의 일이다. 2010년 초부터 디지털 다운로드가 우세해짐에 따라 CD 싱글의 판매량은 하락일로를 걷고 있다.

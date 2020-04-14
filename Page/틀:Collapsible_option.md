@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Collapsible option](https://ko.wikipedia.org/wiki/:Collapsible_option).
+> This article is converted from Wikipedia: [틀:Collapsible option](https://ko.wikipedia.org/wiki/틀:Collapsible_option).
 
 
 **이 틀의 가시성 관리법**

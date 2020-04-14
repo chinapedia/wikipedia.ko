@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [USS  \(CVN-68\)](https://ko.wikipedia.org/wiki/USS__\(CVN-68\)).
+> This article is converted from Wikipedia: [USS 니미츠 \(CVN-68\)](https://ko.wikipedia.org/wiki/USS_니미츠_\(CVN-68\)).
 
 
-**미 해군 군함 니미츠**(USS Nimitz, CVN-68)는 [미국 해군의](../Page/미국_해군.md "wikilink") [항공모함](../Page/항공모함.md "wikilink")이다. [니미츠급 항공모함의](../Page/니미츠급_항공모함.md "wikilink") 네임십이다. 함명은 [체스터 니미츠](../Page/체스터_니미츠.md "wikilink") 제독의 이름을 따서 명명됐다. 영화 [파이널 카운트다운](https://ko.wikipedia.org/wiki/파이널_카운트다운 "wikilink")([The Final Countdown](https://ko.wikipedia.org/wiki/:en:The_Final_Countdown_\(film\) "wikilink"))에 등장한 바 있다. 해군의 소수정예화 계획에 따라 건조된 니미츠급 항공모함 중 최초이자 대표적인 항모이며, 1977년에는 [아이젠하워호가](https://ko.wikipedia.org/wiki/USS_드와이트_D._아이젠하워_\(CVN-69\) "wikilink") 니미츠급 중에서 취역한 두 번째 항모가 되었다.
+**미 해군 군함 니미츠**(USS Nimitz, CVN-68)는 [미국 해군의](../Page/미국_해군.md "wikilink") [항공모함](../Page/항공모함.md "wikilink")이다. [니미츠급 항공모함의](../Page/니미츠급_항공모함.md "wikilink") 네임십이다. 함명은 [체스터 니미츠](../Page/체스터_니미츠.md "wikilink") 제독의 이름을 따서 명명됐다. 영화 [파이널 카운트다운](https://ko.wikipedia.org/wiki/파이널_카운트다운 "wikilink")([The Final Countdown](https://ko.wikipedia.org/wiki/:en:The_Final_Countdown_\(film\) "wikilink"))에 등장한 바 있다. 해군의 소수정예화 계획에 따라 건조된 니미츠급 항공모함 중 최초이자 대표적인 항모이며, 1977년에는 [아이젠하워호가](../Page/USS_드와이트_D._아이젠하워_\(CVN-69\).md "wikilink") 니미츠급 중에서 취역한 두 번째 항모가 되었다.
 
 ## 역사
 

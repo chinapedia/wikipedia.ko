@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LoVendo](https://ko.wikipedia.org/wiki/LoVendo).
+> This article is converted from Wikipedia: [LoVendoЯ](https://ko.wikipedia.org/wiki/LoVendoЯ).
 
 
 **LoVendoЯ**(라벤더)는 [2012년](../Page/2012년.md "wikilink")에 결성된 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [락](https://ko.wikipedia.org/wiki/락 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
@@ -175,5 +175,5 @@
 1.  [LoVendoЯ M-line club 가입의 관한 소식](http://www.up-fc.jp/m-line/news_Info.php?id=4579)
 2.  [LoVendoЯ 우오즈미 유키에 관한 소식](http://lovendor.jp/news/1607231)
 3.  [LoVendoЯ 오카다 마리나에 관한 소식](http://lovendor.jp/news/1902271)
-4.  [LoVendoЯ에 관한 소식](http://lovendor.jp/news/1906281)
+4.
 5.

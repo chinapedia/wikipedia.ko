@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DT](https://ko.wikipedia.org/wiki/__DT).
+> This article is converted from Wikipedia: [익시온 사가 DT](https://ko.wikipedia.org/wiki/익시온_사가_DT).
 
 
 《**익시온 사가 DT**》()는 [2012년](../Page/2012년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 방송 중인 [일본](../Page/일본.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink")이다. [2013년](../Page/2013년.md "wikilink") [3월 14일에](../Page/3월_14일.md "wikilink") 정식 서비스를 개시 예정의 [캡콤](../Page/캡콤.md "wikilink")의 온라인 게임 「[익시온 사가](https://ko.wikipedia.org/wiki/익시온_사가 "wikilink")」를 원작으로 하는 [환타지](https://ko.wikipedia.org/wiki/환타지 "wikilink") 애니메이션이다.

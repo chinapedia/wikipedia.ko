@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [필립 M. 브리들러브](https://ko.wikipedia.org/wiki/필립_M._브리들러브).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Gen_Philip_M._Breedlove_2012.jpg "wikilink")

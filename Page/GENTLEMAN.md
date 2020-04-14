@@ -200,7 +200,7 @@
 ## 외부 링크
 
   -
-[분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:싸이의 노래](https://ko.wikipedia.org/wiki/분류:싸이의_노래 "wikilink") [분류:일렉트로팝 노래](https://ko.wikipedia.org/wiki/분류:일렉트로팝_노래 "wikilink") [분류:신스팝 노래](https://ko.wikipedia.org/wiki/분류:신스팝_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:대한민국의 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_노래 "wikilink") [분류:YG 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_음반 "wikilink") [분류:노블티 송](https://ko.wikipedia.org/wiki/분류:노블티_송 "wikilink") [분류:2013년 노래](https://ko.wikipedia.org/wiki/분류:2013년_노래 "wikilink") [분류:바이럴 영상](https://ko.wikipedia.org/wiki/분류:바이럴_영상 "wikilink")
+[분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:싸이의 노래](https://ko.wikipedia.org/wiki/분류:싸이의_노래 "wikilink") [분류:무한도전](https://ko.wikipedia.org/wiki/분류:무한도전 "wikilink") [분류:일렉트로팝 노래](https://ko.wikipedia.org/wiki/분류:일렉트로팝_노래 "wikilink") [분류:신스팝 노래](https://ko.wikipedia.org/wiki/분류:신스팝_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:대한민국의 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_노래 "wikilink") [분류:YG 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_음반 "wikilink") [분류:노블티 송](https://ko.wikipedia.org/wiki/분류:노블티_송 "wikilink") [분류:2013년 노래](https://ko.wikipedia.org/wiki/분류:2013년_노래 "wikilink") [분류:바이럴 영상](https://ko.wikipedia.org/wiki/분류:바이럴_영상 "wikilink")
 
 1.
 2.

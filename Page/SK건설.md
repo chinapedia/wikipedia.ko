@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK건설](https://ko.wikipedia.org/wiki/SK건설).
 
 
 **SK건설**은 1962년 설립되어 대한민국에 본사를 둔 [SK그룹](../Page/SK그룹.md "wikilink") 계열의 건설기업이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SQL](https://ko.wikipedia.org/wiki/_SQL).
+> This article is converted from Wikipedia: [임베디드 SQL](https://ko.wikipedia.org/wiki/임베디드_SQL).
 
 
 **내장 SQL**(Embedded SQL)은 C/C++, [코볼](../Page/코볼.md "wikilink"), [포트란](../Page/포트란.md "wikilink"), [파스칼](../Page/파스칼.md "wikilink"), [에이다](https://ko.wikipedia.org/wiki/에이다 "wikilink"), [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink")([SQLJ](https://ko.wikipedia.org/wiki/SQLJ "wikilink")) 같은 절차적 프로그래밍에 [관계형 데이터베이스](https://ko.wikipedia.org/wiki/관계형_데이터베이스 "wikilink")(RDBMS)를 조작하기 위한 SQL을 통합 기법으로, 프로그래머는 소스 코드 내부에 포함 된 SQL 문을 직접 설명할 수 있게 된다. “임베디드 SQL”이라고 부르기도 한다.

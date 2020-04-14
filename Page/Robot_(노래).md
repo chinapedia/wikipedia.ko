@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Robot \(\)](https://ko.wikipedia.org/wiki/Robot_\(\)).
+> This article is converted from Wikipedia: [Robot \(노래\)](https://ko.wikipedia.org/wiki/Robot_\(노래\)).
 
 
 "**Robot**"는 그룹 [씨엔블루](../Page/씨엔블루.md "wikilink")(CNBLUE)의 네 번째 메이저 싱글앨범으로, [2012년](../Page/2012년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매되었다. 지난 10월 아레나투어를 성공적으로 마친 후, 네 번째 메이저 싱글앨범을 발표하였다. 초동 42,563장의 판매고를 올리며 주간 오리콘 차트 2위에 이름을 올렸다.\[1\]

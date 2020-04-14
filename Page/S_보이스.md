@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S ](https://ko.wikipedia.org/wiki/S_).
+> This article is converted from Wikipedia: [S 보이스](https://ko.wikipedia.org/wiki/S_보이스).
 
 
 **S 보이스**(S Voice)는 개인 비서이자 [지식 내비게이터로서](https://ko.wikipedia.org/wiki/지식_내비게이터 "wikilink"), 삼성 갤럭시 [S III](../Page/삼성_갤럭시_S_III.md "wikilink") 이후 기기의 내장 애플리케이션으로만 사용이 가능하다. 이 애플리케이션은 [자연 언어 사용자 인터페이스를](https://ko.wikipedia.org/wiki/자연_언어_사용자_인터페이스 "wikilink") 이용하여 질문에 답하고, 권고하며, [웹 서비스](../Page/웹_서비스.md "wikilink") 집합에 요청을 위임함으로써 동작을 수행한다.\[1\]\[2\] [블링고](https://ko.wikipedia.org/wiki/블링고 "wikilink")라는 개인 비서에 기반을 둔다.\[3\]

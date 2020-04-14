@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I-](https://ko.wikipedia.org/wiki/I-).
+> This article is converted from Wikipedia: [I-플라이](https://ko.wikipedia.org/wiki/I-플라이).
 
 
 **I-플라이**(, )은 [러시아](../Page/러시아.md "wikilink")의 전세 항공사로 [브누코보 국제공항이](../Page/브누코보_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [2009년](../Page/2009년.md "wikilink")에 설립되었고 주로 [아시아](../Page/아시아.md "wikilink"), [아프리카](../Page/아프리카.md "wikilink"), [유럽](../Page/유럽.md "wikilink") 지역을 중심으로 전세편 노선이 운항하고 있다.

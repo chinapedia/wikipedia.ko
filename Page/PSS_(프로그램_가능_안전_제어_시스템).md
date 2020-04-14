@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PSS \(    \)](https://ko.wikipedia.org/wiki/PSS_\(____\)).
+> This article is converted from Wikipedia: [PSS \(프로그램 가능 안전 제어 시스템\)](https://ko.wikipedia.org/wiki/PSS_\(프로그램_가능_안전_제어_시스템\)).
 
 
 **PSS (프로그램 가능 안전 제어 시스템)**은 Pilz GmbH & Co KG가 만드는 프로그래밍 가능한 안전 제어 시스템의 명칭이다. PSS 제어 시스템은 고용주 책임 보험 연합인 Berufsgenossenschaft로부터 승인을 받았던 1990년대부터 시작되었다.\[1\] 이 시점 이전의 제어 솔루션은 대부분 전자 기계식 릴레이이었다. PSS 제어 시스템은 이중-채널 설계로 되어 있으며 따라서 요구되는 수준의 안전 보장과 위험성 감소를 가능하게 해 주는데, 이러한 기능은 릴레이가 행하기에는 매우 버거운 것이다.\[2\]

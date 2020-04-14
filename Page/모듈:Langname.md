@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Langname](https://ko.wikipedia.org/wiki/:Langname).
+> This article is converted from Wikipedia: [모듈:Langname](https://ko.wikipedia.org/wiki/모듈:Langname).
 
 
 \--[This module provides a language name handling operations based on ISO 639 and Unicode CLDR information. - ChongDae](https://ko.wikipedia.org/wiki/This_module_provides_a_language_name_handling_operations_based_on_ISO_639_and_Unicode_CLDR_information._-_ChongDae "wikilink")

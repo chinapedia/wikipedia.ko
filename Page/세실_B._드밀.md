@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [세실 B. 드밀](https://ko.wikipedia.org/wiki/세실_B._드밀).
 
 
 **세실 B. 데밀**(Cecil B. DeMille, [1881년](../Page/1881년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") \~ [1959년](../Page/1959년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [영화 감독이다](../Page/영화_감독.md "wikilink").
 
 미국 펜실베니아 대학, 미국 연극아카데미를 졸업하였다. 연극활동을 하다가 1913년 《스코우만》을 감독, 무성시대부터 [할리우드](../Page/할리우드.md "wikilink")에서 활약하였다.\[1\]
 
-그의 작품은 호화 스펙터클 사극(史劇)을 중심으로 미국영화의 오락적 특성을 발휘하였다고 평가된다. 대표작으로 《남성 여성》, 《어리석은 자의 낙원》, 《폭군 네로》, 《평원아(平原兒)》, 《[대평원](https://ko.wikipedia.org/wiki/대평원_\(영화\) "wikilink")》, 《정복되지 않는 사람들》, 《[지상최대의 쇼](https://ko.wikipedia.org/wiki/지상최대의_쇼 "wikilink")》, 《[십계](https://ko.wikipedia.org/wiki/십계_\(1956년_영화\) "wikilink")》 등이 있다.\[2\]
+그의 작품은 호화 스펙터클 사극(史劇)을 중심으로 미국영화의 오락적 특성을 발휘하였다고 평가된다. 대표작으로 《남성 여성》, 《어리석은 자의 낙원》, 《폭군 네로》, 《평원아(平原兒)》, 《[대평원](https://ko.wikipedia.org/wiki/대평원_\(영화\) "wikilink")》, 《정복되지 않는 사람들》, 《[지상최대의 쇼](https://ko.wikipedia.org/wiki/지상최대의_쇼 "wikilink")》, 《[십계](../Page/십계_\(1956년_영화\).md "wikilink")》 등이 있다.\[2\]
 
 ## 작품 목록
 
@@ -17,7 +17,7 @@
   - [정복되지 않는 사람들](https://ko.wikipedia.org/wiki/정복되지_않는_사람들 "wikilink") (1947)
   - [삼손과 데릴라](https://ko.wikipedia.org/wiki/삼손과_데릴라 "wikilink") (1949)
   - [지상 최대의 쇼](../Page/지상_최대의_쇼.md "wikilink") (1952)
-  - [십계](https://ko.wikipedia.org/wiki/십계_\(1956년_영화\) "wikilink") (1956)
+  - [십계](../Page/십계_\(1956년_영화\).md "wikilink") (1956)
 
 ## 각주
 

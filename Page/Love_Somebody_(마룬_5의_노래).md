@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Love Somebody \( 5 \)](https://ko.wikipedia.org/wiki/Love_Somebody_\(_5_\)).
+> This article is converted from Wikipedia: [Love Somebody \(마룬 5의 노래\)](https://ko.wikipedia.org/wiki/Love_Somebody_\(마룬_5의_노래\)).
 
 
 "**Love Somebody**"(〈러브 섬바디〉)는 미국의 [팝 록](../Page/팝_록.md "wikilink") 밴드 [마룬 5의](../Page/마룬_5.md "wikilink") 네 번째 [정규 음반](../Page/정규_음반.md "wikilink") *[Overexposed](../Page/Overexposed.md "wikilink")*의 네 번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.

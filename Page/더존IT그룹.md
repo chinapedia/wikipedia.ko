@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IT](https://ko.wikipedia.org/wiki/IT).
+> This article is converted from Wikipedia: [더존IT그룹](https://ko.wikipedia.org/wiki/더존IT그룹).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:더존_강촌캠퍼스_연구동.JPG "wikilink") **더존ICT그룹**(Douzone ICT Group, **DOUZONE**)은 대한민국의 IT전문 기업집단이다.

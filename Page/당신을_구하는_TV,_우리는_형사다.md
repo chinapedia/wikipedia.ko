@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV,  ](https://ko.wikipedia.org/wiki/__TV,__).
+> This article is converted from Wikipedia: [당신을 구하는 TV, 우리는 형사다](https://ko.wikipedia.org/wiki/당신을_구하는_TV,_우리는_형사다).
 
 
 《**당신을 구하는 TV, 우리는 형사다**》는 [대한민국](../Page/대한민국.md "wikilink")의 [JTBC](../Page/JTBC.md "wikilink")의 프로그램이다. 형사 토크 버라이어티쇼로, 형사들이 출연해 범죄에 대한 경각심을 일깨우고 예방책을 제시하는 프로그램이다.\[1\]

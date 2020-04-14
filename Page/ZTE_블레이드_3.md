@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ZTE  3](https://ko.wikipedia.org/wiki/ZTE__3).
+> This article is converted from Wikipedia: [ZTE 블레이드 3](https://ko.wikipedia.org/wiki/ZTE_블레이드_3).
 
 
 **ZTE V889F**()는 [ZTE](../Page/ZTE.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink")에 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

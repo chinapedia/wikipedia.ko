@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UAE ](https://ko.wikipedia.org/wiki/UAE_).
+> This article is converted from Wikipedia: [UAE 프레지던트컵](https://ko.wikipedia.org/wiki/UAE_프레지던트컵).
 
 
 **UAE 프레지던트컵**()은 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 축구 토너먼트 대회이다. 1974년 창설되었으며 [알샤르자](https://ko.wikipedia.org/wiki/알샤르자 "wikilink")가 8회 우승으로 최다 우승 기록을 가지고 있다. 우승 팀은 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 참가 자격을 얻는다.

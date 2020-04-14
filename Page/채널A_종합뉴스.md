@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A ](https://ko.wikipedia.org/wiki/A_).
+> This article is converted from Wikipedia: [채널A 종합뉴스](https://ko.wikipedia.org/wiki/채널A_종합뉴스).
 
 
 **채널A 종합뉴스**는 [채널A](../Page/채널A.md "wikilink")의 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
@@ -32,7 +32,7 @@
 
   - [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink") (KBS 1TV)
   - [뉴스 프리즘](https://ko.wikipedia.org/wiki/뉴스_프리즘 "wikilink") (SBS CNBC)
-  - [EBS 뉴스](https://ko.wikipedia.org/wiki/EBS_뉴스 "wikilink") (EBS 1TV)
+  - [EBS 저녁뉴스](../Page/EBS_저녁뉴스.md "wikilink") (EBS 1TV)
   - [OBS 뉴스 M](https://ko.wikipedia.org/wiki/OBS_뉴스_M "wikilink") (OBS)
   - [MBN 뉴스 8](https://ko.wikipedia.org/wiki/MBN_뉴스_8 "wikilink") (MBN)
   - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") (MBC)

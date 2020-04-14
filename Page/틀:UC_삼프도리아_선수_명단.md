@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UC   ](https://ko.wikipedia.org/wiki/:UC___).
+> This article is converted from Wikipedia: [틀:UC 삼프도리아 선수 명단](https://ko.wikipedia.org/wiki/틀:UC_삼프도리아_선수_명단).
 
 
 <onlyinclude></onlyinclude>

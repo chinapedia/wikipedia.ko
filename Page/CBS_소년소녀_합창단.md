@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBS  ](https://ko.wikipedia.org/wiki/CBS__).
+> This article is converted from Wikipedia: [CBS 소년소녀 합창단](https://ko.wikipedia.org/wiki/CBS_소년소녀_합창단).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:CBS_소년소녀_합창단.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:CBS_소년소녀_합창단_정기연주회.jpg "wikilink") **CBS 소년소녀 합창단**은 1994년에 창단된 합창단이다. [기독교방송](https://ko.wikipedia.org/wiki/기독교방송 "wikilink") 소속으로, 초등학교 3학년부터 고등학교 2학년생으로 구성되어 있다. 국내외적으로 국가기관, 사회봉사단체, 군부대, 교회 등의 각종 연주회에 초청이 되며, CBS 방송국 합창단으로써 하나님께 영광을 돌리고, 음악을 통하여 세상을 치유하고, 차세대 지도자를 양성하는 것을 목표로 하고 있다. 현재 일년에 약 50차례의 공연을 하고 있다. 매년 정기 오디션을 통하여 신입단원을 모집한다. 서울특별시 양천구 목동에 위치해 있다
@@ -36,7 +36,9 @@ G20 국회의장단회 청와대 영빈관 만찬, UN 반기문 총장 축하만
 
 "Always" (2014) 음반 발매
 
-## CD 제작 참여
+“보배” (2016) 음반 발매
+
+## 제작 참여
 
 김동률 크리스마스 앨범 "KimdongrYULE" (2011)
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hotel California \(\)](https://ko.wikipedia.org/wiki/Hotel_California_\(\)).
+> This article is converted from Wikipedia: [Hotel California \(음반\)](https://ko.wikipedia.org/wiki/Hotel_California_\(음반\)).
 
 
 《**Hotel California**》은 [미국](../Page/미국.md "wikilink")의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 다섯 번째 스튜디오 음반으로, 역대 [베스트셀러 음반](https://ko.wikipedia.org/wiki/가장_많이_팔린_음반_목록 "wikilink") 중 하나이다. 이 음반에서 세 개의 싱글이 발매되었는데, 각각은 [빌보드 핫 100의](../Page/빌보드_핫_100.md "wikilink") 〈[New Kid in Town](https://ko.wikipedia.org/wiki/New_Kid_in_Town "wikilink")〉(1위), 〈[Hotel California](../Page/Hotel_California_\(노래\).md "wikilink")〉(1위) 그리고 〈[Life in the Fast Lane](https://ko.wikipedia.org/wiki/Life_in_the_Fast_Lane "wikilink")〉(11위)에서 높은 수준에 도달했다. 이 음반은 《[Their Greatest Hits (1971–1975)](../Page/Their_Greatest_Hits_\(1971–1975\).md "wikilink")》 이후 이 밴드의 베스트셀러 음반이 되었다. 미국에서 26배의 플래티넘 인증을 받았으며, 전세계적으로 4천2백만 장 이상이 팔렸다. 이 음반은 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》이 선정한 "[역사상 가장 위대한 음반 500장](https://ko.wikipedia.org/wiki/역사상_가장_위대한_음반_500장 "wikilink")"에서 37위에 올랐다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Stay \( \)](https://ko.wikipedia.org/wiki/Stay_\(_\)).
+> This article is converted from Wikipedia: [Stay \(리한나의 노래\)](https://ko.wikipedia.org/wiki/Stay_\(리한나의_노래\)).
 
 
 "**Stay**"는 [바베이도스](../Page/바베이도스.md "wikilink")의 가수 [리한나](../Page/리한나.md "wikilink")의 앨범 *[Unapologetic](../Page/Unapologetic.md "wikilink")* 에 수록되어 있는 노래이다. [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 3위 까지 오른 적이 있다.

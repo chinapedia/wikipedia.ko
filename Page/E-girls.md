@@ -40,6 +40,10 @@
   - 2월 10일, 첫 베스트 앨범 《E.G. SMILE -E-girls BEST-》를 발매.
   - 3월 \~ 8월, 아레나 투어 《E-girls LIVE TOUR 2016 \~E.G. SMILE\~》을 개최.
 
+**2019년**
+
+  - 12월 22일, 2020년말을 기해 그룹은 해산하는 것을 발표\[4\]\[5\]\[6\].
+
 ## 멤버
 
 **[Happiness](../Page/Happiness_\(음악_그룹\).md "wikilink")**
@@ -249,8 +253,11 @@
 
   - [소속 사무소에 의한 공식 프로필](http://www.ldh.co.jp/artist/musician/egirls/)
 
-[분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2011년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2011년_결성된_음악_그룹 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:LDH](https://ko.wikipedia.org/wiki/분류:LDH "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink")
+[분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2011년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2011년_결성된_음악_그룹 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:2020년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2020년_해체된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:LDH](https://ko.wikipedia.org/wiki/분류:LDH "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink")
 
 1.
 2.  \[<http://www.sanspo.com/geino/news/20131125/oth13112516050022-n1.html>　E-girls 등 첫 출장\! 미와, 골덴 봄바가 연속 출장 홍백 출장 가수 발표\]
 3.
+4.
+5.
+6.

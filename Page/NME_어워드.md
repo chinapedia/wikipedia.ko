@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NME ](https://ko.wikipedia.org/wiki/NME_).
+> This article is converted from Wikipedia: [NME 어워드](https://ko.wikipedia.org/wiki/NME_어워드).
 
 
 The **NME 어워드**는 영국에서 1년에 한번씩 열리는 대중음악 시상식으로 음악잡지인 [NME](https://ko.wikipedia.org/wiki/NME "wikilink")에 의해 열린다. 첫 시상식은 **NME 폴 위너스 콘서트**라는 이름으로 1953년에 열렸었다.. 일반적으로 시상식들은 진지해야하지만 NME 어워드는 익살스러운 면이 있어 "올해의 악당상", "최악의 음반상"과 같은 시상 부분도 있다. 수상자들은 중지 손가락이 내밀어진 모양의 트로피를 받는다.

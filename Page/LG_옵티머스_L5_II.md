@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  L5 II](https://ko.wikipedia.org/wiki/LG__L5_II).
+> This article is converted from Wikipedia: [LG 옵티머스 L5 II](https://ko.wikipedia.org/wiki/LG_옵티머스_L5_II).
 
 
 **LG 옵티머스 L5 II**()는 [LG전자](../Page/LG전자.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [2월 25일에](../Page/2월_25일.md "wikilink") [모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2013에서 공개하여\[1\], [2013년](../Page/2013년.md "wikilink") [3월 11일에](../Page/3월_11일.md "wikilink") 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[2\]

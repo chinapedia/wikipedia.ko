@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H-1B ](https://ko.wikipedia.org/wiki/H-1B_).
+> This article is converted from Wikipedia: [H-1B 비자](https://ko.wikipedia.org/wiki/H-1B_비자).
 
 
 **H-1B 비자**는 [미국 이민법](https://ko.wikipedia.org/wiki/미국_이민법 "wikilink") 101조 a항 15호 H목에 규정된 [미국의 비자](../Page/미국의_비자.md "wikilink") 50개 중 하나이다.\[1\] 간호사를 제외한 전문직을 위한 취업비자이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M](https://ko.wikipedia.org/wiki/_M).
+> This article is converted from Wikipedia: [경제매거진 M](https://ko.wikipedia.org/wiki/경제매거진_M).
 
 
 《**경제매거진 M**》은 [MBC TV의](../Page/MBC_TV.md "wikilink") 토요일 아침 시간대에 방영된 경제 전문 시사 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IT ](https://ko.wikipedia.org/wiki/IT_).
+> This article is converted from Wikipedia: [IT 크라우드](https://ko.wikipedia.org/wiki/IT_크라우드).
 
 
 **IT 크라우드**(The IT Crowd)는 2006년부터 2010년까지 [채널 4에서](../Page/채널_4.md "wikilink") 방영된 영국의 시트콤이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K](https://ko.wikipedia.org/wiki/K).
+> This article is converted from Wikipedia: [K이론](https://ko.wikipedia.org/wiki/K이론).
 
 
 [수학](../Page/수학.md "wikilink")에서, **K이론**(K理論, )은 [위상 공간](https://ko.wikipedia.org/wiki/위상_공간_\(수학\) "wikilink") 또는 [스킴](../Page/스킴_\(수학\).md "wikilink") 위에 존재하는 [벡터다발](https://ko.wikipedia.org/wiki/벡터다발 "wikilink") 또는 [연접층](../Page/연접층.md "wikilink")을 다루는 분야다. 공간에 존재하는 이러한 다발 또는 층의 성질들로부터, 위상 공간 또는 스킴의 구조를 알 수 있다. [기하학](../Page/기하학.md "wikilink")과 [위상수학](../Page/위상수학.md "wikilink"), [대수학](../Page/대수학.md "wikilink"), [수론](https://ko.wikipedia.org/wiki/수론 "wikilink")과 관련있다. 수학 분야 분류(MSC 2010) 코드는 [19](http://www.ams.org/mathscinet/msc/msc2010.html?t=19-XX).
