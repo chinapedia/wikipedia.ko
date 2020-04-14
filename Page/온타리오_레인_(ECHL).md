@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
+> This article is converted from Wikipedia: [온타리오 레인 \(ECHL\)](https://ko.wikipedia.org/wiki/온타리오_레인_\(ECHL\)).
 
 
 **온타리오 레인**(Ontario Reign)는 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [온타리오을](../Page/온타리오_\(캘리포니아주\).md "wikilink") 연고지로 하는 2008년부터 2015년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.

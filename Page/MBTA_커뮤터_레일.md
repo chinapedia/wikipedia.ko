@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBTA  ](https://ko.wikipedia.org/wiki/MBTA__).
+> This article is converted from Wikipedia: [MBTA 커뮤터 레일](https://ko.wikipedia.org/wiki/MBTA_커뮤터_레일).
 
 
 **MBTA 커뮤터 레일**(, 이하 줄여서 **MBTA**, 리포팅 마크 **MBTX**)는 미국 [매사추세츠주](../Page/매사추세츠주.md "wikilink")와 [로드아일랜드주](../Page/로드아일랜드주.md "wikilink") 지역에 여객 철도 운송업을 하는 준공영 기업이다. [1964년](../Page/1964년.md "wikilink")에 설립되었으며 [메사추세스 만 교통공사](https://ko.wikipedia.org/wiki/메사추세스_만_교통공사 "wikilink")(MBTA)가 [케올리스 커뮤터 서비스](https://ko.wikipedia.org/wiki/케올리스_커뮤터_서비스 "wikilink")([Keolis](https://ko.wikipedia.org/wiki/:en:Keolis "wikilink"))와 계약을 맺고 공동으로 관리한다. 2014년 7월 1일에 매사추세츠 만 통근 철도 회사(Massachusetts Bay Commuter Railroad Company, MBCR)에서 운영을 인수했다.

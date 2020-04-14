@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QUARTETTO \(NEWS \)](https://ko.wikipedia.org/wiki/QUARTETTO_\(NEWS_\)).
+> This article is converted from Wikipedia: [QUARTETTO \(NEWS의 음반\)](https://ko.wikipedia.org/wiki/QUARTETTO_\(NEWS의_음반\)).
 
 
 《**QUARTETTO**》(콰르테토)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 7번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

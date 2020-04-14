@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 스네이크](https://ko.wikipedia.org/wiki/DJ_스네이크).
 
 
 **DJ 스네이크**(DJ Snake, [1986년](../Page/1986년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") \~ )는 [프랑스](../Page/프랑스.md "wikilink")의 [DJ](../Page/디스크_자키.md "wikilink"), [음악 프로듀서](../Page/음악_프로듀서.md "wikilink"), [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")이다. [알제리](../Page/알제리.md "wikilink") 혈통을 갖고 있다.

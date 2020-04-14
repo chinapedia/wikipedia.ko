@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [대릴 F. 재넉](https://ko.wikipedia.org/wiki/대릴_F._재넉).
 
 
 **대릴 프랜시스 재넉**(, [1902년](../Page/1902년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") \~ [1979년](../Page/1979년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 20세기 [영화 제작자이다](https://ko.wikipedia.org/wiki/영화_제작자 "wikilink"). [할리우드](../Page/할리우드.md "wikilink")의 초기 시스템을 이끈 거물 제작자의 한 명으로 현 [20세기 폭스의](https://ko.wikipedia.org/wiki/20세기_폭스 "wikilink") 조상격인 인물이다. 《[나의 계곡은 푸르렀다](../Page/나의_계곡은_푸르렀다.md "wikilink")》(1941), 《[신사협정](../Page/신사협정.md "wikilink")》(1947), 《[이브의 모든 것](../Page/이브의_모든_것_\(영화\).md "wikilink")》(1950)으로 [아카데미 작품상을](../Page/아카데미_작품상.md "wikilink") 수상했다.

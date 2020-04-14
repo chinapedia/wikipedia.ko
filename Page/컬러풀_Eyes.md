@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Eyes](https://ko.wikipedia.org/wiki/_Eyes).
+> This article is converted from Wikipedia: [컬러풀 Eyes](https://ko.wikipedia.org/wiki/컬러풀_Eyes).
 
 
 〈**컬러풀 Eyes**〉()는 [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 10번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [포니 캐년에서](../Page/포니_캐년.md "wikilink") [2015년](../Page/2015년.md "wikilink") [12월 16일에](../Page/12월_16일.md "wikilink") 발매됐다.

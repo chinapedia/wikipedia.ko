@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
+> This article is converted from Wikipedia: [샬럿 체커스 \(ECHL\)](https://ko.wikipedia.org/wiki/샬럿_체커스_\(ECHL\)).
 
 
 **샬럿 체커스**(Charlotte Checkers)는 [미국](../Page/미국.md "wikilink") [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink") [샬럿](../Page/샬럿.md "wikilink")을 연고지로 하는 1993년부터 2010년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.

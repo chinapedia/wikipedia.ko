@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ +    VS  ](https://ko.wikipedia.org/wiki/_+____VS__).
+> This article is converted from Wikipedia: [닌자 핫토리군+파만 닌자 괴수 짓포우 VS 미라클 타마고](https://ko.wikipedia.org/wiki/닌자_핫토리군+파만_닌자_괴수_짓포우_VS_미라클_타마고).
 
 
 **닌자 핫토리군+파만 닌자 괴수 짓포우 VS 미라클 타마고**()는 [후지코 후지오 Ⓐ의](https://ko.wikipedia.org/wiki/후지코_후지오_Ⓐ "wikilink") 만화 [꾸러기 닌자 토리와](../Page/꾸러기_닌자_토리.md "wikilink") [후지코 F. 후지오의](../Page/후지코_F._후지오.md "wikilink") 만화 [파만](../Page/파만.md "wikilink")이 등장하는 만화 및 극장용 애니메이션 제2작이다.

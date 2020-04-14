@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UD   ](https://ko.wikipedia.org/wiki/:UD___).
+> This article is converted from Wikipedia: [틀:UD 라스팔마스 선수 명단](https://ko.wikipedia.org/wiki/틀:UD_라스팔마스_선수_명단).
 
 
 <onlyinclude></onlyinclude>

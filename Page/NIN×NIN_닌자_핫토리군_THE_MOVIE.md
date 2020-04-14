@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NINNIN   THE MOVIE](https://ko.wikipedia.org/wiki/NINNIN___THE_MOVIE).
+> This article is converted from Wikipedia: [NIN×NIN 닌자 핫토리군 THE MOVIE](https://ko.wikipedia.org/wiki/NIN×NIN_닌자_핫토리군_THE_MOVIE).
 
 
 **NIN×NIN 닌자 핫토리군 THE MOVIE**()는 [2004년](../Page/2004년.md "wikilink")에 개봉한 일본의 영화이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:ISU     ](https://ko.wikipedia.org/wiki/:ISU_____).
+> This article is converted from Wikipedia: [틀:ISU 쇼트트랙 월드컵 남자 종합 우승자](https://ko.wikipedia.org/wiki/틀:ISU_쇼트트랙_월드컵_남자_종합_우승자).
 
 
 <onlyinclude></onlyinclude>

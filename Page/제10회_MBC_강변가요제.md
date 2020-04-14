@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [10 MBC ](https://ko.wikipedia.org/wiki/10_MBC_).
+> This article is converted from Wikipedia: [제10회 MBC 강변가요제](https://ko.wikipedia.org/wiki/제10회_MBC_강변가요제).
 
 
 **《제10회 MBC 강변가요제》**는 1989년 8월 5일 [강원도](../Page/강원도.md "wikilink") [춘천](https://ko.wikipedia.org/wiki/춘천 "wikilink") [남이섬](../Page/남이섬.md "wikilink")에서 열린 제10회 [MBC 강변가요제](../Page/MBC_강변가요제.md "wikilink") 출전곡이 수록된 음반이다.

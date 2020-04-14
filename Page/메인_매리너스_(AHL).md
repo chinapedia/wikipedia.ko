@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(AHL\)](https://ko.wikipedia.org/wiki/__\(AHL\)).
+> This article is converted from Wikipedia: [메인 매리너스 \(AHL\)](https://ko.wikipedia.org/wiki/메인_매리너스_\(AHL\)).
 
 
 **메인 매리너스**(Maine Mariners)는 [미국](../Page/미국.md "wikilink") [메인주](../Page/메인주.md "wikilink") [포틀랜드를](../Page/포틀랜드_\(메인주\).md "wikilink") 연고지로 하는 첫 번째 프랜차이즈 (현 [스톡턴 히트](../Page/스톡턴_히트.md "wikilink"))는 1977년부터 1987년까지, 두번째 프랜차이즈 (현 [프로비던스 브루인스](../Page/프로비던스_브루인스.md "wikilink"))는 1987년부터 1992년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.

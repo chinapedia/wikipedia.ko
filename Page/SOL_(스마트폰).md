@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SOL \(\)](https://ko.wikipedia.org/wiki/SOL_\(\)).
+> This article is converted from Wikipedia: [SOL \(스마트폰\)](https://ko.wikipedia.org/wiki/SOL_\(스마트폰\)).
 
 
 **SOL(쏠)**은 [2016년 1월 22일에](../Page/2016년.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 출시된 휴대전화이다. 중국 TCL의 자회사인 [알카텔 원터치가](https://ko.wikipedia.org/wiki/알카텔_원터치 "wikilink") 기획 및 디자인, 마케팅을 진행했으며, 중국의 [TCL](https://ko.wikipedia.org/wiki/TCL "wikilink")이 제조한다. [SK텔레콤](../Page/SK텔레콤.md "wikilink")을 통해 단독 출시 되었다.

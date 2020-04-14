@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBC  ](https://ko.wikipedia.org/wiki/TBC__).
+> This article is converted from Wikipedia: [TBC의 뉴스 프로그램](https://ko.wikipedia.org/wiki/TBC의_뉴스_프로그램).
 
 
 **[TBC(대구방송)의](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 뉴스 프로그램**은 다음과 같다.
@@ -23,13 +23,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/TBC_굿모닝_뉴스" title="wikilink"><span style="color:white;">TBC 굿모닝뉴스</span></a></p></td>
+<td><p><a href="../Page/TBC_굿모닝뉴스.md" title="wikilink"><span style="color:white;">TBC 굿모닝뉴스</span></a></p></td>
 <td><p>평일 30분</p></td>
 <td><p>07:05 ~ 07:35</p></td>
-<td><p>김태준, 이향원</p></td>
+<td><p>신상윤, 이향원</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/TBC_뉴스_(1010)" title="wikilink"><span style="color:white;">TBC 뉴스 (1010)</span></a></p></td>
+<td><p><a href="../Page/TBC_뉴스_(1010).md" title="wikilink"><span style="color:white;">TBC 뉴스 (1010)</span></a></p></td>
 <td><p>평일 20분</p></td>
 <td><p>10:10 ~ 10:30</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김선희_(TBC)" title="wikilink">김선희</a></p></td>
@@ -38,7 +38,7 @@
 <td><p><a href="../Page/민방_네트워크_뉴스.md" title="wikilink"><span style="color:white;">민방 네트워크 뉴스</span></a></p></td>
 <td><p>평일 25분</p></td>
 <td><p>12:25 ~ 12:50</p></td>
-<td><p><a href="../Page/김도휘.md" title="wikilink">김도휘</a>, 김태준, 김다은</p></td>
+<td><p><a href="../Page/김도휘.md" title="wikilink">김도휘</a>, 김다은</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/TBC_대경뉴스광장.md" title="wikilink"><span style="color:white;">TBC 대경뉴스광장</span></a></p></td>
@@ -68,7 +68,7 @@
 
 ### [TBC Dream FM](../Page/TBC_\(대한민국의_방송사\).md "wikilink")
 
-  - [TBC 낮 종합뉴스](https://ko.wikipedia.org/wiki/TBC_낮_종합뉴스 "wikilink") 매일 오전 11시 50분에 방영
+  - [TBC 낮 종합뉴스](../Page/TBC_낮_종합뉴스.md "wikilink") 매일 오전 11시 50분에 방영
   - [TBC 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBC_저녁종합뉴스 "wikilink") 평일 오후 5시 50분에 방영
 
 ## 관련 보기

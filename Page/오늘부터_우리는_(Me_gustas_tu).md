@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(Me gustas tu\)](https://ko.wikipedia.org/wiki/__\(Me_gustas_tu\)).
+> This article is converted from Wikipedia: [오늘부터 우리는 \(Me gustas tu\)](https://ko.wikipedia.org/wiki/오늘부터_우리는_\(Me_gustas_tu\)).
 
 
 〈**오늘부터 우리는 (Me gustas tu)**〉는 음악 그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 노래이다. 여자친구의 2번째 미니 음반 《[Flower Bud](../Page/Flower_Bud.md "wikilink")》의 타이틀곡이며, 2015년 7월 23일에 [KT 뮤직에서](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 발매되었다. 는 ‘나는 네가 좋다’라는 뜻의 스페인어이다.

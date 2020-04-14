@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DDR-](https://ko.wikipedia.org/wiki/DDR-).
+> This article is converted from Wikipedia: [DDR-리가](https://ko.wikipedia.org/wiki/DDR-리가).
 
 
 <table>

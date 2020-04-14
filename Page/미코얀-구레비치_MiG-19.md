@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- MiG-19](https://ko.wikipedia.org/wiki/-_MiG-19).
+> This article is converted from Wikipedia: [미코얀-구레비치 MiG-19](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-19).
 
 
 **미코얀-구레비치 MiG-19**는 구 소련의 주력전투기로 속도가 빠르고 가벼운 소련 기술이 압축된 전투기종이다. MiG-19은 전 세계적으로 2,000 여대가 생산된 것으로 추정되고 있다. 이 미그19 전투기에서 [중화인민공화국](../Page/중화인민공화국.md "wikilink")이 노하우를 얻어 [J-7](https://ko.wikipedia.org/wiki/J-7 "wikilink")전투기를 개발한다.

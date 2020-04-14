@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(AHL\)](https://ko.wikipedia.org/wiki/__\(AHL\)).
+> This article is converted from Wikipedia: [보스턴 브레이브스 \(AHL\)](https://ko.wikipedia.org/wiki/보스턴_브레이브스_\(AHL\)).
 
 
 **보스턴 브레이브스**(Boston Braves)는 [미국](../Page/미국.md "wikilink") [매사추세츠주](../Page/매사추세츠주.md "wikilink") [보스턴](../Page/보스턴.md "wikilink")을 연고지로 하는 1971년부터 1974년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.

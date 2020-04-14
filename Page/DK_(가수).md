@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DK \(\)](https://ko.wikipedia.org/wiki/DK_\(\)).
+> This article is converted from Wikipedia: [DK \(가수\)](https://ko.wikipedia.org/wiki/DK_\(가수\)).
 
 
 **DK**(, [1984년](../Page/1984년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다.

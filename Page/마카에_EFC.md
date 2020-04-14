@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EFC](https://ko.wikipedia.org/wiki/_EFC).
+> This article is converted from Wikipedia: [마카에 EFC](https://ko.wikipedia.org/wiki/마카에_EFC).
 
 
 **마카에 이스포르치 푸치보우 클루비**()는 [브라질](../Page/브라질.md "wikilink") [리우데자네이루주](../Page/리우데자네이루주.md "wikilink")에 있는 [마카에](https://ko.wikipedia.org/wiki/마카에 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1990년](../Page/1990년.md "wikilink")에 창단되었으며, [2017년](../Page/2017년.md "wikilink") 현재 [브라질 세리에 C에](https://ko.wikipedia.org/wiki/브라질_세리에_C "wikilink") 출전하고 있다.

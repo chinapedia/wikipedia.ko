@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W](https://ko.wikipedia.org/wiki/W).
+> This article is converted from Wikipedia: [채널W](https://ko.wikipedia.org/wiki/채널W).
 
 
 **채널W**는 2014년에 설립된 [대한민국](../Page/대한민국.md "wikilink")의 [케이블](../Page/케이블.md "wikilink") [방송국](https://ko.wikipedia.org/wiki/방송국 "wikilink")이다. 일본의 텔레비전 프로그램을 방영하거나 일본 관련 프로그램을 제작한다. 2004년에 중국무협채널 [ABO](https://ko.wikipedia.org/wiki/ABO "wikilink")로 개국 하였지만 2011년월에 [차이나원](https://ko.wikipedia.org/wiki/차이나원 "wikilink")으로 변경하다가 2014년 10월 20일에 현재 이름으로 변경하여, [KT](../Page/KT.md "wikilink")를 비롯한 [SK브로드밴드](../Page/SK브로드밴드.md "wikilink"), [LG유플러스](../Page/LG유플러스.md "wikilink") 등 통신 3사 [IPTV](../Page/IPTV.md "wikilink") 채널로 시청이 가능하다.
@@ -131,14 +131,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마카나이소" title="wikilink">마카나이소 시즌 1</a></p></td>
+<td><p><a href="../Page/마카나이소.md" title="wikilink">마카나이소 시즌 1</a></p></td>
 <td></td>
 <td><p>2019년 3월 28일 ~ 2019년 4월 25일</p></td>
 <td><p>나고야 TV</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마카나이소" title="wikilink">마카나이소 시즌 2</a></p></td>
+<td><p><a href="../Page/마카나이소.md" title="wikilink">마카나이소 시즌 2</a></p></td>
 <td></td>
 <td><p>2019년 5월 2일 ~ 2019년 5월 30일</p></td>
 <td><p>나고야 TV</p></td>
@@ -363,9 +363,9 @@
 
   - [마더 게임 \~그녀들의 계급\~](http://www.chw.co.kr/#menu/drama.program.69)  (TBS, 2015년 6월 4일 \~ )
 
-  - [마카나이소 시즌 1](https://ko.wikipedia.org/wiki/마카나이소 "wikilink")  (NBN, 2019년 3월 28일 \~ 4월 26일)
+  - [마카나이소 시즌 1](../Page/마카나이소.md "wikilink")  (NBN, 2019년 3월 28일 \~ 4월 26일)
 
-  - [마카나이소 시즌 2](https://ko.wikipedia.org/wiki/마카나이소 "wikilink")  (NBN, 2019년 5월 3일 \~ 5월 30일)
+  - [마카나이소 시즌 2](../Page/마카나이소.md "wikilink")  (NBN, 2019년 5월 3일 \~ 5월 30일)
 
   - [메시바나 형사 타치바나](../Page/메시바나_형사_타치바나.md "wikilink")  (TV 도쿄, 2015년 1월 16일 \~ 2015년 4월 3일)
 
@@ -573,7 +573,7 @@
       - 눈부시게 따뜻한 (2019년 9월 7일)
       - 최고의 프러포즈 (2019년 9월 8일)
 
-  - [3학년 A반 -지금부터 여러분은, 인질입니다-](https://ko.wikipedia.org/wiki/3학년_A반_-지금부터_여러분은,_인질입니다- "wikilink")  (니혼 TV, 2019년 1월 15일 \~ 2019년 3월 26일)
+  - [3학년 A반 -지금부터 여러분은, 인질입니다-](../Page/3학년_A반_-지금부터_여러분은,_인질입니다-.md "wikilink")  (니혼 TV, 2019년 1월 15일 \~ 2019년 3월 26일)
 
   - [5시부터 9시까지 \~나를 사랑한 스님\~](../Page/5시부터_9시까지.md "wikilink")  (후지 TV, 2015년 10월 19일 \~ 2015년 12월 21일)
 

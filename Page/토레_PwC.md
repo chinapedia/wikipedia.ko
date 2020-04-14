@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PwC](https://ko.wikipedia.org/wiki/_PwC).
+> This article is converted from Wikipedia: [토레 PwC](https://ko.wikipedia.org/wiki/토레_PwC).
 
 
 **토레 PwC**()는 [스페인](../Page/스페인.md "wikilink") [마드리드](../Page/마드리드.md "wikilink") [콰트로 토레스 비즈니스 에어리어](https://ko.wikipedia.org/wiki/콰트로_토레스_비즈니스_에어리어 "wikilink") (CTBA)에 있는 [고층 빌딩이다](https://ko.wikipedia.org/wiki/고층_빌딩 "wikilink"). 높이 236m 및 52층 건물이다.

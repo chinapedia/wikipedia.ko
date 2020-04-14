@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NUC](https://ko.wikipedia.org/wiki/_NUC).
+> This article is converted from Wikipedia: [인텔 NUC](https://ko.wikipedia.org/wiki/인텔_NUC).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Intel_NUC_D54250WYKH_20140606.jpg "wikilink") **인텔 NUC**(Next Unit of Computing)는 [인텔](../Page/인텔.md "wikilink")에서 개발한 소형 [폼팩터](../Page/컴퓨터_폼_팩터.md "wikilink")(small-form-factor, SFF) [개인용 컴퓨터이다](../Page/개인용_컴퓨터.md "wikilink"). 인텔 NUC의 1세대는 [샌디브리지](../Page/샌디브리지.md "wikilink") [셀러론](../Page/셀러론.md "wikilink") 프로세서에, 2세대는 [아이비브리지](../Page/아이비브리지_\(마이크로아키텍처\).md "wikilink") 코어 i3와 코어 i5 프로세서에, 3세대는 [해스웰](https://ko.wikipedia.org/wiki/해스웰_\(마이크로아키텍처\) "wikilink") 아키텍처에 기반한다. 마더보드는 가로·세로 각 4인치(10.16 × 10.16 cm)의 크기이다.\[1\]

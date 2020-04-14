@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [New delete \(C++\)](https://ko.wikipedia.org/wiki/New_delete_\(C++\)).
+> This article is converted from Wikipedia: [New와 delete \(C++\)](https://ko.wikipedia.org/wiki/New와_delete_\(C++\)).
 
 
 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")에서, **new**와 **delete**는 [동적 메모리 할당](../Page/동적_메모리_할당.md "wikilink"), [객체 생성](https://ko.wikipedia.org/wiki/생성자 "wikilink") 그리고 객체 소멸을 수행하는 한 쌍의 언어 구조들이다.\[1\]

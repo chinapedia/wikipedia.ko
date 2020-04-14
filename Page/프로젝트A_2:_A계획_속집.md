@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A 2: A ](https://ko.wikipedia.org/wiki/A_2:_A_).
+> This article is converted from Wikipedia: [프로젝트A 2: A계획 속집](https://ko.wikipedia.org/wiki/프로젝트A_2:_A계획_속집).
 
 
 **프로젝트A 2: A계획 속집**은 [1987년](../Page/1987년.md "wikilink")에 개봉된 [홍콩](../Page/홍콩.md "wikilink")의 액션 영화이다.
@@ -52,7 +52,8 @@
 
 ## 외부 링크
 
-  - [프로젝트A 2: A계획 속집 - 네이버영화](http://movie.naver.com/movie/bi/mi/basic.nhn?code=10307)
+  -
+
   - [프로젝트A 2: A계획 속집 - 다음영화](http://movie.daum.net/moviedetail/moviedetailMain.do?movieId=10307)
 
-[분류:액션 영화](https://ko.wikipedia.org/wiki/분류:액션_영화 "wikilink") [분류:성룡 감독 영화](https://ko.wikipedia.org/wiki/분류:성룡_감독_영화 "wikilink") [분류:1987년 영화](https://ko.wikipedia.org/wiki/분류:1987년_영화 "wikilink")
+[분류:1987년 영화](https://ko.wikipedia.org/wiki/분류:1987년_영화 "wikilink") [분류:광둥어 영화 작품](https://ko.wikipedia.org/wiki/분류:광둥어_영화_작품 "wikilink") [분류:성룡 감독 영화](https://ko.wikipedia.org/wiki/분류:성룡_감독_영화 "wikilink") [분류:홍콩의 액션 영화](https://ko.wikipedia.org/wiki/분류:홍콩의_액션_영화 "wikilink") [분류:무술 영화](https://ko.wikipedia.org/wiki/분류:무술_영화 "wikilink") [분류:속편 영화](https://ko.wikipedia.org/wiki/분류:속편_영화 "wikilink") [분류:수사 영화](https://ko.wikipedia.org/wiki/분류:수사_영화 "wikilink")

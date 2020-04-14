@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HP ](https://ko.wikipedia.org/wiki/HP_).
+> This article is converted from Wikipedia: [HP 로드러너](https://ko.wikipedia.org/wiki/HP_로드러너).
 
 
 **HP 로드러너**(HP LoadRunner)는 [휴렛 패커드의](https://ko.wikipedia.org/wiki/휴렛_패커드 "wikilink") 소프트웨어 테스트 도구이다. 응용 프로그램을 테스트하는데 사용되며, 특정 응용 프로그램에 대해 수천 명의 사용자들이 한꺼번에 몰리는 경우 발생할 수 있는 부하를 테스트해 준다. 원래는 로드러너(LoadRunner)라고 불리었으나, 2006년 11월 미국 HP 회사가 머큐리 인터랙티브(Mercury Interactive)사로부터 이 제품을 인수하여, HP 로드러너라고 불린다.\[1\]\[2\]

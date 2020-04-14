@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [At \(\)](https://ko.wikipedia.org/wiki/At_\(\)).
+> This article is converted from Wikipedia: [At \(유닉스\)](https://ko.wikipedia.org/wiki/At_\(유닉스\)).
 
 
 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 컴퓨터 [운영 체제에서](../Page/운영_체제.md "wikilink") **at**는 미래 어느 특정 시간에 특정 [명령어를](https://ko.wikipedia.org/wiki/명령어_\(컴퓨팅\) "wikilink") 한 차례 실행하기 위해 쓰이는 명령어이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PRODUCE 101  ](https://ko.wikipedia.org/wiki/PRODUCE_101__).
+> This article is converted from Wikipedia: [PRODUCE 101 참가자 목록](https://ko.wikipedia.org/wiki/PRODUCE_101_참가자_목록).
 
 
 다음은 [엠넷](../Page/엠넷.md "wikilink")의 서바이벌 프로그램 《[PRODUCE 101](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink")》의 참가자 목록이다.

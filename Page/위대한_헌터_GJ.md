@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  GJ](https://ko.wikipedia.org/wiki/__GJ).
+> This article is converted from Wikipedia: [위대한 헌터 GJ](https://ko.wikipedia.org/wiki/위대한_헌터_GJ).
 
 
 《**위대한 헌터 GJ**》는 [1995년](../Page/1995년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(AHL\)](https://ko.wikipedia.org/wiki/__\(AHL\)).
+> This article is converted from Wikipedia: [버펄로 바이슨스 \(AHL\)](https://ko.wikipedia.org/wiki/버펄로_바이슨스_\(AHL\)).
 
 
 **버펄로 바이슨스**(Buffalo Bisons)는 [미국](../Page/미국.md "wikilink") [뉴욕주](../Page/뉴욕주.md "wikilink") [버펄로를](../Page/버펄로_\(뉴욕주\).md "wikilink") 연고지로 하는 1940년부터 1970년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.

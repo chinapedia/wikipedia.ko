@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [빌라 노바 FC](https://ko.wikipedia.org/wiki/빌라_노바_FC).
 
 
 **빌라 노바 푸츠볼 클루비**()는 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [고이아스주](../Page/고이아스주.md "wikilink")의 [고이아니아](https://ko.wikipedia.org/wiki/고이아니아 "wikilink")를 연고로 한다. [1943년](../Page/1943년.md "wikilink") [7월 29일에](../Page/7월_29일.md "wikilink") 창단되었으며, 팀의 상징색은 붉은색이다. 구단은 "티그레" (, 호랑이) 혹은 "티그랑" (, 큰 호랑이)라는 별칭을 가지고 있다. 현재 [캄페오나투 브라질레이루 세리에 B에](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리에_B "wikilink") 참가하고 있다.

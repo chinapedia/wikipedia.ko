@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [C ](https://ko.wikipedia.org/wiki/C_).
+> This article is converted from Wikipedia: [스핀C 다양체](https://ko.wikipedia.org/wiki/스핀C_다양체).
 
 
-[미분기하학](../Page/미분기하학.md "wikilink")에서, **스핀C 다양체**(spin多樣體, )는 그 [직교 틀다발이](https://ko.wikipedia.org/wiki/직교_틀다발 "wikilink") [스핀C 군에](https://ko.wikipedia.org/wiki/스핀C_군 "wikilink") 대한 [주다발](../Page/주다발.md "wikilink")로의 올림을 갖춘 [준 리만 다양체이다](../Page/준_리만_다양체.md "wikilink"). 스핀C 구조는 [자이베르그-위튼 방정식](../Page/자이베르그-위튼_이론.md "wikilink") 등을 정의하기 위한 [필요 조건이다](https://ko.wikipedia.org/wiki/필요_조건 "wikilink").
+[미분기하학](../Page/미분기하학.md "wikilink")에서, **스핀C 다양체**(spin多樣體, )는 그 [직교 틀다발이](https://ko.wikipedia.org/wiki/직교_틀다발 "wikilink") [스핀C 군에](../Page/스핀C_군.md "wikilink") 대한 [주다발](../Page/주다발.md "wikilink")로의 올림을 갖춘 [준 리만 다양체이다](../Page/준_리만_다양체.md "wikilink"). 스핀C 구조는 [자이베르그-위튼 방정식](../Page/자이베르그-위튼_이론.md "wikilink") 등을 정의하기 위한 [필요 조건이다](https://ko.wikipedia.org/wiki/필요_조건 "wikilink").
 
 ## 정의
 
-**스핀C 구조**()의 정의는 [스핀 구조의](https://ko.wikipedia.org/wiki/스핀_구조 "wikilink") 정의와 유사하지만, [스핀 군](https://ko.wikipedia.org/wiki/스핀_군 "wikilink") 대신 [스핀C 군을](https://ko.wikipedia.org/wiki/스핀C_군 "wikilink") 사용한다.
+**스핀C 구조**()의 정의는 [스핀 구조의](https://ko.wikipedia.org/wiki/스핀_구조 "wikilink") 정의와 유사하지만, [스핀 군](https://ko.wikipedia.org/wiki/스핀_군 "wikilink") 대신 [스핀C 군을](../Page/스핀C_군.md "wikilink") 사용한다.
 
 즉, \(n\)차원 [가향](https://ko.wikipedia.org/wiki/가향_다양체 "wikilink") [준 리만 다양체](../Page/준_리만_다양체.md "wikilink") \((M,g)\) 위의 **스핀C 구조**()는 다음 조건을 따르는 Spin(*n*)<sup>c</sup>-주다발 \(\pi_{\operatorname{Spin^c}}\colon P_{\operatorname{Spin^c}}(M)\twoheadrightarrow M\)과 [주다발 사상](https://ko.wikipedia.org/wiki/주다발_사상 "wikilink") \(p\colon P_{\operatorname{Spin^c}}(M)\to P_{\operatorname{SO}}(M)\) 으로 구성된다.
 

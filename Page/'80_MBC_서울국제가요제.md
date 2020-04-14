@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\'80 MBC ](https://ko.wikipedia.org/wiki/\'80_MBC_).
+> This article is converted from Wikipedia: [\'80 MBC 서울국제가요제](https://ko.wikipedia.org/wiki/\'80_MBC_서울국제가요제).
 
 
 《**'80 MBC 서울국제가요제**》는 1980년 문화방송(MBC)과 경향신문이 대한민국의 서울에서 공동 주최한 가요제다. 입상곡들은 지구레코드를 통해 실황녹음 음반으로서 발매되었다.
@@ -64,7 +64,7 @@
 
 <!-- end list -->
 
-1.  [바니걸스](https://ko.wikipedia.org/wiki/바니걸스 "wikilink") - 그리운 마음은 언제나 ([김기웅](../Page/김기웅.md "wikilink") 작곡)
+1.  [바니걸스](../Page/바니걸스.md "wikilink") - 그리운 마음은 언제나 ([김기웅](../Page/김기웅.md "wikilink") 작곡)
 2.  혜은이 - 후회 ([길옥윤](../Page/길옥윤.md "wikilink") 작곡) ***- 본선 진출***
 3.  김수나 - 흰새 ([김준](https://ko.wikipedia.org/wiki/김준 "wikilink") 작곡)
 4.  들고양이들 - 탈 ([이철혁](https://ko.wikipedia.org/wiki/이철혁 "wikilink") 작곡) ***- 본선 진출***

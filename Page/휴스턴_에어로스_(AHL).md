@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(AHL\)](https://ko.wikipedia.org/wiki/__\(AHL\)).
+> This article is converted from Wikipedia: [휴스턴 에어로스 \(AHL\)](https://ko.wikipedia.org/wiki/휴스턴_에어로스_\(AHL\)).
 
 
 **휴스턴 에어로스**(Houston Aeros)는 [미국](../Page/미국.md "wikilink") [텍사스주](../Page/텍사스주.md "wikilink") [휴스턴](../Page/휴스턴.md "wikilink")을 연고지로 하는 2001년부터 2013년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.

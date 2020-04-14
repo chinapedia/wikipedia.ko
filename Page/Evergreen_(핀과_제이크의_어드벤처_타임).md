@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Evergreen \(   \)](https://ko.wikipedia.org/wiki/Evergreen_\(___\)).
+> This article is converted from Wikipedia: [Evergreen \(핀과 제이크의 어드벤처 타임\)](https://ko.wikipedia.org/wiki/Evergreen_\(핀과_제이크의_어드벤처_타임\)).
 
 
 〈**Evergreen**〉은 [카툰 네트워크의](../Page/카툰_네트워크.md "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](../Page/핀과_제이크의_어드벤처_타임.md "wikilink")》의 [여섯 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_6\).md "wikilink") 스물네 번째 에피소드이다. [대한민국](../Page/카툰_네트워크_\(대한민국\).md "wikilink") 방영 명칭은 〈에버그린〉이다. [톰 허피치](../Page/톰_허피치.md "wikilink"), [스티브 울프하드가](../Page/스티브_울프하드.md "wikilink") 스토리보드 아티스트 및 작가로 참여했으며, 톰 허피치가 각본을 담당했다. 미국에서는 2015년 1월 15일 첫 방영 되었다.

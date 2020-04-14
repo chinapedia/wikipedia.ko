@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(AHL\)](https://ko.wikipedia.org/wiki/__\(AHL\)).
+> This article is converted from Wikipedia: [맨체스터 모나크스 \(AHL\)](https://ko.wikipedia.org/wiki/맨체스터_모나크스_\(AHL\)).
 
 
 **맨체스터 모나크스**(Manchester Monarchs)는 [미국](../Page/미국.md "wikilink") [뉴햄프셔주](../Page/뉴햄프셔주.md "wikilink") [맨체스터를](../Page/맨체스터_\(뉴햄프셔주\).md "wikilink") 연고지로 하는 2001년부터 2015년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\'83 MBC ](https://ko.wikipedia.org/wiki/\'83_MBC_).
+> This article is converted from Wikipedia: [\'83 MBC 서울국제가요제](https://ko.wikipedia.org/wiki/\'83_MBC_서울국제가요제).
 
 
 《**'83 MBC 서울국제가요제**》는 1983년 문화방송(MBC)과 경향신문이 대한민국의 서울에서 공동 주최한 가요제다. 입상곡들은 태양음향을 통해 실황녹음 음반으로서 발매되었다.

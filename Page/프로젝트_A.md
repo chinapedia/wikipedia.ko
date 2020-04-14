@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
+> This article is converted from Wikipedia: [프로젝트 A](https://ko.wikipedia.org/wiki/프로젝트_A).
 
 
 **프로젝트 A**는 [1983년](../Page/1983년.md "wikilink")에 개봉된 [홍콩](../Page/홍콩.md "wikilink")의 액션 영화이다.
@@ -40,7 +40,8 @@
 
 ## 외부 링크
 
-  - [프로젝트 A - 네이버영화](http://movie.naver.com/movie/bi/mi/basic.nhn?code=10306)
+  -
+
   - [프로젝트 A - 다음영화](http://movie.daum.net/moviedetail/moviedetailMain.do?movieId=10306)
 
-[분류:1983년 영화](https://ko.wikipedia.org/wiki/분류:1983년_영화 "wikilink") [분류:성룡 감독 영화](https://ko.wikipedia.org/wiki/분류:성룡_감독_영화 "wikilink") [분류:액션 영화](https://ko.wikipedia.org/wiki/분류:액션_영화 "wikilink") [분류:코미디 영화](https://ko.wikipedia.org/wiki/분류:코미디_영화 "wikilink") [분류:1800년대를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:1800년대를_배경으로_한_영화 "wikilink")
+[분류:1983년 영화](https://ko.wikipedia.org/wiki/분류:1983년_영화 "wikilink") [분류:광둥어 영화 작품](https://ko.wikipedia.org/wiki/분류:광둥어_영화_작품 "wikilink") [분류:성룡 감독 영화](https://ko.wikipedia.org/wiki/분류:성룡_감독_영화 "wikilink") [분류:홍콩의 액션 영화](https://ko.wikipedia.org/wiki/분류:홍콩의_액션_영화 "wikilink") [분류:홍콩의 코미디 영화](https://ko.wikipedia.org/wiki/분류:홍콩의_코미디_영화 "wikilink") [분류:무술 영화](https://ko.wikipedia.org/wiki/분류:무술_영화 "wikilink") [분류:해적 영화](https://ko.wikipedia.org/wiki/분류:해적_영화 "wikilink") [분류:슬랩스틱 코미디 영화](https://ko.wikipedia.org/wiki/분류:슬랩스틱_코미디_영화 "wikilink") [분류:1800년대를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:1800년대를_배경으로_한_영화 "wikilink")

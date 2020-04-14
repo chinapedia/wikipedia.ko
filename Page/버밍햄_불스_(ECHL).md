@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
+> This article is converted from Wikipedia: [버밍햄 불스 \(ECHL\)](https://ko.wikipedia.org/wiki/버밍햄_불스_\(ECHL\)).
 
 
 **버밍햄 불스**(Birmingham Bulls)는 [미국](../Page/미국.md "wikilink") [앨라배마주](../Page/앨라배마주.md "wikilink") [버밍햄을](../Page/버밍햄_\(앨라배마주\).md "wikilink") 연고지로 하는 1992년부터 2001년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.

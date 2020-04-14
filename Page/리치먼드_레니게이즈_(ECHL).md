@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
+> This article is converted from Wikipedia: [리치먼드 레니게이즈 \(ECHL\)](https://ko.wikipedia.org/wiki/리치먼드_레니게이즈_\(ECHL\)).
 
 
 **리치먼드 레니게이즈**(Richmond Renegades)는 [미국](../Page/미국.md "wikilink") [버지니아주](../Page/버지니아주.md "wikilink") [리치먼드를](../Page/리치먼드_\(버지니아주\).md "wikilink") 연고지로 하는 1990년부터 2003년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.

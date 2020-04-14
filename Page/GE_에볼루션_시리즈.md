@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GE  ](https://ko.wikipedia.org/wiki/GE__).
+> This article is converted from Wikipedia: [GE 에볼루션 시리즈](https://ko.wikipedia.org/wiki/GE_에볼루션_시리즈).
 
 
 **GE 에볼루션 시리즈**()는 [미국](../Page/미국.md "wikilink") [제너럴 일렉트릭에서](../Page/제너럴_일렉트릭.md "wikilink") 개발한 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") 및 [전기](../Page/전기.md "wikilink") [기관차](../Page/기관차.md "wikilink")로 [2005년](../Page/2005년.md "wikilink")에 발효된 [미국 환경청의](https://ko.wikipedia.org/wiki/미국_환경청 "wikilink") 티어 2 환경 규제 조건에 맞추기 위해 개발된 [기관차](../Page/기관차.md "wikilink")로 [2003년](../Page/2003년.md "wikilink")부터 현재까지 도입하고 있다. 친환경 엔진의 경우 GEVO [디젤 엔진이](../Page/디젤_엔진.md "wikilink") 있는데 이 엔진의 경우 기존 엔진에 비해 공해를 일으키지 않으며 [엔진 다운사이징을](https://ko.wikipedia.org/wiki/엔진_다운사이징 "wikilink") 통해 기존 16기통 기관차 엔진과 달리 12기통으로 동급 출력을 뽑아내는 우수한 엔진이다.

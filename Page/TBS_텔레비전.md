@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBS ](https://ko.wikipedia.org/wiki/TBS_).
+> This article is converted from Wikipedia: [TBS 텔레비전](https://ko.wikipedia.org/wiki/TBS_텔레비전).
 
 
 **주식회사 TBS 텔레비전**()은 1955년에 설립된 간토 광역권을 대상으로 방송하는 일본의 민영방송사이다. 원래 텔레비전 방송과 라디오 방송을 겸업하였으나 2001년 10월 1일 라디오 방송을 자사인 TBS 라디오 & 커뮤니케이션즈으로 이행하여 지금은 텔레비전 방송만 담당하고 있다.

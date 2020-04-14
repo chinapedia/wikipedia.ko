@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
+> This article is converted from Wikipedia: [피오리아 리버멘 \(ECHL\)](https://ko.wikipedia.org/wiki/피오리아_리버멘_\(ECHL\)).
 
 
 **피오리아 리버멘**(Peoria Rivermen)는 [미국](../Page/미국.md "wikilink") [일리노이주](../Page/일리노이주.md "wikilink") [피오리아를](../Page/피오리아_\(일리노이주\).md "wikilink") 연고지로 하는 1996년부터 2005년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.

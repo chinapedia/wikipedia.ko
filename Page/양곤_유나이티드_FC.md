@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [양곤 유나이티드 FC](https://ko.wikipedia.org/wiki/양곤_유나이티드_FC).
 
 
 **양곤 유나이티드 FC**는 [미얀마](../Page/미얀마.md "wikilink")의 [양곤](../Page/양곤.md "wikilink")을 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 2009년 조직된 [미얀마 내셔널리그의](https://ko.wikipedia.org/wiki/미얀마_내셔널리그 "wikilink") 원년 구단이다. [야다나본 FC와](../Page/야다나본_FC.md "wikilink") 라이벌 구도를 이루고 있다.

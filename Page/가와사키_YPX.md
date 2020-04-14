@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [ YPX](https://ko.wikipedia.org/wiki/_YPX).
+> This article is converted from Wikipedia: [가와사키 YPX](https://ko.wikipedia.org/wiki/가와사키_YPX).
 
 
-**가와사키 YPX**은 [가와사키 P-1을](../Page/가와사키_P-1.md "wikilink") 기반으로 한 [여객기](../Page/여객기.md "wikilink") 프로젝트다. 개발이 성공한다면 최대 일본제 여객기가 된다.
+**가와사키 YPX**은 [가와사키 P-1을](../Page/가와사키_P-1.md "wikilink") 기반으로 하는 [여객기](../Page/여객기.md "wikilink") 프로젝트다. 개발이 결정된다면 일본 최대의 국산 여객기가 된다.
 
 ## 크기
 
-크기는 현재 일본제 여객기인 [미쓰비시 MRJ](https://ko.wikipedia.org/wiki/미쓰비시_MRJ "wikilink") 90인승\[1\]보다 훨씬 큰 150인승급이 된다. 90인승급 여객기들인 [보잉 737이나](../Page/보잉_737.md "wikilink") 미쓰비시 MRJ보다도 큰 사이즈다. 이코노미 좌석은 폭이 46cm가 될 것이며 통로는 51cm가 될거라 한다.
+크기는 [미쓰비시 스페이스제트 M90보다](../Page/미쓰비시_스페이스_제트.md "wikilink") 훨씬 큰 150인승급이 되며 [보잉 737보다도](../Page/보잉_737.md "wikilink") 크다. 이코노미 좌석은 폭이 46cm가 될 것이며 통로는 51cm가 될 것이라고 한다.
 
 ## 국가별 90인승 여객기
 
@@ -49,5 +49,3 @@
   - [보잉 737 Next Generation](https://ko.wikipedia.org/wiki/보잉_737_Next_Generation "wikilink")
 
 [분류:항공기](https://ko.wikipedia.org/wiki/분류:항공기 "wikilink") [분류:가와사키 중공업](https://ko.wikipedia.org/wiki/분류:가와사키_중공업 "wikilink")
-
-1.  개발중인 MRJ 100은 100인승이다.

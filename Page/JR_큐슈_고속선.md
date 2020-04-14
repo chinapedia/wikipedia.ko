@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JR  ](https://ko.wikipedia.org/wiki/JR__).
+> This article is converted from Wikipedia: [JR 큐슈 고속선](https://ko.wikipedia.org/wiki/JR_큐슈_고속선).
 
 
 **JR 큐슈 ​​고속선 주식회사**()는 [후쿠오카 시](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") [하카타 구에](https://ko.wikipedia.org/wiki/하카타_구 "wikilink") 본사를 둔 [일본](../Page/일본.md "wikilink")의 해운 회사이다.

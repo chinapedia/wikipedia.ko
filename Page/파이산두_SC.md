@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [파이산두 SC](https://ko.wikipedia.org/wiki/파이산두_SC).
 
 
 **파이산두 스포르츠 클루비**는 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [파라 주의](https://ko.wikipedia.org/wiki/파라_주_\(브라질\) "wikilink") [벨렝](../Page/벨렝.md "wikilink")을 연고로 한다. 현재 [캄페오나투 브라질레이루 세리에 B에](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리에_B "wikilink") 소속되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  III: ](https://ko.wikipedia.org/wiki/__III:_).
+> This article is converted from Wikipedia: [어쌔신 크리드 III: 리버레이션](https://ko.wikipedia.org/wiki/어쌔신_크리드_III:_리버레이션).
 
 
 《**어쌔신 크리드 III: 리버레이션**》()은 [유비소프트 소피아와](https://ko.wikipedia.org/wiki/유비소프트_소피아 "wikilink") [유비소프트 밀라노가](https://ko.wikipedia.org/wiki/유비소프트_밀라노 "wikilink") 개발하고 [유비소프트](../Page/유비소프트.md "wikilink")가 발매한 2012년 [플레이스테이션 비타용](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 게임이다. [일렉트로닉 엔터테인먼트 엑스포](../Page/일렉트로닉_엔터테인먼트_엑스포.md "wikilink") 2012 소니 컨퍼런스에서 발표되었다. 《[어쌔신 크리드 III](../Page/어쌔신_크리드_III.md "wikilink")》와 동시 발매로 이야기를 이 작품과 공유하고 연동 요소도 탑재된다.

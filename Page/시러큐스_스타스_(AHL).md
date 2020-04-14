@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(AHL\)](https://ko.wikipedia.org/wiki/__\(AHL\)).
+> This article is converted from Wikipedia: [시러큐스 스타스 \(AHL\)](https://ko.wikipedia.org/wiki/시러큐스_스타스_\(AHL\)).
 
 
 **시러큐스 스타스**(Syracuse Stars)는 [미국](../Page/미국.md "wikilink") [뉴욕주](../Page/뉴욕주.md "wikilink") [시러큐스를](../Page/시러큐스_\(뉴욕주\).md "wikilink") 연고지로 하는 1936년부터 1940년까지 [AHL](../Page/아메리칸_하키_리그.md "wikilink") 소속되었던 아이스 하키팀이다.

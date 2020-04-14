@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:   B ](https://ko.wikipedia.org/wiki/:___B_).
+> This article is converted from Wikipedia: [틀:캄페오나투 브라질레이루 세리이 B 시즌](https://ko.wikipedia.org/wiki/틀:캄페오나투_브라질레이루_세리이_B_시즌).
 
 
 <onlyinclude></onlyinclude>

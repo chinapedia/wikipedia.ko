@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Birdy \( \)](https://ko.wikipedia.org/wiki/Birdy_\(_\)).
+> This article is converted from Wikipedia: [Birdy \(버디의 음반\)](https://ko.wikipedia.org/wiki/Birdy_\(버디의_음반\)).
 
 
 ***Birdy***는 [버디의](../Page/버디_\(가수\).md "wikilink") 데뷔 정규 앨범이다. 2011년 11월 4일에 [애틀랜틱 레코드를](../Page/애틀랜틱_레코드.md "wikilink") 통해 발매되었고, "Without a Word"를 제외한 모든 수록곡은 커버곡이다. 이 앨범의 싱글은 "Skinny Love", "Shelter", "People Help the People" 그리고 "1901"이 싱글컷되었다.

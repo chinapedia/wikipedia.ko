@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D. B. ](https://ko.wikipedia.org/wiki/D._B._).
+> This article is converted from Wikipedia: [D. B. 와이스](https://ko.wikipedia.org/wiki/D._B._와이스).
 
 
 **대니얼 브렛 와이스**(, [1971년](../Page/1971년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [작가](https://ko.wikipedia.org/wiki/작가 "wikilink"), [각본가](https://ko.wikipedia.org/wiki/각본가 "wikilink"), [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")이다. 시나리오라이터 [데이비드 베니오프와](https://ko.wikipedia.org/wiki/데이비드_베니오프 "wikilink") 함께 기획한, [조지 R. R. 마틴의](../Page/조지_R._R._마틴.md "wikilink") 소설을 원작으로 한 드라마 시리즈 《[왕좌의 게임](https://ko.wikipedia.org/wiki/왕좌의_게임_\(드라마\) "wikilink")》로 유명하다.

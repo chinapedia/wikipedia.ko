@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNL  \( 7\)](https://ko.wikipedia.org/wiki/SNL__\(_7\)).
+> This article is converted from Wikipedia: [SNL 코리아 \(시즌 7\)](https://ko.wikipedia.org/wiki/SNL_코리아_\(시즌_7\)).
 
 
 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》의 일곱 번째 시즌은 2016년 2월 27일부터 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방송되어서 6월 25일 시즌7을 종료했다.
@@ -21,6 +21,7 @@
   - [예원](../Page/예원.md "wikilink")
   - [송원석](../Page/송원석.md "wikilink")
   - 김혜준
+  - [전효성](../Page/전효성.md "wikilink")
 
 ## 고정 코너
 

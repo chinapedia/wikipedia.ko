@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM   ](https://ko.wikipedia.org/wiki/IBM___).
+> This article is converted from Wikipedia: [IBM 메인프레임 유틸리티 프로그램](https://ko.wikipedia.org/wiki/IBM_메인프레임_유틸리티_프로그램).
 
 
 **IBM 메인프레임 유틸리티 프로그램**은 [MVS](../Page/MVS.md "wikilink")와 같은 [IBM](../Page/IBM.md "wikilink") [메인프레임](../Page/메인프레임.md "wikilink") [운영 체제에](../Page/운영_체제.md "wikilink") 공급되는 [유틸리티 소프트웨어로서](https://ko.wikipedia.org/wiki/유틸리티_소프트웨어 "wikilink"), [데이터셋](https://ko.wikipedia.org/wiki/데이터셋 "wikilink") 등에 관련한 다양한 작업을 수행한다.

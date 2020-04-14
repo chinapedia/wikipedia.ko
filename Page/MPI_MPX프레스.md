@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MPI MPX](https://ko.wikipedia.org/wiki/MPI_MPX).
+> This article is converted from Wikipedia: [MPI MPX프레스](https://ko.wikipedia.org/wiki/MPI_MPX프레스).
 
 
 **MPI MPX프레스**()는 [미국](../Page/미국.md "wikilink") [웹텍](../Page/웹텍.md "wikilink")에서 개발한 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") 및 [전기](../Page/전기.md "wikilink") [기관차](../Page/기관차.md "wikilink")로 [미국](../Page/미국.md "wikilink")의 지역 철도 기업이 이 기종을 운용하고 있으며 [2003년](../Page/2003년.md "wikilink")부터 지금까지 생산하고 있는 모델이다. 현재 운용하고 있는 회사는 [미국](../Page/미국.md "wikilink")의 철도 기업인 [MARC 트레인](../Page/MARC_트레인.md "wikilink") 외에도 다수의 [북아메리카](../Page/북아메리카.md "wikilink") 지역 철도 회사가 이 기종을 운용하고 있다.

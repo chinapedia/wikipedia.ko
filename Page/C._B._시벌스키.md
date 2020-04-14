@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C. B. ](https://ko.wikipedia.org/wiki/C._B._).
+> This article is converted from Wikipedia: [C. B. 시벌스키](https://ko.wikipedia.org/wiki/C._B._시벌스키).
 
 
 **체스터 B. 시벌스키**\[1\]\[2\](, [1967년](../Page/1967년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink"), 만화 [편집자](../Page/편집자.md "wikilink")로, [마블 코믹스의](../Page/마블_코믹스.md "wikilink") 편집자 자리에 있다. 2011년 이래 수석부사장(Senior Vice President)의 직책을 맡고 있다. 본인이 직접 쓴 만화 작품으로는 《마블 동화》 시리즈가 있다.

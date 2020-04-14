@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Q](https://ko.wikipedia.org/wiki/Q).
+> This article is converted from Wikipedia: [Q타로](https://ko.wikipedia.org/wiki/Q타로).
 
 
 **Q타로**는 [오바케의 Q 타로의](../Page/오바케의_Q_타로.md "wikilink") 주인공이다.

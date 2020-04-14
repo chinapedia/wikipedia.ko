@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [티머시 B. 슈미트](https://ko.wikipedia.org/wiki/티머시_B._슈미트).
 
 
 **티머시 B. 슈미트**(, [1947년](../Page/1947년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")로, [이글스](../Page/이글스.md "wikilink")의 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink")로 잘 알려져 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(ZARD \)](https://ko.wikipedia.org/wiki/_\(ZARD_\)).
+> This article is converted from Wikipedia: [영원 \(ZARD의 노래\)](https://ko.wikipedia.org/wiki/영원_\(ZARD의_노래\)).
 
 
 〈**영원**〉()은 일본의 밴드 [ZARD](../Page/ZARD.md "wikilink")의 22번째 [싱글로](../Page/싱글_\(음악\).md "wikilink"), 1997년 8월 20일 발매되었다.([8cm CD](../Page/콤팩트_디스크.md "wikilink"): JBDJ-1030) 곡의 작사는 [사카이 이즈미가](../Page/사카이_이즈미.md "wikilink"), 작곡과 편곡은 [토쿠나가 아키히토가](../Page/토쿠나가_아키히토.md "wikilink") 담당하였다.\[1\] 1997년 드라마 《[실락원](https://ko.wikipedia.org/wiki/실락원_\(드라마\) "wikilink")》()의 주제가로 사용하기위해 이전에 토쿠나가가 만들었던 곡을 다시 편곡한 노래로서, 이는 곧 ZARD의 대표곡이 되었다. 1999년 A사이드 곡을 타이틀곡으로 사용한 [동명의 앨범을](../Page/영원_\(ZARD의_음반\).md "wikilink") 발매했으며, 이 작품이 ZARD의 정규 앨범 중 마지막 밀리언셀러다. [B사이드](https://ko.wikipedia.org/wiki/B사이드 "wikilink") 곡은 〈I can't let go〉이며, 작사는 사카이 이즈미가, 작곡은 [쿠리바야시 세이이치로가](https://ko.wikipedia.org/wiki/쿠리바야시_세이이치로 "wikilink"), 편곡을 [후루이 히로히토가](../Page/후루이_히로히토.md "wikilink") 맡았다.\[2\]

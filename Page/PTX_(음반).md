@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PTX \(\)](https://ko.wikipedia.org/wiki/PTX_\(\)).
+> This article is converted from Wikipedia: [PTX \(음반\)](https://ko.wikipedia.org/wiki/PTX_\(음반\)).
 
 
 **PTX**는 [Pentatonix](https://ko.wikipedia.org/wiki/Pentatonix "wikilink")의 음반이다.

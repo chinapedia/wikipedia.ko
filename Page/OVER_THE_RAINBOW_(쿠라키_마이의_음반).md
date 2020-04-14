@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OVER THE RAINBOW \(  \)](https://ko.wikipedia.org/wiki/OVER_THE_RAINBOW_\(__\)).
+> This article is converted from Wikipedia: [OVER THE RAINBOW \(쿠라키 마이의 음반\)](https://ko.wikipedia.org/wiki/OVER_THE_RAINBOW_\(쿠라키_마이의_음반\)).
 
 
 《**OVER THE RAINBOW**》(오버 더 레인보)는 [2012년](../Page/2012년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") 발매의 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 10번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

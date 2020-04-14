@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Gravity \(Kis-My-Ft2 \)](https://ko.wikipedia.org/wiki/Gravity_\(Kis-My-Ft2_\)).
+> This article is converted from Wikipedia: [Gravity \(Kis-My-Ft2의 노래\)](https://ko.wikipedia.org/wiki/Gravity_\(Kis-My-Ft2의_노래\)).
 
 
 〈**Gravity**〉는, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 16번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

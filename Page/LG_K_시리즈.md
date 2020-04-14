@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG K ](https://ko.wikipedia.org/wiki/LG_K_).
+> This article is converted from Wikipedia: [LG K 시리즈](https://ko.wikipedia.org/wiki/LG_K_시리즈).
 
 
 **LG K**는 [2016년](../Page/2016년.md "wikilink") [1월](../Page/1월.md "wikilink"), [CES](../Page/소비자_가전_전시회.md "wikilink") 2016에서 [LG전자](../Page/LG전자.md "wikilink")가 처음 선보인 보급형 [스마트폰](../Page/스마트폰.md "wikilink") 라인업이다.\[1\] [2017년](../Page/2017년.md "wikilink")부터 매년마다 [CES에서](../Page/소비자_가전_전시회.md "wikilink") 새 모델들이 공개되고 있다. LG K 시리즈는 어느 특정한 기능을 강조한 기능특화 보급형의 위치인 [LG X](https://ko.wikipedia.org/wiki/LG_X "wikilink") 시리즈에 비해, [LG G](https://ko.wikipedia.org/wiki/LG_G "wikilink") 시리즈 처럼 기본기를 탄탄히 다지고 완성도를 높인 보급형 라인업이다. 초저가형 라인부터 보급형까지 라인을 이루고 있다. 성능이 오를수록 제품의 넘버링이 올라간다. K 시리즈는 2016년 일부 모델을 출시했을 당시, 조약돌을 형상화한 페블 디자인을 앞세웠으나, 이후 출시한 제품마다 다르게 출시되었다. [2017년](../Page/2017년.md "wikilink") 모델은 메탈 디자인과 지문인식을 앞세운 K10을 중심으로 공개됐다.

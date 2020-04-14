@@ -1,11 +1,9 @@
-> This article is converted from Wikipedia: [ MBC ](https://ko.wikipedia.org/wiki/_MBC_).
+> This article is converted from Wikipedia: [상암 MBC 사옥](https://ko.wikipedia.org/wiki/상암_MBC_사옥).
 
-
-[섬네일](https://ko.wikipedia.org/wiki/파일:MBC_Sangam_Center.jpg "wikilink")
 
 **상암 MBC 사옥**은 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동](https://ko.wikipedia.org/wiki/상암동 "wikilink")에 위치한 방송국 건물이다.
 
-## 상암 사옥 (본사) 내부 시설
+## 내부 시설
 
 지하 3층, 지상 14층, 옥탑은 각각 9층과 14층이다. 내부에는 사무실과 경영센터 10층에 라디오스튜디오가 있다. 방송센터 3층은 스튜디오동이다. 경영센터와 미디어센터 13층에 유리구름다리가 있어서 서로 건너다닐 수가 있다.
 
@@ -42,4 +40,7 @@
   - [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")
   - [유영호 (조각가)](https://ko.wikipedia.org/wiki/유영호_\(조각가\) "wikilink")
 
+## 외부 링크
+
+  -
 [분류:서울 마포구의 건축물](https://ko.wikipedia.org/wiki/분류:서울_마포구의_건축물 "wikilink") [분류:문화방송](https://ko.wikipedia.org/wiki/분류:문화방송 "wikilink")

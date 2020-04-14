@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PD   ](https://ko.wikipedia.org/wiki/_PD___).
+> This article is converted from Wikipedia: [이욱정 PD의 자연 담은 한끼](https://ko.wikipedia.org/wiki/이욱정_PD의_자연_담은_한끼).
 
 
 **이욱정 PD의 자연 담은 한끼**는 매주 [월요일](../Page/월요일.md "wikilink") \~ [금요일](../Page/금요일.md "wikilink") 오전 6시에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").

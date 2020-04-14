@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV    ](https://ko.wikipedia.org/wiki/TV____).
+> This article is converted from Wikipedia: [TV 도쿄 계열 애니메이션 목록](https://ko.wikipedia.org/wiki/TV_도쿄_계열_애니메이션_목록).
 
 
 **TV 도쿄 계열 애니메이션 목록은** [TV 도쿄의](../Page/TV_도쿄.md "wikilink") 애니메이션 목록을 기술한다. 통칭은 **아니테레**(, animeteleto)라고 불린다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(Rough\)](https://ko.wikipedia.org/wiki/__\(Rough\)).
+> This article is converted from Wikipedia: [시간을 달려서 \(Rough\)](https://ko.wikipedia.org/wiki/시간을_달려서_\(Rough\)).
 
 
 〈**시간을 달려서 (Rough)**〉는 [대한민국](../Page/대한민국.md "wikilink") 걸그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 노래이다.

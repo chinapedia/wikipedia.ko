@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ JL-8](https://ko.wikipedia.org/wiki/_JL-8).
+> This article is converted from Wikipedia: [훙두 JL-8](https://ko.wikipedia.org/wiki/훙두_JL-8).
 
 
 **홍두 JL-8**은 2개의 좌석을 지닌 중등 훈련기 및 경공격기로 설계된 중화 인민 공화국의 훈련기. 중국 난창(南昌)이라고도 불리는 항공기이다. 제조 및 주 계약자는 Hongdu 항공 공업 주식 회사다. K-8 카라코룸으로 수출 변형,공동 제작을 파키스탄에서 했다.

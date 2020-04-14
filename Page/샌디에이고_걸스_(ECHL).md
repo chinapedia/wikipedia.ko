@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
+> This article is converted from Wikipedia: [샌디에이고 걸스 \(ECHL\)](https://ko.wikipedia.org/wiki/샌디에이고_걸스_\(ECHL\)).
 
 
 **샌디에이고 걸즈**(San Diego Gulls)는 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink")을 연고지로 하는 2003년부터 2006년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.

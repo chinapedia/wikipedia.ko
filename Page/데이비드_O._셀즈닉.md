@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ O. ](https://ko.wikipedia.org/wiki/_O._).
+> This article is converted from Wikipedia: [데이비드 O. 셀즈닉](https://ko.wikipedia.org/wiki/데이비드_O._셀즈닉).
 
 
 **데이비드 O. 셀즈닉**(, [1902년](../Page/1902년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") \~ [1965년](../Page/1965년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink"))은 20세기 [미국](../Page/미국.md "wikilink")의 [영화 감독](../Page/영화_감독.md "wikilink"), [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")이다. 《[바람과 함께 사라지다](../Page/바람과_함께_사라지다_\(영화\).md "wikilink")》(1939)와 《[레베카](https://ko.wikipedia.org/wiki/레베카_\(영화\) "wikilink")》(1940)로 유명하며 이 두 작품은 [아카데미 작품상을](../Page/아카데미_작품상.md "wikilink") 수상한 작품이기도 하다.

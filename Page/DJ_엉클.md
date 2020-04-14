@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 엉클](https://ko.wikipedia.org/wiki/DJ_엉클).
 
 
 **DJ 엉클**(, )은 [대한민국](../Page/대한민국.md "wikilink")의 [디스크자키이다](../Page/디스크_자키.md "wikilink"). [2017년](../Page/2017년.md "wikilink") 현재까지 활동하는 [대한민국](../Page/대한민국.md "wikilink") 출신의 디스크자키 중에서는 최고령이며, 가장 활동 기간이 긴 사람으로 알려져 있다. 그의 예명인 DJ 엉클도 여기서 유래했으며, 다만 자신이 [한국인](../Page/한국인.md "wikilink")이라는 것을 강조하기 위해 아저씨를 뜻하는 [영어](../Page/영어.md "wikilink") 어휘 uncle에서 c를 k로 바꾼 'Unkle'을 예명의 공식 영어 표기로 하였다.

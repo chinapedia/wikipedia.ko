@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FDGB-](https://ko.wikipedia.org/wiki/FDGB-).
+> This article is converted from Wikipedia: [FDGB-포칼](https://ko.wikipedia.org/wiki/FDGB-포칼).
 
 
 **FDGB-포칼**은 과거 [동독](../Page/동독.md "wikilink")에서 [동독 축구 협회에](https://ko.wikipedia.org/wiki/동독_축구_협회 "wikilink") 의해 열렸던 동독 축구 컵 대회였다. [1949년](../Page/1949년.md "wikilink") 출범한 이 대회는 [1991년](../Page/1991년.md "wikilink") [DFB-포칼](../Page/DFB-포칼.md "wikilink")에 흡수되면서 폐지되었다. 최다 우승 클럽은 [마그데부르크와](../Page/1._FC_마그데부르크.md "wikilink") [디나모 드레스덴으로](https://ko.wikipedia.org/wiki/디나모_드레스덴 "wikilink") 7번 우승하였다.

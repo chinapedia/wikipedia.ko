@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I Remember You \(   \)](https://ko.wikipedia.org/wiki/I_Remember_You_\(___\)).
+> This article is converted from Wikipedia: [I Remember You \(핀과 제이크의 어드벤처 타임\)](https://ko.wikipedia.org/wiki/I_Remember_You_\(핀과_제이크의_어드벤처_타임\)).
 
 
 〈**I Remember You**〉는 [카툰 네트워크의](../Page/카툰_네트워크.md "wikilink") 애니메이션 시리즈 《[핀과 제이크의 어드벤처 타임](../Page/핀과_제이크의_어드벤처_타임.md "wikilink")》의 [네 번째 시즌](../Page/핀과_제이크의_어드벤처_타임_\(시즌_4\).md "wikilink") 스물다섯 번째 에피소드이다. [대한민국](../Page/카툰_네트워크_\(대한민국\).md "wikilink") 방영 명칭은 〈널 기억 못 할 때〉이다. [콜 산체스](../Page/콜_산체스.md "wikilink"), [리베카 슈거가](../Page/리베카_슈거.md "wikilink") 스토리보드 아티스트 및 작가로 참여했으며, 패트릭 맥헤일, [켄트 오즈본](../Page/켄트_오즈본.md "wikilink"), [펜들턴 워드가](../Page/펜들턴_워드.md "wikilink") 각본을 담당했다. 2012년 10월 15일 첫 방영 되었으며, 이 에피소드에서는 마르셀린이 얼음대왕과 함께 곡을 만들며 과거를 회상하는 내용을 그리고 있다.

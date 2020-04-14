@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Graph](https://ko.wikipedia.org/wiki/:Graph).
+> This article is converted from Wikipedia: [모듈:Graph](https://ko.wikipedia.org/wiki/모듈:Graph).
 
 
 \-- ATTENTION: Please edit this code at <https://de.wikipedia.org/wiki/Modul:Graph> -- This way all wiki languages can stay in sync. Thank you\! -- -- Version History: -- 2016-01-09 _PLEASE UPDATE when modifying anything_ -- 2016-01-28 For maps, always use wikiraw:// protocol. <https://> will be disabled soon. -- 2016-03-20 Allow omitted data for charts, labels for line charts with string (ordinal) scale at point location -- 2016-05-16 Added encodeTitleForPath() to help all path-based APIs graphs like pageviews

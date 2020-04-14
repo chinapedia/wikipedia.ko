@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SD   ](https://ko.wikipedia.org/wiki/:SD___).
+> This article is converted from Wikipedia: [틀:SD 에이바르 선수 명단](https://ko.wikipedia.org/wiki/틀:SD_에이바르_선수_명단).
 
 
 <onlyinclude></onlyinclude>

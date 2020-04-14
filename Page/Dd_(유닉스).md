@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dd \(\)](https://ko.wikipedia.org/wiki/Dd_\(\)).
+> This article is converted from Wikipedia: [Dd \(유닉스\)](https://ko.wikipedia.org/wiki/Dd_\(유닉스\)).
 
 
 **dd**는 파일을 변환하고 복사하는 것이 주 목적인 [유닉스](../Page/유닉스.md "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제용](../Page/운영_체제.md "wikilink") 명령 줄 유틸리티이다.\[1\]

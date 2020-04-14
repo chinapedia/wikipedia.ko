@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LJVM  ](https://ko.wikipedia.org/wiki/LJVM__).
+> This article is converted from Wikipedia: [LJVM 콜리시엄 안넥스](https://ko.wikipedia.org/wiki/LJVM_콜리시엄_안넥스).
 
 
 **LJVM 콜리시엄 안넥스**(LJVM Coliseum Annex)는 [미국](../Page/미국.md "wikilink") [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink") [윈스턴-세일럼에](../Page/윈스턴세일럼.md "wikilink") 위치한 실내 경기장이다. 과거 [SPHL](../Page/서던_프로페셔널_하키_리그.md "wikilink") [트윈 시티 사이클론즈의](https://ko.wikipedia.org/wiki/트윈_시티_사이클론즈 "wikilink") 홈경기장으로 사용했으면, 2017년부터 [FHL](../Page/페더럴_하키_리그.md "wikilink") [캐롤라이나 선더버즈의](https://ko.wikipedia.org/wiki/캐롤라이나_선더버즈 "wikilink") 홈경기장으로 사용할 예정이다.

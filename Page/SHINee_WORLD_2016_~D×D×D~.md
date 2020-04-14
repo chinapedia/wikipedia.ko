@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SHINee WORLD 2016 \~DDD\~](https://ko.wikipedia.org/wiki/SHINee_WORLD_2016_\~DDD\~).
+> This article is converted from Wikipedia: [SHINee WORLD 2016 \~D×D×D\~](https://ko.wikipedia.org/wiki/SHINee_WORLD_2016_\~D×D×D\~).
 
 
 《**SHINee WORLD 2016 \~D×D×D\~**》는 대한민국의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [샤이니](../Page/샤이니.md "wikilink")의 네 번째 일본 전국 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").

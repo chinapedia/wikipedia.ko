@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G. N. ](https://ko.wikipedia.org/wiki/G._N._).
+> This article is converted from Wikipedia: [G. N. 라마찬드란](https://ko.wikipedia.org/wiki/G._N._라마찬드란).
 
 
 **고팔라사무드람 나라야나 라마찬드란**(, [1922년](../Page/1922년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink"))박사는 [인도](../Page/인도.md "wikilink")의 [물리학자](https://ko.wikipedia.org/wiki/물리학자 "wikilink")이자, [신경과학](../Page/신경과학.md "wikilink")자이다. [콜라겐](../Page/콜라겐.md "wikilink")의 구조를 규명한 것과 [라마찬드란 조사구에](../Page/라마찬드란_조사구.md "wikilink") 대한 연구로 잘 알려져있다.

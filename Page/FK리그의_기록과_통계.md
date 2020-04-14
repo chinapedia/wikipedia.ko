@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK리그의 기록과 통계](https://ko.wikipedia.org/wiki/FK리그의_기록과_통계).
 
 
 [FK리그](../Page/FK리그.md "wikilink")의 각종 기록과 통계와 관련된 문서이다.

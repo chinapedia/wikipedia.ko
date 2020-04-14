@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  R.  \(CVN-78\)](https://ko.wikipedia.org/wiki/USS__R.__\(CVN-78\)).
+> This article is converted from Wikipedia: [USS 제럴드 R. 포드 \(CVN-78\)](https://ko.wikipedia.org/wiki/USS_제럴드_R._포드_\(CVN-78\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:131109-N-KK576-270.jpg "wikilink")

@@ -15,7 +15,7 @@
 
 카스투에라는 캐니언(Canyon) 역의 성우를 맡았다.\[7\] [루 퍼리그노는](https://ko.wikipedia.org/wiki/루_퍼리그노 "wikilink") 영웅 빌리(Billy) 역할을 또 다시 맡았다. 또한 코미디언이자 래퍼인 [앤디 샘버그와](../Page/앤디_샘버그.md "wikilink") 배우 [마크 해밀은](../Page/마크_해밀.md "wikilink") 각각 파티 팻(Party Pat)과 피어 피스터(Fear Feaster) 역할을 맡았다.\[8\]\[9\]
 
-모이니한은 [오케스트라 히트를](https://ko.wikipedia.org/wiki/오케스트라_히트 "wikilink") 이용하여 랩 배틀에 쓰인 음악을 만들었다. 해당 음원은 [사운드클라우드](../Page/사운드클라우드.md "wikilink")와 [텀블러를](../Page/텀블러_\(마이크로블로그\).md "wikilink") 통해 추후 공개되었다.\[10\] 에피소드의 배경을 맡은 아티스트 데릭 발라드(Derek Ballard)는 배경 중 일부를 ‘미국의 최고의 영화’인 《[불가사리](https://ko.wikipedia.org/wiki/불가사리_\(1990년_영화\) "wikilink")》를 기려 만들었다고 했다.\[11\]
+모이니한은 [오케스트라 히트를](https://ko.wikipedia.org/wiki/오케스트라_히트 "wikilink") 이용하여 랩 배틀에 쓰인 음악을 만들었다. 해당 음원은 [사운드클라우드](../Page/사운드클라우드.md "wikilink")와 [텀블러를](../Page/텀블러_\(마이크로블로그\).md "wikilink") 통해 추후 공개되었다.\[10\] 에피소드의 배경을 맡은 아티스트 데릭 발라드(Derek Ballard)는 배경 중 일부를 ‘미국의 최고의 영화’인 《[불가사리](../Page/불가사리_\(1990년_영화\).md "wikilink")》를 기려 만들었다고 했다.\[11\]
 
 ## 반응
 

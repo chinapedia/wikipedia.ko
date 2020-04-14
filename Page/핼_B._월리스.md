@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [핼 B. 월리스](https://ko.wikipedia.org/wiki/핼_B._월리스).
 
 
 **해럴드 브렌트 "핼" 월리스**(, [1898년](../Page/1898년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") \~ [1986년](../Page/1986년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 20세기 [영화 제작자이다](https://ko.wikipedia.org/wiki/영화_제작자 "wikilink"). 초기의 [워너 브라더스에서](../Page/워너_브라더스.md "wikilink") 《[카사블랑카](../Page/카사블랑카.md "wikilink")》(1942) 등의 명작을 제작하였으며 [험프리 보가트](../Page/험프리_보가트.md "wikilink"), [베티 데이비스와](../Page/베티_데이비스.md "wikilink") 같은 스타를 배출하였다. 그는 [아슈케나즈 유대인인](../Page/아슈케나즈_유대인.md "wikilink") [폴란드](../Page/폴란드.md "wikilink")계 이민 가정에서 태어났으며 본명은 **에런 블룸 월로위츠**(Aaron Blum Wolowicz)였다.

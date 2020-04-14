@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J.  ](https://ko.wikipedia.org/wiki/_J.__).
+> This article is converted from Wikipedia: [마이클 J. 폭스 쇼](https://ko.wikipedia.org/wiki/마이클_J._폭스_쇼).
 
 
 《**마이클 J. 폭스 쇼**》()는 2013년 9월 26일부터 2014년 1월 23일까지 [NBC](../Page/NBC.md "wikilink")에서 방영된 [마이클 J. 폭스](https://ko.wikipedia.org/wiki/마이클_J._폭스 "wikilink") 주연의 미국 시트콤이다.

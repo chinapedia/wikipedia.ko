@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBS ](https://ko.wikipedia.org/wiki/TBS_).
+> This article is converted from Wikipedia: [TBS 화요드라마](https://ko.wikipedia.org/wiki/TBS_화요드라마).
 
 
 《**화요드라마**》()는, [2014년](../Page/2014년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [계열에서](../Page/재팬_뉴스_네트워크.md "wikilink"), 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 22:00 \~ 22:54에 방송되고 있는 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시간대이다\[1\].
@@ -52,7 +52,7 @@
   - 《[콰르텟](../Page/콰르텟_\(2017년_드라마\).md "wikilink")》
     1월 \~ 3월
     주연: [마츠 타카코](../Page/마츠_타카코.md "wikilink")
-  - 《[당신을 그렇게까지는](https://ko.wikipedia.org/wiki/당신을_그렇게까지는 "wikilink")》
+  - 《[당신을 그렇게까지는](../Page/당신을_그렇게까지는.md "wikilink")》
     4월 \~ 6월
     주연: [하루](../Page/하루_\(배우\).md "wikilink")
   - 《[칸나 씨\!](https://ko.wikipedia.org/wiki/칸나_씨! "wikilink")》
@@ -101,7 +101,11 @@
     4월 \~ 6월
     주연: [다베 미카코](https://ko.wikipedia.org/wiki/다베_미카코 "wikilink")
 
-## 각주
+## 지역 방송국
+
+이 프로그램은 TBS 계열 28 국 전반 국면에서만 방송되고 있지만, TBS 계열 없는 지역의 같은 계열 외의 방송국에서도 일부 작품이 지연 편성 버전으로 방영되기도 한다.
+
+## 참고 사항
 
 <references />
 
@@ -109,6 +113,11 @@
 
   - [일본 드라마 목록](https://ko.wikipedia.org/wiki/일본_드라마_목록 "wikilink")
   - [TBS 금요드라마](../Page/TBS_금요드라마.md "wikilink")
+  - [TBS 일요극장](https://ko.wikipedia.org/wiki/TBS_일요극장 "wikilink")
+
+## 외부 링크
+
+  - [TBS 테레비 드라마](https://www.tbs.co.jp/drama/)
 
 [\*](https://ko.wikipedia.org/wiki/분류:TBS_화요일_10시_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:TBS의_텔레비전_드라마 "wikilink")
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mount \(\)](https://ko.wikipedia.org/wiki/Mount_\(\)).
+> This article is converted from Wikipedia: [Mount \(유닉스\)](https://ko.wikipedia.org/wiki/Mount_\(유닉스\)).
 
 
 사용자가 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 머신에서 [파일에](../Page/컴퓨터_파일.md "wikilink") 접근하려면 그에 앞서 파일을 포함하고 있는 [파일 시스템을](../Page/파일_시스템.md "wikilink") **mount** 명령어를 이용하여 마운트된 상태여야 한다. **mount**는 [SD 카드](../Page/SD_카드.md "wikilink"), [USB 저장소](../Page/USB_대용량_저장소_장치_유형.md "wikilink"), [DVD](../Page/DVD.md "wikilink"), 기타 이동식 저장소에 자주 사용된다.

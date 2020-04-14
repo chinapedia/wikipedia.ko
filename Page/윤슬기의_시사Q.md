@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Q](https://ko.wikipedia.org/wiki/_Q).
+> This article is converted from Wikipedia: [윤슬기의 시사Q](https://ko.wikipedia.org/wiki/윤슬기의_시사Q).
 
 
 《**윤슬기의 시사Q**》는 [대한민국](../Page/대한민국.md "wikilink")의 [TV조선](../Page/TV조선.md "wikilink")의 시사 프로그램이다.

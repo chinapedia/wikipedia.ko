@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
+> This article is converted from Wikipedia: [피닉스 로드러너스 \(ECHL\)](https://ko.wikipedia.org/wiki/피닉스_로드러너스_\(ECHL\)).
 
 
 **피닉스 로드러너스**(Phoenix RoadRunners)는 [미국](../Page/미국.md "wikilink") [애리조나주](../Page/애리조나주.md "wikilink") [피닉스를](../Page/피닉스_\(애리조나주\).md "wikilink") 연고지로 하는 2005년부터 2009년까지 [ECHL](../Page/ECHL.md "wikilink") 소속되었던 아이스 하키팀이다.

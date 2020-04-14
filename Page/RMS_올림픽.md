@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RMS ](https://ko.wikipedia.org/wiki/RMS_).
+> This article is converted from Wikipedia: [RMS 올림픽](https://ko.wikipedia.org/wiki/RMS_올림픽).
 
 
 **RMS 올림픽**(RMS Olympic)은 [영국](../Page/영국.md "wikilink") [화이트 스타 라인이](https://ko.wikipedia.org/wiki/화이트_스타_라인 "wikilink") 운영한 [북대서양](https://ko.wikipedia.org/wiki/북대서양 "wikilink") 횡단 [여객선](https://ko.wikipedia.org/wiki/여객선 "wikilink")이다. [HMHS 브리태닉](https://ko.wikipedia.org/wiki/HMHS_브리태닉 "wikilink"), [RMS 타이타닉의](../Page/RMS_타이타닉.md "wikilink") 자매선이자 [올림픽급](https://ko.wikipedia.org/wiki/올림픽급 "wikilink") 여객선의 네임십이다.

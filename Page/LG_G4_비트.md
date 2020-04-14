@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G4 ](https://ko.wikipedia.org/wiki/LG_G4_).
+> This article is converted from Wikipedia: [LG G4 비트](https://ko.wikipedia.org/wiki/LG_G4_비트).
 
 
 *' LG G4 비트*'는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년 7월](../Page/2015년_7월.md "wikilink") 출시한 보급형 스마트폰이다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [   C](https://ko.wikipedia.org/wiki/___C).
+> This article is converted from Wikipedia: [캄페오나투 브라질레이루 세리이 C](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_C).
 
 
-**캄페오나투 브라질레이루 세리이 C** ()는 [브라질](../Page/브라질.md "wikilink") 프로 [축구](../Page/축구.md "wikilink")의 3부 리그로, [1981년](../Page/1981년.md "wikilink")에 창설하였다. [브라질 축구협회에서](https://ko.wikipedia.org/wiki/브라질_축구협회 "wikilink") 주관하며 20팀이 참가한다.
+**캄페오나투 브라질레이루 세리이 C**()는 [브라질](../Page/브라질.md "wikilink") 프로 [축구](../Page/축구.md "wikilink")의 3부 리그로, [1981년](../Page/1981년.md "wikilink")에 창설하였다. [브라질 축구협회에서](https://ko.wikipedia.org/wiki/브라질_축구협회 "wikilink") 주관하며 20팀이 참가한다.
 
 [2008년](../Page/2008년.md "wikilink")까지 세리이 C에는 68개 팀이 참가하였으며, 세리이 B에서 강등된 4팀과 브라질 각 [주 리그에서](../Page/브라질의_주별_리그.md "wikilink") 좋은 성적을 가진 64개 팀이 참가하는 방식을 가졌다. 당시 각 주의 세리이 C 참가 방식은 제각각이었으며, 어떤 주는 주리그 순위에 따라 세리이 C 참가 티켓을 부여하는 한 편, 어떤 주는 세리이 C 참가를 위한 별도의 토너먼트를 만들어 시행했다.
 

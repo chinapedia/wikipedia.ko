@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:London Gazette](https://ko.wikipedia.org/wiki/:London_Gazette).
+> This article is converted from Wikipedia: [틀:London Gazette](https://ko.wikipedia.org/wiki/틀:London_Gazette).
 
 
 {{\#if: {{\#if: |{{\#if:  | yes}} }} | 가제트| \[\[{{\#switch:

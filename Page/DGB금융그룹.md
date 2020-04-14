@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DGB](https://ko.wikipedia.org/wiki/DGB).
+> This article is converted from Wikipedia: [DGB금융그룹](https://ko.wikipedia.org/wiki/DGB금융그룹).
 
 
 **DGB금융그룹**은 [대한민국](../Page/대한민국.md "wikilink")의 지방은행인 [대구은행](../Page/대구은행.md "wikilink")을 모태로 하는 금융지주회사이다. 연결할 수 있는 카드사는 신한,삼성,롯데,현대(현금카드 겸용불가)만 가능하며 이용할 수 있는 지역은 서울,인천,경기,대구,경북,부산,울산,경남,대전만 가능하며 카드포인트는 탑포인트로 나온다.
