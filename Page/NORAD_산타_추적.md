@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NORAD  ](https://ko.wikipedia.org/wiki/NORAD__).
+> This article is converted from Wikipedia: [NORAD 산타 추적](https://ko.wikipedia.org/wiki/NORAD_산타_추적).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:NORAD_Tracks_Santa.png "wikilink").\]\] **NORAD 산타 추적**(NORAD Tracks Santa)은 [1955년](../Page/1955년.md "wikilink")부터 시작하여 매년 진행하는 [북미 항공 우주 방위 사령부](https://ko.wikipedia.org/wiki/북미_항공_우주_방위_사령부 "wikilink")(NORAD)의 [크리스마스](../Page/크리스마스.md "wikilink") 테마 엔터테인먼트 프로그램이다.\[1\] 매년 [크리스마스 이브에는](https://ko.wikipedia.org/wiki/크리스마스_이브 "wikilink") NORAD 산타 추적기가 [북극](../Page/북극.md "wikilink")을 떠나 전 세계 어린이들에게 선물을 주는 [산타클로스](../Page/산타클로스.md "wikilink")를 추적한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Radio For You!](https://ko.wikipedia.org/wiki/_Radio_For_You!).
+> This article is converted from Wikipedia: [아이돌마스터 Radio For You!](https://ko.wikipedia.org/wiki/아이돌마스터_Radio_For_You!).
 
 
 \<**아이돌마스터 Radio For You\!**\> (아이돌마스터 라디오 포 유)는 게임 \<[THE IDOLM@STER LIVE FOR YOU\!](../Page/THE_IDOLM@STER_LIVE_FOR_YOU!.md "wikilink")\>에 관련한 [인터넷 라디오](../Page/인터넷_라디오.md "wikilink") 프로그램. 먼저 종료한 \<[라디오de아이마SHOW\!](../Page/라디오de아이마SHOW!.md "wikilink")\>의 후속 프로그램으로서 2007년 11월 28일부터, 매주 수요일에 [애니메이트 TV에서](../Page/애니메이트_TV.md "wikilink") 전달되었다. 약칭은 **R4U**. 후속 프로그램으로서 \<[P.S.프로듀서](https://ko.wikipedia.org/wiki/아이돌마스터_P.S.프로듀서 "wikilink")\>가 전달되고 있다.

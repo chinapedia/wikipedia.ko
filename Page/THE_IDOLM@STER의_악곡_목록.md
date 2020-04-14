@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE IDOLM@STER  ](https://ko.wikipedia.org/wiki/THE_IDOLM@STER__).
+> This article is converted from Wikipedia: [THE IDOLM@STER의 악곡 목록](https://ko.wikipedia.org/wiki/THE_IDOLM@STER의_악곡_목록).
 
 
 **THE IDOLM@STER의 악곡 목록**은 게임 '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")' 및, 그에 파생한 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트 '[PROJECT IM@S](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink")'에서 작성, 혹은 [커버](https://ko.wikipedia.org/wiki/커버 "wikilink")된 악곡의 목록이다. 덧붙여 등장 캐릭터의 성우에 관해서는 특히 기술이 없으면, 원작 게임 준거로 한다(다만 하기와라 유키호는 도중에 성우가 변경되고 있기 때문에, 별도 기재한다).

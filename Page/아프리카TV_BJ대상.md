@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV BJ](https://ko.wikipedia.org/wiki/TV_BJ).
+> This article is converted from Wikipedia: [아프리카TV BJ대상](https://ko.wikipedia.org/wiki/아프리카TV_BJ대상).
 
 
 **아프리카TV BJ대상**(afreecaTV BJ Awards)은 [대한민국](../Page/대한민국.md "wikilink")의 인터넷 방송 서비스[아프리카TV](../Page/아프리카TV.md "wikilink")의 시상식이다.

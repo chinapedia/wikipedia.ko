@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
+> This article is converted from Wikipedia: [리처드 D. 재넉](https://ko.wikipedia.org/wiki/리처드_D._재넉).
 
 
 **리처드 대릴 재넉**( [1934년](../Page/1934년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [영화 제작자이다](https://ko.wikipedia.org/wiki/영화_제작자 "wikilink"). [브루스 베러스퍼드](https://ko.wikipedia.org/wiki/브루스_베러스퍼드 "wikilink") 감독과 함께 제작한 《[드라이빙 미스 데이지](../Page/드라이빙_미스_데이지.md "wikilink")》(1989)로 제62회 [아카데미 작품상과](../Page/아카데미_작품상.md "wikilink") 제47회 [골든 글로브 뮤지컬 코미디 부문 작품상을](../Page/골든_글로브상.md "wikilink") 수상했다. 이외의 대표작으로 《[사운드 오브 뮤직](../Page/사운드_오브_뮤직_\(영화\).md "wikilink")》(1965), 《[죠스](../Page/죠스_\(영화\).md "wikilink")》(1975), 《[이상한 나라의 앨리스](../Page/이상한_나라의_앨리스_\(2010년_영화\).md "wikilink")》(2010)가 있다.
@@ -158,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td><p>2001</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/혹성탈출_(2001년_영화)" title="wikilink">혹성탈출</a> <em>Planet of the Apes</em></p></td>
+<td><p><a href="../Page/혹성탈출_(2001년_영화).md" title="wikilink">혹성탈출</a> <em>Planet of the Apes</em></p></td>
 <td><p><a href="../Page/팀_버튼.md" title="wikilink">팀 버튼</a></p></td>
 </tr>
 <tr class="even">

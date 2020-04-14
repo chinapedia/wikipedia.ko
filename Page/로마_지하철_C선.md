@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  C](https://ko.wikipedia.org/wiki/__C).
+> This article is converted from Wikipedia: [로마 지하철 C선](https://ko.wikipedia.org/wiki/로마_지하철_C선).
 
 
-**로마 지하철 C선** ()은 [이탈리아](../Page/이탈리아.md "wikilink") [로마](../Page/로마.md "wikilink")에서 운행되는 [로마 지하철의](../Page/로마_지하철.md "wikilink") 세번째 노선이다. 더불어 처음으로 로마에서 완전 자동화된 노선이기도 하다. 몬테 콤파트리-판타노에서 파르코 디 첸토첼레까지 첫번째 구간은 2014년 11월 9일에, 파르코 디 첸토첼레에서 로디까지 두 번째 구간은 2015년 6월 29일에 각각 개통했으며, 현재 2개의 역이 추가로 건설 중에 있다. C선은 [로마-피우지 선의](https://ko.wikipedia.org/wiki/로마-피우지_선 "wikilink") 일부로 마지막까지 남아있던 [경전철](../Page/경전철.md "wikilink")도인 옛 로마-판타노 철도의 일부 구간을 재사용한다. 노선색은 <span style="color:{{로마 철도 노선색|C선}};">●</span>[초록](../Page/초록.md "wikilink")색이다.
+**로마 지하철 C선**()은 [이탈리아](../Page/이탈리아.md "wikilink") [로마](../Page/로마.md "wikilink")에서 운행되는 [로마 지하철의](../Page/로마_지하철.md "wikilink") 세번째 노선이다. 더불어 처음으로 로마에서 완전 자동화된 노선이기도 하다. 몬테 콤파트리-판타노에서 파르코 디 첸토첼레까지 첫번째 구간은 2014년 11월 9일에, 파르코 디 첸토첼레에서 로디까지 두 번째 구간은 2015년 6월 29일에 각각 개통했으며, 현재 2개의 역이 추가로 건설 중에 있다. C선은 [로마-피우지 선의](https://ko.wikipedia.org/wiki/로마-피우지_선 "wikilink") 일부로 마지막까지 남아있던 [경전철](../Page/경전철.md "wikilink")도인 옛 로마-판타노 철도의 일부 구간을 재사용한다. 노선색은 <span style="color:{{로마 철도 노선색|C선}};">●</span>[초록](../Page/초록.md "wikilink")색이다.
 
 ## 건설
 

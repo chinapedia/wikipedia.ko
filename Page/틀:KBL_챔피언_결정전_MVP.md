@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBL   MVP](https://ko.wikipedia.org/wiki/:KBL___MVP).
+> This article is converted from Wikipedia: [틀:KBL 챔피언 결정전 MVP](https://ko.wikipedia.org/wiki/틀:KBL_챔피언_결정전_MVP).
 
 
 <onlyinclude></onlyinclude>

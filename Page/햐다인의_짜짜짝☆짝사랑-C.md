@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ -C](https://ko.wikipedia.org/wiki/_-C).
+> This article is converted from Wikipedia: [햐다인의 짜짜짝☆짝사랑-C](https://ko.wikipedia.org/wiki/햐다인의_짜짜짝☆짝사랑-C).
 
 
 〈**햐다인의 짜짜짝☆짝사랑-C**〉()는 [햐다인의](https://ko.wikipedia.org/wiki/마에야마다_켄이치 "wikilink") 첫 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

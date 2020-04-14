@@ -1,5 +1,7 @@
-> This article is converted from Wikipedia: [ e](https://ko.wikipedia.org/wiki/_e).
+> This article is converted from Wikipedia: [한화생명 e스포츠](https://ko.wikipedia.org/wiki/한화생명_e스포츠).
 
+
+  - **카트라이더 팀은 스틸에잇이 운영하는 것이고 네이밍 스폰만 맏고 있는 것이다.**
 
 **한화생명 e스포츠**(Hanwha Life Esports)는 대한민국의 [리그 오브 레전드와](../Page/리그_오브_레전드.md "wikilink") [카트라이더](https://ko.wikipedia.org/wiki/카트라이더 "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다.
 
@@ -17,7 +19,7 @@
 
 2018년 4월 16일 [한화생명보험](../Page/한화생명보험.md "wikilink")이 ROX 타이거즈를 인수하면서 팀명을 **한화생명 e스포츠**로 변경했다..
 
-2019년 8월 5일 카트라이더 프로게임단을 공식 창단했다.
+2019년 8월 5일 스틸에잇 카트라이더 프로게임단을 네이밍 스폰서십을 맺었다.
 
 ## 내력
 
@@ -56,7 +58,7 @@
   - 감독 : 윤영재
   - [문호준](../Page/문호준.md "wikilink") (스피드 에이스)
   - [이은택](https://ko.wikipedia.org/wiki/이은택 "wikilink") (아이템 에이스)
-  - 최영훈 (하이브리드)
+  - 최영훈 (스위퍼)
   - 배성빈 (러너)
   - 박도현 (스위퍼)
 

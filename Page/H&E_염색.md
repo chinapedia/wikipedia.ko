@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H\&E ](https://ko.wikipedia.org/wiki/H\&E_).
+> This article is converted from Wikipedia: [H\&E 염색](https://ko.wikipedia.org/wiki/H\&E_염색).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Emphysema_H_and_E.jpg "wikilink") **H\&E 염색** 혹은 HE 염색에서 H는 [헤마톡실린](https://ko.wikipedia.org/wiki/헤마톡실린 "wikilink"), E는 [에오신](https://ko.wikipedia.org/wiki/에오신 "wikilink")을 의미한다.\[1\][조직학](https://ko.wikipedia.org/wiki/조직학 "wikilink")에서 이용되는 기본적인 [염색](https://ko.wikipedia.org/wiki/염색_\(생물학\) "wikilink") 방법이다. [의학 진단에서](https://ko.wikipedia.org/wiki/의학_진단 "wikilink") 널리 이용되며, 종종 [최적 표준](https://ko.wikipedia.org/wiki/최적_표준 "wikilink")()이다. [병리학자](https://ko.wikipedia.org/wiki/병리학자 "wikilink")가 [암](../Page/암.md "wikilink")으로 의심되는 조직을 [생검](https://ko.wikipedia.org/wiki/생검 "wikilink")하면 조직 절편을 H\&E 염색하고, H\&E 절편()이라 한다.

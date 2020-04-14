@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I can\'t stop my love for you](https://ko.wikipedia.org/wiki/I_can\'t_stop_my_love_for_you).
+> This article is converted from Wikipedia: [I can\'t stop my love for you♥](https://ko.wikipedia.org/wiki/I_can\'t_stop_my_love_for_you♥).
 
 
 {{싱글 정보 | 곡명 = I can't stop my love for you♥ | 그림 = | 설명 = | 음악가 = [아이우치 리나](../Page/아이우치_리나.md "wikilink") | 음반 = [POWER OF WORDS](https://ko.wikipedia.org/wiki/POWER_OF_WORDS "wikilink") | A 사이드 = | B 사이드 = pink baby's breath | 발매일 = [2002년](../Page/2002년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") | 포맷 = | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink"), [애니메이션 음악](https://ko.wikipedia.org/wiki/애니메이션_음악 "wikilink") | 언어 = 일본어 | 길이 = | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 작사가 = | 작곡가 = | 작사·작곡 = | 프로듀서 = 아이우치 리나 | 오디오 샘플 = | 판매량 = | 연표 = | 이전싱글 = Forever You

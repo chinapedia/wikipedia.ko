@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Da Capo \( \)](https://ko.wikipedia.org/wiki/Da_Capo_\(_\)).
+> This article is converted from Wikipedia: [Da Capo \(토이의 음반\)](https://ko.wikipedia.org/wiki/Da_Capo_\(토이의_음반\)).
 
 
 《**Da Capo**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")의 1인 프로젝트 그룹 [토이의](https://ko.wikipedia.org/wiki/토이_\(대한민국의_음악_그룹\) "wikilink") 일곱 번째 정규앨범이다. 전작과는 무려 7년이라는 시간 차를 갖는다. 발매 직후 [멜론](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink"), [엠넷](../Page/엠넷.md "wikilink")을 비롯한 국내 주요 음원 사이트에서 타이틀곡 〈세 사람〉의 실시간 차트 1위 기록은 물론 전곡 줄세우기를 기록해 토이의 인기를 증명했다.\[1\]

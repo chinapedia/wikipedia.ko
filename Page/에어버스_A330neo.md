@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A330neo](https://ko.wikipedia.org/wiki/_A330neo).
+> This article is converted from Wikipedia: [에어버스 A330neo](https://ko.wikipedia.org/wiki/에어버스_A330neo).
 
 
 **에어버스 A330neo**()는 [A330의](../Page/에어버스_A330.md "wikilink") 개량형이다. 동체를 연장하고 [롤스로이스의](../Page/롤스로이스_홀딩스.md "wikilink") 트렌트 7000 엔진과 새로운 날개를 장착해 개발한 모델로 [에어버스 A330](../Page/에어버스_A330.md "wikilink") 모델 중 가장 크며 기존 항공기에 대비, 14%의 연료 절감 효과를 보인다. [2014년](../Page/2014년.md "wikilink") [7월 14일](../Page/7월_14일.md "wikilink"), 판보로 에어쇼에 처음 소개됐으며, [B787과](../Page/보잉_787_드림라이너.md "wikilink") 경쟁할 것으로 보인다.\[1\]

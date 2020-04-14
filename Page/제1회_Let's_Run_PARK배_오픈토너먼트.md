@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1 Let\'s Run PARK ](https://ko.wikipedia.org/wiki/1_Let\'s_Run_PARK_).
+> This article is converted from Wikipedia: [제1회 Let\'s Run PARK배 오픈토너먼트](https://ko.wikipedia.org/wiki/제1회_Let\'s_Run_PARK배_오픈토너먼트).
 
 
 **제1회 Let's Run PARK배 오픈토너먼트**는 [2014년](../Page/2014년.md "wikilink") [6월 26일부터](../Page/6월_26일.md "wikilink") [12월 27일까지](../Page/12월_27일.md "wikilink") 약 6개월간 진행된 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). 결승에서는 [이세돌](../Page/이세돌.md "wikilink")이 [강동윤](../Page/강동윤.md "wikilink")에게 종합전적 2:1로 우승했다.

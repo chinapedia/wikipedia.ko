@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBL ](https://ko.wikipedia.org/wiki/:KBL_).
+> This article is converted from Wikipedia: [틀:KBL 신인선수상](https://ko.wikipedia.org/wiki/틀:KBL_신인선수상).
 
 
 <onlyinclude></onlyinclude>

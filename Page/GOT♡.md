@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GOT](https://ko.wikipedia.org/wiki/GOT).
+> This article is converted from Wikipedia: [GOT♡](https://ko.wikipedia.org/wiki/GOT♡).
 
 
 《**GOT♡**》은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") GOT7의 두 번째 EP이다. 타이틀곡은 〈**A**〉이며, [2014년](../Page/2014년.md "wikilink") [6월 23일에](../Page/6월_23일.md "wikilink") 지니뮤직에서 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Parameter names example](https://ko.wikipedia.org/wiki/:Parameter_names_example).
+> This article is converted from Wikipedia: [모듈:Parameter names example](https://ko.wikipedia.org/wiki/모듈:Parameter_names_example).
 
 
 \-- 이 모듈은 를 실행시킵니다.

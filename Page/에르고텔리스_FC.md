@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [에르고텔리스 FC](https://ko.wikipedia.org/wiki/에르고텔리스_FC).
 
 
 **에르고텔리스 FC**()는 [그리스](../Page/그리스.md "wikilink")에 소재한 [크레타 섬에](https://ko.wikipedia.org/wiki/크레타_섬 "wikilink") 있는 [이라클리오](../Page/이라클리오.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1929년](../Page/1929년.md "wikilink")에 창단되었으며, 현재 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 참가하고 있다.

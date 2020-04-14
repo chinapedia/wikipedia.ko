@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AFC   ](https://ko.wikipedia.org/wiki/:AFC___).
+> This article is converted from Wikipedia: [틀:AFC 본머스 선수 명단](https://ko.wikipedia.org/wiki/틀:AFC_본머스_선수_명단).
 
 
 <onlyinclude></onlyinclude>

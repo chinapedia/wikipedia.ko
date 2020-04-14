@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D](https://ko.wikipedia.org/wiki/_D).
+> This article is converted from Wikipedia: [면역글로불린 D](https://ko.wikipedia.org/wiki/면역글로불린_D).
 
 
 [thumb를](https://ko.wikipedia.org/wiki/파일:Mono-und-Polymere.svg "wikilink") 형성하기도 한다.\]\] **면역글로불린 D** 혹은 **IgD**는 [항체](https://ko.wikipedia.org/wiki/항체 "wikilink") [개별형](https://ko.wikipedia.org/wiki/개별형 "wikilink") 중 하나이다. 성숙 [B 세포에서](https://ko.wikipedia.org/wiki/B_세포 "wikilink") 또 다른 항체인 [IgM](https://ko.wikipedia.org/wiki/IgM "wikilink")과 함께 공동발현된다. IgD는 혈액에 존재하는 면역글로불린 중 0.25%를 차지하며, 분자량은 약 185 kDa이고 반감기는 2.8일이다.\[1\] 분비된 IgD는 단량체이며, 델타(δ)형 중쇄 두 개, 경쇄 두 개로 이루어진다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNOW DOME  IN TOKYO DOME 2013.11.16](https://ko.wikipedia.org/wiki/SNOW_DOME__IN_TOKYO_DOME_2013.11.16).
+> This article is converted from Wikipedia: [SNOW DOME의 약속 IN TOKYO DOME 2013.11.16](https://ko.wikipedia.org/wiki/SNOW_DOME의_약속_IN_TOKYO_DOME_2013.11.16).
 
 
 《**SNOW DOME의 약속 IN TOKYO DOME 2013.11.16**》은, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 5번째 [DVD](../Page/DVD.md "wikilink")이다.

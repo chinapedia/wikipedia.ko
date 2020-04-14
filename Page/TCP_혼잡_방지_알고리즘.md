@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TCP   ](https://ko.wikipedia.org/wiki/TCP___).
+> This article is converted from Wikipedia: [TCP 혼잡 방지 알고리즘](https://ko.wikipedia.org/wiki/TCP_혼잡_방지_알고리즘).
 
 
 [전송 제어 프로토콜](../Page/전송_제어_프로토콜.md "wikilink")(TCP)은 네트워크 혼잡 방지 알고리즘을 사용하여 네트워크에서 부하로 인해 패킷 손실이 발생하는 것을 줄인다. 이 문서에서는 TCP에서 사용하는 **TCP 혼잡 방지 알고리즘**을 다룬다.

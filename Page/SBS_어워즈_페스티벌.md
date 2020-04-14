@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
+> This article is converted from Wikipedia: [SBS 어워즈 페스티벌](https://ko.wikipedia.org/wiki/SBS_어워즈_페스티벌).
 
 
 《**SBS 어워즈 페스티벌**》(SBS Awards Festival)은 한 해 동안 SBS를 빛낸 스타들과 시청자들이 함께하는 방송축제로 SBS 인기 드라마, 예능, 시사·교양, 라디오프로그램의 콘텐츠를 시청자가 직접 체험할 수 있는 대규모 페스티벌이다.

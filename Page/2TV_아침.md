@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2TV ](https://ko.wikipedia.org/wiki/2TV_).
+> This article is converted from Wikipedia: [2TV 아침](https://ko.wikipedia.org/wiki/2TV_아침).
 
 
 《**2TV 아침**》은 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 아침 6시에 [KBS 2TV로](../Page/KBS_2TV.md "wikilink") 방송되었던 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").

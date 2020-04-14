@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2006 Live  Acoustic](https://ko.wikipedia.org/wiki/2006_Live__Acoustic).
+> This article is converted from Wikipedia: [2006 Live ＆ Acoustic](https://ko.wikipedia.org/wiki/2006_Live_＆_Acoustic).
 
 
 《**2006 Live & Acoustic**》은 [버즈의](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink") 첫 번째 라이브 음반이다.

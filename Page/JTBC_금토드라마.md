@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JTBC ](https://ko.wikipedia.org/wiki/JTBC_).
+> This article is converted from Wikipedia: [JTBC 금토드라마](https://ko.wikipedia.org/wiki/JTBC_금토드라마).
 
 
 **JTBC 금토드라마**는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [JTBC](../Page/JTBC.md "wikilink")를 통해 매주 [금요일](../Page/금요일.md "wikilink")과 [토요일](../Page/토요일.md "wikilink") [밤](https://ko.wikipedia.org/wiki/밤_\(시간\) "wikilink") 11시에 방송하는 [텔레비전](../Page/텔레비전.md "wikilink") [드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 20부작 사이의 미니시리즈 형식으로 현재 방영되고 있다.
@@ -9,13 +9,13 @@
 
 ## 방송 시간
 
-| 방송 채널                              | 방송 기간                         | 방송 시간             | 방송 분량 |
-| ---------------------------------- | ----------------------------- | ----------------- | ----- |
-| [JTBC](../Page/JTBC.md "wikilink") | 2014년 12월 12일 \~ 2015년 5월 23일 | 밤 9시 45분 \~ 밤 11시 | 75분   |
-| 2015년 5월 29일 \~ 2015년 7월 11일       | 밤 8시 40분 \~ 밤 9시 50분          | 70분               |       |
-| 2015년 7월 17일 \~ 2017년 1월 28일       | 밤 8시 30분 \~ 밤 9시 40분          |                   |       |
-| 2017년 2월 24일 \~ 2019년 7월 13일       | 밤 11시 \~ 밤 12시 20분            | 80분               |       |
-| 2019년 8월 9일 \~ 현재                  | 밤 10시 50분 \~ 밤 12시 20분        | 90분               |       |
+| 방송 채널                                                                               | 방송 기간                         | 방송 시간             | 방송 분량 |
+| ----------------------------------------------------------------------------------- | ----------------------------- | ----------------- | ----- |
+| [JTBC](../Page/JTBC.md "wikilink")                                                  | 2014년 12월 12일 \~ 2015년 5월 23일 | 밤 9시 45분 \~ 밤 11시 | 75분   |
+| 2015년 5월 29일 \~ 2015년 7월 11일                                                        | 밤 8시 40분 \~ 밤 9시 50분          | 70분               |       |
+| 2015년 7월 17일 \~ 2017년 1월 28일                                                        | 밤 8시 30분 \~ 밤 9시 40분          |                   |       |
+| 2017년 2월 24일 \~ 2019년 7월 13일                                                        | 밤 11시 \~ 밤 12시 20분            | 80분               |       |
+| [2019년](../Page/2019년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ **현재** | 밤 10시 50분 \~ 밤 12시 20분        | 90분               |       |
 
 ## 작품 목록
 
@@ -63,19 +63,19 @@
 #### 2019년
 
   - 《[리갈 하이](../Page/리갈_하이_\(2019년_드라마\).md "wikilink")》 : 2019년 2월 8일 \~ 2019년 3월 30일
-  - 《[아름다운 세상](https://ko.wikipedia.org/wiki/아름다운_세상_\(드라마\) "wikilink")》 : 2019년 4월 5일 \~ 2019년 5월 25일
+  - 《[아름다운 세상](../Page/아름다운_세상_\(드라마\).md "wikilink")》 : 2019년 4월 5일 \~ 2019년 5월 25일
   - 《[보좌관](https://ko.wikipedia.org/wiki/보좌관 "wikilink")》 : 2019년 6월 14일 \~ 2019년 7월 13일
-  - 《[멜로가 체질](https://ko.wikipedia.org/wiki/멜로가_체질 "wikilink")》 : 2019년 8월 9일 \~ 2019년 9월 28일 (밤 10시 50분으로 시간대 변경)
-  - 《[나의 나라](https://ko.wikipedia.org/wiki/나의_나라 "wikilink")》 : 2019년 10월 4일 \~ 2019년 11월 23일
-  - 《[초콜릿](https://ko.wikipedia.org/wiki/초콜릿_\(드라마\) "wikilink")》 : 2019년 11월 29일 \~ 2020년 1월 18일
+  - 《[멜로가 체질](../Page/멜로가_체질.md "wikilink")》 : 2019년 8월 9일 \~ 2019년 9월 28일 (밤 10시 50분으로 시간대 변경)
+  - 《[나의 나라](../Page/나의_나라.md "wikilink")》 : 2019년 10월 4일 \~ 2019년 11월 23일
+  - 《[초콜릿](../Page/초콜릿_\(드라마\).md "wikilink")》 : 2019년 11월 29일 \~ 2020년 1월 18일
 
-### 2020년대
+### [2020년대](https://ko.wikipedia.org/wiki/2020년대 "wikilink")
 
-#### 2020년
+#### [2020년](../Page/2020년.md "wikilink")
 
-  - 《[이태원 클라쓰](https://ko.wikipedia.org/wiki/이태원_클라쓰_\(드라마\) "wikilink")》 : 2020년 1월 31일 \~
-  - 《[부부의 세계](https://ko.wikipedia.org/wiki/부부의_세계 "wikilink")》 : 2020년 3월 27일 \~
-  - 《[우아한 친구들](https://ko.wikipedia.org/wiki/우아한_친구들 "wikilink")》
+  - 《[이태원 클라쓰](https://ko.wikipedia.org/wiki/이태원_클라쓰_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink")
+  - 《[부부의 세계](https://ko.wikipedia.org/wiki/부부의_세계 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") \~ **현재**
+  - 《[우아한 친구들](https://ko.wikipedia.org/wiki/우아한_친구들 "wikilink")》 :
 
 ## 각주
 

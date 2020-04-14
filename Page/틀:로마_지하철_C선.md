@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  C](https://ko.wikipedia.org/wiki/:__C).
+> This article is converted from Wikipedia: [틀:로마 지하철 C선](https://ko.wikipedia.org/wiki/틀:로마_지하철_C선).
 
 
 <div class="NavFrame" style="text-align:left; width:260px; background:#FFF; float:right; clear:right; margin-left: 2em;">

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DGC ](https://ko.wikipedia.org/wiki/DGC_).
+> This article is converted from Wikipedia: [DGC 레코드](https://ko.wikipedia.org/wiki/DGC_레코드).
 
 
 **DGC 레코드**()는 [유니버셜 뮤직 그룹](https://ko.wikipedia.org/wiki/유니버셜_뮤직_그룹 "wikilink") 소유의 [인터스코프-게펜-A\&M](https://ko.wikipedia.org/wiki/인터스코프-게펜-A&M "wikilink")의 종속회사로 운영되는 미국의 음반사다. DGC는 **데이비드 게펜 컴퍼니**(David Geffen Company)의 두문자다.

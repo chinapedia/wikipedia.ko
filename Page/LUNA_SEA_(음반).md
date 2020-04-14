@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LUNA SEA \(\)](https://ko.wikipedia.org/wiki/LUNA_SEA_\(\)).
+> This article is converted from Wikipedia: [LUNA SEA \(음반\)](https://ko.wikipedia.org/wiki/LUNA_SEA_\(음반\)).
 
 
 《**LUNA SEA**》는 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 첫 오리지널 앨범이다. 초회 한정반은 사진집 소책자 · 스티커 첨부. 2007년 12월 7일에, 최신 리마스터링 + DVD와의 2매 세트로 유니버설 뮤직에서 재발매되었다. DVD 내용은 「MOON」 「PRECIOUS...」의 라이브 영상( 모두 1991년 9월 19일·일본 청년관 공연의 영상) 이 2개의 영상은 1991년 9월 19일 일본 청년관의 것이지만 수록되고 있는 음성은 교체된 것이다. 2011년 3월 16일에 본 앨범에 수록된 10곡을 모두 새로 녹음하여 발매된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Chicago White Sox roster](https://ko.wikipedia.org/wiki/:Chicago_White_Sox_roster).
+> This article is converted from Wikipedia: [틀:Chicago White Sox roster](https://ko.wikipedia.org/wiki/틀:Chicago_White_Sox_roster).
 
 
   - 투수

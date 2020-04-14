@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STYLE \(LUNA SEA \)](https://ko.wikipedia.org/wiki/STYLE_\(LUNA_SEA_\)).
+> This article is converted from Wikipedia: [STYLE \(LUNA SEA의 음반\)](https://ko.wikipedia.org/wiki/STYLE_\(LUNA_SEA의_음반\)).
 
 
 《**STYLE**》는 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 5번째 정규 앨범이다. 첫회 한정반은 투명 픽쳐 특수 보석 케이스 사양 (5 종류). 2007년 12월 5일 최신 리마스터링 음원 및 「DESIRE」 「END OF SORROW」 「IN SILENCE」의 PV 가 수록된 DVD 와의 2장 세트로 유니버설 뮤직을 통해 재발매되었다.

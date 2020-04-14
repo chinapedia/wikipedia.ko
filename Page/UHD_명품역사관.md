@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UHD ](https://ko.wikipedia.org/wiki/UHD_).
+> This article is converted from Wikipedia: [UHD 명품역사관](https://ko.wikipedia.org/wiki/UHD_명품역사관).
 
 
 **UHD 명품역사관**은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시에 [KBS 1TV를](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 통해 [한국방송공사 대하드라마를](../Page/한국방송공사_대하드라마.md "wikilink") 재방송한 [텔레비전 드라마의](../Page/텔레비전_드라마.md "wikilink") 총칭이다.
@@ -9,14 +9,44 @@
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                        | 방송 기간                                                                                                                                                    | 방송 시간                                                                                   | 방송 분량 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                  | [2015년](../Page/2015년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") | 매주 [월요일](../Page/월요일.md "wikilink") \~ [금요일](../Page/금요일.md "wikilink") 오후 1:00 \~ 1:55 | 55분   |
-| [2015년](../Page/2015년.md "wikilink") [7월 20일](../Page/7월_20일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink")   | 매주 [월요일](../Page/월요일.md "wikilink") \~ [금요일](../Page/금요일.md "wikilink") 오후 1:00 \~ 1:50                                                                  | 50분                                                                                     |       |
-| [2015년](../Page/2015년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink")   | 매주 [월요일](../Page/월요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink") 오후 1:00 \~ 1:50                                                                  |                                                                                         |       |
-| [2016년](../Page/2016년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink")   | 매주 [월요일](../Page/월요일.md "wikilink") \~ [금요일](../Page/금요일.md "wikilink") 오전 11:00 \~ 11:50                                                                |                                                                                         |       |
-| [2017년](../Page/2017년.md "wikilink") [5월 30일](../Page/5월_30일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") |                                                                                                                                                          |                                                                                         |       |
-| [2018년](../Page/2018년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink")     |                                                                                                                                                          |                                                                                         |       |
+<table>
+<thead>
+<tr class="header">
+<th><p>방송 채널</p></th>
+<th><p>방송 기간</p></th>
+<th><p>방송 시간</p></th>
+<th><p>방송 분량</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_5일.md" title="wikilink">1월 5일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/7월_17일.md" title="wikilink">7월 17일</a></p></td>
+<td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/금요일.md" title="wikilink">금요일</a> 오후 1:00 ~ 1:55</p></td>
+<td><p>55분</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/7월_20일.md" title="wikilink">7월 20일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/8월_13일.md" title="wikilink">8월 13일</a></p></td>
+<td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/금요일.md" title="wikilink">금요일</a> 오후 1:00 ~ 1:50</p></td>
+<td><p>50분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/8월_17일.md" title="wikilink">8월 17일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/3월_24일.md" title="wikilink">3월 24일</a></p></td>
+<td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 오후 1:00 ~ 1:50</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/3월_28일.md" title="wikilink">3월 28일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a><br />
+<a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/5월_30일.md" title="wikilink">5월 30일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/10월_23일.md" title="wikilink">10월 23일</a><br />
+<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_9일.md" title="wikilink">4월 9일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/7월_24일.md" title="wikilink">7월 24일</a></p></td>
+<td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/금요일.md" title="wikilink">금요일</a> 오전 11:00 ~ 11:50</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 방영작
 

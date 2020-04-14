@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- S](https://ko.wikipedia.org/wiki/-_S).
+> This article is converted from Wikipedia: [라인-마인 S반](https://ko.wikipedia.org/wiki/라인-마인_S반).
 
 
 **라인-마인 S반**()은 [독일](../Page/독일.md "wikilink") [헤센주](https://ko.wikipedia.org/wiki/헤센주 "wikilink") [프랑크푸르트암마인](../Page/프랑크푸르트암마인.md "wikilink")과 그 주변 지역([라인-마인](https://ko.wikipedia.org/wiki/라인-마인 "wikilink")권)에서 운행되는 통근형 광역 철도 체계([S반](https://ko.wikipedia.org/wiki/S반 "wikilink"))의 총칭이다. 체계는 9개의 노선으로 구성되며, 그 중 8개의 노선은 프랑크푸르트 도심에 뚫린 [프랑크푸르트 도심 터널선을](https://ko.wikipedia.org/wiki/프랑크푸르트_도심_터널선 "wikilink") 경유하여 운행된다. DB 시각표 번호는 645이다.

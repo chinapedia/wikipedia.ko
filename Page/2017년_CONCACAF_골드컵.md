@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2017 CONCACAF ](https://ko.wikipedia.org/wiki/2017_CONCACAF_).
+> This article is converted from Wikipedia: [2017년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2017년_CONCACAF_골드컵).
 
 
 **2017년 CONCACAF 골드컵**(2017 CONCACAF Gold Cup)은 [2017년](../Page/2017년.md "wikilink") [7월 7일부터](../Page/7월_7일.md "wikilink") [7월 26일까지](../Page/7월_26일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 개최된 14번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink").
@@ -11,7 +11,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------- |
 | [클리블랜드](../Page/클리블랜드.md "wikilink")                                                                                         | [퍼스트에너지 스타디움](../Page/퍼스트에너지_스타디움.md "wikilink")                                  | 67,431  |
 | [덴버](../Page/덴버.md "wikilink")                                                                                               | [스포츠 어서리티 필드 앳 마일하이](https://ko.wikipedia.org/wiki/스포츠_어서리티_필드_앳_마일하이 "wikilink") | 76,125  |
-| [프리스코](https://ko.wikipedia.org/wiki/프리스코_\(텍사스주\) "wikilink") ([댈러스](../Page/댈러스.md "wikilink"))                            | [도요타 스타디움](../Page/도요타_스타디움_\(텍사스주\).md "wikilink")                               | 16,000  |
+| [프리스코](../Page/프리스코_\(텍사스주\).md "wikilink") ([댈러스](../Page/댈러스.md "wikilink"))                                               | [도요타 스타디움](../Page/도요타_스타디움_\(텍사스주\).md "wikilink")                               | 16,000  |
 | [알링턴](../Page/알링턴_\(텍사스주\).md "wikilink") ([댈러스](../Page/댈러스.md "wikilink"))                                                 | [AT\&T 스타디움](../Page/AT&T_스타디움.md "wikilink")                                     | 100,000 |
 | [해리슨](https://ko.wikipedia.org/wiki/해리슨_\(뉴저지주\) "wikilink") ([뉴욕](../Page/뉴욕.md "wikilink"))                                | [레드불 아레나](../Page/레드불_아레나_\(뉴저지주\).md "wikilink")                                 | 25,000  |
 | [휴스턴](../Page/휴스턴.md "wikilink")                                                                                             | [BBVA 컴패스 스타디움](../Page/BBVA_컴패스_스타디움.md "wikilink")                              | 22,000  |
@@ -560,7 +560,7 @@
 
   - [마르코 우레냐](../Page/마르코_우레냐.md "wikilink")
 
-  - [프란시스코 칼보](https://ko.wikipedia.org/wiki/프란시스코_칼보 "wikilink")
+  - [프란시스코 칼보](../Page/프란시스코_칼보.md "wikilink")
 
   - [아리엘 프란시스코 로드리게스](https://ko.wikipedia.org/wiki/아리엘_프란시스코_로드리게스 "wikilink")
 

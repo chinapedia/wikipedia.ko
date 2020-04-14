@@ -113,7 +113,7 @@
 
 :\# **Happy Darling**
 
-:\#: 가: 모치즈키 안나([나츠카와 시이나](https://ko.wikipedia.org/wiki/나츠카와_시이나 "wikilink"))
+:\#: 가: 모치즈키 안나([나츠카와 시이나](../Page/나츠카와_시이나.md "wikilink"))
 
 :\#: 작사: rino, 작곡·편곡: [야마모토 유우수케](https://ko.wikipedia.org/wiki/야마모토_유우수케 "wikilink")
 

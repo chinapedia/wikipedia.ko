@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [deCHU!!](https://ko.wikipedia.org/wiki/deCHU!!).
+> This article is converted from Wikipedia: [라디오de아이마CHU!!](https://ko.wikipedia.org/wiki/라디오de아이마CHU!!).
 
 
 **라디오de아이마CHU\!\!** (라디오데아이마츄)는 게임 '[THE IDOLM@STER 2](../Page/THE_IDOLM@STER_2.md "wikilink")'에 관련하는 [인터넷 라디오](../Page/인터넷_라디오.md "wikilink") 프로그램. '[라디오de아이마STAR☆](../Page/라디오de아이마STAR☆.md "wikilink")'의 후 프로그램으로서 2011년 4월 21일부터 2014년 11월 27일까지, 매주 목요일에 [애니메이트 TV에서](../Page/애니메이트_TV.md "wikilink") 전달되었다. 애니메이트 TV로 전달되고 있는 아이돌마스터 관련의 인터넷 라디오는, 2006년 4월 개시의 '[라디오de아이마SHOW\!](../Page/라디오de아이마SHOW!.md "wikilink")'로부터 거의 중단하는 일 없이 계속하고 있어, 이 프로그램이 5개째가 된다.

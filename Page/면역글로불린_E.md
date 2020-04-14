@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E](https://ko.wikipedia.org/wiki/_E).
+> This article is converted from Wikipedia: [면역글로불린 E](https://ko.wikipedia.org/wiki/면역글로불린_E).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IgE.jpg "wikilink")

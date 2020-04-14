@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TL \(\)](https://ko.wikipedia.org/wiki/TL_\(\)).
+> This article is converted from Wikipedia: [TL \(장르\)](https://ko.wikipedia.org/wiki/TL_\(장르\)).
 
 
 **TL** 또는 **틴즈 러브**(, )는 일본 만화 장르 분류 중 하나이다. 주로 TL로 표기한다.\[1\]

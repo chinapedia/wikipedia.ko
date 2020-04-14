@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M](https://ko.wikipedia.org/wiki/_M).
+> This article is converted from Wikipedia: [면역글로불린 M](https://ko.wikipedia.org/wiki/면역글로불린_M).
 
 
 [thumb|면역글로불린 M 항체 분자는 다섯 개 소단위로 이루어진다.
@@ -38,7 +38,7 @@ IgM은 감염성 질환을 진단하는데 유용하다. 환자의 혈청에 IgM
 
 IgM 항체는 [수혈](../Page/수혈.md "wikilink")을 받는 사람의 [혈액형](../Page/혈액형.md "wikilink")과 맞지 않는 혈액을 받았을 때 적혈구 [응집](https://ko.wikipedia.org/wiki/응집 "wikilink") 반응이 일어나는 주요 원인이다.
 
-IgM은 [2-머캅토에탄올](https://ko.wikipedia.org/wiki/2-머캅토에탄올 "wikilink")에 의해 [IgG](https://ko.wikipedia.org/wiki/IgG "wikilink")보다 민감하게 변성된다.\[16\] [면역분석법](https://ko.wikipedia.org/wiki/면역분석법 "wikilink")에 쓰이는 특정한 항-IgG와 항-IgM [이차항체](https://ko.wikipedia.org/wiki/이차항체 "wikilink")가 상용화되기 이전에는 이 기술을 이용하여 IgG와 IgM을 구별하였다. 혈청 시료와 항체를 반응시키고 2-머캅토에탄올을 처리하거나 혹은 역순으로 처리하여 항원과 반응한 항체가 IgM인지 IgG인지 결정하였다.\[17\]
+IgM은 [2-머캅토에탄올](../Page/2-머캅토에탄올.md "wikilink")에 의해 [IgG](https://ko.wikipedia.org/wiki/IgG "wikilink")보다 민감하게 변성된다.\[16\] [면역분석법](https://ko.wikipedia.org/wiki/면역분석법 "wikilink")에 쓰이는 특정한 항-IgG와 항-IgM [이차항체](https://ko.wikipedia.org/wiki/이차항체 "wikilink")가 상용화되기 이전에는 이 기술을 이용하여 IgG와 IgM을 구별하였다. 혈청 시료와 항체를 반응시키고 2-머캅토에탄올을 처리하거나 혹은 역순으로 처리하여 항원과 반응한 항체가 IgM인지 IgG인지 결정하였다.\[17\]
 
 ## 각주 및 참고 문헌
 

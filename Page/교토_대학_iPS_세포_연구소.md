@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  iPS  ](https://ko.wikipedia.org/wiki/__iPS__).
+> This article is converted from Wikipedia: [교토 대학 iPS 세포 연구소](https://ko.wikipedia.org/wiki/교토_대학_iPS_세포_연구소).
 
 
 [250px](https://ko.wikipedia.org/wiki/파일:CiRA_\(Center_for_iPS_Cell_Research_and_Application\)_at_Kyoto_University.jpg "wikilink") **교토 대학 iPS 세포 연구소**(, )는 [일본](../Page/일본.md "wikilink") [교토부](../Page/교토부.md "wikilink") [교토시](../Page/교토시.md "wikilink") [사쿄구](../Page/사쿄구.md "wikilink")에 위치한 [교토 대학](../Page/교토_대학.md "wikilink") 부설 연구소 중의 하나이다. 2010년 4월 1일에 설립됐다.

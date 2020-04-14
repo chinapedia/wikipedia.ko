@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [chop](https://ko.wikipedia.org/wiki/chop).
+> This article is converted from Wikipedia: [아슬아슬chop](https://ko.wikipedia.org/wiki/아슬아슬chop).
 
 
 〈**아슬아슬chop**〉()은 [일본](../Page/일본.md "wikilink")의 [음악 유닛](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [B'z](../Page/B'z.md "wikilink")의 스물여섯 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

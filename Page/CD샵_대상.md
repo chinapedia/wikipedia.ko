@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+> This article is converted from Wikipedia: [CD샵 대상](https://ko.wikipedia.org/wiki/CD샵_대상).
 
 
 **CD샵 대상**()은 일본의 음악상이다. 전일본 CD샵 점원 조합이 개최하며 일본의 CD샵 점원들의 투표만으로 수상자가 결졍된다. 일본 [서점 대상의](../Page/서점_대상.md "wikilink") 음악판이라고도 불린다\[1\]\[2\].

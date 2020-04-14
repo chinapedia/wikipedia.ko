@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H](https://ko.wikipedia.org/wiki/_H).
+> This article is converted from Wikipedia: [파이어니어 H](https://ko.wikipedia.org/wiki/파이어니어_H).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Pioneer_10_systems_diagram.svg "wikilink") **파이어니어 H**()는 [미국 항공우주국의](../Page/미국_항공우주국.md "wikilink") [파이어니어 계획](../Page/파이어니어_계획.md "wikilink") 중 일부로, 1974년 발사하기로 계획되었지만 발사되지 않은 [무인 우주 탐사선이다](https://ko.wikipedia.org/wiki/우주_탐사선 "wikilink"). 이 탐사선이 발사되었더라면 파이어니어 12호라는 이름을 받게 되었을 예정이었으나, 이후의 계획이었던 [파이어니어 금성 궤도선이](../Page/파이어니어_금성_궤도선.md "wikilink") 파이어니어 12호라고 불리게 되었다.

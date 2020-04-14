@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE IDOLM@STER ANIM@TION MASTER  SPECIAL](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER__SPECIAL).
+> This article is converted from Wikipedia: [THE IDOLM@STER ANIM@TION MASTER 생방임까 SPECIAL](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER_생방임까_SPECIAL).
 
 
 **'THE IDOLM@STER ANIM@TION MASTER 생방임까 SPECIAL**' (아이돌마스터 애니메이션 마스터 생방임까 스페셜)은 [2012년](../Page/2012년.md "wikilink") [8월 15일부터](../Page/8월_15일.md "wikilink") [일본 컬럼비아에서](../Page/일본_컬럼비아.md "wikilink") 발매되고 있는 애니메이션 '[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(애니메이션\).md "wikilink")' 및 게임 '[THE IDOLM@STER 2](../Page/THE_IDOLM@STER_2.md "wikilink")'의 [기획 앨범](https://ko.wikipedia.org/wiki/컨셉_앨범 "wikilink") 시리즈. 전7매.

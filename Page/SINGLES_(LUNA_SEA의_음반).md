@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SINGLES \(LUNA SEA \)](https://ko.wikipedia.org/wiki/SINGLES_\(LUNA_SEA_\)).
+> This article is converted from Wikipedia: [SINGLES \(LUNA SEA의 음반\)](https://ko.wikipedia.org/wiki/SINGLES_\(LUNA_SEA의_음반\)).
 
 
 《**SINGLES**》는 1997년 12월 17일에 발매된 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 첫 베스트 앨범이다.

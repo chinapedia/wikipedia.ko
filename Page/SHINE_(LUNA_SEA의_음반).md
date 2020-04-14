@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SHINE \(LUNA SEA \)](https://ko.wikipedia.org/wiki/SHINE_\(LUNA_SEA_\)).
+> This article is converted from Wikipedia: [SHINE \(LUNA SEA의 음반\)](https://ko.wikipedia.org/wiki/SHINE_\(LUNA_SEA의_음반\)).
 
 
 《**SHINE**》은 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 6번째 정규 앨범이다. 2007년 12월 5일 최신 리마스터링 음원 및 "STORM", "SHINE, "I for You"의 PV가 수록된 DVD가 포함된 2장 세트로 유니버설 뮤직에서 재발매되었다.

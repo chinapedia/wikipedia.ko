@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [deSHOW!](https://ko.wikipedia.org/wiki/deSHOW!).
+> This article is converted from Wikipedia: [라디오de아이마SHOW!](https://ko.wikipedia.org/wiki/라디오de아이마SHOW!).
 
 
 '''라디오de아이마SHOW\! '''(라디오데아이마쇼)는 [아케이드 게임](../Page/아케이드_게임.md "wikilink") '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")'로부터 파생한 [인터넷 라디오](../Page/인터넷_라디오.md "wikilink") 프로그램. [2006년](../Page/2006년.md "wikilink") (헤세이 18년) [4월 27일](../Page/4월_27일.md "wikilink") 전달 개시. 전77회+2회. [애니메이트 TV에서](../Page/애니메이트_TV.md "wikilink") 전달되었다. 매주 목요일 갱신. 정식적인 타이틀은 **'Radio of THE IDOLM@STER on the web 라디오de아이마Show\!**'. 애칭은 '라디마SHOW\! (라디마쇼)'.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The End of the World \( \)](https://ko.wikipedia.org/wiki/The_End_of_the_World_\(_\)).
+> This article is converted from Wikipedia: [The End of the World \(닥터 후\)](https://ko.wikipedia.org/wiki/The_End_of_the_World_\(닥터_후\)).
 
 
 "**The End of the World**" ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 방영 제목 : <첫 번째 시간여행>)은 영국의 [텔레비전 공상과학 드라마](https://ko.wikipedia.org/wiki/공상과학_드라마 "wikilink") 《[닥터 후](../Page/닥터_후.md "wikilink")》 [첫번째 시리즈의](../Page/닥터_후_\(시리즈_1\).md "wikilink") 두번째 에피소드이다. 각본은 총제작자인 [러셀 T 데이비스](../Page/러셀_T_데이비스.md "wikilink"), 감독은 [에이러스 린이](../Page/에이러스_린.md "wikilink") 맡았으며 영국에서 [2005년](../Page/2005년.md "wikilink") [4월 2일에](../Page/4월_2일.md "wikilink") 처음으로 방영되었다.

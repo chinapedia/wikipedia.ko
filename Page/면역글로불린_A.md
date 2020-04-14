@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
+> This article is converted from Wikipedia: [면역글로불린 A](https://ko.wikipedia.org/wiki/면역글로불린_A).
 
 
 [thumb|이합체형 IgA

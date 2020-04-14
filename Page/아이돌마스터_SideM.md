@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SideM](https://ko.wikipedia.org/wiki/_SideM).
+> This article is converted from Wikipedia: [아이돌마스터 SideM](https://ko.wikipedia.org/wiki/아이돌마스터_SideM).
 
 
 **'아이돌마스터 SideM**' (아이돌마스터 사이드 엠)은 '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")'의 세계관을 모티브로 하는 [모바일 장치](https://ko.wikipedia.org/wiki/모바일_장치 "wikilink") 전용의 [소셜 게임](https://ko.wikipedia.org/wiki/소셜_게임 "wikilink"). 주식회사 [DeNA](https://ko.wikipedia.org/wiki/DeNA "wikilink")가 운영·제공하는, [Mobage](https://ko.wikipedia.org/wiki/Mobage "wikilink")의 컨텐츠의 하나.

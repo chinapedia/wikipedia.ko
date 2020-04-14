@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [deSTAR](https://ko.wikipedia.org/wiki/deSTAR).
+> This article is converted from Wikipedia: [라디오de아이마STAR☆](https://ko.wikipedia.org/wiki/라디오de아이마STAR☆).
 
 
 **[라디오de아이마STAR☆](../Page/라디오de아이마STAR☆.md "wikilink")** (라디오데아이마스타)는 게임 '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")'시리즈에 관련하는 [인터넷 라디오](../Page/인터넷_라디오.md "wikilink") 프로그램. '[아이돌마스터 P.S.프로듀서](https://ko.wikipedia.org/wiki/아이돌마스터_P.S.프로듀서 "wikilink")'의 후 프로그램으로서 2009년 10월 8일부터 2011년 3월 31일까지, 매주 목요일에 [애니메이트 TV](../Page/애니메이트_TV.md "wikilink") 에서 전달되고 있었다.

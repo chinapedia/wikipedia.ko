@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Super Star \( \)](https://ko.wikipedia.org/wiki/Super_Star_\(_\)).
+> This article is converted from Wikipedia: [Super Star \(쥬얼리의 노래\)](https://ko.wikipedia.org/wiki/Super_Star_\(쥬얼리의_노래\)).
 
 
 〈**Super Star**〉는 일본에서 발매된 싱글이다. [2005년](../Page/2005년.md "wikilink") [3월 15일에](../Page/3월_15일.md "wikilink") 발매됐다.

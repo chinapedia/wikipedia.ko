@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBL ](https://ko.wikipedia.org/wiki/:KBL_).
+> This article is converted from Wikipedia: [틀:KBL 스틸상](https://ko.wikipedia.org/wiki/틀:KBL_스틸상).
 
 
 <onlyinclude></onlyinclude>

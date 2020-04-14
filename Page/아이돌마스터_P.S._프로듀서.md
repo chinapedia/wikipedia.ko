@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P.S. ](https://ko.wikipedia.org/wiki/_P.S._).
+> This article is converted from Wikipedia: [아이돌마스터 P.S. 프로듀서](https://ko.wikipedia.org/wiki/아이돌마스터_P.S._프로듀서).
 
 
 \<**[아이돌마스터 P.S. 프로듀서](../Page/아이돌마스터_P.S._프로듀서.md "wikilink")**\> (아이돌마스터 피에스 프로듀서)는 게임 \<[THE IDOLM@STER SP](../Page/THE_IDOLM@STER_SP.md "wikilink")\>에 관련하는 [인터넷 라디오](../Page/인터넷_라디오.md "wikilink") 프로그램. \<[아이돌마스터 Radio For You\!](../Page/아이돌마스터_Radio_For_You!.md "wikilink")\>의 후 프로그램으로서 [2008년](../Page/2008년.md "wikilink") [10월 15일부터](../Page/10월_15일.md "wikilink") [2009년](../Page/2009년.md "wikilink") [9월 16일까지](../Page/9월_16일.md "wikilink"), 매주 [수요일](../Page/수요일.md "wikilink")에 [애니메이트 TV에서](../Page/애니메이트_TV.md "wikilink") 전달되고 있었다. 후 프로그램으로서 \<[라디오de아이마STAR☆](../Page/라디오de아이마STAR☆.md "wikilink")\>가 전달되고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Citrus \(\)](https://ko.wikipedia.org/wiki/Citrus_\(\)).
+> This article is converted from Wikipedia: [Citrus \(만화\)](https://ko.wikipedia.org/wiki/Citrus_\(만화\)).
 
 
 **Citrus**()는 사브로 우타가 쓴 일본의 [백합](../Page/백합_\(장르\).md "wikilink") 만화이다. 2012년 11월 17일부터 이치진샤의 [코믹 유리히메](https://ko.wikipedia.org/wiki/코믹_유리히메 "wikilink") 지에서 연재중이다.

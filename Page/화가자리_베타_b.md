@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [화가자리 베타 b](https://ko.wikipedia.org/wiki/화가자리_베타_b).
 
 
 **화가자리 베타 b**는 지구로부터 [화가자리](../Page/화가자리.md "wikilink") 방향으로 약 63 광년 떨어진 곳에 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 이 행성의 [어머니 별은](../Page/외계_행성_주인별.md "wikilink") [화가자리 베타로](https://ko.wikipedia.org/wiki/화가자리_베타 "wikilink") 4등급 밝기로 빛나며 항성 주위에는 [먼지 원반이](../Page/먼지_원반.md "wikilink") 있다. b의 질량은 목성의 최소 4배에서 최대 11배 사이이며 반지름은 [목성](../Page/목성.md "wikilink")보다 65% 크다. 어머니 별로부터 9 천문단위 떨어져 있으며 먼지 원반면에서 가깝게 공전하고 있고 궤도이심률은 작다. 공전주기는 20\~21년이며 지금까지는 베타별 주위에서 발견된 유일한 행성이다.

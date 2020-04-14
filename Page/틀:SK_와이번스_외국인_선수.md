@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SK   ](https://ko.wikipedia.org/wiki/:SK___).
+> This article is converted from Wikipedia: [틀:SK 와이번스 외국인 선수](https://ko.wikipedia.org/wiki/틀:SK_와이번스_외국인_선수).
 
 
 <onlyinclude></onlyinclude>

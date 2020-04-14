@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IMAGE \(LUNA SEA \)](https://ko.wikipedia.org/wiki/IMAGE_\(LUNA_SEA_\)).
+> This article is converted from Wikipedia: [IMAGE \(LUNA SEA의 음반\)](https://ko.wikipedia.org/wiki/IMAGE_\(LUNA_SEA의_음반\)).
 
 
 《**IMAGE**》는 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 2번째 오리지널 앨범이며, 메이저 데뷔작이다. 첫회 한정반은 투명 사이드 라벨 사양이다. 2007년 12월 7일에, 최신 리마스터링 음원 + DVD와의 2매 세트로 유니버설 뮤직에서 재발매되었다. DVD의 내용은 「Dejavu」의 PV이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mr.Mr. \(\)](https://ko.wikipedia.org/wiki/Mr.Mr._\(\)).
+> This article is converted from Wikipedia: [Mr.Mr. \(노래\)](https://ko.wikipedia.org/wiki/Mr.Mr._\(노래\)).
 
 
 〈**Mr.Mr.**〉는 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 노래이다. 소녀시대의 네 번째 미니 앨범 《[Mr.Mr.](../Page/Mr.Mr._\(EP\).md "wikilink")》의 첫 번째 수록곡이자 타이틀곡이다. 2014년 2월 24일 [KT 뮤직을](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 통해 발매되었다. 소녀시대 전 멤버 [제시카의](../Page/제시카_\(가수\).md "wikilink") 탈퇴 전의 마지막 노래이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE BEST OF DETECTIVE CONAN \~  \~](https://ko.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_\~__\~).
+> This article is converted from Wikipedia: [THE BEST OF DETECTIVE CONAN \~명탐정 코난 테마곡집\~](https://ko.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_\~명탐정_코난_테마곡집\~).
 
 
 《**THE BEST OF DETECTIVE CONAN \~명탐정 코난 테마곡집\~**》은 [아오야마 고쇼](../Page/아오야마_고쇼.md "wikilink") 원작의 TV 애니메이션 《[명탐정 코난](../Page/명탐정_코난_\(애니메이션\).md "wikilink")》의 테마곡집이다. 2000년 11월 29일에 발매됐다.

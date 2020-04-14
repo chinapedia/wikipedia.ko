@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FRAME \(\)](https://ko.wikipedia.org/wiki/FRAME_\(\)).
+> This article is converted from Wikipedia: [FRAME \(음반\)](https://ko.wikipedia.org/wiki/FRAME_\(음반\)).
 
 
 《**FRAME**》은 2014년 11월 26일에 발표한 [국카스텐](../Page/국카스텐.md "wikilink")의 두 번째 정규 앨범이다. 이번 앨범은 1000장 한정의 특별판과 일반판 2종류로 발매되었다. 타이틀곡은 변신, 오이디푸스, 로스트 총 세 곡으로 그 중 변신의 뮤직비디오는 비주얼 아티스트 룸펜스가 감독을 맡았다. 또한 '불안의 에너지를 그리는 화가’ 서고운 작가가 앨범 아트워크에 참여하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Down \(  \)](https://ko.wikipedia.org/wiki/Down_\(__\)).
+> This article is converted from Wikipedia: [Down \(제이 숀의 노래\)](https://ko.wikipedia.org/wiki/Down_\(제이_숀의_노래\)).
 
 
 《**Down**》은 영국의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [제이 숀의](https://ko.wikipedia.org/wiki/제이_숀 "wikilink") 노래이다. 피쳐링에는 미국의 힙합 가수 [릴 웨인이](../Page/릴_웨인.md "wikilink") 참여 했으며, 이 노래는 제이 숀의 3집 앨범 [All or Nothing에](https://ko.wikipedia.org/wiki/All_or_Nothing "wikilink") 수록되어 있다.

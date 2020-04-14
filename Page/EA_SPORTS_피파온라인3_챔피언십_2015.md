@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EA SPORTS 3  2015](https://ko.wikipedia.org/wiki/EA_SPORTS_3__2015).
+> This article is converted from Wikipedia: [EA SPORTS 피파온라인3 챔피언십 2015](https://ko.wikipedia.org/wiki/EA_SPORTS_피파온라인3_챔피언십_2015).
 
 
 **EA SPORTS 피파온라인3 아디다스 챔피언십 2015**는 넥슨 코리아의 스포츠 게임 [피파 온라인 3의](https://ko.wikipedia.org/wiki/피파_온라인_3 "wikilink") E스포츠 리그이다.

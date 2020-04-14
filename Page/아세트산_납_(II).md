@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(II\)](https://ko.wikipedia.org/wiki/__\(II\)).
+> This article is converted from Wikipedia: [아세트산 납 \(II\)](https://ko.wikipedia.org/wiki/아세트산_납_\(II\)).
 
 
 **아세트산 납(Lead Acetate)**은 화학식 Pb(CH<sub>3</sub>COO)<sub>2</sub>으로 연당(sugar of lead), 초산납(醋酸-)이라고도 불리는 화합물이다. [납 산화물과](../Page/납.md "wikilink")(II) [초산](https://ko.wikipedia.org/wiki/초산 "wikilink")의 반응으로 생성되며, [물](https://ko.wikipedia.org/wiki/물 "wikilink")과 [글리세린](https://ko.wikipedia.org/wiki/글리세린 "wikilink")에 잘 녹는다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CIA      ](https://ko.wikipedia.org/wiki/CIA______).
+> This article is converted from Wikipedia: [CIA의 고문에 관한 미국 상원 정보위원회 보고서](https://ko.wikipedia.org/wiki/CIA의_고문에_관한_미국_상원_정보위원회_보고서).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:US_Senate_Report_on_CIA_Detention_Interrogation_Program.pdf "wikilink")

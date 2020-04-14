@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Destiny \(  \)](https://ko.wikipedia.org/wiki/Destiny_\(__\)).
+> This article is converted from Wikipedia: [Destiny \(마츠하시 미키의 노래\)](https://ko.wikipedia.org/wiki/Destiny_\(마츠하시_미키의_노래\)).
 
 
 〈**destiny**〉(데스티니, )는 [마츠하시 미키의](https://ko.wikipedia.org/wiki/마츠하시_미키 "wikilink") 두 번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [2001년](../Page/2001년.md "wikilink") [6월 16일에](../Page/6월_16일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.

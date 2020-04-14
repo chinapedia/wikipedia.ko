@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBL MVP](https://ko.wikipedia.org/wiki/:KBL_MVP).
+> This article is converted from Wikipedia: [틀:KBL MVP](https://ko.wikipedia.org/wiki/틀:KBL_MVP).
 
 
 <onlyinclude></onlyinclude>

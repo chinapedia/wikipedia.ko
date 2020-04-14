@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ The Contender](https://ko.wikipedia.org/wiki/_The_Contender).
+> This article is converted from Wikipedia: [대배틀 The Contender](https://ko.wikipedia.org/wiki/대배틀_The_Contender).
 
 
 《**대배틀 The Contender**》()는 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 게임 프로그램이다. [2월 16일을](../Page/2월_16일.md "wikilink") 끝으로 시즌 1 **대배틀**이 끝났으며, [3월 3일부터](../Page/3월_3일.md "wikilink") **대배틀 The Contender**라는 이름으로 시즌 2가 방영되었다가 [8월 4일을](../Page/8월_4일.md "wikilink") 끝으로 종영 되었다.
@@ -24,7 +24,7 @@
 | **1**      | [2014년](../Page/2014년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink")      | 이초홍, 메도우이헌터                                                                                          | [앵그리버드](../Page/앵그리버드.md "wikilink")                                                          |
 | **2**      | [2014년](../Page/2014년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink")    | 윤마, 머독                                                                                               | 포코팡                                                                                           |
 | **3**      | [2014년](../Page/2014년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink")    | [윰댕](../Page/윰댕.md "wikilink"), 불양                                                                   | [블레이드](https://ko.wikipedia.org/wiki/블레이드_\(2004년_게임\) "wikilink")                            |
-| **4**      | [2014년](../Page/2014년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink")    | 도로시, 액시스마이콜                                                                                          | [쿠키런](https://ko.wikipedia.org/wiki/쿠키런 "wikilink")                                           |
+| **4**      | [2014년](../Page/2014년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink")    | 도로시, 액시스마이콜                                                                                          | [쿠키런](../Page/쿠키런.md "wikilink")                                                              |
 | **5**\[1\] | [2014년](../Page/2014년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink")      | [오성균](../Page/오성균.md "wikilink"), [정덕기](https://ko.wikipedia.org/wiki/정덕기 "wikilink")                | 영웅의 군단                                                                                        |
 | **6**      | [2014년](../Page/2014년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink")    | 낙타, 돌재                                                                                               | [퍼즐 앤 드래곤](https://ko.wikipedia.org/wiki/퍼즐_앤_드래곤 "wikilink")                                 |
 | **7**      | [2014년](../Page/2014년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink")    | [클템](https://ko.wikipedia.org/wiki/클템 "wikilink"), [강민](https://ko.wikipedia.org/wiki/강민 "wikilink") | 몬스터샷                                                                                          |

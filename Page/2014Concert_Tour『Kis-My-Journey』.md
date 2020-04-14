@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014Concert TourKis-My-Journey](https://ko.wikipedia.org/wiki/2014Concert_TourKis-My-Journey).
+> This article is converted from Wikipedia: [2014Concert Tour『Kis-My-Journey』](https://ko.wikipedia.org/wiki/2014Concert_Tour『Kis-My-Journey』).
 
 
 『2014 Concert Tour Kis-My-Journey』은, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 6번째 [DVD](../Page/DVD.md "wikilink"),[Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink")이다.

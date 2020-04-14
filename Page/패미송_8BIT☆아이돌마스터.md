@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 8BIT](https://ko.wikipedia.org/wiki/_8BIT).
+> This article is converted from Wikipedia: [패미송 8BIT☆아이돌마스터](https://ko.wikipedia.org/wiki/패미송_8BIT☆아이돌마스터).
 
 
 **'패미송 8BIT☆아이돌마스터**' (패미송 에이트 비트☆아이돌마스터)는 [2008년](../Page/2008년.md "wikilink") [3월 25일부터](../Page/3월_25일.md "wikilink") [5 pb.Records에서](https://ko.wikipedia.org/wiki/5_pb.Records "wikilink") 발매되고 있는 게임 '[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")'의 [기획 앨범](https://ko.wikipedia.org/wiki/컨셉_앨범 "wikilink") 시리즈.

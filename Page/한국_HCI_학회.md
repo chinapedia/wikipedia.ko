@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HCI ](https://ko.wikipedia.org/wiki/_HCI_).
+> This article is converted from Wikipedia: [한국 HCI 학회](https://ko.wikipedia.org/wiki/한국_HCI_학회).
 
 
 **한국 HCI 학회**(The HCI Society of Korea)는 [인간과 컴퓨터의 상호작용](https://ko.wikipedia.org/wiki/인간과_컴퓨터의_상호작용 "wikilink") (HCI, Human Computer Interaction)에 관한 이론과 응용에 관련된 학문을 연구하는 모임이다. 이 학회의 활동 영역은 멀티미디어, 디지털 컨텐츠, 게임, 컴퓨터 그래픽스, 가상현실, 컴퓨터 언어, 인간 공학, 웹 디자인, 애니메이션, 대화형 인터페이스, 인지 심리학, 정보 디자인, 시각 디자인, 인지 공학, 철학, 사회학, 등 다양하다. 즉 인간과 컴퓨터 또는 사이버 공간과의 상호작용에 관련된 현상 및 기술을 연구하는 학술단체이며, 매년 2,000여명의 회원이 참여하는 학술대회를 개최하고 있다.

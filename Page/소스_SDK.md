@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SDK](https://ko.wikipedia.org/wiki/_SDK).
+> This article is converted from Wikipedia: [소스 SDK](https://ko.wikipedia.org/wiki/소스_SDK).
 
 
 **소스 SDK**()는 [소스 엔진 게임에서](https://ko.wikipedia.org/wiki/소스_엔진 "wikilink") 콘텐츠를 만드는 데 사용되며 [밸브 코퍼레이션에](../Page/밸브_코퍼레이션.md "wikilink") 개발된 [소프트웨어 개발 키트이다](../Page/소프트웨어_개발_키트.md "wikilink"). [레프트 4 데드](../Page/레프트_4_데드.md "wikilink"), [레프트 4 데드 2](../Page/레프트_4_데드_2.md "wikilink"), [카운터-스트라이크: 글로벌 오펜시브](../Page/카운터-스트라이크:_글로벌_오펜시브.md "wikilink"), [포털2](https://ko.wikipedia.org/wiki/포털2 "wikilink"), [팀 포트리스2와](https://ko.wikipedia.org/wiki/팀_포트리스2 "wikilink") 같은 게임의 특정 엔진에 맞게 스팀에 게임과 함께 제공된다.
