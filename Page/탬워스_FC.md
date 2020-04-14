@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [탬워스 FC](https://ko.wikipedia.org/wiki/탬워스_FC).
 
 
 **탬워스 풋볼 클럽**(Tamworth Football Club)은 [스태퍼드셔주](https://ko.wikipedia.org/wiki/스태퍼드셔주 "wikilink") [탬워스](https://ko.wikipedia.org/wiki/탬워스 "wikilink")를 연고로한 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [1933년](../Page/1933년.md "wikilink") 창단하였으며, 현재 [내셔널리그 노스에](../Page/내셔널리그_노스.md "wikilink") 속해있다.

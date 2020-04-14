@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KA ](https://ko.wikipedia.org/wiki/KA_).
+> This article is converted from Wikipedia: [KA에스마 문고](https://ko.wikipedia.org/wiki/KA에스마_문고).
 
 
 **KA 에스마 문고**(KAエスマ文庫)는 [교토 애니메이션이](../Page/교토_애니메이션.md "wikilink") 2011년부터 발행하는 [라이트 노벨의](https://ko.wikipedia.org/wiki/라이트노벨 "wikilink") [문고](../Page/문고본.md "wikilink") 레이블이다.

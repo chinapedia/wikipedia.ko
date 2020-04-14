@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I LOVE YOU \(  \)](https://ko.wikipedia.org/wiki/I_LOVE_YOU_\(__\)).
+> This article is converted from Wikipedia: [I LOVE YOU \(오자키 유타카의 노래\)](https://ko.wikipedia.org/wiki/I_LOVE_YOU_\(오자키_유타카의_노래\)).
 
 
 **I LOVE YOU**는 [오자키 유타카의](../Page/오자키_유타카.md "wikilink") 노래로, 1983년 발표한 첫 앨범 《[열일곱살의 지도](https://ko.wikipedia.org/wiki/열일곱살의_지도 "wikilink")》에 수록되어 있던 곡으로, 1991년에 싱글컷되었다.

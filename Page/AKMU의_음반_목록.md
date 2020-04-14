@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKMU  ](https://ko.wikipedia.org/wiki/AKMU__).
+> This article is converted from Wikipedia: [AKMU의 음반 목록](https://ko.wikipedia.org/wiki/AKMU의_음반_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink")의 어쿠스틱 듀오 그룹 [AKMU](../Page/AKMU.md "wikilink")의 **음반 목록**이다.
@@ -27,33 +27,33 @@
 <tr class="even">
 <td><p><em><a href="https://ko.wikipedia.org/wiki/PLAY_(악동뮤지션의_음반)" title="wikilink">PLAY</a></em></p></td>
 <td><ul>
-<li>발매일: 2014년 4월 7일</li>
-<li>레이블: <a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
-<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>발매일 : 2014년 4월 7일</li>
+<li>레이블 : <a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
+<li>포맷 : <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>—</p></td>
 <td><ul>
-<li>대한민국: 33,750+</li>
+<li>대한민국 : 33,750+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><em><a href="https://ko.wikipedia.org/wiki/사춘기_(악동뮤지션의_음반)" title="wikilink">사춘기 上권</a></em></p></td>
 <td><ul>
-<li>발매일: 2016년 5월 4일</li>
-<li>레이블: <a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
-<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>발매일 : 2016년 5월 4일</li>
+<li>레이블 : <a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
+<li>포맷 : <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>—</p></td>
 <td><ul>
-<li>대한민국:</li>
+<li>대한민국 :</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><em>사춘기 下하</em></p></td>
 <td><ul>
-<li>발매일: 2017년 1월 3일</li>
-<li>레이블: <a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
-<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
+<li>발매일 : 2017년 1월 3일</li>
+<li>레이블 : <a href="../Page/YG_엔터테인먼트.md" title="wikilink">YG 엔터테인먼트</a>, <a href="https://ko.wikipedia.org/wiki/KT_뮤직" title="wikilink">KT 뮤직</a></li>
+<li>포맷 : <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td><p>—</p></td>
 <td><ul>
@@ -99,7 +99,7 @@
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><ul>
-<li>대한민국: 1,436,302+<ref name="Gaon Year 2014">Sales references for "200%":</li>
+<li>대한민국 : 1,436,302+<ref name="Gaon Year 2014">Sales references for "200%":</li>
 <li><p></ref></p></li>
 </ul></td>
 </tr>
@@ -117,7 +117,7 @@
 <td><p>5</p></td>
 <td><p>8</p></td>
 <td><ul>
-<li>대한민국: 772,662+[5]</li>
+<li>대한민국 : 772,662+[5]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -126,7 +126,7 @@
 <td><p>1</p></td>
 <td><p>—</p></td>
 <td><ul>
-<li>대한민국: 722,351+[6]</li>
+<li>대한민국 : 722,351+[6]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -170,7 +170,7 @@
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><ul>
-<li>대한민국: 1,241,714+<ref>Sales references for "Don't Cross Your Legs":</li>
+<li>대한민국 : 1,241,714+<ref>Sales references for "Don't Cross Your Legs":</li>
 <li></li>
 <li></li>
 <li></li>
@@ -182,7 +182,7 @@
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><ul>
-<li>대한민국: 1,036,964+<ref>Sales references for "You are Attractive":</li>
+<li>대한민국 : 1,036,964+<ref>Sales references for "You are Attractive":</li>
 <li></li>
 <li></li>
 <li><p></ref></p></li>
@@ -195,7 +195,7 @@
 <td><p>3</p></td>
 <td><p>2</p></td>
 <td><ul>
-<li>대한민국: 814,844+<ref>Sales references for "Is It Ramen?":</li>
+<li>대한민국 : 814,844+<ref>Sales references for "Is It Ramen?":</li>
 <li><p></ref></p></li>
 </ul></td>
 </tr>
@@ -204,7 +204,7 @@
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><ul>
-<li>대한민국: 1,278,263+<ref>Sales references for "Crescendo":</li>
+<li>대한민국 : 1,278,263+<ref>Sales references for "Crescendo":</li>
 <li><p></ref></p></li>
 </ul></td>
 <td><p><em>SBS K팝 스타 시즌2 - TOP 6</em></p></td>
@@ -214,7 +214,7 @@
 <td><p>11</p></td>
 <td><p>14</p></td>
 <td><ul>
-<li>대한민국: --</li>
+<li>대한민국 : --</li>
 </ul></td>
 <td><p><em>SBS K팝 스타 시즌2 - TOP 4</em></p></td>
 </tr>
@@ -223,7 +223,7 @@
 <td><p>4</p></td>
 <td><p>6</p></td>
 <td><ul>
-<li>대한민국: 914,179+<ref>Sales references for "Foreigner's Confession":</li>
+<li>대한민국 : 914,179+<ref>Sales references for "Foreigner's Confession":</li>
 <li><p></ref></p></li>
 </ul></td>
 <td><p><em>SBS K팝 스타 시즌2 - TOP 3 Part 2</em></p></td>
@@ -233,7 +233,7 @@
 <td><p>11</p></td>
 <td><p>11</p></td>
 <td><ul>
-<li>대한민국: 580,075+(DL)</li>
+<li>대한민국 : 580,075+(DL)</li>
 </ul></td>
 <td><p><em>SBS K팝 스타 시즌2 - TOP 2 Special</em></p></td>
 </tr>
@@ -242,7 +242,7 @@
 <td><p>4</p></td>
 <td><p>2</p></td>
 <td><ul>
-<li>대한민국: 758,794+<ref>Sales references for "Bean Ice Flakes with Rice Cake":</li>
+<li>대한민국 : 758,794+<ref>Sales references for "Bean Ice Flakes with Rice Cake":</li>
 <li><p></ref></p></li>
 </ul></td>
 <td><p><em>콩떡빙수</em> CM 송</p></td>
@@ -273,7 +273,7 @@
 <td><p>7</p></td>
 <td><p>12</p></td>
 <td><ul>
-<li>대한민국: 437,530+<ref>Sales references for "Artificial Grass":</li>
+<li>대한민국 : 437,530+<ref>Sales references for "Artificial Grass":</li>
 <li><p></ref></p></li>
 </ul></td>
 <td><p><em><a href="https://ko.wikipedia.org/wiki/PLAY_(악동뮤지션의_음반)" title="wikilink">PLAY</a></em></p></td>
@@ -283,7 +283,7 @@
 <td><p>8</p></td>
 <td><p>15</p></td>
 <td><ul>
-<li>대한민국: 413,569+<ref>Sales references for "On The Subway":</li>
+<li>대한민국 : 413,569+<ref>Sales references for "On The Subway":</li>
 <li><p></ref></p></li>
 </ul></td>
 <td></td>
@@ -293,7 +293,7 @@
 <td><p>9</p></td>
 <td><p>13</p></td>
 <td><ul>
-<li>대한민국: 403,293+<ref>Sales references for "Little Star":</li>
+<li>대한민국 : 403,293+<ref>Sales references for "Little Star":</li>
 <li><p></ref></p></li>
 </ul></td>
 <td></td>
@@ -303,7 +303,7 @@
 <td><p>10</p></td>
 <td><p>21</p></td>
 <td><ul>
-<li>대한민국: 323,101+</li>
+<li>대한민국 : 323,101+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -312,7 +312,7 @@
 <td><p>11</p></td>
 <td><p>20</p></td>
 <td><ul>
-<li>대한민국: 336,140+</li>
+<li>대한민국 : 336,140+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -321,7 +321,7 @@
 <td><p>12</p></td>
 <td><p>22</p></td>
 <td><ul>
-<li>대한민국: 329,603+</li>
+<li>대한민국 : 329,603+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -330,7 +330,7 @@
 <td><p>13</p></td>
 <td><p>26</p></td>
 <td><ul>
-<li>대한민국: 297,270+</li>
+<li>대한민국 : 297,270+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -339,7 +339,7 @@
 <td><p>14</p></td>
 <td><p>31</p></td>
 <td><ul>
-<li>대한민국: 279,481+</li>
+<li>대한민국 : 279,481+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -383,7 +383,7 @@
 <td><p>3</p></td>
 <td><p>3</p></td>
 <td><ul>
-<li>대한민국: 1,131,136+<ref>Sales references for "I Love You":</li>
+<li>대한민국 : 1,131,136+<ref>Sales references for "I Love You":</li>
 <li><p></ref></p></li>
 </ul></td>
 </tr>
@@ -478,7 +478,7 @@
 <td><p>2017년 3월 14일</p></td>
 <td></td>
 <td></td>
-<td><p>`뜻밖의 만남` 여덟 번째<br />
+<td><p>'뜻밖의 만남' 여덟 번째<br />
 (<a href="../Page/양희은.md" title="wikilink">양희은</a> 싱글 프로젝트)</p></td>
 </tr>
 </tbody>

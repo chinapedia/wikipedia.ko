@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [One Of A Kind \( \)](https://ko.wikipedia.org/wiki/One_Of_A_Kind_\(_\)).
+> This article is converted from Wikipedia: [One Of A Kind \(지드래곤의 노래\)](https://ko.wikipedia.org/wiki/One_Of_A_Kind_\(지드래곤의_노래\)).
 
 
 ***One Of A Kind***()은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon의](../Page/지드래곤.md "wikilink") 노래이다. 이 노래는 2012년 9월 1일 발매 된 그의 두 번째 솔로 음반 *[One Of A Kind](https://ko.wikipedia.org/wiki/One_Of_A_Kind "wikilink")*에 수록 되어 있다.

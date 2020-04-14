@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L-](https://ko.wikipedia.org/wiki/L-).
+> This article is converted from Wikipedia: [L∞-대수](https://ko.wikipedia.org/wiki/L∞-대수).
 
 
 [수학](../Page/수학.md "wikilink")에서, **L<sub>∞</sub>-대수**() 또는 **호모토피 리 대수**()는 \(\mathbb Z\) 등급을 갖는 대수이다.\[1\]\[2\]\[3\] [리 대수의](../Page/리_대수.md "wikilink") 개념에서, [야코비 항등식이](https://ko.wikipedia.org/wiki/야코비_항등식 "wikilink") 오직 호모토피에 대하여 성립하도록 약화시킨 것이다.

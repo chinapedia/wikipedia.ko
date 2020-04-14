@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Op.1](https://ko.wikipedia.org/wiki/_Op.1).
+> This article is converted from Wikipedia: [이야기 Op.1](https://ko.wikipedia.org/wiki/이야기_Op.1).
 
 
 《**이야기 Op.1**》은 [종현](../Page/종현.md "wikilink")의 첫 번째 소품집 음반이다. 2015년 9월 17일 KT 뮤직을 통해 발매되었다.

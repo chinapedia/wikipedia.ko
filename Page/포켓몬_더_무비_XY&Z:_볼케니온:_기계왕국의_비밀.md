@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   XY\&Z: :  ](https://ko.wikipedia.org/wiki/___XY\&Z:_:__).
+> This article is converted from Wikipedia: [포켓몬 더 무비 XY\&Z: 볼케니온: 기계왕국의 비밀](https://ko.wikipedia.org/wiki/포켓몬_더_무비_XY\&Z:_볼케니온:_기계왕국의_비밀).
 
 
 《**포켓몬 더 무비 XY\&Z 볼케니온: 기계왕국의 비밀**》()는 [2016년](../Page/2016년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") 개봉하는 [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제19기 영화이다.

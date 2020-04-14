@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMO   ](https://ko.wikipedia.org/wiki/BMO___).
+> This article is converted from Wikipedia: [BMO 해리스 뱅크 센터](https://ko.wikipedia.org/wiki/BMO_해리스_뱅크_센터).
 
 
 **BMO 해리스 뱅크 센터**(BMO Harris Bank Center)은 [미국](../Page/미국.md "wikilink") [일리노이주](../Page/일리노이주.md "wikilink") [록퍼드에](../Page/록퍼드_\(일리노이주\).md "wikilink") 위치한 실내 경기장이다. 현재 [AHL](../Page/아메리칸_하키_리그.md "wikilink") [록퍼드 아이스호그스의](../Page/록퍼드_아이스호그스.md "wikilink") 홈구장으로 사용되고 있다.

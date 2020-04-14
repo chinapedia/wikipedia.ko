@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIXER \(\)](https://ko.wikipedia.org/wiki/FIXER_\(\)).
+> This article is converted from Wikipedia: [FIXER \(음반\)](https://ko.wikipedia.org/wiki/FIXER_\(음반\)).
 
 
 《**FIXER**》(픽서)는 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 24번째 정규 음반으로 2015년 12월 30일에 발매하였다. (통상판 [CD](../Page/콤팩트_디스크.md "wikilink"): UPCH-2068, 초회한정판 CD: UPCH-7095)\[1\] 《[DIVA](../Page/DIVA_\(나카모리_아키나의_음반\).md "wikilink")》이후 6년 4개월 만에 발매한 정규 음반으로 2015년 상반기와 하반기에 나카모리가 발표한 싱글 〈[Rojo -Tierra-](../Page/Rojo_-Tierra-.md "wikilink")〉와 〈[Unfixable](../Page/Unfixable.md "wikilink")〉이 이번 음반에 수록되었다. 이 음반에서도 나카모리가 Miran이라는 필명으로 작업한 곡 역시 수록되어 있다. 이번 음반의 커버는 눈을 감은 나카모리의 좌측과 우측 얼굴을 서로 이어 붙인 얼굴로 좌측 얼굴로 이어붙인 커버가 초회한정판, 우측 얼굴로 이어붙인 것이 통상판이다.

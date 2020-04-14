@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TD  ](https://ko.wikipedia.org/wiki/TD__).
+> This article is converted from Wikipedia: [TD 플레이스 아레나](https://ko.wikipedia.org/wiki/TD_플레이스_아레나).
 
 
 **TD 플레이스 아레나**(TD Place Arena) [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [오타와](../Page/오타와.md "wikilink")에 위치한 실내 경기장이다. 과거 [NHL](../Page/내셔널_하키_리그.md "wikilink") [오타와 세너터스와](../Page/오타와_세너터스.md "wikilink") [WHA](../Page/월드_하키_협회.md "wikilink") [오타와 시빅스](https://ko.wikipedia.org/wiki/오타와_시빅스 "wikilink"), [오타와 내셔널스의](https://ko.wikipedia.org/wiki/오타와_내셔널스 "wikilink") 홈경기장으로 사용했으면 현재 [CEBL](../Page/캐나디언_엘리트_바스켓볼_리그.md "wikilink") [오타와 블랙잭스의](https://ko.wikipedia.org/wiki/오타와_블랙잭스 "wikilink") 홈경기장으로 사용하고 있다.

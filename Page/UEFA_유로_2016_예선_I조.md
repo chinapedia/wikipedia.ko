@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2016  I](https://ko.wikipedia.org/wiki/UEFA__2016__I).
+> This article is converted from Wikipedia: [UEFA 유로 2016 예선 I조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_I조).
 
 
 이 문서는 **[UEFA 유로 2016 예선](../Page/UEFA_유로_2016_예선.md "wikilink")** I조에 대해서 다룬다.

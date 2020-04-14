@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KF ](https://ko.wikipedia.org/wiki/KF_).
+> This article is converted from Wikipedia: [KF 프리슈티나](https://ko.wikipedia.org/wiki/KF_프리슈티나).
 
 
 **KF 프리슈티나**()는 [코소보](../Page/코소보.md "wikilink") [프리슈티나](../Page/프리슈티나.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 홈 구장은 [파딜 보크리 경기장이다](https://ko.wikipedia.org/wiki/파딜_보크리_경기장 "wikilink"). 현재 코소보의 축구 리그인 [코소보 슈퍼리그에](../Page/코소보_슈퍼리그.md "wikilink") 소속되어 있으며, 코소보 슈퍼리그로 들어가기 전 [세르비아 몬테네그로 1부 리그에](../Page/세르비아_몬테네그로_1부_리그.md "wikilink") 소속되어 있었다.

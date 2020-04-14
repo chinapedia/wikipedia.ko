@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Forever \(  \)](https://ko.wikipedia.org/wiki/Forever_\(__\)).
+> This article is converted from Wikipedia: [Forever \(스파이스 걸스의 음반\)](https://ko.wikipedia.org/wiki/Forever_\(스파이스_걸스의_음반\)).
 
 
 ***Forever***는 [영국](../Page/영국.md "wikilink")의 여성 음악 그룹 [스파이스 걸스의](../Page/스파이스_걸스.md "wikilink") 세 번째 정규 음반이다. [버진 레코드에](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 의해 2000년 11월 6일 발매되었다.

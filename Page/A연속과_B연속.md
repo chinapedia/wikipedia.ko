@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A B](https://ko.wikipedia.org/wiki/A_B).
+> This article is converted from Wikipedia: [A연속과 B연속](https://ko.wikipedia.org/wiki/A연속과_B연속).
 
 
 철학에서, **A연속**과 **B연속**은 [사건](https://ko.wikipedia.org/wiki/사건 "wikilink") 사이의 시간 순서 관계의 두 가지 다른 설명이다. 두 연속은 사건 사이의 시간 관계를 설명하는 [시제](../Page/시제.md "wikilink")의 사용에 주로 다르다. 조건은 시간의 현실성에 대한 그의 주장의 일환으로 1908년에 스코틀랜드의 [관념론](../Page/관념론.md "wikilink") 철학자 [존 맥태거트가](https://ko.wikipedia.org/wiki/J._M._E._맥태거트 "wikilink") 도입했지만, 그 이후 [시간의 철학의](https://ko.wikipedia.org/wiki/시간의_철학 "wikilink") 현대적인 토론의 참조에 널리 사용되는 용어가 되었다.

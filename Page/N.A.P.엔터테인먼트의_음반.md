@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [N.A.P. ](https://ko.wikipedia.org/wiki/N.A.P._).
+> This article is converted from Wikipedia: [N.A.P.엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/N.A.P.엔터테인먼트의_음반).
 
 
 이 문서는 [N.A.P.엔터테인먼트](../Page/N.A.P.엔터테인먼트.md "wikilink")에서 발매한 음반 목록이다.

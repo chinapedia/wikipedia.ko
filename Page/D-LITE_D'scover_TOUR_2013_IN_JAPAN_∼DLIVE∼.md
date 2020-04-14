@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D-LITE D\'scover TOUR 2013 IN JAPAN DLIVE](https://ko.wikipedia.org/wiki/D-LITE_D\'scover_TOUR_2013_IN_JAPAN_DLIVE).
+> This article is converted from Wikipedia: [D-LITE D\'scover TOUR 2013 IN JAPAN ∼DLIVE∼](https://ko.wikipedia.org/wiki/D-LITE_D\'scover_TOUR_2013_IN_JAPAN_∼DLIVE∼).
 
 
 《**D-LITE D'scover TOUR 2013 IN JAPAN ∼DLIVE∼**》는 [대성의](../Page/대성_\(가수\).md "wikilink") 첫 번째 일본 투어이다. 이 투어는 당초 2013년 3월 23일\~24일 [신호와](https://ko.wikipedia.org/wiki/고베 "wikilink") 30일\~31일 [동경에서](../Page/도쿄.md "wikilink") 각각 2회씩 한정적인 단독 콘서트를 열 예정이었으나 현지 팬클럽 응모 신청이 폭주해 17개 도시 21회 공연으로 대폭 확대하였고, 19개 도시 총 25회 공연을 개최하였다.\[1\] 대성은 6월 18일 [요코하마 아레나에서](../Page/요코하마_아레나.md "wikilink") 열린 마지막 공연을 끝으로 총 10만 2천여명을 동원하며 3개월간 진행한 첫 아레나 투어를 성공적으로 마무리했다.\[2\]

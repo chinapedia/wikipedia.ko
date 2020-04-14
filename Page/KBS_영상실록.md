@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 영상실록](https://ko.wikipedia.org/wiki/KBS_영상실록).
 
 
 《**KBS 영상실록**》()은 한해의 주요한 사실이나 사건을 시간별로 나열해 돌아보는 KBS 기획 제작국에서 제작하는 기록 다큐멘터리 프로그램이다.

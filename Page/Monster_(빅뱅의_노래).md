@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Monster \( \)](https://ko.wikipedia.org/wiki/Monster_\(_\)).
+> This article is converted from Wikipedia: [Monster \(빅뱅의 노래\)](https://ko.wikipedia.org/wiki/Monster_\(빅뱅의_노래\)).
 
 
 ***Monster***()는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 노래이다. 이 노래는 2012년 6월 3일 발매 된 그들의 다섯 번째 EP 음반 *[Alive](https://ko.wikipedia.org/wiki/Alive_\(EP\) "wikilink")*의 스페셜 에디션 *Still Alive*의 타이틀곡이다. 음원 발매와 동시에 각 온라인 음원차트 1위를 차지했다.\[1\]

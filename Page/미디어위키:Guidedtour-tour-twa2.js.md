@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Guidedtour-tour-twa2.js](https://ko.wikipedia.org/wiki/:Guidedtour-tour-twa2.js).
+> This article is converted from Wikipedia: [미디어위키:Guidedtour-tour-twa2.js](https://ko.wikipedia.org/wiki/미디어위키:Guidedtour-tour-twa2.js).
 
 
 // The Wikipedia Adventure Mission 2

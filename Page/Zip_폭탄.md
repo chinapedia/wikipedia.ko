@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Zip ](https://ko.wikipedia.org/wiki/Zip_).
+> This article is converted from Wikipedia: [Zip 폭탄](https://ko.wikipedia.org/wiki/Zip_폭탄).
 
 
 **zip 폭탄**(zip bomb), **죽음의 zip**(zip of death), **압축 해제 폭탄**(decompression bomb)은 프로그램이나 시스템이 읽을 때 충돌하거나 뻗어버리게 만드는 악의적인 컴퓨터 [압축](https://ko.wikipedia.org/wiki/압축_소프트웨어 "wikilink") [파일이다](../Page/컴퓨터_파일.md "wikilink"). 이 파일은 전통적인 방식의 바이러스가 침입하기 편하게 [바이러스 검사 소프트웨어를](../Page/바이러스_검사_소프트웨어.md "wikilink") 꺼버리는 역할을 한다.

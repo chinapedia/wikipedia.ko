@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OVO ](https://ko.wikipedia.org/wiki/OVO_).
+> This article is converted from Wikipedia: [OVO 사운드](https://ko.wikipedia.org/wiki/OVO_사운드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:OVO_Sound.png "wikilink") **OVO 사운드**(OVO Sound)는 흔히 캐나다의 랩 가수 [드레이크와](https://ko.wikipedia.org/wiki/드레이크_\(가수\) "wikilink") 그의 친한 친구인 노아 "40" 셰빕과 올리버 엘 카팁이 2012년 설립한 레이블이다. [워너 브라더스 레코드의](https://ko.wikipedia.org/wiki/워너_브라더스_레코드 "wikilink") 산하 레이블이다.

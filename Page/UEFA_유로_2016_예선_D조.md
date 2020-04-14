@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2016  D](https://ko.wikipedia.org/wiki/UEFA__2016__D).
+> This article is converted from Wikipedia: [UEFA 유로 2016 예선 D조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_D조).
 
 
 이 문서는 **[UEFA 유로 2016 예선](../Page/UEFA_유로_2016_예선.md "wikilink")** D조에 대해서 다룬다.

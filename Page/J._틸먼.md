@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. ](https://ko.wikipedia.org/wiki/J._).
+> This article is converted from Wikipedia: [J. 틸먼](https://ko.wikipedia.org/wiki/J._틸먼).
 
 
 **조슈아 마이클 틸먼**(Joshua Michael Tillman, [1981년](../Page/1981년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. **J. 틸먼**(J. Tillman), **파더 존 미스티**(Father John Misty)라는 예명으로 활동한다.

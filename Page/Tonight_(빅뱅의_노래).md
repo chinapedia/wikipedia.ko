@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tonight \( \)](https://ko.wikipedia.org/wiki/Tonight_\(_\)).
+> This article is converted from Wikipedia: [Tonight \(빅뱅의 노래\)](https://ko.wikipedia.org/wiki/Tonight_\(빅뱅의_노래\)).
 
 
 〈**Tonight**〉는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 노래이다. 한국에서는 2년 3개월만에 컴백한 네 번째 미니 앨범 *[BIGBANG MINI 4](../Page/BIGBANG_MINI_4.md "wikilink")*의 타이틀곡으로 2011년 2월 24일 발매 되었다. 빅뱅의 리더 [G-Dragon이](../Page/지드래곤.md "wikilink") 작사하고, [T.O.P](../Page/T.O.P.md "wikilink")이 랩메이킹에 참여, [G-Dragon이](../Page/지드래곤.md "wikilink") e.knock과 함께 작곡한 곡으로 빅뱅 특유의 일렉트로니카적인 스타일에 아날로그의 감성을 더해, 댄스음악이면서도 서정적인 감성의 노래이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YG](https://ko.wikipedia.org/wiki/YG).
+> This article is converted from Wikipedia: [YG케이플러스](https://ko.wikipedia.org/wiki/YG케이플러스).
 
 
 **YG케이플러스**()는 대한민국의 모델 매니지먼트 전문기업이다.
@@ -120,7 +120,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/김필수" title="wikilink">김필수</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/안승준" title="wikilink">안승준</a></li>
 <li><a href="../Page/장기용_(1992년).md" title="wikilink">장기용</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/정성중" title="wikilink">정성중</a></li>
+<li><a href="../Page/정성중.md" title="wikilink">정성중</a></li>
 <li><a href="../Page/남주혁.md" title="wikilink">남주혁</a></li>
 <li><a href="../Page/주우재.md" title="wikilink">주우재</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/김보헌" title="wikilink">김보헌</a></li>
@@ -202,7 +202,7 @@
 
 ## 기획·제작
 
-  - 2015년 [네이버 캐스트](https://ko.wikipedia.org/wiki/네이버_캐스트 "wikilink") 《우리 헤어졌어요》 - CJ E\&M 디지털 스튜디오와 YG케이플러스, [메가몬스터](https://ko.wikipedia.org/wiki/메가몬스터 "wikilink") (구)스토리플랜트가 공동 기획한 웹드라마.
+  - 2015년 [네이버 캐스트](https://ko.wikipedia.org/wiki/네이버_캐스트 "wikilink") 《우리 헤어졌어요》 - CJ E\&M 디지털 스튜디오와 YG케이플러스, [메가몬스터](../Page/메가몬스터.md "wikilink") (구)스토리플랜트가 공동 기획한 웹드라마.
   - 2015년 [JTBC](../Page/JTBC.md "wikilink") 《스테파니리의 컬러풀 라이프》 - YG케이플러스, JTBC가 공동 제작한 썸머 리얼리티 프로그램.(YGK+TV(유튜브)와 네이버 TV 캐스트를 통해 공개)
 
 ## 각주

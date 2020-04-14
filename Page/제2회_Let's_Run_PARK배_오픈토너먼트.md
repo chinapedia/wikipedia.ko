@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2 Let\'s Run PARK ](https://ko.wikipedia.org/wiki/2_Let\'s_Run_PARK_).
+> This article is converted from Wikipedia: [제2회 Let\'s Run PARK배 오픈토너먼트](https://ko.wikipedia.org/wiki/제2회_Let\'s_Run_PARK배_오픈토너먼트).
 
 
 **제2회 Let's Run PARK배 오픈토너먼트**는 [2015년](../Page/2015년.md "wikilink") [9월 10일부터](../Page/9월_10일.md "wikilink") [12월 22일까지](../Page/12월_22일.md "wikilink") 약 4개월간 진행된 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). 결승에서는 [신진서](../Page/신진서.md "wikilink")가 [김명훈에게](https://ko.wikipedia.org/wiki/김명훈_\(바둑_기사\) "wikilink") 종합전적 2:1로 우승했다.

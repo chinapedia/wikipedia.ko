@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JR   ](https://ko.wikipedia.org/wiki/JR___).
+> This article is converted from Wikipedia: [JR 화물 컨테이너 형식](https://ko.wikipedia.org/wiki/JR_화물_컨테이너_형식).
 
 
 [JR 화물](https://ko.wikipedia.org/wiki/JR_화물 "wikilink") [컨테이너](../Page/컨테이너.md "wikilink") 형식()는 일본 화물 철도(JR 화물)에 재적하거나 재적한 컨테이너의 목록(사유 컨테이너를 포함)이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DCU ](https://ko.wikipedia.org/wiki/DCU_).
+> This article is converted from Wikipedia: [DCU 센터](https://ko.wikipedia.org/wiki/DCU_센터).
 
 
 **DCU 센터**(DCU Center)은 [미국](../Page/미국.md "wikilink") [매사추세츠주](../Page/매사추세츠주.md "wikilink") [우스터에](../Page/우스터_\(매사추세츠주\).md "wikilink") 위치한 실내 경기장이다. 과거 [AHL](../Page/아메리칸_하키_리그.md "wikilink") [우스터 아이스캐츠](../Page/우스터_아이스캐츠.md "wikilink"), [우스터 샤크스의](../Page/우스터_샤크스.md "wikilink") 홈경기장으로 사용했으며, 2017\~2018시즌부터 [ECHL](../Page/ECHL.md "wikilink") [우스터 레일러 HC가](https://ko.wikipedia.org/wiki/우스터_레일러_HC "wikilink") 사용할 예정이다.

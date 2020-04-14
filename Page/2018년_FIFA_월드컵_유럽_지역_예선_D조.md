@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2018 FIFA     D](https://ko.wikipedia.org/wiki/2018_FIFA_____D).
+> This article is converted from Wikipedia: [2018년 FIFA 월드컵 유럽 지역 예선 D조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선_D조).
 
 
 이 문서는 **[2018년 FIFA 월드컵 유럽 지역 예선](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_유럽_지역_예선#D조 "wikilink") D조**에 대해서 다룬다.

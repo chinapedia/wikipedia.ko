@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2012  B](https://ko.wikipedia.org/wiki/UEFA__2012__B).
+> This article is converted from Wikipedia: [UEFA 유로 2012 예선 B조](https://ko.wikipedia.org/wiki/UEFA_유로_2012_예선_B조).
 
 
 다음은 **[UEFA 유로 2012 예선](../Page/UEFA_유로_2012_예선.md "wikilink")** B조의 순위와 경기 결과이다.

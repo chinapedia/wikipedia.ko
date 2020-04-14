@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U.S.  ](https://ko.wikipedia.org/wiki/U.S.__).
+> This article is converted from Wikipedia: [U.S. 뱅크 아레나](https://ko.wikipedia.org/wiki/U.S._뱅크_아레나).
 
 
 **U.S. 뱅크 아레나**(U.S. Bank Arena)은 [미국](../Page/미국.md "wikilink") [오하이오주](../Page/오하이오주.md "wikilink") [신시내티](../Page/신시내티.md "wikilink")에 위치한 실내 경기장이다. 과거 [WHA](../Page/월드_하키_협회.md "wikilink") [신시내티 스팅거스의](https://ko.wikipedia.org/wiki/신시내티_스팅거스 "wikilink") 홈경기장으로 사용했으면, 현재 [IHL](https://ko.wikipedia.org/wiki/인터내셔널_하키_리그_\(1945년-2001년\) "wikilink")/[ECHL](../Page/ECHL.md "wikilink") [신시내티 사이클론즈의](../Page/신시내티_사이클론즈.md "wikilink") 홈경기장으로 사용되고 있다.

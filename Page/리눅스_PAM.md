@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PAM](https://ko.wikipedia.org/wiki/_PAM).
+> This article is converted from Wikipedia: [리눅스 PAM](https://ko.wikipedia.org/wiki/리눅스_PAM).
 
 
 **Linux Pluggable Authentication Modules** (PAM), 즉 리눅스 PAM은 리눅스 또는 [GNU/kFreeBSD](https://ko.wikipedia.org/wiki/GNU/kFreeBSD "wikilink") 시스템에서 애플리케이션과 서비스에 대한 동적 인증을 제공한다.\[1\]

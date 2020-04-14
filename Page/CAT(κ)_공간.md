@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CAT\(\) ](https://ko.wikipedia.org/wiki/CAT\(\)_).
+> This article is converted from Wikipedia: [CAT\(κ\) 공간](https://ko.wikipedia.org/wiki/CAT\(κ\)_공간).
 
 
 [기하학](../Page/기하학.md "wikilink")에서, **CAT(*κ*) 공간**(-空間, )은 [단면 곡률이](../Page/단면_곡률.md "wikilink") 어디서나 \(\kappa\) 이하인 [거리 공간이다](../Page/거리_공간.md "wikilink").

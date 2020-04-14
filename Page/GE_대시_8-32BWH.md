@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GE  8-32BWH](https://ko.wikipedia.org/wiki/GE__8-32BWH).
+> This article is converted from Wikipedia: [GE 대시 8-32BWH](https://ko.wikipedia.org/wiki/GE_대시_8-32BWH).
 
 
 **GE 대시 8-32BWH**()는 [미국](../Page/미국.md "wikilink") [제너럴 일렉트릭에서](../Page/제너럴_일렉트릭.md "wikilink") 개발한 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") 및 [전기](../Page/전기.md "wikilink") [기관차](../Page/기관차.md "wikilink")로 [미국](../Page/미국.md "wikilink")의 [철도](../Page/철도.md "wikilink") 기업인 [암트랙](../Page/암트랙.md "wikilink")의 발주로 개발 되었고 [1991년](../Page/1991년.md "wikilink")에 20대가 생산 되었다. 현재 운용하고 있는 회사는 [미국](../Page/미국.md "wikilink")의 철도 기업인 [암트랙](../Page/암트랙.md "wikilink"), [캘리포니아주](../Page/캘리포니아주.md "wikilink")의 철도 기업인 [암트랙 캘리포니아가](../Page/암트랙_캘리포니아.md "wikilink") 운용하고 있다.

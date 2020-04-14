@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L.    ](https://ko.wikipedia.org/wiki/_L.____).
+> This article is converted from Wikipedia: [플로이드 L. 메인스 베터런스 메모리얼 아레나](https://ko.wikipedia.org/wiki/플로이드_L._메인스_베터런스_메모리얼_아레나).
 
 
 **플로이드 L. 메인스 베터런스 메모리얼 아레나**(Floyd L. Maines Veterans Memorial Arena)은 [미국](../Page/미국.md "wikilink") [뉴욕주](../Page/뉴욕주.md "wikilink") [빙엄턴](../Page/빙엄턴.md "wikilink")에 위치한 실내 경기장이다. 과거 [AHL](../Page/아메리칸_하키_리그.md "wikilink") [빙엄턴 더스터스](../Page/빙엄턴_더스터스.md "wikilink"), [빙엄턴 훼일러즈](https://ko.wikipedia.org/wiki/빙엄턴_훼일러즈 "wikilink"), [빙엄턴 레인저스](../Page/빙엄턴_레인저스.md "wikilink"), [빙엄턴 세너터스의](../Page/빙엄턴_세너터스.md "wikilink") 홈경기장으로 사용했으며, 현재 [AHL](../Page/아메리칸_하키_리그.md "wikilink") [빙엄턴 데블스의](../Page/빙엄턴_데블스.md "wikilink") 홈경기장으로 사용되고 있다.

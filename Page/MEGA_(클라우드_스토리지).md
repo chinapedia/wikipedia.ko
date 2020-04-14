@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MEGA \( \)](https://ko.wikipedia.org/wiki/MEGA_\(_\)).
+> This article is converted from Wikipedia: [MEGA \(클라우드 스토리지\)](https://ko.wikipedia.org/wiki/MEGA_\(클라우드_스토리지\)).
 
 
 **MEGA**(메가)는 [킴 닷컴이](https://ko.wikipedia.org/wiki/킴_닷컴 "wikilink") 설립한 Mega Limited가 개발한 [클라우드](https://ko.wikipedia.org/wiki/클라우드 "wikilink"), [온라인 저장소](https://ko.wikipedia.org/wiki/파일_호스팅_서비스 "wikilink") 서비스이다. 한국어를 포함한 다양한 언어에 대응하며, 50GB의 용량의 저장소를 무료로 이용하는 것이 가능하다. MEGA라는 명칭은, "MEGA Encrypted Global Access"의 [재귀 약자이다](../Page/재귀_약자.md "wikilink").

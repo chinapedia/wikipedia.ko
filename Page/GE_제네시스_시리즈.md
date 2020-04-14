@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GE  ](https://ko.wikipedia.org/wiki/GE__).
+> This article is converted from Wikipedia: [GE 제네시스 시리즈](https://ko.wikipedia.org/wiki/GE_제네시스_시리즈).
 
 
 **GE 제네시스 시리즈**()는 [미국](../Page/미국.md "wikilink") [제너럴 일렉트릭에서](../Page/제너럴_일렉트릭.md "wikilink") 개발한 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") 및 [전기](../Page/전기.md "wikilink") [기관차](../Page/기관차.md "wikilink")로, [미국](../Page/미국.md "wikilink")의 [철도](../Page/철도.md "wikilink") 기업인 [암트랙](../Page/암트랙.md "wikilink")의 발주로 개발되었고 [1992년](../Page/1992년.md "wikilink")부터 [2001년](../Page/2001년.md "wikilink")까지 321대가 생산되었다. 현재 운용하고 있는 회사는 [미국](../Page/미국.md "wikilink")의 철도 기업인 [암트랙](../Page/암트랙.md "wikilink"), [메트로 노스 철도](../Page/메트로_노스_철도.md "wikilink"), [뉴저지 교통공사와](https://ko.wikipedia.org/wiki/뉴저지_교통공사 "wikilink") [캐나다](../Page/캐나다.md "wikilink")의 철도 기업인 [VIA 철도가](../Page/VIA_철도.md "wikilink") 운용하고 있다.

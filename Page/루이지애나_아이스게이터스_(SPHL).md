@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(SPHL\)](https://ko.wikipedia.org/wiki/__\(SPHL\)).
+> This article is converted from Wikipedia: [루이지애나 아이스게이터스 \(SPHL\)](https://ko.wikipedia.org/wiki/루이지애나_아이스게이터스_\(SPHL\)).
 
 
 **루이지애나 아이스게이터스**(Louisiana IceGators)는 [미국](../Page/미국.md "wikilink") [루이지애나주](../Page/루이지애나주.md "wikilink") [라피엣를](../Page/라피엣_\(루이지애나주\).md "wikilink") 연고지로 하는 2009년부터 2016년까지 SPHL 소속되었던 아이스 하키팀이다.

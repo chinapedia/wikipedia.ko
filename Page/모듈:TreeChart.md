@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TreeChart](https://ko.wikipedia.org/wiki/:TreeChart).
+> This article is converted from Wikipedia: [모듈:TreeChart](https://ko.wikipedia.org/wiki/모듈:TreeChart).
 
 
 require('Module:No globals')

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-P](https://ko.wikipedia.org/wiki/-P).
+> This article is converted from Wikipedia: [라플라스-P](https://ko.wikipedia.org/wiki/라플라스-P).
 
 
 **라플라스-P**(, ) 또는 **유로파 착륙선**()\[1\]은 [러시아 연방 우주국이](../Page/러시아_연방_우주국.md "wikilink") [목성계를](../Page/목성의_위성.md "wikilink") 연구하고 [가니메데에](../Page/가니메데_\(위성\).md "wikilink") 착륙선을 보내 탐사한다는, 현재 추진 중인 우주 탐사 계획이다.

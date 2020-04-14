@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHL ](https://ko.wikipedia.org/wiki/NHL_).
+> This article is converted from Wikipedia: [NHL 올스타전](https://ko.wikipedia.org/wiki/NHL_올스타전).
 
 
 ## 역대 올스타전

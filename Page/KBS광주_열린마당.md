@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS광주 열린마당](https://ko.wikipedia.org/wiki/KBS광주_열린마당).
 
 
 《**KBS광주 열린마당**》은 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink")에서 [KBS광주 1TV의](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink") 매주 [금요일](../Page/금요일.md "wikilink") 오전 8시 25분부터 9시 30분에 방송되는 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink")의 텔레비전 프로그램이다.

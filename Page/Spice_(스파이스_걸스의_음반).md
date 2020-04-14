@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [Spice \(  \)](https://ko.wikipedia.org/wiki/Spice_\(__\)).
+> This article is converted from Wikipedia: [Spice \(스파이스 걸스의 음반\)](https://ko.wikipedia.org/wiki/Spice_\(스파이스_걸스의_음반\)).
 
 
 ***Spice***는 [영국](../Page/영국.md "wikilink")의 여성 음악 그룹 [스파이스 걸스의](../Page/스파이스_걸스.md "wikilink") 첫 번째 정규 음반이다. [버진 레코드에](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 의해 유럽과 오세아니아에서는 1996년 11월과 미국에서는 1997년 2월 발매되었다.
 
 ## 앨범 설명
 
-스파이스 걸스의 데뷔앨범. 11월에 발매됐음에도 불구하고, 그 해 [영국](../Page/영국.md "wikilink")에서 가장 많이 팔린 앨범 2위를 기록했다. 발매 첫주 1위로 등장했으며, 무려 15주동안 1위를 차지하였다 (연속은 아님). 첫싱글 〈Wannabe〉가 전 세계 31개국 차트 1위라는 엄청난 기록을 세웠으며, 영국 뮤지션으로는 드물게 [미국](../Page/미국.md "wikilink") 빌보드 차트 정상도 차지했다. 이후에 발매된 3개의 싱글이 모두 UK 차트 1위에 오르는 기염을 토했다. 또한 전 세계에서는 2,800만장 이상 팔리면서 [걸 그룹](../Page/걸_그룹.md "wikilink") 역사상 가장 많이 팔린 앨범으로 기록되었다.
+스파이스 걸스의 데뷔앨범. 11월에 발매됐음에도 불구하고, 그 해 [영국](../Page/영국.md "wikilink")에서 가장 많이 팔린 앨범 2위를 기록했다. 발매 첫주 1위로 등장했으며, 무려 15주동안 1위를 차지하였다 (연속은 아님). 첫 싱글 "[Wannabe](https://ko.wikipedia.org/wiki/Wannabe "wikilink")"가 전 세계 31개국 차트 1위라는 엄청난 기록을 세웠으며, 영국 뮤지션으로는 드물게 [미국](../Page/미국.md "wikilink") 빌보드 차트 정상도 차지했다. 이후에 발매된 3개의 싱글이 모두 UK 차트 1위에 오르는 기염을 토했다. 또한 전 세계에서는 2,800만장 이상 팔리면서 [걸 그룹](../Page/걸_그룹.md "wikilink") 역사상 가장 많이 팔린 앨범으로 기록되었다.
 
 ## 트랙 리스트
 

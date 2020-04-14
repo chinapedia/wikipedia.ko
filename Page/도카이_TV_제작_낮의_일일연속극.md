@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV   ](https://ko.wikipedia.org/wiki/_TV___).
+> This article is converted from Wikipedia: [도카이 TV 제작 낮의 일일연속극](https://ko.wikipedia.org/wiki/도카이_TV_제작_낮의_일일연속극).
 
 
 **도카이 TV 제작 낮의 일일연속극**은 [도카이 TV가](../Page/도카이_TV.md "wikilink") 제작 한 다음 [후지 TV에서](../Page/후지_TV.md "wikilink") 월요일부터 금요일 13시 대 후반에 방송되는 [일일연속극](https://ko.wikipedia.org/wiki/일일연속극 "wikilink") 시리즈 프레임의 하나.

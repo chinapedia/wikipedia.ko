@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ARIA \(\)](https://ko.wikipedia.org/wiki/ARIA_\(\)).
+> This article is converted from Wikipedia: [ARIA \(잡지\)](https://ko.wikipedia.org/wiki/ARIA_\(잡지\)).
 
 
 《**ARIA**》(アリア)는 [고단샤](../Page/고단샤.md "wikilink")가 발행하는 [일본](../Page/일본.md "wikilink")의 [월간](../Page/정기간행물.md "wikilink") [만화 잡지이다](https://ko.wikipedia.org/wiki/만화_잡지 "wikilink"). [2010년](../Page/2010년.md "wikilink")에 창간되었고, 발매일은 매월 28일이다. (발행월의 전전월에 발매)

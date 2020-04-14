@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NHL](https://ko.wikipedia.org/wiki/:NHL).
+> This article is converted from Wikipedia: [틀:NHL](https://ko.wikipedia.org/wiki/틀:NHL).
 
 
 <onlyinclude></onlyinclude>

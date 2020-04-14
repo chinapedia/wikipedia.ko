@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Number 1 \( \)](https://ko.wikipedia.org/wiki/Number_1_\(_\)).
+> This article is converted from Wikipedia: [Number 1 \(빅뱅의 노래\)](https://ko.wikipedia.org/wiki/Number_1_\(빅뱅의_노래\)).
 
 
 〈**Number 1**〉은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 노래이다. 일본에서 첫 번째 정규 앨범 *[Number 1](../Page/Number_1_\(빅뱅의_음반\).md "wikilink")*의 타이틀곡으로 2008년 10월 22일 발매 되었다. 스웨덴 프로듀싱팀 실버룸(Silverroom)이 작사, 작곡에 참여한 노래이다. [YG 엔터테인먼트는](../Page/YG_엔터테인먼트.md "wikilink") 일본 음반 발매와 동시에 공개할 예정이었던 음원과 뮤직 비디오를 2주 앞당겨 2008년 10월 9일 선공개 하였다.\[1\]

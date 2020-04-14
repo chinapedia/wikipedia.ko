@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ami \(AV \)](https://ko.wikipedia.org/wiki/Ami_\(AV_\)).
+> This article is converted from Wikipedia: [Ami \(AV 배우\)](https://ko.wikipedia.org/wiki/Ami_\(AV_배우\)).
 
 
 **Ami**(, [1986년](../Page/1986년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [성인 비디오 여배우이자](https://ko.wikipedia.org/wiki/성인_비디오_여배우 "wikilink"), [걸 그룹](../Page/걸_그룹.md "wikilink") [에비스 마스캇츠의](../Page/에비스_마스캇츠.md "wikilink") 결성 멤버다.

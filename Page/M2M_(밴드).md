@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [M2M \(\)](https://ko.wikipedia.org/wiki/M2M_\(\)).
+> This article is converted from Wikipedia: [M2M \(밴드\)](https://ko.wikipedia.org/wiki/M2M_\(밴드\)).
 
 
 **M2M**는 1998년부터 2002년까지 활동한 [노르웨이](../Page/노르웨이.md "wikilink")의 여성 듀오이다. [오슬로](../Page/오슬로.md "wikilink") 동부 교외에 위치한 [뢰렌스코그](https://ko.wikipedia.org/wiki/뢰렌스코그 "wikilink") 출신 가수, 작곡가인 [마리트 라르센](https://ko.wikipedia.org/wiki/마리트_라르센 "wikilink"), [마리온 라븐으로](https://ko.wikipedia.org/wiki/마리온_라븐 "wikilink") 구성되었다. 자신들이 직접 노래를 작곡하고 악기를 연주한 것으로 유명하다.

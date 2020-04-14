@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I.D.](https://ko.wikipedia.org/wiki/_I.D.).
+> This article is converted from Wikipedia: [노 I.D.](https://ko.wikipedia.org/wiki/노_I.D.).
 
 
 **어네스트 디온 윌슨** (Ernest Dion Wilson)은 흔히 **노 ID (No I.D.)**로 불리는 [미국](../Page/미국.md "wikilink") [일리노이주](../Page/일리노이주.md "wikilink") [시카고](../Page/시카고.md "wikilink") 출신의 [음악 프로듀서이다](../Page/음악_프로듀서.md "wikilink"). 1989년 부터 커리어를 시작하였으며, 1997년 자신의 정규 음반 *Accept Your Own and Be Yourself (The Black Album)*을 발매하였다. [카니예 웨스트의](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink") "[Heartless](https://ko.wikipedia.org/wiki/Heartless "wikilink")", [제이지](https://ko.wikipedia.org/wiki/제이지 "wikilink")의 "[Run This Town](../Page/Run_This_Town.md "wikilink")"와 "[Holy Grail](https://ko.wikipedia.org/wiki/Holy_Grail "wikilink")", [드레이크의](https://ko.wikipedia.org/wiki/드레이크_\(가수\) "wikilink") "[Find Your Love](https://ko.wikipedia.org/wiki/Find_Your_Love "wikilink")" 등 유명한 곡들의 프로듀싱에 참여하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2012  G](https://ko.wikipedia.org/wiki/UEFA__2012__G).
+> This article is converted from Wikipedia: [UEFA 유로 2012 예선 G조](https://ko.wikipedia.org/wiki/UEFA_유로_2012_예선_G조).
 
 
 다음은 **[UEFA 유로 2012 예선](../Page/UEFA_유로_2012_예선.md "wikilink")** G조의 순위와 경기 결과이다.

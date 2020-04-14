@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HEX](https://ko.wikipedia.org/wiki/_HEX).
+> This article is converted from Wikipedia: [인텔 HEX](https://ko.wikipedia.org/wiki/인텔_HEX).
 
 
 **인텔 HEX**(Intel HEX)는 [ASCII](https://ko.wikipedia.org/wiki/미국정보교환표준부호 "wikilink") 텍스트 형식으로 이진 정보를 전달하는 [파일 형식이다](https://ko.wikipedia.org/wiki/파일_형식 "wikilink"). 이것은 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink"), [EPROM](../Page/EPROM.md "wikilink") 그리고 다른 [논리 장치의](../Page/설계_가능_논리_소자.md "wikilink") 프로그래밍을 위해 흔히 사용된다. 대표적으로 [컴파일러](../Page/컴파일러.md "wikilink")나 [어셈블러는](https://ko.wikipedia.org/wiki/어셈블리어#어셈블러 "wikilink") [컴퓨터 프로그램의](../Page/컴퓨터_프로그램.md "wikilink") [소스 코드를](../Page/소스_코드.md "wikilink") (예를 들어 [C나](../Page/C_\(프로그래밍_언어\).md "wikilink") [어셈블리어](../Page/어셈블리어.md "wikilink")) [기계어](../Page/기계어.md "wikilink")로 변환하고, 이를 HEX 파일로 출력한다. 그리고 나서 이 HEX 파일은 [소자 프로그래머가](../Page/소자_프로그래머.md "wikilink") 읽어서 [ROM를](../Page/고정_기억_장치.md "wikilink") 굽거나, 메모리에 올리고 실행하기 위해 목적 시스템으로 전송된다.\[1\]

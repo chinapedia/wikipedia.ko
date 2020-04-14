@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2016  G](https://ko.wikipedia.org/wiki/UEFA__2016__G).
+> This article is converted from Wikipedia: [UEFA 유로 2016 예선 G조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_G조).
 
 
 이 문서는 **[UEFA 유로 2016 예선](../Page/UEFA_유로_2016_예선.md "wikilink")** G조에 대해서 다룬다.

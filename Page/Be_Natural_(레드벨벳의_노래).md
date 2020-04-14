@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Be Natural \( \)](https://ko.wikipedia.org/wiki/Be_Natural_\(_\)).
+> This article is converted from Wikipedia: [Be Natural \(레드벨벳의 노래\)](https://ko.wikipedia.org/wiki/Be_Natural_\(레드벨벳의_노래\)).
 
 
 〈**Be Natural**〉은 [S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")-《[Be Natural](https://ko.wikipedia.org/wiki/A_Letter_From_Greenland "wikilink")》를 리메이크한 음악 그룹 [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 노래이다.

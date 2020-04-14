@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T.O.P  ](https://ko.wikipedia.org/wiki/T.O.P__).
+> This article is converted from Wikipedia: [T.O.P의 음반 목록](https://ko.wikipedia.org/wiki/T.O.P의_음반_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink")의 [남자](https://ko.wikipedia.org/wiki/남자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [T.O.P](../Page/T.O.P.md "wikilink")(본명: 최승현)의 **음반 목록**이다.

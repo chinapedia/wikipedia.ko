@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2016  A](https://ko.wikipedia.org/wiki/UEFA__2016__A).
+> This article is converted from Wikipedia: [UEFA 유로 2016 예선 A조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_예선_A조).
 
 
 이 문서는 **[UEFA 유로 2016 예선](../Page/UEFA_유로_2016_예선.md "wikilink")** A조에 대해서 다룬다.

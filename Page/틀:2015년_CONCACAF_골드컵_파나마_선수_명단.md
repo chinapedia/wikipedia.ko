@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2015 CONCACAF    ](https://ko.wikipedia.org/wiki/:2015_CONCACAF____).
+> This article is converted from Wikipedia: [틀:2015년 CONCACAF 골드컵 파나마 선수 명단](https://ko.wikipedia.org/wiki/틀:2015년_CONCACAF_골드컵_파나마_선수_명단).
 
 
 <onlyinclude></onlyinclude>

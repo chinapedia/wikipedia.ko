@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Love Song \( \)](https://ko.wikipedia.org/wiki/Love_Song_\(_\)).
+> This article is converted from Wikipedia: [Love Song \(빅뱅의 노래\)](https://ko.wikipedia.org/wiki/Love_Song_\(빅뱅의_노래\)).
 
 
 〈**Love Song**〉은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 노래이다. 한국에서는 2년 3개월만에 컴백한 네 번째 미니 앨범 *[BIGBANG MINI 4](../Page/BIGBANG_MINI_4.md "wikilink")*의 스페셜에디션 *[빅뱅 스페셜에디션](../Page/BIGBANG_MINI_4.md "wikilink")*의 더블 타이틀곡으로 2011년 4월 8일 발매 되었다. 빅뱅의 리더 [G-Dragon과](../Page/지드래곤.md "wikilink") [Teddy가](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 공동 작사, 작곡한 곡으로 하우스 일렉트로닉 리듬에 록의 느낌을 더해 달콤한 멜로디와 몽환적인 분위가 매력적이다. 특히 전체적으로 서정적이면서도 애잔한 멜로디로 사랑과 이별이란 주제를 오가는 독특한 구성의 노래이다.\[1\]

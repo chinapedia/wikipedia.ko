@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USSF  2  ](https://ko.wikipedia.org/wiki/USSF__2__).
+> This article is converted from Wikipedia: [USSF 디비전 2 프로페셔널 리그](https://ko.wikipedia.org/wiki/USSF_디비전_2_프로페셔널_리그).
 
 
 **USSF 디비전 2 프로페셔널 리그**(USSF Division 2 Professional League)은 미국 축구 2부 리그이며, 2010년이후 사라진 리그이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F\(x\) the 1st concert DIMENSION 4  Docking Station](https://ko.wikipedia.org/wiki/F\(x\)_the_1st_concert_DIMENSION_4__Docking_Station).
+> This article is converted from Wikipedia: [F\(x\) the 1st concert DIMENSION 4 – Docking Station](https://ko.wikipedia.org/wiki/F\(x\)_the_1st_concert_DIMENSION_4_–_Docking_Station).
 
 
 《**f(x) the 1st concert DIMENSION 4 – Docking Station**》은 대한민국의 음악 그룹 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 첫 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").

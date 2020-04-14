@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [오래된 TV](https://ko.wikipedia.org/wiki/오래된_TV).
 
 
 《**오래된 TV**》는 매주 [토요일](../Page/토요일.md "wikilink") 밤 11시에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
 
 ## 기획 의도
 
-한국전쟁 후 50-60년대가 한국경제의 융성기였다면 경제성장을 기반으로한 70-80년대는 자본주의 한국문화의 씨앗이 자란 발원지이다. 현재 한국사회가 향유하고 있는 각종 문화의 뿌리로써의 70-80문화\~\~ [오래된 TV](../Page/오래된_TV.md "wikilink") 는 당시의 문화를 미시적이고 입체적으로 회고해 봄으로써 풋풋한 향수는 물론 30여년에 걸쳐 자라온 현시대 한국문화의 변천사를 되짚어볼 것이다.
+한국전쟁 후 50-60년대가 한국경제의 융성기였다면 경제성장을 기반으로한 70-80년대는 자본주의 한국문화의 씨앗이 자란 발원지이다. 현재 한국사회가 향유하고 있는 각종 문화의 뿌리로써의 70-80문화\~\~ [오래된 TV는](../Page/오래된_TV.md "wikilink") 당시의 문화를 미시적이고 입체적으로 회고해 봄으로써 풋풋한 향수는 물론 30여년에 걸쳐 자라온 현시대 한국문화의 변천사를 되짚어볼 것이다.
 
 ## 방송 시간
 

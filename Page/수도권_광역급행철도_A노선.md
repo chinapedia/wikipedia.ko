@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  A](https://ko.wikipedia.org/wiki/__A).
+> This article is converted from Wikipedia: [수도권 광역급행철도 A노선](https://ko.wikipedia.org/wiki/수도권_광역급행철도_A노선).
 
 
 **수도권 광역급행철도 A노선** (首都圈 廣域急行鐵道 A路線)은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [파주시](../Page/파주시.md "wikilink") 운정역과 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [화성시](https://ko.wikipedia.org/wiki/화성시 "wikilink")의 [동탄역](../Page/동탄역.md "wikilink")을 잇게 될 [수도권 광역급행철도](../Page/수도권_광역급행철도.md "wikilink") 노선이다.\[1\] 이 구간 중 [삼성](../Page/삼성역.md "wikilink") \~ [동탄](../Page/동탄역.md "wikilink") 구간은 **삼성-동탄 광역급행철도**(三成-東灘 廣域急行鐵道)로 우선 추진되고 있으며\<ref name="기본계획 고시\>[국토교통부고시 제2015-159호](http://www.molit.go.kr/USR/I0204/m_45/dtl.jsp?idx=13104) “삼성\~동탄 광역급행철도 건설사업 기본계획 고시”</ref>, [수서](../Page/수서역.md "wikilink") \~ [동탄](../Page/동탄역.md "wikilink") 구간은 [수서평택고속선](https://ko.wikipedia.org/wiki/수서평택고속선 "wikilink")과 노선을 공용한다. [SRT](https://ko.wikipedia.org/wiki/SRT "wikilink")가 [경의선](../Page/경의선.md "wikilink")에 진입하여 [문산역](../Page/문산역.md "wikilink")까지 운행할 것을 염두해두고, [대곡역](https://ko.wikipedia.org/wiki/대곡역 "wikilink")과 [경의선](../Page/경의선.md "wikilink") [백마역](../Page/백마역.md "wikilink") 간에 연결선 설치 계획도 있다.
@@ -133,8 +133,8 @@
 <a href="../Page/수도권_광역급행철도_B노선.md" title="wikilink">수도권 광역급행철도 B노선</a> (예정)<br />
 <span style="color: {{한국 철도 노선색|NT|SN}};">■</span> <a href="../Page/신안산선.md" title="wikilink">신안산선</a>(예정)</p></td>
 <td></td>
-<td><p><a href="../Page/중구_(서울특별시).md" title="wikilink">중구</a></p></td>
 <td></td>
+<td><p><a href="../Page/중구_(서울특별시).md" title="wikilink">중구</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

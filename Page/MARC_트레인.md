@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MARC ](https://ko.wikipedia.org/wiki/MARC_).
+> This article is converted from Wikipedia: [MARC 트레인](https://ko.wikipedia.org/wiki/MARC_트레인).
 
 
 **MARC 트레인**(, 이하 줄여서 **MARC**)는 미국 [메릴랜드주](../Page/메릴랜드주.md "wikilink") 지역에 여객 철도 운송업을 하는 준공영 기업이다. [1984년](../Page/1984년.md "wikilink")에 설립되었으며 [암트랙](../Page/암트랙.md "wikilink")이 [메릴랜드 트랜짓 어드미니스트레이션과](https://ko.wikipedia.org/wiki/메릴랜드_트랜짓_어드미니스트레이션 "wikilink") 계약을 맺고 [봄바디어 트랜스포테이숀이](../Page/봄바디어_트랜스포테이숀.md "wikilink") 공동으로 관리한다. [미국](../Page/미국.md "wikilink")의 교외 철도 기업 중에서 속도가 가장 빠른 201km로 운행하고 있다.\[1\]

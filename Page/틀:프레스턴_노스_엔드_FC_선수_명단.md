@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:   FC  ](https://ko.wikipedia.org/wiki/:___FC__).
+> This article is converted from Wikipedia: [틀:프레스턴 노스 엔드 FC 선수 명단](https://ko.wikipedia.org/wiki/틀:프레스턴_노스_엔드_FC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

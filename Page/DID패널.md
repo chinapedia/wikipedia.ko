@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DID](https://ko.wikipedia.org/wiki/DID).
+> This article is converted from Wikipedia: [DID패널](https://ko.wikipedia.org/wiki/DID패널).
 
 
 **디지털 정보 디스플레이**(DID : Digital Information Display)패널은 공공정보 게시용 [디스플레이](https://ko.wikipedia.org/wiki/디스플레이 "wikilink") 제품을 총칭한다. 최근에 유동인구가 많은 공공장소에 대형 디스플레이 패널을 설치하여 기업이나 상품의 광고 및 홍보 영상을 불특정 다수에게 제공하는 디지털 정보 디스플레이 방식이 늘어나고 있다.\[1\] 이러한 DID 패널은 다양한 형태의 문서를 디스플레이 할 수 있을 뿐만 아니라 문서의 편집, 인식, 저장, 관리의 기능이 추가된 컴퓨터 기반의 효율적인 제어가 가능하다. 이러한 이유로 DID 패널은 현재 공항, 지하철, 병원, 은행, 백화점, 슈퍼마켓, 서점 등 여러 장소에서 홍보 정보, 공공 정보, 가격 정보, 할인 정보, 상품 정보 등을 제공하는 장치로서 사용되고 있다.\[2\]

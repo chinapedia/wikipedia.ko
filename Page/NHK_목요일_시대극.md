@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 목요일 시대극](https://ko.wikipedia.org/wiki/NHK_목요일_시대극).
 
 
 **NHK 목요일 시대극**은 [NHK 종합 텔레비전의](../Page/NHK_종합_텔레비전.md "wikilink") [시대극](https://ko.wikipedia.org/wiki/시대극 "wikilink")을 방송하는 프로그램 시간대.
@@ -142,11 +142,11 @@
 
 ### 토요일 시대 드라마 (2017년 5월 - )
 
-  - [정성을 다해 요리첩](https://ko.wikipedia.org/wiki/정성을_다해_요리첩 "wikilink")(2017년 5월 13일 -)
-  - [엣짱](https://ko.wikipedia.org/wiki/엣짱 "wikilink")(2017년 7월 15일 -)
-  - [아시걸](https://ko.wikipedia.org/wiki/아시걸 "wikilink")(2017년 9월 23일 -)
-  - [주판 사무라이 바람의 이치베에](https://ko.wikipedia.org/wiki/주판_사무라이_바람의_이치베에 "wikilink")(2018년 5월 19일 -)
-  - [누케마이루\~여자 세명 신궁 참배](https://ko.wikipedia.org/wiki/누케마이루~여자_세명_신궁_참배 "wikilink")(2018년 10월 27일 -）
+  - [정성을 다해 요리첩](https://ko.wikipedia.org/wiki/정성을_다해_요리첩 "wikilink")(2017년 5월 13일 - 7월 8일)
+  - [엣짱](https://ko.wikipedia.org/wiki/엣짱 "wikilink")(2017년 7월 15일 - 9월 16일)
+  - [아시걸](https://ko.wikipedia.org/wiki/아시걸 "wikilink")(2017년 9월 23일 - 12월 16일)
+  - [주판 사무라이 바람의 이치베에](https://ko.wikipedia.org/wiki/주판_사무라이_바람의_이치베에 "wikilink")(2018년 5월 19일 - 7월 21일)
+  - [누케마이루\~여자 세명 신궁 참배](https://ko.wikipedia.org/wiki/누케마이루~여자_세명_신궁_참배 "wikilink")(2018년 10월 27일 - 12월 22일）
 
 ## 각주
 

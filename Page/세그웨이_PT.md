@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PT](https://ko.wikipedia.org/wiki/_PT).
+> This article is converted from Wikipedia: [세그웨이 PT](https://ko.wikipedia.org/wiki/세그웨이_PT).
 
 
 **세그웨이**()는 전동으로 움직이는 이륜 이동 수단이다. [딘 케이먼이](https://ko.wikipedia.org/wiki/딘_케이먼 "wikilink") [세그웨이사를](https://ko.wikipedia.org/wiki/세그웨이_\(기업\) "wikilink") 세우고 만들었으며, 'Segway'란 이름은 '부드러운'이란 뜻을 지닌 'segue'로루터 유래되었다. 또한 PT는 '개인 수송 기관'의 영어 뜻인 'Personal transporter'의 약자로 풀이된다.

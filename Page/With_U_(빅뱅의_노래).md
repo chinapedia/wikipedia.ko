@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [With U \( \)](https://ko.wikipedia.org/wiki/With_U_\(_\)).
+> This article is converted from Wikipedia: [With U \(빅뱅의 노래\)](https://ko.wikipedia.org/wiki/With_U_\(빅뱅의_노래\)).
 
 
 〈**With U**〉은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 노래이다. 일본에서 두 번째 미니 앨범 *[With U](../Page/With_U_\(EP\).md "wikilink")*의 타이틀곡으로 2008년 5월 28일 발매 되었다. 빅뱅의 리더 [G-Dragon과](../Page/지드래곤.md "wikilink") [Perry가](../Page/페리_\(가수\).md "wikilink") 공동 작사, 작곡한 곡으로 세련되고 감각적인 팝 스타일의 노래이다.

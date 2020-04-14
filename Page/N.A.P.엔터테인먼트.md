@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [N.A.P.](https://ko.wikipedia.org/wiki/N.A.P.).
+> This article is converted from Wikipedia: [N.A.P.엔터테인먼트](https://ko.wikipedia.org/wiki/N.A.P.엔터테인먼트).
 
 
 **N.A.P.엔터테인먼트**는 [대한민국](../Page/대한민국.md "wikilink")의 연예기획사다.2011년에 설립되었다. 대표이사는 [뮤직큐브](../Page/뮤직큐브.md "wikilink") 작곡가인 최갑원에 의해 설립되었다. 소속 연예인에는 [소울스타](../Page/소울스타.md "wikilink"), [HIGH4](../Page/HIGH4.md "wikilink"), [소유미](../Page/소유미.md "wikilink")가 있다.

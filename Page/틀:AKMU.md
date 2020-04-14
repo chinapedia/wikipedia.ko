@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AKMU](https://ko.wikipedia.org/wiki/:AKMU).
+> This article is converted from Wikipedia: [틀:AKMU](https://ko.wikipedia.org/wiki/틀:AKMU).
 
 
 <onlyinclude> </onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: CF](https://ko.wikipedia.org/wiki/:_CF).
+> This article is converted from Wikipedia: [틀:발렌시아 CF](https://ko.wikipedia.org/wiki/틀:발렌시아_CF).
 
 
 <noinclude>

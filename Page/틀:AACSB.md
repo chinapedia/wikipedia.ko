@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AACSB](https://ko.wikipedia.org/wiki/:AACSB).
+> This article is converted from Wikipedia: [틀:AACSB](https://ko.wikipedia.org/wiki/틀:AACSB).
 
 
 <onlyinclude></onlyinclude>

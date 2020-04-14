@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2012  E](https://ko.wikipedia.org/wiki/UEFA__2012__E).
+> This article is converted from Wikipedia: [UEFA 유로 2012 예선 E조](https://ko.wikipedia.org/wiki/UEFA_유로_2012_예선_E조).
 
 
 다음은 **[UEFA 유로 2012 예선](../Page/UEFA_유로_2012_예선.md "wikilink")** E조의 순위와 경기 결과이다.

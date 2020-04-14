@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Greatest Hits \(  \)](https://ko.wikipedia.org/wiki/Greatest_Hits_\(__\)).
+> This article is converted from Wikipedia: [Greatest Hits \(스파이스 걸스의 음반\)](https://ko.wikipedia.org/wiki/Greatest_Hits_\(스파이스_걸스의_음반\)).
 
 
 ***Greatest Hits***는 [영국](../Page/영국.md "wikilink")의 여성 음악 그룹 [스파이스 걸스의](../Page/스파이스_걸스.md "wikilink") 베스트 음반이다. [버진 레코드에](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 의해 2007년 11월 9일 발매되었다.\[1\]

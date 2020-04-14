@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNHU ](https://ko.wikipedia.org/wiki/SNHU_).
+> This article is converted from Wikipedia: [SNHU 아레나](https://ko.wikipedia.org/wiki/SNHU_아레나).
 
 
 **SNHU 아레나**(SNHU Arena)은 [미국](../Page/미국.md "wikilink") [뉴햄프셔주](../Page/뉴햄프셔주.md "wikilink") [맨체스터에](../Page/맨체스터_\(뉴햄프셔주\).md "wikilink") 위치한 실내 경기장이다. 현재 [ECHL](../Page/ECHL.md "wikilink") [맨체스터 모나크스의](../Page/맨체스터_모나크스_\(ECHL\).md "wikilink") 홈경기장으로 사용되고 있으면, 과거 [AHL](../Page/아메리칸_하키_리그.md "wikilink") [맨체스터 모나크스의](../Page/맨체스터_모나크스_\(AHL\).md "wikilink") 홈경기장으로 사용했다.

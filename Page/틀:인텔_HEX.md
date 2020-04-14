@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: HEX](https://ko.wikipedia.org/wiki/:_HEX).
+> This article is converted from Wikipedia: [틀:인텔 HEX](https://ko.wikipedia.org/wiki/틀:인텔_HEX).
 
 
 <noinclude>

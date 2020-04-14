@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AOA    ](https://ko.wikipedia.org/wiki/AOA____).
+> This article is converted from Wikipedia: [AOA의 음반 외 활동 목록](https://ko.wikipedia.org/wiki/AOA의_음반_외_활동_목록).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:AOA_Ellesse_Fansign_160408.jpg "wikilink") 다음은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") **[AOA](../Page/AOA_\(음악_그룹\).md "wikilink")**의 **음반 외 활동** 목록이다.

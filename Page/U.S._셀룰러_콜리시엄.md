@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U.S.  ](https://ko.wikipedia.org/wiki/U.S.__).
+> This article is converted from Wikipedia: [U.S. 셀룰러 콜리시엄](https://ko.wikipedia.org/wiki/U.S._셀룰러_콜리시엄).
 
 
 **U.S. 셀룰러 콜리시엄**(U.S. Cellular Coliseum)는 [미국](../Page/미국.md "wikilink") [일리노이주](../Page/일리노이주.md "wikilink") [블루밍턴에](https://ko.wikipedia.org/wiki/블루밍턴_\(일리노이주\) "wikilink") 위치한 실내 경기장이다. 과거 [CHL](../Page/센트럴_하키_리그.md "wikilink") [블루밍턴 프레러선더와](../Page/블루밍턴_프레러선더.md "wikilink") [SPHL](../Page/서던_프로페셔널_하키_리그.md "wikilink") [블루밍턴 선더의](https://ko.wikipedia.org/wiki/블루밍턴_선더 "wikilink") 홈경기장으로 사용했다.

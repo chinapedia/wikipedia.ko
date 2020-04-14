@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Void ](https://ko.wikipedia.org/wiki/Void_).
+> This article is converted from Wikipedia: [Void 타입](https://ko.wikipedia.org/wiki/Void_타입).
 
 
 **void 타입**은 C에서 파생된 여러 언어에서 정상적으로 반환하지만 호출자에게 결과 값을 제공하지 않는 함수의 결과를 위한 타입이다. 보통 이러한 함수들은 몇몇 작업을 수행하거나 자신의 결과 파라미터를 쓰는것 같은 그것의 [부작용을](../Page/부작용_\(컴퓨터_과학\).md "wikilink") 위해 호출된다. 이러한 문맥에서 void 타입의 사용은 [비주얼 베이직의](../Page/비주얼_베이직.md "wikilink") [서브루틴과](../Page/함수_\(프로그래밍\).md "wikilink") [파스칼의](../Page/파스칼_\(프로그래밍_언어\).md "wikilink") [함수를](https://ko.wikipedia.org/wiki/프로시저 "wikilink") 정의하는 통사적 구조체의 그것과 차별화된다. 또한 [함수형 프로그래밍과](../Page/함수형_프로그래밍.md "wikilink") [타입 이론에서](https://ko.wikipedia.org/wiki/타입_이론 "wikilink") 사용되는 [유닛 타입과](https://ko.wikipedia.org/wiki/유닛_타입 "wikilink") 비슷하지만 void 타입은 값이 없는 빈 타입이라는 점에서 허용되는 사용법에 몇몇 차이점이 있다.

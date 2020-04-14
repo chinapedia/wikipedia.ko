@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JTBC ](https://ko.wikipedia.org/wiki/JTBC_).
+> This article is converted from Wikipedia: [JTBC 어워즈](https://ko.wikipedia.org/wiki/JTBC_어워즈).
 
 
 **JTBC 어워즈**는 [JTBC](../Page/JTBC.md "wikilink")가 주최하는 예능, 교양, 드라마 통합 온라인 시상식이다.향후 오프라인으로도 시상식을 개최할 예정이었으나, 결국 무산되었다.\[1\]

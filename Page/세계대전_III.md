@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III](https://ko.wikipedia.org/wiki/_III).
+> This article is converted from Wikipedia: [세계대전 III](https://ko.wikipedia.org/wiki/세계대전_III).
 
 
 《**세계대전 III**》(, )는 [1998년](../Page/1998년.md "wikilink")에 제작된 [독일](../Page/독일.md "wikilink") [ZDF](../Page/독일_제2텔레비전.md "wikilink") 방송의 [모큐멘터리](https://ko.wikipedia.org/wiki/모큐멘터리 "wikilink")이며, 로버트 스톤(Robert Stone)이 제작하였다. [TLC](https://ko.wikipedia.org/wiki/TLC "wikilink")와의 합작으로 영어판도 제작되었다.

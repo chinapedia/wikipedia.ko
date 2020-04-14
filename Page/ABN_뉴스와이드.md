@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABN ](https://ko.wikipedia.org/wiki/ABN_).
+> This article is converted from Wikipedia: [ABN 뉴스와이드](https://ko.wikipedia.org/wiki/ABN_뉴스와이드).
 
 
 《**ABN 뉴스와이드**》는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남](../Page/성남시.md "wikilink") 지역의 케이블 방송사인 [아름방송의](../Page/아름방송네트워크.md "wikilink") 뉴스 프로그램이다.

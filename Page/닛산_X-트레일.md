@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X-](https://ko.wikipedia.org/wiki/_X-).
+> This article is converted from Wikipedia: [닛산 X-트레일](https://ko.wikipedia.org/wiki/닛산_X-트레일).
 
 
 **닛산 X-트레일**(Nissan X-Trail)는 [닛산의](../Page/닛산_자동차.md "wikilink") 중형 [스포츠 유틸리티 자동차이다](../Page/스포츠_유틸리티_자동차.md "wikilink").

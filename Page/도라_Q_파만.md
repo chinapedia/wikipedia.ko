@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Q ](https://ko.wikipedia.org/wiki/_Q_).
+> This article is converted from Wikipedia: [도라 Q 파만](https://ko.wikipedia.org/wiki/도라_Q_파만).
 
 
 **도라 Q 파만**()은 원작자가 [후지코 후지오](../Page/후지코_후지오.md "wikilink")\[1\] 이고, 시노다 히데오가 그린 일본의 [만화](../Page/만화.md "wikilink") 작품이자 [1980년](../Page/1980년.md "wikilink") [4월 8일에](../Page/4월_8일.md "wikilink") 방송한 [애니메이션](../Page/애니메이션.md "wikilink") 작품이다. [월간 코로코로 코믹의](https://ko.wikipedia.org/wiki/코로코로_코믹 "wikilink") [1979년](../Page/1979년.md "wikilink") [8월](../Page/8월.md "wikilink")호에 게재되었다.

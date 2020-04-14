@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W](https://ko.wikipedia.org/wiki/_W).
+> This article is converted from Wikipedia: [드라마 W](https://ko.wikipedia.org/wiki/드라마_W).
 
 
 *' 드라마 W*'()는 [WOWOW](../Page/WOWOW.md "wikilink")가 2003년부터 비 정기적으로 제작 · 방송중인 TV 드라마 시리즈. 전 작품 HD로 제작.
