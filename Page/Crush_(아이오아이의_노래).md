@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Crush \( \)](https://ko.wikipedia.org/wiki/Crush_\(_\)).
+> This article is converted from Wikipedia: [Crush \(아이오아이의 노래\)](https://ko.wikipedia.org/wiki/Crush_\(아이오아이의_노래\)).
 
 
 〈**Crush**〉(크러쉬)는 [아이오아이](../Page/아이오아이.md "wikilink")의 싱글이다. 2016년 4월 5일에 [CJ E\&M에서](../Page/CJ_E&M.md "wikilink") 발매됐다.

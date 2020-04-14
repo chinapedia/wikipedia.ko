@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rise \(  \)](https://ko.wikipedia.org/wiki/Rise_\(__\)).
+> This article is converted from Wikipedia: [Rise \(케이티 페리의 노래\)](https://ko.wikipedia.org/wiki/Rise_\(케이티_페리의_노래\)).
 
 
 [thumb에서](https://ko.wikipedia.org/wiki/파일:Katy_Perry_DNC_July_2016_\(cropped\).jpg "wikilink") "Rise"를 부르는 케이티 페리\]\] 〈**Rise**〉는 [미국](../Page/미국.md "wikilink")의 가수 [케이티 페리의](../Page/케이티_페리.md "wikilink") 노래이다. 케이티 페리, [맥스 마틴](../Page/맥스_마틴.md "wikilink"), 알리 파야미, [사반 코테차가](https://ko.wikipedia.org/wiki/사반_코테차 "wikilink") 공동 작곡했다. 2016년 7월 14일에 발매된, 어느 앨범에도 수록되지 않는 단독 싱글곡이다. 상대를 넘어 승리를 쟁취하는 가사를 담은 미디엄 템포 [일렉트로니카](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink") 곡이다.

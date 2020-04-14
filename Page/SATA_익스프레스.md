@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SATA ](https://ko.wikipedia.org/wiki/SATA_).
+> This article is converted from Wikipedia: [SATA 익스프레스](https://ko.wikipedia.org/wiki/SATA_익스프레스).
 
 
 **SATA 익스프레스**(SATA Express, Serial ATA Express의 준말, 가끔 비공식적으로 SATAe로 줄여서 언급)는 [시리얼 ATA](https://ko.wikipedia.org/wiki/SATA "wikilink")(SATA)와 [PCI 익스프레스](../Page/PCI_익스프레스.md "wikilink")(PCIe) 기억 장치들을 둘 다 지원하는 [컴퓨터 버스](https://ko.wikipedia.org/wiki/컴퓨터_버스 "wikilink") 인터페이스로서, 처음에 [SATA 3.2](https://ko.wikipedia.org/wiki/SATA "wikilink") 사양으로 표준화되었다.\[1\] 호스트 측의 SATA 익스프레스의 단자는 표준 [3.5인치 SATA 데이터 단자와](https://ko.wikipedia.org/wiki/3.5인치_SATA_데이터_단자 "wikilink") [하위 호환되며](../Page/하위_호환성.md "wikilink"),\[2\] 기억 장치에 대한 순수 PCI 익스프레스 연결로서 두 개의 [PCI 익스프레스 레인도](https://ko.wikipedia.org/wiki/PCI_익스프레스_레인 "wikilink") 제공한다.\[3\]

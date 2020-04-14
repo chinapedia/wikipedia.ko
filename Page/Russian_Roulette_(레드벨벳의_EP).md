@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Russian Roulette \( EP\)](https://ko.wikipedia.org/wiki/Russian_Roulette_\(_EP\)).
+> This article is converted from Wikipedia: [Russian Roulette \(레드벨벳의 EP\)](https://ko.wikipedia.org/wiki/Russian_Roulette_\(레드벨벳의_EP\)).
 
 
 ***Russian Roulette***은 대한민국의 걸 그룹 [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 세 번째 미니 음반이다. 2016년 9월 7일 디지털 음원과 뮤직 비디오, 음반을 공개하였다. 앨범의 타이틀곡은 "Russian Roulette (러시안 룰렛)"이며 그 외에 여섯 곡이 함께 수록됐다. 직전에 발매된 앨범 *[The Velvet](../Page/The_Velvet.md "wikilink")* 이후 약 6개월 만에 새로 나온 앨범이다.

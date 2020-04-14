@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OFC  ](https://ko.wikipedia.org/wiki/OFC__).
+> This article is converted from Wikipedia: [OFC 여자 네이션스컵](https://ko.wikipedia.org/wiki/OFC_여자_네이션스컵).
 
 
 **OFC 여자 네이션스컵**()는 [오세아니아 축구 연맹](../Page/오세아니아_축구_연맹.md "wikilink")(OFC)의 주관으로 개최되는 [여자 축구](../Page/여자_축구.md "wikilink") 국가 대항전이다. 과거 2010년까지 **OFC 여자 축구 선수권 대회**()로 불렸다. 이 대회는 [FIFA 여자 월드컵의](../Page/FIFA_여자_월드컵.md "wikilink") 오세아니아 지역 예선을 겸한다.

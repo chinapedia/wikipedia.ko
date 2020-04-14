@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [WWE   ](https://ko.wikipedia.org/wiki/WWE___).
+> This article is converted from Wikipedia: [WWE 러 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_러_태그팀_챔피언십).
 
 
 **WWE 러 태그팀 챔피언십**(WWE RAW Tag Team Champion)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십중 둘이며 태그팀 챔피언십이다.
 
-현재는 둘의 태그팀 챔피언만 소지하고있으며 현재 챔피언은 세스 롤린스&버디 머피 이다.
+현재는 둘의 태그팀 챔피언만 소지하고있으며 현재 챔피언은 스트리트 프로피츠 이다.
 
 ## 역사
 
@@ -98,7 +98,8 @@
   - 세스 롤린스 & 브라운 스트로우먼
   - 돌프 지글러 & 로버트 루드
   - 바이킹 레이더스 (에릭 & 이바르)
-  - **세스 롤린스 & 버디 머피** (현 챔피언)
+  - 세스 롤린스 & 버디 머피
+  - **스트리트 프로피츠 (몬테즈 포드 & 안젤로 도킨스)** (현 챔피언)
 
 ## 같이 보기
 

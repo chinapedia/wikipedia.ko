@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [센타우루스자리 프록시마 b](https://ko.wikipedia.org/wiki/센타우루스자리_프록시마_b).
 
 
 **센타우루스자리 프록시마 b**(**프록시마 b**\[1\]\[2\] 또는 **센타우루스자리 알파 Cb**)는 [태양](../Page/태양.md "wikilink")에서 가장 가까우면서 [센타우루스자리 알파](../Page/센타우루스자리_알파.md "wikilink") 삼중성계의 일원인 [적색왜성](../Page/적색왜성.md "wikilink") [센타우루스자리 프록시마의](../Page/센타우루스자리_프록시마.md "wikilink") [생명체 거주가능 영역](../Page/생명체_거주가능_영역.md "wikilink") 내를 돌고 있는 [외계 행성이다](../Page/외계_행성.md "wikilink").\[3\]\[4\] b는 센타우루스자리 방향으로 지구로부터 약 4.2 [광년](../Page/광년.md "wikilink")(1.3 [파섹](https://ko.wikipedia.org/wiki/파섹 "wikilink"), 40조 ㎞, 25조 마일, 26만 5천 [AU](../Page/천문단위.md "wikilink")) 떨어져 있어서 태양계에서 가장 가까운 외계 행성이기도 하다.

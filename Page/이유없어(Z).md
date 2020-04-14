@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\(Z\)](https://ko.wikipedia.org/wiki/\(Z\)).
+> This article is converted from Wikipedia: [이유없어\(Z\)](https://ko.wikipedia.org/wiki/이유없어\(Z\)).
 
 
 〈**이유없어(Z)**〉()는 [℃-ute](../Page/℃-ute.md "wikilink")의 네 번째 인디즈 [싱글이다](../Page/CD_싱글.md "wikilink").

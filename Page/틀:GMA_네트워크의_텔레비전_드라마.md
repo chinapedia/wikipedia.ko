@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:GMA   ](https://ko.wikipedia.org/wiki/:GMA___).
+> This article is converted from Wikipedia: [틀:GMA 네트워크의 텔레비전 드라마](https://ko.wikipedia.org/wiki/틀:GMA_네트워크의_텔레비전_드라마).
 
 
 <onlyinclude>{{둘러보기 상자 | 이름 = GMA 네트워크의 텔레비전 드라마 | 제목 = [{{색상](../Page/GMA_네트워크.md "wikilink") \[\[GMA_네트워크의_텔레비전_드라마_목록|</onlyinclude>

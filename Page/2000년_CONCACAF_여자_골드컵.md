@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2000 CONCACAF  ](https://ko.wikipedia.org/wiki/2000_CONCACAF__).
+> This article is converted from Wikipedia: [2000년 CONCACAF 여자 골드컵](https://ko.wikipedia.org/wiki/2000년_CONCACAF_여자_골드컵).
 
 
 **2000년 CONCACAF 여자 골드컵**(2000 CONCACAF Women's Gold Cup)은 [2000년](../Page/2000년.md "wikilink") [6월 23일부터](../Page/6월_23일.md "wikilink") [7월 3일까지](../Page/7월_3일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 열린 5번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CCTV   ](https://ko.wikipedia.org/wiki/CCTV___).
+> This article is converted from Wikipedia: [CCTV 하세배 한중일 바둑쟁패전](https://ko.wikipedia.org/wiki/CCTV_하세배_한중일_바둑쟁패전).
 
 
 '''CCTV 하세배 바둑쟁패전 '''()은 중국의 공영방송인 CCTV가 주관하는 대회로, 중국이 춘절(설)을 맞아 매년 한중일의 바둑 고수 3명을 초청해서 개최하는 이벤트 대회이다. 중국 춘절 기간에 중국 베이징에서 열린다. 하세배는 경축할 하(賀)와 새해 세(歲)의 조어로 대략 '새해를 축하하는 대회'라는 뜻이다. 1회 대회는 중국갑조리그 최우수기사와 최우수주장의 자격으로 중국 자국 기사를 초청해 대국을 벌였다.

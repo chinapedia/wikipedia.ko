@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [3rd\~LOVE !\~](https://ko.wikipedia.org/wiki/3rd\~LOVE_!\~).
+> This article is converted from Wikipedia: [3rd\~LOVE 에스컬레이션!\~](https://ko.wikipedia.org/wiki/3rd\~LOVE_에스컬레이션!\~).
 
 
 《**3rd\~LOVE 에스컬레이션\!\~**》()은 [℃-ute](../Page/℃-ute.md "wikilink")의 세 번째 음반\[1\]이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PC](https://ko.wikipedia.org/wiki/_PC).
+> This article is converted from Wikipedia: [스틱 PC](https://ko.wikipedia.org/wiki/스틱_PC).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Gumstix_oconnor.JPG "wikilink") **스틱 PC**(stick PC, PC on a stick)는 막대 모양의 크기가 작은 기다란 케이스에 장착된 [단일 보드 컴퓨터로](../Page/단일_보드_컴퓨터.md "wikilink"), 보통 (HDMI 선 없이) 직접 [HDMI](../Page/HDMI.md "wikilink") 비디오 포트에 접속할 수 있다. 스틱 PC는 독립 CPU나 처리 칩을 갖추고 있는 장치이며 다른 컴퓨터에 의존하지 않는다. [USB 플래시 드라이브와](../Page/USB_플래시_드라이브.md "wikilink") 같은 수동형 기억 장치와는 구별한다.

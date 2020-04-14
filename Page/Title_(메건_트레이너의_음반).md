@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Title \(  \)](https://ko.wikipedia.org/wiki/Title_\(__\)).
+> This article is converted from Wikipedia: [Title \(메건 트레이너의 음반\)](https://ko.wikipedia.org/wiki/Title_\(메건_트레이너의_음반\)).
 
 
 《**Title**》은 [메건 트레이너의](../Page/메건_트레이너.md "wikilink") 정규 데뷔 음반으로, 2015년 1월에 발매되었다.

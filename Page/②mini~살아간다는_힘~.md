@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [mini\~ \~](https://ko.wikipedia.org/wiki/mini\~_\~).
+> This article is converted from Wikipedia: [②mini\~살아간다는 힘\~](https://ko.wikipedia.org/wiki/②mini\~살아간다는_힘\~).
 
 
 《**②mini\~살아간다는 힘\~**》()는 [℃-ute](../Page/℃-ute.md "wikilink")의 두 번째 음반\[1\]이다.

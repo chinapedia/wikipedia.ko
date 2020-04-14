@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Video game wikidata](https://ko.wikipedia.org/wiki/:Video_game_wikidata).
+> This article is converted from Wikipedia: [모듈:Video game wikidata](https://ko.wikipedia.org/wiki/모듈:Video_game_wikidata).
 
 
 local Date = require('Module:Date/sandbox')._Date local yesno = require('Module:Yesno')

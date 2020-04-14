@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US   ](https://ko.wikipedia.org/wiki/US___).
+> This article is converted from Wikipedia: [US 여자 오픈 챔피언십](https://ko.wikipedia.org/wiki/US_여자_오픈_챔피언십).
 
 
 **US 여자 오픈 챔피언십**(United States Women's Open Championship) 또는 **US 여자 오픈**은 전미 골프 협회(United States Golf Association)가 주최하는 13개의 골프 대회 중 하나이자, 5개의 [LPGA 투어](https://ko.wikipedia.org/wiki/LPGA_투어 "wikilink") [메이저 대회](https://ko.wikipedia.org/wiki/여자_메이저_골프_대회 "wikilink") 중 하나이다.

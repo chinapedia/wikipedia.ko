@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Uncover \(  EP\)](https://ko.wikipedia.org/wiki/Uncover_\(__EP\)).
+> This article is converted from Wikipedia: [Uncover \(자라 라르손의 EP\)](https://ko.wikipedia.org/wiki/Uncover_\(자라_라르손의_EP\)).
 
 
 《**Uncover**》은 [자라 라르손의](../Page/자라_라르손.md "wikilink") EP 앨범으로, 2015년 1월에 발매되었다.

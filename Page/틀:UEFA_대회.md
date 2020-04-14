@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UEFA ](https://ko.wikipedia.org/wiki/:UEFA_).
+> This article is converted from Wikipedia: [틀:UEFA 대회](https://ko.wikipedia.org/wiki/틀:UEFA_대회).
 
 
 <onlyinclude></onlyinclude>

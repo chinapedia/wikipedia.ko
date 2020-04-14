@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Z \(\)](https://ko.wikipedia.org/wiki/__Z_\(\)).
+> This article is converted from Wikipedia: [잃어버린 도시 Z \(영화\)](https://ko.wikipedia.org/wiki/잃어버린_도시_Z_\(영화\)).
 
 
 《**잃어버린 도시 Z**》()는 2016년 개봉 된 미국의 [전기](https://ko.wikipedia.org/wiki/전기_영화 "wikilink") [모험](https://ko.wikipedia.org/wiki/모험_영화 "wikilink") [드라마 영화이다](https://ko.wikipedia.org/wiki/드라마_영화 "wikilink"). 데이비드 그랜의 [동명의 책을](https://ko.wikipedia.org/wiki/잃어버린_도시_Z "wikilink") 원작으로 [제임스 그레이가](https://ko.wikipedia.org/wiki/제임스_그레이 "wikilink") 각본 및 연출을 하였다.\[1\] 볼리비아에 파견됐었고 수 차례 [아마존에](../Page/아마존_우림.md "wikilink") 잃어버린 고대 도시를 찾으려 했다가 1925년 아들과 함께 갔던 탐험 중에 실종된 영국인 탐험가 [퍼시 포싯](https://ko.wikipedia.org/wiki/퍼시_포싯 "wikilink") 주변에 일어난 실제 사건을 다루고 있다.\[2\] 포싯 역으로서 [찰리 허냄](../Page/찰리_허냄.md "wikilink")\[3\]과 그의 동료 탐험가 헨리 코스틴 역의 [로버트 패틴슨](https://ko.wikipedia.org/wiki/로버트_패틴슨 "wikilink"), 포싯의 아내 니나 포싯 역을 연기한 [시에나 밀러등이](../Page/시에나_밀러.md "wikilink") 출연했다.\[4\]

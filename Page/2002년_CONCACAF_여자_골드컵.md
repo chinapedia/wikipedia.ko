@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 CONCACAF  ](https://ko.wikipedia.org/wiki/2002_CONCACAF__).
+> This article is converted from Wikipedia: [2002년 CONCACAF 여자 골드컵](https://ko.wikipedia.org/wiki/2002년_CONCACAF_여자_골드컵).
 
 
 **2002년 CONCACAF 여자 골드컵**(2002 CONCACAF Women's Gold Cup)은 [2002년](../Page/2002년.md "wikilink") [10월 27일부터](../Page/10월_27일.md "wikilink") [11월 9일까지](../Page/11월_9일.md "wikilink") [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")에서 열린 6번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink").

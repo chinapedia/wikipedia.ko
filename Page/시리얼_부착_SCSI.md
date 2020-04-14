@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SCSI](https://ko.wikipedia.org/wiki/__SCSI).
+> This article is converted from Wikipedia: [시리얼 부착 SCSI](https://ko.wikipedia.org/wiki/시리얼_부착_SCSI).
 
 
 **시리얼 부착 SCSI**(Serial Attached SCSI, SAS)는 [하드 드라이브와](https://ko.wikipedia.org/wiki/하드_드라이브 "wikilink") [테이프 드라이브처럼](../Page/테이프_드라이브.md "wikilink") 컴퓨터 기억 장치로 데이터를 송수신할 수 있는 점대점 직렬 프로토콜이다. SAS는 1980년대 중순에 처음 등장한 [병렬 SCSI](https://ko.wikipedia.org/wiki/병렬_SCSI "wikilink") 버스 기술을 대체한다. SAS는 SATA, 버전 2 이후와의 하위 호환성을 제공한다. SATA 드라이브를 SAS [백플레인](https://ko.wikipedia.org/wiki/백플레인 "wikilink")에 연결할 수 있다. 그러나 반대로 연결하는 것은 불가능하다.\[1\]

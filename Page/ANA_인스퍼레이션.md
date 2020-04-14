@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ANA ](https://ko.wikipedia.org/wiki/ANA_).
+> This article is converted from Wikipedia: [ANA 인스퍼레이션](https://ko.wikipedia.org/wiki/ANA_인스퍼레이션).
 
 
 **ANA 인스퍼레이션**(구 **크래프트 나비스코 챔피언십**)는 다섯 개의 여자 프로 골프 [메이저 대회](https://ko.wikipedia.org/wiki/여자_메이저_골프_대회 "wikilink") 중 하나이다. [LPGA 투어](https://ko.wikipedia.org/wiki/LPGA_투어 "wikilink") 경기로서 [캘리포니아주](../Page/캘리포니아주.md "wikilink") [랜초미라지](../Page/랜초미라지.md "wikilink") 미션 힐스 컨트리 클럽에서 개최된다.

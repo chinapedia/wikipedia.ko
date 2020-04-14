@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(MTF\)](https://ko.wikipedia.org/wiki/__\(MTF\)).
+> This article is converted from Wikipedia: [호르몬 대체요법 \(MTF\)](https://ko.wikipedia.org/wiki/호르몬_대체요법_\(MTF\)).
 
 
 **남성의 여성화 호르몬 대체요법**()은 [호르몬 대체요법의](https://ko.wikipedia.org/wiki/호르몬_대체요법_\(트랜스젠더\) "wikilink") 일종이다. 몸의 [성호르몬](https://ko.wikipedia.org/wiki/성호르몬 "wikilink") 비율을 인위적으로 변화시킨다. [트랜스여성](../Page/트랜스여성.md "wikilink") 외에 [남녀중간몸](https://ko.wikipedia.org/wiki/남녀중간몸 "wikilink")인 사람도 이 요법을 받기도 한다. 남녀중간몸의 여성화 호르몬 요법은 어릴 때부터 한쪽 성별로 지정하고자 일찍이 시작할 수도 있고 또는 성인이 된 뒤 지정성별이 잘못되었다는 생각에 뒷날 이루어질 수도 있다.

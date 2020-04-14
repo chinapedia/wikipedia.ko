@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VOL.1](https://ko.wikipedia.org/wiki/_VOL.1).
+> This article is converted from Wikipedia: [큐티퀸 VOL.1](https://ko.wikipedia.org/wiki/큐티퀸_VOL.1).
 
 
 《**큐티퀸 VOL.1**》()은 [℃-ute](../Page/℃-ute.md "wikilink")의 첫 번째 음반이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SG ](https://ko.wikipedia.org/wiki/SG_).
+> This article is converted from Wikipedia: [SG페어바둑 최강전](https://ko.wikipedia.org/wiki/SG페어바둑_최강전).
 
 
 **SG페어바둑 최강전**은 SG그룹이 후원하는 대회로, 이벤트성 대회로만 열리던 페어대회에서 벗어나 국내 페어대회의 효시가 된 대회이다. 1회 대회는 **SG세계물산배**라고 명명되었다가, 2회 대회부터 현행 대회이름으로 변경되었다. 프로기사와 아마기사가 신분에 제한 없이 참가가 가능하다. 3회 대회부터 우승팀은 중국 허베이에서 열리는 **루양배 한중일 삼국 바둑명인페어전**에 한국대표로 출전한다. 6회 대회부터 해외에 문호를 개방해하여 외국인 초청시드를 신설해 중국ㆍ일본ㆍ대만에서 각 1개팀이 국내 페어와 자웅을 겨루게 됐다

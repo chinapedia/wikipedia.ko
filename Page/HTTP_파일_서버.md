@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTTP  ](https://ko.wikipedia.org/wiki/HTTP__).
+> This article is converted from Wikipedia: [HTTP 파일 서버](https://ko.wikipedia.org/wiki/HTTP_파일_서버).
 
 
 **HTTP 파일 서버**(HTTP File Server, HFS)는 파일을 게시하고 공유하도록 설계된 자유 [웹 서버이다](../Page/웹_서버.md "wikilink"). 다른 웹 서버와 비교할 때 [CGI나](../Page/공용_게이트웨이_인터페이스.md "wikilink") 심지어는 [윈도우 서비스를](../Page/윈도우_서비스.md "wikilink") 구동하는 기능과 같은 일부 공통 기능이 제공되지는 않지만, 파일 다운로드 수를 세는 등의 다른 기능들이 포함되어 있다. 평범한 웹 서버로 사용할 경우 이를 사용하지 말 것이 권고된다.\[1\]

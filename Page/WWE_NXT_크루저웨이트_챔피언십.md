@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE NXT  ](https://ko.wikipedia.org/wiki/WWE_NXT__).
+> This article is converted from Wikipedia: [WWE NXT 크루저웨이트 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_크루저웨이트_챔피언십).
 
 
 **WWE NXT 크루저웨이트 챔피언십**(WWE NXT Cruiserweight Championship)은 프로레슬러의 최대 몸무게가 **100kg**이하 정도 되어야하는 체격과 신체가 크지 않는 경량급 선수들을 위한 챔피언십이기도 하다.

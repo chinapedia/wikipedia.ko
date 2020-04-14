@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ib  Ic ](https://ko.wikipedia.org/wiki/Ib__Ic_).
+> This article is converted from Wikipedia: [Ib형 및 Ic형 초신성](https://ko.wikipedia.org/wiki/Ib형_및_Ic형_초신성).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Supernova_2008D.jpg "wikilink") 은하에서 발생한 Ib형 초신성 SN 2008D\[1\]\[2\]의 [엑스선](../Page/엑스선.md "wikilink")(왼쪽) 및 [가시광선](../Page/가시광선.md "wikilink")(오른쪽) 사진. *NASA image.*\[3\]\]\] **Ib형 초신성**() 및 **Ic형 초신성**()은 [초신성](../Page/초신성.md "wikilink")의 일종으로, 질량이 큰 항성의 중심핵이 붕괴함으로써 발생한다. Ib/c형 초신성을 만들어내는 항성들은 [수소](../Page/수소.md "wikilink") 외피층을 바깥으로 날려버렸거나 날리고 있는 중이고, [Ia형 초신성의](../Page/Ia형_초신성.md "wikilink") 분광과 비교했을 때 [규소](https://ko.wikipedia.org/wiki/규소 "wikilink") [흡수선](https://ko.wikipedia.org/wiki/흡수선 "wikilink")이 약하다. Ib형보다 Ic형이 외피층을 더 많이 잃어버린 것으로 생각되며, 이 두 유형의 초신성을 **벗겨진 핵붕괴 초신성**()이라고도 한다.

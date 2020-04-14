@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Video game reviews](https://ko.wikipedia.org/wiki/:Video_game_reviews).
+> This article is converted from Wikipedia: [모듈:Video game reviews](https://ko.wikipedia.org/wiki/모듈:Video_game_reviews).
 
 
 require('Module:No globals')
@@ -320,7 +320,9 @@ local function renderMainTable(providedReviewers, providedAggregators, awardKeys
 `       :attr('cellspacing', 0)`
 `       :css('background', 'transparent')`
 `       :css('padding', '0em')`
-`       :css('margin', '0em 1em 1em 1em')`
+`       :css('margin', args.align and`
+`           ((args.align == 'left' or args.align == 'none') and '0em 1em 1em 0em') or`
+`           '0em 1em 1em 1em')`
 `       :css('text-align', 'center')`
 `       :css('float', args.align or 'right')`
 `       :css('clear', args.align or 'right')`

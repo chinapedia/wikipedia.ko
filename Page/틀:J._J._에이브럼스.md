@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:J. J. ](https://ko.wikipedia.org/wiki/:J._J._).
+> This article is converted from Wikipedia: [틀:J. J. 에이브럼스](https://ko.wikipedia.org/wiki/틀:J._J._에이브럼스).
 
 
 <noinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD  ](https://ko.wikipedia.org/wiki/AMD__).
+> This article is converted from Wikipedia: [AMD 마이크로프로세서 목록](https://ko.wikipedia.org/wiki/AMD_마이크로프로세서_목록).
 
 
 이 문서는 [어드밴스트 마이크로 디바이시스](../Page/어드밴스트_마이크로_디바이시스.md "wikilink") (AMD) [마이크로프로세서](../Page/마이크로프로세서.md "wikilink")의 목록이다. 세대 및 출시 연도 순으로 정렬되어 있다.
@@ -78,7 +78,7 @@ AMD 옵테론 A1100 시리즈
 ### [K7 아키텍처](../Page/애슬론.md "wikilink") (1999-2005)
 
   - [애슬론](../Page/애슬론.md "wikilink") ([슬롯 A](https://ko.wikipedia.org/wiki/슬롯_A "wikilink")) (*Argon*, *Pluto*/*Orion*, *Thunderbird*) (1999)
-  - [애슬론](../Page/애슬론.md "wikilink") ([소켓 A](https://ko.wikipedia.org/wiki/소켓_A "wikilink")) (*Thunderbird*) (2000)
+  - [애슬론](../Page/애슬론.md "wikilink") ([소켓 A](../Page/소켓_A.md "wikilink")) (*Thunderbird*) (2000)
   - [듀론](../Page/듀론.md "wikilink") (*Spitfire*, *Morgan*, *Applebred*) (2000)
   - [애슬론 MP](../Page/애슬론.md "wikilink") (*Palomino*, *Thoroughbred*, *Barton*, *Thorton*) (2001)
   - [모바일 애슬론 4](../Page/애슬론.md "wikilink") (*Corvette*/*Mobile Palomino*) (2001)
@@ -169,7 +169,7 @@ AMD 옵테론 A1100 시리즈
 
 ## 같이 보기
 
-  - [AMD CPU 마이크로아키텍처 목록](https://ko.wikipedia.org/wiki/AMD_CPU_마이크로아키텍처_목록 "wikilink")
+  - [AMD CPU 마이크로아키텍처 목록](../Page/AMD_CPU_마이크로아키텍처_목록.md "wikilink")
 
 ## 각주
 

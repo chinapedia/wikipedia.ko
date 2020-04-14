@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC](https://ko.wikipedia.org/wiki/MBC).
+> This article is converted from Wikipedia: [MBC충북](https://ko.wikipedia.org/wiki/MBC충북).
 
 
 **MBC충북**(MBC忠北)은 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink")를 가시청권역으로 하는 대한민국의 지상파 TV·라디오 방송국이다. [2016년](../Page/2016년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") [청주문화방송과](../Page/MBC충북_청주방송국.md "wikilink") [충주문화방송이](../Page/MBC충북_충주방송국.md "wikilink") 통합되어 **MBC충북**이라는 새로운 이름의 지상파방송국으로 출범했다. TV방송 2개 채널, AM라디오 2개 채널, FM라디오 4개 채널 등을 운영하고 있으며, [청주방송국은](../Page/MBC충북_청주방송국.md "wikilink") 남부권 [충주방송국은](../Page/MBC충북_충주방송국.md "wikilink") 북부권지역을 방송권역으로서 방송중이다.

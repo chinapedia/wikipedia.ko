@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PC](https://ko.wikipedia.org/wiki/PC).
+> This article is converted from Wikipedia: [PC마크](https://ko.wikipedia.org/wiki/PC마크).
 
 
 **PC마크**(PCMark)는 시스템 및 부품 수준의 [PC의](../Page/개인용_컴퓨터.md "wikilink") 성능 테스트를 목적으로 [퓨처마크](https://ko.wikipedia.org/wiki/퓨처마크 "wikilink")가 개발한 컴퓨터 벤치마크 도구이다. 대부분의 경우 PC마크의 테스트들은 일반적인 사용자 워크로드를 표현하기 위해 설계되었다. PC마크를 실행할 때 더 높은 점수가 나오면 성능이 더 좋다는 것을 의미한다. 일부 버전의 PC마크는 서로 다른 릴리스 사이에서는 비교가 불가능한데, 각 버전이 서로 다른 테스트를 포함하고 있기 때문이다.

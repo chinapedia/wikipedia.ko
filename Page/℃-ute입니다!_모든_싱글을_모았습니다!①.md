@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-ute!   !](https://ko.wikipedia.org/wiki/-ute!___!).
+> This article is converted from Wikipedia: [℃-ute입니다! 모든 싱글을 모았습니다!①](https://ko.wikipedia.org/wiki/℃-ute입니다!_모든_싱글을_모았습니다!①).
 
 
 《**℃-ute입니다\! 모든 싱글을 모았습니다\!①**》()는 [℃-ute](../Page/℃-ute.md "wikilink")의 [베스트 음반](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink")\[1\]\[2\]\[3\]\[4\]이다. [2009년](../Page/2009년.md "wikilink") [11월 18일에](../Page/11월_18일.md "wikilink") [zetima에서](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink") 발매됐다.

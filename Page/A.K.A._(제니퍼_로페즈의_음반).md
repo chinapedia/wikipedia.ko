@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A.K.A. \(  \)](https://ko.wikipedia.org/wiki/A.K.A._\(__\)).
+> This article is converted from Wikipedia: [A.K.A. \(제니퍼 로페즈의 음반\)](https://ko.wikipedia.org/wiki/A.K.A._\(제니퍼_로페즈의_음반\)).
 
 
 《**A.K.A.**》는 [제니퍼 로페즈의](../Page/제니퍼_로페즈.md "wikilink") 여덟번째 정규 음반으로, 2014년 6월에 발매되었다.

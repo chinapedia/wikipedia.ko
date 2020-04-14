@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RNE  ](https://ko.wikipedia.org/wiki/RNE__).
+> This article is converted from Wikipedia: [RNE 라디오 나시오날](https://ko.wikipedia.org/wiki/RNE_라디오_나시오날).
 
 
 **라디오 나시오날**은 [스페인](../Page/스페인.md "wikilink")의 공영 방송 [RTVE](https://ko.wikipedia.org/wiki/RTVE "wikilink")([RNE](https://ko.wikipedia.org/wiki/RNE "wikilink"))의 주요 라디오 방송국의 하나이다. 주로 뉴스, 시사, 스포츠를 비롯한 종합 편성을 하고 있다. 이벤트 관련 특별 방송 및 사회 문제에 관련된 토론 프로그램도 방송한다.

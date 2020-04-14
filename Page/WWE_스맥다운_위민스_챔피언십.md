@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE   ](https://ko.wikipedia.org/wiki/WWE___).
+> This article is converted from Wikipedia: [WWE 스맥다운 위민스 챔피언십](https://ko.wikipedia.org/wiki/WWE_스맥다운_위민스_챔피언십).
 
 
 **WWE 스맥다운 위민스 챔피언십(WWE Smackdown Women's Championship)**은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속한 챔피언십 중 하나의 챔피언십이었다. 2016년 역대 두번째 WWE 브랜드 분리 이후 스맥다운 브랜드의 위민스 디비전 활성화를 위해 신설되었으며, RAW에 있는 [WWE 위민스 챔피언십은](https://ko.wikipedia.org/wiki/WWE_위민스_챔피언십_\(2016년_이후\) "wikilink") 빨간색 버전이고 스맥다운은 파란색 버전이다.
@@ -16,7 +16,7 @@
 ## 기록들
 
   - 초대 챔피언 : [베키 린치](../Page/베키_린치.md "wikilink")
-  - 최장수 챔피언 : [샬럿 플레어](https://ko.wikipedia.org/wiki/샬럿_플레어 "wikilink") (147일)
+  - 최장수 챔피언 : [베일리](../Page/베일리_\(프로레슬링_선수\).md "wikilink")
   - 최단 기간 챔피언 : [샬럿 플레어](https://ko.wikipedia.org/wiki/샬럿_플레어 "wikilink") (4분 52초)
   - 최다 챔피언 : [샬럿 플레어](https://ko.wikipedia.org/wiki/샬럿_플레어 "wikilink") (5회)
   - 최중량급 챔피언 : [샬럿 플레어](https://ko.wikipedia.org/wiki/샬럿_플레어 "wikilink") (65kg)
@@ -42,7 +42,7 @@
   - [WWE NXT 위민스 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_위민스_챔피언십 "wikilink")
   - [WWE RAW 위민스 챔피언십](https://ko.wikipedia.org/wiki/WWE_RAW_위민스_챔피언십 "wikilink")
   - [WWF 위민스 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWF_위민스_태그팀_챔피언십 "wikilink")
-  - [WWE 위민스 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_위민스_태그팀_챔피언십 "wikilink")
+  - [WWE 위민스 태그팀 챔피언십](../Page/WWE_위민스_태그팀_챔피언십.md "wikilink")
   - [TNA 녹아웃 챔피언십](https://ko.wikipedia.org/wiki/TNA_녹아웃_챔피언십 "wikilink")
   - [TNA 녹아웃 태그팀 챔피언십](../Page/TNA_녹아웃_태그팀_챔피언십.md "wikilink")
   - [GFW 위민스 챔피언십](https://ko.wikipedia.org/wiki/GFW_위민스_챔피언십 "wikilink")

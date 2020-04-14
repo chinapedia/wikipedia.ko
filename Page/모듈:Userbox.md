@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Userbox](https://ko.wikipedia.org/wiki/:Userbox).
+> This article is converted from Wikipedia: [모듈:Userbox](https://ko.wikipedia.org/wiki/모듈:Userbox).
 
 
 \-- This module implements .

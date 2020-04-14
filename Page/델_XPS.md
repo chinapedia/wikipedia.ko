@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XPS](https://ko.wikipedia.org/wiki/_XPS).
+> This article is converted from Wikipedia: [델 XPS](https://ko.wikipedia.org/wiki/델_XPS).
 
 
 **델 XPS**(Dell XPS, Xtreme Performance System)는 미국 기업 [델](../Page/델.md "wikilink")이 제조하는 게이밍 / 퍼포먼스 컴퓨터의 계열이다.

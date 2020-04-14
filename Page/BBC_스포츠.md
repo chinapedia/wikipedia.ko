@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 스포츠](https://ko.wikipedia.org/wiki/BBC_스포츠).
 
 
 **BBC 스포츠**는 [BBC 텔레비전](https://ko.wikipedia.org/wiki/BBC_텔레비전 "wikilink"), [라디오](../Page/BBC_라디오.md "wikilink") 및 [온라인](../Page/BBC_온라인.md "wikilink") 사이트에 스포츠 관련 보도를 제공하는 BBC North 의 소속 부서이다. BBC 는 일부 운동 종목 경기 및 경기 생방송의 텔레비전과 라디오 방송중계권 및 <매치 오브 더 데이> <테스트 매치 스페셜> <스키 선데이> <투데이 앳 윔블던> <그랜드스탠드> 등의 대표 스포츠 분석 프로그램을 보유하고 있다.  스포츠 경기 결과, 분석, 및 중계는 BBC 스포츠 웹사이트\[1\]와 쌍방향 텔레비전 서비스인 BBC 레드 버튼에서도 제공된다.
