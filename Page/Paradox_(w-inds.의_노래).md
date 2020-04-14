@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Paradox \(w-inds. \)](https://ko.wikipedia.org/wiki/Paradox_\(w-inds._\)).
+> This article is converted from Wikipedia: [Paradox \(w-inds.의 노래\)](https://ko.wikipedia.org/wiki/Paradox_\(w-inds.의_노래\)).
 
 
 〈**Paradox**〉(파라독스)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 세 번째 싱글이다. [2001년](../Page/2001년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") FLIGHT MASTER에서 발매하였다.

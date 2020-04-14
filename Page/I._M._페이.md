@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I. M. ](https://ko.wikipedia.org/wiki/I._M._).
+> This article is converted from Wikipedia: [I. M. 페이](https://ko.wikipedia.org/wiki/I._M._페이).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:I.M._Pei.JPG "wikilink") **이오 밍 페이**(Ieoh Ming Pei, , [1917년](../Page/1917년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") - [2019년](../Page/2019년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink"))은 이름의 이니셜인 **I. M. Pei**로 잘 알려져 있는 [중국](../Page/중국.md "wikilink")계 미국인 건축가로, [모더니즘 건축의](https://ko.wikipedia.org/wiki/모더니즘_건축 "wikilink") 마지막 건축가로 알려져 있다. 그는 돌, 콘크리트, 유리, 강철등을 이용해 추상적인 형태를 즐겨 만들어낸다.

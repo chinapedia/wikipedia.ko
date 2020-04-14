@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [강원 FC](https://ko.wikipedia.org/wiki/강원_FC).
 
 
 **강원 FC**(, *강원도민프로축구단*)는 [강원도를](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") 광역 연고지로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink")단이다. [2008년](../Page/2008년.md "wikilink") 창단된 강원은 [2009 시즌](https://ko.wikipedia.org/wiki/K리그_2009 "wikilink") [K리그](../Page/K리그.md "wikilink")의 15번째 구단으로 참가하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GIFT \(Mr.Children \)](https://ko.wikipedia.org/wiki/GIFT_\(Mr.Children_\)).
+> This article is converted from Wikipedia: [GIFT \(Mr.Children의 노래\)](https://ko.wikipedia.org/wiki/GIFT_\(Mr.Children의_노래\)).
 
 
 {{싱글 정보 | 곡명 = GIFT | 그림 = | 설명 = | 음악가 = [Mr.Children](../Page/Mr.Children.md "wikilink") | 종류 = 싱글 | 음반 = [SUPERMARKET FANTASY](../Page/SUPERMARKET_FANTASY.md "wikilink") | 발매일 = [2008년](../Page/2008년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") | 포맷 = | 녹음 = | 길이 = 14분 32초 | 장르 = [J-pop](../Page/J-pop.md "wikilink") | 유통사 = [토이즈팩토리](https://ko.wikipedia.org/wiki/토이즈팩토리 "wikilink") | 작곡가 = [사쿠라이 가즈토시](https://ko.wikipedia.org/wiki/사쿠라이_가즈토시 "wikilink") | 작사가 = 사쿠라이 가즈토시 | 프로듀서 = [고바야시 다케시](https://ko.wikipedia.org/wiki/고바야시_다케시 "wikilink") | 이전싱글 = \[\[다비다치노_우타|

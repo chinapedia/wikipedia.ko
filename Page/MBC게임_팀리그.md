@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC게임 팀리그](https://ko.wikipedia.org/wiki/MBC게임_팀리그).
 
 
 **MBC게임 팀리그**(MBCgame Team League, MTL)는 [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink")에서 치러진 [스타크래프트](../Page/스타크래프트.md "wikilink") 팀단위리그 이다.

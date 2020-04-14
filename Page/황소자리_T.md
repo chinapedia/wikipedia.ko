@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T](https://ko.wikipedia.org/wiki/_T).
+> This article is converted from Wikipedia: [황소자리 T](https://ko.wikipedia.org/wiki/황소자리_T).
 
 
 **황소자리 T**는 [황소자리](../Page/황소자리.md "wikilink") 방향에 있는 [변광성](../Page/변광성.md "wikilink")이며, [황소자리 T형 항성의](../Page/황소자리_T형_항성.md "wikilink") 원형 별이다. 1852년 10월 존 러셀 힌드가 발견했다. 지구에서 볼 때 [히아데스 성단](../Page/히아데스_성단.md "wikilink") 별들 사이에 있는 것으로 보이며 [황소자리 엡실론과](https://ko.wikipedia.org/wiki/황소자리_엡실론 "wikilink") 가깝다. 그러나 사실 황소자리 T는 히아데스 성단보다 지구에서 420광년 더 먼 곳에 있으며 히아데스 성단의 별들과 함께 태어나지도 않았다.

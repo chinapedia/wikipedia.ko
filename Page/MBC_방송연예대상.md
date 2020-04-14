@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 방송연예대상](https://ko.wikipedia.org/wiki/MBC_방송연예대상).
 
 
 **MBC 방송연예대상**은 [문화방송](../Page/문화방송.md "wikilink")이 주최하는 예능, 오락, 코미디 시상식 행사로 매년 [12월 29일](../Page/12월_29일.md "wikilink") 밤에 생방송으로 진행한다.

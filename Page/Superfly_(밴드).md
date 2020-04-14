@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Superfly \(\)](https://ko.wikipedia.org/wiki/Superfly_\(\)).
+> This article is converted from Wikipedia: [Superfly \(밴드\)](https://ko.wikipedia.org/wiki/Superfly_\(밴드\)).
 
 
 **슈퍼플라이**(Superfly)는 [일본](../Page/일본.md "wikilink")의 2인조 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 현재는 오치 시호 1인 그룹으로 활동중이다.

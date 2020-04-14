@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Make \(\)](https://ko.wikipedia.org/wiki/Make_\(\)).
+> This article is converted from Wikipedia: [Make \(소프트웨어\)](https://ko.wikipedia.org/wiki/Make_\(소프트웨어\)).
 
 
 **`make`**는 [소프트웨어 개발을](https://ko.wikipedia.org/wiki/소프트웨어_개발 "wikilink") 위해 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제에서 주로 사용되는 프로그램 빌드 도구이다.
@@ -33,7 +33,7 @@
 `RECIPE`
 `...`
 
-  - TARGET: 실행 파일, object 파일, 라이브러리 등 목적 규칙을 정의한다. RECIPE에서 실행된 결과로 만들어 진다. RECIPE 여러개의 명령줄을 사용할 수가 있어 복잡한 기능도 수행이 가능하다. 생성파일이나 install 같은 기능적 블럭도 가능하다.
+  - TARGET: 실행 파일, object 파일, 라이브러리 등 목적 규칙을 정의한다. RECIPE에서 실행된 결과로 만들어진다. RECIPE 여러개의 명령줄을 사용할 수가 있어 복잡한 기능도 수행이 가능하다. 생성파일이나 install 같은 기능적 블럭도 가능하다.
     PREREQUISITES: TARGET을 만들 때, 의존성(연관관계)를 규정한다. 이 부분에 나열된 파일 중 수정된 파일이 있으면 TARGET을 다시 만든다.
     RECIPE: TARGET을 만들기 위한 실행 파일이다. 이 실행 규칙에 따라 TARGET이 생성 된다. 주로 cc나 리눅스 명령어를 사용한다. 이 명령 줄은 여러 줄이 가능하다. 주의 할 것은 RECIPE 부분의 앞 공간은 키보드 을 사용해야 한다. 키로 공간을 넣으면 안 된다.
 

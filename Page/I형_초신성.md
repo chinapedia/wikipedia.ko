@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I ](https://ko.wikipedia.org/wiki/I_).
+> This article is converted from Wikipedia: [I형 초신성](https://ko.wikipedia.org/wiki/I형_초신성).
 
 
 **I형 초신성**(Type I supernova)이란 스펙트럼에서 수소선이 나타나지 않는 [초신성](../Page/초신성.md "wikilink")을 말한다.

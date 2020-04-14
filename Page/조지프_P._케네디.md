@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
+> This article is converted from Wikipedia: [조지프 P. 케네디](https://ko.wikipedia.org/wiki/조지프_P._케네디).
 
 
 **조지프 패트릭 "조" 케네디 1세**(, [1888년](../Page/1888년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") \~ [1969년](../Page/1969년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 기업인·정치인이다. [제35대 대통령](../Page/미국의_대통령.md "wikilink") [존 F. 케네디의](../Page/존_F._케네디.md "wikilink") 부친으로, 미국 최고의 정치 명문가문으로 유명한 케네디 가문의 기반을 다진 인물로 알려져 있다.

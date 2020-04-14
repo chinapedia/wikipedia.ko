@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 투컷](https://ko.wikipedia.org/wiki/DJ_투컷).
 
 
 **DJ 투컷**(DJ Tukutz, , [1981년](../Page/1981년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")에서 활동 중인 [DJ이다](https://ko.wikipedia.org/wiki/디스크자키 "wikilink"). a.k.a는 **Street T**이다. 아워즈 소속의 3인조 [힙합](../Page/힙합.md "wikilink") 그룹 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 멤버이다. 2009년 10월 13일에 결혼식을 치르고 같은 해 10월 15일에 현역 입대했다가 [2011년](../Page/2011년.md "wikilink") [8월 9일에](../Page/8월_9일.md "wikilink") 제대하고, [2011년](../Page/2011년.md "wikilink") [11월 11일에](../Page/11월_11일.md "wikilink") BACKNFORTH 2nd RETURN OF THE DJ TUKUTZ를 통해 컴백 신고식을 치렀다. 명지대학교 법대, 동아방송예술대학교 음향제작과 중퇴하였다.

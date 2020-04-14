@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [찰스 W. 페어뱅크스](https://ko.wikipedia.org/wiki/찰스_W._페어뱅크스).
 
 
 **찰스 워런 페어뱅크스**(, [1852년](../Page/1852년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") \~ [1918년](../Page/1918년.md "wikilink") [6월 4일](../Page/6월_4일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 정치인이다. [1905년](../Page/1905년.md "wikilink") \~ [1909년](../Page/1909년.md "wikilink") [제26대 부통령으로](../Page/미국의_부통령.md "wikilink") 재직했다.

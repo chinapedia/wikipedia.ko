@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [CTSTV](https://ko.wikipedia.org/wiki/CTSTV).
+> This article is converted from Wikipedia: [CTS기독교TV](https://ko.wikipedia.org/wiki/CTS기독교TV).
 
 
 [썸네일에](https://ko.wikipedia.org/wiki/파일:DPP_0404.jpg "wikilink") 위치한 CTS본사\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:사진_195.jpg "wikilink")
 
-**CTS**(**C**hristian **T**elevision **S**ystem : **기독교TV**)는 [대한민국](../Page/대한민국.md "wikilink")의 종교 방송이며 최초의 기독교 텔레비전이다. 복음을 전파하는 영상매체로 [1995년](../Page/1995년.md "wikilink") 설립되었고, 현재 [개신교](../Page/개신교.md "wikilink") 43개교단이 주주로 참여하고 있다. 현재 CEO는 [감경철](../Page/감경철.md "wikilink") 회장이며, 기감, 예장 합동, 예장 통합이 공동대표이사직을 담당하고 있다. 한국 개신교 1000만 성도들의 신앙성숙과 정보화 시대에 비신앙인들에게 복음을 전하는 첨단 선교매체로서 선교와 교육, 문화와 예술, 생활과 정보 등의 프로그램을 편성 제작하는 종합복음 영상 매체이다. 첨단 정보화시대를 향한 예언자적 선교매체로서 그리스도의 부활과 구속의 은총을 널리 전하고 정의와 평화 창조질서의 보전을 선도하는 한국교회의 동반자가 되는 것을 목표 삼아 그리스도의 문화를 이 사회에 심는 편성, 하나님의 창조질서를 회복시키는 편성, 한국교회의 성장과 연합 및 교제를 위한 편성 등 3대 방송지침을 가진다.
+**CTS기독교TV**(Christian Television System)는 [대한민국](../Page/대한민국.md "wikilink")의 종교 방송이며 최초의 기독교 텔레비전이다. 복음을 전파하는 영상매체로 [1995년](../Page/1995년.md "wikilink") 설립되었고, 현재 [개신교](../Page/개신교.md "wikilink") 43개교단이 주주로 참여하고 있다. 현재 CEO는 [감경철](../Page/감경철.md "wikilink") 회장이며, 기감, 예장 합동, 예장 통합이 공동대표이사직을 담당하고 있다. 한국 개신교 1000만 성도들의 신앙성숙과 정보화 시대에 비신앙인들에게 복음을 전하는 첨단 선교매체로서 선교와 교육, 문화와 예술, 생활과 정보 등의 프로그램을 편성 제작하는 종합복음 영상 매체이다. 첨단 정보화시대를 향한 예언자적 선교매체로서 그리스도의 부활과 구속의 은총을 널리 전하고 정의와 평화 창조질서의 보전을 선도하는 한국교회의 동반자가 되는 것을 목표 삼아 그리스도의 문화를 이 사회에 심는 편성, 하나님의 창조질서를 회복시키는 편성, 한국교회의 성장과 연합 및 교제를 위한 편성 등 3대 방송지침을 가진다.
 
-[노량진](https://ko.wikipedia.org/wiki/노량진 "wikilink")의 본사를 비롯해 한국 18곳, 해외 3곳의 지사를 두고 있다. 현재 각 지역 Cable TV와 Skylife를 통한 [위성방송](../Page/위성방송.md "wikilink") 중이며 2010년 8월부터 IPTV 서비스를 통해 전국 어디서나 시청자가 원하는 플랫폼으로 24시간 방송을 접할 수 있도록 하고 있다.\[1\] 특히 국가조찬기도회, 서울시청 성탄트리 점등행사 등을 주관하며 한국 기독교 텔레비전 방송계를 선도하고 있다.\[2\]
+[노량진](https://ko.wikipedia.org/wiki/노량진 "wikilink")의 본사를 비롯해 한국 18곳, 해외 3곳의 지사를 두고 있다. 현재 각 지역 Cable TV와 Skylife를 통한 [위성방송](../Page/위성방송.md "wikilink") 중이며 2010년 8월부터 IPTV 서비스를 통해 전국 어디서나 시청자가 원하는 플랫폼으로 24시간 방송을 접할 수 있도록 하고 있다.\[1\] 특히 국가조찬기도회, 서울시청 성탄트리 점등행사 등을 주관하며 한국 기독교 텔레비전 방송계를 선도하고 있다.\[2\] 아울러 2010년 3월 CTS Family Channel을 개국해 방송 중이며 CTS Education Channel 개국 또한 앞두고 있다.
 
 ## 연혁
 
@@ -337,7 +337,7 @@
 
 ## 주주 교단
 
-  - **CTS기독교TV**는 [1995년](../Page/1995년.md "wikilink") 한국교회 86개 공교단 연합으로 출발하여 43개 교단이 주주로 참여한 명실공히 [한국](../Page/한국.md "wikilink")[교회](../Page/교회.md "wikilink")를 대표하는 기독멀티미디어 ([케이블](../Page/케이블.md "wikilink"),[위성](../Page/위성.md "wikilink"),[인터넷](../Page/인터넷.md "wikilink")[방송](../Page/방송.md "wikilink")) [영상매체](https://ko.wikipedia.org/wiki/영상매체 "wikilink")이다.
+  -   - [기독교TV](https://ko.wikipedia.org/wiki/기독교TV "wikilink")는 [1995](https://ko.wikipedia.org/wiki/1995 "wikilink")년 한국교회 86개 공교단 연합으로 출발하여 43개 교단이 주주로 참여한 명실공히 [한국](../Page/한국.md "wikilink")[교회](../Page/교회.md "wikilink")를 대표하는 기독멀티미디어 ([케이블](../Page/케이블.md "wikilink"),[위성](../Page/위성.md "wikilink"),[인터넷](../Page/인터넷.md "wikilink")[방송](../Page/방송.md "wikilink")) [영상매체](https://ko.wikipedia.org/wiki/영상매체 "wikilink")이다.
 
 ;
 
@@ -386,7 +386,7 @@
   - 한국기독교장로회총회
   - 예수교대한하나님의성회
 
-## 채널번호
+## 채널번호 (CTS 기독교TV)
 
   - [KT스카이라이프](../Page/KT스카이라이프.md "wikilink") 183번
   - [B TV](../Page/B_TV.md "wikilink") 301번
@@ -397,11 +397,11 @@
 
 ## 외부 링크
 
-  - [CTS 공식 홈페이지](http://cts.tv)
+  - [CTS 공식 홈페이지](http://www.cts.tv/)
   - [CTS 트위터](https://twitter.com/cts_korea)
   - [CTS 페이스북](https://www.facebook.com/ctsKorea)
 
-[분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2003년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2003년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2003년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2003년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 방송채널사용사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_방송채널사용사업자 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:기독교 텔레비전 방송국](https://ko.wikipedia.org/wiki/분류:기독교_텔레비전_방송국 "wikilink")
+[KCTS](https://ko.wikipedia.org/wiki/분류:1995년_개국 "wikilink") [KCTS](https://ko.wikipedia.org/wiki/분류:2003년_폐국 "wikilink") [분류:2003년 개국](https://ko.wikipedia.org/wiki/분류:2003년_개국 "wikilink") [분류:대한민국의 방송채널사용사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_방송채널사용사업자 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:종교 방송](https://ko.wikipedia.org/wiki/분류:종교_방송 "wikilink")
 
 1.  노희경기자, [CTS기독교TV, IPTV 론칭-모바일서비스 개통](http://www.cts.tv/bottom/company02/company_news.asp) , [국민일보](../Page/국민일보.md "wikilink")
 2.  이동희기자, [서울시청앞 광장 성탄트리 불밝히다](http://www.cts.tv/bottom/company02/company_news.asp) , [국민일보](../Page/국민일보.md "wikilink")

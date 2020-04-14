@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [올레 TV](https://ko.wikipedia.org/wiki/올레_TV).
 
 
 **올레 TV**(****, 이전 명칭 **메가TV**, **쿡TV**)는 [KT](../Page/KT.md "wikilink")에서 제공하는 [IPTV](../Page/IPTV.md "wikilink") 서비스이다.\[1\] [VOD중심의](../Page/주문형_비디오.md "wikilink") TV 포털 서비스만을 제공해오다가 국내에서 첫 번째로 [수도권에서](https://ko.wikipedia.org/wiki/수도권_\(대한민국\) "wikilink") 실시간 방송을 [2008년](../Page/2008년.md "wikilink") [11월 17일에](../Page/11월_17일.md "wikilink") 시작하였다. 지역 방송사와 [IPTV](../Page/IPTV.md "wikilink") 재송신을 합의하여 2009년 1월 9일부터 전국적인 실시간 방송을 시작했다. 2014년 11월 기준, 가입자 570만(올레TV스카이라이프, 올레TV live 포함)으로 IPTV 업계에서 절반 이상의 많은 가입자를 차지하고 있다.\[2\]
@@ -21,16 +21,16 @@
 ## 연혁
 
   - [2004년](../Page/2004년.md "wikilink") [6월](../Page/6월.md "wikilink") **홈엔** 론칭
-  - [2006년](../Page/2006년.md "wikilink") [9월](../Page/9월.md "wikilink") 브랜드네임 변경(홈엔 → **메가패스TV**)
-  - [2007년](../Page/2007년.md "wikilink") [7월](../Page/7월.md "wikilink") 브랜드네임 변경(메가패스TV → **메가TV**)
+  - [2006년](../Page/2006년.md "wikilink") [9월](../Page/9월.md "wikilink") 브랜드네임 변경 홈엔 → **메가패스TV**
+  - [2007년](../Page/2007년.md "wikilink") [7월](../Page/7월.md "wikilink") 브랜드네임 변경 메가패스TV → **메가TV**
   - [2007년](../Page/2007년.md "wikilink") [9월](../Page/9월.md "wikilink") D\&P 서비스 시작으로 전국 상용화
   - [2008년](../Page/2008년.md "wikilink") [1월](../Page/1월.md "wikilink") [네이버](../Page/네이버.md "wikilink") 검색 론칭 및 [MBC](../Page/문화방송.md "wikilink") 유료화
   - [2008년](../Page/2008년.md "wikilink") [2월](../Page/2월.md "wikilink") TPS 출시
   - [2008년](../Page/2008년.md "wikilink") [3월](../Page/3월.md "wikilink") 가입자 50만 돌파
   - [2008년](../Page/2008년.md "wikilink") [9월](../Page/9월.md "wikilink") 가입자 80만 돌파 및 실시간방송 시범 서비스 시작
   - [2008년](../Page/2008년.md "wikilink") [11월](../Page/11월.md "wikilink") (구)온미디어(현 [CJ ENM](../Page/CJ_ENM.md "wikilink"))와 계약 및 실시간 방송 시작
-  - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") 브랜드네임 변경 (메가TV → **쿡TV**)
-  - [2011년](../Page/2011년.md "wikilink") [2월](../Page/2월.md "wikilink") 브랜드네임 변경 (쿡TV → **올레 TV**)
+  - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") 브랜드네임 변경 메가TV → **쿡TV**
+  - [2011년](../Page/2011년.md "wikilink") [2월](../Page/2월.md "wikilink") 브랜드네임 변경 쿡TV → **올레 TV**
   - [2011년](../Page/2011년.md "wikilink") [3월](../Page/3월.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 및 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 채널 송출 개시
   - [2012년](../Page/2012년.md "wikilink") [12월](../Page/12월.md "wikilink") 가입자 400만 돌파
   - [2013년](../Page/2013년.md "wikilink") [7월](../Page/7월.md "wikilink") 올레TV 스마트 출시
@@ -47,6 +47,11 @@
 ## 각주
 
 <references/>
+
+## 관련 항목
+
+  - [KT스카이라이프](../Page/KT스카이라이프.md "wikilink")
+  - [Seezn](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink")
 
 ## 외부 링크
 

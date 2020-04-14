@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Less \(\)](https://ko.wikipedia.org/wiki/Less_\(\)).
+> This article is converted from Wikipedia: [Less \(유닉스\)](https://ko.wikipedia.org/wiki/Less_\(유닉스\)).
 
 
 **less**(레스)는 [유닉스](../Page/유닉스.md "wikilink")나 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [유닉스 계열](../Page/유닉스_계열.md "wikilink") 시스템에서 텍스트 파일을 한 번에 한 화면씩 보여주는 터미널 페이저(terminal pager)이다. less는 기능적으로 more와 유사하나 파일의 앞쪽과 뒤쪽으로 이동할 수 있는 more의 개량형 명령어라고 볼 수 있다. 대부분의 유닉스의 문서 편집기나 뷰어와는 다르게 less는 구동 전에 전체 파일을 읽지 않기 때문에 큰 용량의 파일을 더 빨리 읽을 수 있다.

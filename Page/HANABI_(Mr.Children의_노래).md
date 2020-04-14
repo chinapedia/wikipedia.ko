@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HANABI \(Mr.Children \)](https://ko.wikipedia.org/wiki/HANABI_\(Mr.Children_\)).
+> This article is converted from Wikipedia: [HANABI \(Mr.Children의 노래\)](https://ko.wikipedia.org/wiki/HANABI_\(Mr.Children의_노래\)).
 
 
 《**HANABI**》(하나비)는 [Mr.Children](../Page/Mr.Children.md "wikilink")의 33번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2008년](../Page/2008년.md "wikilink") [9월 3일에](../Page/9월_3일.md "wikilink") [토이즈팩토리](https://ko.wikipedia.org/wiki/토이즈팩토리 "wikilink")에서 발매했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Mr.Children](https://ko.wikipedia.org/wiki/:Mr.Children).
+> This article is converted from Wikipedia: [틀:Mr.Children](https://ko.wikipedia.org/wiki/틀:Mr.Children).
 
 
 <onlyinclude></onlyinclude>

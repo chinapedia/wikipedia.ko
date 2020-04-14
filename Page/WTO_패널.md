@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WTO ](https://ko.wikipedia.org/wiki/WTO_).
+> This article is converted from Wikipedia: [WTO 패널](https://ko.wikipedia.org/wiki/WTO_패널).
 
 
 **WTO 패널**은 [WTO](https://ko.wikipedia.org/wiki/WTO "wikilink")의 국제무역 분쟁해결 관련기관이다. [DSB](https://ko.wikipedia.org/wiki/DSB "wikilink")에서 [역총의](https://ko.wikipedia.org/wiki/역총의 "wikilink")로 설치한다. 즉, 양 당사국간의 국제 무역이 발생해서 한 당사국이 WTO에 제소를 하여 [DSB](https://ko.wikipedia.org/wiki/DSB "wikilink")에 패널 설치를 요구한다 그러면, DSB에서는 역총의, 즉 만장일치로 반대하지 않는 한 패널을 설치한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WBSC ](https://ko.wikipedia.org/wiki/WBSC_).
+> This article is converted from Wikipedia: [WBSC 랭킹](https://ko.wikipedia.org/wiki/WBSC_랭킹).
 
 
 **[WBSC](../Page/세계_야구_소프트볼_연맹.md "wikilink") 랭킹**()은 세계 각국의 [야구](../Page/야구.md "wikilink") 수준을 점수화하여 순위를 비교한 것으로, [IBAF](https://ko.wikipedia.org/wiki/IBAF "wikilink")가 존재하던 [2009년](../Page/2009년.md "wikilink") [1월](../Page/1월.md "wikilink")에 IBAF 랭킹이라는 이름으로 공식적으로 발표되기 시작하였고, IBAF와 ISF가 합병하여 WBSC가 탄생한 2013년에 현재의 명칭으로 변경되었다. WBSC는 앞으로 연맹에서 주최하는 대회가 종료될때마다 새로운 국제 랭킹을 발표할 계획이다. 여성 야구 대표팀, 소프트볼 대표팀의 랭킹도 따로 존재한다.

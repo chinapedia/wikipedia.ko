@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Touch \(\)](https://ko.wikipedia.org/wiki/Touch_\(\)).
+> This article is converted from Wikipedia: [Touch \(유닉스\)](https://ko.wikipedia.org/wiki/Touch_\(유닉스\)).
 
 
 **touch**는 [파일의](../Page/컴퓨터_파일.md "wikilink") 접근이나 [타임스탬프의](https://ko.wikipedia.org/wiki/시스템_타임 "wikilink") 형식을 변경하는 데 사용되는 표준 [유닉스](../Page/유닉스.md "wikilink") [프로그램이다](../Page/컴퓨터_프로그램.md "wikilink"). 또한 이것은 새로운 빈 파일을 만드는 데 사용된다.

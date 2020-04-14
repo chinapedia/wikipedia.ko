@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K-](https://ko.wikipedia.org/wiki/K-).
+> This article is converted from Wikipedia: [K-멜레온](https://ko.wikipedia.org/wiki/K-멜레온).
 
 
 **K-멜레온**(K-Meleon)은 [웹 브라우저의](../Page/웹_브라우저.md "wikilink") 하나이다. 32비트 [마이크로소프트 윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink")(用)이며 [GNU 일반 공중 사용 허가서](../Page/GNU_일반_공중_사용_허가서.md "wikilink")(GNU GPL)를 따른다.

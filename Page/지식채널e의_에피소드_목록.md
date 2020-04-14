@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [e  ](https://ko.wikipedia.org/wiki/e__).
+> This article is converted from Wikipedia: [지식채널e의 에피소드 목록](https://ko.wikipedia.org/wiki/지식채널e의_에피소드_목록).
 
 
 아래는 한국교육방송공사에서 방송하는 시사·교양 프로그램인 《**[지식채널e](../Page/지식채널e.md "wikilink")**》의 방영 목록이다.
@@ -9448,7 +9448,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1458</p></td>
-<td><p>3월 1일</p></td>
+<td><p>3월 2일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
 <td><p>증언자</p></td>
 <td></td>
@@ -9456,7 +9456,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1459</p></td>
-<td><p>3월 2일</p></td>
+<td><p>3월 3일</p></td>
 <td><p>공간spac<strong>e</strong></p></td>
 <td><p>이야기하는 지도들</p></td>
 <td></td>
@@ -9464,7 +9464,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1460</p></td>
-<td><p>3월 8일</p></td>
+<td><p>3월 9일</p></td>
 <td><p>m<strong>e</strong>dia 언론</p></td>
 <td><p>우리 각자의 진실 피자 가게 습격 사건</p></td>
 <td></td>
@@ -9472,7 +9472,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1461</p></td>
-<td><p>3월 9일</p></td>
+<td><p>3월 10일</p></td>
 <td><p>캐릭터charact<strong>e</strong>r</p></td>
 <td><p>모든 어린이의 친구</p></td>
 <td><p><a href="../Page/윔피_키드.md" title="wikilink">윔피 키드</a></p></td>
@@ -9480,7 +9480,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1462</p></td>
-<td><p>3월 15일</p></td>
+<td><p>3월 16일</p></td>
 <td><p>민주주의d<strong>e</strong>mocracy</p></td>
 <td><p>19192540</p></td>
 <td><p><a href="../Page/선거.md" title="wikilink">선거</a></p></td>
@@ -9488,7 +9488,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1463</p></td>
-<td><p>3월 16일</p></td>
+<td><p>3월 17일</p></td>
 <td><p>진실tru<strong>e</strong></p></td>
 <td><p>감시 사회</p></td>
 <td><p><a href="../Page/에드워드_스노든.md" title="wikilink">에드워드 스노든</a></p></td>
@@ -9496,7 +9496,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1464</p></td>
-<td><p>3월 22일</p></td>
+<td><p>3월 23일</p></td>
 <td><p>기술t<strong>e</strong>chnology</p></td>
 <td><p>세상을 바꾸는 네 번째 기술</p></td>
 <td></td>
@@ -9504,7 +9504,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1465</p></td>
-<td><p>3월 23일</p></td>
+<td><p>3월 24일</p></td>
 <td><p>과학scienc<strong>e</strong></p></td>
 <td><p>전지전능 ( )씨</p></td>
 <td></td>
@@ -9512,7 +9512,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1466</p></td>
-<td><p>3월 29일</p></td>
+<td><p>3월 30일</p></td>
 <td><p>건강h<strong>e</strong>alth</p></td>
 <td><p>이제, 걸을까?</p></td>
 <td></td>
@@ -9520,7 +9520,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1467</p></td>
-<td><p>3월 30일</p></td>
+<td><p>3월 31일</p></td>
 <td><p>지식knowledg<strong>e</strong></p></td>
 <td><p>완전한 기록</p></td>
 <td></td>
@@ -9528,7 +9528,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1468</p></td>
-<td><p>4월 5일</p></td>
+<td><p>4월 6일</p></td>
 <td><p>민주주의d<strong>e</strong>mocracy</p></td>
 <td><p>헌법</p></td>
 <td><p><a href="../Page/바이마르_헌법.md" title="wikilink">바이마르 헌법</a>,<a href="../Page/미국의_헌법.md" title="wikilink">미국의 헌법</a></p></td>
@@ -9536,7 +9536,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1469</p></td>
-<td><p>4월 6일</p></td>
+<td><p>4월 7일</p></td>
 <td><p>경제<strong>e</strong>conomy</p></td>
 <td><p>보이지 않는 손</p></td>
 <td><p><a href="../Page/애덤_스미스.md" title="wikilink">애덤 스미스</a></p></td>
@@ -9544,7 +9544,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1470</p></td>
-<td><p>4월 12일</p></td>
+<td><p>4월 13일</p></td>
 <td><p>지식knowledg<strong>e</strong></p></td>
 <td><p>미터의 탄생</p></td>
 <td></td>
@@ -9552,7 +9552,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1471</p></td>
-<td><p>4월 13일</p></td>
+<td><p>4월 14일</p></td>
 <td><p>int<strong>e</strong>rview인터뷰</p></td>
 <td><p>다시, 봄(春)</p></td>
 <td><p>(1142)</p></td>
@@ -9560,7 +9560,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1472</p></td>
-<td><p>4월 19일</p></td>
+<td><p>4월 20일</p></td>
 <td><p>꿈dr<strong>e</strong>am</p></td>
 <td><p>집으로 가는 먼 길</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조덕환" title="wikilink">조덕환</a>,<a href="../Page/들국화_(밴드).md" title="wikilink">들국화 (밴드)</a></p></td>
@@ -9568,7 +9568,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1473</p></td>
-<td><p>4월 20일</p></td>
+<td><p>4월 21일</p></td>
 <td><p>생존surviv<strong>e</strong></p></td>
 <td><p>'보통'의 날들</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대기오염" title="wikilink">대기오염</a>,<a href="../Page/미세먼지.md" title="wikilink">미세먼지</a></p></td>
@@ -9576,7 +9576,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1474</p></td>
-<td><p>4월 26일</p></td>
+<td><p>4월 27일</p></td>
 <td><p>int<strong>e</strong>rview인터뷰</p></td>
 <td><p>언더그라운드</p></td>
 <td><p><a href="../Page/도쿄_지하철_사린_사건.md" title="wikilink">도쿄 지하철 사린 사건</a>,<a href="../Page/무라카미_하루키.md" title="wikilink">무라카미 하루키</a></p></td>
@@ -9584,7 +9584,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1475</p></td>
-<td><p>4월 27일</p></td>
+<td><p>4월 28일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
 <td><p>생애 두번째 말문</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울대학교" title="wikilink">불통의 아이콘 서울대생들이 소통을 한다?</a></p></td>
@@ -9592,7 +9592,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1476</p></td>
-<td><p>5월 3일</p></td>
+<td><p>5월 4일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>밥도둑 ‘미담(美談)’의 구성</p></td>
 <td><p><a href="../Page/장_발장.md" title="wikilink">장 발장</a>,<a href="../Page/부산사하경찰서.md" title="wikilink">부산사하경찰서</a></p></td>
@@ -9600,7 +9600,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1477</p></td>
-<td><p>5월 4일</p></td>
+<td><p>5월 5일</p></td>
 <td><p>환경<strong>e</strong>nvironment</p></td>
 <td><p>나의 종착지는 어디인가요</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마이크로_플라스틱" title="wikilink">마이크로 플라스틱</a></p></td>
@@ -9608,7 +9608,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1478</p></td>
-<td><p>5월 10일</p></td>
+<td><p>5월 11일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
 <td><p>대통령과 나</p></td>
 <td></td>
@@ -9616,7 +9616,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1479</p></td>
-<td><p>5월 11일</p></td>
+<td><p>5월 12일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>상자 밖에서 생각하라</p></td>
 <td><p><a href="../Page/앨빈_토플러.md" title="wikilink">앨빈 토플러</a></p></td>
@@ -9624,7 +9624,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1480</p></td>
-<td><p>5월 17일</p></td>
+<td><p>5월 18일</p></td>
 <td><p>진실tru<strong>e</strong></p></td>
 <td><p>'이상한' 회고록</p></td>
 <td><p><a href="../Page/전두환.md" title="wikilink">전두환</a>,<a href="../Page/5·18_광주_민주화_운동.md" title="wikilink">5·18 광주 민주화 운동</a></p></td>
@@ -9632,7 +9632,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1481</p></td>
-<td><p>5월 18일</p></td>
+<td><p>5월 19일</p></td>
 <td><p>어린이childr<strong>e</strong>n</p></td>
 <td><p>옷장문을 열면</p></td>
 <td><p><a href="../Page/사자,_마녀,_그리고_옷장.md" title="wikilink">사자, 마녀, 그리고 옷장</a>,<a href="../Page/나니아_연대기.md" title="wikilink">나니아 연대기</a></p></td>
@@ -9640,7 +9640,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1482</p></td>
-<td><p>5월 24일</p></td>
+<td><p>5월 25일</p></td>
 <td><p>교육<strong>e</strong>ducation</p></td>
 <td><p>'있지만 없는' 것</p></td>
 <td><p><a href="../Page/콘돔.md" title="wikilink">콘돔</a>,<a href="../Page/성교육.md" title="wikilink">성교육</a></p></td>
@@ -9648,7 +9648,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1483</p></td>
-<td><p>5월 25일</p></td>
+<td><p>5월 26일</p></td>
 <td><p>생존surviv<strong>e</strong></p></td>
 <td><p>황당한 질문들 ?</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/면접" title="wikilink">면접</a></p></td>
@@ -9656,7 +9656,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1484</p></td>
-<td><p>5월 31일</p></td>
+<td><p>6월 1일</p></td>
 <td><p>편지l<strong>e</strong>tter</p></td>
 <td><p>편지 쓰는 우체부들</p></td>
 <td></td>
@@ -9664,7 +9664,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1485</p></td>
-<td><p>6월 1일</p></td>
+<td><p>6월 2일</p></td>
 <td><p>사람p<strong>e</strong>ople</p></td>
 <td><p>어느 약골 청년의 마지막 봄</p></td>
 <td><p><a href="../Page/김유정_(소설가).md" title="wikilink">김유정 (소설가)</a></p></td>
@@ -9672,7 +9672,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1486</p></td>
-<td><p>6월 7일</p></td>
+<td><p>6월 8일</p></td>
 <td><p>건강h<strong>e</strong>alth</p></td>
 <td><p>근육이 바쁜 진짜 이유</p></td>
 <td></td>
@@ -9680,7 +9680,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1487</p></td>
-<td><p>6월 8일</p></td>
+<td><p>6월 9일</p></td>
 <td><p>e야기</p></td>
 <td><p>해결책의 노래</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/장_자크_루소" title="wikilink">장 자크 루소</a></p></td>
@@ -9688,7 +9688,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1488</p></td>
-<td><p>6월 14일</p></td>
+<td><p>6월 15일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
 <td><p>나는 이등병의 엄마입니다</p></td>
 <td></td>
@@ -9696,7 +9696,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1489</p></td>
-<td><p>6월 15일</p></td>
+<td><p>6월 16일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>인간선택설</p></td>
 <td><p><a href="../Page/코끼리.md" title="wikilink">코끼리</a></p></td>
@@ -9704,7 +9704,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1490</p></td>
-<td><p>6월 21일</p></td>
+<td><p>6월 22일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>멋진 시를 쓰고 싶다고요?</p></td>
 <td></td>
@@ -9712,7 +9712,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1491</p></td>
-<td><p>6월 22일</p></td>
+<td><p>6월 23일</p></td>
 <td><p>사랑lov<strong>e</strong></p></td>
 <td><p>기억을 소환하는 고양이</p></td>
 <td></td>
@@ -9720,7 +9720,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1492</p></td>
-<td><p>6월 28일</p></td>
+<td><p>6월 29일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>동물의 눈에 세상은</p></td>
 <td></td>
@@ -9728,7 +9728,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1493</p></td>
-<td><p>6월 29일</p></td>
+<td><p>6월 30일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>기이한 폐 질환 징조</p></td>
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a><a href="https://ko.wikipedia.org/wiki/참조" title="wikilink">참조</a></p></td>
@@ -9736,7 +9736,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1494</p></td>
-<td><p>7월 5일</p></td>
+<td><p>7월 6일</p></td>
 <td><p>인생lif<strong>e</strong></p></td>
 <td><p>구름 추적자</p></td>
 <td></td>
@@ -9744,7 +9744,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1495</p></td>
-<td><p>7월 6일</p></td>
+<td><p>7월 7일</p></td>
 <td><p>지식knowledg<strong>e</strong></p></td>
 <td><p>'그림'의 탄생</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정물화" title="wikilink">정물화</a></p></td>
@@ -9752,7 +9752,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1496</p></td>
-<td><p>7월 12일</p></td>
+<td><p>7월 13일</p></td>
 <td><p>교육<strong>e</strong>ducation</p></td>
 <td><p>'벽 속의 구멍' 프로젝트</p></td>
 <td></td>
@@ -9760,7 +9760,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1497</p></td>
-<td><p>7월 13일</p></td>
+<td><p>7월 14일</p></td>
 <td><p>사람p<strong>e</strong>ople</p></td>
 <td><p>조선의 스포-쓰맨</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/여운형" title="wikilink">여운형</a></p></td>
@@ -9768,7 +9768,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1498</p></td>
-<td><p>7월 19일</p></td>
+<td><p>7월 20일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>'기이한 17년' - 50만 명의 피해자들</p></td>
 <td></td>
@@ -9776,7 +9776,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1499</p></td>
-<td><p>7월 20일</p></td>
+<td><p>7월 21일</p></td>
 <td><p>공간spac<strong>e</strong></p></td>
 <td><p>오늘도 방을 정리하는 당신에게</p></td>
 <td></td>
@@ -9784,7 +9784,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1500</p></td>
-<td><p>7월 26일</p></td>
+<td><p>7월 27일</p></td>
 <td><p>e야기</p></td>
 <td><p>구두집사</p></td>
 <td></td>
@@ -9792,7 +9792,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1501</p></td>
-<td><p>7월 27일</p></td>
+<td><p>7월 28일</p></td>
 <td><p>문학lit<strong>e</strong>rature</p></td>
 <td><p>우리 시대의 서정시</p></td>
 <td><p><a href="../Page/오규원.md" title="wikilink">오규원</a></p></td>
@@ -9800,7 +9800,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1502</p></td>
-<td><p>8월 2일</p></td>
+<td><p>8월 3일</p></td>
 <td><p>교육<strong>e</strong>ducation</p></td>
 <td><p>공부, 셀프, 성공적</p></td>
 <td><p><a href="../Page/아이작_뉴턴.md" title="wikilink">벽 속의 구멍 프로젝트</a> <a href="https://ko.wikipedia.org/wiki/참조" title="wikilink">참조</a></p></td>
@@ -9808,7 +9808,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1503</p></td>
-<td><p>8월 3일</p></td>
+<td><p>8월 4일</p></td>
 <td><p>순간mom<strong>e</strong>nt</p></td>
 <td><p>'그림'의 경고</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/바니타스화" title="wikilink">바니타스화</a></p></td>
@@ -9816,7 +9816,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1504</p></td>
-<td><p>8월 9일</p></td>
+<td><p>8월 10일</p></td>
 <td><p>인생lif<strong>e</strong></p></td>
 <td><p>모기가 뭐길래?</p></td>
 <td></td>
@@ -9824,7 +9824,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1505</p></td>
-<td><p>8월 10일</p></td>
+<td><p>8월 11일</p></td>
 <td><p>예고편pr<strong>e</strong>view</p></td>
 <td><p>나는 비(非)국민의 아들입니다</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/EIDF" title="wikilink">EIDF</a></p></td>
@@ -9832,7 +9832,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1506</p></td>
-<td><p>8월 16일</p></td>
+<td><p>8월 17일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>이행의 계곡에선 무슨 일이 벌어졌나?</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/저출산" title="wikilink">저출산</a></p></td>
@@ -9840,7 +9840,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1507</p></td>
-<td><p>8월 17일</p></td>
+<td><p>8월 18일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>기이한 '결론'</p></td>
 <td></td>
@@ -9848,7 +9848,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1508</p></td>
-<td><p>8월 30일</p></td>
+<td><p>8월 31일</p></td>
 <td><p>e야기</p></td>
 <td><p>정류장</p></td>
 <td></td>
@@ -9856,7 +9856,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1509</p></td>
-<td><p>8월 31일</p></td>
+<td><p>9월 1일</p></td>
 <td><p>교육<strong>e</strong>ducation</p></td>
 <td><p>유치원에서 생긴 일</p></td>
 <td><p><a href="../Page/스웨덴.md" title="wikilink">스웨덴</a></p></td>
@@ -9864,7 +9864,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1510</p></td>
-<td><p>9월 6일</p></td>
+<td><p>9월 7일</p></td>
 <td><p>m<strong>e</strong>dia 언론</p></td>
 <td><p>감시자들</p></td>
 <td><p><a href="../Page/택시운전사_(영화).md" title="wikilink">택시운전사 (영화)</a>,<a href="../Page/위르겐_힌츠페터.md" title="wikilink">위르겐 힌츠페터</a>,<a href="https://ko.wikipedia.org/wiki/공영방송" title="wikilink">공영방송</a>,<a href="../Page/5·18_광주_민주화_운동.md" title="wikilink">5·18 광주 민주화 운동</a>,<a href="../Page/2012년_대한민국_언론_노조_파업.md" title="wikilink">2012년 대한민국 언론 노조 파업</a></p></td>
@@ -9872,7 +9872,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1511</p></td>
-<td><p>9월 7일</p></td>
+<td><p>9월 8일</p></td>
 <td><p>성공succ<strong>e</strong>ss</p></td>
 <td><p>실패를 후회하는 당신에게</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카메론_크로우" title="wikilink">줄리아 카메론</a></p></td>
@@ -9880,7 +9880,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1512</p></td>
-<td><p>9월 13일</p></td>
+<td><p>9월 14일</p></td>
 <td><p>기술t<strong>e</strong>chnology</p></td>
 <td><p>우리 오래가게 해주세요</p></td>
 <td><p><a href="../Page/스마트폰.md" title="wikilink">스마트폰</a></p></td>
@@ -9888,7 +9888,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1513</p></td>
-<td><p>9월 14일</p></td>
+<td><p>9월 15일</p></td>
 <td><p>hop<strong>e</strong>희망</p></td>
 <td><p>엄마는 7살 딸을 보지 못 한다</p></td>
 <td><p><a href="../Page/메탄올.md" title="wikilink">메탄올</a></p></td>
@@ -9896,7 +9896,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1514</p></td>
-<td><p>9월 20일</p></td>
+<td><p>9월 21일</p></td>
 <td><p>e야기</p></td>
 <td><p>혈액형 성격설, 이거 실화냐</p></td>
 <td></td>
@@ -9904,7 +9904,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1515</p></td>
-<td><p>9월 21일</p></td>
+<td><p>9월 22일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>가족의 탄생</p></td>
 <td><p><a href="../Page/프랑스.md" title="wikilink">프랑스</a></p></td>
@@ -9912,7 +9912,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1516</p></td>
-<td><p>9월 27일</p></td>
+<td><p>9월 28일</p></td>
 <td><p>건강h<strong>e</strong>alth</p></td>
 <td><p>뱃살이 꾸는 꿈</p></td>
 <td></td>
@@ -9920,7 +9920,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1517</p></td>
-<td><p>9월 28일</p></td>
+<td><p>9월 29일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
 <td><p>행복한 사람</p></td>
 <td><p><a href="../Page/조동진.md" title="wikilink">조동진</a></p></td>
@@ -9928,7 +9928,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1518</p></td>
-<td><p>10월 11일</p></td>
+<td><p>10월 12일</p></td>
 <td><p>m<strong>e</strong>dia 언론</p></td>
 <td><p>그들의 공식</p></td>
 <td><p>1142,<a href="../Page/목포문화방송.md" title="wikilink">목포문화방송</a></p></td>
@@ -9936,7 +9936,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1519</p></td>
-<td><p>10월 12일</p></td>
+<td><p>10월 13일</p></td>
 <td><p>사라진 Why, 왜?</p></td>
 <td><p><a href="../Page/나는_꼼수다.md" title="wikilink">나는 꼼수다</a></p></td>
 <td></td>
@@ -9944,7 +9944,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1520</p></td>
-<td><p>10월 18일</p></td>
+<td><p>10월 19일</p></td>
 <td><p>작전</p></td>
 <td></td>
 <td></td>
@@ -9952,7 +9952,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1521</p></td>
-<td><p>10월 19일</p></td>
+<td><p>10월 20일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>지배</p></td>
 <td><p><a href="../Page/2017년_대한민국_언론_노조_파업.md" title="wikilink">2017년 대한민국 언론 노조 파업</a>,<a href="../Page/최승호_(언론인).md" title="wikilink">최승호 (언론인)</a>,<a href="../Page/공범자들.md" title="wikilink">공범자들</a></p></td>
@@ -9960,7 +9960,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1522</p></td>
-<td><p>10월 25일</p></td>
+<td><p>10월 26일</p></td>
 <td><p>건강h<strong>e</strong>alth</p></td>
 <td><p>돌아와요, 지구인</p></td>
 <td></td>
@@ -9968,7 +9968,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1523</p></td>
-<td><p>10월 26일</p></td>
+<td><p>10월 27일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>벽 너머에 사람이 살고 있다</p></td>
 <td></td>
@@ -9976,7 +9976,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1524</p></td>
-<td><p>11월 1일</p></td>
+<td><p>11월 2일</p></td>
 <td><p>공간spac<strong>e</strong></p></td>
 <td><p>영혼을 위한 건축</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/하이라인_파크" title="wikilink">하이라인 파크</a></p></td>
@@ -9984,7 +9984,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1525</p></td>
-<td><p>11월 2일</p></td>
+<td><p>11월 3일</p></td>
 <td><p>삶liv<strong>e</strong></p></td>
 <td><p>당신의 선택은?</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/반구대_암각화" title="wikilink">반구대 암각화</a></p></td>
@@ -9992,7 +9992,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1526</p></td>
-<td><p>11월 8일</p></td>
+<td><p>11월 9일</p></td>
 <td><p>진실true</p></td>
 <td><p>뉴스 문맹 1부 정말 아무 뉴스나 다 믿는구나</p></td>
 <td><p><a href="../Page/가짜뉴스.md" title="wikilink">가짜뉴스</a></p></td>
@@ -10000,7 +10000,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1527</p></td>
-<td><p>11월 9일</p></td>
+<td><p>11월 10일</p></td>
 <td><p>공간space</p></td>
 <td><p>욕망공간</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/베란다" title="wikilink">베란다</a></p></td>
@@ -10008,7 +10008,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1528</p></td>
-<td><p>11월 15일</p></td>
+<td><p>11월 16일</p></td>
 <td><p>m<strong>e</strong>dia 언론</p></td>
 <td><p>뉴스 문맹 2부 누구나 만드는 뉴스</p></td>
 <td><p><a href="../Page/가짜뉴스.md" title="wikilink">가짜뉴스</a></p></td>
@@ -10016,7 +10016,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1529</p></td>
-<td><p>11월 16일</p></td>
+<td><p>11월 17일</p></td>
 <td><p>인생life</p></td>
 <td><p>삶, 사랑, 죽음에 관한 시</p></td>
 <td><p><a href="../Page/에드바르_뭉크.md" title="wikilink">에드바르 뭉크</a>,<a href="../Page/절규.md" title="wikilink">절규</a></p></td>
@@ -10024,7 +10024,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1530</p></td>
-<td><p>11월 22일</p></td>
+<td><p>11월 23일</p></td>
 <td><p>e야기</p></td>
 <td><p>아이에게</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/특수학교" title="wikilink">특수학교</a></p></td>
@@ -10032,7 +10032,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1531</p></td>
-<td><p>11월 23일</p></td>
+<td><p>11월 24일</p></td>
 <td><p>생존surviv<strong>e</strong></p></td>
 <td><p>이미 충분히 늦었다</p></td>
 <td></td>
@@ -10040,7 +10040,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1532</p></td>
-<td><p>11월 29일</p></td>
+<td><p>11월 30일</p></td>
 <td><p>문학lit<strong>e</strong>rature</p></td>
 <td><p>정거장에서의 충고</p></td>
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a><a href="https://ko.wikipedia.org/wiki/참조" title="wikilink">참조</a>,<a href="../Page/박정현.md" title="wikilink">박해현</a></p></td>
@@ -10048,7 +10048,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1533</p></td>
-<td><p>11월 30일</p></td>
+<td><p>12월 1일</p></td>
 <td><p>삶live</p></td>
 <td><p>우리에게 남겨진 것</p></td>
 <td><p><a href="../Page/장항화물역.md" title="wikilink">장항제련소</a></p></td>
@@ -10056,7 +10056,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1534</p></td>
-<td><p>12월 6일</p></td>
+<td><p>12월 7일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>어, 니 맘 인정</p></td>
 <td><p><a href="../Page/급식.md" title="wikilink">급식</a>체</p></td>
@@ -10064,7 +10064,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1535</p></td>
-<td><p>12월 7일</p></td>
+<td><p>12월 8일</p></td>
 <td><p>언어languag<strong>e</strong></p></td>
 <td><p>인정의 방법</p></td>
 <td></td>
@@ -10073,8 +10073,8 @@ A Friend in London - New Tomorrow<br />
 <tr class="odd">
 <td><p>1536<br />
 1537</p></td>
-<td><p>12월 13일<br />
-12월 14일</p></td>
+<td><p>12월 14일<br />
+12월 15일</p></td>
 <td><p>hope희망</p></td>
 <td><p>통일은 생리대다?<br />
 소통 (우리는 통한다)</p></td>
@@ -10083,7 +10083,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1538</p></td>
-<td><p>12월 20일</p></td>
+<td><p>12월 21일</p></td>
 <td><p>상봉 : 역</p></td>
 <td></td>
 <td></td>
@@ -10091,7 +10091,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1539</p></td>
-<td><p>12월 21일</p></td>
+<td><p>12월 22일</p></td>
 <td><p>정체성id<strong>e</strong>ntity</p></td>
 <td><p><a href="../Page/니콜라이_욘센.md" title="wikilink">니콜라이 욘센</a> 북한 여행기</p></td>
 <td></td>
@@ -10099,7 +10099,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1540</p></td>
-<td><p>12월 27일</p></td>
+<td><p>12월 28일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>모두를 위한 올림픽</p></td>
 <td><p><a href="../Page/패럴림픽.md" title="wikilink">패럴림픽</a> ,<a href="../Page/2018년_동계_패럴림픽.md" title="wikilink">2018년 동계 패럴림픽</a></p></td>
@@ -10107,7 +10107,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1541</p></td>
-<td><p>12월 28일</p></td>
+<td><p>12월 29일</p></td>
 <td><p>나는 국가대표입니다</p></td>
 <td><p><a href="../Page/대한장애인체육회.md" title="wikilink">대한장애인체육회</a></p></td>
 <td></td>
@@ -10133,8 +10133,8 @@ A Friend in London - New Tomorrow<br />
 <tr class="odd">
 <td><p>1542<br />
 1543</p></td>
-<td><p>1월 3일<br />
-1월 4일</p></td>
+<td><p>1월 4일<br />
+1월 5일</p></td>
 <td><p>intervi<strong>e</strong>w인터뷰<br />
 신년특집他人</p></td>
 <td><p>타인이 되는 시간<br />
@@ -10145,8 +10145,8 @@ A Friend in London - New Tomorrow<br />
 <tr class="even">
 <td><p>1544<br />
 1545</p></td>
-<td><p>1월 10일<br />
-1월 11일</p></td>
+<td><p>1월 11일<br />
+1월 12일</p></td>
 <td><p>이어져 있는, 타인<br />
 당신을 밑줄 긋다</p></td>
 <td><p><a href="../Page/김중혁.md" title="wikilink">김중혁</a></p></td>
@@ -10156,8 +10156,8 @@ A Friend in London - New Tomorrow<br />
 <tr class="odd">
 <td><p>1546<br />
 1547</p></td>
-<td><p>1월 17일<br />
-1월 18일</p></td>
+<td><p>1월 18일<br />
+1월 19일</p></td>
 <td><p>나는널 공부한다<br />
 알면사랑하게된다.</p></td>
 <td><p><a href="../Page/다니엘_린데만.md" title="wikilink">다니엘 린데만</a></p></td>
@@ -10167,8 +10167,8 @@ A Friend in London - New Tomorrow<br />
 <tr class="even">
 <td><p>1548<br />
 1549</p></td>
-<td><p>1월 24일<br />
-1월 25일</p></td>
+<td><p>1월 25일<br />
+1월 26일</p></td>
 <td><p>아직, 불행하지 않습니다<br />
 '보통'의 타인</p></td>
 <td><p><a href="../Page/김보름.md" title="wikilink">김보통</a></p></td>
@@ -10177,7 +10177,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1550</p></td>
-<td><p>1월 31일</p></td>
+<td><p>2월 1일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>|인간을 위한 기술혁명 1부 단 한 사람도 해고되지 않도록</p></td>
 <td></td>
@@ -10185,7 +10185,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1551</p></td>
-<td><p>2월 1일</p></td>
+<td><p>2월 2일</p></td>
 <td><p>교육education</p></td>
 <td><p>|인간을 위한 기술혁명 2부 인공지능을 이기는 교육</p></td>
 <td></td>
@@ -10193,7 +10193,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1552</p></td>
-<td><p>2월 7일</p></td>
+<td><p>2월 8일</p></td>
 <td><p>여행trav<strong>e</strong>l</p></td>
 <td><p>웰컴 투 더 호텔</p></td>
 <td><p><a href="../Page/뱅크시.md" title="wikilink">뱅크시</a>,<a href="../Page/팔레스타인.md" title="wikilink">팔레스타인</a></p></td>
@@ -10201,7 +10201,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1553</p></td>
-<td><p>2월 8일</p></td>
+<td><p>2월 9일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>그녀와 그녀의 강아지</p></td>
 <td><p><a href="../Page/안내견.md" title="wikilink">안내견</a></p></td>
@@ -10209,7 +10209,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1554</p></td>
-<td><p>2월 14일</p></td>
+<td><p>2월 15일</p></td>
 <td><p>e야기</p></td>
 <td><p>시누이 혁명</p></td>
 <td></td>
@@ -10217,7 +10217,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1555</p></td>
-<td><p>2월 15일</p></td>
+<td><p>2월 16일</p></td>
 <td><p>인생life</p></td>
 <td><p>할머니와 나</p></td>
 <td></td>
@@ -10225,7 +10225,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1556</p></td>
-<td><p>2월 21일</p></td>
+<td><p>2월 22일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>남겨진 자의 기록</p></td>
 <td></td>
@@ -10233,7 +10233,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1557</p></td>
-<td><p>2월 22일</p></td>
+<td><p>2월 23일</p></td>
 <td><p>영웅h<strong>e</strong>ro</p></td>
 <td><p>나는 그곳에 있었다</p></td>
 <td></td>
@@ -10241,7 +10241,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1558</p></td>
-<td><p>2월 26일</p></td>
+<td><p>2월 27일</p></td>
 <td><p>intervi<strong>e</strong>w인터뷰</p></td>
 <td><p>한사람</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울강동경찰서" title="wikilink">서울강동경찰서</a></p></td>
@@ -10249,7 +10249,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1559</p></td>
-<td><p>2월 27일</p></td>
+<td><p>2월 28일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
 <td><p>다 들어드립니다</p></td>
 <td></td>
@@ -10257,7 +10257,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1560</p></td>
-<td><p>2월 28일</p></td>
+<td><p>3월 1일</p></td>
 <td><p>히로인h<strong>e</strong>ro ine</p></td>
 <td><p>그녀들의 1919</p></td>
 <td></td>
@@ -10265,7 +10265,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1561</p></td>
-<td><p>3월 1일</p></td>
+<td><p>3월 2일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
 <td><p>그다지 특별하지 않은</p></td>
 <td></td>
@@ -10273,7 +10273,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1562</p></td>
-<td><p>3월 5일</p></td>
+<td><p>3월 6일</p></td>
 <td><p>공간spac<strong>e</strong></p></td>
 <td><p>신호등이 사라졌다!</p></td>
 <td></td>
@@ -10281,7 +10281,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1563</p></td>
-<td><p>3월 6일</p></td>
+<td><p>3월 7일</p></td>
 <td><p>민주주의d<strong>e</strong>mocracy</p></td>
 <td><p>듣기 좋고 부르기 좋은</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/부산용암초등학교" title="wikilink">부산용암초등학교</a></p></td>
@@ -10289,7 +10289,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1564</p></td>
-<td><p>3월 7일</p></td>
+<td><p>3월 8일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>공모자들</p></td>
 <td><p><a href="../Page/미투_운동.md" title="wikilink">미투 운동</a></p></td>
@@ -10297,7 +10297,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1565</p></td>
-<td><p>3월 8일</p></td>
+<td><p>3월 9일</p></td>
 <td><p>완벽한 피해자</p></td>
 <td></td>
 <td></td>
@@ -10305,7 +10305,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1566</p></td>
-<td><p>3월 12일</p></td>
+<td><p>3월 13일</p></td>
 <td><p>e야기</p></td>
 <td><p>주인공</p></td>
 <td></td>
@@ -10313,7 +10313,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1567</p></td>
-<td><p>3월 13일</p></td>
+<td><p>3월 14일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
 <td><p>집 지키는 건축가</p></td>
 <td><p><a href="../Page/조성모.md" title="wikilink">조성룡</a>,<a href="../Page/소록도.md" title="wikilink">소록도</a></p></td>
@@ -10321,7 +10321,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1568</p></td>
-<td><p>3월 14일</p></td>
+<td><p>3월 15일</p></td>
 <td><p>정체성id<strong>e</strong>ntity</p></td>
 <td><p>경계의 시</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:ja:金時鐘" title="wikilink">:ja:金時鐘</a></p></td>
@@ -10329,7 +10329,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1569</p></td>
-<td><p>3월 15일</p></td>
+<td><p>3월 16일</p></td>
 <td><p>인생life</p></td>
 <td><p>시작의 시작</p></td>
 <td></td>
@@ -10337,7 +10337,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1570</p></td>
-<td><p>3월 19일</p></td>
+<td><p>3월 20일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>등불을 든 여인</p></td>
 <td><p><a href="../Page/플로렌스_나이팅게일.md" title="wikilink">플로렌스 나이팅게일</a></p></td>
@@ -10345,7 +10345,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1571</p></td>
-<td><p>3월 20일</p></td>
+<td><p>3월 21일</p></td>
 <td><p>선택choice</p></td>
 <td><p>짜장은 맞고 짬뽕은 틀리다</p></td>
 <td></td>
@@ -10353,7 +10353,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1572</p></td>
-<td><p>3월 21일</p></td>
+<td><p>3월 22일</p></td>
 <td><p>공간space</p></td>
 <td><p>초등생활 설명서</p></td>
 <td></td>
@@ -10361,7 +10361,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1573</p></td>
-<td><p>3월 22일</p></td>
+<td><p>3월 23일</p></td>
 <td><p>교육education</p></td>
 <td><p>지금도 수영을 좋아하세요?</p></td>
 <td></td>
@@ -10369,7 +10369,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1574</p></td>
-<td><p>3월 26일</p></td>
+<td><p>3월 27일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
 <td><p>가족 더하기(반려의 조건-1)</p></td>
 <td><p><a href="../Page/독일.md" title="wikilink">독일</a>,<a href="../Page/애완동물.md" title="wikilink">애완동물</a></p></td>
@@ -10377,7 +10377,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1575</p></td>
-<td><p>3월 27일</p></td>
+<td><p>3월 28일</p></td>
 <td><p>인생life</p></td>
 <td><p>나는 어디에서 왔을까요?(반려의 조건-2)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/애완동물_가게" title="wikilink">애완동물 가게</a>,<a href="../Page/강아지_공장.md" title="wikilink">강아지 공장</a>,<a href="https://ko.wikipedia.org/wiki/동물자유연대" title="wikilink">동물자유연대</a></p></td>
@@ -10385,7 +10385,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1576</p></td>
-<td><p>3월 28일</p></td>
+<td><p>3월 29일</p></td>
 <td><p>경제economy</p></td>
 <td><p>다음 사고 원인의 공통점은?</p></td>
 <td><p><a href="../Page/수나사.md" title="wikilink">수나사</a> ,<a href="../Page/도급.md" title="wikilink">도급</a></p></td>
@@ -10393,7 +10393,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1577</p></td>
-<td><p>3월 29일</p></td>
+<td><p>3월 30일</p></td>
 <td><p>생존survive</p></td>
 <td><p>특별한 예외</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/집배원" title="wikilink">집배원</a></p></td>
@@ -10401,7 +10401,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1578</p></td>
-<td><p>4월 2일</p></td>
+<td><p>4월 3일</p></td>
 <td><p>진실true</p></td>
 <td><p>왓샤 시위와 응원경찰</p></td>
 <td><p><a href="../Page/제주_4·3_사건.md" title="wikilink">제주 4·3 사건</a></p></td>
@@ -10409,7 +10409,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1579</p></td>
-<td><p>4월 3일</p></td>
+<td><p>4월 4일</p></td>
 <td><p>제주 4.3이 뭐우꽝?</p></td>
 <td></td>
 <td></td>
@@ -10417,7 +10417,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1580</p></td>
-<td><p>4월 4일</p></td>
+<td><p>4월 5일</p></td>
 <td><p>시간time</p></td>
 <td><p>스치듯, 다시 봄(春)</p></td>
 <td></td>
@@ -10425,7 +10425,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1581</p></td>
-<td><p>4월 5일</p></td>
+<td><p>4월 6일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>우주여행자</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스티븐_호킹" title="wikilink">스티븐 호킹</a></p></td>
@@ -10433,7 +10433,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1582</p></td>
-<td><p>4월 9일</p></td>
+<td><p>4월 10일</p></td>
 <td><p>hope희망</p></td>
 <td><p>작가의 탄생</p></td>
 <td></td>
@@ -10441,7 +10441,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1583</p></td>
-<td><p>4월 10일</p></td>
+<td><p>4월 11일</p></td>
 <td><p>어머니moth<strong>e</strong>r</p></td>
 <td><p>엄마, 나는 잊지 말아요</p></td>
 <td></td>
@@ -10449,7 +10449,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1584</p></td>
-<td><p>4월 11일</p></td>
+<td><p>4월 12일</p></td>
 <td><p>생존survive</p></td>
 <td><p>한밤의 울음소리</p></td>
 <td></td>
@@ -10457,7 +10457,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1585</p></td>
-<td><p>4월 12일</p></td>
+<td><p>4월 13일</p></td>
 <td><p>삶live</p></td>
 <td><p>다들, 즐길 준비 되었나요?</p></td>
 <td><p><a href="../Page/라디오헤드.md" title="wikilink">라디오헤드</a>,<a href="https://ko.wikipedia.org/wiki/친환경" title="wikilink">친환경</a></p></td>
@@ -10465,7 +10465,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1586</p></td>
-<td><p>4월 16일</p></td>
+<td><p>4월 17일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
 <td><p>전설의 16학번</p></td>
 <td><p>1142,<a href="https://ko.wikipedia.org/wiki/제주국제대학교" title="wikilink">제주국제대학교</a></p></td>
@@ -10473,7 +10473,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1587</p></td>
-<td><p>4월 17일</p></td>
+<td><p>4월 18일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>자유의 후폭풍</p></td>
 <td><p><a href="../Page/미국.md" title="wikilink">미국</a>,<a href="https://ko.wikipedia.org/wiki/전미_총기_협회" title="wikilink">전미 총기 협회</a></p></td>
@@ -10481,7 +10481,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1588</p></td>
-<td><p>4월 18일</p></td>
+<td><p>4월 19일</p></td>
 <td><p>코미디com<strong>e</strong>dy</p></td>
 <td><p>그 사과가 유감입니다만</p></td>
 <td><p><a href="../Page/5·18_광주_민주화_운동.md" title="wikilink">5·18 광주 민주화 운동</a></p></td>
@@ -10489,7 +10489,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1589</p></td>
-<td><p>4월 19일</p></td>
+<td><p>4월 20일</p></td>
 <td><p>사람p<strong>e</strong>ople</p></td>
 <td><p>당연하고 평범한</p></td>
 <td><p><a href="../Page/라오스랑구르.md" title="wikilink">구르님</a></p></td>
@@ -10497,7 +10497,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1590</p></td>
-<td><p>4월 23일</p></td>
+<td><p>4월 24일</p></td>
 <td><p><a href="../Page/조용필.md" title="wikilink">조용필</a>도 옵니까?</p></td>
 <td></td>
 <td></td>
@@ -10505,7 +10505,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1591</p></td>
-<td><p>4월 24일</p></td>
+<td><p>4월 25일</p></td>
 <td><p>과학sci<strong>e</strong>nce</p></td>
 <td><p>실험실의 슈퍼스타</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/초파리" title="wikilink">초파리</a></p></td>
@@ -10513,7 +10513,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1592</p></td>
-<td><p>4월 25일</p></td>
+<td><p>4월 26일</p></td>
 <td><p>캐릭터charact<strong>e</strong>r</p></td>
 <td><p>그림을 그립시다</p></td>
 <td><p><a href="../Page/밥_로스.md" title="wikilink">밥 로스</a></p></td>
@@ -10521,7 +10521,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1593</p></td>
-<td><p>4월 26일</p></td>
+<td><p>4월 27일</p></td>
 <td><p>공간space</p></td>
 <td><p>선을 넘다</p></td>
 <td><p><a href="../Page/판문점.md" title="wikilink">판문점</a> ,<a href="../Page/공동경비구역.md" title="wikilink">공동경비구역</a></p></td>
@@ -10529,7 +10529,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1594</p></td>
-<td><p>4월 30일</p></td>
+<td><p>5월 1일</p></td>
 <td><p>기념일anniv<strong>e</strong>rsary</p></td>
 <td><p>어떤 죽음</p></td>
 <td><p><a href="../Page/노동절.md" title="wikilink">노동절</a></p></td>
@@ -10537,7 +10537,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1595</p></td>
-<td><p>5월 1일</p></td>
+<td><p>5월 2일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>당신은 누구입니까</p></td>
 <td><p><a href="../Page/노동자.md" title="wikilink">노동자</a></p></td>
@@ -10545,7 +10545,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1596</p></td>
-<td><p>5월 2일</p></td>
+<td><p>5월 3일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
 <td><p>핑크 대작전</p></td>
 <td></td>
@@ -10553,7 +10553,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1597</p></td>
-<td><p>5월 3일</p></td>
+<td><p>5월 4일</p></td>
 <td><p>어린이childr<strong>e</strong>n</p></td>
 <td><p>어린이의 발견</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/몬테소리" title="wikilink">몬테소리</a></p></td>
@@ -10561,7 +10561,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1598</p></td>
-<td><p>5월 7일</p></td>
+<td><p>5월 8일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
 <td><p><a href="../Page/IKON.md" title="wikilink">사랑을 했다, 우리가 만나</a></p></td>
 <td></td>
@@ -10569,7 +10569,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1599</p></td>
-<td><p>5월 8일</p></td>
+<td><p>5월 9일</p></td>
 <td><p>민주주의d<strong>e</strong>mocracy</p></td>
 <td><p>91.5%가 찬성한 법</p></td>
 <td><p><a href="../Page/대한민국_헌법.md" title="wikilink">대한민국 헌법</a></p></td>
@@ -10577,7 +10577,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1600</p></td>
-<td><p>5월 9일</p></td>
+<td><p>5월 10일</p></td>
 <td><p>캐릭터charact<strong>e</strong>r</p></td>
 <td><p>로켓맨과 늙다리</p></td>
 <td><p><a href="../Page/김정은.md" title="wikilink">김정은</a>,<a href="../Page/도널드_트럼프.md" title="wikilink">도널드 트럼프</a></p></td>
@@ -10585,7 +10585,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1601</p></td>
-<td><p>5월 10일</p></td>
+<td><p>5월 11일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>자화상의 비밀</p></td>
 <td></td>
@@ -10593,7 +10593,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1602</p></td>
-<td><p>5월 14일</p></td>
+<td><p>5월 15일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>젠더박스</p></td>
 <td></td>
@@ -10601,7 +10601,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1603</p></td>
-<td><p>5월 15일</p></td>
+<td><p>5월 16일</p></td>
 <td><p>정체성id<strong>e</strong>ntity</p></td>
 <td><p>지금, 만나러 갑니다</p></td>
 <td><p><a href="../Page/개포도서관.md" title="wikilink">시청각중복장애인</a></p></td>
@@ -10609,7 +10609,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1604</p></td>
-<td><p>5월 16일</p></td>
+<td><p>5월 17일</p></td>
 <td><p>순간mom<strong>e</strong>nt</p></td>
 <td><p>소리의 조건</p></td>
 <td></td>
@@ -10617,7 +10617,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1605</p></td>
-<td><p>5월 17일</p></td>
+<td><p>5월 18일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
 <td><p>축제의 봄</p></td>
 <td><p><a href="../Page/대학_축제.md" title="wikilink">대학 축제</a></p></td>
@@ -10625,7 +10625,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1606</p></td>
-<td><p>5월 21일</p></td>
+<td><p>5월 22일</p></td>
 <td><p>공간space</p></td>
 <td><p>세상 어디에도 없는 마을</p></td>
 <td><p><a href="../Page/자유의_마을.md" title="wikilink">자유의 마을</a></p></td>
@@ -10633,7 +10633,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1607</p></td>
-<td><p>5월 22일</p></td>
+<td><p>5월 23일</p></td>
 <td><p>삶live</p></td>
 <td><p>세상은 넓고 맛있는 방송은 많다</p></td>
 <td><p><a href="../Page/먹방.md" title="wikilink">먹방</a></p></td>
@@ -10641,7 +10641,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1608</p></td>
-<td><p>5월 23일</p></td>
+<td><p>5월 24일</p></td>
 <td><p>우리 이제 만나</p></td>
 <td><p><a href="../Page/외국인.md" title="wikilink">외국인</a></p></td>
 <td></td>
@@ -10649,7 +10649,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1609</p></td>
-<td><p>5월 24일</p></td>
+<td><p>5월 25일</p></td>
 <td><p>언어language</p></td>
 <td><p>할머니 손바닥을 찾아서</p></td>
 <td><p><a href="../Page/이모지.md" title="wikilink">이모지</a></p></td>
@@ -10657,7 +10657,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1610</p></td>
-<td><p>5월 28일</p></td>
+<td><p>5월 29일</p></td>
 <td><p>hope희망</p></td>
 <td><p>엄마의 싸움</p></td>
 <td></td>
@@ -10665,7 +10665,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1611</p></td>
-<td><p>5월 29일</p></td>
+<td><p>5월 30일</p></td>
 <td><p>시장mark<strong>e</strong>t</p></td>
 <td><p>45만원에 팝니다</p></td>
 <td><p><a href="../Page/노예제.md" title="wikilink">노예</a></p></td>
@@ -10673,7 +10673,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1612</p></td>
-<td><p>5월 30일</p></td>
+<td><p>5월 31일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>안경선배를위하여</p></td>
 <td><p><a href="../Page/김영미_(컬링_선수).md" title="wikilink">김영미 (컬링 선수)</a>,<a href="../Page/김은정_(컬링_선수).md" title="wikilink">김은정 (컬링 선수)</a>,<a href="../Page/임현주.md" title="wikilink">임현주</a></p></td>
@@ -10681,7 +10681,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1613</p></td>
-<td><p>5월 31일</p></td>
+<td><p>6월 1일</p></td>
 <td><p>자화상 그리는 여자들</p></td>
 <td></td>
 <td></td>
@@ -10689,7 +10689,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1614</p></td>
-<td><p>6월 4일</p></td>
+<td><p>6월 5일</p></td>
 <td><p>선택choice</p></td>
 <td><p>그들만의 필살기</p></td>
 <td><p><a href="../Page/선거.md" title="wikilink">선거</a></p></td>
@@ -10697,7 +10697,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1615</p></td>
-<td><p>6월 5일</p></td>
+<td><p>6월 6일</p></td>
 <td><p>e야기</p></td>
 <td><p>선거는 처음이라서</p></td>
 <td></td>
@@ -10705,7 +10705,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1616</p></td>
-<td><p>6월 6일</p></td>
+<td><p>6월 7일</p></td>
 <td><p>민주주의democracy</p></td>
 <td><p>구의원 생태보고서</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대한민국_제7회_지방_선거" title="wikilink">대한민국 제7회 지방 선거</a></p></td>
@@ -10713,7 +10713,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1617</p></td>
-<td><p>6월 7일</p></td>
+<td><p>6월 8일</p></td>
 <td><p>인생life</p></td>
 <td><p>쓰레기 없이 산다</p></td>
 <td></td>
@@ -10721,7 +10721,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1618</p></td>
-<td><p>6월 11일</p></td>
+<td><p>6월 12일</p></td>
 <td><p>사람people</p></td>
 <td><p>왜 굶느냐고요</p></td>
 <td><p><a href="../Page/전두환.md" title="wikilink">전두환</a>,<a href="../Page/바비_샌즈.md" title="wikilink">바비 샌즈</a>,<a href="../Page/박관현.md" title="wikilink">박관현</a></p></td>
@@ -10729,7 +10729,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1619</p></td>
-<td><p>6월 12일</p></td>
+<td><p>6월 13일</p></td>
 <td><p>공간space</p></td>
 <td><p>서울로 안 갑니다</p></td>
 <td></td>
@@ -10737,7 +10737,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1620</p></td>
-<td><p>6월 13일</p></td>
+<td><p>6월 14일</p></td>
 <td><p>교육education</p></td>
 <td><p>학교 밖 청소년</p></td>
 <td></td>
@@ -10745,7 +10745,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1621</p></td>
-<td><p>6월 14일</p></td>
+<td><p>6월 15일</p></td>
 <td><p>놀e</p></td>
 <td><p>최고의 장난감</p></td>
 <td><p><a href="../Page/토이저러스.md" title="wikilink">토이저러스</a></p></td>
@@ -10753,7 +10753,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1622</p></td>
-<td><p>6월 18일</p></td>
+<td><p>6월 19일</p></td>
 <td><p>순간mom<strong>e</strong>nt</p></td>
 <td><p>죽기 위해 떠난 사람</p></td>
 <td></td>
@@ -10761,7 +10761,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1623</p></td>
-<td><p>6월 19일</p></td>
+<td><p>6월 20일</p></td>
 <td><p>hope희망</p></td>
 <td><p>Goal, 골의 탄생</p></td>
 <td></td>
@@ -10769,7 +10769,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1624</p></td>
-<td><p>6월 20일</p></td>
+<td><p>6월 21일</p></td>
 <td><p>생존survive</p></td>
 <td><p>영업비밀</p></td>
 <td><p><a href="../Page/원진레이온.md" title="wikilink">원진레이온</a></p></td>
@@ -10777,7 +10777,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1625</p></td>
-<td><p>6월 21일</p></td>
+<td><p>6월 22일</p></td>
 <td><p>교육education</p></td>
 <td><p>일자리의 미래</p></td>
 <td></td>
@@ -10785,7 +10785,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1626</p></td>
-<td><p>6월 25일</p></td>
+<td><p>6월 26일</p></td>
 <td><p>hope희망</p></td>
 <td><p>미래에서 기다릴게, 엄마</p></td>
 <td></td>
@@ -10793,7 +10793,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1627</p></td>
-<td><p>6월 26일</p></td>
+<td><p>6월 27일</p></td>
 <td><p>상기r<strong>e</strong>mind</p></td>
 <td><p>땀은, 돋보이고 싶다</p></td>
 <td></td>
@@ -10801,7 +10801,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1628</p></td>
-<td><p>6월 27일</p></td>
+<td><p>6월 28일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
 <td><p>엄마와의 시간</p></td>
 <td></td>
@@ -10809,7 +10809,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1629</p></td>
-<td><p>6월 28일</p></td>
+<td><p>6월 29일</p></td>
 <td><p>교육education</p></td>
 <td><p>남극에서 수영복 팔기</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/기업가_정신" title="wikilink">기업가 정신</a></p></td>
@@ -10817,7 +10817,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1630</p></td>
-<td><p>7월 2일</p></td>
+<td><p>7월 3일</p></td>
 <td><p>순간mom<strong>e</strong>nt</p></td>
 <td><p>순간을 지나온 그에게</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이동국" title="wikilink">이동기</a>(1938~2018.4.27)</p></td>
@@ -10825,7 +10825,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1631</p></td>
-<td><p>7월 3일</p></td>
+<td><p>7월 4일</p></td>
 <td><p>문화culture</p></td>
 <td><p>내가 아는 노래 당신이 아는 노래</p></td>
 <td></td>
@@ -10833,7 +10833,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1632</p></td>
-<td><p>7월 4일</p></td>
+<td><p>7월 5일</p></td>
 <td><p>놀e</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/e스포츠" title="wikilink">e스포츠</a>는 처음이지?</p></td>
 <td><p><a href="../Page/게임.md" title="wikilink">게임</a></p></td>
@@ -10841,7 +10841,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1633</p></td>
-<td><p>7월 5일</p></td>
+<td><p>7월 6일</p></td>
 <td><p>기회chance</p></td>
 <td><p>별이 된 백과사전</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/위키피디아" title="wikilink">위키피디아</a>,<a href="../Page/누피디아.md" title="wikilink">누피디아</a>,<a href="../Page/274301_위키피디아.md" title="wikilink">274301 위키피디아</a>,<a href="../Page/지미_웨일스.md" title="wikilink">지미 웨일스</a></p></td>
@@ -10849,7 +10849,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1634</p></td>
-<td><p>7월 9일</p></td>
+<td><p>7월 10일</p></td>
 <td><p>자연nature</p></td>
 <td><p>숲에서 우주를 보다</p></td>
 <td></td>
@@ -10857,7 +10857,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1635</p></td>
-<td><p>7월 10일</p></td>
+<td><p>7월 11일</p></td>
 <td><p>생존survive</p></td>
 <td><p>세상에서 가장 부지런한 손</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/덩굴" title="wikilink">덩굴</a></p></td>
@@ -10865,7 +10865,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1636</p></td>
-<td><p>7월 11일</p></td>
+<td><p>7월 12일</p></td>
 <td><p>정서emotion</p></td>
 <td><p>보고만 있어도 기분 좋아지는</p></td>
 <td><p><a href="../Page/자율_감각_쾌락_반응.md" title="wikilink">자율 감각 쾌락 반응</a></p></td>
@@ -10873,7 +10873,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1637</p></td>
-<td><p>7월 12일</p></td>
+<td><p>7월 13일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
 <td><p>어느 기업가의 행복 찾기</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/토니_베이실" title="wikilink">토니 셰이</a>,<a href="../Page/자바스크립트.md" title="wikilink">자포스</a></p></td>
@@ -10881,7 +10881,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1638</p></td>
-<td><p>7월 16일</p></td>
+<td><p>7월 17일</p></td>
 <td><p>아빠가 요즘 좋아하는 노래</p></td>
 <td><p><a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a></p></td>
 <td></td>
@@ -10889,7 +10889,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1639</p></td>
-<td><p>7월 17일</p></td>
+<td><p>7월 18일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>Dear. 작은 곰의 꼬리 끝</p></td>
 <td></td>
@@ -10897,7 +10897,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1640</p></td>
-<td><p>7월 18일</p></td>
+<td><p>7월 19일</p></td>
 <td><p>캐릭터charact<strong>e</strong>r</p></td>
 <td><p><a href="../Page/프랑켄슈타인.md" title="wikilink">프랑켄슈타인</a>의 괴물</p></td>
 <td></td>
@@ -10905,7 +10905,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1641</p></td>
-<td><p>7월 19일</p></td>
+<td><p>7월 20일</p></td>
 <td><p>교육education</p></td>
 <td><p>위대한 질문</p></td>
 <td></td>
@@ -10913,7 +10913,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1642</p></td>
-<td><p>7월 23일</p></td>
+<td><p>7월 24일</p></td>
 <td><p>정서emotion</p></td>
 <td><p>평정심을 찾아서</p></td>
 <td></td>
@@ -10921,7 +10921,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1643</p></td>
-<td><p>7월 24일</p></td>
+<td><p>7월 25일</p></td>
 <td><p>상상imagine</p></td>
 <td><p>두 세계의 이야기</p></td>
 <td></td>
@@ -10929,7 +10929,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1644</p></td>
-<td><p>7월 25일</p></td>
+<td><p>7월 26일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>돌의 기억</p></td>
 <td></td>
@@ -10937,7 +10937,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1645</p></td>
-<td><p>7월 26일</p></td>
+<td><p>7월 27일</p></td>
 <td><p>실패가 두려운 당신에게</p></td>
 <td><p><a href="../Page/핀란드.md" title="wikilink">핀란드</a></p></td>
 <td></td>
@@ -10945,7 +10945,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1646</p></td>
-<td><p>7월 30일</p></td>
+<td><p>7월 31일</p></td>
 <td><p>사람people</p></td>
 <td><p>이런다고 바뀝니다</p></td>
 <td></td>
@@ -10953,7 +10953,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1647</p></td>
-<td><p>7월 31일</p></td>
+<td><p>8월 1일</p></td>
 <td><p>정체성id<strong>e</strong>ntity</p></td>
 <td><p>대표팀의 탄생</p></td>
 <td></td>
@@ -10961,7 +10961,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1648</p></td>
-<td><p>8월 1일</p></td>
+<td><p>8월 2일</p></td>
 <td><p>17번 선수</p></td>
 <td></td>
 <td></td>
@@ -10969,7 +10969,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1649</p></td>
-<td><p>8월 2일</p></td>
+<td><p>8월 3일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>네 맛대로 해라</p></td>
 <td><p><a href="../Page/제이미_올리버.md" title="wikilink">제이미 올리버</a>,<a href="https://ko.wikipedia.org/wiki/:en:Jamie&#39;s_Kitchen" title="wikilink">:en:Jamie's Kitchen</a></p></td>
@@ -10977,7 +10977,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1650</p></td>
-<td><p>8월 6일</p></td>
+<td><p>8월 7일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>어른이 되면</p></td>
 <td></td>
@@ -10985,7 +10985,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1651</p></td>
-<td><p>8월 7일</p></td>
+<td><p>8월 8일</p></td>
 <td><p>생각id<strong>e</strong>a</p></td>
 <td><p>이 구역 주인은 나야 나</p></td>
 <td><p><a href="../Page/동화중학교_(경기).md" title="wikilink">동화중학교 (경기)</a>,<a href="../Page/동화고등학교.md" title="wikilink">동화고등학교</a><a href="../Page/송학선.md" title="wikilink">송학관</a></p></td>
@@ -10993,7 +10993,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1652</p></td>
-<td><p>8월 8일</p></td>
+<td><p>8월 9일</p></td>
 <td><p>변화change</p></td>
 <td><p>내 이름을 묻지 마세요</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/기무사" title="wikilink">기무사</a></p></td>
@@ -11001,7 +11001,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1653</p></td>
-<td><p>8월 9일</p></td>
+<td><p>8월 10일</p></td>
 <td><p>교육education</p></td>
 <td><p>우리들의 달콤한 회사</p></td>
 <td></td>
@@ -11017,7 +11017,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1655</p></td>
-<td><p>8월 14일</p></td>
+<td><p>8월 15일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>적도의 청년들</p></td>
 <td></td>
@@ -11025,7 +11025,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1656</p></td>
-<td><p>8월 15일</p></td>
+<td><p>8월 16일</p></td>
 <td><p>intervi<strong>e</strong>w인터뷰</p></td>
 <td><p>독립운동가 김우전의 증언</p></td>
 <td></td>
@@ -11033,7 +11033,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1657</p></td>
-<td><p>8월 16일</p></td>
+<td><p>8월 17일</p></td>
 <td><p>교육education</p></td>
 <td><p>모든 아이를 위한 게임</p></td>
 <td></td>
@@ -11041,7 +11041,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1658</p></td>
-<td><p>8월 27일</p></td>
+<td><p>8월 28일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>가장 쉽고 빠른 방법</p></td>
 <td><p><a href="../Page/스웨덴.md" title="wikilink">스웨덴</a>,<a href="../Page/체벌.md" title="wikilink">체벌</a></p></td>
@@ -11049,7 +11049,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1659</p></td>
-<td><p>8월 28일</p></td>
+<td><p>8월 29일</p></td>
 <td><p>환경environment</p></td>
 <td><p>동물 축제에서 살아남기</p></td>
 <td></td>
@@ -11057,7 +11057,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1660</p></td>
-<td><p>8월 29일</p></td>
+<td><p>8월 30일</p></td>
 <td><p>민주주의d<strong>e</strong>mocracy</p></td>
 <td><p><a href="../Page/노회찬.md" title="wikilink">노회찬</a>과 정치인의 자격</p></td>
 <td><p><a href="../Page/정의당_(대한민국).md" title="wikilink">정의당 (대한민국)</a></p></td>
@@ -11065,7 +11065,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1661</p></td>
-<td><p>8월 30일</p></td>
+<td><p>8월 31일</p></td>
 <td><p>꿈dr<strong>e</strong>am</p></td>
 <td><p>17세 소년, 너도 CEO니?</p></td>
 <td></td>
@@ -11073,7 +11073,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1662</p></td>
-<td><p>9월 3일</p></td>
+<td><p>9월 4일</p></td>
 <td><p>문학literature</p></td>
 <td><p>사소한 부탁</p></td>
 <td><p><a href="../Page/황현산.md" title="wikilink">황현산</a></p></td>
@@ -11081,7 +11081,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1663</p></td>
-<td><p>9월 4일</p></td>
+<td><p>9월 5일</p></td>
 <td><p>상기r<strong>e</strong>mind</p></td>
 <td><p>우리가 실패를 기억하는 방법</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Museum_of_Failure" title="wikilink">:en:Museum of Failure</a></p></td>
@@ -11089,7 +11089,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1664</p></td>
-<td><p>9월 5일</p></td>
+<td><p>9월 6일</p></td>
 <td><p>뮤직비디오music vid<strong>e</strong>o</p></td>
 <td><p><a href="../Page/그늘_(음반).md" title="wikilink">그늘 (음반)</a></p></td>
 <td><p><a href="../Page/윤종신.md" title="wikilink">윤종신</a></p></td>
@@ -11097,7 +11097,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1665</p></td>
-<td><p>9월 6일</p></td>
+<td><p>9월 7일</p></td>
 <td><p>사람people</p></td>
 <td><p>모든 이에게 햇살을</p></td>
 <td></td>
@@ -11105,7 +11105,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1666</p></td>
-<td><p>9월 10일</p></td>
+<td><p>9월 11일</p></td>
 <td><p>시간time</p></td>
 <td><p>2박3일</p></td>
 <td><p><a href="../Page/이산가족.md" title="wikilink">이산가족</a></p></td>
@@ -11113,7 +11113,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1667</p></td>
-<td><p>9월 11일</p></td>
+<td><p>9월 12일</p></td>
 <td><p>선택choice</p></td>
 <td><p>얼마에 판매하시겠습니까?</p></td>
 <td></td>
@@ -11121,7 +11121,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1668</p></td>
-<td><p>9월 12일</p></td>
+<td><p>9월 13일</p></td>
 <td><p>변화change</p></td>
 <td><p>서울대 공대 / 반성문 "우리는 간신히 1루에 진출하는 타자였다"</p></td>
 <td></td>
@@ -11129,7 +11129,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1669</p></td>
-<td><p>9월 13일</p></td>
+<td><p>9월 14일</p></td>
 <td><p>꿈dr<strong>e</strong>am</p></td>
 <td><p>꿈꾸는 가위손</p></td>
 <td></td>
@@ -11137,7 +11137,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1670</p></td>
-<td><p>9월 18일</p></td>
+<td><p>9월 19일</p></td>
 <td><p>intervi<strong>e</strong>w인터뷰</p></td>
 <td><p>악플 읽는 변호사들</p></td>
 <td></td>
@@ -11145,7 +11145,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1671</p></td>
-<td><p>9월 19일</p></td>
+<td><p>9월 20일</p></td>
 <td><p>변화change</p></td>
 <td><p>그녀가 차를 몰고 갑니다</p></td>
 <td><p><a href="../Page/베르타_폰_주트너.md" title="wikilink">베르타</a> <a href="../Page/메르세데스-벤츠.md" title="wikilink">벤츠</a> ,<a href="../Page/사우디아라비아.md" title="wikilink">사우디아 라비아</a></p></td>
@@ -11153,7 +11153,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1672</p></td>
-<td><p>9월 20일</p></td>
+<td><p>9월 21일</p></td>
 <td><p>교육education</p></td>
 <td><p>레모네이드 사세요!</p></td>
 <td></td>
@@ -11161,7 +11161,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1673</p></td>
-<td><p>9월 25일</p></td>
+<td><p>9월 26일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p><a href="../Page/노키즈존.md" title="wikilink">노키즈존</a>과 맘충</p></td>
 <td></td>
@@ -11169,7 +11169,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1674</p></td>
-<td><p>9월 26일</p></td>
+<td><p>9월 27일</p></td>
 <td><p>지식knowledge</p></td>
 <td><p>균형의 조건</p></td>
 <td></td>
@@ -11177,7 +11177,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1675</p></td>
-<td><p>9월 27일</p></td>
+<td><p>9월 28일</p></td>
 <td><p>사람people</p></td>
 <td><p>슬픔을 지우는 사람들</p></td>
 <td></td>
@@ -11185,7 +11185,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1676</p></td>
-<td><p>10월 1일</p></td>
+<td><p>10월 2일</p></td>
 <td><p>교육education</p></td>
 <td><p>조선의 교육은 해방되지 않았다</p></td>
 <td></td>
@@ -11193,7 +11193,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1677</p></td>
-<td><p>10월 2일</p></td>
+<td><p>10월 3일</p></td>
 <td><p>공간space</p></td>
 <td><p>마을이 나타났다</p></td>
 <td><p><a href="../Page/풍납토성.md" title="wikilink">풍납토성</a>,<a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
@@ -11201,7 +11201,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1678</p></td>
-<td><p>10월 3일</p></td>
+<td><p>10월 4일</p></td>
 <td><p>지구earth</p></td>
 <td><p>완벽한 행성</p></td>
 <td></td>
@@ -11209,7 +11209,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1679</p></td>
-<td><p>10월 4일</p></td>
+<td><p>10월 5일</p></td>
 <td><p>intervi<strong>e</strong>w인터뷰</p></td>
 <td><p>소리가 보이는 통로</p></td>
 <td></td>
@@ -11217,7 +11217,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1680</p></td>
-<td><p>10월 8일</p></td>
+<td><p>10월 9일</p></td>
 <td><p>인간humane</p></td>
 <td><p>칼과 반창고</p></td>
 <td></td>
@@ -11225,7 +11225,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1681</p></td>
-<td><p>10월 9일</p></td>
+<td><p>10월 10일</p></td>
 <td><p>언어language</p></td>
 <td><p>나만 믿고 따라와 - 국어생활종합상담실</p></td>
 <td></td>
@@ -11233,7 +11233,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1682</p></td>
-<td><p>10월 10일</p></td>
+<td><p>10월 11일</p></td>
 <td><p>선택choice</p></td>
 <td><p>하루 20분, 피아노</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Alan_Rusbridger" title="wikilink">:en:Alan Rusbridger</a></p></td>
@@ -11241,7 +11241,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1683</p></td>
-<td><p>10월 11일</p></td>
+<td><p>10월 12일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
 <td><p>실밥 뜯는 밤</p></td>
 <td><p><a href="../Page/소방관.md" title="wikilink">소방관</a></p></td>
@@ -11249,7 +11249,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1684</p></td>
-<td><p>10월 15일</p></td>
+<td><p>10월 16일</p></td>
 <td><p>정의justice</p></td>
 <td><p>1/8 조각 케이크</p></td>
 <td></td>
@@ -11257,7 +11257,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1685</p></td>
-<td><p>10월 16일</p></td>
+<td><p>10월 17일</p></td>
 <td><p>9인의 현자(賢者)</p></td>
 <td><p><a href="../Page/미국_연방_대법원.md" title="wikilink">미국 연방 대법원</a></p></td>
 <td></td>
@@ -11265,7 +11265,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1686</p></td>
-<td><p>10월 17일</p></td>
+<td><p>10월 18일</p></td>
 <td><p>꿈dr<strong>e</strong>am</p></td>
 <td><p>10월의 하늘</p></td>
 <td></td>
@@ -11273,7 +11273,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1687</p></td>
-<td><p>10월 18일</p></td>
+<td><p>10월 19일</p></td>
 <td><p>내인생은, 노답!</p></td>
 <td></td>
 <td></td>
@@ -11281,7 +11281,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1688</p></td>
-<td><p>10월 22일</p></td>
+<td><p>10월 23일</p></td>
 <td><p>정의justice</p></td>
 <td><p>우리는 서로의 용기다</p></td>
 <td></td>
@@ -11289,7 +11289,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1689</p></td>
-<td><p>10월 23일</p></td>
+<td><p>10월 24일</p></td>
 <td><p>누가 여신에게 돌을 던지나</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유스티티아" title="wikilink">유스티티아</a></p></td>
 <td></td>
@@ -11297,7 +11297,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1690</p></td>
-<td><p>10월 24일</p></td>
+<td><p>10월 25일</p></td>
 <td><p>문학literature</p></td>
 <td><p>잃어버린 말들의 풍경</p></td>
 <td></td>
@@ -11305,7 +11305,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1691</p></td>
-<td><p>10월 25일</p></td>
+<td><p>10월 26일</p></td>
 <td><p>intervi<strong>e</strong>w인터뷰</p></td>
 <td><p>세상에 없던 질문</p></td>
 <td></td>
@@ -11313,7 +11313,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1692</p></td>
-<td><p>10월 29일</p></td>
+<td><p>10월 30일</p></td>
 <td><p>정의justice</p></td>
 <td><p>39년</p></td>
 <td></td>
@@ -11321,7 +11321,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1693</p></td>
-<td><p>10월 30일</p></td>
+<td><p>10월 31일</p></td>
 <td><p>다시 돌아가는 꿈</p></td>
 <td><p><a href="../Page/쌍용차_사태.md" title="wikilink">쌍용차 사태</a></p></td>
 <td></td>
@@ -11329,7 +11329,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1694</p></td>
-<td><p>10월 31일</p></td>
+<td><p>11월 1일</p></td>
 <td><p>intervi<strong>e</strong>w인터뷰</p></td>
 <td><p>인생극장</p></td>
 <td><p><a href="../Page/노명우.md" title="wikilink">노명우</a></p></td>
@@ -11337,7 +11337,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1695</p></td>
-<td><p>11월 1일</p></td>
+<td><p>11월 2일</p></td>
 <td><p>꿈dr<strong>e</strong>am</p></td>
 <td><p>꿈꾸는 행동가들</p></td>
 <td><p><a href="../Page/인액터스.md" title="wikilink">인액터스</a></p></td>
@@ -11345,7 +11345,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1696</p></td>
-<td><p>11월 8일</p></td>
+<td><p>11월 9일</p></td>
 <td><p>도전challenge</p></td>
 <td><p>두근두근, 우리의 첫 무대</p></td>
 <td></td>
@@ -11353,7 +11353,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1697</p></td>
-<td><p>11월 12일</p></td>
+<td><p>11월 13일</p></td>
 <td><p>어린이childr<strong>e</strong>n</p></td>
 <td><p>평양의 아이들</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/진천규" title="wikilink">진천규</a></p></td>
@@ -11361,7 +11361,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1698</p></td>
-<td><p>11월 13일</p></td>
+<td><p>11월 14일</p></td>
 <td><p>언어language</p></td>
 <td><p>북한 언어 탐구 생활</p></td>
 <td></td>
@@ -11369,7 +11369,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1699</p></td>
-<td><p>11월 14일</p></td>
+<td><p>11월 15일</p></td>
 <td><p>시작begin</p></td>
 <td><p>수능에 관한 짧은 이야기</p></td>
 <td></td>
@@ -11377,7 +11377,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1700</p></td>
-<td><p>11월 15일</p></td>
+<td><p>11월 16일</p></td>
 <td><p>생각id<strong>e</strong>a</p></td>
 <td><p>수상한 그녀들의 미션 (임)파서블</p></td>
 <td></td>
@@ -11385,7 +11385,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1701</p></td>
-<td><p>11월 19일</p></td>
+<td><p>11월 20일</p></td>
 <td><p>사랑love</p></td>
 <td><p>우리도 자유연애를 한다</p></td>
 <td></td>
@@ -11393,7 +11393,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1702</p></td>
-<td><p>11월 20일</p></td>
+<td><p>11월 21일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>사랑하는 사람이 있네</p></td>
 <td></td>
@@ -11401,7 +11401,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1703</p></td>
-<td><p>11월 21일</p></td>
+<td><p>11월 22일</p></td>
 <td><p>정체성id<strong>e</strong>ntity</p></td>
 <td><p>수상한 거래의 기술</p></td>
 <td></td>
@@ -11409,7 +11409,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1704</p></td>
-<td><p>11월 22일</p></td>
+<td><p>11월 23일</p></td>
 <td><p>intervi<strong>e</strong>w인터뷰</p></td>
 <td><p>학교밖 학교</p></td>
 <td></td>
@@ -11417,7 +11417,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1705</p></td>
-<td><p>11월 26일</p></td>
+<td><p>11월 27일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>이북 채널</p></td>
 <td><p><a href="../Page/조선중앙방송.md" title="wikilink">조선중앙방송</a></p></td>
@@ -11425,7 +11425,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1706</p></td>
-<td><p>11월 27일</p></td>
+<td><p>11월 28일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>가갸시절</p></td>
 <td></td>
@@ -11433,7 +11433,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1707</p></td>
-<td><p>11월 28일</p></td>
+<td><p>11월 29일</p></td>
 <td><p>인생life</p></td>
 <td><p>어떤 두 줄</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/임신_진단_검사" title="wikilink">임신 진단 검사</a></p></td>
@@ -11441,7 +11441,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1708</p></td>
-<td><p>11월 29일</p></td>
+<td><p>11월 30일</p></td>
 <td><p>변화change</p></td>
 <td><p>열아홉 살, 여섯 번의 <a href="../Page/결혼식.md" title="wikilink">결혼식</a></p></td>
 <td></td>
@@ -11449,7 +11449,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1709</p></td>
-<td><p>12월 3일</p></td>
+<td><p>12월 4일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
 <td><p>평양 건축학 개론</p></td>
 <td></td>
@@ -11457,7 +11457,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1710</p></td>
-<td><p>12월 4일</p></td>
+<td><p>12월 5일</p></td>
 <td><p>문화유산heritage</p></td>
 <td><p>북한 문화유산답사기</p></td>
 <td></td>
@@ -11465,7 +11465,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1711</p></td>
-<td><p>12월 5일</p></td>
+<td><p>12월 6일</p></td>
 <td><p>e야기</p></td>
 <td><p>내 <a href="../Page/결혼식.md" title="wikilink">결혼식</a>에서 울지 않는 법</p></td>
 <td></td>
@@ -11473,7 +11473,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1712</p></td>
-<td><p>12월 6일</p></td>
+<td><p>12월 7일</p></td>
 <td><p>생각id<strong>e</strong>a</p></td>
 <td><p>나만 불편해?</p></td>
 <td></td>
@@ -11481,7 +11481,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1713</p></td>
-<td><p>12월 10일</p></td>
+<td><p>12월 11일</p></td>
 <td><p>hope희망</p></td>
 <td><p>딱 소리 납니다!</p></td>
 <td></td>
@@ -11489,7 +11489,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1714</p></td>
-<td><p>12월 11일</p></td>
+<td><p>12월 12일</p></td>
 <td><p>문화culture</p></td>
 <td><p>노래야 가자</p></td>
 <td></td>
@@ -11497,7 +11497,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1715</p></td>
-<td><p>12월 12일</p></td>
+<td><p>12월 13일</p></td>
 <td><p>시간time</p></td>
 <td><p>잊혀진 사람들</p></td>
 <td><p><a href="../Page/12·12_군사_반란.md" title="wikilink">12·12 군사 반란</a></p></td>
@@ -11505,7 +11505,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1716</p></td>
-<td><p>12월 13일</p></td>
+<td><p>12월 14일</p></td>
 <td><p>인생life</p></td>
 <td><p>먹고사는 문제</p></td>
 <td><p><a href="../Page/성이시돌목장.md" title="wikilink">성이시돌목장</a></p></td>
@@ -11513,7 +11513,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1717</p></td>
-<td><p>12월 17일</p></td>
+<td><p>12월 18일</p></td>
 <td><p>변화change</p></td>
 <td><p>7년간의 실험</p></td>
 <td><p><a href="../Page/존_듀이.md" title="wikilink">존 듀이</a></p></td>
@@ -11521,7 +11521,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1718</p></td>
-<td><p>12월 18일</p></td>
+<td><p>12월 19일</p></td>
 <td><p>기념일anniv<strong>e</strong>rsary</p></td>
 <td><p>죽음의 일주일</p></td>
 <td><p><a href="../Page/송끄란.md" title="wikilink">송끄란</a>,<a href="../Page/음주_운전.md" title="wikilink">음주 운전</a></p></td>
@@ -11529,7 +11529,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1719</p></td>
-<td><p>12월 19일</p></td>
+<td><p>12월 20일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>참지 않는 이유</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/직장_내_집단_따돌림" title="wikilink">직장 내 집단 따돌림</a>,<a href="../Page/프랑스.md" title="wikilink">프랑스</a>,<a href="../Page/갑질.md" title="wikilink">갑질</a></p></td>
@@ -11537,7 +11537,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1720</p></td>
-<td><p>12월 20일</p></td>
+<td><p>12월 21일</p></td>
 <td><p>변화change</p></td>
 <td><p>내일을 향해 쏴라</p></td>
 <td></td>
@@ -11545,7 +11545,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1721</p></td>
-<td><p>12월 24일</p></td>
+<td><p>12월 25일</p></td>
 <td><p>선택choice</p></td>
 <td><p>B와 D사이의 17</p></td>
 <td></td>
@@ -11553,7 +11553,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1722</p></td>
-<td><p>12월 25일</p></td>
+<td><p>12월 26일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
 <td><p>다시 크리스마스가 되면</p></td>
 <td></td>
@@ -11561,7 +11561,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1723</p></td>
-<td><p>12월 26일</p></td>
+<td><p>12월 27일</p></td>
 <td><p>인생life</p></td>
 <td><p>어떻게 해야 잘 살 수 있을까</p></td>
 <td><p><a href="../Page/핀란드.md" title="wikilink">핀란드</a></p></td>
@@ -11569,7 +11569,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1724</p></td>
-<td><p>12월 27일</p></td>
+<td><p>12월 28일</p></td>
 <td><p>인간humane</p></td>
 <td><p>오늘 일어난 일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/133" title="wikilink">133</a>,<a href="https://ko.wikipedia.org/wiki/391년" title="wikilink">391회</a> <a href="https://ko.wikipedia.org/wiki/참조" title="wikilink">참조</a></p></td>
@@ -11582,138 +11582,138 @@ A Friend in London - New Tomorrow<br />
 
 | 회차   | 방영일     | 키워드                | 제목                                                                                          | 참고항목                                                                                                                                                                    | 삽입곡                          |
 | ---- | ------- | ------------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| 1725 | 12월 31일 | 교육education        | 변화의 이유                                                                                      |                                                                                                                                                                         |                              |
-| 1726 | 1월 1일   | 인생life             | 그 섬에는 '예쁜' 노인이 산다                                                                           | [치매](../Page/치매.md "wikilink"),[일본](../Page/일본.md "wikilink")                                                                                                           |                              |
-| 1727 | 1월 2일   | 네, 1녀 1견입니다        |                                                                                             |                                                                                                                                                                         |                              |
-| 1728 | 1월 3일   | intervi**e**w인터뷰   | 나이가 어떻게 되세요?                                                                                |                                                                                                                                                                         |                              |
-| 1729 | 1월 7일   | 인생life             | 그냥 걸었어                                                                                      |                                                                                                                                                                         |                              |
-| 1730 | 1월 8일   | 교육education        | 어린이 '명랑'만화를 그린다는 것 - 만화가 남동윤                                                                |                                                                                                                                                                         |                              |
-| 1731 | 1월 9일   | 시간time             | 월정액 제너레이션                                                                                   |                                                                                                                                                                         |                              |
-| 1732 | 1월 10일  | 관계r**e**lation     | 화음의 이해                                                                                      |                                                                                                                                                                         |                              |
-| 1733 | 1월 14일  | 선택choice           | 호모 어바누스                                                                                     |                                                                                                                                                                         |                              |
-| 1734 | 1월 15일  | 문학literature       | 나의 별에도 봄이 오면                                                                                | [윤동주](../Page/윤동주.md "wikilink")                                                                                                                                        |                              |
-| 1735 | 1월 16일  | 지식knowledge        | 기묘한 물고기 Odd Fish                                                                            |                                                                                                                                                                         |                              |
-| 1736 | 1월 17일  | 너머b**e**yond       | 아름답거나 혹은 끔찍하거나                                                                              | [드론](https://ko.wikipedia.org/wiki/드론 "wikilink"),[곰](../Page/곰.md "wikilink")                                                                                          |                              |
-| 1737 | 1월 21일  | 상상imagine          | 창조의 탄생                                                                                      |                                                                                                                                                                         |                              |
-| 1738 | 1월 22일  | 사람people           | 그가 남긴 유산                                                                                    | [김영옥 (군인)](../Page/김영옥_\(군인\).md "wikilink")                                                                                                                            |                              |
-| 1739 | 1월 23일  | 인간humane           | 나의 다른 이름들                                                                                   | [빅이슈](../Page/빅이슈.md "wikilink")                                                                                                                                        |                              |
-| 1740 | 1월 24일  | 교육education        | 2019 학종 시대                                                                                  |                                                                                                                                                                         |                              |
-| 1741 | 1월 28일  | 너머b**e**yond       | 도시 이후의 도시                                                                                   |                                                                                                                                                                         |                              |
-| 1742 | 1월 29일  | 사람people           | 세 개의 이름                                                                                     | [최재형](../Page/최재형.md "wikilink")                                                                                                                                        |                              |
-| 1743 | 1월 30일  | 선택choice           | 돼지일까 고기일까                                                                                   | [잡식가족의 딜레마](../Page/잡식가족의_딜레마.md "wikilink")                                                                                                                            |                              |
-| 1744 | 1월 31일  | 이 책의 결말은?          | [게임북](https://ko.wikipedia.org/wiki/게임북 "wikilink")                                         |                                                                                                                                                                         |                              |
-| 1745 | 2월 4일   | 사회soci**e**ty      | 콜라 대신 커피                                                                                    | [키오스크](https://ko.wikipedia.org/wiki/키오스크 "wikilink")                                                                                                                   |                              |
-| 1746 | 2월 5일   | 인생life             | 백미대왕을 아시나요                                                                                  | [김종림](../Page/김종림.md "wikilink")                                                                                                                                        |                              |
-| 1747 | 2월 6일   | 시간time             | 아주 단순한 이야기                                                                                  |                                                                                                                                                                         |                              |
-| 1748 | 2월 7일   | 꿈dr**e**am         | 메뚜기를 쫓는 남자                                                                                  | [:ja:前野ウルド浩太郎](https://ko.wikipedia.org/wiki/:ja:前野ウルド浩太郎 "wikilink")                                                                                                   |                              |
-| 1749 | 2월 11일  | 교육education        | 연결 지능                                                                                       |                                                                                                                                                                         |                              |
-| 1750 | 2월 12일  | 너머b**e**yond       | Good Morning, Mr. Paik\!                                                                    | [백남준](../Page/백남준.md "wikilink")                                                                                                                                        |                              |
-| 1751 | 2월 13일  | 인생life             | 다시 태어나면 그때는                                                                                 |                                                                                                                                                                         |                              |
-| 1752 | 2월 14일  | 상상imagine          | 왜 밤하늘은 어두울까?                                                                                | [에드거 앨런 포](../Page/에드거_앨런_포.md "wikilink")                                                                                                                              |                              |
-| 1753 | 2월 18일  | 생존survive          | 모든 날 모든 순간                                                                                  | [안전](https://ko.wikipedia.org/wiki/안전 "wikilink"),[지진](https://ko.wikipedia.org/wiki/지진 "wikilink"),[심폐소생술](../Page/심폐소생술.md "wikilink")                                |                              |
-| 1754 | 2월 19일  | 공간space            | 하늘을 나는 꿈                                                                                    | [:en:Willows Korean Aviation School](https://ko.wikipedia.org/wiki/:en:Willows_Korean_Aviation_School "wikilink")                                                       |                              |
-| 1755 | 2월 20일  | 관점vi**e**w         | 인생이 하나의 선이라면                                                                                |                                                                                                                                                                         |                              |
-| 1756 | 2월 21일  | 삶live              | 혼자 보지 말 것\!                                                                                 | [텔레비전](../Page/텔레비전.md "wikilink")                                                                                                                                      | Six WeeksOf Monsters and Men |
-| 1757 | 2월 25일  | 사람people           | 어둠을 밝혀주는                                                                                    |                                                                                                                                                                         |                              |
-| 1758 | 2월 26일  | 관점vi**e**w         | 열정과 냉정 사이                                                                                   | [We Are the World](https://ko.wikipedia.org/wiki/We_Are_the_World "wikilink"),[기부](https://ko.wikipedia.org/wiki/기부 "wikilink")                                         |                              |
-| 1759 | 2월 27일  | e야기                | 빈칸 가족                                                                                       |                                                                                                                                                                         |                              |
-| 1760 | 2월 28일  | 기억m**e**mory       | 기억과 망각 사이                                                                                   |                                                                                                                                                                         |                              |
-| 1761 | 3월 4일   | 인생life             | 반려동물과 이별하는 법                                                                                |                                                                                                                                                                         |                              |
-| 1762 | 3월 5일   | 정체성id**e**ntity    | 나를 부르는 이름                                                                                   | [서갑호](https://ko.wikipedia.org/wiki/서갑호 "wikilink")                                                                                                                     |                              |
-| 1763 | 3월 6일   | 어머니moth**e**r      | 할머니의 쌈짓돈                                                                                    | [김복동 (1926년)](../Page/김복동_\(1926년\).md "wikilink")                                                                                                                      |                              |
-| 1764 | 3월 7일   | 인생life             | 나는 왜 너를 못 견뎌 하는가                                                                            |                                                                                                                                                                         |                              |
-| 1765 | 3월 11일  | 기억m**e**mory       | 푸른 눈의 목격자들                                                                                  | [호러스 그랜트 언더우드](../Page/호러스_그랜트_언더우드.md "wikilink")                                                                                                                      |                              |
-| 1766 | 3월 12일  | 영웅h**e**ro         | 독립 공신: 6형제 이야기                                                                              | [이회영](../Page/이회영.md "wikilink"),[이석영](../Page/이석영_\(독립운동가\).md "wikilink"), [이건영](../Page/이건영_\(1926년\).md "wikilink"), [이시영](../Page/이시영_\(1868년\).md "wikilink")     |                              |
-| 1767 | 3월 13일  | 기술t**e**chnology   | 아빠가 전화를 받았다                                                                                 | [공중전화](../Page/공중전화.md "wikilink")                                                                                                                                      | 김혜림DDD,015B텅빈거리              |
-| 1768 | 3월 14일  | 관계r**e**lation     | 영원 한 시간                                                                                     |                                                                                                                                                                         |                              |
-| 1769 | 3월 18일  | 인생life             | 백 년 동안의 이웃                                                                                  |                                                                                                                                                                         |                              |
-| 1770 | 3월 19일  | 교육education        | 잃어버린 1년을 찾아서                                                                                | [갭이어](https://ko.wikipedia.org/wiki/갭이어 "wikilink")                                                                                                                     |                              |
-| 1771 | 3월 20일  | 기술t**e**chnology   | 패스워드 증후군                                                                                    |                                                                                                                                                                         |                              |
-| 1772 | 3월 21일  | 인생life             | 한낮의 중간고사                                                                                    |                                                                                                                                                                         |                              |
-| 1773 | 3월 25일  | 관점vi**e**w         | 눈물을 재촉하는                                                                                    | [최루탄](https://ko.wikipedia.org/wiki/최루탄 "wikilink"),[이한열](../Page/이한열.md "wikilink")                                                                                    |                              |
-| 1774 | 3월 26일  | 진실true             | 유언이 된 증언                                                                                    | [:ja:伊藤孝司](https://ko.wikipedia.org/wiki/:ja:伊藤孝司 "wikilink")                                                                                                           |                              |
-| 1775 | 3월 27일  | 생존survive          | 도시 생존기                                                                                      |                                                                                                                                                                         |                              |
-| 1776 | 3월 28일  | 상상imagine          | 지나온 미래의 꿈                                                                                   |                                                                                                                                                                         |                              |
-| 1777 | 4월 1일   | 과학sci**e**nce      | 너의 목소리                                                                                      |                                                                                                                                                                         |                              |
-| 1778 | 4월 2일   | 시장mark**e**t       | 히트상품                                                                                        | [가습기 살균제 사건](../Page/가습기_살균제_사건.md "wikilink")                                                                                                                          |                              |
-| 1779 | 4월 3일   | 선택choice           | 10억으로 할수 있는 일                                                                               |                                                                                                                                                                         |                              |
-| 1780 | 4월 4일   | 시간time             | 첫숨과 마지막숨 사이                                                                                 | [미세먼지](../Page/미세먼지.md "wikilink")                                                                                                                                      |                              |
-| 1781 | 4월 8일   | 관점vi**e**w         | 꼭 입어야 할까요?                                                                                  |                                                                                                                                                                         |                              |
-| 1782 | 4월 9일   | 도전challenge        | 놀다가 세계 4등                                                                                   |                                                                                                                                                                         |                              |
-| 1783 | 4월 10일  | 사람people           | H와H                                                                                         | [헤디 라마르](../Page/헤디_라마르.md "wikilink")                                                                                                                                  |                              |
-| 1784 | 4월 11일  | 어린이childr**e**n    | 100가지 씨앗                                                                                    |                                                                                                                                                                         |                              |
-| 1785 | 4월 15일  | 인생life             | 봄의 어떤 색깔                                                                                    |                                                                                                                                                                         |                              |
-| 1786 | 4월 16일  | 여행trav**e**l       | 기억의 여행                                                                                      | 1142                                                                                                                                                                    |                              |
-| 1787 | 4월 17일  | 순간mom**e**nt       | 4월이 내게 말했다                                                                                  |                                                                                                                                                                         |                              |
-| 1788 | 4월 18일  | 사람people           | 아들의 빈 방                                                                                     | [4.19 혁명](../Page/4.19_혁명.md "wikilink")                                                                                                                                |                              |
-| 1789 | 4월 22일  | 정체성id**e**ntity    | 잘하는 게 뭐니?                                                                                   |                                                                                                                                                                         |                              |
-| 1790 | 4월 23일  | 상상imagine          | 인간과 동거 중인 고양이 모임                                                                            |                                                                                                                                                                         |                              |
-| 1791 | 4월 24일  | 상기r**e**mind       | 그곳으로 가는 길                                                                                   | [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink")                                                                                                                 |                              |
-| 1792 | 4월 25일  | 시간time             | 믿어요, 노동요                                                                                    |                                                                                                                                                                         |                              |
-| 1793 | 4월 29일  | 생각id**e**a         | 누가 내 피자를 먹었어?                                                                               | [분수](../Page/분수_\(수학\).md "wikilink")                                                                                                                                   |                              |
-| 1794 | 4월 30일  | 진실true             | 지금, 보고 있습니까?                                                                                |                                                                                                                                                                         |                              |
-| 1795 | 5월 1일   | 편지letter           | 1969년, 그가 보낸 편지                                                                             | [전태일](../Page/전태일.md "wikilink")                                                                                                                                        |                              |
-| 1796 | 5월 2일   | 자연nature           | 금싸라기 땅 우리 집                                                                                 | [안양시](../Page/안양시.md "wikilink"),[개미](../Page/개미.md "wikilink"),[농림축산검역본부](../Page/농림축산검역본부.md "wikilink")                                                              |                              |
-| 1797 | 5월 6일   | 사랑love             | 나는 나쁜 엄마일까?                                                                                 | [인공지능](../Page/인공지능.md "wikilink")                                                                                                                                      |                              |
-| 1798 | 5월 7일   | 인생life             | 인생 한 번쯤 변주                                                                                  |                                                                                                                                                                         |                              |
-| 1799 | 5월 8일   | 선택choice           | 전화가 오던 날                                                                                    |                                                                                                                                                                         |                              |
-| 1800 | 5월 9일   | 특집-사과 apple        | 당신은 지금 지식채널e를 보고 있습니다                                                                       |                                                                                                                                                                         |                              |
-| 1801 | 5월 13일  | 관점vi**e**w         | 생각하는 손                                                                                      |                                                                                                                                                                         |                              |
-| 1802 | 5월 14일  | 관계r**e**lation     | [노트르담과](../Page/노트르담_대성당.md "wikilink") 나                                                   | [노트르담 대성당](../Page/노트르담_대성당.md "wikilink"),[노트르담 대성당 화재](../Page/노트르담_대성당_화재.md "wikilink")                                                                             |                              |
-| 1803 | 5월 15일  | 관점vi**e**w         | 하라는 공부는 안 하고                                                                                |                                                                                                                                                                         |                              |
-| 1804 | 5월 16일  | 너머b**e**yond       | 빌게이츠에게 연락하는 방법                                                                              |                                                                                                                                                                         |                              |
-| 1805 | 5월 20일  | 공간space            | 세상에서 가장 작은 방                                                                                | [베이비박스](../Page/베이비박스.md "wikilink")                                                                                                                                    |                              |
-| 1806 | 5월 21일  | 기억m**e**mory       | 가려진시간                                                                                       | [10월 항쟁](../Page/10월_항쟁.md "wikilink")                                                                                                                                  |                              |
-| 1807 | 5월 22일  | 상상imagine          | 블랙홀을 보는 법                                                                                   |                                                                                                                                                                         |                              |
-| 1808 | 5월 23일  | 교육education        | 뭘 좀 모르는 아이들                                                                                 |                                                                                                                                                                         |                              |
-| 1809 | 5월 27일  | 정체성identity        | 넌, 이름이 뭐니?                                                                                  |                                                                                                                                                                         |                              |
-| 1810 | 5월 28일  | 상기rem**e**mber     | 아는 사람 이야기                                                                                   | [삼풍백화점 붕괴 사고](../Page/삼풍백화점_붕괴_사고.md "wikilink"),[태안 기름 유출 사건](https://ko.wikipedia.org/wiki/태안_기름_유출_사건 "wikilink"),[2019년 강원도 산불](../Page/2019년_강원도_산불.md "wikilink") |                              |
-| 1811 | 5월 29일  | 변화change           | 모든 것이 그들의 계획이었다                                                                             |                                                                                                                                                                         |                              |
-| 1812 | 5월 30일  | 담장 안의 학교           |                                                                                             |                                                                                                                                                                         |                              |
-| 1813 | 6월 3일   | 상상imagine          | 알 수도 있는 동물 사전                                                                               |                                                                                                                                                                         |                              |
-| 1814 | 6월 4일   | 새로움ren**e**w       | 거미줄의 힘 1부                                                                                   | [보스턴](../Page/보스턴.md "wikilink")                                                                                                                                        |                              |
-| 1815 | 6월 5일   | 지구earth            | 2분 40초, 소리                                                                                  |                                                                                                                                                                         |                              |
-| 1816 | 6월 6일   | 변화change           | 선생님 생각은 어때요?                                                                                |                                                                                                                                                                         |                              |
-| 1817 | 6월 10일  | 정서emotion          | 끝내지 못했다(did not finish)                                                                     |                                                                                                                                                                         |                              |
-| 1818 | 6월 11일  | 선택choice           | 비결이 뭐예요                                                                                     | [텔로미어](../Page/텔로미어.md "wikilink")                                                                                                                                      |                              |
-| 1819 | 6월 12일  | 공간space            | 내가 만든 우주                                                                                    |                                                                                                                                                                         |                              |
-| 1820 | 6월 13일  | 교육education        | 바다 마을 프로젝트                                                                                  |                                                                                                                                                                         |                              |
-| 1821 | 6월 17일  | 관계r**e**lation     | 내 얼굴 고마워                                                                                    | [장차현실](../Page/안양시의_시외버스.md "wikilink"),[정은혜](https://ko.wikipedia.org/wiki/정은혜_\(모델\) "wikilink")                                                                      |                              |
-| 1822 | 6월 18일  | 이 선을 넘지 마시오        |                                                                                             |                                                                                                                                                                         |                              |
-| 1823 | 6월 19일  | 언어language         | pretend로 영작을 해보자                                                                            |                                                                                                                                                                         |                              |
-| 1824 | 6월 20일  | 관계r**e**lation     | 살구 저장법                                                                                      |                                                                                                                                                                         |                              |
-| 1825 | 6월 24일  | 새로움ren**e**w       | 거미줄의 힘 2부                                                                                   | [보스턴](../Page/보스턴.md "wikilink")                                                                                                                                        |                              |
-| 1826 | 6월 25일  | 변화change           | 우리는 같은 지붕 아래 산다                                                                             | [동거](https://ko.wikipedia.org/wiki/동거 "wikilink")                                                                                                                       |                              |
-| 1827 | 6월 26일  | 디자인d**e**sign      | 왜 그렇게 생겼니?                                                                                  | [글꼴](../Page/글꼴.md "wikilink")                                                                                                                                          |                              |
-| 1828 | 6월 27일  | 교육education        | 작별의 축제                                                                                      | [교훈](https://ko.wikipedia.org/wiki/교훈 "wikilink"),[춘천여고](https://ko.wikipedia.org/wiki/춘천여고 "wikilink")                                                                 |                              |
-| 1829 | 7월 1일   | 자연nature           | 내 방에 부는 바람                                                                                  |                                                                                                                                                                         |                              |
-| 1830 | 7월 2일   | 너머b**e**yond       | 2050,우리의 여름은                                                                                |                                                                                                                                                                         |                              |
-| 1831 | 7월 3일   | 인생life             | 살인자는 누구인가?                                                                                  |                                                                                                                                                                         |                              |
-| 1832 | 7월 4일   | 관계r**e**lation     | 왜 저러고 살지?                                                                                   |                                                                                                                                                                         |                              |
-| 1833 | 7월 8일   | 지구earth            | 우리가 사랑하는 숲이에요                                                                               |                                                                                                                                                                         |                              |
-| 1834 | 7월 9일   | e야기                | 방학 특집 급식 해방                                                                                 |                                                                                                                                                                         |                              |
-| 1835 | 7월 10일  | 기념일anniv**e**rsary | 우리는 달에 착륙하지 않았다                                                                             | [아폴로 11호](../Page/아폴로_11호.md "wikilink")                                                                                                                                |                              |
-| 1836 | 7월 11일  | 기술t**e**chnology   | 테이의 마지막 메시지                                                                                 |                                                                                                                                                                         |                              |
-| 1837 | 7월 15일  | 기억m**e**mory       | 검은 기록                                                                                       |                                                                                                                                                                         |                              |
-| 1838 | 7월 16일  | 관점vi**e**w         | 자주 묻는 질문(FAQ)                                                                               |                                                                                                                                                                         |                              |
-| 1839 | 7월 17일  | e야기                | 그것이 사라졌다                                                                                    |                                                                                                                                                                         |                              |
-| 1840 | 7월 18일  | 사회soci**e**ty      | 아무도 안 봤으면 하는 동화                                                                             |                                                                                                                                                                         |                              |
-| 1841 | 7월 22일  | 정체성id**e**ntity    | 오늘의 드레스 코드                                                                                  |                                                                                                                                                                         |                              |
-| 1842 | 7월 23일  | 이유r**e**ason       | 싸울까, 도망칠까                                                                                   |                                                                                                                                                                         |                              |
-| 1843 | 7월 24일  | 정의justice          | 투명인간이 나타났다                                                                                  |                                                                                                                                                                         |                              |
-| 1844 | 7월 25일  | 인생life             | 다시는                                                                                         | [태안화력발전소 사고](../Page/태안화력발전소_사고.md "wikilink")                                                                                                                          |                              |
-| 1845 | 7월 29일  | 상상imagine          | 무엇이든 누를 수 있습니다                                                                              |                                                                                                                                                                         |                              |
-| 1846 | 7월 30일  | 도전challenge        | 움직여                                                                                         | [파쿠르](../Page/파르쿠르.md "wikilink")                                                                                                                                       |                              |
-| 1847 | 7월 31일  | 변화change           | 나, 요즘 덕질해                                                                                   | [쓰레기](../Page/쓰레기.md "wikilink")                                                                                                                                        |                              |
-| 1848 | 8월 1일   | 인생life             | 내가 내일 죽는다면                                                                                  |                                                                                                                                                                         |                              |
-| 1849 | 8월 5일   | 사람people           | 너무 긴 1분                                                                                     |                                                                                                                                                                         |                              |
-| 1850 | 8월 6일   | 다른diff**e**rent    | 어느 묵시록                                                                                      |                                                                                                                                                                         |                              |
-| 1851 | 8월 7일   | 상기r**e**mind       | 내 귓가의 여름                                                                                    |                                                                                                                                                                         |                              |
-| 1852 | 8월 8일   | 사회soci**e**ty      | 마음의 색                                                                                       |                                                                                                                                                                         |                              |
-| 1853 | 8월 12일  | 상기r**e**mind       | 난 네가 지난여름에 한 일을 알고 있다                                                                       | [반려동물](https://ko.wikipedia.org/wiki/반려동물 "wikilink")                                                                                                                   |                              |
-| 1854 | 8월 13일  | 선택choice           | 풀만 먹어도 살쪄요                                                                                  |                                                                                                                                                                         |                              |
-| 1855 | 8월 14일  | 이유r**e**ason       | 마지막 스위치?                                                                                    | [일본회의](../Page/일본회의.md "wikilink")                                                                                                                                      |                              |
-| 1856 | 8월 15일  | 민주주의d**e**mocracy  | 신사의 품격                                                                                      | [야스쿠니 신사](../Page/야스쿠니_신사.md "wikilink")                                                                                                                                |                              |
+| 1725 | 1월 1일   | 교육education        | 변화의 이유                                                                                      |                                                                                                                                                                         |                              |
+| 1726 | 1월 2일   | 인생life             | 그 섬에는 '예쁜' 노인이 산다                                                                           | [치매](../Page/치매.md "wikilink"),[일본](../Page/일본.md "wikilink")                                                                                                           |                              |
+| 1727 | 1월 3일   | 네, 1녀 1견입니다        |                                                                                             |                                                                                                                                                                         |                              |
+| 1728 | 1월 4일   | intervi**e**w인터뷰   | 나이가 어떻게 되세요?                                                                                |                                                                                                                                                                         |                              |
+| 1729 | 1월 8일   | 인생life             | 그냥 걸었어                                                                                      |                                                                                                                                                                         |                              |
+| 1730 | 1월 9일   | 교육education        | 어린이 '명랑'만화를 그린다는 것 - 만화가 남동윤                                                                |                                                                                                                                                                         |                              |
+| 1731 | 1월 10일  | 시간time             | 월정액 제너레이션                                                                                   |                                                                                                                                                                         |                              |
+| 1732 | 1월 11일  | 관계r**e**lation     | 화음의 이해                                                                                      |                                                                                                                                                                         |                              |
+| 1733 | 1월 15일  | 선택choice           | 호모 어바누스                                                                                     |                                                                                                                                                                         |                              |
+| 1734 | 1월 16일  | 문학literature       | 나의 별에도 봄이 오면                                                                                | [윤동주](../Page/윤동주.md "wikilink")                                                                                                                                        |                              |
+| 1735 | 1월 17일  | 지식knowledge        | 기묘한 물고기 Odd Fish                                                                            |                                                                                                                                                                         |                              |
+| 1736 | 1월 18일  | 너머b**e**yond       | 아름답거나 혹은 끔찍하거나                                                                              | [드론](https://ko.wikipedia.org/wiki/드론 "wikilink"),[곰](../Page/곰.md "wikilink")                                                                                          |                              |
+| 1737 | 1월 22일  | 상상imagine          | 창조의 탄생                                                                                      |                                                                                                                                                                         |                              |
+| 1738 | 1월 23일  | 사람people           | 그가 남긴 유산                                                                                    | [김영옥 (군인)](../Page/김영옥_\(군인\).md "wikilink")                                                                                                                            |                              |
+| 1739 | 1월 24일  | 인간humane           | 나의 다른 이름들                                                                                   | [빅이슈](../Page/빅이슈.md "wikilink")                                                                                                                                        |                              |
+| 1740 | 1월 25일  | 교육education        | 2019 학종 시대                                                                                  |                                                                                                                                                                         |                              |
+| 1741 | 1월 29일  | 너머b**e**yond       | 도시 이후의 도시                                                                                   |                                                                                                                                                                         |                              |
+| 1742 | 1월 30일  | 사람people           | 세 개의 이름                                                                                     | [최재형](../Page/최재형.md "wikilink")                                                                                                                                        |                              |
+| 1743 | 1월 31일  | 선택choice           | 돼지일까 고기일까                                                                                   | [잡식가족의 딜레마](../Page/잡식가족의_딜레마.md "wikilink")                                                                                                                            |                              |
+| 1744 | 2월 1일   | 이 책의 결말은?          | [게임북](https://ko.wikipedia.org/wiki/게임북 "wikilink")                                         |                                                                                                                                                                         |                              |
+| 1745 | 2월 5일   | 사회soci**e**ty      | 콜라 대신 커피                                                                                    | [키오스크](https://ko.wikipedia.org/wiki/키오스크 "wikilink")                                                                                                                   |                              |
+| 1746 | 2월 6일   | 인생life             | 백미대왕을 아시나요                                                                                  | [김종림](../Page/김종림.md "wikilink")                                                                                                                                        |                              |
+| 1747 | 2월 7일   | 시간time             | 아주 단순한 이야기                                                                                  |                                                                                                                                                                         |                              |
+| 1748 | 2월 8일   | 꿈dr**e**am         | 메뚜기를 쫓는 남자                                                                                  | [:ja:前野ウルド浩太郎](https://ko.wikipedia.org/wiki/:ja:前野ウルド浩太郎 "wikilink")                                                                                                   |                              |
+| 1749 | 2월 12일  | 교육education        | 연결 지능                                                                                       |                                                                                                                                                                         |                              |
+| 1750 | 2월 13일  | 너머b**e**yond       | Good Morning, Mr. Paik\!                                                                    | [백남준](../Page/백남준.md "wikilink")                                                                                                                                        |                              |
+| 1751 | 2월 14일  | 인생life             | 다시 태어나면 그때는                                                                                 |                                                                                                                                                                         |                              |
+| 1752 | 2월 15일  | 상상imagine          | 왜 밤하늘은 어두울까?                                                                                | [에드거 앨런 포](../Page/에드거_앨런_포.md "wikilink")                                                                                                                              |                              |
+| 1753 | 2월 19일  | 생존survive          | 모든 날 모든 순간                                                                                  | [안전](https://ko.wikipedia.org/wiki/안전 "wikilink"),[지진](https://ko.wikipedia.org/wiki/지진 "wikilink"),[심폐소생술](../Page/심폐소생술.md "wikilink")                                |                              |
+| 1754 | 2월 20일  | 공간space            | 하늘을 나는 꿈                                                                                    | [:en:Willows Korean Aviation School](https://ko.wikipedia.org/wiki/:en:Willows_Korean_Aviation_School "wikilink")                                                       |                              |
+| 1755 | 2월 21일  | 관점vi**e**w         | 인생이 하나의 선이라면                                                                                |                                                                                                                                                                         |                              |
+| 1756 | 2월 22일  | 삶live              | 혼자 보지 말 것\!                                                                                 | [텔레비전](../Page/텔레비전.md "wikilink")                                                                                                                                      | Six WeeksOf Monsters and Men |
+| 1757 | 2월 26일  | 사람people           | 어둠을 밝혀주는                                                                                    |                                                                                                                                                                         |                              |
+| 1758 | 2월 27일  | 관점vi**e**w         | 열정과 냉정 사이                                                                                   | [We Are the World](https://ko.wikipedia.org/wiki/We_Are_the_World "wikilink"),[기부](https://ko.wikipedia.org/wiki/기부 "wikilink")                                         |                              |
+| 1759 | 2월 28일  | e야기                | 빈칸 가족                                                                                       |                                                                                                                                                                         |                              |
+| 1760 | 3월 1일   | 기억m**e**mory       | 기억과 망각 사이                                                                                   |                                                                                                                                                                         |                              |
+| 1761 | 3월 5일   | 인생life             | 반려동물과 이별하는 법                                                                                |                                                                                                                                                                         |                              |
+| 1762 | 3월 6일   | 정체성id**e**ntity    | 나를 부르는 이름                                                                                   | [서갑호](https://ko.wikipedia.org/wiki/서갑호 "wikilink")                                                                                                                     |                              |
+| 1763 | 3월 7일   | 어머니moth**e**r      | 할머니의 쌈짓돈                                                                                    | [김복동 (1926년)](../Page/김복동_\(1926년\).md "wikilink")                                                                                                                      |                              |
+| 1764 | 3월 8일   | 인생life             | 나는 왜 너를 못 견뎌 하는가                                                                            |                                                                                                                                                                         |                              |
+| 1765 | 3월 12일  | 기억m**e**mory       | 푸른 눈의 목격자들                                                                                  | [호러스 그랜트 언더우드](../Page/호러스_그랜트_언더우드.md "wikilink")                                                                                                                      |                              |
+| 1766 | 3월 13일  | 영웅h**e**ro         | 독립 공신: 6형제 이야기                                                                              | [이회영](../Page/이회영.md "wikilink"),[이석영](../Page/이석영_\(독립운동가\).md "wikilink"), [이건영](../Page/이건영_\(1926년\).md "wikilink"), [이시영](../Page/이시영_\(1868년\).md "wikilink")     |                              |
+| 1767 | 3월 14일  | 기술t**e**chnology   | 아빠가 전화를 받았다                                                                                 | [공중전화](../Page/공중전화.md "wikilink")                                                                                                                                      | 김혜림DDD,015B텅빈거리              |
+| 1768 | 3월 15일  | 관계r**e**lation     | 영원 한 시간                                                                                     |                                                                                                                                                                         |                              |
+| 1769 | 3월 19일  | 인생life             | 백 년 동안의 이웃                                                                                  |                                                                                                                                                                         |                              |
+| 1770 | 3월 20일  | 교육education        | 잃어버린 1년을 찾아서                                                                                | [갭이어](https://ko.wikipedia.org/wiki/갭이어 "wikilink")                                                                                                                     |                              |
+| 1771 | 3월 21일  | 기술t**e**chnology   | 패스워드 증후군                                                                                    |                                                                                                                                                                         |                              |
+| 1772 | 3월 22일  | 인생life             | 한낮의 중간고사                                                                                    |                                                                                                                                                                         |                              |
+| 1773 | 3월 26일  | 관점vi**e**w         | 눈물을 재촉하는                                                                                    | [최루탄](https://ko.wikipedia.org/wiki/최루탄 "wikilink"),[이한열](../Page/이한열.md "wikilink")                                                                                    |                              |
+| 1774 | 3월 27일  | 진실true             | 유언이 된 증언                                                                                    | [:ja:伊藤孝司](https://ko.wikipedia.org/wiki/:ja:伊藤孝司 "wikilink")                                                                                                           |                              |
+| 1775 | 3월 28일  | 생존survive          | 도시 생존기                                                                                      |                                                                                                                                                                         |                              |
+| 1776 | 3월 29일  | 상상imagine          | 지나온 미래의 꿈                                                                                   |                                                                                                                                                                         |                              |
+| 1777 | 4월 2일   | 과학sci**e**nce      | 너의 목소리                                                                                      |                                                                                                                                                                         |                              |
+| 1778 | 4월 3일   | 시장mark**e**t       | 히트상품                                                                                        | [가습기 살균제 사건](../Page/가습기_살균제_사건.md "wikilink")                                                                                                                          |                              |
+| 1779 | 4월 4일   | 선택choice           | 10억으로 할수 있는 일                                                                               |                                                                                                                                                                         |                              |
+| 1780 | 4월 5일   | 시간time             | 첫숨과 마지막숨 사이                                                                                 | [미세먼지](../Page/미세먼지.md "wikilink")                                                                                                                                      |                              |
+| 1781 | 4월 9일   | 관점vi**e**w         | 꼭 입어야 할까요?                                                                                  |                                                                                                                                                                         |                              |
+| 1782 | 4월 10일  | 도전challenge        | 놀다가 세계 4등                                                                                   |                                                                                                                                                                         |                              |
+| 1783 | 4월 11일  | 사람people           | H와H                                                                                         | [헤디 라마르](../Page/헤디_라마르.md "wikilink")                                                                                                                                  |                              |
+| 1784 | 4월 12일  | 어린이childr**e**n    | 100가지 씨앗                                                                                    |                                                                                                                                                                         |                              |
+| 1785 | 4월 16일  | 인생life             | 봄의 어떤 색깔                                                                                    |                                                                                                                                                                         |                              |
+| 1786 | 4월 17일  | 여행trav**e**l       | 기억의 여행                                                                                      | 1142                                                                                                                                                                    |                              |
+| 1787 | 4월 18일  | 순간mom**e**nt       | 4월이 내게 말했다                                                                                  |                                                                                                                                                                         |                              |
+| 1788 | 4월 19일  | 사람people           | 아들의 빈 방                                                                                     | [4.19 혁명](../Page/4.19_혁명.md "wikilink")                                                                                                                                |                              |
+| 1789 | 4월 23일  | 정체성id**e**ntity    | 잘하는 게 뭐니?                                                                                   |                                                                                                                                                                         |                              |
+| 1790 | 4월 24일  | 상상imagine          | 인간과 동거 중인 고양이 모임                                                                            |                                                                                                                                                                         |                              |
+| 1791 | 4월 25일  | 상기r**e**mind       | 그곳으로 가는 길                                                                                   | [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink")                                                                                                                 |                              |
+| 1792 | 4월 26일  | 시간time             | 믿어요, 노동요                                                                                    |                                                                                                                                                                         |                              |
+| 1793 | 4월 30일  | 생각id**e**a         | 누가 내 피자를 먹었어?                                                                               | [분수](../Page/분수_\(수학\).md "wikilink")                                                                                                                                   |                              |
+| 1794 | 5월 1일   | 진실true             | 지금, 보고 있습니까?                                                                                |                                                                                                                                                                         |                              |
+| 1795 | 5월 2일   | 편지letter           | 1969년, 그가 보낸 편지                                                                             | [전태일](../Page/전태일.md "wikilink")                                                                                                                                        |                              |
+| 1796 | 5월 3일   | 자연nature           | 금싸라기 땅 우리 집                                                                                 | [안양시](../Page/안양시.md "wikilink"),[개미](../Page/개미.md "wikilink"),[농림축산검역본부](../Page/농림축산검역본부.md "wikilink")                                                              |                              |
+| 1797 | 5월 7일   | 사랑love             | 나는 나쁜 엄마일까?                                                                                 | [인공지능](../Page/인공지능.md "wikilink")                                                                                                                                      |                              |
+| 1798 | 5월 8일   | 인생life             | 인생 한 번쯤 변주                                                                                  |                                                                                                                                                                         |                              |
+| 1799 | 5월 9일   | 선택choice           | 전화가 오던 날                                                                                    |                                                                                                                                                                         |                              |
+| 1800 | 5월 10일  | 특집-사과 apple        | 당신은 지금 지식채널e를 보고 있습니다                                                                       |                                                                                                                                                                         |                              |
+| 1801 | 5월 14일  | 관점vi**e**w         | 생각하는 손                                                                                      |                                                                                                                                                                         |                              |
+| 1802 | 5월 15일  | 관계r**e**lation     | [노트르담과](../Page/노트르담_대성당.md "wikilink") 나                                                   | [노트르담 대성당](../Page/노트르담_대성당.md "wikilink"),[노트르담 대성당 화재](../Page/노트르담_대성당_화재.md "wikilink")                                                                             |                              |
+| 1803 | 5월 16일  | 관점vi**e**w         | 하라는 공부는 안 하고                                                                                |                                                                                                                                                                         |                              |
+| 1804 | 5월 17일  | 너머b**e**yond       | 빌게이츠에게 연락하는 방법                                                                              |                                                                                                                                                                         |                              |
+| 1805 | 5월 21일  | 공간space            | 세상에서 가장 작은 방                                                                                | [베이비박스](../Page/베이비박스.md "wikilink")                                                                                                                                    |                              |
+| 1806 | 5월 22일  | 기억m**e**mory       | 가려진시간                                                                                       | [10월 항쟁](../Page/10월_항쟁.md "wikilink")                                                                                                                                  |                              |
+| 1807 | 5월 23일  | 상상imagine          | 블랙홀을 보는 법                                                                                   |                                                                                                                                                                         |                              |
+| 1808 | 5월 24일  | 교육education        | 뭘 좀 모르는 아이들                                                                                 |                                                                                                                                                                         |                              |
+| 1809 | 5월 28일  | 정체성identity        | 넌, 이름이 뭐니?                                                                                  |                                                                                                                                                                         |                              |
+| 1810 | 5월 29일  | 상기rem**e**mber     | 아는 사람 이야기                                                                                   | [삼풍백화점 붕괴 사고](../Page/삼풍백화점_붕괴_사고.md "wikilink"),[태안 기름 유출 사건](https://ko.wikipedia.org/wiki/태안_기름_유출_사건 "wikilink"),[2019년 강원도 산불](../Page/2019년_강원도_산불.md "wikilink") |                              |
+| 1811 | 5월 30일  | 변화change           | 모든 것이 그들의 계획이었다                                                                             |                                                                                                                                                                         |                              |
+| 1812 | 5월 31일  | 담장 안의 학교           |                                                                                             |                                                                                                                                                                         |                              |
+| 1813 | 6월 4일   | 상상imagine          | 알 수도 있는 동물 사전                                                                               |                                                                                                                                                                         |                              |
+| 1814 | 6월 5일   | 새로움ren**e**w       | 거미줄의 힘 1부                                                                                   | [보스턴](../Page/보스턴.md "wikilink")                                                                                                                                        |                              |
+| 1815 | 6월 6일   | 지구earth            | 2분 40초, 소리                                                                                  |                                                                                                                                                                         |                              |
+| 1816 | 6월 7일   | 변화change           | 선생님 생각은 어때요?                                                                                |                                                                                                                                                                         |                              |
+| 1817 | 6월 11일  | 정서emotion          | 끝내지 못했다(did not finish)                                                                     |                                                                                                                                                                         |                              |
+| 1818 | 6월 12일  | 선택choice           | 비결이 뭐예요                                                                                     | [텔로미어](../Page/텔로미어.md "wikilink")                                                                                                                                      |                              |
+| 1819 | 6월 13일  | 공간space            | 내가 만든 우주                                                                                    |                                                                                                                                                                         |                              |
+| 1820 | 6월 14일  | 교육education        | 바다 마을 프로젝트                                                                                  |                                                                                                                                                                         |                              |
+| 1821 | 6월 18일  | 관계r**e**lation     | 내 얼굴 고마워                                                                                    | [장차현실](../Page/안양시의_시외버스.md "wikilink"),[정은혜](https://ko.wikipedia.org/wiki/정은혜_\(모델\) "wikilink")                                                                      |                              |
+| 1822 | 6월 19일  | 이 선을 넘지 마시오        |                                                                                             |                                                                                                                                                                         |                              |
+| 1823 | 6월 20일  | 언어language         | pretend로 영작을 해보자                                                                            |                                                                                                                                                                         |                              |
+| 1824 | 6월 21일  | 관계r**e**lation     | 살구 저장법                                                                                      |                                                                                                                                                                         |                              |
+| 1825 | 6월 25일  | 새로움ren**e**w       | 거미줄의 힘 2부                                                                                   | [보스턴](../Page/보스턴.md "wikilink")                                                                                                                                        |                              |
+| 1826 | 6월 26일  | 변화change           | 우리는 같은 지붕 아래 산다                                                                             | [동거](https://ko.wikipedia.org/wiki/동거 "wikilink")                                                                                                                       |                              |
+| 1827 | 6월 27일  | 디자인d**e**sign      | 왜 그렇게 생겼니?                                                                                  | [글꼴](../Page/글꼴.md "wikilink")                                                                                                                                          |                              |
+| 1828 | 6월 28일  | 교육education        | 작별의 축제                                                                                      | [교훈](https://ko.wikipedia.org/wiki/교훈 "wikilink"),[춘천여고](https://ko.wikipedia.org/wiki/춘천여고 "wikilink")                                                                 |                              |
+| 1829 | 7월 2일   | 자연nature           | 내 방에 부는 바람                                                                                  |                                                                                                                                                                         |                              |
+| 1830 | 7월 3일   | 너머b**e**yond       | 2050,우리의 여름은                                                                                |                                                                                                                                                                         |                              |
+| 1831 | 7월 4일   | 인생life             | 살인자는 누구인가?                                                                                  |                                                                                                                                                                         |                              |
+| 1832 | 7월 5일   | 관계r**e**lation     | 왜 저러고 살지?                                                                                   |                                                                                                                                                                         |                              |
+| 1833 | 7월 9일   | 지구earth            | 우리가 사랑하는 숲이에요                                                                               |                                                                                                                                                                         |                              |
+| 1834 | 7월 10일  | e야기                | 방학 특집 급식 해방                                                                                 |                                                                                                                                                                         |                              |
+| 1835 | 7월 11일  | 기념일anniv**e**rsary | 우리는 달에 착륙하지 않았다                                                                             | [아폴로 11호](../Page/아폴로_11호.md "wikilink")                                                                                                                                |                              |
+| 1836 | 7월 12일  | 기술t**e**chnology   | 테이의 마지막 메시지                                                                                 |                                                                                                                                                                         |                              |
+| 1837 | 7월 16일  | 기억m**e**mory       | 검은 기록                                                                                       |                                                                                                                                                                         |                              |
+| 1838 | 7월 17일  | 관점vi**e**w         | 자주 묻는 질문(FAQ)                                                                               |                                                                                                                                                                         |                              |
+| 1839 | 7월 18일  | e야기                | 그것이 사라졌다                                                                                    |                                                                                                                                                                         |                              |
+| 1840 | 7월 19일  | 사회soci**e**ty      | 아무도 안 봤으면 하는 동화                                                                             |                                                                                                                                                                         |                              |
+| 1841 | 7월 23일  | 정체성id**e**ntity    | 오늘의 드레스 코드                                                                                  |                                                                                                                                                                         |                              |
+| 1842 | 7월 24일  | 이유r**e**ason       | 싸울까, 도망칠까                                                                                   |                                                                                                                                                                         |                              |
+| 1843 | 7월 25일  | 정의justice          | 투명인간이 나타났다                                                                                  |                                                                                                                                                                         |                              |
+| 1844 | 7월 26일  | 인생life             | 다시는                                                                                         | [태안화력발전소 사고](../Page/태안화력발전소_사고.md "wikilink")                                                                                                                          |                              |
+| 1845 | 7월 30일  | 상상imagine          | 무엇이든 누를 수 있습니다                                                                              |                                                                                                                                                                         |                              |
+| 1846 | 7월 31일  | 도전challenge        | 움직여                                                                                         | [파쿠르](../Page/파르쿠르.md "wikilink")                                                                                                                                       |                              |
+| 1847 | 8월 1일   | 변화change           | 나, 요즘 덕질해                                                                                   | [쓰레기](../Page/쓰레기.md "wikilink")                                                                                                                                        |                              |
+| 1848 | 8월 2일   | 인생life             | 내가 내일 죽는다면                                                                                  |                                                                                                                                                                         |                              |
+| 1849 | 8월 6일   | 사람people           | 너무 긴 1분                                                                                     |                                                                                                                                                                         |                              |
+| 1850 | 8월 7일   | 다른diff**e**rent    | 어느 묵시록                                                                                      |                                                                                                                                                                         |                              |
+| 1851 | 8월 8일   | 상기r**e**mind       | 내 귓가의 여름                                                                                    |                                                                                                                                                                         |                              |
+| 1852 | 8월 9일   | 사회soci**e**ty      | 마음의 색                                                                                       |                                                                                                                                                                         |                              |
+| 1853 | 8월 13일  | 상기r**e**mind       | 난 네가 지난여름에 한 일을 알고 있다                                                                       | [반려동물](https://ko.wikipedia.org/wiki/반려동물 "wikilink")                                                                                                                   |                              |
+| 1854 | 8월 14일  | 선택choice           | 풀만 먹어도 살쪄요                                                                                  |                                                                                                                                                                         |                              |
+| 1855 | 8월 15일  | 이유r**e**ason       | 마지막 스위치?                                                                                    | [일본회의](../Page/일본회의.md "wikilink")                                                                                                                                      |                              |
+| 1856 | 8월 16일  | 민주주의d**e**mocracy  | 신사의 품격                                                                                      | [야스쿠니 신사](../Page/야스쿠니_신사.md "wikilink")                                                                                                                                |                              |
 | 1857 | 8월 27일  | 시장mark**e**t       | 찾는 사람들을 위한 가게                                                                               |                                                                                                                                                                         |                              |
 | 1858 | 8월 28일  | 사회soci**e**ty      | 한 대만 때려주세요                                                                                  |                                                                                                                                                                         |                              |
 | 1859 | 8월 29일  | 새로움ren**e**w       | 블루, [인디고](../Page/인디고_항공.md "wikilink") 블루                                                  |                                                                                                                                                                         |                              |
@@ -11864,7 +11864,7 @@ A Friend in London - New Tomorrow<br />
 <tr class="odd">
 <td><p>1947</p></td>
 <td><p>1월 9일</p></td>
-<td><p>희망hope</p></td>
+<td><p>hope희망</p></td>
 <td><p>우리 동네 붕어빵</p></td>
 <td></td>
 <td></td>
@@ -11888,7 +11888,7 @@ A Friend in London - New Tomorrow<br />
 <tr class="even">
 <td><p>1950</p></td>
 <td><p>1월 15일</p></td>
-<td><p>운명 d<strong>e</strong>stiny</p></td>
+<td><p>운명 destiny</p></td>
 <td><p>당신도 영웅이다</p></td>
 <td></td>
 <td></td>
@@ -11920,7 +11920,7 @@ A Friend in London - New Tomorrow<br />
 <tr class="even">
 <td><p>1954</p></td>
 <td><p>1월 21일</p></td>
-<td><p>인터뷰intervi<strong>e</strong>w</p></td>
+<td><p>intervi<strong>e</strong>w인터뷰</p></td>
 <td><p>어디로 가고 있나요?</p></td>
 <td></td>
 <td></td>
@@ -11952,7 +11952,7 @@ A Friend in London - New Tomorrow<br />
 <tr class="even">
 <td><p>1958</p></td>
 <td><p>1월 28일</p></td>
-<td><p>치료healing</p></td>
+<td><p>치료h<strong>e</strong>aling</p></td>
 <td><p>한 사람을 위한 미술관</p></td>
 <td></td>
 <td></td>
@@ -12006,7 +12006,7 @@ A Friend in London - New Tomorrow<br />
 <tr class="even">
 <td><p>1966</p></td>
 <td><p>2월 11일</p></td>
-<td><p>인터뷰interview</p></td>
+<td><p>interview인터뷰</p></td>
 <td><p>어디로 가고 있나요? -2부</p></td>
 <td></td>
 <td></td>
@@ -12069,7 +12069,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1974</p></td>
-<td><p>2월 24일</p></td>
+<td><p>2월 25일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
 <td><p>오, 나의 사랑스러운 협연자</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/루시드_폴" title="wikilink">루시드 폴</a></p></td>
@@ -12077,7 +12077,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1975</p></td>
-<td><p>2월 25일</p></td>
+<td><p>2월 26일</p></td>
 <td><p>다른differ<strong>e</strong>nt</p></td>
 <td><p>유사 인간</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/불쾌한_골짜기" title="wikilink">불쾌한 골짜기</a></p></td>
@@ -12085,7 +12085,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1976</p></td>
-<td><p>2월 26일</p></td>
+<td><p>2월 27일</p></td>
 <td><p>‘빠른’입니다</p></td>
 <td></td>
 <td></td>
@@ -12093,7 +12093,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1977</p></td>
-<td><p>2월 27일</p></td>
+<td><p>2월 28일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
 <td><p>모든 걸 기억하는 여자모든 걸 망각하는 남자</p></td>
 <td></td>
@@ -12101,129 +12101,129 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>1978</p></td>
-<td><p>3월 2일</p></td>
-<td></td>
+<td><p>3월 3일</p></td>
+<td><p>순간mom<strong>e</strong>nt</p></td>
 <td><p>1만 번의 순간</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1979</p></td>
-<td><p>3월 3일</p></td>
-<td></td>
+<td><p>3월 4일</p></td>
+<td><p>관계r<strong>e</strong>lation</p></td>
 <td><p>낙타와 박쥐는 어떻게 만났을까?</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1980</p></td>
-<td><p>3월 4일</p></td>
-<td></td>
+<td><p>3월 5일</p></td>
+<td><p>문학literature</p></td>
 <td><p>자기만의 방</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1981</p></td>
-<td><p>3월 5일</p></td>
-<td></td>
+<td><p>3월 6일</p></td>
+<td><p>주말week<strong>e</strong>nd</p></td>
 <td><p>금요일에 만나요</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1982</p></td>
-<td><p>3월 9일</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>3월 10일</p></td>
+<td><p>hope희망</p></td>
+<td><p>마지막 A</p></td>
+<td><p><a href="../Page/윤이상.md" title="wikilink">윤이상</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1983</p></td>
-<td><p>3월 10일</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>3월 11일</p></td>
+<td><p>이유r<strong>e</strong>ason</p></td>
+<td><p>누군가 깨어있다</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/생체시계" title="wikilink">생체시계</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1984</p></td>
-<td><p>3월 11일</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>3월 12일</p></td>
+<td><p>사람people</p></td>
+<td><p>모든 사라지는 것들은 뒤에 여백을 남긴다.</p></td>
+<td><p><a href="../Page/고정희.md" title="wikilink">고정희</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1985</p></td>
-<td><p>3월 12일</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>3월 13일</p></td>
+<td><p>축제f<strong>e</strong>stival</p></td>
+<td><p>그 날을 기다리며</p></td>
+<td><p><a href="../Page/선거권.md" title="wikilink">선거권</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1986</p></td>
-<td><p>3월 16일</p></td>
-<td></td>
-<td></td>
+<td><p>3월 17일</p></td>
+<td><p>과학sci<strong>e</strong>nce</p></td>
+<td><p>도달하고 싶은 세계</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1987</p></td>
-<td><p>3월 17일</p></td>
-<td></td>
-<td></td>
+<td><p>3월 18일</p></td>
+<td><p>재탄생r<strong>e</strong>born</p></td>
+<td><p>리본이 필요해</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1988</p></td>
-<td><p>3월 18일</p></td>
-<td></td>
-<td></td>
+<td><p>3월 19일</p></td>
+<td><p>디자인d<strong>e</strong>sign</p></td>
+<td><p>성렬e에요[1]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1989</p></td>
-<td><p>3월 19일</p></td>
-<td></td>
-<td></td>
+<td><p>3월 20일</p></td>
+<td><p>변화change</p></td>
+<td><p>달라진 한 표의 의미</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1990</p></td>
 <td><p>3월 24일</p></td>
-<td></td>
-<td></td>
+<td><p>자연nature</p></td>
+<td><p>작아서 좋은 삶, 이끼</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1991</p></td>
 <td><p>3월 25일</p></td>
-<td></td>
-<td></td>
+<td><p>언어language</p></td>
+<td><p>[이런 상상] 영어 좀 하는 나라</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1992</p></td>
 <td><p>3월 26일</p></td>
-<td></td>
-<td></td>
+<td><p>관계r<strong>e</strong>lation</p></td>
+<td><p>친구를 만드는데 걸리는 시간</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1993</p></td>
 <td><p>3월 27일</p></td>
-<td></td>
-<td></td>
+<td><p>연결conn<strong>e</strong>ct</p></td>
+<td><p>알 수 없는 연결고리</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -12231,7 +12231,11 @@ A Friend in London - New Tomorrow<br />
 <td><p>1994</p></td>
 <td><p>3월 31일</p></td>
 <td></td>
-<td></td>
+<td><p>물론 읽지는 않았습니다<br />
+문제적 문체<br />
+의심할 수 없는 진리<br />
+모든 판단을 중지하라<br />
+조선의 왕, 묘호(廟號)의 비밀</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -12239,7 +12243,11 @@ A Friend in London - New Tomorrow<br />
 <td><p>1995</p></td>
 <td><p>4월 1일</p></td>
 <td></td>
-<td></td>
+<td><p>불편한 즐거움<br />
+반응이 없습니다<br />
+"이곳엔 두려워하는 군중이 없다"<br />
+우주는 주인이 없다 1부 아빠, 우주 쓰레기는 누가 치워요?<br />
+어떤 자전거</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -12247,7 +12255,11 @@ A Friend in London - New Tomorrow<br />
 <td><p>1996</p></td>
 <td><p>4월 2일</p></td>
 <td></td>
-<td></td>
+<td><p>수상한 방문자<br />
+그의 이름은 134340 Pluto<br />
+어떤 여정<br />
+플라스틱의 탄생<br />
+kg의 재탄생</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -12255,13 +12267,15 @@ A Friend in London - New Tomorrow<br />
 <td><p>1997</p></td>
 <td><p>4월 3일</p></td>
 <td></td>
-<td></td>
+<td><p>끝없이 오래된 것들의 비밀을 풀다<br />
+달콤한 거짓말<br />
+눈에 붙이는 렌즈</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1998</p></td>
-<td><p>4월 6일</p></td>
+<td><p>4월 7일</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12269,7 +12283,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>1999</p></td>
-<td><p>4월 7일</p></td>
+<td><p>4월 8일</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12277,7 +12291,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>2000</p></td>
-<td><p>4월 8일</p></td>
+<td><p>4월 9일</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12285,7 +12299,7 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="odd">
 <td><p>2001</p></td>
-<td><p>4월 9일</p></td>
+<td><p>4월 10일</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12451,7 +12465,137 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2022</p></td>
+<td><p>5월 19일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2023</p></td>
+<td><p>5월 20일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2024</p></td>
+<td><p>5월 21일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2025</p></td>
+<td><p>5월 22일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2026</p></td>
+<td><p>5월 26일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2027</p></td>
+<td><p>5월 27일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2028</p></td>
+<td><p>5월 28일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2029</p></td>
+<td><p>5월 29일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2030</p></td>
+<td><p>6월 2일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2031</p></td>
+<td><p>6월 3일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2032</p></td>
+<td><p>6월 4일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2033</p></td>
+<td><p>6월 5일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2034</p></td>
+<td><p>6월 9일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2035</p></td>
+<td><p>6월 10일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2036</p></td>
+<td><p>6월 11일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2037</p></td>
+<td><p>6월 12일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 [분류:대한민국의 텔레비전 에피소드 목록](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_에피소드_목록 "wikilink")
+
+1.  지식채널 제작진이자 효과음 담당감독이다.

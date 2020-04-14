@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ps \(\)](https://ko.wikipedia.org/wiki/Ps_\(\)).
+> This article is converted from Wikipedia: [Ps \(유닉스\)](https://ko.wikipedia.org/wiki/Ps_\(유닉스\)).
 
 
 대부분의 [유닉스 계통](https://ko.wikipedia.org/wiki/유닉스_계통 "wikilink") 운영 체제에서 **ps** 프로그램은 현재 실행되고 있는 [프로세스](../Page/프로세스.md "wikilink")들을 표시한다. [top라는](../Page/Top_\(소프트웨어\).md "wikilink") 이름의 관련 유닉스 유틸리티는 실행 중인 프로세스들의 실시간 보기를 제공한다.

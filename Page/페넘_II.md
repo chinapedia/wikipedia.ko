@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [페넘 II](https://ko.wikipedia.org/wiki/페넘_II).
 
 
 **페넘 II**(Phenom II)는 [어드밴스트 마이크로 디바이시스](../Page/어드밴스트_마이크로_디바이시스.md "wikilink")(AMD)사가 제작한 [다중 코어](https://ko.wikipedia.org/wiki/다중_코어 "wikilink") [중앙 처리 장치](../Page/중앙_처리_장치.md "wikilink")(CPU)로, 45[나노](https://ko.wikipedia.org/wiki/나노 "wikilink")(nm) 공정으로 제작되었다. 데스크톱 제품인 페넘 II의 코드명은 [데네브](../Page/데네브.md "wikilink") · [헤카](https://ko.wikipedia.org/wiki/헤카 "wikilink") · [칼리스토](https://ko.wikipedia.org/wiki/칼리스토 "wikilink") · [투반](../Page/투반.md "wikilink"), [서버](../Page/서버.md "wikilink")/[워크스테이션](../Page/워크스테이션.md "wikilink") 제품인 [옵테론](../Page/옵테론.md "wikilink")은 상하이이며, [K10.5 마이크로아키텍처](https://ko.wikipedia.org/wiki/K10_마이크로아키텍처 "wikilink") 기반이다. 이전의 [페넘](https://ko.wikipedia.org/wiki/페넘 "wikilink") 시리즈의 뒤를 잇는다.

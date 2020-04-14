@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 나이트라인](https://ko.wikipedia.org/wiki/SBS_나이트라인).
 
 
 **SBS 나이트라인**(SBS NIGHTLINE)은 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [월요일](../Page/월요일.md "wikilink") \~ [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 12시 20분, [수요일](../Page/수요일.md "wikilink") 밤 12시 30분, [목요일](../Page/목요일.md "wikilink") 밤 12시 45분에 방송되는 [SBS의 마감뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [스콘토 FC](https://ko.wikipedia.org/wiki/스콘토_FC).
 
 
 **스콘토 FC**(Skonto FC)는 [라트비아](../Page/라트비아.md "wikilink") [리가](../Page/리가.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [1991년](../Page/1991년.md "wikilink")에 창단했다. 스콘토는 [라트비아 비르스리가의](https://ko.wikipedia.org/wiki/라트비아_비르스리가 "wikilink") 첫 시즌인 [1991년](../Page/1991년.md "wikilink")부터 [2005년](../Page/2005년.md "wikilink")까지 14시즌 연속 우승이라는 대기록을 세웠으며 비르스리가에서 15번, 컵 대회에서 7번 우승하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
+> This article is converted from Wikipedia: [AFC 챌린지컵](https://ko.wikipedia.org/wiki/AFC_챌린지컵).
 
 
 **AFC 챌린지컵**(AFC Challenge Cup)은 [아시아 축구 연맹의](../Page/아시아_축구_연맹.md "wikilink") "신흥 국가들"(AFC에서 구분한 가장 낮은 위치의 국가들)이 참가했던 국가 대항 [축구](../Page/축구.md "wikilink") 대회이다. 첫 대회는 [2006년](../Page/2006년.md "wikilink") [방글라데시](../Page/방글라데시.md "wikilink")에서 열렸다. 2008년 대회와 2010년 대회는 [2011년 AFC 아시안컵의](https://ko.wikipedia.org/wiki/2011년_AFC_아시안컵 "wikilink") 예선 역할을 했고 2012년 대회와 2014년 대회는 [2015년 AFC 아시안컵의](https://ko.wikipedia.org/wiki/2015년_AFC_아시안컵 "wikilink") 예선 역할을 했다. [2019년 AFC 아시안컵부터](https://ko.wikipedia.org/wiki/2019년_AFC_아시안컵 "wikilink") 본선 진출국 수를 24개국으로 확대하기로 결정함에 따라 2014년 대회를 끝으로 폐지되었다. 그리고 이를 대신해 [AFC 솔리대리티컵이](../Page/AFC_솔리대리티컵.md "wikilink") 신설되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III](https://ko.wikipedia.org/wiki/_III).
+> This article is converted from Wikipedia: [알타입 III](https://ko.wikipedia.org/wiki/알타입_III).
 
 
 《**알타입 III: 더 서드 라이트닝**》(, )은 탐텍스가 제작하고 [아이렘](https://ko.wikipedia.org/wiki/아이렘 "wikilink")이 발매한 1993년 [진행형 슈팅 게임이다](https://ko.wikipedia.org/wiki/진행형_슈팅_게임 "wikilink"). 《[알타입](https://ko.wikipedia.org/wiki/알타입 "wikilink")》 시리즈의 정식 세번째 작품으로, [아케이드로](../Page/아케이드_게임.md "wikilink") 발매했던 이전 게임들과는 달리 [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink") 전용으로 개발됐다.

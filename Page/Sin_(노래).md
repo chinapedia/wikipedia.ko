@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sin \(\)](https://ko.wikipedia.org/wiki/Sin_\(\)).
+> This article is converted from Wikipedia: [Sin \(노래\)](https://ko.wikipedia.org/wiki/Sin_\(노래\)).
 
 
 《**Sin**》(halo 4으로 불리기도 한다)은 앨범 《[Pretty Hate Machine](../Page/Pretty_Hate_Machine.md "wikilink")》에도 수록된 [나인 인치 네일스의](../Page/나인_인치_네일스.md "wikilink") 세 번째 싱글 음반이다. 수록곡중에는 Queen의 커버곡인 《Get Down, Make Love》도 실려있다

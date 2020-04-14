@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(MLB\)](https://ko.wikipedia.org/wiki/__\(MLB\)).
+> This article is converted from Wikipedia: [커미셔너스 트로피 \(MLB\)](https://ko.wikipedia.org/wiki/커미셔너스_트로피_\(MLB\)).
 
 
 **커미셔너스 트로피**()는 [월드 시리즈에](../Page/월드_시리즈.md "wikilink") 우승한 [메이저 리그 베이스볼](../Page/메이저_리그_베이스볼.md "wikilink") 팀에게 [야구 커미셔너가](../Page/야구_커미셔너.md "wikilink") 수여하는 상이다. 최근의 트로피 디자인은 북아메리카의 최상위의 두 리그, [내셔널 리그와](../Page/내셔널_리그_\(야구\).md "wikilink") [아메리칸 리그에](../Page/아메리칸_리그.md "wikilink") 각각 소속된 팀을 나타내는 깃발을 담고 있다.\[1\] 그 해의 월드 시리즈에 참여한 두 팀은 이전에는 트로피의 바닥 위 두 프레스 핀으로 표현되었다. [내셔널 하키 리그의](../Page/내셔널_하키_리그.md "wikilink") [스탠리 컵](../Page/스탠리_컵.md "wikilink"),\[2\] [내셔널 풋볼 리그의](../Page/내셔널_풋볼_리그.md "wikilink") [빈스 롬바르디 트로피](https://ko.wikipedia.org/wiki/빈스_롬바르디_트로피 "wikilink"), [전미 농구 협회의](../Page/전미_농구_협회.md "wikilink") [래리 오브라이언 트로피](https://ko.wikipedia.org/wiki/래리_오브라이언_트로피 "wikilink")\[3\] 와는 다르게, 미국의 네 개의 메이저 스포츠 중에서는 유일하게 특정 인물의 이름을 따서 이름지은 트로피가 아니다.\[4\]

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Aqua Timez](https://ko.wikipedia.org/wiki/Aqua_Timez).
 
 
-**Aqua Timez**는, [2003년](../Page/2003년.md "wikilink") 결성된 [일본](../Page/일본.md "wikilink")의 밴드이다. 보통 〈아쿠아〉라고 불린다.
+**Aqua Timez**는 [2003년](../Page/2003년.md "wikilink") 결성된 [일본](../Page/일본.md "wikilink")의 밴드이다. 보통 〈아쿠아〉라고 불린다.
 
 ## 멤버
 

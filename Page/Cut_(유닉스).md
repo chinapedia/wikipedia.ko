@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Cut \(\)](https://ko.wikipedia.org/wiki/Cut_\(\)).
+> This article is converted from Wikipedia: [Cut \(유닉스\)](https://ko.wikipedia.org/wiki/Cut_\(유닉스\)).
 
 
 **cut**은 [유닉스 계열에](../Page/유닉스_계열.md "wikilink") 있는 프로그램으로, [텍스트 파일의](../Page/텍스트_파일.md "wikilink") 각 줄에서 특정 부분을 자르는 데에 사용한다.

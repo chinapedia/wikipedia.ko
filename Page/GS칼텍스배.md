@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS칼텍스배](https://ko.wikipedia.org/wiki/GS칼텍스배).
 
 
 **GS칼텍스배**(GS-盃, GS칼텍스 프로기전)는 [GS칼텍스](../Page/GS칼텍스.md "wikilink")에서 후원하는 [대한민국](../Page/대한민국.md "wikilink")의 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). 역대 우승자는 [유창혁](../Page/유창혁.md "wikilink"), [이창호](../Page/이창호.md "wikilink"), [서봉수](../Page/서봉수.md "wikilink"), [최명훈](../Page/최명훈.md "wikilink"), [이세돌](../Page/이세돌.md "wikilink"), [최철한](../Page/최철한.md "wikilink"), [박영훈](../Page/박영훈_\(바둑_기사\).md "wikilink"), [조한승](https://ko.wikipedia.org/wiki/조한승 "wikilink"), [원성진](../Page/원성진.md "wikilink"), [박정환](../Page/박정환_\(바둑_기사\).md "wikilink"), [김지석](../Page/김지석_\(바둑_기사\).md "wikilink"), [목진석](../Page/목진석.md "wikilink"), [이동훈](https://ko.wikipedia.org/wiki/이동훈_\(바둑_기사\) "wikilink"), [안국현](https://ko.wikipedia.org/wiki/안국현 "wikilink"), [신진서](../Page/신진서.md "wikilink")이다.
@@ -16,6 +16,7 @@
       - 1기(1996년)\~10기(2005년) 16강 토너먼트, 결승 5번기
       - 11기(2006년)\~15기(2010년) - 본선 8강 풀리그, 도전 5번기
       - 16기(2011년)\~ - 본선 24강 토너먼트, 결승 5번기, 도전기 폐지
+      - 25기(2020년)\~ - 대국 제한시간 변경(각자 10분, 40초 초읽기 3회에서 각자 1시간 1분 초읽기 1회로 변경)
   - 시드: 본선 4강 차기 대회에 시드 배정
 
 ## 역대 우승자

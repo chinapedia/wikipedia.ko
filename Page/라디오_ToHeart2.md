@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ToHeart2](https://ko.wikipedia.org/wiki/_ToHeart2).
+> This article is converted from Wikipedia: [라디오 ToHeart2](https://ko.wikipedia.org/wiki/라디오_ToHeart2).
 
 
 **Radio ToHeart2**（ラジオ トゥハート ツー）는, 아쿠아플러스에서 발매된 ToHeart2와 관련된 [인터넷 라디오방송으로](../Page/인터넷_라디오.md "wikilink"), 온센과 [아니메이트TV](https://ko.wikipedia.org/wiki/아니메이트TV "wikilink")에서 배포되었다. 총 116회.

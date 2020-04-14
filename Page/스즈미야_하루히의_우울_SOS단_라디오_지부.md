@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   SOS  ](https://ko.wikipedia.org/wiki/___SOS__).
+> This article is converted from Wikipedia: [스즈미야 하루히의 우울 SOS단 라디오 지부](https://ko.wikipedia.org/wiki/스즈미야_하루히의_우울_SOS단_라디오_지부).
 
 
 《**스즈미야 하루히의 우울 SOS단 라디오 지부**》()는 애니메이션 [스즈미야 하루히의 우울의](../Page/스즈미야_하루히의_우울_\(애니메이션\).md "wikilink") 관련 프로그램으로, [라디오 칸사이에서](https://ko.wikipedia.org/wiki/라디오_칸사이 "wikilink") 방송되었던 라디오 프로그램이다. [란티스](../Page/란티스.md "wikilink") 웹 라디오에서 1주씩 늦게 스트리밍 방영되었다. 총 48회.
@@ -111,7 +111,7 @@
 
 <!-- end list -->
 
-  - **바람을 읽는 리본** () / 제7회 \~ 제35회
+  - **바람을 읽는 리본**() / 제7회 \~ 제35회
 
 <!-- end list -->
 
@@ -121,7 +121,7 @@
 
 <!-- end list -->
 
-  - **최강 퍼레퍼레이드** () / 제36회 \~
+  - **최강 퍼레퍼레이드**() / 제36회 \~
 
 <!-- end list -->
 
@@ -134,7 +134,7 @@
 
 <!-- end list -->
 
-  - **웰컴 UNKNOWN** () / 제7회 \~ 제35회
+  - **웰컴 UNKNOWN**() / 제7회 \~ 제35회
 
 <!-- end list -->
 
@@ -144,7 +144,7 @@
 
 <!-- end list -->
 
-  - **운명적 사건의 행복** () / 제36회 \~
+  - **운명적 사건의 행복**() / 제36회 \~
 
 <!-- end list -->
 

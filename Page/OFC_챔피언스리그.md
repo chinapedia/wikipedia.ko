@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OFC ](https://ko.wikipedia.org/wiki/OFC_).
+> This article is converted from Wikipedia: [OFC 챔피언스리그](https://ko.wikipedia.org/wiki/OFC_챔피언스리그).
 
 
 **OFC 챔피언스리그**(OFC Champions League)는 [오세아니아 축구 연맹에](../Page/오세아니아_축구_연맹.md "wikilink") 소속된 국가의 축구 리그 우승 팀이 참가하는 [오세아니아](../Page/오세아니아.md "wikilink")의 클럽 [축구](../Page/축구.md "wikilink") 대회이다. OFC 챔피언스리그는 2007년에 이전의 **오세아니아 클럽 챔피언십**(Oceania Club Championship)을 대신하여 첫 시즌이 시작되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:User Wikipedian For](https://ko.wikipedia.org/wiki/:User_Wikipedian_For).
+> This article is converted from Wikipedia: [틀:User Wikipedian For](https://ko.wikipedia.org/wiki/틀:User_Wikipedian_For).
 
 
 <onlyinclude>

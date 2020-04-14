@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ With Tekno Generation Vol.1 including 015B Supermix](https://ko.wikipedia.org/wiki/_With_Tekno_Generation_Vol.1_including_015B_Supermix).
+> This article is converted from Wikipedia: [장호일 With Tekno Generation Vol.1 including 015B Supermix](https://ko.wikipedia.org/wiki/장호일_With_Tekno_Generation_Vol.1_including_015B_Supermix).
 
 
 《**장호일 With Tekno Generation Vol.1 including 015B Supermix**》는 [대한민국](../Page/대한민국.md "wikilink")의 그룹 [015B](../Page/015B.md "wikilink") [장호일](../Page/장호일.md "wikilink")의 프로젝트 [앨범이다](../Page/음반.md "wikilink"). [장호일](../Page/장호일.md "wikilink"), [고현기](https://ko.wikipedia.org/wiki/고현기 "wikilink"), [조성민](../Page/조성민_\(가수\).md "wikilink") 등이 참여했다.

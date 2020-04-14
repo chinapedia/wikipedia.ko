@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 연기대상](https://ko.wikipedia.org/wiki/KBS_연기대상).
 
 
 **KBS 연기대상**()은 한 해 동안 [KBS 드라마에서](../Page/KBS_드라마.md "wikilink") 연기를 한 연기자를 그 대상으로 하여 [1987년](../Page/1987년.md "wikilink")부터 시작하여 매년 [12월 31일](../Page/12월_31일.md "wikilink") 밤에 생방송으로 진행하는 시상식 프로그램이다. 우수상은 일일극, 미니시리즈(20부작 미만), 중편드라마(20 \~ 24부작), 장편드라마(24부작 초과)로 나뉘어 각 부문별로 시상하며, 전체 부문의 후보 가운데 최우수상 후보를 선정하여 최우수상과 대상 수상자를 결정한다.
@@ -311,8 +311,8 @@
 | 신인 연기상                           | [변영훈](../Page/변영훈.md "wikilink")                                                       | [3일의 약속](../Page/3일의_약속.md "wikilink"), TV문예극장 검은 양복                                          |
 | [홍리나](../Page/홍리나.md "wikilink") | [야망의 세월](../Page/야망의_세월.md "wikilink"), [TV 손자병법](../Page/TV_손자병법.md "wikilink")       |                                                                                               |
 | 아역상                              | [양동근](../Page/양동근.md "wikilink")                                                       | [서울뚝배기](https://ko.wikipedia.org/wiki/서울뚝배기 "wikilink"), [형](../Page/형_\(드라마\).md "wikilink") |
-| 이정후                              | 아스팔트 내고향                                                                               |                                                                                               |
-| 우정상                              | [김동완](https://ko.wikipedia.org/wiki/김동완 "wikilink")                                    |                                                                                               |
+| [이정후](../Page/정후.md "wikilink")  | [가까운 골짜기](../Page/가까운_골짜기.md "wikilink"), [아스팔트 내 고향](../Page/아스팔트_내_고향.md "wikilink") |                                                                                               |
+| 우정상                              | [김동완](https://ko.wikipedia.org/wiki/김동완_\(배우\) "wikilink")                             |                                                                                               |
 | 공로상                              | [한은진](../Page/한은진.md "wikilink")                                                       | [서울 뚝배기](../Page/서울_뚝배기.md "wikilink")                                                        |
 | 연기자가 뽑은 올해의 가수상                  | [전영록](../Page/전영록.md "wikilink")                                                       | 이별은 싫어                                                                                        |
 
@@ -1237,7 +1237,7 @@
 | [한예리](../Page/한예리.md "wikilink")                                                     | 드라마 스페셜 - 연우의 여름                                                                                                           |                                                             |
 | [보아](../Page/보아.md "wikilink")                                                       | [연애를 기대해](../Page/연애를_기대해.md "wikilink")                                                                                   |                                                             |
 | 청소년 연기상                                                                              | [연준석](../Page/연준석.md "wikilink")                                                                                           | [상어](https://ko.wikipedia.org/wiki/상어_\(드라마\) "wikilink")   |
-| [김유빈](https://ko.wikipedia.org/wiki/김유빈 "wikilink")                                  | [천명](../Page/천명.md "wikilink")                                                                                             |                                                             |
+| [김유빈](https://ko.wikipedia.org/wiki/김유빈_\(2005년\) "wikilink")                        | [천명](../Page/천명.md "wikilink")                                                                                             |                                                             |
 | 네티즌상                                                                                 | [주원](https://ko.wikipedia.org/wiki/주원 "wikilink")                                                                          | [굿 닥터](../Page/굿_닥터_\(2013년_드라마\).md "wikilink")            |
 | [황정음](../Page/황정음.md "wikilink")                                                     | [비밀](../Page/비밀_\(2013년_드라마\).md "wikilink")                                                                               |                                                             |
 | 베스트 커플상                                                                              | [조정석](../Page/조정석.md "wikilink") & [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")                                     | [최고다 이순신](https://ko.wikipedia.org/wiki/최고다_이순신 "wikilink") |
@@ -2085,7 +2085,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>1990</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김동건" title="wikilink">김동건</a>, <a href="https://ko.wikipedia.org/wiki/구영희" title="wikilink">구영희</a></p></td>
+<td><p><a href="../Page/김동건_(아나운서).md" title="wikilink">김동건</a>, <a href="https://ko.wikipedia.org/wiki/구영희" title="wikilink">구영희</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -2256,6 +2256,7 @@
   - [2006년](../Page/2006년.md "wikilink") **연기대상**에서 배우 [하지원](../Page/하지원.md "wikilink")이 대상을 받았으나, 《[투명인간 최장수](../Page/투명인간_최장수.md "wikilink")》에서 연기력을 호평받았던 배우 [유오성](../Page/유오성.md "wikilink")이 후보에 제외되었던 것과\[4\]\[5\]\[6\] 시청률 40%대를 기록했던 《[소문난 칠공주](../Page/소문난_칠공주.md "wikilink")》와 준수한 시청률을 기록했던 《[굿바이 솔로](../Page/굿바이_솔로.md "wikilink")》에서 연기력을 호평을 받았던 [나문희](../Page/나문희.md "wikilink")는 무관으로 그쳐 이에 대한 논란이 있었다.\[7\]
   - [2013년](../Page/2013년.md "wikilink") **연기대상**은 유난히 많은 아이돌 출신의 배우들이 쟁쟁한 신인 배우들을 제치고 우수 연기상을 비롯한 여러 상들을 꿰찼다며 네티즌들 사이에서 큰 논란이 있었다. 당시 [직장의 신](https://ko.wikipedia.org/wiki/직장의_신 "wikilink"), [총리와 나](https://ko.wikipedia.org/wiki/총리와_나 "wikilink") 등과 같은 드라마에서는 신인 배우들이 대거 캐스팅되어 매스컴으로부터 신인 배우들의 연기력이 많은 주목을 받았는데, 오히려 큰 주목을 받지않던 아이돌들이 유력한 수상자로까지 주목받던 신인배우들을 제치고 수상하면서 생긴 것이었다.
   - [2016년](../Page/2016년.md "wikilink") **연기대상**은 30주년 특집을 맞이해 KBS 공개홀 중 가장 객석 규모가 큰 여의도 KBS홀에서 열렸다. 2016년 전체 KBS 드라마 가운데 14개에서 출연한 배우 36명이 트로피를 가져갔는데, 이 가운데 [송중기](../Page/송중기.md "wikilink"), [송혜교](../Page/송혜교.md "wikilink"), [박보검](../Page/박보검.md "wikilink"), [김지원이](../Page/김지원_\(배우\).md "wikilink") 3관왕을 차지하였고 당해 연말 시상식 시청률 중 가장 높은 수치를 기록하였다.\[8\]
+  - [2019년](../Page/2019년.md "wikilink") **연기대상**은 5년 만에 단독으로 대상 수상자가 결정되었지만 수상이 유력했던 [김해숙](../Page/김해숙.md "wikilink")과 [남궁민이](../Page/남궁민_\(배우\).md "wikilink") 무관에 그치며 논란이 있었으며\[9\] 현직 장관이 일부 부문의 시상자로 등장하면서 방송사 내부에서도 논란이 발생하였다.\[10\]
 
 ## 같이 보기
 
@@ -2280,3 +2281,5 @@
 6.
 7.
 8.
+9.
+10.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Boys Like Girls \(\)](https://ko.wikipedia.org/wiki/Boys_Like_Girls_\(\)).
+> This article is converted from Wikipedia: [Boys Like Girls \(음반\)](https://ko.wikipedia.org/wiki/Boys_Like_Girls_\(음반\)).
 
 
 ***Boys Like Girls***는 [보이즈 라이크 걸즈의](https://ko.wikipedia.org/wiki/보이즈_라이크_걸즈 "wikilink") 데뷔 음반이다. [2006년](../Page/2006년.md "wikilink") [8월 22일](../Page/8월_22일.md "wikilink"), [콜롬비아 레코드](https://ko.wikipedia.org/wiki/콜롬비아_레코드 "wikilink")/[레드 잉크를](https://ko.wikipedia.org/wiki/RED_디스트리버션 "wikilink") 통해서 발매되었다.

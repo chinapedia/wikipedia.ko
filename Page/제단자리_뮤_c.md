@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  c](https://ko.wikipedia.org/wiki/__c).
+> This article is converted from Wikipedia: [제단자리 뮤 c](https://ko.wikipedia.org/wiki/제단자리_뮤_c).
 
 
 **제단자리 뮤 c** 또는 **HD 160691 c**는 항성 [제단자리 뮤를](../Page/제단자리_뮤.md "wikilink") 돌고 있는 [외계 행성이다](../Page/외계_행성.md "wikilink").

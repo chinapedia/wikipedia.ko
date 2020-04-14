@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 연기대상](https://ko.wikipedia.org/wiki/SBS_연기대상).
 
 
 **SBS 연기대상**()은 [12월 31일에](../Page/12월_31일.md "wikilink") 열리는 한 해 동안 [SBS](../Page/SBS_TV.md "wikilink") 드라마에서 연기를 보여 준 연기자들의 공로를 치하하는 시상식으로, 최고상은 ‘대상’이며 분야별로 여러 가지 상이 수여된다. 1992년 12월 31일에 송년 특집으로 열린 SBS 올해의 스타상에서 가수, 개그맨, 탤런트 부문으로 한정하여 시상하였다. 이를 토대로 [1993년](../Page/1993년.md "wikilink")부터는 **SBS 스타상**이라는 명칭으로 부문별로 시상했는데, [1996년](../Page/1996년.md "wikilink")부터는 **SBS 연기대상**으로 명칭을 변경하였다. 그리고 [2014년](../Page/2014년.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink")까지는 **SAF 연기대상**으로 변경하였으며, SAF는 “**SBS 어워즈 페스티벌**”(SBS AWARDS FESTIVAL)의 줄임말이다. [2017년](../Page/2017년.md "wikilink")부터 프로그램명을 **SBS 연기대상**으로 다시 변경하여 진행하고 있다.

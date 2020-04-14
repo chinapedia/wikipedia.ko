@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AC  ](https://ko.wikipedia.org/wiki/AC__).
+> This article is converted from Wikipedia: [AC 페루자 칼초](https://ko.wikipedia.org/wiki/AC_페루자_칼초).
 
 
 **AC 페루자 칼초**(Associazione Calcistica Perugia Calcio) 는 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [움브리아주](../Page/움브리아주.md "wikilink")의 [페루자](../Page/페루자.md "wikilink")를 연고로 한다. 팀의 유니폼은 빨간색과 하얀색으로 구성되어 있다.

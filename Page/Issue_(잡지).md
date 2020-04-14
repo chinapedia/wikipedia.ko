@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Issue \(\)](https://ko.wikipedia.org/wiki/Issue_\(\)).
+> This article is converted from Wikipedia: [Issue \(잡지\)](https://ko.wikipedia.org/wiki/Issue_\(잡지\)).
 
 
 《**issue**》(이슈)는 [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")에서 발행하는 [순정 만화](https://ko.wikipedia.org/wiki/순정_만화 "wikilink") [잡지](../Page/잡지.md "wikilink")이다. [1995년](../Page/1995년.md "wikilink") [12월 15일에](../Page/12월_15일.md "wikilink") 창간\[1\] 되었다. [1996년](../Page/1996년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") 1일과 15일에 발행되었으며 [1998년 9월부터](https://ko.wikipedia.org/wiki/1998년_9월 "wikilink") 월간지로 바뀌었으나 다음 해 [6월 1일자부터](../Page/6월_1일.md "wikilink") 1일과 15일에 발행되는 형식으로 돌아왔고 [2003년](../Page/2003년.md "wikilink")에는 4월에 1일+10일+15일 발행, 5월에 15일, 6월\~11월까지 1일+15일, 12월에는 1일(그 해 24호)+10일(2004년 1호)+25일(2004년 2호) 발행, [2004년](../Page/2004년.md "wikilink") [1월 10일부터](../Page/1월_10일.md "wikilink") 10일+25일 발행되었으며 [2006년 1월부터](../Page/2006년_1월.md "wikilink") 월간지로 변경\[2\] 하여 현재 매월 25일에 발간되고 있다.

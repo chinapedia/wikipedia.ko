@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM](https://ko.wikipedia.org/wiki/FM).
+> This article is converted from Wikipedia: [국방FM](https://ko.wikipedia.org/wiki/국방FM).
 
 
 **국방FM**(國防FM)은 [대한민국](../Page/대한민국.md "wikilink") [국방부에서](../Page/대한민국_국방부.md "wikilink") 관할하고 있는 [라디오](../Page/라디오.md "wikilink") 방송국이다.
@@ -51,17 +51,17 @@
 <tr class="odd">
 <td><p>7:00<br />
 <small>(평일)</small></p></td>
-<td><p>국방광장</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/국방광장" title="wikilink">국방광장</a></p></td>
 </tr>
 <tr class="even">
 <td><p>7:00<br />
 <small>(주말)</small></p></td>
-<td><p>주말의 클팝</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/주말의_클팝" title="wikilink">주말의 클팝</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>09:00<br />
 <small>(매일)</small></p></td>
-<td><p>조갑경의 오늘도 좋은 날</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/조갑경의_오늘도_좋은_날" title="wikilink">조갑경의 오늘도 좋은 날</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10:55<br />
@@ -71,12 +71,12 @@
 <tr class="odd">
 <td><p>11:00<br />
 <small>(평일)</small></p></td>
-<td><p>국방FM이 좋다</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/국방FM이_좋다" title="wikilink">국방FM이 좋다</a></p></td>
 </tr>
 <tr class="even">
 <td><p>11:00<br />
 <small>(토)</small></p></td>
-<td><p>국방포커스</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/국방포커스" title="wikilink">국방포커스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>11:00<br />
@@ -91,7 +91,7 @@
 <tr class="odd">
 <td><p>12:15<br />
 <small>(평일)</small></p></td>
-<td><p>동엽, 미자의 행복한 국군</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/동엽,_미자의_행복한_국군" title="wikilink">동엽, 미자의 행복한 국군</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12:00<br />
@@ -106,7 +106,7 @@
 <tr class="even">
 <td><p>14:05<br />
 <small>(평일)</small></p></td>
-<td><p>너를 사랑하기에 전유나입니다</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/너를_사랑하기에_전유나입니다" title="wikilink">너를 사랑하기에 전유나입니다</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>15:55<br />
@@ -126,22 +126,22 @@
 <tr class="even">
 <td><p>16:05<br />
 <small>(평일)</small></p></td>
-<td><p>국민과 함께 국군과 함께</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/국민과_함께_국군과_함께" title="wikilink">국민과 함께 국군과 함께</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>16:00<br />
 <small>(주말)</small></p></td>
-<td><p>국방FM 파워가요</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/국방FM_파워가요" title="wikilink">국방FM 파워가요</a></p></td>
 </tr>
 <tr class="even">
 <td><p>18:00<br />
 <small>(매일)</small></p></td>
-<td><p>건빵과 별사탕</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/건빵과_별사탕" title="wikilink">건빵과 별사탕</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>20:00<br />
 <small>(평일)</small></p></td>
-<td><p>이익선의 달콤한 음악여행</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이익선의_달콤한_음악여행" title="wikilink">이익선의 달콤한 음악여행</a></p></td>
 </tr>
 <tr class="even">
 <td><p>20:00<br />
@@ -161,10 +161,26 @@
 <tr class="odd">
 <td><p>22:05<br />
 <small>(매일)</small></p></td>
-<td><p>송기철의 스토리가 있는 힐링뮤직</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/송기철의_스토리가_있는_힐링뮤직" title="wikilink">송기철의 스토리가 있는 힐링뮤직</a></p></td>
 </tr>
 </tbody>
 </table>
+
+## 로고송
+
+  - KFN 국군방송
+  - 프렌즈 FM 국군방송
+  - 국민과 함께 국군과 함께해 튼튼한 국방 라디오 프렌즈FM
+
+## 시보멘트
+
+  - 열린 국방 밝은 병영 KFN 국군방송입니다. 국군방송이 OO를 알려드립니다
+  - 함께해요 선진강군 실천해요 녹색성장 여러분의 국군방송이 OO를 알려드립니다
+  - 함께해요 선진강군 실천해요 녹색성장 프렌즈FM 국군방송 라디오가 OO를 알려드립니다
+  - 대한민국 수호자 우리 국군 국방FM이 OO를 알려드립니다
+  - 튼튼한 국방 신나는 병영 국방FM이 OO를 알려드립니다
+  - 기본이 튼튼한 국방 미래를 준비하는 국방 프렌즈FM 국군방송 라디오가 OO를 알려드립니다
+  - 유능한 안보 튼튼한 국방 여러분의 국방 FM입니다 잠시후 OO를 알려드립니다
 
 ## 같이 보기
 

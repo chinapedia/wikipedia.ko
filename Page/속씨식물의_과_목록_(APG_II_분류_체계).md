@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   \(APG II  \)](https://ko.wikipedia.org/wiki/___\(APG_II__\)).
+> This article is converted from Wikipedia: [속씨식물의 과 목록 \(APG II 분류 체계\)](https://ko.wikipedia.org/wiki/속씨식물의_과_목록_\(APG_II_분류_체계\)).
 
 
 아래는 [APG II 분류 체계에](../Page/APG_II_분류_체계.md "wikilink") 따른 **[속씨식물](../Page/속씨식물.md "wikilink")군의 과 목록**으로 모두 45목, 457과를 포함하고 있다.

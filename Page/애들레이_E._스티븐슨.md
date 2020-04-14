@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [애들레이 E. 스티븐슨](https://ko.wikipedia.org/wiki/애들레이_E._스티븐슨).
 
 
 **애들레이 유잉 스티븐슨**(, [1835년](../Page/1835년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") \~ [1914년](../Page/1914년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 정치인이다. [1893년](../Page/1893년.md "wikilink") \~ [1897년](../Page/1897년.md "wikilink") [부통령을](../Page/미국의_부통령.md "wikilink") 지냈다.

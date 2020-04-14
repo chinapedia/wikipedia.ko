@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(KBS\)](https://ko.wikipedia.org/wiki/_\(KBS\)).
+> This article is converted from Wikipedia: [느티나무 \(KBS\)](https://ko.wikipedia.org/wiki/느티나무_\(KBS\)).
 
 
 《**느티나무**》는 [2008년](../Page/2008년.md "wikilink") [11월 18일부터](../Page/11월_18일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [5월 7일까지](../Page/5월_7일.md "wikilink") [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink") 방송된 [텔레비전](../Page/텔레비전.md "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink"). [한국의](../Page/대한민국.md "wikilink") [전통](https://ko.wikipedia.org/wiki/전통 "wikilink")과 [문화](../Page/문화.md "wikilink")를 소재로 제작되었다.

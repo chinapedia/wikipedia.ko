@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [제임스 S. 셔먼](https://ko.wikipedia.org/wiki/제임스_S._셔먼).
 
 
 **제임스 스쿨크래프트 셔먼**(, [1855년](../Page/1855년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ [1912년](../Page/1912년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 정치인이다. [1909년](../Page/1909년.md "wikilink") \~ [1912년](../Page/1912년.md "wikilink") [제27대 부통령으로](../Page/미국의_부통령.md "wikilink") 재직했다.

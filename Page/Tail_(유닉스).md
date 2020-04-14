@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tail \(\)](https://ko.wikipedia.org/wiki/Tail_\(\)).
+> This article is converted from Wikipedia: [Tail \(유닉스\)](https://ko.wikipedia.org/wiki/Tail_\(유닉스\)).
 
 
 **tail**(테일)은 문서 파일이나 지정된 데이터의 마지막 몇 줄을 보여주는 데 사용하는 유닉스 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 시스템에서의 프로그램이다.

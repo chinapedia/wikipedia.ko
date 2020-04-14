@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KTX   ](https://ko.wikipedia.org/wiki/KTX___).
+> This article is converted from Wikipedia: [KTX 여승무원 고용 분쟁](https://ko.wikipedia.org/wiki/KTX_여승무원_고용_분쟁).
 
 
 **KTX 승무원 고용 분쟁**은 [2006년](../Page/2006년.md "wikilink") [3월 1일부터](../Page/3월_1일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [7월 21일까지](../Page/7월_21일.md "wikilink") 4526일간 [한국철도공사](../Page/한국철도공사.md "wikilink")와 [코레일유통](../Page/코레일유통.md "wikilink"), [전국철도노동조합](https://ko.wikipedia.org/wiki/전국철도노동조합 "wikilink") KTX열차승무지부 노조원 사이에 진행된 고용분쟁이자 노동투쟁이다. [2004년 4월](../Page/2004년_4월.md "wikilink") KTX에 승무하다 [2006년 3월에](../Page/2006년_3월.md "wikilink") 사업종료로 인한계약해지로 위촉이 해지된 전직 [KTX](https://ko.wikipedia.org/wiki/KTX "wikilink") [고속철도](../Page/고속철도.md "wikilink") 승무원들이 당시 철도청의 약속에 따라 [한국철도공사](../Page/한국철도공사.md "wikilink") 정직원으로 고용승계를 요구하고, 이를 한국철도공사가 거부한 것이 이 분쟁사건의 핵심 이유다.

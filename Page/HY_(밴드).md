@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HY \(\)](https://ko.wikipedia.org/wiki/HY_\(\)).
+> This article is converted from Wikipedia: [HY \(밴드\)](https://ko.wikipedia.org/wiki/HY_\(밴드\)).
 
 
 **HY** (에이치와이)는, 일본의 혼성 5인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 구성원 모두 [오키나와현](../Page/오키나와현.md "wikilink") [우루마 시출신이다](https://ko.wikipedia.org/wiki/우루마_시 "wikilink").

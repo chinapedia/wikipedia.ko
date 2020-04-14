@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ex \(\)](https://ko.wikipedia.org/wiki/Ex_\(\)).
+> This article is converted from Wikipedia: [Ex \(유닉스\)](https://ko.wikipedia.org/wiki/Ex_\(유닉스\)).
 
 
 EXtended의 축약어인 **ex**는 [유닉스](../Page/유닉스.md "wikilink") 시스템들을 위한 [라인 에디터이다](https://ko.wikipedia.org/wiki/라인_에디터 "wikilink").

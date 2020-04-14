@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  S.  \(DDG-56\)](https://ko.wikipedia.org/wiki/USS__S.__\(DDG-56\)).
+> This article is converted from Wikipedia: [USS 존 S. 매케인 \(DDG-56\)](https://ko.wikipedia.org/wiki/USS_존_S._매케인_\(DDG-56\)).
 
 
 **USS 존 S. 매케인 (DDG-56)**은 [미국 해군의](../Page/미국_해군.md "wikilink") [알레이버크급 이지스함이다](../Page/알레이버크급_구축함.md "wikilink"). 아시아 미군의 핵심전력인 [미국 제7함대의](https://ko.wikipedia.org/wiki/미국_제7함대 "wikilink") 영구전진배치 군함 18척 중 하나로서, [일본](../Page/일본.md "wikilink") [요코스카](https://ko.wikipedia.org/wiki/요코스카 "wikilink")의 [요코스카 해군기지를](https://ko.wikipedia.org/wiki/:en:Yokosuka_Naval_Base "wikilink") 모항(home port)으로 하고 있다.

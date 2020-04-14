@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T. ](https://ko.wikipedia.org/wiki/_T._).
+> This article is converted from Wikipedia: [로버트 T. 바커](https://ko.wikipedia.org/wiki/로버트_T._바커).
 
 
 **로버트 T. 바커**(, [1945년](../Page/1945년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ )는 몇몇 공룡은 [온혈동물](https://ko.wikipedia.org/wiki/온혈동물 "wikilink")이었다는 이론으로 [공룡](../Page/공룡.md "wikilink")에 관한 현대 이론들의 새 국면을 개척한 미국의 [고생물학자](https://ko.wikipedia.org/wiki/고생물학자 "wikilink")이다. 바커는 스승 [존 오스트롬을](https://ko.wikipedia.org/wiki/존_오스트롬 "wikilink") 따라서 "[공룡 르네상스](../Page/공룡_르네상스.md "wikilink")"를 시작해야 할 책임을 지게 되었고, 《사이언티픽 어메리칸》지에 바커의 기사 〈공룡 르네상스〉가 1975년 4월에 실림으로써 일은 시작되었다. 그의 전공은 [생태학](../Page/생태학.md "wikilink")적 환경과 공룡의 행동이다.

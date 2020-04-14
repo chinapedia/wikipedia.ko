@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [카운트 다운 TV](https://ko.wikipedia.org/wiki/카운트_다운_TV).
 
 
 **카운트 다운 TV**(COUNT DOWN TV)는 1993년 4월 7일 심야(실질 4월 8일)부터 [TBS에서](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 방송하는 랭킹형식 음악정보 프로그램이다. 약칭 **CDTV**.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SD ](https://ko.wikipedia.org/wiki/SD_).
+> This article is converted from Wikipedia: [SD건담 캡슐파이터](https://ko.wikipedia.org/wiki/SD건담_캡슐파이터).
 
 
 **SD건담 캡슐파이터**는 [소프트맥스](https://ko.wikipedia.org/wiki/소프트맥스 "wikilink")에서 제작하고 [넷마블](../Page/넷마블.md "wikilink")에서 서비스했던 3D 로봇 캐릭터를 조종하는 온라인 슈팅 게임이다.

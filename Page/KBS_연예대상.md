@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 연예대상](https://ko.wikipedia.org/wiki/KBS_연예대상).
 
 
 **KBS 연예대상**은 [한국방송공사](../Page/한국방송공사.md "wikilink")가 주최하는 행사로 매년 12월 셋째주 또는 넷째주 토요일에 열린다. 1987년 제정된 《**KBS 코미디대상**》이 그 시초로, 1994년까지 이어지다가 1995년 《**코미디 대축제**》로 타이틀이 바꾸어 시상하였지만 폐지되었다. 그리고 2002년부터 《**KBS 연예대상**》이라는 타이틀로 다시 주최하여 오늘에 이르고 있다.
@@ -34,26 +34,26 @@
 
   - [2017년](../Page/2017년.md "wikilink")은 방송사 파업으로 인하여 무산되었음
 
-| 회차  | 연도                                   | 수상자                                                                                                               | 프로그램                                                                                                                                                                                            |
-| --- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1회  | [2002년](../Page/2002년.md "wikilink") | [신동엽](../Page/신동엽_\(희극인\).md "wikilink")                                                                          | [해피투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")                                                                                                                                              |
-| 2회  | [2003년](../Page/2003년.md "wikilink") | [박준형](../Page/박준형_\(희극인\).md "wikilink")                                                                          | [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")                                                                                                                                         |
-| 3회  | [2004년](../Page/2004년.md "wikilink") | [이혁재](../Page/이혁재.md "wikilink")                                                                                  | [스펀지](../Page/스펀지_\(텔레비전_프로그램\).md "wikilink"), [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink"), [스타골든벨](https://ko.wikipedia.org/wiki/스타골든벨 "wikilink"), 꿈의 피라미드                       |
-| 4회  | [2005년](../Page/2005년.md "wikilink") | [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")                                                               | [해피투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")                                                                                                                                              |
-| 5회  | [2006년](../Page/2006년.md "wikilink") | [김제동](../Page/김제동.md "wikilink")                                                                                  | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - 품행제로, [스타골든벨](https://ko.wikipedia.org/wiki/스타골든벨 "wikilink"), [연예가중계](../Page/연예가중계.md "wikilink")                                   |
-| 6회  | [2007년](../Page/2007년.md "wikilink") | [탁재훈](../Page/탁재훈.md "wikilink")                                                                                  | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [불후의 명곡](../Page/불후의_명곡.md "wikilink"), [상상플러스](https://ko.wikipedia.org/wiki/상상플러스 "wikilink")                                       |
-| 7회  | [2008년](../Page/2008년.md "wikilink") | [강호동](../Page/강호동.md "wikilink")                                                                                  | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink")                                                                                                  |
-| 8회  | [2009년](../Page/2009년.md "wikilink") |                                                                                                                   |                                                                                                                                                                                                 |
-| 9회  | [2010년](../Page/2010년.md "wikilink") | [이경규](../Page/이경규.md "wikilink")                                                                                  | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [남자의 자격](../Page/남자의_자격.md "wikilink")                                                                                                |
-| 10회 | [2011년](../Page/2011년.md "wikilink") | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [1박2일](https://ko.wikipedia.org/wiki/1박2일 "wikilink") 팀 | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink")                                                                                                  |
-| 11회 | [2012년](../Page/2012년.md "wikilink") | [신동엽](../Page/신동엽_\(희극인\).md "wikilink")                                                                          | [불후의 명곡 - 전설을 노래하다](../Page/불후의_명곡_-_전설을_노래하다.md "wikilink"), [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")                                                                              |
-| 12회 | [2013년](../Page/2013년.md "wikilink") | [김준호](../Page/김준호_\(희극인\).md "wikilink")                                                                          | [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink"), [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink"), [인간의 조건](../Page/인간의_조건.md "wikilink") |
-| 13회 | [2014년](../Page/2014년.md "wikilink") | [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")                                                               | [해피투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink"), [나는 남자다](../Page/나는_남자다.md "wikilink")                                                                                                      |
-| 14회 | [2015년](../Page/2015년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink")                                                                                  | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink"), [비타민](../Page/비타민_\(텔레비전_프로그램\).md "wikilink")                                          |
-| 15회 | [2016년](../Page/2016년.md "wikilink") | [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink")                                                               | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink")                                                                                                  |
-| 16회 | [2018년](../Page/2018년.md "wikilink") | [이영자](../Page/이영자.md "wikilink")                                                                                  | [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink"), [볼 빨간 당신](../Page/볼_빨간_당신.md "wikilink")                                                                                                  |
-| 17회 | [2019년](../Page/2019년.md "wikilink") | [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink") 아빠들                                                                  | [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")                                                                                                                                                    |
-|     |                                      |                                                                                                                   |                                                                                                                                                                                                 |
+| 회차  | 연도                                   | 수상자                                                                                            | 프로그램                                                                                                                                                                         |
+| --- | ------------------------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1회  | [2002년](../Page/2002년.md "wikilink") | [신동엽](../Page/신동엽_\(희극인\).md "wikilink")                                                       | [해피투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")                                                                                                                           |
+| 2회  | [2003년](../Page/2003년.md "wikilink") | [박준형](../Page/박준형_\(희극인\).md "wikilink")                                                       | [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")                                                                                                                      |
+| 3회  | [2004년](../Page/2004년.md "wikilink") | [이혁재](../Page/이혁재.md "wikilink")                                                               | [스펀지](../Page/스펀지_\(텔레비전_프로그램\).md "wikilink"), [해피선데이](../Page/해피선데이.md "wikilink"), [스타골든벨](https://ko.wikipedia.org/wiki/스타골든벨 "wikilink"), 꿈의 피라미드                       |
+| 4회  | [2005년](../Page/2005년.md "wikilink") | [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")                                            | [해피투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")                                                                                                                           |
+| 5회  | [2006년](../Page/2006년.md "wikilink") | [김제동](../Page/김제동.md "wikilink")                                                               | [해피선데이](../Page/해피선데이.md "wikilink") - 품행제로, [스타골든벨](https://ko.wikipedia.org/wiki/스타골든벨 "wikilink"), [연예가중계](../Page/연예가중계.md "wikilink")                                   |
+| 6회  | [2007년](../Page/2007년.md "wikilink") | [탁재훈](../Page/탁재훈.md "wikilink")                                                               | [해피선데이](../Page/해피선데이.md "wikilink") - [불후의 명곡](../Page/불후의_명곡.md "wikilink"), [상상플러스](https://ko.wikipedia.org/wiki/상상플러스 "wikilink")                                       |
+| 7회  | [2008년](../Page/2008년.md "wikilink") | [강호동](../Page/강호동.md "wikilink")                                                               | [해피선데이](../Page/해피선데이.md "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink")                                                                                                  |
+| 8회  | [2009년](../Page/2009년.md "wikilink") |                                                                                                |                                                                                                                                                                              |
+| 9회  | [2010년](../Page/2010년.md "wikilink") | [이경규](../Page/이경규.md "wikilink")                                                               | [해피선데이](../Page/해피선데이.md "wikilink") - [남자의 자격](../Page/남자의_자격.md "wikilink")                                                                                                |
+| 10회 | [2011년](../Page/2011년.md "wikilink") | [해피선데이](../Page/해피선데이.md "wikilink") - [1박2일](https://ko.wikipedia.org/wiki/1박2일 "wikilink") 팀 | [해피선데이](../Page/해피선데이.md "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink")                                                                                                  |
+| 11회 | [2012년](../Page/2012년.md "wikilink") | [신동엽](../Page/신동엽_\(희극인\).md "wikilink")                                                       | [불후의 명곡 - 전설을 노래하다](../Page/불후의_명곡_-_전설을_노래하다.md "wikilink"), [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")                                                           |
+| 12회 | [2013년](../Page/2013년.md "wikilink") | [김준호](../Page/김준호_\(희극인\).md "wikilink")                                                       | [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink"), [해피선데이](../Page/해피선데이.md "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink"), [인간의 조건](../Page/인간의_조건.md "wikilink") |
+| 13회 | [2014년](../Page/2014년.md "wikilink") | [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")                                            | [해피투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink"), [나는 남자다](../Page/나는_남자다.md "wikilink")                                                                                   |
+| 14회 | [2015년](../Page/2015년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink")                                                               | [해피선데이](../Page/해피선데이.md "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink"), [비타민](../Page/비타민_\(텔레비전_프로그램\).md "wikilink")                                          |
+| 15회 | [2016년](../Page/2016년.md "wikilink") | [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink")                                            | [해피선데이](../Page/해피선데이.md "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink")                                                                                                  |
+| 16회 | [2018년](../Page/2018년.md "wikilink") | [이영자](../Page/이영자.md "wikilink")                                                               | [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink"), [볼 빨간 당신](../Page/볼_빨간_당신.md "wikilink")                                                                               |
+| 17회 | [2019년](../Page/2019년.md "wikilink") | [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink") 아빠들                                               | [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")                                                                                                                                 |
+|     |                                      |                                                                                                |                                                                                                                                                                              |
 
 ## 역대 부문별 수상자
 
@@ -170,30 +170,30 @@
 
   - 연속 수상 프로그램
       - [상상플러스](https://ko.wikipedia.org/wiki/상상플러스 "wikilink") (2회, 2005-2006)
-      - [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") (3회, 2008-2010)
+      - [해피선데이](../Page/해피선데이.md "wikilink") (3회, 2008-2010)
       - [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink") (3회, 2011-2013)
-      - [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink") (3회, 2015-2016, 2018)
+      - [해피선데이](../Page/해피선데이.md "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink") (3회, 2015-2016, 2018)
 
-| 회차  | 연도                                   | 프로그램                                                                                                   |
-| --- | ------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| 1회  | [2002년](../Page/2002년.md "wikilink") | [해피투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")                                                     |
-| 2회  | [2003년](../Page/2003년.md "wikilink") | [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")                                                |
-| 3회  | [2004년](../Page/2004년.md "wikilink") | [스펀지](../Page/스펀지_\(텔레비전_프로그램\).md "wikilink")                                                         |
-| 4회  | [2005년](../Page/2005년.md "wikilink") | [상상플러스](https://ko.wikipedia.org/wiki/상상플러스 "wikilink")                                                |
-| 5회  | [2006년](../Page/2006년.md "wikilink") |                                                                                                        |
-| 6회  | [2007년](../Page/2007년.md "wikilink") | [해피투게더 시즌3](https://ko.wikipedia.org/wiki/해피투게더_시즌3 "wikilink")                                        |
-| 7회  | [2008년](../Page/2008년.md "wikilink") | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink")                                                |
-| 8회  | [2009년](../Page/2009년.md "wikilink") |                                                                                                        |
-| 9회  | [2010년](../Page/2010년.md "wikilink") |                                                                                                        |
-| 10회 | [2011년](../Page/2011년.md "wikilink") | [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")                                                |
-| 11회 | [2012년](../Page/2012년.md "wikilink") |                                                                                                        |
-| 12회 | [2013년](../Page/2013년.md "wikilink") |                                                                                                        |
-| 13회 | [2014년](../Page/2014년.md "wikilink") | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink") |
-| 14회 | [2015년](../Page/2015년.md "wikilink") | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink")         |
-| 15회 | [2016년](../Page/2016년.md "wikilink") |                                                                                                        |
-| 16회 | [2018년](../Page/2018년.md "wikilink") |                                                                                                        |
-| 17회 | [2019년](../Page/2019년.md "wikilink") | [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")                                                           |
-|     |                                      |                                                                                                        |
+| 회차  | 연도                                   | 프로그램                                                                                |
+| --- | ------------------------------------ | ----------------------------------------------------------------------------------- |
+| 1회  | [2002년](../Page/2002년.md "wikilink") | [해피투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")                                  |
+| 2회  | [2003년](../Page/2003년.md "wikilink") | [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")                             |
+| 3회  | [2004년](../Page/2004년.md "wikilink") | [스펀지](../Page/스펀지_\(텔레비전_프로그램\).md "wikilink")                                      |
+| 4회  | [2005년](../Page/2005년.md "wikilink") | [상상플러스](https://ko.wikipedia.org/wiki/상상플러스 "wikilink")                             |
+| 5회  | [2006년](../Page/2006년.md "wikilink") |                                                                                     |
+| 6회  | [2007년](../Page/2007년.md "wikilink") | [해피투게더 시즌3](https://ko.wikipedia.org/wiki/해피투게더_시즌3 "wikilink")                     |
+| 7회  | [2008년](../Page/2008년.md "wikilink") | [해피선데이](../Page/해피선데이.md "wikilink")                                                |
+| 8회  | [2009년](../Page/2009년.md "wikilink") |                                                                                     |
+| 9회  | [2010년](../Page/2010년.md "wikilink") |                                                                                     |
+| 10회 | [2011년](../Page/2011년.md "wikilink") | [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")                             |
+| 11회 | [2012년](../Page/2012년.md "wikilink") |                                                                                     |
+| 12회 | [2013년](../Page/2013년.md "wikilink") |                                                                                     |
+| 13회 | [2014년](../Page/2014년.md "wikilink") | [해피선데이](../Page/해피선데이.md "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink") |
+| 14회 | [2015년](../Page/2015년.md "wikilink") | [해피선데이](../Page/해피선데이.md "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink")         |
+| 15회 | [2016년](../Page/2016년.md "wikilink") |                                                                                     |
+| 16회 | [2018년](../Page/2018년.md "wikilink") |                                                                                     |
+| 17회 | [2019년](../Page/2019년.md "wikilink") | [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")                                        |
+|     |                                      |                                                                                     |
 
 #### 최우수상
 
@@ -246,7 +246,7 @@
 <td><p><a href="../Page/남희석.md" title="wikilink">남희석</a><br />
 <a href="../Page/현영.md" title="wikilink">현영</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미녀들의_수다" title="wikilink">미녀들의 수다</a><br />
-<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">하이파이브</a></p></td>
+<a href="../Page/해피선데이.md" title="wikilink">하이파이브</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7회 <a href="../Page/2008년.md" title="wikilink">2008년</a></p></td>
@@ -363,25 +363,25 @@
 <tr class="even">
 <td><p>3회 <a href="../Page/2004년.md" title="wikilink">2004년</a></p></td>
 <td><p><a href="../Page/지석진.md" title="wikilink">지석진</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a></p></td>
+<td><p><a href="../Page/해피선데이.md" title="wikilink">해피선데이</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>4회 <a href="../Page/2005년.md" title="wikilink">2005년</a></p></td>
 <td><p><a href="../Page/김제동.md" title="wikilink">김제동</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">지금 만나러 갑니다</a></p></td>
+<td><p><a href="../Page/해피선데이.md" title="wikilink">지금 만나러 갑니다</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5회 <a href="../Page/2006년.md" title="wikilink">2006년</a></p></td>
 <td><p><a href="../Page/현영.md" title="wikilink">현영</a><br />
 <a href="../Page/정선희.md" title="wikilink">정선희</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a></p></td>
+<td><p><a href="../Page/해피선데이.md" title="wikilink">해피선데이</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>6회 <a href="../Page/2007년.md" title="wikilink">2007년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박지윤_(아나운서)" title="wikilink">박지윤</a><br />
 <a href="../Page/지석진.md" title="wikilink">지석진</a></p></td>
 <td><p><a href="../Page/스타_골든벨.md" title="wikilink">스타 골든벨</a><br />
-<a href="../Page/스타_골든벨.md" title="wikilink">스타 골든벨</a>, <a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">하이파이브</a></p></td>
+<a href="../Page/스타_골든벨.md" title="wikilink">스타 골든벨</a>, <a href="../Page/해피선데이.md" title="wikilink">하이파이브</a></p></td>
 </tr>
 <tr class="even">
 <td><p>7회 <a href="../Page/2008년.md" title="wikilink">2008년</a></p></td>
@@ -452,7 +452,7 @@
 <a href="../Page/김승현_(배우).md" title="wikilink">김승현</a> (버라이어티)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/배틀_트립" title="wikilink">배틀 트립</a><br />
 <a href="../Page/해피투게더_(텔레비전_프로그램).md" title="wikilink">해피투게더</a><br />
-<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> - <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a><br />
+<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> - <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a><br />
 <a href="../Page/살림하는_남자들.md" title="wikilink">살림하는 남자들</a></p></td>
 </tr>
 <tr class="even">
@@ -623,7 +623,7 @@
 | 10회 [2011년](../Page/2011년.md "wikilink") | 모은설 ([승승장구](https://ko.wikipedia.org/wiki/승승장구 "wikilink")), 조기쁨 ([해피투게더](https://ko.wikipedia.org/wiki/해피투게더 "wikilink"))                                                                                                                       | 최대웅 ([개그스타](https://ko.wikipedia.org/wiki/개그스타 "wikilink"))   |
 | 11회 [2012년](../Page/2012년.md "wikilink") | 최재영 ([1박 2일](../Page/1박_2일.md "wikilink"))                                                                                                                                                                                                       | 조예현 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
 | 12회 [2013년](../Page/2013년.md "wikilink") | 이현숙 ([연예가중계](../Page/연예가중계.md "wikilink"))                                                                                                                                                                                                       | 이상덕 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 13회 [2014년](../Page/2014년.md "wikilink") | 김정선 ([해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink")-[슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")) </br> 김지은 ([불후의 명곡 2](https://ko.wikipedia.org/wiki/불후의_명곡:_전설을_노래하다 "wikilink"))                                                     | 이상덕 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
+| 13회 [2014년](../Page/2014년.md "wikilink") | 김정선 ([해피선데이](../Page/해피선데이.md "wikilink")-[슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")) </br> 김지은 ([불후의 명곡 2](https://ko.wikipedia.org/wiki/불후의_명곡:_전설을_노래하다 "wikilink"))                                                                        | 이상덕 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
 | 14회 [2015년](../Page/2015년.md "wikilink") | 이상준 ([나는 대한민국](../Page/나는_대한민국.md "wikilink"))                                                                                                                                                                                                   | 최성혜 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
 | 15회 [2016년](../Page/2016년.md "wikilink") | 정선영 ([1박 2일](../Page/1박_2일.md "wikilink")), 지현숙 ([언니들의 슬램덩크](https://ko.wikipedia.org/wiki/언니들의_슬램덩크 "wikilink"))                                                                                                                                | 윤기영 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
 | 16회 [2018년](../Page/2018년.md "wikilink") | 심은하 ([살림하는 남자들](../Page/살림하는_남자들.md "wikilink")), 안녕하세요 팀 ([안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink"))                                                                                                                                         | 장종원 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
@@ -773,7 +773,7 @@
 <td><p>6회</p></td>
 <td><p><a href="../Page/2007년.md" title="wikilink">2007년</a></p></td>
 <td><p>개그콘서트 - 까다로운 변선생<br />
-<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> - 불후의 명곡</p></td>
+<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> - 불후의 명곡</p></td>
 </tr>
 </tbody>
 </table>
@@ -781,7 +781,7 @@
 #### 최고 엔터테이너 (베스트 엔터테이너 / 최고 인기)상
 
   - 2회 ([2003년](../Page/2003년.md "wikilink")), 17회 ([2019년](../Page/2019년.md "wikilink")) 에는 시상을 진행하지 않았음.
-  - [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink")는 3회 ([2004년](../Page/2004년.md "wikilink")) 부터 14회 ([2015년](../Page/2015년.md "wikilink")) 까지 12회 연속 최고 엔터테이너상 (베스트 엔터테이너상/최고 인기상) 수상자를 배출하였음
+  - [해피선데이](../Page/해피선데이.md "wikilink")는 3회 ([2004년](../Page/2004년.md "wikilink")) 부터 14회 ([2015년](../Page/2015년.md "wikilink")) 까지 12회 연속 최고 엔터테이너상 (베스트 엔터테이너상/최고 인기상) 수상자를 배출하였음
     ([여걸 6](https://ko.wikipedia.org/wiki/여걸_6 "wikilink"), [1박 2일](../Page/1박_2일.md "wikilink"), [남자의 자격](../Page/남자의_자격.md "wikilink"), [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink") 등).
   - [최강창민](../Page/최강창민.md "wikilink")은 12회 ([2013년](../Page/2013년.md "wikilink")) 당시 예능 신인으로서 최고 엔터테이너상을 수상한 이력이 있음.\[2\]
 
@@ -803,18 +803,18 @@
 </tr>
 <tr class="even">
 <td><p>3회 <a href="../Page/2004년.md" title="wikilink">2004년</a></p></td>
-<td><p><a href="../Page/정선희.md" title="wikilink">정선희</a> (<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a>-여걸파이브)</p></td>
+<td><p><a href="../Page/정선희.md" title="wikilink">정선희</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a>-여걸파이브)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4회 <a href="../Page/2005년.md" title="wikilink">2005년</a></p></td>
-<td><p><a href="../Page/김종국_(가수).md" title="wikilink">김종국</a> (<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a>-날아라 슛돌이)<br />
+<td><p><a href="../Page/김종국_(가수).md" title="wikilink">김종국</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a>-날아라 슛돌이)<br />
 <a href="../Page/노주현.md" title="wikilink">노주현</a> (<a href="../Page/비타민_(텔레비전_프로그램).md" title="wikilink">비타민</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5회 <a href="../Page/2006년.md" title="wikilink">2006년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김종민" title="wikilink">김종민</a> (<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a>-<a href="https://ko.wikipedia.org/wiki/여걸_6" title="wikilink">여걸 6</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김종민" title="wikilink">김종민</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a>-<a href="https://ko.wikipedia.org/wiki/여걸_6" title="wikilink">여걸 6</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -860,13 +860,13 @@
 <td><p><a href="../Page/문희준.md" title="wikilink">문희준</a> (<a href="https://ko.wikipedia.org/wiki/불후의_명곡:_전설을_노래하다" title="wikilink">불후의 명곡 2</a>)<br />
 <a href="../Page/김종국_(가수).md" title="wikilink">김종국</a> (<a href="../Page/위기탈출_넘버원.md" title="wikilink">위기탈출 넘버원</a>)<br />
 <a href="../Page/최강창민.md" title="wikilink">최강창민</a> (<a href="../Page/달빛프린스.md" title="wikilink">달빛프린스</a>, <a href="../Page/우리동네_예체능.md" title="wikilink">우리동네 예체능</a>)<br />
-<a href="https://ko.wikipedia.org/wiki/추성훈" title="wikilink">추성훈</a> (<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a>-<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>)</p></td>
+<a href="https://ko.wikipedia.org/wiki/추성훈" title="wikilink">추성훈</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a>-<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>13회 <a href="../Page/2014년.md" title="wikilink">2014년</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조우종" title="wikilink">조우종</a> (<a href="https://ko.wikipedia.org/wiki/리얼체험_프로젝트_인간의_조건" title="wikilink">리얼체험 프로젝트 인간의 조건</a>)<br />
-<a href="../Page/정준영.md" title="wikilink">정준영</a> (<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>)<br />
+<a href="../Page/정준영.md" title="wikilink">정준영</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>)<br />
 <a href="../Page/정형돈.md" title="wikilink">정형돈</a> (<a href="../Page/우리동네_예체능.md" title="wikilink">우리동네 예체능</a>)</p></td>
 <td></td>
 </tr>
@@ -887,7 +887,7 @@
 <td><p>16회 <a href="../Page/2018년.md" title="wikilink">2018년</a></p></td>
 <td><p><a href="../Page/최양락.md" title="wikilink">최양락</a>, <a href="../Page/팽현숙.md" title="wikilink">팽현숙</a> (<a href="../Page/살림하는_남자들.md" title="wikilink">살림하는 남자들</a>)<br />
 <a href="../Page/김태진_(방송인).md" title="wikilink">김태진</a> (<a href="../Page/연예가중계.md" title="wikilink">연예가중계</a>)<br />
-<a href="../Page/윤시윤.md" title="wikilink">윤시윤</a> (<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> - <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>)</p></td>
+<a href="../Page/윤시윤.md" title="wikilink">윤시윤</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> - <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -902,19 +902,19 @@
 
   - 8회 ([2009년](../Page/2009년.md "wikilink")) 부터 시상하기 시작하였음.
 
-| 회차  | 연도                                   | 프로그램(코너)                                                                                         |
-| --- | ------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| 8회  | [2009년](../Page/2009년.md "wikilink") | [천하무적 야구단](../Page/천하무적_야구단.md "wikilink")                                                       |
-| 9회  | [2010년](../Page/2010년.md "wikilink") | [해피투게더 시즌3](https://ko.wikipedia.org/wiki/해피투게더_시즌3 "wikilink")                                  |
-| 10회 | [2011년](../Page/2011년.md "wikilink") | [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")                                             |
-| 11회 | [2012년](../Page/2012년.md "wikilink") | [남자의 자격](../Page/남자의_자격.md "wikilink") ([해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink")) |
-| 12회 | [2013년](../Page/2013년.md "wikilink") | [우리동네 예체능](../Page/우리동네_예체능.md "wikilink")                                                       |
-| 13회 | [2014년](../Page/2014년.md "wikilink") | [불후의 명곡 2](https://ko.wikipedia.org/wiki/불후의_명곡:_전설을_노래하다 "wikilink")                            |
-| 14회 | [2015년](../Page/2015년.md "wikilink") | [우리동네 예체능](../Page/우리동네_예체능.md "wikilink")                                                       |
-| 15회 | [2016년](../Page/2016년.md "wikilink") | [해피투게더 시즌3](https://ko.wikipedia.org/wiki/해피투게더_시즌3 "wikilink")                                  |
-| 16회 | [2018년](../Page/2018년.md "wikilink") | [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")                                             |
-| 17회 | [2019년](../Page/2019년.md "wikilink") | [해피투게더 시즌4](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")                                           |
-|     |                                      |                                                                                                  |
+| 회차  | 연도                                   | 프로그램(코너)                                                                      |
+| --- | ------------------------------------ | ----------------------------------------------------------------------------- |
+| 8회  | [2009년](../Page/2009년.md "wikilink") | [천하무적 야구단](../Page/천하무적_야구단.md "wikilink")                                    |
+| 9회  | [2010년](../Page/2010년.md "wikilink") | [해피투게더 시즌3](https://ko.wikipedia.org/wiki/해피투게더_시즌3 "wikilink")               |
+| 10회 | [2011년](../Page/2011년.md "wikilink") | [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")                          |
+| 11회 | [2012년](../Page/2012년.md "wikilink") | [남자의 자격](../Page/남자의_자격.md "wikilink") ([해피선데이](../Page/해피선데이.md "wikilink")) |
+| 12회 | [2013년](../Page/2013년.md "wikilink") | [우리동네 예체능](../Page/우리동네_예체능.md "wikilink")                                    |
+| 13회 | [2014년](../Page/2014년.md "wikilink") | [불후의 명곡 2](https://ko.wikipedia.org/wiki/불후의_명곡:_전설을_노래하다 "wikilink")         |
+| 14회 | [2015년](../Page/2015년.md "wikilink") | [우리동네 예체능](../Page/우리동네_예체능.md "wikilink")                                    |
+| 15회 | [2016년](../Page/2016년.md "wikilink") | [해피투게더 시즌3](https://ko.wikipedia.org/wiki/해피투게더_시즌3 "wikilink")               |
+| 16회 | [2018년](../Page/2018년.md "wikilink") | [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")                          |
+| 17회 | [2019년](../Page/2019년.md "wikilink") | [해피투게더 시즌4](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")                        |
+|     |                                      |                                                                               |
 
 #### 베스트 커플상
 
@@ -944,7 +944,7 @@
 <td><p>16회</p></td>
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a></p></td>
 <td><p>김언중, 백옥자 (<a href="../Page/김승현_(배우).md" title="wikilink">김승현의</a> 父母) (<a href="../Page/살림하는_남자들.md" title="wikilink">살림하는 남자들</a>)<br />
-<a href="../Page/김준호_(희극인).md" title="wikilink">김준호</a>, <a href="https://ko.wikipedia.org/wiki/김종민" title="wikilink">김종민</a> (<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> - <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>)</p></td>
+<a href="../Page/김준호_(희극인).md" title="wikilink">김준호</a>, <a href="https://ko.wikipedia.org/wiki/김종민" title="wikilink">김종민</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> - <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>17회</p></td>
@@ -1060,14 +1060,14 @@
 <tr class="even">
 <td><p>12회 <a href="../Page/2013년.md" title="wikilink">2013년</a></p></td>
 <td><p>강승원</p></td>
-<td><p><a href="../Page/이휘재.md" title="wikilink">이휘재</a> (<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a>-<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>)</p></td>
+<td><p><a href="../Page/이휘재.md" title="wikilink">이휘재</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a>-<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>)</p></td>
 <td><p>장병민</p></td>
 </tr>
 <tr class="odd">
 <td><p>13회 <a href="../Page/2014년.md" title="wikilink">2014년</a></p></td>
 <td><p>송태호 (콘서트 7080 단장)</p></td>
-<td><p><a href="../Page/송일국.md" title="wikilink">송일국</a> (<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a>-<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>)<br />
-<a href="../Page/이휘재.md" title="wikilink">이휘재</a> (<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a>-<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>)</p></td>
+<td><p><a href="../Page/송일국.md" title="wikilink">송일국</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a>-<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>)<br />
+<a href="../Page/이휘재.md" title="wikilink">이휘재</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a>-<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>)</p></td>
 <td><p>박영현 (기술감독)</p></td>
 </tr>
 <tr class="even">
@@ -1249,7 +1249,7 @@
 
 **<big> 12회 ([2013년](../Page/2013년.md "wikilink")) 모바일 TV인기상</big>**
 
-  - [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
+  - [해피선데이](../Page/해피선데이.md "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
 
 **<big> 12회 ([2013년](../Page/2013년.md "wikilink")) 실험정신상</big>**
 
@@ -1257,7 +1257,7 @@
 
 **<big> 13회 ([2014년](../Page/2014년.md "wikilink")) 인기상</big>**
 
-  - [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
+  - [해피선데이](../Page/해피선데이.md "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
       - 추사랑
       - 송대한, 송민국, 송만세 (삼둥이)
       - 이하루
@@ -1265,7 +1265,7 @@
 
 **<big> 15회 ([2016년](../Page/2016년.md "wikilink")) 인기상</big>**
 
-  - [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
+  - [해피선데이](../Page/해피선데이.md "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
       - 이재시, 이재아, 이수아, 이설아, 이시안 (오남매)
       - 이서언, 이서준 (쌍둥이)
       - 김로희
@@ -1273,7 +1273,7 @@
 
 **<big> 16회 ([2018년](../Page/2018년.md "wikilink")) 인기상</big>**
 
-  - [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
+  - [해피선데이](../Page/해피선데이.md "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
       - 이재시, 이재아, 이수아, 이설아, 이시안 (오남매)
       - 윌리엄 해밍턴, 벤틀리 해밍턴
       - 고승재

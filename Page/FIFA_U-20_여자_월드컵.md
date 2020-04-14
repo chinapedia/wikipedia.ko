@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA U-20  ](https://ko.wikipedia.org/wiki/FIFA_U-20__).
+> This article is converted from Wikipedia: [FIFA U-20 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-20_여자_월드컵).
 
 
 **FIFA U-20 여자 월드컵**()은 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에서 주관하는 20세 이하의 여자 대표팀이 참가하는 국제 축구 대회이다. 대회는 짝수 해마다 개최된다. 첫 대회는 2002년에 **FIFA U-19 세계 여자 축구 선수권대회**라는 명칭으로 19세 이하의 제한으로 시작되었는데, [2006년](../Page/2006년.md "wikilink")에 나이 제한이 20세로 상향 조정되었다. 2008년 대회부터 대회 명칭을 **FIFA U-20 여자 월드컵**이라는 이름으로 바꾸었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [조지프 E. 존스턴](https://ko.wikipedia.org/wiki/조지프_E._존스턴).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Joseph_Johnston.jpg "wikilink") **조지프 E. 존스턴**(Joseph Eggleston Johnston, [1807년](../Page/1807년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink") \~[1891년](../Page/1891년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink"))는 [미국](../Page/미국.md "wikilink") [남북 전쟁](https://ko.wikipedia.org/wiki/남북_전쟁 "wikilink") 당시, 남군의 장군이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CSX ](https://ko.wikipedia.org/wiki/CSX_).
+> This article is converted from Wikipedia: [CSX 교통](https://ko.wikipedia.org/wiki/CSX_교통).
 
 
 **CSX 교통**()은 [CSX 주식회사가](https://ko.wikipedia.org/wiki/CSX_주식회사 "wikilink") 소유한 [미국](../Page/미국.md "wikilink")의 철도 기업으로 주로 [미국 동부와](https://ko.wikipedia.org/wiki/미국_동부 "wikilink") [캐나다](../Page/캐나다.md "wikilink")에 노선을 가지고 있으며, 본사는 [미국](../Page/미국.md "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") [잭슨빌](../Page/잭슨빌.md "wikilink")에 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PUFFY \( \)](https://ko.wikipedia.org/wiki/PUFFY_\(_\)).
+> This article is converted from Wikipedia: [PUFFY \(음악 그룹\)](https://ko.wikipedia.org/wiki/PUFFY_\(음악_그룹\)).
 
 
 **퍼피**(PUFFY)는 오누키 아미, 요시무라 유미로 구성된 여성 2인조 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 토볼](https://ko.wikipedia.org/wiki/FC_토볼).
 
 
 **FC 토볼**()은 [카자흐스탄](../Page/카자흐스탄.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1962년](../Page/1962년.md "wikilink")에 창단되어 현재 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 활동하고 있다. 연고지는 [카자흐스탄](../Page/카자흐스탄.md "wikilink") 북부에 위치한 [코스타나이](https://ko.wikipedia.org/wiki/코스타나이 "wikilink")이다. FC 토볼은 카자흐스탄이 독립하여 새롭게 프리미어리그가 창단되던 [1992년](../Page/1992년.md "wikilink")부터 리그에 참가하고 있지만, 현재까지 우승기록은 없고 준우승(4회)이 최고 기록이다.

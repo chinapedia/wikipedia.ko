@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GMP \(\)](https://ko.wikipedia.org/wiki/GMP_\(\)).
+> This article is converted from Wikipedia: [GMP \(라이브러리\)](https://ko.wikipedia.org/wiki/GMP_\(라이브러리\)).
 
 
 **GMP**(GNU Multiple-Precision Library)는 임의의 크기를 가진 수치를 계산하기 위한 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")이다. GMP가 설치된 컴퓨터의 저장 장치가 가용한 한 이론상 무한한 정도의 계산이 가능하다. GMP 라이브러리는 풍부한 함수와 정규 인터페이스를 제공하고 있다. 기본 인터페이스는 C 프로그래밍 언어를 위하여 제공하며, 기타 다른 언어에 대해서는 래퍼(wrapper)를 통한 인터페이스를 제공한다. 인터페이스를 지원하는 언어로는 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [OCaml](../Page/OCaml.md "wikilink"), [Perl](https://ko.wikipedia.org/wiki/Perl "wikilink"), 그리고 [파이썬](../Page/파이썬.md "wikilink") 등이 있다. GMP는 암호화 애플리케이션, 인터넷 보안 애플리케이션 및 대수학 등에 사용하는 것이 주요 목적이다.

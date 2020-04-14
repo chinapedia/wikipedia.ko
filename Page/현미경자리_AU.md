@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AU](https://ko.wikipedia.org/wiki/_AU).
+> This article is converted from Wikipedia: [현미경자리 AU](https://ko.wikipedia.org/wiki/현미경자리_AU).
 
 
 **현미경자리 AU**는 지구에서 32광년 떨어져 있는 [적색 왜성이다](https://ko.wikipedia.org/wiki/적색_왜성 "wikilink"). 현미경자리 AU는 지구에서 태양 다음으로 가장 가까운 별 [프록시마 센타우리보다](https://ko.wikipedia.org/wiki/프록시마_센타우리 "wikilink") 약 8배 더 먼 곳에 있다.\[1\]\[2\] 현미경자리 AU의 나이는 고작 1천 2백만 살로, 우리 [태양](../Page/태양.md "wikilink") 나이의 1 퍼센트도 채 먹지 않았다.\[3\] [질량](https://ko.wikipedia.org/wiki/질량 "wikilink")은 태양의 59 퍼센트 수준이며 밝기는 3 퍼센트에 지나지 않는다. [현미경자리](https://ko.wikipedia.org/wiki/현미경자리 "wikilink") 방향에 위치하고 있으며 [변광성](../Page/변광성.md "wikilink")이기 때문에 현미경자리 AU 이름이 붙었다. [화가자리 베타 이동성군의](https://ko.wikipedia.org/wiki/화가자리_베타_이동성군 "wikilink") 일원이기도 하다.\[4\]\[5\] 현미경자리 AU는 [화가자리 베타처럼](https://ko.wikipedia.org/wiki/화가자리_베타 "wikilink") [쌍성](../Page/쌍성.md "wikilink") [현미경자리 AT와](https://ko.wikipedia.org/wiki/현미경자리_AT "wikilink") [중력](../Page/중력.md "wikilink")으로 묶여 있을 가능성이 있다. 이 별 주위에는 [먼지 원반이](../Page/먼지_원반.md "wikilink") 있다.\[6\]

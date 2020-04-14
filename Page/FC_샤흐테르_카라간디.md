@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 샤흐테르 카라간디](https://ko.wikipedia.org/wiki/FC_샤흐테르_카라간디).
 
 
 **FC 샤흐테르**()는 [카자흐스탄](../Page/카자흐스탄.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 현재 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 활동하고 있다. 샤흐테르는 [1962년](../Page/1962년.md "wikilink")에 [카자흐스탄](../Page/카자흐스탄.md "wikilink") 중앙에 위치한 [카라간디](https://ko.wikipedia.org/wiki/카라간디 "wikilink")를 연고지로 하여 창단되었다. [카자흐스탄](../Page/카자흐스탄.md "wikilink") 독립 이전에는 [소비에트 연방에서](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") 리그에 참가하였다. 독립 이후의 최고 성적은 1995시즌과 2007시즌의 3위이다.

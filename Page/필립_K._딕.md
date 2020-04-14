@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K. ](https://ko.wikipedia.org/wiki/_K._).
+> This article is converted from Wikipedia: [필립 K. 딕](https://ko.wikipedia.org/wiki/필립_K._딕).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Philip_K_Dick_in_early_1960s_\(photo_by_Arthur_Knight\).jpg "wikilink")

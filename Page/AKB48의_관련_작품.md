@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB48  ](https://ko.wikipedia.org/wiki/AKB48__).
+> This article is converted from Wikipedia: [AKB48의 관련 작품](https://ko.wikipedia.org/wiki/AKB48의_관련_작품).
 
 
 **AKB48의 관련 작품**은 [AKB48](../Page/AKB48.md "wikilink")와 관련한 음반 혹은 영상 자료들의 목록이다.
@@ -640,7 +640,7 @@
 <td><p>"<a href="https://ko.wikipedia.org/wiki/실연,_고마워" title="wikilink">실연, 고마워</a>" </p></td>
 <td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_18일.md" title="wikilink">3월 18일</a></p></td>
 <td></td>
-<td><p>-</p></td>
+<td><p>1</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>

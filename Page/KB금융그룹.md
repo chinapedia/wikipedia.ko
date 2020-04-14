@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KB](https://ko.wikipedia.org/wiki/KB).
+> This article is converted from Wikipedia: [KB금융그룹](https://ko.wikipedia.org/wiki/KB금융그룹).
 
 
 **KB금융그룹**(KB Financial Group Inc.)은 [신한금융그룹](https://ko.wikipedia.org/wiki/신한금융그룹 "wikilink"), [우리금융그룹](../Page/우리금융그룹.md "wikilink"), [하나금융그룹](../Page/하나금융그룹.md "wikilink"), [NH농협금융그룹](https://ko.wikipedia.org/wiki/NH농협금융그룹 "wikilink")과 함께 [대한민국](../Page/대한민국.md "wikilink")의 5대 금융그룹을 형성한다.

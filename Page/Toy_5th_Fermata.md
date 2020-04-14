@@ -3,7 +3,7 @@
 
 《**Fermata**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")의 1인 프로젝트 그룹 [토이의](https://ko.wikipedia.org/wiki/토이_\(대한민국의_음악_그룹\) "wikilink") 다섯 번째 정규앨범으로, [1998년](../Page/1998년.md "wikilink") 발매된 《[A NIGHT IN SEOUL](../Page/A_NIGHT_IN_SEOUL.md "wikilink")》 이후 2년 5개월 만의 정규 앨범이다.
 
-'Fermata'란 음악용어로 늘임표라는 뜻으로 앨범에서 [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")은 '쉼'이란 단어로 이 앨범을 소개하고 있다. 참여한 객원 보컬은 [이소은](../Page/이소은.md "wikilink"), [김형중](../Page/김형중.md "wikilink"), [조트리오](../Page/조트리오.md "wikilink") (조규천, [조규만](../Page/조규만.md "wikilink"), [조규찬](../Page/조규찬.md "wikilink")), [윤상](../Page/윤상.md "wikilink"), [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink"), [조원선](../Page/조원선.md "wikilink"), [이적](../Page/이적_\(가수\).md "wikilink"), [이승환](../Page/이승환_\(가수\).md "wikilink")(예명 이철민으로 참여) 등 이고, 토이의 원년멤버인 윤정오도 오랜만에 앨범에 참여하였다.
+'Fermata'란 음악용어로 늘임표라는 뜻으로 앨범에서 [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")은 '쉼'이란 단어로 이 앨범을 소개하고 있다. 참여한 객원 보컬은 [이소은](../Page/이소은.md "wikilink"), [김형중](../Page/김형중.md "wikilink"), [조트리오](../Page/조트리오.md "wikilink")(조규천, [조규만](../Page/조규만.md "wikilink"), [조규찬](../Page/조규찬.md "wikilink")), [윤상](../Page/윤상.md "wikilink"), [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink"), [조원선](../Page/조원선.md "wikilink"), [이적](../Page/이적_\(가수\).md "wikilink"), [이승환](../Page/이승환_\(가수\).md "wikilink")(예명 이철민으로 참여) 등 이고, 토이의 원년멤버인 윤정오도 오랜만에 앨범에 참여하였다.
 
 타이틀 곡은 〈좋은 사람〉이었으며, 이 후 유희열이 보컬을 맡은 곡 〈내가 남자 친구라면〉이 뮤직비디오로도 제작되었다.
 

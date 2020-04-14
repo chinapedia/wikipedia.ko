@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BNSF ](https://ko.wikipedia.org/wiki/BNSF_).
+> This article is converted from Wikipedia: [BNSF 철도](https://ko.wikipedia.org/wiki/BNSF_철도).
 
 
 **BNSF 철도**()는 [미국](../Page/미국.md "wikilink") [텍사스주](../Page/텍사스주.md "wikilink") [포트워스](../Page/포트워스.md "wikilink")에 본부를 둔 철도회사이다. **벌링턴 노던 산타페**()로 불린다.

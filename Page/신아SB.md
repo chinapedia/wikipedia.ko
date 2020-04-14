@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SB](https://ko.wikipedia.org/wiki/SB).
+> This article is converted from Wikipedia: [신아SB](https://ko.wikipedia.org/wiki/신아SB).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Shinasb_headqurter.JPG "wikilink")

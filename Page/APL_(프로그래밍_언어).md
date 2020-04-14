@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [APL \( \)](https://ko.wikipedia.org/wiki/APL_\(_\)).
+> This article is converted from Wikipedia: [APL \(프로그래밍 언어\)](https://ko.wikipedia.org/wiki/APL_\(프로그래밍_언어\)).
 
 
 **APL**(A Programming Language)\[1\]은 고급 수학용 프로그래밍 언어이다. [케네스 E 아이버슨](https://ko.wikipedia.org/wiki/케네스_E_아이버슨 "wikilink")(Kenneth E. Iverson )에 의해 [1957년](../Page/1957년.md "wikilink") 하버드 대학에서 발명되었다. 금융 및 보험 애플리케이션, 시뮬레이션, 수학 응용 프로그램 등 다양한 응용에서 사용되었다.

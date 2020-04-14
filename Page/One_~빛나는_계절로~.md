@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [One \~ \~](https://ko.wikipedia.org/wiki/One_\~_\~).
+> This article is converted from Wikipedia: [One \~빛나는 계절로\~](https://ko.wikipedia.org/wiki/One_\~빛나는_계절로\~).
 
 
 《**One \~빛나는 계절로\~**》()는 [일본](../Page/일본.md "wikilink")의 게임업체인 [Tactics](https://ko.wikipedia.org/wiki/Tactics "wikilink")에서 [1998년](../Page/1998년.md "wikilink") [5월 29일에](../Page/5월_29일.md "wikilink") 발매한 성인 대상의 [미소녀 게임이다](../Page/미소녀_게임.md "wikilink"). [히노우에 이타루](../Page/히노우에_이타루.md "wikilink"), [오리토 신지](../Page/오리토_신지.md "wikilink"), [마에다 쥰](https://ko.wikipedia.org/wiki/마에다_쥰 "wikilink") 등 현재의 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")의 주요 구성원이 참여했던 마지막 작품이기도 하여 일반적으로 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")의 게임으로도 보는 견해가 많다. [1999년](../Page/1999년.md "wikilink") [4월 1일에](../Page/4월_1일.md "wikilink") [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink") 버전으로도 출시되었으며, [2003년](../Page/2003년.md "wikilink") [1월 24일에는](../Page/1월_24일.md "wikilink") 주인공을 제외한 모든 캐릭터의 음성이 추가된 풀보이스 판(PC)이 출시되었다.

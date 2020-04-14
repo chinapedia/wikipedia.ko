@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NATM ](https://ko.wikipedia.org/wiki/NATM_).
+> This article is converted from Wikipedia: [NATM 공법](https://ko.wikipedia.org/wiki/NATM_공법).
 
 
 **신오스트리아 터널 공법**(新오스트리아 터널 工法, , )은 줄여서 **NATM 공법**, 혹은 **NÖT 공법**으로 명명된 터널 공법으로 1957년과 1965년 사이에 [오스트리아](../Page/오스트리아.md "wikilink")에서 개발되었다. 이 명칭은 1962년 [잘츠부르크](../Page/잘츠부르크.md "wikilink")에서 재래식 오스트리아 터널 공법과 구별하기 위하여 명명되었다. 이 공법의 주요 개발자들은 [라디즐라우스 폰 랍체비치](https://ko.wikipedia.org/wiki/라디즐라우스_폰_랍체비치 "wikilink"), [레오폴트 뮐러](https://ko.wikipedia.org/wiki/레오폴트_뮐러 "wikilink"), [프란츠 파허다](https://ko.wikipedia.org/wiki/프란츠_파허 "wikilink"). 이 공법의 요점은 주변 지반의 응력을 터널의 주지보로 활용하는 것이다.\[1\]

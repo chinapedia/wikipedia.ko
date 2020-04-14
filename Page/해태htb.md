@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [htb](https://ko.wikipedia.org/wiki/htb).
+> This article is converted from Wikipedia: [해태htb](https://ko.wikipedia.org/wiki/해태htb).
 
 
 **해태htb**는 [대한민국](../Page/대한민국.md "wikilink")의 식음료업체로 [1973년](../Page/1973년.md "wikilink") [2월](../Page/2월.md "wikilink") 과실 가공업체로 설립되었다. [2000년](../Page/2000년.md "wikilink") [6월](../Page/6월.md "wikilink") [해태그룹](../Page/해태그룹.md "wikilink")의 경영난으로 그룹에서 분리되어 [1999년](../Page/1999년.md "wikilink") [11월](../Page/11월.md "wikilink") 설립된 평촌개발이 인수하였다. [2011년](../Page/2011년.md "wikilink") [1월 10일에](../Page/1월_10일.md "wikilink") [LG생활건강](../Page/LG생활건강.md "wikilink")에 인수되어 현재 이 회사의 음료 판매권은 [LG생활건강](../Page/LG생활건강.md "wikilink")이 가지고 있다. 다만 [LG생활건강](../Page/LG생활건강.md "wikilink")이 [코카콜라음료](https://ko.wikipedia.org/wiki/코카콜라음료 "wikilink")를 같이 소유하여 [코카콜라](https://ko.wikipedia.org/wiki/코카콜라 "wikilink")를 대한민국에 판매권을 두고 있기 때문에 해태음료 제품이 [코카콜라 컴퍼니에](../Page/코카-콜라_컴퍼니.md "wikilink") 넘어가면서 [썬키스트와](https://ko.wikipedia.org/wiki/썬키스트_\(음료\) "wikilink") 일부제품을 제외한 나머지 상품명에 *The Coca-Cola Company*가 써져 있다.

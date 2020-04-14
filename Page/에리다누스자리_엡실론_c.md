@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  c](https://ko.wikipedia.org/wiki/__c).
+> This article is converted from Wikipedia: [에리다누스자리 엡실론 c](https://ko.wikipedia.org/wiki/에리다누스자리_엡실론_c).
 
 
 **에리다누스자리 엡실론 c**는 지구에서 [에리다누스자리](../Page/에리다누스자리.md "wikilink") 방향으로 약 10 [광년](../Page/광년.md "wikilink") 떨어진 [에리다누스자리 엡실론을](../Page/에리다누스자리_엡실론.md "wikilink") 도는 것으로 추측되는, 그 존재가 아직 검증되지 않은 [외계 행성이다](../Page/외계_행성.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CAF ](https://ko.wikipedia.org/wiki/CAF_).
+> This article is converted from Wikipedia: [CAF 챔피언스리그](https://ko.wikipedia.org/wiki/CAF_챔피언스리그).
 
 
 **CAF 챔피언스리그**(CAF Champions League)는 [아프리카 축구 연맹](../Page/아프리카_축구_연맹.md "wikilink")(CAF) 주관으로 열리는 국제 클럽 [축구](../Page/축구.md "wikilink") 대회이다. CAF 챔피언스리그는 [1964년](../Page/1964년.md "wikilink")에 시작한 [아프리카](../Page/아프리카.md "wikilink") 각국의 축구 리그 우승 팀이 참가하는 대회로, 아프리카에서는 [유럽](../Page/유럽.md "wikilink")의 [UEFA 챔피언스리그에](../Page/UEFA_챔피언스리그.md "wikilink") 해당하는 최고 권위의 아프리카 클럽 축구 대회이다. 우승 팀은 [FIFA 클럽 월드컵과](../Page/FIFA_클럽_월드컵.md "wikilink") [CAF 슈퍼컵에](../Page/CAF_슈퍼컵.md "wikilink") 출전하게 된다. 최다 우승 팀은 [이집트](../Page/이집트.md "wikilink")의 [알아흘리이다](../Page/알아흘리_\(카이로\).md "wikilink").
@@ -23,9 +23,7 @@ CAF 챔피언스리그에는 일정, 구조 및 경기장에 대해서 몇가지
 
 ## 스폰서
 
-2004년 10월부터 2008년까지는 [남아프리카 공화국의](../Page/남아프리카_공화국.md "wikilink") 통신 회사인 [MTN 그룹이](../Page/MTN_그룹.md "wikilink") 1,250만 [미국 달러](../Page/미국_달러.md "wikilink") 규모의 스폰서 계약을 체결했기 때문에 **MTN CAF 챔피언스리그**(MTN CAF Champions League)라고 불렀다. 2009년 7월부터 2016년까지는 [프랑스](../Page/프랑스.md "wikilink")의 통신 회사인 [오랑주가](../Page/오랑주_\(기업\).md "wikilink") 1억 [유로](../Page/유로.md "wikilink") 규모의 스폰서 계약을 체결하면서 **오랑주 CAF 챔피언스리그**(Orange CAF Champions League)라고 불렀다.
-
-2016년 7월에 프랑스의 석유 회사인 [토탈](https://ko.wikipedia.org/wiki/토탈 "wikilink")이 2023년까지 9억 5,000만 유로 규모의 스폰서 계약을 체결했기 때문에 **토탈 CAF 챔피언스리그**(Total CAF Champions League)라고 부른다.
+2004년 10월부터 2008년까지는 [남아프리카 공화국의](../Page/남아프리카_공화국.md "wikilink") 통신 회사인 [MTN 그룹이](../Page/MTN_그룹.md "wikilink") 1,250만 [미국 달러](../Page/미국_달러.md "wikilink") 규모의 스폰서 계약을 체결했고 2009년 7월부터 2016년까지는 [프랑스](../Page/프랑스.md "wikilink")의 통신 회사인 [오랑주가](../Page/오랑주_\(기업\).md "wikilink") 1억 [유로](../Page/유로.md "wikilink") 규모의 스폰서 계약을 체결했으며 2016년 7월에 프랑스의 석유 회사인 [토탈](https://ko.wikipedia.org/wiki/토탈 "wikilink")이 2023년까지 9억 5,000만 유로 규모의 스폰서 계약을 체결했다.
 
 ## 역대 결과
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Cmp \(\)](https://ko.wikipedia.org/wiki/Cmp_\(\)).
+> This article is converted from Wikipedia: [Cmp \(유닉스\)](https://ko.wikipedia.org/wiki/Cmp_\(유닉스\)).
 
 
 **cmp**는 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제를](../Page/운영_체제.md "wikilink") 사용하는 [컴퓨터](../Page/컴퓨터.md "wikilink") 시스템에 대한 [명령 줄](https://ko.wikipedia.org/wiki/명령_줄 "wikilink") 유틸리티이다. 이는 모든 종류의 두 개의 파일을 비교하고 그 결과물을 [표준 출력에](https://ko.wikipedia.org/wiki/표준_출력 "wikilink") 쓴다. 기본값으로 만약 파일들이 같다면 cmp은 실행되지 않는다. 파일들이 서로 다르다면, 다른 점이 발견된 최초 지점의 [바이트](../Page/바이트.md "wikilink")와 문자열 숫자를 알려준다.

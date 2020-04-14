@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 우니레아 우르지체니](https://ko.wikipedia.org/wiki/FC_우니레아_우르지체니).
 
 
 **FC 우니레아 우르지체니**()는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [루마니아](../Page/루마니아.md "wikilink")의 남부인 [이알로미차 주의](https://ko.wikipedia.org/wiki/이알로미차_주 "wikilink") 소도시 [우르지체니](https://ko.wikipedia.org/wiki/우르지체니 "wikilink")를 연고지로 하고 있다. 우니레아 우르지체니는 [1954년](../Page/1954년.md "wikilink")에 창단되었는데, 2005-06시즌에 2부 리그 플레이오프 우승을 하며 클럽 역사상 최초로 승격하여, 2006-07시즌부터 [리가 I에](../Page/리가_I.md "wikilink") 참가하고 있다. 2008-09시즌엔 클럽 역사상 최초로 우승을 차지하였다. 2011년 구단주의 지원중단으로 해체하였다.

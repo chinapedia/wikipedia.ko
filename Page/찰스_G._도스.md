@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G. ](https://ko.wikipedia.org/wiki/_G._).
+> This article is converted from Wikipedia: [찰스 G. 도스](https://ko.wikipedia.org/wiki/찰스_G._도스).
 
 
 **찰스 게이츠 도스**(, [1865년](../Page/1865년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") \~ [1951년](../Page/1951년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 금융인·정치인이다. [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 후 [독일](../Page/독일.md "wikilink")의 재정 개편안을 제시하여 그 공로로 [노벨 평화상을](../Page/노벨_평화상.md "wikilink") 수상했으며, [1925년](../Page/1925년.md "wikilink") \~ [1929년](../Page/1929년.md "wikilink") [부통령으로](../Page/미국의_부통령.md "wikilink") 재직했다.

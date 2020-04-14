@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Echo \(\)](https://ko.wikipedia.org/wiki/Echo_\(\)).
+> This article is converted from Wikipedia: [Echo \(명령어\)](https://ko.wikipedia.org/wiki/Echo_\(명령어\)).
 
 
 **`echo`**는 [도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [유닉스](../Page/유닉스.md "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제에서 문자열을 [컴퓨터 터미널에](https://ko.wikipedia.org/wiki/컴퓨터_터미널 "wikilink") 출력하는 [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink")이다. 일반적으로 [셸 스크립트와](../Page/셸_스크립트.md "wikilink") [배치 파일에서](../Page/배치_파일.md "wikilink") 화면이나 파일로 상황을 알리는 문자열을 출력할 때에 사용된다.

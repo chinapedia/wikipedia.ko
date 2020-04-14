@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Cat \(\)](https://ko.wikipedia.org/wiki/Cat_\(\)).
+> This article is converted from Wikipedia: [Cat \(유닉스\)](https://ko.wikipedia.org/wiki/Cat_\(유닉스\)).
 
 
 **`cat`** 명령어는 파일들을 [연결하고](https://ko.wikipedia.org/wiki/연결어 "wikilink") 표시하기 위해 사용되는 표준 [유닉스](../Page/유닉스.md "wikilink") 프로그램이다. 이름은 concatenate(연결하다)의 동의어인 *[catenate](https://ko.wikipedia.org/wiki/:en:wikt:catenate "wikilink")*에서 유래하였다.

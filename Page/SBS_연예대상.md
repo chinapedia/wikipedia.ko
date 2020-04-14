@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 연예대상](https://ko.wikipedia.org/wiki/SBS_연예대상).
 
 
 **SBS 연예대상**은 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 예능본부에서 주최하는 예능, 오락, 코미디 시상식 행사로, [2007년](../Page/2007년.md "wikilink") 처음 신설되어 열리고 있다. 하지만 [2006년](../Page/2006년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 송년 특집으로 열린 **SBS 코미디대상**에서 코미디 부분만 한정하여 시상하였다. 이를 토대로 [2007년](../Page/2007년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") 제1회를 시작으로 개최되고 있다. [2014년](../Page/2014년.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink")까지 **SBS 연예대상**이 **SBS SAF 연예대상**으로 타이틀이 바뀌어 개최되었으며, SAF는 "**SBS AWARD FESTIVAL**"을 뜻한다. [2017년](../Page/2017년.md "wikilink")부터 프로그램명을 다시 **SBS 연예대상**으로 변경하여 진행하고 있다.

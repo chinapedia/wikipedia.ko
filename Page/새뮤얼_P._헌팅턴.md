@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
+> This article is converted from Wikipedia: [새뮤얼 P. 헌팅턴](https://ko.wikipedia.org/wiki/새뮤얼_P._헌팅턴).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Samuel_P._Huntington_\(2004_World_Economic_Forum\).jpg "wikilink") **새뮤얼 필립스 헌팅턴**(Samuel Phillips Huntington, [1927년](../Page/1927년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 정치학자이다. 생을 마감하기 전까지 [하버드 대학에서](https://ko.wikipedia.org/wiki/하버드_대학 "wikilink") 교수로 재직했으며\[1\] 냉전 이후의 세계질서에 대해 다룬 《[문명의 충돌](../Page/문명의_충돌.md "wikilink")》의 저자로 유명하다.

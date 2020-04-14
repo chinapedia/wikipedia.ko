@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R](https://ko.wikipedia.org/wiki/_R).
+> This article is converted from Wikipedia: [북쪽왕관자리 R](https://ko.wikipedia.org/wiki/북쪽왕관자리_R).
 
 
 **북쪽왕관자리 R**은 [북쪽왕관자리](../Page/북쪽왕관자리.md "wikilink") 방향에 있는 [불규칙 변광성으로](https://ko.wikipedia.org/wiki/불규칙_변광성 "wikilink"), 지구에서 약 6,000광년 떨어져 있다. 이 별은 아마추어 관측자들에게 있어 좋은 관측 대상이 되는 [변광성](../Page/변광성.md "wikilink")이다.\[1\]

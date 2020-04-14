@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ LPG   ](https://ko.wikipedia.org/wiki/_LPG___).
+> This article is converted from Wikipedia: [부천 LPG 충전소 폭발 사고](https://ko.wikipedia.org/wiki/부천_LPG_충전소_폭발_사고).
 
 
 **부천 LPG 충전소 폭발 사고**는 [1998년](../Page/1998년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") 오후 2시 14분 쯤 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [부천시](https://ko.wikipedia.org/wiki/부천시 "wikilink") [오정구](../Page/오정구.md "wikilink") 내동 대성에너지 LPG 충전소에서 [액화석유가스](../Page/액화석유가스.md "wikilink")가 폭발하는 사고가 발생, 1명이 숨지고 96명의 부상자가 발생하였다.

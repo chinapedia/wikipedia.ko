@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Let Go \(  \)](https://ko.wikipedia.org/wiki/Let_Go_\(__\)).
+> This article is converted from Wikipedia: [Let Go \(에이브릴 라빈의 음반\)](https://ko.wikipedia.org/wiki/Let_Go_\(에이브릴_라빈의_음반\)).
 
 
 ***Let go***는 프랑스계 캐나다인 싱어송라이터 [에이브릴 라빈의](../Page/에이브릴_라빈.md "wikilink") 데뷔 음반으로, 2002년 6월 4일 발매되었다. [아리스타 레코드와](https://ko.wikipedia.org/wiki/아리스타_레코드 "wikilink") 계악 한 후 1년동안 라빈은 음악적 방향성에 대한 견해 차이를 겪었다. 라빈은 LA로 이사 후 초기 음악들을 녹음을 했다. 프로덕션 팀 The Matrix와 함께 작업했는데, 그 팀은 앨범에 대한 라빈의 시각을 잘 이해 해줬다고 한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [재능TV](https://ko.wikipedia.org/wiki/재능TV).
 
 
 **JEI 재능TV**(상호명: **㈜재능스스로방송**)는 [대한민국](../Page/대한민국.md "wikilink")의 어린이 대상 [케이블 텔레비전](../Page/케이블_텔레비전.md "wikilink") 방송국이다. ㈜재능스스로방송은 [㈜재능교육이](../Page/재능교육.md "wikilink") 지분 100%를 보유하고 있는 계열사이다.
@@ -63,7 +63,7 @@
   - [2008년](../Page/2008년.md "wikilink") 7월 - 어린이에서 어린이 및 보조적 데이터방송으로 방송분야 변경.
   - [2010년](../Page/2010년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") - 재능TV 웹사이트 리뉴얼.
   - [2010년](../Page/2010년.md "wikilink") 10월 - HD 콘텐츠 제작시스템 구축.
-  - [2010년](../Page/2010년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink") - 제이와 콩나무 방송 개시.
+  - [2010년](../Page/2010년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink") - 유아 및 미취학 프로그램 제이와 콩나무 방송 개시.
   - [2010년](../Page/2010년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") - 재능TV ID 영상 교체.
   - [2011년](../Page/2011년.md "wikilink") 3월 - 『2011 제 5회 케이블TV 방송대상 - 교육/어린이』 (100년 전 우리는 어떻게 살았을까요) 수상.
   - [2011년](../Page/2011년.md "wikilink") 7월 - 한국만화영상진흥원과 업무협약 체결.

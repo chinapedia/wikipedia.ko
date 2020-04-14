@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JC](https://ko.wikipedia.org/wiki/JC).
+> This article is converted from Wikipedia: [JC지은](https://ko.wikipedia.org/wiki/JC지은).
 
 
 **JC지은**(, [1981년](../Page/1981년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다.\[1\]\[2\] 2007년 5월 [YG 엔터테인먼트에서](../Page/YG_엔터테인먼트.md "wikilink") 데뷔하였다. 2009년 6월 [YG 엔터테인먼트를](../Page/YG_엔터테인먼트.md "wikilink") 떠나 [라이온미디어](https://ko.wikipedia.org/wiki/라이온미디어 "wikilink")에 새 둥지를 틀었다. 같은 해 10월 예명을 JC로 바꾸고, 솔로가수로 활동했던 세이, 앨리와 함께 여성 3인조 보컬그룹 레이디 컬렉션으로 활동하였다

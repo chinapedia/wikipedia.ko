@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [KB](https://ko.wikipedia.org/wiki/KB).
+> This article is converted from Wikipedia: [KB국민카드](https://ko.wikipedia.org/wiki/KB국민카드).
 
 
-**KB국민카드**는 대한민국 [KB금융그룹](../Page/KB금융그룹.md "wikilink")의 자회사인 은행계 신용카드 선두 업체이다.
+**KB국민카드**는 대한민국 [KB금융그룹](../Page/KB금융그룹.md "wikilink")의 자회사인 은행계 [신용카드](../Page/신용카드.md "wikilink") 업체이다.
 
 ## 역사
 
@@ -39,7 +39,7 @@
 
 ## 발급 기관 및 전산 시스템
 
-자사 영업점을 제외한 발급 기관에서는 자사 카드에 한하여 특정한 상품만 취급한다. 그리고 은행권과 증권사의 카드들은 [NH농협은행](../Page/NH농협은행.md "wikilink")과 제휴한 금융기관의 [현금카드](../Page/현금인출카드.md "wikilink") 및 [신용카드](../Page/신용카드.md "wikilink") 탑재가 가능하다. [체크카드](../Page/체크카드.md "wikilink")의 해외결제인 경우에는 일부국내용카드(골든라이프,[방탄소년단](../Page/방탄소년단.md "wikilink"),[나라사랑카드](../Page/나라사랑카드.md "wikilink"),리브메이트) 외에는 무조건 100% [국민은행](../Page/국민은행.md "wikilink") 전용으로 연동할 수 있으며, [NH농협은행](../Page/NH농협은행.md "wikilink")과 [신한은행](../Page/신한은행.md "wikilink") 제휴형은 국내전용으로만 나온다.
+자사 영업점을 제외한 발급 기관에서는 자사 카드에 한하여 특정한 상품만 취급한다. 그리고 은행권과 증권사의 카드들은 [NH농협은행](../Page/NH농협은행.md "wikilink")과 제휴한 금융기관의 [현금카드](../Page/현금인출카드.md "wikilink") 및 [신용카드](../Page/신용카드.md "wikilink") 탑재가 가능하다. [체크카드](../Page/체크카드.md "wikilink")의 해외결제인 경우에는 일부국내용카드([방탄소년단](../Page/방탄소년단.md "wikilink"),[나라사랑카드](../Page/나라사랑카드.md "wikilink"),리브메이트) 외에는 무조건 100% [국민은행](../Page/국민은행.md "wikilink") 전용으로 연동할 수 있으며, [NH농협은행](../Page/NH농협은행.md "wikilink")과 [신한은행](../Page/신한은행.md "wikilink") ,[중국공상은행](https://ko.wikipedia.org/wiki/중국공상은행 "wikilink")제휴형은 국내전용으로만 나온다.
 
   - [국민은행](../Page/국민은행.md "wikilink") / [우체국](../Page/우정사업본부.md "wikilink") (에버리치 KB국민 Wise 홈 카드)
 

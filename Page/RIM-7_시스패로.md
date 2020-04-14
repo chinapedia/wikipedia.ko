@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RIM-7 ](https://ko.wikipedia.org/wiki/RIM-7_).
+> This article is converted from Wikipedia: [RIM-7 시스패로](https://ko.wikipedia.org/wiki/RIM-7_시스패로).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:RIM-7_Sea_Sparrow_launch_from_USS_Midway_\(CV-41\),_circa_in_1982_\(6483141\).jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:RIM-7_loading2.jpg "wikilink")(CV-67)의 마크 29 발사대에 장전되고 있는 시스패로\]\] **RIM-7 시스패로**(Sea Sparrow) 미사일은 미국의 단거리 함대공 미사일이다. 공대공 미사일인 [AIM-7 스패로](../Page/AIM-7_스패로.md "wikilink") 미사일의 해상 발사용 버전이다.

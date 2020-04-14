@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SHIHO \(\)](https://ko.wikipedia.org/wiki/SHIHO_\(\)).
+> This article is converted from Wikipedia: [SHIHO \(가수\)](https://ko.wikipedia.org/wiki/SHIHO_\(가수\)).
 
 
 **시호**(SHIHO, しほ)는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")로, [I've Sound의](https://ko.wikipedia.org/wiki/I've_Sound "wikilink") 참여 가수이다. 2000년 발표한 「Days of promise」로 아이브에 참가했다.(레코딩은 「PREY -Remix-」가 처음.) 그러다가 2006년 3월 자신의 음악 활동을 하기 위해 남동생이 차린 회사 STARAVID로 가면서 아이브를 졸업.

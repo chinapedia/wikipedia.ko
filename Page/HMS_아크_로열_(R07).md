@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS   \(R07\)](https://ko.wikipedia.org/wiki/HMS___\(R07\)).
+> This article is converted from Wikipedia: [HMS 아크 로열 \(R07\)](https://ko.wikipedia.org/wiki/HMS_아크_로열_\(R07\)).
 
 
 **HMS 아크 로얄**(HMS Ark Royal)은 [인빈시블급 항공모함의](../Page/인빈시블급_항공모함.md "wikilink") 마지막 함이다. [스페인 무적함대를](https://ko.wikipedia.org/wiki/스페인_무적함대 "wikilink") 격파한 영국 함대 기함의 이름을 딴 5번째 함이다. [HMS 인빈시블의](https://ko.wikipedia.org/wiki/HMS_인빈시블 "wikilink") 7도 경사 스키 점프대 대신 12도 스키 점프대를 설치하면서, 아크 로얄은 동급인 인빈시블과 [HMS 일러스트리어스](https://ko.wikipedia.org/wiki/HMS_일러스트리어스 "wikilink") 보다 크게 제작되었다. 이것은 [VSTOL](https://ko.wikipedia.org/wiki/VSTOL "wikilink")기의 이륙을 보다 좋게 해주었다. 현재 영국 함대 기함이다. 영국 해군은 현재 HMS 아크 로얄과 [HMS 일러스트리어스](https://ko.wikipedia.org/wiki/HMS_일러스트리어스 "wikilink") 2대의 [항공모함](../Page/항공모함.md "wikilink")을 운용중이다.

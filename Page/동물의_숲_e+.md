@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  e+](https://ko.wikipedia.org/wiki/__e+).
+> This article is converted from Wikipedia: [동물의 숲 e+](https://ko.wikipedia.org/wiki/동물의_숲_e+).
 
 
 《**동물의 숲 e+**》()는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 커뮤니케이션 게임이며, [동물의 숲 시리즈의](https://ko.wikipedia.org/wiki/동물의_숲 "wikilink") 3번째 작품이다. 《[동물의 숲+](../Page/동물의_숲+.md "wikilink")》를 기반으로 제작한 북미/유럽판 에 몇 가지 추가 요소를 포함하여 일본에서 발매한 작품이다. 그 때문에 전작에 등장하였던 [일본](../Page/일본.md "wikilink") 문화권 이벤트 대신에 영어권 문화의 이벤트가 등장하였다. 일본 이외의 지역에서는 정식 발매되지 않았다.

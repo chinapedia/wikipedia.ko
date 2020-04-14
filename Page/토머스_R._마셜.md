@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R. ](https://ko.wikipedia.org/wiki/_R._).
+> This article is converted from Wikipedia: [토머스 R. 마셜](https://ko.wikipedia.org/wiki/토머스_R._마셜).
 
 
 **토머스 라일리 마셜**(, [1854년](../Page/1854년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink") \~ [1925년](../Page/1925년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 정치인이다. [1913년](../Page/1913년.md "wikilink") \~ [1921년](../Page/1921년.md "wikilink") [제28대 부통령을](../Page/미국의_부통령.md "wikilink") 지냈다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 알마티](https://ko.wikipedia.org/wiki/FC_알마티).
 
 
 **FC 알마티**()는 [카자흐스탄](../Page/카자흐스탄.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 카자흐스탄의 옛 [수도](../Page/수도.md "wikilink")이자 가장 큰 도시인 [알마티](../Page/알마티.md "wikilink")를 연고로 하여, [2000년](../Page/2000년.md "wikilink")에 창단되었다. 현재 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 활동하고 있다.

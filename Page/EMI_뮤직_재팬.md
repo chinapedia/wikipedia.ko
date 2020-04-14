@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EMI  ](https://ko.wikipedia.org/wiki/EMI__).
+> This article is converted from Wikipedia: [EMI 뮤직 재팬](https://ko.wikipedia.org/wiki/EMI_뮤직_재팬).
 
 
 **주식회사 EMI 뮤직 재팬**(EMI Music Japan Inc.)은 [EMI](../Page/EMI.md "wikilink")그룹 산하의 음반사이다. 옛날 이름은 **도시바 EMI 주식회사**(TOSHIBA-EMI LIMITED, 약칭: 도시바 EMI)이다.

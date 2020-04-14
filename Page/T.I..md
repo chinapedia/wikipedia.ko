@@ -42,8 +42,8 @@
 7.  No Mercy (2010년)
 8.  Trouble Man : Heavy Is The Head (2012년)
 9.  Paperwork (2014)
-10. Paperwork: The Return (TBA)
-11. Paperwork: Love and Liability (TBA)
+10. Paperwork : The Return (TBA)
+11. Paperwork : Love and Liability (TBA)
 
 ## 출연
 

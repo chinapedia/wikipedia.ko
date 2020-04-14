@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SK T1](https://ko.wikipedia.org/wiki/:SK_T1).
+> This article is converted from Wikipedia: [틀:SK텔레콤 T1](https://ko.wikipedia.org/wiki/틀:SK텔레콤_T1).
 
 
 <onlyinclude></onlyinclude>

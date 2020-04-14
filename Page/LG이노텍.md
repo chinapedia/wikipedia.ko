@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG이노텍](https://ko.wikipedia.org/wiki/LG이노텍).
 
 
 **LG이노텍**(LG Innotek)은 [대한민국](../Page/대한민국.md "wikilink")의 전자부품 제조 회사로 [LG그룹](../Page/LG그룹.md "wikilink")의 계열사이다. 카메라 모듈, 차량용 조향 및 제동장치, LED 패키지 등을 만드는 코스피 상장 기업이다.

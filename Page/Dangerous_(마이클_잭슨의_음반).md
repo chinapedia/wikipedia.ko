@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dangerous \(  \)](https://ko.wikipedia.org/wiki/Dangerous_\(__\)).
+> This article is converted from Wikipedia: [Dangerous \(마이클 잭슨의 음반\)](https://ko.wikipedia.org/wiki/Dangerous_\(마이클_잭슨의_음반\)).
 
 
 《**Dangerous**》는 미국의 가수 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 8번째 스튜디오 음반이다. 1991년 11월에 발매했으며 발매 6주 만에 1천만 장이나 돌파했다. [빌보드 200에](../Page/빌보드_200.md "wikilink") 4주간 1위에 올랐고 [R\&B 앨범차트에서는](https://ko.wikipedia.org/wiki/R&B_앨범차트 "wikilink") 12주간 1위를 했다. 이 음반은 최신 인증 부재,미흡,국가별 반영 등의 이유로 현재까지 3000만 장 이상을 팔아치운 것으로 추정되고 있다. 이 음반은 전작과는 다르게 [뉴 잭 스윙이라는](../Page/뉴_잭_스윙.md "wikilink") 새로운 장르를 첨가했다. 또한 그는 전작에서 같이 작업했던 [퀸시 존스가](../Page/퀸시_존스.md "wikilink") 아닌 새 프로듀서 [테디 라일리](../Page/테디_라일리.md "wikilink"), [빌 보트렐과](https://ko.wikipedia.org/wiki/빌_보트렐 "wikilink") 작업했다. 싱글 〈[Black or White](https://ko.wikipedia.org/wiki/Black_or_White "wikilink")〉는 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 7주간 1위를 차지한다. 평론가들에게도 좋은 반응을 얻었다. Robert Christgau는 Off the wall 이후 가장 일관성 있는 음반이라며 A-를 줬고 [롤링 스톤은](../Page/롤링_스톤.md "wikilink") 《[Bad](../Page/Bad_\(음반\).md "wikilink")》보다 훨씬 선명하다고 평가했다.

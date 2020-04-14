@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BOINC    ](https://ko.wikipedia.org/wiki/BOINC____).
+> This article is converted from Wikipedia: [BOINC를 기반으로 하는 프로젝트 목록](https://ko.wikipedia.org/wiki/BOINC를_기반으로_하는_프로젝트_목록).
 
 
 이 목록은 버클리 네트워크 컴퓨팅을 위한 공개 기반인 [BOINC](../Page/BOINC.md "wikilink")을 기반으로 하는 프로젝트 목록이다.

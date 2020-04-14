@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Group-sysop.js](https://ko.wikipedia.org/wiki/:Group-sysop.js).
+> This article is converted from Wikipedia: [미디어위키:Group-sysop.js](https://ko.wikipedia.org/wiki/미디어위키:Group-sysop.js).
 
 
 /\* 관리자일 경우만 실행되는 스크립트입니다. [위키백과:위키프로젝트 시스템](https://ko.wikipedia.org/wiki/위키백과:위키프로젝트_시스템 "wikilink") 참고

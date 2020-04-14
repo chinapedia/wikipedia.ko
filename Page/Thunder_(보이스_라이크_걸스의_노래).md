@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Thunder \(   \)](https://ko.wikipedia.org/wiki/Thunder_\(___\)).
+> This article is converted from Wikipedia: [Thunder \(보이스 라이크 걸스의 노래\)](https://ko.wikipedia.org/wiki/Thunder_\(보이스_라이크_걸스의_노래\)).
 
 
 "**Thunder**"은 [보이즈 라이크 걸즈의](https://ko.wikipedia.org/wiki/보이즈_라이크_걸즈 "wikilink") 데뷔 음반인 [Boys Like Girls의](https://ko.wikipedia.org/wiki/Boys_Like_Girls "wikilink") 세 번째 싱글이다.

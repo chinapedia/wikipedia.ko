@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Load \(\)](https://ko.wikipedia.org/wiki/Load_\(\)).
+> This article is converted from Wikipedia: [Load \(음반\)](https://ko.wikipedia.org/wiki/Load_\(음반\)).
 
 
 《**Load**》는 [미국](../Page/미국.md "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink")밴드인 [메탈리카](../Page/메탈리카.md "wikilink")의 6번째 정규앨범이다. 발매일자는 1996년 6월 4일이다.

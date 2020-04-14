@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: KB ](https://ko.wikipedia.org/wiki/:_KB_).
+> This article is converted from Wikipedia: [틀:의정부 KB손해보험 스타즈](https://ko.wikipedia.org/wiki/틀:의정부_KB손해보험_스타즈).
 
 
 [의정부실내체육관](https://ko.wikipedia.org/wiki/의정부실내체육관 "wikilink") (2017년\~현재)

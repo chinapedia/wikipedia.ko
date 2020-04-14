@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC U-16   ](https://ko.wikipedia.org/wiki/AFC_U-16___).
+> This article is converted from Wikipedia: [AFC U-16 축구 선수권 대회](https://ko.wikipedia.org/wiki/AFC_U-16_축구_선수권_대회).
 
 
 **AFC U-16 축구 선수권 대회**는 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)에서 주관하는 축구 대회이다. 첫 대회는 [1985년](../Page/1985년.md "wikilink")에 시작되어 2년마다 개최되어 현재에 이르고 있다. 현재는 AFC의 다른 축구 대회처럼 두 단계로 나뉘어 진행된다. 예선전은 AFC의 전체 회원국에게 열려 있고, 본선전은 16개 팀이 참가한다. 대회 준결승 진출팀은 다음해에 열리는 [FIFA U-17 월드컵에](../Page/FIFA_U-17_월드컵.md "wikilink") 본선 진출 자격이 주어진다.
