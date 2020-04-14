@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mana \( \)](https://ko.wikipedia.org/wiki/Mana_\(_\)).
+> This article is converted from Wikipedia: [Mana \(일본의 가수\)](https://ko.wikipedia.org/wiki/Mana_\(일본의_가수\)).
 
 
 **Mana**(마나)는 [일본](../Page/일본.md "wikilink")의 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink")이자 음악 프로듀서이다. 현재 활동 정지중인 [비주얼계](../Page/비주얼계.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [MALICE MIZER와](../Page/MALICE_MIZER.md "wikilink") 현재 활동중인 프로젝트 밴드 [Moi dix Mois의](https://ko.wikipedia.org/wiki/Moi_dix_Mois "wikilink") 리더. 통칭 Mana(님)

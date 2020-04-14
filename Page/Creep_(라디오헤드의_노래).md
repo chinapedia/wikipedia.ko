@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Creep \( \)](https://ko.wikipedia.org/wiki/Creep_\(_\)).
+> This article is converted from Wikipedia: [Creep \(라디오헤드의 노래\)](https://ko.wikipedia.org/wiki/Creep_\(라디오헤드의_노래\)).
 
 
 〈**Creep**〉(크립)은 영국 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") 밴드인 [라디오헤드](../Page/라디오헤드.md "wikilink")의 노래이다. 라디오헤드는 〈Creep〉을 1992년 그들의 데뷔 싱글로 발매했고, 그리고 그들의 첫 앨범 《[Pablo Honey](../Page/Pablo_Honey.md "wikilink")》 (1993)에 이 곡을 실었다. 처음에 *Creep*은 차트에서 그리 성공하지 못했지만 1993년 재발매 때 세계적으로 히트 치게 되었다. 그러나 라디오헤드는 팬들이 그들의 공연에서 〈Creep〉만 좋아하는 것을 싫어하게 되었다\[1\]. 1990년 중부터 말까지 〈Creep〉은 공연장에서 더욱 드물게 연주되었고, 1998년에 라디오헤드는 이 곡을 공연 리스트에서 완전히 없애버렸다. 이 곡은 2001년까지 라이브로 좀처럼 연주되지 않았고, 밴드의 라이브 세트에서 가끔 나타날 뿐이었다. 그러나 2009년, 이 곡은 [남미](https://ko.wikipedia.org/wiki/남미 "wikilink")와 [멕시코](../Page/멕시코.md "wikilink")의 Spring tour때 완벽히 연주되었다. 이것은 그들이 그 때까지 그쪽 구역에는 오랜기간동안 투어를 하지 않았기 때문일 가능성이 높다고 알려진다. *Creep*은 라디오헤드의 수많은 히트곡 중 하나이며, [Alanis Morrissette](https://ko.wikipedia.org/wiki/Alanis_Morrissette "wikilink"), [시이나 링고](../Page/시이나_링고.md "wikilink"), 그리고 [Damien Rice를](https://ko.wikipedia.org/wiki/Damien_Rice "wikilink") 포함한 뮤지컬 아티스트들이 부르기도 했다.

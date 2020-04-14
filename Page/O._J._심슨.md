@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [O. J. ](https://ko.wikipedia.org/wiki/O._J._).
+> This article is converted from Wikipedia: [O. J. 심슨](https://ko.wikipedia.org/wiki/O._J._심슨).
 
 
 [180px](https://ko.wikipedia.org/wiki/파일:O.J._Simpson_1990_·_DN-ST-91-03444_crop.JPEG "wikilink") **오렌설 제임스 "O. J." 심슨**(, 1947년 7월 9일 \~ )는 [미국](../Page/미국.md "wikilink")의 전직 [미식 축구](https://ko.wikipedia.org/wiki/미식_축구 "wikilink") 선수, [배우](../Page/배우.md "wikilink"), 대변인, [살인](../Page/살인.md "wikilink") 사건 피의자이다. 대학 및 프로 미식 축구에서 [러닝백](../Page/러닝백.md "wikilink")으로 뛰며 유명해졌고, [1973년](../Page/1973년.md "wikilink") 시즌에는 [NFL](https://ko.wikipedia.org/wiki/NFL "wikilink")에서 사상 최초로 2,000 야드 이상을 뛴 선수였다. [1985년](../Page/1985년.md "wikilink") 미식 축구 명예의 전당에 헌액되었다.

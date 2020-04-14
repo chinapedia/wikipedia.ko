@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PC-7](https://ko.wikipedia.org/wiki/_PC-7).
+> This article is converted from Wikipedia: [필라투스 PC-7](https://ko.wikipedia.org/wiki/필라투스_PC-7).
 
 
 **필라투스 PC-7**는 [필라투스 P-3을](https://ko.wikipedia.org/wiki/필라투스_P-3 "wikilink") 개조해 만든 스위스의 2인승 훈련기이다. [필라투스](https://ko.wikipedia.org/wiki/필라투스 "wikilink")사에서 제작한다.
@@ -32,7 +32,7 @@
 
   - : 24 (인도시기 [1979년](../Page/1979년.md "wikilink"))
 
-  - [22px](https://ko.wikipedia.org/wiki/파일:Flag_of_Bophuthatswana.svg "wikilink") [Bophuthatswana](https://ko.wikipedia.org/wiki/Bophuthatswana "wikilink"): 2 (인도시기 [1989년](../Page/1989년.md "wikilink"))
+  - [22px](https://ko.wikipedia.org/wiki/파일:Flag_of_Bophuthatswana_\(1972–1994\).svg "wikilink") [Bophuthatswana](https://ko.wikipedia.org/wiki/Bophuthatswana "wikilink"): 2 (인도시기 [1989년](../Page/1989년.md "wikilink"))
 
   - : 7 (인도시기 [1990년](../Page/1990년.md "wikilink"))
 

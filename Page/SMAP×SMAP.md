@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SMAPSMAP](https://ko.wikipedia.org/wiki/SMAPSMAP).
+> This article is converted from Wikipedia: [SMAP×SMAP](https://ko.wikipedia.org/wiki/SMAP×SMAP).
 
 
 《**SMAP×SMAP**》(, )는 [간사이 TV과](../Page/간사이_TV_방송.md "wikilink") [후지 TV](../Page/후지_TV.md "wikilink") 공동 제작으로, [후지 TV](../Page/후지_TV.md "wikilink") 계열으로 [1996년](../Page/1996년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") 매주 [월요일](../Page/월요일.md "wikilink") 22:00 - 22:54 (JST)에 방송되었던 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹 [SMAP](../Page/SMAP.md "wikilink")의 대표적인 레귤러 버라이어티 프로그램이다. [2006년](../Page/2006년.md "wikilink") [4월 17일에는](../Page/4월_17일.md "wikilink") 방송을 시작한지 10주년을 맞이했다. 통칭 〈**"스마스마()"**.〉

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 일일드라마](https://ko.wikipedia.org/wiki/SBS_일일드라마).
 
 
 **SBS 일일드라마**는 [SBS에서](../Page/SBS_TV.md "wikilink") [월요일](../Page/월요일.md "wikilink")부터 [금요일](../Page/금요일.md "wikilink")까지 방영되는 일일[드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.

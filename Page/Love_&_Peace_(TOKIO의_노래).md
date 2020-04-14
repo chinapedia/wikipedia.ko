@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Love \& Peace \(TOKIO \)](https://ko.wikipedia.org/wiki/Love_\&_Peace_\(TOKIO_\)).
+> This article is converted from Wikipedia: [Love \& Peace \(TOKIO의 노래\)](https://ko.wikipedia.org/wiki/Love_\&_Peace_\(TOKIO의_노래\)).
 
 
 《**Love & Peace**》는, [1998년](../Page/1998년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") 발매 된 [TOKIO](../Page/TOKIO.md "wikilink")의 14번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DSR \(\)](https://ko.wikipedia.org/wiki/DSR_\(\)).
+> This article is converted from Wikipedia: [DSR \(기업\)](https://ko.wikipedia.org/wiki/DSR_\(기업\)).
 
 
 **DSR**(디에스알 )은 1965년 홍순모가 창립한 선재 업체이다. 크게 **DSR**()과 **DSR제강**()으로 나뉘어 있으며, **DSR제강**은 1971년에 설립하여 2003년 1월에 주식거래소에 상장되었다. DSR(주)에서는 FIBER rope(부산)와 STAINLESS steel wire 와 wire rope(광양)을 다루며, DSR 제강(순천)에서는 HIGH CARBON steel wire와 wire rope를 생산하고 있다.

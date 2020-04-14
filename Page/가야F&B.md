@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F\&B](https://ko.wikipedia.org/wiki/F\&B).
+> This article is converted from Wikipedia: [가야F\&B](https://ko.wikipedia.org/wiki/가야F\&B).
 
 
 **가야F\&B**는 과채음료인 **가야 농장**을 생산/판매하는 기업이었으며 2015년 10월에 [웅진식품](../Page/웅진식품.md "wikilink")에 합병되었다.

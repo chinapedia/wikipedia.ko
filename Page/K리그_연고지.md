@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K리그 연고지](https://ko.wikipedia.org/wiki/K리그_연고지).
 
 
 대한민국 프로축구 [K리그](../Page/K리그.md "wikilink")의 지역 연고지 제도 및 소속 구단들의 연고지와 관련된 문서이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Gillette  2004](https://ko.wikipedia.org/wiki/Gillette__2004).
+> This article is converted from Wikipedia: [Gillette 스타리그 2004](https://ko.wikipedia.org/wiki/Gillette_스타리그_2004).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:P_DSC_1430.jpg "wikilink") **Gillette 스타리그 2004**는 [2004년](../Page/2004년.md "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2003 Mycube  ](https://ko.wikipedia.org/wiki/2003_Mycube__).
+> This article is converted from Wikipedia: [2003 Mycube배 온게임넷 스타리그](https://ko.wikipedia.org/wiki/2003_Mycube배_온게임넷_스타리그).
 
 
 **2003 Mycube배 온게임넷 스타리그**은 [2003년](../Page/2003년.md "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.

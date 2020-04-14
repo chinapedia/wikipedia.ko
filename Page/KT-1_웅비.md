@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT-1 ](https://ko.wikipedia.org/wiki/KT-1_).
+> This article is converted from Wikipedia: [KT-1 웅비](https://ko.wikipedia.org/wiki/KT-1_웅비).
 
 
 **KT-1 웅비**은 대한민국의 훈련기로, 대한민국 기술로 처음 제작한 군용 항공기이다. 전투기 조종사 후보생들이 기초 조종술을 익히기 위해 활용하는 훈련기로 사용된다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ 2TV ](https://ko.wikipedia.org/wiki/_2TV_).
+> This article is converted from Wikipedia: [한국방송공사 2TV 일일연속극](https://ko.wikipedia.org/wiki/한국방송공사_2TV_일일연속극).
 
 
-**한국방송공사 2TV 일일연속극**은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 7시 50분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 정식 명칭은 **저녁일일드라마**이다.
+**한국방송공사 2TV 일일드라마**은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 7시 50분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 《[돌아온 뚝배기](../Page/돌아온_뚝배기.md "wikilink")》까지는 **일일드라마**라는 명칭을 사용하였으나 잠정 폐지 후 [2013년](../Page/2013년.md "wikilink") [8월 19일에](../Page/8월_19일.md "wikilink") 부활한 작품 《[루비 반지](../Page/루비_반지.md "wikilink")》부터 **저녁일일드라마**로 명칭이 바뀌었다.
 
 ## 저녁일일드라마 방송 시간
 
@@ -82,7 +82,7 @@
 
 ### 2020년대
 
-  - 《[위험한 약속](https://ko.wikipedia.org/wiki/위험한_약속 "wikilink")》 : 2020년 3월 30일 \~ 방영예정
+  - 《[위험한 약속](https://ko.wikipedia.org/wiki/위험한_약속 "wikilink")》 : 2020년 3월 30일 \~ 현재
 
 ## 같이 보기
 

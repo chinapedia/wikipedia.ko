@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BATOO  08\~09](https://ko.wikipedia.org/wiki/BATOO__08\~09).
+> This article is converted from Wikipedia: [BATOO 스타리그 08\~09](https://ko.wikipedia.org/wiki/BATOO_스타리그_08\~09).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Ongamenet_2009_BATOO_Starleague_Grand_final.JPG "wikilink") **BATOO 스타리그 08\~09**는 [2008년](../Page/2008년.md "wikilink") 부터 [2009년](../Page/2009년.md "wikilink")까지 진행된 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 스타리그이다.

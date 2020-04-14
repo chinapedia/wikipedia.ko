@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CH-53E  ](https://ko.wikipedia.org/wiki/_CH-53E__).
+> This article is converted from Wikipedia: [시코르스키 CH-53E 슈퍼 스탤리온](https://ko.wikipedia.org/wiki/시코르스키_CH-53E_슈퍼_스탤리온).
 
 
 [오른쪽를](https://ko.wikipedia.org/wiki/파일:UH-60_and_CH-53E.jpg "wikilink") CH-53E 슈퍼스탤리온에 걸고 있다\]\] **CH-53E 슈퍼스탤리온**은 미군이 보유한 가장 크고 가장 무거운 헬리콥터이다.

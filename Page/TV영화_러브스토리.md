@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV영화 러브스토리](https://ko.wikipedia.org/wiki/TV영화_러브스토리).
 
 
 《**TV영화 러브스토리**》는 [1999년](../Page/1999년.md "wikilink") [12월 1일부터](../Page/12월_1일.md "wikilink") [2000년](../Page/2000년.md "wikilink") [1월 27일까지](../Page/1월_27일.md "wikilink") 매주 수, 목 밤 21시 55분에 방영된 [SBS의](../Page/SBS_TV.md "wikilink") [드라마이다](../Page/텔레비전_드라마.md "wikilink"). 이 드라마는 잦은 줄거리 설정의 진부함\[1\] 등의 이유 탓인지 12%대의 시청률로 기대 이하의 성적에 그쳤다. 한편, SBS는 <TV영화 러브스토리>에 앞서 <택시>를 편성할 예정이었으나 주연 배우들의 캐스팅이 무위로 그쳐 제작 자체가 무산되는 수모를 겪었다\[2\].

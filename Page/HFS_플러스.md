@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HFS ](https://ko.wikipedia.org/wiki/HFS_).
+> This article is converted from Wikipedia: [HFS 플러스](https://ko.wikipedia.org/wiki/HFS_플러스).
 
 
 **HFS 플러스**(HFS Plus, HFS+)는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [파일 시스템이다](../Page/파일_시스템.md "wikilink"). [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") 주 파일 시스템으로 사용된다. [매킨토시](../Page/매킨토시.md "wikilink") 컴퓨터(또는 [맥 OS를](../Page/맥_OS.md "wikilink") 구동하는 다른 시스템)의 주 파일 시스템으로 사용되었던 [계층적 파일 시스템](../Page/계층적_파일_시스템.md "wikilink")(HFS)을 대체하기 위해 개발되었다. 디지털 음악 플레이어인 [아이팟](../Page/아이팟.md "wikilink")에서 사용되는 포맷 중 하나이기도 하다. 이전 버전에 해당하는 HFS가 *맥 OS 스탠다드* 또는 *HFS 스탠다드*로 불렸기 때문에 HFS 플러스는 **맥 OS 익스텐디드**(Mac OS Extended) 또는 "HFS 익스텐디드"(HFS Extended)로 불리기도 한다. 애플은 이 파일 시스템을 개발할 때 이를 코드네임 세쿼이아(Sequoia)로 불렀다.\[1\]

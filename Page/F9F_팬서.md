@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F9F ](https://ko.wikipedia.org/wiki/F9F_).
+> This article is converted from Wikipedia: [F9F 팬서](https://ko.wikipedia.org/wiki/F9F_팬서).
 
 
 **F9F 팬서**()는 미국 해군의 두 번째 제트 전투기이자, 그루먼사의 첫 번째 제트 전투기이다. 팬서는 [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")에서 가장 많이 사용된 미국 해군의 전투기이다. 한국인들은 미국의 제트 전투기를 ‘쌕쌕이’라고 불렀다. 미국 해군의 [에식스급 항공모함에서](../Page/에식스급_항공모함.md "wikilink") 78,000회 출격하였다. 미국 해군 사상 최초로 북한의 [야코블레프 Yak-9](../Page/야코블레프_Yak-9.md "wikilink") 전투기를 공중전에서 격추시켰다. 총 1,382대가 생산되었으며, 다수의 파생형이 아르헨티나로 수출되었다.

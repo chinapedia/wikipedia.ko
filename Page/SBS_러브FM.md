@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SBS FM](https://ko.wikipedia.org/wiki/SBS_FM).
+> This article is converted from Wikipedia: [SBS 러브FM](https://ko.wikipedia.org/wiki/SBS_러브FM).
 
 
-**SBS 러브FM**은 대한민국 수도권의 민영 방송사인 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 종합 [라디오](../Page/라디오.md "wikilink") [방송](../Page/방송.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [1991년](../Page/1991년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink")(AM), [1999년](../Page/1999년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink")(FM)에 개국하였다.
+**SBS 러브FM**은 대한민국 수도권의 민영 방송사인 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 종합 [라디오](../Page/라디오.md "wikilink") 편성책임 광고책임 방송 채널이다.
 
 ## 개요
 
@@ -57,7 +57,7 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 
 ## 방송 프로그램
 
-**2019년 10월 7일 기준**
+**2020년 3월 30일 기준**
 
 <table>
 <thead>
@@ -81,7 +81,7 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 </tr>
 <tr class="odd">
 <td><p>06:00</p></td>
-<td><p>SBS 뉴스 (평일)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a> (평일)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/책하고_놀자" title="wikilink">최영아의 책하고 놀자</a><br />
 (주말)</p></td>
 </tr>
@@ -93,42 +93,40 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 </tr>
 <tr class="odd">
 <td><p>07:00</p></td>
-<td><p><a href="../Page/러브FM_(라디오_프로그램).md" title="wikilink">이숙영의 러브FM</a> 1, 2, 3, 4부</p></td>
+<td><p><a href="../Page/러브FM_(라디오_프로그램).md" title="wikilink">이숙영의 러브FM</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
 <td><p>09:00</p></td>
-<td><p>SBS 뉴스</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
 <td><p>09:05</p></td>
-<td><p><a href="../Page/러브FM_(라디오_프로그램).md" title="wikilink">이숙영의 러브FM</a> 5, 6부</p></td>
+<td><p><a href="../Page/SBS_정치쇼.md" title="wikilink">SBS 정치쇼</a> (일요일 : <a href="../Page/SBS_정치쇼.md" title="wikilink">SBS 뮤직쇼</a>) 1, 2부</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
 <td><p>10:00</p></td>
-<td><p>SBS 뉴스 (<a href="https://ko.wikipedia.org/wiki/KNN_뉴스_(1000)" title="wikilink">KNN 뉴스 (1000)</a> (주중)<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a> (<a href="https://ko.wikipedia.org/wiki/KNN_뉴스_(1000)" title="wikilink">KNN 뉴스 (1000)</a>) (주중)<br />
 (<a href="../Page/러브포텐.md" title="wikilink">러브포텐 박민설입니다</a> 1, 2부) (주말)</p></td>
 <td><p>×</p></td>
 </tr>
 <tr class="odd">
 <td><p>10:05</p></td>
-<td><p><a href="../Page/SBS_정치쇼.md" title="wikilink">이재익의 정치쇼</a> 1, 2부<br />
-(<a href="../Page/러브포텐.md" title="wikilink">러브포텐 박민설입니다</a> 1, 2부) (주중)</p></td>
-<td><p><a href="../Page/섹션_라디오.md" title="wikilink">박광범의 섹션 라디오</a><br />
-(<a href="../Page/러브포텐.md" title="wikilink">러브포텐 박민설입니다</a> 1, 2부) (주말)</p></td>
+<td><p><a href="../Page/SBS_정치쇼.md" title="wikilink">이재익의 정치쇼</a> (일요일 : <a href="../Page/SBS_정치쇼.md" title="wikilink">이재익의 뮤직쇼</a>) 3, 4부<br />
+(<a href="../Page/러브포텐.md" title="wikilink">러브포텐 박민설입니다</a> 1, 2부)</p></td>
+<td><p>×</p></td>
 </tr>
 <tr class="even">
 <td><p>11:00</p></td>
-<td><p><a href="../Page/SBS_정치쇼.md" title="wikilink">이재익의 정치쇼</a> 3, 4부/토요일판<br />
-(<a href="../Page/러브포텐.md" title="wikilink">러브포텐 박민설입니다</a> 3, 4부) (월~토요일)</p></td>
-<td><p><a href="../Page/선곡!_진검승부.md" title="wikilink">안윤상의 선곡! 진검승부</a><br />
-(<a href="../Page/러브포텐.md" title="wikilink">러브포텐 박민설입니다</a> 3, 4부) (일요일)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/허지웅쇼" title="wikilink">허지웅쇼</a><br />
+(<a href="../Page/러브포텐.md" title="wikilink">러브포텐 박민설입니다</a> 3, 4부)</p></td>
+<td><p>×</p></td>
 </tr>
 <tr class="odd">
 <td><p>12:00</p></td>
-<td><p>SBS 뉴스</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -153,7 +151,7 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 </tr>
 <tr class="odd">
 <td><p>16:00</p></td>
-<td><p>SBS 뉴스</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -163,7 +161,7 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 </tr>
 <tr class="odd">
 <td><p>18:00</p></td>
-<td><p>SBS 뉴스 (<a href="https://ko.wikipedia.org/wiki/KNN_뉴스_(1800)" title="wikilink">KNN 뉴스 (1800)</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a> (<a href="https://ko.wikipedia.org/wiki/KNN_뉴스_(1800)" title="wikilink">KNN 뉴스 (1800)</a>)</p></td>
 <td><p>×</p></td>
 </tr>
 <tr class="even">
@@ -186,7 +184,7 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 </tr>
 <tr class="odd">
 <td><p>22:00</p></td>
-<td><p>SBS 뉴스 (평일)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a> (평일)</p></td>
 <td><p><a href="../Page/최백호의_낭만시대.md" title="wikilink">최백호의 낭만시대</a><br />
 (<a href="../Page/음악다방.md" title="wikilink">다희의 음악다방</a>) (정규시즌)</p></td>
 </tr>
@@ -219,7 +217,7 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 </tbody>
 </table>
 
-  - 《[유영미의 마음은 언제나 청춘](../Page/마음은_언제나_청춘.md "wikilink")》, 《[고현준의 뉴스브리핑](../Page/뉴스브리핑_\(SBS_러브FM\).md "wikilink")》, 《[최영아의 책하고 놀자](https://ko.wikipedia.org/wiki/책하고_놀자 "wikilink")》, 《[이숙영의 러브FM](../Page/러브FM_\(라디오_프로그램\).md "wikilink")》, 《[김상혁, 딘딘의 오빠네 라디오](https://ko.wikipedia.org/wiki/오빠네_라디오 "wikilink")》, 《[김창열의 올드스쿨](../Page/김창열의_올드스쿨.md "wikilink")》, 《[신혜성의 음악 오디세이](https://ko.wikipedia.org/wiki/음악_오디세이 "wikilink")》(정규 시즌), 《[최백호의 낭만시대](../Page/최백호의_낭만시대.md "wikilink")》(스토브리그), 《[김태욱의 기분 좋은 밤](../Page/기분_좋은_밤.md "wikilink")》, 《[이현경의 뮤직토피아](../Page/이현경의_뮤직토피아.md "wikilink")》, 《[김정일의 생생가요](../Page/생생가요.md "wikilink")》는 지역 자체방송 없이 청취할 수 있다. 단, 밤 시간대 \~ 주말 오후 시간대 프로그램은 지역 프로야구 중계 관계로 지연될 수 있다.
+  - 《[유영미의 마음은 언제나 청춘](../Page/마음은_언제나_청춘.md "wikilink")》, 《[고현준의 뉴스브리핑](../Page/뉴스브리핑_\(SBS_러브FM\).md "wikilink")》, 《[최영아의 책하고 놀자](https://ko.wikipedia.org/wiki/책하고_놀자 "wikilink")》, 《[이숙영의 러브FM](../Page/러브FM_\(라디오_프로그램\).md "wikilink")》, 《[이재익의 정치쇼](../Page/SBS_정치쇼.md "wikilink")》 및 《[이재익의 뮤직쇼](../Page/SBS_정치쇼.md "wikilink")》 1, 2부, 《[김상혁, 딘딘의 오빠네 라디오](https://ko.wikipedia.org/wiki/오빠네_라디오 "wikilink")》, 《[김창열의 올드스쿨](../Page/김창열의_올드스쿨.md "wikilink")》, 《[신혜성의 음악 오디세이](https://ko.wikipedia.org/wiki/음악_오디세이 "wikilink")》(정규 시즌), 《[최백호의 낭만시대](../Page/최백호의_낭만시대.md "wikilink")》(스토브리그), 《[김태욱의 기분 좋은 밤](../Page/기분_좋은_밤.md "wikilink")》, 《[이현경의 뮤직토피아](../Page/이현경의_뮤직토피아.md "wikilink")》, 《[김정일의 생생가요](../Page/생생가요.md "wikilink")》는 지역 자체방송 없이 청취할 수 있다. 단, 밤 시간대 \~ 주말 오후 시간대 프로그램은 지역 프로야구 중계 관계로 지연될 수 있다.
 
 <!-- end list -->
 
@@ -291,12 +289,22 @@ SBS 러브FM의 경우 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikil
   - [기아자동차](../Page/기아자동차.md "wikilink")
   - [SK텔레콤](../Page/SK텔레콤.md "wikilink")
 
+### 정각 시보 (고릴라용)
+
+  - 눔 다이어트
+  - 메리츠화재
+  - [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")
+
 ### 30분 시보
 
   - [현대해상](../Page/현대해상화재보험.md "wikilink")
   - [쉐보레](../Page/쉐보레.md "wikilink")
   - [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")
   - [삼성화재](https://ko.wikipedia.org/wiki/삼성화재 "wikilink")
+
+### 30분 시보 (고릴라용)
+
+  - 메리츠화재
 
 ## 로고송
 

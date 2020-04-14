@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MGR-1 ](https://ko.wikipedia.org/wiki/MGR-1_).
+> This article is converted from Wikipedia: [MGR-1 어네스트존](https://ko.wikipedia.org/wiki/MGR-1_어네스트존).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:MGR-1_Honest_John_rocket.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:Demonstration_cluster_bomb.jpg "wikilink") **어네스트존**(Honest John) 로켓은 미국 최초의 핵공격 가능한 지대지 로켓이다. 최초발사는 1951년, 실전배치는 1953년 1월에 있었다. [W31 핵탄두가](https://ko.wikipedia.org/wiki/W31_핵탄두 "wikilink") 장착되며, 1960년대 후반에는 [사린 신경 가스](../Page/사린.md "wikilink") 탄두가 장착되었다.[1](http://www.tpub.com/content/decontaminationequipment/TM-9-1300-2753/css/TM-9-1300-2753_18.htm)

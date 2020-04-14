@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G. ](https://ko.wikipedia.org/wiki/_G._).
+> This article is converted from Wikipedia: [케네스 G. 윌슨](https://ko.wikipedia.org/wiki/케네스_G._윌슨).
 
 
 **케네스 게즈 윌슨**(, [1936년](../Page/1936년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [이론 물리학자이다](https://ko.wikipedia.org/wiki/이론물리학자 "wikilink").

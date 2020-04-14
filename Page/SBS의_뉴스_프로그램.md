@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
+> This article is converted from Wikipedia: [SBS의 뉴스 프로그램](https://ko.wikipedia.org/wiki/SBS의_뉴스_프로그램).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:SBS_News_logo.png "wikilink") **[SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 뉴스 프로그램**은 다음과 같다.
@@ -127,7 +127,7 @@
 
 ### [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
 
-매 정시 뉴스는 아침 6시부터 밤 10시(주말에는 오전 9시부터 저녁 8시)까지 방송되며 분량은 5분이다.
+[매 정시 뉴스는](https://ko.wikipedia.org/wiki/SBS_뉴스_\(라디오_프로그램\) "wikilink") 아침 6시부터 밤 10시(주말에는 오전 9시부터 저녁 8시)까지 방송되며 분량은 5분이다.
 
   - [SBS 낮 종합뉴스](../Page/SBS_낮_종합뉴스.md "wikilink") : 평일 오후 2시에 방영 (20분)
   - [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") : 매일 저녁 8시에 방영 (30분)

@@ -16,33 +16,33 @@
 ## 수록곡
 
 1.  Prologue (Drum\&Bass)
-      - 작사 : [이효리](../Page/이효리.md "wikilink") / 작곡 : 이효리 / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink")
+      - 작사 : [이효리](../Page/이효리.md "wikilink") / 작곡 : [이효리](../Page/이효리.md "wikilink") / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink")
 2.  One two three N' four
-      - 작사 : 김영아 / 작곡 : 김도현 / 편곡 : 김도현
+      - 작사 : 김영아 / 작곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink") / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink")
 3.  바보처럼 (Sadness)
-      - 작사 : 홍지유 / 작곡 : John+K / 편곡 : John+K
+      - 작사 : 홍지유 / 작곡 : John K / 편곡 : John K
 4.  10 MINUTES
-      - 작사 : [김은지](../Page/메이비_\(가수\).md "wikilink") / 작곡 : 김도현 / 편곡 : 김도현
+      - 작사 : [메이비](../Page/메이비_\(가수\).md "wikilink") / 작곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink") / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink")
 5.  얼음
-      - 작사 : [원태연](../Page/원태연.md "wikilink") / 작곡 : [윤일상](../Page/윤일상.md "wikilink") / 편곡 : 윤일상
+      - 작사 : [원태연](../Page/원태연.md "wikilink") / 작곡 : [윤일상](../Page/윤일상.md "wikilink") / 편곡 : [윤일상](../Page/윤일상.md "wikilink")
 6.  이브, 낙원에 잠들다
-      - 작사 : 김영아 / 작곡 : [김석찬](https://ko.wikipedia.org/wiki/더_준 "wikilink") / 편곡 : 김석찬
+      - 작사 : 김영아 / 작곡 : [김석찬](https://ko.wikipedia.org/wiki/더_준 "wikilink") / 편곡 : 윤현성
 7.  Remember Me
-      - 작사 : 김은지 / 작곡 : 김건우 / 편곡 : 김건우
+      - 작사 : [메이비](../Page/메이비_\(가수\).md "wikilink") / 작곡 : 김건우 / 편곡 : 김건우
 8.  오늘따라
-      - 작사 : [조규만](../Page/조규만.md "wikilink") / 작곡 : 조규만 / 편곡 : 조규만
+      - 작사 : [조규만](../Page/조규만.md "wikilink") / 작곡 : [조규만](../Page/조규만.md "wikilink") / 편곡 : [조규만](../Page/조규만.md "wikilink")
 9.  Do Me
-      - 작사 : [이현도](../Page/이현도.md "wikilink") / 작곡 : 이현도 / 편곡 : 이현도
+      - 작사 : [이현도](../Page/이현도.md "wikilink") / 작곡 : [이현도](../Page/이현도.md "wikilink") / 편곡 : [이현도](../Page/이현도.md "wikilink")
 10. Hey Girl
-      - 작사 : 이효리 / 작곡 : 김도현 / 작곡 : 김도현
+      - 작사 : [이효리](../Page/이효리.md "wikilink") / 작곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink") / 작곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink")
 11. 지워버려
       - 작사 : 김지웅 / 작곡 : 김지웅 / 편곡 : 김지웅
 12. 어느 째즈바
-      - 작사 : 한진우 / 작곡 : [안정훈](../Page/안정훈_\(작곡가\).md "wikilink") / 편곡 : Mad Soul Child
+      - 작사 : 한진우 / 작곡 : [안정훈](../Page/안정훈_\(작곡가\).md "wikilink") / 편곡 : [매드 소울 차일드](https://ko.wikipedia.org/wiki/매드_솔_차일드 "wikilink")
 13. Only One
-      - 작사 : 이효리 / 작곡 : 김형섭 / 편곡 : 김도현
+      - 작사 : [이효리](../Page/이효리.md "wikilink") / 작곡 : 류형섭 / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink")
 14. 미안해요 (Ghost)
-      - 작사 : 이효리 / 작곡 : 안정훈 / 편곡 : 안정훈, 김지웅
+      - 작사 : [이효리](../Page/이효리.md "wikilink") / 작곡 : 안정훈 / 편곡 : 안정훈, 김지웅
 
 ## 뮤직비디오
 

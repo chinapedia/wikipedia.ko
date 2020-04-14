@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A-10  II](https://ko.wikipedia.org/wiki/A-10__II).
+> This article is converted from Wikipedia: [A-10 선더볼트 II](https://ko.wikipedia.org/wiki/A-10_선더볼트_II).
 
 
 **A-10 썬더볼트 II**()는 단좌형, 두 개의 엔진, 직선날개를 가진 미국의 제트 비행기로 페어차일드 사에서 만들었고 [미국 공군의](../Page/미국_공군.md "wikilink") [근접항공지원](https://ko.wikipedia.org/wiki/근접항공지원 "wikilink") 항공기로 탱크나 기계화부대, 다른 지상에 있는 목표물들을 최소 고도로 날아가면서 공격할 수 있는 능력이 있다. 최대이륙중량 23톤으로 [F/A-18](https://ko.wikipedia.org/wiki/F/A-18 "wikilink")과 같은 무게이며, [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink")(19톤)보다 무겁다.

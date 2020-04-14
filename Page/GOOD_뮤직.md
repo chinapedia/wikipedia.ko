@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GOOD ](https://ko.wikipedia.org/wiki/GOOD_).
+> This article is converted from Wikipedia: [GOOD 뮤직](https://ko.wikipedia.org/wiki/GOOD_뮤직).
 
 
 **굿 뮤직**(G.O.O.D. Music)은 2004년 **칸예 웨스트**(Kanye West)에 의해 설립된 미국의 [레코드 레이블이다](../Page/레코드_레이블.md "wikilink"). 굿 뮤직은 **아일랜드 데프 잼**(The Island Def Jam Music Group) 산하 레이블이다. 굿 뮤직의 미국 내 배급사는 **데프 잼 레코딩즈**(Def Jam Recordings)며 미국 외 배급사는 **머큐리 레코즈**(Mercury Records)다. **G.O.O.D. Music**의 “**G.O.O.D.**”은 “**G**etting **O**ut **O**ur **D**reams.”을 의미한다.

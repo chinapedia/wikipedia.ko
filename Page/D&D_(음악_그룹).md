@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D\&D \( \)](https://ko.wikipedia.org/wiki/D\&D_\(_\)).
+> This article is converted from Wikipedia: [D\&D \(음악 그룹\)](https://ko.wikipedia.org/wiki/D\&D_\(음악_그룹\)).
 
 
 **D\&D**는 1990년대 말, [일본](../Page/일본.md "wikilink")에서 활동하던 여성 그룹이다. 멤버는 [오키나와](../Page/오키나와현.md "wikilink") 출신의 [OLIVIA](../Page/OLIVIA.md "wikilink")와 CHIKA, AYA 3명이며 D\&D라는 이름은 "Dance & Dream"의 줄임말로 [J-Pop](https://ko.wikipedia.org/wiki/J-Pop "wikilink")과 [유로비트](../Page/유로비트.md "wikilink")를 접목한 음악으로 인기를 끌었다. 1999년 올리비아가 솔로로 독립하여 나가자 아야와 치카는 “Aya & Chika from D\&D”라는 이름으로 2장의 싱글을 발표하였으나 3번째 싱글의 계획이 취소된 후 그룹을 해산하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SEPECAT ](https://ko.wikipedia.org/wiki/SEPECAT_).
+> This article is converted from Wikipedia: [SEPECAT 재규어](https://ko.wikipedia.org/wiki/SEPECAT_재규어).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Jaguar_DF-SD-05-05511.JPEG "wikilink") **재규어 전투기**는 [영국](../Page/영국.md "wikilink")과 [프랑스](../Page/프랑스.md "wikilink")가 공동 개발한 전투기이다.

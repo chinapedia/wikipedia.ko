@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A-7  II](https://ko.wikipedia.org/wiki/A-7__II).
+> This article is converted from Wikipedia: [A-7 콜세어 II](https://ko.wikipedia.org/wiki/A-7_콜세어_II).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:A-7B_Corsair_II_VA-305.jpg "wikilink") 비행대대의 A-7B 콜세어 II\]\] **A-7 콜세어 II**는 최대이륙중량 19톤인 미국의 항공모함 탑재용 공격기이다. 최대이륙중량 11톤인 [A-4 스카이호크를](https://ko.wikipedia.org/wiki/A-4_스카이호크 "wikilink") 대체하였다. A-7의 생산라인은 [1983년](../Page/1983년.md "wikilink")에 폐쇄되어 더 이상 생산하지 않고 있으며, 현재 미해군의 콜세어 II 전부 퇴역했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 2TV ](https://ko.wikipedia.org/wiki/_2TV_).
+> This article is converted from Wikipedia: [한국방송공사 2TV 아침드라마](https://ko.wikipedia.org/wiki/한국방송공사_2TV_아침드라마).
 
 
 **한국방송공사 아침드라마**는 [1983년](../Page/1983년.md "wikilink") [9월 5일부터](../Page/9월_5일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [1월 18일까지](../Page/1월_18일.md "wikilink") 방영된 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 폐지 이후, [2019년](../Page/2019년.md "wikilink") [1월 21일부터](../Page/1월_21일.md "wikilink") 현재 아침드라마 시간대에는 [KBS 1TV 저녁일일극](../Page/한국방송공사_1TV_일일연속극.md "wikilink") 전일 방영분 위주로 재방송 중이다.
@@ -8,7 +8,7 @@
 ## 시보 광고주
 
   - [LG생활건강](../Page/LG생활건강.md "wikilink") - 노비드, 드봉비누, 자연퐁
-  - [만도위니아](https://ko.wikipedia.org/wiki/만도위니아 "wikilink")
+  - [만도위니아](../Page/위니아대우.md "wikilink")
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink") 아침 9시 시보
   - [쿠첸](https://ko.wikipedia.org/wiki/쿠첸 "wikilink")
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")

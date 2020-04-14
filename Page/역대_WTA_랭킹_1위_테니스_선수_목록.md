@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ WTA  1   ](https://ko.wikipedia.org/wiki/_WTA__1___).
+> This article is converted from Wikipedia: [역대 WTA 랭킹 1위 테니스 선수 목록](https://ko.wikipedia.org/wiki/역대_WTA_랭킹_1위_테니스_선수_목록).
 
 
 [오른쪽는](https://ko.wikipedia.org/wiki/파일:Steffi_Graf_Farewell_World_Tour_2000_trim.jpg "wikilink") 역대 여자 선수들 중 가장 오랜 기간동안 [WTA](../Page/여자_테니스_협회.md "wikilink") 세계 랭킹 1위를 기록했다.(377주)\]\] 다음의 **역대 [WTA](../Page/여자_테니스_협회.md "wikilink") 랭킹 1위 테니스 선수 목록**은 과거 세계 랭킹 1위를 했거나 현재 1위를 하고 있는 선수들의 국적 및 이름을 랭킹 1위를 기록한 시작일 및 종료일과 함께 담고 있다. WTA가 랭킹 산정을 전산화한 1975년 11월 3일 이후 19명의 여자 선수가 세계 랭킹 1위를 기록하였다. WTA는 선수들이 작년 대회 대비 올해 최근 대회에서 얻은 포인트에 따라 각 선수들의 [랭킹 포인트를](https://ko.wikipedia.org/wiki/#포인트_배정 "wikilink") 결산하여 매주 발표하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QTV \( \)](https://ko.wikipedia.org/wiki/QTV_\(_\)).
+> This article is converted from Wikipedia: [QTV \(텔레비전 채널\)](https://ko.wikipedia.org/wiki/QTV_\(텔레비전_채널\)).
 
 
 **QTV**는 대한민국의 케이블 방송 채널로, [1995년](../Page/1995년.md "wikilink") 다큐멘터리 채널이었던 Q채널이 전신이다. JMNET의 자회사인 IS PLUS 방송부문과 글로벌 미디어 그룹 타임워너의 자회사인 터너 브로드캐스팅 시스템의 조인트 벤처 채널로 재정비되면서 [2009년](../Page/2009년.md "wikilink") [7월 11일부터](../Page/7월_11일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [2월 29일까지](../Page/2월_29일.md "wikilink") 론칭이 되었다. 현재 자제 프로그램과 국내 지상파와 해외에서 방송했던 예능 프로그램을 주로 방송을 하고 있다. [2016년](../Page/2016년.md "wikilink") [3월 1일부터](../Page/3월_1일.md "wikilink") 연예 전문 채널 [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")로 재개국하였다.

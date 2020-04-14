@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(LHD-2\)](https://ko.wikipedia.org/wiki/USS__\(LHD-2\)).
+> This article is converted from Wikipedia: [USS 에식스 \(LHD-2\)](https://ko.wikipedia.org/wiki/USS_에식스_\(LHD-2\)).
 
 
 **USS 에식스 (LHD-2)**는 [미국 해군에서](../Page/미국_해군.md "wikilink") 운용중인 [와스프급 강습상륙함의](../Page/와스프급_강습상륙함.md "wikilink") 2번함이다. LHD는 헬리콥터와 도크가 있다는 뜻으로 공기부양정 3대 이상과 헬리콥터를 탑재할 수 있을 때 LHD로 명명된다. 갑판이 직사각형의 형태로 되어 있으며, 수직 이착륙기를 탑재할 수 있고 LCAC나 [LCU같은](https://ko.wikipedia.org/wiki/상륙용_주정_장비 "wikilink") 상륙정을 3대 탑재할 수 있다. 또한 600개의 병상이 있는 치료실이 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(DC \)](https://ko.wikipedia.org/wiki/__\(DC_\)).
+> This article is converted from Wikipedia: [포이즌 아이비 \(DC 코믹스\)](https://ko.wikipedia.org/wiki/포이즌_아이비_\(DC_코믹스\)).
 
 
 **포이즌 아이비**는 미국 만화 [DC 코믹스에](../Page/DC_코믹스.md "wikilink") 등장하는 [악당](https://ko.wikipedia.org/wiki/악당 "wikilink")으로 [배트맨](../Page/배트맨.md "wikilink")의 적수로 자주 나타난다. [로버트 캐니거와](https://ko.wikipedia.org/wiki/로버트_캐니거 "wikilink") [셸든 몰도프가](https://ko.wikipedia.org/wiki/셸든_몰도프 "wikilink") 창작한 인물로 [배트맨](https://ko.wikipedia.org/wiki/배트맨_\(만화책\) "wikilink") 181호에 처음 나왔다.\[1\] 포이즌 아이비는 배트맨이 가장 덤비기 힘든 적 중 한 명으로 묘사되고 있다.

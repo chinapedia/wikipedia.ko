@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC    ](https://ko.wikipedia.org/wiki/:FC____).
+> This article is converted from Wikipedia: [틀:FC 인테르나치오날레 밀라노 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_인테르나치오날레_밀라노_선수_명단).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T-6  II](https://ko.wikipedia.org/wiki/T-6__II).
+> This article is converted from Wikipedia: [T-6 텍산 II](https://ko.wikipedia.org/wiki/T-6_텍산_II).
 
 
 **T-6 텍산 II**는 레이시온에서 제작한 단발엔진 터보프롭 비행기이다. 현재는 [호커 비치크래프트에서](https://ko.wikipedia.org/wiki/호커_비치크래프트 "wikilink") 제작한다. 미국 공군의 초등훈련기이다. 미국 공군의 [T-37 트윗](../Page/세스나_T-37.md "wikilink"), 미국 해군의 [T-34C Turbo Mentor](https://ko.wikipedia.org/wiki/T-34_Mentor "wikilink") 초등훈련기를 대체했다. 캐나다, 독일, 그리스에서도 초등훈련기로 사용하고 있다. 스위스의 [필라투스 PC-9](../Page/필라투스_PC-9.md "wikilink") 비행기를 미국에서 개조한 것이다.

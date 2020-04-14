@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [한국방송공사 TV 소설](https://ko.wikipedia.org/wiki/한국방송공사_TV_소설).
 
 
 **한국방송공사 TV 소설**은 [1987년](../Page/1987년.md "wikilink") [3월 2일부터](../Page/3월_2일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [8월 31일까지](../Page/8월_31일.md "wikilink") 방송했던 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 기획 의도
 
-탁월한 전달하기 위해, TV 영상 장르와 소설의 섬세한 묘사력을 접목하여, 아침 시간대 주부들의 한 편의 수필이나 소설 낭독을 듣는 것처럼, 새로운 형태의 TV 소설에 밝힌 것이며, 실제와 가상 토대로 만든다.
+탁월한 전달을 위해, TV 영상 장르와 소설의 섬세한 묘사력을 접목하여, 아침 시간대 주부들의 한 편의 수필이나 소설 낭독을 듣는 것처럼, 새로운 형태의 TV 소설에 밝힌 것이며, 실제와 가상 토대로 만든다.
 
 ## 방송 시간
 
@@ -60,7 +60,7 @@
 
 ### 2000년대 후반
 
-  - 《[바람꽃](../Page/바람꽃.md "wikilink")》 : 2005년 1월 31일 \~ 2005년 8월 27일
+  - 《[바람꽃](https://ko.wikipedia.org/wiki/바람꽃_\(드라마\) "wikilink")》 : 2005년 1월 31일 \~ 2005년 8월 27일
   - 《[고향역](../Page/고향역.md "wikilink")》 : 2005년 8월 29일 \~ 2006년 3월 18일
   - 《[강이 되어 만나리](../Page/강이_되어_만나리.md "wikilink")》 : 2006년 3월 20일 \~ 2006년 11월 4일
   - 《[순옥이](../Page/순옥이.md "wikilink")》 : 2006년 11월 6일 \~ 2007년 4월 28일

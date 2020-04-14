@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CRH2](https://ko.wikipedia.org/wiki/_CRH2).
+> This article is converted from Wikipedia: [중국고속철도 CRH2](https://ko.wikipedia.org/wiki/중국고속철도_CRH2).
 
 
 **CRH2형 전철**()은 [중화인민공화국](../Page/중화인민공화국.md "wikilink") 철도부의 제6차 재래선 증속 계획을 위해 일본의 [가와사키 중공업에서](../Page/가와사키_중공업.md "wikilink") 구입한 고속 철도차량이다. 애칭은 〈총알〉이라는 뜻의 〈자탄두〉이며, 모든 CRH 차량은 화목함호로 불리고 있다.\[1\]

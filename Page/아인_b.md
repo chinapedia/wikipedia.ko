@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ b](https://ko.wikipedia.org/wiki/_b).
+> This article is converted from Wikipedia: [아인 b](https://ko.wikipedia.org/wiki/아인_b).
 
 
 **아인 b**는 [지구](../Page/지구.md "wikilink")로부터 155광년 떨어진 곳에 있는 [아인](../Page/아인.md "wikilink")을 돌고 있는, [외계 행성이다](../Page/외계_행성.md "wikilink"). 보통 [바이어 명명법에](../Page/바이어_명명법.md "wikilink") 따라 **황소자리 엡실론 b**로 표시한다. 아인 b의 질량은 최소 목성의 7.6배로, [슈퍼목성](https://ko.wikipedia.org/wiki/슈퍼목성 "wikilink")의 반열에 들어간다. 어머니 항성으로부터의 거리는 [태양](../Page/태양.md "wikilink") \~ [화성](../Page/화성.md "wikilink") 거리보다 조금 더 먼 정도이다.

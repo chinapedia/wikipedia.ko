@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [    \~YAMATO2520\~](https://ko.wikipedia.org/wiki/____\~YAMATO2520\~).
+> This article is converted from Wikipedia: [내일의 너를 지키고 싶어 \~YAMATO2520\~](https://ko.wikipedia.org/wiki/내일의_너를_지키고_싶어_\~YAMATO2520\~).
 
 
 《**明日の君を守りたい 〜YAMATO2520〜**》는, [TOKIO](../Page/TOKIO.md "wikilink")의 두 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 설명
 
-  - 비디오 애니메이션〈YAMATO2520〉의 이미지 송으로 타이업 되었다.
+  - 비디오 [애니메이션](../Page/애니메이션.md "wikilink")〈YAMATO2520〉의 이미지 송으로 타이업 되었다.
   - TOKIO의 첫 번째 정규 앨범 《[TOKIO](https://ko.wikipedia.org/wiki/TOKIO_\(음반\) "wikilink")》에 먼저 수록되었고, 리컷되어 나왔다. 편곡이 약간 다르다.
   - 커플링 곡 〈〉는 P/V가 제작되어 《TOKIO in YAMATO2520 〜YAMATO2520 テーマソングス〜》에 수록되었다.
 

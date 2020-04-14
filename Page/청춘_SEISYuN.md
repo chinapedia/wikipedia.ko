@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SEISYuN](https://ko.wikipedia.org/wiki/_SEISYuN).
+> This article is converted from Wikipedia: [청춘 SEISYuN](https://ko.wikipedia.org/wiki/청춘_SEISYuN).
 
 
 《**青春 SEISYuN**》은 [2007년](../Page/2007년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") 발매된 [TOKIO](../Page/TOKIO.md "wikilink")의 38번째의 싱글이다.

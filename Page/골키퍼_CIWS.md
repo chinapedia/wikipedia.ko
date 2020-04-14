@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CIWS](https://ko.wikipedia.org/wiki/_CIWS).
+> This article is converted from Wikipedia: [골키퍼 CIWS](https://ko.wikipedia.org/wiki/골키퍼_CIWS).
 
 
 [섬네일에](https://ko.wikipedia.org/wiki/파일:Goalkeeper.jpg "wikilink") 장착된 골키퍼 CIWS\]\] **골키퍼 CIWS**는 네덜란드의 [CIWS](../Page/CIWS.md "wikilink")이다.

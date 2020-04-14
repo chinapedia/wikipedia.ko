@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Q](https://ko.wikipedia.org/wiki/Q).
+> This article is converted from Wikipedia: [미스터Q](https://ko.wikipedia.org/wiki/미스터Q).
 
 
 《**미스터Q**》는 [SBS에서](../Page/SBS_TV.md "wikilink") 제작,방영한 18부작 수목 드라마이다. [1998년](../Page/1998년.md "wikilink") [5월 20일부터](../Page/5월_20일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [7월 16일까지](../Page/7월_16일.md "wikilink") 방영했다. [허영만](../Page/허영만.md "wikilink")의 인기 만화를 원작으로, "라라" 패션회사를 배경으로 경쟁에서 패배한 낙오자로 여겨졌던 인물들이 자신의 숨겨져 있던 능력들을 발휘, 재기하는 성공스토리를 그려냈다. 주제곡인 **세상끝에서의 시작**은 [김민종](../Page/김민종.md "wikilink")이 불렀다.
@@ -86,6 +86,7 @@
   - [1998년](../Page/1998년.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") 우수연기상 [송윤아](../Page/송윤아.md "wikilink")
   - [1998년](../Page/1998년.md "wikilink") [SBS 연기대상](../Page/SBS_연기대상.md "wikilink") 남자 조연상 [권해효](../Page/권해효.md "wikilink")
   - [1999년](../Page/1999년.md "wikilink") 제35회 [백상예술대상](../Page/백상예술대상.md "wikilink") TV부분 인기상 [송윤아](../Page/송윤아.md "wikilink")
+  - [1998년](../Page/1998년.md "wikilink") 제25회 [한국방송대상](../Page/한국방송대상.md "wikilink") T프로듀서상 **장기홍**
 
 ## 참고 문헌
 

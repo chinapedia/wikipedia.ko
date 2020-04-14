@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ACM ](https://ko.wikipedia.org/wiki/ACM_).
+> This article is converted from Wikipedia: [ACM 멀티미디어](https://ko.wikipedia.org/wiki/ACM_멀티미디어).
 
 
 **ACM 멀티미디어**(, 줄여서 **ACM-MM**)은 [계산기 학회](https://ko.wikipedia.org/wiki/계산기_학회 "wikilink")(Association of Computing Machinery, ACM)의 연례 콘퍼런스 중하나이다. [멀티미디어](../Page/멀티미디어.md "wikilink") 분야를 다루고 있으며, [SIGMM](https://ko.wikipedia.org/wiki/SIGMM "wikilink") 스페셜 인터레스트 그룹이 후원하고 있다. 2003년, 웹사이트인 [사이트시어](https://ko.wikipedia.org/wiki/사이트시어 "wikilink")의 측정 결과 이 콘퍼런스의 추정 [피인용지수](../Page/피인용지수.md "wikilink")(임팩트 팩터)는 1.22였다. [전산학](https://ko.wikipedia.org/wiki/전산학 "wikilink") 논문 콘퍼런스 중에서는 상위 15% 내에 들어가는 결과였다.\[1\] 2006년, [오스트레일리아 전산학 연구 및 교육 협회](https://ko.wikipedia.org/wiki/오스트레일리아_전산학_연구_및_교육_협회 "wikilink")(Computing Research and Education Association of Australia)는 이 콘퍼런스에 평점 A+를 매겼다.\[2\]

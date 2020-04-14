@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [필립 W. 실러](https://ko.wikipedia.org/wiki/필립_W._실러).
 
 
 **필립 W. 실러**(, **필 실러**, 1960년 6월 8일 \~)은 [미국](../Page/미국.md "wikilink") 출신의 기업인이다. [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 부사장 직급으로 재직하고 있으며 월드와이드 [제품 마케팅](https://ko.wikipedia.org/wiki/제품_마케팅 "wikilink") 부문을 맡고 있다.\[1\] 그는 애플이 주관하는 각종 프레젠테이션에 자주 등장한다. 그는 [팀 쿡를](../Page/팀_쿡.md "wikilink") 직속 상관으로 두고 있으며, 1997년 스티브 잡스가 애플에 복귀 및 사망한 이후 로 계속 애플의 중역진(executive leadership team)에 소속되어 있다.

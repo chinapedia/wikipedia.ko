@@ -50,7 +50,7 @@
 
 ## 외부 링크
 
-  - [THYME OFFICIAL WEB SITE](http://www.thymeband.com/)
+  - [THYME OFFICIAL WEB SITE](https://web.archive.org/web/20170930192046/http://www.thymeband.com/)
   - [GENEON ENTERTAINMENT OFFICIAL WEB SITE](https://web.archive.org/web/20090306081912/http://www.geneon-ent.co.jp/)
   - [Smile Company web site](http://www.smile-co.co.jp/)
 

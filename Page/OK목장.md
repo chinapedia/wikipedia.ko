@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OK](https://ko.wikipedia.org/wiki/OK).
+> This article is converted from Wikipedia: [OK목장](https://ko.wikipedia.org/wiki/OK목장).
 
 
 《**OK목장**》은 [SBS](../Page/SBS.md "wikilink")에서 [1997년](../Page/1997년.md "wikilink") [3월 3일부터](../Page/3월_3일.md "wikilink") [1997년](../Page/1997년.md "wikilink") [5월 8일까지](../Page/5월_8일.md "wikilink") 방영한 [텔레비전 드라마로](../Page/텔레비전_드라마.md "wikilink"), OK목장의 4자매를 중심으로 한 시트콤인데 SBS가 뉴스 시간대를 8시에서 9시로 변경하면서 8시에 방송(월\~목 4회)됐다. 1회 방송분은 25분이었다. 한편, 방영 전의 캐스팅 문제도 있었으나\[1\] 억지웃음\[2\] 등으로 비난을 샀고 결국 1년을 넘기지 못했다.

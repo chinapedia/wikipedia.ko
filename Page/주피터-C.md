@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-C](https://ko.wikipedia.org/wiki/-C).
+> This article is converted from Wikipedia: [주피터-C](https://ko.wikipedia.org/wiki/주피터-C).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Jupiter-C_vs_Jupiter_IRBM.jpg "wikilink"), 주피터-C 로켓, [머큐리 레드스톤](https://ko.wikipedia.org/wiki/머큐리_레드스톤 "wikilink"), [쥬피터 IRBM](https://ko.wikipedia.org/wiki/쥬피터_IRBM "wikilink")\]\]

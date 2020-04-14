@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SSC ](https://ko.wikipedia.org/wiki/SSC_).
+> This article is converted from Wikipedia: [SSC 바리](https://ko.wikipedia.org/wiki/SSC_바리).
 
 
-**SSC 바리** (Società Sportiva Calcio Bari S.S.D. a r.l.)는 [이탈리아](../Page/이탈리아.md "wikilink")의 [바리를](../Page/바리_\(도시\).md "wikilink") 연고로 하는 축구 클럽으로, [1908년](../Page/1908년.md "wikilink")에 설립되었다.
+**SSC 바리**(Società Sportiva Calcio Bari S.S.D. a r.l.)는 [이탈리아](../Page/이탈리아.md "wikilink")의 [바리를](../Page/바리_\(도시\).md "wikilink") 연고로 하는 축구 클럽으로, [1908년](../Page/1908년.md "wikilink")에 설립되었다.
 
 이 팀은 [1930년대](../Page/1930년대.md "wikilink") \~ [1940년대](https://ko.wikipedia.org/wiki/1940년대 "wikilink")에는 [세리에 A](../Page/세리에_A.md "wikilink") 소속 팀으로 뛰었지만, 이후에는 연이어서 [세리에 A와](../Page/세리에_A.md "wikilink") [세리에 B를](../Page/세리에_B.md "wikilink") 왕래했고, [1974년](../Page/1974년.md "wikilink")에는 세리에 C로 강등되었다.
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C  ](https://ko.wikipedia.org/wiki/C__).
+> This article is converted from Wikipedia: [C 문자열 처리](https://ko.wikipedia.org/wiki/C_문자열_처리).
 
 
 C 프로그래밍 언어는 [표준 라이브러리에](../Page/표준_라이브러리.md "wikilink") [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink") 관련 명령을 구현하는 여러 함수들이 존재한다. 복사, [결합](https://ko.wikipedia.org/wiki/문자열_결합 "wikilink"), [토큰화](../Page/낱말_분석.md "wikilink"), 검색과 같은 다양한 명령이 지원된다. 문자열의 경우 표준 라이브러리는 문자열이 [널 종단된다는](../Page/널_종단_문자열.md "wikilink") 규칙을 사용한다: n개의 문자의 문자열은 n + 1 요소의 [배열](../Page/배열.md "wikilink")로 표현되며, 끝은 "NUL" 문자로 끝난다.

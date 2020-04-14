@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IP  ](https://ko.wikipedia.org/wiki/:IP__).
+> This article is converted from Wikipedia: [위키백과:IP 차단 면제](https://ko.wikipedia.org/wiki/위키백과:IP_차단_면제).
 
 
 위키백과에서 IP가 차단될 때, ‘익명 사용자만 차단’ 기능이 꺼진 경우 해당 IP를 이용하는 사용자들이 위키백과를 편집할 수 없게 됩니다. 이러한 차단이 이루어지는 이유는 해당 IP 뿐만 아니라 그 IP를 이용하여 로그인하는 사용자들의 편집까지 막아야 할 경우가 발생하기 때문입니다. 이 경우 위키백과를 차단하는 국가 등에서 공개 프록시를 사용해 접속하는 사용자나, 학교 등에서 다른 사람이 문서 훼손을 하여 차단된 경우 뜻하지 않게 편집을 못하는 상황이 발생할 수 있습니다. 이로 인한 선의의 피해자 발생을 방지하기 위하여 위키백과에는 **IP 차단 면제** 기능이 있습니다.

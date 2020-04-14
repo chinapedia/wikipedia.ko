@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dr. ](https://ko.wikipedia.org/wiki/Dr._).
+> This article is converted from Wikipedia: [Dr.코토 진료소](https://ko.wikipedia.org/wiki/Dr.코토_진료소).
 
 
 《**Dr.코토 진료소**》(, 닥터-)는 야마다 다카토시()의 만화, 또는 이를 원작으로 한 드라마이다.

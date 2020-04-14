@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Whatever \( \)](https://ko.wikipedia.org/wiki/Whatever_\(_\)).
+> This article is converted from Wikipedia: [Whatever \(오아시스의 노래\)](https://ko.wikipedia.org/wiki/Whatever_\(오아시스의_노래\)).
 
 
 〈**Whatever**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [오아시스](../Page/오아시스.md "wikilink")의 싱글로, 처음에는 밴드의 리드 기타리스트인 [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 썼다고 공인되어 있었으나, 그 후의 소송으로 인해 [닐 인즈가](https://ko.wikipedia.org/wiki/닐_인즈 "wikilink") 공동 작곡가로 이름을 올리게 되었다.

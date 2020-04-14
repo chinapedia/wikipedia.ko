@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GREEN \(TOKIO \)](https://ko.wikipedia.org/wiki/GREEN_\(TOKIO_\)).
+> This article is converted from Wikipedia: [GREEN \(TOKIO의 싱글\)](https://ko.wikipedia.org/wiki/GREEN_\(TOKIO의_싱글\)).
 
 
 《**GREEN**》는 [TOKIO](../Page/TOKIO.md "wikilink")의 26번째 싱글이다.

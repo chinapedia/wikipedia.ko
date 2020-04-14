@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+> This article is converted from Wikipedia: [CD 테네리페](https://ko.wikipedia.org/wiki/CD_테네리페).
 
 
 **클럽 데포르티보 테네리페**(Club Deportivo Tenerife)는 [카나리아 제도](../Page/카나리아_제도.md "wikilink") [테네리페 섬에](https://ko.wikipedia.org/wiki/테네리페_섬 "wikilink") 위치한 [산타크루스데테네리페](../Page/산타크루스데테네리페.md "wikilink")를 연고로 하는 [스페인](../Page/스페인.md "wikilink")의 축구 클럽이다.

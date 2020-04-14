@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  H.W.  \(CVN-77\)](https://ko.wikipedia.org/wiki/USS__H.W.__\(CVN-77\)).
+> This article is converted from Wikipedia: [USS 조지 H.W. 부시 \(CVN-77\)](https://ko.wikipedia.org/wiki/USS_조지_H.W._부시_\(CVN-77\)).
 
 
 **USS 조지 H.W. 부시 (CVN-77)**는 미국 해군의 [니미츠급 항공모함의](../Page/니미츠급_항공모함.md "wikilink") 10번째이자 마지막함이다. 다음에는 [제럴드 포드급 항공모함의](https://ko.wikipedia.org/wiki/제럴드_포드급_항공모함 "wikilink") 1번함 [제럴드포드함](https://ko.wikipedia.org/wiki/제럴드포드함 "wikilink")이 건조될 예정이다.

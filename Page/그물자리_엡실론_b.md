@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [그물자리 엡실론 b](https://ko.wikipedia.org/wiki/그물자리_엡실론_b).
 
 
 **그물자리 엡실론 b**는 [그물자리 엡실론을](../Page/그물자리_엡실론.md "wikilink") 돌고 있는 외계 행성이다. 보다 정확하게 표기하면 **그물자리 엡실론 Ab**인데, 이는 그물자리 엡실론이 실제로 두 개의 별로 이루어진 [쌍성계](https://ko.wikipedia.org/wiki/쌍성계 "wikilink")이며 b는 그 중 밝은 주성 A 주위를 돌고 있기 때문이다. 2000년 12월 16일 도플러 효과를 응용, 앵글로 오스트레일리안 행성 탐사팀이 발견했다. 최소 질량은 목성의 56퍼센트인데, 궤도경사각이 밝혀지지 않았기 때문에 정확한 질량은 아직까지는 알 수 없다.

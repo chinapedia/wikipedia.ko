@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GMB \(\)](https://ko.wikipedia.org/wiki/GMB_\(\)).
+> This article is converted from Wikipedia: [GMB \(노동조합\)](https://ko.wikipedia.org/wiki/GMB_\(노동조합\)).
 
 
 **GMB 노동조합**()은 [영국](../Page/영국.md "wikilink")의 산별노조급 [노동조합](../Page/노동조합.md "wikilink")이다. 조합원 수는 60만 명에 달한다. 조합원들은 여러 산업에 걸쳐 분포하고 있는데, 특히, 육체 노동 분야 및 지방 정부, 의료 서비스 부문에 많다. GMB 지부는 영국 내 50 대 기업 중 34 여 개의 기업에 조직되어 있다.

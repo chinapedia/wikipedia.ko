@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NXP ](https://ko.wikipedia.org/wiki/NXP_).
+> This article is converted from Wikipedia: [NXP 콜드파이어](https://ko.wikipedia.org/wiki/NXP_콜드파이어).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Hermstedt_Webshuttle_II_-_board_-_Motorola_Coldfire_MCF5204PU25B-0082.jpg "wikilink") **콜드파이어**(ColdFire)는 [모토로라](../Page/모토로라.md "wikilink")에서 분리된 [프리스케일 세미컨덕터에서](../Page/프리스케일_세미컨덕터.md "wikilink") [임베디드 시스템용으로](../Page/임베디드_시스템.md "wikilink") 개발된 68k 아키텍처 마이크로프로세서이다.

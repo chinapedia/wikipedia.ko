@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 뉴스](https://ko.wikipedia.org/wiki/BBC_뉴스).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:BBC_News_\(2008\).svg "wikilink") **BBC 뉴스**(BBC News)는 영국 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")가 제작하는 보도 프로그램의 총칭이다. 대체로 "BBC NEWS"이라는 제목으로 방송한다.

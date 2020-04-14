@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [북쪽왕관자리 카파 b](https://ko.wikipedia.org/wiki/북쪽왕관자리_카파_b).
 
 
 **북쪽왕관자리 카파 b**는 [북쪽왕관자리](../Page/북쪽왕관자리.md "wikilink") 방향으로 지구로부터 약 102 [광년](../Page/광년.md "wikilink") 떨어진 곳에 있는 항성 [북쪽왕관자리 카파](https://ko.wikipedia.org/wiki/북쪽왕관자리_카파 "wikilink") 주위를 도는, [외계 행성이다](../Page/외계_행성.md "wikilink"). 질량상 목성형 행성으로 볼 수 있다. 존슨 연구진이 도플러 분광법을 이용, 항성이 행성체의 중력으로 떨림을 발견하여 이 행성의 존재를 입증했다. 2007년 9월 발견했으며 같은 해 11월에 공식 발표하였다.

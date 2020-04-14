@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [델타 II](https://ko.wikipedia.org/wiki/델타_II).
 
 
 **델타 II**는 원래 미국의 [맥도넬 더글라스가](https://ko.wikipedia.org/wiki/맥도넬_더글라스 "wikilink") 설계하고 제작한 발사체이다. ULA에서 제작했었는데, 2006년 12월 1일의 사고 이후 지금은 [보잉](../Page/보잉.md "wikilink")에서 제작한다.\[1\]\[2\]

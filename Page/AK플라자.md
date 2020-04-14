@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AK](https://ko.wikipedia.org/wiki/AK).
+> This article is converted from Wikipedia: [AK플라자](https://ko.wikipedia.org/wiki/AK플라자).
 
 
 **AK플라자**(AK PLAZA)는 [대한민국](../Page/대한민국.md "wikilink")의 [백화점](../Page/백화점.md "wikilink")이며, [애경그룹](../Page/애경그룹.md "wikilink")의 주요 계열사 중 하나이다. [2019년](../Page/2019년.md "wikilink") 현재 4개의 지점과 3개의 쇼핑몰을 운영하며, 지점위치는 원주점, AK& 홍대점, 세종점 을 제외한 나머지 지점과 쇼핑몰은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")에 위치하고, 원주점을 제외한 나머지 지점은 [지하철](../Page/지하철.md "wikilink"), [철도와](https://ko.wikipedia.org/wiki/기차 "wikilink") 바로 연결되는 민자역사이다.

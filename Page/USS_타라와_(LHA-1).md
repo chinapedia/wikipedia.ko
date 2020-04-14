@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(LHA-1\)](https://ko.wikipedia.org/wiki/USS__\(LHA-1\)).
+> This article is converted from Wikipedia: [USS 타라와 \(LHA-1\)](https://ko.wikipedia.org/wiki/USS_타라와_\(LHA-1\)).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:USS_Tarawa_operations.jpg "wikilink") 헬기와 해병대를 실은 상륙정이 쿠웨이트로 출발하고 있다\]\]

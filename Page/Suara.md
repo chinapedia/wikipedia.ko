@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Suara](https://ko.wikipedia.org/wiki/Suara).
 
 
-**Suara(스아라 혹은 수아라, 1979년 8월 3일 - )**는, [오사카부](../Page/오사카부.md "wikilink") 출신의 여성 가수이다. 본명은 「타츠미 아키코(巽 明子)」로, Suara는 작사, 작곡시의 예명이다.
+**Suara(스아라 혹은 수아라, 1979년 8월 3일 - )**는 [오사카부](../Page/오사카부.md "wikilink") 출신의 여성 가수이다. 본명은 「타츠미 아키코(巽 明子)」로, Suara는 작사, 작곡시의 예명이다.
 
 ## 개요
 

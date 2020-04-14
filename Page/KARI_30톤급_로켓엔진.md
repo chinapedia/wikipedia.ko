@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KARI 30 ](https://ko.wikipedia.org/wiki/KARI_30_).
+> This article is converted from Wikipedia: [KARI 30톤급 로켓엔진](https://ko.wikipedia.org/wiki/KARI_30톤급_로켓엔진).
 
 
 **KARI 30톤급 로켓엔진**(KRE-030)은 [한국항공우주연구원](../Page/한국항공우주연구원.md "wikilink")에서 개발한 진공추력 30톤급 액체 로켓 엔진으로, 엔진수준의 제작은 이루어지지 않았고 단품수준 즉, 연소기, 가스발생기, 터보펌프의 제작/성능시험을 완료하고 터보펌프와 가스발생기를 조합한 파워팩 성능시험을 마치고 종료하였다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PC-9](https://ko.wikipedia.org/wiki/_PC-9).
+> This article is converted from Wikipedia: [필라투스 PC-9](https://ko.wikipedia.org/wiki/필라투스_PC-9).
 
 
 **필라투스 PC-9**는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [필라투스](https://ko.wikipedia.org/wiki/필라투스 "wikilink")에서 제작한 단발엔진, 2인승 터보프롭 훈련기이다.

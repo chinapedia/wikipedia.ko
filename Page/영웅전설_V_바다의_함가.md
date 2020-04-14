@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V  ](https://ko.wikipedia.org/wiki/_V__).
+> This article is converted from Wikipedia: [영웅전설 V 바다의 함가](https://ko.wikipedia.org/wiki/영웅전설_V_바다의_함가).
 
 
 《**영웅전설 V 바다의 함가**》(英雄傳說 V 바다의 檻歌, , The Legend of Heroes V - A Cagesong of the Ocean)는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 만든 [1999년](../Page/1999년.md "wikilink") 출시한 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). 이 게임은 [영웅전설](https://ko.wikipedia.org/wiki/영웅전설 "wikilink") 가가브 트릴로지 시리즈(영웅전설 "**[III](../Page/영웅전설_III_하얀마녀.md "wikilink")**", "**[IV](../Page/영웅전설_IV_주홍물방울.md "wikilink")**", "**[V](../Page/영웅전설_V_바다의_함가.md "wikilink")**")의 세 번째 게임이다.

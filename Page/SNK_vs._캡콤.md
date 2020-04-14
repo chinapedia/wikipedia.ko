@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNK vs. ](https://ko.wikipedia.org/wiki/SNK_vs._).
+> This article is converted from Wikipedia: [SNK vs. 캡콤](https://ko.wikipedia.org/wiki/SNK_vs._캡콤).
 
 
 **캡콤 대 SNK**(캡콤 vs. SNK)에 대해 설명한다.

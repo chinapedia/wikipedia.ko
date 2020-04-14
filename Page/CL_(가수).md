@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CL \(\)](https://ko.wikipedia.org/wiki/CL_\(\)).
+> This article is converted from Wikipedia: [CL \(가수\)](https://ko.wikipedia.org/wiki/CL_\(가수\)).
 
 
 **CL**(본명:</small> **이채린**, 李彩麟, [1991년](../Page/1991년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink"), [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 걸 그룹 [2NE1](../Page/2NE1.md "wikilink")의 리더였다. 대표곡으로는 "나쁜 기집애", "멘붕", "hello bitches" 등이 있다.

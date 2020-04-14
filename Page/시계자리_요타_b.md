@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [시계자리 요타 b](https://ko.wikipedia.org/wiki/시계자리_요타_b).
 
 
 **시계자리 요타 b** 또는 **HR 810 b**는 [시계자리](../Page/시계자리.md "wikilink") 방향으로 지구로부터 약 50광년 떨어진 곳에 있는 외계 행성이다. b의 최소 질량은 목성의 2.24배 수준이지만, 공전궤도 경사각에 따라 이 값은 늘어날 수 있다. 초기 측성학적 연구 자료에 따르면 b의 질량은 목성의 24배 수준까지 예측되기도 했는데, 이는 [갈색 왜성](https://ko.wikipedia.org/wiki/갈색_왜성 "wikilink") 수준이다. b는 어머니 항성의 [생명체 거주가능 영역](../Page/생명체_거주가능_영역.md "wikilink") 내를 공전하는 것으로 알려진 최초의 외계 행성이다.

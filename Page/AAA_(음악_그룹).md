@@ -1,7 +1,9 @@
-> This article is converted from Wikipedia: [AAA \( \)](https://ko.wikipedia.org/wiki/AAA_\(_\)).
+> This article is converted from Wikipedia: [AAA \(음악 그룹\)](https://ko.wikipedia.org/wiki/AAA_\(음악_그룹\)).
 
 
-[250px](https://ko.wikipedia.org/wiki/파일:AAA_LOGO_1.svg "wikilink") [250px](https://ko.wikipedia.org/wiki/파일:AAA_LOGO_2.svg "wikilink") **AAA**(, **Attack All Around**)는 5명의 멤버로 구성된 일본의 혼성 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 에이벡스 (avex trax) 소속. [2005년](../Page/2005년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink"), [싱글](../Page/싱글_\(음악\).md "wikilink") 《BLOOD on FlRE》로 데뷔했다.
+[250px](https://ko.wikipedia.org/wiki/파일:AAA_LOGO_2.svg "wikilink") [250px](https://ko.wikipedia.org/wiki/파일:AAA_LOGO_1.svg "wikilink")
+
+**AAA**(, **Attack All Around**)는 5명의 멤버로 구성된 일본의 혼성 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 에이벡스 (avex trax) 소속. [2005년](../Page/2005년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink"), [싱글](../Page/싱글_\(음악\).md "wikilink") 《BLOOD on FlRE》로 데뷔했다.
 그룹의 정식 명칭인 Attack All Around는 “모든 것에 도전한다”라는 의미가 담겨있다.
 
 ## 멤버

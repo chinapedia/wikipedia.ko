@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DeNA  \(2\)](https://ko.wikipedia.org/wiki/_DeNA__\(2\)).
+> This article is converted from Wikipedia: [요코하마 DeNA 베이스타스 \(2군\)](https://ko.wikipedia.org/wiki/요코하마_DeNA_베이스타스_\(2군\)).
 
 
 **요코하마 DeNA 베이스타스**(, Yokohama DeNA BayStars)의 **2군 팀**은 [일본](../Page/일본.md "wikilink")의 프로 [야구](../Page/야구.md "wikilink") 구단 이며, [요코하마 DeNA 베이스타스](../Page/요코하마_DeNA_베이스타스.md "wikilink") 계열의 구단이다. [이스턴 리그](../Page/이스턴_리그.md "wikilink") 구단 중의 하나이며 [2000년](../Page/2000년.md "wikilink")부터 [2010년](../Page/2010년.md "wikilink") 시즌 종료까지는 **쇼난 시렉스**(, Shonan Searex)라는 팀 이름으로 활동하고 있었다.

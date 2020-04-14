@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dark Angel \(\)](https://ko.wikipedia.org/wiki/Dark_Angel_\(\)).
+> This article is converted from Wikipedia: [Dark Angel \(음반\)](https://ko.wikipedia.org/wiki/Dark_Angel_\(음반\)).
 
 
 《**Dark Angel**》은 대한민국의 가수 [이효리](../Page/이효리.md "wikilink")의 두 번째 정규 음반으로, 2006년 2월 9일 발매되었다. 총 13곡의 트랙으로 구성되어 있고, 전체 러닝타임은 46분 42초다.
@@ -22,29 +22,29 @@
 ## 수록곡
 
 1.  Get Ya'
-      - 작사 : MayBee / 작곡 : 김도현 / 편곡 : 김도현
+      - 작사 : [메이비](../Page/메이비_\(가수\).md "wikilink") / 작곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink") / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink")
 2.  깊이
-      - 작사 : 윤사라 / 작곡 : Mad Soul Child / 편곡 : Mad Soul Child / Feat. 서정환
+      - 작사 : 윤사라 / 작곡 : [매드 소울 차일드](https://ko.wikipedia.org/wiki/매드_솔_차일드 "wikilink") / 편곡 : [매드 소울 차일드](https://ko.wikipedia.org/wiki/매드_솔_차일드 "wikilink") / Feat. 서정환
 3.  Straight Up
-      - 작사 : Maybee / 작곡 : Cyntbia Loving, Jermaine Dupri, Bryan Cox / 편곡 : 김도현
+      - 작사 : [메이비](../Page/메이비_\(가수\).md "wikilink") / 작곡 : / 편곡 :
 4.  Dark Angel
-      - 작사 : 최갑원 / 작곡 : 김도현 / 편곡 : 김도현
+      - 작사 : [메이비](../Page/메이비_\(가수\).md "wikilink") / 작곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink") / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink")
 5.  Dear Boy
-      - 작사 : 이동수, 상원 / 작곡 : 상원 (the Anomi Soul) / 편곡 : 상원 (the Anomi Soul)
+      - 작사 : 이동수, 한상원 / 작곡 : 한상원 / 편곡 : 한상원
 6.  겨울시선
       - 작사 : 윤경 / 작곡 : 이병준 / 편곡 : 이병준
 7.  Closer
-      - 작사 : 이효리 / 작곡 : DMA / 편곡 : DMA
+      - 작사 : [이효리](../Page/이효리.md "wikilink") / 작곡 : DMA / 편곡 : DMA
 8.  훔쳐보기 (M.A.R.S remix)
-      - 작사 : 임성은 / 작곡 : 신인수 / 편곡 : 김도현 / Feat. Sunny (Shyne)
+      - 작사 : 임성은 / 작곡 : 신인수 / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink") / Feat. Sunny (Shyne)
 9.  Shall We Dance?
-      - 작사 : Maybee / 작곡 : 김도현 / 편곡 : 김도현 / Feat. David
+      - 작사 : [메이비](../Page/메이비_\(가수\).md "wikilink") / 작곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink") / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink") / Feat. David
 10. 노예
       - 작사, 작곡, 편곡 : [E-TRIBE](https://ko.wikipedia.org/wiki/E-TRIBE "wikilink")
 11. E.M.M.M (Eenie, Meenie, Minie, Moe)
-      - 작사 : 이효리 / 작곡 : 신인주 / 편곡 : 신인주
+      - 작사 : [이효리](../Page/이효리.md "wikilink") / 작곡 : 이그나이트 / 편곡 : 이그나이트
 12. 2 Faces
-      - 작사 : 이병준 / 작곡 : 이병준 / 편곡 : 김도현, 이병준 / Feat. A.N.D.
+      - 작사 : 이병준 / 작곡 : 이병준 / 편곡 : [김도현](../Page/김도현_\(작곡가\).md "wikilink"), 이병준 / Feat. A.N.D.
 13. 마지막 인사
       - 작사 : 윤영준 / 랩 작사 : 윤영준 / 작곡 : 윤영준
 

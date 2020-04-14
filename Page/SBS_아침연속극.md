@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 아침연속극](https://ko.wikipedia.org/wiki/SBS_아침연속극).
 
 
-**SBS 아침연속극**은 [SBS에서](../Page/SBS_TV.md "wikilink") 평일 오전 8시 35분에 방송되는 [아침](https://ko.wikipedia.org/wiki/아침 "wikilink") 연속극이다. SBS 외 각 지역의 지역 민영방송에서도 방송되고 있다.
+**SBS 아침연속극**은 [SBS에서](../Page/SBS_TV.md "wikilink") 평일 오전 8시 35분에 방송되는 아침연속극이다. SBS 외 각 지역의 지역 민영방송에서도 방송되고 있다.
 
 ## 방송 시간
 
@@ -151,11 +151,11 @@
   - 《[나도 엄마야](../Page/나도_엄마야.md "wikilink")》 : 2018년 5월 28일 \~ 2018년 11월 23일
   - 《[강남 스캔들](../Page/강남_스캔들.md "wikilink")》 : 2018년 11월 26일 \~ 2019년 5월 17일
   - 《[수상한 장모](../Page/수상한_장모.md "wikilink")》 : 2019년 5월 20일 \~ 2019년 11월 8일
-  - 《[맛 좀 보실래요](https://ko.wikipedia.org/wiki/맛_좀_보실래요 "wikilink")》 : 2019년 11월 12일 \~ **현재**
+  - 《[맛 좀 보실래요](https://ko.wikipedia.org/wiki/맛_좀_보실래요 "wikilink")》 : 2019년 11월 12일 \~ 2020년 5월 1일
 
 ### [2020년대](https://ko.wikipedia.org/wiki/2020년대 "wikilink") 전반
 
-  - 《[엄마가 바람났다](https://ko.wikipedia.org/wiki/엄마가_바람났다 "wikilink")》 : 2020년 5월 4일 \~ (**방송 예정**)
+  - 《[엄마가 바람났다](https://ko.wikipedia.org/wiki/엄마가_바람났다 "wikilink")》 : 2020년 5월 4일 \~ 방영예정
 
 ## 같이 보기
 

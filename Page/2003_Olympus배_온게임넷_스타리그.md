@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2003 Olympus  ](https://ko.wikipedia.org/wiki/2003_Olympus__).
+> This article is converted from Wikipedia: [2003 Olympus배 온게임넷 스타리그](https://ko.wikipedia.org/wiki/2003_Olympus배_온게임넷_스타리그).
 
 
 **2003 Olympus배 온게임넷 스타리그**는 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 10번째 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다. [2003년](../Page/2003년.md "wikilink") [4월 4일부터](../Page/4월_4일.md "wikilink") [2003년](../Page/2003년.md "wikilink") [7월 13일까지](../Page/7월_13일.md "wikilink") 개최되었다.

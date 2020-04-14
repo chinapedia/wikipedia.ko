@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GX \(\)](https://ko.wikipedia.org/wiki/GX_\(\)).
+> This article is converted from Wikipedia: [GX \(로켓\)](https://ko.wikipedia.org/wiki/GX_\(로켓\)).
 
 
 **GX**는 개발이 취소된 일본의 우주로켓이다. [아틀라스 III와](https://ko.wikipedia.org/wiki/아틀라스_III "wikilink") [아틀라스 V에](https://ko.wikipedia.org/wiki/아틀라스_V "wikilink") 사용된 미러합작엔진 [RD-180](https://ko.wikipedia.org/wiki/RD-180 "wikilink")을 사용할 예정이었다. [IHI](https://ko.wikipedia.org/wiki/IHI "wikilink"), [JAXA](https://ko.wikipedia.org/wiki/JAXA "wikilink"), [록히드 마틴이](../Page/록히드_마틴.md "wikilink") 함께 사업을 추진했었다. 2010년 일본 정부는 이 사업을 취소했다. [엡실론 로켓](https://ko.wikipedia.org/wiki/엡실론_로켓 "wikilink"), [H3](https://ko.wikipedia.org/wiki/H3 "wikilink") 로켓 개발 계획을 진행 중이다.

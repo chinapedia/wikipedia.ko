@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK](https://ko.wikipedia.org/wiki/NHK).
+> This article is converted from Wikipedia: [NHK홀](https://ko.wikipedia.org/wiki/NHK홀).
 
 
 **NHK홀**은 [시부야 구의](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") [NHK 방송 센터의](../Page/NHK_방송_센터.md "wikilink") 종합 공연장이다. 명칭 그대로 [일본방송협회](../Page/일본방송협회.md "wikilink") 소유의 건물이며, 1973년 6월 20일에 개관했다.

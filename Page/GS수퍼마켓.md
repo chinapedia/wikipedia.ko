@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS수퍼마켓](https://ko.wikipedia.org/wiki/GS수퍼마켓).
 
 
 **GS수퍼마켓**은 [GS리테일](../Page/GS리테일.md "wikilink")에서 운영하는 기업형 슈퍼마켓이다. 1974년 3월 럭키슈퍼체인(주)이란 이름으로 출범한 이래, 현재는 259개의 매장을 운영하고 있다.\[1\] GS수퍼마켓의 기업가치는 Friendly, Fresh, Fun이다.

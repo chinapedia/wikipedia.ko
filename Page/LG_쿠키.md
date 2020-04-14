@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 쿠키](https://ko.wikipedia.org/wiki/LG_쿠키).
 
 
 **LG 쿠키**(, LG KP500)은 [LG전자](../Page/LG전자.md "wikilink")가 2008년 12월에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink"). 전 세계적으로 발매한 쿠키폰은 유럽에서 100만 대 이상 팔려나가며 밀리언셀러를 달성하기도 하였다.

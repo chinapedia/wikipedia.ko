@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS   ](https://ko.wikipedia.org/wiki/SBS___).
+> This article is converted from Wikipedia: [SBS 주말 특별기획 드라마](https://ko.wikipedia.org/wiki/SBS_주말_특별기획_드라마).
 
 
 **SBS 주말 특별기획 드라마**는 [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [토요일](../Page/토요일.md "wikilink") 밤 9시 5분에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 30부작 사이의 미니시리즈 형식으로 방영되었으나 50부작에서 120부작이 넘는 장편 드라마도 방영되었다.

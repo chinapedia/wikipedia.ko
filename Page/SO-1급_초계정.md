@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SO-1 ](https://ko.wikipedia.org/wiki/SO-1_).
+> This article is converted from Wikipedia: [SO-1급 초계정](https://ko.wikipedia.org/wiki/SO-1급_초계정).
 
 
 **SO-1급 초계정**(Project 201 So-I Class)은 [1995년](../Page/1995년.md "wikilink") [하바로프스크](https://ko.wikipedia.org/wiki/하바로프스크 "wikilink")에 위치한 제레노돌스크 조선소와 케르치 조선소에서 최초로 진수된 초계정으로, 1958년 이후 후속함들은 배수량 200톤까지 증가하여, 67년까지 생산되었다.\[1\]

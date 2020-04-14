@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [KARI 75 ](https://ko.wikipedia.org/wiki/KARI_75_).
+> This article is converted from Wikipedia: [KARI 75톤급 로켓엔진](https://ko.wikipedia.org/wiki/KARI_75톤급_로켓엔진).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:KARI_735kN_rocket_engine_for_KSLV-2.jpg "wikilink") **KRE-075**는 한국의 [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")가 개발중인 **[한국형발사체](https://ko.wikipedia.org/wiki/한국형발사체 "wikilink")**중 75톤급 추력의 신형 액체 로켓 엔진(**[KSLV-II](https://ko.wikipedia.org/wiki/KSLV-II "wikilink")**)을 말한다. 2018년 [한국형 시험발사체의](https://ko.wikipedia.org/wiki/한국형_시험발사체 "wikilink") 1단 엔진이다. 또한 2019년 **[KSLV-II](https://ko.wikipedia.org/wiki/KSLV-II "wikilink")**의 1단 및 2단 엔진으로 사용될 예정이며, [2017년](../Page/2017년.md "wikilink")까지 엔진 개발을 완료할 계획이다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:KARI_735kN_rocket_engine_for_KSLV-2.jpg "wikilink") **KRE-075**는 한국의 [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")가 개발중인 **[한국형발사체](https://ko.wikipedia.org/wiki/한국형발사체 "wikilink")**중 75톤급 추력의 신형 액체 로켓 엔진(**[KSLV-II](https://ko.wikipedia.org/wiki/KSLV-II "wikilink")**)을 말한다. 2018년 [한국형 시험발사체의](https://ko.wikipedia.org/wiki/한국형_시험발사체 "wikilink") 1단 엔진이다. 또한 2019년 **[KSLV-II](https://ko.wikipedia.org/wiki/KSLV-II "wikilink")**의 1단 및 2단 엔진으로 사용될 예정이며, [2020년](../Page/2020년.md "wikilink")까지 엔진 개발을 완료할 계획이다.\[1\]
 
 ## 역사
 

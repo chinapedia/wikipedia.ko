@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 Panasonic  ](https://ko.wikipedia.org/wiki/2002_Panasonic__).
+> This article is converted from Wikipedia: [2002 Panasonic배 온게임넷 스타리그](https://ko.wikipedia.org/wiki/2002_Panasonic배_온게임넷_스타리그).
 
 
 **2002 Panasonic배 온게임넷 스타리그**은 [2002년](../Page/2002년.md "wikilink")부터 [2003년](../Page/2003년.md "wikilink")에 걸쳐 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.

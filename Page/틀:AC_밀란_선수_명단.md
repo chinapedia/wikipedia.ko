@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AC   ](https://ko.wikipedia.org/wiki/:AC___).
+> This article is converted from Wikipedia: [틀:AC 밀란 선수 명단](https://ko.wikipedia.org/wiki/틀:AC_밀란_선수_명단).
 
 
 <onlyinclude></onlyinclude>

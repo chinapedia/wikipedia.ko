@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Missing \(\)](https://ko.wikipedia.org/wiki/Missing_\(\)).
+> This article is converted from Wikipedia: [Missing \(소설\)](https://ko.wikipedia.org/wiki/Missing_\(소설\)).
 
 
 《**Missing**》(미씽)은 [일본](../Page/일본.md "wikilink")의 작가 [코다 가쿠토가](https://ko.wikipedia.org/wiki/코다_가쿠토 "wikilink") 쓰고, [미도리카와 신이](https://ko.wikipedia.org/wiki/미도리카와_신 "wikilink") 일러스트를 담당한 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). [전격 문고](https://ko.wikipedia.org/wiki/전격_문고 "wikilink")([아스키 미디어 웍스](https://ko.wikipedia.org/wiki/아스키_미디어_웍스 "wikilink"))에서 [2001년 7월부터](https://ko.wikipedia.org/wiki/2001년_7월 "wikilink") [2005년 6월까지](../Page/2005년_6월.md "wikilink") 전 13권이 발행되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [L 노벨](../Page/L_노벨.md "wikilink")([디앤씨미디어](https://ko.wikipedia.org/wiki/디앤씨미디어 "wikilink"))이 미도리카와 신이 계약을 거부하여 [pecorin](https://ko.wikipedia.org/wiki/pecorin "wikilink")이 그린 일러스트를 수록하여 출판되고 있다.

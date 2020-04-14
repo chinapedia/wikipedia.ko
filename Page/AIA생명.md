@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AIA](https://ko.wikipedia.org/wiki/AIA).
+> This article is converted from Wikipedia: [AIA생명](https://ko.wikipedia.org/wiki/AIA생명).
 
 
 **AIA생명**()은 홍콩의 다국적 생명보험 기업이다.

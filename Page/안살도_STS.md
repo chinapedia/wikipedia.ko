@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ STS](https://ko.wikipedia.org/wiki/_STS).
+> This article is converted from Wikipedia: [안살도 STS](https://ko.wikipedia.org/wiki/안살도_STS).
 
 
 **안살도 STS**는 철도 신호 장비를 공급하는 기업이다. 철도 건설 턴키 사업도 갈이 하고 있다. [이탈리아](../Page/이탈리아.md "wikilink") [제노바](../Page/제노바.md "wikilink")에 본사가 있으며. 이탈리아 보르자에 주식이 상장되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 가요대축제](https://ko.wikipedia.org/wiki/KBS_가요대축제).
 
 
 《**KBS 가요대축제**》는 [대한민국](../Page/대한민국.md "wikilink")의 [KBS](../Page/한국방송공사.md "wikilink") 예능본부에서 매년 12월 말에 개최하는 연말 특집 가요 프로그램이다. 개최 원년(1981년)부터 [2011년](../Page/2011년.md "wikilink")까지는 매년 [12월 30일에](../Page/12월_30일.md "wikilink") 방송했다. [2012년](../Page/2012년.md "wikilink")부터 [2018년](../Page/2018년.md "wikilink")까지는 매년 12월 마지막 금요일에 방송했다. 단 [2015년](../Page/2015년.md "wikilink")은 [12월 30일에는](../Page/12월_30일.md "wikilink") 프로야구 [키움 히어로즈의](../Page/키움_히어로즈.md "wikilink") 홈 구장인 [고척 스카이돔과](https://ko.wikipedia.org/wiki/고척_스카이돔 "wikilink"), [2019년](../Page/2019년.md "wikilink")은 [12월 27일에는](../Page/12월_27일.md "wikilink") [일산 킨텍스에서](https://ko.wikipedia.org/wiki/일산_킨텍스 "wikilink") 방송되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(It\'s You\)](https://ko.wikipedia.org/wiki/_\(It\'s_You\)).
+> This article is converted from Wikipedia: [너라고 \(It\'s You\)](https://ko.wikipedia.org/wiki/너라고_\(It\'s_You\)).
 
 
 《**너라고 (It's You)**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 3집 리패키지 앨범의 타이틀 곡이다. [2009년](../Page/2009년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") 음원이 공개되었으며, 수록곡 4개 모두 3집의 C버전에 포함되어 있다.

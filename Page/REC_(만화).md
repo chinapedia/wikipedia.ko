@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [REC \(\)](https://ko.wikipedia.org/wiki/REC_\(\)).
+> This article is converted from Wikipedia: [REC \(만화\)](https://ko.wikipedia.org/wiki/REC_\(만화\)).
 
 
 《**REC**》은 월간 선데이 제넥스에 연재되고 있는 하나미자와 Q타로의 러브 코미디 만화이다. 2002년 12월호부터 연재를 시작해, 현재도 연재중이다. 2006년 2월에는 애니메이션이 방송되었다. 또 드라마 CD나 이미지 송 등의 발매도 결정되었다.

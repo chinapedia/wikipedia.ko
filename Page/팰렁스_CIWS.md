@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CIWS](https://ko.wikipedia.org/wiki/_CIWS).
+> This article is converted from Wikipedia: [팰렁스 CIWS](https://ko.wikipedia.org/wiki/팰렁스_CIWS).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Close-In_Weapon_System.jpg "wikilink")

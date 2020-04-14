@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QTV \( \)](https://ko.wikipedia.org/wiki/QTV_\(_\)).
+> This article is converted from Wikipedia: [QTV \(아폴로 계획\)](https://ko.wikipedia.org/wiki/QTV_\(아폴로_계획\)).
 
 
 <table>

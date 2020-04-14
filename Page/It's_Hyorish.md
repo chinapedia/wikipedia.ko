@@ -18,14 +18,14 @@
 ## 수록곡
 
 1.  천하무적 [이효리](../Page/이효리.md "wikilink")
-      - 작사: 김이나 / 작곡: 김도현 / 편곡: 김도현
+      - 작사: [김이나](../Page/김이나.md "wikilink") / 작곡: 김도현 / 편곡: 김도현
       - 참여
           - 기타: 고태영 / 코러스: 김다영, 이효리 / 레코딩 엔지니어: 장우영 / 믹싱 엔지니어: 박혁
 2.  Lesson
       - 작사: [휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink"), 차은택 / 작곡: 박근태 / 편곡: [신사동호랭이](https://ko.wikipedia.org/wiki/신사동호랭이 "wikilink")
       - 참여
           - 코러스: 김다영, 김소연 / 레코딩 엔지니어: 윤원권 (어시스트: 정의석) / 믹싱 엔지니어: 윤원권
-3.  [U-Go-Girl](../Page/U-Go-Girl.md "wikilink") with [낯선](../Page/낯선.md "wikilink")
+3.  [U-Go-Girl](../Page/U-Go-Girl.md "wikilink") (Feat. [낯선](../Page/낯선.md "wikilink"))
       - 작사,작곡,편곡: [E-TRIBE](https://ko.wikipedia.org/wiki/E-TRIBE "wikilink")
       - 참여
           - 코러스: Sugar Flow, Enter-One / Rap Making: 낯선 / 레코딩 엔지니어: 장우영 / 믹싱 엔지니어: 홍성준
@@ -34,27 +34,27 @@
       - 참여
           - 기타: 고태영 / 베이스: 고신재 / 코러스: 김다영 / 랩: 이효리 / Rap Making: ANNIE.K / 레코딩 엔지니어: 장우영 / 믹싱 엔지니어: 박혁
 5.  이발소 집 딸
-      - 작사: 이효리 / 작곡: YC-Shandi K / 편곡: YC, David A Harris
+      - 작사: [이효리](../Page/이효리.md "wikilink") / 작곡: YC-Shandi K / 편곡:
       - 참여
           - 코러스: Shandi K / 코러스 & 추가 보컬: 해맑은 아이들 (지도: 방희정) / 레코딩 엔지니어: 장우영 / 믹싱 엔지니어: 박혁
 6.  Don't Cry
-      - 작사: 이효리 / 작곡: KZ / 편곡: KZ
+      - 작사: [이효리](../Page/이효리.md "wikilink") / 작곡: KZ1, KZ2 / 편곡: KZ1, KZ2
       - 참여
           - 기타: 고태영 / 베이스: 고신재 / 코러스: 김다영 / 레코딩 엔지니어: 장우영 / 믹싱 엔지니어: 박혁
-7.  괜찮아질까요? with Bigtone
-      - 작사: 이효리 / 랩 작사: Bigtone / 작곡: 김도현 / 편곡: 김도현
+7.  괜찮아질까요? (Feat. [Bigtone](https://ko.wikipedia.org/wiki/빅톤_\(음악가\) "wikilink"))
+      - 작사: 이효리 / 랩 작사: [빅톤](https://ko.wikipedia.org/wiki/빅톤_\(음악가\) "wikilink") / 작곡: 김도현 / 편곡:
       - 참여
           - 기타: 고태영 / 코러스: 김다영 / 랩: Bigtone / 레코딩 엔지니어: 장우영 / 믹싱 엔지니어: 박혁
-8.  Sexy Boy with 휘성
-      - 작사: 휘성 / 작곡: YC-Subzero / 편곡: YC, David A Harris
+8.  Sexy Boy (Feat. [휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink"))
+      - 작사: [휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink") / 작곡: YC-SUBZERO / 편곡:
       - 참여
           - 코러스: 조소망 / 레코딩 엔지니어: 장우영 / 믹싱 엔지니어: 박혁
-9.  빨간 자동차 with [김건모](../Page/김건모.md "wikilink")
-      - 작사: 안영민 / 작곡: YC-Subzero / 편곡: YC, David A Harris
+9.  빨간 자동차 (Feat. [김건모](../Page/김건모.md "wikilink"))
+      - 작사: 안영민 / 작곡: YC-SUBZERO / 편곡:
       - 참여
           - 기타 & 키보드: YC / 코러스: 이철규, 조소망, SAHNDI K, David A Harris / 레코딩 엔지니어: 장우영 / 믹싱 엔지니어: 박혁
 10. Hey Mr.BiG
-      - 작사: 휘성 / 작곡: 박근태 / 편곡: 신사동호랭이
+      - 작사: [휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink") / 작곡: 박근태 / 편곡: [신사동호랭이](https://ko.wikipedia.org/wiki/신사동호랭이 "wikilink")
       - 참여
           - 코러스: 김다영, 김소연 , 레코딩 엔지니어: 윤원권 (어시스트: 정의석) / 믹싱 엔지니어: 윤원권
 11. P.P.P (Punky Punky Party) with 낯선
@@ -62,13 +62,13 @@
       - 참여
           - 기타: 고영재 / 코러스: Sugar Flow, 김다영, 낯선 / Rap Making: 낯선 / 레코딩 엔지니어: 장우영 / 믹싱 엔지니어: 박혁
 12. My Life
-      - 작사: [MayBee](https://ko.wikipedia.org/wiki/MayBee "wikilink") / 작곡: Matthew Smith, Chris Comer / 편곡: 전군
+      - 작사: [메이비](../Page/메이비_\(가수\).md "wikilink") / 작곡: 전군 / 편곡:
       - 참여
           - 코러스: 김다영, 김소연 / 레코딩 엔지니어: 윤원권 (어시스트: 정의석) / 믹싱 엔지니어: 윤원권
-13. Unusual
-      - 작사: 윤사라 / 랩 작사: 서정환 / 작곡: MAD SOUL CHILD, JIN / 편곡: MAD SOUL CHILD
+13. Unusual (Feat. 서정환)
+      - 작사: 윤사라 / 랩 작사: 서정환 / 작곡: [매드 소울 차일드](https://ko.wikipedia.org/wiki/매드_솔_차일드 "wikilink") / 편곡: [매드 소울 차일드](https://ko.wikipedia.org/wiki/매드_솔_차일드 "wikilink")
       - 참여
-        \*: 최우제 / 코러스: JIN / 랩: 서정환 / 믹싱 엔지니어: 정무경
+          - 최우제 / 코러스: JIN / 랩: 서정환 / 믹싱 엔지니어: 정무경
 
 ## 뮤직비디오
 

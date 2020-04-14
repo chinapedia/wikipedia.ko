@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-TR-3b](https://ko.wikipedia.org/wiki/-TR-3b).
+> This article is converted from Wikipedia: [이리자리-TR-3b](https://ko.wikipedia.org/wiki/이리자리-TR-3b).
 
 
 **이리자리-TR-3b**는 [이리자리](../Page/이리자리.md "wikilink") 방향으로 지구로부터 8,950 [광년](../Page/광년.md "wikilink") 떨어진 곳에 있는 항성 [이리자리-TR-3](https://ko.wikipedia.org/wiki/이리자리-TR-3 "wikilink") 주위를 도는, [외계 행성이다](../Page/외계_행성.md "wikilink"). 2007년 하버드-스미소니언 천체물리학 센터 천문학자들이 트랜싯법을 이용하여 발견했다. 어머니 항성 [이리자리-TR-3](https://ko.wikipedia.org/wiki/이리자리-TR-3 "wikilink")는 겉보기 등급 17.4의, [오렌지색 왜성이다](https://ko.wikipedia.org/wiki/오렌지색_왜성 "wikilink"). 질량은 목성의 5분의 4 수준이며 반지름은 10분의 9, 밀도는 목성과 거의 비슷한 1.4 g/cm³이다. 항성으로부터의 거리는 0.0464 천문단위로 [뜨거운 목성으로](../Page/뜨거운_목성.md "wikilink") 정의내릴 수 있다. 현재 트랜싯법을 이용하여 지상에서 관측한 외계 행성들 중 어머니 항성이 가장 어두운 천체이다.\[1\]

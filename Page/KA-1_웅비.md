@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KA-1 ](https://ko.wikipedia.org/wiki/KA-1_).
+> This article is converted from Wikipedia: [KA-1 웅비](https://ko.wikipedia.org/wiki/KA-1_웅비).
 
 
 **KA-1 웅비**는 [KT-1](https://ko.wikipedia.org/wiki/KT-1 "wikilink") 웅비 초등훈련기를 기초로 개발한 전선통제용 항공기(전술통제기/경공격기)다. [KT-1](https://ko.wikipedia.org/wiki/KT-1 "wikilink") 훈련기에 무장 포드 및 정찰 장비를 장착하여 육군의 작전을 지원하고 전선항공통제 임무를 수행하기 위해 개발되었다.

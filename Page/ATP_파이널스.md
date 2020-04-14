@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ATP ](https://ko.wikipedia.org/wiki/ATP_).
+> This article is converted from Wikipedia: [ATP 파이널스](https://ko.wikipedia.org/wiki/ATP_파이널스).
 
 
-**ATP 파이널스** ()는 매년 연말 세계 랭킹 8위까지의 탑 랭커들만이 참여하여 경기를 펼치는 남자 [테니스](../Page/테니스.md "wikilink") 대회이다.
+**ATP 파이널스**()는 매년 연말 세계 랭킹 8위까지의 탑 랭커들만이 참여하여 경기를 펼치는 남자 [테니스](../Page/테니스.md "wikilink") 대회이다.
 
 다른 대부분의 테니스 대회와는 달리 이 대회는 녹아웃 토너먼트가 아닌 [라운드 로빈](https://ko.wikipedia.org/wiki/라운드_로빈 "wikilink") 방식으로 진행된다. 8명의 선수들은 4명씩 두 그룹으로 나뉘어 레드 그룹과 골드 그룹을 구성하게 되며, 이 두 그룹 내에서 각각 라운드 로빈 방식으로 경기를 치러 각 그룹의 1, 2위 선수들을 가린다. 레드 그룹의 1위 선수는 골드 그룹의 2위 선수와, 골드 그룹의 1위 선수는 레드 그룹의 2위 선수와 준결승전을 갖게 되며, 이 두 경기의 승자가 결승전에서 맞붙어 최종 우승자를 가리게 된다.
 

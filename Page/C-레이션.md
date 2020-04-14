@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C-](https://ko.wikipedia.org/wiki/C-).
+> This article is converted from Wikipedia: [C-레이션](https://ko.wikipedia.org/wiki/C-레이션).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Crations-museumdisplay.jpg "wikilink") 부터 사용된 미군의 전투식량 C-레이션\]\]

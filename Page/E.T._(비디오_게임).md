@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E.T. \( \)](https://ko.wikipedia.org/wiki/E.T._\(_\)).
+> This article is converted from Wikipedia: [E.T. \(비디오 게임\)](https://ko.wikipedia.org/wiki/E.T._\(비디오_게임\)).
 
 
 《**E.T.**》(E.T. the Extra-Terrestrial)는 [동명의 영화를](../Page/E.T..md "wikilink") 게임화한, [아타리 2600용으로](../Page/아타리_2600.md "wikilink") 나온, 당시 비디오 게임 시장을 한번에 붕괴시킨 [아타리 쇼크를](https://ko.wikipedia.org/wiki/아타리_쇼크 "wikilink") 불러일으킨 원인 중 하나로 지목되는 비디오 게임이다. 또한 아타리판 팩맨과 더불어 최악의 퀼리티, 버그로 인해 아타리의 흑역사이다.

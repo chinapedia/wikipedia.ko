@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS마트](https://ko.wikipedia.org/wiki/GS마트).
 
 
 **GS마트**()는 [GS리테일](../Page/GS리테일.md "wikilink")이 [1996년](../Page/1996년.md "wikilink") [11월 15일부터](../Page/11월_15일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [5월 31일까지](../Page/5월_31일.md "wikilink") 운영했던 대형할인점이다. 롯데마트에 인수되기 전까지 총 14개 점포를 운영하고 있었다. [GS리테일](../Page/GS리테일.md "wikilink")은 수익이 낮은 부문을 과감히 정리하고 주력 사업인 편의점과 수퍼마켓에 집중하는 것이 낫다고 판단하여,\[1\] [2010년](../Page/2010년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") [롯데쇼핑](https://ko.wikipedia.org/wiki/롯데쇼핑 "wikilink")에 백화점과 마트 사업부문을 매각하였다.\[2\] [롯데쇼핑](https://ko.wikipedia.org/wiki/롯데쇼핑 "wikilink")에 매각된 지점들은 [2010년](../Page/2010년.md "wikilink") [6월 1일부터](../Page/6월_1일.md "wikilink") [롯데마트](../Page/롯데마트.md "wikilink")로 상호를 변경하였다.

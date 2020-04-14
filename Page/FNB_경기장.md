@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FNB ](https://ko.wikipedia.org/wiki/FNB_).
+> This article is converted from Wikipedia: [FNB 경기장](https://ko.wikipedia.org/wiki/FNB_경기장).
 
 
 **FNB 경기장**(FNB Stadium)는 [남아프리카 공화국의](../Page/남아프리카_공화국.md "wikilink") [요하네스버그](../Page/요하네스버그.md "wikilink")에 위치한 축구 전용경기장이다.

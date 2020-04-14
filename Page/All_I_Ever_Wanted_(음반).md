@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [All I Ever Wanted \(\)](https://ko.wikipedia.org/wiki/All_I_Ever_Wanted_\(\)).
+> This article is converted from Wikipedia: [All I Ever Wanted \(음반\)](https://ko.wikipedia.org/wiki/All_I_Ever_Wanted_\(음반\)).
 
 
 《**All I Ever Wanted**》는 [켈리 클락슨의](../Page/켈리_클락슨.md "wikilink") 네 번째 정규 앨범이다.

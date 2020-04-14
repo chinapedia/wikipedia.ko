@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [=SmackSoft](https://ko.wikipedia.org/wiki/=SmackSoft).
+> This article is converted from Wikipedia: [황보령=SmackSoft](https://ko.wikipedia.org/wiki/황보령=SmackSoft).
 
 
 **황보령=SmackSoft**는 [2000년](../Page/2000년.md "wikilink")에 [황보령](../Page/황보령.md "wikilink")이 결성한 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").

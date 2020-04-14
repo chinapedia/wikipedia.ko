@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [테이블산자리 파이 b](https://ko.wikipedia.org/wiki/테이블산자리_파이_b).
 
 
 **테이블산자리 파이 b** 또는 **HD 39091 b**는 [테이블산자리](../Page/테이블산자리.md "wikilink") 방향으로 지구로부터 약 59광년 떨어진 곳에 있는 [외계 행성이다](../Page/외계_행성.md "wikilink").\[1\] 2001년 10월 황색 [준거성](https://ko.wikipedia.org/wiki/준거성 "wikilink") [테이블산자리 파이](../Page/테이블산자리_파이.md "wikilink") 주변에서 존스 연구진이 발견했다. 질량이 크고 이심률도 높기 때문에 b를 ‘타원궤도를 그리면서 도는 [뜨거운 목성](../Page/뜨거운_목성.md "wikilink")’으로 표현할 수 있다.

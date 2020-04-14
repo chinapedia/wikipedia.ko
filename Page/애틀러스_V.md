@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
+> This article is converted from Wikipedia: [애틀러스 V](https://ko.wikipedia.org/wiki/애틀러스_V).
 
 
 **애틀러스 V**(Atlas V)는 [미국](../Page/미국.md "wikilink")의 [우주발사체](../Page/우주발사체.md "wikilink")이다. 러시아 엔진 [RD-180](https://ko.wikipedia.org/wiki/RD-180 "wikilink")을 사용하며, [록히드 마틴이](../Page/록히드_마틴.md "wikilink") [미국 공군을](../Page/미국_공군.md "wikilink") 위해 개발했다. [보잉](../Page/보잉.md "wikilink")이 개발한 [델타 IV](../Page/델타_IV.md "wikilink") 로켓과 경쟁하고 있다. 2005년 부터 [미국 공군의](../Page/미국_공군.md "wikilink") 우주 로켓인 [타이탄 IV를](../Page/타이탄_IV.md "wikilink") 대체하여 [케이프커내버럴 공군 기지](https://ko.wikipedia.org/wiki/케이프커내버럴_공군_기지 "wikilink") 또는 [반덴버그 공군 기지에서](https://ko.wikipedia.org/wiki/반덴버그_공군_기지 "wikilink") 발사되고 있다.

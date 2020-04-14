@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E. M. ](https://ko.wikipedia.org/wiki/E._M._).
+> This article is converted from Wikipedia: [E. M. 포스터](https://ko.wikipedia.org/wiki/E._M._포스터).
 
 
 **E. M. 포스터**(, [1879년](../Page/1879년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [1970년](../Page/1970년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink"))는 [영국](../Page/영국.md "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 1879년 [건축가](../Page/건축가.md "wikilink")의 외아들로 [런던](../Page/런던.md "wikilink")에서 태어났다. [톤브리지 스쿨을](https://ko.wikipedia.org/wiki/톤브리지_스쿨 "wikilink") 거쳐 [케임브리지 대학교 킹스 칼리지를](https://ko.wikipedia.org/wiki/킹스_칼리지_\(케임브리지\) "wikilink") 졸업한 그는 [휴 메러디스](https://ko.wikipedia.org/wiki/휴_메러디스 "wikilink")()를 비롯한 평생의 친구들을 만났고 그들의 권유로 소설을 쓰기 시작했다.

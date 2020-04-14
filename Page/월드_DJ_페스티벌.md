@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ DJ ](https://ko.wikipedia.org/wiki/_DJ_).
+> This article is converted from Wikipedia: [월드 DJ 페스티벌](https://ko.wikipedia.org/wiki/월드_DJ_페스티벌).
 
 
-**월드 DJ 페스티벌**(World DJ Festival, 월디페, WDJF)은 매년 5월에 열리는 대한민국 최초 EDM MUSIC FESTIVAL이다.
+**월드 디제이 페스티벌**(World DJ Festival, 월디페, WDJF)은 매년 5월에 열리는 대한민국 최초 EDM MUSIC FESTIVAL이다.
 
 2007년 5월 [하이서울페스티벌](https://ko.wikipedia.org/wiki/하이서울페스티벌 "wikilink")의 프로그램 중 하나로 난지공연에서 열렸으며 [서울특별시](../Page/서울특별시.md "wikilink")의 지원으로 3일동안 9만 명 이상의 관객을 동원해 각종 매체에서 한국판 우드스탁(1969년부터 미국에서 열린 우드스탁 락페스티벌)이란 칭송을 들으며 큰 성공을 거두었다. 2007\~2010년까지는 한강 난지지구에서, 2011\~2014년까지는 양평 나루께 축제공원에서, 2015\~2016년에는 춘천 송암레포츠타운에서 개최되었으며 대한민국 최초이자 최대 EDM페스티벌로 자리잡았다. 2017년에는 서울([잠실올림픽경기장](../Page/서울올림픽주경기장.md "wikilink"))에서 7년 만에 열릴 예정이다.
 

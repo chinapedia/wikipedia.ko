@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 월화드라마](https://ko.wikipedia.org/wiki/SBS_월화드라마).
 
 
 **SBS 월화드라마**는 [SBS](../Page/SBS.md "wikilink")에서 매주 [월요일](../Page/월요일.md "wikilink")과 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink")에 밤 10시에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 30부작 사이의 미니시리즈 형식으로 현재 방영되고 있으나, 50부작에서 120부작이 넘는 장편 드라마도 방영되었다.
@@ -102,7 +102,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2020년 1월 6일 ~</p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_6일.md" title="wikilink">1월 6일</a> ~<strong>현재</strong></p></td>
 <td><p>월, 화 밤 9시 40분 ~ 11시</p></td>
 <td><p>80분<br />
 (1부 40분 2부 40분 분할 방송)</p></td>
@@ -375,13 +375,15 @@
   - 《[초면에 사랑합니다](../Page/초면에_사랑합니다.md "wikilink")》 : 2019년 5월 6일 \~ 2019년 6월 25일 (이 작품까지 **1회당 35분 2회 분할** 편성)
   - 《[VIP](../Page/VIP_\(드라마\).md "wikilink")》 : 2019년 10월 28일 \~ 2019년 12월 24일 (이 작품부터 **1부 40분, 2부 30분 분할** 편성)
 
-### 2020년 전반
+### [2020년](../Page/2020년.md "wikilink") 전반
 
-#### 2020년
+#### [2020년](../Page/2020년.md "wikilink")
 
-  - 《[낭만닥터 김사부 2](../Page/낭만닥터_김사부_2.md "wikilink")》 : 2020년 1월 6일 \~ 2020년 2월 25일
-  - 《[아무도 모른다](https://ko.wikipedia.org/wiki/아무도_모른다_\(드라마\) "wikilink")》 : 2020년 3월 2일 \~ <small>(방송 예정)</small>
-  - 《[굿캐스팅](https://ko.wikipedia.org/wiki/굿캐스팅 "wikilink")》 : 2020년 4월 27일 \~ <small>(방송 예정)</small>
+  - 《[낭만닥터 김사부 2](../Page/낭만닥터_김사부_2.md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink")
+  - 《[아무도 모른다](https://ko.wikipedia.org/wiki/아무도_모른다_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") \~ **현재**
+  - 《[굿캐스팅](https://ko.wikipedia.org/wiki/굿캐스팅 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ <small>(방송 예정)</small>
+  - 《[브람스를 좋아하세요?](https://ko.wikipedia.org/wiki/브람스를_좋아하세요? "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") \~ <small>(방송 예정)</small>
+  - 《[펜트하우스](https://ko.wikipedia.org/wiki/펜트하우스_\(드라마\) "wikilink")》: [2020년](../Page/2020년.md "wikilink") \~ <small>(방송 예정)</small>
 
 ## 같이 보기
 

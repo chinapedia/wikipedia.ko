@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS리테일](https://ko.wikipedia.org/wiki/GS리테일).
 
 
 **GS리테일**은 [GS](../Page/GS_\(기업\).md "wikilink") 산하의 유통 전문 계열사이다. [1974년](../Page/1974년.md "wikilink") 럭키슈퍼마켓으로 시작하여 현재는 [GS수퍼마켓](../Page/GS수퍼마켓.md "wikilink"), [GS25](../Page/GS25.md "wikilink"), [랄라블라](../Page/랄라블라.md "wikilink"), [파르나스호텔](https://ko.wikipedia.org/wiki/파르나스호텔 "wikilink"), Park24 등의 사업을 하고 있다. 멤버십 서비스로 GS\&Point가 있다.

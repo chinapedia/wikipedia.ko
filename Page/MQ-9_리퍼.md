@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MQ-9 ](https://ko.wikipedia.org/wiki/MQ-9_).
+> This article is converted from Wikipedia: [MQ-9 리퍼](https://ko.wikipedia.org/wiki/MQ-9_리퍼).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MQ-1_Predator_controls_2007-08-07.jpg "wikilink")

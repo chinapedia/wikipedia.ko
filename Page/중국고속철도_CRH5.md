@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CRH5](https://ko.wikipedia.org/wiki/_CRH5).
+> This article is converted from Wikipedia: [중국고속철도 CRH5](https://ko.wikipedia.org/wiki/중국고속철도_CRH5).
 
 
 **중국고속철도 CRH5형**() [중화인민공화국 철도부에서](../Page/중화인민공화국_철도부.md "wikilink") 운영하는 국영철로로 제6차 철도 고속화 계획에 의해 [프랑스](../Page/프랑스.md "wikilink")의 [TGV](../Page/TGV.md "wikilink")를 제조한 [알스톰](../Page/알스톰.md "wikilink")과 제휴해 도입된 [고속철도](../Page/고속철도.md "wikilink") 차량이다.\[1\]

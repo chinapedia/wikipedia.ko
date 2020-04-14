@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TJB 8 ](https://ko.wikipedia.org/wiki/TJB_8_).
+> This article is converted from Wikipedia: [TJB 8 뉴스](https://ko.wikipedia.org/wiki/TJB_8_뉴스).
 
 
 **TJB 8뉴스**는 SBS의 대전 세종 충남권 네트워크 방송사인 [TJB의](../Page/대전방송.md "wikilink") 저녁 시간대의 종합뉴스이다. 전신 프로그램으로 TJB 종합뉴스가 방영되었다. SBS 8 뉴스의 릴레이 형태로 방송되며, [2010년](../Page/2010년.md "wikilink") [5월 14일부터는](../Page/5월_14일.md "wikilink") 다른 보도프로그램과 함께 [HD로](../Page/고선명_텔레비전.md "wikilink") 방송되고 있다. 방송되고 있다. 방영시간은 평일 밤 8시 35분과 주말,휴일 밤 8시 30분이다. 평일 밤 8시 45분 이후 [SBS 8 뉴스의](../Page/SBS_8_뉴스.md "wikilink") SBS 스포츠뉴스와 SBS 날씨가 이어서 방송되며, 이후 TJB 8뉴스의 클로징이 방송됩니다.

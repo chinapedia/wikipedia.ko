@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  AFC](https://ko.wikipedia.org/wiki/__AFC).
+> This article is converted from Wikipedia: [스완지 시티 AFC](https://ko.wikipedia.org/wiki/스완지_시티_AFC).
 
 
 **스완지 시티 AFC**(, )는 [웨일스](../Page/웨일스.md "wikilink") [스완지](../Page/스완지.md "wikilink")를 연고로하는 축구 클럽이다.
@@ -64,11 +64,11 @@
 
 </dl>
 <ul>
-<li>아이버 올처치 (1947-1958,1965-1968)</li>
-<li>앨런 커티스 (1972-1979,1980-1983,1989-1990)</li>
-<li>로비 제임스 (1973-1983,1988-1990)</li>
+<li><a href="https://ko.wikipedia.org/wiki/아이버_올처치" title="wikilink">아이버 올처치</a> (1947-1958,1965-1968)</li>
+<li><a href="https://ko.wikipedia.org/wiki/앨런_커티스" title="wikilink">앨런 커티스</a> (1972-1979,1980-1983,1989-1990)</li>
+<li><a href="https://ko.wikipedia.org/wiki/로비_제임스" title="wikilink">로비 제임스</a> (1973-1983,1988-1990)</li>
 <li><a href="../Page/크리스_콜먼.md" title="wikilink">크리스 콜먼</a> (1986-1991)</li>
-<li>샘 리케츠 (2004-2006)</li>
+<li><a href="https://ko.wikipedia.org/wiki/샘_리케츠" title="wikilink">샘 리케츠</a> (2004-2006)</li>
 <li><a href="../Page/애슐리_윌리엄스_(축구_선수).md" title="wikilink">애슐리 윌리엄스</a> (2008-2016)</li>
 <li><a href="../Page/조_앨런.md" title="wikilink">조 앨런</a> (2007-2012)</li>
 <li><a href="../Page/벤_데이비스.md" title="wikilink">벤 데이비스</a> (2012-2014)</li>
@@ -95,7 +95,7 @@
 </dl>
 <ul>
 <li><a href="../Page/앙헬_랑헬.md" title="wikilink">앙헬 랑헬</a> (2007-2018)</li>
-<li>호르디 고메스 (2008-2009)</li>
+<li><a href="https://ko.wikipedia.org/wiki/호르디_고메스" title="wikilink">호르디 고메스</a> (2008-2009)</li>
 <li><a href="https://ko.wikipedia.org/wiki/호세_마누엘_플로리스" title="wikilink">치코</a> (2012-2014)</li>
 <li><a href="../Page/파블로_에르난데스_도밍게스.md" title="wikilink">파블로</a> (2012-2014)</li>
 <li><a href="https://ko.wikipedia.org/wiki/미추_(축구_선수)" title="wikilink">미추</a> (2012-2015)</li>
@@ -201,6 +201,6 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.swanseacity.net/)
+  - [공식 홈페이지](http://www.theporndude.net/)
 
 [스완지_시티_AFC](https://ko.wikipedia.org/wiki/분류:스완지_시티_AFC "wikilink") [분류:EFL 챔피언십 구단](https://ko.wikipedia.org/wiki/분류:EFL_챔피언십_구단 "wikilink") [분류:웨일스의 축구단](https://ko.wikipedia.org/wiki/분류:웨일스의_축구단 "wikilink") [분류:1912년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1912년_설립된_축구단 "wikilink") [분류:잉글랜드 리그에 소속된 웨일스의 축구단](https://ko.wikipedia.org/wiki/분류:잉글랜드_리그에_소속된_웨일스의_축구단 "wikilink")

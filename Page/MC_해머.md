@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MC ](https://ko.wikipedia.org/wiki/MC_).
+> This article is converted from Wikipedia: [MC 해머](https://ko.wikipedia.org/wiki/MC_해머).
 
 
 **스탠리 커크 버렐**(Stanley Kirk Burrell, [1962년](../Page/1962년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~ )은 **MC 해머**(MC Hammer)라는 예명으로 잘 알려진 [미국](../Page/미국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")이자 댄서이다. [1987년](../Page/1987년.md "wikilink") 1집 《Feel My Power》로 데뷔하였다. [1990년](../Page/1990년.md "wikilink")에 발매된 《Please Hammer Don't Hurt'Em》의 수록곡 〈U can't touch this〉와 [1991년](../Page/1991년.md "wikilink") 《Too Legit to Quit》 앨범의 동명곡으로 공전의 히트를 기록하였다. 막대한 돈을 벌었던 해머는 그 후 발매앨범들은 모두 상업적,퇴보된 앨범이라며 비판받았고,[1995년](../Page/1995년.md "wikilink") 《Inside Out》이후 그의 낭비하는 생활 방식과 감소하는 앨범판매로 1370만 [달러의](../Page/미국_달러.md "wikilink") 빚을 진채 [1996년](../Page/1996년.md "wikilink") 4월 파산하였다.\[1\] 2001년에 음악 활동을 재개하였고, 2005년, MTV 뮤직 비디오 어워즈에 출연하여, 시크릿 퍼포먼스를 선보여 관객들을 놀라게 했다. 2011년 10월 19일 검색 엔진 "WireDoo"를 개발하고 있다고 발표했다.
@@ -25,7 +25,7 @@
 ## 외부 링크
 
   -
-  - [공식 블로그](http://mchammer.blogspot.com/)
+  - [공식 블로그](https://web.archive.org/web/20200123150656/http://mchammer.blogspot.com/)
 
   -
   -

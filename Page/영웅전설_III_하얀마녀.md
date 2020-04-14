@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III ](https://ko.wikipedia.org/wiki/_III_).
+> This article is converted from Wikipedia: [영웅전설 III 하얀마녀](https://ko.wikipedia.org/wiki/영웅전설_III_하얀마녀).
 
 
 《**영웅전설 III 하얀마녀**》(英雄傳說 III 하얀魔女, , The Legend of Heroes III - Prophecy of the Moonlight Witch)은 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 만든 [1994년](../Page/1994년.md "wikilink") 출시한 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). 이 게임은 [영웅전설](https://ko.wikipedia.org/wiki/영웅전설 "wikilink") 가가브 트릴로지 시리즈의 첫 번째 게임이다.

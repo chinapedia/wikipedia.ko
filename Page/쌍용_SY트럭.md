@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SY](https://ko.wikipedia.org/wiki/_SY).
+> This article is converted from Wikipedia: [쌍용 SY트럭](https://ko.wikipedia.org/wiki/쌍용_SY트럭).
 
 
 **쌍용 SY 트럭**(Ssangyong SY Truck)은 [쌍용자동차](../Page/쌍용자동차.md "wikilink")의 대형 [트럭](../Page/트럭.md "wikilink")이다.

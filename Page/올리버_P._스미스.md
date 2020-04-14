@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
+> This article is converted from Wikipedia: [올리버 P. 스미스](https://ko.wikipedia.org/wiki/올리버_P._스미스).
 
 
 **올리버 프린스 스미스**(, 1893년 10월 26일 \~ 1977년 12월 25일)는 [미국 해병대의](../Page/미국_해병대.md "wikilink") [4성 장군이다](../Page/4성_장군.md "wikilink").

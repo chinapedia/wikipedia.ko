@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 주말극장](https://ko.wikipedia.org/wiki/SBS_주말극장).
 
 
 **SBS 주말극장**은 [SBS](../Page/SBS.md "wikilink")에서 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 밤 8시 45분에 방영된 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").

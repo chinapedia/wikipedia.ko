@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CRH1](https://ko.wikipedia.org/wiki/_CRH1).
+> This article is converted from Wikipedia: [중국고속철도 CRH1](https://ko.wikipedia.org/wiki/중국고속철도_CRH1).
 
 
 **중국고속철도 CRH1형**()은 [중화인민공화국 철도부에서](../Page/중화인민공화국_철도부.md "wikilink") 운영하는 국영철로로 제6차 철도증속 계획에 의해 [2004년](../Page/2004년.md "wikilink")부터 시작된 [광선 철로](../Page/광선_철로.md "wikilink") 등의 고속철도 차량이다.

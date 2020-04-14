@@ -45,7 +45,7 @@
 
 ## 외부 링크
 
-  - [이승기 공식홈페이지](http://www.leeseunggi.com/)
+  - [이승기 공식홈페이지](https://web.archive.org/web/20190916193656/http://leeseunggi.com/)
 
 [분류:2006년 음반](https://ko.wikipedia.org/wiki/분류:2006년_음반 "wikilink") [분류:이승기의 음반](https://ko.wikipedia.org/wiki/분류:이승기의_음반 "wikilink")
 

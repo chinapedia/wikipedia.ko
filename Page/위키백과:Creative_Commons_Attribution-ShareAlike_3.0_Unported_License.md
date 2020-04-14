@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Creative Commons Attribution-ShareAlike 3.0 Unported License](https://ko.wikipedia.org/wiki/:Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).
+> This article is converted from Wikipedia: [위키백과:Creative Commons Attribution-ShareAlike 3.0 Unported License](https://ko.wikipedia.org/wiki/위키백과:Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).
 
 
 # License

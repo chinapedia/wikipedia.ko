@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CRH3](https://ko.wikipedia.org/wiki/_CRH3).
+> This article is converted from Wikipedia: [중국고속철도 CRH3](https://ko.wikipedia.org/wiki/중국고속철도_CRH3).
 
 
 **CRH3형 전철**()은 [중화인민공화국 철도부의](../Page/중화인민공화국_철도부.md "wikilink") 제6차 재래선 증속 계획을 위해 [독일](../Page/독일.md "wikilink") [지멘스](https://ko.wikipedia.org/wiki/지멘스 "wikilink")의 기술 제공 라이선스에 의해서 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 차량 메이커가 제조하는 [고속철도](../Page/고속철도.md "wikilink") 차량이다.\[1\]

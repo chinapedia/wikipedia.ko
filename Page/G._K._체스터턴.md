@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G. K. ](https://ko.wikipedia.org/wiki/G._K._).
+> This article is converted from Wikipedia: [G. K. 체스터턴](https://ko.wikipedia.org/wiki/G._K._체스터턴).
 
 
 **길버트 키스 체스터턴**(Gilbert Keith Chesterton, [1874년](../Page/1874년.md "wikilink") 5월 29일 - [1936년](../Page/1936년.md "wikilink") 6월 14일)은 20세기의 가장 영향력있는 [영국](../Page/영국.md "wikilink") 작가 중 하나다. 그는 다양한 [저널리즘](../Page/저널리즘.md "wikilink"), [철학](../Page/철학.md "wikilink"), [시집](../Page/시_\(문학\).md "wikilink"), [전기](https://ko.wikipedia.org/wiki/전기_\(문학\) "wikilink"), [로마 가톨릭교회](../Page/로마_가톨릭교회.md "wikilink") 작가, [판타지](../Page/판타지.md "wikilink")와 [탐정소설](https://ko.wikipedia.org/wiki/추리소설 "wikilink") 등을 다작했다. 재기발랄하고 독창적인 역설들을 잘 사용함으로써 '역설의 대가'라는 칭호를 얻었으며, 호탕한 성격과 육중한 체구의 소유자로도 유명하다.

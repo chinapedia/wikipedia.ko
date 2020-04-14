@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DR ](https://ko.wikipedia.org/wiki/DR_).
+> This article is converted from Wikipedia: [DR 무비](https://ko.wikipedia.org/wiki/DR_무비).
 
 
 **DR 무비**(, )는 애니메이션 기획과 제작을 주요 사업으로 하는 [대한민국](../Page/대한민국.md "wikilink")의 기업이다.

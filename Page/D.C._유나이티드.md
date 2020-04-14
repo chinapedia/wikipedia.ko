@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D.C. ](https://ko.wikipedia.org/wiki/D.C._).
+> This article is converted from Wikipedia: [D.C. 유나이티드](https://ko.wikipedia.org/wiki/D.C._유나이티드).
 
 
 **D.C. 유나이티드**(D.C. United)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 소속된 [미국](../Page/미국.md "wikilink")의 프로축구단이다. [워싱턴 D.C.를](../Page/워싱턴_D.C..md "wikilink") 연고지로 하고 있으며 [RFK 스타디움을](../Page/로버트_F._케네디_메모리얼_스타디움.md "wikilink") 경기장으로 사용하고 있다.

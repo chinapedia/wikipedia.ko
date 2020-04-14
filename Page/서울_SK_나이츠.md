@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SK ](https://ko.wikipedia.org/wiki/_SK_).
+> This article is converted from Wikipedia: [서울 SK 나이츠](https://ko.wikipedia.org/wiki/서울_SK_나이츠).
 
 
 **서울 SK 나이츠**(Seoul SK Knights)는 [서울특별시](../Page/서울특별시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [농구](../Page/농구.md "wikilink")단이다. 법적으로는 [주식회사](../Page/주식회사.md "wikilink")이며, [SK그룹](../Page/SK그룹.md "wikilink")의 계열사이다.

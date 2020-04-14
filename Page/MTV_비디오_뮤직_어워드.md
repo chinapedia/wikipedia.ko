@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MTV   ](https://ko.wikipedia.org/wiki/MTV___).
+> This article is converted from Wikipedia: [MTV 비디오 뮤직 어워드](https://ko.wikipedia.org/wiki/MTV_비디오_뮤직_어워드).
 
 
 **MTV 비디오 뮤직 어워드**(MTV Video Music Awards, **VMA**)는 [MTV](../Page/MTV.md "wikilink")의 주최로 진행되는 [미국](../Page/미국.md "wikilink")의 음악 시상식으로, 1984년 9월 14일에 처음으로 열렸다. 역대 개최 도시는 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [뉴욕](../Page/뉴욕.md "wikilink"), [마이애미](../Page/마이애미.md "wikilink") 그리고 [라스베이거스](../Page/라스베이거스.md "wikilink")에서 열렸다.

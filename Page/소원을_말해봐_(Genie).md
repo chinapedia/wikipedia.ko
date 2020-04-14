@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(Genie\)](https://ko.wikipedia.org/wiki/__\(Genie\)).
+> This article is converted from Wikipedia: [소원을 말해봐 \(Genie\)](https://ko.wikipedia.org/wiki/소원을_말해봐_\(Genie\)).
 
 
 《**소원을 말해봐 (Genie)**》는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 두 번째 미니 음반이다. 2009년 6월 29일에 [SM 엔터테인먼트를](../Page/SM_엔터테인먼트.md "wikilink") 통해 발매되었다. 타이틀곡은 〈소원을 말해봐〉로 지치고 힘들어하는 모든 이들에게 용기와 열정을 찾을 수 있도록 복돋아주는 내용의 노래이다.

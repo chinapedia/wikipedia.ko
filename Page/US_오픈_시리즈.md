@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US  ](https://ko.wikipedia.org/wiki/US__).
+> This article is converted from Wikipedia: [US 오픈 시리즈](https://ko.wikipedia.org/wiki/US_오픈_시리즈).
 
 
 **US 오픈 시리즈**(US Open Series)는 [미국](../Page/미국.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")에서 열리는 [그랜드 슬램](../Page/그랜드_슬램_\(테니스\).md "wikilink") 대회인 [US 오픈이](../Page/US_오픈_\(테니스\).md "wikilink") 열리기 전 6주간에 걸쳐 10개의 [ATP 투어](../Page/프로_테니스_협회.md "wikilink") 대회와 [소니 에릭슨 WTA 투어](../Page/여자_테니스_협회.md "wikilink") 대회가 연속으로 열리는 [테니스](../Page/테니스.md "wikilink") 시즌을 가리킨다. **U.S. 또는 북미 하드 코트 시즌**이라고 불리기도 한다.

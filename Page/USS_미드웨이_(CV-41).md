@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-41\)](https://ko.wikipedia.org/wiki/USS__\(CV-41\)).
+> This article is converted from Wikipedia: [USS 미드웨이 \(CV-41\)](https://ko.wikipedia.org/wiki/USS_미드웨이_\(CV-41\)).
 
 
 **USS 미드웨이 (CVB/CVA/CV-41)**는 미국 해군의 디젤 항공모함이었다. 미드웨이급 항공모함의 1번함이며, [제2차 세계대전이](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 끝나고 최초로 취역한 항공모함이다. [베트남전](https://ko.wikipedia.org/wiki/베트남전 "wikilink")과 [1991년 걸프전에](https://ko.wikipedia.org/wiki/걸프전 "wikilink") 참전했으며, 현재는 캘리포니아 샌디에고에서 **USS Midway Museum**이라는 이름의 박물관으로 사용되고 있다.

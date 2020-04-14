@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [북쪽왕관자리 로 b](https://ko.wikipedia.org/wiki/북쪽왕관자리_로_b).
 
 
 **북쪽왕관자리 로 b**는 [북쪽왕관자리](../Page/북쪽왕관자리.md "wikilink") 방향으로 지구로부터 약 57광년 떨어진 곳에 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). b의 어머니 항성 [북쪽왕관자리 로는](https://ko.wikipedia.org/wiki/북쪽왕관자리_로 "wikilink") [태양과 비슷한](../Page/유사_태양.md "wikilink") [G형 주계열성이다](../Page/G형_주계열성.md "wikilink"). 1997년 4월 24일 발견 사실이 최초로 공식 발표되었다. 항성과 행성 사이 거리는 0.229 천문단위로, 태양과 지구 간격의 5분의 1밖에 되지 않는다. 짧은 거리 때문에 1회 공전 시간은 40일에 지나지 않는다. 지금까지 밝혀진 이 행성의 최소 질량은 목성과 거의 비슷하다. 그러나 시선 속도법으로는 행성의 [궤도경사각](https://ko.wikipedia.org/wiki/궤도경사각 "wikilink")까지 알 수 없어서, 경사각이 몇 도이냐에 따라 행성의 질량은 더 늘어날 수 있다. 북쪽왕관자리 로 주위에는 [먼지 원반이](../Page/먼지_원반.md "wikilink") 둘려 있는데, 행성 궤도가 원반과 일치한다고 가정할 경우 그 질량은 목성의 1.5배 수준으로 약간 늘어난다.

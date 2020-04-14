@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
+> This article is converted from Wikipedia: [파이널 판타지 X](https://ko.wikipedia.org/wiki/파이널_판타지_X).
 
 
 《**파이널 판타지 X**》(Final Fantasy X)는 [스퀘어 에닉스가](../Page/스퀘어_에닉스.md "wikilink") 만든 [콘솔용](../Page/비디오_게임_콘솔.md "wikilink") [롤플레잉 게임으로](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"), 《[파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink")》시리즈의 10번째 작품이다. 2001년 출시되었다. [PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink")로 처음 나온 파이널 판타지 시리즈인 만큼 이전 작품들과 비교할 때 영상미와 배경 음악 등에 있어 높은 수준의 향상이 있었다. [성우](../Page/성우.md "wikilink")를 최초로 사용한 시리즈이기도 하다. 한국어판의 주제가는 "얼마나 좋을까"로 [이수영](../Page/이수영.md "wikilink")이 불렀다.

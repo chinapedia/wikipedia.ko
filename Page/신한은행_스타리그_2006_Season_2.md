@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  2006 Season 2](https://ko.wikipedia.org/wiki/__2006_Season_2).
+> This article is converted from Wikipedia: [신한은행 스타리그 2006 Season 2](https://ko.wikipedia.org/wiki/신한은행_스타리그_2006_Season_2).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Shinhanseason2.png "wikilink") **신한은행 스타리그 2006 Season 2**은 [2006년](../Page/2006년.md "wikilink")에 진행된 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")이다.

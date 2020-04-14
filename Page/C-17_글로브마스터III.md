@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C-17 III](https://ko.wikipedia.org/wiki/C-17_III).
+> This article is converted from Wikipedia: [C-17 글로브마스터III](https://ko.wikipedia.org/wiki/C-17_글로브마스터III).
 
 
 **C-17 글로브마스터 III**()는 1980년대에서 1990년대 초에 걸쳐 [보잉](../Page/보잉.md "wikilink") (구. [맥도넬 더글라스](https://ko.wikipedia.org/wiki/맥도넬_더글라스 "wikilink"))에서 개발된 265톤의 장거리 대형 [전략 수송기이다](https://ko.wikipedia.org/wiki/전략_수송기 "wikilink"). [미국 공군의](../Page/미국_공군.md "wikilink") 최대인 418톤 [록히드 C-5 갤럭시](../Page/록히드_C-5_갤럭시.md "wikilink") 수송기와 함께 265톤 C-17은 미군의 국제적인 장거리 전략 수송 임무를 수행한다. C-74 글로브마스터 또는 C-124 글로브마스터 II 라고도 불렸었다. 2008년, [보잉](../Page/보잉.md "wikilink")은 대한민국에 4대를 수출하려고 했었다.\[1\]

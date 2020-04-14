@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IV](https://ko.wikipedia.org/wiki/_IV).
+> This article is converted from Wikipedia: [타이탄 IV](https://ko.wikipedia.org/wiki/타이탄_IV).
 
 
 **타이탄 IV**는 [미국 공군의](../Page/미국_공군.md "wikilink") 우주발사체이다.\[1\]

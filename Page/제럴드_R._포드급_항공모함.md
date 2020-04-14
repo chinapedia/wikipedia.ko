@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R.  ](https://ko.wikipedia.org/wiki/_R.__).
+> This article is converted from Wikipedia: [제럴드 R. 포드급 항공모함](https://ko.wikipedia.org/wiki/제럴드_R._포드급_항공모함).
 
 
 **제럴드 R. 포드급 항공모함**(Gerald R. Ford class aircraft carrier)은 미국 해군의 차기 항공모함이다. 명칭은 미국 제38대 대통령 [제럴드 포드에서](../Page/제럴드_포드.md "wikilink") 유래했다.

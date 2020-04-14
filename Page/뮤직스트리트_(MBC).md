@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(MBC\)](https://ko.wikipedia.org/wiki/_\(MBC\)).
+> This article is converted from Wikipedia: [뮤직스트리트 \(MBC\)](https://ko.wikipedia.org/wiki/뮤직스트리트_\(MBC\)).
 
 
 **뮤직스트리트**()는 [MBC FM4U에서](../Page/MBC_FM4U.md "wikilink") 매일 새벽 3시마다 방송되던 라디오 프로그램이다. [2005년](../Page/2005년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") 새벽 2시부터 5시 이전까지 2시간 55분 분량의 대형프로그램으로 방송을 시작하였으며\[1\], 1시간씩 각기 다른 진행자가 진행하였다. 특히 당시 이 프로그램의 담당 PD이기도 한 한재희 PD도 2부를 직접 진행하였다. 진행자가 3명에 이르기 때문에 정기 개편때마다 개편이 잦았고, 원래 뮤직스트리트에 소속되어 있었던 [이주연의 영화음악과](https://ko.wikipedia.org/wiki/이주연의_영화음악 "wikilink") 뮤직스트리트 3부가 별도의 프로그램으로 각각 독립하면서 방송시간을 새벽 3시에서 4시까지 1시간으로 대폭 단축하게 되었다. 이후 [2009년](../Page/2009년.md "wikilink") 봄 개편에는 다시 과거 3부 시간대에 방송되었던 [라디오 데이즈를](https://ko.wikipedia.org/wiki/라디오_데이즈 "wikilink") 통합하여 새벽 3시부터 4시 55분까지 방송하는 체제로 굳어지게 되었다. 그러나 [2011년](../Page/2011년.md "wikilink") 봄 개편이 됨으로써 새벽 4시 55분 방송종료와 함께 5월 9일을 마지막으로 폐지되었다.\[2\]
