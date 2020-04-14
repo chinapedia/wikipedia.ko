@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  III](https://ko.wikipedia.org/wiki/__III).
+> This article is converted from Wikipedia: [베어 너클 III](https://ko.wikipedia.org/wiki/베어_너클_III).
 
 
 《**스트리츠 오브 레이지 3**》, 《**베어 너클 III**》로 불리는 [메가드라이브](https://ko.wikipedia.org/wiki/메가드라이브 "wikilink")의 [1994년](../Page/1994년.md "wikilink") 게임은 [벨트스크롤 격투 게임으로](https://ko.wikipedia.org/wiki/벨트스크롤_격투_게임 "wikilink"), 이전작으로 [베어 너클 2가](../Page/베어_너클_II:_사투로의_진혼가.md "wikilink") 있었다.

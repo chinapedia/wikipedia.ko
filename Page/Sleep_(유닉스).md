@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sleep \(\)](https://ko.wikipedia.org/wiki/Sleep_\(\)).
+> This article is converted from Wikipedia: [Sleep \(유닉스\)](https://ko.wikipedia.org/wiki/Sleep_\(유닉스\)).
 
 
 **sleep**은 지정된 시간 동안 프로그램 실행을 [유예시키는](https://ko.wikipedia.org/wiki/sleep_\(시스템_호출\) "wikilink") [유닉스](../Page/유닉스.md "wikilink") [명령 줄](https://ko.wikipedia.org/wiki/명령_줄 "wikilink") 프로그램이다. 이 sleep 명령은 적어도 지정된 초 (기본값), 분, 시간, 날 동안 호출 중인 프로세스를 유예한다.

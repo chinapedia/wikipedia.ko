@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(LPD-15\)](https://ko.wikipedia.org/wiki/USS__\(LPD-15\)).
+> This article is converted from Wikipedia: [USS 폰스 \(LPD-15\)](https://ko.wikipedia.org/wiki/USS_폰스_\(LPD-15\)).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Laser_Weapon_System_aboard_USS_Ponce_\(AFSB\(I\)-15\)_in_November_2014_\(05\).JPG "wikilink")\]\] **USS 폰스 (LPD-15)**는 미국의 17,000톤급 [오스틴급 강습상륙함이다](https://ko.wikipedia.org/wiki/오스틴급_강습상륙함 "wikilink").

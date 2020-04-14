@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ZARD  ](https://ko.wikipedia.org/wiki/ZARD__).
+> This article is converted from Wikipedia: [ZARD의 음반 목록](https://ko.wikipedia.org/wiki/ZARD의_음반_목록).
 
 
 **[ZARD](../Page/ZARD.md "wikilink")**는 [사카이 이즈미를](../Page/사카이_이즈미.md "wikilink") 중심으로 활동했던 일본의 [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). ZARD는 사카이가 사망한 2007년까지 활동했지만 사후에도 음반이 제작되었고, 지금까지 모두 11장의 [정규 음반](../Page/정규_음반.md "wikilink"), 1장의 [라이브 음반](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink"), 1장의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink"), 45장의 [싱글](../Page/싱글_\(음악\).md "wikilink"), 12장의 [컴필레이션을](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink") 발표했다. 컴필레이션은 다시 세 종류로 구분할 수 있고, 각각 5장의 [베스트 음반](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink"), 4장의 셀렉션 음반, [박스 세트](https://ko.wikipedia.org/wiki/박스_세트 "wikilink") 3세트이다. 데뷔 25주년이던 2016년, 그녀의 곡들을 다시 편곡해 발매한 [헌정 음반도](https://ko.wikipedia.org/wiki/헌정_음반 "wikilink") 1장 존재한다.

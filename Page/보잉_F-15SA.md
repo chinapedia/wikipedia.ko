@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F-15SA](https://ko.wikipedia.org/wiki/_F-15SA).
+> This article is converted from Wikipedia: [보잉 F-15SA](https://ko.wikipedia.org/wiki/보잉_F-15SA).
 
 
 **보잉 F-15SA**는 F-15E 스트라이크 이글의 사우디아라비아판이다.

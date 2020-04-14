@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Beautiful Days \(OKAMOTO\'S \)](https://ko.wikipedia.org/wiki/Beautiful_Days_\(OKAMOTO\'S_\)).
+> This article is converted from Wikipedia: [Beautiful Days \(OKAMOTO\'S의 노래\)](https://ko.wikipedia.org/wiki/Beautiful_Days_\(OKAMOTO\'S의_노래\)).
 
 
 「**Beautiful Days**」는 [OKAMOTO'S](https://ko.wikipedia.org/wiki/OKAMOTO'S "wikilink")의 8번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2015년](../Page/2015년.md "wikilink") [11월 25일에](../Page/11월_25일.md "wikilink") [Ariola Japan](https://ko.wikipedia.org/wiki/아리오라_재팬 "wikilink")([Sony Music Labels](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink"))에서 발매되었다. 기간생산한정판은 애니메이션 「[은혼°](https://ko.wikipedia.org/wiki/은혼° "wikilink")」 신작 7inch 사양의 자켓이 부속되어 있다. 또, 특전 DVD에는 「Dance With Me」「Dance With You」의 뮤직비디오와 6th 앨범 「OPERA」의 [티저 무비도](../Page/티저_광고.md "wikilink") 수록되어 있다.

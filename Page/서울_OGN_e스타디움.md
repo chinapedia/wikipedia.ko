@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OGN e](https://ko.wikipedia.org/wiki/_OGN_e).
+> This article is converted from Wikipedia: [서울 OGN e스타디움](https://ko.wikipedia.org/wiki/서울_OGN_e스타디움).
 
 
 **서울 OGN e스타디움**은 [서울특별시](../Page/서울특별시.md "wikilink")와 [문화체육관광부](https://ko.wikipedia.org/wiki/문화체육관광부 "wikilink")가 공동으로 건설한 서울특별시 시유재산이다. 현재 공유재산법률 상의 사용수익허가의 방식으로 [OGN](../Page/OGN.md "wikilink")이 운영하고 있는 국내 유일의 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink") 전용 경기장으로, 서울 상암동 에스플렉스센터 12층부터 17층 사이에 위치하고 있다.

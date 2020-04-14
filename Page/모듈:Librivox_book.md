@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Librivox book](https://ko.wikipedia.org/wiki/:Librivox_book).
+> This article is converted from Wikipedia: [모듈:Librivox book](https://ko.wikipedia.org/wiki/모듈:Librivox_book).
 
 
 local p = {}

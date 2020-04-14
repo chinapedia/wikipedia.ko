@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [윌리엄 J. 시모어](https://ko.wikipedia.org/wiki/윌리엄_J._시모어).
 
 
 **윌리엄 조지프 시모어**(William Joseph Seymour, [1870년](../Page/1870년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") \~ [1922년](../Page/1922년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [목사](../Page/목사.md "wikilink")로 아주사 가 부흥 운동의 지도자이다.\[1\]
@@ -7,9 +7,9 @@
 
 ## 초기 생애
 
-[루이지애나주](../Page/루이지애나주.md "wikilink") 센터빌에서 태어났다. 그의 부모는 둘다 최근에 해방된 노예들로 사이먼 시모어와 필리스 샐러바이다. 시모어의 유아기와 어린 시절 동안에 그의 가족은 [침례교](../Page/침례교.md "wikilink")와 [가톨릭](../Page/가톨릭.md "wikilink") 교회들과 함께 제휴하였다. 그가 태어난지 4개월 만에 시모어는 루이지애나 주 프랭클린에 있는 성모 승천 교회에서 가톨릭 세례를 받았다.
+[루이지애나주](../Page/루이지애나주.md "wikilink") 센터빌에서 태어났다. 그의 부모는 둘다 최근에 해방된 노예들로 사이먼 시모어와 필리스 샐러바이다. 시모어의 유아기와 어린 시절 동안에 그의 가족은 [침례교](../Page/침례교.md "wikilink")와 [천주교](https://ko.wikipedia.org/wiki/천주교 "wikilink") 환경에서 성장했다. 그가 태어난지 4개월 만에 시모어는 루이지애나 주 프랭클린에 있는 성모 승천 교회에서 천주교 세례를 받았다.
 
-빈곤에 자라오고, 약간의 정규 교육을 받고 하나님의 전망을 가진 것으로 주장된 것을 제외하고는 그의 초기 생애에 알려진 것이 없다. 청년 시절에 그는 다량으로 여행을 다녔다. [1895년](../Page/1895년.md "wikilink") 25세때 시모어는 [인디애나주](../Page/인디애나주.md "wikilink") [인디애나폴리스](../Page/인디애나폴리스.md "wikilink")로 이주하였다. 평균 이상의 레스토랑과 [호텔](https://ko.wikipedia.org/wiki/호텔 "wikilink")들에서 [웨이터](https://ko.wikipedia.org/wiki/웨이터 "wikilink")로 일하는 동안 그는 우세하게 백인의 [감리교 성공회의](https://ko.wikipedia.org/wiki/감리교_성공회 "wikilink") [아프리카계 미국인](../Page/아프리카계_미국인.md "wikilink") 회중이었던 심슨 예배당 감리교 성공회 교회에 가입하였다.
+빈곤한 환경에서 성장했다는 것과, 약간의 정규 교육을 받고 하나님의 사역에 전념했다는 것 이외에는 그의 초기 생애에 알려진 것이 없다. 청년 시절에 그는 많은 여행을 다녔다. [1895년](../Page/1895년.md "wikilink") 25세때 시모어는 [인디애나주](../Page/인디애나주.md "wikilink") [인디애나폴리스](../Page/인디애나폴리스.md "wikilink")로 이주하였다. 고급식당과 [호텔](https://ko.wikipedia.org/wiki/호텔 "wikilink")에서 [웨이터](https://ko.wikipedia.org/wiki/웨이터 "wikilink")로 일하는 동안 그는 미국 남북전쟁으로 분리되었던 북부 감리교회인 [감리교 감독교회에서](https://ko.wikipedia.org/wiki/감리교_감독교회 "wikilink") 흑인을 위해 설립했던 [아프리카 감리교 감독교회의](https://ko.wikipedia.org/wiki/아프리카_감리교_감독교회 "wikilink") 심슨교회에 등록하였다.
 
 [1900년](../Page/1900년.md "wikilink") 그는 [오하이오주](../Page/오하이오주.md "wikilink") [신시내티](../Page/신시내티.md "wikilink")로 이주하여 [하나님의 성회](https://ko.wikipedia.org/wiki/하나님의_성회 "wikilink") 만민 구제 운동에 가입하였다. 단체는 신앙의 치유와 [그리스도](../Page/그리스도.md "wikilink")의 절박한 귀환에 믿음, 숭배에서 인종 통합에 의하여 지적될 이벤트 - 자신의 경력을 통하여 가끔 위대한 성공과 함께 시모어가 가져오려고 하던 화해를 포함한 근본적인 교의를 체택한 자라나는 [성결 운동의](../Page/성결_운동.md "wikilink") 일부였다. 단체는 또한 19세기의 [개신교](../Page/개신교.md "wikilink")의 교리로 돌아간 개념인 축성의 교의를 믿기도 하였다. 하지만 그 단체는 그리스도의 수락과 [성령](../Page/성령.md "wikilink")의 세례에 이어 점차적이 아닌 즉시의 개종과 축성을 믿기도 하였다.
 

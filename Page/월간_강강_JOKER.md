@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  JOKER](https://ko.wikipedia.org/wiki/__JOKER).
+> This article is converted from Wikipedia: [월간 강강 JOKER](https://ko.wikipedia.org/wiki/월간_강강_JOKER).
 
 
 「**월간 강강 JOKER**」(월간 강강 조커)는 [스퀘어 에닉스가](../Page/스퀘어_에닉스.md "wikilink") 발행하는 일본의 월간 만화 잡지이다. 2009년 4월 22일에 창간 하였으며, 간행주기는 매월 22일에 발매된다.
@@ -609,7 +609,7 @@
 </tr>
 <tr class="odd">
 <td><p>57</p></td>
-<td><p><span style="display:none">かけくるい</span> <strong><a href="https://ko.wikipedia.org/wiki/카케구루이" title="wikilink">카케구루이</a></strong></p></td>
+<td><p><span style="display:none">かけくるい</span> <strong><a href="../Page/카케구루이.md" title="wikilink">카케구루이</a></strong></p></td>
 <td><p><span style="display:none">なおむら とおる</span> <a href="https://ko.wikipedia.org/wiki/나오무라_토오루" title="wikilink">나오무라 토오루</a><span style="font-size:90%;">（작화）</span></p></td>
 <td><p><span style="display:none">かわもと ほむら</span> 카와모토 호무라<span style="font-size:90%;">（원작）</span></p></td>
 <td><p>2014.04</p></td>
@@ -765,7 +765,7 @@
 </tr>
 <tr class="even">
 <td><p>73</p></td>
-<td><p><span style="display:none">かけくるいついん</span> <strong><a href="https://ko.wikipedia.org/wiki/카케구루이" title="wikilink">카케구루이 트윈</a></strong></p></td>
+<td><p><span style="display:none">かけくるいついん</span> <strong><a href="../Page/카케구루이.md" title="wikilink">카케구루이 트윈</a></strong></p></td>
 <td><p><span style="display:none">さいき けい</span> 사이키 케이<span style="font-size:90%;">（작화）</span></p></td>
 <td><p><span style="display:none">かわもと ほむら</span> 카와모토 호무라<span style="font-size:90%;">（원작）</span></p></td>
 <td><p>2015.10</p></td>
@@ -883,7 +883,7 @@
 </tr>
 <tr class="odd">
 <td><p>83</p></td>
-<td><p><span style="display:none">かけくるいかつこかり</span> <strong><a href="https://ko.wikipedia.org/wiki/카케구루이" title="wikilink">카케구루이</a>（베타）</strong></p></td>
+<td><p><span style="display:none">かけくるいかつこかり</span> <strong><a href="../Page/카케구루이.md" title="wikilink">카케구루이</a>（베타）</strong></p></td>
 <td><p><span style="display:none">かわむら たく</span> 카와무라 타쿠<span style="font-size:90%;">（작화）</span></p></td>
 <td><p><span style="display:none">かわもと ほむら</span> 카와모토 호무라<span style="font-size:90%;">（원작・감수）</span></p></td>
 <td><p>2017.01</p></td>

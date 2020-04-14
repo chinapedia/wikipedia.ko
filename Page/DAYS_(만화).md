@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DAYS \(\)](https://ko.wikipedia.org/wiki/DAYS_\(\)).
+> This article is converted from Wikipedia: [DAYS \(만화\)](https://ko.wikipedia.org/wiki/DAYS_\(만화\)).
 
 
 《**DAYS**》(데이즈)는 [야스다 츠나요시의](https://ko.wikipedia.org/wiki/야스다_츠나요시 "wikilink") [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink")이며, [2013년](../Page/2013년.md "wikilink") 21 · 22 합병호부터 [코단샤](https://ko.wikipedia.org/wiki/코단샤 "wikilink") 발행의 소년 만화잡지 「[주간 소년 매거진](../Page/주간_소년_매거진.md "wikilink")」에서 연재중이다.

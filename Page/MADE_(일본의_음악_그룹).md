@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MADE \(  \)](https://ko.wikipedia.org/wiki/MADE_\(__\)).
+> This article is converted from Wikipedia: [MADE \(일본의 음악 그룹\)](https://ko.wikipedia.org/wiki/MADE_\(일본의_음악_그룹\)).
 
 
 **MADE**는 [쟈니즈 Jr.의](https://ko.wikipedia.org/wiki/자니즈_주니어 "wikilink") 4인조 유닛이다. [쟈니즈 사무소](https://ko.wikipedia.org/wiki/쟈니즈_사무소 "wikilink") 소속이다.

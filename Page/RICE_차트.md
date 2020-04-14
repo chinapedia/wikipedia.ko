@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RICE ](https://ko.wikipedia.org/wiki/RICE_).
+> This article is converted from Wikipedia: [RICE 차트](https://ko.wikipedia.org/wiki/RICE_차트).
 
 
 **RICE 차트**(RICE chart)란 화학 평형 반응에서 농도변화를 기록하는 다형식 계산법이다.

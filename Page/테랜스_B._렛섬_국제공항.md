@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B.  ](https://ko.wikipedia.org/wiki/_B.__).
+> This article is converted from Wikipedia: [테랜스 B. 렛섬 국제공항](https://ko.wikipedia.org/wiki/테랜스_B._렛섬_국제공항).
 
 
 **테랜스 B. 렛섬 국제공항**()은 예전엔 **비프 아일랜드 공항**()이라고 불렀다. [카리브 제도의](../Page/카리브_제도.md "wikilink") [영국의 해외 영토인](../Page/영국의_해외_영토.md "wikilink") [영국령 버진아일랜드의](../Page/영국령_버진아일랜드.md "wikilink") 주공항이다.

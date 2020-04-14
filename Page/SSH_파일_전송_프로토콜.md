@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SSH   ](https://ko.wikipedia.org/wiki/SSH___).
+> This article is converted from Wikipedia: [SSH 파일 전송 프로토콜](https://ko.wikipedia.org/wiki/SSH_파일_전송_프로토콜).
 
 
 [컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 **SSH 파일 전송 프로토콜**(SSH File Transfer Protocol) 또는 **보안 파일 전송 프로토콜**(Secure File Transfer Protocol, **SFTP**)은 신뢰할 수 있는 [데이터 스트림을](https://ko.wikipedia.org/wiki/데이터_스트림 "wikilink") 통해 [파일 접근](https://ko.wikipedia.org/wiki/파일_접근 "wikilink"), [파일 전송](https://ko.wikipedia.org/wiki/파일_전송 "wikilink"), [파일 관리를](https://ko.wikipedia.org/wiki/파일_관리 "wikilink") 제공하는 [네트워크 프로토콜이다](https://ko.wikipedia.org/wiki/네트워크_프로토콜 "wikilink"). [국제 인터넷 표준화 기구](../Page/국제_인터넷_표준화_기구.md "wikilink")(IETF)가 보안 파일 전송 기능을 제공할 목적으로 [시큐어 셸](../Page/시큐어_셸.md "wikilink") 프로토콜 (SSH) 버전 2.0의 확장으로 설계하였다. IETF [인터넷 초안에](https://ko.wikipedia.org/wiki/인터넷_초안 "wikilink") 따르면 이 프로토콜이 SSH-2 프로토콜의 문맥 안에 기술되어 있지만 [전송 계층 보안](../Page/전송_계층_보안.md "wikilink")(TLS)를 통하는 보안 파일 전송 프로그램이나 [VPN](https://ko.wikipedia.org/wiki/VPN "wikilink") 응용 프로그램의 관리 정보 전송과 같은 다른 수많은 응용 프로그램들에도 사용할 수 있다고 언급되어 있다.

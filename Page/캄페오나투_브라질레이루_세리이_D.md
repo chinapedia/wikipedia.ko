@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [   D](https://ko.wikipedia.org/wiki/___D).
+> This article is converted from Wikipedia: [캄페오나투 브라질레이루 세리이 D](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_D).
 
 
-**캄페오나투 브라질레이루 세리이 D** ()는 브라질 프로 축구의 전국리그 4부리그이다. [브라질 축구협회에서](https://ko.wikipedia.org/wiki/브라질_축구협회 "wikilink") 주관한다.
+**캄페오나투 브라질레이루 세리이 D**()는 브라질 프로 축구의 전국리그 4부리그이다. [브라질 축구협회에서](https://ko.wikipedia.org/wiki/브라질_축구협회 "wikilink") 주관한다.
 
 ## 방식
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IHQ](https://ko.wikipedia.org/wiki/:IHQ).
+> This article is converted from Wikipedia: [틀:IHQ](https://ko.wikipedia.org/wiki/틀:IHQ).
 
 
 <onlyinclude></onlyinclude>

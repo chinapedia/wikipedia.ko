@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SSR](https://ko.wikipedia.org/wiki/_SSR).
+> This article is converted from Wikipedia: [쉐보레 SSR](https://ko.wikipedia.org/wiki/쉐보레_SSR).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Flickr_-_DVS1mn_-_04_Chevrolet_SSR.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Flickr_-_DVS1mn_-_04_Chevrolet_SSR_\(1\).jpg "wikilink")

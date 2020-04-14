@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FA](https://ko.wikipedia.org/wiki/_FA).
+> This article is converted from Wikipedia: [쿠알라룸푸르 FA](https://ko.wikipedia.org/wiki/쿠알라룸푸르_FA).
 
 
 **쿠알라룸푸르 FA**()는 말레이시아 수도 [쿠알라룸푸르](../Page/쿠알라룸푸르.md "wikilink")를 연고지로 하는 프로 [축구](../Page/축구.md "wikilink")단이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:BS16text](https://ko.wikipedia.org/wiki/:BS16text).
+> This article is converted from Wikipedia: [틀:BS16text](https://ko.wikipedia.org/wiki/틀:BS16text).
 
 
 <includeonly>|- |style="padding:0; white-space:nowrap;text-align:center;"|

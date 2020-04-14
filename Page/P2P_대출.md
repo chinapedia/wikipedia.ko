@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P2P ](https://ko.wikipedia.org/wiki/P2P_).
+> This article is converted from Wikipedia: [P2P 대출](https://ko.wikipedia.org/wiki/P2P_대출).
 
 
 **P2P 대출()**은 [온라인](https://ko.wikipedia.org/wiki/온라인 "wikilink") 서비스를 통해 [채무자](https://ko.wikipedia.org/wiki/채무자 "wikilink")와 [채권자](https://ko.wikipedia.org/wiki/채권자 "wikilink")를 바로 연결해주는 대출 서비스이다. P2P 대출을 하는 회사들은 대출 서비스를 온라인으로 하면서, 전통적인 금융기관에 비해 간접비를 줄이고, 운영비를 줄일 수 있는 장점을 가지고 있다. 그 결과, 채권자들은 [은행](../Page/은행.md "wikilink")에 투자하거나 예금을 맡기는 것보다 높은 수익율을 낼 수 있으며, 채무자들은 보다 낮은 이율에 대출을 할 수 있다. 또한, P2P 대출 회사는 채권자와 채무자의 연결을 중계하는 [수수료](https://ko.wikipedia.org/wiki/수수료 "wikilink")와 채무자의 [신용등급](../Page/신용등급.md "wikilink")을 확인하는 서비스로 이익을 낼 수 있다.

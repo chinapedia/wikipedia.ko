@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ API \(\)](https://ko.wikipedia.org/wiki/_API_\(\)).
+> This article is converted from Wikipedia: [크립토 API \(리눅스\)](https://ko.wikipedia.org/wiki/크립토_API_\(리눅스\)).
 
 
 **크립토 API**(Crypto API)는 [리눅스 커널에서](../Page/리눅스_커널.md "wikilink") 사용하는 암호 프레임워크이며, [IPsec](https://ko.wikipedia.org/wiki/IPsec "wikilink")과 dm-crypt와 같은 암호화된 데이터를 다루는 부분에서 사용한다. 리눅스 커널 버전 2.5.45에서 최초로 도입되었으며\[1\] 자주 사용되는 [블록 암호와](https://ko.wikipedia.org/wiki/블록_암호 "wikilink") [해시 함수를](../Page/해시_함수.md "wikilink") 포함하기 위해 확장되고 있다.

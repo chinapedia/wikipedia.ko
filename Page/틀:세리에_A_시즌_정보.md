@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: A  ](https://ko.wikipedia.org/wiki/:_A__).
+> This article is converted from Wikipedia: [틀:세리에 A 시즌 정보](https://ko.wikipedia.org/wiki/틀:세리에_A_시즌_정보).
 
 
 <onlyinclude> |항목2 = **횟수** |내용2 =  |항목3 = **주관** |내용3 =  |항목4 = **날짜** |내용4 =  |항목5 = **장소** |내용5 = {{\#if:||}} |항목6 = **참가팀 수** |내용6 =  |항목7 = **경기장** |내용7 =

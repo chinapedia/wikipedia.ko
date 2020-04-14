@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 1TV ](https://ko.wikipedia.org/wiki/_1TV_).
+> This article is converted from Wikipedia: [한국방송공사 1TV 특집드라마](https://ko.wikipedia.org/wiki/한국방송공사_1TV_특집드라마).
 
 
 **한국방송공사 1TV 특집드라마**는 명절이나 특정한 기간으로 지정된 날이나 달을 기념하기 위해 부정기적으로 편성·방영되는 드라마이다.
@@ -148,9 +148,9 @@
   - 《[역사를 찾아서](https://ko.wikipedia.org/wiki/역사를_찾아서_\(드라마\) "wikilink")》 : 1988년 6월 11일 (분단 문학 시리즈)
   - 《[한씨 연대기](https://ko.wikipedia.org/wiki/한씨_연대기 "wikilink")》 : 1988년 6월 18일 (분단 문학 시리즈)
   - 《[1986년 9월의 비망록](https://ko.wikipedia.org/wiki/1986년_9월의_비망록 "wikilink")》 : 1988년 8월 15일 (8.15 특집 드라마)
-  - 《[춘향전](https://ko.wikipedia.org/wiki/춘향전_\(1988년_드라마\) "wikilink")》 : 1988년 9월 24일 (88올림픽 특집 드라마, **[한국고전 시리즈](https://ko.wikipedia.org/wiki/한국고전_시리즈 "wikilink")**로 방영됨)
-  - 《[심청전](https://ko.wikipedia.org/wiki/심청전_\(드라마\) "wikilink")》 : 1988년 9월 25일 (88올림픽 특집 드라마, **한국고전 시리즈** 방영됨)
-  - 《[배비장전](https://ko.wikipedia.org/wiki/배비장전_\(드라마\) "wikilink")》 : 1988년 9월 26일 (88올림픽 특집 드라마, **한국고전 시리즈** 방영됨)
+  - 《[춘향전](../Page/춘향전_\(1988년_드라마\).md "wikilink")》 : 1988년 9월 24일 (88올림픽 특집 드라마, **[한국고전 시리즈](../Page/한국고전_시리즈.md "wikilink")**로 방영됨)
+  - 《[심청전](../Page/심청전_\(드라마\).md "wikilink")》 : 1988년 9월 25일 (88올림픽 특집 드라마, **한국고전 시리즈** 방영됨)
+  - 《[배비장전](../Page/배비장전_\(드라마\).md "wikilink")》 : 1988년 9월 26일 (88올림픽 특집 드라마, **한국고전 시리즈** 방영됨)
   - 《[조선백자 마리아상](../Page/조선백자_마리아상.md "wikilink")》 : 1988년 12월 23일 \~ 1988년 12월 24일 (성탄 특집 드라마)
 
 #### 1989년
@@ -206,7 +206,7 @@
   - 《[아버지](https://ko.wikipedia.org/wiki/아버지_\(1992년_드라마\) "wikilink")》 : 1992년 5월 11일 (가정의 달 특집 드라마)
   - 《[어머니](https://ko.wikipedia.org/wiki/어머니_\(1992년_드라마\) "wikilink")》 : 1992년 5월 13일 (가정의 달 특집 드라마)
   - 《[시간과 눈물](../Page/시간과_눈물.md "wikilink")》 : 1992년 6월 25일 (6.25 특집 드라마)
-  - 《[대리인](https://ko.wikipedia.org/wiki/대리인_\(드라마\) "wikilink")》 : 1992년 8월 14일 (8.15 특집 드라마)
+  - 《[대리인](../Page/대리인_\(드라마\).md "wikilink")》 : 1992년 8월 14일 (8.15 특집 드라마)
   - 《[오유란전](https://ko.wikipedia.org/wiki/오유란전 "wikilink")》 : 1992년 9월 11일 (추석 특집 드라마)
   - 《[제 탓입니다](https://ko.wikipedia.org/wiki/제_탓입니다 "wikilink")》 : 1992년 10월 24일 (저축의 날 특집 드라마)
   - 《[모짜르트가 된 청소부](https://ko.wikipedia.org/wiki/모짜르트가_된_청소부 "wikilink")》 : 1992년 12월 7일 (TV 극본 공모 시리즈)
@@ -273,11 +273,11 @@
 
 #### 2000년
 
-  - 《[세상의 아침](https://ko.wikipedia.org/wiki/세상의_아침_\(드라마\) "wikilink")》 : 2000년 1월 1일 (신년 특집 드라마)
+  - 《[세상의 아침](../Page/세상의_아침_\(드라마\).md "wikilink")》 : 2000년 1월 1일 (신년 특집 드라마)
 
 #### 2001년
 
-  - 《[세상의 아침](https://ko.wikipedia.org/wiki/세상의_아침_\(드라마\) "wikilink")》 : 2001년 1월 1일 (앙코르 신년 특집 드라마)
+  - 《[세상의 아침](../Page/세상의_아침_\(드라마\).md "wikilink")》 : 2001년 1월 1일 (앙코르 신년 특집 드라마)
 
 #### 2003년
 

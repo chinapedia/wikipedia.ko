@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R-29RMU2 ](https://ko.wikipedia.org/wiki/R-29RMU2_).
+> This article is converted from Wikipedia: [R-29RMU2 라이네르](https://ko.wikipedia.org/wiki/R-29RMU2_라이네르).
 
 
 **R-29RMU2.1** *라이네르*는 [러시아 해군의](../Page/러시아_해군.md "wikilink") 신형 잠수함 발사 탄도 미사일이다. [R-29RMU](../Page/R-29RMU.md "wikilink") 시네바 미사일의 개량형이다. 라이네르는 시네바의 3배인 12발의 핵탄두를 탑재하며, [델타4급 잠수함에](https://ko.wikipedia.org/wiki/델타4급_잠수함 "wikilink") 16발을 탑재한다.

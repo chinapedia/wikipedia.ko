@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S\&T](https://ko.wikipedia.org/wiki/S\&T).
+> This article is converted from Wikipedia: [S\&T그룹](https://ko.wikipedia.org/wiki/S\&T그룹).
 
 
 **S\&T그룹** (<small>[국문](https://ko.wikipedia.org/wiki/국문 "wikilink"):</small> 에스앤티그룹, )은, [대한민국](../Page/대한민국.md "wikilink")의 기업집단이며 [대기업](../Page/대기업.md "wikilink")([대규모 기업집단](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink"))군에 속하는 그룹이다.

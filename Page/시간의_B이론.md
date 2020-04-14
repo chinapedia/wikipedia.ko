@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B](https://ko.wikipedia.org/wiki/_B).
+> This article is converted from Wikipedia: [시간의 B이론](https://ko.wikipedia.org/wiki/시간의_B이론).
 
 
 **시간의 B이론**은 시간의 철학에 관한 두 위치 중 하나에 부여된 이름이다. B이론가들은 과거, 현재, 미래가 동일하게 사실이며, 시간은 시제가 없고, 시간의 흐름은 환상이라고 주장한다. 이는 시간의 흐름이 현실의 객관적 기능이 아님을 의미한다.

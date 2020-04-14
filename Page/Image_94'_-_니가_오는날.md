@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Image 94\' -  ](https://ko.wikipedia.org/wiki/Image_94\'_-__).
+> This article is converted from Wikipedia: [Image 94\' - 니가 오는날](https://ko.wikipedia.org/wiki/Image_94\'_-_니가_오는날).
 
 
 《**Image 94' - 니가 오는날**》은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [변진섭](../Page/변진섭.md "wikilink")의 여섯 번째 정규 음반이다.

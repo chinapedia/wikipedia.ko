@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [윌리엄 J. 도노반](https://ko.wikipedia.org/wiki/윌리엄_J._도노반).
 
 
 **윌리엄 J. 도노반**(1883년 1월 1일 – 1959년 2월 8일)은 미국 군인, 변호사, 정보장교, 외교관이다. 육군 대령 도노반은 [CIA](https://ko.wikipedia.org/wiki/CIA "wikilink")의 전신인 [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 당시의 [전략사무국](../Page/전략사무국.md "wikilink")(OSS)의 초대 국장으로 유명하다. **CIA의 아버지**라고 불린다.

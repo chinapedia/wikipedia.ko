@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [하노이 FC](https://ko.wikipedia.org/wiki/하노이_FC).
 
 
 **하노이 FC**()는 [베트남](../Page/베트남.md "wikilink") 수도 [하노이](https://ko.wikipedia.org/wiki/하노이 "wikilink")를 연고로 하는 축구 클럽이다. [2006년](../Page/2006년.md "wikilink")에 창단되었으며, 현재 베트남 축구 최상위 리그 [V리그 1에](../Page/V리그_1.md "wikilink") 소속되어 있다. 과거에는 **하노이 T\&T FC**라 불렸다.

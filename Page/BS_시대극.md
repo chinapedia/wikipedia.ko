@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BS ](https://ko.wikipedia.org/wiki/BS_).
+> This article is converted from Wikipedia: [BS 시대극](https://ko.wikipedia.org/wiki/BS_시대극).
 
 
 **BS 시대극**은 [NHK BS 프리미엄의](../Page/NHK_BS_프리미엄.md "wikilink") 시대극.
@@ -102,6 +102,17 @@
   - **[대부호 도신](https://ko.wikipedia.org/wiki/대부호_도신 "wikilink")** (5월 - )
   - **[달개비풀 나나의 검](https://ko.wikipedia.org/wiki/달개비풀_나나의_검 "wikilink")** (7월 - )
   - **빨간 수염2** (11월 - )
+
+<!-- end list -->
+
+  - 2020년
+
+<!-- end list -->
+
+  - **오오카 에치젠5** (1월 - )
+  - **나루토 비첩2** (2월 - )
+  - *메이지 개화 탐정첩* (5월 - )
+  - **쿠로기리 니자에몽5** (8월 - )
 
 ## 출전
 

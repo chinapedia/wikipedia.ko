@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SE](https://ko.wikipedia.org/wiki/_SE).
+> This article is converted from Wikipedia: [아이폰 SE](https://ko.wikipedia.org/wiki/아이폰_SE).
 
 
 **애플 아이폰 SE**(iPhone SE, Apple iPhone Special Edition)는 [페가트론](https://ko.wikipedia.org/wiki/페가트론 "wikilink")과 [폭스콘](../Page/폭스콘.md "wikilink")이 제조하고, [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 설계, 판매 중인 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, 2016년 3월 21일(미국시간 기준) [미국](../Page/미국.md "wikilink") [샌프란시스코](../Page/샌프란시스코.md "wikilink") 빌 그라햄 시민 오디토리엄에서 발표되었고, [2016년](../Page/2016년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 출시되었다.

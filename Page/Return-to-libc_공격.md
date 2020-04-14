@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Return-to-libc ](https://ko.wikipedia.org/wiki/Return-to-libc_).
+> This article is converted from Wikipedia: [Return-to-libc 공격](https://ko.wikipedia.org/wiki/Return-to-libc_공격).
 
 
 **“return-to-libc” 공격**은 보통([NX 비트가](../Page/NX_비트.md "wikilink") 존재하는 경우 이것을 우회함으로써), [콜 스택의](../Page/콜_스택.md "wikilink") 서브루틴 반환 주소를 이미 프로세스의 실행 가능 메모리에 위치한 서브루틴의 주소로 교체되게 하는, [버퍼 오버플로](https://ko.wikipedia.org/wiki/버퍼_오버플로 "wikilink") 시에 사용되는 [컴퓨터 보안](../Page/컴퓨터_보안.md "wikilink") 공격이다.

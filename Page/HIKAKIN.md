@@ -3,7 +3,7 @@
 
 **HIKAKIN**(히카킨, , [1989년](../Page/1989년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink")\[1\]\[2\] \~)은 [일본](../Page/일본.md "wikilink")의 남성 [비트박서](https://ko.wikipedia.org/wiki/비트박서 "wikilink")이다. [UUUM 주식회사](https://ko.wikipedia.org/wiki/UUUM "wikilink") [설립자](https://ko.wikipedia.org/wiki/설립자 "wikilink"), [최고고문](https://ko.wikipedia.org/wiki/최고고문 "wikilink")\[3\].
 
-[YouTube](https://ko.wikipedia.org/wiki/YouTube "wikilink")에서 HIKAKIN, HikakinTV, HikakinGames, HikakinBlog로 4개의 채널을 운영하고 있으며, [2019년](../Page/2019년.md "wikilink") [1월](../Page/1월.md "wikilink") 현재로 채널 구독자수는 691만명, 조회수 50억회 이상을 기록하고 있다\[4\]. 형은 똑같이 유튜버인 [SEIKIN](https://ko.wikipedia.org/wiki/SEIKIN "wikilink")\[5\].
+[YouTube](https://ko.wikipedia.org/wiki/YouTube "wikilink")에서 HIKAKIN, HikakinTV, HikakinGames, HikakinBlog로 4개의 채널을 운영하고 있으며, [2019년](../Page/2019년.md "wikilink") [1월](../Page/1월.md "wikilink") 현재로 채널 구독자수는 691만명, 조회수 50억회 이상을 기록하고 있다\[4\]. 형은 똑같이 유튜버인 [SEIKIN](../Page/SEIKIN.md "wikilink")\[5\].
 
 ## 내력
 
@@ -58,7 +58,7 @@
 
 ### 교류
 
-  - 형은 [아카펠라 뮤지션이며](https://ko.wikipedia.org/wiki/아_카펠라 "wikilink") 유튜버인 [SEIKIN](https://ko.wikipedia.org/wiki/SEIKIN "wikilink")\[32\]. 같은 유튜버인 [Masuo](https://ko.wikipedia.org/wiki/Masuo "wikilink")와는 보육원에서부터 고교까지 같은 학교의 소꿉친구이며, 상경 후에도 교류가 있다\[33\].
+  - 형은 [아카펠라 뮤지션이며](https://ko.wikipedia.org/wiki/아_카펠라 "wikilink") 유튜버인 [SEIKIN](../Page/SEIKIN.md "wikilink")\[32\]. 같은 유튜버인 [Masuo](https://ko.wikipedia.org/wiki/Masuo "wikilink")와는 보육원에서부터 고교까지 같은 학교의 소꿉친구이며, 상경 후에도 교류가 있다\[33\].
   - [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")인 [나가부치 츠요시와의](https://ko.wikipedia.org/wiki/나가부치_쓰요시 "wikilink") 교류가 있으며, 나가부치의 아들인 [나가부치 렌과는](https://ko.wikipedia.org/wiki/나가부치_렌 "wikilink") [말레이시아](../Page/말레이시아.md "wikilink")에 가거나\[34\], 기타를 소개해주거나 하는 사이다\[35\].
   - 비트박서인 [Daichi](https://ko.wikipedia.org/wiki/Daichi "wikilink")와는 비트박스 동료이며, 비트박스로 공연하거나\[36\], Daichi 주최의 라이브에서는 게스트로 참가하고 있다\[37\].
   - [음악 프로듀서인](../Page/음악_프로듀서.md "wikilink") [TeddyLoid](https://ko.wikipedia.org/wiki/TeddyLoid "wikilink")와는 오래전부터 알던 사이며, 고교생 때에 비트박스를 올릴 수 있는 사이트 ‘레츠 아카펠라’로 서로 알게 되었다. 2015년에는 자신의 노래 〈YouTube 테마송〉의 프로듀스도 맡았다\[38\].

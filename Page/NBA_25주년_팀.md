@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA 25 ](https://ko.wikipedia.org/wiki/NBA_25_).
+> This article is converted from Wikipedia: [NBA 25주년 팀](https://ko.wikipedia.org/wiki/NBA_25주년_팀).
 
 
 **NBA 25주년 팀**(NBA 25th Anniversary Team)는 [1971년](../Page/1971년.md "wikilink")에 [NBA](../Page/전미_농구_협회.md "wikilink") 출범 25주년을 기념하여 선정한 [올스타](../Page/올스타.md "wikilink")이며, 선수는 센터 2명, 포워드 4명, 가드 4명으로 선정했다.

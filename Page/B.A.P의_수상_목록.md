@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B.A.P  ](https://ko.wikipedia.org/wiki/B.A.P__).
+> This article is converted from Wikipedia: [B.A.P의 수상 목록](https://ko.wikipedia.org/wiki/B.A.P의_수상_목록).
 
 
 |  |

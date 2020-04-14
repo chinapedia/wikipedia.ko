@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- SLS AMG](https://ko.wikipedia.org/wiki/-_SLS_AMG).
+> This article is converted from Wikipedia: [메르세데스-벤츠 SLS AMG](https://ko.wikipedia.org/wiki/메르세데스-벤츠_SLS_AMG).
 
 
 **메르세데스 벤츠 SLS AMG**(Mercedes-Benz SLS AMG)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조하여 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매한 스포츠카이다. 차명에서 SLS는 'Sport Light Super'에서 따온 것이다.

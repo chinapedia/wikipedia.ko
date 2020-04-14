@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Young Forever](https://ko.wikipedia.org/wiki/_Young_Forever).
+> This article is converted from Wikipedia: [화양연화 Young Forever](https://ko.wikipedia.org/wiki/화양연화_Young_Forever).
 
 
 《**화양연화 Young Forever**》는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 두 번째 한국 리패키지 음반이다.\[1\] 2016년 5월 2일 [빅히트 엔터테인먼트를](../Page/빅히트_엔터테인먼트.md "wikilink") 통해 발매되었다.

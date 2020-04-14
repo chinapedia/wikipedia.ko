@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B.A.P    ](https://ko.wikipedia.org/wiki/B.A.P____).
+> This article is converted from Wikipedia: [B.A.P의 음반 외 활동 목록](https://ko.wikipedia.org/wiki/B.A.P의_음반_외_활동_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 가수 그룹 **[B.A.P](../Page/B.A.P.md "wikilink")**의 **음반 외 활동** 목록이다.

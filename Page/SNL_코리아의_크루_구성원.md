@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNL   ](https://ko.wikipedia.org/wiki/SNL___).
+> This article is converted from Wikipedia: [SNL 코리아의 크루 구성원](https://ko.wikipedia.org/wiki/SNL_코리아의_크루_구성원).
 
 
 다음은 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》에 출연해 온 크루들을 배열한 목록이다.
@@ -255,7 +255,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/박상우_(1986년)" title="wikilink">박상우</a></p></td>
+<td><p><a href="../Page/박상우_(가수).md" title="wikilink">박상우</a></p></td>
 <td><p>2012~2013</p></td>
 <td><p>3</p></td>
 <td></td>

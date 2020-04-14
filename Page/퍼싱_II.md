@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [퍼싱 II](https://ko.wikipedia.org/wiki/퍼싱_II).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Pershing_static_burn.jpg "wikilink") **MGM-31B 퍼싱 II**는 1980년대 미국의 [준중거리 탄도 미사일](https://ko.wikipedia.org/wiki/준중거리_탄도_미사일 "wikilink")(MRBM)이다. [단거리 탄도 미사일](https://ko.wikipedia.org/wiki/단거리_탄도_미사일 "wikilink")(SRBM) [MGM-31A 퍼싱 I의](../Page/MGM-31_퍼싱.md "wikilink") 개량형이다.

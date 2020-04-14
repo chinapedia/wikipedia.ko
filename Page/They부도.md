@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [They](https://ko.wikipedia.org/wiki/They).
+> This article is converted from Wikipedia: [They부도](https://ko.wikipedia.org/wiki/They부도).
 
 
 **They부도**는 [쟈니즈 Jr.의](https://ko.wikipedia.org/wiki/자니즈_주니어 "wikilink") 3인조 유닛. [쟈니즈 사무소](https://ko.wikipedia.org/wiki/쟈니즈_사무소 "wikilink") 소속.

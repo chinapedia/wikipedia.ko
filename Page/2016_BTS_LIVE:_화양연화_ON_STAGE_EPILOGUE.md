@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2016 BTS LIVE:  ON STAGE EPILOGUE](https://ko.wikipedia.org/wiki/2016_BTS_LIVE:__ON_STAGE_EPILOGUE).
+> This article is converted from Wikipedia: [2016 BTS LIVE: 화양연화 ON STAGE EPILOGUE](https://ko.wikipedia.org/wiki/2016_BTS_LIVE:_화양연화_ON_STAGE_EPILOGUE).
 
 
 《**2016 BTS LIVE: 화양연화 ON STAGE EPILOGUE**》는 한국의 음악 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 단독 [콘서트 투어로](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"), 총 13회에 걸친 공연을 펼친 바 있다.\[1\]

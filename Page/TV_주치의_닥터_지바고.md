@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
+> This article is converted from Wikipedia: [TV 주치의 닥터 지바고](https://ko.wikipedia.org/wiki/TV_주치의_닥터_지바고).
 
 
 《**TV 주치의 닥터 지바고**》는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [채널A](../Page/채널A.md "wikilink")에서 매주 [토요일](../Page/토요일.md "wikilink") 오전 11시 10분 부터 12시 10분까지 방송하는 [텔레비전](../Page/텔레비전.md "wikilink") 프로그램이다.

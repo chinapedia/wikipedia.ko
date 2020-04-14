@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS](https://ko.wikipedia.org/wiki/OS).
+> This article is converted from Wikipedia: [스카이OS](https://ko.wikipedia.org/wiki/스카이OS).
 
 
 **스카이OS**(SkyOS, Sky Operating System)는 프로토타입의 상용, [사유](https://ko.wikipedia.org/wiki/사유_소프트웨어 "wikilink") 그래픽 데스크톱 [운영 체제로](../Page/운영_체제.md "wikilink"), [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") [컴퓨터 아키텍처를](https://ko.wikipedia.org/wiki/컴퓨터_아키텍처 "wikilink") 대상으로 만들어졌다. 2009년 1월 30일 기준으로 개발 재개에 대한 어떠한 예고도 없이 중단된 상태이다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AA ](https://ko.wikipedia.org/wiki/AA_).
+> This article is converted from Wikipedia: [AA 카우덴시](https://ko.wikipedia.org/wiki/AA_카우덴시).
 
 
 **아소시아상 아틀레치카 카우덴시**()는 **카우덴시**로 잘 알려진 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [미나스제라이스주](../Page/미나스제라이스주.md "wikilink")의 [포수스지카우다스](https://ko.wikipedia.org/wiki/포수스지카우다스 "wikilink")를 연고로 한다.

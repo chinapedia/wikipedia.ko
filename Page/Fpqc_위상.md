@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fpqc ](https://ko.wikipedia.org/wiki/Fpqc_).
+> This article is converted from Wikipedia: [Fpqc 위상](https://ko.wikipedia.org/wiki/Fpqc_위상).
 
 
 [층](../Page/층_\(수학\).md "wikilink") 이론에서, **fpqc 위상**(fpqc位相, )은 [스킴의](../Page/스킴_\(수학\).md "wikilink") [범주](../Page/범주_\(수학\).md "wikilink") 위에 정의되는 매우 섬세한 [그로텐디크 위상이다](../Page/그로텐디크_위상.md "wikilink"). 이러한 섬세함에도 불구하고, fpqc 위상에서 다양한 [내림 이론을](../Page/내림_데이터.md "wikilink") 전개할 수 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AQ  ](https://ko.wikipedia.org/wiki/AQ__).
+> This article is converted from Wikipedia: [AQ 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/AQ_엔터테인먼트의_음반).
 
 
 이 문서는 [AQ 엔터테인먼트에서](https://ko.wikipedia.org/wiki/AQ_엔터테인먼트 "wikilink") 발매한 음반의 목록이다.

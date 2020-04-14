@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BGM-109G ](https://ko.wikipedia.org/wiki/BGM-109G_).
+> This article is converted from Wikipedia: [BGM-109G 그리폰](https://ko.wikipedia.org/wiki/BGM-109G_그리폰).
 
 
 **BGM-109G GLCM** 또는 **BGM-109G 그리폰**은 미국의 지상발사형 순항 미사일이다. 1991년에 퇴역했다.

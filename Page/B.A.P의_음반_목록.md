@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B.A.P  ](https://ko.wikipedia.org/wiki/B.A.P__).
+> This article is converted from Wikipedia: [B.A.P의 음반 목록](https://ko.wikipedia.org/wiki/B.A.P의_음반_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink")의 남성 가수 그룹 **[B.A.P](../Page/B.A.P.md "wikilink")**가 발매한 **음반 목록**이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Legacy of Lunatic Kingdom](https://ko.wikipedia.org/wiki/_\~_Legacy_of_Lunatic_Kingdom).
+> This article is converted from Wikipedia: [동방감주전 \~ Legacy of Lunatic Kingdom](https://ko.wikipedia.org/wiki/동방감주전_\~_Legacy_of_Lunatic_Kingdom).
 
 
 《**동방감주전 \~ Legacy of Lunatic Kingdom**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 열다섯번째 시리즈 게임이다.

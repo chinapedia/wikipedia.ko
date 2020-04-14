@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [My Baby Grand \~ \~](https://ko.wikipedia.org/wiki/My_Baby_Grand_\~_\~).
+> This article is converted from Wikipedia: [My Baby Grand \~따스함이 필요해서\~](https://ko.wikipedia.org/wiki/My_Baby_Grand_\~따스함이_필요해서\~).
 
 
 〈**My Baby Grand \~따스함이 필요해서\~**〉()는 일본의 밴드 [ZARD](../Page/ZARD.md "wikilink")의 23번째 [싱글 앨범으로](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink"), 1997년 12월 3일 발매되었다. ([8cm CD](../Page/콤팩트_디스크.md "wikilink"): JBDJ-1031) 작사는 [사카이 이즈미가](../Page/사카이_이즈미.md "wikilink"), 작곡은 [오다 테츠로가](https://ko.wikipedia.org/wiki/오다_테츠로 "wikilink"), 편곡은 이케다 다이스케가 도맡았다.\[1\] 곡 제목으로 쓰인 "Baby Grand"는 사카이가 녹음을 할 때마다 마이크 오른쪽에 항상 비치해 두던, 붉은색 장난감 피아노 ([KAWAI](https://ko.wikipedia.org/wiki/카와이_악기_제작소 "wikilink") 미니피아노 P-25)의 애칭인데, 이 피아노는 곡의 멜로디나 음정을 검사할 때 사용하던 것이다. 이 곡은 1997년 겨울, [NTT 도코모의](../Page/NTT_도코모.md "wikilink") 호출기 광고의 삽입곡으로 사용되었다.

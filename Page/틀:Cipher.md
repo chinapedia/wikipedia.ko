@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Cipher](https://ko.wikipedia.org/wiki/:Cipher).
+> This article is converted from Wikipedia: [틀:Cipher](https://ko.wikipedia.org/wiki/틀:Cipher).
 
 
 <onlyinclude><includeonly>{{\#switch: | 0 ={{\#expr:  mod 10 }} | 1 ={{\#expr: (/ 10) mod 10 }} | 2 ={{\#expr: (/ 100) mod 10 }} | 3 ={{\#expr: (/ 1000) mod 10 }} | 4 ={{\#expr: (/ 10000) mod 10 }} | 5 ={{\#expr: (/ 100000) mod 10 }} | 6 ={{\#expr: (/ 1000000) mod 10 }} | 7 ={{\#expr: (/ 10000000) mod 10 }} | 8 ={{\#expr: (/ 100000000) mod 10 }} | 9 ={{\#expr: (/ 1000000000) mod 10 }} | 10 ={{\#expr: (/ 10000000000) mod 10 }} | 11 ={{\#expr: (/ 100000000000) mod 10 }} | 12 ={{\#expr: (/ 1000000000000) mod 10 }} | \#default= 0 }}</includeonly></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [루이스 B. 메이어](https://ko.wikipedia.org/wiki/루이스_B._메이어).
 
 
 **루이스 버트 메이어**(, [1884년](../Page/1884년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") \~ [1957년](../Page/1957년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink"))는 20세기 [민스크](../Page/민스크.md "wikilink") 출신의 [미국](../Page/미국.md "wikilink") 영화 제작자로, [메트로 골드윈 메이어의](../Page/메트로_골드윈_메이어.md "wikilink") 설립자이다.

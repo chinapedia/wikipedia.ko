@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WARRIOR \(B.A.P \)](https://ko.wikipedia.org/wiki/WARRIOR_\(B.A.P_\)).
+> This article is converted from Wikipedia: [WARRIOR \(B.A.P의 음반\)](https://ko.wikipedia.org/wiki/WARRIOR_\(B.A.P의_음반\)).
 
 
 ***WARRIOR***는 대한민국의 남성 그룹 [B.A.P](../Page/B.A.P.md "wikilink")의 첫 번째 한국 싱글 음반이다.\[1\] 2012년 1월 26일 디지털 싱글로 발매되었고, 이후 2월 2일 로엔 엔터테인먼트를 통해 CD로 발매되었다.

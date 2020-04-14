@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SMS ](https://ko.wikipedia.org/wiki/SMS_).
+> This article is converted from Wikipedia: [SMS 엠덴](https://ko.wikipedia.org/wiki/SMS_엠덴).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Bundesarchiv_DVM_10_Bild-23-61-13,_Kleiner_Kreuzer_%22SMS_Emden_I%22.jpg "wikilink") 당시 악명높았던 SMS 엠덴 순양함\]\] [thumb](https://ko.wikipedia.org/wiki/파일:Karl_von_M%C3%BCller.jpg "wikilink") 함장\]\] **SMS 엠덴**은 [제1차 세계대전](https://ko.wikipedia.org/wiki/제1차_세계대전 "wikilink") 당시 [독일 제국해군의](https://ko.wikipedia.org/wiki/독일_제국해군 "wikilink") [드레스덴급](https://ko.wikipedia.org/wiki/드레스덴급 "wikilink") [경순양함](https://ko.wikipedia.org/wiki/경순양함 "wikilink")이다.

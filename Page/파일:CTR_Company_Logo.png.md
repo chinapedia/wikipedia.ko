@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CTR Company Logo.png](https://ko.wikipedia.org/wiki/:CTR_Company_Logo.png).
+> This article is converted from Wikipedia: [파일:CTR Company Logo.png](https://ko.wikipedia.org/wiki/파일:CTR_Company_Logo.png).
 
 
 ## 파일의 설명

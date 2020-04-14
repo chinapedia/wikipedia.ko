@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Feel So Good \(B.A.P \)](https://ko.wikipedia.org/wiki/Feel_So_Good_\(B.A.P_\)).
+> This article is converted from Wikipedia: [Feel So Good \(B.A.P의 노래\)](https://ko.wikipedia.org/wiki/Feel_So_Good_\(B.A.P의_노래\)).
 
 
 《**Feel So Good**》는 [B.A.P](../Page/B.A.P.md "wikilink")의 다섯 번째 미니 음반의 타이틀 곡이다. 2016년 2월 22일에 발표하였다.

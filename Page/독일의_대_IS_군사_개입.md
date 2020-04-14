@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  IS  ](https://ko.wikipedia.org/wiki/__IS__).
+> This article is converted from Wikipedia: [독일의 대 IS 군사 개입](https://ko.wikipedia.org/wiki/독일의_대_IS_군사_개입).
 
 
 **독일의 대 IS 군사 개입**은 2015년 12월 4일 공식발표된 독일의 전쟁이다. [시리아 내전](../Page/시리아_내전.md "wikilink") 및 [제2차 이라크 전쟁에](https://ko.wikipedia.org/wiki/제2차_이라크_전쟁 "wikilink") 대한 독일의 개입은 **반다에시 작전**이라는 암호명이 붙은 [독일 연방군의](../Page/독일_연방군.md "wikilink") 시리아 및 이라크에서의 임무에서 시작되었다. 처음에 이 전쟁은 미국의 [내재된 결단 작전의](../Page/내재된_결단_작전.md "wikilink") 일부로써 시작되었다.\[1\] 이 전쟁은 [ISIL의](../Page/이라크_레반트_이슬람_국가.md "wikilink") 테러에 맞서 싸우기 위한 전쟁으로 [2015년 11월 파리 테러에](../Page/2015년_11월_파리_테러.md "wikilink") 대한 대응 중 하나이기도 했다. 현재 독일은 이라크와 시리아에 항공모함 1척 및 전함 1척을 보냈다.\[2\]

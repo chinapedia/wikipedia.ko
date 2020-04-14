@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [은하 TV 소설](https://ko.wikipedia.org/wiki/은하_TV_소설).
 
 
 **은하 TV 소설**()은 [NHK 종합 텔레비전의](../Page/NHK_종합_텔레비전.md "wikilink") 야간의 일일 드라마 프로그램이다. 또한 본 프로그램의 전신인 "은하 드라마"에 대해서도 기술한다.

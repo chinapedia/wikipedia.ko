@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS](https://ko.wikipedia.org/wiki/OS).
+> This article is converted from Wikipedia: [스팀OS](https://ko.wikipedia.org/wiki/스팀OS).
 
 
 **스팀OS**()는 [밸브 코퍼레이션이](../Page/밸브_코퍼레이션.md "wikilink") 개발한 컴퓨터 [운영 체제이다](../Page/운영_체제.md "wikilink"). [스팀 머신](https://ko.wikipedia.org/wiki/스팀_머신 "wikilink") [비디오 게임 콘솔용](../Page/비디오_게임_콘솔.md "wikilink") 주 운영 체제로 설계되었다. 스팀 머신용 최종 사용자 베타 테스팅 시작과 함께 2013년 12월 13일에 첫 출시되었다.

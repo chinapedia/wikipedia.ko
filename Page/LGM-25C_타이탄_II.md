@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LGM-25C  II](https://ko.wikipedia.org/wiki/LGM-25C__II).
+> This article is converted from Wikipedia: [LGM-25C 타이탄 II](https://ko.wikipedia.org/wiki/LGM-25C_타이탄_II).
 
 
 **LGM-25C 타이탄 II**는 미국의 [ICBM](https://ko.wikipedia.org/wiki/ICBM "wikilink")이다.

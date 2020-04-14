@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AH-1Z ](https://ko.wikipedia.org/wiki/_AH-1Z_).
+> This article is converted from Wikipedia: [벨 AH-1Z 바이퍼](https://ko.wikipedia.org/wiki/벨_AH-1Z_바이퍼).
 
 
 **벨 AH-1Z 바이퍼**는 미국 [벨 헬리콥터가](https://ko.wikipedia.org/wiki/벨_헬리콥터 "wikilink") 개발한 쌍발 엔진 [공격 헬리콥터이다](../Page/공격_헬리콥터.md "wikilink"). 해병대용으로서, [벨 AH-1W 슈퍼코브라를](https://ko.wikipedia.org/wiki/벨_AH-1W_슈퍼코브라 "wikilink") 기초로 개발되었다. "줄루 코브라"라고도 부른다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CE ](https://ko.wikipedia.org/wiki/CE_).
+> This article is converted from Wikipedia: [CE 라지아덴시](https://ko.wikipedia.org/wiki/CE_라지아덴시).
 
 
 **클루비 이스포르치부 라지아덴시**는 **라지아덴시**로 잘 알려진 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [히우그란지두술주](../Page/히우그란지두술주.md "wikilink")의 [라지아두](https://ko.wikipedia.org/wiki/라지아두 "wikilink")를 연고로 한다.

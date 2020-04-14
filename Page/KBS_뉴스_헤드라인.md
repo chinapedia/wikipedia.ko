@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  ](https://ko.wikipedia.org/wiki/KBS__).
+> This article is converted from Wikipedia: [KBS 뉴스 헤드라인](https://ko.wikipedia.org/wiki/KBS_뉴스_헤드라인).
 
 
 《**KBS 뉴스 헤드라인**》은 평일 저녁 6시 55분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 [한국방송공사의 저녁 단신뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").

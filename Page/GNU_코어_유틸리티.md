@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU  ](https://ko.wikipedia.org/wiki/GNU__).
+> This article is converted from Wikipedia: [GNU 코어 유틸리티](https://ko.wikipedia.org/wiki/GNU_코어_유틸리티).
 
 
 **GNU 코어 유틸리티** 또는 **coreutils**는 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에](../Page/운영_체제.md "wikilink") 쓰이는 [cat](https://ko.wikipedia.org/wiki/cat_\(유닉스\) "wikilink"), [ls](https://ko.wikipedia.org/wiki/ls "wikilink"), [rm과](https://ko.wikipedia.org/wiki/rm_\(유닉스\) "wikilink") 같은 기본 도구들 다수의 재구현체들이 포함된 [GNU 소프트웨어의](../Page/소프트웨어.md "wikilink") [패키지이다](https://ko.wikipedia.org/wiki/패키지_매니저 "wikilink"). 기타 자잘한 유틸리티들 외에도 textutils, shellutils, fileutils을 포함한 초기의 수많은 패키지들이 결합되어 있다.

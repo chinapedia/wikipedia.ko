@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DIN ](https://ko.wikipedia.org/wiki/DIN_).
+> This article is converted from Wikipedia: [DIN 단자](https://ko.wikipedia.org/wiki/DIN_단자).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:5pin180dinplug.jpg "wikilink") 자판의 5핀 180도 DIN 단자 (수).\]\] **DIN 단자**는 독일의 국가 표준 단체 [독일 공업 규격 위원회](https://ko.wikipedia.org/wiki/독일_공업_규격_위원회 "wikilink")(DIN)가 표준화한 전기적 단자이다. 각기 다른 수많은 단자들을 위한 DIN 표준들이 있으므로 "DIN 단자" 그 자체만 기술하면 정확하지 않다. 일부 DIN 단자 표준들은 다음을 포함한다:

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EAR \( \)](https://ko.wikipedia.org/wiki/EAR_\(_\)).
+> This article is converted from Wikipedia: [EAR \(파일 포맷\)](https://ko.wikipedia.org/wiki/EAR_\(파일_포맷\)).
 
 
 **EAR**(Enterprise ARchive)은 하나 이상의 모듈들은 하나의 아카이브로 묶어서 여러 [모듈이](https://ko.wikipedia.org/wiki/자바_EE_애플리케이션 "wikilink") [애플리케이션 서버에](https://ko.wikipedia.org/wiki/애플리케이션_서버 "wikilink") 동시에 일관성 있게 배치될 수 있도록 하기 위한 [자바 EE에](https://ko.wikipedia.org/wiki/자바_EE "wikilink") 쓰이는 [파일 형식이다](https://ko.wikipedia.org/wiki/파일_형식 "wikilink").

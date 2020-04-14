@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA ](https://ko.wikipedia.org/wiki/UEFA_).
+> This article is converted from Wikipedia: [UEFA 유스리그](https://ko.wikipedia.org/wiki/UEFA_유스리그).
 
 
 **UEFA 유스리그**() 또는 **UEFA U-19 챔피언스리그**()는 [유럽 축구 연맹에서](../Page/유럽_축구_연맹.md "wikilink") 주관하는 19세 이하 선수들이 출전하는 유럽의 클럽 축구 대항전이다. [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 조별 리그에 참가한 32개 팀과 32개국의 자국 리그 우승팀 32개 팀으로 총 64개 팀이 참가한다.

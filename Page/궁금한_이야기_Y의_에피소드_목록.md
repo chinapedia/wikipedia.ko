@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Y  ](https://ko.wikipedia.org/wiki/__Y__).
+> This article is converted from Wikipedia: [궁금한 이야기 Y의 에피소드 목록](https://ko.wikipedia.org/wiki/궁금한_이야기_Y의_에피소드_목록).
 
 
 아래는 [SBS TV에서](../Page/SBS_TV.md "wikilink") 시사교양 프로그램 《[궁금한 이야기 Y](../Page/궁금한_이야기_Y.md "wikilink")》의 **에피소드 목록**이다.

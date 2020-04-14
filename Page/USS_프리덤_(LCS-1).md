@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(LCS-1\)](https://ko.wikipedia.org/wiki/USS__\(LCS-1\)).
+> This article is converted from Wikipedia: [USS 프리덤 \(LCS-1\)](https://ko.wikipedia.org/wiki/USS_프리덤_\(LCS-1\)).
 
 
 **USS 프리덤(LCS-1)**은 미 해군의 차세대 스텔스 고속함이다. 스텔스 형상을 띄고 있으며 결코 만만찮은 무장으로 중무장한 강력한 함정이다. 만재 배수량은 3,900톤으로 일본의 아부쿠마급이나 한국의 광개토대왕급과 맞먹거나 더 큰 함정으로 볼 수 있다. 그런데도 시속 80km가 넘는 높은 속력을 내는 고속함이다.

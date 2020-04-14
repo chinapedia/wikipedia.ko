@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-Twinkle.js](https://ko.wikipedia.org/wiki/:Gadget-Twinkle.js).
+> This article is converted from Wikipedia: [미디어위키:Gadget-Twinkle.js](https://ko.wikipedia.org/wiki/미디어위키:Gadget-Twinkle.js).
 
 
 /\*\*
