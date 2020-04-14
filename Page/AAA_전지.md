@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AAA ](https://ko.wikipedia.org/wiki/AAA_).
+> This article is converted from Wikipedia: [AAA 전지](https://ko.wikipedia.org/wiki/AAA_전지).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Gold_Peak_AAA_batteries.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:6_most_common_battery_types-1.jpg "wikilink") **AAA 전지**() 또는 **트리플 A 전지**()는 휴대용 전자기기에 많이 쓰이는 고체 전지이다. 1947년 [ANSI가](https://ko.wikipedia.org/wiki/미국_국립_표준_협회 "wikilink") AAA 전지 형태를 표준화하였다.

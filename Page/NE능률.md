@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NE](https://ko.wikipedia.org/wiki/NE).
+> This article is converted from Wikipedia: [NE능률](https://ko.wikipedia.org/wiki/NE능률).
 
 
 **NE능률**()은 [1980년](../Page/1980년.md "wikilink")에 설립한 [대한민국](../Page/대한민국.md "wikilink")의 교육 기업이다.

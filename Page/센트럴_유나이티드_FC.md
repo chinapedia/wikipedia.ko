@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [센트럴 유나이티드 FC](https://ko.wikipedia.org/wiki/센트럴_유나이티드_FC).
 
 
 **센트럴 유나이티드 FC**는 [사모아](../Page/사모아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [우폴루 퍼스트 디비전에](https://ko.wikipedia.org/wiki/우폴루_퍼스트_디비전 "wikilink") 참가하고 있다.

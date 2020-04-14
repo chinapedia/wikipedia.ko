@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DMM  ](https://ko.wikipedia.org/wiki/DMM__).
+> This article is converted from Wikipedia: [DMM 어덜트 어워드](https://ko.wikipedia.org/wiki/DMM_어덜트_어워드).
 
 
 **DMM 어덜트 어워드**(, )는 일본의 [성인 비디오](https://ko.wikipedia.org/wiki/성인_비디오 "wikilink") 관련 상이다.

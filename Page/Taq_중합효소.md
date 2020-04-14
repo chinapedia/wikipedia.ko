@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Taq ](https://ko.wikipedia.org/wiki/Taq_).
+> This article is converted from Wikipedia: [Taq 중합효소](https://ko.wikipedia.org/wiki/Taq_중합효소).
 
 
 **Taq 중합효소** (**택 폴리머레이즈**, **<i>Taq</i>**, **<i>Taq</i> polymerase**, /ˌtæk ˈpɒlɨməreɪz/) 는 토마스 D. 브록에 의해 1965년에 분리된 고도 호열 균 (thermophilic bacterium)인 테르무스 아쿠아티쿠스 (<i>Thermus aquaticus</i>)에서 이름을 따왔다.\[1\] 이는 종종 “택 폴 (Taq Pol)” (또는 간단히 “택 (Taq) ”)으로 축약해서 불리며, 짧은 DNA 절편을 증폭하기 위한 방법인 중합효소 연쇄 반응(polymerase chain reaction, PCR) 에서 자주 쓰인다.

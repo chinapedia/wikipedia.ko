@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA  ](https://ko.wikipedia.org/wiki/:NBA__).
+> This article is converted from Wikipedia: [틀:NBA 올스타전 경기장](https://ko.wikipedia.org/wiki/틀:NBA_올스타전_경기장).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BB\&T ](https://ko.wikipedia.org/wiki/BB\&T_).
+> This article is converted from Wikipedia: [BB\&T 센터](https://ko.wikipedia.org/wiki/BB\&T_센터).
 
 
 **BB\&T 센터**(BB\&T Center)은 [미국](../Page/미국.md "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") [선라이즈에](https://ko.wikipedia.org/wiki/선라이즈_\(플로리다주\) "wikilink") 위치한 실내 경기장이다. [NHL](../Page/내셔널_하키_리그.md "wikilink") [플로리다 팬서스의](../Page/플로리다_팬서스.md "wikilink") 홈경기장으로 사용되고 있다.

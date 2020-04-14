@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 특집드라마](https://ko.wikipedia.org/wiki/SBS_특집드라마).
 
 
 **SBS 특집드라마**는 명절이나 특정한 기간으로 지정된 날이나 달을 기념하기 위해 부정기적으로 편성·방영되는 드라마이다.
@@ -51,7 +51,7 @@
 
 #### 1996년
 
-  - 《[곰탕](https://ko.wikipedia.org/wiki/곰탕_\(드라마\) "wikilink")》 : 1996년 2월 19일 (2부작 설날 특집드라마)
+  - 《[곰탕](../Page/곰탕_\(드라마\).md "wikilink")》 : 1996년 2월 19일 (2부작 설날 특집드라마)
   - 《[안중근](../Page/안중근_\(드라마\).md "wikilink")》 : 1996년 3월 1일 (3부작 3·1절 특집 드라마)
   - 《[아까딴유](https://ko.wikipedia.org/wiki/아까딴유 "wikilink")》 : 1996년 5월 14일 (2부작 특집드라마)
   - 《[구하리의 전쟁](https://ko.wikipedia.org/wiki/구하리의_전쟁 "wikilink")》 : 1996년 6월 25일 (2부작 6·25 특집드라마)
@@ -65,7 +65,7 @@
   - 《[설촌별곡](https://ko.wikipedia.org/wiki/설촌별곡 "wikilink")》 : 1997년 6월 25일 (2부작 6·25 특집드라마)
   - 《[약속](https://ko.wikipedia.org/wiki/약속_\(1997년_드라마\) "wikilink")》 : 1997년 9월 15일 (추석 특집드라마)
   - 《[인생](https://ko.wikipedia.org/wiki/인생_\(드라마\) "wikilink")》 : 1997년 10월 13일 \~ 1997년 10월 14일 (앙코르 특집드라마)\[1\]
-  - 《[새끼](https://ko.wikipedia.org/wiki/새끼_\(드라마\) "wikilink")》 : 1997년 11월 15일 (2부작 창사 특집드라마)
+  - 《[새끼](../Page/새끼_\(드라마\).md "wikilink")》 : 1997년 11월 15일 (2부작 창사 특집드라마)
 
 #### 1998년
 
@@ -85,7 +85,7 @@
 #### 2000년
 
   - 《[아들아 너는 아느냐](https://ko.wikipedia.org/wiki/아들아_너는_아느냐 "wikilink")》 : 2000년 2월 4일 (앙코르 창사 특집드라마)
-  - 《[백정의 딸](https://ko.wikipedia.org/wiki/백정의_딸 "wikilink")》 : 2000년 2월 6일 (2부작 설날 특집드라마)
+  - 《[백정의 딸](../Page/백정의_딸.md "wikilink")》 : 2000년 2월 6일 (2부작 설날 특집드라마)
   - 《[빗물처럼](../Page/빗물처럼.md "wikilink")》 : 2000년 11월 12일 (2부작 창사 특집드라마)
   - 《[은사시나무](../Page/은사시나무_\(드라마\).md "wikilink")》 : 2000년 11월 14일 (3부작 창사 특집드라마)
 
@@ -107,7 +107,7 @@
 
 #### 2003년
 
-  - 《[도토리묵](https://ko.wikipedia.org/wiki/도토리묵_\(드라마\) "wikilink")》 : 2003년 2월 1일 (설날 특집드라마)
+  - 《[도토리묵](../Page/도토리묵_\(드라마\).md "wikilink")》 : 2003년 2월 1일 (설날 특집드라마)
   - 《[앙숙](https://ko.wikipedia.org/wiki/앙숙 "wikilink")》 : 2003년 9월 11일 (추석 특집드라마)
   - 《[팥쥐 엄마](https://ko.wikipedia.org/wiki/팥쥐_엄마 "wikilink")》 : 2003년 9월 12일 (추석 특집드라마)
   - 《[이별](https://ko.wikipedia.org/wiki/이별_\(드라마\) "wikilink")》 : 2003년 11월 13일 (창사 특집드라마)

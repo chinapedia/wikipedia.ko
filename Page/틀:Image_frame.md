@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Image frame](https://ko.wikipedia.org/wiki/:Image_frame).
+> This article is converted from Wikipedia: [틀:Image frame](https://ko.wikipedia.org/wiki/틀:Image_frame).
 
 
 <includeonly>{{\#ifeq:  | center |

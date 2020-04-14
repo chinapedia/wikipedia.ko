@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NRHPconv](https://ko.wikipedia.org/wiki/:NRHPconv).
+> This article is converted from Wikipedia: [틀:NRHPconv](https://ko.wikipedia.org/wiki/틀:NRHPconv).
 
 
 {{\#ifeq:|color

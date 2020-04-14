@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AOA  ](https://ko.wikipedia.org/wiki/AOA__).
+> This article is converted from Wikipedia: [AOA의 음반 목록](https://ko.wikipedia.org/wiki/AOA의_음반_목록).
 
 
 다음은 대한민국의 음악그룹 [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") **음반 목록**이다. AOA는 지금까지 총 2개의 정규앨범과 5개의 미니 앨범, 5개의 싱글을 발매했다.
@@ -176,6 +176,17 @@
 <li>발매일: 2018년 5월 28일</li>
 <li>레이블: <a href="https://ko.wikipedia.org/wiki/로엔_엔터테인먼트" title="wikilink">(주)로엔엔터테인먼트</a></li>
 <li>활동곡: 빙글뱅글 (Bingle Bangle)</li>
+<li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></li>
+</ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><em><a href="https://ko.wikipedia.org/wiki/NEW_MOON" title="wikilink">NEW MOON</a></em></strong></p></td>
+<td><ul>
+<li>발매일: 2019년 11월 26일</li>
+<li>레이블: <a href="../Page/카카오엠.md" title="wikilink">Kakao M</a></li>
+<li>활동곡: 날 보러 와요 (Come See Me)</li>
 <li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="https://ko.wikipedia.org/wiki/음악_다운로드" title="wikilink">디지털 다운로드</a></li>
 </ul></td>
 <td></td>

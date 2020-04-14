@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T. ](https://ko.wikipedia.org/wiki/_T._).
+> This article is converted from Wikipedia: [레너드 T. 게로](https://ko.wikipedia.org/wiki/레너드_T._게로).
 
 
 **레너드 타운샌드 게로**(1888년 7월 13일 – 1972년 10월 12일)는 미국 육군 중 [제2차 세계 대전에서](../Page/제2차_세계_대전.md "wikilink") 업적을 남긴 장군 중 1명이다.

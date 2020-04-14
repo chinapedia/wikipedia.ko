@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  7 \~prime number\~](https://ko.wikipedia.org/wiki/__7_\~prime_number\~).
+> This article is converted from Wikipedia: [코마츠 미호 7 \~prime number\~](https://ko.wikipedia.org/wiki/코마츠_미호_7_\~prime_number\~).
 
 
 {{음반 정보 | 음반명 = 코마츠 미호 7 : prime number
@@ -15,49 +15,49 @@
 
 ## 수록곡
 
-1.  **[날개는 없어도](https://ko.wikipedia.org/wiki/츠바사와나쿠테모 "wikilink")** ()
+1.  **[날개는 없어도](https://ko.wikipedia.org/wiki/츠바사와나쿠테모 "wikilink")**()
       - [작사](https://ko.wikipedia.org/wiki/작사 "wikilink") ・ [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"): 코마츠 미호, 편곡: [후루이 히로히토](../Page/후루이_히로히토.md "wikilink")
     <!-- end list -->
       -
         20번째 싱글
-2.  **사람은 먼 옛날 바다에 살았기 때문에** ()
+2.  **사람은 먼 옛날 바다에 살았기 때문에**()
       - 작사 ・ 작곡: 코마츠 미호, 편곡: [오가 요시노부](https://ko.wikipedia.org/wiki/오가_요시노부 "wikilink")
-3.  **[모래성](https://ko.wikipedia.org/wiki/스나노시로_\(코마츠_미호의_노래\) "wikilink")** ()
+3.  **[모래성](https://ko.wikipedia.org/wiki/스나노시로_\(코마츠_미호의_노래\) "wikilink")**()
       - 작사 ・ 작곡: 코마츠 미호, 편곡: 후루이 히로히토
     <!-- end list -->
       -
         22번째 싱글
-4.  **고향** ()
+4.  **고향**()
       - 작사 ・ 작곡: 코마츠 미호, 편곡: 후루이 히로히토
 5.  **[sha la la...](https://ko.wikipedia.org/wiki/스나노시로_\(코마츠_미호의_노래\) "wikilink")**
       - 작사 ・ 작곡: 코마츠 미호, 편곡: [오카모토 히토시](../Page/오카모토_히토시.md "wikilink")
     <!-- end list -->
       -
         22번째 싱글 〈모래성〉의 커플링곡.
-6.  **안녕 그러면** ()
+6.  **안녕 그러면**()
       - 작사 ・ 작곡: 코마츠 미호, 편곡: 이케다 다이스케
 7.  **diplomacy**
       - 작사 ・ 작곡: 코마츠 미호, 편곡: 오가 요시노부
-8.  **[연심](https://ko.wikipedia.org/wiki/나미다키라리토바세 "wikilink")** ()
+8.  **[연심](https://ko.wikipedia.org/wiki/나미다키라리토바세 "wikilink")**()
       - 작사 ・ 작곡: 코마츠 미호, 편곡: [코바야시 사토루](https://ko.wikipedia.org/wiki/코바야시_사토루 "wikilink")
     <!-- end list -->
       -
         21번째 싱글 〈눈물아 반짝 날아라〉의 커플링곡.
-9.  **도코 맑음** ()
+9.  **도코 맑음**()
       - 작사 ・ 작곡: 코마츠 미호, 편곡: 코바야시 사토루
-10. **[눈물아 반짝 날아라 (Album Ver.)](https://ko.wikipedia.org/wiki/나미다키라리토바세 "wikilink")** ()
+10. **[눈물아 반짝 날아라 (Album Ver.)](https://ko.wikipedia.org/wiki/나미다키라리토바세 "wikilink")**()
       - 작사 ・ 작곡: 코마츠 미호, 편곡: 후루이 히로히토
     <!-- end list -->
       -
         21번째 싱글의 음반 버전
-11. **[I \~누군가...](https://ko.wikipedia.org/wiki/I_~다레카... "wikilink")** ()
+11. **[I \~누군가...](https://ko.wikipedia.org/wiki/I_~다레카... "wikilink")**()
       - 작사 ・ 작곡: 코마츠 미호, 편곡: 후루이 히로히토
     <!-- end list -->
       -
         23번째 싱글
-12. **그대가 이루어낸 일** ()
+12. **그대가 이루어낸 일**()
       - 작사 ・ 작곡: 코마츠 미호, 편곡: 오가 요시노부
-13. **[날개는 없어도](https://ko.wikipedia.org/wiki/츠바사와나쿠테모 "wikilink") (Extravagant MIX)** ()
+13. **[날개는 없어도](https://ko.wikipedia.org/wiki/츠바사와나쿠테모 "wikilink") (Extravagant MIX)**()
       - 리믹스: Mr.Lee
     <!-- end list -->
       -

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ITV 10](https://ko.wikipedia.org/wiki/ITV_10).
+> This article is converted from Wikipedia: [ITV 뉴스10](https://ko.wikipedia.org/wiki/ITV_뉴스10).
 
 
 **iTV 뉴스10**은 [2004년](../Page/2004년.md "wikilink")까지 방송되었던 [iTV 경인방송의](../Page/경인방송.md "wikilink") [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
@@ -15,8 +15,8 @@
 
 ### 평일 기준 앵커
 
-  - [1997년](../Page/1997년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") : 김민석, [선우경](https://ko.wikipedia.org/wiki/선우경 "wikilink")
-  - [1999년](../Page/1999년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") : 송채수, [이상희](../Page/이상희_\(아나운서\).md "wikilink")
+  - [1997년](../Page/1997년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") : 김민석, [선우경](https://ko.wikipedia.org/wiki/선우경 "wikilink")
+  - [1999년](../Page/1999년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") : 송채수, [이상희](../Page/이상희_\(아나운서\).md "wikilink")
   - [2000년](../Page/2000년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") : 송채수, [조진영](https://ko.wikipedia.org/wiki/조진영 "wikilink")
   - [2001년](../Page/2001년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") : 최준묵, [조진영](https://ko.wikipedia.org/wiki/조진영 "wikilink")
   - [2002년](../Page/2002년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") : 최준묵, [박근혜](../Page/박근혜_\(1973년\).md "wikilink")
@@ -140,10 +140,7 @@
 
   - [매일유업](../Page/매일유업.md "wikilink") - 매일맘마Q, 매일 장에는 GG
   - [현대해상화재보험](../Page/현대해상화재보험.md "wikilink")
-
-## 각주
-
-<references/>
+  - [소니 코리아](https://ko.wikipedia.org/wiki/소니_코리아 "wikilink")
 
 ## 관련 항목
 

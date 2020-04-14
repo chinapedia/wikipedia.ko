@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABA ](https://ko.wikipedia.org/wiki/ABA_).
+> This article is converted from Wikipedia: [ABA 올스타전](https://ko.wikipedia.org/wiki/ABA_올스타전).
 
 
 ## 역대 올스타전

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 서울국제가요제](https://ko.wikipedia.org/wiki/MBC_서울국제가요제).
 
 
 **MBC 서울국제가요제**는 1977년 [문화방송](../Page/문화방송.md "wikilink")(MBC)과 [경향신문](../Page/경향신문.md "wikilink") 주최로 서울가요제로서 국내대회로 시작되었다가 1978년 최초의 국제가요제로 확장된 가요제이다.

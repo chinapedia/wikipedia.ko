@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SWA5 ](https://ko.wikipedia.org/wiki/SWA5_).
+> This article is converted from Wikipedia: [SWA5 기관단총](https://ko.wikipedia.org/wiki/SWA5_기관단총).
 
 
 **SWA5 기관단총**()는 미국의 소규모 총기회사 Special Weapons Inc.에서 생산하는, [헤클러&코흐 MP5의](https://ko.wikipedia.org/wiki/헤클러&코흐_MP5 "wikilink") 복제품이다.

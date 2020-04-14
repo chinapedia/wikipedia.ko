@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T](https://ko.wikipedia.org/wiki/_T).
+> This article is converted from Wikipedia: [제이미 T](https://ko.wikipedia.org/wiki/제이미_T).
 
 
 **제이미 T**(Jamie T, [1986년](../Page/1986년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") \~ )는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [음악 프로듀서이다](../Page/음악_프로듀서.md "wikilink").

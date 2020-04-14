@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T.J. ](https://ko.wikipedia.org/wiki/T.J._).
+> This article is converted from Wikipedia: [T.J. 딜라쇼](https://ko.wikipedia.org/wiki/T.J._딜라쇼).
 
 
 **T.J. 딜라쇼**(Tyler Jeffrey Dillashaw)는 [미국](../Page/미국.md "wikilink")의 [종합격투기](../Page/종합격투기.md "wikilink") 선수다. 제6대 현 [UFC](../Page/얼티밋_파이팅_챔피언십.md "wikilink") 밴텀급 챔피언이다.

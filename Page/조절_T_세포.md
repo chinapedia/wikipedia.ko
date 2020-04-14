@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T ](https://ko.wikipedia.org/wiki/_T_).
+> This article is converted from Wikipedia: [조절 T 세포](https://ko.wikipedia.org/wiki/조절_T_세포).
 
 
 **조절 T 세포**(regulatory T cells (Treg, Tregs))는 면역계를 조절하는T 세포 들 중 한 집단으로, 자가항원에 대한 관용(Immune-tolerance)을 유지하고 자가면역 질병을 없앤다. 과거에는 억제 T 세포(suppressor T cell (Ts))라 알려졌다. 이 세포들은 일반적으로 효과 T 세포(effector T cell)의 유도와 확산을 억제하거나 하향조절한다. 추가적인 조절 T 세포인 Treg17 세포가 최근에 확인되었다. 생쥐 모델 실험에서 조절 T 세포의 조절은 자가면역질환과 암을 치료할 수 있으며, 장기이식을 용이하게 할 수 있다고 제안되었다. 

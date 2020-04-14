@@ -135,7 +135,7 @@
 
   - [슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink") ([예성](../Page/예성.md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
-  - 주관 : 드림메이커
+  - 주관 : [드림메이커](https://ko.wikipedia.org/wiki/드림메이커 "wikilink")
   - 후원 : [YES24](../Page/YES24.md "wikilink")
 
 ## 외부 링크

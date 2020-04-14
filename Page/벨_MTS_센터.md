@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MTS ](https://ko.wikipedia.org/wiki/_MTS_).
+> This article is converted from Wikipedia: [벨 MTS 센터](https://ko.wikipedia.org/wiki/벨_MTS_센터).
 
 
 **벨 MTS 센터**(Bell MTS Center)은 [캐나다](../Page/캐나다.md "wikilink") [매니토바주](../Page/매니토바주.md "wikilink") [위니펙](../Page/위니펙.md "wikilink")에 위치한 실내 경기장이다. [NHL](../Page/내셔널_하키_리그.md "wikilink") [위니펙 제츠와](https://ko.wikipedia.org/wiki/위니펙_제츠 "wikilink") [AHL](../Page/아메리칸_하키_리그.md "wikilink") [매니토바 무스의](../Page/매니토바_무스.md "wikilink") 홈경기장으로 사용되고 있다.

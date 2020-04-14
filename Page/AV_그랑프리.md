@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [AV ](https://ko.wikipedia.org/wiki/AV_).
+> This article is converted from Wikipedia: [AV 그랑프리](https://ko.wikipedia.org/wiki/AV_그랑프리).
 
 
-**AV 그랑프리** ()는 2008년과 2009년에 잠시 개최되었던 [성인 비디오](https://ko.wikipedia.org/wiki/성인_비디오 "wikilink") 산업의 시상식이다.
+**AV 그랑프리**()는 2008년과 2009년에 잠시 개최되었던 [성인 비디오](https://ko.wikipedia.org/wiki/성인_비디오 "wikilink") 산업의 시상식이다.
 
 ## 역사
 

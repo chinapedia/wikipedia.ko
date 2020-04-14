@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XL ](https://ko.wikipedia.org/wiki/XL_).
+> This article is converted from Wikipedia: [XL 센터](https://ko.wikipedia.org/wiki/XL_센터).
 
 
 **XL 센터**(XL Center)은 [미국](../Page/미국.md "wikilink") [코네티컷주](../Page/코네티컷주.md "wikilink") [하트퍼드에](../Page/하트퍼드_\(코네티컷주\).md "wikilink") 위치한 실내 경기장이다. 과거 [NBA](../Page/전미_농구_협회.md "wikilink") [보스턴 셀틱스의](../Page/보스턴_셀틱스.md "wikilink") 제2홈경기장으로 [NHL](../Page/내셔널_하키_리그.md "wikilink") [하트포드 훼일러즈와](../Page/하트퍼드_웨일러스.md "wikilink") [WHA](../Page/월드_하키_협회.md "wikilink") [뉴잉글랜드 훼일러즈](../Page/하트퍼드_웨일러스.md "wikilink") 홈경기장으로 사용했으며, 현재 [AHL](../Page/아메리칸_하키_리그.md "wikilink") [하트퍼드 울프팩의](../Page/하트퍼드_울프팩.md "wikilink") 홈경기장으로 사용되고 있다.

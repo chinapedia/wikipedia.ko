@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G  2](https://ko.wikipedia.org/wiki/LG_G__2).
+> This article is converted from Wikipedia: [LG G 플렉스 2](https://ko.wikipedia.org/wiki/LG_G_플렉스_2).
 
 
 **LG G 플렉스 2** (LG G Flex 2)는 [LG전자](../Page/LG전자.md "wikilink")가 1월 5일 미국 라스베이거스에서 열린 CES 2015에서 발표하여 [1월 30일](../Page/1월_30일.md "wikilink") 대한민국 3개 통신사에서 동시 출시\[1\]한 [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") 패블릿 스마트폰이다. [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") 810의 발열로 인한 성능 저하와 애매한 포지션, 비싼 가격 등으로 판매량이 매우 저조하였다.\[2\]

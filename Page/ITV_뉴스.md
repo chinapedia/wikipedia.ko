@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ITV ](https://ko.wikipedia.org/wiki/ITV_).
+> This article is converted from Wikipedia: [ITV 뉴스](https://ko.wikipedia.org/wiki/ITV_뉴스).
 
 
 **ITV 뉴스**(ITV News)는 [영국](../Page/영국.md "wikilink")의 [ITN](../Page/ITN.md "wikilink")에서 제작하고 [ITV](https://ko.wikipedia.org/wiki/ITV "wikilink")에서 방송하는 보도 프로그램의 총칭이다.

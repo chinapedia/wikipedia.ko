@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CEFCU ](https://ko.wikipedia.org/wiki/CEFCU_).
+> This article is converted from Wikipedia: [CEFCU 스타디움](https://ko.wikipedia.org/wiki/CEFCU_스타디움).
 
 
 **CEFCU 스타디움**(CEFCU Stadium)은 [미국](../Page/미국.md "wikilink")의 [다목적 경기장이다](https://ko.wikipedia.org/wiki/다목적_경기장 "wikilink"). [캘리포니아주](../Page/캘리포니아주.md "wikilink") [산호세에](../Page/산호세_\(캘리포니아주\).md "wikilink") 있으며, 과거 [MLS](../Page/메이저_리그_사커.md "wikilink") [산호세 어스퀘이크스의](../Page/새너제이_어스퀘이크스.md "wikilink") 홈경기장으로 사용했다.

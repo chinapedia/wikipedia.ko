@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ O. ](https://ko.wikipedia.org/wiki/_O._).
+> This article is converted from Wikipedia: [레이먼드 O. 바턴](https://ko.wikipedia.org/wiki/레이먼드_O._바턴).
 
 
 **레이몬드 오스카 바턴**(Raymond O. Barton, [1889년](../Page/1889년.md "wikilink") [8월 22일](../Page/8월_22일.md "wikilink") \~ [1963년](../Page/1963년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink"))은 미국 육군 장교이며 외교관이다.

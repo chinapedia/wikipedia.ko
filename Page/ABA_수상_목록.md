@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABA  ](https://ko.wikipedia.org/wiki/ABA__).
+> This article is converted from Wikipedia: [ABA 수상 목록](https://ko.wikipedia.org/wiki/ABA_수상_목록).
 
 
 **ABA 수상 목록([ABA](../Page/아메리칸_농구_협회.md "wikilink") Individual awards)**는 매 시즌이 끝나면 시즌 최우수선수상(Most Valuable Player Award), 신인상(Rookie of the Year Award), 코치상(Coach of the Year Award) 등을 수여한다.

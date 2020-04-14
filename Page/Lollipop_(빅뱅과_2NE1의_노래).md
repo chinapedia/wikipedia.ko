@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lollipop \( 2NE1 \)](https://ko.wikipedia.org/wiki/Lollipop_\(_2NE1_\)).
+> This article is converted from Wikipedia: [Lollipop \(빅뱅과 2NE1의 노래\)](https://ko.wikipedia.org/wiki/Lollipop_\(빅뱅과_2NE1의_노래\)).
 
 
 〈**Lollipop**〉은 대한민국의 음악 그룹 [빅뱅과](../Page/빅뱅_\(음악_그룹\).md "wikilink") [2NE1이](https://ko.wikipedia.org/wiki/2ne1 "wikilink") [LG전자](../Page/LG전자.md "wikilink")의 핸드폰 제품 [싸이언 롤리팝을](../Page/싸이언_롤리팝.md "wikilink") 홍보하기 위해 제작 된 싱글 음반이다.\[1\] 노래 제목은 1958년에 히트한 줄리어스 딕슨과 버벌리 로스가 작사한 "Lollipop"에서 따왔다. 이 곡은 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 음악 차트에서 4주 연속 1위를 포함해 각종 음원 포털 사이트에서 1위를 차지했다.\[2\] 2009년 3월 27일 [YG 엔터테인먼트를](../Page/YG_엔터테인먼트.md "wikilink") 통해 발매되었다. "Lollipop"은 [2NE1](../Page/2NE1.md "wikilink")의 비공식 데뷔 싱글으로, 그들의 정식 데뷔 싱글은 아니다.\[3\] 이 곡은 CM송에도 불구하고 국내 모든 음원차트 1위를 석권하며 가온 월간 차트에서 1위를 차지하는 것은 물론 3,300,000의 디지털 다운로드를 기록하며 엄청난 히트를 쳤으며, 각종 패러디와 롤리팝 패션을 유행시키는 등 문화현상으로 발전하며 센세이션을 일으켰다.

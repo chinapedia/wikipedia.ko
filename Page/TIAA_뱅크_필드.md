@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TIAA  ](https://ko.wikipedia.org/wiki/TIAA__).
+> This article is converted from Wikipedia: [TIAA 뱅크 필드](https://ko.wikipedia.org/wiki/TIAA_뱅크_필드).
 
 
 **TIAA 뱅크 필드**(TIAA Bank Field)는 [미국](../Page/미국.md "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") [잭슨빌](../Page/잭슨빌.md "wikilink")에 위치한 다목적 [미식축구](../Page/미식축구.md "wikilink") 경기장이다. [NFL](../Page/내셔널_풋볼_리그.md "wikilink") [잭슨빌 재규어스의](https://ko.wikipedia.org/wiki/잭슨빌_재규어스 "wikilink") 홈 경기장으로 사용되고 있다.

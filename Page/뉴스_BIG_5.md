@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BIG 5](https://ko.wikipedia.org/wiki/_BIG_5).
+> This article is converted from Wikipedia: [뉴스 BIG 5](https://ko.wikipedia.org/wiki/뉴스_BIG_5).
 
 
 《**뉴스 BIG 5**》는 평일 오후 3시 30분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송되었던 [MBN의](../Page/매일방송.md "wikilink") 주중 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.

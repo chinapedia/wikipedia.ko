@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BOK ](https://ko.wikipedia.org/wiki/BOK_).
+> This article is converted from Wikipedia: [BOK 센터](https://ko.wikipedia.org/wiki/BOK_센터).
 
 
 **BOK 센터**(BOK Center)는 [미국](../Page/미국.md "wikilink") [오클라호마주](../Page/오클라호마주.md "wikilink") [털사](../Page/털사.md "wikilink")에 위치한 실내 경기장이다. 과거 [WNBA](https://ko.wikipedia.org/wiki/전미_여자_농구_협회 "wikilink") [털사 쇼크의](../Page/털사_쇼크.md "wikilink") 홈경기장으로 사용했으면, 현재 [ECHL](../Page/ECHL.md "wikilink") [털사 오일러스의](../Page/털사_오일러스.md "wikilink") 홈경기장으로 사용되고 있다.

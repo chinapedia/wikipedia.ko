@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Shine \( \)](https://ko.wikipedia.org/wiki/Shine_\(_\)).
+> This article is converted from Wikipedia: [Shine \(제이민의 음반\)](https://ko.wikipedia.org/wiki/Shine_\(제이민의_음반\)).
 
 
 | 이 앨범에 수록된 싱글                                                             |

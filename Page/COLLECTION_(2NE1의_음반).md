@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [COLLECTION \(2NE1 \)](https://ko.wikipedia.org/wiki/COLLECTION_\(2NE1_\)).
+> This article is converted from Wikipedia: [COLLECTION \(2NE1의 음반\)](https://ko.wikipedia.org/wiki/COLLECTION_\(2NE1의_음반\)).
 
 
 〈**COLLECTION**〉은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [2NE1](../Page/2NE1.md "wikilink")의 일본 첫 번째 정규 음반이다. 2012년 03월 28일 [YGEX](../Page/YGEX.md "wikilink")를 통해 4가지 버전으로 발매되었다.

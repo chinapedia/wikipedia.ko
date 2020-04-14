@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A  ](https://ko.wikipedia.org/wiki/A__).
+> This article is converted from Wikipedia: [채널A 스포츠 뉴스](https://ko.wikipedia.org/wiki/채널A_스포츠_뉴스).
 
 
 《**채널A 스포츠 뉴스**》는 [채널A](../Page/채널A.md "wikilink")의 주중 스포츠 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J.  ](https://ko.wikipedia.org/wiki/J.__).
+> This article is converted from Wikipedia: [J. 로턴 콜린스](https://ko.wikipedia.org/wiki/J._로턴_콜린스).
 
 
 *' 조셉 "라이트닝 조" 로턴 콜린스*' (Joseph "Lightning Joe" Lawton Collins, 1896년 5월 1일 – 1987년 9월 12일)는 [한국 전쟁](../Page/한국_전쟁.md "wikilink") 당시 [미국의 육군 참모총장이며](https://ko.wikipedia.org/wiki/미국의_육군_참모총장 "wikilink"), [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시에는 육군 장교로 [태평양 전쟁과](../Page/태평양_전쟁.md "wikilink") [유럽 전구에서](../Page/유럽_전구_\(제2차_세계_대전\).md "wikilink") 전투한 전력이 있다.\[1\] 그의 형인 제임스 로턴 콜린스 또한 미국의 장교였으며, 그의 사촌 마이클 콜린스는 1969년 [아폴로 11호](../Page/아폴로_11호.md "wikilink") 임무에서 모듈을 비행한 사령관이기도 했다.

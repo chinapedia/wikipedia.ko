@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GOOD BOY \(GD X TAEYANG \)](https://ko.wikipedia.org/wiki/GOOD_BOY_\(GD_X_TAEYANG_\)).
+> This article is converted from Wikipedia: [GOOD BOY \(GD X TAEYANG의 노래\)](https://ko.wikipedia.org/wiki/GOOD_BOY_\(GD_X_TAEYANG의_노래\)).
 
 
 ***GOOD BOY***은 대한민국의 음악 그룹 [빅뱅에서](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon과](../Page/지드래곤.md "wikilink") [태양이](../Page/태양_\(가수\).md "wikilink") 결성한 유닛 그룹의 첫 번째 싱글 음반이다. 2014년 11월 21일, [YG 엔터테인먼트에서](../Page/YG_엔터테인먼트.md "wikilink") 발표한 힙합 프로젝트의 2탄으로 기획되었다.

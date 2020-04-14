@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EXO ](https://ko.wikipedia.org/wiki/EXO_).
+> This article is converted from Wikipedia: [EXO의 쇼타임](https://ko.wikipedia.org/wiki/EXO의_쇼타임).
 
 
 《**EXO의 쇼타임**》은 [2013년](../Page/2013년.md "wikilink") [11월 28일부터](../Page/11월_28일.md "wikilink") 2014년 [2월 13일까지](../Page/2월_13일.md "wikilink") [MBC every1에서](https://ko.wikipedia.org/wiki/MBC_every1 "wikilink") 방송된 리얼 버라이어티 프로그램이다.

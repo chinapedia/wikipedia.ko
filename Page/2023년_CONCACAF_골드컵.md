@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2023 CONCACAF ](https://ko.wikipedia.org/wiki/2023_CONCACAF_).
+> This article is converted from Wikipedia: [2023년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2023년_CONCACAF_골드컵).
 
 
 **2023년 CONCACAF 골드컵**은 [2023년](../Page/2023년.md "wikilink")에 개최되는 17번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink"),

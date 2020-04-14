@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IV: ](https://ko.wikipedia.org/wiki/_IV:_).
+> This article is converted from Wikipedia: [미스트 IV: 레벌레이션](https://ko.wikipedia.org/wiki/미스트_IV:_레벌레이션).
 
 
 《**미스트 IV: 레벌레이션**》()은 [그래픽 어드벤처](https://ko.wikipedia.org/wiki/그래픽_어드벤처 "wikilink") [비디오 게임이자](../Page/비디오_게임.md "wikilink") [미스트 시리즈의](../Page/미스트_\(시리즈\).md "wikilink") 네번째 타이틀로, [유비소프트](../Page/유비소프트.md "wikilink")에서 개발 및 유통하였다. *레벌레이션*은 시리즈 중 [DVD-ROM](https://ko.wikipedia.org/wiki/DVD-ROM "wikilink") 포맷으로 출시된 첫 게임으로, [CD-ROM](../Page/CD-ROM.md "wikilink")으로 제작되지 않은 이유는 게임의 모든 데이터를 담으려면 12장의 CD가 필요했기 때문이었다.\[1\] *[미스트 III: 엑자일](../Page/미스트_III:_엑자일.md "wikilink")*과 같이, *레벌레이션*은 프리렌더링된 그래픽에 디지털 영상을 사용하며, 또한 사실성을 증가시키기 위한 실시간 3D 효과를 갖추었다.

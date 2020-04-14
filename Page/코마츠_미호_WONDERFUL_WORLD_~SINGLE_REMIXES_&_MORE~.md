@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  WONDERFUL WORLD \~SINGLE REMIXES \& MORE\~](https://ko.wikipedia.org/wiki/__WONDERFUL_WORLD_\~SINGLE_REMIXES_\&_MORE\~).
+> This article is converted from Wikipedia: [코마츠 미호 WONDERFUL WORLD \~SINGLE REMIXES \& MORE\~](https://ko.wikipedia.org/wiki/코마츠_미호_WONDERFUL_WORLD_\~SINGLE_REMIXES_\&_MORE\~).
 
 
 {{음반 정보 | 음반명 = 코마츠 미호 WONDERFUL WORLD :SINGLE REMIXES & MORE
@@ -20,52 +20,52 @@
 
 <!-- end list -->
 
-1.  **[빛나는 별](https://ko.wikipedia.org/wiki/카가야케루호시 "wikilink") (M-oZ filter mix)** ()
+1.  **[빛나는 별](https://ko.wikipedia.org/wiki/카가야케루호시 "wikilink") (M-oZ filter mix)**()
       -
         2번째 싱글의 리믹스
 2.  **[anybody's game](https://ko.wikipedia.org/wiki/anybody's_game "wikilink") (night clubbers mix)**
       -
         4번째 싱글의 리믹스
-3.  **[당신이 있으니까](https://ko.wikipedia.org/wiki/아나타가이루카라_\(코마츠_미호의_노래\) "wikilink") (lightin' grooves never wanna stop mix)** ({{lang|ja|あなたがいるから \<lightin' grooves never wanna stop mix\>
+3.  **[당신이 있으니까](https://ko.wikipedia.org/wiki/아나타가이루카라_\(코마츠_미호의_노래\) "wikilink") (lightin' grooves never wanna stop mix)**({{lang|ja|あなたがいるから \<lightin' grooves never wanna stop mix\>
       -
         10번째 싱글의 리믹스
 4.  **[dance](https://ko.wikipedia.org/wiki/dance_\(코마츠_미호의_노래\) "wikilink") (DJ ME-YA's all night remix feat. RIPTRAP)**
       -
         16번째 싱글의 리믹스
-5.  **[바라는게 하나 있어](https://ko.wikipedia.org/wiki/네가이고토히토츠다케 "wikilink") (moon light night mix)** ()
+5.  **[바라는게 하나 있어](https://ko.wikipedia.org/wiki/네가이고토히토츠다케 "wikilink") (moon light night mix)**()
       -
         3번째 싱글의 리믹스
-6.  **[바람이 불어오는 곳](https://ko.wikipedia.org/wiki/카제가소요구바쇼 "wikilink") (Bootee's electro dub mix radio edit)** ()
+6.  **[바람이 불어오는 곳](https://ko.wikipedia.org/wiki/카제가소요구바쇼 "wikilink") (Bootee's electro dub mix radio edit)**()
       -
         9번째 싱글의 리믹스
-7.  **[이별의 조각](https://ko.wikipedia.org/wiki/사요나라노카케라 "wikilink") (shooting star mix)** ()
+7.  **[이별의 조각](https://ko.wikipedia.org/wiki/사요나라노카케라 "wikilink") (shooting star mix)**()
       -
         7thシングルのリミックス
-8.  **[사랑해...](https://ko.wikipedia.org/wiki/아이시테루... "wikilink") (thick mist. thick mix)** ()
+8.  **[사랑해...](https://ko.wikipedia.org/wiki/아이시테루... "wikilink") (thick mist. thick mix)**()
       -
         15번째 싱글의 리믹스
-9.  **[최후의 요새](https://ko.wikipedia.org/wiki/사이고노토리데 "wikilink") (DJ ME-YA's boogie down remix)** ()
+9.  **[최후의 요새](https://ko.wikipedia.org/wiki/사이고노토리데 "wikilink") (DJ ME-YA's boogie down remix)**()
       -
         14번째 싱글의 리믹스
 10. **[Love gone](../Page/Love_gone.md "wikilink") (versión : esta nevando)**
       -
         12번째 싱글의 리믹스
-11. **[최단거리에](https://ko.wikipedia.org/wiki/사이탄쿄리데 "wikilink") (Cay Taylan's paradise diskko dub mix radio edit)** ()
+11. **[최단거리에](https://ko.wikipedia.org/wiki/사이탄쿄리데 "wikilink") (Cay Taylan's paradise diskko dub mix radio edit)**()
       -
         8번째 싱글의 리믹스
-12. **[수수께끼](https://ko.wikipedia.org/wiki/나조_\(코마츠_미호의_노래\) "wikilink") (HIROSHI's secret of life mix)** ()
+12. **[수수께끼](https://ko.wikipedia.org/wiki/나조_\(코마츠_미호의_노래\) "wikilink") (HIROSHI's secret of life mix)**()
       -
         1번째 싱글의 리믹스
-13. **[얼음 위에 서 있는 것처럼](https://ko.wikipedia.org/wiki/코리노우에니타츠요니 "wikilink") (night clubbers mix)** ()
+13. **[얼음 위에 서 있는 것처럼](https://ko.wikipedia.org/wiki/코리노우에니타츠요니 "wikilink") (night clubbers mix)**()
       -
         6번째 싱글의 리믹스
-14. **[찬스](../Page/찬스_\(코마츠_미호의_노래\).md "wikilink") (S9 remix radio edit)** ()
+14. **[찬스](../Page/찬스_\(코마츠_미호의_노래\).md "wikilink") (S9 remix radio edit)**()
       -
         5번째 싱글의 리믹스
-15. **[머무르지 않는 사랑](https://ko.wikipedia.org/wiki/토도마루코토노나이아이 "wikilink") (hagy mix)** ()
+15. **[머무르지 않는 사랑](https://ko.wikipedia.org/wiki/토도마루코토노나이아이 "wikilink") (hagy mix)**()
       -
         13번째 싱글의 리믹스
-16. **[그대의 눈동자에는 비치지 않아](https://ko.wikipedia.org/wiki/키미노메니와우츠라나이 "wikilink") (lightin' grooves light on the disco mix)** ()
+16. **[그대의 눈동자에는 비치지 않아](https://ko.wikipedia.org/wiki/키미노메니와우츠라나이 "wikilink") (lightin' grooves light on the disco mix)**()
       -
         11번째 싱글의 리믹스
 

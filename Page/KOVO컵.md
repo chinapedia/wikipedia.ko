@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KOVO](https://ko.wikipedia.org/wiki/KOVO).
+> This article is converted from Wikipedia: [KOVO컵](https://ko.wikipedia.org/wiki/KOVO컵).
 
 
 **KOVO컵**(**코보컵**)은 [한국배구연맹](../Page/한국배구연맹.md "wikilink")이 주관하는 대한민국의 프로배구 컵대회이다. [V리그가](../Page/V-리그_\(대한민국\).md "wikilink") 열리기 전인 7월에서 9월 무렵에 열리는 단기 대회이다. 매 해마다 한 지역에서 대회를 개최한다. 그에 따라 각 팀의 홈구장이 아닌 해당 지역의 경기장에서 짦은 기간 동안 대회를 치룬다. 참가 팀들은 조별 리그를 거친 뒤 상위 팀 끼리 [승자전](https://ko.wikipedia.org/wiki/승자전 "wikilink") 방식으로 결승까지 겨룬다. \[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2 Mlily  ](https://ko.wikipedia.org/wiki/2_Mlily__).
+> This article is converted from Wikipedia: [2회 Mlily 몽백합배 세계바둑오픈](https://ko.wikipedia.org/wiki/2회_Mlily_몽백합배_세계바둑오픈).
 
 
 **2회 Mlily 몽백합배 세계바둑오픈**(第二届MLILY梦百合杯世界围棋公开赛)은 [2015년](../Page/2015년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") \~ [5월 26일](../Page/5월_26일.md "wikilink") 통합예선을 시작으로 [7월 7일](../Page/7월_7일.md "wikilink") 64강, [7월 9일](../Page/7월_9일.md "wikilink") 32강, [8월 30일](../Page/8월_30일.md "wikilink") 16강, [9월 1일](../Page/9월_1일.md "wikilink") 8강, [11월 22일](../Page/11월_22일.md "wikilink") \~ [11월 25일](../Page/11월_25일.md "wikilink") 준결승, [12월 30일](../Page/12월_30일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") 결승전을 치렀다. 결승에서는 [중국](../Page/중국.md "wikilink")의 [커제](../Page/커제.md "wikilink")가 [한국](../Page/한국.md "wikilink")의 [이세돌](../Page/이세돌.md "wikilink")을 3대2로 꺾고 우승했다.

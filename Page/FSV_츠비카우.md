@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FSV ](https://ko.wikipedia.org/wiki/FSV_).
+> This article is converted from Wikipedia: [FSV 츠비카우](https://ko.wikipedia.org/wiki/FSV_츠비카우).
 
 
 '''푸스발-슈포르트-페어라인 츠비카우 e.V. ''' (Fußball-Sport-Verein Zwickau e.V.)는 흔히 **FSV 츠비카우**으로 알려진 [독일](../Page/독일.md "wikilink")의 축구 구단이다. [작센주](../Page/작센주.md "wikilink") [츠비카우](../Page/츠비카우.md "wikilink")를 연고지로 하고 있으며, [1912년](../Page/1912년.md "wikilink") 창단되었다.

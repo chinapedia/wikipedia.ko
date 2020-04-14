@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  8 \~a piece of cake\~](https://ko.wikipedia.org/wiki/__8_\~a_piece_of_cake\~).
+> This article is converted from Wikipedia: [코마츠 미호 8 \~a piece of cake\~](https://ko.wikipedia.org/wiki/코마츠_미호_8_\~a_piece_of_cake\~).
 
 
 {{음반 정보 | 음반명 = 코마츠 미호 8 : piece of cake
@@ -15,7 +15,7 @@
 
 ## 수록곡
 
-1.  **[푸른 여름](../Page/I_just_wanna_hold_you_tight.md "wikilink")** ()
+1.  **[푸른 여름](../Page/I_just_wanna_hold_you_tight.md "wikilink")**()
       - [작사](https://ko.wikipedia.org/wiki/작사 "wikilink") · [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"): 코마츠 미호, 편곡: [후루이 히로히토](../Page/후루이_히로히토.md "wikilink")
     <!-- end list -->
       -
@@ -29,12 +29,12 @@
         26번째 싱글
 4.  **my darling**
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
-5.  **봄의 기억** ()
+5.  **봄의 기억**()
       - 작사 · 작곡: 코마츠 미호, 편곡: [오카모토 히토시](../Page/오카모토_히토시.md "wikilink")
       - 2010년 3월에 발매된 《THE IDOLM@STER MASTER SPECIAL“SPRING”》에서 커버됐다. 노래한 것은 미나세 이오리 역의 쿠기미야 리에.
-6.  **신은 계속 보고 있어** ()
+6.  **신은 계속 보고 있어**()
       - 작사 · 작곡: 코마츠 미호, 편곡: [아사이 히로시](https://ko.wikipedia.org/wiki/아사이_히로시 "wikilink")
-7.  **[당신의 색](https://ko.wikipedia.org/wiki/아나타이로 "wikilink")** ()
+7.  **[당신의 색](https://ko.wikipedia.org/wiki/아나타이로 "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 후루이 히로히토
     <!-- end list -->
       -
@@ -44,19 +44,19 @@
     <!-- end list -->
       -
         24번째 싱글
-9.  **기분이 나빠지는 나** ()
+9.  **기분이 나빠지는 나**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
     <!-- end list -->
       -
         [이와타 사유리의](https://ko.wikipedia.org/wiki/이와타_사유리 "wikilink") 〈[기분이 나빠지는 나](https://ko.wikipedia.org/wiki/후키겐니나루와타시 "wikilink")〉의 셀프 커버 키는 바뀌지 않지만 템포가 빠르다
-10. **[해바라기의 오솔길](https://ko.wikipedia.org/wiki/아나타이로 "wikilink")** ()
+10. **[해바라기의 오솔길](https://ko.wikipedia.org/wiki/아나타이로 "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오카모토 히토시
     <!-- end list -->
       -
         25번째 싱글 〈당신의 색〉의 커플링곡.
-11. **당신의 손** ()
+11. **당신의 손**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 후루이 히로히토
-12. **눈물 뒤에** ()
+12. **눈물 뒤에**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 이케다 다이스케
 
 ## 관련항목

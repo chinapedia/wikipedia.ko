@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UW-  ](https://ko.wikipedia.org/wiki/UW-__).
+> This article is converted from Wikipedia: [UW-밀워키 팬서 아레나](https://ko.wikipedia.org/wiki/UW-밀워키_팬서_아레나).
 
 
 **UW-밀워키 팬서 아레나**(UW–Milwaukee Panther Arena)은 [미국](../Page/미국.md "wikilink") [위스콘신주](../Page/위스콘신주.md "wikilink") [밀워키](../Page/밀워키.md "wikilink")에 위치한 실내 경기장이다. 과거 [NBA](../Page/전미_농구_협회.md "wikilink") [밀워키 벅스](../Page/밀워키_벅스.md "wikilink"), [밀워키 호크스의](../Page/애틀랜타_호크스.md "wikilink") 홈경기장으로 사용했으며, 현재 [IHL](https://ko.wikipedia.org/wiki/인터내셔널_하키_리그_\(1945년-2001년\) "wikilink")/[AHL](../Page/아메리칸_하키_리그.md "wikilink") [밀워키 애드미럴스의](../Page/밀워키_애드미럴스.md "wikilink") 홈경기장으로 사용하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2021 CONCACAF ](https://ko.wikipedia.org/wiki/2021_CONCACAF_).
+> This article is converted from Wikipedia: [2021년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2021년_CONCACAF_골드컵).
 
 
 **2021년 CONCACAF 골드컵**은 [2021년](../Page/2021년.md "wikilink")에 개최되는 16번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink").

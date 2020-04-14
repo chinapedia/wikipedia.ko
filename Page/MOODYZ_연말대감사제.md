@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MOODYZ ](https://ko.wikipedia.org/wiki/MOODYZ_).
+> This article is converted from Wikipedia: [MOODYZ 연말대감사제](https://ko.wikipedia.org/wiki/MOODYZ_연말대감사제).
 
 
 **MOODYZ 연말대감사제**(, )는 2001년 여배우와 스탭들을 위한 [보넨카이](https://ko.wikipedia.org/wiki/보넨카이 "wikilink")(忘年会, 망년회) 행사 코너로 처음 시작되었다. 일 년간 눈에 띄었던 여배우와 감독, 작품에 상이 주어졌다. 최고상은 각 제작사의 이름이 붙는다. 대감사제는 2008년까지 이어졌다.

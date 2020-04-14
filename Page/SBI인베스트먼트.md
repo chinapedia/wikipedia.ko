@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBI](https://ko.wikipedia.org/wiki/SBI).
+> This article is converted from Wikipedia: [SBI인베스트먼트](https://ko.wikipedia.org/wiki/SBI인베스트먼트).
 
 
 **SBI인베스트먼트**는 [벤처캐피털](https://ko.wikipedia.org/wiki/벤처캐피털 "wikilink") 사업을 영위하는 코스닥 상장 기업이다. 1986년 설립되어 1989년 코스닥에 상장하였다. [에이티넘인베스트먼트](https://ko.wikipedia.org/wiki/에이티넘인베스트먼트 "wikilink"), [대성창업투자](https://ko.wikipedia.org/wiki/대성창업투자 "wikilink")와 함께 [벤처캐피털](https://ko.wikipedia.org/wiki/벤처캐피털 "wikilink") 시가총액 상위 3사 중 하나이다.

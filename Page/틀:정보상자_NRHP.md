@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: NRHP](https://ko.wikipedia.org/wiki/:_NRHP).
+> This article is converted from Wikipedia: [틀:정보상자 NRHP](https://ko.wikipedia.org/wiki/틀:정보상자_NRHP).
 
 
 |bodystyle=width:250px; border-spacing:1px |data1 =

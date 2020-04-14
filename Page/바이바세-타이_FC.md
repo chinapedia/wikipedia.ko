@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- FC](https://ko.wikipedia.org/wiki/-_FC).
+> This article is converted from Wikipedia: [바이바세-타이 FC](https://ko.wikipedia.org/wiki/바이바세-타이_FC).
 
 
 **바이바세-타이**는 [사모아](../Page/사모아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [사모아](../Page/사모아.md "wikilink")의 [투아나이마토](https://ko.wikipedia.org/wiki/투아나이마토 "wikilink")가 이 팀의 연고지이다. 현재 [사모아 내셔널 리그에](../Page/사모아_내셔널_리그.md "wikilink") 참가 중이며, [바일리마 키위와](../Page/키위_FC.md "wikilink") 함께 리그 최다인 6회 우승을 기록하고 있다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SYBR  I](https://ko.wikipedia.org/wiki/SYBR__I).
+> This article is converted from Wikipedia: [SYBR 그린 I](https://ko.wikipedia.org/wiki/SYBR_그린_I).
 
 
 **SYBR 그린 I** (사이버 그린 I, SYBR Green I, **SG**)은 분자 생물학에서 [핵산](../Page/핵산.md "wikilink")을 착색시키는데 사용되는 비대칭 사이아닌(cyanine)\[1\] 염색약이다. SYBR 염색약 종류는 분자 프로브 사(社)(Molecular Probes, inc.)에서 생산되며, 이 회사는 라이프 테크놀로지 사(Life Technologies Corporation)의 자(子)회사이다. DNA-염색약의 복합체 결과물은 청색광(λmax = 497 nm)을 흡수하며 녹색광(λmax = 520 nm)을 방출한다. 염색약은 우선적으로 이중 가닥 DNA에 결합하지만, 낮은 정도로 단일 가닥 DNA도 염색한다. SYBR 그린은 DNA에서 보다 낮은 정도로 RNA 또한 염색 할 수 있다.

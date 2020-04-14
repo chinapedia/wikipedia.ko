@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PPG  ](https://ko.wikipedia.org/wiki/PPG__).
+> This article is converted from Wikipedia: [PPG 페인츠 아레나](https://ko.wikipedia.org/wiki/PPG_페인츠_아레나).
 
 
 **PPG 페인츠 아레나**(PPG Paints Arena)은 [미국](../Page/미국.md "wikilink") [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [피츠버그](../Page/피츠버그.md "wikilink")에 위치한 실내 경기장이다. [NHL](../Page/내셔널_하키_리그.md "wikilink") [피츠버그 펭귄스의](../Page/피츠버그_펭귄스.md "wikilink") 홈경기장으로 사용되고 있다.

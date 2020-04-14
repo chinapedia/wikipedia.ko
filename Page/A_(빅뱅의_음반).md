@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A \( \)](https://ko.wikipedia.org/wiki/A_\(_\)).
+> This article is converted from Wikipedia: [A \(빅뱅의 음반\)](https://ko.wikipedia.org/wiki/A_\(빅뱅의_음반\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:A_Black_cover_Bigbang.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:A_cover_Bigbang.jpg "wikilink")

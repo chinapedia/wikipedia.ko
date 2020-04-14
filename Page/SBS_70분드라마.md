@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS 70](https://ko.wikipedia.org/wiki/SBS_70).
+> This article is converted from Wikipedia: [SBS 70분드라마](https://ko.wikipedia.org/wiki/SBS_70분드라마).
 
 
 《**SBS 70분드라마**》는 [SBS](../Page/SBS.md "wikilink")에서 [1997년](../Page/1997년.md "wikilink") [6월 15일부터](../Page/6월_15일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [1월 23일까지](../Page/1월_23일.md "wikilink") 총 29부작에 걸쳐 방영된 단막극 프로그램이다.
@@ -306,7 +306,7 @@
 <td><p>29회</p></td>
 <td><p>1월 23일</p></td>
 <td><p>여자, 여자, 여자</p></td>
-<td><p><a href="../Page/윤미라.md" title="wikilink">윤미라</a>, <a href="../Page/차주옥.md" title="wikilink">차주옥</a>, <a href="https://ko.wikipedia.org/wiki/박주아" title="wikilink">박주아</a>, <a href="../Page/맹상훈.md" title="wikilink">맹상훈</a>, <a href="https://ko.wikipedia.org/wiki/남포동" title="wikilink">남포동</a>,<br />
+<td><p><a href="../Page/윤미라.md" title="wikilink">윤미라</a>, <a href="../Page/차주옥.md" title="wikilink">차주옥</a>, <a href="https://ko.wikipedia.org/wiki/박주아" title="wikilink">박주아</a>, <a href="../Page/맹상훈.md" title="wikilink">맹상훈</a>, <a href="../Page/남포동_(배우).md" title="wikilink">남포동</a>,<br />
 <a href="../Page/박윤배.md" title="wikilink">박윤배</a>, <a href="https://ko.wikipedia.org/wiki/이미경" title="wikilink">이미경</a>, 정하완, 이배국, 이명숙,<br />
 이은경, 윤미향, <a href="../Page/김남진.md" title="wikilink">김남진</a></p></td>
 <td><p>이유선</p></td>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [호르헤 B. 바르가스](https://ko.wikipedia.org/wiki/호르헤_B._바르가스).
 
 
 **호르헤 B. 바르가스**(Jorge Bartolome Vargas,\[1\] [1890년](../Page/1890년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") – [1980년](../Page/1980년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink"))는 [필리핀](../Page/필리핀.md "wikilink") [동네그로스 주](https://ko.wikipedia.org/wiki/동네그로스_주 "wikilink") 바고 시 출신의 변호사였다. 그는 동네그로스 고등학교를 1909년에 졸업하고, [필리핀 대학교에서](../Page/필리핀_대학교.md "wikilink") 1911년 학사학위를 취득했으며, 1914년에는 석사학위를 취득했다. 그는 1911년 필리핀 아마추어 운동 협회(현, 필리핀 올림픽 위원회)의 설립자 중 한명이었으며, 1918년에는 집행부로 활동했다.\[2\] 1935년부터 1955년까지는 회장으로 두 번째 임기를 마쳤다. 그는 또한 최초의 필리핀인 [국제올림픽위원회](https://ko.wikipedia.org/wiki/국제올림픽위원회 "wikilink") 회원이었다.\[3\]
@@ -25,7 +25,7 @@
 
 ## 각주
 
-[분류:1890년 태어남](https://ko.wikipedia.org/wiki/분류:1890년_태어남 "wikilink") [분류:1980년 죽음](https://ko.wikipedia.org/wiki/분류:1980년_죽음 "wikilink") [분류:필리핀의 변호사](https://ko.wikipedia.org/wiki/분류:필리핀의_변호사 "wikilink") [분류:필리핀의 총리](https://ko.wikipedia.org/wiki/분류:필리핀의_총리 "wikilink") [분류:필리핀 대학교 동문](https://ko.wikipedia.org/wiki/분류:필리핀_대학교_동문 "wikilink") [분류:필리핀의 일제 부역자](https://ko.wikipedia.org/wiki/분류:필리핀의_일제_부역자 "wikilink") [분류:일본 주재 필리핀 대사](https://ko.wikipedia.org/wiki/분류:일본_주재_필리핀_대사 "wikilink") [분류:서네그로스주 출신](https://ko.wikipedia.org/wiki/분류:서네그로스주_출신 "wikilink")
+[분류:1890년 태어남](https://ko.wikipedia.org/wiki/분류:1890년_태어남 "wikilink") [분류:1980년 죽음](https://ko.wikipedia.org/wiki/분류:1980년_죽음 "wikilink") [분류:필리핀의 변호사](https://ko.wikipedia.org/wiki/분류:필리핀의_변호사 "wikilink") [분류:필리핀의 총리](https://ko.wikipedia.org/wiki/분류:필리핀의_총리 "wikilink") [분류:필리핀 대학교 동문](https://ko.wikipedia.org/wiki/분류:필리핀_대학교_동문 "wikilink") [분류:필리핀의 일제 부역자](https://ko.wikipedia.org/wiki/분류:필리핀의_일제_부역자 "wikilink") [분류:일본 주재 필리핀 대사](https://ko.wikipedia.org/wiki/분류:일본_주재_필리핀_대사 "wikilink") [분류:서네그로스주 출신](https://ko.wikipedia.org/wiki/분류:서네그로스주_출신 "wikilink") [분류:필리핀의 공무원](https://ko.wikipedia.org/wiki/분류:필리핀의_공무원 "wikilink")
 
 1.  [The Jorge B. Vargas Art Collection as a Microcosm of Art during the Commonwealth](http://www.academia.edu/2336401/The_Jorge_B._Vargas_Art_Collection_as_a_Microcosm_of_Art_during_the_Commonwealth) - page 4: "Jorge Bartolome Vargas (1890-1980) became well known.
 2.  On My Honor, Boy Scouts of the Philippines, 2001, p. 136-137.

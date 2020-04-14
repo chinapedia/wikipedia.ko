@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SAP   ](https://ko.wikipedia.org/wiki/SAP___).
+> This article is converted from Wikipedia: [SAP 센터 앳 새너제이](https://ko.wikipedia.org/wiki/SAP_센터_앳_새너제이).
 
 
 **SAP 센터 앳 새너제이**(SAP Center at San Jose)은 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [새너제이에](../Page/산호세_\(캘리포니아주\).md "wikilink") 위치한 실내 경기장이다. 과거 [NBA](../Page/전미_농구_협회.md "wikilink") [골든스테이트 워리어스의](../Page/골든스테이트_워리어스.md "wikilink") 홈경기장으로 사용했으며, 현재 [NHL](../Page/내셔널_하키_리그.md "wikilink") [새너제이 샤크스와](../Page/새너제이_샤크스.md "wikilink") [AHL](../Page/아메리칸_하키_리그.md "wikilink") [새너제이 바라쿠다의](../Page/새너제이_바라쿠다.md "wikilink") 홈경기장으로 사용되고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [리젠트 FC](https://ko.wikipedia.org/wiki/리젠트_FC).
 
 
 영국 런던의 Victoria Park에서 축구라는 공동 관심사를 가지고 함께 운동하며 실력을 향상시키고친목을 다지는 클럽모임이다. London FA에 소속되에 Midweek League에도 참여하고있다.

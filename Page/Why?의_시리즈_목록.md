@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Why\?  ](https://ko.wikipedia.org/wiki/Why\?__).
+> This article is converted from Wikipedia: [Why\?의 시리즈 목록](https://ko.wikipedia.org/wiki/Why\?의_시리즈_목록).
 
 
 아래는 [대한민국](../Page/대한민국.md "wikilink")의 학습만화인 [Why?](https://ko.wikipedia.org/wiki/Why? "wikilink")의 **시리즈 목록**이다.
@@ -98,6 +98,8 @@
 89. 카메라
 90. 과학 법칙
 91. 놀이 기구
+92. 암호 화폐와 블록체인
+93. 악기와 소리
 
 ### 수학학습만화
 

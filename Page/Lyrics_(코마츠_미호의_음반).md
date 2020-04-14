@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lyrics \(  \)](https://ko.wikipedia.org/wiki/Lyrics_\(__\)).
+> This article is converted from Wikipedia: [Lyrics \(코마츠 미호의 음반\)](https://ko.wikipedia.org/wiki/Lyrics_\(코마츠_미호의_음반\)).
 
 
 {{음반 정보 | 음반명 = lyrics | 음반종류 = [베스트 음반](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink") | 가수명 = [코마츠 미호](../Page/코마츠_미호.md "wikilink") | 발매년월일 = [2003년](../Page/2003년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") | 녹음 = [2003년](../Page/2003년.md "wikilink") | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 71분 28초 | 레이블 = [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") | 프로듀서 = 코마츠 미호, ROCKAKU | 전앨범 = [{{nobr](../Page/코마츠_미호_6th_~하나노~.md "wikilink")
@@ -16,7 +16,7 @@
 
 ## 수록곡
 
-1.  **[그냥 곁에 있고 싶어](../Page/코마츠_미호_4_~A_thousand_feelings~.md "wikilink")** ()
+1.  **[그냥 곁에 있고 싶어](../Page/코마츠_미호_4_~A_thousand_feelings~.md "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: [오가 요시노부](https://ko.wikipedia.org/wiki/오가_요시노부 "wikilink")
     <!-- end list -->
       -
@@ -26,12 +26,12 @@
     <!-- end list -->
       -
         1번째 음반 《수수께끼》 수록곡.
-3.  **[슬픈 사랑](https://ko.wikipedia.org/wiki/아나타가이루카라_\(코마츠_미호의_노래\) "wikilink")** ()
+3.  **[슬픈 사랑](https://ko.wikipedia.org/wiki/아나타가이루카라_\(코마츠_미호의_노래\) "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
     <!-- end list -->
       -
         10번째 싱글 〈당신이 있으니까〉 커플링곡.
-4.  **[비가 내릴 때에](../Page/코마츠_미호_3rd_~everywhere~.md "wikilink")** ()
+4.  **[비가 내릴 때에](../Page/코마츠_미호_3rd_~everywhere~.md "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: [오시로 쿠론](https://ko.wikipedia.org/wiki/오시로_쿠론 "wikilink"), [키타노 마사토](https://ko.wikipedia.org/wiki/키타노_마사토 "wikilink")
     <!-- end list -->
       -
@@ -46,12 +46,12 @@
     <!-- end list -->
       -
         4번째 음반 《코마츠 미호 4 : A thousand feelings》 수록곡.
-7.  **[반응이 없는 사랑](../Page/코마츠_미호_2nd_~미라이~.md "wikilink")** ()
+7.  **[반응이 없는 사랑](../Page/코마츠_미호_2nd_~미라이~.md "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 후루이 히로히토
     <!-- end list -->
       -
         2번째 음반 《코마츠 미호 2nd : 미래》 수록곡.
-8.  **[우리의 행방](https://ko.wikipedia.org/wiki/dance_\(코마츠_미호의_노래\) "wikilink")** ()
+8.  **[우리의 행방](https://ko.wikipedia.org/wiki/dance_\(코마츠_미호의_노래\) "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
     <!-- end list -->
       -
@@ -81,7 +81,7 @@
     <!-- end list -->
       -
         8번째 싱글 〈최단거리에사〉의 커플링곡. 음반 첫 수록.
-14. **[꿈과 현실의 틈새](../Page/코마츠_미호_3rd_~everywhere~.md "wikilink")** ()
+14. **[꿈과 현실의 틈새](../Page/코마츠_미호_3rd_~everywhere~.md "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오시로 쿠론
     <!-- end list -->
       -

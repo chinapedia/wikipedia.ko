@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM  MQ](https://ko.wikipedia.org/wiki/IBM__MQ).
+> This article is converted from Wikipedia: [IBM 웹스피어 MQ](https://ko.wikipedia.org/wiki/IBM_웹스피어_MQ).
 
 
 **IBM MQ**는 1992년 3월 [IBM](../Page/IBM.md "wikilink")이 착수한 [네트워크](https://ko.wikipedia.org/wiki/네트워크 "wikilink") 소프트웨어 제품의 한 계열이다. 원래 이름은 **MQSeries**였으며 2002년에 [웹스피어](https://ko.wikipedia.org/wiki/웹스피어 "wikilink") 제품군과 병합하면서 **웹스피어 MQ**로 이름이 바뀌었다. 2014년 4월 **IBM MQ**로 이름이 최종 변경되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Hoot\) \(\)](https://ko.wikipedia.org/wiki/_\(Hoot\)_\(\)).
+> This article is converted from Wikipedia: [훗 \(Hoot\) \(노래\)](https://ko.wikipedia.org/wiki/훗_\(Hoot\)_\(노래\)).
 
 
 〈**훗 (Hoot)**〉은 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 노래이다. 세 번째 미니 앨범 《[훗 (Hoot)](../Page/훗_\(Hoot\).md "wikilink")》의 타이틀곡으로, 2010년 10월 25일 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 3D Short](https://ko.wikipedia.org/wiki/_3D_Short).
+> This article is converted from Wikipedia: [도라에몽 3D Short](https://ko.wikipedia.org/wiki/도라에몽_3D_Short).
 
 
 **도라에몽 3D Short**()은 [2008년](../Page/2008년.md "wikilink") [3월 8일에](../Page/3월_8일.md "wikilink") 개봉한 [일본](../Page/일본.md "wikilink")의 애니메이션 영화로 [도라에몽](../Page/도라에몽.md "wikilink") [극장판이다](https://ko.wikipedia.org/wiki/도라에몽_영화_작품 "wikilink"). 《[극장판 도라에몽: 진구와 초록거인전](../Page/극장판_도라에몽:_진구와_초록거인전.md "wikilink")》의 동시 상영작이다.

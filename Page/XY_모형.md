@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XY ](https://ko.wikipedia.org/wiki/XY_).
+> This article is converted from Wikipedia: [XY 모형](https://ko.wikipedia.org/wiki/XY_모형).
 
 
 [통계역학](../Page/통계역학.md "wikilink")에서, **XY 모형**(XY模型, ) 또는 **고전 회전자 모형**()은 주기적인 스칼라 보손을 나타내는 [격자 모형이다](https://ko.wikipedia.org/wiki/격자_모형 "wikilink"). **코스털리츠-사울리스 전이**(-轉移, )를 비롯한 여러 흥미로운 현상을 보인다.

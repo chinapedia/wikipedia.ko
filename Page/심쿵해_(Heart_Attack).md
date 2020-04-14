@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Heart Attack\)](https://ko.wikipedia.org/wiki/_\(Heart_Attack\)).
+> This article is converted from Wikipedia: [심쿵해 \(Heart Attack\)](https://ko.wikipedia.org/wiki/심쿵해_\(Heart_Attack\)).
 
 
 〈**심쿵해 (Heart Attack)**〉는 대한민국의 걸 그룹 [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 노래이다. AOA의 세 번째 미니 음반 《[Heart Attack](../Page/Heart_Attack.md "wikilink")》의 타이틀곡으로, 2015년 6월 22일 발매되었다. 일본에서는 무네큔()이라는 제목으로 7월 29일 세 번째 싱글로 발매되었다. 7월 31일에는 중국에서도 싱글로 발매되었다.\[1\]
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-1.  **심쿵해** ()
+1.  **심쿵해**()
 2.  흔들려 ()
 3.  Joa Yo\! ()
 4.  심쿵해 (Karaoke Ver.)

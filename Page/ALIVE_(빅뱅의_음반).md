@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ALIVE \( \)](https://ko.wikipedia.org/wiki/ALIVE_\(_\)).
+> This article is converted from Wikipedia: [ALIVE \(빅뱅의 음반\)](https://ko.wikipedia.org/wiki/ALIVE_\(빅뱅의_음반\)).
 
 
 《**ALIVE**》는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 일본에서 발표한 네 번째 정규 음반이다. [2012년](../Page/2012년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") YGEX를 통해 총 10곡(이전에 발매된 [동명의 한국 EP 음반의](https://ko.wikipedia.org/wiki/Alive_\(EP\) "wikilink") 곡들을 포함해 2곡의 신곡을 추가해서) 발매 되었다.\[1\]\[2\] 이 음반은 [YG 엔터테인먼트와](../Page/YG_엔터테인먼트.md "wikilink") 일본의 유명 음반 회사인 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")가 파트너쉽 계약을 맺고 [YGEX](../Page/YGEX.md "wikilink")을 설립한 이후 첫 발매하는 음반이다. 이후 이 음반은 2012년 6월 20일에 "*Alive -Monster Edition-*"라는 제목으로 스페셜 에디션이 발매 되었다. 이 정규 음반에 수록 된 9곡 외에도 추가적으로 2곡의 신곡이 포함 되었으며, 4곡이 [일본어](../Page/일본어.md "wikilink")로 수록 되었다.\[3\]
@@ -68,7 +68,7 @@
 
   - [YG 엔터테인먼트](http://ygfamily.com/)
 
-  - [ALIVE 음반 소개](http://ygex.jp/bigbang/discography/detail.php?id=1002161)
+  - [ALIVE 음반 소개](https://web.archive.org/web/20160710093631/http://ygex.jp/bigbang/discography/detail.php?id=1002161)
 
   - [빅뱅 일본 공식 웹사이트](https://web.archive.org/web/20080208220401/http://www.ygbigbang.jp/bb/index.html)
 

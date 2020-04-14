@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RCA ](https://ko.wikipedia.org/wiki/RCA_).
+> This article is converted from Wikipedia: [RCA 돔](https://ko.wikipedia.org/wiki/RCA_돔).
 
 
 **RCA 돔**(RCA Dome)는 [미국](../Page/미국.md "wikilink") [인디애나주](../Page/인디애나주.md "wikilink") [인디애나폴리스](../Page/인디애나폴리스.md "wikilink")에 위치한 실내 경기장이다. 과거 [NFL](../Page/내셔널_풋볼_리그.md "wikilink") [인디애나폴리스 콜츠의](https://ko.wikipedia.org/wiki/인디애나폴리스_콜츠 "wikilink") 홈경기장으로 사용되었다. 1979년, 1987년 [NBA 올스타전](../Page/NBA_올스타전.md "wikilink") 이후로 세번째로 [NFL](../Page/내셔널_풋볼_리그.md "wikilink") 스타디움에서 열린 올스타 게임이다. 경기장 남쪽에 [루카스오일 스타디움을](../Page/루카스오일_스타디움.md "wikilink") 신축한 후 철거되었다.

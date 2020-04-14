@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PNC ](https://ko.wikipedia.org/wiki/PNC_).
+> This article is converted from Wikipedia: [PNC 아레나](https://ko.wikipedia.org/wiki/PNC_아레나).
 
 
 **PNC 아레나**(PNC Arena)은 [미국](../Page/미국.md "wikilink") [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink") [롤리에](../Page/롤리_\(노스캐롤라이나주\).md "wikilink") 위치한 실내 경기장이다. [NHL](../Page/내셔널_하키_리그.md "wikilink") [캐롤라이나 허리케인스의](../Page/캐롤라이나_허리케인스.md "wikilink") 홈경기장으로 사용되고 있다.

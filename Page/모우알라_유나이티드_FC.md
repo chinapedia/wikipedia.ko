@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [모우알라 유나이티드 FC](https://ko.wikipedia.org/wiki/모우알라_유나이티드_FC).
 
 
 **모우알라 유나이티드**는 [사모아](../Page/사모아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [사모아 내셔널 리그에](../Page/사모아_내셔널_리그.md "wikilink") 참가하고 있다.

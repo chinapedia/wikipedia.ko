@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SF ](https://ko.wikipedia.org/wiki/SF_).
+> This article is converted from Wikipedia: [SF 항공](https://ko.wikipedia.org/wiki/SF_항공).
 
 
-**SF 항공** ()은 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 화물 항공사로 본사는 [중화인민공화국](../Page/중화인민공화국.md "wikilink") [선전](https://ko.wikipedia.org/wiki/선전 "wikilink")에 위치해 있으며 [2009년](../Page/2009년.md "wikilink")에 설립 했으며 [2010년](../Page/2010년.md "wikilink")에 최초로 취항했다.\[1\] 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [선전 바오안 국제공항이](https://ko.wikipedia.org/wiki/선전_바오안_국제공항 "wikilink") 있다.
+**SF 항공**()은 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 화물 항공사로 본사는 [중화인민공화국](../Page/중화인민공화국.md "wikilink") [선전](https://ko.wikipedia.org/wiki/선전 "wikilink")에 위치해 있으며 [2009년](../Page/2009년.md "wikilink")에 설립 했으며 [2010년](../Page/2010년.md "wikilink")에 최초로 취항했다.\[1\] 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [선전 바오안 국제공항이](https://ko.wikipedia.org/wiki/선전_바오안_국제공항 "wikilink") 있다.
 
 ## 운항 노선
 

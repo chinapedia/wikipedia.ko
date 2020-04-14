@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PARTY \( \)](https://ko.wikipedia.org/wiki/PARTY_\(_\)).
+> This article is converted from Wikipedia: [PARTY \(소녀시대의 노래\)](https://ko.wikipedia.org/wiki/PARTY_\(소녀시대의_노래\)).
 
 
 〈**PARTY**〉는 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 노래이다.

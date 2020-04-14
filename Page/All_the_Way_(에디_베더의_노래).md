@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [All the Way \(  \)](https://ko.wikipedia.org/wiki/All_the_Way_\(__\)).
+> This article is converted from Wikipedia: [All the Way \(에디 베더의 노래\)](https://ko.wikipedia.org/wiki/All_the_Way_\(에디_베더의_노래\)).
 
 
 "**All the Way**" (또는 "**(Someday We'll Go) All the Way**", 흔히 "**Go All the Way**"라고 불림)\[1\]\[2\]는 [펄 잼의](../Page/펄_잼.md "wikilink") 보컬 [에디 베더가](https://ko.wikipedia.org/wiki/에디_베더 "wikilink") MLB 야구 팀 [시카고 컵스에](https://ko.wikipedia.org/wiki/시카고_컵스 "wikilink") 대한 가사를 쓰고 연주한 노래이다.\[3\] 2007년 8월 2일에 대중들 앞에서 처음으로 연주를 선보였고, 2008년 8월 21일과 22일에 녹음을 거쳤으며, 다음 달 18일에 싱글 발매되었다.

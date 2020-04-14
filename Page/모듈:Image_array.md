@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Image array](https://ko.wikipedia.org/wiki/:Image_array).
+> This article is converted from Wikipedia: [모듈:Image array](https://ko.wikipedia.org/wiki/모듈:Image_array).
 
 
 \-- implements [template:image array](https://ko.wikipedia.org/wiki/template:image_array "wikilink")

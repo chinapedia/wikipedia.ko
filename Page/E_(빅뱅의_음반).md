@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E \( \)](https://ko.wikipedia.org/wiki/E_\(_\)).
+> This article is converted from Wikipedia: [E \(빅뱅의 음반\)](https://ko.wikipedia.org/wiki/E_\(빅뱅의_음반\)).
 
 
 〈**E**〉은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 일곱 번째 싱글 음반으로 "[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink") 시리즈"의 네 번째이자 마지막 싱글 음반이다. 풀 버전의 앨범 "[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink")"가 발매되었다.

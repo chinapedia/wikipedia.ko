@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SG](https://ko.wikipedia.org/wiki/SG).
+> This article is converted from Wikipedia: [SG세계물산](https://ko.wikipedia.org/wiki/SG세계물산).
 
 
 **SG세계물산**은 의류 제조 및 판매 사업을 영위하는 코스피 상장 기업이다. 대형 바이어들에게 대한 [OEM](../Page/OEM.md "wikilink") 방식 판매와 자체 브랜드를 통한 판매를 병행하고 있다.

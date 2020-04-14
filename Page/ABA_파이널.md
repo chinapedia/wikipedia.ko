@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABA ](https://ko.wikipedia.org/wiki/ABA_).
+> This article is converted from Wikipedia: [ABA 파이널](https://ko.wikipedia.org/wiki/ABA_파이널).
 
 
 **ABA 파이널(ABA Finals)**는 **[아메리칸 농구 협회](../Page/아메리칸_농구_협회.md "wikilink")(ABA)**의 챔피언십 시리즈로 1968년부터 1976년까지 이어졌는데 동부 컨퍼런스 승자와 서부 콘퍼런스 승자가 맞붙게 되며 먼저 4경기를 승리하는 팀이(7전 4선승제) 우승한다.

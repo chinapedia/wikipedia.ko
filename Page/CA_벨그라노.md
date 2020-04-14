@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
+> This article is converted from Wikipedia: [CA 벨그라노](https://ko.wikipedia.org/wiki/CA_벨그라노).
 
 
 **CA 벨그라노**(Club Atlético Belgrano)는 [아르헨티나](../Page/아르헨티나.md "wikilink")에 있는 [코르도바](https://ko.wikipedia.org/wiki/코르도바 "wikilink")를 연고로 하는 축구 클럽이다. 이 팀은 [1905년](../Page/1905년.md "wikilink") [3월 19일에](../Page/3월_19일.md "wikilink") 창단되었으며, 현재 [아르헨티나 프리메라 디비시온에](../Page/아르헨티나_프리메라_디비시온.md "wikilink") 참가하고 있다.

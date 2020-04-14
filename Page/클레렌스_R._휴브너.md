@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R. ](https://ko.wikipedia.org/wiki/_R._).
+> This article is converted from Wikipedia: [클레렌스 R. 휴브너](https://ko.wikipedia.org/wiki/클레렌스_R._휴브너).
 
 
 **클레렌스 랄프 휴브너**(1888.11.24 – 1972.9.23)은 많은 훈장을 수여받은 제2차 세계 대전 당시의 육군 중장이다.

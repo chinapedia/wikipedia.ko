@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TCF  ](https://ko.wikipedia.org/wiki/TCF__).
+> This article is converted from Wikipedia: [TCF 뱅크 스타디움](https://ko.wikipedia.org/wiki/TCF_뱅크_스타디움).
 
 
 **TCF 뱅크 스타디움**(TCF Bank Stadium)는 [미국](../Page/미국.md "wikilink") [미네소타주](../Page/미네소타주.md "wikilink") [미니애폴리스](../Page/미니애폴리스.md "wikilink")에 위치한 다목적 [미식축구](../Page/미식축구.md "wikilink") 경기장이다. 과거 [NFL](../Page/내셔널_풋볼_리그.md "wikilink") [미네소타 바이킹스의](https://ko.wikipedia.org/wiki/미네소타_바이킹스 "wikilink") 홈 경기장으로 사용했으면, 과거 [MLS](../Page/메이저_리그_사커.md "wikilink") [미네소타 유나이티드 FC의](../Page/미네소타_유나이티드_FC.md "wikilink") 홈경기장으로 사용하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  ](https://ko.wikipedia.org/wiki/KBS__).
+> This article is converted from Wikipedia: [KBS 테마 드라마](https://ko.wikipedia.org/wiki/KBS_테마_드라마).
 
 
 《**KBS 테마 드라마**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [1997년](../Page/1997년.md "wikilink") [6월 14일부터](../Page/6월_14일.md "wikilink") [1997년](../Page/1997년.md "wikilink") [7월 6일까지](../Page/7월_6일.md "wikilink") 방송된 단막극 형식의 드라마 시리즈이다. 한 테마당 2부작으로 구성되어 방송하였으나 소재 고갈과 시청률 저조\[1\]로 막을 내렸으며 당시 해당 드라마 자리에는 애초 월화 미니시리즈 《[프로포즈](../Page/프로포즈_\(드라마\).md "wikilink")》 후속으로 기획된\[2\] 《[전설의 고향](../Page/전설의_고향.md "wikilink")》이 대타로 들어갔다.
