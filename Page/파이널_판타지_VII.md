@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  VII](https://ko.wikipedia.org/wiki/__VII).
+> This article is converted from Wikipedia: [파이널 판타지 VII](https://ko.wikipedia.org/wiki/파이널_판타지_VII).
 
 
 《**파이널 판타지 VII**》(; )은 [일본](../Page/일본.md "wikilink")의 스퀘어(현재는 [스퀘어 에닉스](../Page/스퀘어_에닉스.md "wikilink"))에서 개발한 일본식 판타지 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")용 게임이고 컴퓨터용으로 변환되기도 했다. 일본에서는 1997년에 발매되었다.

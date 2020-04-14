@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [아스널 FC](https://ko.wikipedia.org/wiki/아스널_FC).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Trophy_presentation_Highbury_2004.JPG "wikilink") **아스널 풋볼 클럽**()은 [런던](../Page/런던.md "wikilink")을 연고지로 [홀로웨이](https://ko.wikipedia.org/wiki/홀로웨이 "wikilink")의 [에미레이츠 스타디움을](https://ko.wikipedia.org/wiki/에미레이츠_스타디움 "wikilink") 홈구장으로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 잉글랜드의 1부 리그인 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 속해 있다. 아스널 FC(이하 아스널)는 현재 잉글랜드에서 가장 성공한 클럽들 중 하나이며, 13번의 리그 우승을 이뤘고, [FA컵](../Page/FA컵.md "wikilink")에서 13번의 우승으로 [맨체스터 유나이티드를](https://ko.wikipedia.org/wiki/맨체스터_유나이티드 "wikilink") 제치고 잉글랜드 최다 우승 기록을 가지고있다. 그리고 당시 [풋볼 리그](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 1919-20 시즌부터 시작하여 그 동안 한번도 2부 리그로 강등되지 않으면서 연속적으로 가장 오랫동안 1부 리그 잔류 기록을 세우고 있는 팀이기도 하다. 또한 20세기 평균 8.5등으로 영국 최고의 성적을 거두고 있다.
@@ -444,7 +444,7 @@
 
 ### 1군 선수 명단
 
-2019년 7월 24일 기준\[108\]
+2020년 3월 20일 기준\[108\]
 
 ### 임대 선수 명단
 
@@ -650,8 +650,9 @@
 
 ## 네임드 팬
 
-  - [엘리자베스 2세](../Page/엘리자베스_2세.md "wikilink") (영국 여왕)
   - [웨일스 공자 해리](https://ko.wikipedia.org/wiki/웨일스_공자_해리 "wikilink") (영국 왕자, [웨일스 공 찰스의](../Page/웨일스_공_찰스.md "wikilink") 차남)
+  - [도널드 트럼프](../Page/도널드_트럼프.md "wikilink") (미국 제45대 대통령)
+  - [데이지 리들리](../Page/데이지_리들리.md "wikilink") (배우)
   - [케빈 코스트너](../Page/케빈_코스트너.md "wikilink") (배우)
   - [제이미 벨](../Page/제이미_벨.md "wikilink") (배우)
   - [피델 카스트로](../Page/피델_카스트로.md "wikilink") (정치가)
@@ -667,7 +668,9 @@
   - [제이지](https://ko.wikipedia.org/wiki/제이지 "wikilink") (가수)
   - [이언 매켈런](../Page/이언_매켈런.md "wikilink") (배우)
   - [피어스 모건](../Page/피어스_모건.md "wikilink") (언론인, TV진행자)
-  - [데미 무어](../Page/데미_무어.md "wikilink") (배우)
+
+<!-- end list -->
+
   - [닉 혼비](https://ko.wikipedia.org/wiki/닉_혼비 "wikilink") (소설가)
   - [폴 카가메](../Page/폴_카가메.md "wikilink") (정치가)
   - [오사마 빈 라덴](https://ko.wikipedia.org/wiki/오사마_빈_라덴 "wikilink") (국제 테러리스트)
@@ -677,7 +680,9 @@
   - [카야 스코델라리오](../Page/카야_스코델라리오.md "wikilink") (배우)
   - [마크 스트롱](../Page/마크_스트롱.md "wikilink") (배우)
   - [로저 워터스](../Page/로저_워터스.md "wikilink") ([핑크 플로이드의](../Page/핑크_플로이드.md "wikilink") 베이시스트)
-  - [엠마 왓슨](https://ko.wikipedia.org/wiki/엠마_왓슨 "wikilink") (배우)
+
+<!-- end list -->
+
   - [조슈아 캐럿](../Page/조슈아_캐럿.md "wikilink") (엔터테이너, 모델)
   - [김상혁](../Page/김상혁.md "wikilink") ([클릭비](https://ko.wikipedia.org/wiki/클릭비 "wikilink")의 멤버)
   - [목진석](../Page/목진석.md "wikilink") (바둑기사)
@@ -686,6 +691,7 @@
   - [이상윤](../Page/이상윤_\(축구인\).md "wikilink") (축구 해설위원)
   - [임시완](../Page/임시완.md "wikilink") ([ZE:A](../Page/ZE:A.md "wikilink")의 멤버)
   - [한준희](../Page/한준희.md "wikilink")(축구 해설위원)
+  - [한현민](../Page/한현민_\(모델\).md "wikilink") (모델)
 
 ## 각주
 

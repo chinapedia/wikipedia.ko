@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
+> This article is converted from Wikipedia: [드와이트 D. 아이젠하워](https://ko.wikipedia.org/wiki/드와이트_D._아이젠하워).
 
 
 **드와이트 데이비드 "아이크" 아이젠하워**(, [1890년](../Page/1890년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") \~ [1969년](../Page/1969년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 군인이자 정치가로, [미국 육군](../Page/미국_육군.md "wikilink") 원수 출신이었고 1953년부터 1961년까지 [미국](../Page/미국.md "wikilink")의 34번째 대통령을 지냈다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 동안에 그는 [유럽](../Page/유럽.md "wikilink")에서 연합군의 최고 사령관으로 일했으며, 1944-1945년에는 서부 전선에서 [노르망디 상륙 작전을](https://ko.wikipedia.org/wiki/노르망디_상륙_작전 "wikilink") 비롯한 [프랑스](../Page/프랑스.md "wikilink")와 [독일](../Page/독일.md "wikilink") 지역 공격에 대한 책임을 맡아 공격을 계획하고 감독했다. 1951년에 그는 첫 번째 [나토](../Page/북대서양_조약_기구.md "wikilink") 사령관이 되었다. 애칭은 아이크(Ike)다.
@@ -43,7 +43,7 @@
 
 1961년 [민주당의](../Page/민주당_\(미국\).md "wikilink") [케네디에게](../Page/존_F._케네디.md "wikilink") 대통령직을 물려주었다.
 
-퇴임 후 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [게티즈버그](https://ko.wikipedia.org/wiki/게티즈버그 "wikilink")에 있는 농장 집에서 생활하다가, 1969년 3월 28일 [워싱턴DC](https://ko.wikipedia.org/wiki/워싱턴DC "wikilink")에 있는 월터리드 육군 병원에서 울혈성 심장병으로 사망하였다. 향년 79세.
+대통령 퇴임 후 다시 예비역 소집 명령을 통해 군에 복귀하였고, [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [게티즈버그](https://ko.wikipedia.org/wiki/게티즈버그 "wikilink")에 있는 농장 집에서 생활하다가, 1969년 3월 28일 [워싱턴DC](https://ko.wikipedia.org/wiki/워싱턴DC "wikilink")에 있는 월터리드 육군 병원에서 울혈성 심장병으로 사망하였다. 향년 79세.
 
 ## 같이 보기
 

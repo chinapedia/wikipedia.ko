@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Demography 7col](https://ko.wikipedia.org/wiki/:Demography_7col).
+> This article is converted from Wikipedia: [틀:Demography 7col](https://ko.wikipedia.org/wiki/틀:Demography_7col).
 
 
 <onlyinclude>{| border="0" width= cellspacing="2" cellpadding="2" | colspan="7" bgcolor="\#eeeeee" align="center" | <strong>에서 까지 <span style="color:#0000D0;"></span>의 인구 변화</strong> |- bgcolor="\#eeeeee" | align="center" |<strong></strong> | align="center" |<strong></strong> | align="center" |<strong></strong> | align="center" |<strong></strong> | align="center" |<strong></strong> | align="center" |<strong></strong> | align="center" |<strong></strong> |- bgcolor="\#eeeeee" | align="center" | | align="center" | | align="center" | | align="center" | | align="center" | | align="center" | | align="center" | |- |}</onlyinclude>

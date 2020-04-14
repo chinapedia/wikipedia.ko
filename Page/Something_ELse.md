@@ -13,9 +13,9 @@
 
 ## 구성원
 
-  - **오쿠보 노부타카** (, [1974년](../Page/1974년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink")
-  - **이토 다이스케** (, [1974년](../Page/1974년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") - ) : [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
-  - **이마이 지히로** (, [1974년](../Page/1974년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") - ) : [베이스 기타](../Page/베이스_기타.md "wikilink") , [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
+  - **오쿠보 노부타카**(, [1974년](../Page/1974년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink")
+  - **이토 다이스케**(, [1974년](../Page/1974년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") - ) : [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink"), [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
+  - **이마이 지히로**(, [1974년](../Page/1974년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") - ) : [베이스 기타](../Page/베이스_기타.md "wikilink") , [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
 
 ## 작품 목록
 

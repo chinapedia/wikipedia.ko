@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F000\~FFFF](https://ko.wikipedia.org/wiki/_F000\~FFFF).
+> This article is converted from Wikipedia: [유니코드 F000\~FFFF](https://ko.wikipedia.org/wiki/유니코드_F000\~FFFF).
 
 
 U+E000부터 U+F8FF 안의 유니코드 문자는 사용자 정의 문자를 위해 예약된 사용자 정의 영역으로 사용된다. 유니코드와 ISO/IEC 10646은 이 영역 안의 어떤 코드 포인트에도 문자를 배당하지 않았으며, 아래에 나오는 문자들은 시스템에 따라서 다르게 표시될 수 있다.

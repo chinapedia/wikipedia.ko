@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK ](https://ko.wikipedia.org/wiki/SK_).
+> This article is converted from Wikipedia: [SK 와이번스](https://ko.wikipedia.org/wiki/SK_와이번스).
 
 
 **SK 와이번스**(SK Wyverns)는 [대한민국](../Page/대한민국.md "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")를 연고지로 하는 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 소속 프로야구단이다. [SK그룹](../Page/SK그룹.md "wikilink")의 계열사이다. 홈 구장은 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [미추홀구](../Page/미추홀구.md "wikilink") 매소홀로 618에 있는 [인천 SK 행복드림구장이다](../Page/문학야구장.md "wikilink").
@@ -111,11 +111,11 @@ SK 와이번스의 초대 감독은 [강병철이다](../Page/강병철_\(야구
 
 2007 시즌부터는 [김성근이](../Page/김성근_\(야구인\).md "wikilink") 3대 감독을 맡게 되었다. 그는 취임하자마자 SK 와이번스 창단 이래 첫 우승을 이끌었고, 이후 두 차례 더 우승을 일궈냈다. 5시즌 동안 네 차례 PS 진출, 세 차례 우승을 거뒀다.
 
-하지만 김성근 감독이 프런트와의 불화 끝에 불명예스러운 경질을 당하고, 그간 김성근을 보좌하던 수석 코치 겸 퓨처스 리그 감독이었던 [이만수](https://ko.wikipedia.org/wiki/이만수 "wikilink")가 감독 대행부터 시작하여 4대 감독까지 맡게 되었다. 정식으로 부임한 2012 시즌에는 준우승을 이끌었다. 하지만 이후 2013 \~ 2014 두 시즌 간은 PS에 진출하지 못한다.
+하지만 김성근 감독이 프런트와의 불화 끝에 불명예스러운 경질을 당하고, 그간 김성근을 보좌하던 수석 코치 겸 퓨처스 리그 감독이었던 [이만수](https://ko.wikipedia.org/wiki/이만수 "wikilink")가 감독 대행부터 시작하여 4대 감독까지 맡게 되었다. 정식으로 부임한 2012 시즌에는 준우승을 이끌었다. 하지만 이후 2013 \~ 2014 두 시즌은 PS에 진출하지 못한다.
 
 이만수 감독은 3시즌 반 가량의 감독 생활을 마무리하였고 라오스로 떠나 야구를 전파하였다. 그리고 이 빈자리를 채우기 위해 5대 감독으로 [김용희](https://ko.wikipedia.org/wiki/김용희 "wikilink")가 부임하였다.
 
-2016시즌을 6위로 마친 후 [김용희](https://ko.wikipedia.org/wiki/김용희 "wikilink") 감독이 물러나고 구단 최초로 외국인 감독인 [트레이 힐만이](../Page/트레이_힐만.md "wikilink") 감독으로 선임되었다. 2018년 시즌 한국시리즈 우승으로 8년만의 우승을 일군 [트레이 힐만](../Page/트레이_힐만.md "wikilink") 감독은 올시즌을 끝으로 가족사정으로 인해 미국으로 돌아간다. [트레이 힐만](../Page/트레이_힐만.md "wikilink") 감독의 후임으로 [염경엽](../Page/염경엽.md "wikilink") 단장을 7대감독으로 선임하였다.
+2016시즌을 6위로 마친 후 [김용희](https://ko.wikipedia.org/wiki/김용희 "wikilink") 감독이 물러나고 구단 최초로 외국인 감독인 [트레이 힐만이](../Page/트레이_힐만.md "wikilink") 감독으로 선임되었다. 2018년 시즌 한국시리즈 우승으로 8년만의 우승을 일군 [트레이 힐만](../Page/트레이_힐만.md "wikilink") 감독은 올시즌을 끝으로 어머니께서 편찮아 미국으로 돌아간다. [트레이 힐만](../Page/트레이_힐만.md "wikilink") 감독의 후임으로 [염경엽](../Page/염경엽.md "wikilink") 단장을 7대감독으로 선임하였다. 2019년 2위에 진출하나 키움에게 지고 포스트시즌 탈락한다.
 
 ### SK 와이번스 연도별 선수 명단
 
@@ -126,7 +126,7 @@ SK 와이번스의 초대 감독은 [강병철이다](../Page/강병철_\(야구
 ## 역대 홈 그라운드
 
   - 2000 - 2001 : [숭의야구장](../Page/숭의야구장.md "wikilink")
-  - 2002 - : [인천 SK 행복 드림 구장(문학구장)](../Page/문학야구장.md "wikilink")
+  - 2002 - : [인천 SK 행복드림구장(문학구장)](../Page/문학야구장.md "wikilink")
 
 ## 세부 특징
 
@@ -211,7 +211,7 @@ SK 와이번스의 초대 감독은 [강병철이다](../Page/강병철_\(야구
 <td><p><a href="../Page/강지광.md" title="wikilink">강지광</a><br />
 (<a href="../Page/키움_히어로즈.md" title="wikilink">키움 히어로즈</a>, 외야수)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김주온" title="wikilink">김주온</a><br />
-(<a href="https://ko.wikipedia.org/wiki/삼성_라이온즈" title="wikilink">삼성 라이온즈</a>, 포수)</p></td>
+(<a href="https://ko.wikipedia.org/wiki/삼성_라이온즈" title="wikilink">삼성 라이온즈</a>, 투수)</p></td>
 <td><p><a href="../Page/허도환.md" title="wikilink">허도환</a><br />
 (<a href="../Page/한화_이글스.md" title="wikilink">한화 이글스</a>, 포수)</p></td>
 </tr>

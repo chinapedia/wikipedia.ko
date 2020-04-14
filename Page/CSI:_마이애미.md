@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [CSI: ](https://ko.wikipedia.org/wiki/CSI:_).
+> This article is converted from Wikipedia: [CSI: 마이애미](https://ko.wikipedia.org/wiki/CSI:_마이애미).
 
 
-**CSI: 마이애미** ()는 [미국](../Page/미국.md "wikilink") [CBS에서](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 방영된 [CSI과학수사대](https://ko.wikipedia.org/wiki/CSI과학수사대 "wikilink")의 두 번째 과학수사 관련 [텔레비전 시리즈다](https://ko.wikipedia.org/wiki/텔레비전_시리즈 "wikilink"). 미국내 시청률 1, 2위를 다투는 [CBS의](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 인기 범죄 수사물로, [2000년](../Page/2000년.md "wikilink")에 [미국](../Page/미국.md "wikilink")에서 《[CSI과학수사대](https://ko.wikipedia.org/wiki/CSI과학수사대 "wikilink")》가 첫 방송된 이후 큰 반향을 불러일으키자 [2002년](../Page/2002년.md "wikilink")엔 배경과 주인공을 바꾼 유사 시리즈 《CSI: 마이애미》가 탄생되었다. 두 편 모두 《[아마게돈](https://ko.wikipedia.org/wiki/아마게돈 "wikilink")》과 《[진주만](../Page/진주만_\(영화\).md "wikilink")》 등 할리우드 흥행 대작을 만들어온 [제리 브룩하이머가](../Page/제리_브룩하이머.md "wikilink") 제작했다.
+**CSI: 마이애미**()는 [미국](../Page/미국.md "wikilink") [CBS에서](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 방영된 [CSI과학수사대](https://ko.wikipedia.org/wiki/CSI과학수사대 "wikilink")의 두 번째 과학수사 관련 [텔레비전 시리즈다](https://ko.wikipedia.org/wiki/텔레비전_시리즈 "wikilink"). 미국내 시청률 1, 2위를 다투는 [CBS의](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 인기 범죄 수사물로, [2000년](../Page/2000년.md "wikilink")에 [미국](../Page/미국.md "wikilink")에서 《[CSI과학수사대](https://ko.wikipedia.org/wiki/CSI과학수사대 "wikilink")》가 첫 방송된 이후 큰 반향을 불러일으키자 [2002년](../Page/2002년.md "wikilink")엔 배경과 주인공을 바꾼 유사 시리즈 《CSI: 마이애미》가 탄생되었다. 두 편 모두 《[아마게돈](https://ko.wikipedia.org/wiki/아마게돈 "wikilink")》과 《[진주만](../Page/진주만_\(영화\).md "wikilink")》 등 할리우드 흥행 대작을 만들어온 [제리 브룩하이머가](../Page/제리_브룩하이머.md "wikilink") 제작했다.
 
 [대한민국](../Page/대한민국.md "wikilink")에서는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 [2004년](../Page/2004년.md "wikilink") [1월](../Page/1월.md "wikilink")부터 [6월](../Page/6월.md "wikilink")까지 시즌 1을 방송했으며, [2005년](../Page/2005년.md "wikilink") [6월](../Page/6월.md "wikilink")에 시즌 2, [2006년](../Page/2006년.md "wikilink") [8월](../Page/8월.md "wikilink")에 시즌 3, [2007년](../Page/2007년.md "wikilink") [6월](../Page/6월.md "wikilink")에 시즌 4, [2008년](../Page/2008년.md "wikilink") [7월](../Page/7월.md "wikilink")에 시즌 5, [2009년](../Page/2009년.md "wikilink") [6월](../Page/6월.md "wikilink")에 시즌 6, [2010년](../Page/2010년.md "wikilink") [10월](../Page/10월.md "wikilink")에 시즌 7, [2011년](../Page/2011년.md "wikilink") [5월](../Page/5월.md "wikilink")에 시즌 8, [2012년](../Page/2012년.md "wikilink") [5월](../Page/5월.md "wikilink")에 시즌 9, [2013년](../Page/2013년.md "wikilink") [4월](../Page/4월.md "wikilink")에 시즌 10의 방영을 마쳤다. [CSI](https://ko.wikipedia.org/wiki/CSI "wikilink") 시리즈 중에 대한민국 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 유일하게 전 시즌을 방영하였다.
 
@@ -13,7 +13,7 @@
 
 ## 등장인물
 
-  - [데이비드 카루소](../Page/데이비드_카루소.md "wikilink") - **호라시오 케인** (Horatio "H" Caine), 3급 감식 수사관 (반장).
+  - [데이비드 카루소](../Page/데이비드_카루소.md "wikilink") - **호라시오 케인**(Horatio "H" Caine), 3급 감식 수사관 (반장).
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - [에밀리 프록터](https://ko.wikipedia.org/wiki/에밀리_프록터 "wikilink") - **캘리 듀케인** (Calleigh Duquesne), 3급 감식 수사관.
+  - [에밀리 프록터](https://ko.wikipedia.org/wiki/에밀리_프록터 "wikilink") - **캘리 듀케인**(Calleigh Duquesne), 3급 감식 수사관.
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [애덤 로드리게스](../Page/애덤_로드리게스.md "wikilink") - **에릭 델코** (Eric Delko), 3급 감식 수사관.
+  - [애덤 로드리게스](../Page/애덤_로드리게스.md "wikilink") - **에릭 델코**(Eric Delko), 3급 감식 수사관.
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - [로리 코크레인](../Page/로리_코크레인.md "wikilink") - **팀 스피들** (Tim "Speed" Speedle), 3급 감식 수사관 (시즌 1 \~ 시즌 3, 시즌 6.)
+  - [로리 코크레인](../Page/로리_코크레인.md "wikilink") - **팀 스피들**(Tim "Speed" Speedle), 3급 감식 수사관 (시즌 1 \~ 시즌 3, 시즌 6.)
 
 <!-- end list -->
 
@@ -50,7 +50,7 @@
 
 <!-- end list -->
 
-  - [조너선 토고](https://ko.wikipedia.org/wiki/조너선_토고 "wikilink") - **라이언 울프** (Ryan Wolfe), 3급 감식 수사관 (시즌 3 \~ 시즌 10).
+  - [조너선 토고](https://ko.wikipedia.org/wiki/조너선_토고 "wikilink") - **라이언 울프**(Ryan Wolfe), 3급 감식 수사관 (시즌 3 \~ 시즌 10).
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - [에디 시브리언](https://ko.wikipedia.org/wiki/에디_시브리언 "wikilink") - **제시 카도자** (Jesse Cardoza), 2급 감식 수사관 (시즌 8 \~ 시즌 9)
+  - [에디 시브리언](https://ko.wikipedia.org/wiki/에디_시브리언 "wikilink") - **제시 카도자**(Jesse Cardoza), 2급 감식 수사관 (시즌 8 \~ 시즌 9)
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - [오마 벤슨 밀러](../Page/오마_벤슨_밀러.md "wikilink") - **월터 시먼스** (Walter Simmons), 1급 감식 수사관 (시즌 8 \~ 시즌 10)
+  - [오마 벤슨 밀러](../Page/오마_벤슨_밀러.md "wikilink") - **월터 시먼스**(Walter Simmons), 1급 감식 수사관 (시즌 8 \~ 시즌 10)
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - [에바 라루](https://ko.wikipedia.org/wiki/에바_라루 "wikilink") ([Eva La Rue](https://ko.wikipedia.org/wiki/:en:Eva_La_Rue "wikilink")) - *' 나탈리아 보아 비스타*' (Natalia Boa Vista), 1급 감식 수사관 (시즌 4 \~ 시즌 10)
+  - [에바 라루](https://ko.wikipedia.org/wiki/에바_라루 "wikilink") ([Eva La Rue](https://ko.wikipedia.org/wiki/:en:Eva_La_Rue "wikilink")) - *' 나탈리아 보아 비스타*'(Natalia Boa Vista), 1급 감식 수사관 (시즌 4 \~ 시즌 10)
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@
 
 <!-- end list -->
 
-  - [렉스 린](https://ko.wikipedia.org/wiki/렉스_린 "wikilink") - *' 프랭크 트립*' (Frank Tripp), 마이애미 데이드 경찰 강력계 [형사](../Page/형사.md "wikilink").
+  - [렉스 린](https://ko.wikipedia.org/wiki/렉스_린 "wikilink") - *' 프랭크 트립*'(Frank Tripp), 마이애미 데이드 경찰 강력계 [형사](../Page/형사.md "wikilink").
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@
 
 <!-- end list -->
 
-  - [칸디 알렉산더](../Page/칸디_알렉산더.md "wikilink") - **알렉스 우즈** (Alexx Woods), 前 검시관, 현 병원 응급실 레지던트. (시즌 1 \~ 시즌 8)
+  - [칸디 알렉산더](../Page/칸디_알렉산더.md "wikilink") - **알렉스 우즈**(Alexx Woods), 前 검시관, 현 병원 응급실 레지던트. (시즌 1 \~ 시즌 8)
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@
 
 <!-- end list -->
 
-  - [메걸린 에치쿤워케](../Page/메걸린_에치쿤워케.md "wikilink") - **타라 프라이스** (Tara Price), 前 검시관 (시즌 7)
+  - [메걸린 에치쿤워케](../Page/메걸린_에치쿤워케.md "wikilink") - **타라 프라이스**(Tara Price), 前 검시관 (시즌 7)
 
 <!-- end list -->
 
@@ -113,7 +113,7 @@
 
 <!-- end list -->
 
-  - 크리스천 클레먼슨 ([Christian Clemenson](https://ko.wikipedia.org/wiki/:en:Christian_Clemenson "wikilink")) **톰 로먼** (Tom Loman), 검시관 (시즌 8 \~ 시즌 10)
+  - 크리스천 클레먼슨 ([Christian Clemenson](https://ko.wikipedia.org/wiki/:en:Christian_Clemenson "wikilink")) **톰 로먼**(Tom Loman), 검시관 (시즌 8 \~ 시즌 10)
 
 <!-- end list -->
 
@@ -122,7 +122,7 @@
 
 <!-- end list -->
 
-  - [소피아 밀로스](https://ko.wikipedia.org/wiki/소피아_밀로스 "wikilink") - **옐리나 살라스** (Yelina Salas), 레이몬드 케인의 아내 (시즌 2 \~ 시즌 7).
+  - [소피아 밀로스](https://ko.wikipedia.org/wiki/소피아_밀로스 "wikilink") - **옐리나 살라스**(Yelina Salas), 레이몬드 케인의 아내 (시즌 2 \~ 시즌 7).
 
 <!-- end list -->
 
@@ -131,7 +131,7 @@
 
 <!-- end list -->
 
-  - [킴 덜레이니](https://ko.wikipedia.org/wiki/킴_덜레이니 "wikilink") - **메건 도너** (Megan Donner), 1급 감식 수사관 (시즌 1).
+  - [킴 덜레이니](https://ko.wikipedia.org/wiki/킴_덜레이니 "wikilink") - **메건 도너**(Megan Donner), 1급 감식 수사관 (시즌 1).
 
 <!-- end list -->
 
@@ -140,7 +140,7 @@
 
 <!-- end list -->
 
-  - 보티 블리스 ([Botty Bllis](https://ko.wikipedia.org/wiki/:en:Botty_Bllis "wikilink")) - **맥신 발레라** (Maxine Valera), DNA 분석관 (시즌 2 \~ 시즌 7)
+  - 보티 블리스 ([Botty Bllis](https://ko.wikipedia.org/wiki/:en:Botty_Bllis "wikilink")) - **맥신 발레라**(Maxine Valera), DNA 분석관 (시즌 2 \~ 시즌 7)
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@
 
 <!-- end list -->
 
-  - 조니 휫워스 ([Johnny Whitworth](https://ko.wikipedia.org/wiki/:en:Johnny_Whitworth "wikilink")) - **제이크 버클리** (Jake Berkeley), 마이애미 데이드 경찰 강력계 위장 잠입 전문 형사 (시즌 5 \~ 시즌 8)
+  - 조니 휫워스 ([Johnny Whitworth](https://ko.wikipedia.org/wiki/:en:Johnny_Whitworth "wikilink")) - **제이크 버클리**(Jake Berkeley), 마이애미 데이드 경찰 강력계 위장 잠입 전문 형사 (시즌 5 \~ 시즌 8)
 
 <!-- end list -->
 
@@ -158,7 +158,7 @@
 
 <!-- end list -->
 
-  - 데이비드 리 스미스 ([David Lee Smith](https://ko.wikipedia.org/wiki/:en:David_Lee_Smith "wikilink")) - **릭 스테틀러** (Rick Stetler), 마이애미 데이드 경찰 내사과 형사 (시즌 2 \~ 시즌 8)
+  - 데이비드 리 스미스 ([David Lee Smith](https://ko.wikipedia.org/wiki/:en:David_Lee_Smith "wikilink")) - **릭 스테틀러**(Rick Stetler), 마이애미 데이드 경찰 내사과 형사 (시즌 2 \~ 시즌 8)
 
 <!-- end list -->
 
@@ -167,7 +167,7 @@
 
 <!-- end list -->
 
-  - [크리스티나 창](https://ko.wikipedia.org/wiki/크리스티나_창 "wikilink") - **레베카 네빈스** (Rebecca Nevins), [플로리다주](../Page/플로리다주.md "wikilink") [검찰청](https://ko.wikipedia.org/wiki/검찰청 "wikilink") 검사 (시즌 3, 시즌 6, 시즌 8)
+  - [크리스티나 창](https://ko.wikipedia.org/wiki/크리스티나_창 "wikilink") - **레베카 네빈스**(Rebecca Nevins), [플로리다주](../Page/플로리다주.md "wikilink") [검찰청](https://ko.wikipedia.org/wiki/검찰청 "wikilink") 검사 (시즌 3, 시즌 6, 시즌 8)
 
 <!-- end list -->
 

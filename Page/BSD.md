@@ -63,7 +63,7 @@
   - [FreeBSD](http://www.freebsd.org/), [NetBSD](http://www.netbsd.org/), [OpenBSD](http://www.openbsd.org/), [DragonFlyBSD](http://www.dragonflybsd.org/), [TrueOS](http://www.trueos.org/), [DesktopBSD](http://desktopbsd.net/) - 주요 BSD
   - [BSDforum.kr](https://web.archive.org/web/20071118220109/http://bsdforum.kr/)
   - [Korea FreeBSD Users Group](http://www.kr.freebsd.org/)
-  - [Korea FreeBSD IRC Users Group](http://www.freebsdcity.org/)
+  - [Korea FreeBSD IRC Users Group](https://web.archive.org/web/20070520113141/http://freebsdcity.org/)
 
 [BSD](https://ko.wikipedia.org/wiki/분류:BSD "wikilink") [분류:1977년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1977년_소프트웨어 "wikilink") [분류:자유 소프트웨어 운영 체제](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어_운영_체제 "wikilink") [분류:C로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C로_작성된_자유_소프트웨어 "wikilink")
 

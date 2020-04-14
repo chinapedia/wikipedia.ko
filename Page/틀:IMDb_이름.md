@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IMDb ](https://ko.wikipedia.org/wiki/:IMDb_).
+> This article is converted from Wikipedia: [틀:IMDb 이름](https://ko.wikipedia.org/wiki/틀:IMDb_이름).
 
 
 \[<https://www.imdb.com/>{{\#if: }}}

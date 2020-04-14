@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ JAS 39 ](https://ko.wikipedia.org/wiki/_JAS_39_).
+> This article is converted from Wikipedia: [사브 JAS 39 그리펜](https://ko.wikipedia.org/wiki/사브_JAS_39_그리펜).
 
 
 **사브 JAS 39 그리펜**(Saab JAS 39 Gripen, )은 사브(Saab)사와 에릭슨 볼보 셀시우스 사가 합작하여 개발한 [스웨덴](../Page/스웨덴.md "wikilink")의 [4.5세대](../Page/4세대_전투기.md "wikilink") 다목적 전투기이다.

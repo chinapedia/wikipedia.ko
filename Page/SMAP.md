@@ -800,7 +800,7 @@ SMAP의 투어는 앨범 발매와 동시에 실시한다. 초기에는 1년에 
   - 4개도시 17공연
   - 일본 무도관(6회공연), 아이치 후생연금회관, 오사카성 홀(추가 공연), 오사카 후생연금회관에서 공연.
 
-**꿈이 MORI MORI Spring Concert '94** (MORI MORI Spring Concert '94)
+**꿈이 MORI MORI Spring Concert '94**(MORI MORI Spring Concert '94)
 
   - 1994년 3월 9일
   - 도쿄 나카노선플라자에서 공연.

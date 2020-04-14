@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [IP ](https://ko.wikipedia.org/wiki/IP_).
+> This article is converted from Wikipedia: [IP 주소](https://ko.wikipedia.org/wiki/IP_주소).
 
 
-**IP 주소**(, )는 컴퓨터 네트워크에서 장치들이 서로를 인식하고 통신을 하기 위해서 사용하는 특수한 번호이다. 네트워크에 연결된 장치가 라우터이든 일반 서버이든, 모든 기계는 이 특수한 번호를 가지고 있어야 한다. 이 번호를 이용하여 발신자를 대신하여 메시지가 전송되고 수신자를 향하여 예정된 목적지로 전달된다. IP 주소를 줄여서 **IP**라고 부르기도 하나 [ip](https://ko.wikipedia.org/wiki/ip "wikilink")는 인터넷 규약 자체를 가리키는 말이기 때문에 엄밀하게는 구별해야 한다.
+**[IP](https://ko.wikipedia.org/wiki/IP "wikilink") 주소**(, )는 컴퓨터 네트워크에서 장치들이 서로를 인식하고 통신을 하기 위해서 사용하는 특수한 번호이다. 네트워크에 연결된 장치가 라우터이든 일반 서버이든, 모든 기계는 이 특수한 번호를 가지고 있어야 한다. 이 번호를 이용하여 발신자를 대신하여 메시지가 전송되고 수신자를 향하여 예정된 목적지로 전달된다. IP 주소를 줄여서 **IP**라고 부르기도 하나 [ip](https://ko.wikipedia.org/wiki/ip "wikilink")는 인터넷 규약 자체를 가리키는 말이기 때문에 엄밀하게는 구별해야 한다.
 
 IP 주소는 [5036](https://ko.wikipedia.org/wiki/5036 "wikilink")이나 [5047](https://ko.wikipedia.org/wiki/5047 "wikilink"), [인터넷](../Page/인터넷.md "wikilink")에서만 사용되는 전화번호라고 생각할 수 있다. 한편, 이런 번호는 사람이 외우기 어렵기 때문에, 전화번호부와 같은 역할을 하는 서비스가 필요하다. [DNS가](../Page/도메인_네임_시스템.md "wikilink") 이런 역할을 하며 이런 서비스를 "도메인 이름 분석" (domain name resolution) 혹은 "이름 분석" (name resolution)이라고 한다.
 

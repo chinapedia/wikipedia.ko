@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IHS](https://ko.wikipedia.org/wiki/IHS).
+> This article is converted from Wikipedia: [IHÉS](https://ko.wikipedia.org/wiki/IHÉS).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IHES_main_building.jpg "wikilink")

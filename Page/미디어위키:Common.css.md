@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Common.css](https://ko.wikipedia.org/wiki/:Common.css).
+> This article is converted from Wikipedia: [미디어위키:Common.css](https://ko.wikipedia.org/wiki/미디어위키:Common.css).
 
 
 /\*

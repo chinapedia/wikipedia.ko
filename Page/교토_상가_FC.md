@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [교토 상가 FC](https://ko.wikipedia.org/wiki/교토_상가_FC).
 
 
 **교토 상가 FC**()는 [일본](../Page/일본.md "wikilink") [교토를](https://ko.wikipedia.org/wiki/교토_시 "wikilink") 연고지로 하는 [J리그](../Page/J리그.md "wikilink") 팀으로 [1922년](../Page/1922년.md "wikilink")에 창단했다. **오찌힝즈**()라는 애칭으로 불린다. [2007년](../Page/2007년.md "wikilink")에 기존의 **교토 퍼플 상가**에서 지금의 이름으로 변경했다. 팀명인 "상가"()는 연맹, 또는 연합을 뜻하는 [산스크리트어](../Page/산스크리트어.md "wikilink")의 "Sangha"에서 온 말로 [승보](https://ko.wikipedia.org/wiki/승보 "wikilink")에 해당한다. 이는 불교 도시인 교토를 상징한다.

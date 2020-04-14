@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RP \(\)](https://ko.wikipedia.org/wiki/RP_\(\)).
+> This article is converted from Wikipedia: [RP \(복잡도\)](https://ko.wikipedia.org/wiki/RP_\(복잡도\)).
 
 
 [복잡도 이론에서](../Page/계산_복잡도_이론.md "wikilink"), **RP** (확률적 다항시간, randomized polynomial time)은 다음과 같은 성질을 만족하는 [확률적 튜링 기계가](https://ko.wikipedia.org/wiki/확률적_튜링_기계 "wikilink") 존재하는 문제들의 [복잡도 종류이다](../Page/복잡도_종류.md "wikilink").

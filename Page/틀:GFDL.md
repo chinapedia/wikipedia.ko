@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:GFDL](https://ko.wikipedia.org/wiki/:GFDL).
+> This article is converted from Wikipedia: [틀:GFDL](https://ko.wikipedia.org/wiki/틀:GFDL).
 
 
 <onlyinclude>

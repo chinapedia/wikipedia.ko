@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MiG-31](https://ko.wikipedia.org/wiki/_MiG-31).
+> This article is converted from Wikipedia: [미코얀 MiG-31](https://ko.wikipedia.org/wiki/미코얀_MiG-31).
 
 
 **미코얀 MiG-31**(<small>[키릴 문자](../Page/키릴_문자.md "wikilink"):</small> МиГ-31, [나토 코드네임](https://ko.wikipedia.org/wiki/나토_코드네임 "wikilink") **폭스하운드**)은 [MiG-25](https://ko.wikipedia.org/wiki/MiG-25 "wikilink")를 대체하기 위해 개발된 고속의 요격 전투기이다. 최대이륙중량 36톤인 [F-15K](https://ko.wikipedia.org/wiki/F-15K "wikilink") 보다 무거운 46톤이다.

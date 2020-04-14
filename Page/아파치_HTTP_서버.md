@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HTTP ](https://ko.wikipedia.org/wiki/_HTTP_).
+> This article is converted from Wikipedia: [아파치 HTTP 서버](https://ko.wikipedia.org/wiki/아파치_HTTP_서버).
 
 
 **아파치 HTTP 서버**()는 [아파치 소프트웨어 재단에서](../Page/아파치_소프트웨어_재단.md "wikilink") 관리하는 HTTP [웹 서버이다](../Page/웹_서버.md "wikilink"). [BSD](../Page/BSD.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink") 등 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 뿐 아니라 [마이크로소프트 윈도우나](../Page/마이크로소프트_윈도우.md "wikilink") [노벨 넷웨어](https://ko.wikipedia.org/wiki/노벨_넷웨어 "wikilink") 같은 기종에서도 운용할 수 있다.

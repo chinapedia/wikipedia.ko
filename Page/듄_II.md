@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [듄 II](https://ko.wikipedia.org/wiki/듄_II).
 
 
 《**듄II**》(**)는 [프랭크 허버트의](../Page/프랭크_허버트.md "wikilink") [과학 소설](https://ko.wikipedia.org/wiki/과학_소설 "wikilink") 《[듄](../Page/듄.md "wikilink")》에서 동기를 얻어, [1992년](../Page/1992년.md "wikilink") [웨스트우드 스튜디오에서](../Page/웨스트우드_스튜디오.md "wikilink") 제작한 최초의 [실시간 전략 시뮬레이션 게임이다](../Page/실시간_전략_게임.md "wikilink"). 그 뒤에 만들어진 《[커맨드 앤 컨커 시리즈](../Page/커맨드_앤_컨커_시리즈.md "wikilink")》와 《[워크래프트](../Page/워크래프트.md "wikilink")》, 《[스타크래프트](../Page/스타크래프트.md "wikilink")》 같은 실시간 전략 시뮬레이션 게임에 많은 영향을 주었다. (정확히 말하면 최초의 [실시간 전략 게임은](https://ko.wikipedia.org/wiki/실시간_전략_시뮬레이션_게임 "wikilink") 《[스톤커스](https://ko.wikipedia.org/wiki/스톤커스 "wikilink")》(**)이지만, 《듄II》는 실시간 전략 시뮬레이션을 장르로서 확립했다는 평가를 받고 있다.) 1998년 리메이크작인 《[듄 2000](https://ko.wikipedia.org/wiki/듄_2000 "wikilink")》이 발매되었다.
@@ -34,4 +34,7 @@
   - [듄 2000](https://ko.wikipedia.org/wiki/듄_2000 "wikilink")
   - [엠페러: 배틀 포 듄](../Page/엠페러:_배틀_포_듄.md "wikilink")
 
+## 외부 링크
+
+  -
 [분류:1992년 비디오 게임](https://ko.wikipedia.org/wiki/분류:1992년_비디오_게임 "wikilink") [분류:실시간 전략 게임](https://ko.wikipedia.org/wiki/분류:실시간_전략_게임 "wikilink") [분류:도스 게임](https://ko.wikipedia.org/wiki/분류:도스_게임 "wikilink") [분류:아미가 게임](https://ko.wikipedia.org/wiki/분류:아미가_게임 "wikilink") [분류:메가 드라이브 게임](https://ko.wikipedia.org/wiki/분류:메가_드라이브_게임 "wikilink") [분류:웨스트우드 스튜디오의 게임](https://ko.wikipedia.org/wiki/분류:웨스트우드_스튜디오의_게임 "wikilink") [분류:취소된 플레이스테이션 (콘솔) 게임](https://ko.wikipedia.org/wiki/분류:취소된_플레이스테이션_\(콘솔\)_게임 "wikilink")

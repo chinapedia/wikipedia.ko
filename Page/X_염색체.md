@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X ](https://ko.wikipedia.org/wiki/X_).
+> This article is converted from Wikipedia: [X 염색체](https://ko.wikipedia.org/wiki/X_염색체).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Chromosome_X.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Sd4hi-unten-crop.jpg "wikilink")([FISH](https://ko.wikipedia.org/wiki/:en:Fluorescence_in_situ_hybridization "wikilink"))로 검출한 X 염색체 2개. 아래: 같은 핵을 [DAPI](https://ko.wikipedia.org/wiki/DAPI "wikilink")로 염색하고 [전하결합소자](../Page/전하결합소자.md "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")로 촬영한 것. 화살표는 불활성화된 X 염색체인 [바소체](../Page/바소체.md "wikilink")이다.\]\] **X 염색체**는 [유성 생식을](../Page/유성_생식.md "wikilink") 하는 [생물](../Page/생물.md "wikilink") 중 [성결정](https://ko.wikipedia.org/wiki/성결정 "wikilink") 방식이 XO 방식이나 XY 방식인 생물들이 가지는 [성 염색체중](https://ko.wikipedia.org/wiki/성_염색체 "wikilink") 하나이다. 암컷과 수컷 모두에게 있으며, 포유류의 경우 이질염색체 중 다른 하나는 [Y 염색체이다](https://ko.wikipedia.org/wiki/Y_염색체 "wikilink"). X 염색체라는 이름은 초기 연구자들이 X 염색체의 독특한 특성을 보고 붙인 이름이다.\[1\]\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C++](https://ko.wikipedia.org/wiki/C++).
+> This article is converted from Wikipedia: [C++빌더](https://ko.wikipedia.org/wiki/C++빌더).
 
 
 **C++빌더**()는 [코드기어](../Page/코드기어.md "wikilink")(옛 [볼랜드](../Page/볼랜드.md "wikilink"))의 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 기반 [RAD](https://ko.wikipedia.org/wiki/RAD "wikilink") 개발 툴이다. [델파이](../Page/델파이.md "wikilink")와 많은 부분을 공유하며, [델파이](../Page/델파이.md "wikilink")의 C++ 버전으로 취급되기도 한다. 델파이에서 개발된 많은 구성요소들을 C++ 코드로 그대로 사용할 수 있다. 실제로 델파이로 작성된 [비주얼 컴포넌트 라이브러리를](https://ko.wikipedia.org/wiki/비주얼_컴포넌트_라이브러리 "wikilink") 별도로 다시 작성하지 않고 그대로 사용하고 있다.

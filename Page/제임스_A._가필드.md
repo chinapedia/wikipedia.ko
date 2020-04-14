@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [제임스 A. 가필드](https://ko.wikipedia.org/wiki/제임스_A._가필드).
 
 
-**제임스 에이브램 가필드**(James Abram Garfield, [1831년](../Page/1831년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") - [1881년](../Page/1881년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [제20대 대통령이며](../Page/미국의_대통령.md "wikilink"), 취임 후 총상을 당하며 미국의 대통령 중에서 두 번째로 짧은 재임 기간을 가졌다.
+**제임스 에이브램 가필드**(James Abram Garfield, [1831년](../Page/1831년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") \~ [1881년](../Page/1881년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [제20대 대통령이며](../Page/미국의_대통령.md "wikilink"), 취임 후 총상을 당하며 미국의 대통령 중에서 두 번째로 짧은 재임 기간을 가졌다.
 
 그는 또한 [프레더릭 더글러스](../Page/프레더릭_더글러스.md "wikilink")(워싱턴 증서 기록인), 로버트 엘리엇([재무부의](https://ko.wikipedia.org/wiki/미국_재무부 "wikilink") 특별 대리인), 존 M. 랭스턴([아이티](../Page/아이티.md "wikilink") 주재 공사)와 [블랜치 브루스](https://ko.wikipedia.org/wiki/블랜치_브루스 "wikilink")(재무부에 등록) 같은 몇몇의 [흑인](../Page/흑인.md "wikilink")들을 연방 고위직으로 임명하였다.
 

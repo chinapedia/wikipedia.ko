@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [린든 B. 존슨](https://ko.wikipedia.org/wiki/린든_B._존슨).
 
 
 **린든 베인스 존슨**(, [1908년](../Page/1908년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") \~ [1973년](../Page/1973년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 36대 [대통령](../Page/대통령.md "wikilink")이다. 그는 별명인 **LBJ**로 알려졌다. [베트남 전쟁과](../Page/베트남_전쟁.md "wikilink") 관련된 국외정책은 실패한 것으로 여겨지나, 인권향상을 비롯한 국내정책은 성공적이었다고 평가받는다. 신장 192cm로 미국 역대대통령 중에 2번째로 키가 크다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [     V](https://ko.wikipedia.org/wiki/_____V).
+> This article is converted from Wikipedia: [히어로즈 오브 마이트 앤 매직 V](https://ko.wikipedia.org/wiki/히어로즈_오브_마이트_앤_매직_V).
 
 
 **히어로즈 오브 마이트 앤 매직 V**(Heroes of Might and Magic V, HoMM5)는 [히어로즈 오브 마이트 앤 매직](../Page/히어로즈_오브_마이트_앤_매직.md "wikilink") 시리즈의 다섯 번째 작품이다. 3DO와 New World Computing의 도산으로 더이상 나오지 않을 것 같았던 후속작이 세계적인 유통회사인 [유비소프트](../Page/유비소프트.md "wikilink")가 판권을 사들여 [나이발 인터렉티브와](https://ko.wikipedia.org/wiki/나이발_인터렉티브 "wikilink") 손을 잡아 5번째 시리즈를 개발하였고, 개발사가 바뀌었음에도 불구하고 열렬한 호평을 얻고있다. 한국에서는 [인트라팅스](https://ko.wikipedia.org/wiki/인트라팅스 "wikilink")가 유통을 맡는다.

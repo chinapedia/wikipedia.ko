@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Demography 4col](https://ko.wikipedia.org/wiki/:Demography_4col).
+> This article is converted from Wikipedia: [틀:Demography 4col](https://ko.wikipedia.org/wiki/틀:Demography_4col).
 
 
 <onlyinclude>{| border="0" width= cellspacing="2" cellpadding="2" | colspan="4" bgcolor="\#eeeeee" align="center" | <strong>부터 까지 <span style="color:#0000D0;"></span>의 인구 변화</strong> |- bgcolor="\#eeeeee" | align="center" |<strong></strong> | align="center" |<strong></strong> | align="center" |<strong></strong> | align="center" |<strong></strong>

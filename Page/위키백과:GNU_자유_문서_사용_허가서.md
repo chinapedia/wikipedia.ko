@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:GNU    ](https://ko.wikipedia.org/wiki/:GNU____).
+> This article is converted from Wikipedia: [위키백과:GNU 자유 문서 사용 허가서](https://ko.wikipedia.org/wiki/위키백과:GNU_자유_문서_사용_허가서).
 
 
   -

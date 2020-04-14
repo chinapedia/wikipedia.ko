@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MSX](https://ko.wikipedia.org/wiki/MSX).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Computer_daewoo_cpc300e.jpg "wikilink") **MSX**는 [1983년](../Page/1983년.md "wikilink")에 미국 [마이크로소프트](../Page/마이크로소프트.md "wikilink")와 일본 [아스키](../Page/아스키_\(기업\).md "wikilink")(현 [가도카와 쇼텐](../Page/가도카와_쇼텐.md "wikilink") 아스키 미디어 웍스)가 제창한 [8비트](../Page/8비트.md "wikilink") 및 [16비트](../Page/16비트.md "wikilink") [개인용 컴퓨터의](../Page/개인용_컴퓨터.md "wikilink") 통일 규격이며, MSX와 그 후계 규격인 MSX2(1985년), MSX2+(1988년), MSXturboR(1990년, 16비트 규격)을 총칭하여 부르는 명칭이다. 원래는 규격 자체를 칭하는 말이지만, 이 규격을 모두 만족하는 컴퓨터를 MSX 라고도 하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Computer_daewoo_cpc300e.jpg "wikilink") **MSX**(Machines with Software eXchangeability)는 [1983년](../Page/1983년.md "wikilink")에 미국 [마이크로소프트](../Page/마이크로소프트.md "wikilink")와 일본 [아스키](../Page/아스키_\(기업\).md "wikilink")(현 [가도카와 쇼텐](../Page/가도카와_쇼텐.md "wikilink") 아스키 미디어 웍스)가 제창한 [8비트](../Page/8비트.md "wikilink") 및 [16비트](../Page/16비트.md "wikilink") [개인용 컴퓨터의](../Page/개인용_컴퓨터.md "wikilink") 통일 규격이며, MSX와 그 후계 규격인 MSX2(1985년), MSX2+(1988년), MSXturboR(1990년, 16비트 규격)을 총칭하여 부르는 명칭이다. 원래는 규격 자체를 칭하는 말이지만, 이 규격을 모두 만족하는 컴퓨터를 MSX 라고도 하였다.
 
 전 세계의 여러 기업에서 MSX 사양을 만족하는 개인용 컴퓨터가 출시되었으며, 실제 컴퓨터 외에 MSX [에뮬레이터](../Page/에뮬레이터.md "wikilink") 및 [FPGA](../Page/FPGA.md "wikilink")로 MSX2 규격을 재구성한 [원칩MSX](https://ko.wikipedia.org/wiki/원칩MSX "wikilink")가 발매했었다.
 
@@ -238,7 +238,7 @@ MSX 의 자판은 최근의 [컴퓨터 자판과](../Page/컴퓨터_자판.md "w
 
   - [1chipMSX 웹사이트](http://www.msx.d4e.co.jp/)
 
-  - [MSX Zone - 비공식 MSX 팬사이트](http://www.MSXZone.com)
+  - [MSX Zone - 비공식 MSX 팬사이트](https://web.archive.org/web/20190926135959/http://www.msxzone.com/)
 
   - [MSX의 천국 - 파라동](http://cafe.naver.com/msx/)
 

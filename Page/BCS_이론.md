@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BCS ](https://ko.wikipedia.org/wiki/BCS_).
+> This article is converted from Wikipedia: [BCS 이론](https://ko.wikipedia.org/wiki/BCS_이론).
 
 
 **BCS 이론**은 [초전도 현상의](../Page/초전도_현상.md "wikilink") 원리를 [양자역학](../Page/양자역학.md "wikilink")의 관점에서 설명하는 이론이다. 1911년 [오너스에](../Page/헤이커_카메를링_오너스.md "wikilink") 의해 초전도체가 발견된 이후 초전도의 원리를 설명한 최초의 미시 이론이다. [1957년](../Page/1957년.md "wikilink")에 미국의 [존 바딘](../Page/존_바딘.md "wikilink"), [리언 쿠퍼](../Page/리언_쿠퍼.md "wikilink"), [존 로버트 슈리퍼가](../Page/존_로버트_슈리퍼.md "wikilink") 제안했으며, 이론의 이름은 세 사람의 이름 앞글자를 따서 지어졌다. 두 개의 [전자](../Page/전자.md "wikilink")가 [포논](https://ko.wikipedia.org/wiki/포논 "wikilink")과의 상호작용에 의해 [쿠퍼 쌍을](https://ko.wikipedia.org/wiki/쿠퍼_쌍 "wikilink") 이루고 이에 의한 효과로 저온 초전도체의 [초전도 현상이](../Page/초전도_현상.md "wikilink") 설명되는 것으로 간주되고 있다.

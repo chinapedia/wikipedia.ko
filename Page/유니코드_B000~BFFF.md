@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B000\~BFFF](https://ko.wikipedia.org/wiki/_B000\~BFFF).
+> This article is converted from Wikipedia: [유니코드 B000\~BFFF](https://ko.wikipedia.org/wiki/유니코드_B000\~BFFF).
 
 
 | U+   | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |

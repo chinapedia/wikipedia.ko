@@ -13,10 +13,10 @@
 
 ## 멤버
 
-  - **[고나가와 다카히로](../Page/고나가와_다카히로.md "wikilink")** (, [1979년](../Page/1979년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") - ) : [기타](../Page/기타.md "wikilink"), 리더
-  - **[오쓰카 유조](../Page/오쓰카_유조.md "wikilink")** (, [1979년](../Page/1979년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
-  - **[야스이 유키](../Page/야스이_유키.md "wikilink")** (, [1980년](../Page/1980년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") - ) : [베이스 기타](../Page/베이스_기타.md "wikilink")
-  - **[다카노 신타로](../Page/다카노_신타로.md "wikilink")** (, [1979년](../Page/1979년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") - ) : [드럼](https://ko.wikipedia.org/wiki/드럼_연주자 "wikilink")
+  - **[고나가와 다카히로](../Page/고나가와_다카히로.md "wikilink")**(, [1979년](../Page/1979년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") - ) : [기타](../Page/기타.md "wikilink"), 리더
+  - **[오쓰카 유조](../Page/오쓰카_유조.md "wikilink")**(, [1979년](../Page/1979년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
+  - **[야스이 유키](../Page/야스이_유키.md "wikilink")**(, [1980년](../Page/1980년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") - ) : [베이스 기타](../Page/베이스_기타.md "wikilink")
+  - **[다카노 신타로](../Page/다카노_신타로.md "wikilink")**(, [1979년](../Page/1979년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") - ) : [드럼](https://ko.wikipedia.org/wiki/드럼_연주자 "wikilink")
 
 ## 디스코그라피
 
@@ -103,7 +103,7 @@
 
 <!-- end list -->
 
-  - **기즈나** (, 유대)
+  - **기즈나**(, 유대)
 
 <!-- end list -->
 
@@ -124,7 +124,7 @@
 
 <!-- end list -->
 
-  - **하지케요** (, 즐기자)
+  - **하지케요**(, 즐기자)
 
 <!-- end list -->
 
@@ -145,7 +145,7 @@
 
 <!-- end list -->
 
-  - **고도쿠나 다이요** (, 고독한 태양)
+  - **고도쿠나 다이요**(, 고독한 태양)
 
 <!-- end list -->
 
@@ -166,7 +166,7 @@
 
 <!-- end list -->
 
-  - **소쓰교** (, 졸업)
+  - **소쓰교**(, 졸업)
 
 <!-- end list -->
 
@@ -232,7 +232,7 @@
 
 <!-- end list -->
 
-  - **야사시사 Licence / BY MY SIDE** (, 다정하기 라이선스 / BY MY SIDE)
+  - **야사시사 Licence / BY MY SIDE**(, 다정하기 라이선스 / BY MY SIDE)
 
 <!-- end list -->
 
@@ -256,7 +256,7 @@
 
 <!-- end list -->
 
-  - **니지** (, 무지개)
+  - **니지**(, 무지개)
 
 <!-- end list -->
 
@@ -311,7 +311,7 @@
 
 <!-- end list -->
 
-  - **히토리자 도테모 아루케나이 세카이노 우에데** (, 혼자서는 도저히 걸을 수 없는 세계의 위에서)
+  - **히토리자 도테모 아루케나이 세카이노 우에데**(, 혼자서는 도저히 걸을 수 없는 세계의 위에서)
 
 <!-- end list -->
 
@@ -686,7 +686,7 @@
 
 <!-- end list -->
 
-  - **고코로노 기타 미치** (, 마음이 온 길)
+  - **고코로노 기타 미치**(, 마음이 온 길)
 
 <!-- end list -->
 

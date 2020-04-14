@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PN ](https://ko.wikipedia.org/wiki/PN_).
+> This article is converted from Wikipedia: [PN 접합](https://ko.wikipedia.org/wiki/PN_접합).
 
 
 [frame](https://ko.wikipedia.org/wiki/파일:PN_Junction_Open_Circuited.png "wikilink") p-n 접합 (전압을 주지 않음).\]\]

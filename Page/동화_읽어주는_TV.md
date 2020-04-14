@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [동화 읽어주는 TV](https://ko.wikipedia.org/wiki/동화_읽어주는_TV).
 
 
 《**동화 읽어주는 TV**》는 [문화방송](../Page/문화방송.md "wikilink")과 필름코리아가 만든 동화 [애니메이션](../Page/애니메이션.md "wikilink")이다. [2006년](../Page/2006년.md "wikilink") [1월 19일부터](../Page/1월_19일.md "wikilink") [2006년](../Page/2006년.md "wikilink") [4월 13일까지](../Page/4월_13일.md "wikilink") [문화방송](../Page/문화방송.md "wikilink")에서 방영되었으며 15분 분량의 에피소드 2편을 하나의 에피소드 형식으로 방영했다.

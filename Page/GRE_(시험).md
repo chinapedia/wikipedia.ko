@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GRE \(\)](https://ko.wikipedia.org/wiki/GRE_\(\)).
+> This article is converted from Wikipedia: [GRE \(시험\)](https://ko.wikipedia.org/wiki/GRE_\(시험\)).
 
 
 **GRE**(Graduate Record Examination)은 [미국](../Page/미국.md "wikilink")\[1\] 및 여러 영어권 국가들의 [대학원](../Page/대학원.md "wikilink") 및 경영대학원에 입학하려는 학생들을 평가하는 [시험](../Page/시험.md "wikilink")이다. [1949년](../Page/1949년.md "wikilink")에 [ETS](https://ko.wikipedia.org/wiki/ETS "wikilink")에서 개발하였으며 2019년 기준으로 현재까지 관리되고 있으며,\[2\] 오랜 기간동안 습득해왔으며 특정한 분야에 쏠림이 없는 언어 추론과 수리 추론, 비판적 사고, 그리고 분석적 작문 능력을 측정한다. GRE의 일반 시험(General Test)은 지정된 시험장에서 컴퓨터로 시험이 진행(**C**omputer **B**ased **T**est)되나 컴퓨터 시험이 불가능한 일부 지역은 지필고사(**P**aper **B**ased **T**est)로 시행한다.

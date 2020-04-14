@@ -11,8 +11,8 @@
 
 ## 멤버
 
-  - **[웬츠 에이지](../Page/웬츠_에이지.md "wikilink")** (, *Eiji Wentz*, [1986년](../Page/1986년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [전기 기타](../Page/전기_기타.md "wikilink"), [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink"), [피아노](../Page/피아노.md "wikilink")
-  - **[고이케 뎃페이](https://ko.wikipedia.org/wiki/고이케_뎃페이 "wikilink")** (, *Teppei Koike*, [1986년](../Page/1986년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") - ) : 보컬, 어쿠스틱 기타, [하모니카](../Page/하모니카.md "wikilink")
+  - **[웬츠 에이지](../Page/웬츠_에이지.md "wikilink")**(, *Eiji Wentz*, [1986년](../Page/1986년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [전기 기타](../Page/전기_기타.md "wikilink"), [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink"), [피아노](../Page/피아노.md "wikilink")
+  - **[고이케 뎃페이](https://ko.wikipedia.org/wiki/고이케_뎃페이 "wikilink")**(, *Teppei Koike*, [1986년](../Page/1986년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") - ) : 보컬, 어쿠스틱 기타, [하모니카](../Page/하모니카.md "wikilink")
 
 ## 디스코그래피
 

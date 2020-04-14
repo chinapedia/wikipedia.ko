@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 가요대제전](https://ko.wikipedia.org/wiki/MBC_가요대제전).
 
 
 《**MBC 가요대제전**》은 [대한민국](../Page/대한민국.md "wikilink")의 방송사 [MBC](../Page/문화방송.md "wikilink") 예능본부에서 주최하는 연말 특집 가요 프로그램으로, 매년 12월 31일 밤에 생방송으로 열린다
 
 ## 사건
 
-방탄소년단을 출연시키지 않는다는 이유로 여자친구, 투모로우바이투게더를 출연시키지 않겠다고 하였다.
+해외 행사로 인해 사녹촬영을 불참한 방탄소년단을 출연시키지 않는다는 이유로 여자친구, 투모로우바이투게더를 출연시키지 않겠다고 하였다.
 
 ## 역사
 

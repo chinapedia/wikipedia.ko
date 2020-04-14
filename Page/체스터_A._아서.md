@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [체스터 A. 아서](https://ko.wikipedia.org/wiki/체스터_A._아서).
 
 
 **체스터 앨런 아서**(Chester Alan Arthur, [1829년](../Page/1829년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [1886년](../Page/1886년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 21번째 [대통령](../Page/미국의_대통령.md "wikilink")(1881\~85)이다. 아서는 제20대 [대통령](../Page/대통령.md "wikilink") [제임스 A. 가필드에](../Page/제임스_A._가필드.md "wikilink") 의해 [부통령](https://ko.wikipedia.org/wiki/부통령 "wikilink")으로 지명되기 전까지 [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 소속 [변호사](../Page/변호사.md "wikilink")였다. 그러나 [1881년](../Page/1881년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink") 가필드가 암살되자, 그해 [9월 19일에](../Page/9월_19일.md "wikilink") 사망함으로써 [대통령](../Page/대통령.md "wikilink") 제24대 대통령 직위를 승계하게 되었다.

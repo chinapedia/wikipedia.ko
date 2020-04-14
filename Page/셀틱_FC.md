@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [셀틱 FC](https://ko.wikipedia.org/wiki/셀틱_FC).
 
 
-**셀틱 FC** (Celtic Football Club) 는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [글래스고](../Page/글래스고.md "wikilink")에 기반한 [축구](../Page/축구.md "wikilink") 클럽이다. [1887년](../Page/1887년.md "wikilink")에 창단한 축구 클럽으로 세계에서 가장 오래된 축구 클럽 중 하나이다.
+**셀틱 FC**(Celtic Football Club)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [글래스고](../Page/글래스고.md "wikilink")에 기반한 [축구](../Page/축구.md "wikilink") 클럽이다. [1887년](../Page/1887년.md "wikilink")에 창단한 축구 클럽으로 세계에서 가장 오래된 축구 클럽 중 하나이다.
 
 [스코틀랜드 프로축구 1부리그를](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 총 48회, [스코티시 컵](https://ko.wikipedia.org/wiki/스코티시_컵 "wikilink") 37회, [스코틀랜드 리그컵](https://ko.wikipedia.org/wiki/스코틀랜드_리그컵 "wikilink") 16회를 우승한 명문 클럽니다.
 

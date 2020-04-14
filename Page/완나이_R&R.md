@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R\&R](https://ko.wikipedia.org/wiki/_R\&R).
+> This article is converted from Wikipedia: [완나이 R\&R](https://ko.wikipedia.org/wiki/완나이_R\&R).
 
 
 **완나이 R\&R**는 2000년 10월 19일부터 2006년 12월 20일까지 후지 TV 계열에서 방송된 코미디 버라이어티 프로그램이다.

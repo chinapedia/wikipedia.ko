@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Edittools](https://ko.wikipedia.org/wiki/:Edittools).
+> This article is converted from Wikipedia: [미디어위키:Edittools](https://ko.wikipedia.org/wiki/미디어위키:Edittools).
 
 
 <div id="specialchars" class="my-buttons" style="margin-top:10px; border-style:solid; border-width:1px; border-color:#aaaaaa; padding:1px; text-align:center; font-size:120%;">

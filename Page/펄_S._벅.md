@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [펄 S. 벅](https://ko.wikipedia.org/wiki/펄_S._벅).
 
 
 **펄 사이든스트리커 벅**(, , , [1892년](../Page/1892년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink") ∼ [1973년](../Page/1973년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink"))은 미국의 소설가이다.\[1\] 《대지의 집》 3부작을 썼다. [대한민국](../Page/대한민국.md "wikilink")을 방문하였을 때 스스로 **박진주**(**朴眞珠**)라는 [한국어](../Page/한국어.md "wikilink") [이름](../Page/이름.md "wikilink")도 지었다.

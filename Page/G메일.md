@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G](https://ko.wikipedia.org/wiki/G).
+> This article is converted from Wikipedia: [G메일](https://ko.wikipedia.org/wiki/G메일).
 
 
 **G메일**()은 [구글](../Page/구글.md "wikilink")이 제공하는 대용량(계정당 15 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 이상) 무료 [POP3](https://ko.wikipedia.org/wiki/POP3 "wikilink")와 [웹메일](https://ko.wikipedia.org/wiki/웹메일 "wikilink") 서비스([IMAP](https://ko.wikipedia.org/wiki/IMAP "wikilink") 또한 지원한다\[1\])이다. [독일](../Page/독일.md "wikilink")과 [영국](../Page/영국.md "wikilink")에서는 [상표권](https://ko.wikipedia.org/wiki/상표권 "wikilink") 분쟁으로 인해 **구글 메일**(Google Mail)이란 이름으로 서비스되고 있다. [Ajax](https://ko.wikipedia.org/wiki/Ajax "wikilink") 프로그래밍을 사용한 대표적인 [웹사이트](../Page/웹사이트.md "wikilink")이며, 검색 지향적 [인터페이스와](../Page/사용자_인터페이스.md "wikilink") ‘대화 형식으로 보기’라는 독특한 기능을 가지고 있다. 사용자는 보안을 위해 [HTTPS](../Page/HTTPS.md "wikilink") 방식으로도 접속할 수 있다. G메일은 2018년 4월을 기준으로 14억명이 사용하고 있다.\[2\]

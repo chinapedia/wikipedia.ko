@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KSR-III](https://ko.wikipedia.org/wiki/KSR-III).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:P_R_KSR-3_01.jpg "wikilink") **KSR-III**(Korean Sounding Rocket-III)은 [대한민국](../Page/대한민국.md "wikilink")의 [관측 로켓으로서](../Page/관측_로켓.md "wikilink"), 최초의 액체연료([액체 산소](https://ko.wikipedia.org/wiki/액체_산소 "wikilink")/[RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink")) 로켓이다. 1단 로켓만으로 구성된 KSR-III이 [2002년](../Page/2002년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") [충남](https://ko.wikipedia.org/wiki/충청남도 "wikilink") 태안 [안흥종합시험장](../Page/안흥종합시험장.md "wikilink")에서 시험 발사를 성공했다. [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")에서 제작했으며. 고도 43km, 거리 80km를 비행했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:P_R_KSR-3_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:KRS-Ⅲ기체_전방부구조시험.jpg "wikilink") **KSR-III**(Korean Sounding Rocket-III)은 [대한민국](../Page/대한민국.md "wikilink")의 [관측 로켓으로서](../Page/관측_로켓.md "wikilink"), 최초의 액체연료([액체 산소](https://ko.wikipedia.org/wiki/액체_산소 "wikilink")/[RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink")) 로켓이다. 1단 로켓만으로 구성된 KSR-III이 [2002년](../Page/2002년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") [충남](https://ko.wikipedia.org/wiki/충청남도 "wikilink") 태안 [안흥종합시험장](../Page/안흥종합시험장.md "wikilink")에서 시험 발사를 성공했다. [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")에서 제작했으며. 고도 43km, 거리 80km를 비행했다.
 
 ## 역사
 

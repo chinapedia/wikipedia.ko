@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QWERTY ](https://ko.wikipedia.org/wiki/QWERTY_).
+> This article is converted from Wikipedia: [QWERTY 자판](https://ko.wikipedia.org/wiki/QWERTY_자판).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Qwerty.png "wikilink") **QWERTY 자판**(쿼티 자판)은 [영어](../Page/영어.md "wikilink") [타자기](../Page/타자기.md "wikilink")나 [컴퓨터 자판에서](../Page/컴퓨터_자판.md "wikilink") 가장 널리 쓰이는 자판 배열이다. 자판의 왼쪽 상단의 여섯 글자를 따서 이름 붙여졌다. [1868년](../Page/1868년.md "wikilink") zn가 이 배열에 대한 [특허](../Page/특허.md "wikilink")를 냈다. 이후 숄스는 1873년에 레밍톤에게 이 특허를 팔았으며 레밍턴은 이후 타자기를 만들 때 처음 사용하였다. 효율 면에서 [드보락 자판에](../Page/드보락_자판.md "wikilink") 비해 떨어진다는 평가가 있으나 가장 널리 쓰이는 영문 자판이며 이를 기초로 많은 독일어의 [QWERTZ 자판](https://ko.wikipedia.org/wiki/QWERTZ_자판 "wikilink"), 프랑스어의 [AZERTY 자판](https://ko.wikipedia.org/wiki/AZERTY_자판 "wikilink") 같은 다른 언어를 위한 자판이 만들어졌다.

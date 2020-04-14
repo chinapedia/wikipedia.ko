@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 트윈스](https://ko.wikipedia.org/wiki/LG_트윈스).
 
 
 **LG 트윈스**(LG Twins)는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink")를 연고지로 하는 [KBO](../Page/한국야구위원회.md "wikilink") 소속 [프로 야구단이다](https://ko.wikipedia.org/wiki/프로_야구 "wikilink"). 주식회사로서 [LG그룹](../Page/LG그룹.md "wikilink")의 계열사이다. [송파구](https://ko.wikipedia.org/wiki/송파구 "wikilink") [잠실동](../Page/잠실동.md "wikilink")에 있는 [잠실 야구장을](../Page/서울종합운동장_야구장.md "wikilink") [두산 베어스와](../Page/두산_베어스.md "wikilink") 함께 공동 홈 구장으로 사용하고 있다.
@@ -21,27 +21,27 @@ LG 트윈스의 초대 감독은 [백인천](../Page/백인천.md "wikilink")이
 
 [이광환](../Page/이광환.md "wikilink") 감독 특유의 스타일인 '자율 야구' 아래에서 [1994년](../Page/1994년.md "wikilink")에 [유지현](../Page/유지현_\(야구인\).md "wikilink"), [김재현](../Page/김재현_\(1975년\).md "wikilink"), [서용빈](../Page/서용빈.md "wikilink")의 신예 3인방과 좌[투수](../Page/투수.md "wikilink") '야생마' [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1971년생_좌완_투수\) "wikilink"), 마무리 [투수](../Page/투수.md "wikilink") [김용수](../Page/김용수_\(야구인\).md "wikilink") 등 대활약에 힘입어 81승 45패 (승률 0.643)으로 2위 [태평양 돌핀스를](../Page/태평양_돌핀스.md "wikilink") 무려 11.5게임차로 밀어내며 정규 리그 1위를 확정지었다.
 
-플레이오프에서 [한화 이글스를](../Page/한화_이글스.md "wikilink") 3전 전승으로 격파한 [태평양 돌핀스와](../Page/태평양_돌핀스.md "wikilink") 가진 [1994년 한국시리즈에서](../Page/1994년_한국시리즈.md "wikilink"), 1차전 연장 11회말 [김선진](../Page/김선진.md "wikilink")의 끝내기 홈런을 통한 승리를 시작으로 내리 4연승으로 달리면서 두 번의 우승을 모두 시리즈 스코어 4승으로 스윕하여 우승하는 진기록을 세우면서 구단 2번째 우승을 차지하게 된다. 이듬해 [1995년](../Page/1995년.md "wikilink")에도 [OB 베어스에](../Page/두산_베어스.md "wikilink") 0.5게임차 뒤진 2위로 포스트 시즌에 합류하며 우승을 노렸으나, 플레이오프에서 [롯데 자이언츠에게](../Page/롯데_자이언츠.md "wikilink") 시리즈 스코어 2승 4패로 패배를 당하고 만다.
+플레이오프에서 [한화 이글스를](../Page/한화_이글스.md "wikilink") 3전 전승으로 격파한 [태평양 돌핀스와](../Page/태평양_돌핀스.md "wikilink") 가진 [1994년 한국시리즈에서](../Page/1994년_한국시리즈.md "wikilink"), 1차전 연장 11회말 [김선진](../Page/김선진.md "wikilink")의 끝내기 홈런을 통한 승리를 시작으로 내리 4연승으로 달리면서 두 번의 우승을 모두 시리즈 스코어 4승으로 스윕하여 우승하는 진기록을 세우면서 구단 2번째 우승을 차지하게 되며 [이광환](../Page/이광환.md "wikilink") 감독은 우승 뒤 3년 재계약을 맺어\[3\] [1997년](../Page/1997년.md "wikilink") [10월](../Page/10월.md "wikilink")까지 감독을 맡기로 했다. 이듬해 [1995년](../Page/1995년.md "wikilink")에도 [OB 베어스에](../Page/두산_베어스.md "wikilink") 0.5게임차 뒤진 2위로 포스트 시즌에 합류하며 우승을 노렸으나, 플레이오프에서 [롯데 자이언츠에게](../Page/롯데_자이언츠.md "wikilink") 시리즈 스코어 2승 4패로 패배를 당하고 만다.
 
-이후 [1996년](../Page/1996년.md "wikilink") 정규 시즌 7위에 그치며 [이광환](../Page/이광환.md "wikilink") 감독이 시즌 중 해임되었고 후임으로 수석코치 [천보성](../Page/천보성.md "wikilink")이 감독으로 임명되었다. [1997년](../Page/1997년.md "wikilink")에는 [이병규와](../Page/이병규_\(1974년\).md "wikilink") [임선동](../Page/임선동.md "wikilink"), [차명석](../Page/차명석.md "wikilink") 등의 활약에 힘입어 정규시즌 2위를 기록했다. 포스트 시즌에서 [쌍방울 레이더스를](../Page/쌍방울_레이더스.md "wikilink") 상대로 승리하고 플레이오프에 진출한 [삼성 라이온즈를](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 맞게 되었고, [서용빈](../Page/서용빈.md "wikilink")의 활약 등으로 [삼성 라이온즈를](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 꺾고 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink")까지 진출했으나 [해태 타이거즈에게](../Page/해태_타이거즈.md "wikilink") 1승 4패로 패해 준우승에 머물렀다. [1998년](../Page/1998년.md "wikilink")에도 정규 리그 3위를 마크하며 포스트 시즌에서 [OB 베어스](../Page/두산_베어스.md "wikilink"), 플레이오프에서 [삼성 라이온즈를](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 꺾으며 한국시리즈까지 진출했으나 이무렵 LG 트윈스 선수단들은 체력이 지칠 대로 지쳐 있을 때였다. 결국 [1998년 한국시리즈에서](../Page/1998년_한국시리즈.md "wikilink") [현대 유니콘스에게](../Page/현대_유니콘스.md "wikilink") 시리즈 스코어 2승 4패의 패배를 당하며 준우승에 그쳤고, 이 해를 마지막으로 '신바람 야구'라 불렸던 황금기를 마감하게 된다.
+이후 [1996년](../Page/1996년.md "wikilink") 세대교체 실패 및 부상선수 속출 등으로 팀 전력이 크게 약화되어\[4\] 정규 시즌 7위에 그치며 [이광환](../Page/이광환.md "wikilink") 감독이 시즌 중 해임되었고 후임으로 수석코치 [천보성](../Page/천보성.md "wikilink")이 감독으로 임명되었다. [1997년](../Page/1997년.md "wikilink")에는 [이병규와](../Page/이병규_\(1974년\).md "wikilink") [임선동](../Page/임선동.md "wikilink"), [차명석](../Page/차명석.md "wikilink") 등의 활약에 힘입어 정규시즌 2위를 기록했다. 포스트 시즌에서 [쌍방울 레이더스를](../Page/쌍방울_레이더스.md "wikilink") 상대로 승리하고 플레이오프에 진출한 [삼성 라이온즈를](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 맞게 되었고, [서용빈](../Page/서용빈.md "wikilink")의 활약 등으로 [삼성 라이온즈를](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 꺾고 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink")까지 진출했으나 [해태 타이거즈에게](../Page/해태_타이거즈.md "wikilink") 1승 4패로 패해 준우승에 머물렀다. [1998년](../Page/1998년.md "wikilink")에도 정규 리그 3위를 마크하며 포스트 시즌에서 [OB 베어스](../Page/두산_베어스.md "wikilink"), 플레이오프에서 [삼성 라이온즈를](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 꺾으며 한국시리즈까지 진출했으나 이무렵 LG 트윈스 선수단들은 체력이 지칠 대로 지쳐 있을 때였다. 결국 [1998년 한국시리즈에서](../Page/1998년_한국시리즈.md "wikilink") [현대 유니콘스에게](../Page/현대_유니콘스.md "wikilink") 시리즈 스코어 2승 4패의 패배를 당하며 준우승에 그쳤고, 이 해를 마지막으로 '신바람 야구'라 불렸던 황금기를 마감하게 되는데 [천보성](../Page/천보성.md "wikilink") 감독은 주전 마무리였던 [앤더슨이](https://ko.wikipedia.org/wiki/마이클_앤더슨_\(야구_선수\) "wikilink") 중반 이후 부진을 보이자 [1996년](../Page/1996년.md "wikilink") 중반부터 선발로 전향한 [김용수를](../Page/김용수_\(야구인\).md "wikilink") 선발-구원-마무리로 마구잡이 투입시키는\[5\] 소강수를 뒀으며 이 탓인지 [김용수는](../Page/김용수_\(야구인\).md "wikilink") 선발로만 17승을 거둔 현대 [정민태](../Page/정민태.md "wikilink") 때문에 삼성 [스콧 베이커와](../Page/스콧_베이커_\(1970년\).md "wikilink") 15선발승으로 선발승 공동 2위에 머무른 데다 정규시즌 MVP도 홈런-타점 2관왕인 OB [우즈에게](../Page/타이론_우즈.md "wikilink") 빼앗기는\[6\] 수모를 당했다.
 
 ### 1999년\~2002년
 
-[1999년](../Page/1999년.md "wikilink") 매직 리그, 드림 리그로 나뉘어 양대 리그 체제의 출범에 따라 LG 트윈스는 [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), [한화 이글스](../Page/한화_이글스.md "wikilink"), [쌍방울 레이더스와](../Page/쌍방울_레이더스.md "wikilink") 함께 매직 리그에 속하며 새로운 시즌을 맞이하였지만, 삼성과 한화에게 큰 경기 차로 밀리며 매직리그 3위에 그쳐 플레이오프 진출에 실패했고, [천보성](../Page/천보성.md "wikilink") 감독이 물러나게 된다. 뒤이어 MBC 시절 원년 멤버이자 [1990년 한국시리즈](../Page/1990년_한국시리즈.md "wikilink") 우승 멤버 출신 [이광은](../Page/이광은.md "wikilink") 감독이 취임하며 새로운 시즌을 준비한다.
+[1999년](../Page/1999년.md "wikilink") 매직 리그, 드림 리그로 나뉘어 양대 리그 체제의 출범에 따라 LG 트윈스는 [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), [한화 이글스](../Page/한화_이글스.md "wikilink"), [쌍방울 레이더스와](../Page/쌍방울_레이더스.md "wikilink") 함께 매직 리그에 속하며 새로운 시즌을 맞이하였지만, 삼성과 한화에게 큰 경기 차로 밀리며 매직리그 3위에 그쳐 플레이오프 진출에 실패했고, [천보성](../Page/천보성.md "wikilink") 감독이 물러나게 되는데 전년도 주전 마무리였던 [앤더슨이](https://ko.wikipedia.org/wiki/마이클_앤더슨_\(야구_선수\) "wikilink") [쌍방울로](../Page/쌍방울_레이더스.md "wikilink") 이적하자 [1996년](../Page/1996년.md "wikilink") 중반부터 선발로 전향한 [김용수를](../Page/김용수_\(야구인\).md "wikilink") 마무리로 돌렸지만 [최향남](../Page/최향남.md "wikilink")이 시즌 막판 장염 때문에 1군 엔트리에서 제외되어\[7\] 선발로 보직 변경시키기도 했다. 뒤이어 MBC 시절 원년 멤버이자 [1990년 한국시리즈](../Page/1990년_한국시리즈.md "wikilink") 우승 멤버 출신 [이광은](../Page/이광은.md "wikilink") 감독이 취임하며 새로운 시즌을 준비한다.
 
-이듬해 [2000년](../Page/2000년.md "wikilink") 시즌, 67승 3무 63패(승률 0.515)를 기록하며 매직리그 1위에 올라 플레이오프에 다시 진출하게 된다. 하지만, 드림리그 2위였던 [두산 베어스에게](../Page/두산_베어스.md "wikilink") 시리즈 스코어 2승 4패로 무릎을 꿇으며 다시 한 번 시즌을 마감하고 만다. [2001년](../Page/2001년.md "wikilink") 시즌부터 다시 양대 리그가 통합되면서 단일 리그로 진행되었으나 LG 트윈스는 시즌 내내 부진을 겪었다. 결국 그 해 [5월 16일](../Page/5월_16일.md "wikilink") [이광은](../Page/이광은.md "wikilink") 감독을 해임하고 시즌 중 수석코치로 올린 [김성근을](../Page/김성근_\(야구인\).md "wikilink") 1군 감독 대행으로 올려 시즌을 치르는 초강수를 두었으나 결국 4위와 1경기 차로 정규 시즌 6위에 그치고 말았다. 시즌 후 [김성근이](../Page/김성근_\(야구인\).md "wikilink") LG 트윈스의 정식 감독으로 승격되었다.
+이듬해 [2000년](../Page/2000년.md "wikilink") 시즌, 67승 3무 63패(승률 0.515)를 기록하며 매직리그 1위에 올라 플레이오프에 다시 진출하게 된다. 하지만, 드림리그 2위였던 [두산 베어스에게](../Page/두산_베어스.md "wikilink") 시리즈 스코어 2승 4패로 무릎을 꿇으며 다시 한 번 시즌을 마감하고 마는데 마는데 주변 코치들의 만류에도 마무리로 [장문석](../Page/장문석.md "wikilink")을 계속 밀어붙인 것이\[8\] 시리즈 패배의 결정적인 원인으로 작용했다. 더군다나, [이광은](../Page/이광은.md "wikilink") 감독이 옛 스승 [김동엽](../Page/김동엽_\(1938년\).md "wikilink") 감독 스타일(스파르타식 훈련)\[9\]을 길들여 반발이 작용했으며 이 과정에서 최고참 [김용수가](../Page/김용수_\(야구인\).md "wikilink") [이광은](../Page/이광은.md "wikilink") 감독과 선수단 장악 문제를 놓고 불화를 빚어 [2000년](../Page/2000년.md "wikilink") 시즌 후 은퇴식 없이 옷을 벗었으며 이 같은 충격 탓인지 [2001년](../Page/2001년.md "wikilink") 시즌부터 다시 양대 리그가 통합되면서 단일 리그로 진행되었으나 LG 트윈스는 시즌 내내 부진을 겪었다. 결국 그 해 [5월 16일](../Page/5월_16일.md "wikilink") [이광은](../Page/이광은.md "wikilink") 감독을 해임하고 시즌 중 수석코치로 올린 [김성근을](../Page/김성근_\(야구인\).md "wikilink") 1군 감독 대행으로 올려 시즌을 치르는 초강수를 두었으나 결국 4위와 1경기 차로 정규 시즌 6위에 그치고 말았다. 시즌 후 [김성근이](../Page/김성근_\(야구인\).md "wikilink") LG 트윈스의 정식 감독으로 승격되었으나 전임 [이광은](../Page/이광은.md "wikilink") 감독이 옛 스승 [김동엽](../Page/김동엽_\(1938년\).md "wikilink") 감독 스타일(스파르타식 훈련)\[10\]을 길들인 것처럼 스파르타식 훈련으로 일관해 프런트와 럭키회 등에서 [이광은](../Page/이광은.md "wikilink") [김성근](../Page/김성근_\(야구인\).md "wikilink") 두 감독에 대한 반감이 심해지기도 했다.
 
 [2002년](../Page/2002년.md "wikilink") [김성근](../Page/김성근_\(야구인\).md "wikilink") 감독의 지도 아래서 66승 6무 61패를 기록하며 2경기 차이로 [두산 베어스를](../Page/두산_베어스.md "wikilink") 누르고 4위로 포스트 시즌에 턱걸이하게 된다. 하지만, 준 플레이오프에서 [1루수](https://ko.wikipedia.org/wiki/1루수 "wikilink") [최동수의](https://ko.wikipedia.org/wiki/최동수_\(야구_선수\) "wikilink") 활약으로 [현대를](../Page/현대_유니콘스.md "wikilink") 2승으로 스윕했고, 플레이오프에서 신인 [외야수](https://ko.wikipedia.org/wiki/외야수 "wikilink") [박용택](../Page/박용택.md "wikilink")의 활약으로 [KIA를](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") 시리즈 스코어 3승 2패로 누르며 [1998년](../Page/1998년.md "wikilink") 이후 4년 만에, 4위 팀으로는 통산 3번째로 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 진출에 성공한다. 삼성을 꺾었던 [1990년 한국시리즈](../Page/1990년_한국시리즈.md "wikilink") 우승 이후 [삼성 라이온즈와](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 리턴 매치를 갖게 되었다.
 
-[2002년 한국시리즈에서](../Page/2002년_한국시리즈.md "wikilink") [삼성 라이온즈의](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 압도적 승리가 예상되었음에도 불구하고 LG 트윈스는 시리즈를 비교적 잘 이끌어 나가며 승부를 6차전으로 넘기게 되어 승부는 알 수 없게 되었다. 하지만 준 플레이오프부터 경기한 선수들이 지친 데다가 불펜에 과부하가 걸리기 시작했고, [대구에서](../Page/대구시민운동장_야구장.md "wikilink") 열렸던 6차전에서는 9회말까지 9:6으로 유리하게 앞서 나가다가 9회 말 구원 등판한 [이상훈이](https://ko.wikipedia.org/wiki/이상훈_\(1971년생_좌완_투수\) "wikilink") [이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink")에게 3점 동점 홈런을 맞았고, [이상훈을](https://ko.wikipedia.org/wiki/이상훈_\(1971년생_좌완_투수\) "wikilink") 이어 등판한 [최원호가](../Page/최원호_\(야구인\).md "wikilink") [마해영](../Page/마해영.md "wikilink")에게 백투백 솔로 끝내기 홈런을 맞으면서 [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 최초의 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 우승을 헌납하였다. [2002년 한국시리즈는](../Page/2002년_한국시리즈.md "wikilink") 양 팀의 알 수 없었던 경기 흐름 때문에 많은 야구 팬들에게는 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 사상 최고의 명승부로 화제가 되고 있는 시리즈다.\[3\] 하지만, 예상 외의 좋은 성과를 이룬 [김성근](../Page/김성근_\(야구인\).md "wikilink") 감독의 유임이 확실해 보였으나, 어윤태 당시 단장과 럭키회가 신바람 야구가 아니다라고 주장하며 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink")가 끝난 후 해임, 좋지 않은 마무리를 보이고 만다. 이후 LG 트윈스는 급격히 내리막길로 치닫았다. 이를 두고 "[김성근의](../Page/김성근_\(야구인\).md "wikilink") 저주"라는 말이 나오기도 했다.\[4\]
+[2002년 한국시리즈에서](../Page/2002년_한국시리즈.md "wikilink") [삼성 라이온즈의](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 압도적 승리가 예상되었음에도 불구하고 LG 트윈스는 시리즈를 비교적 잘 이끌어 나가며 승부를 6차전으로 넘기게 되어 승부는 알 수 없게 되었다. 하지만 준 플레이오프부터 경기한 선수들이 지친 데다가 불펜에 과부하가 걸리기 시작했고, [대구에서](../Page/대구시민운동장_야구장.md "wikilink") 열렸던 6차전에서는 9회말까지 9:6으로 유리하게 앞서 나가다가 9회 말 구원 등판한 [이상훈이](https://ko.wikipedia.org/wiki/이상훈_\(1971년생_좌완_투수\) "wikilink") [이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink")에게 3점 동점 홈런을 맞았고, [이상훈을](https://ko.wikipedia.org/wiki/이상훈_\(1971년생_좌완_투수\) "wikilink") 이어 등판한 [최원호가](../Page/최원호_\(야구인\).md "wikilink") [마해영](../Page/마해영.md "wikilink")에게 백투백 솔로 끝내기 홈런을 맞으면서 [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 최초의 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 우승을 헌납하였다. [2002년 한국시리즈는](../Page/2002년_한국시리즈.md "wikilink") 양 팀의 알 수 없었던 경기 흐름 때문에 많은 야구 팬들에게는 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 사상 최고의 명승부로 화제가 되고 있는 시리즈다.\[11\] 하지만, 예상 외의 좋은 성과를 이룬 [김성근](../Page/김성근_\(야구인\).md "wikilink") 감독의 유임이 확실해 보였으나, [1993년](../Page/1993년.md "wikilink")부터 [1998년](../Page/1998년.md "wikilink")까지 LG 야구,축구,씨름,배구단장을 거쳤지만 다른 계열사로 발령이 나서 야구단을 떠났다가 [2001년](../Page/2001년.md "wikilink") 시즌 후 LG스포츠 사장으로 부임한\[12\] [어윤태](../Page/어윤태.md "wikilink") 전 LG 야구단 단장과 럭키회가 신바람 야구가 아니다라고 주장하며 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink")가 끝난 후 해임, 좋지 않은 마무리를 보이고 마는데 [김성근](../Page/김성근_\(야구인\).md "wikilink") 감독은 [어윤태](../Page/어윤태.md "wikilink") 사장의 전임 사장이 임명한 사람이라 어 사장과 불화가 더욱 심했다. 이후 LG 트윈스는 급격히 내리막길로 치닫았다. 이를 두고 "[김성근의](../Page/김성근_\(야구인\).md "wikilink") 저주"라는 말이 나오기도 했다.\[13\]
 
 ### 2003년\~2006년
 
-[2002년 한국시리즈](../Page/2002년_한국시리즈.md "wikilink") 준우승에 머물렀다는 것과 LG의 팀 컬러와 감독의 스타일이 맞지 않는다는 이유로 [김성근](../Page/김성근_\(야구인\).md "wikilink") 감독이 해임되면서 팀 성적이 다시 급격히 추락하게 된다.
+전임 [이광은](../Page/이광은.md "wikilink") 감독이 옛 스승 [김동엽](../Page/김동엽_\(1938년\).md "wikilink") 감독 스타일(스파르타식 훈련)\[14\]을 길들인 것처럼 스파르타식 훈련으로 일관해 프런트와 럭키회 등에서 반감을 산 데 이어 [2002년 한국시리즈](../Page/2002년_한국시리즈.md "wikilink") 준우승에 머물렀다는 것과 [1998년](../Page/1998년.md "wikilink")까지 LG 야구,축구,씨름,배구단장을 거쳤지만 다른 계열사로 발령이 나서 야구단을 떠났다가 [2001년](../Page/2001년.md "wikilink") 시즌 후 LG스포츠 사장으로 부임한\[15\] [어윤태](../Page/어윤태.md "wikilink") 전 LG 야구단 단장 등 구단 고위층과 [2002년](../Page/2002년.md "wikilink") 시즌 내내 마찰을 빚은 데 이어\[16\] LG의 팀 컬러와 감독의 스타일이 맞지 않는다는 이유로 [김성근](../Page/김성근_\(야구인\).md "wikilink") 감독이 해임되면서 팀 성적이 다시 급격히 추락하게 되는데 [김성근](../Page/김성근_\(야구인\).md "wikilink") 감독은 [어윤태](../Page/어윤태.md "wikilink") 사장의 전임 사장이 임명한 사람이라 어 사장과 불화가 더욱 심했다.
 
-[2003년](../Page/2003년.md "wikilink")에 [1994년 한국시리즈](../Page/1994년_한국시리즈.md "wikilink") 우승의 주역 [이광환](../Page/이광환.md "wikilink") 감독을 복귀시키며 야심차게 우승을 노렸다. 11승을 기록한 좌완 에이스 [이승호의](https://ko.wikipedia.org/wiki/이승호_\(1976년\) "wikilink") 활약을 필두로 시즌 중반 때만 해도 상위권을 유지해 오다가 중후반 무렵 가면서 점점 떨어져 갔고 결국 정규리그 6위에 그치며 [이광환](../Page/이광환.md "wikilink") 감독은 사임 의사를 표명하고 2군 감독으로 내려갔다. [2004년](../Page/2004년.md "wikilink")에 후임으로 [이순철](https://ko.wikipedia.org/wiki/이순철 "wikilink") 수석코치가 감독으로 임명되었다.
+이 과정에서 팬 클럽 회원 30여 명이 [2002년](../Page/2002년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") 오후 7시에 [어윤태](../Page/어윤태.md "wikilink") 당시 사장과 유성민 당시 단장 동반 퇴진 결의를 요구했는데\[17\] [2003년](../Page/2003년.md "wikilink")에 [1994년 한국시리즈](../Page/1994년_한국시리즈.md "wikilink") 우승의 주역 [이광환](../Page/이광환.md "wikilink") 감독을 복귀시키며 야심차게 우승을 노렸다. 11승을 기록한 좌완 에이스 [이승호의](https://ko.wikipedia.org/wiki/이승호_\(1976년\) "wikilink") 활약을 필두로 시즌 중반 때만 해도 상위권을 유지해 오다가 중후반 무렵 가면서 점점 떨어져 갔고 결국 정규리그 6위에 그치며 [이광환](../Page/이광환.md "wikilink") 감독은 사임 의사를 표명하고 2군 감독으로 내려갔다. [2004년](../Page/2004년.md "wikilink")에 후임으로 [이순철](https://ko.wikipedia.org/wiki/이순철 "wikilink") 수석코치가 감독으로 임명되었다.
 
-그러나 [이순철](https://ko.wikipedia.org/wiki/이순철 "wikilink") 감독 시절 LG 트윈스는 팬들이 기대했던 것 이하로 크게 부진하였고 일정한 야구 스타일을 보여 주지 못해 계속해서 추락의 늪으로 빠지게 된다. [2004년](../Page/2004년.md "wikilink")·[2005년](../Page/2005년.md "wikilink") 6위, [2006년](../Page/2006년.md "wikilink") 최하위 8위에 그치며 한계를 절감한다. 특히나 오랫동안 팀을 이끌었던 [유지현](../Page/유지현_\(야구인\).md "wikilink"), [김재현](../Page/김재현_\(1975년\).md "wikilink"), [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1971년생_좌완_투수\) "wikilink") 등이 [2002년 한국시리즈](../Page/2002년_한국시리즈.md "wikilink") 준우승 이후 구단과의 갈등으로 차례로 팀을 떠났으나 팀에서 별다른 인재들이 나오지 않은 것이 큰 타격이 되었다. [이순철](https://ko.wikipedia.org/wiki/이순철 "wikilink") 감독은 [2006년](../Page/2006년.md "wikilink") 시즌 중 물러났다.
+그러나 [이순철](https://ko.wikipedia.org/wiki/이순철 "wikilink") 감독 시절 LG 트윈스는 팬들이 기대했던 것 이하로 크게 부진하였고 일정한 야구 스타일을 보여 주지 못해 계속해서 추락의 늪으로 빠지게 된다. [2004년](../Page/2004년.md "wikilink")·[2005년](../Page/2005년.md "wikilink") 6위, [2006년](../Page/2006년.md "wikilink") 최하위 8위에 그치며 한계를 절감한다. 특히나 오랫동안 팀을 이끌었던 [유지현](../Page/유지현_\(야구인\).md "wikilink"), [김재현](../Page/김재현_\(1975년\).md "wikilink"), [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1971년생_좌완_투수\) "wikilink") 등이 [2002년 한국시리즈](../Page/2002년_한국시리즈.md "wikilink") 준우승 이후 구단과의 갈등으로 차례로 팀을 떠났으나 팀에서 별다른 인재들이 나오지 않은 것이 큰 타격이 되었다. [이순철](https://ko.wikipedia.org/wiki/이순철 "wikilink") 감독은 [2006년](../Page/2006년.md "wikilink") 시즌 중 물러났고 [어윤태](../Page/어윤태.md "wikilink") 사장은 [2004년](../Page/2004년.md "wikilink")을 끝으로 LG스포츠 사장직에서 물러났으며 유성민 단장은 [2005년](../Page/2005년.md "wikilink")을 끝으로\[18\] 야구단 단장직을 내놨다.
 
 FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논란을 불러 일으키며 [2004년](../Page/2004년.md "wikilink") 11월에 계약이 끝난 후 [KIA 타이거즈로](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") 2:2 트레이드되었고, 이 트레이드 때 같이 간 [중견수](https://ko.wikipedia.org/wiki/중견수 "wikilink") [이용규](../Page/이용규.md "wikilink")는 트레이드된 이후 [KIA 타이거즈의](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") 테이블 세터로 맹활약하여 LG에게는 큰 마이너스가 되었다.
 
@@ -49,7 +49,7 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 
 ### 2007년\~2009년
 
-절치부심한 LG 프런트는 [2006년](../Page/2006년.md "wikilink") 시즌이 끝난 뒤 [1990년 한국시리즈](../Page/1990년_한국시리즈.md "wikilink") 우승 멤버이자 [현대 유니콘스에서](../Page/현대_유니콘스.md "wikilink") 4회 우승을 이룬 [김재박](../Page/김재박.md "wikilink") 감독을 영입하고, [두산 베어스에서](../Page/두산_베어스.md "wikilink") FA를 선언한 [투수](../Page/투수.md "wikilink") [박명환을](https://ko.wikipedia.org/wiki/박명환_\(야구_선수\) "wikilink") 영입해 오면서 새롭게 시즌을 맞을 준비를 하게 된다. 이러한 준비와 함께 [이대형](../Page/이대형.md "wikilink"), 그리고 급성장한 [조인성](../Page/조인성_\(야구인\).md "wikilink") 등의 활약과 함께 삼성과 막판 4강 경쟁을 벌이는 듯 뭔가 달라진 모습을 보여 줬으나, SK전에서 저지른 김우석의 실책으로 분위기가 가라앉았고 막판 접전 끝에 5위에 그치며 가을 야구에 참가하지 못하게 된다. 그래도 희망적인 모습을 보여주며 2007 시즌을 마치게 됐다.
+절치부심한 LG 프런트는 [2006년](../Page/2006년.md "wikilink") 시즌이 끝난 뒤 [1990년 한국시리즈](../Page/1990년_한국시리즈.md "wikilink") 우승 멤버이자 [현대 유니콘스에서](../Page/현대_유니콘스.md "wikilink") 4회 우승을 이룬 [김재박](../Page/김재박.md "wikilink") 감독을 영입하고, [두산 베어스에서](../Page/두산_베어스.md "wikilink") FA를 선언한 [투수](../Page/투수.md "wikilink") [박명환을](https://ko.wikipedia.org/wiki/박명환_\(야구_선수\) "wikilink") 영입해 오면서 새롭게 시즌을 맞을 준비를 하게 되는데 이들 중 [김재박](../Page/김재박.md "wikilink") 감독은 [1991년](../Page/1991년.md "wikilink") 시즌 후 [백인천](../Page/백인천.md "wikilink") 감독 후임 물망에 한때 거론됐으나 연륜·경험부족 등의 이유 뿐 아니라\[19\] 다음 해 [태평양으로](../Page/태평양_돌핀스.md "wikilink") 무상 트레이드되는 바람에 좌절됐으며 [정동진](../Page/정동진_\(1946년\).md "wikilink") 전 삼성 감독에게도 [백인천](../Page/백인천.md "wikilink") 감독 후임 제안이 갔는데 정 감독의 친형이 당시 LG(당시 럭키금성)그룹 상무로 근무했었던 것으로\[20\] 풀이되지만 태평양 감독으로 가면서 불발됐고 LG스포츠(당시 럭키금성스포츠)에서 판촉과장으로 근무한 적이 있었던\[21\] [허구연](../Page/허구연.md "wikilink") MBC 야구해설위원에게도 [백인천](../Page/백인천.md "wikilink") 감독 후임 제안이 갔었다. 이러한 준비와 함께 [이대형](../Page/이대형.md "wikilink"), 그리고 급성장한 [조인성](../Page/조인성_\(야구인\).md "wikilink") 등의 활약과 함께 삼성과 막판 4강 경쟁을 벌이는 듯 뭔가 달라진 모습을 보여 줬으나, SK전에서 저지른 김우석의 실책으로 분위기가 가라앉았고 막판 접전 끝에 5위에 그치며 가을 야구에 참가하지 못하게 된다. 그래도 희망적인 모습을 보여주며 2007 시즌을 마치게 됐다.
 
 그렇게 맞은 2008 시즌은 작년 팀을 이끌었던 [박명환의](https://ko.wikipedia.org/wiki/박명환_\(야구_선수\) "wikilink") 부상, 돌아온 [박용택](../Page/박용택.md "wikilink")과 거액 FA 계약을 체결했던 [조인성의](../Page/조인성_\(야구인\).md "wikilink") 부진과 맞물리면서 시즌 중반 용병으로 영입된 [투수](../Page/투수.md "wikilink") [크리스 옥스프링과](../Page/크리스_옥스프링.md "wikilink") [1루수](https://ko.wikipedia.org/wiki/1루수 "wikilink") [로베르토 페타지니의](../Page/로베르토_페타지니.md "wikilink") 맹활약에도 불구하고 46승 80패(승률 0.365)에 그치며 불과 2년 만에 치욕적인 8위를 다시 경험한다.
 
@@ -57,13 +57,13 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 
 ### 2010년\~2011년
 
-[김재박](../Page/김재박.md "wikilink") 감독이 성적 부진 및 계약 기간 만료로 물러난 뒤 당시 두산 베어스의 2군 감독을 맡았던 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독을 영입한 LG는 현금 트레이드를 통해서 [넥센 히어로즈의](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 외야수 [이택근](../Page/이택근.md "wikilink")을 영입했고 [넥센 히어로즈에서](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 방출된 좌투수 [이상열](https://ko.wikipedia.org/wiki/이상열 "wikilink")을 좌완 불펜 강화 차원에서 영입하여 2010년 시즌을 준비하게 된다. 그러나 시즌 개막과 동시에 여러 잡음이 발생하게 되는데, 4월 2일 투수 [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink")이 자신의 미니홈피에 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독을 비난하는 글을 올려 파문이 일었고, 에이스 [봉중근](../Page/봉중근.md "wikilink")의 부인이 [봉중근](../Page/봉중근.md "wikilink")이 2군행을 통보받자 그의 미니홈피에 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독을 비난하는 글을 올렸다가 삭제하는 사건이 발생하기도 했다. [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink")은 5월 16일 잠실에서 열린 롯데 자이언츠와의 경기에 선발 투수로 등판해 5이닝 2실점으로 프로 데뷔 첫 선발승을 신고했으나, 이후 부상으로 2군에 다시 내려가 또 다시 잡음을 일으킨 뒤 8월 10일에 임의탈퇴 공시되었다. 그리고 방황 끝에 2013년에 복귀를 선언하였다. 그 해 7월에는 투수 서승화가 자신의 홈페이지에 야구를 그만두겠다는 발언 등 안팎으로 홍역을 치른 LG는 SK 와이번스와의 4:3 트레이드로 투수 [박현준](https://ko.wikipedia.org/wiki/박현준 "wikilink"), [김선규](https://ko.wikipedia.org/wiki/김선규 "wikilink"), 포수 [윤상균의](../Page/윤요섭.md "wikilink") 영입 및 그 해 맹타를 휘두르며 골든 글러브를 받은 포수 [조인성의](../Page/조인성_\(야구인\).md "wikilink") 맹활약에도 불구하고 그 해 57승 71패 5무(승률 .429)로 6위에 그치면서 포스트 시즌 진출에 실패하게 된다.
+[김재박](../Page/김재박.md "wikilink") 감독이 성적 부진 및 계약 기간 만료로 물러난 뒤 당시 두산 베어스의 2군 감독을 맡았던 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독을 영입한 LG는 현금 트레이드를 통해서 [넥센 히어로즈의](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 외야수 [이택근](../Page/이택근.md "wikilink")을 영입했고 [넥센 히어로즈에서](../Page/키움_히어로즈.md "wikilink") 방출된 좌투수 [이상열](https://ko.wikipedia.org/wiki/이상열 "wikilink")을 좌완 불펜 강화 차원에서 영입하여 2010년 시즌을 준비하게 된다. 그러나 시즌 개막과 동시에 여러 잡음이 발생하게 되는데, 4월 2일 투수 [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink")이 자신의 미니홈피에 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독을 비난하는 글을 올려 파문이 일었고, 에이스 [봉중근](../Page/봉중근.md "wikilink")의 부인이 [봉중근](../Page/봉중근.md "wikilink")이 2군행을 통보받자 그의 미니홈피에 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독을 비난하는 글을 올렸다가 삭제하는 사건이 발생하기도 했다. [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink")은 5월 16일 잠실에서 열린 롯데 자이언츠와의 경기에 선발 투수로 등판해 5이닝 2실점으로 프로 데뷔 첫 선발승을 신고했으나, 이후 부상으로 2군에 다시 내려가 또 다시 잡음을 일으킨 뒤 8월 10일에 임의탈퇴 공시되었다. 그리고 방황 끝에 2013년에 복귀를 선언하였다. 그 해 7월에는 투수 서승화가 자신의 홈페이지에 야구를 그만두겠다는 발언 등 안팎으로 홍역을 치른 LG는 SK 와이번스와의 4:3 트레이드로 투수 [박현준](https://ko.wikipedia.org/wiki/박현준 "wikilink"), [김선규](https://ko.wikipedia.org/wiki/김선규 "wikilink"), 포수 [윤상균의](../Page/윤요섭.md "wikilink") 영입 및 그 해 맹타를 휘두르며 골든 글러브를 받은 포수 [조인성의](../Page/조인성_\(야구인\).md "wikilink") 맹활약에도 불구하고 그 해 57승 71패 5무(승률 .429)로 6위에 그치면서 포스트 시즌 진출에 실패하게 된다.
 
 2011년 LG는 시즌 초반 잠깐이지만 1위에 오르는 등 승승장구하게 된다. 에이스 봉중근이 팔꿈치 부상으로 토미 존 수술을 받게 되어 시즌을 마감했지만, 선발 투수 빅 3라 불리는 [박현준과](../Page/박현준_\(야구_선수\).md "wikilink") [레다메스 리즈](../Page/레다메스_리즈.md "wikilink"), [벤자민 주키치의](../Page/벤자민_주키치.md "wikilink") 활약으로 8개 구단 중 30승에 선착했고, 승패마진이 +10까지 올려놓았다. 그러나, 6월 17일 잠실 SK전에서 마무리로 등판한 고졸 신인 투수 [임찬규](../Page/임찬규.md "wikilink")가 9회초 2사 후 밀어내기 4실점으로 역전패 당한 이후 페이스가 흔들리기 시작하더니, 7월 21일 목동에서 열린 넥센 히어로즈와의 3연전을 모두 패하면서 승패마진이 0으로 추락하면서 시즌 전반기를 마치게 된다. 그 해 유난히 넥센 히어로즈만 만나면 치열한 경기가 펼쳐져서 엘 클라시코를 본뜬 LG 트윈스와 넥센 히어로즈의 새로운 서울 더비를 나타내는 신조어인 엘 넥라시코라는 말이 만들어졌다. 7월 31일 트레이드 마감 시한을 3시간 남기고 [넥센 히어로즈와의](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 트레이드로 투수 [심수창](../Page/심수창.md "wikilink")과 내야수 [박병호를](../Page/박병호_\(1986년\).md "wikilink") 내주고 투수 [송신영](../Page/송신영.md "wikilink")과 [김성현을](../Page/김성현_\(1989년\).md "wikilink") 영입하는 두고두고 회자될 만한 역대급 실수를 저지르며 분위기 반전을 꾀했으나, 다소 늦은 감이 있었다. 8월 3일 문학 SK전에서 끝내기 역전패를 당한 이후 LG는 5위로 떨어졌고, 9월 24일 잠실 SK전 패배로 9년 연속 포스트 시즌 진출에 실패하게 됐다. 이는 KBO 리그 사상 최초의 일이다. 한편 시즌 초 투수 [오상민](../Page/오상민.md "wikilink")이 사적인 잡음을 일으켜 일찌감치 웨이버 공시되었고, 8월에는 투수 [이범준](https://ko.wikipedia.org/wiki/이범준 "wikilink")이 투수들이 많이 들어와 설 자리가 없어진다고 자신의 트위터에 불만을 표시하기도 하였다. 시즌 후에는 [서승화](../Page/서승화.md "wikilink")가 또 다시 온라인에서 잡음을 일으켜 선수단 내부가 여전히 어수선했다. [서승화](../Page/서승화.md "wikilink")는 시즌 후 방출당했다.
 
 ### 2012년
 
-[2011년](../Page/2011년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") 삼성과의 최종전을 마친 후 [외야수](https://ko.wikipedia.org/wiki/외야수 "wikilink") 출신 감독의 한계를 넘어서지 못한 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독은 성적 부진의 책임을 지고 사임했고, 후임으로 수석코치 [김기태가](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink") 취임했다. 그러나 그 해 시즌 후 스토브 리그에서 [FA를](../Page/자유계약선수제도.md "wikilink") 선언한 선수 중 [투수](../Page/투수.md "wikilink") [이상열만](../Page/이상열_\(1977년\).md "wikilink") 잡는 데 그쳤고 [이택근](../Page/이택근.md "wikilink"), [송신영](../Page/송신영.md "wikilink"), [조인성을](../Page/조인성_\(야구인\).md "wikilink") 잃어 전력 출혈까지 생겼다. 게다가 [2012년](../Page/2012년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") [투수](../Page/투수.md "wikilink") [박현준과](../Page/박현준_\(야구_선수\).md "wikilink") [김성현이](../Page/김성현_\(1989년\).md "wikilink") [승부조작 사건에](../Page/2012년_한국프로야구_승부조작_사건.md "wikilink") 휘말려 검찰 조사를 받았다. 김성현은 [2월 28일](../Page/2월_28일.md "wikilink") 긴급 체포되어 승부 조작 사실을 시인했고, [박현준도](../Page/박현준_\(야구_선수\).md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") 검찰 조사에서 승부조작 브로커와 [김성현과의](../Page/김성현_\(1989년\).md "wikilink") 대질심문 끝에 승부조작 사실을 일부 시인했다. [3월 5일](../Page/3월_5일.md "wikilink") [KBO는](https://ko.wikipedia.org/wiki/KBO_\(야구\) "wikilink") [박현준과](../Page/박현준_\(야구_선수\).md "wikilink") [김성현에](../Page/김성현_\(1989년\).md "wikilink") 대해 일단 야구 활동 정지 처분을 내렸고, 추후 형사 처벌이 확정되면 영구 제명 등의 강력한 중징계를 가할 방침이라고 발표했다. 또한 LG도 [3월 6일](../Page/3월_6일.md "wikilink") 이들 두 선수를 방출했고, KBO에 영구 제명을 요청하게 되고 동시에 제명안이 확정되었다. [3월 14일](../Page/3월_14일.md "wikilink") 검찰 수사 결과 [김성현은](../Page/김성현_\(1989년\).md "wikilink") 구속 기소, [박현준은](../Page/박현준_\(야구_선수\).md "wikilink") 불구속 기소로 최종 결정됨으로써 두 사람은 사실상 선수 생명이 끝나게 되었다. 이 사건으로 [2010년](../Page/2010년.md "wikilink") [SK](../Page/SK_와이번스.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [넥센을](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 상대로 한 LG의 트레이드는 또다시 실패로 끝나게 되었다. 결국 시즌 시작 전에 전력 출혈이 크게 생긴 LG는 우려했던 대로 [2012년](../Page/2012년.md "wikilink") 정규 시즌 7위에 그치며 10년 연속 포스트시즌 진출 실패이자 두자릿수 연속 포스트시즌 진출에 실패한 최초의 팀이 되었다. 그나마 [김기태](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink") 감독이 부임한 이후 팀 내 선수진에서 잡음이 없어진 것은 큰 소득이었다.
+[2011년](../Page/2011년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") 삼성과의 최종전을 마친 후 [외야수](https://ko.wikipedia.org/wiki/외야수 "wikilink") 출신 감독의 한계를 넘어서지 못한 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독은 성적 부진의 책임을 지고 사임했고, 후임으로 수석코치 [김기태가](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink") 취임했다. 그러나 그 해 시즌 후 스토브 리그에서 [FA를](../Page/자유계약선수제도.md "wikilink") 선언한 선수 중 [투수](../Page/투수.md "wikilink") [이상열만](../Page/이상열_\(1977년\).md "wikilink") 잡는 데 그쳤고 [이택근](../Page/이택근.md "wikilink"), [송신영](../Page/송신영.md "wikilink"), [조인성을](../Page/조인성_\(야구인\).md "wikilink") 잃어 전력 출혈까지 생겼다. 게다가 [2012년](../Page/2012년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") [투수](../Page/투수.md "wikilink") [박현준과](../Page/박현준_\(야구_선수\).md "wikilink") [김성현이](../Page/김성현_\(1989년\).md "wikilink") [승부조작 사건에](../Page/2012년_한국프로야구_승부조작_사건.md "wikilink") 휘말려 검찰 조사를 받았다. 김성현은 [2월 28일](../Page/2월_28일.md "wikilink") 긴급 체포되어 승부 조작 사실을 시인했고, [박현준도](../Page/박현준_\(야구_선수\).md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") 검찰 조사에서 승부조작 브로커와 [김성현과의](../Page/김성현_\(1989년\).md "wikilink") 대질심문 끝에 승부조작 사실을 일부 시인했다. [3월 5일](../Page/3월_5일.md "wikilink") [KBO는](https://ko.wikipedia.org/wiki/KBO_\(야구\) "wikilink") [박현준과](../Page/박현준_\(야구_선수\).md "wikilink") [김성현에](../Page/김성현_\(1989년\).md "wikilink") 대해 일단 야구 활동 정지 처분을 내렸고, 추후 형사 처벌이 확정되면 영구 제명 등의 강력한 중징계를 가할 방침이라고 발표했다. 또한 LG도 [3월 6일](../Page/3월_6일.md "wikilink") 이들 두 선수를 방출했고, KBO에 영구 제명을 요청하게 되고 동시에 제명안이 확정되었다. [3월 14일](../Page/3월_14일.md "wikilink") 검찰 수사 결과 [김성현은](../Page/김성현_\(1989년\).md "wikilink") 구속 기소, [박현준은](../Page/박현준_\(야구_선수\).md "wikilink") 불구속 기소로 최종 결정됨으로써 두 사람은 사실상 선수 생명이 끝나게 되었다. 이 사건으로 [2010년](../Page/2010년.md "wikilink") [SK](../Page/SK_와이번스.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [넥센을](../Page/키움_히어로즈.md "wikilink") 상대로 한 LG의 트레이드는 또다시 실패로 끝나게 되었다. 결국 시즌 시작 전에 전력 출혈이 크게 생긴 LG는 우려했던 대로 [2012년](../Page/2012년.md "wikilink") 정규 시즌 7위에 그치며 10년 연속 포스트시즌 진출 실패이자 두자릿수 연속 포스트시즌 진출에 실패한 최초의 팀이 되었다. 그나마 [김기태](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink") 감독이 부임한 이후 팀 내 선수진에서 잡음이 없어진 것은 큰 소득이었다.
 
 [2012년](../Page/2012년.md "wikilink") [FA](../Page/자유계약선수제도.md "wikilink") 시장에서 [삼성 라이온즈의](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 우완 불펜 [투수](../Page/투수.md "wikilink") [정현욱](../Page/정현욱.md "wikilink")을 기간 [4년](../Page/4년.md "wikilink") 간 총액 28억 6천만 원의 조건으로 영입하는 데 성공했다. 또한 내부 [FA였던](../Page/자유계약선수제도.md "wikilink") [이진영](../Page/이진영.md "wikilink")과 [정성훈을](../Page/정성훈_\(1980년\).md "wikilink") 일찌감치 [FA](../Page/자유계약선수제도.md "wikilink") 우선협상 기간 초기에 각각 [4년](../Page/4년.md "wikilink") 간 총액 34억 원에 계약, 팀에 잔류시키면서 성공적인 내부 단속과 함께 [FA](../Page/자유계약선수제도.md "wikilink") 시장을 마무리했다.
 
@@ -77,13 +77,13 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 
 ### 2014년
 
-2014년 [4월 23일](../Page/4월_23일.md "wikilink") 시즌 개막 후 17게임만 진행된 상태에서 [김기태](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink") 감독이 성적 부진으로 사의를 표명하면서 [조계현감독](https://ko.wikipedia.org/wiki/조계현_\(야구인\) "wikilink") 대행이 잠시 팀을 이끈다. [김기태](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink") 감독의 사퇴 이후 2014년 시즌에서 가장 마지막으로 10승을 달성한다. 이후 2014년 [5월 11일](../Page/5월_11일.md "wikilink") [넥센전](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 이후 [양상문](../Page/양상문.md "wikilink") [MBC Sports+](https://ko.wikipedia.org/wiki/MBC_Sports+ "wikilink") 해설위원을 신임 감독으로 맞이 하게 된다. 그 이후로 팀을 잘 이끌며 중반에는 중위권까지 끌어올렸다. 후반기에는 [황목치승](../Page/황목치승.md "wikilink")등 2군에서의 선수를 끌어올리면서 4위에 안착하고 있다. 10월 17일에 롯데에 패하였으나, [넥센 히어로즈가](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") [SK 와이번스를](../Page/SK_와이번스.md "wikilink") 저지하면서 LG의 4위가 확정되어 준PO에서 [NC 다이노스를](../Page/NC_다이노스.md "wikilink") 3승 1패로 누르고 넥센 히어로즈와 PO경기를 치르게 된다. 그렇게 플레이오프에 진출한 LG 트윈스는 정규시즌 2위인 [넥센 히어로즈에게](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 시리즈 전적 1-3으로 패하면서, 한국시리즈 진출에 실패하여 [삼성과의](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 맞대결은 또 다시 물거품이 되었다.
+2014년 [4월 23일](../Page/4월_23일.md "wikilink") 시즌 개막 후 17게임만 진행된 상태에서 [김기태](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink") 감독이 성적 부진으로 사의를 표명하면서 [조계현감독](https://ko.wikipedia.org/wiki/조계현_\(야구인\) "wikilink") 대행이 잠시 팀을 이끈다. [김기태](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink") 감독의 사퇴 이후 2014년 시즌에서 가장 마지막으로 10승을 달성한다. 이후 2014년 [5월 11일](../Page/5월_11일.md "wikilink") [넥센전](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 이후 [양상문](../Page/양상문.md "wikilink") [MBC Sports+](https://ko.wikipedia.org/wiki/MBC_Sports+ "wikilink") 해설위원을 신임 감독으로 맞이 하게 된다. 그 이후로 팀을 잘 이끌며 중반에는 중위권까지 끌어올렸다. 후반기에는 [황목치승](../Page/황목치승.md "wikilink") 등 2군에서의 선수를 끌어올리면서 4위에 안착하고 있다. 10월 17일에 롯데에 패하였으나, [넥센 히어로즈가](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") [SK 와이번스를](../Page/SK_와이번스.md "wikilink") 저지하면서 LG의 4위가 확정되어 준PO에서 [NC 다이노스를](../Page/NC_다이노스.md "wikilink") 3승 1패로 누르고 넥센 히어로즈와 PO경기를 치르게 된다. 그렇게 플레이오프에 진출한 LG 트윈스는 정규시즌 2위인 [넥센 히어로즈에게](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 시리즈 전적 1-3으로 패하면서, 한국시리즈 진출에 실패하여 [삼성과의](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 맞대결은 또 다시 물거품이 되었다.
 
 ### 2016년
 
 2016시즌을 앞두고, 팀의 주장인 [이진영](../Page/이진영.md "wikilink")은 2차 드래프트에서 [kt 위즈에](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink") 지명을 받아, [kt 위즈로](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink") 이적하였다.
 
-양상문 감독은 시즌 시작을 앞두고 리빌딩을 천명하면서, 팀의 색깔을 뛰는야구로 바꾸겠다고 선언했다, 2015년 7월 [정의윤](../Page/정의윤.md "wikilink"), [신재웅](https://ko.wikipedia.org/wiki/신재웅 "wikilink"), [신동훈](https://ko.wikipedia.org/wiki/신동훈 "wikilink")을 SK 와이번스로 주고, [임훈](https://ko.wikipedia.org/wiki/임훈_\(야구_선수\) "wikilink"), [진해수](../Page/진해수.md "wikilink"), [여건욱](../Page/여건욱.md "wikilink")을 받는 3:3 트레이드를 단행했고, FA 정상호를 영입하면서, 최승준이 [SK로](../Page/SK_와이번스.md "wikilink"), 2차 드래프트를 통해 [나성용](../Page/나성용.md "wikilink")이 [삼성 라이온즈로](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 갔다.
+양상문 감독은 시즌 시작을 앞두고 리빌딩을 천명하면서, 팀의 색깔을 뛰는 야구로 바꾸겠다고 선언했다, 2015년 7월 [정의윤](../Page/정의윤.md "wikilink"), [신재웅](../Page/신재웅_\(1982년\).md "wikilink"), [신동훈을](../Page/신동훈_\(야구_선수\).md "wikilink") SK 와이번스로 주고, [임훈](https://ko.wikipedia.org/wiki/임훈_\(야구_선수\) "wikilink"), [진해수](../Page/진해수.md "wikilink"), [여건욱](../Page/여건욱.md "wikilink")을 받는 3:3 트레이드를 단행했고, FA 정상호를 영입하면서, 최승준이 [SK로](../Page/SK_와이번스.md "wikilink"), 2차 드래프트를 통해 [나성용](../Page/나성용.md "wikilink")이 [삼성 라이온즈로](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 갔다.
 
 팀의 애물단지였던 거포들을 차례로 보내고, 잠실야구장 에 맞는 야구를 보이겠다고 선언하면서 , LG 트윈스는 2016년 4월 1일 [한화 이글스와](../Page/한화_이글스.md "wikilink") 개막 시리즈에서 붙는다.
 
@@ -91,7 +91,7 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 
 시즌 종료 후, [12월 5일](../Page/12월_5일.md "wikilink") [우규민](../Page/우규민.md "wikilink")은 4년 65억원에 FA 계약을 체결하여 [삼성 라이온즈로](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 이적하였다.
 
-하지만 12월14일 [차우찬](../Page/차우찬.md "wikilink")을 영입했다(4년 95억)
+하지만 12월 14일 [차우찬](../Page/차우찬.md "wikilink")을 영입했다(4년 95억)
 
 ### 2017년
 
@@ -121,7 +121,7 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 <tbody>
 <tr class="odd">
 <td><p>1982</p></td>
-<td><p><strong>MBC</strong></p></td>
+<td><p><strong><a href="../Page/MBC_청룡.md" title="wikilink">MBC</a></strong></p></td>
 <td><p>전기 3위<br />
 후기 3위</p></td>
 <td><p>46</p></td>
@@ -270,7 +270,7 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 <td><p>57</p></td>
 <td><p>3</p></td>
 <td><p>0.536</p></td>
-<td><p>* <strong>준플레이오프 : <a href="https://ko.wikipedia.org/wiki/OB_베어스" title="wikilink">OB</a> 전 2-1 승</strong><br />
+<td><p>* <strong>준플레이오프 : <a href="../Page/두산_베어스.md" title="wikilink">OB</a> 전 2-1 승</strong><br />
 * <strong><small>플레이오프 : <a href="https://ko.wikipedia.org/wiki/삼성_라이온즈" title="wikilink">삼성</a> 전 2-3 패</small></strong></p></td>
 <td></td>
 <td></td>
@@ -333,7 +333,7 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 <td><p>62</p></td>
 <td><p>1</p></td>
 <td><p>0.504</p></td>
-<td><p>* '''준플레이오프 : <a href="https://ko.wikipedia.org/wiki/OB_베어스" title="wikilink">OB</a> 전 2-0 승 '''<br />
+<td><p>* '''준플레이오프 : <a href="../Page/두산_베어스.md" title="wikilink">OB</a> 전 2-0 승 '''<br />
 * '''플레이오프 : <a href="https://ko.wikipedia.org/wiki/삼성_라이온즈" title="wikilink">삼성</a> 전 3-1 승 '''<br />
 * <strong><small>한국시리즈 : <a href="../Page/현대_유니콘스.md" title="wikilink">현대</a> 전 2-4 패</small></strong></p></td>
 <td></td>
@@ -619,35 +619,11 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 
 ## 선수단
 
+### 현 선수단
+
 ### 역대 감독
 
 LG 트윈스(당시 MBC 청룡)의 창단 감독은 [백인천](../Page/백인천.md "wikilink")이었으며, 현 감독은 17대인 [류중일](../Page/류중일.md "wikilink")이다.
-
-| 대수    | 이름                                                            | 취임    | 사임    |
-| ----- | ------------------------------------------------------------- | ----- | ----- |
-| 1대    | [백인천](../Page/백인천.md "wikilink")                              | 1982년 | 1983년 |
-| 감독 대행 | [유백만](../Page/유백만.md "wikilink")                              | 1983년 | 1983년 |
-| 2대    | [김동엽](https://ko.wikipedia.org/wiki/김동엽 "wikilink")           | 1983년 | 1983년 |
-| 3대    | [어우홍](../Page/어우홍.md "wikilink")                              | 1984년 | 1985년 |
-| 4대    | [김동엽](https://ko.wikipedia.org/wiki/김동엽 "wikilink")           | 1985년 | 1987년 |
-| 5대    | [유백만](../Page/유백만.md "wikilink")                              | 1987년 | 1988년 |
-| 5대    | [배성서](../Page/배성서.md "wikilink")                              | 1985년 | 1987년 |
-| 6대    | [백인천](../Page/백인천.md "wikilink")                              | 1989년 | 1991년 |
-| 7대    | [이광환](../Page/이광환.md "wikilink")                              | 1992년 | 1996년 |
-| 8대    | [천보성](../Page/천보성.md "wikilink")                              | 1996년 | 1999년 |
-| 9대    | [이광은](../Page/이광은.md "wikilink")                              | 2000년 | 2001년 |
-| 10대   | [김성근](../Page/김성근_\(야구인\).md "wikilink")                      | 2001년 | 2002년 |
-| 11대   | [이광환](../Page/이광환.md "wikilink")                              | 2003년 | 2003년 |
-| 12대   | [이순철](https://ko.wikipedia.org/wiki/이순철 "wikilink")           | 2004년 | 2006년 |
-| 감독 대행 | [양승호](../Page/양승호.md "wikilink")                              | 2006년 | 2007년 |
-| 13대   | [김재박](../Page/김재박.md "wikilink")                              | 2007년 | 2009년 |
-| 14대   | [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") | 2010년 | 2011년 |
-| 15대   | [김기태](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink") | 2012년 | 2014년 |
-| 감독 대행 | [조계현](https://ko.wikipedia.org/wiki/조계현_\(야구인\) "wikilink")   | 2014년 | 2014년 |
-| 16대   | [양상문](../Page/양상문.md "wikilink")                              | 2014년 | 2017년 |
-| 17대   | [류중일](../Page/류중일.md "wikilink")                              | 2018년 | 현재    |
-
-### 현 선수단
 
 ### 역대 선수
 
@@ -791,7 +767,7 @@ LG 트윈스에서는 [한국 프로 야구 최우수 선수](https://ko.wikiped
 
   - [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink") - 원곡 : 마야의 위풍당당
 
-가사 : 오 LG 이형종\~ 오 LG 이형종\~ 오 LG 이형종\~ 워 워어어어 힘차게 달려가라 LG 이형종\~\[5\]
+가사 : 오 LG 이형종\~ 오 LG 이형종\~ 오 LG 이형종\~ 워 워어어어 힘차게 달려가라 LG 이형종\~\[22\]
 \-등장곡 : 리치&레오(빅스)의 마지막 승부
 
   - [안익훈](../Page/안익훈.md "wikilink") - 원곡 :(군입대)
@@ -832,6 +808,23 @@ LG 트윈스에서는 [한국 프로 야구 최우수 선수](https://ko.wikiped
 
 1.
 2.  [LG, 2010시즌에도 'X-존' 운영한다](http://news.naver.com/sports/index.nhn?category=baseball&ctg=news&mod=read&office_id=109&article_id=0002077242) 네이버 뉴스
-3.  [야신, '대구의 눈물' 8년만에 되갚다](http://www.mydaily.co.kr/news/read.html?newsid=201010192010522228&ext=na) - 마이데일리
-4.  [안 풀리는 LG, 엘롯기 동맹에서 "김성근 저주"까지](http://www.dailian.co.kr/news/news_view.htm?id=166380&sc=naver&kind=menu_code&keys=7) - 데일리안
-5.  [이진영](../Page/이진영.md "wikilink")이 LG 트윈스시절에 사용하던 응원가. 단 [이진영](../Page/이진영.md "wikilink") 버전은 '당당히 마주하라'였고 [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink")버전은 '힘차게 달려가라'로 개사
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11. [야신, '대구의 눈물' 8년만에 되갚다](http://www.mydaily.co.kr/news/read.html?newsid=201010192010522228&ext=na) - 마이데일리
+12.
+13. [안 풀리는 LG, 엘롯기 동맹에서 "김성근 저주"까지](http://www.dailian.co.kr/news/news_view.htm?id=166380&sc=naver&kind=menu_code&keys=7) - 데일리안
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22. [이진영](../Page/이진영.md "wikilink")이 LG 트윈스시절에 사용하던 응원가. 단 [이진영](../Page/이진영.md "wikilink") 버전은 '당당히 마주하라'였고 [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink")버전은 '힘차게 달려가라'로 개사

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AIM-54 ](https://ko.wikipedia.org/wiki/AIM-54_).
+> This article is converted from Wikipedia: [AIM-54 피닉스](https://ko.wikipedia.org/wiki/AIM-54_피닉스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:AIM-54C_Phoenix_missle_on_a_F-14D_of_VF-2_aboard_USS_Constellation_\(CV-64\)_on_20_March_2003_\(030320-N-4142G-013\).jpg "wikilink") **AIM-54 피닉스**()는 [F-14](https://ko.wikipedia.org/wiki/F-14 "wikilink")에만 최대 6발을 장착가능한 [미국](../Page/미국.md "wikilink")의 장거리 [공대공 미사일이다](https://ko.wikipedia.org/wiki/공대공_미사일 "wikilink"). 피닉스는 미국 해군의 유일한 장거리 [공대공 미사일이다](https://ko.wikipedia.org/wiki/공대공_미사일 "wikilink"). AIM-54A 버전이 최초로서 [1974년](../Page/1974년.md "wikilink")에 실전배치되었다. 최신형인 AIM-54C 버전은 적의 [순항 미사일에](https://ko.wikipedia.org/wiki/순항_미사일 "wikilink") 대해서도 대응할 수 있게 개발되었다.

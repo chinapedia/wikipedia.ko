@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(SI \)](https://ko.wikipedia.org/wiki/_\(SI_\)).
+> This article is converted from Wikipedia: [테라 \(SI 접두어\)](https://ko.wikipedia.org/wiki/테라_\(SI_접두어\)).
 
 
 **테라**(Tera, 기호: **T**)는 10<sup>12</sup>(조)를 나타내는 [SI 접두어이다](https://ko.wikipedia.org/wiki/SI_접두어 "wikilink"). 테라는 괴물(*monster*)을 뜻하는 [그리스어](../Page/그리스어.md "wikilink") 단어 "테라스(τέρας)"에서 유래했다.\[1\] SI 접두어는 [1960년](../Page/1960년.md "wikilink") [국제단위계](../Page/국제단위계.md "wikilink")(SI, International System of Units)로 사용하기로 확인되었다. [컴퓨터 과학에서](../Page/컴퓨터_과학.md "wikilink") **테라**는 10<sup>12</sup>(=1 000 000 000 000) 대신에 2<sup>40</sup>(=1 099 511 627 776)을 의미하기도 한다. 구분을 위해서 **tebi**(기호: **Ti**)라는 단위를 사용한다.

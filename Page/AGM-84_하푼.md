@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AGM-84 ](https://ko.wikipedia.org/wiki/AGM-84_).
+> This article is converted from Wikipedia: [AGM-84 하푼](https://ko.wikipedia.org/wiki/AGM-84_하푼).
 
 
 **AGM-84 하푼**(Harpoon)은 원래 맥도널 더글라스사가 제작하였고 현재는 보잉 IDS에서 개발 생산하고 있는 [미국](../Page/미국.md "wikilink")의 전천후, 원거리, 함정, 지상 공격용 [크루즈 미사일](https://ko.wikipedia.org/wiki/크루즈_미사일 "wikilink") 시스템이다.

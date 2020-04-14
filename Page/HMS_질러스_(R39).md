@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS  \(R39\)](https://ko.wikipedia.org/wiki/HMS__\(R39\)).
+> This article is converted from Wikipedia: [HMS 질러스 \(R39\)](https://ko.wikipedia.org/wiki/HMS_질러스_\(R39\)).
 
 
 **HMS 질러스 (R39)**는 영국의 구축함이다. 질러스함은 1955년 7월 15일 이스라엘에 판매되어서 에일라트(Eilat)함이 되었다. 1967년 에일라트함은 스틱스 미사일 4발에 피격되어 격침되었다.

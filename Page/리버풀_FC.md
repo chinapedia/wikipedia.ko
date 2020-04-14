@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [리버풀 FC](https://ko.wikipedia.org/wiki/리버풀_FC).
 
 
 **리버풀 축구 클럽**(, *리버풀 축구단*)은 [잉글랜드](../Page/잉글랜드.md "wikilink") [머지사이드주](https://ko.wikipedia.org/wiki/머지사이드주 "wikilink") [리버풀](../Page/리버풀.md "wikilink")을 연고로 하는 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다.
@@ -13,7 +13,7 @@
 
 리버풀의 홈 유니폼 색깔은 원래 *레드 앤 화이트*였으나 1960년대에는 *올 레드*로 바뀌었다. 리버풀의 엠블럼은 창단후 변화가 거의 없었지만 1989년 [힐즈브러 참사를](https://ko.wikipedia.org/wiki/힐즈브러_참사 "wikilink") 기리기 위해 엠블럼의 좌우에 불꽃을 집어넣어 현재에 이르고 있다.
 
-리버풀은 현재 54,074명을 수용하는 [안필드](../Page/안필드.md "wikilink")를 홈 경기장으로 사용하고 있으며, 59,000석까지 증축 예정이다. 리버풀은 광대하고 다양한 팬층을 보유하고 있으며 오랜 전통을 가지고 있다. 몇몇 클럽 등과는 오랜 라이벌 관계를 유지해오고 있으며, 이중에 현재 리버풀의 가장 큰 라이벌이라 볼 수 있는 팀은 [맨체스터 유나이티드](../Page/맨체스터_유나이티드_FC.md "wikilink")([노스웨스트 더비](https://ko.wikipedia.org/wiki/노스웨스트_더비 "wikilink"))와 이른바 [머지사이드 더비라고](../Page/머지사이드_더비.md "wikilink") 불리는 [에버턴](https://ko.wikipedia.org/wiki/에버튼_FC "wikilink") 등이 있다.
+리버풀은 현재 54,074명을 수용하는 [안필드](../Page/안필드.md "wikilink")를 홈 경기장으로 사용하고 있으며, 59,000석까지 증축 예정이다. 리버풀은 광대하고 다양한 팬층을 보유하고 있으며 오랜 전통을 가지고 있다. 몇몇 클럽 등과는 오랜 라이벌 관계를 유지해오고 있으며, 이중에 현재 리버풀의 가장 큰 라이벌이라 볼 수 있는 팀은 [맨체스터 유나이티드](../Page/맨체스터_유나이티드_FC.md "wikilink")([노스웨스트 더비](https://ko.wikipedia.org/wiki/노스웨스트_더비 "wikilink"))와 이른바 [머지사이드 더비라고](../Page/머지사이드_더비.md "wikilink") 불리는 [에버턴이](https://ko.wikipedia.org/wiki/에버튼_FC "wikilink") 있다.
 
 현재 감독은 [위르겐 클로프이며](../Page/위르겐_클로프.md "wikilink") 주장은 [조던 헨더슨이고](https://ko.wikipedia.org/wiki/조던_헨더슨 "wikilink") 부주장은 [제임스 밀너다](../Page/제임스_밀너.md "wikilink").
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CAF ](https://ko.wikipedia.org/wiki/:CAF_).
+> This article is converted from Wikipedia: [틀:CAF 국가대표팀](https://ko.wikipedia.org/wiki/틀:CAF_국가대표팀).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-C](https://ko.wikipedia.org/wiki/-C).
+> This article is converted from Wikipedia: [오브젝티브-C](https://ko.wikipedia.org/wiki/오브젝티브-C).
 
 
 **오브젝티브-C**()는 [C 프로그래밍 언어에](../Page/C_\(프로그래밍_언어\).md "wikilink") [스몰토크](../Page/스몰토크.md "wikilink") 스타일의 메시지 구문을 추가한 [객체 지향](https://ko.wikipedia.org/wiki/객체_지향 "wikilink") 언어이다. 현재, 이 언어는 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [매킨토시](../Page/매킨토시.md "wikilink")의 [운영 체제인](../Page/운영_체제.md "wikilink") [OS X과](https://ko.wikipedia.org/wiki/OS_X "wikilink") [아이폰](../Page/아이폰.md "wikilink")의 [운영 체제인](../Page/운영_체제.md "wikilink") [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")에서 사용되고 있다. 오브젝티브-C는 애플의 [코코아를](../Page/코코아_\(API\).md "wikilink") 사용하기 위한 기본 언어이며, 원래는 [넥스트의](https://ko.wikipedia.org/wiki/넥스트_사 "wikilink") NeXTSTEP [운영 체제에서](../Page/운영_체제.md "wikilink") 주 언어였다. 일반적인(Generic) 오브젝티브-C는 앞에서 언급한 라이브러리를 사용하지 않는다.

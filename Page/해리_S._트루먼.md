@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [해리 S. 트루먼](https://ko.wikipedia.org/wiki/해리_S._트루먼).
 
 
 **해리 S. 트루먼**(, , [1884년](../Page/1884년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink") \~ [1972년](../Page/1972년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink"))은 미국의 제34대 [부통령](https://ko.wikipedia.org/wiki/부통령 "wikilink")(1945년), 33번째 [대통령](../Page/대통령.md "wikilink")(1945년 4월 12일\~1953년)이었다. 이는 [프랭클린 루스벨트](https://ko.wikipedia.org/wiki/프랭클린_루스벨트 "wikilink") 대통령의 갑작스런 죽음으로 부통령이 된 지 불과 82일 만에 대통령직을 승계하였다. [제2차 세계대전에서](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 독일의 항복을 받았고, [태평양 전쟁에서](../Page/태평양_전쟁.md "wikilink") [일본제국](https://ko.wikipedia.org/wiki/일본제국 "wikilink")천황인 [히로히토](https://ko.wikipedia.org/wiki/히로히토 "wikilink")로부터 항복을 받았으며, [한국 전쟁](../Page/한국_전쟁.md "wikilink") 당시 미국의 대통령이었다. 세계에서 유일하게 [핵무기](../Page/핵무기.md "wikilink")를 전쟁에서 사용하라고 명령한 국가 원수이다. 해리 S. 트루먼의 S는 그의 친할아버지와 외할아버지의 이름이 S로 시작하기 때문에 아버지가 그냥 S라고 붙였다.

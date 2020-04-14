@@ -9,9 +9,9 @@
 
 ## 구성원
 
-  - **다카미자와 도시히코** (, [1954년](../Page/1954년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [전기 기타](../Page/전기_기타.md "wikilink"), **리더**
-  - **사카자키 고노스케** (, [1954년](../Page/1954년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink")
-  - **사쿠라이 마사루** (, [1955년](../Page/1955년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [베이스 기타](../Page/베이스_기타.md "wikilink")
+  - **다카미자와 도시히코**(, [1954년](../Page/1954년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [전기 기타](../Page/전기_기타.md "wikilink"), **리더**
+  - **사카자키 고노스케**(, [1954년](../Page/1954년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [어쿠스틱 기타](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink")
+  - **사쿠라이 마사루**(, [1955년](../Page/1955년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [베이스 기타](../Page/베이스_기타.md "wikilink")
 
 ## 앨범
 

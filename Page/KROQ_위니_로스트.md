@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KROQ  ](https://ko.wikipedia.org/wiki/KROQ__).
+> This article is converted from Wikipedia: [KROQ 위니 로스트](https://ko.wikipedia.org/wiki/KROQ_위니_로스트).
 
 
 **KROQ 위니 로스트**()는 1993년부터 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에 있는 [KROQ 106.7](../Page/KROQ.md "wikilink") 록 음악 전문 라디오 방송국에서 개최하는 미국 최대의 연례 정기 조인트 록 음악 콘서트 투어이다.

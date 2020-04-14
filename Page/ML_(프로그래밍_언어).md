@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ML \( \)](https://ko.wikipedia.org/wiki/ML_\(_\)).
+> This article is converted from Wikipedia: [ML \(프로그래밍 언어\)](https://ko.wikipedia.org/wiki/ML_\(프로그래밍_언어\)).
 
 
 **ML**은 범용 [프로그래밍 언어의](../Page/프로그래밍_언어.md "wikilink") 일종이다. 프로그래밍 언어 분야의 핵심 연구 성과들을 잘 반영하면서도 실용적인 언어로 알려져 있다. 특히, 안전한 [타입 시스템을](https://ko.wikipedia.org/wiki/타입_시스템 "wikilink") 갖추고 있어 프로그램을 실행하는 중에 나올 수 있는 타입 에러를 실행하기 전에 미리 모두 찾아준다. 힌들리-밀너(Hindley-Milner) 타입 추론 시스템을 구현하여 [자바와](../Page/자바_\(프로그래밍_언어\).md "wikilink") 같은 길고 불편한 [자료형](../Page/자료형.md "wikilink")(타입) 표기 없이도 변수들의 자료형을 추론할 수 있다.

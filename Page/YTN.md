@@ -1,7 +1,8 @@
 > This article is converted from Wikipedia: [YTN](https://ko.wikipedia.org/wiki/YTN).
 
 
-**YTN**()은 [대한민국](../Page/대한민국.md "wikilink") 최초의 뉴스 전문 TV 채널이다. [1993년](../Page/1993년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") 설립하고, [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 방송을 시작했다. [연합통신(현 연합뉴스)의](../Page/연합뉴스.md "wikilink") 자회사로 출발했으나 [1998년](../Page/1998년.md "wikilink") 완전 독립했다. [2000년 4월](https://ko.wikipedia.org/wiki/2000년_4월 "wikilink") [남산 서울타워를](../Page/N서울타워.md "wikilink") 인수했으며, [2015년 12월](../Page/2015년_12월.md "wikilink") 사무실동을 복합 문화공간으로 탈바꿈해 'YTN 서울타워 플라자'를 개관했다. 현재 YTN 본 채널, YTN Science(과학채널), YTN Life(날씨생활정보채널), YTN World(전세계 한국어 뉴스채널) 등을 운영하고 있으며, 자회사 YTN DMB의 ⓜYTN(YTN DMB1,종합채널 DMB2,뉴스채널) (지상파DMB TV채널), YTN라디오의 YTN News FM (94.5 MHz, 뉴스전문 라디오)까지 포함해 모두 채널 6개를 보유하고 있다. 본사는 서울 [마포구](../Page/마포구.md "wikilink") 상암동 [디지털 미디어 시티에](https://ko.wikipedia.org/wiki/디지털_미디어_시티 "wikilink") 위치한 YTN "뉴스퀘어"에 있으며, 국내 16곳(경기, 인천, 강원, 충남, 대전, 충북, 세종, 부산, 울산, 대구, 경북, 경남, 전남, 광주, 전북, 제주 등)과 해외 6곳(워싱턴, 뉴욕, LA, 베이징, 도쿄, 파리 등)에 지국을 운영하고 있다. 채널번호(21,1TV 종합 24,2TV 뉴스)는 전국 어디서나 채널번호가 같다.
+
+  **YTN**()은 [대한민국](../Page/대한민국.md "wikilink") 최초의 뉴스 전문 TV 채널이다. [1993년](../Page/1993년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") 설립하고, [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 방송을 시작했다. [연합통신(현 연합뉴스)의](../Page/연합뉴스.md "wikilink") 자회사로 출발했으나 [1998년](../Page/1998년.md "wikilink") 완전 독립했다. [2000년 4월](https://ko.wikipedia.org/wiki/2000년_4월 "wikilink") [남산 서울타워를](../Page/N서울타워.md "wikilink") 인수했으며, [2015년 12월](../Page/2015년_12월.md "wikilink") 사무실동을 복합 문화공간으로 탈바꿈해 'YTN 서울타워 플라자'를 개관했다. 현재 YTN 본 채널, YTN Science(과학채널), YTN Life(날씨생활정보채널), YTN World(전세계 한국어 뉴스채널) 등을 운영하고 있으며, 자회사 YTN DMB의 ⓜYTN(YTN DMB1,종합채널 DMB2,뉴스채널) (지상파DMB TV채널), YTN라디오의 YTN News FM (94.5 MHz, 뉴스전문 라디오)까지 포함해 모두 채널 6개를 보유하고 있다. 본사는 서울 [마포구](../Page/마포구.md "wikilink") 상암동 [디지털 미디어 시티에](https://ko.wikipedia.org/wiki/디지털_미디어_시티 "wikilink") 위치한 "YTN 뉴스퀘어"에 있으며, 국내 16곳(경기, 인천, 강원, 충남, 대전, 충북, 세종, 부산, 울산, 대구, 경북, 경남, 전남, 광주, 전북, 제주 등)과 해외 6곳(워싱턴, 뉴욕, LA, 베이징, 도쿄, 파리 등)에 지국을 운영하고 있다. 채널번호(21,1TV 종합 24,2TV 뉴스)는 전국 어디서나 채널번호가 같다.
 
 ## 연혁
 
@@ -238,7 +239,7 @@
 주말 1시간 30분</p></td>
 <td><p>평일 새벽 4시 25분 ~ 아침 6시 30분<br />
 주말 새벽 4시 25분 ~ 아침 6시</p></td>
-<td><p>평일 : 김선영, 정지웅<br />
+<td><p>평일 : <a href="https://ko.wikipedia.org/wiki/김선영" title="wikilink">김선영</a>, 정지웅<br />
 주말 : 이세나</p></td>
 </tr>
 <tr class="even">
@@ -250,13 +251,13 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/뉴스LIVE" title="wikilink">뉴스LIVE</a></p></td>
 <td><p>평일 2시간</p></td>
-<td><p>평일 오전 8시 58분 ~ 오전 10시 58분</p></td>
+<td><p>평일 오전 8시 58분 ~ 오전 10시 50분</p></td>
 <td><p>이재윤, 이승민</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/뉴스N이슈.md" title="wikilink">뉴스N이슈</a></p></td>
-<td><p>평일 2시간 30분</p></td>
-<td><p>평일 오전 10시 58분 ~ 오후 1시 30분</p></td>
+<td><p>평일 2시간 40분</p></td>
+<td><p>평일 오전 10시 50분 ~ 오후 1시 30분</p></td>
 <td><p>김정아, 박광렬</p></td>
 </tr>
 <tr class="odd">
@@ -292,8 +293,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/YTN_뉴스나이트.md" title="wikilink">YTN 뉴스나이트</a><br />
-<a href="../Page/YTN_뉴스나이트.md" title="wikilink">YTN 뉴스와이드 (2150)</a></p></td>
-<td><p>매일 2시간 50분</p></td>
+(주말 : <a href="../Page/YTN_뉴스나이트.md" title="wikilink">YTN 뉴스와이드 (2150)</a>)</p></td>
+<td><p>매일 2시간 10분</p></td>
 <td><p>매일 밤 9시 50분 ~ 12시</p>
 <ul>
 <li><strong>편성시간 : <a href="https://ko.wikipedia.org/wiki/YTN_스포츠뉴스" title="wikilink">YTN 스포츠뉴스</a> - 매일 밤 11시 40분 ~ 12시</strong></li>
@@ -347,7 +348,7 @@
 
   - **YTN 시민 데스크**
       - 방송시간 : 일요일 오전 12시 20분 (재방 월요일 오전 2시 25분)
-      - 진행 : 박광렬
+      - 진행 : 안보라
 
 <!-- end list -->
 
@@ -494,7 +495,7 @@
   - [2015년](../Page/2015년.md "wikilink"): 김태민, 박서경, 김세호, 박한울, 최광현, 박광렬
   - [2016년](../Page/2016년.md "wikilink"): 권남기, 김영수, 심관흠, 안귀령, 안형석, 윤보리, 이경국, 이연아, 정지웅, 차정윤, 강려원
   - [2017년](../Page/2017년.md "wikilink"): 차해리
-  - [2019년](../Page/2019년.md "wikilink"): 나경철, 나혜인, 박소영, 송재인
+  - [2019년](../Page/2019년.md "wikilink"): 김다연, 나혜인, 박희재, 송재인, 강보경, 이규, 이수연, 진형욱, 한상원, 박상주, 정민혁
 
 ## 로고
 
@@ -502,6 +503,7 @@
 
 ### 로고멘트
 
+  - 24시간 뉴스 한국의 뉴스채널 YTN ([1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [2000년 10월](https://ko.wikipedia.org/wiki/2000년_10월 "wikilink"))
   - 한국의 뉴스채널 YTN ([1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [2000년 10월](https://ko.wikipedia.org/wiki/2000년_10월 "wikilink"))
   - 24시간 한국의 뉴스채널 YTN ([1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [2000년 10월](https://ko.wikipedia.org/wiki/2000년_10월 "wikilink"))
   - 24시간 뉴스채널 YTN 한국의 뉴스채널 YTN이 가장 빠르게 뉴스를 전합니다. ([1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [2000년 10월](https://ko.wikipedia.org/wiki/2000년_10월 "wikilink"))
@@ -567,7 +569,7 @@
 
 ## 기타
 
-  - 매년 [12월 31일](../Page/12월_31일.md "wikilink") 열리는 [제야의 종](../Page/제야의_종.md "wikilink") 타종 행사에 실시간으로 방송하고 있다.
+  - 매년 [12월 31일](../Page/12월_31일.md "wikilink") 열리는 [제야의 종](../Page/제야의_종.md "wikilink") 타종 행사에 생중계한다.
   - 하단 자막에 왼쪽은 [현재 시간과](../Page/시간.md "wikilink") 가운데는 실시간 [주요 뉴스](../Page/뉴스.md "wikilink"), 오른쪽은 [날씨](https://ko.wikipedia.org/wiki/날씨 "wikilink")\[3\] 위젯 표시가 있다.
 
 ## 각주

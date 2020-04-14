@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SBS A\&T](https://ko.wikipedia.org/wiki/SBS_A\&T).
 
 
-**SBS 에이앤티**(SBS A\&T)는 [대한민국](../Page/대한민국.md "wikilink")의 [방송](../Page/방송.md "wikilink") 예술 및 공연기획회사이다. [1998년](../Page/1998년.md "wikilink") [SBS](../Page/SBS.md "wikilink")의 방송미술부문이 분리되어 SBS 아트텍, SBS 뉴스텍으로 각각 독립법인으로 출범하였으며 [2014년](../Page/2014년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") 각 독립법인을 통합해 지금의 SBS A\&T가 출범하였다.\[1\]
+**SBS 에이앤티**(SBS A\&T)는 [대한민국](../Page/대한민국.md "wikilink")의 [방송](../Page/방송.md "wikilink") 예술 및 공연기획회사이다. [1998년](../Page/1998년.md "wikilink") [SBS](../Page/SBS.md "wikilink")의 방송미술부문이 분리되어(구) SBS 아트텍, SBS 뉴스텍으로 각각 독립법인으로 출범하였으며 [2014년](../Page/2014년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") 각 독립법인을 통합해 지금의 SBS A\&T가 출범하였다.\[1\]
 
 ## 연혁
 
-  - [1998년](../Page/1998년.md "wikilink"): SBS 아트텍, SBS 뉴스텍 창사
+  - [1998년](../Page/1998년.md "wikilink"): (구) SBS 아트텍,(구) SBS 뉴스텍 창사
   - [1999년](../Page/1999년.md "wikilink"): 방송수신기 및 기타방송 공장 등록, 조달청 경쟁업체참가 등록, 정보통신공사업 허가증 취득
   - [2000년](../Page/2000년.md "wikilink"): 대한민국 최초 평양 생방송 실시, SBS HD TV 방송시설공사 및 대한민국 최초 조달청 경쟁입찰참가 자격취득
   - [2002년](../Page/2002년.md "wikilink"): 엔지니어링 사업자 자격 취득
@@ -17,7 +17,7 @@
   - [2009년](../Page/2009년.md "wikilink"): 전시사업자 등록
   - [2010년](../Page/2010년.md "wikilink"): 합천영상테마파크 리모델링 준공, 남아공 월드컵 위성중계
   - [2011년](../Page/2011년.md "wikilink"): [보컬로이드](../Page/보컬로이드.md "wikilink") 캐릭터 [시유](../Page/시유_\(보컬로이드\).md "wikilink") 탄생
-  - [2014년](../Page/2014년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink"): SBS 아트텍, SBS 뉴스텍이 서로 합병해 SBS A\&T 출범
+  - [2014년](../Page/2014년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink"): (구) SBS 아트텍,(구) SBS 뉴스텍이 서로 합병해 SBS A\&T 출범
 
 ### 조직
 

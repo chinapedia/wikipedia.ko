@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [유벤투스 FC](https://ko.wikipedia.org/wiki/유벤투스_FC).
 
 
-**유벤투스 풋볼 클럽**()은 [이탈리아](../Page/이탈리아.md "wikilink") [피에몬테주](../Page/피에몬테주.md "wikilink") [토리노](../Page/토리노.md "wikilink")가 연고지인 [축구](../Page/축구.md "wikilink") 클럽이다. **유벤투스**(Juventus)는 [라틴어](../Page/라틴어.md "wikilink")로 **젊음**이라는 의미이며, 줄여서 **유베**(Juve)라고 한다. 별명은 엠블럼과 유니폼의 색상인 흰(Bianco)과 검정(Nero)을 뜻하는 **비안코네로**(Bianconero, 복수형 비안코네리 (Bianconeri)), **라 베키아 시뇨라**(La Vecchia Signora, 나이든 귀부인), **제브레**(Zebre, 얼룩말) 등이 있다. 이탈리아에서 3번째로 오래된 축구 클럽이며, 2006–07 시즌을 제외하고 줄곧 1부 리그인 [세리에 A에](../Page/세리에_A.md "wikilink") 있었다.
+**유벤투스 풋볼 클럽**()은 [이탈리아](../Page/이탈리아.md "wikilink") [피에몬테주](../Page/피에몬테주.md "wikilink") [토리노](../Page/토리노.md "wikilink")가 연고지인 [축구](../Page/축구.md "wikilink") 클럽이다. **유벤투스**(Juventus)는 [라틴어](../Page/라틴어.md "wikilink")로 **젊음**이라는 의미이며,\[1\] 줄여서 **유베**(Juve)라고 한다. 별명은 엠블럼과 유니폼의 색상인 흰(Bianco)과 검정(Nero)을 뜻하는 **비안코네로**(Bianconero, 복수형 비안코네리 (Bianconeri)), **라 베키아 시뇨라**(La Vecchia Signora, 나이든 귀부인), **제브레**(Zebre, 얼룩말) 등이 있다. 이탈리아에서 3번째로 오래된 축구 클럽이며, 2006–07 시즌을 제외하고 줄곧 1부 리그인 [세리에 A에](../Page/세리에_A.md "wikilink") 있었다.
 
 엠블럼 한 가운데에 있는 것은 [소](../Page/소.md "wikilink")로, 이는 연고지 [토리노](../Page/토리노.md "wikilink") 시의 어원인 타우리니(Taurini, 소의 사람들)에서 유래하였다. [토리노](../Page/토리노.md "wikilink") 시의 문양 그리고 연고지 라이벌인 [토리노 FC의](../Page/토리노_FC.md "wikilink") 문양에도 있다.
 
@@ -15,27 +15,27 @@
 
 ### 초기
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Pionieri_Juve_1898.gif "wikilink") 유벤투스는 토리노에 있는 [마시모 다젤리오](https://ko.wikipedia.org/wiki/마시모_다젤리오 "wikilink") [라이시엄](https://ko.wikipedia.org/wiki/:en:Lyceum "wikilink") 학교의 학생들이 1897년 말에 SC 유벤투스(Sport Club Juventus)라는 이름으로 창단하였지만,\[1\] 2년 뒤에 유벤투스 FC(Juventus Football Club)로 개명하였다.\[2\] 축구단은 1900년에 [이탈리아 축구 선수권 대회에](https://ko.wikipedia.org/wiki/이탈리아_축구_선수권_대회 "wikilink") 참가하였다. 이기간 동안에 팀은 분홍색과 검은색 유니폼을 입었다. 유벤투스는 [벨로드로모 움베르토 1세](https://ko.wikipedia.org/wiki/벨로드로모_움베르토_1세 "wikilink") 경기장에서도 뛰던 1905년에 처음으로 축구 선수권 대회를 우승하였다. 이때부터 팀의 상징색은 잉글랜드에 있는 [노츠카운티에](../Page/노츠_카운티_FC.md "wikilink") 영감을 받아서, 검은색과 하얀색 줄무늬로 바꿨다.\[3\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Pionieri_Juve_1898.gif "wikilink") 유벤투스는 토리노에 있는 [마시모 다젤리오](https://ko.wikipedia.org/wiki/마시모_다젤리오 "wikilink") [라이시엄](https://ko.wikipedia.org/wiki/:en:Lyceum "wikilink") 학교의 학생들이 1897년 말에 SC 유벤투스(Sport Club Juventus)라는 이름으로 창단하였지만,\[2\] 2년 뒤에 유벤투스 FC(Juventus Football Club)로 개명하였다.\[3\] 축구단은 1900년에 [이탈리아 축구 선수권 대회에](https://ko.wikipedia.org/wiki/이탈리아_축구_선수권_대회 "wikilink") 참가하였다. 이기간 동안에 팀은 분홍색과 검은색 유니폼을 입었다. 유벤투스는 [벨로드로모 움베르토 1세](https://ko.wikipedia.org/wiki/벨로드로모_움베르토_1세 "wikilink") 경기장에서도 뛰던 1905년에 처음으로 축구 선수권 대회를 우승하였다. 이때부터 팀의 상징색은 잉글랜드에 있는 [노츠카운티에](../Page/노츠_카운티_FC.md "wikilink") 영감을 받아서, 검은색과 하얀색 줄무늬로 바꿨다.\[4\]
 
-일부 운영진들이 토리노 밖으로 구장을 옮길 것을 고려하자, 1906년에 클럽이 분열되었다.\[4\] 알프레도 딕 회장은 이 사태에 안타까워하였고 일부 핵심 선수들과 함께 클럽을 떠나 [데르비 델라 몰레를](https://ko.wikipedia.org/wiki/데르비_델라_몰레 "wikilink") 낳게한 [FBC 토리노를](../Page/토리노_FC.md "wikilink") 세웠다.\[5\] 유벤투스는 팀 분열 이후에 이 기간 많은 시간들을 팀을 서서히 회복하는데 보내며, 1차 세계 대전에도 살아남았다.
+일부 운영진들이 토리노 밖으로 구장을 옮길 것을 고려하자, 1906년에 클럽이 분열되었다.\[5\] 알프레도 딕 회장은 이 사태에 안타까워하였고 일부 핵심 선수들과 함께 클럽을 떠나 [데르비 델라 몰레를](https://ko.wikipedia.org/wiki/데르비_델라_몰레 "wikilink") 낳게한 [FBC 토리노를](../Page/토리노_FC.md "wikilink") 세웠다.\[6\] 유벤투스는 팀 분열 이후에 이 기간 많은 시간들을 팀을 서서히 회복하는데 보내며, 1차 세계 대전에도 살아남았다.
 
 ### 리그 지배
 
-[피아트](../Page/피아트.md "wikilink")의 소유주 [에도아르도 아녤리가](../Page/에도아르도_아녤리.md "wikilink") 1923년에 클럽의 소유권을 획득하였고, 새 경기장을 지었다.\[6\] 이 인수는 1925–26 시즌에 [안토니오 보야크의](https://ko.wikipedia.org/wiki/안토니오_보야크 "wikilink") 놀라운 골들과 [알바 로마를](https://ko.wikipedia.org/wiki/SS_알바오다스_로마 "wikilink") 합계 12-1로 이기면서, 팀의 두 번째 스쿠데토를 차지하는데 큰 도움을 줬다.\[7\] 유벤투스는 1930년대 이후부터 이탈리아 축구계내에서 강력한 영향력을 확립하였으며, 국내에서는 처음으로 프로 축구단이 되었고 서포터들을 기반으로 분권화시켰으며, 이를 통하여 [카를로 카르카노](https://ko.wikipedia.org/wiki/카를로_카르카노 "wikilink") 감독과 [1934년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵 "wikilink") 시절 팀을 이끌던 [비토리오 포초](../Page/비토리오_포초.md "wikilink") 시대의 [이탈리아 축구 국가대표팀의](../Page/이탈리아_축구_국가대표팀.md "wikilink") [핵심](https://ko.wikipedia.org/wiki/:EN:Nazio-Juve "wikilink") 선수과 5연속 [스쿠데토](../Page/스쿠데토.md "wikilink")를 이뤄냈다.\[8\] 당시에 팀에는 [라이문도 오르시](https://ko.wikipedia.org/wiki/라이문도_오르시 "wikilink"), [루이지 베르톨리니](https://ko.wikipedia.org/wiki/루이지_베르톨리니 "wikilink"), [조반니 페라리](https://ko.wikipedia.org/wiki/조반니_페라리 "wikilink"), [루이스 몬티](../Page/루이스_몬티.md "wikilink") 같은 스타 플레이어들이 있었다.
+[피아트](../Page/피아트.md "wikilink")의 소유주 [에도아르도 아녤리가](../Page/에도아르도_아녤리.md "wikilink") 1923년에 클럽의 소유권을 획득하였고, 새 경기장을 지었다.\[7\] 이 인수는 1925–26 시즌에 [안토니오 보야크의](https://ko.wikipedia.org/wiki/안토니오_보야크 "wikilink") 놀라운 골들과 [알바 로마를](https://ko.wikipedia.org/wiki/SS_알바오다스_로마 "wikilink") 합계 12-1로 이기면서, 팀의 두 번째 스쿠데토를 차지하는데 큰 도움을 줬다.\[8\] 유벤투스는 1930년대 이후부터 이탈리아 축구계내에서 강력한 영향력을 확립하였으며, 국내에서는 처음으로 프로 축구단이 되었고 서포터들을 기반으로 분권화시켰으며, 이를 통하여 [카를로 카르카노](https://ko.wikipedia.org/wiki/카를로_카르카노 "wikilink") 감독과 [1934년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵 "wikilink") 시절 팀을 이끌던 [비토리오 포초](../Page/비토리오_포초.md "wikilink") 시대의 [이탈리아 축구 국가대표팀의](../Page/이탈리아_축구_국가대표팀.md "wikilink") [핵심](https://ko.wikipedia.org/wiki/:EN:Nazio-Juve "wikilink") 선수과 5연속 [스쿠데토](../Page/스쿠데토.md "wikilink")를 이뤄냈다.\[9\] 당시에 팀에는 [라이문도 오르시](https://ko.wikipedia.org/wiki/라이문도_오르시 "wikilink"), [루이지 베르톨리니](https://ko.wikipedia.org/wiki/루이지_베르톨리니 "wikilink"), [조반니 페라리](https://ko.wikipedia.org/wiki/조반니_페라리 "wikilink"), [루이스 몬티](../Page/루이스_몬티.md "wikilink") 같은 스타 플레이어들이 있었다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sivori,_Charles,_Boniperti.jpg "wikilink"), [찰스](../Page/존_찰스.md "wikilink") 그리고 [보니페르티](../Page/잠피에로_보니페르티.md "wikilink")\]\]
 
-유벤투스는 [스타디오 코무날레로](../Page/스타디오_올림피코_그란데_토리노.md "wikilink") 이전하였지만, 1930년대의 리그 휴식과 1940년대에 리그 지배권을 되찾지는 못하였다. [제2차 세계대전이](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 끝나고, [잔니 아녤리가](https://ko.wikipedia.org/wiki/잔니_아녤리 "wikilink") 명예회장으로 임명되었다.\[9\] 클럽은 1949–50, [1951-52](../Page/세리에_A_1951-52.md "wikilink") 시즌 두 차례 우승을 하였으며, 그중 후자는 잉글랜드 출신의 감독 [제시 카버의](https://ko.wikipedia.org/wiki/제시_카버 "wikilink") 지휘하에 이룬 것이였다. 웨일즈 출신 [존 찰스](../Page/존_찰스.md "wikilink"), 이탈리아계 아르헨티나 출신 선수 [오마르 시보리등](../Page/오마르_시보리.md "wikilink") 두 공격수가 [1957-58](../Page/세리에_A_1957-58.md "wikilink") 시즌에 영입이 되어, 오랫동안 [잠피에로 보니페르티와](../Page/잠피에로_보니페르티.md "wikilink") 함께 뛰었다. 그 시즌에 유벤투스는 리그 우승 10회를 달성하여 그들의 유니폼에 [황금 별을](https://ko.wikipedia.org/wiki/별_\(스포츠\) "wikilink") 달았다. 같은 시즌에 [오마르 시보리는](../Page/오마르_시보리.md "wikilink") 클럽 역사상 첫 [발롱도르](../Page/발롱도르.md "wikilink") 수상자가 되었다.\[10\] 다음 시즌에 유벤투스는 [피오렌티나의](../Page/ACF_피오렌티나.md "wikilink") 리그 첫 우승을 좌절시킴과 동시에 [세리에 A와](../Page/세리에_A.md "wikilink") [코파 이탈리아를](../Page/코파_이탈리아.md "wikilink") 우승하며 더블을 이룩하였다. 보니베르티가 1961년에 은퇴하였으며, 그가 이룩한 유벤투스 역사상 최다 득점 기록인 182골은 이후 [델 피에로가](https://ko.wikipedia.org/wiki/델_피에로 "wikilink") 경신하기 전까지 45년간 깨지지 않았다.\[11\]
+유벤투스는 [스타디오 코무날레로](../Page/스타디오_올림피코_그란데_토리노.md "wikilink") 이전하였지만, 1930년대의 리그 휴식과 1940년대에 리그 지배권을 되찾지는 못하였다. [제2차 세계대전이](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 끝나고, [잔니 아녤리가](https://ko.wikipedia.org/wiki/잔니_아녤리 "wikilink") 명예회장으로 임명되었다.\[10\] 클럽은 1949–50, [1951-52](../Page/세리에_A_1951-52.md "wikilink") 시즌 두 차례 우승을 하였으며, 그중 후자는 잉글랜드 출신의 감독 [제시 카버의](https://ko.wikipedia.org/wiki/제시_카버 "wikilink") 지휘하에 이룬 것이였다. 웨일즈 출신 [존 찰스](../Page/존_찰스.md "wikilink"), 이탈리아계 아르헨티나 출신 선수 [오마르 시보리등](../Page/오마르_시보리.md "wikilink") 두 공격수가 [1957-58](../Page/세리에_A_1957-58.md "wikilink") 시즌에 영입이 되어, 오랫동안 [잠피에로 보니페르티와](../Page/잠피에로_보니페르티.md "wikilink") 함께 뛰었다. 그 시즌에 유벤투스는 리그 우승 10회를 달성하여 그들의 유니폼에 [황금 별을](https://ko.wikipedia.org/wiki/별_\(스포츠\) "wikilink") 달았다. 같은 시즌에 [오마르 시보리는](../Page/오마르_시보리.md "wikilink") 클럽 역사상 첫 [발롱도르](../Page/발롱도르.md "wikilink") 수상자가 되었다.\[11\] 다음 시즌에 유벤투스는 [피오렌티나의](../Page/ACF_피오렌티나.md "wikilink") 리그 첫 우승을 좌절시킴과 동시에 [세리에 A와](../Page/세리에_A.md "wikilink") [코파 이탈리아를](../Page/코파_이탈리아.md "wikilink") 우승하며 더블을 이룩하였다. 보니베르티가 1961년에 은퇴하였으며, 그가 이룩한 유벤투스 역사상 최다 득점 기록인 182골은 이후 [델 피에로가](https://ko.wikipedia.org/wiki/델_피에로 "wikilink") 경신하기 전까지 45년간 깨지지 않았다.\[12\]
 
-10년의 남은 기간 동안, 유벤투스는 [1966-67](../Page/세리에_A_1966-67.md "wikilink") 시즌 단 한번 우승을 하는데 그쳤다.\[12\] 그럼에도, 1970년대에 이탈리아 축구내에서 강자의 입지를 더욱 굳건히 하였다. 전 유벤투스의 선수 [체스트미르 비츠팔레크](https://ko.wikipedia.org/wiki/체스트미르_비츠팔레크 "wikilink") 지휘하에 [로베르토 베테가](../Page/로베르토_베테가.md "wikilink"), [프란코 카우시오](https://ko.wikipedia.org/wiki/프란코_카우시오 "wikilink"), [호세 알타피니등의](https://ko.wikipedia.org/wiki/호세_알타피니 "wikilink") 선수들과 함께 [1966-67](https://ko.wikipedia.org/wiki/세리에_A_1971-72 "wikilink"), [1972-73](https://ko.wikipedia.org/wiki/세리에_A_1972-73 "wikilink") 시즌에 스쿠데토를 차지했다.\[13\] 10년의 남은 기간 동안, 수비수 [가에타노 시레아](../Page/가에타노_시레아.md "wikilink") 눈부신 활약덕에 두 차례 리그 우승을 더 하였다. 이후의 우승은 1980년대 초의 클럽의 리그 지배를 하게 기여하고\[14\] [1978년 FIFA 월드컵과](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink") [1982년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink") 기간이 포함된 [엔초 베아르초트의](../Page/엔초_베아르초트.md "wikilink") 시대의 이탈리아 축구 국가대표팀의 [뼈대를](https://ko.wikipedia.org/wiki/블로코유베 "wikilink") 이룬 [조반니 트라파토니](../Page/조반니_트라파토니.md "wikilink") 지휘하에 이뤘다.\[15\]\[16\]
+10년의 남은 기간 동안, 유벤투스는 [1966-67](../Page/세리에_A_1966-67.md "wikilink") 시즌 단 한번 우승을 하는데 그쳤다.\[13\] 그럼에도, 1970년대에 이탈리아 축구내에서 강자의 입지를 더욱 굳건히 하였다. 전 유벤투스의 선수 [체스트미르 비츠팔레크](https://ko.wikipedia.org/wiki/체스트미르_비츠팔레크 "wikilink") 지휘하에 [로베르토 베테가](../Page/로베르토_베테가.md "wikilink"), [프란코 카우시오](https://ko.wikipedia.org/wiki/프란코_카우시오 "wikilink"), [호세 알타피니등의](https://ko.wikipedia.org/wiki/호세_알타피니 "wikilink") 선수들과 함께 [1966-67](https://ko.wikipedia.org/wiki/세리에_A_1971-72 "wikilink"), [1972-73](https://ko.wikipedia.org/wiki/세리에_A_1972-73 "wikilink") 시즌에 스쿠데토를 차지했다.\[14\] 10년의 남은 기간 동안, 수비수 [가에타노 시레아](../Page/가에타노_시레아.md "wikilink") 눈부신 활약덕에 두 차례 리그 우승을 더 하였다. 이후의 우승은 1980년대 초의 클럽의 리그 지배를 하게 기여하고\[15\] [1978년 FIFA 월드컵과](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink") [1982년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink") 기간이 포함된 [엔초 베아르초트의](../Page/엔초_베아르초트.md "wikilink") 시대의 이탈리아 축구 국가대표팀의 [뼈대를](https://ko.wikipedia.org/wiki/블로코유베 "wikilink") 이룬 [조반니 트라파토니](../Page/조반니_트라파토니.md "wikilink") 지휘하에 이뤘다.\[16\]\[17\]
 
 ### 유럽 대항전
 
-트라파토니 시대는 1980년대에 엄청난 성공을 거뒀고, 1984년을 시작으로 80년대에 세 차례 리그 우승 타이틀을 거머줬다. 이로 인해 유벤투스는 통산 리그 우승 20회를 거뒀고 유니폼에 두 번째 별을 달었으며,\[17\] 이는 이탈리아 축구 클럽 중 최초였다. 이 시기에 유벤투스 선수들은 상당한 주목을 많이 받았는데, 이중에는 이탈리아의 [1982년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink") 우승을 이끌고 득점왕과 골든볼은 물론 그해 [발롱도르](../Page/발롱도르.md "wikilink")까지 수상한 [파올로 로시가](../Page/파올로_로시.md "wikilink") 특히 그랬다.\[18\]
+트라파토니 시대는 1980년대에 엄청난 성공을 거뒀고, 1984년을 시작으로 80년대에 세 차례 리그 우승 타이틀을 거머줬다. 이로 인해 유벤투스는 통산 리그 우승 20회를 거뒀고 유니폼에 두 번째 별을 달었으며,\[18\] 이는 이탈리아 축구 클럽 중 최초였다. 이 시기에 유벤투스 선수들은 상당한 주목을 많이 받았는데, 이중에는 이탈리아의 [1982년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink") 우승을 이끌고 득점왕과 골든볼은 물론 그해 [발롱도르](../Page/발롱도르.md "wikilink")까지 수상한 [파올로 로시가](../Page/파올로_로시.md "wikilink") 특히 그랬다.\[19\]
 
-프랑스인 [미셸 플라티니](../Page/미셸_플라티니.md "wikilink") 역시도 1983년과 1984년, 1985년 연달아 3년 연속 올해의 유럽 선수상을 수상하며 기록을 세웠다\[19\] 유벤투스는 팀 선수단중 4년 연속 올해의 유럽 선수상을 수상한 선수를 보유한 유일한 축구팀이다.\[20\] 플라티니가 [1985년 유러피언컵 결승전에서](https://ko.wikipedia.org/wiki/유러피언컵_1984-85 "wikilink") [리버풀을](../Page/리버풀_FC.md "wikilink") 상대로 결승골을 넣었는데, 이 골로 유럽 축구를 바꿔놓은 비극적인 사건인 [헤이젤 참사가](https://ko.wikipedia.org/wiki/헤이젤_참사 "wikilink") 일어나고 말았다.\[21\] 그 해 유벤투스는 UEFA 주관의 3개의 대회를 모두 우승한 첫 클럽이 되었고,\[22\]\[23\] 그후 [인터콘티넨털컵을](../Page/인터콘티넨털컵_\(축구\).md "wikilink") 우승해내며, 현재까지도 참가 가능한 모든 [대륙별](https://ko.wikipedia.org/wiki/FIFA "wikilink") 대회와 [세계 타이틀을](../Page/FIFA_클럽_월드컵.md "wikilink") 모두 우승해낸 전세계에 유일한 축구팀이 되었다.\[24\]
+프랑스인 [미셸 플라티니](../Page/미셸_플라티니.md "wikilink") 역시도 1983년과 1984년, 1985년 연달아 3년 연속 올해의 유럽 선수상을 수상하며 기록을 세웠다\[20\] 유벤투스는 팀 선수단중 4년 연속 올해의 유럽 선수상을 수상한 선수를 보유한 유일한 축구팀이다.\[21\] 플라티니가 [1985년 유러피언컵 결승전에서](https://ko.wikipedia.org/wiki/유러피언컵_1984-85 "wikilink") [리버풀을](../Page/리버풀_FC.md "wikilink") 상대로 결승골을 넣었는데, 이 골로 유럽 축구를 바꿔놓은 비극적인 사건인 [헤이젤 참사가](https://ko.wikipedia.org/wiki/헤이젤_참사 "wikilink") 일어나고 말았다.\[22\] 그 해 유벤투스는 UEFA 주관의 3개의 대회를 모두 우승한 첫 클럽이 되었고,\[23\]\[24\] 그후 [인터콘티넨털컵을](../Page/인터콘티넨털컵_\(축구\).md "wikilink") 우승해내며, 현재까지도 참가 가능한 모든 [대륙별](https://ko.wikipedia.org/wiki/FIFA "wikilink") 대회와 [세계 타이틀을](../Page/FIFA_클럽_월드컵.md "wikilink") 모두 우승해낸 전세계에 유일한 축구팀이 되었다.\[25\]
 
-이탈리아 챔피언에 오른 [1985-86을](https://ko.wikipedia.org/wiki/세리에_A_1985-86 "wikilink") 제외하고는 그 이후 80년대에 들어서 유벤투스는 성공적이지 못한 세월을 보냈다. 그 시기에는 [디에고 마라도나의](../Page/디에고_마라도나.md "wikilink") 나폴리와 [밀란](../Page/AC_밀란.md "wikilink") 그리고 [인테르나치오날레](../Page/FC_인테르나치오날레_밀라노.md "wikilink"), 두 밀라노 클럽과 경쟁을 했어야 했다.\[25\] 1990년, 유벤투스는 [1990년 FIFA 월드컵을](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") 위해 지어졌던 [스타디오 델레 알피로](../Page/스타디오_델레_알피.md "wikilink") 홈 경기장을 옮겼다.\[26\]
+이탈리아 챔피언에 오른 [1985-86을](https://ko.wikipedia.org/wiki/세리에_A_1985-86 "wikilink") 제외하고는 그 이후 80년대에 들어서 유벤투스는 성공적이지 못한 세월을 보냈다. 그 시기에는 [디에고 마라도나의](../Page/디에고_마라도나.md "wikilink") 나폴리와 [밀란](../Page/AC_밀란.md "wikilink") 그리고 [인테르나치오날레](../Page/FC_인테르나치오날레_밀라노.md "wikilink"), 두 밀라노 클럽과 경쟁을 했어야 했다.\[26\] 1990년, 유벤투스는 [1990년 FIFA 월드컵을](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") 위해 지어졌던 [스타디오 델레 알피로](../Page/스타디오_델레_알피.md "wikilink") 홈 경기장을 옮겼다.\[27\]
 
 ### 리피 시대의 성공
 
@@ -55,7 +55,7 @@
 
 ### 세리에 A 복귀 (2007-08)
 
-[2007-08](../Page/세리에_A_2007-08.md "wikilink") 시즌 세리에 A로 복귀한 후, 유벤투스는 [클라우디오 라니에리를](../Page/클라우디오_라니에리.md "wikilink") 감독으로 선임하였다. 그들은 복귀 후 첫 시즌만에 상위권인 리그 3위로 시즌을 마쳤고, [챔피언스리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2008-09 "wikilink") 3차 예선전 출전권이 주어졌다. 유벤투스는 조별예선전에 진출하여, 같은 조에 있던 [레알 마드리드를](../Page/레알_마드리드_CF.md "wikilink") 홈, 원정에서 모두 이기고, 16강에 진출했지만 [첼시에게](../Page/첼시_FC.md "wikilink") 탈락하였다. 라니에리는 성적 부진으로 경질됐고 남은 [2008-09](../Page/세리에_A_2008-09.md "wikilink") 시즌 종료를 두 경기를 앞두고 [치로 페라라가](../Page/치로_페라라.md "wikilink") 임시 감독으로 선임되었다. 그후 그는 [2009-10](../Page/세리에_A_2009-10.md "wikilink") 시즌 정식 감독이 되었다.\[27\]
+[2007-08](../Page/세리에_A_2007-08.md "wikilink") 시즌 세리에 A로 복귀한 후, 유벤투스는 [클라우디오 라니에리를](../Page/클라우디오_라니에리.md "wikilink") 감독으로 선임하였다. 그들은 복귀 후 첫 시즌만에 상위권인 리그 3위로 시즌을 마쳤고, [챔피언스리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2008-09 "wikilink") 3차 예선전 출전권이 주어졌다. 유벤투스는 조별예선전에 진출하여, 같은 조에 있던 [레알 마드리드를](../Page/레알_마드리드_CF.md "wikilink") 홈, 원정에서 모두 이기고, 16강에 진출했지만 [첼시에게](../Page/첼시_FC.md "wikilink") 탈락하였다. 라니에리는 성적 부진으로 경질됐고 남은 [2008-09](../Page/세리에_A_2008-09.md "wikilink") 시즌 종료를 두 경기를 앞두고 [치로 페라라가](../Page/치로_페라라.md "wikilink") 임시 감독으로 선임되었다. 그후 그는 [2009-10](../Page/세리에_A_2009-10.md "wikilink") 시즌 정식 감독이 되었다.\[28\]
 
 하지만 페라라의 유벤투스 감독 부임 기간에 [챔피언스리그와](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2009-10 "wikilink") [코파 이탈리아에서](https://ko.wikipedia.org/wiki/코파_이탈리아_2009–10 "wikilink") 탈락하며 실패했음이 증명되었고, 2010년 1월 말에 리그에서 6위에 그치자, 페라라를 경질시키고 임시 감독으로 [알베르토 차케로니를](https://ko.wikipedia.org/wiki/알베르토_차케로니 "wikilink") 부임시켰다. 차케리니는 7위로 마감하며 상황을 회복하는데 도움을 주지 못 했다. [세리에 A 2010-11](../Page/세리에_A_2010-11.md "wikilink") 시즌에는 [안드레아 아녤리가](https://ko.wikipedia.org/wiki/안드레아_아녤리 "wikilink") [장클로드 블랑을](https://ko.wikipedia.org/wiki/장클로드_블랑 "wikilink") 대신하여 유벤투스의 회장으로 부임하였다. 아녤리의 첫 행동은 차케로니와 스포츠 단장이였던 [알레시오 세코를](https://ko.wikipedia.org/wiki/알레시오_세코 "wikilink") [삼프도리아의](../Page/UC_삼프도리아.md "wikilink") 감독 [루이지 델네리와](https://ko.wikipedia.org/wiki/루이지_델네리 "wikilink") 단장 [주세페 마로타로](https://ko.wikipedia.org/wiki/주세페_마로타 "wikilink") 교체한 것이였다. 하지만 델네리 역시도 상황을 역전시키는데는 실패했고 경질됐다. [시에나의](https://ko.wikipedia.org/wiki/AC_시에나 "wikilink") 승격으로 이루고 유벤투스 출신 선수이자 팬들이 선호했던 신임 감독인 [안토니오 콘테가](../Page/안토니오_콘테.md "wikilink") 델네리의 후임으로 임명되었다. 2011년 9월, 유베는 [유벤투스 스타디움으로](../Page/유벤투스_스타디움.md "wikilink") 홈 경기장을 옮겼다.
 
@@ -81,21 +81,21 @@
 
 </div>
 
-유벤투스는 1903년 이래로 검은색과 하얀색스 스트라이프 줄무늬가 있는 상의와 하얀색 하의, 가끔식은 검은색 하의를 입고 경기를 뛰었다. 본래 유벤투스는 검은색 타이가 있는 분홍색 상의를 입었으나, 이는 오직 잘못 배달된 유니폼을 받았기 때문이였다. 선수 아버지 중 한명이 초창기의 유니폼을 제작했으나, 계속된 세탁으로 유니폼 색깔이 빠지게 되어, 1903년에 기존의 유니폼을 대체할 새로운 것을 찾게 되었다.\[28\]
+유벤투스는 1903년 이래로 검은색과 하얀색스 스트라이프 줄무늬가 있는 상의와 하얀색 하의, 가끔식은 검은색 하의를 입고 경기를 뛰었다. 본래 유벤투스는 검은색 타이가 있는 분홍색 상의를 입었으나, 이는 오직 잘못 배달된 유니폼을 받았기 때문이였다. 선수 아버지 중 한명이 초창기의 유니폼을 제작했으나, 계속된 세탁으로 유니폼 색깔이 빠지게 되어, 1903년에 기존의 유니폼을 대체할 새로운 것을 찾게 되었다.\[29\]
 
-유벤투스는 팀 선수 중 한 명인 잉글랜드 출신인 존 새비지에게 잉글랜드에서 더 나은 색깔의 새로운 유니폼을 공급해줄 연락책이 있는지 물어봤었다. 그는 노팅엄에 [노츠 카운티의](../Page/노츠_카운티_FC.md "wikilink") 서포터 친구가 살고 있었는데, 그가 토리노로 노츠 카운티의 유니폼 색깔과 같은 검은색 하얀색 스트라이프 줄무늬가 있는 유니폼을 보냈다.\[29\] 유베는 유니폼 디자인이 공격적이고 강하다고 생각해 그 후로 계속 입었다.\[30\]
+유벤투스는 팀 선수 중 한 명인 잉글랜드 출신인 존 새비지에게 잉글랜드에서 더 나은 색깔의 새로운 유니폼을 공급해줄 연락책이 있는지 물어봤었다. 그는 노팅엄에 [노츠 카운티의](../Page/노츠_카운티_FC.md "wikilink") 서포터 친구가 살고 있었는데, 그가 토리노로 노츠 카운티의 유니폼 색깔과 같은 검은색 하얀색 스트라이프 줄무늬가 있는 유니폼을 보냈다.\[30\] 유베는 유니폼 디자인이 공격적이고 강하다고 생각해 그 후로 계속 입었다.\[31\]
 
 ## 선수단
 
 ### 최근 명단
 
-2019년 8월 13일 기준''\[31\]
+2019년 8월 13일 기준''\[32\]
 
 ## 코칭 스태프
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sarri_2016.jpg "wikilink")\]\]
 
-\[32\]
+\[33\]
 
 <table>
 <thead>
@@ -455,7 +455,7 @@
 
 ## 비판
 
-2019년 7월 26일, 대한민국 서울에서 개최된 팀 [K리그](../Page/K리그.md "wikilink")와의 친선경기에서 계약서에 명시된 [크리스티아누 호날두의](https://ko.wikipedia.org/wiki/크리스티아누_호날두 "wikilink") 45분 이상 의무 출전 조항 파기 등 무성의한 태도로 한국 축구팬들에게 많은 비판을 받았다.\[33\]
+2019년 7월 26일, 대한민국 서울에서 개최된 팀 [K리그](../Page/K리그.md "wikilink")와의 친선경기에서 계약서에 명시된 [크리스티아누 호날두의](https://ko.wikipedia.org/wiki/크리스티아누_호날두 "wikilink") 45분 이상 의무 출전 조항 파기 등 무성의한 태도로 한국 축구팬들에게 많은 비판을 받았다.\[34\]
 
 ## 문양, 별 의미
 
@@ -494,23 +494,24 @@
 11.
 12.
 13.
-14. name=officialtitles
-15.
+14.
+15. name=officialtitles
 16.
 17.
 18.
 19.
 20.
 21.
-22. name="Giovanni Trapattoni"
-23. name="El Mundo Deportivo"
-24.
+22.
+23. name="Giovanni Trapattoni"
+24. name="El Mundo Deportivo"
 25.
 26.
 27.
-28.  Extracts taken from the *Official History of Notts County* and article kindly reproduced by the *[Daily Mail](https://ko.wikipedia.org/wiki/Daily_Mail "wikilink")*.
-29.
+28.
+29.  Extracts taken from the *Official History of Notts County* and article kindly reproduced by the *[Daily Mail](https://ko.wikipedia.org/wiki/Daily_Mail "wikilink")*.
 30.
 31.
 32.
-33. [로빈 장 대표 "호날두 불출전, 후반 10분에 알았다… 일방적 통보 당했다](https://sports.news.naver.com/kfootball/news/read.nhn?oid=436&aid=0000032838)
+33.
+34. [로빈 장 대표 "호날두 불출전, 후반 10분에 알았다… 일방적 통보 당했다](https://sports.news.naver.com/kfootball/news/read.nhn?oid=436&aid=0000032838)

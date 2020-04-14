@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 청룡](https://ko.wikipedia.org/wiki/MBC_청룡).
 
 
 **MBC 청룡**(MBC Chungyong)은 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink")를 연고지로 한 [프로 야구팀이었다](https://ko.wikipedia.org/wiki/프로_야구 "wikilink"). [한국야구위원회](../Page/한국야구위원회.md "wikilink") 소속으로, [한국프로야구](https://ko.wikipedia.org/wiki/한국프로야구 "wikilink") 출범당시 리그의 흥행을 위해 [서울특별시](../Page/서울특별시.md "wikilink") 연고지로 하고 [동대문야구장](../Page/동대문야구장.md "wikilink")을 홈 구장으로 사용했으나, 이후 [잠실야구장](https://ko.wikipedia.org/wiki/잠실야구장 "wikilink")으로 홈구장을 이전하여 사용, [LG 트윈스에](../Page/LG_트윈스.md "wikilink") 이르는 현재까지 서울을 연고로 하는 구단이다. 역대 프로 야구 팀 중 유일하게 구단 명칭을 [영어](../Page/영어.md "wikilink")식 이름이 아닌 [한자](../Page/한자.md "wikilink")식 이름으로 사용했다.

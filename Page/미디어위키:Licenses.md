@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Licenses](https://ko.wikipedia.org/wiki/:Licenses).
+> This article is converted from Wikipedia: [미디어위키:Licenses](https://ko.wikipedia.org/wiki/미디어위키:Licenses).
 
 
   - 저작권 정보 없음|저작권이 확실하지 않음

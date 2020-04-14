@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LPG \( \)](https://ko.wikipedia.org/wiki/LPG_\(_\)).
+> This article is converted from Wikipedia: [LPG \(음악 그룹\)](https://ko.wikipedia.org/wiki/LPG_\(음악_그룹\)).
 
 
 **LPG**(**L**ovely **P**retty **G**irls)는 [대한민국](../Page/대한민국.md "wikilink")의 여성 그룹이다. 2005년 4인조로 데뷔하였으며, 2009년 멤버 전원이 탈퇴한 뒤 5인조로 재편했다. 약자 또한 1기의 약자는 'Long Pretty Girl'이었으나 2기의 약자는 'Lovely Pretty Girl'로 바뀌었다. 2013년에 3기에서 9인조로 바뀌었으나 2015년에 5명이 탈퇴하면서 4인조로 재정비함과 동시에 장르도 K-pop, 댄스 장르로 바꿔서 활동하였다. 2016년 해체되었다.

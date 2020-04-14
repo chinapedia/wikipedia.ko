@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ER \(\)](https://ko.wikipedia.org/wiki/ER_\(\)).
+> This article is converted from Wikipedia: [ER \(드라마\)](https://ko.wikipedia.org/wiki/ER_\(드라마\)).
 
 
 《**ER**》은 [미국](../Page/미국.md "wikilink") [NBC](../Page/NBC.md "wikilink")에서 [1994년](../Page/1994년.md "wikilink") [9월 19일부터](../Page/9월_19일.md "wikilink") [2009년](../Page/2009년.md "wikilink") [4월 2일까지](../Page/4월_2일.md "wikilink") 방영된 [의학 드라마이다](https://ko.wikipedia.org/wiki/드라마 "wikilink").

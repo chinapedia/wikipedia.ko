@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BAND](https://ko.wikipedia.org/wiki/_BAND).
+> This article is converted from Wikipedia: [나카노모리 BAND](https://ko.wikipedia.org/wiki/나카노모리_BAND).
 
 
 **나카노모리 BAND**(BAND)는 나카노모리 아야코()를 중심으로 구성된 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").

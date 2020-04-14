@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B ](https://ko.wikipedia.org/wiki/B_).
+> This article is converted from Wikipedia: [B 트리](https://ko.wikipedia.org/wiki/B_트리).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:B-tree.svg "wikilink") [전산학](https://ko.wikipedia.org/wiki/전산학 "wikilink")에서 **B-트리**(B-tree)는 [데이터베이스](../Page/데이터베이스.md "wikilink")와 [파일 시스템에서](../Page/파일_시스템.md "wikilink") 널리 사용되는 [트리 자료구조의](https://ko.wikipedia.org/wiki/트리_구조 "wikilink") 일종으로, [이진 트리를](../Page/이진_트리.md "wikilink") 확장해 하나의 노드가 가질 수 있는 자식 노드의 최대 숫자가 2보다 큰 트리 구조이다.

@@ -11,7 +11,7 @@
 
 ## 멤버
 
-  - **쓰치야 레오** (, [1976년](../Page/1976년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") - ): 리드 테너
+  - **쓰치야 레오**(, [1976년](../Page/1976년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") - ): 리드 테너
 
 <!-- end list -->
 
@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - **히키치 요스케** (, [1978년](../Page/1978년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") - ) : 바리톤 (리더)
+  - **히키치 요스케**(, [1978년](../Page/1978년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") - ) : 바리톤 (리더)
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - **아라이 겐이치** (, [1979년](../Page/1979년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") - ): 테너
+  - **아라이 겐이치**(, [1979년](../Page/1979년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") - ): 테너
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 
 <!-- end list -->
 
-  - **가토 요시유키** (, [1978년](../Page/1978년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") - ): 하이 테너
+  - **가토 요시유키**(, [1978년](../Page/1978년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") - ): 하이 테너
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@
 
 <!-- end list -->
 
-  - **가노 다카마사** (, [1976년](../Page/1976년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") - ): 베이스
+  - **가노 다카마사**(, [1976년](../Page/1976년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") - ): 베이스
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - **오쿠무라 마사요시** (, [1978년](../Page/1978년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") - ): 보이스 퍼커션
+  - **오쿠무라 마사요시**(, [1978년](../Page/1978년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") - ): 보이스 퍼커션
 
 <!-- end list -->
 

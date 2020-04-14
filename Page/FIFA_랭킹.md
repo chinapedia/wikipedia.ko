@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA ](https://ko.wikipedia.org/wiki/FIFA_).
+> This article is converted from Wikipedia: [FIFA 랭킹](https://ko.wikipedia.org/wiki/FIFA_랭킹).
 
 
 **FIFA 랭킹**()은 세계 각국의 [축구](../Page/축구.md "wikilink")실력을 비교하기 위해 [1993년](../Page/1993년.md "wikilink") [8월](../Page/8월.md "wikilink")에 도입된 순위이다. 정식 명칭은 스폰서인 [코카콜라](https://ko.wikipedia.org/wiki/코카콜라 "wikilink")의 이름을 포함하여 **FIFA/코카콜라 세계 랭킹**(FIFA/Coca-Cola World Ranking)이다.

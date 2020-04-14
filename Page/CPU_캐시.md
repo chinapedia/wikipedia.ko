@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CPU ](https://ko.wikipedia.org/wiki/CPU_).
+> This article is converted from Wikipedia: [CPU 캐시](https://ko.wikipedia.org/wiki/CPU_캐시).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:cachebasic_kor.PNG "wikilink")

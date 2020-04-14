@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F.  ](https://ko.wikipedia.org/wiki/F.__).
+> This article is converted from Wikipedia: [F. 스콧 피츠제럴드](https://ko.wikipedia.org/wiki/F._스콧_피츠제럴드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Francis_Scott_Fitzgerald_1937_June_4_\(1\)_\(photo_by_Carl_van_Vechten\).jpg "wikilink")

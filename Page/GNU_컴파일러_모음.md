@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU  ](https://ko.wikipedia.org/wiki/GNU__).
+> This article is converted from Wikipedia: [GNU 컴파일러 모음](https://ko.wikipedia.org/wiki/GNU_컴파일러_모음).
 
 
 **GNU 컴파일러 모음**(, 줄여서 **GCC**)는 [GNU 프로젝트의](../Page/GNU_프로젝트.md "wikilink") 일환으로 개발되어 널리 쓰이고 있는 [컴파일러](../Page/컴파일러.md "wikilink")이다.

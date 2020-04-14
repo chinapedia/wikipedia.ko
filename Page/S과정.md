@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S](https://ko.wikipedia.org/wiki/S).
+> This article is converted from Wikipedia: [S과정](https://ko.wikipedia.org/wiki/S과정).
 
 
 **S과정**(S-process)은 낮은 중성자 밀도 및 낮은 온도를 지닌 방사성 물질의 중성자 포획 과정이다. S은 영어 slow(느린)를 나타낸다. P-과정 및 R-과정도 참조하기 바란다. S-과정은 골짜기 모양의 베타 안정성 조건을 따르면서 안정된 [동위원소](https://ko.wikipedia.org/wiki/동위원소 "wikilink")를 만들어낸다.

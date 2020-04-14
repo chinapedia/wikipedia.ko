@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [팜 OS](https://ko.wikipedia.org/wiki/팜_OS).
 
 
 **팜 OS**()는 [팜소스](https://ko.wikipedia.org/wiki/팜소스 "wikilink")(PalmSource, Inc.)에서 개발한 [PDA](https://ko.wikipedia.org/wiki/PDA "wikilink") 및 [스마트폰](../Page/스마트폰.md "wikilink") [운영 체제로](../Page/운영_체제.md "wikilink"), 여러 회사들에서 [라이선스](https://ko.wikipedia.org/wiki/라이선스 "wikilink")를 취득하여 사용하고 있다. 쉽게 사용할 수 있도록 설계되어 있으며, 전화번호부, 시계, 메모장, 동기화, 보안 소프트웨어 등을 기본 탑재하고 있다. [1996년](../Page/1996년.md "wikilink")에 그 첫 버전이 나온 이래로, 현재 버전 6.1(코발트)까지 나와 있는 상태이다.

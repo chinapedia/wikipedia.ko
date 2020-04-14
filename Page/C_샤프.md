@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C ](https://ko.wikipedia.org/wiki/C_).
+> This article is converted from Wikipedia: [C 샤프](https://ko.wikipedia.org/wiki/C_샤프).
 
 
 **C\#**(, 원래는 **C♯**)는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")에서 개발한 [객체 지향](../Page/객체_지향_프로그래밍.md "wikilink") [프로그래밍 언어로](../Page/프로그래밍_언어.md "wikilink"), [닷넷 프레임워크의](../Page/닷넷_프레임워크.md "wikilink") 한 부분으로 만들었으며 나중에 [ECMA](../Page/Ecma_인터내셔널.md "wikilink") (ECMA-334)와 [ISO](../Page/국제_표준화_기구.md "wikilink") (ISO/IEC/23270)의 표준으로 자리잡았다. [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")와 [자바의](../Page/자바_\(프로그래밍_언어\).md "wikilink") 문법과 비슷한 문법을 가지고 있다.

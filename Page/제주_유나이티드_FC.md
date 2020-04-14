@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [제주 유나이티드 FC](https://ko.wikipedia.org/wiki/제주_유나이티드_FC).
 
 
 **제주 유나이티드 FC**()는 [K리그2](../Page/K리그2.md "wikilink")에 소속된 [대한민국](../Page/대한민국.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink")단으로, [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") [서귀포시](https://ko.wikipedia.org/wiki/서귀포시 "wikilink")\[1\]를 [연고지로](../Page/K리그_연고지.md "wikilink") 두고 있다.
@@ -106,7 +106,7 @@
 
 ### 현재 선수 명단
 
-[2020년](../Page/2020년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink") 기준
+[2020년](../Page/2020년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") 기준
 
 ### 임대 및 군 복무 중인 선수
 
@@ -543,7 +543,7 @@
 ## 외부 링크
 
   -
-  - [제주 유나이티드 웹사이트](http://www.jeju-utd.com)
+  - [제주 유나이티드 웹사이트](https://web.archive.org/web/20070527220716/http://www.jeju-utd.com/)
 
   - [제주 유나이티드 페이스북](https://www.facebook.com/fcjejuunited)
 

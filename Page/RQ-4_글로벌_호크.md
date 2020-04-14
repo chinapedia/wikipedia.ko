@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RQ-4  ](https://ko.wikipedia.org/wiki/RQ-4__).
+> This article is converted from Wikipedia: [RQ-4 글로벌 호크](https://ko.wikipedia.org/wiki/RQ-4_글로벌_호크).
 
 
 **노스럽 그러먼 RQ-4 글로벌 호크**(, 개발 당시 명칭은 **Tier II+**)는 미 공군에서 [정찰기](../Page/정찰기.md "wikilink")로 사용되는 [무인 항공기](https://ko.wikipedia.org/wiki/무인기 "wikilink")(Unmanned Aerial Vehicle, [UAV](https://ko.wikipedia.org/wiki/UAV "wikilink"))이다. 고고도 장기체공기라고 하여 [HALE기라고](https://ko.wikipedia.org/wiki/HALE_\(무인기\) "wikilink") 불린다. 곧 [록히드 U-2를](../Page/록히드_U-2.md "wikilink") 대체하게 될 것이라고 발표되었지만 U-2는 퇴역하지 않고 운용중이다.

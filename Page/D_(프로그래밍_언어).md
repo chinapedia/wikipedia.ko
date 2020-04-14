@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D \( \)](https://ko.wikipedia.org/wiki/D_\(_\)).
+> This article is converted from Wikipedia: [D \(프로그래밍 언어\)](https://ko.wikipedia.org/wiki/D_\(프로그래밍_언어\)).
 
 
 **D**는 [디지털 마스의](https://ko.wikipedia.org/wiki/디지털_마스 "wikilink") [월터 브라이트가](https://ko.wikipedia.org/wiki/월터_브라이트 "wikilink") 개발한 [객체 지향](../Page/객체_지향_프로그래밍.md "wikilink") [명령형](../Page/명령형_프로그래밍.md "wikilink") 프로그래밍 언어이다. 2001년 공개되었다. [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")의 리엔지니어링으로 기원하였으나 D는 해당 언어와는 별개의 언어이다. 일부 핵심 C++ 기능들을 다시 설계하였으며 [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [파이썬](../Page/파이썬.md "wikilink"), [루비](../Page/루비.md "wikilink"), [C\#](../Page/C_샤프.md "wikilink"), [에펠](https://ko.wikipedia.org/wiki/에펠 "wikilink")과 같은 다른 언어들의 특징들을 공유하기도 한다.

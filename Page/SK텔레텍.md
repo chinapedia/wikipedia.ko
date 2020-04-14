@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK텔레텍](https://ko.wikipedia.org/wiki/SK텔레텍).
 
 
 **SK텔레텍**(SK Teletech)은 [팬택](../Page/팬택.md "wikilink")에 흡수 합병된 옛 [대한민국](../Page/대한민국.md "wikilink")의 [휴대전화](https://ko.wikipedia.org/wiki/휴대전화 "wikilink") 단말기 제조사였다.

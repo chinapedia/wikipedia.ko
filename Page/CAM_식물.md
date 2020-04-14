@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CAM ](https://ko.wikipedia.org/wiki/CAM_).
+> This article is converted from Wikipedia: [CAM 식물](https://ko.wikipedia.org/wiki/CAM_식물).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Starr_020630-0018_Ananas_comosus.jpg "wikilink")\]\] **CAM 식물**(-植物)은 밤에 [이산화탄소](https://ko.wikipedia.org/wiki/이산화탄소 "wikilink")(CO<sub>2</sub>)를 받아들여 [말산](../Page/말산.md "wikilink")형태로 저장했다가 낮에 말산을 탈탄산반응으로 탄산이온을 얻어 당을 합성하는 [광합성](../Page/광합성.md "wikilink") 형태를 가진 [식물](../Page/식물.md "wikilink")을 의미한다.

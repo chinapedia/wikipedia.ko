@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P \(\)](https://ko.wikipedia.org/wiki/P_\(\)).
+> This article is converted from Wikipedia: [P \(복잡도\)](https://ko.wikipedia.org/wiki/P_\(복잡도\)).
 
 
 **P**(**PTIME** 또는 **[DTIME](https://ko.wikipedia.org/wiki/DTIME "wikilink")**(*n*<sup>O(1)</sup>))는 [결정론적 튜링 기계로](https://ko.wikipedia.org/wiki/결정론적_튜링_기계 "wikilink") [다항 시간](https://ko.wikipedia.org/wiki/다항_시간 "wikilink") 안에 풀 수 있는 [판정 문제를](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") 모아 놓은 [복잡도 종류이다](../Page/복잡도_종류.md "wikilink"). [선형 계획](../Page/선형_계획법.md "wikilink") 제품, [최대공약수](../Page/최대공약수.md "wikilink") 문제 등이 P에 포함되며, [2002년](../Page/2002년.md "wikilink")에는 주어진 숫자가 [소수인지](../Page/소수_\(수론\).md "wikilink") 판별하는 문제도 P에 속한다는 것이 증명되었다\[1\]

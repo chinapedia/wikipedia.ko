@@ -42,9 +42,9 @@ UTF-8은 여러 표준 문서에서 다른 방법으로 정의되어 있지만, 
 </tr>
 <tr class="even">
 <td><p><code>010000-10FFFF</code></p></td>
-<td><p><code>110110yy yyxxxxxx 110111xx xxxxxxxx</code></p></td>
+<td><p><code>110110ZZ ZZxxxxxx 110111xx xxxxxxxx</code></p></td>
 <td><p><code>11110zzz 10zzxxxx 10xxxxxx 10xxxxxx</code></p></td>
-<td><p>UTF-16 서러게이트 쌍 영역 (yyyy = zzzzz - 1).<br />
+<td><p>UTF-16 서러게이트 쌍 영역 (ZZZZ = zzzzz - 1).<br />
 UTF-8로 표시된 비트 패턴은 실제 코드 포인트와 동일하다.</p></td>
 </tr>
 </tbody>

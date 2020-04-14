@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA   ](https://ko.wikipedia.org/wiki/FIFA___).
+> This article is converted from Wikipedia: [FIFA 월드컵 공식 경기구](https://ko.wikipedia.org/wiki/FIFA_월드컵_공식_경기구).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FIFA_-_world_cup_ballen.JPG "wikilink") [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink") 본부에 있는 역대 FIFA 월드컵 공식 경기구\]\]
