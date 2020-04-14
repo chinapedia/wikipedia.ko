@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [뉴캐슬 유나이티드 제츠 FC](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드_제츠_FC).
 
 
 **뉴캐슬 유나이티드 제츠 FC**(Newcastle United Jets FC)는 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로축구단이다. 연고지는 [뉴사우스웨일스주](../Page/뉴사우스웨일스주.md "wikilink")의 [시드니](../Page/시드니.md "wikilink")의 북쪽에 있는 해안도시인 [뉴캐슬로](../Page/뉴캐슬_\(뉴사우스웨일스주\).md "wikilink") 현재 오스트레일리아의 1부 리그인 [A-리그](https://ko.wikipedia.org/wiki/A-리그 "wikilink")에 참가하고 있다. 뉴캐슬 유나이티드 제츠는 2007-08시즌을 정규리그 2위로 마치고 최종시리즈 결승에 진출하여 [센트럴코스트 매리너스를](../Page/센트럴코스트_매리너스_FC.md "wikilink") 1 대 0으로 물리치고 [A리그](../Page/A리그.md "wikilink") 챔피언이 되었다. 이로 인해 뉴캐슬 제츠는 [AFC 챔피언스리그 2009에](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2009 "wikilink") 참가한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS](https://ko.wikipedia.org/wiki/OS).
+> This article is converted from Wikipedia: [썬OS](https://ko.wikipedia.org/wiki/썬OS).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SunOS_4.1.1_P1270750.jpg "wikilink")

@@ -5,7 +5,7 @@
 
 ## 활동
 
-8eight()는 리더이자 보컬인 [이현과](../Page/이현_\(1983년\).md "wikilink") 홍일점 보컬 [주희](../Page/주희_\(가수\).md "wikilink"), 랩과 보컬 [백찬](https://ko.wikipedia.org/wiki/백찬 "wikilink")이 속한 혼성 그룹이다. [2007년](../Page/2007년.md "wikilink") [MBC의](../Page/문화방송.md "wikilink") 《쇼바이벌》이라는 프로그램에서 첫 번째 시즌에서 우승하였고, 같은 해 [8월 23일](../Page/8월_23일.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[쇼\! 음악 중심](https://ko.wikipedia.org/wiki/쇼!_음악_중심 "wikilink")》에서 데뷔무대를 가졌으며 [8월 25일](../Page/8월_25일.md "wikilink") 정규 앨범 《The First》를 발매하였다.
+[2007년](../Page/2007년.md "wikilink") [MBC의](../Page/문화방송.md "wikilink") 《쇼바이벌》이라는 프로그램에서 첫 번째 시즌에서 우승하였고, 같은 해 [8월 23일](../Page/8월_23일.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[쇼\! 음악 중심](https://ko.wikipedia.org/wiki/쇼!_음악_중심 "wikilink")》에서 데뷔무대를 가졌으며 [8월 25일](../Page/8월_25일.md "wikilink") 정규 앨범 《The First》를 발매하였다.
 
 8eight라는 팀명은 무한대 기호 '∞'를 세우면 '8'이 된다는 것에서 착안한 것으로, 무한한 가능성과 열정으로 다양하고 진보적인 음악을 선보이겠다는 멤버들의 의지가 담겨있다.
 
@@ -259,9 +259,9 @@
   - [2009년](../Page/2009년.md "wikilink") 나라사랑 태극사랑 무궁화 패션쇼 메인모델 (designer 박종철 / 이현 + 백찬)
   - [2010년](../Page/2010년.md "wikilink") 2010 Mnet Asia Music Awards Theme Song <Music> with 2PM준수, 부활, 브라운아이드걸스(제아,나르샤), 슈프림팀
 
-## 수상목록
+## 수상
 
-  - [2007년](../Page/2007년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 쇼바이벌 S-1 그랑프리 우승
+  - [2007년](../Page/2007년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") [MBC](../Page/문화방송.md "wikilink") 쇼바이벌 S-1 그랑프리 우승
   - [2007년](../Page/2007년.md "wikilink") [싸이월드](../Page/싸이월드.md "wikilink") 디지털 뮤직 어워드 '9월의 Rookie Of The Month'
   - [2009년](../Page/2009년.md "wikilink") 제1회 멜론 뮤직 어워드 'TOP 10'
   - [2009년](../Page/2009년.md "wikilink") 맨즈헬스 'COOL GUY 최고가수상'

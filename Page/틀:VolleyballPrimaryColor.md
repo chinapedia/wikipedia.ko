@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:VolleyballPrimaryColor](https://ko.wikipedia.org/wiki/:VolleyballPrimaryColor).
+> This article is converted from Wikipedia: [틀:VolleyballPrimaryColor](https://ko.wikipedia.org/wiki/틀:VolleyballPrimaryColor).
 
 
 <includeonly>{{\#switch:  | 구미 LIG손해보험 그레이터스 = background: \#E1002A; color: \#FFFFFF | 대전 삼성 블루팡스 = background: \#074CA1; color: \#ffffff | 서울 우리카드 한새 = background: \#114A90; color: \#FFFFFF | 수원 한국전력 빅스톰 = background: \#ED1C24; color: \#ffffff | 안산 OK저축은행 러시앤캐시 = background: \#FFDD00; color: \#000000 | 인천 대한항공 점보스 = background: skyblue; color: \#0046AF | 천안 현대캐피탈 스카이워커스 = background: \#000000; color: \#ffffff

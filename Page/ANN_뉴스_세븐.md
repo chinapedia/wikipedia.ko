@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ANN  ](https://ko.wikipedia.org/wiki/ANN__).
+> This article is converted from Wikipedia: [ANN 뉴스 세븐](https://ko.wikipedia.org/wiki/ANN_뉴스_세븐).
 
 
 **ANN 뉴스 세븐**은 일본의 민영방송국 [TV 아사히를](../Page/TV_아사히.md "wikilink") 중심으로 한 [ANN계열](../Page/올_닛폰_뉴스_네트워크.md "wikilink") 방송국에서 [1975년](../Page/1975년.md "wikilink") [3월 31일부터](../Page/3월_31일.md "wikilink") [1987년](../Page/1987년.md "wikilink") [9월 27일까지](../Page/9월_27일.md "wikilink") 방송했던 아침 뉴스 프로그램이다.

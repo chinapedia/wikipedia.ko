@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AT\&T ](https://ko.wikipedia.org/wiki/AT\&T_).
+> This article is converted from Wikipedia: [AT\&T 랩스](https://ko.wikipedia.org/wiki/AT\&T_랩스).
 
 
 **AT\&T 랩스**(AT\&T Labs, Inc.)는 [미국](../Page/미국.md "wikilink")의 거대 [통신](../Page/통신.md "wikilink") 기업 [AT\&T](../Page/AT&T.md "wikilink")의 R\&D 부문을 총괄하는 AT\&T 내 자회사이다. 예전에 존재하던 AT\&T 래브러토리즈(AT\&T Laboratories), SBC 래브러토리즈(SBC Laboratories), 벨사우스 래브러토리즈(BellSouth Laboratories) 조직을 포괄한다.

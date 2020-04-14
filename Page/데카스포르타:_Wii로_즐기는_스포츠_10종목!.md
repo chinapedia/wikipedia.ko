@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: Wii   10!](https://ko.wikipedia.org/wiki/:_Wii___10!).
+> This article is converted from Wikipedia: [데카스포르타: Wii로 즐기는 스포츠 10종목!](https://ko.wikipedia.org/wiki/데카스포르타:_Wii로_즐기는_스포츠_10종목!).
 
 
 **데카스포르타 Wii로 즐기는 스포츠 "10"종목\!**은 [허드슨이](../Page/허드슨_소프트.md "wikilink") 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어이다. 대한민국에서는 [2009년](../Page/2009년.md "wikilink") [4월 23일에](../Page/4월_23일.md "wikilink") 발매되었고 [희망 소비자 가격은](https://ko.wikipedia.org/wiki/희망_소비자_가격 "wikilink") 43,000원이다. [아디다스](../Page/아디다스.md "wikilink")의 후원을 받은 게임이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [한국케이블TV푸른방송](https://ko.wikipedia.org/wiki/한국케이블TV푸른방송).
 
 
 **한국케이블TV푸른방송 주식회사**(약칭 **GCS**)는 [대구광역시](../Page/대구광역시.md "wikilink") [달서구](https://ko.wikipedia.org/wiki/달서구 "wikilink"), [달성군](../Page/달성군.md "wikilink")을 서비스 구역으로 하는 대한민국의 케이블SO사업자이다.\[1\] [1993년](../Page/1993년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") **흥진종합유선방송**으로서 설립되어 오늘날에 이르고 있다.

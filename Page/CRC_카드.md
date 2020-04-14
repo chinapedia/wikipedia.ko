@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CRC ](https://ko.wikipedia.org/wiki/CRC_).
+> This article is converted from Wikipedia: [CRC 카드](https://ko.wikipedia.org/wiki/CRC_카드).
 
 
 **CRC 카드**(Class-responsibility-collaboration card)는 [객체 지향](https://ko.wikipedia.org/wiki/객체_지향 "wikilink") [소프트웨어 설계에서](https://ko.wikipedia.org/wiki/소프트웨어_설계 "wikilink") 사용되는 [브레인 스토밍](https://ko.wikipedia.org/wiki/브레인_스토밍 "wikilink") 툴이다. CRC는 "Class - Responsibility - collaborator"(객체 - 책임 - 공동 작업자)의 약자. [워드 커닝엄이](https://ko.wikipedia.org/wiki/워드_커닝엄 "wikilink") 고안하였다. 일반적으로 디자인을 시작할 때 어떤 [객체](https://ko.wikipedia.org/wiki/객체 "wikilink")가 필요하고 그들이 어떻게 상호 연계할지 여부를 결정하는 데 사용한다.

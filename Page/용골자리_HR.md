@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HR](https://ko.wikipedia.org/wiki/_HR).
+> This article is converted from Wikipedia: [용골자리 HR](https://ko.wikipedia.org/wiki/용골자리_HR).
 
 
 **용골자리 HR**(HR Carinae)은 [용골자리](../Page/용골자리.md "wikilink") 방향으로 지구로부터 약 16,000광년 떨어져 있는 [밝은 청색변광성](../Page/밝은_청색변광성.md "wikilink")(이하 LBV)이다. 지금까지 [우리 은하](https://ko.wikipedia.org/wiki/우리_은하 "wikilink") 안에서 발견된 LBV는 그리 많지 않으며, 적은 수효만큼 이들은 극도로 밝고 뜨거운 존재이다. 용골자리 HR의 주변에는 자신이 뿜어낸 물질들이 [성운](../Page/성운.md "wikilink") 형태의 구조를 형성하고 있으며, 외관은 [용골자리 에타의](../Page/용골자리_에타.md "wikilink") 그것과 매우 비슷하다.

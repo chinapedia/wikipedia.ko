@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Buono!](https://ko.wikipedia.org/wiki/:Buono!).
+> This article is converted from Wikipedia: [틀:Buono!](https://ko.wikipedia.org/wiki/틀:Buono!).
 
 
 <onlyinclude></onlyinclude>

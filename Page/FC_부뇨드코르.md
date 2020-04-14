@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 부뇨드코르](https://ko.wikipedia.org/wiki/FC_부뇨드코르).
 
 
 **FC 부뇨드코르**()는 [우즈베키스탄](../Page/우즈베키스탄.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽으로, 우즈베키스탄의 [수도](../Page/수도.md "wikilink")인 [타슈켄트](../Page/타슈켄트.md "wikilink")를 연고로 한다. 부뇨드코르는 [2005년](../Page/2005년.md "wikilink")에 **PFC 쿠루프치**라는 명칭으로 창단되었으며 2007 시즌에 [우즈벡 리그](https://ko.wikipedia.org/wiki/우즈벡_리그 "wikilink") 준우승을 하면서 [AFC 챔피언스리그에](../Page/AFC_챔피언스리그.md "wikilink") 처음으로 진출, 준결승까지 올라갔다. 이후 [2008년](../Page/2008년.md "wikilink") 8월에 클럽 명칭을 현재의 명칭으로 변경하였다.

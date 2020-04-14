@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SAE](https://ko.wikipedia.org/wiki/_SAE).
+> This article is converted from Wikipedia: [포뮬러 SAE](https://ko.wikipedia.org/wiki/포뮬러_SAE).
 
 
 **포뮬러 SAE**(Formula SAE, FSAE) 대회는 [미국](../Page/미국.md "wikilink") 자동차공학회 소속의 학생들이 스스로 소형 포뮬러 스타일의 차량을 설계하고 제작하는 대회이다. 차량 프레임과 엔진에 엄격한 규정을 두어 학생들이 스스로의 지식과 창의성, 상상력을 무한히 발휘할 수 있도록 하고 있다. 각 팀의 차량은 약 1년의 기간 동안 피나는 노력을 거쳐 제작되며 대회장 에서 30년 이상의 현장 경험을 지닌 전문가들에게 평가를 받게 된다. 전 세계에서 약 100여대의 차량이 참가하는 만큼 다양한 제작 공법과 테스트 방법이 존재 하며, 대회장에서 서로의 방식을 공유하고 즐긴다. 공학도에게 차량 제작 간의 일련의 과정은 헌신적인 노력이 필요할 뿐만 아니라 공학 프로젝트 진행/참여를 할 기회를 제공한다. 대회 참가를 통해 실제 차량이 양산되면서 겪는 과정에 대해 폭넓게 경험할 수 있도록 하고 있다. 미국의 빅3 ([다임러-크라이슬러](https://ko.wikipedia.org/wiki/다임러-크라이슬러 "wikilink"), [포드](https://ko.wikipedia.org/wiki/포드_자동차_회사 "wikilink"), [제네럴 모터스](https://ko.wikipedia.org/wiki/제네럴_모터스 "wikilink")), [일본](../Page/일본.md "wikilink")의 [도요타](https://ko.wikipedia.org/wiki/도요타 "wikilink"), [혼다](https://ko.wikipedia.org/wiki/혼다 "wikilink"), [미쓰비시](https://ko.wikipedia.org/wiki/미쓰비시 "wikilink") 등의 완성차 메이커와 [가야바](https://ko.wikipedia.org/wiki/가야바 "wikilink"), [덴소](../Page/덴소.md "wikilink"), [보쉬](https://ko.wikipedia.org/wiki/보쉬 "wikilink") 등의 자동차 부품 생산 업체, Dassault System등의 자동차 설계 관련 프로그램 회사 등 많은 회사들이 자발적으로 후원하고 있다. 현재 미국의 3개지역(미시건, 캘리포니아, 버지니아)과 오스트레일리아, 이탈리아, 영국, 독일, 일본 등 여러나라에서 대규모의 경기가 개최되고 있으며, 중국 및 태국에서는 독자적으로 대회를 개최하고 있다. 대한민국에서는 2009년도 2월에 대회 개최 가능성을 가늠해 보기 위한 Pre 이벤트가 열렸다.
@@ -24,5 +24,3 @@
   - [Formula SAE](http://students.sae.org/competitions/formulaseries/fsae/)
 
 [분류:대회](https://ko.wikipedia.org/wiki/분류:대회 "wikilink")
-
-[es:Fórmula SAE](https://ko.wikipedia.org/wiki/es:Fórmula_SAE "wikilink")

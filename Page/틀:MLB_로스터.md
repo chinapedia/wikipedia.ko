@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:MLB ](https://ko.wikipedia.org/wiki/:MLB_).
+> This article is converted from Wikipedia: [틀:MLB 로스터](https://ko.wikipedia.org/wiki/틀:MLB_로스터).
 
 
 <table>

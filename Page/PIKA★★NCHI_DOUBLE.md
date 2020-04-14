@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PIKANCHI DOUBLE](https://ko.wikipedia.org/wiki/PIKANCHI_DOUBLE).
+> This article is converted from Wikipedia: [PIKA★★NCHI DOUBLE](https://ko.wikipedia.org/wiki/PIKA★★NCHI_DOUBLE).
 
 
 〈**PIKA★★NCHI DOUBLE**〉은 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [아라시](../Page/아라시.md "wikilink")의 12번째 [싱글](../Page/싱글_\(음악\).md "wikilink") [음반](../Page/음반.md "wikilink")이다. [제이스톰](https://ko.wikipedia.org/wiki/제이스톰 "wikilink")이 이 음반의 판매를 담당하였다.

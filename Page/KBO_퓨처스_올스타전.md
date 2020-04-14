@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO  ](https://ko.wikipedia.org/wiki/KBO__).
+> This article is converted from Wikipedia: [KBO 퓨처스 올스타전](https://ko.wikipedia.org/wiki/KBO_퓨처스_올스타전).
 
 
 **KBO 퓨쳐스 올스타전**(KBO Future's All-Star Game)은 [KBO 퓨처스리그](../Page/KBO_퓨처스리그.md "wikilink") 선수들의 동기부여와 자긍심을 위해 2007년부터 개최하고 있는 대회이다. [춘천](https://ko.wikipedia.org/wiki/춘천시 "wikilink") [의암야구장](../Page/의암야구장.md "wikilink")에서 열렸던 [2007년](../Page/2007년.md "wikilink")을 첫 회로 시작하고 있다. 본 명칭은 **한국 야구 퓨쳐스 올스타전**이었으나 한국야구위원회의 브랜드 아이덴디티 통합 작업에 따라 2015시즌부터 **KBO 퓨처스 올스타전**이라는 새로운 명칭을 사용하게 되었다.

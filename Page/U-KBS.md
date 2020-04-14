@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [U-KBS](https://ko.wikipedia.org/wiki/U-KBS).
 
 
-**U-KBS**는 [한국방송공사](../Page/한국방송공사.md "wikilink")가 운영하는 [대한민국](../Page/대한민국.md "wikilink")의 [지상파DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 방송국이다. [2005년](../Page/2005년.md "wikilink") [12월 1일부터](../Page/12월_1일.md "wikilink") 방송을 개시하였다.\[1\]
+**U-KBS**는 [한국방송공사](../Page/한국방송공사.md "wikilink")가 운영하는 [대한민국](../Page/대한민국.md "wikilink")의 [지상파DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 방송국이다. [2005년](../Page/2005년.md "wikilink") [12월 1일부터](../Page/12월_1일.md "wikilink") 방송을 개시하였다\[1\].
 
 ## 채널 구성
 
-| 앙상블명                                                         | 채널명                                                               | 송출형식         | 전송속도    | 자체/임대                                     | 비고                         |
-| ------------------------------------------------------------ | ----------------------------------------------------------------- | ------------ | ------- | ----------------------------------------- | -------------------------- |
-| U-KBS                                                        | | [HD KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 비디오 채널 (DMB) | 512kbps | 자체                                        | 2020년 1월 1일 U-KBS 로고 표출 폐지 |
-| [KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 비디오 채널 (DMB)                                                      | 320kbps      | 자체      | 2020년 1월 1일 U-KBS 로고 표출 폐지                |                            |
-| [KBS HEART](../Page/KBS_2TV.md "wikilink")                   | 비디오 채널 (DMB)                                                      | 352kbps      | 자체      | 2020년 1월 1일 자체 편성 폐지                      |                            |
-| KBS MUSIC                                                    | V-Radio 채널 (DMB)                                                  | 128kbps      | 자체      | [2FM](../Page/KBS_제2FM.md "wikilink") 수중계 |                            |
-| KBS CLOVER                                                   | 데이터 채널                                                            | 128kbps      | 자체      |                                           |                            |
+| 조합명                                                          | 채널명                                                             | 송출 형식                | 전송 속도                                     | 운영 방식 | 비고                         |
+| ------------------------------------------------------------ | --------------------------------------------------------------- | -------------------- | ----------------------------------------- | ----- | -------------------------- |
+| U-KBS                                                        | [HD KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 비디오 채널 (DMB)         | 512kbps                                   | 자체    | 2020년 1월 1일 U-KBS 로고 표출 중지 |
+| [KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 320kbps                                                         |                      |                                           |       |                            |
+| [KBS HEART](../Page/KBS_2TV.md "wikilink")                   | 352kbps                                                         | 2020년 1월 1일 자체 편성 중지 |                                           |       |                            |
+| KBS MUSIC                                                    | V-Radio 채널 (DMB)                                                | 128kbps              | [2FM](../Page/KBS_제2FM.md "wikilink") 수중계 |       |                            |
+| KBS CLOVER                                                   | 데이터 채널                                                          | 128kbps 자체           |                                           |       |                            |
 
 ## 비디오 채널
 
@@ -55,12 +55,9 @@
 
 ## 데이터 채널
 
-  - U-KBS CLOVER
+### U-KBS CLOVER
 
-<!-- end list -->
-
-  -
-    **U-KBS CLOVER**는 부가 데이터 서비스, 교통정보, 웹서비스 등 다양한 데이터 서비스를 제공하는 채널이다. 내비게이션에서는 서비스를 제공하고 있다.
+**U-KBS CLOVER**는 부가 데이터 서비스, 교통정보, 웹서비스 등 다양한 데이터 서비스를 제공하는 채널이다. 내비게이션에서는 서비스를 제공하고 있다.
 
 ## 방송 송출 시설망
 
@@ -156,6 +153,6 @@
 
 [분류:한국방송공사](https://ko.wikipedia.org/wiki/분류:한국방송공사 "wikilink") [분류:2005년 설립](https://ko.wikipedia.org/wiki/분류:2005년_설립 "wikilink")
 
-1.  단, [제주총국은](../Page/KBS제주방송총국.md "wikilink") KBS STAR 채널의 경우 본사 1TV 대신 제주 1TV 지역방송을 수중계하고 있다.
+1.  단, [제주총국은](../Page/KBS제주방송총국.md "wikilink") KBS STAR 채널에 한해 본사 1TV가 아닌 제주 1TV의 편성을 수중계하고 있다.
 2.  [김천 DMBR 신실 시설공사](https://tender.kbs.co.kr/tender/notice_in/view.kbs?code=6111500133)
 3.  [방송 장비 2차 구매(DMB 송신ANT 2종)](https://tender.kbs.co.kr/tender/view.kbs?code=6121600033)

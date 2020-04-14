@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C ](https://ko.wikipedia.org/wiki/C_).
+> This article is converted from Wikipedia: [C 셸](https://ko.wikipedia.org/wiki/C_셸).
 
 
 **C 셸**(C shell, csh)은 [빌 조이가](../Page/빌_조이.md "wikilink") 개발한 [유닉스](../Page/유닉스.md "wikilink")용 [셸](../Page/셸.md "wikilink")로, [본 셸보다](../Page/본_셸.md "wikilink") 한층 강력하고 사용하기 쉬운 셸이다.

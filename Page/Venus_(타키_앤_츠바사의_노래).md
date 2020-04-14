@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Venus \(   \)](https://ko.wikipedia.org/wiki/Venus_\(___\)).
+> This article is converted from Wikipedia: [Venus \(타키 앤 츠바사의 노래\)](https://ko.wikipedia.org/wiki/Venus_\(타키_앤_츠바사의_노래\)).
 
 
 **Venus**(비너스)는 [일본](../Page/일본.md "wikilink")의 [아이돌 그룹인](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink") [타키 앤 츠바사의](https://ko.wikipedia.org/wiki/타키_앤_츠바사 "wikilink") 6번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 일본을 포함하여 한국, 중국, 홍콩, 타이, 대만에 동시 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BOWY](https://ko.wikipedia.org/wiki/BOWY).
+> This article is converted from Wikipedia: [BOØWY](https://ko.wikipedia.org/wiki/BOØWY).
 
 
 **BOØWY**는 [일본](../Page/일본.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 그룹명은 한자어 '暴威(폭위)' 에서 따온 것이고, [데이비드 보위와는](../Page/데이비드_보위.md "wikilink") 관련이 없다.

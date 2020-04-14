@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IKU \(\)](https://ko.wikipedia.org/wiki/IKU_\(\)).
+> This article is converted from Wikipedia: [IKU \(가수\)](https://ko.wikipedia.org/wiki/IKU_\(가수\)).
 
 
 **이쿠**(IKU, いく, 1월 22일\~ )는 일본 홋카이도 출신의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다.

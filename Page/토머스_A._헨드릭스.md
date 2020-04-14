@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [토머스 A. 헨드릭스](https://ko.wikipedia.org/wiki/토머스_A._헨드릭스).
 
 
 **토머스 앤드류스 헨드릭스**(, [1819년](../Page/1819년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") \~ [1885년](../Page/1885년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 하원의원이자 상원의원이었고, [인디애나주](../Page/인디애나주.md "wikilink")의 주지사였으며 미국의 제 21대 [부통령이었다](../Page/미국의_부통령.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [X맨](https://ko.wikipedia.org/wiki/X맨).
 
 
 《**X맨**》은 [SBS TV에서](../Page/SBS_TV.md "wikilink") 방영한 [텔레비전 프로그램이며](../Page/텔레비전_프로그램.md "wikilink") [2003년](../Page/2003년.md "wikilink") [11월 8일부터](../Page/11월_8일.md "wikilink") [2007년](../Page/2007년.md "wikilink") [4월 8일까지](../Page/4월_8일.md "wikilink") 방영되었다.
@@ -7,7 +7,7 @@
 
 [200px](https://ko.wikipedia.org/wiki/파일:GoodSundayNewXman.jpg "wikilink")
 
-  - [2003년](../Page/2003년.md "wikilink") [11월 8일부터](../Page/11월_8일.md "wikilink") 첫방송했고 초창기에 본격 심리 추리 버라이어티를 표방하며 [실제상황 토요일의](../Page/실제상황_토요일.md "wikilink") 1부 코너편성으로 방송을 시작했다.
+  - [2003년](../Page/2003년.md "wikilink") [11월 8일부터](../Page/11월_8일.md "wikilink") 첫방송되어, 초창기에 본격 심리 추리 버라이어티를 표방하며 [실제상황 토요일의](../Page/실제상황_토요일.md "wikilink") 1부 코너편성으로 방송을 시작했다.
   - [2004년](../Page/2004년.md "wikilink") [10월 10일부터](../Page/10월_10일.md "wikilink") [일요일이 좋다의](../Page/일요일이_좋다.md "wikilink") 1부 코너 편성으로 황금시간대를 이동했다.
   - [2006년](../Page/2006년.md "wikilink") [11월 5일부터](../Page/11월_5일.md "wikilink") [2007년](../Page/2007년.md "wikilink") [4월 8일까지](../Page/4월_8일.md "wikilink") 독립편성으로 **일요일이 좋다 X맨**으로 제목을 변경해 방송하였다.
 
@@ -218,9 +218,9 @@
 
 #### 당시 아이돌 스타
 
-  - [신화](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") - [2004년](../Page/2004년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink"), [17일](../Page/10월_17일.md "wikilink") 신화 특집 방송
-  - (구) [동방신기](../Page/동방신기.md "wikilink") - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"), [8일](../Page/10월_8일.md "wikilink") 동방신기 특집 방송
-  - [문희준](../Page/문희준.md "wikilink"), [장우혁](../Page/장우혁.md "wikilink"), [토니 안](../Page/토니_안.md "wikilink"), [강타](../Page/강타.md "wikilink"), [이재원](../Page/이재원_\(가수\).md "wikilink") - 前 [H.O.T.](../Page/H.O.T..md "wikilink") 멤버들 모두 한번 이상은 출연했다.
+  - [신화](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") : [2004년](../Page/2004년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink"), [17일](../Page/10월_17일.md "wikilink") 신화 특집 방송
+  - (구) [동방신기](../Page/동방신기.md "wikilink") : [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"), [8일](../Page/10월_8일.md "wikilink") 동방신기 특집 방송
+  - [문희준](../Page/문희준.md "wikilink"), [장우혁](../Page/장우혁.md "wikilink"), [토니 안](../Page/토니_안.md "wikilink"), [강타](../Page/강타.md "wikilink"), [이재원](../Page/이재원_\(가수\).md "wikilink") - [H.O.T.](../Page/H.O.T..md "wikilink") 멤버들 (모두 한번 이상은 출연했다.)
   - [SS501](../Page/SS501.md "wikilink")
   - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")
 
@@ -259,10 +259,12 @@
   - **쪼아\~**: 원래 신정환이 기분을 가다듬을 때 했던 말을 유재석과 강호동이 유행시켰다. 프로그램 중간에 나온 **좋아송**과 쪼아댄스도 히트했다.
   - **죽지 않아**: 2006년 초 하명국에 대항하는 지진테가 결성되었을때 나온 하명국의 유행어이다. 양 손과 한쪽 발을 내밀며 "죽지 않아, 죽지 않아"를 연발하며 큰 웃음을 주었다. 원래는 박명수의 아이디어였으나 하하가 **놓치고 싶지 않아**와 함께 유행시켰다.
 
+## 각주
+
 ## 외부 링크
 
   - [SBS X맨 홈페이지](http://tv.sbs.co.kr/xman/index.html)
 
-[분류:일요일이 좋다](https://ko.wikipedia.org/wiki/분류:일요일이_좋다 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:X맨 "wikilink") [분류:대한민국의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_게임_쇼 "wikilink") [분류:2003년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2003년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2007년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2007년에_종료한_대한민국_TV_프로그램 "wikilink") [분류:소재고갈로 인한 폐지된 프로그램](https://ko.wikipedia.org/wiki/분류:소재고갈로_인한_폐지된_프로그램 "wikilink")
+[분류:일요일이 좋다](https://ko.wikipedia.org/wiki/분류:일요일이_좋다 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:X맨 "wikilink") [분류:대한민국의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_게임_쇼 "wikilink") [분류:2003년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2003년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2007년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2007년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.  특히 2005년 7월 X맨 복귀 이후, 당연하지 태국 특집에서 이민기의 '너는 싫으냐?'에 윤은혜의 귀를 막으면서 '당연하지'라고 말해 주위를 난리치게 했다. 해당 장면은 이후 런닝맨 X맨 특집에서 일부 재현되기도 했다.

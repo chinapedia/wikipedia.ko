@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SEED](https://ko.wikipedia.org/wiki/__SEED).
+> This article is converted from Wikipedia: [기동전사 건담 SEED](https://ko.wikipedia.org/wiki/기동전사_건담_SEED).
 
 
 《**기동전사 건담 SEED**》(-시드, )는 [선라이즈에서](https://ko.wikipedia.org/wiki/선라이즈_\(스튜디오\) "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 TV 애니메이션이자 비우주세기 건담 작품이다. 국내에서도 정식판과 자막판으로 방영된 바가 있으며, 건담 시리즈 중에서 가장 높은 시청률을 자랑하기 때문에 가장 다시 보고 싶은 명작으로 뽑혔다.

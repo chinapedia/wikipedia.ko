@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC \(\)](https://ko.wikipedia.org/wiki/_FC_\(\)).
+> This article is converted from Wikipedia: [알샤바브 FC \(리야드\)](https://ko.wikipedia.org/wiki/알샤바브_FC_\(리야드\)).
 
 
 **알샤바브 FC**(, )는 [사우디아라비아](../Page/사우디아라비아.md "wikilink")의 축구 클럽으로, [1947년](../Page/1947년.md "wikilink")에 *샤바브 알리야드*란 이름으로 창단되었다. 그 후 [1967년](../Page/1967년.md "wikilink")에 현재의 이름으로 변경하였다. 연고지는 [수도](../Page/수도.md "wikilink")인 [리야드](../Page/리야드.md "wikilink")이다.

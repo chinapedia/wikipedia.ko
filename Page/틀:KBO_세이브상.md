@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBO ](https://ko.wikipedia.org/wiki/:KBO_).
+> This article is converted from Wikipedia: [틀:KBO 세이브상](https://ko.wikipedia.org/wiki/틀:KBO_세이브상).
 
 
 <onlyinclude></onlyinclude>

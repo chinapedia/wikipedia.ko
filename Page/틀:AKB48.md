@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AKB48](https://ko.wikipedia.org/wiki/:AKB48).
+> This article is converted from Wikipedia: [틀:AKB48](https://ko.wikipedia.org/wiki/틀:AKB48).
 
 
 <onlyinclude> }}</onlyinclude>

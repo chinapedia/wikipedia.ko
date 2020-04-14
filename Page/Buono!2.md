@@ -11,25 +11,25 @@
     （작사：카와카미 나츠키　작곡・편곡：키노시타 요시유키）
 2.  **[Kiss\! Kiss\! Kiss\!](https://ko.wikipedia.org/wiki/Kiss!_Kiss!_Kiss! "wikilink")**
     （작사：[이와사토 유호](../Page/이와사토_유호.md "wikilink")　작곡：이노우에 신지로　편곡：니시카와 스스무）
-3.  **반짝반짝** ()
+3.  **반짝반짝**()
     （작사：이와사토 유호　작곡・편곡：AKIRASTAR）
 4.  **소실점\~Vanishing Point\~** (消失点〜Vanishing Point〜)
     （작사：카와카미 나츠키　작곡：사키야 켄지로　편곡：사쿠마 마코토）
-5.  **[롯타라 롯타라](../Page/롯타라_롯타라.md "wikilink")** ()
+5.  **[롯타라 롯타라](../Page/롯타라_롯타라.md "wikilink")**()
     （작사：이와사토 유호　작곡：이노우에 신지로　편곡：니시카와 스스무）
 6.  **[co・no・mi・chi](https://ko.wikipedia.org/wiki/co・no・mi・chi "wikilink")**
     （작사：미우라 요시코　작곡：[층쿠♂](https://ko.wikipedia.org/wiki/쓴쿠 "wikilink")　편곡：AKIRASTAR・나카야마 노부히코）
-7.  **모두 정말 좋아** ()
+7.  **모두 정말 좋아**()
     （작사：C.Piece　작곡：AKIRASTAR　편곡：아베 쥰）
 8.  **I NEED YOU**
     （작사：이와사토 유호　작곡：AKIRASTAR　편곡：니시카와 스스무）
-9.  **[진검승부로 가자\!](../Page/진검승부로_가자!.md "wikilink")** ()
+9.  **[진검승부로 가자\!](../Page/진검승부로_가자!.md "wikilink")**()
     （작사：이와사토 유호　작곡：무라마츠 테츠야　편곡：니시카와 스스무）
 10. **You're My Friend**
     （작사：이와사토 유호　작곡・편곡：AKIRASTAR）
 11. **OVER THE RAIBOW**
     （작사：이와사토 유호　작곡：[Gajin](https://ko.wikipedia.org/wiki/Gajin "wikilink")　편곡：사쿠마 마코토）
-12. **골** ()
+12. **골**()
     （작사：AKIRASTAR・이와사토 유호　작곡：AKIRASTAR　편곡：이노우에 신지로・AKIRASTAR）
 
 ### DVD

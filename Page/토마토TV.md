@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [토마토TV](https://ko.wikipedia.org/wiki/토마토TV).
 
 
 《**토마토TV**》는 [증권](https://ko.wikipedia.org/wiki/증권 "wikilink")정보 업체인 **이토마토**에서 운영하는 [증권](https://ko.wikipedia.org/wiki/증권 "wikilink") 정보 [방송](../Page/방송.md "wikilink")으로 [2002년](../Page/2002년.md "wikilink") [10월](../Page/10월.md "wikilink")에 개국하였다.

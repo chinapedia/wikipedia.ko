@@ -257,7 +257,7 @@ ETS가 공개한 쓰기 평가 기준은 모호한 표현으로 가득찬 상투
 2.
 3.
 4.
-5.  [TOEFL iBT Locations and Dates](http://www.ets.org/Media/Tests/TOEFL/tclists/IBT_a.html)
+5.
 6.
 7.  일부 시험장에서는 5분 동안 나가 있다가 5분 동안 앉아서 준비하는 것을 허락한다.
 8.  예외적으로 강의가 지문에 동의하거나 강의가 지문에서 제기한 문제에 대한 해결책을 제시하는 경우도 있다.

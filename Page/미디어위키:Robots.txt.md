@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Robots.txt](https://ko.wikipedia.org/wiki/:Robots.txt).
+> This article is converted from Wikipedia: [미디어위키:Robots.txt](https://ko.wikipedia.org/wiki/미디어위키:Robots.txt).
 
 
 ` #   `

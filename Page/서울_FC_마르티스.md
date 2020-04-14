@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC ](https://ko.wikipedia.org/wiki/_FC_).
+> This article is converted from Wikipedia: [서울 FC 마르티스](https://ko.wikipedia.org/wiki/서울_FC_마르티스).
 
 
 **서울 FC 마르티스**()는 [2009년](../Page/2009년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")에 참가한 기독교 선교 축구단이다.

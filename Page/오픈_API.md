@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [ API](https://ko.wikipedia.org/wiki/_API).
+> This article is converted from Wikipedia: [오픈 API](https://ko.wikipedia.org/wiki/오픈_API).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Open-APIs-v5.png "wikilink") **오픈 API**(Open Application Programming Interface, Open API, 공개 API)는 누구나 사용할 수 있도록 공개된 [API](../Page/API.md "wikilink")를 말하며, 개발자에게 사유 응용 소프트웨어나 웹 서비스에 프로그래밍적인 권한을 제공한다.\[1\]\[2\]
 
 이것은 "하나의 웹 사이트에서 자신이 가진 기능을 이용할 수 있도록 공개한 프로그래밍 인터페이스가 오픈 API이다"라고 정의할수있다.\[3\]
 
-[구글맵](https://ko.wikipedia.org/wiki/구글맵 "wikilink"), [오픈스트리트맵](../Page/오픈스트리트맵.md "wikilink") 등이 대표적인 예이다. 지도 서비스 및 다양한 서비스들에서 시도되고 있으며 누구나 접근하여 사용할 수 있다는 장점이 있다. [메타블로그](https://ko.wikipedia.org/wiki/메타블로그 "wikilink")도 오픈 API를 사용하여 만든 예이다.
+[네이버 지도](https://www.ncloud.com/product/applicationService/maps), [구글맵](https://ko.wikipedia.org/wiki/구글맵 "wikilink"), [오픈스트리트맵](../Page/오픈스트리트맵.md "wikilink") 등이 대표적인 예이다. 지도 서비스 및 다양한 서비스들에서 시도되고 있으며 누구나 접근하여 사용할 수 있다는 장점이 있다. [메타블로그](https://ko.wikipedia.org/wiki/메타블로그 "wikilink")도 오픈 API를 사용하여 만든 예이다. 최근에 코로나 사태로 라이브코로나, 코로나 맵 등의 서비스가 생겼는데, 네이버클라우드플랫폼의 API 지원을 받고 있다.
 
 ## 공공데이터
 

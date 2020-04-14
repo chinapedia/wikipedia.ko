@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [USS  C.  \(CVN-74\)](https://ko.wikipedia.org/wiki/USS__C.__\(CVN-74\)).
+> This article is converted from Wikipedia: [USS 존 C. 스테니스 \(CVN-74\)](https://ko.wikipedia.org/wiki/USS_존_C._스테니스_\(CVN-74\)).
 
 
-**USS 존 C. 스테니스 (CVN-74)**는 미시시피의 정치가 [존 C. 스테니스의](../Page/존_C._스테니스.md "wikilink") 이름에서 따온, [미국 해군의](../Page/미국_해군.md "wikilink") [니미츠급](../Page/니미츠급_항공모함.md "wikilink") [원자력](../Page/원자력.md "wikilink") [항공 모함이다](https://ko.wikipedia.org/wiki/항공_모함 "wikilink"). 스테니스함은 1995년 12월 9일에 배치되었다. [모항](https://ko.wikipedia.org/wiki/모항 "wikilink")은 [워싱턴주](../Page/워싱턴주.md "wikilink")의 [브레머턴](https://ko.wikipedia.org/wiki/브레머턴 "wikilink")이다. 다수의 미국 영화와 게임등에서 공격당하거나 반파, 대파되는 항공모함으로 나오는 이색적인 이력이 있다. (직접적인 항모의 이름은 언급되지 않는 경우가 많았으나 항모의 번호 '74'가 노출됨)
+**USS 존 C. 스테니스(CVN-74)**는 미시시피의 정치가 [존 C. 스테니스의](../Page/존_C._스테니스.md "wikilink") 이름에서 따온, [미국 해군의](../Page/미국_해군.md "wikilink") [니미츠급](../Page/니미츠급_항공모함.md "wikilink") [원자력](../Page/원자력.md "wikilink") [항공 모함이다](https://ko.wikipedia.org/wiki/항공_모함 "wikilink"). 스테니스함은 1995년 12월 9일에 배치되었다. [모항](https://ko.wikipedia.org/wiki/모항 "wikilink")은 [워싱턴주](../Page/워싱턴주.md "wikilink")의 [브레머턴](https://ko.wikipedia.org/wiki/브레머턴 "wikilink")이다. 다수의 미국 영화와 게임등에서 공격당하거나 반파, 대파되는 항공모함으로 나오는 이색적인 이력이 있다. (직접적인 항모의 이름은 언급되지 않는 경우가 많았으나 항모의 번호 '74'가 노출됨)
 
 ## 연혁
 

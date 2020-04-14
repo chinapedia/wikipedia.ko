@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\~Say What You Will\~](https://ko.wikipedia.org/wiki/\~Say_What_You_Will\~).
+> This article is converted from Wikipedia: [친구에게\~Say What You Will\~](https://ko.wikipedia.org/wiki/친구에게\~Say_What_You_Will\~).
 
 
 〈**도모다치에〜Say What You Will〜**〉()는 [SMAP](../Page/SMAP.md "wikilink")의 36번째 싱글이다. [2005년](../Page/2005년.md "wikilink") [1월 19일에](../Page/1월_19일.md "wikilink") [빅터 엔터테인먼트에서](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.

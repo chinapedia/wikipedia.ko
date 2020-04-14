@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [N](https://ko.wikipedia.org/wiki/N).
+> This article is converted from Wikipedia: [이삭N지연](https://ko.wikipedia.org/wiki/이삭N지연).
 
 
 **이삭N지연**(이삭 앤 지연)은 대한민국의 여성 2인조 음악 그룹이다. 여성 ‘[Fly To The Sky](https://ko.wikipedia.org/wiki/Fly_To_The_Sky "wikilink")’라고 소개되며 2002년 정규 앨범 《[TELL ME BABY](https://ko.wikipedia.org/wiki/TELL_ME_BABY "wikilink")》로 데뷔하였으나, 큰 반응을 얻지 못하고 2004년 해체하였다.

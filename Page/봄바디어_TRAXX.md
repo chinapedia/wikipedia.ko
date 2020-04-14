@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TRAXX](https://ko.wikipedia.org/wiki/_TRAXX).
+> This article is converted from Wikipedia: [봄바디어 TRAXX](https://ko.wikipedia.org/wiki/봄바디어_TRAXX).
 
 
 **봄바디어 TRAXX**(Transnational Railway Applications with eXtreme fleXibility) 기관차는 [봄바디어 트랜스포테이션에서](https://ko.wikipedia.org/wiki/봄바디어_트랜스포테이션 "wikilink") 생산한 기관차 계열로, 여객용과 화물용 둘 다 있다. 처음에는 전기 기관차로 생산하였으나, 2006년부터 같은 계열의 디젤 기관차도 생산되었다. 전기용 TRAXX는 유럽 내에서 사용하는 다양한 전압을 지원한다.

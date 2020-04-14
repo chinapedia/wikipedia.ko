@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FNN ](https://ko.wikipedia.org/wiki/FNN_).
+> This article is converted from Wikipedia: [FNN 모닝콜](https://ko.wikipedia.org/wiki/FNN_모닝콜).
 
 
 **FNN 모닝콜**은 [1986년](../Page/1986년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") [1990년](../Page/1990년.md "wikilink") [3월 30일일까지](../Page/3월_30일.md "wikilink") 후지TV를 중심으로 한 [FNN계열](../Page/후지_뉴스_네트워크.md "wikilink") 방송국에서 방송된 정보 프로그램이다.

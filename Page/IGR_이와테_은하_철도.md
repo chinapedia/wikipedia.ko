@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IGR   ](https://ko.wikipedia.org/wiki/IGR___).
+> This article is converted from Wikipedia: [IGR 이와테 은하 철도](https://ko.wikipedia.org/wiki/IGR_이와테_은하_철도).
 
 
 **IGR이와테 은하 철도**()는 [도호쿠 신칸센](../Page/도호쿠_신칸센.md "wikilink") 모리오카 - 하치노헤 사이 개통에 수반해, 병행 재래선으로서 [동일본 여객철도](https://ko.wikipedia.org/wiki/동일본_여객철도 "wikilink")(JR 동일본)로부터 경영 분리되게 된 [도호쿠 본선](../Page/도호쿠_본선.md "wikilink") 모리오카 - 하치노헤간 가운데, [메토키 역](../Page/메토키_역.md "wikilink") 구내 남방의 현 경계상에 있는 회사 분계점부터 [이와테현](../Page/이와테현.md "wikilink")까지 운영하는 [제3섹터](../Page/제3섹터.md "wikilink")의 철도 회사이다. [아오모리현](../Page/아오모리현.md "wikilink")에서 운영하는 [아오이모리 철도의](../Page/아오이모리_철도.md "wikilink") 차량의 관리를 수탁하고 있는 것 외에 운전 지령도 일체화되고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:VolleyballSecondaryColor](https://ko.wikipedia.org/wiki/:VolleyballSecondaryColor).
+> This article is converted from Wikipedia: [틀:VolleyballSecondaryColor](https://ko.wikipedia.org/wiki/틀:VolleyballSecondaryColor).
 
 
 <includeonly>{{\#switch:

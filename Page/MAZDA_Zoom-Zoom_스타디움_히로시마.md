@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MAZDA Zoom-Zoom  ](https://ko.wikipedia.org/wiki/MAZDA_Zoom-Zoom__).
+> This article is converted from Wikipedia: [MAZDA Zoom-Zoom 스타디움 히로시마](https://ko.wikipedia.org/wiki/MAZDA_Zoom-Zoom_스타디움_히로시마).
 
 
 **MAZDA Zoom-Zoom 스타디움 히로시마**(, )는 [일본](../Page/일본.md "wikilink") [히로시마현](../Page/히로시마현.md "wikilink") [히로시마 시](https://ko.wikipedia.org/wiki/히로시마_시 "wikilink") [미나미 구에](https://ko.wikipedia.org/wiki/미나미_구_\(히로시마_시\) "wikilink") 있는 [야구장](../Page/야구장.md "wikilink")이며, 프로 [야구](../Page/야구.md "wikilink") [센트럴 리그](../Page/센트럴_리그.md "wikilink") 팀인 [히로시마 도요 카프의](../Page/히로시마_도요_카프.md "wikilink") 홈 구장이다. 정식 명칭은 **히로시마 시민 구장**().

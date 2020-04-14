@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X ](https://ko.wikipedia.org/wiki/_X_).
+> This article is converted from Wikipedia: [용의자 X의 헌신](https://ko.wikipedia.org/wiki/용의자_X의_헌신).
 
 
 《**용의자 X의 헌신**》()은 [히가시노 게이고의](../Page/히가시노_게이고.md "wikilink") [추리 소설이다](https://ko.wikipedia.org/wiki/추리_소설 "wikilink").

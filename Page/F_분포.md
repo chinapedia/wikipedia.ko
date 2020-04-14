@@ -1,10 +1,10 @@
-> This article is converted from Wikipedia: [F ](https://ko.wikipedia.org/wiki/F_).
+> This article is converted from Wikipedia: [F 분포](https://ko.wikipedia.org/wiki/F_분포).
 
 
 {(d_1\\,x+d_2)^{d_1+d_2}}}} {x\\,\\mathrm{B}\\\!\\left(\\frac{d_1}{2},\\frac{d_2}{2}\\right)}\\\!</math> | cdf = \(I_{\frac{d_1 x}{d_1 x + d_2}}(d_1/2, d_2/2)\!\) | 기대값 = \(\frac{d_2}{d_2-2}\!\) for \(d_2 > 2\) | 중앙값 = | 최빈값 = \(\frac{d_1-2}{d_1}\;\frac{d_2}{d_2+2}\!\) for \(d_1 > 2\) | 분산 = \(\frac{2\,d_2^2\,(d_1+d_2-2)}{d_1 (d_2-2)^2 (d_2-4)}\!\) for \(d_2 > 4\) | 왜도 = \(\frac{(2 d_1 + d_2 - 2) \sqrt{8 (d_2-4)}}{(d_2-6) \sqrt{d_1 (d_1 + d_2 -2)}}\!\)
 for \(d_2 > 6\) | 첨도 = 본문 참조 | mgf = 존재하지 않음 | 특성함수 = 본문 참조 }}
 
-**F 분포**(F-distribution 또는 Snedecor's F distribution 또는 Fisher–Snedecor distribution)은 [통계학](../Page/통계학.md "wikilink")에서 사용되는 [연속 확률 분포로](https://ko.wikipedia.org/wiki/연속_확률_분포 "wikilink"), [F 검정과](https://ko.wikipedia.org/wiki/F_검정 "wikilink") [분산분석](https://ko.wikipedia.org/wiki/분산분석 "wikilink") 등에서 주로 사용된다.
+**F 분포**(F-distribution 또는 Snedecor's F distribution 또는 Fisher–Snedecor distribution)은 [통계학](../Page/통계학.md "wikilink")에서 사용되는 [연속 확률 분포로](https://ko.wikipedia.org/wiki/연속_확률_분포 "wikilink"), [F 검정과](https://ko.wikipedia.org/wiki/F테스트 "wikilink") [분산분석](https://ko.wikipedia.org/wiki/분산분석 "wikilink") 등에서 주로 사용된다.
 
 두 [확률변수](https://ko.wikipedia.org/wiki/확률변수 "wikilink") \(V_1, V_2\)가 각각 [자유도가](https://ko.wikipedia.org/wiki/자유도_\(통계학\) "wikilink") \(k_1, k_2\)이고 서로 [독립인](../Page/독립_\(확률론\).md "wikilink") [카이제곱 분포를](../Page/카이제곱_분포.md "wikilink") 따른다고 할 때, 다음과 같이 정의되는 확률변수 F는 자유도가 (\(k_1, k_2\))인 F-분포를 따른다고 한다.
 

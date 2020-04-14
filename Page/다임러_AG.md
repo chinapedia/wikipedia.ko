@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AG](https://ko.wikipedia.org/wiki/_AG).
+> This article is converted from Wikipedia: [다임러 AG](https://ko.wikipedia.org/wiki/다임러_AG).
 
 
 **다임러 AG**()은 [독일](../Page/독일.md "wikilink")의 자동차 제조 그룹이다.

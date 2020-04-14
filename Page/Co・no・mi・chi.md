@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Conomichi](https://ko.wikipedia.org/wiki/Conomichi).
+> This article is converted from Wikipedia: [Co・no・mi・chi](https://ko.wikipedia.org/wiki/Co・no・mi・chi).
 
 
 〈**co・no・mi・chi**〉()는 [Buono\!](../Page/Buono!.md "wikilink")의 6번째 싱글이다. 2009년 1월 21일 발매했다. 유통사는 [포니 캐년이다](../Page/포니_캐년.md "wikilink").
@@ -18,12 +18,12 @@
       - 작곡：[층쿠♂](https://ko.wikipedia.org/wiki/쓴쿠 "wikilink")
       - 편곡：AKIRASTAR・나카야마 노부히코
       - 《[캐릭캐릭 체인지](../Page/캐릭캐릭_체인지_\(애니메이션\).md "wikilink")》의 엔딩곡(2009년 2월～3월).
-2.  **무적의 ∞ 파워** ()
+2.  **무적의 ∞ 파워**()
       - 작사：카와카미 나츠키
       - 작곡：오오야기 히로오
       - 편곡：키노시타 요시유키
 3.  **co·no·mi·chi** (Instrumental)
-4.  **무적의 ∞ 파워** () (Instrumental)
+4.  **무적의 ∞ 파워**() (Instrumental)
 
 ## 외부 링크
 

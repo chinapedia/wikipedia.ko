@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [APA ](https://ko.wikipedia.org/wiki/APA_).
+> This article is converted from Wikipedia: [APA 양식](https://ko.wikipedia.org/wiki/APA_양식).
 
 
 **APA 양식**(APA style, APA 스타일)은 [미국심리학회](https://ko.wikipedia.org/wiki/미국심리학회 "wikilink")(American Psychological Association: APA)가 정한 문헌 작성 양식이다. 주로 사회과학 분야([심리학](../Page/심리학.md "wikilink"), [교육학](../Page/교육학.md "wikilink") 등)에서 많이 사용하며, 일부 자연과학 분야([생물학](../Page/생물학.md "wikilink"), [식물학](https://ko.wikipedia.org/wiki/식물학 "wikilink"), [지구과학](../Page/지구과학.md "wikilink"))에서도 사용한다. 본문에는 저자-연도 형식으로 인용하고, 논문 끝의 참고문헌 목록을 이름 순으로 정리하는 것이 특징이다. 구글 스콜라를 이용하면 논문 별 인용양식을 쉽게 얻을 수 있다.

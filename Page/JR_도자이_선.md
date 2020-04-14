@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [JR  ](https://ko.wikipedia.org/wiki/JR__).
+> This article is converted from Wikipedia: [JR 도자이 선](https://ko.wikipedia.org/wiki/JR_도자이_선).
 
 
-**JR 도자이 선** ()은, [서일본 여객철도](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") (JR 서일본)의 노선으로, [오사카부](../Page/오사카부.md "wikilink") [오사카시](../Page/오사카시.md "wikilink") [조토구](../Page/조토구.md "wikilink")에 있는 [교바시 역에서](https://ko.wikipedia.org/wiki/교바시_역_\(오사카_부\) "wikilink") [효고현](../Page/효고현.md "wikilink") [아마가사키시](../Page/아마가사키시.md "wikilink")에 있는 [아마가사키 역간을](../Page/아마가사키_역_\(서일본_여객철도\).md "wikilink") 잇는 [간선 철도이다](https://ko.wikipedia.org/wiki/간선_철도 "wikilink"). 서일본 여객철도 최초의 지하 노선으로, [1997년](../Page/1997년.md "wikilink") [3월 8일에](../Page/3월_8일.md "wikilink") 개업하였다. 전 구간이 오사카 근교 구간 및 전차 특정 구간이며, 아마가사키 역을 제외한 모든 역은 특정 도·구·시내 제도에 따라 [오사카시](../Page/오사카시.md "wikilink")내 역으로 되어있다.
+**JR 도자이 선**()은, [서일본 여객철도](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") (JR 서일본)의 노선으로, [오사카부](../Page/오사카부.md "wikilink") [오사카시](../Page/오사카시.md "wikilink") [조토구](../Page/조토구.md "wikilink")에 있는 [교바시 역에서](https://ko.wikipedia.org/wiki/교바시_역_\(오사카_부\) "wikilink") [효고현](../Page/효고현.md "wikilink") [아마가사키시](../Page/아마가사키시.md "wikilink")에 있는 [아마가사키 역간을](../Page/아마가사키_역_\(서일본_여객철도\).md "wikilink") 잇는 [간선 철도이다](https://ko.wikipedia.org/wiki/간선_철도 "wikilink"). 서일본 여객철도 최초의 지하 노선으로, [1997년](../Page/1997년.md "wikilink") [3월 8일에](../Page/3월_8일.md "wikilink") 개업하였다. 전 구간이 오사카 근교 구간 및 전차 특정 구간이며, 아마가사키 역을 제외한 모든 역은 특정 도·구·시내 제도에 따라 [오사카시](../Page/오사카시.md "wikilink")내 역으로 되어있다.
 
 모든 역에서 J스루 카드, [ICOCA](https://ko.wikipedia.org/wiki/ICOCA "wikilink"), [동일본 여객철도](https://ko.wikipedia.org/wiki/동일본_여객철도 "wikilink") (JR 동일본) [Suica](../Page/Suica.md "wikilink"), [도카이 여객철도](https://ko.wikipedia.org/wiki/도카이_여객철도 "wikilink") (JR 도카이) [TOICA](../Page/TOICA.md "wikilink"), 스룻토 간사이 협의회 [PiTaPa](https://ko.wikipedia.org/wiki/PiTaPa "wikilink") 등을 사용할 수 있다.
 

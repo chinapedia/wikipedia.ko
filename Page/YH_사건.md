@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YH ](https://ko.wikipedia.org/wiki/YH_).
+> This article is converted from Wikipedia: [YH 사건](https://ko.wikipedia.org/wiki/YH_사건).
 
 
 **YH 사건**은 가발수출업체인 YH 무역의 [여성](../Page/여성.md "wikilink") 근로자들이 회사폐업조치에 항의하여 야당인 [신민당](../Page/신민당_\(1967년\).md "wikilink") 당사에서 [농성](https://ko.wikipedia.org/wiki/농성 "wikilink")시위를 벌인 사건이다. [1979년](../Page/1979년.md "wikilink") [8월 9일부터](../Page/8월_9일.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") 사이에 벌어졌으며 [경찰](../Page/경찰.md "wikilink")이 강제 해산하는 과정에서 노동자([김경숙](../Page/김경숙_\(1958년\).md "wikilink")) 1명이 추락사하였다. 이 사망 사건에 대해 경찰은 투신 자살로 조작했으나 \<[진실과화해를위한과거사정리위원회](https://ko.wikipedia.org/wiki/진실과화해를위한과거사정리위원회 "wikilink")\>의 조사 결과 경찰의 강제 진압 과정에서 추락사한 것으로 밝혀졌다.\[1\] 이 사건은 후에 [김영삼 의원 제명 파동](../Page/김영삼_의원_제명_파동.md "wikilink"), [부마민중항쟁](https://ko.wikipedia.org/wiki/부마민중항쟁 "wikilink"), [10·26 사태로](https://ko.wikipedia.org/wiki/10·26_사태 "wikilink") 이어지는 [박정희](../Page/박정희.md "wikilink") 정권 종말의 도화선이 되었다.

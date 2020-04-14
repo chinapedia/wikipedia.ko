@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Alan \(\)](https://ko.wikipedia.org/wiki/Alan_\(\)).
+> This article is converted from Wikipedia: [Alan \(가수\)](https://ko.wikipedia.org/wiki/Alan_\(가수\)).
 
 
 **알란**(alan, 본명: **알란 다와 돌마**(, ), [1987년](../Page/1987년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ )은 [일본](../Page/일본.md "wikilink")에서 활동하는 [티베트족](https://ko.wikipedia.org/wiki/티베트족 "wikilink") 출신의 [중국인](https://ko.wikipedia.org/wiki/중국인 "wikilink") 여성 가수이다.

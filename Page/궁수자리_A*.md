@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A\*](https://ko.wikipedia.org/wiki/_A\*).
+> This article is converted from Wikipedia: [궁수자리 A\*](https://ko.wikipedia.org/wiki/궁수자리_A\*).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Chandra_image_of_Sgr_A.jpg "wikilink") 궁수자리 A\* 사진.\]\]

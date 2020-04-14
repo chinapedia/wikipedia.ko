@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ kt ](https://ko.wikipedia.org/wiki/_kt_).
+> This article is converted from Wikipedia: [부산 kt 소닉붐](https://ko.wikipedia.org/wiki/부산_kt_소닉붐).
 
 
 **부산 KT 소닉붐**(Busan KT Sonicboom)은 [대한민국](../Page/대한민국.md "wikilink")의 프로 [농구](../Page/농구.md "wikilink")단이다. [1997년](../Page/1997년.md "wikilink"), 광주 나산 플라망스로 창단하여 [2003년](../Page/2003년.md "wikilink") 11월 [KTF](https://ko.wikipedia.org/wiki/KTF "wikilink")에 인수하였다가, [2009년](../Page/2009년.md "wikilink")에 [KTF](https://ko.wikipedia.org/wiki/KTF "wikilink")가 [KT](../Page/KT.md "wikilink")와 합병됨에 따라 현재의 팀 이름으로 변경했다.

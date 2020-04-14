@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ADDIE ](https://ko.wikipedia.org/wiki/ADDIE_).
+> This article is converted from Wikipedia: [ADDIE 모형](https://ko.wikipedia.org/wiki/ADDIE_모형).
 
 
 **ADDIE 모형**은 [교수 체제 설계](https://ko.wikipedia.org/wiki/교수_체제_설계 "wikilink") 과정의 일반적 형태를 나타낸, 가장 널리 활용되고 있는 모형이다.

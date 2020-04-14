@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J](https://ko.wikipedia.org/wiki/J).
+> This article is converted from Wikipedia: [채널J](https://ko.wikipedia.org/wiki/채널J).
 
 
 **채널J**는 주식회사 대원엔터테인먼트가 운영하는 [대한민국의 케이블TV 방송](../Page/대한민국의_케이블TV_방송.md "wikilink") 채널 가운데 하나이다. 주로 [일본](../Page/일본.md "wikilink")에 관련된 프로그램을 방송한다.

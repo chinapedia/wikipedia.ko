@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DMC-G1](https://ko.wikipedia.org/wiki/__DMC-G1).
+> This article is converted from Wikipedia: [파나소닉 루믹스 DMC-G1](https://ko.wikipedia.org/wiki/파나소닉_루믹스_DMC-G1).
 
 
 **DMC-G1**()은 [파나소닉](../Page/파나소닉.md "wikilink")의 첫 [마이크로 포서즈 시스템](../Page/마이크로_포서즈_시스템.md "wikilink") 규격 카메라이자 세계 최초의 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). [2008년](../Page/2008년.md "wikilink")[8월 5일](../Page/8월_5일.md "wikilink") [마이크로 포서즈규격의](https://ko.wikipedia.org/wiki/마이크로_포서즈 "wikilink") 발표 이후인 [2008년](../Page/2008년.md "wikilink") [9월 12일에](../Page/9월_12일.md "wikilink") G Vario 14-45mm 1:3.5-5.6 ASPH. Mega OIS와 45-200mm 1:4-5.6 Mega OIS와 함께 출시되었다.

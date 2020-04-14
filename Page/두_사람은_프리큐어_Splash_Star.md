@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   Splash Star](https://ko.wikipedia.org/wiki/___Splash_Star).
+> This article is converted from Wikipedia: [두 사람은 프리큐어 Splash Star](https://ko.wikipedia.org/wiki/두_사람은_프리큐어_Splash_Star).
 
 
 }

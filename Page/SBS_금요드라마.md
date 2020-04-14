@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 금요드라마](https://ko.wikipedia.org/wiki/SBS_금요드라마).
 
 
 '''SBS 금요드라마 '''는 [SBS](../Page/SBS.md "wikilink")에서 [금요일](../Page/금요일.md "wikilink") 밤에 방송되는 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CD](https://ko.wikipedia.org/wiki/_CD).
+> This article is converted from Wikipedia: [드라마 CD](https://ko.wikipedia.org/wiki/드라마_CD).
 
 
 **드라마 CD**는 [CD에](../Page/콤팩트_디스크.md "wikilink") 소리만으로 이야기를 담은 것이다. 대부분 만화책, 게임, 애니메이션 등을 원작으로 한다.

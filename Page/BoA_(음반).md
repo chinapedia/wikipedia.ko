@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BoA \(\)](https://ko.wikipedia.org/wiki/BoA_\(\)).
+> This article is converted from Wikipedia: [BoA \(음반\)](https://ko.wikipedia.org/wiki/BoA_\(음반\)).
 
 
 ***BoA***는 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [보아](../Page/보아.md "wikilink")가 [2009년](../Page/2009년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink") 미국에서 발매한 첫 영어 정규 앨범이다. 한국과 일본에서는 다음날인 2009년 3월 18일에 라이센스 앨범으로 발매되었다. 그렇지만, 일본에서는 동시에 BoA의 두 번째 베스트 앨범인 《[BEST\&USA](../Page/BEST&USA.md "wikilink")》 앨범에 들어가 있다. 2009년 9월 22일, 전 세계에 발매됐다. [보아](../Page/보아.md "wikilink")는 이 앨범으로 미국 데뷔 동시에 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 127위에 올라 한국인 최초로 빌보드 메인차트에 입성하는 쾌거를 이루었다.

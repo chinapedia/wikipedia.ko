@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HW c](https://ko.wikipedia.org/wiki/_HW_c).
+> This article is converted from Wikipedia: [처녀자리 HW c](https://ko.wikipedia.org/wiki/처녀자리_HW_c).
 
 
 **처녀자리 HW c**는 [처녀자리 HW](../Page/처녀자리_HW.md "wikilink") 주위를 도는 [외계 행성이다](../Page/외계_행성.md "wikilink").

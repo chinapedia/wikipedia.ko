@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2002 CONCACAF    ](https://ko.wikipedia.org/wiki/:2002_CONCACAF____).
+> This article is converted from Wikipedia: [틀:2002년 CONCACAF 골드컵 대한민국 선수 명단](https://ko.wikipedia.org/wiki/틀:2002년_CONCACAF_골드컵_대한민국_선수_명단).
 
 
 <onlyinclude></onlyinclude>

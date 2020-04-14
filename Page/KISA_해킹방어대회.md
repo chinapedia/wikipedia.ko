@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KISA ](https://ko.wikipedia.org/wiki/KISA_).
+> This article is converted from Wikipedia: [KISA 해킹방어대회](https://ko.wikipedia.org/wiki/KISA_해킹방어대회).
 
 
 **KISA 해킹방어대회**는 매년 대한민국의 중·고·대학생 및 일반인을 대상으로 [한국정보보호진흥원](https://ko.wikipedia.org/wiki/한국정보보호진흥원 "wikilink")에서 개최하는 대회이다. 2004년 제1회 해킹방어대회가 처음 열렸다. 해킹방어대회라는 이름에 걸맞게 주로 보안 취약점을 찾아 해결하는 문제가 주로 출제된다. 하지만 2008년도부터 CTF(Capture The Flag) 대회방식의 도입으로 방어 능력 뿐만 아니라 공격 능력도 함께 평가하고있다. 2014년 현재 11회까지 개최되었다.

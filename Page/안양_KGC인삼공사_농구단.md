@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KGC ](https://ko.wikipedia.org/wiki/_KGC_).
+> This article is converted from Wikipedia: [안양 KGC인삼공사 농구단](https://ko.wikipedia.org/wiki/안양_KGC인삼공사_농구단).
 
 
 **안양 KGC인삼공사 프로농구단**(Anyang KGC Ginseng Corporation Pro Basketball Club)은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안양시](../Page/안양시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [농구](../Page/농구.md "wikilink")단이다. 전신 구단으로는 안양 SBS 스타즈로 [1992년](../Page/1992년.md "wikilink")부터 존재해 왔다. 2008-09 시즌에는 [인천 전자랜드 엘리펀츠와](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink") [창원 LG 세이커스와의](../Page/창원_LG_세이커스.md "wikilink") 경쟁에서 밀려나며 7위로 플레이오프에 탈락했다. [2010년](../Page/2010년.md "wikilink") 모기업 [KT\&G](../Page/KT&G.md "wikilink")가 이사회 결의를 통해 자회사인 [한국인삼공사](../Page/한국인삼공사.md "wikilink")에게 스포츠단 지분 100%를 옮기면서 팀명과 엠블렘을 변경하여 2010-11 시즌부터 참가했다. 2011-12 시즌에는 신인 [오세근](../Page/오세근.md "wikilink")의 활약으로 당해 시즌 정규리그 1위팀이었던 [원주 DB 프로미와의](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink") [KBL 챔피언 결정전에서](../Page/KBL_챔피언_결정전.md "wikilink") 6차전까지 가는 접전 끝에 시리즈 전적 4승 2패로 승리하고 창단 첫 우승을 차지하였다.\[1\]

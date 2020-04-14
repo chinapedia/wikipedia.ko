@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KCC ](https://ko.wikipedia.org/wiki/_KCC_).
+> This article is converted from Wikipedia: [전주 KCC 이지스](https://ko.wikipedia.org/wiki/전주_KCC_이지스).
 
 
 **KCC 이지스**(KCC Egis)는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [농구](../Page/농구.md "wikilink")단이다. 법적으로는 [주식회사](../Page/주식회사.md "wikilink")이며, [KCC그룹](../Page/KCC그룹.md "wikilink")의 계열사이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EIM](https://ko.wikipedia.org/wiki/EIM).
+> This article is converted from Wikipedia: [스튜디오EIM](https://ko.wikipedia.org/wiki/스튜디오EIM).
 
 
 **스튜디오EIM** <small>()</small> 은 [대한민국](../Page/대한민국.md "wikilink")의 [게임 오디오](https://ko.wikipedia.org/wiki/게임_음악 "wikilink") 그룹이다.

@@ -41,7 +41,7 @@
 ## 외부 링크
 
   - [처음 만나는 Game Society - 4LEAF](https://web.archive.org/web/20080706125036/http://www.4leaf.com/)
-  - [4LEAF Memorial :: 4LEAF](http://4leafmemorial.geld.kr/) 팬사이트
+  - [4LEAF Memorial :: 4LEAF](https://web.archive.org/web/20160305062822/http://4leafmemorial.geld.kr/) 팬사이트
   - [포립 팬 페이지 - 추억속으로 by 캐쉬백](http://4leaf.pe.kr)
 
 [분류:온라인 게임](https://ko.wikipedia.org/wiki/분류:온라인_게임 "wikilink") [분류:서비스가 종료된 온라인 게임](https://ko.wikipedia.org/wiki/분류:서비스가_종료된_온라인_게임 "wikilink") [분류:소프트맥스의 게임](https://ko.wikipedia.org/wiki/분류:소프트맥스의_게임 "wikilink")

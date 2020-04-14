@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV   9 ](https://ko.wikipedia.org/wiki/_TV___9_).
+> This article is converted from Wikipedia: [후지 TV 월요일 밤 9시 드라마](https://ko.wikipedia.org/wiki/후지_TV_월요일_밤_9시_드라마).
 
 
 《**후지 TV 월요일 밤 9시 드라마**》()는 [후지 TV에서](../Page/후지_TV.md "wikilink") [매주 월요일 (21:00 - 21:54)에](https://ko.wikipedia.org/wiki/게츠쿠 "wikilink") 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). [월요일](../Page/월요일.md "wikilink")()과 9시() 각각의 앞글자를 따 통칭 **게츠쿠**()라 부르기도 한다. [후지 TV의](../Page/후지_TV.md "wikilink") 간판 시간대이기도 하며,\[1\] [2003년](../Page/2003년.md "wikilink") [10월](../Page/10월.md "wikilink")의 《비기너》부터는 고화질([HDTV](https://ko.wikipedia.org/wiki/HDTV "wikilink"))로 제작하고 있다.
@@ -15,11 +15,15 @@
 
 [1997년](../Page/1997년.md "wikilink")에는 드라마 4편의 평균 시청률이 그 해의 시청률 베스트 4를 기록하고, 같은 해 1월에 방송된 《버진로드》 제 6화부터 다음 해 1월 방영된 《Days》 제 2화까지 43회 연속 시청률 20% 이상이라는 기록을 세웠다.
 
-### 2000년 이후
+### 2000년대 이후의 경향
 
 [2000년](../Page/2000년.md "wikilink") 3분기에는 《[내사랑 사쿠라코](../Page/내사랑_사쿠라코.md "wikilink")》가 《러브 제너레이션》 이래 3년 만에 시청률 30%를 돌파했고, 다음 분기 작품인 《[HERO](../Page/HERO.md "wikilink")》는 11화 모두가 30%를 넘는 시청률을 기록했다. 또한, 2005년 2분기 《엔진》부터 [2006년](../Page/2006년.md "wikilink") 2분기 《톱 캐스터》까지 5작품과 2007년 4분기 《[갈릴레오](../Page/갈릴레오_\(드라마\).md "wikilink")》부터 2008년 3분기 《[태양과 바다의 교실](../Page/태양과_바다의_교실.md "wikilink")》까지 4작품은 첫 회 시청률이 20%를 넘었다. 그러나 [2009년](../Page/2009년.md "wikilink")부터는 20%는커녕 15%도 넘지 못하는 드라마가 늘어나기 시작해, [2010년](../Page/2010년.md "wikilink") 후반 이후 12% 전후를 하는 드라마가 많아지며 그 외에도 한 자릿수를 기록하는 작품도 증가하기 시작했다.
 
 또한 《결혼 활동\!》(2009년)가 [1987년](../Page/1987년.md "wikilink") 이후로 이 시간대에서 사상 첫 한 자릿수를 기록하였고, 《[소중한 것은 전부 네가 가르쳐 주었어](../Page/소중한_것은_전부_네가_가르쳐_주었어.md "wikilink")》(2011년)에서는 [1987년](../Page/1987년.md "wikilink") 이후로 이 시간대에서 사상 최초로 전체 방송을 통틀어 15%를 한번도 못 넘는 시청률을 기록했다.
+
+2017년 4월 17일 시작 "귀족 탐정 '이후" 월 9 "처음에는 이전의 「네프 리그'2 시간 SP의 '스페셜 트럭 모험"보다 스테부레레스 연결에서 시작 (20시 대 명소 뉴스는 내포) 그 후 2018년 4월부터 현장 뉴스가 폐 프레임이 되어도 계속 첫회 만 스테부레레스 이후는 정션 스테부레들이 (일부 지역 제외)하고 있다.
+
+인터넷 방송은 후지 TV 주문형 유료 전달되는 다른 사이트에서 무료 배달 서비스 "FOD 놓치지 무료"방송 후 1 주간 한정으로 전달되는 방침을 유지하고 있다. 그러나 저작권 · 초상권 관리의 사정 위 대상에서 제외 작품도 존재한다.
 
 ## 역대 평균 시청률 순위\[2\]
 
@@ -301,7 +305,7 @@
 
   - 《[트레이스\~과수연의 남자\~](https://ko.wikipedia.org/wiki/트레이스~과수연의_남자~ "wikilink")》 : (1월 \~ 3월, 주연: [니시키도 료](../Page/니시키도_료.md "wikilink"))
   - 《[라디에이션 하우스\~방사선과 진단 리포트\~](https://ko.wikipedia.org/wiki/라디에이션_하우스 "wikilink")》 : (4월 \~ 6월, 주연: [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink")\])
-  - 《[감찰의 아사가오](https://ko.wikipedia.org/wiki/감찰의_아사가오 "wikilink")》 : (7월 \~ 9월, 주연: [우에노 쥬리](https://ko.wikipedia.org/wiki/우에노_쥬리 "wikilink"))
+  - 《[감찰의 아사가오](https://ko.wikipedia.org/wiki/감찰의_아사가오 "wikilink")》 : (7월 \~ 9월, 주연: 우에노 쥬리)
   - 《[셜록](https://ko.wikipedia.org/wiki/셜록_\(일본의_드라마\) "wikilink")》 : (10월 \~ 12월, 주연: [딘 후지오카](https://ko.wikipedia.org/wiki/딘_후지오카 "wikilink"))
 
 ### 2020년대 전반
@@ -310,6 +314,201 @@
 
   - 《[절대영도\~미연범죄잠입수사\~](https://ko.wikipedia.org/wiki/절대영도_\(드라마\) "wikilink") 제2시리즈》 : (1월 \~ 3월, 주연: [사와무라 잇키](../Page/사와무라_잇키.md "wikilink"))
   - 《[슈츠 2](https://ko.wikipedia.org/wiki/슈츠_\(일본의_드라마\) "wikilink")》 : (4월 \~ 7월, 주연: 오다 유지)
+  - 《[감찰의 아사가오](https://ko.wikipedia.org/wiki/감찰의_아사가오 "wikilink") 2》 : (7월 \~ , 주연: 우에노 쥬리)
+
+## 편성국 정보
+
+<table>
+<thead>
+<tr class="header">
+<th><p>방송 대상 지역</p></th>
+<th><p>방송국</p></th>
+<th><p>계열</p></th>
+<th><p>방송 요일·방송 시간</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/간토_지방.md" title="wikilink">간토 광역권</a></p></td>
+<td><p><a href="../Page/후지_TV.md" title="wikilink">후지 텔레비전</a>(CX)<br />
+<strong>《월요일 밤 9시》 제작국</strong></p></td>
+<td><p><a href="../Page/후지_네트워크.md" title="wikilink">FNS 계열</a></p></td>
+<td><p>월요일<br />
+21:00 ~ 21:54</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/홋카이도.md" title="wikilink">홋카이도</a></p></td>
+<td><p><a href="../Page/홋카이도_문화_방송.md" title="wikilink">홋카이도 분카 방송</a>(uhb)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/이와테현.md" title="wikilink">이와테현</a></p></td>
+<td><p><a href="../Page/이와테_멘코이_TV.md" title="wikilink">이와테 멘코이 TV</a>(mit)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/미야기현.md" title="wikilink">미야기현</a></p></td>
+<td><p><a href="../Page/센다이_방송.md" title="wikilink">센다이 방송</a>(OX)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/아키타현.md" title="wikilink">아키타현</a></p></td>
+<td><p><a href="../Page/아키타_TV.md" title="wikilink">아키타 TV</a>(AKT)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/야마가타현.md" title="wikilink">야마가타현</a></p></td>
+<td><p><a href="../Page/사쿠란보_TV.md" title="wikilink">사쿠란보 TV</a>(SAY)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/후쿠시마현.md" title="wikilink">후쿠시마현</a></p></td>
+<td><p><a href="../Page/후쿠시마_TV.md" title="wikilink">후쿠시마 TV</a>(FTV)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/니가타현.md" title="wikilink">니가타현</a></p></td>
+<td><p><a href="../Page/니가타_종합_TV.md" title="wikilink">니가타 종합 TV</a>(NST)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/나가노현.md" title="wikilink">나가노현</a></p></td>
+<td><p><a href="../Page/나가노_방송.md" title="wikilink">나가노 방송</a>(NBS)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/시즈오카현.md" title="wikilink">시즈오카현</a></p></td>
+<td><p><a href="../Page/TV_시즈오카.md" title="wikilink">TV 시즈오카</a>(SUT)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/도야마현.md" title="wikilink">도야마현</a></p></td>
+<td><p><a href="../Page/도야마_TV_방송.md" title="wikilink">도야마 TV 방송</a>(BBT)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/이시카와현.md" title="wikilink">이시카와현</a></p></td>
+<td><p><a href="../Page/이시카와_TV.md" title="wikilink">이시카와 TV</a>(ITC)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/후쿠이현.md" title="wikilink">후쿠이현</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/후쿠이_TV_방송" title="wikilink">후쿠이 TV 방송</a>(FTB)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/주쿄권.md" title="wikilink">주쿄 광역권</a></p></td>
+<td><p><a href="../Page/도카이_TV.md" title="wikilink">도카이 TV</a>(THK)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/긴키_지방.md" title="wikilink">긴키 광역권</a></p></td>
+<td><p><a href="../Page/간사이_TV_방송.md" title="wikilink">간사이 TV 방송</a>(KTV)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/돗토리현.md" title="wikilink">돗토리현</a><br />
+<a href="../Page/시마네현.md" title="wikilink">시마네현</a></p></td>
+<td><p><a href="../Page/산인_중앙_TV_방송.md" title="wikilink">산인 중앙 TV 방송</a>(TSK)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/가가와현.md" title="wikilink">가가와현</a><br />
+<a href="../Page/오카야마현.md" title="wikilink">오카야마현</a></p></td>
+<td><p><a href="../Page/오카야마_방송.md" title="wikilink">오카야마 방송</a>(OHK)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/히로시마현.md" title="wikilink">히로시마현</a></p></td>
+<td><p><a href="../Page/TV_신히로시마.md" title="wikilink">TV 신히로시마</a>(TSS)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/에히메현.md" title="wikilink">에히메현</a></p></td>
+<td><p><a href="../Page/TV_에히메.md" title="wikilink">TV 에히메</a>(EBC)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/고치현.md" title="wikilink">고치현</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/고치_산산_TV" title="wikilink">고치 산산 TV</a>(KSS)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카현</a></p></td>
+<td><p><a href="../Page/TV_니시닛폰.md" title="wikilink">TV 니시닛폰</a>(TNC)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/사가현.md" title="wikilink">사가현</a></p></td>
+<td><p><a href="../Page/사가_TV.md" title="wikilink">사가 TV</a>(STS)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/나가사키현.md" title="wikilink">나가사키현</a></p></td>
+<td><p><a href="../Page/TV_나가사키.md" title="wikilink">TV 나가사키</a>(KTN)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/구마모토현.md" title="wikilink">구마모토현</a></p></td>
+<td><p><a href="../Page/TV_구마모토.md" title="wikilink">TV 구마모토</a>(TKU)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/가고시마현.md" title="wikilink">가고시마현</a></p></td>
+<td><p><a href="../Page/가고시마_TV.md" title="wikilink">가고시마 TV</a>(KTS)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/오키나와현.md" title="wikilink">오키나와현</a></p></td>
+<td><p><a href="../Page/오키나와_TV_방송.md" title="wikilink">오키나와 TV 방송</a>(OTV)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/오이타현.md" title="wikilink">오이타현</a></p></td>
+<td><p><a href="../Page/TV_오이타.md" title="wikilink">TV 오이타</a>(TOS)</p></td>
+<td><p><a href="../Page/후지_네트워크.md" title="wikilink">FNS 계열</a> / <a href="https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회" title="wikilink">NTV 계열</a></p></td>
+<td><p>월요일<br />
+24:54 ~ 25:49</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/미야자키현.md" title="wikilink">미야자키현</a></p></td>
+<td><p><a href="../Page/TV_미야자키.md" title="wikilink">TV 미야자키</a>(UMK)</p></td>
+<td><p><a href="../Page/후지_네트워크.md" title="wikilink">FNS</a> 계열 / NTV / ANN 계열</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 함께 보기
 

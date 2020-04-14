@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RNA](https://ko.wikipedia.org/wiki/_RNA).
+> This article is converted from Wikipedia: [전령 RNA](https://ko.wikipedia.org/wiki/전령_RNA).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MRNA-interaction.png "wikilink") 안에서 [전사](../Page/전사_\(생물학\).md "wikilink") 과정이 진행되고, RNA가 [세포질](../Page/세포질.md "wikilink")로 운반되어 [리보솜](../Page/리보솜.md "wikilink")에 의해 [번역된다](https://ko.wikipedia.org/wiki/번역_\(생물학\) "wikilink"). 전령 RNA가 생을 마치면(전사와 번역이 종료된 후) 퇴화되고 소멸한다.\]\]

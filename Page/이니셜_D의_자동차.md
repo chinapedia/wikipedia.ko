@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D ](https://ko.wikipedia.org/wiki/_D_).
+> This article is converted from Wikipedia: [이니셜 D의 자동차](https://ko.wikipedia.org/wiki/이니셜_D의_자동차).
 
 
 다음은 애니메이션 [이니셜 D에](../Page/이니셜_D.md "wikilink") 등장하는 자동차 들이다. 이들은 대부분 일본에서 실제로 팔린 차량을 모델로 했으며 등장 차량 외에도 배경으로 등장한 차들이 있다. 여기서는 처음으로 등장한 차량들만 친다. 본 자료는 [이니셜 D에 등장한 차량들의](https://ko.wikipedia.org/wiki/:ja:頭文字D#登場するその他の主な車種 "wikilink") 자료를 근간으로 했다. 또한 본 자료에서 게임에 나온 차량은 제외한다.\[1\]
@@ -73,6 +73,8 @@
       - 쇼지 싱고의 차량으로 레이스에 나오는 차량 중에서 드문 [전륜구동](../Page/전륜구동.md "wikilink")이다.(4기 이전까지 등장한 [전륜구동](../Page/전륜구동.md "wikilink") 차량은 시빅 EG6 뿐이었다.) 드리프트보다는 그립 쪽에 중점을 뒀고 신고 자신이 검테이프 데스매치에 자신 있다고 했기 때문에 배틀 때 타쿠미를 어렵게 했지만 더블 크래쉬를 노리다 오히려 가드레일에 충돌하여 크게 파손된다.
   - [시티](https://ko.wikipedia.org/wiki/:ja:ホンダ・シティ "wikilink") AA형
       - 타쿠미가 [아르바이트](../Page/아르바이트.md "wikilink")하는 주유소에서 세차할 때 잠깐 나온 승용차
+  - [혼다 인테그라 타입R](https://ko.wikipedia.org/wiki/혼다_인테그라_타입R "wikilink")
+      - 원작에서 나가자토 타케시의 앞을 막고있다가 추월당한 차량이다.
 
 ### 기타 차량
 

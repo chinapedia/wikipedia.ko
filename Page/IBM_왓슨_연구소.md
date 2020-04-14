@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM  ](https://ko.wikipedia.org/wiki/IBM__).
+> This article is converted from Wikipedia: [IBM 왓슨 연구소](https://ko.wikipedia.org/wiki/IBM_왓슨_연구소).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IBM_Yorktown_Heights.jpg "wikilink") [300px](https://ko.wikipedia.org/wiki/파일:IBM_Yorktown.jpg "wikilink") **IBM 왓슨 연구소**(, **토머스 J. 왓슨 리서치 센터**) 는 [IBM](../Page/IBM.md "wikilink") 연구 부문을 총괄하는 IBM 내 조직이자 본부 연구 센터이다.

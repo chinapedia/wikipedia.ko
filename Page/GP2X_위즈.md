@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GP2X ](https://ko.wikipedia.org/wiki/GP2X_).
+> This article is converted from Wikipedia: [GP2X 위즈](https://ko.wikipedia.org/wiki/GP2X_위즈).
 
 
 **GP2X 위즈**(GP2X Wiz)는 [GP2X](../Page/GP2X.md "wikilink")의 후속작으로 [게임파크 홀딩스](https://ko.wikipedia.org/wiki/게임파크_홀딩스 "wikilink")(GPH)에서 제작한 [휴대용 미디어 플레이어](https://ko.wikipedia.org/wiki/휴대용_미디어_플레이어 "wikilink") 겸 휴대용 게임기이다. [2009년](../Page/2009년.md "wikilink") [4월 30일에](../Page/4월_30일.md "wikilink") 발매되었다.\[1\]

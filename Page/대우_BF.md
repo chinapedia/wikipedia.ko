@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BF](https://ko.wikipedia.org/wiki/_BF).
+> This article is converted from Wikipedia: [대우 BF](https://ko.wikipedia.org/wiki/대우_BF).
 
 
 **자일대우 BF**는 [자일대우상용차](../Page/자일대우상용차.md "wikilink")의 대형 전방엔진 상용 [버스](../Page/버스.md "wikilink") 차종이다. [1977년](../Page/1977년.md "wikilink") 11월 [BD098/101의](../Page/새한_BD.md "wikilink") 후속 모델인 BF101의 출시 이후, BF106은 현재 까지 생산되는 유일한 [대한민국](../Page/대한민국.md "wikilink")산 프런트 엔진 대형 버스 차종이다. 프런트 엔진 대형버스를 시내 및 농어촌용으로 운용되지 않고 있기 때문에 현재는 전량 수출용으로 생산된다.

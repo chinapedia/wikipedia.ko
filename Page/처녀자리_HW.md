@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HW](https://ko.wikipedia.org/wiki/_HW).
+> This article is converted from Wikipedia: [처녀자리 HW](https://ko.wikipedia.org/wiki/처녀자리_HW).
 
 
 **처녀자리 HW**()는 [처녀자리](../Page/처녀자리.md "wikilink") 방향으로 지구로부터 590광년 떨어져 있는 [알골형 변광성이자](../Page/알골형_변광성.md "wikilink") [근접쌍성](https://ko.wikipedia.org/wiki/근접쌍성 "wikilink")이다.

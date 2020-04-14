@@ -5,7 +5,7 @@
 
 ## 연혁
 
-교육을 목적으로 하는 방송국인 NET(National Educational Television, 전국 교육 텔레비전)를 전신으로 한다. 이후 [1970년](../Page/1970년.md "wikilink") PBS로 대체되었고, [1973년](../Page/1973년.md "wikilink") 종합방송국으로 전환되었다.
+교육을 목적으로 하는 방송국인 NET(National Educational Television, 국립 교육 텔레비전)를 전신으로 한다. 이후 [1970년](../Page/1970년.md "wikilink") PBS로 대체되었고, [1973년](../Page/1973년.md "wikilink") 종합방송국으로 전환되었다.
 
 ## 지역 방송사 목록
 

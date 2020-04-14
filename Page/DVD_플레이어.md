@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [DVD ](https://ko.wikipedia.org/wiki/DVD_).
+> This article is converted from Wikipedia: [DVD 플레이어](https://ko.wikipedia.org/wiki/DVD_플레이어).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Hyundai_HY-DV805_20100701.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:DK_Digital_DVD_1080_open.jpg "wikilink")
 
-**DVD 플레이어** ()는 [DVD 비디오와](../Page/DVD_비디오.md "wikilink") [DVD 오디오](../Page/DVD_오디오.md "wikilink") 기술 표준을 둘 다 지원하는 디스크 재생 장치이다. 1996년 11월에 일본에서 처음 도입된 DVD 플레이어는 1997년 3월에 미국에서 처음 상용화되었다.\[1\]
+**DVD 플레이어**()는 [DVD 비디오와](../Page/DVD_비디오.md "wikilink") [DVD 오디오](../Page/DVD_오디오.md "wikilink") 기술 표준을 둘 다 지원하는 디스크 재생 장치이다. 1996년 11월에 일본에서 처음 도입된 DVD 플레이어는 1997년 3월에 미국에서 처음 상용화되었다.\[1\]
 
 ## 기술 설명
 

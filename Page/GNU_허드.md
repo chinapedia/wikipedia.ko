@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 허드](https://ko.wikipedia.org/wiki/GNU_허드).
 
 
 **GNU 허드**()는 [운영 체제용](../Page/운영_체제.md "wikilink") [커널](../Page/커널_\(컴퓨팅\).md "wikilink") 가운데 하나이며 현재 [토마스 버시넬](https://ko.wikipedia.org/wiki/토마스_버시넬 "wikilink"), [롤란드 맥그라트](https://ko.wikipedia.org/wiki/롤란드_맥그라트 "wikilink"), [마르커스 브링크만](https://ko.wikipedia.org/wiki/마르커스_브링크만 "wikilink"), [넬 왈필드](https://ko.wikipedia.org/wiki/넬_왈필드 "wikilink") 등이 제작하고 있다. 맨 밑에 [마이크로커널](../Page/마이크로커널.md "wikilink")이 있고 그 위에서 몇 개의 서버 및 데몬이 돌아가는 형태를 가지며 기능, 보안, 안정 면에서 원조 [유닉스](../Page/유닉스.md "wikilink") 커널보다 나으면서 원조 유닉스 커널과의 호환성까지 뛰어난 커널을 지향한다. [GNU 일반 공중 사용 허가서를](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 따르며 2013년 9월 27일 GNU 허드 0.5가 발표되었다.\[1\] 2015년 4월 10일 GNU 허드 0.6이 발표되었다.\[2\]

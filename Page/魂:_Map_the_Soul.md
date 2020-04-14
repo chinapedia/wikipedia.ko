@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: Map the Soul](https://ko.wikipedia.org/wiki/:_Map_the_Soul).
+> This article is converted from Wikipedia: [魂: Map the Soul](https://ko.wikipedia.org/wiki/魂:_Map_the_Soul).
 
 
 **魂: Map the Soul**(혼: 맵 더 소울)은 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")가 [맵더소울](../Page/맵더소울.md "wikilink")을 설립 후 발매한 기념 음반 및 소품집 [Lovescream](../Page/Lovescream.md "wikilink")에 이어 나온 음반이다. [2009년](../Page/2009년.md "wikilink") [3월 27일에](../Page/3월_27일.md "wikilink") 발매되었다. 책과 음반을 하나의 작품으로 엮은 ‘북 앨범’ 형식으로 발매하였으며 정통 힙합에 가까운 음악을 담고 있다. 이 음반은 [맵더소울](../Page/맵더소울.md "wikilink")닷컴에서만 판매하였으나, 현재 맵더소울닷컴이 폐쇄 된 이후로 힙합플레이야 에서 한정 판매하고 있다.\[1\]

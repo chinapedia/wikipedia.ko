@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [청주 FC](https://ko.wikipedia.org/wiki/청주_FC).
 
 
 '''청주 FC '''()는 [2002년](../Page/2002년.md "wikilink")에 창단한 [대한민국](../Page/대한민국.md "wikilink")의 [축구](../Page/축구.md "wikilink")단이다. 연고지는 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink")이며, 홈구장은 [청주종합운동장이다](../Page/청주종합경기장.md "wikilink"). [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink")의 첫 번째 [K3리그 어드밴스](../Page/K3리그_어드밴스.md "wikilink") 팀으로서 [2009년](../Page/2009년.md "wikilink")부터 참가하고 있다.

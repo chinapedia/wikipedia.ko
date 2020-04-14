@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kp  ](https://ko.wikipedia.org/wiki/Kp__).
+> This article is converted from Wikipedia: [K·p 섭동 이론](https://ko.wikipedia.org/wiki/K·p_섭동_이론).
 
 
 [응집물질물리학](../Page/응집물질물리학.md "wikilink")에서, ***k·p* 섭동 이론**()은 [띠구조](../Page/띠구조.md "wikilink")를 다루는 [섭동 이론의](../Page/섭동_이론_\(양자역학\).md "wikilink") 하나다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Grace \(  \)](https://ko.wikipedia.org/wiki/Grace_\(__\)).
+> This article is converted from Wikipedia: [Grace \(제프 버클리의 음반\)](https://ko.wikipedia.org/wiki/Grace_\(제프_버클리의_음반\)).
 
 
 《**Grace**》는 [제프 버클리의](../Page/제프_버클리.md "wikilink") 1집 음반이다. 음반의 제목은 제프 버클리와 [게리 루카스가](https://ko.wikipedia.org/wiki/게리_루카스 "wikilink") 작사, 작곡한 〈Grace〉라는 곡에서 따온 것으로, 이 음반의 수록곡이기도 하다. 처음 앨범이 발매되었을 때에는 발매량 자체가 적어 미국 음반차트에서 149위에 그쳤으나, 이후 재발매되어 현재까지 전 세계적으로 200만 장이 팔린 것으로 알려졌다.

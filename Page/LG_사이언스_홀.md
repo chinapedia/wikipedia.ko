@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 사이언스 홀](https://ko.wikipedia.org/wiki/LG_사이언스_홀).
 
 
 **LG사이언스홀(LG Science Hall)**은 LG가 1987년 국내 기업 최초로 설립한 과학관으로 세계의 미래를 이끌어갈 우리 청소년들이 과학의 꿈을 키우는 것을 돕기 위해 LG가 만든 ‘체험형 과학관’으로 서울과 부산 2곳에서 운영되고 있다.

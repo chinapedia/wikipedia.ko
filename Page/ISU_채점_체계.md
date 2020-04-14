@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ISU  ](https://ko.wikipedia.org/wiki/ISU__).
+> This article is converted from Wikipedia: [ISU 채점 체계](https://ko.wikipedia.org/wiki/ISU_채점_체계).
 
 
 **ISU 채점 체계**()는 [국제스케이트연맹](https://ko.wikipedia.org/wiki/국제스케이트연맹 "wikilink")(ISU)이 규정한 [피겨 스케이팅](https://ko.wikipedia.org/wiki/피겨_스케이팅 "wikilink") 경기의 채점 방식이다.

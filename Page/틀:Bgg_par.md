@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Bgg par](https://ko.wikipedia.org/wiki/:Bgg_par).
+> This article is converted from Wikipedia: [틀:Bgg par](https://ko.wikipedia.org/wiki/틀:Bgg_par).
 
 
 <cite style="font-style:normal" id="template_boardgamegeek"> \[<http://www.boardgamegeek.com/>{{\#ifeq:}}}}}}|search|quicksearch.php?exact=0\&search=|}}}}}}/}}}}}}}} }}}}}}}}\]{{\#if:}}}|{{\#if:}}}|{{\#if:}}}|{{\#if:}}}|,|}}|}}|}}|}} {{\#if:}}}|{{\#if:}}}|{{\#if:}}}}}}||과(와)}} \[<http://www.boardgamegeek.com/>{{\#ifeq:}}}}}}|search|quicksearch.php?exact=0\&search=|}}}}}}/}}}}} }}}\]|}}|}} {{\#if:}}}|{{\#if:}}}|과(와) \[<http://www.boardgamegeek.com/>{{\#ifeq:}}}}}}|search|quicksearch.php?exact=0\&search=|}}}}}}/}}}}} }}}\]|}}|}} - [보드게임긱](../Page/보드게임긱.md "wikilink")</cite><noinclude>

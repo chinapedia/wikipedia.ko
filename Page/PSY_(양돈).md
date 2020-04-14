@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PSY \(\)](https://ko.wikipedia.org/wiki/PSY_\(\)).
+> This article is converted from Wikipedia: [PSY \(양돈\)](https://ko.wikipedia.org/wiki/PSY_\(양돈\)).
 
 
 **PSY**는 [축산](https://ko.wikipedia.org/wiki/축산 "wikilink")업 용어로, *Pig(=piglet) per Sow per Year*의 [줄임말](https://ko.wikipedia.org/wiki/줄임말 "wikilink")이다. 어미[돼지](../Page/돼지.md "wikilink") 한마리가 1년에 낳는 새끼돼지의 마리수를 말하며\[1\], 돼지를 생산하는 [농장](https://ko.wikipedia.org/wiki/농장 "wikilink")의 생산효율 지표로서 널리 사용된다.

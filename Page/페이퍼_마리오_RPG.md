@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  RPG](https://ko.wikipedia.org/wiki/__RPG).
+> This article is converted from Wikipedia: [페이퍼 마리오 RPG](https://ko.wikipedia.org/wiki/페이퍼_마리오_RPG).
 
 
 **페이퍼 마리오 RPG**(, )는 [RPG](https://ko.wikipedia.org/wiki/RPG "wikilink") 형식의 비디오 게임으로, [인텔리전트 시스템즈에서](../Page/인텔리전트_시스템즈.md "wikilink") 개발, [닌텐도](../Page/닌텐도.md "wikilink")를 통해 보급되었다. 페이퍼 마리오 RPG는 마리오 RPG 시리즈의 4번째이자 페이퍼 마리오 시리즈의 2번째 게임이다.

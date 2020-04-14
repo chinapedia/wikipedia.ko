@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JNN ](https://ko.wikipedia.org/wiki/JNN_).
+> This article is converted from Wikipedia: [JNN 뉴스데스크](https://ko.wikipedia.org/wiki/JNN_뉴스데스크).
 
 
 **JNN 뉴스데스크**는 일본의 민영방송국 [도쿄 방송을](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 중심으로 한 일본의 방송네트워크 [JNN](https://ko.wikipedia.org/wiki/JNN "wikilink") 계열국에서 [1969년](../Page/1969년.md "wikilink") [3월 31일부터](../Page/3월_31일.md "wikilink") [1988년](../Page/1988년.md "wikilink") [9월 25일까지](../Page/9월_25일.md "wikilink")\[1\] 방송한 뉴스 프로그램이다.

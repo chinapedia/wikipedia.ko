@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IE  ](https://ko.wikipedia.org/wiki/IE__).
+> This article is converted from Wikipedia: [IE 비즈니스 스쿨](https://ko.wikipedia.org/wiki/IE_비즈니스_스쿨).
 
 
 **IE 비즈니스 스쿨**(IE Business School)은 [스페인](../Page/스페인.md "wikilink") [마드리드](../Page/마드리드.md "wikilink")에 있는 대학원이다. 1973년 **Instituto de Empresa**라는 이름으로 설립되었으며, 2009년부터는 IE University의 산하 경영대학원으로 소속되어 있다.

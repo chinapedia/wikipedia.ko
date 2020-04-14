@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WikiSky](https://ko.wikipedia.org/wiki/:WikiSky).
+> This article is converted from Wikipedia: [틀:WikiSky](https://ko.wikipedia.org/wiki/틀:WikiSky).
 
 
 <includeonly>\* }} on [WikiSky](https://ko.wikipedia.org/wiki/WikiSky "wikilink"): \[<http://www.wikisky.org/?object=> }}{{

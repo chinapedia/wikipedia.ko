@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 파스칼](https://ko.wikipedia.org/wiki/GNU_파스칼).
 
 
 **GNU 파스칼**(GNU Pascal)은 [컴파일러](../Page/컴파일러.md "wikilink") 가운데 하나로 [GNU 계획에서](../Page/GNU.md "wikilink") 만들었다. [ISO 7185](https://ko.wikipedia.org/wiki/ISO_7185 "wikilink")([파스칼](../Page/파스칼_\(프로그래밍_언어\).md "wikilink") 표준)와 어울리며 [ISO 10206](https://ko.wikipedia.org/wiki/ISO_10206 "wikilink")(확장 파스칼 표준)의 대부분을 만족한다. 설치된 채로 아무 환경에나 옮겨 놓아도 잘 작동한다는 이점이 있으나 이 경우 [마이크로소프트 윈도에서는](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [GNU 컴파일러 모음의](../Page/GNU_컴파일러_모음.md "wikilink") 일부라는 점 때문에 함께 설치된 다른 컴파일러까지 모두 함께 옮겨진다는 부담이 있다.

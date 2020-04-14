@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [센트럴코스트 매리너스 FC](https://ko.wikipedia.org/wiki/센트럴코스트_매리너스_FC).
 
 
 **센트럴코스트 매리너스 FC**(Central Coast Mariners FC)는 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로축구단으로, 연고지는 [뉴사우스웨일스주](../Page/뉴사우스웨일스주.md "wikilink")의 [시드니](../Page/시드니.md "wikilink")의 북쪽으로 약 80km 떨어져 있는 [센트럴코스트](https://ko.wikipedia.org/wiki/센트럴코스트 "wikilink")의 [고스퍼드](../Page/고스퍼드.md "wikilink")에 자리잡고 있다. 센트럴코스트 매리너스는 현재 오스트레일리아의 1부 리그인 [A리그](../Page/A리그.md "wikilink")에 참가하고 있다. 센트럴코스트 매리너스는 [뉴캐슬 유나이티드 제츠](../Page/뉴캐슬_유나이티드_제츠_FC.md "wikilink"), [시드니와](../Page/시드니_FC.md "wikilink") 함께 [A리그](../Page/A리그.md "wikilink")에 참가하고 있는 [뉴사우스웨일스주](../Page/뉴사우스웨일스주.md "wikilink") 클럽 세 팀 가운데 하나이다.

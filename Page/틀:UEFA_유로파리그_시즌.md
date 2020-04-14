@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UEFA  ](https://ko.wikipedia.org/wiki/:UEFA__).
+> This article is converted from Wikipedia: [틀:UEFA 유로파리그 시즌](https://ko.wikipedia.org/wiki/틀:UEFA_유로파리그_시즌).
 
 
 <onlyinclude></onlyinclude>

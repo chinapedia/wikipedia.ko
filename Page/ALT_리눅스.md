@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ALT ](https://ko.wikipedia.org/wiki/ALT_).
+> This article is converted from Wikipedia: [ALT 리눅스](https://ko.wikipedia.org/wiki/ALT_리눅스).
 
 
 **ALT 리눅스**(ALT Linux)는 [리눅스 커널과](../Page/리눅스_커널.md "wikilink") 시시포스(Sisyphus) 계열의 RPM 기반의 [운영 체제](../Page/운영_체제.md "wikilink") 가운데 하나로 [모스크바](../Page/모스크바.md "wikilink")의 IP랩스 리눅스 팀에서 파생된 ALT 리눅스 팀에서 ALT 리눅스 시시포스 계획에 따라 만들었다. 정확한 현지화와 [APT](https://ko.wikipedia.org/wiki/고급_패키지_도구 "wikilink"), [시냅틱](https://ko.wikipedia.org/wiki/시냅틱 "wikilink")을 통한 효율적 꾸러미 관리 등을 장점으로 가지고 있으며 이 운영 체제의 불안정판 저장소인 시시포스는 2007년 최우수 C뉴스상을 받기도 했다.

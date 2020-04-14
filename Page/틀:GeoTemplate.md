@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:GeoTemplate](https://ko.wikipedia.org/wiki/:GeoTemplate).
+> This article is converted from Wikipedia: [틀:GeoTemplate](https://ko.wikipedia.org/wiki/틀:GeoTemplate).
 
 
 <noinclude>__NOINDEX__</noinclude>

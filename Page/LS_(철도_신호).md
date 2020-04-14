@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LS \( \)](https://ko.wikipedia.org/wiki/LS_\(_\)).
+> This article is converted from Wikipedia: [LS \(철도 신호\)](https://ko.wikipedia.org/wiki/LS_\(철도_신호\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Ls2_zobrazovac1.JPG "wikilink") **LS**는 [체코](../Page/체코.md "wikilink") 및 [슬로바키아](../Page/슬로바키아.md "wikilink")에서 사용하는 철도 신호 시스템이다. 선로 허용 속도가 100km/h를 넘는 모든 구간에 설치되어 있다. 기관사 상태와 연동해서 동작한다는 특징이 있다.

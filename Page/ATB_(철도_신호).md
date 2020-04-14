@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATB \( \)](https://ko.wikipedia.org/wiki/ATB_\(_\)).
+> This article is converted from Wikipedia: [ATB \(철도 신호\)](https://ko.wikipedia.org/wiki/ATB_\(철도_신호\)).
 
 
 [섬네일|260px|네덜란드에서 사용하는 철도 신호 시스템:      ](https://ko.wikipedia.org/wiki/파일:ATB-kaart.png "wikilink") **ATB**()는 네덜란드에서 사용하는 철도 신호 시스템이다.

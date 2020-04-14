@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:A](https://ko.wikipedia.org/wiki/:A).
+> This article is converted from Wikipedia: [틀:A리그](https://ko.wikipedia.org/wiki/틀:A리그).
 
 
 <onlyinclude></onlyinclude>
