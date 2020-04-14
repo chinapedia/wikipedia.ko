@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [N.EX.T  ](https://ko.wikipedia.org/wiki/N.EX.T__).
+> This article is converted from Wikipedia: [N.EX.T의 음반 목록](https://ko.wikipedia.org/wiki/N.EX.T의_음반_목록).
 
 
-**[N.EX.T](../Page/N.EX.T.md "wikilink")**가 그동안 참여/발매한 음반들은 다음과 같다.
+**[N.EX.T](../Page/N.EX.T.md "wikilink")**(넥스트)가 그동안 참여/발매한 음반들은 다음과 같다.
 
 ## 정규 앨범
 
@@ -73,11 +73,7 @@
     :\*The Empire Of Hatred : 증오의 제국
     :\*개판 5분전 만취 공중 해적단 : Part II Totally Screwed Up Drunken Aero-Pirates
     :\*Dance United
-    :\*Cyber Budha Company Ltd.
-      -
-
-          -
-            \- 일부러 했는지 실수인지는 모르지만 불교의 부처(Buddha)가 아닌 힌두교의 Budha임.
+    :\*Cyber Budha\[1\] Company Ltd.
 
 ## 라이브 앨범
 
@@ -302,6 +298,8 @@
     <u>2007년 〈D-War：Legend of Dragon〉</u>
     :\* 1. The Virgin Flight (Theme of Imoogi) - N.EX.T
 
-## 외부 링크
+## 각주
 
 [N.EX.T의_음반](https://ko.wikipedia.org/wiki/분류:N.EX.T의_음반 "wikilink") [분류:대한민국 음악가의 음반 연보](https://ko.wikipedia.org/wiki/분류:대한민국_음악가의_음반_연보 "wikilink")
+
+1.  일부러 했는지 실수인지는 모르지만 정확한 철자는 불교의 부처(Buddha)가 아닌 힌두교의 Budha이다.

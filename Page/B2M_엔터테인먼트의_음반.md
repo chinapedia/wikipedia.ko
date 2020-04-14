@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B2M  ](https://ko.wikipedia.org/wiki/B2M__).
+> This article is converted from Wikipedia: [B2M 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/B2M_엔터테인먼트의_음반).
 
 
 이 문서는 [B2M 엔터테인먼트에서](../Page/B2M_엔터테인먼트.md "wikilink") 발표한 음반의 목록이다.
@@ -25,7 +25,7 @@
   - 2013년 3월 6일 스피카 - **[그 겨울,바람이 분다 OST Part 4](https://ko.wikipedia.org/wiki/그_겨울,바람이_분다 "wikilink")**
   - 2013년 3월 14일 허영생 - **LIFE**
   - 2013년 3월 26일 에릭남 - **Love In Memory OST Part.2**
-  - 2013년 5월 21일 이효리 - **[MONOCHROME](../Page/MONOCHROME.md "wikilink")**
+  - 2013년 5월 21일 이효리 - **[MONOCHROME](../Page/MONOCHROME_\(이효리의_음반\).md "wikilink")**
   - 2013년 8월 28일 스피카 - **\[Digital Single\] [Tonight](https://ko.wikipedia.org/wiki/Tonight_\(스피카의_노래\) "wikilink")**
   - 2013년 9월 26일 스피카 - **댄싱9**
   - 2013년 10월 16일 허영생 - **She**

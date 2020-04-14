@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fin \(\)](https://ko.wikipedia.org/wiki/Fin_\(\)).
+> This article is converted from Wikipedia: [Fin \(노래\)](https://ko.wikipedia.org/wiki/Fin_\(노래\)).
 
 
 〈**Fin**〉(핀)은 [1986년](../Page/1986년.md "wikilink") [9월 25일에](../Page/9월_25일.md "wikilink") 발표한 일본의 가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 16번째 싱글이다. ([EP](../Page/익스텐디드_플레이.md "wikilink"): L-1752) 작사는 마츠모토 잇키()가, 작곡은 사토 켄()이, 편곡은 사토 준()이 담당하였으며 [워너 파이오니어의](../Page/워너_뮤직_재팬.md "wikilink") 레이블로 출시되었다. [B면은](https://ko.wikipedia.org/wiki/B사이드 "wikilink") 〈위험한 MON AMOUR〉()이며 작사는 교 에이코()가, 작곡은 스즈키 키사부로()가, 편곡은 시이나 카즈오()가 도맡았다.\[1\]

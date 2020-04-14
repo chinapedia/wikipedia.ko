@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EA    ](https://ko.wikipedia.org/wiki/EA____).
+> This article is converted from Wikipedia: [EA 디지털 일루션스 크리에이티브 엔터테인먼트](https://ko.wikipedia.org/wiki/EA_디지털_일루션스_크리에이티브_엔터테인먼트).
 
 
 **EA 디지털 일루션스 크리에이티브 엔터테인먼트 주식회사**(, 약식: **DICE**, <small>다이스</small>)는 [1992년](../Page/1992년.md "wikilink") 설립된 [스웨덴](../Page/스웨덴.md "wikilink")의 게임 제작사이다.

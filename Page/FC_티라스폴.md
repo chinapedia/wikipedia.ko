@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 티라스폴](https://ko.wikipedia.org/wiki/FC_티라스폴).
 
 
 **FC 티라스폴**(FC Tiraspol)은 [몰도바](../Page/몰도바.md "wikilink")의 도시 [티라스폴](../Page/티라스폴.md "wikilink")을 연고지로 하는 축구팀이다. 현재 몰도바 최고 리그 [디비지아 나치오날러에](../Page/디비지아_나치오날러.md "wikilink") 소속되어 있다.

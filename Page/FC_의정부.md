@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 의정부](https://ko.wikipedia.org/wiki/FC_의정부).
 
 
 **FC 의정부**()는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [의정부시](../Page/의정부시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 [축구](../Page/축구.md "wikilink")단이다. [2013년](../Page/2013년.md "wikilink")부터 창단 준비작업을 하여 2014년 공식 창단되어 [2014년](../Page/2014년.md "wikilink")부터 [K3 리그에](https://ko.wikipedia.org/wiki/K3_리그 "wikilink") 참가하고 있다. 2018 시즌이후 팀을 해체한다고 발표했다.

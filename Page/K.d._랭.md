@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K.d. ](https://ko.wikipedia.org/wiki/K.d._).
+> This article is converted from Wikipedia: [K.d. 랭](https://ko.wikipedia.org/wiki/K.d._랭).
 
 
 **k.d. 랭**(, [1961년](../Page/1961년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") \~ )은 [캐나다](../Page/캐나다.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.

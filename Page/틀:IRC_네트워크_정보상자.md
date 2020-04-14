@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IRC  ](https://ko.wikipedia.org/wiki/:IRC__).
+> This article is converted from Wikipedia: [틀:IRC 네트워크 정보상자](https://ko.wikipedia.org/wiki/틀:IRC_네트워크_정보상자).
 
 
 } | titleclass = summary | image = {{\#if:|}} | caption = {{\#if:|}} | labelstyle = white-space: nowrap | label1 = Founded | data1 = }}} | label2 = Geographic location | data2 = }}} | label3 = Based in | data3 = }}} | label4 = Executive board | data4 = }}} | label5 = 웹사이트 주소 | data5 = }}} | label6 = Primary DNS | data6 = }}} | label7 = Average users | data7 = }}} | label8 = Average channels | data8 = }}} | label9 = Average servers | data9 = }}} | label10 = Content/subject | data10 = }}} }}<noinclude>  </noinclude>

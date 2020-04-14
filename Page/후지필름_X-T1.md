@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X-T1](https://ko.wikipedia.org/wiki/_X-T1).
+> This article is converted from Wikipedia: [후지필름 X-T1](https://ko.wikipedia.org/wiki/후지필름_X-T1).
 
 
 **후지필름 X-T1**은 [2014년](../Page/2014년.md "wikilink") 1월 28일 출시한 후지필름의 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). 후지필름 미러리스로는 최초로 방진 방습 구조를 채택했으며, 1,630만 화소 APS-C X-Trans CMOS II와 75포인트의 실링처리를 갖춘 마그네슘 다이캐스팅 바디가 특징이다. 다만 방진방습 기능을 적용받기 위해서는 함께 출시된 XF 18-135mm F3.5-5.6 R OIS WR와 XF 16-55mmF2.8 R OIS WR, XF 50-140mmF2.8 R OIS WR 렌즈를 사용해야 한다.

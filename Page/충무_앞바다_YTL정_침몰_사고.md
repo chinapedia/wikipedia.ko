@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  YTL  ](https://ko.wikipedia.org/wiki/__YTL__).
+> This article is converted from Wikipedia: [충무 앞바다 YTL정 침몰 사고](https://ko.wikipedia.org/wiki/충무_앞바다_YTL정_침몰_사고).
 
 
 **충무 앞바다 YTL정 침몰 사고** 또는 **해군 예인정 침몰 사고**는 [1974년](../Page/1974년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") [충무시](https://ko.wikipedia.org/wiki/통영시 "wikilink") 앞바다에서 대한민국 해군 소속 YTL정(잡역 보조선)이 전복, 침몰한 사고이다. 이 사고로 승선 인원 중 해군 신병 103명, 해경 50명, 실무요원 6명 등 모두 159명이 순직하였다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RUN \(\)](https://ko.wikipedia.org/wiki/RUN_\(\)).
+> This article is converted from Wikipedia: [RUN \(콘서트\)](https://ko.wikipedia.org/wiki/RUN_\(콘서트\)).
 
 
 **RUN**은 [대한민국](../Page/대한민국.md "wikilink") 및 [일본](../Page/일본.md "wikilink")에서 활동하는 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [윤하](../Page/윤하.md "wikilink")의 콘서트이다. 또한, 이전의 소속사였던 [라이온미디어](https://ko.wikipedia.org/wiki/라이온미디어 "wikilink")에서 나온 후 첫 콘서트이다. [2012년](../Page/2012년.md "wikilink") [7월 28일](../Page/7월_28일.md "wikilink") 서울 공연과 [8월 11일](../Page/8월_11일.md "wikilink") 부산 공연, 총 2회의 공연을 가졌다.

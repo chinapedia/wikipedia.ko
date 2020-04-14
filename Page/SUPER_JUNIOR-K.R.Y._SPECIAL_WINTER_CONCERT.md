@@ -22,7 +22,7 @@
 ## 제작
 
   - [슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink") ([예성](../Page/예성.md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink"))
-  - 기획·제작 : [에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink"), SM 엔터테인먼트 재팬
+  - 기획 · 제작 : [에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink"), [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 재팬
 
 ## 각주
 

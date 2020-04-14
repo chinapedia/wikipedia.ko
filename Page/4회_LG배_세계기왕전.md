@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [4 LG ](https://ko.wikipedia.org/wiki/4_LG_).
+> This article is converted from Wikipedia: [4회 LG배 세계기왕전](https://ko.wikipedia.org/wiki/4회_LG배_세계기왕전).
 
 
 ## 대진표

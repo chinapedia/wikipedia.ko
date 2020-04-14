@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 예술무대](https://ko.wikipedia.org/wiki/TV_예술무대).
 
 
-《**TV 예술무대**》는 [2013년](../Page/2013년.md "wikilink") [1월 8일부터](../Page/1월_8일.md "wikilink") 방영 중인 [MBC의](../Page/문화방송.md "wikilink") [공연](https://ko.wikipedia.org/wiki/공연 "wikilink")•[음악](../Page/음악.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
+《**TV 예술무대**》는 [2013년](../Page/2013년.md "wikilink") [1월 8일부터](../Page/1월_8일.md "wikilink") 방영 중인 [MBC의](../Page/문화방송.md "wikilink") [공연](https://ko.wikipedia.org/wiki/공연 "wikilink")•[음악](../Page/음악.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [프로그램이며](../Page/텔레비전_프로그램.md "wikilink") 현재 진행자는 [2018년](../Page/2018년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") 그 다음의 후임으로 진행자으로 들어온 [피아니스트](https://ko.wikipedia.org/wiki/피아니스트 "wikilink") [손열음](../Page/손열음.md "wikilink") 씨로 다시 2년 만에 부활하는 [수요예술무대](../Page/수요예술무대.md "wikilink")에 뒤를 이어서 현재의 [TV예술무대](https://ko.wikipedia.org/wiki/TV예술무대 "wikilink")의 명맥이 이어오기 때문이다.
 
 ## 방송 시간
 
@@ -161,7 +161,7 @@
 
 ## 진행자
 
-  - [손열음](../Page/손열음.md "wikilink")
+  - [손열음](../Page/손열음.md "wikilink") ([2018년](../Page/2018년.md "wikilink") [7월 14일](../Page/7월_14일.md "wikilink") \~ )
 
 ## 방송 목록
 

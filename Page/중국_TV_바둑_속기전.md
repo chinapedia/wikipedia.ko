@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV  ](https://ko.wikipedia.org/wiki/_TV__).
+> This article is converted from Wikipedia: [중국 TV 바둑 속기전](https://ko.wikipedia.org/wiki/중국_TV_바둑_속기전).
 
 
 **중국 TV 바둑 속기전**(中国电视围棋快棋赛)은 [CCTV와](../Page/중국중앙텔레비전.md "wikilink") [중국바둑협회](https://ko.wikipedia.org/wiki/중국바둑협회 "wikilink")가 주최, 주관하는 중국의 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). 우승자와 준우승자 또는 결승 진출자들은 1989년부터 매년 한국 KBS, 일본 NHK, 중국 CCTV가 한국,일본,중국을 3국이 번갈아가며 교대로 개최하는 [TV 바둑 아시아 선수권대회에](../Page/TV_바둑_아시아_선수권대회.md "wikilink") 출전한다
@@ -17,17 +17,17 @@
 
 | 회수 | 연도   | 우승                                                         | 전적  | 준우승                                                           |
 | -- | ---- | ---------------------------------------------------------- | --- | ------------------------------------------------------------- |
-| 1  | 1987 | **[녜웨이핑](https://ko.wikipedia.org/wiki/녜웨이핑 "wikilink")**  | 1-0 | [차오다위안](https://ko.wikipedia.org/wiki/차오다위안 "wikilink")       |
+| 1  | 1987 | **[녜웨이핑](../Page/녜웨이핑.md "wikilink")**                     | 1-0 | [차오다위안](https://ko.wikipedia.org/wiki/차오다위안 "wikilink")       |
 | 2  | 1988 | '''[첸위핑](https://ko.wikipedia.org/wiki/첸위핑 "wikilink")     | 1-0 | [차오다위안](https://ko.wikipedia.org/wiki/차오다위안 "wikilink")       |
-| 3  | 1989 | '''[마샤오춘](../Page/마샤오춘.md "wikilink")                      | 1-0 | [녜웨이핑](https://ko.wikipedia.org/wiki/녜웨이핑 "wikilink")         |
+| 3  | 1989 | '''[마샤오춘](../Page/마샤오춘.md "wikilink")                      | 1-0 | [녜웨이핑](../Page/녜웨이핑.md "wikilink")                            |
 | 4  | 1990 | '''[첸위핑](https://ko.wikipedia.org/wiki/첸위핑 "wikilink")     | 1-0 | [류샤오광](https://ko.wikipedia.org/wiki/류샤오광 "wikilink")         |
 | 5  | 1991 | '''[마샤오춘](../Page/마샤오춘.md "wikilink")                      | 1-0 | [차오다위안](https://ko.wikipedia.org/wiki/차오다위안 "wikilink")       |
-| 6  | 1992 | '''[마샤오춘](../Page/마샤오춘.md "wikilink")                      | 1-0 | [녜웨이핑](https://ko.wikipedia.org/wiki/녜웨이핑 "wikilink")         |
-| 7  | 1993 | '''[녜웨이핑](https://ko.wikipedia.org/wiki/녜웨이핑 "wikilink")   | 1-0 | [마샤오춘](../Page/마샤오춘.md "wikilink")                            |
+| 6  | 1992 | '''[마샤오춘](../Page/마샤오춘.md "wikilink")                      | 1-0 | [녜웨이핑](../Page/녜웨이핑.md "wikilink")                            |
+| 7  | 1993 | '''[녜웨이핑](../Page/녜웨이핑.md "wikilink")                      | 1-0 | [마샤오춘](../Page/마샤오춘.md "wikilink")                            |
 | 8  | 1994 | '''[마샤오춘](../Page/마샤오춘.md "wikilink")                      | 1-0 | [첸위핑](https://ko.wikipedia.org/wiki/첸위핑 "wikilink")           |
-| 9  | 1995 | '''[마샤오춘](../Page/마샤오춘.md "wikilink")                      | 1-0 | [녜웨이핑](https://ko.wikipedia.org/wiki/녜웨이핑 "wikilink")         |
+| 9  | 1995 | '''[마샤오춘](../Page/마샤오춘.md "wikilink")                      | 1-0 | [녜웨이핑](../Page/녜웨이핑.md "wikilink")                            |
 | 10 | 1996 | '''[차오다위안](https://ko.wikipedia.org/wiki/차오다위안 "wikilink") | 1-0 | [왕레이](https://ko.wikipedia.org/wiki/왕레이_\(1977년\) "wikilink") |
-| 11 | 1997 | '''[녜웨이핑](https://ko.wikipedia.org/wiki/녜웨이핑 "wikilink")   | 1-0 | [위빈](../Page/위빈_\(바둑_기사\).md "wikilink")                      |
+| 11 | 1997 | '''[녜웨이핑](../Page/녜웨이핑.md "wikilink")                      | 1-0 | [위빈](../Page/위빈_\(바둑_기사\).md "wikilink")                      |
 | 12 | 1999 | '''[창하오](../Page/창하오.md "wikilink")                        | 1-0 | [류싱](https://ko.wikipedia.org/wiki/류싱 "wikilink")             |
 | 13 | 2001 | '''[후야오위](../Page/후야오위.md "wikilink")                      | 1-0 | [마샤오춘](../Page/마샤오춘.md "wikilink")                            |
 |    |      |                                                            |     |                                                               |

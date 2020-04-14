@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NC    ](https://ko.wikipedia.org/wiki/NC____).
+> This article is converted from Wikipedia: [NC 다이노스 역대 개막전 라인업](https://ko.wikipedia.org/wiki/NC_다이노스_역대_개막전_라인업).
 
 
 **NC 다이노스 역대 개막전 라인업**은 NC 다이노스의 역대 개막전 선발출장 선수를 일컫는다.

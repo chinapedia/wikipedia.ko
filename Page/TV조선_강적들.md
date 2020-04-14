@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV조선 강적들](https://ko.wikipedia.org/wiki/TV조선_강적들).
 
 
 《**강적들**》은 [대한민국](../Page/대한민국.md "wikilink")의 [TV조선](../Page/TV조선.md "wikilink")의 예능 프로그램으로서 예능과 황색저널 사이를 아슬아슬하게 넘나들며 최근 또는 과거의 이슈와 인물에 대해 우파적 입장에서 새롭게 분석하는 '시사 비하인드 토크쇼'를 표방한 프로그램이다. 편향적 프로그램이라는 비판을 피하기 위해 좌파 패널도 한명 세워놨다.\[1\]

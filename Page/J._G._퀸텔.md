@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [J. G. ](https://ko.wikipedia.org/wiki/J._G._).
+> This article is converted from Wikipedia: [J. G. 퀸텔](https://ko.wikipedia.org/wiki/J._G._퀸텔).
 
 
-**제임스 갈런드 "J. G." 퀸텔** (, 1982년 9월 13일\~)은 [미국](../Page/미국.md "wikilink")의 [애니메이터](https://ko.wikipedia.org/wiki/애니메이터 "wikilink"), 텔레비전 [작가](https://ko.wikipedia.org/wiki/작가 "wikilink")이자 [성우](../Page/성우.md "wikilink")이다.
+**제임스 갈런드 "J. G." 퀸텔**(, 1982년 9월 13일\~)은 [미국](../Page/미국.md "wikilink")의 [애니메이터](https://ko.wikipedia.org/wiki/애니메이터 "wikilink"), 텔레비전 [작가](https://ko.wikipedia.org/wiki/작가 "wikilink")이자 [성우](../Page/성우.md "wikilink")이다.
 
 ## 이력
 

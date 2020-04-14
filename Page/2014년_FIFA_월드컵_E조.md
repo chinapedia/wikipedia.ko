@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA  E](https://ko.wikipedia.org/wiki/2014_FIFA__E).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 E조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_E조).
 
 
 **[2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") E조**는 [스위스](../Page/스위스_축구_국가대표팀.md "wikilink"), [에콰도르](../Page/에콰도르_축구_국가대표팀.md "wikilink"), [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 그리고 [온두라스가](../Page/온두라스_축구_국가대표팀.md "wikilink") 들어갔다. E조 첫경기는 2014년 6월 15일에 치러졌고, 마지막 경기는 6월 25일에 치러졌다.
@@ -991,7 +991,7 @@
 에르난 마이다나 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 후안 파블로 벨라티 (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/밀로라드_마지치" title="wikilink">밀로라드 마지치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
+<a href="../Page/밀로라드_마지치.md" title="wikilink">밀로라드 마지치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
 <strong>후보 대기심:</strong><br />
 밀로반 리스티치 (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)</p></td>
 </tr>

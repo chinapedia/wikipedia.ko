@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SCREAM \( \)](https://ko.wikipedia.org/wiki/SCREAM_\(_\)).
+> This article is converted from Wikipedia: [SCREAM \(동방신기의 노래\)](https://ko.wikipedia.org/wiki/SCREAM_\(동방신기의_노래\)).
 
 
 〈**SCREAM**〉(스크림)은 일본에서 발매한 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 38번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.

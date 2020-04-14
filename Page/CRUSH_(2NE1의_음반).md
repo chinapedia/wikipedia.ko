@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CRUSH \(2NE1 \)](https://ko.wikipedia.org/wiki/CRUSH_\(2NE1_\)).
+> This article is converted from Wikipedia: [CRUSH \(2NE1의 음반\)](https://ko.wikipedia.org/wiki/CRUSH_\(2NE1의_음반\)).
 
 
 《**CRUSH**》는 대한민국의 음악 그룹 [2NE1](../Page/2NE1.md "wikilink")의 한국과 일본 두 번째 정규 음반이다. 온라인 음원은 2월 27일 자정에 공개되었고, 음반 발매는 3월 7일 (한국)과 6월 25일 (일본)이다. 앨범은 더블타이틀인 "Come Back Home"과 "너 아님 안돼"를 포함해 10개의 트랙으로 구성되어 있다. 이 앨범은 빌보드 월드 앨범 차트 연말 결산 11위의 기록을 세웠고, 빌보드 200에 61위로 데뷔하여 한국 가수 가운데 첫 100위권 내 진입과 동시에 최고 순위가수로 기록되었다.

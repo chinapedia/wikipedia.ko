@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. J. ](https://ko.wikipedia.org/wiki/J._J._).
+> This article is converted from Wikipedia: [J. J. 하디](https://ko.wikipedia.org/wiki/J._J._하디).
 
 
 **제임스 제리 하디**(James Jerry Hardy, [1982년](../Page/1982년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [야구](../Page/야구.md "wikilink")이다.

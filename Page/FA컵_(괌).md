@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FA \(\)](https://ko.wikipedia.org/wiki/FA_\(\)).
+> This article is converted from Wikipedia: [FA컵 \(괌\)](https://ko.wikipedia.org/wiki/FA컵_\(괌\)).
 
 
 스폰서에 따라 이름이 달라졌으며 Shirley's Restaurant이 2008년 스폰서였고, Cars Plus가 2009년과 2010년, 2011년엔 Beck's가 스폰서 했고, 지금의 FA컵 이름은 GFA Cup이다.

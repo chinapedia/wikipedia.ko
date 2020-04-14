@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   II ](https://ko.wikipedia.org/wiki/___II_).
+> This article is converted from Wikipedia: [슈퍼 스트리트 파이터 II 터보](https://ko.wikipedia.org/wiki/슈퍼_스트리트_파이터_II_터보).
 
 
 《**슈퍼 스트리트 파이터 II 터보**》(Super Street Fighter II Turbo)는 [스트리트 파이터 II: 더 월드 워리어의](../Page/스트리트_파이터_II:_더_월드_워리어.md "wikilink") 4번째 갱신판이다.

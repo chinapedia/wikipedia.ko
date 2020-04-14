@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJ \(\)](https://ko.wikipedia.org/wiki/CJ_\(\)).
+> This article is converted from Wikipedia: [CJ \(기업\)](https://ko.wikipedia.org/wiki/CJ_\(기업\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:CJBd080211.jpg "wikilink")

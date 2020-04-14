@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SM  ](https://ko.wikipedia.org/wiki/SM__).
+> This article is converted from Wikipedia: [SM 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/SM_엔터테인먼트의_음반).
 
 
 이 문서는 [SM 엔터테인먼트에서](../Page/SM_엔터테인먼트.md "wikilink") 발표한 음반 목록이다.
@@ -1006,7 +1006,7 @@
   - 2019년 1월 2일 려욱 - **너에게 취해**
   - 2019년 1월 4일 루나 - **\[Digital Single\] 운다고**
   - 2019년 1월 10일 예성 - **\[Digital Single\] Carpet**\[133\]
-  - 2019년 1월 17일 [WayV](https://ko.wikipedia.org/wiki/WayV "wikilink") - **\[Digital Single\] The Vision**
+  - 2019년 1월 17일 [WayV](../Page/WayV.md "wikilink") - **\[Digital Single\] The Vision**
   - 2019년 1월 30일 EXO - **EXO PLANET \#4 - The EℓyXiOn \[dot\] -**
   - 2019년 2월 7일 첸 - **진심이 닿다 OST Part.1**
   - 2019년 2월 11일 태민 - **WANT**
@@ -1113,8 +1113,11 @@
   - 2020년 2월 24일 솔희 - **\[Digital Single\] Lady**
   - 2020년 2월 29일 백현 - **하이에나 OST Part.2**
   - 2020년 3월 6일 NCT 127 - **NCT \#127 Neo Zone**
-  - 2020년 3월 ?일 태민 - **미정**
-  - 2020년 3월 ?일 수호 - **미정**
+  - 2020년 3월 16일 규현 - **날씨가 좋으면 찾아가겠어요 OST Part.3**
+  - 2020년 3월 20일 조이 - **슬기로운 의사생활 OST Part.2**
+  - 2020년 3월 30일 수호 - **자화상**
+  - 2020년 4월 6일 최강창민 - **Chocolate**
+  - 2020년 ?월 ?일 태연 - **\[Digital Single\] Happy**
 
 ## 각주
 

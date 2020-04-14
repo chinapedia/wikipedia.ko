@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TREE \( \)](https://ko.wikipedia.org/wiki/TREE_\(_\)).
+> This article is converted from Wikipedia: [TREE \(동방신기의 음반\)](https://ko.wikipedia.org/wiki/TREE_\(동방신기의_음반\)).
 
 
 | 이 앨범에 수록된 싱글                                                                  |
@@ -135,6 +135,13 @@
 | 오리콘 연간 앨범 차트       | 13위   |          |
 | **차트 진입 기간 - 18주** |       |          |
 |                    |       |          |
+
+## 릴리즈기념 구입자 한정 이벤트
+
+| <font size=2>|개최일                  | <font size=2>|도시                                                | <font size=2>|개최지          |
+| ---------------------------------- | --------------------------------------------------------------- | -------------------------- |
+| <font size=2>|2014년 3월 27일 (1일 2회) | <font size=2>|[대판](https://ko.wikipedia.org/wiki/대판 "wikilink") | <font size=2>|오릭스 극장       |
+| <font size=2>|2014년 3월 28일 (1일 2회) | <font size=2>|[동경](https://ko.wikipedia.org/wiki/동경 "wikilink") | <font size=2>|도쿄 국제 포럼 홀 A |
 
 ## 외부 링크
 

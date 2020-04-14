@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\~LOVEPEACE\~ Japan 3rd Tour](https://ko.wikipedia.org/wiki/\~LOVEPEACE\~_Japan_3rd_Tour).
+> This article is converted from Wikipedia: [\~LOVE＆PEACE\~ Japan 3rd Tour](https://ko.wikipedia.org/wiki/\~LOVE＆PEACE\~_Japan_3rd_Tour).
 
 
 《**\~LOVE＆PEACE\~ Japan 3rd Tour**》는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 세 번째 일본 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").

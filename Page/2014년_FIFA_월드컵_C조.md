@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA  C](https://ko.wikipedia.org/wiki/2014_FIFA__C).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 C조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_C조).
 
 
 **[2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") C조**에는 [콜롬비아](../Page/콜롬비아_축구_국가대표팀.md "wikilink"), [그리스](../Page/그리스_축구_국가대표팀.md "wikilink"), [코트디부아르](https://ko.wikipedia.org/wiki/코트디부아르_축구_국가대표팀 "wikilink"), 그리고 [일본이](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 들어갔다. C조 일정은 2014년 6월 14일부터 6월 24일까지 치러졌다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS ](https://ko.wikipedia.org/wiki/HMS_).
+> This article is converted from Wikipedia: [HMS 선더차일드](https://ko.wikipedia.org/wiki/HMS_선더차일드).
 
 
 **선더차일드**(HMS Thunder Child)는 [하버트 조지 웰즈의](https://ko.wikipedia.org/wiki/하버트_조지_웰즈 "wikilink") 소설 《[우주전쟁](https://ko.wikipedia.org/wiki/우주전쟁 "wikilink")》에 등장하는 가공의 군함이다. 함명은 "[뇌진자](https://ko.wikipedia.org/wiki/뇌진자 "wikilink")"라는 뜻이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ARC-V](https://ko.wikipedia.org/wiki/_ARC-V).
+> This article is converted from Wikipedia: [유희왕 ARC-V](https://ko.wikipedia.org/wiki/유희왕_ARC-V).
 
 
 **유희왕 ARC-V**(遊戱王 아크 파이브, )는 유희왕 시리즈의 다섯 번째 작품이며, [2014년](../Page/2014년.md "wikilink") [4월 6일부터](../Page/4월_6일.md "wikilink") [2017년](../Page/2017년.md "wikilink") [3월 26일까지](../Page/3월_26일.md "wikilink") [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 방영하였다. 하지만 비난이 많은 유희왕 시리즈이기도 하다.

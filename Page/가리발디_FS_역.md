@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FS ](https://ko.wikipedia.org/wiki/_FS_).
+> This article is converted from Wikipedia: [가리발디 FS 역](https://ko.wikipedia.org/wiki/가리발디_FS_역).
 
 
 **가리발디 FS 역**()은 [밀라노 지하철의](../Page/밀라노_지하철.md "wikilink") [2호선과](../Page/밀라노_지하철_2호선.md "wikilink") [5호선](../Page/밀라노_지하철_5호선.md "wikilink"), 그리고 [밀라노 파산테 선이](https://ko.wikipedia.org/wiki/밀라노_파산테_선 "wikilink") 만나는 환승역이다. [1971년](../Page/1971년.md "wikilink") [7월 12일에](../Page/7월_12일.md "wikilink") 문을 열었으며, 1978년부터 [카도르나 역까지](../Page/카도르나_역.md "wikilink") 첫 운행하기 전까지는 2호선의 남쪽 종착역이었다. 1997년에는 파산테 역이 문을 열었다. 그리고 [2014년](../Page/2014년.md "wikilink") [3월 1일부터](../Page/3월_1일.md "wikilink") 5호선이 2차 구간이 개통되면서 문을 열었고, [2015년](../Page/2015년.md "wikilink") [4월 29일에](../Page/4월_29일.md "wikilink") [산 시로 스타디오 역까지](../Page/산_시로_스타디오_역.md "wikilink") 연장되기 전까지 남쪽 종착역이 되었다.

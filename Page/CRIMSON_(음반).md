@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CRIMSON \(\)](https://ko.wikipedia.org/wiki/CRIMSON_\(\)).
+> This article is converted from Wikipedia: [CRIMSON \(음반\)](https://ko.wikipedia.org/wiki/CRIMSON_\(음반\)).
 
 
 《**CRIMSON**》(크림슨)은 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 열 번째 정규 음반으로 1986년 12월 24일에 발매하였다. ([LP](https://ko.wikipedia.org/wiki/LP_\(레코드\) "wikilink"): L-12650, [CT](../Page/콤팩트_카세트.md "wikilink"): LKF-8150, [CD](../Page/콤팩트_디스크.md "wikilink"): 32XL-190)\[1\] 음반의 제목인 크림슨은 바로 심홍색으로, 오리콘은 이 음반을 일러 노을진 바다와 하늘의 색, 입술의 색, 그리고 애프터 파이브 드레스\[2\] 의 색이라고 묘사했다. 곡은 모두 싱어송라이터인 [다케우치 마리야와](https://ko.wikipedia.org/wiki/다케우치_마리야 "wikilink") 고바야시 아키코에게서 받았다. 1987년 1월 12일, 오리콘 주간 LP\&TAPES 차트에 처음으로 진입, 1위를 달성하였고 그 다음 주인 1월 19일에도 1위를 차지하는 등 2주 연속 정상을 지켰고, 1월 12일의 주의 매상까지 계산하여 통산 3주간 정상을 차지했다. LP판으로는 23주간 차트 톱100에 머물렀으며 1987년 연간 LP\&TAPES 차트 3위를 기록하였다.\[3\] 또한 이 음반으로 1987년 제29회 [일본 레코드 대상에서](../Page/일본_레코드_대상.md "wikilink") 우수앨범상을 수상하였다.

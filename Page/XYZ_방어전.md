@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XYZ ](https://ko.wikipedia.org/wiki/XYZ_).
+> This article is converted from Wikipedia: [XYZ 방어전](https://ko.wikipedia.org/wiki/XYZ_방어전).
 
 
 **XYZ 방어전**()은 **스페인 내전** 중 동부 공세(Levante Offensive)의 일부이다. 이 전투에서 공화파가 승리함으로써 국민국은 [카스테욘](https://ko.wikipedia.org/wiki/카스테욘_주 "wikilink") 지방을 점령하고도 발렌시아를 얻지 못하였고, 공화파는 전열을 가다듬을 수 있는 귀중한 시간을 벌었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [     - D-day](https://ko.wikipedia.org/wiki/_____-_D-day).
+> This article is converted from Wikipedia: [어느날 갑자기 세 번째 이야기 - D-day](https://ko.wikipedia.org/wiki/어느날_갑자기_세_번째_이야기_-_D-day).
 
 
 《**어느날 갑자기 세 번째 이야기 - D-day**》는 [2006년](../Page/2006년.md "wikilink") [8월 3일에](../Page/8월_3일.md "wikilink") 개봉된 [대한민국](../Page/대한민국.md "wikilink")의 [공포 영화다](../Page/공포_영화.md "wikilink").
@@ -21,7 +21,7 @@
   - [윤다경](../Page/윤다경.md "wikilink") : 사감 역
   - [서혜린](../Page/서혜린_\(배우\).md "wikilink") : 유진 모 역 (우정출연)
   - [최민금](../Page/최민금.md "wikilink") : 원장 역
-  - [최보광](https://ko.wikipedia.org/wiki/최정인_\(배우\) "wikilink") : 보조선생 1 역
+  - [최보광](../Page/최정인_\(배우\).md "wikilink") : 보조선생 1 역
   - 이유리 : 보조선생 2 역
   - [신영진](../Page/신영진.md "wikilink") : 양호선생 역
   - 전은희 : 선생 역

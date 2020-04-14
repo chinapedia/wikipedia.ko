@@ -18,7 +18,7 @@ VRML의 최초 버전은 1994년 11월에 발표되었다. VRML의 모든 기능
 ## 대체 기술
 
   - [3DMLW](https://ko.wikipedia.org/wiki/3DMLW "wikilink"): 3D Markup Language for Web
-  - [COLLADA](https://ko.wikipedia.org/wiki/COLLADA "wikilink"): 크로노스 그룹에서 관리중
+  - [COLLADA](../Page/COLLADA.md "wikilink"): 크로노스 그룹에서 관리중
   - [O3D](../Page/O3D.md "wikilink"): 구글이 개발함
   - [U3D](https://ko.wikipedia.org/wiki/유니버설_3D "wikilink"): Ecma 국제 표준 ECMA-363
   - [Unity3D](https://ko.wikipedia.org/wiki/Unity3D "wikilink"): 브라우저 플러그인으로 온라인 상에서 사용할 수 있는 게임 엔진

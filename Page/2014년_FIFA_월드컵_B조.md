@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA  B](https://ko.wikipedia.org/wiki/2014_FIFA__B).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 B조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_B조).
 
 
 **[2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") B조**는 [스페인](../Page/스페인_축구_국가대표팀.md "wikilink"), [네덜란드](../Page/네덜란드_축구_국가대표팀.md "wikilink"), [칠레](../Page/칠레_축구_국가대표팀.md "wikilink"), 그리고 [오스트레일리아가](../Page/오스트레일리아_축구_국가대표팀.md "wikilink") 들어갔다. 이 조는 전 대회인 [2010년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 두 결승 진출국을 모두 포함하였다: 스페인 (전 대회 우승국) 과 네덜란드 (준우승국) 가 바로 그들이다. B조 일정은 2014년 6월 13일에 시작하여 2014년 6월 23일에 끝났다. 네덜란드와 칠레가 다음 라운드에 진출한 반면, 스페인과 오스트레일리아는 처음 두 경기에서 모두 패하며 탈락하였다. 칠레는 16강전에서 브라질에게 승부차기 접전 끝에 패하였고, 네덜란드는 준결승전까지 올라가서 아르헨티나에게 승부차기로 졌다. 네덜란드는 이후 3위 결정전에서 브라질에게 3-0으로 크게 이겼다.

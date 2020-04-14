@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NPC \(\)](https://ko.wikipedia.org/wiki/NPC_\(\)).
+> This article is converted from Wikipedia: [NPC \(기업\)](https://ko.wikipedia.org/wiki/NPC_\(기업\)).
 
 
 **NPC**(National Plastic Co. Ltd. **舊 내쇼날푸라스틱**)는 플라스틱 사출 제품을 제조 및 판매하는 코스닥 상장 기업이다. 플라스틱 사출공구인 금형 등도 판매한다.

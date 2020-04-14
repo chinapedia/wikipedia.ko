@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Axis Powers  ](https://ko.wikipedia.org/wiki/_Axis_Powers__).
+> This article is converted from Wikipedia: [헤타리아 Axis Powers의 등장인물 목록](https://ko.wikipedia.org/wiki/헤타리아_Axis_Powers의_등장인물_목록).
 
 
 이 문서는 [히마루야 히데카즈의](../Page/히마루야_히데카즈.md "wikilink") 만화 작품인 《**[헤타리아 Axis Powers](../Page/헤타리아_Axis_Powers.md "wikilink")**》와 이를 원작으로 한 [애니메이션](../Page/애니메이션.md "wikilink")의 [등장인물](../Page/등장인물.md "wikilink")에 관한 목록이다.
@@ -9,7 +9,7 @@
 
 추축국 진영의 캐릭터는 이탈리아, 독일, 일본을 중심으로 등장한다.
 
-  - **** (, 성우: [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")), **이탈리아 베네치아노** (, **북이탈리아**) / **어린 시절의 이탈리아** (, 성우: [카나다 아키](https://ko.wikipedia.org/wiki/카나다_아키 "wikilink"))
+  - ****(, 성우: [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")), **이탈리아 베네치아노**(, **북이탈리아**) / **어린 시절의 이탈리아**(, 성우: [카나다 아키](https://ko.wikipedia.org/wiki/카나다_아키 "wikilink"))
 
 <!-- end list -->
 
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [야스모토 히로키](../Page/야스모토_히로키.md "wikilink"))
+  - ****(, 성우: [야스모토 히로키](../Page/야스모토_히로키.md "wikilink"))
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [타카하시 히로키](../Page/타카하시_히로키.md "wikilink")) / **어린 시절의 일본** (, 성우: [이와무라 아이코](https://ko.wikipedia.org/wiki/이와무라_아이코 "wikilink"))
+  - ****(, 성우: [타카하시 히로키](../Page/타카하시_히로키.md "wikilink")) / **어린 시절의 일본**(, 성우: [이와무라 아이코](https://ko.wikipedia.org/wiki/이와무라_아이코 "wikilink"))
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 
 연합국 진영의 캐릭터는 미국, 영국, 프랑스, 러시아, 중국을 중심으로 등장한다. 경우에 따라서는 캐나다를 넣기도 한다.
 
-  - **** (, 성우: [코니시 카츠유키](../Page/코니시_카츠유키.md "wikilink")) / **어린 시절의 미국** (, 성우: [시미즈 류코](https://ko.wikipedia.org/wiki/시미즈_류코 "wikilink") (드라마 CD), [이와무라 아이코](https://ko.wikipedia.org/wiki/이와무라_아이코 "wikilink") (애니메이션))
+  - ****(, 성우: [코니시 카츠유키](../Page/코니시_카츠유키.md "wikilink")) / **어린 시절의 미국**(, 성우: [시미즈 류코](https://ko.wikipedia.org/wiki/시미즈_류코 "wikilink") (드라마 CD), [이와무라 아이코](https://ko.wikipedia.org/wiki/이와무라_아이코 "wikilink") (애니메이션))
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [스기야마 노리아키](../Page/스기야마_노리아키.md "wikilink")) / **어린 시절의 영국** (, 성우: [스도 쇼](https://ko.wikipedia.org/wiki/스도_쇼 "wikilink"))
+  - ****(, 성우: [스기야마 노리아키](../Page/스기야마_노리아키.md "wikilink")) / **어린 시절의 영국**(, 성우: [스도 쇼](https://ko.wikipedia.org/wiki/스도_쇼 "wikilink"))
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [오노사카 마사야](../Page/오노사카_마사야.md "wikilink"))
+  - ****(, 성우: [오노사카 마사야](../Page/오노사카_마사야.md "wikilink"))
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [타카토 야스히로](https://ko.wikipedia.org/wiki/타카토_야스히로 "wikilink"))
+  - ****(, 성우: [타카토 야스히로](https://ko.wikipedia.org/wiki/타카토_야스히로 "wikilink"))
 
 <!-- end list -->
 
@@ -74,7 +74,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [카이다 유키](https://ko.wikipedia.org/wiki/카이다_유키 "wikilink"))
+  - ****(, 성우: [카이다 유키](https://ko.wikipedia.org/wiki/카이다_유키 "wikilink"))
 
 <!-- end list -->
 
@@ -85,7 +85,7 @@
 
 ### 남유럽
 
-  - **** (**이탈리아 로마노** (, 성우: [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")), **남이탈리아** () / **어린 시절의 로마노** (, 성우: [카나다 아키](https://ko.wikipedia.org/wiki/카나다_아키 "wikilink"))
+  - **** (**이탈리아 로마노**(, 성우: [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink")), **남이탈리아**() / **어린 시절의 로마노**(, 성우: [카나다 아키](https://ko.wikipedia.org/wiki/카나다_아키 "wikilink"))
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [이노우에 고](https://ko.wikipedia.org/wiki/이노우에_고 "wikilink"))
+  - ****(, 성우: [이노우에 고](https://ko.wikipedia.org/wiki/이노우에_고 "wikilink"))
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@
 
 <!-- end list -->
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -112,7 +112,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [코우사카 아츠시](https://ko.wikipedia.org/wiki/코우사카_아츠시 "wikilink"))
+  - ****(, 성우: [코우사카 아츠시](https://ko.wikipedia.org/wiki/코우사카_아츠시 "wikilink"))
 
 <!-- end list -->
 
@@ -122,7 +122,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [후지모토 타카히로](https://ko.wikipedia.org/wiki/후지모토_타카히로 "wikilink"))
+  - ****(, 성우: [후지모토 타카히로](https://ko.wikipedia.org/wiki/후지모토_타카히로 "wikilink"))
 
 <!-- end list -->
 
@@ -131,7 +131,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [쿠로사와 토시키](https://ko.wikipedia.org/wiki/쿠로사와_토시키 "wikilink"))
+  - ****(, 성우: [쿠로사와 토시키](https://ko.wikipedia.org/wiki/쿠로사와_토시키 "wikilink"))
 
 <!-- end list -->
 
@@ -140,7 +140,7 @@
 
 <!-- end list -->
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@
 
 ### 중앙유럽
 
-  - **** (, 성우: [사사누마 아키라](https://ko.wikipedia.org/wiki/사사누마_아키라 "wikilink"))
+  - ****(, 성우: [사사누마 아키라](https://ko.wikipedia.org/wiki/사사누마_아키라 "wikilink"))
 
 <!-- end list -->
 
@@ -159,7 +159,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [네야 미치코](../Page/네야_미치코.md "wikilink"))
+  - ****(, 성우: [네야 미치코](../Page/네야_미치코.md "wikilink"))
 
 <!-- end list -->
 
@@ -168,7 +168,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [박로미](../Page/박로미.md "wikilink"))
+  - ****(, 성우: [박로미](../Page/박로미.md "wikilink"))
 
 <!-- end list -->
 
@@ -178,7 +178,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"))
+  - ****(, 성우: [쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink"))
 
 <!-- end list -->
 
@@ -188,7 +188,7 @@
 
 <!-- end list -->
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -197,7 +197,7 @@
 
 <!-- end list -->
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -206,7 +206,7 @@
 
 ### 동유럽
 
-  - **** (, 성우: [타나카 코코로](https://ko.wikipedia.org/wiki/타나카_코코로 "wikilink"))
+  - ****(, 성우: [타나카 코코로](https://ko.wikipedia.org/wiki/타나카_코코로 "wikilink"))
 
 <!-- end list -->
 
@@ -215,7 +215,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [마스다 유키](https://ko.wikipedia.org/wiki/마스다_유키 "wikilink"))
+  - ****(, 성우: [마스다 유키](https://ko.wikipedia.org/wiki/마스다_유키 "wikilink"))
 
 <!-- end list -->
 
@@ -225,7 +225,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [타카노 우라라](https://ko.wikipedia.org/wiki/타카노_우라라 "wikilink"))
+  - ****(, 성우: [타카노 우라라](https://ko.wikipedia.org/wiki/타카노_우라라 "wikilink"))
 
 <!-- end list -->
 
@@ -235,7 +235,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [이노우에 고](https://ko.wikipedia.org/wiki/이노우에_고 "wikilink"))
+  - ****(, 성우: [이노우에 고](https://ko.wikipedia.org/wiki/이노우에_고 "wikilink"))
 
 <!-- end list -->
 
@@ -244,27 +244,27 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [코다마 타쿠야](https://ko.wikipedia.org/wiki/코다마_타쿠야 "wikilink"))
+  - ****(, 성우: [코다마 타쿠야](https://ko.wikipedia.org/wiki/코다마_타쿠야 "wikilink"))
 
 <!-- end list -->
 
   -
     가족국 - 몰도바 (남동생)
-    오른쪽 방향으로 나뉜 앞머리에 두 가지 색을 띤 리본이 달린 작은 모자를 쓰고 있으며 붉은 눈과 입에 나온 덧니가 특징인 남자,뱀파이어 본 고장이 루마니아 이어서 루마니아는 뱀파이어 설정이다. 고생하는 사람에 비해 쾌활한 성격을 갖고 있으며 장난기가 많은 괴짜. 신앙심이 강하며 마술이나 민간 전승을 좋아한다. 로맨틱한 성격도 갖고 있다. 헝가리와는 사이가 나쁜 편이며 불가리아와는 사이가 좋은 편이다. 독일과 이탈리아는 의지하고 싶은 동료로 여긴다. 최근에는 터키와 사이가 더욱 좋아지기를 원하고 있다.
+    오른쪽 방향으로 나뉜 앞머리에 두 가지 색을 띤 리본이 달린 작은 모자를 쓰고 있으며 붉은 눈과 입에 나온 덧니가 특징인 남자. 고생하는 사람에 비해 쾌활한 성격을 갖고 있으며 장난기가 많은 괴짜. 신앙심이 강하며 마술이나 민간 전승을 좋아한다. 로맨틱한 성격도 갖고 있다. 헝가리와는 사이가 나쁜 편이며 불가리아와는 사이가 좋은 편이다. 독일과 이탈리아는 의지하고 싶은 동료로 여긴다. 최근에는 터키와 사이가 더욱 좋아지기를 원하고 있다.
 
-그리고 러시아를 큰형 이라고부르지만 조금 두려워 하며 말한다.
+<!-- end list -->
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
   -
     가족국 - 루마니아 (형)
-    헐렁한 소매를 가진 코트를 입고 있으며 작은 모자를 쓰고 있는 소년. 조금 튀어나온 아호게가 달린 짧은 머리, 입에 나온 덧니가 특징이며 다소 불충분한 어조로 말한다.루마니아한테는 어리광을 부리고 싶지만 러시아에 신경쓰지 않으면 참는 경우가 많은 편이다.
+    헐렁한 소매를 가진 코트를 입고 있으며 작은 모자를 쓰고 있는 소년. 조금 튀어나온 아호게가 달린 짧은 머리, 입에 나온 덧니가 특징이며 다소 불충분한 어조로 말한다. 루마니아한테는 어리광을 부리고 싶지만 러시아에 신경쓰지 않으면 참는 경우가 많은 편이다.
 
 ### 발트 3국
 
-  - **** (, 성우: [타케우치 켄](../Page/타케우치_켄.md "wikilink"))
+  - ****(, 성우: [타케우치 켄](../Page/타케우치_켄.md "wikilink"))
 
 <!-- end list -->
 
@@ -273,7 +273,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [코우사카 아츠시](https://ko.wikipedia.org/wiki/코우사카_아츠시 "wikilink"))
+  - ****(, 성우: [코우사카 아츠시](https://ko.wikipedia.org/wiki/코우사카_아츠시 "wikilink"))
 
 <!-- end list -->
 
@@ -282,7 +282,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [타나카 코코로](https://ko.wikipedia.org/wiki/타나카_코코로 "wikilink")(애니메이션), [쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink")(CD 드라마))
+  - ****(, 성우: [타나카 코코로](https://ko.wikipedia.org/wiki/타나카_코코로 "wikilink")(애니메이션), [쿠기미야 리에](../Page/쿠기미야_리에.md "wikilink")(CD 드라마))
 
 <!-- end list -->
 
@@ -291,7 +291,7 @@
 
 ### 북유럽
 
-  - **** (, 성우: [미즈시마 타카히로](../Page/미즈시마_타카히로.md "wikilink"))
+  - ****(, 성우: [미즈시마 타카히로](../Page/미즈시마_타카히로.md "wikilink"))
 
 <!-- end list -->
 
@@ -300,7 +300,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [사카이 케이코](https://ko.wikipedia.org/wiki/사카이_케이코 "wikilink"))
+  - ****(, 성우: [사카이 케이코](https://ko.wikipedia.org/wiki/사카이_케이코 "wikilink"))
 
 <!-- end list -->
 
@@ -309,7 +309,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [시모자키 히로시](https://ko.wikipedia.org/wiki/시모자키_히로시 "wikilink"))
+  - ****(, 성우: [시모자키 히로시](https://ko.wikipedia.org/wiki/시모자키_히로시 "wikilink"))
 
 <!-- end list -->
 
@@ -318,7 +318,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [이와사키 마사미](https://ko.wikipedia.org/wiki/이와사키_마사미 "wikilink"))
+  - ****(, 성우: [이와사키 마사미](https://ko.wikipedia.org/wiki/이와사키_마사미 "wikilink"))
 
 <!-- end list -->
 
@@ -327,7 +327,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [아사쿠라 아유무](https://ko.wikipedia.org/wiki/아사쿠라_아유무 "wikilink"))
+  - ****(, 성우: [아사쿠라 아유무](https://ko.wikipedia.org/wiki/아사쿠라_아유무 "wikilink"))
 
 <!-- end list -->
 
@@ -336,7 +336,7 @@
 
 ### 서유럽
 
-  - **** (, 성우: [미네 노부야](https://ko.wikipedia.org/wiki/미네_노부야 "wikilink"))
+  - ****(, 성우: [미네 노부야](https://ko.wikipedia.org/wiki/미네_노부야 "wikilink"))
 
 <!-- end list -->
 
@@ -346,7 +346,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [나카무라 에리코](../Page/나카무라_에리코.md "wikilink"))
+  - ****(, 성우: [나카무라 에리코](../Page/나카무라_에리코.md "wikilink"))
 
 <!-- end list -->
 
@@ -356,7 +356,7 @@
 
 <!-- end list -->
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -365,7 +365,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [히카사 요코](../Page/히카사_요코.md "wikilink"))
+  - ****(, 성우: [히카사 요코](../Page/히카사_요코.md "wikilink"))
 
 <!-- end list -->
 
@@ -374,7 +374,7 @@
 
 ## 아메리카
 
-  - **** (, 성우: [코니시 카츠유키](../Page/코니시_카츠유키.md "wikilink"))
+  - ****(, 성우: [코니시 카츠유키](../Page/코니시_카츠유키.md "wikilink"))
 
 <!-- end list -->
 
@@ -383,7 +383,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [타카하시 히로키](../Page/타카하시_히로키.md "wikilink"))
+  - ****(, 성우: [타카하시 히로키](../Page/타카하시_히로키.md "wikilink"))
 
 <!-- end list -->
 
@@ -394,7 +394,7 @@
 
 ### 동아시아
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -403,7 +403,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [카이다 유키](https://ko.wikipedia.org/wiki/카이다_유키 "wikilink"))
+  - ****(, 성우: [카이다 유키](https://ko.wikipedia.org/wiki/카이다_유키 "wikilink"))
 
 <!-- end list -->
 
@@ -412,7 +412,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [타카기 모토키](https://ko.wikipedia.org/wiki/타카기_모토키 "wikilink"))
+  - ****(, 성우: [타카기 모토키](https://ko.wikipedia.org/wiki/타카기_모토키 "wikilink"))
 
 <!-- end list -->
 
@@ -421,7 +421,7 @@
 
 <!-- end list -->
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -430,7 +430,7 @@
 
 ### 동남아시아
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -439,7 +439,7 @@
 
 <!-- end list -->
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -448,7 +448,7 @@
 
 ### 남아시아
 
-  - **** (, 성우: [소가베 가쿠](https://ko.wikipedia.org/wiki/소가베_가쿠 "wikilink"))
+  - ****(, 성우: [소가베 가쿠](https://ko.wikipedia.org/wiki/소가베_가쿠 "wikilink"))
 
 <!-- end list -->
 
@@ -457,7 +457,7 @@
 
 ## 오세아니아
 
-  - **** (, 성우: [아사이 케이이치로](https://ko.wikipedia.org/wiki/아사이_케이이치로 "wikilink"))
+  - ****(, 성우: [아사이 케이이치로](https://ko.wikipedia.org/wiki/아사이_케이이치로 "wikilink"))
 
 <!-- end list -->
 
@@ -466,7 +466,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [마에다 소마](https://ko.wikipedia.org/wiki/마에다_소마 "wikilink"))
+  - ****(, 성우: [마에다 소마](https://ko.wikipedia.org/wiki/마에다_소마 "wikilink"))
 
 <!-- end list -->
 
@@ -475,7 +475,7 @@
 
 ## 아프리카
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -484,7 +484,7 @@
 
 <!-- end list -->
 
-  - **** ()
+  - ****()
 
 <!-- end list -->
 
@@ -493,7 +493,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [타카모토 메구미](https://ko.wikipedia.org/wiki/타카모토_메구미 "wikilink"))
+  - ****(, 성우: [타카모토 메구미](https://ko.wikipedia.org/wiki/타카모토_메구미 "wikilink"))
 
 <!-- end list -->
 
@@ -506,7 +506,7 @@
 
 ### 옛 나라
 
-  - [border](https://ko.wikipedia.org/wiki/파일:Vexilloid_of_the_Roman_Empire.svg "wikilink") **[로마 제국](../Page/로마_제국.md "wikilink")** (, 성우: [고다 호즈미](https://ko.wikipedia.org/wiki/고다_호즈미 "wikilink"))
+  - [border](https://ko.wikipedia.org/wiki/파일:Vexilloid_of_the_Roman_Empire.svg "wikilink") **[로마 제국](../Page/로마_제국.md "wikilink")**(, 성우: [고다 호즈미](https://ko.wikipedia.org/wiki/고다_호즈미 "wikilink"))
 
 <!-- end list -->
 
@@ -524,7 +524,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [콘노 준](https://ko.wikipedia.org/wiki/콘노_준 "wikilink"))
+  - ****(, 성우: [콘노 준](https://ko.wikipedia.org/wiki/콘노_준 "wikilink"))
 
 <!-- end list -->
 
@@ -533,7 +533,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [코우사카 아츠시](https://ko.wikipedia.org/wiki/코우사카_아츠시 "wikilink"))
+  - ****(, 성우: [코우사카 아츠시](https://ko.wikipedia.org/wiki/코우사카_아츠시 "wikilink"))
 
 <!-- end list -->
 
@@ -542,7 +542,7 @@
 
 ### 마이크로네이션
 
-  - **** (, 성우: [오리카사 아이](https://ko.wikipedia.org/wiki/오리카사_아이 "wikilink"))
+  - ****(, 성우: [오리카사 아이](https://ko.wikipedia.org/wiki/오리카사_아이 "wikilink"))
 
 <!-- end list -->
 
@@ -551,7 +551,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [오카모토 히로시](../Page/오카모토_히로시.md "wikilink"))
+  - ****(, 성우: [오카모토 히로시](../Page/오카모토_히로시.md "wikilink"))
 
 <!-- end list -->
 
@@ -560,7 +560,7 @@
 
 <!-- end list -->
 
-  - **** (, 성우: [이시카와 카이토](https://ko.wikipedia.org/wiki/이시카와_카이토 "wikilink"))
+  - ****(, 성우: [이시카와 카이토](https://ko.wikipedia.org/wiki/이시카와_카이토 "wikilink"))
 
 <!-- end list -->
 
@@ -569,7 +569,7 @@
 
 <!-- end list -->
 
-  - **[와이 공국](../Page/와이_공국.md "wikilink")** (, 성우: [코마츠 미카코](../Page/코마츠_미카코.md "wikilink"))
+  - **[와이 공국](../Page/와이_공국.md "wikilink")**(, 성우: [코마츠 미카코](../Page/코마츠_미카코.md "wikilink"))
 
 <!-- end list -->
 
@@ -578,7 +578,7 @@
 
 <!-- end list -->
 
-  - **[헛리버 공국](../Page/헛리버_공국.md "wikilink")** (, 성우: [나카자와 마사토모](../Page/나카자와_마사토모.md "wikilink"))
+  - **[헛리버 공국](../Page/헛리버_공국.md "wikilink")**(, 성우: [나카자와 마사토모](../Page/나카자와_마사토모.md "wikilink"))
 
 <!-- end list -->
 
@@ -587,7 +587,7 @@
 
 <!-- end list -->
 
-  - **[쿠겔무겔](https://ko.wikipedia.org/wiki/쿠겔무겔 "wikilink")** (, 성우: [이치키 미츠히로](https://ko.wikipedia.org/wiki/이치키_미츠히로 "wikilink"))
+  - **[쿠겔무겔](https://ko.wikipedia.org/wiki/쿠겔무겔 "wikilink")**(, 성우: [이치키 미츠히로](https://ko.wikipedia.org/wiki/이치키_미츠히로 "wikilink"))
 
 <!-- end list -->
 
@@ -596,7 +596,7 @@
 
 <!-- end list -->
 
-  - **[라도니아](../Page/라도니아.md "wikilink")** (, 성우: [야마시타 다이키](https://ko.wikipedia.org/wiki/야마시타_다이키 "wikilink"))
+  - **[라도니아](../Page/라도니아.md "wikilink")**(, 성우: [야마시타 다이키](https://ko.wikipedia.org/wiki/야마시타_다이키 "wikilink"))
 
 <!-- end list -->
 
@@ -605,7 +605,7 @@
 
 <!-- end list -->
 
-  - **[니코니코 공화국](https://ko.wikipedia.org/wiki/다케_온천_\(후쿠시마현\) "wikilink")** (, 성우: [스다 유스케](https://ko.wikipedia.org/wiki/스다_유스케 "wikilink"))
+  - **[니코니코 공화국](https://ko.wikipedia.org/wiki/다케_온천_\(후쿠시마현\) "wikilink")**(, 성우: [스다 유스케](https://ko.wikipedia.org/wiki/스다_유스케 "wikilink"))
 
 <!-- end list -->
 

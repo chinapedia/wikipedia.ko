@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA  G](https://ko.wikipedia.org/wiki/2014_FIFA__G).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 G조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_G조).
 
 
 **[2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") G조**는 [독일](../Page/독일_축구_국가대표팀.md "wikilink"), [포르투갈](../Page/포르투갈_축구_국가대표팀.md "wikilink"), [가나](../Page/가나_축구_국가대표팀.md "wikilink"), [미국으로](../Page/미국_축구_국가대표팀.md "wikilink") 구성되어 있다. 첫 경기는 6월 16일에 열렸고, 최종전은 2014년 6월 26일에 열렸다. G조를 통과한 독일은 나중에 이 대회 우승을 차지하였다.

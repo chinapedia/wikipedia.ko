@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DSP  ](https://ko.wikipedia.org/wiki/DSP__).
+> This article is converted from Wikipedia: [DSP 미디어의 음반](https://ko.wikipedia.org/wiki/DSP_미디어의_음반).
 
 
 이 문서는 [DSP 미디어에서](../Page/DSP_미디어.md "wikilink") 발표한 음반의 목록이다.
@@ -168,7 +168,7 @@
   - 2013년 10월 28일 에이젝스 - **Snake**
   - 2013년 11월 6일 김지숙 - **드라마 비밀 OST Part.6**
   - 2013년 11월 27일 카라 - **[Best Girls](https://ko.wikipedia.org/wiki/:en:Best_Girls "wikilink")**
-  - 2013년 11월 27일 카라 - **\[Japan Digital Single\] [フレンチキス](https://ko.wikipedia.org/wiki/French_Kiss_\(카라의_노래\) "wikilink")**
+  - 2013년 11월 27일 카라 - **\[Japan Digital Single\] [フレンチキス](../Page/French_Kiss_\(카라의_노래\).md "wikilink")**
   - 2013년 12월 24일 카라 - **KARA The Animation**
   - 2014년 1월 20일 [레인보우 블랙](../Page/레인보우_블랙.md "wikilink") - **Rainbow Blaxx Special Album ([RB BLAXX](../Page/RB_BLAXX.md "wikilink"))**
   - 2014년 1월 27일 김지숙 - **우리가 사랑할수 있을까 OST Part.1**
@@ -244,9 +244,9 @@
   - 2018년 11월 20일 에이프릴 - **은주의 방 OST Part.1**
   - 2018년 12월 6일 윤채경 - **\[Digital Single\] Blooming Melody (블루밍 멜로디) 2**\[27\]
   - 2019년 1월 15일 에이프릴 - **복수가 돌아왔다 OST Part.9**
-  - 2019년 1월 16일 에이프릴 - **\[Japan Digital Single\] [Oh-e-Oh](https://ko.wikipedia.org/wiki/Oh-e-Oh "wikilink")**
+  - 2019년 1월 16일 에이프릴 - **\[Japan Digital Single\] [Oh-e-Oh](../Page/Oh-e-Oh.md "wikilink")**
   - 2019년 3월 21일 [손동표](https://ko.wikipedia.org/wiki/PRODUCE_X_101 "wikilink"),[이준혁](https://ko.wikipedia.org/wiki/PRODUCE_X_101 "wikilink"),[이환](https://ko.wikipedia.org/wiki/PRODUCE_X_101 "wikilink") - **\[Digital Single\] _지마 (X1-MA)**\[28\]
-  - 2019년 3월 27일 카드 - **\[Digital Single\] [Bomb Bomb](https://ko.wikipedia.org/wiki/Bomb_Bomb "wikilink")**
+  - 2019년 3월 27일 카드 - **\[Digital Single\] [Bomb Bomb](../Page/Bomb_Bomb.md "wikilink")**
   - 2019년 7월 6일 김채원 - **동네앨범 OST**\[29\]
   - 2019년 8월 4일 윤채경 - **\[Digital Single\] 우리 꼭 사귀는 것 같잖아요**\[30\]
   - 2019년 8월 18일 핑클 - **[FIN.K.L Best Album](https://ko.wikipedia.org/wiki/FIN.K.L_Best_Album "wikilink")**
@@ -259,7 +259,7 @@
   - 2020년 1월 20일 이진솔 - **\[Digital Single\] 이대로**\[31\]
   - 2020년 2월 12일 카드 - *' [RED MOON](https://ko.wikipedia.org/wiki/RED_MOON_\(카드의_EP\) "wikilink")*'
   - 2020년 3월 1일 이나은,이진솔 - **\[Digital Single\] 나은&진솔 X 김형석 사계**
-  - 2020년 3월 ?일 에이프릴 - **미정**
+  - 2020년 4월 2일 이진솔 - **어서와 OST Part.5**
 
 ## 각주
 
@@ -277,10 +277,10 @@
 10. [이정도](../Page/이정_\(가수\).md "wikilink") 앨범 참여.
 11. [김수형](https://ko.wikipedia.org/wiki/김수형 "wikilink")도 앨범 참여.
 12. [김다현](../Page/김다현.md "wikilink")도 앨범 참여.
-13. [술제이](https://ko.wikipedia.org/wiki/술제이 "wikilink")도 앨범 참여.
+13. [술제이](../Page/술제이.md "wikilink")도 앨범 참여.
 14. [G.NA](../Page/G.NA.md "wikilink"),[포미닛](../Page/포미닛.md "wikilink")의 멤버 [권소현](../Page/권소현.md "wikilink")과 [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 멤버 [리지도](../Page/박수아.md "wikilink") 앨범 참여.[참소녀](https://ko.wikipedia.org/wiki/참소녀 "wikilink")라는 유닛 그룹으로 활동 중이다.
 15. [노을의](../Page/노을_\(음악_그룹\).md "wikilink") 멤버 [이상곤](https://ko.wikipedia.org/wiki/이상곤 "wikilink")도 앨범 참여.
-16. [술제이](https://ko.wikipedia.org/wiki/술제이 "wikilink")도 다시 앨범 참여.
+16. [술제이](../Page/술제이.md "wikilink")도 다시 앨범 참여.
 17. [프럼 디 에어포트도](https://ko.wikipedia.org/wiki/:en:From_the_Airport "wikilink") 앨범 참여.
 18. [성훈도](https://ko.wikipedia.org/wiki/성훈_\(1983년\) "wikilink") 앨범 참여.
 19. [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](../Page/세정_\(가수\).md "wikilink"),[최유정](../Page/최유정_\(가수\).md "wikilink"),[허찬미](../Page/허찬미.md "wikilink"),[강미나](https://ko.wikipedia.org/wiki/강미나 "wikilink") 외 91명도 앨범 참여.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ JK \(\)](https://ko.wikipedia.org/wiki/_JK_\(\)).
+> This article is converted from Wikipedia: [베식타시 JK \(농구\)](https://ko.wikipedia.org/wiki/베식타시_JK_\(농구\)).
 
 
 **베식타시**(Beşiktaş J.K.)는 [터키](../Page/터키.md "wikilink") [이스탄불](../Page/이스탄불.md "wikilink")을 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.

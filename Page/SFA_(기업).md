@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SFA \(\)](https://ko.wikipedia.org/wiki/SFA_\(\)).
+> This article is converted from Wikipedia: [SFA \(기업\)](https://ko.wikipedia.org/wiki/SFA_\(기업\)).
 
 
 **SFA**(에스에프에이)는 1998년 12월 18일 삼성항공(현 [한화테크윈](../Page/한화테크윈.md "wikilink"))의 자동화사업부가 분사하면서 설립된 회사이다. 2001년 12월 18일에 코스닥시장에 상장되었다. 본사는 경기도 화성시 영천로 38 (영천동)에 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  VIII:     ](https://ko.wikipedia.org/wiki/__VIII:_____).
+> This article is converted from Wikipedia: [드래곤 퀘스트 VIII: 하늘과 바다와 땅과 저주받은 공주](https://ko.wikipedia.org/wiki/드래곤_퀘스트_VIII:_하늘과_바다와_땅과_저주받은_공주).
 
 
 『**드래곤 퀘스트8 -하늘과 바다와 땅과 저주받은 공주-**』(Dragon Quest VIII: Journey of the Cursed King)는 [2004년](../Page/2004년.md "wikilink") [11월 27일에](../Page/11월_27일.md "wikilink") [스퀘어에닉스](https://ko.wikipedia.org/wiki/스퀘어에닉스 "wikilink")에서 발매된 [플레이스테이션 2용](../Page/플레이스테이션_2.md "wikilink") 게임이다.

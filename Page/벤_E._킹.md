@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [벤 E. 킹](https://ko.wikipedia.org/wiki/벤_E._킹).
 
 
 **벤저민 얼 킹**(, [1938년](../Page/1938년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") )은 **벤 E. 킹**()이라는 이름으로 잘 알려진 [미국](../Page/미국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다.

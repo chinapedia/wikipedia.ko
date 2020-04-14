@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   B](https://ko.wikipedia.org/wiki/___B).
+> This article is converted from Wikipedia: [대한민국 축구 국가대표 B팀](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표_B팀).
 
 
 **대한민국 축구 국가대표 B팀**은 [대한민국 축구 국가대표팀의](../Page/대한민국_축구_국가대표팀.md "wikilink") 2진으로, [대한축구협회](../Page/대한축구협회.md "wikilink")에 의해 구성된다. 현재까지 알려진 바로는 1960년대부터 축구 국가대표팀이 1진 A팀과 2진 B팀으로 분할되어 운영되었으며 2팀의 경우 국제대회 일정이 겹치는 경우 혹은 국내에서 개최되는 [대통령배 국제대회](../Page/코리아컵_국제축구대회.md "wikilink") 참가를 위한 1회용 구성이 대부분이었다.

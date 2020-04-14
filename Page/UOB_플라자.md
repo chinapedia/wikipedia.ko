@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UOB ](https://ko.wikipedia.org/wiki/UOB_).
+> This article is converted from Wikipedia: [UOB 플라자](https://ko.wikipedia.org/wiki/UOB_플라자).
 
 
 **대화은행 플라자**() 혹은 **유나이티드 오버시즈 뱅크 플라자**(), 속칭 **UOB 플라자**는 [싱가포르](../Page/싱가포르.md "wikilink") [다운타운](https://ko.wikipedia.org/wiki/다운타운 "wikilink")에 위치한 [마천루](../Page/마천루.md "wikilink")이다. 지상 66층, 280m로 [원 래플즈 플레이스](https://ko.wikipedia.org/wiki/원_래플즈_플레이스 "wikilink")(OUB 센터), [리퍼블릭 플라자와](https://ko.wikipedia.org/wiki/리퍼블릭_플라자 "wikilink") 함께 싱가포르에서 가장 높은 마천루 3개에 해당한다.

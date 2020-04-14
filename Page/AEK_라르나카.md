@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AEK ](https://ko.wikipedia.org/wiki/AEK_).
+> This article is converted from Wikipedia: [AEK 라르나카](https://ko.wikipedia.org/wiki/AEK_라르나카).
 
 
 **AEK 라르나카**()는 [키프로스](../Page/키프로스.md "wikilink")에 있는 [라르나카](../Page/라르나카.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1994년](../Page/1994년.md "wikilink")에 창단되었으며, 현재 [키프로스 1부 리그에](../Page/키프로스_1부_리그.md "wikilink") 출전하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG상사](https://ko.wikipedia.org/wiki/LG상사).
 
 
 **LG상사**(LG International Corp.)는 1953년 11월 설립되어 1976년 종합상사로 지정됐다. 주요사업부로는 자원∙원자재부문과 산업재 1∙2부문으로 나뉘어 있다. 자원∙원자재부문은 석탄 및 석유, 비철, 그린사업부로 구성되어 있다. 산업재 1부문은 모바일, LCD 등의 IT∙전자부품과 에너지솔루션 사업을 추진하며, 산업재2부문은 프로젝트사업, 석유화학, 철강 사업분야를 담당하고 있다. 그외 헬기사업부가 있다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") 새문안로 58 (신문로2가)에 있다.

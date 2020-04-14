@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: S ](https://ko.wikipedia.org/wiki/:_S_).
+> This article is converted from Wikipedia: [틀:갤럭시 S 시리즈](https://ko.wikipedia.org/wiki/틀:갤럭시_S_시리즈).
 
 
 <onlyinclude></onlyinclude>

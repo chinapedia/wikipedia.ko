@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G  2](https://ko.wikipedia.org/wiki/LG_G__2).
+> This article is converted from Wikipedia: [LG G 프로 2](https://ko.wikipedia.org/wiki/LG_G_프로_2).
 
 
 **LG G 프로 2**(LG G Pro 2)는 [LG전자](../Page/LG전자.md "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [LG 옵티머스 G Pro의](https://ko.wikipedia.org/wiki/LG_옵티머스_G_Pro "wikilink") 후속작이다. 2014년 2월 13일 [대한민국](../Page/대한민국.md "wikilink")에서 열린 미디어데이 행사를 통해 정식 발표되었으며\[1\], 2014년 2월 21일 [SK텔레콤](../Page/SK텔레콤.md "wikilink"), [KT](../Page/KT.md "wikilink"), [LG U+](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") [이동 통신](../Page/이동_통신.md "wikilink") 3사를 통해 출시되었다.\[2\]

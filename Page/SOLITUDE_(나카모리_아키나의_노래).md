@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SOLITUDE \(  \)](https://ko.wikipedia.org/wiki/SOLITUDE_\(__\)).
+> This article is converted from Wikipedia: [SOLITUDE \(나카모리 아키나의 노래\)](https://ko.wikipedia.org/wiki/SOLITUDE_\(나카모리_아키나의_노래\)).
 
 
 〈**SOLITUDE**〉(솔리튜드)는 [1985년](../Page/1985년.md "wikilink") [10월 9일에](../Page/10월_9일.md "wikilink") 발표한 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 13번째 싱글이다. ([EP](../Page/익스텐디드_플레이.md "wikilink"): L-1670) 작사는 [유카와 레이코](https://ko.wikipedia.org/wiki/유카와_레이코 "wikilink")()가, 작곡은 다케가와 유키히데()가, 편곡은 나카무라 사토시()가 담당하였으며 [워너 파이오니어의](../Page/워너_뮤직_재팬.md "wikilink") 레이블로 출시되었다. [B면은](https://ko.wikipedia.org/wiki/B사이드 "wikilink") 〈AGAIN〉(어게인)이며 작사와 작곡은 아라이 마이()가, 편곡은 역시 나카무라 사토시가 도맡았다.\[1\]

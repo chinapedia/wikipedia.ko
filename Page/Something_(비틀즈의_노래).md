@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Something \( \)](https://ko.wikipedia.org/wiki/Something_\(_\)).
+> This article is converted from Wikipedia: [Something \(비틀즈의 노래\)](https://ko.wikipedia.org/wiki/Something_\(비틀즈의_노래\)).
 
 
 〈**Something**〉는 [조지 해리슨이](../Page/조지_해리슨.md "wikilink") 쓰고 [비틀즈](../Page/비틀즈.md "wikilink")가 1969년 앨범 《[Abbey Road](../Page/Abbey_Road.md "wikilink")》에 담은 노래다. 음반의 다른 트랙인 〈[Come Together](../Page/Come_Together.md "wikilink")〉과 함께 싱글컷되어 해리슨의 첫 A면 노래가 된다. 그리고 1970년 4월 비틀즈 해체까지 그의 마지막 미국 차트 1위 곡이 되었다. 이 싱글은 곡이 LP에 담겨 출시된 상태에서 비틀즈의 곡이 싱글로 나온 첫 사례다.

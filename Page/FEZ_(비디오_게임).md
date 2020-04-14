@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FEZ \( \)](https://ko.wikipedia.org/wiki/FEZ_\(_\)).
+> This article is converted from Wikipedia: [FEZ \(비디오 게임\)](https://ko.wikipedia.org/wiki/FEZ_\(비디오_게임\)).
 
 
 《**페즈**》(Fez)는 폴리트론 코퍼레이션이 개발하고 트랩도어가 발행한 [퍼즐](https://ko.wikipedia.org/wiki/퍼즐_게임 "wikilink") [비디오](../Page/비디오_게임.md "wikilink") [인디 게임이다](../Page/인디_게임.md "wikilink"). [2012년](../Page/2012년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") [엑스박스 360으로](../Page/엑스박스_360.md "wikilink") 첫 출시 하였으며 [2013년](../Page/2013년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") [마이크로소프트 윈도용으로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 발매되었다. 폴리트론 코퍼레이션 자체 제작 엔진 Trixel 엔진을 사용한다. 출시 6주만에 10만 장 판매의 성과를 내었다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 패트롤](https://ko.wikipedia.org/wiki/TV_패트롤).
 
 
 《**TV 패트롤**》()은 [ABS-CBN](../Page/ABS-CBN.md "wikilink")에서 방영중인 메인 뉴스 프로그램이다.

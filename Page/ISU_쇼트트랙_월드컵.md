@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ISU  ](https://ko.wikipedia.org/wiki/ISU__).
+> This article is converted from Wikipedia: [ISU 쇼트트랙 월드컵](https://ko.wikipedia.org/wiki/ISU_쇼트트랙_월드컵).
 
 
 **ISU 쇼트트랙 월드컵**()은 [국제빙상경기연맹](https://ko.wikipedia.org/wiki/국제빙상경기연맹 "wikilink")(ISU)에서 주관하는 세계 규모의 쇼트트랙 스피드 스케이팅 경기 대회이다. 1997-98년 겨울을 시작으로, 매년 겨울마다 세계 여러 지역에서 대회가 치러진다. 선수들은 지역별 경기 성적에 따라서 점수를 획득하며, 각 지역별로 획득한 점수는 종목별로 합산되며, 최종적으로 그 종목에서 더한 점수가 가장 높은 선수가 1위를 차지하게 된다.

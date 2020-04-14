@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [9 LG ](https://ko.wikipedia.org/wiki/9_LG_).
+> This article is converted from Wikipedia: [9회 LG배 세계기왕전](https://ko.wikipedia.org/wiki/9회_LG배_세계기왕전).
 
 
 ## 대진표

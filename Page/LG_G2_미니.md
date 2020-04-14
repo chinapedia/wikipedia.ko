@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G2 ](https://ko.wikipedia.org/wiki/LG_G2_).
+> This article is converted from Wikipedia: [LG G2 미니](https://ko.wikipedia.org/wiki/LG_G2_미니).
 
 
 **LG G2 미니**(LG G2 mini)는 [LG전자](../Page/LG전자.md "wikilink")에서 제조/판매하는 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 2014년 2월 20일에 공개하였고,\[1\] [2014년](../Page/2014년.md "wikilink") [4월 27일에](../Page/4월_27일.md "wikilink") 출시되었다.\[2\]

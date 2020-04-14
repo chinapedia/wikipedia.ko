@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK LTE-A LoL  2014](https://ko.wikipedia.org/wiki/SK_LTE-A_LoL__2014).
+> This article is converted from Wikipedia: [SK텔레콤 LTE-A LoL 마스터즈 2014](https://ko.wikipedia.org/wiki/SK텔레콤_LTE-A_LoL_마스터즈_2014).
 
 
 **SK텔레콤 LTE-A LoL 마스터즈 2014**(SKT LTE-A LoL Masters 2014)는 [라이엇 게임즈](../Page/라이엇_게임즈.md "wikilink"), [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink"), [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")이 주최하고 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 주관으로 이루어진 대회이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CTF ](https://ko.wikipedia.org/wiki/CTF_).
+> This article is converted from Wikipedia: [CTF 광저우](https://ko.wikipedia.org/wiki/CTF_광저우).
 
 
 **CTF 광저우**(The CTF Guangzhou) 혹은 **주대복 센터 광저우**(Chow Tai Fook Centre Guangzhou)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink") [광저우 시](https://ko.wikipedia.org/wiki/광저우_시 "wikilink") [톈허 구에](https://ko.wikipedia.org/wiki/톈허_구 "wikilink") 위치한 초고층 빌딩이다. 지상 111층, 530m의 마천루로 지난 [2010년](../Page/2010년.md "wikilink") 착공하여 [2016년](../Page/2016년.md "wikilink") 완공을 목표로 두고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BL ](https://ko.wikipedia.org/wiki/_BL_).
+> This article is converted from Wikipedia: [도마뱀자리 BL 천체](https://ko.wikipedia.org/wiki/도마뱀자리_BL_천체).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:fig1553.jpg "wikilink") 가시광선 스펙트럼.\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:H0323bl2.gif "wikilink")([z](../Page/적색편이.md "wikilink")=0.147)에 대한 ESO NTT(R 필터)의 영상. 숙주은하와 근처의 동반은하가 보인다.\]\]

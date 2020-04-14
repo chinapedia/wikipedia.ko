@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
+> This article is converted from Wikipedia: [AC 루메차네](https://ko.wikipedia.org/wiki/AC_루메차네).
 
 
 **AC 루메차네**(Associazione Calcio Lumezzane)는 [롬바르디아주](../Page/롬바르디아주.md "wikilink")의 [루메차네](https://ko.wikipedia.org/wiki/루메차네 "wikilink")를 연고로 하는 이탈리아의 프로 축구팀이다. 현재는 [레가 프로 프리마 디비시오네에](../Page/레가_프로_프리마_디비시오네.md "wikilink") 참가중이다.

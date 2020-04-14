@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MAS ](https://ko.wikipedia.org/wiki/MAS_).
+> This article is converted from Wikipedia: [MAS 윙스](https://ko.wikipedia.org/wiki/MAS_윙스).
 
 
 **MAS 윙스**()은 [말레이시아](../Page/말레이시아.md "wikilink")의 지역 항공사로\[1\] [말레이시아](../Page/말레이시아.md "wikilink") [사라와크 주](https://ko.wikipedia.org/wiki/사라와크_주 "wikilink") [마리](../Page/마리.md "wikilink")에 본부를 두고 있으며\[2\], [1972년](../Page/1972년.md "wikilink")에 설립되었다. 보유 항공기는 [포커 70만](https://ko.wikipedia.org/wiki/포커_70 "wikilink") 보유하고 있으나, 최근에는 [ATR 72를](../Page/ATR_72.md "wikilink") 도입하였다. 또한 [브루나이](../Page/브루나이.md "wikilink"), [필리핀](../Page/필리핀.md "wikilink"), [인도네시아](../Page/인도네시아.md "wikilink")를 잇는 국제선 노선도 운항하고 있다.\[3\]

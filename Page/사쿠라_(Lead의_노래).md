@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ \(Lead \)](https://ko.wikipedia.org/wiki/_\(Lead_\)).
+> This article is converted from Wikipedia: [사쿠라 \(Lead의 노래\)](https://ko.wikipedia.org/wiki/사쿠라_\(Lead의_노래\)).
 
 
-**사쿠라** ()는 2014년 2월 26일에 발매 된 리드(Lead)의 23번째 싱글이다.
+**사쿠라**()는 2014년 2월 26일에 발매 된 리드(Lead)의 23번째 싱글이다.
 
 ## 트랙 리스트
 

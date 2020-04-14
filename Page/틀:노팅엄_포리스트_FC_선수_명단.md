@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  FC  ](https://ko.wikipedia.org/wiki/:__FC__).
+> This article is converted from Wikipedia: [틀:노팅엄 포리스트 FC 선수 명단](https://ko.wikipedia.org/wiki/틀:노팅엄_포리스트_FC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

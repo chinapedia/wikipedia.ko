@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JYP  ](https://ko.wikipedia.org/wiki/JYP__).
+> This article is converted from Wikipedia: [JYP 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트의_음반).
 
 
 이 문서는 [JYP 엔터테인먼트에서](../Page/JYP_엔터테인먼트.md "wikilink") 발표한 음반의 목록이다. 전신인 태홍기획과 서브 레이블인 Studio J하고 같이 넣을 수도 있다.
@@ -433,7 +433,7 @@
   - 2019년 1월 25일 준호 - **TWO**
   - 2019년 1월 30일 GOT7 - **\[Japan\] I WON’T LET YOU GO**
   - 2019년 2월 9일 박진영 - **\[Digital Single\] 꽉 잡은 이 손**
-  - 2019년 2월 12일 [ITZY](https://ko.wikipedia.org/wiki/ITZY "wikilink") - **\[Digital Single\] IT'z Different**
+  - 2019년 2월 12일 [ITZY](../Page/ITZY.md "wikilink") - **\[Digital Single\] IT'z Different**
   - 2019년 2월 18일 닉쿤 - **ME**
   - 2019년 3월 5일 [Jus2](https://ko.wikipedia.org/wiki/GOT7 "wikilink") - **FOCUS**
   - 2019년 3월 6일 트와이스 - **\[Japan\] \#TWICE2**
@@ -477,6 +477,8 @@
   - 2020년 2월 5일 트와이스 - **\[Japan\] \&TWICE -Re package-**
   - 2020년 3월 9일 ITZY - **IT'z ME**
   - 2020년 3월 18일 스트레이 키즈 - **\[Japan\] SKZ2020**
+  - 2020년 3월 18일 스트레이 키즈 - **SKZ2020**
+  - 2020년 3월 25일 스트레이 키즈 - **\[Digital Single\] 바보라도 알아**
 
 ## 각주
 

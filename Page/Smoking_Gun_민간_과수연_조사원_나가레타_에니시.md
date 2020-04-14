@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Smoking Gun     ](https://ko.wikipedia.org/wiki/Smoking_Gun_____).
+> This article is converted from Wikipedia: [Smoking Gun 민간 과수연 조사원 나가레타 에니시](https://ko.wikipedia.org/wiki/Smoking_Gun_민간_과수연_조사원_나가레타_에니시).
 
 
 《**Smoking Gun 민간 과수연 조사원 나가레타 에니시**》()는, 원작:요코마쿠 토모히로, 작화:타케야 슈지에 의한 [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink") 작품이다.

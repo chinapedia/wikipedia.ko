@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LU ](https://ko.wikipedia.org/wiki/LU_).
+> This article is converted from Wikipedia: [LU 분해](https://ko.wikipedia.org/wiki/LU_분해).
 
 
 **LU 분해**()는 [수치 해석](https://ko.wikipedia.org/wiki/수치_해석 "wikilink") 분야에서 [하삼각행렬](https://ko.wikipedia.org/wiki/하삼각행렬 "wikilink")과 [상삼각행렬](https://ko.wikipedia.org/wiki/상삼각행렬 "wikilink")의 곱으로 표현하는 것이다. L과 U는 각각 Lower와 Upper를 의미한다. 때때로 [치환행렬](https://ko.wikipedia.org/wiki/치환행렬 "wikilink")(permutation matrix)도 함께 곱으로 나타내기도 한다. LU 분해는 [가우스 소거법에서](../Page/가우스_소거법.md "wikilink") 많이 이용된다. LU 분해는 [앨런 튜링에](../Page/앨런_튜링.md "wikilink") 의해 소개됐다.
@@ -352,7 +352,7 @@ U=   \begin{pmatrix}
 
 다음 선형 연립방정식이 주어져 있다.
 
-\[Ax=b\] 계수 행렬 \(A\)를 행 교환을 허용한 가우스 소거법을 통해 LU 분해하면 다음과 같은 꼴로 분해된다. 여기서 \(P\)는 [순열 행렬이다](../Page/순열_행렬.md "wikilink").
+\[Ax=b\] 계수 행렬 \(A\)를 행 교환을 허용한 가우스 소거법을 통해 LU 분해하면 다음과 같은 꼴로 분해된다. 여기서 \(P\)는 [치환행렬](https://ko.wikipedia.org/wiki/치환행렬 "wikilink")이다.
 
 \[PA=LU\] 따라서 연립방정식은 다음과 같이 나타낼 수 있다.
 
@@ -365,7 +365,7 @@ LU 분해를 통한 풀이는 계수 행렬이 같고 \(b\)만이 달라질 때,
 
 ### 행렬식 계산
 
-[삼각행렬](../Page/삼각행렬.md "wikilink")의 [행렬식](../Page/행렬식.md "wikilink")은 주대각 성분의 곱이 행렬식과 같다는 점을 이용하면 LU 분해를 통해 행렬식을 쉽게 계산할 수 있다. 순열 행렬은 \(P^{-1}=P^{T}\)를 만족하는 직교 행렬이므로 \(\det{P^{-1}}=\det{P}\)이라는 점을 이용할 수 있다.
+[삼각행렬](../Page/삼각행렬.md "wikilink")의 [행렬식](../Page/행렬식.md "wikilink")은 주대각 성분의 곱이 행렬식과 같다는 점을 이용하면 LU 분해를 통해 행렬식을 쉽게 계산할 수 있다. 치환행렬은 \(P^{-1}=P^{T}\)를 만족하는 직교 행렬이므로 \(\det{P^{-1}}=\det{P}\)이라는 점을 이용할 수 있다.
 
 \[PA=LU \implies A=P^{-1}LU \implies \det{A}=\det{P}\det{L}\det{U}=(-1)^{S}\left( \prod_{i=1}^n l_{ii} \right) \left( \prod_{i=1}^n u_{ii} \right)\] 여기서 *S*는 LU 분해를 할 때 행 교환을 시행한 횟수이다.
 
@@ -376,7 +376,7 @@ LU 분해를 통한 풀이는 계수 행렬이 같고 \(b\)만이 달라질 때,
   - [QR 분해](../Page/QR_분해.md "wikilink")
   - [행렬 분해](../Page/행렬_분해.md "wikilink")
   - [가우스-자이델 방법](../Page/가우스-자이델_방법.md "wikilink")
-  - [숄레스키 분해(촐레스키 분해)](../Page/숄레스키_분해.md "wikilink")
+  - [숄레스키 분해](../Page/숄레스키_분해.md "wikilink")(촐레스키 분해)
 
 ## 참고
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SLS](https://ko.wikipedia.org/wiki/SLS).
+> This article is converted from Wikipedia: [SLS중공업](https://ko.wikipedia.org/wiki/SLS중공업).
 
 
 **SLS중공업 주식회사**는 [대한민국](../Page/대한민국.md "wikilink")의 [철도차량](https://ko.wikipedia.org/wiki/철도차량 "wikilink") 및 철도차량 부품 제조, 철도차량 외부 디자인 등을 전문으로 하였던 업체이다.

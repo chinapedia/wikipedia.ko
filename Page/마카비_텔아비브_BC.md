@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  BC](https://ko.wikipedia.org/wiki/__BC).
+> This article is converted from Wikipedia: [마카비 텔아비브 BC](https://ko.wikipedia.org/wiki/마카비_텔아비브_BC).
 
 
 **마카비 텔아비브 BC**()는 [이스라엘](../Page/이스라엘.md "wikilink") [텔아비브](../Page/텔아비브.md "wikilink")를 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.

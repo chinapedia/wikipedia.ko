@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E\&C](https://ko.wikipedia.org/wiki/E\&C).
+> This article is converted from Wikipedia: [태왕E\&C](https://ko.wikipedia.org/wiki/태왕E\&C).
 
 
 **태왕**(泰旺)\[1\]**E\&C**는 [대한민국](../Page/대한민국.md "wikilink")의 건설회사이다. 주요 아파트 브랜드는 [아너스](https://ko.wikipedia.org/wiki/아너스 "wikilink")이다.

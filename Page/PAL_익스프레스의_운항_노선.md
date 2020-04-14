@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PAL   ](https://ko.wikipedia.org/wiki/PAL___).
+> This article is converted from Wikipedia: [PAL 익스프레스의 운항 노선](https://ko.wikipedia.org/wiki/PAL_익스프레스의_운항_노선).
 
 
 **[PAL 익스프레스](../Page/PAL_익스프레스.md "wikilink")**는 다음과 같은 노선을 운항하고 있다.\[1\]

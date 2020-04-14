@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OUB ](https://ko.wikipedia.org/wiki/OUB_).
+> This article is converted from Wikipedia: [OUB 센터](https://ko.wikipedia.org/wiki/OUB_센터).
 
 
 **원 래플스 플레이스**(One Raffles Place) 혹은 속칭 **OUB 센터**(OUB Centre)는 [싱가포르](../Page/싱가포르.md "wikilink")의 [다운타운 코어에](https://ko.wikipedia.org/wiki/다운타운_코어 "wikilink") 위치한 마천루 단지이다. 지상 63층, 280m의 건물로 [1987년](../Page/1987년.md "wikilink") 완공 당시 [대한민국](../Page/대한민국.md "wikilink")의 [63시티](https://ko.wikipedia.org/wiki/63시티 "wikilink")를 제치고 아시아 최고층 빌딩의 자리에 올랐으며, 이후 [1990년](../Page/1990년.md "wikilink") [홍콩](../Page/홍콩.md "wikilink")에 [중국은행 타워가](../Page/중국은행_타워.md "wikilink") 건설될 때까지 그 자리를 유지했다.

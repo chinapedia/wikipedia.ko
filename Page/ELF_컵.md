@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ELF ](https://ko.wikipedia.org/wiki/ELF_).
+> This article is converted from Wikipedia: [ELF 컵](https://ko.wikipedia.org/wiki/ELF_컵).
 
 
 **엘프컵**은 북키프로스 축구협회가 주최한 국제축구대회였다. 2006년 단 한번만 개최되었고 팀들 모두가 NF-보드 소속이었다.

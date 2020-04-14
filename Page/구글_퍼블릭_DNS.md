@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DNS](https://ko.wikipedia.org/wiki/__DNS).
+> This article is converted from Wikipedia: [구글 퍼블릭 DNS](https://ko.wikipedia.org/wiki/구글_퍼블릭_DNS).
 
 
 **구글 퍼블릭 DNS**()는 2009년 12월 3일에 발표되어, [구글](../Page/구글.md "wikilink")에서 무료로 제공하는 [DNS](../Page/도메인_네임_시스템.md "wikilink") 서비스로서\[1\], 웹 환경을 빠르고 보다 안전하게 하기 위한 노력의 일부이다.\[2\]\[3\] 구글에 따르면 2013년 기준으로 구글 퍼블릭 DNS는 하루 평균 1,300,000,000,000건 이상의 요청을 처리할 수 있는, 세계에서 가장 큰 공용 DNS 서비스이다.\[4\]

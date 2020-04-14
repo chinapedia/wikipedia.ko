@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG \(\)](https://ko.wikipedia.org/wiki/LG_\(\)).
+> This article is converted from Wikipedia: [LG \(기업\)](https://ko.wikipedia.org/wiki/LG_\(기업\)).
 
 
 **LG**는 [LG그룹](../Page/LG그룹.md "wikilink")의 [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 여의대로 128 (여의도동)에 있다.

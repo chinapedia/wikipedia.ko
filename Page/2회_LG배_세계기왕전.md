@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2 LG ](https://ko.wikipedia.org/wiki/2_LG_).
+> This article is converted from Wikipedia: [2회 LG배 세계기왕전](https://ko.wikipedia.org/wiki/2회_LG배_세계기왕전).
 
 
 **제2회 LG배 세계기왕전**은 1998년 3월 23일 [서울특별시](../Page/서울특별시.md "wikilink") [소공동](../Page/소공동.md "wikilink") [롯데호텔](../Page/롯데호텔.md "wikilink")에서 열린 [LG배 세계기왕전](../Page/LG배_세계기왕전.md "wikilink") [바둑](../Page/바둑.md "wikilink") 대국이다. 일본의 [왕리청](../Page/왕리청.md "wikilink") 九단은 [유창혁](../Page/유창혁.md "wikilink") 九단과의 결승에서 3대 2으로 승리하여 우승 상금 2억원,준우승 상금 5천만원을 받았다.

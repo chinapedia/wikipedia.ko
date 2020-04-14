@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Still Alive \(\)](https://ko.wikipedia.org/wiki/Still_Alive_\(\)).
+> This article is converted from Wikipedia: [Still Alive \(노래\)](https://ko.wikipedia.org/wiki/Still_Alive_\(노래\)).
 
 
 〈**Still Alive**〉는 2007년 비디오 게임 《[포탈](../Page/포탈_\(비디오_게임\).md "wikilink")》의 클로징 크레디트에서 사용된 노래로, [조너선 콜턴이](https://ko.wikipedia.org/wiki/조너선_콜턴 "wikilink") 작곡 및 편곡하고 같은 게임의 등장인물 [글라도스](https://ko.wikipedia.org/wiki/글라도스 "wikilink")를 연기하기도 한 [엘렌 매클레인이](../Page/엘런_매클레인.md "wikilink") 불렀다. [밸브 코퍼레이션의](../Page/밸브_코퍼레이션.md "wikilink") 개발자 두 명은 콜튼에게 회사를 위해 노래를 써 줄 것인지를 물었고, 콜튼은 자신이 밸브의 [하프라이프 시리즈의](https://ko.wikipedia.org/wiki/하프라이프_시리즈 "wikilink") 팬으로서 이를 승낙하여 만들어진 곡이다.

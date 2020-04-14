@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA  H](https://ko.wikipedia.org/wiki/2014_FIFA__H).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 H조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_H조).
 
 
 **[2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") H조**에는 [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink"), [알제리](../Page/알제리_축구_국가대표팀.md "wikilink"), [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), 그리고 [대한민국이](../Page/대한민국_축구_국가대표팀.md "wikilink") 편성되었다. H조 일정은 2014년 6월 17일에 시작해 6월 26일에 마무리되었다.

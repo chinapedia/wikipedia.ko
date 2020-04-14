@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [3 BC   ](https://ko.wikipedia.org/wiki/3_BC___).
+> This article is converted from Wikipedia: [3회 BC카드배 월드 바둑 챔피언십](https://ko.wikipedia.org/wiki/3회_BC카드배_월드_바둑_챔피언십).
 
 
 ## 대진표

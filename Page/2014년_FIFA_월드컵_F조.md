@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA  F](https://ko.wikipedia.org/wiki/2014_FIFA__F).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 F조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_F조).
 
 
 **[2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") F조**는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink"), [보스니아 헤르체고비나](../Page/보스니아_헤르체고비나_축구_국가대표팀.md "wikilink"), [이란](../Page/이란_축구_국가대표팀.md "wikilink"), 그리고 [나이지리아로](../Page/나이지리아_축구_국가대표팀.md "wikilink") 구성되었다. F조 일정은 2014년 6월 15일에 시작해 6월 25일에 종료되었다.

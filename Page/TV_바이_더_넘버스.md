@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
+> This article is converted from Wikipedia: [TV 바이 더 넘버스](https://ko.wikipedia.org/wiki/TV_바이_더_넘버스).
 
 
 **TV 바이 더 넘버스**()는 [미국](../Page/미국.md "wikilink")의 [텔레비전](../Page/텔레비전.md "wikilink") [시청률](https://ko.wikipedia.org/wiki/시청률 "wikilink") 수집 및 분석 웹사이트이다. 2007년에 로버트 세이드먼과 밀 고먼이 함께 만들었다.\[1\] [트리뷴 미디어 서비스](https://ko.wikipedia.org/wiki/트리뷴_미디어_서비스 "wikilink")(Tribune Media Services)의 웹 사이트 [Zap2it](https://ko.wikipedia.org/wiki/Zap2it "wikilink")의 한 부분이다.

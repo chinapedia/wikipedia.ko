@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HS](https://ko.wikipedia.org/wiki/HS).
+> This article is converted from Wikipedia: [HS코드](https://ko.wikipedia.org/wiki/HS코드).
 
 
 **HS코드**()는 대외 무역거래에서 거래 상품의 종류를 숫자 코드로 분류해 놓은 것으로, 1988년 국제협약에 의해 제정되었다. 기본적으로 6자리로 구성되며 [대한민국](../Page/대한민국.md "wikilink")에서는 세부 분류를 위해 4자리를 추가해서 사용하는 **HSK**를 사용하고 있다.

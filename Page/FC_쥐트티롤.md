@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 쥐트티롤](https://ko.wikipedia.org/wiki/FC_쥐트티롤).
 
 
 **FC 쥐트티롤**(/)은 [볼차노현](https://ko.wikipedia.org/wiki/볼차노현 "wikilink")의 [볼차노](../Page/볼차노.md "wikilink")를 연고로 하는 이탈리아의 프로 축구팀이다.\[1\] 현재 [레가 프로 프리마 디비시오네에](../Page/레가_프로_프리마_디비시오네.md "wikilink") 참가 중이다.

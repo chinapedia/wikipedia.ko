@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GOM   4](https://ko.wikipedia.org/wiki/_GOM___4).
+> This article is converted from Wikipedia: [위메프 GOM 클래식 시즌 4](https://ko.wikipedia.org/wiki/위메프_GOM_클래식_시즌_4).
 
 
 **위메프 GOM 클래식 시즌 4 (Wemakeprice GOM Classic Season 4)**는 그래텍의 [스타크래프트](../Page/스타크래프트.md "wikilink") 리그이다.

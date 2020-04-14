@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CAF ](https://ko.wikipedia.org/wiki/:CAF_).
+> This article is converted from Wikipedia: [틀:CAF 리그](https://ko.wikipedia.org/wiki/틀:CAF_리그).
 
 
 <onlyinclude> [북중미](https://ko.wikipedia.org/wiki/:틀:CONCACAF_리그 "wikilink") {{\!}} [아시아](https://ko.wikipedia.org/wiki/:틀:AFC_리그 "wikilink") {{\!}} [아프리카](https://ko.wikipedia.org/wiki/:틀:CAF_리그 "wikilink") {{\!}} [오세아니아](https://ko.wikipedia.org/wiki/:틀:OFC_리그 "wikilink") {{\!}} [유럽](https://ko.wikipedia.org/wiki/:틀:UEFA_리그 "wikilink") |아랫글모양 = background:\#bfd7ff; }}</onlyinclude>

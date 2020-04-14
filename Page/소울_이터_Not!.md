@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Not!](https://ko.wikipedia.org/wiki/__Not!).
+> This article is converted from Wikipedia: [소울 이터 Not!](https://ko.wikipedia.org/wiki/소울_이터_Not!).
 
 
 **소울 이터 Not\!**()은 오쿠보 아츠시가 쓰고 그린 일본의 만화이다. 이 만화는 주 시리즈인 "[소울 이터](../Page/소울_이터.md "wikilink")"의 스핀오프 작이며, 만화 이벤트에 앞서서 나왔다. 스퀘어 에닉스의 월간 소년 간간 지에서 2011년 1월 12일부터 연재를 시작하였다. Bones가 제작한 텔레비전 애니메이션은 2014년 4월 8일부터 TV 도쿄에서 방영중에 있으며 북미에선 Funimation에서 동시 방영중이다.

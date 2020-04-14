@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [5 LG ](https://ko.wikipedia.org/wiki/5_LG_).
+> This article is converted from Wikipedia: [5회 LG배 세계기왕전](https://ko.wikipedia.org/wiki/5회_LG배_세계기왕전).
 
 
 ## 대진표

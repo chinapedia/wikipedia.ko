@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lotus \( \)](https://ko.wikipedia.org/wiki/Lotus_\(_\)).
+> This article is converted from Wikipedia: [Lotus \(아라시의 노래\)](https://ko.wikipedia.org/wiki/Lotus_\(아라시의_노래\)).
 
 
 〈**Lotus**〉는, [아라시](../Page/아라시.md "wikilink")의 35번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BC](https://ko.wikipedia.org/wiki/_BC).
+> This article is converted from Wikipedia: [올림피아코스 BC](https://ko.wikipedia.org/wiki/올림피아코스_BC).
 
 
 **올림피아코스 BC**(Olympiacos B.C.)는 [그리스](../Page/그리스.md "wikilink") [피레아스](../Page/피레아스.md "wikilink")를 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBL color](https://ko.wikipedia.org/wiki/:KBL_color).
+> This article is converted from Wikipedia: [틀:KBL color](https://ko.wikipedia.org/wiki/틀:KBL_color).
 
 
 <includeonly>{{\#switch:

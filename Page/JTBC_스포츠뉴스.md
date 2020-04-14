@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JTBC ](https://ko.wikipedia.org/wiki/JTBC_).
+> This article is converted from Wikipedia: [JTBC 스포츠뉴스](https://ko.wikipedia.org/wiki/JTBC_스포츠뉴스).
 
 
 **《JTBC 스포츠뉴스》**는 [대한민국](../Page/대한민국.md "wikilink")에서 평일 밤 12시 15분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송하는 [JTBC](../Page/JTBC.md "wikilink")의 주중 [스포츠](../Page/스포츠.md "wikilink") [뉴스](../Page/뉴스.md "wikilink") 프로그램이다. 프로그램 내 주요 코너로는 '찾아가는 인터뷰' '팝업뉴스'가 있다.

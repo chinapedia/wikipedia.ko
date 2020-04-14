@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SS](https://ko.wikipedia.org/wiki/SS).
+> This article is converted from Wikipedia: [이누×보쿠SS](https://ko.wikipedia.org/wiki/이누×보쿠SS).
 
 
 《**이누×보쿠SS**》(, いぬ×ぼくSS)는 후지와라 코코아()의 [만화](../Page/만화.md "wikilink") 작품이다. TV 애니메이션은 [2012년](../Page/2012년.md "wikilink") [1월](../Page/1월.md "wikilink") 발표되어, 같은 해 [3월](../Page/3월.md "wikilink")까지 방송되었다. 제목의 “SS”는 “시크릿 서비스”를 의미한다.

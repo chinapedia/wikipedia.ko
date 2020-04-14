@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [마이클 B. 조던](https://ko.wikipedia.org/wiki/마이클_B._조던).
 
 
 **마이클 B. 조던**(Michael B. Jordan, [1987년](../Page/1987년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
@@ -15,7 +15,7 @@
   - 《[크리드](../Page/크리드_\(영화\).md "wikilink")》 (2015)
   - 《[블랙 팬서](../Page/블랙_팬서_\(영화\).md "wikilink")》 (2018) - 에릭 킬몽거 역
   - 《[화씨 451](../Page/화씨_451.md "wikilink")》 (2018, [HBO](https://ko.wikipedia.org/wiki/HBO "wikilink")) - 몬태그 역
-  - 《[크리드 2](https://ko.wikipedia.org/wiki/크리드_2 "wikilink")》 (2018) - 아도니스 크리드 역
+  - 《[크리드 2](../Page/크리드_2.md "wikilink")》 (2018) - 아도니스 크리드 역
   - 《[화씨 451](../Page/화씨_451.md "wikilink")》 (2018) - 몬태그 역
   - 《[저스트 머시](https://ko.wikipedia.org/wiki/저스트_머시 "wikilink")》 (2019) - [브라이언 스티븐슨](https://ko.wikipedia.org/wiki/브라이언_스티븐슨 "wikilink") 역
 

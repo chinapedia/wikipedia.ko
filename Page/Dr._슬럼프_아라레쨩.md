@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dr.  ](https://ko.wikipedia.org/wiki/Dr.__).
+> This article is converted from Wikipedia: [Dr. 슬럼프 아라레쨩](https://ko.wikipedia.org/wiki/Dr._슬럼프_아라레쨩).
 
 
 《**Dr. 슬럼프 아라레쨩**》()은 [1980년](../Page/1980년.md "wikilink")부터 [1984년](../Page/1984년.md "wikilink")까지 [주간 소년 점프에](../Page/주간_소년_점프.md "wikilink") 연재되었던 [도리야마 아키라의](../Page/도리야마_아키라.md "wikilink") 만화 「[닥터 슬럼프](../Page/닥터_슬럼프.md "wikilink")」를 원작으로 제작된 애니메이션이다. 원작 만화인 [닥터 슬럼프가](../Page/닥터_슬럼프.md "wikilink") 주간 소년 점프에 첫 연재를 시작한 지 약 1년 3개월 째 되는 날인 [1981년](../Page/1981년.md "wikilink") [4월 8일에](../Page/4월_8일.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 첫 방영을 시작하여 [1986년](../Page/1986년.md "wikilink") [2월 19일에](../Page/2월_19일.md "wikilink") 종영되었다. [도에이 애니메이션과](../Page/도에이_애니메이션.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 제작하였으며, 총 243화로 제작되었다.

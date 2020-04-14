@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBC  ](https://ko.wikipedia.org/wiki/NBC__).
+> This article is converted from Wikipedia: [NBC 나이틀리 뉴스](https://ko.wikipedia.org/wiki/NBC_나이틀리_뉴스).
 
 
 《**NBC 나이틀리 뉴스**》()는 1970년 8월 3일부터 현재까지 [NBC](../Page/NBC.md "wikilink")에서 방영중인 뉴스 프로그램이다.

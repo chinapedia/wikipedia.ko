@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [x](https://ko.wikipedia.org/wiki/x).
+> This article is converted from Wikipedia: [키스x시스](https://ko.wikipedia.org/wiki/키스x시스).
 
 
 **키스x시스**, 혹은 KissxSis는 지타마 보우가 쓰고 그린 소년 만화이다. 베사츠 영 메거진(현재의 영 매거진)애 2005년 12월 12일에 연재를 시작하였고 그 이후로 코단샤에 의해 10권의 단행본이 발행되게 된다.\[1\] 나 시리즈는 Feel에 의해 애니메이션화가 되었는데 2010년 4월 5일부터 2010년 6월 21까지 AT-X에서 방영된 12화 분량의 TV 애니메이션,\[2\]과 2008년 12월 22일부터 2015년 4월 6일까지 12화\[3\] 분량의 발매된 OVA 시리즈이다.
@@ -98,7 +98,7 @@
 
       -
         작사 - 오모리 사치코 / 작곡,편곡 : 타카하시 나나
-        노래 - [유이카오리](../Page/유이카오리.md "wikilink") ([오구라 유이](https://ko.wikipedia.org/wiki/오구라_유이_\(아이돌_성우\) "wikilink") & [이시하라 카오리](https://ko.wikipedia.org/wiki/이시하라_카오리 "wikilink"))
+        노래 - [유이카오리](../Page/유이카오리.md "wikilink") ([오구라 유이](https://ko.wikipedia.org/wiki/오구라_유이_\(아이돌_성우\) "wikilink") & [이시하라 카오리](../Page/이시하라_카오리.md "wikilink"))
 
 ## 코믹스 (원작)
 

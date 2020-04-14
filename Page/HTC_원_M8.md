@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC  M8](https://ko.wikipedia.org/wiki/HTC__M8).
+> This article is converted from Wikipedia: [HTC 원 M8](https://ko.wikipedia.org/wiki/HTC_원_M8).
 
 
 **HTC 원 M8**()는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") [2014년](../Page/2014년.md "wikilink") [3월](../Page/3월.md "wikilink")에 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [FHD](../Page/1080p.md "wikilink") 해상도를 표현하는 [스마트폰](../Page/스마트폰.md "wikilink")이다.[HTC 원의](../Page/HTC_원.md "wikilink") 후속 기종이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [7 LG ](https://ko.wikipedia.org/wiki/7_LG_).
+> This article is converted from Wikipedia: [7회 LG배 세계기왕전](https://ko.wikipedia.org/wiki/7회_LG배_세계기왕전).
 
 
 ## 대진표

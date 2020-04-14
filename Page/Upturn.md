@@ -36,6 +36,10 @@
 4.  Take You Higher
 5.  Friendship
 
+### 차트
+
+  - 오리콘 위클리 차트 5위를 기록하였다. (13/7/1)
+
 ## 외부 링크
 
   - [리드(Lead) 21번째 싱글 발매 9월 18일 홈페이지 확인](http://www.lead.tv/news/index.php?no=130420122112)

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FBC  ASD](https://ko.wikipedia.org/wiki/FBC__ASD).
+> This article is converted from Wikipedia: [FBC 카살레 ASD](https://ko.wikipedia.org/wiki/FBC_카살레_ASD).
 
 
 **풋볼 클럽 카살레 아소차치오네 스포르티바 딜레탄티스티카**()는 [이탈리아](../Page/이탈리아.md "wikilink") [카살레 몬페라토를](https://ko.wikipedia.org/wiki/카살레_몬페라토 "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1909년](../Page/1909년.md "wikilink")에 창단되었다.

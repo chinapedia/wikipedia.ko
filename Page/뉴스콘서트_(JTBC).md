@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(JTBC\)](https://ko.wikipedia.org/wiki/_\(JTBC\)).
+> This article is converted from Wikipedia: [뉴스콘서트 \(JTBC\)](https://ko.wikipedia.org/wiki/뉴스콘서트_\(JTBC\)).
 
 
 **《뉴스콘서트》**은 [대한민국](../Page/대한민국.md "wikilink")에서 평일 오후 5시 35분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송되었던 [JTBC](../Page/JTBC.md "wikilink")의 주중 저녁 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.

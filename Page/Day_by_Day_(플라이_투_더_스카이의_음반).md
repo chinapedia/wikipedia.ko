@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Day by Day \(    \)](https://ko.wikipedia.org/wiki/Day_by_Day_\(____\)).
+> This article is converted from Wikipedia: [Day by Day \(플라이 투 더 스카이의 음반\)](https://ko.wikipedia.org/wiki/Day_by_Day_\(플라이_투_더_스카이의_음반\)).
 
 
 《**Day by Day**》는 [대한민국](../Page/대한민국.md "wikilink")의 [듀오](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [플라이 투 더 스카이의](../Page/플라이_투_더_스카이.md "wikilink") 데뷔 앨범이다.

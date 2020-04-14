@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Superstar \( \)](https://ko.wikipedia.org/wiki/Superstar_\(_\)).
+> This article is converted from Wikipedia: [Superstar \(동방신기의 노래\)](https://ko.wikipedia.org/wiki/Superstar_\(동방신기의_노래\)).
 
 
 〈**Superstar**〉(슈퍼스타)는 일본에서 발매한 대한민국 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 32번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다.

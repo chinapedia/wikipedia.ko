@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SK](https://ko.wikipedia.org/wiki/_SK).
+> This article is converted from Wikipedia: [페네르바흐체 SK](https://ko.wikipedia.org/wiki/페네르바흐체_SK).
 
 
 **페네르바흐체 스포르 쿨뤼뷔**(, 페네르바흐체 스포츠 클럽)는 [터키](../Page/터키.md "wikilink") [이스탄불](../Page/이스탄불.md "wikilink")을 연고로 하는 스포츠 클럽이다. 페네르바흐체는 이스탄불의 페네르바흐체 구역에 연고를 두고 있다. 이 구역의 이름과 스포츠 클럽은 그 지역에 위치한 등대에서 그 유래를 찾는다('페네르'는 터키어로 등대를 의미하며, '바흐체'는 정원을 의미). 축구팀이 가장 유명하지만, [농구](../Page/농구.md "wikilink"), [배구](../Page/배구.md "wikilink"), [권투](../Page/권투.md "wikilink"), [수영](../Page/수영.md "wikilink"), [탁구](../Page/탁구.md "wikilink")등에도 팀을 운영한다.

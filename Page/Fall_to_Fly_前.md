@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fall to Fly ](https://ko.wikipedia.org/wiki/Fall_to_Fly_).
+> This article is converted from Wikipedia: [Fall to Fly 前](https://ko.wikipedia.org/wiki/Fall_to_Fly_前).
 
 
 《**Fall to Fly 前**》은 한국의 싱어송라이터 [이승환이](../Page/이승환_\(가수\).md "wikilink") [Dreamizer](../Page/Dreamizer.md "wikilink") 이후 4년만에 발매하는 11번째 정규 [앨범이다](../Page/음반.md "wikilink"). Fall to Fly는 더블 앨범으로 기획되었으며, 애초 Fall to Fly 後는 2014년 하반기 이후 발매가 예정됐었다. 그러나 현재까지는 발매가 잠정 보류된 상태이며, 후에 시기를 고려해 발매일을 결정할 것으로 본다. 그렇지만 이승환 본인이 후편 발매를 전혀 생각치 않은 상태이어서 나오는 날짜가 언제일지는 아직 미지수다.

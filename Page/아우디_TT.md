@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TT](https://ko.wikipedia.org/wiki/_TT).
+> This article is converted from Wikipedia: [아우디 TT](https://ko.wikipedia.org/wiki/아우디_TT).
 
 
 **아우디 TT**(Audi TT)는 [아우디](../Page/아우디.md "wikilink")에서 생산해서 파는 [쿠페](../Page/쿠페.md "wikilink")와 [로드스터](https://ko.wikipedia.org/wiki/로드스터 "wikilink")다. 차명인 TT는 [영국](../Page/영국.md "wikilink")의 맨 섬에서 매년 [6월](../Page/6월.md "wikilink")에 개최되는 모터사이클 경주인 투어리스트 트로피(Tourist Trophy)에서 유래됐다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BC](https://ko.wikipedia.org/wiki/_BC).
+> This article is converted from Wikipedia: [파나티나이코스 BC](https://ko.wikipedia.org/wiki/파나티나이코스_BC).
 
 
 **파나티나이코스 BC**(Panathinaikos B.C.)는 [그리스](../Page/그리스.md "wikilink") [아테네](../Page/아테네.md "wikilink")를 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T.O.P. \( \)](https://ko.wikipedia.org/wiki/T.O.P._\(_\)).
+> This article is converted from Wikipedia: [T.O.P. \(신화의 음반\)](https://ko.wikipedia.org/wiki/T.O.P._\(신화의_음반\)).
 
 
 《**T.O.P.**》(Twinkling of Paradise)는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [신화의](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") 두 번째 정규앨범이다. 주로 활동하던 곡인 〈T.O.P.〉와 〈YO\!〉는 뮤직비디오로 제작되었다.

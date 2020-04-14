@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KK  ](https://ko.wikipedia.org/wiki/KK__).
+> This article is converted from Wikipedia: [KK 츠르베나 즈베즈다](https://ko.wikipedia.org/wiki/KK_츠르베나_즈베즈다).
 
 
 **KK 츠르베나 즈베즈다**()는 [세르비아](../Page/세르비아.md "wikilink") [베오그라드](../Page/베오그라드.md "wikilink")를 연고로 하는 프로[농구](../Page/농구.md "wikilink")단이다.

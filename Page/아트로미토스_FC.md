@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [아트로미토스 FC](https://ko.wikipedia.org/wiki/아트로미토스_FC).
 
 
 **아트로미토스 FC**()는 [그리스](../Page/그리스.md "wikilink")의 수도 [아테네](../Page/아테네.md "wikilink")를 연고로 하는 축구 클럽이다. 이 팀은 [1923년](../Page/1923년.md "wikilink")에 창단되었으며, 현재 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 참가하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Why \( \)](https://ko.wikipedia.org/wiki/Why_\(_\)).
+> This article is converted from Wikipedia: [Why \(베이비복스의 음반\)](https://ko.wikipedia.org/wiki/Why_\(베이비복스의_음반\)).
 
 
 《**Why**》는 [대한민국](../Page/대한민국.md "wikilink")의 여성 5인조 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [베이비복스](../Page/베이비복스.md "wikilink")의 네 번째 정규앨범이다. [중국](../Page/중화인민공화국.md "wikilink") 진출을 꾀했던 베이비복스는 활동 영역을 넓혀 아시아권으로 진출하기 위해 일본의 안무가 사쿠마 히로유키가 안무지도를, 디자이너 이상봉이 의상 디자인을 했으며, 3집을 프로듀싱했던 김형석의 지도 아래 작업하였다.

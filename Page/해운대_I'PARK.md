@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I\'PARK](https://ko.wikipedia.org/wiki/_I\'PARK).
+> This article is converted from Wikipedia: [해운대 I\'PARK](https://ko.wikipedia.org/wiki/해운대_I\'PARK).
 
 
 **해운대 I'PARK**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](../Page/해운대구.md "wikilink") [우동](../Page/우동_\(부산\).md "wikilink") [마린시티](../Page/마린시티.md "wikilink")에 위치한 초고층 고급 주상복합 [아파트](../Page/아파트.md "wikilink")이다. [2007년](../Page/2007년.md "wikilink") 이후 착공하여 [2011년](../Page/2011년.md "wikilink")에 완공하였고 그리고 개장 및 입주하였고 [해운대 두산위브더제니스](../Page/해운대_두산위브더제니스.md "wikilink")(301m, 80층)보다 낮은 초고층 주상복합 아파트 단지 3개가 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 초록동요제](https://ko.wikipedia.org/wiki/KBS_초록동요제).
 
 
 **YMCA 초록동요제**는 [1984년](../Page/1984년.md "wikilink")에 시작되어 [2016년](../Page/2016년.md "wikilink")에 폐지한 [동요](../Page/동요.md "wikilink")대회이다.

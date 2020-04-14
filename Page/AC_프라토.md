@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
+> This article is converted from Wikipedia: [AC 프라토](https://ko.wikipedia.org/wiki/AC_프라토).
 
 
 **AC 프라토**(Associazione Calcio Prato SpA)는 [이탈리아](../Page/이탈리아.md "wikilink") [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink") [프라토](../Page/프라토.md "wikilink")를 연고로 하는 이탈리아의 축구 클럽이다.

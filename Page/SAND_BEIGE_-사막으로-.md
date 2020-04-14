@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SAND BEIGE --](https://ko.wikipedia.org/wiki/SAND_BEIGE_--).
+> This article is converted from Wikipedia: [SAND BEIGE -사막으로-](https://ko.wikipedia.org/wiki/SAND_BEIGE_-사막으로-).
 
 
 〈**SAND BEIGE -사막으로-**〉()는 [1985년](../Page/1985년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") 발표한 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 12번째 싱글이다. ([EP](../Page/익스텐디드_플레이.md "wikilink"): L-1669) 작사는 [교 에이코](https://ko.wikipedia.org/wiki/교_에이코 "wikilink")()가, 작곡은 츠시미 다카시()가, 편곡은 이노우에 아키라()가 담당하였으며 [워너 파이오니어의](../Page/워너_뮤직_재팬.md "wikilink") 레이블로 출시되었다. [B면은](https://ko.wikipedia.org/wiki/B사이드 "wikilink") 〈춘희 줄리아나〉()이며 작사는 마츠모토 잇키()가, 작곡은 사토 다카시()가, 편곡은 역시 이노우에 아키라가 도맡았다.\[1\]

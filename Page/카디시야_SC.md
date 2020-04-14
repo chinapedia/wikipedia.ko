@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [카디시야 SC](https://ko.wikipedia.org/wiki/카디시야_SC).
 
 
 **카디시야 스포팅 클럽**()은 [쿠웨이트](../Page/쿠웨이트.md "wikilink")의 수도인 [쿠웨이트 시티를](https://ko.wikipedia.org/wiki/쿠웨이트_시티 "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1953년](../Page/1953년.md "wikilink")에 알자지라 SC로 창단했으며 [1960년](../Page/1960년.md "wikilink") 현재의 이름으로 바꿨다. 현재는 [쿠웨이트 프리미어리그에](../Page/쿠웨이트_프리미어리그.md "wikilink") 참가하고 있다.

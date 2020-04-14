@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV로펌 법대법](https://ko.wikipedia.org/wiki/TV로펌_법대법).
 
 
 《**TV로펌 법대법**》은 변호사 11인과 배심원 12명이 펼치는 법률에 관한 법정공방 토크 쇼이다.

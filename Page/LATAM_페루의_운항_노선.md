@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM   ](https://ko.wikipedia.org/wiki/LATAM___).
+> This article is converted from Wikipedia: [LATAM 페루의 운항 노선](https://ko.wikipedia.org/wiki/LATAM_페루의_운항_노선).
 
 
 아래는 **[LATAM 페루](../Page/LATAM_페루.md "wikilink")**의 취항지 목록으로 자회사인 [LATAM 아르헨티나](../Page/LATAM_아르헨티나.md "wikilink"), [LATAM 에콰도르](../Page/LATAM_에콰도르.md "wikilink"), [LATAM 칠레](../Page/LATAM_칠레.md "wikilink"), [LATAM 콜롬비아도](../Page/LATAM_콜롬비아.md "wikilink") 포함된다.([2016년](../Page/2016년.md "wikilink") [9월](../Page/9월.md "wikilink") 현재)
