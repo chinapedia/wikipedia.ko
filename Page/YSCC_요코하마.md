@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YSCC ](https://ko.wikipedia.org/wiki/YSCC_).
+> This article is converted from Wikipedia: [YSCC 요코하마](https://ko.wikipedia.org/wiki/YSCC_요코하마).
 
 
 **요코하마 스포츠 앤 컬처 클럽**()는 [가나가와현](../Page/가나가와현.md "wikilink"), [요코하마 시에](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [J3리그](../Page/J3리그.md "wikilink")에 참가하고 있다. 흔히 **YSCC 요코하마**라고도 불린다.

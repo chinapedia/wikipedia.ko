@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [털사 러프넥스 FC](https://ko.wikipedia.org/wiki/털사_러프넥스_FC).
 
 
 **털사 러프넥스 FC**(Tulsa Roughnecks FC)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [오클라호마주](../Page/오클라호마주.md "wikilink") [털사](../Page/털사.md "wikilink")를 연고지로 하고 있으며 원오케이 필드를 홈 경기장으로 사용하고 있다.

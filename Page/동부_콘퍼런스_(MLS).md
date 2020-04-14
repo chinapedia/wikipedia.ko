@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(MLS\)](https://ko.wikipedia.org/wiki/__\(MLS\)).
+> This article is converted from Wikipedia: [동부 콘퍼런스 \(MLS\)](https://ko.wikipedia.org/wiki/동부_콘퍼런스_\(MLS\)).
 
 
 **동부 콘퍼런스**(Eastern Conference)는 [애틀랜타 유나이티드 FC](../Page/애틀랜타_유나이티드_FC.md "wikilink"), [시카고 파이어](https://ko.wikipedia.org/wiki/시카고_파이어 "wikilink"), [콜럼버스 크루 SC](../Page/콜럼버스_크루_SC.md "wikilink"), [FC 신시내티](../Page/FC_신시내티.md "wikilink")[D.C. 유나이티드](../Page/D.C._유나이티드.md "wikilink"), [인터 마이애미 CF](../Page/인터_마이애미_CF.md "wikilink"), [몬트리올 임팩트](../Page/몬트리올_임팩트.md "wikilink"), [뉴잉글랜드 레벌루션](../Page/뉴잉글랜드_레벌루션.md "wikilink"), [뉴욕 레드불스](../Page/뉴욕_레드불스.md "wikilink"), [뉴욕 시티 FC](../Page/뉴욕_시티_FC.md "wikilink"), [올랜도 시티 SC](../Page/올랜도_시티_SC.md "wikilink"), [필라델피아 유니언](../Page/필라델피아_유니언.md "wikilink"), [토론토 FC로](../Page/토론토_FC.md "wikilink") 이루어진 콘퍼런스 있다. 2000년부터 2001년까지는 **동부 디비전**(Eastern Division)였다.

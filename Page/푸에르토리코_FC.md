@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [푸에르토리코 FC](https://ko.wikipedia.org/wiki/푸에르토리코_FC).
 
 
 **푸에르토리코 FC**(Puerto Rico FC)는 [푸에르토리코](../Page/푸에르토리코.md "wikilink")의 프로축구단으로 [바야몬](https://ko.wikipedia.org/wiki/바야몬 "wikilink")을 연고지로 한다.

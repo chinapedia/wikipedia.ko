@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM   ](https://ko.wikipedia.org/wiki/IBM___).
+> This article is converted from Wikipedia: [IBM 정보 관리 시스템](https://ko.wikipedia.org/wiki/IBM_정보_관리_시스템).
 
 
 **IBM 정보 관리 시스템**(IBM Information Management System, IMS)은 방대한 [트랜잭션 처리](../Page/트랜잭션_처리.md "wikilink") 기능을 갖춘 결합형 [계층형 데이터베이스이자](../Page/계층형_모델.md "wikilink") [정보 관리](../Page/정보_관리.md "wikilink") 시스템이다.

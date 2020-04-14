@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TRIPTRICK](https://ko.wikipedia.org/wiki/TRIPTRICK).
+> This article is converted from Wikipedia: [TRIP×TRICK](https://ko.wikipedia.org/wiki/TRIP×TRICK).
 
 
 〈**TRIP×TRICK**〉는 [2014년](../Page/2014년.md "wikilink") [9월 24일에](../Page/9월_24일.md "wikilink") [빙에서](../Page/빙_\(기업\).md "wikilink") 발매된 [VALSHE](../Page/VALSHE.md "wikilink")의 8번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

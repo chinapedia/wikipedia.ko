@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NRISref](https://ko.wikipedia.org/wiki/:NRISref).
+> This article is converted from Wikipedia: [틀:NRISref](https://ko.wikipedia.org/wiki/틀:NRISref).
 
 
  | title = National Register Information System{{\#if:}}}| –}}{{\#if:|  }}{{\#if:| (\#)}} | date = {{\#time:{{\#switch:}}}

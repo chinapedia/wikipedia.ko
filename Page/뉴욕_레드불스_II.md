@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [뉴욕 레드불스 II](https://ko.wikipedia.org/wiki/뉴욕_레드불스_II).
 
 
 **뉴욕 레드불스 II**(New York Red Bulls II)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [뉴저지주](../Page/뉴저지주.md "wikilink") [몬트클레어를](https://ko.wikipedia.org/wiki/몬트클레어_\(뉴저지주\) "wikilink") 연고지로 하고 있으며 레드불 아레나와 컬럼비아 사커 스타디움을 홈 경기장으로 사용하고 있다.

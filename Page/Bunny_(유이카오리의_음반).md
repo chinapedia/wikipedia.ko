@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Bunny \( \)](https://ko.wikipedia.org/wiki/Bunny_\(_\)).
+> This article is converted from Wikipedia: [Bunny \(유이카오리의 음반\)](https://ko.wikipedia.org/wiki/Bunny_\(유이카오리의_음반\)).
 
 
 《**Bunny**》()는 [유이카오리](../Page/유이카오리.md "wikilink")의 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [2013년](../Page/2013년.md "wikilink") [10월 23일에](../Page/10월_23일.md "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_제삼_크리에이티브_본부 "wikilink") 발매됐다.
@@ -13,14 +13,14 @@
 
 **CD**
 
-1.  **[웨이크 업\!\!](../Page/웨이크_업!!.md "wikilink")** () \[4:27\]\[1\]
+1.  **[웨이크 업\!\!](../Page/웨이크_업!!.md "wikilink")**() \[4:27\]\[1\]
       - 작사 · 작곡 · 편곡: [마에야마다 켄이치](https://ko.wikipedia.org/wiki/마에야마다_켄이치 "wikilink")
     <!-- end list -->
       -
         [TV 도쿄](../Page/TV_도쿄.md "wikilink") 《[애니송 플러](https://ko.wikipedia.org/wiki/애니송_플러 "wikilink")》 2012년 10월 [여는 곡](https://ko.wikipedia.org/wiki/주제가 "wikilink")
-2.  **그대가 세계로 세계는 그대로** () \[4:05\]\[2\]
+2.  **그대가 세계로 세계는 그대로**() \[4:05\]\[2\]
       - 작사: [하타 아키](https://ko.wikipedia.org/wiki/하타_아키 "wikilink"), 작곡 · 편곡: 마에야마다 켄이치
-3.  **[압도적인 GO\!\!](../Page/그대의_YELL.md "wikilink")** () \[3:48\]\[3\]
+3.  **[압도적인 GO\!\!](../Page/그대의_YELL.md "wikilink")**() \[3:48\]\[3\]
       - 작사: IkaZ, 작곡 · 편곡: OTOKAM
     <!-- end list -->
       -
@@ -30,21 +30,21 @@
 5.  **in Wonderful Wonder** \[4:23\]\[5\]
       - 노래: [오구라 유이](../Page/오구라_유이.md "wikilink"), 작사: [오모리 쇼코](https://ko.wikipedia.org/wiki/오모리_쇼코 "wikilink"), 작곡 · 편곡: [오쿠보 카오루](https://ko.wikipedia.org/wiki/오쿠보_카오루 "wikilink")
 6.  **Sunny Ray Beam\!\!** \[4:12\]\[6\]
-      - 노래: [이시하라 카오리](https://ko.wikipedia.org/wiki/이시하라_카오리 "wikilink"), 작사: hotaru, 작곡 · 편곡: 키쿠타 다이스케
+      - 노래: [이시하라 카오리](../Page/이시하라_카오리.md "wikilink"), 작사: hotaru, 작곡 · 편곡: 키쿠타 다이스케
 7.  **[Shiny Blue](../Page/Shiny_Blue.md "wikilink")** \[3:58\]\[7\]
       - 작사 · 작곡 · 편곡: sino
     <!-- end list -->
       -
         [PS Vita용](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 소프트웨어 《[\~성마도 이야기\~](https://ko.wikipedia.org/wiki/마도_이야기#~성마도_이야기~ "wikilink")》 여는 곡
-8.  **날개가 될 거야** () \[4:44\]\[8\]
+8.  **날개가 될 거야**() \[4:44\]\[8\]
       - 작사: [코다마 사오리](https://ko.wikipedia.org/wiki/코다마_사오리 "wikilink"), 작곡: [슌류](https://ko.wikipedia.org/wiki/슌류 "wikilink"), 편곡: Sizuk
 9.  **marble** \[5:00\]\[9\]
       - 작사: 코다마 사오리, 작곡 · 편곡; [야마사키 히로코](https://ko.wikipedia.org/wiki/야마사키_히로코 "wikilink")
-10. **[그대의 YELL](../Page/그대의_YELL.md "wikilink")** () \[4:44\]\[10\]
+10. **[그대의 YELL](../Page/그대의_YELL.md "wikilink")**() \[4:44\]\[10\]
       - 작사 · 작곡 · 편곡: [나카야마 마사토](https://ko.wikipedia.org/wiki/나카야마_마사토 "wikilink")
 11. **Jumpin' Bunny Flash\!\!** \[5:10\]\[11\]
       - 작사: 코다마 사오리, 작곡 · 편곡: 카와타 타카히로
-12. **별 내리는 밤의 해피 링크** () \[4:27\]\[12\]
+12. **별 내리는 밤의 해피 링크**() \[4:27\]\[12\]
       - 작사: [마츠이 고로](https://ko.wikipedia.org/wiki/마츠이_고로 "wikilink"), 작곡 · 편곡: 모리 신타로
 
 **블루레이(CD+BD반만) · DVD(CD+DVD반만)**

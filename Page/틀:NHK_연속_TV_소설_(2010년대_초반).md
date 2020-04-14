@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NHK  TV  \(2010 \)](https://ko.wikipedia.org/wiki/:NHK__TV__\(2010_\)).
+> This article is converted from Wikipedia: [틀:NHK 연속 TV 소설 \(2010년대 초반\)](https://ko.wikipedia.org/wiki/틀:NHK_연속_TV_소설_\(2010년대_초반\)).
 
 
 <table>

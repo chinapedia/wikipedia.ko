@@ -20,7 +20,7 @@
     <!-- end list -->
       -
         TV 애니메이션 《[최근, 여동생의 상태가 조금 이상한 것 같다만](../Page/최근,_여동생의_상태가_조금_이상한_것_같다만.md "wikilink")》 엔딩 테마
-2.  **판도라♡쇼콜라** () \[3:11\]
+2.  **판도라♡쇼콜라**() \[3:11\]
       - 작사: [하타 아키](https://ko.wikipedia.org/wiki/하타_아키 "wikilink"), 작곡: [오노 타카미츠](https://ko.wikipedia.org/wiki/오노_타카미츠 "wikilink"), 편곡: [오쿠보 카오루](https://ko.wikipedia.org/wiki/오쿠보_카오루 "wikilink")
 3.  **Charming Do\! (off vocal ver.)** \[4:02\]
 4.  **판도라♡쇼콜라 (off vocal ver.)** \[3:10\]

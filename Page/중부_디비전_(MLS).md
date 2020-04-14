@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(MLS\)](https://ko.wikipedia.org/wiki/__\(MLS\)).
+> This article is converted from Wikipedia: [중부 디비전 \(MLS\)](https://ko.wikipedia.org/wiki/중부_디비전_\(MLS\)).
 
 
 **중부 디비전**(Central Division)은 2000년부터 2001년 존재했던 디비전으로 [시카고 파이어](https://ko.wikipedia.org/wiki/시카고_파이어 "wikilink"), [콜럼버스 크루 SC](../Page/콜럼버스_크루_SC.md "wikilink"), [댈러스 번](../Page/FC_댈러스.md "wikilink"), [탬파베이 뮤터니로](../Page/탬파베이_뮤터니.md "wikilink") 이루어졌다.

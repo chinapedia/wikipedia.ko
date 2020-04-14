@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Puppy \( \)](https://ko.wikipedia.org/wiki/Puppy_\(_\)).
+> This article is converted from Wikipedia: [Puppy \(유이카오리의 음반\)](https://ko.wikipedia.org/wiki/Puppy_\(유이카오리의_음반\)).
 
 
 《**Puppy**》()는 [유이카오리](../Page/유이카오리.md "wikilink")의 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). [2011년](../Page/2011년.md "wikilink") [9월 21일에](../Page/9월_21일.md "wikilink") [킹레코드에서](https://ko.wikipedia.org/wiki/킹레코드_제삼_크리에이티브_본부 "wikilink") 발매됐다.
@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-1.  **사랑의 추월** () \[4:40\]
+1.  **사랑의 추월**() \[4:40\]
       - 작사 · 작곡: [슌류](https://ko.wikipedia.org/wiki/슌류 "wikilink"), 편곡: Sizuk
     <!-- end list -->
       -
@@ -27,7 +27,7 @@
     <!-- end list -->
       -
         [니코니코 생방송](https://ko.wikipedia.org/wiki/니코니코_생방송 "wikilink") 《[전파연구소](../Page/전파연구소.md "wikilink")》 2011년 9월 [닫는 곡](https://ko.wikipedia.org/wiki/주제가 "wikilink")
-3.  **미래형 아이돌** () \[3:43\]
+3.  **미래형 아이돌**() \[3:43\]
       - 작사: 하라야마 카나코, 작곡: 나고야 츠카사, 편곡: Kohei by SIMONSAYZ
     <!-- end list -->
       -
@@ -37,7 +37,7 @@
     <!-- end list -->
       -
         2번째 싱글
-5.  **큣\!큣\!CURIOSITY\!\!** () \[4:05\]
+5.  **큣\!큣\!CURIOSITY\!\!**() \[4:05\]
       - 작사 · 작곡 · 편곡: 마에야마다 켄이치
     <!-- end list -->
       -
@@ -46,17 +46,17 @@
       - 작사: [타다노 나츠미](https://ko.wikipedia.org/wiki/타다노_나츠미 "wikilink"), 작곡: 슌류, 편곡: Gravity musik
     <!-- end list -->
       -
-        [이시하라 카오리](https://ko.wikipedia.org/wiki/이시하라_카오리 "wikilink") 솔로 곡
-7.  **[두 사람](https://ko.wikipedia.org/wiki/두_사람/VIVIVID_PARTY! "wikilink")** () \[4:05\]
+        [이시하라 카오리](../Page/이시하라_카오리.md "wikilink") 솔로 곡
+7.  **[두 사람](https://ko.wikipedia.org/wiki/두_사람/VIVIVID_PARTY! "wikilink")**() \[4:05\]
       - 작사: [오모리 쇼코](https://ko.wikipedia.org/wiki/오모리_쇼코 "wikilink"), 작곡 · 편곡: 타카하시 나나
     <!-- end list -->
       -
         2번째 싱글
         TV 애니메이션 《[kiss×sis](https://ko.wikipedia.org/wiki/kiss×sis "wikilink")》 최종회 닫는 곡
-8.  **달려나가 Blue** () \[4:05\]
+8.  **달려나가 Blue**() \[4:05\]
       - 작사: [코다마 사오리](https://ko.wikipedia.org/wiki/코다마_사오리 "wikilink"), 작곡: 슌류, 편곡: Gravity musik
       - [분카 방송](../Page/분카_방송.md "wikilink") 《[유이카오리의 미♪디지털](https://ko.wikipedia.org/wiki/유이카오리의_미♪ "wikilink")》 주제가
-9.  **[HEARTBEAT가 멈추지 않아\!](https://ko.wikipedia.org/wiki/HEARTBEAT가토마라나잇! "wikilink")** () \[4:03\]
+9.  **[HEARTBEAT가 멈추지 않아\!](https://ko.wikipedia.org/wiki/HEARTBEAT가토마라나잇! "wikilink")**() \[4:03\]
       - 작사: 마에야마다 켄이치, 작곡: 슌류, 편곡: Sizuk
     <!-- end list -->
       -
@@ -68,7 +68,7 @@
       -
         4번째 싱글
         [온라인 게임](../Page/온라인_게임.md "wikilink") 《[H.A.V.E.온라인](https://ko.wikipedia.org/wiki/H.A.V.E.온라인 "wikilink")》 여는 곡
-11. **크리스탈의 맹세** () \[4:06\]
+11. **크리스탈의 맹세**() \[4:06\]
       - 작사: 코다마 사오리, 작곡 · 편곡: 미야자키 마코토
     <!-- end list -->
       -

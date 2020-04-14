@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  4 \~A thousand feelings\~](https://ko.wikipedia.org/wiki/__4_\~A_thousand_feelings\~).
+> This article is converted from Wikipedia: [코마츠 미호 4 \~A thousand feelings\~](https://ko.wikipedia.org/wiki/코마츠_미호_4_\~A_thousand_feelings\~).
 
 
 {{음반 정보 | 음반명 = 코마츠 미호 4 : A thousand feelings
@@ -15,19 +15,19 @@
 
 ## 수록곡
 
-1.  **[그대의 눈동자에는 보이지 않아](https://ko.wikipedia.org/wiki/키미노메니와우츠라나이 "wikilink")** ()
+1.  **[그대의 눈동자에는 보이지 않아](https://ko.wikipedia.org/wiki/키미노메니와우츠라나이 "wikilink")**()
       - [작사](https://ko.wikipedia.org/wiki/작사 "wikilink") · [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"): 코마츠 미호 ,편곡: [오가 요시노부](https://ko.wikipedia.org/wiki/오가_요시노부 "wikilink")
     <!-- end list -->
       -
         11번째 싱글
-2.  **[당신이 있으니까](https://ko.wikipedia.org/wiki/아나타가이루카라_\(코마츠_미호의_노래\) "wikilink")** ()
+2.  **[당신이 있으니까](https://ko.wikipedia.org/wiki/아나타가이루카라_\(코마츠_미호의_노래\) "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 이케다 다이스케
     <!-- end list -->
       -
         10번째 싱글
 3.  **at him\!**
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
-4.  **그냥 곁에 있고 싶은 걸** ()
+4.  **그냥 곁에 있고 싶은 걸**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
 5.  **I don't know the truth**
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
@@ -39,13 +39,13 @@
     <!-- end list -->
       -
         12번째 싱글. 음반 버전으로 리마스터링을 입혀서 수록하고 있다.
-7.  **친구 이상으로** ()
+7.  **친구 이상으로**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
 8.  **regret**
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
-9.  **행복의 형태** ()
+9.  **행복의 형태**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
-10. **[슬픈 사랑](https://ko.wikipedia.org/wiki/아나타가이루카라_\(코마츠_미호의_노래\) "wikilink")** ()
+10. **[슬픈 사랑](https://ko.wikipedia.org/wiki/아나타가이루카라_\(코마츠_미호의_노래\) "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
     <!-- end list -->
       -

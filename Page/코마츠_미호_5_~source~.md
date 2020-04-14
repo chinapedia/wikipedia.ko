@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  5 \~source\~](https://ko.wikipedia.org/wiki/__5_\~source\~).
+> This article is converted from Wikipedia: [코마츠 미호 5 \~source\~](https://ko.wikipedia.org/wiki/코마츠_미호_5_\~source\~).
 
 
 {{음반 정보 | 음반명 = 코마츠 미호 5 : source
@@ -23,12 +23,12 @@
 1.  **gift**
       -
         편곡: [오가 요시노부](https://ko.wikipedia.org/wiki/오가_요시노부 "wikilink")
-2.  **[사랑해...](https://ko.wikipedia.org/wiki/아이시테루... "wikilink")** ()
+2.  **[사랑해...](https://ko.wikipedia.org/wiki/아이시테루... "wikilink")**()
       - 편곡: 오가 요시노부
     <!-- end list -->
       -
         15번째 싱글.
-3.  **[머무르지 않는 사랑](https://ko.wikipedia.org/wiki/토도마루코토노나이아이 "wikilink")** ()
+3.  **[머무르지 않는 사랑](https://ko.wikipedia.org/wiki/토도마루코토노나이아이 "wikilink")**()
       - 편곡: 오가 요시노부
     <!-- end list -->
       -
@@ -38,16 +38,16 @@
     <!-- end list -->
       -
         메트로놈의 3박자의 리듬인, 왈츠를 바탕으로 한 곡이다. 음반 발매시에 제작된 비디오 클립에서는 해당 곡을 녹음 스튜디오의 복도 등에서 부르는 모습도 수록되어있으며, 라이너 노츠로 기술하고 있는 메트로놈도 등장하고 있다.
-5.  **[발버둥질](https://ko.wikipedia.org/wiki/아이시테루... "wikilink")** ()
+5.  **[발버둥질](https://ko.wikipedia.org/wiki/아이시테루... "wikilink")**()
       - 편곡: 오가 요시노부
     <!-- end list -->
       -
         15번째 싱글 〈사랑해...〉으ㅗ 수록곡.
-6.  **약속의 바다** ()
+6.  **약속의 바다**()
       - 편곡: 이케다 다이스케
 7.  **style of my own**
       - 편곡: [후루이 히로히토](../Page/후루이_히로히토.md "wikilink")
-8.  **[최후의 요새](https://ko.wikipedia.org/wiki/사이고노토리데 "wikilink")** ()
+8.  **[최후의 요새](https://ko.wikipedia.org/wiki/사이고노토리데 "wikilink")**()
       - 편곡: 오가 요시노부
     <!-- end list -->
       -
@@ -57,9 +57,9 @@
     <!-- end list -->
       -
         16번째 싱글.
-10. **그래도 잊지 않아** ()
+10. **그래도 잊지 않아**()
       - 편곡: 오가 요시노부
-11. **[사랑의 노래](https://ko.wikipedia.org/wiki/사이고노토리데 "wikilink")** ()
+11. **[사랑의 노래](https://ko.wikipedia.org/wiki/사이고노토리데 "wikilink")**()
       - 편곡: 오가 요시노부
     <!-- end list -->
       -

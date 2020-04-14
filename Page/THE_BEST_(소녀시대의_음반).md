@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE BEST \( \)](https://ko.wikipedia.org/wiki/THE_BEST_\(_\)).
+> This article is converted from Wikipedia: [THE BEST \(소녀시대의 음반\)](https://ko.wikipedia.org/wiki/THE_BEST_\(소녀시대의_음반\)).
 
 
 《**THE BEST**》는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 첫 번째 일본 베스트 음반이다. 2014년 7월 23일 일본에서 발매되었다. 2014년 8월 6일에는 《THE BEST》가 Type F(Famima Version) 형태로 발매되었으며, 2014년 10월 15일에는 기존의《THE BEST》의 트랙을 재정비하고 신곡들을 더 수록하여《THE BEST》\~New Edition\~이 발매되었다. 《THE BEST》에는 기존에 일본에서 히트했던 곡들은 물론, "Indestructible", "Chain Reaction", "Divine", "Show Girls"와 같은 새로운 곡도 포함하고 있다. 또한 이 음반은 소녀시대 전 멤버인 [제시카가](../Page/제시카_\(가수\).md "wikilink") 마지막으로 함께한 일본 앨범이기도 하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [No.5 \(2PM \)](https://ko.wikipedia.org/wiki/No.5_\(2PM_\)).
+> This article is converted from Wikipedia: [No.5 \(2PM의 음반\)](https://ko.wikipedia.org/wiki/No.5_\(2PM의_음반\)).
 
 
 **No.5**는 2015년 6월 15일 발표한 대한민국의 음악 그룹 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 다섯 번째 정규 앨범이다.

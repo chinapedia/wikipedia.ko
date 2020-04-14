@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: FC  ](https://ko.wikipedia.org/wiki/:_FC__).
+> This article is converted from Wikipedia: [틀:첼시 FC 올해의 선수](https://ko.wikipedia.org/wiki/틀:첼시_FC_올해의_선수).
 
 
 <noinclude>

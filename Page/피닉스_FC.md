@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [피닉스 FC](https://ko.wikipedia.org/wiki/피닉스_FC).
 
 
 **피닉스 FC**(Phoenix Football Club)는 [미국](../Page/미국.md "wikilink") [애리조나주](../Page/애리조나주.md "wikilink") [템피를](../Page/템피_\(애리조나주\).md "wikilink") 연고지로 하던 프로 축구팀이다. 2013년 [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속으로 참가했다.

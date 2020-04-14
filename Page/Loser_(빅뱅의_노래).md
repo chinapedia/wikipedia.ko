@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Loser \( \)](https://ko.wikipedia.org/wiki/Loser_\(_\)).
+> This article is converted from Wikipedia: [Loser \(빅뱅의 노래\)](https://ko.wikipedia.org/wiki/Loser_\(빅뱅의_노래\)).
 
 
 〈***Loser***〉는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 노래이다. 이 노래는 2015년 5월 1일, [YG 엔터테인먼트를](../Page/YG_엔터테인먼트.md "wikilink") 통해 [디지털 음원으로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 발매 되었다. *[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink")* 시리즈의 [M의](https://ko.wikipedia.org/wiki/M_\(빅뱅의_싱글\) "wikilink") 첫 번째 노래이다.

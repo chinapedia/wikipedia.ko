@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CD](https://ko.wikipedia.org/wiki/_CD).
+> This article is converted from Wikipedia: [남십자자리 CD](https://ko.wikipedia.org/wiki/남십자자리_CD).
 
 
 **남십자자리 CD** 또는 **HD 311884**는 [남십자자리](../Page/남십자자리.md "wikilink") 방향에 있는 [쌍성](../Page/쌍성.md "wikilink")이다. 이 계의 구성원은 태양질량의 48배인 [O형 주계열성과](../Page/O형_주계열성.md "wikilink") 57배 되는 [볼프-레이에별](https://ko.wikipedia.org/wiki/볼프-레이에별 "wikilink")이다. 둘은 가까이 붙어 있어서 [질량중심](https://ko.wikipedia.org/wiki/질량중심 "wikilink")을 6일 3시간마다 한 번 돈다.\[1\]

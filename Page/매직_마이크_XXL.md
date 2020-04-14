@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  XXL](https://ko.wikipedia.org/wiki/__XXL).
+> This article is converted from Wikipedia: [매직 마이크 XXL](https://ko.wikipedia.org/wiki/매직_마이크_XXL).
 
 
 《**매직 마이크 XXL**》()는 [2015년](../Page/2015년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 코미디 영화로, 2012년 영화 《[매직 마이크](../Page/매직_마이크.md "wikilink")》의 속편이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Po!](https://ko.wikipedia.org/wiki/Po!).
+> This article is converted from Wikipedia: [코미Po!](https://ko.wikipedia.org/wiki/코미Po!).
 
 
 **코미Po\!**란 만화 제작용 소프트웨어다. 일본의 소프트웨어 회사 Web Technology에 의해서 2010년 12월 15일 발매됐으며, 한국에서는 [대원미디어](../Page/대원미디어.md "wikilink")가 2012년 11월 15일부터 오픈베타 서비스를 시작했다.\[1\]

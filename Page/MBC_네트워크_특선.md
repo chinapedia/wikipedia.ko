@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
+> This article is converted from Wikipedia: [MBC 네트워크 특선](https://ko.wikipedia.org/wiki/MBC_네트워크_특선).
 
 
 **MBC 네트워크 특선**은 [문화방송](../Page/문화방송.md "wikilink")의 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

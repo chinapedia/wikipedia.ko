@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SOLO DAY \(\)](https://ko.wikipedia.org/wiki/SOLO_DAY_\(\)).
+> This article is converted from Wikipedia: [SOLO DAY \(노래\)](https://ko.wikipedia.org/wiki/SOLO_DAY_\(노래\)).
 
 
 ## 소개

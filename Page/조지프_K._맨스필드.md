@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K. ](https://ko.wikipedia.org/wiki/_K._).
+> This article is converted from Wikipedia: [조지프 K. 맨스필드](https://ko.wikipedia.org/wiki/조지프_K._맨스필드).
 
 
 **조지프 킹 페노 맨스필드**(, [1803년](../Page/1803년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink")\~[1862년](../Page/1862년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink"))은 [미합중국](https://ko.wikipedia.org/wiki/미합중국 "wikilink") 장교이자, 기술자, 그리고 [남북전쟁](https://ko.wikipedia.org/wiki/남북전쟁 "wikilink")에서는 북군 장군이었으며, [앤티텀 전투에서](../Page/앤티텀_전투.md "wikilink") 치명상을 입었다.

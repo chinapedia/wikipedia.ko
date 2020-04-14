@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FL](https://ko.wikipedia.org/wiki/_FL).
+> This article is converted from Wikipedia: [볼보 FL](https://ko.wikipedia.org/wiki/볼보_FL).
 
 
 **볼보 FL**()은 [볼보 트럭이](https://ko.wikipedia.org/wiki/볼보_트럭 "wikilink") 생산하고 있는 중형 트럭이다. 특징은 동급에서는 유일하게 [4륜구동](../Page/4륜구동.md "wikilink")이 나온다는 것이다.

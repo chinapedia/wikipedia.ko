@@ -16,9 +16,9 @@
     <!-- end list -->
       -
         [TV 도쿄계](../Page/TV_도쿄.md "wikilink") 애니메이션 《[메른헤븐](https://ko.wikipedia.org/wiki/메르헤븐#애니메이션\(메른헤븐\) "wikilink")》 엔딩 테마.
-2.  **곧 사랑 따위 할 수 있어** ()
+2.  **곧 사랑 따위 할 수 있어**()
       - 작사 · 작곡: 코마츠 미호, 편곡: [오가 요시노부](https://ko.wikipedia.org/wiki/오가_요시노부 "wikilink")
-3.  **푸른 여름** ()
+3.  **푸른 여름**()
       - 작사 · 작곡: 코마츠 미호, 편곡: [후루이 히로히토](../Page/후루이_히로히토.md "wikilink")
 4.  **I just wanna hold you tight (instrumental)**
 

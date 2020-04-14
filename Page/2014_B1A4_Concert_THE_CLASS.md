@@ -1,8 +1,6 @@
 > This article is converted from Wikipedia: [2014 B1A4 Concert THE CLASS](https://ko.wikipedia.org/wiki/2014_B1A4_Concert_THE_CLASS).
 
 
-## 소개
-
 《**2014 B1A4 Concert THE CLASS**》는 대한민국의 아이돌 그룹 [B1A4](../Page/B1A4.md "wikilink")의 세 번째 단독 [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")이다. 국내 콘서트 투어로, 서울에서 2번, 부산에서 1번의 무대를 가졌다. 팬들 사이에선 간단히 **더클래스** 또는 **더클**, **더클콘**으로 불리고 있다.
 
 ## 투어 일정
@@ -48,10 +46,10 @@
 
 \- Opening Performance -
 
-  - [Who Am I](https://ko.wikipedia.org/wiki/Who_Am_I_\(노래\) "wikilink")
+  - [Who Am I](https://ko.wikipedia.org/wiki/Who_Am_I_\(B1A4의_노래\) "wikilink")
   - [예뻐](https://ko.wikipedia.org/wiki/예뻐 "wikilink")
   - [너 때문에](https://ko.wikipedia.org/wiki/너_때문에_\(B1A4의_노래\) "wikilink")
-  - [Good Love](https://ko.wikipedia.org/wiki/Good_Love "wikilink")
+  - [Good Love](https://ko.wikipedia.org/wiki/Good_Love_\(B1A4의_노래\) "wikilink")
   - [Oh My God](https://ko.wikipedia.org/wiki/Oh_My_God_\(B1A4의_노래\) "wikilink")
 
 \- 미니드라마 <THE CLASS> 1화 -

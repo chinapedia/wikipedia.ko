@@ -18,7 +18,7 @@
         [후지 TV계](../Page/후지_TV.md "wikilink") 《[에스에프](https://ko.wikipedia.org/wiki/에스에프_\(텔레비전_프로그램\) "wikilink")》 엔딩 테마
         [NHK 종합](../Page/NHK_종합_텔레비전.md "wikilink") 수요 드라마 시리즈 《아저씨 개조강좌》 주제가
         [KBS 교토계](../Page/교토_방송.md "wikilink") [UHF](../Page/전국_독립_방송_협의회.md "wikilink") 32개국 넷 《[J-ROCK ARTIST BEST50](https://ko.wikipedia.org/wiki/J-ROCK_ARTIST_COUNT_DOWN_50 "wikilink")》 오프닝 테마
-2.  **1만 미터의 경치** ()
+2.  **1만 미터의 경치**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 후루이 히로히토
     <!-- end list -->
       -

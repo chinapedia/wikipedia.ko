@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [루이빌 시티 FC](https://ko.wikipedia.org/wiki/루이빌_시티_FC).
 
 
 **루이빌 시티 FC**(Louisville City FC)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [켄터키주](../Page/켄터키주.md "wikilink") [루이빌](../Page/루이빌.md "wikilink")을 연고지로 하고 있으며 루이빌 슬러거 필드를 홈 경기장으로 사용하고 있다.

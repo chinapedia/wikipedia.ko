@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [레노파 야마구치 FC](https://ko.wikipedia.org/wiki/레노파_야마구치_FC).
 
 
 **레노파 야마구치 FC**()는 [일본](../Page/일본.md "wikilink") [야마구치현](../Page/야마구치현.md "wikilink") [야마구치 시를](https://ko.wikipedia.org/wiki/야마구치_시 "wikilink") 연고로 하는 축구 클럽이며, 현재 [J2리그](../Page/J2리그.md "wikilink")에 출전하고 있다.

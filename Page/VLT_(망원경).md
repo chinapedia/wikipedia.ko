@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VLT \(\)](https://ko.wikipedia.org/wiki/VLT_\(\)).
+> This article is converted from Wikipedia: [VLT \(망원경\)](https://ko.wikipedia.org/wiki/VLT_\(망원경\)).
 
 
 **VLT**(Very Large Telescope, VLT)은 [칠레](../Page/칠레.md "wikilink") 남부 [아타카마 사막의](../Page/아타카마_사막.md "wikilink") 세로파라날산, 고도 2635m에 위치한 망원경이다.

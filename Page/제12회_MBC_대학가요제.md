@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [12 MBC ](https://ko.wikipedia.org/wiki/12_MBC_).
+> This article is converted from Wikipedia: [제12회 MBC 대학가요제](https://ko.wikipedia.org/wiki/제12회_MBC_대학가요제).
 
 
 **《제12회 MBC 대학가요제》**는 제12회 [MBC 대학가요제](../Page/MBC_대학가요제.md "wikilink") 출전곡이 수록된 음반이다.

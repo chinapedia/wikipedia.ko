@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [O.K \(B1A4 \)](https://ko.wikipedia.org/wiki/O.K_\(B1A4_\)).
+> This article is converted from Wikipedia: [O.K \(B1A4의 노래\)](https://ko.wikipedia.org/wiki/O.K_\(B1A4의_노래\)).
 
 
 ## 소개

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC ](https://ko.wikipedia.org/wiki/_FC_).
+> This article is converted from Wikipedia: [세비야 FC 푸에르토리코](https://ko.wikipedia.org/wiki/세비야_FC_푸에르토리코).
 
 
 **세비야 FC 푸에르토리코**(Sevilla Fútbol Club Puerto Rico)는 [푸에르토리코](../Page/푸에르토리코.md "wikilink") [훈코스](https://ko.wikipedia.org/wiki/훈코스 "wikilink")를 연고지로 하는 프로 축구팀이다. [스페인](../Page/스페인.md "wikilink")의 축구 클럽인 [세비야 FC와](https://ko.wikipedia.org/wiki/세비야_FC "wikilink") 제휴 관계에 있다. 2011년 [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속으로 참가했으며 현재는 [푸에르토리코 사커 리그에](https://ko.wikipedia.org/wiki/푸에르토리코_사커_리그 "wikilink") 참가하고 있다.

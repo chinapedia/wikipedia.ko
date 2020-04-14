@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Danger \( \)](https://ko.wikipedia.org/wiki/Danger_\(_\)).
+> This article is converted from Wikipedia: [Danger \(방탄소년단의 노래\)](https://ko.wikipedia.org/wiki/Danger_\(방탄소년단의_노래\)).
 
 
 〈**Danger**〉는 [방탄소년단](../Page/방탄소년단.md "wikilink")의 첫 번째 정규 음반 《[DARK\&WILD](../Page/DARK&WILD.md "wikilink")》의 타이틀 곡이다. 2014년 8월 20일에 발표하였다.

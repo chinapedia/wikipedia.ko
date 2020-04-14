@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 뉴욕](https://ko.wikipedia.org/wiki/FC_뉴욕).
 
 
 **FC 뉴욕**(Football Club New York)은 [미국](../Page/미국.md "wikilink") [뉴욕주](../Page/뉴욕주.md "wikilink") [퀸스](../Page/퀸스.md "wikilink")를 연고지로 하던 프로 축구팀이다. 2011년 [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속으로 참가했다.

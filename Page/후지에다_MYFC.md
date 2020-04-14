@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MYFC](https://ko.wikipedia.org/wiki/_MYFC).
+> This article is converted from Wikipedia: [후지에다 MYFC](https://ko.wikipedia.org/wiki/후지에다_MYFC).
 
 
 **후지에다 MYFC**()는 [일본](../Page/일본.md "wikilink") [시즈오카현](../Page/시즈오카현.md "wikilink") [후지에다 시를](https://ko.wikipedia.org/wiki/후지에다_시 "wikilink") 연고로 하는 축구 클럽이다. 이 팀은 [2009년](../Page/2009년.md "wikilink")에 설립되었으며, 현재 [J3리그](../Page/J3리그.md "wikilink")에 출전하고 있다.

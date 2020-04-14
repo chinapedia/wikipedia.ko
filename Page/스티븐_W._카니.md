@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [스티븐 W. 카니](https://ko.wikipedia.org/wiki/스티븐_W._카니).
 
 
 **스티븐 와츠 카니**(Stephen Watts Kearny()\[1\]\[2\], [1794년](../Page/1794년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") - [1848년](../Page/1848년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink"))는 [미국 육군의](../Page/미국_육군.md "wikilink") 장군이다. [미국 멕시코 전쟁](https://ko.wikipedia.org/wiki/미국_멕시코_전쟁 "wikilink") 때 남서부에서의 활약하였고, 특히 [캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아 "wikilink")의 정복으로 유명하다. ‘[미합중국 기병대](https://ko.wikipedia.org/wiki/미합중국_기병대 "wikilink")([w:United States Cavalry](https://ko.wikipedia.org/wiki/w:United_States_Cavalry "wikilink"))의 아버지’로 불린다. 캘리포니아 주 정부의 행동을 관리하는 엄격한 규율 ‘카니 코드’([w:Kearny code](https://ko.wikipedia.org/wiki/w:Kearny_code "wikilink"))는 그의 이름을 따서 지었다.

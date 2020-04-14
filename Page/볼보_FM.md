@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM](https://ko.wikipedia.org/wiki/_FM).
+> This article is converted from Wikipedia: [볼보 FM](https://ko.wikipedia.org/wiki/볼보_FM).
 
 
 **볼보 FM**()은 [스웨덴](../Page/스웨덴.md "wikilink") [볼보트럭](../Page/볼보트럭.md "wikilink")사가 생산하는 대형 트럭으로 [1998년](../Page/1998년.md "wikilink")에 출시되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fly \(  \)](https://ko.wikipedia.org/wiki/Fly_\(__\)).
+> This article is converted from Wikipedia: [Fly \(에이브릴 라빈의 노래\)](https://ko.wikipedia.org/wiki/Fly_\(에이브릴_라빈의_노래\)).
 
 
 **"Fly"**는 캐나다 가수인 [에이브릴 라빈의](../Page/에이브릴_라빈.md "wikilink") 곡이다. 이 곡은 2015년 4월 16일날 [스페셜 올림픽](../Page/스페셜_올림픽.md "wikilink") 레이블에서 [디지털 다운로드로만](https://ko.wikipedia.org/wiki/디지털_다운로드 "wikilink") 발매를 했다. [에이브릴 라빈은](../Page/에이브릴_라빈.md "wikilink") 이 곡을 에이브릴 라빈 자선단체에 [자선 싱글로](https://ko.wikipedia.org/wiki/자선_싱글 "wikilink") 발매를 했으며, 2015년 [스페셜 올림픽을](../Page/스페셜_올림픽.md "wikilink") 지지하는 곡이다. 이 곡은 [에이브릴 라빈](../Page/에이브릴_라빈.md "wikilink"), [채드 크로거](https://ko.wikipedia.org/wiki/채드_크로거 "wikilink"), [데이비드 호지스가](https://ko.wikipedia.org/wiki/데이비드_호지스 "wikilink") 작곡한 곡이다.

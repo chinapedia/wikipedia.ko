@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F.  ](https://ko.wikipedia.org/wiki/F.__).
+> This article is converted from Wikipedia: [F. 오거스터스 하인츠](https://ko.wikipedia.org/wiki/F._오거스터스_하인츠).
 
 
 **프리츠 오거스터스 하인츠**(Fritz Augustus Heinze, 독일어 발음 , [1869년](../Page/1869년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") \~ [1914년](../Page/1914년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink"))는 [윌리엄 앤드류스 클라크](https://ko.wikipedia.org/wiki/윌리엄_앤드류스_클라크 "wikilink"), [마커스 달리와](https://ko.wikipedia.org/wiki/마커스_달리 "wikilink") 함께 [몬태나주](../Page/몬태나주.md "wikilink") 뷰트의 세 명의 구리왕 중 하나였다. 그는 지적이고, 카리스마가 있는 독실한 인물이었지만, 몬태나에 사는 많은 시민들에게는 영웅으로 비춰졌다.

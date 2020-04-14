@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SC](https://ko.wikipedia.org/wiki/__SC).
+> This article is converted from Wikipedia: [샬럿 이글스 SC](https://ko.wikipedia.org/wiki/샬럿_이글스_SC).
 
 
 **샬럿 이글스 SC**(Charlotte Eagles Soccer Club)는 [미국](../Page/미국.md "wikilink") [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink") [샬럿](../Page/샬럿.md "wikilink")을 연고지로 하는 프로 축구팀이다. 2011년부터 2014년까지 [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속으로 참가했으며 2015년부터 현재까지 [USL 프리미어 디벨로프먼트 리그에](https://ko.wikipedia.org/wiki/USL_프리미어_디벨로프먼트_리그 "wikilink") 참가하고 있다.

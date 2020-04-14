@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA G   ](https://ko.wikipedia.org/wiki/NBA_G___).
+> This article is converted from Wikipedia: [NBA G 리그 수상 목록](https://ko.wikipedia.org/wiki/NBA_G_리그_수상_목록).
 
 
 **NBA G 리그 수상 목록**(NBA G League Individual awards)는 매 시즌이 끝나면 시즌 최우수선수상, 신인상, 기량발전상, 수비선수상, 코치상, 제이슨 콜리어 스포츠맨쉽상 등을 수여한다.

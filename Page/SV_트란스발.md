@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SV ](https://ko.wikipedia.org/wiki/SV_).
+> This article is converted from Wikipedia: [SV 트란스발](https://ko.wikipedia.org/wiki/SV_트란스발).
 
 
 **SV 트란스발**()은 [파라마리보](../Page/파라마리보.md "wikilink")를 연고로 하는 [수리남](../Page/수리남.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 이 클럽은 [1921년](../Page/1921년.md "wikilink")에 창단되었으며 현재는 [호프드클라서](https://ko.wikipedia.org/wiki/호프드클라서 "wikilink")에 출전하고 있다.

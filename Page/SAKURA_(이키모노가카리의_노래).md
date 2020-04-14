@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SAKURA \( \)](https://ko.wikipedia.org/wiki/SAKURA_\(_\)).
+> This article is converted from Wikipedia: [SAKURA \(이키모노가카리의 노래\)](https://ko.wikipedia.org/wiki/SAKURA_\(이키모노가카리의_노래\)).
 
 
 〈**SAKURA**〉()는 [이키모노가카리](../Page/이키모노가카리.md "wikilink")의 [메이저 데뷔](https://ko.wikipedia.org/wiki/메이저_데뷔_\(음악가\) "wikilink") [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2006년](../Page/2006년.md "wikilink") [3월 15일에](../Page/3월_15일.md "wikilink") [에픽 레코드 재팬에서](../Page/에픽_레코드_재팬.md "wikilink") 발매됐다.
@@ -20,14 +20,14 @@
         [PV는](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 오다큐 오다와라 선 [도미즈 역](../Page/도미즈_역.md "wikilink") 동쪽 입구에서 촬영되고 있으며, 탤런트인 [카토 리에가](https://ko.wikipedia.org/wiki/카토_리에 "wikilink") 출연하고 있는 것 외에 PV에는 발매와 동시기(2006년 3월 17일)에 은퇴한 오다큐 9000형 전차의 일부도 찍혀있다\[1\]. 메이저 1번째 음반 《[벚꽃 피는 거리 이야기](https://ko.wikipedia.org/wiki/사쿠라사쿠모노가타리 "wikilink")》 발매시에는 새로운 PV 〈**SAKURA (2007version)**〉가 제작된 것 외에 동일 음반에서는 [보너스 트랙으로](https://ko.wikipedia.org/wiki/보너스_트랙 "wikilink") 어쿠스틱 버전이 수록되어있다.
         “졸업”을 테마로 한 곡인 것과, 가사의 내용에서 벚꽃 노래나 졸업 노래로도 널리 알려져있지만, 졸업 노래에 관해서는 최근에는 후에 발매된 〈YELL〉〈고마워〉〈[걸어서 가자](https://ko.wikipedia.org/wiki/아루이테이코_\(이키모노가카리의_노래\) "wikilink")〉 등도 맡아지게 되고 있다.
         베스트 음반 《[이키모노바카리 베스트 셀렉션)](https://ko.wikipedia.org/wiki/이키모노바카리 "wikilink")(멤버즈》의 발매일인 [2010년](../Page/2010년.md "wikilink") [11월 3일에](../Page/11월_3일.md "wikilink") 오다큐 오다와라 선 [에비나 역에서](https://ko.wikipedia.org/wiki/에비나_역 "wikilink") 접근 멜로디로 사용되고 있다\[2\]\[3\].
-2.  **핫 밀크** () (4:57)
+2.  **핫 밀크**() (4:57)
       - 작사: [야마시타 호타카](https://ko.wikipedia.org/wiki/야마시타_호타카 "wikilink"), 미즈노 요시키, 작곡: 야마시타 호타카, 편곡: [카메다 세이지](../Page/카메다_세이지.md "wikilink")
     <!-- end list -->
       -
         커플링곡이지만 라이브에서 연주되는 횟수가 많은 인기곡이다.
         이키모노가카리로는 적은 멤버끼리 같이 만든노래로, 편곡은 [동경 사변](../Page/도쿄지헨.md "wikilink")(당시)의 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink")인 카메다 세이지가 담당하고 있다.
         덧붙여서 미즈노는 “이키모노가카리에서는 핫밀크라는 곡이 있는데, 실은 핫밀크는 질색”이라고 말하고 있다\[4\].
-3.  **[졸업사진](https://ko.wikipedia.org/wiki/소츠교샤신_\(아라이_유미의_노래\) "wikilink")** () (4:01)
+3.  **[졸업사진](https://ko.wikipedia.org/wiki/소츠교샤신_\(아라이_유미의_노래\) "wikilink")**() (4:01)
       - 작사·작곡: [아라이 유미](../Page/마츠토야_유미.md "wikilink"), 편곡: [에구치 료](https://ko.wikipedia.org/wiki/에구치_료 "wikilink")
     <!-- end list -->
       -

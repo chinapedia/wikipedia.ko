@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MLS ](https://ko.wikipedia.org/wiki/MLS_).
+> This article is converted from Wikipedia: [MLS 올스타전](https://ko.wikipedia.org/wiki/MLS_올스타전).
 
 
 **MLS 올스타전**(Major League Soccer All-Star Game)은 1996년 7월 14일 자이언츠 스타디움에서 첫번째 올스타전이 개최었다. 올스타전 방식은 1996년\~1997년, 1999년\~2001년·2004년은 동부 올스타 대 서부 올스타 방식으로 하다가 1998년에는 MLS USA 대 MLS 월드 방식으로 변경하였고, 2002년\~2003년, 2005년\~현재까지는 MLS 올스타 대 게스트 (2002년은 미국 축구 국가대표팀, 2003년·2005년\~현재는 유럽리그 축구팀) 방식으로 올스타전을 개최되고 있다.

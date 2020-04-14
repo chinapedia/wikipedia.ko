@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [세인트루이스 FC](https://ko.wikipedia.org/wiki/세인트루이스_FC).
 
 
 **세인트루이스 FC**(Saint Louis Football Club)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [미주리주](../Page/미주리주.md "wikilink") [펜턴](https://ko.wikipedia.org/wiki/펜턴 "wikilink")을 연고지로 하고 있으며 월드 와일드 테크놀로지 사커 파크를 홈 경기장으로 사용하고 있다.

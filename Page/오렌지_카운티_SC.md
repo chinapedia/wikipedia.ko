@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SC](https://ko.wikipedia.org/wiki/__SC).
+> This article is converted from Wikipedia: [오렌지 카운티 SC](https://ko.wikipedia.org/wiki/오렌지_카운티_SC).
 
 
 **오렌지 카운티 SC**(Orange County Soccer Club)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [캘리포니아주](../Page/캘리포니아주.md "wikilink") [어바인을](../Page/어바인_\(캘리포니아주\).md "wikilink") 연고지로 하고 있으며 앤티터 스타디움을 홈 경기장으로 사용하고 있다. 창단 당시 팀명은 **로스앤젤레스 블루스** 였으나, 2017년 현재 팀명으로 변경되었다.
@@ -37,4 +37,4 @@
 
   - 없음
 
-[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:1998년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1998년_설립된_축구단 "wikilink")
+[오렌지_카운티_SC](https://ko.wikipedia.org/wiki/분류:오렌지_카운티_SC "wikilink") [분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:1998년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1998년_설립된_축구단 "wikilink")

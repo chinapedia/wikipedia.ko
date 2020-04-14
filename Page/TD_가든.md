@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TD ](https://ko.wikipedia.org/wiki/TD_).
+> This article is converted from Wikipedia: [TD 가든](https://ko.wikipedia.org/wiki/TD_가든).
 
 
 **TD 가든**(TD Garden)은 [미국](../Page/미국.md "wikilink") [매사추세츠주](../Page/매사추세츠주.md "wikilink") [보스턴](../Page/보스턴.md "wikilink")에 위치한 실내 경기장이다. [NBA](../Page/전미_농구_협회.md "wikilink") [보스턴 셀틱스와](../Page/보스턴_셀틱스.md "wikilink") [NHL](../Page/내셔널_하키_리그.md "wikilink") [보스턴 브루인스의](../Page/보스턴_브루인스.md "wikilink") 홈경기장으로 사용되고 있다.

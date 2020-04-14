@@ -15,9 +15,9 @@
     <!-- end list -->
       -
         [닛폰 TV계](../Page/닛폰_TV_방송망.md "wikilink") 《[TV오자만보](https://ko.wikipedia.org/wiki/TV오자만보 "wikilink")》 엔딩 테마.
-2.  **특별해지는 날** ()
+2.  **특별해지는 날**()
       - 작사 · 작곡: 코마츠 미호, 편곡: [오카모토 히토시](../Page/오카모토_히토시.md "wikilink")
-3.  **style of my own (유경)** ()
+3.  **style of my own (유경)**()
       - 리믹스: [아사이 히로시](https://ko.wikipedia.org/wiki/아사이_히로시 "wikilink")
     <!-- end list -->
       -

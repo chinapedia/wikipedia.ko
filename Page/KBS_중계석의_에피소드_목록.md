@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS   ](https://ko.wikipedia.org/wiki/KBS___).
+> This article is converted from Wikipedia: [KBS 중계석의 에피소드 목록](https://ko.wikipedia.org/wiki/KBS_중계석의_에피소드_목록).
 
 
 아래는 [한국방송공사의 텔레비전 프로그램인](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink") 《**[KBS 중계석](../Page/KBS_중계석.md "wikilink")**》**의 방영 목록**이다.

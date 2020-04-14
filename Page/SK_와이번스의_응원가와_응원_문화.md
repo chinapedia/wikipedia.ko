@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK    ](https://ko.wikipedia.org/wiki/SK____).
+> This article is converted from Wikipedia: [SK 와이번스의 응원가와 응원 문화](https://ko.wikipedia.org/wiki/SK_와이번스의_응원가와_응원_문화).
 
 
 **[SK 와이번스](../Page/SK_와이번스.md "wikilink")**의 팀 응원가로는 레이지본의 노래인 《불꽃투혼\! SK\!》와 창단 당시부터 불리고 있는 《불타는 패기》가 사용되고 있다.
@@ -67,21 +67,21 @@
 
 <!-- end list -->
 
-  - [김성현](https://ko.wikipedia.org/wiki/김성현 "wikilink") - 유정석 - 승리의 약속
+  - [김성현](https://ko.wikipedia.org/wiki/김성현 "wikilink") - 자작곡
 
 <!-- end list -->
 
   -
-    날려라 투혼 SK 와이번스의 김\~성현 (김성현)x2 세상에 빛이 되는 너의 안타를 보여줘 가자 김 (김) 성 (성) 현 (현) 승리 위\~해\~
+    와이번스 김성현 날려버려 김성현 아아아아 안타 오오오오 안타 x2
 
 <!-- end list -->
 
-  - [김재현](../Page/김재현.md "wikilink") - [정용화](https://ko.wikipedia.org/wiki/정용화 "wikilink") - '넌 내게 반했어'
+  - [김재현](../Page/김재현.md "wikilink") - 자작곡
 
 <!-- end list -->
 
   -
-    김재현 랄랄라라 랄랄라라\~ 영원한 와이번스 승리를 위해\~x2 김\~재현 오오 김재현\~ 김\~재현 오오 와이번스 김재현\~
+    와이번스 김재현 시원하게 날려라 와이번스 김재현 와이번스 김재현 x2
 
 <!-- end list -->
 
@@ -103,12 +103,12 @@
 
 <!-- end list -->
 
-  - [정의윤](../Page/정의윤.md "wikilink") - 쿨 - '또 자 쿨쿨'
+  - [정의윤](../Page/정의윤.md "wikilink") - 자작곡
 
 <!-- end list -->
 
   -
-    (우리같이) 정 (우리같이) 의 (다같이) 윤 와\~ 와이번스 파워히터 와이번스 정의윤 와이번스 파워히터 와이번스 정의윤
+    오\~ 정의윤 홈런 오오오오오 오\~ 정의윤 홈런 오오오오오 x2
 
 <!-- end list -->
 

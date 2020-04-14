@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [찰스 W. 모스](https://ko.wikipedia.org/wiki/찰스_W._모스).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Charles_Morse.jpg "wikilink") **찰스 위먼 모스**(Charles Wyman Morse, [1856년](../Page/1856년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") - [1933년](../Page/1933년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink")\[1\])는 [20세기](../Page/20세기.md "wikilink") 초 [월스트리트](https://ko.wikipedia.org/wiki/월스트리트 "wikilink")의 악명 높은 사업가이자, 투기꾼이었다.\[2\]\[3\]

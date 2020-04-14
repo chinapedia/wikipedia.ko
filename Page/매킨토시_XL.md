@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XL](https://ko.wikipedia.org/wiki/_XL).
+> This article is converted from Wikipedia: [매킨토시 XL](https://ko.wikipedia.org/wiki/매킨토시_XL).
 
 
 **매킨토시 XL**(Macintosh XL)은 [애플 리사](../Page/애플_리사.md "wikilink") 2에서 기능이 개선된 애플 리사 2/10(Lisa 2/10)을 매킨토시 제품군으로 편입한 모델이다. 약 4,000달러에 판매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [펜 FC](https://ko.wikipedia.org/wiki/펜_FC).
 
 
 **펜 풋볼 클럽**(Penn Football Club)은 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [해리스버그](../Page/해리스버그.md "wikilink")를 연고지로 하고 있으며 FNB 필드를 홈 경기장으로 사용하고 있다.

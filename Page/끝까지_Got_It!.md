@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Got It!](https://ko.wikipedia.org/wiki/_Got_It!).
+> This article is converted from Wikipedia: [끝까지 Got It!](https://ko.wikipedia.org/wiki/끝까지_Got_It!).
 
 
 〈**끝까지 Got It\!**〉()은, [나카야마 유마의](../Page/나카야마_유마.md "wikilink") 5번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

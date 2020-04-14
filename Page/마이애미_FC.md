@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [마이애미 FC](https://ko.wikipedia.org/wiki/마이애미_FC).
 
 
 **마이애미 FC**(Miami FC)는 2016년 [북미 사커 리그에](../Page/북미_사커_리그.md "wikilink") 참가하는 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [플로리다주](../Page/플로리다주.md "wikilink") [마이애미](../Page/마이애미.md "wikilink")를 연고지로 한다. [포트로더데일 스트라이커스의](../Page/포트로더데일_스트라이커스.md "wikilink") 전신인 마이애미 FC(2006년\~2010년)와 똑같은 구단명을 사용하고 있다.

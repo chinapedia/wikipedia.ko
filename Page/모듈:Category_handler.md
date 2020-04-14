@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Category handler](https://ko.wikipedia.org/wiki/:Category_handler).
+> This article is converted from Wikipedia: [모듈:Category handler](https://ko.wikipedia.org/wiki/모듈:Category_handler).
 
 
 -----

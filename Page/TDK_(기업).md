@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TDK \(\)](https://ko.wikipedia.org/wiki/TDK_\(\)).
+> This article is converted from Wikipedia: [TDK \(기업\)](https://ko.wikipedia.org/wiki/TDK_\(기업\)).
 
 
 **TDK**()는 [일본](../Page/일본.md "wikilink")의 전기기기 제조 대기업이다. [NIKEI225](../Page/닛케이_225.md "wikilink") 구성종목.

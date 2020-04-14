@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HELLO \( \)](https://ko.wikipedia.org/wiki/HELLO_\(_\)).
+> This article is converted from Wikipedia: [HELLO \(마마무의 음반\)](https://ko.wikipedia.org/wiki/HELLO_\(마마무의_음반\)).
 
 
 《***HELLO***》는 대한민국의 여성 음악 그룹 [마마무](../Page/마마무.md "wikilink")의 데뷔 EP 음반이다. [2014년](../Page/2014년.md "wikilink") [6월 18일에](../Page/6월_18일.md "wikilink") 발매되어, [6월 19일](../Page/6월_19일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")에서 타이틀곡 "Mr.애매모호"로 첫방송을 가졌다.

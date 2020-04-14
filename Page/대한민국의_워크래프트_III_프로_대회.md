@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  III  ](https://ko.wikipedia.org/wiki/__III__).
+> This article is converted from Wikipedia: [대한민국의 워크래프트 III 프로 대회](https://ko.wikipedia.org/wiki/대한민국의_워크래프트_III_프로_대회).
 
 
 대한민국에서 개최된 《[워크래프트 III: 레인 오브 카오스](../Page/워크래프트_III:_레인_오브_카오스.md "wikilink")》와 《[워크래프트 III: 더 프로즌 쓰론](https://ko.wikipedia.org/wiki/워크래프트_III:_더_프로즌_쓰론 "wikilink")》의 방송 대회 및 오프라인 주요 대회에 대한 문서이다.

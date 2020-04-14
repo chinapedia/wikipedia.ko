@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EVOLUTION \( \)](https://ko.wikipedia.org/wiki/EVOLUTION_\(_\)).
+> This article is converted from Wikipedia: [EVOLUTION \(박재범의 음반\)](https://ko.wikipedia.org/wiki/EVOLUTION_\(박재범의_음반\)).
 
 
 **\< EVOLUTION \>**은 박재범의 두 번째 정규 앨범이다. 타이틀 곡을 포함하여 총 17개의 트랙이 담겨있다.

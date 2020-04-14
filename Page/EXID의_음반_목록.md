@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EXID  ](https://ko.wikipedia.org/wiki/EXID__).
+> This article is converted from Wikipedia: [EXID의 음반 목록](https://ko.wikipedia.org/wiki/EXID의_음반_목록).
 
 
 다음은 대한민국의 음악 그룹 [EXID](../Page/EXID.md "wikilink")의 음반 목록이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Odd \( \)](https://ko.wikipedia.org/wiki/Odd_\(_\)).
+> This article is converted from Wikipedia: [Odd \(샤이니의 음반\)](https://ko.wikipedia.org/wiki/Odd_\(샤이니의_음반\)).
 
 
 《**Odd**》는 대한민국의 음악 그룹 [샤이니](../Page/샤이니.md "wikilink")의 네 번째 정규 음반이다. [2015년](../Page/2015년.md "wikilink") [5월 18일에](../Page/5월_18일.md "wikilink") 발매되었으며, 같은 해 [8월 3일에](../Page/8월_3일.md "wikilink") 리패키지가 발매되었다.

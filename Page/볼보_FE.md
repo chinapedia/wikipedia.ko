@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FE](https://ko.wikipedia.org/wiki/_FE).
+> This article is converted from Wikipedia: [볼보 FE](https://ko.wikipedia.org/wiki/볼보_FE).
 
 
 **볼보 FE**()는 [스웨덴](../Page/스웨덴.md "wikilink") [볼보 트럭사가](https://ko.wikipedia.org/wiki/볼보_트럭 "wikilink") 생산하는 중형 트럭으로 [2006년](../Page/2006년.md "wikilink")부터 생산되었다.

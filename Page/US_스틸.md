@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US ](https://ko.wikipedia.org/wiki/US_).
+> This article is converted from Wikipedia: [US 스틸](https://ko.wikipedia.org/wiki/US_스틸).
 
 
 **US 스틸**(U.S. Steel, United States Steel Corporation, [NYSE](https://ko.wikipedia.org/wiki/NYSE "wikilink"):X )는 미국과 중부 유럽에 생산 거점을 가진 종합 제철 회사이다. [2010년](../Page/2010년.md "wikilink") 조강 생산량은 세계 13위이다. US 스틸은 [1991년](../Page/1991년.md "wikilink")에 USX 코퍼레이션(USX Corporation)로 개명했지만, [2001년](../Page/2001년.md "wikilink")에 다시 US 스틸로 개칭했다. [2006년](../Page/2006년.md "wikilink") 시점에서, 미국 최대의 철강 회사이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  CD](https://ko.wikipedia.org/wiki/__CD).
+> This article is converted from Wikipedia: [아타리 재규어 CD](https://ko.wikipedia.org/wiki/아타리_재규어_CD).
 
 
 **아타리 재규어 CD**(Atari Jaguar CD) 또는 **재그 CD**(Jag CD)는 [가정용 게임기](../Page/가정용_게임기.md "wikilink") [아타리 재규어의](../Page/아타리_재규어.md "wikilink") [CD-ROM](../Page/CD-ROM.md "wikilink") 확장기기이다.

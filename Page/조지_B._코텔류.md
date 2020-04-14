@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [조지 B. 코텔류](https://ko.wikipedia.org/wiki/조지_B._코텔류).
 
 
 **조지 브루스 코텔류**(George Bruce Cortelyou, [1862년](../Page/1862년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") - [1940년](../Page/1940년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 정치인이다. [시어도어 루즈벨트](https://ko.wikipedia.org/wiki/시어도어_루즈벨트 "wikilink") 대통령 시절 상무노동부 장관, 우편부 장관, 재무부 장관을 역임했다.
@@ -13,7 +13,7 @@
 
 [1903년](../Page/1903년.md "wikilink"), 코텔류는 신설된 상무노동부의 초대 장관으로 루즈벨트 대통령의 임명을 받았고, [1904년](../Page/1904년.md "wikilink")까지 그 책임을 다했다. 또한 [1905년](../Page/1905년.md "wikilink")부터 [1907년](../Page/1907년.md "wikilink")까지 우편부 장관, 1907년부터 [1909년](../Page/1909년.md "wikilink")까지 재무부 장관으로 역시 루즈벨트 대통령 휘하에서 활약했다.
 
-또한 코텔류는 [1904년](../Page/1904년.md "wikilink")부터 [1907년](../Page/1907년.md "wikilink")까지 [공화당](https://ko.wikipedia.org/wiki/공화당 "wikilink") 전국위원회 의장을 맡아 루즈벨트 대통령의 두 번째 임기의 당선에 기여했다.
+또한 코텔류는 [1904년](../Page/1904년.md "wikilink")부터 [1907년](../Page/1907년.md "wikilink")까지 [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 전국위원회 의장을 맡아 루즈벨트 대통령의 두 번째 임기의 당선에 기여했다.
 
 코텔류가 재무부 장관에 취임한 직후 [1907년 공황이](../Page/1907년_공황.md "wikilink") 발생했다. 코텔류는 전임 레슬리 쇼의 노선을 계승하였고, 금융 산업의 보호를 우선했지만 당시 재무부는 경제의 안정을 유지하기에 충분한 능력을 가지고 있지 않았다. 이러한 현상이 나타나자 코텔류는 즉시 경제 안정 대책을 국가 주도의 정책으로 전환했다. 코텔류는 국립은행에 3500만 달러의 공적 자금을 투입하고 국채 매입을 추진함으로써 경제 파탄의 위기를 완화시켰다. 그리고 더욱 큰 위험을 방지하기 위해 유동성이 더 높은 화폐를 유통시켜야한다고 주장하고 중앙은행 제도의 확립을 제창했다.
 

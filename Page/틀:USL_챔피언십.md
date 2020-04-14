@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:USL ](https://ko.wikipedia.org/wiki/:USL_).
+> This article is converted from Wikipedia: [틀:USL 챔피언십](https://ko.wikipedia.org/wiki/틀:USL_챔피언십).
 
 
 <onlyinclude></onlyinclude>

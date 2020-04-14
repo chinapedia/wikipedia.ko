@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [매킨토시 II](https://ko.wikipedia.org/wiki/매킨토시_II).
 
 
 **애플 매킨토시 II**(Apple Macintosh II)는 [1987년](../Page/1987년.md "wikilink") [3월 2일에](../Page/3월_2일.md "wikilink") [매킨토시 SE와](../Page/매킨토시_SE.md "wikilink") 함께 출시된 [매킨토시](../Page/매킨토시.md "wikilink") 컴퓨터로 고급형 기종 플랫폼 [매킨토시 II 시리즈의](https://ko.wikipedia.org/wiki/매킨토시_II_시리즈 "wikilink") 첫 모델이다. 매킨토시중에서는 처음으로 본체와 모니터가 분리되어 있었고 처음으로 [컬러 모니터를](https://ko.wikipedia.org/wiki/컬러_모니터 "wikilink") 지원하였다.

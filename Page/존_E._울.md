@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [존 E. 울](https://ko.wikipedia.org/wiki/존_E._울).
 
 
 **존 일리스 울**(John Ellis Wool, [1784년](../Page/1784년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") – [1869년](../Page/1869년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink"))는 세 번의 연속된 전쟁([1812년 전쟁](../Page/1812년_전쟁.md "wikilink"), [멕시코-미국 전쟁](../Page/멕시코-미국_전쟁.md "wikilink"), [남북전쟁](https://ko.wikipedia.org/wiki/남북전쟁 "wikilink"))에서 활약한 미군 장교였다. [멕시코-미국 전쟁](../Page/멕시코-미국_전쟁.md "wikilink") 때는 군에서 그리고 뛰어난 조직가로서 가장 유능한 장교로 인정받았다.

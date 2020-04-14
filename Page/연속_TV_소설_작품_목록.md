@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV   ](https://ko.wikipedia.org/wiki/_TV___).
+> This article is converted from Wikipedia: [연속 TV 소설 작품 목록](https://ko.wikipedia.org/wiki/연속_TV_소설_작품_목록).
 
 
 **연속 TV 소설 작품 목록**에서는, 지금까지 방송된 [NHK](../Page/일본방송협회.md "wikilink") 아침 [연속 TV 소설의](../Page/연속_TV_소설.md "wikilink") 작품을 정리했다.

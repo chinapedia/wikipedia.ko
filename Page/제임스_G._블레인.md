@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G. ](https://ko.wikipedia.org/wiki/_G._).
+> This article is converted from Wikipedia: [제임스 G. 블레인](https://ko.wikipedia.org/wiki/제임스_G._블레인).
 
 
 **제임스 질레스피 블레인**(James Gillespie Blaine, [1830년](../Page/1830년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") - [1893년](../Page/1893년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink"))은 [미국](../Page/미국.md "wikilink") [메인주](../Page/메인주.md "wikilink") 출신의 정치인이다. 하원의원, 하원 의장, 상원의원을 역임하였고, [미국 국무부](../Page/미국_국무부.md "wikilink") 장관을 두 번 역임하였으며, 하프 브리즈(Half-Breeds, 공무원 개혁을 추진한 [공화당의](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 일파)의 추진자가 되었다. [남북 전쟁](https://ko.wikipedia.org/wiki/남북_전쟁 "wikilink") 후 공화당에서 유력 지도자가 되어 재삼 유력한 대통령 후보가 되었지만 이루지 못하고, [1884년 미국 대통령 선거에서](../Page/1884년_미국_대통령_선거.md "wikilink") 당의 지명을 받아 출마를 했지만, 스캔들로 인해 [민주당의](../Page/민주당_\(미국\).md "wikilink") [그로버 클리블랜드에게](../Page/그로버_클리블랜드.md "wikilink") 패했다.

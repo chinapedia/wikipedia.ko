@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Storyteller \(VALSHE \)](https://ko.wikipedia.org/wiki/Storyteller_\(VALSHE_\)).
+> This article is converted from Wikipedia: [Storyteller \(VALSHE의 음반\)](https://ko.wikipedia.org/wiki/Storyteller_\(VALSHE의_음반\)).
 
 
 《**storyteller**》는 [VALSHE](../Page/VALSHE.md "wikilink")의 [미니 음반이다](https://ko.wikipedia.org/wiki/미니_음반 "wikilink"). [2010년](../Page/2010년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink"), [5pb. 레코드에서](https://ko.wikipedia.org/wiki/5pb. "wikilink") 발매됐다.
@@ -15,7 +15,7 @@
 2.  **Myself** (3:36)
       -
         작사: VALSHE, 미나토, 작곡: 미나토, 편곡: [사이토 신야](https://ko.wikipedia.org/wiki/사이토_신야 "wikilink")
-3.  **구속** ( (4:43)
+3.  **구속**( (4:43)
       -
         작사: VALSHE, 미나토, 작곡: 미나토, 편곡: 미나토, FAITH-T
 4.  **graffias** (4:46)

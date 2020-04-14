@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KX3](https://ko.wikipedia.org/wiki/_KX3).
+> This article is converted from Wikipedia: [기아 KX3](https://ko.wikipedia.org/wiki/기아_KX3).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Kia_KX3_01_China_2015-04-06.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Kia_KX3_02_China_2015-04-06.jpg "wikilink")

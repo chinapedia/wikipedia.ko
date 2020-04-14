@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Embedmap ](https://ko.wikipedia.org/wiki/:Embedmap_).
+> This article is converted from Wikipedia: [틀:Embedmap 일본](https://ko.wikipedia.org/wiki/틀:Embedmap_일본).
 
 
 <includeonly>

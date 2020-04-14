@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SF ](https://ko.wikipedia.org/wiki/SF_).
+> This article is converted from Wikipedia: [SF의 정의](https://ko.wikipedia.org/wiki/SF의_정의).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:\(Ink_and_Marker_Robot_Illustration_20.jpg\).jpg "wikilink") **[SF](../Page/SF_\(장르\).md "wikilink")**를 정의하려는 수많은 시도가 있었다.\[1\] 이 문서는 SF가 장르로 정립된 이후 작가, 편집자, 평론가, [팬들에](https://ko.wikipedia.org/wiki/SF_팬덤 "wikilink") 의해 시도된 정의의 목록이다. "[사이언스 판타지](https://ko.wikipedia.org/wiki/사이언스_판타지 "wikilink")", "[사변 소설](https://ko.wikipedia.org/wiki/사변_소설 "wikilink")", "우화 소설fabulation" 등 연관된 용어에 대한 정의들 역시 그것들이 과학소설의 요소들을 정의하거나 관련된 정의를 조명할 경우 포함되어 있다.(예시로 아래에서 로버트 스콜즈의 "우화 소설"과 "구조적 우화 소설"에 대한 정의를 보라.) SF의 하위 유형에 관한 몇몇 정의들 또한 포함됐다.(예시로 데이비드 케터러의 "철학 지향적 과학 소설philosophically oriented science fiction"에 대한 정의를 보라.) 아울러 SF 그 자체보다는 SF 이야기를 정의하는 몇몇 정의들도 포함됐는데, 그것이 SF의 가장 기본적인 정의를 조명하기 때문이다.

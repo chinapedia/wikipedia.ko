@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMO   ](https://ko.wikipedia.org/wiki/BMO___).
+> This article is converted from Wikipedia: [BMO 해리스 브래들리 센터](https://ko.wikipedia.org/wiki/BMO_해리스_브래들리_센터).
 
 
 **BMO 해리스 브래들리 센터**(BMO Harris Bradley Center)는 [미국](../Page/미국.md "wikilink") [위스콘신주](../Page/위스콘신주.md "wikilink") [밀워키](../Page/밀워키.md "wikilink")에 위치한 실내 경기장이다. 과거 [NBA](../Page/전미_농구_협회.md "wikilink") [밀워키 벅스](../Page/밀워키_벅스.md "wikilink"), [IHL](https://ko.wikipedia.org/wiki/인터내셔널_하키_리그_\(1945년-2001년\) "wikilink")/[AHL](../Page/아메리칸_하키_리그.md "wikilink") [밀워키 애드미럴스의](../Page/밀워키_애드미럴스.md "wikilink") 홈경기장으로 사용했다.

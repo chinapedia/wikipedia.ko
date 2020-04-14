@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Check for unknown parameters](https://ko.wikipedia.org/wiki/:Check_for_unknown_parameters).
+> This article is converted from Wikipedia: [모듈:Check for unknown parameters](https://ko.wikipedia.org/wiki/모듈:Check_for_unknown_parameters).
 
 
 \-- This module may be used to compare the arguments passed to the parent -- with a list of arguments, returning a specified result if an argument is -- not on the list local p = {}

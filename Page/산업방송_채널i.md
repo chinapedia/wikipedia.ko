@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ i](https://ko.wikipedia.org/wiki/_i).
+> This article is converted from Wikipedia: [산업방송 채널i](https://ko.wikipedia.org/wiki/산업방송_채널i).
 
 
 **산업방송**()은 대한민국의 유일한 산업 분야 전문 [방송채널사용사업자(PP)](https://ko.wikipedia.org/wiki/방송채널사용사업자\(PP\) "wikilink")이다.

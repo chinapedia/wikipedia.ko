@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [로스앤젤레스 갤럭시 II](https://ko.wikipedia.org/wiki/로스앤젤레스_갤럭시_II).
 
 
 **로스앤젤레스 갤럭시 II**(Los Angeles Galaxy II)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [캘리포니아주](../Page/캘리포니아주.md "wikilink") [카슨](https://ko.wikipedia.org/wiki/카슨 "wikilink")을 연고지로 하고 있으며 디그니티 헬스 스포츠 파크를 홈 경기장으로 사용하고 있다.

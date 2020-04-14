@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBC ](https://ko.wikipedia.org/wiki/CBC_).
+> This article is converted from Wikipedia: [CBC 라디오](https://ko.wikipedia.org/wiki/CBC_라디오).
 
 
 **CBC 라디오**()는 [캐나다 방송 협회](../Page/캐나다_방송_협회.md "wikilink")(CBC/SRC)의 라디오 사업자를 말한다. 보통 CBC의 영어권 라디오 방송을 가리키는 명칭이나, 본 항목에서는 프랑스어 방송 및 원주민 언어 방송, 국제 방송을 함께 설명한다.

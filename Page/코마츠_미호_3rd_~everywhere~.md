@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  3rd \~everywhere\~](https://ko.wikipedia.org/wiki/__3rd_\~everywhere\~).
+> This article is converted from Wikipedia: [코마츠 미호 3rd \~everywhere\~](https://ko.wikipedia.org/wiki/코마츠_미호_3rd_\~everywhere\~).
 
 
 《**코마츠 미호 3rd : everywhere**》()는 [코마츠 미호의](../Page/코마츠_미호.md "wikilink") 3번째 음반이다.
@@ -12,7 +12,7 @@
 
 ## 수록곡
 
-1.  **[최단거리에서](https://ko.wikipedia.org/wiki/사이탄쿄리데 "wikilink")** ()
+1.  **[최단거리에서](https://ko.wikipedia.org/wiki/사이탄쿄리데 "wikilink")**()
       - [작사](https://ko.wikipedia.org/wiki/작사 "wikilink") · [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"): 코마츠 미호, 편곡: [후루이 히로히토](../Page/후루이_히로히토.md "wikilink")
     <!-- end list -->
       -
@@ -24,7 +24,7 @@
         [TV 아사히계](../Page/TV_아사히.md "wikilink") 《[야지우마 와이드](https://ko.wikipedia.org/wiki/야지우마_와이드 "wikilink")》 엔딩 테마. 음반 발매시에 비디오 클립이 제작되어있으며, 코마츠 미호의 전작품에서 처음으로, 본인이 부르는 모습을 수록한 영상을 사용하고 있다(또한, 싱글에 처음으로 부르는 모습을 보인 것은 〈[당신이 있으니까](https://ko.wikipedia.org/wiki/아나타가이루카라_\(코마츠_미호의_노래\) "wikilink")〉이다). 코마츠 작품의 자켓 등에서 자주 보이는, 후두부에서 머리카락을 정리한 모습이 아니며, 머리카락을 민 짧은 머리의 모습으로 수록되고 있다.
 3.  **As**
       - 작사 · 작곡: 코마츠 미호, 편곡: 하야마 타케시
-4.  **[바람이 불어오는 곳](https://ko.wikipedia.org/wiki/카제가소요구바쇼 "wikilink")** ()
+4.  **[바람이 불어오는 곳](https://ko.wikipedia.org/wiki/카제가소요구바쇼 "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 후루이 히로히토
     <!-- end list -->
       -
@@ -43,14 +43,14 @@
     <!-- end list -->
       -
         7번째 싱글 〈이별의 조각〉의 커플링곡. 싱글반에서도 약간, 보컬이 전면으로 나와있다.
-9.  **[이별의 조각](https://ko.wikipedia.org/wiki/사요나라노카케라 "wikilink")** ()
+9.  **[이별의 조각](https://ko.wikipedia.org/wiki/사요나라노카케라 "wikilink")**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 후루이 히로히토
     <!-- end list -->
       -
         7번째 싱글
-10. **꿈과 현실의 틈새** ()
+10. **꿈과 현실의 틈새**()
       - 작사 · 작곡: 코마츠 미호, 편곡: [오시로 쿠론](https://ko.wikipedia.org/wiki/오시로_쿠론 "wikilink")
-11. **비가 내릴 때에** ()
+11. **비가 내릴 때에**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오시로 쿠론, [키타노 마사토](https://ko.wikipedia.org/wiki/키타노_마사토 "wikilink")
 
 ## 녹음 참가

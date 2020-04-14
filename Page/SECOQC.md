@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SECOQC](https://ko.wikipedia.org/wiki/SECOQC).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:SECOQC_Network_Architecture.svg "wikilink") **SECOQC**(Secure Communication based on Quantum Cryptography)는 [양자암호](https://ko.wikipedia.org/wiki/양자암호 "wikilink")를 개발하는 것을 목표로 하는 프로젝트이다. EU는 2004년, 본 프로젝트에 11,000,000[유로](../Page/유로.md "wikilink")를 첩보행위를 피하기 위한 수단으로서 투자했다. SECOQC의 진행자인 Christian Monyk는 오스트리아, 벨기에, 영국, 캐나다, 체코, 덴마크, 프랑스, 독일, 이탈리아, 러시아, 스웨덴, 스위스가 이 프로젝트에 참여할 것이라고 밝혔다. 2008년 10월 8일 SECOQC는 [비엔나](https://ko.wikipedia.org/wiki/비엔나 "wikilink")에서 시작되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:SECOQC_Network_Architecture.svg "wikilink") **SECOQC**(Secure Communication based on Quantum Cryptography)는 [양자암호](https://ko.wikipedia.org/wiki/양자암호 "wikilink")를 개발하는 것을 목표로 하는 프로젝트이다. EU는 2004년, 본 프로젝트에 11,000,000[유로](../Page/유로.md "wikilink")를 첩보행위를 피하기 위한 수단으로서 투자했다. SECOQC의 진행자인 Christian Monyk는 오스트리아, 벨기에, 영국, 캐나다, 체코, 덴마크, 프랑스, 독일, 이탈리아, 러시아, 스웨덴, 스위스가 이 프로젝트에 참여할 것이라고 밝혔다. 2008년 10월 8일 SECOQC는 [비엔나](https://ko.wikipedia.org/wiki/비엔나 "wikilink")에서 시작되었다.
 
 ## 초기 양자암호의 한계
 

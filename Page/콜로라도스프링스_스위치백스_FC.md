@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [콜로라도스프링스 스위치백스 FC](https://ko.wikipedia.org/wiki/콜로라도스프링스_스위치백스_FC).
 
 
 **콜로라도스프링스 스위치백스**(Colorado Springs Switchbacks FC)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [콜로라도주](../Page/콜로라도주.md "wikilink") [콜로라도스프링스](../Page/콜로라도스프링스.md "wikilink")를 연고지로 하고 있으며 와이드너 필드를 홈 경기장으로 사용하고 있다.

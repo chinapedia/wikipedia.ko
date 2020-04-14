@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
+> This article is converted from Wikipedia: [TV 책의 에피소드 목록](https://ko.wikipedia.org/wiki/TV_책의_에피소드_목록).
 
 
 아래는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 시사교양 프로그램인 《**[TV 책](../Page/TV_책.md "wikilink")**》의 방영 목록이다.

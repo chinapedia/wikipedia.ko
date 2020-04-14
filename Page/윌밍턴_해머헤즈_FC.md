@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [윌밍턴 해머헤즈 FC](https://ko.wikipedia.org/wiki/윌밍턴_해머헤즈_FC).
 
 
 **윌밍턴 해머헤즈 FC**(Wilmington Hammerheads Football Club)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [노스캐롤라이나주](../Page/노스캐롤라이나주.md "wikilink") [윌밍턴을](../Page/윌밍턴_\(노스캐롤라이나주\).md "wikilink") 연고지로 하고 있으며 리전 스타디움을 홈 경기장으로 사용하고 있다.

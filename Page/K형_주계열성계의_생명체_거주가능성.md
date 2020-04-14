@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K   ](https://ko.wikipedia.org/wiki/K___).
+> This article is converted from Wikipedia: [K형 주계열성계의 생명체 거주가능성](https://ko.wikipedia.org/wiki/K형_주계열성계의_생명체_거주가능성).
 
 
 이 문서는 **[K형 주계열성](../Page/K형_주계열성.md "wikilink") 주위에 생명체가 탄생할 가능성**에 대해 다루기로 한다.

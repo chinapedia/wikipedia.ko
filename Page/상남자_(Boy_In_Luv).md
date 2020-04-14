@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Boy In Luv\)](https://ko.wikipedia.org/wiki/_\(Boy_In_Luv\)).
+> This article is converted from Wikipedia: [상남자 \(Boy In Luv\)](https://ko.wikipedia.org/wiki/상남자_\(Boy_In_Luv\)).
 
 
 〈**상남자**〉는 [방탄소년단](../Page/방탄소년단.md "wikilink")의 두 번째 미니 음반 《[Skool Luv Affair](../Page/Skool_Luv_Affair.md "wikilink")》의 타이틀 곡이다. 2014년 2월 12일에 발표하였다.

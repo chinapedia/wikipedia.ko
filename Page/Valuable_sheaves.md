@@ -13,7 +13,7 @@
 
 ## 수록곡
 
-1.  **우견의 나비** ()
+1.  **우견의 나비**()
       -
         작사: 미즈노 유라, 작곡·편곡: 노리피
 2.  **crash\!**
@@ -22,22 +22,22 @@
 3.  **Symmetric terget**
       -
         작사: timefiles, 작곡·편곡: amyu
-4.  **[이식보행](https://ko.wikipedia.org/wiki/소아이세이리론 "wikilink")** ()
+4.  **[이식보행](https://ko.wikipedia.org/wiki/소아이세이리론 "wikilink")**()
       -
         작사·작곡·편곡: [DECO\*27](../Page/DECO*27.md "wikilink")
 5.  **THUNDERBIRD**
       -
         작사: [이노우에 아키오](https://ko.wikipedia.org/wiki/이노우에_아키오 "wikilink"), 작곡: [아사쿠라 다이스케](https://ko.wikipedia.org/wiki/아사쿠라_다이스케 "wikilink")
-6.  **우리들의 16bit 전쟁** ()
+6.  **우리들의 16bit 전쟁**()
       -
         작사·작곡·편곡: [sasakure.UK](https://ko.wikipedia.org/wiki/sasakure.UK "wikilink")
 7.  **soundless voice**
       -
         작사·작곡·편곡: 히토시즈쿠P
-8.  **도쿄와 락 시티** ()
+8.  **도쿄와 락 시티**()
       -
         작곡: 하이노코톤, 편곡: 에코마루
-9.  **고마워, 그대에게** ()
+9.  **고마워, 그대에게**()
       -
         작사·작곡·편곡: 미나토
 

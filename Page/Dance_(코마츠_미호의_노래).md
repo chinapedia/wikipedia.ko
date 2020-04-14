@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dance \(  \)](https://ko.wikipedia.org/wiki/Dance_\(__\)).
+> This article is converted from Wikipedia: [Dance \(코마츠 미호의 노래\)](https://ko.wikipedia.org/wiki/Dance_\(코마츠_미호의_노래\)).
 
 
 〈**dance**〉는 [코마츠 미호의](../Page/코마츠_미호.md "wikilink") 열여섯 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 2002년 5월 29일에 발매됐다.
@@ -15,7 +15,7 @@
     <!-- end list -->
       -
         [닛폰 TV계](../Page/닛폰_TV_방송망.md "wikilink") 《C/W러브》 닫는 곡.
-2.  **우리의 행방** ()
+2.  **우리의 행방**()
       - 작사 · 작곡: 코마츠 미호, 편곡: 오가 요시노부
 3.  **dance (KENNY'S CLASSIC CLUB MIX)**
       - 리믹스: KENNY(ORIENTA-RHYTHM) for BASEMENT FACTORY PRODUCTIONS

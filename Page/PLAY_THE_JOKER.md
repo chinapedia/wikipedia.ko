@@ -21,7 +21,7 @@
 4.  **[Collar](../Page/REVOLT_e.p..md "wikilink") (Hard Play Mix)**
       -
         작사: VALSHE, 미나토, 작곡: 미나토, 편곡: G'n-
-5.  **너를 위해** ()
+5.  **너를 위해**()
       -
         작사: VALSHE, 작곡: 미나토, 편곡: G'n-
 6.  **[Vessel](../Page/JESTER.md "wikilink")**

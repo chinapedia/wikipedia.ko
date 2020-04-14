@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(MLS\)](https://ko.wikipedia.org/wiki/__\(MLS\)).
+> This article is converted from Wikipedia: [서부 콘퍼런스 \(MLS\)](https://ko.wikipedia.org/wiki/서부_콘퍼런스_\(MLS\)).
 
 
 **서부 콘퍼런스**(Western Conference)는 [콜로라도 래피즈](../Page/콜로라도_래피즈.md "wikilink"), [FC 댈러스](../Page/FC_댈러스.md "wikilink"), [로스앤젤레스 갤럭시](../Page/로스앤젤레스_갤럭시.md "wikilink"), [로스앤젤레스 FC](../Page/로스앤젤레스_FC.md "wikilink"), [미네소타 유나이티드 FC](../Page/미네소타_유나이티드_FC.md "wikilink"), [내슈빌 SC](../Page/내슈빌_SC.md "wikilink"), [스포팅 캔자스시티](../Page/스포팅_캔자스시티.md "wikilink"), [휴스턴 다이너모](../Page/휴스턴_다이너모.md "wikilink"), [새너제이 어스퀘이크스](../Page/새너제이_어스퀘이크스.md "wikilink"), [레알 솔트레이크](../Page/레알_솔트레이크.md "wikilink"), [시애틀 사운더스 FC](../Page/시애틀_사운더스_FC.md "wikilink"), [포틀랜드 팀버스](../Page/포틀랜드_팀버스.md "wikilink"), [밴쿠버 화이트캡스 FC로](../Page/밴쿠버_화이트캡스_FC.md "wikilink") 이루어진 콘퍼런스 있다.. 2000년부터 2001년까지는 **서부 디비전**(Western Division)였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:MLS ](https://ko.wikipedia.org/wiki/:MLS_).
+> This article is converted from Wikipedia: [틀:MLS 경기장](https://ko.wikipedia.org/wiki/틀:MLS_경기장).
 
 
 <onlyinclude></onlyinclude>

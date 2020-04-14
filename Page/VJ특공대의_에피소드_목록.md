@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VJ  ](https://ko.wikipedia.org/wiki/VJ__).
+> This article is converted from Wikipedia: [VJ특공대의 에피소드 목록](https://ko.wikipedia.org/wiki/VJ특공대의_에피소드_목록).
 
 
 아래는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송된 [텔레비전 프로그램인](../Page/텔레비전_프로그램.md "wikilink") 《**[VJ특공대](../Page/VJ특공대.md "wikilink")**》의 방영 목록이다.

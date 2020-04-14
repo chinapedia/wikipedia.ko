@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [로버트 F. 스탁턴](https://ko.wikipedia.org/wiki/로버트_F._스탁턴).
 
 
 **로버트 필드 스탁턴**(Robert Field Stockton, [1795년](../Page/1795년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") - [1866년](../Page/1866년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink"))은 [미국 멕시코 전쟁](https://ko.wikipedia.org/wiki/미국_멕시코_전쟁 "wikilink") 동안 [캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아 "wikilink")를 점령했던 미국 해군의 장군이다. 스탁턴 가문은 유명한 정치인 가문으로 자신도 [뉴저지주](../Page/뉴저지주.md "wikilink")에서 상원 의원으로 선출되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JAR \( \)](https://ko.wikipedia.org/wiki/JAR_\(_\)).
+> This article is converted from Wikipedia: [JAR \(파일 포맷\)](https://ko.wikipedia.org/wiki/JAR_\(파일_포맷\)).
 
 
 **JAR**(, 자바 아카이브)는 여러개의 [자바 클래스 파일과](https://ko.wikipedia.org/wiki/자바_클래스 "wikilink"), 클래스들이 이용하는 관련 리소스(텍스트, 그림 등) 및 [메타데이터](../Page/메타데이터.md "wikilink")를 하나의 파일로 모아서 [자바 플랫폼에](https://ko.wikipedia.org/wiki/자바_플랫폼 "wikilink") [응용 소프트웨어나](../Page/응용_소프트웨어.md "wikilink") [라이브러리를](../Page/라이브러리_\(컴퓨팅\).md "wikilink") 배포하기 위한 [소프트웨어](../Page/소프트웨어.md "wikilink") [패키지](https://ko.wikipedia.org/wiki/패키지 "wikilink") 파일 포맷이다.\[1\]
@@ -9,7 +9,7 @@ JAR 파일은 실제로 [ZIP 파일 포맷으로](../Page/ZIP_\(파일_포맷\).
 
 JAR 파일은 [자바 런타임이](https://ko.wikipedia.org/wiki/자바_런타임 "wikilink") 효율적으로 애플리케이션을 [배치](https://ko.wikipedia.org/wiki/배치 "wikilink")(디플로이)할 수 있는 수단으로 설계되었다. 자바 애플리케이션을 구성하는 클래스와 관련 리소드들을 단일 파일로 묶어 압축된 형태인 JAR 파일은, 한 차례의 요청으로 애플리케이션 전체를 다운로드할 수 있게 해준다.
 
-JAR 파일은 `META-INF/MANIFEST.MF`경로에 위치한 [매니페스트 파일을](https://ko.wikipedia.org/wiki/매니페스트_파일 "wikilink") 선택적으로 포함할 수 있다. 매니페스트 파일 안에는, 어떻게 JAR 파일을 이용할지를 기술한 엔트리 정보가 적혀있다. 이를테면 [클래스패스(자바)](https://ko.wikipedia.org/wiki/클래스패스\(자바\) "wikilink") 엔트리를 사용하면 해당 JAR 파일과 함께 로드할 다른 JAR 파일들을 지정할 수 있다. `java.util.zip` 패키지는 JAR 파일을 읽고 쓰는 클래스들을 포함하고 있다.
+JAR 파일은 `META-INF/MANIFEST.MF`경로에 위치한 [매니페스트 파일을](../Page/매니페스트_파일.md "wikilink") 선택적으로 포함할 수 있다. 매니페스트 파일 안에는, 어떻게 JAR 파일을 이용할지를 기술한 엔트리 정보가 적혀있다. 이를테면 [클래스패스(자바)](https://ko.wikipedia.org/wiki/클래스패스\(자바\) "wikilink") 엔트리를 사용하면 해당 JAR 파일과 함께 로드할 다른 JAR 파일들을 지정할 수 있다. `java.util.zip` 패키지는 JAR 파일을 읽고 쓰는 클래스들을 포함하고 있다.
 
 ## 압축 해제
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
+> This article is converted from Wikipedia: [TV조선 뉴스 토요일요특급](https://ko.wikipedia.org/wiki/TV조선_뉴스_토요일요특급).
 
 
 《“‘TV조선 뉴스 토요일요특급’”》은 매주 [토요일](../Page/토요일.md "wikilink") 부터 [일요일](../Page/일요일.md "wikilink") 까지 오전 8시 20분 부터 9시 40분, 오후 4시 30분 부터 5시 50분 까지[TV조선](../Page/TV조선.md "wikilink")으로 방송되는 [TV조선의 뉴스 프로그램이다](../Page/TV조선의_뉴스_프로그램.md "wikilink").

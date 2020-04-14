@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2 COOL 4 SKOOL](https://ko.wikipedia.org/wiki/2_COOL_4_SKOOL).
 
 
-***2 COOL 4 SKOOL***는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 첫 번째 한국 싱글 음반이다.\[1\] 2013년 6월 12일 로엔 엔터테인먼트를 통해 발매되었다.
+《***2 COOL 4 SKOOL***》는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 첫 번째 한국 싱글 음반이다.\[1\] 2013년 6월 12일 로엔 엔터테인먼트를 통해 발매되었다.
 
 ## 트랙리스트
 

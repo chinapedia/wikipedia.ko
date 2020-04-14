@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HANABI \( \)](https://ko.wikipedia.org/wiki/HANABI_\(_\)).
+> This article is converted from Wikipedia: [HANABI \(이키모노가카리의 노래\)](https://ko.wikipedia.org/wiki/HANABI_\(이키모노가카리의_노래\)).
 
 
 〈**HANABI**〉()는 [이키모노가카리](../Page/이키모노가카리.md "wikilink")의 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2006년](../Page/2006년.md "wikilink") [5월 31일에](../Page/5월_31일.md "wikilink") [에픽 레코드 재팬에서](../Page/에픽_레코드_재팬.md "wikilink") 발매됐다.
@@ -16,9 +16,9 @@
         [TV 도쿄계](../Page/TV_도쿄.md "wikilink") 애니메이션 《[블리치](../Page/블리치_\(애니메이션\).md "wikilink")》 엔딩 테마([2006년](../Page/2006년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink")(75화) \~ 2006년 [6월 20일](../Page/6월_20일.md "wikilink")(86화) 방송분).
         이키모노가카리의 첫 애니메이션 타이업곡으로, 전작 〈SAKURA〉와는 정반대의 업 템포인 곡으로 되어있다.
         [PV는](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") 거의 CG 애니메이션 합성으로 제작되어있다.
-2.  **달고 쓴 시간** () (5:21)
+2.  **달고 쓴 시간**() (5:21)
       - 작사·작곡: [야마시타 호타카](https://ko.wikipedia.org/wiki/야마시타_호타카 "wikilink"), 편곡: 사이토 유지
-3.  **[무명 손수건](https://ko.wikipedia.org/wiki/모멘노행커치프 "wikilink")** () (4:00)
+3.  **[무명 손수건](https://ko.wikipedia.org/wiki/모멘노행커치프 "wikilink")**() (4:00)
       - 작사: [마츠모토 타카시](https://ko.wikipedia.org/wiki/마츠모토_타카시 "wikilink"), 작곡: [츠츠미 쿄헤이](https://ko.wikipedia.org/wiki/츠츠미_쿄헤이 "wikilink"), 편곡: [유아사 아츠시](https://ko.wikipedia.org/wiki/유아사_아츠시 "wikilink")
     <!-- end list -->
       -

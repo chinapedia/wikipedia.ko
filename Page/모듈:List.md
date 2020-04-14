@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:List](https://ko.wikipedia.org/wiki/:List).
+> This article is converted from Wikipedia: [모듈:List](https://ko.wikipedia.org/wiki/모듈:List).
 
 
 \-- This module outputs different kinds of lists. At the moment, bulleted, -- unbulleted, horizontal, ordered, and horizontal ordered lists are supported.

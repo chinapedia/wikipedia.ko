@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Music](https://ko.wikipedia.org/wiki/:Music).
+> This article is converted from Wikipedia: [틀:Music](https://ko.wikipedia.org/wiki/틀:Music).
 
 
 <includeonly><span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;">{{\#switch:

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ \(TV\)](https://ko.wikipedia.org/wiki/_\(TV\)).
+> This article is converted from Wikipedia: [뉴스투나잇 \(연합뉴스TV\)](https://ko.wikipedia.org/wiki/뉴스투나잇_\(연합뉴스TV\)).
 
 
-《**뉴스투나잇**》은 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")에서 평일 밤 9시 40분, 주말 밤 11시에 방송되는 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")의 메인뉴스 프로그램이다. 주말에는 **뉴스 23**이라는 명칭으로 방송된다.
+《**뉴스투나잇**》은 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")에서 평일 밤 9시 40분, 주말 밤 11시에 방송되는 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")의 심야 종합뉴스 프로그램이다.
 
 ## 방송 시간
 

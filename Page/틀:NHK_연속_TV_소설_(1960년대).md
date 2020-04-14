@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NHK  TV  \(1960\)](https://ko.wikipedia.org/wiki/:NHK__TV__\(1960\)).
+> This article is converted from Wikipedia: [틀:NHK 연속 TV 소설 \(1960년대\)](https://ko.wikipedia.org/wiki/틀:NHK_연속_TV_소설_\(1960년대\)).
 
 
 <table>

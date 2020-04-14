@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VSI  FC](https://ko.wikipedia.org/wiki/VSI__FC).
+> This article is converted from Wikipedia: [VSI 탬파베이 FC](https://ko.wikipedia.org/wiki/VSI_탬파베이_FC).
 
 
 **VSI 탬파베이**(VisionPro Sports Institute Tampa Bay Football Club)는 [미국](../Page/미국.md "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") [플랜트시티](https://ko.wikipedia.org/wiki/플랜트시티 "wikilink")를 연고지로 하던 프로 축구팀이다. 2013년 [유나이티드 사커 리그](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속으로 참가했다.

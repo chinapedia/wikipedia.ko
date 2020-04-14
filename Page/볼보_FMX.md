@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FMX](https://ko.wikipedia.org/wiki/_FMX).
+> This article is converted from Wikipedia: [볼보 FMX](https://ko.wikipedia.org/wiki/볼보_FMX).
 
 
 **볼보 FMX**(\[1\])는 [볼보트럭](../Page/볼보트럭.md "wikilink")이 생산하는 대형 트럭으로 [2010년](../Page/2010년.md "wikilink")에 처음 출시되었다.

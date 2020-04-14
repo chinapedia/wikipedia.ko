@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TD  ](https://ko.wikipedia.org/wiki/TD__).
+> This article is converted from Wikipedia: [TD 플레이스 스타디움](https://ko.wikipedia.org/wiki/TD_플레이스_스타디움).
 
 
 **TD 플레이스 스타디움**(TD Place Stadium)은 [캐나다](../Page/캐나다.md "wikilink")의 [다목적 경기장이다](https://ko.wikipedia.org/wiki/다목적_경기장 "wikilink"). [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [오타와](../Page/오타와.md "wikilink")에 위치하고 있으며 [NASL](https://ko.wikipedia.org/wiki/북미_축구_리그 "wikilink")/[USL](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") [오타와 퓨어리 FC와](../Page/오타와_퓨어리_FC.md "wikilink") [CFL](../Page/캐나디안_풋볼_리그.md "wikilink") [오타와 레드블랙스의](https://ko.wikipedia.org/wiki/오타와_레드블랙스 "wikilink") 홈경기장이다.
