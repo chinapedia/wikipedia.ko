@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SGI](https://ko.wikipedia.org/wiki/SGI).
+> This article is converted from Wikipedia: [SGI서울보증](https://ko.wikipedia.org/wiki/SGI서울보증).
 
 
 **SGI서울보증** (Seoul Guarantee Insurance Company)은 [1998년](../Page/1998년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") [대한보증보험](https://ko.wikipedia.org/wiki/대한보증보험 "wikilink")과 [한국보증보험](https://ko.wikipedia.org/wiki/한국보증보험 "wikilink")의 합병으로 출범하였으며, IMF사태 당시 회사채 보증건의 대규모 보험금 지급 등의 원인으로 공적자금이 투입 되었고, 그 결과 현재 [예금보험공사](../Page/예금보험공사.md "wikilink")가 93% 이상의 지분을 보유한 대주주이다.

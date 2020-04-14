@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S.A.C. Solid State Society](https://ko.wikipedia.org/wiki/_S.A.C._Solid_State_Society).
+> This article is converted from Wikipedia: [공각기동대 S.A.C. Solid State Society](https://ko.wikipedia.org/wiki/공각기동대_S.A.C._Solid_State_Society).
 
 
 **공각기동대 S.A.C. Solid State Society**(攻殻機動隊 S.A.C. Solid State Society)는 [시로 마사무네의](../Page/시로_마사무네.md "wikilink") [공각기동대](../Page/공각기동대_\(만화\).md "wikilink") 세계관에 기초한 2006년 [포스트사이버펑크](https://ko.wikipedia.org/wiki/포스트사이버펑크 "wikilink") [재패니메이션](https://ko.wikipedia.org/wiki/재패니메이션 "wikilink")이다. [프로덕션 I.G가](../Page/프로덕션_I.G.md "wikilink") 제작하고 [가미야마 겐지가](https://ko.wikipedia.org/wiki/가미야마_겐지 "wikilink") 감독했으며 2006년 [도쿄](../Page/도쿄.md "wikilink") 애니메 페어에서 처음 발표되었다. 약 3억 6천만 [엔](https://ko.wikipedia.org/wiki/엔 "wikilink")의 예산이 투자되었다.

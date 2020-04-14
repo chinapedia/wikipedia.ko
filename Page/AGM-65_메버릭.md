@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AGM-65 ](https://ko.wikipedia.org/wiki/AGM-65_).
+> This article is converted from Wikipedia: [AGM-65 메버릭](https://ko.wikipedia.org/wiki/AGM-65_메버릭).
 
 
 **AGM-65 메버릭**은 근접공중지원(CAS), prohibition, forceful prevention을 위해 설계된 미국 [레이시온](../Page/레이시온.md "wikilink")의 공대지 미사일이다. 전차, 장갑차, 방공망, 선박, 육상수송차량, 연료기지 등 넓은 범위의 전술적 목표물들에 대해 유효하다.

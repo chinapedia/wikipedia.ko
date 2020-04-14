@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IV](https://ko.wikipedia.org/wiki/_IV).
+> This article is converted from Wikipedia: [문명 IV](https://ko.wikipedia.org/wiki/문명_IV).
 
 
 《**시드 마이어의 문명 IV**》()는 [2005년](../Page/2005년.md "wikilink") [10월](../Page/10월.md "wikilink") 말 경에 [북미](https://ko.wikipedia.org/wiki/북미 "wikilink")와 [유럽](../Page/유럽.md "wikilink") 등에 출시된 [턴 방식 전략 게임으로](https://ko.wikipedia.org/wiki/턴_방식_전략_게임 "wikilink"), 역사상 존재했던 위대한 문명 중 하나를 선택해 경영하며, 주어진 승리 조건 중 하나를 달성하는 것이 목적이다. 파이락시스 게임즈(Firaxis Games)에서 [시드 마이어](../Page/시드_마이어.md "wikilink")(Sid Meier)의 총괄 지휘 아래 [게임 기획자](https://ko.wikipedia.org/wiki/게임_기획자 "wikilink") 소렌 존슨(Soren Johnson)이 제작을 맡았다. [대한민국](../Page/대한민국.md "wikilink")에서는 정식 출시되지 않았으나 많은 사람들이 영문판으로 즐기고 있고, 정식 출시된 중국어판의 소스를 고쳐 비공식 한국어판이 공개되어 있다.

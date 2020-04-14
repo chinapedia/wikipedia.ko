@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IC](https://ko.wikipedia.org/wiki/IC).
+> This article is converted from Wikipedia: [I²C](https://ko.wikipedia.org/wiki/I²C).
 
 
 **I²C**(아이스퀘어드시, Inter-Integrated Circuit)는 [필립스](../Page/필립스.md "wikilink")에서 개발한 [직렬](../Page/직렬_통신.md "wikilink") [버스이다](../Page/버스_\(컴퓨팅\).md "wikilink"). [마더보드](https://ko.wikipedia.org/wiki/마더보드 "wikilink"), [임베디드 시스템](../Page/임베디드_시스템.md "wikilink"), [휴대 전화](../Page/휴대_전화.md "wikilink") 등에 저속의 주변 기기를 연결하기 위해 사용된다.

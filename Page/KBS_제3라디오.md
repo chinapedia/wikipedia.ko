@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [KBS 3](https://ko.wikipedia.org/wiki/KBS_3).
+> This article is converted from Wikipedia: [KBS 제3라디오](https://ko.wikipedia.org/wiki/KBS_제3라디오).
 
 
-**KBS 제3라디오**([호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink"): **HLKC**, 별칭: **사랑의 소리 방송**)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [라디오](../Page/라디오.md "wikilink") 채널이다. [장애인](../Page/장애인.md "wikilink") 등 소외계층을 위한 [복지](https://ko.wikipedia.org/wiki/사회복지 "wikilink") 정보, [정책](https://ko.wikipedia.org/wiki/정책 "wikilink"), 일상 정보 등을 방송한다. [1995년](../Page/1995년.md "wikilink") [12월 20일에](../Page/12월_20일.md "wikilink") [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink") FM 방송의 부가 음성으로 시작하여 [2000년](../Page/2000년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [KBS 제2라디오의](../Page/KBS_제2라디오.md "wikilink") 중파 주파수를 편입, 별도의 AM 라디오 방송망을 구축하며 KBS 제3라디오라는 이름을 얻었다. 방송되는 프로그램 중 [내일은 푸른하늘은](../Page/내일은_푸른하늘.md "wikilink") [2003년](../Page/2003년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") [KBS 제1라디오에서](../Page/KBS_제1라디오.md "wikilink") 넘어온 프로그램이다. 라디오 채널 특성상 재방송 편성 비율이 많은 채널이다.
+**KBS 제3라디오**([호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink"): **HLKC**, 별칭: **사랑의 소리 방송**)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [라디오](../Page/라디오.md "wikilink") 편성책임 채널이다. [장애인](../Page/장애인.md "wikilink") 등 소외계층을 위한 [복지](https://ko.wikipedia.org/wiki/사회복지 "wikilink") 정보, [정책](https://ko.wikipedia.org/wiki/정책 "wikilink"), 일상 정보 등을 방송한다. [1995년](../Page/1995년.md "wikilink") [12월 20일에](../Page/12월_20일.md "wikilink") [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink") FM 방송의 부가 음성으로 시작하여 [2000년](../Page/2000년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [KBS 제2라디오의](../Page/KBS_제2라디오.md "wikilink") 중파 주파수를 편입, 별도의 AM 라디오 방송망을 구축하며 KBS 제3라디오라는 이름을 얻었다. 방송되는 프로그램 중 [내일은 푸른하늘은](../Page/내일은_푸른하늘.md "wikilink") [2003년](../Page/2003년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") [KBS 제1라디오에서](../Page/KBS_제1라디오.md "wikilink") 넘어온 프로그램이다. 라디오 채널 특성상 재방송 편성 비율이 많은 채널이다.
 
 ## 정규방송 시간
 
@@ -59,8 +59,6 @@
 | -------------------------------------------- | ------- | --------- | -------- | -------------------- | ---------------------- |
 | [본사](../Page/한국방송공사.md "wikilink")           | HLKC    | 화성 송신소    | AM 1134㎑ | 500㎾                 | 경기도 화성시 마도면 두곡리 113    |
 | HLKC-SFM                                     | 관악산 송신소 | FM 104.9㎒ | 2㎾       | 경기도 안양시 동안구 비산동 산3-1 |                        |
-| [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") | HLAA    | 해룡 송신소    | AM 1224㎑ | 20㎾                  | 광주 광산구 수완동 1148        |
-| [KBS대구방송총국](../Page/KBS대구방송총국.md "wikilink") | HLQH    | 가포 송신소    | AM 558㎑  | 250㎾                 | 경북 포항시 남구 호미곶면 구만리 380 |
 | [KBS순천방송국](../Page/KBS순천방송국.md "wikilink")   | HLKZ    | 해룡 송신소    | AM 576㎑  | 10㎾                  | 전라남도 순천시 해룡면 대안리 974-2 |
 | [KBS전주방송총국](../Page/KBS전주방송총국.md "wikilink") | HLAS    | 대야 송신소    | AM 675㎑  | 10㎾                  | 전라북도 군산시 대야면 죽산리 360-4 |
 | [KBS창원방송총국](../Page/KBS창원방송총국.md "wikilink") | HLKD    | 가포 송신소    | AM 936㎑  | 10㎾                  | 경상남도 창원시 마산합포구 가포동 산96 |

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Speechless \( \)](https://ko.wikipedia.org/wiki/Speechless_\(_\)).
+> This article is converted from Wikipedia: [Speechless \(넬의 음반\)](https://ko.wikipedia.org/wiki/Speechless_\(넬의_음반\)).
 
 
 《**Speechless**》는 [2001년](../Page/2001년.md "wikilink") [9월 26일에](../Page/9월_26일.md "wikilink") 발표된 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 두 번째 언더그라운드 앨범이다.

@@ -372,7 +372,7 @@
 <td><p>42th</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/DoU" title="wikilink">DoU</a></p></td>
 <td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_22일.md" title="wikilink">1월 22일</a></p></td>
-<td></td>
+<td><p>25위</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -976,4 +976,4 @@ at </strong></p></td>
 
   - [치바 료헤이 블로그](http://gree.jp/chiba_ryohei/)
 
-[w-inds.](https://ko.wikipedia.org/wiki/분류:w-inds. "wikilink") [분류:일본의 보이 밴드](https://ko.wikipedia.org/wiki/분류:일본의_보이_밴드 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_댄스_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink")
+[w-inds.](https://ko.wikipedia.org/wiki/분류:w-inds. "wikilink") [분류:일본의 보이 밴드](https://ko.wikipedia.org/wiki/분류:일본의_보이_밴드 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_댄스_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:포니 캐년 음악가](https://ko.wikipedia.org/wiki/분류:포니_캐년_음악가 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink")

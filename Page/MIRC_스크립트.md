@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIRC ](https://ko.wikipedia.org/wiki/MIRC_).
+> This article is converted from Wikipedia: [MIRC 스크립트](https://ko.wikipedia.org/wiki/MIRC_스크립트).
 
 
 **mIRC 스크립트**()는 [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [IRC](https://ko.wikipedia.org/wiki/IRC "wikilink") 클라이언트인 [mIRC](https://ko.wikipedia.org/wiki/mIRC "wikilink")에서 지원하는 [스크립트 언어이다](../Page/스크립트_언어.md "wikilink").

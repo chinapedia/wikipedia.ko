@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV \(1\)](https://ko.wikipedia.org/wiki/_TV_\(1\)).
+> This article is converted from Wikipedia: [애플 TV \(1세대\)](https://ko.wikipedia.org/wiki/애플_TV_\(1세대\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Apple_TV.jpg "wikilink") **애플 TV**()는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [셋탑박스](https://ko.wikipedia.org/wiki/셋탑박스 "wikilink")이다. [2007년](../Page/2007년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [샌프란시스코](../Page/샌프란시스코.md "wikilink")에서 개최된 2007 맥월드에서 키노트 도중 최초로 소개되었고 미국에서 [2007년](../Page/2007년.md "wikilink") [3월](../Page/3월.md "wikilink")부터 정식으로 발매되었다.\[1\] (대한민국은 5월 7일 출시)

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 디버거](https://ko.wikipedia.org/wiki/GNU_디버거).
 
 
 보통은 **GDB**라고 부르는 **GNU 디버거**(GNU Debugger)는 [GNU](../Page/GNU.md "wikilink") 소프트웨어 시스템을 위한 기본 [디버거](../Page/디버거.md "wikilink")이다. GDB는 다양한 유닉스 기반의 시스템에서 동작하는 이식성있는 디버거로, [에이다](https://ko.wikipedia.org/wiki/에이다_프로그래밍_언어 "wikilink"), [C](https://ko.wikipedia.org/wiki/C언어 "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [포트란](../Page/포트란.md "wikilink") 등의 여러 [프로그래밍 언어를](../Page/프로그래밍_언어.md "wikilink") 지원한다.

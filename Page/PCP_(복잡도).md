@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PCP \(\)](https://ko.wikipedia.org/wiki/PCP_\(\)).
+> This article is converted from Wikipedia: [PCP \(복잡도\)](https://ko.wikipedia.org/wiki/PCP_\(복잡도\)).
 
 
 **PCP**는 확률적으로 검사할 수 있는 증명()을 할 수 있는 [판정 문제들의](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") [복잡도 종류이다](../Page/복잡도_종류.md "wikilink").

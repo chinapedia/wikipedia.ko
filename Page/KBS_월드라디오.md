@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 월드라디오](https://ko.wikipedia.org/wiki/KBS_월드라디오).
 
 
 | 방송국명                           |

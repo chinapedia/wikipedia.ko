@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 라디오](https://ko.wikipedia.org/wiki/GNU_라디오).
 
 
 **GNU 라디오**(GNU Radio)는 소프트웨어에 기반한 무선 통신 시스템을 연구하고, 만들고, 제작하기 위한 툴킷이다. [1998년](../Page/1998년.md "wikilink")에 시작되었고 지금은 GNU의 정규 프로젝트이다. [존 길모어가](https://ko.wikipedia.org/wiki/존_길모어 "wikilink") $32,000의 자금을 조성해서 [에릭 블로섬에게](https://ko.wikipedia.org/wiki/에릭_블로섬 "wikilink") 코드 작성과 프로젝스 관리 책임을 일임했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RGB ](https://ko.wikipedia.org/wiki/RGB_).
+> This article is converted from Wikipedia: [RGB 가산혼합](https://ko.wikipedia.org/wiki/RGB_가산혼합).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Synthese+.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:RGBCube_b.svg "wikilink") **RGB 가산혼합**(RGB 加算混合)은 빛의 삼원색을 이용하여 [색](../Page/색.md "wikilink")을 표현하는 방식이다. [빨강](../Page/빨강.md "wikilink")(RED), [초록](../Page/초록.md "wikilink")(GREEN), [파랑](../Page/파랑.md "wikilink")(BLUE) 세 종류의 광원(光源)을 이용하여 색을 혼합하며 색을 섞을수록 밝아지기 때문에 '가산혼합'이라고 한다. 디지털 이미지에서 사용되는 RGB 가산혼합의 종류로는 [sRGB](https://ko.wikipedia.org/wiki/sRGB "wikilink"), [어도비 RGB](https://ko.wikipedia.org/wiki/어도비_RGB "wikilink") 등이 있다.

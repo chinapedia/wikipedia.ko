@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A  \(\)](https://ko.wikipedia.org/wiki/A__\(\)).
+> This article is converted from Wikipedia: [A 지역 \(반투어군\)](https://ko.wikipedia.org/wiki/A_지역_\(반투어군\)).
 
 
 [반투어군](../Page/반투어군.md "wikilink")의 지리적 분류에서 **A 지역**(Zone A)은 [적도기니](https://ko.wikipedia.org/wiki/적도기니 "wikilink"), [중앙 아프리카 공화국](https://ko.wikipedia.org/wiki/중앙_아프리카_공화국 "wikilink"), [카메룬](../Page/카메룬.md "wikilink")의 언어들을 포괄한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The End \( \)](https://ko.wikipedia.org/wiki/The_End_\(_\)).
+> This article is converted from Wikipedia: [The End \(비틀즈의 노래\)](https://ko.wikipedia.org/wiki/The_End_\(비틀즈의_노래\)).
 
 
 〈**The End**〉는 [비틀즈](../Page/비틀즈.md "wikilink")의 실질적인 의미에서의 마지막 곡이다. 또한, 이 곡은 비틀즈의 멤버 4명이 모두 모여 녹음한 마지막 곡들 중 하나로, 1969년 8월 18일 완성되었다.

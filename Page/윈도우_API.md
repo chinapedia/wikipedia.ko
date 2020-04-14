@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ API](https://ko.wikipedia.org/wiki/_API).
+> This article is converted from Wikipedia: [윈도우 API](https://ko.wikipedia.org/wiki/윈도우_API).
 
 
 **윈도우 API**()는 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 운영 체제들이 사용하는 [API](../Page/API.md "wikilink")이다. [C](../Page/C_\(프로그래밍_언어\).md "wikilink")/[C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 프로그램에서 직접 운영 체제와 상호 작용할 수 있도록 만들어졌으며, 그보다 더 낮은 수준의 제어는 Ntdll.dll을 사용한 낮은 수준의 DLL로 가능하다.

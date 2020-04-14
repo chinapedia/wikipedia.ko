@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [찰스 M. 슐츠](https://ko.wikipedia.org/wiki/찰스_M._슐츠).
 
 
 **찰스 먼로 슐츠**(Charles Monroe Schulz, 1922년 11월 26일 \~ 2000년 2월 12일)는 《[피너츠](../Page/피너츠.md "wikilink")》 시리즈로 유명한 [미국](../Page/미국.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink")이다. 슐츠는 [미네소타주](../Page/미네소타주.md "wikilink") [미니애폴리스](../Page/미니애폴리스.md "wikilink")에서 태어나 세인트폴에서 자랐으며, [제2차 세계 대전에](../Page/제2차_세계_대전.md "wikilink") 참전했다. 군복무 당시 슐츠는 강아지가 다칠까봐서 포격을 하지 않을 정도로 마음이 여리고 순수한 군인이었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AGM-88 ](https://ko.wikipedia.org/wiki/AGM-88_).
+> This article is converted from Wikipedia: [AGM-88 함](https://ko.wikipedia.org/wiki/AGM-88_함).
 
 
 [섬네일에](https://ko.wikipedia.org/wiki/파일:AGM-88_HARM_on_FA-18C.jpg "wikilink") 장착된 AGM-88 함 미사일\]\]

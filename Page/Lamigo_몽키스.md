@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lamigo ](https://ko.wikipedia.org/wiki/Lamigo_).
+> This article is converted from Wikipedia: [Lamigo 몽키스](https://ko.wikipedia.org/wiki/Lamigo_몽키스).
 
 
 **Lamigo 몽키스**(, )는 [중화민국](../Page/중화민국.md "wikilink")의 [중화 직업봉구 대연맹에](../Page/중화_직업봉구_대연맹.md "wikilink") 소속되어 있는 야구 팀이다. [2006년](../Page/2006년.md "wikilink") [타이완 시리즈에서](../Page/타이완_시리즈.md "wikilink") 우승했다. 연고지는 [가오슝 시이나](https://ko.wikipedia.org/wiki/가오슝_시 "wikilink") [2011년](../Page/2011년.md "wikilink")부터 [타오위안 현을](https://ko.wikipedia.org/wiki/타오위안_현_\(타이완_성\) "wikilink") 연고로 한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Where-to-be-born ](https://ko.wikipedia.org/wiki/Where-to-be-born_).
+> This article is converted from Wikipedia: [Where-to-be-born 인덱스](https://ko.wikipedia.org/wiki/Where-to-be-born_인덱스).
 
 
 **Where-to-be-born 인덱스**() 또는 구명칭이었던 **삶의 질 지수**()는 [이코노미스트](../Page/이코노미스트.md "wikilink")의 계열사인 [EIU가](https://ko.wikipedia.org/wiki/EIU_\(이코노미스트\) "wikilink") 전 세계 111개국을 대상으로 조사한 [삶의 질에](../Page/삶의_질.md "wikilink") 관한 순위이다. 이 지수는 전 세계 111개국을 대상으로 성평등·자유도·가족·공동생활의 수준과, 소득·건강·실업률·기후·정치적 안정성·직업 안정성에 대해 각각의 종합점수로 순위를 매긴 것이다.

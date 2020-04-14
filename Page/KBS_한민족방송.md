@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 한민족방송](https://ko.wikipedia.org/wiki/KBS_한민족방송).
 
 
-**KBS 한민족방송**은 [한국방송공사](../Page/한국방송공사.md "wikilink")가 [반공주의](../Page/반공주의.md "wikilink") 선전을 목적으로 실시하고 있는 [한국어](../Page/한국어.md "wikilink") [국제방송](https://ko.wikipedia.org/wiki/국제방송 "wikilink")으로, [대한민국](../Page/대한민국.md "wikilink")과 [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink"), [일본](../Page/일본.md "wikilink")과 [중국](../Page/중국.md "wikilink") [연변 조선족 자치주](https://ko.wikipedia.org/wiki/연변_조선족_자치주 "wikilink"), [러시아](../Page/러시아.md "wikilink") [연해주](https://ko.wikipedia.org/wiki/연해주 "wikilink")에 거주하는 [한민족](../Page/한민족.md "wikilink")이 주 청취 대상이다. 대한민국의 라디오 채널 중 FM방송을 하지 않는 유일한 대한민국 라디오 채널이다.\[1\]
+**KBS 한민족방송**은 [한국방송공사](../Page/한국방송공사.md "wikilink")가 [반공주의](../Page/반공주의.md "wikilink") 선전을 목적으로 미실시하고 있는 [한국어](../Page/한국어.md "wikilink") [국제방송](https://ko.wikipedia.org/wiki/국제방송 "wikilink")으로, [대한민국](../Page/대한민국.md "wikilink")과 [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink"), [일본](../Page/일본.md "wikilink")과 [중국](../Page/중국.md "wikilink") [연변 조선족 자치주](https://ko.wikipedia.org/wiki/연변_조선족_자치주 "wikilink"), [러시아](../Page/러시아.md "wikilink") [연해주](https://ko.wikipedia.org/wiki/연해주 "wikilink")에 거주하는 [한민족](../Page/한민족.md "wikilink")이 주 청취 대상이다. 대한민국의 라디오 채널 중 FM방송을 하지 않는 유일한 대한민국 라디오 채널이다.\[1\]
 
 [김대중](../Page/김대중.md "wikilink") 정부 이후에 남북 관계가 개선되면서 이후에 반공주의 방송이 많이 줄어들었으나, [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 정부 이후에 남북 관계가 좋지 않게 되면서 [2012년 7월](../Page/2012년_7월.md "wikilink") 개편으로 북한 주민을 대상으로 하는 프로그램 3개가 신설하는 등 반공주의 방송이 많이 늘어났다.
 

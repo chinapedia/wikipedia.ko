@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 월드](https://ko.wikipedia.org/wiki/KBS_월드).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:KBS_World_\(2009\).svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:KBS_World.svg "wikilink") **KBS 월드** (KBS World)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영, 방송하는 국제 위성 방송 서비스이다. [2003년](../Page/2003년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 개국하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:KBS_World_\(2009\).svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:KBS_World.svg "wikilink") **KBS 월드**(KBS World)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영, 방송하는 국제 위성 방송 서비스이다. [2003년](../Page/2003년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 개국하였다.
 
 ## 연혁
 

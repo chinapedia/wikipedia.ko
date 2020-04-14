@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [대구 FC](https://ko.wikipedia.org/wiki/대구_FC).
 
 
 **대구FC**(, *대구 시민프로축구단*)는 [대구광역시](../Page/대구광역시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink")단이다. [2002년](../Page/2002년.md "wikilink")에 [대한민국](../Page/대한민국.md "wikilink") 프로축구 역사상 최초로 시민구단 형태로 창단되었다. 즉 법적으로는 [주식회사](../Page/주식회사.md "wikilink")이며, 시민들이 다수의 [주주](../Page/주주.md "wikilink")로 참여하고 있다. 현재 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")에 소속되어 있으며 [조광래](../Page/조광래.md "wikilink") 전직 [대한민국 축구 국가대표팀](../Page/대한민국_축구_국가대표팀.md "wikilink") 감독이 사장 겸 단장을 맡고 있다.
@@ -120,26 +120,30 @@
 <td><p><a href="../Page/이용발.md" title="wikilink">이용발</a></p></td>
 </tr>
 <tr class="even">
-<td><p>피지컬코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오성환" title="wikilink">오성환</a></p></td>
+<td><p>전력분석코치</p></td>
+<td><p>이종현</p></td>
 </tr>
 <tr class="odd">
+<td><p>피지컬코치</p></td>
+<td><p>오성환</p></td>
+</tr>
+<tr class="even">
 <td><p>스카우트</p></td>
 <td><p>성호상</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>U-18 감독</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/백영철" title="wikilink">백영철</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>U-18 코치</p></td>
 <td><p>안상욱</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>U-15 감독</p></td>
 <td><p>이삭</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 </tr>

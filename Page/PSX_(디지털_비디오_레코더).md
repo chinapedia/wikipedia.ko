@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PSX \(  \)](https://ko.wikipedia.org/wiki/PSX_\(__\)).
+> This article is converted from Wikipedia: [PSX \(디지털 비디오 레코더\)](https://ko.wikipedia.org/wiki/PSX_\(디지털_비디오_레코더\)).
 
 
 **PSX**는 [소니](../Page/소니.md "wikilink")에서 발매한 [하드 디스크가](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 탑재된 DVD레코더이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wu \(\)](https://ko.wikipedia.org/wiki/Wu_\(\)).
+> This article is converted from Wikipedia: [Wu \(가나\)](https://ko.wikipedia.org/wiki/Wu_\(가나\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:wa-wu.jpg "wikilink") wu.\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Katakana_Wu_Proposal.png "wikilink") wu.\]\] [20px](https://ko.wikipedia.org/wiki/파일:wa-wu.jpg "wikilink"), [20px는](https://ko.wikipedia.org/wiki/파일:Katakana_Wu_Proposal.png "wikilink") [일본어](../Page/일본어.md "wikilink")의 [음절](../Page/음절.md "wikilink")의 하나이며, [가나의](../Page/가나_\(문자\).md "wikilink") 하나이다. [메이지](../Page/메이지_시대.md "wikilink") 초기에 사용되었다. 원래부터 [행](https://ko.wikipedia.org/wiki/오십음도 "wikilink") [단](https://ko.wikipedia.org/wiki/오십음도 "wikilink") 자리가 비어 있는 상태였는데, 메이지 초기의 학자들이 그 자리에 이 두 글자를 인위적으로 배정했던 것이다(단 히라가나 ''는 행 단의 문자로도 사용).

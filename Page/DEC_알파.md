@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DEC ](https://ko.wikipedia.org/wiki/DEC_).
+> This article is converted from Wikipedia: [DEC 알파](https://ko.wikipedia.org/wiki/DEC_알파).
 
 
 **DEC 알파**(DEC Alpha 혹은 Alpha AXP)는 [미국](../Page/미국.md "wikilink") [DEC](https://ko.wikipedia.org/wiki/DEC "wikilink")사에서 생산한 64비트 [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") [마이크로프로세서](../Page/마이크로프로세서.md "wikilink")이다. 기존 32비트 [VAX](../Page/VAX.md "wikilink") 프로세서를 대체하기 위해 개발되었는데, 1991년 DECchip 21064 EV4 모델로 처음 출시되었으며, 1999년 대한민국의 삼성전자에 라이선스 생산되기도 하였다.

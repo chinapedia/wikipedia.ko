@@ -82,7 +82,7 @@ YES24가 후원하고 바둑TV 주최하는 바둑 대회로 [2007년](../Page/2
 <td><p><a href="../Page/충암고등학교.md" title="wikilink">충암고등학교</a></p></td>
 <td><p><a href="../Page/경기고등학교.md" title="wikilink">경기고등학교</a></p></td>
 <td><p><a href="../Page/경성고등학교.md" title="wikilink">경성고등학교</a><br />
-<a href="../Page/대광고등학교.md" title="wikilink">대광고등학교</a></p></td>
+<a href="../Page/대광고등학교_(서울).md" title="wikilink">대광고등학교</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5기</p></td>

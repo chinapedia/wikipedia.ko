@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(AWR\)](https://ko.wikipedia.org/wiki/__\(AWR\)).
+> This article is converted from Wikipedia: [희망의 소리 \(AWR\)](https://ko.wikipedia.org/wiki/희망의_소리_\(AWR\)).
 
 
 | 방송국명                           |

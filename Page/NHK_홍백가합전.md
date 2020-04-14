@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK ](https://ko.wikipedia.org/wiki/NHK_).
+> This article is converted from Wikipedia: [NHK 홍백가합전](https://ko.wikipedia.org/wiki/NHK_홍백가합전).
 
 
 《**NHK 홍백가합전**》( )은 [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")가 매년 12월 31일([오미소카](https://ko.wikipedia.org/wiki/오미소카 "wikilink"))에 방송하고 있는 남녀 대항 형식의 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink"). 줄여서 **홍백**이라도 부른다.

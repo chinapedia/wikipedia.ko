@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PSPACE-](https://ko.wikipedia.org/wiki/PSPACE-).
+> This article is converted from Wikipedia: [PSPACE-완전](https://ko.wikipedia.org/wiki/PSPACE-완전).
 
 
 [계산 복잡도 이론에서](../Page/계산_복잡도_이론.md "wikilink") **PSPACE-완전**은 [복잡도 종류이다](../Page/복잡도_종류.md "wikilink"). [판정 문제는](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") **[PSPACE](../Page/PSPACE.md "wikilink")**에 들어 있고, 모든 PSPACE 문제가 이 문제로 [다항 시간 다대일 환산될](https://ko.wikipedia.org/wiki/다항_시간_다대일_환산 "wikilink") 수 있으면 PSPACE-완전이 된다. PSPACE-완전에 드는 문제는 PSPACE에서 가장 어려운 문제로 볼 수 있다. 이 문제들은 [P나](../Page/P_\(복잡도\).md "wikilink") [NP의](https://ko.wikipedia.org/wiki/NP_\(복잡도\) "wikilink") 범위 바깥에 있을 것으로 보이지만, 아직 증명되지는 않았다. PSPACE-완전이 [NC](../Page/NC_\(복잡도\).md "wikilink") 바깥에 있다는 것은 증명되었다.

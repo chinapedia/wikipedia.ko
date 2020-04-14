@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MGM-52 ](https://ko.wikipedia.org/wiki/MGM-52_).
+> This article is converted from Wikipedia: [MGM-52 랜스](https://ko.wikipedia.org/wiki/MGM-52_랜스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:M667-Lance-beyt-hatotchan-2.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:MGM-52_Lance.jpg "wikilink") 박물관에 전시된 MGM-52 랜스 미사일\]\] **MGM-52 랜스(Lance)** 미사일은 이동식 야전포병 전술 지대지 미사일 시스템이다. [W70](../Page/W70.md "wikilink") 핵탄두와 재래식 탄두를 운반하기 위해 [미 육군을](https://ko.wikipedia.org/wiki/미_육군 "wikilink") 위해 개발되었다.

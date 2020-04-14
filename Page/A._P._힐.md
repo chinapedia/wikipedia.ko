@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A. P. ](https://ko.wikipedia.org/wiki/A._P._).
+> This article is converted from Wikipedia: [A. P. 힐](https://ko.wikipedia.org/wiki/A._P._힐).
 
 
 **앰브로즈 파웰 힐**(Ambrose Powell Hill, [1825년](../Page/1825년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink")\~[1865년](../Page/1865년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink"))은 [미국 남북전쟁](https://ko.wikipedia.org/wiki/미국_남북전쟁 "wikilink") 중 활약한 [남군의](https://ko.wikipedia.org/wiki/남부동맹_육군 "wikilink") 장군이다.

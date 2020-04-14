@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(SSN-571\)](https://ko.wikipedia.org/wiki/USS__\(SSN-571\)).
+> This article is converted from Wikipedia: [USS 노틸러스 \(SSN-571\)](https://ko.wikipedia.org/wiki/USS_노틸러스_\(SSN-571\)).
 
 
 **USS *노틸러스* (SSN-571 USS Nautilus)**는 세계 최초의 [원자력 잠수함이다](https://ko.wikipedia.org/wiki/원자력_잠수함 "wikilink"). USS 노틸러스는 [1958년](../Page/1958년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") 세계최초로 [북극점](../Page/북극점.md "wikilink") 아래를 항해한 잠수함이기도 하다.

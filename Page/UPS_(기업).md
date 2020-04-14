@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UPS \(\)](https://ko.wikipedia.org/wiki/UPS_\(\)).
+> This article is converted from Wikipedia: [UPS \(기업\)](https://ko.wikipedia.org/wiki/UPS_\(기업\)).
 
 
 **UPS** 또는 **유피에스**(United Parcel Service, 유나이티드 파슬 서비스)는 국제 화물 운송을 주로 취급하는 세계적인 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이다. 본사는 [미국](../Page/미국.md "wikilink") [조지아주](../Page/조지아주.md "wikilink")의 샌디 스프링스에 두고 있다. 전 세계 200 여개의 국가에 91,700대의 차량과 500여대의 [항공기](../Page/항공기.md "wikilink") 등으로 하루 1,480만 개 이상의 화물을 취급하고 있으며 40만 명 이상의 직원이 있다.

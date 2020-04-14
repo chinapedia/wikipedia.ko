@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [Goto ](https://ko.wikipedia.org/wiki/Goto_).
+> This article is converted from Wikipedia: [Goto 문](https://ko.wikipedia.org/wiki/Goto_문).
 
 
-**goto 문**은 여러 [프로그래밍 언어에](../Page/프로그래밍_언어.md "wikilink") 등장하는 프로그램의 어느 부분에서 [행번호](https://ko.wikipedia.org/wiki/행번호 "wikilink")나 [레이블이](https://ko.wikipedia.org/wiki/레이블_\(전산학\) "wikilink") 있는 다른 부분으로 건너뛸 때 사용하는 명령이다. 프로그램의 흐름을 바꾸는 기본적인 명령이며, 다른 흐름 제어문도 컴파일러가 goto 문과 비슷하게 바꾼다.
+**goto 문**은 여러 [프로그래밍 언어에](../Page/프로그래밍_언어.md "wikilink") 등장하는 프로그램의 어느 부분에서 [행번호](https://ko.wikipedia.org/wiki/행번호 "wikilink")나 [레이블이](https://ko.wikipedia.org/wiki/레이블_\(전산학\) "wikilink") 있는 다른 부분으로 건너뛸 때(one-way transfer) 사용하는 명령이다. 프로그램의 흐름을 바꾸는 기본적인 명령이며, 다른 흐름 [제어문](https://ko.wikipedia.org/wiki/제어문 "wikilink")도 [컴파일러](../Page/컴파일러.md "wikilink")가 goto 문과 비슷하게 바꾼다.
 
 goto 문은 [포트란](../Page/포트란.md "wikilink"), [알골](https://ko.wikipedia.org/wiki/알골_프로그래밍_언어 "wikilink"), [코볼](../Page/코볼.md "wikilink"), [스노볼](https://ko.wikipedia.org/wiki/스노볼 "wikilink"), [베이직](../Page/베이직.md "wikilink"), [커먼 리스프](../Page/커먼_리스프.md "wikilink"), [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [D](../Page/D_\(프로그래밍_언어\).md "wikilink"), [파스칼](../Page/파스칼_\(프로그래밍_언어\).md "wikilink"), [펄](../Page/펄.md "wikilink"), [PHP](../Page/PHP.md "wikilink")7 등지에서 사용되며, 특히 [어셈블리에서](../Page/어셈블리어.md "wikilink") 많이 발견된다. 어셈블리어에서는 goto 대신에 BRA(branch에서 유래), [JMP](../Page/JMP_\(x86_명령어\).md "wikilink"), JUMP 등으로 쓰이기도 한다.
 
@@ -11,7 +11,9 @@ goto 문은 [포트란](../Page/포트란.md "wikilink"), [알골](https://ko.wi
 
 고급 언어에서 goto 문은 비판의 대상이 되어 왔는데, goto 문이 과도하게 사용되면 읽고 유지하기 힘든 [스파게티 코드가](https://ko.wikipedia.org/wiki/스파게티_코드 "wikilink") 나오기 쉽기 때문이다. [구조적 프로그래밍은](../Page/구조적_프로그래밍.md "wikilink") [1960년대](../Page/1960년대.md "wikilink")와 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")에 더 두드러졌는데, 많은 [컴퓨터 과학자들의](../Page/컴퓨터_과학자.md "wikilink") 결론은 프로그램이 항상 goto 문 대신 일명 ‘구조적’인 흐름 제어문([순환문](https://ko.wikipedia.org/wiki/순환문 "wikilink"), if-then-else문)을 사용해야 한다는 것이다.\[1\] 그러나 goto 문의 사용이 종종 나쁜 습관이긴 하지만, 많은 프로그래밍 언어에서 goto 문을 사용하지 않고는 간단히 되지 않는 경우(중첩 순환문을 빠져나갈 때나 [예외 처리할](../Page/예외_처리.md "wikilink") 때)가 있다고 주장하는 사람들이 있다.
 
-goto 문에 대한 한 가지 유명한 비판은 [1968년](../Page/1968년.md "wikilink")에 [에츠허르 데이크스트라의](../Page/에츠허르_데이크스트라.md "wikilink") 'goto 문의 해로움'\[2\] 이라는 서신이다. 이 서신에서 데이크스트라는 더 높은 수준의 언어에서는 goto 문을 제한하지 않으면 안된다고 했는데, 이것은 프로그램의 정확성을 분석하고 증명하는 것을(특히 순환문을 포함해서) 어렵게 하기 때문이라고 했다. [도널드 커누스의](https://ko.wikipedia.org/wiki/도널드_커누스 "wikilink") 'goto 문을 사용한 구조적 프로그래밍'\[3\] 에서는 goto의 적절한 위치를 고찰한다. 일반적으로 이것들은 특정 프로그래밍 구조가 없기 때문이다. 이런 경우들에서 goto 문은 항상 원하는 구조를 에뮬레이트 할 수 있고, 따라서 이것이 프로그래밍의 기본적인 요소의 하나라는 것이다. 다른 해법은 [매크로를](../Page/매크로_\(컴퓨터_과학\).md "wikilink") 이용하여 원하는 제어 구조를 만드는 것이다.([리스프](../Page/리스프.md "wikilink")와 그 변종이나 [포스에서는](https://ko.wikipedia.org/wiki/포스_프로그래밍_언어 "wikilink") 이렇게 해서 대부분의 일을 할 수 있다.)
+goto 문에 대한 한 가지 유명한 비판은 [1968년](../Page/1968년.md "wikilink")에 쓰여진 [에츠허르 데이크스트라의](../Page/에츠허르_데이크스트라.md "wikilink") 'goto 문의 해로움'\[2\] 이라는 서신에 쓰여있다. 이 서신에서 데이크스트라는 더 높은 수준의 언어에서 goto 문을 제한할 것을 주장했다. 이는 프로그램의 정확성을 분석하고 증명하는 것을(특히 순환문을 포함해서) 어렵게 하기 때문이라고 설명하였다.
+
+[도널드 커누스의](https://ko.wikipedia.org/wiki/도널드_커누스 "wikilink") 'goto 문을 사용한 구조적 프로그래밍'\[3\] 에서는 goto의 적절한 위치를 고찰한다. 일반적으로 이것들은 특정 프로그래밍 구조가 없기 때문이다. 이런 경우들에서 goto 문은 항상 원하는 구조를 에뮬레이트 할 수 있고, 따라서 이것이 프로그래밍의 기본적인 요소의 하나라는 것이다. 다른 해법은 [매크로를](../Page/매크로_\(컴퓨터_과학\).md "wikilink") 이용하여 원하는 제어 구조를 만드는 것이다.([리스프](../Page/리스프.md "wikilink")와 그 변종이나 [포스에서는](https://ko.wikipedia.org/wiki/포스_프로그래밍_언어 "wikilink") 이렇게 해서 대부분의 일을 할 수 있다.)
 
 ## 변형
 

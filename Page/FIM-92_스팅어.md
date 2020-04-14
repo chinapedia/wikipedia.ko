@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIM-92 ](https://ko.wikipedia.org/wiki/FIM-92_).
+> This article is converted from Wikipedia: [FIM-92 스팅어](https://ko.wikipedia.org/wiki/FIM-92_스팅어).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Stinger_Missile_Team.JPEG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:111105-F-PM120-399_\(6331579049\).jpg "wikilink")\]\]

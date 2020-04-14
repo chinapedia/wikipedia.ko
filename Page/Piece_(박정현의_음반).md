@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Piece \( \)](https://ko.wikipedia.org/wiki/Piece_\(_\)).
+> This article is converted from Wikipedia: [Piece \(박정현의 음반\)](https://ko.wikipedia.org/wiki/Piece_\(박정현의_음반\)).
 
 
 《***Piece***》는 가수 [박정현](../Page/박정현.md "wikilink")의 첫 정규 음반이다. 1998년 02월에 DMR에서 발매하였다.

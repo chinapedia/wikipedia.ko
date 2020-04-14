@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [인천 유나이티드 FC](https://ko.wikipedia.org/wiki/인천_유나이티드_FC).
 
 
 **인천 유나이티드 FC**(, 인천 유나이티드 축구단)는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink") [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") 소속의 프로[축구](../Page/축구.md "wikilink")단이다. [안상수](../Page/안상수_\(1946년_5월\).md "wikilink") 전 인천시장의 의지로, 인천광역시의 지자체 및 시민이 중심이 되어 창단한 시민구단이다. [2003년](../Page/2003년.md "wikilink")에 팀이 창단해 [2004 시즌부터](../Page/K리그_2004.md "wikilink") 리그에 참가하고 있다.\[1\] 홈 경기장은 인천광역시 남구 문학동에 있는 [인천문학경기장](../Page/인천문학경기장.md "wikilink")을 [2011 시즌까지](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink") 사용했으며, [2012 시즌부터](https://ko.wikipedia.org/wiki/K리그_2012 "wikilink") 새로 지은 [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink")을 홈 경기장으로 쓰고 있다. [K리그](../Page/K리그.md "wikilink") 시도민구단 가운데 유일하게 한번도 강등없이 1부 리그를 지키고있다.
@@ -640,7 +640,8 @@
 <td><p>2019/05/14</p></td>
 <td><p>2020/01/02</p></td>
 <td><p>2019</p></td>
-<td></td>
+<td><p>2019 시즌 후, 췌장암으로 사임<br />
+(사임 후, 인천의 명예감독으로 선임)</p></td>
 </tr>
 <tr class="even">
 <td><div style="text-align: center;">

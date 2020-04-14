@@ -63,7 +63,7 @@ M24A2형은 [2006년](../Page/2006년.md "wikilink") [2월](../Page/2월.md "wik
 
   - [현대 화기](https://web.archive.org/web/20161128204129/http://world.guns.ru/sniper/sn11-e.htm/)
 
-  - [스나이퍼 센트럴](http://www.snipercentral.com/m24.htm)
+  - [스나이퍼 센트럴](https://web.archive.org/web/20061223121521/http://www.snipercentral.com/m24.htm)
 
   -
   -

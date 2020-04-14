@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Berryz](https://ko.wikipedia.org/wiki/Berryz).
+> This article is converted from Wikipedia: [Berryz코보](https://ko.wikipedia.org/wiki/Berryz코보).
 
 
 **Berryz코보**(Berryz工房, 베리즈코보)는 [헬로\! 프로젝트에](../Page/헬로!_프로젝트.md "wikilink") 소속된 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 하로프로 멤버가 사용하는 약칭은 **베리즈**이다. [2015년](../Page/2015년.md "wikilink") [3월 3일을](../Page/3월_3일.md "wikilink") 기해 무기한 활동 정지를 했다.

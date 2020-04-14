@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ , UFO ](https://ko.wikipedia.org/wiki/_,_UFO_).
+> This article is converted from Wikipedia: [이리야의 하늘, UFO의 여름](https://ko.wikipedia.org/wiki/이리야의_하늘,_UFO의_여름).
 
 
 《**이리야의 하늘, UFO의 여름**》()은 [아키야마 미즈히토의](https://ko.wikipedia.org/wiki/아키야마_미즈히토 "wikilink") 작품으로 이야기는 전형적인 “Boy Meet Girl(소녀, 소년을 만나다)”식의 내용을 내세우고 있지만, 전체적으로는 학원 [SF](https://ko.wikipedia.org/wiki/과학_소설 "wikilink") [미스테리](https://ko.wikipedia.org/wiki/미스테리 "wikilink")물이다. 원작인 소설은 전 4권으로 완결을 맺었고, 애니메이션(OVA)는 전 6화로 완결되었다. 또한 라디오 드라마나 게임으로서도 방송/발매되어 있다. [세카이계](../Page/세카이계.md "wikilink")의 대표작으로 손꼽히는 작품이다.

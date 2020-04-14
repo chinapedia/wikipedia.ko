@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CSI: ](https://ko.wikipedia.org/wiki/CSI:_).
+> This article is converted from Wikipedia: [CSI: 뉴욕](https://ko.wikipedia.org/wiki/CSI:_뉴욕).
 
 
 《**CSI: 뉴욕**》()은 [2004년](../Page/2004년.md "wikilink") [9월 22일에](../Page/9월_22일.md "wikilink") 시작해 [2013년](../Page/2013년.md "wikilink") [2월 22일에](../Page/2월_22일.md "wikilink") 종영된 [미국](../Page/미국.md "wikilink")의 과학수사 드라마이다. 본작 [CSI 과학수사대로부터의](https://ko.wikipedia.org/wiki/CSI_과학수사대 "wikilink") 2번째 스핀오프 작품으로, [CSI 마이애미에서](https://ko.wikipedia.org/wiki/CSI_마이애미 "wikilink") 호레이쇼 케인이 마이애미에서 [뉴욕으로](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 살인 사건의 수사를 위해 방문한 에피소드에서부터 탄생하였다. CSI뉴욕은 다른 두 CSI 작품들보다 참혹하다. 시즌 1 동안 파란색을 키 컬러로 사용했으나, [CBS](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 사장 레스 문베스의 요구에 따라 드라마가 덜 차갑게 보이도록 시즌 2부터 파란 색을 키 컬러로 사용하지 않았다. [2005년](../Page/2005년.md "wikilink") [11월 7일의](../Page/11월_7일.md "wikilink") [CSI 마이애미](https://ko.wikipedia.org/wiki/CSI_마이애미 "wikilink") (시즌 4 제7화)와 [11월 9일의](../Page/11월_9일.md "wikilink") CSI 뉴욕 (시즌 2 제7화)에서는 크로스오버가 기획돼, 추락한 비행기와 도주한 연속살인범을 둘러싼 쌍방의 캐스트가 함께 연기했다. 그리고 [2009년](../Page/2009년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") [CSI 마이애미](https://ko.wikipedia.org/wiki/CSI_마이애미 "wikilink") (시즌 8 제7화)와 [11월 11일](../Page/11월_11일.md "wikilink") CSI 뉴욕 (시즌 6 제7화), [11월 13일](../Page/11월_13일.md "wikilink") [CSI: 과학수사대](../Page/CSI:_과학수사대.md "wikilink") (혹은 라스베이거스) (시즌 10 제7화)에서는 최초로 트리플 크로스오버가 기획되었다. 주제가는 다른 CSI 작품과 같이 [더 후의](../Page/더_후.md "wikilink") 노래가 사용되었다. 이 작품에는 〈Teenage Wasteland〉로 잘못 알려져 있는 〈Baba O'Riley〉를 주제가로 사용하고 있다. 미국에서는 뉴욕을 무대로 한 [NBC](../Page/NBC.md "wikilink")의 범죄 드라마 [로 앤 오더와](https://ko.wikipedia.org/wiki/로_앤_오더 "wikilink") 같은 시간대에 방송되고 있다. [대한민국](../Page/대한민국.md "wikilink")에서는 [OCN에서](https://ko.wikipedia.org/wiki/오리온_시네마_네트워크 "wikilink") 방영하였고, [2007년](../Page/2007년.md "wikilink") [9월 15일부터](../Page/9월_15일.md "wikilink") [2009년](../Page/2009년.md "wikilink") [11월 8일까지](../Page/11월_8일.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 시즌 4까지 [한국어](../Page/한국어.md "wikilink") 더빙 버전을 방영 하였다. [2012년](../Page/2012년.md "wikilink") 시즌 9를 마지막으로 종영을 하였다.
@@ -9,7 +9,7 @@
 
 ## 등장인물
 
-  - [게리 시니스](../Page/게리_시니스.md "wikilink") ([Gary Sinise](https://ko.wikipedia.org/wiki/:en:Gary_Sinise "wikilink")) - **맥 테일러** (Mac Taylor), CSI Level 3 (반장)
+  - [게리 시니스](../Page/게리_시니스.md "wikilink") ([Gary Sinise](https://ko.wikipedia.org/wiki/:en:Gary_Sinise "wikilink")) - **맥 테일러**(Mac Taylor), CSI Level 3 (반장)
 
 <!-- end list -->
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [멜리나 카나카레데스](https://ko.wikipedia.org/wiki/멜리나_카나카레데스 "wikilink") ([Melina Kanakaredes](https://ko.wikipedia.org/wiki/:en:Melina_Kanakaredes "wikilink")) - **스텔라 보나세라** (Stella Bonasara) (시즌 1 \~ 시즌 6), CSI Level 3
+  - [멜리나 카나카레데스](https://ko.wikipedia.org/wiki/멜리나_카나카레데스 "wikilink") ([Melina Kanakaredes](https://ko.wikipedia.org/wiki/:en:Melina_Kanakaredes "wikilink")) - **스텔라 보나세라**(Stella Bonasara) (시즌 1 \~ 시즌 6), CSI Level 3
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - [클레어 폴라니](https://ko.wikipedia.org/wiki/클레어_폴라니 "wikilink") ([Claire Forlani](https://ko.wikipedia.org/wiki/:en:Claire_Forlani "wikilink")) - **페이튼 드리스콜** (Dr. Peyton Driscoll) (시즌 3 \~ 시즌4, 시즌 6) CSI ME (검시관)
+  - [클레어 폴라니](https://ko.wikipedia.org/wiki/클레어_폴라니 "wikilink") ([Claire Forlani](https://ko.wikipedia.org/wiki/:en:Claire_Forlani "wikilink")) - **페이튼 드리스콜**(Dr. Peyton Driscoll) (시즌 3 \~ 시즌4, 시즌 6) CSI ME (검시관)
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [셀라 워드](https://ko.wikipedia.org/wiki/셀라_워드 "wikilink") ([Sela Ward](https://ko.wikipedia.org/wiki/:en:Sela_Ward "wikilink")) - **조 댄빌** (Jo Danville) (시즌 7 \~ 9), CSI Level 3
+  - [셀라 워드](https://ko.wikipedia.org/wiki/셀라_워드 "wikilink") ([Sela Ward](https://ko.wikipedia.org/wiki/:en:Sela_Ward "wikilink")) - **조 댄빌**(Jo Danville) (시즌 7 \~ 9), CSI Level 3
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@
 
 <!-- end list -->
 
-  - [카마인 지오비나조](https://ko.wikipedia.org/wiki/카마인_지오비나조 "wikilink") ([Carmine Giovinazzo](https://ko.wikipedia.org/wiki/:en:Carmine_Giovinazzo "wikilink")) - **대니 매서** (Danny Messer), CSI Level 3
+  - [카마인 지오비나조](https://ko.wikipedia.org/wiki/카마인_지오비나조 "wikilink") ([Carmine Giovinazzo](https://ko.wikipedia.org/wiki/:en:Carmine_Giovinazzo "wikilink")) - **대니 매서**(Danny Messer), CSI Level 3
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - [바네사 펄리토](https://ko.wikipedia.org/wiki/바네사_펄리토 "wikilink") ([Vanessa Ferlito](https://ko.wikipedia.org/wiki/:en:Vanessa_Ferlito "wikilink")) - **에이든 번** (Aiden Burn) (시즌 1 \~ 시즌 2), CSI Level 3
+  - [바네사 펄리토](https://ko.wikipedia.org/wiki/바네사_펄리토 "wikilink") ([Vanessa Ferlito](https://ko.wikipedia.org/wiki/:en:Vanessa_Ferlito "wikilink")) - **에이든 번**(Aiden Burn) (시즌 1 \~ 시즌 2), CSI Level 3
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
 
 <!-- end list -->
 
-  - [안나 벨크냅](https://ko.wikipedia.org/wiki/안나_벨크냅 "wikilink") ([Anna Belknap](https://ko.wikipedia.org/wiki/:en:Anna_Belknap "wikilink")) - **린지 몬로**(Lindsay Monroe) 혹은 **린지 매서** (Lindsay Messer) (시즌 2 \~), CSI Level 2
+  - [안나 벨크냅](https://ko.wikipedia.org/wiki/안나_벨크냅 "wikilink") ([Anna Belknap](https://ko.wikipedia.org/wiki/:en:Anna_Belknap "wikilink")) - **린지 몬로**(Lindsay Monroe) 혹은 **린지 매서**(Lindsay Messer) (시즌 2 \~), CSI Level 2
 
 <!-- end list -->
 
@@ -73,7 +73,7 @@
 
 <!-- end list -->
 
-  - [로버트 조이](https://ko.wikipedia.org/wiki/로버트_조이 "wikilink") ([Robert Joy](https://ko.wikipedia.org/wiki/:en:Robert_Joy "wikilink")) - **시드 해머백** (Sid hammerback) (시즌 2 \~ 9), 검시관
+  - [로버트 조이](https://ko.wikipedia.org/wiki/로버트_조이 "wikilink") ([Robert Joy](https://ko.wikipedia.org/wiki/:en:Robert_Joy "wikilink")) - **시드 해머백**(Sid hammerback) (시즌 2 \~ 9), 검시관
 
 <!-- end list -->
 
@@ -82,16 +82,16 @@
 
 <!-- end list -->
 
-  - [에이제이 버클리](https://ko.wikipedia.org/wiki/에이제이_버클리 "wikilink") ([A. J. Buckley](https://ko.wikipedia.org/wiki/:en:A._J._Buckley "wikilink")) - **아담 로스** (Adam Ross) (시즌 2 \~ 9), 컴퓨터와 관련된 사이버 전문 수사관.
+  - [에이제이 버클리](https://ko.wikipedia.org/wiki/에이제이_버클리 "wikilink") ([A. J. Buckley](https://ko.wikipedia.org/wiki/:en:A._J._Buckley "wikilink")) - **아담 로스**(Adam Ross) (시즌 2 \~ 9), 컴퓨터와 관련된 사이버 전문 수사관.
 
 <!-- end list -->
 
   -
-    전문 분야는 디지털 기기 및 기술을 활용한 증거 분석이며 [애리조나주](../Page/애리조나주.md "wikilink") [피닉스](https://ko.wikipedia.org/wiki/피닉스 "wikilink") 출신 수사관으로 유년기에 괴로운 경험을 겪어서 그런지 강박 장애를 가지고 있다.
+    전문 분야는 디지털 기기 및 기술을 활용한 증거 분석이며 [애리조나주](../Page/애리조나주.md "wikilink") [피닉스](../Page/피닉스.md "wikilink") 출신 수사관으로 유년기에 괴로운 경험을 겪어서 그런지 강박 장애를 가지고 있다.
 
 <!-- end list -->
 
-  - [베스 올](https://ko.wikipedia.org/wiki/베스_올 "wikilink") ([Bess Wohl](https://ko.wikipedia.org/wiki/:en:Bess_Wohl "wikilink")) - **켄달 노박** (Kendall Novak) (시즌 4), 보조 수사관.
+  - [베스 올](https://ko.wikipedia.org/wiki/베스_올 "wikilink") ([Bess Wohl](https://ko.wikipedia.org/wiki/:en:Bess_Wohl "wikilink")) - **켄달 노박**(Kendall Novak) (시즌 4), 보조 수사관.
 
 <!-- end list -->
 
@@ -100,7 +100,7 @@
 
 <!-- end list -->
 
-  - [힐 하퍼](https://ko.wikipedia.org/wiki/힐_하퍼 "wikilink") ([Hill Harper](https://ko.wikipedia.org/wiki/:en:Hill_Harper "wikilink")) - **쉘던 호크스** (Sheldon Hawkes), CSI Level 2, 前검시관, 전문분야 : 법의학
+  - [힐 하퍼](https://ko.wikipedia.org/wiki/힐_하퍼 "wikilink") ([Hill Harper](https://ko.wikipedia.org/wiki/:en:Hill_Harper "wikilink")) - **쉘던 호크스**(Sheldon Hawkes), CSI Level 2, 前검시관, 전문분야 : 법의학
 
 <!-- end list -->
 
@@ -109,7 +109,7 @@
 
 <!-- end list -->
 
-  - [에디 케이힐](https://ko.wikipedia.org/wiki/에디_케이힐 "wikilink") ([Eddie Cahill](https://ko.wikipedia.org/wiki/:en:Eddie_Cahill "wikilink")) - **돈 플랙** (Don Flack), 뉴욕 경찰청 형사
+  - [에디 케이힐](https://ko.wikipedia.org/wiki/에디_케이힐 "wikilink") ([Eddie Cahill](https://ko.wikipedia.org/wiki/:en:Eddie_Cahill "wikilink")) - **돈 플랙**(Don Flack), 뉴욕 경찰청 형사
 
 <!-- end list -->
 
@@ -118,7 +118,7 @@
 
 <!-- end list -->
 
-  - [엠마누엘 보기어](https://ko.wikipedia.org/wiki/엠마누엘_보기어 "wikilink") ([Emmanuelle Vaugier](https://ko.wikipedia.org/wiki/:en:Emmanuelle_Vaugier "wikilink")) - **제스 앤젤** <small>혹은</small> **제시카 엔젤** (<small>Jess Angel or Jessica Angel</small>), 뉴욕경찰청 형사 (시즌 3 \~ 시즌 5)
+  - [엠마누엘 보기어](https://ko.wikipedia.org/wiki/엠마누엘_보기어 "wikilink") ([Emmanuelle Vaugier](https://ko.wikipedia.org/wiki/:en:Emmanuelle_Vaugier "wikilink")) - **제스 앤젤** <small>혹은</small> **제시카 엔젤**(<small>Jess Angel or Jessica Angel</small>), 뉴욕경찰청 형사 (시즌 3 \~ 시즌 5)
 
 <!-- end list -->
 

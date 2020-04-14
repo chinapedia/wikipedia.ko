@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [첼시 FC](https://ko.wikipedia.org/wiki/첼시_FC).
 
 
 **첼시 FC**(, 첼시 축구단)은 [잉글랜드](../Page/잉글랜드.md "wikilink") [런던](../Page/런던.md "wikilink")을 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. [1905년](../Page/1905년.md "wikilink")에 창단했으며 현재 [잉글리시 프리미어리그에](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 소속되어 있다. 더 블루스(The Blues)라는 별칭으로도 불린다. 구단 명칭은 런던 남서부 [첼시](https://ko.wikipedia.org/wiki/첼시_\(런던\) "wikilink") 지역명을 사용하지만, 홈 구장은 [첼시](https://ko.wikipedia.org/wiki/첼시_\(런던\) "wikilink") 인근 [풀럼](../Page/풀럼.md "wikilink")에 위치한 41,663명을 입장시킬 수 있는 규모의 [스탬퍼드 브릿지이다](https://ko.wikipedia.org/wiki/스탬퍼드_브릿지 "wikilink").\[1\]
@@ -49,7 +49,7 @@
 
 ### 2003년 이후의 첼시
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Chelsea_league_progress_pic.PNG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Chelsea_UCL_Winners_2012.jpg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:ChelseaFC_League_Performance.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Chelsea_UCL_Winners_2012.jpg "wikilink")
 
 2003년 6월, 첼시는 [러시아](../Page/러시아.md "wikilink")의 석유 재벌인 [로만 아브라모비치에게](../Page/로만_아브라모비치.md "wikilink") 1억 4천만 파운드에 매각되었다.\[31\] 매각 이후 선수단의 개편을 위해 1억 파운드의 돈이 쓰였지만, 팀이 무관에 그치자 라니에리는 경질되었다.\[32\] 대신 그 자리는 [FC 포르투를](../Page/FC_포르투.md "wikilink") [UEFA 챔피언스리그에서](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2002-03 "wikilink") 우승으로 이끌었던 [포르투갈](../Page/포르투갈.md "wikilink") 출신의 감독인 [조세 무리뉴에게](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink") 돌아갔다.\[33\]
 
@@ -67,11 +67,9 @@
 
 그러나 2012-13시즌 도중, 첼시는 성적 부진을 이유로 디 마테오 감독을 경질하였다.\[58\] 후임 감독으로는 [라파엘 베니테스가](../Page/라파엘_베니테스.md "wikilink") 시즌 종료까지 감독 대행 자격으로 부임하였다. 베니테스의 첼시는 [UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2012-13 "wikilink") 결승에 진출하여 [SL 벤피카를](../Page/SL_벤피카.md "wikilink") 2-1로 물리치고 우승 타이틀을 차지하였다.\[59\]
 
-2013년 6월 3일, 첼시는 [조세 무리뉴가](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink") 다시 팀으로 복귀했다는 소식을 타진하였다.\[60\] 2014-15시즌, 첼시는 8년만에 [풋볼 리그 컵에서](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 우승하였고,\[61\] [리그에서도](../Page/프리미어리그_2014-15.md "wikilink") 승점 87점으로 우승을 거두었다.\[62\] 그러나 다음 시즌, 부진이 장기화되자 구단 측은 결국 무리뉴 감독을 경질했고, [거스 히딩크가](../Page/거스_히딩크.md "wikilink") 임시 감독의 자격으로 다시 부임하였다.\[63\] 그의 후임으로는 [이탈리아 축구 국가대표팀을](../Page/이탈리아_축구_국가대표팀.md "wikilink") 이끌었던 [안토니오 콘테가](../Page/안토니오_콘테.md "wikilink") 선임되었다. 2016-17 시즌 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에서 우승하였다. 2017-18 시즌에는 FA컵 우승을 차지하였다.
+2013년 6월 3일, 첼시는 [조세 무리뉴가](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink") 다시 팀으로 복귀했다는 소식을 타진하였다.\[60\] 2014-15시즌, 첼시는 8년만에 [풋볼 리그 컵에서](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 우승하였고,\[61\] [리그에서도](../Page/프리미어리그_2014-15.md "wikilink") 승점 87점으로 우승을 거두었다.\[62\] 그러나 다음 시즌, 부진이 장기화되자 구단 측은 결국 무리뉴 감독을 경질했고, [거스 히딩크가](../Page/거스_히딩크.md "wikilink") 임시 감독의 자격으로 다시 부임하였다.\[63\] 그의 후임으로는 [이탈리아 축구 국가대표팀을](../Page/이탈리아_축구_국가대표팀.md "wikilink") 이끌었던 [안토니오 콘테가](../Page/안토니오_콘테.md "wikilink") 선임되었다. 콘테의 지휘하에 첼시는 2016-17시즌 [프리미어리그](../Page/프리미어리그_2016-17.md "wikilink") 우승과 이듬해 FA컵 우승을 차지하였다.
 
-18-19 시즌을 앞두고, 콘테의 후임으로 [마우리치오 사리가](../Page/마우리치오_사리.md "wikilink") 첼시 감독직을 맡아 시즌에 임했는데, 리그컵 결승 때 주전 골키퍼인 케파의 교체 거부 사건으로 리그컵 준우승을 거둬 위기를 맞았지만, 리그 3위를 기록하여 챔피언스리그 진출을 확보하였고, 2019년 5월 30일(한국시간 새벽)에 있었던 유로파리그 결승에서 아스날을 4-1로 누르고, 6년 만에 우승을 차지하였다. 그 후, 사리 감독이 [유벤투스](../Page/유벤투스_FC.md "wikilink") 감독으로 부임이 확정되어 1년 만에 첼시를 떠났다.
-
-2019년 7월 4일(한국시간)에 첼시는 그의 후임으로 과거 미들라이커라는 별명으로 전성기를 이뤘던 [프랭크 램퍼드를](https://ko.wikipedia.org/wiki/프랭크_램퍼드 "wikilink") 3년 계약을 맺고, 첼시 감독으로 선임하였다. 램퍼드가 새로 부임한 첼시는 시즌 초반에는 주축이였던 [다비드 루이스가](../Page/다비드_루이스.md "wikilink") [아스널로](../Page/아스널_FC.md "wikilink"), [에당 아자르가](https://ko.wikipedia.org/wiki/에당_아자르 "wikilink") [레알 마드리드로](https://ko.wikipedia.org/wiki/레알_마드리드 "wikilink") 이적하였고, 선수 영입 금지 징계를 받은데다가 2019년 8월 12일(한국시간)에 있었던 맨유 원정에서 0-4 대패를 당하는 등 출발이 좋지 않았으나, 2019년 8월 24일에 노리치를 상대로 [태미 에이브러햄](https://ko.wikipedia.org/wiki/태미_에이브러햄 "wikilink"), [메이슨 마운트](../Page/메이슨_마운트.md "wikilink") 등 유망주 선수들과 임대 복귀한 선수들을 대거 기용하여, 리그 첫 승을 이끌어냈다. 이 날 승리를 한 첼시는 25년 만에 가장 어린 선발 라인업(24세 208일)으로 가진 노리치 원정에서 값진 시즌 첫 승을 거뒀다. 그 후, 첼시는 램퍼드의 지휘 아래 7연승을 거두고 리그 4위를 달리는 등 쾌조의 스타트를 알렸다.
+2018-19시즌, 콘테가 해임되자 그 자리는 또 다른 이탈리아 출신의 감독인 [마우리치오 사리에게](../Page/마우리치오_사리.md "wikilink") 돌아갔다. 사리는 [리그](https://ko.wikipedia.org/wiki/프리미어리그_2018-19 "wikilink") 3위와 [유로파리그](../Page/2018-19년_UEFA_유로파리그.md "wikilink") 우승을 달성하였으나, 1년 만에 팀을 떠났다. 2019-20시즌을 앞두고 첼시는 [프랭크 램퍼드를](https://ko.wikipedia.org/wiki/프랭크_램퍼드 "wikilink") 감독으로 선임하였다.
 
 ## 경기장
 

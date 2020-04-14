@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PSG1](https://ko.wikipedia.org/wiki/_PSG1).
+> This article is converted from Wikipedia: [헤클러운트코흐 PSG1](https://ko.wikipedia.org/wiki/헤클러운트코흐_PSG1).
 
 
 **HK PSG1**()은 [독일](../Page/독일.md "wikilink")의 [헤클러&코흐](https://ko.wikipedia.org/wiki/헤클러&코흐 "wikilink")사에 의해 만들어진 [반자동 저격총으로](https://ko.wikipedia.org/wiki/반자동_저격총 "wikilink") 자회사의 [G3](https://ko.wikipedia.org/wiki/헤클러&코흐_G3 "wikilink") 계열의 저격총인 G3SG1를 기반으로 하고 있다.
@@ -38,6 +38,6 @@
 
   - [현대 화기 - PSG1](https://web.archive.org/web/20090308101406/http://world.guns.ru/sniper/sn14-e.htm)
 
-  - [스나이퍼센트럴 - PSG1](http://www.snipercentral.com/psg1.htm)
+  - [스나이퍼센트럴 - PSG1](https://web.archive.org/web/20100726120805/http://www.snipercentral.com/psg1.htm)
 
 [분류:7.62 mm 화기](https://ko.wikipedia.org/wiki/분류:7.62_mm_화기 "wikilink") [분류:저격소총](https://ko.wikipedia.org/wiki/분류:저격소총 "wikilink") [분류:독일의 반자동 소총](https://ko.wikipedia.org/wiki/분류:독일의_반자동_소총 "wikilink") [PSG1](https://ko.wikipedia.org/wiki/분류:헤클러_운트_코흐_화기 "wikilink")

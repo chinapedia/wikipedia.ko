@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFI \(\)](https://ko.wikipedia.org/wiki/AFI_\(\)).
+> This article is converted from Wikipedia: [AFI \(밴드\)](https://ko.wikipedia.org/wiki/AFI_\(밴드\)).
 
 
 **AFI**()는 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [유키아](https://ko.wikipedia.org/wiki/유키아 "wikilink") 출신 [펑크 록](../Page/펑크_록.md "wikilink") 밴드이다.

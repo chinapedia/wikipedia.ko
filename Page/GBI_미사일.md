@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GBI ](https://ko.wikipedia.org/wiki/GBI_).
+> This article is converted from Wikipedia: [GBI 미사일](https://ko.wikipedia.org/wiki/GBI_미사일).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MDA_interceptor_on_launch_pad_ift107.jpg "wikilink") **GBI 미사일**은 [ICBM](https://ko.wikipedia.org/wiki/ICBM "wikilink")을 중간단계에서 요격하는 미국 [GMD 시스템의](https://ko.wikipedia.org/wiki/GMD_시스템 "wikilink") 요격 미사일이다. [제100 미사일 방어 여단이](https://ko.wikipedia.org/wiki/제100_미사일_방어_여단 "wikilink") GMD 임무를 위해 창설되었다.

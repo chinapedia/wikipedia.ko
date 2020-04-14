@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DS ](https://ko.wikipedia.org/wiki/_DS_).
+> This article is converted from Wikipedia: [닌텐도 DS 라이트](https://ko.wikipedia.org/wiki/닌텐도_DS_라이트).
 
 
 **닌텐도 DS 라이트**()는 [닌텐도](../Page/닌텐도.md "wikilink")의 휴대용 게임기인 [닌텐도 DS의](../Page/닌텐도_DS.md "wikilink") 상위 모델에 해당하는 [휴대용 게임기이다](../Page/휴대용_게임기.md "wikilink"). DS에 비하여 크기와 무게가 줄어든 것에서 그치지 않고, 터치펜의 개량, 화면 밝기 개량 등이 이루어졌다.

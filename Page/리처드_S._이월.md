@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [리처드 S. 이월](https://ko.wikipedia.org/wiki/리처드_S._이월).
 
 
 **리처드 스토더트 이월**(Richard Stoddert Ewell, [1817년](../Page/1817년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink") \~ [1872년](../Page/1872년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink"))은 미국의 군인으로 [미국 남북전쟁](https://ko.wikipedia.org/wiki/미국_남북전쟁 "wikilink") 전 연방군 장교로 근무하다가 남부가 연방 탈퇴를 속속 선언하자 사표를 제출하고 [남군에](https://ko.wikipedia.org/wiki/남부동맹_육군 "wikilink") 입대했다. 전쟁 초기에는 [스톤월 잭슨](../Page/스톤월_잭슨.md "wikilink") 휘하에서 전투 경력과 명성을 쌓았으며, 중후반기에는 [로버트 리의](https://ko.wikipedia.org/wiki/로버트_리 "wikilink") [북버지니아군](https://ko.wikipedia.org/wiki/북버지니아군 "wikilink")에서 군단장으로 많은 활약을 펼쳤다. 그러나, [게티스버그 전투와](https://ko.wikipedia.org/wiki/게티스버그_전투 "wikilink") [스팟실베이니아 전투에서](https://ko.wikipedia.org/wiki/스팟실베이니아_전투 "wikilink") 그가 한 행동에 대한 논란으로 종전 후 옛 전우들로부터 많은 비난을 받기도 했다.

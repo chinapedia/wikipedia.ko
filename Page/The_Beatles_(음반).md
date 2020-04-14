@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Beatles \(\)](https://ko.wikipedia.org/wiki/The_Beatles_\(\)).
+> This article is converted from Wikipedia: [The Beatles \(음반\)](https://ko.wikipedia.org/wiki/The_Beatles_\(음반\)).
 
 
 《**The Beatles**》는 [비틀즈](../Page/비틀즈.md "wikilink")의 아홉 번째 정규 앨범이다. 보통 "**White Album**"이라 불리기도 하는데, 이는 앨범 커버에 흰색 바탕과 함께 **The Beatles**라는 글자만 쓰여 있기 때문이다. 또한 실제로 흰색 LP로 된 앨범도 존재했었다. 이는 대중 예술가 [리처드 해밀턴이](https://ko.wikipedia.org/wiki/리처드_해밀턴 "wikilink") 디자인한 것이다. 이 앨범은 비틀즈의 인기가 최절정에 달해있을 때 발매되었고, 대중 음악계에 큰 업적을 남긴 앨범으로 추앙받는다. 본래 제목은 《A Doll's House》였다.

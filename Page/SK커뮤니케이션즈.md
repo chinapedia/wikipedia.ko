@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK커뮤니케이션즈](https://ko.wikipedia.org/wiki/SK커뮤니케이션즈).
 
 
-**에스케이커뮤니케이션즈㈜**(, 약식 명칭 **SK컴즈**)는 [대한민국](../Page/대한민국.md "wikilink")의 [인터넷](../Page/인터넷.md "wikilink") 서비스 기업이다. 검색 포털 [네이트](../Page/네이트.md "wikilink"), 소셜 네트워크 서비스 [싸이월드](../Page/싸이월드.md "wikilink"), 인스턴트 메신저 [네이트온](https://ko.wikipedia.org/wiki/네이트온 "wikilink"), 모바일 사진편집/공유 애플리케이션 [싸이메라](../Page/싸이메라.md "wikilink"), 및 폐쇄형 모바일 SNS 데이비 등을 제공하고 있다.
+**에스케이커뮤니케이션즈㈜**(, 약식 명칭 **SK컴즈**)는 [대한민국](../Page/대한민국.md "wikilink")의 [인터넷](../Page/인터넷.md "wikilink") 서비스 기업이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") 소월로2길 30 (남대문로5가, 티타워)에 있으며 검색 포털 [네이트](../Page/네이트.md "wikilink"), 소셜 네트워크 서비스 [싸이월드](../Page/싸이월드.md "wikilink"), 인스턴트 메신저 [네이트온](https://ko.wikipedia.org/wiki/네이트온 "wikilink"), 모바일 사진편집/공유 애플리케이션 [싸이메라](../Page/싸이메라.md "wikilink"), 및 폐쇄형 모바일 SNS 데이비 등을 제공하고 있다.
 
 [1996년](../Page/1996년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") **㈜지식발전소**로 설립하였으며, 1997년 3월 도시생활문화정보를 제공하는 '시티스케이프' 사이트를 개설하고 11월에 부설 정보통신연구소를 설립하였다. 1999년 11월 ㈜코난테크놀로지와 검색엔진 [엠파스](../Page/엠파스.md "wikilink")를 공동 개발하였으며, [2003년](../Page/2003년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") 코스닥에 상장 및 매매개시 되었다. 2005년 3월 11일, 서비스명과 동일한 **㈜엠파스**로 상호를 변경하였다. 2006년 10월 [에스케이커뮤니케이션즈(주)에](https://ko.wikipedia.org/wiki/SK커뮤니케이션즈_\(1999년\) "wikilink") 피인수되어 자회사로 편입되었다. 2007년 6월 [에스케이커뮤니케이션즈(주)](https://ko.wikipedia.org/wiki/SK커뮤니케이션즈_\(1999년\) "wikilink") 합병이 결의되어\[1\] 11월 2일, [에스케이커뮤니케이션즈(주)를](https://ko.wikipedia.org/wiki/SK커뮤니케이션즈_\(1999년\) "wikilink") 피흡수합병하며 현 상호로 변경하였다.
 

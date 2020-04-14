@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BL \(\)](https://ko.wikipedia.org/wiki/BL_\(\)).
+> This article is converted from Wikipedia: [BL \(장르\)](https://ko.wikipedia.org/wiki/BL_\(장르\)).
 
 
 <table>
@@ -17,7 +17,7 @@
 
 1970년대에는 소년 사이의 탐미적인 애정을 다룬 만화를 잡지 '[주네](../Page/주네_\(잡지\).md "wikilink")(JUNE)'의 명칭을 따와서 ‘주네’라고 불렀으며, 1980년대 중반 이후에는 소년들의 사랑을 다루는 장르를 나타내는 말로서 ‘[야오이](../Page/야오이.md "wikilink")’라는 단어가 폭넓게 쓰였다.\[2\] 넓은 의미로서의 [야오이](../Page/야오이.md "wikilink")는 BL, 주네, 패러야오이(パロやおい), 또는 동인 상업 전체를 총칭하는 것이었으나, 2000년대 이후 BL이 ‘야오이’를 사실상 대체하고 있다.\[3\] 이는 ‘야오이’라는 비교적 직접적인 의미의 단어보다, BL을 어감이 부드러운 차용어로 사용하는 경우가 많았기 때문이다.
 
-BL과 유사한 단어로 [소년애](https://ko.wikipedia.org/wiki/소년애 "wikilink"), [쇼타콘](https://ko.wikipedia.org/wiki/쇼타콘 "wikilink"), [야오이](../Page/야오이.md "wikilink"), [주네](https://ko.wikipedia.org/wiki/주네 "wikilink") 등이 있지만, 전자 둘의 경우는 소년 사이의 애정, 기호 그 자체를 가리키는 데 반해, 후자 둘의 경우 서로가 그런 기호를 가진 관계 (대부분 [성행위](https://ko.wikipedia.org/wiki/성행위 "wikilink")를 포함한다)를 주로 다루는 장르를 나타낸다는 점이 다르다. BL은 후자에 속한다. 이러한 쟝르가 나오는 이유는 차별화된 소재와 자극을 통해 구독자의 관심을 얻기 위해 시작되었으며 감각적인 묘사와 섬세한 스토리 전개로 관심을 끌게된 기법으로 이해하는 것이 바람직하다.
+BL과 유사한 단어로 [소년애](https://ko.wikipedia.org/wiki/소년애 "wikilink"), [쇼타콘](https://ko.wikipedia.org/wiki/쇼타콘 "wikilink"), [야오이](../Page/야오이.md "wikilink"), [주네](https://ko.wikipedia.org/wiki/주네 "wikilink") 등이 있지만, 전자 둘의 경우는 소년 사이의 애정, 기호 그 자체를 가리키는 데 반해, 후자 둘의 경우 서로가 그런 기호를 가진 관계 (대부분 [성행위](https://ko.wikipedia.org/wiki/성행위 "wikilink")를 포함한다)를 주로 다루는 장르를 나타낸다는 점이 다르다. BL은 후자에 속한다. 이러한 장르가 나오는 이유는 차별화된 소재와 자극을 통해 구독자의 관심을 얻기 위해 시작되었으며 감각적인 묘사와 섬세한 스토리 전개로 관심을 끌게된 기법으로 이해하는 것이 바람직하다.
 
 ## 개요
 

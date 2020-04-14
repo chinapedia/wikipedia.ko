@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAM ](https://ko.wikipedia.org/wiki/TAM_).
+> This article is converted from Wikipedia: [TAM 경전차](https://ko.wikipedia.org/wiki/TAM_경전차).
 
 
 **TAM 경전차**()는 아르헨티나 육군에서 사용하고 있는 중전차이다. 아르헨티나 국방부가 전차를 기획한 경험 및 전차에 필요한 자원의 부족으로 독일 회사인 [티센-헨셀](https://ko.wikipedia.org/wiki/티센-헨셀 "wikilink")에게 연락했다. 독일과 아르헨티나의 엔지니어 팀이 TAM을 개발했고, 독일 [마더에](https://ko.wikipedia.org/wiki/마더_\(IFV\) "wikilink") 기초를 두고 만들어졌다. TAM은 현대적이고 빠른 전차였지만 차체가 낮았고 화력은 충분했다. 1974년 개발이 시작된 이래로 3개의 시제전차가 1977년 제작되었고, 1979년부터 본격적인 양산에 들어갔다. 1983년 경제 불황으로 인해 일시적으로 생산이 중단되었지만 1994년부터 약 1년간 아르헨티나의 육군의 수요에 맞게 재생산되었다.
@@ -22,11 +22,11 @@ TAM 전차는 마더 보병전투차의 차체에 [레오파르트 1A4와](../Pa
   - **[VCTP 보병전투차](https://ko.wikipedia.org/wiki/VCTP_보병전투차 "wikilink")**() - 역시 마더의 차체를 이용하여 개발한 보병전투차다. [엘리콘](https://ko.wikipedia.org/wiki/엘리콘 "wikilink")사제 20mm 기관포를 장착했다
   - **VCTM 박격포 차량** - VCTP 보병전투차에 120mm [박격포](../Page/박격포.md "wikilink")를 탑재한 자주 박격포 차량 ()
   - **VCA 자주포** - 155mm 포를 탑재한 자주포.()
-  - **VCLC** () - 160 mm 로켓 발사 차량
-  - **VCPC** () - 지휘통신차량
-  - **VCDT** () - 자주포 사격지휘 및 통제 차량
-  - **VCMun** () - 자주포 탄약보급차
-  - **VCRT** () - 구난차량
+  - **VCLC**() - 160 mm 로켓 발사 차량
+  - **VCPC**() - 지휘통신차량
+  - **VCDT**() - 자주포 사격지휘 및 통제 차량
+  - **VCMun**() - 자주포 탄약보급차
+  - **VCRT**() - 구난차량
 
 ## 참고자료
 

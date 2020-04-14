@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KP-SAM ](https://ko.wikipedia.org/wiki/KP-SAM_).
+> This article is converted from Wikipedia: [KP-SAM 신궁](https://ko.wikipedia.org/wiki/KP-SAM_신궁).
 
 
 **신궁 미사일(KP-SAM)**은 [대한민국](../Page/대한민국.md "wikilink")의 개인 휴대용 단거리 지대공 미사일이다.

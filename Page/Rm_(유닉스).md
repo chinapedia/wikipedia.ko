@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rm \(\)](https://ko.wikipedia.org/wiki/Rm_\(\)).
+> This article is converted from Wikipedia: [Rm \(유닉스\)](https://ko.wikipedia.org/wiki/Rm_\(유닉스\)).
 
 
 **rm** (*remove*의 축약)은 [파일 시스템으로부터](../Page/파일_시스템.md "wikilink") 파일을 삭제할 때에 사용되는 [유닉스](../Page/유닉스.md "wikilink") 명령어이다.

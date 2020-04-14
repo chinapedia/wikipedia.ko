@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIM-23 ](https://ko.wikipedia.org/wiki/MIM-23_).
+> This article is converted from Wikipedia: [MIM-23 호크](https://ko.wikipedia.org/wiki/MIM-23_호크).
 
 
 |                                                                    |

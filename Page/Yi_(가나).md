@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Yi \(\)](https://ko.wikipedia.org/wiki/Yi_\(\)).
+> This article is converted from Wikipedia: [Yi \(가나\)](https://ko.wikipedia.org/wiki/Yi_\(가나\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Katakana_Yi_Proposal.png "wikilink") (y)i.\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Hiragana_I_01.png "wikilink") (y)i로 지정된 문자. 현재는 [い](../Page/い.md "wikilink")에 대응되는 [헨타이가나](../Page/헨타이가나.md "wikilink")로 분류된다.\]\]  [20px](https://ko.wikipedia.org/wiki/파일:Hiragana_I_01.png "wikilink"), [20px는](https://ko.wikipedia.org/wiki/파일:Katakana_Yi_Proposal.png "wikilink") [일본어](../Page/일본어.md "wikilink")의 [음절](../Page/음절.md "wikilink")의 하나이며, [가나의](../Page/가나_\(문자\).md "wikilink") 하나이다. [메이지](../Page/메이지_시대.md "wikilink") 초기에 사용되었다. 원래부터 [행](https://ko.wikipedia.org/wiki/오십음도 "wikilink") [단](https://ko.wikipedia.org/wiki/오십음도 "wikilink") 자리가 비어 있는 상태였는데, 메이지 초기의 학자들이 그 자리에 이 두 글자를 인위적으로 배정했던 것이다.
@@ -21,7 +21,7 @@
 
 ## 문자 코드
 
-[유니코드](../Page/유니코드.md "wikilink")에서는 [20px가](https://ko.wikipedia.org/wiki/파일:Hiragana_I_01.png "wikilink") 유니코드 10.0부터 U+1B006에 배당되어 있으나(𛀆) [20px](https://ko.wikipedia.org/wiki/파일:Katakana_Yi_Proposal.png "wikilink") 는 없다. [금석문자경](../Page/금석문자경.md "wikilink")() 코드에서는 [20px는](https://ko.wikipedia.org/wiki/파일:Hiragana_I_01.png "wikilink") 069301번(위키백과에 수록된 그림과 완전히 같은 모양은 아니나 비슷함)에, [20px는](https://ko.wikipedia.org/wiki/파일:Katakana_Yi_Proposal.png "wikilink") 069612번에 할당되어 있다.
+[유니코드](../Page/유니코드.md "wikilink")에서는 [20px가](https://ko.wikipedia.org/wiki/파일:Hiragana_I_01.png "wikilink") 유니코드 10.0부터 U+1B006에 배당되어 있으나(𛀆) [20px는](https://ko.wikipedia.org/wiki/파일:Katakana_Yi_Proposal.png "wikilink") 없다. [금석문자경](../Page/금석문자경.md "wikilink")() 코드에서는 [20px는](https://ko.wikipedia.org/wiki/파일:Hiragana_I_01.png "wikilink") 069301번(위키백과에 수록된 그림과 완전히 같은 모양은 아니나 비슷함)에, [20px는](https://ko.wikipedia.org/wiki/파일:Katakana_Yi_Proposal.png "wikilink") 069612번에 할당되어 있다.
 
 [작은 가나](../Page/스테가나.md "wikilink")([10px](https://ko.wikipedia.org/wiki/파일:Hiragana_I_01.png "wikilink"), [10px](https://ko.wikipedia.org/wiki/파일:Katakana_Yi_Proposal.png "wikilink"))는 실제로 쓰인 적이 없었기 때문에 금석문자경에도 포함되어 있지 않다.
 

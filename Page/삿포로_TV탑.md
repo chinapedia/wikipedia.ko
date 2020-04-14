@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [삿포로 TV탑](https://ko.wikipedia.org/wiki/삿포로_TV탑).
 
 
 **삿포로 TV탑**()은 [일본](../Page/일본.md "wikilink") [홋카이도](../Page/홋카이도.md "wikilink") [삿포로 시](https://ko.wikipedia.org/wiki/삿포로_시 "wikilink") [주오 구에](https://ko.wikipedia.org/wiki/주오_구_\(삿포로_시\) "wikilink") 있는 지상 147.2[m의](../Page/미터.md "wikilink") [텔레비전](../Page/텔레비전.md "wikilink") [전파탑](https://ko.wikipedia.org/wiki/전파탑 "wikilink")이다. [1957년](../Page/1957년.md "wikilink")에 지어졌으며, 지하에는 식당, 1층에는 오락실이, 2층에는 다목적 홀, 3층에는 기념품 판매점이 있다. 지상 90.38미터 부근에 전망대가 있으며, 이곳에도 매점 같은 관광객의 편의를 위한 시설이 존재한다.

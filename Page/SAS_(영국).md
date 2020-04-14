@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SAS \(\)](https://ko.wikipedia.org/wiki/SAS_\(\)).
+> This article is converted from Wikipedia: [SAS \(영국\)](https://ko.wikipedia.org/wiki/SAS_\(영국\)).
 
 
 **영국 육군 공수특전단**(은 [영국 육군의](../Page/영국_육군.md "wikilink") [특수부대](../Page/특수부대.md "wikilink")이다. 정식명칭은 **SAS 22연대**이다. 영국인과 프랑스인 자원자로 구성되어 북아프리카 전선의 적 후방에서 작전을 하기 위해서 1941년에 창설되었다. 세계 최초의 전문화된 특수부대로서, 오늘날 여러 다른 나라들의 비슷한 특수부대의 모델이 되었다.

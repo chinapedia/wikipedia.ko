@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VGA ](https://ko.wikipedia.org/wiki/VGA_).
+> This article is converted from Wikipedia: [VGA 단자](https://ko.wikipedia.org/wiki/VGA_단자).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Vga-cable.jpg "wikilink") **[VGA](../Page/비디오_그래픽스_어레이.md "wikilink") 단자**(VGA connector)라고 일반적으로 알려진 것([RGB](https://ko.wikipedia.org/wiki/RGB "wikilink") 커넥터, D-sub 15, mini sub D15와 미니 D15를 포함)은 3열 15핀의 [DE-15](https://ko.wikipedia.org/wiki/DE-15 "wikilink")이다. 총 4개의 버전이 있다: [초기버전](http://pinouts.ru/data/VGA15_pinout.shtml) 과 [DDC2](http://pinouts.ru/data/VGAVesaDdc_pinout.shtml) 핀모양과 기능이 떨어져 잘 사용되지 않은 [9-핀 VGA](http://pinouts.ru/data/VGA9_pinout.shtml) 와 휴대용 컴퓨터에 사용된 [미니-VGA](https://ko.wikipedia.org/wiki/미니-VGA "wikilink")가 있다.

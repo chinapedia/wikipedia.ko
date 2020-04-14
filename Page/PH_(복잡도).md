@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PH \(\)](https://ko.wikipedia.org/wiki/PH_\(\)).
+> This article is converted from Wikipedia: [PH \(복잡도\)](https://ko.wikipedia.org/wiki/PH_\(복잡도\)).
 
 
 [계산 복잡도 이론에서](../Page/계산_복잡도_이론.md "wikilink") [복잡도 종류](../Page/복잡도_종류.md "wikilink") **PH**는 [다항 계층에](https://ko.wikipedia.org/wiki/다항_계층 "wikilink") 있는 모든 복잡도 종류의 합집합이다.

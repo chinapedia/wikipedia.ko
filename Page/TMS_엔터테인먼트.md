@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TMS ](https://ko.wikipedia.org/wiki/TMS_).
+> This article is converted from Wikipedia: [TMS 엔터테인먼트](https://ko.wikipedia.org/wiki/TMS_엔터테인먼트).
 
 
 **주식회사 TMS 엔터테인먼트**(, )은 [일본](../Page/일본.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink") 제작사이다.

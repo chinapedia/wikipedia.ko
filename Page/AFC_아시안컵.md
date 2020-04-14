@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
+> This article is converted from Wikipedia: [AFC 아시안컵](https://ko.wikipedia.org/wiki/AFC_아시안컵).
 
 
 **AFC 아시안컵**(AFC Asian Cup)은 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)이 주관하는 국가 대항 [축구](../Page/축구.md "wikilink") 대회이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJ](https://ko.wikipedia.org/wiki/CJ).
+> This article is converted from Wikipedia: [CJ제일제당](https://ko.wikipedia.org/wiki/CJ제일제당).
 
 
 **CJ제일제당**(, )은 [대한민국](../Page/대한민국.md "wikilink")의 1위 종합 식품 제조업체이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") 동호로 330 (쌍림동, CJ제일제당센터)에 있으며 [설탕](../Page/설탕.md "wikilink"), [밀가루](../Page/밀가루.md "wikilink"), [식용유](https://ko.wikipedia.org/wiki/식용유 "wikilink") 등의 부재료 및 식품, 의약품와 바이오 사업을 진행하고 있다.

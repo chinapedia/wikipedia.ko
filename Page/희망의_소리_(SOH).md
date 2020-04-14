@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(SOH\)](https://ko.wikipedia.org/wiki/__\(SOH\)).
+> This article is converted from Wikipedia: [희망의 소리 \(SOH\)](https://ko.wikipedia.org/wiki/희망의_소리_\(SOH\)).
 
 
 | 방송국명                           |

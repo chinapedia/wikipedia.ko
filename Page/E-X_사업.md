@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E-X ](https://ko.wikipedia.org/wiki/E-X_).
+> This article is converted from Wikipedia: [E-X 사업](https://ko.wikipedia.org/wiki/E-X_사업).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Boeing_737_AEW&C_MESA_Peace_Eagle.jpg "wikilink")[섬네일](https://ko.wikipedia.org/wiki/파일:111_Sqn_G550_CAEW.JPG "wikilink") 2010에 공개된 [싱가포르 공군의](https://ko.wikipedia.org/wiki/싱가포르_공군 "wikilink") G550 [팔콘](https://ko.wikipedia.org/wiki/EL/M-2075 "wikilink") 조기경보기\]\] **EX 사업**은 [대한민국 공군의](../Page/대한민국_공군.md "wikilink") [조기경보기](https://ko.wikipedia.org/wiki/조기경보기 "wikilink") 도입사업이다.

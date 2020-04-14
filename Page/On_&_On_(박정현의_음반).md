@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [On \& On \( \)](https://ko.wikipedia.org/wiki/On_\&_On_\(_\)).
+> This article is converted from Wikipedia: [On \& On \(박정현의 음반\)](https://ko.wikipedia.org/wiki/On_\&_On_\(박정현의_음반\)).
 
 
 《**On & On**》은 [박정현](../Page/박정현.md "wikilink")의 다섯 번째 정규 음반이다. 이전 앨범인 《[Op. 4](../Page/Op._4.md "wikilink")》 이후 라이브 실황 앨범 《[Op. 4 Concert Project 4th Movement: The Album](https://ko.wikipedia.org/wiki/Op._4_Concert_Project_4th_Movement:_The_Album "wikilink")》을 제외하고는 2년 여가 지난 뒤에야 발표된 앨범으로, 처음으로 박정현이 직접 프로듀싱을 하였고 그녀가 직접 작곡·작사한 노래가 여러 곡 들어 있는 것이 이전의 앨범과 다른 특징이다. 일반적인 CD 케이스가 아닌 가로로 두 배 큰 크기의 [디지팩](https://ko.wikipedia.org/wiki/디지팩 "wikilink")으로 발매되었다. 앨범의 제목 “On & On”은 그의 첫 번째 음반 《[Piece](../Page/Piece_\(박정현의_음반\).md "wikilink")》 중 첫 번째 곡인 〈Intro〉의 가사 “On and on just to find one little piece of peace of mind...”에도 나오는 구절이기도 하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NSV ](https://ko.wikipedia.org/wiki/NSV_).
+> This article is converted from Wikipedia: [NSV 중기관총](https://ko.wikipedia.org/wiki/NSV_중기관총).
 
 
 [thumb에](https://ko.wikipedia.org/wiki/파일:Warsaw_Hummer_03.JPG "wikilink") NSV를 장착하여 사용 중인 모습. [바르샤바](../Page/바르샤바.md "wikilink")에서 열린 군사 퍼레이드 중에 찍힌 사진이다.\]\] **니키틴-소콜로프-볼코프 중기관총**(, )은 12.7mm 탄약을 사용하는 [소련](../Page/소련.md "wikilink")제 중기관총으로 설계자인 G.I. 니키틴(G.I. Nikitin), J.S. 소콜로프(J.S. Sokolov)와 V.I. 볼코프(V.I. Volkov)에서 이름을 따왔다. 이 기관총은 [DShK 중기관총을](https://ko.wikipedia.org/wiki/DShK_중기관총 "wikilink") 대체할 목적으로 개발되었다. 러시아군은 [코르트 중기관총으로](https://ko.wikipedia.org/wiki/코르트_중기관총 "wikilink") 바꾸는 중이며, NSV 중기관총은 더 이상 러시아에서 생산되고 있지 않고 [불가리아](../Page/불가리아.md "wikilink"), [인도](../Page/인도.md "wikilink"), [폴란드](../Page/폴란드.md "wikilink"), [유고슬라비아](../Page/유고슬라비아.md "wikilink") 등에서 생산되었다. [코르트 중기관총은](https://ko.wikipedia.org/wiki/코르트_중기관총 "wikilink") NSV 중기관총을 경량화하고, 작동방식을 노리쇠를 수평으로 움직이는 틸팅브리치 방식에서 회전노리쇠로 바꾸고, 소염기와 개머리판을 개량한 모델이며, NSV의 좌측에 있는 링크 트레이를 제거했다.

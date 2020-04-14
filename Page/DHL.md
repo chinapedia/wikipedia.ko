@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DHL](https://ko.wikipedia.org/wiki/DHL).
 
 
-**DHL 인터내셔널**(, )은 [독일](../Page/독일.md "wikilink") [도이체 포스트의](../Page/도이체_포스트.md "wikilink") 국제 운송 사업 부문이자 브랜드이다. 본래 [미국](../Page/미국.md "wikilink")의 국제 운송 기업이었으나, [독일](../Page/독일.md "wikilink")의 [도이체 포스트가](../Page/도이체_포스트.md "wikilink") 지분을 인수하여 현재는 독일로 국적과 본사를 옮겼다.
+**DHL 인터내셔널**(, )은 [독일](../Page/독일.md "wikilink") [도이체 포스트의](../Page/도이체_포스트.md "wikilink") 국제 운송 사업 부문이자 브랜드이다. 본래 [미국](../Page/미국.md "wikilink")의 국제 운송 기업이었으나, [독일](../Page/독일.md "wikilink")의 [도이체 포스트가](../Page/도이체_포스트.md "wikilink") 지분을 인수하여 현재는 독일로 국적과 본사를 옮겼다. {{사건사고
 
 ## 역사
 

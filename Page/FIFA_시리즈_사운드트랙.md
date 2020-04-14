@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 시리즈 사운드트랙](https://ko.wikipedia.org/wiki/FIFA_시리즈_사운드트랙).
 
 
 **피파 시리즈의 사운드트랙**은 지금까지 발매된 [피파 시리즈의](https://ko.wikipedia.org/wiki/피파_시리즈 "wikilink") 모든 삽입곡들이다. **로드 투 월드컵 98**부터 시작되었다. 특징적이라면, 피파 음악은 축구의 열정적인 분위기답게 주로 록 음악 계열의 메탈 음악이 들어가는 경우가 많다는 것이다.(그러나 최근 발매된 음악에서는 힙합 등 다양한 음악 장르의 곡이 삽입되고 있다.) 이 피파 시리즈의 사운드트랙에 수록된 곡은, 전 세계 많은 피파 시리즈 유저들에 의해 알려져 유명하게 되는 경우도 상당수 있다. 특히 피파 06에 삽입된 [maNga의](https://ko.wikipedia.org/wiki/망가_\(밴드\) "wikilink") <Bir Kadin Cizeceksin>는 피파 06 삽입 이후로 세계적으로도 유명해졌으며, 대한민국 음악의 경우도 [피파 온라인에](https://ko.wikipedia.org/wiki/피파_온라인 "wikilink") 삽입되며 소리 없는 인기를 누리고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X ](https://ko.wikipedia.org/wiki/X_).
+> This article is converted from Wikipedia: [X밴드 레이다](https://ko.wikipedia.org/wiki/X밴드_레이다).
 
 
 [섬네일를](https://ko.wikipedia.org/wiki/파일:US_Navy_060109-N-3019M-012_The_heavy_lift_vessel_MV_Blue_Marlin_enters_Pearl_Harbor,_Hawaii_with_the_Sea_Based_X-Band_Radar_\(SBX\)_aboard.jpg "wikilink") 장착한 블루 마린호가 텍사스주 코퍼스 크리스티에서 출발하여 15,000 마일의 항해끝에, 2006년 1월 9일 하와이의 진주항에 입항하고 있다.\]\]

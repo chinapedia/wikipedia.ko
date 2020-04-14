@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [CBS \( \)](https://ko.wikipedia.org/wiki/CBS_\(_\)).
+> This article is converted from Wikipedia: [CBS \(대한민국의 방송사\)](https://ko.wikipedia.org/wiki/CBS_\(대한민국의_방송사\)).
 
 
-**CBS 기독교방송**(상호명: **(재)씨비에스**, 약칭: **CBS**, )는 [개신교](../Page/개신교.md "wikilink")계 방송 중 하나로서, [대한민국](../Page/대한민국.md "wikilink") 최초의 [민영 방송이다](../Page/민영_방송.md "wikilink").
+**CBS 기독교방송**(基督敎放送, 상호명: **(재)씨비에스**, 약칭: **CBS**, )는 [개신교](../Page/개신교.md "wikilink")계 방송 중 하나로서, [대한민국](../Page/대한민국.md "wikilink") 최초의 [민영 방송이다](../Page/민영_방송.md "wikilink").
 
 지상파 라디오와 케이블 TV 방송국을 가지고 있으며, 씨비에스 기업집단의 주력 업체로 [CBSi](https://ko.wikipedia.org/wiki/CBSi "wikilink"), [노컷뉴스](../Page/노컷뉴스.md "wikilink") 등 다수의 계열사를 아래에 두고 있다.
 

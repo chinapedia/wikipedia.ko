@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RIM-66 ](https://ko.wikipedia.org/wiki/RIM-66_).
+> This article is converted from Wikipedia: [RIM-66 스탠더드](https://ko.wikipedia.org/wiki/RIM-66_스탠더드).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Standard_Missile.jpg "wikilink") 이지스 순양함의 Mk. 26 발사대에 장착된 SM-2 미사일\]\] **RIM-66 스탠더드 MR**(RIM-66 Standard MR (SM-1MR/SM-2MR))은 이지스함에서 사용하는 중거리 [지대공미사일](https://ko.wikipedia.org/wiki/지대공미사일 "wikilink")이다. [미사일 방어에](https://ko.wikipedia.org/wiki/미사일_방어 "wikilink") 사용된다. 대한민국 최초의 이지스함인 [세종대왕함](https://ko.wikipedia.org/wiki/세종대왕함 "wikilink")의 주력 대공미사일이다. 1950년대에 배치된 [RIM-2 Terrier와](https://ko.wikipedia.org/wiki/RIM-2_Terrier "wikilink") [RIM-24 Tartar를](https://ko.wikipedia.org/wiki/RIM-24_Tartar "wikilink") 대체하기 위해 [미국 해군용으로](../Page/미국_해군.md "wikilink") 개발된 함대공 미사일(SAM)이다.

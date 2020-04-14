@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 클럽 월드컵](https://ko.wikipedia.org/wiki/FIFA_클럽_월드컵).
 
 
 **FIFA 클럽 월드컵**(FIFA Club World Cup)은 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")(FIFA) 주관으로 1년마다 열리는 [축구](../Page/축구.md "wikilink") 대회로, 6개 대륙의 클럽간 컵 대회 우승 팀과 개최국의 1부 리그 우승 팀이 참가하는 대회이다.

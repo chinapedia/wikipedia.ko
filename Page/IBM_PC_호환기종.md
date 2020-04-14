@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM PC ](https://ko.wikipedia.org/wiki/IBM_PC_).
+> This article is converted from Wikipedia: [IBM PC 호환기종](https://ko.wikipedia.org/wiki/IBM_PC_호환기종).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IBM_PC_5150.jpg "wikilink")(모델 5150)\]\] **IBM PC 호환기종**()은 현재 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink")(PC)의 주류를 이루고 있는 [컴퓨터](../Page/컴퓨터.md "wikilink")의 한 종류이다.

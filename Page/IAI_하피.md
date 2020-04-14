@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IAI ](https://ko.wikipedia.org/wiki/IAI_).
+> This article is converted from Wikipedia: [IAI 하피](https://ko.wikipedia.org/wiki/IAI_하피).
 
 
 **IAI 하피**(Harpy)는 [이스라엘](../Page/이스라엘.md "wikilink")의 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")가 생산하는 무인항공기(UAV)로, 레이다 시스템을 자폭 공격하기 위해 설계되었다.

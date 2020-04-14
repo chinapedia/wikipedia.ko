@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:GNU Free Documentation License](https://ko.wikipedia.org/wiki/:GNU_Free_Documentation_License).
+> This article is converted from Wikipedia: [위키백과:GNU Free Documentation License](https://ko.wikipedia.org/wiki/위키백과:GNU_Free_Documentation_License).
 
 
 Version 1.3, 3 November 2008 Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc. \<<http://fsf.org/>\>

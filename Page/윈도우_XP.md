@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XP](https://ko.wikipedia.org/wiki/_XP).
+> This article is converted from Wikipedia: [윈도우 XP](https://ko.wikipedia.org/wiki/윈도우_XP).
 
 
 **윈도우 XP**()는 가정용/업무용 컴퓨터, [노트북 컴퓨터](https://ko.wikipedia.org/wiki/노트북_컴퓨터 "wikilink"), [미디어 센터와](../Page/미디어_센터.md "wikilink") 같은 [일반 목적의](../Page/개인용_컴퓨터.md "wikilink") [컴퓨터 시스템에서](../Page/컴퓨터.md "wikilink") 사용할 수 있게 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 개발한 [운영 체제](../Page/운영_체제.md "wikilink") 가운데 하나이다. XP는 *e**XP**erience* 중 "XP"를 따서 만들었다. 개발 당시에는 [휘슬러](https://ko.wikipedia.org/wiki/휘슬러 "wikilink")(whistler)라는 [코드네임](https://ko.wikipedia.org/wiki/코드네임 "wikilink")으로 불렸다. 이는 수많은 [마이크로소프트](../Page/마이크로소프트.md "wikilink") 직원들이 [휘슬러-블랙콤](https://ko.wikipedia.org/wiki/휘슬러-블랙콤 "wikilink") 스키 휴양지에서 스키를 탔던 것으로 하여 [브리티시컬럼비아 주](https://ko.wikipedia.org/wiki/브리티시컬럼비아_주 "wikilink") [휘슬러](https://ko.wikipedia.org/wiki/휘슬러_\(브리티시컬럼비아_주\) "wikilink") 지방에서 이름을 따온 것이다.\[1\]

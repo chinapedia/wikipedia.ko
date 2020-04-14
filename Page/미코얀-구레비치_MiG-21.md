@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- MiG-21](https://ko.wikipedia.org/wiki/-_MiG-21).
+> This article is converted from Wikipedia: [미코얀-구레비치 MiG-21](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-21).
 
 
 **미코얀-구레비치 MiG-21**(Mikoyan-Gurevich MiG-21, 나토 명칭 Fishbed)는 [소련](../Page/소련.md "wikilink")의 주력전투기로 속도가 빠르고 가벼우며 결함이 적은 항공기로서 소련의 전투기설계 및 개발기술을 집약한 전투기종이다. MiG-21은 역사상 그 어느 전투기보다도 장기간 생산이 계속됐으며 어떠한 초음속 전투기보다도 많은 수가 생산돼 세계 도처에서 전투에 참가했다. 전 세계적으로 10,000여 대가 생산된 것으로 추정되고 있다. MiG-21은 오래된 전투기지만, 일부 보유국 중에서는 수년 전까지도 엔진, 센서, 무장 등의 개량 노력이 지속된 효율성 높은 전투기로서, 현재도 [인도](../Page/인도.md "wikilink"), [중화인민공화국](../Page/중화인민공화국.md "wikilink")(중국제 개량형 사용), [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink") 등지에서 운용하고 있다.

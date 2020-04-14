@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  W](https://ko.wikipedia.org/wiki/__W).
+> This article is converted from Wikipedia: [신기동전기 건담 W](https://ko.wikipedia.org/wiki/신기동전기_건담_W).
 
 
 《**신기동전기 건담W**》(신기동전기 건담 윙, )은 [일본](../Page/일본.md "wikilink")의 TV [애니메이션](../Page/애니메이션.md "wikilink")으로, [선라이즈가](https://ko.wikipedia.org/wiki/선라이즈_\(스튜디오\) "wikilink") 제작하였다. [1995년](../Page/1995년.md "wikilink") [4월 7일부터](../Page/4월_7일.md "wikilink") [1996년](../Page/1996년.md "wikilink") [3월 29일까지](../Page/3월_29일.md "wikilink") 전 49화로, [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 방송사에서 방송되었다. 건담 시리즈 중 최초로 일본 외의 나라에서 방송된 작품이기도 하다.

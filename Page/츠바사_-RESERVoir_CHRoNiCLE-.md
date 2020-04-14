@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ -RESERVoir CHRoNiCLE-](https://ko.wikipedia.org/wiki/_-RESERVoir_CHRoNiCLE-).
+> This article is converted from Wikipedia: [츠바사 -RESERVoir CHRoNiCLE-](https://ko.wikipedia.org/wiki/츠바사_-RESERVoir_CHRoNiCLE-).
 
 
 《**츠바사 크로니클**》(ツバサ クロニクル, Tsubasa Chronicle)은 [클램프](../Page/클램프.md "wikilink")의 만화와, 이를 원작으로 하는 [일본 애니메이션이다](https://ko.wikipedia.org/wiki/일본_애니메이션 "wikilink"). [애니메이션](../Page/애니메이션.md "wikilink")은 2005\~06년에 [NHK 교육 텔레비전에서](../Page/NHK_교육_텔레비전.md "wikilink") 1,2기에 걸쳐 방영하였다. 이 작품은 클램프가 데뷔 이후 10여 년 동안 선보인 많은 작품들 속의 캐릭터들(샤오랑, 사쿠라, 춘향, 토우야, 아라시 등)이 독특한 세계관과 배경 설정 아래 총출동하여 이야기를 전개해 나가는 것이 특징이다. 그래서 이 작품을 가리켜 '클램프가 구축한 작품 세계의 총정리'라고 일컽기도 했다. 원작은 [xxx Holic의](https://ko.wikipedia.org/wiki/xxx_Holic "wikilink") 원작과도 연계한다.

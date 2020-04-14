@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [로버트 E. 리](https://ko.wikipedia.org/wiki/로버트_E._리).
 
 
 **로버트 에드워드 리**(, [1807년](../Page/1807년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") \~ [1870년](../Page/1870년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 군인이다. [미국 남북 전쟁](../Page/미국_남북_전쟁.md "wikilink") 때 남부군 총사령관을 맡아 북군을 괴롭혔다. 최후엔 패배했으나 미국 역사상 굴지의 명장으로 명성을 드높였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EX](https://ko.wikipedia.org/wiki/_EX).
+> This article is converted from Wikipedia: [스타오션 EX](https://ko.wikipedia.org/wiki/스타오션_EX).
 
 
 **스타오션 EX**(, )는 [2001년](../Page/2001년.md "wikilink")에 제작된 [아니메였다](../Page/일본_만화.md "wikilink"). 줄여서 SOEX라고도 한다. 스타오션 세컨드 스토리를 바탕으로 만든 만화이다. 26화로 구성되어 있다.

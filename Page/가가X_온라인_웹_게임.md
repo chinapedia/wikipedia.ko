@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X   ](https://ko.wikipedia.org/wiki/X___).
+> This article is converted from Wikipedia: [가가X 온라인 웹 게임](https://ko.wikipedia.org/wiki/가가X_온라인_웹_게임).
 
 
 **가가X 온라인 웹 게임**은 브라우저형 기반 웹 게임 사이트이다. 2002년 자체 시스템 DigiBBS으로 시작 2006년에 [드루팔](../Page/드루팔.md "wikilink") 기반의 CMS 솔루션과 자체 제작 채팅 솔루션으로 사이트를 전환시켰다.\[1\] 오픈 소스 웹 게임인 가가스페이스, 가가전쟁, 녹색 용의 전설의 배포처 및 제작이 이루어지고 있는 곳이다. 초기에 시작할 때 [아크메이지](../Page/아크메이지.md "wikilink"), [삼국지 온라인](../Page/삼국지_온라인.md "wikilink") 등으로 인해 국내 브라우저형 웹 게임 시장이 활기 있을 때 외국 upperdarkness과 제휴를 맺고 가가스페이스를 한글 및 영어로 동시에 서비스하기도 했다. 그러나 브라우저형 웹 게임인 아크메이지, 삼국지 온라인, upperdarkness 모두 사업을 접고 인기가 많이 떨어져 현재는 소규모 웹 게임 및 오픈 소스 웹 게임 소스 개발 및 대한민국 내에 유통되는 소규모 공개형 웹 게임 소스의 대부분을 배포하는 사이트로 남아 있다.

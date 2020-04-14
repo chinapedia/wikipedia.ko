@@ -1,21 +1,23 @@
-> This article is converted from Wikipedia: [ BNK ](https://ko.wikipedia.org/wiki/_BNK_).
+> This article is converted from Wikipedia: [부산 BNK 썸](https://ko.wikipedia.org/wiki/부산_BNK_썸).
 
 
-**부산 BNK 썸**(Busan BNK Sum)은 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")를 연고로 하는 대한민국의 프로농구팀이다. [한국여자농구연맹](../Page/한국여자농구연맹.md "wikilink") (WKBL)에 속해있으며, [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")에 참가하고 있다. 홈 경기장은 [남자프로농구](https://ko.wikipedia.org/wiki/KBL "wikilink") [부산 KT 소닉붐이](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") [2003년](../Page/2003년.md "wikilink")부터 [2006년](../Page/2006년.md "wikilink")까지 홈 경기장으로 사용하였던 [금정체육관](../Page/금정체육관.md "wikilink")이다. [2000년](../Page/2000년.md "wikilink") [인천을](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 연고지로 한 **금호생명 팰컨스**라는 이름으로 창단되었다. [2005년](../Page/2005년.md "wikilink") 연고지를 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [구리시](../Page/구리시.md "wikilink")로 이전했고, [2006년](../Page/2006년.md "wikilink") 팀명을 **금호생명 레드윙스**로 변경했다. 금호생명이 [KDB금융그룹](../Page/KDB금융그룹.md "wikilink") 계열로 편입되어 [2010년](../Page/2010년.md "wikilink") [KDB생명으로](https://ko.wikipedia.org/wiki/KDB생명보험 "wikilink") 모기업명이 변경되면서 2010 퓨처스 리그부터 **KDB생명 위너스**로 변경되었다. 그러나 2018년 10월 1일 모기업인 [KDB생명이](https://ko.wikipedia.org/wiki/KDB생명보험 "wikilink") 해체 선언을 하면서 [한국여자농구연맹](../Page/한국여자농구연맹.md "wikilink")이 위탁운영하게 되면서 그와 함께 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")로 연고지를 임시 이전했다. 2018년 10월 24일 [OK저축은행](../Page/OK저축은행.md "wikilink")이 2018-2019시즌 네이밍 스폰서로 참여하면서 팀명이 **OK저축은행 읏샷**으로 임시 변경되었으나 [2019년](../Page/2019년.md "wikilink") [2월](../Page/2월.md "wikilink") 말 [BNK 캐피탈이](https://ko.wikipedia.org/wiki/BNK_캐피탈 "wikilink") 인수의사를 밝힌 뒤, 이후 4월 8일 정식 창단하여 부산 BNK 썸으로 팀명이 변경되었다.
+**부산 BNK 썸**(Busan BNK Sum)은 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")를 연고로 하는 대한민국의 프로농구팀이다. [한국여자농구연맹](../Page/한국여자농구연맹.md "wikilink") (WKBL)에 속해있으며, [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")에 참가하고 있다. 홈 경기장은 [남자프로농구](https://ko.wikipedia.org/wiki/KBL "wikilink") [부산 KT 소닉붐이](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") [2003년](../Page/2003년.md "wikilink")부터 [2006년](../Page/2006년.md "wikilink")까지 홈 경기장으로 사용하였던 [스포원파크 BNK센터이다](../Page/금정체육관.md "wikilink"). [2000년](../Page/2000년.md "wikilink") [인천을](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 연고지로 한 **금호생명 팰컨스**라는 이름으로 창단되었다. [2005년](../Page/2005년.md "wikilink") 연고지를 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [구리시](../Page/구리시.md "wikilink")로 이전했고, [2006년](../Page/2006년.md "wikilink") 구단명을 **금호생명 레드윙스**로 변경했다. 금호생명이 [KDB금융그룹](../Page/KDB금융그룹.md "wikilink") 계열로 편입되어 [2010년](../Page/2010년.md "wikilink") [KDB생명으로](https://ko.wikipedia.org/wiki/KDB생명보험 "wikilink") 모기업명이 변경되면서 2010 퓨처스 리그부터 **KDB생명 위너스**로 변경되었다. 그러나 2018년 10월 1일 모기업인 [KDB생명이](https://ko.wikipedia.org/wiki/KDB생명보험 "wikilink") 해체 선언을 하면서 [한국여자농구연맹](../Page/한국여자농구연맹.md "wikilink")이 위탁운영하게 되면서 그와 함께 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")로 연고지를 임시 이전했다. 2018년 10월 24일 [OK저축은행](../Page/OK저축은행.md "wikilink")이 2018-2019시즌 네이밍 스폰서로 참여하면서 팀명이 **OK저축은행 읏샷**으로 임시 변경되었으나 [2019년](../Page/2019년.md "wikilink") [2월](../Page/2월.md "wikilink") 말 [BNK 캐피탈이](https://ko.wikipedia.org/wiki/BNK_캐피탈 "wikilink") 인수의사를 밝힌 뒤, 이후 4월 8일 정식 창단하여 부산 BNK 썸으로 팀명이 변경되었다.
 
-## 팀 역사
+## 구단 역사
+
+[20200326_코로나19_극복을_위한_BNK썸_여자프로농구단_성금_전달식(접견실)_01.jpg](https://ko.wikipedia.org/wiki/File:20200326_코로나19_극복을_위한_BNK썸_여자프로농구단_성금_전달식\(접견실\)_01.jpg "fig:20200326_코로나19_극복을_위한_BNK썸_여자프로농구단_성금_전달식(접견실)_01.jpg")
 
 ### 연혁
 
-  - 2000년 5월 30일 : [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 연고로 하여 팀 창단 (금호생명 팰컨스)
+  - 2000년 5월 30일 : [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 연고로 하여 구단 창단 (금호생명 팰컨스)
   - 2004년 4월 21일 : 2003 - 2004 겨울 리그 우승
   - 2005년 4월 12일 : [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [구리시](../Page/구리시.md "wikilink")로 연고지 이전
-  - 2007년 5월 18일 : 팀명 변경 (금호생명 레드윙스)
-  - 2010년 6월 10일 : 모기업의 사명 변경으로 팀명 변경 (KDB생명 위너스)
-  - 2018년 10월 1일 : KDB생명 위너스 해체,팀명 변경 (WKBL 위탁운영팀), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")로 연고지 이전
+  - 2007년 5월 18일 : 구단명 변경 (금호생명 레드윙스)
+  - 2010년 6월 10일 : 모기업의 사명 변경으로 구단명 변경 (KDB생명 위너스)
+  - 2018년 10월 1일 : KDB생명 위너스 해체,구단명 변경 (WKBL 위탁운영팀), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")로 연고지 이전
   - 2018년 10월 24일 : [OK저축은행](../Page/OK저축은행.md "wikilink")이 2018\~2019시즌 네이밍 스폰서로 참여
-  - 2018년 10월 26일 : 팀명 확정 (OK저축은행 읏샷)
-  - 2019년 4월 4일 : 팀명 (부산 BNK 썸) 확정 및 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")로 연고지 이전
+  - 2018년 10월 26일 : 구단명 확정 (OK저축은행 읏샷)
+  - 2019년 4월 4일 : 구단명 (부산 BNK 썸) 확정 및 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")로 연고지 이전
   - 2019년 4월 8일 : 부산 BNK 썸 정식 창단
 
 ### 2000-2018: 금호생명/KDB생명 시대

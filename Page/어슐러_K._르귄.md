@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K. ](https://ko.wikipedia.org/wiki/_K._).
+> This article is converted from Wikipedia: [어슐러 K. 르귄](https://ko.wikipedia.org/wiki/어슐러_K._르귄).
 
 
 **어슐러 크로버 르귄**(, , [1929년](../Page/1929년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 SF·판타지 작가이다. 주로 [소설](../Page/소설.md "wikilink")과, [시와](../Page/시_\(문학\).md "wikilink") [동화](../Page/동화.md "wikilink")를 썼으며, [과학소설](https://ko.wikipedia.org/wiki/과학소설 "wikilink"), [판타지 소설과](https://ko.wikipedia.org/wiki/판타지_소설 "wikilink") 기타 단편으로 유명하다.
@@ -66,7 +66,7 @@
 
 ### 그 외 소설
 
-  - [하늘의 물레](https://ko.wikipedia.org/wiki/하늘의_물레 "wikilink"), [1971년](../Page/1971년.md "wikilink") ([1980년](../Page/1980년.md "wikilink")과 [2000년](../Page/2000년.md "wikilink")에 TV영화로 만들어 졌다.)
+  - [하늘의 물레](https://ko.wikipedia.org/wiki/하늘의_물레 "wikilink"), [1971년](../Page/1971년.md "wikilink") ([1980년](../Page/1980년.md "wikilink")과 [2000년](../Page/2000년.md "wikilink")에 TV영화로 만들어졌다.)
   - 멜라프리나, [1979년](../Page/1979년.md "wikilink")
   - 헤론의 눈, [1982년](../Page/1982년.md "wikilink")
   - 항상 집으로 돌아온다, [1985년](../Page/1985년.md "wikilink")

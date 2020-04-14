@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [로버트 A. 하인라인](https://ko.wikipedia.org/wiki/로버트_A._하인라인).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Heinlein-face.jpg "wikilink") **로버트 앤슨 하인라인**(, [1907년](../Page/1907년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") \~ [1988년](../Page/1988년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink"))은 미국의 작가이다.

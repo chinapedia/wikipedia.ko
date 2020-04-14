@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-P](https://ko.wikipedia.org/wiki/-P).
+> This article is converted from Wikipedia: [샤프-P](https://ko.wikipedia.org/wiki/샤프-P).
 
 
 [계산 복잡도 이론에서](../Page/계산_복잡도_이론.md "wikilink") [복잡도 종류](../Page/복잡도_종류.md "wikilink") **\#P**는 개수를 세는 문제들로 이루어진 집합으로, 여기에 들어 있는 문제는 **[NP](https://ko.wikipedia.org/wiki/NP_\(복잡도\) "wikilink")**에 속한 [판정 문제와](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") 연관된다. 다른 복잡도 종류하고 다르게 **\#P**는 판정문제가 아니라 [함수 문제의](https://ko.wikipedia.org/wiki/함수_문제 "wikilink") 집합이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NP-](https://ko.wikipedia.org/wiki/NP-).
+> This article is converted from Wikipedia: [NP-난해](https://ko.wikipedia.org/wiki/NP-난해).
 
 
 **NP-난해**, **NP-hard**는 [NP에](https://ko.wikipedia.org/wiki/NP_\(복잡도\) "wikilink") 속하는 모든 [판정 문제를](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") [다항 시간에 다대일 환산할](https://ko.wikipedia.org/wiki/다항_시간_환산 "wikilink") 수 있는 문제들의 [집합](../Page/집합.md "wikilink")이다. 다시 말하면, NP-난해는 적어도 모든 NP 문제만큼은 어려운 문제들의 집합이다.

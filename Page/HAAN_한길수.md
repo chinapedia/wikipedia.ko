@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HAAN ](https://ko.wikipedia.org/wiki/HAAN_).
+> This article is converted from Wikipedia: [HAAN 한길수](https://ko.wikipedia.org/wiki/HAAN_한길수).
 
 
 《**HAAN 한길수**》는 [태평양 전쟁](../Page/태평양_전쟁.md "wikilink") 발발 직전, [일본](../Page/일본.md "wikilink")의 [진주만 공격을](../Page/진주만_공격.md "wikilink") 미국에 알리려고 했던 한국인 독립운동가 [한길수](../Page/한길수.md "wikilink")를 다룬 영화로, [안재모](../Page/안재모.md "wikilink")가 한길수 역을 맡았다. 이 영화는 영화 구성의 허술함으로 인해 흥행 성적은 저조하다.

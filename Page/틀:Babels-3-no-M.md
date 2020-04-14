@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Babels-3-no-M](https://ko.wikipedia.org/wiki/:Babels-3-no-M).
+> This article is converted from Wikipedia: [틀:Babels-3-no-M](https://ko.wikipedia.org/wiki/틀:Babels-3-no-M).
 
 
 <onlyinclude>
