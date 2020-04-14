@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [피게이렌시 FC](https://ko.wikipedia.org/wiki/피게이렌시_FC).
 
 
 **피게이렌시 FC**(Figueirense Futebol Clube)는 [브라질](../Page/브라질.md "wikilink") [산타카타리나주](https://ko.wikipedia.org/wiki/산타카타리나주 "wikilink")의 [플로리아노폴리스](../Page/플로리아노폴리스.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다.
