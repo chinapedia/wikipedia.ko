@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Am ](https://ko.wikipedia.org/wiki/Am_).
+> This article is converted from Wikipedia: [Am 별](https://ko.wikipedia.org/wiki/Am_별).
 
 
 **Am 별**(Am star) 또는 **금속선 별**(metallic-line star)은 스펙트럼 띠에서 다양한 금속선이 강하게 나타는 A형 특이별을 일컫는다. 이 기현상은 몇몇 원들이 표면으로 향하는 더 많은 빛을 흡수하는 동안 다른 것들은 [중력](../Page/중력.md "wikilink")으로 인하여 아래로 가라앉기 때문에 일어난다. 이런 현상은 별의 자전속도가 느릴 때만 일어난다.\[1\]

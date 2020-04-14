@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [30 ROCK  ](https://ko.wikipedia.org/wiki/30_ROCK__).
+> This article is converted from Wikipedia: [30 ROCK의 등장인물 목록](https://ko.wikipedia.org/wiki/30_ROCK의_등장인물_목록).
 
 
 《[30 ROCK](../Page/30_ROCK.md "wikilink")》은 미국 [NBC](../Page/NBC.md "wikilink") TV의 코미디 시리즈이다. NBC방송사를 통해 방송되는 코미디쇼 《TGS》의 제작진과 그외 방송국 사람들의 이야기를 다룬다. [티나 페이](../Page/티나_페이.md "wikilink"), [트레이시 모건](https://ko.wikipedia.org/wiki/트레이시_모건 "wikilink"), [제인 크라코스키](../Page/제인_크라코스키.md "wikilink"), [잭 맥브레이어](https://ko.wikipedia.org/wiki/잭_맥브레이어 "wikilink"), [스콧 애짓](https://ko.wikipedia.org/wiki/스콧_애짓 "wikilink"), [앨릭 볼드윈](../Page/앨릭_볼드윈.md "wikilink") 등 13명의 고정 출연진 외에 매회 뜻밖의 명사들이 출연한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MTV  ](https://ko.wikipedia.org/wiki/MTV__).
+> This article is converted from Wikipedia: [MTV 아시아 어워드](https://ko.wikipedia.org/wiki/MTV_아시아_어워드).
 
 
 **MTV 아시아 뮤직 어워드**(, AMA)은 MTV의 주최로 진행되는 시상식으로 2002년 싱가폴에서 처음으로 개최하였다.
@@ -20,7 +20,7 @@
 <td><p>2011</p></td>
 <td><p>Power Arabian Music!</p></td>
 <td><p><a href="../Page/도하.md" title="wikilink">도하</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/할리파_국제경기장" title="wikilink">할리파 국제경기장</a></p></td>
+<td><p><a href="../Page/칼리파_국제경기장.md" title="wikilink">칼리파 국제경기장</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마틴_카민" title="wikilink">마틴 카민</a></p></td>
 </tr>
 <tr class="even">

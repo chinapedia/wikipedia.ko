@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Shin Seung Hun Winter Special -  ](https://ko.wikipedia.org/wiki/Shin_Seung_Hun_Winter_Special_-__).
+> This article is converted from Wikipedia: [Shin Seung Hun Winter Special - 사랑이라는 선물](https://ko.wikipedia.org/wiki/Shin_Seung_Hun_Winter_Special_-_사랑이라는_선물).
 
 
 은 신승훈이 일본에서 [Avex Trax](../Page/에이벡스_엔터테인먼트.md "wikilink") 이적 후 처음으로 낸 미니앨범이며, 2007년 12월 5일에 발매됐다.

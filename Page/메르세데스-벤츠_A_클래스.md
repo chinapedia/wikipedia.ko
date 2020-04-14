@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- A ](https://ko.wikipedia.org/wiki/-_A_).
+> This article is converted from Wikipedia: [메르세데스-벤츠 A 클래스](https://ko.wikipedia.org/wiki/메르세데스-벤츠_A_클래스).
 
 
 **메르세데스-벤츠 A 클래스**는 [독일](../Page/독일.md "wikilink")의 자동차 제작 회사인 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")에 의해 제작된 준중형 [전륜구동](../Page/전륜구동.md "wikilink") 해치백, 세단이다. [B 클래스](https://ko.wikipedia.org/wiki/메르세데스-벤츠_B_클래스 "wikilink"), [CLA 클래스와](https://ko.wikipedia.org/wiki/메르세데스-벤츠_CLA_클래스 "wikilink") 같은 플랫폼을 이용한다. [대한민국](../Page/대한민국.md "wikilink")에는 [2013년](../Page/2013년.md "wikilink") 8월에 3세대(W176)가 공식 출시되었다.

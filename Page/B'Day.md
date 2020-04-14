@@ -18,6 +18,6 @@
 
 ## 외부 링크
 
-  - *[B'Day](http://www.metacritic.com/music/bday)* - [메타크리틱](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")
+  - *[B'Day](http://www.metacritic.com/music/bday)* - [메타크리틱](../Page/메타크리틱.md "wikilink")
 
 [분류:리듬 앤 블루스 음반](https://ko.wikipedia.org/wiki/분류:리듬_앤_블루스_음반 "wikilink") [분류:비욘세의 음반](https://ko.wikipedia.org/wiki/분류:비욘세의_음반 "wikilink") [분류:미국의 음반](https://ko.wikipedia.org/wiki/분류:미국의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:2006년 음반](https://ko.wikipedia.org/wiki/분류:2006년_음반 "wikilink") [분류:컬럼비아 레코드 음반](https://ko.wikipedia.org/wiki/분류:컬럼비아_레코드_음반 "wikilink") [분류:미국의 1위 음반](https://ko.wikipedia.org/wiki/분류:미국의_1위_음반 "wikilink")

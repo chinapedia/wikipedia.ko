@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  B](https://ko.wikipedia.org/wiki/__B).
+> This article is converted from Wikipedia: [부에노스아이레스 지하철 B선](https://ko.wikipedia.org/wiki/부에노스아이레스_지하철_B선).
 
 
 **숩테 B선**(La línea B del subte de Buenos Aires)은 "붉은색" 노선으로 [1930년](../Page/1930년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") 개통되었다.

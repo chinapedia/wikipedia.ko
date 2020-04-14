@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSD \(\)](https://ko.wikipedia.org/wiki/MSD_\(\)).
+> This article is converted from Wikipedia: [MSD \(기업\)](https://ko.wikipedia.org/wiki/MSD_\(기업\)).
 
 
 **머크**(, **MSD**)는 [미국](../Page/미국.md "wikilink")의 [제약](../Page/제약.md "wikilink") 회사이다. [미국](../Page/미국.md "wikilink") 및 [캐나다](../Page/캐나다.md "wikilink") 내에서는 **머크 앤드 컴퍼니**(, )라는 이름으로 등록되어 있다.
@@ -15,7 +15,7 @@
 
 ## 명칭
 
-독일의 머크도 계속 존속하고 있기 때문에 독일 머크와 미국 머크는 협약을 통해 양사의 이름을 미국·캐나다와 그 외의 국가들로 구분하여 사용하기로 했다. 미국 머크는 미국과 캐나다 이외의 지역에서는 머크 샤프 앤드 돔(Merck Sharp & Dohme) 또는 MSD라는 명칭을 쓰고 있으며, 독일 머크는 미국과 캐나다에서는 EMD 케미컬스(EMD Chemicals)라는 이름을 쓴다. 한국MSD는 사장 아비벤쇼산 및 임원진의 갑질로 내부 갈등이 심화 되고 있다.
+독일의 머크도 계속 존속하고 있기 때문에 독일 머크와 미국 머크는 협약을 통해 양사의 이름을 미국·캐나다와 그 외의 국가들로 구분하여 사용하기로 했다. 미국 머크는 미국과 캐나다 이외의 지역에서는 머크 샤프 앤드 돔(Merck Sharp & Dohme) 또는 MSD라는 명칭을 쓰고 있으며, 독일 머크는 미국과 캐나다에서는 EMD 케미컬스(EMD Chemicals)라는 이름을 쓴다.
 
 ## 제품
 

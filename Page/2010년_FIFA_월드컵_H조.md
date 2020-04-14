@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2010 FIFA  H](https://ko.wikipedia.org/wiki/2010_FIFA__H).
+> This article is converted from Wikipedia: [2010년 FIFA 월드컵 H조](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_H조).
 
 
 **[2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") H조**의 일정은 2010년 6월 16일에 시작하여 6월 25일에 막을 내렸다.\[1\] H조에는 [유럽 대회 우승국](https://ko.wikipedia.org/wiki/UEFA_유럽_축구_선수권_대회 "wikilink") [스페인이](../Page/스페인_축구_국가대표팀.md "wikilink") 편성되었고, [스위스](../Page/스위스_축구_국가대표팀.md "wikilink"), [온두라스](../Page/온두라스_축구_국가대표팀.md "wikilink"), 그리고 [칠레가](../Page/칠레_축구_국가대표팀.md "wikilink") 같이 들어갔다.

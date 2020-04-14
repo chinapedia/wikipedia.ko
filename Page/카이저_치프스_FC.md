@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [카이저 치프스 FC](https://ko.wikipedia.org/wiki/카이저_치프스_FC).
 
 
 **카이저 치프스 FC**()는 [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink") [요하네스버그](../Page/요하네스버그.md "wikilink")를 연고로 하는 축구 클럽이다. [남아프리카 공화국에서](../Page/남아프리카_공화국.md "wikilink") 가장 많은 팬들을 보유하고 있고, [보츠와나](../Page/보츠와나.md "wikilink"), [짐바브웨](../Page/짐바브웨.md "wikilink"), [잠비아](../Page/잠비아.md "wikilink")에도 많은 팬들이 있다. 약 1600만 명의 팬들이 있다고 추정된다.

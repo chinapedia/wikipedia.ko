@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SF ](https://ko.wikipedia.org/wiki/SF_).
+> This article is converted from Wikipedia: [SF 애니메이션](https://ko.wikipedia.org/wiki/SF_애니메이션).
 
 
 **SF 애니메이션**(SF animation)은 [과학](../Page/과학.md "wikilink")적인 상상에 근거한 [애니메이션](../Page/애니메이션.md "wikilink")이다. SF 자체의 범위가 정확하지 않기 때문에 어떤 작품이 SF인지 아닌지를 명확하게 판별해내기는 어렵다.

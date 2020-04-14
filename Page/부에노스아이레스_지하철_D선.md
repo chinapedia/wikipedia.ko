@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  D](https://ko.wikipedia.org/wiki/__D).
+> This article is converted from Wikipedia: [부에노스아이레스 지하철 D선](https://ko.wikipedia.org/wiki/부에노스아이레스_지하철_D선).
 
 
 **숩테 D선**(La línea C del subte de Buenos Aires)은 "초록색" 노선으로 [1937년](../Page/1937년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") 개통되었다.

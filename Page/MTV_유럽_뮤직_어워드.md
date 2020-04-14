@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MTV   ](https://ko.wikipedia.org/wiki/MTV___).
+> This article is converted from Wikipedia: [MTV 유럽 뮤직 어워드](https://ko.wikipedia.org/wiki/MTV_유럽_뮤직_어워드).
 
 
 **MTV 유럽 뮤직 어워드**(MTV Europe Music Awards, EMA)은 [유럽](../Page/유럽.md "wikilink")에서 한 해동안 가장 인기가 많았던 뮤직비디오와 노래를 선정하기위해 MTV 네크워크 유럽의 주최로 1994년 처음으로 개최하였다.\[1\] 원래는 미국에서 개최되는 [MTV 비디오 뮤직 어워드를](../Page/MTV_비디오_뮤직_어워드.md "wikilink") 대신하여 시작했지만, 이후 유럽 전역에서 인기를 얻으며 세계적인 음악 축제로 발전했다.

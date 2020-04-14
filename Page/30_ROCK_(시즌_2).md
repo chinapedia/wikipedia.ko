@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [30 ROCK \( 2\)](https://ko.wikipedia.org/wiki/30_ROCK_\(_2\)).
+> This article is converted from Wikipedia: [30 ROCK \(시즌 2\)](https://ko.wikipedia.org/wiki/30_ROCK_\(시즌_2\)).
 
 
 《[30 ROCK](../Page/30_ROCK.md "wikilink")》의 두 번째 시즌은 미국 [NBC](../Page/NBC.md "wikilink")에서 2007년 10월 4일에서 2008년 5월 8일 방송되었다. 모두 15개의 에피소드로 구성되었다. NBC방송국 내에서 이루어지는 코미디쇼 프로그램 제작진(방송사대표, 피디, 작가 등)과 기타 방송국 스태프, 그리고 코미디 쇼 프로그램 출연진들의 이야기로 구성된다. 주요 구조는 대표작가 리즈 레몬([티나 페이](../Page/티나_페이.md "wikilink"))와 방송사 부사장 잭 도나기([알렉 볼드윈](https://ko.wikipedia.org/wiki/알렉_볼드윈 "wikilink"))을 중심으로 이루어진다.

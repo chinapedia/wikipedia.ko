@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Vol.1](https://ko.wikipedia.org/wiki/_Vol.1).
+> This article is converted from Wikipedia: [김현철 Vol.1](https://ko.wikipedia.org/wiki/김현철_Vol.1).
 
 
 《**김현철 Vol.1**》는 [김현철의](../Page/김현철_\(가수\).md "wikilink") 첫 번째 정규 [음반](../Page/음반.md "wikilink")이다. 김현철이 전곡의 작사, 작곡 및 프로듀싱을 맡았으며, 2003년 재발매되었다.

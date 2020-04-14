@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BUS](https://ko.wikipedia.org/wiki/BUS).
+> This article is converted from Wikipedia: [김해BUS](https://ko.wikipedia.org/wiki/김해BUS).
 
 
 **김해비유에스**(金海-)는 [태영운송그룹](../Page/태영운송그룹.md "wikilink") 계열 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 자회사이자 경상남도 김해시 골든루트로66번길 143번지에 본사를 둔 [시내버스](../Page/시내버스.md "wikilink") 운송 업체이다. 주로 [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 읍면 공영노선과 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 일부 지역을 기점으로 하는 노선을 운행한다.

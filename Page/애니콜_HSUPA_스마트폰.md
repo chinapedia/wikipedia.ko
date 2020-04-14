@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HSUPA ](https://ko.wikipedia.org/wiki/_HSUPA_).
+> This article is converted from Wikipedia: [애니콜 HSUPA 스마트폰](https://ko.wikipedia.org/wiki/애니콜_HSUPA_스마트폰).
 
 
 **애니콜 HSUPA 스마트폰**()은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [4월 7일에](../Page/4월_7일.md "wikilink") 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

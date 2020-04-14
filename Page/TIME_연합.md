@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TIME ](https://ko.wikipedia.org/wiki/TIME_).
+> This article is converted from Wikipedia: [TIME 연합](https://ko.wikipedia.org/wiki/TIME_연합).
 
 
 **TIME(Top Industrial Managers for Europe) 연합**은 국제 교류를 목적으로 하는 53개의 유럽 소재 이공계 대학교들로 구성된 네트워크이다. 회원 대학간의 학기교환, 복수학위, 협동연구 등 여러가지 프로그램이 이루어지고 있으며 또한 주요기업들과의 산학협력에 중점을 두고 있다. TIME 연합의 결성은 1989년 프랑스의 [상트랄 대학원 연합을](../Page/상트랄_대학원_연합.md "wikilink") 이끌고 있는 [에콜 상트랄](https://ko.wikipedia.org/wiki/에콜_상트랄 "wikilink")(École Centrale Paris) 공과대학의 주도하에 시작되어 점차 연합의 규모를 넓혀갔다. 현재는 유럽에 속하지 않은 대학들도 참가하고 있다.

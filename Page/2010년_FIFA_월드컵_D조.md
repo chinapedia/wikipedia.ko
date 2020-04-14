@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2010 FIFA  D](https://ko.wikipedia.org/wiki/2010_FIFA__D).
+> This article is converted from Wikipedia: [2010년 FIFA 월드컵 D조](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_D조).
 
 
 **[2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") D조**의 경기는 2010년 6월 13일과 6월 23일 사이에 치러졌다.\[1\] D조에는 [독일](../Page/독일_축구_국가대표팀.md "wikilink"), [오스트레일리아](../Page/오스트레일리아_축구_국가대표팀.md "wikilink"), [세르비아](../Page/세르비아_축구_국가대표팀.md "wikilink"), 그리고 [가나가](../Page/가나_축구_국가대표팀.md "wikilink") 편성되었다. 이 대회의 8개 조들 중 가장 전력 격차가 적고, 강팀들이 밀집한 조기 때문에 D조는 2010년 FIFA 월드컵의 "[죽음의 조](../Page/죽음의_조.md "wikilink")"로 평가되었다.\[2\]

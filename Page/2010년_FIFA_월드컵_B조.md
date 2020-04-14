@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2010 FIFA  B](https://ko.wikipedia.org/wiki/2010_FIFA__B).
+> This article is converted from Wikipedia: [2010년 FIFA 월드컵 B조](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_B조).
 
 
 **2010년 FIFA 월드컵 B조** 일정은 2010년 6월 12일에 시작해 22일에 끝났다.\[1\] B조에는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink"), [나이지리아](../Page/나이지리아_축구_국가대표팀.md "wikilink"), [대한민국](../Page/대한민국_축구_국가대표팀.md "wikilink"), 그리고 [그리스가](../Page/그리스_축구_국가대표팀.md "wikilink") 편성되었다.

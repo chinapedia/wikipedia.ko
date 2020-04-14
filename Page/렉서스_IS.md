@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IS](https://ko.wikipedia.org/wiki/_IS).
+> This article is converted from Wikipedia: [렉서스 IS](https://ko.wikipedia.org/wiki/렉서스_IS).
 
 
 **렉서스 IS**(Lexus IS)는 [토요타의](../Page/토요타_자동차.md "wikilink") 고급 브랜드인 [렉서스](../Page/렉서스.md "wikilink")의 후륜구동 컴팩트 스포츠 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이다. IS는 'Intelligent Sedan'의 머릿글자에서 따온 것이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FN -](https://ko.wikipedia.org/wiki/FN_-).
+> This article is converted from Wikipedia: [FN 파이브-세븐](https://ko.wikipedia.org/wiki/FN_파이브-세븐).
 
 
 **FN 파이브-세븐**은 [파브리크 나시오날 드 에르스탈](https://ko.wikipedia.org/wiki/파브리크_나시오날_드_에르스탈 "wikilink")(FN)사에서 제작한 권총으로, [5.7 x 28 mm탄을](https://ko.wikipedia.org/wiki/5.7_x_28_mm "wikilink") 사용하여 타 권총에 비해 방탄복 관통능력이 우수하다. 1993년부터 개발하여, 1999년부터 사용하기 시작했다. 초기형은 안전장치가 없었고, 더블액션만 가능했다.

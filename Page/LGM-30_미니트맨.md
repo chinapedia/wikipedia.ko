@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LGM-30 ](https://ko.wikipedia.org/wiki/LGM-30_).
+> This article is converted from Wikipedia: [LGM-30 미니트맨](https://ko.wikipedia.org/wiki/LGM-30_미니트맨).
 
 
 **LGM-30 미니트맨**(LGM-30 Minuteman)은 미국 [보잉](../Page/보잉.md "wikilink")사가 제작한, 무게 35톤의 대륙간 탄도 미사일이다. 항속 거리는 13,000km이고 최고 속도는 28,400km/h이다. 미니트맨은 1962년에 실전배치되었다.

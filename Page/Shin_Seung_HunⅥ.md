@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Shin Seung Hun](https://ko.wikipedia.org/wiki/Shin_Seung_Hun).
+> This article is converted from Wikipedia: [Shin Seung HunⅥ](https://ko.wikipedia.org/wiki/Shin_Seung_HunⅥ).
 
 
 **은 신승훈의 6번째 정규앨범이며, 1998년 2월 17일 발매됐다. 이는 또한 신승훈이 본인의 전 소속사에서 내는 마지막 앨범이기도 하다.

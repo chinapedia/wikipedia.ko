@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Poker Face \(  \)](https://ko.wikipedia.org/wiki/Poker_Face_\(__\)).
+> This article is converted from Wikipedia: [Poker Face \(레이디 가가의 노래\)](https://ko.wikipedia.org/wiki/Poker_Face_\(레이디_가가의_노래\)).
 
 
 〈**Poker Face**〉는 미국 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 데뷔 앨범 《[The Fame](../Page/The_Fame.md "wikilink")》에 수록된 노래이다. [레드원](../Page/레드원.md "wikilink")이 프로듀서를 맡았으며, 2008년 말 몇몇 국가에서, 2009년 초 나머지 국가에서 앨범의 두 번째 싱글로 발매되었다. 〈Poker Face〉는 빠른 템포의 [신스팝](https://ko.wikipedia.org/wiki/신스팝 "wikilink") 장르 노래로, 이전 싱글 〈[Just Dence](https://ko.wikipedia.org/wiki/Just_Dence "wikilink")〉와 같이 A♭ 마이너 키로 쓰였지만, 훨씬 어둡고 고른 음을 가졌다. 노래의 주요 아이디어는 [양성애](../Page/양성애.md "wikilink")와 가가 자신의 [로큰롤](../Page/로큰롤.md "wikilink") 남자친구들에게 바치는 찬사이다. 가사적인 부분에서는 육체적인 관계를 원하면서도 끝내 허락하지 않는 여자들에 대한 내용이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ZONE \( \)](https://ko.wikipedia.org/wiki/ZONE_\(_\)).
+> This article is converted from Wikipedia: [ZONE \(음악 그룹\)](https://ko.wikipedia.org/wiki/ZONE_\(음악_그룹\)).
 
 
 **Zone**()은 일본의 4인 여자 아이돌 밴드로, [1999년 12월부터](https://ko.wikipedia.org/wiki/1999년_12월 "wikilink") [2005년](../Page/2005년.md "wikilink") [4월 1일까지](../Page/4월_1일.md "wikilink") 활동하였다. 소속사는 [런타임](../Page/런타임.md "wikilink"), 레이블은 [소니 뮤직 레코드이다](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink"). 공식 팬클럽은 , 2005년 봄에 해체되었다. 이후 2011년에 재결성이 되었으나, 멤버의 은퇴와 트러블에 의해 2013년 4월에 활동을 종료하였다.

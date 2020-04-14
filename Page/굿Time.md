@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Time](https://ko.wikipedia.org/wiki/Time).
+> This article is converted from Wikipedia: [굿Time](https://ko.wikipedia.org/wiki/굿Time).
 
 
 《**굿Time**》는 [대한민국](../Page/대한민국.md "wikilink")의 만화가 [김은정](https://ko.wikipedia.org/wiki/김은정 "wikilink")이 그린 [만화](../Page/만화.md "wikilink")이다. 1999년 5월 1일부터 단행본이 발간되었으며, [대원씨아이](https://ko.wikipedia.org/wiki/대원씨아이 "wikilink")가 출판하고 있다. 2001년 3월 1일 4권을 마지막으로 연재가 중단되었다.

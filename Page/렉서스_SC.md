@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [렉서스 SC](https://ko.wikipedia.org/wiki/렉서스_SC).
 
 
 **렉서스 SC**(Lexus SC)는 [일본](../Page/일본.md "wikilink")의 자동차 회사인 [토요타의](../Page/토요타_자동차.md "wikilink") 고급 브랜드인 [렉서스](../Page/렉서스.md "wikilink")에서 나온 [쿠페](../Page/쿠페.md "wikilink")형 승용차이다. SC는 Sports Coupe의 머리 글자에서 따온 것이다.

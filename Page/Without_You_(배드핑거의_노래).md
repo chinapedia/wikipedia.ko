@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Without You \( \)](https://ko.wikipedia.org/wiki/Without_You_\(_\)).
+> This article is converted from Wikipedia: [Without You \(배드핑거의 노래\)](https://ko.wikipedia.org/wiki/Without_You_\(배드핑거의_노래\)).
 
 
 〈**Without You**〉는 그룹 [배드핑거](https://ko.wikipedia.org/wiki/배드핑거 "wikilink")의 [피터 햄과](https://ko.wikipedia.org/wiki/피터_햄 "wikilink") [톰 에반스가](https://ko.wikipedia.org/wiki/톰_에반스 "wikilink") 만든 노래이다. [ASCAP](https://ko.wikipedia.org/wiki/ASCAP "wikilink")에 따르면 [해리 닐슨](../Page/해리_닐슨.md "wikilink"), [머라이어 캐리와](../Page/머라이어_캐리.md "wikilink") 더불어 현재까지 약 180여 명이 리메이크했다.

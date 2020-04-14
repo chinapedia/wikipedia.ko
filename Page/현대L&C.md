@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L\&C](https://ko.wikipedia.org/wiki/L\&C).
+> This article is converted from Wikipedia: [현대L\&C](https://ko.wikipedia.org/wiki/현대L\&C).
 
 
 **현대L\&C**(Hyundai L\&C)는 2014년 7월 한화첨단소재(현 한화솔루션)의 건자재 분야가 분리되어 설립된 [현대백화점그룹](../Page/현대백화점그룹.md "wikilink")의 계열사이다. 현대L\&C의 사명에는 새로운 생활문화공간을 창조하는 기업이라는 ‘Living & Creative’의 뜻과 함께 끊임없는 도전과 변화를 주도해 새로운 기업문화를 창조한다는 ‘Leading & Challenging’의 의미가 함께 내포되어 있다.

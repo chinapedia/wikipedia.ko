@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1991 CONCACAF ](https://ko.wikipedia.org/wiki/1991_CONCACAF_).
+> This article is converted from Wikipedia: [1991년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/1991년_CONCACAF_골드컵).
 
 
 **1991년 CONCACAF 골드컵**(1991 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 1번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1991년](../Page/1991년.md "wikilink") [6월 28일부터](../Page/6월_28일.md "wikilink") [7월 7일까지](../Page/7월_7일.md "wikilink") [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")와 [패서디나에서](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") 개최되었다.

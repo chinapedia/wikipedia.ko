@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2010 FIFA  A](https://ko.wikipedia.org/wiki/2010_FIFA__A).
+> This article is converted from Wikipedia: [2010년 FIFA 월드컵 A조](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_A조).
 
 
 **2010년 FIFA 월드컵 A조**의 경기는 2010년 6월 11일부터 22일까지 치러졌다.\[1\] A조에는 개최국인 [남아프리카 공화국](../Page/남아프리카_공화국_축구_국가대표팀.md "wikilink"), [멕시코](../Page/멕시코_축구_국가대표팀.md "wikilink"), [우루과이](../Page/우루과이_축구_국가대표팀.md "wikilink"), [프랑스가](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink") 들어갔다.

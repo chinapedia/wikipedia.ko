@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Singles Collection \(  \)](https://ko.wikipedia.org/wiki/The_Singles_Collection_\(__\)).
+> This article is converted from Wikipedia: [The Singles Collection \(브리트니 스피어스의 음반\)](https://ko.wikipedia.org/wiki/The_Singles_Collection_\(브리트니_스피어스의_음반\)).
 
 
 ***The Singles Collection***는 미국의 여자 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 2번째 베스트 앨범이다. 2009년에 발매되었다.

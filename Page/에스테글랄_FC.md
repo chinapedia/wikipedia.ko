@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [에스테글랄 FC](https://ko.wikipedia.org/wiki/에스테글랄_FC).
 
 
-**에스테글랄 테헤란 FC** ()은 [이란](../Page/이란.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [수도](../Page/수도.md "wikilink")인 [테헤란](../Page/테헤란.md "wikilink")을 연고로 하고 있다. 옛 이름은 **타지 테헤란 풋볼 클럽** ()이었다. [테헤란](../Page/테헤란.md "wikilink")을 연고로 하고 있는 이 팀은 현재 [이란 프로리그에](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 소속되어 있다. [1945년](../Page/1945년.md "wikilink")에 **두차르케흐 사바란**이라는 이름으로 창단되었으며, [1949년](../Page/1949년.md "wikilink")에 [팔라비 왕조의](../Page/팔라비_왕조.md "wikilink") 왕관을 상징하는 **타지**라는 이름으로 클럽명칭을 변경하였다. [1979년](../Page/1979년.md "wikilink"), [이란 혁명](../Page/이란_혁명.md "wikilink") 이후엔 독립을 뜻하는 **에스테글랄 테헤란 FC**로 다시 클럽명칭을 변경하였다.
+**에스테글랄 테헤란 FC**()은 [이란](../Page/이란.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [수도](../Page/수도.md "wikilink")인 [테헤란](../Page/테헤란.md "wikilink")을 연고로 하고 있다. 옛 이름은 **타지 테헤란 풋볼 클럽**()이었다. [테헤란](../Page/테헤란.md "wikilink")을 연고로 하고 있는 이 팀은 현재 [이란 프로리그에](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 소속되어 있다. [1945년](../Page/1945년.md "wikilink")에 **두차르케흐 사바란**이라는 이름으로 창단되었으며, [1949년](../Page/1949년.md "wikilink")에 [팔라비 왕조의](../Page/팔라비_왕조.md "wikilink") 왕관을 상징하는 **타지**라는 이름으로 클럽명칭을 변경하였다. [1979년](../Page/1979년.md "wikilink"), [이란 혁명](../Page/이란_혁명.md "wikilink") 이후엔 독립을 뜻하는 **에스테글랄 테헤란 FC**로 다시 클럽명칭을 변경하였다.
 
 ## 선수단 및 코칭스태프
 
@@ -90,7 +90,7 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://fcesteghlal.ir)
+  - [공식 홈페이지](https://web.archive.org/web/20110628040957/http://www.fcesteghlal.ir/)
 
   - [선수 기록](https://web.archive.org/web/20100414171803/http://www.iranproleague.net/index.php/teams/teams?id=59&view=team&sid=18)
 

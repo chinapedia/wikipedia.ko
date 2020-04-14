@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  RX](https://ko.wikipedia.org/wiki/__RX).
+> This article is converted from Wikipedia: [가면라이더 블랙 RX](https://ko.wikipedia.org/wiki/가면라이더_블랙_RX).
 
 
 **가면라이더 블랙 RX**(, )는 1988년 10월 23일부터 1989년 9월 24일까지 [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink") 계열로 매주 일요일 10:00 - 10:30(JST)에 전 47화가 방송된 토에이·MBS 제작의 특수 촬영 TV프로 및 작중으로 주인공이 변신하는 히어로의 명칭이다.

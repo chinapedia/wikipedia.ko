@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 CONCACAF ](https://ko.wikipedia.org/wiki/2002_CONCACAF_).
+> This article is converted from Wikipedia: [2002년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2002년_CONCACAF_골드컵).
 
 
 **2002년 CONCACAF 골드컵**(2002 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 6번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [1월 19일부터](../Page/1월_19일.md "wikilink") [2월 2일까지](../Page/2월_2일.md "wikilink") [미국](../Page/미국.md "wikilink") [마이애미](../Page/마이애미.md "wikilink")와 [패서디나에서](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") 개최되었다.

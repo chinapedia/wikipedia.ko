@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [어쌔신 크리드 II](https://ko.wikipedia.org/wiki/어쌔신_크리드_II).
 
 
 **어쌔신 크리드 II**(Assassin's Creed II)는 3인칭 액션 어드벤처 비디오 게임으로 [유비소프트 몬트리올이](https://ko.wikipedia.org/wiki/유비소프트_몬트리올 "wikilink") 개발하고 유비소프트가 배급했다. 어쌔신 크리드 시리즈의 두 번째 작품이며, 에지오 3부작에서 첫 번째 작품이다. [엑스박스 360과](../Page/엑스박스_360.md "wikilink") [PS3](../Page/플레이스테이션_3.md "wikilink") 버전은 2009년 12월 17일 발매되었으며 PC버전은 2010년 3월 12일 발매되었다.

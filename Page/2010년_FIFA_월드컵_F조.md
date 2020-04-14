@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2010 FIFA  F](https://ko.wikipedia.org/wiki/2010_FIFA__F).
+> This article is converted from Wikipedia: [2010년 FIFA 월드컵 F조](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_F조).
 
 
 **[2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") F조**의 일정은 2010년 6월 14일에 시작해 6월 24일에 끝났다.\[1\] F조는 [전 대회](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 우승국 [이탈리아가](../Page/이탈리아_축구_국가대표팀.md "wikilink") [파라과이](../Page/파라과이_축구_국가대표팀.md "wikilink"), [뉴질랜드](../Page/뉴질랜드_축구_국가대표팀.md "wikilink"), 그리고 [슬로바키아와](../Page/슬로바키아_축구_국가대표팀.md "wikilink") 함께 편성된 조였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I](https://ko.wikipedia.org/wiki/_I).
+> This article is converted from Wikipedia: [어떤날 I](https://ko.wikipedia.org/wiki/어떤날_I).
 
 
 《**어떤날 I**》은 1986년 12월 10일 발매된 [어떤날](https://ko.wikipedia.org/wiki/어떤날 "wikilink")의 정규[음반](../Page/음반.md "wikilink") 1집이다. 음반표지에 적힌 *1960 1965*은 [조동익](../Page/조동익.md "wikilink")과 [이병우](../Page/이병우.md "wikilink")가 태어난 해이다.

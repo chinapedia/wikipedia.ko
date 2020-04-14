@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [행성 X](https://ko.wikipedia.org/wiki/행성_X).
 
 
 **행성 X**(Planet X)는 [태양계](../Page/태양계.md "wikilink")에서 [해왕성](../Page/해왕성.md "wikilink")보다 [먼 궤도에서 공전한다고](../Page/해왕성_바깥_행성.md "wikilink") 가정되었던 [행성](../Page/행성.md "wikilink") 크기의 천체다.

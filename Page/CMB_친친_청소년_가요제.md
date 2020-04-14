@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CMB   ](https://ko.wikipedia.org/wiki/CMB___).
+> This article is converted from Wikipedia: [CMB 친친 청소년 가요제](https://ko.wikipedia.org/wiki/CMB_친친_청소년_가요제).
 
 
 **CMB 친친 청소년 가요제**(CMB Chin Chin Star Festival)는 [2003년](../Page/2003년.md "wikilink") [CMB](../Page/CMB_\(방송사\).md "wikilink") 주최로 시작된 청소년 참가의 가요제이다.
@@ -133,7 +133,7 @@
 
 ##### 2009년
 
-  - **대상** : 박성진 - 더 레이 <청소>
+  - **대상** : 성진 - 더 레이 <청소>
   - **금상** : 조경민 - [이은미](../Page/이은미_\(1966년\).md "wikilink") <헤어지는 중입니다>
   - **은상** : [혜미](../Page/혜미_\(1991년\).md "wikilink") - [앤](https://ko.wikipedia.org/wiki/앤_\(가수\) "wikilink") <Memorise>, 최자정 - 나오미 <So Hot>
   - **동상** : 박하맛사탕 - [스윗 소로우](../Page/스윗_소로우.md "wikilink") <그대에게 하는 말>, 김미진 - [BMK](../Page/BMK.md "wikilink") <물들어>, 안현정 - 나비 <길에서>

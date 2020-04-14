@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [30 ROCK \( 3\)](https://ko.wikipedia.org/wiki/30_ROCK_\(_3\)).
+> This article is converted from Wikipedia: [30 ROCK \(시즌 3\)](https://ko.wikipedia.org/wiki/30_ROCK_\(시즌_3\)).
 
 
 미국 TV 코미디 시리즈 《[30 ROCK](../Page/30_ROCK.md "wikilink")》의 세 번째 시즌은 [NBC](../Page/NBC.md "wikilink")에서 2008년 10월 30일부터 2009년 5월 14일까지 방송되었다. 모두 22개의 에피소드로 구성되었다. 《30 ROCK》은 NBC방송국 내에서 이루어지는 코미디쇼 프로그램 *The Girlie Show with Tracy Jordan (TGS)*의 제작진(방송사대표, 피디, 작가 등)과 기타 방송국 스태프, 그리고 코미디 쇼 프로그램 출연진들의 이야기로 구성된다. 주요 구조는 대표작가 [리즈 레몬](https://ko.wikipedia.org/wiki/리즈_레몬 "wikilink")([티나 페이](../Page/티나_페이.md "wikilink"))와 방송사 부사장 [잭 도나기](https://ko.wikipedia.org/wiki/잭_도나기 "wikilink")([앨릭 볼드윈](../Page/앨릭_볼드윈.md "wikilink"))을 중심으로 이루어진다.

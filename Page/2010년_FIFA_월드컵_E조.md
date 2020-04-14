@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2010 FIFA  E](https://ko.wikipedia.org/wiki/2010_FIFA__E).
+> This article is converted from Wikipedia: [2010년 FIFA 월드컵 E조](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_E조).
 
 
 **[2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") E조**의 경기는 2010년 6월 14일부터 6월 24일까지 치러졌다.\[1\] E조에는 [네덜란드](../Page/네덜란드_축구_국가대표팀.md "wikilink"), [덴마크](../Page/덴마크_축구_국가대표팀.md "wikilink"), [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink"), 그리고 [카메룬이](../Page/카메룬_축구_국가대표팀.md "wikilink") 편성되었다.

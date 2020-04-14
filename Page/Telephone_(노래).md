@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Telephone \(\)](https://ko.wikipedia.org/wiki/Telephone_\(\)).
+> This article is converted from Wikipedia: [Telephone \(노래\)](https://ko.wikipedia.org/wiki/Telephone_\(노래\)).
 
 
 "**Telephone**"은 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 싱글 이다. 1집의 리패키지 앨범인 [The Fame Monster에](../Page/The_Fame_Monster.md "wikilink") 수록되어 있으며, 미국의 알앤비 가수 [비욘세 놀스가](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 피처링에 참여하였다. 후에 히트를쳐 레이디 가가의 히트곡으로 남게 되며 세계각지에서 인기를 얻게 된다.

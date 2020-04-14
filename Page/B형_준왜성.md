@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B ](https://ko.wikipedia.org/wiki/B_).
+> This article is converted from Wikipedia: [B형 준왜성](https://ko.wikipedia.org/wiki/B형_준왜성).
 
 
 **B형 준왜성**(── 型準矮星, subdwarf B)은 분광형이 B형인 [준왜성](../Page/준왜성.md "wikilink")의 한 종류이다. B형 준왜성은 H-R도에서 “멀리 떨어진 [수평가지](https://ko.wikipedia.org/wiki/수평가지 "wikilink")”에 존재한다. 이 별은 [적색 거성이](https://ko.wikipedia.org/wiki/적색_거성 "wikilink") 핵에서 [헬륨](../Page/헬륨.md "wikilink")으로 융합될 때, 외부의 수소층을 잃는 일부 별의 진화에서 마지막 단계임을 보여준다. 이런 너무 이른 질량 손실이 일어나는 이유는 확실하진 않지만, [쌍성](../Page/쌍성.md "wikilink")계의 별의 상호작용은 주된 메커니즘의 하나로 생각된다. 단(單)준왜성은 두 [백색 왜성](https://ko.wikipedia.org/wiki/백색_왜성 "wikilink") 간의 병합으로 생성된다. B형 준왜성은 다른 백색 왜성보다 밝고, [구상 성단처럼](https://ko.wikipedia.org/wiki/구상_성단 "wikilink") 오래된 항성계 내 뜨거운 항성의 성분이 많다.\[1\] B형 준왜성은 자외선이미지에서 잘 보인다.

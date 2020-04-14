@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [알가라파 SC](https://ko.wikipedia.org/wiki/알가라파_SC).
 
 
 **알가라파 스포츠 클럽**()은 [카타르](../Page/카타르.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽으로 [수도](../Page/수도.md "wikilink")인 [도하](../Page/도하.md "wikilink")를 연고로 하고 있다.

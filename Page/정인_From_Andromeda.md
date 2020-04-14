@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ From Andromeda](https://ko.wikipedia.org/wiki/_From_Andromeda).
+> This article is converted from Wikipedia: [정인 From Andromeda](https://ko.wikipedia.org/wiki/정인_From_Andromeda).
 
 
 **정인 From Andromeda**는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [정인이](../Page/정인_\(가수\).md "wikilink") 발표한 첫 번째 솔로 음반이다.

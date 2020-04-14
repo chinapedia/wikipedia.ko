@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [IBM  M](https://ko.wikipedia.org/wiki/IBM__M).
+> This article is converted from Wikipedia: [IBM 모델 M](https://ko.wikipedia.org/wiki/IBM_모델_M).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:ModelM.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Unicomp_keyboard.jpg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:ModelM.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Unicomp_keyboard.jpg "wikilink")
 
 **M형 자판**(Model M keyboard)은 IBM과 렉스마크(Lexmark)와 유니콤프(Unicomp), MaxiSwitch가 제조한 컴퓨터 자판의 일종으로, 1984년부터 만들기 시작했다. 이 자판의 다양한 여러 변종은 그만의 구분되는 특성을 지니는데, 거의 대다수는 버클링 스프링(buckling spring) 방식을 택하고 있고 다수는 키캡을 완전히 교환 가능하다. M형 자판은 타자시의 촉각적, 청각적인 피드백 때문에 컴퓨터 애호가들과 자판 사용이 많은 이들에게 높은 평가를 받았다.
 

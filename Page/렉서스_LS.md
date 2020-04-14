@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ LS](https://ko.wikipedia.org/wiki/_LS).
+> This article is converted from Wikipedia: [렉서스 LS](https://ko.wikipedia.org/wiki/렉서스_LS).
 
 
 **렉서스 LS**(Lexus LS)는 [토요타의](../Page/토요타_자동차.md "wikilink") 고급 브랜드인 [렉서스](../Page/렉서스.md "wikilink")의 첫 차종이며, [렉서스](../Page/렉서스.md "wikilink")의 플래그십 모델인 대형 세단이다. LS는 Luxury Sedan의 머리 글자에서 따온 것이다.

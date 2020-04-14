@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JIT ](https://ko.wikipedia.org/wiki/JIT_).
+> This article is converted from Wikipedia: [JIT 컴파일](https://ko.wikipedia.org/wiki/JIT_컴파일).
 
 
 **JIT 컴파일**() 또는 **동적 번역**()은 프로그램을 실제 실행하는 시점에 [기계어](../Page/기계어.md "wikilink")로 번역하는 [컴파일](https://ko.wikipedia.org/wiki/컴파일 "wikilink") 기법이다. 이 기법은 프로그램의 실행 속도를 빠르게 하기 위해 사용된다.

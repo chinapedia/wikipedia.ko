@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATI ](https://ko.wikipedia.org/wiki/ATI_).
+> This article is converted from Wikipedia: [ATI 마하](https://ko.wikipedia.org/wiki/ATI_마하).
 
 
 **마하**(**Mach**)는 [ATI](https://ko.wikipedia.org/wiki/ATI "wikilink")에서 개발한 개인용 컴퓨터의 2D 그래픽 가속 칩셋이다.

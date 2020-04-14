@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CryOur Wanna Be Nation!](https://ko.wikipedia.org/wiki/CryOur_Wanna_Be_Nation!).
+> This article is converted from Wikipedia: [Cry…Our Wanna Be Nation!](https://ko.wikipedia.org/wiki/Cry…Our_Wanna_Be_Nation!).
 
 
 《**Cry…Our Wanna Be Nation\!**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [유앤미 블루의](../Page/유앤미_블루.md "wikilink") 두 번째 정규 앨범이다.\[1\] 수록곡 중 〈그대 영혼에〉는 영화 [아름다운 청년 전태일에](../Page/아름다운_청년_전태일.md "wikilink") 삽입되기도 했다. 이 음반을 끝으로 [이승열](../Page/이승열.md "wikilink"), 방준석 두 멤버는 각각 솔로 활동을 시작하게 된다.

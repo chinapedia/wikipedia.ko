@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [가면라이더 X](https://ko.wikipedia.org/wiki/가면라이더_X).
 
 
 **가면라이더 X**(, )는 1974년 2월 16일부터 1974년 10월 12일까지 [NET계열로](../Page/TV_아사히.md "wikilink") 매주 토요일 19:30 - 20:00(JST)에 전 35화가 방송된 토에이 제작의 특수 촬영 TV프로 및 작중으로 주인공이 변신하는 히어로의 3번째 가면라이더 시리즈다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Best](https://ko.wikipedia.org/wiki/_Best).
+> This article is converted from Wikipedia: [이소라 Best](https://ko.wikipedia.org/wiki/이소라_Best).
 
 
 데뷔 7년을 정리하는 1999년에 발매된 《**이소라 Best**》음반이다.

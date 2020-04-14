@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  B](https://ko.wikipedia.org/wiki/__B).
+> This article is converted from Wikipedia: [도망자 플랜 B](https://ko.wikipedia.org/wiki/도망자_플랜_B).
 
 
 《**도망자 플랜 B**》는 [2010년](../Page/2010년.md "wikilink") [9월 29일부터](../Page/9월_29일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [12월 8일까지](../Page/12월_8일.md "wikilink") 방영된 [KBS 수목 미니시리즈이다](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink").

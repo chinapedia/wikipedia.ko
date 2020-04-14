@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    XIII](https://ko.wikipedia.org/wiki/____XIII).
+> This article is converted from Wikipedia: [더 킹 오브 파이터즈 XIII](https://ko.wikipedia.org/wiki/더_킹_오브_파이터즈_XIII).
 
 
 《**더 킹 오브 파이터즈 XIII**》(, 약칭 **KOF XIII**)은 [SNK](../Page/SNK.md "wikilink")가 제작한 2010년 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 2010년 7월 14일 [타이토 타입 X2](https://ko.wikipedia.org/wiki/타이토_타입_X2 "wikilink") 기판으로 일본에서 발매됐으며, 이후 2011년 가정용 버전이 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink") 및 [엑스박스 360](../Page/엑스박스_360.md "wikilink") 기종으로 전세계로 출시됐다. 《[더 킹 오브 파이터즈](../Page/더_킹_오브_파이터즈.md "wikilink")》 시리즈 열세번째 작품으로, [더 킹 오브 파이터즈 XI에](../Page/더_킹_오브_파이터즈_XI.md "wikilink") 은 '크림슨 사가'의 완결편이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ITT ](https://ko.wikipedia.org/wiki/ITT_).
+> This article is converted from Wikipedia: [ITT 코퍼레이션](https://ko.wikipedia.org/wiki/ITT_코퍼레이션).
 
 
 **ITT 코퍼레이션**(ITT Corporation)은 미국의 [복합 기업이다](https://ko.wikipedia.org/wiki/복합_기업 "wikilink").

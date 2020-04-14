@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Sm6](https://ko.wikipedia.org/wiki/__Sm6).
+> This article is converted from Wikipedia: [카렐리안 트레인즈 Sm6](https://ko.wikipedia.org/wiki/카렐리안_트레인즈_Sm6).
 
 
 **카렐리안 트레인즈 Sm6** 또는 **알레그로**()는 [핀란드](../Page/핀란드.md "wikilink") [헬싱키](../Page/헬싱키.md "wikilink")와 [러시아](../Page/러시아.md "wikilink") [상트페테르부르크](../Page/상트페테르부르크.md "wikilink")를 잇는 전동차로, VR 그룹(핀란드)과 RZD(러시아)가 50-50으로 합작 투자한 카렐리안 트레인즈가 운영한다. [알스톰](../Page/알스톰.md "wikilink") [펜돌리노](../Page/펜돌리노.md "wikilink") 계열 전동차로, 영업 최고 속도는 시속 220[km이다](https://ko.wikipedia.org/wiki/킬로미터 "wikilink"). 기존에 운행 중인 시벨리우스 열차가 약 5시간 30분 걸렸던 거리를 3시간 30분으로 단축시켰다.\[1\] 알스톰 이탈리아 공장에서 생산되었으며, 2010년 1월 15일 첫 차량이 부오사리 항을 통하여 반입되었다.

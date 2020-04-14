@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FIFA ](https://ko.wikipedia.org/wiki/:FIFA_).
+> This article is converted from Wikipedia: [틀:FIFA 랭킹](https://ko.wikipedia.org/wiki/틀:FIFA_랭킹).
 
 
 |                                  FIFA 랭킹 TOP 20\[1\]                                  |

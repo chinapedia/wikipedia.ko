@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ZX](https://ko.wikipedia.org/wiki/_ZX).
+> This article is converted from Wikipedia: [가면라이더 ZX](https://ko.wikipedia.org/wiki/가면라이더_ZX).
 
 
 '''가면라이더 '''(, )는 1980년 1월 4일에 방영한 스페셜방송으로 [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink")계열로 방송된 토에이 제작의 특수 촬영 TV프로 및 작중으로 주인공이 변신하는 히어로의 스페셜 가면라이더 시리즈다.

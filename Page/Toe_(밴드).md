@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Toe \(\)](https://ko.wikipedia.org/wiki/Toe_\(\)).
+> This article is converted from Wikipedia: [Toe \(밴드\)](https://ko.wikipedia.org/wiki/Toe_\(밴드\)).
 
 
 **토**(toe)는 [2000년](../Page/2000년.md "wikilink")에 결성된 [일본](../Page/일본.md "wikilink")의 [포스트 록](../Page/포스트_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/밴드 "wikilink")이다. 노래는 [기악](../Page/기악.md "wikilink")곡이 많지만, 샤카좀비 (Shakkazombie)의 오스미, 클램본의 하라다 이쿠코 등이 게스트 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")로 참가한 곡도 있다. 또, 두 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 《New Sentimentality》에서는 기타를 맡고있는 야마자키가 보컬을 맡은 곡도 있다.

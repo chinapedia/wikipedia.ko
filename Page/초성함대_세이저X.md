@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [초성함대 세이저X](https://ko.wikipedia.org/wiki/초성함대_세이저X).
 
 
 **초성함대 세이저X**는 [2005년](../Page/2005년.md "wikilink") [10월 1일부터](../Page/10월_1일.md "wikilink") [2006년](../Page/2006년.md "wikilink") [6월 24일까지](../Page/6월_24일.md "wikilink") [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") 계열된 [일본](../Page/일본.md "wikilink")의 특촬물 액션이다. [애니원](../Page/애니원.md "wikilink"), [챔프](../Page/챔프TV.md "wikilink"), [재능TV](../Page/재능TV.md "wikilink"), [어린이TV](https://ko.wikipedia.org/wiki/어린이TV "wikilink")에서도 방영을 했었다.

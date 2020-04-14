@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTML5 ](https://ko.wikipedia.org/wiki/HTML5_).
+> This article is converted from Wikipedia: [HTML5 비디오](https://ko.wikipedia.org/wiki/HTML5_비디오).
 
 
 **HTML5 비디오**(HTML5 video) 태그는 [HTML5](../Page/HTML5.md "wikilink") 초안 규격에서 소개된 마크업 언어 태그로 HTML 페이지의 동영상을 임베드(embed)하는 것을 지원해 준다. [2010년](../Page/2010년.md "wikilink") 4월, [어도비 플래시 플레이어는](../Page/어도비_플래시_플레이어.md "wikilink") [유튜브](../Page/유튜브.md "wikilink")와 같은 웹사이트에서 동영상을 포함하는데 널리 사용된다. 이것은 애플의 [아이폰](../Page/아이폰.md "wikilink")이나 [아이패드](../Page/아이패드.md "wikilink")와 같은 특정 브라우저를 제외하고는 대다수의 웹 브라우저에 [어도비 플래시 플레이어가](../Page/어도비_플래시_플레이어.md "wikilink") 설치되어 있기 때문이다. HTML5 동영상은 동영상 온라인을 보여주기 위한 새로운 표준 방식이 될 예정이었지만, 어떤 동영상 포맷이 동영상 태그에서 지원될 것인지 하는 것에 대한 합의 부족으로 방해를 받아왔다.

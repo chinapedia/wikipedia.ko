@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T\* II](https://ko.wikipedia.org/wiki/_T\*_II).
+> This article is converted from Wikipedia: [애니콜 T\*옴니아 II](https://ko.wikipedia.org/wiki/애니콜_T\*옴니아_II).
 
 
 **애니콜 T\*옴니아 II**()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2009년](../Page/2009년.md "wikilink") [10월 22일에](../Page/10월_22일.md "wikilink") 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [삼성 옴니아 II의](../Page/삼성_옴니아_II.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")판으로서, [T\*옴니아의](../Page/애니콜_T*옴니아.md "wikilink") 후속 기종으로 출시되었으며, [아이폰 3GS의](../Page/아이폰_3GS.md "wikilink") 대항마를 표방하며 쉬운 사용자 인터페이스와 [지상파 DMB](../Page/디지털_멀티미디어_방송.md "wikilink"), [DivX](../Page/DivX.md "wikilink") 재생 기능 등 [대한민국](../Page/대한민국.md "wikilink") 시장에 특화된 기능을 내세워 [2010년 1월](../Page/2010년_1월.md "wikilink"), 출시 3개월만에 30만대를 판매하는 기록을 세웠다.\[2\]

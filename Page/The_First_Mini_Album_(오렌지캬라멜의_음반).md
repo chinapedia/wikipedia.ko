@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The First Mini Album \( \)](https://ko.wikipedia.org/wiki/The_First_Mini_Album_\(_\)).
+> This article is converted from Wikipedia: [The First Mini Album \(오렌지캬라멜의 음반\)](https://ko.wikipedia.org/wiki/The_First_Mini_Album_\(오렌지캬라멜의_음반\)).
 
 
 《**The First Mini Album**》은 [대한민국](../Page/대한민국.md "wikilink") [걸 그룹](../Page/걸_그룹.md "wikilink") [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 유닛 그룹인 [오렌지캬라멜](../Page/오렌지캬라멜.md "wikilink")의 첫 번째 EP 음반이다. 타이틀곡은 "마법소녀"로 기존의 애프터스쿨의 이미지를 벗어나 귀엽고 깜찍한 컨셉으로 눈길을 끌었으며, 뮤직비디오에는 [씨엔블루](../Page/씨엔블루.md "wikilink")의 드러머 [강민혁이](../Page/강민혁_\(가수\).md "wikilink") 출연해 화제를 모으기도 했다. 3번 트랙의 "The Day You Went Away"는 [싱가포르](../Page/싱가포르.md "wikilink")와 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink") 그리고 중화권의 몇몇 국가에만 있는 특별 수록곡이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBS](https://ko.wikipedia.org/wiki/IBS).
+> This article is converted from Wikipedia: [가야IBS](https://ko.wikipedia.org/wiki/가야IBS).
 
 
 **가야IBS**(伽倻-)은 [태영운송그룹](../Page/태영운송그룹.md "wikilink") 계열 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 자회사이자 경상남도 김해시 생림대로 95-31 (삼계동)에 본사를, 김해시 골든루트로66번길 143 (풍유동)에 본점을 둔 [버스](../Page/버스.md "wikilink") 운송 업체이다. 주로 [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 지역과 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [창원시](../Page/창원시.md "wikilink") 지역을 기점으로 하는 노선을 운행한다.

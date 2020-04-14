@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Ann](https://ko.wikipedia.org/wiki/:Ann).
+> This article is converted from Wikipedia: [틀:Ann](https://ko.wikipedia.org/wiki/틀:Ann).
 
 
 \[<http://www.animenewsnetwork.com/encyclopedia/>{{

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T\*](https://ko.wikipedia.org/wiki/_T\*).
+> This article is converted from Wikipedia: [애니콜 T\*옴니아](https://ko.wikipedia.org/wiki/애니콜_T\*옴니아).
 
 
 **애니콜 T\*옴니아**()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [11월 26일에](../Page/11월_26일.md "wikilink") 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [삼성 옴니아를](../Page/삼성_옴니아.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") 시장 실정에 맞게 리모델링하여 출시한 제품이며, [대한민국](../Page/대한민국.md "wikilink") 시장에 출시된 스마트폰 중 유일하게 [위성 DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 수신기를 내장한 기종이다. 외관이 [애니콜 햅틱 II와](../Page/애니콜_햅틱_II.md "wikilink") 유사하고, 햅틱 아몰레드가 나오기 이전까지는 화면이 가장 큰 스마트폰이었다.

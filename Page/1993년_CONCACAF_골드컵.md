@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1993 CONCACAF ](https://ko.wikipedia.org/wiki/1993_CONCACAF_).
+> This article is converted from Wikipedia: [1993년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/1993년_CONCACAF_골드컵).
 
 
 **1993년 CONCACAF 골드컵**(1993 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 2번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1993년](../Page/1993년.md "wikilink") [7월 10일부터](../Page/7월_10일.md "wikilink") [7월 25일까지](../Page/7월_25일.md "wikilink") [미국](../Page/미국.md "wikilink") [댈러스](../Page/댈러스.md "wikilink")와 [멕시코](../Page/멕시코.md "wikilink") [멕시코시티](../Page/멕시코시티.md "wikilink")에서 개최되었다.

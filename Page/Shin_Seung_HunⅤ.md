@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Shin Seung Hun](https://ko.wikipedia.org/wiki/Shin_Seung_Hun).
+> This article is converted from Wikipedia: [Shin Seung HunⅤ](https://ko.wikipedia.org/wiki/Shin_Seung_HunⅤ).
 
 
 **《*Shin Seung HunⅤ*》**은 신승훈의 5번째 정규앨범이며, 1996년 5월 8일 발매됐다. 이는 또한 신승훈이 처음으로 작사, 작곡, 편곡, 프로듀서까지 다 참여해 본인의 능력을 보여준 앨범이다.

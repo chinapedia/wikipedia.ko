@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  2010 Season 2](https://ko.wikipedia.org/wiki/__2010_Season_2).
+> This article is converted from Wikipedia: [대한항공 스타리그 2010 Season 2](https://ko.wikipedia.org/wiki/대한항공_스타리그_2010_Season_2).
 
 
 **대한항공 스타리그 2010 시즌 2**(Korean Air Starleague 2010 Season2)는 온게임넷과 스포츠조선의 공동 주최로 이루어지는 이스포츠에서 가장 권위 있는 스타크래프트 개인전인 스타리그의 30번째 대회이며 2010년에 열린 2번째 스타리그이다. 특히 이번 스타리그는 스타리그 사상 최초로 해외에서 결승전이 열린 스타리그이다.
@@ -166,21 +166,21 @@
 
   - 종전 36강이 하루에 16강 진출자를 내는 방식으로 치뤘으나 이번시즌은 36강을 하루에 3개조 경기, 수요일에 매치 1, 금요일에 매치 2를 치루는 방식으로 바꿔 한 주차에 3명의 진출자를 내는 방식으로 진행한다.
 
-|    |                                                                   |        |
-| -- | ----------------------------------------------------------------- | ------ |
-| 조  | 매치 1                                                              | 매치 2   |
-| A조 | **[차명환](../Page/차명환.md "wikilink")**                              | **2**  |
-| B조 | **[윤용태](../Page/윤용태.md "wikilink")**                              | **2**  |
-| C조 | [허영무](../Page/허영무.md "wikilink")                                  | 0      |
-| D조 | [이재호](https://ko.wikipedia.org/wiki/이재호_\(프로게이머\) "wikilink")     | 1      |
-| E조 | **[신상문](../Page/신상문.md "wikilink")**                              | **2**  |
-| F조 | **[김택용](../Page/김택용.md "wikilink")**                              | **2**  |
-| G조 | **[박상우](https://ko.wikipedia.org/wiki/박상우_\(1989년\) "wikilink")** | **2**  |
-| H조 | [김윤중](../Page/김윤중.md "wikilink")                                  | 1      |
-| I조 | **[구성훈](../Page/구성훈.md "wikilink")**                              | *' 2*' |
-| J조 | [김대엽](../Page/김대엽.md "wikilink")                                  | 1      |
-| K조 | **[조병세](../Page/조병세_\(프로게이머\).md "wikilink")**                    | **2**  |
-| L조 | **[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")**           | *' 2*' |
+|    |                                                               |        |
+| -- | ------------------------------------------------------------- | ------ |
+| 조  | 매치 1                                                          | 매치 2   |
+| A조 | **[차명환](../Page/차명환.md "wikilink")**                          | **2**  |
+| B조 | **[윤용태](../Page/윤용태.md "wikilink")**                          | **2**  |
+| C조 | [허영무](../Page/허영무.md "wikilink")                              | 0      |
+| D조 | [이재호](https://ko.wikipedia.org/wiki/이재호_\(프로게이머\) "wikilink") | 1      |
+| E조 | **[신상문](../Page/신상문.md "wikilink")**                          | **2**  |
+| F조 | **[김택용](../Page/김택용.md "wikilink")**                          | **2**  |
+| G조 | **[박상우](../Page/박상우_\(프로게이머\).md "wikilink")**                | **2**  |
+| H조 | [김윤중](../Page/김윤중.md "wikilink")                              | 1      |
+| I조 | **[구성훈](../Page/구성훈.md "wikilink")**                          | *' 2*' |
+| J조 | [김대엽](../Page/김대엽.md "wikilink")                              | 1      |
+| K조 | **[조병세](../Page/조병세_\(프로게이머\).md "wikilink")**                | **2**  |
+| L조 | **[이제동](https://ko.wikipedia.org/wiki/이제동 "wikilink")**       | *' 2*' |
 
 ## 16강
 

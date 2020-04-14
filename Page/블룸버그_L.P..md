@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L.P.](https://ko.wikipedia.org/wiki/_L.P.).
+> This article is converted from Wikipedia: [블룸버그 L.P.](https://ko.wikipedia.org/wiki/블룸버그_L.P.).
 
 
 **블룸버그 L. P.**( )는 1981년 전 [뉴욕](../Page/뉴욕.md "wikilink") 시장인 [마이클 블룸버그에](../Page/마이클_블룸버그.md "wikilink") 의해 창립된 24시간 경제전문 뉴스를 서비스하는 미디어 그룹으로 본사는 [미국](../Page/미국.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")에 있다.

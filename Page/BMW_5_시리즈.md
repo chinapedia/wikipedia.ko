@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMW 5 ](https://ko.wikipedia.org/wiki/BMW_5_).
+> This article is converted from Wikipedia: [BMW 5 시리즈](https://ko.wikipedia.org/wiki/BMW_5_시리즈).
 
 
 **BMW 5 시리즈**(BMW 5 Series)는 [독일](../Page/독일.md "wikilink")의 [BMW](../Page/BMW.md "wikilink")가 생산하는 승용차로, E 세그먼트에 속한다.

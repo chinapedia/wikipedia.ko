@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Su-35BM](https://ko.wikipedia.org/wiki/_Su-35BM).
+> This article is converted from Wikipedia: [수호이 Su-35BM](https://ko.wikipedia.org/wiki/수호이_Su-35BM).
 
 
 [`섬네일`](https://ko.wikipedia.org/wiki/파일:Russian_Air_Force_Sukhoi_Su-35_Belyakov.jpg "wikilink")

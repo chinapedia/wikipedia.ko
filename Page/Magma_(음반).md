@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Magma \(\)](https://ko.wikipedia.org/wiki/Magma_\(\)).
+> This article is converted from Wikipedia: [Magma \(음반\)](https://ko.wikipedia.org/wiki/Magma_\(음반\)).
 
 
 《**Magma**》는 1981년 10월 10일에 발매한 [대한민국](../Page/대한민국.md "wikilink")의 록 밴드 [마그마의](https://ko.wikipedia.org/wiki/마그마_\(밴드\) "wikilink") 첫 번째 음반이자 마지막 음반이다. 이 음반은 마그마가 왜 1980년대 한국 대중음악의 전설적 밴드로 회자되는지 명쾌하게 보여준다. 단 한 장의 독집을 남기고 사라졌지만 마그마의 실험적이고 파괴적인 사운드는 록의 본고장 [영국](../Page/영국.md "wikilink")에서도 찬사를 보냈다.

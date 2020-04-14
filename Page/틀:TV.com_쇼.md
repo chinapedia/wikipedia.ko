@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TV.com ](https://ko.wikipedia.org/wiki/:TV.com_).
+> This article is converted from Wikipedia: [틀:TV.com 쇼](https://ko.wikipedia.org/wiki/틀:TV.com_쇼).
 
 
 {{\#if: }}}

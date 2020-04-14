@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STX](https://ko.wikipedia.org/wiki/STX).
+> This article is converted from Wikipedia: [STX건설](https://ko.wikipedia.org/wiki/STX건설).
 
 
 **STX건설** 주식회사는 대한민국 [STX그룹](../Page/STX그룹.md "wikilink")에서 분리된 건설사이다. ‘Rebuild the Value for Vision 2030’이라는 슬로건을 목표로 그간 전경련 회관 신축, 부산국제금용센터 복 합개발, 한강플로팅 아일랜드, OSTT 온산탱크터미널, 이라크 디젤파워플랜트, STX대련 조선해양 종합생산기지 등 새로운 랜드마크 건설과 대형 개발사업에 참여하였다.

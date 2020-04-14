@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KPS](https://ko.wikipedia.org/wiki/KPS).
+> This article is converted from Wikipedia: [한전KPS](https://ko.wikipedia.org/wiki/한전KPS).
 
 
 **한전KPS**주식회사(韓電-)는 발전플랜트 설비 진단 및 성능개선, 국내외 발전설비, 신재생 EPC, 산업설비, 송변전 설비 등에 대한 Total 서비스를 제공하는 전문회사이다. 코스피 100대 상장 기업이며, 준시장형 공기업으로 분류된다. 모기업은 한국전력공사이다. 본사는 [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [나주시](https://ko.wikipedia.org/wiki/나주시 "wikilink") 문화로 211 (빛가람동)에 위치에 있다.

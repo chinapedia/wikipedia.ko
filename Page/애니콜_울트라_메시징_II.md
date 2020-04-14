@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   II](https://ko.wikipedia.org/wiki/___II).
+> This article is converted from Wikipedia: [애니콜 울트라 메시징 II](https://ko.wikipedia.org/wiki/애니콜_울트라_메시징_II).
 
 
 **애니콜 울트라 메시징 II**(), 혹은 삼성 미라지()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [7월 16일에](../Page/7월_16일.md "wikilink") 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

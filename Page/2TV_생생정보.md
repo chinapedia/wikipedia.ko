@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2TV ](https://ko.wikipedia.org/wiki/2TV_).
+> This article is converted from Wikipedia: [2TV 생생정보](https://ko.wikipedia.org/wiki/2TV_생생정보).
 
 
 《**2TV 생생정보**》는 매주 [월요일](../Page/월요일.md "wikilink") \~ [금요일](../Page/금요일.md "wikilink") 저녁 6시 30분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [시사](../Page/시사.md "wikilink")[교양](../Page/교양.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.
@@ -13,8 +13,8 @@
 | --- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------- |
 | 남성  | 여성                                                                              |                                                                            |                               |
 | 1대  | [전현무](../Page/전현무.md "wikilink"), [한석준](../Page/한석준.md "wikilink")              | [이지애](../Page/이지애.md "wikilink")                                           | 2010년 5월 3일 \~ 2010년 12월 24일  |
-| 2대  | [전현무](../Page/전현무.md "wikilink"), [김현욱](../Page/김현욱_\(방송인\).md "wikilink")      | 2010년 12월 27일 \~ 2011년 4월 22일                                              |                               |
-| 3대  | [도경완](../Page/도경완.md "wikilink"), [김현욱](../Page/김현욱_\(방송인\).md "wikilink")      | 2011년 4월 25일 \~ 2011년 10월 28일                                              |                               |
+| 2대  | [전현무](../Page/전현무.md "wikilink"), [김현욱](../Page/김현욱_\(방송인\).md "wikilink")      | 2010년 12월 27일 \~ 2011년 4월 29일                                              |                               |
+| 3대  | [도경완](../Page/도경완.md "wikilink"), [김현욱](../Page/김현욱_\(방송인\).md "wikilink")      | 2011년 5월 2일 \~ 2011년 10월 28일                                               |                               |
 | 4대  | [도경완](../Page/도경완.md "wikilink")                                                | [이지애](../Page/이지애.md "wikilink"), [김경란](../Page/김경란_\(방송인\).md "wikilink") | 2011년 10월 31일 \~ 2012년 8월 23일 |
 | 5대  | [이지애](../Page/이지애.md "wikilink"), [이정민](../Page/이정민_\(1980년_5월\).md "wikilink") | 2012년 8월 27일 \~ 2013년 6월 20일                                               |                               |
 | 6대  | [도경완](../Page/도경완.md "wikilink"), [조충현](../Page/조충현.md "wikilink")              | [이지애](../Page/이지애.md "wikilink")                                           | 2013년 6월 24일 \~ 2014년 2월 20일  |

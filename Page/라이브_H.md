@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H](https://ko.wikipedia.org/wiki/_H).
+> This article is converted from Wikipedia: [라이브 H](https://ko.wikipedia.org/wiki/라이브_H).
 
 
 《**라이브 H**》()는 [1998년](../Page/1998년.md "wikilink") [1월 2일부터](../Page/1월_2일.md "wikilink") [1999](https://ko.wikipedia.org/wiki/1999 "wikilink")년 [4월 24일까지](../Page/4월_24일.md "wikilink") 방영한 [SBS TV의](../Page/SBS_TV.md "wikilink") [텔레비전](../Page/텔레비전.md "wikilink") [음악 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

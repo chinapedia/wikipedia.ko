@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S-](https://ko.wikipedia.org/wiki/S-).
+> This article is converted from Wikipedia: [S-토그](https://ko.wikipedia.org/wiki/S-토그).
 
 
 **S-토그**() 시스템은 [덴마크](../Page/덴마크.md "wikilink") [코펜하겐](../Page/코펜하겐.md "wikilink") 및 인접 지역을 연결하는 광역 철도이다. [1934년](../Page/1934년.md "wikilink") 첫 노선이 개통하였고, 전체 역의 절반 정도가 코펜하겐 시내에 있다. 일일 이용자 수는 일일 30만 명 이상이다. DSB의 자회사 DSB S-토그 A/S에서 소유 및 운영하고 있다.

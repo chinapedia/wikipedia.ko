@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2010 FIFA  G](https://ko.wikipedia.org/wiki/2010_FIFA__G).
+> This article is converted from Wikipedia: [2010년 FIFA 월드컵 G조](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_G조).
 
 
 **[2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") G조**의 경기들은 2010년 6월 15일과 6월 25일 사이에 치러졌다.\[1\] G조에는 [코파 아메리카](../Page/코파_아메리카.md "wikilink") 우승국 [브라질이](../Page/브라질_축구_국가대표팀.md "wikilink") 속해 있었고, 이들은 [조선민주주의인민공화국](../Page/조선민주주의인민공화국_축구_국가대표팀.md "wikilink"), [코트디부아르](https://ko.wikipedia.org/wiki/코트디부아르_축구_국가대표팀 "wikilink"), 그리고 [포르투갈을](../Page/포르투갈_축구_국가대표팀.md "wikilink") 상대하였다.

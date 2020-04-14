@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RNA](https://ko.wikipedia.org/wiki/_RNA).
+> This article is converted from Wikipedia: [운반 RNA](https://ko.wikipedia.org/wiki/운반_RNA).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:TRNA_illustration_Korean.png "wikilink") **운반 RNA**는 [유전자 발현을](../Page/유전자_발현.md "wikilink") 통한 [단백질](../Page/단백질.md "wikilink")의 합성에 관여하는 저분자 [RNA](../Page/RNA.md "wikilink")이다. 염기서열의 끝에서 [아미노산](../Page/아미노산.md "wikilink")과 결합되며, [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")의 염기서열 일부가 [안티코돈](https://ko.wikipedia.org/wiki/안티코돈 "wikilink")을 이룬다.

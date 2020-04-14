@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  ](https://ko.wikipedia.org/wiki/KBS__).
+> This article is converted from Wikipedia: [KBS 특별기획 한국전쟁](https://ko.wikipedia.org/wiki/KBS_특별기획_한국전쟁).
 
 
 《**KBS 특별기획 한국전쟁**》은 한국전쟁에 관한 이야기를 담고 있는 다큐멘터리이다. [2010년](../Page/2010년.md "wikilink") [6월 6일부터](../Page/6월_6일.md "wikilink") [6월 27일까지](../Page/6월_27일.md "wikilink") 총 10부에 걸쳐서 방송한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [애니콜 햅틱 II](https://ko.wikipedia.org/wiki/애니콜_햅틱_II).
 
 
 **애니콜 햅틱 II**()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [9월 25일에](../Page/9월_25일.md "wikilink") 출시한 [휴대 전화이다](../Page/휴대_전화.md "wikilink").\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  E](https://ko.wikipedia.org/wiki/__E).
+> This article is converted from Wikipedia: [부에노스아이레스 지하철 E선](https://ko.wikipedia.org/wiki/부에노스아이레스_지하철_E선).
 
 
 **숩테 E선**(La línea E del subte de Buenos Aires)은 [아르헨티나](../Page/아르헨티나.md "wikilink")의 수도 [부에노스아이레스](../Page/부에노스아이레스.md "wikilink")의 "보라색" 노선으로 [1944년](../Page/1944년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") 개통되었다.

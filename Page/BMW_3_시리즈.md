@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMW 3 ](https://ko.wikipedia.org/wiki/BMW_3_).
+> This article is converted from Wikipedia: [BMW 3 시리즈](https://ko.wikipedia.org/wiki/BMW_3_시리즈).
 
 
 **BMW 3 시리즈**(BMW 3 Series)는 [1975년](../Page/1975년.md "wikilink")에 출시된 [BMW](../Page/BMW.md "wikilink")의 승용차이다.

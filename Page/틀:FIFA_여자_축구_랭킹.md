@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FIFA   ](https://ko.wikipedia.org/wiki/:FIFA___).
+> This article is converted from Wikipedia: [틀:FIFA 여자 축구 랭킹](https://ko.wikipedia.org/wiki/틀:FIFA_여자_축구_랭킹).
 
 
 <onlyinclude>{| class="wikitable" style="font-size: 90%; float: right; margin-left: 1em;" |- \!colspan=3 align="center"|FIFA 여자 축구 랭킹 TOP 20 |- \!순위\!\!팀\!\!점수 |- \!1 |  || align="right"|2101 |- \!2 | || align="right" |2072 |- \!3 | || align="right" |2049 |- \!4 | || align="right" |2043 |- \!5 | || align="right" |2006 |- \!6 || || align="right" |2003 |- \!7 || || align="right" |1991 |- \!8 || || align="right" |1967 |- \!9 || || align="right" |1962 |- \!10 | || align="right"|1944 |- \!11 | || align="right" |1940 |- \!12 | || align="right"|1915 |- \!13 | || align="right"|1913 |- \!14 |  || align="right"|1883 |- \!15 | || align="right" |1868 |- \!16 | || align="right" |1866 |- \!17 | || align="right"|1840 |- \!18 | || align="right"|1828 |- \!19 | || align="right"|1815 |- \!20 | || align="right"|1812 |- |colspan=3 align="center"|[2019년 3월 29일 기준](http://www.fifa.com/fifa-world-ranking/ranking-table/women/index.html) |}</onlyinclude>

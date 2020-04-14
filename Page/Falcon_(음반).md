@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Falcon \(\)](https://ko.wikipedia.org/wiki/Falcon_\(\)).
+> This article is converted from Wikipedia: [Falcon \(음반\)](https://ko.wikipedia.org/wiki/Falcon_\(음반\)).
 
 
 **Falcon**은 [영국](../Page/영국.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")의 [인디 록](../Page/인디_록.md "wikilink") 밴드 [커티너스](../Page/커티너스.md "wikilink")(The Courteeners)의 두 번째 정규 음반이다. 보컬 및 기타리스트를 맡고 있는 리암 프레이가 전곡의 작곡 및 작사를 담당했다. 이것은 공식적으로 [2009년](../Page/2009년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") 사전 예약이 가능했지만, 앨범은 2010년 2월 22일 발매되었다. 앨범 발매 후에 많은 비평가들로부터 다양한 평을 얻지만, 몇몇의 메이저 음악 잡지인 NME나 모조(Mojo)에서는 대단히 긍정적인 평가를 내놓고 있다.

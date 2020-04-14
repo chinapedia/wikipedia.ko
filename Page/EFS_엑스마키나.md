@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EFS ](https://ko.wikipedia.org/wiki/EFS_).
+> This article is converted from Wikipedia: [EFS 엑스마키나](https://ko.wikipedia.org/wiki/EFS_엑스마키나).
 
 
 **EFS 엑스마키나**()는 [대한민국](../Page/대한민국.md "wikilink")의 작가 [백호가](https://ko.wikipedia.org/wiki/백호_\(작가\) "wikilink") 쓰고, [cuteg](https://ko.wikipedia.org/wiki/cuteg "wikilink")와 Dangmill이 삽화를 담당한 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). [시드노벨](../Page/시드노벨.md "wikilink")에서 발매 중이다.

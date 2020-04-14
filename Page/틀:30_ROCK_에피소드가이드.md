@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:30 ROCK ](https://ko.wikipedia.org/wiki/:30_ROCK_).
+> This article is converted from Wikipedia: [틀:30 ROCK 에피소드가이드](https://ko.wikipedia.org/wiki/틀:30_ROCK_에피소드가이드).
 
 
 <onlyinclude>{| width="17%" style="margin-left:2em; margin-bottom:2em; border: 1px solid \#777; color:\#000;background: \#FFF; font-size:smaller; float:right; clear:right; border-collapse:collapse;" |- \! colspan="8" style="padding:0 5px; background:\#FFF; border-bottom: 1px solid \#777; color:\#000;font-size: 100%;" | **[30 록](https://ko.wikipedia.org/wiki/30_록 "wikilink") 시즌가이드**

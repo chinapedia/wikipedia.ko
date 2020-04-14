@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Live \( \)](https://ko.wikipedia.org/wiki/Live_\(_\)).
+> This article is converted from Wikipedia: [Live \(신승훈의 음반\)](https://ko.wikipedia.org/wiki/Live_\(신승훈의_음반\)).
 
 
 ***Live*** 앨범은 [신승훈](../Page/신승훈.md "wikilink")이 처음으로 내는 비정규 앨범이자, 라이브 음반이다. 이 앨범은 콘서트의 실황이 담긴 CD이며, 이 콘서트는 1992년 6월 28일 [뉴 키즈 온 더 블록](../Page/뉴_키즈_온_더_블록.md "wikilink") 공연 사고 이후에 처음으로 잠실 체조 경기장에서 열린 콘서트이다. 1992년 12월 09일 발매됐다.

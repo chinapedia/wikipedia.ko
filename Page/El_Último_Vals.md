@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [El ltimo Vals](https://ko.wikipedia.org/wiki/El_ltimo_Vals).
+> This article is converted from Wikipedia: [El Último Vals](https://ko.wikipedia.org/wiki/El_Último_Vals).
 
 
 《**El último vals**》(마지막 왈츠)는 [라 오레하 데 반 고흐의](../Page/라_오레하_데_반_고흐.md "wikilink") [A las cinco en el Astoria](https://ko.wikipedia.org/wiki/A_las_cinco_en_el_Astoria "wikilink") 앨범의 발표곡으로 [레이레 마르티네스의](../Page/레이레_마르티네스.md "wikilink") 데뷔작이다.

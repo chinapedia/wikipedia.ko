@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S.A.C. 2nd GIG](https://ko.wikipedia.org/wiki/_S.A.C._2nd_GIG).
+> This article is converted from Wikipedia: [공각기동대 S.A.C. 2nd GIG](https://ko.wikipedia.org/wiki/공각기동대_S.A.C._2nd_GIG).
 
 
 《**공각기동대 S.A.C.2nd GIG**》는 〈공각기동대 Stand Alone Complex〉(이하 〈SAC〉)의 제작진에 [오시이 마모루를](../Page/오시이_마모루.md "wikilink") 비롯한 애니메이션계의 거장들이 더 참가하여 제작한 26회의 TV시리즈 애니메이션이다. 전 세계에 컴퓨터 네트워크가 깔리고 인간이 사이보그 수술을 받아 기계의 몸, "의체"를 얻는 것이 자연스러운 일이 되어버린 미래 사회. 그곳에서 일어나는 고도의 정보 범죄와 테러를 단속하는 공안 9과 특수 부대의 활약을 그린 사이버 SF액션으로 정의 될 수 있다. 원래 〈SAC〉는 일본 TV 애니메이션의 평균적 분량인 2쿨 26화로 완결될 예정이었다. 그러나 〈SAC〉의 상업적 성공에 따라 즉각 제작에 착수된 것이 속편 〈SAC 2nd GIG〉다. 전편이 완결된지 불과 반년도 안 되어 〈SAC 2nd GIG〉가 발표되고 첫 방송된 것을 보면 이 결정이 얼마나 신속하고 빠르게 이뤄졌는지 알 수 있다. 이에 따라 감독과 스태프 역시 전편과 거의 동일한 멤버들로 구성되었는데, 성공한 전편과 거의 동일한 퀄리티가 보장된다는 장점이 있는 반면, 연이은 작업에 따른 스태프의 피로와 아이디어 고갈이라는 약점도 지니고 있다. 이에 따라 〈SAC 2nd GIG〉에는 또 다시 ‘새로운 피’가 수혈됐는데 이는 다름 아닌 스승격인 [오시이 마모루가](../Page/오시이_마모루.md "wikilink") 참여하였다.

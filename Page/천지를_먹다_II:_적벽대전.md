@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II: ](https://ko.wikipedia.org/wiki/__II:_).
+> This article is converted from Wikipedia: [천지를 먹다 II: 적벽대전](https://ko.wikipedia.org/wiki/천지를_먹다_II:_적벽대전).
 
 
 《**천지를 먹다 2**》(天地を喰らう2, Dynasty Wars II)는 모토미야 히로시의 동명 만화를 원작으로 1989년 캡콤이 개발한 횡스크롤 아케이드 게임의 후속작으로서 1992년 개발되었다. 동탁 타도 이후 손권과 힘을 합쳐 조조를 타도하기까지의 과정을 묘사하고 있다. 최대 3명의 플레이어가 삼국지 촉의 5명의 장군(관우, 장비, 조운, 황충, 위연)중 한명을 골라 플레이 할 수 있으며, 전작과는 달리 거의 완전한 횡스크롤 격투게임이다.

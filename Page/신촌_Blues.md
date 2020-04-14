@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Blues](https://ko.wikipedia.org/wiki/_Blues).
+> This article is converted from Wikipedia: [신촌 Blues](https://ko.wikipedia.org/wiki/신촌_Blues).
 
 
 《**신촌 Blues**》은 [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [신촌블루스](https://ko.wikipedia.org/wiki/신촌블루스 "wikilink")의 정규[음반](../Page/음반.md "wikilink") 1집이다.

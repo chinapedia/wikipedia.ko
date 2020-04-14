@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 스페셜](https://ko.wikipedia.org/wiki/SBS_스페셜).
 
 
 《**SBS 스페셜**》은 [SBS TV에서](../Page/SBS_TV.md "wikilink") 방송되는 대표적인 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
@@ -13,45 +13,45 @@
 
 ## 방송 시간
 
-| 방송 기간                                                                                                                                                        | 방송 시간                | 방송 분량 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | ----- |
-| [2005년](../Page/2005년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink")   | 밤 10시 55분 \~ 11시 55분 | 60분   |
-| [2006년](../Page/2006년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink")   | 밤 11시 5분 \~ 12시 5분   |       |
-| [2012년](../Page/2012년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink")     |                      |       |
-| [2014년](../Page/2014년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink")                                                                                    |                      |       |
-| [2016년](../Page/2016년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink")                                                                                |                      |       |
-| [2016년](../Page/2016년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink")   |                      |       |
-| [2018년](../Page/2018년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ **현재**                                                                          |                      |       |
-| [2008년](../Page/2008년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink")     | 밤 11시 10분 \~ 12시 10분 |       |
-| [2008년](../Page/2008년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") |                      |       |
-| [2010년](../Page/2010년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink")   |                      |       |
-| [2010년](../Page/2010년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink")     |                      |       |
-| [2015년](../Page/2015년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink")   |                      |       |
-| [2015년](../Page/2015년.md "wikilink") [7월 5일](../Page/7월_5일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink")     |                      |       |
-| [2015년](../Page/2015년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink")                                                                                |                      |       |
-| [2016년](../Page/2016년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink")                                                                                  |                      |       |
-| [2008년](../Page/2008년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink")   | 밤 11시 15분 \~ 12시 15분 |       |
-| [2013년](../Page/2013년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink")   |                      |       |
-| [2013년](../Page/2013년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink")     |                      |       |
-| [2014년](../Page/2014년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink")     |                      |       |
-| [2014년](../Page/2014년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink")   |                      |       |
-| [2015년](../Page/2015년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink")                                                                                  |                      |       |
-| [2008년](../Page/2008년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") | 밤 11시 20분 \~ 12시 20분 |       |
-| [2009년](../Page/2009년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink")   |                      |       |
-| [2009년](../Page/2009년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink")   |                      |       |
-| [2010년](../Page/2010년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink")   |                      |       |
-| [2009년](../Page/2009년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink")                                                                                  | 밤 11시 20분 \~ 12시 30분 | 70분   |
-| [2011년](../Page/2011년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink")     | 밤 11시 \~ 12시         | 60분   |
-| [2012년](../Page/2012년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") |                      |       |
-| [2012년](../Page/2012년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink")   | 밤 11시 10분 \~ 12시     | 50분   |
-| [2013년](../Page/2013년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink")       | 밤 11시 15분 \~ 12시 20분 | 65분   |
-| [2014년](../Page/2014년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink")                                                                                    | 밤 11시 15분 \~ 12시 25분 | 70분   |
-| [2015년](../Page/2015년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink")                                                                                  | 밤 11시 30분 \~ 12시 30분 | 60분   |
-|                                                                                                                                                              |                      |       |
+| 방송 기간                                                                                                                                                        | 방송 시간                       | 방송 분량 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | ----- |
+| [2005년](../Page/2005년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink")   | 매주 일요일 밤 10시 55분 \~ 11시 55분 | 60분   |
+| [2006년](../Page/2006년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink")   | 매주 일요일 밤 11시 5분 \~ 12시 5분   |       |
+| [2012년](../Page/2012년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink")     |                             |       |
+| [2014년](../Page/2014년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink")                                                                                    |                             |       |
+| [2016년](../Page/2016년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink")                                                                                |                             |       |
+| [2016년](../Page/2016년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink")   |                             |       |
+| [2018년](../Page/2018년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ **현재**                                                                          |                             |       |
+| [2008년](../Page/2008년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink")     | 매주 일요일 밤 11시 10분 \~ 12시 10분 |       |
+| [2008년](../Page/2008년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") |                             |       |
+| [2010년](../Page/2010년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink")   |                             |       |
+| [2010년](../Page/2010년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink")     |                             |       |
+| [2015년](../Page/2015년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink")   |                             |       |
+| [2015년](../Page/2015년.md "wikilink") [7월 5일](../Page/7월_5일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink")     |                             |       |
+| [2015년](../Page/2015년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink")                                                                                |                             |       |
+| [2016년](../Page/2016년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink")                                                                                  |                             |       |
+| [2008년](../Page/2008년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink")   | 매주 일요일 밤 11시 15분 \~ 12시 15분 |       |
+| [2013년](../Page/2013년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink")   |                             |       |
+| [2013년](../Page/2013년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink")     |                             |       |
+| [2014년](../Page/2014년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink")     |                             |       |
+| [2014년](../Page/2014년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink")   |                             |       |
+| [2015년](../Page/2015년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink")                                                                                  |                             |       |
+| [2008년](../Page/2008년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") | 매주 일요일 밤 11시 20분 \~ 12시 20분 |       |
+| [2009년](../Page/2009년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink")   |                             |       |
+| [2009년](../Page/2009년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink")   |                             |       |
+| [2010년](../Page/2010년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink")   |                             |       |
+| [2009년](../Page/2009년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink")                                                                                  | 매주 일요일 밤 11시 20분 \~ 12시 30분 | 70분   |
+| [2011년](../Page/2011년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink")     | 매주 일요일 밤 11시 \~ 12시         | 60분   |
+| [2012년](../Page/2012년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") |                             |       |
+| [2012년](../Page/2012년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink")   | 매주 일요일 밤 11시 10분 \~ 12시     | 50분   |
+| [2013년](../Page/2013년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink")       | 매주 일요일 밤 11시 15분 \~ 12시 20분 | 65분   |
+| [2014년](../Page/2014년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink")                                                                                    | 매주 일요일 밤 11시 15분 \~ 12시 25분 | 70분   |
+| [2015년](../Page/2015년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink")                                                                                  | 매주 일요일 밤 11시 30분 \~ 12시 30분 | 60분   |
+|                                                                                                                                                              |                             |       |
 
 ## 제작진
 
-(2019년 6월 5일 현재)
+(2019년 6월 9일 현재)
 
   - 기획/CP : 박상욱(SBS 시사교양본부)
   - 연출 : 이윤민 / 장경수 / 윤성만 / 박진홍 / 강범석 / 신동화 / 최삼호 / 이큰별

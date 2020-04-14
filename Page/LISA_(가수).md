@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LISA \(\)](https://ko.wikipedia.org/wiki/LISA_\(\)).
+> This article is converted from Wikipedia: [LISA \(가수\)](https://ko.wikipedia.org/wiki/LISA_\(가수\)).
 
 
 **리사**(LISA, リサ, [1974년](../Page/1974년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink"))는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, 일본의 [음악 그룹인](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [M-flo](../Page/M-flo.md "wikilink")의 전 구성원이었다. 본명은 **엘리자베스 사쿠라 나리타**이고, [도쿄도](../Page/도쿄도.md "wikilink") 출신이다.

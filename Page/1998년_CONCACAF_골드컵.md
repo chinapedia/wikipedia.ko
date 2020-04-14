@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1998 CONCACAF ](https://ko.wikipedia.org/wiki/1998_CONCACAF_).
+> This article is converted from Wikipedia: [1998년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/1998년_CONCACAF_골드컵).
 
 
 **1998년 CONCACAF 골드컵**(1998 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 4번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1998년](../Page/1998년.md "wikilink") [2월 1일부터](../Page/2월_1일.md "wikilink") [2월 15일까지](../Page/2월_15일.md "wikilink") [미국](../Page/미국.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [마이애미](../Page/마이애미.md "wikilink"), [오클랜드에서](../Page/오클랜드_\(캘리포니아주\).md "wikilink") 개최되었다.

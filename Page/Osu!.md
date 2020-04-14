@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Osu!](https://ko.wikipedia.org/wiki/Osu!).
 
 
-**osu\!**는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로그래머인 [딘 허버트](https://ko.wikipedia.org/wiki/딘_허버트 "wikilink")(peppy)가 개발한 [리듬 게임이다](../Page/리듬_게임.md "wikilink"). 주로 [닌텐도](../Page/닌텐도.md "wikilink")의 [응원단 시리즈의](../Page/오쓰!_싸워라!_응원단.md "wikilink") 영감을 받아 그 방식을 본따서 만들어진 게임이다. 주로 온라인 혹은 오프라인으로 플레이가 가능하며, 곡은 설치 시 같이 들어있거나 직접 다운받아서 파일을 폴더에 넣어서 플레이를 할수 있다. [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")은 'osu\!stream'이름으로 출시 되었고, [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink")은 [와인을](../Page/와인_\(소프트웨어\).md "wikilink") 같이 설치해야 플레이가 가능하다. 다만, macOS은 와인으로는 임시방편이고, 사용에 문제점이 많은데다가 업데이트를 잘 안하기 때문에 문제점이 있다. [2017년](../Page/2017년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") 기준으로 전 세계 플레이어가 1000만명을 돌파하였으며, 동접자는 1만 3천명으로 추산된다.
+**osu\!**는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로그래머인 [Peppy가](https://ko.wikipedia.org/wiki/딘_허버트 "wikilink") 개발한 [리듬 게임이다](../Page/리듬_게임.md "wikilink"). 주로 [닌텐도](../Page/닌텐도.md "wikilink")의 [응원단 시리즈의](../Page/오쓰!_싸워라!_응원단.md "wikilink") 영감을 받아 그 방식을 본따서 만들어진 게임이다. 주로 온라인 혹은 오프라인으로 플레이가 가능하며, 곡은 설치 시 같이 들어있거나 직접 다운받아서 파일을 폴더에 넣어서 플레이를 할수 있다. [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")은 'osu\!stream'이름으로 출시 되었고, [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink")은 [와인을](../Page/와인_\(소프트웨어\).md "wikilink") 같이 설치해야 플레이가 가능하다. 다만, macOS은 와인으로는 임시방편이고, 사용에 문제점이 많은데다가 업데이트를 잘 안하기 때문에 문제점이 있다. [2017년](../Page/2017년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") 기준으로 전 세계 플레이어가 1000만명을 돌파하였으며, 동접자는 1만 3천명으로 추산된다.
 
 비트맵을 유저가 만들어서 업로드 한다는 특성 상, 저작권 적인 문제로 많은 비판을 받고 있다. DMCA 요청을 수용하긴 한다.
 

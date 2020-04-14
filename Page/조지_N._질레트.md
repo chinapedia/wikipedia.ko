@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ N. ](https://ko.wikipedia.org/wiki/_N._).
+> This article is converted from Wikipedia: [조지 N. 질레트](https://ko.wikipedia.org/wiki/조지_N._질레트).
 
 
 **조지 닐드 질레트**(George Nield Gillett, [1938년](../Page/1938년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 기업인으로, 스포츠 프랜차이즈 및 육류 생산으로 재산을 모아 [내셔널 하키 리그의](../Page/내셔널_하키_리그.md "wikilink") [몬트리올 캐나디언스의](https://ko.wikipedia.org/wiki/몬트리올_캐나디언스 "wikilink") 구단주로 재산은 약 15억 달러로 추정된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I Believe \( \)](https://ko.wikipedia.org/wiki/I_Believe_\(_\)).
+> This article is converted from Wikipedia: [I Believe \(신승훈의 노래\)](https://ko.wikipedia.org/wiki/I_Believe_\(신승훈의_노래\)).
 
 
 **I Believe**는 [대한민국](../Page/대한민국.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [신승훈](../Page/신승훈.md "wikilink")이 2005년 일본에 진출해 처음으로 낸 싱글 음반이며, 2005년 7월 6일 발매되었다.

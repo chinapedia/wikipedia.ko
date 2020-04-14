@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS ](https://ko.wikipedia.org/wiki/USS_).
+> This article is converted from Wikipedia: [USS 에식스](https://ko.wikipedia.org/wiki/USS_에식스).
 
 
 **USS 에식스**\[1\](USS Essex)는 미국의 해군 함선 이름이다. 5척의 [미국 해군](../Page/미국_해군.md "wikilink") 함선이 [에식스 카운티의](https://ko.wikipedia.org/wiki/에식스_카운티_\(매사추세츠주\) "wikilink") 이름을 따라서 "USS 에식스"라고 명명되었다.

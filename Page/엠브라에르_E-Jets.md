@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E-Jets](https://ko.wikipedia.org/wiki/_E-Jets).
+> This article is converted from Wikipedia: [엠브라에르 E-Jets](https://ko.wikipedia.org/wiki/엠브라에르_E-Jets).
 
 
 **엠브라에르 E-Jets**(Embraer E-Jets)는 브라질의 [엠브라에르](../Page/엠브라에르.md "wikilink")에서 제작한 100인승 제트 여객기이다.

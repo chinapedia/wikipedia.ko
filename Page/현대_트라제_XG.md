@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  XG](https://ko.wikipedia.org/wiki/__XG).
+> This article is converted from Wikipedia: [현대 트라제 XG](https://ko.wikipedia.org/wiki/현대_트라제_XG).
 
 
 **현대 트라제 XG**(Hyundai Trajet XG)는 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")에서 개발한 다목적 대형 [미니밴](../Page/미니밴.md "wikilink")이다. 차명인 트라제는 [프랑스어](../Page/프랑스어.md "wikilink")로 '여행', '여정'을 의미한다. 현재 노후화와 노후 경유차 조기 폐차 등으로 인해 보기 힘들다.

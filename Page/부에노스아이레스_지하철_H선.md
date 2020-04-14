@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  H](https://ko.wikipedia.org/wiki/__H).
+> This article is converted from Wikipedia: [부에노스아이레스 지하철 H선](https://ko.wikipedia.org/wiki/부에노스아이레스_지하철_H선).
 
 
 **숩테 H선**(La línea H del subte de Buenos Aires)은 [아르헨티나](../Page/아르헨티나.md "wikilink")의 수도 [부에노스아이레스](../Page/부에노스아이레스.md "wikilink")의 "노란색" 노선으로 [2007년](../Page/2007년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 개통되었다.

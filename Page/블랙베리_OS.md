@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [블랙베리 OS](https://ko.wikipedia.org/wiki/블랙베리_OS).
 
 
 **블랙베리 OS**(BlackBerry OS)는 [리서치 인 모션](https://ko.wikipedia.org/wiki/리서치_인_모션 "wikilink")(Research In Motion Limited, RIM)이 [블랙베리](../Page/블랙베리_\(스마트폰\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")을 위해 만든 [소프트웨어 플랫폼이다](https://ko.wikipedia.org/wiki/소프트웨어_플랫폼 "wikilink"). 이 [운영 체제는](../Page/운영_체제.md "wikilink") [멀티태스킹](https://ko.wikipedia.org/wiki/멀티태스킹 "wikilink")을 제공하고, [RIM](https://ko.wikipedia.org/wiki/RIM "wikilink")이 채택한 [트랙휠](https://ko.wikipedia.org/wiki/트랙휠 "wikilink"), [트랙볼](../Page/트랙볼.md "wikilink"), [트랙패드](https://ko.wikipedia.org/wiki/트랙패드 "wikilink"), [터치스크린](../Page/터치스크린.md "wikilink") 같은 특화된 입력 장치들을 지원한다. 7.1 OS 버전부터는 [핫스팟](https://ko.wikipedia.org/wiki/핫스팟_\(와이파이\) "wikilink") 기능이 추가되었다.

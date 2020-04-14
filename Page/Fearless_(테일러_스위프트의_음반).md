@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fearless \(  \)](https://ko.wikipedia.org/wiki/Fearless_\(__\)).
+> This article is converted from Wikipedia: [Fearless \(테일러 스위프트의 음반\)](https://ko.wikipedia.org/wiki/Fearless_\(테일러_스위프트의_음반\)).
 
 
 **Fearless**는 미국의 컨트리 팝 가수 [테일러 스위프트의](../Page/테일러_스위프트.md "wikilink") 2008년에 발매한 두 번째 정규 음반이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Amaranth \(\)](https://ko.wikipedia.org/wiki/Amaranth_\(\)).
+> This article is converted from Wikipedia: [Amaranth \(노래\)](https://ko.wikipedia.org/wiki/Amaranth_\(노래\)).
 
 
 "**Amaranth**"는 [핀란드](../Page/핀란드.md "wikilink") [심포닉 파워 메탈](https://ko.wikipedia.org/wiki/심포닉_메탈#심포닉_파워_메탈 "wikilink") 밴드 [나이트위시](../Page/나이트위시.md "wikilink")의 앨범 *[Dark Passion Play](https://ko.wikipedia.org/wiki/Dark_Passion_Play "wikilink")*의 두 번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2010 FIFA  C](https://ko.wikipedia.org/wiki/2010_FIFA__C).
+> This article is converted from Wikipedia: [2010년 FIFA 월드컵 C조](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵_C조).
 
 
 **2010년 FIFA 월드컵 C조** 일정은 2010년 6월 12일에 시작해 23일에 끝났다.\[1\] C조에는 [잉글랜드](../Page/잉글랜드_축구_국가대표팀.md "wikilink"), [미국](../Page/미국_축구_국가대표팀.md "wikilink"), [알제리](../Page/알제리_축구_국가대표팀.md "wikilink"), 그리고 [슬로베니아가](../Page/슬로베니아_축구_국가대표팀.md "wikilink") 편성되었다.

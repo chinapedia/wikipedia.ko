@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICD-9  ](https://ko.wikipedia.org/wiki/ICD-9__).
+> This article is converted from Wikipedia: [ICD-9 코드의 목록](https://ko.wikipedia.org/wiki/ICD-9_코드의_목록).
 
 
 **ICD-9**은 [국제질병분류](../Page/국제질병분류.md "wikilink") 9차 개정판으로 다음은 분류 체계에 따른 코드 목록이다. 이 코드는 퍼블릭 도메인으로 공개된다.

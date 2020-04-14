@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Beck \(\)](https://ko.wikipedia.org/wiki/Beck_\(\)).
+> This article is converted from Wikipedia: [Beck \(만화\)](https://ko.wikipedia.org/wiki/Beck_\(만화\)).
 
 
 《**Beck**》()은 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink") [해럴드 사쿠이시에](https://ko.wikipedia.org/wiki/해럴드_사쿠이시 "wikilink") 의한 [일본](../Page/일본.md "wikilink")의 [소년 만화이다](../Page/소년_만화.md "wikilink").

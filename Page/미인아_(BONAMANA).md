@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(BONAMANA\)](https://ko.wikipedia.org/wiki/_\(BONAMANA\)).
+> This article is converted from Wikipedia: [미인아 \(BONAMANA\)](https://ko.wikipedia.org/wiki/미인아_\(BONAMANA\)).
 
 
 《**미인아 (BONAMANA)**》는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 정규 4집 음반이다. [2010년](../Page/2010년.md "wikilink") [5월 13일에](../Page/5월_13일.md "wikilink") A버전을 발매하였다. A, B 버전의 수록곡은 동일하며, 앨범커버와 그리고 앨범속지, 초회발매판에 포함된 포토카드가 다르다.

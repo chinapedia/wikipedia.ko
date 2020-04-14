@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1996 CONCACAF ](https://ko.wikipedia.org/wiki/1996_CONCACAF_).
+> This article is converted from Wikipedia: [1996년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/1996년_CONCACAF_골드컵).
 
 
 **1996년 CONCACAF 골드컵**(1996 CONCACAF Gold Cup)은 [CONCACAF](https://ko.wikipedia.org/wiki/CONCACAF "wikilink")가 개최한 3번째 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [1996년](../Page/1996년.md "wikilink") [1월 10일부터](../Page/1월_10일.md "wikilink") [1월 21일까지](../Page/1월_21일.md "wikilink") [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink"), [애너하임](../Page/애너하임.md "wikilink")에서 개최되었다.

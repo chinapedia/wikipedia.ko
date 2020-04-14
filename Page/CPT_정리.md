@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CPT ](https://ko.wikipedia.org/wiki/CPT_).
+> This article is converted from Wikipedia: [CPT 정리](https://ko.wikipedia.org/wiki/CPT_정리).
 
 
 [양자장론](../Page/양자장론.md "wikilink")에서, **CPT 정리**(-定理)란 모든 [상대론적](https://ko.wikipedia.org/wiki/상대론적 "wikilink") 양자장론은 CPT 대칭을 따른다는 정리다. CPT 대칭이란 [C대칭](https://ko.wikipedia.org/wiki/C대칭 "wikilink")과 [P대칭](https://ko.wikipedia.org/wiki/P대칭 "wikilink"), [T대칭](https://ko.wikipedia.org/wiki/T대칭 "wikilink")의 합성(composition)이다. 독일의 [게라르트 뤼더스](https://ko.wikipedia.org/wiki/게라르트_뤼더스 "wikilink") (Gerhart Lüders)와 오스트리아의 [볼프강 파울리가](../Page/볼프강_파울리.md "wikilink") [1954년](../Page/1954년.md "wikilink")에 증명하였다. **뤼더스-파울리 정리**로 불리기도 한다.

@@ -22,19 +22,15 @@
 <!-- end list -->
 
   - 주시청 시간 : 주중 출/퇴근 시간 (오전 7 \~ 9시, 오후 6 \~ 9시)
-  - 주편성 전략 : 종합 뉴스, 예능, 버라이어티, 드라마, 교양, 다큐 등 기존 TV 장르 프로그램과 더불어 이동중 시청이라는 DMB의 모바일 특성에 맞는 Digest 포맷의 특성화 프로그램 제작 및 편성 주력
-  - [QBS 주간 편성표](https://web.archive.org/web/20110518045442/http://www.qbsi.co.kr/schedule/metro/page.html) 2020년부터는 [JTBC](../Page/JTBC.md "wikilink")와의 제휴를 끝내고 [연합뉴스](../Page/연합뉴스.md "wikilink")방송을 대부분 나오게 된다.
+  - 주편성 전략 : 종합 뉴스, 예능, 시사, 교양 등 기존 TV 장르 프로그램과 더불어 이동중 시청이라는 DMB의 모바일 특성에 맞는 Digest 포맷의 특성화 프로그램 제작 및 편성 주력
+  - [QBS 주간 편성표](http://www.qbsi.co.kr/schedule/metro/page.html) 2020년부터는 [JTBC](../Page/JTBC.md "wikilink")와의 제휴를 끝내고 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")방송을 대부분 나오게 된다.
 
 ## 주요 프로그램
 
-  - 모바일 : [QBS 성공에세이](http://www.qbsi.co.kr/community/campaign/current/1176197_2116.html), [벤처성공에세이 스페셜](https://www.youtube.com/playlist?list=PL9-kdvATej7ZxyRSimT-xc_VtmXB7t6ht), [착한 성공의 비밀 스페셜](https://www.youtube.com/playlist?list=PL9-kdvATej7aiUvLKugNARK0EKJflfIPz), [성공\! 스마트벤처코리아 캠페인](http://tvcast.naver.com/v/342485/list/32406)
-  - 교양 : [QBS 성공에세이 - 청춘에게 고함](https://web.archive.org/web/20130726045932/http://www.qbsi.co.kr/culture/sisa/1185190_2045.html), [벤처성공에세이](https://web.archive.org/web/20150525183330/http://www.qbsi.co.kr/culture/sisa/1186846_2045.html), [착한 성공의 비밀](https://web.archive.org/web/20150525183624/http://www.qbsi.co.kr/culture/lifestyle/sgs/vod/), [성공\! 스마트벤처 코리아](https://web.archive.org/web/20150525184324/http://www.qbsi.co.kr/culture/sisa/1190142_2045.html)
-  - 교양 : [버추얼트립인 모바일](https://web.archive.org/web/20150525183904/http://www.qbsi.co.kr/culture/lifestyle/vtrip/index.html), [호모앱플리쿠스](https://web.archive.org/web/20150525181918/http://www.qbsi.co.kr/culture/lifestyle/homo/page.html), [밥장, 에스토니아에 가다](https://web.archive.org/web/20150525182857/http://www.qbsi.co.kr/culture/sisa/1187245_2045.html),
-  - 교양 : [QBS 바로보기](https://web.archive.org/web/20121009002800/http://www.qbsi.co.kr/culture/lifestyle/view/page.html), [포토앤더시티](https://web.archive.org/web/20121009002757/http://www.qbsi.co.kr/culture/lifestyle/photocity/page.html), [장애극복미션임파서블](https://web.archive.org/web/20121009002751/http://www.qbsi.co.kr/culture/lifestyle/mission/page.html) [칭찬 릴레이 비타민씨](http://tvcast.naver.com/v/363179/list/33337)
-  - 뉴스 : [QBS NOW](https://web.archive.org/web/20150924083526/http://www.qbsi.co.kr/news_eco/news/1190690_2574.html), [QBS-JTBC 뉴스룸](http://www.qbsi.co.kr/news_eco/news/1188190_2574.html)
-  - 스포츠 : [QBS 핫스포츠](https://web.archive.org/web/20150525162224/http://www.qbsi.co.kr/sport/variety/prgend/hotsports/index.html), [결정적 순간](http://www.qbsi.co.kr/community/campaign/current/1181544_2116.html), [나는 전설이다](http://www.qbsi.co.kr/community/campaign/current/1181161_2116.html)
-  - 스포츠 : [프로야구(2010-2013)](http://www.qbsi.co.kr/sports/baseball/index.html), [잉글리시 프리미어리그(2010-2013)](http://www.qbsi.co.kr/sports/epl/index.html), [남녀 프로농구(2011-2013)](http://www.qbsi.co.kr/sports/basketball/index.html)
-  - 영화 : [QBS 프리미엄 무비](http://www.qbsi.co.kr/sport/movie/weekends/page.html)
+  - 시사 : [연중기획 하모니](http://www.qbsi.co.kr/drama/1190443_3348.html), [명품리포트 맥](http://www.qbsi.co.kr/drama/1190740_3348.html)
+  - 교양 : [트렌드 지금, 여기](http://www.qbsi.co.kr/culture/sisa/1189793_2045.html), [골든타임 히어로](http://www.qbsi.co.kr/culture/lifestyle/goldentime/index.html), [미니다큐 아름다운 사람들](http://www.qbsi.co.kr/culture/sisa/1190591_2045.html)
+  - 뉴스 : [출발 640](http://www.qbsi.co.kr/news_eco/news/1188249_2574.html), [라이브 투데이](http://www.qbsi.co.kr/news_eco/news/1188840_2574.html),[뉴스포커스](http://www.qbsi.co.kr/news_eco/news/1188190_2574.html),[연합뉴스TV 뉴스13](http://www.qbsi.co.kr/news_eco/news/1188842_2574.html),[6면시선 뉴스큐브](http://www.qbsi.co.kr/news_eco/news/1188390_2574.html),[뉴스 메이커](http://www.qbsi.co.kr/news_eco/news/1188843_2574.html)
+  - 예능 : [뮤직Q](http://www.qbsi.co.kr/sport/variety/1190445_2333.html)
 
 ## 수상 및 주요 연혁
 

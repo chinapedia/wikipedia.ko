@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CHT-02D ](https://ko.wikipedia.org/wiki/CHT-02D_).
+> This article is converted from Wikipedia: [CHT-02D 어뢰](https://ko.wikipedia.org/wiki/CHT-02D_어뢰).
 
 
 **CHT-02D**는 [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")의 수출용 [중어뢰이다](../Page/어뢰.md "wikilink").\[1\] [2010년](../Page/2010년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") [천안함 침몰 사건과](https://ko.wikipedia.org/wiki/천안함_침몰_사건 "wikilink") 관련하여 합동조사단이 북한이 수출용으로 개발했다는 어뢰로 북한산 무기책자 소개에 도면까지 첨부돼 있다고 주장하며 최초로 소개를 했다.\[2\] 그들은 전날 [5월 19일](../Page/5월_19일.md "wikilink") 중국산 [魚-3G](https://ko.wikipedia.org/wiki/魚-3G "wikilink")일 것으로 추정된다고 발표를 했었다.\[3\]

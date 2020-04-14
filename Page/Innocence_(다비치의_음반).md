@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Innocence \( \)](https://ko.wikipedia.org/wiki/Innocence_\(_\)).
+> This article is converted from Wikipedia: [Innocence \(다비치의 음반\)](https://ko.wikipedia.org/wiki/Innocence_\(다비치의_음반\)).
 
 
 《**Innocence**》는 [다비치](../Page/다비치.md "wikilink")의 두 번째 미니 음반으로, [2010년](../Page/2010년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMW 7 ](https://ko.wikipedia.org/wiki/BMW_7_).
+> This article is converted from Wikipedia: [BMW 7 시리즈](https://ko.wikipedia.org/wiki/BMW_7_시리즈).
 
 
 **BMW 7 시리즈**(BMW 7 Series)는 [독일](../Page/독일.md "wikilink")의 고급 자동차 회사인 [BMW](../Page/BMW.md "wikilink")의 대형 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")으로, F 세그먼트에 속한다. [바이에른주](../Page/바이에른주.md "wikilink") 딩골핑 공장에서 생산된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ES](https://ko.wikipedia.org/wiki/_ES).
+> This article is converted from Wikipedia: [렉서스 ES](https://ko.wikipedia.org/wiki/렉서스_ES).
 
 
 **렉서스 ES**(Lexus ES)는 [일본](../Page/일본.md "wikilink")의 자동차 회사인 [토요타의](../Page/토요타_자동차.md "wikilink") 고급 브랜드 [렉서스](../Page/렉서스.md "wikilink")에서 내놓은 준대형 승용차로 [1989년](../Page/1989년.md "wikilink")에 [렉서스](../Page/렉서스.md "wikilink") 런칭 당시 [LS와](../Page/렉서스_LS.md "wikilink") 같이 출시되었다. ES는 Executive Sedan의 머리 글자에서 따온 것이다. [미국](../Page/미국.md "wikilink")과 [대한민국](../Page/대한민국.md "wikilink") 등에서 [렉서스](../Page/렉서스.md "wikilink") 차종 중 가장 인기가 높은 차량이다.

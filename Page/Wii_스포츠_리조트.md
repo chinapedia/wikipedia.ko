@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wii  ](https://ko.wikipedia.org/wiki/Wii__).
+> This article is converted from Wikipedia: [Wii 스포츠 리조트](https://ko.wikipedia.org/wiki/Wii_스포츠_리조트).
 
 
 **Wii Sports Resort**는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 스포츠 게임 소프트웨어이다. 게임을 플레이하기 위해서는 [Wii 리모컨과](../Page/Wii_리모컨.md "wikilink") [눈차크](https://ko.wikipedia.org/wiki/Wii_눈차크 "wikilink"), [Wii 모션 플러스](https://ko.wikipedia.org/wiki/Wii_모션_플러스 "wikilink"), [Wii 리모컨 플러스가](https://ko.wikipedia.org/wiki/Wii_리모컨_플러스 "wikilink") 필요하다. 현재 한국에서 [Wii 모션 플러스를](https://ko.wikipedia.org/wiki/Wii_모션_플러스 "wikilink") 이용해 할 수 있는 게임은 [레드 스틸 3](https://ko.wikipedia.org/wiki/레드_스틸_3 "wikilink"), Wii Sports Resort이다.

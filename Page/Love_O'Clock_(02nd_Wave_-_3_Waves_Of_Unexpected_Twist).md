@@ -30,4 +30,6 @@
   - **Mastering Engineer :** 최효영 at Sonic Korea
   - **Presented by :** Dorothy Company
 
+## 외부 링크
+
 [분류:R\&B 발라드](https://ko.wikipedia.org/wiki/분류:R&B_발라드 "wikilink") [분류:팝 음반](https://ko.wikipedia.org/wiki/분류:팝_음반 "wikilink") [분류:신승훈의 음반](https://ko.wikipedia.org/wiki/분류:신승훈의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink") [분류:2009년 EP](https://ko.wikipedia.org/wiki/분류:2009년_EP "wikilink")

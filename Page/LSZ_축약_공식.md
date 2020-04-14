@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LSZ  ](https://ko.wikipedia.org/wiki/LSZ__).
+> This article is converted from Wikipedia: [LSZ 축약 공식](https://ko.wikipedia.org/wiki/LSZ_축약_공식).
 
 
 [양자장론](../Page/양자장론.md "wikilink")에서, **LSZ 축약 공식** (-縮約公式, ) 또는 **레만-쥐만치크-치머만 축약 공식**(Lehman–Symanzik–Zimmerman)은 [산란 행렬을](../Page/산란_행렬.md "wikilink") [상관 함수의](https://ko.wikipedia.org/wiki/상관_함수_\(양자장론\) "wikilink") 극의 [유수로](../Page/유수_\(복소해석학\).md "wikilink") 나타내는 공식이다.
