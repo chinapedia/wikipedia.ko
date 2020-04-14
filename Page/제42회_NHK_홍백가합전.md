@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [42 NHK ](https://ko.wikipedia.org/wiki/42_NHK_).
+> This article is converted from Wikipedia: [제42회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제42회_NHK_홍백가합전).
 
 
 《**제42회 NHK 홍백가합전**》()는 [1991년](../Page/1991년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 통산 42회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").

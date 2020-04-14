@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Thank You \(  \)](https://ko.wikipedia.org/wiki/Thank_You_\(__\)).
+> This article is converted from Wikipedia: [Thank You \(메건 트레이너의 음반\)](https://ko.wikipedia.org/wiki/Thank_You_\(메건_트레이너의_음반\)).
 
 
 《**Thank You**》는 [메건 트레이너의](../Page/메건_트레이너.md "wikilink") 두번째 정규 음반으로, 2016년 5월에 발매되었다. 2016년 5월 6일 [애플 뮤직을](../Page/애플_뮤직.md "wikilink") 통해 독점 공개됐고, 일주일 후 5월 13일 [에픽 레코드를](../Page/에픽_레코드.md "wikilink") 통해 전격 발매됐다.\[1\]

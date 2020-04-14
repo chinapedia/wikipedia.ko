@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS   \(SSBN-598\)](https://ko.wikipedia.org/wiki/USS___\(SSBN-598\)).
+> This article is converted from Wikipedia: [USS 조지 워싱턴 \(SSBN-598\)](https://ko.wikipedia.org/wiki/USS_조지_워싱턴_\(SSBN-598\)).
 
 
 **USS 조지 워싱턴 (SSBN-598)**은 세계 최초의 [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink") 잠수함(SSBN)이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD    ](https://ko.wikipedia.org/wiki/AMD____).
+> This article is converted from Wikipedia: [AMD 그래픽 처리 장치 목록](https://ko.wikipedia.org/wiki/AMD_그래픽_처리_장치_목록).
 
 
 이 문서는 [어드밴스트 마이크로 디바이시스](../Page/어드밴스트_마이크로_디바이시스.md "wikilink")(AMD)의 [GPU와](../Page/그래픽_처리_장치.md "wikilink") 그래픽 카드에 대한 일반적인 정포를 포함하고 있다. (2006년 이전의 [ATI 테크놀로지스](../Page/ATI_테크놀로지스.md "wikilink") 포함)

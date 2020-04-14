@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Brave \(  \)](https://ko.wikipedia.org/wiki/Brave_\(__\)).
+> This article is converted from Wikipedia: [Brave \(제니퍼 로페즈의 음반\)](https://ko.wikipedia.org/wiki/Brave_\(제니퍼_로페즈의_음반\)).
 
 
 《**Brave**》는 [제니퍼 로페즈의](../Page/제니퍼_로페즈.md "wikilink") 여섯번째 정규 음반으로, 2007년 10월에 발매되었다.

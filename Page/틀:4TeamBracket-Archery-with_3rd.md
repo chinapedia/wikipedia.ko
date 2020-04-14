@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:4TeamBracket-Archery-with 3rd](https://ko.wikipedia.org/wiki/:4TeamBracket-Archery-with_3rd).
+> This article is converted from Wikipedia: [틀:4TeamBracket-Archery-with 3rd](https://ko.wikipedia.org/wiki/틀:4TeamBracket-Archery-with_3rd).
 
 
 |  |  |         |        |        |

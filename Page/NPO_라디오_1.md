@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NPO  1](https://ko.wikipedia.org/wiki/NPO__1).
+> This article is converted from Wikipedia: [NPO 라디오 1](https://ko.wikipedia.org/wiki/NPO_라디오_1).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:NPO_Radio_1_logo_2014.svg "wikilink") **NPO 라디오 1**(NPO Radio 1)은 [네덜란드 공영 방송](../Page/네덜란드_공영_방송.md "wikilink")(NPO)에서 운영되는 [네덜란드](../Page/네덜란드.md "wikilink")의 [라디오](../Page/라디오.md "wikilink") 방송 중 하나이다. 주로 [뉴스](../Page/뉴스.md "wikilink") 및 [시사](../Page/시사.md "wikilink"), [스포츠](../Page/스포츠.md "wikilink") 위주로 방송한다.

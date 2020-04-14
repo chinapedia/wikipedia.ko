@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rated R \( \)](https://ko.wikipedia.org/wiki/Rated_R_\(_\)).
+> This article is converted from Wikipedia: [Rated R \(리한나의 음반\)](https://ko.wikipedia.org/wiki/Rated_R_\(리한나의_음반\)).
 
 
 《**Rated R**》은 [리한나](../Page/리한나.md "wikilink")의 네번째 정규 음반으로, 2009년 11월에 발매되었다.

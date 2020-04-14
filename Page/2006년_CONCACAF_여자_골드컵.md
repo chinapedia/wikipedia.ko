@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2006 CONCACAF  ](https://ko.wikipedia.org/wiki/2006_CONCACAF__).
+> This article is converted from Wikipedia: [2006년 CONCACAF 여자 골드컵](https://ko.wikipedia.org/wiki/2006년_CONCACAF_여자_골드컵).
 
 
 **2006년 CONCACAF 여자 골드컵**(2006 CONCACAF Women's Gold Cup)은 [2006년](../Page/2006년.md "wikilink") [11월 19일부터](../Page/11월_19일.md "wikilink") [11월 26일까지](../Page/11월_26일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 열린 7번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Anti \( \)](https://ko.wikipedia.org/wiki/Anti_\(_\)).
+> This article is converted from Wikipedia: [Anti \(리한나의 음반\)](https://ko.wikipedia.org/wiki/Anti_\(리한나의_음반\)).
 
 
 《**Anti**》는 [리한나](../Page/리한나.md "wikilink")의 여덟번째 정규 음반으로, 2016년 1월에 발매되었다. 2016년 1월 28일 단 하루동안 [타이달](../Page/타이달.md "wikilink")에서 앨범 전체를 무료로 디지털 다운로드 할 수 있는 기회를 제공했다.

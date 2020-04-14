@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1994 CONCACAF    ](https://ko.wikipedia.org/wiki/1994_CONCACAF____).
+> This article is converted from Wikipedia: [1994년 CONCACAF 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/1994년_CONCACAF_여자_축구_선수권_대회).
 
 
 **1994년 CONCACAF 여자 축구 선수권 대회**(1994 CONCACAF Women's Championship)는 [1994년](../Page/1994년.md "wikilink") [8월 13일부터](../Page/8월_13일.md "wikilink") [8월 21일까지](../Page/8월_21일.md "wikilink") [캐나다](../Page/캐나다.md "wikilink")에서 열린 3번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink").

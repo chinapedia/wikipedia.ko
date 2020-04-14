@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NCT  ](https://ko.wikipedia.org/wiki/NCT__).
+> This article is converted from Wikipedia: [NCT의 음반 목록](https://ko.wikipedia.org/wiki/NCT의_음반_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink")의 보이 그룹 **[NCT](../Page/NCT_\(음악_그룹\).md "wikilink")**이 발매한 **음반 목록**이다.

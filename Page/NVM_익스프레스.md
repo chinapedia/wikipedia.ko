@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NVM ](https://ko.wikipedia.org/wiki/NVM_).
+> This article is converted from Wikipedia: [NVM 익스프레스](https://ko.wikipedia.org/wiki/NVM_익스프레스).
 
 
 **NVM 익스프레스**(NVM Express, NVMe) 또는 **비휘발성 메모리 호스트 컨트롤러 인터페이스 사양**(Non-Volatile Memory Host Controller Interface Specification, NVMHCI)은 [PCI 익스프레스](../Page/PCI_익스프레스.md "wikilink")(PCIe) 버스에 부착된 비휘발성 기억 매체 접근을 위한 논리 장치 인터페이스 사양이다. "NVM"은 "비휘발성 메모리"(non-volatile memory)를 뜻하며, 보통 [솔리드 스테이트 드라이브](../Page/솔리드_스테이트_드라이브.md "wikilink")(SSD) 형태로 출시되는 플래시 메모리를 가리킨다.

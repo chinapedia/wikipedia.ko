@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NATO ](https://ko.wikipedia.org/wiki/_NATO_).
+> This article is converted from Wikipedia: [주요 비NATO 동맹국](https://ko.wikipedia.org/wiki/주요_비NATO_동맹국).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:American-MNNA-2019.svg "wikilink") **주요 비NATO 동맹국**(, MNNA)는 [미국 연방 정부가](../Page/미국_연방_정부.md "wikilink") 지정한 [미군](../Page/미군.md "wikilink")과 전략적 관계를 맺고 있으나 [북대서양 조약 기구](../Page/북대서양_조약_기구.md "wikilink")(NATO) 가입국이 아닌 동맹국이다. MNNA의 지위로서는 [미국](../Page/미국.md "wikilink")과의 [집단안전보장](../Page/집단안전보장.md "wikilink")을 자동적으로 포함할 수 없으나, [북대서양 조약 기구 회원국이](../Page/북대서양_조약_기구_회원국.md "wikilink") 아닌 국가가 얻을 수 없는 다양한 군사 및 경제적인 이익을 가질 수 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1998 CONCACAF    ](https://ko.wikipedia.org/wiki/1998_CONCACAF____).
+> This article is converted from Wikipedia: [1998년 CONCACAF 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/1998년_CONCACAF_여자_축구_선수권_대회).
 
 
 **1998년 CONCACAF 여자 축구 선수권 대회**(1998 CONCACAF Women's Championship)는 [1998년](../Page/1998년.md "wikilink") [8월 28일부터](../Page/8월_28일.md "wikilink") [9월 6일까지](../Page/9월_6일.md "wikilink") [캐나다](../Page/캐나다.md "wikilink")에서 열린 4번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ARC-V \(\)](https://ko.wikipedia.org/wiki/_ARC-V_\(\)).
+> This article is converted from Wikipedia: [유희왕 ARC-V \(만화\)](https://ko.wikipedia.org/wiki/유희왕_ARC-V_\(만화\)).
 
 
 **유희왕 ARC-V**(遊戱王 아크 파이브, )는 [V점프](https://ko.wikipedia.org/wiki/V점프 "wikilink")에 연재되고 있는 만화이다. 작가는 이전 작품의 만화 [유희왕 ZEXAL을](../Page/유희왕_ZEXAL.md "wikilink") 연재한 [미요시 나오히토가](https://ko.wikipedia.org/wiki/미요시_나오히토 "wikilink") 맡았다.

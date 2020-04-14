@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LALALA  ](https://ko.wikipedia.org/wiki/LALALA__).
+> This article is converted from Wikipedia: [LALALA 행복의 노래](https://ko.wikipedia.org/wiki/LALALA_행복의_노래).
 
 
 〈**LALALA 행복의 노래**〉()는 [℃-ute](../Page/℃-ute.md "wikilink")의 메이저 네 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2008년](../Page/2008년.md "wikilink") [2월 27일에](../Page/2월_27일.md "wikilink") [zetima에서](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink") 발매됐다\[1\]\[2\].

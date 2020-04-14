@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Revival \(  \)](https://ko.wikipedia.org/wiki/Revival_\(__\)).
+> This article is converted from Wikipedia: [Revival \(셀레나 고메즈의 음반\)](https://ko.wikipedia.org/wiki/Revival_\(셀레나_고메즈의_음반\)).
 
 
 《**Revival**》은 [셀리나 고메즈의](https://ko.wikipedia.org/wiki/셀리나_고메즈 "wikilink") 두번째 정규 음반으로, 2015년 10월에 발매되었다.

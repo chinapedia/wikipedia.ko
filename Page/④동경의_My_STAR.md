@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ My STAR](https://ko.wikipedia.org/wiki/_My_STAR).
+> This article is converted from Wikipedia: [④동경의 My STAR](https://ko.wikipedia.org/wiki/④동경의_My_STAR).
 
 
 《**④동경의 My STAR**》()는 [℃-ute](../Page/℃-ute.md "wikilink")의 네 번째 [정규 음반](../Page/정규_음반.md "wikilink")\[1\]이다. [2009년](../Page/2009년.md "wikilink") [1월 28일에](../Page/1월_28일.md "wikilink") [zetima에서](https://ko.wikipedia.org/wiki/업프런트_워크스 "wikilink") 발매됐다.

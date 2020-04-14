@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THK](https://ko.wikipedia.org/wiki/THK).
+> This article is converted from Wikipedia: [삼익THK](https://ko.wikipedia.org/wiki/삼익THK).
 
 
 **삼익THK주식회사**(, )는, [대한민국](../Page/대한민국.md "wikilink")의 볼베어링 및 롤러베어링 제조업을 영위하는 기업이자, LM시스템, 메카트로시스템, 줄 등을 생산하는 기업이다. 삼익THK주식회사는, [유가증권시장에](https://ko.wikipedia.org/wiki/코스피 "wikilink") 상장한 [중견기업](https://ko.wikipedia.org/wiki/중견기업 "wikilink")이다. 본사는, [대구광역시](../Page/대구광역시.md "wikilink") [달서구](https://ko.wikipedia.org/wiki/달서구 "wikilink")에 위치하고 있다.\[1\]

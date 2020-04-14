@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SK](https://ko.wikipedia.org/wiki/_SK).
+> This article is converted from Wikipedia: [괴즈테페 SK](https://ko.wikipedia.org/wiki/괴즈테페_SK).
 
 
 **괴즈테페 SK**(Göztepe S.K.)는 [터키](../Page/터키.md "wikilink") [이즈미르 주](https://ko.wikipedia.org/wiki/이즈미르_주 "wikilink") [이즈미르](../Page/이즈미르.md "wikilink")를 연고지로 한 축구 클럽이다. 이즈미르의 또 다른 클럽 [카르시야카와](https://ko.wikipedia.org/wiki/카르시야카_SK "wikilink") 맹렬한 라이벌 관계에 있다.

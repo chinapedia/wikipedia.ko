@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CS ](https://ko.wikipedia.org/wiki/CS_).
+> This article is converted from Wikipedia: [CS 에레디아노](https://ko.wikipedia.org/wiki/CS_에레디아노).
 
 
 **클루브 스포르트 에레디아노**(Club Sport Herediano)는 [코스타리카](../Page/코스타리카.md "wikilink")의 [에레디아](https://ko.wikipedia.org/wiki/에레디아 "wikilink")를 연고지로 한 축구 클럽이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CharCode](https://ko.wikipedia.org/wiki/:CharCode).
+> This article is converted from Wikipedia: [틀:CharCode](https://ko.wikipedia.org/wiki/틀:CharCode).
 
 
 <includeonly>|- |style="font-size:300%;line-height:100%" lang=|{{\#switch:

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [레독스 OS](https://ko.wikipedia.org/wiki/레독스_OS).
 
 
 **레독스 OS**(Redox OS)는 [러스트 프로그래밍 언어로](../Page/러스트_\(프로그래밍_언어\).md "wikilink") 작성된 [MIT 라이선스의](https://ko.wikipedia.org/wiki/MIT_라이선스 "wikilink") [유닉스 계열](../Page/유닉스_계열.md "wikilink") [마이크로커널](../Page/마이크로커널.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink").\[1\]\[2\] 레독스는 실제 하드웨어에서 동작한다.\[3\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1993 CONCACAF    ](https://ko.wikipedia.org/wiki/1993_CONCACAF____).
+> This article is converted from Wikipedia: [1993년 CONCACAF 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/1993년_CONCACAF_여자_축구_선수권_대회).
 
 
 **1993년 CONCACAF 여자 축구 선수권 대회**(1993 CONCACAF Women's Championship)는 [1993년](../Page/1993년.md "wikilink") [7월 4일부터](../Page/7월_4일.md "wikilink") [7월 8일까지](../Page/7월_8일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 열린 2번째 [CONCACAF 여자 축구 선수권 대회이다](../Page/CONCACAF_여자_축구_선수권_대회.md "wikilink"). 이 대회에서는 [뉴질랜드가](../Page/뉴질랜드_여자_축구_국가대표팀.md "wikilink") 초청 팀 자격으로 참가했다.

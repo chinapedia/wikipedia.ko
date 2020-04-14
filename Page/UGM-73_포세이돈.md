@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UGM-73 ](https://ko.wikipedia.org/wiki/UGM-73_).
+> This article is converted from Wikipedia: [UGM-73 포세이돈](https://ko.wikipedia.org/wiki/UGM-73_포세이돈).
 
 
 **UGM-73 포세이돈**은 미국의 두번째 [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink")이다. 1972년 [UGM-27C 폴라리스 A-3을](https://ko.wikipedia.org/wiki/폴라리스_미사일 "wikilink") 이었다. 1979년 [UGM-96A 트라이던트 I](https://ko.wikipedia.org/wiki/UGM-96A_트라이던트_I "wikilink"), 1990년 [UGM-133A 트라이던트 II로](https://ko.wikipedia.org/wiki/트라이던트_II "wikilink") 대체되었다.

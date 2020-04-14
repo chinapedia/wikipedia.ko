@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Salute \(  \)](https://ko.wikipedia.org/wiki/Salute_\(__\)).
+> This article is converted from Wikipedia: [Salute \(리틀 믹스의 음반\)](https://ko.wikipedia.org/wiki/Salute_\(리틀_믹스의_음반\)).
 
 
 《**Salute**》는 [리틀 믹스의](../Page/리틀_믹스.md "wikilink") 두번째 정규 음반으로, 2013년 11월에 발매되었다.

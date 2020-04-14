@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K. ](https://ko.wikipedia.org/wiki/_K._).
+> This article is converted from Wikipedia: [찰스 K. 가오](https://ko.wikipedia.org/wiki/찰스_K._가오).
 
 
 [대체글=](https://ko.wikipedia.org/wiki/파일:Charles_K._Kao_cropped_2.jpg "wikilink") **찰스 K. 가오**(Charles K. Kao), **찰스 곤 고** 경(Sir Charles Kuen Kao, [1933년](../Page/1933년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink")) 또는 **고곤**()은 중국 상해에서 태어난 홍콩, 영국, 미국의 전기공학자, 물리학자이다. [광섬유](../Page/광섬유.md "wikilink")를 이용한 통신 분야의 개척으로 2009년 [노벨 물리학상을](../Page/노벨_물리학상.md "wikilink") 수상했다.

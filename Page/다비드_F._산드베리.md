@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [다비드 F. 산드베리](https://ko.wikipedia.org/wiki/다비드_F._산드베리).
 
 
 **다비드 F. 산드베리**(, [1981년](../Page/1981년.md "wikilink") \~ )는 [스웨덴](../Page/스웨덴.md "wikilink") 출신의 [영화 감독이다](../Page/영화_감독.md "wikilink"). 저예산 공포 영화 시리즈 《[라이트 아웃](https://ko.wikipedia.org/wiki/라이트_아웃 "wikilink")》으로 알려져 있다.

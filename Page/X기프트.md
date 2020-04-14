@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [X기프트](https://ko.wikipedia.org/wiki/X기프트).
 
 
 〈**X기프트**〉()는 [일본](../Page/일본.md "wikilink")의 걸 그룹 [X21](../Page/X21.md "wikilink")의 네 번째 [싱글로](../Page/CD_싱글.md "wikilink") [2014년](../Page/2014년.md "wikilink") [12월 3일에](../Page/12월_3일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다. 노래의 센터 포지션은 요시미토 미유이다.

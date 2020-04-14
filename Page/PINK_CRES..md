@@ -75,7 +75,7 @@
 
   - PINK CRES. 1st Live Tour 2018 \~PINK LAND\~ (2018년 7월 28일 \~ 9월 24일)
   - PINK CRES. LIVE TOUR 2019 \~CONFUSION\~ (2019년 7월 27일 \~ 10월 14일)
-  - PINK CRES. LIVE TOUR 2020 봄 \~Roulette\~ (2020년 3월 20일 \~ 4월 5일, 3개 도시 3회 공연)
+  - PINK CRES. LIVE TOUR 2020 봄 \~Roulette\~ (2020년 3월 20일 \~ 4월 5일, 3개 도시 3회 공연)\[4\]\[5\]
 
 ### 라디오
 
@@ -108,3 +108,5 @@
 1.  [나츠야키 미야비, 음악 활동은 새로운 그룹에서 (BARKS)](https://www.barks.jp/news/?id=1000115211)
 2.  [나츠야키 미야비의 신그룹 오디션 결과 발표. 합격자는 [코바야시 히카루와](https://ko.wikipedia.org/wiki/M-line_club "wikilink") [니헤이 유우카](https://ko.wikipedia.org/wiki/M-line_club "wikilink") (BARKS)](https://www.barks.jp/news/?id=1000125806)
 3.
+4.  [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 모든 공연이 중지되었다.
+5.  [PINK CRES. 라이브 투어 중지의 소식](http://www.pinkcres.com/news/detail/11849)

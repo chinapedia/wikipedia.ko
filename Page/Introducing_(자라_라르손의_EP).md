@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Introducing \(  EP\)](https://ko.wikipedia.org/wiki/Introducing_\(__EP\)).
+> This article is converted from Wikipedia: [Introducing \(자라 라르손의 EP\)](https://ko.wikipedia.org/wiki/Introducing_\(자라_라르손의_EP\)).
 
 
 《**Introducing**》은 [자라 라르손의](../Page/자라_라르손.md "wikilink") 데뷔 EP 앨범으로, 2013년 1월에 발매되었다.

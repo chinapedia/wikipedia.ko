@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rai  1](https://ko.wikipedia.org/wiki/Rai__1).
+> This article is converted from Wikipedia: [Rai 라디오 1](https://ko.wikipedia.org/wiki/Rai_라디오_1).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Rai_Radio_1_-_Logo_2017.svg "wikilink") **Rai 라디오 1**(Rai Radio Uno)는 [이탈리아](../Page/이탈리아.md "wikilink")의 [공영 방송인](../Page/공영_방송.md "wikilink") [이탈리아 방송 협회](../Page/이탈리아_방송_협회.md "wikilink")(Rai)에서 운영하는 [라디오 방송중](https://ko.wikipedia.org/wiki/라디오_방송 "wikilink") 하나이다. 뉴스와 스포츠, 토크 프로그램 및 대중 음악 등을 방송한다.

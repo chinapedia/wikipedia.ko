@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CSK ](https://ko.wikipedia.org/wiki/CSK_).
+> This article is converted from Wikipedia: [CSK배 아시아바둑대항전](https://ko.wikipedia.org/wiki/CSK배_아시아바둑대항전).
 
 
 **CSK배 아시아바둑대항전**()은 CSK그룹과 일본 오키나와 현이 공동 주최한 경기로, 한국·중국·일본·타이완 4개국에서 팀당 5명이 팀을 이뤄 우승자를 결정하는 국제단체전이다. 1회 대회는 **바둑 아시아컵 인 오키나와**란 이름으로 개최되었다.

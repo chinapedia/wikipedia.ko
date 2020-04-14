@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YOU-kI ](https://ko.wikipedia.org/wiki/YOU-kI_).
+> This article is converted from Wikipedia: [YOU-kI의 퍼레이드](https://ko.wikipedia.org/wiki/YOU-kI의_퍼레이드).
 
 
 〈**YOU-kI의 퍼레이드**〉()는 [일본](../Page/일본.md "wikilink")의 걸 그룹 [X21](../Page/X21.md "wikilink")의 다섯 번째 싱글이다. [2015년](../Page/2015년.md "wikilink") [9월 23일에](../Page/9월_23일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다. 노래의 센터 포지션은 요시모토 미유이다.

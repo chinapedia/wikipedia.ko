@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DNA \(  \)](https://ko.wikipedia.org/wiki/DNA_\(__\)).
+> This article is converted from Wikipedia: [DNA \(리틀 믹스의 음반\)](https://ko.wikipedia.org/wiki/DNA_\(리틀_믹스의_음반\)).
 
 
 《**DNA**》는 [리틀 믹스의](../Page/리틀_믹스.md "wikilink") 정규 데뷔 음반으로, 2012년 11월 16일 [영국](../Page/영국.md "wikilink")에서 처음으로 발매되었다.

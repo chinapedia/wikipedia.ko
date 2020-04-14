@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:When pagename is](https://ko.wikipedia.org/wiki/:When_pagename_is).
+> This article is converted from Wikipedia: [틀:When pagename is](https://ko.wikipedia.org/wiki/틀:When_pagename_is).
 
 
 {{\#if:x |

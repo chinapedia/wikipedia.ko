@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Enemy Inside \(  \)](https://ko.wikipedia.org/wiki/The_Enemy_Inside_\(__\)).
+> This article is converted from Wikipedia: [The Enemy Inside \(드림 시어터의 노래\)](https://ko.wikipedia.org/wiki/The_Enemy_Inside_\(드림_시어터의_노래\)).
 
 
 "**The Enemy Inside**"는 [프로그레시브 메탈](../Page/프로그레시브_메탈.md "wikilink") 밴드인 [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 12번째 앨범의 첫번째 싱글 앨범이다. 첫 공개는 2013년 8월 3일 밴드의 공식 [페이스북](../Page/페이스북.md "wikilink")에서 하였으며, 8월 5일 [USA Today에](https://ko.wikipedia.org/wiki/USA_Today "wikilink") 스트리밍을 공개하였다.\[1\]  를 붙인 유튜브 비디오는 그 후에 올라왔다.\[2\]
