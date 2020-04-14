@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KPX](https://ko.wikipedia.org/wiki/KPX).
+> This article is converted from Wikipedia: [KPX케미칼](https://ko.wikipedia.org/wiki/KPX케미칼).
 
 
 **KPX케미칼**(KPX Chemical Co.,ltd.)은 [폴리우레탄](../Page/폴리우레탄.md "wikilink") 수지 및 그 원료를 주력으로 생산하는 코스피 상장기업이다. 본사는 서울특별시 마포구 마포대로 137, 17층 (공덕동, KPX빌딩)에 있으며 [폴리우레탄](../Page/폴리우레탄.md "wikilink") 관련 외에 반도체 공정에 사용되는 세정제 등의 화학물질도 제조한다.

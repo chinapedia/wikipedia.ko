@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Flower \(Flower \)](https://ko.wikipedia.org/wiki/Flower_\(Flower_\)).
+> This article is converted from Wikipedia: [Flower \(Flower의 음반\)](https://ko.wikipedia.org/wiki/Flower_\(Flower의_음반\)).
 
 
 《**Flower**》는, [Flower의](../Page/Flower_\(음악_그룹\).md "wikilink") 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UD](https://ko.wikipedia.org/wiki/UD).
+> This article is converted from Wikipedia: [UD트럭](https://ko.wikipedia.org/wiki/UD트럭).
 
 
 **UD트럭**(, )은 [일본](../Page/일본.md "wikilink")의 [자동차](../Page/자동차.md "wikilink") 메이커이다. **UD**란 단어는 **최상의 궁극성**()의 줄임말에 해당된다.

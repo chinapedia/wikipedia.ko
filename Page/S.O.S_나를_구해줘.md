@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S.O.S  ](https://ko.wikipedia.org/wiki/S.O.S__).
+> This article is converted from Wikipedia: [S.O.S 나를 구해줘](https://ko.wikipedia.org/wiki/S.O.S_나를_구해줘).
 
 
 《**S.O.S 나를 구해줘**》는 [2014년](../Page/2014년.md "wikilink") [11월 12일부터](../Page/11월_12일.md "wikilink") [12월 18일까지](../Page/12월_18일.md "wikilink") [KBS 드라마에서](../Page/KBS_드라마.md "wikilink") 방영된 드라마이다.

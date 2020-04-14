@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG생명과학](https://ko.wikipedia.org/wiki/LG생명과학).
 
 
 **LG생명과학**은 의약품 분야와 [정밀화학](https://ko.wikipedia.org/wiki/정밀화학 "wikilink") 분야의 사업을 영위하는 코스피 상장기업이다. 1981년 세워진 럭키 유전공학사업부가 전신이며, 1989년 안진제약을 인수합병하여 럭키제약으로 사명을 바꾸다가 1991년 럭키 의약품사업부로 합병되었다. 1995년 LG화학의약품사업부를 거쳐 LGCI로, 2002년에 LG생명과학으로 상호를 변경하였다. 2017년 현재 LG화학 생명과학사업본부로 합병되었다.

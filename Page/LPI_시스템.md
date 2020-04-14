@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LPI ](https://ko.wikipedia.org/wiki/LPI_).
+> This article is converted from Wikipedia: [LPI 시스템](https://ko.wikipedia.org/wiki/LPI_시스템).
 
 
 **LPI 시스템**(Liquid Propane Injection System\[1\])은 LPG 차량에 사용되는 엔진 시스템이다. 이것은 LPG 연료를 고압의 액상으로 유지하면서 엔진의 흡입구에 있는 인젝터를 이용하여 각 실린더로 분사해주는 장치이다. 이는 기존의 LPG 엔진에서 한단계 진화한 것이다.

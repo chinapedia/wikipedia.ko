@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S](https://ko.wikipedia.org/wiki/_S).
+> This article is converted from Wikipedia: [스피카 S](https://ko.wikipedia.org/wiki/스피카_S).
 
 
 **스피카 S** (SPICA S)는 [스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 프로젝트 유닛이다. [2014년](../Page/2014년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink"), 싱글 남주긴 아까워를 발표하였다.그러나 [2017년](../Page/2017년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink"), 스피카가 해체되면서 스피카S도 동시에 해체했다.

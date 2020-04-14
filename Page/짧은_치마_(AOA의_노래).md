@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(AOA \)](https://ko.wikipedia.org/wiki/__\(AOA_\)).
+> This article is converted from Wikipedia: [짧은 치마 \(AOA의 노래\)](https://ko.wikipedia.org/wiki/짧은_치마_\(AOA의_노래\)).
 
 
 〈**짧은 치마**〉는 [2014년](../Page/2014년.md "wikilink") [1월 16일에](../Page/1월_16일.md "wikilink") 발매된 그룹 [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 다섯번째 싱글 앨범이며, 일본에서는 〈ミニスカート〉라는 제목으로 2014년 [10월 1일](../Page/10월_1일.md "wikilink") 발매됐다.
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-1.  **짧은 치마 (Japanese ver.)** ()
+1.  **짧은 치마 (Japanese ver.)**()
 2.  단발머리 (Japanese ver ) ()
 3.  GET OUT (Original ver.)
 4.  짧은 치마 (Karaoke ver.)

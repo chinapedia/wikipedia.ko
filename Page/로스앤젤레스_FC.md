@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [로스앤젤레스 FC](https://ko.wikipedia.org/wiki/로스앤젤레스_FC).
 
 
 **로스앤젤레스 FC**()는 2018년부터 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 참가하고 있는 [미국](../Page/미국.md "wikilink")의 프로 축구단으로 [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")를 연고지로 한다.

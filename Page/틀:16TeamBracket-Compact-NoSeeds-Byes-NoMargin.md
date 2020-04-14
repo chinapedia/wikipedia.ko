@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:16TeamBracket-Compact-NoSeeds-Byes-NoMargin](https://ko.wikipedia.org/wiki/:16TeamBracket-Compact-NoSeeds-Byes-NoMargin).
+> This article is converted from Wikipedia: [틀:16TeamBracket-Compact-NoSeeds-Byes-NoMargin](https://ko.wikipedia.org/wiki/틀:16TeamBracket-Compact-NoSeeds-Byes-NoMargin).
 
 
 <table>

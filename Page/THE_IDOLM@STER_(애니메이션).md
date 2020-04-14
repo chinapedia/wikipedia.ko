@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE IDOLM@STER \(\)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_\(\)).
+> This article is converted from Wikipedia: [THE IDOLM@STER \(애니메이션\)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_\(애니메이션\)).
 
 
 \<**THE IDOLM@STER**\> (아이돌마스터)는 [A-1 Pictures](../Page/A-1_Pictures.md "wikilink") 제작의 [일본](../Page/일본.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink"). [반다이 남코 게임스](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink")\[1\]가 발매한 동명의 컴퓨터 게임 \<[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")\> 시리즈를 원작으로 한 애니메이션화 작품. [텔레비전 애니메이션이](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 2011년 7월부터\[2\]동년 12월까지 [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 외로 전 25화가 방송되어\[3\], 특별편 1화가 영상 소프트 수록 작품의 선행 방송으로서 [BS-TBS](../Page/BS-TBS.md "wikilink")에서 방송되었다. [2014년](../Page/2014년.md "wikilink") [1월 25일에는](../Page/1월_25일.md "wikilink") 영화 \<**THE IDOLM@STER MOVIE 빛의 저편에\!**\>가 공개되었다.
@@ -60,7 +60,7 @@
 
 :; 모치즈키 안나 (望月 杏奈)
 
-:: 소리- [나츠카와 시이나](https://ko.wikipedia.org/wiki/나츠카와_시이나 "wikilink")
+:: 소리- [나츠카와 시이나](../Page/나츠카와_시이나.md "wikilink")
 
 :; 요코야마 나오 (横山 奈緒)
 

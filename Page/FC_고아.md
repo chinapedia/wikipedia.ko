@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 고아](https://ko.wikipedia.org/wiki/FC_고아).
 
 
 **FC 고아**(FC Goa)는 [인도](../Page/인도.md "wikilink") [고아 주](https://ko.wikipedia.org/wiki/고아_주 "wikilink") [마르가오](../Page/마르가오.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 2014년 출범한 [인도 슈퍼리그에](../Page/인도_슈퍼리그.md "wikilink") 참가하고 있다.

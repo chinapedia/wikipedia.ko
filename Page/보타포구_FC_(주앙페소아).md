@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC \(\)](https://ko.wikipedia.org/wiki/_FC_\(\)).
+> This article is converted from Wikipedia: [보타포구 FC \(주앙페소아\)](https://ko.wikipedia.org/wiki/보타포구_FC_\(주앙페소아\)).
 
 
 **보타포구 PB**() 또는 **보타포구 다 파라이바**, **보타포구-PB**로 불리는 이 팀은 [파라이바주](https://ko.wikipedia.org/wiki/파라이바주 "wikilink") [주앙페소아](https://ko.wikipedia.org/wiki/주앙페소아 "wikilink")를 연고로 하는 축구 클럽이다. [2013년](../Page/2013년.md "wikilink") [캄페오나투 브라질레이루 D에서](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_D "wikilink") 우승을 기록한 바 있다.

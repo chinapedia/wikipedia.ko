@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 패스트레인](https://ko.wikipedia.org/wiki/WWE_패스트레인).
 
 
 **패스트 레인**(Fast Lane)는 미국 프로레슬링 단체 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink") 에서 2015년부터 시행 중인 페이 퍼 뷰이다.

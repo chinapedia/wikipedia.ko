@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BOBBY](https://ko.wikipedia.org/wiki/BOBBY).
 
 
-바비는 대한민국의 아이돌이자 래퍼이다.
+**BOBBY**(, [1995년](../Page/1995년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [IKON](../Page/IKON.md "wikilink")의 메인래퍼를 말고 있다.
 
 ## 학력
 

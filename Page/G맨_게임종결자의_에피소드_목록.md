@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G   ](https://ko.wikipedia.org/wiki/G___).
+> This article is converted from Wikipedia: [G맨 게임종결자의 에피소드 목록](https://ko.wikipedia.org/wiki/G맨_게임종결자의_에피소드_목록).
 
 
 ## 방영 목록

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 뉴스특보](https://ko.wikipedia.org/wiki/SBS_뉴스특보).
 
 
 《**SBS 뉴스특보**》()는 특집 뉴스로 편성되어 [SBS TV에서](../Page/SBS_TV.md "wikilink") 방송되는 [SBS의 뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P.S. I Love You \( \)](https://ko.wikipedia.org/wiki/P.S._I_Love_You_\(_\)).
+> This article is converted from Wikipedia: [P.S. I Love You \(비틀즈의 노래\)](https://ko.wikipedia.org/wiki/P.S._I_Love_You_\(비틀즈의_노래\)).
 
 
 〈**P.S. I Love You**〉는 주로 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 작곡했으며, [레논-매카트니](../Page/레논-매카트니.md "wikilink")로 표기된 [비틀즈](../Page/비틀즈.md "wikilink")의 노래다. 매카트니가 리드 보컬을 맡았다. 1962년 10월 5일 데뷔 싱글 〈[Love Me Do](../Page/Love_Me_Do.md "wikilink")〉의 B면에 담겨져 발매했고, 1963년 정규 음반 《[Please Please Me](https://ko.wikipedia.org/wiki/Please_Please_Me "wikilink")》에도 수록되어 발매했다. 후에 1977년 비틀즈 컴필레이션 음반 《[Love Songs](https://ko.wikipedia.org/wiki/Love_Songs_\(비틀즈의_음반\) "wikilink")》에도 수록되었다. 노래의 20주년을 기념하여 팔로폰은 그림 디스크로 재발매했다. 그리고 얼마 뒤에 12인치 디스크로도 발매했다.\[1\]\[2\]

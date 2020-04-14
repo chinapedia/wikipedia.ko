@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABB ](https://ko.wikipedia.org/wiki/ABB_).
+> This article is converted from Wikipedia: [ABB 그룹](https://ko.wikipedia.org/wiki/ABB_그룹).
 
 
 **ABB 그룹**(ABB Group)은 [로봇](../Page/로봇.md "wikilink"), [에너지](../Page/에너지.md "wikilink"), 자동화 기술 분야를 주된 사업으로 하는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [취리히​​](https://ko.wikipedia.org/wiki/취리히​​ "wikilink")에 본사를 둔 다국적 기업이다. ABB는 세계에 있는 대기업과 마찬가지로 매우 큰 엔지니어링 기업들 중의 하나이다. 2013년 11월에는 100여 국가에서 기업을 운영하고 있으며, 150,000여 명의 사원이 일하고 있다.\[1\] 2011년에 400억 달러의 글로벌 수입을 냈다.\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SK](https://ko.wikipedia.org/wiki/_SK).
+> This article is converted from Wikipedia: [겐츨레르비를리이 SK](https://ko.wikipedia.org/wiki/겐츨레르비를리이_SK).
 
 
 **겐츨레르비를리이 스포르 쿨뤼뷔**()는 [터키](../Page/터키.md "wikilink")의 수도 [앙카라](../Page/앙카라.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 1923년에 창단된 겐츨레르비를리이는 *앙카라 뤼즈가르*(Ankara Rüzgârı, 앙카라의 바람)라는 별명을 지녔다. 클럽의 색깔은 검은색과 빨강색이다. 홈 경기장은 [앙카라 19 마이으스 스타디움이다](https://ko.wikipedia.org/wiki/앙카라_19_마이으스_스타디움 "wikilink"). 겐츨레르비를리이는 국내에서 1987년과 2001년에 걸쳐 총 두 차례 [터키 컵을](https://ko.wikipedia.org/wiki/터키_컵 "wikilink") 우승하였다. 그들은 또한 오늘날에는 없어진 [터키 축구 선수권대회](https://ko.wikipedia.org/wiki/아마퇴르_푸트볼_샴피요나스 "wikilink")(2회)와 [앙카라 축구 리그](https://ko.wikipedia.org/wiki/앙카라_축구_리그 "wikilink")(10회)를 우승하였다. 그들의 유럽 선수권 대회 최고 성적은 2004년 때이며, 그 해에 우승팀이였던 [발렌시아에게](../Page/발렌시아_CF.md "wikilink") [UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink") 4라운드에서 탈락하였다.

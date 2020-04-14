@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SE](https://ko.wikipedia.org/wiki/_SE).
+> This article is converted from Wikipedia: [아티브 SE](https://ko.wikipedia.org/wiki/아티브_SE).
 
 
 **삼성 아티브 SE**(Samsung ATIV SE)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2014년](../Page/2014년.md "wikilink")에 공개한 [윈도폰](https://ko.wikipedia.org/wiki/윈도폰 "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

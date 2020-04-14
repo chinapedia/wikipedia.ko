@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IC](https://ko.wikipedia.org/wiki/IC).
+> This article is converted from Wikipedia: [풍기IC터미널](https://ko.wikipedia.org/wiki/풍기IC터미널).
 
 
 **풍기IC터미널**은 [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [영주시](../Page/영주시.md "wikilink") [봉현면](../Page/봉현면.md "wikilink") 대촌리 438번지에 소재해 있다. [중앙고속도로](../Page/중앙고속도로.md "wikilink") [풍기 나들목](../Page/풍기_나들목.md "wikilink") 입구의 농업인복지회관에서 [영주시외버스터미널](../Page/영주시외버스터미널.md "wikilink")에서 착발하는 [동서울](../Page/동서울종합터미널.md "wikilink"), [서울경부](https://ko.wikipedia.org/wiki/서울고속버스터미널 "wikilink") 방면 [고속버스](https://ko.wikipedia.org/wiki/고속버스 "wikilink") 및 수도권 방면 [시외버스](../Page/시외버스.md "wikilink") 의 발권과 예매가 가능하다. 중간 승·하차장이기 때문에 [영주시외버스터미널](../Page/영주시외버스터미널.md "wikilink")이나 [동서울](../Page/동서울종합터미널.md "wikilink"), [서울경부에서](https://ko.wikipedia.org/wiki/서울고속버스터미널 "wikilink") 출발한 고속버스, 수도권에서 출발한 시외버스가 중간 정차 하는 형태여서 이 곳에서 착발하는 노선은 없다. [고속버스](https://ko.wikipedia.org/wiki/고속버스 "wikilink") 전산망 상의 터미널 번호는 **834**이다.

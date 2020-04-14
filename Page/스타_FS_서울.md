@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ FS ](https://ko.wikipedia.org/wiki/_FS_).
+> This article is converted from Wikipedia: [스타 FS 서울](https://ko.wikipedia.org/wiki/스타_FS_서울).
 
 
-**스타FS서울**(Star Futsal club seoul)은 [서울특별시 송파구를](https://ko.wikipedia.org/wiki/송파구 "wikilink") 연고로하고 대한민국 풋살 1부리그 [FK 슈퍼리그에](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 소속되어있는 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 선수단이다. [전주매그풋살클럽과](../Page/전주_매그_FC.md "wikilink") 함께 FK리그 2강으로 불리는 스타FS서울은 전주매그풋살클럽에 이어 2번째로 [AFC 풋살 클럽챔피언십에](../Page/AFC_풋살_클럽_챔피언십.md "wikilink") 나서며 2019년도 개최지는 [이란](../Page/이란.md "wikilink")의 [이스파한](../Page/이스파한.md "wikilink")이다.
+**스타FS서울**(Star Futsal club seoul)은 [서울특별시 송파구를](https://ko.wikipedia.org/wiki/송파구 "wikilink") 연고로하고 대한민국 풋살 1부리그 [FK 슈퍼리그에](../Page/FK_슈퍼리그.md "wikilink") 소속되어있는 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 선수단이다. [전주매그풋살클럽과](../Page/전주_매그_FC.md "wikilink") 함께 FK리그 2강으로 불리는 스타FS서울은 전주매그풋살클럽에 이어 2번째로 [AFC 풋살 클럽챔피언십에](../Page/AFC_풋살_클럽_챔피언십.md "wikilink") 나서며 2019년도 개최지는 [이란](../Page/이란.md "wikilink")의 [이스파한](../Page/이스파한.md "wikilink")이다.
 
 ## 역사
 

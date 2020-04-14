@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [대교어린이TV 음악콩쿠르](https://ko.wikipedia.org/wiki/대교어린이TV_음악콩쿠르).
 
 
-**대교어린이TV 음악콩쿠르**는, [2011년](../Page/2011년.md "wikilink")에 시작하여 [2012년](../Page/2012년.md "wikilink")에 폐지된 동요 콩쿠르 경연 대회이다. 대교문화재단이 주최하고, [대교어린이TV](../Page/대교어린이TV.md "wikilink")가 주관, [서울특별시 교육청과](https://ko.wikipedia.org/wiki/서울특별시_교육청 "wikilink") [야마하](../Page/야마하.md "wikilink")가 후원하는 이 동요 음악 콩쿠르는, 음악으로 아름다운 동심의 세계를 펼치며 꿈과 순수한 동요 음악 콩쿠르로써 발전을 기여해왔다.
+**대교어린이TV 음악콩쿠르**는 [2011년](../Page/2011년.md "wikilink")에 시작하여 [2012년](../Page/2012년.md "wikilink")에 폐지된 동요 콩쿠르 경연 대회이다. 대교문화재단이 주최하고, [대교어린이TV](../Page/대교어린이TV.md "wikilink")가 주관, [서울특별시 교육청과](https://ko.wikipedia.org/wiki/서울특별시_교육청 "wikilink") [야마하](../Page/야마하.md "wikilink")가 후원하는 이 동요 음악 콩쿠르는, 음악으로 아름다운 동심의 세계를 펼치며 꿈과 순수한 동요 음악 콩쿠르로써 발전을 기여해왔다.
 
 그리고 다음대회 일정은 현재 알 수 없으며, 현재 2011년 1회 대회를 마지막으로 현재는 대회가 중단된 상태다.
 

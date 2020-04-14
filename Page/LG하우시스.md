@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG하우시스](https://ko.wikipedia.org/wiki/LG하우시스).
 
 
 **LG하우시스**는 [2009년 4월](../Page/2009년_4월.md "wikilink") [LG화학](../Page/LG화학.md "wikilink")에서 산업재 사업부문을 분할해서 설립한 기업이다. 건축자재와 인테리어 소재를 생산한다. [2010년](../Page/2010년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") 키자니아 서울 내에 '인테리어 회사' 체험관을 오픈하였다.
@@ -14,7 +14,7 @@
   - [1974년](../Page/1974년.md "wikilink") [2월](../Page/2월.md "wikilink") '주식회사 럭키'로 상호 변경
   - [1995년](../Page/1995년.md "wikilink") [1월](../Page/1월.md "wikilink") '(주)LG화학'으로 상호 변경
   - [2001년](../Page/2001년.md "wikilink") [4월](../Page/4월.md "wikilink") 기업 분할 (LGCI, LG화학, LG생활건강 등)
-  - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") **LG하우시스 출범** (LG화학 산업재산업 분할)
+  - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") **LG하우시스 출범**(LG화학 산업재산업 분할)
   - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") '(주)LG토스템비엠' 합작 법인 설립
   - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink") '(주)하우시스이엔지' 자회사 설립
   - [2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink") '(주)하우시스인터페인' 합작 법인 설립

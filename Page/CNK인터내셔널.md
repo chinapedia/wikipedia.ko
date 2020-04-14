@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CNK](https://ko.wikipedia.org/wiki/CNK).
+> This article is converted from Wikipedia: [CNK인터내셔널](https://ko.wikipedia.org/wiki/CNK인터내셔널).
 
 
 **CNK인터내셔널**은 현재 상장폐지가 된 코스닥 상장기업이다. 상장회사명으로는 **씨엔케이인터**로 표기한다. 카메룬 소재 C\&K mining 의 지분을 인수하여 금, 다이아몬드, 사파이어 등의 자원을 개발하던 회사이다.

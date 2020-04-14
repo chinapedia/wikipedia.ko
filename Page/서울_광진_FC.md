@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [서울 광진 FC](https://ko.wikipedia.org/wiki/서울_광진_FC).
 
 
 **서울 광진 FC**()는 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 클럽이다.

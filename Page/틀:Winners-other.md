@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Winners-other](https://ko.wikipedia.org/wiki/:Winners-other).
+> This article is converted from Wikipedia: [틀:Winners-other](https://ko.wikipedia.org/wiki/틀:Winners-other).
 
 
 |         |

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A. J. ](https://ko.wikipedia.org/wiki/A._J._).
+> This article is converted from Wikipedia: [A. J. 랭거](https://ko.wikipedia.org/wiki/A._J._랭거).
 
 
 **A. J. 랭거**(, [1974년](../Page/1974년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.

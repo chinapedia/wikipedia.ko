@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE RAMPAGE from EXILE TRIBE](https://ko.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE).
 
 
-**THE RAMPAGE from EXILE TRIBE**는, [일본](../Page/일본.md "wikilink")의 [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속. 레이블은 [rhythm zone](../Page/리듬존.md "wikilink").
+**THE RAMPAGE from EXILE TRIBE**는 [일본](../Page/일본.md "wikilink")의 [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속. 레이블은 [rhythm zone](../Page/리듬존.md "wikilink").
 
 ## 약력
 

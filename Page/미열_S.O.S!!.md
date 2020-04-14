@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S.O.S!!](https://ko.wikipedia.org/wiki/_S.O.S!!).
+> This article is converted from Wikipedia: [미열 S.O.S!!](https://ko.wikipedia.org/wiki/미열_S.O.S!!).
 
 
 〈**미열 S.O.S\!\!**〉()는 [하시모토 미유키의](../Page/하시모토_미유키.md "wikilink") 9매째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink"). [2007년](../Page/2007년.md "wikilink") [4월 25일에](../Page/4월_25일.md "wikilink") [란티스](../Page/란티스.md "wikilink")로부터 발매되었다.

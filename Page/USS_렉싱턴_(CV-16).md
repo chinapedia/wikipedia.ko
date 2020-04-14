@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-16\)](https://ko.wikipedia.org/wiki/USS__\(CV-16\)).
+> This article is converted from Wikipedia: [USS 렉싱턴 \(CV-16\)](https://ko.wikipedia.org/wiki/USS_렉싱턴_\(CV-16\)).
 
 
 [300px](https://ko.wikipedia.org/wiki/파일:USS_Lexington_CV16.jpg "wikilink")

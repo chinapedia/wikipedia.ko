@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KR](https://ko.wikipedia.org/wiki/KR).
+> This article is converted from Wikipedia: [KR모터스](https://ko.wikipedia.org/wiki/KR모터스).
 
 
 **KR모터스**(KR Motors)는 [코라오그룹](../Page/코라오그룹.md "wikilink") 산하의 코라오홀딩스 자회사로 1978년 6월에 설립된 효성기계공업을 모체로 하는 [모터사이클](../Page/모터사이클.md "wikilink") 제조 회사이다.
@@ -78,4 +78,4 @@
 
   - [효성모터 일본 홈페이지](https://web.archive.org/web/20050403042218/http://www.hsmc.jp/)
 
-[분류:1917년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1917년_설립된_기업 "wikilink") [분류:모터사이클 제조 회사](https://ko.wikipedia.org/wiki/분류:모터사이클_제조_회사 "wikilink") [분류:효성의 이전 자회사](https://ko.wikipedia.org/wiki/분류:효성의_이전_자회사 "wikilink") [분류:대한민국의 모터사이클 제조 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_모터사이클_제조_기업 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink")
+[분류:1917년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1917년_설립된_기업 "wikilink") [분류:모터사이클 제조 회사](https://ko.wikipedia.org/wiki/분류:모터사이클_제조_회사 "wikilink") [분류:창원시의 기업](https://ko.wikipedia.org/wiki/분류:창원시의_기업 "wikilink") [분류:대한민국의 모터사이클 제조 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_모터사이클_제조_기업 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Faith \(  \)](https://ko.wikipedia.org/wiki/Faith_\(__\)).
+> This article is converted from Wikipedia: [Faith \(조지 마이클의 음반\)](https://ko.wikipedia.org/wiki/Faith_\(조지_마이클의_음반\)).
 
 
 《**Faith**》는 1987년 10월 30일 [컬럼비아 레코드와](../Page/컬럼비아_레코드.md "wikilink") [에픽 레코드가](../Page/에픽_레코드.md "wikilink") 발매한 [영국](../Page/영국.md "wikilink")의 싱어송라이터 [조지 마이클의](../Page/조지_마이클.md "wikilink") 데뷔 솔로 스튜디오 음반이다. 이 음반은 1989년의 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 올해의 앨범을 포함하여 여러 개의 상을 받았고, [미국 음반 산업 협회로부터](../Page/미국_음반_산업_협회.md "wikilink") 다이아몬드 극한의 인증을 받았다.

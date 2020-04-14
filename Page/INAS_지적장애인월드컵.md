@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [INAS ](https://ko.wikipedia.org/wiki/INAS_).
+> This article is converted from Wikipedia: [INAS 지적장애인월드컵](https://ko.wikipedia.org/wiki/INAS_지적장애인월드컵).
 
 
 **INAS 지적장애인월드컵**()은 국제 장애인 스포츠기구인 국제정신지체인경기연맹(INAS-FID)에서 주관하는 국제 지적장애인 축구대회이다.

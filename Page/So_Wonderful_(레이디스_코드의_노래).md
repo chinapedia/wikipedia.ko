@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [So Wonderful \(  \)](https://ko.wikipedia.org/wiki/So_Wonderful_\(__\)).
+> This article is converted from Wikipedia: [So Wonderful \(레이디스 코드의 노래\)](https://ko.wikipedia.org/wiki/So_Wonderful_\(레이디스_코드의_노래\)).
 
 
 〈**So Wonderful**〉은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레이디스 코드의](../Page/레이디스_코드.md "wikilink") 두번째 디지털 싱글이다. 2014년 2월 13일 발매되었다. 음반도 발매되었으나 비매품 소장용으로 발매되었다.\[1\]

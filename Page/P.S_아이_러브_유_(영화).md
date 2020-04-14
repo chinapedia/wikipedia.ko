@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P.S    \(\)](https://ko.wikipedia.org/wiki/P.S____\(\)).
+> This article is converted from Wikipedia: [P.S 아이 러브 유 \(영화\)](https://ko.wikipedia.org/wiki/P.S_아이_러브_유_\(영화\)).
 
 
 《**P.S 아이 러브 유**》()는 [2007년](../Page/2007년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 로맨틱 코미디 영화로, 세실리아 아헌의 소설 《[PS, 아이 러브 유](https://ko.wikipedia.org/wiki/PS,_아이_러브_유_\(소설\) "wikilink")》를 원작으로 한다.

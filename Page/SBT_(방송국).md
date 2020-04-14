@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBT \(\)](https://ko.wikipedia.org/wiki/SBT_\(\)).
+> This article is converted from Wikipedia: [SBT \(방송국\)](https://ko.wikipedia.org/wiki/SBT_\(방송국\)).
 
 
 **SBT**()는 [1981년](../Page/1981년.md "wikilink") [8월 19일에](../Page/8월_19일.md "wikilink") 출범한 [브라질](../Page/브라질.md "wikilink")의 텔레비전 네트워크다. 본사는 [상파울루주](../Page/상파울루주.md "wikilink")의 [오자스쿠](../Page/오자스쿠.md "wikilink")에 위치해 있다. 브라질에서 두 번째, 라틴 아메리카에서 4번째로 큰 규모의 방송국이다.

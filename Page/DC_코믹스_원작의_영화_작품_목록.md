@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DC     ](https://ko.wikipedia.org/wiki/DC_____).
+> This article is converted from Wikipedia: [DC 코믹스 원작의 영화 작품 목록](https://ko.wikipedia.org/wiki/DC_코믹스_원작의_영화_작품_목록).
 
 
 이 항목에서는 **[DC 코믹스](../Page/DC_코믹스.md "wikilink")** 의 작품을 원작으로 한 실사 영화, 애니메이션 영화, 비디오 영화 및 TV 영화 작품을 나열하고 설명한다.

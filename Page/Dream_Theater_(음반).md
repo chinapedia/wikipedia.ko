@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dream Theater \(\)](https://ko.wikipedia.org/wiki/Dream_Theater_\(\)).
+> This article is converted from Wikipedia: [Dream Theater \(음반\)](https://ko.wikipedia.org/wiki/Dream_Theater_\(음반\)).
 
 
 **Dream Theater**는 [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 열 두 번째 정규 음반이다.

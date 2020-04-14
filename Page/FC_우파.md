@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 우파](https://ko.wikipedia.org/wiki/FC_우파).
 
 
 **FC 우파**(, )는 [러시아](../Page/러시아.md "wikilink") [바시키르 공화국의](../Page/바시키르_공화국.md "wikilink") 수도 [우파를](../Page/우파_\(도시\).md "wikilink") 연고로 하는 축구 클럽이다. 이 팀은 [2009년](../Page/2009년.md "wikilink")에 창단되었으며, 현재 [러시아 프리미어리그에](../Page/러시아_프리미어리그.md "wikilink") 참가하고 있다.

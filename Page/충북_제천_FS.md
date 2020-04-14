@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FS](https://ko.wikipedia.org/wiki/__FS).
+> This article is converted from Wikipedia: [충북 제천 FS](https://ko.wikipedia.org/wiki/충북_제천_FS).
 
 
 ## 역사
@@ -7,7 +7,7 @@
 
 다음 해 2013-14 [FK리그](../Page/FK리그.md "wikilink")에서도 2년 연속 챔피언결정전에 진출하였지만 아쉽게 준우승에 머물렀다.
 
-2014년 제95회 전국체육대회 동호인 풋살종목에서 우승하였고 연이어 다음 해에 2015년 FK컵대회를 우승하였다. 2016-17년 정규리그 1위 \~ 6위를 차지하면서 슈퍼리그에서 뛰게되었지만 2018-19시즌 [판타지아부천FS와의](../Page/판타지아_부천_FS.md "wikilink") 최종전에서 2 : 7로 패하면서 [드림리그로](https://ko.wikipedia.org/wiki/FK_드림리그 "wikilink") 강등당했다.
+2014년 제95회 전국체육대회 동호인 풋살종목에서 우승하였고 연이어 다음 해에 2015년 FK컵대회를 우승하였다. 2016-17년 정규리그 1위 \~ 6위를 차지하면서 슈퍼리그에서 뛰게되었지만 2018-19시즌 [판타지아부천FS와의](../Page/판타지아_부천_FS.md "wikilink") 최종전에서 2 : 7로 패하면서 [드림리그로](../Page/FK_드림리그.md "wikilink") 강등당했다.
 
 ## 코칭스태프
 

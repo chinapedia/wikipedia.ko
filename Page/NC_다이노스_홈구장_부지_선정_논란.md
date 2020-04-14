@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NC     ](https://ko.wikipedia.org/wiki/NC_____).
+> This article is converted from Wikipedia: [NC 다이노스 홈구장 부지 선정 논란](https://ko.wikipedia.org/wiki/NC_다이노스_홈구장_부지_선정_논란).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Changwon_Masan_Ballpark.jpg "wikilink") **NC 다이노스 홈구장 부지 선정 논란**은 한국프로야구에 참가하고 있는 NC 다이노스와 창원시가 홈구장 부지 선정으로 발생한 갈등에 관련된 사건이다.

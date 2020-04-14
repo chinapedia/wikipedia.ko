@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SF](https://ko.wikipedia.org/wiki/_SF).
+> This article is converted from Wikipedia: [일본 SF](https://ko.wikipedia.org/wiki/일본_SF).
 
 
 **[일본](../Page/일본.md "wikilink") [과학소설](../Page/SF_\(장르\).md "wikilink")**은 [애니메이션](../Page/일본의_애니메이션.md "wikilink"), [만화](../Page/일본_만화.md "wikilink"), [비디오 게임](../Page/비디오_게임.md "wikilink"), [특촬물](https://ko.wikipedia.org/wiki/특촬물 "wikilink"), [영화를](https://ko.wikipedia.org/wiki/일본_영화 "wikilink") 비롯한 일본 대중 문화 전반에 강한 영향을 미치는 [일본 문학의](../Page/일본_문학.md "wikilink") 중요한 서브장르다.

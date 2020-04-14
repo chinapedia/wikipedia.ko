@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 뉴스특보](https://ko.wikipedia.org/wiki/MBC_뉴스특보).
 
 
 《**MBC 뉴스특보**》()는 특집 뉴스로 편성되어 [MBC TV에서](../Page/MBC_TV.md "wikilink") 방송되는 [문화방송의 뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KG](https://ko.wikipedia.org/wiki/KG).
+> This article is converted from Wikipedia: [KG동부제철](https://ko.wikipedia.org/wiki/KG동부제철).
 
 
 **KG동부제철**은 철강 제조 기업 이다. 철강재 및 비철금속제조 및 판매를 목적으로 설립되었으며 주 영업 분야는 판재, 건재, 선재 세 가지로 나뉜다. 매출구성은 판재 93%, 건재 7% 가량으로 이루어진다.

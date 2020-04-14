@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  FS](https://ko.wikipedia.org/wiki/__FS).
+> This article is converted from Wikipedia: [판타지아 부천 FS](https://ko.wikipedia.org/wiki/판타지아_부천_FS).
 
 
-**판타지아 부천 FS**()는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [부천시](https://ko.wikipedia.org/wiki/부천시 "wikilink")를 연고로 하는 [FK 슈퍼리그](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 소속 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 선수단이다.
+**판타지아 부천 FS**()는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [부천시](https://ko.wikipedia.org/wiki/부천시 "wikilink")를 연고로 하는 [FK 슈퍼리그](../Page/FK_슈퍼리그.md "wikilink") 소속 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 선수단이다.
 
 2007년, 원미풋살경기장을 연습구장으로 창단하였으며 창단한 이후 [FK리그](../Page/FK리그.md "wikilink")에 참가하였다. 2016년 이후 FK리그 최초로 체계화된 서포터즈 복사풋살혁신연합이 창단하면서 승강제를 서포터즈와 같이한다.
 
@@ -9,7 +9,7 @@
 
 ## 역사
 
-판타지아 부천FS는 2007년 생활체육풋살구단을 목표로 해서 창단하였으며 2012-13시즌부터 FK리그에 참가하였다. 첫번째 시즌에서 5위를 기록하며 아쉬운 성적을 거뒀던 부천은 이윽고 절치부심하여 [FK컵](../Page/FK컵.md "wikilink")에 나섰고 준우승이라는 성적을 달성했다. 이후 [2015-16 FK리그에서](../Page/FK리그_2015-16_남자부.md "wikilink") 준우승을 차지하였고 다음해인 2016-17시즌엔 [슈퍼리그에](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 잔류할 수 있는 성적 (1위\~6위)을 차지하면서 2017-18시즌 FK 슈퍼리그에 나서게되었다. 승강제 시행 이후 2016년 10월 판타지아 부천FS 서포터즈 [복사풋살혁신연합](https://ko.wikipedia.org/wiki/복사풋살혁신연합 "wikilink")이 창단함에 따라 서포터즈를 보유하고 있는 팀이 되었으며 2018-19시즌 극적으로 [슈퍼리그](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 잔류에 성공했다.
+판타지아 부천FS는 2007년 생활체육풋살구단을 목표로 해서 창단하였으며 2012-13시즌부터 FK리그에 참가하였다. 첫번째 시즌에서 5위를 기록하며 아쉬운 성적을 거뒀던 부천은 이윽고 절치부심하여 [FK컵](../Page/FK컵.md "wikilink")에 나섰고 준우승이라는 성적을 달성했다. 이후 [2015-16 FK리그에서](../Page/FK리그_2015-16_남자부.md "wikilink") 준우승을 차지하였고 다음해인 2016-17시즌엔 [슈퍼리그에](../Page/FK_슈퍼리그.md "wikilink") 잔류할 수 있는 성적 (1위\~6위)을 차지하면서 2017-18시즌 FK 슈퍼리그에 나서게되었다. 승강제 시행 이후 2016년 10월 판타지아 부천FS 서포터즈 [복사풋살혁신연합](https://ko.wikipedia.org/wiki/복사풋살혁신연합 "wikilink")이 창단함에 따라 서포터즈를 보유하고 있는 팀이 되었으며 2018-19시즌 극적으로 [슈퍼리그](../Page/FK_슈퍼리그.md "wikilink") 잔류에 성공했다.
 
 ## 클럽문화
 
@@ -30,7 +30,7 @@
 <tbody>
 <tr class="odd">
 <td><p>감독</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박선덕" title="wikilink">박선덕</a></p></td>
+<td><p><a href="../Page/박선덕.md" title="wikilink">박선덕</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -42,19 +42,19 @@
 | -- | --------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- | --------- | ----- | ----- |
 | 1  | [링크=대한민국](https://ko.wikipedia.org/wiki/파일:Flag_of_South_Korea.svg "wikilink")[박청조](https://ko.wikipedia.org/wiki/박청조 "wikilink") | 2012-13 시즌 | 2012-13시즌 | 2012-13시즌 | 1시즌   | 초대 감독 |
 | 2  | [링크=대한민국](https://ko.wikipedia.org/wiki/파일:Flag_of_South_Korea.svg "wikilink")[김태열](https://ko.wikipedia.org/wiki/김태열 "wikilink") | 2013-14시즌  | 2013-14시즌 | 2013-14시즌 | 1시즌   |       |
-| 3  | [링크=대한민국](https://ko.wikipedia.org/wiki/파일:Flag_of_South_Korea.svg "wikilink")[박선덕](https://ko.wikipedia.org/wiki/박선덕 "wikilink") | 2014-15시즌  | 2014-15시즌 |           |       |       |
+| 3  | [링크=대한민국](https://ko.wikipedia.org/wiki/파일:Flag_of_South_Korea.svg "wikilink")[박선덕](../Page/박선덕.md "wikilink")                    | 2014-15시즌  | 2014-15시즌 |           |       |       |
 
 ## 시즌 결과
 
-| 시즌      | 리그                                                          | 순위  |
-| ------- | ----------------------------------------------------------- | --- |
-| 2012-13 | [FK리그](../Page/FK리그.md "wikilink")                          | 5위  |
-| 2013-14 | [FK리그](../Page/FK리그.md "wikilink")                          | 4위  |
-| 2014-15 | [FK리그](../Page/FK리그.md "wikilink")                          | 3위  |
-| 2015-16 | [FK리그](../Page/FK리그.md "wikilink")                          | 준우승 |
-| 2016-17 | [FK리그](../Page/FK리그.md "wikilink")                          | 3위  |
-| 2017-18 | [FK 슈퍼리그](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") | 3위  |
-| 2018-19 | [FK 슈퍼리그](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") | 4위  |
+| 시즌      | 리그                                       | 순위  |
+| ------- | ---------------------------------------- | --- |
+| 2012-13 | [FK리그](../Page/FK리그.md "wikilink")       | 5위  |
+| 2013-14 | [FK리그](../Page/FK리그.md "wikilink")       | 4위  |
+| 2014-15 | [FK리그](../Page/FK리그.md "wikilink")       | 3위  |
+| 2015-16 | [FK리그](../Page/FK리그.md "wikilink")       | 준우승 |
+| 2016-17 | [FK리그](../Page/FK리그.md "wikilink")       | 3위  |
+| 2017-18 | [FK 슈퍼리그](../Page/FK_슈퍼리그.md "wikilink") | 3위  |
+| 2018-19 | [FK 슈퍼리그](../Page/FK_슈퍼리그.md "wikilink") | 4위  |
 
 ## 우승 기록
 

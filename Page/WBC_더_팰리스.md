@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WBC  ](https://ko.wikipedia.org/wiki/WBC__).
+> This article is converted from Wikipedia: [WBC 더 팰리스](https://ko.wikipedia.org/wiki/WBC_더_팰리스).
 
 
 **WBC 더 팰리스**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](../Page/해운대구.md "wikilink") [우동](../Page/우동_\(부산\).md "wikilink") [센텀시티](../Page/센텀시티.md "wikilink")에 위치하고 [2008년](../Page/2008년.md "wikilink")에 착공하여 [2011년](../Page/2011년.md "wikilink")에 완공한 288세대인 지상 51층, 186m의 쌍둥이 건물 두 동과 오피스텔으로 구성된 주상복합 [오피스텔](../Page/오피스텔.md "wikilink") 단지다.\[1\]

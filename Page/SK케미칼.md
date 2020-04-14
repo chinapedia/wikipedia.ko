@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK케미칼](https://ko.wikipedia.org/wiki/SK케미칼).
 
 
 **SK케미칼**은 [폴리에스테르](https://ko.wikipedia.org/wiki/폴리에스테르 "wikilink") 등을 생산하는 화학부문과 신약등 생명과학 부문 사업을 영위하는 SK디스커버리 계열사이다. 2017년 12월 지주회사인 SK디스커버리와 사업회사인 SK케미칼로 인적분할을 마무리하여, 신설법인 SK케미칼(주)로 새롭게 출범하였다. 2018년 7월 1일 백신사업부문을 SK바이오사이언스로 분할되었다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 판교로 310 (삼평동)에 있다.

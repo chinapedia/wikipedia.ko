@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [14 \~The message\~](https://ko.wikipedia.org/wiki/14_\~The_message\~).
+> This article is converted from Wikipedia: [14장 \~The message\~](https://ko.wikipedia.org/wiki/14장_\~The_message\~).
 
 
 **14장 \~The message\~**()는 [2014년](../Page/2014년.md "wikilink") [10월 29일에](../Page/10월_29일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")'14의 열네 번째 정규 앨범이다.

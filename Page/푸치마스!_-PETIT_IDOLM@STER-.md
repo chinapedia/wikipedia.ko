@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [! -PETIT IDOLM@STER-](https://ko.wikipedia.org/wiki/!_-PETIT_IDOLM@STER-).
+> This article is converted from Wikipedia: [푸치마스! -PETIT IDOLM@STER-](https://ko.wikipedia.org/wiki/푸치마스!_-PETIT_IDOLM@STER-).
 
 
 \<**푸치마스\! - PETIT IDOLM@STER-**\>(푸치마스\! -푸치 아이돌마스터-)는 원작: [반다이남코게임스](https://ko.wikipedia.org/wiki/반다이남코게임스 "wikilink"), 만화: [아카네](https://ko.wikipedia.org/wiki/아카네 "wikilink")에 의한 [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink") 작품. \<전격「마)왕\> ([2011년](../Page/2011년.md "wikilink") 12월호부터 \<[전격 마오우](https://ko.wikipedia.org/wiki/전격_마오우 "wikilink")\>로 개칭. [아스키 미디어 워크스](../Page/아스키_미디어_워크스.md "wikilink"))에서 [2008년](../Page/2008년.md "wikilink") 9월호부터 연재중. [반다이 남코 게임스의](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") 게임 \<[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")\>로부터의 스핀오프 작품.

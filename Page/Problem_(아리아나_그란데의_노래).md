@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Problem \(  \)](https://ko.wikipedia.org/wiki/Problem_\(__\)).
+> This article is converted from Wikipedia: [Problem \(아리아나 그란데의 노래\)](https://ko.wikipedia.org/wiki/Problem_\(아리아나_그란데의_노래\)).
 
 
 "**Problem**"은 [아리아나 그란데의](../Page/아리아나_그란데.md "wikilink") 싱글 앨범이자 그 앨범의 타이틀곡이다. 2014년 5월 2일에 발매되었다. 이 곡은 발매와 동시에 US 아이튠즈를 비롯한 47개국의 음원 사이트에서 1위를 하며 큰 인기를 끌었다. 피쳐링에는 호주의 여성 래퍼인 [이기 아잘리아가](https://ko.wikipedia.org/wiki/이기_아잘리아 "wikilink") 참여했다. "Problem"은 아리아나 그란데의 2집 앨범 "My Everything"과 그 딜럭스 에디션의 타이틀곡이기도 하다.

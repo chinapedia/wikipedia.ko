@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Scandal \( \&  \)](https://ko.wikipedia.org/wiki/Scandal_\(_\&__\)).
+> This article is converted from Wikipedia: [Scandal \(강타 \& 바네스의 음반\)](https://ko.wikipedia.org/wiki/Scandal_\(강타_\&_바네스의_음반\)).
 
 
 《**Scandal**》(스캔들)은 [강타 & 바네스의](https://ko.wikipedia.org/wiki/강타_&_바네스 "wikilink") 첫 번째 정규 음반이다.

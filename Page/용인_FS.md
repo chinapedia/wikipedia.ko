@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ FS](https://ko.wikipedia.org/wiki/_FS).
+> This article is converted from Wikipedia: [용인 FS](https://ko.wikipedia.org/wiki/용인_FS).
 
 
-**<big>용인 대흥 FS</big>** ( **Yongin Daeheng Futsal Club** ) 는 [경기도 용인시를](../Page/용인시.md "wikilink") 연고로 하는 [FK 드림리그](https://ko.wikipedia.org/wiki/FK_드림리그 "wikilink") ( 2부 ) 소속 [풋살](../Page/풋살.md "wikilink")구단이다.
+**<big>용인 대흥 FS</big>** ( **Yongin Daeheng Futsal Club** ) 는 [경기도 용인시를](../Page/용인시.md "wikilink") 연고로 하는 [FK 드림리그](../Page/FK_드림리그.md "wikilink") ( 2부 ) 소속 [풋살](../Page/풋살.md "wikilink")구단이다.
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 용인 역시 [FK 리그에서](../Page/FK리그.md "wikilink") 중 하위권을 넘나드는 팀이였으며 2011년 [FK컵](../Page/FK컵.md "wikilink") 준우승이라는 성적을 거둔 이후 좋은 성적을 거두지는 못했다. 그러나 이민용이 [풋살 국가대표팀에](../Page/대한민국_풋살_국가대표팀.md "wikilink") 꾸준히 발탁되면서 [FK리그](../Page/FK리그.md "wikilink") 팬들에게는 이름이 많이 알려져있다.
 
-그러나 용인은 2016-17시즌 [FK 슈퍼리그에](https://ko.wikipedia.org/wiki/FK_슈퍼리그 "wikilink") 잔류하고도 다음시즌인 2017-18시즌에 역대 최악의 성적을 거두며 2부리그인 [FK 드림리그로](https://ko.wikipedia.org/wiki/FK_드림리그 "wikilink") 강등당했다. 용인이 강등당할 당시의 승률은 매우 낮다.
+그러나 용인은 2016-17시즌 [FK 슈퍼리그에](../Page/FK_슈퍼리그.md "wikilink") 잔류하고도 다음시즌인 2017-18시즌에 역대 최악의 성적을 거두며 2부리그인 [FK 드림리그로](../Page/FK_드림리그.md "wikilink") 강등당했다. 용인이 강등당할 당시의 승률은 매우 낮다.
 
 ## 우승기록
 
@@ -94,7 +94,7 @@
 
 ## 서포터즈
 
-용인대흥FS는 예전 용인FS시절 서포터즈 페이지가 그대로 남아있다. 활동을 하고 있는지는 모르겠으나 몇년간 서포터즈가 열심히 구단을 응원해줬던 것으로 보인다. 2018년 기준 서포터즈가 활동하는 구단은 [청주풋살클럽](https://ko.wikipedia.org/wiki/청주풋살클럽 "wikilink") , [전주매그풋살클럽](../Page/전주_매그_FC.md "wikilink") , [판타지아 부천FS](../Page/판타지아_부천_FS.md "wikilink") 총 3개구단이며 이중 서포터즈 이름이 있는곳은 [판타지아부천FS가](../Page/판타지아_부천_FS.md "wikilink") 유일하다.
+용인대흥FS는 예전 용인FS시절 서포터즈 페이지가 그대로 남아있다. 활동을 하고 있는지는 모르겠으나 몇년간 서포터즈가 열심히 구단을 응원해줬던 것으로 보인다. 2018년 기준 서포터즈가 활동하는 구단은 [청주풋살클럽](../Page/청주풋살클럽.md "wikilink") , [전주매그풋살클럽](../Page/전주_매그_FC.md "wikilink") , [판타지아 부천FS](../Page/판타지아_부천_FS.md "wikilink") 총 3개구단이며 이중 서포터즈 이름이 있는곳은 [판타지아부천FS가](../Page/판타지아_부천_FS.md "wikilink") 유일하다.
 
 ## 각주
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I \( \)](https://ko.wikipedia.org/wiki/I_\(_\)).
+> This article is converted from Wikipedia: [I \(이키모노가카리의 음반\)](https://ko.wikipedia.org/wiki/I_\(이키모노가카리의_음반\)).
 
 
 『**I**』는 [이키모노가카리](../Page/이키모노가카리.md "wikilink")의 메이저 6번째 [정규 앨범이다](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink"). [2013년](../Page/2013년.md "wikilink") [7월 24일에](../Page/7월_24일.md "wikilink") [에픽 레코드 재팬에서](../Page/에픽_레코드_재팬.md "wikilink") 발매됐다.

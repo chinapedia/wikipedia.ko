@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TPC ](https://ko.wikipedia.org/wiki/TPC_).
+> This article is converted from Wikipedia: [TPC 메카트로닉스](https://ko.wikipedia.org/wiki/TPC_메카트로닉스).
 
 
 **TPC 메카트로닉스**는 공압기계를 이용한 생산설비 자동화 부품 및 시스템을 제조 및 판매하는 코스닥 상장기업이다. 상장기업명으로는 짧게 **TPC**라고 쓴다. 매출구성은 공압 제품 81%, 로봇 16% 등으로 구성된다

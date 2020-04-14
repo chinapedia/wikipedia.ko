@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RSI \(\)](https://ko.wikipedia.org/wiki/RSI_\(\)).
+> This article is converted from Wikipedia: [RSI \(투자지표\)](https://ko.wikipedia.org/wiki/RSI_\(투자지표\)).
 
 
 [thumb에서](https://ko.wikipedia.org/wiki/파일:點金靈-RSI_KD_KDJ.png "wikilink") RSI를 보조지표로 사용하고 있는 모습\]\] **RSI**(Relative Strength Index)는 주식, 선물, 옵션 등의 기술적 분석에 사용되는 보조지표이다. RSI는 가격의 상승압력과 하락압력 간의 상대적인 강도를 나타낸다. 1978년 미국의 월레스 와일더(J. Welles Wilder Jr.)가 개발했다.

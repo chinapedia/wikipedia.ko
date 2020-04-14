@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [소피 B. 호킨스](https://ko.wikipedia.org/wiki/소피_B._호킨스).
 
 
 **소피 발렌타인 호킨스**(Sophie Ballantine Hawkins, [1964년](../Page/1964년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink")\~)는 [미국](../Page/미국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이자 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [뮤지션](https://ko.wikipedia.org/wiki/뮤지션 "wikilink"), [화가](https://ko.wikipedia.org/wiki/화가 "wikilink")이다. 그녀의 가장 높은 순위에 오른 싱글 앨범들은 "[Damn I Wish I Was Your Lover](https://ko.wikipedia.org/wiki/Damn_I_Wish_I_Was_Your_Lover "wikilink")", "[Right Beside You](https://ko.wikipedia.org/wiki/Right_Beside_You "wikilink")", "[As I Lay Me Down](https://ko.wikipedia.org/wiki/As_I_Lay_Me_Down "wikilink")"이다.

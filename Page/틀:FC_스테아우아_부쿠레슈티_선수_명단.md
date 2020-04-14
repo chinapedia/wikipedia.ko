@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC    ](https://ko.wikipedia.org/wiki/:FC____).
+> This article is converted from Wikipedia: [틀:FC 스테아우아 부쿠레슈티 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_스테아우아_부쿠레슈티_선수_명단).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(AOA \)](https://ko.wikipedia.org/wiki/_\(AOA_\)).
+> This article is converted from Wikipedia: [단발머리 \(AOA의 음반\)](https://ko.wikipedia.org/wiki/단발머리_\(AOA의_음반\)).
 
 
 《**단발 머리**》는 그룹 [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 첫번째 미니앨범이다. [2014년](../Page/2014년.md "wikilink") [6월 19일에](../Page/6월_19일.md "wikilink") 발매되었다.

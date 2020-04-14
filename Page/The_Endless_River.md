@@ -9,47 +9,7 @@
 
 모든 곡은 [데이비드 길모어](../Page/데이비드_길모어.md "wikilink"), [닉 메이슨과](../Page/닉_메이슨.md "wikilink") [릭 라이트에](https://ko.wikipedia.org/wiki/릭_라이트 "wikilink") 의해 쓰여졌으며, 가사는 길모어의 아내이자 작가인 [폴리 샘슨이](https://ko.wikipedia.org/wiki/폴리_샘슨 "wikilink") 작사했다.
 
-### 1면
-
-1.  "Things Left Unsaid"
-2.  "It's What We Do"
-3.  "Ebb and Flow"
-
-### 2면
-
-1.  "Sum"
-2.  "Skins"
-3.  "Unsung"
-4.  "Anisina"
-
-### 3면
-
-1.  "The Lost Art of Conversation"
-2.  "On Noodle Street"
-3.  "Night Light"
-4.  "Allons-y (1)"
-5.  "Autumn '68"
-6.  "Allons-y (2)"
-7.  "Talkin Hawkin'"
-
-### 4면
-
-1.  "Calling"
-2.  "Eyes to Pearls"
-3.  "Surfacing"
-4.  "Louder Than Words"
-
-### 디럭스 에디션 보너스 트랙
-
-1.  "TBS9"
-2.  "TBS14"
-3.  "Nervana"
-4.  "Anisina" (비디오)
-5.  "Untitled" (비디오)
-6.  "Evrika (A)" (비디오)
-7.  "Nervana" (비디오)
-8.  "Allons-y" (비디오)
-9.  "Evrika (B)" (비디오)
+### The Endless River 디럭스 에디션
 
 ## 제작진
 
@@ -95,7 +55,7 @@
 
 ## 외부 링크
 
-  - [*The Endless River* promotional website](http://www.pinkfloyd.com/theendlessriver/)
+  - [*The Endless River* promotional website](https://web.archive.org/web/20141007185111/http://www.pinkfloyd.com/theendlessriver/)
   - [Pink Floyd official website](https://web.archive.org/web/20140924173623/http://www.pinkfloyd.com/index2.php)
   - [Pink Floyd on Facebook](https://www.facebook.com/pinkfloyd)
 

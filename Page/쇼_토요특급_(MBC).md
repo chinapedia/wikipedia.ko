@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(MBC\)](https://ko.wikipedia.org/wiki/__\(MBC\)).
+> This article is converted from Wikipedia: [쇼 토요특급 \(MBC\)](https://ko.wikipedia.org/wiki/쇼_토요특급_\(MBC\)).
 
 
 **쇼 토요특급**은 [문화방송](../Page/문화방송.md "wikilink")에서 제작 방영되었던 주말 버라이어티 프로그램이다.

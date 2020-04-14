@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AC    ](https://ko.wikipedia.org/wiki/:AC____).
+> This article is converted from Wikipedia: [틀:AC 스파르타 프라하 선수 명단](https://ko.wikipedia.org/wiki/틀:AC_스파르타_프라하_선수_명단).
 
 
 <onlyinclude></onlyinclude>

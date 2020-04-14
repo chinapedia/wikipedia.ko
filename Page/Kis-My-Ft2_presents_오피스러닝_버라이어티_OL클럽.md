@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kis-My-Ft2 presents   OL](https://ko.wikipedia.org/wiki/Kis-My-Ft2_presents___OL).
+> This article is converted from Wikipedia: [Kis-My-Ft2 presents 오피스러닝 버라이어티 OL클럽](https://ko.wikipedia.org/wiki/Kis-My-Ft2_presents_오피스러닝_버라이어티_OL클럽).
 
 
 《*' Kis-My-Ft2 presents 오피스러닝 버라이어티 OL클럽*'》()는, [2014년](../Page/2014년.md "wikilink") [9월 30일부터](../Page/9월_30일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [3월 24일까지](../Page/3월_24일.md "wikilink") [TV 아사히](../Page/TV_아사히.md "wikilink") 계열에서 방송되었던 [버라이어티 프로그램이다](../Page/버라이어티_쇼.md "wikilink").

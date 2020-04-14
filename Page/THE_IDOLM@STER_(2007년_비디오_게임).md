@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE IDOLM@STER \(2007  \)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_\(2007__\)).
+> This article is converted from Wikipedia: [THE IDOLM@STER \(2007년 비디오 게임\)](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_\(2007년_비디오_게임\)).
 
 
 \<**THE IDOLM@STER**\> (아이돌마스터)는 [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2007년](../Page/2007년.md "wikilink") [1월 25일에](../Page/1월_25일.md "wikilink") 발매한 [Xbox 360용](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") [아이돌 육성 시뮬레이션](https://ko.wikipedia.org/wiki/육성_시뮬레이션_게임 "wikilink") 게임.

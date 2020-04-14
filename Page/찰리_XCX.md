@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XCX](https://ko.wikipedia.org/wiki/_XCX).
+> This article is converted from Wikipedia: [찰리 XCX](https://ko.wikipedia.org/wiki/찰리_XCX).
 
 
 **샬럿 에마 에이치슨**(, [1992년](../Page/1992년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink") \~ )은 **찰리 XCX**()라는 이름으로 잘 알려진 [인도](../Page/인도.md "wikilink")계 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.

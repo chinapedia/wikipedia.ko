@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  \( \)](https://ko.wikipedia.org/wiki/KBS__\(_\)).
+> This article is converted from Wikipedia: [KBS 월드 \(텔레비전 채널\)](https://ko.wikipedia.org/wiki/KBS_월드_\(텔레비전_채널\)).
 
 
 **KBS 월드**(KBS World)는 [2003년](../Page/2003년.md "wikilink")에 설립된 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")의 국제 TV 방송국이다. 대부분의 프로그램은 영어 자막으로 한국어로 방송이 나간다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 두클라 프라하](https://ko.wikipedia.org/wiki/FK_두클라_프라하).
 
 
 **FK 두클라 프라하**()는 [체코](../Page/체코.md "wikilink") [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink")를 연고로 하는 축구 클럽으로 [스타디온 율리스카를](https://ko.wikipedia.org/wiki/스타디온_율리스카 "wikilink") 홈구장으로 하며, 2014-15 시즌 현재 1부리그인 [시노트리가](https://ko.wikipedia.org/wiki/시노트리가 "wikilink")에 소속되어있다. 1958년 '두클라 데이비체'라는 이름으로 창단하였으나 2001년에 현재 명칭으로 재창단 되었으며 2011-12 시즌부터 1부리그로 승격되었다.
